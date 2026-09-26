@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madball | 198484 | [198484-madball.json](./198484-madball.json) |
 | Madballs Arcade | 98925 | [98925-madballs-arcade.json](./98925-madballs-arcade.json) |
 | Madcap Grotto | 330290 | [330290-madcap-grotto.json](./330290-madcap-grotto.json) |
+| Madcap Mosaic | 212746 | [212746-madcap-mosaic.json](./212746-madcap-mosaic.json) |
 | Madcap's Plane | 367621 | [367621-madcaps-plane.json](./367621-madcaps-plane.json) |
 | Madcoaster | 22324 | [22324-madcoaster.json](./22324-madcoaster.json) |
 | Madden genesis | 178024 | [178024-madden-genesis.json](./178024-madden-genesis.json) |
@@ -2410,6 +2411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maxwell Manor | 25979 | [25979-maxwell-manor.json](./25979-maxwell-manor.json) |
 | Maxwell's Wicked Dollhouse | 215617 | [215617-maxwells-wicked-dollhouse.json](./215617-maxwells-wicked-dollhouse.json) |
 | Maxwell's World | 281504 | [281504-maxwells-world.json](./281504-maxwells-world.json) |
+| May | 212771 | [212771-may.json](./212771-may.json) |
 | May Angels Fall Down | 257094 | [257094-may-angels-fall-down.json](./257094-may-angels-fall-down.json) |
 | May Blues | 153990 | [153990-may-blues.json](./153990-may-blues.json) |
 | May Club | 73791 | [73791-may-club.json](./73791-may-club.json) |
@@ -3561,6 +3563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mental Drift | 64643 | [64643-mental-drift.json](./64643-mental-drift.json) |
 | Mental Harm | 235751 | [235751-mental-harm.json](./235751-mental-harm.json) |
 | Mental Hospital II HD | 175302 | [175302-mental-hospital-ii-hd.json](./175302-mental-hospital-ii-hd.json) |
+| Mental Hospital III HD | 212783 | [212783-mental-hospital-iii-hd.json](./212783-mental-hospital-iii-hd.json) |
 | Mental Hospital IV | 292817 | [292817-mental-hospital-iv.json](./292817-mental-hospital-iv.json) |
 | Mental Hospital V | 200030 | [200030-mental-hospital-v.json](./200030-mental-hospital-v.json) |
 | Mental Salvo | 311659 | [311659-mental-salvo.json](./311659-mental-salvo.json) |
@@ -4049,6 +4052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mew's Under The Truck | 276486 | [276486-mews-under-the-truck.json](./276486-mews-under-the-truck.json) |
 | Mewing Simulator | 312024 | [312024-mewing-simulator.json](./312024-mewing-simulator.json) |
 | MewMew PewPew | 201225 | [201225-mewmew-pewpew.json](./201225-mewmew-pewpew.json) |
+| Mewn | 212772 | [212772-mewn.json](./212772-mewn.json) |
 | Mewnbase | 54984 | [54984-mewnbase.json](./54984-mewnbase.json) |
 | Mewseum: Film Festival | 391165 | [391165-mewseum-film-festival.json](./391165-mewseum-film-festival.json) |
 | Mewts | 388949 | [388949-mewts.json](./388949-mewts.json) |
@@ -5852,6 +5856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momo Mother Bird: Final Story | 209483 | [209483-momo-mother-bird-final-story.json](./209483-momo-mother-bird-final-story.json) |
 | Momo.exe 2 | 110175 | [110175-momo-exe-2.json](./110175-momo-exe-2.json) |
 | Momo's Conflict | 207526 | [207526-momos-conflict.json](./207526-momos-conflict.json) |
+| Momo's Diary | 212780 | [212780-momos-diary.json](./212780-momos-diary.json) |
 | Momodora III | 17436 | [17436-momodora-iii.json](./17436-momodora-iii.json) |
 | Momodora: Moonlit Farewell | 188088 | [188088-momodora-moonlit-farewell.json](./188088-momodora-moonlit-farewell.json) |
 | Momoe Link | 183052 | [183052-momoe-link.json](./183052-momoe-link.json) |
@@ -6417,6 +6422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moomin Midsummer Madness | 404859 | [404859-moomin-midsummer-madness.json](./404859-moomin-midsummer-madness.json) |
 | Moomin no Suteki na Present | 230276 | [230276-moomin-no-suteki-na-present.json](./230276-moomin-no-suteki-na-present.json) |
 | Moomin's Tale | 49859 | [49859-moomins-tale.json](./49859-moomins-tale.json) |
+| Moon | 212774 | [212774-moon.json](./212774-moon.json) |
 | Moon | 242775 | [242775-moon.json](./242775-moon.json) |
 | Moon 2999 | 302939 | [302939-moon-2999.json](./302939-moon-2999.json) |
 | Moon Alert | 73795 | [73795-moon-alert.json](./73795-moon-alert.json) |
@@ -6507,6 +6513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlighter: Between Dimensions | 119236 | [119236-moonlighter-between-dimensions.json](./119236-moonlighter-between-dimensions.json) |
 | Moonlit | 263437 | [263437-moonlit.json](./263437-moonlit.json) |
 | Moonlit Embrace | 311051 | [311051-moonlit-embrace.json](./311051-moonlit-embrace.json) |
+| Moonlit Lobby | 212773 | [212773-moonlit-lobby.json](./212773-moonlit-lobby.json) |
 | Moonlit Nights | 386146 | [386146-moonlit-nights.json](./386146-moonlit-nights.json) |
 | MoonLost | 387344 | [387344-moonlost.json](./387344-moonlost.json) |
 | MoonMan Adventures | 305923 | [305923-moonman-adventures.json](./305923-moonman-adventures.json) |
