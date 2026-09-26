@@ -3962,6 +3962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anuto TD | 207846 | [207846-anuto-td.json](./207846-anuto-td.json) |
 | Anvil | 226234 | [226234-anvil.json](./226234-anvil.json) |
 | Anvil Empires | 243273 | [243273-anvil-empires.json](./243273-anvil-empires.json) |
+| Anvil Life | 212235 | [212235-anvil-life.json](./212235-anvil-life.json) |
 | Anvil Survivors | 396403 | [396403-anvil-survivors.json](./396403-anvil-survivors.json) |
 | Anxieties | 335699 | [335699-anxieties.json](./335699-anxieties.json) |
 | Anxiety | 51572 | [51572-anxiety.json](./51572-anxiety.json) |
