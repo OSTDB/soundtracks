@@ -2530,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evangeline's Defense | 203556 | [203556-evangelines-defense.json](./203556-evangelines-defense.json) |
 | Evangelion: Breaking Dawn | 382795 | [382795-evangelion-breaking-dawn.json](./382795-evangelion-breaking-dawn.json) |
 | Evangelion: Jo | 67657 | [67657-evangelion-jo.json](./67657-evangelion-jo.json) |
+| Evard the Hermit: Through Fears | 221152 | [221152-evard-the-hermit-through-fears.json](./221152-evard-the-hermit-through-fears.json) |
 | Evasion | 346055 | [346055-evasion.json](./346055-evasion.json) |
 | Evasion from Cluster 42 | 259283 | [259283-evasion-from-cluster-42.json](./259283-evasion-from-cluster-42.json) |
 | Evasive | 273917 | [273917-evasive.json](./273917-evasive.json) |
