@@ -10345,6 +10345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torej: Red Cubes | 61611 | [61611-torej-red-cubes.json](./61611-torej-red-cubes.json) |
 | Tori | 95218 | [95218-tori.json](./95218-tori.json) |
 | Tori Note | 289403 | [289403-tori-note.json](./289403-tori-note.json) |
+| Tori-Emaki | 206084 | [206084-tori-emaki.json](./206084-tori-emaki.json) |
 | Toricky S | 151650 | [151650-toricky-s.json](./151650-toricky-s.json) |
 | Torico's B-day Gift Hunt | 232968 | [232968-toricos-b-day-gift-hunt.json](./232968-toricos-b-day-gift-hunt.json) |
 | Toridama 2: Brave Challenge | 300841 | [300841-toridama-2-brave-challenge.json](./300841-toridama-2-brave-challenge.json) |
@@ -10373,6 +10374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torn Earth | 114803 | [114803-torn-earth.json](./114803-torn-earth.json) |
 | Torn Sails | 27909 | [27909-torn-sails.json](./27909-torn-sails.json) |
 | Torn Tales | 34773 | [34773-torn-tales.json](./34773-torn-tales.json) |
+| Tornado | 206085 | [206085-tornado.json](./206085-tornado.json) |
 | Tornado | 233481 | [233481-tornado.json](./233481-tornado.json) |
 | Tornado | 266173 | [266173-tornado.json](./266173-tornado.json) |
 | Tornado | 266469 | [266469-tornado.json](./266469-tornado.json) |
@@ -10512,6 +10514,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Spies! Cyber Mission | 302511 | [302511-totally-spies-cyber-mission.json](./302511-totally-spies-cyber-mission.json) |
 | Totally Spies! The Mobile Game | 317003 | [317003-totally-spies-the-mobile-game.json](./317003-totally-spies-the-mobile-game.json) |
 | Totally Spies! Totally Party | 5238 | [5238-totally-spies-totally-party.json](./5238-totally-spies-totally-party.json) |
+| Totally Spies!: Swamp Monster Blues | 206090 | [206090-totally-spies-swamp-monster-blues.json](./206090-totally-spies-swamp-monster-blues.json) |
+| Totally Spies!: Total Swamp Romp | 206079 | [206079-totally-spies-total-swamp-romp.json](./206079-totally-spies-total-swamp-romp.json) |
+| Totally Spies!: Zombie Jamboree! | 206091 | [206091-totally-spies-zombie-jamboree.json](./206091-totally-spies-zombie-jamboree.json) |
 | Totally Tattoos | 200603 | [200603-totally-tattoos.json](./200603-totally-tattoos.json) |
 | Totally Tuberz | 373074 | [373074-totally-tuberz.json](./373074-totally-tuberz.json) |
 | Totally Unbalanced | 32402 | [32402-totally-unbalanced.json](./32402-totally-unbalanced.json) |
@@ -10769,6 +10774,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tourist Bus Simulator: W906 | 168893 | [168893-tourist-bus-simulator-w906.json](./168893-tourist-bus-simulator-w906.json) |
 | Tourist Trophy | 8213 | [8213-tourist-trophy.json](./8213-tourist-trophy.json) |
 | Tournament Blackjack | 70101 | [70101-tournament-blackjack.json](./70101-tournament-blackjack.json) |
+| Tournament Chess | 206080 | [206080-tournament-chess.json](./206080-tournament-chess.json) |
+| Tournament Chess II | 206081 | [206081-tournament-chess-ii.json](./206081-tournament-chess-ii.json) |
 | Tournament of Armistice: Preliminaries | 163853 | [163853-tournament-of-armistice-preliminaries.json](./163853-tournament-of-armistice-preliminaries.json) |
 | Tournament of Tamers | 157168 | [157168-tournament-of-tamers.json](./157168-tournament-of-tamers.json) |
 | Tournament Pool | 396580 | [396580-tournament-pool.json](./396580-tournament-pool.json) |
@@ -11726,6 +11733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz: Classic Cabon City | 27895 | [27895-trainz-classic-cabon-city.json](./27895-trainz-classic-cabon-city.json) |
 | Trainz: Driver Edition | 206748 | [206748-trainz-driver-edition.json](./206748-trainz-driver-edition.json) |
 | Trainz: Settle & Carlisle | 62419 | [62419-trainz-settle-and-carlisle.json](./62419-trainz-settle-and-carlisle.json) |
+| Trainz: The Complete Collection | 206077 | [206077-trainz-the-complete-collection.json](./206077-trainz-the-complete-collection.json) |
 | Trait | 326271 | [326271-trait.json](./326271-trait.json) |
 | Traitor | 275639 | [275639-traitor.json](./275639-traitor.json) |
 | Traitor Nightly | 183454 | [183454-traitor-nightly.json](./183454-traitor-nightly.json) |
@@ -11962,6 +11970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travelling Light | 404812 | [404812-travelling-light.json](./404812-travelling-light.json) |
 | Travelogue 360: Paris | 65182 | [65182-travelogue-360-paris.json](./65182-travelogue-360-paris.json) |
 | Traveloot | 392163 | [392163-traveloot.json](./392163-traveloot.json) |
+| Travelrama USA | 206078 | [206078-travelrama-usa.json](./206078-travelrama-usa.json) |
 | Traverse: Starlight & Prairie | 37782 | [37782-traverse-starlight-and-prairie.json](./37782-traverse-starlight-and-prairie.json) |
 | Traversion | 274527 | [274527-traversion.json](./274527-traversion.json) |
 | Travian: Kingdoms | 31910 | [31910-travian-kingdoms.json](./31910-travian-kingdoms.json) |
@@ -12044,7 +12053,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasures of the Aegean | 146900 | [146900-treasures-of-the-aegean.json](./146900-treasures-of-the-aegean.json) |
 | Treasures of the Aegean: Collector's Edition | 170031 | [170031-treasures-of-the-aegean-collectors-edition.json](./170031-treasures-of-the-aegean-collectors-edition.json) |
 | Treasures of the Ancients: Egypt | 102184 | [102184-treasures-of-the-ancients-egypt.json](./102184-treasures-of-the-ancients-egypt.json) |
+| Treasures of the Deep | 206072 | [206072-treasures-of-the-deep.json](./206072-treasures-of-the-deep.json) |
 | Treasures of the Haunted Forest | 273645 | [273645-treasures-of-the-haunted-forest.json](./273645-treasures-of-the-haunted-forest.json) |
+| Treasures of the Serengeti | 206073 | [206073-treasures-of-the-serengeti.json](./206073-treasures-of-the-serengeti.json) |
 | TreasureTails | 386422 | [386422-treasuretails.json](./386422-treasuretails.json) |
 | Treble Cat | 89690 | [89690-treble-cat.json](./89690-treble-cat.json) |
 | Trebuchet | 36086 | [36086-trebuchet.json](./36086-trebuchet.json) |
@@ -12101,6 +12112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tri Zone | 130869 | [130869-tri-zone.json](./130869-tri-zone.json) |
 | Tri-bo | 381124 | [381124-tri-bo.json](./381124-tri-bo.json) |
 | Tri-Ger | 377580 | [377580-tri-ger.json](./377580-tri-ger.json) |
+| Tri-Peaks 2: Quest for the Ruby Ring | 206076 | [206076-tri-peaks-2-quest-for-the-ruby-ring.json](./206076-tri-peaks-2-quest-for-the-ruby-ring.json) |
 | Tri-Peaks Solitaire HD | 355005 | [355005-tri-peaks-solitaire-hd.json](./355005-tri-peaks-solitaire-hd.json) |
 | Tri-Strip | 85456 | [85456-tri-strip.json](./85456-tri-strip.json) |
 | Tri: Of Friendship and Madness | 2998 | [2998-tri-of-friendship-and-madness.json](./2998-tri-of-friendship-and-madness.json) |
@@ -12171,12 +12183,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TribeQuest: Red Killer | 34771 | [34771-tribequest-red-killer.json](./34771-tribequest-red-killer.json) |
 | Tribes 2 | 922 | [922-tribes-2.json](./922-tribes-2.json) |
 | Tribes Action Pack | 100118 | [100118-tribes-action-pack.json](./100118-tribes-action-pack.json) |
+| Tribes Extreme | 206074 | [206074-tribes-extreme.json](./206074-tribes-extreme.json) |
 | Tribes of Midgard | 120619 | [120619-tribes-of-midgard.json](./120619-tribes-of-midgard.json) |
 | Tribes Universe | 91893 | [91893-tribes-universe.json](./91893-tribes-universe.json) |
 | Tribes Warfare | 188051 | [188051-tribes-warfare.json](./188051-tribes-warfare.json) |
 | Tribes: Vengeance | 923 | [923-tribes-vengeance.json](./923-tribes-vengeance.json) |
 | Tribio puzzle: Strategic Spot | 253022 | [253022-tribio-puzzle-strategic-spot.json](./253022-tribio-puzzle-strategic-spot.json) |
 | Tribloos 3 | 104685 | [104685-tribloos-3.json](./104685-tribloos-3.json) |
+| Tribond | 206075 | [206075-tribond.json](./206075-tribond.json) |
 | Triboo | 85455 | [85455-triboo.json](./85455-triboo.json) |
 | Tribulum | 410983 | [410983-tribulum.json](./410983-tribulum.json) |
 | Tribute | 293387 | [293387-tribute.json](./293387-tribute.json) |
@@ -12308,6 +12322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Running Sports | 85460 | [85460-triple-running-sports.json](./85460-triple-running-sports.json) |
 | Triple Take | 173277 | [173277-triple-take.json](./173277-triple-take.json) |
 | Triple Threat Pinball | 125861 | [125861-triple-threat-pinball.json](./125861-triple-threat-pinball.json) |
+| Triple Threat: An Arcade Adventure | 206071 | [206071-triple-threat-an-arcade-adventure.json](./206071-triple-threat-an-arcade-adventure.json) |
 | Triple Throwing Sports | 85459 | [85459-triple-throwing-sports.json](./85459-triple-throwing-sports.json) |
 | Triple Tiles | 178548 | [178548-triple-tiles.json](./178548-triple-tiles.json) |
 | Triple Tournament | 313098 | [313098-triple-tournament.json](./313098-triple-tournament.json) |
@@ -12419,6 +12434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Princess - Makeup and Dressup Salon Game | 86855 | [86855-tropical-princess-makeup-and-dressup-salon-game.json](./86855-tropical-princess-makeup-and-dressup-salon-game.json) |
 | Tropical Resort Story | 208026 | [208026-tropical-resort-story.json](./208026-tropical-resort-story.json) |
 | Tropical Stormfront | 9442 | [9442-tropical-stormfront.json](./9442-tropical-stormfront.json) |
+| Tropical Swaps 2 | 206082 | [206082-tropical-swaps-2.json](./206082-tropical-swaps-2.json) |
 | Tropical Treasure Hunt | 386882 | [386882-tropical-treasure-hunt.json](./386882-tropical-treasure-hunt.json) |
 | Tropical Treats | 103885 | [103885-tropical-treats.json](./103885-tropical-treats.json) |
 | Tropical Trouble | 18589 | [18589-tropical-trouble.json](./18589-tropical-trouble.json) |
@@ -12757,8 +12773,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuma-7 | 141842 | [141842-tuma-7.json](./141842-tuma-7.json) |
 | Tumble Baby | 182521 | [182521-tumble-baby.json](./182521-tumble-baby.json) |
 | Tumble Ball | 295567 | [295567-tumble-ball.json](./295567-tumble-ball.json) |
+| Tumble Bees | 206083 | [206083-tumble-bees.json](./206083-tumble-bees.json) |
 | Tumble Bees HD | 355008 | [355008-tumble-bees-hd.json](./355008-tumble-bees-hd.json) |
+| Tumble Bees to Go | 206068 | [206068-tumble-bees-to-go.json](./206068-tumble-bees-to-go.json) |
 | Tumble Egg | 333184 | [333184-tumble-egg.json](./333184-tumble-egg.json) |
+| Tumble Jumble | 206067 | [206067-tumble-jumble.json](./206067-tumble-jumble.json) |
 | Tumble Marble | 393605 | [393605-tumble-marble.json](./393605-tumble-marble.json) |
 | Tumble Toys: Aviation | 215897 | [215897-tumble-toys-aviation.json](./215897-tumble-toys-aviation.json) |
 | Tumble Troopers | 327214 | [327214-tumble-troopers.json](./327214-tumble-troopers.json) |
@@ -12821,6 +12840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Dash | 329066 | [329066-turbo-dash.json](./329066-turbo-dash.json) |
 | Turbo Dismount 2 | 319769 | [319769-turbo-dismount-2.json](./319769-turbo-dismount-2.json) |
 | Turbo DX | 313106 | [313106-turbo-dx.json](./313106-turbo-dx.json) |
+| Turbo Fiesta | 206069 | [206069-turbo-fiesta.json](./206069-turbo-fiesta.json) |
 | Turbo Golf Racing | 194736 | [194736-turbo-golf-racing.json](./194736-turbo-golf-racing.json) |
 | Turbo Hovercraft | 359418 | [359418-turbo-hovercraft.json](./359418-turbo-hovercraft.json) |
 | Turbo Kid | 212164 | [212164-turbo-kid.json](./212164-turbo-kid.json) |
@@ -12838,6 +12858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Soccer VR | 102131 | [102131-turbo-soccer-vr.json](./102131-turbo-soccer-vr.json) |
 | Turbo Sprint | 229785 | [229785-turbo-sprint.json](./229785-turbo-sprint.json) |
 | Turbo Stars | 352166 | [352166-turbo-stars.json](./352166-turbo-stars.json) |
+| Turbo Subs | 206070 | [206070-turbo-subs.json](./206070-turbo-subs.json) |
 | Turbo Tempest | 153953 | [153953-turbo-tempest.json](./153953-turbo-tempest.json) |
 | Turbo Titans | 391883 | [391883-turbo-titans.json](./391883-turbo-titans.json) |
 | Turbo Trax | 12802 | [12802-turbo-trax.json](./12802-turbo-trax.json) |
@@ -13121,6 +13142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twister | 91394 | [91394-twister.json](./91394-twister.json) |
 | Twister Mania | 20216 | [20216-twister-mania.json](./20216-twister-mania.json) |
 | Twister Road | 125251 | [125251-twister-road.json](./125251-twister-road.json) |
+| Twistingo | 206061 | [206061-twistingo.json](./206061-twistingo.json) |
 | Twistingo: Bird Paradise - Collector's Edition | 236204 | [236204-twistingo-bird-paradise-collectors-edition.json](./236204-twistingo-bird-paradise-collectors-edition.json) |
 | Twistingo: Collector's Edition | 211708 | [211708-twistingo-collectors-edition.json](./211708-twistingo-collectors-edition.json) |
 | TwistoMaze | 132186 | [132186-twistomaze.json](./132186-twistomaze.json) |
