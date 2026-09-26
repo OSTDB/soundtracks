@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You are Dough | 243643 | [243643-you-are-dough.json](./243643-you-are-dough.json) |
 | You Are Grounded | 370191 | [370191-you-are-grounded.json](./370191-you-are-grounded.json) |
 | You Are Here | 114169 | [114169-you-are-here.json](./114169-you-are-here.json) |
+| You Are Lost | 181158 | [181158-you-are-lost.json](./181158-you-are-lost.json) |
 | You Are Mine2 Otome Love Story | 231876 | [231876-you-are-mine2-otome-love-story.json](./231876-you-are-mine2-otome-love-story.json) |
 | YOU ARE MY HOME | 300762 | [300762-you-are-my-home.json](./300762-you-are-my-home.json) |
 | You Are Not A Banana | 36016 | [36016-you-are-not-a-banana.json](./36016-you-are-not-a-banana.json) |
