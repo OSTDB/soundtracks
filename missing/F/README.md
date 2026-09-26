@@ -882,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fap Queen | 110145 | [110145-fap-queen.json](./110145-fap-queen.json) |
 | Fap Titans | 98475 | [98475-fap-titans.json](./98475-fap-titans.json) |
 | Fap&Click | 331100 | [331100-fap-and-click.json](./331100-fap-and-click.json) |
+| Faptastic Journey | 194316 | [194316-faptastic-journey.json](./194316-faptastic-journey.json) |
 | Far a Night | 389617 | [389617-far-a-night.json](./389617-far-a-night.json) |
 | Far Away Train | 150527 | [150527-far-away-train.json](./150527-far-away-train.json) |
 | Far Cry 3: High Tides | 284318 | [284318-far-cry-3-high-tides.json](./284318-far-cry-3-high-tides.json) |
@@ -4525,6 +4526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frankenstein: Birth of a Myth | 109569 | [109569-frankenstein-birth-of-a-myth.json](./109569-frankenstein-birth-of-a-myth.json) |
 | Frankenstein: The Village | 177050 | [177050-frankenstein-the-village.json](./177050-frankenstein-the-village.json) |
 | Frankenstein's Monster | 22763 | [22763-frankensteins-monster.json](./22763-frankensteins-monster.json) |
+| Frankenstories | 194289 | [194289-frankenstories.json](./194289-frankenstories.json) |
 | FrankenStorm TD | 236236 | [236236-frankenstorm-td.json](./236236-frankenstorm-td.json) |
 | Frankie and Suede Private Detectives | 310028 | [310028-frankie-and-suede-private-detectives.json](./310028-frankie-and-suede-private-detectives.json) |
 | Frankie's FunClub | 340244 | [340244-frankies-funclub.json](./340244-frankies-funclub.json) |
