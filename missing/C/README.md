@@ -7495,6 +7495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuber 3: Schmidt | 284357 | [284357-cuber-3-schmidt.json](./284357-cuber-3-schmidt.json) |
 | CubeRace | 114953 | [114953-cuberace.json](./114953-cuberace.json) |
 | CubeRun | 89268 | [89268-cuberun.json](./89268-cuberun.json) |
+| Cuberuns | 210631 | [210631-cuberuns.json](./210631-cuberuns.json) |
 | Cubes and More Cubes | 180221 | [180221-cubes-and-more-cubes.json](./180221-cubes-and-more-cubes.json) |
 | Cubes Crush Legend | 174819 | [174819-cubes-crush-legend.json](./174819-cubes-crush-legend.json) |
 | Cubes: Procedural Wonders | 240339 | [240339-cubes-procedural-wonders.json](./240339-cubes-procedural-wonders.json) |
@@ -7953,6 +7954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Knight II: Chikyuu Teikoku no Yabou | 42548 | [42548-cyber-knight-ii-chikyuu-teikoku-no-yabou.json](./42548-cyber-knight-ii-chikyuu-teikoku-no-yabou.json) |
 | Cyber Knights: Flashpoint | 129596 | [129596-cyber-knights-flashpoint.json](./129596-cyber-knights-flashpoint.json) |
 | Cyber Lab | 379029 | [379029-cyber-lab.json](./379029-cyber-lab.json) |
+| Cyber Lancer | 210572 | [210572-cyber-lancer.json](./210572-cyber-lancer.json) |
 | Cyber Lust | 241988 | [241988-cyber-lust.json](./241988-cyber-lust.json) |
 | Cyber Manhunt: Hello World | 188493 | [188493-cyber-manhunt-hello-world.json](./188493-cyber-manhunt-hello-world.json) |
 | Cyber Neon Bundle | 246880 | [246880-cyber-neon-bundle.json](./246880-cyber-neon-bundle.json) |
