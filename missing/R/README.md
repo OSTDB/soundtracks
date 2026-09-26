@@ -1526,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recreation Room | 369732 | [369732-recreation-room.json](./369732-recreation-room.json) |
 | Recreational Dreaming | 83574 | [83574-recreational-dreaming.json](./83574-recreational-dreaming.json) |
 | Recreational Warfare | 251182 | [251182-recreational-warfare.json](./251182-recreational-warfare.json) |
+| Recrew! | 176823 | [176823-recrew.json](./176823-recrew.json) |
 | Recruit One | 157707 | [157707-recruit-one.json](./157707-recruit-one.json) |
 | Recruits | 16626 | [16626-recruits.json](./16626-recruits.json) |
 | Rectangle Guy | 215905 | [215905-rectangle-guy.json](./215905-rectangle-guy.json) |
@@ -4671,6 +4672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rough Justice: '84 | 133154 | [133154-rough-justice-84.json](./133154-rough-justice-84.json) |
 | Rough Kuts: 3D | 200572 | [200572-rough-kuts-3d.json](./200572-rough-kuts-3d.json) |
 | Rough Ranger | 78369 | [78369-rough-ranger.json](./78369-rough-ranger.json) |
+| Rough Waters Decentralised Tarots | 176810 | [176810-rough-waters-decentralised-tarots.json](./176810-rough-waters-decentralised-tarots.json) |
 | Rougien | 292097 | [292097-rougien.json](./292097-rougien.json) |
 | Roulette | 147900 | [147900-roulette.json](./147900-roulette.json) |
 | Roulette | 366926 | [366926-roulette.json](./366926-roulette.json) |
@@ -5194,6 +5196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runner's High | 266281 | [266281-runners-high.json](./266281-runners-high.json) |
 | Runner2: Good Friends Character Pack | 226929 | [226929-runner2-good-friends-character-pack.json](./226929-runner2-good-friends-character-pack.json) |
 | RunnerDot | 153986 | [153986-runnerdot.json](./153986-runnerdot.json) |
+| Runners | 176817 | [176817-runners.json](./176817-runners.json) |
 | RunnerSky | 181395 | [181395-runnersky.json](./181395-runnersky.json) |
 | RunnerSky | 264561 | [264561-runnersky.json](./264561-runnersky.json) |
 | Running Back to You | 191894 | [191894-running-back-to-you.json](./191894-running-back-to-you.json) |
