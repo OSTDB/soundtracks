@@ -1149,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Extremis | 31162 | [31162-in-extremis.json](./31162-in-extremis.json) |
 | In Extremis DX | 225759 | [225759-in-extremis-dx.json](./225759-in-extremis-dx.json) |
 | In Harness | 369083 | [369083-in-harness.json](./369083-in-harness.json) |
+| In Hazy Clouds | 212761 | [212761-in-hazy-clouds.json](./212761-in-hazy-clouds.json) |
 | In Her Head | 276846 | [276846-in-her-head.json](./276846-in-her-head.json) |
 | In Hope Voiden | 350022 | [350022-in-hope-voiden.json](./350022-in-hope-voiden.json) |
 | In Light | 68278 | [68278-in-light.json](./68278-in-light.json) |
@@ -1684,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injustice 2: Starfire | 165038 | [165038-injustice-2-starfire.json](./165038-injustice-2-starfire.json) |
 | Injustice 2: The Atom | 165044 | [165044-injustice-2-the-atom.json](./165044-injustice-2-the-atom.json) |
 | Injustice 3 | 139807 | [139807-injustice-3.json](./139807-injustice-3.json) |
+| Injustice Arcade | 212781 | [212781-injustice-arcade.json](./212781-injustice-arcade.json) |
 | Injustice: Containment Suit Doomsday | 305201 | [305201-injustice-containment-suit-doomsday.json](./305201-injustice-containment-suit-doomsday.json) |
 | Injustice: Gods Among Us | 77354 | [77354-injustice-gods-among-us.json](./77354-injustice-gods-among-us.json) |
 | Injustice: Gods Among Us - Ame-Comi Skins | 75477 | [75477-injustice-gods-among-us-ame-comi-skins.json](./75477-injustice-gods-among-us-ame-comi-skins.json) |
