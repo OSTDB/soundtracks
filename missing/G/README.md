@@ -2309,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobot | 153987 | [153987-gobot.json](./153987-gobot.json) |
 | Gobotix: Duo | 376435 | [376435-gobotix-duo.json](./376435-gobotix-duo.json) |
 | Gobs of Games | 49928 | [49928-gobs-of-games.json](./49928-gobs-of-games.json) |
+| Gobs of Glory | 216731 | [216731-gobs-of-glory.json](./216731-gobs-of-glory.json) |
 | Gobsmacked! | 358864 | [358864-gobsmacked.json](./358864-gobsmacked.json) |
 | Gobstruck | 398411 | [398411-gobstruck.json](./398411-gobstruck.json) |
 | Gobyworld | 245828 | [245828-gobyworld.json](./245828-gobyworld.json) |
@@ -2811,6 +2812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Google: Image Breakout | 225628 | [225628-google-image-breakout.json](./225628-google-image-breakout.json) |
 | Google: Squid Game | 327862 | [327862-google-squid-game.json](./327862-google-squid-game.json) |
 | googolChooChoo3D2 | 106990 | [106990-googolchoochoo3d2.json](./106990-googolchoochoo3d2.json) |
+| Googoo: Bash! | 216728 | [216728-googoo-bash.json](./216728-googoo-bash.json) |
 | GooGooRise | 304628 | [304628-googoorise.json](./304628-googoorise.json) |
 | Gooing Up! | 321340 | [321340-gooing-up.json](./321340-gooing-up.json) |
 | Goolems | 244233 | [244233-goolems.json](./244233-goolems.json) |
