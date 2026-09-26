@@ -1427,7 +1427,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingsman: The Golden Circle | 54712 | [54712-kingsman-the-golden-circle.json](./54712-kingsman-the-golden-circle.json) |
 | Kingspray Graffiti | 26358 | [26358-kingspray-graffiti.json](./26358-kingspray-graffiti.json) |
 | Kingsvein | 243670 | [243670-kingsvein.json](./243670-kingsvein.json) |
+| Kingyo Chuuihou! 2 Gyopi-chan wo Sagase! | 194939 | [194939-kingyo-chuuihou-2-gyopi-chan-wo-sagase.json](./194939-kingyo-chuuihou-2-gyopi-chan-wo-sagase.json) |
 | Kingyo Chuuihou! Tobidase! Game Gakuen | 37959 | [37959-kingyo-chuuihou-tobidase-game-gakuen.json](./37959-kingyo-chuuihou-tobidase-game-gakuen.json) |
+| Kingyo Chuuihou! Wapiko no Waku-waku Stamp Rally | 194938 | [194938-kingyo-chuuihou-wapiko-no-waku-waku-stamp-rally.json](./194938-kingyo-chuuihou-wapiko-no-waku-waku-stamp-rally.json) |
 | Kiniro Mosaic Memories | 202390 | [202390-kiniro-mosaic-memories.json](./202390-kiniro-mosaic-memories.json) |
 | Kiniro no Corda 2 | 57703 | [57703-kiniro-no-corda-2.json](./57703-kiniro-no-corda-2.json) |
 | Kiniro no Corda 2: Encore | 57704 | [57704-kiniro-no-corda-2-encore.json](./57704-kiniro-no-corda-2-encore.json) |
