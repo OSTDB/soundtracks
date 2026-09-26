@@ -2611,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SFCave | 87233 | [87233-sfcave.json](./87233-sfcave.json) |
 | SFG Soccer | 66700 | [66700-sfg-soccer.json](./66700-sfg-soccer.json) |
 | Sfsim | 415868 | [415868-sfsim.json](./415868-sfsim.json) |
+| SG Racing | 207760 | [207760-sg-racing.json](./207760-sg-racing.json) |
 | SGC: Short Games Collection #1 | 173141 | [173141-sgc-short-games-collection-1.json](./173141-sgc-short-games-collection-1.json) |
 | SGS Battle For: Dien Bien Phu | 298119 | [298119-sgs-battle-for-dien-bien-phu.json](./298119-sgs-battle-for-dien-bien-phu.json) |
 | SGS Battle For: Stalingrad | 244900 | [244900-sgs-battle-for-stalingrad.json](./244900-sgs-battle-for-stalingrad.json) |
@@ -12622,6 +12623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Birds Puzzles | 155628 | [155628-super-jigsaw-puzzle-generations-birds-puzzles.json](./155628-super-jigsaw-puzzle-generations-birds-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Boats Puzzles | 155607 | [155607-super-jigsaw-puzzle-generations-boats-puzzles.json](./155607-super-jigsaw-puzzle-generations-boats-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Brazil Puzzles | 155596 | [155596-super-jigsaw-puzzle-generations-brazil-puzzles.json](./155596-super-jigsaw-puzzle-generations-brazil-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Bridges | 207785 | [207785-super-jigsaw-puzzle-generations-bridges.json](./207785-super-jigsaw-puzzle-generations-bridges.json) |
 | Super Jigsaw Puzzle: Generations - Bugs Puzzles | 155593 | [155593-super-jigsaw-puzzle-generations-bugs-puzzles.json](./155593-super-jigsaw-puzzle-generations-bugs-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Canada | 195279 | [195279-super-jigsaw-puzzle-generations-canada.json](./195279-super-jigsaw-puzzle-generations-canada.json) |
 | Super Jigsaw Puzzle: Generations - Cars Puzzles | 155592 | [155592-super-jigsaw-puzzle-generations-cars-puzzles.json](./155592-super-jigsaw-puzzle-generations-cars-puzzles.json) |
