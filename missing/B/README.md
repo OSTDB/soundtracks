@@ -1066,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode World Senyou Card: Vinyl no Katana | 329747 | [329747-barcode-world-senyou-card-vinyl-no-katana.json](./329747-barcode-world-senyou-card-vinyl-no-katana.json) |
 | Barcode World Senyou Card: Yumetaro & Ohagi (Gimmick) | 329741 | [329741-barcode-world-senyou-card-yumetaro-and-ohagi-gimmick.json](./329741-barcode-world-senyou-card-yumetaro-and-ohagi-gimmick.json) |
 | Bard to the Future | 36094 | [36094-bard-to-the-future.json](./36094-bard-to-the-future.json) |
+| Bard: Keep the Story Alive | 178974 | [178974-bard-keep-the-story-alive.json](./178974-bard-keep-the-story-alive.json) |
 | Bard's Gold: Complete Edition | 214520 | [214520-bards-gold-complete-edition.json](./214520-bards-gold-complete-edition.json) |
 | Bard's Lesson | 184419 | [184419-bards-lesson.json](./184419-bards-lesson.json) |
 | Barda | 345592 | [345592-barda.json](./345592-barda.json) |
@@ -1903,6 +1904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bazar Don JC | 404447 | [404447-bazar-don-jc.json](./404447-bazar-don-jc.json) |
 | Bazar Simulator Online | 377169 | [377169-bazar-simulator-online.json](./377169-bazar-simulator-online.json) |
 | Bazar Simulator: The Wan Story | 331338 | [331338-bazar-simulator-the-wan-story.json](./331338-bazar-simulator-the-wan-story.json) |
+| Bazoik | 178938 | [178938-bazoik.json](./178938-bazoik.json) |
 | Bazooka Blitzkrieg | 42627 | [42627-bazooka-blitzkrieg.json](./42627-bazooka-blitzkrieg.json) |
 | Bazooka Boy | 227498 | [227498-bazooka-boy.json](./227498-bazooka-boy.json) |
 | Bazooka Cafe | 72633 | [72633-bazooka-cafe.json](./72633-bazooka-cafe.json) |
@@ -3826,6 +3828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blanket of Snow | 394362 | [394362-blanket-of-snow.json](./394362-blanket-of-snow.json) |
 | Blankos Block Party | 134573 | [134573-blankos-block-party.json](./134573-blankos-block-party.json) |
 | Blankspace | 184580 | [184580-blankspace.json](./184580-blankspace.json) |
+| BlankSpace | 178973 | [178973-blankspace.json](./178973-blankspace.json) |
 | Blanksword | 338720 | [338720-blanksword.json](./338720-blanksword.json) |
 | BlapRacer | 71507 | [71507-blapracer.json](./71507-blapracer.json) |
 | Blaseball | 136475 | [136475-blaseball.json](./136475-blaseball.json) |
@@ -6436,6 +6439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Sports Football | 40814 | [40814-brutal-sports-football.json](./40814-brutal-sports-football.json) |
 | Brutal Street 2 | 103893 | [103893-brutal-street-2.json](./103893-brutal-street-2.json) |
 | Brutal Strike | 235459 | [235459-brutal-strike.json](./235459-brutal-strike.json) |
+| Brutal Universe | 178979 | [178979-brutal-universe.json](./178979-brutal-universe.json) |
 | Brutal Unreal 99 | 202848 | [202848-brutal-unreal-99.json](./202848-brutal-unreal-99.json) |
 | Brutal Warrior | 114439 | [114439-brutal-warrior.json](./114439-brutal-warrior.json) |
 | Brutal Wizardry | 159869 | [159869-brutal-wizardry.json](./159869-brutal-wizardry.json) |
