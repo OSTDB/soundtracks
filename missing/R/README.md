@@ -1037,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Plane 3: Canyon Scenario | 167718 | [167718-rc-plane-3-canyon-scenario.json](./167718-rc-plane-3-canyon-scenario.json) |
 | RC Racing Off Road 2.0 | 32233 | [32233-rc-racing-off-road-2-0.json](./32233-rc-racing-off-road-2-0.json) |
 | RC Revenge Pro | 43253 | [43253-rc-revenge-pro.json](./43253-rc-revenge-pro.json) |
+| RC Robot Adventure Game | 223953 | [223953-rc-robot-adventure-game.json](./223953-rc-robot-adventure-game.json) |
 | RC SIM 2022 | 369554 | [369554-rc-sim-2022.json](./369554-rc-sim-2022.json) |
 | RC Toy Machines | 100173 | [100173-rc-toy-machines.json](./100173-rc-toy-machines.json) |
 | RC-AirSim - RC Model Airplane Flight Simulator | 31868 | [31868-rc-airsim-rc-model-airplane-flight-simulator.json](./31868-rc-airsim-rc-model-airplane-flight-simulator.json) |
@@ -4178,6 +4179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Revolt | 244500 | [244500-rolling-revolt.json](./244500-rolling-revolt.json) |
 | Rolling Rush | 223168 | [223168-rolling-rush.json](./223168-rolling-rush.json) |
 | Rolling Sky New | 227502 | [227502-rolling-sky-new.json](./227502-rolling-sky-new.json) |
+| Rolling Stairs Master-Falling | 223922 | [223922-rolling-stairs-master-falling.json](./223922-rolling-stairs-master-falling.json) |
 | Rolling Star: Tomomi Another Story | 396379 | [396379-rolling-star-tomomi-another-story.json](./396379-rolling-star-tomomi-another-story.json) |
 | Rolling Sun | 26719 | [26719-rolling-sun.json](./26719-rolling-sun.json) |
 | Rolling Thunder | 12846 | [12846-rolling-thunder.json](./12846-rolling-thunder.json) |
@@ -4851,6 +4853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumia in the darkness | 121013 | [121013-rumia-in-the-darkness.json](./121013-rumia-in-the-darkness.json) |
 | Rummikub | 243274 | [243274-rummikub.json](./243274-rummikub.json) |
 | Rummy 3D Premium | 118405 | [118405-rummy-3d-premium.json](./118405-rummy-3d-premium.json) |
+| Rummy Club | 223923 | [223923-rummy-club.json](./223923-rummy-club.json) |
 | Rumor Raiders | 350406 | [350406-rumor-raiders.json](./350406-rumor-raiders.json) |
 | Rumor Reporter | 391072 | [391072-rumor-reporter.json](./391072-rumor-reporter.json) |
 | Rump! | 35772 | [35772-rump.json](./35772-rump.json) |
