@@ -6499,6 +6499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drinkbox Vita Collection | 99542 | [99542-drinkbox-vita-collection.json](./99542-drinkbox-vita-collection.json) |
 | Drinking in the Hot Spring! | 330180 | [330180-drinking-in-the-hot-spring.json](./330180-drinking-in-the-hot-spring.json) |
 | Drip Drip | 10247 | [10247-drip-drip.json](./10247-drip-drip.json) |
+| Driv3r | 194978 | [194978-driv3r.json](./194978-driv3r.json) |
 | Drive | 366908 | [366908-drive.json](./366908-drive.json) |
 | Drive 'n' Park | 132025 | [132025-drive-n-park.json](./132025-drive-n-park.json) |
 | Drive 4 Survival | 139390 | [139390-drive-4-survival.json](./139390-drive-4-survival.json) |
