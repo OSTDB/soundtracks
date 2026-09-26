@@ -1312,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patient Zero | 388918 | [388918-patient-zero.json](./388918-patient-zero.json) |
 | Patient Zero: Plague Idle | 388417 | [388417-patient-zero-plague-idle.json](./388417-patient-zero-plague-idle.json) |
 | PatientZ: Survivalist | 27727 | [27727-patientz-survivalist.json](./27727-patientz-survivalist.json) |
+| Patisserie Palette | 185418 | [185418-patisserie-palette.json](./185418-patisserie-palette.json) |
 | Patlabor the Case Files | 395699 | [395699-patlabor-the-case-files.json](./395699-patlabor-the-case-files.json) |
 | Patlabor: Come Back Mini-Pato | 75899 | [75899-patlabor-come-back-mini-pato.json](./75899-patlabor-come-back-mini-pato.json) |
 | Patlabor: The Mobile Police | 75896 | [75896-patlabor-the-mobile-police.json](./75896-patlabor-the-mobile-police.json) |
@@ -1356,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw & Hop Jigsaw Quest: Expansion Pack 2 | 357943 | [357943-paw-and-hop-jigsaw-quest-expansion-pack-2.json](./357943-paw-and-hop-jigsaw-quest-expansion-pack-2.json) |
 | Paw & Hop Jigsaw Quest: Expansion Pack 3 | 357944 | [357944-paw-and-hop-jigsaw-quest-expansion-pack-3.json](./357944-paw-and-hop-jigsaw-quest-expansion-pack-3.json) |
 | Paw Alliance | 401515 | [401515-paw-alliance.json](./401515-paw-alliance.json) |
+| Paw Bois | 185421 | [185421-paw-bois.json](./185421-paw-bois.json) |
 | Paw Party | 348987 | [348987-paw-party.json](./348987-paw-party.json) |
 | Paw Patrol | 298309 | [298309-paw-patrol.json](./298309-paw-patrol.json) |
 | Paw Patrol Bundle | 150141 | [150141-paw-patrol-bundle.json](./150141-paw-patrol-bundle.json) |
@@ -5057,6 +5059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Populous & The Promised Lands | 137074 | [137074-populous-and-the-promised-lands.json](./137074-populous-and-the-promised-lands.json) |
 | Populous DS | 8898 | [8898-populous-ds.json](./8898-populous-ds.json) |
 | Populous: The Beginning | 5525 | [5525-populous-the-beginning.json](./5525-populous-the-beginning.json) |
+| Poramid | 185438 | [185438-poramid.json](./185438-poramid.json) |
 | Porcelain Tales | 186031 | [186031-porcelain-tales.json](./186031-porcelain-tales.json) |
 | Porcini | 148999 | [148999-porcini.json](./148999-porcini.json) |
 | Porcuball | 96122 | [96122-porcuball.json](./96122-porcuball.json) |
@@ -6780,6 +6783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pudding: Lyre Knight | 375851 | [375851-pudding-lyre-knight.json](./375851-pudding-lyre-knight.json) |
 | Puddle | 377567 | [377567-puddle.json](./377567-puddle.json) |
 | Pueblo | 333767 | [333767-pueblo.json](./333767-pueblo.json) |
+| Puff and the Catnip Caper | 185430 | [185430-puff-and-the-catnip-caper.json](./185430-puff-and-the-catnip-caper.json) |
 | Puff Love Story | 371903 | [371903-puff-love-story.json](./371903-puff-love-story.json) |
 | Puff Puff the Magic Pipe | 156528 | [156528-puff-puff-the-magic-pipe.json](./156528-puff-puff-the-magic-pipe.json) |
 | Puff Up | 345697 | [345697-puff-up.json](./345697-puff-up.json) |
