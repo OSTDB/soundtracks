@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Fish Goes to College | 305138 | [305138-rainbow-fish-goes-to-college.json](./305138-rainbow-fish-goes-to-college.json) |
 | Rainbow Fish: The Most beautiful Fish in the Ocean | 235358 | [235358-rainbow-fish-the-most-beautiful-fish-in-the-ocean.json](./235358-rainbow-fish-the-most-beautiful-fish-in-the-ocean.json) |
 | Rainbow Friends: Hide 'N Seek | 262695 | [262695-rainbow-friends-hide-n-seek.json](./262695-rainbow-friends-hide-n-seek.json) |
+| Rainbow Heart Farewell | 181693 | [181693-rainbow-heart-farewell.json](./181693-rainbow-heart-farewell.json) |
 | Rainbow Hero | 35906 | [35906-rainbow-hero.json](./35906-rainbow-hero.json) |
 | Rainbow High: Runway Rush | 249255 | [249255-rainbow-high-runway-rush.json](./249255-rainbow-high-runway-rush.json) |
 | Rainbow Hills | 216742 | [216742-rainbow-hills.json](./216742-rainbow-hills.json) |
