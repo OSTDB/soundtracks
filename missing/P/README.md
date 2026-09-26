@@ -4366,6 +4366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Pesadilla | 254529 | [254529-pokemon-pesadilla.json](./254529-pokemon-pesadilla.json) |
 | Pokémon Photon | 361346 | [361346-pokemon-photon.json](./361346-pokemon-photon.json) |
 | Pokémon Photonic Sun | 214739 | [214739-pokemon-photonic-sun.json](./214739-pokemon-photonic-sun.json) |
+| Pokémon Pikachu 2 | 212726 | [212726-pokemon-pikachu-2.json](./212726-pokemon-pikachu-2.json) |
 | Pokémon Pinball | 4068 | [4068-pokemon-pinball.json](./4068-pokemon-pinball.json) |
 | Pokémon Pinball Mini | 66030 | [66030-pokemon-pinball-mini.json](./66030-pokemon-pinball-mini.json) |
 | Pokémon Plasma | 415074 | [415074-pokemon-plasma.json](./415074-pokemon-plasma.json) |
@@ -4574,6 +4575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Quest: SWAT Generation | 137478 | [137478-police-quest-swat-generation.json](./137478-police-quest-swat-generation.json) |
 | Police Rage | 223985 | [223985-police-rage.json](./223985-police-rage.json) |
 | Police Response VR: Disturbance | 130319 | [130319-police-response-vr-disturbance.json](./130319-police-response-vr-disturbance.json) |
+| Police Scanner Radio | 212750 | [212750-police-scanner-radio.json](./212750-police-scanner-radio.json) |
 | Police Sentri | 165649 | [165649-police-sentri.json](./165649-police-sentri.json) |
 | Police Simulator | 415170 | [415170-police-simulator.json](./415170-police-simulator.json) |
 | Police Simulator: Patrol Officers - Complete Edition | 399824 | [399824-police-simulator-patrol-officers-complete-edition.json](./399824-police-simulator-patrol-officers-complete-edition.json) |
@@ -4748,6 +4750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pongeon | 184641 | [184641-pongeon.json](./184641-pongeon.json) |
 | Pongis | 98223 | [98223-pongis.json](./98223-pongis.json) |
 | Pongis Jump | 126000 | [126000-pongis-jump.json](./126000-pongis-jump.json) |
+| Pongpongpongpongpongpongpongpong | 212776 | [212776-pongpongpongpongpongpongpongpong.json](./212776-pongpongpongpongpongpongpongpong.json) |
 | Pongs | 178609 | [178609-pongs.json](./178609-pongs.json) |
 | Pongspin | 253390 | [253390-pongspin.json](./253390-pongspin.json) |
 | Pongu | 24565 | [24565-pongu.json](./24565-pongu.json) |
@@ -5145,6 +5148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poultry Party | 341558 | [341558-poultry-party.json](./341558-poultry-party.json) |
 | Pounce | 80231 | [80231-pounce.json](./80231-pounce.json) |
 | Pounce and the Twin Trees | 295349 | [295349-pounce-and-the-twin-trees.json](./295349-pounce-and-the-twin-trees.json) |
+| Pounce Cat | 212766 | [212766-pounce-cat.json](./212766-pounce-cat.json) |
 | Pound For Pound | 40400 | [40400-pound-for-pound.json](./40400-pound-for-pound.json) |
 | Pour Boy and the Nitro Necromancer | 400895 | [400895-pour-boy-and-the-nitro-necromancer.json](./400895-pour-boy-and-the-nitro-necromancer.json) |
 | Pour Quelques Bonbons... | 320994 | [320994-pour-quelques-bonbons.json](./320994-pour-quelques-bonbons.json) |
