@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Dame de Monsoreau | 209442 | [209442-la-dame-de-monsoreau.json](./209442-la-dame-de-monsoreau.json) |
 | La Divina Commedia | 361884 | [361884-la-divina-commedia.json](./361884-la-divina-commedia.json) |
 | La Espada Sagrada | 141821 | [141821-la-espada-sagrada.json](./141821-la-espada-sagrada.json) |
+| La Foret | 176779 | [176779-la-foret.json](./176779-la-foret.json) |
 | La Fuga | 115603 | [115603-la-fuga.json](./115603-la-fuga.json) |
 | LA Hollywood Zombies | 273633 | [273633-la-hollywood-zombies.json](./273633-la-hollywood-zombies.json) |
 | La Isla de lo Mono | 208467 | [208467-la-isla-de-lo-mono.json](./208467-la-isla-de-lo-mono.json) |
@@ -1797,6 +1798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lidar Exploration Program | 291468 | [291468-lidar-exploration-program.json](./291468-lidar-exploration-program.json) |
 | Lidar Survival | 253917 | [253917-lidar-survival.json](./253917-lidar-survival.json) |
 | Lidar.exe | 213883 | [213883-lidar-exe.json](./213883-lidar-exe.json) |
+| Lie or Die | 176798 | [176798-lie-or-die.json](./176798-lie-or-die.json) |
 | LiEat: The Lie-Eating Dragon & the Vermilion Vampire | 115202 | [115202-lieat-the-lie-eating-dragon-and-the-vermilion-vampire.json](./115202-lieat-the-lie-eating-dragon-and-the-vermilion-vampire.json) |
 | Liebt Mich Nicht | 126021 | [126021-liebt-mich-nicht.json](./126021-liebt-mich-nicht.json) |
 | Liege | 63254 | [63254-liege.json](./63254-liege.json) |
