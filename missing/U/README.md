@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbra Fields | 272571 | [272571-umbra-fields.json](./272571-umbra-fields.json) |
 | Umbra Flora | 386886 | [386886-umbra-flora.json](./386886-umbra-flora.json) |
 | Umbra Halloween | 272240 | [272240-umbra-halloween.json](./272240-umbra-halloween.json) |
+| Umbra Lumen | 177841 | [177841-umbra-lumen.json](./177841-umbra-lumen.json) |
 | Umbra Lumen | 337284 | [337284-umbra-lumen.json](./337284-umbra-lumen.json) |
 | Umbra of Fate | 256873 | [256873-umbra-of-fate.json](./256873-umbra-of-fate.json) |
 | Umbra Sepulcri | 215678 | [215678-umbra-sepulcri.json](./215678-umbra-sepulcri.json) |
