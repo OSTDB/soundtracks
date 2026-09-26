@@ -1561,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL Hitz 2003 | 4047 | [4047-nhl-hitz-2003.json](./4047-nhl-hitz-2003.json) |
 | NHL Hockey | 210102 | [210102-nhl-hockey.json](./210102-nhl-hockey.json) |
 | NHL Hockey 2000 | 299312 | [299312-nhl-hockey-2000.json](./299312-nhl-hockey-2000.json) |
+| NHL Open Ice | 209404 | [209404-nhl-open-ice.json](./209404-nhl-open-ice.json) |
 | NHL Rock the Rink | 44843 | [44843-nhl-rock-the-rink.json](./44843-nhl-rock-the-rink.json) |
 | NHL Stanley Cup | 42655 | [42655-nhl-stanley-cup.json](./42655-nhl-stanley-cup.json) |
 | NHL: Legacy Edition | 36848 | [36848-nhl-legacy-edition.json](./36848-nhl-legacy-edition.json) |
@@ -1665,6 +1666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nige-ron-pa | 43961 | [43961-nige-ron-pa.json](./43961-nige-ron-pa.json) |
 | Nigel: The Minuscule Adventure | 121456 | [121456-nigel-the-minuscule-adventure.json](./121456-nigel-the-minuscule-adventure.json) |
 | Nigel's Journey: A Working Day | 133378 | [133378-nigels-journey-a-working-day.json](./133378-nigels-journey-a-working-day.json) |
+| Nigel's World Adventure: Geography | 209402 | [209402-nigels-world-adventure-geography.json](./209402-nigels-world-adventure-geography.json) |
 | Nigella | 201315 | [201315-nigella.json](./201315-nigella.json) |
 | Nigepico 1.2 | 256514 | [256514-nigepico-1-2.json](./256514-nigepico-1-2.json) |
 | Niggle (Oh Hell!) | 102215 | [102215-niggle-oh-hell.json](./102215-niggle-oh-hell.json) |
@@ -2593,6 +2595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nomad Survival | 197874 | [197874-nomad-survival.json](./197874-nomad-survival.json) |
 | Nomads in the Dust | 296479 | [296479-nomads-in-the-dust.json](./296479-nomads-in-the-dust.json) |
 | NoMaKo | 139261 | [139261-nomako.json](./139261-nomako.json) |
+| NOMBZ: Night of a Million Billion Zombies | 209408 | [209408-nombz-night-of-a-million-billion-zombies.json](./209408-nombz-night-of-a-million-billion-zombies.json) |
 | Nomia | 338730 | [338730-nomia.json](./338730-nomia.json) |
 | Nominal | 163312 | [163312-nominal.json](./163312-nominal.json) |
 | NomNomNom | 340580 | [340580-nomnomnom.json](./340580-nomnomnom.json) |
