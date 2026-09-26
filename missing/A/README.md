@@ -2277,6 +2277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens versus Predator | 9979 | [9979-aliens-versus-predator.json](./9979-aliens-versus-predator.json) |
 | Aliens Versus Predator 2: Gold Edition | 256362 | [256362-aliens-versus-predator-2-gold-edition.json](./256362-aliens-versus-predator-2-gold-edition.json) |
 | Aliens Versus Predator: Extinction | 5720 | [5720-aliens-versus-predator-extinction.json](./5720-aliens-versus-predator-extinction.json) |
+| Aliens vs. Ghosts | 208331 | [208331-aliens-vs-ghosts.json](./208331-aliens-vs-ghosts.json) |
 | Aliens vs. Predator | 560 | [560-aliens-vs-predator.json](./560-aliens-vs-predator.json) |
 | Aliens vs. Predator Collection | 52587 | [52587-aliens-vs-predator-collection.json](./52587-aliens-vs-predator-collection.json) |
 | Aliens, Plasma Guns & Chewing Gum | 305385 | [305385-aliens-plasma-guns-and-chewing-gum.json](./305385-aliens-plasma-guns-and-chewing-gum.json) |
@@ -5192,6 +5193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arson | 223660 | [223660-arson.json](./223660-arson.json) |
 | Arson & Plunder: Unleashed | 36323 | [36323-arson-and-plunder-unleashed.json](./36323-arson-and-plunder-unleashed.json) |
 | Arson and Plunder | 9985 | [9985-arson-and-plunder.json](./9985-arson-and-plunder.json) |
+| Arsonist Heaven | 208334 | [208334-arsonist-heaven.json](./208334-arsonist-heaven.json) |
 | Arsonist Heaven Remastered | 238440 | [238440-arsonist-heaven-remastered.json](./238440-arsonist-heaven-remastered.json) |
 | ArsonVille | 25729 | [25729-arsonville.json](./25729-arsonville.json) |
 | Art Academy: First Semester | 79260 | [79260-art-academy-first-semester.json](./79260-art-academy-first-semester.json) |
