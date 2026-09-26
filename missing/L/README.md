@@ -1838,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Is A Game | 298887 | [298887-life-is-a-game.json](./298887-life-is-a-game.json) |
 | Life is a Race | 199086 | [199086-life-is-a-race.json](./199086-life-is-a-race.json) |
 | Life is Feudal: Arden | 321560 | [321560-life-is-feudal-arden.json](./321560-life-is-feudal-arden.json) |
+| Life Is Hard, and Then You Buy a Cactus | 178957 | [178957-life-is-hard-and-then-you-buy-a-cactus.json](./178957-life-is-hard-and-then-you-buy-a-cactus.json) |
 | Life is Magic | 64426 | [64426-life-is-magic.json](./64426-life-is-magic.json) |
 | Life is Pain | 239584 | [239584-life-is-pain.json](./239584-life-is-pain.json) |
 | Life is Strange 2: Episode 4 - Faith | 119055 | [119055-life-is-strange-2-episode-4-faith.json](./119055-life-is-strange-2-episode-4-faith.json) |
