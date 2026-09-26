@@ -3381,6 +3381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melkis: Spend With You the Sweet Days Like Fairy Tales | 222241 | [222241-melkis-spend-with-you-the-sweet-days-like-fairy-tales.json](./222241-melkis-spend-with-you-the-sweet-days-like-fairy-tales.json) |
 | Mell Kiss: Limited Edition | 201049 | [201049-mell-kiss-limited-edition.json](./201049-mell-kiss-limited-edition.json) |
 | Melli's Retro Land | 270414 | [270414-mellis-retro-land.json](./270414-mellis-retro-land.json) |
+| Mello | 188917 | [188917-mello.json](./188917-mello.json) |
 | Mello Haunted House | 207497 | [207497-mello-haunted-house.json](./207497-mello-haunted-house.json) |
 | Mellstroy Survivor | 369753 | [369753-mellstroy-survivor.json](./369753-mellstroy-survivor.json) |
 | Melo's Cat Cafe | 307568 | [307568-melos-cat-cafe.json](./307568-melos-cat-cafe.json) |
@@ -5364,6 +5365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misk Schools Quest | 187516 | [187516-misk-schools-quest.json](./187516-misk-schools-quest.json) |
 | Miska | 204523 | [204523-miska.json](./204523-miska.json) |
 | Miskal | 237519 | [237519-miskal.json](./237519-miskal.json) |
+| Miskatonic | 188932 | [188932-miskatonic.json](./188932-miskatonic.json) |
 | Miskatonic | 389973 | [389973-miskatonic.json](./389973-miskatonic.json) |
 | Miskatonic University | 258007 | [258007-miskatonic-university.json](./258007-miskatonic-university.json) |
 | Misplaced | 172050 | [172050-misplaced.json](./172050-misplaced.json) |
@@ -6986,6 +6988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother of Myth | 19643 | [19643-mother-of-myth.json](./19643-mother-of-myth.json) |
 | Mother of the Year | 313837 | [313837-mother-of-the-year.json](./313837-mother-of-the-year.json) |
 | Mother Restored | 307055 | [307055-mother-restored.json](./307055-mother-restored.json) |
+| Mother Stone | 188951 | [188951-mother-stone.json](./188951-mother-stone.json) |
 | Mother Zero | 323881 | [323881-mother-zero.json](./323881-mother-zero.json) |
 | Mother, Player | 393489 | [393489-mother-player.json](./393489-mother-player.json) |
 | Mother: Beyond Bounds | 315107 | [315107-mother-beyond-bounds.json](./315107-mother-beyond-bounds.json) |
@@ -8516,6 +8519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystereet: Yasogami Kaoru no Chousen! | 137025 | [137025-mystereet-yasogami-kaoru-no-chousen.json](./137025-mystereet-yasogami-kaoru-no-chousen.json) |
 | Mystereet: Yasogami Kaoru no Chousen! | 326951 | [326951-mystereet-yasogami-kaoru-no-chousen.json](./326951-mystereet-yasogami-kaoru-no-chousen.json) |
 | Mysteria ~Occult Shadows~ | 108626 | [108626-mysteria-occult-shadows.json](./108626-mysteria-occult-shadows.json) |
+| Mysteria of the World: The Forest of Death | 188950 | [188950-mysteria-of-the-world-the-forest-of-death.json](./188950-mysteria-of-the-world-the-forest-of-death.json) |
 | Mysteries of Magic Island | 124741 | [124741-mysteries-of-magic-island.json](./124741-mysteries-of-magic-island.json) |
 | Mysteries of Peak Valley: Case 1 - The Lost Sonata | 171536 | [171536-mysteries-of-peak-valley-case-1-the-lost-sonata.json](./171536-mysteries-of-peak-valley-case-1-the-lost-sonata.json) |
 | Mysteries of Peak Valley: Case 2 - The White Lady | 171537 | [171537-mysteries-of-peak-valley-case-2-the-white-lady.json](./171537-mysteries-of-peak-valley-case-2-the-white-lady.json) |
