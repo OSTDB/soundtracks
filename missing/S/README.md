@@ -5346,6 +5346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay the Berserker | 384494 | [384494-slay-the-berserker.json](./384494-slay-the-berserker.json) |
 | Slay the Demon Queen | 340364 | [340364-slay-the-demon-queen.json](./340364-slay-the-demon-queen.json) |
 | Slay the King | 374164 | [374164-slay-the-king.json](./374164-slay-the-king.json) |
+| Slay the Space | 187231 | [187231-slay-the-space.json](./187231-slay-the-space.json) |
 | Slay the Spire II | 296831 | [296831-slay-the-spire-ii.json](./296831-slay-the-spire-ii.json) |
 | Slay the Wak | 231097 | [231097-slay-the-wak.json](./231097-slay-the-wak.json) |
 | Slayaway Camp 2 | 273976 | [273976-slayaway-camp-2.json](./273976-slayaway-camp-2.json) |
@@ -7747,6 +7748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound Voltex III: Gravity Wars | 39883 | [39883-sound-voltex-iii-gravity-wars.json](./39883-sound-voltex-iii-gravity-wars.json) |
 | Sound Voltex IV: Heavenly Haven | 79244 | [79244-sound-voltex-iv-heavenly-haven.json](./79244-sound-voltex-iv-heavenly-haven.json) |
 | Sound Voltex Nabla | 382474 | [382474-sound-voltex-nabla.json](./382474-sound-voltex-nabla.json) |
+| Sound Voltex: Exceed Gear | 187235 | [187235-sound-voltex-exceed-gear.json](./187235-sound-voltex-exceed-gear.json) |
 | Sound Voltex: Ultimate Mobile | 197332 | [197332-sound-voltex-ultimate-mobile.json](./197332-sound-voltex-ultimate-mobile.json) |
 | Sound Voltex: Vivid Wave | 126031 | [126031-sound-voltex-vivid-wave.json](./126031-sound-voltex-vivid-wave.json) |
 | Soundart | 127076 | [127076-soundart.json](./127076-soundart.json) |
@@ -7922,6 +7924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cowboy | 25603 | [25603-space-cowboy.json](./25603-space-cowboy.json) |
 | Space Cowboy Radio | 359049 | [359049-space-cowboy-radio.json](./359049-space-cowboy-radio.json) |
 | Space Crab VS | 270147 | [270147-space-crab-vs.json](./270147-space-crab-vs.json) |
+| Space Crafter | 187230 | [187230-space-crafter.json](./187230-space-crafter.json) |
 | Space Crafter | 291585 | [291585-space-crafter.json](./291585-space-crafter.json) |
 | Space Crawl | 55465 | [55465-space-crawl.json](./55465-space-crawl.json) |
 | Space Crisis | 167782 | [167782-space-crisis.json](./167782-space-crisis.json) |
@@ -8027,6 +8030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hole | 361227 | [361227-space-hole.json](./361227-space-hole.json) |
 | Space Hole 2020 | 156675 | [156675-space-hole-2020.json](./156675-space-hole-2020.json) |
 | Space Hood | 372450 | [372450-space-hood.json](./372450-space-hood.json) |
+| Space Hopper | 187255 | [187255-space-hopper.json](./187255-space-hopper.json) |
 | Space Hopper | 274049 | [274049-space-hopper.json](./274049-space-hopper.json) |
 | Space Hotel | 30270 | [30270-space-hotel.json](./30270-space-hotel.json) |
 | Space Hulk: Space Wolves Chapter | 168865 | [168865-space-hulk-space-wolves-chapter.json](./168865-space-hulk-space-wolves-chapter.json) |
