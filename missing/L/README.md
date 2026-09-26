@@ -21,9 +21,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.C.D. Bowling | 346111 | [346111-l-c-d-bowling.json](./346111-l-c-d-bowling.json) |
 | L.F.O. -Lost Future Omega- | 30207 | [30207-l-f-o-lost-future-omega.json](./30207-l-f-o-lost-future-omega.json) |
 | L.O.C.K. | 144364 | [144364-l-o-c-k.json](./144364-l-o-c-k.json) |
+| L.O.L. Surprise! B.B.s Born to Travel | 203810 | [203810-l-o-l-surprise-b-b-s-born-to-travel.json](./203810-l-o-l-surprise-b-b-s-born-to-travel.json) |
 | L.S.S II | 220836 | [220836-l-s-s-ii.json](./220836-l-s-s-ii.json) |
 | L'Angolo Di Farenz: Avventure Vampiresche | 256922 | [256922-langolo-di-farenz-avventure-vampiresche.json](./256922-langolo-di-farenz-avventure-vampiresche.json) |
 | L'Artisan Meurtrier | 329060 | [329060-lartisan-meurtrier.json](./329060-lartisan-meurtrier.json) |
+| L'Avancée du Désert | 203841 | [203841-lavancee-du-desert.json](./203841-lavancee-du-desert.json) |
 | L'Histoire de France Pour Les Nuls | 269633 | [269633-lhistoire-de-france-pour-les-nuls.json](./269633-lhistoire-de-france-pour-les-nuls.json) |
 | L'Impiccato in Italiano | 96042 | [96042-limpiccato-in-italiano.json](./96042-limpiccato-in-italiano.json) |
 | L@ve Once | 139450 | [139450-l-ve-once.json](./139450-l-ve-once.json) |
@@ -1039,6 +1041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Mercy | 96280 | [96280-legend-of-mercy.json](./96280-legend-of-mercy.json) |
 | Legend of Mir | 62774 | [62774-legend-of-mir.json](./62774-legend-of-mir.json) |
 | Legend of Mir 3 | 51197 | [51197-legend-of-mir-3.json](./51197-legend-of-mir-3.json) |
+| Legend of Mortal | 203852 | [203852-legend-of-mortal.json](./203852-legend-of-mortal.json) |
 | Legend of Mysteria RPG | 53268 | [53268-legend-of-mysteria-rpg.json](./53268-legend-of-mysteria-rpg.json) |
 | Legend of Parry King | 309506 | [309506-legend-of-parry-king.json](./309506-legend-of-parry-king.json) |
 | Legend of Penguin | 290996 | [290996-legend-of-penguin.json](./290996-legend-of-penguin.json) |
@@ -3100,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Bones | 236265 | [236265-lord-of-bones.json](./236265-lord-of-bones.json) |
 | Lord of Darkness | 42586 | [42586-lord-of-darkness.json](./42586-lord-of-darkness.json) |
 | Lord of Darkness: Aftermath | 279014 | [279014-lord-of-darkness-aftermath.json](./279014-lord-of-darkness-aftermath.json) |
+| Lord of Darkness: Prologue | 203845 | [203845-lord-of-darkness-prologue.json](./203845-lord-of-darkness-prologue.json) |
 | Lord of Djinn | 37384 | [37384-lord-of-djinn.json](./37384-lord-of-djinn.json) |
 | Lord of doors | 320955 | [320955-lord-of-doors.json](./320955-lord-of-doors.json) |
 | Lord of Heroes | 137634 | [137634-lord-of-heroes.json](./137634-lord-of-heroes.json) |
@@ -3368,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Region | 27107 | [27107-lost-region.json](./27107-lost-region.json) |
 | Lost Remnant: Roaches to Riches | 158056 | [158056-lost-remnant-roaches-to-riches.json](./158056-lost-remnant-roaches-to-riches.json) |
 | Lost Resolve | 313293 | [313293-lost-resolve.json](./313293-lost-resolve.json) |
+| Lost Retrograde | 203844 | [203844-lost-retrograde.json](./203844-lost-retrograde.json) |
 | Lost Rift | 336143 | [336143-lost-rift.json](./336143-lost-rift.json) |
 | Lost Ruins of Arnak | 350426 | [350426-lost-ruins-of-arnak.json](./350426-lost-ruins-of-arnak.json) |
 | Lost Saga | 63868 | [63868-lost-saga.json](./63868-lost-saga.json) |
@@ -3621,6 +3626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Lisa 3D | 80608 | [80608-lovely-lisa-3d.json](./80608-lovely-lisa-3d.json) |
 | Lovely Lodgings: Autumn Edition | 402310 | [402310-lovely-lodgings-autumn-edition.json](./402310-lovely-lodgings-autumn-edition.json) |
 | Lovely Magicals! | 364486 | [364486-lovely-magicals.json](./364486-lovely-magicals.json) |
+| Lovely Moments: Dad and Daughter | 203802 | [203802-lovely-moments-dad-and-daughter.json](./203802-lovely-moments-dad-and-daughter.json) |
 | Lovely Nurse | 245823 | [245823-lovely-nurse.json](./245823-lovely-nurse.json) |
 | Lovely Plains | 217402 | [217402-lovely-plains.json](./217402-lovely-plains.json) |
 | Lovely Planet | 14326 | [14326-lovely-planet.json](./14326-lovely-planet.json) |
