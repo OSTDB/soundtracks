@@ -1600,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Shapes & Beats | 31194 | [31194-just-shapes-and-beats.json](./31194-just-shapes-and-beats.json) |
 | Just Shapes & Beats: Hardcore Edition | 118174 | [118174-just-shapes-and-beats-hardcore-edition.json](./118174-just-shapes-and-beats-hardcore-edition.json) |
 | Just Shoot: Slimes | 219651 | [219651-just-shoot-slimes.json](./219651-just-shoot-slimes.json) |
+| Just Sign! | 207297 | [207297-just-sign.json](./207297-just-sign.json) |
 | Just Sing | 23386 | [23386-just-sing.json](./23386-just-sing.json) |
 | Just Sing! Christmas Vol. 3 | 65489 | [65489-just-sing-christmas-vol-3.json](./65489-just-sing-christmas-vol-3.json) |
 | Just Skill Shooter | 250465 | [250465-just-skill-shooter.json](./250465-just-skill-shooter.json) |
