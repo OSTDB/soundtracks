@@ -2834,6 +2834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bridge Curse: Road to Salvation | 193312 | [193312-the-bridge-curse-road-to-salvation.json](./193312-the-bridge-curse-road-to-salvation.json) |
 | The BridgeMaster | 169445 | [169445-the-bridgemaster.json](./169445-the-bridgemaster.json) |
 | The Brimstone Project: Odyssey Live | 279715 | [279715-the-brimstone-project-odyssey-live.json](./279715-the-brimstone-project-odyssey-live.json) |
+| The British Library Simulator | 182806 | [182806-the-british-library-simulator.json](./182806-the-british-library-simulator.json) |
 | The Brittle Epoch | 261751 | [261751-the-brittle-epoch.json](./261751-the-brittle-epoch.json) |
 | The Broken Balance | 216753 | [216753-the-broken-balance.json](./216753-the-broken-balance.json) |
 | The Broken Vow | 322173 | [322173-the-broken-vow.json](./322173-the-broken-vow.json) |
@@ -4578,6 +4579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inquisitor: Book 2 - The Village | 10972 | [10972-the-inquisitor-book-2-the-village.json](./10972-the-inquisitor-book-2-the-village.json) |
 | The Insect Massacre | 59680 | [59680-the-insect-massacre.json](./59680-the-insect-massacre.json) |
 | The Inseparables | 410209 | [410209-the-inseparables.json](./410209-the-inseparables.json) |
+| The Insomnia Town | 182853 | [182853-the-insomnia-town.json](./182853-the-insomnia-town.json) |
 | The Inspector | 175911 | [175911-the-inspector.json](./175911-the-inspector.json) |
 | The Institute: A Becky Brogan Adventure | 125380 | [125380-the-institute-a-becky-brogan-adventure.json](./125380-the-institute-a-becky-brogan-adventure.json) |
 | The Instruction Manual | 202384 | [202384-the-instruction-manual.json](./202384-the-instruction-manual.json) |
@@ -6854,6 +6856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Six Transgender Lesbian Goddesses of Love Are Having A Petty Argument, So They Try To Settle Things Alongside The Three Transgender Gay Gods of Flavor | 318796 | [318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json](./318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json) |
 | The Sixth Extinction | 391716 | [391716-the-sixth-extinction.json](./391716-the-sixth-extinction.json) |
 | The Sixth Prison | 184077 | [184077-the-sixth-prison.json](./184077-the-sixth-prison.json) |
+| The Skeld | 182824 | [182824-the-skeld.json](./182824-the-skeld.json) |
 | The Skies | 26859 | [26859-the-skies.json](./26859-the-skies.json) |
 | The Skinwalker Investigations | 164973 | [164973-the-skinwalker-investigations.json](./164973-the-skinwalker-investigations.json) |
 | The Skirmish | 282032 | [282032-the-skirmish.json](./282032-the-skirmish.json) |
@@ -12581,6 +12584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Jump | 183352 | [183352-triple-jump.json](./183352-triple-jump.json) |
 | Triple Jump | 247050 | [247050-triple-jump.json](./247050-triple-jump.json) |
 | Triple Jumping Sports | 85453 | [85453-triple-jumping-sports.json](./85453-triple-jumping-sports.json) |
+| Triple n Extended m | 182826 | [182826-triple-n-extended-m.json](./182826-triple-n-extended-m.json) |
 | Triple Pairing Mini Fandisc | 418770 | [418770-triple-pairing-mini-fandisc.json](./418770-triple-pairing-mini-fandisc.json) |
 | Triple Play 2001 | 249153 | [249153-triple-play-2001.json](./249153-triple-play-2001.json) |
 | Triple Play 96 | 46245 | [46245-triple-play-96.json](./46245-triple-play-96.json) |
