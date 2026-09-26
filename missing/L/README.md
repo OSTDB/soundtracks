@@ -2429,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Monster Games | 87243 | [87243-little-monster-games.json](./87243-little-monster-games.json) |
 | Little Mouse's Encyclopedia + Brawl Chess | 199638 | [199638-little-mouses-encyclopedia-brawl-chess.json](./199638-little-mouses-encyclopedia-brawl-chess.json) |
 | Little Mouse's Encyclopedia + Cat's Cosmic Atlas | 277891 | [277891-little-mouses-encyclopedia-cats-cosmic-atlas.json](./277891-little-mouses-encyclopedia-cats-cosmic-atlas.json) |
+| Little Mouse's Encyclopedia + Comic Coloring Book: Complete Edition | 212784 | [212784-little-mouses-encyclopedia-comic-coloring-book-complete-edition.json](./212784-little-mouses-encyclopedia-comic-coloring-book-complete-edition.json) |
 | Little Mouse's Encyclopedia + Under Leaves | 188099 | [188099-little-mouses-encyclopedia-under-leaves.json](./188099-little-mouses-encyclopedia-under-leaves.json) |
 | Little Mouse's Encyclopedia: Complete Edition | 241398 | [241398-little-mouses-encyclopedia-complete-edition.json](./241398-little-mouses-encyclopedia-complete-edition.json) |
 | Little Nemo and the Guardians of Slumberland | 204380 | [204380-little-nemo-and-the-guardians-of-slumberland.json](./204380-little-nemo-and-the-guardians-of-slumberland.json) |
