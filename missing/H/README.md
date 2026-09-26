@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HalfMoon Adventures | 333164 | [333164-halfmoon-adventures.json](./333164-halfmoon-adventures.json) |
 | Halfquake Trilogy | 127942 | [127942-halfquake-trilogy.json](./127942-halfquake-trilogy.json) |
 | Halftime Adventures | 373218 | [373218-halftime-adventures.json](./373218-halftime-adventures.json) |
+| Halfway | 178445 | [178445-halfway.json](./178445-halfway.json) |
 | Halfway | 377170 | [377170-halfway.json](./377170-halfway.json) |
 | Halfway | 8800 | [8800-halfway.json](./8800-halfway.json) |
 | Hall of the Dwarf King | 339375 | [339375-hall-of-the-dwarf-king.json](./339375-hall-of-the-dwarf-king.json) |
@@ -1757,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellgate: Tokyo | 67279 | [67279-hellgate-tokyo.json](./67279-hellgate-tokyo.json) |
 | HellHeart Breaker | 351687 | [351687-hellheart-breaker.json](./351687-hellheart-breaker.json) |
 | Hellhole | 186266 | [186266-hellhole.json](./186266-hellhole.json) |
+| Hellhunt GB 1991 | 178440 | [178440-hellhunt-gb-1991.json](./178440-hellhunt-gb-1991.json) |
 | Hellink | 114963 | [114963-hellink.json](./114963-hellink.json) |
 | Hellino | 134003 | [134003-hellino.json](./134003-hellino.json) |
 | Hellion: Mystery of the Inquisition | 66397 | [66397-hellion-mystery-of-the-inquisition.json](./66397-hellion-mystery-of-the-inquisition.json) |
