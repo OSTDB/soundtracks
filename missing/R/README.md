@@ -3199,6 +3199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise to Surface | 243092 | [243092-rise-to-surface.json](./243092-rise-to-surface.json) |
 | Rise up - Keeper challenge | 96743 | [96743-rise-up-keeper-challenge.json](./96743-rise-up-keeper-challenge.json) |
 | RiseExplosion | 302433 | [302433-riseexplosion.json](./302433-riseexplosion.json) |
+| Risen | 226682 | [226682-risen.json](./226682-risen.json) |
 | Risen | 2444 | [2444-risen.json](./2444-risen.json) |
 | Risen 2: Dark Waters | 3802 | [3802-risen-2-dark-waters.json](./3802-risen-2-dark-waters.json) |
 | Risen 2: Dark Waters - A Pirate's Clothes | 53511 | [53511-risen-2-dark-waters-a-pirates-clothes.json](./53511-risen-2-dark-waters-a-pirates-clothes.json) |
@@ -3871,6 +3872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocksmith 2014: Regal Singles Song Pack | 226938 | [226938-rocksmith-2014-regal-singles-song-pack.json](./226938-rocksmith-2014-regal-singles-song-pack.json) |
 | Rocksmith 2014: Rise Against Song Pack | 226936 | [226936-rocksmith-2014-rise-against-song-pack.json](./226936-rocksmith-2014-rise-against-song-pack.json) |
 | Rocksmith 2014: Rise Against Song Pack II | 226935 | [226935-rocksmith-2014-rise-against-song-pack-ii.json](./226935-rocksmith-2014-rise-against-song-pack-ii.json) |
+| Rocksmith: Fall Out Boy Song-Pack | 226711 | [226711-rocksmith-fall-out-boy-song-pack.json](./226711-rocksmith-fall-out-boy-song-pack.json) |
 | Rocksmith: Foo Fighters - Song Pack | 226934 | [226934-rocksmith-foo-fighters-song-pack.json](./226934-rocksmith-foo-fighters-song-pack.json) |
 | Rocksmith: Queen 5-Song Pack | 226933 | [226933-rocksmith-queen-5-song-pack.json](./226933-rocksmith-queen-5-song-pack.json) |
 | Rocksmith: Rush 5-Song Pack | 226932 | [226932-rocksmith-rush-5-song-pack.json](./226932-rocksmith-rush-5-song-pack.json) |
