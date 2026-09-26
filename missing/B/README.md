@@ -1499,6 +1499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Cry of Freedom | 63551 | [63551-battle-cry-of-freedom.json](./63551-battle-cry-of-freedom.json) |
 | Battle Cube | 128598 | [128598-battle-cube.json](./128598-battle-cube.json) |
 | Battle Dawn | 139433 | [139433-battle-dawn.json](./139433-battle-dawn.json) |
+| Battle Dawn 2: Terra Reborn | 217230 | [217230-battle-dawn-2-terra-reborn.json](./217230-battle-dawn-2-terra-reborn.json) |
 | Battle Dex | 93581 | [93581-battle-dex.json](./93581-battle-dex.json) |
 | Battle Dodge Ball 3 | 56519 | [56519-battle-dodge-ball-3.json](./56519-battle-dodge-ball-3.json) |
 | Battle Dodgeball | 38350 | [38350-battle-dodgeball.json](./38350-battle-dodgeball.json) |
@@ -2606,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Besotted | 297805 | [297805-besotted.json](./297805-besotted.json) |
 | Best Bout Boxing | 38543 | [38543-best-bout-boxing.json](./38543-best-bout-boxing.json) |
 | Best Buds vs Bad Guys | 52631 | [52631-best-buds-vs-bad-guys.json](./52631-best-buds-vs-bad-guys.json) |
+| Best Election Simulator In Russia! | 217253 | [217253-best-election-simulator-in-russia.json](./217253-best-election-simulator-in-russia.json) |
 | Best Fiends Forever | 57363 | [57363-best-fiends-forever.json](./57363-best-fiends-forever.json) |
 | Best Friends Forever | 183442 | [183442-best-friends-forever.json](./183442-best-friends-forever.json) |
 | Best Garden | 135238 | [135238-best-garden.json](./135238-best-garden.json) |
@@ -6005,6 +6007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brian: The Novice Barbarian | 58825 | [58825-brian-the-novice-barbarian.json](./58825-brian-the-novice-barbarian.json) |
 | Brian's Redemption | 350450 | [350450-brians-redemption.json](./350450-brians-redemption.json) |
 | Bric-a-Brac Shop | 178513 | [178513-bric-a-brac-shop.json](./178513-bric-a-brac-shop.json) |
+| Brichi Quest | 217258 | [217258-brichi-quest.json](./217258-brichi-quest.json) |
 | Brick | 356655 | [356655-brick.json](./356655-brick.json) |
 | Brick | 92294 | [92294-brick.json](./92294-brick.json) |
 | Brick Battalion | 32208 | [32208-brick-battalion.json](./32208-brick-battalion.json) |
