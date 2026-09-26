@@ -2303,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Dice and Cleave | 370140 | [370140-goblin-dice-and-cleave.json](./370140-goblin-dice-and-cleave.json) |
 | Goblin Dungeoneer | 151526 | [151526-goblin-dungeoneer.json](./151526-goblin-dungeoneer.json) |
 | Goblin God | 413069 | [413069-goblin-god.json](./413069-goblin-god.json) |
+| Goblin Golf | 181689 | [181689-goblin-golf.json](./181689-goblin-golf.json) |
 | Goblin Goopmaxxing | 375840 | [375840-goblin-goopmaxxing.json](./375840-goblin-goopmaxxing.json) |
 | Goblin Kart Rescue | 302473 | [302473-goblin-kart-rescue.json](./302473-goblin-kart-rescue.json) |
 | Goblin Keep | 240717 | [240717-goblin-keep.json](./240717-goblin-keep.json) |
@@ -2648,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf | 18008 | [18008-golf.json](./18008-golf.json) |
 | Golf | 20382 | [20382-golf.json](./20382-golf.json) |
 | Golf | 282126 | [282126-golf.json](./282126-golf.json) |
+| Golf Adventures! | 181717 | [181717-golf-adventures.json](./181717-golf-adventures.json) |
 | Golf Around! | 126509 | [126509-golf-around.json](./126509-golf-around.json) |
 | Golf Ba Multimedia Shinchaku: Susono Country Club Hen | 254428 | [254428-golf-ba-multimedia-shinchaku-susono-country-club-hen.json](./254428-golf-ba-multimedia-shinchaku-susono-country-club-hen.json) |
 | Golf Card Game | 104485 | [104485-golf-card-game.json](./104485-golf-card-game.json) |
@@ -2677,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Odyssey | 242680 | [242680-golf-odyssey.json](./242680-golf-odyssey.json) |
 | Golf Odyssey 2 DX | 269003 | [269003-golf-odyssey-2-dx.json](./269003-golf-odyssey-2-dx.json) |
 | Golf Of America | 351647 | [351647-golf-of-america.json](./351647-golf-of-america.json) |
+| Golf of the Dead | 181705 | [181705-golf-of-the-dead.json](./181705-golf-of-the-dead.json) |
 | Golf Peaks | 107329 | [107329-golf-peaks.json](./107329-golf-peaks.json) |
 | Golf Pro 2000 Downunder | 93072 | [93072-golf-pro-2000-downunder.json](./93072-golf-pro-2000-downunder.json) |
 | Golf Resort Tycoon | 73296 | [73296-golf-resort-tycoon.json](./73296-golf-resort-tycoon.json) |
@@ -2700,6 +2703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf With Your Friends: Ultimate Edition | 277883 | [277883-golf-with-your-friends-ultimate-edition.json](./277883-golf-with-your-friends-ultimate-edition.json) |
 | Golf-e | 170015 | [170015-golf-e.json](./170015-golf-e.json) |
 | Golf-Like | 385215 | [385215-golf-like.json](./385215-golf-like.json) |
+| Golf: Become Human | 181680 | [181680-golf-become-human.json](./181680-golf-become-human.json) |
 | Golf: Hole in One | 253579 | [253579-golf-hole-in-one.json](./253579-golf-hole-in-one.json) |
 | Golf: Minigolf | 376710 | [376710-golf-minigolf.json](./376710-golf-minigolf.json) |
 | Golf: The Ultimate Collection | 314665 | [314665-golf-the-ultimate-collection.json](./314665-golf-the-ultimate-collection.json) |
@@ -3969,6 +3973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grudge Warriors | 19269 | [19269-grudge-warriors.json](./19269-grudge-warriors.json) |
 | Grumblemoor | 347171 | [347171-grumblemoor.json](./347171-grumblemoor.json) |
 | Grumpy Cat's Worst Game Ever | 98930 | [98930-grumpy-cats-worst-game-ever.json](./98930-grumpy-cats-worst-game-ever.json) |
+| Grumpy Librarian | 181681 | [181681-grumpy-librarian.json](./181681-grumpy-librarian.json) |
 | Grumpy Witch | 115015 | [115015-grumpy-witch.json](./115015-grumpy-witch.json) |
 | Grunder | 278517 | [278517-grunder.json](./278517-grunder.json) |
 | GrundHeim | 235969 | [235969-grundheim.json](./235969-grundheim.json) |
