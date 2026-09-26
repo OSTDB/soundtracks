@@ -1395,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebloom | 351101 | [351101-rebloom.json](./351101-rebloom.json) |
 | Rebolt | 360062 | [360062-rebolt.json](./360062-rebolt.json) |
 | Reboot | 171611 | [171611-reboot.json](./171611-reboot.json) |
+| ReBoot | 219015 | [219015-reboot.json](./219015-reboot.json) |
 | ReBoot | 51953 | [51953-reboot.json](./51953-reboot.json) |
 | Reboot Heroes | 292020 | [292020-reboot-heroes.json](./292020-reboot-heroes.json) |
 | Reborn | 301985 | [301985-reborn.json](./301985-reborn.json) |
@@ -2175,6 +2176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescape | 235981 | [235981-rescape.json](./235981-rescape.json) |
 | Rescue | 46855 | [46855-rescue.json](./46855-rescue.json) |
 | Rescue 2: Everyday Heroes | 53500 | [53500-rescue-2-everyday-heroes.json](./53500-rescue-2-everyday-heroes.json) |
+| Rescue 911 | 219016 | [219016-rescue-911.json](./219016-rescue-911.json) |
 | Rescue Dash: Time Management Simulator | 230927 | [230927-rescue-dash-time-management-simulator.json](./230927-rescue-dash-time-management-simulator.json) |
 | Rescue Frenzy | 53501 | [53501-rescue-frenzy.json](./53501-rescue-frenzy.json) |
 | Rescue Friends Solitaire | 156544 | [156544-rescue-friends-solitaire.json](./156544-rescue-friends-solitaire.json) |
@@ -3536,6 +3538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCop | 59110 | [59110-robocop.json](./59110-robocop.json) |
 | RoboCop | 6013 | [6013-robocop.json](./6013-robocop.json) |
 | RoboCop 2 | 144145 | [144145-robocop-2.json](./144145-robocop-2.json) |
+| RoboCop 2 | 219017 | [219017-robocop-2.json](./219017-robocop-2.json) |
 | RoboCop 3 | 19695 | [19695-robocop-3.json](./19695-robocop-3.json) |
 | RoboCop 3 | 25167 | [25167-robocop-3.json](./25167-robocop-3.json) |
 | RoboCop Versus the Terminator | 288341 | [288341-robocop-versus-the-terminator.json](./288341-robocop-versus-the-terminator.json) |
