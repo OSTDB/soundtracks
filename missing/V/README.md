@@ -300,6 +300,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: The Masquerade - Parliament of Knives: What Stares Back | 216855 | [216855-vampire-the-masquerade-parliament-of-knives-what-stares-back.json](./216855-vampire-the-masquerade-parliament-of-knives-what-stares-back.json) |
 | Vampire: The Masquerade - Reckoning of New York | 305291 | [305291-vampire-the-masquerade-reckoning-of-new-york.json](./305291-vampire-the-masquerade-reckoning-of-new-york.json) |
 | Vampire: The Masquerade - Shadows of New York | 132102 | [132102-vampire-the-masquerade-shadows-of-new-york.json](./132102-vampire-the-masquerade-shadows-of-new-york.json) |
+| Vampire: The Masquerade - Swansong Alternate Outfits Pack | 225608 | [225608-vampire-the-masquerade-swansong-alternate-outfits-pack.json](./225608-vampire-the-masquerade-swansong-alternate-outfits-pack.json) |
+| Vampire: The Masquerade - Swansong Artifacts Pack | 225612 | [225612-vampire-the-masquerade-swansong-artifacts-pack.json](./225612-vampire-the-masquerade-swansong-artifacts-pack.json) |
+| Vampire: The Masquerade - Swansong Victoria Ash | 225611 | [225611-vampire-the-masquerade-swansong-victoria-ash.json](./225611-vampire-the-masquerade-swansong-victoria-ash.json) |
 | Vampire: The Masquerade - Swansong: Primogen Edition | 196806 | [196806-vampire-the-masquerade-swansong-primogen-edition.json](./196806-vampire-the-masquerade-swansong-primogen-edition.json) |
 | Vampire: The Regicide | 297565 | [297565-vampire-the-regicide.json](./297565-vampire-the-regicide.json) |
 | Vampire! At the Masquerade | 301919 | [301919-vampire-at-the-masquerade.json](./301919-vampire-at-the-masquerade.json) |
@@ -412,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VB Mario Land | 175949 | [175949-vb-mario-land.json](./175949-vb-mario-land.json) |
 | VC | 24883 | [24883-vc.json](./24883-vc.json) |
 | vCoder Hero | 127268 | [127268-vcoder-hero.json](./127268-vcoder-hero.json) |
+| VCTR-SCTR | 225596 | [225596-vctr-sctr.json](./225596-vctr-sctr.json) |
 | Vec-Man | 273908 | [273908-vec-man.json](./273908-vec-man.json) |
 | Veck | 71208 | [71208-veck.json](./71208-veck.json) |
 | Vecter | 124183 | [124183-vecter.json](./124183-vecter.json) |
