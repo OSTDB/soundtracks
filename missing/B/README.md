@@ -4958,6 +4958,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman | 287647 | [287647-bomberman.json](./287647-bomberman.json) |
 | Bomberman '93 | 42097 | [42097-bomberman-93.json](./42097-bomberman-93.json) |
 | Bomberman '93 Special | 42056 | [42056-bomberman-93-special.json](./42056-bomberman-93-special.json) |
+| Bomberman 2004 | 198196 | [198196-bomberman-2004.json](./198196-bomberman-2004.json) |
+| Bomberman 3D BT Wide-ban | 198213 | [198213-bomberman-3d-bt-wide-ban.json](./198213-bomberman-3d-bt-wide-ban.json) |
 | Bomberman 64: The Second Attack! | 3452 | [3452-bomberman-64-the-second-attack.json](./3452-bomberman-64-the-second-attack.json) |
 | Bomberman B-Daman | 42545 | [42545-bomberman-b-daman.json](./42545-bomberman-b-daman.json) |
 | Bomberman Blitz | 67318 | [67318-bomberman-blitz.json](./67318-bomberman-blitz.json) |
@@ -4971,10 +4973,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Land | 77674 | [77674-bomberman-land.json](./77674-bomberman-land.json) |
 | Bomberman Land 3 | 64947 | [64947-bomberman-land-3.json](./64947-bomberman-land-3.json) |
 | Bomberman Land Touch! | 20612 | [20612-bomberman-land-touch.json](./20612-bomberman-land-touch.json) |
+| Bomberman Legends | 198215 | [198215-bomberman-legends.json](./198215-bomberman-legends.json) |
 | Bomberman Live: Battlefest | 67696 | [67696-bomberman-live-battlefest.json](./67696-bomberman-live-battlefest.json) |
 | Bomberman Max: Ain Version | 197961 | [197961-bomberman-max-ain-version.json](./197961-bomberman-max-ain-version.json) |
 | Bomberman Nightmare | 142492 | [142492-bomberman-nightmare.json](./142492-bomberman-nightmare.json) |
 | Bomberman Quest | 49837 | [49837-bomberman-quest.json](./49837-bomberman-quest.json) |
+| Bomberman Reprint | 198212 | [198212-bomberman-reprint.json](./198212-bomberman-reprint.json) |
 | Bomberman Selection | 56467 | [56467-bomberman-selection.json](./56467-bomberman-selection.json) |
 | Bomberman Tournament | 6334 | [6334-bomberman-tournament.json](./6334-bomberman-tournament.json) |
 | Bomberman Ultra | 44572 | [44572-bomberman-ultra.json](./44572-bomberman-ultra.json) |
@@ -6037,6 +6041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breeder | 41329 | [41329-breeder.json](./41329-breeder.json) |
 | Breenstein | 252103 | [252103-breenstein.json](./252103-breenstein.json) |
 | Breeze Girl | 193991 | [193991-breeze-girl.json](./193991-breeze-girl.json) |
+| Breeze in the Clouds | 198220 | [198220-breeze-in-the-clouds.json](./198220-breeze-in-the-clouds.json) |
 | Breeze of Ashes | 332251 | [332251-breeze-of-ashes.json](./332251-breeze-of-ashes.json) |
 | Breeze of Passion | 358979 | [358979-breeze-of-passion.json](./358979-breeze-of-passion.json) |
 | Breezy Paws | 274735 | [274735-breezy-paws.json](./274735-breezy-paws.json) |
@@ -6610,6 +6615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Too! | 45524 | [45524-bug-too.json](./45524-bug-too.json) |
 | Bug Village | 94203 | [94203-bug-village.json](./94203-bug-village.json) |
 | Bug-o-Buster | 322985 | [322985-bug-o-buster.json](./322985-bug-o-buster.json) |
+| Bugaboo Pocket | 198221 | [198221-bugaboo-pocket.json](./198221-bugaboo-pocket.json) |
 | BuGarden | 392302 | [392302-bugarden.json](./392302-bugarden.json) |
 | Bugboy | 329080 | [329080-bugboy.json](./329080-bugboy.json) |
 | BugBurgh | 305268 | [305268-bugburgh.json](./305268-bugburgh.json) |
