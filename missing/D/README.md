@@ -1625,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Esteban | 63266 | [63266-dear-esteban.json](./63266-dear-esteban.json) |
 | Dear Esther | 273899 | [273899-dear-esther.json](./273899-dear-esther.json) |
 | Dear Esther | 3082 | [3082-dear-esther.json](./3082-dear-esther.json) |
+| Dear Friend | 226167 | [226167-dear-friend.json](./226167-dear-friend.json) |
 | Dear Future | 144791 | [144791-dear-future.json](./144791-dear-future.json) |
 | Dear Genny | 177532 | [177532-dear-genny.json](./177532-dear-genny.json) |
 | Dear Girl: Stories Hibiki - Hibiki Tokkun Daisakusen! | 204480 | [204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json](./204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json) |
@@ -3184,6 +3185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Deluge | 414294 | [414294-dice-deluge.json](./414294-dice-deluge.json) |
 | Dice Derby | 366418 | [366418-dice-derby.json](./366418-dice-derby.json) |
 | Dice Fight | 232368 | [232368-dice-fight.json](./232368-dice-fight.json) |
+| Dice Game | 226179 | [226179-dice-game.json](./226179-dice-game.json) |
 | Dice Guy | 217006 | [217006-dice-guy.json](./217006-dice-guy.json) |
 | Dice In You | 379013 | [379013-dice-in-you.json](./379013-dice-in-you.json) |
 | Dice King | 188016 | [188016-dice-king.json](./188016-dice-king.json) |
@@ -6019,6 +6021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Chronicles: The Book of Air | 50501 | [50501-dream-chronicles-the-book-of-air.json](./50501-dream-chronicles-the-book-of-air.json) |
 | Dream Chronicles: The Chosen Child | 16071 | [16071-dream-chronicles-the-chosen-child.json](./16071-dream-chronicles-the-chosen-child.json) |
 | Dream City: Metropolis | 256352 | [256352-dream-city-metropolis.json](./256352-dream-city-metropolis.json) |
+| Dream Clovers | 226152 | [226152-dream-clovers.json](./226152-dream-clovers.json) |
 | Dream Club Gogo. | 147304 | [147304-dream-club-gogo.json](./147304-dream-club-gogo.json) |
 | Dream Coaster VR | 52258 | [52258-dream-coaster-vr.json](./52258-dream-coaster-vr.json) |
 | Dream Daddy: Dadrector's Cut | 111064 | [111064-dream-daddy-dadrectors-cut.json](./111064-dream-daddy-dadrectors-cut.json) |
@@ -7320,6 +7323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynacat | 196958 | [196958-dynacat.json](./196958-dynacat.json) |
 | Dynacore | 214722 | [214722-dynacore.json](./214722-dynacore.json) |
 | Dynami Tracer | 2981 | [2981-dynami-tracer.json](./2981-dynami-tracer.json) |
+| Dynamic | 226170 | [226170-dynamic.json](./226170-dynamic.json) |
 | Dynamic Chord feat. Apple-Polisher | 142447 | [142447-dynamic-chord-feat-apple-polisher.json](./142447-dynamic-chord-feat-apple-polisher.json) |
 | Dynamic Chord feat. Kyohso | 142446 | [142446-dynamic-chord-feat-kyohso.json](./142446-dynamic-chord-feat-kyohso.json) |
 | Dynamic Chord feat. Liar-S | 142445 | [142445-dynamic-chord-feat-liar-s.json](./142445-dynamic-chord-feat-liar-s.json) |
