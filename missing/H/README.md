@@ -3415,6 +3415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoglands | 231651 | [231651-hoglands.json](./231651-hoglands.json) |
 | Hogtie | 348335 | [348335-hogtie.json](./348335-hogtie.json) |
 | Hogvalord: The Ranch | 236389 | [236389-hogvalord-the-ranch.json](./236389-hogvalord-the-ranch.json) |
+| Hogwarts Legacy: Digital Deluxe Edition | 214440 | [214440-hogwarts-legacy-digital-deluxe-edition.json](./214440-hogwarts-legacy-digital-deluxe-edition.json) |
 | Hogwash | 125386 | [125386-hogwash.json](./125386-hogwash.json) |
 | Hohokum | 10088 | [10088-hohokum.json](./10088-hohokum.json) |
 | Hoisan's Random Game | 122857 | [122857-hoisans-random-game.json](./122857-hoisans-random-game.json) |
