@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makka Pakka 2 | 375322 | [375322-makka-pakka-2.json](./375322-makka-pakka-2.json) |
 | Makoto Mobius | 150152 | [150152-makoto-mobius.json](./150152-makoto-mobius.json) |
 | Makoto Wakaido's Case Files: Executioner's Wedge | 245045 | [245045-makoto-wakaidos-case-files-executioners-wedge.json](./245045-makoto-wakaidos-case-files-executioners-wedge.json) |
+| Mala Petaka | 224535 | [224535-mala-petaka.json](./224535-mala-petaka.json) |
 | Malacadabra | 229037 | [229037-malacadabra.json](./229037-malacadabra.json) |
 | Malasombra | 227820 | [227820-malasombra.json](./227820-malasombra.json) |
 | Malavision: The Origin | 31812 | [31812-malavision-the-origin.json](./31812-malavision-the-origin.json) |
@@ -3358,6 +3359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melvor Idle | 141130 | [141130-melvor-idle.json](./141130-melvor-idle.json) |
 | Melvor Idle: Atlas of Discovery | 259837 | [259837-melvor-idle-atlas-of-discovery.json](./259837-melvor-idle-atlas-of-discovery.json) |
 | Melvor Idle: Into the Abyss | 298026 | [298026-melvor-idle-into-the-abyss.json](./298026-melvor-idle-into-the-abyss.json) |
+| Melvor Idle: Throne of the Herald | 224480 | [224480-melvor-idle-throne-of-the-herald.json](./224480-melvor-idle-throne-of-the-herald.json) |
 | Memary: Memory of The Nameless One | 296476 | [296476-memary-memory-of-the-nameless-one.json](./296476-memary-memory-of-the-nameless-one.json) |
 | Memasiki | 368567 | [368567-memasiki.json](./368567-memasiki.json) |
 | Memasiki po Classice | 404875 | [404875-memasiki-po-classice.json](./404875-memasiki-po-classice.json) |
@@ -3749,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metacity Patrol | 339796 | [339796-metacity-patrol.json](./339796-metacity-patrol.json) |
 | Metaforces Bowling Center | 279122 | [279122-metaforces-bowling-center.json](./279122-metaforces-bowling-center.json) |
 | Metagal | 19321 | [19321-metagal.json](./19321-metagal.json) |
+| Metagates | 224526 | [224526-metagates.json](./224526-metagates.json) |
 | Metahorror Therapy Session | 338930 | [338930-metahorror-therapy-session.json](./338930-metahorror-therapy-session.json) |
 | Metal | 95217 | [95217-metal.json](./95217-metal.json) |
 | Metal Angel 3 | 91961 | [91961-metal-angel-3.json](./91961-metal-angel-3.json) |
@@ -3864,6 +3867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Storm | 48170 | [48170-metal-storm.json](./48170-metal-storm.json) |
 | Metal Suits: Counter-Attack | 217505 | [217505-metal-suits-counter-attack.json](./217505-metal-suits-counter-attack.json) |
 | Metal Surge | 369218 | [369218-metal-surge.json](./369218-metal-surge.json) |
+| Metal Survivor | 224520 | [224520-metal-survivor.json](./224520-metal-survivor.json) |
 | Metal Swarm Infinity | 167680 | [167680-metal-swarm-infinity.json](./167680-metal-swarm-infinity.json) |
 | Metal Torrent | 67703 | [67703-metal-torrent.json](./67703-metal-torrent.json) |
 | Metal Walker | 49872 | [49872-metal-walker.json](./49872-metal-walker.json) |
@@ -3989,6 +3993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Galactic Marine | 341143 | [341143-metroid-galactic-marine.json](./341143-metroid-galactic-marine.json) |
 | Metroid: Genesis | 323757 | [323757-metroid-genesis.json](./323757-metroid-genesis.json) |
 | Metroid: HD | 310611 | [310611-metroid-hd.json](./310611-metroid-hd.json) |
+| Metroid: Origins | 224478 | [224478-metroid-origins.json](./224478-metroid-origins.json) |
 | Metroid: Rechoose | 318019 | [318019-metroid-rechoose.json](./318019-metroid-rechoose.json) |
 | Metroid: Recovery | 323875 | [323875-metroid-recovery.json](./323875-metroid-recovery.json) |
 | Metroid: Samus Returns | 37140 | [37140-metroid-samus-returns.json](./37140-metroid-samus-returns.json) |
@@ -4188,6 +4193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator 5.1: The Virtual Squadron | 141224 | [141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json](./141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json) |
 | Microsoft Flight Simulator X: Acceleration | 713 | [713-microsoft-flight-simulator-x-acceleration.json](./713-microsoft-flight-simulator-x-acceleration.json) |
 | Microsoft Flight Simulator X: Deluxe Edition | 23775 | [23775-microsoft-flight-simulator-x-deluxe-edition.json](./23775-microsoft-flight-simulator-x-deluxe-edition.json) |
+| Microsoft Flight Simulator X: Iris F-15E/I/SG | 224498 | [224498-microsoft-flight-simulator-x-iris-f-15e-i-sg.json](./224498-microsoft-flight-simulator-x-iris-f-15e-i-sg.json) |
 | Microsoft Flight Simulator X: Steam Edition | 36261 | [36261-microsoft-flight-simulator-x-steam-edition.json](./36261-microsoft-flight-simulator-x-steam-edition.json) |
 | Microsoft Flight Simulator X: Steam Edition - 3D Lights Redux | 161889 | [161889-microsoft-flight-simulator-x-steam-edition-3d-lights-redux.json](./161889-microsoft-flight-simulator-x-steam-edition-3d-lights-redux.json) |
 | Microsoft Flight Simulator X: Steam Edition - 737 Extreme Sound | 161820 | [161820-microsoft-flight-simulator-x-steam-edition-737-extreme-sound.json](./161820-microsoft-flight-simulator-x-steam-edition-737-extreme-sound.json) |
@@ -6208,6 +6214,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Prom 2: Monster Camp XXL Character Pack - Colorful Campers | 283183 | [283183-monster-prom-2-monster-camp-xxl-character-pack-colorful-campers.json](./283183-monster-prom-2-monster-camp-xxl-character-pack-colorful-campers.json) |
 | Monster Prom 3: Monster Roadtrip - Hitchhiker Pack: Amira & Oz | 230822 | [230822-monster-prom-3-monster-roadtrip-hitchhiker-pack-amira-and-oz.json](./230822-monster-prom-3-monster-roadtrip-hitchhiker-pack-amira-and-oz.json) |
 | Monster Prom 3: Monster Roadtrip - Hitchhiker Pack: Vicky & Brian | 241967 | [241967-monster-prom-3-monster-roadtrip-hitchhiker-pack-vicky-and-brian.json](./241967-monster-prom-3-monster-roadtrip-hitchhiker-pack-vicky-and-brian.json) |
+| Monster Prom 3: Monster Roadtrip - Playable Character Glitch | 224484 | [224484-monster-prom-3-monster-roadtrip-playable-character-glitch.json](./224484-monster-prom-3-monster-roadtrip-playable-character-glitch.json) |
+| Monster Prom 3: Monster Roadtrip - Playable Character Hazel | 224487 | [224487-monster-prom-3-monster-roadtrip-playable-character-hazel.json](./224487-monster-prom-3-monster-roadtrip-playable-character-hazel.json) |
+| Monster Prom 3: Monster Roadtrip - Playable Character Juan | 224482 | [224482-monster-prom-3-monster-roadtrip-playable-character-juan.json](./224482-monster-prom-3-monster-roadtrip-playable-character-juan.json) |
+| Monster Prom 3: Monster Roadtrip - Playable Character Zoe | 224488 | [224488-monster-prom-3-monster-roadtrip-playable-character-zoe.json](./224488-monster-prom-3-monster-roadtrip-playable-character-zoe.json) |
 | Monster Prom 3: Monster Roadtrip x Cult of the Lamb | 272830 | [272830-monster-prom-3-monster-roadtrip-x-cult-of-the-lamb.json](./272830-monster-prom-3-monster-roadtrip-x-cult-of-the-lamb.json) |
 | Monster Prom 4: Monster Con | 307329 | [307329-monster-prom-4-monster-con.json](./307329-monster-prom-4-monster-con.json) |
 | Monster Prom 4: Monster Con XXL | 375413 | [375413-monster-prom-4-monster-con-xxl.json](./375413-monster-prom-4-monster-con-xxl.json) |
@@ -7770,6 +7780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cup of Coffee: Earl Grey Forever After | 57904 | [57904-my-cup-of-coffee-earl-grey-forever-after.json](./57904-my-cup-of-coffee-earl-grey-forever-after.json) |
 | My Cup of Coffee: The Trouble With Earl Grey | 57903 | [57903-my-cup-of-coffee-the-trouble-with-earl-grey.json](./57903-my-cup-of-coffee-the-trouble-with-earl-grey.json) |
 | My Cute Fuhrer | 280265 | [280265-my-cute-fuhrer.json](./280265-my-cute-fuhrer.json) |
+| My Cute Succubus | 224528 | [224528-my-cute-succubus.json](./224528-my-cute-succubus.json) |
 | My Cute Unicorns: Coloring Book | 212272 | [212272-my-cute-unicorns-coloring-book.json](./212272-my-cute-unicorns-coloring-book.json) |
 | My Cute, Pure Boyfriend | 303274 | [303274-my-cute-pure-boyfriend.json](./303274-my-cute-pure-boyfriend.json) |
 | My Daily Pets | 270976 | [270976-my-daily-pets.json](./270976-my-daily-pets.json) |
