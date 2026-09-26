@@ -2903,6 +2903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashcard Clash | 25734 | [25734-flashcard-clash.json](./25734-flashcard-clash.json) |
 | FlashGal | 39580 | [39580-flashgal.json](./39580-flashgal.json) |
 | Flashing Lights: Thunder Sport Sedan Pack (Police, Fire, EMS) | 277591 | [277591-flashing-lights-thunder-sport-sedan-pack-police-fire-ems.json](./277591-flashing-lights-thunder-sport-sedan-pack-police-fire-ems.json) |
+| Flashlight Party | 223936 | [223936-flashlight-party.json](./223936-flashlight-party.json) |
 | Flashlight Sim | 304602 | [304602-flashlight-sim.json](./304602-flashlight-sim.json) |
 | Flashloop | 348337 | [348337-flashloop.json](./348337-flashloop.json) |
 | Flashout 3D | 39206 | [39206-flashout-3d.json](./39206-flashout-3d.json) |
@@ -2982,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flick Arena | 104094 | [104094-flick-arena.json](./104094-flick-arena.json) |
 | Flick Champions Classic | 86846 | [86846-flick-champions-classic.json](./86846-flick-champions-classic.json) |
 | Flick Champions Summer Sports | 86871 | [86871-flick-champions-summer-sports.json](./86871-flick-champions-summer-sports.json) |
+| Flick Chess! | 223937 | [223937-flick-chess.json](./223937-flick-chess.json) |
 | Flick Erasers Battle Royale | 315834 | [315834-flick-erasers-battle-royale.json](./315834-flick-erasers-battle-royale.json) |
 | Flick Field Goal 16 | 58208 | [58208-flick-field-goal-16.json](./58208-flick-field-goal-16.json) |
 | Flick Fishing | 79238 | [79238-flick-fishing.json](./79238-flick-fishing.json) |
@@ -3032,6 +3034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Simulator | 69838 | [69838-flight-simulator.json](./69838-flight-simulator.json) |
 | Flight Simulator 2025 VR | 335088 | [335088-flight-simulator-2025-vr.json](./335088-flight-simulator-2025-vr.json) |
 | Flight Simulator 2026 | 401128 | [401128-flight-simulator-2026.json](./401128-flight-simulator-2026.json) |
+| Flight Simulator 2d | 223935 | [223935-flight-simulator-2d.json](./223935-flight-simulator-2d.json) |
 | Flight Simulator Airplane Game | 261914 | [261914-flight-simulator-airplane-game.json](./261914-flight-simulator-airplane-game.json) |
 | Flight Simulator Xtreme | 88109 | [88109-flight-simulator-xtreme.json](./88109-flight-simulator-xtreme.json) |
 | Flight Squadron | 69887 | [69887-flight-squadron.json](./69887-flight-squadron.json) |
@@ -3268,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Shop: Summer In Fairbrook | 9843 | [9843-flower-shop-summer-in-fairbrook.json](./9843-flower-shop-summer-in-fairbrook.json) |
 | Flower Shop: Winter In Fairbrook | 17586 | [17586-flower-shop-winter-in-fairbrook.json](./17586-flower-shop-winter-in-fairbrook.json) |
 | Flower Visit | 177576 | [177576-flower-visit.json](./177576-flower-visit.json) |
+| Flower vs. Zombie War | 223934 | [223934-flower-vs-zombie-war.json](./223934-flower-vs-zombie-war.json) |
 | Flower, Sun, and Rain: Murder and Mystery in Paradise | 159295 | [159295-flower-sun-and-rain-murder-and-mystery-in-paradise.json](./159295-flower-sun-and-rain-murder-and-mystery-in-paradise.json) |
 | Flowerhorn Aquarium | 255748 | [255748-flowerhorn-aquarium.json](./255748-flowerhorn-aquarium.json) |
 | Flowering Across | 153419 | [153419-flowering-across.json](./153419-flowering-across.json) |
@@ -3612,6 +3616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Hero | 262060 | [262060-football-hero.json](./262060-football-hero.json) |
 | Football Kicks | 231060 | [231060-football-kicks.json](./231060-football-kicks.json) |
 | Football Killer | 188096 | [188096-football-killer.json](./188096-football-killer.json) |
+| Football League 2023 | 223933 | [223933-football-league-2023.json](./223933-football-league-2023.json) |
 | Football Legacy | 394539 | [394539-football-legacy.json](./394539-football-legacy.json) |
 | Football Legend | 59080 | [59080-football-legend.json](./59080-football-legend.json) |
 | Football Legends 2025: Diamond Edition | 399818 | [399818-football-legends-2025-diamond-edition.json](./399818-football-legends-2025-diamond-edition.json) |
@@ -3635,6 +3640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager Live | 21249 | [21249-football-manager-live.json](./21249-football-manager-live.json) |
 | Football Manager Quiz | 318991 | [318991-football-manager-quiz.json](./318991-football-manager-quiz.json) |
 | Football Manager: World Cup Edition | 41003 | [41003-football-manager-world-cup-edition.json](./41003-football-manager-world-cup-edition.json) |
+| Football Master 2: FT9's Coming | 223938 | [223938-football-master-2-ft9s-coming.json](./223938-football-master-2-ft9s-coming.json) |
 | Football Mini Stars | 347322 | [347322-football-mini-stars.json](./347322-football-mini-stars.json) |
 | Football Mogul 15 | 31694 | [31694-football-mogul-15.json](./31694-football-mogul-15.json) |
 | Football Mogul 2007 | 209466 | [209466-football-mogul-2007.json](./209466-football-mogul-2007.json) |
@@ -4307,6 +4313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPS Arena Online | 195707 | [195707-fps-arena-online.json](./195707-fps-arena-online.json) |
 | FPS Hero | 386284 | [386284-fps-hero.json](./386284-fps-hero.json) |
 | FPS Infinite | 334154 | [334154-fps-infinite.json](./334154-fps-infinite.json) |
+| FPS Offline Strike: Missions | 223939 | [223939-fps-offline-strike-missions.json](./223939-fps-offline-strike-missions.json) |
 | FPS Robot Attack Minigame | 371303 | [371303-fps-robot-attack-minigame.json](./371303-fps-robot-attack-minigame.json) |
 | FPS Shooting Master | 102748 | [102748-fps-shooting-master.json](./102748-fps-shooting-master.json) |
 | FPS Trainer | 94177 | [94177-fps-trainer.json](./94177-fps-trainer.json) |
