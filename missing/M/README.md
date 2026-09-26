@@ -732,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic Monopole Mayhem | 181137 | [181137-magnetic-monopole-mayhem.json](./181137-magnetic-monopole-mayhem.json) |
 | Magnetic Projectiles | 211668 | [211668-magnetic-projectiles.json](./211668-magnetic-projectiles.json) |
 | Magnetic Pull | 118324 | [118324-magnetic-pull.json](./118324-magnetic-pull.json) |
+| Magnetoresistive | 180597 | [180597-magnetoresistive.json](./180597-magnetoresistive.json) |
 | Magnets | 366911 | [366911-magnets.json](./366911-magnets.json) |
 | Magnificent Alfie | 233752 | [233752-magnificent-alfie.json](./233752-magnificent-alfie.json) |
 | Magnificent-1 | 196137 | [196137-magnificent-1.json](./196137-magnificent-1.json) |
@@ -2272,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matching App de Shiriatta Otoko wo Shinyou shite ha Ikemasen. | 341026 | [341026-matching-app-de-shiriatta-otoko-wo-shinyou-shite-ha-ikemasen.json](./341026-matching-app-de-shiriatta-otoko-wo-shinyou-shite-ha-ikemasen.json) |
 | Matching Blocks | 288362 | [288362-matching-blocks.json](./288362-matching-blocks.json) |
 | Matching With Friends | 64889 | [64889-matching-with-friends.json](./64889-matching-with-friends.json) |
+| Matchkey | 180623 | [180623-matchkey.json](./180623-matchkey.json) |
 | Matchmaker Simulator | 390790 | [390790-matchmaker-simulator.json](./390790-matchmaker-simulator.json) |
 | Matchmaker: Dungeon Heart | 263783 | [263783-matchmaker-dungeon-heart.json](./263783-matchmaker-dungeon-heart.json) |
 | Matchmaking for Ghosts | 398988 | [398988-matchmaking-for-ghosts.json](./398988-matchmaking-for-ghosts.json) |
@@ -2295,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matel Gear II | 267366 | [267366-matel-gear-ii.json](./267366-matel-gear-ii.json) |
 | Maten Densetsu: Senritsu no Ooparts | 37931 | [37931-maten-densetsu-senritsu-no-ooparts.json](./37931-maten-densetsu-senritsu-no-ooparts.json) |
 | Matendouji | 215140 | [215140-matendouji.json](./215140-matendouji.json) |
+| Material Brave | 180612 | [180612-material-brave.json](./180612-material-brave.json) |
 | Materialization of Memories | 248019 | [248019-materialization-of-memories.json](./248019-materialization-of-memories.json) |
 | MaternalBound Redux | 219084 | [219084-maternalbound-redux.json](./219084-maternalbound-redux.json) |
 | MaternalBound: An EarthBound & Mother 2 Bond! | 313344 | [313344-maternalbound-an-earthbound-and-mother-2-bond.json](./313344-maternalbound-an-earthbound-and-mother-2-bond.json) |
@@ -2689,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Commander Gold | 51238 | [51238-mech-commander-gold.json](./51238-mech-commander-gold.json) |
 | Mech Farmer | 150696 | [150696-mech-farmer.json](./150696-mech-farmer.json) |
 | Mech Fortress | 360058 | [360058-mech-fortress.json](./360058-mech-fortress.json) |
+| Mech Gun | 180579 | [180579-mech-gun.json](./180579-mech-gun.json) |
 | Mech in the City | 365779 | [365779-mech-in-the-city.json](./365779-mech-in-the-city.json) |
 | Mech Invasion: Combat Robots | 193885 | [193885-mech-invasion-combat-robots.json](./193885-mech-invasion-combat-robots.json) |
 | Mech Jam 3: Encounters on the Red Planet | 395893 | [395893-mech-jam-3-encounters-on-the-red-planet.json](./395893-mech-jam-3-encounters-on-the-red-planet.json) |
@@ -8437,6 +8441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Talking Dog 2 | 269099 | [269099-my-talking-dog-2.json](./269099-my-talking-dog-2.json) |
 | My Talking Girl | 300429 | [300429-my-talking-girl.json](./300429-my-talking-girl.json) |
 | My Talking Pretty Girl | 300430 | [300430-my-talking-pretty-girl.json](./300430-my-talking-pretty-girl.json) |
+| My Talking Tom 2 | 180604 | [180604-my-talking-tom-2.json](./180604-my-talking-tom-2.json) |
 | My Tasty Husband | 390235 | [390235-my-tasty-husband.json](./390235-my-tasty-husband.json) |
 | My Teacher is an Alien | 148515 | [148515-my-teacher-is-an-alien.json](./148515-my-teacher-is-an-alien.json) |
 | My Thai Boyfriend | 291078 | [291078-my-thai-boyfriend.json](./291078-my-thai-boyfriend.json) |
