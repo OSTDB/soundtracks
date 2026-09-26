@@ -703,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harbinger's Horse GT | 183586 | [183586-harbingers-horse-gt.json](./183586-harbingers-horse-gt.json) |
 | Harbingers of Desspair | 320959 | [320959-harbingers-of-desspair.json](./320959-harbingers-of-desspair.json) |
 | Harborland de Tsukamaete | 317009 | [317009-harborland-de-tsukamaete.json](./317009-harborland-de-tsukamaete.json) |
+| Harbour Master | 206089 | [206089-harbour-master.json](./206089-harbour-master.json) |
 | Harca | 340413 | [340413-harca.json](./340413-harca.json) |
 | Hard Ball Wikie | 196890 | [196890-hard-ball-wikie.json](./196890-hard-ball-wikie.json) |
 | Hard Brain | 266882 | [266882-hard-brain.json](./266882-hard-brain.json) |
@@ -1790,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty World | 246935 | [246935-hello-kitty-world.json](./246935-hello-kitty-world.json) |
 | Hello Kitty World | 48626 | [48626-hello-kitty-world.json](./48626-hello-kitty-world.json) |
 | Hello Kitty World 2 | 246936 | [246936-hello-kitty-world-2.json](./246936-hello-kitty-world-2.json) |
+| Hello Kitty: A Day with Hello Kitty and Friends! | 206065 | [206065-hello-kitty-a-day-with-hello-kitty-and-friends.json](./206065-hello-kitty-a-day-with-hello-kitty-and-friends.json) |
 | Hello Kitty: Big City Dreams | 3686 | [3686-hello-kitty-big-city-dreams.json](./3686-hello-kitty-big-city-dreams.json) |
 | Hello Kitty: Carrot Story | 206192 | [206192-hello-kitty-carrot-story.json](./206192-hello-kitty-carrot-story.json) |
 | Hello Kitty: Happy Happy Family | 83209 | [83209-hello-kitty-happy-happy-family.json](./83209-hello-kitty-happy-happy-family.json) |
@@ -3443,6 +3445,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoist Sail for the Heliopause and Home | 7847 | [7847-hoist-sail-for-the-heliopause-and-home.json](./7847-hoist-sail-for-the-heliopause-and-home.json) |
 | Hokkaido Game | 272254 | [272254-hokkaido-game.json](./272254-hokkaido-game.json) |
 | Hokkaido Hatsu!! Dosanko Wide ga DS ni Narimashita! Hoshizawa Sachiko no Temanashi Raku Raku Gohan | 269584 | [269584-hokkaido-hatsu-dosanko-wide-ga-ds-ni-narimashita-hoshizawa-sachiko-no-temanashi-raku-raku-gohan.json](./269584-hokkaido-hatsu-dosanko-wide-ga-ds-ni-narimashita-hoshizawa-sachiko-no-temanashi-raku-raku-gohan.json) |
+| Hokkaido Rensa Satsujin: Okhotsk ni Kiyu | 206087 | [206087-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json](./206087-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json) |
+| Hokkaido Rensa Satsujin: Okhotsk ni Kiyu | 206088 | [206088-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json](./206088-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json) |
 | Hokkaido Rensa Satsujin: Okhotsk ni Kiyu | 206134 | [206134-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json](./206134-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json) |
 | Hokkaido: 4,500km | 264073 | [264073-hokkaido-4-500km.json](./264073-hokkaido-4-500km.json) |
 | Hokko Spaces | 404866 | [404866-hokko-spaces.json](./404866-hokko-spaces.json) |
@@ -4989,6 +4993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydropawnics | 371893 | [371893-hydropawnics.json](./371893-hydropawnics.json) |
 | Hydroplane: Riptide Racers | 278549 | [278549-hydroplane-riptide-racers.json](./278549-hydroplane-riptide-racers.json) |
 | Hyena Simulator | 86848 | [86848-hyena-simulator.json](./86848-hyena-simulator.json) |
+| Hyenas | 206103 | [206103-hyenas.json](./206103-hyenas.json) |
 | Hymeno Striker: Akashicverse Minigame | 171597 | [171597-hymeno-striker-akashicverse-minigame.json](./171597-hymeno-striker-akashicverse-minigame.json) |
 | Hyokkori Hyoutan-jima: Takaramono Tocchae! | 346028 | [346028-hyokkori-hyoutan-jima-takaramono-tocchae.json](./346028-hyokkori-hyoutan-jima-takaramono-tocchae.json) |
 | Hyouji Gazou Henkou Kanou Typing | 301609 | [301609-hyouji-gazou-henkou-kanou-typing.json](./301609-hyouji-gazou-henkou-kanou-typing.json) |
