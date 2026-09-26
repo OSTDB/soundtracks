@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SameShadow: Fernando's Journey | 272241 | [272241-sameshadow-fernandos-journey.json](./272241-sameshadow-fernandos-journey.json) |
 | Samgugji: Paewang | 368040 | [368040-samgugji-paewang.json](./368040-samgugji-paewang.json) |
 | Samhain | 125269 | [125269-samhain.json](./125269-samhain.json) |
+| Samhain | 178419 | [178419-samhain.json](./178419-samhain.json) |
 | Samhain | 179687 | [179687-samhain.json](./179687-samhain.json) |
 | Samhain | 267442 | [267442-samhain.json](./267442-samhain.json) |
 | Sami | 367959 | [367959-sami.json](./367959-sami.json) |
@@ -2003,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeds of Love | 120204 | [120204-seeds-of-love.json](./120204-seeds-of-love.json) |
 | Seeds of Power Bundle: Weedcraft Inc & Cultist Simulator: Anthology | 331515 | [331515-seeds-of-power-bundle-weedcraft-inc-and-cultist-simulator-anthology.json](./331515-seeds-of-power-bundle-weedcraft-inc-and-cultist-simulator-anthology.json) |
 | Seeds of Unity | 196804 | [196804-seeds-of-unity.json](./196804-seeds-of-unity.json) |
+| Seedship | 178454 | [178454-seedship.json](./178454-seedship.json) |
 | Seeing Red | 395587 | [395587-seeing-red.json](./395587-seeing-red.json) |
 | Seeing Things | 272935 | [272935-seeing-things.json](./272935-seeing-things.json) |
 | Seek | 333917 | [333917-seek.json](./333917-seek.json) |
@@ -8527,6 +8529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speak of the Devil I: A Deathly Proposition | 277941 | [277941-speak-of-the-devil-i-a-deathly-proposition.json](./277941-speak-of-the-devil-i-a-deathly-proposition.json) |
 | Speakeasy | 253334 | [253334-speakeasy.json](./253334-speakeasy.json) |
 | Speakeasy Simulator | 375821 | [375821-speakeasy-simulator.json](./375821-speakeasy-simulator.json) |
+| Speaker | 178457 | [178457-speaker.json](./178457-speaker.json) |
 | Speaking Simulator 2018 | 111648 | [111648-speaking-simulator-2018.json](./111648-speaking-simulator-2018.json) |
 | Speakrit | 293702 | [293702-speakrit.json](./293702-speakrit.json) |
 | Spear Knight | 233445 | [233445-spear-knight.json](./233445-spear-knight.json) |
@@ -14381,6 +14384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweep City | 329683 | [329683-sweep-city.json](./329683-sweep-city.json) |
 | Sweep Maidens | 320306 | [320306-sweep-maidens.json](./320306-sweep-maidens.json) |
 | Sweep Strike | 376540 | [376540-sweep-strike.json](./376540-sweep-strike.json) |
+| Sweeper | 178436 | [178436-sweeper.json](./178436-sweeper.json) |
 | Sweeper Zero | 107870 | [107870-sweeper-zero.json](./107870-sweeper-zero.json) |
 | Sweepminer | 377044 | [377044-sweepminer.json](./377044-sweepminer.json) |
 | Sweet Adventure | 392916 | [392916-sweet-adventure.json](./392916-sweet-adventure.json) |
