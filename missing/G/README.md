@@ -3455,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grederys | 201226 | [201226-grederys.json](./201226-grederys.json) |
 | Greeblings | 351110 | [351110-greeblings.json](./351110-greeblings.json) |
 | Greebly Gambit | 407336 | [407336-greebly-gambit.json](./407336-greebly-gambit.json) |
+| Greed | 204991 | [204991-greed.json](./204991-greed.json) |
 | Greed 3: Old Enemies Returning | 115702 | [115702-greed-3-old-enemies-returning.json](./115702-greed-3-old-enemies-returning.json) |
 | Greed and Fear and the Rest | 295857 | [295857-greed-and-fear-and-the-rest.json](./295857-greed-and-fear-and-the-rest.json) |
 | Greed Champions | 402386 | [402386-greed-champions.json](./402386-greed-champions.json) |
