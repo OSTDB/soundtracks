@@ -1270,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After School | 252719 | [252719-after-school.json](./252719-after-school.json) |
 | After School | 253348 | [253348-after-school.json](./253348-after-school.json) |
 | After School Girlfriend | 206197 | [206197-after-school-girlfriend.json](./206197-after-school-girlfriend.json) |
+| After School Girlfriend: Performing Arts Club | 210608 | [210608-after-school-girlfriend-performing-arts-club.json](./210608-after-school-girlfriend-performing-arts-club.json) |
 | After School: Full Horror Game | 233469 | [233469-after-school-full-horror-game.json](./233469-after-school-full-horror-game.json) |
 | After Stream | 235465 | [235465-after-stream.json](./235465-after-stream.json) |
 | After Sun | 180815 | [180815-after-sun.json](./180815-after-sun.json) |
@@ -1518,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aikiss 3 Cute: Complete Limited Edition | 182478 | [182478-aikiss-3-cute-complete-limited-edition.json](./182478-aikiss-3-cute-complete-limited-edition.json) |
 | Aikode | 255658 | [255658-aikode.json](./255658-aikode.json) |
 | Aikokuryuu no Memoria | 257455 | [257455-aikokuryuu-no-memoria.json](./257455-aikokuryuu-no-memoria.json) |
+| Ailin: Traps and Treasures | 210576 | [210576-ailin-traps-and-treasures.json](./210576-ailin-traps-and-treasures.json) |
 | Ailse of Shadows | 410227 | [410227-ailse-of-shadows.json](./410227-ailse-of-shadows.json) |
 | Ailuri | 189192 | [189192-ailuri.json](./189192-ailuri.json) |
 | Aim & Shoot | 358841 | [358841-aim-and-shoot.json](./358841-aim-and-shoot.json) |
@@ -4068,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: Emergence | 159117 | [159117-apex-legends-emergence.json](./159117-apex-legends-emergence.json) |
 | Apex Legends: Escape | 176896 | [176896-apex-legends-escape.json](./176896-apex-legends-escape.json) |
 | Apex Legends: From the Rift | 330746 | [330746-apex-legends-from-the-rift.json](./330746-apex-legends-from-the-rift.json) |
+| Apex Legends: Hunted | 210618 | [210618-apex-legends-hunted.json](./210618-apex-legends-hunted.json) |
 | Apex Legends: Legacy | 146328 | [146328-apex-legends-legacy.json](./146328-apex-legends-legacy.json) |
 | Apex Legends: Marked | 412314 | [412314-apex-legends-marked.json](./412314-apex-legends-marked.json) |
 | Apex Legends: PlayStation Plus Play Pack | 316623 | [316623-apex-legends-playstation-plus-play-pack.json](./316623-apex-legends-playstation-plus-play-pack.json) |
