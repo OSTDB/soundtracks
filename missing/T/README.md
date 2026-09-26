@@ -1304,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team17 Collection 1 | 241979 | [241979-team17-collection-1.json](./241979-team17-collection-1.json) |
 | Teamchef | 93006 | [93006-teamchef.json](./93006-teamchef.json) |
 | Teamfight Manager 2 | 369638 | [369638-teamfight-manager-2.json](./369638-teamfight-manager-2.json) |
+| Teamkill | 191560 | [191560-teamkill.json](./191560-teamkill.json) |
 | TeamPlay | 163976 | [163976-teamplay.json](./163976-teamplay.json) |
 | TeamPunk | 232927 | [232927-teampunk.json](./232927-teampunk.json) |
 | TeamTower | 160255 | [160255-teamtower.json](./160255-teamtower.json) |
@@ -4041,6 +4042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gallery: Episode 1 - Call of the Starseed | 36432 | [36432-the-gallery-episode-1-call-of-the-starseed.json](./36432-the-gallery-episode-1-call-of-the-starseed.json) |
 | The Gambit Lost to Time | 327173 | [327173-the-gambit-lost-to-time.json](./327173-the-gambit-lost-to-time.json) |
 | The Game | 187522 | [187522-the-game.json](./187522-the-game.json) |
+| The Game | 191567 | [191567-the-game.json](./191567-the-game.json) |
 | The Game 15 | 56163 | [56163-the-game-15.json](./56163-the-game-15.json) |
 | The Game Has Started | 387007 | [387007-the-game-has-started.json](./387007-the-game-has-started.json) |
 | The Game of Bionic Goat | 339099 | [339099-the-game-of-bionic-goat.json](./339099-the-game-of-bionic-goat.json) |
@@ -7058,6 +7060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sun: Evaluation | 174761 | [174761-the-sun-evaluation.json](./174761-the-sun-evaluation.json) |
 | The Sun: Origin | 102763 | [102763-the-sun-origin.json](./102763-the-sun-origin.json) |
 | The Sunday | 311572 | [311572-the-sunday.json](./311572-the-sunday.json) |
+| The Sunday Museum | 191562 | [191562-the-sunday-museum.json](./191562-the-sunday-museum.json) |
 | The Sundew | 151150 | [151150-the-sundew.json](./151150-the-sundew.json) |
 | The Sunset that day | 132763 | [132763-the-sunset-that-day.json](./132763-the-sunset-that-day.json) |
 | The Super 1-1 Challenge | 132172 | [132172-the-super-1-1-challenge.json](./132172-the-super-1-1-challenge.json) |
@@ -10470,6 +10473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tornado: Low Level | 23052 | [23052-tornado-low-level.json](./23052-tornado-low-level.json) |
 | Tornado.io | 106525 | [106525-tornado-io.json](./106525-tornado-io.json) |
 | Tornblade | 386880 | [386880-tornblade.json](./386880-tornblade.json) |
+| Tornuktu | 191554 | [191554-tornuktu.json](./191554-tornuktu.json) |
 | Toro to Typing | 246071 | [246071-toro-to-typing.json](./246071-toro-to-typing.json) |
 | Toro's Story App: Heart Pounding Nya | 246074 | [246074-toros-story-app-heart-pounding-nya.json](./246074-toros-story-app-heart-pounding-nya.json) |
 | Toroa: Skycall | 204521 | [204521-toroa-skycall.json](./204521-toroa-skycall.json) |
@@ -12834,6 +12838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tschess | 137470 | [137470-tschess.json](./137470-tschess.json) |
 | TSI Cycles | 125274 | [125274-tsi-cycles.json](./125274-tsi-cycles.json) |
 | Tsjost's Heroic Soup Bazooka | 222902 | [222902-tsjosts-heroic-soup-bazooka.json](./222902-tsjosts-heroic-soup-bazooka.json) |
+| Tsos | 191580 | [191580-tsos.json](./191580-tsos.json) |
 | Tsubaki Hata | 226203 | [226203-tsubaki-hata.json](./226203-tsubaki-hata.json) |
 | Tsubasa Heaven | 406831 | [406831-tsubasa-heaven.json](./406831-tsubasa-heaven.json) |
 | TsucnenT's Treasures | 369225 | [369225-tsucnents-treasures.json](./369225-tsucnents-treasures.json) |
