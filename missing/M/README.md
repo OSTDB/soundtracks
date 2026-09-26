@@ -1725,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mariozza Cops | 153836 | [153836-mariozza-cops.json](./153836-mariozza-cops.json) |
 | Mariposa | 395588 | [395588-mariposa.json](./395588-mariposa.json) |
 | Mariposa and the Galaxy Man | 191904 | [191904-mariposa-and-the-galaxy-man.json](./191904-mariposa-and-the-galaxy-man.json) |
+| Marisa's Inconceivable Journey | 190946 | [190946-marisas-inconceivable-journey.json](./190946-marisas-inconceivable-journey.json) |
 | Marisa's Marvelous Magic Shop | 126940 | [126940-marisas-marvelous-magic-shop.json](./126940-marisas-marvelous-magic-shop.json) |
 | Marissa Is Now Idle | 215222 | [215222-marissa-is-now-idle.json](./215222-marissa-is-now-idle.json) |
 | Maritime Calling | 155978 | [155978-maritime-calling.json](./155978-maritime-calling.json) |
@@ -2308,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Genius: Subtraction | 333204 | [333204-math-genius-subtraction.json](./333204-math-genius-subtraction.json) |
 | Math Invaders | 209546 | [209546-math-invaders.json](./209546-math-invaders.json) |
 | Math is Horror | 278542 | [278542-math-is-horror.json](./278542-math-is-horror.json) |
+| Math it Right 3D Adventure | 190960 | [190960-math-it-right-3d-adventure.json](./190960-math-it-right-3d-adventure.json) |
 | Math Man | 225625 | [225625-math-man.json](./225625-math-man.json) |
 | Math Match Three | 348433 | [348433-math-match-three.json](./348433-math-match-three.json) |
 | Math Maze | 387697 | [387697-math-maze.json](./387697-math-maze.json) |
@@ -7488,6 +7490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muffins on Stream | 239307 | [239307-muffins-on-stream.json](./239307-muffins-on-stream.json) |
 | Muffled Warfare | 96550 | [96550-muffled-warfare.json](./96550-muffled-warfare.json) |
 | Mugamuchuu | 150166 | [150166-mugamuchuu.json](./150166-mugamuchuu.json) |
+| Mugen Abisu | 190959 | [190959-mugen-abisu.json](./190959-mugen-abisu.json) |
 | Mugen no Shinzou II | 246656 | [246656-mugen-no-shinzou-ii.json](./246656-mugen-no-shinzou-ii.json) |
 | Mugen RPG | 301613 | [301613-mugen-rpg.json](./301613-mugen-rpg.json) |
 | Mugen Souls Double Pack | 262325 | [262325-mugen-souls-double-pack.json](./262325-mugen-souls-double-pack.json) |
@@ -7734,6 +7737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Forest | 382881 | [382881-mushroom-forest.json](./382881-mushroom-forest.json) |
 | Mushroom Heaven | 202807 | [202807-mushroom-heaven.json](./202807-mushroom-heaven.json) |
 | Mushroom Hunt | 145673 | [145673-mushroom-hunt.json](./145673-mushroom-hunt.json) |
+| Mushroom Hunter | 190969 | [190969-mushroom-hunter.json](./190969-mushroom-hunter.json) |
 | Mushroom Kid's Big Grass Sword | 285525 | [285525-mushroom-kids-big-grass-sword.json](./285525-mushroom-kids-big-grass-sword.json) |
 | Mushroom Kingdom Fusion | 134078 | [134078-mushroom-kingdom-fusion.json](./134078-mushroom-kingdom-fusion.json) |
 | Mushroom Kingdom Showdown | 307714 | [307714-mushroom-kingdom-showdown.json](./307714-mushroom-kingdom-showdown.json) |
