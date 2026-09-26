@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vektron Revenge | 33100 | [33100-vektron-revenge.json](./33100-vektron-revenge.json) |
 | Velana Adventures: Chapter I | 335348 | [335348-velana-adventures-chapter-i.json](./335348-velana-adventures-chapter-i.json) |
 | Velanit: The Forgotten Cottage | 403019 | [403019-velanit-the-forgotten-cottage.json](./403019-velanit-the-forgotten-cottage.json) |
+| Velaster | 212213 | [212213-velaster.json](./212213-velaster.json) |
 | Velato | 398989 | [398989-velato.json](./398989-velato.json) |
 | Velkyn | 282018 | [282018-velkyn.json](./282018-velkyn.json) |
 | Vellar | 405723 | [405723-vellar.json](./405723-vellar.json) |
@@ -1239,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vlad Circus: Curse of Asmodeus | 337993 | [337993-vlad-circus-curse-of-asmodeus.json](./337993-vlad-circus-curse-of-asmodeus.json) |
 | Vlad the Impaler | 17309 | [17309-vlad-the-impaler.json](./17309-vlad-the-impaler.json) |
 | Vlad Voievod Dracula: Dungeons of Edirne | 272880 | [272880-vlad-voievod-dracula-dungeons-of-edirne.json](./272880-vlad-voievod-dracula-dungeons-of-edirne.json) |
+| Vlad Voievod Dracula: Episode 1 - Manhunt | 212219 | [212219-vlad-voievod-dracula-episode-1-manhunt.json](./212219-vlad-voievod-dracula-episode-1-manhunt.json) |
 | Vladiators | 141831 | [141831-vladiators.json](./141831-vladiators.json) |
 | Vladik Brutal | 159796 | [159796-vladik-brutal.json](./159796-vladik-brutal.json) |
 | Vladimere's Lhore | 216497 | [216497-vladimeres-lhore.json](./216497-vladimeres-lhore.json) |
@@ -1602,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRC Pro: Track Pack - Melzo Oval, Italy | 161761 | [161761-vrc-pro-track-pack-melzo-oval-italy.json](./161761-vrc-pro-track-pack-melzo-oval-italy.json) |
 | VRcher | 137462 | [137462-vrcher.json](./137462-vrcher.json) |
 | VReakout | 33150 | [33150-vreakout.json](./33150-vreakout.json) |
+| VRealistic Fight: Aim For the Chest | 212206 | [212206-vrealistic-fight-aim-for-the-chest.json](./212206-vrealistic-fight-aim-for-the-chest.json) |
 | Vremya-Dyengi | 88275 | [88275-vremya-dyengi.json](./88275-vremya-dyengi.json) |
 | VRetired | 111702 | [111702-vretired.json](./111702-vretired.json) |
 | VRFC Virtual Reality Football Club | 87964 | [87964-vrfc-virtual-reality-football-club.json](./87964-vrfc-virtual-reality-football-club.json) |
