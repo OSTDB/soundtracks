@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Making Lovers: Geki Icha After Story Vol.01 | 108975 | [108975-making-lovers-geki-icha-after-story-vol-01.json](./108975-making-lovers-geki-icha-after-story-vol-01.json) |
 | Making Lovers: HD Deluxe Edition | 260219 | [260219-making-lovers-hd-deluxe-edition.json](./260219-making-lovers-hd-deluxe-edition.json) |
 | Making Lovers: Limited Edition | 166174 | [166174-making-lovers-limited-edition.json](./166174-making-lovers-limited-edition.json) |
+| Making of Conquerors | 184915 | [184915-making-of-conquerors.json](./184915-making-of-conquerors.json) |
 | Makiomino | 196040 | [196040-makiomino.json](./196040-makiomino.json) |
 | Makka Pakka 2 | 375322 | [375322-makka-pakka-2.json](./375322-makka-pakka-2.json) |
 | Makoto Mobius | 150152 | [150152-makoto-mobius.json](./150152-makoto-mobius.json) |
@@ -4986,6 +4987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Ultra Rag Smash | 163918 | [163918-miner-ultra-rag-smash.json](./163918-miner-ultra-rag-smash.json) |
 | Miner: Dig Deep | 23846 | [23846-miner-dig-deep.json](./23846-miner-dig-deep.json) |
 | Mineral | 302438 | [302438-mineral.json](./302438-mineral.json) |
+| Minerest | 184883 | [184883-minerest.json](./184883-minerest.json) |
 | MinerMancers | 411788 | [411788-minermancers.json](./411788-minermancers.json) |
 | Mineroids | 413614 | [413614-mineroids.json](./413614-mineroids.json) |
 | Miners in the Mountain | 358512 | [358512-miners-in-the-mountain.json](./358512-miners-in-the-mountain.json) |
@@ -8497,6 +8499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MyDearest.exe | 391745 | [391745-mydearest-exe.json](./391745-mydearest-exe.json) |
 | MyDream | 35794 | [35794-mydream.json](./35794-mydream.json) |
 | MyDU | 365704 | [365704-mydu.json](./365704-mydu.json) |
+| Myether | 184888 | [184888-myether.json](./184888-myether.json) |
 | Mygnar | 151130 | [151130-mygnar.json](./151130-mygnar.json) |
 | Myha: Return to the Lost Island | 116558 | [116558-myha-return-to-the-lost-island.json](./116558-myha-return-to-the-lost-island.json) |
 | MyHoriZen | 153935 | [153935-myhorizen.json](./153935-myhorizen.json) |
