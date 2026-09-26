@@ -3468,6 +3468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Rescue | 23897 | [23897-river-rescue.json](./23897-river-rescue.json) |
 | River Runners | 384510 | [384510-river-runners.json](./384510-river-runners.json) |
 | River Rush | 199488 | [199488-river-rush.json](./199488-river-rush.json) |
+| River Striker | 175174 | [175174-river-striker.json](./175174-river-striker.json) |
 | River Tiles | 135693 | [135693-river-tiles.json](./135693-river-tiles.json) |
 | River Towns | 324918 | [324918-river-towns.json](./324918-river-towns.json) |
 | River-ty Town | 384062 | [384062-river-ty-town.json](./384062-river-ty-town.json) |
