@@ -1471,9 +1471,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park | 134299 | [134299-jurassic-park.json](./134299-jurassic-park.json) |
 | Jurassic Park | 147274 | [147274-jurassic-park.json](./147274-jurassic-park.json) |
 | Jurassic Park | 15543 | [15543-jurassic-park.json](./15543-jurassic-park.json) |
+| Jurassic Park | 198788 | [198788-jurassic-park.json](./198788-jurassic-park.json) |
 | Jurassic Park | 25880 | [25880-jurassic-park.json](./25880-jurassic-park.json) |
 | Jurassic Park | 4519 | [4519-jurassic-park.json](./4519-jurassic-park.json) |
 | Jurassic Park III: Dino Defender | 74091 | [74091-jurassic-park-iii-dino-defender.json](./74091-jurassic-park-iii-dino-defender.json) |
+| Jurassic Park III: T-Rex Jaw Chomping Action Game | 198789 | [198789-jurassic-park-iii-t-rex-jaw-chomping-action-game.json](./198789-jurassic-park-iii-t-rex-jaw-chomping-action-game.json) |
 | Jurassic Park: Survival | 279640 | [279640-jurassic-park-survival.json](./279640-jurassic-park-survival.json) |
 | Jurassic Park: Survival | 66354 | [66354-jurassic-park-survival.json](./66354-jurassic-park-survival.json) |
 | Jurassic Pet: Virtual World | 263581 | [263581-jurassic-pet-virtual-world.json](./263581-jurassic-pet-virtual-world.json) |
