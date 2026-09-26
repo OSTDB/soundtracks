@@ -1105,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Traveller | 116307 | [116307-legend-of-traveller.json](./116307-legend-of-traveller.json) |
 | Legend of Vengeancev | 156685 | [156685-legend-of-vengeancev.json](./156685-legend-of-vengeancev.json) |
 | Legend of Wukong | 360656 | [360656-legend-of-wukong.json](./360656-legend-of-wukong.json) |
+| Legend of Xenia 3D | 177338 | [177338-legend-of-xenia-3d.json](./177338-legend-of-xenia-3d.json) |
 | Legend of Yashiyu | 173772 | [173772-legend-of-yashiyu.json](./173772-legend-of-yashiyu.json) |
 | Legend of Yashiyu 2 | 172773 | [172773-legend-of-yashiyu-2.json](./172773-legend-of-yashiyu-2.json) |
 | Legend of Yashiyu 3 | 173773 | [173773-legend-of-yashiyu-3.json](./173773-legend-of-yashiyu-3.json) |
@@ -2137,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limb.Inc | 381275 | [381275-limb-inc.json](./381275-limb-inc.json) |
 | Limbo 64 | 109488 | [109488-limbo-64.json](./109488-limbo-64.json) |
 | Limbo Line | 215223 | [215223-limbo-line.json](./215223-limbo-line.json) |
+| Limbocore | 177327 | [177327-limbocore.json](./177327-limbocore.json) |
 | Limbot | 380436 | [380436-limbot.json](./380436-limbot.json) |
 | Limbs | 238751 | [238751-limbs.json](./238751-limbs.json) |
 | Limbus Company | 194106 | [194106-limbus-company.json](./194106-limbus-company.json) |
@@ -2184,6 +2186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limoria | 327343 | [327343-limoria.json](./327343-limoria.json) |
 | Limp Mode | 414575 | [414575-limp-mode.json](./414575-limp-mode.json) |
 | Lims | 226166 | [226166-lims.json](./226166-lims.json) |
+| Limsod | 177308 | [177308-limsod.json](./177308-limsod.json) |
 | Lina: Witches of the Moon | 411578 | [411578-lina-witches-of-the-moon.json](./411578-lina-witches-of-the-moon.json) |
 | Linch | 80978 | [80978-linch.json](./80978-linch.json) |
 | Lincoln Green | 231086 | [231086-lincoln-green.json](./231086-lincoln-green.json) |
@@ -2734,6 +2737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Llamatron: 2112 | 50117 | [50117-llamatron-2112.json](./50117-llamatron-2112.json) |
 | Llamero | 404407 | [404407-llamero.json](./404407-llamero.json) |
 | LLM x Quiz | 369055 | [369055-llm-x-quiz.json](./369055-llm-x-quiz.json) |
+| Llorona | 177313 | [177313-llorona.json](./177313-llorona.json) |
 | Lloyd the Monkey | 266214 | [266214-lloyd-the-monkey.json](./266214-lloyd-the-monkey.json) |
 | Lloyd the Monkey 3 Expansion: The Warrior Once Called Prince | 369198 | [369198-lloyd-the-monkey-3-expansion-the-warrior-once-called-prince.json](./369198-lloyd-the-monkey-3-expansion-the-warrior-once-called-prince.json) |
 | Lloyd the Monkey 3: Judgement Day | 266221 | [266221-lloyd-the-monkey-3-judgement-day.json](./266221-lloyd-the-monkey-3-judgement-day.json) |
@@ -3507,6 +3511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lounge Café | 390247 | [390247-lounge-cafe.json](./390247-lounge-cafe.json) |
 | Louny Balloony | 217378 | [217378-louny-balloony.json](./217378-louny-balloony.json) |
 | Lovanium: The Rising Suns | 265633 | [265633-lovanium-the-rising-suns.json](./265633-lovanium-the-rising-suns.json) |
+| Love & Friendship | 177347 | [177347-love-and-friendship.json](./177347-love-and-friendship.json) |
 | Love & Sex: Second Base | 229010 | [229010-love-and-sex-second-base.json](./229010-love-and-sex-second-base.json) |
 | Love 2 Torokko | 143667 | [143667-love-2-torokko.json](./143667-love-2-torokko.json) |
 | Love 3 | 161222 | [161222-love-3.json](./161222-love-3.json) |
