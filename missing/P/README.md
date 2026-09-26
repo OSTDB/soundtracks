@@ -48,6 +48,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Laby 3D | 266250 | [266250-pac-laby-3d.json](./266250-pac-laby-3d.json) |
 | Pac-Land | 6822 | [6822-pac-land.json](./6822-pac-land.json) |
 | Pac-Maine | 79229 | [79229-pac-maine.json](./79229-pac-maine.json) |
+| Pac-Man | 213899 | [213899-pac-man.json](./213899-pac-man.json) |
+| Pac-Man | 213900 | [213900-pac-man.json](./213900-pac-man.json) |
+| Pac-Man | 213901 | [213901-pac-man.json](./213901-pac-man.json) |
+| Pac-Man | 213903 | [213903-pac-man.json](./213903-pac-man.json) |
+| Pac-Man | 213915 | [213915-pac-man.json](./213915-pac-man.json) |
+| Pac-Man | 213917 | [213917-pac-man.json](./213917-pac-man.json) |
+| Pac-Man | 213918 | [213918-pac-man.json](./213918-pac-man.json) |
+| Pac-Man | 213920 | [213920-pac-man.json](./213920-pac-man.json) |
+| Pac-Man | 213921 | [213921-pac-man.json](./213921-pac-man.json) |
+| Pac-Man | 213922 | [213922-pac-man.json](./213922-pac-man.json) |
+| Pac-Man | 213923 | [213923-pac-man.json](./213923-pac-man.json) |
+| Pac-Man | 213924 | [213924-pac-man.json](./213924-pac-man.json) |
 | Pac-Man | 213944 | [213944-pac-man.json](./213944-pac-man.json) |
 | Pac-Man | 218432 | [218432-pac-man.json](./218432-pac-man.json) |
 | Pac-Man | 218442 | [218442-pac-man.json](./218442-pac-man.json) |
@@ -1132,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passageway of the Ancients | 258490 | [258490-passageway-of-the-ancients.json](./258490-passageway-of-the-ancients.json) |
 | Passant: A Chess Roguelike | 323192 | [323192-passant-a-chess-roguelike.json](./323192-passant-a-chess-roguelike.json) |
 | Passatempo Turma da Mônica | 325636 | [325636-passatempo-turma-da-monica.json](./325636-passatempo-turma-da-monica.json) |
+| Passed Out | 213912 | [213912-passed-out.json](./213912-passed-out.json) |
 | Passenger Camel Taxi Driving | 227217 | [227217-passenger-camel-taxi-driving.json](./227217-passenger-camel-taxi-driving.json) |
 | Passenger Rush | 227956 | [227956-passenger-rush.json](./227956-passenger-rush.json) |
 | Passengers of Execution | 143743 | [143743-passengers-of-execution.json](./143743-passengers-of-execution.json) |
@@ -7063,6 +7076,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Light: Rotate | 152763 | [152763-puzzle-light-rotate.json](./152763-puzzle-light-rotate.json) |
 | Puzzle Lights and Mushrooms 1000 | 334103 | [334103-puzzle-lights-and-mushrooms-1000.json](./334103-puzzle-lights-and-mushrooms-1000.json) |
 | Puzzle Maker | 291238 | [291238-puzzle-maker.json](./291238-puzzle-maker.json) |
+| Puzzle Mania | 213913 | [213913-puzzle-mania.json](./213913-puzzle-mania.json) |
+| Puzzle Mania 2 | 213916 | [213916-puzzle-mania-2.json](./213916-puzzle-mania-2.json) |
 | Puzzle Mania: Chronicles of the Unicorn | 73523 | [73523-puzzle-mania-chronicles-of-the-unicorn.json](./73523-puzzle-mania-chronicles-of-the-unicorn.json) |
 | Puzzle Master | 49951 | [49951-puzzle-master.json](./49951-puzzle-master.json) |
 | Puzzle Master 2 | 145642 | [145642-puzzle-master-2.json](./145642-puzzle-master-2.json) |
