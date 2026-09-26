@@ -4891,6 +4891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown 1896 - When Shadows Dance | 265773 | [265773-hunt-showdown-1896-when-shadows-dance.json](./265773-hunt-showdown-1896-when-shadows-dance.json) |
 | Huntdown | 19728 | [19728-huntdown.json](./19728-huntdown.json) |
 | Huntdown: Collector's Edition | 152327 | [152327-huntdown-collectors-edition.json](./152327-huntdown-collectors-edition.json) |
+| Hunted | 188370 | [188370-hunted.json](./188370-hunted.json) |
 | Hunted | 411137 | [411137-hunted.json](./411137-hunted.json) |
 | Hunted By Monsters: Haunting In The Castle Dungeon | 240875 | [240875-hunted-by-monsters-haunting-in-the-castle-dungeon.json](./240875-hunted-by-monsters-haunting-in-the-castle-dungeon.json) |
 | Hunted: One Step Too Far | 25874 | [25874-hunted-one-step-too-far.json](./25874-hunted-one-step-too-far.json) |
