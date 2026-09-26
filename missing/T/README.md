@@ -1708,6 +1708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenka Touitsu SSB: Scenario - Mouko Houkousu | 283850 | [283850-tenka-touitsu-ssb-scenario-mouko-houkousu.json](./283850-tenka-touitsu-ssb-scenario-mouko-houkousu.json) |
 | Tenka Touitsu SSB: Scenario - Ryuuko Aiutsu | 283849 | [283849-tenka-touitsu-ssb-scenario-ryuuko-aiutsu.json](./283849-tenka-touitsu-ssb-scenario-ryuuko-aiutsu.json) |
 | Tenka Touitsu: SSB | 278496 | [278496-tenka-touitsu-ssb.json](./278496-tenka-touitsu-ssb.json) |
+| Tenko's Magical Sword Quest | 194991 | [194991-tenkos-magical-sword-quest.json](./194991-tenkos-magical-sword-quest.json) |
 | Tennis | 131513 | [131513-tennis.json](./131513-tennis.json) |
 | Tennis | 131517 | [131517-tennis.json](./131517-tennis.json) |
 | Tennis | 131530 | [131530-tennis.json](./131530-tennis.json) |
@@ -4865,6 +4866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Days of the Third Age | 356169 | [356169-the-last-days-of-the-third-age.json](./356169-the-last-days-of-the-third-age.json) |
 | The Last DeadEnd | 100575 | [100575-the-last-deadend.json](./100575-the-last-deadend.json) |
 | The Last Deathbound | 127014 | [127014-the-last-deathbound.json](./127014-the-last-deathbound.json) |
+| The Last Defense TD | 194971 | [194971-the-last-defense-td.json](./194971-the-last-defense-td.json) |
 | The Last Delivery Man on Earth | 374593 | [374593-the-last-delivery-man-on-earth.json](./374593-the-last-delivery-man-on-earth.json) |
 | The Last Dimension | 301371 | [301371-the-last-dimension.json](./301371-the-last-dimension.json) |
 | The Last Dinner | 113493 | [113493-the-last-dinner.json](./113493-the-last-dinner.json) |
@@ -6954,6 +6956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Squash P | 227921 | [227921-the-squash-p.json](./227921-the-squash-p.json) |
 | The Squeal of the Pig | 249190 | [249190-the-squeal-of-the-pig.json](./249190-the-squeal-of-the-pig.json) |
 | The Squirrel & Sea | 358305 | [358305-the-squirrel-and-sea.json](./358305-the-squirrel-and-sea.json) |
+| The Ssum | 194973 | [194973-the-ssum.json](./194973-the-ssum.json) |
 | The St Christopher's School Lockdown | 74393 | [74393-the-st-christophers-school-lockdown.json](./74393-the-st-christophers-school-lockdown.json) |
 | The Stadium Project | 62177 | [62177-the-stadium-project.json](./62177-the-stadium-project.json) |
 | The Stairway 7 | 295332 | [295332-the-stairway-7.json](./295332-the-stairway-7.json) |
@@ -7185,6 +7188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Texas Chain Saw Massacre: Wyatt | 351018 | [351018-the-texas-chain-saw-massacre-wyatt.json](./351018-the-texas-chain-saw-massacre-wyatt.json) |
 | The Textorcist: Amen Edition | 196300 | [196300-the-textorcist-amen-edition.json](./196300-the-textorcist-amen-edition.json) |
 | The Textorcist: The Story of Ray Bibbia | 107178 | [107178-the-textorcist-the-story-of-ray-bibbia.json](./107178-the-textorcist-the-story-of-ray-bibbia.json) |
+| The Textorcist: The Village | 194985 | [194985-the-textorcist-the-village.json](./194985-the-textorcist-the-village.json) |
 | The Thaumaturge | 239942 | [239942-the-thaumaturge.json](./239942-the-thaumaturge.json) |
 | The Theater | 183077 | [183077-the-theater.json](./183077-the-theater.json) |
 | The Theodore Adventures | 44175 | [44175-the-theodore-adventures.json](./44175-the-theodore-adventures.json) |
