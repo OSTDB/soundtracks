@@ -441,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Legion Revenants | 135342 | [135342-fallen-legion-revenants.json](./135342-fallen-legion-revenants.json) |
 | Fallen Legion Revenants: Vanguard Edition | 139961 | [139961-fallen-legion-revenants-vanguard-edition.json](./139961-fallen-legion-revenants-vanguard-edition.json) |
 | Fallen London | 11285 | [11285-fallen-london.json](./11285-fallen-london.json) |
+| Fallen London: A Columbidaean Commotion | 217802 | [217802-fallen-london-a-columbidaean-commotion.json](./217802-fallen-london-a-columbidaean-commotion.json) |
 | Fallen London: A Crown of Thorns | 191792 | [191792-fallen-london-a-crown-of-thorns.json](./191792-fallen-london-a-crown-of-thorns.json) |
 | Fallen London: A Little Pandemonium | 191710 | [191710-fallen-london-a-little-pandemonium.json](./191710-fallen-london-a-little-pandemonium.json) |
 | Fallen London: A Stretch in the Sky | 191903 | [191903-fallen-london-a-stretch-in-the-sky.json](./191903-fallen-london-a-stretch-in-the-sky.json) |
@@ -454,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen London: For a Dream of Innocence | 191785 | [191785-fallen-london-for-a-dream-of-innocence.json](./191785-fallen-london-for-a-dream-of-innocence.json) |
 | Fallen London: For All the Saints Who From Their Labours Rest | 191707 | [191707-fallen-london-for-all-the-saints-who-from-their-labours-rest.json](./191707-fallen-london-for-all-the-saints-who-from-their-labours-rest.json) |
 | Fallen London: Go Tell the King of Cats | 191736 | [191736-fallen-london-go-tell-the-king-of-cats.json](./191736-fallen-london-go-tell-the-king-of-cats.json) |
+| Fallen London: Inheritance | 217799 | [217799-fallen-london-inheritance.json](./217799-fallen-london-inheritance.json) |
 | Fallen London: Leviathan | 191786 | [191786-fallen-london-leviathan.json](./191786-fallen-london-leviathan.json) |
 | Fallen London: My Kingdom for a Pig | 191720 | [191720-fallen-london-my-kingdom-for-a-pig.json](./191720-fallen-london-my-kingdom-for-a-pig.json) |
 | Fallen London: Noises from Upstairs | 191716 | [191716-fallen-london-noises-from-upstairs.json](./191716-fallen-london-noises-from-upstairs.json) |
@@ -3605,6 +3607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footage of the Battle | 283852 | [283852-footage-of-the-battle.json](./283852-footage-of-the-battle.json) |
 | Football | 131533 | [131533-football.json](./131533-football.json) |
 | Football | 199023 | [199023-football.json](./199023-football.json) |
+| Football | 217830 | [217830-football.json](./217830-football.json) |
 | Football | 284440 | [284440-football.json](./284440-football.json) |
 | Football | 346756 | [346756-football.json](./346756-football.json) |
 | Football 2019 | 220064 | [220064-football-2019.json](./220064-football-2019.json) |
