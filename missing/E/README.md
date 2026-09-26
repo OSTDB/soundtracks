@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elasto Mania: Remastered | 187473 | [187473-elasto-mania-remastered.json](./187473-elasto-mania-remastered.json) |
 | Elastrix | 36087 | [36087-elastrix.json](./36087-elastrix.json) |
 | Elation for the Wonder Box 6000 | 225567 | [225567-elation-for-the-wonder-box-6000.json](./225567-elation-for-the-wonder-box-6000.json) |
+| ElbmarKs | 197153 | [197153-elbmarks.json](./197153-elbmarks.json) |
 | Eldabyss | 290707 | [290707-eldabyss.json](./290707-eldabyss.json) |
 | Eldegarde | 304346 | [304346-eldegarde.json](./304346-eldegarde.json) |
 | Elden Gunfire 2 | 293187 | [293187-elden-gunfire-2.json](./293187-elden-gunfire-2.json) |
@@ -3018,6 +3019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exo: Arena | 257473 | [257473-exo-arena.json](./257473-exo-arena.json) |
 | ExoColony: Planet Survival | 226715 | [226715-exocolony-planet-survival.json](./226715-exocolony-planet-survival.json) |
 | ExoCorps | 121018 | [121018-exocorps.json](./121018-exocorps.json) |
+| Exodemic | 197152 | [197152-exodemic.json](./197152-exodemic.json) |
 | Exodemon | 27740 | [27740-exodemon.json](./27740-exodemon.json) |
 | Exoder | 98767 | [98767-exoder.json](./98767-exoder.json) |
 | Exodos | 297069 | [297069-exodos.json](./297069-exodos.json) |
