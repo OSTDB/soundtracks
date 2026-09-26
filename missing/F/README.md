@@ -1408,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FCK: Lille Leo Bruger Bolden | 129778 | [129778-fck-lille-leo-bruger-bolden.json](./129778-fck-lille-leo-bruger-bolden.json) |
 | FD 27: Direct Your Football Club | 402996 | [402996-fd-27-direct-your-football-club.json](./402996-fd-27-direct-your-football-club.json) |
 | FD's Industry Tycoon | 409588 | [409588-fds-industry-tycoon.json](./409588-fds-industry-tycoon.json) |
+| Fealty | 175213 | [175213-fealty.json](./175213-fealty.json) |
 | Fear & Fury | 238716 | [238716-fear-and-fury.json](./238716-fear-and-fury.json) |
 | Fear & Hunger 2: Termina | 224262 | [224262-fear-and-hunger-2-termina.json](./224262-fear-and-hunger-2-termina.json) |
 | Fear & Hunger 3 | 324308 | [324308-fear-and-hunger-3.json](./324308-fear-and-hunger-3.json) |
@@ -1899,6 +1900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Fantasy Legends | 40557 | [40557-fighting-fantasy-legends.json](./40557-fighting-fantasy-legends.json) |
 | Fighting Fantasy: Island of the Lizard King | 175407 | [175407-fighting-fantasy-island-of-the-lizard-king.json](./175407-fighting-fantasy-island-of-the-lizard-king.json) |
 | Fighting Fantasy: Talisman of Death | 52211 | [52211-fighting-fantasy-talisman-of-death.json](./52211-fighting-fantasy-talisman-of-death.json) |
+| Fighting Fantasy: The Forest of Doom | 175216 | [175216-fighting-fantasy-the-forest-of-doom.json](./175216-fighting-fantasy-the-forest-of-doom.json) |
 | Fighting Fantasy: The Talisman of Death | 20571 | [20571-fighting-fantasy-the-talisman-of-death.json](./20571-fighting-fantasy-the-talisman-of-death.json) |
 | Fighting For Food | 72357 | [72357-fighting-for-food.json](./72357-fighting-for-food.json) |
 | Fighting for Singleship: I am Chased by a Bunch of Women But I Just Want to Play Video Games | 274558 | [274558-fighting-for-singleship-i-am-chased-by-a-bunch-of-women-but-i-just-want-to-play-video-games.json](./274558-fighting-for-singleship-i-am-chased-by-a-bunch-of-women-but-i-just-want-to-play-video-games.json) |
@@ -2276,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fine Sweeper | 35349 | [35349-fine-sweeper.json](./35349-fine-sweeper.json) |
 | Fine Work Act I | 285980 | [285980-fine-work-act-i.json](./285980-fine-work-act-i.json) |
 | Finesse | 248599 | [248599-finesse.json](./248599-finesse.json) |
+| Finger Balance | 175215 | [175215-finger-balance.json](./175215-finger-balance.json) |
 | Finger Champion | 245326 | [245326-finger-champion.json](./245326-finger-champion.json) |
 | Finger Connection | 66619 | [66619-finger-connection.json](./66619-finger-connection.json) |
 | Finger Cuts | 315830 | [315830-finger-cuts.json](./315830-finger-cuts.json) |
@@ -3776,6 +3779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager | 23064 | [23064-football-manager.json](./23064-football-manager.json) |
 | Football Manager 2013 | 8974 | [8974-football-manager-2013.json](./8974-football-manager-2013.json) |
 | Football Manager 2017 | 24481 | [24481-football-manager-2017.json](./24481-football-manager-2017.json) |
+| Football Manager 2019 Mobile | 175204 | [175204-football-manager-2019-mobile.json](./175204-football-manager-2019-mobile.json) |
 | Football Manager 2020 | 122080 | [122080-football-manager-2020.json](./122080-football-manager-2020.json) |
 | Football Manager 2020 Mobile | 197656 | [197656-football-manager-2020-mobile.json](./197656-football-manager-2020-mobile.json) |
 | Football Manager 2021 Touch | 139257 | [139257-football-manager-2021-touch.json](./139257-football-manager-2021-touch.json) |
@@ -4278,6 +4282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress 1024 | 261282 | [261282-fortress-1024.json](./261282-fortress-1024.json) |
 | Fortress 2 Blue | 340237 | [340237-fortress-2-blue.json](./340237-fortress-2-blue.json) |
 | Fortress Connected | 410476 | [410476-fortress-connected.json](./410476-fortress-connected.json) |
+| Fortress Conquest | 175219 | [175219-fortress-conquest.json](./175219-fortress-conquest.json) |
 | Fortress Europe | 61897 | [61897-fortress-europe.json](./61897-fortress-europe.json) |
 | Fortress Forge | 310928 | [310928-fortress-forge.json](./310928-fortress-forge.json) |
 | Fortress of the Arcane Conduit | 282617 | [282617-fortress-of-the-arcane-conduit.json](./282617-fortress-of-the-arcane-conduit.json) |
@@ -5440,6 +5445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funfair Ride Simulator 3: Ride Pack 5 | 162269 | [162269-funfair-ride-simulator-3-ride-pack-5.json](./162269-funfair-ride-simulator-3-ride-pack-5.json) |
 | Funfair Ride Simulator 3: Ride Pack 6 | 162270 | [162270-funfair-ride-simulator-3-ride-pack-6.json](./162270-funfair-ride-simulator-3-ride-pack-6.json) |
 | Funfair Tycoon | 397775 | [397775-funfair-tycoon.json](./397775-funfair-tycoon.json) |
+| FunFly | 175198 | [175198-funfly.json](./175198-funfly.json) |
 | Fungal Colony Sim 2 | 365139 | [365139-fungal-colony-sim-2.json](./365139-fungal-colony-sim-2.json) |
 | Fungal Colony Simulator | 257690 | [257690-fungal-colony-simulator.json](./257690-fungal-colony-simulator.json) |
 | FungEye | 291235 | [291235-fungeye.json](./291235-fungeye.json) |
