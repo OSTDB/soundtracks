@@ -1310,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumphobia XL | 57047 | [57047-jumphobia-xl.json](./57047-jumphobia-xl.json) |
 | Jumphobia: Homeward Bound | 190170 | [190170-jumphobia-homeward-bound.json](./190170-jumphobia-homeward-bound.json) |
 | Jumping Boy | 362478 | [362478-jumping-boy.json](./362478-jumping-boy.json) |
+| Jumping Bricks Ball | 193765 | [193765-jumping-bricks-ball.json](./193765-jumping-bricks-ball.json) |
 | Jumping Challenge | 296927 | [296927-jumping-challenge.json](./296927-jumping-challenge.json) |
 | Jumping Cross | 40200 | [40200-jumping-cross.json](./40200-jumping-cross.json) |
 | Jumping Doduo | 69834 | [69834-jumping-doduo.json](./69834-jumping-doduo.json) |
