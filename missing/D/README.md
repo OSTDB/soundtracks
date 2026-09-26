@@ -6991,6 +6991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Pizza | 365096 | [365096-dungeon-pizza.json](./365096-dungeon-pizza.json) |
 | Dungeon Prospector | 50865 | [50865-dungeon-prospector.json](./50865-dungeon-prospector.json) |
 | Dungeon Quest | 101600 | [101600-dungeon-quest.json](./101600-dungeon-quest.json) |
+| Dungeon Quest | 225579 | [225579-dungeon-quest.json](./225579-dungeon-quest.json) |
 | Dungeon Quest | 2880 | [2880-dungeon-quest.json](./2880-dungeon-quest.json) |
 | Dungeon Raid | 22459 | [22459-dungeon-raid.json](./22459-dungeon-raid.json) |
 | Dungeon Raid: Zero Floor | 365888 | [365888-dungeon-raid-zero-floor.json](./365888-dungeon-raid-zero-floor.json) |
