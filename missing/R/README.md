@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramen Chain | 159345 | [159345-ramen-chain.json](./159345-ramen-chain.json) |
 | Ramen in the 90's | 141190 | [141190-ramen-in-the-90s.json](./141190-ramen-in-the-90s.json) |
 | Ramen no Megami | 283716 | [283716-ramen-no-megami.json](./283716-ramen-no-megami.json) |
+| Ramen or Jail | 190992 | [190992-ramen-or-jail.json](./190992-ramen-or-jail.json) |
 | Ramen Shop Simulator | 337287 | [337287-ramen-shop-simulator.json](./337287-ramen-shop-simulator.json) |
 | Ramenbashi | 92513 | [92513-ramenbashi.json](./92513-ramenbashi.json) |
 | Ramhart | 341311 | [341311-ramhart.json](./341311-ramhart.json) |
@@ -4734,6 +4735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Rampage | 370127 | [370127-royal-rampage.json](./370127-royal-rampage.json) |
 | Royal Randomizer | 342162 | [342162-royal-randomizer.json](./342162-royal-randomizer.json) |
 | Royal Rescue | 133201 | [133201-royal-rescue.json](./133201-royal-rescue.json) |
+| Royal Riders | 190943 | [190943-royal-riders.json](./190943-royal-riders.json) |
 | Royal Roads 2: The Magic Box | 161401 | [161401-royal-roads-2-the-magic-box.json](./161401-royal-roads-2-the-magic-box.json) |
 | Royal Romances: Battle of the Woods | 226930 | [226930-royal-romances-battle-of-the-woods.json](./226930-royal-romances-battle-of-the-woods.json) |
 | Royal Romances: Battle of the Woods - Collector's Edition | 224741 | [224741-royal-romances-battle-of-the-woods-collectors-edition.json](./224741-royal-romances-battle-of-the-woods-collectors-edition.json) |
