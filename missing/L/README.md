@@ -1698,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Li'l Rumble | 284353 | [284353-lil-rumble.json](./284353-lil-rumble.json) |
 | Li'l Taffer | 323377 | [323377-lil-taffer.json](./323377-lil-taffer.json) |
 | Liam FitzRoy Kills Everyone: The Game Part Zero | 278746 | [278746-liam-fitzroy-kills-everyone-the-game-part-zero.json](./278746-liam-fitzroy-kills-everyone-the-game-part-zero.json) |
+| Liam's Journey | 211686 | [211686-liams-journey.json](./211686-liams-journey.json) |
 | Liàn yǔ wèi xiē zhī yǔ | 367448 | [367448-lian-yu-wei-xie-zhi-yu.json](./367448-lian-yu-wei-xie-zhi-yu.json) |
 | Lianhai Billiards Club | 216785 | [216785-lianhai-billiards-club.json](./216785-lianhai-billiards-club.json) |
 | Liar Liar 2 | 303246 | [303246-liar-liar-2.json](./303246-liar-liar-2.json) |
