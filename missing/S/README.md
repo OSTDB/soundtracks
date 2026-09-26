@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.T.A.L.K.E.R.: Clear Sky | 4840 | [4840-s-t-a-l-k-e-r-clear-sky.json](./4840-s-t-a-l-k-e-r-clear-sky.json) |
 | S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition | 343443 | [343443-s-t-a-l-k-e-r-clear-sky-enhanced-edition.json](./343443-s-t-a-l-k-e-r-clear-sky-enhanced-edition.json) |
 | S.T.A.L.K.E.R.: Dead Air | 132010 | [132010-s-t-a-l-k-e-r-dead-air.json](./132010-s-t-a-l-k-e-r-dead-air.json) |
+| S.T.A.L.K.E.R.: Escape From Pripyat | 186030 | [186030-s-t-a-l-k-e-r-escape-from-pripyat.json](./186030-s-t-a-l-k-e-r-escape-from-pripyat.json) |
 | S.T.A.L.K.E.R.: Incubator | 353303 | [353303-s-t-a-l-k-e-r-incubator.json](./353303-s-t-a-l-k-e-r-incubator.json) |
 | S.T.A.L.K.E.R.: Misery | 132009 | [132009-s-t-a-l-k-e-r-misery.json](./132009-s-t-a-l-k-e-r-misery.json) |
 | S.T.A.L.K.E.R.: Oblivion Lost Remake | 138257 | [138257-s-t-a-l-k-e-r-oblivion-lost-remake.json](./138257-s-t-a-l-k-e-r-oblivion-lost-remake.json) |
@@ -103,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabotris | 207293 | [207293-sabotris.json](./207293-sabotris.json) |
 | Sabreman Stampede | 175948 | [175948-sabreman-stampede.json](./175948-sabreman-stampede.json) |
 | Sabres of Infinity | 33439 | [33439-sabres-of-infinity.json](./33439-sabres-of-infinity.json) |
+| Sabrina the Animated Series: Magical Adventure | 186071 | [186071-sabrina-the-animated-series-magical-adventure.json](./186071-sabrina-the-animated-series-magical-adventure.json) |
 | Sabrina the Animated Series: Spooked! | 49944 | [49944-sabrina-the-animated-series-spooked.json](./49944-sabrina-the-animated-series-spooked.json) |
 | Sabrina the Animated Series: Zapped! | 49943 | [49943-sabrina-the-animated-series-zapped.json](./49943-sabrina-the-animated-series-zapped.json) |
 | Sacabambaspis' Friendly Adventure | 319012 | [319012-sacabambaspis-friendly-adventure.json](./319012-sacabambaspis-friendly-adventure.json) |
@@ -731,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sānguó: 223 | 257678 | [257678-sanguo-223.json](./257678-sanguo-223.json) |
 | Sānguózhì Qúnyīng Zhuàn | 410976 | [410976-sanguozhi-qunying-zhuan.json](./410976-sanguozhi-qunying-zhuan.json) |
 | Sānguózhì: Chìbì zhī Zhàn | 48289 | [48289-sanguozhi-chibi-zhi-zhan.json](./48289-sanguozhi-chibi-zhi-zhan.json) |
+| Sangwich | 186069 | [186069-sangwich.json](./186069-sangwich.json) |
 | Sanitarium Massacre | 62684 | [62684-sanitarium-massacre.json](./62684-sanitarium-massacre.json) |
 | Sanity Break | 369013 | [369013-sanity-break.json](./369013-sanity-break.json) |
 | Sanity of Morris | 137638 | [137638-sanity-of-morris.json](./137638-sanity-of-morris.json) |
@@ -3661,6 +3664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shleep | 340225 | [340225-shleep.json](./340225-shleep.json) |
 | Shmadow | 34594 | [34594-shmadow.json](./34594-shmadow.json) |
 | Shmucker Casino 2: Purple Boog's Revenge | 270371 | [270371-shmucker-casino-2-purple-boogs-revenge.json](./270371-shmucker-casino-2-purple-boogs-revenge.json) |
+| Shmup Ball | 186052 | [186052-shmup-ball.json](./186052-shmup-ball.json) |
 | Shmup Bundle | 268476 | [268476-shmup-bundle.json](./268476-shmup-bundle.json) |
 | Shmup Collection | 133583 | [133583-shmup-collection.json](./133583-shmup-collection.json) |
 | Shmup Love Boom | 34831 | [34831-shmup-love-boom.json](./34831-shmup-love-boom.json) |
@@ -9450,6 +9454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyyn | 372101 | [372101-spyyn.json](./372101-spyyn.json) |
 | Sqdef | 194297 | [194297-sqdef.json](./194297-sqdef.json) |
 | Sqr 3 | 334766 | [334766-sqr-3.json](./334766-sqr-3.json) |
+| Sqroma | 186020 | [186020-sqroma.json](./186020-sqroma.json) |
 | SQRZ | 360212 | [360212-sqrz.json](./360212-sqrz.json) |
 | Squad | 9495 | [9495-squad.json](./9495-squad.json) |
 | Squad 22: ZOV | 368503 | [368503-squad-22-zov.json](./368503-squad-22-zov.json) |
@@ -11326,6 +11331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Chocolate | 367495 | [367495-strawberry-chocolate.json](./367495-strawberry-chocolate.json) |
 | Strawberry Chocolate: Miner 8AD 4SS | 162253 | [162253-strawberry-chocolate-miner-8ad-4ss.json](./162253-strawberry-chocolate-miner-8ad-4ss.json) |
 | Strawberry Jam | 159175 | [159175-strawberry-jam.json](./159175-strawberry-jam.json) |
+| Strawberry Magic | 186032 | [186032-strawberry-magic.json](./186032-strawberry-magic.json) |
 | Strawberry Nauts: Complete Limited Edition | 172586 | [172586-strawberry-nauts-complete-limited-edition.json](./172586-strawberry-nauts-complete-limited-edition.json) |
 | Strawberry Note 3 | 343324 | [343324-strawberry-note-3.json](./343324-strawberry-note-3.json) |
 | Strawberry Park | 312732 | [312732-strawberry-park.json](./312732-strawberry-park.json) |
