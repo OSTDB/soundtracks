@@ -1735,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seasons of Chiba | 351636 | [351636-seasons-of-chiba.json](./351636-seasons-of-chiba.json) |
 | Seasons of Courage | 211786 | [211786-seasons-of-courage.json](./211786-seasons-of-courage.json) |
 | Seasons of Solitude | 358366 | [358366-seasons-of-solitude.json](./358366-seasons-of-solitude.json) |
+| Seasons of the Sorcerer | 211168 | [211168-seasons-of-the-sorcerer.json](./211168-seasons-of-the-sorcerer.json) |
 | Seasons of War | 58746 | [58746-seasons-of-war.json](./58746-seasons-of-war.json) |
 | Seasons Pairs | 96030 | [96030-seasons-pairs.json](./96030-seasons-pairs.json) |
 | Seasons Turning | 374617 | [374617-seasons-turning.json](./374617-seasons-turning.json) |
@@ -2357,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Served in Yong'an | 266474 | [266474-served-in-yongan.json](./266474-served-in-yongan.json) |
 | Served! A Gourmet Race | 104684 | [104684-served-a-gourmet-race.json](./104684-served-a-gourmet-race.json) |
 | Server is Down | 138751 | [138751-server-is-down.json](./138751-server-is-down.json) |
+| Server Owner Tycoon | 211176 | [211176-server-owner-tycoon.json](./211176-server-owner-tycoon.json) |
 | Service of Five Graces | 395046 | [395046-service-of-five-graces.json](./395046-service-of-five-graces.json) |
 | Sesame Street | 85858 | [85858-sesame-street.json](./85858-sesame-street.json) |
 | Sesame Street A B C | 70103 | [70103-sesame-street-a-b-c.json](./70103-sesame-street-a-b-c.json) |
@@ -5226,6 +5228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaughter Bots | 216887 | [216887-slaughter-bots.json](./216887-slaughter-bots.json) |
 | Slaughter Cannon 2 | 200566 | [200566-slaughter-cannon-2.json](./200566-slaughter-cannon-2.json) |
 | Slaughter Cats | 235354 | [235354-slaughter-cats.json](./235354-slaughter-cats.json) |
+| Slaughter Horse 2 | 211133 | [211133-slaughter-horse-2.json](./211133-slaughter-horse-2.json) |
 | Slaughter Until Death | 274217 | [274217-slaughter-until-death.json](./274217-slaughter-until-death.json) |
 | Slaughterhouse | 149596 | [149596-slaughterhouse.json](./149596-slaughterhouse.json) |
 | Slav Tiles | 198505 | [198505-slav-tiles.json](./198505-slav-tiles.json) |
@@ -6190,6 +6193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Storm | 318774 | [318774-snow-storm.json](./318774-snow-storm.json) |
 | Snow Town - Ice Village World | 108477 | [108477-snow-town-ice-village-world.json](./108477-snow-town-ice-village-world.json) |
 | Snow Vale | 220599 | [220599-snow-vale.json](./220599-snow-vale.json) |
+| Snow War | 211160 | [211160-snow-war.json](./211160-snow-war.json) |
 | Snow White and the Seven Dwarfs | 77396 | [77396-snow-white-and-the-seven-dwarfs.json](./77396-snow-white-and-the-seven-dwarfs.json) |
 | Snow World | 176972 | [176972-snow-world.json](./176972-snow-world.json) |
 | Snow! | 180771 | [180771-snow.json](./180771-snow.json) |
@@ -9407,6 +9411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SS.Archives | 253433 | [253433-ss-archives.json](./253433-ss-archives.json) |
 | SSGN Covert Cruise Special Attack Strategy | 112159 | [112159-ssgn-covert-cruise-special-attack-strategy.json](./112159-ssgn-covert-cruise-special-attack-strategy.json) |
 | SSR Wives: The Murder Of My Winter Crush | 296468 | [296468-ssr-wives-the-murder-of-my-winter-crush.json](./296468-ssr-wives-the-murder-of-my-winter-crush.json) |
+| SSS222: HyperSpace | 211177 | [211177-sss222-hyperspace.json](./211177-sss222-hyperspace.json) |
 | SSSM: In the Shadow of Jupiter | 221295 | [221295-sssm-in-the-shadow-of-jupiter.json](./221295-sssm-in-the-shadow-of-jupiter.json) |
 | Sssnakes | 84896 | [84896-sssnakes.json](./84896-sssnakes.json) |
 | SSX | 4179 | [4179-ssx.json](./4179-ssx.json) |
