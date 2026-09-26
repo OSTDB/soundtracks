@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gals Panic 3 | 210715 | [210715-gals-panic-3.json](./210715-gals-panic-3.json) |
 | Gals Panic 4 | 46848 | [46848-gals-panic-4.json](./46848-gals-panic-4.json) |
 | Gals Panic II | 210714 | [210714-gals-panic-ii.json](./210714-gals-panic-ii.json) |
+| Galshell 2 | 224500 | [224500-galshell-2.json](./224500-galshell-2.json) |
 | Galumb | 414573 | [414573-galumb.json](./414573-galumb.json) |
 | Galvanic Bride | 260183 | [260183-galvanic-bride.json](./260183-galvanic-bride.json) |
 | Galvanized | 280302 | [280302-galvanized.json](./280302-galvanized.json) |
@@ -3406,6 +3407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Old One - Arrival | 105303 | [105303-great-old-one-arrival.json](./105303-great-old-one-arrival.json) |
 | Great Paintings VR | 156103 | [156103-great-paintings-vr.json](./156103-great-paintings-vr.json) |
 | Great Personality: Guardians | 348841 | [348841-great-personality-guardians.json](./348841-great-personality-guardians.json) |
+| Great Pilots | 224531 | [224531-great-pilots.json](./224531-great-pilots.json) |
 | Great Powers | 291482 | [291482-great-powers.json](./291482-great-powers.json) |
 | Great Race: Route 66 | 233111 | [233111-great-race-route-66.json](./233111-great-race-route-66.json) |
 | Great Time Trio Remake | 306684 | [306684-great-time-trio-remake.json](./306684-great-time-trio-remake.json) |
