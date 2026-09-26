@@ -714,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lava Fever | 22786 | [22786-lava-fever.json](./22786-lava-fever.json) |
 | Lava Joe | 181258 | [181258-lava-joe.json](./181258-lava-joe.json) |
 | Lava Rolling Kid | 75053 | [75053-lava-rolling-kid.json](./75053-lava-rolling-kid.json) |
+| Lava Runner | 184899 | [184899-lava-runner.json](./184899-lava-runner.json) |
 | Lava-Runners | 331680 | [331680-lava-runners.json](./331680-lava-runners.json) |
 | Lavalads | 402268 | [402268-lavalads.json](./402268-lavalads.json) |
 | Lavapools | 25000 | [25000-lavapools.json](./25000-lavapools.json) |
@@ -3298,6 +3299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Friends 3: Never Return | 393623 | [393623-lost-friends-3-never-return.json](./393623-lost-friends-3-never-return.json) |
 | Lost Garden | 334714 | [334714-lost-garden.json](./334714-lost-garden.json) |
 | Lost Gems | 156519 | [156519-lost-gems.json](./156519-lost-gems.json) |
+| Lost Girl | 184900 | [184900-lost-girl.json](./184900-lost-girl.json) |
 | Lost Girl In Mirror | 259820 | [259820-lost-girl-in-mirror.json](./259820-lost-girl-in-mirror.json) |
 | Lost girl's [diary] | 33473 | [33473-lost-girls-diary.json](./33473-lost-girls-diary.json) |
 | Lost God | 24939 | [24939-lost-god.json](./24939-lost-god.json) |
@@ -3658,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovelorn Sanatorium I | 220608 | [220608-lovelorn-sanatorium-i.json](./220608-lovelorn-sanatorium-i.json) |
 | Lovelorn Sanatorium Ⅲ | 239654 | [239654-lovelorn-sanatorium-iii.json](./239654-lovelorn-sanatorium-iii.json) |
 | Lovelove Boin: High-handed Girl's Boobs | 97374 | [97374-lovelove-boin-high-handed-girls-boobs.json](./97374-lovelove-boin-high-handed-girls-boobs.json) |
+| Lovely Anemone | 184905 | [184905-lovely-anemone.json](./184905-lovely-anemone.json) |
 | Lovely Anime Puzzle: Spring | 398328 | [398328-lovely-anime-puzzle-spring.json](./398328-lovely-anime-puzzle-spring.json) |
 | Lovely Anime Puzzle: Summer | 385868 | [385868-lovely-anime-puzzle-summer.json](./385868-lovely-anime-puzzle-summer.json) |
 | Lovely Anime Puzzle: Valentine | 329163 | [329163-lovely-anime-puzzle-valentine.json](./329163-lovely-anime-puzzle-valentine.json) |
