@@ -5760,6 +5760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse 2 - Extra DLC Pack 4 | 168749 | [168749-dragon-ball-xenoverse-2-extra-dlc-pack-4.json](./168749-dragon-ball-xenoverse-2-extra-dlc-pack-4.json) |
 | Dragon Ball: Xenoverse 2 - Extra Pass | 117657 | [117657-dragon-ball-xenoverse-2-extra-pass.json](./117657-dragon-ball-xenoverse-2-extra-pass.json) |
 | Dragon Ball: Xenoverse 2 - Legendary Pack 1 | 168741 | [168741-dragon-ball-xenoverse-2-legendary-pack-1.json](./168741-dragon-ball-xenoverse-2-legendary-pack-1.json) |
+| Dragon Ball: Xenoverse 2 - Legendary Pack 2 | 193208 | [193208-dragon-ball-xenoverse-2-legendary-pack-2.json](./193208-dragon-ball-xenoverse-2-legendary-pack-2.json) |
 | Dragon Ball: Xenoverse 2 - Super Edition | 200692 | [200692-dragon-ball-xenoverse-2-super-edition.json](./200692-dragon-ball-xenoverse-2-super-edition.json) |
 | Dragon Ball: Xenoverse 2 - Super Pack 1 | 168743 | [168743-dragon-ball-xenoverse-2-super-pack-1.json](./168743-dragon-ball-xenoverse-2-super-pack-1.json) |
 | Dragon Ball: Xenoverse 2 - Super Pack 2 | 168744 | [168744-dragon-ball-xenoverse-2-super-pack-2.json](./168744-dragon-ball-xenoverse-2-super-pack-2.json) |
@@ -6666,6 +6667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drug Empire | 376459 | [376459-drug-empire.json](./376459-drug-empire.json) |
 | Drug Grower Simulator | 217508 | [217508-drug-grower-simulator.json](./217508-drug-grower-simulator.json) |
 | Drug Lord 2 | 71473 | [71473-drug-lord-2.json](./71473-drug-lord-2.json) |
+| Drug Lords | 193228 | [193228-drug-lords.json](./193228-drug-lords.json) |
 | Drug Prince & Narcotic Girl for Nintendo Switch | 255630 | [255630-drug-prince-and-narcotic-girl-for-nintendo-switch.json](./255630-drug-prince-and-narcotic-girl-for-nintendo-switch.json) |
 | Drugs and Crime Idle | 153426 | [153426-drugs-and-crime-idle.json](./153426-drugs-and-crime-idle.json) |
 | Drugs to Bee | 103447 | [103447-drugs-to-bee.json](./103447-drugs-to-bee.json) |
