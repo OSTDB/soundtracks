@@ -649,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Jump | 152877 | [152877-balloon-jump.json](./152877-balloon-jump.json) |
 | Balloon Kid | 3682 | [3682-balloon-kid.json](./3682-balloon-kid.json) |
 | Balloon Man | 359433 | [359433-balloon-man.json](./359433-balloon-man.json) |
+| Balloon Party | 186068 | [186068-balloon-party.json](./186068-balloon-party.json) |
 | Balloon Pop | 187361 | [187361-balloon-pop.json](./187361-balloon-pop.json) |
 | Balloon Pop for Toddlers & Kids: Learn Numbers, Letters, Colors & Animals | 147925 | [147925-balloon-pop-for-toddlers-and-kids-learn-numbers-letters-colors-and-animals.json](./147925-balloon-pop-for-toddlers-and-kids-learn-numbers-letters-colors-and-animals.json) |
 | Balloon Rescue | 67699 | [67699-balloon-rescue.json](./67699-balloon-rescue.json) |
@@ -5027,6 +5028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombo Rumble | 239683 | [239683-bombo-rumble.json](./239683-bombo-rumble.json) |
 | Bomboban | 386102 | [386102-bomboban.json](./386102-bomboban.json) |
 | Bomboras Forever | 58173 | [58173-bomboras-forever.json](./58173-bomboras-forever.json) |
+| BombParty | 186047 | [186047-bombparty.json](./186047-bombparty.json) |
 | Bombproof Bob | 241612 | [241612-bombproof-bob.json](./241612-bombproof-bob.json) |
 | Bombs Away! | 245548 | [245548-bombs-away.json](./245548-bombs-away.json) |
 | Bombshell Barista: Speed Dating | 258195 | [258195-bombshell-barista-speed-dating.json](./258195-bombshell-barista-speed-dating.json) |
