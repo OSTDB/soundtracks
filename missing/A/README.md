@@ -2483,6 +2483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Valentine Pairs Memory Game | 180101 | [180101-all-valentine-pairs-memory-game.json](./180101-all-valentine-pairs-memory-game.json) |
 | All We Need | 263212 | [263212-all-we-need.json](./263212-all-we-need.json) |
 | All Will Fall | 328273 | [328273-all-will-fall.json](./328273-all-will-fall.json) |
+| All World Pro Wrestling: Bonus Stories | 196054 | [196054-all-world-pro-wrestling-bonus-stories.json](./196054-all-world-pro-wrestling-bonus-stories.json) |
 | All You Want Bundle | 231294 | [231294-all-you-want-bundle.json](./231294-all-you-want-bundle.json) |
 | All Your Creeps | 65438 | [65438-all-your-creeps.json](./65438-all-your-creeps.json) |
 | All Zombies Must Die! | 9971 | [9971-all-zombies-must-die.json](./9971-all-zombies-must-die.json) |
@@ -6222,6 +6223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Survivors | 249748 | [249748-atomic-survivors.json](./249748-atomic-survivors.json) |
 | Atomica | 379989 | [379989-atomica.json](./379989-atomica.json) |
 | Atomicrops: Deluxe Edition | 154542 | [154542-atomicrops-deluxe-edition.json](./154542-atomicrops-deluxe-edition.json) |
+| Atomicrops: Reap What You Crow | 196051 | [196051-atomicrops-reap-what-you-crow.json](./196051-atomicrops-reap-what-you-crow.json) |
 | Atomind | 93547 | [93547-atomind.json](./93547-atomind.json) |
 | Atomine | 28554 | [28554-atomine.json](./28554-atomine.json) |
 | Atominous | 257383 | [257383-atominous.json](./257383-atominous.json) |
