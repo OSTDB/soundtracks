@@ -2069,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like A Normal Fish | 360073 | [360073-like-a-normal-fish.json](./360073-like-a-normal-fish.json) |
 | Like a Pizza | 208933 | [208933-like-a-pizza.json](./208933-like-a-pizza.json) |
 | Like an Angel | 173824 | [173824-like-an-angel.json](./173824-like-an-angel.json) |
+| Like Blowing Out a Candle | 181698 | [181698-like-blowing-out-a-candle.json](./181698-like-blowing-out-a-candle.json) |
 | Like Clockwork | 181924 | [181924-like-clockwork.json](./181924-like-clockwork.json) |
 | Like Gulls Crying at the Dawn | 136226 | [136226-like-gulls-crying-at-the-dawn.json](./136226-like-gulls-crying-at-the-dawn.json) |
 | Like Thunder "Go" | 297484 | [297484-like-thunder-go.json](./297484-like-thunder-go.json) |
@@ -2181,6 +2182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lina: Witches of the Moon | 411578 | [411578-lina-witches-of-the-moon.json](./411578-lina-witches-of-the-moon.json) |
 | Linch | 80978 | [80978-linch.json](./80978-linch.json) |
 | Lincoln Green | 231086 | [231086-lincoln-green.json](./231086-lincoln-green.json) |
+| Linda Crenshaw: The Dream Apartment | 181687 | [181687-linda-crenshaw-the-dream-apartment.json](./181687-linda-crenshaw-the-dream-apartment.json) |
 | Linda Cube Again | 65761 | [65761-linda-cube-again.json](./65761-linda-cube-again.json) |
 | Lindsi Luna Blast | 62215 | [62215-lindsi-luna-blast.json](./62215-lindsi-luna-blast.json) |
 | Line 88 | 240472 | [240472-line-88.json](./240472-line-88.json) |
