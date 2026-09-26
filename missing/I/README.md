@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am Still Here. | 143104 | [143104-i-am-still-here.json](./143104-i-am-still-here.json) |
 | I am Tasi | 133396 | [133396-i-am-tasi.json](./133396-i-am-tasi.json) |
 | I Am the Captain Now | 153402 | [153402-i-am-the-captain-now.json](./153402-i-am-the-captain-now.json) |
+| I Am the Sun | 183369 | [183369-i-am-the-sun.json](./183369-i-am-the-sun.json) |
 | I am Titan | 301005 | [301005-i-am-titan.json](./301005-i-am-titan.json) |
 | I Am Your Beast VR | 360781 | [360781-i-am-your-beast-vr.json](./360781-i-am-your-beast-vr.json) |
 | I Am Your Beast: Cold Sweat Update | 335994 | [335994-i-am-your-beast-cold-sweat-update.json](./335994-i-am-your-beast-cold-sweat-update.json) |
@@ -1187,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Hope Voiden | 350022 | [350022-in-hope-voiden.json](./350022-in-hope-voiden.json) |
 | In Light | 68278 | [68278-in-light.json](./68278-in-light.json) |
 | In Memoriam | 303586 | [303586-in-memoriam.json](./303586-in-memoriam.json) |
+| In Memory of the Eternity | 183370 | [183370-in-memory-of-the-eternity.json](./183370-in-memory-of-the-eternity.json) |
 | In Memory of Titan | 69314 | [69314-in-memory-of-titan.json](./69314-in-memory-of-titan.json) |
 | In Misery: Episode 1 - The Farm | 290507 | [290507-in-misery-episode-1-the-farm.json](./290507-in-misery-episode-1-the-farm.json) |
 | In my Father's House are Many Rooms | 388405 | [388405-in-my-fathers-house-are-many-rooms.json](./388405-in-my-fathers-house-are-many-rooms.json) |
@@ -1951,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insufficient Adjectives | 134621 | [134621-insufficient-adjectives.json](./134621-insufficient-adjectives.json) |
 | Insula: Bounty Royale | 149959 | [149959-insula-bounty-royale.json](./149959-insula-bounty-royale.json) |
 | Insulted | 229676 | [229676-insulted.json](./229676-insulted.json) |
+| Insurgence | 183349 | [183349-insurgence.json](./183349-insurgence.json) |
 | Insurgence: Chains of Renegade - Remastered | 240768 | [240768-insurgence-chains-of-renegade-remastered.json](./240768-insurgence-chains-of-renegade-remastered.json) |
 | Insurgence: Last Wishes | 235184 | [235184-insurgence-last-wishes.json](./235184-insurgence-last-wishes.json) |
 | Insurgence: Second Assault | 118796 | [118796-insurgence-second-assault.json](./118796-insurgence-second-assault.json) |
