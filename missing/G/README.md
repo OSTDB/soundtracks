@@ -2924,6 +2924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotcha! The Sport! | 5848 | [5848-gotcha-the-sport.json](./5848-gotcha-the-sport.json) |
 | Gotham Gangsta | 29930 | [29930-gotham-gangsta.json](./29930-gotham-gangsta.json) |
 | Gotham Knights: Collector's Edition | 201777 | [201777-gotham-knights-collectors-edition.json](./201777-gotham-knights-collectors-edition.json) |
+| Gotham Knights: Deluxe Edition | 201037 | [201037-gotham-knights-deluxe-edition.json](./201037-gotham-knights-deluxe-edition.json) |
 | Gotham Knights: Heroic Assault: The Kelvin Incident | 281563 | [281563-gotham-knights-heroic-assault-the-kelvin-incident.json](./281563-gotham-knights-heroic-assault-the-kelvin-incident.json) |
 | Gothams Industrial District | 273116 | [273116-gothams-industrial-district.json](./273116-gothams-industrial-district.json) |
 | Gothel | 259039 | [259039-gothel.json](./259039-gothel.json) |
