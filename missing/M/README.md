@@ -7802,6 +7802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Aquarium | 52598 | [52598-my-aquarium.json](./52598-my-aquarium.json) |
 | My Arcade | 371305 | [371305-my-arcade.json](./371305-my-arcade.json) |
 | My Array is Too Sacred to Be Useful!? | 194595 | [194595-my-array-is-too-sacred-to-be-useful.json](./194595-my-array-is-too-sacred-to-be-useful.json) |
+| My Assassin High School | 208284 | [208284-my-assassin-high-school.json](./208284-my-assassin-high-school.json) |
 | My Baby 3 & Friends | 48041 | [48041-my-baby-3-and-friends.json](./48041-my-baby-3-and-friends.json) |
 | My Baby Girl | 47976 | [47976-my-baby-girl.json](./47976-my-baby-girl.json) |
 | My Bakery Empire | 87373 | [87373-my-bakery-empire.json](./87373-my-bakery-empire.json) |
@@ -8259,6 +8260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My SuperMart | 231919 | [231919-my-supermart.json](./231919-my-supermart.json) |
 | My Sweet Artificial Lover | 242652 | [242652-my-sweet-artificial-lover.json](./242652-my-sweet-artificial-lover.json) |
 | My Sweet Devil 3: Ring | 97695 | [97695-my-sweet-devil-3-ring.json](./97695-my-sweet-devil-3-ring.json) |
+| My Sweet Puppy Love | 208280 | [208280-my-sweet-puppy-love.json](./208280-my-sweet-puppy-love.json) |
 | My Sweet Roomies | 378198 | [378198-my-sweet-roomies.json](./378198-my-sweet-roomies.json) |
 | My Sweet Waifu | 88120 | [88120-my-sweet-waifu.json](./88120-my-sweet-waifu.json) |
 | My Sweet Washing Machine! | 156654 | [156654-my-sweet-washing-machine.json](./156654-my-sweet-washing-machine.json) |
