@@ -1578,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Get Through | 36059 | [36059-just-get-through.json](./36059-just-get-through.json) |
 | Just Get Z | 259236 | [259236-just-get-z.json](./259236-just-get-z.json) |
 | Just Glide | 137649 | [137649-just-glide.json](./137649-just-glide.json) |
+| Just Go | 189956 | [189956-just-go.json](./189956-just-go.json) |
 | Just Hero | 31339 | [31339-just-hero.json](./31339-just-hero.json) |
 | Just Hero: Collector's Edition | 53244 | [53244-just-hero-collectors-edition.json](./53244-just-hero-collectors-edition.json) |
 | Just Ignore Them | 30359 | [30359-just-ignore-them.json](./30359-just-ignore-them.json) |
