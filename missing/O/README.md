@@ -479,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh My God! | 64130 | [64130-oh-my-god.json](./64130-oh-my-god.json) |
 | Oh My Godheads: Party Edition | 110799 | [110799-oh-my-godheads-party-edition.json](./110799-oh-my-godheads-party-edition.json) |
 | Oh My Gore! | 36231 | [36231-oh-my-gore.json](./36231-oh-my-gore.json) |
+| Oh My Hero | 174653 | [174653-oh-my-hero.json](./174653-oh-my-hero.json) |
 | Oh My Pool! | 144970 | [144970-oh-my-pool.json](./144970-oh-my-pool.json) |
 | Oh My Wrench | 322187 | [322187-oh-my-wrench.json](./322187-oh-my-wrench.json) |
 | Oh My Yokai! | 208282 | [208282-oh-my-yokai.json](./208282-oh-my-yokai.json) |
@@ -1382,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oops! Inc. Emergency Center | 395044 | [395044-oops-inc-emergency-center.json](./395044-oops-inc-emergency-center.json) |
 | Oops! You're the Hero! | 412427 | [412427-oops-youre-the-hero.json](./412427-oops-youre-the-hero.json) |
 | Oops! Zombie Swarm | 298658 | [298658-oops-zombie-swarm.json](./298658-oops-zombie-swarm.json) |
+| Oopstacles | 174648 | [174648-oopstacles.json](./174648-oopstacles.json) |
 | Oopz-Oofs | 310026 | [310026-oopz-oofs.json](./310026-oopz-oofs.json) |
 | Oort Online | 9551 | [9551-oort-online.json](./9551-oort-online.json) |
 | Ooshige! Momohana Hanten | 227376 | [227376-ooshige-momohana-hanten.json](./227376-ooshige-momohana-hanten.json) |
@@ -1790,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orphan Feast | 306962 | [306962-orphan-feast.json](./306962-orphan-feast.json) |
 | Orphan of the Petal | 113766 | [113766-orphan-of-the-petal.json](./113766-orphan-of-the-petal.json) |
 | Orphans | 280206 | [280206-orphans.json](./280206-orphans.json) |
+| Orphans Order | 174652 | [174652-orphans-order.json](./174652-orphans-order.json) |
 | Orphée: Voyage aux Enfers | 84184 | [84184-orphee-voyage-aux-enfers.json](./84184-orphee-voyage-aux-enfers.json) |
 | Orpheus | 111020 | [111020-orpheus.json](./111020-orpheus.json) |
 | Orpheus | 237084 | [237084-orpheus.json](./237084-orpheus.json) |
