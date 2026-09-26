@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Legend | 214723 | [214723-panda-legend.json](./214723-panda-legend.json) |
 | Panda Lu Baby Bear Care 2 | 227472 | [227472-panda-lu-baby-bear-care-2.json](./227472-panda-lu-baby-bear-care-2.json) |
 | Panda Man | 115600 | [115600-panda-man.json](./115600-panda-man.json) |
+| Panda Pai Gow Poker | 209403 | [209403-panda-pai-gow-poker.json](./209403-panda-pai-gow-poker.json) |
 | Panda Prince | 48891 | [48891-panda-prince.json](./48891-panda-prince.json) |
 | Panda Push | 162868 | [162868-panda-push.json](./162868-panda-push.json) |
 | Panda vs Lightning | 98796 | [98796-panda-vs-lightning.json](./98796-panda-vs-lightning.json) |
@@ -948,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parcel Problems | 239061 | [239061-parcel-problems.json](./239061-parcel-problems.json) |
 | Parcels and Pollen | 177503 | [177503-parcels-and-pollen.json](./177503-parcels-and-pollen.json) |
 | Parchis Club | 204683 | [204683-parchis-club.json](./204683-parchis-club.json) |
+| Parchisi | 209416 | [209416-parchisi.json](./209416-parchisi.json) |
 | Parchisi Star Online | 138606 | [138606-parchisi-star-online.json](./138606-parchisi-star-online.json) |
 | pareidolia in █▄██▄▄ | 280796 | [280796-pareidolia-in.json](./280796-pareidolia-in.json) |
 | Parents vs. Kids | 226320 | [226320-parents-vs-kids.json](./226320-parents-vs-kids.json) |
@@ -1084,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Club | 295020 | [295020-party-club.json](./295020-party-club.json) |
 | Party Demon | 238997 | [238997-party-demon.json](./238997-party-demon.json) |
 | Party Doodles | 241338 | [241338-party-doodles.json](./241338-party-doodles.json) |
+| Party Down | 209415 | [209415-party-down.json](./209415-party-down.json) |
 | Party Friends | 215693 | [215693-party-friends.json](./215693-party-friends.json) |
 | Party Friends | 279111 | [279111-party-friends.json](./279111-party-friends.json) |
 | Party Games: 15 in 1 | 147911 | [147911-party-games-15-in-1.json](./147911-party-games-15-in-1.json) |
@@ -1110,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Party Time: Party Harder Pack | 233000 | [233000-party-party-time-party-harder-pack.json](./233000-party-party-time-party-harder-pack.json) |
 | Party Pie | 208445 | [208445-party-pie.json](./208445-party-pie.json) |
 | Party Planet | 71594 | [71594-party-planet.json](./71594-party-planet.json) |
+| Party Planner | 209413 | [209413-party-planner.json](./209413-party-planner.json) |
 | Party Play Mania | 361688 | [361688-party-play-mania.json](./361688-party-play-mania.json) |
 | Party Poopers | 112345 | [112345-party-poopers.json](./112345-party-poopers.json) |
 | Party Poppers | 113684 | [113684-party-poppers.json](./113684-party-poppers.json) |
@@ -1767,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peppermint Falls | 290527 | [290527-peppermint-falls.json](./290527-peppermint-falls.json) |
 | Peppy | 93575 | [93575-peppy.json](./93575-peppy.json) |
 | Peppy's Adventure | 152303 | [152303-peppys-adventure.json](./152303-peppys-adventure.json) |
+| Pepsi Cola | 209445 | [209445-pepsi-cola.json](./209445-pepsi-cola.json) |
 | Pepsi in Sonic the Hedgehog I | 270218 | [270218-pepsi-in-sonic-the-hedgehog-i.json](./270218-pepsi-in-sonic-the-hedgehog-i.json) |
 | Pepsi Invaders | 40715 | [40715-pepsi-invaders.json](./40715-pepsi-invaders.json) |
 | Pepsi Max Extreme Sports | 110806 | [110806-pepsi-max-extreme-sports.json](./110806-pepsi-max-extreme-sports.json) |
@@ -1813,6 +1818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Loop: Soleris | 388711 | [388711-perfect-loop-soleris.json](./388711-perfect-loop-soleris.json) |
 | Perfect Memento of Touhou Question: More 50 Questions Part 1 | 225641 | [225641-perfect-memento-of-touhou-question-more-50-questions-part-1.json](./225641-perfect-memento-of-touhou-question-more-50-questions-part-1.json) |
 | Perfect Memento of Touhou Question: More 50 Questions Part 2 | 225642 | [225642-perfect-memento-of-touhou-question-more-50-questions-part-2.json](./225642-perfect-memento-of-touhou-question-more-50-questions-part-2.json) |
+| Perfect Murder | 209444 | [209444-perfect-murder.json](./209444-perfect-murder.json) |
 | Perfect Ninja Bundle | 331486 | [331486-perfect-ninja-bundle.json](./331486-perfect-ninja-bundle.json) |
 | Perfect Pachinko | 385719 | [385719-perfect-pachinko.json](./385719-perfect-pachinko.json) |
 | Perfect Pair Solitaire | 210005 | [210005-perfect-pair-solitaire.json](./210005-perfect-pair-solitaire.json) |
