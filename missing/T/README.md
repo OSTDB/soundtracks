@@ -1237,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team 47 GoMan | 180229 | [180229-team-47-goman.json](./180229-team-47-goman.json) |
 | Team Assault: Baptism of Fire | 66032 | [66032-team-assault-baptism-of-fire.json](./66032-team-assault-baptism-of-fire.json) |
 | Team Batista no Eikou Shinjitsu wo Tsumugu 4 tsu no Chart | 70412 | [70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json](./70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json) |
+| Team Conquest | 220053 | [220053-team-conquest.json](./220053-team-conquest.json) |
 | Team Delusional's Dusttale | 329654 | [329654-team-delusionals-dusttale.json](./329654-team-delusionals-dusttale.json) |
 | Team Force 2 | 203535 | [203535-team-force-2.json](./203535-team-force-2.json) |
 | Team Fortress 2 Classic: Community Edition | 360756 | [360756-team-fortress-2-classic-community-edition.json](./360756-team-fortress-2-classic-community-edition.json) |
@@ -11083,6 +11084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train of Afterlife | 35939 | [35939-train-of-afterlife.json](./35939-train-of-afterlife.json) |
 | Train Plus Japan: Drive Western Japan Trains! - Rapid Service Edition | 412568 | [412568-train-plus-japan-drive-western-japan-trains-rapid-service-edition.json](./412568-train-plus-japan-drive-western-japan-trains-rapid-service-edition.json) |
 | Train Plus: Kowa Dentetsu Regular Colors Train | 355228 | [355228-train-plus-kowa-dentetsu-regular-colors-train.json](./355228-train-plus-kowa-dentetsu-regular-colors-train.json) |
+| Train Rush | 220049 | [220049-train-rush.json](./220049-train-rush.json) |
 | Train Sim World | 105877 | [105877-train-sim-world.json](./105877-train-sim-world.json) |
 | Train Sim World 2 | 136868 | [136868-train-sim-world-2.json](./136868-train-sim-world-2.json) |
 | Train Sim World 2: Arosalinie: Chur - Arosa Route Add-On | 156500 | [156500-train-sim-world-2-arosalinie-chur-arosa-route-add-on.json](./156500-train-sim-world-2-arosalinie-chur-arosa-route-add-on.json) |
