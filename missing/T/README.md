@@ -10501,6 +10501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer II - Tretch Craventail | 167825 | [167825-total-war-warhammer-ii-tretch-craventail.json](./167825-total-war-warhammer-ii-tretch-craventail.json) |
 | Total War: Warhammer III - Bhashiva | 402510 | [402510-total-war-warhammer-iii-bhashiva.json](./402510-total-war-warhammer-iii-bhashiva.json) |
 | Total War: Warhammer III - Blood for the Blood God III | 227239 | [227239-total-war-warhammer-iii-blood-for-the-blood-god-iii.json](./227239-total-war-warhammer-iii-blood-for-the-blood-god-iii.json) |
+| Total War: Warhammer III - Immortal Empires | 203268 | [203268-total-war-warhammer-iii-immortal-empires.json](./203268-total-war-warhammer-iii-immortal-empires.json) |
 | Total War: Warhammer III - Limited Edition | 146143 | [146143-total-war-warhammer-iii-limited-edition.json](./146143-total-war-warhammer-iii-limited-edition.json) |
 | Total War: Warhammer III - Ogre Kingdoms | 194428 | [194428-total-war-warhammer-iii-ogre-kingdoms.json](./194428-total-war-warhammer-iii-ogre-kingdoms.json) |
 | Total War: Warhammer III - Shadows of Change | 251223 | [251223-total-war-warhammer-iii-shadows-of-change.json](./251223-total-war-warhammer-iii-shadows-of-change.json) |
