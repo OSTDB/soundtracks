@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafeteria Nipponica | 22323 | [22323-cafeteria-nipponica.json](./22323-cafeteria-nipponica.json) |
 | Cafeworld | 177027 | [177027-cafeworld.json](./177027-cafeworld.json) |
 | Cage Fight | 257406 | [257406-cage-fight.json](./257406-cage-fight.json) |
+| Cage Fight 3D | 220054 | [220054-cage-fight-3d.json](./220054-cage-fight-3d.json) |
 | Cage-Face: Case 2 - The Sewer | 193432 | [193432-cage-face-case-2-the-sewer.json](./193432-cage-face-case-2-the-sewer.json) |
 | Cagebreak | 60568 | [60568-cagebreak.json](./60568-cagebreak.json) |
 | Caged Bird Don't Fly Caught in a Wire Sing Like a Good Canary Come When Called | 122335 | [122335-caged-bird-dont-fly-caught-in-a-wire-sing-like-a-good-canary-come-when-called.json](./122335-caged-bird-dont-fly-caught-in-a-wire-sing-like-a-good-canary-come-when-called.json) |
@@ -414,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You Escape Heartbreak? A Zodiac Story | 377809 | [377809-can-you-escape-heartbreak-a-zodiac-story.json](./377809-can-you-escape-heartbreak-a-zodiac-story.json) |
 | Can You Escape Love? A Zodiac Story | 377804 | [377804-can-you-escape-love-a-zodiac-story.json](./377804-can-you-escape-love-a-zodiac-story.json) |
 | Can You Escape Modern Office | 167290 | [167290-can-you-escape-modern-office.json](./167290-can-you-escape-modern-office.json) |
+| Can you escape Switzerland | 220050 | [220050-can-you-escape-switzerland.json](./220050-can-you-escape-switzerland.json) |
 | Can You Escape- Jail Break | 106550 | [106550-can-you-escape-jail-break.json](./106550-can-you-escape-jail-break.json) |
 | Can you escape: Room Escape 1 | 106954 | [106954-can-you-escape-room-escape-1.json](./106954-can-you-escape-room-escape-1.json) |
 | Can You Get Over It | 101379 | [101379-can-you-get-over-it.json](./101379-can-you-get-over-it.json) |
@@ -562,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cap'n Marcela's Winter Wonderland | 310543 | [310543-capn-marcelas-winter-wonderland.json](./310543-capn-marcelas-winter-wonderland.json) |
 | Capacocha | 179139 | [179139-capacocha.json](./179139-capacocha.json) |
 | Caparace | 383966 | [383966-caparace.json](./383966-caparace.json) |
+| Capcom | 220079 | [220079-capcom.json](./220079-capcom.json) |
 | Capcom Arcade 2nd Stadium | 204386 | [204386-capcom-arcade-2nd-stadium.json](./204386-capcom-arcade-2nd-stadium.json) |
 | Capcom Arcade Cabinet | 18821 | [18821-capcom-arcade-cabinet.json](./18821-capcom-arcade-cabinet.json) |
 | Capcom Arcade Stadium Pack 1: Dawn of the Arcade | 141632 | [141632-capcom-arcade-stadium-pack-1-dawn-of-the-arcade.json](./141632-capcom-arcade-stadium-pack-1-dawn-of-the-arcade.json) |
@@ -1082,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carry The Glass | 319399 | [319399-carry-the-glass.json](./319399-carry-the-glass.json) |
 | Carry the Pack Rack | 389711 | [389711-carry-the-pack-rack.json](./389711-carry-the-pack-rack.json) |
 | Cars 2 | 210274 | [210274-cars-2.json](./210274-cars-2.json) |
+| Cars 2 | 220080 | [220080-cars-2.json](./220080-cars-2.json) |
 | Cars 2 | 230555 | [230555-cars-2.json](./230555-cars-2.json) |
 | Cars 3: Driven to Win | 28075 | [28075-cars-3-driven-to-win.json](./28075-cars-3-driven-to-win.json) |
 | Cars Mater-National Championship | 281854 | [281854-cars-mater-national-championship.json](./281854-cars-mater-national-championship.json) |
