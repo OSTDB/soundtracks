@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yurutto Manaberu Sekai no Kaiga | 251618 | [251618-yurutto-manaberu-sekai-no-kaiga.json](./251618-yurutto-manaberu-sekai-no-kaiga.json) |
 | Yurutto Manaberu Tetsugaku | 260694 | [260694-yurutto-manaberu-tetsugaku.json](./260694-yurutto-manaberu-tetsugaku.json) |
 | Yury | 17823 | [17823-yury.json](./17823-yury.json) |
+| Yusetsu | 211178 | [211178-yusetsu.json](./211178-yusetsu.json) |
 | Yusha no Hanamichi | 331863 | [331863-yusha-no-hanamichi.json](./331863-yusha-no-hanamichi.json) |
 | Yusha: Heaven's Gate | 44868 | [44868-yusha-heavens-gate.json](./44868-yusha-heavens-gate.json) |
 | Yuugao | 308415 | [308415-yuugao.json](./308415-yuugao.json) |
