@@ -1634,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catana: Red Flowers | 380560 | [380560-catana-red-flowers.json](./380560-catana-red-flowers.json) |
 | catAnod | 96429 | [96429-catanod.json](./96429-catanod.json) |
 | Cataplexy | 186826 | [186826-cataplexy.json](./186826-cataplexy.json) |
+| Catapult | 180599 | [180599-catapult.json](./180599-catapult.json) |
 | Catapult Battle Simulator! | 122399 | [122399-catapult-battle-simulator.json](./122399-catapult-battle-simulator.json) |
 | Catapult for Hire | 63002 | [63002-catapult-for-hire.json](./63002-catapult-for-hire.json) |
 | Cataract: Autobattler Roguelite Deckbuilder | 403200 | [403200-cataract-autobattler-roguelite-deckbuilder.json](./403200-cataract-autobattler-roguelite-deckbuilder.json) |
@@ -7010,6 +7011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crocodile Blood: The Final Moments of Kurumizawa Keiko | 394154 | [394154-crocodile-blood-the-final-moments-of-kurumizawa-keiko.json](./394154-crocodile-blood-the-final-moments-of-kurumizawa-keiko.json) |
 | Crocodile Transformator | 217388 | [217388-crocodile-transformator.json](./217388-crocodile-transformator.json) |
 | Crocodracula: The Beginning | 216331 | [216331-crocodracula-the-beginning.json](./216331-crocodracula-the-beginning.json) |
+| Crocolike | 180608 | [180608-crocolike.json](./180608-crocolike.json) |
 | CrocoMars | 86565 | [86565-crocomars.json](./86565-crocomars.json) |
 | CrocPond | 91741 | [91741-crocpond.json](./91741-crocpond.json) |
 | Crocro Adventure | 96341 | [96341-crocro-adventure.json](./96341-crocro-adventure.json) |
@@ -8089,6 +8091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Dreamscape Battle-Deckers 2199 | 395830 | [395830-cyber-dreamscape-battle-deckers-2199.json](./395830-cyber-dreamscape-battle-deckers-2199.json) |
 | Cyber Evolution | 372988 | [372988-cyber-evolution.json](./372988-cyber-evolution.json) |
 | Cyber Factories | 156006 | [156006-cyber-factories.json](./156006-cyber-factories.json) |
+| Cyber Flyer | 180580 | [180580-cyber-flyer.json](./180580-cyber-flyer.json) |
 | Cyber Girls | 376754 | [376754-cyber-girls.json](./376754-cyber-girls.json) |
 | Cyber Hamster Tilt | 186049 | [186049-cyber-hamster-tilt.json](./186049-cyber-hamster-tilt.json) |
 | Cyber Heart | 247977 | [247977-cyber-heart.json](./247977-cyber-heart.json) |
@@ -8116,6 +8119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Rage: Retribution | 116827 | [116827-cyber-rage-retribution.json](./116827-cyber-rage-retribution.json) |
 | Cyber Rail | 267468 | [267468-cyber-rail.json](./267468-cyber-rail.json) |
 | Cyber Rats | 336523 | [336523-cyber-rats.json](./336523-cyber-rats.json) |
+| Cyber Rescue: Virus Eruption | 180573 | [180573-cyber-rescue-virus-eruption.json](./180573-cyber-rescue-virus-eruption.json) |
 | Cyber Revolution | 339357 | [339357-cyber-revolution.json](./339357-cyber-revolution.json) |
 | Cyber Rider | 155671 | [155671-cyber-rider.json](./155671-cyber-rider.json) |
 | Cyber Runner | 368674 | [368674-cyber-runner.json](./368674-cyber-runner.json) |
