@@ -4351,6 +4351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns and Grapples | 152363 | [152363-guns-and-grapples.json](./152363-guns-and-grapples.json) |
 | Guns and Spurs 2 | 174869 | [174869-guns-and-spurs-2.json](./174869-guns-and-spurs-2.json) |
 | Guns and Waifus | 157209 | [157209-guns-and-waifus.json](./157209-guns-and-waifus.json) |
+| Guns at Dawn: Arena | 214451 | [214451-guns-at-dawn-arena.json](./214451-guns-at-dawn-arena.json) |
 | Guns Boy | 158170 | [158170-guns-boy.json](./158170-guns-boy.json) |
 | Guns Craft Mod | 90708 | [90708-guns-craft-mod.json](./90708-guns-craft-mod.json) |
 | Guns GirlZ | 79282 | [79282-guns-girlz.json](./79282-guns-girlz.json) |
