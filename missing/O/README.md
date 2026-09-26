@@ -1786,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ortho | 152322 | [152322-ortho.json](./152322-ortho.json) |
 | Orthodox | 138583 | [138583-orthodox.json](./138583-orthodox.json) |
 | Ortunia Mysteries: Where Did Everybody Go? | 323519 | [323519-ortunia-mysteries-where-did-everybody-go.json](./323519-ortunia-mysteries-where-did-everybody-go.json) |
+| Orudo Taima | 184884 | [184884-orudo-taima.json](./184884-orudo-taima.json) |
 | Orun | 411713 | [411713-orun.json](./411713-orun.json) |
 | Oruna | 139420 | [139420-oruna.json](./139420-oruna.json) |
 | Os Cavaleiros do Zodíaco: A Lenda do Santuário - Cosmo Cards | 282131 | [282131-os-cavaleiros-do-zodiaco-a-lenda-do-santuario-cosmo-cards.json](./282131-os-cavaleiros-do-zodiaco-a-lenda-do-santuario-cosmo-cards.json) |
