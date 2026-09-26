@@ -3934,6 +3934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blessed Redux | 382201 | [382201-blessed-redux.json](./382201-blessed-redux.json) |
 | Blessing in the Darkness | 333059 | [333059-blessing-in-the-darkness.json](./333059-blessing-in-the-darkness.json) |
 | Bleu Bayou | 349836 | [349836-bleu-bayou.json](./349836-bleu-bayou.json) |
+| Blight | 211161 | [211161-blight.json](./211161-blight.json) |
 | Blight Doctors | 415867 | [415867-blight-doctors.json](./415867-blight-doctors.json) |
 | Blight Dream | 121029 | [121029-blight-dream.json](./121029-blight-dream.json) |
 | Blightborn | 338714 | [338714-blightborn.json](./338714-blightborn.json) |
@@ -5793,6 +5794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravely Default: Fairy's Effect | 25739 | [25739-bravely-default-fairys-effect.json](./25739-bravely-default-fairys-effect.json) |
 | Bravely Default: Flying Fairy | 78326 | [78326-bravely-default-flying-fairy.json](./78326-bravely-default-flying-fairy.json) |
 | Bravely Default: Flying Fairy Collector's Pack | 89878 | [89878-bravely-default-flying-fairy-collectors-pack.json](./89878-bravely-default-flying-fairy-collectors-pack.json) |
+| Bravery | 211141 | [211141-bravery.json](./211141-bravery.json) |
 | Bravery | 391078 | [391078-bravery.json](./391078-bravery.json) |
 | Bravest Burden | 173291 | [173291-bravest-burden.json](./173291-bravest-burden.json) |
 | Bravest Chicken | 275878 | [275878-bravest-chicken.json](./275878-bravest-chicken.json) |
