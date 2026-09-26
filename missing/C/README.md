@@ -1323,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Shikigami 3 | 331315 | [331315-castle-of-shikigami-3.json](./331315-castle-of-shikigami-3.json) |
 | Castle of The Dark Ages | 271754 | [271754-castle-of-the-dark-ages.json](./271754-castle-of-the-dark-ages.json) |
 | Castle of the Land | 153356 | [153356-castle-of-the-land.json](./153356-castle-of-the-land.json) |
+| Castle of the Red Prince | 186632 | [186632-castle-of-the-red-prince.json](./186632-castle-of-the-red-prince.json) |
 | Castle of Venia | 108423 | [108423-castle-of-venia.json](./108423-castle-of-venia.json) |
 | Castle of Void | 264713 | [264713-castle-of-void.json](./264713-castle-of-void.json) |
 | Castle of White Night | 197853 | [197853-castle-of-white-night.json](./197853-castle-of-white-night.json) |
@@ -1606,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catal Carta | 416639 | [416639-catal-carta.json](./416639-catal-carta.json) |
 | Catale | 337289 | [337289-catale.json](./337289-catale.json) |
 | Cataline | 209710 | [209710-cataline.json](./209710-cataline.json) |
+| Catalypse | 186640 | [186640-catalypse.json](./186640-catalypse.json) |
 | Catalyst | 114333 | [114333-catalyst.json](./114333-catalyst.json) |
 | Catalyst | 352260 | [352260-catalyst.json](./352260-catalyst.json) |
 | Catalyst of Quoralis | 417643 | [417643-catalyst-of-quoralis.json](./417643-catalyst-of-quoralis.json) |
