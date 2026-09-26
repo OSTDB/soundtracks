@@ -6441,6 +6441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Out | 39674 | [39674-drift-out.json](./39674-drift-out.json) |
 | Drift Out '94 - The Hard Order | 39826 | [39826-drift-out-94-the-hard-order.json](./39826-drift-out-94-the-hard-order.json) |
 | Drift Reign | 245834 | [245834-drift-reign.json](./245834-drift-reign.json) |
+| Drift Ride | 196557 | [196557-drift-ride.json](./196557-drift-ride.json) |
 | Drift Runners | 287157 | [287157-drift-runners.json](./287157-drift-runners.json) |
 | Drift Showcase | 369752 | [369752-drift-showcase.json](./369752-drift-showcase.json) |
 | Drift Streets Japan | 34167 | [34167-drift-streets-japan.json](./34167-drift-streets-japan.json) |
