@@ -5095,6 +5095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier | 162905 | [162905-frontier.json](./162905-frontier.json) |
 | Frontier Brain | 376129 | [376129-frontier-brain.json](./376129-frontier-brain.json) |
 | Frontier Days: Founding Pioneers | 85165 | [85165-frontier-days-founding-pioneers.json](./85165-frontier-days-founding-pioneers.json) |
+| Frontier Diver Progenexis | 177342 | [177342-frontier-diver-progenexis.json](./177342-frontier-diver-progenexis.json) |
 | Frontier Force | 345611 | [345611-frontier-force.json](./345611-frontier-force.json) |
 | Frontier Force Vanguard | 337478 | [337478-frontier-force-vanguard.json](./337478-frontier-force-vanguard.json) |
 | Frontier Forge | 413769 | [413769-frontier-forge.json](./413769-frontier-forge.json) |
@@ -5714,6 +5715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Perfect | 36415 | [36415-future-perfect.json](./36415-future-perfect.json) |
 | Future Pool | 130857 | [130857-future-pool.json](./130857-future-pool.json) |
 | Future Racer 2000 | 248909 | [248909-future-racer-2000.json](./248909-future-racer-2000.json) |
+| Future Reality | 177302 | [177302-future-reality.json](./177302-future-reality.json) |
 | Future Reality: Racing League | 217364 | [217364-future-reality-racing-league.json](./217364-future-reality-racing-league.json) |
 | Future Sense | 242202 | [242202-future-sense.json](./242202-future-sense.json) |
 | Future Shock | 13718 | [13718-future-shock.json](./13718-future-shock.json) |
