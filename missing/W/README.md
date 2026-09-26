@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warp Soldier | 216486 | [216486-warp-soldier.json](./216486-warp-soldier.json) |
 | Warp Speed | 45568 | [45568-warp-speed.json](./45568-warp-speed.json) |
 | Warp to Sector One | 394552 | [394552-warp-to-sector-one.json](./394552-warp-to-sector-one.json) |
+| Warp Trash Flotilla | 178968 | [178968-warp-trash-flotilla.json](./178968-warp-trash-flotilla.json) |
 | Warp-1 | 57125 | [57125-warp-1.json](./57125-warp-1.json) |
 | Warpath | 273349 | [273349-warpath.json](./273349-warpath.json) |
 | Warpath | 377149 | [377149-warpath.json](./377149-warpath.json) |
@@ -3098,6 +3099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Weasel | 200157 | [200157-word-weasel.json](./200157-word-weasel.json) |
 | Word Whammer | 328210 | [328210-word-whammer.json](./328210-word-whammer.json) |
 | Word Wheel by Powgi | 119539 | [119539-word-wheel-by-powgi.json](./119539-word-wheel-by-powgi.json) |
+| Word Whip | 178970 | [178970-word-whip.json](./178970-word-whip.json) |
 | Word Whisper | 254163 | [254163-word-whisper.json](./254163-word-whisper.json) |
 | Word Whiz | 93345 | [93345-word-whiz.json](./93345-word-whiz.json) |
 | Word Whomp HD | 318610 | [318610-word-whomp-hd.json](./318610-word-whomp-hd.json) |
