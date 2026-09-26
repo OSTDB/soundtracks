@@ -328,7 +328,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taipei Metro Quest | 178664 | [178664-taipei-metro-quest.json](./178664-taipei-metro-quest.json) |
 | Taipei Midsummer Night's Dream | 339104 | [339104-taipei-midsummer-nights-dream.json](./339104-taipei-midsummer-nights-dream.json) |
 | Taiping Heavenly Kingdom | 409640 | [409640-taiping-heavenly-kingdom.json](./409640-taiping-heavenly-kingdom.json) |
+| Taisen Daifugo | 198197 | [198197-taisen-daifugo.json](./198197-taisen-daifugo.json) |
+| Taisen Daifugo + | 198198 | [198198-taisen-daifugo.json](./198198-taisen-daifugo.json) |
+| Taisen Daifugo Cross | 198199 | [198199-taisen-daifugo-cross.json](./198199-taisen-daifugo-cross.json) |
+| Taisen Golf | 198206 | [198206-taisen-golf.json](./198206-taisen-golf.json) |
+| Taisen Golf | 198208 | [198208-taisen-golf.json](./198208-taisen-golf.json) |
 | Taisen Hot Gimmick: Axes-Jong | 282136 | [282136-taisen-hot-gimmick-axes-jong.json](./282136-taisen-hot-gimmick-axes-jong.json) |
+| Taisen IQ | 198203 | [198203-taisen-iq.json](./198203-taisen-iq.json) |
+| Taisen IQ + | 198204 | [198204-taisen-iq.json](./198204-taisen-iq.json) |
+| Taisen Mahjong | 198202 | [198202-taisen-mahjong.json](./198202-taisen-mahjong.json) |
+| Taisen Panic Bomber + | 198205 | [198205-taisen-panic-bomber.json](./198205-taisen-panic-bomber.json) |
+| Taisen Reversi | 198209 | [198209-taisen-reversi.json](./198209-taisen-reversi.json) |
+| Taisen Reversi Cross | 198210 | [198210-taisen-reversi-cross.json](./198210-taisen-reversi-cross.json) |
 | Taisen! Koori Oni | 227366 | [227366-taisen-koori-oni.json](./227366-taisen-koori-oni.json) |
 | Taisho x Alice: Episode 3 | 150505 | [150505-taisho-x-alice-episode-3.json](./150505-taisho-x-alice-episode-3.json) |
 | Taisho Zombi Roman (Plus) | 150657 | [150657-taisho-zombi-roman-plus.json](./150657-taisho-zombi-roman-plus.json) |
@@ -6039,6 +6050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Piano | 20180 | [20180-the-piano.json](./20180-the-piano.json) |
 | The Piece | 276812 | [276812-the-piece.json](./276812-the-piece.json) |
 | The Pig: Money Is Time | 186183 | [186183-the-pig-money-is-time.json](./186183-the-pig-money-is-time.json) |
+| The Pigeon P | 198254 | [198254-the-pigeon-p.json](./198254-the-pigeon-p.json) |
 | The Pigeon Quiz | 219048 | [219048-the-pigeon-quiz.json](./219048-the-pigeon-quiz.json) |
 | The Pilgrim | 121634 | [121634-the-pilgrim.json](./121634-the-pilgrim.json) |
 | The Pilgrim's Progress: The Video Game | 61109 | [61109-the-pilgrims-progress-the-video-game.json](./61109-the-pilgrims-progress-the-video-game.json) |
@@ -6262,6 +6274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Bell’s Lament | 276734 | [276734-the-red-bell-s-lament.json](./276734-the-red-bell-s-lament.json) |
 | The Red Button | 289969 | [289969-the-red-button.json](./289969-the-red-button.json) |
 | The Red Cathedral | 359042 | [359042-the-red-cathedral.json](./359042-the-red-cathedral.json) |
+| The Red Crystal: The Seven Secrets of Life | 198262 | [198262-the-red-crystal-the-seven-secrets-of-life.json](./198262-the-red-crystal-the-seven-secrets-of-life.json) |
 | The Red Forest | 267674 | [267674-the-red-forest.json](./267674-the-red-forest.json) |
 | The Red Hood | 193482 | [193482-the-red-hood.json](./193482-the-red-hood.json) |
 | The Red Juggernaut | 272385 | [272385-the-red-juggernaut.json](./272385-the-red-juggernaut.json) |
@@ -13030,6 +13043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turnin' Tail | 180677 | [180677-turnin-tail.json](./180677-turnin-tail.json) |
 | Turning | 249870 | [249870-turning.json](./249870-turning.json) |
 | Turning Manor | 363953 | [363953-turning-manor.json](./363953-turning-manor.json) |
+| Turning Red Dancing Tiles Hop | 198240 | [198240-turning-red-dancing-tiles-hop.json](./198240-turning-red-dancing-tiles-hop.json) |
 | Turnip Boy Robs a Bank | 217645 | [217645-turnip-boy-robs-a-bank.json](./217645-turnip-boy-robs-a-bank.json) |
 | Turnip Boy Steals the Mail | 342657 | [342657-turnip-boy-steals-the-mail.json](./342657-turnip-boy-steals-the-mail.json) |
 | TurnOn | 19606 | [19606-turnon.json](./19606-turnon.json) |
