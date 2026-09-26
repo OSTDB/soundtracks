@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kafkaesque: The Nightmare Trial | 311827 | [311827-kafkaesque-the-nightmare-trial.json](./311827-kafkaesque-the-nightmare-trial.json) |
 | Kagami | 410415 | [410415-kagami.json](./410415-kagami.json) |
 | Kagami no Kuni no Legend | 256323 | [256323-kagami-no-kuni-no-legend.json](./256323-kagami-no-kuni-no-legend.json) |
+| Kagamihara/Justice | 222256 | [222256-kagamihara-justice.json](./222256-kagamihara-justice.json) |
 | Kageninja | 385743 | [385743-kageninja.json](./385743-kageninja.json) |
 | Kagerou Labyrinth | 338819 | [338819-kagerou-labyrinth.json](./338819-kagerou-labyrinth.json) |
 | Kagi wo Kakushita Kago no Tori: Bird in Cage Hiding the Key | 260120 | [260120-kagi-wo-kakushita-kago-no-tori-bird-in-cage-hiding-the-key.json](./260120-kagi-wo-kakushita-kago-no-tori-bird-in-cage-hiding-the-key.json) |
@@ -245,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamikuishiki-mura Monogatari | 130768 | [130768-kamikuishiki-mura-monogatari.json](./130768-kamikuishiki-mura-monogatari.json) |
 | Kamimachi Site - Dating story | 118287 | [118287-kamimachi-site-dating-story.json](./118287-kamimachi-site-dating-story.json) |
 | Kaminariko Konpeki no Akira | 221246 | [221246-kaminariko-konpeki-no-akira.json](./221246-kaminariko-konpeki-no-akira.json) |
+| Kaminazo: Mirai kara no Omoi de | 222261 | [222261-kaminazo-mirai-kara-no-omoi-de.json](./222261-kaminazo-mirai-kara-no-omoi-de.json) |
 | Kamiori | 104647 | [104647-kamiori.json](./104647-kamiori.json) |
 | Kamisama no Hitsugi | 328215 | [328215-kamisama-no-hitsugi.json](./328215-kamisama-no-hitsugi.json) |
 | Kamisama: Spirit of the Shrine | 218737 | [218737-kamisama-spirit-of-the-shrine.json](./218737-kamisama-spirit-of-the-shrine.json) |
@@ -659,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemco RPG Selection Vol. 3 | 130312 | [130312-kemco-rpg-selection-vol-3.json](./130312-kemco-rpg-selection-vol-3.json) |
 | Kemco: 50 RPGs Celebratory Bundle | 259865 | [259865-kemco-50-rpgs-celebratory-bundle.json](./259865-kemco-50-rpgs-celebratory-bundle.json) |
 | Kemo Kare! Oretachi no BL Byoutou | 240515 | [240515-kemo-kare-oretachi-no-bl-byoutou.json](./240515-kemo-kare-oretachi-no-bl-byoutou.json) |
+| Kemono Dash! | 222247 | [222247-kemono-dash.json](./222247-kemono-dash.json) |
 | Kemono Friends | 109605 | [109605-kemono-friends.json](./109605-kemono-friends.json) |
 | Kemono Friends Pavilion | 214738 | [214738-kemono-friends-pavilion.json](./214738-kemono-friends-pavilion.json) |
 | Kemono Friends Picross | 107655 | [107655-kemono-friends-picross.json](./107655-kemono-friends-picross.json) |
@@ -676,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ken to Mahou to Gakuen Mono: Anniversary Edition | 96495 | [96495-ken-to-mahou-to-gakuen-mono-anniversary-edition.json](./96495-ken-to-mahou-to-gakuen-mono-anniversary-edition.json) |
 | Ken to Mahou to Gakuen Mono. 3 | 44582 | [44582-ken-to-mahou-to-gakuen-mono-3.json](./44582-ken-to-mahou-to-gakuen-mono-3.json) |
 | Ken to Mahou to Gakuen Mono. Final: Shinnyusei wa Ohimesama! | 63896 | [63896-ken-to-mahou-to-gakuen-mono-final-shinnyusei-wa-ohimesama.json](./63896-ken-to-mahou-to-gakuen-mono-final-shinnyusei-wa-ohimesama.json) |
+| Ken to Mahou to Gakuen Quest | 222230 | [222230-ken-to-mahou-to-gakuen-quest.json](./222230-ken-to-mahou-to-gakuen-quest.json) |
 | Ken's Labyrinth II | 309654 | [309654-kens-labyrinth-ii.json](./309654-kens-labyrinth-ii.json) |
 | Kena: Scars of Kosmora | 389419 | [389419-kena-scars-of-kosmora.json](./389419-kena-scars-of-kosmora.json) |
 | Kenas-unarpe | 299130 | [299130-kenas-unarpe.json](./299130-kenas-unarpe.json) |
