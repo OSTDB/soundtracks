@@ -5073,6 +5073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BongBongCapy | 400862 | [400862-bongbongcapy.json](./400862-bongbongcapy.json) |
 | Bongo Cat | 334486 | [334486-bongo-cat.json](./334486-bongo-cat.json) |
 | Bongo Loves the Bible | 146262 | [146262-bongo-loves-the-bible.json](./146262-bongo-loves-the-bible.json) |
+| Bongo Quest | 190472 | [190472-bongo-quest.json](./190472-bongo-quest.json) |
 | Bongo's Bash | 69589 | [69589-bongos-bash.json](./69589-bongos-bash.json) |
 | Bonito Days | 175817 | [175817-bonito-days.json](./175817-bonito-days.json) |
 | Bonjin: An Ordinary Man | 349869 | [349869-bonjin-an-ordinary-man.json](./349869-bonjin-an-ordinary-man.json) |
@@ -7024,6 +7025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Dead | 226777 | [226777-burning-dead.json](./226777-burning-dead.json) |
 | Burning Dragon | 61555 | [61555-burning-dragon.json](./61555-burning-dragon.json) |
 | Burning Empires | 356165 | [356165-burning-empires.json](./356165-burning-empires.json) |
+| Burning Faith | 190476 | [190476-burning-faith.json](./190476-burning-faith.json) |
 | Burning Fight | 39557 | [39557-burning-fight.json](./39557-burning-fight.json) |
 | Burning Knight | 117702 | [117702-burning-knight.json](./117702-burning-knight.json) |
 | Burning Love | 287082 | [287082-burning-love.json](./287082-burning-love.json) |
