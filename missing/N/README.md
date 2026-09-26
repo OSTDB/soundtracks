@@ -688,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necropolis: Brutal Edition | 25337 | [25337-necropolis-brutal-edition.json](./25337-necropolis-brutal-edition.json) |
 | Necrosphere | 36626 | [36626-necrosphere.json](./36626-necrosphere.json) |
 | Necrosphere Deluxe | 114026 | [114026-necrosphere-deluxe.json](./114026-necrosphere-deluxe.json) |
+| NecroTactics | 223418 | [223418-necrotactics.json](./223418-necrotactics.json) |
 | Necrotyper | 360594 | [360594-necrotyper.json](./360594-necrotyper.json) |
 | Necrowarp | 129691 | [129691-necrowarp.json](./129691-necrowarp.json) |
 | Nectar of the Gods: The Hive and Spidey Party Bugs Bundle | 171019 | [171019-nectar-of-the-gods-the-hive-and-spidey-party-bugs-bundle.json](./171019-nectar-of-the-gods-the-hive-and-spidey-party-bugs-bundle.json) |
@@ -805,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Cosmo Police | 209482 | [209482-neko-cosmo-police.json](./209482-neko-cosmo-police.json) |
 | Neko Dai Suki! | 45257 | [45257-neko-dai-suki.json](./45257-neko-dai-suki.json) |
 | Neko Daisuki! | 19668 | [19668-neko-daisuki.json](./19668-neko-daisuki.json) |
+| Neko Dating Sim | 223395 | [223395-neko-dating-sim.json](./223395-neko-dating-sim.json) |
 | Neko Don Don! | 385332 | [385332-neko-don-don.json](./385332-neko-don-don.json) |
 | Neko Gacha | 228543 | [228543-neko-gacha.json](./228543-neko-gacha.json) |
 | Neko Gelato | 353995 | [353995-neko-gelato.json](./353995-neko-gelato.json) |
