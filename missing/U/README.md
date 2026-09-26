@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Paintball | 49901 | [49901-ultimate-paintball.json](./49901-ultimate-paintball.json) |
 | Ultimate Panzer | 216490 | [216490-ultimate-panzer.json](./216490-ultimate-panzer.json) |
 | Ultimate Pinball | 146840 | [146840-ultimate-pinball.json](./146840-ultimate-pinball.json) |
+| Ultimate Pirates | 176809 | [176809-ultimate-pirates.json](./176809-ultimate-pirates.json) |
 | Ultimate Pro Basketball GM | 228122 | [228122-ultimate-pro-basketball-gm.json](./228122-ultimate-pro-basketball-gm.json) |
 | Ultimate Protector | 215679 | [215679-ultimate-protector.json](./215679-ultimate-protector.json) |
 | Ultimate Racing 2D | 99538 | [99538-ultimate-racing-2d.json](./99538-ultimate-racing-2d.json) |
@@ -643,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undefined | 111026 | [111026-undefined.json](./111026-undefined.json) |
 | Undemon | 182363 | [182363-undemon.json](./182363-undemon.json) |
 | Under Contract | 219533 | [219533-under-contract.json](./219533-under-contract.json) |
+| Under Control | 176795 | [176795-under-control.json](./176795-under-control.json) |
 | Under Control | 21325 | [21325-under-control.json](./21325-under-control.json) |
 | Under Dead | 244725 | [244725-under-dead.json](./244725-under-dead.json) |
 | Under Defeat | 21015 | [21015-under-defeat.json](./21015-under-defeat.json) |
