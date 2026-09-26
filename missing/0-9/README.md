@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ! | 165498 | [165498-.json](./165498-.json) |
 | !BurnToDie! | 109760 | [109760-burntodie.json](./109760-burntodie.json) |
 | !Hungry Blocks! | 338924 | [338924-hungry-blocks.json](./338924-hungry-blocks.json) |
+| !Pattern | 225575 | [225575-pattern.json](./225575-pattern.json) |
 | !Peace Phantom 2! | 89658 | [89658-peace-phantom-2.json](./89658-peace-phantom-2.json) |
 | ¡Alla tú!: juego interactivo de DVD | 319740 | [319740-alla-tu-juego-interactivo-de-dvd.json](./319740-alla-tu-juego-interactivo-de-dvd.json) |
 | ¡Shin Chan: Flipa en colores! | 93591 | [93591-shin-chan-flipa-en-colores.json](./93591-shin-chan-flipa-en-colores.json) |
