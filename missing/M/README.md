@@ -2480,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayday: Conflict Earth | 36932 | [36932-mayday-conflict-earth.json](./36932-mayday-conflict-earth.json) |
 | Mayday: The Survival Island | 169856 | [169856-mayday-the-survival-island.json](./169856-mayday-the-survival-island.json) |
 | Mayflower Reflections | 191836 | [191836-mayflower-reflections.json](./191836-mayflower-reflections.json) |
+| Mayhem | 186051 | [186051-mayhem.json](./186051-mayhem.json) |
 | Mayhem | 217254 | [217254-mayhem.json](./217254-mayhem.json) |
 | Mayhem | 7066 | [7066-mayhem.json](./7066-mayhem.json) |
 | Mayhem | 80875 | [80875-mayhem.json](./80875-mayhem.json) |
@@ -6988,6 +6989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother 2: Perfect Edition | 305370 | [305370-mother-2-perfect-edition.json](./305370-mother-2-perfect-edition.json) |
 | Mother 3 | 3683 | [3683-mother-3.json](./3683-mother-3.json) |
 | Mother 3.5 | 310951 | [310951-mother-3-5.json](./310951-mother-3-5.json) |
+| Mother 4 | 186042 | [186042-mother-4.json](./186042-mother-4.json) |
 | Mother Christmas | 394818 | [394818-mother-christmas.json](./394818-mother-christmas.json) |
 | Mother Fucker Galaxy | 254523 | [254523-mother-fucker-galaxy.json](./254523-mother-fucker-galaxy.json) |
 | Mother Is Gone | 180843 | [180843-mother-is-gone.json](./180843-mother-is-gone.json) |
@@ -7079,6 +7081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross: The Force | 270211 | [270211-motocross-the-force.json](./270211-motocross-the-force.json) |
 | MotoGP | 175917 | [175917-motogp.json](./175917-motogp.json) |
 | MotoGP | 282659 | [282659-motogp.json](./282659-motogp.json) |
+| MotoGP '07 | 186046 | [186046-motogp-07.json](./186046-motogp-07.json) |
 | MotoGP '08 | 5022 | [5022-motogp-08.json](./5022-motogp-08.json) |
 | MotoGP 13 Compact | 147303 | [147303-motogp-13-compact.json](./147303-motogp-13-compact.json) |
 | MotoGP 13: MotoGP Champions | 168355 | [168355-motogp-13-motogp-champions.json](./168355-motogp-13-motogp-champions.json) |
