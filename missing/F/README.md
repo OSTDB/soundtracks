@@ -3553,6 +3553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Delivery Simulator | 316420 | [316420-food-delivery-simulator.json](./316420-food-delivery-simulator.json) |
 | Food Devils | 301330 | [301330-food-devils.json](./301330-food-devils.json) |
 | Food Drive | 109721 | [109721-food-drive.json](./109721-food-drive.json) |
+| Food Empire | 216743 | [216743-food-empire.json](./216743-food-empire.json) |
 | Food Factory VR | 127020 | [127020-food-factory-vr.json](./127020-food-factory-vr.json) |
 | Food Fight | 12325 | [12325-food-fight.json](./12325-food-fight.json) |
 | Food Fight | 316255 | [316255-food-fight.json](./316255-food-fight.json) |
@@ -4491,6 +4492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freakhunter | 281487 | [281487-freakhunter.json](./281487-freakhunter.json) |
 | FreaKick | 68626 | [68626-freakick.json](./68626-freakick.json) |
 | Freakin' Funky Fuzzballs | 15515 | [15515-freakin-funky-fuzzballs.json](./15515-freakin-funky-fuzzballs.json) |
+| Freakland | 216722 | [216722-freakland.json](./216722-freakland.json) |
 | Freakout: Calamity TV Show | 102150 | [102150-freakout-calamity-tv-show.json](./102150-freakout-calamity-tv-show.json) |
 | Freakshow | 348840 | [348840-freakshow.json](./348840-freakshow.json) |
 | Freakshow: Anniversary | 99575 | [99575-freakshow-anniversary.json](./99575-freakshow-anniversary.json) |
