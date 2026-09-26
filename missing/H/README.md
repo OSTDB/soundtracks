@@ -2601,6 +2601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexalot | 53215 | [53215-hexalot.json](./53215-hexalot.json) |
 | Hexaluga: Weapon and Shield | 96475 | [96475-hexaluga-weapon-and-shield.json](./96475-hexaluga-weapon-and-shield.json) |
 | Hexamania | 145441 | [145441-hexamania.json](./145441-hexamania.json) |
+| HexaMaze | 182814 | [182814-hexamaze.json](./182814-hexamaze.json) |
 | HexaMerge 2048 | 384210 | [384210-hexamerge-2048.json](./384210-hexamerge-2048.json) |
 | Hexameron: Phase One | 271773 | [271773-hexameron-phase-one.json](./271773-hexameron-phase-one.json) |
 | Hexanome | 110601 | [110601-hexanome.json](./110601-hexanome.json) |
@@ -4276,6 +4277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Pinball | 398447 | [398447-hot-pinball.json](./398447-hot-pinball.json) |
 | Hot Plates | 30366 | [30366-hot-plates.json](./30366-hot-plates.json) |
 | Hot Pool | 74454 | [74454-hot-pool.json](./74454-hot-pool.json) |
+| Hot Pot | 182817 | [182817-hot-pot.json](./182817-hot-pot.json) |
 | Hot Pot For One | 139811 | [139811-hot-pot-for-one.json](./139811-hot-pot-for-one.json) |
 | Hot Pussy College 2 | 240737 | [240737-hot-pussy-college-2.json](./240737-hot-pussy-college-2.json) |
 | Hot Racing | 246461 | [246461-hot-racing.json](./246461-hot-racing.json) |
@@ -5232,6 +5234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypogean Descent | 266791 | [266791-hypogean-descent.json](./266791-hypogean-descent.json) |
 | Hyposphere | 33020 | [33020-hyposphere.json](./33020-hyposphere.json) |
 | Hypotheses on the Symmetry between Vision and Hands | 294157 | [294157-hypotheses-on-the-symmetry-between-vision-and-hands.json](./294157-hypotheses-on-the-symmetry-between-vision-and-hands.json) |
+| Hypotheticards: a nature collection mystery!! | 182848 | [182848-hypotheticards-a-nature-collection-mystery.json](./182848-hypotheticards-a-nature-collection-mystery.json) |
 | Hypothetimania | 278405 | [278405-hypothetimania.json](./278405-hypothetimania.json) |
 | Hypoxia: One Last Breath | 167291 | [167291-hypoxia-one-last-breath.json](./167291-hypoxia-one-last-breath.json) |
 | HypurrX | 336535 | [336535-hypurrx.json](./336535-hypurrx.json) |
