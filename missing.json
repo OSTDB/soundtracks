@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T03:33:01.792Z",
-  "total_missing": 123926,
+  "generated_at": "2026-09-26T03:48:13.516Z",
+  "total_missing": 123976,
   "games": [
     {
       "igdb_id": 176875,
@@ -11311,6 +11311,11 @@
       "igdb_id": 66066,
       "game_name": "Adventures in Odyssey! The Sword of the Spirit",
       "file": "missing/A/66066-adventures-in-odyssey-the-sword-of-the-spirit.json"
+    },
+    {
+      "igdb_id": 218996,
+      "game_name": "Adventures in the Dimension of Insidual Cruelitude.",
+      "file": "missing/A/218996-adventures-in-the-dimension-of-insidual-cruelitude.json"
     },
     {
       "igdb_id": 8130,
@@ -27493,6 +27498,11 @@
       "file": "missing/A/99546-arcade-archives-armed-f.json"
     },
     {
+      "igdb_id": 218969,
+      "game_name": "Arcade Archives: Assault",
+      "file": "missing/A/218969-arcade-archives-assault.json"
+    },
+    {
       "igdb_id": 121428,
       "game_name": "Arcade Archives: Atomic Robo-Kid",
       "file": "missing/A/121428-arcade-archives-atomic-robo-kid.json"
@@ -33153,9 +33163,19 @@
       "file": "missing/A/304680-assassins-alliance.json"
     },
     {
+      "igdb_id": 219000,
+      "game_name": "Assassin's Creed American History Pack",
+      "file": "missing/A/219000-assassins-creed-american-history-pack.json"
+    },
+    {
       "igdb_id": 8216,
       "game_name": "Assassin's Creed Brotherhood: The Da Vinci Disappearance",
       "file": "missing/A/8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json"
+    },
+    {
+      "igdb_id": 219007,
+      "game_name": "Assassin's Creed Ezio Auditore Pack",
+      "file": "missing/A/219007-assassins-creed-ezio-auditore-pack.json"
     },
     {
       "igdb_id": 17028,
@@ -33233,6 +33253,11 @@
       "file": "missing/A/409030-assassin-s-creed-mirage-celestial-pack.json"
     },
     {
+      "igdb_id": 218997,
+      "game_name": "Assassin's Creed Mirage: Collector's Case",
+      "file": "missing/A/218997-assassins-creed-mirage-collectors-case.json"
+    },
+    {
       "igdb_id": 271290,
       "game_name": "Assassin's Creed Mirage: Deluxe Pack",
       "file": "missing/A/271290-assassins-creed-mirage-deluxe-pack.json"
@@ -33256,6 +33281,11 @@
       "igdb_id": 360572,
       "game_name": "Assassin's Creed Mirage: Master Assassin Upgrade Bundle 1",
       "file": "missing/A/360572-assassins-creed-mirage-master-assassin-upgrade-bundle-1.json"
+    },
+    {
+      "igdb_id": 218994,
+      "game_name": "Assassin's Creed Mythology Pack",
+      "file": "missing/A/218994-assassins-creed-mythology-pack.json"
     },
     {
       "igdb_id": 112732,
@@ -33301,6 +33331,11 @@
       "igdb_id": 8217,
       "game_name": "Assassin's Creed Revelations: The Lost Archive",
       "file": "missing/A/8217-assassins-creed-revelations-the-lost-archive.json"
+    },
+    {
+      "igdb_id": 218995,
+      "game_name": "Assassin's Creed Rogue: Deluxe Edition",
+      "file": "missing/A/218995-assassins-creed-rogue-deluxe-edition.json"
     },
     {
       "igdb_id": 151547,
@@ -33431,6 +33466,11 @@
       "igdb_id": 78709,
       "game_name": "Assassin's Creed: Lost Legacy",
       "file": "missing/A/78709-assassins-creed-lost-legacy.json"
+    },
+    {
+      "igdb_id": 219003,
+      "game_name": "Assassin's Creed: Modern Revolutions Pack",
+      "file": "missing/A/219003-assassins-creed-modern-revolutions-pack.json"
     },
     {
       "igdb_id": 109463,
@@ -41288,6 +41328,11 @@
       "file": "missing/B/19902-bad-piggies.json"
     },
     {
+      "igdb_id": 218965,
+      "game_name": "Bad Piggies 2",
+      "file": "missing/B/218965-bad-piggies-2.json"
+    },
+    {
       "igdb_id": 221410,
       "game_name": "Bad Piggies HD",
       "file": "missing/B/221410-bad-piggies-hd.json"
@@ -48726,6 +48771,11 @@
       "igdb_id": 34851,
       "game_name": "Baxter's Venture: Director's Cut",
       "file": "missing/B/34851-baxters-venture-directors-cut.json"
+    },
+    {
+      "igdb_id": 218980,
+      "game_name": "Bay Bell",
+      "file": "missing/B/218980-bay-bell.json"
     },
     {
       "igdb_id": 39616,
@@ -70288,6 +70338,11 @@
       "file": "missing/B/192839-broken-banners.json"
     },
     {
+      "igdb_id": 218993,
+      "game_name": "Broken Boughs",
+      "file": "missing/B/218993-broken-boughs.json"
+    },
+    {
       "igdb_id": 217415,
       "game_name": "Broken Build Simulator",
       "file": "missing/B/217415-broken-build-simulator.json"
@@ -83403,6 +83458,11 @@
       "file": "missing/C/246955-category-challenge.json"
     },
     {
+      "igdb_id": 218981,
+      "game_name": "Category I: Shisenjou no Survivor",
+      "file": "missing/C/218981-category-i-shisenjou-no-survivor.json"
+    },
+    {
       "igdb_id": 221682,
       "game_name": "Category I: Shisenjou no Survivor",
       "file": "missing/C/221682-category-i-shisenjou-no-survivor.json"
@@ -86711,6 +86771,11 @@
       "igdb_id": 281991,
       "game_name": "Charles: The Full Story",
       "file": "missing/C/281991-charles-the-full-story.json"
+    },
+    {
+      "igdb_id": 218979,
+      "game_name": "Charley's Day",
+      "file": "missing/C/218979-charleys-day.json"
     },
     {
       "igdb_id": 343343,
@@ -106573,6 +106638,11 @@
       "file": "missing/C/210236-crash-and-spyro-superpack-i-crash-bandicoot-the-huge-adventure-spyro-season-of-ice.json"
     },
     {
+      "igdb_id": 218970,
+      "game_name": "Crash + Spyro Triple Play Bundle",
+      "file": "missing/C/218970-crash-spyro-triple-play-bundle.json"
+    },
+    {
       "igdb_id": 238481,
       "game_name": "Crash and Run",
       "file": "missing/C/238481-crash-and-run.json"
@@ -122468,6 +122538,11 @@
       "file": "missing/D/406174-dead-hospital.json"
     },
     {
+      "igdb_id": 218972,
+      "game_name": "Dead House: Saisei",
+      "file": "missing/D/218972-dead-house-saisei.json"
+    },
+    {
       "igdb_id": 269034,
       "game_name": "Dead Humanity",
       "file": "missing/D/269034-dead-humanity.json"
@@ -135033,6 +135108,11 @@
       "file": "missing/D/67308-discovery-kids-spider-quest.json"
     },
     {
+      "igdb_id": 218999,
+      "game_name": "Discovery Tour Bundle by Assassin's Creed",
+      "file": "missing/D/218999-discovery-tour-bundle-by-assassins-creed.json"
+    },
+    {
       "igdb_id": 133962,
       "game_name": "Discovery Tour: Ancient Greece",
       "file": "missing/D/133962-discovery-tour-ancient-greece.json"
@@ -140426,6 +140506,11 @@
       "igdb_id": 131380,
       "game_name": "DoNor - Onna Tantei Ryoujoku",
       "file": "missing/D/131380-donor-onna-tantei-ryoujoku.json"
+    },
+    {
+      "igdb_id": 218966,
+      "game_name": "Donpen Beat",
+      "file": "missing/D/218966-donpen-beat.json"
     },
     {
       "igdb_id": 177521,
@@ -173753,6 +173838,11 @@
       "file": "missing/F/51227-far-cry-delta-sector.json"
     },
     {
+      "igdb_id": 219001,
+      "game_name": "Far Cry: Gold Pack",
+      "file": "missing/F/219001-far-cry-gold-pack.json"
+    },
+    {
       "igdb_id": 117513,
       "game_name": "Far Cry: Primal - Wenja Pack",
       "file": "missing/F/117513-far-cry-primal-wenja-pack.json"
@@ -176106,6 +176196,11 @@
       "igdb_id": 332537,
       "game_name": "Fear of Biosec",
       "file": "missing/F/332537-fear-of-biosec.json"
+    },
+    {
+      "igdb_id": 218991,
+      "game_name": "Fear of Bugs: The Fear Experience",
+      "file": "missing/F/218991-fear-of-bugs-the-fear-experience.json"
     },
     {
       "igdb_id": 294292,
@@ -199761,6 +199856,11 @@
       "igdb_id": 58793,
       "game_name": "Game of Dice",
       "file": "missing/G/58793-game-of-dice.json"
+    },
+    {
+      "igdb_id": 218973,
+      "game_name": "Game of Dragons",
+      "file": "missing/G/218973-game-of-dragons.json"
     },
     {
       "igdb_id": 243073,
@@ -236043,6 +236143,11 @@
       "file": "missing/H/317632-hitman-world-of-assassination-vr-access.json"
     },
     {
+      "igdb_id": 218974,
+      "game_name": "Hitman: Absolution HD",
+      "file": "missing/H/218974-hitman-absolution-hd.json"
+    },
+    {
       "igdb_id": 99816,
       "game_name": "Hitman: Blood Money HD",
       "file": "missing/H/99816-hitman-blood-money-hd.json"
@@ -240781,6 +240886,11 @@
       "igdb_id": 195766,
       "game_name": "Hot Wheels Unleashed: DC Super Heroes Racing Season",
       "file": "missing/H/195766-hot-wheels-unleashed-dc-super-heroes-racing-season.json"
+    },
+    {
+      "igdb_id": 218968,
+      "game_name": "Hot Wheels Unleashed: Game of the Year Edition",
+      "file": "missing/H/218968-hot-wheels-unleashed-game-of-the-year-edition.json"
     },
     {
       "igdb_id": 195768,
@@ -268801,6 +268911,11 @@
       "igdb_id": 294807,
       "game_name": "Kanashimi Arabesque",
       "file": "missing/K/294807-kanashimi-arabesque.json"
+    },
+    {
+      "igdb_id": 219008,
+      "game_name": "Kanazawa Shogi: Level 300",
+      "file": "missing/K/219008-kanazawa-shogi-level-300.json"
     },
     {
       "igdb_id": 310719,
@@ -325438,6 +325553,11 @@
       "file": "missing/M/69270-minna-no-doubutsuen.json"
     },
     {
+      "igdb_id": 218988,
+      "game_name": "Minna no Hanafuda",
+      "file": "missing/M/218988-minna-no-hanafuda.json"
+    },
+    {
       "igdb_id": 67260,
       "game_name": "Minna no Konbini",
       "file": "missing/M/67260-minna-no-konbini.json"
@@ -328571,6 +328691,11 @@
       "igdb_id": 59990,
       "game_name": "Moero!! Nettou Yakyuu '88",
       "file": "missing/M/59990-moero-nettou-yakyuu-88.json"
+    },
+    {
+      "igdb_id": 218985,
+      "game_name": "Moero!! Pro Yakyuu 2016",
+      "file": "missing/M/218985-moero-pro-yakyuu-2016.json"
     },
     {
       "igdb_id": 40387,
@@ -336251,6 +336376,11 @@
       "igdb_id": 209155,
       "game_name": "Ms. Pac Person",
       "file": "missing/M/209155-ms-pac-person.json"
+    },
+    {
+      "igdb_id": 219011,
+      "game_name": "Ms. Pac-Man",
+      "file": "missing/M/219011-ms-pac-man.json"
     },
     {
       "igdb_id": 88813,
@@ -345298,6 +345428,11 @@
       "file": "missing/N/261372-nazotoki-iq-quiz.json"
     },
     {
+      "igdb_id": 218986,
+      "game_name": "Nazotoki Mail",
+      "file": "missing/N/218986-nazotoki-mail.json"
+    },
+    {
       "igdb_id": 222239,
       "game_name": "Nazotoki Mail 2",
       "file": "missing/N/222239-nazotoki-mail-2.json"
@@ -352493,6 +352628,11 @@
       "file": "missing/N/282690-nik-super-gunventure.json"
     },
     {
+      "igdb_id": 218983,
+      "game_name": "Nikakudori",
+      "file": "missing/N/218983-nikakudori.json"
+    },
+    {
       "igdb_id": 21010,
       "game_name": "Nike+ Kinect Training",
       "file": "missing/N/21010-nike-kinect-training.json"
@@ -352548,9 +352688,24 @@
       "file": "missing/N/205128-nikolais-mysteries.json"
     },
     {
+      "igdb_id": 218989,
+      "game_name": "Nikoli no Puzzle 4: Hashi wo Kakero",
+      "file": "missing/N/218989-nikoli-no-puzzle-4-hashi-wo-kakero.json"
+    },
+    {
+      "igdb_id": 218990,
+      "game_name": "Nikoli no Puzzle 4: Heyawake",
+      "file": "missing/N/218990-nikoli-no-puzzle-4-heyawake.json"
+    },
+    {
       "igdb_id": 219025,
       "game_name": "Nikoli no Puzzle 4: Shikaku ni Kire",
       "file": "missing/N/219025-nikoli-no-puzzle-4-shikaku-ni-kire.json"
+    },
+    {
+      "igdb_id": 218987,
+      "game_name": "Nikoli no Puzzle 4: Slither Link",
+      "file": "missing/N/218987-nikoli-no-puzzle-4-slither-link.json"
     },
     {
       "igdb_id": 62164,
@@ -370628,6 +370783,16 @@
       "file": "missing/P/218443-pac-man.json"
     },
     {
+      "igdb_id": 219012,
+      "game_name": "Pac-Man",
+      "file": "missing/P/219012-pac-man.json"
+    },
+    {
+      "igdb_id": 219013,
+      "game_name": "Pac-Man",
+      "file": "missing/P/219013-pac-man.json"
+    },
+    {
       "igdb_id": 241905,
       "game_name": "Pac-Man",
       "file": "missing/P/241905-pac-man.json"
@@ -381678,6 +381843,11 @@
       "file": "missing/P/136805-phoenotopia-awakening.json"
     },
     {
+      "igdb_id": 218998,
+      "game_name": "Phone",
+      "file": "missing/P/218998-phone.json"
+    },
+    {
       "igdb_id": 390787,
       "game_name": "Phone Flipper Simulator",
       "file": "missing/P/390787-phone-flipper-simulator.json"
@@ -384761,6 +384931,11 @@
       "igdb_id": 184627,
       "game_name": "Pink Marmalade",
       "file": "missing/P/184627-pink-marmalade.json"
+    },
+    {
+      "igdb_id": 219014,
+      "game_name": "Pink Panther",
+      "file": "missing/P/219014-pink-panther.json"
     },
     {
       "igdb_id": 51569,
@@ -415993,6 +416168,11 @@
       "file": "missing/R/171611-reboot.json"
     },
     {
+      "igdb_id": 219015,
+      "game_name": "ReBoot",
+      "file": "missing/R/219015-reboot.json"
+    },
+    {
       "igdb_id": 51953,
       "game_name": "ReBoot",
       "file": "missing/R/51953-reboot.json"
@@ -419891,6 +420071,11 @@
       "igdb_id": 53500,
       "game_name": "Rescue 2: Everyday Heroes",
       "file": "missing/R/53500-rescue-2-everyday-heroes.json"
+    },
+    {
+      "igdb_id": 219016,
+      "game_name": "Rescue 911",
+      "file": "missing/R/219016-rescue-911.json"
     },
     {
       "igdb_id": 230927,
@@ -426696,6 +426881,11 @@
       "igdb_id": 144145,
       "game_name": "RoboCop 2",
       "file": "missing/R/144145-robocop-2.json"
+    },
+    {
+      "igdb_id": 219017,
+      "game_name": "RoboCop 2",
+      "file": "missing/R/219017-robocop-2.json"
     },
     {
       "igdb_id": 19695,
@@ -439341,6 +439531,11 @@
       "igdb_id": 386723,
       "game_name": "Saraab",
       "file": "missing/S/386723-saraab.json"
+    },
+    {
+      "igdb_id": 218967,
+      "game_name": "Sarah and the Lonely Key",
+      "file": "missing/S/218967-sarah-and-the-lonely-key.json"
     },
     {
       "igdb_id": 118364,
@@ -487958,6 +488153,11 @@
       "file": "missing/S/176368-stellar-expansion.json"
     },
     {
+      "igdb_id": 218978,
+      "game_name": "Stellar Fight",
+      "file": "missing/S/218978-stellar-fight.json"
+    },
+    {
       "igdb_id": 353977,
       "game_name": "Stellar Freight: Echoes of the Void",
       "file": "missing/S/353977-stellar-freight-echoes-of-the-void.json"
@@ -523523,6 +523723,11 @@
       "file": "missing/T/408884-the-crew-motorfest-year-3-pass.json"
     },
     {
+      "igdb_id": 219002,
+      "game_name": "The Crew: Silver Pack",
+      "file": "missing/T/219002-the-crew-silver-pack.json"
+    },
+    {
       "igdb_id": 166227,
       "game_name": "The Crew: Wild Run Edition",
       "file": "missing/T/166227-the-crew-wild-run-edition.json"
@@ -539216,6 +539421,11 @@
       "igdb_id": 289958,
       "game_name": "The Rise",
       "file": "missing/T/289958-the-rise.json"
+    },
+    {
+      "igdb_id": 218992,
+      "game_name": "The Rise and Fall of Odysseus Kent",
+      "file": "missing/T/218992-the-rise-and-fall-of-odysseus-kent.json"
     },
     {
       "igdb_id": 301901,
@@ -557148,6 +557358,11 @@
       "file": "missing/T/171635-tom-clancys-ghost-recon-future-soldier-arctic-strike.json"
     },
     {
+      "igdb_id": 219005,
+      "game_name": "Tom Clancy's Ghost Recon: Future Soldier - Deluxe Edition",
+      "file": "missing/T/219005-tom-clancys-ghost-recon-future-soldier-deluxe-edition.json"
+    },
+    {
       "igdb_id": 127642,
       "game_name": "Tom Clancy's Ghost Recon: Future Soldier - Raven Strike",
       "file": "missing/T/127642-tom-clancys-ghost-recon-future-soldier-raven-strike.json"
@@ -557156,6 +557371,11 @@
       "igdb_id": 152333,
       "game_name": "Tom Clancy's Ghost Recon: Future Soldier / Tom Clancy's Ghost Recon: Advanced Warfighter 2",
       "file": "missing/T/152333-tom-clancys-ghost-recon-future-soldier-tom-clancys-ghost-recon-advanced-warfighter-2.json"
+    },
+    {
+      "igdb_id": 219006,
+      "game_name": "Tom Clancy's Ghost Recon: Gold Pack",
+      "file": "missing/T/219006-tom-clancys-ghost-recon-gold-pack.json"
     },
     {
       "igdb_id": 1296,
@@ -568133,6 +568353,11 @@
       "file": "missing/T/103316-trials-rising.json"
     },
     {
+      "igdb_id": 219004,
+      "game_name": "Trials: Gold Pack",
+      "file": "missing/T/219004-trials-gold-pack.json"
+    },
+    {
       "igdb_id": 397782,
       "game_name": "Trialspire",
       "file": "missing/T/397782-trialspire.json"
@@ -572856,6 +573081,11 @@
       "igdb_id": 3622,
       "game_name": "Twisted Edge Extreme Snowboarding",
       "file": "missing/T/3622-twisted-edge-extreme-snowboarding.json"
+    },
+    {
+      "igdb_id": 219009,
+      "game_name": "Twisted Insurrection",
+      "file": "missing/T/219009-twisted-insurrection.json"
     },
     {
       "igdb_id": 53864,
@@ -591398,6 +591628,11 @@
       "file": "missing/W/333590-war-never-changes.json"
     },
     {
+      "igdb_id": 218977,
+      "game_name": "War Obelisks",
+      "file": "missing/W/218977-war-obelisks.json"
+    },
+    {
       "igdb_id": 39849,
       "game_name": "War of Aero",
       "file": "missing/W/39849-war-of-aero.json"
@@ -605038,6 +605273,11 @@
       "file": "missing/W/358488-work-wrecker.json"
     },
     {
+      "igdb_id": 218984,
+      "game_name": "Work x Work",
+      "file": "missing/W/218984-work-x-work.json"
+    },
+    {
       "igdb_id": 297549,
       "game_name": "Workboy",
       "file": "missing/W/297549-workboy.json"
@@ -612418,6 +612658,11 @@
       "file": "missing/Y/37755-yoshi-no-cookie-kuruppon-oven-de-cookie.json"
     },
     {
+      "igdb_id": 219010,
+      "game_name": "Yoshi no Panepon",
+      "file": "missing/Y/219010-yoshi-no-panepon.json"
+    },
+    {
       "igdb_id": 175959,
       "game_name": "Yoshi Racing",
       "file": "missing/Y/175959-yoshi-racing.json"
@@ -618476,6 +618721,11 @@
       "igdb_id": 101335,
       "game_name": "ZombieHunterZ",
       "file": "missing/Z/101335-zombiehunterz.json"
+    },
+    {
+      "igdb_id": 218976,
+      "game_name": "Zombies",
+      "file": "missing/Z/218976-zombies.json"
     },
     {
       "igdb_id": 296987,
