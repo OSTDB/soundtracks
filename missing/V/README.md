@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V.G.: Variable Geo | 98254 | [98254-v-g-variable-geo.json](./98254-v-g-variable-geo.json) |
 | V.O.I.D.: Vexation of Infinite Dungeons | 245886 | [245886-v-o-i-d-vexation-of-infinite-dungeons.json](./245886-v-o-i-d-vexation-of-infinite-dungeons.json) |
 | V.O.S.S. Turbo | 215918 | [215918-v-o-s-s-turbo.json](./215918-v-o-s-s-turbo.json) |
+| V.R.G. | 181127 | [181127-v-r-g.json](./181127-v-r-g.json) |
 | V.T. | 103838 | [103838-v-t.json](./103838-v-t.json) |
 | V2000 | 44869 | [44869-v2000.json](./44869-v2000.json) |
 | V3: Kommando | 219524 | [219524-v3-kommando.json](./219524-v3-kommando.json) |
@@ -692,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertigrowl | 338571 | [338571-vertigrowl.json](./338571-vertigrowl.json) |
 | Verto | 406318 | [406318-verto.json](./406318-verto.json) |
 | Very Bad Dreams | 269860 | [269860-very-bad-dreams.json](./269860-very-bad-dreams.json) |
+| Very Dungeon | 181150 | [181150-very-dungeon.json](./181150-very-dungeon.json) |
 | Very Hard Game | 278499 | [278499-very-hard-game.json](./278499-very-hard-game.json) |
 | Very Human Doctor | 416822 | [416822-very-human-doctor.json](./416822-very-human-doctor.json) |
 | Very Iconic Pixels - 80s Quiz | 233738 | [233738-very-iconic-pixels-80s-quiz.json](./233738-very-iconic-pixels-80s-quiz.json) |
