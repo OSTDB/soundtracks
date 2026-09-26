@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Quête du Dentiste | 301396 | [301396-la-quete-du-dentiste.json](./301396-la-quete-du-dentiste.json) |
 | La Quimera | 333606 | [333606-la-quimera.json](./333606-la-quimera.json) |
 | La Ruota Della Sfortuna: Prima parte | 318571 | [318571-la-ruota-della-sfortuna-prima-parte.json](./318571-la-ruota-della-sfortuna-prima-parte.json) |
+| La Sombra | 220593 | [220593-la-sombra.json](./220593-la-sombra.json) |
 | La Statuette maudite de l'oncle Ernest | 282689 | [282689-la-statuette-maudite-de-loncle-ernest.json](./282689-la-statuette-maudite-de-loncle-ernest.json) |
 | La storia della Arcana Famiglia: Rinato | 339376 | [339376-la-storia-della-arcana-famiglia-rinato.json](./339376-la-storia-della-arcana-famiglia-rinato.json) |
 | LA Street Racing | 27553 | [27553-la-street-racing.json](./27553-la-street-racing.json) |
@@ -155,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lacrosse Arcade | 61040 | [61040-lacrosse-arcade.json](./61040-lacrosse-arcade.json) |
 | Lacrosse Dodge | 61038 | [61038-lacrosse-dodge.json](./61038-lacrosse-dodge.json) |
 | Lacrosse Shot | 61041 | [61041-lacrosse-shot.json](./61041-lacrosse-shot.json) |
+| Lacuna Draft | 220592 | [220592-lacuna-draft.json](./220592-lacuna-draft.json) |
 | Lacuna: Save the World Edition | 159699 | [159699-lacuna-save-the-world-edition.json](./159699-lacuna-save-the-world-edition.json) |
 | Lacus Opportunitas | 347149 | [347149-lacus-opportunitas.json](./347149-lacus-opportunitas.json) |
 | Ladder Climbing | 301818 | [301818-ladder-climbing.json](./301818-ladder-climbing.json) |
@@ -328,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lands of Lore: The Throne of Chaos | 2528 | [2528-lands-of-lore-the-throne-of-chaos.json](./2528-lands-of-lore-the-throne-of-chaos.json) |
 | Lands of Peace: Legends - Chapter 1 | 168864 | [168864-lands-of-peace-legends-chapter-1.json](./168864-lands-of-peace-legends-chapter-1.json) |
 | Lands of Rage | 211821 | [211821-lands-of-rage.json](./211821-lands-of-rage.json) |
+| Lands of Xon | 220594 | [220594-lands-of-xon.json](./220594-lands-of-xon.json) |
 | Lands of Yocta | 181212 | [181212-lands-of-yocta.json](./181212-lands-of-yocta.json) |
 | LandScape | 396571 | [396571-landscape.json](./396571-landscape.json) |
 | Landscaper Simulator | 406691 | [406691-landscaper-simulator.json](./406691-landscaper-simulator.json) |
@@ -470,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Caveman | 278972 | [278972-last-caveman.json](./278972-last-caveman.json) |
 | Last Chance for Turnabout | 309994 | [309994-last-chance-for-turnabout.json](./309994-last-chance-for-turnabout.json) |
 | Last Chance in Xollywood: Special Edition | 265609 | [265609-last-chance-in-xollywood-special-edition.json](./265609-last-chance-in-xollywood-special-edition.json) |
+| Last Chance Market | 220602 | [220602-last-chance-market.json](./220602-last-chance-market.json) |
 | Last Chance to Green | 179655 | [179655-last-chance-to-green.json](./179655-last-chance-to-green.json) |
 | Last Chance VR | 123552 | [123552-last-chance-vr.json](./123552-last-chance-vr.json) |
 | Last Chaos | 90316 | [90316-last-chaos.json](./90316-last-chaos.json) |
@@ -589,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Soldier | 52270 | [52270-last-soldier.json](./52270-last-soldier.json) |
 | Last Spirit PBT | 326250 | [326250-last-spirit-pbt.json](./326250-last-spirit-pbt.json) |
 | Last Stance: A JuVentures Game | 244716 | [244716-last-stance-a-juventures-game.json](./244716-last-stance-a-juventures-game.json) |
+| Last Stand | 220603 | [220603-last-stand.json](./220603-last-stand.json) |
 | Last Stand Delivery | 274456 | [274456-last-stand-delivery.json](./274456-last-stand-delivery.json) |
 | Last Stand: Reborn | 113490 | [113490-last-stand-reborn.json](./113490-last-stand-reborn.json) |
 | Last Stanza | 105279 | [105279-last-stanza.json](./105279-last-stanza.json) |
@@ -1111,6 +1116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends Esport Manager | 348765 | [348765-legends-esport-manager.json](./348765-legends-esport-manager.json) |
 | Legends of Aden | 298674 | [298674-legends-of-aden.json](./298674-legends-of-aden.json) |
 | Legends of Aethereus | 10509 | [10509-legends-of-aethereus.json](./10509-legends-of-aethereus.json) |
+| Legends of Amberland II: The Song of Trees | 220604 | [220604-legends-of-amberland-ii-the-song-of-trees.json](./220604-legends-of-amberland-ii-the-song-of-trees.json) |
 | Legends of Amberland III: The Crimson Tower | 355038 | [355038-legends-of-amberland-iii-the-crimson-tower.json](./355038-legends-of-amberland-iii-the-crimson-tower.json) |
 | Legends of Aria Eternal | 361910 | [361910-legends-of-aria-eternal.json](./361910-legends-of-aria-eternal.json) |
 | Legends of Atlantis: Exodus Premium | 174337 | [174337-legends-of-atlantis-exodus-premium.json](./174337-legends-of-atlantis-exodus-premium.json) |
@@ -1429,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let Me In | 379885 | [379885-let-me-in.json](./379885-let-me-in.json) |
 | Let Me Inside | 376486 | [376486-let-me-inside.json](./376486-let-me-inside.json) |
 | Let Me Out | 156017 | [156017-let-me-out.json](./156017-let-me-out.json) |
+| Let Me Out | 220605 | [220605-let-me-out.json](./220605-let-me-out.json) |
 | Let Sleeping Dogs Lie | 343920 | [343920-let-sleeping-dogs-lie.json](./343920-let-sleeping-dogs-lie.json) |
 | Let Them Breathe: Selena's Awakening | 312151 | [312151-let-them-breathe-selenas-awakening.json](./312151-let-them-breathe-selenas-awakening.json) |
 | Let Them Come: Onslaught | 257928 | [257928-let-them-come-onslaught.json](./257928-let-them-come-onslaught.json) |
@@ -1505,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Ride!: Sunshine Stables | 49395 | [49395-lets-ride-sunshine-stables.json](./49395-lets-ride-sunshine-stables.json) |
 | Let's Roll | 293141 | [293141-lets-roll.json](./293141-lets-roll.json) |
 | Let's School: Magical Castles Furniture Pack | 322719 | [322719-lets-school-magical-castles-furniture-pack.json](./322719-lets-school-magical-castles-furniture-pack.json) |
+| Let's Seduce the Heroine! | 220606 | [220606-lets-seduce-the-heroine.json](./220606-lets-seduce-the-heroine.json) |
 | Let's See What You Got | 124768 | [124768-lets-see-what-you-got.json](./124768-lets-see-what-you-got.json) |
 | Let's Sing | 10511 | [10511-lets-sing.json](./10511-lets-sing.json) |
 | Let's Sing | 268191 | [268191-lets-sing.json](./268191-lets-sing.json) |
@@ -1839,6 +1847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifting Journey | 115431 | [115431-lifting-journey.json](./115431-lifting-journey.json) |
 | Lifting Unlimited | 302109 | [302109-lifting-unlimited.json](./302109-lifting-unlimited.json) |
 | Liftoff: Drone Racing - Deluxe Edition | 139829 | [139829-liftoff-drone-racing-deluxe-edition.json](./139829-liftoff-drone-racing-deluxe-edition.json) |
+| Light | 220607 | [220607-light.json](./220607-light.json) |
 | Light 'em Up | 204495 | [204495-light-em-up.json](./204495-light-em-up.json) |
 | Light & Glory | 414412 | [414412-light-and-glory.json](./414412-light-and-glory.json) |
 | Light & Shadow | 226425 | [226425-light-and-shadow.json](./226425-light-and-shadow.json) |
@@ -3541,6 +3550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loveland | 144917 | [144917-loveland.json](./144917-loveland.json) |
 | Lovelink | 204709 | [204709-lovelink.json](./204709-lovelink.json) |
 | LoveLive! Superstar!! Memory Collect | 386836 | [386836-lovelive-superstar-memory-collect.json](./386836-lovelive-superstar-memory-collect.json) |
+| Lovelorn Sanatorium I | 220608 | [220608-lovelorn-sanatorium-i.json](./220608-lovelorn-sanatorium-i.json) |
 | Lovelorn Sanatorium Ⅲ | 239654 | [239654-lovelorn-sanatorium-iii.json](./239654-lovelorn-sanatorium-iii.json) |
 | Lovelove Boin: High-handed Girl's Boobs | 97374 | [97374-lovelove-boin-high-handed-girls-boobs.json](./97374-lovelove-boin-high-handed-girls-boobs.json) |
 | Lovely Anime Puzzle: Spring | 398328 | [398328-lovely-anime-puzzle-spring.json](./398328-lovely-anime-puzzle-spring.json) |
