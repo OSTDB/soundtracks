@@ -2481,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Omniverse 2 | 5310 | [5310-ben-10-omniverse-2.json](./5310-ben-10-omniverse-2.json) |
 | Ben 10: Power Trip | 136659 | [136659-ben-10-power-trip.json](./136659-ben-10-power-trip.json) |
 | Ben 10: Protector of Earth | 210263 | [210263-ben-10-protector-of-earth.json](./210263-ben-10-protector-of-earth.json) |
+| Ben 10: Samurai Warrior | 220589 | [220589-ben-10-samurai-warrior.json](./220589-ben-10-samurai-warrior.json) |
 | Ben 10: Savage Pursuit | 142388 | [142388-ben-10-savage-pursuit.json](./142388-ben-10-savage-pursuit.json) |
 | Ben 10: Ultimate Alien - Cosmic Destruction | 377688 | [377688-ben-10-ultimate-alien-cosmic-destruction.json](./377688-ben-10-ultimate-alien-cosmic-destruction.json) |
 | Ben 10: Up to Speed | 88937 | [88937-ben-10-up-to-speed.json](./88937-ben-10-up-to-speed.json) |
