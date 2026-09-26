@@ -12130,6 +12130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SunderBound | 374708 | [374708-sunderbound.json](./374708-sunderbound.json) |
 | Sundered Soul: Chains of the Undying | 393122 | [393122-sundered-soul-chains-of-the-undying.json](./393122-sundered-soul-chains-of-the-undying.json) |
 | Sunderfolk | 319359 | [319359-sunderfolk.json](./319359-sunderfolk.json) |
+| Sundermead | 209426 | [209426-sundermead.json](./209426-sundermead.json) |
 | Sundog: Frozen Legacy | 15380 | [15380-sundog-frozen-legacy.json](./15380-sundog-frozen-legacy.json) |
 | Sundown | 299443 | [299443-sundown.json](./299443-sundown.json) |
 | Sundown | 86071 | [86071-sundown.json](./86071-sundown.json) |
@@ -12430,6 +12431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dig Man Deluxe | 339478 | [339478-super-dig-man-deluxe.json](./339478-super-dig-man-deluxe.json) |
 | Super Dino | 220880 | [220880-super-dino.json](./220880-super-dino.json) |
 | Super Disc Soccer | 147462 | [147462-super-disc-soccer.json](./147462-super-disc-soccer.json) |
+| Super Discus | 209446 | [209446-super-discus.json](./209446-super-discus.json) |
 | Super DJ | 233241 | [233241-super-dj.json](./233241-super-dj.json) |
 | Super Dodge Ball | 40426 | [40426-super-dodge-ball.json](./40426-super-dodge-ball.json) |
 | Super Dodge Ball | 46768 | [46768-super-dodge-ball.json](./46768-super-dodge-ball.json) |
