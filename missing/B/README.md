@@ -5737,6 +5737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brathian | 104061 | [104061-brathian.json](./104061-brathian.json) |
 | Bratwurst | 77642 | [77642-bratwurst.json](./77642-bratwurst.json) |
 | Bratz | 225653 | [225653-bratz.json](./225653-bratz.json) |
+| Bratz 4 Real | 213888 | [213888-bratz-4-real.json](./213888-bratz-4-real.json) |
 | Bratz Fashion Pixiez: The Secret Necklace | 213374 | [213374-bratz-fashion-pixiez-the-secret-necklace.json](./213374-bratz-fashion-pixiez-the-secret-necklace.json) |
 | Bratz Ponyz 2 | 94733 | [94733-bratz-ponyz-2.json](./94733-bratz-ponyz-2.json) |
 | Bratz: Flaunt Your Fashion - Pretty 'N' Punk Fashion Pack | 301569 | [301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json](./301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json) |
