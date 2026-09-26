@@ -4297,6 +4297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Co-op Kaiju Horror Cooking | 355090 | [355090-co-op-kaiju-horror-cooking.json](./355090-co-op-kaiju-horror-cooking.json) |
 | Co-op SNEK Online | 81722 | [81722-co-op-snek-online.json](./81722-co-op-snek-online.json) |
 | Co-Open | 146704 | [146704-co-open.json](./146704-co-open.json) |
+| Co-Pilot | 183378 | [183378-co-pilot.json](./183378-co-pilot.json) |
 | Co\|incidence | 303045 | [303045-co-incidence.json](./303045-co-incidence.json) |
 | Coach Bus Driving Simulator | 308809 | [308809-coach-bus-driving-simulator.json](./308809-coach-bus-driving-simulator.json) |
 | Coach Fight | 304104 | [304104-coach-fight.json](./304104-coach-fight.json) |
