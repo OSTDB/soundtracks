@@ -714,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Shrine | 230916 | [230916-dark-shrine.json](./230916-dark-shrine.json) |
 | Dark Side of Fate | 155083 | [155083-dark-side-of-fate.json](./155083-dark-side-of-fate.json) |
 | Dark Side of War | 150599 | [150599-dark-side-of-war.json](./150599-dark-side-of-war.json) |
+| Dark Siege: The First Knight | 192677 | [192677-dark-siege-the-first-knight.json](./192677-dark-siege-the-first-knight.json) |
 | Dark Skies 2: Keepers of Nemansk | 296689 | [296689-dark-skies-2-keepers-of-nemansk.json](./296689-dark-skies-2-keepers-of-nemansk.json) |
 | Dark Sky | 290393 | [290393-dark-sky.json](./290393-dark-sky.json) |
 | Dark Slayer | 297015 | [297015-dark-slayer.json](./297015-dark-slayer.json) |
@@ -1326,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Effect 2 VR | 38968 | [38968-dead-effect-2-vr.json](./38968-dead-effect-2-vr.json) |
 | Dead End | 285003 | [285003-dead-end.json](./285003-dead-end.json) |
 | Dead End Aegis | 186893 | [186893-dead-end-aegis.json](./186893-dead-end-aegis.json) |
+| Dead End Aegis: Gaiden | 192688 | [192688-dead-end-aegis-gaiden.json](./192688-dead-end-aegis-gaiden.json) |
 | Dead End Alley | 100764 | [100764-dead-end-alley.json](./100764-dead-end-alley.json) |
 | Dead End Job | 27803 | [27803-dead-end-job.json](./27803-dead-end-job.json) |
 | Dead End Junction #2 Deadman's Bullet | 95411 | [95411-dead-end-junction-2-deadmans-bullet.json](./95411-dead-end-junction-2-deadmans-bullet.json) |
@@ -2456,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Kill Demon: Yomi 1984 | 394158 | [394158-demon-kill-demon-yomi-1984.json](./394158-demon-kill-demon-yomi-1984.json) |
 | Demon Killer | 349847 | [349847-demon-killer.json](./349847-demon-killer.json) |
 | Demon Killer VR | 156543 | [156543-demon-killer-vr.json](./156543-demon-killer-vr.json) |
+| Demon King | 192687 | [192687-demon-king.json](./192687-demon-king.json) |
 | Demon Kingdom | 303470 | [303470-demon-kingdom.json](./303470-demon-kingdom.json) |
 | Demon Knight | 38922 | [38922-demon-knight.json](./38922-demon-knight.json) |
 | Demon Lily and the Noir Maid | 397055 | [397055-demon-lily-and-the-noir-maid.json](./397055-demon-lily-and-the-noir-maid.json) |
@@ -6148,6 +6151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadfold | 397901 | [397901-dreadfold.json](./397901-dreadfold.json) |
 | Dreadful Aurora | 297047 | [297047-dreadful-aurora.json](./297047-dreadful-aurora.json) |
 | Dreadful Bond | 116970 | [116970-dreadful-bond.json](./116970-dreadful-bond.json) |
+| Dreadful Wake | 192669 | [192669-dreadful-wake.json](./192669-dreadful-wake.json) |
 | Dreadhalls | 21561 | [21561-dreadhalls.json](./21561-dreadhalls.json) |
 | DreadHaunt | 205005 | [205005-dreadhaunt.json](./205005-dreadhaunt.json) |
 | DreadHaven: The Last Colony | 336597 | [336597-dreadhaven-the-last-colony.json](./336597-dreadhaven-the-last-colony.json) |
@@ -7012,6 +7016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon & Evil | 174847 | [174847-dungeon-and-evil.json](./174847-dungeon-and-evil.json) |
 | Dungeon & Fighter: Arad | 325603 | [325603-dungeon-and-fighter-arad.json](./325603-dungeon-and-fighter-arad.json) |
 | Dungeon & Guarder | 92312 | [92312-dungeon-and-guarder.json](./92312-dungeon-and-guarder.json) |
+| Dungeon 100 | 192663 | [192663-dungeon-100.json](./192663-dungeon-100.json) |
 | Dungeon 3D: Eastern | 277583 | [277583-dungeon-3d-eastern.json](./277583-dungeon-3d-eastern.json) |
 | Dungeon Adventure | 344358 | [344358-dungeon-adventure.json](./344358-dungeon-adventure.json) |
 | Dungeon Adventure Gang | 272371 | [272371-dungeon-adventure-gang.json](./272371-dungeon-adventure-gang.json) |
