@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZJ the Ball Challenge: Level 2C | 214511 | [214511-zj-the-ball-challenge-level-2c.json](./214511-zj-the-ball-challenge-level-2c.json) |
 | ZJ the Ball Challenge: Level 3C | 214502 | [214502-zj-the-ball-challenge-level-3c.json](./214502-zj-the-ball-challenge-level-3c.json) |
 | ZJ the Ball Challenge: Level 4C | 214501 | [214501-zj-the-ball-challenge-level-4c.json](./214501-zj-the-ball-challenge-level-4c.json) |
+| ZJ the Ball Challenge: Level 5C | 187214 | [187214-zj-the-ball-challenge-level-5c.json](./187214-zj-the-ball-challenge-level-5c.json) |
 | ZJ the Ball: Level 2 | 214569 | [214569-zj-the-ball-level-2.json](./214569-zj-the-ball-level-2.json) |
 | ZJ the Ball: Level 3 | 214570 | [214570-zj-the-ball-level-3.json](./214570-zj-the-ball-level-3.json) |
 | ZJ the Ball: Level 4 | 214571 | [214571-zj-the-ball-level-4.json](./214571-zj-the-ball-level-4.json) |
@@ -875,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo-phonics 8. Make It Say with Inny Inchworm | 101483 | [101483-zoo-phonics-8-make-it-say-with-inny-inchworm.json](./101483-zoo-phonics-8-make-it-say-with-inny-inchworm.json) |
 | Zoo-phonics 9: The Zoo Billboard Mix-up | 101484 | [101484-zoo-phonics-9-the-zoo-billboard-mix-up.json](./101484-zoo-phonics-9-the-zoo-billboard-mix-up.json) |
 | Zoo-pocalypse | 396899 | [396899-zoo-pocalypse.json](./396899-zoo-pocalypse.json) |
+| Zoo's Mad | 187229 | [187229-zoos-mad.json](./187229-zoos-mad.json) |
 | ZooHop | 247997 | [247997-zoohop.json](./247997-zoohop.json) |
 | Zookaa Fruits | 395583 | [395583-zookaa-fruits.json](./395583-zookaa-fruits.json) |
 | Zookeeper DX Touch Edition | 104109 | [104109-zookeeper-dx-touch-edition.json](./104109-zookeeper-dx-touch-edition.json) |
