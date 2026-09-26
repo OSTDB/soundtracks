@@ -2093,6 +2093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ren & Stimpy Happy, Happy, Joy, Joy Collection | 387373 | [387373-ren-and-stimpy-happy-happy-joy-joy-collection.json](./387373-ren-and-stimpy-happy-happy-joy-joy-collection.json) |
 | Ren & Stimpy: Match-Master | 273881 | [273881-ren-and-stimpy-match-master.json](./273881-ren-and-stimpy-match-master.json) |
 | Ren Ti Tu Pu | 130972 | [130972-ren-ti-tu-pu.json](./130972-ren-ti-tu-pu.json) |
+| Ren's Demons I | 202681 | [202681-rens-demons-i.json](./202681-rens-demons-i.json) |
 | Renai 0 Kilometer | 61552 | [61552-renai-0-kilometer.json](./61552-renai-0-kilometer.json) |
 | Renai 0 Kilometer V | 216243 | [216243-renai-0-kilometer-v.json](./216243-renai-0-kilometer-v.json) |
 | Renai Karichaimashita: Koikari - Love For Hire - After Hours | 376587 | [376587-renai-karichaimashita-koikari-love-for-hire-after-hours.json](./376587-renai-karichaimashita-koikari-love-for-hire-after-hours.json) |
@@ -3833,6 +3834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Season 23 | 407432 | [407432-rocket-league-season-23.json](./407432-rocket-league-season-23.json) |
 | Rocket League: Season 7 | 204462 | [204462-rocket-league-season-7.json](./204462-rocket-league-season-7.json) |
 | Rocket League: Season 8 | 216200 | [216200-rocket-league-season-8.json](./216200-rocket-league-season-8.json) |
+| Rocket League: Supersonic Fury | 202683 | [202683-rocket-league-supersonic-fury.json](./202683-rocket-league-supersonic-fury.json) |
 | Rocket League: TriTrim Wheels | 366848 | [366848-rocket-league-tritrim-wheels.json](./366848-rocket-league-tritrim-wheels.json) |
 | Rocket Lift | 255178 | [255178-rocket-lift.json](./255178-rocket-lift.json) |
 | Rocket Mania | 195213 | [195213-rocket-mania.json](./195213-rocket-mania.json) |
