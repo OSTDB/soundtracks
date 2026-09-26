@@ -684,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Siege: Army Tycoon Game | 246982 | [246982-idle-siege-army-tycoon-game.json](./246982-idle-siege-army-tycoon-game.json) |
 | Idle Skilling | 144767 | [144767-idle-skilling.json](./144767-idle-skilling.json) |
 | Idle Slayer | 139040 | [139040-idle-slayer.json](./139040-idle-slayer.json) |
+| Idle Spa Tycoon 3D | 208923 | [208923-idle-spa-tycoon-3d.json](./208923-idle-spa-tycoon-3d.json) |
 | Idle Space Force | 246425 | [246425-idle-space-force.json](./246425-idle-space-force.json) |
 | Idle Sphere | 323157 | [323157-idle-sphere.json](./323157-idle-sphere.json) |
 | Idle Spiral | 211230 | [211230-idle-spiral.json](./211230-idle-spiral.json) |
@@ -1091,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossiball | 26641 | [26641-impossiball.json](./26641-impossiball.json) |
 | Impossible Caves | 105927 | [105927-impossible-caves.json](./105927-impossible-caves.json) |
 | Impossible Commando Shooting FPS Fury | 101983 | [101983-impossible-commando-shooting-fps-fury.json](./101983-impossible-commando-shooting-fps-fury.json) |
+| Impossible Date: Tricky Riddle | 208924 | [208924-impossible-date-tricky-riddle.json](./208924-impossible-date-tricky-riddle.json) |
 | Impossible Draw | 128565 | [128565-impossible-draw.json](./128565-impossible-draw.json) |
 | Impossible Dungeon | 220186 | [220186-impossible-dungeon.json](./220186-impossible-dungeon.json) |
 | Impossible Fighter Frog | 86554 | [86554-impossible-fighter-frog.json](./86554-impossible-fighter-frog.json) |
