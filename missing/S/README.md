@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanyo Pachinko Paradise 3 | 55927 | [55927-sanyo-pachinko-paradise-3.json](./55927-sanyo-pachinko-paradise-3.json) |
 | Sanzen Sekai Yuugi: Re Multi Universe Myself | 103175 | [103175-sanzen-sekai-yuugi-re-multi-universe-myself.json](./103175-sanzen-sekai-yuugi-re-multi-universe-myself.json) |
 | Sanzensekai no Ko wo Koroshi | 399061 | [399061-sanzensekai-no-ko-wo-koroshi.json](./399061-sanzensekai-no-ko-wo-koroshi.json) |
+| Saomi | 199379 | [199379-saomi.json](./199379-saomi.json) |
 | Sapan | 104477 | [104477-sapan.json](./104477-sapan.json) |
 | Saphyro | 164978 | [164978-saphyro.json](./164978-saphyro.json) |
 | Sapiens | 55032 | [55032-sapiens.json](./55032-sapiens.json) |
@@ -1225,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scholastic Animal Genius | 91744 | [91744-scholastic-animal-genius.json](./91744-scholastic-animal-genius.json) |
 | Scholastic Brain Play: Preschool - 1st Grade | 167276 | [167276-scholastic-brain-play-preschool-1st-grade.json](./167276-scholastic-brain-play-preschool-1st-grade.json) |
 | School Booster | 263052 | [263052-school-booster.json](./263052-school-booster.json) |
+| School Bus Driver Simulator | 199355 | [199355-school-bus-driver-simulator.json](./199355-school-bus-driver-simulator.json) |
 | School Bus Driving Simulator | 259031 | [259031-school-bus-driving-simulator.json](./259031-school-bus-driving-simulator.json) |
 | School Bus Simulator: Blocky World | 104633 | [104633-school-bus-simulator-blocky-world.json](./104633-school-bus-simulator-blocky-world.json) |
 | School Crisis | 391605 | [391605-school-crisis.json](./391605-school-crisis.json) |
@@ -4880,6 +4882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeljump | 257377 | [257377-skeljump.json](./257377-skeljump.json) |
 | Skellboy | 113101 | [113101-skellboy.json](./113101-skellboy.json) |
 | Skelli Tower Defense | 101390 | [101390-skelli-tower-defense.json](./101390-skelli-tower-defense.json) |
+| Skellies Ain't Scary | 199390 | [199390-skellies-aint-scary.json](./199390-skellies-aint-scary.json) |
 | Skellington | 224758 | [224758-skellington.json](./224758-skellington.json) |
 | Skelly Screamer | 351276 | [351276-skelly-screamer.json](./351276-skelly-screamer.json) |
 | Skelter+Heaven | 229003 | [229003-skelter-heaven.json](./229003-skelter-heaven.json) |
@@ -5189,6 +5192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyRider ADV | 90696 | [90696-skyrider-adv.json](./90696-skyrider-adv.json) |
 | Skyscraper | 267990 | [267990-skyscraper.json](./267990-skyscraper.json) |
 | Skyscraper | 9422 | [9422-skyscraper.json](./9422-skyscraper.json) |
+| Skyscraper Jump | 199392 | [199392-skyscraper-jump.json](./199392-skyscraper-jump.json) |
 | Skyscraper Simulator | 9421 | [9421-skyscraper-simulator.json](./9421-skyscraper-simulator.json) |
 | SkyShard | 362918 | [362918-skyshard.json](./362918-skyshard.json) |
 | Skyshine's Bedlam | 12637 | [12637-skyshines-bedlam.json](./12637-skyshines-bedlam.json) |
@@ -5423,6 +5427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SlideNGlide | 336015 | [336015-slidenglide.json](./336015-slidenglide.json) |
 | SlideNSlip | 166774 | [166774-slidenslip.json](./166774-slidenslip.json) |
 | Slider | 103172 | [103172-slider.json](./103172-slider.json) |
+| Slider | 199357 | [199357-slider.json](./199357-slider.json) |
 | Slider Scouts | 340387 | [340387-slider-scouts.json](./340387-slider-scouts.json) |
 | Slidercrash | 251656 | [251656-slidercrash.json](./251656-slidercrash.json) |
 | SlideRow | 120355 | [120355-sliderow.json](./120355-sliderow.json) |
@@ -12341,6 +12346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Arcade Pinball | 217980 | [217980-super-arcade-pinball.json](./217980-super-arcade-pinball.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - Isle of the Cat Girls | 225902 | [225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json](./225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json) |
 | Super Artificial Intelligence Psike | 216871 | [216871-super-artificial-intelligence-psike.json](./216871-super-artificial-intelligence-psike.json) |
+| Super Asqr | 199370 | [199370-super-asqr.json](./199370-super-asqr.json) |
 | Super Assfuck RPG | 282096 | [282096-super-assfuck-rpg.json](./282096-super-assfuck-rpg.json) |
 | Super Astro Fighter | 60200 | [60200-super-astro-fighter.json](./60200-super-astro-fighter.json) |
 | Super Astro Space Blast | 387542 | [387542-super-astro-space-blast.json](./387542-super-astro-space-blast.json) |
@@ -13545,6 +13551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Trucks Racing | 43352 | [43352-super-trucks-racing.json](./43352-super-trucks-racing.json) |
 | Super Trump Collection | 42221 | [42221-super-trump-collection.json](./42221-super-trump-collection.json) |
 | Super Trump Collection 2 | 42220 | [42220-super-trump-collection-2.json](./42220-super-trump-collection-2.json) |
+| Super Trunko Go | 199368 | [199368-super-trunko-go.json](./199368-super-trunko-go.json) |
 | Super Trux | 74431 | [74431-super-trux.json](./74431-super-trux.json) |
 | Super TSA | 367015 | [367015-super-tsa.json](./367015-super-tsa.json) |
 | Super Tsume Shogi 1000 | 42219 | [42219-super-tsume-shogi-1000.json](./42219-super-tsume-shogi-1000.json) |
