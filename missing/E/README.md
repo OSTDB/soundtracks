@@ -1590,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engraving | 269025 | [269025-engraving.json](./269025-engraving.json) |
 | Enhanced Militarized Zone | 362474 | [362474-enhanced-militarized-zone.json](./362474-enhanced-militarized-zone.json) |
 | Enherjar Synergy | 159880 | [159880-enherjar-synergy.json](./159880-enherjar-synergy.json) |
+| Enherjar Synergy: Aplankhan & Sioykos | 192156 | [192156-enherjar-synergy-aplankhan-and-sioykos.json](./192156-enherjar-synergy-aplankhan-and-sioykos.json) |
 | Enigma | 241344 | [241344-enigma.json](./241344-enigma.json) |
 | Enigma Da Parda | 335881 | [335881-enigma-da-parda.json](./335881-enigma-da-parda.json) |
 | Enigma do Labirinto | 232455 | [232455-enigma-do-labirinto.json](./232455-enigma-do-labirinto.json) |
@@ -2188,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the past Collection | 177053 | [177053-escape-the-past-collection.json](./177053-escape-the-past-collection.json) |
 | Escape the Prison: 3 Days to Freedom | 248657 | [248657-escape-the-prison-3-days-to-freedom.json](./248657-escape-the-prison-3-days-to-freedom.json) |
 | Escape the Quack | 332986 | [332986-escape-the-quack.json](./332986-escape-the-quack.json) |
+| Escape the room | 192157 | [192157-escape-the-room.json](./192157-escape-the-room.json) |
 | Escape the Room | 108954 | [108954-escape-the-room.json](./108954-escape-the-room.json) |
 | Escape the Room Inscryption Door | 221715 | [221715-escape-the-room-inscryption-door.json](./221715-escape-the-room-inscryption-door.json) |
 | Escape the School | 355217 | [355217-escape-the-school.json](./355217-escape-the-school.json) |
