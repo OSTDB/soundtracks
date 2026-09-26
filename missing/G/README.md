@@ -697,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garbage Collector | 376437 | [376437-garbage-collector.json](./376437-garbage-collector.json) |
 | Garbage Driver Truck Simulator 2025 | 319789 | [319789-garbage-driver-truck-simulator-2025.json](./319789-garbage-driver-truck-simulator-2025.json) |
 | Garbage Packer | 404406 | [404406-garbage-packer.json](./404406-garbage-packer.json) |
+| Garbage Pail Kids: Mad Mike and the Quest for Stale Gum | 221146 | [221146-garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum.json](./221146-garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum.json) |
 | Garbage Scow Captain | 317813 | [317813-garbage-scow-captain.json](./317813-garbage-scow-captain.json) |
 | Garbage Truck Driving Simulator | 256561 | [256561-garbage-truck-driving-simulator.json](./256561-garbage-truck-driving-simulator.json) |
 | Garbage Truck: Brushy Pick Up | 87273 | [87273-garbage-truck-brushy-pick-up.json](./87273-garbage-truck-brushy-pick-up.json) |
@@ -4424,6 +4425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guru-guru Town Hanamaru-kun | 281538 | [281538-guru-guru-town-hanamaru-kun.json](./281538-guru-guru-town-hanamaru-kun.json) |
 | Gurugedara | 61620 | [61620-gurugedara.json](./61620-gurugedara.json) |
 | Gururin World | 286633 | [286633-gururin-world.json](./286633-gururin-world.json) |
+| Gust | 221130 | [221130-gust.json](./221130-gust.json) |
 | Gutasaga | 257439 | [257439-gutasaga.json](./257439-gutasaga.json) |
 | Gute Zeiten Schlechte Zeiten Quiz | 281539 | [281539-gute-zeiten-schlechte-zeiten-quiz.json](./281539-gute-zeiten-schlechte-zeiten-quiz.json) |
 | Gütertrennung | 86017 | [86017-gutertrennung.json](./86017-gutertrennung.json) |
