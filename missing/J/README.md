@@ -1235,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Race | 324998 | [324998-jump-race.json](./324998-jump-race.json) |
 | Jump Shot | 46858 | [46858-jump-shot.json](./46858-jump-shot.json) |
 | Jump Sky-High Collection | 334097 | [334097-jump-sky-high-collection.json](./334097-jump-sky-high-collection.json) |
+| Jump Squad | 218412 | [218412-jump-squad.json](./218412-jump-squad.json) |
 | Jump Start Crazy Karts | 50638 | [50638-jump-start-crazy-karts.json](./50638-jump-start-crazy-karts.json) |
 | Jump the Crank | 365143 | [365143-jump-the-crank.json](./365143-jump-the-crank.json) |
 | Jump to Die!! | 29758 | [29758-jump-to-die.json](./29758-jump-to-die.json) |
