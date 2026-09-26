@@ -2741,6 +2741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Dream's​ | 387340 | [387340-five-nights-at-dreams.json](./387340-five-nights-at-dreams.json) |
 | Five Nights At Dungeon | 240161 | [240161-five-nights-at-dungeon.json](./240161-five-nights-at-dungeon.json) |
 | Five Nights at Ethans | 194614 | [194614-five-nights-at-ethans.json](./194614-five-nights-at-ethans.json) |
+| Five Nights at Floppa 0 | 207759 | [207759-five-nights-at-floppa-0.json](./207759-five-nights-at-floppa-0.json) |
 | Five Nights at Flow's | 377841 | [377841-five-nights-at-flows.json](./377841-five-nights-at-flows.json) |
 | Five Nights at Flow's 1 Remaster | 377843 | [377843-five-nights-at-flows-1-remaster.json](./377843-five-nights-at-flows-1-remaster.json) |
 | Five Nights at Flow's 2 | 377842 | [377842-five-nights-at-flows-2.json](./377842-five-nights-at-flows-2.json) |
@@ -5418,6 +5419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Company | 347345 | [347345-furry-company.json](./347345-furry-company.json) |
 | Furry Cyberfucker | 196171 | [196171-furry-cyberfucker.json](./196171-furry-cyberfucker.json) |
 | Furry Cybersex | 204431 | [204431-furry-cybersex.json](./204431-furry-cybersex.json) |
+| Furry Fantasy | 207794 | [207794-furry-fantasy.json](./207794-furry-fantasy.json) |
 | Furry Farm | 329099 | [329099-furry-farm.json](./329099-furry-farm.json) |
 | Furry Feet Girls | 301999 | [301999-furry-feet-girls.json](./301999-furry-feet-girls.json) |
 | Furry Fetishists | 286501 | [286501-furry-fetishists.json](./286501-furry-fetishists.json) |
