@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare Goemon: Mononoke Douchuu Tobidase Nabe-Bugyou! | 129173 | [129173-ganbare-goemon-mononoke-douchuu-tobidase-nabe-bugyou.json](./129173-ganbare-goemon-mononoke-douchuu-tobidase-nabe-bugyou.json) |
 | Ganbare Goemon: Tengu-tou no Gyakushuu! | 129172 | [129172-ganbare-goemon-tengu-tou-no-gyakushuu.json](./129172-ganbare-goemon-tengu-tou-no-gyakushuu.json) |
 | Ganbare Goemon: Toukai Douchuu Ooedo Tengurigaeshi no Maki | 73299 | [73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json](./73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json) |
+| Ganbare Morikawa Kun 2nd PET ON TV | 213887 | [213887-ganbare-morikawa-kun-2nd-pet-on-tv.json](./213887-ganbare-morikawa-kun-2nd-pet-on-tv.json) |
 | Ganbare Natsuki-san | 270676 | [270676-ganbare-natsuki-san.json](./270676-ganbare-natsuki-san.json) |
 | Ganbare Neo Poke-Kun | 43970 | [43970-ganbare-neo-poke-kun.json](./43970-ganbare-neo-poke-kun.json) |
 | Ganbare Untenshi!! | 380675 | [380675-ganbare-untenshi.json](./380675-ganbare-untenshi.json) |
