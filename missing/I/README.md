@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusory Dreamlight 1: Deprimerie | 186174 | [186174-illusory-dreamlight-1-deprimerie.json](./186174-illusory-dreamlight-1-deprimerie.json) |
 | Illvelo Swamp Happy Together | 383529 | [383529-illvelo-swamp-happy-together.json](./383529-illvelo-swamp-happy-together.json) |
 | Illville: Return instructions | 75180 | [75180-illville-return-instructions.json](./75180-illville-return-instructions.json) |
+| illWill | 191579 | [191579-illwill.json](./191579-illwill.json) |
 | Illwind | 251835 | [251835-illwind.json](./251835-illwind.json) |
 | Illyriad | 85880 | [85880-illyriad.json](./85880-illyriad.json) |
 | Ilomilo: Autumn Tale | 288340 | [288340-ilomilo-autumn-tale.json](./288340-ilomilo-autumn-tale.json) |
