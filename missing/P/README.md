@@ -6499,6 +6499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Propaganda Llama | 111476 | [111476-propaganda-llama.json](./111476-propaganda-llama.json) |
 | Propaganda vs. Zombies 2 | 391742 | [391742-propaganda-vs-zombies-2.json](./391742-propaganda-vs-zombies-2.json) |
 | Propagate | 366218 | [366218-propagate.json](./366218-propagate.json) |
+| Propagation: Paradise Hotel | 190483 | [190483-propagation-paradise-hotel.json](./190483-propagation-paradise-hotel.json) |
 | Propeller Arena: Aviation Battle Championship | 46555 | [46555-propeller-arena-aviation-battle-championship.json](./46555-propeller-arena-aviation-battle-championship.json) |
 | Propeller Pete | 334178 | [334178-propeller-pete.json](./334178-propeller-pete.json) |
 | PropFight | 331438 | [331438-propfight.json](./331438-propfight.json) |
@@ -6871,6 +6872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch! | 321956 | [321956-punch.json](./321956-punch.json) |
 | Punch'Em Up | 307605 | [307605-punchem-up.json](./307605-punchem-up.json) |
 | Punchball | 350054 | [350054-punchball.json](./350054-punchball.json) |
+| Punched | 190465 | [190465-punched.json](./190465-punched.json) |
 | Punchgolf | 291035 | [291035-punchgolf.json](./291035-punchgolf.json) |
 | Punchhead | 96074 | [96074-punchhead.json](./96074-punchhead.json) |
 | Punching a Concrete Wall | 399013 | [399013-punching-a-concrete-wall.json](./399013-punching-a-concrete-wall.json) |
