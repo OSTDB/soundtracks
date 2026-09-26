@@ -1261,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De:Void | 135813 | [135813-de-void.json](./135813-de-void.json) |
 | De'Vot | 258497 | [258497-devot.json](./258497-devot.json) |
 | Dea | 288852 | [288852-dea.json](./288852-dea.json) |
+| Deabirth: Real | 182816 | [182816-deabirth-real.json](./182816-deabirth-real.json) |
 | Dead | 90624 | [90624-dead.json](./90624-dead.json) |
 | Dead 4 Dress | 135019 | [135019-dead-4-dress.json](./135019-dead-4-dress.json) |
 | Dead Above | 366309 | [366309-dead-above.json](./366309-dead-above.json) |
@@ -3791,6 +3792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dipod: The Foot Legacy | 146831 | [146831-dipod-the-foot-legacy.json](./146831-dipod-the-foot-legacy.json) |
 | Diptych: The Great War | 199135 | [199135-diptych-the-great-war.json](./199135-diptych-the-great-war.json) |
 | Dirappen Restoration | 265700 | [265700-dirappen-restoration.json](./265700-dirappen-restoration.json) |
+| Dire | 182830 | [182830-dire.json](./182830-dire.json) |
 | Dire Echo | 376541 | [376541-dire-echo.json](./376541-dire-echo.json) |
 | Dire Island | 290482 | [290482-dire-island.json](./290482-dire-island.json) |
 | Dire Vengeance: Deluxe | 223570 | [223570-dire-vengeance-deluxe.json](./223570-dire-vengeance-deluxe.json) |
@@ -6077,6 +6079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragontorc | 13610 | [13610-dragontorc.json](./13610-dragontorc.json) |
 | Dragonwing | 94572 | [94572-dragonwing.json](./94572-dragonwing.json) |
 | Dragoon Armor for Adult | 67259 | [67259-dragoon-armor-for-adult.json](./67259-dragoon-armor-for-adult.json) |
+| Dragoon Drop | 182845 | [182845-dragoon-drop.json](./182845-dragoon-drop.json) |
 | Dragoon Might | 39555 | [39555-dragoon-might.json](./39555-dragoon-might.json) |
 | Dragoon X Omega | 48685 | [48685-dragoon-x-omega.json](./48685-dragoon-x-omega.json) |
 | Dragot | 251821 | [251821-dragot.json](./251821-dragot.json) |
@@ -7269,6 +7272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Town | 111719 | [111719-dungeon-town.json](./111719-dungeon-town.json) |
 | Dungeon Trail | 374595 | [374595-dungeon-trail.json](./374595-dungeon-trail.json) |
 | Dungeon Train | 333404 | [333404-dungeon-train.json](./333404-dungeon-train.json) |
+| Dungeon Train VR | 182837 | [182837-dungeon-train-vr.json](./182837-dungeon-train-vr.json) |
 | Dungeon Treaders | 388401 | [388401-dungeon-treaders.json](./388401-dungeon-treaders.json) |
 | Dungeon Trick | 391723 | [391723-dungeon-trick.json](./391723-dungeon-trick.json) |
 | Dungeon Tycoon | 250859 | [250859-dungeon-tycoon.json](./250859-dungeon-tycoon.json) |
