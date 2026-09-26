@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WannaMine | 88196 | [88196-wannamine.json](./88196-wannamine.json) |
 | Wanpaku Kokkun no Gourmet World | 215131 | [215131-wanpaku-kokkun-no-gourmet-world.json](./215131-wanpaku-kokkun-no-gourmet-world.json) |
 | Wanrobo | 178435 | [178435-wanrobo.json](./178435-wanrobo.json) |
+| Want to Hear a Scary Story? | 176261 | [176261-want-to-hear-a-scary-story.json](./176261-want-to-hear-a-scary-story.json) |
 | Wantame Music Channel: Doko Demo Style | 370291 | [370291-wantame-music-channel-doko-demo-style.json](./370291-wantame-music-channel-doko-demo-style.json) |
 | Wanted | 325069 | [325069-wanted.json](./325069-wanted.json) |
 | Wanted | 72380 | [72380-wanted.json](./72380-wanted.json) |
@@ -2713,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard's Harmony 2 | 55901 | [55901-wizards-harmony-2.json](./55901-wizards-harmony-2.json) |
 | Wizard's Lair | 26471 | [26471-wizards-lair.json](./26471-wizards-lair.json) |
 | Wizard's Symphony | 96111 | [96111-wizards-symphony.json](./96111-wizards-symphony.json) |
+| Wizard's Terror | 176253 | [176253-wizards-terror.json](./176253-wizards-terror.json) |
 | Wizard's Warp | 332398 | [332398-wizards-warp.json](./332398-wizards-warp.json) |
 | Wizard's Words | 105966 | [105966-wizards-words.json](./105966-wizards-words.json) |
 | Wizard101 | 47101 | [47101-wizard101.json](./47101-wizard101.json) |
