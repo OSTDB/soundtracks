@@ -539,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Timing | 368108 | [368108-panic-timing.json](./368108-panic-timing.json) |
 | Panic-Chan | 209623 | [209623-panic-chan.json](./209623-panic-chan.json) |
 | Panic! at the Dog Show | 106364 | [106364-panic-at-the-dog-show.json](./106364-panic-at-the-dog-show.json) |
+| Panicked and Surrounded by Hot Vampires | 186626 | [186626-panicked-and-surrounded-by-hot-vampires.json](./186626-panicked-and-surrounded-by-hot-vampires.json) |
 | Panicore | 277278 | [277278-panicore.json](./277278-panicore.json) |
 | Panik | 289300 | [289300-panik.json](./289300-panik.json) |
 | Panin | 358331 | [358331-panin.json](./358331-panin.json) |
@@ -2991,6 +2992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinky Xmas | 340207 | [340207-pinky-xmas.json](./340207-pinky-xmas.json) |
 | Pinnacle of Darkness | 274202 | [274202-pinnacle-of-darkness.json](./274202-pinnacle-of-darkness.json) |
 | Pinnacle Point | 291463 | [291463-pinnacle-point.json](./291463-pinnacle-point.json) |
+| Pinni and the Lost Voice | 186611 | [186611-pinni-and-the-lost-voice.json](./186611-pinni-and-the-lost-voice.json) |
 | Pino the Elemental | 240752 | [240752-pino-the-elemental.json](./240752-pino-the-elemental.json) |
 | Pinocchio: Interactive Book | 265189 | [265189-pinocchio-interactive-book.json](./265189-pinocchio-interactive-book.json) |
 | Pinocchio's Puzzle | 84821 | [84821-pinocchios-puzzle.json](./84821-pinocchios-puzzle.json) |
@@ -4970,6 +4972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop-up Fox | 101471 | [101471-pop-up-fox.json](./101471-pop-up-fox.json) |
 | Pop-Up Pilgrims | 90094 | [90094-pop-up-pilgrims.json](./90094-pop-up-pilgrims.json) |
 | Pop! Slots | 370752 | [370752-pop-slots.json](./370752-pop-slots.json) |
+| Pop'n music | 186652 | [186652-popn-music.json](./186652-popn-music.json) |
 | Pop'n Music | 281400 | [281400-popn-music.json](./281400-popn-music.json) |
 | Pop'n Music 2 | 78975 | [78975-popn-music-2.json](./78975-popn-music-2.json) |
 | Pop'n music 3 | 78977 | [78977-popn-music-3.json](./78977-popn-music-3.json) |
@@ -6805,6 +6808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulling Pin: Pull the Pin | 231910 | [231910-pulling-pin-pull-the-pin.json](./231910-pulling-pin-pull-the-pin.json) |
 | Pulling USA 2 | 86883 | [86883-pulling-usa-2.json](./86883-pulling-usa-2.json) |
 | Pullstation | 349930 | [349930-pullstation.json](./349930-pullstation.json) |
+| Pullywog | 186636 | [186636-pullywog.json](./186636-pullywog.json) |
 | PulmEx | 215244 | [215244-pulmex.json](./215244-pulmex.json) |
 | Pulp Action Shotgun | 362876 | [362876-pulp-action-shotgun.json](./362876-pulp-action-shotgun.json) |
 | Pulp Race: Daft Enigma Fighter | 382780 | [382780-pulp-race-daft-enigma-fighter.json](./382780-pulp-race-daft-enigma-fighter.json) |
