@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lucky First Turnabout: A Klavier Gavin Story | 308550 | [308550-a-lucky-first-turnabout-a-klavier-gavin-story.json](./308550-a-lucky-first-turnabout-a-klavier-gavin-story.json) |
 | A Lucky Hunt With: Ione | 392956 | [392956-a-lucky-hunt-with-ione.json](./392956-a-lucky-hunt-with-ione.json) |
 | A Mage Reborn | 207342 | [207342-a-mage-reborn.json](./207342-a-mage-reborn.json) |
+| A Magical Girl's Duty | 181692 | [181692-a-magical-girls-duty.json](./181692-a-magical-girls-duty.json) |
 | A Magical Tale: Revoke DX | 381603 | [381603-a-magical-tale-revoke-dx.json](./381603-a-magical-tale-revoke-dx.json) |
 | A Male Me Dressed up and Was Loved | 82878 | [82878-a-male-me-dressed-up-and-was-loved.json](./82878-a-male-me-dressed-up-and-was-loved.json) |
 | A Mallard's Song | 282087 | [282087-a-mallards-song.json](./282087-a-mallards-song.json) |
