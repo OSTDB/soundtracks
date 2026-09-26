@@ -2379,6 +2379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chart Weaver | 382892 | [382892-chart-weaver.json](./382892-chart-weaver.json) |
 | Chart1647 | 242654 | [242654-chart1647.json](./242654-chart1647.json) |
 | Charterstone: Digital Edition | 117869 | [117869-charterstone-digital-edition.json](./117869-charterstone-digital-edition.json) |
+| Chase | 195500 | [195500-chase.json](./195500-chase.json) |
 | Chase | 253998 | [253998-chase.json](./253998-chase.json) |
 | Chase & Escape | 355215 | [355215-chase-and-escape.json](./355215-chase-and-escape.json) |
 | Chase Ace Sole Survivor | 281992 | [281992-chase-ace-sole-survivor.json](./281992-chase-ace-sole-survivor.json) |
@@ -3808,6 +3809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Card Games 3D | 111762 | [111762-classic-card-games-3d.json](./111762-classic-card-games-3d.json) |
 | Classic Collection | 52848 | [52848-classic-collection.json](./52848-classic-collection.json) |
 | Classic Cribbage | 169982 | [169982-classic-cribbage.json](./169982-classic-cribbage.json) |
+| Classic DOOM 3 | 195496 | [195496-classic-doom-3.json](./195496-classic-doom-3.json) |
 | Classic Dungeon Sengoku | 137013 | [137013-classic-dungeon-sengoku.json](./137013-classic-dungeon-sengoku.json) |
 | Classic FreeCell HD | 88281 | [88281-classic-freecell-hd.json](./88281-classic-freecell-hd.json) |
 | Classic Fun Collection 5 in 1 | 90588 | [90588-classic-fun-collection-5-in-1.json](./90588-classic-fun-collection-5-in-1.json) |
