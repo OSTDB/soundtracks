@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night With: Succubus | 331291 | [331291-a-night-with-succubus.json](./331291-a-night-with-succubus.json) |
 | A Nightmare on Elm Street | 129595 | [129595-a-nightmare-on-elm-street.json](./129595-a-nightmare-on-elm-street.json) |
 | A Nightmare on Elm Street | 40935 | [40935-a-nightmare-on-elm-street.json](./40935-a-nightmare-on-elm-street.json) |
+| A Nightmare on Elm Street: Son of a Hundred Maniacs | 176824 | [176824-a-nightmare-on-elm-street-son-of-a-hundred-maniacs.json](./176824-a-nightmare-on-elm-street-son-of-a-hundred-maniacs.json) |
 | A Ninja in Training | 161738 | [161738-a-ninja-in-training.json](./161738-a-ninja-in-training.json) |
 | A Noble Circle | 174207 | [174207-a-noble-circle.json](./174207-a-noble-circle.json) |
 | A Noite dos Patriotas | 232413 | [232413-a-noite-dos-patriotas.json](./232413-a-noite-dos-patriotas.json) |
@@ -4021,6 +4022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti Pac-Man | 325557 | [325557-anti-pac-man.json](./325557-anti-pac-man.json) |
 | Anti Terrorist Rush 2 | 116342 | [116342-anti-terrorist-rush-2.json](./116342-anti-terrorist-rush-2.json) |
 | Anti V Reboot | 357805 | [357805-anti-v-reboot.json](./357805-anti-v-reboot.json) |
+| Anti-Goodness Dept. | 176787 | [176787-anti-goodness-dept.json](./176787-anti-goodness-dept.json) |
 | Anti-Grav | 114325 | [114325-anti-grav.json](./114325-anti-grav.json) |
 | Anti-Idle: The Game | 225644 | [225644-anti-idle-the-game.json](./225644-anti-idle-the-game.json) |
 | Anti-Jump-Man | 130374 | [130374-anti-jump-man.json](./130374-anti-jump-man.json) |
