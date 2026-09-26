@@ -819,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unextinction | 365862 | [365862-unextinction.json](./365862-unextinction.json) |
 | Unfabulous | 18306 | [18306-unfabulous.json](./18306-unfabulous.json) |
 | Unfair Flips | 367451 | [367451-unfair-flips.json](./367451-unfair-flips.json) |
+| Unfair Mario | 225008 | [225008-unfair-mario.json](./225008-unfair-mario.json) |
 | Unfated | 267672 | [267672-unfated.json](./267672-unfated.json) |
 | Unfated | 410974 | [410974-unfated.json](./410974-unfated.json) |
 | Unfathomable Villa | 112971 | [112971-unfathomable-villa.json](./112971-unfathomable-villa.json) |
