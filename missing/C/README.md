@@ -3300,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicle Survivors | 287198 | [287198-chronicle-survivors.json](./287198-chronicle-survivors.json) |
 | Chronicle: RuneScape Legends | 19433 | [19433-chronicle-runescape-legends.json](./19433-chronicle-runescape-legends.json) |
 | Chronicle: Unit Eight | 128989 | [128989-chronicle-unit-eight.json](./128989-chronicle-unit-eight.json) |
+| Chronicles and Fables: Arena | 178442 | [178442-chronicles-and-fables-arena.json](./178442-chronicles-and-fables-arena.json) |
 | Chronicles IV: Ebonheim | 358852 | [358852-chronicles-iv-ebonheim.json](./358852-chronicles-iv-ebonheim.json) |
 | Chronicles of 2 Heroes: Amaterasu's Wrath | 191850 | [191850-chronicles-of-2-heroes-amaterasus-wrath.json](./191850-chronicles-of-2-heroes-amaterasus-wrath.json) |
 | Chronicles of 2 Heroes: Amaterasu's Wrath - Collector's Edition | 245276 | [245276-chronicles-of-2-heroes-amaterasus-wrath-collectors-edition.json](./245276-chronicles-of-2-heroes-amaterasus-wrath-collectors-edition.json) |
@@ -4363,6 +4364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coco Block | 391595 | [391595-coco-block.json](./391595-coco-block.json) |
 | Coco Notes | 243644 | [243644-coco-notes.json](./243644-coco-notes.json) |
 | Coco to the Rescue | 230365 | [230365-coco-to-the-rescue.json](./230365-coco-to-the-rescue.json) |
+| Cocoa 2: Twenty Four Hour Parsley People | 178452 | [178452-cocoa-2-twenty-four-hour-parsley-people.json](./178452-cocoa-2-twenty-four-hour-parsley-people.json) |
 | Cocoboy | 377811 | [377811-cocoboy.json](./377811-cocoboy.json) |
 | Cocommando | 393474 | [393474-cocommando.json](./393474-cocommando.json) |
 | Coconut | 314302 | [314302-coconut.json](./314302-coconut.json) |
