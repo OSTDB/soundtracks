@@ -1663,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Snow | 287771 | [287771-red-snow.json](./287771-red-snow.json) |
 | Red Soil | 379372 | [379372-red-soil.json](./379372-red-soil.json) |
 | Red Solstice 2: Survivors - Condatis Group | 193437 | [193437-red-solstice-2-survivors-condatis-group.json](./193437-red-solstice-2-survivors-condatis-group.json) |
+| Red Solstice 2: Survivors - Insurgents | 201009 | [201009-red-solstice-2-survivors-insurgents.json](./201009-red-solstice-2-survivors-insurgents.json) |
 | Red Solstice 2: Survivors - Ultimate Edition | 329198 | [329198-red-solstice-2-survivors-ultimate-edition.json](./329198-red-solstice-2-survivors-ultimate-edition.json) |
 | Red Sparrow | 38998 | [38998-red-sparrow.json](./38998-red-sparrow.json) |
 | Red Spider 2: Exiled Remastered | 401844 | [401844-red-spider-2-exiled-remastered.json](./401844-red-spider-2-exiled-remastered.json) |
@@ -1779,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redout: Solar Challenge Edition | 124807 | [124807-redout-solar-challenge-edition.json](./124807-redout-solar-challenge-edition.json) |
 | Redout: Space Assault - Deluxe Edition | 154547 | [154547-redout-space-assault-deluxe-edition.json](./154547-redout-space-assault-deluxe-edition.json) |
 | Redout: Space Exploration Pack | 226973 | [226973-redout-space-exploration-pack.json](./226973-redout-space-exploration-pack.json) |
+| Redout: Ultimate Edition | 201038 | [201038-redout-ultimate-edition.json](./201038-redout-ultimate-edition.json) |
 | Redout: V.E.R.T.E.X. Pack | 226974 | [226974-redout-v-e-r-t-e-x-pack.json](./226974-redout-v-e-r-t-e-x-pack.json) |
 | ReDraft: The Fantasy Football Simulator | 414361 | [414361-redraft-the-fantasy-football-simulator.json](./414361-redraft-the-fantasy-football-simulator.json) |
 | ReDrawn: The Painted Tower | 188035 | [188035-redrawn-the-painted-tower.json](./188035-redrawn-the-painted-tower.json) |
@@ -1871,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refrain Blue | 395006 | [395006-refrain-blue.json](./395006-refrain-blue.json) |
 | Refrain Love 2 | 55116 | [55116-refrain-love-2.json](./55116-refrain-love-2.json) |
 | Refrain Love: Anata ni Aitai | 64892 | [64892-refrain-love-anata-ni-aitai.json](./64892-refrain-love-anata-ni-aitai.json) |
+| Refrain no Chika Meikyuu to Majo no Ryodan: Limited Edition | 201050 | [201050-refrain-no-chika-meikyuu-to-majo-no-ryodan-limited-edition.json](./201050-refrain-no-chika-meikyuu-to-majo-no-ryodan-limited-edition.json) |
 | RefRain: Prism Memories - Collector's Edition | 53499 | [53499-refrain-prism-memories-collectors-edition.json](./53499-refrain-prism-memories-collectors-edition.json) |
 | Refuge | 226969 | [226969-refuge.json](./226969-refuge.json) |
 | Refuge For Troubles: Episode 1 - Dear Stranger | 171566 | [171566-refuge-for-troubles-episode-1-dear-stranger.json](./171566-refuge-for-troubles-episode-1-dear-stranger.json) |
@@ -2954,6 +2957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riders of Asgard: Deluxe Edition | 53508 | [53508-riders-of-asgard-deluxe-edition.json](./53508-riders-of-asgard-deluxe-edition.json) |
 | Riders Republic: 360 Edition | 263514 | [263514-riders-republic-360-edition.json](./263514-riders-republic-360-edition.json) |
 | Riders Republic: Complete Edition | 263515 | [263515-riders-republic-complete-edition.json](./263515-riders-republic-complete-edition.json) |
+| Riders Republic: Freeride Edition | 201047 | [201047-riders-republic-freeride-edition.json](./201047-riders-republic-freeride-edition.json) |
 | Riders Republic: Gold Edition | 139834 | [139834-riders-republic-gold-edition.json](./139834-riders-republic-gold-edition.json) |
 | Riders Republic: Limited Edition | 139839 | [139839-riders-republic-limited-edition.json](./139839-riders-republic-limited-edition.json) |
 | Riders Republic: Season Pass | 293718 | [293718-riders-republic-season-pass.json](./293718-riders-republic-season-pass.json) |
@@ -3288,6 +3292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk & Riches | 333646 | [333646-risk-and-riches.json](./333646-risk-and-riches.json) |
 | Risk Battleship Clue | 138001 | [138001-risk-battleship-clue.json](./138001-risk-battleship-clue.json) |
 | Risk of Rain | 3173 | [3173-risk-of-rain.json](./3173-risk-of-rain.json) |
+| Risk of Rain 2 + Survivors of the Void | 201040 | [201040-risk-of-rain-2-survivors-of-the-void.json](./201040-risk-of-rain-2-survivors-of-the-void.json) |
 | Risk of Rain 2: Aetherium | 310531 | [310531-risk-of-rain-2-aetherium.json](./310531-risk-of-rain-2-aetherium.json) |
 | Risk of Rain 2: Devotion Update | 306700 | [306700-risk-of-rain-2-devotion-update.json](./306700-risk-of-rain-2-devotion-update.json) |
 | Risk of Rain 2: Hallowed Concepts | 397819 | [397819-risk-of-rain-2-hallowed-concepts.json](./397819-risk-of-rain-2-hallowed-concepts.json) |
