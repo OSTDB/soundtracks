@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Walking | 114751 | [114751-keep-walking.json](./114751-keep-walking.json) |
 | Keep Watering | 406930 | [406930-keep-watering.json](./406930-keep-watering.json) |
 | Keeper | 152141 | [152141-keeper.json](./152141-keeper.json) |
+| Keeper | 213347 | [213347-keeper.json](./213347-keeper.json) |
 | Keeper Of The Hell Gate | 271748 | [271748-keeper-of-the-hell-gate.json](./271748-keeper-of-the-hell-gate.json) |
 | Keeper of the Labyrinth | 153865 | [153865-keeper-of-the-labyrinth.json](./153865-keeper-of-the-labyrinth.json) |
 | Keeper Practise | 291623 | [291623-keeper-practise.json](./291623-keeper-practise.json) |
@@ -1768,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Squad 2 | 137112 | [137112-knight-squad-2.json](./137112-knight-squad-2.json) |
 | Knight Without Sword | 263587 | [263587-knight-without-sword.json](./263587-knight-without-sword.json) |
 | Knight-Blade: Howling of Kerberos | 324886 | [324886-knight-blade-howling-of-kerberos.json](./324886-knight-blade-howling-of-kerberos.json) |
+| Knight's Castle | 213341 | [213341-knights-castle.json](./213341-knights-castle.json) |
 | Knight's Chance | 75478 | [75478-knights-chance.json](./75478-knights-chance.json) |
 | Knight's Destiny | 149037 | [149037-knights-destiny.json](./149037-knights-destiny.json) |
 | Knight's Edge | 165534 | [165534-knights-edge.json](./165534-knights-edge.json) |
@@ -2005,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokurase: Episode 3 | 167799 | [167799-kokurase-episode-3.json](./167799-kokurase-episode-3.json) |
 | Kokuriko | 296922 | [296922-kokuriko.json](./296922-kokuriko.json) |
 | Kokuu Hyouryuu Nirgends | 45951 | [45951-kokuu-hyouryuu-nirgends.json](./45951-kokuu-hyouryuu-nirgends.json) |
+| Kolhii Champions AU | 213314 | [213314-kolhii-champions-au.json](./213314-kolhii-champions-au.json) |
 | Koliquest | 146243 | [146243-koliquest.json](./146243-koliquest.json) |
 | Kolkhoz: The Red Wedge | 109755 | [109755-kolkhoz-the-red-wedge.json](./109755-kolkhoz-the-red-wedge.json) |
 | Kollectomaniac | 332635 | [332635-kollectomaniac.json](./332635-kollectomaniac.json) |
@@ -2263,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kryptoria | 229633 | [229633-kryptoria.json](./229633-kryptoria.json) |
 | Krystal Kart AR | 145438 | [145438-krystal-kart-ar.json](./145438-krystal-kart-ar.json) |
 | Kryzta | 199113 | [199113-kryzta.json](./199113-kryzta.json) |
+| Krzyżacy: The Knights of the Cross | 213312 | [213312-krzyzacy-the-knights-of-the-cross.json](./213312-krzyzacy-the-knights-of-the-cross.json) |
 | Krzyżacy: The Knights of the Cross - Character Pack (Western Style) | 257065 | [257065-krzyzacy-the-knights-of-the-cross-character-pack-western-style.json](./257065-krzyzacy-the-knights-of-the-cross-character-pack-western-style.json) |
 | Krzyżacy: The Knights of the Cross - Shining Stars | 289320 | [289320-krzyzacy-the-knights-of-the-cross-shining-stars.json](./289320-krzyzacy-the-knights-of-the-cross-shining-stars.json) |
 | KSame | 64431 | [64431-ksame.json](./64431-ksame.json) |
