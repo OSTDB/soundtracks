@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Cat | 163958 | [163958-half-cat.json](./163958-half-cat.json) |
 | Half-Chamber | 252100 | [252100-half-chamber.json](./252100-half-chamber.json) |
 | Half-Doomed | 252366 | [252366-half-doomed.json](./252366-half-doomed.json) |
+| Half-Earth Socialism | 208329 | [208329-half-earth-socialism.json](./208329-half-earth-socialism.json) |
 | Half-Life | 401474 | [401474-half-life.json](./401474-half-life.json) |
 | Half-Life 1 Anthology | 400309 | [400309-half-life-1-anthology.json](./400309-half-life-1-anthology.json) |
 | Half-Life 2 Classic | 128657 | [128657-half-life-2-classic.json](./128657-half-life-2-classic.json) |
@@ -1009,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hattrick | 270408 | [270408-hattrick.json](./270408-hattrick.json) |
 | Hatup | 204093 | [204093-hatup.json](./204093-hatup.json) |
 | Haulin' Oats | 192829 | [192829-haulin-oats.json](./192829-haulin-oats.json) |
+| Hauling Away | 208276 | [208276-hauling-away.json](./208276-hauling-away.json) |
 | Haunt | 20245 | [20245-haunt.json](./20245-haunt.json) |
 | Haunt | 383487 | [383487-haunt.json](./383487-haunt.json) |
 | Haunt | 384773 | [384773-haunt.json](./384773-haunt.json) |
@@ -1222,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head North: The Inevitable | 269604 | [269604-head-north-the-inevitable.json](./269604-head-north-the-inevitable.json) |
 | Head over Heels | 322797 | [322797-head-over-heels.json](./322797-head-over-heels.json) |
 | Head Over Heels | 121632 | [121632-head-over-heels.json](./121632-head-over-heels.json) |
+| Head Over Heels | 208281 | [208281-head-over-heels.json](./208281-head-over-heels.json) |
 | Head Panic | 39683 | [39683-head-panic.json](./39683-head-panic.json) |
 | Head Reattachment Trauma | 271249 | [271249-head-reattachment-trauma.json](./271249-head-reattachment-trauma.json) |
 | Head Shot | 32472 | [32472-head-shot.json](./32472-head-shot.json) |
@@ -2324,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero World | 322376 | [322376-hero-world.json](./322376-hero-world.json) |
 | Hero World 2 | 329129 | [329129-hero-world-2.json](./329129-hero-world-2.json) |
 | Hero x Hero | 406780 | [406780-hero-x-hero.json](./406780-hero-x-hero.json) |
+| Hero Youseijyo | 208275 | [208275-hero-youseijyo.json](./208275-hero-youseijyo.json) |
 | Hero Zex | 191254 | [191254-hero-zex.json](./191254-hero-zex.json) |
 | Hero-ing Addict | 135043 | [135043-hero-ing-addict.json](./135043-hero-ing-addict.json) |
 | Hero: Flood Rescue | 118428 | [118428-hero-flood-rescue.json](./118428-hero-flood-rescue.json) |
