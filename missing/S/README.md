@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Succubus 2 | 146837 | [146837-sakura-succubus-2.json](./146837-sakura-succubus-2.json) |
 | Sakura Succubus 3 | 152892 | [152892-sakura-succubus-3.json](./152892-sakura-succubus-3.json) |
 | Sakura Succubus 8 | 353952 | [353952-sakura-succubus-8.json](./353952-sakura-succubus-8.json) |
+| Sakura Succubus Bundle | 203228 | [203228-sakura-succubus-bundle.json](./203228-sakura-succubus-bundle.json) |
 | Sakura Sunshine | 215911 | [215911-sakura-sunshine.json](./215911-sakura-sunshine.json) |
 | Sakura Sweetheart | 135893 | [135893-sakura-sweetheart.json](./135893-sakura-sweetheart.json) |
 | Sakura Swim Club | 34461 | [34461-sakura-swim-club.json](./34461-sakura-swim-club.json) |
@@ -4449,8 +4450,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Vol. 19: The Renai Simulation - Watashi ni Oma Cafe | 70431 | [70431-simple-2000-series-vol-19-the-renai-simulation-watashi-ni-oma-cafe.json](./70431-simple-2000-series-vol-19-the-renai-simulation-watashi-ni-oma-cafe.json) |
 | Simple 2000 Series Vol. 20: The Dungeon RPG | 335906 | [335906-simple-2000-series-vol-20-the-dungeon-rpg.json](./335906-simple-2000-series-vol-20-the-dungeon-rpg.json) |
 | Simple 2000 Series Vol. 24: The Bowling Hyper | 335909 | [335909-simple-2000-series-vol-24-the-bowling-hyper.json](./335909-simple-2000-series-vol-24-the-bowling-hyper.json) |
+| Simple 2000 Series Vol. 29: The Renai Board Game Seishun 18 Radio | 203257 | [203257-simple-2000-series-vol-29-the-renai-board-game-seishun-18-radio.json](./203257-simple-2000-series-vol-29-the-renai-board-game-seishun-18-radio.json) |
 | Simple 2000 Series Vol. 32: The Sensha | 335914 | [335914-simple-2000-series-vol-32-the-sensha.json](./335914-simple-2000-series-vol-32-the-sensha.json) |
+| Simple 2000 Series Vol. 34: The Renai Horror Adventure - Hyouryuu Shoujo | 203260 | [203260-simple-2000-series-vol-34-the-renai-horror-adventure-hyouryuu-shoujo.json](./203260-simple-2000-series-vol-34-the-renai-horror-adventure-hyouryuu-shoujo.json) |
+| Simple 2000 Series Vol. 36: The Musume-Ikusei Simulation - Otousan to Issho | 203261 | [203261-simple-2000-series-vol-36-the-musume-ikusei-simulation-otousan-to-issho.json](./203261-simple-2000-series-vol-36-the-musume-ikusei-simulation-otousan-to-issho.json) |
+| Simple 2000 Series Vol. 44: The Hajimete no RPG - Densetsu no Keishousha | 203264 | [203264-simple-2000-series-vol-44-the-hajimete-no-rpg-densetsu-no-keishousha.json](./203264-simple-2000-series-vol-44-the-hajimete-no-rpg-densetsu-no-keishousha.json) |
+| Simple 2000 Series Vol. 45: The Koi to Namida to, Tsukioku to... - Thread Colors Sayonara no Mukougawa | 203265 | [203265-simple-2000-series-vol-45-the-koi-to-namida-to-tsukioku-to-thread-colors-sayonara-no-mukougawa.json](./203265-simple-2000-series-vol-45-the-koi-to-namida-to-tsukioku-to-thread-colors-sayonara-no-mukougawa.json) |
+| Simple 2000 Series Vol. 56: The Survival Game | 203275 | [203275-simple-2000-series-vol-56-the-survival-game.json](./203275-simple-2000-series-vol-56-the-survival-game.json) |
+| Simple 2000 Series Vol. 58: The Gekai | 203276 | [203276-simple-2000-series-vol-58-the-gekai.json](./203276-simple-2000-series-vol-58-the-gekai.json) |
+| Simple 2000 Series Vol. 59: The Uchuujin to Hanasou! Uchuujin-tte Naani? | 203277 | [203277-simple-2000-series-vol-59-the-uchuujin-to-hanasou-uchuujin-tte-naani.json](./203277-simple-2000-series-vol-59-the-uchuujin-to-hanasou-uchuujin-tte-naani.json) |
 | Simple 2000 Series Vol. 62: The Super Puzzle Bobble DX | 61339 | [61339-simple-2000-series-vol-62-the-super-puzzle-bobble-dx.json](./61339-simple-2000-series-vol-62-the-super-puzzle-bobble-dx.json) |
+| Simple 2000 Series Vol. 69: The Board Game Collection | 203279 | [203279-simple-2000-series-vol-69-the-board-game-collection.json](./203279-simple-2000-series-vol-69-the-board-game-collection.json) |
+| Simple 2000 Series Vol. 71: The Fantasy Renai Adventure - Kanojo no Densetsu, Boku no Sekiban | 203280 | [203280-simple-2000-series-vol-71-the-fantasy-renai-adventure-kanojo-no-densetsu-boku-no-sekiban.json](./203280-simple-2000-series-vol-71-the-fantasy-renai-adventure-kanojo-no-densetsu-boku-no-sekiban.json) |
 | Simple 2000 Series Vol. 77: The Hanasou Hanguru no Tabi | 203319 | [203319-simple-2000-series-vol-77-the-hanasou-hanguru-no-tabi.json](./203319-simple-2000-series-vol-77-the-hanasou-hanguru-no-tabi.json) |
 | Simple 2000 Series vol. 79: Akko ni Omakase! The Party Quiz | 203320 | [203320-simple-2000-series-vol-79-akko-ni-omakase-the-party-quiz.json](./203320-simple-2000-series-vol-79-akko-ni-omakase-the-party-quiz.json) |
 | Simple 2000 Series Vol. 82: The Kung Fu | 203321 | [203321-simple-2000-series-vol-82-the-kung-fu.json](./203321-simple-2000-series-vol-82-the-kung-fu.json) |
@@ -6494,6 +6505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokobundle | 331518 | [331518-sokobundle.json](./331518-sokobundle.json) |
 | Sokocat - Islands | 147449 | [147449-sokocat-islands.json](./147449-sokocat-islands.json) |
 | Sokocat: Castaway | 399689 | [399689-sokocat-castaway.json](./399689-sokocat-castaway.json) |
+| Sokocat: Combo | 203267 | [203267-sokocat-combo.json](./203267-sokocat-combo.json) |
 | SokoChess White | 232960 | [232960-sokochess-white.json](./232960-sokochess-white.json) |
 | SokoCode | 322593 | [322593-sokocode.json](./322593-sokocode.json) |
 | SokoFrog | 219593 | [219593-sokofrog.json](./219593-sokofrog.json) |
@@ -9585,6 +9597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Aquarium | 348803 | [348803-star-aquarium.json](./348803-star-aquarium.json) |
 | Star Archer | 337982 | [337982-star-archer.json](./337982-star-archer.json) |
 | Star Arthur Densetsu I: Wakusei Mephius | 65513 | [65513-star-arthur-densetsu-i-wakusei-mephius.json](./65513-star-arthur-densetsu-i-wakusei-mephius.json) |
+| Star Battalion | 203231 | [203231-star-battalion.json](./203231-star-battalion.json) |
 | Star Beads | 329007 | [329007-star-beads.json](./329007-star-beads.json) |
 | Star Beasts: Meteor Version | 227920 | [227920-star-beasts-meteor-version.json](./227920-star-beasts-meteor-version.json) |
 | Star Bind | 287241 | [287241-star-bind.json](./287241-star-bind.json) |
