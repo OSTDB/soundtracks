@@ -1426,6 +1426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Game | 199076 | [199076-west-game.json](./199076-west-game.json) |
 | West Hunt: Halloween Pack2 | 273670 | [273670-west-hunt-halloween-pack2.json](./273670-west-hunt-halloween-pack2.json) |
 | West Journey | 338384 | [338384-west-journey.json](./338384-west-journey.json) |
+| West Journey War | 174647 | [174647-west-journey-war.json](./174647-west-journey-war.json) |
 | West Mafia Redemption | 95882 | [95882-west-mafia-redemption.json](./95882-west-mafia-redemption.json) |
 | West of Dead: Path of the Crow Edition | 154954 | [154954-west-of-dead-path-of-the-crow-edition.json](./154954-west-of-dead-path-of-the-crow-edition.json) |
 | West of the Witchlands | 272882 | [272882-west-of-the-witchlands.json](./272882-west-of-the-witchlands.json) |
@@ -3239,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Cricket Championship 2 | 165526 | [165526-world-cricket-championship-2.json](./165526-world-cricket-championship-2.json) |
 | World Cruise Story | 65518 | [65518-world-cruise-story.json](./65518-world-cruise-story.json) |
 | World Cup | 130762 | [130762-world-cup.json](./130762-world-cup.json) |
+| World Cup | 174657 | [174657-world-cup.json](./174657-world-cup.json) |
 | World Cup Carnival | 69817 | [69817-world-cup-carnival.json](./69817-world-cup-carnival.json) |
 | World Cup Football | 130764 | [130764-world-cup-football.json](./130764-world-cup-football.json) |
 | World Cup of Pool | 47963 | [47963-world-cup-of-pool.json](./47963-world-cup-of-pool.json) |
