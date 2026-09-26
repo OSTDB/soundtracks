@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA NeoGeo Selection Vol. 1 | 319735 | [319735-aca-neogeo-selection-vol-1.json](./319735-aca-neogeo-selection-vol-1.json) |
 | ACA NeoGeo Selection Vol. 2 | 319733 | [319733-aca-neogeo-selection-vol-2.json](./319733-aca-neogeo-selection-vol-2.json) |
 | ACA NeoGeo Selection Vol. 4 | 342071 | [342071-aca-neogeo-selection-vol-4.json](./342071-aca-neogeo-selection-vol-4.json) |
+| Acacia Project | 188382 | [188382-acacia-project.json](./188382-acacia-project.json) |
 | Academy Love Saga: Tennis Angels EX | 312666 | [312666-academy-love-saga-tennis-angels-ex.json](./312666-academy-love-saga-tennis-angels-ex.json) |
 | Academy Romance 7 | 185077 | [185077-academy-romance-7.json](./185077-academy-romance-7.json) |
 | Acai cOrner | 297558 | [297558-acai-corner.json](./297558-acai-corner.json) |
@@ -3100,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Us: Crewmate Edition | 155093 | [155093-among-us-crewmate-edition.json](./155093-among-us-crewmate-edition.json) |
 | Among Us: Ejected Edition | 155092 | [155092-among-us-ejected-edition.json](./155092-among-us-ejected-edition.json) |
 | Among Us: Impostor Edition | 155094 | [155094-among-us-impostor-edition.json](./155094-among-us-impostor-edition.json) |
+| Among Waifus 18+ | 188409 | [188409-among-waifus-18.json](./188409-among-waifus-18.json) |
 | Among Walls | 196674 | [196674-among-walls.json](./196674-among-walls.json) |
 | Amora Crystal | 120790 | [120790-amora-crystal.json](./120790-amora-crystal.json) |
 | Amorous Professor Cherry | 72634 | [72634-amorous-professor-cherry.json](./72634-amorous-professor-cherry.json) |
