@@ -2250,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phi: The Broken Strings | 332599 | [332599-phi-the-broken-strings.json](./332599-phi-the-broken-strings.json) |
 | Phi's Star Challenge | 393099 | [393099-phis-star-challenge.json](./393099-phis-star-challenge.json) |
 | Phibos | 243394 | [243394-phibos.json](./243394-phibos.json) |
+| Phil | 199371 | [199371-phil.json](./199371-phil.json) |
 | Phil Alone | 222828 | [222828-phil-alone.json](./222828-phil-alone.json) |
 | Phil of the Future | 49387 | [49387-phil-of-the-future.json](./49387-phil-of-the-future.json) |
 | Phil's Contract | 312184 | [312184-phils-contract.json](./312184-phils-contract.json) |
@@ -5866,6 +5867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Lesson with My Lover Teacher 2 | 382782 | [382782-private-lesson-with-my-lover-teacher-2.json](./382782-private-lesson-with-my-lover-teacher-2.json) |
 | Private Military Manager: Tactical Auto Battler | 264618 | [264618-private-military-manager-tactical-auto-battler.json](./264618-private-military-manager-tactical-auto-battler.json) |
 | Private Mining Company | 309368 | [309368-private-mining-company.json](./309368-private-mining-company.json) |
+| Private Property | 199378 | [199378-private-property.json](./199378-private-property.json) |
 | Private School Days | 89760 | [89760-private-school-days.json](./89760-private-school-days.json) |
 | Private: Pornmania | 254545 | [254545-private-pornmania.json](./254545-private-pornmania.json) |
 | Prize Fighter | 5424 | [5424-prize-fighter.json](./5424-prize-fighter.json) |
@@ -6240,6 +6242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project MT | 363567 | [363567-project-mt.json](./363567-project-mt.json) |
 | Project N.E.X.T | 278534 | [278534-project-n-e-x-t.json](./278534-project-n-e-x-t.json) |
 | Project Nasu | 270954 | [270954-project-nasu.json](./270954-project-nasu.json) |
+| Project Nautilus | 199399 | [199399-project-nautilus.json](./199399-project-nautilus.json) |
 | Project Nebula | 282074 | [282074-project-nebula.json](./282074-project-nebula.json) |
 | Project Neon | 330134 | [330134-project-neon.json](./330134-project-neon.json) |
 | Project Neos | 406177 | [406177-project-neos.json](./406177-project-neos.json) |
