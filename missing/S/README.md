@@ -4299,6 +4299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill: Shattered Memories | 486 | [486-silent-hill-shattered-memories.json](./486-silent-hill-shattered-memories.json) |
 | Silent Hill: The Arcade | 324910 | [324910-silent-hill-the-arcade.json](./324910-silent-hill-the-arcade.json) |
 | Silent Hope: Wanderer's Weapon & Item Set | 254464 | [254464-silent-hope-wanderers-weapon-and-item-set.json](./254464-silent-hope-wanderers-weapon-and-item-set.json) |
+| Silent House | 177304 | [177304-silent-house.json](./177304-silent-house.json) |
 | Silent Hunt | 374694 | [374694-silent-hunt.json](./374694-silent-hunt.json) |
 | Silent Hunter 5: Battle of the Atlantic | 995 | [995-silent-hunter-5-battle-of-the-atlantic.json](./995-silent-hunter-5-battle-of-the-atlantic.json) |
 | Silent Hunter III | 870 | [870-silent-hunter-iii.json](./870-silent-hunter-iii.json) |
@@ -5289,6 +5290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyward Battles | 334855 | [334855-skyward-battles.json](./334855-skyward-battles.json) |
 | Skyward Collapse: Nihon no Mura | 10871 | [10871-skyward-collapse-nihon-no-mura.json](./10871-skyward-collapse-nihon-no-mura.json) |
 | Skyward Journey | 320367 | [320367-skyward-journey.json](./320367-skyward-journey.json) |
+| Skywatching | 177303 | [177303-skywatching.json](./177303-skywatching.json) |
 | Skyweaver | 123039 | [123039-skyweaver.json](./123039-skyweaver.json) |
 | Skywire | 116128 | [116128-skywire.json](./116128-skywire.json) |
 | Skywire 2 | 280333 | [280333-skywire-2.json](./280333-skywire-2.json) |
@@ -5817,6 +5819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Town Terrors: Pilgrim's Hook - Collector's Edition | 36314 | [36314-small-town-terrors-pilgrims-hook-collectors-edition.json](./36314-small-town-terrors-pilgrims-hook-collectors-edition.json) |
 | Small World | 272927 | [272927-small-world.json](./272927-small-world.json) |
 | Smalland: Survive the Wilds VR | 299752 | [299752-smalland-survive-the-wilds-vr.json](./299752-smalland-survive-the-wilds-vr.json) |
+| Smalls Island Woes | 177341 | [177341-smalls-island-woes.json](./177341-smalls-island-woes.json) |
 | Smart As... | 92456 | [92456-smart-as.json](./92456-smart-as.json) |
 | Smart Bomber | 247035 | [247035-smart-bomber.json](./247035-smart-bomber.json) |
 | Smart Boy's Gameroom II | 208958 | [208958-smart-boys-gameroom-ii.json](./208958-smart-boys-gameroom-ii.json) |
@@ -6322,6 +6325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Brothers 3: Magical Adventure | 39841 | [39841-snow-brothers-3-magical-adventure.json](./39841-snow-brothers-3-magical-adventure.json) |
 | Snow Cone | 341474 | [341474-snow-cone.json](./341474-snow-cone.json) |
 | Snow Cones: Episode 1 | 182831 | [182831-snow-cones-episode-1.json](./182831-snow-cones-episode-1.json) |
+| Snow Cones: Episode 2 | 177331 | [177331-snow-cones-episode-2.json](./177331-snow-cones-episode-2.json) |
 | Snow Day: The GapKids Quest | 73548 | [73548-snow-day-the-gapkids-quest.json](./73548-snow-day-the-gapkids-quest.json) |
 | Snow Drop | 71444 | [71444-snow-drop.json](./71444-snow-drop.json) |
 | Snow Eagle Lord | 120834 | [120834-snow-eagle-lord.json](./120834-snow-eagle-lord.json) |
@@ -8800,6 +8804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellmasons | 215714 | [215714-spellmasons.json](./215714-spellmasons.json) |
 | SpellMaster: The Saga | 130158 | [130158-spellmaster-the-saga.json](./130158-spellmaster-the-saga.json) |
 | Spellomancer | 335343 | [335343-spellomancer.json](./335343-spellomancer.json) |
+| Spellrazor | 177340 | [177340-spellrazor.json](./177340-spellrazor.json) |
 | Spells & Secrets | 198494 | [198494-spells-and-secrets.json](./198494-spells-and-secrets.json) |
 | Spells For Sad Goths With Shitty Parents | 176921 | [176921-spells-for-sad-goths-with-shitty-parents.json](./176921-spells-for-sad-goths-with-shitty-parents.json) |
 | Spellshaper | 213451 | [213451-spellshaper.json](./213451-spellshaper.json) |
@@ -14240,6 +14245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Cat | 87214 | [87214-sushi-cat.json](./87214-sushi-cat.json) |
 | Sushi Cat 2 | 323934 | [323934-sushi-cat-2.json](./323934-sushi-cat-2.json) |
 | Sushi Catapult | 320746 | [320746-sushi-catapult.json](./320746-sushi-catapult.json) |
+| Sushi for Robots | 177320 | [177320-sushi-for-robots.json](./177320-sushi-for-robots.json) |
 | Sushi girlfriend | 129718 | [129718-sushi-girlfriend.json](./129718-sushi-girlfriend.json) |
 | Sushi Gun | 181867 | [181867-sushi-gun.json](./181867-sushi-gun.json) |
 | Sushi Loop | 409770 | [409770-sushi-loop.json](./409770-sushi-loop.json) |
