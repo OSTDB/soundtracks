@@ -776,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies Midnight | 207771 | [207771-zombies-midnight.json](./207771-zombies-midnight.json) |
 | Zombies Overloaded | 124618 | [124618-zombies-overloaded.json](./124618-zombies-overloaded.json) |
 | Zombies Rising xXx | 274440 | [274440-zombies-rising-xxx.json](./274440-zombies-rising-xxx.json) |
+| Zombies Shall Not Pass! | 180574 | [180574-zombies-shall-not-pass.json](./180574-zombies-shall-not-pass.json) |
 | Zombies TD | 213404 | [213404-zombies-td.json](./213404-zombies-td.json) |
 | Zombies vs Chucky | 105754 | [105754-zombies-vs-chucky.json](./105754-zombies-vs-chucky.json) |
 | Zombies vs. Sheep | 67294 | [67294-zombies-vs-sheep.json](./67294-zombies-vs-sheep.json) |
