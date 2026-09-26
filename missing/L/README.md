@@ -1029,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend Of Apophyxis | 287755 | [287755-legend-of-apophyxis.json](./287755-legend-of-apophyxis.json) |
 | Legend of Asha | 390266 | [390266-legend-of-asha.json](./390266-legend-of-asha.json) |
 | Legend of Assassin: Siberia | 107830 | [107830-legend-of-assassin-siberia.json](./107830-legend-of-assassin-siberia.json) |
+| Legend of Bricks | 175176 | [175176-legend-of-bricks.json](./175176-legend-of-bricks.json) |
 | Legend of Camelot | 66939 | [66939-legend-of-camelot.json](./66939-legend-of-camelot.json) |
 | Legend of Coin | 80874 | [80874-legend-of-coin.json](./80874-legend-of-coin.json) |
 | Legend of Cozar | 334475 | [334475-legend-of-cozar.json](./334475-legend-of-cozar.json) |
@@ -2895,6 +2896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Games Bundle | 242075 | [242075-logic-games-bundle.json](./242075-logic-games-bundle.json) |
 | Logic Island | 256290 | [256290-logic-island.json](./256290-logic-island.json) |
 | Logic Mahjong Souryuu | 326087 | [326087-logic-mahjong-souryuu.json](./326087-logic-mahjong-souryuu.json) |
+| Logic Master Detective 2 | 175188 | [175188-logic-master-detective-2.json](./175188-logic-master-detective-2.json) |
 | Logic Missile | 33382 | [33382-logic-missile.json](./33382-logic-missile.json) |
 | Logic Path | 392451 | [392451-logic-path.json](./392451-logic-path.json) |
 | Logic Pic | 212273 | [212273-logic-pic.json](./212273-logic-pic.json) |
