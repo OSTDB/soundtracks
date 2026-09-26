@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nantucket: Masters of the Seven Seas | 155045 | [155045-nantucket-masters-of-the-seven-seas.json](./155045-nantucket-masters-of-the-seven-seas.json) |
 | Nanuk: The dusk of the brutes | 252401 | [252401-nanuk-the-dusk-of-the-brutes.json](./252401-nanuk-the-dusk-of-the-brutes.json) |
 | Nanuka: Secret of the Shattering Moon | 298120 | [298120-nanuka-secret-of-the-shattering-moon.json](./298120-nanuka-secret-of-the-shattering-moon.json) |
+| Nao Kalfsins | 176827 | [176827-nao-kalfsins.json](./176827-nao-kalfsins.json) |
 | Nao's Love Triangle: Hentai Puzzle 18+ | 312690 | [312690-naos-love-triangle-hentai-puzzle-18.json](./312690-naos-love-triangle-hentai-puzzle-18.json) |
 | Naoki | 326270 | [326270-naoki.json](./326270-naoki.json) |
 | Naoko to Hide-bou: Kanji no Tensai 1 - Bushu-hen, Bushu no Namae ga Tanoshii Chou Kioku-hou | 268486 | [268486-naoko-to-hide-bou-kanji-no-tensai-1-bushu-hen-bushu-no-namae-ga-tanoshii-chou-kioku-hou.json](./268486-naoko-to-hide-bou-kanji-no-tensai-1-bushu-hen-bushu-no-namae-ga-tanoshii-chou-kioku-hou.json) |
@@ -2484,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Way Out | 239677 | [239677-no-way-out.json](./239677-no-way-out.json) |
 | No Way Out | 30104 | [30104-no-way-out.json](./30104-no-way-out.json) |
 | No Wings Required | 394322 | [394322-no-wings-required.json](./394322-no-wings-required.json) |
+| No Words to Speak With | 176782 | [176782-no-words-to-speak-with.json](./176782-no-words-to-speak-with.json) |
 | No Worries | 286065 | [286065-no-worries.json](./286065-no-worries.json) |
 | No-brainer! Heroes | 134655 | [134655-no-brainer-heroes.json](./134655-no-brainer-heroes.json) |
 | No-Snake Hotel | 198375 | [198375-no-snake-hotel.json](./198375-no-snake-hotel.json) |
