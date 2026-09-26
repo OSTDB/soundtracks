@@ -16,15 +16,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Draw | 108857 | [108857-r-draw.json](./108857-r-draw.json) |
 | R-Naught | 151016 | [151016-r-naught.json](./151016-r-naught.json) |
 | R-Shark | 40254 | [40254-r-shark.json](./40254-r-shark.json) |
+| R-Type | 210582 | [210582-r-type.json](./210582-r-type.json) |
 | R-Type | 260765 | [260765-r-type.json](./260765-r-type.json) |
 | R-Type | 263373 | [263373-r-type.json](./263373-r-type.json) |
 | R-Type | 279055 | [279055-r-type.json](./279055-r-type.json) |
+| R-Type Complete CD | 210583 | [210583-r-type-complete-cd.json](./210583-r-type-complete-cd.json) |
 | R-Type Final 2: DLC Set 1 | 155065 | [155065-r-type-final-2-dlc-set-1.json](./155065-r-type-final-2-dlc-set-1.json) |
 | R-Type Final 2: DLC Set 2 | 155064 | [155064-r-type-final-2-dlc-set-2.json](./155064-r-type-final-2-dlc-set-2.json) |
 | R-Type Final 2: DLC Set 3 | 155063 | [155063-r-type-final-2-dlc-set-3.json](./155063-r-type-final-2-dlc-set-3.json) |
 | R-Type Final 2: Limited Edition | 143057 | [143057-r-type-final-2-limited-edition.json](./143057-r-type-final-2-limited-edition.json) |
 | R-Type Final 2: Limited Edition + Special Chronicle Box Set | 143058 | [143058-r-type-final-2-limited-edition-special-chronicle-box-set.json](./143058-r-type-final-2-limited-edition-special-chronicle-box-set.json) |
 | R-Type Final 3 Evolved | 225779 | [225779-r-type-final-3-evolved.json](./225779-r-type-final-3-evolved.json) |
+| R-Type I | 210579 | [210579-r-type-i.json](./210579-r-type-i.json) |
+| R-Type II | 210580 | [210580-r-type-ii.json](./210580-r-type-ii.json) |
 | R-Type II | 276500 | [276500-r-type-ii.json](./276500-r-type-ii.json) |
 | R-Type II | 279056 | [279056-r-type-ii.json](./279056-r-type-ii.json) |
 | R-Type Leo | 6855 | [6855-r-type-leo.json](./6855-r-type-leo.json) |
@@ -4574,6 +4578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Round The U-Bend | 271306 | [271306-round-the-u-bend.json](./271306-round-the-u-bend.json) |
 | Round Trip | 244280 | [244280-round-trip.json](./244280-round-trip.json) |
 | Round Up 5: Super Delta Force | 407524 | [407524-round-up-5-super-delta-force.json](./407524-round-up-5-super-delta-force.json) |
+| Roundabout 3 | 210567 | [210567-roundabout-3.json](./210567-roundabout-3.json) |
 | Rounded | 156011 | [156011-rounded.json](./156011-rounded.json) |
 | Rounded Hills | 145654 | [145654-rounded-hills.json](./145654-rounded-hills.json) |
 | Rounders | 220746 | [220746-rounders.json](./220746-rounders.json) |
@@ -4740,6 +4745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTO 3 | 106519 | [106519-rto-3.json](./106519-rto-3.json) |
 | RTS Football | 259085 | [259085-rts-football.json](./259085-rts-football.json) |
 | Ru Lin Wai Shi Fan Jin | 258455 | [258455-ru-lin-wai-shi-fan-jin.json](./258455-ru-lin-wai-shi-fan-jin.json) |
+| Ruadh: Warbands | 210606 | [210606-ruadh-warbands.json](./210606-ruadh-warbands.json) |
 | Ruarua.ru | 369558 | [369558-ruarua-ru.json](./369558-ruarua-ru.json) |
 | Rubbadubbers | 335108 | [335108-rubbadubbers.json](./335108-rubbadubbers.json) |
 | Rubber | 217272 | [217272-rubber.json](./217272-rubber.json) |
