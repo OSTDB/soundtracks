@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Platformer for Ants | 82150 | [82150-a-platformer-for-ants.json](./82150-a-platformer-for-ants.json) |
 | A Playground Afternoon | 402490 | [402490-a-playground-afternoon.json](./402490-a-playground-afternoon.json) |
 | A Pocket Full of Slagford | 404950 | [404950-a-pocket-full-of-slagford.json](./404950-a-pocket-full-of-slagford.json) |
+| A Pointless Adventure | 213346 | [213346-a-pointless-adventure.json](./213346-a-pointless-adventure.json) |
 | A Postcard From Afthonia | 252069 | [252069-a-postcard-from-afthonia.json](./252069-a-postcard-from-afthonia.json) |
 | A Potion For Chamomile | 196859 | [196859-a-potion-for-chamomile.json](./196859-a-potion-for-chamomile.json) |
 | A Prelude to Chaos | 293248 | [293248-a-prelude-to-chaos.json](./293248-a-prelude-to-chaos.json) |
@@ -4404,6 +4405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Gemini Wing | 146343 | [146343-arcade-archives-gemini-wing.json](./146343-arcade-archives-gemini-wing.json) |
 | Arcade Archives: Gradius II | 99541 | [99541-arcade-archives-gradius-ii.json](./99541-arcade-archives-gradius-ii.json) |
 | Arcade Archives: Growl | 259232 | [259232-arcade-archives-growl.json](./259232-arcade-archives-growl.json) |
+| Arcade Archives: Gun & Frontier | 213342 | [213342-arcade-archives-gun-and-frontier.json](./213342-arcade-archives-gun-and-frontier.json) |
 | Arcade Archives: GunNail | 187463 | [187463-arcade-archives-gunnail.json](./187463-arcade-archives-gunnail.json) |
 | Arcade Archives: Guttang Gottong | 271477 | [271477-arcade-archives-guttang-gottong.json](./271477-arcade-archives-guttang-gottong.json) |
 | Arcade Archives: Hacha Mecha Fighter | 151164 | [151164-arcade-archives-hacha-mecha-fighter.json](./151164-arcade-archives-hacha-mecha-fighter.json) |
@@ -4522,6 +4524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Nano Virtua Fighter 2 | 202869 | [202869-arcade-nano-virtua-fighter-2.json](./202869-arcade-nano-virtua-fighter-2.json) |
 | Arcade Pack | 399614 | [399614-arcade-pack.json](./399614-arcade-pack.json) |
 | Arcade Paradise VR | 279379 | [279379-arcade-paradise-vr.json](./279379-arcade-paradise-vr.json) |
+| Arcade Paradise: Digital Deluxe Edition | 213329 | [213329-arcade-paradise-digital-deluxe-edition.json](./213329-arcade-paradise-digital-deluxe-edition.json) |
 | Arcade Paradise: Kung Fury - Street Rage | 230798 | [230798-arcade-paradise-kung-fury-street-rage.json](./230798-arcade-paradise-kung-fury-street-rage.json) |
 | Arcade Party | 241076 | [241076-arcade-party.json](./241076-arcade-party.json) |
 | Arcade Party Pak | 92977 | [92977-arcade-party-pak.json](./92977-arcade-party-pak.json) |
