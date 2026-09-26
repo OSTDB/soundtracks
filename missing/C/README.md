@@ -2413,6 +2413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaturanga | 383617 | [383617-chaturanga.json](./383617-chaturanga.json) |
 | CHE: Guerrilla In Bolivia | 15874 | [15874-che-guerrilla-in-bolivia.json](./15874-che-guerrilla-in-bolivia.json) |
 | Cheap Game 3 | 153984 | [153984-cheap-game-3.json](./153984-cheap-game-3.json) |
+| Cheaphaven | 203247 | [203247-cheaphaven.json](./203247-cheaphaven.json) |
 | Cheapshot | 130885 | [130885-cheapshot.json](./130885-cheapshot.json) |
 | CheatCheat | 402363 | [402363-cheatcheat.json](./402363-cheatcheat.json) |
 | Cheater's Table | 391316 | [391316-cheaters-table.json](./391316-cheaters-table.json) |
