@@ -2607,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Treasure: The Great Green | 117849 | [117849-golden-treasure-the-great-green.json](./117849-golden-treasure-the-great-green.json) |
 | Goldene Zeiten | 94234 | [94234-goldene-zeiten.json](./94234-goldene-zeiten.json) |
 | GoldenEye 007 | 1647 | [1647-goldeneye-007.json](./1647-goldeneye-007.json) |
+| Goldeneye Doom2 | 196026 | [196026-goldeneye-doom2.json](./196026-goldeneye-doom2.json) |
 | GoldenEye: Rogue Agent | 146882 | [146882-goldeneye-rogue-agent.json](./146882-goldeneye-rogue-agent.json) |
 | Goldenjar Fall | 154028 | [154028-goldenjar-fall.json](./154028-goldenjar-fall.json) |
 | GoldenMiner | 253939 | [253939-goldenminer.json](./253939-goldenminer.json) |
@@ -4136,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear: Strive - Ultimate Edition 2022 | 255116 | [255116-guilty-gear-strive-ultimate-edition-2022.json](./255116-guilty-gear-strive-ultimate-edition-2022.json) |
 | Guilty Gear: Strive - Ultimate Edition Contents Kit | 255113 | [255113-guilty-gear-strive-ultimate-edition-contents-kit.json](./255113-guilty-gear-strive-ultimate-edition-contents-kit.json) |
 | Guilty Me | 254433 | [254433-guilty-me.json](./254433-guilty-me.json) |
+| Guilty Parade: Episode 3 | 196050 | [196050-guilty-parade-episode-3.json](./196050-guilty-parade-episode-3.json) |
 | Guimo | 78942 | [78942-guimo.json](./78942-guimo.json) |
 | Guinea Isles | 382304 | [382304-guinea-isles.json](./382304-guinea-isles.json) |
 | Guinea Pig Bridge! | 246928 | [246928-guinea-pig-bridge.json](./246928-guinea-pig-bridge.json) |
