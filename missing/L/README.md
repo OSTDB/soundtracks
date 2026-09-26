@@ -3142,6 +3142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lorch 2 | 270681 | [270681-lorch-2.json](./270681-lorch-2.json) |
 | Lorch 3 | 270655 | [270655-lorch-3.json](./270655-lorch-3.json) |
 | Lorch: Abducted | 270682 | [270682-lorch-abducted.json](./270682-lorch-abducted.json) |
+| Lord Ambermaze | 182271 | [182271-lord-ambermaze.json](./182271-lord-ambermaze.json) |
 | Lord and Maiden | 404869 | [404869-lord-and-maiden.json](./404869-lord-and-maiden.json) |
 | Lord BullFrog | 149941 | [149941-lord-bullfrog.json](./149941-lord-bullfrog.json) |
 | Lord Clicker | 183555 | [183555-lord-clicker.json](./183555-lord-clicker.json) |
@@ -4149,6 +4150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyra and the Echo of the Abyss | 345696 | [345696-lyra-and-the-echo-of-the-abyss.json](./345696-lyra-and-the-echo-of-the-abyss.json) |
 | Lyratha: Labyrinth - Survival Escape | 115682 | [115682-lyratha-labyrinth-survival-escape.json](./115682-lyratha-labyrinth-survival-escape.json) |
 | LyraVR | 29923 | [29923-lyravr.json](./29923-lyravr.json) |
+| Lyre | 182275 | [182275-lyre.json](./182275-lyre.json) |
 | Lyre | 377592 | [377592-lyre.json](./377592-lyre.json) |
 | Lyric Sonata | 107248 | [107248-lyric-sonata.json](./107248-lyric-sonata.json) |
 | Lyrica & Lyrica 2 Stars Align | 152914 | [152914-lyrica-and-lyrica-2-stars-align.json](./152914-lyrica-and-lyrica-2-stars-align.json) |
