@@ -943,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardpocalypse: Time Warp Edition | 154554 | [154554-cardpocalypse-time-warp-edition.json](./154554-cardpocalypse-time-warp-edition.json) |
 | Cards | 12918 | [12918-cards.json](./12918-cards.json) |
 | Cards & Crystals | 156007 | [156007-cards-and-crystals.json](./156007-cards-and-crystals.json) |
+| Cards +1 | 182850 | [182850-cards-1.json](./182850-cards-1.json) |
 | Cards and Castles | 35497 | [35497-cards-and-castles.json](./35497-cards-and-castles.json) |
 | Cards and Castles 2 | 178080 | [178080-cards-and-castles-2.json](./178080-cards-and-castles-2.json) |
 | Cards and Dungeons | 325114 | [325114-cards-and-dungeons.json](./325114-cards-and-dungeons.json) |
@@ -1285,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Crisis | 40782 | [40782-castle-crisis.json](./40782-castle-crisis.json) |
 | Castle Crumble | 235306 | [235306-castle-crumble.json](./235306-castle-crumble.json) |
 | Castle Defender | 273909 | [273909-castle-defender.json](./273909-castle-defender.json) |
+| Castle Defense | 182852 | [182852-castle-defense.json](./182852-castle-defense.json) |
 | Castle Dice | 200035 | [200035-castle-dice.json](./200035-castle-dice.json) |
 | Castle Elsinore | 146106 | [146106-castle-elsinore.json](./146106-castle-elsinore.json) |
 | Castle Evalon | 323931 | [323931-castle-evalon.json](./323931-castle-evalon.json) |
@@ -1353,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Torgeath: Descent into Darkness | 26590 | [26590-castle-torgeath-descent-into-darkness.json](./26590-castle-torgeath-descent-into-darkness.json) |
 | Castle Travel | 364563 | [364563-castle-travel.json](./364563-castle-travel.json) |
 | Castle V Castle | 331947 | [331947-castle-v-castle.json](./331947-castle-v-castle.json) |
+| Castle Watch VR | 182818 | [182818-castle-watch-vr.json](./182818-castle-watch-vr.json) |
 | Castle Werewolf | 29609 | [29609-castle-werewolf.json](./29609-castle-werewolf.json) |
 | Castle Woodwarf 2 | 118612 | [118612-castle-woodwarf-2.json](./118612-castle-woodwarf-2.json) |
 | Castle Wreck | 373638 | [373638-castle-wreck.json](./373638-castle-wreck.json) |
