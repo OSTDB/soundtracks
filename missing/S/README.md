@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacabambaspis' Friendly Adventure | 319012 | [319012-sacabambaspis-friendly-adventure.json](./319012-sacabambaspis-friendly-adventure.json) |
 | Saccharine Pale | 239646 | [239646-saccharine-pale.json](./239646-saccharine-pale.json) |
 | Saccharine Playground | 133436 | [133436-saccharine-playground.json](./133436-saccharine-playground.json) |
+| Sachin Saga Cricket Champions | 202685 | [202685-sachin-saga-cricket-champions.json](./202685-sachin-saga-cricket-champions.json) |
 | Saci: The Cursed Hunt | 330329 | [330329-saci-the-cursed-hunt.json](./330329-saci-the-cursed-hunt.json) |
 | Sack of Bots | 119040 | [119040-sack-of-bots.json](./119040-sack-of-bots.json) |
 | Sack of Flour, Heart of Gold | 404415 | [404415-sack-of-flour-heart-of-gold.json](./404415-sack-of-flour-heart-of-gold.json) |
@@ -2629,6 +2630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SGS Battle For: Dien Bien Phu | 298119 | [298119-sgs-battle-for-dien-bien-phu.json](./298119-sgs-battle-for-dien-bien-phu.json) |
 | SGS Battle For: Stalingrad | 244900 | [244900-sgs-battle-for-stalingrad.json](./244900-sgs-battle-for-stalingrad.json) |
 | SGS Fall Weiss | 197271 | [197271-sgs-fall-weiss.json](./197271-sgs-fall-weiss.json) |
+| SGS Korean War | 202653 | [202653-sgs-korean-war.json](./202653-sgs-korean-war.json) |
 | SGS Pacific D-Day | 197415 | [197415-sgs-pacific-d-day.json](./197415-sgs-pacific-d-day.json) |
 | SGS Taipings | 230923 | [230923-sgs-taipings.json](./230923-sgs-taipings.json) |
 | SGS We The People | 388972 | [388972-sgs-we-the-people.json](./388972-sgs-we-the-people.json) |
@@ -2917,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaiya | 85841 | [85841-shaiya.json](./85841-shaiya.json) |
 | Shake | 383508 | [383508-shake.json](./383508-shake.json) |
 | Shake | 399840 | [399840-shake.json](./399840-shake.json) |
+| Shake Ground | 202659 | [202659-shake-ground.json](./202659-shake-ground.json) |
 | Shake Kids | 108959 | [108959-shake-kids.json](./108959-shake-kids.json) |
 | Shake the Baby! | 337068 | [337068-shake-the-baby.json](./337068-shake-the-baby.json) |
 | Shakes and Fidget Remastered | 112346 | [112346-shakes-and-fidget-remastered.json](./112346-shakes-and-fidget-remastered.json) |
@@ -4516,6 +4519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Series Vol. 3: The Mahjong | 82132 | [82132-simple-series-vol-3-the-mahjong.json](./82132-simple-series-vol-3-the-mahjong.json) |
 | Simple Series Vol. 4: The Misshitsu kara no Dasshutsu | 409006 | [409006-simple-series-vol-4-the-misshitsu-kara-no-dasshutsu.json](./409006-simple-series-vol-4-the-misshitsu-kara-no-dasshutsu.json) |
 | Simple Series Vol. 5: The Judo | 409012 | [409012-simple-series-vol-5-the-judo.json](./409012-simple-series-vol-5-the-judo.json) |
+| Simple Simulation | 202663 | [202663-simple-simulation.json](./202663-simple-simulation.json) |
 | Simple Snooker | 264617 | [264617-simple-snooker.json](./264617-simple-snooker.json) |
 | Simple Solitaire | 264616 | [264616-simple-solitaire.json](./264616-simple-solitaire.json) |
 | Simple Story: Alex | 90395 | [90395-simple-story-alex.json](./90395-simple-story-alex.json) |
@@ -5441,6 +5445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Coming | 301812 | [301812-slime-coming.json](./301812-slime-coming.json) |
 | Slime Cores | 298056 | [298056-slime-cores.json](./298056-slime-cores.json) |
 | Slime Crunch | 114828 | [114828-slime-crunch.json](./114828-slime-crunch.json) |
+| Slime Dungeon | 202656 | [202656-slime-dungeon.json](./202656-slime-dungeon.json) |
 | Slime Dungeon Escape | 161389 | [161389-slime-dungeon-escape.json](./161389-slime-dungeon-escape.json) |
 | Slime Escape | 192390 | [192390-slime-escape.json](./192390-slime-escape.json) |
 | Slime Evolution | 235464 | [235464-slime-evolution.json](./235464-slime-evolution.json) |
@@ -8575,6 +8580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellarium 11 | 311594 | [311594-spellarium-11.json](./311594-spellarium-11.json) |
 | Spellarium 2 | 298089 | [298089-spellarium-2.json](./298089-spellarium-2.json) |
 | Spellarium 4 | 293703 | [293703-spellarium-4.json](./293703-spellarium-4.json) |
+| Spellarium 8 Match 3 Puzzle | 202665 | [202665-spellarium-8-match-3-puzzle.json](./202665-spellarium-8-match-3-puzzle.json) |
 | Spellbind | 18183 | [18183-spellbind.json](./18183-spellbind.json) |
 | Spellbind | 35646 | [35646-spellbind.json](./35646-spellbind.json) |
 | Spellbinder: The Nexus Conflict | 62208 | [62208-spellbinder-the-nexus-conflict.json](./62208-spellbinder-the-nexus-conflict.json) |
@@ -9356,6 +9362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad Battles: Vietnam | 70966 | [70966-squad-battles-vietnam.json](./70966-squad-battles-vietnam.json) |
 | Squad Busters vs Zombies | 237637 | [237637-squad-busters-vs-zombies.json](./237637-squad-busters-vs-zombies.json) |
 | Squad Conflicts | 174906 | [174906-squad-conflicts.json](./174906-squad-conflicts.json) |
+| SquadBlast | 202686 | [202686-squadblast.json](./202686-squadblast.json) |
 | Squadika | 401693 | [401693-squadika.json](./401693-squadika.json) |
 | Squally | 111118 | [111118-squally.json](./111118-squally.json) |
 | Squarcat | 124056 | [124056-squarcat.json](./124056-squarcat.json) |
