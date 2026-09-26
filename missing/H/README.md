@@ -807,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HaremRoid VR | 279668 | [279668-haremroid-vr.json](./279668-haremroid-vr.json) |
 | Hareshi Moyakana | 274989 | [274989-hareshi-moyakana.json](./274989-hareshi-moyakana.json) |
 | Hariti | 406882 | [406882-hariti.json](./406882-hariti.json) |
+| Harlem Blade: The Greatest of All Time | 187208 | [187208-harlem-blade-the-greatest-of-all-time.json](./187208-harlem-blade-the-greatest-of-all-time.json) |
 | HarleQuest! | 246111 | [246111-harlequest.json](./246111-harlequest.json) |
 | Harley Davidson: Race Across America | 49926 | [49926-harley-davidson-race-across-america.json](./49926-harley-davidson-race-across-america.json) |
 | Harley Pasternak's Hollywood Workout | 50963 | [50963-harley-pasternaks-hollywood-workout.json](./50963-harley-pasternaks-hollywood-workout.json) |
