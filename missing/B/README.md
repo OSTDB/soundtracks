@@ -3485,6 +3485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bizzare | 212757 | [212757-bizzare.json](./212757-bizzare.json) |
 | Bizzarioware | 185148 | [185148-bizzarioware.json](./185148-bizzarioware.json) |
 | Bizzy Robo | 259030 | [259030-bizzy-robo.json](./259030-bizzy-robo.json) |
+| BJ's Bara Jam Kitchen | 183889 | [183889-bjs-bara-jam-kitchen.json](./183889-bjs-bara-jam-kitchen.json) |
 | Björnes Magasin | 92829 | [92829-bjornes-magasin.json](./92829-bjornes-magasin.json) |
 | BK: OSRS | 313105 | [313105-bk-osrs.json](./313105-bk-osrs.json) |
 | BL Werewolf:Doki-Doki Summer vacation | 373633 | [373633-bl-werewolf-doki-doki-summer-vacation.json](./373633-bl-werewolf-doki-doki-summer-vacation.json) |
@@ -4212,6 +4213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockbuster World Video Game Championship II | 210600 | [210600-blockbuster-world-video-game-championship-ii.json](./210600-blockbuster-world-video-game-championship-ii.json) |
 | Blockchain Brawlers | 225754 | [225754-blockchain-brawlers.json](./225754-blockchain-brawlers.json) |
 | Blockdown | 157204 | [157204-blockdown.json](./157204-blockdown.json) |
+| Blocked Up | 183897 | [183897-blocked-up.json](./183897-blocked-up.json) |
 | Blocked Zona | 200565 | [200565-blocked-zona.json](./200565-blocked-zona.json) |
 | Blocker Survive | 75849 | [75849-blocker-survive.json](./75849-blocker-survive.json) |
 | Blocker.io | 194036 | [194036-blocker-io.json](./194036-blocker-io.json) |
