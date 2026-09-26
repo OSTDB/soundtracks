@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden Cats: Playground | 330560 | [330560-100-hidden-cats-playground.json](./330560-100-hidden-cats-playground.json) |
 | 100 Hidden Cthulhu Fish | 301975 | [301975-100-hidden-cthulhu-fish.json](./301975-100-hidden-cthulhu-fish.json) |
 | 100 Hidden Cthulhu Fish 2 | 308932 | [308932-100-hidden-cthulhu-fish-2.json](./308932-100-hidden-cthulhu-fish-2.json) |
+| 100 Hidden Fish | 187205 | [187205-100-hidden-fish.json](./187205-100-hidden-fish.json) |
 | 100 Hidden Frogs | 186155 | [186155-100-hidden-frogs.json](./186155-100-hidden-frogs.json) |
 | 100 Hiddensaurs: Greece | 318394 | [318394-100-hiddensaurs-greece.json](./318394-100-hiddensaurs-greece.json) |
 | 100 Hong Kong Cats | 351681 | [351681-100-hong-kong-cats.json](./351681-100-hong-kong-cats.json) |
