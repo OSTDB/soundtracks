@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hai-Shin 2 | 290992 | [290992-hai-shin-2.json](./290992-hai-shin-2.json) |
 | Hǎidǐ Xúnbǎo | 110136 | [110136-haidi-xunbao.json](./110136-haidi-xunbao.json) |
 | Haiki | 141134 | [141134-haiki.json](./141134-haiki.json) |
+| Haikyuu!! Donpisha Match!! | 196599 | [196599-haikyuu-donpisha-match.json](./196599-haikyuu-donpisha-match.json) |
 | Hail Britannia | 340408 | [340408-hail-britannia.json](./340408-hail-britannia.json) |
 | Hail to the Chimp | 7005 | [7005-hail-to-the-chimp.json](./7005-hail-to-the-chimp.json) |
 | Hailborn: UFO Stole My Egg! | 337292 | [337292-hailborn-ufo-stole-my-egg.json](./337292-hailborn-ufo-stole-my-egg.json) |
