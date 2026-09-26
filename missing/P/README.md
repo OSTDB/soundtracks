@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Laby 3D | 266250 | [266250-pac-laby-3d.json](./266250-pac-laby-3d.json) |
 | Pac-Land | 6822 | [6822-pac-land.json](./6822-pac-land.json) |
 | Pac-Maine | 79229 | [79229-pac-maine.json](./79229-pac-maine.json) |
+| Pac-Man | 204387 | [204387-pac-man.json](./204387-pac-man.json) |
 | Pac-Man | 213899 | [213899-pac-man.json](./213899-pac-man.json) |
 | Pac-Man | 213900 | [213900-pac-man.json](./213900-pac-man.json) |
 | Pac-Man | 213901 | [213901-pac-man.json](./213901-pac-man.json) |
@@ -518,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Invaders | 70957 | [70957-panic-invaders.json](./70957-panic-invaders.json) |
 | Panic Lane | 247767 | [247767-panic-lane.json](./247767-panic-lane.json) |
 | Panic Mansion | 26726 | [26726-panic-mansion.json](./26726-panic-mansion.json) |
+| Panic Palette Portable | 204391 | [204391-panic-palette-portable.json](./204391-panic-palette-portable.json) |
 | Panic Party | 134631 | [134631-panic-party.json](./134631-panic-party.json) |
 | Panic Protocol | 390769 | [390769-panic-protocol.json](./390769-panic-protocol.json) |
 | Panic Road | 268003 | [268003-panic-road.json](./268003-panic-road.json) |
