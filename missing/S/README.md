@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari Zone | 158564 | [158564-safari-zone.json](./158564-safari-zone.json) |
 | Safari: I-Evolution | 239635 | [239635-safari-i-evolution.json](./239635-safari-i-evolution.json) |
 | Safe Cracker | 340547 | [340547-safe-cracker.json](./340547-safe-cracker.json) |
+| Safe Harbor | 181131 | [181131-safe-harbor.json](./181131-safe-harbor.json) |
 | Safe House | 392132 | [392132-safe-house.json](./392132-safe-house.json) |
 | Safe Journey | 175941 | [175941-safe-journey.json](./175941-safe-journey.json) |
 | Safe Robber | 256283 | [256283-safe-robber.json](./256283-safe-robber.json) |
@@ -257,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sail Simulator 4 | 143740 | [143740-sail-simulator-4.json](./143740-sail-simulator-4.json) |
 | Sail Simulator 5 | 63818 | [63818-sail-simulator-5.json](./63818-sail-simulator-5.json) |
 | Sailaway | 28200 | [28200-sailaway.json](./28200-sailaway.json) |
+| Sailboat Explorer | 181121 | [181121-sailboat-explorer.json](./181121-sailboat-explorer.json) |
 | SailCraft | 233109 | [233109-sailcraft.json](./233109-sailcraft.json) |
 | SailCraft GO | 232388 | [232388-sailcraft-go.json](./232388-sailcraft-go.json) |
 | SailFront | 370886 | [370886-sailfront.json](./370886-sailfront.json) |
@@ -652,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand Castles | 161387 | [161387-sand-castles.json](./161387-sand-castles.json) |
 | Sand In a Box | 306434 | [306434-sand-in-a-box.json](./306434-sand-in-a-box.json) |
 | Sand Legends | 335078 | [335078-sand-legends.json](./335078-sand-legends.json) |
+| Sand Pirates | 181129 | [181129-sand-pirates.json](./181129-sand-pirates.json) |
 | Sand Scorpion | 40184 | [40184-sand-scorpion.json](./40184-sand-scorpion.json) |
 | Sand Seeker | 390504 | [390504-sand-seeker.json](./390504-sand-seeker.json) |
 | Sand Storm | 81422 | [81422-sand-storm.json](./81422-sand-storm.json) |
@@ -1272,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Tycoon | 9203 | [9203-school-tycoon.json](./9203-school-tycoon.json) |
 | School Years | 132045 | [132045-school-years.json](./132045-school-years.json) |
 | School: The Hardest RPG in Your Life | 263765 | [263765-school-the-hardest-rpg-in-your-life.json](./263765-school-the-hardest-rpg-in-your-life.json) |
+| School! Love Reflex | 181118 | [181118-school-love-reflex.json](./181118-school-love-reflex.json) |
 | Schoolboy Escape | 336376 | [336376-schoolboy-escape.json](./336376-schoolboy-escape.json) |
 | SchoolBoy Horror | 395667 | [395667-schoolboy-horror.json](./395667-schoolboy-horror.json) |
 | SchoolBoy Simulator | 335077 | [335077-schoolboy-simulator.json](./335077-schoolboy-simulator.json) |
@@ -1925,6 +1929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of the Lost Tomb | 165626 | [165626-secrets-of-the-lost-tomb.json](./165626-secrets-of-the-lost-tomb.json) |
 | Secrets of the Middle Ages | 165660 | [165660-secrets-of-the-middle-ages.json](./165660-secrets-of-the-middle-ages.json) |
 | Secrets of the Temple | 193416 | [193416-secrets-of-the-temple.json](./193416-secrets-of-the-temple.json) |
+| Secrets of the Waves | 181142 | [181142-secrets-of-the-waves.json](./181142-secrets-of-the-waves.json) |
 | Secrets of the Witch House | 240758 | [240758-secrets-of-the-witch-house.json](./240758-secrets-of-the-witch-house.json) |
 | Secrets of Tibet | 54354 | [54354-secrets-of-tibet.json](./54354-secrets-of-tibet.json) |
 | Secrets of Velendar Castle: Escape Room | 391066 | [391066-secrets-of-velendar-castle-escape-room.json](./391066-secrets-of-velendar-castle-escape-room.json) |
@@ -1940,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector 40: The Soviet Legacy | 133228 | [133228-sector-40-the-soviet-legacy.json](./133228-sector-40-the-soviet-legacy.json) |
 | Sector 666 | 308256 | [308256-sector-666.json](./308256-sector-666.json) |
 | Sector 724 | 76967 | [76967-sector-724.json](./76967-sector-724.json) |
+| Sector 82 | 181149 | [181149-sector-82.json](./181149-sector-82.json) |
 | Sector a Training Facilitea | 253029 | [253029-sector-a-training-facilitea.json](./253029-sector-a-training-facilitea.json) |
 | Sector Alpha | 183518 | [183518-sector-alpha.json](./183518-sector-alpha.json) |
 | Sector Alpha | 301339 | [301339-sector-alpha.json](./301339-sector-alpha.json) |
@@ -5318,6 +5324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slash and Fuck | 82893 | [82893-slash-and-fuck.json](./82893-slash-and-fuck.json) |
 | Slash Arena: Online | 51943 | [51943-slash-arena-online.json](./51943-slash-arena-online.json) |
 | Slash It Ultimate | 44285 | [44285-slash-it-ultimate.json](./44285-slash-it-ultimate.json) |
+| Slash Mr. M | 181152 | [181152-slash-mr-m.json](./181152-slash-mr-m.json) |
 | Slash of Bullet | 151675 | [151675-slash-of-bullet.json](./151675-slash-of-bullet.json) |
 | Slash of Sword 2 | 254157 | [254157-slash-of-sword-2.json](./254157-slash-of-sword-2.json) |
 | Slash Them All | 239626 | [239626-slash-them-all.json](./239626-slash-them-all.json) |
@@ -8844,6 +8851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Derby | 120370 | [120370-spider-derby.json](./120370-spider-derby.json) |
 | Spider Fear | 130914 | [130914-spider-fear.json](./130914-spider-fear.json) |
 | Spider Fighter | 18530 | [18530-spider-fighter.json](./18530-spider-fighter.json) |
+| Spider Fire | 181117 | [181117-spider-fire.json](./181117-spider-fire.json) |
 | Spider Fox | 254558 | [254558-spider-fox.json](./254558-spider-fox.json) |
 | Spider Inferno | 285460 | [285460-spider-inferno.json](./285460-spider-inferno.json) |
 | Spider Jack | 65478 | [65478-spider-jack.json](./65478-spider-jack.json) |
@@ -13427,6 +13435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pump | 369215 | [369215-super-pump.json](./369215-super-pump.json) |
 | Super Punch | 147959 | [147959-super-punch.json](./147959-super-punch.json) |
 | Super Punch-Out!! | 9152 | [9152-super-punch-out.json](./9152-super-punch-out.json) |
+| Super Punchy Face | 181116 | [181116-super-punchy-face.json](./181116-super-punchy-face.json) |
 | Super Putty | 39039 | [39039-super-putty.json](./39039-super-putty.json) |
 | Super Puyo Puyo Tsuu Remix | 42544 | [42544-super-puyo-puyo-tsuu-remix.json](./42544-super-puyo-puyo-tsuu-remix.json) |
 | Super Puzzle Blasters | 312689 | [312689-super-puzzle-blasters.json](./312689-super-puzzle-blasters.json) |
@@ -14377,6 +14386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Dream | 172106 | [172106-sweet-dream.json](./172106-sweet-dream.json) |
 | Sweet Dreams Alex | 157545 | [157545-sweet-dreams-alex.json](./157545-sweet-dreams-alex.json) |
 | Sweet Dreams Alex: Full Moon Edition | 273931 | [273931-sweet-dreams-alex-full-moon-edition.json](./273931-sweet-dreams-alex-full-moon-edition.json) |
+| Sweet Dreams Bear | 181151 | [181151-sweet-dreams-bear.json](./181151-sweet-dreams-bear.json) |
 | Sweet Dreams on Christmas Eve | 334697 | [334697-sweet-dreams-on-christmas-eve.json](./334697-sweet-dreams-on-christmas-eve.json) |
 | Sweet Driver | 372484 | [372484-sweet-driver.json](./372484-sweet-driver.json) |
 | Sweet Ex | 392906 | [392906-sweet-ex.json](./392906-sweet-ex.json) |
@@ -14731,6 +14741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphony | 7401 | [7401-symphony.json](./7401-symphony.json) |
 | Symphony of Science | 271850 | [271850-symphony-of-science.json](./271850-symphony-of-science.json) |
 | Symphony of Souls | 253573 | [253573-symphony-of-souls.json](./253573-symphony-of-souls.json) |
+| Symphony of the Night | 181156 | [181156-symphony-of-the-night.json](./181156-symphony-of-the-night.json) |
 | Symphony of War: Legends | 252370 | [252370-symphony-of-war-legends.json](./252370-symphony-of-war-legends.json) |
 | Symphony of War: The Nephilim Saga | 192840 | [192840-symphony-of-war-the-nephilim-saga.json](./192840-symphony-of-war-the-nephilim-saga.json) |
 | Symphorix | 333400 | [333400-symphorix.json](./333400-symphorix.json) |
