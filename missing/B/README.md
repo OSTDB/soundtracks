@@ -4845,6 +4845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bogart | 243947 | [243947-bogart.json](./243947-bogart.json) |
 | Bogart 2: Return of Bogart | 243949 | [243949-bogart-2-return-of-bogart.json](./243949-bogart-2-return-of-bogart.json) |
 | Bogdanoff vs. Wojak Simulator | 182358 | [182358-bogdanoff-vs-wojak-simulator.json](./182358-bogdanoff-vs-wojak-simulator.json) |
+| Bogey Blows Golf Simulator | 181677 | [181677-bogey-blows-golf-simulator.json](./181677-bogey-blows-golf-simulator.json) |
 | Bogey Dead 6 | 20590 | [20590-bogey-dead-6.json](./20590-bogey-dead-6.json) |
 | Boggle | 206463 | [206463-boggle.json](./206463-boggle.json) |
 | Boggle | 282633 | [282633-boggle.json](./282633-boggle.json) |
@@ -6890,6 +6891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bump Bump Bump | 95182 | [95182-bump-bump-bump.json](./95182-bump-bump-bump.json) |
 | Bump Jump | 210670 | [210670-bump-jump.json](./210670-bump-jump.json) |
 | Bump.io: Arena of Bumper | 106960 | [106960-bump-io-arena-of-bumper.json](./106960-bump-io-arena-of-bumper.json) |
+| Bumparound | 181673 | [181673-bumparound.json](./181673-bumparound.json) |
 | Bumper | 31845 | [31845-bumper.json](./31845-bumper.json) |
 | Bumper 7 | 319574 | [319574-bumper-7.json](./319574-bumper-7.json) |
 | Bumper Ball Bash | 276229 | [276229-bumper-ball-bash.json](./276229-bumper-ball-bash.json) |
