@@ -3287,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eyEar | 181390 | [181390-eyear.json](./181390-eyear.json) |
 | Eyeb | 149044 | [149044-eyeb.json](./149044-eyeb.json) |
 | Eyeball Master | 195272 | [195272-eyeball-master.json](./195272-eyeball-master.json) |
+| Eyeball-watching flowers bloom | 186019 | [186019-eyeball-watching-flowers-bloom.json](./186019-eyeball-watching-flowers-bloom.json) |
 | Eyeballs are your Enemies! | 166603 | [166603-eyeballs-are-your-enemies.json](./166603-eyeballs-are-your-enemies.json) |
 | Eyeboss | 181906 | [181906-eyeboss.json](./181906-eyeboss.json) |
 | Eyeless | 269310 | [269310-eyeless.json](./269310-eyeless.json) |
