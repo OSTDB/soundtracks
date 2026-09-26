@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO Enemy Known | 310768 | [310768-ufo-enemy-known.json](./310768-ufo-enemy-known.json) |
 | UFO Hunter | 97156 | [97156-ufo-hunter.json](./97156-ufo-hunter.json) |
 | UFO Joe | 263475 | [263475-ufo-joe.json](./263475-ufo-joe.json) |
+| UFO No! | 180046 | [180046-ufo-no.json](./180046-ufo-no.json) |
 | UFO on Tape: First Contact | 117010 | [117010-ufo-on-tape-first-contact.json](./117010-ufo-on-tape-first-contact.json) |
 | UFO Ride | 294725 | [294725-ufo-ride.json](./294725-ufo-ride.json) |
 | UFO Slide Racing | 265744 | [265744-ufo-slide-racing.json](./265744-ufo-slide-racing.json) |
@@ -674,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Island | 151501 | [151501-under-the-island.json](./151501-under-the-island.json) |
 | Under the Moon: Tsukiiro Ehon | 72682 | [72682-under-the-moon-tsukiiro-ehon.json](./72682-under-the-moon-tsukiiro-ehon.json) |
 | Under the Ocean | 50821 | [50821-under-the-ocean.json](./50821-under-the-ocean.json) |
+| Under the Rain | 180043 | [180043-under-the-rain.json](./180043-under-the-rain.json) |
 | Under the Rainbow: Prologue | 129010 | [129010-under-the-rainbow-prologue.json](./129010-under-the-rainbow-prologue.json) |
 | Under the Sand | 117364 | [117364-under-the-sand.json](./117364-under-the-sand.json) |
 | Under the Sea: Swim | 233740 | [233740-under-the-sea-swim.json](./233740-under-the-sea-swim.json) |
