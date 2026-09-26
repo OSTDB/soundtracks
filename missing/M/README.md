@@ -1475,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario 64 x Banjo Kazooie | 134018 | [134018-mario-64-x-banjo-kazooie.json](./134018-mario-64-x-banjo-kazooie.json) |
 | Mario 7-in-1 | 242230 | [242230-mario-7-in-1.json](./242230-mario-7-in-1.json) |
 | Mario a Plumber in Time Re-Mastered | 294773 | [294773-mario-a-plumber-in-time-re-mastered.json](./294773-mario-a-plumber-in-time-re-mastered.json) |
+| Mario Adventure | 182211 | [182211-mario-adventure.json](./182211-mario-adventure.json) |
 | Mario and Donkey Kong: Minis on the Move + Mario vs. Donkey Kong: Minis March Again! | 60579 | [60579-mario-and-donkey-kong-minis-on-the-move-mario-vs-donkey-kong-minis-march-again.json](./60579-mario-and-donkey-kong-minis-on-the-move-mario-vs-donkey-kong-minis-march-again.json) |
 | Mario and Donkey Kong's Lost Island | 323186 | [323186-mario-and-donkey-kongs-lost-island.json](./323186-mario-and-donkey-kongs-lost-island.json) |
 | Mario Andretti Racing | 20593 | [20593-mario-andretti-racing.json](./20593-mario-andretti-racing.json) |
@@ -5742,6 +5743,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Battle Fortress | 336111 | [336111-mobile-suit-gundam-battle-fortress.json](./336111-mobile-suit-gundam-battle-fortress.json) |
 | Mobile Suit Gundam: Battle Operation | 44580 | [44580-mobile-suit-gundam-battle-operation.json](./44580-mobile-suit-gundam-battle-operation.json) |
 | Mobile Suit Gundam: Battle Operation Code Fairy | 178045 | [178045-mobile-suit-gundam-battle-operation-code-fairy.json](./178045-mobile-suit-gundam-battle-operation-code-fairy.json) |
+| Mobile Suit Gundam: Battle Operation Code Fairy - Vol. 2 | 182243 | [182243-mobile-suit-gundam-battle-operation-code-fairy-vol-2.json](./182243-mobile-suit-gundam-battle-operation-code-fairy-vol-2.json) |
+| Mobile Suit Gundam: Battle Operation Code Fairy - Vol. 3 | 182244 | [182244-mobile-suit-gundam-battle-operation-code-fairy-vol-3.json](./182244-mobile-suit-gundam-battle-operation-code-fairy-vol-3.json) |
 | Mobile Suit Gundam: Climax U.C. | 68012 | [68012-mobile-suit-gundam-climax-u-c.json](./68012-mobile-suit-gundam-climax-u-c.json) |
 | Mobile Suit Gundam: Desert Operation | 242522 | [242522-mobile-suit-gundam-desert-operation.json](./242522-mobile-suit-gundam-desert-operation.json) |
 | Mobile Suit Gundam: Extreme Versus 2 - Infinite Boost | 355089 | [355089-mobile-suit-gundam-extreme-versus-2-infinite-boost.json](./355089-mobile-suit-gundam-extreme-versus-2-infinite-boost.json) |
