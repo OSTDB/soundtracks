@@ -4836,6 +4836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Folding Simulator | 350436 | [350436-frog-folding-simulator.json](./350436-frog-folding-simulator.json) |
 | Frog Fractions | 18723 | [18723-frog-fractions.json](./18723-frog-fractions.json) |
 | Frog Frenzy | 87707 | [87707-frog-frenzy.json](./87707-frog-frenzy.json) |
+| Frog Golf | 202694 | [202694-frog-golf.json](./202694-frog-golf.json) |
 | Frog in the Fog | 393630 | [393630-frog-in-the-fog.json](./393630-frog-in-the-fog.json) |
 | Frog Jump | 273912 | [273912-frog-jump.json](./273912-frog-jump.json) |
 | Frog King | 181219 | [181219-frog-king.json](./181219-frog-king.json) |
