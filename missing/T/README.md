@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales From The Under-Realm: After Midnight | 301004 | [301004-tales-from-the-under-realm-after-midnight.json](./301004-tales-from-the-under-realm-after-midnight.json) |
 | Tales From The Under-Realm: Hazel | 298566 | [298566-tales-from-the-under-realm-hazel.json](./298566-tales-from-the-under-realm-hazel.json) |
 | Tales From Windy Meadow | 55114 | [55114-tales-from-windy-meadow.json](./55114-tales-from-windy-meadow.json) |
+| Tales Noir | 196591 | [196591-tales-noir.json](./196591-tales-noir.json) |
 | Tales of (Working Title) | 131550 | [131550-tales-of-working-title.json](./131550-tales-of-working-title.json) |
 | Tales of a Turnabout | 318795 | [318795-tales-of-a-turnabout.json](./318795-tales-of-a-turnabout.json) |
 | Tales of a Viking: Episode One | 233086 | [233086-tales-of-a-viking-episode-one.json](./233086-tales-of-a-viking-episode-one.json) |
@@ -754,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamarak Trail | 240982 | [240982-tamarak-trail.json](./240982-tamarak-trail.json) |
 | Tamas: Shadowveil | 410963 | [410963-tamas-shadowveil.json](./410963-tamas-shadowveil.json) |
 | Tamashi Party | 196673 | [196673-tamashi-party.json](./196673-tamashi-party.json) |
+| Tamashi: Rise of Yokai | 196586 | [196586-tamashi-rise-of-yokai.json](./196586-tamashi-rise-of-yokai.json) |
 | TamaTown Tama-Go | 229958 | [229958-tamatown-tama-go.json](./229958-tamatown-tama-go.json) |
 | Tamaweb | 383530 | [383530-tamaweb.json](./383530-tamaweb.json) |
 | Tamaya | 55113 | [55113-tamaya.json](./55113-tamaya.json) |
@@ -7018,6 +7020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sueño | 86088 | [86088-the-sueno.json](./86088-the-sueno.json) |
 | The Suicide Forest | 133428 | [133428-the-suicide-forest.json](./133428-the-suicide-forest.json) |
 | The Suicide Game | 179075 | [179075-the-suicide-game.json](./179075-the-suicide-game.json) |
+| The Suitcase | 196559 | [196559-the-suitcase.json](./196559-the-suitcase.json) |
 | The Suite Life of Zack & Cody: Tipton Trouble | 72115 | [72115-the-suite-life-of-zack-and-cody-tipton-trouble.json](./72115-the-suite-life-of-zack-and-cody-tipton-trouble.json) |
 | The Sullen Boku Girls Alliance | 225634 | [225634-the-sullen-boku-girls-alliance.json](./225634-the-sullen-boku-girls-alliance.json) |
 | The Sum of All Fears | 1863 | [1863-the-sum-of-all-fears.json](./1863-the-sum-of-all-fears.json) |
