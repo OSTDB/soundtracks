@@ -1431,6 +1431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear Of The Dark | 308244 | [308244-fear-of-the-dark.json](./308244-fear-of-the-dark.json) |
 | Fear or Evil: Nightmare Horror Scary Game Phobia 2023 Simulator Hunter Games | 241401 | [241401-fear-or-evil-nightmare-horror-scary-game-phobia-2023-simulator-hunter-games.json](./241401-fear-or-evil-nightmare-horror-scary-game-phobia-2023-simulator-hunter-games.json) |
 | Fear surrounds | 143693 | [143693-fear-surrounds.json](./143693-fear-surrounds.json) |
+| Fear Survival | 174650 | [174650-fear-survival.json](./174650-fear-survival.json) |
 | Fear Tall Grass | 399074 | [399074-fear-tall-grass.json](./399074-fear-tall-grass.json) |
 | Fear the Dark Unknown: Chloe | 132250 | [132250-fear-the-dark-unknown-chloe.json](./132250-fear-the-dark-unknown-chloe.json) |
 | Fear the Dark Unknown: James | 159722 | [159722-fear-the-dark-unknown-james.json](./159722-fear-the-dark-unknown-james.json) |
