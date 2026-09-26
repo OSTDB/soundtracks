@@ -2681,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WizardWare | 400983 | [400983-wizardware.json](./400983-wizardware.json) |
 | Wizavior | 255392 | [255392-wizavior.json](./255392-wizavior.json) |
 | WizBall | 415127 | [415127-wizball.json](./415127-wizball.json) |
+| Wizcave | 211683 | [211683-wizcave.json](./211683-wizcave.json) |
 | Wizdom | 85500 | [85500-wizdom.json](./85500-wizdom.json) |
 | Wizlite: Everybody loved RPGs | 304013 | [304013-wizlite-everybody-loved-rpgs.json](./304013-wizlite-everybody-loved-rpgs.json) |
 | WiZmans World | 67669 | [67669-wizmans-world.json](./67669-wizmans-world.json) |
