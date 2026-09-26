@@ -1164,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unstable | 191248 | [191248-unstable.json](./191248-unstable.json) |
 | Unstable | 28858 | [28858-unstable.json](./28858-unstable.json) |
 | Unstable Blocks | 303224 | [303224-unstable-blocks.json](./303224-unstable-blocks.json) |
+| Unstable Rock | 213320 | [213320-unstable-rock.json](./213320-unstable-rock.json) |
 | Unstable Star | 338583 | [338583-unstable-star.json](./338583-unstable-star.json) |
 | Unstable Tower | 361746 | [361746-unstable-tower.json](./361746-unstable-tower.json) |
 | Unstack | 166175 | [166175-unstack.json](./166175-unstack.json) |
