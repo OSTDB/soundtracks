@@ -1175,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Àrengard: Invasion | 228081 | [228081-arengard-invasion.json](./228081-arengard-invasion.json) |
 | Āsh | 408828 | [408828-ash.json](./408828-ash.json) |
 | Édgimon | 287729 | [287729-edgimon.json](./287729-edgimon.json) |
+| Élan | 203825 | [203825-elan.json](./203825-elan.json) |
 | ​Gooseball Playdate: Plus Slingshot / Spars | 271699 | [271699-gooseball-playdate-plus-slingshot-spars.json](./271699-gooseball-playdate-plus-slingshot-spars.json) |
 | Łowca Głów | 98944 | [98944-owca-g-ow.json](./98944-owca-g-ow.json) |
 | Ñamto | 379383 | [379383-namto.json](./379383-namto.json) |
