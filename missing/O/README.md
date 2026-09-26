@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Ash and Steel | 322389 | [322389-of-ash-and-steel.json](./322389-of-ash-and-steel.json) |
 | Of Blood and Descent | 317601 | [317601-of-blood-and-descent.json](./317601-of-blood-and-descent.json) |
 | Of Evil and Darkness | 129729 | [129729-of-evil-and-darkness.json](./129729-of-evil-and-darkness.json) |
+| Of Frost and Flowers | 225610 | [225610-of-frost-and-flowers.json](./225610-of-frost-and-flowers.json) |
 | Of Gods and Men: The Daybreak Empire | 109401 | [109401-of-gods-and-men-the-daybreak-empire.json](./109401-of-gods-and-men-the-daybreak-empire.json) |
 | Of Grit & Graves | 371465 | [371465-of-grit-and-graves.json](./371465-of-grit-and-graves.json) |
 | Of Guards and Thieves: Firefight | 167677 | [167677-of-guards-and-thieves-firefight.json](./167677-of-guards-and-thieves-firefight.json) |
