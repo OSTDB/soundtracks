@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T01:02:49.013Z",
-  "total_missing": 123426,
+  "generated_at": "2026-09-26T01:17:56.643Z",
+  "total_missing": 123476,
   "games": [
     {
       "igdb_id": 176875,
@@ -11801,6 +11801,11 @@
       "igdb_id": 32355,
       "game_name": "Affairs of the Court: Choice of Romance",
       "file": "missing/A/32355-affairs-of-the-court-choice-of-romance.json"
+    },
+    {
+      "igdb_id": 224490,
+      "game_name": "Affairs of the Court: Choice of Romance - Play as the Consort",
+      "file": "missing/A/224490-affairs-of-the-court-choice-of-romance-play-as-the-consort.json"
     },
     {
       "igdb_id": 319739,
@@ -29918,6 +29923,11 @@
       "file": "missing/A/12256-argos.json"
     },
     {
+      "igdb_id": 224509,
+      "game_name": "Argos: Riders on the Storm",
+      "file": "missing/A/224509-argos-riders-on-the-storm.json"
+    },
+    {
       "igdb_id": 408092,
       "game_name": "Argosy",
       "file": "missing/A/408092-argosy.json"
@@ -36088,6 +36098,11 @@
       "file": "missing/A/325107-atomic-heart-enchantment-under-the-sea.json"
     },
     {
+      "igdb_id": 224481,
+      "game_name": "Atomic Heart: Limited Edition",
+      "file": "missing/A/224481-atomic-heart-limited-edition.json"
+    },
+    {
       "igdb_id": 396565,
       "game_name": "Atomic Heart: Ultimate Edition",
       "file": "missing/A/396565-atomic-heart-ultimate-edition.json"
@@ -39866,6 +39881,11 @@
       "igdb_id": 227880,
       "game_name": "Bacchanalia",
       "file": "missing/B/227880-bacchanalia.json"
+    },
+    {
+      "igdb_id": 224494,
+      "game_name": "Bacchikoi!: Expansion Pack",
+      "file": "missing/B/224494-bacchikoi-expansion-pack.json"
     },
     {
       "igdb_id": 121626,
@@ -123798,6 +123818,11 @@
       "file": "missing/D/120302-death-end-re-quest-2.json"
     },
     {
+      "igdb_id": 224513,
+      "game_name": "Death end re;Quest 2 - Ultimate Weapon Set",
+      "file": "missing/D/224513-death-end-re-quest-2-ultimate-weapon-set.json"
+    },
+    {
       "igdb_id": 186871,
       "game_name": "Death End Re;Quest 2: Complete Deluxe Edition",
       "file": "missing/D/186871-death-end-re-quest-2-complete-deluxe-edition.json"
@@ -126741,6 +126766,11 @@
       "igdb_id": 332541,
       "game_name": "Delta Force: Black Hawk Down",
       "file": "missing/D/332541-delta-force-black-hawk-down.json"
+    },
+    {
+      "igdb_id": 224486,
+      "game_name": "Delta Force: Black Hawk Down Platinum Pack",
+      "file": "missing/D/224486-delta-force-black-hawk-down-platinum-pack.json"
     },
     {
       "igdb_id": 9350,
@@ -130723,6 +130753,11 @@
       "file": "missing/D/253979-devinica.json"
     },
     {
+      "igdb_id": 224502,
+      "game_name": "Devious Lick",
+      "file": "missing/D/224502-devious-lick.json"
+    },
+    {
       "igdb_id": 317405,
       "game_name": "Devious Path",
       "file": "missing/D/317405-devious-path.json"
@@ -134326,6 +134361,11 @@
       "igdb_id": 11404,
       "game_name": "Disciples II: Rise of the Elves",
       "file": "missing/D/11404-disciples-ii-rise-of-the-elves.json"
+    },
+    {
+      "igdb_id": 224495,
+      "game_name": "Disciples II: Rise of the Elves Gold",
+      "file": "missing/D/224495-disciples-ii-rise-of-the-elves-gold.json"
     },
     {
       "igdb_id": 9824,
@@ -143058,6 +143098,11 @@
       "file": "missing/D/20188-dragon-age-inquisition-the-descent.json"
     },
     {
+      "igdb_id": 224491,
+      "game_name": "Dragon Age: Origins - A Tale of Orzammar",
+      "file": "missing/D/224491-dragon-age-origins-a-tale-of-orzammar.json"
+    },
+    {
       "igdb_id": 367441,
       "game_name": "Dragon Age: Origins - Feastday Gifts",
       "file": "missing/D/367441-dragon-age-origins-feastday-gifts.json"
@@ -147261,6 +147306,11 @@
       "igdb_id": 384799,
       "game_name": "Drive Together",
       "file": "missing/D/384799-drive-together.json"
+    },
+    {
+      "igdb_id": 224496,
+      "game_name": "Drive West Coast",
+      "file": "missing/D/224496-drive-west-coast.json"
     },
     {
       "igdb_id": 199629,
@@ -160141,6 +160191,11 @@
       "igdb_id": 257335,
       "game_name": "Engineer's Last Stand",
       "file": "missing/E/257335-engineers-last-stand.json"
+    },
+    {
+      "igdb_id": 224521,
+      "game_name": "Engineered to Purpose",
+      "file": "missing/E/224521-engineered-to-purpose.json"
     },
     {
       "igdb_id": 302487,
@@ -179213,6 +179268,11 @@
       "file": "missing/F/197270-find-the-gnome-2.json"
     },
     {
+      "igdb_id": 224532,
+      "game_name": "Find the Key",
+      "file": "missing/F/224532-find-the-key.json"
+    },
+    {
       "igdb_id": 216473,
       "game_name": "Find the light",
       "file": "missing/F/216473-find-the-light.json"
@@ -191818,6 +191878,11 @@
       "file": "missing/F/202337-friday-night-funkin-banbuds-vs-reggie-the-rat.json"
     },
     {
+      "igdb_id": 224523,
+      "game_name": "Friday Night Funkin': CG5 Edition",
+      "file": "missing/F/224523-friday-night-funkin-cg5-edition.json"
+    },
+    {
       "igdb_id": 201320,
       "game_name": "Friday Night Funkin': Hotline 024",
       "file": "missing/F/201320-friday-night-funkin-hotline-024.json"
@@ -198536,6 +198601,11 @@
       "igdb_id": 210714,
       "game_name": "Gals Panic II",
       "file": "missing/G/210714-gals-panic-ii.json"
+    },
+    {
+      "igdb_id": 224500,
+      "game_name": "Galshell 2",
+      "file": "missing/G/224500-galshell-2.json"
     },
     {
       "igdb_id": 414573,
@@ -213426,6 +213496,11 @@
       "igdb_id": 348841,
       "game_name": "Great Personality: Guardians",
       "file": "missing/G/348841-great-personality-guardians.json"
+    },
+    {
+      "igdb_id": 224531,
+      "game_name": "Great Pilots",
+      "file": "missing/G/224531-great-pilots.json"
     },
     {
       "igdb_id": 291482,
@@ -239553,6 +239628,11 @@
       "file": "missing/H/213967-hot-guns-international-missions.json"
     },
     {
+      "igdb_id": 224512,
+      "game_name": "Hot Heat Reset",
+      "file": "missing/H/224512-hot-heat-reset.json"
+    },
+    {
       "igdb_id": 269011,
       "game_name": "Hot Homework Help",
       "file": "missing/H/269011-hot-homework-help.json"
@@ -257806,6 +257886,11 @@
       "igdb_id": 386393,
       "game_name": "Italian Night 1999",
       "file": "missing/I/386393-italian-night-1999.json"
+    },
+    {
+      "igdb_id": 224529,
+      "game_name": "Italo-Doom",
+      "file": "missing/I/224529-italo-doom.json"
     },
     {
       "igdb_id": 85520,
@@ -279913,6 +279998,11 @@
       "file": "missing/L/240783-lamias-bambina.json"
     },
     {
+      "igdb_id": 224537,
+      "game_name": "Lamina Island",
+      "file": "missing/L/224537-lamina-island.json"
+    },
+    {
       "igdb_id": 121465,
       "game_name": "Lamo",
       "file": "missing/L/121465-lamo.json"
@@ -295598,6 +295688,11 @@
       "file": "missing/L/393776-love-and-hate.json"
     },
     {
+      "igdb_id": 224506,
+      "game_name": "Love and Passion",
+      "file": "missing/L/224506-love-and-passion.json"
+    },
+    {
       "igdb_id": 122860,
       "game_name": "Love and War: Act I",
       "file": "missing/L/122860-love-and-war-act-i.json"
@@ -303731,6 +303826,11 @@
       "igdb_id": 245045,
       "game_name": "Makoto Wakaido's Case Files: Executioner's Wedge",
       "file": "missing/M/245045-makoto-wakaidos-case-files-executioners-wedge.json"
+    },
+    {
+      "igdb_id": 224535,
+      "game_name": "Mala Petaka",
+      "file": "missing/M/224535-mala-petaka.json"
     },
     {
       "igdb_id": 229037,
@@ -315518,6 +315618,11 @@
       "file": "missing/M/298026-melvor-idle-into-the-abyss.json"
     },
     {
+      "igdb_id": 224480,
+      "game_name": "Melvor Idle: Throne of the Herald",
+      "file": "missing/M/224480-melvor-idle-throne-of-the-herald.json"
+    },
+    {
       "igdb_id": 296476,
       "game_name": "Memary: Memory of The Nameless One",
       "file": "missing/M/296476-memary-memory-of-the-nameless-one.json"
@@ -317473,6 +317578,11 @@
       "file": "missing/M/19321-metagal.json"
     },
     {
+      "igdb_id": 224526,
+      "game_name": "Metagates",
+      "file": "missing/M/224526-metagates.json"
+    },
+    {
       "igdb_id": 338930,
       "game_name": "Metahorror Therapy Session",
       "file": "missing/M/338930-metahorror-therapy-session.json"
@@ -318046,6 +318156,11 @@
       "igdb_id": 369218,
       "game_name": "Metal Surge",
       "file": "missing/M/369218-metal-surge.json"
+    },
+    {
+      "igdb_id": 224520,
+      "game_name": "Metal Survivor",
+      "file": "missing/M/224520-metal-survivor.json"
     },
     {
       "igdb_id": 167680,
@@ -318671,6 +318786,11 @@
       "igdb_id": 310611,
       "game_name": "Metroid: HD",
       "file": "missing/M/310611-metroid-hd.json"
+    },
+    {
+      "igdb_id": 224478,
+      "game_name": "Metroid: Origins",
+      "file": "missing/M/224478-metroid-origins.json"
     },
     {
       "igdb_id": 318019,
@@ -319666,6 +319786,11 @@
       "igdb_id": 23775,
       "game_name": "Microsoft Flight Simulator X: Deluxe Edition",
       "file": "missing/M/23775-microsoft-flight-simulator-x-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 224498,
+      "game_name": "Microsoft Flight Simulator X: Iris F-15E/I/SG",
+      "file": "missing/M/224498-microsoft-flight-simulator-x-iris-f-15e-i-sg.json"
     },
     {
       "igdb_id": 36261,
@@ -329768,6 +329893,26 @@
       "file": "missing/M/241967-monster-prom-3-monster-roadtrip-hitchhiker-pack-vicky-and-brian.json"
     },
     {
+      "igdb_id": 224484,
+      "game_name": "Monster Prom 3: Monster Roadtrip - Playable Character Glitch",
+      "file": "missing/M/224484-monster-prom-3-monster-roadtrip-playable-character-glitch.json"
+    },
+    {
+      "igdb_id": 224487,
+      "game_name": "Monster Prom 3: Monster Roadtrip - Playable Character Hazel",
+      "file": "missing/M/224487-monster-prom-3-monster-roadtrip-playable-character-hazel.json"
+    },
+    {
+      "igdb_id": 224482,
+      "game_name": "Monster Prom 3: Monster Roadtrip - Playable Character Juan",
+      "file": "missing/M/224482-monster-prom-3-monster-roadtrip-playable-character-juan.json"
+    },
+    {
+      "igdb_id": 224488,
+      "game_name": "Monster Prom 3: Monster Roadtrip - Playable Character Zoe",
+      "file": "missing/M/224488-monster-prom-3-monster-roadtrip-playable-character-zoe.json"
+    },
+    {
       "igdb_id": 272830,
       "game_name": "Monster Prom 3: Monster Roadtrip x Cult of the Lamb",
       "file": "missing/M/272830-monster-prom-3-monster-roadtrip-x-cult-of-the-lamb.json"
@@ -337578,6 +337723,11 @@
       "file": "missing/M/280265-my-cute-fuhrer.json"
     },
     {
+      "igdb_id": 224528,
+      "game_name": "My Cute Succubus",
+      "file": "missing/M/224528-my-cute-succubus.json"
+    },
+    {
       "igdb_id": 212272,
       "game_name": "My Cute Unicorns: Coloring Book",
       "file": "missing/M/212272-my-cute-unicorns-coloring-book.json"
@@ -343651,6 +343801,11 @@
       "igdb_id": 249722,
       "game_name": "Naval Action: Rotterdam",
       "file": "missing/N/249722-naval-action-rotterdam.json"
+    },
+    {
+      "igdb_id": 224533,
+      "game_name": "Naval Battle Online",
+      "file": "missing/N/224533-naval-battle-online.json"
     },
     {
       "igdb_id": 130705,
@@ -354986,6 +355141,11 @@
       "igdb_id": 152145,
       "game_name": "Nose",
       "file": "missing/N/152145-nose.json"
+    },
+    {
+      "igdb_id": 224501,
+      "game_name": "Nose",
+      "file": "missing/N/224501-nose.json"
     },
     {
       "igdb_id": 287230,
@@ -443073,6 +443233,11 @@
       "file": "missing/S/237051-seed-of-pandora-legend-of-the-gaia-tree.json"
     },
     {
+      "igdb_id": 224530,
+      "game_name": "Seed World",
+      "file": "missing/S/224530-seed-world.json"
+    },
+    {
       "igdb_id": 182906,
       "game_name": "Seed.",
       "file": "missing/S/182906-seed.json"
@@ -459323,6 +459488,11 @@
       "file": "missing/S/319761-slasher-origins.json"
     },
     {
+      "igdb_id": 224515,
+      "game_name": "SlasherRPG",
+      "file": "missing/S/224515-slasherrpg.json"
+    },
+    {
       "igdb_id": 340365,
       "game_name": "Slashing Night",
       "file": "missing/S/340365-slashing-night.json"
@@ -463896,6 +464066,11 @@
       "igdb_id": 121613,
       "game_name": "Snooker Stars",
       "file": "missing/S/121613-snooker-stars.json"
+    },
+    {
+      "igdb_id": 224503,
+      "game_name": "Snoop Dogg Boxing",
+      "file": "missing/S/224503-snoop-dogg-boxing.json"
     },
     {
       "igdb_id": 225651,
@@ -493973,6 +494148,11 @@
       "file": "missing/S/4370-sunset-riders.json"
     },
     {
+      "igdb_id": 224514,
+      "game_name": "Sunset Routes",
+      "file": "missing/S/224514-sunset-routes.json"
+    },
+    {
       "igdb_id": 294794,
       "game_name": "Sunset Shores",
       "file": "missing/S/294794-sunset-shores.json"
@@ -512503,6 +512683,11 @@
       "file": "missing/T/187370-technomagic.json"
     },
     {
+      "igdb_id": 224519,
+      "game_name": "Technophobia: Dead Metal Tournament",
+      "file": "missing/T/224519-technophobia-dead-metal-tournament.json"
+    },
+    {
       "igdb_id": 233093,
       "game_name": "Technopoly: Industrial Empire",
       "file": "missing/T/233093-technopoly-industrial-empire.json"
@@ -521098,6 +521283,11 @@
       "file": "missing/T/271756-the-contract.json"
     },
     {
+      "igdb_id": 224479,
+      "game_name": "The Contract Bound",
+      "file": "missing/T/224479-the-contract-bound.json"
+    },
+    {
       "igdb_id": 178558,
       "game_name": "The Conveni: Ano Machi wo Dokusen Seyo",
       "file": "missing/T/178558-the-conveni-ano-machi-wo-dokusen-seyo.json"
@@ -523886,6 +524076,11 @@
       "igdb_id": 401522,
       "game_name": "The Endless Village",
       "file": "missing/T/401522-the-endless-village.json"
+    },
+    {
+      "igdb_id": 224536,
+      "game_name": "The Enemy Approached the Walls",
+      "file": "missing/T/224536-the-enemy-approached-the-walls.json"
     },
     {
       "igdb_id": 151010,
@@ -531558,6 +531753,11 @@
       "file": "missing/T/242557-the-light-box.json"
     },
     {
+      "igdb_id": 224505,
+      "game_name": "The Light Brigade",
+      "file": "missing/T/224505-the-light-brigade.json"
+    },
+    {
       "igdb_id": 12438,
       "game_name": "The Light Corridor",
       "file": "missing/T/12438-the-light-corridor.json"
@@ -533346,6 +533546,11 @@
       "igdb_id": 191806,
       "game_name": "The Meteorite",
       "file": "missing/T/191806-the-meteorite.json"
+    },
+    {
+      "igdb_id": 224485,
+      "game_name": "The Metronomicon: Slay the Dance Floor - Indie Game Challenge Pack 1",
+      "file": "missing/T/224485-the-metronomicon-slay-the-dance-floor-indie-game-challenge-pack-1.json"
     },
     {
       "igdb_id": 225580,
@@ -536201,6 +536406,11 @@
       "igdb_id": 194404,
       "game_name": "The Quarry",
       "file": "missing/T/194404-the-quarry.json"
+    },
+    {
+      "igdb_id": 224517,
+      "game_name": "The Quarry: '50s Throwback Character Outfits",
+      "file": "missing/T/224517-the-quarry-50s-throwback-character-outfits.json"
     },
     {
       "igdb_id": 255634,
@@ -544118,6 +544328,16 @@
       "file": "missing/T/154960-the-witcher-franchise-bundle.json"
     },
     {
+      "igdb_id": 224493,
+      "game_name": "The Witcher: Side Effects",
+      "file": "missing/T/224493-the-witcher-side-effects.json"
+    },
+    {
+      "igdb_id": 224492,
+      "game_name": "The Witcher: The Price of Neutrality",
+      "file": "missing/T/224492-the-witcher-the-price-of-neutrality.json"
+    },
+    {
       "igdb_id": 277823,
       "game_name": "The Witches Pond",
       "file": "missing/T/277823-the-witches-pond.json"
@@ -544358,6 +544578,11 @@
       "file": "missing/T/256263-the-world-of-nifty-craft.json"
     },
     {
+      "igdb_id": 224538,
+      "game_name": "The World of the Candy Girl",
+      "file": "missing/T/224538-the-world-of-the-candy-girl.json"
+    },
+    {
       "igdb_id": 283233,
       "game_name": "The World of War II: Frontlines of History",
       "file": "missing/T/283233-the-world-of-war-ii-frontlines-of-history.json"
@@ -544371,6 +544596,11 @@
       "igdb_id": 141086,
       "game_name": "The World's Hardest Game",
       "file": "missing/T/141086-the-worlds-hardest-game.json"
+    },
+    {
+      "igdb_id": 224510,
+      "game_name": "The World's Hardest Game 2",
+      "file": "missing/T/224510-the-worlds-hardest-game-2.json"
     },
     {
       "igdb_id": 412509,
@@ -558778,6 +559008,11 @@
       "file": "missing/T/144773-touhou-spell-bubble-side-story-pack-sanae-arc.json"
     },
     {
+      "igdb_id": 224507,
+      "game_name": "Touhou Spell Bubble: Sound Holic - Song Pack",
+      "file": "missing/T/224507-touhou-spell-bubble-sound-holic-song-pack.json"
+    },
+    {
       "igdb_id": 209147,
       "game_name": "Touhou Spell Bubble: Touhou Collaborations Pack",
       "file": "missing/T/209147-touhou-spell-bubble-touhou-collaborations-pack.json"
@@ -558926,6 +559161,11 @@
       "igdb_id": 287640,
       "game_name": "Touka Gettan: Koufuu no Ryouou Deluxe Pack",
       "file": "missing/T/287640-touka-gettan-koufuu-no-ryouou-deluxe-pack.json"
+    },
+    {
+      "igdb_id": 224518,
+      "game_name": "Touken Ranbu Warriors: Uchiban Outfit 16-piece Set",
+      "file": "missing/T/224518-touken-ranbu-warriors-uchiban-outfit-16-piece-set.json"
     },
     {
       "igdb_id": 194031,
@@ -577828,6 +578068,11 @@
       "file": "missing/U/153863-uproar.json"
     },
     {
+      "igdb_id": 224539,
+      "game_name": "Uproot",
+      "file": "missing/U/224539-uproot.json"
+    },
+    {
       "igdb_id": 226752,
       "game_name": "Uproot: Lost Leaf",
       "file": "missing/U/226752-uproot-lost-leaf.json"
@@ -594981,6 +595226,11 @@
       "igdb_id": 296363,
       "game_name": "Whelm",
       "file": "missing/W/296363-whelm.json"
+    },
+    {
+      "igdb_id": 224534,
+      "game_name": "When Bricks Fly",
+      "file": "missing/W/224534-when-bricks-fly.json"
     },
     {
       "igdb_id": 216346,
