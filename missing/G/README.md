@@ -3687,9 +3687,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridz | 229815 | [229815-gridz.json](./229815-gridz.json) |
 | Grief Like a Stray Dog | 195531 | [195531-grief-like-a-stray-dog.json](./195531-grief-like-a-stray-dog.json) |
 | Grief Trigger | 236514 | [236514-grief-trigger.json](./236514-grief-trigger.json) |
+| Grief: How to say goodbye | 182851 | [182851-grief-how-to-say-goodbye.json](./182851-grief-how-to-say-goodbye.json) |
 | Grieving: Berduka | 372674 | [372674-grieving-berduka.json](./372674-grieving-berduka.json) |
 | Grievous Survivors | 235680 | [235680-grievous-survivors.json](./235680-grievous-survivors.json) |
 | Griffin | 353993 | [353993-griffin.json](./353993-griffin.json) |
+| Griffin Card | 182847 | [182847-griffin-card.json](./182847-griffin-card.json) |
 | Grigala Runner | 110140 | [110140-grigala-runner.json](./110140-grigala-runner.json) |
 | Grill-Off with Ultra Hand! | 50696 | [50696-grill-off-with-ultra-hand.json](./50696-grill-off-with-ultra-hand.json) |
 | Grille Logic | 286580 | [286580-grille-logic.json](./286580-grille-logic.json) |
@@ -3940,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growers | 264058 | [264058-growers.json](./264058-growers.json) |
 | Growing My Grandpa! | 200660 | [200660-growing-my-grandpa.json](./200660-growing-my-grandpa.json) |
 | Growing My Manhole | 404809 | [404809-growing-my-manhole.json](./404809-growing-my-manhole.json) |
+| Growing Pain | 182804 | [182804-growing-pain.json](./182804-growing-pain.json) |
 | Growing Pug | 102125 | [102125-growing-pug.json](./102125-growing-pug.json) |
 | Growing Sakura | 185517 | [185517-growing-sakura.json](./185517-growing-sakura.json) |
 | Growing Things Up | 351731 | [351731-growing-things-up.json](./351731-growing-things-up.json) |
