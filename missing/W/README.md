@@ -1738,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's Baby | 107932 | [107932-wheres-baby.json](./107932-wheres-baby.json) |
 | Where's Fido? | 278995 | [278995-wheres-fido.json](./278995-wheres-fido.json) |
 | Where's My Bara Deck? Hardcastle | 393834 | [393834-wheres-my-bara-deck-hardcastle.json](./393834-wheres-my-bara-deck-hardcastle.json) |
+| Where's My Chicken? | 181699 | [181699-wheres-my-chicken.json](./181699-wheres-my-chicken.json) |
 | Where's My Drink...? | 365863 | [365863-wheres-my-drink.json](./365863-wheres-my-drink.json) |
 | Where's my geek? | 197230 | [197230-wheres-my-geek.json](./197230-wheres-my-geek.json) |
 | Where's My Hentai Deck? Castle Hunt | 389621 | [389621-wheres-my-hentai-deck-castle-hunt.json](./389621-wheres-my-hentai-deck-castle-hunt.json) |
@@ -3260,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World League Live! Football | 186048 | [186048-world-league-live-football.json](./186048-world-league-live-football.json) |
 | World Mahjong: Original | 220721 | [220721-world-mahjong-original.json](./220721-world-mahjong-original.json) |
 | World Map: Crafted City Builder | 202096 | [202096-world-map-crafted-city-builder.json](./202096-world-map-crafted-city-builder.json) |
+| World Minigolf | 181702 | [181702-world-minigolf.json](./181702-world-minigolf.json) |
 | World Mosaics | 135246 | [135246-world-mosaics.json](./135246-world-mosaics.json) |
 | World Mosaics 2 | 135247 | [135247-world-mosaics-2.json](./135247-world-mosaics-2.json) |
 | World Mosaics 3: Fairy Tales | 135248 | [135248-world-mosaics-3-fairy-tales.json](./135248-world-mosaics-3-fairy-tales.json) |
