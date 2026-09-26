@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanako Enomoto Junk Brain Diagnosis | 209450 | [209450-kanako-enomoto-junk-brain-diagnosis.json](./209450-kanako-enomoto-junk-brain-diagnosis.json) |
 | Kanamono | 168215 | [168215-kanamono.json](./168215-kanamono.json) |
 | Kanashimi Arabesque | 294807 | [294807-kanashimi-arabesque.json](./294807-kanashimi-arabesque.json) |
+| KanaTales | 191551 | [191551-kanatales.json](./191551-kanatales.json) |
 | Kanazawa Shogi: Level 300 | 219008 | [219008-kanazawa-shogi-level-300.json](./219008-kanazawa-shogi-level-300.json) |
 | Kanban-mura | 310719 | [310719-kanban-mura.json](./310719-kanban-mura.json) |
 | Kanbutsu Himouto! Umaru-chan Daratto Puzzle | 222392 | [222392-kanbutsu-himouto-umaru-chan-daratto-puzzle.json](./222392-kanbutsu-himouto-umaru-chan-daratto-puzzle.json) |
@@ -773,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Key Hunters DX | 266206 | [266206-key-hunters-dx.json](./266206-key-hunters-dx.json) |
 | Key La Box | 242064 | [242064-key-la-box.json](./242064-key-la-box.json) |
 | Key Of The Magic | 376128 | [376128-key-of-the-magic.json](./376128-key-of-the-magic.json) |
+| Key: Maze of Illusions | 191545 | [191545-key-maze-of-illusions.json](./191545-key-maze-of-illusions.json) |
 | Keyboard Creations! | 41569 | [41569-keyboard-creations.json](./41569-keyboard-creations.json) |
 | Keyboard Crush | 320983 | [320983-keyboard-crush.json](./320983-keyboard-crush.json) |
 | Keyboard Kommander | 125418 | [125418-keyboard-kommander.json](./125418-keyboard-kommander.json) |
