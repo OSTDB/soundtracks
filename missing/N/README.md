@@ -254,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narnok | 396541 | [396541-narnok.json](./396541-narnok.json) |
 | Naroike | 335277 | [335277-naroike.json](./335277-naroike.json) |
 | Naron | 412380 | [412380-naron.json](./412380-naron.json) |
+| Naroth | 203824 | [203824-naroth.json](./203824-naroth.json) |
 | Narrative Adventure | 192293 | [192293-narrative-adventure.json](./192293-narrative-adventure.json) |
 | Narrative Nightmares: Trilogy of Terror | 282594 | [282594-narrative-nightmares-trilogy-of-terror.json](./282594-narrative-nightmares-trilogy-of-terror.json) |
 | Narrow Escape | 41986 | [41986-narrow-escape.json](./41986-narrow-escape.json) |
@@ -1338,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Nintendo 3DS Internet Browser: Breakout | 251587 | [251587-new-nintendo-3ds-internet-browser-breakout.json](./251587-new-nintendo-3ds-internet-browser-breakout.json) |
 | New Path 1: Adventure or Normality? | 124237 | [124237-new-path-1-adventure-or-normality.json](./124237-new-path-1-adventure-or-normality.json) |
 | New Roanoke | 270968 | [270968-new-roanoke.json](./270968-new-roanoke.json) |
+| New Roots | 203853 | [203853-new-roots.json](./203853-new-roots.json) |
 | New Rule: The Game is... | 234581 | [234581-new-rule-the-game-is.json](./234581-new-rule-the-game-is.json) |
 | New Solitaire Card Game | 96973 | [96973-new-solitaire-card-game.json](./96973-new-solitaire-card-game.json) |
 | New Star Cricket | 234614 | [234614-new-star-cricket.json](./234614-new-star-cricket.json) |
