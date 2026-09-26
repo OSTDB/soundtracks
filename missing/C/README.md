@@ -4668,6 +4668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorful Tower of Hanoi | 386701 | [386701-colorful-tower-of-hanoi.json](./386701-colorful-tower-of-hanoi.json) |
 | Colorful3D II | 131623 | [131623-colorful3d-ii.json](./131623-colorful3d-ii.json) |
 | Colorfuly Ball | 321485 | [321485-colorfuly-ball.json](./321485-colorfuly-ball.json) |
+| Colorider | 213324 | [213324-colorider.json](./213324-colorider.json) |
 | Colorim | 261525 | [261525-colorim.json](./261525-colorim.json) |
 | Coloring Animal Zoo Touch to Color Activity Coloring Book for Kids and Family Preschool Ultimate Edition | 232167 | [232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json](./232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json) |
 | Coloring Book - Halloween | 87110 | [87110-coloring-book-halloween.json](./87110-coloring-book-halloween.json) |
@@ -5511,6 +5512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Clicker PSP | 397263 | [397263-cookie-clicker-psp.json](./397263-cookie-clicker-psp.json) |
 | Cookie Crisp City | 330362 | [330362-cookie-crisp-city.json](./330362-cookie-crisp-city.json) |
 | Cookie Game | 266299 | [266299-cookie-game.json](./266299-cookie-game.json) |
+| Cookie Gluttons TD | 213334 | [213334-cookie-gluttons-td.json](./213334-cookie-gluttons-td.json) |
 | Cookie Match: Enhanced Edition | 232451 | [232451-cookie-match-enhanced-edition.json](./232451-cookie-match-enhanced-edition.json) |
 | Cookie Run | 74416 | [74416-cookie-run.json](./74416-cookie-run.json) |
 | Cookie Run: OvenBreak | 78951 | [78951-cookie-run-ovenbreak.json](./78951-cookie-run-ovenbreak.json) |
@@ -7017,6 +7019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroads Inn | 107255 | [107255-crossroads-inn.json](./107255-crossroads-inn.json) |
 | Crossroads Inn: Anniversary Edition | 154549 | [154549-crossroads-inn-anniversary-edition.json](./154549-crossroads-inn-anniversary-edition.json) |
 | Crossroads of Fate | 185601 | [185601-crossroads-of-fate.json](./185601-crossroads-of-fate.json) |
+| Crossroads of Life | 213323 | [213323-crossroads-of-life.json](./213323-crossroads-of-life.json) |
 | Crossroads: Lucky Edition | 113241 | [113241-crossroads-lucky-edition.json](./113241-crossroads-lucky-edition.json) |
 | Crossroads: What Was Lost | 417713 | [417713-crossroads-what-was-lost.json](./417713-crossroads-what-was-lost.json) |
 | CrossTown 1: Giften | 122315 | [122315-crosstown-1-giften.json](./122315-crosstown-1-giften.json) |
@@ -7947,6 +7950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Paranoia | 408058 | [408058-cyber-paranoia.json](./408058-cyber-paranoia.json) |
 | Cyber Parkour | 317387 | [317387-cyber-parkour.json](./317387-cyber-parkour.json) |
 | Cyber Photographer | 68036 | [68036-cyber-photographer.json](./68036-cyber-photographer.json) |
+| Cyber Protocol Prologue | 213340 | [213340-cyber-protocol-prologue.json](./213340-cyber-protocol-prologue.json) |
 | Cyber Racer | 120151 | [120151-cyber-racer.json](./120151-cyber-racer.json) |
 | Cyber Rage: Retribution | 116827 | [116827-cyber-rage-retribution.json](./116827-cyber-rage-retribution.json) |
 | Cyber Rail | 267468 | [267468-cyber-rail.json](./267468-cyber-rail.json) |
