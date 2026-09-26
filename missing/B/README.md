@@ -1522,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Cube | 128598 | [128598-battle-cube.json](./128598-battle-cube.json) |
 | Battle Dawn | 139433 | [139433-battle-dawn.json](./139433-battle-dawn.json) |
 | Battle Dawn 2: Terra Reborn | 217230 | [217230-battle-dawn-2-terra-reborn.json](./217230-battle-dawn-2-terra-reborn.json) |
+| Battle destruction | 175730 | [175730-battle-destruction.json](./175730-battle-destruction.json) |
 | Battle Dex | 93581 | [93581-battle-dex.json](./93581-battle-dex.json) |
 | Battle Dodge Ball 3 | 56519 | [56519-battle-dodge-ball-3.json](./56519-battle-dodge-ball-3.json) |
 | Battle Dodgeball | 38350 | [38350-battle-dodgeball.json](./38350-battle-dodgeball.json) |
@@ -4950,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Disposer | 210638 | [210638-bomb-disposer.json](./210638-bomb-disposer.json) |
 | Bomb Farm | 413917 | [413917-bomb-farm.json](./413917-bomb-farm.json) |
 | Bomb Fight | 305297 | [305297-bomb-fight.json](./305297-bomb-fight.json) |
+| Bomb Hero 3D | 175735 | [175735-bomb-hero-3d.json](./175735-bomb-hero-3d.json) |
 | Bomb Hunter MT | 95185 | [95185-bomb-hunter-mt.json](./95185-bomb-hunter-mt.json) |
 | Bomb It | 191087 | [191087-bomb-it.json](./191087-bomb-it.json) |
 | Bomb It 2 | 191097 | [191097-bomb-it-2.json](./191097-bomb-it-2.json) |
@@ -6009,6 +6011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break an Egg | 305336 | [305336-break-an-egg.json](./305336-break-an-egg.json) |
 | Break Arts III | 265210 | [265210-break-arts-iii.json](./265210-break-arts-iii.json) |
 | Break Bounds: Exile | 190741 | [190741-break-bounds-exile.json](./190741-break-bounds-exile.json) |
+| Break Brick Out | 175742 | [175742-break-brick-out.json](./175742-break-brick-out.json) |
 | Break Everything: Living room | 230922 | [230922-break-everything-living-room.json](./230922-break-everything-living-room.json) |
 | Break Free | 304334 | [304334-break-free.json](./304334-break-free.json) |
 | Break In | 70097 | [70097-break-in.json](./70097-break-in.json) |
