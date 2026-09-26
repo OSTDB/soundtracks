@@ -5448,6 +5448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mix-A-Max | 230929 | [230929-mix-a-max.json](./230929-mix-a-max.json) |
 | MixCD | 408070 | [408070-mixcd.json](./408070-mixcd.json) |
 | Mixed Feelings 2: Elysium | 266913 | [266913-mixed-feelings-2-elysium.json](./266913-mixed-feelings-2-elysium.json) |
+| Mixed Guns | 216737 | [216737-mixed-guns.json](./216737-mixed-guns.json) |
 | Mixed Unit Tactics | 252983 | [252983-mixed-unit-tactics.json](./252983-mixed-unit-tactics.json) |
 | Mixels Rush | 214029 | [214029-mixels-rush.json](./214029-mixels-rush.json) |
 | MixiM | 202360 | [202360-mixim.json](./202360-mixim.json) |
