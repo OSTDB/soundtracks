@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hagar the Horrible | 47229 | [47229-hagar-the-horrible.json](./47229-hagar-the-horrible.json) |
 | Hagia Sophia VR Experience | 150491 | [150491-hagia-sophia-vr-experience.json](./150491-hagia-sophia-vr-experience.json) |
 | Hagwalla Legend | 283760 | [283760-hagwalla-legend.json](./283760-hagwalla-legend.json) |
+| Haha Doodle | 194271 | [194271-haha-doodle.json](./194271-haha-doodle.json) |
 | Hahakigami Sweep | 386105 | [386105-hahakigami-sweep.json](./386105-hahakigami-sweep.json) |
 | Hahakigami Sweep | 386106 | [386106-hahakigami-sweep.json](./386106-hahakigami-sweep.json) |
 | Hai Byouin Tansaku | 261547 | [261547-hai-byouin-tansaku.json](./261547-hai-byouin-tansaku.json) |
