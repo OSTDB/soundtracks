@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T09:32:55.529Z",
-  "total_missing": 125126,
+  "generated_at": "2026-09-26T09:47:43.213Z",
+  "total_missing": 125176,
   "games": [
     {
       "igdb_id": 176875,
@@ -570563,9 +570563,39 @@
       "file": "missing/T/205543-trainz-plus-amtrak-p42dc-phase-iii.json"
     },
     {
+      "igdb_id": 205493,
+      "game_name": "Trainz Plus: Amtrak P42DC - Phase IV",
+      "file": "missing/T/205493-trainz-plus-amtrak-p42dc-phase-iv.json"
+    },
+    {
+      "igdb_id": 205533,
+      "game_name": "Trainz Plus: Andrushivka - Vinnitsa UZ",
+      "file": "missing/T/205533-trainz-plus-andrushivka-vinnitsa-uz.json"
+    },
+    {
+      "igdb_id": 205510,
+      "game_name": "Trainz Plus: Appen",
+      "file": "missing/T/205510-trainz-plus-appen.json"
+    },
+    {
+      "igdb_id": 205534,
+      "game_name": "Trainz Plus: ATSF GP38-2 Santa FE",
+      "file": "missing/T/205534-trainz-plus-atsf-gp38-2-santa-fe.json"
+    },
+    {
       "igdb_id": 205544,
       "game_name": "Trainz Plus: Avery - Drexel Route",
       "file": "missing/T/205544-trainz-plus-avery-drexel-route.json"
+    },
+    {
+      "igdb_id": 205522,
+      "game_name": "Trainz Plus: Balezino Mosti",
+      "file": "missing/T/205522-trainz-plus-balezino-mosti.json"
+    },
+    {
+      "igdb_id": 205531,
+      "game_name": "Trainz Plus: Balezino Mosti Sessions - Lichachove to Mosti",
+      "file": "missing/T/205531-trainz-plus-balezino-mosti-sessions-lichachove-to-mosti.json"
     },
     {
       "igdb_id": 205545,
@@ -570578,9 +570608,24 @@
       "file": "missing/T/306101-trainz-plus-br-diesel-brake-tenders.json"
     },
     {
+      "igdb_id": 205526,
+      "game_name": "Trainz Plus: British Rail Class 70 - Colas Rail",
+      "file": "missing/T/205526-trainz-plus-british-rail-class-70-colas-rail.json"
+    },
+    {
       "igdb_id": 306102,
       "game_name": "Trainz Plus: C44aci Locomotive - ARG/Mineral Resources Pack",
       "file": "missing/T/306102-trainz-plus-c44aci-locomotive-arg-mineral-resources-pack.json"
+    },
+    {
+      "igdb_id": 205503,
+      "game_name": "Trainz Plus: Canadian Rocky Mountains - Rogers Pass",
+      "file": "missing/T/205503-trainz-plus-canadian-rocky-mountains-rogers-pass.json"
+    },
+    {
+      "igdb_id": 205507,
+      "game_name": "Trainz Plus: Canadian Rocky Mountains Ottertail to Castle Jct",
+      "file": "missing/T/205507-trainz-plus-canadian-rocky-mountains-ottertail-to-castle-jct.json"
     },
     {
       "igdb_id": 276319,
@@ -570633,14 +570678,74 @@
       "file": "missing/T/292661-trainz-plus-cfr-modernised-doubledecker-pack-no-2.json"
     },
     {
+      "igdb_id": 205527,
+      "game_name": "Trainz Plus: Chesapeake & Ohio K2 2-8-2",
+      "file": "missing/T/205527-trainz-plus-chesapeake-and-ohio-k2-2-8-2.json"
+    },
+    {
       "igdb_id": 205542,
       "game_name": "Trainz Plus: Chesapeake & Ohio K3-K3a 2-8-2",
       "file": "missing/T/205542-trainz-plus-chesapeake-and-ohio-k3-k3a-2-8-2.json"
     },
     {
+      "igdb_id": 205491,
+      "game_name": "Trainz Plus: Chicago Museum of Science and Industry Model Railroad",
+      "file": "missing/T/205491-trainz-plus-chicago-museum-of-science-and-industry-model-railroad.json"
+    },
+    {
+      "igdb_id": 205499,
+      "game_name": "Trainz Plus: China D38 Schnabel Car - Gray",
+      "file": "missing/T/205499-trainz-plus-china-d38-schnabel-car-gray.json"
+    },
+    {
+      "igdb_id": 205513,
+      "game_name": "Trainz Plus: Chiyoda Branch Line",
+      "file": "missing/T/205513-trainz-plus-chiyoda-branch-line.json"
+    },
+    {
+      "igdb_id": 205512,
+      "game_name": "Trainz Plus: CO17-1171",
+      "file": "missing/T/205512-trainz-plus-co17-1171.json"
+    },
+    {
+      "igdb_id": 205525,
+      "game_name": "Trainz Plus: CO17-1374",
+      "file": "missing/T/205525-trainz-plus-co17-1374.json"
+    },
+    {
+      "igdb_id": 205519,
+      "game_name": "Trainz Plus: CO17-1471",
+      "file": "missing/T/205519-trainz-plus-co17-1471.json"
+    },
+    {
       "igdb_id": 205551,
       "game_name": "Trainz Plus: CO17-3373",
       "file": "missing/T/205551-trainz-plus-co17-3373.json"
+    },
+    {
+      "igdb_id": 205518,
+      "game_name": "Trainz Plus: CO17-4171",
+      "file": "missing/T/205518-trainz-plus-co17-4171.json"
+    },
+    {
+      "igdb_id": 205501,
+      "game_name": "Trainz Plus: CO17-4174",
+      "file": "missing/T/205501-trainz-plus-co17-4174.json"
+    },
+    {
+      "igdb_id": 205514,
+      "game_name": "Trainz Plus: CONTZ Pack - Basic Edition",
+      "file": "missing/T/205514-trainz-plus-contz-pack-basic-edition.json"
+    },
+    {
+      "igdb_id": 205496,
+      "game_name": "Trainz Plus: CONTZ Pack - Standard Edition",
+      "file": "missing/T/205496-trainz-plus-contz-pack-standard-edition.json"
+    },
+    {
+      "igdb_id": 205521,
+      "game_name": "Trainz Plus: Cornish Mainline and Branches",
+      "file": "missing/T/205521-trainz-plus-cornish-mainline-and-branches.json"
     },
     {
       "igdb_id": 205566,
@@ -570653,9 +570758,19 @@
       "file": "missing/T/276317-trainz-plus-csd-bap-117.json"
     },
     {
+      "igdb_id": 205535,
+      "game_name": "Trainz Plus: DB DBmu748 080",
+      "file": "missing/T/205535-trainz-plus-db-dbmu748-080.json"
+    },
+    {
       "igdb_id": 205557,
       "game_name": "Trainz Plus: DBuz 747 Passenger Cars",
       "file": "missing/T/205557-trainz-plus-dbuz-747-passenger-cars.json"
+    },
+    {
+      "igdb_id": 205504,
+      "game_name": "Trainz Plus: DIC-Reefer",
+      "file": "missing/T/205504-trainz-plus-dic-reefer.json"
     },
     {
       "igdb_id": 205563,
@@ -570663,9 +570778,19 @@
       "file": "missing/T/205563-trainz-plus-dr-dbmtrue-215.json"
     },
     {
+      "igdb_id": 205502,
+      "game_name": "Trainz Plus: DR/DB DBmtrue/DBmu748",
+      "file": "missing/T/205502-trainz-plus-dr-db-dbmtrue-dbmu748.json"
+    },
+    {
       "igdb_id": 205560,
       "game_name": "Trainz Plus: ECML Edinburgh - Dundee",
       "file": "missing/T/205560-trainz-plus-ecml-edinburgh-dundee.json"
+    },
+    {
+      "igdb_id": 205511,
+      "game_name": "Trainz Plus: ECML Kings Cross - Edinburgh 1976",
+      "file": "missing/T/205511-trainz-plus-ecml-kings-cross-edinburgh-1976.json"
     },
     {
       "igdb_id": 292663,
@@ -570678,6 +570803,16 @@
       "file": "missing/T/205550-trainz-plus-florida-rail-road-museum-model-railroad.json"
     },
     {
+      "igdb_id": 205489,
+      "game_name": "Trainz Plus: Franklin Avenue Industrial",
+      "file": "missing/T/205489-trainz-plus-franklin-avenue-industrial.json"
+    },
+    {
+      "igdb_id": 205537,
+      "game_name": "Trainz Plus: GT GP9",
+      "file": "missing/T/205537-trainz-plus-gt-gp9.json"
+    },
+    {
       "igdb_id": 205548,
       "game_name": "Trainz Plus: Halloween Night on Kickstarter County",
       "file": "missing/T/205548-trainz-plus-halloween-night-on-kickstarter-county.json"
@@ -570686,6 +570821,11 @@
       "igdb_id": 285473,
       "game_name": "Trainz Plus: Harvard Subdivision - Commuter Edition",
       "file": "missing/T/285473-trainz-plus-harvard-subdivision-commuter-edition.json"
+    },
+    {
+      "igdb_id": 205494,
+      "game_name": "Trainz Plus: Hccrrs Car Transporter",
+      "file": "missing/T/205494-trainz-plus-hccrrs-car-transporter.json"
     },
     {
       "igdb_id": 205555,
@@ -570706,6 +570846,31 @@
       "igdb_id": 205549,
       "game_name": "Trainz Plus: Inzer - South Ural Mountains",
       "file": "missing/T/205549-trainz-plus-inzer-south-ural-mountains.json"
+    },
+    {
+      "igdb_id": 205520,
+      "game_name": "Trainz Plus: ITC GP7 Phase I & II",
+      "file": "missing/T/205520-trainz-plus-itc-gp7-phase-i-and-ii.json"
+    },
+    {
+      "igdb_id": 205528,
+      "game_name": "Trainz Plus: JR Rolling Stock Pack",
+      "file": "missing/T/205528-trainz-plus-jr-rolling-stock-pack.json"
+    },
+    {
+      "igdb_id": 205505,
+      "game_name": "Trainz Plus: Laadgs Transporter",
+      "file": "missing/T/205505-trainz-plus-laadgs-transporter.json"
+    },
+    {
+      "igdb_id": 205500,
+      "game_name": "Trainz Plus: Leadville Subdivision",
+      "file": "missing/T/205500-trainz-plus-leadville-subdivision.json"
+    },
+    {
+      "igdb_id": 205509,
+      "game_name": "Trainz Plus: Legacy of the Burlington Northern II",
+      "file": "missing/T/205509-trainz-plus-legacy-of-the-burlington-northern-ii.json"
     },
     {
       "igdb_id": 285515,
@@ -570733,9 +570898,29 @@
       "file": "missing/T/306103-trainz-plus-model-trainz-freemont-mills.json"
     },
     {
+      "igdb_id": 205488,
+      "game_name": "Trainz Plus: Model Trainz - Geneva Sub Division",
+      "file": "missing/T/205488-trainz-plus-model-trainz-geneva-sub-division.json"
+    },
+    {
+      "igdb_id": 205506,
+      "game_name": "Trainz Plus: Model Trainz - New South Wales Region",
+      "file": "missing/T/205506-trainz-plus-model-trainz-new-south-wales-region.json"
+    },
+    {
       "igdb_id": 262332,
       "game_name": "Trainz Plus: Model Trainz - UZ-Gbox",
       "file": "missing/T/262332-trainz-plus-model-trainz-uz-gbox.json"
+    },
+    {
+      "igdb_id": 205523,
+      "game_name": "Trainz Plus: Newcastle Shunter",
+      "file": "missing/T/205523-trainz-plus-newcastle-shunter.json"
+    },
+    {
+      "igdb_id": 205524,
+      "game_name": "Trainz Plus: Niddertalbahn",
+      "file": "missing/T/205524-trainz-plus-niddertalbahn.json"
     },
     {
       "igdb_id": 284916,
@@ -570746,6 +570931,26 @@
       "igdb_id": 205562,
       "game_name": "Trainz Plus: NS SD60E - 6963 GoRail",
       "file": "missing/T/205562-trainz-plus-ns-sd60e-6963-gorail.json"
+    },
+    {
+      "igdb_id": 205517,
+      "game_name": "Trainz Plus: NS SD60E - Horsehead",
+      "file": "missing/T/205517-trainz-plus-ns-sd60e-horsehead.json"
+    },
+    {
+      "igdb_id": 205495,
+      "game_name": "Trainz Plus: PKP/PREG Bdhpumn/B16mnopux",
+      "file": "missing/T/205495-trainz-plus-pkp-preg-bdhpumn-b16mnopux.json"
+    },
+    {
+      "igdb_id": 205490,
+      "game_name": "Trainz Plus: PKP/PREG/PolRegio Bdhpumn/B16mnopux",
+      "file": "missing/T/205490-trainz-plus-pkp-preg-polregio-bdhpumn-b16mnopux.json"
+    },
+    {
+      "igdb_id": 205529,
+      "game_name": "Trainz Plus: PolRegio B16mnopux 035",
+      "file": "missing/T/205529-trainz-plus-polregio-b16mnopux-035.json"
     },
     {
       "igdb_id": 288212,
@@ -570763,9 +570968,24 @@
       "file": "missing/T/205553-trainz-plus-preg-b16mnopux-039.json"
     },
     {
+      "igdb_id": 205497,
+      "game_name": "Trainz Plus: PREG B16mnopux 064",
+      "file": "missing/T/205497-trainz-plus-preg-b16mnopux-064.json"
+    },
+    {
       "igdb_id": 205564,
       "game_name": "Trainz Plus: PREG B16mnopux 087",
       "file": "missing/T/205564-trainz-plus-preg-b16mnopux-087.json"
+    },
+    {
+      "igdb_id": 205508,
+      "game_name": "Trainz Plus: PREG Bdhpumn 088",
+      "file": "missing/T/205508-trainz-plus-preg-bdhpumn-088.json"
+    },
+    {
+      "igdb_id": 205515,
+      "game_name": "Trainz Plus: PREG Bmnopux 003",
+      "file": "missing/T/205515-trainz-plus-preg-bmnopux-003.json"
     },
     {
       "igdb_id": 205546,
@@ -570828,6 +571048,16 @@
       "file": "missing/T/213407-trainz-plus-qr-national-ge-c44aci.json"
     },
     {
+      "igdb_id": 205530,
+      "game_name": "Trainz Plus: RVSX Vegetation Control Train",
+      "file": "missing/T/205530-trainz-plus-rvsx-vegetation-control-train.json"
+    },
+    {
+      "igdb_id": 205536,
+      "game_name": "Trainz Plus: RZD-UZ-RIC Wagons",
+      "file": "missing/T/205536-trainz-plus-rzd-uz-ric-wagons.json"
+    },
+    {
       "igdb_id": 205552,
       "game_name": "Trainz Plus: RZD-UZ-RIC Wagons Praha",
       "file": "missing/T/205552-trainz-plus-rzd-uz-ric-wagons-praha.json"
@@ -570836,6 +571066,11 @@
       "igdb_id": 205554,
       "game_name": "Trainz Plus: Season Town Northern Rail Road Route",
       "file": "missing/T/205554-trainz-plus-season-town-northern-rail-road-route.json"
+    },
+    {
+      "igdb_id": 205516,
+      "game_name": "Trainz Plus: Shmmns Coil Transporter",
+      "file": "missing/T/205516-trainz-plus-shmmns-coil-transporter.json"
     },
     {
       "igdb_id": 205547,
@@ -570851,6 +571086,21 @@
       "igdb_id": 205561,
       "game_name": "Trainz Plus: TE3-2068",
       "file": "missing/T/205561-trainz-plus-te3-2068.json"
+    },
+    {
+      "igdb_id": 205492,
+      "game_name": "Trainz Plus: TE7-083",
+      "file": "missing/T/205492-trainz-plus-te7-083.json"
+    },
+    {
+      "igdb_id": 205498,
+      "game_name": "Trainz Plus: The Shorts and Kerl Traction Railroad",
+      "file": "missing/T/205498-trainz-plus-the-shorts-and-kerl-traction-railroad.json"
+    },
+    {
+      "igdb_id": 205532,
+      "game_name": "Trainz Plus: Tidewater Point Railroad 2.0",
+      "file": "missing/T/205532-trainz-plus-tidewater-point-railroad-2-0.json"
     },
     {
       "igdb_id": 264116,
