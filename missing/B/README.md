@@ -6322,6 +6322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Life | 265391 | [265391-broken-life.json](./265391-broken-life.json) |
 | Broken Lines | 107175 | [107175-broken-lines.json](./107175-broken-lines.json) |
 | Broken Metal | 111038 | [111038-broken-metal.json](./111038-broken-metal.json) |
+| Broken Mind | 181138 | [181138-broken-mind.json](./181138-broken-mind.json) |
 | Broken Note | 237041 | [237041-broken-note.json](./237041-broken-note.json) |
 | Broken Pact | 357319 | [357319-broken-pact.json](./357319-broken-pact.json) |
 | Broken Paradox | 346689 | [346689-broken-paradox.json](./346689-broken-paradox.json) |
@@ -6334,6 +6335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Relic | 342896 | [342896-broken-relic.json](./342896-broken-relic.json) |
 | Broken Robot | 152840 | [152840-broken-robot.json](./152840-broken-robot.json) |
 | Broken Shell | 304374 | [304374-broken-shell.json](./304374-broken-shell.json) |
+| Broken Skies | 181136 | [181136-broken-skies.json](./181136-broken-skies.json) |
 | Broken Soul | 245789 | [245789-broken-soul.json](./245789-broken-soul.json) |
 | Broken Spell | 122422 | [122422-broken-spell.json](./122422-broken-spell.json) |
 | Broken Spell 2 | 129009 | [129009-broken-spell-2.json](./129009-broken-spell-2.json) |
