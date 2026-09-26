@@ -1846,6 +1846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nighthaw-X3000 | 29181 | [29181-nighthaw-x3000.json](./29181-nighthaw-x3000.json) |
 | Nightin Cage | 351701 | [351701-nightin-cage.json](./351701-nightin-cage.json) |
 | Nightingale Downs | 74112 | [74112-nightingale-downs.json](./74112-nightingale-downs.json) |
+| Nightingale: Birth of the Alliance | 194990 | [194990-nightingale-birth-of-the-alliance.json](./194990-nightingale-birth-of-the-alliance.json) |
 | Nightingale: Realms Rebuilt | 314408 | [314408-nightingale-realms-rebuilt.json](./314408-nightingale-realms-rebuilt.json) |
 | Nightlatch: Haunted House | 414411 | [414411-nightlatch-haunted-house.json](./414411-nightlatch-haunted-house.json) |
 | Nightlife | 262308 | [262308-nightlife.json](./262308-nightlife.json) |
@@ -2406,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Recollection | 270075 | [270075-no-recollection.json](./270075-no-recollection.json) |
 | No Recollection: Swimsuit DLC! | 315486 | [315486-no-recollection-swimsuit-dlc.json](./315486-no-recollection-swimsuit-dlc.json) |
 | No Register | 405713 | [405713-no-register.json](./405713-no-register.json) |
+| No Reloading: Survival Trials | 194954 | [194954-no-reloading-survival-trials.json](./194954-no-reloading-survival-trials.json) |
 | No Rest | 302688 | [302688-no-rest.json](./302688-no-rest.json) |
 | No Rest for the Weary | 334198 | [334198-no-rest-for-the-weary.json](./334198-no-rest-for-the-weary.json) |
 | No Retreat! the Russian Front | 348867 | [348867-no-retreat-the-russian-front.json](./348867-no-retreat-the-russian-front.json) |
