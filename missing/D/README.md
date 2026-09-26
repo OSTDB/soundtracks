@@ -2087,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeprealm Odyssey: Adventure game | 208917 | [208917-deeprealm-odyssey-adventure-game.json](./208917-deeprealm-odyssey-adventure-game.json) |
 | Deepsea Salvor | 128375 | [128375-deepsea-salvor.json](./128375-deepsea-salvor.json) |
 | DeepSea Serenity: VR Underwater Trip | 288786 | [288786-deepsea-serenity-vr-underwater-trip.json](./288786-deepsea-serenity-vr-underwater-trip.json) |
+| DeepStorm Online | 197121 | [197121-deepstorm-online.json](./197121-deepstorm-online.json) |
 | DeepTrouble | 57629 | [57629-deeptrouble.json](./57629-deeptrouble.json) |
 | Deepward | 410958 | [410958-deepward.json](./410958-deepward.json) |
 | DeepWeb Simulator | 291448 | [291448-deepweb-simulator.json](./291448-deepweb-simulator.json) |
@@ -6935,6 +6936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumb Castle | 289304 | [289304-dumb-castle.json](./289304-dumb-castle.json) |
 | Dumb Chicken 2: One Way Out | 32895 | [32895-dumb-chicken-2-one-way-out.json](./32895-dumb-chicken-2-one-way-out.json) |
 | Dumb Little Creatures | 109683 | [109683-dumb-little-creatures.json](./109683-dumb-little-creatures.json) |
+| Dumb Little Robots | 197150 | [197150-dumb-little-robots.json](./197150-dumb-little-robots.json) |
 | Dumb Roguelike-like RPG | 164517 | [164517-dumb-roguelike-like-rpg.json](./164517-dumb-roguelike-like-rpg.json) |
 | Dumb Ways to Die | 80659 | [80659-dumb-ways-to-die.json](./80659-dumb-ways-to-die.json) |
 | Dumb Ways to Die 4 | 248649 | [248649-dumb-ways-to-die-4.json](./248649-dumb-ways-to-die-4.json) |
@@ -7223,6 +7225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon X Pixel Hero VIP | 107164 | [107164-dungeon-x-pixel-hero-vip.json](./107164-dungeon-x-pixel-hero-vip.json) |
 | Dungeon, Inc. | 247176 | [247176-dungeon-inc.json](./247176-dungeon-inc.json) |
 | Dungeon; Friends Escape! | 55516 | [55516-dungeon-friends-escape.json](./55516-dungeon-friends-escape.json) |
+| Dungeon: Faster & Deadlier | 197145 | [197145-dungeon-faster-and-deadlier.json](./197145-dungeon-faster-and-deadlier.json) |
 | Dungeon's Fall | 189125 | [189125-dungeons-fall.json](./189125-dungeons-fall.json) |
 | Dungeon&Girls | 131403 | [131403-dungeon-and-girls.json](./131403-dungeon-and-girls.json) |
 | Dungeonborne | 253880 | [253880-dungeonborne.json](./253880-dungeonborne.json) |
