@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icewind Dale: Complete | 143699 | [143699-icewind-dale-complete.json](./143699-icewind-dale-complete.json) |
 | Icewind Dale: Enhanced Edition | 36240 | [36240-icewind-dale-enhanced-edition.json](./36240-icewind-dale-enhanced-edition.json) |
 | Ichido ha Yonde Okitai: Nihon Bungaku 100-sen | 269639 | [269639-ichido-ha-yonde-okitai-nihon-bungaku-100-sen.json](./269639-ichido-ha-yonde-okitai-nihon-bungaku-100-sen.json) |
+| Ichigeki: Hagane No Hito | 174632 | [174632-ichigeki-hagane-no-hito.json](./174632-ichigeki-hagane-no-hito.json) |
 | Ichigo's Study Sessions | 361345 | [361345-ichigos-study-sessions.json](./361345-ichigos-study-sessions.json) |
 | Ichikoi | 412544 | [412544-ichikoi.json](./412544-ichikoi.json) |
 | Ichinichi | 262988 | [262988-ichinichi.json](./262988-ichinichi.json) |
@@ -1353,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indian Mutiny: Little Sepoy | 101351 | [101351-indian-mutiny-little-sepoy.json](./101351-indian-mutiny-little-sepoy.json) |
 | Indian Rummy: Fun Card Game | 88171 | [88171-indian-rummy-fun-card-game.json](./88171-indian-rummy-fun-card-game.json) |
 | Indian Street Food Simulator | 407345 | [407345-indian-street-food-simulator.json](./407345-indian-street-food-simulator.json) |
+| Indian Train Simulator | 174639 | [174639-indian-train-simulator.json](./174639-indian-train-simulator.json) |
 | Indian Train Simulator 2018 | 208928 | [208928-indian-train-simulator-2018.json](./208928-indian-train-simulator-2018.json) |
 | Indiana Boy Steam Edition | 112930 | [112930-indiana-boy-steam-edition.json](./112930-indiana-boy-steam-edition.json) |
 | Indiana Jones and The Great Circle: Collector's Edition | 317816 | [317816-indiana-jones-and-the-great-circle-collectors-edition.json](./317816-indiana-jones-and-the-great-circle-collectors-edition.json) |
@@ -1507,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernal Cleaner | 411806 | [411806-infernal-cleaner.json](./411806-infernal-cleaner.json) |
 | Infernal Dream Collection | 53230 | [53230-infernal-dream-collection.json](./53230-infernal-dream-collection.json) |
 | Infernal Eclipse of Ragnarok | 379350 | [379350-infernal-eclipse-of-ragnarok.json](./379350-infernal-eclipse-of-ragnarok.json) |
+| Infernal House | 174633 | [174633-infernal-house.json](./174633-infernal-house.json) |
 | Infernal Hunt | 303580 | [303580-infernal-hunt.json](./303580-infernal-hunt.json) |
 | Infernal Racket | 72355 | [72355-infernal-racket.json](./72355-infernal-racket.json) |
 | Infernal Wave | 259645 | [259645-infernal-wave.json](./259645-infernal-wave.json) |
