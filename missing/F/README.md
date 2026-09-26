@@ -3265,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floppy Knights: Version 2.0 | 230299 | [230299-floppy-knights-version-2-0.json](./230299-floppy-knights-version-2-0.json) |
 | Floppy Minecraft | 144104 | [144104-floppy-minecraft.json](./144104-floppy-minecraft.json) |
 | Flora | 364685 | [364685-flora.json](./364685-flora.json) |
+| Flora and Sauna | 201035 | [201035-flora-and-sauna.json](./201035-flora-and-sauna.json) |
 | Flora and the Darkness | 175906 | [175906-flora-and-the-darkness.json](./175906-flora-and-the-darkness.json) |
 | Flora Learns to Sing! | 321332 | [321332-flora-learns-to-sing.json](./321332-flora-learns-to-sing.json) |
 | Floracide | 386977 | [386977-floracide.json](./386977-floracide.json) |
@@ -4686,6 +4687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fresh Milk For Mars | 295838 | [295838-fresh-milk-for-mars.json](./295838-fresh-milk-for-mars.json) |
 | Fresh Tracks Snowboarding | 344907 | [344907-fresh-tracks-snowboarding.json](./344907-fresh-tracks-snowboarding.json) |
 | Fresh Tracks VR | 380569 | [380569-fresh-tracks-vr.json](./380569-fresh-tracks-vr.json) |
+| Freshman Magic: Spellbooks and Tangled Sheets | 201010 | [201010-freshman-magic-spellbooks-and-tangled-sheets.json](./201010-freshman-magic-spellbooks-and-tangled-sheets.json) |
 | FreshWomen: Season 3 | 411674 | [411674-freshwomen-season-3.json](./411674-freshwomen-season-3.json) |
 | Fret Nice | 52230 | [52230-fret-nice.json](./52230-fret-nice.json) |
 | Freud Gate | 125200 | [125200-freud-gate.json](./125200-freud-gate.json) |
