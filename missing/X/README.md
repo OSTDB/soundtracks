@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xel: Breaking Time | 246632 | [246632-xel-breaking-time.json](./246632-xel-breaking-time.json) |
 | Xel: Complete Edition | 246633 | [246633-xel-complete-edition.json](./246633-xel-complete-edition.json) |
 | Xelan Force | 277340 | [277340-xelan-force.json](./277340-xelan-force.json) |
+| Xelphi: Second Limit | 213894 | [213894-xelphi-second-limit.json](./213894-xelphi-second-limit.json) |
 | Xemo: Robot Sim | 30939 | [30939-xemo-robot-sim.json](./30939-xemo-robot-sim.json) |
 | Xena: The Warrior Princess | 205821 | [205821-xena-the-warrior-princess.json](./205821-xena-the-warrior-princess.json) |
 | Xena: Warrior Princess - Death in Chains | 205822 | [205822-xena-warrior-princess-death-in-chains.json](./205822-xena-warrior-princess-death-in-chains.json) |
@@ -342,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XLR | 33394 | [33394-xlr.json](./33394-xlr.json) |
 | Xmas Boom | 254136 | [254136-xmas-boom.json](./254136-xmas-boom.json) |
 | Xmas Jam 2017 | 271230 | [271230-xmas-jam-2017.json](./271230-xmas-jam-2017.json) |
+| Xmas Lemmings | 213867 | [213867-xmas-lemmings.json](./213867-xmas-lemmings.json) |
 | Xmas Presents | 393452 | [393452-xmas-presents.json](./393452-xmas-presents.json) |
 | Xmas Shooting: Scramble!! | 26594 | [26594-xmas-shooting-scramble.json](./26594-xmas-shooting-scramble.json) |
 | Xmas Survivors | 382876 | [382876-xmas-survivors.json](./382876-xmas-survivors.json) |
