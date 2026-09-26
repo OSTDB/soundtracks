@@ -1698,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Teams 2: Wishlist Pack | 310384 | [310384-battle-teams-2-wishlist-pack.json](./310384-battle-teams-2-wishlist-pack.json) |
 | Battle Through Time | 13864 | [13864-battle-through-time.json](./13864-battle-through-time.json) |
 | Battle Thunder Front | 220354 | [220354-battle-thunder-front.json](./220354-battle-thunder-front.json) |
+| Battle Titans | 199942 | [199942-battle-titans.json](./199942-battle-titans.json) |
 | Battle Tracks | 207403 | [207403-battle-tracks.json](./207403-battle-tracks.json) |
 | Battle Train | 311876 | [311876-battle-train.json](./311876-battle-train.json) |
 | Battle Trendaria | 75138 | [75138-battle-trendaria.json](./75138-battle-trendaria.json) |
@@ -3728,6 +3729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade of Chaos: Immortal Titan | 224093 | [224093-blade-of-chaos-immortal-titan.json](./224093-blade-of-chaos-immortal-titan.json) |
 | Blade of Dawn | 322361 | [322361-blade-of-dawn.json](./322361-blade-of-dawn.json) |
 | Blade of Following | 181778 | [181778-blade-of-following.json](./181778-blade-of-following.json) |
+| Blade of God | 199905 | [199905-blade-of-god.json](./199905-blade-of-god.json) |
 | Blade of God 2 | 174805 | [174805-blade-of-god-2.json](./174805-blade-of-god-2.json) |
 | Blade of Jinshu | 364573 | [364573-blade-of-jinshu.json](./364573-blade-of-jinshu.json) |
 | Blade of Mercy: Bloody Countess | 407580 | [407580-blade-of-mercy-bloody-countess.json](./407580-blade-of-mercy-bloody-countess.json) |
@@ -4910,6 +4912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Threat | 77324 | [77324-bomb-threat.json](./77324-bomb-threat.json) |
 | Bomb-Bomb | 101628 | [101628-bomb-bomb.json](./101628-bomb-bomb.json) |
 | Bomb: Who let the dogfight? | 17403 | [17403-bomb-who-let-the-dogfight.json](./17403-bomb-who-let-the-dogfight.json) |
+| Bomb! Tank | 199902 | [199902-bomb-tank.json](./199902-bomb-tank.json) |
 | Bomba Patch | 126442 | [126442-bomba-patch.json](./126442-bomba-patch.json) |
 | Bomba: The Explosive Hero | 213956 | [213956-bomba-the-explosive-hero.json](./213956-bomba-the-explosive-hero.json) |
 | Bombabomb! | 267092 | [267092-bombabomb.json](./267092-bombabomb.json) |
@@ -5964,6 +5967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakers Revenge | 39558 | [39558-breakers-revenge.json](./39558-breakers-revenge.json) |
 | Breakfall: Nuclear Winter | 342616 | [342616-breakfall-nuclear-winter.json](./342616-breakfall-nuclear-winter.json) |
 | Breakfast at Twilight | 271771 | [271771-breakfast-at-twilight.json](./271771-breakfast-at-twilight.json) |
+| Breakfast Bar Tycoon: Complete Edition | 199897 | [199897-breakfast-bar-tycoon-complete-edition.json](./199897-breakfast-bar-tycoon-complete-edition.json) |
 | Breakfast Bar Tycoon: Definitive Edition | 333719 | [333719-breakfast-bar-tycoon-definitive-edition.json](./333719-breakfast-bar-tycoon-definitive-edition.json) |
 | Breakfast Bar Tycoon: Super Edition | 315875 | [315875-breakfast-bar-tycoon-super-edition.json](./315875-breakfast-bar-tycoon-super-edition.json) |
 | Breakfast Bar Tycoon: Ultimate Edition | 298569 | [298569-breakfast-bar-tycoon-ultimate-edition.json](./298569-breakfast-bar-tycoon-ultimate-edition.json) |
