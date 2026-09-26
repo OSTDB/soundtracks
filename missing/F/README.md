@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Down | 40791 | [40791-fall-down.json](./40791-fall-down.json) |
 | Fall Down | 95432 | [95432-fall-down.json](./95432-fall-down.json) |
 | Fall From Eden | 340053 | [340053-fall-from-eden.json](./340053-fall-from-eden.json) |
+| Fall Guys World | 213892 | [213892-fall-guys-world.json](./213892-fall-guys-world.json) |
 | Fall Guys: Avian Angler Pack | 243797 | [243797-fall-guys-avian-angler-pack.json](./243797-fall-guys-avian-angler-pack.json) |
 | Fall Guys: Crow Pack | 243681 | [243681-fall-guys-crow-pack.json](./243681-fall-guys-crow-pack.json) |
 | Fall Guys: Doc Glover Pack | 243772 | [243772-fall-guys-doc-glover-pack.json](./243772-fall-guys-doc-glover-pack.json) |
