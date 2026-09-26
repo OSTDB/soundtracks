@@ -3440,6 +3440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bizarre Tale | 76671 | [76671-bizarre-tale.json](./76671-bizarre-tale.json) |
 | Bizerta: Silent Evil | 60570 | [60570-bizerta-silent-evil.json](./60570-bizerta-silent-evil.json) |
 | Bizy Beezzzz | 60207 | [60207-bizy-beezzzz.json](./60207-bizy-beezzzz.json) |
+| Bizzare | 212757 | [212757-bizzare.json](./212757-bizzare.json) |
 | Bizzarioware | 185148 | [185148-bizzarioware.json](./185148-bizzarioware.json) |
 | Bizzy Robo | 259030 | [259030-bizzy-robo.json](./259030-bizzy-robo.json) |
 | Björnes Magasin | 92829 | [92829-bjornes-magasin.json](./92829-bjornes-magasin.json) |
