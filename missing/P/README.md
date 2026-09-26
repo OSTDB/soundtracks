@@ -2910,6 +2910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pioneers of the Coast | 341575 | [341575-pioneers-of-the-coast.json](./341575-pioneers-of-the-coast.json) |
 | Pioneerz | 129219 | [129219-pioneerz.json](./129219-pioneerz.json) |
 | Piozila 2 : Animal Adventures | 269066 | [269066-piozila-2-animal-adventures.json](./269066-piozila-2-animal-adventures.json) |
+| Pip 5 | 221132 | [221132-pip-5.json](./221132-pip-5.json) |
 | Pip L | 226685 | [226685-pip-l.json](./226685-pip-l.json) |
 | Pip My Dice | 314288 | [314288-pip-my-dice.json](./314288-pip-my-dice.json) |
 | Pip Pepper Park Planner | 347116 | [347116-pip-pepper-park-planner.json](./347116-pip-pepper-park-planner.json) |
@@ -3581,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Stronghold | 8982 | [8982-planet-stronghold.json](./8982-planet-stronghold.json) |
 | Planet Stronghold 2 | 103609 | [103609-planet-stronghold-2.json](./103609-planet-stronghold-2.json) |
 | Planet Surf: The Last Wave | 158672 | [158672-planet-surf-the-last-wave.json](./158672-planet-surf-the-last-wave.json) |
+| Planet Surfer | 221145 | [221145-planet-surfer.json](./221145-planet-surfer.json) |
 | Planet TD | 195265 | [195265-planet-td.json](./195265-planet-td.json) |
 | Planet Valley | 260647 | [260647-planet-valley.json](./260647-planet-valley.json) |
 | Planet Wars | 207855 | [207855-planet-wars.json](./207855-planet-wars.json) |
@@ -4612,6 +4614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Memory: Primates | 210878 | [210878-poly-memory-primates.json](./210878-poly-memory-primates.json) |
 | Poly Parkour | 215699 | [215699-poly-parkour.json](./215699-poly-parkour.json) |
 | Poly Party | 158664 | [158664-poly-party.json](./158664-poly-party.json) |
+| Poly Puzzle: Dinosaurs | 221133 | [221133-poly-puzzle-dinosaurs.json](./221133-poly-puzzle-dinosaurs.json) |
 | Poly Racing | 173290 | [173290-poly-racing.json](./173290-poly-racing.json) |
 | Poly S.A.E. | 185541 | [185541-poly-s-a-e.json](./185541-poly-s-a-e.json) |
 | Poly Shooting Simulator | 277886 | [277886-poly-shooting-simulator.json](./277886-poly-shooting-simulator.json) |
@@ -6732,7 +6735,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PunPics | 233217 | [233217-punpics.json](./233217-punpics.json) |
 | Punt | 239675 | [239675-punt.json](./239675-punt.json) |
 | Punt: Rebirth | 401486 | [401486-punt-rebirth.json](./401486-punt-rebirth.json) |
+| Puny BOB | 221131 | [221131-puny-bob.json](./221131-puny-bob.json) |
 | Punyan Connecty | 362351 | [362351-punyan-connecty.json](./362351-punyan-connecty.json) |
+| Punzel: Chapter I - Toujours la Meme Histoire | 221147 | [221147-punzel-chapter-i-toujours-la-meme-histoire.json](./221147-punzel-chapter-i-toujours-la-meme-histoire.json) |
 | Pup Boy Cowboy: Infinite Desert Edition | 410443 | [410443-pup-boy-cowboy-infinite-desert-edition.json](./410443-pup-boy-cowboy-infinite-desert-edition.json) |
 | Pupa | 310221 | [310221-pupa.json](./310221-pupa.json) |
 | Pupil: Wandering VR | 117834 | [117834-pupil-wandering-vr.json](./117834-pupil-wandering-vr.json) |
