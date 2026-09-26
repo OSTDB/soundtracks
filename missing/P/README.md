@@ -781,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papyrus | 49864 | [49864-papyrus.json](./49864-papyrus.json) |
 | Par 1 Golf | 200103 | [200103-par-1-golf.json](./200103-par-1-golf.json) |
 | Par 1 Golf 10 | 200181 | [200181-par-1-golf-10.json](./200181-par-1-golf-10.json) |
+| Par 1 Golf 5 | 197667 | [197667-par-1-golf-5.json](./197667-par-1-golf-5.json) |
 | Par 1 Golf 7 | 174296 | [174296-par-1-golf-7.json](./174296-par-1-golf-7.json) |
 | Par 1 Golf 8 | 197790 | [197790-par-1-golf-8.json](./197790-par-1-golf-8.json) |
 | Para-Lax | 211144 | [211144-para-lax.json](./211144-para-lax.json) |
