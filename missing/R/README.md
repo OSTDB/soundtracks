@@ -716,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampart | 9684 | [9684-rampart.json](./9684-rampart.json) |
 | Ramped Up! | 234604 | [234604-ramped-up.json](./234604-ramped-up.json) |
 | Ramsak | 25139 | [25139-ramsak.json](./25139-ramsak.json) |
+| Ramses Classic | 200444 | [200444-ramses-classic.json](./200444-ramses-classic.json) |
 | Ramshackle | 374162 | [374162-ramshackle.json](./374162-ramshackle.json) |
 | Rana Neida | 303070 | [303070-rana-neida.json](./303070-rana-neida.json) |
 | Rana Rama | 30805 | [30805-rana-rama.json](./30805-rana-rama.json) |
@@ -1684,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Trees Rail. CO | 305925 | [305925-red-trees-rail-co.json](./305925-red-trees-rail-co.json) |
 | Red White Yellow | 152158 | [152158-red-white-yellow.json](./152158-red-white-yellow.json) |
 | Red White Yellow Cruising | 207894 | [207894-red-white-yellow-cruising.json](./207894-red-white-yellow-cruising.json) |
+| Red White Yellow Stingray | 200459 | [200459-red-white-yellow-stingray.json](./200459-red-white-yellow-stingray.json) |
 | Red Wings: Coloring Planes | 192405 | [192405-red-wings-coloring-planes.json](./192405-red-wings-coloring-planes.json) |
 | Red Wolf | 378200 | [378200-red-wolf.json](./378200-red-wolf.json) |
 | Red World Fan Fork | 398440 | [398440-red-world-fan-fork.json](./398440-red-world-fan-fork.json) |
@@ -2611,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenant: Through the Veil | 352288 | [352288-revenant-through-the-veil.json](./352288-revenant-through-the-veil.json) |
 | Revenants: Spirit & Mind | 190154 | [190154-revenants-spirit-and-mind.json](./190154-revenants-spirit-and-mind.json) |
 | Revenge Crystal | 278401 | [278401-revenge-crystal.json](./278401-revenge-crystal.json) |
+| Revenge Master | 200427 | [200427-revenge-master.json](./200427-revenge-master.json) |
 | Revenge of Justice | 122349 | [122349-revenge-of-justice.json](./122349-revenge-of-justice.json) |
 | Revenge of Marjorie the Chicken | 137694 | [137694-revenge-of-marjorie-the-chicken.json](./137694-revenge-of-marjorie-the-chicken.json) |
 | Revenge of Meta Knight | 271263 | [271263-revenge-of-meta-knight.json](./271263-revenge-of-meta-knight.json) |
@@ -3453,6 +3456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road of Death | 207903 | [207903-road-of-death.json](./207903-road-of-death.json) |
 | Road of Destiny | 87957 | [87957-road-of-destiny.json](./87957-road-of-destiny.json) |
 | Road of Dust and Rust | 87949 | [87949-road-of-dust-and-rust.json](./87949-road-of-dust-and-rust.json) |
+| Road Race | 200425 | [200425-road-race.json](./200425-road-race.json) |
 | Road Racer | 297243 | [297243-road-racer.json](./297243-road-racer.json) |
 | Road Rage 3 | 43536 | [43536-road-rage-3.json](./43536-road-rage-3.json) |
 | Road Rash | 249144 | [249144-road-rash.json](./249144-road-rash.json) |
@@ -4425,6 +4429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Cleaning 2 | 272939 | [272939-room-cleaning-2.json](./272939-room-cleaning-2.json) |
 | Room Containing Candle x4 | 142502 | [142502-room-containing-candle-x4.json](./142502-room-containing-candle-x4.json) |
 | Room Escape '1053' | 127376 | [127376-room-escape-1053.json](./127376-room-escape-1053.json) |
+| Room Escape in Voxels | 200440 | [200440-room-escape-in-voxels.json](./200440-room-escape-in-voxels.json) |
 | Room Escape: Scary Horror Game | 232026 | [232026-room-escape-scary-horror-game.json](./232026-room-escape-scary-horror-game.json) |
 | Room Explorer 2010 | 198511 | [198511-room-explorer-2010.json](./198511-room-explorer-2010.json) |
 | Room Explorer 2010: Deluxe Lover's Paque | 198512 | [198512-room-explorer-2010-deluxe-lovers-paque.json](./198512-room-explorer-2010-deluxe-lovers-paque.json) |
