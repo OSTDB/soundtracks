@@ -1921,6 +1921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Boy | 149427 | [149427-hentai-boy.json](./149427-hentai-boy.json) |
 | Hentai Breeding Simulator | 309474 | [309474-hentai-breeding-simulator.json](./309474-hentai-breeding-simulator.json) |
 | Hentai BunnyGirl | 226162 | [226162-hentai-bunnygirl.json](./226162-hentai-bunnygirl.json) |
+| Hentai Cast: Podcast Simulator | 212195 | [212195-hentai-cast-podcast-simulator.json](./212195-hentai-cast-podcast-simulator.json) |
 | Hentai Casual Slider 2 | 234736 | [234736-hentai-casual-slider-2.json](./234736-hentai-casual-slider-2.json) |
 | Hentai Cheerleader | 239749 | [239749-hentai-cheerleader.json](./239749-hentai-cheerleader.json) |
 | Hentai Chicks 2 | 149415 | [149415-hentai-chicks-2.json](./149415-hentai-chicks-2.json) |
@@ -2635,6 +2636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hey Bobby! | 331697 | [331697-hey-bobby.json](./331697-hey-bobby.json) |
 | Hey Duggee: The Big Outdoor App | 88308 | [88308-hey-duggee-the-big-outdoor-app.json](./88308-hey-duggee-the-big-outdoor-app.json) |
 | Hey Ma I'm a Dragon Now | 279586 | [279586-hey-ma-im-a-dragon-now.json](./279586-hey-ma-im-a-dragon-now.json) |
+| Hey Stranger! I Dare You to Love Me! | 212201 | [212201-hey-stranger-i-dare-you-to-love-me.json](./212201-hey-stranger-i-dare-you-to-love-me.json) |
 | Hey You, Pikachu! Demake | 413223 | [413223-hey-you-pikachu-demake.json](./413223-hey-you-pikachu-demake.json) |
 | Hey, Don't Look at Me | 416644 | [416644-hey-dont-look-at-me.json](./416644-hey-dont-look-at-me.json) |
 | Hey, Man!: Born in the Electric | 273968 | [273968-hey-man-born-in-the-electric.json](./273968-hey-man-born-in-the-electric.json) |
@@ -2880,7 +2882,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Things Beach Elves | 397210 | [397210-hidden-things-beach-elves.json](./397210-hidden-things-beach-elves.json) |
 | Hidden Through Time | 128909 | [128909-hidden-through-time.json](./128909-hidden-through-time.json) |
 | Hidden Through Time 2: Discovery | 291422 | [291422-hidden-through-time-2-discovery.json](./291422-hidden-through-time-2-discovery.json) |
+| Hidden Through Time: Aztec Rituals | 212224 | [212224-hidden-through-time-aztec-rituals.json](./212224-hidden-through-time-aztec-rituals.json) |
 | Hidden Through Time: Legends of Japan | 154514 | [154514-hidden-through-time-legends-of-japan.json](./154514-hidden-through-time-legends-of-japan.json) |
+| Hidden Through Time: Pirate Treasures | 212223 | [212223-hidden-through-time-pirate-treasures.json](./212223-hidden-through-time-pirate-treasures.json) |
 | Hidden Through Time: Road to Rome | 154515 | [154515-hidden-through-time-road-to-rome.json](./154515-hidden-through-time-road-to-rome.json) |
 | Hidden Through Time: Viking Tales | 154516 | [154516-hidden-through-time-viking-tales.json](./154516-hidden-through-time-viking-tales.json) |
 | Hidden Tomatoes | 326783 | [326783-hidden-tomatoes.json](./326783-hidden-tomatoes.json) |
@@ -4020,6 +4024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Spell | 226189 | [226189-horny-spell.json](./226189-horny-spell.json) |
 | Horny Sweeper 2 | 130735 | [130735-horny-sweeper-2.json](./130735-horny-sweeper-2.json) |
 | Horny Warp: Hentai Fantasy | 343372 | [343372-horny-warp-hentai-fantasy.json](./343372-horny-warp-hentai-fantasy.json) |
+| Horny Witch Hunt | 212200 | [212200-horny-witch-hunt.json](./212200-horny-witch-hunt.json) |
 | Horny Wives' Yoga Class | 393797 | [393797-horny-wives-yoga-class.json](./393797-horny-wives-yoga-class.json) |
 | Horobi Kuchiru Sekai ni Tsuioku no Hanataba wo | 198365 | [198365-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo.json](./198365-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo.json) |
 | Horrible Histories: Ruthless Romans | 21286 | [21286-horrible-histories-ruthless-romans.json](./21286-horrible-histories-ruthless-romans.json) |
@@ -4168,6 +4173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot And Lovely: Uniform | 262926 | [262926-hot-and-lovely-uniform.json](./262926-hot-and-lovely-uniform.json) |
 | Hot Brass: Operator Edition | 167176 | [167176-hot-brass-operator-edition.json](./167176-hot-brass-operator-edition.json) |
 | Hot Bubble | 40194 | [40194-hot-bubble.json](./40194-hot-bubble.json) |
+| Hot Cam | 212196 | [212196-hot-cam.json](./212196-hot-cam.json) |
 | Hot Candy Land | 262955 | [262955-hot-candy-land.json](./262955-hot-candy-land.json) |
 | Hot Cleopatra | 221196 | [221196-hot-cleopatra.json](./221196-hot-cleopatra.json) |
 | Hot Cocoa Magic! | 249469 | [249469-hot-cocoa-magic.json](./249469-hot-cocoa-magic.json) |
