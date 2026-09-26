@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane's Combat Simulations: Israeli Air Force | 72071 | [72071-janes-combat-simulations-israeli-air-force.json](./72071-janes-combat-simulations-israeli-air-force.json) |
 | Jane's F/A-18 | 687 | [687-janes-f-a-18.json](./687-janes-f-a-18.json) |
 | Jane's Hotel | 20549 | [20549-janes-hotel.json](./20549-janes-hotel.json) |
+| Jane's Hotel | 210009 | [210009-janes-hotel.json](./210009-janes-hotel.json) |
 | Janga | 121629 | [121629-janga.json](./121629-janga.json) |
 | Janggi for Kakao | 126002 | [126002-janggi-for-kakao.json](./126002-janggi-for-kakao.json) |
 | Janggun | 145638 | [145638-janggun.json](./145638-janggun.json) |
@@ -481,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Pack | 84273 | [84273-jet-pack.json](./84273-jet-pack.json) |
 | Jet Pilot | 330740 | [330740-jet-pilot.json](./330740-jet-pilot.json) |
 | Jet Racing Extreme | 34903 | [34903-jet-racing-extreme.json](./34903-jet-racing-extreme.json) |
+| Jet Riders | 209997 | [209997-jet-riders.json](./209997-jet-riders.json) |
 | Jet Run: City Defender | 58172 | [58172-jet-run-city-defender.json](./58172-jet-run-city-defender.json) |
 | Jet Rush | 236304 | [236304-jet-rush.json](./236304-jet-rush.json) |
 | Jet Set Gertie | 380103 | [380103-jet-set-gertie.json](./380103-jet-set-gertie.json) |
@@ -540,8 +542,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jevilswap | 315035 | [315035-jevilswap.json](./315035-jevilswap.json) |
 | Jewel Adventures | 85207 | [85207-jewel-adventures.json](./85207-jewel-adventures.json) |
 | Jewel BEM Hunter Lime | 264644 | [264644-jewel-bem-hunter-lime.json](./264644-jewel-bem-hunter-lime.json) |
+| Jewel Craft | 209996 | [209996-jewel-craft.json](./209996-jewel-craft.json) |
 | Jewel Crush | 233434 | [233434-jewel-crush.json](./233434-jewel-crush.json) |
 | Jewel Diamonds | 215396 | [215396-jewel-diamonds.json](./215396-jewel-diamonds.json) |
+| Jewel Drop! | 209995 | [209995-jewel-drop.json](./209995-jewel-drop.json) |
 | Jewel Drops 2 - Match three puzzle | 101637 | [101637-jewel-drops-2-match-three-puzzle.json](./101637-jewel-drops-2-match-three-puzzle.json) |
 | Jewel Fever | 246341 | [246341-jewel-fever.json](./246341-jewel-fever.json) |
 | Jewel Fever | 257466 | [257466-jewel-fever.json](./257466-jewel-fever.json) |
@@ -580,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Quest Solitaire II | 53250 | [53250-jewel-quest-solitaire-ii.json](./53250-jewel-quest-solitaire-ii.json) |
 | Jewel Quest Trilogy | 50633 | [50633-jewel-quest-trilogy.json](./50633-jewel-quest-trilogy.json) |
 | Jewel Quest: Expeditions | 21279 | [21279-jewel-quest-expeditions.json](./21279-jewel-quest-expeditions.json) |
+| Jewel Quest: Heritage | 209994 | [209994-jewel-quest-heritage.json](./209994-jewel-quest-heritage.json) |
 | Jewel Quest: Match 3 Adventure | 376577 | [376577-jewel-quest-match-3-adventure.json](./376577-jewel-quest-match-3-adventure.json) |
 | Jewel Quest: The Sapphire Dragon | 210021 | [210021-jewel-quest-the-sapphire-dragon.json](./210021-jewel-quest-the-sapphire-dragon.json) |
 | Jewel Quest: The Sapphire Dragon | 85213 | [85213-jewel-quest-the-sapphire-dragon.json](./85213-jewel-quest-the-sapphire-dragon.json) |
@@ -595,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewels Deluxe | 108478 | [108478-jewels-deluxe.json](./108478-jewels-deluxe.json) |
 | Jewels II: The Ultimate Challenge | 72052 | [72052-jewels-ii-the-ultimate-challenge.json](./72052-jewels-ii-the-ultimate-challenge.json) |
 | Jewels Mania Adventure Star | 108512 | [108512-jewels-mania-adventure-star.json](./108512-jewels-mania-adventure-star.json) |
+| Jewels of Sinai | 209986 | [209986-jewels-of-sinai.json](./209986-jewels-of-sinai.json) |
 | Jewels of the Ages | 130308 | [130308-jewels-of-the-ages.json](./130308-jewels-of-the-ages.json) |
 | Jewels of the Mysterious Woodland: Fairies Magical Jewel Match Quest | 171596 | [171596-jewels-of-the-mysterious-woodland-fairies-magical-jewel-match-quest.json](./171596-jewels-of-the-mysterious-woodland-fairies-magical-jewel-match-quest.json) |
 | Jewels Palace | 114757 | [114757-jewels-palace.json](./114757-jewels-palace.json) |
@@ -620,6 +626,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jibi Land: Princess Town | 299212 | [299212-jibi-land-princess-town.json](./299212-jibi-land-princess-town.json) |
 | Jice | 183978 | [183978-jice.json](./183978-jice.json) |
 | Jieitai World | 254449 | [254449-jieitai-world.json](./254449-jieitai-world.json) |
+| Jig-a-Pix Pets | 209987 | [209987-jig-a-pix-pets.json](./209987-jig-a-pix-pets.json) |
+| Jig-a-Pix Wonderful World | 209988 | [209988-jig-a-pix-wonderful-world.json](./209988-jig-a-pix-wonderful-world.json) |
 | Jigdoku | 404203 | [404203-jigdoku.json](./404203-jigdoku.json) |
 | JigDoku | 91734 | [91734-jigdoku.json](./91734-jigdoku.json) |
 | Jigen Bakudan Kaijo | 349942 | [349942-jigen-bakudan-kaijo.json](./349942-jigen-bakudan-kaijo.json) |
@@ -781,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jimmy Connors Pro Tennis Tour | 42605 | [42605-jimmy-connors-pro-tennis-tour.json](./42605-jimmy-connors-pro-tennis-tour.json) |
 | Jimmy Connors Tennis | 365696 | [365696-jimmy-connors-tennis.json](./365696-jimmy-connors-tennis.json) |
 | Jimmy Connors Tennis | 40845 | [40845-jimmy-connors-tennis.json](./40845-jimmy-connors-tennis.json) |
+| Jimmy Houston's Bass Tournament U.S.A. 97 | 209993 | [209993-jimmy-houstons-bass-tournament-u-s-a-97.json](./209993-jimmy-houstons-bass-tournament-u-s-a-97.json) |
 | Jimmy Jumps | 390649 | [390649-jimmy-jumps.json](./390649-jimmy-jumps.json) |
 | Jimmy Kamikaze | 108436 | [108436-jimmy-kamikaze.json](./108436-jimmy-kamikaze.json) |
 | Jimmy Neutron: Boy Genius | 2966 | [2966-jimmy-neutron-boy-genius.json](./2966-jimmy-neutron-boy-genius.json) |
@@ -998,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jong Kyu Pon | 342147 | [342147-jong-kyu-pon.json](./342147-jong-kyu-pon.json) |
 | Jongbou | 92298 | [92298-jongbou.json](./92298-jongbou.json) |
 | Joninės | 273667 | [273667-jonines.json](./273667-jonines.json) |
+| Jonny Moseley: Mad Trix | 210006 | [210006-jonny-moseley-mad-trix.json](./210006-jonny-moseley-mad-trix.json) |
 | Jonny Moseley: Mad Trix | 49336 | [49336-jonny-moseley-mad-trix.json](./49336-jonny-moseley-mad-trix.json) |
 | Jonny Quest in Doctor Zim's Underworld | 67275 | [67275-jonny-quest-in-doctor-zims-underworld.json](./67275-jonny-quest-in-doctor-zims-underworld.json) |
 | Jonny Quest: Curse of the Mayan Warriors | 73546 | [73546-jonny-quest-curse-of-the-mayan-warriors.json](./73546-jonny-quest-curse-of-the-mayan-warriors.json) |
@@ -1178,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | July 4th, 1976 | 348976 | [348976-july-4th-1976.json](./348976-july-4th-1976.json) |
 | July the Lost Child | 109699 | [109699-july-the-lost-child.json](./109699-july-the-lost-child.json) |
 | Jumala | 23829 | [23829-jumala.json](./23829-jumala.json) |
+| Jumanji: A Jungle Adventure Game Pack | 210003 | [210003-jumanji-a-jungle-adventure-game-pack.json](./210003-jumanji-a-jungle-adventure-game-pack.json) |
 | Jumanji: Epic Run | 234013 | [234013-jumanji-epic-run.json](./234013-jumanji-epic-run.json) |
 | Jumanji: Reverse the Curse | 246639 | [246639-jumanji-reverse-the-curse.json](./246639-jumanji-reverse-the-curse.json) |
 | Jumanji: The Curse Returns - Welcome to the Jungle | 210870 | [210870-jumanji-the-curse-returns-welcome-to-the-jungle.json](./210870-jumanji-the-curse-returns-welcome-to-the-jungle.json) |
@@ -1393,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junglex | 115616 | [115616-junglex.json](./115616-junglex.json) |
 | Jungo | 257391 | [257391-jungo.json](./257391-jungo.json) |
 | Junior Brain Trainer | 23270 | [23270-junior-brain-trainer.json](./23270-junior-brain-trainer.json) |
+| Junior Brain Trainer 2 | 210004 | [210004-junior-brain-trainer-2.json](./210004-junior-brain-trainer-2.json) |
 | Junior Classic Games | 338790 | [338790-junior-classic-games.json](./338790-junior-classic-games.json) |
 | Junior Classic Games 3D | 122193 | [122193-junior-classic-games-3d.json](./122193-junior-classic-games-3d.json) |
 | Junior Fitness Trainer | 268182 | [268182-junior-fitness-trainer.json](./268182-junior-fitness-trainer.json) |
