@@ -1417,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wetware | 142259 | [142259-wetware.json](./142259-wetware.json) |
 | Weyrdlets: Fishing & Friends - Summer Update | 347863 | [347863-weyrdlets-fishing-and-friends-summer-update.json](./347863-weyrdlets-fishing-and-friends-summer-update.json) |
 | WFD | 272567 | [272567-wfd.json](./272567-wfd.json) |
+| WFO World Football Online | 215649 | [215649-wfo-world-football-online.json](./215649-wfo-world-football-online.json) |
 | WG Mega | 270661 | [270661-wg-mega.json](./270661-wg-mega.json) |
 | WGT Baseball | 64370 | [64370-wgt-baseball.json](./64370-wgt-baseball.json) |
 | WGT Golf | 64369 | [64369-wgt-golf.json](./64369-wgt-golf.json) |
@@ -1606,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When The World Became Black | 298134 | [298134-when-the-world-became-black.json](./298134-when-the-world-became-black.json) |
 | When Wardens Fall | 99023 | [99023-when-wardens-fall.json](./99023-when-wardens-fall.json) |
 | When We Arrive | 390795 | [390795-when-we-arrive.json](./390795-when-we-arrive.json) |
+| When We Lost | 215650 | [215650-when-we-lost.json](./215650-when-we-lost.json) |
 | When You See It | 312122 | [312122-when-you-see-it.json](./312122-when-you-see-it.json) |
 | When you're gone | 37192 | [37192-when-youre-gone.json](./37192-when-youre-gone.json) |
 | Whenever You Can Breathe | 203378 | [203378-whenever-you-can-breathe.json](./203378-whenever-you-can-breathe.json) |
@@ -1696,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's Our Ouis? | 408927 | [408927-wheres-our-ouis.json](./408927-wheres-our-ouis.json) |
 | Where's Tess | 298869 | [298869-wheres-tess.json](./298869-wheres-tess.json) |
 | Where's That Clown?! | 367487 | [367487-wheres-that-clown.json](./367487-wheres-that-clown.json) |
+| Where's the Bathroom!?! | 215651 | [215651-wheres-the-bathroom.json](./215651-wheres-the-bathroom.json) |
 | Where's the Blanket Charlie Brown? | 69583 | [69583-wheres-the-blanket-charlie-brown.json](./69583-wheres-the-blanket-charlie-brown.json) |
 | Where's the Fck*ng Light - VR | 30948 | [30948-wheres-the-fck-ng-light-vr.json](./30948-wheres-the-fck-ng-light-vr.json) |
 | Where’s the Food!? | 378787 | [378787-where-s-the-food.json](./378787-where-s-the-food.json) |
@@ -2057,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Tower | 373740 | [373740-wild-tower.json](./373740-wild-tower.json) |
 | Wild Turkey Hunt | 95453 | [95453-wild-turkey-hunt.json](./95453-wild-turkey-hunt.json) |
 | Wild Warfare | 17598 | [17598-wild-warfare.json](./17598-wild-warfare.json) |
+| Wild West | 215648 | [215648-wild-west.json](./215648-wild-west.json) |
 | Wild West C.O.W.-Boys of Moo Mesa | 39383 | [39383-wild-west-c-o-w-boys-of-moo-mesa.json](./39383-wild-west-c-o-w-boys-of-moo-mesa.json) |
 | Wild West Crops | 143637 | [143637-wild-west-crops.json](./143637-wild-west-crops.json) |
 | Wild West Fights: Girls Fighting World | 100751 | [100751-wild-west-fights-girls-fighting-world.json](./100751-wild-west-fights-girls-fighting-world.json) |
@@ -2481,12 +2485,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Potion | 221427 | [221427-witch-potion.json](./221427-witch-potion.json) |
 | Witch Ring Meister | 116867 | [116867-witch-ring-meister.json](./116867-witch-ring-meister.json) |
 | Witch Sacrifice | 192887 | [192887-witch-sacrifice.json](./192887-witch-sacrifice.json) |
+| Witch Schools: Love Potions | 215655 | [215655-witch-schools-love-potions.json](./215655-witch-schools-love-potions.json) |
 | Witch Sequencer | 185698 | [185698-witch-sequencer.json](./185698-witch-sequencer.json) |
 | Witch Soup | 176490 | [176490-witch-soup.json](./176490-witch-soup.json) |
 | Witch Spring 2 | 174732 | [174732-witch-spring-2.json](./174732-witch-spring-2.json) |
 | Witch Spring 4 | 174733 | [174733-witch-spring-4.json](./174733-witch-spring-4.json) |
 | Witch Stone | 165665 | [165665-witch-stone.json](./165665-witch-stone.json) |
 | Witch Stories | 329681 | [329681-witch-stories.json](./329681-witch-stories.json) |
+| Witch Story | 215653 | [215653-witch-story.json](./215653-witch-story.json) |
 | Witch Thief | 55464 | [55464-witch-thief.json](./55464-witch-thief.json) |
 | Witch War 1 | 352384 | [352384-witch-war-1.json](./352384-witch-war-1.json) |
 | Witch World | 244226 | [244226-witch-world.json](./244226-witch-world.json) |
@@ -2500,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch’s Gaze: The Vanishing Village | 330351 | [330351-witch-s-gaze-the-vanishing-village.json](./330351-witch-s-gaze-the-vanishing-village.json) |
 | Witch's Heart: Bonus Stage | 252721 | [252721-witchs-heart-bonus-stage.json](./252721-witchs-heart-bonus-stage.json) |
 | Witch’s Lewd Curse | 367053 | [367053-witch-s-lewd-curse.json](./367053-witch-s-lewd-curse.json) |
+| Witch's Mystery | 215654 | [215654-witchs-mystery.json](./215654-witchs-mystery.json) |
 | Witch's Reign | 153858 | [153858-witchs-reign.json](./153858-witchs-reign.json) |
 | Witch's Tower | 355199 | [355199-witchs-tower.json](./355199-witchs-tower.json) |
 | Witch's Weapon | 196331 | [196331-witchs-weapon.json](./196331-witchs-weapon.json) |
@@ -2573,6 +2580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Within: Hannah's Journey | 304011 | [304011-within-hannahs-journey.json](./304011-within-hannahs-journey.json) |
 | Without a Dawn | 333551 | [333551-without-a-dawn.json](./333551-without-a-dawn.json) |
 | Without Escape | 270394 | [270394-without-escape.json](./270394-without-escape.json) |
+| Without kidney | 215652 | [215652-without-kidney.json](./215652-without-kidney.json) |
 | Without My Arms | 141176 | [141176-without-my-arms.json](./141176-without-my-arms.json) |
 | Without Wings | 340932 | [340932-without-wings.json](./340932-without-wings.json) |
 | Without Within | 35853 | [35853-without-within.json](./35853-without-within.json) |
@@ -3603,6 +3611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreckout | 123576 | [123576-wreckout.json](./123576-wreckout.json) |
 | Wreckreation | 213241 | [213241-wreckreation.json](./213241-wreckreation.json) |
 | Wrekless | 304739 | [304739-wrekless.json](./304739-wrekless.json) |
+| Wren's Journey | 215656 | [215656-wrens-journey.json](./215656-wrens-journey.json) |
 | WrenchFighter Turbo | 136234 | [136234-wrenchfighter-turbo.json](./136234-wrenchfighter-turbo.json) |
 | Wrestle Kingdom | 7251 | [7251-wrestle-kingdom.json](./7251-wrestle-kingdom.json) |
 | Wrestle Story | 244509 | [244509-wrestle-story.json](./244509-wrestle-story.json) |
@@ -3756,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWII Squad Level Land Battles ssp | 295540 | [295540-wwii-squad-level-land-battles-ssp.json](./295540-wwii-squad-level-land-battles-ssp.json) |
 | WWII Tanks Battle: World War 2 Heroes Troopers Machines Sim | 274520 | [274520-wwii-tanks-battle-world-war-2-heroes-troopers-machines-sim.json](./274520-wwii-tanks-battle-world-war-2-heroes-troopers-machines-sim.json) |
 | WWII Tanks: Battlefield | 195634 | [195634-wwii-tanks-battlefield.json](./195634-wwii-tanks-battlefield.json) |
+| WWII Tanks: Forgotten Battles | 215657 | [215657-wwii-tanks-forgotten-battles.json](./215657-wwii-tanks-forgotten-battles.json) |
 | WWII: Battle Over Europe | 144311 | [144311-wwii-battle-over-europe.json](./144311-wwii-battle-over-europe.json) |
 | WWII: Battle Over the Pacific | 9391 | [9391-wwii-battle-over-the-pacific.json](./9391-wwii-battle-over-the-pacific.json) |
 | WWII: Battles of the South Pacific | 98945 | [98945-wwii-battles-of-the-south-pacific.json](./98945-wwii-battles-of-the-south-pacific.json) |
