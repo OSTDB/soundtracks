@@ -878,6 +878,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sato Killing Time Chat.exe | 395020 | [395020-sato-killing-time-chat-exe.json](./395020-sato-killing-time-chat-exe.json) |
 | Satogaeri | 192382 | [192382-satogaeri.json](./192382-satogaeri.json) |
 | Satomi Hakkenden | 48860 | [48860-satomi-hakkenden.json](./48860-satomi-hakkenden.json) |
+| Satomi Hakkenden Hachitama no Ki | 220573 | [220573-satomi-hakkenden-hachitama-no-ki.json](./220573-satomi-hakkenden-hachitama-no-ki.json) |
+| Satomi Hakkenden Hamaji Hime no Ki | 220574 | [220574-satomi-hakkenden-hamaji-hime-no-ki.json](./220574-satomi-hakkenden-hamaji-hime-no-ki.json) |
+| Satomi Hakkenden Murasamemaru no Ki | 220575 | [220575-satomi-hakkenden-murasamemaru-no-ki.json](./220575-satomi-hakkenden-murasamemaru-no-ki.json) |
 | Satori | 285571 | [285571-satori.json](./285571-satori.json) |
 | Satori | 336391 | [336391-satori.json](./336391-satori.json) |
 | Satori's Atelier 1+2 | 210664 | [210664-satoris-atelier-1-2.json](./210664-satoris-atelier-1-2.json) |
@@ -3558,6 +3561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shirotsume Souwa Bangai-hen: Tsunakawa-sanchi no Christmas | 376706 | [376706-shirotsume-souwa-bangai-hen-tsunakawa-sanchi-no-christmas.json](./376706-shirotsume-souwa-bangai-hen-tsunakawa-sanchi-no-christmas.json) |
 | Shirushi | 202364 | [202364-shirushi.json](./202364-shirushi.json) |
 | Shiryou Sensen: War of the Dead | 42041 | [42041-shiryou-sensen-war-of-the-dead.json](./42041-shiryou-sensen-war-of-the-dead.json) |
+| Shiseido Beauty Solution Kaihatsu Center Kanshuu: Project Beauty | 220601 | [220601-shiseido-beauty-solution-kaihatsu-center-kanshuu-project-beauty.json](./220601-shiseido-beauty-solution-kaihatsu-center-kanshuu-project-beauty.json) |
 | Shissou, Yankee Damashii | 295936 | [295936-shissou-yankee-damashii.json](./295936-shissou-yankee-damashii.json) |
 | Shisya | 270779 | [270779-shisya.json](./270779-shisya.json) |
 | Shisya 2: Ghost Video | 308889 | [308889-shisya-2-ghost-video.json](./308889-shisya-2-ghost-video.json) |
@@ -5715,6 +5719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Reversi | 167287 | [167287-smash-reversi.json](./167287-smash-reversi.json) |
 | Smash Rush | 127183 | [127183-smash-rush.json](./127183-smash-rush.json) |
 | Smash Table Tennis | 84880 | [84880-smash-table-tennis.json](./84880-smash-table-tennis.json) |
+| Smash Therapy | 220598 | [220598-smash-therapy.json](./220598-smash-therapy.json) |
 | Smash Track Drifters | 143634 | [143634-smash-track-drifters.json](./143634-smash-track-drifters.json) |
 | Smash Up: Pretty Pretty | 172147 | [172147-smash-up-pretty-pretty.json](./172147-smash-up-pretty-pretty.json) |
 | Smash'em | 158703 | [158703-smashem.json](./158703-smashem.json) |
@@ -6160,6 +6165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Steam Trail | 372132 | [372132-snow-steam-trail.json](./372132-snow-steam-trail.json) |
 | Snow Storm | 318774 | [318774-snow-storm.json](./318774-snow-storm.json) |
 | Snow Town - Ice Village World | 108477 | [108477-snow-town-ice-village-world.json](./108477-snow-town-ice-village-world.json) |
+| Snow Vale | 220599 | [220599-snow-vale.json](./220599-snow-vale.json) |
 | Snow White and the Seven Dwarfs | 77396 | [77396-snow-white-and-the-seven-dwarfs.json](./77396-snow-white-and-the-seven-dwarfs.json) |
 | Snow World | 176972 | [176972-snow-world.json](./176972-snow-world.json) |
 | Snow! | 180771 | [180771-snow.json](./180771-snow.json) |
@@ -8517,6 +8523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellForce: Universe | 78728 | [78728-spellforce-universe.json](./78728-spellforce-universe.json) |
 | Spellforge | 32864 | [32864-spellforge.json](./32864-spellforge.json) |
 | Spellforged | 295357 | [295357-spellforged.json](./295357-spellforged.json) |
+| Spellgroove | 220600 | [220600-spellgroove.json](./220600-spellgroove.json) |
 | Spellic | 207345 | [207345-spellic.json](./207345-spellic.json) |
 | Spelling Bee | 206122 | [206122-spelling-bee.json](./206122-spelling-bee.json) |
 | Spelling Challenges | 47952 | [47952-spelling-challenges.json](./47952-spelling-challenges.json) |
@@ -10495,6 +10502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stella Arcana | 142257 | [142257-stella-arcana.json](./142257-stella-arcana.json) |
 | Stella Astrum | 418729 | [418729-stella-astrum.json](./418729-stella-astrum.json) |
 | Stella Deus: The Gate of Eternity | 13094 | [13094-stella-deus-the-gate-of-eternity.json](./13094-stella-deus-the-gate-of-eternity.json) |
+| Stella Fantasy | 220582 | [220582-stella-fantasy.json](./220582-stella-fantasy.json) |
 | Stella Gladio | 326075 | [326075-stella-gladio.json](./326075-stella-gladio.json) |
 | Stella Glow | 11459 | [11459-stella-glow.json](./11459-stella-glow.json) |
 | Stella Nova | 407466 | [407466-stella-nova.json](./407466-stella-nova.json) |
