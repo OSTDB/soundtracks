@@ -2384,6 +2384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Pill | 217515 | [217515-god-pill.json](./217515-god-pill.json) |
 | God Save Birmingham | 314428 | [314428-god-save-birmingham.json](./314428-god-save-birmingham.json) |
 | God Shot | 399852 | [399852-god-shot.json](./399852-god-shot.json) |
+| God Simulator | 191570 | [191570-god-simulator.json](./191570-god-simulator.json) |
 | God Simulator | 31883 | [31883-god-simulator.json](./31883-god-simulator.json) |
 | God Starfighter | 76956 | [76956-god-starfighter.json](./76956-god-starfighter.json) |
 | God Trials | 348421 | [348421-god-trials.json](./348421-god-trials.json) |
