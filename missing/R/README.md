@@ -2295,6 +2295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reset | 195635 | [195635-reset.json](./195635-reset.json) |
 | Reset | 23906 | [23906-reset.json](./23906-reset.json) |
 | Reset | 305373 | [305373-reset.json](./305373-reset.json) |
+| Reset Co. | 180620 | [180620-reset-co.json](./180620-reset-co.json) |
 | Reset Day | 396552 | [396552-reset-day.json](./396552-reset-day.json) |
 | Reshape | 255729 | [255729-reshape.json](./255729-reshape.json) |
 | Reshape | 293634 | [293634-reshape.json](./293634-reshape.json) |
@@ -3739,6 +3740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Wants It All | 108325 | [108325-robot-wants-it-all.json](./108325-robot-wants-it-all.json) |
 | Robot Wars: Extreme Destruction | 6014 | [6014-robot-wars-extreme-destruction.json](./6014-robot-wars-extreme-destruction.json) |
 | Robot Wars: Extreme Destruction | 78623 | [78623-robot-wars-extreme-destruction.json](./78623-robot-wars-extreme-destruction.json) |
+| Robot Zombies | 180595 | [180595-robot-zombies.json](./180595-robot-zombies.json) |
 | Robot-X | 192440 | [192440-robot-x.json](./192440-robot-x.json) |
 | Robot88 | 182364 | [182364-robot88.json](./182364-robot88.json) |
 | Robotan Wars | 138005 | [138005-robotan-wars.json](./138005-robotan-wars.json) |
@@ -3773,6 +3775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robox | 147916 | [147916-robox.json](./147916-robox.json) |
 | Robozarro 2: Operation Atlantic | 187386 | [187386-robozarro-2-operation-atlantic.json](./187386-robozarro-2-operation-atlantic.json) |
 | RoboZone | 72335 | [72335-robozone.json](./72335-robozone.json) |
+| Robscarf | 180619 | [180619-robscarf.json](./180619-robscarf.json) |
 | Robsu e o Caminho da Água | 142249 | [142249-robsu-e-o-caminho-da-agua.json](./142249-robsu-e-o-caminho-da-agua.json) |
 | Roburst | 199647 | [199647-roburst.json](./199647-roburst.json) |
 | Robzawar | 295395 | [295395-robzawar.json](./295395-robzawar.json) |
