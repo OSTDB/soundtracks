@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Trouble 6: Pumpkin Rampage | 371900 | [371900-halloween-trouble-6-pumpkin-rampage.json](./371900-halloween-trouble-6-pumpkin-rampage.json) |
 | Halloween Trouble 7: The Apprentice | 417521 | [417521-halloween-trouble-7-the-apprentice.json](./417521-halloween-trouble-7-the-apprentice.json) |
 | Halloween: Global Candy Cup 2015 | 275629 | [275629-halloween-global-candy-cup-2015.json](./275629-halloween-global-candy-cup-2015.json) |
+| Halloween: October 31st | 176786 | [176786-halloween-october-31st.json](./176786-halloween-october-31st.json) |
 | Halloween: October 31st Demake | 218575 | [218575-halloween-october-31st-demake.json](./218575-halloween-october-31st-demake.json) |
 | Halloween: The Twelve Cards Curse | 294436 | [294436-halloween-the-twelve-cards-curse.json](./294436-halloween-the-twelve-cards-curse.json) |
 | Halloweenies | 352304 | [352304-halloweenies.json](./352304-halloweenies.json) |
@@ -1524,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hebi no Inochi | 288873 | [288873-hebi-no-inochi.json](./288873-hebi-no-inochi.json) |
 | Hecatomb | 398404 | [398404-hecatomb.json](./398404-hecatomb.json) |
 | Hecaton | 133231 | [133231-hecaton.json](./133231-hecaton.json) |
+| Heckin' Slimes | 176788 | [176788-heckin-slimes.json](./176788-heckin-slimes.json) |
 | Hector The Cat: Treasure Hunter | 257437 | [257437-hector-the-cat-treasure-hunter.json](./257437-hector-the-cat-treasure-hunter.json) |
 | Hector: Badge of Carnage! - Episode 1 | 119182 | [119182-hector-badge-of-carnage-episode-1.json](./119182-hector-badge-of-carnage-episode-1.json) |
 | Hector'39 | 328247 | [328247-hector39.json](./328247-hector39.json) |
