@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cup of Coffee | 211247 | [211247-a-cup-of-coffee.json](./211247-a-cup-of-coffee.json) |
 | A Cut Above: Mow & Grow | 379572 | [379572-a-cut-above-mow-and-grow.json](./379572-a-cut-above-mow-and-grow.json) |
 | A Cyberpunk's Dream of 2077 | 228992 | [228992-a-cyberpunks-dream-of-2077.json](./228992-a-cyberpunks-dream-of-2077.json) |
+| A Dance of Fire and Ice - Neo Cosmos | 203226 | [203226-a-dance-of-fire-and-ice-neo-cosmos.json](./203226-a-dance-of-fire-and-ice-neo-cosmos.json) |
 | A Dark Forest | 319186 | [319186-a-dark-forest.json](./319186-a-dark-forest.json) |
 | A Dark Ice Saga: The Rescue | 158223 | [158223-a-dark-ice-saga-the-rescue.json](./158223-a-dark-ice-saga-the-rescue.json) |
 | A Dark Place | 301587 | [301587-a-dark-place.json](./301587-a-dark-place.json) |
@@ -5839,6 +5840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro & Suzy Go to the Circus | 397071 | [397071-astro-and-suzy-go-to-the-circus.json](./397071-astro-and-suzy-go-to-the-circus.json) |
 | Astro Assembler | 71506 | [71506-astro-assembler.json](./71506-astro-assembler.json) |
 | Astro Avenger II | 51211 | [51211-astro-avenger-ii.json](./51211-astro-avenger-ii.json) |
+| Astro Battlers TD | 203241 | [203241-astro-battlers-td.json](./203241-astro-battlers-td.json) |
 | Astro Bears Party | 54774 | [54774-astro-bears-party.json](./54774-astro-bears-party.json) |
 | Astro Bears: Non-Bears | 238446 | [238446-astro-bears-non-bears.json](./238446-astro-bears-non-bears.json) |
 | Astro Blox Revisited | 241655 | [241655-astro-blox-revisited.json](./241655-astro-blox-revisited.json) |
