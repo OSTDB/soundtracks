@@ -1201,8 +1201,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO City Spotlight Robbery | 61623 | [61623-lego-city-spotlight-robbery.json](./61623-lego-city-spotlight-robbery.json) |
 | LEGO City Undercover | 343450 | [343450-lego-city-undercover.json](./343450-lego-city-undercover.json) |
 | LEGO Creator: Harry Potter | 66631 | [66631-lego-creator-harry-potter.json](./66631-lego-creator-harry-potter.json) |
+| LEGO DC Super-Villains: Aquaman Bundle Pack | 214483 | [214483-lego-dc-super-villains-aquaman-bundle-pack.json](./214483-lego-dc-super-villains-aquaman-bundle-pack.json) |
+| LEGO DC Super-Villains: DC TV Series Super Heroes Character Pack | 214482 | [214482-lego-dc-super-villains-dc-tv-series-super-heroes-character-pack.json](./214482-lego-dc-super-villains-dc-tv-series-super-heroes-character-pack.json) |
 | LEGO DC Super-Villains: DC TV Series Super-Villains Character Pack | 214484 | [214484-lego-dc-super-villains-dc-tv-series-super-villains-character-pack.json](./214484-lego-dc-super-villains-dc-tv-series-super-villains-character-pack.json) |
 | LEGO DC Super-Villains: Deluxe Edition | 118955 | [118955-lego-dc-super-villains-deluxe-edition.json](./118955-lego-dc-super-villains-deluxe-edition.json) |
+| LEGO DC Super-Villains: Justice League Dark Character Pack | 214481 | [214481-lego-dc-super-villains-justice-league-dark-character-pack.json](./214481-lego-dc-super-villains-justice-league-dark-character-pack.json) |
 | LEGO DC Super-Villains: Shazam! Movie Level Pack 1 & 2 | 207906 | [207906-lego-dc-super-villains-shazam-movie-level-pack-1-and-2.json](./207906-lego-dc-super-villains-shazam-movie-level-pack-1-and-2.json) |
 | LEGO Dimensions | 11077 | [11077-lego-dimensions.json](./11077-lego-dimensions.json) |
 | LEGO Dimensions: Adventure Time Fun Pack | 172614 | [172614-lego-dimensions-adventure-time-fun-pack.json](./172614-lego-dimensions-adventure-time-fun-pack.json) |
