@@ -776,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: City Bus O305 | 155116 | [155116-omsi-2-city-bus-o305.json](./155116-omsi-2-city-bus-o305.json) |
 | OMSI 2: Citybus i260 Series | 155127 | [155127-omsi-2-citybus-i260-series.json](./155127-omsi-2-citybus-i260-series.json) |
 | OMSI 2: Citybus o530 | 286545 | [286545-omsi-2-citybus-o530.json](./286545-omsi-2-citybus-o530.json) |
+| OMSI 2: Citybus S31X | 213326 | [213326-omsi-2-citybus-s31x.json](./213326-omsi-2-citybus-s31x.json) |
 | Omsi 2: Digibus Mirage | 235831 | [235831-omsi-2-digibus-mirage.json](./235831-omsi-2-digibus-mirage.json) |
 | OMSI 2: Digibus Phantom | 155114 | [155114-omsi-2-digibus-phantom.json](./155114-omsi-2-digibus-phantom.json) |
 | OMSI 2: Doppelgelenkbus AGG 300 | 155124 | [155124-omsi-2-doppelgelenkbus-agg-300.json](./155124-omsi-2-doppelgelenkbus-agg-300.json) |
