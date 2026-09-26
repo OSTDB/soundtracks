@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T10:33:20.043Z",
-  "total_missing": 125326,
+  "generated_at": "2026-09-26T10:48:08.986Z",
+  "total_missing": 125376,
   "games": [
     {
       "igdb_id": 176875,
@@ -6116,6 +6116,11 @@
       "igdb_id": 228992,
       "game_name": "A Cyberpunk's Dream of 2077",
       "file": "missing/A/228992-a-cyberpunks-dream-of-2077.json"
+    },
+    {
+      "igdb_id": 203226,
+      "game_name": "A Dance of Fire and Ice - Neo Cosmos",
+      "file": "missing/A/203226-a-dance-of-fire-and-ice-neo-cosmos.json"
     },
     {
       "igdb_id": 319186,
@@ -35006,6 +35011,11 @@
       "igdb_id": 51211,
       "game_name": "Astro Avenger II",
       "file": "missing/A/51211-astro-avenger-ii.json"
+    },
+    {
+      "igdb_id": 203241,
+      "game_name": "Astro Battlers TD",
+      "file": "missing/A/203241-astro-battlers-td.json"
     },
     {
       "igdb_id": 54774,
@@ -88023,6 +88033,11 @@
       "file": "missing/C/153984-cheap-game-3.json"
     },
     {
+      "igdb_id": 203247,
+      "game_name": "Cheaphaven",
+      "file": "missing/C/203247-cheaphaven.json"
+    },
+    {
       "igdb_id": 130885,
       "game_name": "Cheapshot",
       "file": "missing/C/130885-cheapshot.json"
@@ -125393,6 +125408,11 @@
       "file": "missing/D/362888-death-comes-skiing.json"
     },
     {
+      "igdb_id": 203266,
+      "game_name": "Death Connection Portable",
+      "file": "missing/D/203266-death-connection-portable.json"
+    },
+    {
       "igdb_id": 218583,
       "game_name": "Death Corp",
       "file": "missing/D/218583-death-corp.json"
@@ -134208,6 +134228,11 @@
       "file": "missing/D/335863-digimon-color-monster-hunter-20th-edition.json"
     },
     {
+      "igdb_id": 203236,
+      "game_name": "Digimon Davis and Veemon",
+      "file": "missing/D/203236-digimon-davis-and-veemon.json"
+    },
+    {
       "igdb_id": 56488,
       "game_name": "Digimon Fortune",
       "file": "missing/D/56488-digimon-fortune.json"
@@ -134216,6 +134241,11 @@
       "igdb_id": 327211,
       "game_name": "Digimon Fusion Fighters",
       "file": "missing/D/327211-digimon-fusion-fighters.json"
+    },
+    {
+      "igdb_id": 203235,
+      "game_name": "Digimon Kari and Gatomon",
+      "file": "missing/D/203235-digimon-kari-and-gatomon.json"
     },
     {
       "igdb_id": 25791,
@@ -134256,6 +134286,11 @@
       "igdb_id": 202964,
       "game_name": "Digimon Super Rumble",
       "file": "missing/D/202964-digimon-super-rumble.json"
+    },
+    {
+      "igdb_id": 203237,
+      "game_name": "Digimon T.K. and Patamon",
+      "file": "missing/D/203237-digimon-t-k-and-patamon.json"
     },
     {
       "igdb_id": 56444,
@@ -143986,6 +144021,11 @@
       "igdb_id": 179725,
       "game_name": "Down Beneath",
       "file": "missing/D/179725-down-beneath.json"
+    },
+    {
+      "igdb_id": 203246,
+      "game_name": "Down Fall",
+      "file": "missing/D/203246-down-fall.json"
     },
     {
       "igdb_id": 203937,
@@ -174163,6 +174203,16 @@
       "file": "missing/F/86099-family-feud-and-friends.json"
     },
     {
+      "igdb_id": 203238,
+      "game_name": "Family Feud Cartridge #1",
+      "file": "missing/F/203238-family-feud-cartridge-1.json"
+    },
+    {
+      "igdb_id": 203239,
+      "game_name": "Family Feud Cartridge #2",
+      "file": "missing/F/203239-family-feud-cartridge-2.json"
+    },
+    {
       "igdb_id": 324085,
       "game_name": "Family Feud: 2010 Edition",
       "file": "missing/F/324085-family-feud-2010-edition.json"
@@ -176651,6 +176701,11 @@
       "igdb_id": 269019,
       "game_name": "FarWest Colony",
       "file": "missing/F/269019-farwest-colony.json"
+    },
+    {
+      "igdb_id": 203248,
+      "game_name": "Farwoods",
+      "file": "missing/F/203248-farwoods.json"
     },
     {
       "igdb_id": 34530,
@@ -194458,6 +194513,11 @@
       "file": "missing/F/31702-friday-night-bullet-arena.json"
     },
     {
+      "igdb_id": 203223,
+      "game_name": "Friday Night Funk'n: Funkin' is Magic",
+      "file": "missing/F/203223-friday-night-funkn-funkin-is-magic.json"
+    },
+    {
       "igdb_id": 328236,
       "game_name": "Friday Night Funkin vs. junim Cururu",
       "file": "missing/F/328236-friday-night-funkin-vs-junim-cururu.json"
@@ -194561,6 +194621,11 @@
       "igdb_id": 200665,
       "game_name": "Friday Night Funkin': V.S. Father Foundest",
       "file": "missing/F/200665-friday-night-funkin-v-s-father-foundest.json"
+    },
+    {
+      "igdb_id": 203230,
+      "game_name": "Friday Night Funkin': V.S. Neco-Arc",
+      "file": "missing/F/203230-friday-night-funkin-v-s-neco-arc.json"
     },
     {
       "igdb_id": 165075,
@@ -195256,6 +195321,11 @@
       "igdb_id": 93020,
       "game_name": "Froggee",
       "file": "missing/F/93020-froggee.json"
+    },
+    {
+      "igdb_id": 203243,
+      "game_name": "Frogger",
+      "file": "missing/F/203243-frogger.json"
     },
     {
       "igdb_id": 218437,
@@ -233578,6 +233648,11 @@
       "file": "missing/H/64099-heroclix-tabapp-asm.json"
     },
     {
+      "igdb_id": 203244,
+      "game_name": "Herodes",
+      "file": "missing/H/203244-herodes.json"
+    },
+    {
       "igdb_id": 348833,
       "game_name": "Heroes & Dice",
       "file": "missing/H/348833-heroes-and-dice.json"
@@ -249008,6 +249083,11 @@
       "file": "missing/I/242822-i-was-in-the-war.json"
     },
     {
+      "igdb_id": 203245,
+      "game_name": "I Was Lost",
+      "file": "missing/I/203245-i-was-lost.json"
+    },
+    {
       "igdb_id": 207499,
       "game_name": "I Was Wrong",
       "file": "missing/I/207499-i-was-wrong.json"
@@ -259126,6 +259206,11 @@
       "igdb_id": 2994,
       "game_name": "Invizimals",
       "file": "missing/I/2994-invizimals.json"
+    },
+    {
+      "igdb_id": 203233,
+      "game_name": "Invizimals: Hidden Challenges",
+      "file": "missing/I/203233-invizimals-hidden-challenges.json"
     },
     {
       "igdb_id": 23417,
@@ -289203,6 +289288,11 @@
       "file": "missing/L/261238-lego-sonic-the-hedgehog-speed-sphere-challenge.json"
     },
     {
+      "igdb_id": 203232,
+      "game_name": "LEGO Speedorz",
+      "file": "missing/L/203232-lego-speedorz.json"
+    },
+    {
       "igdb_id": 286107,
       "game_name": "LEGO Star Wars II",
       "file": "missing/L/286107-lego-star-wars-ii.json"
@@ -290091,6 +290181,11 @@
       "igdb_id": 133455,
       "game_name": "Let's Cook Together",
       "file": "missing/L/133455-lets-cook-together.json"
+    },
+    {
+      "igdb_id": 203251,
+      "game_name": "Let's Cook Together 2",
+      "file": "missing/L/203251-lets-cook-together-2.json"
     },
     {
       "igdb_id": 78337,
@@ -329648,6 +329743,11 @@
       "file": "missing/M/323937-misfortune.json"
     },
     {
+      "igdb_id": 203222,
+      "game_name": "Misfortune Advance",
+      "file": "missing/M/203222-misfortune-advance.json"
+    },
+    {
       "igdb_id": 258040,
       "game_name": "Misgiven",
       "file": "missing/M/258040-misgiven.json"
@@ -330596,6 +330696,11 @@
       "igdb_id": 198376,
       "game_name": "MITS: Monsters in the Shadows",
       "file": "missing/M/198376-mits-monsters-in-the-shadows.json"
+    },
+    {
+      "igdb_id": 203262,
+      "game_name": "Mitsu x Mitsu Drops: Love x Love Honey Life",
+      "file": "missing/M/203262-mitsu-x-mitsu-drops-love-x-love-honey-life.json"
     },
     {
       "igdb_id": 107646,
@@ -335946,6 +336051,11 @@
       "igdb_id": 318066,
       "game_name": "Moons That Belong",
       "file": "missing/M/318066-moons-that-belong.json"
+    },
+    {
+      "igdb_id": 203252,
+      "game_name": "Moonscape",
+      "file": "missing/M/203252-moonscape.json"
     },
     {
       "igdb_id": 194507,
@@ -359293,6 +359403,11 @@
       "file": "missing/N/397255-nodemind-dynamic-core.json"
     },
     {
+      "igdb_id": 203250,
+      "game_name": "Nodes",
+      "file": "missing/N/203250-nodes.json"
+    },
+    {
       "igdb_id": 23059,
       "game_name": "Nodes of Yesod",
       "file": "missing/N/23059-nodes-of-yesod.json"
@@ -374673,6 +374788,11 @@
       "file": "missing/P/169433-pablo-lets-go-bar.json"
     },
     {
+      "igdb_id": 203270,
+      "game_name": "Pac 'n Roll Remix",
+      "file": "missing/P/203270-pac-n-roll-remix.json"
+    },
+    {
       "igdb_id": 313499,
       "game_name": "Pac 16",
       "file": "missing/P/313499-pac-16.json"
@@ -375141,6 +375261,11 @@
       "igdb_id": 174791,
       "game_name": "Pac-Mondrian",
       "file": "missing/P/174791-pac-mondrian.json"
+    },
+    {
+      "igdb_id": 203273,
+      "game_name": "Pac-Motos",
+      "file": "missing/P/203273-pac-motos.json"
     },
     {
       "igdb_id": 46572,
@@ -389568,6 +389693,11 @@
       "file": "missing/P/141225-pipo-park.json"
     },
     {
+      "igdb_id": 203254,
+      "game_name": "Pipoclub",
+      "file": "missing/P/203254-pipoclub.json"
+    },
+    {
       "igdb_id": 322567,
       "game_name": "Pippa and Your Phantasmal Problem",
       "file": "missing/P/322567-pippa-and-your-phantasmal-problem.json"
@@ -396396,6 +396526,11 @@
       "igdb_id": 377713,
       "game_name": "Pokémon Goita",
       "file": "missing/P/377713-pokemon-goita.json"
+    },
+    {
+      "igdb_id": 203224,
+      "game_name": "Pokémon Gold and Silver 97: Reforged",
+      "file": "missing/P/203224-pokemon-gold-and-silver-97-reforged.json"
     },
     {
       "igdb_id": 318562,
@@ -412451,6 +412586,11 @@
       "igdb_id": 263495,
       "game_name": "QUByte Classics: Gourmet Warriors",
       "file": "missing/Q/263495-qubyte-classics-gourmet-warriors.json"
+    },
+    {
+      "igdb_id": 203269,
+      "game_name": "QUByte Classics: Jim Power - The Lost Dimension by Piko",
+      "file": "missing/Q/203269-qubyte-classics-jim-power-the-lost-dimension-by-piko.json"
     },
     {
       "igdb_id": 216195,
@@ -431558,6 +431698,11 @@
       "file": "missing/R/219017-robocop-2.json"
     },
     {
+      "igdb_id": 203234,
+      "game_name": "RoboCop 2D 2: RoboCop vs. Terminator",
+      "file": "missing/R/203234-robocop-2d-2-robocop-vs-terminator.json"
+    },
+    {
       "igdb_id": 19695,
       "game_name": "RoboCop 3",
       "file": "missing/R/19695-robocop-3.json"
@@ -431661,6 +431806,11 @@
       "igdb_id": 388195,
       "game_name": "RoboHero",
       "file": "missing/R/388195-robohero.json"
+    },
+    {
+      "igdb_id": 203227,
+      "game_name": "Roboholic",
+      "file": "missing/R/203227-roboholic.json"
     },
     {
       "igdb_id": 253320,
@@ -442066,6 +442216,11 @@
       "igdb_id": 353952,
       "game_name": "Sakura Succubus 8",
       "file": "missing/S/353952-sakura-succubus-8.json"
+    },
+    {
+      "igdb_id": 203228,
+      "game_name": "Sakura Succubus Bundle",
+      "file": "missing/S/203228-sakura-succubus-bundle.json"
     },
     {
       "igdb_id": 215911,
@@ -462408,14 +462563,64 @@
       "file": "missing/S/335909-simple-2000-series-vol-24-the-bowling-hyper.json"
     },
     {
+      "igdb_id": 203257,
+      "game_name": "Simple 2000 Series Vol. 29: The Renai Board Game Seishun 18 Radio",
+      "file": "missing/S/203257-simple-2000-series-vol-29-the-renai-board-game-seishun-18-radio.json"
+    },
+    {
       "igdb_id": 335914,
       "game_name": "Simple 2000 Series Vol. 32: The Sensha",
       "file": "missing/S/335914-simple-2000-series-vol-32-the-sensha.json"
     },
     {
+      "igdb_id": 203260,
+      "game_name": "Simple 2000 Series Vol. 34: The Renai Horror Adventure - Hyouryuu Shoujo",
+      "file": "missing/S/203260-simple-2000-series-vol-34-the-renai-horror-adventure-hyouryuu-shoujo.json"
+    },
+    {
+      "igdb_id": 203261,
+      "game_name": "Simple 2000 Series Vol. 36: The Musume-Ikusei Simulation - Otousan to Issho",
+      "file": "missing/S/203261-simple-2000-series-vol-36-the-musume-ikusei-simulation-otousan-to-issho.json"
+    },
+    {
+      "igdb_id": 203264,
+      "game_name": "Simple 2000 Series Vol. 44: The Hajimete no RPG - Densetsu no Keishousha",
+      "file": "missing/S/203264-simple-2000-series-vol-44-the-hajimete-no-rpg-densetsu-no-keishousha.json"
+    },
+    {
+      "igdb_id": 203265,
+      "game_name": "Simple 2000 Series Vol. 45: The Koi to Namida to, Tsukioku to... - Thread Colors Sayonara no Mukougawa",
+      "file": "missing/S/203265-simple-2000-series-vol-45-the-koi-to-namida-to-tsukioku-to-thread-colors-sayonara-no-mukougawa.json"
+    },
+    {
+      "igdb_id": 203275,
+      "game_name": "Simple 2000 Series Vol. 56: The Survival Game",
+      "file": "missing/S/203275-simple-2000-series-vol-56-the-survival-game.json"
+    },
+    {
+      "igdb_id": 203276,
+      "game_name": "Simple 2000 Series Vol. 58: The Gekai",
+      "file": "missing/S/203276-simple-2000-series-vol-58-the-gekai.json"
+    },
+    {
+      "igdb_id": 203277,
+      "game_name": "Simple 2000 Series Vol. 59: The Uchuujin to Hanasou! Uchuujin-tte Naani?",
+      "file": "missing/S/203277-simple-2000-series-vol-59-the-uchuujin-to-hanasou-uchuujin-tte-naani.json"
+    },
+    {
       "igdb_id": 61339,
       "game_name": "Simple 2000 Series Vol. 62: The Super Puzzle Bobble DX",
       "file": "missing/S/61339-simple-2000-series-vol-62-the-super-puzzle-bobble-dx.json"
+    },
+    {
+      "igdb_id": 203279,
+      "game_name": "Simple 2000 Series Vol. 69: The Board Game Collection",
+      "file": "missing/S/203279-simple-2000-series-vol-69-the-board-game-collection.json"
+    },
+    {
+      "igdb_id": 203280,
+      "game_name": "Simple 2000 Series Vol. 71: The Fantasy Renai Adventure - Kanojo no Densetsu, Boku no Sekiban",
+      "file": "missing/S/203280-simple-2000-series-vol-71-the-fantasy-renai-adventure-kanojo-no-densetsu-boku-no-sekiban.json"
     },
     {
       "igdb_id": 203319,
@@ -472631,6 +472836,11 @@
       "igdb_id": 399689,
       "game_name": "Sokocat: Castaway",
       "file": "missing/S/399689-sokocat-castaway.json"
+    },
+    {
+      "igdb_id": 203267,
+      "game_name": "Sokocat: Combo",
+      "file": "missing/S/203267-sokocat-combo.json"
     },
     {
       "igdb_id": 232960,
@@ -488091,6 +488301,11 @@
       "igdb_id": 65513,
       "game_name": "Star Arthur Densetsu I: Wakusei Mephius",
       "file": "missing/S/65513-star-arthur-densetsu-i-wakusei-mephius.json"
+    },
+    {
+      "igdb_id": 203231,
+      "game_name": "Star Battalion",
+      "file": "missing/S/203231-star-battalion.json"
     },
     {
       "igdb_id": 329007,
@@ -566023,6 +566238,11 @@
       "file": "missing/T/227239-total-war-warhammer-iii-blood-for-the-blood-god-iii.json"
     },
     {
+      "igdb_id": 203268,
+      "game_name": "Total War: Warhammer III - Immortal Empires",
+      "file": "missing/T/203268-total-war-warhammer-iii-immortal-empires.json"
+    },
+    {
       "igdb_id": 146143,
       "game_name": "Total War: Warhammer III - Limited Edition",
       "file": "missing/T/146143-total-war-warhammer-iii-limited-edition.json"
@@ -599148,6 +599368,11 @@
       "file": "missing/W/250908-warhammer-40-000-battlesector-orks.json"
     },
     {
+      "igdb_id": 203271,
+      "game_name": "Warhammer 40,000: Battlesector - Sisters of Battle",
+      "file": "missing/W/203271-warhammer-40-000-battlesector-sisters-of-battle.json"
+    },
+    {
       "igdb_id": 289900,
       "game_name": "Warhammer 40,000: Battlesector - T'au",
       "file": "missing/W/289900-warhammer-40-000-battlesector-tau.json"
@@ -599181,6 +599406,11 @@
       "igdb_id": 200657,
       "game_name": "Warhammer 40,000: Dark Crusaders",
       "file": "missing/W/200657-warhammer-40-000-dark-crusaders.json"
+    },
+    {
+      "igdb_id": 203255,
+      "game_name": "Warhammer 40,000: Darktide - Imperial Edition",
+      "file": "missing/W/203255-warhammer-40-000-darktide-imperial-edition.json"
     },
     {
       "igdb_id": 402515,
@@ -599281,6 +599511,11 @@
       "igdb_id": 11364,
       "game_name": "Warhammer 40,000: Inquisitor - Martyr",
       "file": "missing/W/11364-warhammer-40-000-inquisitor-martyr.json"
+    },
+    {
+      "igdb_id": 203272,
+      "game_name": "Warhammer 40,000: Inquisitor - Martyr",
+      "file": "missing/W/203272-warhammer-40-000-inquisitor-martyr.json"
     },
     {
       "igdb_id": 173158,
@@ -599451,6 +599686,16 @@
       "igdb_id": 9389,
       "game_name": "Warhammer 40,000: Storm of Vengeance",
       "file": "missing/W/9389-warhammer-40-000-storm-of-vengeance.json"
+    },
+    {
+      "igdb_id": 203274,
+      "game_name": "Warhammer 40,000: Tacticus",
+      "file": "missing/W/203274-warhammer-40-000-tacticus.json"
+    },
+    {
+      "igdb_id": 203256,
+      "game_name": "Warhammer 40,000: Warpforge",
+      "file": "missing/W/203256-warhammer-40-000-warpforge.json"
     },
     {
       "igdb_id": 112518,
@@ -612256,6 +612501,11 @@
       "igdb_id": 336125,
       "game_name": "World Fantasy: DigiWar",
       "file": "missing/W/336125-world-fantasy-digiwar.json"
+    },
+    {
+      "igdb_id": 203263,
+      "game_name": "World Fighting",
+      "file": "missing/W/203263-world-fighting.json"
     },
     {
       "igdb_id": 147270,
