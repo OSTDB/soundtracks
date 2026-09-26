@@ -1143,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genetic | 270663 | [270663-genetic.json](./270663-genetic.json) |
 | Geneticognito | 44173 | [44173-geneticognito.json](./44173-geneticognito.json) |
 | Genfanad | 159346 | [159346-genfanad.json](./159346-genfanad.json) |
+| Gengar | 210568 | [210568-gengar.json](./210568-gengar.json) |
 | Genghis Khan | 269523 | [269523-genghis-khan.json](./269523-genghis-khan.json) |
 | Genghis Khan | 308557 | [308557-genghis-khan.json](./308557-genghis-khan.json) |
 | Genghis Khan II: Clan of the Gray Wolf | 5389 | [5389-genghis-khan-ii-clan-of-the-gray-wolf.json](./5389-genghis-khan-ii-clan-of-the-gray-wolf.json) |
