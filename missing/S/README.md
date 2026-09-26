@@ -865,6 +865,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satisfaction Drone | 330340 | [330340-satisfaction-drone.json](./330340-satisfaction-drone.json) |
 | Satisfactory 1.1 | 402387 | [402387-satisfactory-1-1.json](./402387-satisfactory-1-1.json) |
 | Satisfactory 1.2 | 402388 | [402388-satisfactory-1-2.json](./402388-satisfactory-1-2.json) |
+| Satisfactory: Update 1 | 222879 | [222879-satisfactory-update-1.json](./222879-satisfactory-update-1.json) |
+| Satisfactory: Update 2 | 222878 | [222878-satisfactory-update-2.json](./222878-satisfactory-update-2.json) |
+| Satisfactory: Update 3 | 222865 | [222865-satisfactory-update-3.json](./222865-satisfactory-update-3.json) |
+| Satisfactory: Update 4 | 222875 | [222875-satisfactory-update-4.json](./222875-satisfactory-update-4.json) |
+| Satisfactory: Update 5 | 222876 | [222876-satisfactory-update-5.json](./222876-satisfactory-update-5.json) |
+| Satisfactory: Update 6 | 222877 | [222877-satisfactory-update-6.json](./222877-satisfactory-update-6.json) |
 | Satisfrustration | 349404 | [349404-satisfrustration.json](./349404-satisfrustration.json) |
 | Satiszone | 332420 | [332420-satiszone.json](./332420-satiszone.json) |
 | Sato Killing Time Chat.exe | 395020 | [395020-sato-killing-time-chat-exe.json](./395020-sato-killing-time-chat-exe.json) |
@@ -3262,6 +3268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shibuya Grandmaster | 133825 | [133825-shibuya-grandmaster.json](./133825-shibuya-grandmaster.json) |
 | Shibuya Scramble Stories | 351642 | [351642-shibuya-scramble-stories.json](./351642-shibuya-scramble-stories.json) |
 | Shichisei Toushin Guyferd: Crown Kaimetsu Sakusen | 229700 | [229700-shichisei-toushin-guyferd-crown-kaimetsu-sakusen.json](./229700-shichisei-toushin-guyferd-crown-kaimetsu-sakusen.json) |
+| Shichu Suimei Pitagraph | 222821 | [222821-shichu-suimei-pitagraph.json](./222821-shichu-suimei-pitagraph.json) |
 | Shield Arena | 412958 | [412958-shield-arena.json](./412958-shield-arena.json) |
 | Shield Cat | 143478 | [143478-shield-cat.json](./143478-shield-cat.json) |
 | Shield Hero | 351630 | [351630-shield-hero.json](./351630-shield-hero.json) |
@@ -3450,6 +3457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi.io | 194016 | [194016-shinobi-io.json](./194016-shinobi-io.json) |
 | Shinobit | 181784 | [181784-shinobit.json](./181784-shinobit.json) |
 | Shinogi Chess Club 2: Resistance | 265136 | [265136-shinogi-chess-club-2-resistance.json](./265136-shinogi-chess-club-2-resistance.json) |
+| Shinonome | 222832 | [222832-shinonome.json](./222832-shinonome.json) |
 | Shinorubi | 173320 | [173320-shinorubi.json](./173320-shinorubi.json) |
 | Shinrai: Broken Beyond Despair | 32105 | [32105-shinrai-broken-beyond-despair.json](./32105-shinrai-broken-beyond-despair.json) |
 | Shinrei Gakkou kara no Dasshutsu | 150130 | [150130-shinrei-gakkou-kara-no-dasshutsu.json](./150130-shinrei-gakkou-kara-no-dasshutsu.json) |
@@ -12475,6 +12483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Invaders | 330909 | [330909-super-invaders.json](./330909-super-invaders.json) |
 | Super Jack | 265965 | [265965-super-jack.json](./265965-super-jack.json) |
 | Super Jack The Ripper | 336895 | [336895-super-jack-the-ripper.json](./336895-super-jack-the-ripper.json) |
+| Super Jacked Up Tomato Face Johnson | 222851 | [222851-super-jacked-up-tomato-face-johnson.json](./222851-super-jacked-up-tomato-face-johnson.json) |
 | Super Jagua | 31656 | [31656-super-jagua.json](./31656-super-jagua.json) |
 | Super Jazz Man | 57626 | [57626-super-jazz-man.json](./57626-super-jazz-man.json) |
 | Super Jeopardy! | 48698 | [48698-super-jeopardy.json](./48698-super-jeopardy.json) |
