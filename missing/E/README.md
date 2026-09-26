@@ -2239,6 +2239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escapeland | 264714 | [264714-escapeland.json](./264714-escapeland.json) |
 | Escapers | 210853 | [210853-escapers.json](./210853-escapers.json) |
 | Escapeworld Dilemma | 150526 | [150526-escapeworld-dilemma.json](./150526-escapeworld-dilemma.json) |
+| Escaping | 180577 | [180577-escaping.json](./180577-escaping.json) |
 | Escaping a Fireworks Factory: Nyanzou & Kumakichi - Escape Game | 240225 | [240225-escaping-a-fireworks-factory-nyanzou-and-kumakichi-escape-game.json](./240225-escaping-a-fireworks-factory-nyanzou-and-kumakichi-escape-game.json) |
 | Escaping Agent | 322131 | [322131-escaping-agent.json](./322131-escaping-agent.json) |
 | Escaping Atlantis | 249877 | [249877-escaping-atlantis.json](./249877-escaping-atlantis.json) |
