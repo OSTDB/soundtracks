@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick the Buddy: Remastered | 212447 | [212447-kick-the-buddy-remastered.json](./212447-kick-the-buddy-remastered.json) |
 | Kick Them All | 312204 | [312204-kick-them-all.json](./312204-kick-them-all.json) |
 | Kick Them Out!!! | 103194 | [103194-kick-them-out.json](./103194-kick-them-out.json) |
+| Kick Your Astronaut | 187233 | [187233-kick-your-astronaut.json](./187233-kick-your-astronaut.json) |
 | Kick Yourself On | 351804 | [351804-kick-yourself-on.json](./351804-kick-yourself-on.json) |
 | Kick-Ass 2 | 17488 | [17488-kick-ass-2.json](./17488-kick-ass-2.json) |
 | Kick-Bell | 369192 | [369192-kick-bell.json](./369192-kick-bell.json) |
@@ -1056,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Pool | 175279 | [175279-killer-pool.json](./175279-killer-pool.json) |
 | Killer Satellites | 18570 | [18570-killer-satellites.json](./18570-killer-satellites.json) |
 | Killer Trait | 333190 | [333190-killer-trait.json](./333190-killer-trait.json) |
+| Killer Worm 2 | 187253 | [187253-killer-worm-2.json](./187253-killer-worm-2.json) |
 | Killer Zombie Hunt | 276484 | [276484-killer-zombie-hunt.json](./276484-killer-zombie-hunt.json) |
 | Killer: Rewind | 345018 | [345018-killer-rewind.json](./345018-killer-rewind.json) |
 | Killer7 | 3966 | [3966-killer7.json](./3966-killer7.json) |
@@ -2064,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kombat Hamster | 309880 | [309880-kombat-hamster.json](./309880-kombat-hamster.json) |
 | Kombate Mexicano Elexiones | 261555 | [261555-kombate-mexicano-elexiones.json](./261555-kombate-mexicano-elexiones.json) |
 | Kombinera | 194249 | [194249-kombinera.json](./194249-kombinera.json) |
+| Komeiji Satori no Jousou Kyouiku | 187240 | [187240-komeiji-satori-no-jousou-kyouiku.json](./187240-komeiji-satori-no-jousou-kyouiku.json) |
 | Kommersant | 180295 | [180295-kommersant.json](./180295-kommersant.json) |
 | Kommissar Kugelblitz: Der Fall Wüstenkönig | 221256 | [221256-kommissar-kugelblitz-der-fall-wustenkonig.json](./221256-kommissar-kugelblitz-der-fall-wustenkonig.json) |
 | Kommissar Kugelblitz: Vermisst am Mississippi | 282691 | [282691-kommissar-kugelblitz-vermisst-am-mississippi.json](./282691-kommissar-kugelblitz-vermisst-am-mississippi.json) |
