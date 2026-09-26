@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kame Paradise 3 Multiversex | 231391 | [231391-kame-paradise-3-multiversex.json](./231391-kame-paradise-3-multiversex.json) |
 | Kamek's Island | 217838 | [217838-kameks-island.json](./217838-kameks-island.json) |
 | Kamek's Midnight Flight | 250035 | [250035-kameks-midnight-flight.json](./250035-kameks-midnight-flight.json) |
+| Kameleon | 185452 | [185452-kameleon.json](./185452-kameleon.json) |
 | Kamen Rider Agito | 43864 | [43864-kamen-rider-agito.json](./43864-kamen-rider-agito.json) |
 | Kamen Rider Agito & Kuuga: Wild Battle | 62742 | [62742-kamen-rider-agito-and-kuuga-wild-battle.json](./62742-kamen-rider-agito-and-kuuga-wild-battle.json) |
 | Kamen Rider Battle Rush | 304337 | [304337-kamen-rider-battle-rush.json](./304337-kamen-rider-battle-rush.json) |
