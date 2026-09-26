@@ -2627,6 +2627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beziér Game | 138840 | [138840-the-bezier-game.json](./138840-the-bezier-game.json) |
 | The Bible Game | 225574 | [225574-the-bible-game.json](./225574-the-bible-game.json) |
 | The Big Bang Theory Game | 325084 | [325084-the-big-bang-theory-game.json](./325084-the-big-bang-theory-game.json) |
+| The Big Catch | 217819 | [217819-the-big-catch.json](./217819-the-big-catch.json) |
 | The Big City | 270702 | [270702-the-big-city.json](./270702-the-big-city.json) |
 | The Big Con | 121767 | [121767-the-big-con.json](./121767-the-big-con.json) |
 | The Big Con: Grift of the Year Edition | 201255 | [201255-the-big-con-grift-of-the-year-edition.json](./201255-the-big-con-grift-of-the-year-edition.json) |
@@ -4604,6 +4605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Food Racing 2 | 380407 | [380407-the-jumping-food-racing-2.json](./380407-the-jumping-food-racing-2.json) |
 | The Jumping Fries | 204078 | [204078-the-jumping-fries.json](./204078-the-jumping-fries.json) |
 | The Jumping Ice Cream | 216357 | [216357-the-jumping-ice-cream.json](./216357-the-jumping-ice-cream.json) |
+| The Jumping Ice Cream: Turbo | 217808 | [217808-the-jumping-ice-cream-turbo.json](./217808-the-jumping-ice-cream-turbo.json) |
 | The Jumping Melon Rush | 330937 | [330937-the-jumping-melon-rush.json](./330937-the-jumping-melon-rush.json) |
 | The Jumping Muffin | 229166 | [229166-the-jumping-muffin.json](./229166-the-jumping-muffin.json) |
 | The Jumping Muffin: Turbo | 229167 | [229167-the-jumping-muffin-turbo.json](./229167-the-jumping-muffin-turbo.json) |
@@ -5085,6 +5087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Fourth Quest | 150079 | [150079-the-legend-of-zelda-fourth-quest.json](./150079-the-legend-of-zelda-fourth-quest.json) |
 | The Legend of Zelda: Goddess of Wisdom | 275308 | [275308-the-legend-of-zelda-goddess-of-wisdom.json](./275308-the-legend-of-zelda-goddess-of-wisdom.json) |
 | The Legend of Zelda: Hall of the Dead | 323367 | [323367-the-legend-of-zelda-hall-of-the-dead.json](./323367-the-legend-of-zelda-hall-of-the-dead.json) |
+| The Legend of Zelda: Hard Awakening DX | 217837 | [217837-the-legend-of-zelda-hard-awakening-dx.json](./217837-the-legend-of-zelda-hard-awakening-dx.json) |
 | The Legend of Zelda: Journey of a Day | 269848 | [269848-the-legend-of-zelda-journey-of-a-day.json](./269848-the-legend-of-zelda-journey-of-a-day.json) |
 | The Legend of Zelda: Just Beginning | 324079 | [324079-the-legend-of-zelda-just-beginning.json](./324079-the-legend-of-zelda-just-beginning.json) |
 | The Legend of Zelda: Link's Awakening | 1028 | [1028-the-legend-of-zelda-links-awakening.json](./1028-the-legend-of-zelda-links-awakening.json) |
@@ -5202,6 +5205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lithium Moon Incident | 286060 | [286060-the-lithium-moon-incident.json](./286060-the-lithium-moon-incident.json) |
 | The Little Acre | 25680 | [25680-the-little-acre.json](./25680-the-little-acre.json) |
 | The Little Baby | 285553 | [285553-the-little-baby.json](./285553-the-little-baby.json) |
+| The Little Big Crisis | 217793 | [217793-the-little-big-crisis.json](./217793-the-little-big-crisis.json) |
 | The Little Drone 2 | 172202 | [172202-the-little-drone-2.json](./172202-the-little-drone-2.json) |
 | The Little Girl Mill of a Ginko | 300383 | [300383-the-little-girl-mill-of-a-ginko.json](./300383-the-little-girl-mill-of-a-ginko.json) |
 | The Little Land | 403022 | [403022-the-little-land.json](./403022-the-little-land.json) |
@@ -5535,6 +5539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Midnight Walkers | 289983 | [289983-the-midnight-walkers.json](./289983-the-midnight-walkers.json) |
 | The Mighty Claw | 249810 | [249810-the-mighty-claw.json](./249810-the-mighty-claw.json) |
 | The Mighty Eighth VR | 224786 | [224786-the-mighty-eighth-vr.json](./224786-the-mighty-eighth-vr.json) |
+| The Mighty Quest for Epic Loot | 217796 | [217796-the-mighty-quest-for-epic-loot.json](./217796-the-mighty-quest-for-epic-loot.json) |
 | The Mighty Quest for Epic Loot | 2726 | [2726-the-mighty-quest-for-epic-loot.json](./2726-the-mighty-quest-for-epic-loot.json) |
 | The Migrant | 199080 | [199080-the-migrant.json](./199080-the-migrant.json) |
 | The Mildew Children | 253605 | [253605-the-mildew-children.json](./253605-the-mildew-children.json) |
@@ -6619,6 +6624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Cool Kitchen Stuff | 13149 | [13149-the-sims-4-cool-kitchen-stuff.json](./13149-the-sims-4-cool-kitchen-stuff.json) |
 | The Sims 4: Country Kitchen Kit | 148501 | [148501-the-sims-4-country-kitchen-kit.json](./148501-the-sims-4-country-kitchen-kit.json) |
 | The Sims 4: Decor to the Max Kit | 195598 | [195598-the-sims-4-decor-to-the-max-kit.json](./195598-the-sims-4-decor-to-the-max-kit.json) |
+| The Sims 4: Desert Luxe Kit | 217801 | [217801-the-sims-4-desert-luxe-kit.json](./217801-the-sims-4-desert-luxe-kit.json) |
 | The Sims 4: Discover University | 126182 | [126182-the-sims-4-discover-university.json](./126182-the-sims-4-discover-university.json) |
 | The Sims 4: Eco Lifestyle | 135144 | [135144-the-sims-4-eco-lifestyle.json](./135144-the-sims-4-eco-lifestyle.json) |
 | The Sims 4: Essential Glam Kit | 362300 | [362300-the-sims-4-essential-glam-kit.json](./362300-the-sims-4-essential-glam-kit.json) |
@@ -9439,6 +9445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TinyWars | 122207 | [122207-tinywars.json](./122207-tinywars.json) |
 | Tip & Tumble | 232384 | [232384-tip-and-tumble.json](./232384-tip-and-tumble.json) |
 | Tip Top Deluxe | 206219 | [206219-tip-top-deluxe.json](./206219-tip-top-deluxe.json) |
+| Tip Top: Don't Fall! | 217814 | [217814-tip-top-dont-fall.json](./217814-tip-top-dont-fall.json) |
 | Tip-Toeing Around an Empty House | 374173 | [374173-tip-toeing-around-an-empty-house.json](./374173-tip-toeing-around-an-empty-house.json) |
 | Tip-Up Ice Fishing | 178578 | [178578-tip-up-ice-fishing.json](./178578-tip-up-ice-fishing.json) |
 | Tippy Putts | 401120 | [401120-tippy-putts.json](./401120-tippy-putts.json) |
