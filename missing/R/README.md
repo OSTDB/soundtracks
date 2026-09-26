@@ -1697,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redactem | 27470 | [27470-redactem.json](./27470-redactem.json) |
 | Redaction | 223399 | [223399-redaction.json](./223399-redaction.json) |
 | Redactle | 197384 | [197384-redactle.json](./197384-redactle.json) |
+| Redaxium 2 | 207294 | [207294-redaxium-2.json](./207294-redaxium-2.json) |
 | RedBull Car Park Drift | 120349 | [120349-redbull-car-park-drift.json](./120349-redbull-car-park-drift.json) |
 | RedCard 2003 | 46027 | [46027-redcard-2003.json](./46027-redcard-2003.json) |
 | RedCat 2: De Ontvoering van Prinses Dana | 242634 | [242634-redcat-2-de-ontvoering-van-prinses-dana.json](./242634-redcat-2-de-ontvoering-van-prinses-dana.json) |
