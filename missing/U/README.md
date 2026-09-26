@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Void | 402985 | [402985-ultra-void.json](./402985-ultra-void.json) |
 | Ultra Vortek | 40822 | [40822-ultra-vortek.json](./40822-ultra-vortek.json) |
 | Ultra Vortex | 78986 | [78986-ultra-vortex.json](./78986-ultra-vortex.json) |
+| Ultra Zultra | 175199 | [175199-ultra-zultra.json](./175199-ultra-zultra.json) |
 | Ultra0 | 391033 | [391033-ultra0.json](./391033-ultra0.json) |
 | Ultrabox | 267943 | [267943-ultrabox.json](./267943-ultrabox.json) |
 | Ultrabox No. 2 | 267942 | [267942-ultrabox-no-2.json](./267942-ultrabox-no-2.json) |
@@ -1027,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Horizons | 121622 | [121622-unknown-horizons.json](./121622-unknown-horizons.json) |
 | Unknown Host | 342906 | [342906-unknown-host.json](./342906-unknown-host.json) |
 | Unknown Kadath | 271456 | [271456-unknown-kadath.json](./271456-unknown-kadath.json) |
+| Unknown Knights | 175205 | [175205-unknown-knights.json](./175205-unknown-knights.json) |
 | Unknown Memoirs: The Rental | 249840 | [249840-unknown-memoirs-the-rental.json](./249840-unknown-memoirs-the-rental.json) |
 | Unknown Pain: Hardcore | 96694 | [96694-unknown-pain-hardcore.json](./96694-unknown-pain-hardcore.json) |
 | Unknown Place | 287226 | [287226-unknown-place.json](./287226-unknown-place.json) |
