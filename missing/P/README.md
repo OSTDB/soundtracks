@@ -2062,6 +2062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter Rabbit Maze Mischief | 88192 | [88192-peter-rabbit-maze-mischief.json](./88192-peter-rabbit-maze-mischief.json) |
 | Peter Rabbit: Let's Go! | 104458 | [104458-peter-rabbit-lets-go.json](./104458-peter-rabbit-lets-go.json) |
 | Peter Shilton's Handball Maradona! | 73836 | [73836-peter-shiltons-handball-maradona.json](./73836-peter-shiltons-handball-maradona.json) |
+| Peter Talisman: Lord of the Harvest | 182257 | [182257-peter-talisman-lord-of-the-harvest.json](./182257-peter-talisman-lord-of-the-harvest.json) |
 | Peter's Apostles | 351609 | [351609-peters-apostles.json](./351609-peters-apostles.json) |
 | Peter's House | 364585 | [364585-peters-house.json](./364585-peters-house.json) |
 | Peter's Journey | 306096 | [306096-peters-journey.json](./306096-peters-journey.json) |
@@ -5539,6 +5540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prenup Struggles | 314062 | [314062-prenup-struggles.json](./314062-prenup-struggles.json) |
 | PrePaladin Wars | 148482 | [148482-prepaladin-wars.json](./148482-prepaladin-wars.json) |
 | Prepare for the Jelly | 184633 | [184633-prepare-for-the-jelly.json](./184633-prepare-for-the-jelly.json) |
+| Prepare For Warp: Unlimited Edition - Beyond Insanji | 182222 | [182222-prepare-for-warp-unlimited-edition-beyond-insanji.json](./182222-prepare-for-warp-unlimited-edition-beyond-insanji.json) |
 | Prepare the First RPG Village: The Adventures of Nyanzou&Kumakichi - Escape Game Series | 173143 | [173143-prepare-the-first-rpg-village-the-adventures-of-nyanzou-and-kumakichi-escape-game-series.json](./173143-prepare-the-first-rpg-village-the-adventures-of-nyanzou-and-kumakichi-escape-game-series.json) |
 | Prepare to Dine | 28140 | [28140-prepare-to-dine.json](./28140-prepare-to-dine.json) |
 | Prepper | 229790 | [229790-prepper.json](./229790-prepper.json) |
@@ -6008,6 +6010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Skateboard Simulator | 69867 | [69867-pro-skateboard-simulator.json](./69867-pro-skateboard-simulator.json) |
 | PRO Soccer Challenges 2018 - World Football Stars | 95881 | [95881-pro-soccer-challenges-2018-world-football-stars.json](./95881-pro-soccer-challenges-2018-world-football-stars.json) |
 | Pro Soccer Cup 2002 | 251053 | [251053-pro-soccer-cup-2002.json](./251053-pro-soccer-cup-2002.json) |
+| Pro Soccer Online | 182202 | [182202-pro-soccer-online.json](./182202-pro-soccer-online.json) |
 | Pro Stadium | 268525 | [268525-pro-stadium.json](./268525-pro-stadium.json) |
 | Pro Strategy Football 2022 | 165623 | [165623-pro-strategy-football-2022.json](./165623-pro-strategy-football-2022.json) |
 | Pro Strategy Football 2024 | 263776 | [263776-pro-strategy-football-2024.json](./263776-pro-strategy-football-2024.json) |
@@ -6684,6 +6687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychiatric Prison Romance: Serial Killer Anime Boys Dating Sim | 336558 | [336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json](./336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Girls Dating Sim | 338006 | [338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json](./338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json) |
 | Psychic | 187201 | [187201-psychic.json](./187201-psychic.json) |
+| Psychic Cat | 182224 | [182224-psychic-cat.json](./182224-psychic-cat.json) |
 | Psychic Force | 20140 | [20140-psychic-force.json](./20140-psychic-force.json) |
 | Psychic Force Complete | 71790 | [71790-psychic-force-complete.json](./71790-psychic-force-complete.json) |
 | Psychic Investigation of Sakuragi Haru | 241385 | [241385-psychic-investigation-of-sakuragi-haru.json](./241385-psychic-investigation-of-sakuragi-haru.json) |
@@ -6913,6 +6917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punching Storm | 358332 | [358332-punching-storm.json](./358332-punching-storm.json) |
 | Punchline | 291572 | [291572-punchline.json](./291572-punchline.json) |
 | Punchline!! | 130189 | [130189-punchline.json](./130189-punchline.json) |
+| PunchMan Online | 182234 | [182234-punchman-online.json](./182234-punchman-online.json) |
 | Punchmasters | 196341 | [196341-punchmasters.json](./196341-punchmasters.json) |
 | Pungo | 355522 | [355522-pungo.json](./355522-pungo.json) |
 | Puniru ha Kawaii Slime no Game wo "Ano Game" de Tsukuttemita Keredo, Hatashite Anata ha Clear Dekirunoka? | 326577 | [326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json](./326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json) |
