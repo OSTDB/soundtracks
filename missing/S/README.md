@@ -10276,12 +10276,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Sky: After Spring Portable | 201833 | [201833-starry-sky-after-spring-portable.json](./201833-starry-sky-after-spring-portable.json) |
 | Starry Sky: After Summer | 202824 | [202824-starry-sky-after-summer.json](./202824-starry-sky-after-summer.json) |
 | Starry Sky: After Summer Portable | 202825 | [202825-starry-sky-after-summer-portable.json](./202825-starry-sky-after-summer-portable.json) |
+| Starry Sky: After Winter Portable | 203813 | [203813-starry-sky-after-winter-portable.json](./203813-starry-sky-after-winter-portable.json) |
 | Starry Sky: in Spring 3D | 201302 | [201302-starry-sky-in-spring-3d.json](./201302-starry-sky-in-spring-3d.json) |
 | Starry Sky: in Summer | 202820 | [202820-starry-sky-in-summer.json](./202820-starry-sky-in-summer.json) |
 | Starry Sky: in Summer 3D | 202823 | [202823-starry-sky-in-summer-3d.json](./202823-starry-sky-in-summer-3d.json) |
 | Starry Sky: in Summer Portable | 202821 | [202821-starry-sky-in-summer-portable.json](./202821-starry-sky-in-summer-portable.json) |
 | Starry Sky: Spring Stories | 202374 | [202374-starry-sky-spring-stories.json](./202374-starry-sky-spring-stories.json) |
 | Starry Sky: Summer Stories | 202827 | [202827-starry-sky-summer-stories.json](./202827-starry-sky-summer-stories.json) |
+| Starry Sky: Winter Stories | 203814 | [203814-starry-sky-winter-stories.json](./203814-starry-sky-winter-stories.json) |
 | StarryMonogatari: Student's Terminal | 302103 | [302103-starrymonogatari-students-terminal.json](./302103-starrymonogatari-students-terminal.json) |
 | Stars and Ghosts | 90398 | [90398-stars-and-ghosts.json](./90398-stars-and-ghosts.json) |
 | Stars Below | 177518 | [177518-stars-below.json](./177518-stars-below.json) |
@@ -10344,6 +10346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starstruck | 239651 | [239651-starstruck.json](./239651-starstruck.json) |
 | Starsuits! (Remastered+ Edition) | 357317 | [357317-starsuits-remastered-edition.json](./357317-starsuits-remastered-edition.json) |
 | Starsweep | 9529 | [9529-starsweep.json](./9529-starsweep.json) |
+| Starswirl Academy | 203835 | [203835-starswirl-academy.json](./203835-starswirl-academy.json) |
 | Start a Startup with a Legendary Japanese Warlord | 272909 | [272909-start-a-startup-with-a-legendary-japanese-warlord.json](./272909-start-a-startup-with-a-legendary-japanese-warlord.json) |
 | Start Again: A Prologue | 144092 | [144092-start-again-a-prologue.json](./144092-start-again-a-prologue.json) |
 | Start Survey? | 177427 | [177427-start-survey.json](./177427-start-survey.json) |
@@ -12933,6 +12936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Generations | 318549 | [318549-super-mario-generations.json](./318549-super-mario-generations.json) |
 | Super Mario Golden Hour | 394337 | [394337-super-mario-golden-hour.json](./394337-super-mario-golden-hour.json) |
 | Super Mario Gravity | 213948 | [213948-super-mario-gravity.json](./213948-super-mario-gravity.json) |
+| Super Mario Heardle | 203826 | [203826-super-mario-heardle.json](./203826-super-mario-heardle.json) |
 | Super Mario Holidays | 318553 | [318553-super-mario-holidays.json](./318553-super-mario-holidays.json) |
 | Super Mario Horizons | 276784 | [276784-super-mario-horizons.json](./276784-super-mario-horizons.json) |
 | Super Mario In Element World | 267978 | [267978-super-mario-in-element-world.json](./267978-super-mario-in-element-world.json) |
