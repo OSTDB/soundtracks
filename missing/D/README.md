@@ -3200,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo IV: Ultimate Edition | 249742 | [249742-diablo-iv-ultimate-edition.json](./249742-diablo-iv-ultimate-edition.json) |
 | Diablo IV: Vessel of Hatred | 275171 | [275171-diablo-iv-vessel-of-hatred.json](./275171-diablo-iv-vessel-of-hatred.json) |
 | Diablo IV: Vessel of Hatred - Expansion Bundle | 305496 | [305496-diablo-iv-vessel-of-hatred-expansion-bundle.json](./305496-diablo-iv-vessel-of-hatred-expansion-bundle.json) |
+| Diablo Junior | 186037 | [186037-diablo-junior.json](./186037-diablo-junior.json) |
 | Diablo V | 417647 | [417647-diablo-v.json](./417647-diablo-v.json) |
 | Diablo: Battle Chest | 46976 | [46976-diablo-battle-chest.json](./46976-diablo-battle-chest.json) |
 | Diabolik Lovers Chaos Lineage | 113463 | [113463-diabolik-lovers-chaos-lineage.json](./113463-diabolik-lovers-chaos-lineage.json) |
