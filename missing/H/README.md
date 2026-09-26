@@ -274,7 +274,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Makeover: Spa, Makeup & Dressup Salon | 90374 | [90374-halloween-makeover-spa-makeup-and-dressup-salon.json](./90374-halloween-makeover-spa-makeup-and-dressup-salon.json) |
 | Halloween Memory Quest | 321488 | [321488-halloween-memory-quest.json](./321488-halloween-memory-quest.json) |
 | Halloween Mysteries | 30806 | [30806-halloween-mysteries.json](./30806-halloween-mysteries.json) |
+| Halloween Night | 209447 | [209447-halloween-night.json](./209447-halloween-night.json) |
 | Halloween Night Archery | 84529 | [84529-halloween-night-archery.json](./84529-halloween-night-archery.json) |
+| Halloween Night II | 209448 | [209448-halloween-night-ii.json](./209448-halloween-night-ii.json) |
 | Halloween Online Horror Night | 274764 | [274764-halloween-online-horror-night.json](./274764-halloween-online-horror-night.json) |
 | Halloween Pinball | 89159 | [89159-halloween-pinball.json](./89159-halloween-pinball.json) |
 | Halloween Pumpkin Brawl | 317447 | [317447-halloween-pumpkin-brawl.json](./317447-halloween-pumpkin-brawl.json) |
@@ -2768,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Motives: The Diamond Rush - Collector's Edition | 186720 | [186720-hidden-motives-the-diamond-rush-collectors-edition.json](./186720-hidden-motives-the-diamond-rush-collectors-edition.json) |
 | Hidden Mysteries: Civil War | 34842 | [34842-hidden-mysteries-civil-war.json](./34842-hidden-mysteries-civil-war.json) |
 | Hidden Mysteries: Gates of Graceland | 54092 | [54092-hidden-mysteries-gates-of-graceland.json](./54092-hidden-mysteries-gates-of-graceland.json) |
+| Hidden Mysteries: Lost Secrets - A Vampires Tale, Paris Stories | 209401 | [209401-hidden-mysteries-lost-secrets-a-vampires-tale-paris-stories.json](./209401-hidden-mysteries-lost-secrets-a-vampires-tale-paris-stories.json) |
 | Hidden Mysteries: Return to Titanic | 206730 | [206730-hidden-mysteries-return-to-titanic.json](./206730-hidden-mysteries-return-to-titanic.json) |
 | Hidden Nature | 372017 | [372017-hidden-nature.json](./372017-hidden-nature.json) |
 | Hidden Nightmares | 260379 | [260379-hidden-nightmares.json](./260379-hidden-nightmares.json) |
