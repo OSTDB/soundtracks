@@ -1665,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giana Sisters: Project Radiant | 318533 | [318533-giana-sisters-project-radiant.json](./318533-giana-sisters-project-radiant.json) |
 | Giana Sisters: Twisted Dreams - Rise of the Owlverlord | 53080 | [53080-giana-sisters-twisted-dreams-rise-of-the-owlverlord.json](./53080-giana-sisters-twisted-dreams-rise-of-the-owlverlord.json) |
 | Giant and Me | 174757 | [174757-giant-and-me.json](./174757-giant-and-me.json) |
+| Giant Bundle | 193741 | [193741-giant-bundle.json](./193741-giant-bundle.json) |
 | Giant Life | 118342 | [118342-giant-life.json](./118342-giant-life.json) |
 | Giant Machines 2017 | 24684 | [24684-giant-machines-2017.json](./24684-giant-machines-2017.json) |
 | Giant Mario Bros. | 198472 | [198472-giant-mario-bros.json](./198472-giant-mario-bros.json) |
@@ -2066,6 +2067,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory Warrior: Lord of Darkness | 32963 | [32963-glory-warrior-lord-of-darkness.json](./32963-glory-warrior-lord-of-darkness.json) |
 | Glory's Witness | 161407 | [161407-glorys-witness.json](./161407-glorys-witness.json) |
 | Glove Pilot | 380537 | [380537-glove-pilot.json](./380537-glove-pilot.json) |
+| Glover | 193728 | [193728-glover.json](./193728-glover.json) |
+| Glover | 193729 | [193729-glover.json](./193729-glover.json) |
 | Glow Ball: Not a Billiard Puzzle Game | 100582 | [100582-glow-ball-not-a-billiard-puzzle-game.json](./100582-glow-ball-not-a-billiard-puzzle-game.json) |
 | Glow Chess | 106583 | [106583-glow-chess.json](./106583-glow-chess.json) |
 | Glow Hockey | 103694 | [103694-glow-hockey.json](./103694-glow-hockey.json) |
@@ -2190,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Kart Mania: Discovery Edition | 332509 | [332509-go-kart-mania-discovery-edition.json](./332509-go-kart-mania-discovery-edition.json) |
 | Go Kart Mania: Premium Edition | 317255 | [317255-go-kart-mania-premium-edition.json](./317255-go-kart-mania-premium-edition.json) |
 | Go Kart Rally | 66944 | [66944-go-kart-rally.json](./66944-go-kart-rally.json) |
+| Go Karting Outdoor | 193719 | [193719-go-karting-outdoor.json](./193719-go-karting-outdoor.json) |
 | Go Long! | 136444 | [136444-go-long.json](./136444-go-long.json) |
 | Go Noodle | 275687 | [275687-go-noodle.json](./275687-go-noodle.json) |
 | Go Nutz | 217271 | [217271-go-nutz.json](./217271-go-nutz.json) |
