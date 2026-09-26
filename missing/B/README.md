@@ -2384,6 +2384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before Times | 398359 | [398359-before-times.json](./398359-before-times.json) |
 | Before We Leave | 120878 | [120878-before-we-leave.json](./120878-before-we-leave.json) |
 | Before You Depart | 252817 | [252817-before-you-depart.json](./252817-before-you-depart.json) |
+| Before You Die | 185434 | [185434-before-you-die.json](./185434-before-you-die.json) |
 | Before Your Eyes | 91477 | [91477-before-your-eyes.json](./91477-before-your-eyes.json) |
 | Befriendus | 179700 | [179700-befriendus.json](./179700-befriendus.json) |
 | Beggar to Emperor | 353367 | [353367-beggar-to-emperor.json](./353367-beggar-to-emperor.json) |
@@ -3319,6 +3320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdie Golf | 89783 | [89783-birdie-golf.json](./89783-birdie-golf.json) |
 | Birdie Shot | 223956 | [223956-birdie-shot.json](./223956-birdie-shot.json) |
 | Birdie Up | 334084 | [334084-birdie-up.json](./334084-birdie-up.json) |
+| Birding 101 | 185424 | [185424-birding-101.json](./185424-birding-101.json) |
 | Birdiy | 38592 | [38592-birdiy.json](./38592-birdiy.json) |
 | Birdland | 20339 | [20339-birdland.json](./20339-birdland.json) |
 | BirdLingo: A birdsong learning game | 311260 | [311260-birdlingo-a-birdsong-learning-game.json](./311260-birdlingo-a-birdsong-learning-game.json) |
@@ -6796,6 +6798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Inferno | 368494 | [368494-bullet-inferno.json](./368494-bullet-inferno.json) |
 | Bullet Maniac | 237629 | [237629-bullet-maniac.json](./237629-bullet-maniac.json) |
 | Bullet Rain | 302357 | [302357-bullet-rain.json](./302357-bullet-rain.json) |
+| Bullet Reality | 185435 | [185435-bullet-reality.json](./185435-bullet-reality.json) |
 | Bullet Runner | 152156 | [152156-bullet-runner.json](./152156-bullet-runner.json) |
 | Bullet Runner: The First Slaughter | 241948 | [241948-bullet-runner-the-first-slaughter.json](./241948-bullet-runner-the-first-slaughter.json) |
 | Bullet Sorceress: Shooting Action Carnage | 146865 | [146865-bullet-sorceress-shooting-action-carnage.json](./146865-bullet-sorceress-shooting-action-carnage.json) |
@@ -6891,6 +6894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bun Wars: Best of fun for Boys Girls and Kids | 101533 | [101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json](./101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json) |
 | Bunch of Heroes: Holiday Pack | 226274 | [226274-bunch-of-heroes-holiday-pack.json](./226274-bunch-of-heroes-holiday-pack.json) |
 | Bunches For Bart! | 297795 | [297795-bunches-for-bart.json](./297795-bunches-for-bart.json) |
+| Buncho: The Lost Bird | 185419 | [185419-buncho-the-lost-bird.json](./185419-buncho-the-lost-bird.json) |
 | Bundesliga Stars 2000 | 44832 | [44832-bundesliga-stars-2000.json](./44832-bundesliga-stars-2000.json) |
 | Bundle: Journey of the Broken Circle + Cosmic Top Secret | 218468 | [218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json](./218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json) |
 | Bunflower | 205014 | [205014-bunflower.json](./205014-bunflower.json) |
@@ -6898,6 +6902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bungie Mac Action Sack | 172660 | [172660-bungie-mac-action-sack.json](./172660-bungie-mac-action-sack.json) |
 | Bungmyeong | 145640 | [145640-bungmyeong.json](./145640-bungmyeong.json) |
 | Bungo to Alchemist | 314458 | [314458-bungo-to-alchemist.json](./314458-bungo-to-alchemist.json) |
+| Bunk.Town | 185446 | [185446-bunk-town.json](./185446-bunk-town.json) |
 | Bunker | 22780 | [22780-bunker.json](./22780-bunker.json) |
 | Bunker 22 | 203892 | [203892-bunker-22.json](./203892-bunker-22.json) |
 | Bunker 2322 | 196263 | [196263-bunker-2322.json](./196263-bunker-2322.json) |
