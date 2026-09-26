@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacknet | 11707 | [11707-hacknet.json](./11707-hacknet.json) |
 | Hackshot | 173263 | [173263-hackshot.json](./173263-hackshot.json) |
 | HackSlash | 361894 | [361894-hackslash.json](./361894-hackslash.json) |
+| HackStack | 200442 | [200442-hackstack.json](./200442-hackstack.json) |
 | Had | 239085 | [239085-had.json](./239085-had.json) |
 | Hadalyth Zero | 414616 | [414616-hadalyth-zero.json](./414616-hadalyth-zero.json) |
 | Hadarot | 291248 | [291248-hadarot.json](./291248-hadarot.json) |
@@ -2460,6 +2461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of the Triangle: Mask Rush | 402417 | [402417-heroes-of-the-triangle-mask-rush.json](./402417-heroes-of-the-triangle-mask-rush.json) |
 | Heroes of the Underworld | 403812 | [403812-heroes-of-the-underworld.json](./403812-heroes-of-the-underworld.json) |
 | Heroes of Three Kingdoms | 77303 | [77303-heroes-of-three-kingdoms.json](./77303-heroes-of-three-kingdoms.json) |
+| Heroes of Time | 200470 | [200470-heroes-of-time.json](./200470-heroes-of-time.json) |
 | Heroes of Valhalla | 224104 | [224104-heroes-of-valhalla.json](./224104-heroes-of-valhalla.json) |
 | Heroes of War | 227471 | [227471-heroes-of-war.json](./227471-heroes-of-war.json) |
 | Heroes of Warland | 112141 | [112141-heroes-of-warland.json](./112141-heroes-of-warland.json) |
