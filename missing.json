@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T05:03:16.915Z",
-  "total_missing": 124226,
+  "generated_at": "2026-09-26T05:17:59.658Z",
+  "total_missing": 124276,
   "games": [
     {
       "igdb_id": 176875,
@@ -21731,6 +21731,11 @@
       "igdb_id": 270784,
       "game_name": "Ancient Wind Spread",
       "file": "missing/A/270784-ancient-wind-spread.json"
+    },
+    {
+      "igdb_id": 215659,
+      "game_name": "Ancient Witch Arena",
+      "file": "missing/A/215659-ancient-witch-arena.json"
     },
     {
       "igdb_id": 273656,
@@ -275178,6 +275183,11 @@
       "file": "missing/K/62717-kings-age.json"
     },
     {
+      "igdb_id": 215647,
+      "game_name": "Kings and Catapults",
+      "file": "missing/K/215647-kings-and-catapults.json"
+    },
+    {
       "igdb_id": 60249,
       "game_name": "Kings and Generals: A Divided Loyalty",
       "file": "missing/K/60249-kings-and-generals-a-divided-loyalty.json"
@@ -285798,6 +285808,11 @@
       "file": "missing/L/237529-legend-of-slime-idle-rpg.json"
     },
     {
+      "igdb_id": 215645,
+      "game_name": "Legend of Snake",
+      "file": "missing/L/215645-legend-of-snake.json"
+    },
+    {
       "igdb_id": 107153,
       "game_name": "Legend of Solgard",
       "file": "missing/L/107153-legend-of-solgard.json"
@@ -287773,6 +287788,11 @@
       "file": "missing/L/156017-let-me-out.json"
     },
     {
+      "igdb_id": 215644,
+      "game_name": "Let Me Out",
+      "file": "missing/L/215644-let-me-out.json"
+    },
+    {
       "igdb_id": 220605,
       "game_name": "Let Me Out",
       "file": "missing/L/220605-let-me-out.json"
@@ -288863,6 +288883,11 @@
       "file": "missing/L/235352-lewd-delivery.json"
     },
     {
+      "igdb_id": 215643,
+      "game_name": "Lewd Guest",
+      "file": "missing/L/215643-lewd-guest.json"
+    },
+    {
       "igdb_id": 207337,
       "game_name": "Lewd Gym",
       "file": "missing/L/207337-lewd-gym.json"
@@ -289946,6 +289971,11 @@
       "igdb_id": 338264,
       "game_name": "Light De Deux",
       "file": "missing/L/338264-light-de-deux.json"
+    },
+    {
+      "igdb_id": 215642,
+      "game_name": "Light Eater",
+      "file": "missing/L/215642-light-eater.json"
     },
     {
       "igdb_id": 36620,
@@ -291091,6 +291121,11 @@
       "igdb_id": 375803,
       "game_name": "Liminal: The Forgotten Maze",
       "file": "missing/L/375803-liminal-the-forgotten-maze.json"
+    },
+    {
+      "igdb_id": 215646,
+      "game_name": "Liminalia",
+      "file": "missing/L/215646-liminalia.json"
     },
     {
       "igdb_id": 176476,
@@ -296873,6 +296908,11 @@
       "file": "missing/L/287210-lost-in-the-past-a-hearts-remembrance-labyrinth.json"
     },
     {
+      "igdb_id": 215641,
+      "game_name": "Lost in the Sand",
+      "file": "missing/L/215641-lost-in-the-sand.json"
+    },
+    {
       "igdb_id": 408064,
       "game_name": "Lost In The Store",
       "file": "missing/L/408064-lost-in-the-store.json"
@@ -300563,6 +300603,11 @@
       "file": "missing/L/195738-lustful-ponies.json"
     },
     {
+      "igdb_id": 215607,
+      "game_name": "Lustful Ponies 2",
+      "file": "missing/L/215607-lustful-ponies-2.json"
+    },
+    {
       "igdb_id": 346790,
       "game_name": "Lustra: Lachea’s Tale",
       "file": "missing/L/346790-lustra-lachea-s-tale.json"
@@ -302608,6 +302653,11 @@
       "file": "missing/M/20576-mage-knight-destinys-soldier.json"
     },
     {
+      "igdb_id": 215608,
+      "game_name": "Mage Lords of Brams",
+      "file": "missing/M/215608-mage-lords-of-brams.json"
+    },
+    {
       "igdb_id": 120408,
       "game_name": "Mage Mania",
       "file": "missing/M/120408-mage-mania.json"
@@ -303251,6 +303301,11 @@
       "igdb_id": 374147,
       "game_name": "Magic Maho: Dream Runner",
       "file": "missing/M/374147-magic-maho-dream-runner.json"
+    },
+    {
+      "igdb_id": 215609,
+      "game_name": "Magic Market",
+      "file": "missing/M/215609-magic-market.json"
     },
     {
       "igdb_id": 415129,
@@ -305728,6 +305783,11 @@
       "file": "missing/M/208971-makeup-stylist-diy-makeup-game.json"
     },
     {
+      "igdb_id": 215610,
+      "game_name": "Maki: Paw of Fury",
+      "file": "missing/M/215610-maki-paw-of-fury.json"
+    },
+    {
       "igdb_id": 237501,
       "game_name": "Makibishi Comic",
       "file": "missing/M/237501-makibishi-comic.json"
@@ -306831,6 +306891,11 @@
       "igdb_id": 140566,
       "game_name": "MannaRites",
       "file": "missing/M/140566-mannarites.json"
+    },
+    {
+      "igdb_id": 215611,
+      "game_name": "ManneKin: Hessler Storage",
+      "file": "missing/M/215611-mannekin-hessler-storage.json"
     },
     {
       "igdb_id": 183037,
@@ -309611,6 +309676,11 @@
       "igdb_id": 111712,
       "game_name": "Mars: Chaos Menace",
       "file": "missing/M/111712-mars-chaos-menace.json"
+    },
+    {
+      "igdb_id": 215618,
+      "game_name": "Mars: The New Eden",
+      "file": "missing/M/215618-mars-the-new-eden.json"
     },
     {
       "igdb_id": 1830,
@@ -312783,6 +312853,11 @@
       "file": "missing/M/25979-maxwell-manor.json"
     },
     {
+      "igdb_id": 215617,
+      "game_name": "Maxwell's Wicked Dollhouse",
+      "file": "missing/M/215617-maxwells-wicked-dollhouse.json"
+    },
+    {
       "igdb_id": 281504,
       "game_name": "Maxwell's World",
       "file": "missing/M/281504-maxwells-world.json"
@@ -314903,6 +314978,11 @@
       "file": "missing/M/236254-medieval-tales-solitaire.json"
     },
     {
+      "igdb_id": 215616,
+      "game_name": "Medieval Warrior Simulator",
+      "file": "missing/M/215616-medieval-warrior-simulator.json"
+    },
+    {
       "igdb_id": 165697,
       "game_name": "Medieval Wars",
       "file": "missing/M/165697-medieval-wars.json"
@@ -315261,6 +315341,11 @@
       "igdb_id": 62434,
       "game_name": "MEG:RVO",
       "file": "missing/M/62434-meg-rvo.json"
+    },
+    {
+      "igdb_id": 215615,
+      "game_name": "Mega",
+      "file": "missing/M/215615-mega.json"
     },
     {
       "igdb_id": 274000,
@@ -320578,6 +320663,11 @@
       "file": "missing/M/237085-meticulous.json"
     },
     {
+      "igdb_id": 215614,
+      "game_name": "Meticulous: Meet All Your Needs",
+      "file": "missing/M/215614-meticulous-meet-all-your-needs.json"
+    },
+    {
       "igdb_id": 3119,
       "game_name": "Metin2",
       "file": "missing/M/3119-metin2.json"
@@ -321691,6 +321781,11 @@
       "igdb_id": 127211,
       "game_name": "Microscope Madness",
       "file": "missing/M/127211-microscope-madness.json"
+    },
+    {
+      "igdb_id": 215613,
+      "game_name": "Microscopic",
+      "file": "missing/M/215613-microscopic.json"
     },
     {
       "igdb_id": 81214,
@@ -323411,6 +323506,11 @@
       "igdb_id": 20877,
       "game_name": "MilitAnt",
       "file": "missing/M/20877-militant.json"
+    },
+    {
+      "igdb_id": 215612,
+      "game_name": "Military Attack",
+      "file": "missing/M/215612-military-attack.json"
     },
     {
       "igdb_id": 169447,
@@ -341768,6 +341868,11 @@
       "file": "missing/M/321976-my-sudoku-classic-9x9-medium-3.json"
     },
     {
+      "igdb_id": 215637,
+      "game_name": "My Sugar Mommy is a Futanari",
+      "file": "missing/M/215637-my-sugar-mommy-is-a-futanari.json"
+    },
+    {
       "igdb_id": 240809,
       "game_name": "My Summer Adventure: Memories of Another Life - Day 1",
       "file": "missing/M/240809-my-summer-adventure-memories-of-another-life-day-1.json"
@@ -343363,6 +343468,11 @@
       "file": "missing/M/202950-mystical-chain.json"
     },
     {
+      "igdb_id": 215639,
+      "game_name": "Mystical Conquests",
+      "file": "missing/M/215639-mystical-conquests.json"
+    },
+    {
       "igdb_id": 313273,
       "game_name": "Mystical Crash in Magical Middle Ages: Adventure of Valkyrie",
       "file": "missing/M/313273-mystical-crash-in-magical-middle-ages-adventure-of-valkyrie.json"
@@ -343386,6 +343496,11 @@
       "igdb_id": 201854,
       "game_name": "Mystical Realms Collection",
       "file": "missing/M/201854-mystical-realms-collection.json"
+    },
+    {
+      "igdb_id": 215638,
+      "game_name": "Mystical Riddles: Behind Doll's Eyes - Collector's Edition",
+      "file": "missing/M/215638-mystical-riddles-behind-dolls-eyes-collectors-edition.json"
     },
     {
       "igdb_id": 361775,
@@ -343666,6 +343781,11 @@
       "igdb_id": 388240,
       "game_name": "Mythic Yi",
       "file": "missing/M/388240-mythic-yi.json"
+    },
+    {
+      "igdb_id": 215636,
+      "game_name": "Mythic: Frost Trials",
+      "file": "missing/M/215636-mythic-frost-trials.json"
     },
     {
       "igdb_id": 272387,
@@ -345783,9 +345903,39 @@
       "file": "missing/N/236548-nature.json"
     },
     {
+      "igdb_id": 215634,
+      "game_name": "Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 1",
+      "file": "missing/N/215634-nature-and-wildlife-jigsaw-puzzle-expansion-pack-1.json"
+    },
+    {
+      "igdb_id": 215633,
+      "game_name": "Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 2",
+      "file": "missing/N/215633-nature-and-wildlife-jigsaw-puzzle-expansion-pack-2.json"
+    },
+    {
+      "igdb_id": 215632,
+      "game_name": "Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 3",
+      "file": "missing/N/215632-nature-and-wildlife-jigsaw-puzzle-expansion-pack-3.json"
+    },
+    {
+      "igdb_id": 215631,
+      "game_name": "Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 4",
+      "file": "missing/N/215631-nature-and-wildlife-jigsaw-puzzle-expansion-pack-4.json"
+    },
+    {
+      "igdb_id": 215630,
+      "game_name": "Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 5",
+      "file": "missing/N/215630-nature-and-wildlife-jigsaw-puzzle-expansion-pack-5.json"
+    },
+    {
       "igdb_id": 368520,
       "game_name": "Nature Atelier",
       "file": "missing/N/368520-nature-atelier.json"
+    },
+    {
+      "igdb_id": 215635,
+      "game_name": "Nature Escapes",
+      "file": "missing/N/215635-nature-escapes.json"
     },
     {
       "igdb_id": 235182,
@@ -349186,6 +349336,11 @@
       "igdb_id": 295286,
       "game_name": "NeoSprint",
       "file": "missing/N/295286-neosprint.json"
+    },
+    {
+      "igdb_id": 215629,
+      "game_name": "Neotag League",
+      "file": "missing/N/215629-neotag-league.json"
     },
     {
       "igdb_id": 61111,
@@ -354103,6 +354258,11 @@
       "file": "missing/N/338937-ninja-glove.json"
     },
     {
+      "igdb_id": 215621,
+      "game_name": "Ninja Hagakure",
+      "file": "missing/N/215621-ninja-hagakure.json"
+    },
+    {
       "igdb_id": 266254,
       "game_name": "Ninja Hands",
       "file": "missing/N/266254-ninja-hands.json"
@@ -355798,6 +355958,11 @@
       "file": "missing/N/93503-no-human.json"
     },
     {
+      "igdb_id": 215625,
+      "game_name": "No: Worse",
+      "file": "missing/N/215625-no-worse.json"
+    },
+    {
       "igdb_id": 231853,
       "game_name": "No.13 Shelter",
       "file": "missing/N/231853-no-13-shelter.json"
@@ -357038,6 +357203,11 @@
       "file": "missing/N/200732-noras-dream.json"
     },
     {
+      "igdb_id": 215622,
+      "game_name": "Noracam's Slider Challenge",
+      "file": "missing/N/215622-noracams-slider-challenge.json"
+    },
+    {
       "igdb_id": 174843,
       "game_name": "Noragami Aragoto",
       "file": "missing/N/174843-noragami-aragoto.json"
@@ -357748,6 +357918,11 @@
       "file": "missing/N/260766-noteblaster.json"
     },
     {
+      "igdb_id": 215623,
+      "game_name": "Notebook Entries Vol.1",
+      "file": "missing/N/215623-notebook-entries-vol-1.json"
+    },
+    {
       "igdb_id": 144751,
       "game_name": "Notebook Ninja Fights",
       "file": "missing/N/144751-notebook-ninja-fights.json"
@@ -357986,6 +358161,11 @@
       "igdb_id": 195608,
       "game_name": "Nova Slash: Unparalleled Power",
       "file": "missing/N/195608-nova-slash-unparalleled-power.json"
+    },
+    {
+      "igdb_id": 215624,
+      "game_name": "Nova Squadron",
+      "file": "missing/N/215624-nova-squadron.json"
     },
     {
       "igdb_id": 259027,
@@ -359166,6 +359346,11 @@
       "igdb_id": 299170,
       "game_name": "Nutty",
       "file": "missing/N/299170-nutty.json"
+    },
+    {
+      "igdb_id": 215626,
+      "game_name": "Nutty Motorcars",
+      "file": "missing/N/215626-nutty-motorcars.json"
     },
     {
       "igdb_id": 240329,
@@ -361951,6 +362136,11 @@
       "igdb_id": 264103,
       "game_name": "Oil Filling",
       "file": "missing/O/264103-oil-filling.json"
+    },
+    {
+      "igdb_id": 215627,
+      "game_name": "Oil Manager",
+      "file": "missing/O/215627-oil-manager.json"
     },
     {
       "igdb_id": 228397,
@@ -480383,6 +480573,11 @@
       "file": "missing/S/383357-spirit-catcher-93.json"
     },
     {
+      "igdb_id": 215660,
+      "game_name": "Spirit Charm",
+      "file": "missing/S/215660-spirit-charm.json"
+    },
+    {
       "igdb_id": 263016,
       "game_name": "Spirit City: Lofi Sessions",
       "file": "missing/S/263016-spirit-city-lofi-sessions.json"
@@ -598128,6 +598323,11 @@
       "file": "missing/W/272567-wfd.json"
     },
     {
+      "igdb_id": 215649,
+      "game_name": "WFO World Football Online",
+      "file": "missing/W/215649-wfo-world-football-online.json"
+    },
+    {
       "igdb_id": 270661,
       "game_name": "WG Mega",
       "file": "missing/W/270661-wg-mega.json"
@@ -599073,6 +599273,11 @@
       "file": "missing/W/390795-when-we-arrive.json"
     },
     {
+      "igdb_id": 215650,
+      "game_name": "When We Lost",
+      "file": "missing/W/215650-when-we-lost.json"
+    },
+    {
       "igdb_id": 312122,
       "game_name": "When You See It",
       "file": "missing/W/312122-when-you-see-it.json"
@@ -599521,6 +599726,11 @@
       "igdb_id": 367487,
       "game_name": "Where's That Clown?!",
       "file": "missing/W/367487-wheres-that-clown.json"
+    },
+    {
+      "igdb_id": 215651,
+      "game_name": "Where's the Bathroom!?!",
+      "file": "missing/W/215651-wheres-the-bathroom.json"
     },
     {
       "igdb_id": 69583,
@@ -601326,6 +601536,11 @@
       "igdb_id": 17598,
       "game_name": "Wild Warfare",
       "file": "missing/W/17598-wild-warfare.json"
+    },
+    {
+      "igdb_id": 215648,
+      "game_name": "Wild West",
+      "file": "missing/W/215648-wild-west.json"
     },
     {
       "igdb_id": 39383,
@@ -603448,6 +603663,11 @@
       "file": "missing/W/192887-witch-sacrifice.json"
     },
     {
+      "igdb_id": 215655,
+      "game_name": "Witch Schools: Love Potions",
+      "file": "missing/W/215655-witch-schools-love-potions.json"
+    },
+    {
       "igdb_id": 185698,
       "game_name": "Witch Sequencer",
       "file": "missing/W/185698-witch-sequencer.json"
@@ -603476,6 +603696,11 @@
       "igdb_id": 329681,
       "game_name": "Witch Stories",
       "file": "missing/W/329681-witch-stories.json"
+    },
+    {
+      "igdb_id": 215653,
+      "game_name": "Witch Story",
+      "file": "missing/W/215653-witch-story.json"
     },
     {
       "igdb_id": 55464,
@@ -603541,6 +603766,11 @@
       "igdb_id": 367053,
       "game_name": "Witch’s Lewd Curse",
       "file": "missing/W/367053-witch-s-lewd-curse.json"
+    },
+    {
+      "igdb_id": 215654,
+      "game_name": "Witch's Mystery",
+      "file": "missing/W/215654-witchs-mystery.json"
     },
     {
       "igdb_id": 153858,
@@ -603906,6 +604136,11 @@
       "igdb_id": 270394,
       "game_name": "Without Escape",
       "file": "missing/W/270394-without-escape.json"
+    },
+    {
+      "igdb_id": 215652,
+      "game_name": "Without kidney",
+      "file": "missing/W/215652-without-kidney.json"
     },
     {
       "igdb_id": 141176,
@@ -609058,6 +609293,11 @@
       "file": "missing/W/304739-wrekless.json"
     },
     {
+      "igdb_id": 215656,
+      "game_name": "Wren's Journey",
+      "file": "missing/W/215656-wrens-journey.json"
+    },
+    {
       "igdb_id": 136234,
       "game_name": "WrenchFighter Turbo",
       "file": "missing/W/136234-wrenchfighter-turbo.json"
@@ -609821,6 +610061,11 @@
       "igdb_id": 195634,
       "game_name": "WWII Tanks: Battlefield",
       "file": "missing/W/195634-wwii-tanks-battlefield.json"
+    },
+    {
+      "igdb_id": 215657,
+      "game_name": "WWII Tanks: Forgotten Battles",
+      "file": "missing/W/215657-wwii-tanks-forgotten-battles.json"
     },
     {
       "igdb_id": 144311,
@@ -611021,6 +611266,11 @@
       "igdb_id": 159029,
       "game_name": "XDefiant",
       "file": "missing/X/159029-xdefiant.json"
+    },
+    {
+      "igdb_id": 215658,
+      "game_name": "Xearz",
+      "file": "missing/X/215658-xearz.json"
     },
     {
       "igdb_id": 55021,
