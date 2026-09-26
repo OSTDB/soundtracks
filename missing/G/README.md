@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxar | 358900 | [358900-galaxar.json](./358900-galaxar.json) |
 | Galaxi Taxi | 217365 | [217365-galaxi-taxi.json](./217365-galaxi-taxi.json) |
 | Galaxia 7 | 60228 | [60228-galaxia-7.json](./60228-galaxia-7.json) |
+| Galaxia Reloaded | 175175 | [175175-galaxia-reloaded.json](./175175-galaxia-reloaded.json) |
 | Galaxian | 239166 | [239166-galaxian.json](./239166-galaxian.json) |
 | Galaxian | 277384 | [277384-galaxian.json](./277384-galaxian.json) |
 | Galaxian | 277385 | [277385-galaxian.json](./277385-galaxian.json) |
@@ -369,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Mirror Glaze Cake - Sweet Desserts Maker | 101347 | [101347-galaxy-mirror-glaze-cake-sweet-desserts-maker.json](./101347-galaxy-mirror-glaze-cake-sweet-desserts-maker.json) |
 | Galaxy of Arcade Classics | 206136 | [206136-galaxy-of-arcade-classics.json](./206136-galaxy-of-arcade-classics.json) |
 | Galaxy of Pen and Paper +1 Edition | 205270 | [205270-galaxy-of-pen-and-paper-1-edition.json](./205270-galaxy-of-pen-and-paper-1-edition.json) |
+| Galaxy of Trian | 175182 | [175182-galaxy-of-trian.json](./175182-galaxy-of-trian.json) |
 | Galaxy on Fire 2 Full HD | 25471 | [25471-galaxy-on-fire-2-full-hd.json](./25471-galaxy-on-fire-2-full-hd.json) |
 | Galaxy on Fire 2: Supernova | 402965 | [402965-galaxy-on-fire-2-supernova.json](./402965-galaxy-on-fire-2-supernova.json) |
 | Galaxy on Fire 3: Manticore | 87183 | [87183-galaxy-on-fire-3-manticore.json](./87183-galaxy-on-fire-3-manticore.json) |
@@ -2208,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Kart Mania: Discovery Edition | 332509 | [332509-go-kart-mania-discovery-edition.json](./332509-go-kart-mania-discovery-edition.json) |
 | Go Kart Mania: Premium Edition | 317255 | [317255-go-kart-mania-premium-edition.json](./317255-go-kart-mania-premium-edition.json) |
 | Go Kart Rally | 66944 | [66944-go-kart-rally.json](./66944-go-kart-rally.json) |
+| Go Kart Safari | 175190 | [175190-go-kart-safari.json](./175190-go-kart-safari.json) |
 | Go Karting Outdoor | 193719 | [193719-go-karting-outdoor.json](./193719-go-karting-outdoor.json) |
 | Go Long! | 136444 | [136444-go-long.json](./136444-go-long.json) |
 | Go Noodle | 275687 | [275687-go-noodle.json](./275687-go-noodle.json) |
@@ -3651,6 +3654,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey Zone | 68620 | [68620-grey-zone.json](./68620-grey-zone.json) |
 | Grey-Box Testing | 135222 | [135222-grey-box-testing.json](./135222-grey-box-testing.json) |
 | Greyhill Incident: Found Footage Mode | 252682 | [252682-greyhill-incident-found-footage-mode.json](./252682-greyhill-incident-found-footage-mode.json) |
+| Greyhound Manager 2 | 175195 | [175195-greyhound-manager-2.json](./175195-greyhound-manager-2.json) |
+| Greyhound Racing | 175212 | [175212-greyhound-racing.json](./175212-greyhound-racing.json) |
 | Greyhound Racing Tournament 2 | 103858 | [103858-greyhound-racing-tournament-2.json](./103858-greyhound-racing-tournament-2.json) |
 | Greyish White | 289345 | [289345-greyish-white.json](./289345-greyish-white.json) |
 | Greymood | 262288 | [262288-greymood.json](./262288-greymood.json) |
