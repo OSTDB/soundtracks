@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xplorasi3d 2.0 | 220729 | [220729-xplorasi3d-2-0.json](./220729-xplorasi3d-2-0.json) |
 | Xplosive Raccoon | 283861 | [283861-xplosive-raccoon.json](./283861-xplosive-raccoon.json) |
 | Xposed Switched | 232562 | [232562-xposed-switched.json](./232562-xposed-switched.json) |
+| Xpressorcist | 197139 | [197139-xpressorcist.json](./197139-xpressorcist.json) |
 | XR-35 | 55210 | [55210-xr-35.json](./55210-xr-35.json) |
 | XRick | 280354 | [280354-xrick.json](./280354-xrick.json) |
 | XRick | 289883 | [289883-xrick.json](./289883-xrick.json) |
