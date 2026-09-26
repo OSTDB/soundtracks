@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazono-Jikenbo: Shinjuku Renzoku Quiz Jiken | 349506 | [349506-nazono-jikenbo-shinjuku-renzoku-quiz-jiken.json](./349506-nazono-jikenbo-shinjuku-renzoku-quiz-jiken.json) |
 | Nazono-Jikenbo: The Composer Murder Case. | 349510 | [349510-nazono-jikenbo-the-composer-murder-case.json](./349510-nazono-jikenbo-the-composer-murder-case.json) |
 | Nazotoki IQ Quiz | 261372 | [261372-nazotoki-iq-quiz.json](./261372-nazotoki-iq-quiz.json) |
+| Nazotoki Mail | 218986 | [218986-nazotoki-mail.json](./218986-nazotoki-mail.json) |
 | Nazotoki Mail 2 | 222239 | [222239-nazotoki-mail-2.json](./222239-nazotoki-mail-2.json) |
 | Nazotoki no Jikan: Thrill Suspense na Nazotoki Dasshutsu Mystery Suiri Game | 222388 | [222388-nazotoki-no-jikan-thrill-suspense-na-nazotoki-dasshutsu-mystery-suiri-game.json](./222388-nazotoki-no-jikan-thrill-suspense-na-nazotoki-dasshutsu-mystery-suiri-game.json) |
 | Nazotoki Suiri! Yuuzai? Muzai? | 251606 | [251606-nazotoki-suiri-yuuzai-muzai.json](./251606-nazotoki-suiri-yuuzai-muzai.json) |
@@ -1926,6 +1927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nik and Kit: Nik's Adventure | 212793 | [212793-nik-and-kit-niks-adventure.json](./212793-nik-and-kit-niks-adventure.json) |
 | Nik Jam Violator | 330715 | [330715-nik-jam-violator.json](./330715-nik-jam-violator.json) |
 | Nik Super Gunventure | 282690 | [282690-nik-super-gunventure.json](./282690-nik-super-gunventure.json) |
+| Nikakudori | 218983 | [218983-nikakudori.json](./218983-nikakudori.json) |
 | Nike+ Kinect Training | 21010 | [21010-nike-kinect-training.json](./21010-nike-kinect-training.json) |
 | Nikka: Rise | 235486 | [235486-nikka-rise.json](./235486-nikka-rise.json) |
 | Nikkan Berutomo Club | 64904 | [64904-nikkan-berutomo-club.json](./64904-nikkan-berutomo-club.json) |
@@ -1937,7 +1939,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikola's Fate | 329678 | [329678-nikolas-fate.json](./329678-nikolas-fate.json) |
 | Nikolai's Knights | 205127 | [205127-nikolais-knights.json](./205127-nikolais-knights.json) |
 | Nikolai's Mysteries | 205128 | [205128-nikolais-mysteries.json](./205128-nikolais-mysteries.json) |
+| Nikoli no Puzzle 4: Hashi wo Kakero | 218989 | [218989-nikoli-no-puzzle-4-hashi-wo-kakero.json](./218989-nikoli-no-puzzle-4-hashi-wo-kakero.json) |
+| Nikoli no Puzzle 4: Heyawake | 218990 | [218990-nikoli-no-puzzle-4-heyawake.json](./218990-nikoli-no-puzzle-4-heyawake.json) |
 | Nikoli no Puzzle 4: Shikaku ni Kire | 219025 | [219025-nikoli-no-puzzle-4-shikaku-ni-kire.json](./219025-nikoli-no-puzzle-4-shikaku-ni-kire.json) |
+| Nikoli no Puzzle 4: Slither Link | 218987 | [218987-nikoli-no-puzzle-4-slither-link.json](./218987-nikoli-no-puzzle-4-slither-link.json) |
 | Nikoli no Puzzle 4: Sudoku | 62164 | [62164-nikoli-no-puzzle-4-sudoku.json](./62164-nikoli-no-puzzle-4-sudoku.json) |
 | Nikoli no Puzzle V: Akari | 64934 | [64934-nikoli-no-puzzle-v-akari.json](./64934-nikoli-no-puzzle-v-akari.json) |
 | Nikoli no Puzzle V: Heyawake | 64937 | [64937-nikoli-no-puzzle-v-heyawake.json](./64937-nikoli-no-puzzle-v-heyawake.json) |
