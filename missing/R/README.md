@@ -3579,6 +3579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCop | 6013 | [6013-robocop.json](./6013-robocop.json) |
 | RoboCop 2 | 144145 | [144145-robocop-2.json](./144145-robocop-2.json) |
 | RoboCop 2 | 219017 | [219017-robocop-2.json](./219017-robocop-2.json) |
+| RoboCop 2D 2: RoboCop vs. Terminator | 203234 | [203234-robocop-2d-2-robocop-vs-terminator.json](./203234-robocop-2d-2-robocop-vs-terminator.json) |
 | RoboCop 3 | 19695 | [19695-robocop-3.json](./19695-robocop-3.json) |
 | RoboCop 3 | 25167 | [25167-robocop-3.json](./25167-robocop-3.json) |
 | RoboCop Versus the Terminator | 288341 | [288341-robocop-versus-the-terminator.json](./288341-robocop-versus-the-terminator.json) |
@@ -3600,6 +3601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboGal: Gaga Delta Lady | 306994 | [306994-robogal-gaga-delta-lady.json](./306994-robogal-gaga-delta-lady.json) |
 | RoboHeist VR | 86561 | [86561-roboheist-vr.json](./86561-roboheist-vr.json) |
 | RoboHero | 388195 | [388195-robohero.json](./388195-robohero.json) |
+| Roboholic | 203227 | [203227-roboholic.json](./203227-roboholic.json) |
 | RoboHunt | 253320 | [253320-robohunt.json](./253320-robohunt.json) |
 | RoboJep | 165691 | [165691-robojep.json](./165691-robojep.json) |
 | Robokill | 361334 | [361334-robokill.json](./361334-robokill.json) |
