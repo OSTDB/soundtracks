@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazono-Jikenbo: Shinjuku Renzoku Quiz Jiken | 349506 | [349506-nazono-jikenbo-shinjuku-renzoku-quiz-jiken.json](./349506-nazono-jikenbo-shinjuku-renzoku-quiz-jiken.json) |
 | Nazono-Jikenbo: The Composer Murder Case. | 349510 | [349510-nazono-jikenbo-the-composer-murder-case.json](./349510-nazono-jikenbo-the-composer-murder-case.json) |
 | Nazotoki IQ Quiz | 261372 | [261372-nazotoki-iq-quiz.json](./261372-nazotoki-iq-quiz.json) |
+| Nazotoki Mail 2 | 222239 | [222239-nazotoki-mail-2.json](./222239-nazotoki-mail-2.json) |
 | Nazotoki no Jikan: Thrill Suspense na Nazotoki Dasshutsu Mystery Suiri Game | 222388 | [222388-nazotoki-no-jikan-thrill-suspense-na-nazotoki-dasshutsu-mystery-suiri-game.json](./222388-nazotoki-no-jikan-thrill-suspense-na-nazotoki-dasshutsu-mystery-suiri-game.json) |
 | Nazotoki Suiri! Yuuzai? Muzai? | 251606 | [251606-nazotoki-suiri-yuuzai-muzai.json](./251606-nazotoki-suiri-yuuzai-muzai.json) |
 | Nb107a | 184572 | [184572-nb107a.json](./184572-nb107a.json) |
@@ -1863,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Temptation Academy | 144117 | [144117-nightmare-temptation-academy.json](./144117-nightmare-temptation-academy.json) |
 | Nightmare Within | 311615 | [311615-nightmare-within.json](./311615-nightmare-within.json) |
 | Nightmare Without Return | 216792 | [216792-nightmare-without-return.json](./216792-nightmare-without-return.json) |
+| Nightmare Yokai Village | 222238 | [222238-nightmare-yokai-village.json](./222238-nightmare-yokai-village.json) |
 | Nightmare: The Origins | 173218 | [173218-nightmare-the-origins.json](./173218-nightmare-the-origins.json) |
 | Nightmare's Revenge | 322006 | [322006-nightmares-revenge.json](./322006-nightmares-revenge.json) |
 | NightmareBullet | 105364 | [105364-nightmarebullet.json](./105364-nightmarebullet.json) |
@@ -2303,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Land | 377282 | [377282-no-mans-land.json](./377282-no-mans-land.json) |
 | No Man's Sky: Aquarius | 315656 | [315656-no-mans-sky-aquarius.json](./315656-no-mans-sky-aquarius.json) |
 | No Man's Sky: Desolation | 221742 | [221742-no-mans-sky-desolation.json](./221742-no-mans-sky-desolation.json) |
+| No Man's Sky: Living Ship | 222237 | [222237-no-mans-sky-living-ship.json](./222237-no-mans-sky-living-ship.json) |
 | No Man's Sky: Nintendo Switch Edition | 191418 | [191418-no-mans-sky-nintendo-switch-edition.json](./191418-no-mans-sky-nintendo-switch-edition.json) |
 | No Man's Sky: Omega | 287088 | [287088-no-mans-sky-omega.json](./287088-no-mans-sky-omega.json) |
 | No Man's Sky: Starborn Phoenix Ship | 325562 | [325562-no-mans-sky-starborn-phoenix-ship.json](./325562-no-mans-sky-starborn-phoenix-ship.json) |
@@ -2757,6 +2760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not My Hand | 391744 | [391744-not-my-hand.json](./391744-not-my-hand.json) |
 | Not My Son | 405693 | [405693-not-my-son.json](./405693-not-my-son.json) |
 | Not My War | 377669 | [377669-not-my-war.json](./377669-not-my-war.json) |
+| Not Not: Zunou Taikyuu Game | 222266 | [222266-not-not-zunou-taikyuu-game.json](./222266-not-not-zunou-taikyuu-game.json) |
 | Not Only Nine | 243672 | [243672-not-only-nine.json](./243672-not-only-nine.json) |
 | Not Our Home 2 | 156649 | [156649-not-our-home-2.json](./156649-not-our-home-2.json) |
 | Not Quite Dead | 414336 | [414336-not-quite-dead.json](./414336-not-quite-dead.json) |
@@ -3046,6 +3050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nushi Tsuri Adventure: Kite no Bouken | 50560 | [50560-nushi-tsuri-adventure-kite-no-bouken.json](./50560-nushi-tsuri-adventure-kite-no-bouken.json) |
 | Nusnur | 330248 | [330248-nusnur.json](./330248-nusnur.json) |
 | Nusrat | 19495 | [19495-nusrat.json](./19495-nusrat.json) |
+| Nusunde Asobo! Dorobou Youchien | 222254 | [222254-nusunde-asobo-dorobou-youchien.json](./222254-nusunde-asobo-dorobou-youchien.json) |
 | Nutjitsu | 19966 | [19966-nutjitsu.json](./19966-nutjitsu.json) |
 | Nutjitsu: Reforged | 52645 | [52645-nutjitsu-reforged.json](./52645-nutjitsu-reforged.json) |
 | Nutmeg! | 360208 | [360208-nutmeg.json](./360208-nutmeg.json) |
