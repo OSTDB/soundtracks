@@ -2721,6 +2721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse Defenders | 150174 | [150174-reverse-defenders.json](./150174-reverse-defenders.json) |
 | Reverse Dream | 202327 | [202327-reverse-dream.json](./202327-reverse-dream.json) |
 | Reverse Dyson Ball: Portal Tower | 311997 | [311997-reverse-dyson-ball-portal-tower.json](./311997-reverse-dyson-ball-portal-tower.json) |
+| Reverse Fantasy Legend | 174676 | [174676-reverse-fantasy-legend.json](./174676-reverse-fantasy-legend.json) |
 | Reverse Fantasy Legend 2 | 174795 | [174795-reverse-fantasy-legend-2.json](./174795-reverse-fantasy-legend-2.json) |
 | Reverse Horizons | 387017 | [387017-reverse-horizons.json](./387017-reverse-horizons.json) |
 | Reverse it, board game | 88262 | [88262-reverse-it-board-game.json](./88262-reverse-it-board-game.json) |
@@ -2814,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | rFactor 2 | 9494 | [9494-rfactor-2.json](./9494-rfactor-2.json) |
 | Rg-ft | 176997 | [176997-rg-ft.json](./176997-rg-ft.json) |
 | RGB | 251216 | [251216-rgb.json](./251216-rgb.json) |
+| RGB ON Experience | 174629 | [174629-rgb-on-experience.json](./174629-rgb-on-experience.json) |
 | RGB Rush | 218173 | [218173-rgb-rush.json](./218173-rgb-rush.json) |
 | RGB Simulator | 237278 | [237278-rgb-simulator.json](./237278-rgb-simulator.json) |
 | RGBverse | 29231 | [29231-rgbverse.json](./29231-rgbverse.json) |
@@ -5261,6 +5263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Grotto | 378895 | [378895-rush-grotto.json](./378895-rush-grotto.json) |
 | Rush Hour | 18541 | [18541-rush-hour.json](./18541-rush-hour.json) |
 | Rush Hour Deluxe: The ultimate traffic jam game! | 220878 | [220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json](./220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json) |
+| Rush Hour Rally | 174662 | [174662-rush-hour-rally.json](./174662-rush-hour-rally.json) |
 | Rush Hours Collection | 283209 | [283209-rush-hours-collection.json](./283209-rush-hours-collection.json) |
 | Rush Legends | 229206 | [229206-rush-legends.json](./229206-rush-legends.json) |
 | Rush Legends PvP FPS | 231906 | [231906-rush-legends-pvp-fps.json](./231906-rush-legends-pvp-fps.json) |
