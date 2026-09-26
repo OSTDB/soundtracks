@@ -2151,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend Homeland | 217397 | [217397-defend-homeland.json](./217397-defend-homeland.json) |
 | Defend or Die | 12991 | [12991-defend-or-die.json](./12991-defend-or-die.json) |
 | Defend the Bits TD | 203957 | [203957-defend-the-bits-td.json](./203957-defend-the-bits-td.json) |
+| Defend the Cake Tower Defense | 175173 | [175173-defend-the-cake-tower-defense.json](./175173-defend-the-cake-tower-defense.json) |
 | Defend the Castle | 381735 | [381735-defend-the-castle.json](./381735-defend-the-castle.json) |
 | Defend the Fort | 173267 | [173267-defend-the-fort.json](./173267-defend-the-fort.json) |
 | Defend the Keep | 118091 | [118091-defend-the-keep.json](./118091-defend-the-keep.json) |
@@ -2988,6 +2989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Conan: Yuugure no Ouju | 37362 | [37362-detective-conan-yuugure-no-ouju.json](./37362-detective-conan-yuugure-no-ouju.json) |
 | Detective Corgi and the Mysterious Mansion | 179753 | [179753-detective-corgi-and-the-mysterious-mansion.json](./179753-detective-corgi-and-the-mysterious-mansion.json) |
 | Detective Dave | 277290 | [277290-detective-dave.json](./277290-detective-dave.json) |
+| Detective Deep | 175214 | [175214-detective-deep.json](./175214-detective-deep.json) |
 | Detective Diaries | 302499 | [302499-detective-diaries.json](./302499-detective-diaries.json) |
 | Detective Driver: Miami Files | 90352 | [90352-detective-driver-miami-files.json](./90352-detective-driver-miami-files.json) |
 | Detective Eustaquio | 320737 | [320737-detective-eustaquio.json](./320737-detective-eustaquio.json) |
@@ -3295,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Game | 226179 | [226179-dice-game.json](./226179-dice-game.json) |
 | Dice Guy | 217006 | [217006-dice-guy.json](./217006-dice-guy.json) |
 | Dice In You | 379013 | [379013-dice-in-you.json](./379013-dice-in-you.json) |
+| Dice Jockey | 175171 | [175171-dice-jockey.json](./175171-dice-jockey.json) |
 | Dice King | 188016 | [188016-dice-king.json](./188016-dice-king.json) |
 | Dice Knight: Mystery of the Moirai | 152741 | [152741-dice-knight-mystery-of-the-moirai.json](./152741-dice-knight-mystery-of-the-moirai.json) |
 | Dice Legacy: Corrupted Fates | 196296 | [196296-dice-legacy-corrupted-fates.json](./196296-dice-legacy-corrupted-fates.json) |
@@ -3317,6 +3320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Tactics: Demon King Chapters 2, 3, 4 | 168835 | [168835-dice-tactics-demon-king-chapters-2-3-4.json](./168835-dice-tactics-demon-king-chapters-2-3-4.json) |
 | Dice Team | 373757 | [373757-dice-team.json](./373757-dice-team.json) |
 | Dice to Meet You | 270140 | [270140-dice-to-meet-you.json](./270140-dice-to-meet-you.json) |
+| Dice Town Mobile | 175217 | [175217-dice-town-mobile.json](./175217-dice-town-mobile.json) |
 | Dice Up | 274754 | [274754-dice-up.json](./274754-dice-up.json) |
 | Dice Versa | 218406 | [218406-dice-versa.json](./218406-dice-versa.json) |
 | Dice vs Dice | 173269 | [173269-dice-vs-dice.json](./173269-dice-vs-dice.json) |
@@ -7612,6 +7616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Düx | 12730 | [12730-dynamite-dux.json](./12730-dynamite-dux.json) |
 | Dynamite Fishing: World Games | 59898 | [59898-dynamite-fishing-world-games.json](./59898-dynamite-fishing-world-games.json) |
 | Dynamite Flare | 293616 | [293616-dynamite-flare.json](./293616-dynamite-flare.json) |
+| Dynamite Golf | 175210 | [175210-dynamite-golf.json](./175210-dynamite-golf.json) |
 | Dynamite It! | 297087 | [297087-dynamite-it.json](./297087-dynamite-it.json) |
 | Dynamite Soccer 2000 | 61336 | [61336-dynamite-soccer-2000.json](./61336-dynamite-soccer-2000.json) |
 | Dynamite Soccer 2002 | 61340 | [61340-dynamite-soccer-2002.json](./61340-dynamite-soccer-2002.json) |
