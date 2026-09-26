@@ -5019,6 +5019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniGame Show do Milhão | 268040 | [268040-minigame-show-do-milhao.json](./268040-minigame-show-do-milhao.json) |
 | Minigolf | 307596 | [307596-minigolf.json](./307596-minigolf.json) |
 | MiniGolf | 101972 | [101972-minigolf.json](./101972-minigolf.json) |
+| Minigolf Adventure: Cherry Blossom Valley | 221698 | [221698-minigolf-adventure-cherry-blossom-valley.json](./221698-minigolf-adventure-cherry-blossom-valley.json) |
 | Minigolf Galaxy | 275597 | [275597-minigolf-galaxy.json](./275597-minigolf-galaxy.json) |
 | MiniGolf Island | 235156 | [235156-minigolf-island.json](./235156-minigolf-island.json) |
 | MiniGolf Mania | 33237 | [33237-minigolf-mania.json](./33237-minigolf-mania.json) |
@@ -5069,6 +5070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minion Masters: Mountain Song | 284884 | [284884-minion-masters-mountain-song.json](./284884-minion-masters-mountain-song.json) |
 | Minion Masters: Nightmares | 150600 | [150600-minion-masters-nightmares.json](./150600-minion-masters-nightmares.json) |
 | Minion Masters: Outlandish Operations | 330735 | [330735-minion-masters-outlandish-operations.json](./330735-minion-masters-outlandish-operations.json) |
+| Minion Masters: Torment | 221688 | [221688-minion-masters-torment.json](./221688-minion-masters-torment.json) |
 | Minion Masters: Uprising | 330737 | [330737-minion-masters-uprising.json](./330737-minion-masters-uprising.json) |
 | Minion Masters: Vanguard | 330733 | [330733-minion-masters-vanguard.json](./330733-minion-masters-vanguard.json) |
 | Minion Masters: Voidborne Onslaught | 330736 | [330736-minion-masters-voidborne-onslaught.json](./330736-minion-masters-voidborne-onslaught.json) |
@@ -7984,6 +7986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Life with You | 348969 | [348969-my-life-with-you.json](./348969-my-life-with-you.json) |
 | My Life: Farm Vet | 282143 | [282143-my-life-farm-vet.json](./282143-my-life-farm-vet.json) |
 | My Life: Pet Vet | 220875 | [220875-my-life-pet-vet.json](./220875-my-life-pet-vet.json) |
+| My Life: Riding Stables 3 | 221690 | [221690-my-life-riding-stables-3.json](./221690-my-life-riding-stables-3.json) |
 | My Lil Afterlife | 347757 | [347757-my-lil-afterlife.json](./347757-my-lil-afterlife.json) |
 | My Lil' Donut | 31971 | [31971-my-lil-donut.json](./31971-my-lil-donut.json) |
 | My Little Animal Boy | 279673 | [279673-my-little-animal-boy.json](./279673-my-little-animal-boy.json) |
