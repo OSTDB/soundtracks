@@ -1240,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FastBall 2 F. | 259077 | [259077-fastball-2-f.json](./259077-fastball-2-f.json) |
 | Faster Harder More Challenging Q*bert | 39671 | [39671-faster-harder-more-challenging-q-bert.json](./39671-faster-harder-more-challenging-q-bert.json) |
 | Faster Than Death | 383629 | [383629-faster-than-death.json](./383629-faster-than-death.json) |
+| Faster than light? | 178437 | [178437-faster-than-light.json](./178437-faster-than-light.json) |
 | Fastest 1 | 122854 | [122854-fastest-1.json](./122854-fastest-1.json) |
 | Fastest Finger First! 3 Hint Quiz | 283287 | [283287-fastest-finger-first-3-hint-quiz.json](./283287-fastest-finger-first-3-hint-quiz.json) |
 | FastGo Running | 104021 | [104021-fastgo-running.json](./104021-fastgo-running.json) |
@@ -1308,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate / Hollow Ataraxia: Limited Edition | 89862 | [89862-fate-hollow-ataraxia-limited-edition.json](./89862-fate-hollow-ataraxia-limited-edition.json) |
 | Fate & Inflation | 391721 | [391721-fate-and-inflation.json](./391721-fate-and-inflation.json) |
 | Fate Architect | 381864 | [381864-fate-architect.json](./381864-fate-architect.json) |
+| Fate Chapter 2: The Beginning | 178414 | [178414-fate-chapter-2-the-beginning.json](./178414-fate-chapter-2-the-beginning.json) |
 | Fate Collectors | 253957 | [253957-fate-collectors.json](./253957-fate-collectors.json) |
 | Fate Commander: Fighting | 273095 | [273095-fate-commander-fighting.json](./273095-fate-commander-fighting.json) |
 | Fate Dealer | 378160 | [378160-fate-dealer.json](./378160-fate-dealer.json) |
@@ -4075,6 +4077,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Sound 2: Destiny | 83545 | [83545-forgotten-sound-2-destiny.json](./83545-forgotten-sound-2-destiny.json) |
 | Forgotten Tales: Day of the Dead | 33244 | [33244-forgotten-tales-day-of-the-dead.json](./33244-forgotten-tales-day-of-the-dead.json) |
 | Forgotten Trails | 406697 | [406697-forgotten-trails.json](./406697-forgotten-trails.json) |
+| Forgotten Tunnels: Episode 1 | 178418 | [178418-forgotten-tunnels-episode-1.json](./178418-forgotten-tunnels-episode-1.json) |
+| Forgotten Tunnels: Episode 2 | 178428 | [178428-forgotten-tunnels-episode-2.json](./178428-forgotten-tunnels-episode-2.json) |
 | Forgotten Vale | 295312 | [295312-forgotten-vale.json](./295312-forgotten-vale.json) |
 | Forgotten War | 252068 | [252068-forgotten-war.json](./252068-forgotten-war.json) |
 | Forgotten Waters | 258536 | [258536-forgotten-waters.json](./258536-forgotten-waters.json) |
