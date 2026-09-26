@@ -3461,6 +3461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Door Factory | 405529 | [405529-the-door-factory.json](./405529-the-door-factory.json) |
 | The Door in The Skybox | 400977 | [400977-the-door-in-the-skybox.json](./400977-the-door-in-the-skybox.json) |
 | The Door Museum | 177483 | [177483-the-door-museum.json](./177483-the-door-museum.json) |
+| The Door of thoughts | 212777 | [212777-the-door-of-thoughts.json](./212777-the-door-of-thoughts.json) |
 | The Doors That Led to Nowhere | 336604 | [336604-the-doors-that-led-to-nowhere.json](./336604-the-doors-that-led-to-nowhere.json) |
 | The Dot | 226205 | [226205-the-dot.json](./226205-the-dot.json) |
 | The Downgeon | 137640 | [137640-the-downgeon.json](./137640-the-downgeon.json) |
@@ -10635,6 +10636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Mutsuigeki: Concealed the Conclusion | 51266 | [51266-touhou-mutsuigeki-concealed-the-conclusion.json](./51266-touhou-mutsuigeki-concealed-the-conclusion.json) |
 | Touhou Mystery Reel | 192886 | [192886-touhou-mystery-reel.json](./192886-touhou-mystery-reel.json) |
 | TouHou Nil Soul | 114801 | [114801-touhou-nil-soul.json](./114801-touhou-nil-soul.json) |
+| Touhou Perfect Sakura Fantastica | 212732 | [212732-touhou-perfect-sakura-fantastica.json](./212732-touhou-perfect-sakura-fantastica.json) |
 | Touhou Picross: Nazrin's Puzzles | 312688 | [312688-touhou-picross-nazrins-puzzles.json](./312688-touhou-picross-nazrins-puzzles.json) |
 | Touhou Pocket Wars | 128382 | [128382-touhou-pocket-wars.json](./128382-touhou-pocket-wars.json) |
 | Touhou Pocket Wars Evolution | 128383 | [128383-touhou-pocket-wars-evolution.json](./128383-touhou-pocket-wars-evolution.json) |
