@@ -1858,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life: The Game | 332839 | [332839-life-the-game.json](./332839-life-the-game.json) |
 | Life: the game of chance | 135686 | [135686-life-the-game-of-chance.json](./135686-life-the-game-of-chance.json) |
 | Life's 2 Short: Unhooked | 265192 | [265192-lifes-2-short-unhooked.json](./265192-lifes-2-short-unhooked.json) |
+| Life's Too Short | 199909 | [199909-lifes-too-short.json](./199909-lifes-too-short.json) |
 | Life's Too Short: A Christmas Spirit | 228095 | [228095-lifes-too-short-a-christmas-spirit.json](./228095-lifes-too-short-a-christmas-spirit.json) |
 | Life's Too Short: On Reflection | 329912 | [329912-lifes-too-short-on-reflection.json](./329912-lifes-too-short-on-reflection.json) |
 | LifeAfter | 115660 | [115660-lifeafter.json](./115660-lifeafter.json) |
@@ -2949,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonewolf | 113977 | [113977-lonewolf.json](./113977-lonewolf.json) |
 | Long | 249755 | [249755-long.json](./249755-long.json) |
 | Long | 292006 | [292006-long.json](./292006-long.json) |
+| Long Boy: Escape Game | 199907 | [199907-long-boy-escape-game.json](./199907-long-boy-escape-game.json) |
 | Long Count | 126622 | [126622-long-count.json](./126622-long-count.json) |
 | Long Dives | 413166 | [413166-long-dives.json](./413166-long-dives.json) |
 | Long Dream | 217238 | [217238-long-dream.json](./217238-long-dream.json) |
