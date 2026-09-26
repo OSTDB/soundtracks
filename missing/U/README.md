@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Holidays: Deluxe Edition | 328810 | [328810-ultimate-holidays-deluxe-edition.json](./328810-ultimate-holidays-deluxe-edition.json) |
 | Ultimate Hunting | 337832 | [337832-ultimate-hunting.json](./337832-ultimate-hunting.json) |
 | Ultimate Indie Racing | 306651 | [306651-ultimate-indie-racing.json](./306651-ultimate-indie-racing.json) |
+| Ultimate Jazz Jackrabbit Doom | 196004 | [196004-ultimate-jazz-jackrabbit-doom.json](./196004-ultimate-jazz-jackrabbit-doom.json) |
 | Ultimate Jewel | 242209 | [242209-ultimate-jewel.json](./242209-ultimate-jewel.json) |
 | Ultimate Jungle Simulator | 86856 | [86856-ultimate-jungle-simulator.json](./86856-ultimate-jungle-simulator.json) |
 | Ultimate Knight Windom XP | 268438 | [268438-ultimate-knight-windom-xp.json](./268438-ultimate-knight-windom-xp.json) |
@@ -953,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unity of Command | 22645 | [22645-unity-of-command.json](./22645-unity-of-command.json) |
 | Unity of Command II: Barbarossa | 150609 | [150609-unity-of-command-ii-barbarossa.json](./150609-unity-of-command-ii-barbarossa.json) |
 | Unity of Command II: Desert Rats | 207363 | [207363-unity-of-command-ii-desert-rats.json](./207363-unity-of-command-ii-desert-rats.json) |
+| Unity of Command II: Stalingrad | 196058 | [196058-unity-of-command-ii-stalingrad.json](./196058-unity-of-command-ii-stalingrad.json) |
 | Unity of Command: Black Turn | 171631 | [171631-unity-of-command-black-turn.json](./171631-unity-of-command-black-turn.json) |
 | Unity to Survive | 368507 | [368507-unity-to-survive.json](./368507-unity-to-survive.json) |
 | Unity-chan the SharpShooter! | 304899 | [304899-unity-chan-the-sharpshooter.json](./304899-unity-chan-the-sharpshooter.json) |
