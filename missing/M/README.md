@@ -8102,6 +8102,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero One's Justice 2: DLC Pack 4 - Tetsutetsu Tetsutetsu | 168261 | [168261-my-hero-ones-justice-2-dlc-pack-4-tetsutetsu-tetsutetsu.json](./168261-my-hero-ones-justice-2-dlc-pack-4-tetsutetsu-tetsutetsu.json) |
 | My Hero One's Justice 2: DLC Pack 5 - Gentle & La Brava | 168257 | [168257-my-hero-ones-justice-2-dlc-pack-5-gentle-and-la-brava.json](./168257-my-hero-ones-justice-2-dlc-pack-5-gentle-and-la-brava.json) |
 | My Hero One's Justice 2: Outlaw Suit Set | 237917 | [237917-my-hero-ones-justice-2-outlaw-suit-set.json](./237917-my-hero-ones-justice-2-outlaw-suit-set.json) |
+| My Hero One's Justice 2: Pack 7 Present Mic | 193195 | [193195-my-hero-ones-justice-2-pack-7-present-mic.json](./193195-my-hero-ones-justice-2-pack-7-present-mic.json) |
+| My Hero One's Justice 2: Pack 8 Kurogiri | 193194 | [193194-my-hero-ones-justice-2-pack-8-kurogiri.json](./193194-my-hero-ones-justice-2-pack-8-kurogiri.json) |
 | My Hero One's Justice: Additional Mission - Gale | 168256 | [168256-my-hero-ones-justice-additional-mission-gale.json](./168256-my-hero-ones-justice-additional-mission-gale.json) |
 | My Hero One's Justice: Mission - Above and Beyond Endeavor | 168253 | [168253-my-hero-ones-justice-mission-above-and-beyond-endeavor.json](./168253-my-hero-ones-justice-mission-above-and-beyond-endeavor.json) |
 | My Hero One's Justice: Mission - O.F.A Deku Shoot Style | 168254 | [168254-my-hero-ones-justice-mission-o-f-a-deku-shoot-style.json](./168254-my-hero-ones-justice-mission-o-f-a-deku-shoot-style.json) |
