@@ -1552,6 +1552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kishin Kourinden Oni | 37957 | [37957-kishin-kourinden-oni.json](./37957-kishin-kourinden-oni.json) |
 | Kishki | 376480 | [376480-kishki.json](./376480-kishki.json) |
 | Kismet | 19042 | [19042-kismet.json](./19042-kismet.json) |
+| Kismet Tapestry | 188931 | [188931-kismet-tapestry.json](./188931-kismet-tapestry.json) |
 | Kisou Ryouhei Gunhound EX | 42872 | [42872-kisou-ryouhei-gunhound-ex.json](./42872-kisou-ryouhei-gunhound-ex.json) |
 | Kisoubanashi Kureha | 108865 | [108865-kisoubanashi-kureha.json](./108865-kisoubanashi-kureha.json) |
 | Kiss & Crisis | 194570 | [194570-kiss-and-crisis.json](./194570-kiss-and-crisis.json) |
