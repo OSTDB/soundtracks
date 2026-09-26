@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gadget Racers | 250446 | [250446-gadget-racers.json](./250446-gadget-racers.json) |
 | Gadget Racers | 4088 | [4088-gadget-racers.json](./4088-gadget-racers.json) |
 | Gado Fight | 132222 | [132222-gado-fight.json](./132222-gado-fight.json) |
+| Gadvia | 223940 | [223940-gadvia.json](./223940-gadvia.json) |
 | Gaelic Football Laochra | 394897 | [394897-gaelic-football-laochra.json](./394897-gaelic-football-laochra.json) |
 | Gaelic Games: Football | 98973 | [98973-gaelic-games-football.json](./98973-gaelic-games-football.json) |
 | Gaelic Games: Football 2 | 57605 | [57605-gaelic-games-football-2.json](./57605-gaelic-games-football-2.json) |
@@ -754,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gardia | 39684 | [39684-gardia.json](./39684-gardia.json) |
 | Gardman | 282687 | [282687-gardman.json](./282687-gardman.json) |
 | Garena Blockman Go | 220215 | [220215-garena-blockman-go.json](./220215-garena-blockman-go.json) |
+| Garena Contra Returns | 223941 | [223941-garena-contra-returns.json](./223941-garena-contra-returns.json) |
 | Garenburg Woods | 75915 | [75915-garenburg-woods.json](./75915-garenburg-woods.json) |
 | Garestia | 253345 | [253345-garestia.json](./253345-garestia.json) |
 | Garetto | 163917 | [163917-garetto.json](./163917-garetto.json) |
@@ -816,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gary's Fortune Telling Tent | 318643 | [318643-garys-fortune-telling-tent.json](./318643-garys-fortune-telling-tent.json) |
 | Gas Guzzlers Extreme: Full Metal Frenzy | 171503 | [171503-gas-guzzlers-extreme-full-metal-frenzy.json](./171503-gas-guzzlers-extreme-full-metal-frenzy.json) |
 | Gas N Cars | 410455 | [410455-gas-n-cars.json](./410455-gas-n-cars.json) |
+| Gas See who likes you | 223942 | [223942-gas-see-who-likes-you.json](./223942-gas-see-who-likes-you.json) |
 | Gas Station 2: Highway Service | 86944 | [86944-gas-station-2-highway-service.json](./86944-gas-station-2-highway-service.json) |
 | Gas Station Inc. | 255753 | [255753-gas-station-inc.json](./255753-gas-station-inc.json) |
 | Gas Station Manager 2026 | 393475 | [393475-gas-station-manager-2026.json](./393475-gas-station-manager-2026.json) |
@@ -1006,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Brawl Duel | 399732 | [399732-gem-brawl-duel.json](./399732-gem-brawl-duel.json) |
 | Gem Crush Match-3 | 397258 | [397258-gem-crush-match-3.json](./397258-gem-crush-match-3.json) |
 | Gem Defense | 256226 | [256226-gem-defense.json](./256226-gem-defense.json) |
+| Gem Excavator | 223943 | [223943-gem-excavator.json](./223943-gem-excavator.json) |
 | Gem Gem Monster | 228551 | [228551-gem-gem-monster.json](./228551-gem-gem-monster.json) |
 | Gem Hunter | 304160 | [304160-gem-hunter.json](./304160-gem-hunter.json) |
 | Gem Island | 326812 | [326812-gem-island.json](./326812-gem-island.json) |
@@ -1015,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Jam | 333732 | [333732-gem-jam.json](./333732-gem-jam.json) |
 | Gem King | 254589 | [254589-gem-king.json](./254589-gem-king.json) |
 | Gem Miner: Dig Deeper | 296070 | [296070-gem-miner-dig-deeper.json](./296070-gem-miner-dig-deeper.json) |
+| Gem Mining | 223944 | [223944-gem-mining.json](./223944-gem-mining.json) |
 | Gem Monster | 30261 | [30261-gem-monster.json](./30261-gem-monster.json) |
 | Gem of Destiny | 304157 | [304157-gem-of-destiny.json](./304157-gem-of-destiny.json) |
 | Gem Phrase | 237379 | [237379-gem-phrase.json](./237379-gem-phrase.json) |
@@ -1793,6 +1798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GirlDivers | 323303 | [323303-girldivers.json](./323303-girldivers.json) |
 | Girlfailure Art Club | 412374 | [412374-girlfailure-art-club.json](./412374-girlfailure-art-club.json) |
 | Girlfriend Cards | 106582 | [106582-girlfriend-cards.json](./106582-girlfriend-cards.json) |
+| Girlfriend FNF Battle Friday Night Funkin | 223945 | [223945-girlfriend-fnf-battle-friday-night-funkin.json](./223945-girlfriend-fnf-battle-friday-night-funkin.json) |
 | Girlfriend from Hell | 278416 | [278416-girlfriend-from-hell.json](./278416-girlfriend-from-hell.json) |
 | Girlfriend Invites | 368690 | [368690-girlfriend-invites.json](./368690-girlfriend-invites.json) |
 | Girlfriend Note | 58812 | [58812-girlfriend-note.json](./58812-girlfriend-note.json) |
@@ -4239,6 +4245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Breaker 4: Story Mission DLC 3 - Battle Tournament | 324441 | [324441-gundam-breaker-4-story-mission-dlc-3-battle-tournament.json](./324441-gundam-breaker-4-story-mission-dlc-3-battle-tournament.json) |
 | Gundam Breaker 4: Story Mission DLC 4 - Battle Fiercely | 361234 | [361234-gundam-breaker-4-story-mission-dlc-4-battle-fiercely.json](./361234-gundam-breaker-4-story-mission-dlc-4-battle-fiercely.json) |
 | Gundam Breaker 4: Story Mission DLC 5 - Beyond Borders | 361235 | [361235-gundam-breaker-4-story-mission-dlc-5-beyond-borders.json](./361235-gundam-breaker-4-story-mission-dlc-5-beyond-borders.json) |
+| Gundam Conquest | 223958 | [223958-gundam-conquest.json](./223958-gundam-conquest.json) |
 | Gundam Fights for Human Rights | 183567 | [183567-gundam-fights-for-human-rights.json](./183567-gundam-fights-for-human-rights.json) |
 | Gundam Online Wars | 79279 | [79279-gundam-online-wars.json](./79279-gundam-online-wars.json) |
 | Gundam Robot | 47534 | [47534-gundam-robot.json](./47534-gundam-robot.json) |
