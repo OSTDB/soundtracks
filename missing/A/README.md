@@ -1248,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerofly FS 2 Flight Simulator: USA Colorado | 167723 | [167723-aerofly-fs-2-flight-simulator-usa-colorado.json](./167723-aerofly-fs-2-flight-simulator-usa-colorado.json) |
 | Aerofly FS 2 Flight Simulator: USA South Florida | 167722 | [167722-aerofly-fs-2-flight-simulator-usa-south-florida.json](./167722-aerofly-fs-2-flight-simulator-usa-south-florida.json) |
 | Aerofly FS 2 Flight Simulator: USA Utah | 167719 | [167719-aerofly-fs-2-flight-simulator-usa-utah.json](./167719-aerofly-fs-2-flight-simulator-usa-utah.json) |
+| Aerofly FS 2021 | 175172 | [175172-aerofly-fs-2021.json](./175172-aerofly-fs-2021.json) |
 | Aerofly FS 4 Flight Simulator | 204985 | [204985-aerofly-fs-4-flight-simulator.json](./204985-aerofly-fs-4-flight-simulator.json) |
 | Aerofly FS 4 Flight Simulator: Aircraft AddOn | 204990 | [204990-aerofly-fs-4-flight-simulator-aircraft-addon.json](./204990-aerofly-fs-4-flight-simulator-aircraft-addon.json) |
 | aerofly RC 7 | 17839 | [17839-aerofly-rc-7.json](./17839-aerofly-rc-7.json) |
@@ -1664,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Hockey | 200667 | [200667-air-hockey.json](./200667-air-hockey.json) |
 | Air Hockey | 43934 | [43934-air-hockey.json](./43934-air-hockey.json) |
 | Air Hockey Blue | 197773 | [197773-air-hockey-blue.json](./197773-air-hockey-blue.json) |
+| Air Hockey Pink | 175177 | [175177-air-hockey-pink.json](./175177-air-hockey-pink.json) |
 | Air Hockey-fuu: Soukai Taisen Action Game - Breaking Beats! | 250444 | [250444-air-hockey-fuu-soukai-taisen-action-game-breaking-beats.json](./250444-air-hockey-fuu-soukai-taisen-action-game-breaking-beats.json) |
 | Air Hockey: Casual Table Arcade | 306526 | [306526-air-hockey-casual-table-arcade.json](./306526-air-hockey-casual-table-arcade.json) |
 | Air Hockey: Championship 3D+ | 239889 | [239889-air-hockey-championship-3d.json](./239889-air-hockey-championship-3d.json) |
