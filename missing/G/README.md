@@ -2780,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Googass | 165667 | [165667-googass.json](./165667-googass.json) |
 | Google Blocks | 115730 | [115730-google-blocks.json](./115730-google-blocks.json) |
 | Google Cricket | 230854 | [230854-google-cricket.json](./230854-google-cricket.json) |
+| Google Feudle | 227214 | [227214-google-feudle.json](./227214-google-feudle.json) |
 | Google Minesweeper | 184478 | [184478-google-minesweeper.json](./184478-google-minesweeper.json) |
 | Google Santa Tracker | 229336 | [229336-google-santa-tracker.json](./229336-google-santa-tracker.json) |
 | Google Solitaire | 228368 | [228368-google-solitaire.json](./228368-google-solitaire.json) |
@@ -4247,6 +4248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunDeck 100 | 270070 | [270070-gundeck-100.json](./270070-gundeck-100.json) |
 | Gundemonium | 365664 | [365664-gundemonium.json](./365664-gundemonium.json) |
 | Gundertale | 336351 | [336351-gundertale.json](./336351-gundertale.json) |
+| Gundham's Calamitous Quest for Coochie | 227212 | [227212-gundhams-calamitous-quest-for-coochie.json](./227212-gundhams-calamitous-quest-for-coochie.json) |
 | Gundhara: Juudan Arashi | 37336 | [37336-gundhara-juudan-arashi.json](./37336-gundhara-juudan-arashi.json) |
 | GunDress | 213042 | [213042-gundress.json](./213042-gundress.json) |
 | Gundroid | 249799 | [249799-gundroid.json](./249799-gundroid.json) |
