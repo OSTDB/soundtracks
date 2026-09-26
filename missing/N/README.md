@@ -2869,6 +2869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Impact | 405521 | [405521-nova-impact.json](./405521-nova-impact.json) |
 | Nova Island | 144768 | [144768-nova-island.json](./144768-nova-island.json) |
 | Nova Jumper | 414388 | [414388-nova-jumper.json](./414388-nova-jumper.json) |
+| Nova Odessa: The Demon Trainer | 202672 | [202672-nova-odessa-the-demon-trainer.json](./202672-nova-odessa-the-demon-trainer.json) |
 | Nova Roma | 252867 | [252867-nova-roma.json](./252867-nova-roma.json) |
 | Nova Slash: Unparalleled Power | 195608 | [195608-nova-slash-unparalleled-power.json](./195608-nova-slash-unparalleled-power.json) |
 | Nova Squadron | 215624 | [215624-nova-squadron.json](./215624-nova-squadron.json) |
@@ -2909,6 +2910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Now You've Made Me Crabby | 183058 | [183058-now-youve-made-me-crabby.json](./183058-now-youve-made-me-crabby.json) |
 | Nowa Online World | 318623 | [318623-nowa-online-world.json](./318623-nowa-online-world.json) |
 | NoWaitHero | 132237 | [132237-nowaithero.json](./132237-nowaithero.json) |
+| NoWayBack | 202661 | [202661-nowayback.json](./202661-nowayback.json) |
 | Nowhere | 272287 | [272287-nowhere.json](./272287-nowhere.json) |
 | Nowhere Girl | 110627 | [110627-nowhere-girl.json](./110627-nowhere-girl.json) |
 | Nowhere Near | 305929 | [305929-nowhere-near.json](./305929-nowhere-near.json) |
