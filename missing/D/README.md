@@ -2459,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Tengen Uzui Character Pack | 209695 | [209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json](./209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2 | 337907 | [337907-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2.json](./337907-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2: Deluxe Edition | 345692 | [345692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-deluxe-edition.json](./345692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-deluxe-edition.json) |
+| Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Limited Edition | 201042 | [201042-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-limited-edition.json](./201042-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-limited-edition.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Nezuko Advanced Demon Form | 213410 | [213410-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-nezuko-advanced-demon-form.json](./213410-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-nezuko-advanced-demon-form.json) |
 | Demon Stalkers | 54711 | [54711-demon-stalkers.json](./54711-demon-stalkers.json) |
 | Demon Still Alive | 306344 | [306344-demon-still-alive.json](./306344-demon-still-alive.json) |
@@ -3907,6 +3908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disease Infected: Plague | 187976 | [187976-disease-infected-plague.json](./187976-disease-infected-plague.json) |
 | Disease Z | 245842 | [245842-disease-z.json](./245842-disease-z.json) |
 | disfact Game Pack 1 | 405533 | [405533-disfact-game-pack-1.json](./405533-disfact-game-pack-1.json) |
+| Disgaea 1 Complete: Limited Edition | 201055 | [201055-disgaea-1-complete-limited-edition.json](./201055-disgaea-1-complete-limited-edition.json) |
 | Disgaea 2: Dark Hero Days | 21851 | [21851-disgaea-2-dark-hero-days.json](./21851-disgaea-2-dark-hero-days.json) |
 | Disgaea 4 Complete+: A Promise of Sardines Edition | 205262 | [205262-disgaea-4-complete-a-promise-of-sardines-edition.json](./205262-disgaea-4-complete-a-promise-of-sardines-edition.json) |
 | Disgaea 6 Complete | 191497 | [191497-disgaea-6-complete.json](./191497-disgaea-6-complete.json) |
@@ -4997,6 +4999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dontbegrey | 51965 | [51965-dontbegrey.json](./51965-dontbegrey.json) |
 | Dontdy | 156108 | [156108-dontdy.json](./156108-dontdy.json) |
 | Dontrel Dolphin 2 | 305838 | [305838-dontrel-dolphin-2.json](./305838-dontrel-dolphin-2.json) |
+| Donut 80 | 201052 | [201052-donut-80.json](./201052-donut-80.json) |
 | Donut Arena | 190137 | [190137-donut-arena.json](./190137-donut-arena.json) |
 | Donut Break 2: Head to Head | 214516 | [214516-donut-break-2-head-to-head.json](./214516-donut-break-2-head-to-head.json) |
 | Donut County | 55080 | [55080-donut-county.json](./55080-donut-county.json) |
@@ -5945,6 +5948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Dogma II: Dark Arisen | 408164 | [408164-dragons-dogma-ii-dark-arisen.json](./408164-dragons-dogma-ii-dark-arisen.json) |
 | Dragon's Dogma II: Dragon's Dogma Music & Sound Collection - Custom Sounds | 308568 | [308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json](./308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json) |
 | Dragon's Dogma Online | 26985 | [26985-dragons-dogma-online.json](./26985-dragons-dogma-online.json) |
+| Dragon's Dogma Online: Season 2 - Limited Edition | 201048 | [201048-dragons-dogma-online-season-2-limited-edition.json](./201048-dragons-dogma-online-season-2-limited-edition.json) |
 | Dragon's Dogma Quest | 63310 | [63310-dragons-dogma-quest.json](./63310-dragons-dogma-quest.json) |
 | Dragon's Dogma: Dark Arisen | 16300 | [16300-dragons-dogma-dark-arisen.json](./16300-dragons-dogma-dark-arisen.json) |
 | Dragon's Dungeon | 321486 | [321486-dragons-dungeon.json](./321486-dragons-dungeon.json) |
