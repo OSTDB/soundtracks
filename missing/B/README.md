@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banzai Pecan: The Last Hope For the Young Century | 35947 | [35947-banzai-pecan-the-last-hope-for-the-young-century.json](./35947-banzai-pecan-the-last-hope-for-the-young-century.json) |
 | Baoxiao Chuji | 306642 | [306642-baoxiao-chuji.json](./306642-baoxiao-chuji.json) |
 | Baoxiao Duobiqiu | 97353 | [97353-baoxiao-duobiqiu.json](./97353-baoxiao-duobiqiu.json) |
+| Bapbap | 186656 | [186656-bapbap.json](./186656-bapbap.json) |
 | Baptism of Fire | 189140 | [189140-baptism-of-fire.json](./189140-baptism-of-fire.json) |
 | Baptisterio | 326615 | [326615-baptisterio.json](./326615-baptisterio.json) |
 | Baptize Billy | 96691 | [96691-baptize-billy.json](./96691-baptize-billy.json) |
@@ -4212,6 +4213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockhead II | 14324 | [14324-blockhead-ii.json](./14324-blockhead-ii.json) |
 | Blockies VR | 193204 | [193204-blockies-vr.json](./193204-blockies-vr.json) |
 | Blockman 1988 | 225722 | [225722-blockman-1988.json](./225722-blockman-1988.json) |
+| Blockman 1989 | 186646 | [186646-blockman-1989.json](./186646-blockman-1989.json) |
 | Blockman Returns | 56427 | [56427-blockman-returns.json](./56427-blockman-returns.json) |
 | BlockMill | 249266 | [249266-blockmill.json](./249266-blockmill.json) |
 | Blocknator | 194993 | [194993-blocknator.json](./194993-blocknator.json) |
@@ -5258,6 +5260,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Border of Insanity | 110152 | [110152-border-of-insanity.json](./110152-border-of-insanity.json) |
 | Border Reign | 142468 | [142468-border-reign.json](./142468-border-reign.json) |
 | Border Wars | 224091 | [224091-border-wars.json](./224091-border-wars.json) |
+| Borderlands 2 : Ultimate Vault Hunter Upgrade Pack | 186627 | [186627-borderlands-2-ultimate-vault-hunter-upgrade-pack.json](./186627-borderlands-2-ultimate-vault-hunter-upgrade-pack.json) |
+| Borderlands 2 : Ultimate Vault Hunter Upgrade Pack 2 | 186628 | [186628-borderlands-2-ultimate-vault-hunter-upgrade-pack-2.json](./186628-borderlands-2-ultimate-vault-hunter-upgrade-pack-2.json) |
 | Borderlands 2 VR | 110835 | [110835-borderlands-2-vr.json](./110835-borderlands-2-vr.json) |
 | Borderlands 2: Commander Lilith and the Fight for Sanctuary | 119267 | [119267-borderlands-2-commander-lilith-and-the-fight-for-sanctuary.json](./119267-borderlands-2-commander-lilith-and-the-fight-for-sanctuary.json) |
 | Borderlands 2: Deluxe Vault Hunter's Edition | 45277 | [45277-borderlands-2-deluxe-vault-hunters-edition.json](./45277-borderlands-2-deluxe-vault-hunters-edition.json) |
@@ -5276,6 +5280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands Triple Pack | 268734 | [268734-borderlands-triple-pack.json](./268734-borderlands-triple-pack.json) |
 | Borderlands: Game of the Year Enhanced | 118993 | [118993-borderlands-game-of-the-year-enhanced.json](./118993-borderlands-game-of-the-year-enhanced.json) |
 | Borderlands: The Handsome Collection | 14548 | [14548-borderlands-the-handsome-collection.json](./14548-borderlands-the-handsome-collection.json) |
+| Borderlands: The Pre-Sequel - Handsome Jack Doppelganger | 186629 | [186629-borderlands-the-pre-sequel-handsome-jack-doppelganger.json](./186629-borderlands-the-pre-sequel-handsome-jack-doppelganger.json) |
 | Borderlands: The Pre-Sequel - Shock Drop Slaughter Pit | 13917 | [13917-borderlands-the-pre-sequel-shock-drop-slaughter-pit.json](./13917-borderlands-the-pre-sequel-shock-drop-slaughter-pit.json) |
 | Borderline | 6101 | [6101-borderline.json](./6101-borderline.json) |
 | Borderline Homicide | 245788 | [245788-borderline-homicide.json](./245788-borderline-homicide.json) |
