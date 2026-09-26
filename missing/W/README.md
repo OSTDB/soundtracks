@@ -1532,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Wrong With You? | 144256 | [144256-whats-wrong-with-you.json](./144256-whats-wrong-with-you.json) |
 | What's Your Emergency | 220641 | [220641-whats-your-emergency.json](./220641-whats-your-emergency.json) |
 | What's Your Gender? | 175790 | [175790-whats-your-gender.json](./175790-whats-your-gender.json) |
+| What's Your Hidden Power? | 206647 | [206647-whats-your-hidden-power.json](./206647-whats-your-hidden-power.json) |
 | Whatcha Loopin At? | 364688 | [364688-whatcha-loopin-at.json](./364688-whatcha-loopin-at.json) |
 | Whateverland | 126594 | [126594-whateverland.json](./126594-whateverland.json) |
 | Whatnever | 348782 | [348782-whatnever.json](./348782-whatnever.json) |
