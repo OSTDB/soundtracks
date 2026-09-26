@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawless Lands: Smoking Sands | 167711 | [167711-lawless-lands-smoking-sands.json](./167711-lawless-lands-smoking-sands.json) |
 | Lawless Lands: Unrest | 167712 | [167712-lawless-lands-unrest.json](./167712-lawless-lands-unrest.json) |
 | Lawless Lands: Witchcraft | 277349 | [277349-lawless-lands-witchcraft.json](./277349-lawless-lands-witchcraft.json) |
+| Lawless West | 226675 | [226675-lawless-west.json](./226675-lawless-west.json) |
 | Lawless: Blood and Dust | 360207 | [360207-lawless-blood-and-dust.json](./360207-lawless-blood-and-dust.json) |
 | Lawmage Academy | 125472 | [125472-lawmage-academy.json](./125472-lawmage-academy.json) |
 | Lawn & Order | 177021 | [177021-lawn-and-order.json](./177021-lawn-and-order.json) |
@@ -2664,6 +2665,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock | 68655 | [68655-lock.json](./68655-lock.json) |
 | Lock 'n Load Tactical Digital: Battles to the Rhine - Battlepack | 158746 | [158746-lock-n-load-tactical-digital-battles-to-the-rhine-battlepack.json](./158746-lock-n-load-tactical-digital-battles-to-the-rhine-battlepack.json) |
 | Lock 'n Load Tactical Digital: Bear and the Jackal - Battlepack | 158741 | [158741-lock-n-load-tactical-digital-bear-and-the-jackal-battlepack.json](./158741-lock-n-load-tactical-digital-bear-and-the-jackal-battlepack.json) |
+| Lock 'n Load Tactical Digital: Days of Villainy Battlepack | 226700 | [226700-lock-n-load-tactical-digital-days-of-villainy-battlepack.json](./226700-lock-n-load-tactical-digital-days-of-villainy-battlepack.json) |
+| Lock 'n Load Tactical Digital: Enemy at the Gates Battlepack | 226702 | [226702-lock-n-load-tactical-digital-enemy-at-the-gates-battlepack.json](./226702-lock-n-load-tactical-digital-enemy-at-the-gates-battlepack.json) |
 | Lock 'n Load Tactical Digital: For the Emperor - Battlepack | 158738 | [158738-lock-n-load-tactical-digital-for-the-emperor-battlepack.json](./158738-lock-n-load-tactical-digital-for-the-emperor-battlepack.json) |
 | Lock 'n Load Tactical Digital: Heroes Against the Red Star - Battlepack 1 | 158744 | [158744-lock-n-load-tactical-digital-heroes-against-the-red-star-battlepack-1.json](./158744-lock-n-load-tactical-digital-heroes-against-the-red-star-battlepack-1.json) |
 | Lock 'n Load Tactical Digital: Heroes in Defiance - Battlepack 1 | 158733 | [158733-lock-n-load-tactical-digital-heroes-in-defiance-battlepack-1.json](./158733-lock-n-load-tactical-digital-heroes-in-defiance-battlepack-1.json) |
@@ -3350,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotus Simulator: München Tram | 167755 | [167755-lotus-simulator-munchen-tram.json](./167755-lotus-simulator-munchen-tram.json) |
 | Lotus Turbo Challenge 2 | 7659 | [7659-lotus-turbo-challenge-2.json](./7659-lotus-turbo-challenge-2.json) |
 | Lotus: Lost Memories | 346655 | [346655-lotus-lost-memories.json](./346655-lotus-lost-memories.json) |
+| Lotus: The Self-Made Witch | 226674 | [226674-lotus-the-self-made-witch.json](./226674-lotus-the-self-made-witch.json) |
 | LotusMeditation | 403193 | [403193-lotusmeditation.json](./403193-lotusmeditation.json) |
 | Lou's Lagoon | 214706 | [214706-lous-lagoon.json](./214706-lous-lagoon.json) |
 | Loud or Quiet | 74341 | [74341-loud-or-quiet.json](./74341-loud-or-quiet.json) |
