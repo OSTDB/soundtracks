@@ -4462,6 +4462,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frank Thomas Big Hurt Baseball | 20405 | [20405-frank-thomas-big-hurt-baseball.json](./20405-frank-thomas-big-hurt-baseball.json) |
 | Frank Thomas Big Hurt Baseball | 365680 | [365680-frank-thomas-big-hurt-baseball.json](./365680-frank-thomas-big-hurt-baseball.json) |
 | Frank's Adventure | 191258 | [191258-franks-adventure.json](./191258-franks-adventure.json) |
+| Frank's Adventure 2 | 212739 | [212739-franks-adventure-2.json](./212739-franks-adventure-2.json) |
+| Frank's Adventure 3 | 212740 | [212740-franks-adventure-3.json](./212740-franks-adventure-3.json) |
+| Frank's Adventure 4 | 212742 | [212742-franks-adventure-4.json](./212742-franks-adventure-4.json) |
 | Franken Girl | 208014 | [208014-franken-girl.json](./208014-franken-girl.json) |
 | Frankenstein | 37191 | [37191-frankenstein.json](./37191-frankenstein.json) |
 | Frankenstein: Beyond the Time | 103752 | [103752-frankenstein-beyond-the-time.json](./103752-frankenstein-beyond-the-time.json) |
@@ -5506,6 +5509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari & Ladyboy Hotel | 393837 | [393837-futanari-and-ladyboy-hotel.json](./393837-futanari-and-ladyboy-hotel.json) |
 | Futanari Fantasy XX | 97840 | [97840-futanari-fantasy-xx.json](./97840-futanari-fantasy-xx.json) |
 | Futanari Girls 3D | 368125 | [368125-futanari-girls-3d.json](./368125-futanari-girls-3d.json) |
+| Futanari Jigsaw Puzzle | 212728 | [212728-futanari-jigsaw-puzzle.json](./212728-futanari-jigsaw-puzzle.json) |
 | Futanari Quest | 99592 | [99592-futanari-quest.json](./99592-futanari-quest.json) |
 | Futanari Sex Adventures: Episode 2 | 311582 | [311582-futanari-sex-adventures-episode-2.json](./311582-futanari-sex-adventures-episode-2.json) |
 | Futanari Sex: Naughty Visit | 368124 | [368124-futanari-sex-naughty-visit.json](./368124-futanari-sex-naughty-visit.json) |
