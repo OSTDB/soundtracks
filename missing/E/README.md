@@ -906,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elementum | 285025 | [285025-elementum.json](./285025-elementum.json) |
 | Elementyle | 309513 | [309513-elementyle.json](./309513-elementyle.json) |
 | EleMetals: Deluxe Edition | 212283 | [212283-elemetals-deluxe-edition.json](./212283-elemetals-deluxe-edition.json) |
+| Elena's Journal: Unfinished Expedition | 207789 | [207789-elenas-journal-unfinished-expedition.json](./207789-elenas-journal-unfinished-expedition.json) |
 | ElePass: Only Elephants Can Unlock the Passcode | 317855 | [317855-elepass-only-elephants-can-unlock-the-passcode.json](./317855-elepass-only-elephants-can-unlock-the-passcode.json) |
 | Elephant Express VR | 30191 | [30191-elephant-express-vr.json](./30191-elephant-express-vr.json) |
 | Elephant Hunter Hunter | 133991 | [133991-elephant-hunter-hunter.json](./133991-elephant-hunter-hunter.json) |
