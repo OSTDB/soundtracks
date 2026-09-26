@@ -926,9 +926,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dasshutsu Adventure: Shuuen no Kuroi Kiri | 222380 | [222380-dasshutsu-adventure-shuuen-no-kuroi-kiri.json](./222380-dasshutsu-adventure-shuuen-no-kuroi-kiri.json) |
 | Dasshutsu Adventure: Zetsubou Yousai | 222377 | [222377-dasshutsu-adventure-zetsubou-yousai.json](./222377-dasshutsu-adventure-zetsubou-yousai.json) |
 | Dasshutsu Fantasy: Alice in Escapeland | 222379 | [222379-dasshutsu-fantasy-alice-in-escapeland.json](./222379-dasshutsu-fantasy-alice-in-escapeland.json) |
+| Dasshutsu Game: Halloween Hotel | 223969 | [223969-dasshutsu-game-halloween-hotel.json](./223969-dasshutsu-game-halloween-hotel.json) |
+| Dasshutsu Game: Hotel Room | 223970 | [223970-dasshutsu-game-hotel-room.json](./223970-dasshutsu-game-hotel-room.json) |
 | Dasshutsu Game: Komorebi no Aru Hou he | 227247 | [227247-dasshutsu-game-komorebi-no-aru-hou-he.json](./227247-dasshutsu-game-komorebi-no-aru-hou-he.json) |
 | Dasshutsu Game: Momo | 220309 | [220309-dasshutsu-game-momo.json](./220309-dasshutsu-game-momo.json) |
 | Dasshutsu Game: Neko-sama no Karakuri Garden kara no Dasshutsu | 220310 | [220310-dasshutsu-game-neko-sama-no-karakuri-garden-kara-no-dasshutsu.json](./220310-dasshutsu-game-neko-sama-no-karakuri-garden-kara-no-dasshutsu.json) |
+| Dasshutsu Game: Yorimichi Wakusei | 223971 | [223971-dasshutsu-game-yorimichi-wakusei.json](./223971-dasshutsu-game-yorimichi-wakusei.json) |
 | Dasshutsu Girls | 220308 | [220308-dasshutsu-girls.json](./220308-dasshutsu-girls.json) |
 | Dasshutsu Seijin!? Deru Deru Deru de | 222383 | [222383-dasshutsu-seijin-deru-deru-deru-de.json](./222383-dasshutsu-seijin-deru-deru-deru-de.json) |
 | Dasshutsu Youki no Jukai: Nehan no Mori | 138749 | [138749-dasshutsu-youki-no-jukai-nehan-no-mori.json](./138749-dasshutsu-youki-no-jukai-nehan-no-mori.json) |
