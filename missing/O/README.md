@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh No! More Zombies Ate My Neighbors | 38294 | [38294-oh-no-more-zombies-ate-my-neighbors.json](./38294-oh-no-more-zombies-ate-my-neighbors.json) |
 | Oh No! UFO! | 386730 | [386730-oh-no-ufo.json](./386730-oh-no-ufo.json) |
 | Oh Noes!!1 | 91896 | [91896-oh-noes-1.json](./91896-oh-noes-1.json) |
+| Oh Putt Off! | 181678 | [181678-oh-putt-off.json](./181678-oh-putt-off.json) |
 | Oh Ship! | 399593 | [399593-oh-ship.json](./399593-oh-ship.json) |
 | Oh Shit Boulder | 211691 | [211691-oh-shit-boulder.json](./211691-oh-shit-boulder.json) |
 | Oh the Humanity! | 311481 | [311481-oh-the-humanity.json](./311481-oh-the-humanity.json) |
@@ -1118,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Punch Man: A Hero Nobody Knows DLC Pack 3 - Watchdog Man | 134064 | [134064-one-punch-man-a-hero-nobody-knows-dlc-pack-3-watchdog-man.json](./134064-one-punch-man-a-hero-nobody-knows-dlc-pack-3-watchdog-man.json) |
 | One Punch Man: A Hero Nobody Knows DLC Pack 4 - Garou | 134065 | [134065-one-punch-man-a-hero-nobody-knows-dlc-pack-4-garou.json](./134065-one-punch-man-a-hero-nobody-knows-dlc-pack-4-garou.json) |
 | One Punch Man: The Strongest Man | 122990 | [122990-one-punch-man-the-strongest-man.json](./122990-one-punch-man-the-strongest-man.json) |
+| One Putt Wonder | 181709 | [181709-one-putt-wonder.json](./181709-one-putt-wonder.json) |
 | One Py Berry Match | 97317 | [97317-one-py-berry-match.json](./97317-one-py-berry-match.json) |
 | One Question and You'll Want to Share It! 1000 Trivia Quiz Questions | 409554 | [409554-one-question-and-youll-want-to-share-it-1000-trivia-quiz-questions.json](./409554-one-question-and-youll-want-to-share-it-1000-trivia-quiz-questions.json) |
 | One Room Hotel | 178654 | [178654-one-room-hotel.json](./178654-one-room-hotel.json) |
@@ -1551,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oracle | 27457 | [27457-oracle.json](./27457-oracle.json) |
 | Oracle Chain | 181241 | [181241-oracle-chain.json](./181241-oracle-chain.json) |
 | Oracle of Meles | 304382 | [304382-oracle-of-meles.json](./304382-oracle-of-meles.json) |
+| Oracle Pine | 181674 | [181674-oracle-pine.json](./181674-oracle-pine.json) |
 | Oracle Trials | 157011 | [157011-oracle-trials.json](./157011-oracle-trials.json) |
 | Oracle: Threads of Fate | 89260 | [89260-oracle-threads-of-fate.json](./89260-oracle-threads-of-fate.json) |
 | Oracles Cave | 45365 | [45365-oracles-cave.json](./45365-oracles-cave.json) |
