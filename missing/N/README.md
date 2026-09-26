@@ -1166,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netannad | 254568 | [254568-netannad.json](./254568-netannad.json) |
 | Netcode The Protogen | 356706 | [356706-netcode-the-protogen.json](./356706-netcode-the-protogen.json) |
 | Netcorter: City 2179 | 217385 | [217385-netcorter-city-2179.json](./217385-netcorter-city-2179.json) |
+| Netcrawler | 183883 | [183883-netcrawler.json](./183883-netcrawler.json) |
 | NetDive | 358862 | [358862-netdive.json](./358862-netdive.json) |
 | NetGunner | 139844 | [139844-netgunner.json](./139844-netgunner.json) |
 | NetHack | 207850 | [207850-nethack.json](./207850-nethack.json) |
