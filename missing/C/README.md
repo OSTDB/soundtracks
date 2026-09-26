@@ -1596,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catastrophic Cat Command | 309514 | [309514-catastrophic-cat-command.json](./309514-catastrophic-cat-command.json) |
 | Catbo | 311477 | [311477-catbo.json](./311477-catbo.json) |
 | Catburglar | 406789 | [406789-catburglar.json](./406789-catburglar.json) |
+| Catbusters | 226139 | [226139-catbusters.json](./226139-catbusters.json) |
 | Catch 'Em | 80503 | [80503-catch-em.json](./80503-catch-em.json) |
 | Catch 'Em! Goldfish Scooping | 106973 | [106973-catch-em-goldfish-scooping.json](./106973-catch-em-goldfish-scooping.json) |
 | Catch & Cook | 244231 | [244231-catch-and-cook.json](./244231-catch-and-cook.json) |
@@ -6043,6 +6044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy vs. UFOs | 57110 | [57110-cowboy-vs-ufos.json](./57110-cowboy-vs-ufos.json) |
 | Cowboy War | 237627 | [237627-cowboy-war.json](./237627-cowboy-war.json) |
 | Cowboy with a Gatling Gun | 184106 | [184106-cowboy-with-a-gatling-gun.json](./184106-cowboy-with-a-gatling-gun.json) |
+| Cowboys & Zombies VR | 226185 | [226185-cowboys-and-zombies-vr.json](./226185-cowboys-and-zombies-vr.json) |
 | Cowboys n' Stuff | 169386 | [169386-cowboys-n-stuff.json](./169386-cowboys-n-stuff.json) |
 | Cowboys vs. Monsters | 302096 | [302096-cowboys-vs-monsters.json](./302096-cowboys-vs-monsters.json) |
 | Cowboys vs. Zombies | 328545 | [328545-cowboys-vs-zombies.json](./328545-cowboys-vs-zombies.json) |
