@@ -3230,6 +3230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Will Shoot | 173250 | [173250-she-will-shoot.json](./173250-she-will-shoot.json) |
 | She's a Bit Sluggish | 179109 | [179109-shes-a-bit-sluggish.json](./179109-shes-a-bit-sluggish.json) |
 | She's My Vampire | 205816 | [205816-shes-my-vampire.json](./205816-shes-my-vampire.json) |
+| She's Outta This World | 179487 | [179487-shes-outta-this-world.json](./179487-shes-outta-this-world.json) |
 | Shechu de Fubao | 255624 | [255624-shechu-de-fubao.json](./255624-shechu-de-fubao.json) |
 | Shed | 406191 | [406191-shed.json](./406191-shed.json) |
 | Shed | 91728 | [91728-shed.json](./91728-shed.json) |
@@ -5435,6 +5436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SleepWalker | 117718 | [117718-sleepwalker.json](./117718-sleepwalker.json) |
 | Sleepwalker Time to Wake Up | 61356 | [61356-sleepwalker-time-to-wake-up.json](./61356-sleepwalker-time-to-wake-up.json) |
 | Sleepwalking | 318388 | [318388-sleepwalking.json](./318388-sleepwalking.json) |
+| Sleepwalking Forest | 179498 | [179498-sleepwalking-forest.json](./179498-sleepwalking-forest.json) |
 | Sleepy Blocks | 184399 | [184399-sleepy-blocks.json](./184399-sleepy-blocks.json) |
 | Sleepy Girl | 343801 | [343801-sleepy-girl.json](./343801-sleepy-girl.json) |
 | Sleepy Head | 91373 | [91373-sleepy-head.json](./91373-sleepy-head.json) |
@@ -6903,6 +6905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Assembly Required | 293380 | [293380-some-assembly-required.json](./293380-some-assembly-required.json) |
 | Some Assembly Required | 343827 | [343827-some-assembly-required.json](./343827-some-assembly-required.json) |
 | Some Heroines Climb Up a Tower to Ask God Why the Game Has a Name That's So Long | 310001 | [310001-some-heroines-climb-up-a-tower-to-ask-god-why-the-game-has-a-name-thats-so-long.json](./310001-some-heroines-climb-up-a-tower-to-ask-god-why-the-game-has-a-name-thats-so-long.json) |
+| Some Knights Left | 179497 | [179497-some-knights-left.json](./179497-some-knights-left.json) |
 | Some Like It Hot: Chapter 0 | 135051 | [135051-some-like-it-hot-chapter-0.json](./135051-some-like-it-hot-chapter-0.json) |
 | Some Munnings | 305899 | [305899-some-munnings.json](./305899-some-munnings.json) |
 | Some Old Stuff | 147300 | [147300-some-old-stuff.json](./147300-some-old-stuff.json) |
@@ -9388,6 +9391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring Ninja | 344936 | [344936-spring-ninja.json](./344936-spring-ninja.json) |
 | Spring of Decadence | 103478 | [103478-spring-of-decadence.json](./103478-spring-of-decadence.json) |
 | Spring String | 313121 | [313121-spring-string.json](./313121-spring-string.json) |
+| Spring Time Excellent Cherry Blossom Fun | 179507 | [179507-spring-time-excellent-cherry-blossom-fun.json](./179507-spring-time-excellent-cherry-blossom-fun.json) |
 | Spring: 1944 | 142500 | [142500-spring-1944.json](./142500-spring-1944.json) |
 | Spring's Finale: Tales of Love | 347352 | [347352-springs-finale-tales-of-love.json](./347352-springs-finale-tales-of-love.json) |
 | Springblades | 227857 | [227857-springblades.json](./227857-springblades.json) |
@@ -9719,6 +9723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stagnated In Slumber | 212250 | [212250-stagnated-in-slumber.json](./212250-stagnated-in-slumber.json) |
 | Stagnatum | 185109 | [185109-stagnatum.json](./185109-stagnatum.json) |
 | Stahlfeder: Tekkou Hikuudan | 138746 | [138746-stahlfeder-tekkou-hikuudan.json](./138746-stahlfeder-tekkou-hikuudan.json) |
+| Stahlkampf | 179480 | [179480-stahlkampf.json](./179480-stahlkampf.json) |
 | Stair Dismount | 19285 | [19285-stair-dismount.json](./19285-stair-dismount.json) |
 | Stair Tap | 365064 | [365064-stair-tap.json](./365064-stair-tap.json) |
 | Staircase55 | 253603 | [253603-staircase55.json](./253603-staircase55.json) |
@@ -12448,6 +12453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunrise of the Time: End of Blue | 375944 | [375944-sunrise-of-the-time-end-of-blue.json](./375944-sunrise-of-the-time-end-of-blue.json) |
 | Sunrise Village: Farm Game | 248100 | [248100-sunrise-village-farm-game.json](./248100-sunrise-village-farm-game.json) |
 | Sunrise's Order | 216727 | [216727-sunrises-order.json](./216727-sunrises-order.json) |
+| Sunrose.p8 | 179488 | [179488-sunrose-p8.json](./179488-sunrose-p8.json) |
 | SunSenSim | 156124 | [156124-sunsensim.json](./156124-sunsensim.json) |
 | Sunset | 195533 | [195533-sunset.json](./195533-sunset.json) |
 | Sunset Arena | 312711 | [312711-sunset-arena.json](./312711-sunset-arena.json) |
