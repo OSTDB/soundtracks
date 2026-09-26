@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O-Bot The Robot 2 | 266225 | [266225-o-bot-the-robot-2.json](./266225-o-bot-the-robot-2.json) |
 | O-Bot The Robot: Re-Botted | 418740 | [418740-o-bot-the-robot-re-botted.json](./418740-o-bot-the-robot-re-botted.json) |
 | O-o-o | 232404 | [232404-o-o-o.json](./232404-o-o-o.json) |
+| O-Sim 22 | 222281 | [222281-o-sim-22.json](./222281-o-sim-22.json) |
 | O-Void | 257470 | [257470-o-void.json](./257470-o-void.json) |
 | O:anquan | 230214 | [230214-o-anquan.json](./230214-o-anquan.json) |
 | O! Holy Knight | 285588 | [285588-o-holy-knight.json](./285588-o-holy-knight.json) |
@@ -756,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMON Simulator | 122859 | [122859-omon-simulator.json](./122859-omon-simulator.json) |
 | OmOneko | 335651 | [335651-omoneko.json](./335651-omoneko.json) |
 | Omori | 26673 | [26673-omori.json](./26673-omori.json) |
+| Omoshiro Action: Ii Otona-tachi no Daibouken | 222251 | [222251-omoshiro-action-ii-otona-tachi-no-daibouken.json](./222251-omoshiro-action-ii-otona-tachi-no-daibouken.json) |
 | Omoshiroi Moro | 259826 | [259826-omoshiroi-moro.json](./259826-omoshiroi-moro.json) |
 | OMSI 2: Aachen | 155135 | [155135-omsi-2-aachen.json](./155135-omsi-2-aachen.json) |
 | OMSI 2: Add-On - Man SL200 | 255076 | [255076-omsi-2-add-on-man-sl200.json](./255076-omsi-2-add-on-man-sl200.json) |
