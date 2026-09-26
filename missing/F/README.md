@@ -2243,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire & Brimstone | 336714 | [336714-fire-and-brimstone.json](./336714-fire-and-brimstone.json) |
 | Fire & Ice: The Daring Adventures of Cool Coyote | 12099 | [12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json](./12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json) |
 | Fire & Water | 147997 | [147997-fire-and-water.json](./147997-fire-and-water.json) |
+| Fire All Humans | 211134 | [211134-fire-all-humans.json](./211134-fire-all-humans.json) |
 | Fire All Weapons | 257973 | [257973-fire-all-weapons.json](./257973-fire-all-weapons.json) |
 | Fire and Ashes | 339624 | [339624-fire-and-ashes.json](./339624-fire-and-ashes.json) |
 | Fire and Brim Co. | 258708 | [258708-fire-and-brim-co.json](./258708-fire-and-brim-co.json) |
