@@ -1079,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neopets Browser | 131370 | [131370-neopets-browser.json](./131370-neopets-browser.json) |
 | Neopets Petpet Adventures: The Wand of Wishing | 78340 | [78340-neopets-petpet-adventures-the-wand-of-wishing.json](./78340-neopets-petpet-adventures-the-wand-of-wishing.json) |
 | Neopets: Codestone Quest | 210104 | [210104-neopets-codestone-quest.json](./210104-neopets-codestone-quest.json) |
+| Neopets: Faerie Fragments | 199906 | [199906-neopets-faerie-fragments.json](./199906-neopets-faerie-fragments.json) |
 | Neopets: Island Builders | 254592 | [254592-neopets-island-builders.json](./254592-neopets-island-builders.json) |
 | Neopets: Mega Mini Games Collection - The Neopian Arcade Odyssey | 386211 | [386211-neopets-mega-mini-games-collection-the-neopian-arcade-odyssey.json](./386211-neopets-mega-mini-games-collection-the-neopian-arcade-odyssey.json) |
 | Neopets: The Altador Plot | 261239 | [261239-neopets-the-altador-plot.json](./261239-neopets-the-altador-plot.json) |
@@ -1483,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NextWar: The Quest for Earth | 91731 | [91731-nextwar-the-quest-for-earth.json](./91731-nextwar-the-quest-for-earth.json) |
 | Nexuiz | 9586 | [9586-nexuiz.json](./9586-nexuiz.json) |
 | Nexus 2 | 92499 | [92499-nexus-2.json](./92499-nexus-2.json) |
+| Nexus Code Plus | 199949 | [199949-nexus-code-plus.json](./199949-nexus-code-plus.json) |
 | Nexus Legacy | 408038 | [408038-nexus-legacy.json](./408038-nexus-legacy.json) |
 | Nexus Rumble: The Ultimate Showdown | 304869 | [304869-nexus-rumble-the-ultimate-showdown.json](./304869-nexus-rumble-the-ultimate-showdown.json) |
 | Nexus Station | 318997 | [318997-nexus-station.json](./318997-nexus-station.json) |
@@ -2153,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Usagimaru: The Mysterious Karakuri Castle | 44391 | [44391-ninja-usagimaru-the-mysterious-karakuri-castle.json](./44391-ninja-usagimaru-the-mysterious-karakuri-castle.json) |
 | Ninja Village | 61080 | [61080-ninja-village.json](./61080-ninja-village.json) |
 | Ninja vs. Zombies 3 | 335275 | [335275-ninja-vs-zombies-3.json](./335275-ninja-vs-zombies-3.json) |
+| Ninja War: Super Ninja Showdown | 199937 | [199937-ninja-war-super-ninja-showdown.json](./199937-ninja-war-super-ninja-showdown.json) |
 | Ninja Warrior Princess | 229334 | [229334-ninja-warrior-princess.json](./229334-ninja-warrior-princess.json) |
 | Ninja Wars: Battle Simulator | 320526 | [320526-ninja-wars-battle-simulator.json](./320526-ninja-wars-battle-simulator.json) |
 | Ninja Warz | 314669 | [314669-ninja-warz.json](./314669-ninja-warz.json) |
