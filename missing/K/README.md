@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kame no Ongaeshi: Urashima Densetsu | 215130 | [215130-kame-no-ongaeshi-urashima-densetsu.json](./215130-kame-no-ongaeshi-urashima-densetsu.json) |
 | Kame Paradise 2 | 231389 | [231389-kame-paradise-2.json](./231389-kame-paradise-2.json) |
 | Kame Paradise 3 Multiversex | 231391 | [231391-kame-paradise-3-multiversex.json](./231391-kame-paradise-3-multiversex.json) |
+| Kamek's Island | 217838 | [217838-kameks-island.json](./217838-kameks-island.json) |
 | Kamek's Midnight Flight | 250035 | [250035-kameks-midnight-flight.json](./250035-kameks-midnight-flight.json) |
 | Kamen Rider Agito | 43864 | [43864-kamen-rider-agito.json](./43864-kamen-rider-agito.json) |
 | Kamen Rider Agito & Kuuga: Wild Battle | 62742 | [62742-kamen-rider-agito-and-kuuga-wild-battle.json](./62742-kamen-rider-agito-and-kuuga-wild-battle.json) |
@@ -1575,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitchen Island VR | 158593 | [158593-kitchen-island-vr.json](./158593-kitchen-island-vr.json) |
 | Kitchen master | 26648 | [26648-kitchen-master.json](./26648-kitchen-master.json) |
 | Kitchen Scramble: Cooking Game | 123439 | [123439-kitchen-scramble-cooking-game.json](./123439-kitchen-scramble-cooking-game.json) |
+| Kitchen Survivors | 217794 | [217794-kitchen-survivors.json](./217794-kitchen-survivors.json) |
 | Kitchen Sync: Aloha! | 244384 | [244384-kitchen-sync-aloha.json](./244384-kitchen-sync-aloha.json) |
 | Kitchen War | 246464 | [246464-kitchen-war.json](./246464-kitchen-war.json) |
 | Kitchen Wars | 319205 | [319205-kitchen-wars.json](./319205-kitchen-wars.json) |
