@@ -25,6 +25,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type Final 2: DLC Set 1 | 155065 | [155065-r-type-final-2-dlc-set-1.json](./155065-r-type-final-2-dlc-set-1.json) |
 | R-Type Final 2: DLC Set 2 | 155064 | [155064-r-type-final-2-dlc-set-2.json](./155064-r-type-final-2-dlc-set-2.json) |
 | R-Type Final 2: DLC Set 3 | 155063 | [155063-r-type-final-2-dlc-set-3.json](./155063-r-type-final-2-dlc-set-3.json) |
+| R-Type Final 2: DLC Set 5 | 193745 | [193745-r-type-final-2-dlc-set-5.json](./193745-r-type-final-2-dlc-set-5.json) |
+| R-Type Final 2: DLC Set 6 | 193746 | [193746-r-type-final-2-dlc-set-6.json](./193746-r-type-final-2-dlc-set-6.json) |
 | R-Type Final 2: Limited Edition | 143057 | [143057-r-type-final-2-limited-edition.json](./143057-r-type-final-2-limited-edition.json) |
 | R-Type Final 2: Limited Edition + Special Chronicle Box Set | 143058 | [143058-r-type-final-2-limited-edition-special-chronicle-box-set.json](./143058-r-type-final-2-limited-edition-special-chronicle-box-set.json) |
 | R-Type Final 3 Evolved | 225779 | [225779-r-type-final-3-evolved.json](./225779-r-type-final-3-evolved.json) |
@@ -2655,6 +2657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenggie | 412308 | [412308-revenggie.json](./412308-revenggie.json) |
 | Revenis Prologue 01 | 116336 | [116336-revenis-prologue-01.json](./116336-revenis-prologue-01.json) |
 | Reverberant | 128619 | [128619-reverberant.json](./128619-reverberant.json) |
+| Reverence | 193732 | [193732-reverence.json](./193732-reverence.json) |
 | Reverend | 339622 | [339622-reverend.json](./339622-reverend.json) |
 | Reverend: Surf 'n Sin | 380554 | [380554-reverend-surf-n-sin.json](./380554-reverend-surf-n-sin.json) |
 | Reverie | 114417 | [114417-reverie.json](./114417-reverie.json) |
@@ -3465,6 +3468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Homeward 4: Last Step | 123557 | [123557-road-homeward-4-last-step.json](./123557-road-homeward-4-last-step.json) |
 | Road Homeward: Open World | 127312 | [127312-road-homeward-open-world.json](./127312-road-homeward-open-world.json) |
 | Road Madness | 33140 | [33140-road-madness.json](./33140-road-madness.json) |
+| Road Maintenance Simulator | 193766 | [193766-road-maintenance-simulator.json](./193766-road-maintenance-simulator.json) |
 | Road Maintenance Simulator 2: Winter Services | 315612 | [315612-road-maintenance-simulator-2-winter-services.json](./315612-road-maintenance-simulator-2-winter-services.json) |
 | Road Master 3D | 303047 | [303047-road-master-3d.json](./303047-road-master-3d.json) |
 | Road Motel Simulator | 337729 | [337729-road-motel-simulator.json](./337729-road-motel-simulator.json) |
@@ -5126,6 +5130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runic Survivor | 215909 | [215909-runic-survivor.json](./215909-runic-survivor.json) |
 | Runic Warrens | 271745 | [271745-runic-warrens.json](./271745-runic-warrens.json) |
 | Runic: Eternal Sunrise | 244781 | [244781-runic-eternal-sunrise.json](./244781-runic-eternal-sunrise.json) |
+| Runick | 193715 | [193715-runick.json](./193715-runick.json) |
 | Runimals | 361309 | [361309-runimals.json](./361309-runimals.json) |
 | Runion | 25735 | [25735-runion.json](./25735-runion.json) |
 | RunNCrush | 259044 | [259044-runncrush.json](./259044-runncrush.json) |
