@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachaminer | 180227 | [180227-gachaminer.json](./180227-gachaminer.json) |
 | Gachapin Challenge DS | 124013 | [124013-gachapin-challenge-ds.json](./124013-gachapin-challenge-ds.json) |
 | Gachapin Nikki DS | 124012 | [124012-gachapin-nikki-ds.json](./124012-gachapin-nikki-ds.json) |
+| Gachi Dash | 180005 | [180005-gachi-dash.json](./180005-gachi-dash.json) |
 | Gachi Heroes 2: Flexboll | 127191 | [127191-gachi-heroes-2-flexboll.json](./127191-gachi-heroes-2-flexboll.json) |
 | Gachimuchi Reloaded | 86314 | [86314-gachimuchi-reloaded.json](./86314-gachimuchi-reloaded.json) |
 | Gachinko Pro Yakyuu | 49567 | [49567-gachinko-pro-yakyuu.json](./49567-gachinko-pro-yakyuu.json) |
@@ -938,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GB Rober | 152875 | [152875-gb-rober.json](./152875-gb-rober.json) |
 | GBA Championship Basketball: Two-on-Two | 12114 | [12114-gba-championship-basketball-two-on-two.json](./12114-gba-championship-basketball-two-on-two.json) |
 | GBox: The Puzzle Collection | 107014 | [107014-gbox-the-puzzle-collection.json](./107014-gbox-the-puzzle-collection.json) |
+| GDO Masters | 180016 | [180016-gdo-masters.json](./180016-gdo-masters.json) |
 | Ge-Sen Love Plus Pengo! | 61571 | [61571-ge-sen-love-plus-pengo.json](./61571-ge-sen-love-plus-pengo.json) |
 | Gear | 117687 | [117687-gear.json](./117687-gear.json) |
 | Gear for Heroes | 243072 | [243072-gear-for-heroes.json](./243072-gear-for-heroes.json) |
@@ -1748,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gilt | 378214 | [378214-gilt.json](./378214-gilt.json) |
 | Gimbal | 16677 | [16677-gimbal.json](./16677-gimbal.json) |
 | Gimbal Gravity | 82450 | [82450-gimbal-gravity.json](./82450-gimbal-gravity.json) |
+| Gimle: The Broken Prophecy | 180020 | [180020-gimle-the-broken-prophecy.json](./180020-gimle-the-broken-prophecy.json) |
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen | 267651 | [267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json](./267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json) |
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen 2 | 267652 | [267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json](./267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json) |
 | Gimme Five | 56468 | [56468-gimme-five.json](./56468-gimme-five.json) |
@@ -2874,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goonya Monster: Additional Character (Buster) - Slug | 248721 | [248721-goonya-monster-additional-character-buster-slug.json](./248721-goonya-monster-additional-character-buster-slug.json) |
 | Goonya Monster: Battle Pass - Eternal Pass + Infinity Cookie | 301019 | [301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json](./301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json) |
 | Goooool! | 312142 | [312142-goooool.json](./312142-goooool.json) |
+| Goop God | 180036 | [180036-goop-god.json](./180036-goop-god.json) |
 | Goop Snake | 364564 | [364564-goop-snake.json](./364564-goop-snake.json) |
 | GoopW | 274019 | [274019-goopw.json](./274019-goopw.json) |
 | Goos Hunt | 337182 | [337182-goos-hunt.json](./337182-goos-hunt.json) |
