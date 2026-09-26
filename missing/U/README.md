@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ucube Avcıları | 268222 | [268222-ucube-avc-lar.json](./268222-ucube-avc-lar.json) |
 | UD Cave | 252695 | [252695-ud-cave.json](./252695-ud-cave.json) |
 | Ud Rēa | 390128 | [390128-ud-rea.json](./390128-ud-rea.json) |
+| Uda Game | 187224 | [187224-uda-game.json](./187224-uda-game.json) |
 | UDAA | 329940 | [329940-udaa.json](./329940-udaa.json) |
 | Udderly Tickets | 66689 | [66689-udderly-tickets.json](./66689-udderly-tickets.json) |
 | Uden at prale - det er Harry | 127973 | [127973-uden-at-prale-det-er-harry.json](./127973-uden-at-prale-det-er-harry.json) |
