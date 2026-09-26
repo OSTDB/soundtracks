@@ -13505,6 +13505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type II | 124273 | [124273-type-ii.json](./124273-type-ii.json) |
 | Type the Entire of Ulysses. That's It. That's the Game. | 198526 | [198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json](./198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json) |
 | Type the Rhythm | 389582 | [389582-type-the-rhythm.json](./389582-type-the-rhythm.json) |
+| Type to Learn 3 | 186073 | [186073-type-to-learn-3.json](./186073-type-to-learn-3.json) |
 | Type: Jump | 242076 | [242076-type-jump.json](./242076-type-jump.json) |
 | Type: Turbo | 391740 | [391740-type-turbo.json](./391740-type-turbo.json) |
 | Type: Unstable Vampire | 180822 | [180822-type-unstable-vampire.json](./180822-type-unstable-vampire.json) |
