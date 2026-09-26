@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarBirds II | 72094 | [72094-warbirds-ii.json](./72094-warbirds-ii.json) |
 | WarBirds III | 71557 | [71557-warbirds-iii.json](./71557-warbirds-iii.json) |
 | Warbit | 33433 | [33433-warbit.json](./33433-warbit.json) |
+| Warbit Union | 184385 | [184385-warbit-union.json](./184385-warbit-union.json) |
 | Warbits+ | 245923 | [245923-warbits.json](./245923-warbits.json) |
 | Warblade | 128358 | [128358-warblade.json](./128358-warblade.json) |
 | Warborn: Variable Armour Command | 112598 | [112598-warborn-variable-armour-command.json](./112598-warborn-variable-armour-command.json) |
