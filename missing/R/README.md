@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radioactive Dwarfs: Evil From the Sewers | 159731 | [159731-radioactive-dwarfs-evil-from-the-sewers.json](./159731-radioactive-dwarfs-evil-from-the-sewers.json) |
 | Radiolight | 170912 | [170912-radiolight.json](./170912-radiolight.json) |
 | Radiometric Dating | 193461 | [193461-radiometric-dating.json](./193461-radiometric-dating.json) |
+| Radiotelegraphist | 188940 | [188940-radiotelegraphist.json](./188940-radiotelegraphist.json) |
 | RadioWave | 301273 | [301273-radiowave.json](./301273-radiowave.json) |
 | Radirgy | 4077 | [4077-radirgy.json](./4077-radirgy.json) |
 | Radirgy 2 | 254477 | [254477-radirgy-2.json](./254477-radirgy-2.json) |
@@ -343,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Playground Sandbox | 392261 | [392261-ragdoll-playground-sandbox.json](./392261-ragdoll-playground-sandbox.json) |
 | Ragdoll Rumble | 318990 | [318990-ragdoll-rumble.json](./318990-ragdoll-rumble.json) |
 | Ragdoll Toss | 179124 | [179124-ragdoll-toss.json](./179124-ragdoll-toss.json) |
+| Ragdolls Playground: The Sandbox | 188908 | [188908-ragdolls-playground-the-sandbox.json](./188908-ragdolls-playground-the-sandbox.json) |
 | Rage 2 | 101211 | [101211-rage-2.json](./101211-rage-2.json) |
 | Rage District: Humanity Armageddon | 406800 | [406800-rage-district-humanity-armageddon.json](./406800-rage-district-humanity-armageddon.json) |
 | Rage Effect | 321508 | [321508-rage-effect.json](./321508-rage-effect.json) |
@@ -2404,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restaurant Island: The Fun Family Game! Manage your staff & expand your gourmet paradise! | 88206 | [88206-restaurant-island-the-fun-family-game-manage-your-staff-and-expand-your-gourmet-paradise.json](./88206-restaurant-island-the-fun-family-game-manage-your-staff-and-expand-your-gourmet-paradise.json) |
 | Restaurant Manager Simulator | 211696 | [211696-restaurant-manager-simulator.json](./211696-restaurant-manager-simulator.json) |
 | Restaurant Simulator | 204072 | [204072-restaurant-simulator.json](./204072-restaurant-simulator.json) |
+| Restaurant Solitaire: Delicious Lunch | 188923 | [188923-restaurant-solitaire-delicious-lunch.json](./188923-restaurant-solitaire-delicious-lunch.json) |
 | Restaurant Story | 343479 | [343479-restaurant-story.json](./343479-restaurant-story.json) |
 | Restaurant Tycoon | 75908 | [75908-restaurant-tycoon.json](./75908-restaurant-tycoon.json) |
 | Restaurant Tycoon: My Cooking Empire - Complete Edition | 399826 | [399826-restaurant-tycoon-my-cooking-empire-complete-edition.json](./399826-restaurant-tycoon-my-cooking-empire-complete-edition.json) |
@@ -3478,6 +3481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Maintenance Simulator | 193766 | [193766-road-maintenance-simulator.json](./193766-road-maintenance-simulator.json) |
 | Road Maintenance Simulator 2: Winter Services | 315612 | [315612-road-maintenance-simulator-2-winter-services.json](./315612-road-maintenance-simulator-2-winter-services.json) |
 | Road Master 3D | 303047 | [303047-road-master-3d.json](./303047-road-master-3d.json) |
+| Road Mayhem | 188904 | [188904-road-mayhem.json](./188904-road-mayhem.json) |
 | Road Motel Simulator | 337729 | [337729-road-motel-simulator.json](./337729-road-motel-simulator.json) |
 | Road Motorcycle | 265592 | [265592-road-motorcycle.json](./265592-road-motorcycle.json) |
 | Road of Danger | 41936 | [41936-road-of-danger.json](./41936-road-of-danger.json) |
