@@ -3429,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digger | 172721 | [172721-digger.json](./172721-digger.json) |
 | Digger Man | 39631 | [39631-digger-man.json](./39631-digger-man.json) |
 | Digger T. Rock: The Legend of the Lost City | 12932 | [12932-digger-t-rock-the-legend-of-the-lost-city.json](./12932-digger-t-rock-the-legend-of-the-lost-city.json) |
+| Diggergun | 204370 | [204370-diggergun.json](./204370-diggergun.json) |
 | Diggerman | 101578 | [101578-diggerman.json](./101578-diggerman.json) |
 | Diggers | 37101 | [37101-diggers.json](./37101-diggers.json) |
 | Diggers 2: Extractors | 70104 | [70104-diggers-2-extractors.json](./70104-diggers-2-extractors.json) |
@@ -4016,6 +4017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Aladdin | 2473 | [2473-disneys-aladdin.json](./2473-disneys-aladdin.json) |
 | Disney's Aladdin | 8118 | [8118-disneys-aladdin.json](./8118-disneys-aladdin.json) |
 | Disney's American Dragon Jake Long: Rise of the Huntsclan! | 49410 | [49410-disneys-american-dragon-jake-long-rise-of-the-huntsclan.json](./49410-disneys-american-dragon-jake-long-rise-of-the-huntsclan.json) |
+| Disney's Animated Storybook: 101 Dalmatians | 204394 | [204394-disneys-animated-storybook-101-dalmatians.json](./204394-disneys-animated-storybook-101-dalmatians.json) |
 | Disney's Animated Storybook: The Lion King | 214616 | [214616-disneys-animated-storybook-the-lion-king.json](./214616-disneys-animated-storybook-the-lion-king.json) |
 | Disney's Animated Storybook: Toy Story | 239203 | [239203-disneys-animated-storybook-toy-story.json](./239203-disneys-animated-storybook-toy-story.json) |
 | Disney's Arcade Frenzy | 120809 | [120809-disneys-arcade-frenzy.json](./120809-disneys-arcade-frenzy.json) |
@@ -4371,6 +4373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoC: God Mode Edition | 107162 | [107162-doc-god-mode-edition.json](./107162-doc-god-mode-edition.json) |
 | Doce Fim: Sweetend Placebo | 391576 | [391576-doce-fim-sweetend-placebo.json](./391576-doce-fim-sweetend-placebo.json) |
 | Doces & Calabouços: Caos no Reino do Doce | 335244 | [335244-doces-and-calaboucos-caos-no-reino-do-doce.json](./335244-doces-and-calaboucos-caos-no-reino-do-doce.json) |
+| Dock King | 204420 | [204420-dock-king.json](./204420-dock-king.json) |
 | Docked: DLC 2 | 398957 | [398957-docked-dlc-2.json](./398957-docked-dlc-2.json) |
 | Docked: New Horizons Pack | 398958 | [398958-docked-new-horizons-pack.json](./398958-docked-new-horizons-pack.json) |
 | Docking Donuts2 in 1 | 233225 | [233225-docking-donuts2-in-1.json](./233225-docking-donuts2-in-1.json) |
@@ -4817,6 +4820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Kill the King! | 189078 | [189078-dont-kill-the-king.json](./189078-dont-kill-the-king.json) |
 | Don't Kill Them All | 303088 | [303088-dont-kill-them-all.json](./303088-dont-kill-them-all.json) |
 | Don't Leave | 285439 | [285439-dont-leave.json](./285439-dont-leave.json) |
+| Don't Let Me Down | 204417 | [204417-dont-let-me-down.json](./204417-dont-let-me-down.json) |
 | Don't Let Me Fade | 352220 | [352220-dont-let-me-fade.json](./352220-dont-let-me-fade.json) |
 | Don't Look | 177547 | [177547-dont-look.json](./177547-dont-look.json) |
 | Don't Look at Grandma | 375820 | [375820-dont-look-at-grandma.json](./375820-dont-look-at-grandma.json) |
