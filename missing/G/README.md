@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy in Turmoil | 19436 | [19436-galaxy-in-turmoil.json](./19436-galaxy-in-turmoil.json) |
 | Galaxy Invader 1000 | 47282 | [47282-galaxy-invader-1000.json](./47282-galaxy-invader-1000.json) |
 | Galaxy Kingdoms | 236214 | [236214-galaxy-kingdoms.json](./236214-galaxy-kingdoms.json) |
+| Galaxy Life | 201559 | [201559-galaxy-life.json](./201559-galaxy-life.json) |
 | Galaxy Life | 324894 | [324894-galaxy-life.json](./324894-galaxy-life.json) |
 | Galaxy Mirror Glaze Cake - Sweet Desserts Maker | 101347 | [101347-galaxy-mirror-glaze-cake-sweet-desserts-maker.json](./101347-galaxy-mirror-glaze-cake-sweet-desserts-maker.json) |
 | Galaxy of Arcade Classics | 206136 | [206136-galaxy-of-arcade-classics.json](./206136-galaxy-of-arcade-classics.json) |
