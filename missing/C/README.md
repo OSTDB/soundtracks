@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call to Arms: Gates of Hell - Talvisota | 203893 | [203893-call-to-arms-gates-of-hell-talvisota.json](./203893-call-to-arms-gates-of-hell-talvisota.json) |
 | Call to Arms: Panzer Elite | 353292 | [353292-call-to-arms-panzer-elite.json](./353292-call-to-arms-panzer-elite.json) |
 | Call to Strike | 311133 | [311133-call-to-strike.json](./311133-call-to-strike.json) |
+| Call to Victory | 179483 | [179483-call-to-victory.json](./179483-call-to-victory.json) |
 | Callahan's Crosstime Saloon | 12410 | [12410-callahans-crosstime-saloon.json](./12410-callahans-crosstime-saloon.json) |
 | Callbreak League | 237635 | [237635-callbreak-league.json](./237635-callbreak-league.json) |
 | Caller of the Crows | 348857 | [348857-caller-of-the-crows.json](./348857-caller-of-the-crows.json) |
@@ -2083,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Age of Ashes - Thornweaver Premium Edition | 242475 | [242475-century-age-of-ashes-thornweaver-premium-edition.json](./242475-century-age-of-ashes-thornweaver-premium-edition.json) |
 | Century: Age of Ashes - Valkurian Prelude Edition | 218491 | [218491-century-age-of-ashes-valkurian-prelude-edition.json](./218491-century-age-of-ashes-valkurian-prelude-edition.json) |
 | Century: Wishbringer Pack | 340566 | [340566-century-wishbringer-pack.json](./340566-century-wishbringer-pack.json) |
+| CEO | 179515 | [179515-ceo.json](./179515-ceo.json) |
 | CEO City | 316287 | [316287-ceo-city.json](./316287-ceo-city.json) |
 | Cepheus Protocol | 127246 | [127246-cepheus-protocol.json](./127246-cepheus-protocol.json) |
 | Cepheus Protocol: Project Fenrir | 281986 | [281986-cepheus-protocol-project-fenrir.json](./281986-cepheus-protocol-project-fenrir.json) |
@@ -5513,6 +5515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constructor: Building Pack 1 - World Tenant Buildings | 226839 | [226839-constructor-building-pack-1-world-tenant-buildings.json](./226839-constructor-building-pack-1-world-tenant-buildings.json) |
 | Constructor: Building Pack 2 Made in America | 226840 | [226840-constructor-building-pack-2-made-in-america.json](./226840-constructor-building-pack-2-made-in-america.json) |
 | Consult Me Before Opening A Snack Shop | 280350 | [280350-consult-me-before-opening-a-snack-shop.json](./280350-consult-me-before-opening-a-snack-shop.json) |
+| Consume | 179514 | [179514-consume.json](./179514-consume.json) |
 | Consume Thy Flesh: The Pumpkin Smashing Sim | 189137 | [189137-consume-thy-flesh-the-pumpkin-smashing-sim.json](./189137-consume-thy-flesh-the-pumpkin-smashing-sim.json) |
 | Consummate:Missing World | 51974 | [51974-consummate-missing-world.json](./51974-consummate-missing-world.json) |
 | Contact Me | 149447 | [149447-contact-me.json](./149447-contact-me.json) |
@@ -6672,6 +6675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Pocket | 413613 | [413613-crazy-pocket.json](./413613-crazy-pocket.json) |
 | Crazy Puzzle | 358935 | [358935-crazy-puzzle.json](./358935-crazy-puzzle.json) |
 | Crazy Rabbits | 250973 | [250973-crazy-rabbits.json](./250973-crazy-rabbits.json) |
+| Crazy Rails | 179481 | [179481-crazy-rails.json](./179481-crazy-rails.json) |
 | Crazy Roads | 399693 | [399693-crazy-roads.json](./399693-crazy-roads.json) |
 | Crazy School: Schulverweis! | 327219 | [327219-crazy-school-schulverweis.json](./327219-crazy-school-schulverweis.json) |
 | Crazy Seahorses | 241348 | [241348-crazy-seahorses.json](./241348-crazy-seahorses.json) |
