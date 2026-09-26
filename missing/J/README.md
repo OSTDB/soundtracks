@@ -1591,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Skill Shooter 3: 2D Edition | 295890 | [295890-just-skill-shooter-3-2d-edition.json](./295890-just-skill-shooter-3-2d-edition.json) |
 | Just Skill Shooter: Catacombs | 340783 | [340783-just-skill-shooter-catacombs.json](./340783-just-skill-shooter-catacombs.json) |
 | Just Sleep - Meditate, Focus, Relax | 119686 | [119686-just-sleep-meditate-focus-relax.json](./119686-just-sleep-meditate-focus-relax.json) |
+| Just Survival: The Zombie Awakening | 212217 | [212217-just-survival-the-zombie-awakening.json](./212217-just-survival-the-zombie-awakening.json) |
 | Just Take Your Left | 148542 | [148542-just-take-your-left.json](./148542-just-take-your-left.json) |
 | Just Thanks | 267905 | [267905-just-thanks.json](./267905-just-thanks.json) |
 | Just Touch The WhiteBox!!! | 262355 | [262355-just-touch-the-whitebox.json](./262355-just-touch-the-whitebox.json) |
