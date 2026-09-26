@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Abyss of Dagath | 263531 | [263531-warframe-abyss-of-dagath.json](./263531-warframe-abyss-of-dagath.json) |
 | Warframe: Angels of the Zariman - Chrysalith Pack | 223706 | [223706-warframe-angels-of-the-zariman-chrysalith-pack.json](./223706-warframe-angels-of-the-zariman-chrysalith-pack.json) |
 | Warframe: Angels of the Zariman - Emergence Pack | 223707 | [223707-warframe-angels-of-the-zariman-emergence-pack.json](./223707-warframe-angels-of-the-zariman-emergence-pack.json) |
+| Warframe: Archwing | 202145 | [202145-warframe-archwing.json](./202145-warframe-archwing.json) |
 | Warframe: Chains of Harrow | 198495 | [198495-warframe-chains-of-harrow.json](./198495-warframe-chains-of-harrow.json) |
 | Warframe: Dante Chronicles Pack | 294148 | [294148-warframe-dante-chronicles-pack.json](./294148-warframe-dante-chronicles-pack.json) |
 | Warframe: Dark Sectors | 201158 | [201158-warframe-dark-sectors.json](./201158-warframe-dark-sectors.json) |
@@ -535,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Gunblade Battlekit | 353310 | [353310-warframe-gunblade-battlekit.json](./353310-warframe-gunblade-battlekit.json) |
 | Warframe: Initiate Power Pack | 374143 | [374143-warframe-initiate-power-pack.json](./374143-warframe-initiate-power-pack.json) |
 | Warframe: Nyx Warframe | 325577 | [325577-warframe-nyx-warframe.json](./325577-warframe-nyx-warframe.json) |
+| Warframe: Sanctuary | 202147 | [202147-warframe-sanctuary.json](./202147-warframe-sanctuary.json) |
 | Warframe: Shadows of the Dead | 200659 | [200659-warframe-shadows-of-the-dead.json](./200659-warframe-shadows-of-the-dead.json) |
 | Warframe: Starter Weapon Pack | 353309 | [353309-warframe-starter-weapon-pack.json](./353309-warframe-starter-weapon-pack.json) |
 | Warframe: The Duviri Paradox | 204361 | [204361-warframe-the-duviri-paradox.json](./204361-warframe-the-duviri-paradox.json) |
@@ -914,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watamari Part2: A Fake Marriage? | 375295 | [375295-watamari-part2-a-fake-marriage.json](./375295-watamari-part2-a-fake-marriage.json) |
 | Wataoma Extra | 97668 | [97668-wataoma-extra.json](./97668-wataoma-extra.json) |
 | Wataru no Pinball | 284451 | [284451-wataru-no-pinball.json](./284451-wataru-no-pinball.json) |
+| Watashi ha Joyuu ni Naritai no | 202137 | [202137-watashi-ha-joyuu-ni-naritai-no.json](./202137-watashi-ha-joyuu-ni-naritai-no.json) |
 | Watashi no Happy Manner Book | 287631 | [287631-watashi-no-happy-manner-book.json](./287631-watashi-no-happy-manner-book.json) |
 | Watashi no Kokoro! Kimi no Koto ga Suki desu. | 161902 | [161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json](./161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json) |
 | Watashi no MakeSalon | 275635 | [275635-watashi-no-makesalon.json](./275635-watashi-no-makesalon.json) |
@@ -3216,6 +3219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Leader Card Game | 119779 | [119779-world-leader-card-game.json](./119779-world-leader-card-game.json) |
 | World Leaders | 274046 | [274046-world-leaders.json](./274046-world-leaders.json) |
 | World Mahjong: Original | 220721 | [220721-world-mahjong-original.json](./220721-world-mahjong-original.json) |
+| World Map: Crafted City Builder | 202096 | [202096-world-map-crafted-city-builder.json](./202096-world-map-crafted-city-builder.json) |
 | World Mosaics | 135246 | [135246-world-mosaics.json](./135246-world-mosaics.json) |
 | World Mosaics 2 | 135247 | [135247-world-mosaics-2.json](./135247-world-mosaics-2.json) |
 | World Mosaics 3: Fairy Tales | 135248 | [135248-world-mosaics-3-fairy-tales.json](./135248-world-mosaics-3-fairy-tales.json) |
