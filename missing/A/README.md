@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Plague Tale Bundle | 230801 | [230801-a-plague-tale-bundle.json](./230801-a-plague-tale-bundle.json) |
 | A Plague Tale: Innocence - Coats of Arms | 118201 | [118201-a-plague-tale-innocence-coats-of-arms.json](./118201-a-plague-tale-innocence-coats-of-arms.json) |
 | A Plague Tale: Requiem - Cloud Version | 206817 | [206817-a-plague-tale-requiem-cloud-version.json](./206817-a-plague-tale-requiem-cloud-version.json) |
+| A Plague Tale: Requiem - Protector Pack | 223447 | [223447-a-plague-tale-requiem-protector-pack.json](./223447-a-plague-tale-requiem-protector-pack.json) |
 | A Plant's Life | 63845 | [63845-a-plants-life.json](./63845-a-plants-life.json) |
 | A Platformer for Ants | 82150 | [82150-a-platformer-for-ants.json](./82150-a-platformer-for-ants.json) |
 | A Playground Afternoon | 402490 | [402490-a-playground-afternoon.json](./402490-a-playground-afternoon.json) |
@@ -2218,6 +2219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Swirl | 15594 | [15594-alien-swirl.json](./15594-alien-swirl.json) |
 | Alien Tequila | 73263 | [73263-alien-tequila.json](./73263-alien-tequila.json) |
 | Alien Tower | 259543 | [259543-alien-tower.json](./259543-alien-tower.json) |
+| Alien Town Invasion | 223398 | [223398-alien-town-invasion.json](./223398-alien-town-invasion.json) |
 | Alien Tribe 2 | 97309 | [97309-alien-tribe-2.json](./97309-alien-tribe-2.json) |
 | Alien Virus | 147371 | [147371-alien-virus.json](./147371-alien-virus.json) |
 | Alien War Girl | 111072 | [111072-alien-war-girl.json](./111072-alien-war-girl.json) |
@@ -4511,6 +4513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Ultimate Portable Video Game Player | 202790 | [202790-arcade-ultimate-portable-video-game-player.json](./202790-arcade-ultimate-portable-video-game-player.json) |
 | Arcade Ultimate: Street of Rage - Limited Edition | 202789 | [202789-arcade-ultimate-street-of-rage-limited-edition.json](./202789-arcade-ultimate-street-of-rage-limited-edition.json) |
 | Arcade Video Games Quiz | 241355 | [241355-arcade-video-games-quiz.json](./241355-arcade-video-games-quiz.json) |
+| Arcade vs Player | 223410 | [223410-arcade-vs-player.json](./223410-arcade-vs-player.json) |
 | Arcade ZX Collection: Anteater | 304195 | [304195-arcade-zx-collection-anteater.json](./304195-arcade-zx-collection-anteater.json) |
 | Arcade ZX Collection: Botanic | 304194 | [304194-arcade-zx-collection-botanic.json](./304194-arcade-zx-collection-botanic.json) |
 | Arcade ZX Collection: Tetris | 304193 | [304193-arcade-zx-collection-tetris.json](./304193-arcade-zx-collection-tetris.json) |
@@ -5202,6 +5205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifact Run | 384534 | [384534-artifact-run.json](./384534-artifact-run.json) |
 | Artifact Seekers | 366306 | [366306-artifact-seekers.json](./366306-artifact-seekers.json) |
 | Artifacto | 180103 | [180103-artifacto.json](./180103-artifacto.json) |
+| Artifacts and Antiquity | 223385 | [223385-artifacts-and-antiquity.json](./223385-artifacts-and-antiquity.json) |
 | Artifacts of Eternity | 337617 | [337617-artifacts-of-eternity.json](./337617-artifacts-of-eternity.json) |
 | Artifacts of Eyru | 207507 | [207507-artifacts-of-eyru.json](./207507-artifacts-of-eyru.json) |
 | Artifice: War Tactics | 224748 | [224748-artifice-war-tactics.json](./224748-artifice-war-tactics.json) |
@@ -6338,6 +6342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automata 10 Pack Volume 2 | 258188 | [258188-automata-10-pack-volume-2.json](./258188-automata-10-pack-volume-2.json) |
 | Automata Break | 139455 | [139455-automata-break.json](./139455-automata-break.json) |
 | Automatic Flips | 409754 | [409754-automatic-flips.json](./409754-automatic-flips.json) |
+| Automatic War | 223390 | [223390-automatic-war.json](./223390-automatic-war.json) |
 | Automatica | 217013 | [217013-automatica.json](./217013-automatica.json) |
 | Automation | 165512 | [165512-automation.json](./165512-automation.json) |
 | Automaton | 266852 | [266852-automaton.json](./266852-automaton.json) |
