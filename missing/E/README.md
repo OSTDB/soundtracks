@@ -1691,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ephemeral Dreams, Eternal Love | 260116 | [260116-ephemeral-dreams-eternal-love.json](./260116-ephemeral-dreams-eternal-love.json) |
 | Ephemeral Legend | 274979 | [274979-ephemeral-legend.json](./274979-ephemeral-legend.json) |
 | Ephemeral Tale | 127247 | [127247-ephemeral-tale.json](./127247-ephemeral-tale.json) |
+| Ephemeral: Miniature Garden | 222866 | [222866-ephemeral-miniature-garden.json](./222866-ephemeral-miniature-garden.json) |
 | Epi-Derick | 372481 | [372481-epi-derick.json](./372481-epi-derick.json) |
 | Epic | 12066 | [12066-epic.json](./12066-epic.json) |
 | Epic | 342746 | [342746-epic.json](./342746-epic.json) |
@@ -1884,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eros Fantasy | 199606 | [199606-eros-fantasy.json](./199606-eros-fantasy.json) |
 | Eros Myth | 176467 | [176467-eros-myth.json](./176467-eros-myth.json) |
 | Erosion | 177437 | [177437-erosion.json](./177437-erosion.json) |
+| Erostasis | 222826 | [222826-erostasis.json](./222826-erostasis.json) |
 | Erotic Colouring Book | 110356 | [110356-erotic-colouring-book.json](./110356-erotic-colouring-book.json) |
 | Erotic Dream Puzzle | 312696 | [312696-erotic-dream-puzzle.json](./312696-erotic-dream-puzzle.json) |
 | Erotic Dungeon Survival | 82829 | [82829-erotic-dungeon-survival.json](./82829-erotic-dungeon-survival.json) |
