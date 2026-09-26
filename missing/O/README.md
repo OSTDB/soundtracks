@@ -300,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odyssey of the Explorer | 302108 | [302108-odyssey-of-the-explorer.json](./302108-odyssey-of-the-explorer.json) |
 | Odyssey: Altar of Norax | 191159 | [191159-odyssey-altar-of-norax.json](./191159-odyssey-altar-of-norax.json) |
 | Odyssey: Realm of Echoes | 341499 | [341499-odyssey-realm-of-echoes.json](./341499-odyssey-realm-of-echoes.json) |
+| Odyssian Blaze | 190993 | [190993-odyssian-blaze.json](./190993-odyssian-blaze.json) |
 | Oedipus Dating Sim | 89660 | [89660-oedipus-dating-sim.json](./89660-oedipus-dating-sim.json) |
 | Oedipus In My Inventory | 124597 | [124597-oedipus-in-my-inventory.json](./124597-oedipus-in-my-inventory.json) |
 | Oedo Developer | 369089 | [369089-oedo-developer.json](./369089-oedo-developer.json) |
@@ -1869,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherside | 209129 | [209129-otherside.json](./209129-otherside.json) |
 | OtherSide | 179157 | [179157-otherside.json](./179157-otherside.json) |
 | Otherskin | 312401 | [312401-otherskin.json](./312401-otherskin.json) |
+| Otherwar | 190983 | [190983-otherwar.json](./190983-otherwar.json) |
 | Otherwar: Deluxe Edition | 406196 | [406196-otherwar-deluxe-edition.json](./406196-otherwar-deluxe-edition.json) |
 | OtherWordly | 152150 | [152150-otherwordly.json](./152150-otherwordly.json) |
 | Otherworld Heroes | 208054 | [208054-otherworld-heroes.json](./208054-otherworld-heroes.json) |
@@ -1937,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ouchi Otofuda | 206371 | [206371-ouchi-otofuda.json](./206371-ouchi-otofuda.json) |
 | Oudbiao's World | 258477 | [258477-oudbiaos-world.json](./258477-oudbiaos-world.json) |
 | Ouija | 155997 | [155997-ouija.json](./155997-ouija.json) |
+| Ouija Rumours | 190989 | [190989-ouija-rumours.json](./190989-ouija-rumours.json) |
 | Ouji-sama Lv1 | 204398 | [204398-ouji-sama-lv1.json](./204398-ouji-sama-lv1.json) |
 | Ouji-sama Lv1.5 | 204477 | [204477-ouji-sama-lv1-5.json](./204477-ouji-sama-lv1-5.json) |
 | Ouji-sama Lv2 | 204399 | [204399-ouji-sama-lv2.json](./204399-ouji-sama-lv2.json) |
