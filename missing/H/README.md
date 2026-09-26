@@ -3961,6 +3961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop 'N' Stack | 311665 | [311665-hop-n-stack.json](./311665-hop-n-stack.json) |
 | Hop for the Best | 206945 | [206945-hop-for-the-best.json](./206945-hop-for-the-best.json) |
 | Hop Hop Hop | 348950 | [348950-hop-hop-hop.json](./348950-hop-hop-hop.json) |
+| Hop Hop Miner | 181707 | [181707-hop-hop-miner.json](./181707-hop-hop-miner.json) |
 | Hop Island | 270635 | [270635-hop-island.json](./270635-hop-island.json) |
 | Hop n Pee Dreams VR | 259094 | [259094-hop-n-pee-dreams-vr.json](./259094-hop-n-pee-dreams-vr.json) |
 | Hop N' Drop | 265186 | [265186-hop-n-drop.json](./265186-hop-n-drop.json) |
