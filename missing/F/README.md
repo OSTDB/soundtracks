@@ -1106,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Tractor Simulator | 233438 | [233438-farming-tractor-simulator.json](./233438-farming-tractor-simulator.json) |
 | Farming Tractor Simulator 2023: Drive Combine & Trucks | 263497 | [263497-farming-tractor-simulator-2023-drive-combine-and-trucks.json](./263497-farming-tractor-simulator-2023-drive-combine-and-trucks.json) |
 | Farming World: Jam Factory | 238724 | [238724-farming-world-jam-factory.json](./238724-farming-world-jam-factory.json) |
+| FarmingCat | 204369 | [204369-farmingcat.json](./204369-farmingcat.json) |
 | Farmington Tales | 44093 | [44093-farmington-tales.json](./44093-farmington-tales.json) |
 | Farmington Tales 2: Winter Crop | 294225 | [294225-farmington-tales-2-winter-crop.json](./294225-farmington-tales-2-winter-crop.json) |
 | Farmnana Defence | 404863 | [404863-farmnana-defence.json](./404863-farmnana-defence.json) |
@@ -4332,6 +4333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox & Goat | 40740 | [40740-fox-and-goat.json](./40740-fox-and-goat.json) |
 | Fox Adventure: Homeward Journey | 253439 | [253439-fox-adventure-homeward-journey.json](./253439-fox-adventure-homeward-journey.json) |
 | Fox and Bunny | 117780 | [117780-fox-and-bunny.json](./117780-fox-and-bunny.json) |
+| Fox and Frog Travelers: The Demon of Adashino Island | 204377 | [204377-fox-and-frog-travelers-the-demon-of-adashino-island.json](./204377-fox-and-frog-travelers-the-demon-of-adashino-island.json) |
 | Fox and Shadow | 320556 | [320556-fox-and-shadow.json](./320556-fox-and-shadow.json) |
 | Fox Detective | 97912 | [97912-fox-detective.json](./97912-fox-detective.json) |
 | Fox Girl Taming | 239318 | [239318-fox-girl-taming.json](./239318-fox-girl-taming.json) |
@@ -5214,6 +5216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Gear | 229922 | [229922-full-gear.json](./229922-full-gear.json) |
 | Full House Casino | 333101 | [333101-full-house-casino.json](./333101-full-house-casino.json) |
 | Full House Kiss | 97370 | [97370-full-house-kiss.json](./97370-full-house-kiss.json) |
+| Full House Kiss 2 | 204392 | [204392-full-house-kiss-2.json](./204392-full-house-kiss-2.json) |
 | Full House Poker | 17472 | [17472-full-house-poker.json](./17472-full-house-poker.json) |
 | Full Kiss S | 219029 | [219029-full-kiss-s.json](./219029-full-kiss-s.json) |
 | Full Kiss SS | 155060 | [155060-full-kiss-ss.json](./155060-full-kiss-ss.json) |
