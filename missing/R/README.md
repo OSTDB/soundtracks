@@ -1548,6 +1548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Carpet Diaries: Book 1 | 313688 | [313688-red-carpet-diaries-book-1.json](./313688-red-carpet-diaries-book-1.json) |
 | Red Carpet Diaries: Book 2 | 313689 | [313689-red-carpet-diaries-book-2.json](./313689-red-carpet-diaries-book-2.json) |
 | Red Carpet Diaries: Book 3 | 313690 | [313690-red-carpet-diaries-book-3.json](./313690-red-carpet-diaries-book-3.json) |
+| Red Chaos: The Strict Order | 211677 | [211677-red-chaos-the-strict-order.json](./211677-red-chaos-the-strict-order.json) |
 | Red Chat Ritual: Tsumimi Time | 400336 | [400336-red-chat-ritual-tsumimi-time.json](./400336-red-chat-ritual-tsumimi-time.json) |
 | Red Colony | 139466 | [139466-red-colony.json](./139466-red-colony.json) |
 | Red Comrades 2: For the Great Justice - Reloaded | 33509 | [33509-red-comrades-2-for-the-great-justice-reloaded.json](./33509-red-comrades-2-for-the-great-justice-reloaded.json) |
@@ -1889,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regulus: The Advent | 373720 | [373720-regulus-the-advent.json](./373720-regulus-the-advent.json) |
 | Rehaunted | 410924 | [410924-rehaunted.json](./410924-rehaunted.json) |
 | Reigen Doushi | 215135 | [215135-reigen-doushi.json](./215135-reigen-doushi.json) |
+| Reign and Ruin | 211662 | [211662-reign-and-ruin.json](./211662-reign-and-ruin.json) |
 | Reign Down | 280348 | [280348-reign-down.json](./280348-reign-down.json) |
 | Reign of Amira: The Lost Kingdom | 38996 | [38996-reign-of-amira-the-lost-kingdom.json](./38996-reign-of-amira-the-lost-kingdom.json) |
 | Reign of Darkness | 126974 | [126974-reign-of-darkness.json](./126974-reign-of-darkness.json) |
@@ -2354,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restaurant Diary | 233441 | [233441-restaurant-diary.json](./233441-restaurant-diary.json) |
 | Restaurant Empire II | 16015 | [16015-restaurant-empire-ii.json](./16015-restaurant-empire-ii.json) |
 | Restaurant Island: The Fun Family Game! Manage your staff & expand your gourmet paradise! | 88206 | [88206-restaurant-island-the-fun-family-game-manage-your-staff-and-expand-your-gourmet-paradise.json](./88206-restaurant-island-the-fun-family-game-manage-your-staff-and-expand-your-gourmet-paradise.json) |
+| Restaurant Manager Simulator | 211696 | [211696-restaurant-manager-simulator.json](./211696-restaurant-manager-simulator.json) |
 | Restaurant Simulator | 204072 | [204072-restaurant-simulator.json](./204072-restaurant-simulator.json) |
 | Restaurant Story | 343479 | [343479-restaurant-story.json](./343479-restaurant-story.json) |
 | Restaurant Tycoon | 75908 | [75908-restaurant-tycoon.json](./75908-restaurant-tycoon.json) |
@@ -3341,6 +3344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rival Turf! | 42467 | [42467-rival-turf.json](./42467-rival-turf.json) |
 | Rivalhearts | 321342 | [321342-rivalhearts.json](./321342-rivalhearts.json) |
 | Rivalia Online | 383048 | [383048-rivalia-online.json](./383048-rivalia-online.json) |
+| Rivalia: Dungeon Raiders | 211670 | [211670-rivalia-dungeon-raiders.json](./211670-rivalia-dungeon-raiders.json) |
 | Rivals Duel: Card Battler | 297203 | [297203-rivals-duel-card-battler.json](./297203-rivals-duel-card-battler.json) |
 | Rivals in the Skies | 363907 | [363907-rivals-in-the-skies.json](./363907-rivals-in-the-skies.json) |
 | Rivals of Aether | 21646 | [21646-rivals-of-aether.json](./21646-rivals-of-aether.json) |
