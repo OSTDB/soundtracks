@@ -3648,6 +3648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Crisis 2 | 416083 | [416083-dino-crisis-2.json](./416083-dino-crisis-2.json) |
 | Dino Crisis: 5th Anniversary | 161345 | [161345-dino-crisis-5th-anniversary.json](./161345-dino-crisis-5th-anniversary.json) |
 | Dino Crisis: Dungeon in Chaos | 146923 | [146923-dino-crisis-dungeon-in-chaos.json](./146923-dino-crisis-dungeon-in-chaos.json) |
+| Dino Cub | 188914 | [188914-dino-cub.json](./188914-dino-cub.json) |
 | Dino Dan: Dino Dig Site | 105897 | [105897-dino-dan-dino-dig-site.json](./105897-dino-dan-dino-dig-site.json) |
 | Dino Dana - Experiments | 95828 | [95828-dino-dana-experiments.json](./95828-dino-dana-experiments.json) |
 | Dino Dave 2 | 80542 | [80542-dino-dave-2.json](./80542-dino-dave-2.json) |
@@ -6619,6 +6620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Sector | 329148 | [329148-drone-sector.json](./329148-drone-sector.json) |
 | Drone Shadow Strike | 303262 | [303262-drone-shadow-strike.json](./303262-drone-shadow-strike.json) |
 | Drone Showcase | 186287 | [186287-drone-showcase.json](./186287-drone-showcase.json) |
+| Drone Simulator | 188948 | [188948-drone-simulator.json](./188948-drone-simulator.json) |
 | Drone Simulator: Smash Zombies | 343249 | [343249-drone-simulator-smash-zombies.json](./343249-drone-simulator-smash-zombies.json) |
 | Drone Simulator: Smash Zombies | 401116 | [401116-drone-simulator-smash-zombies.json](./401116-drone-simulator-smash-zombies.json) |
 | Drone Smuggler | 363575 | [363575-drone-smuggler.json](./363575-drone-smuggler.json) |
