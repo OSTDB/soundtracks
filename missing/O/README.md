@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offroad Racing | 125843 | [125843-offroad-racing.json](./125843-offroad-racing.json) |
 | Offroad Racing | 221416 | [221416-offroad-racing.json](./221416-offroad-racing.json) |
 | Offroad Racing on Line | 172161 | [172161-offroad-racing-on-line.json](./172161-offroad-racing-on-line.json) |
+| Offroad Simulator Online 4x4 | 196584 | [196584-offroad-simulator-online-4x4.json](./196584-offroad-simulator-online-4x4.json) |
 | Offroad Thunder | 3702 | [3702-offroad-thunder.json](./3702-offroad-thunder.json) |
 | Offsea | 235761 | [235761-offsea.json](./235761-offsea.json) |
 | Offshore Fishing | 387692 | [387692-offshore-fishing.json](./387692-offshore-fishing.json) |
@@ -2319,6 +2320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overheat: Kitchen Chaos | 324134 | [324134-overheat-kitchen-chaos.json](./324134-overheat-kitchen-chaos.json) |
 | Overhills | 279108 | [279108-overhills.json](./279108-overhills.json) |
 | Overhours | 253599 | [253599-overhours.json](./253599-overhours.json) |
+| Overkill | 196561 | [196561-overkill.json](./196561-overkill.json) |
 | Overkill | 272013 | [272013-overkill.json](./272013-overkill.json) |
 | Overkill | 95402 | [95402-overkill.json](./95402-overkill.json) |
 | Overkill VR | 25946 | [25946-overkill-vr.json](./25946-overkill-vr.json) |
