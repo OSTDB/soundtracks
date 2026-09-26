@@ -1397,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP 173 - Nightshift Survival Breach Containment | 102739 | [102739-scp-173-nightshift-survival-breach-containment.json](./102739-scp-173-nightshift-survival-breach-containment.json) |
 | SCP 3008 | 231390 | [231390-scp-3008.json](./231390-scp-3008.json) |
 | SCP Area 8 | 82390 | [82390-scp-area-8.json](./82390-scp-area-8.json) |
+| SCP Clicker | 183859 | [183859-scp-clicker.json](./183859-scp-clicker.json) |
 | SCP Observer | 188680 | [188680-scp-observer.json](./188680-scp-observer.json) |
 | SCP Operations | 244720 | [244720-scp-operations.json](./244720-scp-operations.json) |
 | SCP-002 | 316791 | [316791-scp-002.json](./316791-scp-002.json) |
@@ -3221,6 +3222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shed | 91728 | [91728-shed.json](./91728-shed.json) |
 | ShedHorror | 308549 | [308549-shedhorror.json](./308549-shedhorror.json) |
 | Sheep | 229705 | [229705-sheep.json](./229705-sheep.json) |
+| Sheep Annoyer | 183886 | [183886-sheep-annoyer.json](./183886-sheep-annoyer.json) |
 | Sheep Dog | 410445 | [410445-sheep-dog.json](./410445-sheep-dog.json) |
 | Sheep Game | 99636 | [99636-sheep-game.json](./99636-sheep-game.json) |
 | Sheep Gather | 290994 | [290994-sheep-gather.json](./290994-sheep-gather.json) |
@@ -5960,6 +5962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smove | 58502 | [58502-smove.json](./58502-smove.json) |
 | Smudge Adventure | 282128 | [282128-smudge-adventure.json](./282128-smudge-adventure.json) |
 | Smudged | 184597 | [184597-smudged.json](./184597-smudged.json) |
+| Smug.le | 183875 | [183875-smug-le.json](./183875-smug-le.json) |
 | SmugForce | 229132 | [229132-smugforce.json](./229132-smugforce.json) |
 | Smuggler's Cove | 294730 | [294730-smugglers-cove.json](./294730-smugglers-cove.json) |
 | Smuggler's Run | 248594 | [248594-smugglers-run.json](./248594-smugglers-run.json) |
@@ -6442,6 +6445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soaked! | 52854 | [52854-soaked.json](./52854-soaked.json) |
 | Soap | 360732 | [360732-soap.json](./360732-soap.json) |
 | Soap Killer | 399075 | [399075-soap-killer.json](./399075-soap-killer.json) |
+| Soap: Bubbles vs. microbes | 183888 | [183888-soap-bubbles-vs-microbes.json](./183888-soap-bubbles-vs-microbes.json) |
 | Soapy Tales | 392763 | [392763-soapy-tales.json](./392763-soapy-tales.json) |
 | Soar | 236803 | [236803-soar.json](./236803-soar.json) |
 | Soar | 306951 | [306951-soar.json](./306951-soar.json) |
@@ -8237,6 +8241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Stranger | 252730 | [252730-space-stranger.json](./252730-space-stranger.json) |
 | Space Strider | 275093 | [275093-space-strider.json](./275093-space-strider.json) |
 | Space Subtraction | 310971 | [310971-space-subtraction.json](./310971-space-subtraction.json) |
+| Space Survival | 183863 | [183863-space-survival.json](./183863-space-survival.json) |
 | Space Survival | 32932 | [32932-space-survival.json](./32932-space-survival.json) |
 | Space Survivor | 245334 | [245334-space-survivor.json](./245334-space-survivor.json) |
 | Space Swap 110% | 392950 | [392950-space-swap-110.json](./392950-space-swap-110.json) |
@@ -10986,6 +10991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Zombie Shooting 3D | 398420 | [398420-stickman-zombie-shooting-3d.json](./398420-stickman-zombie-shooting-3d.json) |
 | Stickman: Kill the Cook | 214056 | [214056-stickman-kill-the-cook.json](./214056-stickman-kill-the-cook.json) |
 | Stickman's Arena | 220862 | [220862-stickmans-arena.json](./220862-stickmans-arena.json) |
+| Stickmen Castle Defense | 183882 | [183882-stickmen-castle-defense.json](./183882-stickmen-castle-defense.json) |
 | StickMUD | 228427 | [228427-stickmud.json](./228427-stickmud.json) |
 | Sticks | 68800 | [68800-sticks.json](./68800-sticks.json) |
 | Sticks Aim Trainer | 294818 | [294818-sticks-aim-trainer.json](./294818-sticks-aim-trainer.json) |
@@ -13306,6 +13312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mr. Kake | 55480 | [55480-super-mr-kake.json](./55480-super-mr-kake.json) |
 | Super Mumtaz Bros. | 183613 | [183613-super-mumtaz-bros.json](./183613-super-mumtaz-bros.json) |
 | Super Mustache | 24616 | [24616-super-mustache.json](./24616-super-mustache.json) |
+| Super Nanaru | 183864 | [183864-super-nanaru.json](./183864-super-nanaru.json) |
 | Super Nantucket World | 312875 | [312875-super-nantucket-world.json](./312875-super-nantucket-world.json) |
 | Super Nario World | 316627 | [316627-super-nario-world.json](./316627-super-nario-world.json) |
 | Super Naruto: Clash of Ninja! 4 | 249292 | [249292-super-naruto-clash-of-ninja-4.json](./249292-super-naruto-clash-of-ninja-4.json) |
