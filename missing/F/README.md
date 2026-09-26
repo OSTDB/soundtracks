@@ -3795,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Heroes | 311581 | [311581-forest-heroes.json](./311581-forest-heroes.json) |
 | Forest Hills: The Last Year | 292310 | [292310-forest-hills-the-last-year.json](./292310-forest-hills-the-last-year.json) |
 | Forest Horror | 252687 | [252687-forest-horror.json](./252687-forest-horror.json) |
+| Forest Island | 227246 | [227246-forest-island.json](./227246-forest-island.json) |
 | Forest Journeys | 295311 | [295311-forest-journeys.json](./295311-forest-journeys.json) |
 | Forest Jump | 270171 | [270171-forest-jump.json](./270171-forest-jump.json) |
 | Forest Keeper Lookout | 383950 | [383950-forest-keeper-lookout.json](./383950-forest-keeper-lookout.json) |
