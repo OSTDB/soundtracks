@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empires & Allies | 60553 | [60553-empires-and-allies.json](./60553-empires-and-allies.json) |
 | Empires Apart: Chinese Civilization Pack | 169311 | [169311-empires-apart-chinese-civilization-pack.json](./169311-empires-apart-chinese-civilization-pack.json) |
 | Empires II: What Would You Risk for World Conquest? | 100215 | [100215-empires-ii-what-would-you-risk-for-world-conquest.json](./100215-empires-ii-what-would-you-risk-for-world-conquest.json) |
+| Empires in Arms | 215076 | [215076-empires-in-arms.json](./215076-empires-in-arms.json) |
 | Empires of Creation | 34179 | [34179-empires-of-creation.json](./34179-empires-of-creation.json) |
 | Empires of Europe 1100 | 356158 | [356158-empires-of-europe-1100.json](./356158-empires-of-europe-1100.json) |
 | Empires of Europe 1700 | 356164 | [356164-empires-of-europe-1700.json](./356164-empires-of-europe-1700.json) |
