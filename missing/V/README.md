@@ -1699,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VTube Studio: VNet Multiplayer Collab | 246921 | [246921-vtube-studio-vnet-multiplayer-collab.json](./246921-vtube-studio-vnet-multiplayer-collab.json) |
 | VTuber Battle: It’s Not About Subscribers! It’s All About Power! | 331888 | [331888-vtuber-battle-it-s-not-about-subscribers-it-s-all-about-power.json](./331888-vtuber-battle-it-s-not-about-subscribers-it-s-all-about-power.json) |
 | VTuber Beats | 163862 | [163862-vtuber-beats.json](./163862-vtuber-beats.json) |
+| Vtuber Simulator | 192193 | [192193-vtuber-simulator.json](./192193-vtuber-simulator.json) |
 | VTumbler | 319718 | [319718-vtumbler.json](./319718-vtumbler.json) |
 | Vulcan 3055 | 110331 | [110331-vulcan-3055.json](./110331-vulcan-3055.json) |
 | Vulcan Sacrifice | 53880 | [53880-vulcan-sacrifice.json](./53880-vulcan-sacrifice.json) |
