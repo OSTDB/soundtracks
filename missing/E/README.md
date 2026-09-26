@@ -1618,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entangled | 105321 | [105321-entangled.json](./105321-entangled.json) |
 | Entangled | 344564 | [344564-entangled.json](./344564-entangled.json) |
 | Entangled | 344565 | [344565-entangled.json](./344565-entangled.json) |
+| Entangled Souls | 223404 | [223404-entangled-souls.json](./223404-entangled-souls.json) |
 | Entanglement | 11339 | [11339-entanglement.json](./11339-entanglement.json) |
 | Entanglement | 212913 | [212913-entanglement.json](./212913-entanglement.json) |
 | Entasy Online | 230242 | [230242-entasy-online.json](./230242-entasy-online.json) |
