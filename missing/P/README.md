@@ -4081,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plutonium T6 Multiplayer | 315118 | [315118-plutonium-t6-multiplayer.json](./315118-plutonium-t6-multiplayer.json) |
 | Ply | 178950 | [178950-ply.json](./178950-ply.json) |
 | PMC: Net Zero | 377277 | [377277-pmc-net-zero.json](./377277-pmc-net-zero.json) |
+| Pmcman | 178433 | [178433-pmcman.json](./178433-pmcman.json) |
 | Pneuma: Breath of Life | 9178 | [9178-pneuma-breath-of-life.json](./9178-pneuma-breath-of-life.json) |
 | Pneumatic Ball | 288360 | [288360-pneumatic-ball.json](./288360-pneumatic-ball.json) |
 | Pnevmo-Capsula | 220345 | [220345-pnevmo-capsula.json](./220345-pnevmo-capsula.json) |
