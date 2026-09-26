@@ -1267,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Innocent: The Point of No Return | 65738 | [65738-team-innocent-the-point-of-no-return.json](./65738-team-innocent-the-point-of-no-return.json) |
 | Team Kart Fortress | 371246 | [371246-team-kart-fortress.json](./371246-team-kart-fortress.json) |
 | Team Kirby Clash Deluxe | 28126 | [28126-team-kirby-clash-deluxe.json](./28126-team-kirby-clash-deluxe.json) |
+| Team Manager | 211706 | [211706-team-manager.json](./211706-team-manager.json) |
 | Team Of Robbers | 117773 | [117773-team-of-robbers.json](./117773-team-of-robbers.json) |
 | Team of Titans | 302376 | [302376-team-of-titans.json](./302376-team-of-titans.json) |
 | Team Rise | 258219 | [258219-team-rise.json](./258219-team-rise.json) |
@@ -3244,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Damned Forest | 69200 | [69200-the-damned-forest.json](./69200-the-damned-forest.json) |
 | The Dance of Maple Leaves | 346670 | [346670-the-dance-of-maple-leaves.json](./346670-the-dance-of-maple-leaves.json) |
 | The Dance of the Little Water Drops | 104669 | [104669-the-dance-of-the-little-water-drops.json](./104669-the-dance-of-the-little-water-drops.json) |
+| The Dancer: Definitive Edition | 211666 | [211666-the-dancer-definitive-edition.json](./211666-the-dancer-definitive-edition.json) |
 | The Daring Entrepreneur | 185516 | [185516-the-daring-entrepreneur.json](./185516-the-daring-entrepreneur.json) |
 | The Dark | 140576 | [140576-the-dark.json](./140576-the-dark.json) |
 | The Dark Arrival: Shadows of the Past | 343269 | [343269-the-dark-arrival-shadows-of-the-past.json](./343269-the-dark-arrival-shadows-of-the-past.json) |
@@ -3849,6 +3851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Firebrand | 295246 | [295246-the-firebrand.json](./295246-the-firebrand.json) |
 | The Firemen | 42621 | [42621-the-firemen.json](./42621-the-firemen.json) |
 | The Firm | 23407 | [23407-the-firm.json](./23407-the-firm.json) |
+| The First Backrooms | 211663 | [211663-the-first-backrooms.json](./211663-the-first-backrooms.json) |
 | The First Berserker: Khazan - Deluxe Edition | 338028 | [338028-the-first-berserker-khazan-deluxe-edition.json](./338028-the-first-berserker-khazan-deluxe-edition.json) |
 | The First Berserker: Khazan - Deluxe Edition Upgrade | 338029 | [338029-the-first-berserker-khazan-deluxe-edition-upgrade.json](./338029-the-first-berserker-khazan-deluxe-edition-upgrade.json) |
 | The First Descendant: Season 1 | 314481 | [314481-the-first-descendant-season-1.json](./314481-the-first-descendant-season-1.json) |
@@ -4749,6 +4752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Krypton Factor | 12955 | [12955-the-krypton-factor.json](./12955-the-krypton-factor.json) |
 | The Kutar's Tabipero | 340039 | [340039-the-kutars-tabipero.json](./340039-the-kutars-tabipero.json) |
 | The Kwanstone Project | 214751 | [214751-the-kwanstone-project.json](./214751-the-kwanstone-project.json) |
+| The Kynge's Gambit | 211710 | [211710-the-kynges-gambit.json](./211710-the-kynges-gambit.json) |
 | The Labyrinth | 312740 | [312740-the-labyrinth.json](./312740-the-labyrinth.json) |
 | The Labyrinth Adventure of Demons | 195255 | [195255-the-labyrinth-adventure-of-demons.json](./195255-the-labyrinth-adventure-of-demons.json) |
 | The Labyrinth of Grisaia | 11457 | [11457-the-labyrinth-of-grisaia.json](./11457-the-labyrinth-of-grisaia.json) |
@@ -5824,6 +5828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Old Man Club | 59987 | [59987-the-old-man-club.json](./59987-the-old-man-club.json) |
 | The Old Man’s Will | 390660 | [390660-the-old-man-s-will.json](./390660-the-old-man-s-will.json) |
 | The Old Mill | 184040 | [184040-the-old-mill.json](./184040-the-old-mill.json) |
+| The Old Ones | 211695 | [211695-the-old-ones.json](./211695-the-old-ones.json) |
 | The Old Realms | 356162 | [356162-the-old-realms.json](./356162-the-old-realms.json) |
 | The Old Ways | 356756 | [356756-the-old-ways.json](./356756-the-old-ways.json) |
 | The Oldest Edda | 190721 | [190721-the-oldest-edda.json](./190721-the-oldest-edda.json) |
@@ -6588,6 +6593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silent Islands | 211939 | [211939-the-silent-islands.json](./211939-the-silent-islands.json) |
 | The Silent One | 347763 | [347763-the-silent-one.json](./347763-the-silent-one.json) |
 | The Silent Suite | 330923 | [330923-the-silent-suite.json](./330923-the-silent-suite.json) |
+| The Silk Road of the Eastern Dynasty | 211665 | [211665-the-silk-road-of-the-eastern-dynasty.json](./211665-the-silk-road-of-the-eastern-dynasty.json) |
 | The Silver Age | 209556 | [209556-the-silver-age.json](./209556-the-silver-age.json) |
 | The Silver Case: Deluxe Edition | 51921 | [51921-the-silver-case-deluxe-edition.json](./51921-the-silver-case-deluxe-edition.json) |
 | The Silver Lining | 50807 | [50807-the-silver-lining.json](./50807-the-silver-lining.json) |
@@ -7940,6 +7946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Is No Next Stop | 391879 | [391879-there-is-no-next-stop.json](./391879-there-is-no-next-stop.json) |
 | There Is No Turning Back! | 111004 | [111004-there-is-no-turning-back.json](./111004-there-is-no-turning-back.json) |
 | There Is Nothing Here | 179174 | [179174-there-is-nothing-here.json](./179174-there-is-nothing-here.json) |
+| There is Still Hope | 211669 | [211669-there-is-still-hope.json](./211669-there-is-still-hope.json) |
 | There the Light | 117846 | [117846-there-the-light.json](./117846-there-the-light.json) |
 | There Was a Caveman | 34339 | [34339-there-was-a-caveman.json](./34339-there-was-a-caveman.json) |
 | There Was a Mixup at the Factory! | 227810 | [227810-there-was-a-mixup-at-the-factory.json](./227810-there-was-a-mixup-at-the-factory.json) |
@@ -12466,6 +12473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Space | 220829 | [220829-truck-space.json](./220829-truck-space.json) |
 | Truck Trials 2 | 175379 | [175379-truck-trials-2.json](./175379-truck-trials-2.json) |
 | Truck Truck | 157197 | [157197-truck-truck.json](./157197-truck-truck.json) |
+| Truck World: Driving School | 211709 | [211709-truck-world-driving-school.json](./211709-truck-world-driving-school.json) |
 | Trucker | 25425 | [25425-trucker.json](./25425-trucker.json) |
 | Truckin' It! | 382338 | [382338-truckin-it.json](./382338-truckin-it.json) |
 | Trucking | 114961 | [114961-trucking.json](./114961-trucking.json) |
@@ -13065,6 +13073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twister Mania | 20216 | [20216-twister-mania.json](./20216-twister-mania.json) |
 | Twister Road | 125251 | [125251-twister-road.json](./125251-twister-road.json) |
 | Twistingo: Bird Paradise - Collector's Edition | 236204 | [236204-twistingo-bird-paradise-collectors-edition.json](./236204-twistingo-bird-paradise-collectors-edition.json) |
+| Twistingo: Collector's Edition | 211708 | [211708-twistingo-collectors-edition.json](./211708-twistingo-collectors-edition.json) |
 | TwistoMaze | 132186 | [132186-twistomaze.json](./132186-twistomaze.json) |
 | TwisTouch | 262344 | [262344-twistouch.json](./262344-twistouch.json) |
 | Twists of My Life | 122798 | [122798-twists-of-my-life.json](./122798-twists-of-my-life.json) |
