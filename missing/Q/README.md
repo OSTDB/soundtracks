@@ -139,10 +139,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: Death's Dominion | 202932 | [202932-quake-deaths-dominion.json](./202932-quake-deaths-dominion.json) |
 | Quake: Episode 5 - Dimension of the Past | 159171 | [159171-quake-episode-5-dimension-of-the-past.json](./159171-quake-episode-5-dimension-of-the-past.json) |
 | Quake: Five Rivers Land | 196706 | [196706-quake-five-rivers-land.json](./196706-quake-five-rivers-land.json) |
+| Quake: Func Jam 3 | 196568 | [196568-quake-func-jam-3.json](./196568-quake-func-jam-3.json) |
 | Quake: January Jump Jam | 202930 | [202930-quake-january-jump-jam.json](./202930-quake-january-jump-jam.json) |
 | Quake: January Jump Jam 2 | 202928 | [202928-quake-january-jump-jam-2.json](./202928-quake-january-jump-jam-2.json) |
 | Quake: Mission Pack 1 - Scourge of Armagon | 15760 | [15760-quake-mission-pack-1-scourge-of-armagon.json](./15760-quake-mission-pack-1-scourge-of-armagon.json) |
 | Quake: Mission Pack 2 - Dissolution of Eternity | 15759 | [15759-quake-mission-pack-2-dissolution-of-eternity.json](./15759-quake-mission-pack-2-dissolution-of-eternity.json) |
+| Quake: Prelude to Apocalypse & Mordrigor's Demise | 196580 | [196580-quake-prelude-to-apocalypse-and-mordrigors-demise.json](./196580-quake-prelude-to-apocalypse-and-mordrigors-demise.json) |
 | Quake: Raven Keep | 142275 | [142275-quake-raven-keep.json](./142275-quake-raven-keep.json) |
 | Quake: Realms of Tiddles | 202929 | [202929-quake-realms-of-tiddles.json](./202929-quake-realms-of-tiddles.json) |
 | Quake: Retro Jam Egyptian | 196725 | [196725-quake-retro-jam-egyptian.json](./196725-quake-retro-jam-egyptian.json) |
