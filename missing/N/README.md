@@ -981,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neolithic Dawn | 224671 | [224671-neolithic-dawn.json](./224671-neolithic-dawn.json) |
 | Neomorph | 127679 | [127679-neomorph.json](./127679-neomorph.json) |
 | Neon | 172056 | [172056-neon.json](./172056-neon.json) |
+| Neon | 183338 | [183338-neon.json](./183338-neon.json) |
 | Neon | 78351 | [78351-neon.json](./78351-neon.json) |
 | Neon Abyss | 116100 | [116100-neon-abyss.json](./116100-neon-abyss.json) |
 | Neon Abyss 2 | 325279 | [325279-neon-abyss-2.json](./325279-neon-abyss-2.json) |
