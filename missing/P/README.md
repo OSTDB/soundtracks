@@ -887,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Snap Shot | 323928 | [323928-paranormal-snap-shot.json](./323928-paranormal-snap-shot.json) |
 | Paranormal Syndrome 3 | 151527 | [151527-paranormal-syndrome-3.json](./151527-paranormal-syndrome-3.json) |
 | Paranormal Syndrome: R Dolls Edition | 261219 | [261219-paranormal-syndrome-r-dolls-edition.json](./261219-paranormal-syndrome-r-dolls-edition.json) |
+| Paranormal Tales | 222843 | [222843-paranormal-tales.json](./222843-paranormal-tales.json) |
 | Paranormal Territory 2 | 91974 | [91974-paranormal-territory-2.json](./91974-paranormal-territory-2.json) |
 | Paranormal Torment | 345546 | [345546-paranormal-torment.json](./345546-paranormal-torment.json) |
 | Paranormal Watcher | 335082 | [335082-paranormal-watcher.json](./335082-paranormal-watcher.json) |
@@ -2179,6 +2180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phi: The Broken Strings | 332599 | [332599-phi-the-broken-strings.json](./332599-phi-the-broken-strings.json) |
 | Phi's Star Challenge | 393099 | [393099-phis-star-challenge.json](./393099-phis-star-challenge.json) |
 | Phibos | 243394 | [243394-phibos.json](./243394-phibos.json) |
+| Phil Alone | 222828 | [222828-phil-alone.json](./222828-phil-alone.json) |
 | Phil of the Future | 49387 | [49387-phil-of-the-future.json](./49387-phil-of-the-future.json) |
 | Phil's Contract | 312184 | [312184-phils-contract.json](./312184-phils-contract.json) |
 | Phileas Fogg's Balloon Battles | 98235 | [98235-phileas-foggs-balloon-battles.json](./98235-phileas-foggs-balloon-battles.json) |
@@ -5404,6 +5406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Press Any Button | 143596 | [143596-press-any-button.json](./143596-press-any-button.json) |
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
 | Press Inc. | 108275 | [108275-press-inc.json](./108275-press-inc.json) |
+| Press W to Move Forward | 222823 | [222823-press-w-to-move-forward.json](./222823-press-w-to-move-forward.json) |
 | Press X to Not Die | 13619 | [13619-press-x-to-not-die.json](./13619-press-x-to-not-die.json) |
 | Press X to Not Die: Special Edition | 53472 | [53472-press-x-to-not-die-special-edition.json](./53472-press-x-to-not-die-special-edition.json) |
 | Press Your Luck | 394523 | [394523-press-your-luck.json](./394523-press-your-luck.json) |
@@ -5810,6 +5813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Mahjong Tsuwamono GB | 97870 | [97870-pro-mahjong-tsuwamono-gb.json](./97870-pro-mahjong-tsuwamono-gb.json) |
 | Pro Mahjong Tsuwamono GB 2 | 97868 | [97868-pro-mahjong-tsuwamono-gb-2.json](./97868-pro-mahjong-tsuwamono-gb-2.json) |
 | Pro Mahjong Tsuwamono GBA | 97866 | [97866-pro-mahjong-tsuwamono-gba.json](./97866-pro-mahjong-tsuwamono-gba.json) |
+| Pro Moves Soccer | 222830 | [222830-pro-moves-soccer.json](./222830-pro-moves-soccer.json) |
 | Pro My Happy Wheel Farm Phonics Animals & Puppies | 102615 | [102615-pro-my-happy-wheel-farm-phonics-animals-and-puppies.json](./102615-pro-my-happy-wheel-farm-phonics-animals-and-puppies.json) |
 | Pro Office Calculator | 142457 | [142457-pro-office-calculator.json](./142457-pro-office-calculator.json) |
 | Pro Pain Labs | 166191 | [166191-pro-pain-labs.json](./166191-pro-pain-labs.json) |
@@ -6511,6 +6515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychonauts 2: Motherlobe Edition | 207394 | [207394-psychonauts-2-motherlobe-edition.json](./207394-psychonauts-2-motherlobe-edition.json) |
 | Psychophonies: What Ghosts Say | 238438 | [238438-psychophonies-what-ghosts-say.json](./238438-psychophonies-what-ghosts-say.json) |
 | Psychopomp Gold | 319765 | [319765-psychopomp-gold.json](./319765-psychopomp-gold.json) |
+| Psychosis: Teaser | 222863 | [222863-psychosis-teaser.json](./222863-psychosis-teaser.json) |
 | Psychosomnium | 84249 | [84249-psychosomnium.json](./84249-psychosomnium.json) |
 | Psychotic Adventures Origins | 138795 | [138795-psychotic-adventures-origins.json](./138795-psychotic-adventures-origins.json) |
 | Psychoverse City | 158163 | [158163-psychoverse-city.json](./158163-psychoverse-city.json) |
