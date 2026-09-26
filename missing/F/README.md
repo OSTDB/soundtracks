@@ -1586,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feudal Friends | 239587 | [239587-feudal-friends.json](./239587-feudal-friends.json) |
 | Feudalism | 234914 | [234914-feudalism.json](./234914-feudalism.json) |
 | Feudalism II | 234915 | [234915-feudalism-ii.json](./234915-feudalism-ii.json) |
+| Fever Frenzy | 209420 | [209420-fever-frenzy.json](./209420-fever-frenzy.json) |
 | Fey | 388975 | [388975-fey.json](./388975-fey.json) |
 | Fey: Distant Daydream | 189201 | [189201-fey-distant-daydream.json](./189201-fey-distant-daydream.json) |
 | Feydome: Fairy Dress Up | 272323 | [272323-feydome-fairy-dress-up.json](./272323-feydome-fairy-dress-up.json) |
@@ -1620,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fibula | 253945 | [253945-fibula.json](./253945-fibula.json) |
 | Fickle Allies | 417495 | [417495-fickle-allies.json](./417495-fickle-allies.json) |
 | FickleFlame | 367472 | [367472-fickleflame.json](./367472-fickleflame.json) |
+| Fiction Fixers: The Curse of Oz & Adventures in Wonderland | 209421 | [209421-fiction-fixers-the-curse-of-oz-and-adventures-in-wonderland.json](./209421-fiction-fixers-the-curse-of-oz-and-adventures-in-wonderland.json) |
 | Fiction.Colors | 341152 | [341152-fiction-colors.json](./341152-fiction-colors.json) |
 | Fiddle | 80534 | [80534-fiddle.json](./80534-fiddle.json) |
 | Fiddlebert's Folly | 313476 | [313476-fiddleberts-folly.json](./313476-fiddleberts-folly.json) |
@@ -1724,8 +1726,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 13 | 2153 | [2153-fifa-soccer-13.json](./2153-fifa-soccer-13.json) |
 | FIFA Soccer 13 | 240414 | [240414-fifa-soccer-13.json](./240414-fifa-soccer-13.json) |
 | FIFA Soccer 2002 | 49326 | [49326-fifa-soccer-2002.json](./49326-fifa-soccer-2002.json) |
+| FIFA Soccer 2002: Major League Soccer | 209422 | [209422-fifa-soccer-2002-major-league-soccer.json](./209422-fifa-soccer-2002-major-league-soccer.json) |
+| FIFA Soccer 2003 | 209425 | [209425-fifa-soccer-2003.json](./209425-fifa-soccer-2003.json) |
 | FIFA Soccer 2003 | 229956 | [229956-fifa-soccer-2003.json](./229956-fifa-soccer-2003.json) |
 | FIFA Soccer 64 | 10682 | [10682-fifa-soccer-64.json](./10682-fifa-soccer-64.json) |
+| FIFA Soccer 96 | 209424 | [209424-fifa-soccer-96.json](./209424-fifa-soccer-96.json) |
 | FIFA Soccer 96 | 240232 | [240232-fifa-soccer-96.json](./240232-fifa-soccer-96.json) |
 | FIFA Soccer 96 | 240234 | [240234-fifa-soccer-96.json](./240234-fifa-soccer-96.json) |
 | FIFA Soccer 96 | 240236 | [240236-fifa-soccer-96.json](./240236-fifa-soccer-96.json) |
@@ -1798,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight'N Rage | 59573 | [59573-fightn-rage.json](./59573-fightn-rage.json) |
 | FightBit | 250956 | [250956-fightbit.json](./250956-fightbit.json) |
 | FightBots | 259859 | [259859-fightbots.json](./259859-fightbots.json) |
+| Fighter Ace | 209427 | [209427-fighter-ace.json](./209427-fighter-ace.json) |
 | Fighter Ace 3.5 | 50130 | [50130-fighter-ace-3-5.json](./50130-fighter-ace-3-5.json) |
 | Fighter Aces: Sky Dominance | 328531 | [328531-fighter-aces-sky-dominance.json](./328531-fighter-aces-sky-dominance.json) |
 | Fighter Bomber | 12589 | [12589-fighter-bomber.json](./12589-fighter-bomber.json) |
@@ -1905,6 +1911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Blockade | 203567 | [203567-final-blockade.json](./203567-final-blockade.json) |
 | Final Blow | 12098 | [12098-final-blow.json](./12098-final-blow.json) |
 | Final Bravely | 29899 | [29899-final-bravely.json](./29899-final-bravely.json) |
+| Final Conflict | 209429 | [209429-final-conflict.json](./209429-final-conflict.json) |
 | Final Crisis: Terrestrial Defense Police | 141644 | [141644-final-crisis-terrestrial-defense-police.json](./141644-final-crisis-terrestrial-defense-police.json) |
 | Final Cut: Death on the Silver Screen | 98383 | [98383-final-cut-death-on-the-silver-screen.json](./98383-final-cut-death-on-the-silver-screen.json) |
 | Final Cut: Encore | 98381 | [98381-final-cut-encore.json](./98381-final-cut-encore.json) |
@@ -2564,11 +2571,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisher-Price: Time To Play - Pet Shop | 283677 | [283677-fisher-price-time-to-play-pet-shop.json](./283677-fisher-price-time-to-play-pet-shop.json) |
 | Fisherman | 326247 | [326247-fisherman.json](./326247-fisherman.json) |
 | Fisherman's House | 172749 | [172749-fishermans-house.json](./172749-fishermans-house.json) |
+| Fisherman's Paradise II | 209430 | [209430-fishermans-paradise-ii.json](./209430-fishermans-paradise-ii.json) |
 | Fisherman's Peril | 143492 | [143492-fishermans-peril.json](./143492-fishermans-peril.json) |
 | Fishery Tycoon | 212475 | [212475-fishery-tycoon.json](./212475-fishery-tycoon.json) |
 | Fishes and Barrels | 244797 | [244797-fishes-and-barrels.json](./244797-fishes-and-barrels.json) |
 | Fishhead 3: The Search For a Heart of Gold | 191256 | [191256-fishhead-3-the-search-for-a-heart-of-gold.json](./191256-fishhead-3-the-search-for-a-heart-of-gold.json) |
 | Fishie Fishie | 79878 | [79878-fishie-fishie.json](./79878-fishie-fishie.json) |
+| Fishing | 209435 | [209435-fishing.json](./209435-fishing.json) |
 | Fishing | 246456 | [246456-fishing.json](./246456-fishing.json) |
 | Fishing Adventure | 299454 | [299454-fishing-adventure.json](./299454-fishing-adventure.json) |
 | Fishing Clash 2020: Fish Catching Games | 135263 | [135263-fishing-clash-2020-fish-catching-games.json](./135263-fishing-clash-2020-fish-catching-games.json) |
@@ -2576,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Diary: King of Fishing | 196286 | [196286-fishing-diary-king-of-fishing.json](./196286-fishing-diary-king-of-fishing.json) |
 | Fishing Ducks | 221701 | [221701-fishing-ducks.json](./221701-fishing-ducks.json) |
 | Fishing Echoes | 264670 | [264670-fishing-echoes.json](./264670-fishing-echoes.json) |
+| Fishing Fanatic | 209436 | [209436-fishing-fanatic.json](./209436-fishing-fanatic.json) |
 | Fishing Fighters | 146836 | [146836-fishing-fighters.json](./146836-fishing-fighters.json) |
 | Fishing Fishing | 303050 | [303050-fishing-fishing.json](./303050-fishing-fishing.json) |
 | Fishing Food | 180230 | [180230-fishing-food.json](./180230-fishing-food.json) |
@@ -5175,6 +5185,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fukakutei Sekai no Tantei Shinshi Virginal Vol. 2 | 122876 | [122876-fukakutei-sekai-no-tantei-shinshi-virginal-vol-2.json](./122876-fukakutei-sekai-no-tantei-shinshi-virginal-vol-2.json) |
 | Fukakutei Sekai no Tantei Shinshi: Akugyou Futaasa no Jiken File | 122879 | [122879-fukakutei-sekai-no-tantei-shinshi-akugyou-futaasa-no-jiken-file.json](./122879-fukakutei-sekai-no-tantei-shinshi-akugyou-futaasa-no-jiken-file.json) |
 | Fukoumori: Moririi no Unhappy Project | 269677 | [269677-fukoumori-moririi-no-unhappy-project.json](./269677-fukoumori-moririi-no-unhappy-project.json) |
+| Fuksoft | 209439 | [209439-fuksoft.json](./209439-fuksoft.json) |
+| Fuksoft II | 209440 | [209440-fuksoft-ii.json](./209440-fuksoft-ii.json) |
 | FukTopia 3 | 173833 | [173833-fuktopia-3.json](./173833-fuktopia-3.json) |
 | FukTopia 5 | 220591 | [220591-fuktopia-5.json](./220591-fuktopia-5.json) |
 | Fukufuku no Shima | 59373 | [59373-fukufuku-no-shima.json](./59373-fukufuku-no-shima.json) |
@@ -5504,6 +5516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusionist | 250945 | [250945-fusionist.json](./250945-fusionist.json) |
 | Fussball Manager 25 | 335346 | [335346-fussball-manager-25.json](./335346-fussball-manager-25.json) |
 | Fussball Manager 26 | 392424 | [392424-fussball-manager-26.json](./392424-fussball-manager-26.json) |
+| Fussball Manager Bundesliga 2001 | 209417 | [209417-fussball-manager-bundesliga-2001.json](./209417-fussball-manager-bundesliga-2001.json) |
 | Futa Battle TD | 196143 | [196143-futa-battle-td.json](./196143-futa-battle-td.json) |
 | Futa Heroism | 235707 | [235707-futa-heroism.json](./235707-futa-heroism.json) |
 | Futa Jigsaw Dating | 368126 | [368126-futa-jigsaw-dating.json](./368126-futa-jigsaw-dating.json) |
