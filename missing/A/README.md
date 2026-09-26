@@ -536,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AashMans Party Mix | 356897 | [356897-aashmans-party-mix.json](./356897-aashmans-party-mix.json) |
 | Aatral | 264106 | [264106-aatral.json](./264106-aatral.json) |
 | Aatral Origins | 346238 | [346238-aatral-origins.json](./346238-aatral-origins.json) |
+| Aavegotchi: Gotchiverse | 195528 | [195528-aavegotchi-gotchiverse.json](./195528-aavegotchi-gotchiverse.json) |
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
 | Abaddon | 305287 | [305287-abaddon.json](./305287-abaddon.json) |
 | Abadox: The Deadly Inner War | 7903 | [7903-abadox-the-deadly-inner-war.json](./7903-abadox-the-deadly-inner-war.json) |
@@ -603,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Above | 406287 | [406287-above.json](./406287-above.json) |
 | Above | 91138 | [91138-above.json](./91138-above.json) |
 | Above Eden | 400942 | [400942-above-eden.json](./400942-above-eden.json) |
+| Above the Law | 195529 | [195529-above-the-law.json](./195529-above-the-law.json) |
 | Above the Skies | 166623 | [166623-above-the-skies.json](./166623-above-the-skies.json) |
 | Above the Snow | 349373 | [349373-above-the-snow.json](./349373-above-the-snow.json) |
 | Abra-cooking-dabra | 345039 | [345039-abra-cooking-dabra.json](./345039-abra-cooking-dabra.json) |
@@ -1625,6 +1627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Land Sea | 79610 | [79610-air-land-sea.json](./79610-air-land-sea.json) |
 | Air Legends | 77273 | [77273-air-legends.json](./77273-air-legends.json) |
 | Air Master Hanemaru | 346747 | [346747-air-master-hanemaru.json](./346747-air-master-hanemaru.json) |
+| Air Museum VR | 195480 | [195480-air-museum-vr.json](./195480-air-museum-vr.json) |
 | Air Offense Command | 258449 | [258449-air-offense-command.json](./258449-air-offense-command.json) |
 | Air patrol | 40768 | [40768-air-patrol.json](./40768-air-patrol.json) |
 | Air Port Panic | 300008 | [300008-air-port-panic.json](./300008-air-port-panic.json) |
@@ -2365,6 +2368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliya's Awakening: Dooge 2042 | 341887 | [341887-aliyas-awakening-dooge-2042.json](./341887-aliyas-awakening-dooge-2042.json) |
 | Alizarin Tetris | 93028 | [93028-alizarin-tetris.json](./93028-alizarin-tetris.json) |
 | Alkali | 154412 | [154412-alkali.json](./154412-alkali.json) |
+| Alkaline | 195492 | [195492-alkaline.json](./195492-alkaline.json) |
 | Alkey the Brave | 226214 | [226214-alkey-the-brave.json](./226214-alkey-the-brave.json) |
 | Alkimya: House of Wisdom | 415155 | [415155-alkimya-house-of-wisdom.json](./415155-alkimya-house-of-wisdom.json) |
 | All 9 Lives | 408271 | [408271-all-9-lives.json](./408271-all-9-lives.json) |
@@ -4165,6 +4169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Survivor | 366291 | [366291-apocalypse-survivor.json](./366291-apocalypse-survivor.json) |
 | Apocalypse Traffic | 245260 | [245260-apocalypse-traffic.json](./245260-apocalypse-traffic.json) |
 | Apocalypse Z: Survival | 129803 | [129803-apocalypse-z-survival.json](./129803-apocalypse-z-survival.json) |
+| Apocalypse: Floodgates | 195530 | [195530-apocalypse-floodgates.json](./195530-apocalypse-floodgates.json) |
 | Apocalypse: The Game | 61615 | [61615-apocalypse-the-game.json](./61615-apocalypse-the-game.json) |
 | Apocalypter | 378318 | [378318-apocalypter.json](./378318-apocalypter.json) |
 | Apocalyptic | 205656 | [205656-apocalyptic.json](./205656-apocalyptic.json) |
@@ -6769,6 +6774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axizon Labs: Zombies | 132213 | [132213-axizon-labs-zombies.json](./132213-axizon-labs-zombies.json) |
 | Axo Away | 184065 | [184065-axo-away.json](./184065-axo-away.json) |
 | Axol's Quest | 369126 | [369126-axols-quest.json](./369126-axols-quest.json) |
+| Axolotl | 195486 | [195486-axolotl.json](./195486-axolotl.json) |
 | Axolotl | 267997 | [267997-axolotl.json](./267997-axolotl.json) |
 | Axolotl Kingdom | 245940 | [245940-axolotl-kingdom.json](./245940-axolotl-kingdom.json) |
 | Axolotl Swim | 389113 | [389113-axolotl-swim.json](./389113-axolotl-swim.json) |
