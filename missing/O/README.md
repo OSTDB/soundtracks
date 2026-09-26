@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octavio Camacho | 247537 | [247537-octavio-camacho.json](./247537-octavio-camacho.json) |
 | Octillery Vs. Collection | 399055 | [399055-octillery-vs-collection.json](./399055-octillery-vs-collection.json) |
 | Octo Curse | 251015 | [251015-octo-curse.json](./251015-octo-curse.json) |
+| Octo Vinctum: Saga of the Galactic Stardom War | 197124 | [197124-octo-vinctum-saga-of-the-galactic-stardom-war.json](./197124-octo-vinctum-saga-of-the-galactic-stardom-war.json) |
 | Octo's Balloon Challenge | 301022 | [301022-octos-balloon-challenge.json](./301022-octos-balloon-challenge.json) |
 | October Nightmares | 272341 | [272341-october-nightmares.json](./272341-october-nightmares.json) |
 | OctoCraps | 365169 | [365169-octocraps.json](./365169-octocraps.json) |
@@ -1281,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Jump | 413644 | [413644-only-jump.json](./413644-only-jump.json) |
 | Only Jump! | 260756 | [260756-only-jump.json](./260756-only-jump.json) |
 | Only Kitty Cat Up | 395669 | [395669-only-kitty-cat-up.json](./395669-only-kitty-cat-up.json) |
+| Only Lead Can Stop Them | 197115 | [197115-only-lead-can-stop-them.json](./197115-only-lead-can-stop-them.json) |
 | Only One | 328599 | [328599-only-one.json](./328599-only-one.json) |
 | Only One Mosquito | 181354 | [181354-only-one-mosquito.json](./181354-only-one-mosquito.json) |
 | Only One Night | 394222 | [394222-only-one-night.json](./394222-only-one-night.json) |
@@ -1564,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbia | 88028 | [88028-orbia.json](./88028-orbia.json) |
 | Orbifall | 379875 | [379875-orbifall.json](./379875-orbifall.json) |
 | Orbion | 370331 | [370331-orbion.json](./370331-orbion.json) |
+| Orbisia | 197129 | [197129-orbisia.json](./197129-orbisia.json) |
 | Orbit | 315019 | [315019-orbit.json](./315019-orbit.json) |
 | Orbit Angler | 297586 | [297586-orbit-angler.json](./297586-orbit-angler.json) |
 | Orbit Drop | 120339 | [120339-orbit-drop.json](./120339-orbit-drop.json) |
