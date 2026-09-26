@@ -2174,6 +2174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chakravyuh | 133981 | [133981-chakravyuh.json](./133981-chakravyuh.json) |
 | Chakusin Melody Damon | 283823 | [283823-chakusin-melody-damon.json](./283823-chakusin-melody-damon.json) |
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
+| Chalk Up! | 175184 | [175184-chalk-up.json](./175184-chalk-up.json) |
 | Challange of the Five Realms | 46576 | [46576-challange-of-the-five-realms.json](./46576-challange-of-the-five-realms.json) |
 | Challenge 100 | 359419 | [359419-challenge-100.json](./359419-challenge-100.json) |
 | Challenge Dream Cat | 179997 | [179997-challenge-dream-cat.json](./179997-challenge-dream-cat.json) |
@@ -2619,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess 432 | 403662 | [403662-chess-432.json](./403662-chess-432.json) |
 | Chess and Dungeons | 186195 | [186195-chess-and-dungeons.json](./186195-chess-and-dungeons.json) |
 | Chess Arena | 373648 | [373648-chess-arena.json](./373648-chess-arena.json) |
+| Chess Boss | 175197 | [175197-chess-boss.json](./175197-chess-boss.json) |
 | Chess Brain: Dark Troops | 157156 | [157156-chess-brain-dark-troops.json](./157156-chess-brain-dark-troops.json) |
 | Chess Cartoons | 196826 | [196826-chess-cartoons.json](./196826-chess-cartoons.json) |
 | Chess Cats | 248068 | [248068-chess-cats.json](./248068-chess-cats.json) |
@@ -2698,6 +2700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChessWorlds | 409781 | [409781-chessworlds.json](./409781-chessworlds.json) |
 | Chest | 301274 | [301274-chest.json](./301274-chest.json) |
 | Chest Mate | 195240 | [195240-chest-mate.json](./195240-chest-mate.json) |
+| Chest Quest | 175189 | [175189-chest-quest.json](./175189-chest-quest.json) |
 | Chester | 193414 | [193414-chester.json](./193414-chester.json) |
 | Chester Cheetah: Too Cool to Fool | 46255 | [46255-chester-cheetah-too-cool-to-fool.json](./46255-chester-cheetah-too-cool-to-fool.json) |
 | Chester Cheetah: Wild Wild Quest | 46283 | [46283-chester-cheetah-wild-wild-quest.json](./46283-chester-cheetah-wild-wild-quest.json) |
@@ -5637,6 +5640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie | 380085 | [380085-cookie.json](./380085-cookie.json) |
 | Cookie & Bibi 3 | 39643 | [39643-cookie-and-bibi-3.json](./39643-cookie-and-bibi-3.json) |
 | Cookie Baker | 106361 | [106361-cookie-baker.json](./106361-cookie-baker.json) |
+| Cookie Champion | 175187 | [175187-cookie-champion.json](./175187-cookie-champion.json) |
 | Cookie Clicker | 215855 | [215855-cookie-clicker.json](./215855-cookie-clicker.json) |
 | Cookie Clicker Collector | 373222 | [373222-cookie-clicker-collector.json](./373222-cookie-clicker-collector.json) |
 | Cookie Clicker PSP | 397263 | [397263-cookie-clicker-psp.json](./397263-cookie-clicker-psp.json) |
@@ -8003,6 +8007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut Cut Buffet | 29753 | [29753-cut-cut-buffet.json](./29753-cut-cut-buffet.json) |
 | Cut Grass | 188392 | [188392-cut-grass.json](./188392-cut-grass.json) |
 | Cut Me Deeply | 229159 | [229159-cut-me-deeply.json](./229159-cut-me-deeply.json) |
+| Cut Off | 175192 | [175192-cut-off.json](./175192-cut-off.json) |
 | Cut Off From The World | 245318 | [245318-cut-off-from-the-world.json](./245318-cut-off-from-the-world.json) |
 | Cut Short | 179693 | [179693-cut-short.json](./179693-cut-short.json) |
 | Cut Smash Wrap | 127771 | [127771-cut-smash-wrap.json](./127771-cut-smash-wrap.json) |
