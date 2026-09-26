@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm a King | 151557 | [151557-im-a-king.json](./151557-im-a-king.json) |
 | I’m a Love Interest in My Childhood Friend’s Halloween Story | 179674 | [179674-i-m-a-love-interest-in-my-childhood-friend-s-halloween-story.json](./179674-i-m-a-love-interest-in-my-childhood-friend-s-halloween-story.json) |
 | I’m a Wizard, But I Dig | 384526 | [384526-i-m-a-wizard-but-i-dig.json](./384526-i-m-a-wizard-but-i-dig.json) |
+| I'm Borr | 196604 | [196604-im-borr.json](./196604-im-borr.json) |
 | I'm Calling the Cops! | 128997 | [128997-im-calling-the-cops.json](./128997-im-calling-the-cops.json) |
 | I'm Determined to Make 3A: 01/65 | 296934 | [296934-im-determined-to-make-3a-01-65.json](./296934-im-determined-to-make-3a-01-65.json) |
 | I'm In Charge | 249216 | [249216-im-in-charge.json](./249216-im-in-charge.json) |
@@ -1633,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Runner Bot | 297639 | [297639-infinity-runner-bot.json](./297639-infinity-runner-bot.json) |
 | Infinity Ship | 401818 | [401818-infinity-ship.json](./401818-infinity-ship.json) |
 | Infinity Slime Dungeon | 321754 | [321754-infinity-slime-dungeon.json](./321754-infinity-slime-dungeon.json) |
+| Infinity Souls | 196576 | [196576-infinity-souls.json](./196576-infinity-souls.json) |
 | Infinity Strash: Dragon Quest - The Adventure of Dai | 137928 | [137928-infinity-strash-dragon-quest-the-adventure-of-dai.json](./137928-infinity-strash-dragon-quest-the-adventure-of-dai.json) |
 | Infinity Strash: Dragon Quest - The Adventure of Dai: Digital Deluxe Edition | 262330 | [262330-infinity-strash-dragon-quest-the-adventure-of-dai-digital-deluxe-edition.json](./262330-infinity-strash-dragon-quest-the-adventure-of-dai-digital-deluxe-edition.json) |
 | Infinity Toss | 239629 | [239629-infinity-toss.json](./239629-infinity-toss.json) |
