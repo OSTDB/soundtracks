@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Fortune 2: Triple Star | 220580 | [220580-fantastic-fortune-2-triple-star.json](./220580-fantastic-fortune-2-triple-star.json) |
 | Fantastic Fossils | 62148 | [62148-fantastic-fossils.json](./62148-fantastic-fossils.json) |
 | Fantastic Four | 136849 | [136849-fantastic-four.json](./136849-fantastic-four.json) |
+| Fantastic Four | 220090 | [220090-fantastic-four.json](./220090-fantastic-four.json) |
 | Fantastic Four: Rise of the Silver Surfer | 197930 | [197930-fantastic-four-rise-of-the-silver-surfer.json](./197930-fantastic-four-rise-of-the-silver-surfer.json) |
 | Fantastic Frolic | 301260 | [301260-fantastic-frolic.json](./301260-fantastic-frolic.json) |
 | Fantastic Honey | 154400 | [154400-fantastic-honey.json](./154400-fantastic-honey.json) |
@@ -3596,6 +3597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football | 199023 | [199023-football.json](./199023-football.json) |
 | Football | 284440 | [284440-football.json](./284440-football.json) |
 | Football | 346756 | [346756-football.json](./346756-football.json) |
+| Football 2019 | 220064 | [220064-football-2019.json](./220064-football-2019.json) |
 | Football Academy | 124015 | [124015-football-academy.json](./124015-football-academy.json) |
 | Football Betting | 167246 | [167246-football-betting.json](./167246-football-betting.json) |
 | Football Bus Battle 2021 | 153978 | [153978-football-bus-battle-2021.json](./153978-football-bus-battle-2021.json) |
@@ -3658,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Russian 20!8 | 86306 | [86306-football-russian-20-8.json](./86306-football-russian-20-8.json) |
 | Football Saga Fantasista | 244801 | [244801-football-saga-fantasista.json](./244801-football-saga-fantasista.json) |
 | Football Showdown 2 | 240870 | [240870-football-showdown-2.json](./240870-football-showdown-2.json) |
+| Football Simulation Shoot Game | 220060 | [220060-football-simulation-shoot-game.json](./220060-football-simulation-shoot-game.json) |
 | Football Star Life 23/24 | 260152 | [260152-football-star-life-23-24.json](./260152-football-star-life-23-24.json) |
 | Football Stars Legend 24 | 261888 | [261888-football-stars-legend-24.json](./261888-football-stars-legend-24.json) |
 | Football Stars: Head Ball Soccer Co-op Battle | 328535 | [328535-football-stars-head-ball-soccer-co-op-battle.json](./328535-football-stars-head-ball-soccer-co-op-battle.json) |
