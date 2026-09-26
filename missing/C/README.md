@@ -1643,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatDog on Parade | 325082 | [325082-catdog-on-parade.json](./325082-catdog-on-parade.json) |
 | Catechesis | 276693 | [276693-catechesis.json](./276693-catechesis.json) |
 | Category Challenge | 246955 | [246955-category-challenge.json](./246955-category-challenge.json) |
+| Category I: Shisenjou no Survivor | 221682 | [221682-category-i-shisenjou-no-survivor.json](./221682-category-i-shisenjou-no-survivor.json) |
 | Catena | 342033 | [342033-catena.json](./342033-catena.json) |
 | Cateran | 96767 | [96767-cateran.json](./96767-cateran.json) |
 | Caterpilla | 83266 | [83266-caterpilla.json](./83266-caterpilla.json) |
@@ -2010,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Age of Ashes - Fellow Edition | 199640 | [199640-century-age-of-ashes-fellow-edition.json](./199640-century-age-of-ashes-fellow-edition.json) |
 | Century: Age of Ashes - First Flight Edition | 199632 | [199632-century-age-of-ashes-first-flight-edition.json](./199632-century-age-of-ashes-first-flight-edition.json) |
 | Century: Age of Ashes - Frost Heir Edition | 251014 | [251014-century-age-of-ashes-frost-heir-edition.json](./251014-century-age-of-ashes-frost-heir-edition.json) |
+| Century: Age of Ashes - Harbinger Edition | 221702 | [221702-century-age-of-ashes-harbinger-edition.json](./221702-century-age-of-ashes-harbinger-edition.json) |
 | Century: Age of Ashes - Heroes of the Continent Bundle | 286546 | [286546-century-age-of-ashes-heroes-of-the-continent-bundle.json](./286546-century-age-of-ashes-heroes-of-the-continent-bundle.json) |
 | Century: Age of Ashes - Rimeblood Premium Edition | 259607 | [259607-century-age-of-ashes-rimeblood-premium-edition.json](./259607-century-age-of-ashes-rimeblood-premium-edition.json) |
 | Century: Age of Ashes - Stormraiser Premium Edition | 218451 | [218451-century-age-of-ashes-stormraiser-premium-edition.json](./218451-century-age-of-ashes-stormraiser-premium-edition.json) |
@@ -2351,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase the Sun | 221981 | [221981-chase-the-sun.json](./221981-chase-the-sun.json) |
 | Chase: Animatronics | 232697 | [232697-chase-animatronics.json](./232697-chase-animatronics.json) |
 | Chase: Hollywood Stunt Driver | 5774 | [5774-chase-hollywood-stunt-driver.json](./5774-chase-hollywood-stunt-driver.json) |
+| Chased | 221684 | [221684-chased.json](./221684-chased.json) |
 | Chased Around the World | 211963 | [211963-chased-around-the-world.json](./211963-chased-around-the-world.json) |
 | Chaseway | 179586 | [179586-chaseway.json](./179586-chaseway.json) |
 | Chasing Bottaflies | 286567 | [286567-chasing-bottaflies.json](./286567-chasing-bottaflies.json) |
@@ -2617,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chevrolet Camaro Wild Ride 3D | 84575 | [84575-chevrolet-camaro-wild-ride-3d.json](./84575-chevrolet-camaro-wild-ride-3d.json) |
 | Chew Your Food | 395886 | [395886-chew-your-food.json](./395886-chew-your-food.json) |
 | Chewing | 113741 | [113741-chewing.json](./113741-chewing.json) |
+| Chewing Gum Tests | 221685 | [221685-chewing-gum-tests.json](./221685-chewing-gum-tests.json) |
 | Chex | 232978 | [232978-chex.json](./232978-chex.json) |
 | Cheyenne | 25957 | [25957-cheyenne.json](./25957-cheyenne.json) |
 | Chez Croggy | 264153 | [264153-chez-croggy.json](./264153-chez-croggy.json) |
@@ -6163,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crack in the Sky | 271216 | [271216-crack-in-the-sky.json](./271216-crack-in-the-sky.json) |
 | Crack it Up! | 302384 | [302384-crack-it-up.json](./302384-crack-it-up.json) |
 | Crack it! | 278708 | [278708-crack-it.json](./278708-crack-it.json) |
+| Crack Life | 221666 | [221666-crack-life.json](./221666-crack-life.json) |
 | Crack Mountain | 398319 | [398319-crack-mountain.json](./398319-crack-mountain.json) |
 | Crack the Pack | 411003 | [411003-crack-the-pack.json](./411003-crack-the-pack.json) |
 | Crack'ed | 11298 | [11298-cracked.json](./11298-cracked.json) |
@@ -6634,6 +6639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crescent Creek: Survival Horror | 416812 | [416812-crescent-creek-survival-horror.json](./416812-crescent-creek-survival-horror.json) |
 | Crescent Loom | 134667 | [134667-crescent-loom.json](./134667-crescent-loom.json) |
 | Crescent Pale Mist | 21085 | [21085-crescent-pale-mist.json](./21085-crescent-pale-mist.json) |
+| Crescent Prism | 221664 | [221664-crescent-prism.json](./221664-crescent-prism.json) |
 | Crescent Quest: Y2K Home Expansion | 276850 | [276850-crescent-quest-y2k-home-expansion.json](./276850-crescent-quest-y2k-home-expansion.json) |
 | Crescent Satsujin Jiken: Hyena no Jijou | 273446 | [273446-crescent-satsujin-jiken-hyena-no-jijou.json](./273446-crescent-satsujin-jiken-hyena-no-jijou.json) |
 | Crescite | 262096 | [262096-crescite.json](./262096-crescite.json) |
@@ -7325,6 +7331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthulhu Saves Christmas | 124286 | [124286-cthulhu-saves-christmas.json](./124286-cthulhu-saves-christmas.json) |
 | Cthulhu Saves the World | 8427 | [8427-cthulhu-saves-the-world.json](./8427-cthulhu-saves-the-world.json) |
 | Cthulhu Tower | 266750 | [266750-cthulhu-tower.json](./266750-cthulhu-tower.json) |
+| Cthulhu: An Unspeakable Mod | 221668 | [221668-cthulhu-an-unspeakable-mod.json](./221668-cthulhu-an-unspeakable-mod.json) |
 | Cthulhu: Frozen Nightmare | 135269 | [135269-cthulhu-frozen-nightmare.json](./135269-cthulhu-frozen-nightmare.json) |
 | Cthulhu's Reach: Devil Reef | 258013 | [258013-cthulhus-reach-devil-reef.json](./258013-cthulhus-reach-devil-reef.json) |
 | Cthuloop | 381119 | [381119-cthuloop.json](./381119-cthuloop.json) |
