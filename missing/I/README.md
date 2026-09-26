@@ -847,6 +847,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IKOU: Intelligenztrainer fur Kids | 269634 | [269634-ikou-intelligenztrainer-fur-kids.json](./269634-ikou-intelligenztrainer-fur-kids.json) |
 | Iktsua | 329930 | [329930-iktsua.json](./329930-iktsua.json) |
 | Ikun Go Go Go | 390628 | [390628-ikun-go-go-go.json](./390628-ikun-go-go-go.json) |
+| Ikusa Megami | 208288 | [208288-ikusa-megami.json](./208288-ikusa-megami.json) |
+| Ikusa Megami 2: Ushinawareshi Kioku he no Chinkonka | 208285 | [208285-ikusa-megami-2-ushinawareshi-kioku-he-no-chinkonka.json](./208285-ikusa-megami-2-ushinawareshi-kioku-he-no-chinkonka.json) |
+| Ikusa Megami Verita | 208286 | [208286-ikusa-megami-verita.json](./208286-ikusa-megami-verita.json) |
 | Ikusaaaaaaan! | 151697 | [151697-ikusaaaaaaan.json](./151697-ikusaaaaaaan.json) |
 | Ikuzo | 253923 | [253923-ikuzo.json](./253923-ikuzo.json) |
 | Il | 159732 | [159732-il.json](./159732-il.json) |
@@ -2054,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interpose | 93337 | [93337-interpose.json](./93337-interpose.json) |
 | Interred | 405690 | [405690-interred.json](./405690-interred.json) |
 | Interrogation 091 | 184592 | [184592-interrogation-091.json](./184592-interrogation-091.json) |
+| Interrogation Simulator | 208333 | [208333-interrogation-simulator.json](./208333-interrogation-simulator.json) |
 | Interrogation: You Will Be Deceived | 115118 | [115118-interrogation-you-will-be-deceived.json](./115118-interrogation-you-will-be-deceived.json) |
 | Intersection | 299751 | [299751-intersection.json](./299751-intersection.json) |
 | InterSection | 34237 | [34237-intersection.json](./34237-intersection.json) |
