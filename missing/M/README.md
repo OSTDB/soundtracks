@@ -1274,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maplus: Portable Navi | 59369 | [59369-maplus-portable-navi.json](./59369-maplus-portable-navi.json) |
 | Mappa Imperium | 196711 | [196711-mappa-imperium.json](./196711-mappa-imperium.json) |
 | Mapping at Warpspeed | 257421 | [257421-mapping-at-warpspeed.json](./257421-mapping-at-warpspeed.json) |
+| Mappy | 218428 | [218428-mappy.json](./218428-mappy.json) |
 | Mappy | 239157 | [239157-mappy.json](./239157-mappy.json) |
 | Mappy | 2710 | [2710-mappy.json](./2710-mappy.json) |
 | Mappy | 293754 | [293754-mappy.json](./293754-mappy.json) |
@@ -4439,6 +4440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Monkey | 40389 | [40389-mighty-monkey.json](./40389-mighty-monkey.json) |
 | Mighty Monster Mayhem | 29622 | [29622-mighty-monster-mayhem.json](./29622-mighty-monster-mayhem.json) |
 | Mighty Morphin Power Rangers | 3324 | [3324-mighty-morphin-power-rangers.json](./3324-mighty-morphin-power-rangers.json) |
+| Mighty Morphin Power Rangers Game Watch | 218431 | [218431-mighty-morphin-power-rangers-game-watch.json](./218431-mighty-morphin-power-rangers-game-watch.json) |
 | Mighty Morphin Power Rangers: Rita's Rewind | 305016 | [305016-mighty-morphin-power-rangers-ritas-rewind.json](./305016-mighty-morphin-power-rangers-ritas-rewind.json) |
 | Mighty Mouse Cheese Hunt | 334115 | [334115-mighty-mouse-cheese-hunt.json](./334115-mighty-mouse-cheese-hunt.json) |
 | Mighty Mulan | 66940 | [66940-mighty-mulan.json](./66940-mighty-mulan.json) |
@@ -7172,6 +7174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Fat's Chopstick Challenge | 410441 | [410441-mr-fats-chopstick-challenge.json](./410441-mr-fats-chopstick-challenge.json) |
 | Mr. Fishbones | 185118 | [185118-mr-fishbones.json](./185118-mr-fishbones.json) |
 | Mr. Fluffykins' Great Sorting Adventure | 97707 | [97707-mr-fluffykins-great-sorting-adventure.json](./97707-mr-fluffykins-great-sorting-adventure.json) |
+| Mr. Go! Extra | 218419 | [218419-mr-go-extra.json](./218419-mr-go-extra.json) |
 | Mr. Goemon | 38580 | [38580-mr-goemon.json](./38580-mr-goemon.json) |
 | Mr. Gold: Tooyama no Kinsan Space Chou | 41317 | [41317-mr-gold-tooyama-no-kinsan-space-chou.json](./41317-mr-gold-tooyama-no-kinsan-space-chou.json) |
 | Mr. Golf | 57050 | [57050-mr-golf.json](./57050-mr-golf.json) |
