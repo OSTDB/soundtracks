@@ -3170,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit of the Lord | 389728 | [389728-pit-of-the-lord.json](./389728-pit-of-the-lord.json) |
 | Pit Panic | 401839 | [401839-pit-panic.json](./401839-pit-panic.json) |
 | Pit Pioneers | 391153 | [391153-pit-pioneers.json](./391153-pit-pioneers.json) |
+| Pit Rush | 183382 | [183382-pit-rush.json](./183382-pit-rush.json) |
 | Pit Stop Racing: Club Vs. Club | 251662 | [251662-pit-stop-racing-club-vs-club.json](./251662-pit-stop-racing-club-vs-club.json) |
 | Pit Stop Racing: Manager | 234612 | [234612-pit-stop-racing-manager.json](./234612-pit-stop-racing-manager.json) |
 | Pitball | 20723 | [20723-pitball.json](./20723-pitball.json) |
@@ -3208,6 +3209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pivross | 96125 | [96125-pivross.json](./96125-pivross.json) |
 | Piworld | 318224 | [318224-piworld.json](./318224-piworld.json) |
 | Pix Arts Masters Tennis | 335083 | [335083-pix-arts-masters-tennis.json](./335083-pix-arts-masters-tennis.json) |
+| Pix Hop | 183359 | [183359-pix-hop.json](./183359-pix-hop.json) |
 | Pix! - Virtual Pet Widget Game | 97137 | [97137-pix-virtual-pet-widget-game.json](./97137-pix-virtual-pet-widget-game.json) |
 | Pix3D | 84819 | [84819-pix3d.json](./84819-pix3d.json) |
 | Pixadom | 317582 | [317582-pixadom.json](./317582-pixadom.json) |
