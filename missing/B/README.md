@@ -3892,6 +3892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Tornado | 39582 | [39582-blazing-tornado.json](./39582-blazing-tornado.json) |
 | Blazing Trail | 293100 | [293100-blazing-trail.json](./293100-blazing-trail.json) |
 | Blazing War | 203915 | [203915-blazing-war.json](./203915-blazing-war.json) |
+| Blazted VR | 207778 | [207778-blazted-vr.json](./207778-blazted-vr.json) |
 | Bleach vs Naruto | 228437 | [228437-bleach-vs-naruto.json](./228437-bleach-vs-naruto.json) |
 | Bleach: Blade Battlers | 72983 | [72983-bleach-blade-battlers.json](./72983-bleach-blade-battlers.json) |
 | Bleach: Erabareshi Tamashi | 43533 | [43533-bleach-erabareshi-tamashi.json](./43533-bleach-erabareshi-tamashi.json) |
