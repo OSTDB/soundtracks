@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| S Force | 184411 | [184411-s-force.json](./184411-s-force.json) |
 | S Mahjong 2 | 97722 | [97722-s-mahjong-2.json](./97722-s-mahjong-2.json) |
 | S-Copter | 76653 | [76653-s-copter.json](./76653-s-copter.json) |
 | S. Cargo | 275916 | [275916-s-cargo.json](./275916-s-cargo.json) |
@@ -2150,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selena's Charm 2: Enchanted Garden | 417511 | [417511-selenas-charm-2-enchanted-garden.json](./417511-selenas-charm-2-enchanted-garden.json) |
 | Selene | 337167 | [337167-selene.json](./337167-selene.json) |
 | Selene: Apoptosis - 18+ Adult Only Patch | 263438 | [263438-selene-apoptosis-18-adult-only-patch.json](./263438-selene-apoptosis-18-adult-only-patch.json) |
+| Selene's Labyrinth | 184389 | [184389-selenes-labyrinth.json](./184389-selenes-labyrinth.json) |
 | Selene's Nightmare | 153850 | [153850-selenes-nightmare.json](./153850-selenes-nightmare.json) |
 | Selene's Unbearable Night | 258414 | [258414-selenes-unbearable-night.json](./258414-selenes-unbearable-night.json) |
 | Selenwald | 190988 | [190988-selenwald.json](./190988-selenwald.json) |
@@ -5410,11 +5412,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SleepWalker | 117718 | [117718-sleepwalker.json](./117718-sleepwalker.json) |
 | Sleepwalker Time to Wake Up | 61356 | [61356-sleepwalker-time-to-wake-up.json](./61356-sleepwalker-time-to-wake-up.json) |
 | Sleepwalking | 318388 | [318388-sleepwalking.json](./318388-sleepwalking.json) |
+| Sleepy Blocks | 184399 | [184399-sleepy-blocks.json](./184399-sleepy-blocks.json) |
 | Sleepy Girl | 343801 | [343801-sleepy-girl.json](./343801-sleepy-girl.json) |
 | Sleepy Head | 91373 | [91373-sleepy-head.json](./91373-sleepy-head.json) |
 | Sleepy Meadow | 350053 | [350053-sleepy-meadow.json](./350053-sleepy-meadow.json) |
 | Sleepy Sunday | 152834 | [152834-sleepy-sunday.json](./152834-sleepy-sunday.json) |
 | Sleeve Shock | 257956 | [257956-sleeve-shock.json](./257956-sleeve-shock.json) |
+| Slemmings | 184383 | [184383-slemmings.json](./184383-slemmings.json) |
 | Slender Hentai Edition | 173814 | [173814-slender-hentai-edition.json](./173814-slender-hentai-edition.json) |
 | Slender Man Retro | 356683 | [356683-slender-man-retro.json](./356683-slender-man-retro.json) |
 | Slender Man: Chapter 1 - Alone | 63821 | [63821-slender-man-chapter-1-alone.json](./63821-slender-man-chapter-1-alone.json) |
@@ -5471,6 +5475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Stars | 138045 | [138045-slide-stars.json](./138045-slide-stars.json) |
 | Slide to finish | 111477 | [111477-slide-to-finish.json](./111477-slide-to-finish.json) |
 | Slide to Solve | 329592 | [329592-slide-to-solve.json](./329592-slide-to-solve.json) |
+| Slide Together | 184401 | [184401-slide-together.json](./184401-slide-together.json) |
 | Slide Viking: Treasure's Path | 395664 | [395664-slide-viking-treasures-path.json](./395664-slide-viking-treasures-path.json) |
 | Slide! Throw! Snow Party | 379977 | [379977-slide-throw-snow-party.json](./379977-slide-throw-snow-party.json) |
 | SlideNGlide | 336015 | [336015-slidenglide.json](./336015-slidenglide.json) |
@@ -5484,6 +5489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slidetracked | 188952 | [188952-slidetracked.json](./188952-slidetracked.json) |
 | SlideWords | 88207 | [88207-slidewords.json](./88207-slidewords.json) |
 | Slidey Feet | 243635 | [243635-slidey-feet.json](./243635-slidey-feet.json) |
+| Sliding ground | 184373 | [184373-sliding-ground.json](./184373-sliding-ground.json) |
 | Sliding Puzzle 2018 | 104645 | [104645-sliding-puzzle-2018.json](./104645-sliding-puzzle-2018.json) |
 | Sliding Puzzle Blue | 107132 | [107132-sliding-puzzle-blue.json](./107132-sliding-puzzle-blue.json) |
 | Sliding Puzzle Space | 106551 | [106551-sliding-puzzle-space.json](./106551-sliding-puzzle-space.json) |
@@ -6616,6 +6622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Raiders | 188554 | [188554-sol-raiders.json](./188554-sol-raiders.json) |
 | Sol Sestancia | 310592 | [310592-sol-sestancia.json](./310592-sol-sestancia.json) |
 | Sol Source Online | 26718 | [26718-sol-source-online.json](./26718-sol-source-online.json) |
+| Sol Standard | 184412 | [184412-sol-standard.json](./184412-sol-standard.json) |
 | Sol-Rui: After Mini | 331104 | [331104-sol-rui-after-mini.json](./331104-sol-rui-after-mini.json) |
 | Sol: Enchant | 377703 | [377703-sol-enchant.json](./377703-sol-enchant.json) |
 | Sol: Last Light | 247448 | [247448-sol-last-light.json](./247448-sol-last-light.json) |
@@ -8079,6 +8086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Inversion Puzzle | 255720 | [255720-space-inversion-puzzle.json](./255720-space-inversion-puzzle.json) |
 | Space is Key | 243107 | [243107-space-is-key.json](./243107-space-is-key.json) |
 | Space is Key Christmas | 408824 | [408824-space-is-key-christmas.json](./408824-space-is-key-christmas.json) |
+| Space Is Limited | 184374 | [184374-space-is-limited.json](./184374-space-is-limited.json) |
 | Space is Red | 128573 | [128573-space-is-red.json](./128573-space-is-red.json) |
 | Space Is Red | 379341 | [379341-space-is-red.json](./379341-space-is-red.json) |
 | Space Jam: A New Legacy - Full Court Pinball | 227827 | [227827-space-jam-a-new-legacy-full-court-pinball.json](./227827-space-jam-a-new-legacy-full-court-pinball.json) |
@@ -9641,6 +9649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stacks: Space! | 238520 | [238520-stacks-space.json](./238520-stacks-space.json) |
 | Stacky Dash: Complete Edition | 333726 | [333726-stacky-dash-complete-edition.json](./333726-stacky-dash-complete-edition.json) |
 | Stacky Hero | 227866 | [227866-stacky-hero.json](./227866-stacky-hero.json) |
+| Stacky Spinners | 184386 | [184386-stacky-spinners.json](./184386-stacky-spinners.json) |
 | StackZap | 337983 | [337983-stackzap.json](./337983-stackzap.json) |
 | Stadium | 371967 | [371967-stadium.json](./371967-stadium.json) |
 | Stadium Cross | 123004 | [123004-stadium-cross.json](./123004-stadium-cross.json) |
@@ -13685,6 +13694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Turbo Sudoku | 110960 | [110960-super-turbo-sudoku.json](./110960-super-turbo-sudoku.json) |
 | Super Turrican | 191878 | [191878-super-turrican.json](./191878-super-turrican.json) |
 | Super Tutor: Spelling | 59376 | [59376-super-tutor-spelling.json](./59376-super-tutor-spelling.json) |
+| Super Tux Party | 184420 | [184420-super-tux-party.json](./184420-super-tux-party.json) |
 | Super Tyrone Land | 142464 | [142464-super-tyrone-land.json](./142464-super-tyrone-land.json) |
 | Super Ubie Land | 85530 | [85530-super-ubie-land.json](./85530-super-ubie-land.json) |
 | Super UDK & RU Country | 322792 | [322792-super-udk-and-ru-country.json](./322792-super-udk-and-ru-country.json) |
@@ -14068,6 +14078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive the Hill | 187524 | [187524-survive-the-hill.json](./187524-survive-the-hill.json) |
 | Survive the Hunt | 334209 | [334209-survive-the-hunt.json](./334209-survive-the-hunt.json) |
 | Survive the Labyrinth | 343833 | [343833-survive-the-labyrinth.json](./343833-survive-the-labyrinth.json) |
+| Survive the Mafia | 184378 | [184378-survive-the-mafia.json](./184378-survive-the-mafia.json) |
 | Survive the Orcs | 236795 | [236795-survive-the-orcs.json](./236795-survive-the-orcs.json) |
 | Survive the Swarm | 348784 | [348784-survive-the-swarm.json](./348784-survive-the-swarm.json) |
 | Survive the Troll | 219571 | [219571-survive-the-troll.json](./219571-survive-the-troll.json) |
