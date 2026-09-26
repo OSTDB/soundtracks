@@ -1524,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recruit One | 157707 | [157707-recruit-one.json](./157707-recruit-one.json) |
 | Recruits | 16626 | [16626-recruits.json](./16626-recruits.json) |
 | Rectangle Guy | 215905 | [215905-rectangle-guy.json](./215905-rectangle-guy.json) |
+| Rectanglez | 187837 | [187837-rectanglez.json](./187837-rectanglez.json) |
 | Rectangulong | 305842 | [305842-rectangulong.json](./305842-rectangulong.json) |
 | Rectifier: In Bloom | 351807 | [351807-rectifier-in-bloom.json](./351807-rectifier-in-bloom.json) |
 | Rectitude | 173224 | [173224-rectitude.json](./173224-rectitude.json) |
@@ -2462,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Arcade: Space Invaders | 220106 | [220106-retro-arcade-space-invaders.json](./220106-retro-arcade-space-invaders.json) |
 | Retro Asylum | 409559 | [409559-retro-asylum.json](./409559-retro-asylum.json) |
 | Retro Ball | 309465 | [309465-retro-ball.json](./309465-retro-ball.json) |
+| Retro Basketball Coach 2022 | 187831 | [187831-retro-basketball-coach-2022.json](./187831-retro-basketball-coach-2022.json) |
 | Retro Battle | 306533 | [306533-retro-battle.json](./306533-retro-battle.json) |
 | Retro Bowl | 141684 | [141684-retro-bowl.json](./141684-retro-bowl.json) |
 | Retro City Rampage DX | 15276 | [15276-retro-city-rampage-dx.json](./15276-retro-city-rampage-dx.json) |
