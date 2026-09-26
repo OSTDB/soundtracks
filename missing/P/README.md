@@ -1592,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pecky Clicker | 391192 | [391192-pecky-clicker.json](./391192-pecky-clicker.json) |
 | Pecos Bill | 210008 | [210008-pecos-bill.json](./210008-pecos-bill.json) |
 | Peculiar Fables: The Werebed | 186731 | [186731-peculiar-fables-the-werebed.json](./186731-peculiar-fables-the-werebed.json) |
+| Peculiar Tales of Mid-Lake Pavilion | 188934 | [188934-peculiar-tales-of-mid-lake-pavilion.json](./188934-peculiar-tales-of-mid-lake-pavilion.json) |
 | Pedal Rebel VR | 280750 | [280750-pedal-rebel-vr.json](./280750-pedal-rebel-vr.json) |
 | Pedal to the Metal | 214485 | [214485-pedal-to-the-metal.json](./214485-pedal-to-the-metal.json) |
 | Pedal Up! | 244809 | [244809-pedal-up.json](./244809-pedal-up.json) |
@@ -1662,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pen Fight | 233760 | [233760-pen-fight.json](./233760-pen-fight.json) |
 | Pen Guns | 210098 | [210098-pen-guns.json](./210098-pen-guns.json) |
 | Pen Island VR | 31169 | [31169-pen-island-vr.json](./31169-pen-island-vr.json) |
+| Pen Pal Princess | 188942 | [188942-pen-pal-princess.json](./188942-pen-pal-princess.json) |
 | Pen Pals | 145020 | [145020-pen-pals.json](./145020-pen-pals.json) |
 | Pen-chan | 385718 | [385718-pen-chan.json](./385718-pen-chan.json) |
 | Penalty Shooters Footy | 241061 | [241061-penalty-shooters-footy.json](./241061-penalty-shooters-footy.json) |
@@ -3724,6 +3726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planeta | 158054 | [158054-planeta.json](./158054-planeta.json) |
 | Planetary Annihilation: Titans | 18962 | [18962-planetary-annihilation-titans.json](./18962-planetary-annihilation-titans.json) |
 | Planetary Defense Force | 129787 | [129787-planetary-defense-force.json](./129787-planetary-defense-force.json) |
+| Planetary Deliver | 188929 | [188929-planetary-deliver.json](./188929-planetary-deliver.json) |
 | Planetary Escape: An Audiogame | 181380 | [181380-planetary-escape-an-audiogame.json](./181380-planetary-escape-an-audiogame.json) |
 | Planetary Field Team | 406125 | [406125-planetary-field-team.json](./406125-planetary-field-team.json) |
 | Planetary Gravity | 158174 | [158174-planetary-gravity.json](./158174-planetary-gravity.json) |
@@ -6426,6 +6429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Gemini | 122158 | [122158-project-gemini.json](./122158-project-gemini.json) |
 | Project: Genesis | 270195 | [270195-project-genesis.json](./270195-project-genesis.json) |
 | Project: Gorgon | 26836 | [26836-project-gorgon.json](./26836-project-gorgon.json) |
+| Project: Halloween | 188935 | [188935-project-halloween.json](./188935-project-halloween.json) |
 | Project: Haste | 365251 | [365251-project-haste.json](./365251-project-haste.json) |
 | Project: InfoGrid | 246923 | [246923-project-infogrid.json](./246923-project-infogrid.json) |
 | Project: Jurit | 385581 | [385581-project-jurit.json](./385581-project-jurit.json) |
@@ -7132,6 +7136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Atlas | 404402 | [404402-puzzle-atlas.json](./404402-puzzle-atlas.json) |
 | Puzzle Ball Z | 384509 | [384509-puzzle-ball-z.json](./384509-puzzle-ball-z.json) |
 | Puzzle Balls | 268478 | [268478-puzzle-balls.json](./268478-puzzle-balls.json) |
+| Puzzle Battler! Mirai | 188906 | [188906-puzzle-battler-mirai.json](./188906-puzzle-battler-mirai.json) |
 | Puzzle Bear | 121019 | [121019-puzzle-bear.json](./121019-puzzle-bear.json) |
 | Puzzle Block Blast | 221382 | [221382-puzzle-block-blast.json](./221382-puzzle-block-blast.json) |
 | Puzzle Block Wood - Wooden Block & Puzzle Game | 100936 | [100936-puzzle-block-wood-wooden-block-and-puzzle-game.json](./100936-puzzle-block-wood-wooden-block-and-puzzle-game.json) |
