@@ -1192,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Base Blitz | 327854 | [327854-base-blitz.json](./327854-base-blitz.json) |
 | Base Commander | 211425 | [211425-base-commander.json](./211425-base-commander.json) |
 | Base Craft: Desolate Survival | 196239 | [196239-base-craft-desolate-survival.json](./196239-base-craft-desolate-survival.json) |
+| Base Dash | 184932 | [184932-base-dash.json](./184932-base-dash.json) |
 | Base Defense | 127943 | [127943-base-defense.json](./127943-base-defense.json) |
 | Base Defense | 380002 | [380002-base-defense.json](./380002-base-defense.json) |
 | Base Defense VR | 167804 | [167804-base-defense-vr.json](./167804-base-defense-vr.json) |
@@ -2381,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before the Needle Lifts | 303754 | [303754-before-the-needle-lifts.json](./303754-before-the-needle-lifts.json) |
 | Before the Night | 189049 | [189049-before-the-night.json](./189049-before-the-night.json) |
 | Before the Sun Sets | 384619 | [384619-before-the-sun-sets.json](./384619-before-the-sun-sets.json) |
+| Before They Leave | 184918 | [184918-before-they-leave.json](./184918-before-they-leave.json) |
 | Before Times | 398359 | [398359-before-times.json](./398359-before-times.json) |
 | Before We Leave | 120878 | [120878-before-we-leave.json](./120878-before-we-leave.json) |
 | Before You Depart | 252817 | [252817-before-you-depart.json](./252817-before-you-depart.json) |
@@ -3710,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksmith Village | 156109 | [156109-blacksmith-village.json](./156109-blacksmith-village.json) |
 | Blacksmith War | 201803 | [201803-blacksmith-war.json](./201803-blacksmith-war.json) |
 | Blacksmith Weapon Merchant | 213987 | [213987-blacksmith-weapon-merchant.json](./213987-blacksmith-weapon-merchant.json) |
+| Blacksmith's Master | 184895 | [184895-blacksmiths-master.json](./184895-blacksmiths-master.json) |
 | Blackstead | 217828 | [217828-blackstead.json](./217828-blackstead.json) |
 | BlackSteel | 105301 | [105301-blacksteel.json](./105301-blacksteel.json) |
 | Blackstone | 83927 | [83927-blackstone.json](./83927-blackstone.json) |
@@ -6103,6 +6106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brewconomy | 372656 | [372656-brewconomy.json](./372656-brewconomy.json) |
 | Brewess | 245835 | [245835-brewess.json](./245835-brewess.json) |
 | Brewgether | 406123 | [406123-brewgether.json](./406123-brewgether.json) |
+| Brewing Drawings | 184891 | [184891-brewing-drawings.json](./184891-brewing-drawings.json) |
 | Brewpub Simulator | 213483 | [213483-brewpub-simulator.json](./213483-brewpub-simulator.json) |
 | Brews & Bastards | 265392 | [265392-brews-and-bastards.json](./265392-brews-and-bastards.json) |
 | Brewtopia | 319384 | [319384-brewtopia.json](./319384-brewtopia.json) |
@@ -6929,6 +6933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Bricks | 10855 | [10855-bunny-bricks.json](./10855-bunny-bricks.json) |
 | Bunny Bundle 2 | 196280 | [196280-bunny-bundle-2.json](./196280-bunny-bundle-2.json) |
 | Bunny Bunker | 312160 | [312160-bunny-bunker.json](./312160-bunny-bunker.json) |
+| Bunny Business | 184887 | [184887-bunny-business.json](./184887-bunny-business.json) |
 | Bunny Clicker | 320340 | [320340-bunny-clicker.json](./320340-bunny-clicker.json) |
 | Bunny E-shop | 306528 | [306528-bunny-e-shop.json](./306528-bunny-e-shop.json) |
 | Bunny Eureka | 221162 | [221162-bunny-eureka.json](./221162-bunny-eureka.json) |
