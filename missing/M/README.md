@@ -3491,6 +3491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Shake | 341465 | [341465-memory-shake.json](./341465-memory-shake.json) |
 | Memory Showdown | 365883 | [365883-memory-showdown.json](./365883-memory-showdown.json) |
 | Memory Stamps | 174223 | [174223-memory-stamps.json](./174223-memory-stamps.json) |
+| Memory Traces: Egypt | 221106 | [221106-memory-traces-egypt.json](./221106-memory-traces-egypt.json) |
 | Memory Train | 412986 | [412986-memory-train.json](./412986-memory-train.json) |
 | Memory Wonderland: Bond | 259083 | [259083-memory-wonderland-bond.json](./259083-memory-wonderland-bond.json) |
 | Memory: Match & Catch! | 58485 | [58485-memory-match-and-catch.json](./58485-memory-match-and-catch.json) |
@@ -4321,6 +4322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Blues | 173305 | [173305-midnight-blues.json](./173305-midnight-blues.json) |
 | Midnight Calling: Jeronimo | 102792 | [102792-midnight-calling-jeronimo.json](./102792-midnight-calling-jeronimo.json) |
 | Midnight Calling: Valeria - Collector's Edition | 166059 | [166059-midnight-calling-valeria-collectors-edition.json](./166059-midnight-calling-valeria-collectors-edition.json) |
+| Midnight Calling: Wise Dragon - Collector's Edition | 221136 | [221136-midnight-calling-wise-dragon-collectors-edition.json](./221136-midnight-calling-wise-dragon-collectors-edition.json) |
 | Midnight Castle | 294462 | [294462-midnight-castle.json](./294462-midnight-castle.json) |
 | Midnight Cemetery | 273457 | [273457-midnight-cemetery.json](./273457-midnight-cemetery.json) |
 | Midnight Club 3: DUB Edition Remix | 22583 | [22583-midnight-club-3-dub-edition-remix.json](./22583-midnight-club-3-dub-edition-remix.json) |
@@ -5313,6 +5315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Parts Side B: The Tantei Stories | 64672 | [64672-missing-parts-side-b-the-tantei-stories.json](./64672-missing-parts-side-b-the-tantei-stories.json) |
 | Missing Parts: The Tantei Stories | 64674 | [64674-missing-parts-the-tantei-stories.json](./64674-missing-parts-the-tantei-stories.json) |
 | Missing Picture | 315702 | [315702-missing-picture.json](./315702-missing-picture.json) |
+| Missing Pieces | 221124 | [221124-missing-pieces.json](./221124-missing-pieces.json) |
 | Missing Plane: Survival | 186854 | [186854-missing-plane-survival.json](./186854-missing-plane-survival.json) |
 | Missing Texture | 396242 | [396242-missing-texture.json](./396242-missing-texture.json) |
 | Missing: Itsuka Kitto | 257653 | [257653-missing-itsuka-kitto.json](./257653-missing-itsuka-kitto.json) |
@@ -6324,6 +6327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonsterTerritory | 167250 | [167250-monsterterritory.json](./167250-monsterterritory.json) |
 | Monsterthon | 39005 | [39005-monsterthon.json](./39005-monsterthon.json) |
 | Monsterwolf | 156009 | [156009-monsterwolf.json](./156009-monsterwolf.json) |
+| Monstir Iradicator | 221121 | [221121-monstir-iradicator.json](./221121-monstir-iradicator.json) |
 | Monstre de Coiffure | 207822 | [207822-monstre-de-coiffure.json](./207822-monstre-de-coiffure.json) |
 | Monstrix TCG Card Shop | 334083 | [334083-monstrix-tcg-card-shop.json](./334083-monstrix-tcg-card-shop.json) |
 | Monstro Maestro | 382763 | [382763-monstro-maestro.json](./382763-monstro-maestro.json) |
