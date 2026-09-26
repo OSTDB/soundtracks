@@ -456,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daniel Pintado's Land of Silence | 284999 | [284999-daniel-pintados-land-of-silence.json](./284999-daniel-pintados-land-of-silence.json) |
 | Danjon ni Deai o Motomeru no wa Machigatteiru Darou ka? Orario Rhapsodia | 77627 | [77627-danjon-ni-deai-o-motomeru-no-wa-machigatteiru-darou-ka-orario-rhapsodia.json](./77627-danjon-ni-deai-o-motomeru-no-wa-machigatteiru-darou-ka-orario-rhapsodia.json) |
 | Danju | 410238 | [410238-danju.json](./410238-danju.json) |
+| Dank Tomb | 177330 | [177330-dank-tomb.json](./177330-dank-tomb.json) |
 | Dankenstoned’s Bongster’s Gram Smoker’s Stankula | 403188 | [403188-dankenstoned-s-bongster-s-gram-smoker-s-stankula.json](./403188-dankenstoned-s-bongster-s-gram-smoker-s-stankula.json) |
 | Danko and treasure map | 29990 | [29990-danko-and-treasure-map.json](./29990-danko-and-treasure-map.json) |
 | DanLab's Golf | 315825 | [315825-danlabs-golf.json](./315825-danlabs-golf.json) |
@@ -1109,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day D: Time Mayhem | 52874 | [52874-day-d-time-mayhem.json](./52874-day-d-time-mayhem.json) |
 | Day Hard | 222413 | [222413-day-hard.json](./222413-day-hard.json) |
 | Day In Dementia | 103170 | [103170-day-in-dementia.json](./103170-day-in-dementia.json) |
+| Day in the Life | 177323 | [177323-day-in-the-life.json](./177323-day-in-the-life.json) |
 | Day of Defeat | 7551 | [7551-day-of-defeat.json](./7551-day-of-defeat.json) |
 | Day of Destruction | 81328 | [81328-day-of-destruction.json](./81328-day-of-destruction.json) |
 | Day of Judgment | 272394 | [272394-day-of-judgment.json](./272394-day-of-judgment.json) |
@@ -4002,6 +4004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dismal Signal | 271320 | [271320-dismal-signal.json](./271320-dismal-signal.json) |
 | Dismantled Director's Cut | 201695 | [201695-dismantled-directors-cut.json](./201695-dismantled-directors-cut.json) |
 | Dismaya | 180694 | [180694-dismaya.json](./180694-dismaya.json) |
+| Dismember Mind 2 | 177300 | [177300-dismember-mind-2.json](./177300-dismember-mind-2.json) |
 | Disney | 220082 | [220082-disney.json](./220082-disney.json) |
 | Disney 100 | 275590 | [275590-disney-100.json](./275590-disney-100.json) |
 | Disney City Girl | 62415 | [62415-disney-city-girl.json](./62415-disney-city-girl.json) |
@@ -4741,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doloc Town | 235852 | [235852-doloc-town.json](./235852-doloc-town.json) |
 | Dolor's Dwelling | 390006 | [390006-dolors-dwelling.json](./390006-dolors-dwelling.json) |
 | Dolphin Hustle | 200172 | [200172-dolphin-hustle.json](./200172-dolphin-hustle.json) |
+| Dolphin Island 2 | 177345 | [177345-dolphin-island-2.json](./177345-dolphin-island-2.json) |
 | Dolphin Olympics 2 | 159287 | [159287-dolphin-olympics-2.json](./159287-dolphin-olympics-2.json) |
 | Dolphin Paradise | 107676 | [107676-dolphin-paradise.json](./107676-dolphin-paradise.json) |
 | Dolphin Simulator | 107007 | [107007-dolphin-simulator.json](./107007-dolphin-simulator.json) |
@@ -7572,6 +7576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light: The Beast - Hero of Harran Bundle | 406276 | [406276-dying-light-the-beast-hero-of-harran-bundle.json](./406276-dying-light-the-beast-hero-of-harran-bundle.json) |
 | Dying Light: The Beast - Hunter Essentials | 406278 | [406278-dying-light-the-beast-hunter-essentials.json](./406278-dying-light-the-beast-hunter-essentials.json) |
 | Dying Night Sex with Zombi | 375952 | [375952-dying-night-sex-with-zombi.json](./375952-dying-night-sex-with-zombi.json) |
+| Dying of Thirst | 177298 | [177298-dying-of-thirst.json](./177298-dying-of-thirst.json) |
 | Dying Reign | 355560 | [355560-dying-reign.json](./355560-dying-reign.json) |
 | Dying: Reborn | 27569 | [27569-dying-reborn.json](./27569-dying-reborn.json) |
 | Dying: Reborn + Dying: Reborn VR Bundle | 217861 | [217861-dying-reborn-dying-reborn-vr-bundle.json](./217861-dying-reborn-dying-reborn-vr-bundle.json) |
