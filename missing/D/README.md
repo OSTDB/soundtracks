@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerbots | 58499 | [58499-dangerbots.json](./58499-dangerbots.json) |
 | Dangeresque Roomisode 1: Behind the Dangerdesque | 135845 | [135845-dangeresque-roomisode-1-behind-the-dangerdesque.json](./135845-dangeresque-roomisode-1-behind-the-dangerdesque.json) |
 | Dangeresque: The Roomisode Triungulate | 250906 | [250906-dangeresque-the-roomisode-triungulate.json](./250906-dangeresque-the-roomisode-triungulate.json) |
+| Dangerous | 197646 | [197646-dangerous.json](./197646-dangerous.json) |
 | Dangerous adventure | 284996 | [284996-dangerous-adventure.json](./284996-dangerous-adventure.json) |
 | Dangerous Blaster | 126617 | [126617-dangerous-blaster.json](./126617-dangerous-blaster.json) |
 | Dangerous Coins | 278706 | [278706-dangerous-coins.json](./278706-dangerous-coins.json) |
@@ -770,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Witch Music Episode: Rudymical | 323918 | [323918-dark-witch-music-episode-rudymical.json](./323918-dark-witch-music-episode-rudymical.json) |
 | Dark Wizard | 5374 | [5374-dark-wizard.json](./5374-dark-wizard.json) |
 | Dark Wonderland | 412293 | [412293-dark-wonderland.json](./412293-dark-wonderland.json) |
+| Dark Woods Haunted Quest: Hidden Objects Game | 197629 | [197629-dark-woods-haunted-quest-hidden-objects-game.json](./197629-dark-woods-haunted-quest-hidden-objects-game.json) |
 | Dark Zodiac | 343338 | [343338-dark-zodiac.json](./343338-dark-zodiac.json) |
 | Dark Zone | 128983 | [128983-dark-zone.json](./128983-dark-zone.json) |
 | Dark Zone Defense | 125439 | [125439-dark-zone-defense.json](./125439-dark-zone-defense.json) |
@@ -1910,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck Defense | 301427 | [301427-deck-defense.json](./301427-deck-defense.json) |
 | Deck Hunter | 106418 | [106418-deck-hunter.json](./106418-deck-hunter.json) |
 | Deck of Ashes: Complete Edition | 196816 | [196816-deck-of-ashes-complete-edition.json](./196816-deck-of-ashes-complete-edition.json) |
+| Deck of Ashes: Tome of Dimensions | 197665 | [197665-deck-of-ashes-tome-of-dimensions.json](./197665-deck-of-ashes-tome-of-dimensions.json) |
 | Deck of Bullets | 258462 | [258462-deck-of-bullets.json](./258462-deck-of-bullets.json) |
 | Deck of Destiny: Battleforge | 346667 | [346667-deck-of-destiny-battleforge.json](./346667-deck-of-destiny-battleforge.json) |
 | Deck of Haunts | 320726 | [320726-deck-of-haunts.json](./320726-deck-of-haunts.json) |
