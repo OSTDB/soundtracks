@@ -850,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jītuì Guàishòu | 114957 | [114957-jitui-guaishou.json](./114957-jitui-guaishou.json) |
 | Jiǔlóng Mófǎzhèn | 394200 | [394200-jiulong-mofazhen.json](./394200-jiulong-mofazhen.json) |
 | Jiǔměizǐ zhī Sǐ: Zhāohé Shàonǚ Xuèsè Gàobái | 374628 | [374628-jiumeizi-zhi-si-zhaohe-shaonu-xuese-gaobai.json](./374628-jiumeizi-zhi-si-zhaohe-shaonu-xuese-gaobai.json) |
+| JiuTian Idle RPG | 187845 | [187845-jiutian-idle-rpg.json](./187845-jiutian-idle-rpg.json) |
 | Jiǔzhōu Jiàn Gē | 367405 | [367405-jiuzhou-jian-ge.json](./367405-jiuzhou-jian-ge.json) |
 | Jive Blocks | 222993 | [222993-jive-blocks.json](./222993-jive-blocks.json) |
 | Jiwa: The Damned Soul | 327169 | [327169-jiwa-the-damned-soul.json](./327169-jiwa-the-damned-soul.json) |
