@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Paradise: Advanchu | 49587 | [49587-hamster-paradise-advanchu.json](./49587-hamster-paradise-advanchu.json) |
 | Hamster Paradise: Pure Heart | 49588 | [49588-hamster-paradise-pure-heart.json](./49588-hamster-paradise-pure-heart.json) |
 | Hamster Playground: Fun & Challenge Games Pack | 332019 | [332019-hamster-playground-fun-and-challenge-games-pack.json](./332019-hamster-playground-fun-and-challenge-games-pack.json) |
+| Hamster Playground: Spooky Hamster House | 226708 | [226708-hamster-playground-spooky-hamster-house.json](./226708-hamster-playground-spooky-hamster-house.json) |
 | Hamster Scramble | 125655 | [125655-hamster-scramble.json](./125655-hamster-scramble.json) |
 | Hamsterball | 45288 | [45288-hamsterball.json](./45288-hamsterball.json) |
 | Hamsteria! | 390684 | [390684-hamsteria.json](./390684-hamsteria.json) |
@@ -1600,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Grocery | 219826 | [219826-hell-grocery.json](./219826-hell-grocery.json) |
 | Hell Ground | 256827 | [256827-hell-ground.json](./256827-hell-ground.json) |
 | Hell Guide | 130852 | [130852-hell-guide.json](./130852-hell-guide.json) |
+| Hell Heroes | 226720 | [226720-hell-heroes.json](./226720-hell-heroes.json) |
 | Hell Hospital | 414424 | [414424-hell-hospital.json](./414424-hell-hospital.json) |
 | Hell Hunter: Damned Soul | 272380 | [272380-hell-hunter-damned-soul.json](./272380-hell-hunter-damned-soul.json) |
 | Hell in a Can | 271762 | [271762-hell-in-a-can.json](./271762-hell-in-a-can.json) |
@@ -2719,6 +2721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Gardens | 108262 | [108262-hidden-gardens.json](./108262-hidden-gardens.json) |
 | Hidden Gems, Hidden Secrets | 240499 | [240499-hidden-gems-hidden-secrets.json](./240499-hidden-gems-hidden-secrets.json) |
 | Hidden Girls: Quiet Beauty | 415059 | [415059-hidden-girls-quiet-beauty.json](./415059-hidden-girls-quiet-beauty.json) |
+| Hidden Harbor 2 Top-Down 3D | 226676 | [226676-hidden-harbor-2-top-down-3d.json](./226676-hidden-harbor-2-top-down-3d.json) |
 | Hidden Harbor Top-Down 3D | 195247 | [195247-hidden-harbor-top-down-3d.json](./195247-hidden-harbor-top-down-3d.json) |
 | Hidden Horror Photo Exhibition | 399643 | [399643-hidden-horror-photo-exhibition.json](./399643-hidden-horror-photo-exhibition.json) |
 | Hidden in my Paradise | 291242 | [291242-hidden-in-my-paradise.json](./291242-hidden-in-my-paradise.json) |
