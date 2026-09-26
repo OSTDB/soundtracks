@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Fighter | 133199 | [133199-mad-fighter.json](./133199-mad-fighter.json) |
 | Mad Finger Marathon | 233209 | [233209-mad-finger-marathon.json](./233209-mad-finger-marathon.json) |
 | Mad Games Tycoon | 13172 | [13172-mad-games-tycoon.json](./13172-mad-games-tycoon.json) |
+| Mad Geometry | 226168 | [226168-mad-geometry.json](./226168-mad-geometry.json) |
 | Mad Gun Range VR Simulator | 115689 | [115689-mad-gun-range-vr-simulator.json](./115689-mad-gun-range-vr-simulator.json) |
 | Mad Head | 311471 | [311471-mad-head.json](./311471-mad-head.json) |
 | Mad Jyacer | 276250 | [276250-mad-jyacer.json](./276250-mad-jyacer.json) |
@@ -2582,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meat Cleaver Mutilator | 125258 | [125258-meat-cleaver-mutilator.json](./125258-meat-cleaver-mutilator.json) |
 | Meat Girl | 325619 | [325619-meat-girl.json](./325619-meat-girl.json) |
 | Meat Grinder | 391149 | [391149-meat-grinder.json](./391149-meat-grinder.json) |
+| Meat Madness | 226171 | [226171-meat-madness.json](./226171-meat-madness.json) |
 | Meat Room | 349853 | [349853-meat-room.json](./349853-meat-room.json) |
 | Meat Shift | 181895 | [181895-meat-shift.json](./181895-meat-shift.json) |
 | Meat Veterans | 258561 | [258561-meat-veterans.json](./258561-meat-veterans.json) |
@@ -6841,6 +6843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Platinium Edition | 275048 | [275048-moto-rush-gt-platinium-edition.json](./275048-moto-rush-gt-platinium-edition.json) |
 | Moto Rush GT: Prime Edition | 271503 | [271503-moto-rush-gt-prime-edition.json](./271503-moto-rush-gt-prime-edition.json) |
 | Moto Rush GT: Ultra Edition | 332512 | [332512-moto-rush-gt-ultra-edition.json](./332512-moto-rush-gt-ultra-edition.json) |
+| Moto Trophy VR | 226147 | [226147-moto-trophy-vr.json](./226147-moto-trophy-vr.json) |
 | Moto Wheelie | 257469 | [257469-moto-wheelie.json](./257469-moto-wheelie.json) |
 | Moto X | 279698 | [279698-moto-x.json](./279698-moto-x.json) |
 | Moto X Challenge | 238393 | [238393-moto-x-challenge.json](./238393-moto-x-challenge.json) |
@@ -7964,6 +7967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Kitties | 20759 | [20759-my-little-kitties.json](./20759-my-little-kitties.json) |
 | My Little Kitty Cat | 99001 | [99001-my-little-kitty-cat.json](./99001-my-little-kitty-cat.json) |
 | My Little MILF | 341351 | [341351-my-little-milf.json](./341351-my-little-milf.json) |
+| My Little Miniatures | 226175 | [226175-my-little-miniatures.json](./226175-my-little-miniatures.json) |
 | My Little Pony | 206776 | [206776-my-little-pony.json](./206776-my-little-pony.json) |
 | My Little Pony Crystal Princess: The Runaway Rainbow | 49389 | [49389-my-little-pony-crystal-princess-the-runaway-rainbow.json](./49389-my-little-pony-crystal-princess-the-runaway-rainbow.json) |
 | My Little Pony Hair Salon | 287085 | [287085-my-little-pony-hair-salon.json](./287085-my-little-pony-hair-salon.json) |
@@ -8093,6 +8097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Slow Life with the Princess Knight and Her Devoted Handmaiden | 270974 | [270974-my-slow-life-with-the-princess-knight-and-her-devoted-handmaiden.json](./270974-my-slow-life-with-the-princess-knight-and-her-devoted-handmaiden.json) |
 | My So-called Future Girlfriend | 112750 | [112750-my-so-called-future-girlfriend.json](./112750-my-so-called-future-girlfriend.json) |
 | My Soldiers | 186852 | [186852-my-soldiers.json](./186852-my-soldiers.json) |
+| My Soul Forever | 226177 | [226177-my-soul-forever.json](./226177-my-soul-forever.json) |
 | My Soul Trapped in a WIN98 PC | 274196 | [274196-my-soul-trapped-in-a-win98-pc.json](./274196-my-soul-trapped-in-a-win98-pc.json) |
 | My Spa Resort | 296077 | [296077-my-spa-resort.json](./296077-my-spa-resort.json) |
 | My Spelling Words | 93073 | [93073-my-spelling-words.json](./93073-my-spelling-words.json) |
