@@ -1340,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bassmaster Fishing 2022: Elite Fishing Equipment Pack | 225081 | [225081-bassmaster-fishing-2022-elite-fishing-equipment-pack.json](./225081-bassmaster-fishing-2022-elite-fishing-equipment-pack.json) |
 | Bassmaster Fishing 2022: Lake Hartwell | 193438 | [193438-bassmaster-fishing-2022-lake-hartwell.json](./193438-bassmaster-fishing-2022-lake-hartwell.json) |
 | Bassmaster Fishing 2022: Predator Equipment Pack | 225082 | [225082-bassmaster-fishing-2022-predator-equipment-pack.json](./225082-bassmaster-fishing-2022-predator-equipment-pack.json) |
+| Bassmaster Fishing 2022: Super Deluxe Edition | 206684 | [206684-bassmaster-fishing-2022-super-deluxe-edition.json](./206684-bassmaster-fishing-2022-super-deluxe-edition.json) |
 | Bassmaster Fishing 2022: Synthwave Pack | 225083 | [225083-bassmaster-fishing-2022-synthwave-pack.json](./225083-bassmaster-fishing-2022-synthwave-pack.json) |
 | Bassmaster Fishing 2022: Throwback B.A.S.S. Pack | 225084 | [225084-bassmaster-fishing-2022-throwback-b-a-s-s-pack.json](./225084-bassmaster-fishing-2022-throwback-b-a-s-s-pack.json) |
 | Bassmaster Fishing: Digital Collector's Edition | 240221 | [240221-bassmaster-fishing-digital-collectors-edition.json](./240221-bassmaster-fishing-digital-collectors-edition.json) |
@@ -6184,6 +6185,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bristle and the Artificial Invasion | 316102 | [316102-bristle-and-the-artificial-invasion.json](./316102-bristle-and-the-artificial-invasion.json) |
 | Bristles | 23863 | [23863-bristles.json](./23863-bristles.json) |
 | Britannic: Patroness of the Mediterranean | 135665 | [135665-britannic-patroness-of-the-mediterranean.json](./135665-britannic-patroness-of-the-mediterranean.json) |
+| Britannica Sudoku Unlimited | 206681 | [206681-britannica-sudoku-unlimited.json](./206681-britannica-sudoku-unlimited.json) |
+| Britannica World's Best Solitaire | 206683 | [206683-britannica-worlds-best-solitaire.json](./206683-britannica-worlds-best-solitaire.json) |
 | Britebot | 178651 | [178651-britebot.json](./178651-britebot.json) |
 | British Voter Quiz | 366245 | [366245-british-voter-quiz.json](./366245-british-voter-quiz.json) |
 | Britney Spears' Theme Park | 305843 | [305843-britney-spears-theme-park.json](./305843-britney-spears-theme-park.json) |
@@ -6219,6 +6222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Ecchi Gallery | 280748 | [280748-broken-ecchi-gallery.json](./280748-broken-ecchi-gallery.json) |
 | Broken God Awakening | 216791 | [216791-broken-god-awakening.json](./216791-broken-god-awakening.json) |
 | Broken Hearts Island | 258990 | [258990-broken-hearts-island.json](./258990-broken-hearts-island.json) |
+| Broken Hearts: A Soldier's Duty | 206685 | [206685-broken-hearts-a-soldiers-duty.json](./206685-broken-hearts-a-soldiers-duty.json) |
 | Broken In Time | 223499 | [223499-broken-in-time.json](./223499-broken-in-time.json) |
 | Broken Keyboard Hero | 342842 | [342842-broken-keyboard-hero.json](./342842-broken-keyboard-hero.json) |
 | Broken Leash: Night Shift | 376478 | [376478-broken-leash-night-shift.json](./376478-broken-leash-night-shift.json) |
@@ -6300,6 +6304,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brownie's Adventure 2 | 294151 | [294151-brownies-adventure-2.json](./294151-brownies-adventure-2.json) |
 | Brownie's Haunted Christmas | 280339 | [280339-brownies-haunted-christmas.json](./280339-brownies-haunted-christmas.json) |
 | Browning | 41980 | [41980-browning.json](./41980-browning.json) |
+| Browning African Safari Deluxe | 206686 | [206686-browning-african-safari-deluxe.json](./206686-browning-african-safari-deluxe.json) |
+| Browning Turkey Hunt Deluxe | 206687 | [206687-browning-turkey-hunt-deluxe.json](./206687-browning-turkey-hunt-deluxe.json) |
 | Brox | 276808 | [276808-brox.json](./276808-brox.json) |
 | Brrrainz | 58474 | [58474-brrrainz.json](./58474-brrrainz.json) |
 | BRT: Billiards of the Round Table | 392952 | [392952-brt-billiards-of-the-round-table.json](./392952-brt-billiards-of-the-round-table.json) |
@@ -6313,6 +6319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brunhilda and the Dark Crystal | 52490 | [52490-brunhilda-and-the-dark-crystal.json](./52490-brunhilda-and-the-dark-crystal.json) |
 | Brunswick Pro Billiards | 147954 | [147954-brunswick-pro-billiards.json](./147954-brunswick-pro-billiards.json) |
 | Brunswick Pro Bowling | 4731 | [4731-brunswick-pro-bowling.json](./4731-brunswick-pro-bowling.json) |
+| Brunswick Pro Pool 3D II | 206688 | [206688-brunswick-pro-pool-3d-ii.json](./206688-brunswick-pro-pool-3d-ii.json) |
 | Brunswick World: Tournament of Champions | 42596 | [42596-brunswick-world-tournament-of-champions.json](./42596-brunswick-world-tournament-of-champions.json) |
 | Brush Burial | 270639 | [270639-brush-burial.json](./270639-brush-burial.json) |
 | Brush Jjaemu | 398581 | [398581-brush-jjaemu.json](./398581-brush-jjaemu.json) |
@@ -6431,6 +6438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bubbling | 246114 | [246114-bubble-bubbling.json](./246114-bubble-bubbling.json) |
 | Bubble Bunny | 294840 | [294840-bubble-bunny.json](./294840-bubble-bunny.json) |
 | Bubble Burst | 362446 | [362446-bubble-burst.json](./362446-bubble-burst.json) |
+| Bubble Burst Remix | 206689 | [206689-bubble-burst-remix.json](./206689-bubble-burst-remix.json) |
 | Bubble Bust Extreme | 239341 | [239341-bubble-bust-extreme.json](./239341-bubble-bust-extreme.json) |
 | Bubble Cadence | 398360 | [398360-bubble-cadence.json](./398360-bubble-cadence.json) |
 | Bubble Cloud: Spinning Bubbles | 86774 | [86774-bubble-cloud-spinning-bubbles.json](./86774-bubble-cloud-spinning-bubbles.json) |
@@ -6546,11 +6554,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buff Huckem Fully Wrecked | 270187 | [270187-buff-huckem-fully-wrecked.json](./270187-buff-huckem-fully-wrecked.json) |
 | Buff Knight Advanced | 34864 | [34864-buff-knight-advanced.json](./34864-buff-knight-advanced.json) |
 | Buffet Boss: Rolling Sushi | 316219 | [316219-buffet-boss-rolling-sushi.json](./316219-buffet-boss-rolling-sushi.json) |
+| Buffy the Vampire Slayer | 206690 | [206690-buffy-the-vampire-slayer.json](./206690-buffy-the-vampire-slayer.json) |
 | Buffy the Vampire Slayer: Chaos Bleeds | 3837 | [3837-buffy-the-vampire-slayer-chaos-bleeds.json](./3837-buffy-the-vampire-slayer-chaos-bleeds.json) |
 | Buffy the Vampire Slayer: Sacrifice | 21130 | [21130-buffy-the-vampire-slayer-sacrifice.json](./21130-buffy-the-vampire-slayer-sacrifice.json) |
 | Bufo Merge | 374283 | [374283-bufo-merge.json](./374283-bufo-merge.json) |
 | Bug & Seek | 271464 | [271464-bug-and-seek.json](./271464-bug-and-seek.json) |
 | Bug & Seek: Weevils DLC | 298342 | [298342-bug-and-seek-weevils-dlc.json](./298342-bug-and-seek-weevils-dlc.json) |
+| Bug Adventure | 206691 | [206691-bug-adventure.json](./206691-bug-adventure.json) |
 | Bug Aviators in Theme Park | 116163 | [116163-bug-aviators-in-theme-park.json](./116163-bug-aviators-in-theme-park.json) |
 | Bug Blazer | 270166 | [270166-bug-blazer.json](./270166-bug-blazer.json) |
 | Bug Bunny: Discontroll | 373729 | [373729-bug-bunny-discontroll.json](./373729-bug-bunny-discontroll.json) |
@@ -6568,6 +6578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Mania | 140985 | [140985-bug-mania.json](./140985-bug-mania.json) |
 | Bug N Out | 32962 | [32962-bug-n-out.json](./32962-bug-n-out.json) |
 | Bug Off! | 55884 | [55884-bug-off.json](./55884-bug-off.json) |
+| Bug Out! | 206692 | [206692-bug-out.json](./206692-bug-out.json) |
 | Bug Quest | 287641 | [287641-bug-quest.json](./287641-bug-quest.json) |
 | Bug Riders | 277929 | [277929-bug-riders.json](./277929-bug-riders.json) |
 | Bug Too! | 45524 | [45524-bug-too.json](./45524-bug-too.json) |
@@ -6662,6 +6673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buissons | 123543 | [123543-buissons.json](./123543-buissons.json) |
 | Buka | 96028 | [96028-buka.json](./96028-buka.json) |
 | Buku Sudoku | 74407 | [74407-buku-sudoku.json](./74407-buku-sudoku.json) |
+| Buku Sudoku Mahjongg Kakuro | 206693 | [206693-buku-sudoku-mahjongg-kakuro.json](./206693-buku-sudoku-mahjongg-kakuro.json) |
 | Bul Bakalım | 241468 | [241468-bul-bakal-m.json](./241468-bul-bakal-m.json) |
 | Bulanci: Hero Factory | 267668 | [267668-bulanci-hero-factory.json](./267668-bulanci-hero-factory.json) |
 | Bulanci: Map Pack | 267669 | [267669-bulanci-map-pack.json](./267669-bulanci-map-pack.json) |
@@ -6879,6 +6891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Chef Tycoon: GOTY Edition | 273629 | [273629-burger-chef-tycoon-goty-edition.json](./273629-burger-chef-tycoon-goty-edition.json) |
 | Burger Fun | 205254 | [205254-burger-fun.json](./205254-burger-fun.json) |
 | Burger Girl Clicker | 337814 | [337814-burger-girl-clicker.json](./337814-burger-girl-clicker.json) |
+| Burger Island 2: The Missing Ingredient | 206694 | [206694-burger-island-2-the-missing-ingredient.json](./206694-burger-island-2-the-missing-ingredient.json) |
 | Burger Jack | 65447 | [65447-burger-jack.json](./65447-burger-jack.json) |
 | Burger King Foot Lettuce | 380546 | [380546-burger-king-foot-lettuce.json](./380546-burger-king-foot-lettuce.json) |
 | Burger King Halloween Game | 238202 | [238202-burger-king-halloween-game.json](./238202-burger-king-halloween-game.json) |
