@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campfire Cat Cafe | 250431 | [250431-campfire-cat-cafe.json](./250431-campfire-cat-cafe.json) |
 | Campfire Harmony | 402251 | [402251-campfire-harmony.json](./402251-campfire-harmony.json) |
 | Campfire Stories : Episode 1 | 265400 | [265400-campfire-stories-episode-1.json](./265400-campfire-stories-episode-1.json) |
+| Campground Owner | 192692 | [192692-campground-owner.json](./192692-campground-owner.json) |
 | Campground Simulator | 379355 | [379355-campground-simulator.json](./379355-campground-simulator.json) |
 | Campgrounds Adventures | 311605 | [311605-campgrounds-adventures.json](./311605-campgrounds-adventures.json) |
 | Campgrounds IV | 139392 | [139392-campgrounds-iv.json](./139392-campgrounds-iv.json) |
@@ -2510,6 +2511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chefcito Asesino | 298694 | [298694-chefcito-asesino.json](./298694-chefcito-asesino.json) |
 | Chefrens Pyramid | 142454 | [142454-chefrens-pyramid.json](./142454-chefrens-pyramid.json) |
 | Chefware | 376535 | [376535-chefware.json](./376535-chefware.json) |
+| Chefy-Chef | 192671 | [192671-chefy-chef.json](./192671-chefy-chef.json) |
 | Chelesste | 253995 | [253995-chelesste.json](./253995-chelesste.json) |
 | Chell's Way to Home | 219157 | [219157-chells-way-to-home.json](./219157-chells-way-to-home.json) |
 | Chelsea Club Football | 267882 | [267882-chelsea-club-football.json](./267882-chelsea-club-football.json) |
@@ -3142,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Break 2 Head to Head | 214050 | [214050-christmas-break-2-head-to-head.json](./214050-christmas-break-2-head-to-head.json) |
 | Christmas Bubble Shooter | 86716 | [86716-christmas-bubble-shooter.json](./86716-christmas-bubble-shooter.json) |
 | Christmas Cats Revenge | 127073 | [127073-christmas-cats-revenge.json](./127073-christmas-cats-revenge.json) |
+| Christmas Celebration With Sakuya Izayoi | 192698 | [192698-christmas-celebration-with-sakuya-izayoi.json](./192698-christmas-celebration-with-sakuya-izayoi.json) |
 | Christmas Clash | 277601 | [277601-christmas-clash.json](./277601-christmas-clash.json) |
 | Christmas Clicker: Idle Gift Builder | 113001 | [113001-christmas-clicker-idle-gift-builder.json](./113001-christmas-clicker-idle-gift-builder.json) |
 | Christmas Corp | 284970 | [284970-christmas-corp.json](./284970-christmas-corp.json) |
