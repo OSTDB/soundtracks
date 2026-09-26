@@ -14135,6 +14135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival RPG 4: Haunted Manor | 264332 | [264332-survival-rpg-4-haunted-manor.json](./264332-survival-rpg-4-haunted-manor.json) |
 | Survival RPG: The Lost Treasure | 167295 | [167295-survival-rpg-the-lost-treasure.json](./167295-survival-rpg-the-lost-treasure.json) |
 | Survival Simulator | 166203 | [166203-survival-simulator.json](./166203-survival-simulator.json) |
+| Survival Simulator | 175714 | [175714-survival-simulator.json](./175714-survival-simulator.json) |
 | Survival Sisters | 195693 | [195693-survival-sisters.json](./195693-survival-sisters.json) |
 | Survival Space: Unlimited Shooting | 83571 | [83571-survival-space-unlimited-shooting.json](./83571-survival-space-unlimited-shooting.json) |
 | Survival Sprint | 243117 | [243117-survival-sprint.json](./243117-survival-sprint.json) |
