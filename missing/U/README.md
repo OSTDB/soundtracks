@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Party | 222268 | [222268-undead-party.json](./222268-undead-party.json) |
 | Undead Pixels | 163365 | [163365-undead-pixels.json](./163365-undead-pixels.json) |
 | Undead Quest | 227787 | [227787-undead-quest.json](./227787-undead-quest.json) |
+| Undead Raid | 220062 | [220062-undead-raid.json](./220062-undead-raid.json) |
 | Undead Realm: Ego | 327836 | [327836-undead-realm-ego.json](./327836-undead-realm-ego.json) |
 | Undead Residence | 411662 | [411662-undead-residence.json](./411662-undead-residence.json) |
 | Undead Souls | 55496 | [55496-undead-souls.json](./55496-undead-souls.json) |
