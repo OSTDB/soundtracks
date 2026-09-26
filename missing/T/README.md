@@ -9685,6 +9685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To The Mars | 264573 | [264573-to-the-mars.json](./264573-to-the-mars.json) |
 | To the Mars! | 59074 | [59074-to-the-mars.json](./59074-to-the-mars.json) |
 | To the Moon | 339932 | [339932-to-the-moon.json](./339932-to-the-moon.json) |
+| To the Moon and Beyond | 203832 | [203832-to-the-moon-and-beyond.json](./203832-to-the-moon-and-beyond.json) |
 | To the Moon: Sigmund Minisode 1 & 2 (Holiday Special) | 332533 | [332533-to-the-moon-sigmund-minisode-1-and-2-holiday-special.json](./332533-to-the-moon-sigmund-minisode-1-and-2-holiday-special.json) |
 | To the Mountain | 331128 | [331128-to-the-mountain.json](./331128-to-the-mountain.json) |
 | To the Rescue | 359443 | [359443-to-the-rescue.json](./359443-to-the-rescue.json) |
@@ -10603,6 +10604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Baisyunyado: Soap of Royal Road | 138029 | [138029-touhou-baisyunyado-soap-of-royal-road.json](./138029-touhou-baisyunyado-soap-of-royal-road.json) |
 | Touhou Blooming Chaos 2: Chara Pack 3 | 170959 | [170959-touhou-blooming-chaos-2-chara-pack-3.json](./170959-touhou-blooming-chaos-2-chara-pack-3.json) |
 | Touhou Blooming Chaos 2: Chara Pack Special - Mystia Lorelei | 169324 | [169324-touhou-blooming-chaos-2-chara-pack-special-mystia-lorelei.json](./169324-touhou-blooming-chaos-2-chara-pack-special-mystia-lorelei.json) |
+| Touhou Blooming Soul | 203848 | [203848-touhou-blooming-soul.json](./203848-touhou-blooming-soul.json) |
 | Touhou Cannonball | 111052 | [111052-touhou-cannonball.json](./111052-touhou-cannonball.json) |
 | Touhou Chouseisho: Sapphire Panlogism | 181892 | [181892-touhou-chouseisho-sapphire-panlogism.json](./181892-touhou-chouseisho-sapphire-panlogism.json) |
 | Touhou Danmaku Kagura: Phantasia Lost | 222995 | [222995-touhou-danmaku-kagura-phantasia-lost.json](./222995-touhou-danmaku-kagura-phantasia-lost.json) |
@@ -10621,6 +10623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Emblem | 315050 | [315050-touhou-emblem.json](./315050-touhou-emblem.json) |
 | Touhou Emblem 2 | 315051 | [315051-touhou-emblem-2.json](./315051-touhou-emblem-2.json) |
 | Touhou Eternal Spell Cards | 289936 | [289936-touhou-eternal-spell-cards.json](./289936-touhou-eternal-spell-cards.json) |
+| Touhou Fairy Knockout: One Fairy to Rule Them All | 203849 | [203849-touhou-fairy-knockout-one-fairy-to-rule-them-all.json](./203849-touhou-fairy-knockout-one-fairy-to-rule-them-all.json) |
 | Touhou Fan-made Virtual Autography | 151683 | [151683-touhou-fan-made-virtual-autography.json](./151683-touhou-fan-made-virtual-autography.json) |
 | Touhou Fantasy | 387333 | [387333-touhou-fantasy.json](./387333-touhou-fantasy.json) |
 | Touhou Fantasy Destination | 256332 | [256332-touhou-fantasy-destination.json](./256332-touhou-fantasy-destination.json) |
@@ -12225,6 +12228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triangle Project Otome Visual Novels | 116382 | [116382-triangle-project-otome-visual-novels.json](./116382-triangle-project-otome-visual-novels.json) |
 | Triangle Strategy | 143610 | [143610-triangle-strategy.json](./143610-triangle-strategy.json) |
 | Triangle Strategy | 318779 | [318779-triangle-strategy.json](./318779-triangle-strategy.json) |
+| Triangle Strategy: Tacticians's Limited Edition | 203811 | [203811-triangle-strategy-tacticianss-limited-edition.json](./203811-triangle-strategy-tacticianss-limited-edition.json) |
 | Triangle Wing XXXX | 133461 | [133461-triangle-wing-xxxx.json](./133461-triangle-wing-xxxx.json) |
 | TrianGo | 130898 | [130898-triango.json](./130898-triango.json) |
 | Triangulate | 226307 | [226307-triangulate.json](./226307-triangulate.json) |
