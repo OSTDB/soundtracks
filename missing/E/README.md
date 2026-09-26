@@ -2342,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Gem | 280318 | [280318-eternal-gem.json](./280318-eternal-gem.json) |
 | Eternal Guardian Rubine: The First Fight | 336552 | [336552-eternal-guardian-rubine-the-first-fight.json](./336552-eternal-guardian-rubine-the-first-fight.json) |
 | Eternal Haunt | 323887 | [323887-eternal-haunt.json](./323887-eternal-haunt.json) |
+| Eternal Hearts: Curse of the Endless | 207267 | [207267-eternal-hearts-curse-of-the-endless.json](./207267-eternal-hearts-curse-of-the-endless.json) |
 | Eternal Home Floristry | 123587 | [123587-eternal-home-floristry.json](./123587-eternal-home-floristry.json) |
 | Eternal Hope | 124198 | [124198-eternal-hope.json](./124198-eternal-hope.json) |
 | Eternal Hunger | 397939 | [397939-eternal-hunger.json](./397939-eternal-hunger.json) |
