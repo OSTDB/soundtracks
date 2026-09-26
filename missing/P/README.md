@@ -3084,6 +3084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitch Black | 223685 | [223685-pitch-black.json](./223685-pitch-black.json) |
 | Pitch Black | 278440 | [278440-pitch-black.json](./278440-pitch-black.json) |
 | Pitch Black Serenade | 177433 | [177433-pitch-black-serenade.json](./177433-pitch-black-serenade.json) |
+| Pitch Black: A Dusklight Story | 213338 | [213338-pitch-black-a-dusklight-story.json](./213338-pitch-black-a-dusklight-story.json) |
 | Pitch Deck | 204733 | [204733-pitch-deck.json](./204733-pitch-deck.json) |
 | Pitch Patter | 273657 | [273657-pitch-patter.json](./273657-pitch-patter.json) |
 | Pitch Shift | 180676 | [180676-pitch-shift.json](./180676-pitch-shift.json) |
@@ -6612,6 +6613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PUBG: Blindspot | 321135 | [321135-pubg-blindspot.json](./321135-pubg-blindspot.json) |
 | Public Defense Corp: The Ambassador of Peace | 206952 | [206952-public-defense-corp-the-ambassador-of-peace.json](./206952-public-defense-corp-the-ambassador-of-peace.json) |
 | Public Enemy: The Dark Future | 248293 | [248293-public-enemy-the-dark-future.json](./248293-public-enemy-the-dark-future.json) |
+| Public Restroom Simulator 2022 | 213321 | [213321-public-restroom-simulator-2022.json](./213321-public-restroom-simulator-2022.json) |
 | Public Toilet Simulator | 340591 | [340591-public-toilet-simulator.json](./340591-public-toilet-simulator.json) |
 | Public Transport Simulator 2 | 333737 | [333737-public-transport-simulator-2.json](./333737-public-transport-simulator-2.json) |
 | Pucca Jam | 260118 | [260118-pucca-jam.json](./260118-pucca-jam.json) |
