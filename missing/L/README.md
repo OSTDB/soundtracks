@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Corona Encantada | 141850 | [141850-la-corona-encantada.json](./141850-la-corona-encantada.json) |
 | La Cosa Nostra | 389976 | [389976-la-cosa-nostra.json](./389976-la-cosa-nostra.json) |
 | La Culture Generale pour les Nuls | 269831 | [269831-la-culture-generale-pour-les-nuls.json](./269831-la-culture-generale-pour-les-nuls.json) |
+| La Dame de Monsoreau | 209442 | [209442-la-dame-de-monsoreau.json](./209442-la-dame-de-monsoreau.json) |
 | La Divina Commedia | 361884 | [361884-la-divina-commedia.json](./361884-la-divina-commedia.json) |
 | La Espada Sagrada | 141821 | [141821-la-espada-sagrada.json](./141821-la-espada-sagrada.json) |
 | La Fuga | 115603 | [115603-la-fuga.json](./115603-la-fuga.json) |
@@ -1137,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Future Past | 65515 | [65515-legends-of-future-past.json](./65515-legends-of-future-past.json) |
 | Legends of Heropolis | 202851 | [202851-legends-of-heropolis.json](./202851-legends-of-heropolis.json) |
 | Legends Of Heropolis DX | 317840 | [317840-legends-of-heropolis-dx.json](./317840-legends-of-heropolis-dx.json) |
+| Legends of Horror | 209414 | [209414-legends-of-horror.json](./209414-legends-of-horror.json) |
 | Legends of Illarion | 228438 | [228438-legends-of-illarion.json](./228438-legends-of-illarion.json) |
 | Legends of Iona RPG | 55492 | [55492-legends-of-iona-rpg.json](./55492-legends-of-iona-rpg.json) |
 | Legends of Koyannis | 110368 | [110368-legends-of-koyannis.json](./110368-legends-of-koyannis.json) |
@@ -1148,6 +1150,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Might and Magic | 9836 | [9836-legends-of-might-and-magic.json](./9836-legends-of-might-and-magic.json) |
 | Legends of Murder Collection | 173181 | [173181-legends-of-murder-collection.json](./173181-legends-of-murder-collection.json) |
 | Legends of Norrath | 51219 | [51219-legends-of-norrath.json](./51219-legends-of-norrath.json) |
+| Legends of Norrath: Ethernauts | 209412 | [209412-legends-of-norrath-ethernauts.json](./209412-legends-of-norrath-ethernauts.json) |
+| Legends of Norrath: Forsworn | 209409 | [209409-legends-of-norrath-forsworn.json](./209409-legends-of-norrath-forsworn.json) |
+| Legends of Norrath: Inquisitor | 209410 | [209410-legends-of-norrath-inquisitor.json](./209410-legends-of-norrath-inquisitor.json) |
+| Legends of Norrath: Oathbreaker | 209411 | [209411-legends-of-norrath-oathbreaker.json](./209411-legends-of-norrath-oathbreaker.json) |
 | Legends of Old | 278470 | [278470-legends-of-old.json](./278470-legends-of-old.json) |
 | Legends of Oz: Dorothy's Return | 57055 | [57055-legends-of-oz-dorothys-return.json](./57055-legends-of-oz-dorothys-return.json) |
 | Legends of Pegasus | 10389 | [10389-legends-of-pegasus.json](./10389-legends-of-pegasus.json) |
@@ -1910,6 +1916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light on Earth | 383971 | [383971-light-on-earth.json](./383971-light-on-earth.json) |
 | Light Paradox | 190068 | [190068-light-paradox.json](./190068-light-paradox.json) |
 | Light Pollution | 262293 | [262293-light-pollution.json](./262293-light-pollution.json) |
+| Light Rangers: Mending the Maniac Madness | 209406 | [209406-light-rangers-mending-the-maniac-madness.json](./209406-light-rangers-mending-the-maniac-madness.json) |
 | Light Rider | 108427 | [108427-light-rider.json](./108427-light-rider.json) |
 | Light Source | 416108 | [416108-light-source.json](./416108-light-source.json) |
 | Light Speed Adventures | 330518 | [330518-light-speed-adventures.json](./330518-light-speed-adventures.json) |
@@ -3764,6 +3771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucy Dreaming | 144920 | [144920-lucy-dreaming.json](./144920-lucy-dreaming.json) |
 | Lucy Gorbalm Is Missing | 393163 | [393163-lucy-gorbalm-is-missing.json](./393163-lucy-gorbalm-is-missing.json) |
 | Lucy Half Lucid | 408169 | [408169-lucy-half-lucid.json](./408169-lucy-half-lucid.json) |
+| Lucy's Expedition | 209399 | [209399-lucys-expedition.json](./209399-lucys-expedition.json) |
 | Lucy's Heaven | 226176 | [226176-lucys-heaven.json](./226176-lucys-heaven.json) |
 | Lucy's Journey | 258735 | [258735-lucys-journey.json](./258735-lucys-journey.json) |
 | Lucy's World | 229001 | [229001-lucys-world.json](./229001-lucys-world.json) |
