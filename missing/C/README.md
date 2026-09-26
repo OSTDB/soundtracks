@@ -3059,6 +3059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Yakkyou Miracle Nine | 45541 | [45541-chou-yakkyou-miracle-nine.json](./45541-chou-yakkyou-miracle-nine.json) |
 | Choujikuu Yousai Macross: Countdown | 221272 | [221272-choujikuu-yousai-macross-countdown.json](./221272-choujikuu-yousai-macross-countdown.json) |
 | Choujin | 322743 | [322743-choujin.json](./322743-choujin.json) |
+| Choujin Baseball Stadium | 222225 | [222225-choujin-baseball-stadium.json](./222225-choujin-baseball-stadium.json) |
 | Choujin Baseball Stadium: Nekketsu Story | 222398 | [222398-choujin-baseball-stadium-nekketsu-story.json](./222398-choujin-baseball-stadium-nekketsu-story.json) |
 | Choujin Heiki Zeroigar | 45960 | [45960-choujin-heiki-zeroigar.json](./45960-choujin-heiki-zeroigar.json) |
 | Choujin Sentai Jetman | 318559 | [318559-choujin-sentai-jetman.json](./318559-choujin-sentai-jetman.json) |
@@ -5490,6 +5491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookies | 146702 | [146702-cookies.json](./146702-cookies.json) |
 | Cookies Cookies Cookies | 205243 | [205243-cookies-cookies-cookies.json](./205243-cookies-cookies-cookies.json) |
 | Cookies Inc. | 243980 | [243980-cookies-inc.json](./243980-cookies-inc.json) |
+| Cookies! Theory of Super Evolution | 222257 | [222257-cookies-theory-of-super-evolution.json](./222257-cookies-theory-of-super-evolution.json) |
 | Cookin' Idol I! My! Main! Game de Hirameki! Kirameki Cooking | 123019 | [123019-cookin-idol-i-my-main-game-de-hirameki-kirameki-cooking.json](./123019-cookin-idol-i-my-main-game-de-hirameki-kirameki-cooking.json) |
 | Cooking | 314874 | [314874-cooking.json](./314874-cooking.json) |
 | Cooking Academy 2: World Cuisine | 208483 | [208483-cooking-academy-2-world-cuisine.json](./208483-cooking-academy-2-world-cuisine.json) |
