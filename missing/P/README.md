@@ -6346,6 +6346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Reborn | 192881 | [192881-project-reborn.json](./192881-project-reborn.json) |
 | Project Red Sun | 407527 | [407527-project-red-sun.json](./407527-project-red-sun.json) |
 | Project Regolith | 236793 | [236793-project-regolith.json](./236793-project-regolith.json) |
+| Project Restoration | 184397 | [184397-project-restoration.json](./184397-project-restoration.json) |
 | Project Rogueteers | 316772 | [316772-project-rogueteers.json](./316772-project-rogueteers.json) |
 | Project Romboid | 207300 | [207300-project-romboid.json](./207300-project-romboid.json) |
 | Project Root | 17145 | [17145-project-root.json](./17145-project-root.json) |
@@ -7006,6 +7007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puriore!: Smile Princess | 196566 | [196566-puriore-smile-princess.json](./196566-puriore-smile-princess.json) |
 | Purity | 184113 | [184113-purity.json](./184113-purity.json) |
 | Puroma | 410980 | [410980-puroma.json](./410980-puroma.json) |
+| Purple | 184393 | [184393-purple.json](./184393-purple.json) |
 | Purple Cape Man | 195514 | [195514-purple-cape-man.json](./195514-purple-cape-man.json) |
 | Purple Chicken Spaceman | 117777 | [117777-purple-chicken-spaceman.json](./117777-purple-chicken-spaceman.json) |
 | Purple Fantasy | 213610 | [213610-purple-fantasy.json](./213610-purple-fantasy.json) |
@@ -7234,6 +7236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Journey | 265708 | [265708-puzzle-journey.json](./265708-puzzle-journey.json) |
 | Puzzle Journey | 287783 | [287783-puzzle-journey.json](./287783-puzzle-journey.json) |
 | Puzzle Journey: Match 3 Blast | 232373 | [232373-puzzle-journey-match-3-blast.json](./232373-puzzle-journey-match-3-blast.json) |
+| Puzzle Juggle Trouble | 184376 | [184376-puzzle-juggle-trouble.json](./184376-puzzle-juggle-trouble.json) |
 | Puzzle Kana? | 312354 | [312354-puzzle-kana.json](./312354-puzzle-kana.json) |
 | Puzzle Light | 149455 | [149455-puzzle-light.json](./149455-puzzle-light.json) |
 | Puzzle Light: Rotate | 152763 | [152763-puzzle-light-rotate.json](./152763-puzzle-light-rotate.json) |
