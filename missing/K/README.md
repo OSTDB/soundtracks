@@ -1700,6 +1700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kleptomaniacs | 348807 | [348807-kleptomaniacs.json](./348807-kleptomaniacs.json) |
 | Kletka | 312279 | [312279-kletka.json](./312279-kletka.json) |
 | Kleu's music | 138797 | [138797-kleus-music.json](./138797-kleus-music.json) |
+| Klifur | 207255 | [207255-klifur.json](./207255-klifur.json) |
 | Klikwerk | 225282 | [225282-klikwerk.json](./225282-klikwerk.json) |
 | Klinok Doblesti 2 | 71791 | [71791-klinok-doblesti-2.json](./71791-klinok-doblesti-2.json) |
 | Klitorax | 221173 | [221173-klitorax.json](./221173-klitorax.json) |
