@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EcoDriver | 233527 | [233527-ecodriver.json](./233527-ecodriver.json) |
 | EcoL tactics | 112312 | [112312-ecol-tactics.json](./112312-ecol-tactics.json) |
 | Econia: Crypto Idle Tycoon! | 232376 | [232376-econia-crypto-idle-tycoon.json](./232376-econia-crypto-idle-tycoon.json) |
+| Economic War | 202701 | [202701-economic-war.json](./202701-economic-war.json) |
 | EcoQuest II: Lost Secret of the Rainforest | 7694 | [7694-ecoquest-ii-lost-secret-of-the-rainforest.json](./7694-ecoquest-ii-lost-secret-of-the-rainforest.json) |
 | EcoQuest: Explore, Discover, Protect! | 295814 | [295814-ecoquest-explore-discover-protect.json](./295814-ecoquest-explore-discover-protect.json) |
 | Ecotone | 19008 | [19008-ecotone.json](./19008-ecotone.json) |
