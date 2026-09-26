@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omae Wa Mou Shindeiru | 98711 | [98711-omae-wa-mou-shindeiru.json](./98711-omae-wa-mou-shindeiru.json) |
 | Omakase! Savers | 275605 | [275605-omakase-savers.json](./275605-omakase-savers.json) |
 | Omamori | 185069 | [185069-omamori.json](./185069-omamori.json) |
+| OmanaC: C2 | 213882 | [213882-omanac-c2.json](./213882-omanac-c2.json) |
 | Omar Sharif Bridge II | 208997 | [208997-omar-sharif-bridge-ii.json](./208997-omar-sharif-bridge-ii.json) |
 | Omashu: Snail Racing | 357219 | [357219-omashu-snail-racing.json](./357219-omashu-snail-racing.json) |
 | Omber | 208576 | [208576-omber.json](./208576-omber.json) |
