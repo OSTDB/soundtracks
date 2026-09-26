@@ -1515,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tele-Doodle | 220125 | [220125-tele-doodle.json](./220125-tele-doodle.json) |
 | Tele-Shibai Wii | 64427 | [64427-tele-shibai-wii.json](./64427-tele-shibai-wii.json) |
 | Telealiens | 333183 | [333183-telealiens.json](./333183-telealiens.json) |
+| Teleball | 201016 | [201016-teleball.json](./201016-teleball.json) |
 | TeleBlast | 108420 | [108420-teleblast.json](./108420-teleblast.json) |
 | TeleCollision | 280868 | [280868-telecollision.json](./280868-telecollision.json) |
 | Teleforum | 226605 | [226605-teleforum.json](./226605-teleforum.json) |
@@ -5446,6 +5447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The love letter | 398435 | [398435-the-love-letter.json](./398435-the-love-letter.json) |
 | The Love Letter | 63820 | [63820-the-love-letter.json](./63820-the-love-letter.json) |
 | The Love of Cooking | 384791 | [384791-the-love-of-cooking.json](./384791-the-love-of-cooking.json) |
+| The Lucid Dreamer Bundle | 201012 | [201012-the-lucid-dreamer-bundle.json](./201012-the-lucid-dreamer-bundle.json) |
 | The Luckiest in the Megaverse | 285594 | [285594-the-luckiest-in-the-megaverse.json](./285594-the-luckiest-in-the-megaverse.json) |
 | The Lucky Acre | 409026 | [409026-the-lucky-acre.json](./409026-the-lucky-acre.json) |
 | The Luffman Experiment | 407561 | [407561-the-luffman-experiment.json](./407561-the-luffman-experiment.json) |
@@ -6192,6 +6194,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quiet Lonely House | 186264 | [186264-the-quiet-lonely-house.json](./186264-the-quiet-lonely-house.json) |
 | The Quiet Sleep | 72385 | [72385-the-quiet-sleep.json](./72385-the-quiet-sleep.json) |
 | The Quintessential Princesses: Fantasy, Abyss, and Magic Academy | 342720 | [342720-the-quintessential-princesses-fantasy-abyss-and-magic-academy.json](./342720-the-quintessential-princesses-fantasy-abyss-and-magic-academy.json) |
+| The Quintessential Quintuplets the Movie: Five Memories of My Time With You - Limited Edition | 201033 | [201033-the-quintessential-quintuplets-the-movie-five-memories-of-my-time-with-you-limited-edition.json](./201033-the-quintessential-quintuplets-the-movie-five-memories-of-my-time-with-you-limited-edition.json) |
+| The Quintessential Quintuplets: Five Memories Spent With You | 201044 | [201044-the-quintessential-quintuplets-five-memories-spent-with-you.json](./201044-the-quintessential-quintuplets-five-memories-spent-with-you.json) |
 | The Quintessential Quintuplets: Five Promises Made With Her | 243630 | [243630-the-quintessential-quintuplets-five-promises-made-with-her.json](./243630-the-quintessential-quintuplets-five-promises-made-with-her.json) |
 | The Quintessential Quintuplets: Gotopazu Story | 284393 | [284393-the-quintessential-quintuplets-gotopazu-story.json](./284393-the-quintessential-quintuplets-gotopazu-story.json) |
 | The Quintessential Quintuplets: Gotopazu Story 2nd | 299466 | [299466-the-quintessential-quintuplets-gotopazu-story-2nd.json](./299466-the-quintessential-quintuplets-gotopazu-story-2nd.json) |
