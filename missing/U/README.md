@@ -300,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Under Water | 155658 | [155658-ultimate-under-water.json](./155658-ultimate-under-water.json) |
 | Ultimate Vitality of Imagination | 210685 | [210685-ultimate-vitality-of-imagination.json](./210685-ultimate-vitality-of-imagination.json) |
 | Ultimate VR Collection | 108863 | [108863-ultimate-vr-collection.json](./108863-ultimate-vr-collection.json) |
+| Ultimate Waifu Battle Online | 219530 | [219530-ultimate-waifu-battle-online.json](./219530-ultimate-waifu-battle-online.json) |
 | Ultimate Wall Defense Force | 149566 | [149566-ultimate-wall-defense-force.json](./149566-ultimate-wall-defense-force.json) |
 | Ultimate Yahtzee | 69218 | [69218-ultimate-yahtzee.json](./69218-ultimate-yahtzee.json) |
 | Ultimate Zombie Defense | 127723 | [127723-ultimate-zombie-defense.json](./127723-ultimate-zombie-defense.json) |
@@ -427,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UmaNetto. Full Preved! | 252372 | [252372-umanetto-full-preved.json](./252372-umanetto-full-preved.json) |
 | Umblight | 313487 | [313487-umblight.json](./313487-umblight.json) |
 | Umbra | 202338 | [202338-umbra.json](./202338-umbra.json) |
+| Umbra | 219531 | [219531-umbra.json](./219531-umbra.json) |
 | Umbra | 95415 | [95415-umbra.json](./95415-umbra.json) |
 | Umbra Fields | 272571 | [272571-umbra-fields.json](./272571-umbra-fields.json) |
 | Umbra Flora | 386886 | [386886-umbra-flora.json](./386886-umbra-flora.json) |
@@ -590,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unconquered Castle | 109632 | [109632-unconquered-castle.json](./109632-unconquered-castle.json) |
 | Unconventional Ragdoll Game | 151525 | [151525-unconventional-ragdoll-game.json](./151525-unconventional-ragdoll-game.json) |
 | Uncopy | 104698 | [104698-uncopy.json](./104698-uncopy.json) |
+| Uncounted Isles | 219532 | [219532-uncounted-isles.json](./219532-uncounted-isles.json) |
 | Uncover | 273390 | [273390-uncover.json](./273390-uncover.json) |
 | Uncover | 316427 | [316427-uncover.json](./316427-uncover.json) |
 | Uncracked | 406826 | [406826-uncracked.json](./406826-uncracked.json) |
@@ -628,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undefeated | 36179 | [36179-undefeated.json](./36179-undefeated.json) |
 | Undefined | 111026 | [111026-undefined.json](./111026-undefined.json) |
 | Undemon | 182363 | [182363-undemon.json](./182363-undemon.json) |
+| Under Contract | 219533 | [219533-under-contract.json](./219533-under-contract.json) |
 | Under Control | 21325 | [21325-under-control.json](./21325-under-control.json) |
 | Under Dead | 244725 | [244725-under-dead.json](./244725-under-dead.json) |
 | Under Defeat | 21015 | [21015-under-defeat.json](./21015-under-defeat.json) |
@@ -691,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercurrent | 399199 | [399199-undercurrent.json](./399199-undercurrent.json) |
 | Underdog Detective | 198551 | [198551-underdog-detective.json](./198551-underdog-detective.json) |
 | Underdone | 47999 | [47999-underdone.json](./47999-underdone.json) |
+| UnderDungeon | 219525 | [219525-underdungeon.json](./219525-underdungeon.json) |
 | UnderDungeon: Deluxe Edition | 250367 | [250367-underdungeon-deluxe-edition.json](./250367-underdungeon-deluxe-edition.json) |
 | Underfang | 399713 | [399713-underfang.json](./399713-underfang.json) |
 | Underfell Neutral Run | 335065 | [335065-underfell-neutral-run.json](./335065-underfell-neutral-run.json) |
