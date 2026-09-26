@@ -1493,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AIDS Awareness | 260803 | [260803-aids-awareness.json](./260803-aids-awareness.json) |
 | AIDS Watashi o Aishite... Jin'ai Seijin | 230204 | [230204-aids-watashi-o-aishite-jinai-seijin.json](./230204-aids-watashi-o-aishite-jinai-seijin.json) |
 | Aidsmoji: The Forbidden Fruit | 86307 | [86307-aidsmoji-the-forbidden-fruit.json](./86307-aidsmoji-the-forbidden-fruit.json) |
+| AIdventure | 215027 | [215027-aidventure.json](./215027-aidventure.json) |
 | Aidyn Chronicles: The First Mage | 2850 | [2850-aidyn-chronicles-the-first-mage.json](./2850-aidyn-chronicles-the-first-mage.json) |
 | Aierlon | 203866 | [203866-aierlon.json](./203866-aierlon.json) |
 | Aigiina no Yogen: From the Legend of Balubalouk | 73806 | [73806-aigiina-no-yogen-from-the-legend-of-balubalouk.json](./73806-aigiina-no-yogen-from-the-legend-of-balubalouk.json) |
@@ -4640,6 +4641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArcBall 2 | 99424 | [99424-arcball-2.json](./99424-arcball-2.json) |
 | Arceon | 256836 | [256836-arceon.json](./256836-arceon.json) |
 | Arcflame Frontiers | 413099 | [413099-arcflame-frontiers.json](./413099-arcflame-frontiers.json) |
+| Arch Rivals | 215083 | [215083-arch-rivals.json](./215083-arch-rivals.json) |
 | Arch Rivals | 242784 | [242784-arch-rivals.json](./242784-arch-rivals.json) |
 | Arch Rivals | 4515 | [4515-arch-rivals.json](./4515-arch-rivals.json) |
 | Arch Virtual HQ | 105888 | [105888-arch-virtual-hq.json](./105888-arch-virtual-hq.json) |
@@ -6536,6 +6538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aviary Attorney: Definitive Edition | 136443 | [136443-aviary-attorney-definitive-edition.json](./136443-aviary-attorney-definitive-edition.json) |
 | Aviassembly | 291217 | [291217-aviassembly.json](./291217-aviassembly.json) |
 | Aviation Hurricane Storm | 102227 | [102227-aviation-hurricane-storm.json](./102227-aviation-hurricane-storm.json) |
+| Aviation Manager | 215097 | [215097-aviation-manager.json](./215097-aviation-manager.json) |
 | Aviator Arcade II | 182926 | [182926-aviator-arcade-ii.json](./182926-aviator-arcade-ii.json) |
 | Aviator: Air Combat | 226161 | [226161-aviator-air-combat.json](./226161-aviator-air-combat.json) |
 | Aviators VR | 280343 | [280343-aviators-vr.json](./280343-aviators-vr.json) |
