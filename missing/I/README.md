@@ -1200,6 +1200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Search of Dr. Riptide | 69578 | [69578-in-search-of-dr-riptide.json](./69578-in-search-of-dr-riptide.json) |
 | In Search of Heroes! | 303584 | [303584-in-search-of-heroes.json](./303584-in-search-of-heroes.json) |
 | In Search of Light | 182522 | [182522-in-search-of-light.json](./182522-in-search-of-light.json) |
+| In Search of Paradise | 182829 | [182829-in-search-of-paradise.json](./182829-in-search-of-paradise.json) |
 | In Search of Something | 334191 | [334191-in-search-of-something.json](./334191-in-search-of-something.json) |
 | In Search of the Golden Crops | 321596 | [321596-in-search-of-the-golden-crops.json](./321596-in-search-of-the-golden-crops.json) |
 | In Search of the Most Amazing Thing | 69820 | [69820-in-search-of-the-most-amazing-thing.json](./69820-in-search-of-the-most-amazing-thing.json) |
