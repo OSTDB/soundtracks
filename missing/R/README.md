@@ -1893,6 +1893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflex Unit: Strike Ops | 304653 | [304653-reflex-unit-strike-ops.json](./304653-reflex-unit-strike-ops.json) |
 | Reflexia Prototype ver. | 224749 | [224749-reflexia-prototype-ver.json](./224749-reflexia-prototype-ver.json) |
 | Reformpunk | 367604 | [367604-reformpunk.json](./367604-reformpunk.json) |
+| Refraction: Beyond the Mirror | 186647 | [186647-refraction-beyond-the-mirror.json](./186647-refraction-beyond-the-mirror.json) |
 | Refrain Blue | 395006 | [395006-refrain-blue.json](./395006-refrain-blue.json) |
 | Refrain Love 2 | 55116 | [55116-refrain-love-2.json](./55116-refrain-love-2.json) |
 | Refrain Love: Anata ni Aitai | 64892 | [64892-refrain-love-anata-ni-aitai.json](./64892-refrain-love-anata-ni-aitai.json) |
@@ -2730,6 +2731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revival of the Road | 83496 | [83496-revival-of-the-road.json](./83496-revival-of-the-road.json) |
 | Revival Xanadu | 260750 | [260750-revival-xanadu.json](./260750-revival-xanadu.json) |
 | Revival Xanadu 2: Remix | 260751 | [260751-revival-xanadu-2-remix.json](./260751-revival-xanadu-2-remix.json) |
+| Revive | 186634 | [186634-revive.json](./186634-revive.json) |
 | Revive | 334183 | [334183-revive.json](./334183-revive.json) |
 | Revive & Repeat | 391731 | [391731-revive-and-repeat.json](./391731-revive-and-repeat.json) |
 | Revive The Town! | 353372 | [353372-revive-the-town.json](./353372-revive-the-town.json) |
@@ -3660,6 +3662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robolucion: The Sandwich Conspiracy | 390681 | [390681-robolucion-the-sandwich-conspiracy.json](./390681-robolucion-the-sandwich-conspiracy.json) |
 | RoboMaze III: The Dome | 78029 | [78029-robomaze-iii-the-dome.json](./78029-robomaze-iii-the-dome.json) |
 | RoboMaze: The Basement | 59927 | [59927-robomaze-the-basement.json](./59927-robomaze-the-basement.json) |
+| Roboplant | 186641 | [186641-roboplant.json](./186641-roboplant.json) |
 | Robopost | 244195 | [244195-robopost.json](./244195-robopost.json) |
 | RoboQuest | 199912 | [199912-roboquest.json](./199912-roboquest.json) |
 | Roboquest VR | 313774 | [313774-roboquest-vr.json](./313774-roboquest-vr.json) |
@@ -3711,6 +3714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Rescue 2 | 84845 | [84845-robot-rescue-2.json](./84845-robot-rescue-2.json) |
 | Robot Robert | 149048 | [149048-robot-robert.json](./149048-robot-robert.json) |
 | Robot Rumble 2 | 113767 | [113767-robot-rumble-2.json](./113767-robot-rumble-2.json) |
+| Robot Sex Party Murder | 186631 | [186631-robot-sex-party-murder.json](./186631-robot-sex-party-murder.json) |
 | Robot Squad Simulator 2017 | 34389 | [34389-robot-squad-simulator-2017.json](./34389-robot-squad-simulator-2017.json) |
 | Robot Squad Simulator X | 134013 | [134013-robot-squad-simulator-x.json](./134013-robot-squad-simulator-x.json) |
 | Robot Start: Puzzle Game | 149605 | [149605-robot-start-puzzle-game.json](./149605-robot-start-puzzle-game.json) |
