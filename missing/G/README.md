@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Over II | 46658 | [46658-game-over-ii.json](./46658-game-over-ii.json) |
 | Game Over Quest | 122330 | [122330-game-over-quest.json](./122330-game-over-quest.json) |
 | Game Over, Daisy! Deluxe | 139260 | [139260-game-over-daisy-deluxe.json](./139260-game-over-daisy-deluxe.json) |
+| Game Over: A Musical RPG?? | 207767 | [207767-game-over-a-musical-rpg.json](./207767-game-over-a-musical-rpg.json) |
 | Game Over! | 380539 | [380539-game-over.json](./380539-game-over.json) |
 | Game Party 3 | 76982 | [76982-game-party-3.json](./76982-game-party-3.json) |
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
@@ -978,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gebub's Adventure | 31869 | [31869-gebubs-adventure.json](./31869-gebubs-adventure.json) |
 | Gecko Blaster | 43256 | [43256-gecko-blaster.json](./43256-gecko-blaster.json) |
 | Geckos & Deckos | 379367 | [379367-geckos-and-deckos.json](./379367-geckos-and-deckos.json) |
+| Gedaria: Fairytale Forest | 207781 | [207781-gedaria-fairytale-forest.json](./207781-gedaria-fairytale-forest.json) |
 | Gedda Cake | 180286 | [180286-gedda-cake.json](./180286-gedda-cake.json) |
 | Gee Bee Air Rally | 12115 | [12115-gee-bee-air-rally.json](./12115-gee-bee-air-rally.json) |
 | Geenius: Cupid Dough | 395196 | [395196-geenius-cupid-dough.json](./395196-geenius-cupid-dough.json) |
@@ -2438,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godspeed: A Flame for Winter | 321741 | [321741-godspeed-a-flame-for-winter.json](./321741-godspeed-a-flame-for-winter.json) |
 | Godspell Defender | 201667 | [201667-godspell-defender.json](./201667-godspell-defender.json) |
 | Godsworn | 213612 | [213612-godsworn.json](./213612-godsworn.json) |
+| Godtail | 207755 | [207755-godtail.json](./207755-godtail.json) |
 | Godus | 3115 | [3115-godus.json](./3115-godus.json) |
 | Godwalker | 260240 | [260240-godwalker.json](./260240-godwalker.json) |
 | Godzilla | 75888 | [75888-godzilla.json](./75888-godzilla.json) |
