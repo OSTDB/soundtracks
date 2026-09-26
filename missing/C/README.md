@@ -1764,6 +1764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catty & Batty: The Spirit Guide | 143470 | [143470-catty-and-batty-the-spirit-guide.json](./143470-catty-and-batty-the-spirit-guide.json) |
 | Catty Battle | 129816 | [129816-catty-battle.json](./129816-catty-battle.json) |
 | Catty Cathy | 281982 | [281982-catty-cathy.json](./281982-catty-cathy.json) |
+| Catwalk Battle | 208912 | [208912-catwalk-battle.json](./208912-catwalk-battle.json) |
 | Catwoman | 3851 | [3851-catwoman.json](./3851-catwoman.json) |
 | Catwoman | 67337 | [67337-catwoman.json](./67337-catwoman.json) |
 | Catx11 | 400482 | [400482-catx11.json](./400482-catx11.json) |
@@ -4079,6 +4080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closer to Home | 221122 | [221122-closer-to-home.json](./221122-closer-to-home.json) |
 | CloserLook VR: Oldways | 325838 | [325838-closerlook-vr-oldways.json](./325838-closerlook-vr-oldways.json) |
 | CloserTo | 396374 | [396374-closerto.json](./396374-closerto.json) |
+| Closet Organizer | 208913 | [208913-closet-organizer.json](./208913-closet-organizer.json) |
 | Closing at 2 | 280283 | [280283-closing-at-2.json](./280283-closing-at-2.json) |
 | Closing Shift | 412551 | [412551-closing-shift.json](./412551-closing-shift.json) |
 | Clostrophobia: Vol 1 | 293650 | [293650-clostrophobia-vol-1.json](./293650-clostrophobia-vol-1.json) |
@@ -4991,6 +4993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander: Europe at War | 324929 | [324929-commander-europe-at-war.json](./324929-commander-europe-at-war.json) |
 | Commander: Modern War | 234017 | [234017-commander-modern-war.json](./234017-commander-modern-war.json) |
 | Commander: Zombie Wars | 258969 | [258969-commander-zombie-wars.json](./258969-commander-zombie-wars.json) |
+| Commander.io | 208914 | [208914-commander-io.json](./208914-commander-io.json) |
 | Commanders of the Void | 379872 | [379872-commanders-of-the-void.json](./379872-commanders-of-the-void.json) |
 | Commanders: Attack of the Genos | 20775 | [20775-commanders-attack-of-the-genos.json](./20775-commanders-attack-of-the-genos.json) |
 | CommanderTux | 320161 | [320161-commandertux.json](./320161-commandertux.json) |
@@ -6559,6 +6562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Space Goat Simulator 3D - 2 | 101960 | [101960-crazy-space-goat-simulator-3d-2.json](./101960-crazy-space-goat-simulator-3d-2.json) |
 | Crazy Squares: Milk River Run | 365889 | [365889-crazy-squares-milk-river-run.json](./365889-crazy-squares-milk-river-run.json) |
 | Crazy Steam Bros 2 | 35640 | [35640-crazy-steam-bros-2.json](./35640-crazy-steam-bros-2.json) |
+| Crazy Stone Deep Learning | 208915 | [208915-crazy-stone-deep-learning.json](./208915-crazy-stone-deep-learning.json) |
 | Crazy Stunt Driver: Extreme Racing Simulator | 300859 | [300859-crazy-stunt-driver-extreme-racing-simulator.json](./300859-crazy-stunt-driver-extreme-racing-simulator.json) |
 | Crazy Tapper + | 175343 | [175343-crazy-tapper.json](./175343-crazy-tapper.json) |
 | Crazy Taxi | 1805 | [1805-crazy-taxi.json](./1805-crazy-taxi.json) |
