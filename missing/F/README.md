@@ -2122,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Mission VR | 124191 | [124191-final-mission-vr.json](./124191-final-mission-vr.json) |
 | Final Missions | 103187 | [103187-final-missions.json](./103187-final-missions.json) |
 | Final Nation | 251823 | [251823-final-nation.json](./251823-final-nation.json) |
+| Final Ninja | 176821 | [176821-final-ninja.json](./176821-final-ninja.json) |
 | Final Notice | 351112 | [351112-final-notice.json](./351112-final-notice.json) |
 | Final Odyssey | 378173 | [378173-final-odyssey.json](./378173-final-odyssey.json) |
 | Final Paradox | 280351 | [280351-final-paradox.json](./280351-final-paradox.json) |
@@ -4858,6 +4859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday the 13th: Killer Puzzle - Flaming Jason | 163474 | [163474-friday-the-13th-killer-puzzle-flaming-jason.json](./163474-friday-the-13th-killer-puzzle-flaming-jason.json) |
 | Friday the 13th: Killer Puzzle - Retro Jason | 163470 | [163470-friday-the-13th-killer-puzzle-retro-jason.json](./163470-friday-the-13th-killer-puzzle-retro-jason.json) |
 | Friday the 13th: Killer Puzzle - Toxic Jason | 163473 | [163473-friday-the-13th-killer-puzzle-toxic-jason.json](./163473-friday-the-13th-killer-puzzle-toxic-jason.json) |
+| Friday the 13th: Return to Camp Blood | 176822 | [176822-friday-the-13th-return-to-camp-blood.json](./176822-friday-the-13th-return-to-camp-blood.json) |
 | Friday the 13th: Return to Camp Blood Demake | 214609 | [214609-friday-the-13th-return-to-camp-blood-demake.json](./214609-friday-the-13th-return-to-camp-blood-demake.json) |
 | Friday the 13th: The Game - Spring Break 1984 Clothing Pack | 224244 | [224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json](./224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json) |
 | Friday: Death to Arthur Yahtzee | 62155 | [62155-friday-death-to-arthur-yahtzee.json](./62155-friday-death-to-arthur-yahtzee.json) |
