@@ -1565,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL: Legacy Edition | 36848 | [36848-nhl-legacy-edition.json](./36848-nhl-legacy-edition.json) |
 | NHLPA Hockey 93 | 42479 | [42479-nhlpa-hockey-93.json](./42479-nhlpa-hockey-93.json) |
 | NHRA Championship Drag Racing | 18269 | [18269-nhra-championship-drag-racing.json](./18269-nhra-championship-drag-racing.json) |
+| NHRA Championship Drag Racing: Speed for All | 212785 | [212785-nhra-championship-drag-racing-speed-for-all.json](./212785-nhra-championship-drag-racing-speed-for-all.json) |
 | NHRA Championship Drag Racing: Speed for All - Deluxe Edition | 214728 | [214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json](./214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json) |
 | NHRA Championship Drag Racing: Speed for All - John Force Racing Pack | 263055 | [263055-nhra-championship-drag-racing-speed-for-all-john-force-racing-pack.json](./263055-nhra-championship-drag-racing-speed-for-all-john-force-racing-pack.json) |
 | NHRA Championship Drag Racing: Speed for All - Ultimate Edition | 212791 | [212791-nhra-championship-drag-racing-speed-for-all-ultimate-edition.json](./212791-nhra-championship-drag-racing-speed-for-all-ultimate-edition.json) |
