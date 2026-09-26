@@ -402,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Pigeons | 348776 | [348776-war-pigeons.json](./348776-war-pigeons.json) |
 | War Pinball | 209715 | [209715-war-pinball.json](./209715-war-pinball.json) |
 | War Pirates | 237639 | [237639-war-pirates.json](./237639-war-pirates.json) |
+| War Plan Orange: Dreadnoughts in the Pacific 1922 - 1930 | 215078 | [215078-war-plan-orange-dreadnoughts-in-the-pacific-1922-1930.json](./215078-war-plan-orange-dreadnoughts-in-the-pacific-1922-1930.json) |
 | War Platform | 112752 | [112752-war-platform.json](./112752-war-platform.json) |
 | War Rats: The Rat em Up | 326211 | [326211-war-rats-the-rat-em-up.json](./326211-war-rats-the-rat-em-up.json) |
 | War Remains | 124265 | [124265-war-remains.json](./124265-war-remains.json) |
@@ -2071,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Races | 175395 | [175395-wild-west-races.json](./175395-wild-west-races.json) |
 | Wild West Rogue | 166609 | [166609-wild-west-rogue.json](./166609-wild-west-rogue.json) |
 | Wild West Seymour | 18575 | [18575-wild-west-seymour.json](./18575-wild-west-seymour.json) |
+| Wild West Story: The Beginnings | 215032 | [215032-wild-west-story-the-beginnings.json](./215032-wild-west-story-the-beginnings.json) |
 | Wild West Supermarket Simulator | 345511 | [345511-wild-west-supermarket-simulator.json](./345511-wild-west-supermarket-simulator.json) |
 | Wild West Survival | 139212 | [139212-wild-west-survival.json](./139212-wild-west-survival.json) |
 | Wild West Survivors | 403721 | [403721-wild-west-survivors.json](./403721-wild-west-survivors.json) |
