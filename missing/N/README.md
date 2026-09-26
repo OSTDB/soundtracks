@@ -73,6 +73,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakamers: La Huida | 305946 | [305946-nakamers-la-huida.json](./305946-nakamers-la-huida.json) |
 | Nakamon | 392129 | [392129-nakamon.json](./392129-nakamon.json) |
 | Nakamoto | 60237 | [60237-nakamoto.json](./60237-nakamoto.json) |
+| Nakana Bundle 1: Soul Searching + A Night at the Races + Infini | 204976 | [204976-nakana-bundle-1-soul-searching-a-night-at-the-races-infini.json](./204976-nakana-bundle-1-soul-searching-a-night-at-the-races-infini.json) |
+| Nakana Bundle 2: Mythic Ocean + Journey of the Broken Circle + Cosmic Top Secret | 204972 | [204972-nakana-bundle-2-mythic-ocean-journey-of-the-broken-circle-cosmic-top-secret.json](./204972-nakana-bundle-2-mythic-ocean-journey-of-the-broken-circle-cosmic-top-secret.json) |
 | Nakana Bundle 3: Eqqo + Lydia + Stilstand | 207900 | [207900-nakana-bundle-3-eqqo-lydia-stilstand.json](./207900-nakana-bundle-3-eqqo-lydia-stilstand.json) |
 | Nakawak | 68193 | [68193-nakawak.json](./68193-nakawak.json) |
 | Nakayoshi Pet Series 2: Kawaii Usagi | 217820 | [217820-nakayoshi-pet-series-2-kawaii-usagi.json](./217820-nakayoshi-pet-series-2-kawaii-usagi.json) |
@@ -1987,6 +1989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nina in Depravity | 333615 | [333615-nina-in-depravity.json](./333615-nina-in-depravity.json) |
 | Nina: Agent Chronicles | 24090 | [24090-nina-agent-chronicles.json](./24090-nina-agent-chronicles.json) |
 | Ninano: Dream Ranch | 235676 | [235676-ninano-dream-ranch.json](./235676-ninano-dream-ranch.json) |
+| NinCat | 204971 | [204971-nincat.json](./204971-nincat.json) |
 | Nindo: Guardian of the Starlit Shadow | 342050 | [342050-nindo-guardian-of-the-starlit-shadow.json](./342050-nindo-guardian-of-the-starlit-shadow.json) |
 | Nine Errand | 274512 | [274512-nine-errand.json](./274512-nine-errand.json) |
 | Nine Hentai Babes | 368513 | [368513-nine-hentai-babes.json](./368513-nine-hentai-babes.json) |
@@ -2025,6 +2028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Battle | 204488 | [204488-ninja-battle.json](./204488-ninja-battle.json) |
 | Ninja Battle Heroes | 24564 | [24564-ninja-battle-heroes.json](./24564-ninja-battle-heroes.json) |
 | Ninja Break | 203559 | [203559-ninja-break.json](./203559-ninja-break.json) |
+| Ninja Break: Head to Head | 204992 | [204992-ninja-break-head-to-head.json](./204992-ninja-break-head-to-head.json) |
 | Ninja Brigade feat. Jonah Weingarten | 146101 | [146101-ninja-brigade-feat-jonah-weingarten.json](./146101-ninja-brigade-feat-jonah-weingarten.json) |
 | Ninja Bullets | 25755 | [25755-ninja-bullets.json](./25755-ninja-bullets.json) |
 | Ninja Cat Remewstered | 406931 | [406931-ninja-cat-remewstered.json](./406931-ninja-cat-remewstered.json) |
