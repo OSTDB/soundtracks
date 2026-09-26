@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Boy And His Barrel | 295931 | [295931-a-boy-and-his-barrel.json](./295931-a-boy-and-his-barrel.json) |
 | A Brat's Journey: A Rose Playing Game | 372579 | [372579-a-brats-journey-a-rose-playing-game.json](./372579-a-brats-journey-a-rose-playing-game.json) |
 | A Break in the Road | 300000 | [300000-a-break-in-the-road.json](./300000-a-break-in-the-road.json) |
+| A Bridge Too Far | 181134 | [181134-a-bridge-too-far.json](./181134-a-bridge-too-far.json) |
 | A Brief Tale | 411683 | [411683-a-brief-tale.json](./411683-a-brief-tale.json) |
 | A Bug's Life: Active Play | 311677 | [311677-a-bugs-life-active-play.json](./311677-a-bugs-life-active-play.json) |
 | A Building Full of Cats 2 | 301592 | [301592-a-building-full-of-cats-2.json](./301592-a-building-full-of-cats-2.json) |
@@ -44,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cat's Night 2: Orazio goes to town | 125204 | [125204-a-cats-night-2-orazio-goes-to-town.json](./125204-a-cats-night-2-orazio-goes-to-town.json) |
 | A Cat's Way Home | 337791 | [337791-a-cats-way-home.json](./337791-a-cats-way-home.json) |
 | A Ch'ti Bundle | 147792 | [147792-a-chti-bundle.json](./147792-a-chti-bundle.json) |
+| A Chainsaw Across My Heart | 181155 | [181155-a-chainsaw-across-my-heart.json](./181155-a-chainsaw-across-my-heart.json) |
 | A Challenging Game About Parkour | 379464 | [379464-a-challenging-game-about-parkour.json](./379464-a-challenging-game-about-parkour.json) |
 | A Chamber of Stars | 216710 | [216710-a-chamber-of-stars.json](./216710-a-chamber-of-stars.json) |
 | A Chicken In The Office | 379463 | [379463-a-chicken-in-the-office.json](./379463-a-chicken-in-the-office.json) |
@@ -1074,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Apes and the Mayan Mystery | 33017 | [33017-adventure-apes-and-the-mayan-mystery.json](./33017-adventure-apes-and-the-mayan-mystery.json) |
 | Adventure Ball 3D Balancer | 249451 | [249451-adventure-ball-3d-balancer.json](./249451-adventure-ball-3d-balancer.json) |
 | Adventure Bar Story | 279048 | [279048-adventure-bar-story.json](./279048-adventure-bar-story.json) |
+| Adventure Boss | 181154 | [181154-adventure-boss.json](./181154-adventure-boss.json) |
 | Adventure C: The Ship of Doom | 72641 | [72641-adventure-c-the-ship-of-doom.json](./72641-adventure-c-the-ship-of-doom.json) |
 | AdVenture Capitalist | 9591 | [9591-adventure-capitalist.json](./9591-adventure-capitalist.json) |
 | Adventure Climb VR | 116821 | [116821-adventure-climb-vr.json](./116821-adventure-climb-vr.json) |
@@ -1134,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Realm | 357782 | [357782-adventure-realm.json](./357782-adventure-realm.json) |
 | Adventure Reborn | 240155 | [240155-adventure-reborn.json](./240155-adventure-reborn.json) |
 | Adventure Rush | 192674 | [192674-adventure-rush.json](./192674-adventure-rush.json) |
+| Adventure Smasher | 181168 | [181168-adventure-smasher.json](./181168-adventure-smasher.json) |
 | Adventure Story | 265404 | [265404-adventure-story.json](./265404-adventure-story.json) |
 | Adventure the Four Swords | 179576 | [179576-adventure-the-four-swords.json](./179576-adventure-the-four-swords.json) |
 | Adventure Time Game Wizard: Draw Your Own Adventure Time Games | 88096 | [88096-adventure-time-game-wizard-draw-your-own-adventure-time-games.json](./88096-adventure-time-game-wizard-draw-your-own-adventure-time-games.json) |
