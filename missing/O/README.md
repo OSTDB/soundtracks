@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Strikers: Season 2 - Summer Splash | 260971 | [260971-omega-strikers-season-2-summer-splash.json](./260971-omega-strikers-season-2-summer-splash.json) |
 | Omega Vampire | 136834 | [136834-omega-vampire.json](./136834-omega-vampire.json) |
 | Omega Vanitas | 416607 | [416607-omega-vanitas.json](./416607-omega-vanitas.json) |
+| Omega Warp | 218403 | [218403-omega-warp.json](./218403-omega-warp.json) |
 | Omega Zone | 291607 | [291607-omega-zone.json](./291607-omega-zone.json) |
 | Omega-Altro | 156117 | [156117-omega-altro.json](./156117-omega-altro.json) |
 | Omega: The Beginning | 117700 | [117700-omega-the-beginning.json](./117700-omega-the-beginning.json) |
@@ -1755,6 +1756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oscar the Balloonist Discovers the Farm | 250604 | [250604-oscar-the-balloonist-discovers-the-farm.json](./250604-oscar-the-balloonist-discovers-the-farm.json) |
 | Oscar Wilde Card | 220615 | [220615-oscar-wilde-card.json](./220615-oscar-wilde-card.json) |
 | Oscar's World Tour | 65749 | [65749-oscars-world-tour.json](./65749-oscars-world-tour.json) |
+| Oscarzinho e o Bug do Esporte | 218411 | [218411-oscarzinho-e-o-bug-do-esporte.json](./218411-oscarzinho-e-o-bug-do-esporte.json) |
 | Oscillation | 262313 | [262313-oscillation.json](./262313-oscillation.json) |
 | Oscillatron: Alien Frequency | 96118 | [96118-oscillatron-alien-frequency.json](./96118-oscillatron-alien-frequency.json) |
 | Oscura: Lost Light | 17784 | [17784-oscura-lost-light.json](./17784-oscura-lost-light.json) |
@@ -2270,6 +2272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overkill | 272013 | [272013-overkill.json](./272013-overkill.json) |
 | Overkill | 95402 | [95402-overkill.json](./95402-overkill.json) |
 | Overkill VR | 25946 | [25946-overkill-vr.json](./25946-overkill-vr.json) |
+| Overkings | 218398 | [218398-overkings.json](./218398-overkings.json) |
 | Overknight Dungeon | 223980 | [223980-overknight-dungeon.json](./223980-overknight-dungeon.json) |
 | Overland Weekend | 150514 | [150514-overland-weekend.json](./150514-overland-weekend.json) |
 | Overlapped | 192318 | [192318-overlapped.json](./192318-overlapped.json) |
