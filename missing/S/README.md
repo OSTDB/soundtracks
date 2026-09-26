@@ -882,6 +882,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satawn | 405573 | [405573-satawn.json](./405573-satawn.json) |
 | Sate | 273432 | [273432-sate.json](./273432-sate.json) |
 | Satebo's Word Game | 265176 | [265176-satebos-word-game.json](./265176-satebos-word-game.json) |
+| Satella 2 1 | 178952 | [178952-satella-2-1.json](./178952-satella-2-1.json) |
+| Satella X | 178953 | [178953-satella-x.json](./178953-satella-x.json) |
 | Satella-Q: Nenmatsu Jumbo Takara Quiz | 234040 | [234040-satella-q-nenmatsu-jumbo-takara-quiz.json](./234040-satella-q-nenmatsu-jumbo-takara-quiz.json) |
 | Satellina | 128557 | [128557-satellina.json](./128557-satellina.json) |
 | Satellite Attack | 41571 | [41571-satellite-attack.json](./41571-satellite-attack.json) |
@@ -7930,6 +7932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Blaze | 127182 | [127182-space-blaze.json](./127182-space-blaze.json) |
 | Space BloX | 119042 | [119042-space-blox.json](./119042-space-blox.json) |
 | Space Bomb | 120417 | [120417-space-bomb.json](./120417-space-bomb.json) |
+| Space Bounce | 178984 | [178984-space-bounce.json](./178984-space-bounce.json) |
 | Space Box Battle Arena | 164968 | [164968-space-box-battle-arena.json](./164968-space-box-battle-arena.json) |
 | Space Break | 142853 | [142853-space-break.json](./142853-space-break.json) |
 | Space Break 2 Head to Head | 214059 | [214059-space-break-2-head-to-head.json](./214059-space-break-2-head-to-head.json) |
@@ -7968,6 +7971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Command Battleship | 262071 | [262071-space-command-battleship.json](./262071-space-command-battleship.json) |
 | Space Commander: War and Trade | 146222 | [146222-space-commander-war-and-trade.json](./146222-space-commander-war-and-trade.json) |
 | Space Commanders | 397256 | [397256-space-commanders.json](./397256-space-commanders.json) |
+| Space Confetti | 178962 | [178962-space-confetti.json](./178962-space-confetti.json) |
 | Space Conquest: A Galactic Odyssey | 73295 | [73295-space-conquest-a-galactic-odyssey.json](./73295-space-conquest-a-galactic-odyssey.json) |
 | Space Contact | 340198 | [340198-space-contact.json](./340198-space-contact.json) |
 | Space Control | 190955 | [190955-space-control.json](./190955-space-control.json) |
@@ -11056,6 +11060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StickWars | 90800 | [90800-stickwars.json](./90800-stickwars.json) |
 | Sticky Business: Seaside Tales | 411002 | [411002-sticky-business-seaside-tales.json](./411002-sticky-business-seaside-tales.json) |
 | Sticky Castle | 232031 | [232031-sticky-castle.json](./232031-sticky-castle.json) |
+| Sticky Keys | 178986 | [178986-sticky-keys.json](./178986-sticky-keys.json) |
 | Sticky Ninja Academy | 286647 | [286647-sticky-ninja-academy.json](./286647-sticky-ninja-academy.json) |
 | Sticky Pigeons | 177023 | [177023-sticky-pigeons.json](./177023-sticky-pigeons.json) |
 | Sticky Sheep | 20726 | [20726-sticky-sheep.json](./20726-sticky-sheep.json) |
