@@ -2399,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alcor Trivia Pro Classic Star Trek (Star-Log I) | 71672 | [71672-the-alcor-trivia-pro-classic-star-trek-star-log-i.json](./71672-the-alcor-trivia-pro-classic-star-trek-star-log-i.json) |
 | The Alehouse Tavern Chronicles | 335074 | [335074-the-alehouse-tavern-chronicles.json](./335074-the-alehouse-tavern-chronicles.json) |
 | The Alfonzone | 256890 | [256890-the-alfonzone.json](./256890-the-alfonzone.json) |
+| The Alien Island: 3D-Version | 174636 | [174636-the-alien-island-3d-version.json](./174636-the-alien-island-3d-version.json) |
 | The Alien Trials | 149578 | [149578-the-alien-trials.json](./149578-the-alien-trials.json) |
 | The Alliance Alive HD Remastered | 115989 | [115989-the-alliance-alive-hd-remastered.json](./115989-the-alliance-alive-hd-remastered.json) |
 | The Alligator People | 46893 | [46893-the-alligator-people.json](./46893-the-alligator-people.json) |
@@ -4635,6 +4636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Invisible Hand: Deep Pockets Edition | 155051 | [155051-the-invisible-hand-deep-pockets-edition.json](./155051-the-invisible-hand-deep-pockets-edition.json) |
 | The Irate Gamer Game | 20195 | [20195-the-irate-gamer-game.json](./20195-the-irate-gamer-game.json) |
 | The Iron Age | 223151 | [223151-the-iron-age.json](./223151-the-iron-age.json) |
+| The Irregular at Magic High School Reloaded Memory | 174649 | [174649-the-irregular-at-magic-high-school-reloaded-memory.json](./174649-the-irregular-at-magic-high-school-reloaded-memory.json) |
 | The Island | 274188 | [274188-the-island.json](./274188-the-island.json) |
 | The Island | 287239 | [287239-the-island.json](./287239-the-island.json) |
 | The Island - Ethereal | 58833 | [58833-the-island-ethereal.json](./58833-the-island-ethereal.json) |
@@ -6005,6 +6007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oregon Trail: 5th Edition | 68343 | [68343-the-oregon-trail-5th-edition.json](./68343-the-oregon-trail-5th-edition.json) |
 | The Oregon Trail: Boom Town | 247177 | [247177-the-oregon-trail-boom-town.json](./247177-the-oregon-trail-boom-town.json) |
 | The Oregon Trail: Classic Edition | 82073 | [82073-the-oregon-trail-classic-edition.json](./82073-the-oregon-trail-classic-edition.json) |
+| The Origin Mission | 174655 | [174655-the-origin-mission.json](./174655-the-origin-mission.json) |
 | The Origin of Hope | 241504 | [241504-the-origin-of-hope.json](./241504-the-origin-of-hope.json) |
 | The Origin Theory: Episode One | 304589 | [304589-the-origin-theory-episode-one.json](./304589-the-origin-theory-episode-one.json) |
 | The Original Mobile Games | 130882 | [130882-the-original-mobile-games.json](./130882-the-original-mobile-games.json) |
