@@ -4373,6 +4373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee & Boobs | 347219 | [347219-coffee-and-boobs.json](./347219-coffee-and-boobs.json) |
 | Coffee At Night | 339351 | [339351-coffee-at-night.json](./339351-coffee-at-night.json) |
 | Coffee Break | 326214 | [326214-coffee-break.json](./326214-coffee-break.json) |
+| Coffee Break: Head to Head | 207277 | [207277-coffee-break-head-to-head.json](./207277-coffee-break-head-to-head.json) |
 | Coffee Buns | 281377 | [281377-coffee-buns.json](./281377-coffee-buns.json) |
 | Coffee Dates | 247466 | [247466-coffee-dates.json](./247466-coffee-dates.json) |
 | Coffee Express | 320924 | [320924-coffee-express.json](./320924-coffee-express.json) |
@@ -6305,6 +6306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cranks Playdate Baseball | 273673 | [273673-cranks-playdate-baseball.json](./273673-cranks-playdate-baseball.json) |
 | Crankstone | 361914 | [361914-crankstone.json](./361914-crankstone.json) |
 | Crankventure Capitalist | 314494 | [314494-crankventure-capitalist.json](./314494-crankventure-capitalist.json) |
+| Cranky Bird | 207285 | [207285-cranky-bird.json](./207285-cranky-bird.json) |
 | Cranky Cat | 16514 | [16514-cranky-cat.json](./16514-cranky-cat.json) |
 | Cranky Food Friends | 230209 | [230209-cranky-food-friends.json](./230209-cranky-food-friends.json) |
 | Crap Game, Don’t Play | 365075 | [365075-crap-game-don-t-play.json](./365075-crap-game-don-t-play.json) |
@@ -7138,6 +7140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruelty | 402295 | [402295-cruelty.json](./402295-cruelty.json) |
 | Cruis'n Exotica | 249136 | [249136-cruisn-exotica.json](./249136-cruisn-exotica.json) |
 | Cruise & Learn: Downtown Collection | 386214 | [386214-cruise-and-learn-downtown-collection.json](./386214-cruise-and-learn-downtown-collection.json) |
+| Cruise Ship Manager | 207269 | [207269-cruise-ship-manager.json](./207269-cruise-ship-manager.json) |
 | Cruise Ships Manager | 218698 | [218698-cruise-ships-manager.json](./218698-cruise-ships-manager.json) |
 | Crumble | 117054 | [117054-crumble.json](./117054-crumble.json) |
 | Crumble Party! | 339341 | [339341-crumble-party.json](./339341-crumble-party.json) |
