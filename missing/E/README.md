@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egregore | 310046 | [310046-egregore.json](./310046-egregore.json) |
 | Egress Protocol | 375856 | [375856-egress-protocol.json](./375856-egress-protocol.json) |
 | Egret II Mini: Arcade Memories Vol. II | 265645 | [265645-egret-ii-mini-arcade-memories-vol-ii.json](./265645-egret-ii-mini-arcade-memories-vol-ii.json) |
+| Egypt Blocks Puzzle | 180038 | [180038-egypt-blocks-puzzle.json](./180038-egypt-blocks-puzzle.json) |
 | Egypt Collection | 195099 | [195099-egypt-collection.json](./195099-egypt-collection.json) |
 | Egypt Frontiers | 266293 | [266293-egypt-frontiers.json](./266293-egypt-frontiers.json) |
 | Egypt in Space | 343998 | [343998-egypt-in-space.json](./343998-egypt-in-space.json) |
@@ -2112,6 +2113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the Trap World | 197257 | [197257-escape-from-the-trap-world.json](./197257-escape-from-the-trap-world.json) |
 | Escape From The Tutorial | 301599 | [301599-escape-from-the-tutorial.json](./301599-escape-from-the-tutorial.json) |
 | Escape from the Underworld | 124599 | [124599-escape-from-the-underworld.json](./124599-escape-from-the-underworld.json) |
+| Escape from the Village | 180017 | [180017-escape-from-the-village.json](./180017-escape-from-the-village.json) |
 | Escape from the Yellow Room 3 | 220216 | [220216-escape-from-the-yellow-room-3.json](./220216-escape-from-the-yellow-room-3.json) |
 | Escape From This Planet | 224550 | [224550-escape-from-this-planet.json](./224550-escape-from-this-planet.json) |
 | Escape From Timokha 2: Army | 334199 | [334199-escape-from-timokha-2-army.json](./334199-escape-from-timokha-2-army.json) |
@@ -2832,6 +2834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Snowmen 2 | 265140 | [265140-evil-snowmen-2.json](./265140-evil-snowmen-2.json) |
 | Evil Soul | 165709 | [165709-evil-soul.json](./165709-evil-soul.json) |
 | Evil Spirits | 55182 | [55182-evil-spirits.json](./55182-evil-spirits.json) |
+| Evil Spring: Student Hollidays | 180044 | [180044-evil-spring-student-hollidays.json](./180044-evil-spring-student-hollidays.json) |
 | Evil Superhero Simulator | 364054 | [364054-evil-superhero-simulator.json](./364054-evil-superhero-simulator.json) |
 | Evil Superhero VR: Superhero Simulator | 370884 | [370884-evil-superhero-vr-superhero-simulator.json](./370884-evil-superhero-vr-superhero-simulator.json) |
 | Evil Tactics | 236018 | [236018-evil-tactics.json](./236018-evil-tactics.json) |
