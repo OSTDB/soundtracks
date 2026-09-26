@@ -3875,6 +3875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claw Dropper | 365720 | [365720-claw-dropper.json](./365720-claw-dropper.json) |
 | Claw Express | 270384 | [270384-claw-express.json](./270384-claw-express.json) |
 | Claw Machine Sim | 259013 | [259013-claw-machine-sim.json](./259013-claw-machine-sim.json) |
+| Clawberta | 192191 | [192191-clawberta.json](./192191-clawberta.json) |
 | Clawed | 342028 | [342028-clawed.json](./342028-clawed.json) |
 | Clawface | 89670 | [89670-clawface.json](./89670-clawface.json) |
 | Clawless Coin | 405526 | [405526-clawless-coin.json](./405526-clawless-coin.json) |
@@ -4746,20 +4747,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Game 4: 4 Bit Palette | 252747 | [252747-coloring-game-4-4-bit-palette.json](./252747-coloring-game-4-4-bit-palette.json) |
 | Coloring Game 4: 5 Bit Palette | 252743 | [252743-coloring-game-4-5-bit-palette.json](./252743-coloring-game-4-5-bit-palette.json) |
 | Coloring Game 4: Cats & Dogs | 252740 | [252740-coloring-game-4-cats-and-dogs.json](./252740-coloring-game-4-cats-and-dogs.json) |
+| Coloring Game 4: City | 192188 | [192188-coloring-game-4-city.json](./192188-coloring-game-4-city.json) |
 | Coloring Game 4: Cyberpunk | 252757 | [252757-coloring-game-4-cyberpunk.json](./252757-coloring-game-4-cyberpunk.json) |
 | Coloring Game 4: Demake No. 1 | 252753 | [252753-coloring-game-4-demake-no-1.json](./252753-coloring-game-4-demake-no-1.json) |
 | Coloring Game 4: Demake No. 2 | 252752 | [252752-coloring-game-4-demake-no-2.json](./252752-coloring-game-4-demake-no-2.json) |
 | Coloring Game 4: Demake No. 3 | 252745 | [252745-coloring-game-4-demake-no-3.json](./252745-coloring-game-4-demake-no-3.json) |
 | Coloring Game 4: Demake No. 4 | 252742 | [252742-coloring-game-4-demake-no-4.json](./252742-coloring-game-4-demake-no-4.json) |
+| Coloring Game 4: Dinosaurs | 192190 | [192190-coloring-game-4-dinosaurs.json](./192190-coloring-game-4-dinosaurs.json) |
 | Coloring Game 4: Fantasy | 252756 | [252756-coloring-game-4-fantasy.json](./252756-coloring-game-4-fantasy.json) |
 | Coloring Game 4: Final Pack | 252741 | [252741-coloring-game-4-final-pack.json](./252741-coloring-game-4-final-pack.json) |
 | Coloring Game 4: Fine Art | 252744 | [252744-coloring-game-4-fine-art.json](./252744-coloring-game-4-fine-art.json) |
+| Coloring Game 4: Halloween | 192186 | [192186-coloring-game-4-halloween.json](./192186-coloring-game-4-halloween.json) |
 | Coloring Game 4: Insta | 252750 | [252750-coloring-game-4-insta.json](./252750-coloring-game-4-insta.json) |
 | Coloring Game 4: Nature | 252751 | [252751-coloring-game-4-nature.json](./252751-coloring-game-4-nature.json) |
 | Coloring Game 4: Post Apocalyptic Fiction | 252755 | [252755-coloring-game-4-post-apocalyptic-fiction.json](./252755-coloring-game-4-post-apocalyptic-fiction.json) |
 | Coloring Game 4: Science Fiction | 252754 | [252754-coloring-game-4-science-fiction.json](./252754-coloring-game-4-science-fiction.json) |
 | Coloring Game 4: Sport | 252746 | [252746-coloring-game-4-sport.json](./252746-coloring-game-4-sport.json) |
 | Coloring Game 4: Steampunk | 199609 | [199609-coloring-game-4-steampunk.json](./199609-coloring-game-4-steampunk.json) |
+| Coloring Game 4: Summer | 192187 | [192187-coloring-game-4-summer.json](./192187-coloring-game-4-summer.json) |
+| Coloring Game 4: Winter | 192189 | [192189-coloring-game-4-winter.json](./192189-coloring-game-4-winter.json) |
 | Coloring Game 5.5 | 406186 | [406186-coloring-game-5-5.json](./406186-coloring-game-5-5.json) |
 | Coloring Game 5.6 | 406187 | [406187-coloring-game-5-6.json](./406187-coloring-game-5-6.json) |
 | Coloring Game: Expansion Pack No. 1 | 161254 | [161254-coloring-game-expansion-pack-no-1.json](./161254-coloring-game-expansion-pack-no-1.json) |
@@ -4911,6 +4917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Space Journey | 192294 | [192294-combat-space-journey.json](./192294-combat-space-journey.json) |
 | Combat Spec Ops | 256887 | [256887-combat-spec-ops.json](./256887-combat-spec-ops.json) |
 | Combat Survivors | 402266 | [402266-combat-survivors.json](./402266-combat-survivors.json) |
+| Combat Troops VR | 192180 | [192180-combat-troops-vr.json](./192180-combat-troops-vr.json) |
 | Combat Weapon | 224084 | [224084-combat-weapon.json](./224084-combat-weapon.json) |
 | Combat Wings | 138170 | [138170-combat-wings.json](./138170-combat-wings.json) |
 | Combat Wings: Battle of Britain | 9800 | [9800-combat-wings-battle-of-britain.json](./9800-combat-wings-battle-of-britain.json) |
@@ -4930,6 +4937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combo Master | 364711 | [364711-combo-master.json](./364711-combo-master.json) |
 | Combo Quest 2 | 102768 | [102768-combo-quest-2.json](./102768-combo-quest-2.json) |
 | Combotronica | 373093 | [373093-combotronica.json](./373093-combotronica.json) |
+| Come Alive! | 192176 | [192176-come-alive.json](./192176-come-alive.json) |
 | Come Back: Chapter 1 | 120426 | [120426-come-back-chapter-1.json](./120426-come-back-chapter-1.json) |
 | Come Dine at Valhalla | 180762 | [180762-come-dine-at-valhalla.json](./180762-come-dine-at-valhalla.json) |
 | Come Home: Ghost Stories from Bangladesh | 304636 | [304636-come-home-ghost-stories-from-bangladesh.json](./304636-come-home-ghost-stories-from-bangladesh.json) |
