@@ -1024,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Net | 291569 | [291569-neon-net.json](./291569-neon-net.json) |
 | Neon Nexus | 301973 | [301973-neon-nexus.json](./301973-neon-nexus.json) |
 | Neon Nights | 159821 | [159821-neon-nights.json](./159821-neon-nights.json) |
+| Neon Nights 2 | 211676 | [211676-neon-nights-2.json](./211676-neon-nights-2.json) |
 | Neon Nirvana | 270118 | [270118-neon-nirvana.json](./270118-neon-nirvana.json) |
 | Neon On! | 290433 | [290433-neon-on.json](./290433-neon-on.json) |
 | Neon On!: Bright Ideas | 290434 | [290434-neon-on-bright-ideas.json](./290434-neon-on-bright-ideas.json) |
@@ -2279,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Anglerfish | 195104 | [195104-no-anglerfish.json](./195104-no-anglerfish.json) |
 | No Arm | 360010 | [360010-no-arm.json](./360010-no-arm.json) |
 | No Blood, No Fowl | 314906 | [314906-no-blood-no-fowl.json](./314906-no-blood-no-fowl.json) |
+| No Body | 211674 | [211674-no-body.json](./211674-no-body.json) |
 | No Brakes io | 263582 | [263582-no-brakes-io.json](./263582-no-brakes-io.json) |
 | No Brakes Valet | 51169 | [51169-no-brakes-valet.json](./51169-no-brakes-valet.json) |
 | No Break | 159162 | [159162-no-break.json](./159162-no-break.json) |
@@ -2821,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothing to Lose | 237620 | [237620-nothing-to-lose.json](./237620-nothing-to-lose.json) |
 | NotHog | 275673 | [275673-nothog.json](./275673-nothog.json) |
 | Notice | 277337 | [277337-notice.json](./277337-notice.json) |
+| Notmads | 211700 | [211700-notmads.json](./211700-notmads.json) |
 | Notmycar | 85834 | [85834-notmycar.json](./85834-notmycar.json) |
 | Notoris: The Goblin War | 191174 | [191174-notoris-the-goblin-war.json](./191174-notoris-the-goblin-war.json) |
 | Notpron | 202394 | [202394-notpron.json](./202394-notpron.json) |
