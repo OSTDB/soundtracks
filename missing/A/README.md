@@ -2321,6 +2321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens: Colonial Marines - Sharp Sticks | 118187 | [118187-aliens-colonial-marines-sharp-sticks.json](./118187-aliens-colonial-marines-sharp-sticks.json) |
 | Aliens: Fireteam Elite | 144153 | [144153-aliens-fireteam-elite.json](./144153-aliens-fireteam-elite.json) |
 | Aliens: Fireteam Elite - Hardened Marine Pack | 247755 | [247755-aliens-fireteam-elite-hardened-marine-pack.json](./247755-aliens-fireteam-elite-hardened-marine-pack.json) |
+| Aliens: Fireteam Elite - Into the Hive Edition | 201027 | [201027-aliens-fireteam-elite-into-the-hive-edition.json](./201027-aliens-fireteam-elite-into-the-hive-edition.json) |
 | Aliens: Fireteam Elite - Pathogen | 204435 | [204435-aliens-fireteam-elite-pathogen.json](./204435-aliens-fireteam-elite-pathogen.json) |
 | Aliens: Infestation | 20606 | [20606-aliens-infestation.json](./20606-aliens-infestation.json) |
 | Aliens: Neoplasma | 247527 | [247527-aliens-neoplasma.json](./247527-aliens-neoplasma.json) |
@@ -3813,6 +3814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anonymous ME | 68670 | [68670-anonymous-me.json](./68670-anonymous-me.json) |
 | Anonymous Messages | 262649 | [262649-anonymous-messages.json](./262649-anonymous-messages.json) |
 | Anonymous;Code | 11776 | [11776-anonymous-code.json](./11776-anonymous-code.json) |
+| Anonymous;Code: Limited Edition | 201045 | [201045-anonymous-code-limited-edition.json](./201045-anonymous-code-limited-edition.json) |
 | Anosognosia | 398584 | [398584-anosognosia.json](./398584-anosognosia.json) |
 | Another Attack 2: Weissensee | 270686 | [270686-another-attack-2-weissensee.json](./270686-another-attack-2-weissensee.json) |
 | Another Attack: Woudrichem War | 270685 | [270685-another-attack-woudrichem-war.json](./270685-another-attack-woudrichem-war.json) |
