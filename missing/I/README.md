@@ -1222,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Grave Wood | 183599 | [183599-in-the-grave-wood.json](./183599-in-the-grave-wood.json) |
 | In the Intrigue of the Ratings | 145694 | [145694-in-the-intrigue-of-the-ratings.json](./145694-in-the-intrigue-of-the-ratings.json) |
 | In the Line of Fire | 89244 | [89244-in-the-line-of-fire.json](./89244-in-the-line-of-fire.json) |
+| In the Line of My Heart | 189973 | [189973-in-the-line-of-my-heart.json](./189973-in-the-line-of-my-heart.json) |
 | In the Long Run: The Game | 104525 | [104525-in-the-long-run-the-game.json](./104525-in-the-long-run-the-game.json) |
 | In the Loop | 364678 | [364678-in-the-loop.json](./364678-in-the-loop.json) |
 | In the Midst of a Neverending Season | 369052 | [369052-in-the-midst-of-a-neverending-season.json](./369052-in-the-midst-of-a-neverending-season.json) |
@@ -2638,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isles of Sea and Sky | 133013 | [133013-isles-of-sea-and-sky.json](./133013-isles-of-sea-and-sky.json) |
 | Isles of Silence | 309684 | [309684-isles-of-silence.json](./309684-isles-of-silence.json) |
 | Isles of Wrath | 378286 | [378286-isles-of-wrath.json](./378286-isles-of-wrath.json) |
+| Isles of Yore | 189958 | [189958-isles-of-yore.json](./189958-isles-of-yore.json) |
 | Islet Hell | 367596 | [367596-islet-hell.json](./367596-islet-hell.json) |
 | Isly | 185010 | [185010-isly.json](./185010-isly.json) |
 | iSnake | 87703 | [87703-isnake.json](./87703-isnake.json) |
