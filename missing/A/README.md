@@ -3481,6 +3481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Adventure | 337813 | [337813-animal-adventure.json](./337813-animal-adventure.json) |
 | Animal Adventure Downhill Rush | 269084 | [269084-animal-adventure-downhill-rush.json](./269084-animal-adventure-downhill-rush.json) |
 | Animal Away Jam | 297651 | [297651-animal-away-jam.json](./297651-animal-away-jam.json) |
+| Animal Babysister Fighter | 200474 | [200474-animal-babysister-fighter.json](./200474-animal-babysister-fighter.json) |
 | Animal Bomber | 147466 | [147466-animal-bomber.json](./147466-animal-bomber.json) |
 | Animal Boxing | 68953 | [68953-animal-boxing.json](./68953-animal-boxing.json) |
 | Animal Breeder | 78715 | [78715-animal-breeder.json](./78715-animal-breeder.json) |
@@ -6279,6 +6280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Steel | 346228 | [346228-attack-on-steel.json](./346228-attack-on-steel.json) |
 | Attack on Time | 193848 | [193848-attack-on-time.json](./193848-attack-on-time.json) |
 | Attack on Titan | 14879 | [14879-attack-on-titan.json](./14879-attack-on-titan.json) |
+| Attack on Titan 2: Singular Target | 200426 | [200426-attack-on-titan-2-singular-target.json](./200426-attack-on-titan-2-singular-target.json) |
 | Attack on Titan 2: Treasure Box - Limited Edition | 212312 | [212312-attack-on-titan-2-treasure-box-limited-edition.json](./212312-attack-on-titan-2-treasure-box-limited-edition.json) |
 | Attack on Titan Tactics | 117518 | [117518-attack-on-titan-tactics.json](./117518-attack-on-titan-tactics.json) |
 | Attack on Titan Tribute Game 2 | 316810 | [316810-attack-on-titan-tribute-game-2.json](./316810-attack-on-titan-tribute-game-2.json) |
@@ -6686,6 +6688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awe of Despair | 75811 | [75811-awe-of-despair.json](./75811-awe-of-despair.json) |
 | Awesome Animated Monster Maker | 115070 | [115070-awesome-animated-monster-maker.json](./115070-awesome-animated-monster-maker.json) |
 | Awesome Asteroids | 239291 | [239291-awesome-asteroids.json](./239291-awesome-asteroids.json) |
+| Awesome Cat Puzzle | 200439 | [200439-awesome-cat-puzzle.json](./200439-awesome-cat-puzzle.json) |
 | Awesome Devil | 220207 | [220207-awesome-devil.json](./220207-awesome-devil.json) |
 | Awesome Earl in SkateRock | 52196 | [52196-awesome-earl-in-skaterock.json](./52196-awesome-earl-in-skaterock.json) |
 | Awesome Memory | 87689 | [87689-awesome-memory.json](./87689-awesome-memory.json) |
