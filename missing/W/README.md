@@ -3260,6 +3260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Leaders | 274046 | [274046-world-leaders.json](./274046-world-leaders.json) |
 | World League Live! Football | 186048 | [186048-world-league-live-football.json](./186048-world-league-live-football.json) |
 | World Mahjong: Original | 220721 | [220721-world-mahjong-original.json](./220721-world-mahjong-original.json) |
+| World Map Quiz | 181146 | [181146-world-map-quiz.json](./181146-world-map-quiz.json) |
 | World Map: Crafted City Builder | 202096 | [202096-world-map-crafted-city-builder.json](./202096-world-map-crafted-city-builder.json) |
 | World Minigolf | 181702 | [181702-world-minigolf.json](./181702-world-minigolf.json) |
 | World Mosaics | 135246 | [135246-world-mosaics.json](./135246-world-mosaics.json) |
