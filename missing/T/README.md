@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TacTac Prologue | 198383 | [198383-tactac-prologue.json](./198383-tactac-prologue.json) |
 | Tacti-Cat | 265926 | [265926-tacti-cat.json](./265926-tacti-cat.json) |
 | Tactic Force | 123542 | [123542-tactic-force.json](./123542-tactic-force.json) |
+| Tactic Legends | 211157 | [211157-tactic-legends.json](./211157-tactic-legends.json) |
 | Tactic Legends | 310202 | [310202-tactic-legends.json](./310202-tactic-legends.json) |
 | Tactical | 83530 | [83530-tactical.json](./83530-tactical.json) |
 | Tactical AR | 74366 | [74366-tactical-ar.json](./74366-tactical-ar.json) |
@@ -2523,6 +2524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Baconing | 2251 | [2251-the-baconing.json](./2251-the-baconing.json) |
 | The Bad Boy's Cars | 310504 | [310504-the-bad-boys-cars.json](./310504-the-bad-boys-cars.json) |
 | The Bad Gravedigger | 104073 | [104073-the-bad-gravedigger.json](./104073-the-bad-gravedigger.json) |
+| The Bad Kids | 211152 | [211152-the-bad-kids.json](./211152-the-bad-kids.json) |
 | The Bad Son | 192888 | [192888-the-bad-son.json](./192888-the-bad-son.json) |
 | The Baker of Shireton | 59683 | [59683-the-baker-of-shireton.json](./59683-the-baker-of-shireton.json) |
 | The Bakerville Case | 217383 | [217383-the-bakerville-case.json](./217383-the-bakerville-case.json) |
@@ -3241,6 +3243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dallas Quest | 47218 | [47218-the-dallas-quest.json](./47218-the-dallas-quest.json) |
 | The Dalmatians | 44847 | [44847-the-dalmatians.json](./44847-the-dalmatians.json) |
 | The Dam Busters | 13566 | [13566-the-dam-busters.json](./13566-the-dam-busters.json) |
+| The Dam Nation | 211135 | [211135-the-dam-nation.json](./211135-the-dam-nation.json) |
 | The Dama | 101503 | [101503-the-dama.json](./101503-the-dama.json) |
 | The Damned Forest | 69200 | [69200-the-damned-forest.json](./69200-the-damned-forest.json) |
 | The Dance of Maple Leaves | 346670 | [346670-the-dance-of-maple-leaves.json](./346670-the-dance-of-maple-leaves.json) |
@@ -3715,6 +3718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Experiment | 255699 | [255699-the-experiment.json](./255699-the-experiment.json) |
 | The Experiment: Escape Room | 111875 | [111875-the-experiment-escape-room.json](./111875-the-experiment-escape-room.json) |
 | The Experimental Turnabout | 308421 | [308421-the-experimental-turnabout.json](./308421-the-experimental-turnabout.json) |
+| The Explorator | 211172 | [211172-the-explorator.json](./211172-the-explorator.json) |
 | The Explorers | 177416 | [177416-the-explorers.json](./177416-the-explorers.json) |
 | The Eye | 141836 | [141836-the-eye.json](./141836-the-eye.json) |
 | The Eye of Judgment: Legends | 46020 | [46020-the-eye-of-judgment-legends.json](./46020-the-eye-of-judgment-legends.json) |
@@ -4045,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Getaway: Black Monday | 8238 | [8238-the-getaway-black-monday.json](./8238-the-getaway-black-monday.json) |
 | The Getaway: High Speed II | 48998 | [48998-the-getaway-high-speed-ii.json](./48998-the-getaway-high-speed-ii.json) |
 | The Ghost | 174885 | [174885-the-ghost.json](./174885-the-ghost.json) |
+| The Ghost and the Golem | 211169 | [211169-the-ghost-and-the-golem.json](./211169-the-ghost-and-the-golem.json) |
 | The Ghost and The Phoenix | 224585 | [224585-the-ghost-and-the-phoenix.json](./224585-the-ghost-and-the-phoenix.json) |
 | The Ghost Cage | 173273 | [173273-the-ghost-cage.json](./173273-the-ghost-cage.json) |
 | The Ghost of Nichishima | 319700 | [319700-the-ghost-of-nichishima.json](./319700-the-ghost-of-nichishima.json) |
@@ -8344,6 +8349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Force: Gold Pack 1 | 100138 | [100138-thunder-force-gold-pack-1.json](./100138-thunder-force-gold-pack-1.json) |
 | Thunder Fox | 39888 | [39888-thunder-fox.json](./39888-thunder-fox.json) |
 | Thunder Hawk | 354645 | [354645-thunder-hawk.json](./354645-thunder-hawk.json) |
+| Thunder Helix | 211162 | [211162-thunder-helix.json](./211162-thunder-helix.json) |
 | Thunder Hoop | 40213 | [40213-thunder-hoop.json](./40213-thunder-hoop.json) |
 | Thunder Jack's Log Runner | 252716 | [252716-thunder-jacks-log-runner.json](./252716-thunder-jacks-log-runner.json) |
 | Thunder Jaws | 12863 | [12863-thunder-jaws.json](./12863-thunder-jaws.json) |
@@ -9059,6 +9065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiki Tiki Hop | 209672 | [209672-tiki-tiki-hop.json](./209672-tiki-tiki-hop.json) |
 | Tiki Towers | 79912 | [79912-tiki-towers.json](./79912-tiki-towers.json) |
 | Tiki: The Masked Journey | 163850 | [163850-tiki-the-masked-journey.json](./163850-tiki-the-masked-journey.json) |
+| Tikus Tales | 211167 | [211167-tikus-tales.json](./211167-tikus-tales.json) |
 | Tikutaku Concert | 148936 | [148936-tikutaku-concert.json](./148936-tikutaku-concert.json) |
 | Til Morning's Light | 18996 | [18996-til-mornings-light.json](./18996-til-mornings-light.json) |
 | Tilde and the 9 Mystical Glorbos | 394834 | [394834-tilde-and-the-9-mystical-glorbos.json](./394834-tilde-and-the-9-mystical-glorbos.json) |
@@ -11031,6 +11038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracery of Fate VR | 207496 | [207496-tracery-of-fate-vr.json](./207496-tracery-of-fate-vr.json) |
 | Traces of Gods | 372097 | [372097-traces-of-gods.json](./372097-traces-of-gods.json) |
 | Tracing | 346209 | [346209-tracing.json](./346209-tracing.json) |
+| Tracing Decay | 211143 | [211143-tracing-decay.json](./211143-tracing-decay.json) |
 | Track & Field | 239296 | [239296-track-and-field.json](./239296-track-and-field.json) |
 | Track & Field II | 20903 | [20903-track-and-field-ii.json](./20903-track-and-field-ii.json) |
 | Track & Field in Barcelona | 48893 | [48893-track-and-field-in-barcelona.json](./48893-track-and-field-in-barcelona.json) |
@@ -12458,6 +12466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator Big Rigs | 363941 | [363941-truck-simulator-big-rigs.json](./363941-truck-simulator-big-rigs.json) |
 | Truck Simulator Collection | 275886 | [275886-truck-simulator-collection.json](./275886-truck-simulator-collection.json) |
 | Truck Simulator Drive USA: EVO | 383516 | [383516-truck-simulator-drive-usa-evo.json](./383516-truck-simulator-drive-usa-evo.json) |
+| Truck Simulator in City | 211154 | [211154-truck-simulator-in-city.json](./211154-truck-simulator-in-city.json) |
 | Truck Simulator PRO 2 | 88947 | [88947-truck-simulator-pro-2.json](./88947-truck-simulator-pro-2.json) |
 | Truck Simulator PRO 2016 | 89133 | [89133-truck-simulator-pro-2016.json](./89133-truck-simulator-pro-2016.json) |
 | Truck Simulator PRO Europe | 90378 | [90378-truck-simulator-pro-europe.json](./90378-truck-simulator-pro-europe.json) |
