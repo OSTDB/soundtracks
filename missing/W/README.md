@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland Rangers | 338392 | [338392-wasteland-rangers.json](./338392-wasteland-rangers.json) |
 | Wasteland Story | 249179 | [249179-wasteland-story.json](./249179-wasteland-story.json) |
 | Wasteland Travelers | 356730 | [356730-wasteland-travelers.json](./356730-wasteland-travelers.json) |
+| Wasteland Warden | 190434 | [190434-wasteland-warden.json](./190434-wasteland-warden.json) |
 | Wastelander | 178100 | [178100-wastelander.json](./178100-wastelander.json) |
 | Wastelanders | 362823 | [362823-wastelanders.json](./362823-wastelanders.json) |
 | WastePunk | 258430 | [258430-wastepunk.json](./258430-wastepunk.json) |
@@ -3693,6 +3694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrong Door | 320958 | [320958-wrong-door.json](./320958-wrong-door.json) |
 | Wrong Escape | 302420 | [302420-wrong-escape.json](./302420-wrong-escape.json) |
 | Wrong Floor | 177032 | [177032-wrong-floor.json](./177032-wrong-floor.json) |
+| Wronged Us | 190482 | [190482-wronged-us.json](./190482-wronged-us.json) |
 | Wrongly Accused | 384115 | [384115-wrongly-accused.json](./384115-wrongly-accused.json) |
 | Wroom Wroom Puzzles | 261343 | [261343-wroom-wroom-puzzles.json](./261343-wroom-wroom-puzzles.json) |
 | Wroth | 271744 | [271744-wroth.json](./271744-wroth.json) |
