@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrotyper | 360594 | [360594-necrotyper.json](./360594-necrotyper.json) |
 | Necrowarp | 129691 | [129691-necrowarp.json](./129691-necrowarp.json) |
 | Nectar of the Gods: The Hive and Spidey Party Bugs Bundle | 171019 | [171019-nectar-of-the-gods-the-hive-and-spidey-party-bugs-bundle.json](./171019-nectar-of-the-gods-the-hive-and-spidey-party-bugs-bundle.json) |
+| Nectar Thief | 177829 | [177829-nectar-thief.json](./177829-nectar-thief.json) |
 | Nectar Wars | 260987 | [260987-nectar-wars.json](./260987-nectar-wars.json) |
 | Nectaris | 42030 | [42030-nectaris.json](./42030-nectaris.json) |
 | Nectaris Cellular | 356109 | [356109-nectaris-cellular.json](./356109-nectaris-cellular.json) |
@@ -2477,6 +2478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Walking, No Problem! | 286574 | [286574-no-walking-no-problem.json](./286574-no-walking-no-problem.json) |
 | No Walls in Heaven | 369657 | [369657-no-walls-in-heaven.json](./369657-no-walls-in-heaven.json) |
 | No Wave | 128583 | [128583-no-wave.json](./128583-no-wave.json) |
+| No way back | 177835 | [177835-no-way-back.json](./177835-no-way-back.json) |
 | No Way Home | 117007 | [117007-no-way-home.json](./117007-no-way-home.json) |
 | No Way Home: Blammo! | 346798 | [346798-no-way-home-blammo.json](./346798-no-way-home-blammo.json) |
 | No Way Out | 239677 | [239677-no-way-out.json](./239677-no-way-out.json) |
@@ -2593,6 +2595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturne in Yellow | 141870 | [141870-nocturne-in-yellow.json](./141870-nocturne-in-yellow.json) |
 | Nocturne Maze: Shadows in the Hedge | 374079 | [374079-nocturne-maze-shadows-in-the-hedge.json](./374079-nocturne-maze-shadows-in-the-hedge.json) |
 | Nocturne of Steel | 107893 | [107893-nocturne-of-steel.json](./107893-nocturne-of-steel.json) |
+| Nod If You Can Hear Me | 177824 | [177824-nod-if-you-can-hear-me.json](./177824-nod-if-you-can-hear-me.json) |
 | Nod: A Meditation on the Existential Pain of Becoming | 178941 | [178941-nod-a-meditation-on-the-existential-pain-of-becoming.json](./178941-nod-a-meditation-on-the-existential-pain-of-becoming.json) |
 | Nod3s | 23857 | [23857-nod3s.json](./23857-nod3s.json) |
 | NodalBastion | 378196 | [378196-nodalbastion.json](./378196-nodalbastion.json) |
