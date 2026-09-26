@@ -1423,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Zombies | 8628 | [8628-age-of-zombies.json](./8628-age-of-zombies.json) |
 | Ageless Machine: Cup of Tea | 180716 | [180716-ageless-machine-cup-of-tea.json](./180716-ageless-machine-cup-of-tea.json) |
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
+| Agent 01 | 199400 | [199400-agent-01.json](./199400-agent-01.json) |
 | Agent A & Down in Bermuda Bundle | 380693 | [380693-agent-a-and-down-in-bermuda-bundle.json](./380693-agent-a-and-down-in-bermuda-bundle.json) |
 | Agent Action | 138003 | [138003-agent-action.json](./138003-agent-action.json) |
 | Agent Armstrong | 11293 | [11293-agent-armstrong.json](./11293-agent-armstrong.json) |
@@ -3092,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amplz Boss Fights | 224110 | [224110-amplz-boss-fights.json](./224110-amplz-boss-fights.json) |
 | Ampsball | 398443 | [398443-ampsball.json](./398443-ampsball.json) |
 | AMseven | 336390 | [336390-amseven.json](./336390-amseven.json) |
+| Amshay | 199383 | [199383-amshay.json](./199383-amshay.json) |
 | Amstrad Eterno X | 376589 | [376589-amstrad-eterno-x.json](./376589-amstrad-eterno-x.json) |
 | Amstrad Shuffle Card Games | 60234 | [60234-amstrad-shuffle-card-games.json](./60234-amstrad-shuffle-card-games.json) |
 | Amulet | 291515 | [291515-amulet.json](./291515-amulet.json) |
@@ -3579,6 +3581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animalon: Epic Monsters Battle | 355120 | [355120-animalon-epic-monsters-battle.json](./355120-animalon-epic-monsters-battle.json) |
 | Animals | 203527 | [203527-animals.json](./203527-animals.json) |
 | Animals | 314287 | [314287-animals.json](./314287-animals.json) |
+| Animals Collision | 199375 | [199375-animals-collision.json](./199375-animals-collision.json) |
 | Animals In The City | 293219 | [293219-animals-in-the-city.json](./293219-animals-in-the-city.json) |
 | Animals on the Loose: A You vs. Wild Movie | 256867 | [256867-animals-on-the-loose-a-you-vs-wild-movie.json](./256867-animals-on-the-loose-a-you-vs-wild-movie.json) |
 | Animals Transport Simulator | 201692 | [201692-animals-transport-simulator.json](./201692-animals-transport-simulator.json) |
@@ -4828,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ardent Wilds | 368644 | [368644-ardent-wilds.json](./368644-ardent-wilds.json) |
 | Ardent: Rise | 408274 | [408274-ardent-rise.json](./408274-ardent-rise.json) |
 | Ardilous | 183523 | [183523-ardilous.json](./183523-ardilous.json) |
+| Ardor | 199386 | [199386-ardor.json](./199386-ardor.json) |
 | Ardor 2 | 365175 | [365175-ardor-2.json](./365175-ardor-2.json) |
 | Ardu Turf Masters | 340204 | [340204-ardu-turf-masters.json](./340204-ardu-turf-masters.json) |
 | Ardu-EZ Button | 333764 | [333764-ardu-ez-button.json](./333764-ardu-ez-button.json) |
