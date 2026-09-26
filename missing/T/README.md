@@ -8802,39 +8802,63 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Road | 12864 | [12864-tiger-road.json](./12864-tiger-road.json) |
 | Tiger Simulator 3D | 96013 | [96013-tiger-simulator-3d.json](./96013-tiger-simulator-3d.json) |
 | Tiger Soldier I: MP007 | 173707 | [173707-tiger-soldier-i-mp007.json](./173707-tiger-soldier-i-mp007.json) |
+| Tiger Soldier I: MP008 | 189441 | [189441-tiger-soldier-i-mp008.json](./189441-tiger-soldier-i-mp008.json) |
 | Tiger Soldier I: MP009 | 173700 | [173700-tiger-soldier-i-mp009.json](./173700-tiger-soldier-i-mp009.json) |
 | Tiger Soldier I: MP010 | 173695 | [173695-tiger-soldier-i-mp010.json](./173695-tiger-soldier-i-mp010.json) |
+| Tiger Soldier I: MP011 | 189425 | [189425-tiger-soldier-i-mp011.json](./189425-tiger-soldier-i-mp011.json) |
 | Tiger Soldier I: MP012 | 173688 | [173688-tiger-soldier-i-mp012.json](./173688-tiger-soldier-i-mp012.json) |
+| Tiger Soldier I: MP013 | 189444 | [189444-tiger-soldier-i-mp013.json](./189444-tiger-soldier-i-mp013.json) |
+| Tiger Soldier I: MP014 | 189435 | [189435-tiger-soldier-i-mp014.json](./189435-tiger-soldier-i-mp014.json) |
+| Tiger Soldier I: MP015 | 189442 | [189442-tiger-soldier-i-mp015.json](./189442-tiger-soldier-i-mp015.json) |
 | Tiger Soldier I: MP017 | 173683 | [173683-tiger-soldier-i-mp017.json](./173683-tiger-soldier-i-mp017.json) |
 | Tiger Soldier I: MP019 | 173684 | [173684-tiger-soldier-i-mp019.json](./173684-tiger-soldier-i-mp019.json) |
 | Tiger Soldier I: MP020 | 173693 | [173693-tiger-soldier-i-mp020.json](./173693-tiger-soldier-i-mp020.json) |
 | Tiger Soldier I: MP023 | 173712 | [173712-tiger-soldier-i-mp023.json](./173712-tiger-soldier-i-mp023.json) |
 | Tiger Soldier I: MP024 | 173701 | [173701-tiger-soldier-i-mp024.json](./173701-tiger-soldier-i-mp024.json) |
+| Tiger Soldier I: MP025 | 189427 | [189427-tiger-soldier-i-mp025.json](./189427-tiger-soldier-i-mp025.json) |
 | Tiger Soldier I: MP028 | 173704 | [173704-tiger-soldier-i-mp028.json](./173704-tiger-soldier-i-mp028.json) |
+| Tiger Soldier I: MP029 | 189440 | [189440-tiger-soldier-i-mp029.json](./189440-tiger-soldier-i-mp029.json) |
 | Tiger Soldier I: MP030 | 173681 | [173681-tiger-soldier-i-mp030.json](./173681-tiger-soldier-i-mp030.json) |
+| Tiger Soldier I: MP031 | 189443 | [189443-tiger-soldier-i-mp031.json](./189443-tiger-soldier-i-mp031.json) |
+| Tiger Soldier I: MP035 | 189439 | [189439-tiger-soldier-i-mp035.json](./189439-tiger-soldier-i-mp035.json) |
+| Tiger Soldier I: MP037 | 189426 | [189426-tiger-soldier-i-mp037.json](./189426-tiger-soldier-i-mp037.json) |
 | Tiger Soldier I: MP038 | 173697 | [173697-tiger-soldier-i-mp038.json](./173697-tiger-soldier-i-mp038.json) |
 | Tiger Soldier I: MP039 | 173703 | [173703-tiger-soldier-i-mp039.json](./173703-tiger-soldier-i-mp039.json) |
 | Tiger Soldier I: MP040 | 173694 | [173694-tiger-soldier-i-mp040.json](./173694-tiger-soldier-i-mp040.json) |
 | Tiger Soldier I: MP041 | 173686 | [173686-tiger-soldier-i-mp041.json](./173686-tiger-soldier-i-mp041.json) |
 | Tiger Soldier I: MP042 | 173696 | [173696-tiger-soldier-i-mp042.json](./173696-tiger-soldier-i-mp042.json) |
 | Tiger Soldier I: MP044 | 173705 | [173705-tiger-soldier-i-mp044.json](./173705-tiger-soldier-i-mp044.json) |
+| Tiger Soldier I: MP046 | 189438 | [189438-tiger-soldier-i-mp046.json](./189438-tiger-soldier-i-mp046.json) |
 | Tiger Soldier I: MP047 | 173708 | [173708-tiger-soldier-i-mp047.json](./173708-tiger-soldier-i-mp047.json) |
 | Tiger Soldier I: MP049 | 173706 | [173706-tiger-soldier-i-mp049.json](./173706-tiger-soldier-i-mp049.json) |
 | Tiger Soldier I: MP051 | 173687 | [173687-tiger-soldier-i-mp051.json](./173687-tiger-soldier-i-mp051.json) |
+| Tiger Soldier I: MP053 | 189432 | [189432-tiger-soldier-i-mp053.json](./189432-tiger-soldier-i-mp053.json) |
+| Tiger Soldier I: MP054 | 189433 | [189433-tiger-soldier-i-mp054.json](./189433-tiger-soldier-i-mp054.json) |
+| Tiger Soldier I: MP055 | 189437 | [189437-tiger-soldier-i-mp055.json](./189437-tiger-soldier-i-mp055.json) |
+| Tiger Soldier I: MP056 | 189422 | [189422-tiger-soldier-i-mp056.json](./189422-tiger-soldier-i-mp056.json) |
 | Tiger Soldier I: MP057 | 173679 | [173679-tiger-soldier-i-mp057.json](./173679-tiger-soldier-i-mp057.json) |
 | Tiger Soldier I: MP059 | 173680 | [173680-tiger-soldier-i-mp059.json](./173680-tiger-soldier-i-mp059.json) |
+| Tiger Soldier I: MP062 | 189421 | [189421-tiger-soldier-i-mp062.json](./189421-tiger-soldier-i-mp062.json) |
 | Tiger Soldier I: MP067 | 173692 | [173692-tiger-soldier-i-mp067.json](./173692-tiger-soldier-i-mp067.json) |
+| Tiger Soldier I: MP068 | 189436 | [189436-tiger-soldier-i-mp068.json](./189436-tiger-soldier-i-mp068.json) |
 | Tiger Soldier I: MP070 | 173682 | [173682-tiger-soldier-i-mp070.json](./173682-tiger-soldier-i-mp070.json) |
 | Tiger Soldier I: MP072 | 173710 | [173710-tiger-soldier-i-mp072.json](./173710-tiger-soldier-i-mp072.json) |
+| Tiger Soldier I: MP073 | 189434 | [189434-tiger-soldier-i-mp073.json](./189434-tiger-soldier-i-mp073.json) |
 | Tiger Soldier I: MP074 | 173691 | [173691-tiger-soldier-i-mp074.json](./173691-tiger-soldier-i-mp074.json) |
 | Tiger Soldier I: MP075 | 173709 | [173709-tiger-soldier-i-mp075.json](./173709-tiger-soldier-i-mp075.json) |
+| Tiger Soldier I: MP076 | 189430 | [189430-tiger-soldier-i-mp076.json](./189430-tiger-soldier-i-mp076.json) |
 | Tiger Soldier I: MP080 | 173690 | [173690-tiger-soldier-i-mp080.json](./173690-tiger-soldier-i-mp080.json) |
 | Tiger Soldier I: MP082 | 173685 | [173685-tiger-soldier-i-mp082.json](./173685-tiger-soldier-i-mp082.json) |
+| Tiger Soldier I: MP084 | 189431 | [189431-tiger-soldier-i-mp084.json](./189431-tiger-soldier-i-mp084.json) |
+| Tiger Soldier I: MP085 | 189423 | [189423-tiger-soldier-i-mp085.json](./189423-tiger-soldier-i-mp085.json) |
+| Tiger Soldier I: MP086 | 189424 | [189424-tiger-soldier-i-mp086.json](./189424-tiger-soldier-i-mp086.json) |
 | Tiger Soldier I: MP088 | 173711 | [173711-tiger-soldier-i-mp088.json](./173711-tiger-soldier-i-mp088.json) |
 | Tiger Soldier I: MP090 | 173699 | [173699-tiger-soldier-i-mp090.json](./173699-tiger-soldier-i-mp090.json) |
 | Tiger Soldier I: MP094 | 173689 | [173689-tiger-soldier-i-mp094.json](./173689-tiger-soldier-i-mp094.json) |
 | Tiger Soldier I: MP097 | 173698 | [173698-tiger-soldier-i-mp097.json](./173698-tiger-soldier-i-mp097.json) |
+| Tiger Soldier I: MP098 | 189429 | [189429-tiger-soldier-i-mp098.json](./189429-tiger-soldier-i-mp098.json) |
 | Tiger Soldier I: MP099 | 173702 | [173702-tiger-soldier-i-mp099.json](./173702-tiger-soldier-i-mp099.json) |
+| Tiger Soldier I: MP100 | 189428 | [189428-tiger-soldier-i-mp100.json](./189428-tiger-soldier-i-mp100.json) |
 | Tiger Striker: MP054 | 189720 | [189720-tiger-striker-mp054.json](./189720-tiger-striker-mp054.json) |
 | Tiger Striker: MP058 | 189721 | [189721-tiger-striker-mp058.json](./189721-tiger-striker-mp058.json) |
 | Tiger Striker: MP081 | 189719 | [189719-tiger-striker-mp081.json](./189719-tiger-striker-mp081.json) |
@@ -9110,6 +9134,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Volcano MP048 | 163933 | [163933-tiger-tank-59-i-volcano-mp048.json](./163933-tiger-tank-59-i-volcano-mp048.json) |
 | Tiger Tank 59 I: Volcano MP049 | 163937 | [163937-tiger-tank-59-i-volcano-mp049.json](./163937-tiger-tank-59-i-volcano-mp049.json) |
 | Tiger Tank 59 I: Volcano MP050 | 163927 | [163927-tiger-tank-59-i-volcano-mp050.json](./163927-tiger-tank-59-i-volcano-mp050.json) |
+| Tiger Tank 59 I: Volcano MP062 | 189451 | [189451-tiger-tank-59-i-volcano-mp062.json](./189451-tiger-tank-59-i-volcano-mp062.json) |
+| Tiger Tank 59 I: Volcano MP064 | 189454 | [189454-tiger-tank-59-i-volcano-mp064.json](./189454-tiger-tank-59-i-volcano-mp064.json) |
+| Tiger Tank 59 I: Volcano MP065 | 189447 | [189447-tiger-tank-59-i-volcano-mp065.json](./189447-tiger-tank-59-i-volcano-mp065.json) |
+| Tiger Tank 59 I: Volcano MP067 | 189456 | [189456-tiger-tank-59-i-volcano-mp067.json](./189456-tiger-tank-59-i-volcano-mp067.json) |
+| Tiger Tank 59 I: Volcano MP069 | 189462 | [189462-tiger-tank-59-i-volcano-mp069.json](./189462-tiger-tank-59-i-volcano-mp069.json) |
+| Tiger Tank 59 I: Volcano MP073 | 189458 | [189458-tiger-tank-59-i-volcano-mp073.json](./189458-tiger-tank-59-i-volcano-mp073.json) |
+| Tiger Tank 59 I: Volcano MP075 | 189448 | [189448-tiger-tank-59-i-volcano-mp075.json](./189448-tiger-tank-59-i-volcano-mp075.json) |
+| Tiger Tank 59 I: Volcano MP077 | 189461 | [189461-tiger-tank-59-i-volcano-mp077.json](./189461-tiger-tank-59-i-volcano-mp077.json) |
+| Tiger Tank 59 I: Volcano MP081 | 189460 | [189460-tiger-tank-59-i-volcano-mp081.json](./189460-tiger-tank-59-i-volcano-mp081.json) |
+| Tiger Tank 59 I: Volcano MP084 | 189445 | [189445-tiger-tank-59-i-volcano-mp084.json](./189445-tiger-tank-59-i-volcano-mp084.json) |
+| Tiger Tank 59 I: Volcano MP085 | 189459 | [189459-tiger-tank-59-i-volcano-mp085.json](./189459-tiger-tank-59-i-volcano-mp085.json) |
+| Tiger Tank 59 I: Volcano MP086 | 189455 | [189455-tiger-tank-59-i-volcano-mp086.json](./189455-tiger-tank-59-i-volcano-mp086.json) |
+| Tiger Tank 59 I: Volcano MP087 | 189449 | [189449-tiger-tank-59-i-volcano-mp087.json](./189449-tiger-tank-59-i-volcano-mp087.json) |
+| Tiger Tank 59 I: Volcano MP088 | 189450 | [189450-tiger-tank-59-i-volcano-mp088.json](./189450-tiger-tank-59-i-volcano-mp088.json) |
+| Tiger Tank 59 I: Volcano MP093 | 189453 | [189453-tiger-tank-59-i-volcano-mp093.json](./189453-tiger-tank-59-i-volcano-mp093.json) |
+| Tiger Tank 59 I: Volcano MP094 | 189446 | [189446-tiger-tank-59-i-volcano-mp094.json](./189446-tiger-tank-59-i-volcano-mp094.json) |
+| Tiger Tank 59 I: Volcano MP099 | 189452 | [189452-tiger-tank-59-i-volcano-mp099.json](./189452-tiger-tank-59-i-volcano-mp099.json) |
+| Tiger Tank 59 I: Volcano MP100 | 189457 | [189457-tiger-tank-59-i-volcano-mp100.json](./189457-tiger-tank-59-i-volcano-mp100.json) |
 | Tiger Tank 59 I: Winter Assault MP006 | 160369 | [160369-tiger-tank-59-i-winter-assault-mp006.json](./160369-tiger-tank-59-i-winter-assault-mp006.json) |
 | Tiger Tank 59 I: Winter Assault MP019 | 160355 | [160355-tiger-tank-59-i-winter-assault-mp019.json](./160355-tiger-tank-59-i-winter-assault-mp019.json) |
 | Tiger Tank 59 I: Winter Assault MP024 | 160359 | [160359-tiger-tank-59-i-winter-assault-mp024.json](./160359-tiger-tank-59-i-winter-assault-mp024.json) |
@@ -9132,10 +9174,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Winter Assault MP052 | 166106 | [166106-tiger-tank-59-i-winter-assault-mp052.json](./166106-tiger-tank-59-i-winter-assault-mp052.json) |
 | Tiger Tank 59 I: Winter Assault MP053 | 166107 | [166107-tiger-tank-59-i-winter-assault-mp053.json](./166107-tiger-tank-59-i-winter-assault-mp053.json) |
 | Tiger Tank 59 I: Winter Assault MP058 | 166109 | [166109-tiger-tank-59-i-winter-assault-mp058.json](./166109-tiger-tank-59-i-winter-assault-mp058.json) |
+| Tiger Tank 59 I: Winter Assault MP061 | 189468 | [189468-tiger-tank-59-i-winter-assault-mp061.json](./189468-tiger-tank-59-i-winter-assault-mp061.json) |
 | Tiger Tank 59 I: Winter Assault MP062 | 173761 | [173761-tiger-tank-59-i-winter-assault-mp062.json](./173761-tiger-tank-59-i-winter-assault-mp062.json) |
+| Tiger Tank 59 I: Winter Assault MP065 | 189463 | [189463-tiger-tank-59-i-winter-assault-mp065.json](./189463-tiger-tank-59-i-winter-assault-mp065.json) |
 | Tiger Tank 59 I: Winter Assault MP066 | 173764 | [173764-tiger-tank-59-i-winter-assault-mp066.json](./173764-tiger-tank-59-i-winter-assault-mp066.json) |
 | Tiger Tank 59 I: Winter Assault MP072 | 173765 | [173765-tiger-tank-59-i-winter-assault-mp072.json](./173765-tiger-tank-59-i-winter-assault-mp072.json) |
 | Tiger Tank 59 I: Winter Assault MP074 | 173760 | [173760-tiger-tank-59-i-winter-assault-mp074.json](./173760-tiger-tank-59-i-winter-assault-mp074.json) |
+| Tiger Tank 59 I: Winter Assault MP078 | 189464 | [189464-tiger-tank-59-i-winter-assault-mp078.json](./189464-tiger-tank-59-i-winter-assault-mp078.json) |
+| Tiger Tank 59 I: Winter Assault MP079 | 189470 | [189470-tiger-tank-59-i-winter-assault-mp079.json](./189470-tiger-tank-59-i-winter-assault-mp079.json) |
+| Tiger Tank 59 I: Winter Assault MP080 | 189466 | [189466-tiger-tank-59-i-winter-assault-mp080.json](./189466-tiger-tank-59-i-winter-assault-mp080.json) |
+| Tiger Tank 59 I: Winter Assault MP081 | 189469 | [189469-tiger-tank-59-i-winter-assault-mp081.json](./189469-tiger-tank-59-i-winter-assault-mp081.json) |
 | Tiger Tank 59 I: Winter Assault MP082 | 173762 | [173762-tiger-tank-59-i-winter-assault-mp082.json](./173762-tiger-tank-59-i-winter-assault-mp082.json) |
 | Tiger Tank 59 I: Winter Assault MP084 | 173769 | [173769-tiger-tank-59-i-winter-assault-mp084.json](./173769-tiger-tank-59-i-winter-assault-mp084.json) |
 | Tiger Tank 59 I: Winter Assault MP087 | 173767 | [173767-tiger-tank-59-i-winter-assault-mp087.json](./173767-tiger-tank-59-i-winter-assault-mp087.json) |
@@ -9143,7 +9191,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Winter Assault MP090 | 173766 | [173766-tiger-tank-59-i-winter-assault-mp090.json](./173766-tiger-tank-59-i-winter-assault-mp090.json) |
 | Tiger Tank 59 I: Winter Assault MP091 | 173758 | [173758-tiger-tank-59-i-winter-assault-mp091.json](./173758-tiger-tank-59-i-winter-assault-mp091.json) |
 | Tiger Tank 59 I: Winter Assault MP093 | 173770 | [173770-tiger-tank-59-i-winter-assault-mp093.json](./173770-tiger-tank-59-i-winter-assault-mp093.json) |
+| Tiger Tank 59 I: Winter Assault MP095 | 189465 | [189465-tiger-tank-59-i-winter-assault-mp095.json](./189465-tiger-tank-59-i-winter-assault-mp095.json) |
 | Tiger Tank 59 I: Winter Assault MP098 | 173759 | [173759-tiger-tank-59-i-winter-assault-mp098.json](./173759-tiger-tank-59-i-winter-assault-mp098.json) |
+| Tiger Tank 59 I: Winter Assault MP099 | 189467 | [189467-tiger-tank-59-i-winter-assault-mp099.json](./189467-tiger-tank-59-i-winter-assault-mp099.json) |
 | Tiger Tank 59 I: Winter Assault MP100 | 173763 | [173763-tiger-tank-59-i-winter-assault-mp100.json](./173763-tiger-tank-59-i-winter-assault-mp100.json) |
 | Tiger Transforming Robot 2018 | 102783 | [102783-tiger-transforming-robot-2018.json](./102783-tiger-transforming-robot-2018.json) |
 | Tiger Woods PGA Tour 09 | 5222 | [5222-tiger-woods-pga-tour-09.json](./5222-tiger-woods-pga-tour-09.json) |
