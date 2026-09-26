@@ -1634,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When We Arrive | 390795 | [390795-when-we-arrive.json](./390795-when-we-arrive.json) |
 | When We Lost | 215650 | [215650-when-we-lost.json](./215650-when-we-lost.json) |
 | When You See It | 312122 | [312122-when-you-see-it.json](./312122-when-you-see-it.json) |
+| When You Wish Upon a Star | 200447 | [200447-when-you-wish-upon-a-star.json](./200447-when-you-wish-upon-a-star.json) |
 | When you're gone | 37192 | [37192-when-youre-gone.json](./37192-when-youre-gone.json) |
 | Whenever You Can Breathe | 203378 | [203378-whenever-you-can-breathe.json](./203378-whenever-you-can-breathe.json) |
 | Where Angels Cry: Tears of the Fallen - Collectors Edition | 34175 | [34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json](./34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json) |
@@ -2292,6 +2293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Commander II: Speech Accessory Pack | 77320 | [77320-wing-commander-ii-speech-accessory-pack.json](./77320-wing-commander-ii-speech-accessory-pack.json) |
 | Wing Commander II: Vengeance of the Kilrathi - Special Operations 1 | 50170 | [50170-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-1.json](./50170-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-1.json) |
 | Wing Commander II: Vengeance of the Kilrathi - Special Operations 2 | 50169 | [50169-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-2.json](./50169-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-2.json) |
+| Wing Commander IV: The Price of Freedom | 200423 | [200423-wing-commander-iv-the-price-of-freedom.json](./200423-wing-commander-iv-the-price-of-freedom.json) |
 | Wing Commander Privateer: Righteous Fire | 50168 | [50168-wing-commander-privateer-righteous-fire.json](./50168-wing-commander-privateer-righteous-fire.json) |
 | Wing Commander: Armada | 8824 | [8824-wing-commander-armada.json](./8824-wing-commander-armada.json) |
 | Wing Commander: Privateer | 794 | [794-wing-commander-privateer.json](./794-wing-commander-privateer.json) |
