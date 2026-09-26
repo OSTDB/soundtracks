@@ -1096,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genbu's Favour | 322556 | [322556-genbus-favour.json](./322556-genbus-favour.json) |
 | Gendai Daisenryaku: Ultimate War | 231510 | [231510-gendai-daisenryaku-ultimate-war.json](./231510-gendai-daisenryaku-ultimate-war.json) |
 | Gender Dysphoria | 177502 | [177502-gender-dysphoria.json](./177502-gender-dysphoria.json) |
+| Gender Euphoria VN | 183906 | [183906-gender-euphoria-vn.json](./183906-gender-euphoria-vn.json) |
 | Gender Wars | 50141 | [50141-gender-wars.json](./50141-gender-wars.json) |
 | Genderman | 391600 | [391600-genderman.json](./391600-genderman.json) |
 | Gene | 35898 | [35898-gene.json](./35898-gene.json) |
@@ -1239,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genocide 2: Genocide Square | 56417 | [56417-genocide-2-genocide-square.json](./56417-genocide-2-genocide-square.json) |
 | Genokids | 141137 | [141137-genokids.json](./141137-genokids.json) |
 | Genomon: Genetic Monsters | 142842 | [142842-genomon-genetic-monsters.json](./142842-genomon-genetic-monsters.json) |
+| Genpei Kassen | 183870 | [183870-genpei-kassen.json](./183870-genpei-kassen.json) |
 | Genre Hopper | 182532 | [182532-genre-hopper.json](./182532-genre-hopper.json) |
 | Gensei Suikoden | 97282 | [97282-gensei-suikoden.json](./97282-gensei-suikoden.json) |
 | Genseijin Justirisers | 49607 | [49607-genseijin-justirisers.json](./49607-genseijin-justirisers.json) |
@@ -4507,6 +4509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guru-guru Town Hanamaru-kun | 281538 | [281538-guru-guru-town-hanamaru-kun.json](./281538-guru-guru-town-hanamaru-kun.json) |
 | Gurugedara | 61620 | [61620-gurugedara.json](./61620-gurugedara.json) |
 | Gururin World | 286633 | [286633-gururin-world.json](./286633-gururin-world.json) |
+| Gusano Go | 183860 | [183860-gusano-go.json](./183860-gusano-go.json) |
 | Gust | 221130 | [221130-gust.json](./221130-gust.json) |
 | Gutasaga | 257439 | [257439-gutasaga.json](./257439-gutasaga.json) |
 | Gute Zeiten Schlechte Zeiten Quiz | 281539 | [281539-gute-zeiten-schlechte-zeiten-quiz.json](./281539-gute-zeiten-schlechte-zeiten-quiz.json) |
