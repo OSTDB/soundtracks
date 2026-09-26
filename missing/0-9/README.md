@@ -602,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20th Century Beauties | 350636 | [350636-20th-century-beauties.json](./350636-20th-century-beauties.json) |
 | 20th Century Frog | 272846 | [272846-20th-century-frog.json](./272846-20th-century-frog.json) |
 | 20x20x20 | 175786 | [175786-20x20x20.json](./175786-20x20x20.json) |
+| 20XX: Hawk Character | 227240 | [227240-20xx-hawk-character.json](./227240-20xx-hawk-character.json) |
 | 21 Blitz | 125939 | [125939-21-blitz.json](./125939-21-blitz.json) |
 | 21 Gewinnt | 98932 | [98932-21-gewinnt.json](./98932-21-gewinnt.json) |
 | 21 Steps to Soul | 27115 | [27115-21-steps-to-soul.json](./27115-21-steps-to-soul.json) |
