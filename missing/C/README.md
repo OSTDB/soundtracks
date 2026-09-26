@@ -5344,6 +5344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Consensual Torture Simulator | 15446 | [15446-consensual-torture-simulator.json](./15446-consensual-torture-simulator.json) |
 | Considerable Grandfather | 293643 | [293643-considerable-grandfather.json](./293643-considerable-grandfather.json) |
 | Considerable Grandfather: It Followed Me Home | 408784 | [408784-considerable-grandfather-it-followed-me-home.json](./408784-considerable-grandfather-it-followed-me-home.json) |
+| Consolation: Board Meeting - Anthology Edition | 193217 | [193217-consolation-board-meeting-anthology-edition.json](./193217-consolation-board-meeting-anthology-edition.json) |
 | Console Archives: Crazy Climber | 418714 | [418714-console-archives-crazy-climber.json](./418714-console-archives-crazy-climber.json) |
 | Console Archives: Hercules no Eikou II - Taitan no Metsubou | 410364 | [410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json](./410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json) |
 | Console Archives: Master of Monsters - Disciples of Gaia | 401691 | [401691-console-archives-master-of-monsters-disciples-of-gaia.json](./401691-console-archives-master-of-monsters-disciples-of-gaia.json) |
@@ -8011,6 +8012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Hearts Club | 311633 | [311633-cyber-hearts-club.json](./311633-cyber-hearts-club.json) |
 | Cyber Hentai | 149430 | [149430-cyber-hentai.json](./149430-cyber-hentai.json) |
 | Cyber​​ Honey | 193882 | [193882-cyber-honey.json](./193882-cyber-honey.json) |
+| Cyber Hook: Lost Numbers | 193224 | [193224-cyber-hook-lost-numbers.json](./193224-cyber-hook-lost-numbers.json) |
 | Cyber Horny | 277359 | [277359-cyber-horny.json](./277359-cyber-horny.json) |
 | Cyber Horror: Project S.Y.L.A. | 370110 | [370110-cyber-horror-project-s-y-l-a.json](./370110-cyber-horror-project-s-y-l-a.json) |
 | Cyber Illusion | 146724 | [146724-cyber-illusion.json](./146724-cyber-illusion.json) |
