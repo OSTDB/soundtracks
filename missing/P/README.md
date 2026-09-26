@@ -1592,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pebble Witch | 151022 | [151022-pebble-witch.json](./151022-pebble-witch.json) |
 | Pebble's Bakery | 180714 | [180714-pebbles-bakery.json](./180714-pebbles-bakery.json) |
 | Pebbles Quest | 324337 | [324337-pebbles-quest.json](./324337-pebbles-quest.json) |
+| Pebbles? Wenches? | 176286 | [176286-pebbles-wenches.json](./176286-pebbles-wenches.json) |
 | Pec-Men | 335693 | [335693-pec-men.json](./335693-pec-men.json) |
 | Pecaminosa: Collector's Edition | 146141 | [146141-pecaminosa-collectors-edition.json](./146141-pecaminosa-collectors-edition.json) |
 | Peccator-It's Not Over Yet | 180104 | [180104-peccator-its-not-over-yet.json](./180104-peccator-its-not-over-yet.json) |
@@ -3070,11 +3071,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pippin's Mysterious Garden | 258729 | [258729-pippins-mysterious-garden.json](./258729-pippins-mysterious-garden.json) |
 | Pippo's Quest | 251584 | [251584-pippos-quest.json](./251584-pippos-quest.json) |
 | Pir-Crew | 176783 | [176783-pir-crew.json](./176783-pir-crew.json) |
+| Piradice | 176290 | [176290-piradice.json](./176290-piradice.json) |
 | Piraka Attack | 409761 | [409761-piraka-attack.json](./409761-piraka-attack.json) |
 | Pirarucu's Money Rush | 301023 | [301023-pirarucus-money-rush.json](./301023-pirarucus-money-rush.json) |
 | Pirate | 41424 | [41424-pirate.json](./41424-pirate.json) |
 | Pirate Adventure | 176799 | [176799-pirate-adventure.json](./176799-pirate-adventure.json) |
 | Pirate Adventures: hidden object game | 104630 | [104630-pirate-adventures-hidden-object-game.json](./104630-pirate-adventures-hidden-object-game.json) |
+| Pirate Boom | 176298 | [176298-pirate-boom.json](./176298-pirate-boom.json) |
 | Pirate Cannons Ahoy! | 115675 | [115675-pirate-cannons-ahoy.json](./115675-pirate-cannons-ahoy.json) |
 | Pirate Chest Chess | 365875 | [365875-pirate-chest-chess.json](./365875-pirate-chest-chess.json) |
 | Pirate Chips | 391846 | [391846-pirate-chips.json](./391846-pirate-chips.json) |
@@ -3135,6 +3138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates and Traders | 39174 | [39174-pirates-and-traders.json](./39174-pirates-and-traders.json) |
 | Pirates are Blanking Awesome | 117475 | [117475-pirates-are-blanking-awesome.json](./117475-pirates-are-blanking-awesome.json) |
 | Pirates Bay | 211802 | [211802-pirates-bay.json](./211802-pirates-bay.json) |
+| Pirates Crew | 176297 | [176297-pirates-crew.json](./176297-pirates-crew.json) |
 | Pirates CSG Online | 20643 | [20643-pirates-csg-online.json](./20643-pirates-csg-online.json) |
 | Pirates Deck | 35643 | [35643-pirates-deck.json](./35643-pirates-deck.json) |
 | Pirates Golden Quest | 300854 | [300854-pirates-golden-quest.json](./300854-pirates-golden-quest.json) |
@@ -6667,6 +6671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proxy Adventure: Simulation Room | 346748 | [346748-proxy-adventure-simulation-room.json](./346748-proxy-adventure-simulation-room.json) |
 | Proze: Enlightenment | 116132 | [116132-proze-enlightenment.json](./116132-proze-enlightenment.json) |
 | Prší | 99579 | [99579-prsi.json](./99579-prsi.json) |
+| PRTs | 176277 | [176277-prts.json](./176277-prts.json) |
 | Prueba Humana | 361231 | [361231-prueba-humana.json](./361231-prueba-humana.json) |
 | Prune & Milo | 294134 | [294134-prune-and-milo.json](./294134-prune-and-milo.json) |
 | Prussia's Glory | 77384 | [77384-prussias-glory.json](./77384-prussias-glory.json) |
@@ -6720,6 +6725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Pigs | 59949 | [59949-psycho-pigs.json](./59949-psycho-pigs.json) |
 | Psycho Santa | 66394 | [66394-psycho-santa.json](./66394-psycho-santa.json) |
 | Psycho Simulator | 389465 | [389465-psycho-simulator.json](./389465-psycho-simulator.json) |
+| Psycho Slasher | 176265 | [176265-psycho-slasher.json](./176265-psycho-slasher.json) |
 | Psycho Starship Rampage | 34856 | [34856-psycho-starship-rampage.json](./34856-psycho-starship-rampage.json) |
 | Psycho Strafe | 358969 | [358969-psycho-strafe.json](./358969-psycho-strafe.json) |
 | Psycho Train | 53483 | [53483-psycho-train.json](./53483-psycho-train.json) |
