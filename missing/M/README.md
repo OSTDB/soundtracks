@@ -1015,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makeruna! Makendou Z | 64091 | [64091-makeruna-makendou-z.json](./64091-makeruna-makendou-z.json) |
 | MakeThatMoney | 90473 | [90473-makethatmoney.json](./90473-makethatmoney.json) |
 | Makeup Stylist: DIY Makeup Game | 208971 | [208971-makeup-stylist-diy-makeup-game.json](./208971-makeup-stylist-diy-makeup-game.json) |
+| Maki Fes! | 186615 | [186615-maki-fes.json](./186615-maki-fes.json) |
 | Maki: Paw of Fury | 215610 | [215610-maki-paw-of-fury.json](./215610-maki-paw-of-fury.json) |
 | Makibishi Comic | 237501 | [237501-makibishi-comic.json](./237501-makibishi-comic.json) |
 | Makin Biscuits | 178516 | [178516-makin-biscuits.json](./178516-makin-biscuits.json) |
@@ -1314,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maps 4Matt | 312897 | [312897-maps-4matt.json](./312897-maps-4matt.json) |
 | Maps 4TMD | 312911 | [312911-maps-4tmd.json](./312911-maps-4tmd.json) |
 | Maps: U.S.A. | 201011 | [201011-maps-u-s-a.json](./201011-maps-u-s-a.json) |
+| Mapsnatch | 186639 | [186639-mapsnatch.json](./186639-mapsnatch.json) |
 | MapTap.gg | 400496 | [400496-maptap-gg.json](./400496-maptap-gg.json) |
 | Mapventure Story | 238587 | [238587-mapventure-story.json](./238587-mapventure-story.json) |
 | Maqiupai | 92993 | [92993-maqiupai.json](./92993-maqiupai.json) |
@@ -2418,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Stern | 31197 | [31197-max-stern.json](./31197-max-stern.json) |
 | Max Strong 2 | 310605 | [310605-max-strong-2.json](./310605-max-strong-2.json) |
 | Max Strong: Private Investigator | 310604 | [310604-max-strong-private-investigator.json](./310604-max-strong-private-investigator.json) |
+| Max Time Traveler: From the Future | 186645 | [186645-max-time-traveler-from-the-future.json](./186645-max-time-traveler-from-the-future.json) |
 | Max Traffic | 191887 | [191887-max-traffic.json](./191887-max-traffic.json) |
 | Max Twist | 262965 | [262965-max-twist.json](./262965-max-twist.json) |
 | Max, an Autistic Journey: Max's Birthday | 168321 | [168321-max-an-autistic-journey-maxs-birthday.json](./168321-max-an-autistic-journey-maxs-birthday.json) |
@@ -7962,6 +7965,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Business | 152154 | [152154-my-business.json](./152154-my-business.json) |
 | My Butler | 32274 | [32274-my-butler.json](./32274-my-butler.json) |
 | My Cake Shop HD | 104607 | [104607-my-cake-shop-hd.json](./104607-my-cake-shop-hd.json) |
+| My Candy Love: High School Life | 186654 | [186654-my-candy-love-high-school-life.json](./186654-my-candy-love-high-school-life.json) |
+| My Candy Love: University Life | 186655 | [186655-my-candy-love-university-life.json](./186655-my-candy-love-university-life.json) |
 | My Cannibal Family | 404918 | [404918-my-cannibal-family.json](./404918-my-cannibal-family.json) |
 | My Car My Life | 373542 | [373542-my-car-my-life.json](./373542-my-car-my-life.json) |
 | My Car Salon Pro | 323166 | [323166-my-car-salon-pro.json](./323166-my-car-salon-pro.json) |
