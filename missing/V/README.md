@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas Stakes | 38410 | [38410-vegas-stakes.json](./38410-vegas-stakes.json) |
 | Vegas Stakes | 85469 | [85469-vegas-stakes.json](./85469-vegas-stakes.json) |
 | Vege Bubble Shoot | 278490 | [278490-vege-bubble-shoot.json](./278490-vege-bubble-shoot.json) |
+| Vegetable Game | 191569 | [191569-vegetable-game.json](./191569-vegetable-game.json) |
 | Vegetable Valley Nightmare | 216303 | [216303-vegetable-valley-nightmare.json](./216303-vegetable-valley-nightmare.json) |
 | Vegetables Deluxe C64 | 135016 | [135016-vegetables-deluxe-c64.json](./135016-vegetables-deluxe-c64.json) |
 | Vegetarian Alliance | 119683 | [119683-vegetarian-alliance.json](./119683-vegetarian-alliance.json) |
