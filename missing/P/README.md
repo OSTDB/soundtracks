@@ -2055,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pete Sampras Tennis 97 | 57672 | [57672-pete-sampras-tennis-97.json](./57672-pete-sampras-tennis-97.json) |
 | Pete's Peril | 215697 | [215697-petes-peril.json](./215697-petes-peril.json) |
 | Peter Frankl: Puzzle no Tou | 254499 | [254499-peter-frankl-puzzle-no-tou.json](./254499-peter-frankl-puzzle-no-tou.json) |
+| Peter Padder Pauleypop | 181167 | [181167-peter-padder-pauleypop.json](./181167-peter-padder-pauleypop.json) |
 | Peter Pan | 95405 | [95405-peter-pan.json](./95405-peter-pan.json) |
 | Peter Pan: A Story Painting Adventure | 327871 | [327871-peter-pan-a-story-painting-adventure.json](./327871-peter-pan-a-story-painting-adventure.json) |
 | Peter Pan: The Motion Picture Event | 49317 | [49317-peter-pan-the-motion-picture-event.json](./49317-peter-pan-the-motion-picture-event.json) |
@@ -2372,6 +2373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photo Quiz: 4 pics, 1 thing in common - what’s the word? | 232568 | [232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json](./232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json) |
 | Photo Y2K | 142858 | [142858-photo-y2k.json](./142858-photo-y2k.json) |
 | Photobia: Tales from the Dark | 298660 | [298660-photobia-tales-from-the-dark.json](./298660-photobia-tales-from-the-dark.json) |
+| Photobound | 181164 | [181164-photobound.json](./181164-photobound.json) |
 | Photogeist | 307693 | [307693-photogeist.json](./307693-photogeist.json) |
 | Photogeist Albums: Case 1 | 307337 | [307337-photogeist-albums-case-1.json](./307337-photogeist-albums-case-1.json) |
 | PhotoLoop | 361811 | [361811-photoloop.json](./361811-photoloop.json) |
