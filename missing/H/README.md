@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter: Mastering Magic | 266200 | [266200-harry-potter-mastering-magic.json](./266200-harry-potter-mastering-magic.json) |
 | Harry Potter: Quidditch Champions - Deluxe Edition | 318003 | [318003-harry-potter-quidditch-champions-deluxe-edition.json](./318003-harry-potter-quidditch-champions-deluxe-edition.json) |
 | Harry Potter: Quidditch Champions - Deluxe Pack | 328987 | [328987-harry-potter-quidditch-champions-deluxe-pack.json](./328987-harry-potter-quidditch-champions-deluxe-pack.json) |
+| Harry Styles Heardle | 225622 | [225622-harry-styles-heardle.json](./225622-harry-styles-heardle.json) |
 | Harry the Hamster 2: The Quest for the Golden Wheel | 235333 | [235333-harry-the-hamster-2-the-quest-for-the-golden-wheel.json](./235333-harry-the-hamster-2-the-quest-for-the-golden-wheel.json) |
 | Harry's Legend | 320965 | [320965-harrys-legend.json](./320965-harrys-legend.json) |
 | Harrys Restaurant | 66388 | [66388-harrys-restaurant.json](./66388-harrys-restaurant.json) |
