@@ -6411,6 +6411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamScript | 158050 | [158050-dreamscript.json](./158050-dreamscript.json) |
 | DreamSleuth: hidden object adventure quest lite | 88311 | [88311-dreamsleuth-hidden-object-adventure-quest-lite.json](./88311-dreamsleuth-hidden-object-adventure-quest-lite.json) |
 | Dreamspace | 323342 | [323342-dreamspace.json](./323342-dreamspace.json) |
+| Dreamspaces | 181682 | [181682-dreamspaces.json](./181682-dreamspaces.json) |
 | Dreamspring | 333372 | [333372-dreamspring.json](./333372-dreamspring.json) |
 | Dreamstate Racing | 133414 | [133414-dreamstate-racing.json](./133414-dreamstate-racing.json) |
 | Dreamstory | 379026 | [379026-dreamstory.json](./379026-dreamstory.json) |
@@ -6785,6 +6786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Druuna: Morbus Gravis | 23445 | [23445-druuna-morbus-gravis.json](./23445-druuna-morbus-gravis.json) |
 | Dry | 202356 | [202356-dry.json](./202356-dry.json) |
 | Dry Erase: Infinite VR Whiteboard | 51559 | [51559-dry-erase-infinite-vr-whiteboard.json](./51559-dry-erase-infinite-vr-whiteboard.json) |
+| Dry Hazard | 181718 | [181718-dry-hazard.json](./181718-dry-hazard.json) |
 | Dry Path | 181808 | [181808-dry-path.json](./181808-dry-path.json) |
 | Dry Sorrow | 271783 | [271783-dry-sorrow.json](./271783-dry-sorrow.json) |
 | Drybreed | 180715 | [180715-drybreed.json](./180715-drybreed.json) |
