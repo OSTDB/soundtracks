@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jazzpunk: Flavour Nexus | 124832 | [124832-jazzpunk-flavour-nexus.json](./124832-jazzpunk-flavour-nexus.json) |
 | JB Hairboll in: Murder Flub | 59414 | [59414-jb-hairboll-in-murder-flub.json](./59414-jb-hairboll-in-murder-flub.json) |
 | JB Hunter: Adventure | 223394 | [223394-jb-hunter-adventure.json](./223394-jb-hunter-adventure.json) |
+| JBMod | 222836 | [222836-jbmod.json](./222836-jbmod.json) |
 | JBomb | 340769 | [340769-jbomb.json](./340769-jbomb.json) |
 | JCB Digger | 13730 | [13730-jcb-digger.json](./13730-jcb-digger.json) |
 | Jealousy Duel X | 93347 | [93347-jealousy-duel-x.json](./93347-jealousy-duel-x.json) |
@@ -881,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joey Wamoney's: The Metamorphosis | 278464 | [278464-joey-wamoneys-the-metamorphosis.json](./278464-joey-wamoneys-the-metamorphosis.json) |
 | Joey's Shisha Simulator | 326412 | [326412-joeys-shisha-simulator.json](./326412-joeys-shisha-simulator.json) |
 | Jogo da Nota | 409806 | [409806-jogo-da-nota.json](./409806-jogo-da-nota.json) |
+| Jogo do Banquinho do Raul Gil | 222874 | [222874-jogo-do-banquinho-do-raul-gil.json](./222874-jogo-do-banquinho-do-raul-gil.json) |
 | Johan | 403561 | [403561-johan.json](./403561-johan.json) |
 | John Adventure | 63574 | [63574-john-adventure.json](./63574-john-adventure.json) |
 | John Adventure | 63575 | [63575-john-adventure.json](./63575-john-adventure.json) |
