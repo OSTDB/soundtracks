@@ -1803,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentacles Party With Nuns Chibi Stickers | 337653 | [337653-tentacles-party-with-nuns-chibi-stickers.json](./337653-tentacles-party-with-nuns-chibi-stickers.json) |
 | Tentacuddle | 294159 | [294159-tentacuddle.json](./294159-tentacuddle.json) |
 | Tentacult! | 32872 | [32872-tentacult.json](./32872-tentacult.json) |
+| Tentador Leches | 179500 | [179500-tentador-leches.json](./179500-tentador-leches.json) |
 | Tentlan | 103434 | [103434-tentlan.json](./103434-tentlan.json) |
 | Teocalli | 134698 | [134698-teocalli.json](./134698-teocalli.json) |
 | Teocida + Estigma | 265712 | [265712-teocida-estigma.json](./265712-teocida-estigma.json) |
@@ -2534,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Attic: A Mystery Puzzle Game | 412363 | [412363-the-attic-a-mystery-puzzle-game.json](./412363-the-attic-a-mystery-puzzle-game.json) |
 | The Attic's a Dungeon ?! | 176431 | [176431-the-attics-a-dungeon.json](./176431-the-attics-a-dungeon.json) |
 | The Auction Game | 337199 | [337199-the-auction-game.json](./337199-the-auction-game.json) |
+| The Austrian Painter | 179484 | [179484-the-austrian-painter.json](./179484-the-austrian-painter.json) |
 | The Auto Sort Is Broken | 329363 | [329363-the-auto-sort-is-broken.json](./329363-the-auto-sort-is-broken.json) |
 | The Avengers | 86108 | [86108-the-avengers.json](./86108-the-avengers.json) |
 | The Avengers United Battle Force | 297544 | [297544-the-avengers-united-battle-force.json](./297544-the-avengers-united-battle-force.json) |
@@ -2664,6 +2666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beatles: Adventures in Pepperland | 198501 | [198501-the-beatles-adventures-in-pepperland.json](./198501-the-beatles-adventures-in-pepperland.json) |
 | The Beautiful World | 384228 | [384228-the-beautiful-world.json](./384228-the-beautiful-world.json) |
 | The Beauty Cult's: Nectarmancer | 219547 | [219547-the-beauty-cults-nectarmancer.json](./219547-the-beauty-cults-nectarmancer.json) |
+| The Bed Was Cold | 179489 | [179489-the-bed-was-cold.json](./179489-the-bed-was-cold.json) |
 | The Bee Hive | 378786 | [378786-the-bee-hive.json](./378786-the-bee-hive.json) |
 | The Beginner Investor | 384087 | [384087-the-beginner-investor.json](./384087-the-beginner-investor.json) |
 | The Beginning of the End | 58853 | [58853-the-beginning-of-the-end.json](./58853-the-beginning-of-the-end.json) |
@@ -3829,6 +3832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fall of Rallys Factory: Episode 2 - It's for Science | 186347 | [186347-the-fall-of-rallys-factory-episode-2-its-for-science.json](./186347-the-fall-of-rallys-factory-episode-2-its-for-science.json) |
 | The Fall of Rome | 262401 | [262401-the-fall-of-rome.json](./262401-the-fall-of-rome.json) |
 | The Fall of the Dungeon Guardians: Enhanced Edition | 269289 | [269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json](./269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json) |
+| The Fall of the Kingdom | 179509 | [179509-the-fall-of-the-kingdom.json](./179509-the-fall-of-the-kingdom.json) |
 | The Fall: Act I | 318971 | [318971-the-fall-act-i.json](./318971-the-fall-act-i.json) |
 | The Fallen Angels | 39581 | [39581-the-fallen-angels.json](./39581-the-fallen-angels.json) |
 | The Fallen Crypt of the Judgement Concrete | 328031 | [328031-the-fallen-crypt-of-the-judgement-concrete.json](./328031-the-fallen-crypt-of-the-judgement-concrete.json) |
@@ -4460,6 +4464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House that Jack Built | 25725 | [25725-the-house-that-jack-built.json](./25725-the-house-that-jack-built.json) |
 | The House Unrest | 392166 | [392166-the-house-unrest.json](./392166-the-house-unrest.json) |
 | The House Where They Dwell | 192389 | [192389-the-house-where-they-dwell.json](./192389-the-house-where-they-dwell.json) |
+| The Howl | 179491 | [179491-the-howl.json](./179491-the-howl.json) |
 | The Howler | 11838 | [11838-the-howler.json](./11838-the-howler.json) |
 | The Hula Hamsters | 71797 | [71797-the-hula-hamsters.json](./71797-the-hula-hamsters.json) |
 | The Human Heart | 177913 | [177913-the-human-heart.json](./177913-the-human-heart.json) |
@@ -4473,6 +4478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hundred Youkai Master | 346674 | [346674-the-hundred-youkai-master.json](./346674-the-hundred-youkai-master.json) |
 | The Hunger Games Adventures | 57708 | [57708-the-hunger-games-adventures.json](./57708-the-hunger-games-adventures.json) |
 | The Hunger: Games Ensemble | 164914 | [164914-the-hunger-games-ensemble.json](./164914-the-hunger-games-ensemble.json) |
+| The Hungry House | 179502 | [179502-the-hungry-house.json](./179502-the-hungry-house.json) |
 | The Hungry Witch and the Gourmet Dish | 185157 | [185157-the-hungry-witch-and-the-gourmet-dish.json](./185157-the-hungry-witch-and-the-gourmet-dish.json) |
 | The Hunsa Magic | 199366 | [199366-the-hunsa-magic.json](./199366-the-hunsa-magic.json) |
 | The Hunt | 171472 | [171472-the-hunt.json](./171472-the-hunt.json) |
@@ -5149,6 +5155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Lumina | 302360 | [302360-the-legend-of-lumina.json](./302360-the-legend-of-lumina.json) |
 | The Legend of Maya | 78324 | [78324-the-legend-of-maya.json](./78324-the-legend-of-maya.json) |
 | The Legend of Mir 2 | 51204 | [51204-the-legend-of-mir-2.json](./51204-the-legend-of-mir-2.json) |
+| The Legend of Monsters | 179521 | [179521-the-legend-of-monsters.json](./179521-the-legend-of-monsters.json) |
 | The Legend of Nayuta: Boundless Trails | 42722 | [42722-the-legend-of-nayuta-boundless-trails.json](./42722-the-legend-of-nayuta-boundless-trails.json) |
 | The Legend of Ninja | 147947 | [147947-the-legend-of-ninja.json](./147947-the-legend-of-ninja.json) |
 | The Legend of Peach | 198374 | [198374-the-legend-of-peach.json](./198374-the-legend-of-peach.json) |
@@ -7612,6 +7619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The V Anomaly | 390539 | [390539-the-v-anomaly.json](./390539-the-v-anomaly.json) |
 | The Valley | 292068 | [292068-the-valley.json](./292068-the-valley.json) |
 | The Vamp | 254552 | [254552-the-vamp.json](./254552-the-vamp.json) |
+| The Vampire Lord of Valea Noapte | 179519 | [179519-the-vampire-lord-of-valea-noapte.json](./179519-the-vampire-lord-of-valea-noapte.json) |
 | The Vampire's Bride: A Bride Who Gets Married to Vampdoll | 334894 | [334894-the-vampires-bride-a-bride-who-gets-married-to-vampdoll.json](./334894-the-vampires-bride-a-bride-who-gets-married-to-vampdoll.json) |
 | The Vanished Sister | 283844 | [283844-the-vanished-sister.json](./283844-the-vanished-sister.json) |
 | The Vanished Soul | 318063 | [318063-the-vanished-soul.json](./318063-the-vanished-soul.json) |
@@ -8345,6 +8353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thoroughbred Breeder III | 37787 | [37787-thoroughbred-breeder-iii.json](./37787-thoroughbred-breeder-iii.json) |
 | Thoroughbred Breeder: Sekai Seiha-hen | 61023 | [61023-thoroughbred-breeder-sekai-seiha-hen.json](./61023-thoroughbred-breeder-sekai-seiha-hen.json) |
 | Those Damn Aliens VR | 29937 | [29937-those-damn-aliens-vr.json](./29937-those-damn-aliens-vr.json) |
+| Those Dirty Colonists | 179527 | [179527-those-dirty-colonists.json](./179527-those-dirty-colonists.json) |
 | Those Infernal Girls! | 225744 | [225744-those-infernal-girls.json](./225744-those-infernal-girls.json) |
 | Those Left Behind | 212854 | [212854-those-left-behind.json](./212854-those-left-behind.json) |
 | Those Nights at Ring's 2 | 336360 | [336360-those-nights-at-rings-2.json](./336360-those-nights-at-rings-2.json) |
@@ -10968,6 +10977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toukiden: The Age of Demons | 8658 | [8658-toukiden-the-age-of-demons.json](./8658-toukiden-the-age-of-demons.json) |
 | Touko in Underland | 312764 | [312764-touko-in-underland.json](./312764-touko-in-underland.json) |
 | Toumayhem | 202857 | [202857-toumayhem.json](./202857-toumayhem.json) |
+| Tour de Akiba | 179505 | [179505-tour-de-akiba.json](./179505-tour-de-akiba.json) |
 | Tour de Drone | 305931 | [305931-tour-de-drone.json](./305931-tour-de-drone.json) |
 | Tour De France | 95456 | [95456-tour-de-france.json](./95456-tour-de-france.json) |
 | Tour de France 2009 | 21247 | [21247-tour-de-france-2009.json](./21247-tour-de-france-2009.json) |
@@ -13225,6 +13235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turnabouts of the Father | 303254 | [303254-turnabouts-of-the-father.json](./303254-turnabouts-of-the-father.json) |
 | Turnament | 192694 | [192694-turnament.json](./192694-turnament.json) |
 | TurnBreak | 343278 | [343278-turnbreak.json](./343278-turnbreak.json) |
+| Turncoat Protocol | 179501 | [179501-turncoat-protocol.json](./179501-turncoat-protocol.json) |
 | Turned Into Turrets | 377082 | [377082-turned-into-turrets.json](./377082-turned-into-turrets.json) |
 | Turnin' Tail | 180677 | [180677-turnin-tail.json](./180677-turnin-tail.json) |
 | Turning | 249870 | [249870-turning.json](./249870-turning.json) |
