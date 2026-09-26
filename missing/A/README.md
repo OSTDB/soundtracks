@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acorn-A-Thon | 307328 | [307328-acorn-a-thon.json](./307328-acorn-a-thon.json) |
 | Acquaint | 379466 | [379466-acquaint.json](./379466-acquaint.json) |
 | Acquaria | 132868 | [132868-acquaria.json](./132868-acquaria.json) |
+| Acquiescence | 183862 | [183862-acquiescence.json](./183862-acquiescence.json) |
 | Acquisition War | 148502 | [148502-acquisition-war.json](./148502-acquisition-war.json) |
 | Acres | 258464 | [258464-acres.json](./258464-acres.json) |
 | Acretia: Guardians of Lian | 219699 | [219699-acretia-guardians-of-lian.json](./219699-acretia-guardians-of-lian.json) |
@@ -975,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ADG Episode | 270696 | [270696-adg-episode.json](./270696-adg-episode.json) |
 | ADHD Arena | 276860 | [276860-adhd-arena.json](./276860-adhd-arena.json) |
 | ADHD Horror Anthology | 379556 | [379556-adhd-horror-anthology.json](./379556-adhd-horror-anthology.json) |
+| Adhere: The Good Boy | 183904 | [183904-adhere-the-good-boy.json](./183904-adhere-the-good-boy.json) |
 | Adhvan Chakra | 328214 | [328214-adhvan-chakra.json](./328214-adhvan-chakra.json) |
 | Adiboo & Paziral's Secret | 98251 | [98251-adiboo-and-pazirals-secret.json](./98251-adiboo-and-pazirals-secret.json) |
 | Adibou Anglais | 242506 | [242506-adibou-anglais.json](./242506-adibou-anglais.json) |
