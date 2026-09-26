@@ -1148,6 +1148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Saboteurs: After Party | 130364 | [130364-party-saboteurs-after-party.json](./130364-party-saboteurs-after-party.json) |
 | Party Versus | 326770 | [326770-party-versus.json](./326770-party-versus.json) |
 | Party Words | 207543 | [207543-party-words.json](./207543-party-words.json) |
+| Party, Darling? | 187210 | [187210-party-darling.json](./187210-party-darling.json) |
 | Partygoer! | 329035 | [329035-partygoer.json](./329035-partygoer.json) |
 | Pasajeros | 192426 | [192426-pasajeros.json](./192426-pasajeros.json) |
 | Pasha Planet: Reborn | 234186 | [234186-pasha-planet-reborn.json](./234186-pasha-planet-reborn.json) |
@@ -4152,6 +4153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Skate | 214020 | [214020-pocket-skate.json](./214020-pocket-skate.json) |
 | Pocket Slaughter | 257417 | [257417-pocket-slaughter.json](./257417-pocket-slaughter.json) |
 | Pocket Slimes | 192949 | [192949-pocket-slimes.json](./192949-pocket-slimes.json) |
+| Pocket Soccer | 187244 | [187244-pocket-soccer.json](./187244-pocket-soccer.json) |
 | Pocket Squid Fishing | 248282 | [248282-pocket-squid-fishing.json](./248282-pocket-squid-fishing.json) |
 | Pocket Stadium | 337256 | [337256-pocket-stadium.json](./337256-pocket-stadium.json) |
 | Pocket Starships | 57124 | [57124-pocket-starships.json](./57124-pocket-starships.json) |
@@ -6462,6 +6464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Summer Ice - Bowling: Story Four - Pammy Version | 215064 | [215064-project-summer-ice-bowling-story-four-pammy-version.json](./215064-project-summer-ice-bowling-story-four-pammy-version.json) |
 | Project: Summer Ice - Bowling: Story One - Jane Version | 215359 | [215359-project-summer-ice-bowling-story-one-jane-version.json](./215359-project-summer-ice-bowling-story-one-jane-version.json) |
 | Project: Summer Ice - Bowling: Story One - Mark Version | 215125 | [215125-project-summer-ice-bowling-story-one-mark-version.json](./215125-project-summer-ice-bowling-story-one-mark-version.json) |
+| Project: Summer Ice - Bowling: Story One - Pammy Version | 187216 | [187216-project-summer-ice-bowling-story-one-pammy-version.json](./187216-project-summer-ice-bowling-story-one-pammy-version.json) |
 | Project: Summer Ice - Bowling: Story Six - Pammy Version | 226311 | [226311-project-summer-ice-bowling-story-six-pammy-version.json](./226311-project-summer-ice-bowling-story-six-pammy-version.json) |
 | Project: Summer Ice - Bowling: Story Three - Jane Version | 215352 | [215352-project-summer-ice-bowling-story-three-jane-version.json](./215352-project-summer-ice-bowling-story-three-jane-version.json) |
 | Project: Summer Ice - Bowling: Story Three - Mark Version | 215111 | [215111-project-summer-ice-bowling-story-three-mark-version.json](./215111-project-summer-ice-bowling-story-three-mark-version.json) |
@@ -6664,6 +6667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychedelica of the Ashen Hawk | 41824 | [41824-psychedelica-of-the-ashen-hawk.json](./41824-psychedelica-of-the-ashen-hawk.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Boys Dating Sim | 336558 | [336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json](./336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Girls Dating Sim | 338006 | [338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json](./338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json) |
+| Psychic | 187201 | [187201-psychic.json](./187201-psychic.json) |
 | Psychic Force | 20140 | [20140-psychic-force.json](./20140-psychic-force.json) |
 | Psychic Force Complete | 71790 | [71790-psychic-force-complete.json](./71790-psychic-force-complete.json) |
 | Psychic Investigation of Sakuragi Haru | 241385 | [241385-psychic-investigation-of-sakuragi-haru.json](./241385-psychic-investigation-of-sakuragi-haru.json) |
