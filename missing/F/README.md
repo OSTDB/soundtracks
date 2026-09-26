@@ -2550,6 +2550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Clash 2020: Fish Catching Games | 135263 | [135263-fishing-clash-2020-fish-catching-games.json](./135263-fishing-clash-2020-fish-catching-games.json) |
 | Fishing Craze | 294739 | [294739-fishing-craze.json](./294739-fishing-craze.json) |
 | Fishing Diary: King of Fishing | 196286 | [196286-fishing-diary-king-of-fishing.json](./196286-fishing-diary-king-of-fishing.json) |
+| Fishing Ducks | 221701 | [221701-fishing-ducks.json](./221701-fishing-ducks.json) |
 | Fishing Echoes | 264670 | [264670-fishing-echoes.json](./264670-fishing-echoes.json) |
 | Fishing Fighters | 146836 | [146836-fishing-fighters.json](./146836-fishing-fighters.json) |
 | Fishing Fishing | 303050 | [303050-fishing-fishing.json](./303050-fishing-fishing.json) |
@@ -3947,6 +3948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forklift Extreme: Santa's Workshop | 231287 | [231287-forklift-extreme-santas-workshop.json](./231287-forklift-extreme-santas-workshop.json) |
 | Forklift Extreme: Ultra DLC Pack | 252405 | [252405-forklift-extreme-ultra-dlc-pack.json](./252405-forklift-extreme-ultra-dlc-pack.json) |
 | Forklift Extreme: Ultra Edition | 252404 | [252404-forklift-extreme-ultra-edition.json](./252404-forklift-extreme-ultra-edition.json) |
+| Forklift Extreme: Vertigo Farm | 221692 | [221692-forklift-extreme-vertigo-farm.json](./221692-forklift-extreme-vertigo-farm.json) |
 | Forklift Racer | 253948 | [253948-forklift-racer.json](./253948-forklift-racer.json) |
 | Forklift Simulator | 293134 | [293134-forklift-simulator.json](./293134-forklift-simulator.json) |
 | Forklift Simulator | 326425 | [326425-forklift-simulator.json](./326425-forklift-simulator.json) |
