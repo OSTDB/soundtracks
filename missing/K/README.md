@@ -1836,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Braveland: Fun And Memes | 284505 | [284505-knights-of-braveland-fun-and-memes.json](./284505-knights-of-braveland-fun-and-memes.json) |
 | Knights of Braveland: Hero Pack | 284506 | [284506-knights-of-braveland-hero-pack.json](./284506-knights-of-braveland-hero-pack.json) |
 | Knights of Decayden | 209529 | [209529-knights-of-decayden.json](./209529-knights-of-decayden.json) |
+| Knights of Fate | 201575 | [201575-knights-of-fate.json](./201575-knights-of-fate.json) |
 | Knights of Grumthorr | 149444 | [149444-knights-of-grumthorr.json](./149444-knights-of-grumthorr.json) |
 | Knights of Legend | 47224 | [47224-knights-of-legend.json](./47224-knights-of-legend.json) |
 | Knights of Light | 96489 | [96489-knights-of-light.json](./96489-knights-of-light.json) |
@@ -1854,6 +1855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of the Desert | 23912 | [23912-knights-of-the-desert.json](./23912-knights-of-the-desert.json) |
 | Knights of the Desert: The North African Campaign of 1941-1943 | 73828 | [73828-knights-of-the-desert-the-north-african-campaign-of-1941-1943.json](./73828-knights-of-the-desert-the-north-african-campaign-of-1941-1943.json) |
 | Knights of the Drowned Table | 75114 | [75114-knights-of-the-drowned-table.json](./75114-knights-of-the-drowned-table.json) |
+| Knights of the Exploding Table | 201576 | [201576-knights-of-the-exploding-table.json](./201576-knights-of-the-exploding-table.json) |
 | Knights of the Fall | 236213 | [236213-knights-of-the-fall.json](./236213-knights-of-the-fall.json) |
 | Knights of the Flexbox Table | 213965 | [213965-knights-of-the-flexbox-table.json](./213965-knights-of-the-flexbox-table.json) |
 | Knights of the Holy Loop | 183957 | [183957-knights-of-the-holy-loop.json](./183957-knights-of-the-holy-loop.json) |
