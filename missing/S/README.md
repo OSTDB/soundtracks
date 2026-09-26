@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safeguard | 383034 | [383034-safeguard.json](./383034-safeguard.json) |
 | Safehouse | 232934 | [232934-safehouse.json](./232934-safehouse.json) |
 | Safelight | 302926 | [302926-safelight.json](./302926-safelight.json) |
+| Safety | 212775 | [212775-safety.json](./212775-safety.json) |
 | Safety Corp. VR | 329094 | [329094-safety-corp-vr.json](./329094-safety-corp-vr.json) |
 | Safety Driving - The Motorbike Simulation | 54351 | [54351-safety-driving-the-motorbike-simulation.json](./54351-safety-driving-the-motorbike-simulation.json) |
 | Safety Driving Simulator: Car | 33311 | [33311-safety-driving-simulator-car.json](./33311-safety-driving-simulator-car.json) |
