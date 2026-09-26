@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 60 Minute Marathon 2 | 314628 | [314628-60-minute-marathon-2.json](./314628-60-minute-marathon-2.json) |
 | 60 Second Game Challenge | 262068 | [262068-60-second-game-challenge.json](./262068-60-second-game-challenge.json) |
 | 60 Seconds Hero | 174723 | [174723-60-seconds-hero.json](./174723-60-seconds-hero.json) |
+| 60-in-1 Game Collection | 195520 | [195520-60-in-1-game-collection.json](./195520-60-in-1-game-collection.json) |
 | 600 | 249254 | [249254-600.json](./249254-600.json) |
 | 6000-nin no Sensei-tachi ga Tsukutta Tanoshii Shougakkou Tanken 2 | 45576 | [45576-6000-nin-no-sensei-tachi-ga-tsukutta-tanoshii-shougakkou-tanken-2.json](./45576-6000-nin-no-sensei-tachi-ga-tsukutta-tanoshii-shougakkou-tanken-2.json) |
 | 6180 The Moon | 11435 | [11435-6180-the-moon.json](./11435-6180-the-moon.json) |
@@ -1090,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit Farm | 56729 | [56729-8-bit-farm.json](./56729-8-bit-farm.json) |
 | 8-Bit Hordes | 21414 | [21414-8-bit-hordes.json](./21414-8-bit-hordes.json) |
 | 8-Bit Rebellion! | 255180 | [255180-8-bit-rebellion.json](./255180-8-bit-rebellion.json) |
+| 8-Bit Rhythm Land | 195498 | [195498-8-bit-rhythm-land.json](./195498-8-bit-rhythm-land.json) |
 | 8-Bit Slasher 4-in-1 Horror Demakes | 237312 | [237312-8-bit-slasher-4-in-1-horror-demakes.json](./237312-8-bit-slasher-4-in-1-horror-demakes.json) |
 | 8-Bit Slasher 4-in-1 Horror Demakes | 255083 | [255083-8-bit-slasher-4-in-1-horror-demakes.json](./255083-8-bit-slasher-4-in-1-horror-demakes.json) |
 | 8-in-1 Games | 247011 | [247011-8-in-1-games.json](./247011-8-in-1-games.json) |
