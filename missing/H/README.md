@@ -2202,6 +2202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her Pound of Flesh | 139386 | [139386-her-pound-of-flesh.json](./139386-her-pound-of-flesh.json) |
 | Her Shoes | 301822 | [301822-her-shoes.json](./301822-her-shoes.json) |
 | Her Trees: The Puzzle House | 285920 | [285920-her-trees-the-puzzle-house.json](./285920-her-trees-the-puzzle-house.json) |
+| Her World | 218401 | [218401-her-world.json](./218401-her-world.json) |
 | Her3 : The Light of Paradise Regained | 393461 | [393461-her3-the-light-of-paradise-regained.json](./393461-her3-the-light-of-paradise-regained.json) |
 | Heracles - Battle of the Gods | 54098 | [54098-heracles-battle-of-the-gods.json](./54098-heracles-battle-of-the-gods.json) |
 | Heracles no Eikou II: Titan no Metsubou | 48619 | [48619-heracles-no-eikou-ii-titan-no-metsubou.json](./48619-heracles-no-eikou-ii-titan-no-metsubou.json) |
@@ -2804,6 +2805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Mystery of Mysteries of the Aztecs | 242570 | [242570-hidden-object-mystery-of-mysteries-of-the-aztecs.json](./242570-hidden-object-mystery-of-mysteries-of-the-aztecs.json) |
 | Hidden Object: Mystery of Notre Dame de Paris | 256218 | [256218-hidden-object-mystery-of-notre-dame-de-paris.json](./256218-hidden-object-mystery-of-notre-dame-de-paris.json) |
 | Hidden Object: Mystery of the Haunted Mansion | 82161 | [82161-hidden-object-mystery-of-the-haunted-mansion.json](./82161-hidden-object-mystery-of-the-haunted-mansion.json) |
+| Hidden Object: Mystery Place | 218413 | [218413-hidden-object-mystery-place.json](./218413-hidden-object-mystery-place.json) |
 | Hidden Object: Princess Cinderella | 98389 | [98389-hidden-object-princess-cinderella.json](./98389-hidden-object-princess-cinderella.json) |
 | Hidden Object: The Birds from Aviary | 98395 | [98395-hidden-object-the-birds-from-aviary.json](./98395-hidden-object-the-birds-from-aviary.json) |
 | Hidden Object: Travel to Future - Ancient Portals | 261529 | [261529-hidden-object-travel-to-future-ancient-portals.json](./261529-hidden-object-travel-to-future-ancient-portals.json) |
@@ -3133,6 +3135,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hime's Blossom | 249473 | [249473-himes-blossom.json](./249473-himes-blossom.json) |
 | Himehibi: New Princess Days Zoku! Nigakki | 218483 | [218483-himehibi-new-princess-days-zoku-nigakki.json](./218483-himehibi-new-princess-days-zoku-nigakki.json) |
 | Himehibi: New Princess Days Zoku! Nigakki Portable | 218485 | [218485-himehibi-new-princess-days-zoku-nigakki-portable.json](./218485-himehibi-new-princess-days-zoku-nigakki-portable.json) |
+| Himehibi: Princess Days | 218382 | [218382-himehibi-princess-days.json](./218382-himehibi-princess-days.json) |
+| Himehibi: Princess Days Portable | 218381 | [218381-himehibi-princess-days-portable.json](./218381-himehibi-princess-days-portable.json) |
 | Himei Dam | 324703 | [324703-himei-dam.json](./324703-himei-dam.json) |
 | Himemiya-san ha Kamaitai | 195095 | [195095-himemiya-san-ha-kamaitai.json](./195095-himemiya-san-ha-kamaitai.json) |
 | Himemiya-san wa Kamaitai: Limited Edition | 205264 | [205264-himemiya-san-wa-kamaitai-limited-edition.json](./205264-himemiya-san-wa-kamaitai-limited-edition.json) |
