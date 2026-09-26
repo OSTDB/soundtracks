@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M_rdle | 372094 | [372094-m-rdle.json](./372094-m-rdle.json) |
 | M-1 Abrams Battletank | 45600 | [45600-m-1-abrams-battletank.json](./45600-m-1-abrams-battletank.json) |
 | M-79 Ambush | 123021 | [123021-m-79-ambush.json](./123021-m-79-ambush.json) |
+| M-Tee | 195504 | [195504-m-tee.json](./195504-m-tee.json) |
 | M. I. A. - Missing In Action | 76199 | [76199-m-i-a-missing-in-action.json](./76199-m-i-a-missing-in-action.json) |
 | M. Stain | 356108 | [356108-m-stain.json](./356108-m-stain.json) |
 | M.A.C.H | 44508 | [44508-m-a-c-h.json](./44508-m-a-c-h.json) |
@@ -4232,6 +4233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Scooter Challenge | 209025 | [209025-micro-scooter-challenge.json](./209025-micro-scooter-challenge.json) |
 | Micro Slaughter Community Project | 221847 | [221847-micro-slaughter-community-project.json](./221847-micro-slaughter-community-project.json) |
 | Micro Smash | 220184 | [220184-micro-smash.json](./220184-micro-smash.json) |
+| Micro Stunt Machina | 195485 | [195485-micro-stunt-machina.json](./195485-micro-stunt-machina.json) |
 | Micro Vendor Adventures | 110796 | [110796-micro-vendor-adventures.json](./110796-micro-vendor-adventures.json) |
 | Micro Wars | 314450 | [314450-micro-wars.json](./314450-micro-wars.json) |
 | Micro-Breakout | 320150 | [320150-micro-breakout.json](./320150-micro-breakout.json) |
@@ -4489,6 +4491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midwest Drag Racing | 395190 | [395190-midwest-drag-racing.json](./395190-midwest-drag-racing.json) |
 | Midwinter | 79580 | [79580-midwinter.json](./79580-midwinter.json) |
 | MidZone | 110484 | [110484-midzone.json](./110484-midzone.json) |
+| MiedoW | 195510 | [195510-miedow.json](./195510-miedow.json) |
 | Miffed | 180821 | [180821-miffed.json](./180821-miffed.json) |
 | MiG Alley | 789 | [789-mig-alley.json](./789-mig-alley.json) |
 | MiG-29 Fulcrum | 229931 | [229931-mig-29-fulcrum.json](./229931-mig-29-fulcrum.json) |
@@ -4606,6 +4609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milfy City: Final Edition | 265575 | [265575-milfy-city-final-edition.json](./265575-milfy-city-final-edition.json) |
 | Milgram | 89213 | [89213-milgram.json](./89213-milgram.json) |
 | Milinda Wind - Geheimnis des Zephyros | 92283 | [92283-milinda-wind-geheimnis-des-zephyros.json](./92283-milinda-wind-geheimnis-des-zephyros.json) |
+| MilioNESy | 195511 | [195511-milionesy.json](./195511-milionesy.json) |
 | Milita Aventuro | 218711 | [218711-milita-aventuro.json](./218711-milita-aventuro.json) |
 | MilitAnt | 20877 | [20877-militant.json](./20877-militant.json) |
 | Military Attack | 215612 | [215612-military-attack.json](./215612-military-attack.json) |
@@ -4817,6 +4821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Quest | 196868 | [196868-mine-quest.json](./196868-mine-quest.json) |
 | Mine Seeker | 225731 | [225731-mine-seeker.json](./225731-mine-seeker.json) |
 | Mine Seeker | 89965 | [89965-mine-seeker.json](./89965-mine-seeker.json) |
+| Mine Shaft | 195512 | [195512-mine-shaft.json](./195512-mine-shaft.json) |
 | Mine Shaft | 241965 | [241965-mine-shaft.json](./241965-mine-shaft.json) |
 | Mine Storm II | 41987 | [41987-mine-storm-ii.json](./41987-mine-storm-ii.json) |
 | Mine Survival | 233447 | [233447-mine-survival.json](./233447-mine-survival.json) |
