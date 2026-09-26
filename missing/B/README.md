@@ -3392,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BitColor | 184116 | [184116-bitcolor.json](./184116-bitcolor.json) |
 | Bite at the Museum | 146727 | [146727-bite-at-the-museum.json](./146727-bite-at-the-museum.json) |
 | Bite Me | 128623 | [128623-bite-me.json](./128623-bite-me.json) |
+| Bite Nite | 215023 | [215023-bite-nite.json](./215023-bite-nite.json) |
 | Bite Size Terrors: Eye Candy | 272836 | [272836-bite-size-terrors-eye-candy.json](./272836-bite-size-terrors-eye-candy.json) |
 | Bite the Bullet | 108770 | [108770-bite-the-bullet.json](./108770-bite-the-bullet.json) |
 | Bite the Crown | 345666 | [345666-bite-the-crown.json](./345666-bite-the-crown.json) |
@@ -6634,6 +6635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buildozer Simulator | 321489 | [321489-buildozer-simulator.json](./321489-buildozer-simulator.json) |
 | Buildville | 102745 | [102745-buildville.json](./102745-buildville.json) |
 | Built by Force | 372457 | [372457-built-by-force.json](./372457-built-by-force.json) |
+| Built Different | 215029 | [215029-built-different.json](./215029-built-different.json) |
 | Built for Speed | 242681 | [242681-built-for-speed.json](./242681-built-for-speed.json) |
 | Buissons | 123543 | [123543-buissons.json](./123543-buissons.json) |
 | Buka | 96028 | [96028-buka.json](./96028-buka.json) |
@@ -6829,6 +6831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BunnyFlow | 390514 | [390514-bunnyflow.json](./390514-bunnyflow.json) |
 | BunnyOps | 378417 | [378417-bunnyops.json](./378417-bunnyops.json) |
 | Bunnysitting | 246658 | [246658-bunnysitting.json](./246658-bunnysitting.json) |
+| Buns: Bunny Survivor | 215039 | [215039-buns-bunny-survivor.json](./215039-buns-bunny-survivor.json) |
 | Bunt Girl | 178669 | [178669-bunt-girl.json](./178669-bunt-girl.json) |
 | Buoy Boy | 233768 | [233768-buoy-boy.json](./233768-buoy-boy.json) |
 | Buraigun: Galaxy Storm | 151561 | [151561-buraigun-galaxy-storm.json](./151561-buraigun-galaxy-storm.json) |
