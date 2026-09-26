@@ -3990,6 +3990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Stop Crying | 291230 | [291230-please-stop-crying.json](./291230-please-stop-crying.json) |
 | Please Stop Crying: Terrible Twos | 337110 | [337110-please-stop-crying-terrible-twos.json](./337110-please-stop-crying-terrible-twos.json) |
 | Please Subscribe | 190078 | [190078-please-subscribe.json](./190078-please-subscribe.json) |
+| Please Tell Me I Love You | 177823 | [177823-please-tell-me-i-love-you.json](./177823-please-tell-me-i-love-you.json) |
 | Please, Don't Touch Anything | 9327 | [9327-please-dont-touch-anything.json](./9327-please-dont-touch-anything.json) |
 | Please, Don't Touch Anything: Classic | 151565 | [151565-please-dont-touch-anything-classic.json](./151565-please-dont-touch-anything-classic.json) |
 | Please!! I want to Beg the Voluptuous Koume-chan into Consent! | 82824 | [82824-please-i-want-to-beg-the-voluptuous-koume-chan-into-consent.json](./82824-please-i-want-to-beg-the-voluptuous-koume-chan-into-consent.json) |
@@ -4791,6 +4792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolyBoost | 172681 | [172681-polyboost.json](./172681-polyboost.json) |
 | Polybot-7 | 97849 | [97849-polybot-7.json](./97849-polybot-7.json) |
 | Polychoron | 151664 | [151664-polychoron.json](./151664-polychoron.json) |
+| Polychromia | 177867 | [177867-polychromia.json](./177867-polychromia.json) |
 | Polycity | 404978 | [404978-polycity.json](./404978-polycity.json) |
 | Polycore | 369742 | [369742-polycore.json](./369742-polycore.json) |
 | PolyCube | 88232 | [88232-polycube.json](./88232-polycube.json) |
@@ -5334,6 +5336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Instinct | 4476 | [4476-power-instinct.json](./4476-power-instinct.json) |
 | Power Instinct Legends | 39548 | [39548-power-instinct-legends.json](./39548-power-instinct-legends.json) |
 | Power Instinct Matrimelee | 39543 | [39543-power-instinct-matrimelee.json](./39543-power-instinct-matrimelee.json) |
+| Power Level | 177863 | [177863-power-level.json](./177863-power-level.json) |
 | Power Link VR | 31856 | [31856-power-link-vr.json](./31856-power-link-vr.json) |
 | Power Network Tycoon | 258523 | [258523-power-network-tycoon.json](./258523-power-network-tycoon.json) |
 | Power of Logic | 90397 | [90397-power-of-logic.json](./90397-power-of-logic.json) |
@@ -7421,6 +7424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyongyang Racer | 64090 | [64090-pyongyang-racer.json](./64090-pyongyang-racer.json) |
 | Pyoro 64 | 142231 | [142231-pyoro-64.json](./142231-pyoro-64.json) |
 | Pyramania | 379901 | [379901-pyramania.json](./379901-pyramania.json) |
+| PyraMaze | 177850 | [177850-pyramaze.json](./177850-pyramaze.json) |
 | Pyrami Head | 250967 | [250967-pyrami-head.json](./250967-pyrami-head.json) |
 | Pyramid Adventures | 46569 | [46569-pyramid-adventures.json](./46569-pyramid-adventures.json) |
 | Pyramid Adventures: Episode 1 - Treasures of the Lost Pyramid | 66351 | [66351-pyramid-adventures-episode-1-treasures-of-the-lost-pyramid.json](./66351-pyramid-adventures-episode-1-treasures-of-the-lost-pyramid.json) |
