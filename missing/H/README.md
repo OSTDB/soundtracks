@@ -1586,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helicopter Sim Pro Hellfire | 101537 | [101537-helicopter-sim-pro-hellfire.json](./101537-helicopter-sim-pro-hellfire.json) |
 | Helicopter Simulator: Rescue Sim | 288302 | [288302-helicopter-simulator-rescue-sim.json](./288302-helicopter-simulator-rescue-sim.json) |
 | Helicopter Simulator: Search and Rescue 2014 | 53186 | [53186-helicopter-simulator-search-and-rescue-2014.json](./53186-helicopter-simulator-search-and-rescue-2014.json) |
+| Helidroid 2: Helicopter R/C | 197642 | [197642-helidroid-2-helicopter-r-c.json](./197642-helidroid-2-helicopter-r-c.json) |
 | Helidroid 3B PRO : 3D RC Copter | 82113 | [82113-helidroid-3b-pro-3d-rc-copter.json](./82113-helidroid-3b-pro-3d-rc-copter.json) |
 | HeliInvasion 2 | 200043 | [200043-heliinvasion-2.json](./200043-heliinvasion-2.json) |
 | Helion: Void Wars | 18591 | [18591-helion-void-wars.json](./18591-helion-void-wars.json) |
@@ -1884,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help Me! | 154003 | [154003-help-me.json](./154003-help-me.json) |
 | Help Newton | 197228 | [197228-help-newton.json](./197228-help-newton.json) |
 | Help Police: Pull the Pins | 290461 | [290461-help-police-pull-the-pins.json](./290461-help-police-pull-the-pins.json) |
+| Help the Cats to Go Home ! - Use the Cats Food to Help Them ! | 197680 | [197680-help-the-cats-to-go-home-use-the-cats-food-to-help-them.json](./197680-help-the-cats-to-go-home-use-the-cats-food-to-help-them.json) |
 | Help Will Come Tomorrow | 121989 | [121989-help-will-come-tomorrow.json](./121989-help-will-come-tomorrow.json) |
 | Help Yourself | 153993 | [153993-help-yourself.json](./153993-help-yourself.json) |
 | Help, I cast the wrong spell! | 180802 | [180802-help-i-cast-the-wrong-spell.json](./180802-help-i-cast-the-wrong-spell.json) |
@@ -2303,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Legend | 246338 | [246338-hero-legend.json](./246338-hero-legend.json) |
 | Hero Like | 396188 | [396188-hero-like.json](./396188-hero-like.json) |
 | Hero Lodge | 186815 | [186815-hero-lodge.json](./186815-hero-lodge.json) |
+| Hero Mages | 197632 | [197632-hero-mages.json](./197632-hero-mages.json) |
 | Hero Mania | 211714 | [211714-hero-mania.json](./211714-hero-mania.json) |
 | Hero Must Die. Again | 127334 | [127334-hero-must-die-again.json](./127334-hero-must-die-again.json) |
 | Hero of Fate | 250886 | [250886-hero-of-fate.json](./250886-hero-of-fate.json) |
@@ -2837,6 +2840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Missing Violin - Amazing Adventures | 200198 | [200198-hidden-object-missing-violin-amazing-adventures.json](./200198-hidden-object-missing-violin-amazing-adventures.json) |
 | Hidden Object: Missing Violins! - Premium | 213644 | [213644-hidden-object-missing-violins-premium.json](./213644-hidden-object-missing-violins-premium.json) |
 | Hidden Object: My Best Memories | 98394 | [98394-hidden-object-my-best-memories.json](./98394-hidden-object-my-best-memories.json) |
+| Hidden Object: Mystery Mathematics - Mysterious Numbers | 197627 | [197627-hidden-object-mystery-mathematics-mysterious-numbers.json](./197627-hidden-object-mystery-mathematics-mysterious-numbers.json) |
 | Hidden Object: Mystery of Mysteries of the Aztecs | 242570 | [242570-hidden-object-mystery-of-mysteries-of-the-aztecs.json](./242570-hidden-object-mystery-of-mysteries-of-the-aztecs.json) |
 | Hidden Object: Mystery of Notre Dame de Paris | 256218 | [256218-hidden-object-mystery-of-notre-dame-de-paris.json](./256218-hidden-object-mystery-of-notre-dame-de-paris.json) |
 | Hidden Object: Mystery of the Haunted Mansion | 82161 | [82161-hidden-object-mystery-of-the-haunted-mansion.json](./82161-hidden-object-mystery-of-the-haunted-mansion.json) |
