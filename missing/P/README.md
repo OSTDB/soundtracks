@@ -2141,6 +2141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ph0b0s | 207521 | [207521-ph0b0s.json](./207521-ph0b0s.json) |
 | Phá Kén: Khúc Điêu Linh | 318783 | [318783-pha-ken-khuc-ieu-linh.json](./318783-pha-ken-khuc-ieu-linh.json) |
 | Phantaruk | 20788 | [20788-phantaruk.json](./20788-phantaruk.json) |
+| Phantasia | 192152 | [192152-phantasia.json](./192152-phantasia.json) |
 | Phantasie Memorial Set | 279038 | [279038-phantasie-memorial-set.json](./279038-phantasie-memorial-set.json) |
 | Phantasm | 308357 | [308357-phantasm.json](./308357-phantasm.json) |
 | Phantasma | 90642 | [90642-phantasma.json](./90642-phantasma.json) |
@@ -3357,9 +3358,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Ultimate: 2016 Jigsaw Collection | 53461 | [53461-pixel-puzzles-ultimate-2016-jigsaw-collection.json](./53461-pixel-puzzles-ultimate-2016-jigsaw-collection.json) |
 | Pixel Puzzles Ultimate: Animals | 226860 | [226860-pixel-puzzles-ultimate-animals.json](./226860-pixel-puzzles-ultimate-animals.json) |
 | Pixel Puzzles Ultimate: Bioframe | 357884 | [357884-pixel-puzzles-ultimate-bioframe.json](./357884-pixel-puzzles-ultimate-bioframe.json) |
+| Pixel Puzzles Ultimate: Canary Islands | 192145 | [192145-pixel-puzzles-ultimate-canary-islands.json](./192145-pixel-puzzles-ultimate-canary-islands.json) |
 | Pixel Puzzles Ultimate: Cheregi | 226861 | [226861-pixel-puzzles-ultimate-cheregi.json](./226861-pixel-puzzles-ultimate-cheregi.json) |
+| Pixel Puzzles Ultimate: Cheregi 2 | 192143 | [192143-pixel-puzzles-ultimate-cheregi-2.json](./192143-pixel-puzzles-ultimate-cheregi-2.json) |
 | Pixel Puzzles Ultimate: Colorful 2 | 357885 | [357885-pixel-puzzles-ultimate-colorful-2.json](./357885-pixel-puzzles-ultimate-colorful-2.json) |
+| Pixel Puzzles Ultimate: Deutschland | 192146 | [192146-pixel-puzzles-ultimate-deutschland.json](./192146-pixel-puzzles-ultimate-deutschland.json) |
 | Pixel Puzzles Ultimate: Dino Park | 357886 | [357886-pixel-puzzles-ultimate-dino-park.json](./357886-pixel-puzzles-ultimate-dino-park.json) |
+| Pixel Puzzles Ultimate: Halloween 3 | 192142 | [192142-pixel-puzzles-ultimate-halloween-3.json](./192142-pixel-puzzles-ultimate-halloween-3.json) |
+| Pixel Puzzles Ultimate: Halloween 4 | 192148 | [192148-pixel-puzzles-ultimate-halloween-4.json](./192148-pixel-puzzles-ultimate-halloween-4.json) |
 | Pixel Puzzles Ultimate: Light Trail | 357887 | [357887-pixel-puzzles-ultimate-light-trail.json](./357887-pixel-puzzles-ultimate-light-trail.json) |
 | Pixel Puzzles Ultimate: Puzzle Pack 2000 AD | 163416 | [163416-pixel-puzzles-ultimate-puzzle-pack-2000-ad.json](./163416-pixel-puzzles-ultimate-puzzle-pack-2000-ad.json) |
 | Pixel Puzzles Ultimate: Sunflowers | 148510 | [148510-pixel-puzzles-ultimate-sunflowers.json](./148510-pixel-puzzles-ultimate-sunflowers.json) |
@@ -3367,6 +3373,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Ultimate: Variety Pack 24 | 357889 | [357889-pixel-puzzles-ultimate-variety-pack-24.json](./357889-pixel-puzzles-ultimate-variety-pack-24.json) |
 | Pixel Puzzles Ultimate: Variety Pack 25 | 357890 | [357890-pixel-puzzles-ultimate-variety-pack-25.json](./357890-pixel-puzzles-ultimate-variety-pack-25.json) |
 | Pixel Puzzles Ultimate: Variety Pack 26 | 357891 | [357891-pixel-puzzles-ultimate-variety-pack-26.json](./357891-pixel-puzzles-ultimate-variety-pack-26.json) |
+| Pixel Puzzles Ultimate: Variety Pack 3XL | 192147 | [192147-pixel-puzzles-ultimate-variety-pack-3xl.json](./192147-pixel-puzzles-ultimate-variety-pack-3xl.json) |
+| Pixel Puzzles Ultimate: Variety Pack 5XS | 192144 | [192144-pixel-puzzles-ultimate-variety-pack-5xs.json](./192144-pixel-puzzles-ultimate-variety-pack-5xs.json) |
 | Pixel Puzzles Winter Jigsaws | 389415 | [389415-pixel-puzzles-winter-jigsaws.json](./389415-pixel-puzzles-winter-jigsaws.json) |
 | Pixel Puzzles World War II Jigsaws | 263779 | [263779-pixel-puzzles-world-war-ii-jigsaws.json](./263779-pixel-puzzles-world-war-ii-jigsaws.json) |
 | Pixel Puzzles World War II Jigsaws Pack: Invasion of Poland | 265245 | [265245-pixel-puzzles-world-war-ii-jigsaws-pack-invasion-of-poland.json](./265245-pixel-puzzles-world-war-ii-jigsaws-pack-invasion-of-poland.json) |
@@ -3378,6 +3386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Dark Sided | 162940 | [162940-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dark-sided.json](./162940-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dark-sided.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Distant Worlds | 163410 | [163410-pixel-puzzles-illustrations-and-anime-jigsaw-pack-distant-worlds.json](./163410-pixel-puzzles-illustrations-and-anime-jigsaw-pack-distant-worlds.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Dragons | 162935 | [162935-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dragons.json](./162935-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dragons.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Dragons 2 | 192166 | [192166-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dragons-2.json](./192166-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dragons-2.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Fairies | 163407 | [163407-pixel-puzzles-illustrations-and-anime-jigsaw-pack-fairies.json](./163407-pixel-puzzles-illustrations-and-anime-jigsaw-pack-fairies.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Geishas | 357947 | [357947-pixel-puzzles-illustrations-and-anime-jigsaw-pack-geishas.json](./357947-pixel-puzzles-illustrations-and-anime-jigsaw-pack-geishas.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Gun Girls | 162934 | [162934-pixel-puzzles-illustrations-and-anime-jigsaw-pack-gun-girls.json](./162934-pixel-puzzles-illustrations-and-anime-jigsaw-pack-gun-girls.json) |
@@ -6843,6 +6852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Club: Fights | 174764 | [174764-punch-club-fights.json](./174764-punch-club-fights.json) |
 | Punch Club: The Dark Fist | 18097 | [18097-punch-club-the-dark-fist.json](./18097-punch-club-the-dark-fist.json) |
 | Punch Hero | 38999 | [38999-punch-hero.json](./38999-punch-hero.json) |
+| Punch It Deluxe | 192158 | [192158-punch-it-deluxe.json](./192158-punch-it-deluxe.json) |
 | Punch Kick Club | 338283 | [338283-punch-kick-club.json](./338283-punch-kick-club.json) |
 | Punch Kick Duck | 231911 | [231911-punch-kick-duck.json](./231911-punch-kick-duck.json) |
 | Punch Line: Cheermancy Edition | 105109 | [105109-punch-line-cheermancy-edition.json](./105109-punch-line-cheermancy-edition.json) |
