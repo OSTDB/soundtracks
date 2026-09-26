@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fading Existence | 179029 | [179029-fading-existence.json](./179029-fading-existence.json) |
 | Fading Haven | 402260 | [402260-fading-haven.json](./402260-fading-haven.json) |
 | Fading Hearts | 16778 | [16778-fading-hearts.json](./16778-fading-hearts.json) |
+| Fading Light: Antiworld | 223425 | [223425-fading-light-antiworld.json](./223425-fading-light-antiworld.json) |
 | Fading Shadows | 42880 | [42880-fading-shadows.json](./42880-fading-shadows.json) |
 | Fading Skies | 291768 | [291768-fading-skies.json](./291768-fading-skies.json) |
 | Fading Visage | 101622 | [101622-fading-visage.json](./101622-fading-visage.json) |
@@ -1182,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fastival | 302123 | [302123-fastival.json](./302123-fastival.json) |
 | Fastlane Bowling | 152932 | [152932-fastlane-bowling.json](./152932-fastlane-bowling.json) |
 | FastLane Street Racer | 262466 | [262466-fastlane-street-racer.json](./262466-fastlane-street-racer.json) |
+| Fastraq | 223416 | [223416-fastraq.json](./223416-fastraq.json) |
 | Fat 2 Fit! | 152289 | [152289-fat-2-fit.json](./152289-fat-2-fit.json) |
 | Fat Albert | 320981 | [320981-fat-albert.json](./320981-fat-albert.json) |
 | Fat Chicken | 17891 | [17891-fat-chicken.json](./17891-fat-chicken.json) |
@@ -4144,6 +4146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Street Smart | 64398 | [64398-fortune-street-smart.json](./64398-fortune-street-smart.json) |
 | Fortune Teller Simulator | 388385 | [388385-fortune-teller-simulator.json](./388385-fortune-teller-simulator.json) |
 | Fortune Telling | 121042 | [121042-fortune-telling.json](./121042-fortune-telling.json) |
+| Fortune the Fated | 223415 | [223415-fortune-the-fated.json](./223415-fortune-the-fated.json) |
 | Fortune x World: Bokura ga Game wo Tsukuru Riyuu | 382467 | [382467-fortune-x-world-bokura-ga-game-wo-tsukuru-riyuu.json](./382467-fortune-x-world-bokura-ga-game-wo-tsukuru-riyuu.json) |
 | Fortune: Hoshi no Furi Sosogu Oka | 344480 | [344480-fortune-hoshi-no-furi-sosogu-oka.json](./344480-fortune-hoshi-no-furi-sosogu-oka.json) |
 | Fortune's Favor | 347323 | [347323-fortunes-favor.json](./347323-fortunes-favor.json) |
