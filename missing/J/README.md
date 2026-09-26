@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jason Maxx | 349316 | [349316-jason-maxx.json](./349316-jason-maxx.json) |
 | Jasper and the City of Lights | 211237 | [211237-jasper-and-the-city-of-lights.json](./211237-jasper-and-the-city-of-lights.json) |
 | Jasper! | 92971 | [92971-jasper.json](./92971-jasper.json) |
+| Jasper's Dream | 220044 | [220044-jaspers-dream.json](./220044-jaspers-dream.json) |
 | Jasper's Island | 274978 | [274978-jaspers-island.json](./274978-jaspers-island.json) |
 | Jaunt | 154382 | [154382-jaunt.json](./154382-jaunt.json) |
 | Java Jim in Square Shaped Trouble | 37069 | [37069-java-jim-in-square-shaped-trouble.json](./37069-java-jim-in-square-shaped-trouble.json) |
@@ -375,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeepney Frenzy | 176468 | [176468-jeepney-frenzy.json](./176468-jeepney-frenzy.json) |
 | Jeepney Simulator | 255994 | [255994-jeepney-simulator.json](./255994-jeepney-simulator.json) |
 | Jeepney Simulator 2 | 292301 | [292301-jeepney-simulator-2.json](./292301-jeepney-simulator-2.json) |
+| Jeeps Offroad Simulator | 220045 | [220045-jeeps-offroad-simulator.json](./220045-jeeps-offroad-simulator.json) |
 | Jeff Gordon XS Racing | 49888 | [49888-jeff-gordon-xs-racing.json](./49888-jeff-gordon-xs-racing.json) |
 | Jeff the Janitor | 337491 | [337491-jeff-the-janitor.json](./337491-jeff-the-janitor.json) |
 | Jeff the Killer | 376137 | [376137-jeff-the-killer.json](./376137-jeff-the-killer.json) |
