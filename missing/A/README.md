@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Heart Of Iron | 397692 | [397692-a-heart-of-iron.json](./397692-a-heart-of-iron.json) |
 | A Hero and a Garden | 137072 | [137072-a-hero-and-a-garden.json](./137072-a-hero-and-a-garden.json) |
 | A Heroine Story | 249856 | [249856-a-heroine-story.json](./249856-a-heroine-story.json) |
+| A Hideo Kojima Game | 178947 | [178947-a-hideo-kojima-game.json](./178947-a-hideo-kojima-game.json) |
 | A Holiday Yarn | 183952 | [183952-a-holiday-yarn.json](./183952-a-holiday-yarn.json) |
 | A Hollow Doorway | 94785 | [94785-a-hollow-doorway.json](./94785-a-hollow-doorway.json) |
 | A Home Far Away | 124617 | [124617-a-home-far-away.json](./124617-a-home-far-away.json) |
@@ -288,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night Before the Deadline | 145625 | [145625-a-night-before-the-deadline.json](./145625-a-night-before-the-deadline.json) |
 | A Night Out. | 334702 | [334702-a-night-out.json](./334702-a-night-out.json) |
 | A Night Train to the Forest Zone | 138054 | [138054-a-night-train-to-the-forest-zone.json](./138054-a-night-train-to-the-forest-zone.json) |
+| A Night Was Had on the Town | 178944 | [178944-a-night-was-had-on-the-town.json](./178944-a-night-was-had-on-the-town.json) |
 | A Night With Angel | 266280 | [266280-a-night-with-angel.json](./266280-a-night-with-angel.json) |
 | A night with Natalie VR | 111376 | [111376-a-night-with-natalie-vr.json](./111376-a-night-with-natalie-vr.json) |
 | A Night With: Succubus | 331291 | [331291-a-night-with-succubus.json](./331291-a-night-with-succubus.json) |
@@ -4645,6 +4647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Legends: Sega Genesis Volume 2 | 202802 | [202802-arcade-legends-sega-genesis-volume-2.json](./202802-arcade-legends-sega-genesis-volume-2.json) |
 | Arcade Legends: Sega Genesis Volume 3 - Super Sonic Gold | 202261 | [202261-arcade-legends-sega-genesis-volume-3-super-sonic-gold.json](./202261-arcade-legends-sega-genesis-volume-3-super-sonic-gold.json) |
 | Arcade Machine: Clown Hunt | 232991 | [232991-arcade-machine-clown-hunt.json](./232991-arcade-machine-clown-hunt.json) |
+| Arcade Maniac | 178965 | [178965-arcade-maniac.json](./178965-arcade-maniac.json) |
 | Arcade Master | 202866 | [202866-arcade-master.json](./202866-arcade-master.json) |
 | Arcade Master | 206139 | [206139-arcade-master.json](./206139-arcade-master.json) |
 | Arcade Master Deluxe | 202867 | [202867-arcade-master-deluxe.json](./202867-arcade-master-deluxe.json) |
@@ -5833,6 +5836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroad | 149089 | [149089-asteroad.json](./149089-asteroad.json) |
 | Asteroid | 80931 | [80931-asteroid.json](./80931-asteroid.json) |
 | Asteroid Arena | 190060 | [190060-asteroid-arena.json](./190060-asteroid-arena.json) |
+| Asteroid Blaster | 178960 | [178960-asteroid-blaster.json](./178960-asteroid-blaster.json) |
 | Asteroid Blaster | 217824 | [217824-asteroid-blaster.json](./217824-asteroid-blaster.json) |
 | Asteroid Blockade | 359444 | [359444-asteroid-blockade.json](./359444-asteroid-blockade.json) |
 | Asteroid Breaker: Avoid the DizAsteroid | 105955 | [105955-asteroid-breaker-avoid-the-dizasteroid.json](./105955-asteroid-breaker-avoid-the-dizasteroid.json) |
@@ -5855,6 +5859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Smash | 73515 | [73515-asteroid-smash.json](./73515-asteroid-smash.json) |
 | Asteroid Wars | 116328 | [116328-asteroid-wars.json](./116328-asteroid-wars.json) |
 | AsteroIdle | 211410 | [211410-asteroidle.json](./211410-asteroidle.json) |
+| Asteroids | 178966 | [178966-asteroids.json](./178966-asteroids.json) |
 | Asteroids | 187250 | [187250-asteroids.json](./187250-asteroids.json) |
 | Asteroids | 232695 | [232695-asteroids.json](./232695-asteroids.json) |
 | Asteroids | 319567 | [319567-asteroids.json](./319567-asteroids.json) |
@@ -5862,13 +5867,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids | 80932 | [80932-asteroids.json](./80932-asteroids.json) |
 | Asteroids | 89564 | [89564-asteroids.json](./89564-asteroids.json) |
 | Asteroids & Super Breakout | 78656 | [78656-asteroids-and-super-breakout.json](./78656-asteroids-and-super-breakout.json) |
+| Asteroids Bangers | 178980 | [178980-asteroids-bangers.json](./178980-asteroids-bangers.json) |
 | Asteroids Deluxe | 13689 | [13689-asteroids-deluxe.json](./13689-asteroids-deluxe.json) |
 | Asteroids Hyper 64 | 10664 | [10664-asteroids-hyper-64.json](./10664-asteroids-hyper-64.json) |
 | Asteroids Maneuvers | 149946 | [149946-asteroids-maneuvers.json](./149946-asteroids-maneuvers.json) |
 | Asteroids Millennium | 51716 | [51716-asteroids-millennium.json](./51716-asteroids-millennium.json) |
+| Asteroids RX | 178987 | [178987-asteroids-rx.json](./178987-asteroids-rx.json) |
 | Asteroids Space Shooter | 178631 | [178631-asteroids-space-shooter.json](./178631-asteroids-space-shooter.json) |
 | Asteroids, Inc. | 175839 | [175839-asteroids-inc.json](./175839-asteroids-inc.json) |
 | Asteroids: Gunner | 64402 | [64402-asteroids-gunner.json](./64402-asteroids-gunner.json) |
+| Asteroids++ | 178978 | [178978-asteroids.json](./178978-asteroids.json) |
 | AsteroidsHD | 18174 | [18174-asteroidshd.json](./18174-asteroidshd.json) |
 | Asteros | 304681 | [304681-asteros.json](./304681-asteros.json) |
 | Asthenia | 381637 | [381637-asthenia.json](./381637-asthenia.json) |
@@ -6003,6 +6011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroball | 338170 | [338170-astroball.json](./338170-astroball.json) |
 | Astrobarian | 366849 | [366849-astrobarian.json](./366849-astrobarian.json) |
 | Astrobatics | 270640 | [270640-astrobatics.json](./270640-astrobatics.json) |
+| Astrobattle | 178967 | [178967-astrobattle.json](./178967-astrobattle.json) |
 | AstroBlast | 78371 | [78371-astroblast.json](./78371-astroblast.json) |
 | Astroblaster | 207777 | [207777-astroblaster.json](./207777-astroblaster.json) |
 | Astroblaze | 300770 | [300770-astroblaze.json](./300770-astroblaze.json) |
@@ -6052,6 +6061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrophidia | 409682 | [409682-astrophidia.json](./409682-astrophidia.json) |
 | Astropods: Starside Glaze | 316076 | [316076-astropods-starside-glaze.json](./316076-astropods-starside-glaze.json) |
 | AstroRunner | 272858 | [272858-astrorunner.json](./272858-astrorunner.json) |
+| AstroSurfer | 178985 | [178985-astrosurfer.json](./178985-astrosurfer.json) |
 | Astroswarm | 276701 | [276701-astroswarm.json](./276701-astroswarm.json) |
 | Astrosweeper Mini | 205105 | [205105-astrosweeper-mini.json](./205105-astrosweeper-mini.json) |
 | Astrotester | 258016 | [258016-astrotester.json](./258016-astrotester.json) |
