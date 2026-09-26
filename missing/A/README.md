@@ -1959,6 +1959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Al's Home | 94570 | [94570-als-home.json](./94570-als-home.json) |
 | Ala | 336731 | [336731-ala.json](./336731-ala.json) |
 | Ala Mobile | 372093 | [372093-ala-mobile.json](./372093-ala-mobile.json) |
+| Ala Mobile GP | 175736 | [175736-ala-mobile-gp.json](./175736-ala-mobile-gp.json) |
 | Alaa: Mogus Must Die | 283885 | [283885-alaa-mogus-must-die.json](./283885-alaa-mogus-must-die.json) |
 | Alabama Smith: Escape from Pompeii | 176893 | [176893-alabama-smith-escape-from-pompeii.json](./176893-alabama-smith-escape-from-pompeii.json) |
 | Alabaster | 60017 | [60017-alabaster.json](./60017-alabaster.json) |
@@ -5251,6 +5252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arms Race: TCWE - Industrialization | 172191 | [172191-arms-race-tcwe-industrialization.json](./172191-arms-race-tcwe-industrialization.json) |
 | Arms Race: TCWE - Politics | 170914 | [170914-arms-race-tcwe-politics.json](./170914-arms-race-tcwe-politics.json) |
 | Arms Trade Tycoon: Tanks | 190232 | [190232-arms-trade-tycoon-tanks.json](./190232-arms-trade-tycoon-tanks.json) |
+| Army Antz | 175721 | [175721-army-antz.json](./175721-army-antz.json) |
 | Army Defence | 256519 | [256519-army-defence.json](./256519-army-defence.json) |
 | Army Defender | 66994 | [66994-army-defender.json](./66994-army-defender.json) |
 | Army Driver | 204087 | [204087-army-driver.json](./204087-army-driver.json) |
