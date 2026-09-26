@@ -3200,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Warriors | 283901 | [283901-ancient-warriors.json](./283901-ancient-warriors.json) |
 | Ancient Wars: Medieval Crusades | 211401 | [211401-ancient-wars-medieval-crusades.json](./211401-ancient-wars-medieval-crusades.json) |
 | Ancient Wind Spread | 270784 | [270784-ancient-wind-spread.json](./270784-ancient-wind-spread.json) |
+| Ancient Witch Arena | 215659 | [215659-ancient-witch-arena.json](./215659-ancient-witch-arena.json) |
 | Ancient Wonders: Gardens of Babylon | 273656 | [273656-ancient-wonders-gardens-of-babylon.json](./273656-ancient-wonders-gardens-of-babylon.json) |
 | Ancient Wonders: Pharaoh's Tomb | 253313 | [253313-ancient-wonders-pharaohs-tomb.json](./253313-ancient-wonders-pharaohs-tomb.json) |
 | Ancients II: Approaching Evil | 12392 | [12392-ancients-ii-approaching-evil.json](./12392-ancients-ii-approaching-evil.json) |
