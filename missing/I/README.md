@@ -931,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iLudo | 90359 | [90359-iludo.json](./90359-iludo.json) |
 | Ilysia | 123575 | [123575-ilysia.json](./123575-ilysia.json) |
 | Im Bann Der Dunklen Jagd | 324674 | [324674-im-bann-der-dunklen-jagd.json](./324674-im-bann-der-dunklen-jagd.json) |
+| IMA Miner | 199373 | [199373-ima-miner.json](./199373-ima-miner.json) |
 | Ima Sugu Onii-chan ni Imouto da tte Iitai! | 62444 | [62444-ima-sugu-onii-chan-ni-imouto-da-tte-iitai.json](./62444-ima-sugu-onii-chan-ni-imouto-da-tte-iitai.json) |
 | Ima Survivor | 305950 | [305950-ima-survivor.json](./305950-ima-survivor.json) |
 | Ima wo Ikinobite | 208611 | [208611-ima-wo-ikinobite.json](./208611-ima-wo-ikinobite.json) |
@@ -1827,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insaniquarium! | 334696 | [334696-insaniquarium.json](./334696-insaniquarium.json) |
 | Insanity | 94703 | [94703-insanity.json](./94703-insanity.json) |
 | Insanity Clicker | 34706 | [34706-insanity-clicker.json](./34706-insanity-clicker.json) |
+| Insanity Ice | 199380 | [199380-insanity-ice.json](./199380-insanity-ice.json) |
 | Insanity Within | 341653 | [341653-insanity-within.json](./341653-insanity-within.json) |
 | Insanity X | 105400 | [105400-insanity-x.json](./105400-insanity-x.json) |
 | Insanity's Edge | 274186 | [274186-insanitys-edge.json](./274186-insanitys-edge.json) |
