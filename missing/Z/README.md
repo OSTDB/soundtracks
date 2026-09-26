@@ -599,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Drift | 149521 | [149521-zombie-drift.json](./149521-zombie-drift.json) |
 | Zombie Driver: Ultimate Edition | 20229 | [20229-zombie-driver-ultimate-edition.json](./20229-zombie-driver-ultimate-edition.json) |
 | Zombie Dungeon | 158051 | [158051-zombie-dungeon.json](./158051-zombie-dungeon.json) |
+| Zombie Dungeon Breaker | 205011 | [205011-zombie-dungeon-breaker.json](./205011-zombie-dungeon-breaker.json) |
 | Zombie Escape | 377131 | [377131-zombie-escape.json](./377131-zombie-escape.json) |
 | Zombie Escape: The Driving Dead | 213589 | [213589-zombie-escape-the-driving-dead.json](./213589-zombie-escape-the-driving-dead.json) |
 | Zombie Estate | 66378 | [66378-zombie-estate.json](./66378-zombie-estate.json) |
