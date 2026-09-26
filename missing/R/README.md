@@ -5031,6 +5031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runner | 172059 | [172059-runner.json](./172059-runner.json) |
 | Runner | 84538 | [84538-runner.json](./84538-runner.json) |
 | Runner Bear | 307074 | [307074-runner-bear.json](./307074-runner-bear.json) |
+| Runner Coaster | 220055 | [220055-runner-coaster.json](./220055-runner-coaster.json) |
 | Runner Roy | 250396 | [250396-runner-roy.json](./250396-runner-roy.json) |
 | Runner's High | 266281 | [266281-runners-high.json](./266281-runners-high.json) |
 | Runner2: Good Friends Character Pack | 226929 | [226929-runner2-good-friends-character-pack.json](./226929-runner2-good-friends-character-pack.json) |
