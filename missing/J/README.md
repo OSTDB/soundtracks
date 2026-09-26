@@ -462,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jessie 'Boom' James | 148344 | [148344-jessie-boom-james.json](./148344-jessie-boom-james.json) |
 | Jessie Jaeger in Cleopatra's Curse | 142392 | [142392-jessie-jaeger-in-cleopatras-curse.json](./142392-jessie-jaeger-in-cleopatras-curse.json) |
 | Jester / King | 166745 | [166745-jester-king.json](./166745-jester-king.json) |
+| Jester Street: Card Counting Trainer | 186029 | [186029-jester-street-card-counting-trainer.json](./186029-jester-street-card-counting-trainer.json) |
 | Jester's Helper | 363047 | [363047-jesters-helper.json](./363047-jesters-helper.json) |
 | Jester's Quest | 221163 | [221163-jesters-quest.json](./221163-jesters-quest.json) |
 | Jesucristo: El Robot del Futuro | 302125 | [302125-jesucristo-el-robot-del-futuro.json](./302125-jesucristo-el-robot-del-futuro.json) |
