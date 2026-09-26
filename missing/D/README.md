@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dasshutsu Girls | 220308 | [220308-dasshutsu-girls.json](./220308-dasshutsu-girls.json) |
 | Dasshutsu Seijin!? Deru Deru Deru de | 222383 | [222383-dasshutsu-seijin-deru-deru-deru-de.json](./222383-dasshutsu-seijin-deru-deru-deru-de.json) |
 | Dasshutsu Youki no Jukai: Nehan no Mori | 138749 | [138749-dasshutsu-youki-no-jukai-nehan-no-mori.json](./138749-dasshutsu-youki-no-jukai-nehan-no-mori.json) |
+| Dat Boi 2048 | 202702 | [202702-dat-boi-2048.json](./202702-dat-boi-2048.json) |
 | Data | 114781 | [114781-data.json](./114781-data.json) |
 | Data Ball | 104031 | [104031-data-ball.json](./104031-data-ball.json) |
 | Data Defense | 104655 | [104655-data-defense.json](./104655-data-defense.json) |
