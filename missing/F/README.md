@@ -1549,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Festival Journey: Highland Dreams - Collector's Edition | 386869 | [386869-festival-journey-highland-dreams-collectors-edition.json](./386869-festival-journey-highland-dreams-collectors-edition.json) |
 | Festival Journey: Venetian Masquerade - Collector's Edition | 350490 | [350490-festival-journey-venetian-masquerade-collectors-edition.json](./350490-festival-journey-venetian-masquerade-collectors-edition.json) |
 | Festival of the Spirit | 183541 | [183541-festival-of-the-spirit.json](./183541-festival-of-the-spirit.json) |
+| Festival Tycoon: Water for All! | 226701 | [226701-festival-tycoon-water-for-all.json](./226701-festival-tycoon-water-for-all.json) |
 | Fetch | 381016 | [381016-fetch.json](./381016-fetch.json) |
 | Fetch Quest | 140552 | [140552-fetch-quest.json](./140552-fetch-quest.json) |
 | Fetch Quest | 179617 | [179617-fetch-quest.json](./179617-fetch-quest.json) |
@@ -4538,6 +4539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Bridge | 115034 | [115034-freedom-bridge.json](./115034-freedom-bridge.json) |
 | Freedom Cry | 34653 | [34653-freedom-cry.json](./34653-freedom-cry.json) |
 | Freedom Fall | 16829 | [16829-freedom-fall.json](./16829-freedom-fall.json) |
+| Freedom Farming: The American Way | 226723 | [226723-freedom-farming-the-american-way.json](./226723-freedom-farming-the-american-way.json) |
 | Freedom Fighter | 202852 | [202852-freedom-fighter.json](./202852-freedom-fighter.json) |
 | Freedom Fighter | 77299 | [77299-freedom-fighter.json](./77299-freedom-fighter.json) |
 | Freedom Fighters | 719 | [719-freedom-fighters.json](./719-freedom-fighters.json) |
