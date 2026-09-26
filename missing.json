@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T03:03:08.709Z",
-  "total_missing": 123826,
+  "generated_at": "2026-09-26T03:18:23.854Z",
+  "total_missing": 123876,
   "games": [
     {
       "igdb_id": 176875,
@@ -496,6 +496,11 @@
       "igdb_id": 237063,
       "game_name": "1 Trait Escape",
       "file": "missing/0-9/237063-1-trait-escape.json"
+    },
+    {
+      "igdb_id": 220070,
+      "game_name": "1 vs. 100",
+      "file": "missing/0-9/220070-1-vs-100.json"
     },
     {
       "igdb_id": 395191,
@@ -10151,6 +10156,11 @@
       "igdb_id": 117537,
       "game_name": "Active Soccer 2019",
       "file": "missing/A/117537-active-soccer-2019.json"
+    },
+    {
+      "igdb_id": 220071,
+      "game_name": "Activision",
+      "file": "missing/A/220071-activision.json"
     },
     {
       "igdb_id": 301430,
@@ -29543,6 +29553,11 @@
       "file": "missing/A/179054-are-you-ok.json"
     },
     {
+      "igdb_id": 220072,
+      "game_name": "Are You Smarter Than A 5th Grader?",
+      "file": "missing/A/220072-are-you-smarter-than-a-5th-grader.json"
+    },
+    {
       "igdb_id": 197940,
       "game_name": "Are You Smarter Than a 5th Grader? Game Time",
       "file": "missing/A/197940-are-you-smarter-than-a-5th-grader-game-time.json"
@@ -35393,6 +35408,16 @@
       "file": "missing/A/113459-ataque-marino.json"
     },
     {
+      "igdb_id": 220069,
+      "game_name": "Atari",
+      "file": "missing/A/220069-atari.json"
+    },
+    {
+      "igdb_id": 220073,
+      "game_name": "Atari",
+      "file": "missing/A/220073-atari.json"
+    },
+    {
       "igdb_id": 250338,
       "game_name": "Atari 4 Player Football",
       "file": "missing/A/250338-atari-4-player-football.json"
@@ -38041,6 +38066,11 @@
       "igdb_id": 210487,
       "game_name": "Avatar: The Last Airbender",
       "file": "missing/A/210487-avatar-the-last-airbender.json"
+    },
+    {
+      "igdb_id": 220068,
+      "game_name": "Avatar: The Last Airbender - Book 1 Challenges",
+      "file": "missing/A/220068-avatar-the-last-airbender-book-1-challenges.json"
     },
     {
       "igdb_id": 406777,
@@ -42216,6 +42246,11 @@
       "igdb_id": 262897,
       "game_name": "Ball O",
       "file": "missing/B/262897-ball-o.json"
+    },
+    {
+      "igdb_id": 220051,
+      "game_name": "Ball of Adventure",
+      "file": "missing/B/220051-ball-of-adventure.json"
     },
     {
       "igdb_id": 334752,
@@ -51363,6 +51398,11 @@
       "file": "missing/B/102591-bejeweled-classic-hd.json"
     },
     {
+      "igdb_id": 220074,
+      "game_name": "Bejeweled Deluxe",
+      "file": "missing/B/220074-bejeweled-deluxe.json"
+    },
+    {
       "igdb_id": 27819,
       "game_name": "Bejeweled Deluxe",
       "file": "missing/B/27819-bejeweled-deluxe.json"
@@ -53698,6 +53738,11 @@
       "file": "missing/B/226810-big-buck-hunter-arcade-elk-adventure-pack.json"
     },
     {
+      "igdb_id": 220075,
+      "game_name": "Big Buck Hunter Pro",
+      "file": "missing/B/220075-big-buck-hunter-pro.json"
+    },
+    {
       "igdb_id": 328254,
       "game_name": "Big Buck Hunter Pro Adventure",
       "file": "missing/B/328254-big-buck-hunter-pro-adventure.json"
@@ -53706,6 +53751,11 @@
       "igdb_id": 333752,
       "game_name": "Big Buck Hunter: Ultimate Trophy - Mythic Hunting Pack",
       "file": "missing/B/333752-big-buck-hunter-ultimate-trophy-mythic-hunting-pack.json"
+    },
+    {
+      "igdb_id": 220076,
+      "game_name": "Big Buck Safari",
+      "file": "missing/B/220076-big-buck-safari.json"
     },
     {
       "igdb_id": 312355,
@@ -62211,6 +62261,11 @@
       "igdb_id": 39653,
       "game_name": "Blue's Journey",
       "file": "missing/B/39653-blues-journey.json"
+    },
+    {
+      "igdb_id": 220077,
+      "game_name": "Blue's Room: Coloring With Blue",
+      "file": "missing/B/220077-blues-room-coloring-with-blue.json"
     },
     {
       "igdb_id": 312890,
@@ -75798,6 +75853,11 @@
       "file": "missing/C/257406-cage-fight.json"
     },
     {
+      "igdb_id": 220054,
+      "game_name": "Cage Fight 3D",
+      "file": "missing/C/220054-cage-fight-3d.json"
+    },
+    {
       "igdb_id": 193432,
       "game_name": "Cage-Face: Case 2 - The Sewer",
       "file": "missing/C/193432-cage-face-case-2-the-sewer.json"
@@ -77183,6 +77243,11 @@
       "file": "missing/C/167290-can-you-escape-modern-office.json"
     },
     {
+      "igdb_id": 220050,
+      "game_name": "Can you escape Switzerland",
+      "file": "missing/C/220050-can-you-escape-switzerland.json"
+    },
+    {
       "igdb_id": 106550,
       "game_name": "Can You Escape- Jail Break",
       "file": "missing/C/106550-can-you-escape-jail-break.json"
@@ -77921,6 +77986,11 @@
       "igdb_id": 383966,
       "game_name": "Caparace",
       "file": "missing/C/383966-caparace.json"
+    },
+    {
+      "igdb_id": 220079,
+      "game_name": "Capcom",
+      "file": "missing/C/220079-capcom.json"
     },
     {
       "igdb_id": 204386,
@@ -80521,6 +80591,11 @@
       "igdb_id": 210274,
       "game_name": "Cars 2",
       "file": "missing/C/210274-cars-2.json"
+    },
+    {
+      "igdb_id": 220080,
+      "game_name": "Cars 2",
+      "file": "missing/C/220080-cars-2.json"
     },
     {
       "igdb_id": 230555,
@@ -123813,6 +123888,11 @@
       "file": "missing/D/302434-deafblind.json"
     },
     {
+      "igdb_id": 220081,
+      "game_name": "Deal or No Deal",
+      "file": "missing/D/220081-deal-or-no-deal.json"
+    },
+    {
       "igdb_id": 233990,
       "game_name": "Deal or No Deal",
       "file": "missing/D/233990-deal-or-no-deal.json"
@@ -135248,6 +135328,11 @@
       "file": "missing/D/180694-dismaya.json"
     },
     {
+      "igdb_id": 220082,
+      "game_name": "Disney",
+      "file": "missing/D/220082-disney.json"
+    },
+    {
       "igdb_id": 275590,
       "game_name": "Disney 100",
       "file": "missing/D/275590-disney-100.json"
@@ -135368,6 +135453,11 @@
       "file": "missing/D/50099-disney-fairies-tinker-bells-adventure.json"
     },
     {
+      "igdb_id": 220083,
+      "game_name": "Disney Friends",
+      "file": "missing/D/220083-disney-friends.json"
+    },
+    {
       "igdb_id": 231855,
       "game_name": "Disney Hot Shots: Disney's Tarzan Jungle Tumble",
       "file": "missing/D/231855-disney-hot-shots-disneys-tarzan-jungle-tumble.json"
@@ -135436,6 +135526,11 @@
       "igdb_id": 220130,
       "game_name": "Disney Piglet's Special Day",
       "file": "missing/D/220130-disney-piglets-special-day.json"
+    },
+    {
+      "igdb_id": 220084,
+      "game_name": "Disney Princess",
+      "file": "missing/D/220084-disney-princess.json"
     },
     {
       "igdb_id": 230556,
@@ -141478,6 +141573,11 @@
       "file": "missing/D/47964-doras-cooking-club.json"
     },
     {
+      "igdb_id": 220085,
+      "game_name": "Dora's World Adventure!",
+      "file": "missing/D/220085-doras-world-adventure.json"
+    },
+    {
       "igdb_id": 91771,
       "game_name": "Dorabase: Dramatic Stadium",
       "file": "missing/D/91771-dorabase-dramatic-stadium.json"
@@ -143701,6 +143801,11 @@
       "igdb_id": 116372,
       "game_name": "Dragon Ball Xenoverse 2: Lite Version",
       "file": "missing/D/116372-dragon-ball-xenoverse-2-lite-version.json"
+    },
+    {
+      "igdb_id": 220086,
+      "game_name": "Dragon Ball Z",
+      "file": "missing/D/220086-dragon-ball-z.json"
     },
     {
       "igdb_id": 242098,
@@ -147056,6 +147161,11 @@
       "igdb_id": 130311,
       "game_name": "Dreamworks 2-in-1 Party Pack",
       "file": "missing/D/130311-dreamworks-2-in-1-party-pack.json"
+    },
+    {
+      "igdb_id": 220087,
+      "game_name": "Dreamworks Animation",
+      "file": "missing/D/220087-dreamworks-animation.json"
     },
     {
       "igdb_id": 221674,
@@ -153143,6 +153253,11 @@
       "file": "missing/E/209176-ea-replay-2.json"
     },
     {
+      "igdb_id": 220088,
+      "game_name": "EA Sports",
+      "file": "missing/E/220088-ea-sports.json"
+    },
+    {
       "igdb_id": 172021,
       "game_name": "EA Sports College Football 25",
       "file": "missing/E/172021-ea-sports-college-football-25.json"
@@ -155556,6 +155671,11 @@
       "igdb_id": 351704,
       "game_name": "Eerie Worlds",
       "file": "missing/E/351704-eerie-worlds.json"
+    },
+    {
+      "igdb_id": 220058,
+      "game_name": "Eerskraft",
+      "file": "missing/E/220058-eerskraft.json"
     },
     {
       "igdb_id": 233769,
@@ -172833,6 +172953,11 @@
       "file": "missing/F/136849-fantastic-four.json"
     },
     {
+      "igdb_id": 220090,
+      "game_name": "Fantastic Four",
+      "file": "missing/F/220090-fantastic-four.json"
+    },
+    {
       "igdb_id": 197930,
       "game_name": "Fantastic Four: Rise of the Silver Surfer",
       "file": "missing/F/197930-fantastic-four-rise-of-the-silver-surfer.json"
@@ -187203,6 +187328,11 @@
       "file": "missing/F/346756-football.json"
     },
     {
+      "igdb_id": 220064,
+      "game_name": "Football 2019",
+      "file": "missing/F/220064-football-2019.json"
+    },
+    {
       "igdb_id": 124015,
       "game_name": "Football Academy",
       "file": "missing/F/124015-football-academy.json"
@@ -187511,6 +187641,11 @@
       "igdb_id": 240870,
       "game_name": "Football Showdown 2",
       "file": "missing/F/240870-football-showdown-2.json"
+    },
+    {
+      "igdb_id": 220060,
+      "game_name": "Football Simulation Shoot Game",
+      "file": "missing/F/220060-football-simulation-shoot-game.json"
     },
     {
       "igdb_id": 260152,
@@ -246238,6 +246373,11 @@
       "file": "missing/I/268985-i-think-im-in-love-with-a-demon-prince.json"
     },
     {
+      "igdb_id": 220041,
+      "game_name": "I told you",
+      "file": "missing/I/220041-i-told-you.json"
+    },
+    {
       "igdb_id": 179058,
       "game_name": "I Too Can Grow",
       "file": "missing/I/179058-i-too-can-grow.json"
@@ -246276,6 +246416,11 @@
       "igdb_id": 115451,
       "game_name": "I Wanna Fly",
       "file": "missing/I/115451-i-wanna-fly.json"
+    },
+    {
+      "igdb_id": 220043,
+      "game_name": "I Wanna Go Home",
+      "file": "missing/I/220043-i-wanna-go-home.json"
     },
     {
       "igdb_id": 210657,
@@ -256183,6 +256328,11 @@
       "file": "missing/I/7020-inversion.json"
     },
     {
+      "igdb_id": 220038,
+      "game_name": "Inversion Institute",
+      "file": "missing/I/220038-inversion-institute.json"
+    },
+    {
       "igdb_id": 19608,
       "game_name": "Inversus",
       "file": "missing/I/19608-inversus.json"
@@ -257213,6 +257363,11 @@
       "file": "missing/I/301946-is-it-ok-to-pick-up-anomalies-at-a-university.json"
     },
     {
+      "igdb_id": 220040,
+      "game_name": "Is It Wrong to Repay the Debt in a Dungeon?",
+      "file": "missing/I/220040-is-it-wrong-to-repay-the-debt-in-a-dungeon.json"
+    },
+    {
       "igdb_id": 287107,
       "game_name": "Is It Wrong to Try to Pick Up Girls in a Dungeon?: Battle Chronicle",
       "file": "missing/I/287107-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-battle-chronicle.json"
@@ -257371,6 +257526,11 @@
       "igdb_id": 388726,
       "game_name": "Isekai HKV",
       "file": "missing/I/388726-isekai-hkv.json"
+    },
+    {
+      "igdb_id": 220039,
+      "game_name": "Isekai Janken Hero",
+      "file": "missing/I/220039-isekai-janken-hero.json"
     },
     {
       "igdb_id": 345689,
@@ -260833,6 +260993,11 @@
       "file": "missing/J/92971-jasper.json"
     },
     {
+      "igdb_id": 220044,
+      "game_name": "Jasper's Dream",
+      "file": "missing/J/220044-jaspers-dream.json"
+    },
+    {
       "igdb_id": 274978,
       "game_name": "Jasper's Island",
       "file": "missing/J/274978-jaspers-island.json"
@@ -261066,6 +261231,11 @@
       "igdb_id": 292301,
       "game_name": "Jeepney Simulator 2",
       "file": "missing/J/292301-jeepney-simulator-2.json"
+    },
+    {
+      "igdb_id": 220045,
+      "game_name": "Jeeps Offroad Simulator",
+      "file": "missing/J/220045-jeeps-offroad-simulator.json"
     },
     {
       "igdb_id": 49888,
@@ -284816,6 +284986,11 @@
       "igdb_id": 107153,
       "game_name": "Legend of Solgard",
       "file": "missing/L/107153-legend-of-solgard.json"
+    },
+    {
+      "igdb_id": 220065,
+      "game_name": "Legend of Soul Cube",
+      "file": "missing/L/220065-legend-of-soul-cube.json"
     },
     {
       "igdb_id": 214033,
@@ -379093,6 +379268,11 @@
       "file": "missing/P/62980-perfect-kick.json"
     },
     {
+      "igdb_id": 220046,
+      "game_name": "Perfect Kick 2: Online Soccer game",
+      "file": "missing/P/220046-perfect-kick-2-online-soccer-game.json"
+    },
+    {
       "igdb_id": 265587,
       "game_name": "Perfect Landing",
       "file": "missing/P/265587-perfect-landing.json"
@@ -385906,6 +386086,11 @@
       "igdb_id": 265778,
       "game_name": "Pixel Dash",
       "file": "missing/P/265778-pixel-dash.json"
+    },
+    {
+      "igdb_id": 220066,
+      "game_name": "Pixel Demolish",
+      "file": "missing/P/220066-pixel-demolish.json"
     },
     {
       "igdb_id": 264587,
@@ -433983,6 +434168,11 @@
       "file": "missing/R/307074-runner-bear.json"
     },
     {
+      "igdb_id": 220055,
+      "game_name": "Runner Coaster",
+      "file": "missing/R/220055-runner-coaster.json"
+    },
+    {
       "igdb_id": 250396,
       "game_name": "Runner Roy",
       "file": "missing/R/250396-runner-roy.json"
@@ -446868,6 +447058,11 @@
       "file": "missing/S/49933-sesame-street-elmos-abcs.json"
     },
     {
+      "igdb_id": 220089,
+      "game_name": "Sesame Street: Elmo's World",
+      "file": "missing/S/220089-sesame-street-elmos-world.json"
+    },
+    {
       "igdb_id": 25175,
       "game_name": "Sesame Street: Letter-Go-Round",
       "file": "missing/S/25175-sesame-street-letter-go-round.json"
@@ -453281,6 +453476,11 @@
       "igdb_id": 227495,
       "game_name": "Shoot Coin Yen: Exchange Puzzle",
       "file": "missing/S/227495-shoot-coin-yen-exchange-puzzle.json"
+    },
+    {
+      "igdb_id": 220059,
+      "game_name": "Shoot Defense 3D",
+      "file": "missing/S/220059-shoot-defense-3d.json"
     },
     {
       "igdb_id": 335902,
@@ -462038,6 +462238,11 @@
       "file": "missing/S/102192-slime-kingdom.json"
     },
     {
+      "igdb_id": 220056,
+      "game_name": "Slime Land Adventures",
+      "file": "missing/S/220056-slime-land-adventures.json"
+    },
+    {
       "igdb_id": 242238,
       "game_name": "Slime Legion",
       "file": "missing/S/242238-slime-legion.json"
@@ -467783,6 +467988,11 @@
       "file": "missing/S/43883-soldiers-of-the-universe.json"
     },
     {
+      "igdb_id": 220048,
+      "game_name": "Soldiers of Vietnam: American",
+      "file": "missing/S/220048-soldiers-of-vietnam-american.json"
+    },
+    {
       "igdb_id": 26937,
       "game_name": "Söldner-X 2: Final Prototype",
       "file": "missing/S/26937-soldner-x-2-final-prototype.json"
@@ -468056,6 +468266,11 @@
       "igdb_id": 146916,
       "game_name": "Solitaire Dozen Gold",
       "file": "missing/S/146916-solitaire-dozen-gold.json"
+    },
+    {
+      "igdb_id": 220047,
+      "game_name": "Solitaire Fish Klondike",
+      "file": "missing/S/220047-solitaire-fish-klondike.json"
     },
     {
       "igdb_id": 321601,
@@ -499013,6 +499228,11 @@
       "file": "missing/S/313112-super-mario-craft.json"
     },
     {
+      "igdb_id": 220042,
+      "game_name": "Super Mario Death Row 2: Shroomshank Redemption",
+      "file": "missing/S/220042-super-mario-death-row-2-shroomshank-redemption.json"
+    },
+    {
       "igdb_id": 210709,
       "game_name": "Super Mario DX",
       "file": "missing/S/210709-super-mario-dx.json"
@@ -503271,6 +503491,11 @@
       "igdb_id": 185693,
       "game_name": "Surge Breaker",
       "file": "missing/S/185693-surge-breaker.json"
+    },
+    {
+      "igdb_id": 220057,
+      "game_name": "Surge Concerto DX",
+      "file": "missing/S/220057-surge-concerto-dx.json"
     },
     {
       "igdb_id": 139996,
@@ -513841,6 +514066,11 @@
       "igdb_id": 70412,
       "game_name": "Team Batista no Eikou Shinjitsu wo Tsumugu 4 tsu no Chart",
       "file": "missing/T/70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json"
+    },
+    {
+      "igdb_id": 220053,
+      "game_name": "Team Conquest",
+      "file": "missing/T/220053-team-conquest.json"
     },
     {
       "igdb_id": 329654,
@@ -563073,6 +563303,11 @@
       "file": "missing/T/355228-train-plus-kowa-dentetsu-regular-colors-train.json"
     },
     {
+      "igdb_id": 220049,
+      "game_name": "Train Rush",
+      "file": "missing/T/220049-train-rush.json"
+    },
+    {
       "igdb_id": 105877,
       "game_name": "Train Sim World",
       "file": "missing/T/105877-train-sim-world.json"
@@ -576316,6 +576551,11 @@
       "igdb_id": 227787,
       "game_name": "Undead Quest",
       "file": "missing/U/227787-undead-quest.json"
+    },
+    {
+      "igdb_id": 220062,
+      "game_name": "Undead Raid",
+      "file": "missing/U/220062-undead-raid.json"
     },
     {
       "igdb_id": 327836,
@@ -599323,6 +599563,11 @@
       "file": "missing/W/304746-wild-tactics.json"
     },
     {
+      "igdb_id": 220061,
+      "game_name": "Wild Tamer: Next Age",
+      "file": "missing/W/220061-wild-tamer-next-age.json"
+    },
+    {
       "igdb_id": 126619,
       "game_name": "Wild Terra 2: New Lands",
       "file": "missing/W/126619-wild-terra-2-new-lands.json"
@@ -613651,6 +613896,11 @@
       "igdb_id": 201847,
       "game_name": "Yume Fumi",
       "file": "missing/Y/201847-yume-fumi.json"
+    },
+    {
+      "igdb_id": 220078,
+      "game_name": "Yume Gatari",
+      "file": "missing/Y/220078-yume-gatari.json"
     },
     {
       "igdb_id": 145036,
