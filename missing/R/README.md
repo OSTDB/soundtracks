@@ -2623,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Returning Nightmares | 202363 | [202363-returning-nightmares.json](./202363-returning-nightmares.json) |
 | Returning the favor of the dog | 169358 | [169358-returning-the-favor-of-the-dog.json](./169358-returning-the-favor-of-the-dog.json) |
 | Returning to Mia | 226726 | [226726-returning-to-mia.json](./226726-returning-to-mia.json) |
+| Retwined | 178945 | [178945-retwined.json](./178945-retwined.json) |
 | Reunion | 12471 | [12471-reunion.json](./12471-reunion.json) |
 | Reunion | 135873 | [135873-reunion.json](./135873-reunion.json) |
 | Reunion | 281565 | [281565-reunion.json](./281565-reunion.json) |
@@ -4440,6 +4441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RON Quiz Part 1 | 71239 | [71239-ron-quiz-part-1.json](./71239-ron-quiz-part-1.json) |
 | Ron-Q! Highland in DS | 123403 | [123403-ron-q-highland-in-ds.json](./123403-ron-q-highland-in-ds.json) |
 | Ronald McDonalds | 255715 | [255715-ronald-mcdonalds.json](./255715-ronald-mcdonalds.json) |
+| Ronald Regan Teaches Typing | 178961 | [178961-ronald-regan-teaches-typing.json](./178961-ronald-regan-teaches-typing.json) |
 | Ronald Rubberduck | 47205 | [47205-ronald-rubberduck.json](./47205-ronald-rubberduck.json) |
 | Ronald's Revenge | 398437 | [398437-ronalds-revenge.json](./398437-ronalds-revenge.json) |
 | Ronald's Run | 151003 | [151003-ronalds-run.json](./151003-ronalds-run.json) |
@@ -4494,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Box | 195701 | [195701-room-box.json](./195701-room-box.json) |
 | Room by Room | 410932 | [410932-room-by-room.json](./410932-room-by-room.json) |
 | Room Cleaning 2 | 272939 | [272939-room-cleaning-2.json](./272939-room-cleaning-2.json) |
+| Room Cleaning Simulator 2014 | 178937 | [178937-room-cleaning-simulator-2014.json](./178937-room-cleaning-simulator-2014.json) |
 | Room Containing Candle x4 | 142502 | [142502-room-containing-candle-x4.json](./142502-room-containing-candle-x4.json) |
 | Room Escape '1053' | 127376 | [127376-room-escape-1053.json](./127376-room-escape-1053.json) |
 | Room Escape in Voxels | 200440 | [200440-room-escape-in-voxels.json](./200440-room-escape-in-voxels.json) |
