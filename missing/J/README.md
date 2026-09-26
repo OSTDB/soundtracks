@@ -617,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JFK Reloaded | 71814 | [71814-jfk-reloaded.json](./71814-jfk-reloaded.json) |
 | Ji Tan Nohua | 121648 | [121648-ji-tan-nohua.json](./121648-ji-tan-nohua.json) |
 | Jí Xiàn Zhēn Tàn | 368143 | [368143-ji-xian-zhen-tan.json](./368143-ji-xian-zhen-tan.json) |
+| Jia Ran er Zhi De Yin Fu | 188415 | [188415-jia-ran-er-zhi-de-yin-fu.json](./188415-jia-ran-er-zhi-de-yin-fu.json) |
 | Jian Po | 119700 | [119700-jian-po.json](./119700-jian-po.json) |
 | Jian Wang 3: Heavy Plate | 76953 | [76953-jian-wang-3-heavy-plate.json](./76953-jian-wang-3-heavy-plate.json) |
 | Jiàndào Xiānyǔ | 147387 | [147387-jiandao-xianyu.json](./147387-jiandao-xianyu.json) |
