@@ -492,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen London: The Stag and the Shark | 191718 | [191718-fallen-london-the-stag-and-the-shark.json](./191718-fallen-london-the-stag-and-the-shark.json) |
 | Fallen London: The Tempest | 191789 | [191789-fallen-london-the-tempest.json](./191789-fallen-london-the-tempest.json) |
 | Fallen London: The Thing That Came in from the Fog | 191784 | [191784-fallen-london-the-thing-that-came-in-from-the-fog.json](./191784-fallen-london-the-thing-that-came-in-from-the-fog.json) |
+| Fallen London: Totentanz | 196007 | [196007-fallen-london-totentanz.json](./196007-fallen-london-totentanz.json) |
 | Fallen London: Upwards! | 191912 | [191912-fallen-london-upwards.json](./191912-fallen-london-upwards.json) |
 | Fallen London: We Absolutely Meant to Go to Zee | 191788 | [191788-fallen-london-we-absolutely-meant-to-go-to-zee.json](./191788-fallen-london-we-absolutely-meant-to-go-to-zee.json) |
 | Fallen London: Written in the Glim | 191705 | [191705-fallen-london-written-in-the-glim.json](./191705-fallen-london-written-in-the-glim.json) |
