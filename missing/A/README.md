@@ -5220,6 +5220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArrowMongers | 240808 | [240808-arrowmongers.json](./240808-arrowmongers.json) |
 | Arrows Left | 242505 | [242505-arrows-left.json](./242505-arrows-left.json) |
 | Arrowscapades | 401766 | [401766-arrowscapades.json](./401766-arrowscapades.json) |
+| Arruyo | 201561 | [201561-arruyo.json](./201561-arruyo.json) |
 | Ars Mechanica | 382198 | [382198-ars-mechanica.json](./382198-ars-mechanica.json) |
 | Ars Notoria | 214014 | [214014-ars-notoria.json](./214014-ars-notoria.json) |
 | Ars Vox Arcana | 339941 | [339941-ars-vox-arcana.json](./339941-ars-vox-arcana.json) |
