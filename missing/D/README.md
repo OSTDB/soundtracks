@@ -1668,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Angel Nightmare | 235877 | [235877-death-angel-nightmare.json](./235877-death-angel-nightmare.json) |
 | Death Angel Trial | 284334 | [284334-death-angel-trial.json](./284334-death-angel-trial.json) |
 | Death Animal Parade | 260210 | [260210-death-animal-parade.json](./260210-death-animal-parade.json) |
+| Death Architect | 215070 | [215070-death-architect.json](./215070-death-architect.json) |
 | Death at Sycamore Hall | 388250 | [388250-death-at-sycamore-hall.json](./388250-death-at-sycamore-hall.json) |
 | Death Becomes You: Yuri Onsen Vacation | 339370 | [339370-death-becomes-you-yuri-onsen-vacation.json](./339370-death-becomes-you-yuri-onsen-vacation.json) |
 | Death Bowl | 208598 | [208598-death-bowl.json](./208598-death-bowl.json) |
@@ -3868,6 +3869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discworld | 8291 | [8291-discworld.json](./8291-discworld.json) |
 | Discworld II: Mortality Bytes! | 8292 | [8292-discworld-ii-mortality-bytes.json](./8292-discworld-ii-mortality-bytes.json) |
 | Discworld Noir | 8293 | [8293-discworld-noir.json](./8293-discworld-noir.json) |
+| Disdain | 215077 | [215077-disdain.json](./215077-disdain.json) |
 | Disdoored | 102093 | [102093-disdoored.json](./102093-disdoored.json) |
 | Disease Infected: Plague | 187976 | [187976-disease-infected-plague.json](./187976-disease-infected-plague.json) |
 | Disease Z | 245842 | [245842-disease-z.json](./245842-disease-z.json) |
@@ -3982,6 +3984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Two Pack I Big Hero 6: Battle In the Bay & Frozen: Olaf's Quest | 79914 | [79914-disney-two-pack-i-big-hero-6-battle-in-the-bay-and-frozen-olafs-quest.json](./79914-disney-two-pack-i-big-hero-6-battle-in-the-bay-and-frozen-olafs-quest.json) |
 | Disney XD Grand Prix | 361336 | [361336-disney-xd-grand-prix.json](./361336-disney-xd-grand-prix.json) |
 | Disney's 102 Dalmatians: Puppies to the Rescue | 2361 | [2361-disneys-102-dalmatians-puppies-to-the-rescue.json](./2361-disneys-102-dalmatians-puppies-to-the-rescue.json) |
+| Disney's A Bug's Life: Active Play | 215088 | [215088-disneys-a-bugs-life-active-play.json](./215088-disneys-a-bugs-life-active-play.json) |
 | Disney's A Christmas Carol | 21086 | [21086-disneys-a-christmas-carol.json](./21086-disneys-a-christmas-carol.json) |
 | Disney's Activity Center: Winnie the Pooh | 209035 | [209035-disneys-activity-center-winnie-the-pooh.json](./209035-disneys-activity-center-winnie-the-pooh.json) |
 | Disney's Adventures in Typing with Timon & Pumbaa | 167278 | [167278-disneys-adventures-in-typing-with-timon-and-pumbaa.json](./167278-disneys-adventures-in-typing-with-timon-and-pumbaa.json) |
@@ -4161,6 +4164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Business: Fantasy Trading Simulator | 113744 | [113744-divine-business-fantasy-trading-simulator.json](./113744-divine-business-fantasy-trading-simulator.json) |
 | Divine D.I.V.A. | 117684 | [117684-divine-d-i-v-a.json](./117684-divine-d-i-v-a.json) |
 | Divine Doubt | 278707 | [278707-divine-doubt.json](./278707-divine-doubt.json) |
+| Divine Duel | 215026 | [215026-divine-duel.json](./215026-divine-duel.json) |
 | Divine Dynamo Flamefrit | 309095 | [309095-divine-dynamo-flamefrit.json](./309095-divine-dynamo-flamefrit.json) |
 | Divine Gambit | 375314 | [375314-divine-gambit.json](./375314-divine-gambit.json) |
 | Divine Gate Zero | 227486 | [227486-divine-gate-zero.json](./227486-divine-gate-zero.json) |
@@ -4835,6 +4839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Take Me Away | 329074 | [329074-dont-take-me-away.json](./329074-dont-take-me-away.json) |
 | Don't Tap the White Tile | 57324 | [57324-dont-tap-the-white-tile.json](./57324-dont-tap-the-white-tile.json) |
 | Don't Tell My Wife | 396197 | [396197-dont-tell-my-wife.json](./396197-dont-tell-my-wife.json) |
+| Don't Touch Lava | 215038 | [215038-dont-touch-lava.json](./215038-dont-touch-lava.json) |
 | Don't Touch My Phone | 286084 | [286084-dont-touch-my-phone.json](./286084-dont-touch-my-phone.json) |
 | Don't Touch My Teddy Bear | 62772 | [62772-dont-touch-my-teddy-bear.json](./62772-dont-touch-my-teddy-bear.json) |
 | Don't Touch Red!! | 246970 | [246970-dont-touch-red.json](./246970-dont-touch-red.json) |
@@ -4851,6 +4856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't! Heroes | 181932 | [181932-dont-heroes.json](./181932-dont-heroes.json) |
 | Don't! Heroes: Encore! | 181929 | [181929-dont-heroes-encore.json](./181929-dont-heroes-encore.json) |
 | Donald Dowell and the Ghost of Barker Manor | 168386 | [168386-donald-dowell-and-the-ghost-of-barker-manor.json](./168386-donald-dowell-and-the-ghost-of-barker-manor.json) |
+| Donald Duck | 215079 | [215079-donald-duck.json](./215079-donald-duck.json) |
 | Donald Jump | 412966 | [412966-donald-jump.json](./412966-donald-jump.json) |
 | Donald no Magical World GG2SMS | 369596 | [369596-donald-no-magical-world-gg2sms.json](./369596-donald-no-magical-world-gg2sms.json) |
 | Donald Trump's Real Estate Tycoon | 25706 | [25706-donald-trumps-real-estate-tycoon.json](./25706-donald-trumps-real-estate-tycoon.json) |
