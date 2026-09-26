@@ -8203,6 +8203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Scaven | 33156 | [33156-space-scaven.json](./33156-space-scaven.json) |
 | Space Scavengers | 278471 | [278471-space-scavengers.json](./278471-space-scavengers.json) |
 | Space Science Investigations | 215211 | [215211-space-science-investigations.json](./215211-space-science-investigations.json) |
+| Space Scrap Shuffle | 183351 | [183351-space-scrap-shuffle.json](./183351-space-scrap-shuffle.json) |
 | Space Shapes | 126567 | [126567-space-shapes.json](./126567-space-shapes.json) |
 | Space Shark Wrangle Fest | 245843 | [245843-space-shark-wrangle-fest.json](./245843-space-shark-wrangle-fest.json) |
 | Space Shells | 204100 | [204100-space-shells.json](./204100-space-shells.json) |
@@ -8309,6 +8310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space-Orbit | 63238 | [63238-space-orbit.json](./63238-space-orbit.json) |
 | Space-Rat Xplode! | 54385 | [54385-space-rat-xplode.json](./54385-space-rat-xplode.json) |
 | Space/Mech/Pilot | 139924 | [139924-space-mech-pilot.json](./139924-space-mech-pilot.json) |
+| Spacebar | 183334 | [183334-spacebar.json](./183334-spacebar.json) |
 | Spacebar | 344361 | [344361-spacebar.json](./344361-spacebar.json) |
 | Spacebase DF-9 | 5632 | [5632-spacebase-df-9.json](./5632-spacebase-df-9.json) |
 | Spacebeef | 135059 | [135059-spacebeef.json](./135059-spacebeef.json) |
@@ -8542,6 +8544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectator | 216880 | [216880-spectator.json](./216880-spectator.json) |
 | Spectator 2 | 264629 | [264629-spectator-2.json](./264629-spectator-2.json) |
 | Specter Spelunker Resizes | 283736 | [283736-specter-spelunker-resizes.json](./283736-specter-spelunker-resizes.json) |
+| Spectra | 183346 | [183346-spectra.json](./183346-spectra.json) |
 | Spectra: Beneath the Stain | 416637 | [416637-spectra-beneath-the-stain.json](./416637-spectra-beneath-the-stain.json) |
 | Spectraball: Extended Edition | 9069 | [9069-spectraball-extended-edition.json](./9069-spectraball-extended-edition.json) |
 | Spectral | 149411 | [149411-spectral.json](./149411-spectral.json) |
@@ -13677,6 +13680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Thunder Blade | 4471 | [4471-super-thunder-blade.json](./4471-super-thunder-blade.json) |
 | Super Tits Rush | 86752 | [86752-super-tits-rush.json](./86752-super-tits-rush.json) |
 | Super Toboggan 3D | 410883 | [410883-super-toboggan-3d.json](./410883-super-toboggan-3d.json) |
+| Super Tofu Friends | 183337 | [183337-super-tofu-friends.json](./183337-super-tofu-friends.json) |
 | Super Tokusatsu Taisen 2001 | 43905 | [43905-super-tokusatsu-taisen-2001.json](./43905-super-tokusatsu-taisen-2001.json) |
 | Super Tony Land | 81210 | [81210-super-tony-land.json](./81210-super-tony-land.json) |
 | Super Toss the Turtle | 57104 | [57104-super-toss-the-turtle.json](./57104-super-toss-the-turtle.json) |
@@ -14257,6 +14261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swampstar | 201178 | [201178-swampstar.json](./201178-swampstar.json) |
 | Swan Song | 257090 | [257090-swan-song.json](./257090-swan-song.json) |
 | Swan's Song | 342283 | [342283-swans-song.json](./342283-swans-song.json) |
+| Swangman | 183366 | [183366-swangman.json](./183366-swangman.json) |
 | Swap | 219556 | [219556-swap.json](./219556-swap.json) |
 | Swap Blocks | 44217 | [44217-swap-blocks.json](./44217-swap-blocks.json) |
 | Swap Heroes | 197242 | [197242-swap-heroes.json](./197242-swap-heroes.json) |
