@@ -2773,8 +2773,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The BridgeMaster | 169445 | [169445-the-bridgemaster.json](./169445-the-bridgemaster.json) |
 | The Brimstone Project: Odyssey Live | 279715 | [279715-the-brimstone-project-odyssey-live.json](./279715-the-brimstone-project-odyssey-live.json) |
 | The Brittle Epoch | 261751 | [261751-the-brittle-epoch.json](./261751-the-brittle-epoch.json) |
+| The Broken Balance | 216753 | [216753-the-broken-balance.json](./216753-the-broken-balance.json) |
 | The Broken Vow | 322173 | [322173-the-broken-vow.json](./322173-the-broken-vow.json) |
 | The Brotherhood of Ruin | 142277 | [142277-the-brotherhood-of-ruin.json](./142277-the-brotherhood-of-ruin.json) |
+| The Brothers | 216751 | [216751-the-brothers.json](./216751-the-brothers.json) |
 | The Brothers Hotel | 333084 | [333084-the-brothers-hotel.json](./333084-the-brothers-hotel.json) |
 | The Browning Duck Hunter | 119582 | [119582-the-browning-duck-hunter.json](./119582-the-browning-duck-hunter.json) |
 | The Browning Elk Hunter | 142897 | [142897-the-browning-elk-hunter.json](./142897-the-browning-elk-hunter.json) |
@@ -4703,6 +4705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King's Carriage | 184470 | [184470-the-kings-carriage.json](./184470-the-kings-carriage.json) |
 | The King's Castle | 215739 | [215739-the-kings-castle.json](./215739-the-kings-castle.json) |
 | The King's Courier | 335242 | [335242-the-kings-courier.json](./335242-the-kings-courier.json) |
+| The King's Dilemma: Chronicles | 216750 | [216750-the-kings-dilemma-chronicles.json](./216750-the-kings-dilemma-chronicles.json) |
 | The King's Feast | 232930 | [232930-the-kings-feast.json](./232930-the-kings-feast.json) |
 | The King's League | 294419 | [294419-the-kings-league.json](./294419-the-kings-league.json) |
 | The King's League: Emblems | 294421 | [294421-the-kings-league-emblems.json](./294421-the-kings-league-emblems.json) |
