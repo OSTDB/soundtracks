@@ -2713,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Striker | 256235 | [256235-mech-striker.json](./256235-mech-striker.json) |
 | Mech Tech | 238441 | [238441-mech-tech.json](./238441-mech-tech.json) |
 | Mech vs. Bugs | 263784 | [263784-mech-vs-bugs.json](./263784-mech-vs-bugs.json) |
+| Mech Warfare Arena | 174665 | [174665-mech-warfare-arena.json](./174665-mech-warfare-arena.json) |
 | Mech Wars | 317028 | [317028-mech-wars.json](./317028-mech-wars.json) |
 | Mech_Romancer | 134590 | [134590-mech-romancer.json](./134590-mech-romancer.json) |
 | Mech_Romancer Charity Bundle 2 | 205016 | [205016-mech-romancer-charity-bundle-2.json](./205016-mech-romancer-charity-bundle-2.json) |
@@ -8181,6 +8182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero Academia: All's Justice - Playable Character Nana Shimura | 414449 | [414449-my-hero-academia-alls-justice-playable-character-nana-shimura.json](./414449-my-hero-academia-alls-justice-playable-character-nana-shimura.json) |
 | My Hero Academia: All's Justice - The Worldwide Star Card | 414450 | [414450-my-hero-academia-alls-justice-the-worldwide-star-card.json](./414450-my-hero-academia-alls-justice-the-worldwide-star-card.json) |
 | My Hero Academia: All's Justice - Ultimate Edition | 414451 | [414451-my-hero-academia-alls-justice-ultimate-edition.json](./414451-my-hero-academia-alls-justice-ultimate-edition.json) |
+| My Hero Academia: Heart of Heroes | 174672 | [174672-my-hero-academia-heart-of-heroes.json](./174672-my-hero-academia-heart-of-heroes.json) |
 | My Hero Academia: The Strongest Hero | 146301 | [146301-my-hero-academia-the-strongest-hero.json](./146301-my-hero-academia-the-strongest-hero.json) |
 | My Hero and the King | 63265 | [63265-my-hero-and-the-king.json](./63265-my-hero-and-the-king.json) |
 | My Hero One's Justice 2: Cheerleader Costumes Bundle | 259811 | [259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json](./259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json) |
