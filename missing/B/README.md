@@ -1807,6 +1807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattlePets | 300983 | [300983-battlepets.json](./300983-battlepets.json) |
 | Battlepillars: Gold Edition | 36411 | [36411-battlepillars-gold-edition.json](./36411-battlepillars-gold-edition.json) |
 | Battler | 290926 | [290926-battler.json](./290926-battler.json) |
+| Battlerace | 201591 | [201591-battlerace.json](./201591-battlerace.json) |
 | BattleReign | 234546 | [234546-battlereign.json](./234546-battlereign.json) |
 | Battlerite Royale | 107022 | [107022-battlerite-royale.json](./107022-battlerite-royale.json) |
 | Battlerite Royale: All Champions Pack | 168365 | [168365-battlerite-royale-all-champions-pack.json](./168365-battlerite-royale-all-champions-pack.json) |
@@ -3901,6 +3902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Trail | 293100 | [293100-blazing-trail.json](./293100-blazing-trail.json) |
 | Blazing War | 203915 | [203915-blazing-war.json](./203915-blazing-war.json) |
 | Blazted VR | 207778 | [207778-blazted-vr.json](./207778-blazted-vr.json) |
+| Bleach | 201562 | [201562-bleach.json](./201562-bleach.json) |
 | Bleach vs Naruto | 228437 | [228437-bleach-vs-naruto.json](./228437-bleach-vs-naruto.json) |
 | Bleach: Blade Battlers | 72983 | [72983-bleach-blade-battlers.json](./72983-bleach-blade-battlers.json) |
 | Bleach: Erabareshi Tamashi | 43533 | [43533-bleach-erabareshi-tamashi.json](./43533-bleach-erabareshi-tamashi.json) |
@@ -4108,6 +4110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Corsair | 236000 | [236000-block-corsair.json](./236000-block-corsair.json) |
 | Block Craft 3D: City Building | 86995 | [86995-block-craft-3d-city-building.json](./86995-block-craft-3d-city-building.json) |
 | Block Droppin Blitz | 362335 | [362335-block-droppin-blitz.json](./362335-block-droppin-blitz.json) |
+| Block Fight | 201553 | [201553-block-fight.json](./201553-block-fight.json) |
 | Block Force | 247454 | [247454-block-force.json](./247454-block-force.json) |
 | Block Force | 400447 | [400447-block-force.json](./400447-block-force.json) |
 | Block Gal | 38587 | [38587-block-gal.json](./38587-block-gal.json) |
@@ -4747,6 +4750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BobsleighX | 265718 | [265718-bobsleighx.json](./265718-bobsleighx.json) |
 | BobSP Series | 272000 | [272000-bobsp-series.json](./272000-bobsp-series.json) |
 | BOC | 127030 | [127030-boc.json](./127030-boc.json) |
+| Bocce Time! | 201570 | [201570-bocce-time.json](./201570-bocce-time.json) |
 | Bocce VR | 119786 | [119786-bocce-vr.json](./119786-bocce-vr.json) |
 | Bocchi Kaihi | 227260 | [227260-bocchi-kaihi.json](./227260-bocchi-kaihi.json) |
 | Bocchi the Escape | 246879 | [246879-bocchi-the-escape.json](./246879-bocchi-the-escape.json) |
@@ -5774,6 +5778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Battle Saga the Space Fighter | 45542 | [45542-brave-battle-saga-the-space-fighter.json](./45542-brave-battle-saga-the-space-fighter.json) |
 | Brave Blades | 224075 | [224075-brave-blades.json](./224075-brave-blades.json) |
 | Brave Brigade | 39176 | [39176-brave-brigade.json](./39176-brave-brigade.json) |
+| Brave Builder Construct A Climb | 201577 | [201577-brave-builder-construct-a-climb.json](./201577-brave-builder-construct-a-climb.json) |
 | Brave Cano | 174350 | [174350-brave-cano.json](./174350-brave-cano.json) |
 | Brave Doggy Quest | 190156 | [190156-brave-doggy-quest.json](./190156-brave-doggy-quest.json) |
 | Brave Dungeon II | 112766 | [112766-brave-dungeon-ii.json](./112766-brave-dungeon-ii.json) |
