@@ -4645,6 +4645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Isle of the Dead | 118320 | [118320-the-isle-of-the-dead.json](./118320-the-isle-of-the-dead.json) |
 | The Isle Survival | 261507 | [261507-the-isle-survival.json](./261507-the-isle-survival.json) |
 | The Isolated Town | 253594 | [253594-the-isolated-town.json](./253594-the-isolated-town.json) |
+| The Isolation Ward | 177840 | [177840-the-isolation-ward.json](./177840-the-isolation-ward.json) |
 | The Jackbox Naughty Pack | 299591 | [299591-the-jackbox-naughty-pack.json](./299591-the-jackbox-naughty-pack.json) |
 | The Jackbox Party Pack 11 | 338919 | [338919-the-jackbox-party-pack-11.json](./338919-the-jackbox-party-pack-11.json) |
 | The Jackbox Party Pack 3 | 19082 | [19082-the-jackbox-party-pack-3.json](./19082-the-jackbox-party-pack-3.json) |
@@ -5399,6 +5400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Longest Dungeon | 238602 | [238602-the-longest-dungeon.json](./238602-the-longest-dungeon.json) |
 | The Longest Five Minutes | 44078 | [44078-the-longest-five-minutes.json](./44078-the-longest-five-minutes.json) |
 | The Longest Journey Remastered | 27658 | [27658-the-longest-journey-remastered.json](./27658-the-longest-journey-remastered.json) |
+| The Longest Road | 177846 | [177846-the-longest-road.json](./177846-the-longest-road.json) |
 | The Longest Road | 364671 | [364671-the-longest-road.json](./364671-the-longest-road.json) |
 | The Longest Road on Earth: Backstage Edition | 159695 | [159695-the-longest-road-on-earth-backstage-edition.json](./159695-the-longest-road-on-earth-backstage-edition.json) |
 | The Longest Road on Earth: World Tour Bundle | 223446 | [223446-the-longest-road-on-earth-world-tour-bundle.json](./223446-the-longest-road-on-earth-world-tour-bundle.json) |
@@ -6041,6 +6043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outskirts | 412394 | [412394-the-outskirts.json](./412394-the-outskirts.json) |
 | The Overlook Rehaunted | 276762 | [276762-the-overlook-rehaunted.json](./276762-the-overlook-rehaunted.json) |
 | The Overseer | 306445 | [306445-the-overseer.json](./306445-the-overseer.json) |
+| The Overtaken | 177822 | [177822-the-overtaken.json](./177822-the-overtaken.json) |
 | The Owl House: Witch's Apprentice | 297588 | [297588-the-owl-house-witchs-apprentice.json](./297588-the-owl-house-witchs-apprentice.json) |
 | The Owl-Woman Oracle | 177929 | [177929-the-owl-woman-oracle.json](./177929-the-owl-woman-oracle.json) |
 | The Owlman of Mawnan Smith | 61084 | [61084-the-owlman-of-mawnan-smith.json](./61084-the-owlman-of-mawnan-smith.json) |
@@ -8309,6 +8312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is Vegas | 14521 | [14521-this-is-vegas.json](./14521-this-is-vegas.json) |
 | This Is Where I Want To Die | 378205 | [378205-this-is-where-i-want-to-die.json](./378205-this-is-where-i-want-to-die.json) |
 | This is Your Laser | 183455 | [183455-this-is-your-laser.json](./183455-this-is-your-laser.json) |
+| This isn't Moirai | 177849 | [177849-this-isnt-moirai.json](./177849-this-isnt-moirai.json) |
 | This Land Is My Land | 104788 | [104788-this-land-is-my-land.json](./104788-this-land-is-my-land.json) |
 | This Little Piggy | 181391 | [181391-this-little-piggy.json](./181391-this-little-piggy.json) |
 | This Little Piggy | 185521 | [185521-this-little-piggy.json](./185521-this-little-piggy.json) |
@@ -11100,6 +11104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Winter | 240885 | [240885-tower-of-winter.json](./240885-tower-of-winter.json) |
 | Tower Of Wishes 3: Japan | 289933 | [289933-tower-of-wishes-3-japan.json](./289933-tower-of-wishes-3-japan.json) |
 | Tower of Wishes 4: Shaka | 356769 | [356769-tower-of-wishes-4-shaka.json](./356769-tower-of-wishes-4-shaka.json) |
+| Tower Offensive | 177836 | [177836-tower-offensive.json](./177836-tower-offensive.json) |
 | Tower Princess | 115661 | [115661-tower-princess.json](./115661-tower-princess.json) |
 | Tower Skydiver | 226436 | [226436-tower-skydiver.json](./226436-tower-skydiver.json) |
 | Tower Stack | 258031 | [258031-tower-stack.json](./258031-tower-stack.json) |
