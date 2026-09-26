@@ -1224,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mansion 2 | 269863 | [269863-mansion-2.json](./269863-mansion-2.json) |
 | Mansion of Hidden Souls | 5402 | [5402-mansion-of-hidden-souls.json](./5402-mansion-of-hidden-souls.json) |
 | Mansion of the Dead | 337486 | [337486-mansion-of-the-dead.json](./337486-mansion-of-the-dead.json) |
+| Mansion Tour | 225561 | [225561-mansion-tour.json](./225561-mansion-tour.json) |
 | MansionDungeon | 404246 | [404246-mansiondungeon.json](./404246-mansiondungeon.json) |
 | Mantle Crater | 386429 | [386429-mantle-crater.json](./386429-mantle-crater.json) |
 | Mantra | 223438 | [223438-mantra.json](./223438-mantra.json) |
@@ -2113,6 +2114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masterpiece | 351033 | [351033-masterpiece.json](./351033-masterpiece.json) |
 | Masterpiece Mansion | 209553 | [209553-masterpiece-mansion.json](./209553-masterpiece-mansion.json) |
 | MasterQ | 207536 | [207536-masterq.json](./207536-masterq.json) |
+| Masters & Heroes | 225586 | [225586-masters-and-heroes.json](./225586-masters-and-heroes.json) |
 | Masters of Albion | 314272 | [314272-masters-of-albion.json](./314272-masters-of-albion.json) |
 | Masters of Cards | 322585 | [322585-masters-of-cards.json](./322585-masters-of-cards.json) |
 | Masters of Chaos | 268757 | [268757-masters-of-chaos.json](./268757-masters-of-chaos.json) |
@@ -3198,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megami Ibunroku Persona | 240506 | [240506-megami-ibunroku-persona.json](./240506-megami-ibunroku-persona.json) |
 | Megami Ibunroku Persona Digital Collection | 263596 | [263596-megami-ibunroku-persona-digital-collection.json](./263596-megami-ibunroku-persona-digital-collection.json) |
 | Megami Meguri | 222529 | [222529-megami-meguri.json](./222529-megami-meguri.json) |
+| Megami Tensei Gaiden: Last Bible | 225584 | [225584-megami-tensei-gaiden-last-bible.json](./225584-megami-tensei-gaiden-last-bible.json) |
 | Megami Tensei Gaiden: Last Bible Special | 45263 | [45263-megami-tensei-gaiden-last-bible-special.json](./45263-megami-tensei-gaiden-last-bible-special.json) |
 | Megami Tensei Gaiden: Shinyaku Last Bible | 202957 | [202957-megami-tensei-gaiden-shinyaku-last-bible.json](./202957-megami-tensei-gaiden-shinyaku-last-bible.json) |
 | Megami Tensei QIX: Persona 3 | 289392 | [289392-megami-tensei-qix-persona-3.json](./289392-megami-tensei-qix-persona-3.json) |
@@ -5337,6 +5340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Scarlet Stars | 341114 | [341114-mission-scarlet-stars.json](./341114-mission-scarlet-stars.json) |
 | Mission: Space | 264028 | [264028-mission-space.json](./264028-mission-space.json) |
 | MissionForce: CyberStorm | 792 | [792-missionforce-cyberstorm.json](./792-missionforce-cyberstorm.json) |
+| Missland | 225613 | [225613-missland.json](./225613-missland.json) |
 | Missland 2 | 277427 | [277427-missland-2.json](./277427-missland-2.json) |
 | Missman | 295360 | [295360-missman.json](./295360-missman.json) |
 | MissPedaling Simulator | 230949 | [230949-misspedaling-simulator.json](./230949-misspedaling-simulator.json) |
@@ -5578,6 +5582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobiloid | 64104 | [64104-mobiloid.json](./64104-mobiloid.json) |
 | Mobius | 104646 | [104646-mobius.json](./104646-mobius.json) |
 | Mobius Final Fantasy | 21628 | [21628-mobius-final-fantasy.json](./21628-mobius-final-fantasy.json) |
+| Mobius Theory | 225602 | [225602-mobius-theory.json](./225602-mobius-theory.json) |
 | Mobmania | 211807 | [211807-mobmania.json](./211807-mobmania.json) |
 | Mobo Greenhouse Garden | 256903 | [256903-mobo-greenhouse-garden.json](./256903-mobo-greenhouse-garden.json) |
 | Mobo Hide and Seek | 200128 | [200128-mobo-hide-and-seek.json](./200128-mobo-hide-and-seek.json) |
