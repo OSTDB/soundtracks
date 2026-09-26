@@ -2863,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chip Beat Blaster | 232145 | [232145-chip-beat-blaster.json](./232145-chip-beat-blaster.json) |
 | Chip Buster | 13703 | [13703-chip-buster.json](./13703-chip-buster.json) |
 | Chip McCallahan in Sonic the Hedgehog 2 | 323860 | [323860-chip-mccallahan-in-sonic-the-hedgehog-2.json](./323860-chip-mccallahan-in-sonic-the-hedgehog-2.json) |
+| Chip Off the Ol' Stumbling Block | 221108 | [221108-chip-off-the-ol-stumbling-block.json](./221108-chip-off-the-ol-stumbling-block.json) |
 | Chip-Boi | 177954 | [177954-chip-boi.json](./177954-chip-boi.json) |
 | Chip-chan Kick! | 45961 | [45961-chip-chan-kick.json](./45961-chip-chan-kick.json) |
 | Chip's Challenge | 282555 | [282555-chips-challenge.json](./282555-chips-challenge.json) |
@@ -4049,6 +4050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closed Nightmare | 82371 | [82371-closed-nightmare.json](./82371-closed-nightmare.json) |
 | Closed World | 312202 | [312202-closed-world.json](./312202-closed-world.json) |
 | Closer Than You Know | 199654 | [199654-closer-than-you-know.json](./199654-closer-than-you-know.json) |
+| Closer to Home | 221122 | [221122-closer-to-home.json](./221122-closer-to-home.json) |
 | CloserLook VR: Oldways | 325838 | [325838-closerlook-vr-oldways.json](./325838-closerlook-vr-oldways.json) |
 | CloserTo | 396374 | [396374-closerto.json](./396374-closerto.json) |
 | Closing at 2 | 280283 | [280283-closing-at-2.json](./280283-closing-at-2.json) |
@@ -5073,6 +5075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Genealogy Mantra | 294468 | [294468-computer-genealogy-mantra.json](./294468-computer-genealogy-mantra.json) |
 | Computer Othello | 242573 | [242573-computer-othello.json](./242573-computer-othello.json) |
 | Computer Physics Simulator 2020 | 132008 | [132008-computer-physics-simulator-2020.json](./132008-computer-physics-simulator-2020.json) |
+| Computer Physics Simulator 2023 | 221137 | [221137-computer-physics-simulator-2023.json](./221137-computer-physics-simulator-2023.json) |
 | Computer Quarterback | 25128 | [25128-computer-quarterback.json](./25128-computer-quarterback.json) |
 | Computer Repair Shop | 256284 | [256284-computer-repair-shop.json](./256284-computer-repair-shop.json) |
 | Computer Space | 11245 | [11245-computer-space.json](./11245-computer-space.json) |
@@ -7254,6 +7257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Confines | 69319 | [69319-crystal-confines.json](./69319-crystal-confines.json) |
 | Crystal core | 124212 | [124212-crystal-core.json](./124212-crystal-core.json) |
 | Crystal Cosmos | 32244 | [32244-crystal-cosmos.json](./32244-crystal-cosmos.json) |
+| Crystal Defender | 221126 | [221126-crystal-defender.json](./221126-crystal-defender.json) |
 | Crystal Defenders R1 | 21126 | [21126-crystal-defenders-r1.json](./21126-crystal-defenders-r1.json) |
 | Crystal Defenders R2 | 21133 | [21133-crystal-defenders-r2.json](./21133-crystal-defenders-r2.json) |
 | Crystal Edge: Retribution | 394898 | [394898-crystal-edge-retribution.json](./394898-crystal-edge-retribution.json) |
@@ -7563,6 +7567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of the Lamb: Relics of the Old Faith | 246406 | [246406-cult-of-the-lamb-relics-of-the-old-faith.json](./246406-cult-of-the-lamb-relics-of-the-old-faith.json) |
 | Cult of the Lamb: The One Who Waits | 408806 | [408806-cult-of-the-lamb-the-one-who-waits.json](./408806-cult-of-the-lamb-the-one-who-waits.json) |
 | Cult of the Lamb: Unholy Pack Bundle | 324472 | [324472-cult-of-the-lamb-unholy-pack-bundle.json](./324472-cult-of-the-lamb-unholy-pack-bundle.json) |
+| Cult: Chapter One | 221140 | [221140-cult-chapter-one.json](./221140-cult-chapter-one.json) |
 | Cult: Fear Inside | 72341 | [72341-cult-fear-inside.json](./72341-cult-fear-inside.json) |
 | Cult&Card | 291765 | [291765-cult-and-card.json](./291765-cult-and-card.json) |
 | Cultist Astronaut | 203968 | [203968-cultist-astronaut.json](./203968-cultist-astronaut.json) |
@@ -8039,6 +8044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberstrike 2 | 22810 | [22810-cyberstrike-2.json](./22810-cyberstrike-2.json) |
 | CyberTaxi | 140602 | [140602-cybertaxi.json](./140602-cybertaxi.json) |
 | CyberTaxi: Lunatic Nights | 296388 | [296388-cybertaxi-lunatic-nights.json](./296388-cybertaxi-lunatic-nights.json) |
+| CyberTD | 221120 | [221120-cybertd.json](./221120-cybertd.json) |
 | CyberTD: Cartridge Card Style | 382439 | [382439-cybertd-cartridge-card-style.json](./382439-cybertd-cartridge-card-style.json) |
 | CyberThreat | 253326 | [253326-cyberthreat.json](./253326-cyberthreat.json) |
 | CyberThreat | 31603 | [31603-cyberthreat.json](./31603-cyberthreat.json) |
