@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Armageddon - Glory of Macragge | 53890 | [53890-warhammer-40-000-armageddon-glory-of-macragge.json](./53890-warhammer-40-000-armageddon-glory-of-macragge.json) |
 | Warhammer 40,000: Armageddon - Golgotha | 53891 | [53891-warhammer-40-000-armageddon-golgotha.json](./53891-warhammer-40-000-armageddon-golgotha.json) |
 | Warhammer 40,000: Armageddon - Ork Hunters | 53888 | [53888-warhammer-40-000-armageddon-ork-hunters.json](./53888-warhammer-40-000-armageddon-ork-hunters.json) |
+| Warhammer 40,000: Assault Dice | 175183 | [175183-warhammer-40-000-assault-dice.json](./175183-warhammer-40-000-assault-dice.json) |
 | Warhammer 40,000: Battlesector - Necrons | 251007 | [251007-warhammer-40-000-battlesector-necrons.json](./251007-warhammer-40-000-battlesector-necrons.json) |
 | Warhammer 40,000: Battlesector - Orks | 250908 | [250908-warhammer-40-000-battlesector-orks.json](./250908-warhammer-40-000-battlesector-orks.json) |
 | Warhammer 40,000: Battlesector - Sisters of Battle | 203271 | [203271-warhammer-40-000-battlesector-sisters-of-battle.json](./203271-warhammer-40-000-battlesector-sisters-of-battle.json) |
