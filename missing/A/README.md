@@ -5835,6 +5835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroloot | 333768 | [333768-astroloot.json](./333768-astroloot.json) |
 | Astroman | 91944 | [91944-astroman.json](./91944-astroman.json) |
 | Astromattech | 334320 | [334320-astromattech.json](./334320-astromattech.json) |
+| Astromeda | 221667 | [221667-astromeda.json](./221667-astromeda.json) |
 | AstroMiner | 119546 | [119546-astrominer.json](./119546-astrominer.json) |
 | AstroN | 91912 | [91912-astron.json](./91912-astron.json) |
 | Astron Belt | 22732 | [22732-astron-belt.json](./22732-astron-belt.json) |
