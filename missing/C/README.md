@@ -1442,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casual Fight | 283309 | [283309-casual-fight.json](./283309-casual-fight.json) |
 | Casual Fishing | 230842 | [230842-casual-fishing.json](./230842-casual-fishing.json) |
 | Casual Games Collection | 98819 | [98819-casual-games-collection.json](./98819-casual-games-collection.json) |
+| Casual Pixel Warrior | 188910 | [188910-casual-pixel-warrior.json](./188910-casual-pixel-warrior.json) |
 | Casual Sport Series: Racket Sports Bundle | 396915 | [396915-casual-sport-series-racket-sports-bundle.json](./396915-casual-sport-series-racket-sports-bundle.json) |
 | Casual Trucking | 306097 | [306097-casual-trucking.json](./306097-casual-trucking.json) |
 | Cat | 309516 | [309516-cat.json](./309516-cat.json) |
@@ -2306,6 +2307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Souls | 75042 | [75042-chaos-souls.json](./75042-chaos-souls.json) |
 | Chaos Starter | 116876 | [116876-chaos-starter.json](./116876-chaos-starter.json) |
 | Chaos Theory Pirates | 130193 | [130193-chaos-theory-pirates.json](./130193-chaos-theory-pirates.json) |
+| Chaos Uproar | 188949 | [188949-chaos-uproar.json](./188949-chaos-uproar.json) |
 | Chaos Village | 114822 | [114822-chaos-village.json](./114822-chaos-village.json) |
 | Chaos War | 203933 | [203933-chaos-war.json](./203933-chaos-war.json) |
 | Chaos Warrior | 415933 | [415933-chaos-warrior.json](./415933-chaos-warrior.json) |
@@ -4491,6 +4493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coinon | 104014 | [104014-coinon.json](./104014-coinon.json) |
 | Coins | 312027 | [312027-coins.json](./312027-coins.json) |
 | Coins Collector Sport Car | 213027 | [213027-coins-collector-sport-car.json](./213027-coins-collector-sport-car.json) |
+| Coins Invaders | 188936 | [188936-coins-invaders.json](./188936-coins-invaders.json) |
 | Coins Only! | 373113 | [373113-coins-only.json](./373113-coins-only.json) |
 | Coiny Block | 98441 | [98441-coiny-block.json](./98441-coiny-block.json) |
 | Coke Bugs | 265398 | [265398-coke-bugs.json](./265398-coke-bugs.json) |
@@ -4521,6 +4524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Steel | 373518 | [373518-cold-steel.json](./373518-cold-steel.json) |
 | Cold Sweat | 323508 | [323508-cold-sweat.json](./323508-cold-sweat.json) |
 | Cold Vengeance | 26877 | [26877-cold-vengeance.json](./26877-cold-vengeance.json) |
+| Cold Verdict | 188943 | [188943-cold-verdict.json](./188943-cold-verdict.json) |
 | Cold Verdict 3 | 371862 | [371862-cold-verdict-3.json](./371862-cold-verdict-3.json) |
 | Cold VR | 296392 | [296392-cold-vr.json](./296392-cold-vr.json) |
 | Cold War Commander | 67982 | [67982-cold-war-commander.json](./67982-cold-war-commander.json) |
@@ -6567,6 +6571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Factory | 24070 | [24070-crazy-factory.json](./24070-crazy-factory.json) |
 | Crazy Fairies | 63267 | [63267-crazy-fairies.json](./63267-crazy-fairies.json) |
 | Crazy Farm 2 | 120354 | [120354-crazy-farm-2.json](./120354-crazy-farm-2.json) |
+| Crazy Fatties | 188930 | [188930-crazy-fatties.json](./188930-crazy-fatties.json) |
 | Crazy Flasher 3 | 62165 | [62165-crazy-flasher-3.json](./62165-crazy-flasher-3.json) |
 | Crazy Flasher Series 2021 | 157146 | [157146-crazy-flasher-series-2021.json](./157146-crazy-flasher-series-2021.json) |
 | Crazy Fluffy Slime Maker | 106369 | [106369-crazy-fluffy-slime-maker.json](./106369-crazy-fluffy-slime-maker.json) |
