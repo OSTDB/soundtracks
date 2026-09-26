@@ -1602,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Plumbers in Hallowville | 287622 | [287622-just-plumbers-in-hallowville.json](./287622-just-plumbers-in-hallowville.json) |
 | Just Pong | 383077 | [383077-just-pong.json](./383077-just-pong.json) |
 | Just Pool | 411711 | [411711-just-pool.json](./411711-just-pool.json) |
+| Just Power: The Papal States | 197155 | [197155-just-power-the-papal-states.json](./197155-just-power-the-papal-states.json) |
 | Just Push the Button | 224117 | [224117-just-push-the-button.json](./224117-just-push-the-button.json) |
 | Just Puzzles: Water | 417715 | [417715-just-puzzles-water.json](./417715-just-puzzles-water.json) |
 | Just Random Squares | 120394 | [120394-just-random-squares.json](./120394-just-random-squares.json) |
