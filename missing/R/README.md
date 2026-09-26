@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.B.I. Baseball 4 | 46264 | [46264-r-b-i-baseball-4.json](./46264-r-b-i-baseball-4.json) |
 | R.C. Bot Inc. | 33097 | [33097-r-c-bot-inc.json](./33097-r-c-bot-inc.json) |
 | R.E.E.L. | 133367 | [133367-r-e-e-l.json](./133367-r-e-e-l.json) |
+| R.E.M. scape | 178432 | [178432-r-e-m-scape.json](./178432-r-e-m-scape.json) |
 | R.I.C.A | 115013 | [115013-r-i-c-a.json](./115013-r-i-c-a.json) |
 | R.I.P. | 381005 | [381005-r-i-p.json](./381005-r-i-p.json) |
 | R.I.P. | 77984 | [77984-r-i-p.json](./77984-r-i-p.json) |
@@ -2441,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restricted Airspace | 186151 | [186151-restricted-airspace.json](./186151-restricted-airspace.json) |
 | Restricted Area | 169414 | [169414-restricted-area.json](./169414-restricted-area.json) |
 | Restricted Area | 266768 | [266768-restricted-area.json](./266768-restricted-area.json) |
+| Restricted Section | 178439 | [178439-restricted-section.json](./178439-restricted-section.json) |
 | Resttore | 285487 | [285487-resttore.json](./285487-resttore.json) |
 | Resurface | 406681 | [406681-resurface.json](./406681-resurface.json) |
 | Resurgence: Earth United | 71193 | [71193-resurgence-earth-united.json](./71193-resurgence-earth-united.json) |
@@ -5217,6 +5219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running VoltGun | 370115 | [370115-running-voltgun.json](./370115-running-voltgun.json) |
 | Running Vs Chat | 141654 | [141654-running-vs-chat.json](./141654-running-vs-chat.json) |
 | Running Water | 173297 | [173297-running-water.json](./173297-running-water.json) |
+| Running Water a.k.a Jugsy | 178424 | [178424-running-water-a-k-a-jugsy.json](./178424-running-water-a-k-a-jugsy.json) |
 | Running With Dinosaurs | 103470 | [103470-running-with-dinosaurs.json](./103470-running-with-dinosaurs.json) |
 | Runny Bunny | 317999 | [317999-runny-bunny.json](./317999-runny-bunny.json) |
 | Runombie | 292287 | [292287-runombie.json](./292287-runombie.json) |
