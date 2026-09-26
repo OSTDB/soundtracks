@@ -1972,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Unseen | 303630 | [303630-light-unseen.json](./303630-light-unseen.json) |
 | Light Up the Dark | 404960 | [404960-light-up-the-dark.json](./404960-light-up-the-dark.json) |
 | Light Up the Room | 161371 | [161371-light-up-the-room.json](./161371-light-up-the-room.json) |
+| Light Weaver | 183381 | [183381-light-weaver.json](./183381-light-weaver.json) |
 | Light-Bot | 63577 | [63577-light-bot.json](./63577-light-bot.json) |
 | Light-Bringer | 360644 | [360644-light-bringer.json](./360644-light-bringer.json) |
 | Light-It Up | 266253 | [266253-light-it-up.json](./266253-light-it-up.json) |
@@ -3675,6 +3676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Crush | 236925 | [236925-lovely-crush.json](./236925-lovely-crush.json) |
 | Lovely Farm | 264360 | [264360-lovely-farm.json](./264360-lovely-farm.json) |
 | Lovely Fox | 102918 | [102918-lovely-fox.json](./102918-lovely-fox.json) |
+| Lovely Fracture | 183363 | [183363-lovely-fracture.json](./183363-lovely-fracture.json) |
 | Lovely Island | 109620 | [109620-lovely-island.json](./109620-lovely-island.json) |
 | Lovely Koala | 325612 | [325612-lovely-koala.json](./325612-lovely-koala.json) |
 | Lovely Lisa 3D | 80608 | [80608-lovely-lisa-3d.json](./80608-lovely-lisa-3d.json) |
