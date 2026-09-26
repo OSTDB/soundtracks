@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GasCraft | 255157 | [255157-gascraft.json](./255157-gascraft.json) |
 | Gash | 126421 | [126421-gash.json](./126421-gash.json) |
 | Gash And the Ultimate Boner | 292613 | [292613-gash-and-the-ultimate-boner.json](./292613-gash-and-the-ultimate-boner.json) |
+| Gaslamp Cases 2: The Haunted Village | 181119 | [181119-gaslamp-cases-2-the-haunted-village.json](./181119-gaslamp-cases-2-the-haunted-village.json) |
 | Gaslamp Cases 5: The Dreadful City | 248917 | [248917-gaslamp-cases-5-the-dreadful-city.json](./248917-gaslamp-cases-5-the-dreadful-city.json) |
 | Gaslamp Cases 6: Haunted Waters | 294732 | [294732-gaslamp-cases-6-haunted-waters.json](./294732-gaslamp-cases-6-haunted-waters.json) |
 | Gaslamp Cases 7: The Faith of Rasputin | 294735 | [294735-gaslamp-cases-7-the-faith-of-rasputin.json](./294735-gaslamp-cases-7-the-faith-of-rasputin.json) |
@@ -978,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of War: Reloaded | 342721 | [342721-gears-of-war-reloaded.json](./342721-gears-of-war-reloaded.json) |
 | Gears of War: Ultimate Edition and Rare Replay | 41613 | [41613-gears-of-war-ultimate-edition-and-rare-replay.json](./41613-gears-of-war-ultimate-edition-and-rare-replay.json) |
 | GearStorm | 117651 | [117651-gearstorm.json](./117651-gearstorm.json) |
+| Gearverse | 181159 | [181159-gearverse.json](./181159-gearverse.json) |
 | Gearz | 71763 | [71763-gearz.json](./71763-gearz.json) |
 | Geas | 228695 | [228695-geas.json](./228695-geas.json) |
 | Gebub's Adventure | 31869 | [31869-gebubs-adventure.json](./31869-gebubs-adventure.json) |
