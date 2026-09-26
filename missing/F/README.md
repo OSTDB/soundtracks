@@ -5017,6 +5017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier Force | 345611 | [345611-frontier-force.json](./345611-frontier-force.json) |
 | Frontier Force Vanguard | 337478 | [337478-frontier-force-vanguard.json](./337478-frontier-force-vanguard.json) |
 | Frontier Forge | 413769 | [413769-frontier-forge.json](./413769-frontier-forge.json) |
+| Frontier Fortress | 194997 | [194997-frontier-fortress.json](./194997-frontier-fortress.json) |
 | Frontier Heroes | 396586 | [396586-frontier-heroes.json](./396586-frontier-heroes.json) |
 | Frontier Hunter: Costume Pack Season 3 | 265251 | [265251-frontier-hunter-costume-pack-season-3.json](./265251-frontier-hunter-costume-pack-season-3.json) |
 | Frontier Hunter: Erza's Wheel of Fortune - Deluxe Edition | 239034 | [239034-frontier-hunter-erzas-wheel-of-fortune-deluxe-edition.json](./239034-frontier-hunter-erzas-wheel-of-fortune-deluxe-edition.json) |
