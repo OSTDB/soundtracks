@@ -1614,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadzone: Rogue | 316979 | [316979-deadzone-rogue.json](./316979-deadzone-rogue.json) |
 | Deadzone: Rogue - Apophis | 373616 | [373616-deadzone-rogue-apophis.json](./373616-deadzone-rogue-apophis.json) |
 | DeafBlind | 302434 | [302434-deafblind.json](./302434-deafblind.json) |
+| Deal or No Deal | 220081 | [220081-deal-or-no-deal.json](./220081-deal-or-no-deal.json) |
 | Deal or No Deal | 233990 | [233990-deal-or-no-deal.json](./233990-deal-or-no-deal.json) |
 | Deal or No Deal: DVD Game | 319737 | [319737-deal-or-no-deal-dvd-game.json](./319737-deal-or-no-deal-dvd-game.json) |
 | Deal or No Deal: Secret Vault Games | 209006 | [209006-deal-or-no-deal-secret-vault-games.json](./209006-deal-or-no-deal-secret-vault-games.json) |
@@ -3901,6 +3902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dismal Signal | 271320 | [271320-dismal-signal.json](./271320-dismal-signal.json) |
 | Dismantled Director's Cut | 201695 | [201695-dismantled-directors-cut.json](./201695-dismantled-directors-cut.json) |
 | Dismaya | 180694 | [180694-dismaya.json](./180694-dismaya.json) |
+| Disney | 220082 | [220082-disney.json](./220082-disney.json) |
 | Disney 100 | 275590 | [275590-disney-100.json](./275590-disney-100.json) |
 | Disney City Girl | 62415 | [62415-disney-city-girl.json](./62415-disney-city-girl.json) |
 | Disney Classic Games: Aladdin and The Lion King | 122082 | [122082-disney-classic-games-aladdin-and-the-lion-king.json](./122082-disney-classic-games-aladdin-and-the-lion-king.json) |
@@ -3925,6 +3927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Fairies: Tinker Bell | 78718 | [78718-disney-fairies-tinker-bell.json](./78718-disney-fairies-tinker-bell.json) |
 | Disney Fairies: Tinker Bell and the Great Fairy Rescue | 230553 | [230553-disney-fairies-tinker-bell-and-the-great-fairy-rescue.json](./230553-disney-fairies-tinker-bell-and-the-great-fairy-rescue.json) |
 | Disney Fairies: Tinker Bell's Adventure | 50099 | [50099-disney-fairies-tinker-bells-adventure.json](./50099-disney-fairies-tinker-bells-adventure.json) |
+| Disney Friends | 220083 | [220083-disney-friends.json](./220083-disney-friends.json) |
 | Disney Hot Shots: Disney's Tarzan Jungle Tumble | 231855 | [231855-disney-hot-shots-disneys-tarzan-jungle-tumble.json](./231855-disney-hot-shots-disneys-tarzan-jungle-tumble.json) |
 | Disney Hot Shots: Disney's Terk & Tantor Power Lunch | 231857 | [231857-disney-hot-shots-disneys-terk-and-tantor-power-lunch.json](./231857-disney-hot-shots-disneys-terk-and-tantor-power-lunch.json) |
 | Disney Hotshots: Disney's Tarzan | 231854 | [231854-disney-hotshots-disneys-tarzan.json](./231854-disney-hotshots-disneys-tarzan.json) |
@@ -3939,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Miraness Fitness | 366901 | [366901-disney-miraness-fitness.json](./366901-disney-miraness-fitness.json) |
 | Disney Move | 43499 | [43499-disney-move.json](./43499-disney-move.json) |
 | Disney Piglet's Special Day | 220130 | [220130-disney-piglets-special-day.json](./220130-disney-piglets-special-day.json) |
+| Disney Princess | 220084 | [220084-disney-princess.json](./220084-disney-princess.json) |
 | Disney Princess | 230556 | [230556-disney-princess.json](./230556-disney-princess.json) |
 | Disney Princess: Cinderella - Once Upon a Midnight | 221676 | [221676-disney-princess-cinderella-once-upon-a-midnight.json](./221676-disney-princess-cinderella-once-upon-a-midnight.json) |
 | Disney Princess: Enchanted Journey | 17829 | [17829-disney-princess-enchanted-journey.json](./17829-disney-princess-enchanted-journey.json) |
@@ -5147,6 +5151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora the Explorer: Twins' Day | 275577 | [275577-dora-the-explorer-twins-day.json](./275577-dora-the-explorer-twins-day.json) |
 | Dora's Ballet Adventures | 209122 | [209122-doras-ballet-adventures.json](./209122-doras-ballet-adventures.json) |
 | Dora's Cooking Club | 47964 | [47964-doras-cooking-club.json](./47964-doras-cooking-club.json) |
+| Dora's World Adventure! | 220085 | [220085-doras-world-adventure.json](./220085-doras-world-adventure.json) |
 | Dorabase: Dramatic Stadium | 91771 | [91771-dorabase-dramatic-stadium.json](./91771-dorabase-dramatic-stadium.json) |
 | Dorachan | 178099 | [178099-dorachan.json](./178099-dorachan.json) |
 | Doradora Panic | 151679 | [151679-doradora-panic.json](./151679-doradora-panic.json) |
@@ -5592,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Super Card Game Fusion World | 292100 | [292100-dragon-ball-super-card-game-fusion-world.json](./292100-dragon-ball-super-card-game-fusion-world.json) |
 | Dragon Ball Xenoverse 2: Dragon Ball Daima Pack | 366824 | [366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json](./366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json) |
 | Dragon Ball Xenoverse 2: Lite Version | 116372 | [116372-dragon-ball-xenoverse-2-lite-version.json](./116372-dragon-ball-xenoverse-2-lite-version.json) |
+| Dragon Ball Z | 220086 | [220086-dragon-ball-z.json](./220086-dragon-ball-z.json) |
 | Dragon Ball Z 5 | 242098 | [242098-dragon-ball-z-5.json](./242098-dragon-ball-z-5.json) |
 | Dragon Ball Z II: Gekishin Frieza!! | 48682 | [48682-dragon-ball-z-ii-gekishin-frieza.json](./48682-dragon-ball-z-ii-gekishin-frieza.json) |
 | Dragon Ball Z III: Ressen Jinzou Ningen | 48680 | [48680-dragon-ball-z-iii-ressen-jinzou-ningen.json](./48680-dragon-ball-z-iii-ressen-jinzou-ningen.json) |
@@ -6263,6 +6269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamwillow | 184661 | [184661-dreamwillow.json](./184661-dreamwillow.json) |
 | DreamWoods 2 | 361164 | [361164-dreamwoods-2.json](./361164-dreamwoods-2.json) |
 | Dreamworks 2-in-1 Party Pack | 130311 | [130311-dreamworks-2-in-1-party-pack.json](./130311-dreamworks-2-in-1-party-pack.json) |
+| Dreamworks Animation | 220087 | [220087-dreamworks-animation.json](./220087-dreamworks-animation.json) |
 | DreamWorks Dragons | 221674 | [221674-dreamworks-dragons.json](./221674-dreamworks-dragons.json) |
 | DreamWorks Dragons: Dawn of New Riders | 111629 | [111629-dreamworks-dragons-dawn-of-new-riders.json](./111629-dreamworks-dragons-dawn-of-new-riders.json) |
 | DreamWorks Dragons: Legends of the Nine Realms | 202418 | [202418-dreamworks-dragons-legends-of-the-nine-realms.json](./202418-dreamworks-dragons-legends-of-the-nine-realms.json) |
