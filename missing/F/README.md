@@ -1583,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feral | 192323 | [192323-feral.json](./192323-feral.json) |
 | Feral Blue | 99078 | [99078-feral-blue.json](./99078-feral-blue.json) |
 | Feral Echoes | 351689 | [351689-feral-echoes.json](./351689-feral-echoes.json) |
+| Feralscape | 185417 | [185417-feralscape.json](./185417-feralscape.json) |
 | Ferarum | 396366 | [396366-ferarum.json](./396366-ferarum.json) |
 | Ferd | 226144 | [226144-ferd.json](./226144-ferd.json) |
 | Fergus the Fly | 29641 | [29641-fergus-the-fly.json](./29641-fergus-the-fly.json) |
@@ -2984,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Royale | 130743 | [130743-flappy-royale.json](./130743-flappy-royale.json) |
 | Flappy Shooter | 175982 | [175982-flappy-shooter.json](./175982-flappy-shooter.json) |
 | Flappy Souls | 249191 | [249191-flappy-souls.json](./249191-flappy-souls.json) |
+| Flappy Spaceship | 185420 | [185420-flappy-spaceship.json](./185420-flappy-spaceship.json) |
 | Flappy Special | 64124 | [64124-flappy-special.json](./64124-flappy-special.json) |
 | Flappy Trumpadore | 28206 | [28206-flappy-trumpadore.json](./28206-flappy-trumpadore.json) |
 | Flappy Ugandan Knuckles | 308965 | [308965-flappy-ugandan-knuckles.json](./308965-flappy-ugandan-knuckles.json) |
@@ -4662,6 +4664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddy's Rescue Roundup | 72088 | [72088-freddys-rescue-roundup.json](./72088-freddys-rescue-roundup.json) |
 | Frederic: Evil Strikes Back | 9845 | [9845-frederic-evil-strikes-back.json](./9845-frederic-evil-strikes-back.json) |
 | Frederic: Resurrection of Music - Director's Cut | 33261 | [33261-frederic-resurrection-of-music-directors-cut.json](./33261-frederic-resurrection-of-music-directors-cut.json) |
+| Free Afternoon | 185445 | [185445-free-afternoon.json](./185445-free-afternoon.json) |
 | Free Balling | 32263 | [32263-free-balling.json](./32263-free-balling.json) |
 | Free Bees | 224245 | [224245-free-bees.json](./224245-free-bees.json) |
 | Free Birds: Baby Turkey Trouble | 227825 | [227825-free-birds-baby-turkey-trouble.json](./227825-free-birds-baby-turkey-trouble.json) |
