@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OBJ VR | 309376 | [309376-obj-vr.json](./309376-obj-vr.json) |
 | Object "Cleaning" | 83568 | [83568-object-cleaning.json](./83568-object-cleaning.json) |
 | Object Factory | 371425 | [371425-object-factory.json](./371425-object-factory.json) |
+| Object Wars | 211166 | [211166-object-wars.json](./211166-object-wars.json) |
 | Objector | 232959 | [232959-objector.json](./232959-objector.json) |
 | Objects in Space | 19088 | [19088-objects-in-space.json](./19088-objects-in-space.json) |
 | Oblako | 394373 | [394373-oblako.json](./394373-oblako.json) |
@@ -1931,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Field Trip Adventure | 298582 | [298582-our-field-trip-adventure.json](./298582-our-field-trip-adventure.json) |
 | Our Friend Sloth | 179196 | [179196-our-friend-sloth.json](./179196-our-friend-sloth.json) |
 | Our Great Revolution! | 180133 | [180133-our-great-revolution.json](./180133-our-great-revolution.json) |
+| Our Hero! Last | 211174 | [211174-our-hero-last.json](./211174-our-hero-last.json) |
 | Our Lady of Sorrow | 215035 | [215035-our-lady-of-sorrow.json](./215035-our-lady-of-sorrow.json) |
 | Our Last Dayz | 249711 | [249711-our-last-dayz.json](./249711-our-last-dayz.json) |
 | Our Life on Water | 276186 | [276186-our-life-on-water.json](./276186-our-life-on-water.json) |
