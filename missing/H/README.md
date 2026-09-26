@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HardDriverz | 365150 | [365150-harddriverz.json](./365150-harddriverz.json) |
 | Harder | 334707 | [334707-harder.json](./334707-harder.json) |
 | Harder Parkour | 380117 | [380117-harder-parkour.json](./380117-harder-parkour.json) |
+| Hardest Game Ever 2 | 199921 | [199921-hardest-game-ever-2.json](./199921-hardest-game-ever-2.json) |
 | Hardfest 2 | 280906 | [280906-hardfest-2.json](./280906-hardfest-2.json) |
 | Hardhat Wombat | 244511 | [244511-hardhat-wombat.json](./244511-hardhat-wombat.json) |
 | Hardlight | 138829 | [138829-hardlight.json](./138829-hardlight.json) |
