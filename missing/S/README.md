@@ -2258,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentry: Obelisk of Dawn | 152898 | [152898-sentry-obelisk-of-dawn.json](./152898-sentry-obelisk-of-dawn.json) |
 | Senua | 405072 | [405072-senua.json](./405072-senua.json) |
 | Seoirye | 257680 | [257680-seoirye.json](./257680-seoirye.json) |
+| Seoul 2033 | 215092 | [215092-seoul-2033.json](./215092-seoul-2033.json) |
 | Seoul Exorcist 1111 | 347761 | [347761-seoul-exorcist-1111.json](./347761-seoul-exorcist-1111.json) |
 | Seoul Station | 312196 | [312196-seoul-station.json](./312196-seoul-station.json) |
 | Sep's Diner | 159718 | [159718-seps-diner.json](./159718-seps-diner.json) |
@@ -3756,6 +3757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Clutter 22: Haute Couture | 341868 | [341868-shopping-clutter-22-haute-couture.json](./341868-shopping-clutter-22-haute-couture.json) |
 | Shopping Clutter 25: Strawberry Thanksgiving | 324504 | [324504-shopping-clutter-25-strawberry-thanksgiving.json](./324504-shopping-clutter-25-strawberry-thanksgiving.json) |
 | Shopping Clutter 26: Christmas Rocks | 341873 | [341873-shopping-clutter-26-christmas-rocks.json](./341873-shopping-clutter-26-christmas-rocks.json) |
+| Shopping Clutter 3: Blooming Tale | 215031 | [215031-shopping-clutter-3-blooming-tale.json](./215031-shopping-clutter-3-blooming-tale.json) |
 | Shopping Clutter 5: Christmas Poetree | 223139 | [223139-shopping-clutter-5-christmas-poetree.json](./223139-shopping-clutter-5-christmas-poetree.json) |
 | Shopping Clutter 6: Love Is in the Air | 231314 | [231314-shopping-clutter-6-love-is-in-the-air.json](./231314-shopping-clutter-6-love-is-in-the-air.json) |
 | Shopping Clutter: The Best Playground | 200580 | [200580-shopping-clutter-the-best-playground.json](./200580-shopping-clutter-the-best-playground.json) |
@@ -10680,6 +10682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Hero | 87175 | [87175-stick-hero.json](./87175-stick-hero.json) |
 | Stick Hunter: Exciting Ice Hockey | 48618 | [48618-stick-hunter-exciting-ice-hockey.json](./48618-stick-hunter-exciting-ice-hockey.json) |
 | Stick Infinite Kingdom | 310934 | [310934-stick-infinite-kingdom.json](./310934-stick-infinite-kingdom.json) |
+| Stick It to the Stickman | 215042 | [215042-stick-it-to-the-stickman.json](./215042-stick-it-to-the-stickman.json) |
 | Stick It! | 312183 | [312183-stick-it.json](./312183-stick-it.json) |
 | Stick man Flipper | 112742 | [112742-stick-man-flipper.json](./112742-stick-man-flipper.json) |
 | Stick Man Rescue | 44501 | [44501-stick-man-rescue.json](./44501-stick-man-rescue.json) |
@@ -11243,6 +11246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter IV Volt: Battle Protocol | 77315 | [77315-street-fighter-iv-volt-battle-protocol.json](./77315-street-fighter-iv-volt-battle-protocol.json) |
 | Street Fighter IV: Champion Edition | 77952 | [77952-street-fighter-iv-champion-edition.json](./77952-street-fighter-iv-champion-edition.json) |
 | Street Fighter IV: Collector's Edition | 44570 | [44570-street-fighter-iv-collectors-edition.json](./44570-street-fighter-iv-collectors-edition.json) |
+| Street Fighter ONE | 215075 | [215075-street-fighter-one.json](./215075-street-fighter-one.json) |
 | Street Fighter Online: Mouse Generation | 55061 | [55061-street-fighter-online-mouse-generation.json](./55061-street-fighter-online-mouse-generation.json) |
 | Street Fighter V: 2016 Halloween Costume Bundle | 343899 | [343899-street-fighter-v-2016-halloween-costume-bundle.json](./343899-street-fighter-v-2016-halloween-costume-bundle.json) |
 | Street Fighter V: 2016 Summer Costume Bundle | 343896 | [343896-street-fighter-v-2016-summer-costume-bundle.json](./343896-street-fighter-v-2016-summer-costume-bundle.json) |
@@ -12424,6 +12428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dunkman | 134700 | [134700-super-dunkman.json](./134700-super-dunkman.json) |
 | Super Durak | 174336 | [174336-super-durak.json](./174336-super-durak.json) |
 | Super Dynamite Fishing | 61126 | [61126-super-dynamite-fishing.json](./61126-super-dynamite-fishing.json) |
+| Super DynoStory | 215025 | [215025-super-dynostory.json](./215025-super-dynostory.json) |
 | Super EarthBound | 323181 | [323181-super-earthbound.json](./323181-super-earthbound.json) |
 | Super Elastic | 276164 | [276164-super-elastic.json](./276164-super-elastic.json) |
 | Super Engine GT Turbo SPEC | 338922 | [338922-super-engine-gt-turbo-spec.json](./338922-super-engine-gt-turbo-spec.json) |
@@ -12884,6 +12889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Prostate Exam | 323900 | [323900-super-mario-prostate-exam.json](./323900-super-mario-prostate-exam.json) |
 | Super Mario Rampage! | 334881 | [334881-super-mario-rampage.json](./334881-super-mario-rampage.json) |
 | Super Mario RPG 2 | 231474 | [231474-super-mario-rpg-2.json](./231474-super-mario-rpg-2.json) |
+| Super Mario RPG: Armageddon | 215071 | [215071-super-mario-rpg-armageddon.json](./215071-super-mario-rpg-armageddon.json) |
 | Super Mario RPG: Legend of the Seven Stars | 5418 | [5418-super-mario-rpg-legend-of-the-seven-stars.json](./5418-super-mario-rpg-legend-of-the-seven-stars.json) |
 | Super Mario RPG: The Seven Sages | 175832 | [175832-super-mario-rpg-the-seven-sages.json](./175832-super-mario-rpg-the-seven-sages.json) |
 | Super Mario RPG: The Starlite Worlds | 175887 | [175887-super-mario-rpg-the-starlite-worlds.json](./175887-super-mario-rpg-the-starlite-worlds.json) |
