@@ -1059,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bard's Gold: Complete Edition | 214520 | [214520-bards-gold-complete-edition.json](./214520-bards-gold-complete-edition.json) |
 | Barda | 345592 | [345592-barda.json](./345592-barda.json) |
 | Bardarts | 141222 | [141222-bardarts.json](./141222-bardarts.json) |
+| Bardcard | 214479 | [214479-bardcard.json](./214479-bardcard.json) |
 | Bardella and the Curse of Silence | 399167 | [399167-bardella-and-the-curse-of-silence.json](./399167-bardella-and-the-curse-of-silence.json) |
 | Bardic: Quest for Love | 270100 | [270100-bardic-quest-for-love.json](./270100-bardic-quest-for-love.json) |
 | Bardo | 109727 | [109727-bardo.json](./109727-bardo.json) |
