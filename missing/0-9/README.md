@@ -624,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 240p Test Suite | 292078 | [292078-240p-test-suite.json](./292078-240p-test-suite.json) |
 | 24H Stories: The Blackout | 276706 | [276706-24h-stories-the-blackout.json](./276706-24h-stories-the-blackout.json) |
 | 24H Stories: The Cabin In The Forest | 308942 | [308942-24h-stories-the-cabin-in-the-forest.json](./308942-24h-stories-the-cabin-in-the-forest.json) |
+| 25 | 223926 | [223926-25.json](./223926-25.json) |
 | 25,000 Sudoku Puzzles | 125838 | [125838-25-000-sudoku-puzzles.json](./125838-25-000-sudoku-puzzles.json) |
 | 25°N 71°W Remastered | 279680 | [279680-25-n-71-w-remastered.json](./279680-25-n-71-w-remastered.json) |
 | 250-man-nin no Kanken Premium: Zenkyuu Zen-Kanji Kanzen Seiha | 342835 | [342835-250-man-nin-no-kanken-premium-zenkyuu-zen-kanji-kanzen-seiha.json](./342835-250-man-nin-no-kanken-premium-zenkyuu-zen-kanji-kanzen-seiha.json) |
@@ -1057,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Ball 3 | 232450 | [232450-8-ball-3.json](./232450-8-ball-3.json) |
 | 8 Ball 4 | 400987 | [400987-8-ball-4.json](./400987-8-ball-4.json) |
 | 8 Ball Action | 38566 | [38566-8-ball-action.json](./38566-8-ball-action.json) |
+| 8 Ball Hero | 223930 | [223930-8-ball-hero.json](./223930-8-ball-hero.json) |
 | 8 Ball Pool | 39185 | [39185-8-ball-pool.json](./39185-8-ball-pool.json) |
 | 8 Ball Pool Classic | 277416 | [277416-8-ball-pool-classic.json](./277416-8-ball-pool-classic.json) |
 | 8 beat Story | 56167 | [56167-8-beat-story.json](./56167-8-beat-story.json) |
@@ -1081,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 814 | 262347 | [262347-814.json](./262347-814.json) |
 | 81diver | 269321 | [269321-81diver.json](./269321-81diver.json) |
 | 82-0 | 407398 | [407398-82-0.json](./407398-82-0.json) |
+| 86 Daily Drift Simulator JDM | 223929 | [223929-86-daily-drift-simulator-jdm.json](./223929-86-daily-drift-simulator-jdm.json) |
 | 86'd | 387024 | [387024-86d.json](./387024-86d.json) |
 | 868-Hack | 17034 | [17034-868-hack.json](./17034-868-hack.json) |
 | 8alloween | 320544 | [320544-8alloween.json](./320544-8alloween.json) |
