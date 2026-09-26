@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mantra | 223438 | [223438-mantra.json](./223438-mantra.json) |
 | Mantras 3D | 100114 | [100114-mantras-3d.json](./100114-mantras-3d.json) |
 | Manufactoria 2022 | 150616 | [150616-manufactoria-2022.json](./150616-manufactoria-2022.json) |
+| Manufactory | 184414 | [184414-manufactory.json](./184414-manufactory.json) |
 | Manufactur'inc. | 265956 | [265956-manufacturinc.json](./265956-manufacturinc.json) |
 | Manuganu | 175908 | [175908-manuganu.json](./175908-manuganu.json) |
 | Manuganu 2 | 175909 | [175909-manuganu-2.json](./175909-manuganu-2.json) |
@@ -1353,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Mage | 166709 | [166709-marble-mage.json](./166709-marble-mage.json) |
 | Marble Maid | 160223 | [160223-marble-maid.json](./160223-marble-maid.json) |
 | Marble Man: Marble Madness II | 125477 | [125477-marble-man-marble-madness-ii.json](./125477-marble-man-marble-madness-ii.json) |
+| Marble Marcher: Community Edition | 184417 | [184417-marble-marcher-community-edition.json](./184417-marble-marcher-community-edition.json) |
 | Marble Mash | 337104 | [337104-marble-mash.json](./337104-marble-mash.json) |
 | Marble Masters: The Pit | 44231 | [44231-marble-masters-the-pit.json](./44231-marble-masters-the-pit.json) |
 | Marble Meadows | 291222 | [291222-marble-meadows.json](./291222-marble-meadows.json) |
@@ -5241,6 +5243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minoes | 133250 | [133250-minoes.json](./133250-minoes.json) |
 | Minor Deity | 371478 | [371478-minor-deity.json](./371478-minor-deity.json) |
 | Minor Miner: Mining Action | 232035 | [232035-minor-miner-mining-action.json](./232035-minor-miner-mining-action.json) |
+| Minor Planet Miner | 184396 | [184396-minor-planet-miner.json](./184396-minor-planet-miner.json) |
 | Minor Scale | 245827 | [245827-minor-scale.json](./245827-minor-scale.json) |
 | Minoria | 110121 | [110121-minoria.json](./110121-minoria.json) |
 | Minos | 370704 | [370704-minos.json](./370704-minos.json) |
@@ -6912,6 +6915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortality Decomp. Killers | 337999 | [337999-mortality-decomp-killers.json](./337999-mortality-decomp-killers.json) |
 | Mortality... Please | 417597 | [417597-mortality-please.json](./417597-mortality-please.json) |
 | Mortanum | 403658 | [403658-mortanum.json](./403658-mortanum.json) |
+| Mortar | 184402 | [184402-mortar.json](./184402-mortar.json) |
 | Mortar Howl | 105091 | [105091-mortar-howl.json](./105091-mortar-howl.json) |
 | Mortarmen | 259019 | [259019-mortarmen.json](./259019-mortarmen.json) |
 | Mortars VR | 81138 | [81138-mortars-vr.json](./81138-mortars-vr.json) |
