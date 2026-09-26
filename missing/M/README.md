@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Match | 277338 | [277338-machine-match.json](./277338-machine-match.json) |
 | Machine Men | 299448 | [299448-machine-men.json](./299448-machine-men.json) |
 | Machine of Madness | 409547 | [409547-machine-of-madness.json](./409547-machine-of-madness.json) |
+| Machine Ruin Self-Destruction Masturbation Life of the Sky Temple | 189971 | [189971-machine-ruin-self-destruction-masturbation-life-of-the-sky-temple.json](./189971-machine-ruin-self-destruction-masturbation-life-of-the-sky-temple.json) |
 | Machine Tower 2984 | 357848 | [357848-machine-tower-2984.json](./357848-machine-tower-2984.json) |
 | Machine With a Big Gun | 103479 | [103479-machine-with-a-big-gun.json](./103479-machine-with-a-big-gun.json) |
 | Machine Yearning | 245254 | [245254-machine-yearning.json](./245254-machine-yearning.json) |
@@ -2870,6 +2871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Nightt: Part 1 | 311804 | [311804-medieval-nightt-part-1.json](./311804-medieval-nightt-part-1.json) |
 | Medieval Questionnaire | 288816 | [288816-medieval-questionnaire.json](./288816-medieval-questionnaire.json) |
 | Medieval Real Estate | 81773 | [81773-medieval-real-estate.json](./81773-medieval-real-estate.json) |
+| Medieval Remembrance | 189945 | [189945-medieval-remembrance.json](./189945-medieval-remembrance.json) |
 | Medieval Sex Jigsaw | 291067 | [291067-medieval-sex-jigsaw.json](./291067-medieval-sex-jigsaw.json) |
 | Medieval Shop Simulator | 152726 | [152726-medieval-shop-simulator.json](./152726-medieval-shop-simulator.json) |
 | Medieval Simulators: Baker | 248047 | [248047-medieval-simulators-baker.json](./248047-medieval-simulators-baker.json) |
@@ -5765,6 +5767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Model Kit Shop Simulator | 397829 | [397829-model-kit-shop-simulator.json](./397829-model-kit-shop-simulator.json) |
 | Model Melissa | 286521 | [286521-model-melissa.json](./286521-model-melissa.json) |
 | Model Oshare Audition Dream Girl | 222499 | [222499-model-oshare-audition-dream-girl.json](./222499-model-oshare-audition-dream-girl.json) |
+| Model Railway Easily 2 | 189957 | [189957-model-railway-easily-2.json](./189957-model-railway-easily-2.json) |
 | Model Sisters | 414310 | [414310-model-sisters.json](./414310-model-sisters.json) |
 | Model Style: Dress Up! | 314878 | [314878-model-style-dress-up.json](./314878-model-style-dress-up.json) |
 | ModelMaker | 258946 | [258946-modelmaker.json](./258946-modelmaker.json) |
