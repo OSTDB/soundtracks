@@ -4696,6 +4696,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Fantasy Maps Pack | 351622 | [351622-coloring-pixels-fantasy-maps-pack.json](./351622-coloring-pixels-fantasy-maps-pack.json) |
 | Coloring Pixels: Fun and Games Pack | 277968 | [277968-coloring-pixels-fun-and-games-pack.json](./277968-coloring-pixels-fun-and-games-pack.json) |
 | Coloring Pixels: Gothic Pack | 354617 | [354617-coloring-pixels-gothic-pack.json](./354617-coloring-pixels-gothic-pack.json) |
+| Coloring Pixels: Halloween 3 Pack | 222817 | [222817-coloring-pixels-halloween-3-pack.json](./222817-coloring-pixels-halloween-3-pack.json) |
+| Coloring Pixels: Halloween 4 Pack | 222818 | [222818-coloring-pixels-halloween-4-pack.json](./222818-coloring-pixels-halloween-4-pack.json) |
 | Coloring Pixels: Halloween 6 Pack | 351620 | [351620-coloring-pixels-halloween-6-pack.json](./351620-coloring-pixels-halloween-6-pack.json) |
 | Coloring Pixels: Isometric 3 Pack | 351618 | [351618-coloring-pixels-isometric-3-pack.json](./351618-coloring-pixels-isometric-3-pack.json) |
 | Coloring Pixels: Japan Pack | 241318 | [241318-coloring-pixels-japan-pack.json](./241318-coloring-pixels-japan-pack.json) |
