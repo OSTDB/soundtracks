@@ -665,9 +665,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Tree! | 274744 | [274744-family-tree.json](./274744-family-tree.json) |
 | Famine in Wonderland | 410272 | [410272-famine-in-wonderland.json](./410272-famine-in-wonderland.json) |
 | Famine Way | 277437 | [277437-famine-way.json](./277437-famine-way.json) |
+| Famista '91 | 218388 | [218388-famista-91.json](./218388-famista-91.json) |
+| Famista '92 | 218389 | [218389-famista-92.json](./218389-famista-92.json) |
+| Famista '93 | 218391 | [218391-famista-93.json](./218391-famista-93.json) |
+| Famista '94 | 218392 | [218392-famista-94.json](./218392-famista-94.json) |
 | Famista 2 | 86101 | [86101-famista-2.json](./86101-famista-2.json) |
 | Famista 3 | 95372 | [95372-famista-3.json](./95372-famista-3.json) |
+| Famista 4 | 218393 | [218393-famista-4.json](./218393-famista-4.json) |
 | Famista Advance | 49580 | [49580-famista-advance.json](./49580-famista-advance.json) |
+| Famista Wireless | 218394 | [218394-famista-wireless.json](./218394-famista-wireless.json) |
 | Famory | 252158 | [252158-famory.json](./252158-famory.json) |
 | Famous | 91389 | [91389-famous.json](./91389-famous.json) |
 | Famous - The Road to Glory! | 47971 | [47971-famous-the-road-to-glory.json](./47971-famous-the-road-to-glory.json) |
@@ -1539,6 +1545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferrari Formula One | 12093 | [12093-ferrari-formula-one.json](./12093-ferrari-formula-one.json) |
 | Ferrari Grand Prix Challenge | 48290 | [48290-ferrari-grand-prix-challenge.json](./48290-ferrari-grand-prix-challenge.json) |
 | Ferrari GT: Evolution | 66696 | [66696-ferrari-gt-evolution.json](./66696-ferrari-gt-evolution.json) |
+| Ferrari Racing | 218421 | [218421-ferrari-racing.json](./218421-ferrari-racing.json) |
 | Ferrari Virtual Race | 129811 | [129811-ferrari-virtual-race.json](./129811-ferrari-virtual-race.json) |
 | Ferret Frenzy | 381734 | [381734-ferret-frenzy.json](./381734-ferret-frenzy.json) |
 | Ferret Monogatari: Watashi no Okini Iri | 65512 | [65512-ferret-monogatari-watashi-no-okini-iri.json](./65512-ferret-monogatari-watashi-no-okini-iri.json) |
@@ -2903,6 +2910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Cat | 322349 | [322349-flash-cat.json](./322349-flash-cat.json) |
 | Flash Cycle 2 | 286631 | [286631-flash-cycle-2.json](./286631-flash-cycle-2.json) |
 | Flash Focus: Vision Training in Minutes a Day | 21912 | [21912-flash-focus-vision-training-in-minutes-a-day.json](./21912-flash-focus-vision-training-in-minutes-a-day.json) |
+| Flash Gordon | 218420 | [218420-flash-gordon.json](./218420-flash-gordon.json) |
 | Flash Gordon | 22735 | [22735-flash-gordon.json](./22735-flash-gordon.json) |
 | Flash Point | 114159 | [114159-flash-point.json](./114159-flash-point.json) |
 | Flash Point Korea: AH-64D Longbow | 710 | [710-flash-point-korea-ah-64d-longbow.json](./710-flash-point-korea-ah-64d-longbow.json) |
@@ -4800,6 +4808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogenlav: Skyward Bound | 278418 | [278418-frogenlav-skyward-bound.json](./278418-frogenlav-skyward-bound.json) |
 | FrogFlop | 313295 | [313295-frogflop.json](./313295-frogflop.json) |
 | Froggee | 93020 | [93020-froggee.json](./93020-froggee.json) |
+| Frogger | 218437 | [218437-frogger.json](./218437-frogger.json) |
 | Frogger | 218439 | [218439-frogger.json](./218439-frogger.json) |
 | Frogger | 218554 | [218554-frogger.json](./218554-frogger.json) |
 | Frogger | 218557 | [218557-frogger.json](./218557-frogger.json) |
