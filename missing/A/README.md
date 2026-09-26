@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lively Haunt | 265099 | [265099-a-lively-haunt.json](./265099-a-lively-haunt.json) |
 | A Living Room | 293082 | [293082-a-living-room.json](./293082-a-living-room.json) |
 | A Lonely Cabin Trip | 237065 | [237065-a-lonely-cabin-trip.json](./237065-a-lonely-cabin-trip.json) |
+| A Loney | 207765 | [207765-a-loney.json](./207765-a-loney.json) |
 | A Long Night For Crazy King | 120969 | [120969-a-long-night-for-crazy-king.json](./120969-a-long-night-for-crazy-king.json) |
 | A Long Way Home | 180805 | [180805-a-long-way-home.json](./180805-a-long-way-home.json) |
 | A Long Way Home | 33077 | [33077-a-long-way-home.json](./33077-a-long-way-home.json) |
@@ -1918,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albert Mort: Desert Heat | 51510 | [51510-albert-mort-desert-heat.json](./51510-albert-mort-desert-heat.json) |
 | Albert Odyssey | 15889 | [15889-albert-odyssey.json](./15889-albert-odyssey.json) |
 | Albert Odyssey 2: Jashin no Taidou | 38346 | [38346-albert-odyssey-2-jashin-no-taidou.json](./38346-albert-odyssey-2-jashin-no-taidou.json) |
+| Albert.Data: Slowly Fading into Data | 207791 | [207791-albert-data-slowly-fading-into-data.json](./207791-albert-data-slowly-fading-into-data.json) |
 | Albert's Ark Idle | 312680 | [312680-alberts-ark-idle.json](./312680-alberts-ark-idle.json) |
 | Albert's Journey | 219659 | [219659-alberts-journey.json](./219659-alberts-journey.json) |
 | Albino Lullaby: Episode 3 | 238615 | [238615-albino-lullaby-episode-3.json](./238615-albino-lullaby-episode-3.json) |
@@ -2095,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in Windowland | 218120 | [218120-alice-in-windowland.json](./218120-alice-in-windowland.json) |
 | Alice in Wonderland | 175929 | [175929-alice-in-wonderland.json](./175929-alice-in-wonderland.json) |
 | Alice in Wonderland | 196846 | [196846-alice-in-wonderland.json](./196846-alice-in-wonderland.json) |
+| Alice in Wonderland: Jigsaw Puzzle | 207804 | [207804-alice-in-wonderland-jigsaw-puzzle.json](./207804-alice-in-wonderland-jigsaw-puzzle.json) |
 | Alice in Wonderland: Magical Labyrinth | 328575 | [328575-alice-in-wonderland-magical-labyrinth.json](./328575-alice-in-wonderland-magical-labyrinth.json) |
 | Alice in Wonderland: Puzzle Golf Adventures | 100008 | [100008-alice-in-wonderland-puzzle-golf-adventures.json](./100008-alice-in-wonderland-puzzle-golf-adventures.json) |
 | Alice is Dead: Episode 1 | 140361 | [140361-alice-is-dead-episode-1.json](./140361-alice-is-dead-episode-1.json) |
@@ -3974,6 +3977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anvil Empires | 243273 | [243273-anvil-empires.json](./243273-anvil-empires.json) |
 | Anvil Life | 212235 | [212235-anvil-life.json](./212235-anvil-life.json) |
 | Anvil Survivors | 396403 | [396403-anvil-survivors.json](./396403-anvil-survivors.json) |
+| Anvillage | 207793 | [207793-anvillage.json](./207793-anvillage.json) |
 | Anxieties | 335699 | [335699-anxieties.json](./335699-anxieties.json) |
 | Anxiety | 51572 | [51572-anxiety.json](./51572-anxiety.json) |
 | Any Castle | 337298 | [337298-any-castle.json](./337298-any-castle.json) |
@@ -5867,6 +5871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrobarian | 366849 | [366849-astrobarian.json](./366849-astrobarian.json) |
 | Astrobatics | 270640 | [270640-astrobatics.json](./270640-astrobatics.json) |
 | AstroBlast | 78371 | [78371-astroblast.json](./78371-astroblast.json) |
+| Astroblaster | 207777 | [207777-astroblaster.json](./207777-astroblaster.json) |
 | Astroblaze | 300770 | [300770-astroblaze.json](./300770-astroblaze.json) |
 | Astroblitz | 146299 | [146299-astroblitz.json](./146299-astroblitz.json) |
 | Astrobuilder | 334690 | [334690-astrobuilder.json](./334690-astrobuilder.json) |
