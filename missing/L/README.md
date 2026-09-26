@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landmine Princess | 342881 | [342881-landmine-princess.json](./342881-landmine-princess.json) |
 | Landnav | 197380 | [197380-landnav.json](./197380-landnav.json) |
 | Landomayzer | 370122 | [370122-landomayzer.json](./370122-landomayzer.json) |
+| LandPort | 201005 | [201005-landport.json](./201005-landport.json) |
 | Landrocker | 149513 | [149513-landrocker.json](./149513-landrocker.json) |
 | Lands of Achra | 347708 | [347708-lands-of-achra.json](./347708-lands-of-achra.json) |
 | Lands of Avaronia | 293681 | [293681-lands-of-avaronia.json](./293681-lands-of-avaronia.json) |
