@@ -4233,6 +4233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator 2024: World Update 20 - Japan | 370133 | [370133-microsoft-flight-simulator-2024-world-update-20-japan.json](./370133-microsoft-flight-simulator-2024-world-update-20-japan.json) |
 | Microsoft Flight Simulator 2024: World Update 22 - US National Parks | 405084 | [405084-microsoft-flight-simulator-2024-world-update-22-us-national-parks.json](./405084-microsoft-flight-simulator-2024-world-update-22-us-national-parks.json) |
 | Microsoft Flight Simulator 4.0: Aircraft & Scenery Designer | 84204 | [84204-microsoft-flight-simulator-4-0-aircraft-and-scenery-designer.json](./84204-microsoft-flight-simulator-4-0-aircraft-and-scenery-designer.json) |
+| Microsoft Flight Simulator 5.1: Scenery Pack | 209452 | [209452-microsoft-flight-simulator-5-1-scenery-pack.json](./209452-microsoft-flight-simulator-5-1-scenery-pack.json) |
 | Microsoft Flight Simulator 5.1: The Virtual Squadron | 141224 | [141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json](./141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json) |
 | Microsoft Flight Simulator X: Acceleration | 713 | [713-microsoft-flight-simulator-x-acceleration.json](./713-microsoft-flight-simulator-x-acceleration.json) |
 | Microsoft Flight Simulator X: Deluxe Edition | 23775 | [23775-microsoft-flight-simulator-x-deluxe-edition.json](./23775-microsoft-flight-simulator-x-deluxe-edition.json) |
