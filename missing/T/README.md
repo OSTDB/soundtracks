@@ -2247,6 +2247,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Abyssal Zone | 12246 | [12246-the-abyssal-zone.json](./12246-the-abyssal-zone.json) |
 | The Academy | 302947 | [302947-the-academy.json](./302947-the-academy.json) |
 | The Academy: Love Potions | 112282 | [112282-the-academy-love-potions.json](./112282-the-academy-love-potions.json) |
+| The Accursed Crown of the Giant King: Chapter 2 - The Duchy of Despair | 207774 | [207774-the-accursed-crown-of-the-giant-king-chapter-2-the-duchy-of-despair.json](./207774-the-accursed-crown-of-the-giant-king-chapter-2-the-duchy-of-despair.json) |
+| The Accursed Crown of the Giant King: Chapter 3 - Citadel on the Wilderlands | 207775 | [207775-the-accursed-crown-of-the-giant-king-chapter-3-citadel-on-the-wilderlands.json](./207775-the-accursed-crown-of-the-giant-king-chapter-3-citadel-on-the-wilderlands.json) |
+| The Accursed Crown of the Giant King: Chapter 4 - The Fallen Giant Kingdom | 207776 | [207776-the-accursed-crown-of-the-giant-king-chapter-4-the-fallen-giant-kingdom.json](./207776-the-accursed-crown-of-the-giant-king-chapter-4-the-fallen-giant-kingdom.json) |
 | The Aching Aversion: Blood Orange Dreams | 312589 | [312589-the-aching-aversion-blood-orange-dreams.json](./312589-the-aching-aversion-blood-orange-dreams.json) |
 | The Acorn Protocol | 408036 | [408036-the-acorn-protocol.json](./408036-the-acorn-protocol.json) |
 | The Act | 64990 | [64990-the-act.json](./64990-the-act.json) |
@@ -2498,6 +2501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Axolotl Project | 60022 | [60022-the-axolotl-project.json](./60022-the-axolotl-project.json) |
 | The Aztec Ruins | 308328 | [308328-the-aztec-ruins.json](./308328-the-aztec-ruins.json) |
 | The Azure One | 402373 | [402373-the-azure-one.json](./402373-the-azure-one.json) |
+| The Backroom: Lost and Found | 207763 | [207763-the-backroom-lost-and-found.json](./207763-the-backroom-lost-and-found.json) |
 | The Backrooms | 221748 | [221748-the-backrooms.json](./221748-the-backrooms.json) |
 | The Backrooms | 401676 | [401676-the-backrooms.json](./401676-the-backrooms.json) |
 | The Backrooms Company | 293614 | [293614-the-backrooms-company.json](./293614-the-backrooms-company.json) |
@@ -4008,6 +4012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life 2: El Dorado | 256002 | [256002-the-game-of-life-2-el-dorado.json](./256002-the-game-of-life-2-el-dorado.json) |
 | The Game of Life 2: Fairytale Kingdom World | 171608 | [171608-the-game-of-life-2-fairytale-kingdom-world.json](./171608-the-game-of-life-2-fairytale-kingdom-world.json) |
 | The Game of Life 2: Sandy Shores World | 171592 | [171592-the-game-of-life-2-sandy-shores-world.json](./171592-the-game-of-life-2-sandy-shores-world.json) |
+| The Game of Life 2: Sweet Haven World | 207800 | [207800-the-game-of-life-2-sweet-haven-world.json](./207800-the-game-of-life-2-sweet-haven-world.json) |
 | The Game of The Playful | 230930 | [230930-the-game-of-the-playful.json](./230930-the-game-of-the-playful.json) |
 | The Game of Unknown | 195127 | [195127-the-game-of-unknown.json](./195127-the-game-of-unknown.json) |
 | The Game Paradise: Cruisin Mix - Limited Edition | 167151 | [167151-the-game-paradise-cruisin-mix-limited-edition.json](./167151-the-game-paradise-cruisin-mix-limited-edition.json) |
@@ -4195,6 +4200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Griffon Legend | 202975 | [202975-the-griffon-legend.json](./202975-the-griffon-legend.json) |
 | The Grim and I | 120837 | [120837-the-grim-and-i.json](./120837-the-grim-and-i.json) |
 | The Grim Ending | 148919 | [148919-the-grim-ending.json](./148919-the-grim-ending.json) |
+| The Grim Nightmare of Nibras | 207792 | [207792-the-grim-nightmare-of-nibras.json](./207792-the-grim-nightmare-of-nibras.json) |
 | The Grim Outpost | 271323 | [271323-the-grim-outpost.json](./271323-the-grim-outpost.json) |
 | The Grinch | 15487 | [15487-the-grinch.json](./15487-the-grinch.json) |
 | The Grinding of Teeth | 271852 | [271852-the-grinding-of-teeth.json](./271852-the-grinding-of-teeth.json) |
