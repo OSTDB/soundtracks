@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Wand | 27326 | [27326-magic-wand.json](./27326-magic-wand.json) |
 | Magic Wand | 311811 | [311811-magic-wand.json](./311811-magic-wand.json) |
 | Magic War Legends | 410880 | [410880-magic-war-legends.json](./410880-magic-war-legends.json) |
+| Magic Wardrobe | 203818 | [203818-magic-wardrobe.json](./203818-magic-wardrobe.json) |
 | Magic Wars | 254472 | [254472-magic-wars.json](./254472-magic-wars.json) |
 | Magic Weapon | 358310 | [358310-magic-weapon.json](./358310-magic-weapon.json) |
 | Magic Weapon | 377301 | [377301-magic-weapon.json](./377301-magic-weapon.json) |
@@ -1482,6 +1483,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Golf: World Tour - Flower Pack | 309117 | [309117-mario-golf-world-tour-flower-pack.json](./309117-mario-golf-world-tour-flower-pack.json) |
 | Mario Golf: World Tour - Mushroom Pack | 309116 | [309116-mario-golf-world-tour-mushroom-pack.json](./309116-mario-golf-world-tour-mushroom-pack.json) |
 | Mario Golf: World Tour - Star Pack | 309118 | [309118-mario-golf-world-tour-star-pack.json](./309118-mario-golf-world-tour-star-pack.json) |
+| Mario Heardle | 203820 | [203820-mario-heardle.json](./203820-mario-heardle.json) |
+| Mario Heardle 2 | 203821 | [203821-mario-heardle-2.json](./203821-mario-heardle-2.json) |
 | Mario in Japan | 275630 | [275630-mario-in-japan.json](./275630-mario-in-japan.json) |
 | Mario In Mushroom Rix Land | 265658 | [265658-mario-in-mushroom-rix-land.json](./265658-mario-in-mushroom-rix-land.json) |
 | Mario In Mushroom Rix Land 2: Gimmicky Island | 265659 | [265659-mario-in-mushroom-rix-land-2-gimmicky-island.json](./265659-mario-in-mushroom-rix-land-2-gimmicky-island.json) |
@@ -1614,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party 4 Deluxe | 323833 | [323833-mario-party-4-deluxe.json](./323833-mario-party-4-deluxe.json) |
 | Mario Party 7 | 2334 | [2334-mario-party-7.json](./2334-mario-party-7.json) |
 | Mario Party 7 Bon Voyage | 231602 | [231602-mario-party-7-bon-voyage.json](./231602-mario-party-7-bon-voyage.json) |
+| Mario Party Heardle | 203828 | [203828-mario-party-heardle.json](./203828-mario-party-heardle.json) |
 | Mario Party: Fushigi no Koro-koro Catcher 2 | 132044 | [132044-mario-party-fushigi-no-koro-koro-catcher-2.json](./132044-mario-party-fushigi-no-koro-koro-catcher-2.json) |
 | Mario Party: Love Land | 294763 | [294763-mario-party-love-land.json](./294763-mario-party-love-land.json) |
 | Mario Party: Star Rush | 19599 | [19599-mario-party-star-rush.json](./19599-mario-party-star-rush.json) |
@@ -1928,6 +1932,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Iron Man VR: Digital Deluxe Edition | 255653 | [255653-marvels-iron-man-vr-digital-deluxe-edition.json](./255653-marvels-iron-man-vr-digital-deluxe-edition.json) |
 | Marvel's Midnight Suns: Blood Storm | 248352 | [248352-marvels-midnight-suns-blood-storm.json](./248352-marvels-midnight-suns-blood-storm.json) |
 | Marvel's Midnight Suns: Digital+ Edition | 205003 | [205003-marvels-midnight-suns-digital-edition.json](./205003-marvels-midnight-suns-digital-edition.json) |
+| Marvel's Midnight Suns: Enhanced Edition | 203808 | [203808-marvels-midnight-suns-enhanced-edition.json](./203808-marvels-midnight-suns-enhanced-edition.json) |
+| Marvel's Midnight Suns: Legendary Edition | 203804 | [203804-marvels-midnight-suns-legendary-edition.json](./203804-marvels-midnight-suns-legendary-edition.json) |
 | Marvel's Midnight Suns: Redemption | 239379 | [239379-marvels-midnight-suns-redemption.json](./239379-marvels-midnight-suns-redemption.json) |
 | Marvel's Midnight Suns: Season Pass | 293722 | [293722-marvels-midnight-suns-season-pass.json](./293722-marvels-midnight-suns-season-pass.json) |
 | Marvel's Midnight Suns: The Good, The Bad, and The Undead | 232424 | [232424-marvels-midnight-suns-the-good-the-bad-and-the-undead.json](./232424-marvels-midnight-suns-the-good-the-bad-and-the-undead.json) |
@@ -2576,6 +2582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me | 145034 | [145034-me.json](./145034-me.json) |
 | Me & My Katamari | 6455 | [6455-me-and-my-katamari.json](./6455-me-and-my-katamari.json) |
 | Me & My Robot Friend | 128595 | [128595-me-and-my-robot-friend.json](./128595-me-and-my-robot-friend.json) |
+| Me Alone Reissue | 203843 | [203843-me-alone-reissue.json](./203843-me-alone-reissue.json) |
 | Me and My Shadow | 124037 | [124037-me-and-my-shadow.json](./124037-me-and-my-shadow.json) |
 | Me and the Key 2 | 225280 | [225280-me-and-the-key-2.json](./225280-me-and-the-key-2.json) |
 | Me and the Key 3 | 225281 | [225281-me-and-the-key-3.json](./225281-me-and-the-key-3.json) |
@@ -3044,6 +3051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Cyber Wave Pack | 409541 | [409541-mega-man-cyber-wave-pack.json](./409541-mega-man-cyber-wave-pack.json) |
 | Mega Man DOS Remake | 357337 | [357337-mega-man-dos-remake.json](./357337-mega-man-dos-remake.json) |
 | Mega Man Eternal | 208479 | [208479-mega-man-eternal.json](./208479-mega-man-eternal.json) |
+| Mega Man Heardle | 203816 | [203816-mega-man-heardle.json](./203816-mega-man-heardle.json) |
 | Mega Man II | 1734 | [1734-mega-man-ii.json](./1734-mega-man-ii.json) |
 | Mega Man in Super Mario Bros. | 269874 | [269874-mega-man-in-super-mario-bros.json](./269874-mega-man-in-super-mario-bros.json) |
 | Mega Man Legends 3 Project | 78003 | [78003-mega-man-legends-3-project.json](./78003-mega-man-legends-3-project.json) |
@@ -4017,6 +4025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid FreezeFlame | 255382 | [255382-metroid-freezeflame.json](./255382-metroid-freezeflame.json) |
 | Metroid FreezeFlame 2: Twisted Dimensions | 255383 | [255383-metroid-freezeflame-2-twisted-dimensions.json](./255383-metroid-freezeflame-2-twisted-dimensions.json) |
 | Metroid Fusion: C.L.E.A.N. Station | 313328 | [313328-metroid-fusion-c-l-e-a-n-station.json](./313328-metroid-fusion-c-l-e-a-n-station.json) |
+| Metroid Heardle | 203827 | [203827-metroid-heardle.json](./203827-metroid-heardle.json) |
 | Metroid II DX | 173157 | [173157-metroid-ii-dx.json](./173157-metroid-ii-dx.json) |
 | Metroid II: Return of Samus | 1102 | [1102-metroid-ii-return-of-samus.json](./1102-metroid-ii-return-of-samus.json) |
 | Metroid Nebulus | 324078 | [324078-metroid-nebulus.json](./324078-metroid-nebulus.json) |
@@ -6611,6 +6620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morbid: The Seven Acolytes | 134817 | [134817-morbid-the-seven-acolytes.json](./134817-morbid-the-seven-acolytes.json) |
 | Morbidity: 1 | 271757 | [271757-morbidity-1.json](./271757-morbidity-1.json) |
 | Morbidity: 2 | 271758 | [271758-morbidity-2.json](./271758-morbidity-2.json) |
+| Morbius Heardle | 203829 | [203829-morbius-heardle.json](./203829-morbius-heardle.json) |
 | Mordecai Saw Game | 385050 | [385050-mordecai-saw-game.json](./385050-mordecai-saw-game.json) |
 | Mordeth | 316605 | [316605-mordeth.json](./316605-mordeth.json) |
 | Mordfield Command | 304874 | [304874-mordfield-command.json](./304874-mordfield-command.json) |
