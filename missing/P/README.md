@@ -5446,6 +5446,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretend it's not There | 324689 | [324689-pretend-its-not-there.json](./324689-pretend-its-not-there.json) |
 | Pretty Angel | 127092 | [127092-pretty-angel.json](./127092-pretty-angel.json) |
 | Pretty Bird 2 | 216309 | [216309-pretty-bird-2.json](./216309-pretty-bird-2.json) |
+| Pretty Bird 3 | 217810 | [217810-pretty-bird-3.json](./217810-pretty-bird-3.json) |
+| Pretty Bird 4 | 217811 | [217811-pretty-bird-4.json](./217811-pretty-bird-4.json) |
+| Pretty Bird 5 | 217812 | [217812-pretty-bird-5.json](./217812-pretty-bird-5.json) |
+| Pretty Bird 6 | 217813 | [217813-pretty-bird-6.json](./217813-pretty-bird-6.json) |
 | Pretty Chaser | 269601 | [269601-pretty-chaser.json](./269601-pretty-chaser.json) |
 | Pretty Girl Ukiyo-e Artist Hoku | 406942 | [406942-pretty-girl-ukiyo-e-artist-hoku.json](./406942-pretty-girl-ukiyo-e-artist-hoku.json) |
 | Pretty Girls 2048 Strike | 227923 | [227923-pretty-girls-2048-strike.json](./227923-pretty-girls-2048-strike.json) |
