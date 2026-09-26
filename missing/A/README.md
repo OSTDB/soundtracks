@@ -1974,6 +1974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemist's Mountain | 173292 | [173292-alchemists-mountain.json](./173292-alchemists-mountain.json) |
 | Alchemist's Secret | 297059 | [297059-alchemists-secret.json](./297059-alchemists-secret.json) |
 | Alchemistress Vivi | 287142 | [287142-alchemistress-vivi.json](./287142-alchemistress-vivi.json) |
+| Alchemists' Garden | 199908 | [199908-alchemists-garden.json](./199908-alchemists-garden.json) |
 | Alchemy | 337805 | [337805-alchemy.json](./337805-alchemy.json) |
 | Alchemy Academy | 337810 | [337810-alchemy-academy.json](./337810-alchemy-academy.json) |
 | Alchemy Classic | 111035 | [111035-alchemy-classic.json](./111035-alchemy-classic.json) |
@@ -3424,6 +3425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Space HD | 102601 | [102601-angry-birds-space-hd.json](./102601-angry-birds-space-hd.json) |
 | Angry Birds Star Wars HD | 102600 | [102600-angry-birds-star-wars-hd.json](./102600-angry-birds-star-wars-hd.json) |
 | Angry Birds Star Wars II | 19272 | [19272-angry-birds-star-wars-ii.json](./19272-angry-birds-star-wars-ii.json) |
+| Angry Birds Tennis | 199901 | [199901-angry-birds-tennis.json](./199901-angry-birds-tennis.json) |
 | Angry Birds World Tour | 214040 | [214040-angry-birds-world-tour.json](./214040-angry-birds-world-tour.json) |
 | Angry Birds: Dangerous Railroad | 325564 | [325564-angry-birds-dangerous-railroad.json](./325564-angry-birds-dangerous-railroad.json) |
 | Angry Birds: Flock Party | 372088 | [372088-angry-birds-flock-party.json](./372088-angry-birds-flock-party.json) |
