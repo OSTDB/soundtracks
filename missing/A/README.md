@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Fall | 119004 | [119004-absolute-fall.json](./119004-absolute-fall.json) |
 | Absolute Matter | 219697 | [219697-absolute-matter.json](./219697-absolute-matter.json) |
 | Absolute Pinball | 12376 | [12376-absolute-pinball.json](./12376-absolute-pinball.json) |
+| Absolute Talent | 227209 | [227209-absolute-talent.json](./227209-absolute-talent.json) |
 | Absolute: Asse raus! | 92288 | [92288-absolute-asse-raus.json](./92288-absolute-asse-raus.json) |
 | Absolute: Blazing Infinity | 78616 | [78616-absolute-blazing-infinity.json](./78616-absolute-blazing-infinity.json) |
 | Absolutely Nothing Good | 414420 | [414420-absolutely-nothing-good.json](./414420-absolutely-nothing-good.json) |
@@ -1540,6 +1541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Cavalry PRO | 88128 | [88128-air-cavalry-pro.json](./88128-air-cavalry-pro.json) |
 | Air Cavalry: Flight Simulator | 246427 | [246427-air-cavalry-flight-simulator.json](./246427-air-cavalry-flight-simulator.json) |
 | Air Combat | 333953 | [333953-air-combat.json](./333953-air-combat.json) |
+| Air Combat 2015 | 227208 | [227208-air-combat-2015.json](./227208-air-combat-2015.json) |
 | Air Combat Fighter | 119024 | [119024-air-combat-fighter.json](./119024-air-combat-fighter.json) |
 | Air Combat MF | 121009 | [121009-air-combat-mf.json](./121009-air-combat-mf.json) |
 | Air Combat Pilot: WW2 Pacific | 102581 | [102581-air-combat-pilot-ww2-pacific.json](./102581-air-combat-pilot-ww2-pacific.json) |
@@ -2470,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allumeria | 362894 | [362894-allumeria.json](./362894-allumeria.json) |
 | Alluna and Brie | 117033 | [117033-alluna-and-brie.json](./117033-alluna-and-brie.json) |
 | Alma | 80915 | [80915-alma.json](./80915-alma.json) |
+| Almanaque Recreio | 227215 | [227215-almanaque-recreio.json](./227215-almanaque-recreio.json) |
 | Almastriga: Relics of Azathoth | 156618 | [156618-almastriga-relics-of-azathoth.json](./156618-almastriga-relics-of-azathoth.json) |
 | Almighty: God Idle Clicker | 132013 | [132013-almighty-god-idle-clicker.json](./132013-almighty-god-idle-clicker.json) |
 | Almistice | 274010 | [274010-almistice.json](./274010-almistice.json) |
