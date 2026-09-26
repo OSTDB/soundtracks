@@ -602,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abomination Tower | 36011 | [36011-abomination-tower.json](./36011-abomination-tower.json) |
 | Aborigenus | 110070 | [110070-aborigenus.json](./110070-aborigenus.json) |
 | Abort, Retry, Fail | 201227 | [201227-abort-retry-fail.json](./201227-abort-retry-fail.json) |
+| About an Elf | 187860 | [187860-about-an-elf.json](./187860-about-an-elf.json) |
 | About Emma | 179038 | [179038-about-emma.json](./179038-about-emma.json) |
 | About Face | 307085 | [307085-about-face.json](./307085-about-face.json) |
 | About Frontlines | 411697 | [411697-about-frontlines.json](./411697-about-frontlines.json) |
