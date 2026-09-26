@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Week of Circus Terror | 32169 | [32169-a-week-of-circus-terror.json](./32169-a-week-of-circus-terror.json) |
 | A Weekend in Puzzleburg | 201680 | [201680-a-weekend-in-puzzleburg.json](./201680-a-weekend-in-puzzleburg.json) |
 | A western love story but with no horse | 176961 | [176961-a-western-love-story-but-with-no-horse.json](./176961-a-western-love-story-but-with-no-horse.json) |
+| A Wheel Without a View | 177319 | [177319-a-wheel-without-a-view.json](./177319-a-wheel-without-a-view.json) |
 | A Whisper in the Twilight: Chapter Two | 338298 | [338298-a-whisper-in-the-twilight-chapter-two.json](./338298-a-whisper-in-the-twilight-chapter-two.json) |
 | A white horse is not a horse | 192183 | [192183-a-white-horse-is-not-a-horse.json](./192183-a-white-horse-is-not-a-horse.json) |
 | A Whole Wolfrush | 329682 | [329682-a-whole-wolfrush.json](./329682-a-whole-wolfrush.json) |
@@ -556,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AashMans Party Mix | 356897 | [356897-aashmans-party-mix.json](./356897-aashmans-party-mix.json) |
 | Aatral | 264106 | [264106-aatral.json](./264106-aatral.json) |
 | Aatral Origins | 346238 | [346238-aatral-origins.json](./346238-aatral-origins.json) |
+| Aatrox's Journey to be Reverted | 177322 | [177322-aatroxs-journey-to-be-reverted.json](./177322-aatroxs-journey-to-be-reverted.json) |
 | Aavegotchi: Gotchiverse | 195528 | [195528-aavegotchi-gotchiverse.json](./195528-aavegotchi-gotchiverse.json) |
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
 | Abaddon | 305287 | [305287-abaddon.json](./305287-abaddon.json) |
@@ -1615,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aion: Legions of War | 69007 | [69007-aion-legions-of-war.json](./69007-aion-legions-of-war.json) |
 | Aion: Steel Cavalry | 62416 | [62416-aion-steel-cavalry.json](./62416-aion-steel-cavalry.json) |
 | AionGuard | 94732 | [94732-aionguard.json](./94732-aionguard.json) |
+| Aious: World's End | 177333 | [177333-aious-worlds-end.json](./177333-aious-worlds-end.json) |
 | AiPri Verse | 284922 | [284922-aipri-verse.json](./284922-aipri-verse.json) |
 | Air | 270385 | [270385-air.json](./270385-air.json) |
 | Air | 270403 | [270403-air.json](./270403-air.json) |
@@ -3184,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Elaborate History of Chess | 250293 | [250293-an-elaborate-history-of-chess.json](./250293-an-elaborate-history-of-chess.json) |
 | An Elder Scrolls Legend: Battlespire | 54 | [54-an-elder-scrolls-legend-battlespire.json](./54-an-elder-scrolls-legend-battlespire.json) |
 | An Elmwood Trail | 243410 | [243410-an-elmwood-trail.json](./243410-an-elmwood-trail.json) |
+| An Empty Castle: Laputa | 177305 | [177305-an-empty-castle-laputa.json](./177305-an-empty-castle-laputa.json) |
 | An Empty House | 360730 | [360730-an-empty-house.json](./360730-an-empty-house.json) |
 | An English Haunting | 258723 | [258723-an-english-haunting.json](./258723-an-english-haunting.json) |
 | An Eternity Gone By | 294276 | [294276-an-eternity-gone-by.json](./294276-an-eternity-gone-by.json) |
@@ -3646,6 +3650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals | 203527 | [203527-animals.json](./203527-animals.json) |
 | Animals | 314287 | [314287-animals.json](./314287-animals.json) |
 | Animals Collision | 199375 | [199375-animals-collision.json](./199375-animals-collision.json) |
+| Animals In Buildings | 177311 | [177311-animals-in-buildings.json](./177311-animals-in-buildings.json) |
 | Animals In The City | 293219 | [293219-animals-in-the-city.json](./293219-animals-in-the-city.json) |
 | Animals on the Loose: A You vs. Wild Movie | 256867 | [256867-animals-on-the-loose-a-you-vs-wild-movie.json](./256867-animals-on-the-loose-a-you-vs-wild-movie.json) |
 | Animals Transport Simulator | 201692 | [201692-animals-transport-simulator.json](./201692-animals-transport-simulator.json) |
@@ -5106,6 +5111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid: Eternal Battle | 204506 | [204506-arkanoid-eternal-battle.json](./204506-arkanoid-eternal-battle.json) |
 | Arkanoid: Revenge of Doh | 11756 | [11756-arkanoid-revenge-of-doh.json](./11756-arkanoid-revenge-of-doh.json) |
 | ArkanoidSmoking | 54452 | [54452-arkanoidsmoking.json](./54452-arkanoidsmoking.json) |
+| Arken | 177337 | [177337-arken.json](./177337-arken.json) |
 | Arkfront | 182204 | [182204-arkfront.json](./182204-arkfront.json) |
 | Arkham Detective | 278178 | [278178-arkham-detective.json](./278178-arkham-detective.json) |
 | Arkhangel: The House of the Seven Stars | 104175 | [104175-arkhangel-the-house-of-the-seven-stars.json](./104175-arkhangel-the-house-of-the-seven-stars.json) |
@@ -5420,6 +5426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artisan | 190096 | [190096-artisan.json](./190096-artisan.json) |
 | Artisan Story | 260215 | [260215-artisan-story.json](./260215-artisan-story.json) |
 | Artist Colony | 23284 | [23284-artist-colony.json](./23284-artist-colony.json) |
+| Artists of a Dead World | 177307 | [177307-artists-of-a-dead-world.json](./177307-artists-of-a-dead-world.json) |
 | Artists of Fortune: Distant Worlds - Crystallus Planet | 148349 | [148349-artists-of-fortune-distant-worlds-crystallus-planet.json](./148349-artists-of-fortune-distant-worlds-crystallus-planet.json) |
 | Artists of Fortune: Distant Worlds - Ferrum Planet | 148350 | [148350-artists-of-fortune-distant-worlds-ferrum-planet.json](./148350-artists-of-fortune-distant-worlds-ferrum-planet.json) |
 | Artists of Fortune: Distant Worlds - Fulgur Planet | 148348 | [148348-artists-of-fortune-distant-worlds-fulgur-planet.json](./148348-artists-of-fortune-distant-worlds-fulgur-planet.json) |
