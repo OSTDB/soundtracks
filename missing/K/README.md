@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Survivors | 395039 | [395039-kawaii-survivors.json](./395039-kawaii-survivors.json) |
 | KawaiiDungeon: Rise of a Goddess | 225762 | [225762-kawaiidungeon-rise-of-a-goddess.json](./225762-kawaiidungeon-rise-of-a-goddess.json) |
 | Kawaiiju | 176427 | [176427-kawaiiju.json](./176427-kawaiiju.json) |
+| KawaiiNihongo | 225620 | [225620-kawaiinihongo.json](./225620-kawaiinihongo.json) |
 | Kawairun | 332634 | [332634-kawairun.json](./332634-kawairun.json) |
 | Kawanakajima Ibunroku | 255106 | [255106-kawanakajima-ibunroku.json](./255106-kawanakajima-ibunroku.json) |
 | Kawasaki Jet Ski Watercraft | 78659 | [78659-kawasaki-jet-ski-watercraft.json](./78659-kawasaki-jet-ski-watercraft.json) |
