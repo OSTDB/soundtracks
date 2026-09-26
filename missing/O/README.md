@@ -1533,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opposites | 202775 | [202775-opposites.json](./202775-opposites.json) |
 | Opposoddo | 184384 | [184384-opposoddo.json](./184384-opposoddo.json) |
 | Opposyte | 258459 | [258459-opposyte.json](./258459-opposyte.json) |
+| Oppressiv Light | 180606 | [180606-oppressiv-light.json](./180606-oppressiv-light.json) |
 | Opps! They Love Me Way Too Much! | 292163 | [292163-opps-they-love-me-way-too-much.json](./292163-opps-they-love-me-way-too-much.json) |
 | Oprost | 380109 | [380109-oprost.json](./380109-oprost.json) |
 | Opscam | 337156 | [337156-opscam.json](./337156-opscam.json) |
