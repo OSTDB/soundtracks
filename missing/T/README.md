@@ -2850,6 +2850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Call of Krul'ar | 200639 | [200639-the-call-of-krular.json](./200639-the-call-of-krular.json) |
 | The Call of the Rats | 300702 | [300702-the-call-of-the-rats.json](./300702-the-call-of-the-rats.json) |
 | The Callisto Protocol: Contagion Bundle | 241958 | [241958-the-callisto-protocol-contagion-bundle.json](./241958-the-callisto-protocol-contagion-bundle.json) |
+| The Callisto Protocol: Digital Deluxe Edition | 205001 | [205001-the-callisto-protocol-digital-deluxe-edition.json](./205001-the-callisto-protocol-digital-deluxe-edition.json) |
 | The Callisto Protocol: Outer Way Skin Collection | 308274 | [308274-the-callisto-protocol-outer-way-skin-collection.json](./308274-the-callisto-protocol-outer-way-skin-collection.json) |
 | The Callisto Protocol: Riot Bundle | 272560 | [272560-the-callisto-protocol-riot-bundle.json](./272560-the-callisto-protocol-riot-bundle.json) |
 | The Campaign Series: Fall Weiss | 36457 | [36457-the-campaign-series-fall-weiss.json](./36457-the-campaign-series-fall-weiss.json) |
@@ -4641,6 +4642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Food Racing | 377709 | [377709-the-jumping-food-racing.json](./377709-the-jumping-food-racing.json) |
 | The Jumping Food Racing 2 | 380407 | [380407-the-jumping-food-racing-2.json](./380407-the-jumping-food-racing-2.json) |
 | The Jumping Fries | 204078 | [204078-the-jumping-fries.json](./204078-the-jumping-fries.json) |
+| The Jumping Hot Dog | 204996 | [204996-the-jumping-hot-dog.json](./204996-the-jumping-hot-dog.json) |
 | The Jumping Ice Cream | 216357 | [216357-the-jumping-ice-cream.json](./216357-the-jumping-ice-cream.json) |
 | The Jumping Ice Cream: Turbo | 217808 | [217808-the-jumping-ice-cream-turbo.json](./217808-the-jumping-ice-cream-turbo.json) |
 | The Jumping Kebab: Turbo | 213350 | [213350-the-jumping-kebab-turbo.json](./213350-the-jumping-kebab-turbo.json) |
@@ -4793,6 +4795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land Before Time: Preschool Adventure | 329647 | [329647-the-land-before-time-preschool-adventure.json](./329647-the-land-before-time-preschool-adventure.json) |
 | The Land Before Time: Toddler Time | 329648 | [329648-the-land-before-time-toddler-time.json](./329648-the-land-before-time-toddler-time.json) |
 | The Land Forgotten | 381730 | [381730-the-land-forgotten.json](./381730-the-land-forgotten.json) |
+| The Land of Alembrume | 204983 | [204983-the-land-of-alembrume.json](./204983-the-land-of-alembrume.json) |
 | The Land of Dasthir | 30898 | [30898-the-land-of-dasthir.json](./30898-the-land-of-dasthir.json) |
 | The Land of Lamia | 34838 | [34838-the-land-of-lamia.json](./34838-the-land-of-lamia.json) |
 | The Land of Morning Calm | 358888 | [358888-the-land-of-morning-calm.json](./358888-the-land-of-morning-calm.json) |
@@ -5274,6 +5277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lizard King | 239154 | [239154-the-lizard-king.json](./239154-the-lizard-king.json) |
 | The Llama | 387343 | [387343-the-llama.json](./387343-the-llama.json) |
 | The Llama L | 214476 | [214476-the-llama-l.json](./214476-the-llama-l.json) |
+| The Lobster Game | 204980 | [204980-the-lobster-game.json](./204980-the-lobster-game.json) |
 | The Lodge | 158190 | [158190-the-lodge.json](./158190-the-lodge.json) |
 | The Lone Alien | 237079 | [237079-the-lone-alien.json](./237079-the-lone-alien.json) |
 | The Lone Chameleon | 87994 | [87994-the-lone-chameleon.json](./87994-the-lone-chameleon.json) |
@@ -9103,6 +9107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Rider | 35625 | [35625-tile-rider.json](./35625-tile-rider.json) |
 | Tile Snap | 230227 | [230227-tile-snap.json](./230227-tile-snap.json) |
 | Tile Star 2 | 233080 | [233080-tile-star-2.json](./233080-tile-star-2.json) |
+| Tile Tale | 204975 | [204975-tile-tale.json](./204975-tile-tale.json) |
 | Tile Tales: Pirate | 325250 | [325250-tile-tales-pirate.json](./325250-tile-tales-pirate.json) |
 | Tile Triple 3D | 227509 | [227509-tile-triple-3d.json](./227509-tile-triple-3d.json) |
 | Tile World | 131408 | [131408-tile-world.json](./131408-tile-world.json) |
@@ -10640,6 +10645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Gensou Clicker | 135277 | [135277-touhou-gensou-clicker.json](./135277-touhou-gensou-clicker.json) |
 | Touhou Gensou Eclipse | 266899 | [266899-touhou-gensou-eclipse.json](./266899-touhou-gensou-eclipse.json) |
 | Touhou Gensou Mahjong | 117744 | [117744-touhou-gensou-mahjong.json](./117744-touhou-gensou-mahjong.json) |
+| Touhou Gensou Rambu: Yuujou, Uragiri, Shouri | 204997 | [204997-touhou-gensou-rambu-yuujou-uragiri-shouri.json](./204997-touhou-gensou-rambu-yuujou-uragiri-shouri.json) |
 | Touhou Gyakumyouran: Ephemeral Unnatural Balance | 246675 | [246675-touhou-gyakumyouran-ephemeral-unnatural-balance.json](./246675-touhou-gyakumyouran-ephemeral-unnatural-balance.json) |
 | Touhou Hakujinki: White Names Spoiled Past | 246674 | [246674-touhou-hakujinki-white-names-spoiled-past.json](./246674-touhou-hakujinki-white-names-spoiled-past.json) |
 | Touhou Hangyaku Geki Sakuya's Counterattack | 371271 | [371271-touhou-hangyaku-geki-sakuyas-counterattack.json](./371271-touhou-hangyaku-geki-sakuyas-counterattack.json) |
