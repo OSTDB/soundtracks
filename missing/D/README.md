@@ -985,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DataFall | 393464 | [393464-datafall.json](./393464-datafall.json) |
 | Dataflow | 112353 | [112353-dataflow.json](./112353-dataflow.json) |
 | Datahit | 185560 | [185560-datahit.json](./185560-datahit.json) |
+| Dataminer | 183876 | [183876-dataminer.json](./183876-dataminer.json) |
 | Datascape | 96128 | [96128-datascape.json](./96128-datascape.json) |
 | Date A Live: Ren Dystopia | 114150 | [114150-date-a-live-ren-dystopia.json](./114150-date-a-live-ren-dystopia.json) |
 | Date A Live: Ren Dystopia - Limited Edition | 114151 | [114151-date-a-live-ren-dystopia-limited-edition.json](./114151-date-a-live-ren-dystopia-limited-edition.json) |
@@ -2647,6 +2648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depths of Providence | 412560 | [412560-depths-of-providence.json](./412560-depths-of-providence.json) |
 | Depths of Sanity | 55071 | [55071-depths-of-sanity.json](./55071-depths-of-sanity.json) |
 | Depths Unseen | 365271 | [365271-depths-unseen.json](./365271-depths-unseen.json) |
+| Depthscraper | 183890 | [183890-depthscraper.json](./183890-depthscraper.json) |
 | Deputy Arsh | 329192 | [329192-deputy-arsh.json](./329192-deputy-arsh.json) |
 | Deputy Den | 346751 | [346751-deputy-den.json](./346751-deputy-den.json) |
 | Dequivsia | 326603 | [326603-dequivsia.json](./326603-dequivsia.json) |
@@ -4402,6 +4404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Not Feed the Monkeys | 52014 | [52014-do-not-feed-the-monkeys.json](./52014-do-not-feed-the-monkeys.json) |
 | Do Not Kill Me Jacob!! JAM Ver. | 176482 | [176482-do-not-kill-me-jacob-jam-ver.json](./176482-do-not-kill-me-jacob-jam-ver.json) |
 | Do Not Look at the Moon | 309360 | [309360-do-not-look-at-the-moon.json](./309360-do-not-look-at-the-moon.json) |
+| Do Not Open | 183869 | [183869-do-not-open.json](./183869-do-not-open.json) |
 | Do Not Touch | 266518 | [266518-do-not-touch.json](./266518-do-not-touch.json) |
 | Do or Die: Frontal Warfare | 329166 | [329166-do-or-die-frontal-warfare.json](./329166-do-or-die-frontal-warfare.json) |
 | Do or Die: Hunt to Survive | 235975 | [235975-do-or-die-hunt-to-survive.json](./235975-do-or-die-hunt-to-survive.json) |
@@ -5441,6 +5444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Zags | 175266 | [175266-double-zags.json](./175266-double-zags.json) |
 | Double-Entry Bookkeeping Simulator | 188549 | [188549-double-entry-bookkeeping-simulator.json](./188549-double-entry-bookkeeping-simulator.json) |
 | DoubleClutch 2: Basketball | 266262 | [266262-doubleclutch-2-basketball.json](./266262-doubleclutch-2-basketball.json) |
+| DoubleMe | 183896 | [183896-doubleme.json](./183896-doubleme.json) |
 | DoubleShake | 142481 | [142481-doubleshake.json](./142481-doubleshake.json) |
 | Doubts | 179613 | [179613-doubts.json](./179613-doubts.json) |
 | Doubutsu no Mori Card e+: Series 1 | 356647 | [356647-doubutsu-no-mori-card-e-series-1.json](./356647-doubutsu-no-mori-card-e-series-1.json) |
