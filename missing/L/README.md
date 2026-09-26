@@ -1093,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary DXP | 69357 | [69357-legendary-dxp.json](./69357-legendary-dxp.json) |
 | Legendary Fishing | 110788 | [110788-legendary-fishing.json](./110788-legendary-fishing.json) |
 | Legendary Heroes Unchained | 324106 | [324106-legendary-heroes-unchained.json](./324106-legendary-heroes-unchained.json) |
+| Legendary Hoplite | 216738 | [216738-legendary-hoplite.json](./216738-legendary-hoplite.json) |
 | Legendary Larry | 224022 | [224022-legendary-larry.json](./224022-legendary-larry.json) |
 | Legendary Mahjong | 53269 | [53269-legendary-mahjong.json](./53269-legendary-mahjong.json) |
 | Legendary Master Idle | 251233 | [251233-legendary-master-idle.json](./251233-legendary-master-idle.json) |
@@ -3000,6 +3001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopy Treasure | 180764 | [180764-loopy-treasure.json](./180764-loopy-treasure.json) |
 | Loopy Wizard | 200138 | [200138-loopy-wizard.json](./200138-loopy-wizard.json) |
 | Loopy's Train Set | 367617 | [367617-loopys-train-set.json](./367617-loopys-train-set.json) |
+| Loose Life | 216711 | [216711-loose-life.json](./216711-loose-life.json) |
 | Loose Lips(Side:foggy) | 151709 | [151709-loose-lips-side-foggy.json](./151709-loose-lips-side-foggy.json) |
 | Loose the Moose | 225290 | [225290-loose-the-moose.json](./225290-loose-the-moose.json) |
 | Loot & Legends | 22354 | [22354-loot-and-legends.json](./22354-loot-and-legends.json) |
