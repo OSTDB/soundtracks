@@ -5113,6 +5113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Shop Simulator | 290953 | [290953-potion-shop-simulator.json](./290953-potion-shop-simulator.json) |
 | Potion Slingers | 248036 | [248036-potion-slingers.json](./248036-potion-slingers.json) |
 | Potion Stand Story | 316809 | [316809-potion-stand-story.json](./316809-potion-stand-story.json) |
+| Potion Wilds | 216713 | [216713-potion-wilds.json](./216713-potion-wilds.json) |
 | Potionomics: Boss Finn Content Pack | 360595 | [360595-potionomics-boss-finn-content-pack.json](./360595-potionomics-boss-finn-content-pack.json) |
 | Potions & Emotions | 264683 | [264683-potions-and-emotions.json](./264683-potions-and-emotions.json) |
 | Potions War | 201802 | [201802-potions-war.json](./201802-potions-war.json) |
