@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Dragoon Voyage Record | 330321 | [330321-panzer-dragoon-voyage-record.json](./330321-panzer-dragoon-voyage-record.json) |
 | Panzer Dragoon: Remake | 113350 | [113350-panzer-dragoon-remake.json](./113350-panzer-dragoon-remake.json) |
 | Panzer General III: Scorched Earth | 24154 | [24154-panzer-general-iii-scorched-earth.json](./24154-panzer-general-iii-scorched-earth.json) |
+| Panzer Girls | 203801 | [203801-panzer-girls.json](./203801-panzer-girls.json) |
 | Panzer Hearts | 99020 | [99020-panzer-hearts.json](./99020-panzer-hearts.json) |
 | Panzer Killer | 41978 | [41978-panzer-killer.json](./41978-panzer-killer.json) |
 | Panzer Marshal | 176432 | [176432-panzer-marshal.json](./176432-panzer-marshal.json) |
