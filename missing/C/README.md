@@ -1873,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caves of Qud: Pets of Harvest Dawn | 389407 | [389407-caves-of-qud-pets-of-harvest-dawn.json](./389407-caves-of-qud-pets-of-harvest-dawn.json) |
 | Caves, Canyons & Crevices | 271774 | [271774-caves-canyons-and-crevices.json](./271774-caves-canyons-and-crevices.json) |
 | Cavescape | 317012 | [317012-cavescape.json](./317012-cavescape.json) |
+| Caveshifter | 216759 | [216759-caveshifter.json](./216759-caveshifter.json) |
 | Cavesweeper | 103816 | [103816-cavesweeper.json](./103816-cavesweeper.json) |
 | Caveworks | 383522 | [383522-caveworks.json](./383522-caveworks.json) |
 | Cavy Chronicles | 281984 | [281984-cavy-chronicles.json](./281984-cavy-chronicles.json) |
@@ -6092,6 +6093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozmic Fantasy 2: Bouken Shounen Pan | 251628 | [251628-cozmic-fantasy-2-bouken-shounen-pan.json](./251628-cozmic-fantasy-2-bouken-shounen-pan.json) |
 | Cozy | 179745 | [179745-cozy.json](./179745-cozy.json) |
 | Cozy Bay Hike | 395219 | [395219-cozy-bay-hike.json](./395219-cozy-bay-hike.json) |
+| Cozy Cabin | 216715 | [216715-cozy-cabin.json](./216715-cozy-cabin.json) |
 | Cozy Cabin: Coffee Boutique | 252241 | [252241-cozy-cabin-coffee-boutique.json](./252241-cozy-cabin-coffee-boutique.json) |
 | Cozy Campzone | 301994 | [301994-cozy-campzone.json](./301994-cozy-campzone.json) |
 | Cozy Caravan | 290500 | [290500-cozy-caravan.json](./290500-cozy-caravan.json) |
@@ -7053,6 +7055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Code Chronicles | 294285 | [294285-crown-code-chronicles.json](./294285-crown-code-chronicles.json) |
 | Crown Land | 159844 | [159844-crown-land.json](./159844-crown-land.json) |
 | Crown of Arthain | 129812 | [129812-crown-of-arthain.json](./129812-crown-of-arthain.json) |
+| Crown of Greed | 216725 | [216725-crown-of-greed.json](./216725-crown-of-greed.json) |
 | Crown of Hispania | 403203 | [403203-crown-of-hispania.json](./403203-crown-of-hispania.json) |
 | Crown of Light | 249846 | [249846-crown-of-light.json](./249846-crown-of-light.json) |
 | Crown of Pain | 192880 | [192880-crown-of-pain.json](./192880-crown-of-pain.json) |
@@ -8099,6 +8102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cycle Idle RPG | 272253 | [272253-cycle-idle-rpg.json](./272253-cycle-idle-rpg.json) |
 | Cycle of Eternity: Space Anomaly | 90686 | [90686-cycle-of-eternity-space-anomaly.json](./90686-cycle-of-eternity-space-anomaly.json) |
 | Cycle of Steel | 339360 | [339360-cycle-of-steel.json](./339360-cycle-of-steel.json) |
+| Cycle of the Moon | 216757 | [216757-cycle-of-the-moon.json](./216757-cycle-of-the-moon.json) |
 | Cycle Warriors | 39828 | [39828-cycle-warriors.json](./39828-cycle-warriors.json) |
 | Cyclic | 232660 | [232660-cyclic.json](./232660-cyclic.json) |
 | Cycling 2013 | 175370 | [175370-cycling-2013.json](./175370-cycling-2013.json) |
