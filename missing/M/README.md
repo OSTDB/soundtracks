@@ -3051,6 +3051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X: cadê o chão, Sharivan? | 268420 | [268420-mega-man-x-cade-o-chao-sharivan.json](./268420-mega-man-x-cade-o-chao-sharivan.json) |
 | Mega Man X: Command Mission | 1751 | [1751-mega-man-x-command-mission.json](./1751-mega-man-x-command-mission.json) |
 | Mega Man X: Command Mission | 416112 | [416112-mega-man-x-command-mission.json](./416112-mega-man-x-command-mission.json) |
+| Mega Man X: Generation | 213895 | [213895-mega-man-x-generation.json](./213895-mega-man-x-generation.json) |
 | Mega Man X: Hard Edition | 268422 | [268422-mega-man-x-hard-edition.json](./268422-mega-man-x-hard-edition.json) |
 | Mega Man X: Hard-Type | 268429 | [268429-mega-man-x-hard-type.json](./268429-mega-man-x-hard-type.json) |
 | Mega Man X: Legacy Collection | 96252 | [96252-mega-man-x-legacy-collection.json](./96252-mega-man-x-legacy-collection.json) |
@@ -6397,6 +6398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument | 260138 | [260138-monument.json](./260138-monument.json) |
 | Monument Builders: Big Ben | 294445 | [294445-monument-builders-big-ben.json](./294445-monument-builders-big-ben.json) |
 | Monument Builders: Cathedral Rising | 294444 | [294444-monument-builders-cathedral-rising.json](./294444-monument-builders-cathedral-rising.json) |
+| Monument Journey: Nitro | 213898 | [213898-monument-journey-nitro.json](./213898-monument-journey-nitro.json) |
 | Monument Valley | 8900 | [8900-monument-valley.json](./8900-monument-valley.json) |
 | Monument Valley II: The Lost Forest | 255779 | [255779-monument-valley-ii-the-lost-forest.json](./255779-monument-valley-ii-the-lost-forest.json) |
 | Monument Valley: Panoramic Edition | 203331 | [203331-monument-valley-panoramic-edition.json](./203331-monument-valley-panoramic-edition.json) |
@@ -6545,6 +6547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonwalker: The Computer Game | 67952 | [67952-moonwalker-the-computer-game.json](./67952-moonwalker-the-computer-game.json) |
 | Moony Mayhem: Cheeks Unleashed | 406818 | [406818-moony-mayhem-cheeks-unleashed.json](./406818-moony-mayhem-cheeks-unleashed.json) |
 | Moony: Black_Lotus | 326226 | [326226-moony-black-lotus.json](./326226-moony-black-lotus.json) |
+| Moonyolk | 213914 | [213914-moonyolk.json](./213914-moonyolk.json) |
 | Mooon | 184652 | [184652-mooon.json](./184652-mooon.json) |
 | Mooon | 276742 | [276742-mooon.json](./276742-mooon.json) |
 | Moop | 179665 | [179665-moop.json](./179665-moop.json) |
@@ -7297,6 +7300,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Holmes: The Monster of the Baskervilles - Collector's Edition | 119688 | [119688-ms-holmes-the-monster-of-the-baskervilles-collectors-edition.json](./119688-ms-holmes-the-monster-of-the-baskervilles-collectors-edition.json) |
 | Ms. Match | 313866 | [313866-ms-match.json](./313866-ms-match.json) |
 | Ms. Pac Person | 209155 | [209155-ms-pac-person.json](./209155-ms-pac-person.json) |
+| Ms. Pac-Man | 213870 | [213870-ms-pac-man.json](./213870-ms-pac-man.json) |
+| Ms. Pac-Man | 213871 | [213871-ms-pac-man.json](./213871-ms-pac-man.json) |
+| Ms. Pac-Man | 213872 | [213872-ms-pac-man.json](./213872-ms-pac-man.json) |
+| Ms. Pac-Man | 213874 | [213874-ms-pac-man.json](./213874-ms-pac-man.json) |
+| Ms. Pac-Man | 213877 | [213877-ms-pac-man.json](./213877-ms-pac-man.json) |
 | Ms. Pac-Man | 219011 | [219011-ms-pac-man.json](./219011-ms-pac-man.json) |
 | Ms. Pac-Man for iPad | 88813 | [88813-ms-pac-man-for-ipad.json](./88813-ms-pac-man-for-ipad.json) |
 | Ms. Pac-Man: Maze Madness | 239193 | [239193-ms-pac-man-maze-madness.json](./239193-ms-pac-man-maze-madness.json) |
