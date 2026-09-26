@@ -2095,6 +2095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texas Hold 'em Tournament | 21293 | [21293-texas-hold-em-tournament.json](./21293-texas-hold-em-tournament.json) |
 | Texas Hold'em | 137058 | [137058-texas-holdem.json](./137058-texas-holdem.json) |
 | Texas Hold'Em | 246381 | [246381-texas-holdem.json](./246381-texas-holdem.json) |
+| Texas Hold'em Poker DS | 208344 | [208344-texas-holdem-poker-ds.json](./208344-texas-holdem-poker-ds.json) |
 | Texas Solitaire Cube | 125938 | [125938-texas-solitaire-cube.json](./125938-texas-solitaire-cube.json) |
 | Texplore | 383946 | [383946-texplore.json](./383946-texplore.json) |
 | Text | 110635 | [110635-text.json](./110635-text.json) |
@@ -5758,6 +5759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The New Sheriff | 316796 | [316796-the-new-sheriff.json](./316796-the-new-sheriff.json) |
 | The New Universes: Eine Neue Reise Beginnt - Chapter 1 | 120391 | [120391-the-new-universes-eine-neue-reise-beginnt-chapter-1.json](./120391-the-new-universes-eine-neue-reise-beginnt-chapter-1.json) |
 | The New York Times Simulator | 294777 | [294777-the-new-york-times-simulator.json](./294777-the-new-york-times-simulator.json) |
+| The Newton Mystery | 208332 | [208332-the-newton-mystery.json](./208332-the-newton-mystery.json) |
 | The NewZealand Story | 7628 | [7628-the-newzealand-story.json](./7628-the-newzealand-story.json) |
 | The Next Big Thing | 10958 | [10958-the-next-big-thing.json](./10958-the-next-big-thing.json) |
 | The Next Big Thing | 264879 | [264879-the-next-big-thing.json](./264879-the-next-big-thing.json) |
@@ -5771,6 +5773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night Owl Murder | 260086 | [260086-the-night-owl-murder.json](./260086-the-night-owl-murder.json) |
 | The Night Ripper | 125259 | [125259-the-night-ripper.json](./125259-the-night-ripper.json) |
 | The Night Shift | 258416 | [258416-the-night-shift.json](./258416-the-night-shift.json) |
+| The night spoke our names | 208310 | [208310-the-night-spoke-our-names.json](./208310-the-night-spoke-our-names.json) |
 | The Nightfall Incident | 182525 | [182525-the-nightfall-incident.json](./182525-the-nightfall-incident.json) |
 | The Nightmare | 24860 | [24860-the-nightmare.json](./24860-the-nightmare.json) |
 | The Nightmare Accord | 289976 | [289976-the-nightmare-accord.json](./289976-the-nightmare-accord.json) |
@@ -7869,6 +7872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatrhythm: Final Bar Line - The World Ends with You Pack | 354521 | [354521-theatrhythm-final-bar-line-the-world-ends-with-you-pack.json](./354521-theatrhythm-final-bar-line-the-world-ends-with-you-pack.json) |
 | Theatrhythm: Final Bar Line - Xenogears Pack | 354511 | [354511-theatrhythm-final-bar-line-xenogears-pack.json](./354511-theatrhythm-final-bar-line-xenogears-pack.json) |
 | Theatrics | 260678 | [260678-theatrics.json](./260678-theatrics.json) |
+| TheBeanstalk | 208327 | [208327-thebeanstalk.json](./208327-thebeanstalk.json) |
 | Thebes | 312201 | [312201-thebes.json](./312201-thebes.json) |
 | TheBestiary | 196894 | [196894-thebestiary.json](./196894-thebestiary.json) |
 | theBlu | 19067 | [19067-theblu.json](./19067-theblu.json) |
@@ -8371,6 +8375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderbirds | 83247 | [83247-thunderbirds.json](./83247-thunderbirds.json) |
 | Thunderblade Saga | 277589 | [277589-thunderblade-saga.json](./277589-thunderblade-saga.json) |
 | Thunderbolt | 88236 | [88236-thunderbolt.json](./88236-thunderbolt.json) |
+| Thunderbolt Boxing | 208336 | [208336-thunderbolt-boxing.json](./208336-thunderbolt-boxing.json) |
 | Thunderbolt Poker | 227875 | [227875-thunderbolt-poker.json](./227875-thunderbolt-poker.json) |
 | Thunderbolts and Lightning! | 277954 | [277954-thunderbolts-and-lightning.json](./277954-thunderbolts-and-lightning.json) |
 | ThunderCats | 8060 | [8060-thundercats.json](./8060-thundercats.json) |
@@ -9210,6 +9215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Parallax: The Burial Vault | 262291 | [262291-time-parallax-the-burial-vault.json](./262291-time-parallax-the-burial-vault.json) |
 | Time Pilot | 246402 | [246402-time-pilot.json](./246402-time-pilot.json) |
 | Time Pilot Demake | 303780 | [303780-time-pilot-demake.json](./303780-time-pilot-demake.json) |
+| Time Raiders | 208321 | [208321-time-raiders.json](./208321-time-raiders.json) |
 | Time Raiders | 252232 | [252232-time-raiders.json](./252232-time-raiders.json) |
 | Time Ramesside | 9050 | [9050-time-ramesside.json](./9050-time-ramesside.json) |
 | Time Re:Quest | 329083 | [329083-time-re-quest.json](./329083-time-re-quest.json) |
@@ -11428,6 +11434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Feather River Canyon Enhanced: Oroville - Portola | 293691 | [293691-train-simulator-feather-river-canyon-enhanced-oroville-portola.json](./293691-train-simulator-feather-river-canyon-enhanced-oroville-portola.json) |
 | Train Simulator: London Subway | 103448 | [103448-train-simulator-london-subway.json](./103448-train-simulator-london-subway.json) |
 | Train Simulator: London Subway | 103488 | [103488-train-simulator-london-subway.json](./103488-train-simulator-london-subway.json) |
+| Train Simulator: Long Island Rail Road - New York: Hicksville Route | 208337 | [208337-train-simulator-long-island-rail-road-new-york-hicksville-route.json](./208337-train-simulator-long-island-rail-road-new-york-hicksville-route.json) |
 | Train Simulator: Norfolk Southern SD70ACU | 265716 | [265716-train-simulator-norfolk-southern-sd70acu.json](./265716-train-simulator-norfolk-southern-sd70acu.json) |
 | Train Simulator: ÖBB 4748 | 306074 | [306074-train-simulator-obb-4748.json](./306074-train-simulator-obb-4748.json) |
 | Train Simulator: Payerbach - Wien Hbf Route Add-On | 306073 | [306073-train-simulator-payerbach-wien-hbf-route-add-on.json](./306073-train-simulator-payerbach-wien-hbf-route-add-on.json) |
@@ -11499,6 +11506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz 2019: SA AN Class - Australian National | 325039 | [325039-trainz-2019-sa-an-class-australian-national.json](./325039-trainz-2019-sa-an-class-australian-national.json) |
 | Trainz 2019: SA AN Class - Pacific National | 325025 | [325025-trainz-2019-sa-an-class-pacific-national.json](./325025-trainz-2019-sa-an-class-pacific-national.json) |
 | Trainz 2022: SA CL Class - RailPower Pack | 306100 | [306100-trainz-2022-sa-cl-class-railpower-pack.json](./306100-trainz-2022-sa-cl-class-railpower-pack.json) |
+| Trainz Plus DLC: Pro Train - Class 68 ScotRail | 208339 | [208339-trainz-plus-dlc-pro-train-class-68-scotrail.json](./208339-trainz-plus-dlc-pro-train-class-68-scotrail.json) |
 | Trainz Plus: Amtrak F40PH 2 pack | 205558 | [205558-trainz-plus-amtrak-f40ph-2-pack.json](./205558-trainz-plus-amtrak-f40ph-2-pack.json) |
 | Trainz Plus: Amtrak P42DC - Phase III | 205543 | [205543-trainz-plus-amtrak-p42dc-phase-iii.json](./205543-trainz-plus-amtrak-p42dc-phase-iii.json) |
 | Trainz Plus: Avery - Drexel Route | 205544 | [205544-trainz-plus-avery-drexel-route.json](./205544-trainz-plus-avery-drexel-route.json) |
@@ -11619,6 +11627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: PKP/PREG/PolRegio Bdhpumn/B16mnopux Pack | 190710 | [190710-trainz-railroad-simulator-2019-pkp-preg-polregio-bdhpumn-b16mnopux-pack.json](./190710-trainz-railroad-simulator-2019-pkp-preg-polregio-bdhpumn-b16mnopux-pack.json) |
 | Trainz Railroad Simulator 2019: Port Saturn | 288210 | [288210-trainz-railroad-simulator-2019-port-saturn.json](./288210-trainz-railroad-simulator-2019-port-saturn.json) |
 | Trainz Railroad Simulator 2019: Potteries Loop Line | 205042 | [205042-trainz-railroad-simulator-2019-potteries-loop-line.json](./205042-trainz-railroad-simulator-2019-potteries-loop-line.json) |
+| Trainz Railroad Simulator 2019: Pro Train - Class 68 ScotRail | 208341 | [208341-trainz-railroad-simulator-2019-pro-train-class-68-scotrail.json](./208341-trainz-railroad-simulator-2019-pro-train-class-68-scotrail.json) |
 | Trainz Railroad Simulator 2019: Pro Train - DB BR Class 85 001 | 211918 | [211918-trainz-railroad-simulator-2019-pro-train-db-br-class-85-001.json](./211918-trainz-railroad-simulator-2019-pro-train-db-br-class-85-001.json) |
 | Trainz Railroad Simulator 2019: Pro Train - DB Class 44 | 227274 | [227274-trainz-railroad-simulator-2019-pro-train-db-class-44.json](./227274-trainz-railroad-simulator-2019-pro-train-db-class-44.json) |
 | Trainz Railroad Simulator 2019: Pro Train - SD40-2 Loco Bundle 1 | 289475 | [289475-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-1.json](./289475-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-1.json) |
@@ -11667,6 +11676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: NR Class Locomotive - JBR Indian Pacific Pack | 284917 | [284917-trainz-railroad-simulator-2022-nr-class-locomotive-jbr-indian-pacific-pack.json](./284917-trainz-railroad-simulator-2022-nr-class-locomotive-jbr-indian-pacific-pack.json) |
 | Trainz Railroad Simulator 2022: Port Saturn | 288211 | [288211-trainz-railroad-simulator-2022-port-saturn.json](./288211-trainz-railroad-simulator-2022-port-saturn.json) |
 | Trainz Railroad Simulator 2022: Potteries Loop Line | 205040 | [205040-trainz-railroad-simulator-2022-potteries-loop-line.json](./205040-trainz-railroad-simulator-2022-potteries-loop-line.json) |
+| Trainz Railroad Simulator 2022: Pro Train - Class 68 ScotRail | 208340 | [208340-trainz-railroad-simulator-2022-pro-train-class-68-scotrail.json](./208340-trainz-railroad-simulator-2022-pro-train-class-68-scotrail.json) |
 | Trainz Railroad Simulator 2022: Pro Train - DB Class 44 | 227275 | [227275-trainz-railroad-simulator-2022-pro-train-db-class-44.json](./227275-trainz-railroad-simulator-2022-pro-train-db-class-44.json) |
 | Trainz Railroad Simulator 2022: Pro Train - SD40-2 Loco Bundle 1 | 289476 | [289476-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-1.json](./289476-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-1.json) |
 | Trainz Railroad Simulator 2022: Pro Train - SD40-2 Loco Bundle 2 | 292667 | [292667-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-2.json](./292667-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-2.json) |
