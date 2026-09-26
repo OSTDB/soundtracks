@@ -3665,6 +3665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot n Scroll 3D | 261518 | [261518-shoot-n-scroll-3d.json](./261518-shoot-n-scroll-3d.json) |
 | Shoot Out | 38561 | [38561-shoot-out.json](./38561-shoot-out.json) |
 | Shoot Paint | 334747 | [334747-shoot-paint.json](./334747-shoot-paint.json) |
+| Shoot Run | 213353 | [213353-shoot-run.json](./213353-shoot-run.json) |
 | Shoot Shoot Nitori the Golden | 202949 | [202949-shoot-shoot-nitori-the-golden.json](./202949-shoot-shoot-nitori-the-golden.json) |
 | Shoot the Aliens | 330846 | [330846-shoot-the-aliens.json](./330846-shoot-the-aliens.json) |
 | Shoot the Apple 2018 | 95842 | [95842-shoot-the-apple-2018.json](./95842-shoot-the-apple-2018.json) |
@@ -6676,6 +6677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitris | 273424 | [273424-solitris.json](./273424-solitris.json) |
 | Solitude | 163970 | [163970-solitude.json](./163970-solitude.json) |
 | Solitude | 287232 | [287232-solitude.json](./287232-solitude.json) |
+| Solitude Underwater | 213319 | [213319-solitude-underwater.json](./213319-solitude-underwater.json) |
 | Solium Infernum: Belphegor, Paragon of Impiety | 298101 | [298101-solium-infernum-belphegor-paragon-of-impiety.json](./298101-solium-infernum-belphegor-paragon-of-impiety.json) |
 | Sollarion | 238586 | [238586-sollarion.json](./238586-sollarion.json) |
 | Solm | 183079 | [183079-solm.json](./183079-solm.json) |
@@ -7467,6 +7469,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Grabber | 83537 | [83537-soul-grabber.json](./83537-soul-grabber.json) |
 | Soul Grinder | 184649 | [184649-soul-grinder.json](./184649-soul-grinder.json) |
 | Soul Guardians: Age of Midgard | 39177 | [39177-soul-guardians-age-of-midgard.json](./39177-soul-guardians-age-of-midgard.json) |
+| Soul Hackers 2: Digital Deluxe Edition | 213330 | [213330-soul-hackers-2-digital-deluxe-edition.json](./213330-soul-hackers-2-digital-deluxe-edition.json) |
+| Soul Hackers 2: Digital Premium Edition | 213331 | [213331-soul-hackers-2-digital-premium-edition.json](./213331-soul-hackers-2-digital-premium-edition.json) |
 | Soul Historica | 118181 | [118181-soul-historica.json](./118181-soul-historica.json) |
 | Soul Injector Commando | 322603 | [322603-soul-injector-commando.json](./322603-soul-injector-commando.json) |
 | Soul Interface | 302382 | [302382-soul-interface.json](./302382-soul-interface.json) |
@@ -7517,6 +7521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Symphony | 196878 | [196878-soul-symphony.json](./196878-soul-symphony.json) |
 | Soul Thief: A Wizard's Lizard 2 | 58771 | [58771-soul-thief-a-wizards-lizard-2.json](./58771-soul-thief-a-wizards-lizard-2.json) |
 | Soul Tolerance | 211757 | [211757-soul-tolerance.json](./211757-soul-tolerance.json) |
+| Soul Unleashed | 213335 | [213335-soul-unleashed.json](./213335-soul-unleashed.json) |
 | Soul Warden Professional Academy | 288829 | [288829-soul-warden-professional-academy.json](./288829-soul-warden-professional-academy.json) |
 | Soul Wizards & Rogulite | 290933 | [290933-soul-wizards-and-rogulite.json](./290933-soul-wizards-and-rogulite.json) |
 | Soul Worker Rush | 193850 | [193850-soul-worker-rush.json](./193850-soul-worker-rush.json) |
@@ -10297,6 +10302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Startup Freak | 74369 | [74369-startup-freak.json](./74369-startup-freak.json) |
 | Starva Saga | 391184 | [391184-starva-saga.json](./391184-starva-saga.json) |
 | Starvania: Tales Of The Past | 372498 | [372498-starvania-tales-of-the-past.json](./372498-starvania-tales-of-the-past.json) |
+| Starvation | 213360 | [213360-starvation.json](./213360-starvation.json) |
 | Starvault | 341684 | [341684-starvault.json](./341684-starvault.json) |
 | Starve.io | 79268 | [79268-starve-io.json](./79268-starve-io.json) |
 | Starward Rogue: Complete Edition | 283159 | [283159-starward-rogue-complete-edition.json](./283159-starward-rogue-complete-edition.json) |
@@ -14039,6 +14045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Bakery Tycoon: Complete Edition | 284931 | [284931-sweet-bakery-tycoon-complete-edition.json](./284931-sweet-bakery-tycoon-complete-edition.json) |
 | Sweet Bakery Tycoon: Expansion Pack 1 | 237913 | [237913-sweet-bakery-tycoon-expansion-pack-1.json](./237913-sweet-bakery-tycoon-expansion-pack-1.json) |
 | Sweet Bakery Tycoon: Expansion Pack 2 | 237914 | [237914-sweet-bakery-tycoon-expansion-pack-2.json](./237914-sweet-bakery-tycoon-expansion-pack-2.json) |
+| Sweet Bakery Tycoon: Extended Edition | 213345 | [213345-sweet-bakery-tycoon-extended-edition.json](./213345-sweet-bakery-tycoon-extended-edition.json) |
 | Sweet Bakery Tycoon: Super Edition | 315851 | [315851-sweet-bakery-tycoon-super-edition.json](./315851-sweet-bakery-tycoon-super-edition.json) |
 | Sweet Bakery Tycoon: Value Edition | 317243 | [317243-sweet-bakery-tycoon-value-edition.json](./317243-sweet-bakery-tycoon-value-edition.json) |
 | Sweet Bar | 392908 | [392908-sweet-bar.json](./392908-sweet-bar.json) |
