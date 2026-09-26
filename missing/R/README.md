@@ -1573,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Embrace: Paradisus | 186332 | [186332-red-embrace-paradisus.json](./186332-red-embrace-paradisus.json) |
 | Red Entity | 181917 | [181917-red-entity.json](./181917-red-entity.json) |
 | Red Eyes | 103195 | [103195-red-eyes.json](./103195-red-eyes.json) |
+| Red Faction | 215080 | [215080-red-faction.json](./215080-red-faction.json) |
 | Red Faction Collection | 53495 | [53495-red-faction-collection.json](./53495-red-faction-collection.json) |
 | Red Faction: B.E.A.S.T. | 264880 | [264880-red-faction-b-e-a-s-t.json](./264880-red-faction-b-e-a-s-t.json) |
 | Red Faction: Guerrilla - Steam Edition | 28988 | [28988-red-faction-guerrilla-steam-edition.json](./28988-red-faction-guerrilla-steam-edition.json) |
