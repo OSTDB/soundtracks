@@ -4869,6 +4869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby League Live | 41586 | [41586-rugby-league-live.json](./41586-rugby-league-live.json) |
 | Rugby League Live 2 | 41585 | [41585-rugby-league-live-2.json](./41585-rugby-league-live-2.json) |
 | Rugby League Live 2: Gold Edition | 197238 | [197238-rugby-league-live-2-gold-edition.json](./197238-rugby-league-live-2-gold-edition.json) |
+| Rugby League Live 2: World Cup Edition | 194940 | [194940-rugby-league-live-2-world-cup-edition.json](./194940-rugby-league-live-2-world-cup-edition.json) |
 | Rugby League Live 3 | 17623 | [17623-rugby-league-live-3.json](./17623-rugby-league-live-3.json) |
 | Rugby League Live 4 | 43061 | [43061-rugby-league-live-4.json](./43061-rugby-league-live-4.json) |
 | Rugby League Raw | 385080 | [385080-rugby-league-raw.json](./385080-rugby-league-raw.json) |
