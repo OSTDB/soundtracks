@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galacticraft | 232681 | [232681-galacticraft.json](./232681-galacticraft.json) |
 | Galacticverse | 275071 | [275071-galacticverse.json](./275071-galacticverse.json) |
 | Galactix | 381042 | [381042-galactix.json](./381042-galactix.json) |
+| Galactoids: Galactic Invaders | 217279 | [217279-galactoids-galactic-invaders.json](./217279-galactoids-galactic-invaders.json) |
 | Galactose: Pastries in Space | 109047 | [109047-galactose-pastries-in-space.json](./109047-galactose-pastries-in-space.json) |
 | Galador: The Prince and the Coward | 26484 | [26484-galador-the-prince-and-the-coward.json](./26484-galador-the-prince-and-the-coward.json) |
 | Galaforce | 13719 | [13719-galaforce.json](./13719-galaforce.json) |
@@ -691,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gapper | 57674 | [57674-gapper.json](./57674-gapper.json) |
 | Gappy's Adventure: Coinkeeper's Cantrip | 389129 | [389129-gappys-adventure-coinkeepers-cantrip.json](./389129-gappys-adventure-coinkeepers-cantrip.json) |
 | Gar-Type | 327351 | [327351-gar-type.json](./327351-gar-type.json) |
+| Garage Flipper | 217270 | [217270-garage-flipper.json](./217270-garage-flipper.json) |
 | Garage Mechanic Simulator | 124020 | [124020-garage-mechanic-simulator.json](./124020-garage-mechanic-simulator.json) |
 | Garage Works | 278417 | [278417-garage-works.json](./278417-garage-works.json) |
 | Garage: Bad Dream Adventure | 24947 | [24947-garage-bad-dream-adventure.json](./24947-garage-bad-dream-adventure.json) |
@@ -2078,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glusiverse | 304599 | [304599-glusiverse.json](./304599-glusiverse.json) |
 | Gluttony | 353979 | [353979-gluttony.json](./353979-gluttony.json) |
 | Gluua | 235698 | [235698-gluua.json](./235698-gluua.json) |
+| Glyde the Dragon | 217234 | [217234-glyde-the-dragon.json](./217234-glyde-the-dragon.json) |
 | Glyder: Adventure Worlds | 66110 | [66110-glyder-adventure-worlds.json](./66110-glyder-adventure-worlds.json) |
 | Glyph | 243075 | [243075-glyph.json](./243075-glyph.json) |
 | Glyph | 388223 | [388223-glyph.json](./388223-glyph.json) |
@@ -2172,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Kart Rally | 66944 | [66944-go-kart-rally.json](./66944-go-kart-rally.json) |
 | Go Long! | 136444 | [136444-go-long.json](./136444-go-long.json) |
 | Go Noodle | 275687 | [275687-go-noodle.json](./275687-go-noodle.json) |
+| Go Nutz | 217271 | [217271-go-nutz.json](./217271-go-nutz.json) |
 | Go Outside Simulator | 111491 | [111491-go-outside-simulator.json](./111491-go-outside-simulator.json) |
 | Go Over the Edge | 235755 | [235755-go-over-the-edge.json](./235755-go-over-the-edge.json) |
 | Go Plague Monkey! Go! | 60558 | [60558-go-plague-monkey-go.json](./60558-go-plague-monkey-go.json) |
@@ -2275,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Keep | 240717 | [240717-goblin-keep.json](./240717-goblin-keep.json) |
 | Goblin Path | 382446 | [382446-goblin-path.json](./382446-goblin-path.json) |
 | Goblin Quest: Escape! | 115648 | [115648-goblin-quest-escape.json](./115648-goblin-quest-escape.json) |
+| Goblin Rules Football | 217277 | [217277-goblin-rules-football.json](./217277-goblin-rules-football.json) |
 | Goblin Slayer | 335853 | [335853-goblin-slayer.json](./335853-goblin-slayer.json) |
 | Goblin Slayer Another Adventurer: Nightmare Feast | 230618 | [230618-goblin-slayer-another-adventurer-nightmare-feast.json](./230618-goblin-slayer-another-adventurer-nightmare-feast.json) |
 | Goblin Squad - Total Division | 116293 | [116293-goblin-squad-total-division.json](./116293-goblin-squad-total-division.json) |
@@ -2918,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic Remake Collector's Edition | 299293 | [299293-gothic-remake-collectors-edition.json](./299293-gothic-remake-collectors-edition.json) |
 | Gothic Survival | 201260 | [201260-gothic-survival.json](./201260-gothic-survival.json) |
 | Gothic: Playable Teaser | 333956 | [333956-gothic-playable-teaser.json](./333956-gothic-playable-teaser.json) |
+| Gothica: The Devil's Shadow | 217257 | [217257-gothica-the-devils-shadow.json](./217257-gothica-the-devils-shadow.json) |
 | GothicDM | 143039 | [143039-gothicdm.json](./143039-gothicdm.json) |
 | GothicDM 2 | 229939 | [229939-gothicdm-2.json](./229939-gothicdm-2.json) |
 | Gothwane Towers | 323376 | [323376-gothwane-towers.json](./323376-gothwane-towers.json) |
@@ -3966,6 +3972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Cloudia | 150083 | [150083-guardians-of-cloudia.json](./150083-guardians-of-cloudia.json) |
 | Guardians of Eden | 277360 | [277360-guardians-of-eden.json](./277360-guardians-of-eden.json) |
 | Guardians of Ember | 26692 | [26692-guardians-of-ember.json](./26692-guardians-of-ember.json) |
+| Guardians of Gaia | 217263 | [217263-guardians-of-gaia.json](./217263-guardians-of-gaia.json) |
 | Guardians Of Gaia: Guardians 8 | 266321 | [266321-guardians-of-gaia-guardians-8.json](./266321-guardians-of-gaia-guardians-8.json) |
 | Guardians of Greyrock | 151034 | [151034-guardians-of-greyrock.json](./151034-guardians-of-greyrock.json) |
 | Guardians of Magic: Amanda's Awakening | 19315 | [19315-guardians-of-magic-amandas-awakening.json](./19315-guardians-of-magic-amandas-awakening.json) |
@@ -4162,6 +4169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumslinger | 138594 | [138594-gumslinger.json](./138594-gumslinger.json) |
 | Gumtrix | 60761 | [60761-gumtrix.json](./60761-gumtrix.json) |
 | Gun & Girls.io | 200754 | [200754-gun-and-girls-io.json](./200754-gun-and-girls-io.json) |
+| Gun and Buckler | 217237 | [217237-gun-and-buckler.json](./217237-gun-and-buckler.json) |
 | Gun Beat | 113458 | [113458-gun-beat.json](./113458-gun-beat.json) |
 | Gun Blood Cowboy Duel | 103506 | [103506-gun-blood-cowboy-duel.json](./103506-gun-blood-cowboy-duel.json) |
 | Gun Breaker | 227258 | [227258-gun-breaker.json](./227258-gun-breaker.json) |
