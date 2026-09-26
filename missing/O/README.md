@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odyssee Die | 356843 | [356843-odyssee-die.json](./356843-odyssee-die.json) |
 | Odysseus Kosmos and his Robot Quest | 65838 | [65838-odysseus-kosmos-and-his-robot-quest.json](./65838-odysseus-kosmos-and-his-robot-quest.json) |
 | Odyssey Kingdoms Expansion | 344012 | [344012-odyssey-kingdoms-expansion.json](./344012-odyssey-kingdoms-expansion.json) |
+| Odyssey of Dremid'ir | 216747 | [216747-odyssey-of-dremidir.json](./216747-odyssey-of-dremidir.json) |
 | Odyssey of the Explorer | 302108 | [302108-odyssey-of-the-explorer.json](./302108-odyssey-of-the-explorer.json) |
 | Odyssey: Altar of Norax | 191159 | [191159-odyssey-altar-of-norax.json](./191159-odyssey-altar-of-norax.json) |
 | Odyssey: Realm of Echoes | 341499 | [341499-odyssey-realm-of-echoes.json](./341499-odyssey-realm-of-echoes.json) |
