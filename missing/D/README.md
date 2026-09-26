@@ -1673,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Architect | 215070 | [215070-death-architect.json](./215070-death-architect.json) |
 | Death at Sycamore Hall | 388250 | [388250-death-at-sycamore-hall.json](./388250-death-at-sycamore-hall.json) |
 | Death Becomes You: Yuri Onsen Vacation | 339370 | [339370-death-becomes-you-yuri-onsen-vacation.json](./339370-death-becomes-you-yuri-onsen-vacation.json) |
+| Death Below | 212744 | [212744-death-below.json](./212744-death-below.json) |
 | Death Bowl | 208598 | [208598-death-bowl.json](./208598-death-bowl.json) |
 | Death Burger | 364506 | [364506-death-burger.json](./364506-death-burger.json) |
 | Death By Chatter | 322934 | [322934-death-by-chatter.json](./322934-death-by-chatter.json) |
@@ -3286,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dickland: Racing | 259064 | [259064-dickland-racing.json](./259064-dickland-racing.json) |
 | Dickme Dicki | 202353 | [202353-dickme-dicki.json](./202353-dickme-dicki.json) |
 | Dictator | 78955 | [78955-dictator.json](./78955-dictator.json) |
+| Dictator's Creed | 212749 | [212749-dictators-creed.json](./212749-dictators-creed.json) |
 | Diction | 319124 | [319124-diction.json](./319124-diction.json) |
 | Dicy Chess | 299148 | [299148-dicy-chess.json](./299148-dicy-chess.json) |
 | Did You Scared | 195128 | [195128-did-you-scared.json](./195128-did-you-scared.json) |
@@ -5625,6 +5627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball RPG: Shounen-hen | 62726 | [62726-dragon-ball-rpg-shounen-hen.json](./62726-dragon-ball-rpg-shounen-hen.json) |
 | Dragon Ball Sparking Zero: Shallot (Dragon Ball Legends) | 366817 | [366817-dragon-ball-sparking-zero-shallot-dragon-ball-legends.json](./366817-dragon-ball-sparking-zero-shallot-dragon-ball-legends.json) |
 | Dragon Ball Super Card Game Fusion World | 292100 | [292100-dragon-ball-super-card-game-fusion-world.json](./292100-dragon-ball-super-card-game-fusion-world.json) |
+| Dragon Ball Super TCG | 212759 | [212759-dragon-ball-super-tcg.json](./212759-dragon-ball-super-tcg.json) |
 | Dragon Ball Xenoverse 2: Dragon Ball Daima Pack | 366824 | [366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json](./366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json) |
 | Dragon Ball Xenoverse 2: Lite Version | 116372 | [116372-dragon-ball-xenoverse-2-lite-version.json](./116372-dragon-ball-xenoverse-2-lite-version.json) |
 | Dragon Ball Z | 220086 | [220086-dragon-ball-z.json](./220086-dragon-ball-z.json) |
@@ -6138,6 +6141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Golf VR: Jungle Temple | 171006 | [171006-dream-golf-vr-jungle-temple.json](./171006-dream-golf-vr-jungle-temple.json) |
 | Dream Golf VR: Lighthouse Island | 171007 | [171007-dream-golf-vr-lighthouse-island.json](./171007-dream-golf-vr-lighthouse-island.json) |
 | Dream Hacker | 191084 | [191084-dream-hacker.json](./191084-dream-hacker.json) |
+| Dream Hearts Dream | 212765 | [212765-dream-hearts-dream.json](./212765-dream-hearts-dream.json) |
 | Dream Hollow | 350416 | [350416-dream-hollow.json](./350416-dream-hollow.json) |
 | Dream Home | 127082 | [127082-dream-home.json](./127082-dream-home.json) |
 | Dream Hopper | 200139 | [200139-dream-hopper.json](./200139-dream-hopper.json) |
@@ -6196,6 +6200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Univrse | 30784 | [30784-dream-univrse.json](./30784-dream-univrse.json) |
 | Dream Vacation | 229660 | [229660-dream-vacation.json](./229660-dream-vacation.json) |
 | Dream Village | 390229 | [390229-dream-village.json](./390229-dream-village.json) |
+| Dream vs. Dream | 212764 | [212764-dream-vs-dream.json](./212764-dream-vs-dream.json) |
 | Dream Walker | 365851 | [365851-dream-walker.json](./365851-dream-walker.json) |
 | Dream Warrior | 13612 | [13612-dream-warrior.json](./13612-dream-warrior.json) |
 | Dream Warrior | 307899 | [307899-dream-warrior.json](./307899-dream-warrior.json) |
