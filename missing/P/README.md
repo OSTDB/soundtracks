@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Laby 3D | 266250 | [266250-pac-laby-3d.json](./266250-pac-laby-3d.json) |
 | Pac-Land | 6822 | [6822-pac-land.json](./6822-pac-land.json) |
 | Pac-Maine | 79229 | [79229-pac-maine.json](./79229-pac-maine.json) |
+| Pac-Man | 198842 | [198842-pac-man.json](./198842-pac-man.json) |
 | Pac-Man | 204387 | [204387-pac-man.json](./204387-pac-man.json) |
 | Pac-Man | 213899 | [213899-pac-man.json](./213899-pac-man.json) |
 | Pac-Man | 213900 | [213900-pac-man.json](./213900-pac-man.json) |
@@ -702,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperback Adventures | 220621 | [220621-paperback-adventures.json](./220621-paperback-adventures.json) |
 | Paperback Vol. 2 | 207271 | [207271-paperback-vol-2.json](./207271-paperback-vol-2.json) |
 | Paperbound | 21849 | [21849-paperbound.json](./21849-paperbound.json) |
+| Paperboy | 198844 | [198844-paperboy.json](./198844-paperboy.json) |
 | Paperboy | 256079 | [256079-paperboy.json](./256079-paperboy.json) |
 | Paperboy | 256082 | [256082-paperboy.json](./256082-paperboy.json) |
 | Paperboy 2 | 307086 | [307086-paperboy-2.json](./307086-paperboy-2.json) |
