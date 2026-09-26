@@ -3248,6 +3248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hippo: Little Red Riding Hood | 233007 | [233007-hippo-little-red-riding-hood.json](./233007-hippo-little-red-riding-hood.json) |
 | Hippodrome | 39680 | [39680-hippodrome.json](./39680-hippodrome.json) |
 | Hippy Girls | 243062 | [243062-hippy-girls.json](./243062-hippy-girls.json) |
+| Hippy Skate | 183353 | [183353-hippy-skate.json](./183353-hippy-skate.json) |
 | Hippy's Quest | 78362 | [78362-hippys-quest.json](./78362-hippys-quest.json) |
 | Hipster Cafe | 99649 | [99649-hipster-cafe.json](./99649-hipster-cafe.json) |
 | Hira Hira Hihiru | 221418 | [221418-hira-hira-hihiru.json](./221418-hira-hira-hihiru.json) |
@@ -3692,6 +3693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Alone 2: Lost in New York | 243884 | [243884-home-alone-2-lost-in-new-york.json](./243884-home-alone-2-lost-in-new-york.json) |
 | Home Alone Survival | 365062 | [365062-home-alone-survival.json](./365062-home-alone-survival.json) |
 | Home Babysitter | 83265 | [83265-home-babysitter.json](./83265-home-babysitter.json) |
+| Home Before Dark | 183360 | [183360-home-before-dark.json](./183360-home-before-dark.json) |
 | Home Deco Builder | 334096 | [334096-home-deco-builder.json](./334096-home-deco-builder.json) |
 | Home Defender | 278538 | [278538-home-defender.json](./278538-home-defender.json) |
 | Home Design Makeover! | 90416 | [90416-home-design-makeover.json](./90416-home-design-makeover.json) |
@@ -3988,6 +3990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope Land | 158585 | [158585-hope-land.json](./158585-hope-land.json) |
 | Hope Left Me | 228417 | [228417-hope-left-me.json](./228417-hope-left-me.json) |
 | Hope of humanity | 102963 | [102963-hope-of-humanity.json](./102963-hope-of-humanity.json) |
+| Hope Returns | 183348 | [183348-hope-returns.json](./183348-hope-returns.json) |
 | Hope Springs Eternal | 94227 | [94227-hope-springs-eternal.json](./94227-hope-springs-eternal.json) |
 | Hope Springs Hotel: Whisper Of Winter | 310013 | [310013-hope-springs-hotel-whisper-of-winter.json](./310013-hope-springs-hotel-whisper-of-winter.json) |
 | Hope Timbre | 295531 | [295531-hope-timbre.json](./295531-hope-timbre.json) |
@@ -4841,6 +4844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Dinosaurs | 42587 | [42587-hungry-dinosaurs.json](./42587-hungry-dinosaurs.json) |
 | Hungry Flame | 29579 | [29579-hungry-flame.json](./29579-hungry-flame.json) |
 | Hungry Fox | 181393 | [181393-hungry-fox.json](./181393-hungry-fox.json) |
+| Hungry Frog | 183335 | [183335-hungry-frog.json](./183335-hungry-frog.json) |
 | Hungry Giraffe | 20808 | [20808-hungry-giraffe.json](./20808-hungry-giraffe.json) |
 | Hungry Hearts Diner 2: Moonlit Memories | 172603 | [172603-hungry-hearts-diner-2-moonlit-memories.json](./172603-hungry-hearts-diner-2-moonlit-memories.json) |
 | Hungry Hearts Diner: Memories | 280280 | [280280-hungry-hearts-diner-memories.json](./280280-hungry-hearts-diner-memories.json) |
