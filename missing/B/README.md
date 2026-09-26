@@ -6812,6 +6812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumbling Builders | 176971 | [176971-bumbling-builders.json](./176971-bumbling-builders.json) |
 | BumFight! | 69221 | [69221-bumfight.json](./69221-bumfight.json) |
 | Bump and Run Racing | 265396 | [265396-bump-and-run-racing.json](./265396-bump-and-run-racing.json) |
+| Bump Battle Royale | 198822 | [198822-bump-battle-royale.json](./198822-bump-battle-royale.json) |
 | Bump Bump Bump | 95182 | [95182-bump-bump-bump.json](./95182-bump-bump-bump.json) |
 | Bump Jump | 210670 | [210670-bump-jump.json](./210670-bump-jump.json) |
 | Bump.io: Arena of Bumper | 106960 | [106960-bump-io-arena-of-bumper.json](./106960-bump-io-arena-of-bumper.json) |
