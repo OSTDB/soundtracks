@@ -2506,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Severed Love | 342754 | [342754-severed-love.json](./342754-severed-love.json) |
 | Severen | 198223 | [198223-severen.json](./198223-severen.json) |
 | Severity | 93615 | [93615-severity.json](./93615-severity.json) |
+| Sew in Love | 184903 | [184903-sew-in-love.json](./184903-sew-in-love.json) |
 | Sewage | 202329 | [202329-sewage.json](./202329-sewage.json) |
 | Sewage Devastation | 271780 | [271780-sewage-devastation.json](./271780-sewage-devastation.json) |
 | Sewer Call | 407454 | [407454-sewer-call.json](./407454-sewer-call.json) |
@@ -6265,6 +6266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snot Pop! | 412499 | [412499-snot-pop.json](./412499-snot-pop.json) |
 | Snot Put | 270761 | [270761-snot-put.json](./270761-snot-put.json) |
 | SnOut 2 | 192827 | [192827-snout-2.json](./192827-snout-2.json) |
+| Snout Clout | 184930 | [184930-snout-clout.json](./184930-snout-clout.json) |
 | Snow Aces League | 371428 | [371428-snow-aces-league.json](./371428-snow-aces-league.json) |
 | Snow Angel | 264127 | [264127-snow-angel.json](./264127-snow-angel.json) |
 | Snow Ash | 325064 | [325064-snow-ash.json](./325064-snow-ash.json) |
@@ -9599,6 +9601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ST World | 269857 | [269857-st-world.json](./269857-st-world.json) |
 | St. Maria Village | 295315 | [295315-st-maria-village.json](./295315-st-maria-village.json) |
 | St. Nick | 42198 | [42198-st-nick.json](./42198-st-nick.json) |
+| St. Nick's: Dash Away All! | 184931 | [184931-st-nicks-dash-away-all.json](./184931-st-nicks-dash-away-all.json) |
 | Stab | 264620 | [264620-stab.json](./264620-stab.json) |
 | Stab It VR.com | 310022 | [310022-stab-it-vr-com.json](./310022-stab-it-vr-com.json) |
 | Stabby Cats | 159734 | [159734-stabby-cats.json](./159734-stabby-cats.json) |
@@ -10131,6 +10134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star-Twine | 30800 | [30800-star-twine.json](./30800-star-twine.json) |
 | Star-Wired | 310939 | [310939-star-wired.json](./310939-star-wired.json) |
 | Star: M | 306059 | [306059-star-m.json](./306059-star-m.json) |
+| Star.Bit | 184898 | [184898-star-bit.json](./184898-star-bit.json) |
 | Star'Shoot | 105327 | [105327-starshoot.json](./105327-starshoot.json) |
 | Star*Burst | 174301 | [174301-star-burst.json](./174301-star-burst.json) |
 | Staraway | 349377 | [349377-staraway.json](./349377-staraway.json) |
@@ -11231,6 +11235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded B | 162257 | [162257-stranded-b.json](./162257-stranded-b.json) |
 | Stranded Deep | 8751 | [8751-stranded-deep.json](./8751-stranded-deep.json) |
 | Stranded Engineers | 273398 | [273398-stranded-engineers.json](./273398-stranded-engineers.json) |
+| Stranded Hearts | 184914 | [184914-stranded-hearts.json](./184914-stranded-hearts.json) |
 | Stranded Near Nowhere | 102804 | [102804-stranded-near-nowhere.json](./102804-stranded-near-nowhere.json) |
 | Stranded Nightmare | 207367 | [207367-stranded-nightmare.json](./207367-stranded-nightmare.json) |
 | Stranded Sails | 112344 | [112344-stranded-sails.json](./112344-stranded-sails.json) |
@@ -12310,6 +12315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun Rush | 244517 | [244517-sun-rush.json](./244517-sun-rush.json) |
 | Sun Temple Shootout | 87697 | [87697-sun-temple-shootout.json](./87697-sun-temple-shootout.json) |
 | Sun Wukong VS Robot | 113725 | [113725-sun-wukong-vs-robot.json](./113725-sun-wukong-vs-robot.json) |
+| Sun Wukong: Journey to the West | 184925 | [184925-sun-wukong-journey-to-the-west.json](./184925-sun-wukong-journey-to-the-west.json) |
 | Sun-Rise.exe | 264612 | [264612-sun-rise-exe.json](./264612-sun-rise-exe.json) |
 | Suna | 87948 | [87948-suna.json](./87948-suna.json) |
 | Sunberry Valley | 356846 | [356846-sunberry-valley.json](./356846-sunberry-valley.json) |
@@ -13459,6 +13465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Scope 15 | 271240 | [271240-super-scope-15.json](./271240-super-scope-15.json) |
 | Super Scoundrel Solitaire | 400868 | [400868-super-scoundrel-solitaire.json](./400868-super-scoundrel-solitaire.json) |
 | Super Screepy Underworld | 25740 | [25740-super-screepy-underworld.json](./25740-super-screepy-underworld.json) |
+| Super Sculptor! | 184882 | [184882-super-sculptor.json](./184882-super-sculptor.json) |
 | Super Sea Serpent Simulator | 176965 | [176965-super-sea-serpent-simulator.json](./176965-super-sea-serpent-simulator.json) |
 | Super Seals Float | 149594 | [149594-super-seals-float.json](./149594-super-seals-float.json) |
 | Super Sean 007 | 239736 | [239736-super-sean-007.json](./239736-super-sean-007.json) |
@@ -13484,6 +13491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Size Me: Burger Man | 237292 | [237292-super-size-me-burger-man.json](./237292-super-size-me-burger-man.json) |
 | Super Sized Mario Bros | 286640 | [286640-super-sized-mario-bros.json](./286640-super-sized-mario-bros.json) |
 | Super Sized Rescue Squad | 305764 | [305764-super-sized-rescue-squad.json](./305764-super-sized-rescue-squad.json) |
+| Super Skelly Belly | 184929 | [184929-super-skelly-belly.json](./184929-super-skelly-belly.json) |
 | Super Sketchy Party | 167294 | [167294-super-sketchy-party.json](./167294-super-sketchy-party.json) |
 | Super Sky Arena | 9569 | [9569-super-sky-arena.json](./9569-super-sky-arena.json) |
 | Super Skyland | 175406 | [175406-super-skyland.json](./175406-super-skyland.json) |
