@@ -3602,6 +3602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shipmatch | 256232 | [256232-shipmatch.json](./256232-shipmatch.json) |
 | ShipOS 1994 | 312191 | [312191-shipos-1994.json](./312191-shipos-1994.json) |
 | ShipRect | 212797 | [212797-shiprect.json](./212797-shiprect.json) |
+| Ships | 187826 | [187826-ships.json](./187826-ships.json) |
 | Ships 2022 | 148897 | [148897-ships-2022.json](./148897-ships-2022.json) |
 | Ships 3D | 321755 | [321755-ships-3d.json](./321755-ships-3d.json) |
 | Ships N' Battles | 13097 | [13097-ships-n-battles.json](./13097-ships-n-battles.json) |
@@ -5923,6 +5924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoky White | 326777 | [326777-smoky-white.json](./326777-smoky-white.json) |
 | Smol Adventure | 353893 | [353893-smol-adventure.json](./353893-smol-adventure.json) |
 | Smol Birb | 139262 | [139262-smol-birb.json](./139262-smol-birb.json) |
+| Smol Dungeon | 187843 | [187843-smol-dungeon.json](./187843-smol-dungeon.json) |
 | Smol Gods | 332407 | [332407-smol-gods.json](./332407-smol-gods.json) |
 | Smol Kobold Garden | 340933 | [340933-smol-kobold-garden.json](./340933-smol-kobold-garden.json) |
 | Smol Snek | 281526 | [281526-smol-snek.json](./281526-smol-snek.json) |
