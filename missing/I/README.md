@@ -2257,6 +2257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inventory Full | 338833 | [338833-inventory-full.json](./338833-inventory-full.json) |
 | Inventris TD | 319009 | [319009-inventris-td.json](./319009-inventris-td.json) |
 | Inverness Nights | 134676 | [134676-inverness-nights.json](./134676-inverness-nights.json) |
+| Inverse Evolver | 192711 | [192711-inverse-evolver.json](./192711-inverse-evolver.json) |
 | Inverse Ninjas vs. The Public Domain | 277593 | [277593-inverse-ninjas-vs-the-public-domain.json](./277593-inverse-ninjas-vs-the-public-domain.json) |
 | Inversed | 310575 | [310575-inversed.json](./310575-inversed.json) |
 | Inversion | 7020 | [7020-inversion.json](./7020-inversion.json) |
