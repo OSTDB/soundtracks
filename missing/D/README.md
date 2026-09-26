@@ -2178,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense Zone 2 | 17303 | [17303-defense-zone-2.json](./17303-defense-zone-2.json) |
 | Defense Zone 3 Ultra HD | 36205 | [36205-defense-zone-3-ultra-hd.json](./36205-defense-zone-3-ultra-hd.json) |
 | DefenseCraft | 261758 | [261758-defensecraft.json](./261758-defensecraft.json) |
+| Defensive Measures | 199403 | [199403-defensive-measures.json](./199403-defensive-measures.json) |
 | Defensurvivor | 324715 | [324715-defensurvivor.json](./324715-defensurvivor.json) |
 | Deff | 133973 | [133973-deff.json](./133973-deff.json) |
 | Defiance 2050 | 89554 | [89554-defiance-2050.json](./89554-defiance-2050.json) |
