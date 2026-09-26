@@ -408,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaster Claws 3: Dragon Slayer of the God World - Special Pack | 156116 | [156116-vaster-claws-3-dragon-slayer-of-the-god-world-special-pack.json](./156116-vaster-claws-3-dragon-slayer-of-the-god-world-special-pack.json) |
 | VATSim | 56506 | [56506-vatsim.json](./56506-vatsim.json) |
 | Vault Assault | 40731 | [40731-vault-assault.json](./40731-vault-assault.json) |
+| Vault Circuit | 212743 | [212743-vault-circuit.json](./212743-vault-circuit.json) |
 | Vault Cracker: The Last Safe | 61575 | [61575-vault-cracker-the-last-safe.json](./61575-vault-cracker-the-last-safe.json) |
 | Vault Hunters | 345548 | [345548-vault-hunters.json](./345548-vault-hunters.json) |
 | Vault of Fallen | 355573 | [355573-vault-of-fallen.json](./355573-vault-of-fallen.json) |
