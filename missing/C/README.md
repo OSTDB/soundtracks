@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Big Game Hunter | 100218 | [100218-cabelas-big-game-hunter.json](./100218-cabelas-big-game-hunter.json) |
 | Cabela's Big Game Hunter | 43250 | [43250-cabelas-big-game-hunter.json](./43250-cabelas-big-game-hunter.json) |
 | Cabela's Big Game Hunter 2006 Trophy Season | 60229 | [60229-cabelas-big-game-hunter-2006-trophy-season.json](./60229-cabelas-big-game-hunter-2006-trophy-season.json) |
+| Cabela's Big Game Hunter 2009 | 206695 | [206695-cabelas-big-game-hunter-2009.json](./206695-cabelas-big-game-hunter-2009.json) |
 | Cabela's Big Game Hunter III | 73772 | [73772-cabelas-big-game-hunter-iii.json](./73772-cabelas-big-game-hunter-iii.json) |
 | Cabela's Big Game Hunter: 2004 Season | 69861 | [69861-cabelas-big-game-hunter-2004-season.json](./69861-cabelas-big-game-hunter-2004-season.json) |
 | Cabela's Big Game Hunter: Ultimate Challenge | 45298 | [45298-cabelas-big-game-hunter-ultimate-challenge.json](./45298-cabelas-big-game-hunter-ultimate-challenge.json) |
@@ -110,9 +111,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caduca | 412969 | [412969-caduca.json](./412969-caduca.json) |
 | Caduceus | 186190 | [186190-caduceus.json](./186190-caduceus.json) |
 | Caelum's Crux | 389619 | [389619-caelums-crux.json](./389619-caelums-crux.json) |
+| Caesar's Palace VIP Series: BlackJack | 206699 | [206699-caesars-palace-vip-series-blackjack.json](./206699-caesars-palace-vip-series-blackjack.json) |
 | Caesar's Travels | 73307 | [73307-caesars-travels.json](./73307-caesars-travels.json) |
 | Caesar's World of Boxing | 45941 | [45941-caesars-world-of-boxing.json](./45941-caesars-world-of-boxing.json) |
 | Caesar's World of Gambling | 45940 | [45940-caesars-world-of-gambling.json](./45940-caesars-world-of-gambling.json) |
+| Caesars Palace | 206697 | [206697-caesars-palace.json](./206697-caesars-palace.json) |
+| Caesars Palace | 206698 | [206698-caesars-palace.json](./206698-caesars-palace.json) |
 | Caesars Palace | 365687 | [365687-caesars-palace.json](./365687-caesars-palace.json) |
 | Caesars Palace 64 | 297465 | [297465-caesars-palace-64.json](./297465-caesars-palace-64.json) |
 | Caesars Palace II | 45296 | [45296-caesars-palace-ii.json](./45296-caesars-palace-ii.json) |
@@ -150,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caiaque | 305264 | [305264-caiaque.json](./305264-caiaque.json) |
 | Caillou | 282059 | [282059-caillou.json](./282059-caillou.json) |
 | Caillou: Four Seasons of Fun | 137020 | [137020-caillou-four-seasons-of-fun.json](./137020-caillou-four-seasons-of-fun.json) |
+| Caillou: Ready to Read | 206700 | [206700-caillou-ready-to-read.json](./206700-caillou-ready-to-read.json) |
 | Cain x Nica | 304609 | [304609-cain-x-nica.json](./304609-cain-x-nica.json) |
 | Cairn | 178665 | [178665-cairn.json](./178665-cairn.json) |
 | Cairn | 394894 | [394894-cairn.json](./394894-cairn.json) |
