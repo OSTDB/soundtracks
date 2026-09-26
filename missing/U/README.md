@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Frontier QQYYZZ | 387526 | [387526-ultra-frontier-qqyyzz.json](./387526-ultra-frontier-qqyyzz.json) |
 | Ultra Hell | 83272 | [83272-ultra-hell.json](./83272-ultra-hell.json) |
 | Ultra Hyperball | 51950 | [51950-ultra-hyperball.json](./51950-ultra-hyperball.json) |
+| Ultra Kaiju Monster Rancher: Starter Pack | 221697 | [221697-ultra-kaiju-monster-rancher-starter-pack.json](./221697-ultra-kaiju-monster-rancher-starter-pack.json) |
 | Ultra Kaiju: Battle Breeders | 223965 | [223965-ultra-kaiju-battle-breeders.json](./223965-ultra-kaiju-battle-breeders.json) |
 | Ultra Keibitai: Monster Attack | 413184 | [413184-ultra-keibitai-monster-attack.json](./413184-ultra-keibitai-monster-attack.json) |
 | Ultra LMAD | 231320 | [231320-ultra-lmad.json](./231320-ultra-lmad.json) |
