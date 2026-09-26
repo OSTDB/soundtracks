@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Varenje: Collector's Edition | 111504 | [111504-varenje-collectors-edition.json](./111504-varenje-collectors-edition.json) |
 | Varenje: Don't Touch The Berries | 271501 | [271501-varenje-dont-touch-the-berries.json](./271501-varenje-dont-touch-the-berries.json) |
 | VargFren Mash | 135180 | [135180-vargfren-mash.json](./135180-vargfren-mash.json) |
+| Vargskelethor's Hardcore Friday Super Metal Almost Criminally Violent Ultra Swedish Meatball Royal Rumble Massacre! | 215074 | [215074-vargskelethors-hardcore-friday-super-metal-almost-criminally-violent-ultra-swedish-meatball-royal-rumble-massacre.json](./215074-vargskelethors-hardcore-friday-super-metal-almost-criminally-violent-ultra-swedish-meatball-royal-rumble-massacre.json) |
 | Vari Dungeon | 220869 | [220869-vari-dungeon.json](./220869-vari-dungeon.json) |
 | Variable Barricade | 69345 | [69345-variable-barricade.json](./69345-variable-barricade.json) |
 | Variables | 118581 | [118581-variables.json](./118581-variables.json) |
