@@ -1868,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman Games | 48100 | [48100-caveman-games.json](./48100-caveman-games.json) |
 | Caveman HD | 102744 | [102744-caveman-hd.json](./102744-caveman-hd.json) |
 | Caveman hits Giraffe in a Car | 333397 | [333397-caveman-hits-giraffe-in-a-car.json](./333397-caveman-hits-giraffe-in-a-car.json) |
+| Caveman Hunt | 190458 | [190458-caveman-hunt.json](./190458-caveman-hunt.json) |
 | Caveman Jump Jump | 345681 | [345681-caveman-jump-jump.json](./345681-caveman-jump-jump.json) |
 | Caveman Ninja | 12834 | [12834-caveman-ninja.json](./12834-caveman-ninja.json) |
 | Caveman Ransom | 245952 | [245952-caveman-ransom.json](./245952-caveman-ransom.json) |
@@ -3495,6 +3496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuit Stance | 392123 | [392123-circuit-stance.json](./392123-circuit-stance.json) |
 | Circuit USA | 281556 | [281556-circuit-usa.json](./281556-circuit-usa.json) |
 | Circuit: Demolition Derby 2 | 82147 | [82147-circuit-demolition-derby-2.json](./82147-circuit-demolition-derby-2.json) |
+| Circuit: Laser Maze | 190460 | [190460-circuit-laser-maze.json](./190460-circuit-laser-maze.json) |
 | Circuit's Edge | 50150 | [50150-circuits-edge.json](./50150-circuits-edge.json) |
 | Circuitdream.exe | 202242 | [202242-circuitdream-exe.json](./202242-circuitdream-exe.json) |
 | Circuitous | 90658 | [90658-circuitous.json](./90658-circuitous.json) |
@@ -4686,6 +4688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Roll 3D | 215242 | [215242-color-roll-3d.json](./215242-color-roll-3d.json) |
 | Color Slayer | 121012 | [121012-color-slayer.json](./121012-color-slayer.json) |
 | Color SlayerS | 214500 | [214500-color-slayers.json](./214500-color-slayers.json) |
+| Color Slots | 190446 | [190446-color-slots.json](./190446-color-slots.json) |
 | Color Soul: Memories | 124229 | [124229-color-soul-memories.json](./124229-color-soul-memories.json) |
 | Color Splash: Dinosaurs | 291082 | [291082-color-splash-dinosaurs.json](./291082-color-splash-dinosaurs.json) |
 | Color Splash: Dogs | 261509 | [261509-color-splash-dogs.json](./261509-color-splash-dogs.json) |
@@ -5933,6 +5936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Waves | 244235 | [244235-cosmic-waves.json](./244235-cosmic-waves.json) |
 | Cosmic Worm Food | 244373 | [244373-cosmic-worm-food.json](./244373-cosmic-worm-food.json) |
 | Cosmic Zephyr DX | 159845 | [159845-cosmic-zephyr-dx.json](./159845-cosmic-zephyr-dx.json) |
+| Cosmic: A Journey Among Shadows | 190470 | [190470-cosmic-a-journey-among-shadows.json](./190470-cosmic-a-journey-among-shadows.json) |
 | Cosmica | 149948 | [149948-cosmica.json](./149948-cosmica.json) |
 | Cosminers | 309524 | [309524-cosminers.json](./309524-cosminers.json) |
 | Cosmo 02 | 165690 | [165690-cosmo-02.json](./165690-cosmo-02.json) |
@@ -7739,6 +7743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupid Bistro!! 2 | 264338 | [264338-cupid-bistro-2.json](./264338-cupid-bistro-2.json) |
 | Cupid Bistro!! Max | 264333 | [264333-cupid-bistro-max.json](./264333-cupid-bistro-max.json) |
 | Cupid Date | 225264 | [225264-cupid-date.json](./225264-cupid-date.json) |
+| Cupid Island | 190448 | [190448-cupid-island.json](./190448-cupid-island.json) |
 | Cupid Parasite: Sweet and Spicy Darling | 200558 | [200558-cupid-parasite-sweet-and-spicy-darling.json](./200558-cupid-parasite-sweet-and-spicy-darling.json) |
 | Cupid's Bargain | 392422 | [392422-cupids-bargain.json](./392422-cupids-bargain.json) |
 | Cupky Jump | 252157 | [252157-cupky-jump.json](./252157-cupky-jump.json) |
@@ -8142,6 +8147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk 3776 | 35896 | [35896-cyberpunk-3776.json](./35896-cyberpunk-3776.json) |
 | Cyberpunk Arena | 81736 | [81736-cyberpunk-arena.json](./81736-cyberpunk-arena.json) |
 | Cyberpunk Detective | 164975 | [164975-cyberpunk-detective.json](./164975-cyberpunk-detective.json) |
+| Cyberpunk Fighting | 190468 | [190468-cyberpunk-fighting.json](./190468-cyberpunk-fighting.json) |
 | Cyberpunk Inquisitor | 306065 | [306065-cyberpunk-inquisitor.json](./306065-cyberpunk-inquisitor.json) |
 | Cyberpunk Men for Cyberpunk Sex | 288882 | [288882-cyberpunk-men-for-cyberpunk-sex.json](./288882-cyberpunk-men-for-cyberpunk-sex.json) |
 | Cyberpunk Men for Sex Motel | 288895 | [288895-cyberpunk-men-for-sex-motel.json](./288895-cyberpunk-men-for-sex-motel.json) |
