@@ -9575,6 +9575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tireless Pig | 219653 | [219653-tireless-pig.json](./219653-tireless-pig.json) |
 | Tiresmoke | 103862 | [103862-tiresmoke.json](./103862-tiresmoke.json) |
 | Tirkiss ~Princess Shade~ | 60530 | [60530-tirkiss-princess-shade.json](./60530-tirkiss-princess-shade.json) |
+| TIS-100P | 197651 | [197651-tis-100p.json](./197651-tis-100p.json) |
 | Tisuland | 382747 | [382747-tisuland.json](./382747-tisuland.json) |
 | Tit Tap Tingle | 135801 | [135801-tit-tap-tingle.json](./135801-tit-tap-tingle.json) |
 | Titan A.E. | 198944 | [198944-titan-a-e.json](./198944-titan-a-e.json) |
@@ -12608,6 +12609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Driver: UK Paint Jobs | 241069 | [241069-truck-driver-uk-paint-jobs.json](./241069-truck-driver-uk-paint-jobs.json) |
 | Truck Driver: USA Paint Jobs | 241070 | [241070-truck-driver-usa-paint-jobs.json](./241070-truck-driver-usa-paint-jobs.json) |
 | Truck Driving | 362360 | [362360-truck-driving.json](./362360-truck-driving.json) |
+| Truck Go | 197670 | [197670-truck-go.json](./197670-truck-go.json) |
 | Truck Job | 292294 | [292294-truck-job.json](./292294-truck-job.json) |
 | Truck Journey: Nitro | 223142 | [223142-truck-journey-nitro.json](./223142-truck-journey-nitro.json) |
 | Truck Kyousoukyoku: Ai to Kanashimi no Rodeo | 327364 | [327364-truck-kyousoukyoku-ai-to-kanashimi-no-rodeo.json](./327364-truck-kyousoukyoku-ai-to-kanashimi-no-rodeo.json) |
