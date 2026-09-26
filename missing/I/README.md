@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ibb & Obb | 9139 | [9139-ibb-and-obb.json](./9139-ibb-and-obb.json) |
 | Ibix the Viking | 13250 | [13250-ibix-the-viking.json](./13250-ibix-the-viking.json) |
 | Iblis | 344578 | [344578-iblis.json](./344578-iblis.json) |
+| Iblis2: Sorcery | 226703 | [226703-iblis2-sorcery.json](./226703-iblis2-sorcery.json) |
 | Iblis3: Phenomena | 372013 | [372013-iblis3-phenomena.json](./372013-iblis3-phenomena.json) |
 | IBloxx | 359476 | [359476-ibloxx.json](./359476-ibloxx.json) |
 | IBM: Cityone, A Smarter Planet Game | 66626 | [66626-ibm-cityone-a-smarter-planet-game.json](./66626-ibm-cityone-a-smarter-planet-game.json) |
