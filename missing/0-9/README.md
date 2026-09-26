@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12am | 212754 | [212754-12am.json](./212754-12am.json) |
 | 12nin no Onna Kyoushi | 98423 | [98423-12nin-no-onna-kyoushi.json](./98423-12nin-no-onna-kyoushi.json) |
 | 12nin no Onna Kyoushi Re-Innovation -In- | 98419 | [98419-12nin-no-onna-kyoushi-re-innovation-in.json](./98419-12nin-no-onna-kyoushi-re-innovation-in.json) |
+| 13 Laurel Road | 177834 | [177834-13-laurel-road.json](./177834-13-laurel-road.json) |
 | 13 Letters | 98416 | [98416-13-letters.json](./98416-13-letters.json) |
 | 13 Masca | 405725 | [405725-13-masca.json](./405725-13-masca.json) |
 | 13 Page | 201304 | [201304-13-page.json](./201304-13-page.json) |
