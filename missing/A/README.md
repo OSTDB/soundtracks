@@ -1442,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AHH!!! MazeZing | 158046 | [158046-ahh-mazezing.json](./158046-ahh-mazezing.json) |
 | Ahlgrens Bilspelet | 74070 | [74070-ahlgrens-bilspelet.json](./74070-ahlgrens-bilspelet.json) |
 | Ahnayro: The Dream World | 22377 | [22377-ahnayro-the-dream-world.json](./22377-ahnayro-the-dream-world.json) |
+| AHOD: All Hands on Deck! | 217244 | [217244-ahod-all-hands-on-deck.json](./217244-ahod-all-hands-on-deck.json) |
 | Ahriman's Prophecy | 10009 | [10009-ahrimans-prophecy.json](./10009-ahrimans-prophecy.json) |
 | Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
 | AHTS Ship Simulator | 44207 | [44207-ahts-ship-simulator.json](./44207-ahts-ship-simulator.json) |
@@ -3532,6 +3533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animaniacs: A Gigantic Adventure | 69227 | [69227-animaniacs-a-gigantic-adventure.json](./69227-animaniacs-a-gigantic-adventure.json) |
 | Animaniacs: Lights, Camera, Action! | 248756 | [248756-animaniacs-lights-camera-action.json](./248756-animaniacs-lights-camera-action.json) |
 | Animaniacs: Ten Pin Alley | 19432 | [19432-animaniacs-ten-pin-alley.json](./19432-animaniacs-ten-pin-alley.json) |
+| Animarama | 217231 | [217231-animarama.json](./217231-animarama.json) |
 | Animas | 335259 | [335259-animas.json](./335259-animas.json) |
 | AniMatch: Animal Matching Game | 86874 | [86874-animatch-animal-matching-game.json](./86874-animatch-animal-matching-game.json) |
 | Animated Jigsaw Puzzles | 269286 | [269286-animated-jigsaw-puzzles.json](./269286-animated-jigsaw-puzzles.json) |
@@ -3773,6 +3775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Day with You | 309519 | [309519-another-day-with-you.json](./309519-another-day-with-you.json) |
 | Another Day? | 409695 | [409695-another-day.json](./409695-another-day.json) |
 | Another Door | 284403 | [284403-another-door.json](./284403-another-door.json) |
+| Another Dungeon Game | 217274 | [217274-another-dungeon-game.json](./217274-another-dungeon-game.json) |
 | Another Earth | 276852 | [276852-another-earth.json](./276852-another-earth.json) |
 | Another Farm Roguelike | 214201 | [214201-another-farm-roguelike.json](./214201-another-farm-roguelike.json) |
 | Another Game About Clicking | 348859 | [348859-another-game-about-clicking.json](./348859-another-game-about-clicking.json) |
@@ -4881,6 +4884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ariana and the Elder Codex | 329725 | [329725-ariana-and-the-elder-codex.json](./329725-ariana-and-the-elder-codex.json) |
 | Ariane in Paradise | 255099 | [255099-ariane-in-paradise.json](./255099-ariane-in-paradise.json) |
 | Arid Arnold | 318202 | [318202-arid-arnold.json](./318202-arid-arnold.json) |
+| Arid Jared | 217268 | [217268-arid-jared.json](./217268-arid-jared.json) |
 | Arida: Backland's Awakening | 106433 | [106433-arida-backlands-awakening.json](./106433-arida-backlands-awakening.json) |
 | AridFortress | 102224 | [102224-aridfortress.json](./102224-aridfortress.json) |
 | Arie: Moonprayer | 258534 | [258534-arie-moonprayer.json](./258534-arie-moonprayer.json) |
@@ -6667,6 +6671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axolotl Kingdom | 245940 | [245940-axolotl-kingdom.json](./245940-axolotl-kingdom.json) |
 | Axolotl Swim | 389113 | [389113-axolotl-swim.json](./389113-axolotl-swim.json) |
 | Axom: Conquest | 333357 | [333357-axom-conquest.json](./333357-axom-conquest.json) |
+| Axon Hero | 217278 | [217278-axon-hero.json](./217278-axon-hero.json) |
 | Axxx: Taught and Fucked | 375949 | [375949-axxx-taught-and-fucked.json](./375949-axxx-taught-and-fucked.json) |
 | Axyz | 293648 | [293648-axyz.json](./293648-axyz.json) |
 | Aya Go | 91740 | [91740-aya-go.json](./91740-aya-go.json) |
