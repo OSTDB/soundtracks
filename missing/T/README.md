@@ -983,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap 'n' Pop 3: Balloon Adventures | 88225 | [88225-tap-n-pop-3-balloon-adventures.json](./88225-tap-n-pop-3-balloon-adventures.json) |
 | Tap a Jam | 73290 | [73290-tap-a-jam.json](./73290-tap-a-jam.json) |
 | Tap Adventure: Time Travel | 27688 | [27688-tap-adventure-time-travel.json](./27688-tap-adventure-time-travel.json) |
+| Tap and Field | 175201 | [175201-tap-and-field.json](./175201-tap-and-field.json) |
 | Tap Away | 230515 | [230515-tap-away.json](./230515-tap-away.json) |
 | Tap Beats Jazz | 86917 | [86917-tap-beats-jazz.json](./86917-tap-beats-jazz.json) |
 | Tap Bingo | 232381 | [232381-tap-bingo.json](./232381-tap-bingo.json) |
@@ -1678,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten of the Best Games | 134448 | [134448-ten-of-the-best-games.json](./134448-ten-of-the-best-games.json) |
 | Ten Seconds Hero 1 | 309358 | [309358-ten-seconds-hero-1.json](./309358-ten-seconds-hero-1.json) |
 | Ten Seconds Trillion | 241392 | [241392-ten-seconds-trillion.json](./241392-ten-seconds-trillion.json) |
+| Ten trials of Archer | 175200 | [175200-ten-trials-of-archer.json](./175200-ten-trials-of-archer.json) |
 | Ten Trials of Babel 2: Tower and Aurora | 372682 | [372682-ten-trials-of-babel-2-tower-and-aurora.json](./372682-ten-trials-of-babel-2-tower-and-aurora.json) |
 | Ten-chan Party! | 108264 | [108264-ten-chan-party.json](./108264-ten-chan-party.json) |
 | Ten++ | 374132 | [374132-ten.json](./374132-ten.json) |
@@ -4829,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Golf | 228553 | [228553-the-king-of-golf.json](./228553-the-king-of-golf.json) |
 | The King of the Wood | 22368 | [22368-the-king-of-the-wood.json](./22368-the-king-of-the-wood.json) |
 | The King of Tower Defense | 360206 | [360206-the-king-of-tower-defense.json](./360206-the-king-of-tower-defense.json) |
+| The King of Triads | 175211 | [175211-the-king-of-triads.json](./175211-the-king-of-triads.json) |
 | The King's Bird | 11840 | [11840-the-kings-bird.json](./11840-the-kings-bird.json) |
 | The King's Campaign | 243770 | [243770-the-kings-campaign.json](./243770-the-kings-campaign.json) |
 | The King's Carriage | 184470 | [184470-the-kings-carriage.json](./184470-the-kings-carriage.json) |
@@ -9718,6 +9721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Town VR: Zombie Pack | 170389 | [170389-tiny-town-vr-zombie-pack.json](./170389-tiny-town-vr-zombie-pack.json) |
 | Tiny Toy Tanks | 159849 | [159849-tiny-toy-tanks.json](./159849-tiny-toy-tanks.json) |
 | Tiny Toyfare | 55513 | [55513-tiny-toyfare.json](./55513-tiny-toyfare.json) |
+| Tiny TrackZ | 175208 | [175208-tiny-trackz.json](./175208-tiny-trackz.json) |
 | Tiny Transit | 389957 | [389957-tiny-transit.json](./389957-tiny-transit.json) |
 | Tiny Treasure Hunt | 283219 | [283219-tiny-treasure-hunt.json](./283219-tiny-treasure-hunt.json) |
 | Tiny Tree Talk | 383977 | [383977-tiny-tree-talk.json](./383977-tiny-tree-talk.json) |
