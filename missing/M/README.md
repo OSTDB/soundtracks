@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness Interactive Reloaded | 331704 | [331704-madness-interactive-reloaded.json](./331704-madness-interactive-reloaded.json) |
 | Madness of the Architect | 83549 | [83549-madness-of-the-architect.json](./83549-madness-of-the-architect.json) |
 | Madness of the Architect | 83550 | [83550-madness-of-the-architect.json](./83550-madness-of-the-architect.json) |
+| Madness of the Coastal Structure | 183340 | [183340-madness-of-the-coastal-structure.json](./183340-madness-of-the-coastal-structure.json) |
 | Madness of the Science | 346156 | [346156-madness-of-the-science.json](./346156-madness-of-the-science.json) |
 | Madness Retaliation | 123425 | [123425-madness-retaliation.json](./123425-madness-retaliation.json) |
 | Madness Starts Young | 386873 | [386873-madness-starts-young.json](./386873-madness-starts-young.json) |
@@ -3428,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melon Truck 2.0 | 256347 | [256347-melon-truck-2-0.json](./256347-melon-truck-2-0.json) |
 | Melon's Sokoban Walk | 386103 | [386103-melons-sokoban-walk.json](./386103-melons-sokoban-walk.json) |
 | Melone in the Dark | 177404 | [177404-melone-in-the-dark.json](./177404-melone-in-the-dark.json) |
+| Meloveyou | 183380 | [183380-meloveyou.json](./183380-meloveyou.json) |
 | Melt Abyss | 353902 | [353902-melt-abyss.json](./353902-melt-abyss.json) |
 | Melt Away | 330896 | [330896-melt-away.json](./330896-melt-away.json) |
 | Melt Down | 294238 | [294238-melt-down.json](./294238-melt-down.json) |
@@ -3551,6 +3553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Kong | 328596 | [328596-memory-kong.json](./328596-memory-kong.json) |
 | Memory Lane | 171451 | [171451-memory-lane.json](./171451-memory-lane.json) |
 | Memory Lane | 304178 | [304178-memory-lane.json](./304178-memory-lane.json) |
+| Memory Leak | 183355 | [183355-memory-leak.json](./183355-memory-leak.json) |
 | Memory Lost - Shift Edition | 351138 | [351138-memory-lost-shift-edition.json](./351138-memory-lost-shift-edition.json) |
 | Memory Mastermind | 61068 | [61068-memory-mastermind.json](./61068-memory-mastermind.json) |
 | Memory Match Saga: Expansion Pack 1 | 167320 | [167320-memory-match-saga-expansion-pack-1.json](./167320-memory-match-saga-expansion-pack-1.json) |
@@ -5165,6 +5168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miniland Adventure | 283256 | [283256-miniland-adventure.json](./283256-miniland-adventure.json) |
 | MiniLaw: Ministry of Law | 32024 | [32024-minilaw-ministry-of-law.json](./32024-minilaw-ministry-of-law.json) |
 | MiniLife: Tournament | 257960 | [257960-minilife-tournament.json](./257960-minilife-tournament.json) |
+| Minima | 183358 | [183358-minima.json](./183358-minima.json) |
 | Minima | 293652 | [293652-minima.json](./293652-minima.json) |
 | Minimal | 33392 | [33392-minimal.json](./33392-minimal.json) |
 | Minimal Affect | 132831 | [132831-minimal-affect.json](./132831-minimal-affect.json) |
