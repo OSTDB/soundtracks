@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tricks | 176962 | [176962-tap-tricks.json](./176962-tap-tricks.json) |
 | Tap Tycoon | 58195 | [58195-tap-tycoon.json](./58195-tap-tycoon.json) |
 | Tap Wars: Earth Defense Force 4.1 - The Shadow of New Despair | 220219 | [220219-tap-wars-earth-defense-force-4-1-the-shadow-of-new-despair.json](./220219-tap-wars-earth-defense-force-4-1-the-shadow-of-new-despair.json) |
+| Tap Wizard 2 | 188407 | [188407-tap-wizard-2.json](./188407-tap-wizard-2.json) |
 | Tap Zoo | 343458 | [343458-tap-zoo.json](./343458-tap-zoo.json) |
 | Tap-A-Zombie | 149448 | [149448-tap-a-zombie.json](./149448-tap-a-zombie.json) |
 | Tap-Tap Shots | 287090 | [287090-tap-tap-shots.json](./287090-tap-tap-shots.json) |
@@ -3924,6 +3925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fishercat | 205236 | [205236-the-fishercat.json](./205236-the-fishercat.json) |
 | The Fisherman and the Sea | 175385 | [175385-the-fisherman-and-the-sea.json](./175385-the-fisherman-and-the-sea.json) |
 | The Fisherman: Fishing Planet - Blue Crab Island Expansion | 167308 | [167308-the-fisherman-fishing-planet-blue-crab-island-expansion.json](./167308-the-fisherman-fishing-planet-blue-crab-island-expansion.json) |
+| The Fittest | 188371 | [188371-the-fittest.json](./188371-the-fittest.json) |
 | The Five Nights at Freddy's Mod | 366300 | [366300-the-five-nights-at-freddys-mod.json](./366300-the-five-nights-at-freddys-mod.json) |
 | The Five Steps to Ensuring Momo Graduates Successfully!!! | 216253 | [216253-the-five-steps-to-ensuring-momo-graduates-successfully.json](./216253-the-five-steps-to-ensuring-momo-graduates-successfully.json) |
 | The Fixer of the Adventurer's Guild | 287106 | [287106-the-fixer-of-the-adventurers-guild.json](./287106-the-fixer-of-the-adventurers-guild.json) |
@@ -6079,6 +6081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Phantom Thief Stina and 30 Jewels | 85438 | [85438-the-phantom-thief-stina-and-30-jewels.json](./85438-the-phantom-thief-stina-and-30-jewels.json) |
 | The Phantom's Revenge | 25135 | [25135-the-phantoms-revenge.json](./25135-the-phantoms-revenge.json) |
 | The Philistine Ploy | 293705 | [293705-the-philistine-ploy.json](./293705-the-philistine-ploy.json) |
+| The Phoenix | 188414 | [188414-the-phoenix.json](./188414-the-phoenix.json) |
 | The Photo of God | 341467 | [341467-the-photo-of-god.json](./341467-the-photo-of-god.json) |
 | The Piano | 20180 | [20180-the-piano.json](./20180-the-piano.json) |
 | The Piece | 276812 | [276812-the-piece.json](./276812-the-piece.json) |
@@ -10998,6 +11001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Eglathia | 35702 | [35702-tower-of-eglathia.json](./35702-tower-of-eglathia.json) |
 | Tower of Evil | 25731 | [25731-tower-of-evil.json](./25731-tower-of-evil.json) |
 | Tower of Fortune | 130751 | [130751-tower-of-fortune.json](./130751-tower-of-fortune.json) |
+| Tower of God M: The Great Journey | 188404 | [188404-tower-of-god-m-the-great-journey.json](./188404-tower-of-god-m-the-great-journey.json) |
 | Tower of God: Great Journey | 231889 | [231889-tower-of-god-great-journey.json](./231889-tower-of-god-great-journey.json) |
 | Tower of Greed | 216326 | [216326-tower-of-greed.json](./216326-tower-of-greed.json) |
 | Tower of Guardian | 153946 | [153946-tower-of-guardian.json](./153946-tower-of-guardian.json) |
@@ -11315,6 +11319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tragedy of Prince Rupert | 50891 | [50891-tragedy-of-prince-rupert.json](./50891-tragedy-of-prince-rupert.json) |
 | Tragedy Theater | 260164 | [260164-tragedy-theater.json](./260164-tragedy-theater.json) |
 | Trago | 104066 | [104066-trago.json](./104066-trago.json) |
+| Traha Infinity | 188374 | [188374-traha-infinity.json](./188374-traha-infinity.json) |
 | Trail & Error | 401495 | [401495-trail-and-error.json](./401495-trail-and-error.json) |
 | Trail Master 3D | 245266 | [245266-trail-master-3d.json](./245266-trail-master-3d.json) |
 | Trail of Ayash | 112111 | [112111-trail-of-ayash.json](./112111-trail-of-ayash.json) |
