@@ -1357,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void War | 291212 | [291212-void-war.json](./291212-void-war.json) |
 | Void Warfare | 148889 | [148889-void-warfare.json](./148889-void-warfare.json) |
 | Void Wars | 282025 | [282025-void-wars.json](./282025-void-wars.json) |
+| Void-Dogs | 180578 | [180578-void-dogs.json](./180578-void-dogs.json) |
 | Void: Edge of Existence | 235847 | [235847-void-edge-of-existence.json](./235847-void-edge-of-existence.json) |
 | Void: Icarus | 365254 | [365254-void-icarus.json](./365254-void-icarus.json) |
 | void.Resign | 130329 | [130329-void-resign.json](./130329-void-resign.json) |
