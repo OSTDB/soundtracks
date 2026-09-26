@@ -2360,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeroBound: Spirit Champion | 60196 | [60196-herobound-spirit-champion.json](./60196-herobound-spirit-champion.json) |
 | HeroClix TabApp | 64098 | [64098-heroclix-tabapp.json](./64098-heroclix-tabapp.json) |
 | HeroClix TabApp ASM | 64099 | [64099-heroclix-tabapp-asm.json](./64099-heroclix-tabapp-asm.json) |
+| Herodes | 203244 | [203244-herodes.json](./203244-herodes.json) |
 | Heroes & Dice | 348833 | [348833-heroes-and-dice.json](./348833-heroes-and-dice.json) |
 | Heroes & Generals: GE Giga Pack | 161911 | [161911-heroes-and-generals-ge-giga-pack.json](./161911-heroes-and-generals-ge-giga-pack.json) |
 | Heroes & Generals: GE Mega Pack | 161916 | [161916-heroes-and-generals-ge-mega-pack.json](./161916-heroes-and-generals-ge-mega-pack.json) |
