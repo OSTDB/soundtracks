@@ -2623,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isonzo: First Wave | 265715 | [265715-isonzo-first-wave.json](./265715-isonzo-first-wave.json) |
 | Isonzo: Third Wave | 296938 | [296938-isonzo-third-wave.json](./296938-isonzo-third-wave.json) |
 | Isophoria | 375316 | [375316-isophoria.json](./375316-isophoria.json) |
+| Isopix Art Club | 213919 | [213919-isopix-art-club.json](./213919-isopix-art-club.json) |
 | Isorropia | 133451 | [133451-isorropia.json](./133451-isorropia.json) |
 | Isotiles | 43510 | [43510-isotiles.json](./43510-isotiles.json) |
 | Isotiles 2 | 118983 | [118983-isotiles-2.json](./118983-isotiles-2.json) |
