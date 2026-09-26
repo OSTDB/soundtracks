@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sammi's Quest vol.1: The Wandering Ogres | 104628 | [104628-sammis-quest-vol-1-the-wandering-ogres.json](./104628-sammis-quest-vol-1-the-wandering-ogres.json) |
 | Sammon Salat | 294208 | [294208-sammon-salat.json](./294208-sammon-salat.json) |
 | Sammy Lightfoot | 23885 | [23885-sammy-lightfoot.json](./23885-sammy-lightfoot.json) |
+| Sammy Sosa High Heat Baseball 2001: Championship Edition | 206669 | [206669-sammy-sosa-high-heat-baseball-2001-championship-edition.json](./206669-sammy-sosa-high-heat-baseball-2001-championship-edition.json) |
 | Samochodowy Wojownik | 150529 | [150529-samochodowy-wojownik.json](./150529-samochodowy-wojownik.json) |
 | Samoliotik | 33317 | [33317-samoliotik.json](./33317-samoliotik.json) |
 | Samorost 1 | 148352 | [148352-samorost-1.json](./148352-samorost-1.json) |
@@ -768,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Rockstar: Steam Edition | 90562 | [90562-santa-rockstar-steam-edition.json](./90562-santa-rockstar-steam-edition.json) |
 | Santa Run | 281527 | [281527-santa-run.json](./281527-santa-run.json) |
 | Santa Runner | 111687 | [111687-santa-runner.json](./111687-santa-runner.json) |
+| Santa Scramble | 206664 | [206664-santa-scramble.json](./206664-santa-scramble.json) |
 | Santa Showdown | 141898 | [141898-santa-showdown.json](./141898-santa-showdown.json) |
 | Santa Simulator | 112993 | [112993-santa-simulator.json](./112993-santa-simulator.json) |
 | Santa Throw | 186907 | [186907-santa-throw.json](./186907-santa-throw.json) |
@@ -976,12 +978,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Next Christmas | 397069 | [397069-save-next-christmas.json](./397069-save-next-christmas.json) |
 | Save One More | 90278 | [90278-save-one-more.json](./90278-save-one-more.json) |
 | Save Our Solar System | 243055 | [243055-save-our-solar-system.json](./243055-save-our-solar-system.json) |
+| Save Our Spirit | 206662 | [206662-save-our-spirit.json](./206662-save-our-spirit.json) |
 | Save Santa | 219611 | [219611-save-santa.json](./219611-save-santa.json) |
 | Save Snegurochka | 99021 | [99021-save-snegurochka.json](./99021-save-snegurochka.json) |
 | Save The Babies | 335260 | [335260-save-the-babies.json](./335260-save-the-babies.json) |
 | Save the City | 359440 | [359440-save-the-city.json](./359440-save-the-city.json) |
 | Save the Creatures | 34194 | [34194-save-the-creatures.json](./34194-save-the-creatures.json) |
 | Save the Date | 313845 | [313845-save-the-date.json](./313845-save-the-date.json) |
+| Save the Dinos | 206660 | [206660-save-the-dinos.json](./206660-save-the-dinos.json) |
 | Save the Dungeon! | 265578 | [265578-save-the-dungeon.json](./265578-save-the-dungeon.json) |
 | Save the Eggs | 416110 | [416110-save-the-eggs.json](./416110-save-the-eggs.json) |
 | Save the Fish! | 152919 | [152919-save-the-fish.json](./152919-save-the-fish.json) |
@@ -1229,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Grounds | 112738 | [112738-school-grounds.json](./112738-school-grounds.json) |
 | School Guard | 385866 | [385866-school-guard.json](./385866-school-guard.json) |
 | School Hero | 279113 | [279113-school-hero.json](./279113-school-hero.json) |
+| School House Shuffle | 206654 | [206654-school-house-shuffle.json](./206654-school-house-shuffle.json) |
 | School Idol QT Cool | 127933 | [127933-school-idol-qt-cool.json](./127933-school-idol-qt-cool.json) |
 | School Life Simulator | 97049 | [97049-school-life-simulator.json](./97049-school-life-simulator.json) |
 | School Love Life: Anime Games | 299909 | [299909-school-love-life-anime-games.json](./299909-school-love-life-anime-games.json) |
@@ -1256,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schoolmates: The Mystery of the Magical Bracelet | 165005 | [165005-schoolmates-the-mystery-of-the-magical-bracelet.json](./165005-schoolmates-the-mystery-of-the-magical-bracelet.json) |
 | Schoolnight, 3am | 299870 | [299870-schoolnight-3am.json](./299870-schoolnight-3am.json) |
 | SchoolX | 197854 | [197854-schoolx.json](./197854-schoolx.json) |
+| Schoolyard Sports | 206655 | [206655-schoolyard-sports.json](./206655-schoolyard-sports.json) |
 | Schrödinger no Neko: Die Katze von Schrödinger | 230513 | [230513-schrodinger-no-neko-die-katze-von-schrodinger.json](./230513-schrodinger-no-neko-die-katze-von-schrodinger.json) |
 | Schrodinger's Cat Burglar | 270929 | [270929-schrodingers-cat-burglar.json](./270929-schrodingers-cat-burglar.json) |
 | Schrodinger's Code | 224757 | [224757-schrodingers-code.json](./224757-schrodingers-code.json) |
@@ -1519,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scribblenauts Unmasked: A DC Comics Adventure | 5033 | [5033-scribblenauts-unmasked-a-dc-comics-adventure.json](./5033-scribblenauts-unmasked-a-dc-comics-adventure.json) |
 | Scribbly Walrus | 128571 | [128571-scribbly-walrus.json](./128571-scribbly-walrus.json) |
 | Scribe RPG | 339089 | [339089-scribe-rpg.json](./339089-scribe-rpg.json) |
+| Scripps Spelling Bee | 206644 | [206644-scripps-spelling-bee.json](./206644-scripps-spelling-bee.json) |
 | Scripted Land | 219620 | [219620-scripted-land.json](./219620-scripted-land.json) |
 | Scripted Souls | 200563 | [200563-scripted-souls.json](./200563-scripted-souls.json) |
 | Scriptic: Interactive Dramas | 191860 | [191860-scriptic-interactive-dramas.json](./191860-scriptic-interactive-dramas.json) |
@@ -1619,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Legends | 293633 | [293633-sea-legends.json](./293633-sea-legends.json) |
 | Sea Monster | 92823 | [92823-sea-monster.json](./92823-sea-monster.json) |
 | Sea Monster Attacks Hunter | 176446 | [176446-sea-monster-attacks-hunter.json](./176446-sea-monster-attacks-hunter.json) |
+| Sea Monsters: A Prehistoric Adventure | 206650 | [206650-sea-monsters-a-prehistoric-adventure.json](./206650-sea-monsters-a-prehistoric-adventure.json) |
 | Sea of Brave: Aidan Adventure | 270125 | [270125-sea-of-brave-aidan-adventure.json](./270125-sea-of-brave-aidan-adventure.json) |
 | Sea of Brave: Beast Island | 303082 | [303082-sea-of-brave-beast-island.json](./303082-sea-of-brave-beast-island.json) |
 | Sea of Change | 302373 | [302373-sea-of-change.json](./302373-sea-of-change.json) |
@@ -1713,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search All: Sushi | 187440 | [187440-search-all-sushi.json](./187440-search-all-sushi.json) |
 | Search All: UFO | 249800 | [249800-search-all-ufo.json](./249800-search-all-ufo.json) |
 | Search All: Worms | 231334 | [231334-search-all-worms.json](./231334-search-all-worms.json) |
+| Search and Rescue 3 | 206641 | [206641-search-and-rescue-3.json](./206641-search-and-rescue-3.json) |
 | Search and Rescue: Snowman From Outer Space | 301271 | [301271-search-and-rescue-snowman-from-outer-space.json](./301271-search-and-rescue-snowman-from-outer-space.json) |
 | Search and Rescue: Yosemite | 259063 | [259063-search-and-rescue-yosemite.json](./259063-search-and-rescue-yosemite.json) |
 | Search Dungeon Master | 313254 | [313254-search-dungeon-master.json](./313254-search-dungeon-master.json) |
@@ -1736,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Season Marbles: Summer | 337629 | [337629-season-marbles-summer.json](./337629-season-marbles-summer.json) |
 | Season Marbles: Winter | 337627 | [337627-season-marbles-winter.json](./337627-season-marbles-winter.json) |
 | Season of Mystery: The Cherry Blossom Murders | 9326 | [9326-season-of-mystery-the-cherry-blossom-murders.json](./9326-season-of-mystery-the-cherry-blossom-murders.json) |
+| Season Ticket Baseball | 206642 | [206642-season-ticket-baseball.json](./206642-season-ticket-baseball.json) |
 | Seasonal Affectiveness Disorder | 260789 | [260789-seasonal-affectiveness-disorder.json](./260789-seasonal-affectiveness-disorder.json) |
 | Seasonaut | 384671 | [384671-seasonaut.json](./384671-seasonaut.json) |
 | SeasonPark | 263440 | [263440-seasonpark.json](./263440-seasonpark.json) |
@@ -4954,6 +4964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkulJagger: Revolt of the Westicans | 42664 | [42664-skuljagger-revolt-of-the-westicans.json](./42664-skuljagger-revolt-of-the-westicans.json) |
 | Skulker | 332999 | [332999-skulker.json](./332999-skulker.json) |
 | Skull & Crossbones | 12851 | [12851-skull-and-crossbones.json](./12851-skull-and-crossbones.json) |
+| Skull and Bones: Limited Edition | 206676 | [206676-skull-and-bones-limited-edition.json](./206676-skull-and-bones-limited-edition.json) |
 | Skull and Bones: Premium Edition | 208432 | [208432-skull-and-bones-premium-edition.json](./208432-skull-and-bones-premium-edition.json) |
 | Skull and Bones: Season 1 - Raging Tides | 303240 | [303240-skull-and-bones-season-1-raging-tides.json](./303240-skull-and-bones-season-1-raging-tides.json) |
 | Skull and Bones: Season 2 - Chorus of Havoc | 303241 | [303241-skull-and-bones-season-2-chorus-of-havoc.json](./303241-skull-and-bones-season-2-chorus-of-havoc.json) |
