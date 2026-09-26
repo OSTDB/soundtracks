@@ -4258,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micropede | 14504 | [14504-micropede.json](./14504-micropede.json) |
 | Micropolis | 46622 | [46622-micropolis.json](./46622-micropolis.json) |
 | MicroProse Entertainment Pack Vol #1: Dr Floyd's Desktop Toys | 98962 | [98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json](./98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json) |
+| MicroProse Golf | 194972 | [194972-microprose-golf.json](./194972-microprose-golf.json) |
 | Microscape | 411686 | [411686-microscape.json](./411686-microscape.json) |
 | Microscope Madness | 127211 | [127211-microscope-madness.json](./127211-microscope-madness.json) |
 | Microscopic | 215613 | [215613-microscopic.json](./215613-microscopic.json) |
@@ -5692,6 +5693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam Federation vs. Zeon | 43311 | [43311-mobile-suit-gundam-federation-vs-zeon.json](./43311-mobile-suit-gundam-federation-vs-zeon.json) |
 | Mobile Suit Gundam Gihren's Greed: The fear of Axis | 56745 | [56745-mobile-suit-gundam-gihrens-greed-the-fear-of-axis.json](./56745-mobile-suit-gundam-gihrens-greed-the-fear-of-axis.json) |
 | Mobile Suit Gundam SEED: Battle Assault | 49325 | [49325-mobile-suit-gundam-seed-battle-assault.json](./49325-mobile-suit-gundam-seed-battle-assault.json) |
+| Mobile Suit Gundam Side Story I: Sentritsu no Blue | 194943 | [194943-mobile-suit-gundam-side-story-i-sentritsu-no-blue.json](./194943-mobile-suit-gundam-side-story-i-sentritsu-no-blue.json) |
 | Mobile Suit Gundam Side Story II: Aoi wo Uketsugu Mono | 66077 | [66077-mobile-suit-gundam-side-story-ii-aoi-wo-uketsugu-mono.json](./66077-mobile-suit-gundam-side-story-ii-aoi-wo-uketsugu-mono.json) |
 | Mobile Suit Gundam Side Story III: Sabakareshi Mono | 66076 | [66076-mobile-suit-gundam-side-story-iii-sabakareshi-mono.json](./66076-mobile-suit-gundam-side-story-iii-sabakareshi-mono.json) |
 | Mobile Suit Gundam Side Story: The Blue Destiny | 66078 | [66078-mobile-suit-gundam-side-story-the-blue-destiny.json](./66078-mobile-suit-gundam-side-story-the-blue-destiny.json) |
