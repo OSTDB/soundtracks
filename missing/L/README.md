@@ -2167,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limitless Runner | 359085 | [359085-limitless-runner.json](./359085-limitless-runner.json) |
 | Limits | 379052 | [379052-limits.json](./379052-limits.json) |
 | Limits of Intelligence | 301821 | [301821-limits-of-intelligence.json](./301821-limits-of-intelligence.json) |
+| Limkin | 187828 | [187828-limkin.json](./187828-limkin.json) |
 | Limoria | 327343 | [327343-limoria.json](./327343-limoria.json) |
 | Limp Mode | 414575 | [414575-limp-mode.json](./414575-limp-mode.json) |
 | Lims | 226166 | [226166-lims.json](./226166-lims.json) |
