@@ -9302,6 +9302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Muppets: License to Croak | 210723 | [210723-spy-muppets-license-to-croak.json](./210723-spy-muppets-license-to-croak.json) |
 | Spy Network | 188111 | [188111-spy-network.json](./188111-spy-network.json) |
 | Spy of Deimos | 61880 | [61880-spy-of-deimos.json](./61880-spy-of-deimos.json) |
+| Spy Rumble | 204407 | [204407-spy-rumble.json](./204407-spy-rumble.json) |
 | Spy Snatcher | 73817 | [73817-spy-snatcher.json](./73817-spy-snatcher.json) |
 | Spy Tactics | 120359 | [120359-spy-tactics.json](./120359-spy-tactics.json) |
 | Spy Vs. Spy: Volumes I & II | 77397 | [77397-spy-vs-spy-volumes-i-and-ii.json](./77397-spy-vs-spy-volumes-i-and-ii.json) |
@@ -10542,6 +10543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Empire | 49383 | [49383-steel-empire.json](./49383-steel-empire.json) |
 | Steel Flood | 275710 | [275710-steel-flood.json](./275710-steel-flood.json) |
 | Steel Force | 39670 | [39670-steel-force.json](./39670-steel-force.json) |
+| Steel Guardian | 204364 | [204364-steel-guardian.json](./204364-steel-guardian.json) |
 | Steel Hearts | 337703 | [337703-steel-hearts.json](./337703-steel-hearts.json) |
 | Steel Heaven | 389718 | [389718-steel-heaven.json](./389718-steel-heaven.json) |
 | Steel Horizon | 20691 | [20691-steel-horizon.json](./20691-steel-horizon.json) |
@@ -11021,6 +11023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormbroken | 363920 | [363920-stormbroken.json](./363920-stormbroken.json) |
 | Stormfall: Saga of Survival | 105787 | [105787-stormfall-saga-of-survival.json](./105787-stormfall-saga-of-survival.json) |
 | Stormforge | 305188 | [305188-stormforge.json](./305188-stormforge.json) |
+| Stormgate | 204358 | [204358-stormgate.json](./204358-stormgate.json) |
 | Storming the Grandmothership | 181227 | [181227-storming-the-grandmothership.json](./181227-storming-the-grandmothership.json) |
 | Stormlord | 12781 | [12781-stormlord.json](./12781-stormlord.json) |
 | Stormovik: Soviet Attack Fighter SU-25 | 79594 | [79594-stormovik-soviet-attack-fighter-su-25.json](./79594-stormovik-soviet-attack-fighter-su-25.json) |
