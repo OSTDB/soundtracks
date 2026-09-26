@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once a Tale | 238461 | [238461-once-a-tale.json](./238461-once-a-tale.json) |
 | Once Chance | 16755 | [16755-once-chance.json](./16755-once-chance.json) |
 | Once Ever After | 111467 | [111467-once-ever-after.json](./111467-once-ever-after.json) |
+| Once in a Blue Moon | 226163 | [226163-once-in-a-blue-moon.json](./226163-once-in-a-blue-moon.json) |
 | Once in Flowerlake | 190188 | [190188-once-in-flowerlake.json](./190188-once-in-flowerlake.json) |
 | Once in my Head | 192966 | [192966-once-in-my-head.json](./192966-once-in-my-head.json) |
 | Once in Yaissor 2 | 81763 | [81763-once-in-yaissor-2.json](./81763-once-in-yaissor-2.json) |
@@ -1543,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit.Industries | 194457 | [194457-orbit-industries.json](./194457-orbit-industries.json) |
 | Orbital 1 | 96089 | [96089-orbital-1.json](./96089-orbital-1.json) |
 | Orbital Bombardment | 237078 | [237078-orbital-bombardment.json](./237078-orbital-bombardment.json) |
+| Orbital Clash | 226165 | [226165-orbital-clash.json](./226165-orbital-clash.json) |
 | Orbital Crash | 392462 | [392462-orbital-crash.json](./392462-orbital-crash.json) |
 | Orbital Dance | 319961 | [319961-orbital-dance.json](./319961-orbital-dance.json) |
 | Orbital Decay | 60774 | [60774-orbital-decay.json](./60774-orbital-decay.json) |
