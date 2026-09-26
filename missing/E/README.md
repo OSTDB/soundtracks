@@ -696,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ein's Sword 3 | 312112 | [312112-eins-sword-3.json](./312112-eins-sword-3.json) |
 | Einar | 50540 | [50540-einar.json](./50540-einar.json) |
 | Einhänder | 1360 | [1360-einhander.json](./1360-einhander.json) |
+| Einherjar | 181122 | [181122-einherjar.json](./181122-einherjar.json) |
 | Einn | 120832 | [120832-einn.json](./120832-einn.json) |
 | Einstein's Cats | 291594 | [291594-einsteins-cats.json](./291594-einsteins-cats.json) |
 | Einsteins Riddle | 156605 | [156605-einsteins-riddle.json](./156605-einsteins-riddle.json) |
@@ -3093,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exoprimal: Witchdoctor UFO Set | 256551 | [256551-exoprimal-witchdoctor-ufo-set.json](./256551-exoprimal-witchdoctor-ufo-set.json) |
 | Exoprimal: Zephyr Security Guard Set | 256548 | [256548-exoprimal-zephyr-security-guard-set.json](./256548-exoprimal-zephyr-security-guard-set.json) |
 | Exorcism Agency | 355208 | [355208-exorcism-agency.json](./355208-exorcism-agency.json) |
+| Exorcism Express | 181153 | [181153-exorcism-express.json](./181153-exorcism-express.json) |
 | Exorcism: Case Zero | 72489 | [72489-exorcism-case-zero.json](./72489-exorcism-case-zero.json) |
 | Exorcist 2: Crow Magic | 236845 | [236845-exorcist-2-crow-magic.json](./236845-exorcist-2-crow-magic.json) |
 | Exorcist Onmyoji | 304875 | [304875-exorcist-onmyoji.json](./304875-exorcist-onmyoji.json) |
