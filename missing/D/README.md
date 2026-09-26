@@ -4076,8 +4076,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Tarzan Activity Center | 57923 | [57923-disneys-tarzan-activity-center.json](./57923-disneys-tarzan-activity-center.json) |
 | Disney's Tarzan: Return to the Jungle | 49339 | [49339-disneys-tarzan-return-to-the-jungle.json](./49339-disneys-tarzan-return-to-the-jungle.json) |
 | Disney's Tarzan: Untamed | 10625 | [10625-disneys-tarzan-untamed.json](./10625-disneys-tarzan-untamed.json) |
+| Disney's The Lion King | 198801 | [198801-disneys-the-lion-king.json](./198801-disneys-the-lion-king.json) |
 | Disney's The Lion King | 204572 | [204572-disneys-the-lion-king.json](./204572-disneys-the-lion-king.json) |
 | Disney's The Lion King: Simba's Mighty Adventure | 45228 | [45228-disneys-the-lion-king-simbas-mighty-adventure.json](./45228-disneys-the-lion-king-simbas-mighty-adventure.json) |
+| Disney's The Little Mermaid | 198802 | [198802-disneys-the-little-mermaid.json](./198802-disneys-the-little-mermaid.json) |
+| Disney's The Little Mermaid | 198803 | [198803-disneys-the-little-mermaid.json](./198803-disneys-the-little-mermaid.json) |
+| Disney's The Little Mermaid | 198804 | [198804-disneys-the-little-mermaid.json](./198804-disneys-the-little-mermaid.json) |
 | Disney's The Little Mermaid | 217836 | [217836-disneys-the-little-mermaid.json](./217836-disneys-the-little-mermaid.json) |
 | Disney's The Little Mermaid II: Pinball Frenzy | 49919 | [49919-disneys-the-little-mermaid-ii-pinball-frenzy.json](./49919-disneys-the-little-mermaid-ii-pinball-frenzy.json) |
 | Disney's The Little Mermaid II: Return to the Sea | 314908 | [314908-disneys-the-little-mermaid-ii-return-to-the-sea.json](./314908-disneys-the-little-mermaid-ii-return-to-the-sea.json) |
