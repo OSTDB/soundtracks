@@ -4659,6 +4659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorCoordination | 270086 | [270086-colorcoordination.json](./270086-colorcoordination.json) |
 | ColorCube | 208378 | [208378-colorcube.json](./208378-colorcube.json) |
 | ColorFold | 108273 | [108273-colorfold.json](./108273-colorfold.json) |
+| Colorful | 212229 | [212229-colorful.json](./212229-colorful.json) |
 | Colorful Adventures Bundle | 283190 | [283190-colorful-adventures-bundle.json](./283190-colorful-adventures-bundle.json) |
 | Colorful Critter | 218144 | [218144-colorful-critter.json](./218144-colorful-critter.json) |
 | Colorful Life | 30178 | [30178-colorful-life.json](./30178-colorful-life.json) |
@@ -6094,6 +6095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboys vs. Monsters | 302096 | [302096-cowboys-vs-monsters.json](./302096-cowboys-vs-monsters.json) |
 | Cowboys vs. Zombies | 328545 | [328545-cowboys-vs-zombies.json](./328545-cowboys-vs-zombies.json) |
 | Cowculanes | 175377 | [175377-cowculanes.json](./175377-cowculanes.json) |
+| Cowgirl Adventures | 212202 | [212202-cowgirl-adventures.json](./212202-cowgirl-adventures.json) |
 | Cowgirl Boots | 141808 | [141808-cowgirl-boots.json](./141808-cowgirl-boots.json) |
 | Cowgirl Trainer | 331299 | [331299-cowgirl-trainer.json](./331299-cowgirl-trainer.json) |
 | Cowhop | 239631 | [239631-cowhop.json](./239631-cowhop.json) |
