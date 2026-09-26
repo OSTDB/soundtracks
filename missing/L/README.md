@@ -1129,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends BMX | 325081 | [325081-legends-bmx.json](./325081-legends-bmx.json) |
 | Legends Core Plus | 231401 | [231401-legends-core-plus.json](./231401-legends-core-plus.json) |
 | Legends Esport Manager | 348765 | [348765-legends-esport-manager.json](./348765-legends-esport-manager.json) |
+| Legends from Lacoytas: The First Seeker | 201556 | [201556-legends-from-lacoytas-the-first-seeker.json](./201556-legends-from-lacoytas-the-first-seeker.json) |
 | Legends of Aden | 298674 | [298674-legends-of-aden.json](./298674-legends-of-aden.json) |
 | Legends of Aethereus | 10509 | [10509-legends-of-aethereus.json](./10509-legends-of-aethereus.json) |
 | Legends of Amberland II: The Song of Trees | 220604 | [220604-legends-of-amberland-ii-the-song-of-trees.json](./220604-legends-of-amberland-ii-the-song-of-trees.json) |
@@ -2165,6 +2166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line of Fire | 19487 | [19487-line-of-fire.json](./19487-line-of-fire.json) |
 | Line of Fire: Pirate Waltz | 290544 | [290544-line-of-fire-pirate-waltz.json](./290544-line-of-fire-pirate-waltz.json) |
 | Line of Sight: Starters Pack | 156102 | [156102-line-of-sight-starters-pack.json](./156102-line-of-sight-starters-pack.json) |
+| Line Path | 201580 | [201580-line-path.json](./201580-line-path.json) |
 | Line Physics: Draw Lines to Solve Puzzles | 105777 | [105777-line-physics-draw-lines-to-solve-puzzles.json](./105777-line-physics-draw-lines-to-solve-puzzles.json) |
 | Line Physics: Drawing Puzzle | 106976 | [106976-line-physics-drawing-puzzle.json](./106976-line-physics-drawing-puzzle.json) |
 | Line Points: Challenge your coordination | 232055 | [232055-line-points-challenge-your-coordination.json](./232055-line-points-challenge-your-coordination.json) |
@@ -3170,6 +3172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loren the Amazon Princess: The Castle Of N'Mar | 171634 | [171634-loren-the-amazon-princess-the-castle-of-nmar.json](./171634-loren-the-amazon-princess-the-castle-of-nmar.json) |
 | Lorenzo the Runner | 274040 | [274040-lorenzo-the-runner.json](./274040-lorenzo-the-runner.json) |
 | Lorerim | 383387 | [383387-lorerim.json](./383387-lorerim.json) |
+| Lorethem | 201557 | [201557-lorethem.json](./201557-lorethem.json) |
 | Lorn Vale | 305172 | [305172-lorn-vale.json](./305172-lorn-vale.json) |
 | Lorne | 235754 | [235754-lorne.json](./235754-lorne.json) |
 | Los Angeles 1985 | 358306 | [358306-los-angeles-1985.json](./358306-los-angeles-1985.json) |
