@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Army 4: Dead War - Mission 2: Blood Count | 133936 | [133936-zombie-army-4-dead-war-mission-2-blood-count.json](./133936-zombie-army-4-dead-war-mission-2-blood-count.json) |
 | Zombie Army 4: Dead War - Mission 5: Alpine Blitz | 143684 | [143684-zombie-army-4-dead-war-mission-5-alpine-blitz.json](./143684-zombie-army-4-dead-war-mission-5-alpine-blitz.json) |
 | Zombie Army 4: Dead War - Mission 6: Dead Zeppelin | 143685 | [143685-zombie-army-4-dead-war-mission-6-dead-zeppelin.json](./143685-zombie-army-4-dead-war-mission-6-dead-zeppelin.json) |
+| Zombie Army 4: Dead War - Ragnarök | 200437 | [200437-zombie-army-4-dead-war-ragnarok.json](./200437-zombie-army-4-dead-war-ragnarok.json) |
 | Zombie Army 4: Dead War - Ragnarök Campaign & Character Pack | 201579 | [201579-zombie-army-4-dead-war-ragnarok-campaign-and-character-pack.json](./201579-zombie-army-4-dead-war-ragnarok-campaign-and-character-pack.json) |
 | Zombie Army 4: Dead War - Super Deluxe Edition | 129783 | [129783-zombie-army-4-dead-war-super-deluxe-edition.json](./129783-zombie-army-4-dead-war-super-deluxe-edition.json) |
 | Zombie Attack Girls | 221816 | [221816-zombie-attack-girls.json](./221816-zombie-attack-girls.json) |
