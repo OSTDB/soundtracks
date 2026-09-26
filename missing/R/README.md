@@ -2502,6 +2502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Wave | 306370 | [306370-retro-wave.json](./306370-retro-wave.json) |
 | Retro Wing Prime | 113034 | [113034-retro-wing-prime.json](./113034-retro-wing-prime.json) |
 | Retro Winter Sports 1986 | 197241 | [197241-retro-winter-sports-1986.json](./197241-retro-winter-sports-1986.json) |
+| Retro64 | 198234 | [198234-retro64.json](./198234-retro64.json) |
 | RetroBlazer | 322198 | [322198-retroblazer.json](./322198-retroblazer.json) |
 | Retrocade | 385593 | [385593-retrocade.json](./385593-retrocade.json) |
 | RetroCube | 175404 | [175404-retrocube.json](./175404-retrocube.json) |
@@ -4896,6 +4897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruined Kingdom | 235839 | [235839-ruined-kingdom.json](./235839-ruined-kingdom.json) |
 | Ruins | 94178 | [94178-ruins.json](./94178-ruins.json) |
 | Ruins & Switch | 192357 | [192357-ruins-and-switch.json](./192357-ruins-and-switch.json) |
+| Ruins Magus | 198229 | [198229-ruins-magus.json](./198229-ruins-magus.json) |
 | Ruins of Endoth | 310000 | [310000-ruins-of-endoth.json](./310000-ruins-of-endoth.json) |
 | Ruins of Majika | 211747 | [211747-ruins-of-majika.json](./211747-ruins-of-majika.json) |
 | Ruins of Mitriom | 186320 | [186320-ruins-of-mitriom.json](./186320-ruins-of-mitriom.json) |
