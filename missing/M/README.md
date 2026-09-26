@@ -4093,6 +4093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michelle Kwan Fiqure Skating | 209518 | [209518-michelle-kwan-fiqure-skating.json](./209518-michelle-kwan-fiqure-skating.json) |
 | Michi | 244334 | [244334-michi.json](./244334-michi.json) |
 | Michi: Expansion Pack | 249299 | [249299-michi-expansion-pack.json](./249299-michi-expansion-pack.json) |
+| Michiko Jump! | 217846 | [217846-michiko-jump.json](./217846-michiko-jump.json) |
 | Michinoku Hisen Koimonogatari | 64666 | [64666-michinoku-hisen-koimonogatari.json](./64666-michinoku-hisen-koimonogatari.json) |
 | Michinoku Hitou Koimonogatari Kai | 64660 | [64660-michinoku-hitou-koimonogatari-kai.json](./64660-michinoku-hitou-koimonogatari-kai.json) |
 | Mickey Mania 2 | 256371 | [256371-mickey-mania-2.json](./256371-mickey-mania-2.json) |
@@ -7128,6 +7129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Henry and his Magical Hat | 58508 | [58508-mr-henry-and-his-magical-hat.json](./58508-mr-henry-and-his-magical-hat.json) |
 | Mr Jack Pocket | 175410 | [175410-mr-jack-pocket.json](./175410-mr-jack-pocket.json) |
 | Mr Jorries! | 157136 | [157136-mr-jorries.json](./157136-mr-jorries.json) |
+| Mr Jump World | 217804 | [217804-mr-jump-world.json](./217804-mr-jump-world.json) |
 | Mr Love: Queen's Choice | 118949 | [118949-mr-love-queens-choice.json](./118949-mr-love-queens-choice.json) |
 | Mr Mosco Bizarre Climbing | 263770 | [263770-mr-mosco-bizarre-climbing.json](./263770-mr-mosco-bizarre-climbing.json) |
 | Mr Ninja | 208060 | [208060-mr-ninja.json](./208060-mr-ninja.json) |
