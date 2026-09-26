@@ -3729,6 +3729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DinoLife | 212909 | [212909-dinolife.json](./212909-dinolife.json) |
 | DinoMight Baseball | 209019 | [209019-dinomight-baseball.json](./209019-dinomight-baseball.json) |
 | Dinopunk: The Cacops Adventure | 273648 | [273648-dinopunk-the-cacops-adventure.json](./273648-dinopunk-the-cacops-adventure.json) |
+| Dinorage | 180581 | [180581-dinorage.json](./180581-dinorage.json) |
 | DinoRPG | 176881 | [176881-dinorpg.json](./176881-dinorpg.json) |
 | Dinos | 311257 | [311257-dinos.json](./311257-dinos.json) |
 | Dinos Jump | 96754 | [96754-dinos-jump.json](./96754-dinos-jump.json) |
@@ -5253,6 +5254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DopeMine Arena | 194556 | [194556-dopemine-arena.json](./194556-dopemine-arena.json) |
 | DopePie Survivors 3D | 390265 | [390265-dopepie-survivors-3d.json](./390265-dopepie-survivors-3d.json) |
 | Doppelganger | 180112 | [180112-doppelganger.json](./180112-doppelganger.json) |
+| Doppelganger | 180598 | [180598-doppelganger.json](./180598-doppelganger.json) |
 | Doppelgänger | 275029 | [275029-doppelganger.json](./275029-doppelganger.json) |
 | Doppelgänger | 275902 | [275902-doppelganger.json](./275902-doppelganger.json) |
 | Doppelganger: Dawn of the Inverted Souls | 61306 | [61306-doppelganger-dawn-of-the-inverted-souls.json](./61306-doppelganger-dawn-of-the-inverted-souls.json) |
@@ -5853,6 +5855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Friends: The Secret of Green Witch | 212453 | [212453-dragon-friends-the-secret-of-green-witch.json](./212453-dragon-friends-the-secret-of-green-witch.json) |
 | Dragon Fun Classic | 221974 | [221974-dragon-fun-classic.json](./221974-dragon-fun-classic.json) |
 | Dragon Fury | 231046 | [231046-dragon-fury.json](./231046-dragon-fury.json) |
+| Dragon Gate | 180603 | [180603-dragon-gate.json](./180603-dragon-gate.json) |
 | Dragon Guardians | 389958 | [389958-dragon-guardians.json](./389958-dragon-guardians.json) |
 | Dragon Hills 2 | 89540 | [89540-dragon-hills-2.json](./89540-dragon-hills-2.json) |
 | Dragon Hop | 272396 | [272396-dragon-hop.json](./272396-dragon-hop.json) |
@@ -6961,6 +6964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duet Night Abyss: Silver Torrent, Rising Star | 413599 | [413599-duet-night-abyss-silver-torrent-rising-star.json](./413599-duet-night-abyss-silver-torrent-rising-star.json) |
 | Dufe: Masquerade | 179749 | [179749-dufe-masquerade.json](./179749-dufe-masquerade.json) |
 | Dug Out | 334314 | [334314-dug-out.json](./334314-dug-out.json) |
+| Dug'n | 180621 | [180621-dugn.json](./180621-dugn.json) |
 | Duga | 111752 | [111752-duga.json](./111752-duga.json) |
 | Dugashoba! | 202251 | [202251-dugashoba.json](./202251-dugashoba.json) |
 | Duil | 161348 | [161348-duil.json](./161348-duil.json) |
