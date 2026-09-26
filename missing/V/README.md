@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Varkon | 95368 | [95368-varkon.json](./95368-varkon.json) |
 | Varlet | 341552 | [341552-varlet.json](./341552-varlet.json) |
 | Varmintz | 9063 | [9063-varmintz.json](./9063-varmintz.json) |
+| Varney Lake | 210565 | [210565-varney-lake.json](./210565-varney-lake.json) |
 | Varooom 3D | 181877 | [181877-varooom-3d.json](./181877-varooom-3d.json) |
 | Varsapura | 378268 | [378268-varsapura.json](./378268-varsapura.json) |
 | Varyznex | 329154 | [329154-varyznex.json](./329154-varyznex.json) |
