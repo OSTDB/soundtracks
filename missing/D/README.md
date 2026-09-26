@@ -1111,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day Trader Tycoon | 386890 | [386890-day-trader-tycoon.json](./386890-day-trader-tycoon.json) |
 | Day Zero | 330904 | [330904-day-zero.json](./330904-day-zero.json) |
 | Day Zero | 360201 | [360201-day-zero.json](./360201-day-zero.json) |
+| Daybreak | 217245 | [217245-daybreak.json](./217245-daybreak.json) |
 | Daybreakers | 259062 | [259062-daybreakers.json](./259062-daybreakers.json) |
 | Daycare Descent | 256909 | [256909-daycare-descent.json](./256909-daycare-descent.json) |
 | DayD: Through Time | 105300 | [105300-dayd-through-time.json](./105300-dayd-through-time.json) |
@@ -1145,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days Gone By | 127102 | [127102-days-gone-by.json](./127102-days-gone-by.json) |
 | Days Gone: Special Edition | 117508 | [117508-days-gone-special-edition.json](./117508-days-gone-special-edition.json) |
 | Days Like A Nightmare | 285451 | [285451-days-like-a-nightmare.json](./285451-days-like-a-nightmare.json) |
+| Days of Despair | 217246 | [217246-days-of-despair.json](./217246-days-of-despair.json) |
 | Days of Discord | 59654 | [59654-days-of-discord.json](./59654-days-of-discord.json) |
 | Days Of My Life | 270190 | [270190-days-of-my-life.json](./270190-days-of-my-life.json) |
 | Days of Oblivion | 69805 | [69805-days-of-oblivion.json](./69805-days-of-oblivion.json) |
@@ -2261,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivering Hope | 260095 | [260095-delivering-hope.json](./260095-delivering-hope.json) |
 | Delivery Boy | 190214 | [190214-delivery-boy.json](./190214-delivery-boy.json) |
 | Delivery Driver Service | 302378 | [302378-delivery-driver-service.json](./302378-delivery-driver-service.json) |
+| Delivery Driver: The Simulation | 217248 | [217248-delivery-driver-the-simulation.json](./217248-delivery-driver-the-simulation.json) |
 | Delivery Express | 303468 | [303468-delivery-express.json](./303468-delivery-express.json) |
 | Delivery Hot | 351125 | [351125-delivery-hot.json](./351125-delivery-hot.json) |
 | Delivery Impossible | 244191 | [244191-delivery-impossible.json](./244191-delivery-impossible.json) |
@@ -6548,6 +6551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drowning, Drowning | 144234 | [144234-drowning-drowning.json](./144234-drowning-drowning.json) |
 | Drudge | 388738 | [388738-drudge.json](./388738-drudge.json) |
 | Drug Business | 369040 | [369040-drug-business.json](./369040-drug-business.json) |
+| Drug Dealer Manager | 217264 | [217264-drug-dealer-manager.json](./217264-drug-dealer-manager.json) |
 | Drug Dealer: Schedule I | 370790 | [370790-drug-dealer-schedule-i.json](./370790-drug-dealer-schedule-i.json) |
 | Drug Empire | 376459 | [376459-drug-empire.json](./376459-drug-empire.json) |
 | Drug Grower Simulator | 217508 | [217508-drug-grower-simulator.json](./217508-drug-grower-simulator.json) |
