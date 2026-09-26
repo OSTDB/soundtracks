@@ -1501,15 +1501,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Sweetstop | 253884 | [253884-next-sweetstop.json](./253884-next-sweetstop.json) |
 | Next Up Hero | 45026 | [45026-next-up-hero.json](./45026-next-up-hero.json) |
 | Nextbots In The Backrooms | 265729 | [265729-nextbots-in-the-backrooms.json](./265729-nextbots-in-the-backrooms.json) |
+| NextRev: Care Manager Shiken | 179482 | [179482-nextrev-care-manager-shiken.json](./179482-nextrev-care-manager-shiken.json) |
 | NextRev: Eibunpou Tettei Tokkun | 64944 | [64944-nextrev-eibunpou-tettei-tokkun.json](./64944-nextrev-eibunpou-tettei-tokkun.json) |
+| NextRev: Eiken | 179523 | [179523-nextrev-eiken.json](./179523-nextrev-eiken.json) |
 | NextRev: FP Ginoukentei Shiken 2-Kyuu | 64941 | [64941-nextrev-fp-ginoukentei-shiken-2-kyuu.json](./64941-nextrev-fp-ginoukentei-shiken-2-kyuu.json) |
 | NextRev: FP Ginoukentei Shiken 3-Kyuu | 64940 | [64940-nextrev-fp-ginoukentei-shiken-3-kyuu.json](./64940-nextrev-fp-ginoukentei-shiken-3-kyuu.json) |
 | NextRev: Gyouseishoshi Shiken | 65198 | [65198-nextrev-gyouseishoshi-shiken.json](./65198-nextrev-gyouseishoshi-shiken.json) |
 | NextRev: IT Passport Shiken | 64945 | [64945-nextrev-it-passport-shiken.json](./64945-nextrev-it-passport-shiken.json) |
+| NextRev: Kaigo Fukushishi Shiken | 179499 | [179499-nextrev-kaigo-fukushishi-shiken.json](./179499-nextrev-kaigo-fukushishi-shiken.json) |
 | NextRev: Kihonjouhou Gijutsusha Shiken | 64942 | [64942-nextrev-kihonjouhou-gijutsusha-shiken.json](./64942-nextrev-kihonjouhou-gijutsusha-shiken.json) |
 | NextRev: Ouyou Jouhougijutsusha Shiken | 64943 | [64943-nextrev-ouyou-jouhougijutsusha-shiken.json](./64943-nextrev-ouyou-jouhougijutsusha-shiken.json) |
 | NextRev: Shakai Fukushishi Shiken | 64938 | [64938-nextrev-shakai-fukushishi-shiken.json](./64938-nextrev-shakai-fukushishi-shiken.json) |
+| NextRev: Sharoushi Shiken | 179522 | [179522-nextrev-sharoushi-shiken.json](./179522-nextrev-sharoushi-shiken.json) |
 | NextRev: Takken Shiken | 64939 | [64939-nextrev-takken-shiken.json](./64939-nextrev-takken-shiken.json) |
+| NextRev: Takken Shiken 2015 | 179477 | [179477-nextrev-takken-shiken-2015.json](./179477-nextrev-takken-shiken-2015.json) |
 | NextWar: The Quest for Earth | 91731 | [91731-nextwar-the-quest-for-earth.json](./91731-nextwar-the-quest-for-earth.json) |
 | Nexuiz | 9586 | [9586-nexuiz.json](./9586-nexuiz.json) |
 | Nexus 2 | 92499 | [92499-nexus-2.json](./92499-nexus-2.json) |
