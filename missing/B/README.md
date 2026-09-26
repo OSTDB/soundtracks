@@ -1189,6 +1189,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Base Squad 49 | 33026 | [33026-base-squad-49.json](./33026-base-squad-49.json) |
 | Baseball | 11412 | [11412-baseball.json](./11412-baseball.json) |
 | Baseball | 131527 | [131527-baseball.json](./131527-baseball.json) |
+| Baseball | 217826 | [217826-baseball.json](./217826-baseball.json) |
+| Baseball | 217827 | [217827-baseball.json](./217827-baseball.json) |
 | Baseball | 245560 | [245560-baseball.json](./245560-baseball.json) |
 | Baseball | 245561 | [245561-baseball.json](./245561-baseball.json) |
 | Baseball | 277862 | [277862-baseball.json](./277862-baseball.json) |
@@ -3563,6 +3565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Shadow | 14310 | [14310-black-shadow.json](./14310-black-shadow.json) |
 | Black Sheep | 172703 | [172703-black-sheep.json](./172703-black-sheep.json) |
 | Black Sheep | 202262 | [202262-black-sheep.json](./202262-black-sheep.json) |
+| Black Sheep Town | 217805 | [217805-black-sheep-town.json](./217805-black-sheep-town.json) |
 | Black Sign | 145592 | [145592-black-sign.json](./145592-black-sign.json) |
 | Black Smith 3 | 150641 | [150641-black-smith-3.json](./150641-black-smith-3.json) |
 | Black Smith 4 | 265774 | [265774-black-smith-4.json](./265774-black-smith-4.json) |
@@ -3657,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksmith Village | 156109 | [156109-blacksmith-village.json](./156109-blacksmith-village.json) |
 | Blacksmith War | 201803 | [201803-blacksmith-war.json](./201803-blacksmith-war.json) |
 | Blacksmith Weapon Merchant | 213987 | [213987-blacksmith-weapon-merchant.json](./213987-blacksmith-weapon-merchant.json) |
+| Blackstead | 217828 | [217828-blackstead.json](./217828-blackstead.json) |
 | BlackSteel | 105301 | [105301-blacksteel.json](./105301-blacksteel.json) |
 | Blackstone | 83927 | [83927-blackstone.json](./83927-blackstone.json) |
 | Blacktail | 152129 | [152129-blacktail.json](./152129-blacktail.json) |
