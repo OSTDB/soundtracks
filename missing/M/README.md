@@ -611,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girl | 158086 | [158086-magical-girl.json](./158086-magical-girl.json) |
 | Magical Girl | 258429 | [258429-magical-girl.json](./258429-magical-girl.json) |
 | Magical Girl Attack | 117473 | [117473-magical-girl-attack.json](./117473-magical-girl-attack.json) |
+| Magical Girl Celesphonia | 199384 | [199384-magical-girl-celesphonia.json](./199384-magical-girl-celesphonia.json) |
 | Magical Girl Konoha | 261828 | [261828-magical-girl-konoha.json](./261828-magical-girl-konoha.json) |
 | Magical Girl Leaky Sara | 58810 | [58810-magical-girl-leaky-sara.json](./58810-magical-girl-leaky-sara.json) |
 | Magical Girl Lyrical Nanoha A's Portable: The Battle of Aces | 42836 | [42836-magical-girl-lyrical-nanoha-as-portable-the-battle-of-aces.json](./42836-magical-girl-lyrical-nanoha-as-portable-the-battle-of-aces.json) |
@@ -1157,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mane Box | 237396 | [237396-mane-box.json](./237396-mane-box.json) |
 | Maneater | 46800 | [46800-maneater.json](./46800-maneater.json) |
 | Maneater 2 | 416101 | [416101-maneater-2.json](./416101-maneater-2.json) |
+| Maneater and the Golden Teacher | 199394 | [199394-maneater-and-the-golden-teacher.json](./199394-maneater-and-the-golden-teacher.json) |
 | Maneater: Truth Quest | 162622 | [162622-maneater-truth-quest.json](./162622-maneater-truth-quest.json) |
 | Maneki's Curse | 33384 | [33384-manekis-curse.json](./33384-manekis-curse.json) |
 | Manes | 70083 | [70083-manes.json](./70083-manes.json) |
@@ -3561,6 +3563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men's Room Mayhem | 52590 | [52590-mens-room-mayhem.json](./52590-mens-room-mayhem.json) |
 | Menace | 262664 | [262664-menace.json](./262664-menace.json) |
 | Menace from the Deep: Complete Edition | 401133 | [401133-menace-from-the-deep-complete-edition.json](./401133-menace-from-the-deep-complete-edition.json) |
+| Menace Labs | 199401 | [199401-menace-labs.json](./199401-menace-labs.json) |
 | Menacer | 45599 | [45599-menacer.json](./45599-menacer.json) |
 | Menacetide | 386238 | [386238-menacetide.json](./386238-menacetide.json) |
 | Menage a Trois | 297552 | [297552-menage-a-trois.json](./297552-menage-a-trois.json) |
@@ -5255,6 +5258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirax | 39592 | [39592-mirax.json](./39592-mirax.json) |
 | Mirax Force | 55208 | [55208-mirax-force.json](./55208-mirax-force.json) |
 | Mircea | 320739 | [320739-mircea.json](./320739-mircea.json) |
+| Mire | 199393 | [199393-mire.json](./199393-mire.json) |
 | Mire | 339823 | [339823-mire.json](./339823-mire.json) |
 | Mirealle | 352390 | [352390-mirealle.json](./352390-mirealle.json) |
 | Mireille and Amrita, the Forest of Illusions | 188512 | [188512-mireille-and-amrita-the-forest-of-illusions.json](./188512-mireille-and-amrita-the-forest-of-illusions.json) |
@@ -6153,6 +6157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster evolution: hit and smash | 101955 | [101955-monster-evolution-hit-and-smash.json](./101955-monster-evolution-hit-and-smash.json) |
 | Monster Fair | 218156 | [218156-monster-fair.json](./218156-monster-fair.json) |
 | Monster Feeder | 344917 | [344917-monster-feeder.json](./344917-monster-feeder.json) |
+| Monster Fighter | 199360 | [199360-monster-fighter.json](./199360-monster-fighter.json) |
 | Monster Fishing 2018 | 102766 | [102766-monster-fishing-2018.json](./102766-monster-fishing-2018.json) |
 | Monster Fishing Legends | 108277 | [108277-monster-fishing-legends.json](./108277-monster-fishing-legends.json) |
 | Monster Fishing: Fishing Life RPG | 233510 | [233510-monster-fishing-fishing-life-rpg.json](./233510-monster-fishing-fishing-life-rpg.json) |
