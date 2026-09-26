@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unduhagge | 229658 | [229658-unduhagge.json](./229658-unduhagge.json) |
 | UnDune II: The Demaking of a Dynasty | 275676 | [275676-undune-ii-the-demaking-of-a-dynasty.json](./275676-undune-ii-the-demaking-of-a-dynasty.json) |
 | Undying Dusk | 146286 | [146286-undying-dusk.json](./146286-undying-dusk.json) |
+| Undying Lantern | 197131 | [197131-undying-lantern.json](./197131-undying-lantern.json) |
 | Undying Memoir | 270646 | [270646-undying-memoir.json](./270646-undying-memoir.json) |
 | Undying One | 390250 | [390250-undying-one.json](./390250-undying-one.json) |
 | Undying: Kowloon in Red | 406313 | [406313-undying-kowloon-in-red.json](./406313-undying-kowloon-in-red.json) |
@@ -865,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ungus | 229659 | [229659-ungus.json](./229659-ungus.json) |
 | Unhallowed | 256834 | [256834-unhallowed.json](./256834-unhallowed.json) |
 | Unhappening | 397909 | [397909-unhappening.json](./397909-unhappening.json) |
+| Unhappy Hour | 197106 | [197106-unhappy-hour.json](./197106-unhappy-hour.json) |
 | Unhatched | 144113 | [144113-unhatched.json](./144113-unhatched.json) |
 | Unheard: The Lethal Script | 228720 | [228720-unheard-the-lethal-script.json](./228720-unheard-the-lethal-script.json) |
 | Unheroic Misfits | 286068 | [286068-unheroic-misfits.json](./286068-unheroic-misfits.json) |
