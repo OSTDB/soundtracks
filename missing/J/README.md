@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese House Exploration | 308893 | [308893-japanese-house-exploration.json](./308893-japanese-house-exploration.json) |
 | Japanese Love | 349864 | [349864-japanese-love.json](./349864-japanese-love.json) |
 | Japanese Neko-sama Escape: The Local Train | 207889 | [207889-japanese-neko-sama-escape-the-local-train.json](./207889-japanese-neko-sama-escape-the-local-train.json) |
+| Japanese Nekosama Escape: The Mountain Cottage | 200460 | [200460-japanese-nekosama-escape-the-mountain-cottage.json](./200460-japanese-nekosama-escape-the-mountain-cottage.json) |
 | Japanese Nekosama Escape: The Old Inn | 197921 | [197921-japanese-nekosama-escape-the-old-inn.json](./197921-japanese-nekosama-escape-the-old-inn.json) |
 | Japanese Nekosama Escape: The Sweets Shop | 251050 | [251050-japanese-nekosama-escape-the-sweets-shop.json](./251050-japanese-nekosama-escape-the-sweets-shop.json) |
 | Japanese Psycho | 340766 | [340766-japanese-psycho.json](./340766-japanese-psycho.json) |
