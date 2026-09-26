@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joey's Shisha Simulator | 326412 | [326412-joeys-shisha-simulator.json](./326412-joeys-shisha-simulator.json) |
 | Jogo da Nota | 409806 | [409806-jogo-da-nota.json](./409806-jogo-da-nota.json) |
 | Jogo do Banquinho do Raul Gil | 222874 | [222874-jogo-do-banquinho-do-raul-gil.json](./222874-jogo-do-banquinho-do-raul-gil.json) |
+| Jogo Satanista para Praticar o Mal | 178443 | [178443-jogo-satanista-para-praticar-o-mal.json](./178443-jogo-satanista-para-praticar-o-mal.json) |
 | Johan | 403561 | [403561-johan.json](./403561-johan.json) |
 | John Adventure | 63574 | [63574-john-adventure.json](./63574-john-adventure.json) |
 | John Adventure | 63575 | [63575-john-adventure.json](./63575-john-adventure.json) |
