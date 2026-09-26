@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Midlevel Dog | 325683 | [325683-a-midlevel-dog.json](./325683-a-midlevel-dog.json) |
 | A Midnight Stroll | 205669 | [205669-a-midnight-stroll.json](./205669-a-midnight-stroll.json) |
 | A Milky Way | 135237 | [135237-a-milky-way.json](./135237-a-milky-way.json) |
+| A Million Minions | 206118 | [206118-a-million-minions.json](./206118-a-million-minions.json) |
 | A Million Murder Mysteries | 283909 | [283909-a-million-murder-mysteries.json](./283909-a-million-murder-mysteries.json) |
 | A Mirror Puzzle | 209705 | [209705-a-mirror-puzzle.json](./209705-a-mirror-puzzle.json) |
 | A Moderately Uncomfortable Night with Tux | 338711 | [338711-a-moderately-uncomfortable-night-with-tux.json](./338711-a-moderately-uncomfortable-night-with-tux.json) |
@@ -498,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.I. An Experience With Artificial Intelligence | 73556 | [73556-a-i-an-experience-with-artificial-intelligence.json](./73556-a-i-an-experience-with-artificial-intelligence.json) |
 | A.I. Invasion | 34855 | [34855-a-i-invasion.json](./34855-a-i-invasion.json) |
 | A.I. Invasion: Road of Rodan | 164435 | [164435-a-i-invasion-road-of-rodan.json](./164435-a-i-invasion-road-of-rodan.json) |
+| A.I. Puzzler | 206100 | [206100-a-i-puzzler.json](./206100-a-i-puzzler.json) |
 | A.I. Space Corps | 34206 | [34206-a-i-space-corps.json](./34206-a-i-space-corps.json) |
 | A.IV Evolution: Hatsubai Kinen Gentei Set | 307056 | [307056-a-iv-evolution-hatsubai-kinen-gentei-set.json](./307056-a-iv-evolution-hatsubai-kinen-gentei-set.json) |
 | A.L.A.N.: Rift Breakers | 120158 | [120158-a-l-a-n-rift-breakers.json](./120158-a-l-a-n-rift-breakers.json) |
@@ -1010,6 +1012,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Daisenryaku 98: Storm Over Europe | 60806 | [60806-advanced-daisenryaku-98-storm-over-europe.json](./60806-advanced-daisenryaku-98-storm-over-europe.json) |
 | Advanced Daisenryaku: Europe no Arashi - Doitsu Dengeki Sakusen | 60804 | [60804-advanced-daisenryaku-europe-no-arashi-doitsu-dengeki-sakusen.json](./60804-advanced-daisenryaku-europe-no-arashi-doitsu-dengeki-sakusen.json) |
 | Advanced Dungeons & Dragons Ultimate Fantasy | 362470 | [362470-advanced-dungeons-and-dragons-ultimate-fantasy.json](./362470-advanced-dungeons-and-dragons-ultimate-fantasy.json) |
+| Advanced Dungeons & Dragons: Collectors Edition | 206092 | [206092-advanced-dungeons-and-dragons-collectors-edition.json](./206092-advanced-dungeons-and-dragons-collectors-edition.json) |
+| Advanced Dungeons & Dragons: Collectors Edition Vol.2 | 206102 | [206102-advanced-dungeons-and-dragons-collectors-edition-vol-2.json](./206102-advanced-dungeons-and-dragons-collectors-edition-vol-2.json) |
 | Advanced Dungeons & Dragons: DragonStrike | 48113 | [48113-advanced-dungeons-and-dragons-dragonstrike.json](./48113-advanced-dungeons-and-dragons-dragonstrike.json) |
 | Advanced Dungeons & Dragons: Hillsfar | 8622 | [8622-advanced-dungeons-and-dragons-hillsfar.json](./8622-advanced-dungeons-and-dragons-hillsfar.json) |
 | Advanced Dungeons & Dragons: Pool of Radiance | 8732 | [8732-advanced-dungeons-and-dragons-pool-of-radiance.json](./8732-advanced-dungeons-and-dragons-pool-of-radiance.json) |
@@ -1129,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in Anglonia | 276708 | [276708-adventures-in-anglonia.json](./276708-adventures-in-anglonia.json) |
 | Adventures in Lestoria | 282624 | [282624-adventures-in-lestoria.json](./282624-adventures-in-lestoria.json) |
 | Adventures in Math | 62154 | [62154-adventures-in-math.json](./62154-adventures-in-math.json) |
+| Adventures in Odyssey 3D CD-ROM | 206093 | [206093-adventures-in-odyssey-3d-cd-rom.json](./206093-adventures-in-odyssey-3d-cd-rom.json) |
 | Adventures in Odyssey! The Sword of the Spirit | 66066 | [66066-adventures-in-odyssey-the-sword-of-the-spirit.json](./66066-adventures-in-odyssey-the-sword-of-the-spirit.json) |
 | Adventures in the Dimension of Insidual Cruelitude. | 218996 | [218996-adventures-in-the-dimension-of-insidual-cruelitude.json](./218996-adventures-in-the-dimension-of-insidual-cruelitude.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
@@ -1154,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Yogi Bear | 8010 | [8010-adventures-of-yogi-bear.json](./8010-adventures-of-yogi-bear.json) |
 | Adventures on The Polluted Islands | 27721 | [27721-adventures-on-the-polluted-islands.json](./27721-adventures-on-the-polluted-islands.json) |
 | Adventures with Alan Parkour 3D | 369557 | [369557-adventures-with-alan-parkour-3d.json](./369557-adventures-with-alan-parkour-3d.json) |
+| Adventures With Oslo: Tools and Gadgets | 206095 | [206095-adventures-with-oslo-tools-and-gadgets.json](./206095-adventures-with-oslo-tools-and-gadgets.json) |
 | Adventures With Oslo: World of Water | 262400 | [262400-adventures-with-oslo-world-of-water.json](./262400-adventures-with-oslo-world-of-water.json) |
 | Adventurezator: When Pigs Fly | 8373 | [8373-adventurezator-when-pigs-fly.json](./8373-adventurezator-when-pigs-fly.json) |
 | Adventuro | 280304 | [280304-adventuro.json](./280304-adventuro.json) |
@@ -1253,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afraid of the Night | 148489 | [148489-afraid-of-the-night.json](./148489-afraid-of-the-night.json) |
 | Africa Empire 2027 | 219680 | [219680-africa-empire-2027.json](./219680-africa-empire-2027.json) |
 | African Safari | 74039 | [74039-african-safari.json](./74039-african-safari.json) |
+| African Safari Trophy Hunter 3D | 206098 | [206098-african-safari-trophy-hunter-3d.json](./206098-african-safari-trophy-hunter-3d.json) |
 | Afro Samurai 2: Revenge of Kuma | 20030 | [20030-afro-samurai-2-revenge-of-kuma.json](./20030-afro-samurai-2-revenge-of-kuma.json) |
 | AfroPenguin & The Forbidden Ramen | 244866 | [244866-afropenguin-and-the-forbidden-ramen.json](./244866-afropenguin-and-the-forbidden-ramen.json) |
 | After Burner | 365088 | [365088-after-burner.json](./365088-after-burner.json) |
@@ -1553,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ainsley | 294247 | [294247-ainsley.json](./294247-ainsley.json) |
 | Aion | 563 | [563-aion.json](./563-aion.json) |
 | Aion 2 | 117297 | [117297-aion-2.json](./117297-aion-2.json) |
+| Aion: Assault on Balaurea | 206099 | [206099-aion-assault-on-balaurea.json](./206099-aion-assault-on-balaurea.json) |
 | Aion: Dark Betrayal | 62683 | [62683-aion-dark-betrayal.json](./62683-aion-dark-betrayal.json) |
 | Aion: Echoes of Eternity | 77274 | [77274-aion-echoes-of-eternity.json](./77274-aion-echoes-of-eternity.json) |
 | Aion: Legions of War | 69007 | [69007-aion-legions-of-war.json](./69007-aion-legions-of-war.json) |
@@ -1566,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Ball 2 | 146818 | [146818-air-ball-2.json](./146818-air-ball-2.json) |
 | Air Battle Chess | 197361 | [197361-air-battle-chess.json](./197361-air-battle-chess.json) |
 | AIR Battlefront | 117477 | [117477-air-battlefront.json](./117477-air-battlefront.json) |
+| Air Blocks | 206101 | [206101-air-blocks.json](./206101-air-blocks.json) |
 | Air Brawl | 35081 | [35081-air-brawl.json](./35081-air-brawl.json) |
 | Air Bucks | 14230 | [14230-air-bucks.json](./14230-air-bucks.json) |
 | Air Cavalry PRO | 88128 | [88128-air-cavalry-pro.json](./88128-air-cavalry-pro.json) |
@@ -1684,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline Commander: A Real Flight Experience | 106598 | [106598-airline-commander-a-real-flight-experience.json](./106598-airline-commander-a-real-flight-experience.json) |
 | Airline Empire: Stewardess Simulator | 370786 | [370786-airline-empire-stewardess-simulator.json](./370786-airline-empire-stewardess-simulator.json) |
 | Airline Flight Attendant Simulator VR | 236016 | [236016-airline-flight-attendant-simulator-vr.json](./236016-airline-flight-attendant-simulator-vr.json) |
+| Airline Manager | 206104 | [206104-airline-manager.json](./206104-airline-manager.json) |
 | Airline Tycoon 2: Falcon Airlines | 9956 | [9956-airline-tycoon-2-falcon-airlines.json](./9956-airline-tycoon-2-falcon-airlines.json) |
 | Airline Tycoon 2: Falcon Lines | 52568 | [52568-airline-tycoon-2-falcon-lines.json](./52568-airline-tycoon-2-falcon-lines.json) |
 | Airline Tycoon 2: Gold Edition | 52569 | [52569-airline-tycoon-2-gold-edition.json](./52569-airline-tycoon-2-gold-edition.json) |
@@ -2144,6 +2154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien 911 | 117523 | [117523-alien-911.json](./117523-alien-911.json) |
 | Alien Animals: Sandbox | 154463 | [154463-alien-animals-sandbox.json](./154463-alien-animals-sandbox.json) |
 | Alien Apocalypse | 390010 | [390010-alien-apocalypse.json](./390010-alien-apocalypse.json) |
+| Alien Arcade | 206106 | [206106-alien-arcade.json](./206106-alien-arcade.json) |
 | Alien Assault | 66623 | [66623-alien-assault.json](./66623-alien-assault.json) |
 | Alien Attack | 313465 | [313465-alien-attack.json](./313465-alien-attack.json) |
 | Alien Attack | 344944 | [344944-alien-attack.json](./344944-alien-attack.json) |
@@ -2178,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Extraction | 195691 | [195691-alien-extraction.json](./195691-alien-extraction.json) |
 | Alien Fish World VR | 379446 | [379446-alien-fish-world-vr.json](./379446-alien-fish-world-vr.json) |
 | Alien Flowers | 229642 | [229642-alien-flowers.json](./229642-alien-flowers.json) |
+| Alien Front | 206107 | [206107-alien-front.json](./206107-alien-front.json) |
 | Alien Front Online | 3711 | [3711-alien-front-online.json](./3711-alien-front-online.json) |
 | Alien Frontier | 240500 | [240500-alien-frontier.json](./240500-alien-frontier.json) |
 | Alien Fury | 337812 | [337812-alien-fury.json](./337812-alien-fury.json) |
