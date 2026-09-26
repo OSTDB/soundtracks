@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verlies | 94195 | [94195-verlies.json](./94195-verlies.json) |
 | Verlore Drome van Slange Bundle | 331496 | [331496-verlore-drome-van-slange-bundle.json](./331496-verlore-drome-van-slange-bundle.json) |
 | Verlore Slange: Bundle | 331495 | [331495-verlore-slange-bundle.json](./331495-verlore-slange-bundle.json) |
+| Verlore Tyd en Drome Bundle | 213332 | [213332-verlore-tyd-en-drome-bundle.json](./213332-verlore-tyd-en-drome-bundle.json) |
 | Vermeer | 46659 | [46659-vermeer.json](./46659-vermeer.json) |
 | Vermilion Desert | 69316 | [69316-vermilion-desert.json](./69316-vermilion-desert.json) |
 | Vermillion Descent | 209137 | [209137-vermillion-descent.json](./209137-vermillion-descent.json) |
