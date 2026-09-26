@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Stories: Horror Movie | 187953 | [187953-halloween-stories-horror-movie.json](./187953-halloween-stories-horror-movie.json) |
 | Halloween Stories: Horror Movie - Collector's Edition | 173175 | [173175-halloween-stories-horror-movie-collectors-edition.json](./173175-halloween-stories-horror-movie-collectors-edition.json) |
 | Halloween Stories: Inspiration's Spark - Collector's Edition | 362849 | [362849-halloween-stories-inspirations-spark-collectors-edition.json](./362849-halloween-stories-inspirations-spark-collectors-edition.json) |
+| Halloween Stories: Mark on the Bone - Collector's Edition | 225011 | [225011-halloween-stories-mark-on-the-bone-collectors-edition.json](./225011-halloween-stories-mark-on-the-bone-collectors-edition.json) |
 | Halloween Stories: The Death Card | 416609 | [416609-halloween-stories-the-death-card.json](./416609-halloween-stories-the-death-card.json) |
 | Halloween Stories: The Neglected Dead | 187944 | [187944-halloween-stories-the-neglected-dead.json](./187944-halloween-stories-the-neglected-dead.json) |
 | Halloween Stories: The Neglected Dead - Collector's Edition | 195645 | [195645-halloween-stories-the-neglected-dead-collectors-edition.json](./195645-halloween-stories-the-neglected-dead-collectors-edition.json) |
@@ -901,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: Hero of Leaf Valley | 42887 | [42887-harvest-moon-hero-of-leaf-valley.json](./42887-harvest-moon-hero-of-leaf-valley.json) |
 | Harvest Moon: Intuitive Ranch Master | 219076 | [219076-harvest-moon-intuitive-ranch-master.json](./219076-harvest-moon-intuitive-ranch-master.json) |
 | Harvest Moon: Light of Hope | 28843 | [28843-harvest-moon-light-of-hope.json](./28843-harvest-moon-light-of-hope.json) |
+| Harvest Moon: Light of Hope - Special Edition: Divine Marriageable Characters Pack | 225043 | [225043-harvest-moon-light-of-hope-special-edition-divine-marriageable-characters-pack.json](./225043-harvest-moon-light-of-hope-special-edition-divine-marriageable-characters-pack.json) |
 | Harvest Moon: Magical Melody | 3386 | [3386-harvest-moon-magical-melody.json](./3386-harvest-moon-magical-melody.json) |
 | Harvest Moon: One World - Collector's Edition | 200691 | [200691-harvest-moon-one-world-collectors-edition.json](./200691-harvest-moon-one-world-collectors-edition.json) |
 | Harvest Moon: One World Bundle | 173798 | [173798-harvest-moon-one-world-bundle.json](./173798-harvest-moon-one-world-bundle.json) |
