@@ -1237,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EmoteGuesser | 232687 | [232687-emoteguesser.json](./232687-emoteguesser.json) |
 | Emotions: A Day In A Life | 178603 | [178603-emotions-a-day-in-a-life.json](./178603-emotions-a-day-in-a-life.json) |
 | Emoyan no 10-bai Pro Yakyuu | 48332 | [48332-emoyan-no-10-bai-pro-yakyuu.json](./48332-emoyan-no-10-bai-pro-yakyuu.json) |
+| Empath | 182825 | [182825-empath.json](./182825-empath.json) |
 | Emperial Knights | 196581 | [196581-emperial-knights.json](./196581-emperial-knights.json) |
 | Emperium | 155661 | [155661-emperium.json](./155661-emperium.json) |
 | Emperor of the Fading Suns | 50145 | [50145-emperor-of-the-fading-suns.json](./50145-emperor-of-the-fading-suns.json) |
