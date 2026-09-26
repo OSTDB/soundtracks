@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Loco | 372021 | [372021-banana-loco.json](./372021-banana-loco.json) |
 | Banana Massacre | 338193 | [338193-banana-massacre.json](./338193-banana-massacre.json) |
 | Banana Party | 390008 | [390008-banana-party.json](./390008-banana-party.json) |
+| Banana Quest | 222847 | [222847-banana-quest.json](./222847-banana-quest.json) |
 | Banana Ranch | 303267 | [303267-banana-ranch.json](./303267-banana-ranch.json) |
 | Banana Sbang | 271179 | [271179-banana-sbang.json](./271179-banana-sbang.json) |
 | Banana Tap | 314875 | [314875-banana-tap.json](./314875-banana-tap.json) |
@@ -6117,6 +6118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brimstone | 347874 | [347874-brimstone.json](./347874-brimstone.json) |
 | Brimstone Brawlers | 105267 | [105267-brimstone-brawlers.json](./105267-brimstone-brawlers.json) |
 | Brincando com Ariê | 341885 | [341885-brincando-com-arie.json](./341885-brincando-com-arie.json) |
+| Brine Flow | 222869 | [222869-brine-flow.json](./222869-brine-flow.json) |
 | Brinefall | 190220 | [190220-brinefall.json](./190220-brinefall.json) |
 | Bring Back the Sun | 141671 | [141671-bring-back-the-sun.json](./141671-bring-back-the-sun.json) |
 | Bring Death | 211217 | [211217-bring-death.json](./211217-bring-death.json) |
