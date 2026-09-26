@@ -344,6 +344,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'mitation: The Eight Suicide Note | 132258 | [132258-imitation-the-eight-suicide-note.json](./132258-imitation-the-eight-suicide-note.json) |
 | I've Fallen For You! | 319944 | [319944-ive-fallen-for-you.json](./319944-ive-fallen-for-you.json) |
 | I've Got to Run! | 85189 | [85189-ive-got-to-run.json](./85189-ive-got-to-run.json) |
+| I've Seen Everything: Cars | 192171 | [192171-ive-seen-everything-cars.json](./192171-ive-seen-everything-cars.json) |
+| I've Seen Everything: Cats | 192173 | [192173-ive-seen-everything-cats.json](./192173-ive-seen-everything-cats.json) |
+| I've Seen Everything: Cold Steel | 192172 | [192172-ive-seen-everything-cold-steel.json](./192172-ive-seen-everything-cold-steel.json) |
+| I've Seen Everything: Dogs | 192174 | [192174-ive-seen-everything-dogs.json](./192174-ive-seen-everything-dogs.json) |
 | I've Seen Everything: More Animals | 188478 | [188478-ive-seen-everything-more-animals.json](./188478-ive-seen-everything-more-animals.json) |
 | I've Seen Everything: More Dinosaurs | 188485 | [188485-ive-seen-everything-more-dinosaurs.json](./188485-ive-seen-everything-more-dinosaurs.json) |
 | I've Seen Everything: More Fishes | 188482 | [188482-ive-seen-everything-more-fishes.json](./188482-ive-seen-everything-more-fishes.json) |
@@ -671,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Ocean Cleaner Eco Tycoon | 247211 | [247211-idle-ocean-cleaner-eco-tycoon.json](./247211-idle-ocean-cleaner-eco-tycoon.json) |
 | Idle of the Dead | 413772 | [413772-idle-of-the-dead.json](./413772-idle-of-the-dead.json) |
 | Idle Outpost | 302674 | [302674-idle-outpost.json](./302674-idle-outpost.json) |
+| Idle Paladin | 192181 | [192181-idle-paladin.json](./192181-idle-paladin.json) |
 | Idle Percent | 277345 | [277345-idle-percent.json](./277345-idle-percent.json) |
 | Idle Pinball | 330171 | [330171-idle-pinball.json](./330171-idle-pinball.json) |
 | Idle Pirate Legend | 281448 | [281448-idle-pirate-legend.json](./281448-idle-pirate-legend.json) |
@@ -1249,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In-Flight Tetris | 145631 | [145631-in-flight-tetris.json](./145631-in-flight-tetris.json) |
 | Inamina | 273895 | [273895-inamina.json](./273895-inamina.json) |
 | Inamorata | 299865 | [299865-inamorata.json](./299865-inamorata.json) |
+| Inanis | 192178 | [192178-inanis.json](./192178-inanis.json) |
 | Inari | 277605 | [277605-inari.json](./277605-inari.json) |
 | Inauthentic Hummus | 348353 | [348353-inauthentic-hummus.json](./348353-inauthentic-hummus.json) |
 | Inayah: Life after Gods | 317838 | [317838-inayah-life-after-gods.json](./317838-inayah-life-after-gods.json) |
