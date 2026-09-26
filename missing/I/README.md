@@ -2134,6 +2134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Circle | 128410 | [128410-into-the-circle.json](./128410-into-the-circle.json) |
 | Into the Core | 118429 | [118429-into-the-core.json](./118429-into-the-core.json) |
 | Into The Corner | 339112 | [339112-into-the-corner.json](./339112-into-the-corner.json) |
+| Into the Cthulhu Mythology | 187848 | [187848-into-the-cthulhu-mythology.json](./187848-into-the-cthulhu-mythology.json) |
 | Into the Dark | 199644 | [199644-into-the-dark.json](./199644-into-the-dark.json) |
 | Into the Darkness VR | 220141 | [220141-into-the-darkness-vr.json](./220141-into-the-darkness-vr.json) |
 | Into the Dead 2: Unleashed | 197325 | [197325-into-the-dead-2-unleashed.json](./197325-into-the-dead-2-unleashed.json) |
@@ -2639,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of Swaps | 237304 | [237304-isle-of-swaps.json](./237304-isle-of-swaps.json) |
 | Isle Vacation | 401124 | [401124-isle-vacation.json](./401124-isle-vacation.json) |
 | Isles Above | 337082 | [337082-isles-above.json](./337082-isles-above.json) |
+| Isles of Etherion | 187874 | [187874-isles-of-etherion.json](./187874-isles-of-etherion.json) |
 | Isles of Sea and Sky | 133013 | [133013-isles-of-sea-and-sky.json](./133013-isles-of-sea-and-sky.json) |
 | Isles of Silence | 309684 | [309684-isles-of-silence.json](./309684-isles-of-silence.json) |
 | Isles of Wrath | 378286 | [378286-isles-of-wrath.json](./378286-isles-of-wrath.json) |
