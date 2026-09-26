@@ -7777,6 +7777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Bloodline | 338253 | [338253-cursed-bloodline.json](./338253-cursed-bloodline.json) |
 | Cursed by Feedback | 364666 | [364666-cursed-by-feedback.json](./364666-cursed-by-feedback.json) |
 | Cursed Cargo | 394329 | [394329-cursed-cargo.json](./394329-cursed-cargo.json) |
+| Cursed Castilla | 197635 | [197635-cursed-castilla.json](./197635-cursed-castilla.json) |
 | Cursed Castilla | 288182 | [288182-cursed-castilla.json](./288182-cursed-castilla.json) |
 | Cursed Castle DX | 365765 | [365765-cursed-castle-dx.json](./365765-cursed-castle-dx.json) |
 | Cursed Caves | 89663 | [89663-cursed-caves.json](./89663-cursed-caves.json) |
