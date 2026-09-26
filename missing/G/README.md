@@ -2146,6 +2146,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnosis | 292284 | [292284-gnosis.json](./292284-gnosis.json) |
 | Gnosis | 388922 | [388922-gnosis.json](./388922-gnosis.json) |
 | Gnostic: Survivors | 262373 | [262373-gnostic-survivors.json](./262373-gnostic-survivors.json) |
+| GNU Chess | 194305 | [194305-gnu-chess.json](./194305-gnu-chess.json) |
+| GNU Go | 194306 | [194306-gnu-go.json](./194306-gnu-go.json) |
 | GNU Sudoku 64 | 264098 | [264098-gnu-sudoku-64.json](./264098-gnu-sudoku-64.json) |
 | Gnubbl | 370720 | [370720-gnubbl.json](./370720-gnubbl.json) |
 | Gnumz: Arcane Power | 103877 | [103877-gnumz-arcane-power.json](./103877-gnumz-arcane-power.json) |
