@@ -1297,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uprising44: The Silent Shadows | 92480 | [92480-uprising44-the-silent-shadows.json](./92480-uprising44-the-silent-shadows.json) |
 | Uprk.cz | 161891 | [161891-uprk-cz.json](./161891-uprk-cz.json) |
 | Uproar | 153863 | [153863-uproar.json](./153863-uproar.json) |
+| Uproot | 224539 | [224539-uproot.json](./224539-uproot.json) |
 | Uproot: Lost Leaf | 226752 | [226752-uproot-lost-leaf.json](./226752-uproot-lost-leaf.json) |
 | UpRooted | 224553 | [224553-uprooted.json](./224553-uprooted.json) |
 | Uprooted - a carrot simulator! | 97712 | [97712-uprooted-a-carrot-simulator.json](./97712-uprooted-a-carrot-simulator.json) |
