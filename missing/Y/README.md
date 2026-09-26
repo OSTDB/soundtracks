@@ -781,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yurivania 3: Circle of the Polycule | 364533 | [364533-yurivania-3-circle-of-the-polycule.json](./364533-yurivania-3-circle-of-the-polycule.json) |
 | Yurivania: Uhaul of the Night | 206156 | [206156-yurivania-uhaul-of-the-night.json](./206156-yurivania-uhaul-of-the-night.json) |
 | Yuru Yuru Gekijou Classic | 221254 | [221254-yuru-yuru-gekijou-classic.json](./221254-yuru-yuru-gekijou-classic.json) |
+| Yuru-GeGeGe no Kitaro | 223972 | [223972-yuru-gegege-no-kitaro.json](./223972-yuru-gegege-no-kitaro.json) |
 | Yuru-i GeGeGe no Kitaro: Yokai Dotabata Daisensou | 227364 | [227364-yuru-i-gegege-no-kitaro-yokai-dotabata-daisensou.json](./227364-yuru-i-gegege-no-kitaro-yokai-dotabata-daisensou.json) |
 | Yuru-yuru Gekijou: Gekijou-ban - Kanketsu-hen: Sanbu-sak | 256272 | [256272-yuru-yuru-gekijou-gekijou-ban-kanketsu-hen-sanbu-sak.json](./256272-yuru-yuru-gekijou-gekijou-ban-kanketsu-hen-sanbu-sak.json) |
 | Yurukill: The Calumniation Games - Deluxe Edition | 175976 | [175976-yurukill-the-calumniation-games-deluxe-edition.json](./175976-yurukill-the-calumniation-games-deluxe-edition.json) |
@@ -811,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuurou: Transient Sands | 327422 | [327422-yuurou-transient-sands.json](./327422-yuurou-transient-sands.json) |
 | Yuusha | 22480 | [22480-yuusha.json](./22480-yuusha.json) |
 | Yuusha Exkaiser: Geister wo Taose! | 284453 | [284453-yuusha-exkaiser-geister-wo-taose.json](./284453-yuusha-exkaiser-geister-wo-taose.json) |
+| Yuusha no Kuse ni Konamaiki da Dash!! | 223973 | [223973-yuusha-no-kuse-ni-konamaiki-da-dash.json](./223973-yuusha-no-kuse-ni-konamaiki-da-dash.json) |
 | Yuusha to Maou to, Majo no Cafe | 97377 | [97377-yuusha-to-maou-to-majo-no-cafe.json](./97377-yuusha-to-maou-to-majo-no-cafe.json) |
 | Yuusha-Ou GaoGaiGar: Blockaded Numbers | 57941 | [57941-yuusha-ou-gaogaigar-blockaded-numbers.json](./57941-yuusha-ou-gaogaigar-blockaded-numbers.json) |
 | Yuushi no Monshou: Deep Dungeon | 41326 | [41326-yuushi-no-monshou-deep-dungeon.json](./41326-yuushi-no-monshou-deep-dungeon.json) |
