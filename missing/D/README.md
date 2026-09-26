@@ -926,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dasshutsu Adventure: Shuuen no Kuroi Kiri | 222380 | [222380-dasshutsu-adventure-shuuen-no-kuroi-kiri.json](./222380-dasshutsu-adventure-shuuen-no-kuroi-kiri.json) |
 | Dasshutsu Adventure: Zetsubou Yousai | 222377 | [222377-dasshutsu-adventure-zetsubou-yousai.json](./222377-dasshutsu-adventure-zetsubou-yousai.json) |
 | Dasshutsu Fantasy: Alice in Escapeland | 222379 | [222379-dasshutsu-fantasy-alice-in-escapeland.json](./222379-dasshutsu-fantasy-alice-in-escapeland.json) |
+| Dasshutsu Game: Komorebi no Aru Hou he | 227247 | [227247-dasshutsu-game-komorebi-no-aru-hou-he.json](./227247-dasshutsu-game-komorebi-no-aru-hou-he.json) |
 | Dasshutsu Game: Momo | 220309 | [220309-dasshutsu-game-momo.json](./220309-dasshutsu-game-momo.json) |
 | Dasshutsu Game: Neko-sama no Karakuri Garden kara no Dasshutsu | 220310 | [220310-dasshutsu-game-neko-sama-no-karakuri-garden-kara-no-dasshutsu.json](./220310-dasshutsu-game-neko-sama-no-karakuri-garden-kara-no-dasshutsu.json) |
 | Dasshutsu Girls | 220308 | [220308-dasshutsu-girls.json](./220308-dasshutsu-girls.json) |
@@ -6257,6 +6258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Alone | 126631 | [126631-drift-alone.json](./126631-drift-alone.json) |
 | Drift Apocalypse | 296091 | [296091-drift-apocalypse.json](./296091-drift-apocalypse.json) |
 | Drift City | 259514 | [259514-drift-city.json](./259514-drift-city.json) |
+| Drift Clash Online Racing | 227241 | [227241-drift-clash-online-racing.json](./227241-drift-clash-online-racing.json) |
 | Drift Clicker | 233496 | [233496-drift-clicker.json](./233496-drift-clicker.json) |
 | Drift Empire | 390257 | [390257-drift-empire.json](./390257-drift-empire.json) |
 | Drift Gang | 372449 | [372449-drift-gang.json](./372449-drift-gang.json) |
@@ -6407,6 +6409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dromedary | 80244 | [80244-dromedary.json](./80244-dromedary.json) |
 | Drömjobbet i Rosemond Valley | 196700 | [196700-dromjobbet-i-rosemond-valley.json](./196700-dromjobbet-i-rosemond-valley.json) |
 | Drömmar | 314631 | [314631-drommar.json](./314631-drommar.json) |
+| Drone 5: Elite Zombie Shooter | 227249 | [227249-drone-5-elite-zombie-shooter.json](./227249-drone-5-elite-zombie-shooter.json) |
 | Drone Academy | 369576 | [369576-drone-academy.json](./369576-drone-academy.json) |
 | Drone Adventure | 301836 | [301836-drone-adventure.json](./301836-drone-adventure.json) |
 | Drone Arsenal | 391736 | [391736-drone-arsenal.json](./391736-drone-arsenal.json) |
