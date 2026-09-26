@@ -1914,6 +1914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seed of Life | 225773 | [225773-seed-of-life.json](./225773-seed-of-life.json) |
 | Seed of Nostalgia | 334879 | [334879-seed-of-nostalgia.json](./334879-seed-of-nostalgia.json) |
 | Seed of Pandora: Legend of the Gaia Tree | 237051 | [237051-seed-of-pandora-legend-of-the-gaia-tree.json](./237051-seed-of-pandora-legend-of-the-gaia-tree.json) |
+| Seed World | 224530 | [224530-seed-world.json](./224530-seed-world.json) |
 | Seed. | 182906 | [182906-seed.json](./182906-seed.json) |
 | Seed's End | 339088 | [339088-seeds-end.json](./339088-seeds-end.json) |
 | Seedbo And That Time The Sun Exploded | 325829 | [325829-seedbo-and-that-time-the-sun-exploded.json](./325829-seedbo-and-that-time-the-sun-exploded.json) |
@@ -5164,6 +5165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slasher | 352843 | [352843-slasher.json](./352843-slasher.json) |
 | Slasher Lock | 184593 | [184593-slasher-lock.json](./184593-slasher-lock.json) |
 | Slasher: Origins | 319761 | [319761-slasher-origins.json](./319761-slasher-origins.json) |
+| SlasherRPG | 224515 | [224515-slasherrpg.json](./224515-slasherrpg.json) |
 | Slashing Night | 340365 | [340365-slashing-night.json](./340365-slashing-night.json) |
 | Slashing Samurai | 181779 | [181779-slashing-samurai.json](./181779-slashing-samurai.json) |
 | Slashvival | 115001 | [115001-slashvival.json](./115001-slashvival.json) |
@@ -6079,6 +6081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snooker Live Pro | 38948 | [38948-snooker-live-pro.json](./38948-snooker-live-pro.json) |
 | Snooker Nation Championship | 33123 | [33123-snooker-nation-championship.json](./33123-snooker-nation-championship.json) |
 | Snooker Stars | 121613 | [121613-snooker-stars.json](./121613-snooker-stars.json) |
+| Snoop Dogg Boxing | 224503 | [224503-snoop-dogg-boxing.json](./224503-snoop-dogg-boxing.json) |
 | Snoop Dogg Cruisin' | 225651 | [225651-snoop-dogg-cruisin.json](./225651-snoop-dogg-cruisin.json) |
 | Snooper Troops: Case #2 - The Case of the Disappearing Dolphin | 78945 | [78945-snooper-troops-case-2-the-case-of-the-disappearing-dolphin.json](./78945-snooper-troops-case-2-the-case-of-the-disappearing-dolphin.json) |
 | Snoopy DS: Let's Go Meet Snoopy and His Friends! | 302711 | [302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json](./302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json) |
@@ -12092,6 +12095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Riders | 276081 | [276081-sunset-riders.json](./276081-sunset-riders.json) |
 | Sunset Riders | 321396 | [321396-sunset-riders.json](./321396-sunset-riders.json) |
 | Sunset Riders | 4370 | [4370-sunset-riders.json](./4370-sunset-riders.json) |
+| Sunset Routes | 224514 | [224514-sunset-routes.json](./224514-sunset-routes.json) |
 | Sunset Shores | 294794 | [294794-sunset-shores.json](./294794-sunset-shores.json) |
 | Sunset Sprout | 348460 | [348460-sunset-sprout.json](./348460-sunset-sprout.json) |
 | Sunset Street Ninja | 375943 | [375943-sunset-street-ninja.json](./375943-sunset-street-ninja.json) |
