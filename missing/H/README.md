@@ -2251,6 +2251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Here For Sweethearts | 184036 | [184036-here-for-sweethearts.json](./184036-here-for-sweethearts.json) |
 | Here There Be Bears | 247993 | [247993-here-there-be-bears.json](./247993-here-there-be-bears.json) |
 | Here They Lie | 19572 | [19572-here-they-lie.json](./19572-here-they-lie.json) |
+| Here to There | 204419 | [204419-here-to-there.json](./204419-here-to-there.json) |
 | Hereafter | 287147 | [287147-hereafter.json](./287147-hereafter.json) |
 | Hereafter | 47988 | [47988-hereafter.json](./47988-hereafter.json) |
 | Hereford 1642 | 190138 | [190138-hereford-1642.json](./190138-hereford-1642.json) |
@@ -4483,6 +4484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hovercraft Racing | 192836 | [192836-hovercraft-racing.json](./192836-hovercraft-racing.json) |
 | Hovercraft: Build Fly Retry | 105896 | [105896-hovercraft-build-fly-retry.json](./105896-hovercraft-build-fly-retry.json) |
 | HoverGrease 2 | 330535 | [330535-hovergrease-2.json](./330535-hovergrease-2.json) |
+| Hoverise Rebellion | 204412 | [204412-hoverise-rebellion.json](./204412-hoverise-rebellion.json) |
 | Hovershift | 117695 | [117695-hovershift.json](./117695-hovershift.json) |
 | Hovershift | 336916 | [336916-hovershift.json](./336916-hovershift.json) |
 | Hoversteppers | 262106 | [262106-hoversteppers.json](./262106-hoversteppers.json) |
