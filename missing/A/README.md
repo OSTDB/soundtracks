@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day With Mochi | 323717 | [323717-a-day-with-mochi.json](./323717-a-day-with-mochi.json) |
 | A Day with the Wiggles | 273875 | [273875-a-day-with-the-wiggles.json](./273875-a-day-with-the-wiggles.json) |
 | A Day's Work | 307699 | [307699-a-days-work.json](./307699-a-days-work.json) |
+| A Decade Outside | 186043 | [186043-a-decade-outside.json](./186043-a-decade-outside.json) |
 | A Demon's Game: Episode 1 | 30053 | [30053-a-demons-game-episode-1.json](./30053-a-demons-game-episode-1.json) |
 | A Desert Christmas Story | 235974 | [235974-a-desert-christmas-story.json](./235974-a-desert-christmas-story.json) |
 | A Detective Game | 302498 | [302498-a-detective-game.json](./302498-a-detective-game.json) |
@@ -4808,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArcheWorld | 217002 | [217002-archeworld.json](./217002-archeworld.json) |
 | Archibald 2 | 116985 | [116985-archibald-2.json](./116985-archibald-2.json) |
 | Archibald's Adventures | 33046 | [33046-archibalds-adventures.json](./33046-archibalds-adventures.json) |
+| Archie: Riverdale Rescue | 186060 | [186060-archie-riverdale-rescue.json](./186060-archie-riverdale-rescue.json) |
 | Archipelagates | 258224 | [258224-archipelagates.json](./258224-archipelagates.json) |
 | Archipelago | 201184 | [201184-archipelago.json](./201184-archipelago.json) |
 | Archipelago | 301364 | [301364-archipelago.json](./301364-archipelago.json) |
@@ -5138,6 +5140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armies of Ganivar | 130322 | [130322-armies-of-ganivar.json](./130322-armies-of-ganivar.json) |
 | Armies of Riddle E.X. (Extreme) | 126440 | [126440-armies-of-riddle-e-x-extreme.json](./126440-armies-of-riddle-e-x-extreme.json) |
 | Armikrog | 11093 | [11093-armikrog.json](./11093-armikrog.json) |
+| Armis | 186039 | [186039-armis.json](./186039-armis.json) |
 | Armless Samurai | 296454 | [296454-armless-samurai.json](./296454-armless-samurai.json) |
 | Armobiles | 122976 | [122976-armobiles.json](./122976-armobiles.json) |
 | Armor Assault | 24898 | [24898-armor-assault.json](./24898-armor-assault.json) |
@@ -5186,6 +5189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored War | 277327 | [277327-armored-war.json](./277327-armored-war.json) |
 | Armored Warfare | 15853 | [15853-armored-warfare.json](./15853-armored-warfare.json) |
 | Armored Warriors | 13688 | [13688-armored-warriors.json](./13688-armored-warriors.json) |
+| Armorines: Project S.W.A.R.M. | 186027 | [186027-armorines-project-s-w-a-r-m.json](./186027-armorines-project-s-w-a-r-m.json) |
 | Armorines: Project S.W.A.R.M. | 3439 | [3439-armorines-project-s-w-a-r-m.json](./3439-armorines-project-s-w-a-r-m.json) |
 | Armory League | 105278 | [105278-armory-league.json](./105278-armory-league.json) |
 | Armour-Geddon II: Codename Hellfire | 14267 | [14267-armour-geddon-ii-codename-hellfire.json](./14267-armour-geddon-ii-codename-hellfire.json) |
@@ -5350,6 +5354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur's Reading Games | 59948 | [59948-arthurs-reading-games.json](./59948-arthurs-reading-games.json) |
 | Arthur's Revenge | 141141 | [141141-arthurs-revenge.json](./141141-arthurs-revenge.json) |
 | Arthur’s Tale | 405578 | [405578-arthur-s-tale.json](./405578-arthur-s-tale.json) |
+| Arthur's Thinking Games | 186061 | [186061-arthurs-thinking-games.json](./186061-arthurs-thinking-games.json) |
 | Artifact Adventure Gaiden DX | 119527 | [119527-artifact-adventure-gaiden-dx.json](./119527-artifact-adventure-gaiden-dx.json) |
 | Artifact Run | 384534 | [384534-artifact-run.json](./384534-artifact-run.json) |
 | Artifact Seekers | 366306 | [366306-artifact-seekers.json](./366306-artifact-seekers.json) |
