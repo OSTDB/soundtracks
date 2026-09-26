@@ -1983,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Factory | 236524 | [236524-final-factory.json](./236524-final-factory.json) |
 | Final Failure | 93629 | [93629-final-failure.json](./93629-final-failure.json) |
 | Final Fall | 341702 | [341702-final-fall.json](./341702-final-fall.json) |
+| Final Fanta-Three | 183900 | [183900-final-fanta-three.json](./183900-final-fanta-three.json) |
 | Final Fantasy | 271227 | [271227-final-fantasy.json](./271227-final-fantasy.json) |
 | Final Fantasy | 286674 | [286674-final-fantasy.json](./286674-final-fantasy.json) |
 | Final Fantasy | 408304 | [408304-final-fantasy.json](./408304-final-fantasy.json) |
@@ -2475,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireside Feelings | 345597 | [345597-fireside-feelings.json](./345597-fireside-feelings.json) |
 | Fireside Hero | 191854 | [191854-fireside-hero.json](./191854-fireside-hero.json) |
 | Firesoul | 217401 | [217401-firesoul.json](./217401-firesoul.json) |
+| Firestarter | 183894 | [183894-firestarter.json](./183894-firestarter.json) |
 | Firestarter | 78049 | [78049-firestarter.json](./78049-firestarter.json) |
 | FireStarter 2 | 312720 | [312720-firestarter-2.json](./312720-firestarter-2.json) |
 | Firestorm | 239088 | [239088-firestorm.json](./239088-firestorm.json) |
