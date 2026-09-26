@@ -1517,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadcam | 323190 | [323190-deadcam.json](./323190-deadcam.json) |
 | DeadCore | 7864 | [7864-deadcore.json](./7864-deadcore.json) |
 | DeadCore Redux | 345547 | [345547-deadcore-redux.json](./345547-deadcore-redux.json) |
+| Deadcraft: Deluxe Edition | 199896 | [199896-deadcraft-deluxe-edition.json](./199896-deadcraft-deluxe-edition.json) |
 | Deadcraft: Digital Deluxe Edition | 221250 | [221250-deadcraft-digital-deluxe-edition.json](./221250-deadcraft-digital-deluxe-edition.json) |
 | Deaded | 238738 | [238738-deaded.json](./238738-deaded.json) |
 | Deadeus | 122405 | [122405-deadeus.json](./122405-deadeus.json) |
@@ -1552,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Curse | 107683 | [107683-deadly-curse.json](./107683-deadly-curse.json) |
 | Deadly Dainosaur: Hunting Safari | 147289 | [147289-deadly-dainosaur-hunting-safari.json](./147289-deadly-dainosaur-hunting-safari.json) |
 | Deadly Danger Dungeon | 323742 | [323742-deadly-danger-dungeon.json](./323742-deadly-danger-dungeon.json) |
+| Deadly Days: The Final Shelter | 199941 | [199941-deadly-days-the-final-shelter.json](./199941-deadly-days-the-final-shelter.json) |
 | Deadly Desire | 232915 | [232915-deadly-desire.json](./232915-deadly-desire.json) |
 | Deadly Dozen | 27479 | [27479-deadly-dozen.json](./27479-deadly-dozen.json) |
 | Deadly Dozen Reloaded | 193753 | [193753-deadly-dozen-reloaded.json](./193753-deadly-dozen-reloaded.json) |
@@ -4176,6 +4178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divan Chronicles: Battle for Dancig - Episode 3 | 172096 | [172096-divan-chronicles-battle-for-dancig-episode-3.json](./172096-divan-chronicles-battle-for-dancig-episode-3.json) |
 | Divarr | 282151 | [282151-divarr.json](./282151-divarr.json) |
 | Dive Expedition: Complete Edition | 385197 | [385197-dive-expedition-complete-edition.json](./385197-dive-expedition-complete-edition.json) |
+| Dive in the Past | 199911 | [199911-dive-in-the-past.json](./199911-dive-in-the-past.json) |
 | Dive Into The Survival | 340555 | [340555-dive-into-the-survival.json](./340555-dive-into-the-survival.json) |
 | Dive On | 264069 | [264069-dive-on.json](./264069-dive-on.json) |
 | Dive or Die: Children of Rain | 391055 | [391055-dive-or-die-children-of-rain.json](./391055-dive-or-die-children-of-rain.json) |
@@ -7129,6 +7132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Dragon Knight | 113402 | [113402-dungeon-of-dragon-knight.json](./113402-dungeon-of-dragon-knight.json) |
 | Dungeon Of Dragon Knight Remake | 412556 | [412556-dungeon-of-dragon-knight-remake.json](./412556-dungeon-of-dragon-knight-remake.json) |
 | Dungeon of Erotic Master Reboot | 374614 | [374614-dungeon-of-erotic-master-reboot.json](./374614-dungeon-of-erotic-master-reboot.json) |
+| Dungeon of Gods | 199915 | [199915-dungeon-of-gods.json](./199915-dungeon-of-gods.json) |
 | Dungeon of Grandmasters | 322802 | [322802-dungeon-of-grandmasters.json](./322802-dungeon-of-grandmasters.json) |
 | Dungeon of Horror | 262909 | [262909-dungeon-of-horror.json](./262909-dungeon-of-horror.json) |
 | Dungeon of Memories | 295807 | [295807-dungeon-of-memories.json](./295807-dungeon-of-memories.json) |
@@ -7146,6 +7150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Pizza | 365096 | [365096-dungeon-pizza.json](./365096-dungeon-pizza.json) |
 | Dungeon Prospector | 50865 | [50865-dungeon-prospector.json](./50865-dungeon-prospector.json) |
 | Dungeon Quest | 101600 | [101600-dungeon-quest.json](./101600-dungeon-quest.json) |
+| Dungeon Quest | 199924 | [199924-dungeon-quest.json](./199924-dungeon-quest.json) |
 | Dungeon Quest | 225579 | [225579-dungeon-quest.json](./225579-dungeon-quest.json) |
 | Dungeon Quest | 2880 | [2880-dungeon-quest.json](./2880-dungeon-quest.json) |
 | Dungeon Raid | 22459 | [22459-dungeon-raid.json](./22459-dungeon-raid.json) |
