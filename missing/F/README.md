@@ -1446,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fearless Tigor | 114819 | [114819-fearless-tigor.json](./114819-fearless-tigor.json) |
 | Fearless Wheels | 103889 | [103889-fearless-wheels.json](./103889-fearless-wheels.json) |
 | Fears | 15541 | [15541-fears.json](./15541-fears.json) |
+| Fears of Glasses O-O | 180008 | [180008-fears-of-glasses-o-o.json](./180008-fears-of-glasses-o-o.json) |
 | Feartten Noir Story | 195246 | [195246-feartten-noir-story.json](./195246-feartten-noir-story.json) |
 | Fearwoods | 388421 | [388421-fearwoods.json](./388421-fearwoods.json) |
 | Feast of the Beast: Unleashed | 381697 | [381697-feast-of-the-beast-unleashed.json](./381697-feast-of-the-beast-unleashed.json) |
@@ -2928,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flaiser | 183449 | [183449-flaiser.json](./183449-flaiser.json) |
 | Flake: The Legend of Snowblind | 287195 | [287195-flake-the-legend-of-snowblind.json](./287195-flake-the-legend-of-snowblind.json) |
 | Flaky Love | 310039 | [310039-flaky-love.json](./310039-flaky-love.json) |
+| Flamango | 180034 | [180034-flamango.json](./180034-flamango.json) |
 | Flambo's Inferno | 196164 | [196164-flambos-inferno.json](./196164-flambos-inferno.json) |
 | Flame Gunner | 267397 | [267397-flame-gunner.json](./267397-flame-gunner.json) |
 | Flame Land | 310017 | [310017-flame-land.json](./310017-flame-land.json) |
