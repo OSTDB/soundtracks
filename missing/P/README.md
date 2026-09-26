@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painted Legend | 31896 | [31896-painted-legend.json](./31896-painted-legend.json) |
 | Painter | 262091 | [262091-painter.json](./262091-painter.json) |
 | Painter Man!! | 342623 | [342623-painter-man.json](./342623-painter-man.json) |
+| Painter's Pets | 189951 | [189951-painters-pets.json](./189951-painters-pets.json) |
 | Paintey | 33467 | [33467-paintey.json](./33467-paintey.json) |
 | Painting Mel-chan | 237505 | [237505-painting-mel-chan.json](./237505-painting-mel-chan.json) |
 | Painting VR: Cozy Cabin | 305541 | [305541-painting-vr-cozy-cabin.json](./305541-painting-vr-cozy-cabin.json) |
@@ -4923,6 +4924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poop Killer II | 229824 | [229824-poop-killer-ii.json](./229824-poop-killer-ii.json) |
 | Poop Killer: Flush or Die | 335997 | [335997-poop-killer-flush-or-die.json](./335997-poop-killer-flush-or-die.json) |
 | Poop on Red | 326238 | [326238-poop-on-red.json](./326238-poop-on-red.json) |
+| Poop Plague in Fairyland | 189948 | [189948-poop-plague-in-fairyland.json](./189948-poop-plague-in-fairyland.json) |
 | Poop Rocket | 341562 | [341562-poop-rocket.json](./341562-poop-rocket.json) |
 | Poop Spotter: The Game To Improve the Quality of Poop~ | 294286 | [294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json](./294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json) |
 | Poor Artifact Maker | 290538 | [290538-poor-artifact-maker.json](./290538-poor-artifact-maker.json) |
@@ -5544,6 +5546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | President card game | 99377 | [99377-president-card-game.json](./99377-president-card-game.json) |
 | President of Steel | 382882 | [382882-president-of-steel.json](./382882-president-of-steel.json) |
 | President Pig | 100726 | [100726-president-pig.json](./100726-president-pig.json) |
+| President Rocket Game | 189937 | [189937-president-rocket-game.json](./189937-president-rocket-game.json) |
 | President Simulator | 400440 | [400440-president-simulator.json](./400440-president-simulator.json) |
 | Presidential Running Games | 292689 | [292689-presidential-running-games.json](./292689-presidential-running-games.json) |
 | PreSim | 88242 | [88242-presim.json](./88242-presim.json) |
@@ -7124,6 +7127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Arcade | 74420 | [74420-puzzle-arcade.json](./74420-puzzle-arcade.json) |
 | Puzzle Arena Toshinden | 44824 | [44824-puzzle-arena-toshinden.json](./44824-puzzle-arena-toshinden.json) |
 | Puzzle Art: Horses | 191207 | [191207-puzzle-art-horses.json](./191207-puzzle-art-horses.json) |
+| Puzzle Art: Primates | 189963 | [189963-puzzle-art-primates.json](./189963-puzzle-art-primates.json) |
 | Puzzle Art: Rodents | 191208 | [191208-puzzle-art-rodents.json](./191208-puzzle-art-rodents.json) |
 | Puzzle Atlas | 404402 | [404402-puzzle-atlas.json](./404402-puzzle-atlas.json) |
 | Puzzle Ball Z | 384509 | [384509-puzzle-ball-z.json](./384509-puzzle-ball-z.json) |
