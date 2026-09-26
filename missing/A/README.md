@@ -288,6 +288,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Passive Boy at the Huntress Clinic | 232425 | [232425-a-passive-boy-at-the-huntress-clinic.json](./232425-a-passive-boy-at-the-huntress-clinic.json) |
 | A Passive Boy at the Huntress Clinic | 240215 | [240215-a-passive-boy-at-the-huntress-clinic.json](./240215-a-passive-boy-at-the-huntress-clinic.json) |
 | A Past and Future Secret | 271200 | [271200-a-past-and-future-secret.json](./271200-a-past-and-future-secret.json) |
+| A Pequena Grande Crise 2: A Ameaça é Outra Agora | 217797 | [217797-a-pequena-grande-crise-2-a-ameaca-e-outra-agora.json](./217797-a-pequena-grande-crise-2-a-ameaca-e-outra-agora.json) |
+| A Pequena Grande Crise 3: A Queda do Gigante | 217818 | [217818-a-pequena-grande-crise-3-a-queda-do-gigante.json](./217818-a-pequena-grande-crise-3-a-queda-do-gigante.json) |
 | A Perfect Day | 384775 | [384775-a-perfect-day.json](./384775-a-perfect-day.json) |
 | A Phone Found in Tall Grass | 245025 | [245025-a-phone-found-in-tall-grass.json](./245025-a-phone-found-in-tall-grass.json) |
 | A Piano Tale | 201677 | [201677-a-piano-tale.json](./201677-a-piano-tale.json) |
@@ -2393,6 +2395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All One | 41370 | [41370-all-one.json](./41370-all-one.json) |
 | All one click | 267086 | [267086-all-one-click.json](./267086-all-one-click.json) |
 | All Our Asias | 68216 | [68216-all-our-asias.json](./68216-all-our-asias.json) |
+| All Pro Basketball | 217823 | [217823-all-pro-basketball.json](./217823-all-pro-basketball.json) |
 | All Quite on the Bridge: Mad Cliff | 105306 | [105306-all-quite-on-the-bridge-mad-cliff.json](./105306-all-quite-on-the-bridge-mad-cliff.json) |
 | All Songs are From the King | 199505 | [199505-all-songs-are-from-the-king.json](./199505-all-songs-are-from-the-king.json) |
 | All Star Action | 44829 | [44829-all-star-action.json](./44829-all-star-action.json) |
@@ -5660,6 +5663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroad | 149089 | [149089-asteroad.json](./149089-asteroad.json) |
 | Asteroid | 80931 | [80931-asteroid.json](./80931-asteroid.json) |
 | Asteroid Arena | 190060 | [190060-asteroid-arena.json](./190060-asteroid-arena.json) |
+| Asteroid Blaster | 217824 | [217824-asteroid-blaster.json](./217824-asteroid-blaster.json) |
 | Asteroid Blockade | 359444 | [359444-asteroid-blockade.json](./359444-asteroid-blockade.json) |
 | Asteroid Breaker: Avoid the DizAsteroid | 105955 | [105955-asteroid-breaker-avoid-the-dizasteroid.json](./105955-asteroid-breaker-avoid-the-dizasteroid.json) |
 | Asteroid Challenge | 85505 | [85505-asteroid-challenge.json](./85505-asteroid-challenge.json) |
@@ -6156,6 +6160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack Animal Gakuen | 48601 | [48601-attack-animal-gakuen.json](./48601-attack-animal-gakuen.json) |
 | Attack at EP-CYG-4 | 292837 | [292837-attack-at-ep-cyg-4.json](./292837-attack-at-ep-cyg-4.json) |
 | Attack Force | 143056 | [143056-attack-force.json](./143056-attack-force.json) |
+| Attack from Mars | 217825 | [217825-attack-from-mars.json](./217825-attack-from-mars.json) |
 | Attack From Mars | 91434 | [91434-attack-from-mars.json](./91434-attack-from-mars.json) |
 | Attack of the Creeps | 72054 | [72054-attack-of-the-creeps.json](./72054-attack-of-the-creeps.json) |
 | Attack of The Dead | 379986 | [379986-attack-of-the-dead.json](./379986-attack-of-the-dead.json) |
