@@ -1671,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caterpilla | 83266 | [83266-caterpilla.json](./83266-caterpilla.json) |
 | Caterpillar King | 384085 | [384085-caterpillar-king.json](./384085-caterpillar-king.json) |
 | Caterpillar Royale | 115466 | [115466-caterpillar-royale.json](./115466-caterpillar-royale.json) |
+| Caterpillar: Adventures in Time | 206094 | [206094-caterpillar-adventures-in-time.json](./206094-caterpillar-adventures-in-time.json) |
 | Caterra | 224079 | [224079-caterra.json](./224079-caterra.json) |
 | Caterva: Outsider Dreams | 412535 | [412535-caterva-outsider-dreams.json](./412535-caterva-outsider-dreams.json) |
 | Caterzillar | 82950 | [82950-caterzillar.json](./82950-caterzillar.json) |
