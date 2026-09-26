@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Raid | 147245 | [147245-idle-raid.json](./147245-idle-raid.json) |
 | Idle Realms: The Eternal Spire | 403657 | [403657-idle-realms-the-eternal-spire.json](./403657-idle-realms-the-eternal-spire.json) |
 | Idle Regenerator | 408041 | [408041-idle-regenerator.json](./408041-idle-regenerator.json) |
+| Idle Robot: Build Your Own Mecha | 199940 | [199940-idle-robot-build-your-own-mecha.json](./199940-idle-robot-build-your-own-mecha.json) |
 | Idle Roboto | 152888 | [152888-idle-roboto.json](./152888-idle-roboto.json) |
 | Idle Robots | 255795 | [255795-idle-robots.json](./255795-idle-robots.json) |
 | Idle RPG: The Game is Bugged! | 292135 | [292135-idle-rpg-the-game-is-bugged.json](./292135-idle-rpg-the-game-is-bugged.json) |
@@ -2317,6 +2318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IPS 13: All Signals Lost | 369012 | [369012-ips-13-all-signals-lost.json](./369012-ips-13-all-signals-lost.json) |
 | Ipuppet Presents: Colin's Classic Cards | 210022 | [210022-ipuppet-presents-colins-classic-cards.json](./210022-ipuppet-presents-colins-classic-cards.json) |
 | IPuppy World | 175290 | [175290-ipuppy-world.json](./175290-ipuppy-world.json) |
+| IQ Dungeon | 199904 | [199904-iq-dungeon.json](./199904-iq-dungeon.json) |
 | IQ Logic Codes: Number & Letter Puzzles | 415062 | [415062-iq-logic-codes-number-and-letter-puzzles.json](./415062-iq-logic-codes-number-and-letter-puzzles.json) |
 | IQ Wars | 89171 | [89171-iq-wars.json](./89171-iq-wars.json) |
 | Ir/rational Investigator | 110316 | [110316-ir-rational-investigator.json](./110316-ir-rational-investigator.json) |
