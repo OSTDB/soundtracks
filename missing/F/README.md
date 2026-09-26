@@ -4026,6 +4026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgetting Emily | 309680 | [309680-forgetting-emily.json](./309680-forgetting-emily.json) |
 | Forging Ahead | 244740 | [244740-forging-ahead.json](./244740-forging-ahead.json) |
 | Forging Glory | 132814 | [132814-forging-glory.json](./132814-forging-glory.json) |
+| Forging History Saga: The big bang | 182842 | [182842-forging-history-saga-the-big-bang.json](./182842-forging-history-saga-the-big-bang.json) |
 | Forgiveness | 111471 | [111471-forgiveness.json](./111471-forgiveness.json) |
 | Forgiveness | 291580 | [291580-forgiveness.json](./291580-forgiveness.json) |
 | Forgiveness RPG: The First Chapter - Part Three | 297539 | [297539-forgiveness-rpg-the-first-chapter-part-three.json](./297539-forgiveness-rpg-the-first-chapter-part-three.json) |
@@ -5622,6 +5623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusillade | 264570 | [264570-fusillade.json](./264570-fusillade.json) |
 | Fusing Noracam | 267090 | [267090-fusing-noracam.json](./267090-fusing-noracam.json) |
 | Fusion | 158712 | [158712-fusion.json](./158712-fusion.json) |
+| Fusion | 182822 | [182822-fusion.json](./182822-fusion.json) |
 | Fusion Galaxy | 395572 | [395572-fusion-galaxy.json](./395572-fusion-galaxy.json) |
 | Fusion Nexus: Alchemic Evolution | 291776 | [291776-fusion-nexus-alchemic-evolution.json](./291776-fusion-nexus-alchemic-evolution.json) |
 | Fusion Paradox | 248662 | [248662-fusion-paradox.json](./248662-fusion-paradox.json) |
