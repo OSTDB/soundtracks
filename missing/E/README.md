@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy puzzle: Landscape | 248928 | [248928-easy-puzzle-landscape.json](./248928-easy-puzzle-landscape.json) |
 | Easy puzzle: Streets | 287765 | [287765-easy-puzzle-streets.json](./287765-easy-puzzle-streets.json) |
 | Easy Quiz | 171495 | [171495-easy-quiz.json](./171495-easy-quiz.json) |
+| Easy Quiz: This One Is Free | 196034 | [196034-easy-quiz-this-one-is-free.json](./196034-easy-quiz-this-one-is-free.json) |
 | Easy Red 2: Stalingrad | 231286 | [231286-easy-red-2-stalingrad.json](./231286-easy-red-2-stalingrad.json) |
 | Easy RTS | 303502 | [303502-easy-rts.json](./303502-easy-rts.json) |
 | Easy Simple Game | 212832 | [212832-easy-simple-game.json](./212832-easy-simple-game.json) |
@@ -1812,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epoch Cycle | 374134 | [374134-epoch-cycle.json](./374134-epoch-cycle.json) |
 | Epoch of Love | 211778 | [211778-epoch-of-love.json](./211778-epoch-of-love.json) |
 | Epoch Reset | 380414 | [380414-epoch-reset.json](./380414-epoch-reset.json) |
+| Epochs of Enmity | 196012 | [196012-epochs-of-enmity.json](./196012-epochs-of-enmity.json) |
 | Epochs of Fire | 333009 | [333009-epochs-of-fire.json](./333009-epochs-of-fire.json) |
 | Epolevne | 176355 | [176355-epolevne.json](./176355-epolevne.json) |
 | Epos 11 | 355525 | [355525-epos-11.json](./355525-epos-11.json) |
