@@ -1443,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario + Rabbids Sparks of Hope: Season Pass | 240308 | [240308-mario-rabbids-sparks-of-hope-season-pass.json](./240308-mario-rabbids-sparks-of-hope-season-pass.json) |
 | Mario + Wario Complete | 318037 | [318037-mario-wario-complete.json](./318037-mario-wario-complete.json) |
 | Mario 128 | 130354 | [130354-mario-128.json](./130354-mario-128.json) |
+| Mario 3: Vokrug Svyeta | 202673 | [202673-mario-3-vokrug-svyeta.json](./202673-mario-3-vokrug-svyeta.json) |
 | Mario 64 x Banjo Kazooie | 134018 | [134018-mario-64-x-banjo-kazooie.json](./134018-mario-64-x-banjo-kazooie.json) |
 | Mario 7-in-1 | 242230 | [242230-mario-7-in-1.json](./242230-mario-7-in-1.json) |
 | Mario a Plumber in Time Re-Mastered | 294773 | [294773-mario-a-plumber-in-time-re-mastered.json](./294773-mario-a-plumber-in-time-re-mastered.json) |
@@ -5146,6 +5147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ministry of Order | 334893 | [334893-ministry-of-order.json](./334893-ministry-of-order.json) |
 | Ministry of Sound: Club Manager | 57933 | [57933-ministry-of-sound-club-manager.json](./57933-ministry-of-sound-club-manager.json) |
 | Minitechno | 278529 | [278529-minitechno.json](./278529-minitechno.json) |
+| MiniTrans | 202664 | [202664-minitrans.json](./202664-minitrans.json) |
 | Miniverse | 179059 | [179059-miniverse.json](./179059-miniverse.json) |
 | Miniverse Minigolf | 93383 | [93383-miniverse-minigolf.json](./93383-miniverse-minigolf.json) |
 | MiniWood VR | 118159 | [118159-miniwood-vr.json](./118159-miniwood-vr.json) |
