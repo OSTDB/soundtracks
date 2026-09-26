@@ -1648,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kittentegy | 303613 | [303613-kittentegy.json](./303613-kittentegy.json) |
 | Kitto Zenbu Watashi no Sei | 243629 | [243629-kitto-zenbu-watashi-no-sei.json](./243629-kitto-zenbu-watashi-no-sei.json) |
 | Kitty & Friends: Blast of Fun | 239886 | [239886-kitty-and-friends-blast-of-fun.json](./239886-kitty-and-friends-blast-of-fun.json) |
+| Kitty Cat Squash | 192691 | [192691-kitty-cat-squash.json](./192691-kitty-cat-squash.json) |
 | Kitty Collapse | 303614 | [303614-kitty-collapse.json](./303614-kitty-collapse.json) |
 | Kitty Curling | 180770 | [180770-kitty-curling.json](./180770-kitty-curling.json) |
 | Kitty Death Room | 221408 | [221408-kitty-death-room.json](./221408-kitty-death-room.json) |
@@ -2386,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung-Fu Master | 86202 | [86202-kung-fu-master.json](./86202-kung-fu-master.json) |
 | Kung-Fu Street | 137063 | [137063-kung-fu-street.json](./137063-kung-fu-street.json) |
 | Kung-Fu Taikun | 40220 | [40220-kung-fu-taikun.json](./40220-kung-fu-taikun.json) |
+| Kungen | 192690 | [192690-kungen.json](./192690-kungen.json) |
 | Kungfu | 274525 | [274525-kungfu.json](./274525-kungfu.json) |
 | Kungfu Beggar | 75795 | [75795-kungfu-beggar.json](./75795-kungfu-beggar.json) |
 | Kungfu Football Captain | 153931 | [153931-kungfu-football-captain.json](./153931-kungfu-football-captain.json) |
