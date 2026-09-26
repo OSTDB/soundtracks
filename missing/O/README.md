@@ -2201,6 +2201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outright | 149086 | [149086-outright.json](./149086-outright.json) |
 | OutRoad Fury | 304663 | [304663-outroad-fury.json](./304663-outroad-fury.json) |
 | Outrun | 325048 | [325048-outrun.json](./325048-outrun.json) |
+| OutRun | 200424 | [200424-outrun.json](./200424-outrun.json) |
 | OutRun | 307917 | [307917-outrun.json](./307917-outrun.json) |
 | OutRun | 307918 | [307918-outrun.json](./307918-outrun.json) |
 | OutRun | 307919 | [307919-outrun.json](./307919-outrun.json) |
