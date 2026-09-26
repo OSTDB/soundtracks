@@ -1389,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings | 78364 | [78364-kings.json](./78364-kings.json) |
 | Kings & Savages | 330264 | [330264-kings-and-savages.json](./330264-kings-and-savages.json) |
 | Kings Age | 62717 | [62717-kings-age.json](./62717-kings-age.json) |
+| Kings and Catapults | 215647 | [215647-kings-and-catapults.json](./215647-kings-and-catapults.json) |
 | Kings and Generals: A Divided Loyalty | 60249 | [60249-kings-and-generals-a-divided-loyalty.json](./60249-kings-and-generals-a-divided-loyalty.json) |
 | Kings and Pigs | 152937 | [152937-kings-and-pigs.json](./152937-kings-and-pigs.json) |
 | Kings Hero 2 | 175359 | [175359-kings-hero-2.json](./175359-kings-hero-2.json) |
