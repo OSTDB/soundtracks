@@ -628,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Wood | 104562 | [104562-last-wood.json](./104562-last-wood.json) |
 | Last Word | 26639 | [26639-last-word.json](./26639-last-word.json) |
 | Last Word | 342169 | [342169-last-word.json](./342169-last-word.json) |
+| Last Words | 215024 | [215024-last-words.json](./215024-last-words.json) |
 | Last Words. | 389127 | [389127-last-words.json](./389127-last-words.json) |
 | Last Year | 19819 | [19819-last-year.json](./19819-last-year.json) |
 | Last Z: Survival Shooter | 375192 | [375192-last-z-survival-shooter.json](./375192-last-z-survival-shooter.json) |
@@ -2262,10 +2263,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa Joyful in Hopeful | 348964 | [348964-lisa-joyful-in-hopeful.json](./348964-lisa-joyful-in-hopeful.json) |
 | Lisa: The First | 26652 | [26652-lisa-the-first.json](./26652-lisa-the-first.json) |
 | Lisa: The Gluttonous | 382794 | [382794-lisa-the-gluttonous.json](./382794-lisa-the-gluttonous.json) |
+| Lisa: The Oblivious | 215082 | [215082-lisa-the-oblivious.json](./215082-lisa-the-oblivious.json) |
 | Lisa: The Painful - Fractured Bonds | 221767 | [221767-lisa-the-painful-fractured-bonds.json](./221767-lisa-the-painful-fractured-bonds.json) |
 | Lisa: The Pointless - Scholar of the Wilbur Sin Edition | 177033 | [177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json](./177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json) |
 | Lisa: The Purposeful | 221839 | [221839-lisa-the-purposeful.json](./221839-lisa-the-purposeful.json) |
 | Lisa: The Timeless | 159151 | [159151-lisa-the-timeless.json](./159151-lisa-the-timeless.json) |
+| Lisa: The Unbreakable RPG | 215081 | [215081-lisa-the-unbreakable-rpg.json](./215081-lisa-the-unbreakable-rpg.json) |
 | Lisa: The Undone | 297621 | [297621-lisa-the-undone.json](./297621-lisa-the-undone.json) |
 | Lisa's Memory | 114192 | [114192-lisas-memory.json](./114192-lisas-memory.json) |
 | Lisistrata | 195601 | [195601-lisistrata.json](./195601-lisistrata.json) |
