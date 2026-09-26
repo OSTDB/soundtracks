@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race To The Sea | 372479 | [372479-race-to-the-sea.json](./372479-race-to-the-sea.json) |
 | Race Track Maniacs | 333527 | [333527-race-track-maniacs.json](./333527-race-track-maniacs.json) |
 | Race with Ryan: Road Trip - Deluxe Edition | 141036 | [141036-race-with-ryan-road-trip-deluxe-edition.json](./141036-race-with-ryan-road-trip-deluxe-edition.json) |
+| Race With Ryan: Surprise Track Pack | 197661 | [197661-race-with-ryan-surprise-track-pack.json](./197661-race-with-ryan-surprise-track-pack.json) |
 | Race: Rocket Arena Car Extreme | 226724 | [226724-race-rocket-arena-car-extreme.json](./226724-race-rocket-arena-car-extreme.json) |
 | Race.a.bit | 36114 | [36114-race-a-bit.json](./36114-race-a-bit.json) |
 | Race07 | 50162 | [50162-race07.json](./50162-race07.json) |
@@ -405,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid Arena | 313305 | [313305-raid-arena.json](./313305-raid-arena.json) |
 | Raid Gaza! | 318205 | [318205-raid-gaza.json](./318205-raid-gaza.json) |
 | Raid Leader | 237385 | [237385-raid-leader.json](./237385-raid-leader.json) |
+| Raid Manager | 197655 | [197655-raid-manager.json](./197655-raid-manager.json) |
 | Raid on Coasts | 51574 | [51574-raid-on-coasts.json](./51574-raid-on-coasts.json) |
 | Raid Rush | 355014 | [355014-raid-rush.json](./355014-raid-rush.json) |
 | Raidborn: Founder's Pack | 298337 | [298337-raidborn-founders-pack.json](./298337-raidborn-founders-pack.json) |
@@ -559,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Slides: Care Bears! | 86842 | [86842-rainbow-slides-care-bears.json](./86842-rainbow-slides-care-bears.json) |
 | Rainbow Splash | 242792 | [242792-rainbow-splash.json](./242792-rainbow-splash.json) |
 | Rainbow Step | 67929 | [67929-rainbow-step.json](./67929-rainbow-step.json) |
+| Rainbow Story Global | 197637 | [197637-rainbow-story-global.json](./197637-rainbow-story-global.json) |
 | Rainbow Tap | 203307 | [203307-rainbow-tap.json](./203307-rainbow-tap.json) |
 | Rainbow Tunnel | 182940 | [182940-rainbow-tunnel.json](./182940-rainbow-tunnel.json) |
 | Rainbow Unicorn Nail Salon | 90353 | [90353-rainbow-unicorn-nail-salon.json](./90353-rainbow-unicorn-nail-salon.json) |
@@ -1045,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Razorback | 336008 | [336008-razorback.json](./336008-razorback.json) |
 | Razzmatazz | 40392 | [40392-razzmatazz.json](./40392-razzmatazz.json) |
 | RB Axolotl | 108962 | [108962-rb-axolotl.json](./108962-rb-axolotl.json) |
+| RBL | 197641 | [197641-rbl.json](./197641-rbl.json) |
 | RC Airplane Challenge | 158711 | [158711-rc-airplane-challenge.json](./158711-rc-airplane-challenge.json) |
 | RC Airplane: Flight Simulator | 261352 | [261352-rc-airplane-flight-simulator.json](./261352-rc-airplane-flight-simulator.json) |
 | RC Death Race: Multiplayer | 392941 | [392941-rc-death-race-multiplayer.json](./392941-rc-death-race-multiplayer.json) |
@@ -4803,6 +4807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubek | 25069 | [25069-rubek.json](./25069-rubek.json) |
 | Rubelike | 176377 | [176377-rubelike.json](./176377-rubelike.json) |
 | Rubi: The Wayward Mira | 55180 | [55180-rubi-the-wayward-mira.json](./55180-rubi-the-wayward-mira.json) |
+| Rubicon | 197678 | [197678-rubicon.json](./197678-rubicon.json) |
 | Rubicon | 79242 | [79242-rubicon.json](./79242-rubicon.json) |
 | Rubicon Approach | 83944 | [83944-rubicon-approach.json](./83944-rubicon-approach.json) |
 | Rubido | 260714 | [260714-rubido.json](./260714-rubido.json) |
