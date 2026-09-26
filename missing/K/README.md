@@ -1789,6 +1789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight of Valour 3 HD | 285585 | [285585-knight-of-valour-3-hd.json](./285585-knight-of-valour-3-hd.json) |
 | Knight On The Moon | 350621 | [350621-knight-on-the-moon.json](./350621-knight-on-the-moon.json) |
 | Knight Overloaded | 253438 | [253438-knight-overloaded.json](./253438-knight-overloaded.json) |
+| Knight Runaway | 190948 | [190948-knight-runaway.json](./190948-knight-runaway.json) |
 | Knight Runner: Blade and Bolt | 301888 | [301888-knight-runner-blade-and-bolt.json](./301888-knight-runner-blade-and-bolt.json) |
 | Knight Shooter | 319943 | [319943-knight-shooter.json](./319943-knight-shooter.json) |
 | Knight Sim Life | 300868 | [300868-knight-sim-life.json](./300868-knight-sim-life.json) |
@@ -2462,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurushi Final: Mental Blocks | 272549 | [272549-kurushi-final-mental-blocks.json](./272549-kurushi-final-mental-blocks.json) |
 | Kurushi Final: Mental Blocks | 43868 | [43868-kurushi-final-mental-blocks.json](./43868-kurushi-final-mental-blocks.json) |
 | Kuruwa: Yuukyou Kan Yoiyamizakura Dai Ni Shou | 97287 | [97287-kuruwa-yuukyou-kan-yoiyamizakura-dai-ni-shou.json](./97287-kuruwa-yuukyou-kan-yoiyamizakura-dai-ni-shou.json) |
+| Kusari Kingdom | 190974 | [190974-kusari-kingdom.json](./190974-kusari-kingdom.json) |
 | Kusarihime: Euthanasia | 138804 | [138804-kusarihime-euthanasia.json](./138804-kusarihime-euthanasia.json) |
 | Kusarihime: Jamais Vu | 331686 | [331686-kusarihime-jamais-vu.json](./331686-kusarihime-jamais-vu.json) |
 | Kusok | 261533 | [261533-kusok.json](./261533-kusok.json) |
