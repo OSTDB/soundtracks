@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salann | 379033 | [379033-salann.json](./379033-salann.json) |
 | Salary Man Escape | 104678 | [104678-salary-man-escape.json](./104678-salary-man-escape.json) |
 | Salary Man Mario | 249751 | [249751-salary-man-mario.json](./249751-salary-man-mario.json) |
+| Saleblazers | 198241 | [198241-saleblazers.json](./198241-saleblazers.json) |
 | Salene | 405062 | [405062-salene.json](./405062-salene.json) |
 | Sales Birdman | 345604 | [345604-sales-birdman.json](./345604-sales-birdman.json) |
 | Saliens | 104692 | [104692-saliens.json](./104692-saliens.json) |
@@ -2485,6 +2486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Severance | 374827 | [374827-severance.json](./374827-severance.json) |
 | Severed | 6066 | [6066-severed.json](./6066-severed.json) |
 | Severed Love | 342754 | [342754-severed-love.json](./342754-severed-love.json) |
+| Severen | 198223 | [198223-severen.json](./198223-severen.json) |
 | Severity | 93615 | [93615-severity.json](./93615-severity.json) |
 | Sewage | 202329 | [202329-sewage.json](./202329-sewage.json) |
 | Sewage Devastation | 271780 | [271780-sewage-devastation.json](./271780-sewage-devastation.json) |
@@ -2764,6 +2766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Ninja Reborn: Deluxe Edition | 317229 | [317229-shadow-of-the-ninja-reborn-deluxe-edition.json](./317229-shadow-of-the-ninja-reborn-deluxe-edition.json) |
 | Shadow of the Road | 124209 | [124209-shadow-of-the-road.json](./124209-shadow-of-the-road.json) |
 | Shadow of the School | 302474 | [302474-shadow-of-the-school.json](./302474-shadow-of-the-school.json) |
+| Shadow of the Tomb Raider: Limited Steelbook Edition | 198245 | [198245-shadow-of-the-tomb-raider-limited-steelbook-edition.json](./198245-shadow-of-the-tomb-raider-limited-steelbook-edition.json) |
 | Shadow of the Tomb Raider: The Nightmare | 113987 | [113987-shadow-of-the-tomb-raider-the-nightmare.json](./113987-shadow-of-the-tomb-raider-the-nightmare.json) |
 | Shadow of the Tomb Raider: The Path Home | 117711 | [117711-shadow-of-the-tomb-raider-the-path-home.json](./117711-shadow-of-the-tomb-raider-the-path-home.json) |
 | Shadow of the Tomb Raider: The Pillar | 113988 | [113988-shadow-of-the-tomb-raider-the-pillar.json](./113988-shadow-of-the-tomb-raider-the-pillar.json) |
@@ -7089,6 +7092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Golf DX | 261294 | [261294-sonic-golf-dx.json](./261294-sonic-golf-dx.json) |
 | Sonic Head On | 237487 | [237487-sonic-head-on.json](./237487-sonic-head-on.json) |
 | Sonic Headway | 331713 | [331713-sonic-headway.json](./331713-sonic-headway.json) |
+| Sonic Heardle | 198251 | [198251-sonic-heardle.json](./198251-sonic-heardle.json) |
 | Sonic Hearts | 261273 | [261273-sonic-hearts.json](./261273-sonic-hearts.json) |
 | Sonic Heroes | 4156 | [4156-sonic-heroes.json](./4156-sonic-heroes.json) |
 | Sonic Heroes Puzzle | 273988 | [273988-sonic-heroes-puzzle.json](./273988-sonic-heroes-puzzle.json) |
@@ -7253,6 +7257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Fighters Blitz | 321766 | [321766-sonic-the-fighters-blitz.json](./321766-sonic-the-fighters-blitz.json) |
 | Sonic The Funk | 392430 | [392430-sonic-the-funk.json](./392430-sonic-the-funk.json) |
 | Sonic the Hedgehog | 106274 | [106274-sonic-the-hedgehog.json](./106274-sonic-the-hedgehog.json) |
+| Sonic the Hedgehog | 198248 | [198248-sonic-the-hedgehog.json](./198248-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 239066 | [239066-sonic-the-hedgehog.json](./239066-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 261243 | [261243-sonic-the-hedgehog.json](./261243-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 264886 | [264886-sonic-the-hedgehog.json](./264886-sonic-the-hedgehog.json) |
@@ -7264,6 +7269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog 2 | 112897 | [112897-sonic-the-hedgehog-2.json](./112897-sonic-the-hedgehog-2.json) |
 | Sonic the Hedgehog 2 | 202256 | [202256-sonic-the-hedgehog-2.json](./202256-sonic-the-hedgehog-2.json) |
 | Sonic the Hedgehog 2 | 239069 | [239069-sonic-the-hedgehog-2.json](./239069-sonic-the-hedgehog-2.json) |
+| Sonic the Hedgehog 2: Absolute | 198256 | [198256-sonic-the-hedgehog-2-absolute.json](./198256-sonic-the-hedgehog-2-absolute.json) |
 | Sonic The Hedgehog 2: Archives | 332835 | [332835-sonic-the-hedgehog-2-archives.json](./332835-sonic-the-hedgehog-2-archives.json) |
 | Sonic the Hedgehog 2: Frenzy | 393093 | [393093-sonic-the-hedgehog-2-frenzy.json](./393093-sonic-the-hedgehog-2-frenzy.json) |
 | Sonic the Hedgehog 2: Gear Shift | 321394 | [321394-sonic-the-hedgehog-2-gear-shift.json](./321394-sonic-the-hedgehog-2-gear-shift.json) |
@@ -9410,6 +9416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square of Joy | 312733 | [312733-square-of-joy.json](./312733-square-of-joy.json) |
 | Square Rounds | 219687 | [219687-square-rounds.json](./219687-square-rounds.json) |
 | Square Route | 98997 | [98997-square-route.json](./98997-square-route.json) |
+| Square Runner | 198238 | [198238-square-runner.json](./198238-square-runner.json) |
 | Square Saga: The Trials | 296469 | [296469-square-saga-the-trials.json](./296469-square-saga-the-trials.json) |
 | Square Shooter | 108482 | [108482-square-shooter.json](./108482-square-shooter.json) |
 | Square Valley | 200051 | [200051-square-valley.json](./200051-square-valley.json) |
@@ -12402,6 +12409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Boba: Pachinko Cafe | 296505 | [296505-super-boba-pachinko-cafe.json](./296505-super-boba-pachinko-cafe.json) |
 | Super Bomberman | 3450 | [3450-super-bomberman.json](./3450-super-bomberman.json) |
 | Super Bomberman 3 | 18618 | [18618-super-bomberman-3.json](./18618-super-bomberman-3.json) |
+| Super Bomberman BT | 198216 | [198216-super-bomberman-bt.json](./198216-super-bomberman-bt.json) |
 | Super Bomberman R 2 | 206807 | [206807-super-bomberman-r-2.json](./206807-super-bomberman-r-2.json) |
 | Super Bomberman R Online: Premium Pack | 150653 | [150653-super-bomberman-r-online-premium-pack.json](./150653-super-bomberman-r-online-premium-pack.json) |
 | Super Bomberman: Panic Bomber W | 42546 | [42546-super-bomberman-panic-bomber-w.json](./42546-super-bomberman-panic-bomber-w.json) |
@@ -12518,6 +12526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dash | 302361 | [302361-super-dash.json](./302361-super-dash.json) |
 | Super Dash Ball | 286634 | [286634-super-dash-ball.json](./286634-super-dash-ball.json) |
 | Super Death Arena | 30126 | [30126-super-death-arena.json](./30126-super-death-arena.json) |
+| Super Demo World: The Legend Continues | 198224 | [198224-super-demo-world-the-legend-continues.json](./198224-super-demo-world-the-legend-continues.json) |
 | Super Destronaut 2: Go Duck Yourself | 84917 | [84917-super-destronaut-2-go-duck-yourself.json](./84917-super-destronaut-2-go-duck-yourself.json) |
 | Super Destronaut 3D | 84916 | [84916-super-destronaut-3d.json](./84916-super-destronaut-3d.json) |
 | Super Destronaut DX | 104862 | [104862-super-destronaut-dx.json](./104862-super-destronaut-dx.json) |
@@ -13513,6 +13522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sucker: Smart DLC | 351241 | [351241-super-sucker-smart-dlc.json](./351241-super-sucker-smart-dlc.json) |
 | Super Sunny World | 324695 | [324695-super-sunny-world.json](./324695-super-sunny-world.json) |
 | Super Surf Bros | 128609 | [128609-super-surf-bros.json](./128609-super-surf-bros.json) |
+| Super Sus | 198201 | [198201-super-sus.json](./198201-super-sus.json) |
 | Super Sushi Roll | 219575 | [219575-super-sushi-roll.json](./219575-super-sushi-roll.json) |
 | Super Swap! | 54414 | [54414-super-swap.json](./54414-super-swap.json) |
 | Super Swarm Smash | 147398 | [147398-super-swarm-smash.json](./147398-super-swarm-smash.json) |
