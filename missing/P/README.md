@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Par 1 Golf 10 | 200181 | [200181-par-1-golf-10.json](./200181-par-1-golf-10.json) |
 | Par 1 Golf 7 | 174296 | [174296-par-1-golf-7.json](./174296-par-1-golf-7.json) |
 | Par 1 Golf 8 | 197790 | [197790-par-1-golf-8.json](./197790-par-1-golf-8.json) |
+| Para-Lax | 211144 | [211144-para-lax.json](./211144-para-lax.json) |
 | Para-sol | 309651 | [309651-para-sol.json](./309651-para-sol.json) |
 | Para//ax | 186170 | [186170-para-ax.json](./186170-para-ax.json) |
 | Para//Llax | 413226 | [413226-para-llax.json](./413226-para-llax.json) |
@@ -1633,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penance | 370685 | [370685-penance.json](./370685-penance.json) |
 | Pencak Silat 1.2 | 323943 | [323943-pencak-silat-1-2.json](./323943-pencak-silat-1-2.json) |
 | Pencak Silat 2.1 | 323944 | [323944-pencak-silat-2-1.json](./323944-pencak-silat-2-1.json) |
+| Pencil Case TD | 211155 | [211155-pencil-case-td.json](./211155-pencil-case-td.json) |
 | Pencil Marks | 365144 | [365144-pencil-marks.json](./365144-pencil-marks.json) |
 | Pencil Peril | 176356 | [176356-pencil-peril.json](./176356-pencil-peril.json) |
 | Pencil Plus: The Wrath of The Spankster | 242245 | [242245-pencil-plus-the-wrath-of-the-spankster.json](./242245-pencil-plus-the-wrath-of-the-spankster.json) |
