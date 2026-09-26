@@ -4362,6 +4362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hidden: Source | 70647 | [70647-the-hidden-source.json](./70647-the-hidden-source.json) |
 | The High Desert | 345134 | [345134-the-high-desert.json](./345134-the-high-desert.json) |
 | The High Tower | 373613 | [373613-the-high-tower.json](./373613-the-high-tower.json) |
+| The Hike | 188920 | [188920-the-hike.json](./188920-the-hike.json) |
 | The Hiker | 279102 | [279102-the-hiker.json](./279102-the-hiker.json) |
 | The Hikyou Tankentai: Choutoko Special | 124270 | [124270-the-hikyou-tankentai-choutoko-special.json](./124270-the-hikyou-tankentai-choutoko-special.json) |
 | The HinterLands | 33427 | [33427-the-hinterlands.json](./33427-the-hinterlands.json) |
@@ -7219,6 +7220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thing | 264857 | [264857-the-thing.json](./264857-the-thing.json) |
 | The Thing | 264859 | [264859-the-thing.json](./264859-the-thing.json) |
 | The Thing at the Window | 221750 | [221750-the-thing-at-the-window.json](./221750-the-thing-at-the-window.json) |
+| The Thing from Nowhere | 188945 | [188945-the-thing-from-nowhere.json](./188945-the-thing-from-nowhere.json) |
 | The Thing in the Lake | 391889 | [391889-the-thing-in-the-lake.json](./391889-the-thing-in-the-lake.json) |
 | The Thing That Happened | 294284 | [294284-the-thing-that-happened.json](./294284-the-thing-that-happened.json) |
 | The Thing With Mistletoes | 29589 | [29589-the-thing-with-mistletoes.json](./29589-the-thing-with-mistletoes.json) |
@@ -10654,6 +10656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Accurate Battlegrounds | 103222 | [103222-totally-accurate-battlegrounds.json](./103222-totally-accurate-battlegrounds.json) |
 | Totally Accurate Dating Simulator | 241505 | [241505-totally-accurate-dating-simulator.json](./241505-totally-accurate-dating-simulator.json) |
 | Totally Baseball | 127163 | [127163-totally-baseball.json](./127163-totally-baseball.json) |
+| Totally Convenient | 188907 | [188907-totally-convenient.json](./188907-totally-convenient.json) |
 | Totally Jet | 246488 | [246488-totally-jet.json](./246488-totally-jet.json) |
 | Totally Normal Day | 304759 | [304759-totally-normal-day.json](./304759-totally-normal-day.json) |
 | Totally Normal Journey: The Interactive Musical | 157021 | [157021-totally-normal-journey-the-interactive-musical.json](./157021-totally-normal-journey-the-interactive-musical.json) |
@@ -10838,6 +10841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Monster TD: Nagae Iku | 192155 | [192155-touhou-monster-td-nagae-iku.json](./192155-touhou-monster-td-nagae-iku.json) |
 | Touhou Mother | 184129 | [184129-touhou-mother.json](./184129-touhou-mother.json) |
 | Touhou Mukyuushi: Glory of Deep Skies | 246677 | [246677-touhou-mukyuushi-glory-of-deep-skies.json](./246677-touhou-mukyuushi-glory-of-deep-skies.json) |
+| TouHou Music Recording | 188937 | [188937-touhou-music-recording.json](./188937-touhou-music-recording.json) |
 | Touhou Mutsuigeki: Concealed the Conclusion | 51266 | [51266-touhou-mutsuigeki-concealed-the-conclusion.json](./51266-touhou-mutsuigeki-concealed-the-conclusion.json) |
 | Touhou Mystery Reel | 192886 | [192886-touhou-mystery-reel.json](./192886-touhou-mystery-reel.json) |
 | TouHou Nil Soul | 114801 | [114801-touhou-nil-soul.json](./114801-touhou-nil-soul.json) |
@@ -12070,6 +12074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap Tower Trials | 298137 | [298137-trap-tower-trials.json](./298137-trap-tower-trials.json) |
 | Trap Trek: Ultimate Other Me | 293619 | [293619-trap-trek-ultimate-other-me.json](./293619-trap-trek-ultimate-other-me.json) |
 | Trap Yuri Garden | 289923 | [289923-trap-yuri-garden.json](./289923-trap-yuri-garden.json) |
+| TrapBot | 188925 | [188925-trapbot.json](./188925-trapbot.json) |
 | Trapformer | 361310 | [361310-trapformer.json](./361310-trapformer.json) |
 | Trapmania | 151152 | [151152-trapmania.json](./151152-trapmania.json) |
 | Trapnoid 2 | 109743 | [109743-trapnoid-2.json](./109743-trapnoid-2.json) |
