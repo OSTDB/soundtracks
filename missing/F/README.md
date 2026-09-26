@@ -955,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Tale | 248020 | [248020-far-tale.json](./248020-far-tale.json) |
 | Far Til Fire: Gi'r Aldrig Op | 129779 | [129779-far-til-fire-gir-aldrig-op.json](./129779-far-til-fire-gir-aldrig-op.json) |
 | Far-Out | 34792 | [34792-far-out.json](./34792-far-out.json) |
+| FAR: Changing Tides - Deluxe Edition | 187823 | [187823-far-changing-tides-deluxe-edition.json](./187823-far-changing-tides-deluxe-edition.json) |
 | Farabel | 24965 | [24965-farabel.json](./24965-farabel.json) |
 | Faraday's Flaw | 310583 | [310583-faradays-flaw.json](./310583-faradays-flaw.json) |
 | Farafalla | 225285 | [225285-farafalla.json](./225285-farafalla.json) |
@@ -1080,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer Simulator | 253956 | [253956-farmer-simulator.json](./253956-farmer-simulator.json) |
 | Farmer's Delight | 232679 | [232679-farmers-delight.json](./232679-farmers-delight.json) |
 | Farmer's Diary | 285575 | [285575-farmers-diary.json](./285575-farmers-diary.json) |
+| Farmer's Dynasty: Deluxe Edition | 187825 | [187825-farmers-dynasty-deluxe-edition.json](./187825-farmers-dynasty-deluxe-edition.json) |
 | Farmer's Dynasty: Machines Pack | 223549 | [223549-farmers-dynasty-machines-pack.json](./223549-farmers-dynasty-machines-pack.json) |
 | Farmer's Fairy Tale | 107839 | [107839-farmers-fairy-tale.json](./107839-farmers-fairy-tale.json) |
 | Farmer's Father: Save the Innocence | 211660 | [211660-farmers-father-save-the-innocence.json](./211660-farmers-father-save-the-innocence.json) |
@@ -3333,6 +3335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Florensia | 34922 | [34922-florensia.json](./34922-florensia.json) |
 | Floresia I: Intemporel | 80897 | [80897-floresia-i-intemporel.json](./80897-floresia-i-intemporel.json) |
 | Floret Bond | 178035 | [178035-floret-bond.json](./178035-floret-bond.json) |
+| Floribella | 187868 | [187868-floribella.json](./187868-floribella.json) |
 | Florida Man: Hurricane Hijinks | 153377 | [153377-florida-man-hurricane-hijinks.json](./153377-florida-man-hurricane-hijinks.json) |
 | Florifer | 240307 | [240307-florifer.json](./240307-florifer.json) |
 | Floristry | 68956 | [68956-floristry.json](./68956-floristry.json) |
@@ -3747,6 +3750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 2020 Mobile | 197656 | [197656-football-manager-2020-mobile.json](./197656-football-manager-2020-mobile.json) |
 | Football Manager 2021 Touch | 139257 | [139257-football-manager-2021-touch.json](./139257-football-manager-2021-touch.json) |
 | Football Manager 2021: Limited Edition | 139962 | [139962-football-manager-2021-limited-edition.json](./139962-football-manager-2021-limited-edition.json) |
+| Football Manager 2022 Mobile | 187830 | [187830-football-manager-2022-mobile.json](./187830-football-manager-2022-mobile.json) |
 | Football Manager 2024 | 266382 | [266382-football-manager-2024.json](./266382-football-manager-2024.json) |
 | Football Manager 2024 Mobile | 295327 | [295327-football-manager-2024-mobile.json](./295327-football-manager-2024-mobile.json) |
 | Football Manager 26 | 365487 | [365487-football-manager-26.json](./365487-football-manager-26.json) |
