@@ -7465,6 +7465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unicated | 327388 | [327388-the-unicated.json](./327388-the-unicated.json) |
 | The Unicorn Princess | 124157 | [124157-the-unicorn-princess.json](./124157-the-unicorn-princess.json) |
 | The Uninvited 2: Let Nothing You Dismay | 370106 | [370106-the-uninvited-2-let-nothing-you-dismay.json](./370106-the-uninvited-2-let-nothing-you-dismay.json) |
+| The United Space of America | 201594 | [201594-the-united-space-of-america.json](./201594-the-united-space-of-america.json) |
 | The Universal Equalizer | 71242 | [71242-the-universal-equalizer.json](./71242-the-universal-equalizer.json) |
 | The Universal Symphony | 398460 | [398460-the-universal-symphony.json](./398460-the-universal-symphony.json) |
 | The Universe Soldiers | 48323 | [48323-the-universe-soldiers.json](./48323-the-universe-soldiers.json) |
@@ -8131,6 +8132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thinky Dailies | 380657 | [380657-thinky-dailies.json](./380657-thinky-dailies.json) |
 | Thinky Dailies: Season 1 | 388215 | [388215-thinky-dailies-season-1.json](./388215-thinky-dailies-season-1.json) |
 | Thinky Dailies: Season 2 | 393808 | [393808-thinky-dailies-season-2.json](./393808-thinky-dailies-season-2.json) |
+| Thirayan | 201551 | [201551-thirayan.json](./201551-thirayan.json) |
 | Third | 233784 | [233784-third.json](./233784-third.json) |
 | Third Crisis | 187542 | [187542-third-crisis.json](./187542-third-crisis.json) |
 | Third Front | 89656 | [89656-third-front.json](./89656-third-front.json) |
@@ -8216,6 +8218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thor | 95414 | [95414-thor.json](./95414-thor.json) |
 | Thor: The Dark World - The Official Game | 62214 | [62214-thor-the-dark-world-the-official-game.json](./62214-thor-the-dark-world-the-official-game.json) |
 | Thor's Legacy | 298135 | [298135-thors-legacy.json](./298135-thors-legacy.json) |
+| Thorn Demon Hunter | 201596 | [201596-thorn-demon-hunter.json](./201596-thorn-demon-hunter.json) |
 | Thorn for the Villain: Reincarnated as an Extra in an Otome Game?! | 255770 | [255770-thorn-for-the-villain-reincarnated-as-an-extra-in-an-otome-game.json](./255770-thorn-for-the-villain-reincarnated-as-an-extra-in-an-otome-game.json) |
 | Thorne - Death Merchants | 33265 | [33265-thorne-death-merchants.json](./33265-thorne-death-merchants.json) |
 | Thorner | 410353 | [410353-thorner.json](./410353-thorner.json) |
@@ -8392,6 +8395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder League | 59407 | [59407-thunder-league.json](./59407-thunder-league.json) |
 | Thunder League Online | 195169 | [195169-thunder-league-online.json](./195169-thunder-league-online.json) |
 | Thunder Rally | 99083 | [99083-thunder-rally.json](./99083-thunder-rally.json) |
+| Thunder Ray | 201592 | [201592-thunder-ray.json](./201592-thunder-ray.json) |
 | Thunder Ray: Forgotten Duels | 288274 | [288274-thunder-ray-forgotten-duels.json](./288274-thunder-ray-forgotten-duels.json) |
 | Thunder Roar | 218121 | [218121-thunder-roar.json](./218121-thunder-roar.json) |
 | Thunder Spirits | 46662 | [46662-thunder-spirits.json](./46662-thunder-spirits.json) |
@@ -9261,6 +9265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Stripper | 57633 | [57633-time-stripper.json](./57633-time-stripper.json) |
 | Time Tenshi | 318022 | [318022-time-tenshi.json](./318022-time-tenshi.json) |
 | Time Tenshi Paradox: Episode 2 | 96616 | [96616-time-tenshi-paradox-episode-2.json](./96616-time-tenshi-paradox-episode-2.json) |
+| Time Thief | 201590 | [201590-time-thief.json](./201590-time-thief.json) |
 | Time to Die: Adventures | 53810 | [53810-time-to-die-adventures.json](./53810-time-to-die-adventures.json) |
 | Time to Fight | 114319 | [114319-time-to-fight.json](./114319-time-to-fight.json) |
 | Time to Golf | 143711 | [143711-time-to-golf.json](./143711-time-to-golf.json) |
