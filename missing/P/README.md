@@ -2526,6 +2526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picronix 2 | 390503 | [390503-picronix-2.json](./390503-picronix-2.json) |
 | PiCross | 228399 | [228399-picross.json](./228399-picross.json) |
 | Picross 2 | 49080 | [49080-picross-2.json](./49080-picross-2.json) |
+| Picross Advance | 195490 | [195490-picross-advance.json](./195490-picross-advance.json) |
 | Picross Beach Season | 89191 | [89191-picross-beach-season.json](./89191-picross-beach-season.json) |
 | Picross Date! | 378431 | [378431-picross-date.json](./378431-picross-date.json) |
 | Picross DS | 10617 | [10617-picross-ds.json](./10617-picross-ds.json) |
@@ -4803,6 +4804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pondlife | 384543 | [384543-pondlife.json](./384543-pondlife.json) |
 | Pong - Old School | 86705 | [86705-pong-old-school.json](./86705-pong-old-school.json) |
 | Pong Champion VR | 31944 | [31944-pong-champion-vr.json](./31944-pong-champion-vr.json) |
+| Pong de las Tortugas Ninja | 195513 | [195513-pong-de-las-tortugas-ninja.json](./195513-pong-de-las-tortugas-ninja.json) |
 | Pong Doubles | 18154 | [18154-pong-doubles.json](./18154-pong-doubles.json) |
 | Pong for VideoPac and Odyssey 2! | 64118 | [64118-pong-for-videopac-and-odyssey-2.json](./64118-pong-for-videopac-and-odyssey-2.json) |
 | Pong Kombat | 73326 | [73326-pong-kombat.json](./73326-pong-kombat.json) |
@@ -6938,6 +6940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puriore!: Smile Princess | 196566 | [196566-puriore-smile-princess.json](./196566-puriore-smile-princess.json) |
 | Purity | 184113 | [184113-purity.json](./184113-purity.json) |
 | Puroma | 410980 | [410980-puroma.json](./410980-puroma.json) |
+| Purple Cape Man | 195514 | [195514-purple-cape-man.json](./195514-purple-cape-man.json) |
 | Purple Chicken Spaceman | 117777 | [117777-purple-chicken-spaceman.json](./117777-purple-chicken-spaceman.json) |
 | Purple Fantasy | 213610 | [213610-purple-fantasy.json](./213610-purple-fantasy.json) |
 | Purple Pink Chinese Food | 299237 | [299237-purple-pink-chinese-food.json](./299237-purple-pink-chinese-food.json) |
