@@ -6245,6 +6245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest for Achievements Remix | 121008 | [121008-the-quest-for-achievements-remix.json](./121008-the-quest-for-achievements-remix.json) |
 | The Quest for Moe's | 112977 | [112977-the-quest-for-moes.json](./112977-the-quest-for-moes.json) |
 | The Quest for One | 202970 | [202970-the-quest-for-one.json](./202970-the-quest-for-one.json) |
+| The Quest For Royal Love | 184909 | [184909-the-quest-for-royal-love.json](./184909-the-quest-for-royal-love.json) |
 | The Quest for the Holy Grail | 25967 | [25967-the-quest-for-the-holy-grail.json](./25967-the-quest-for-the-holy-grail.json) |
 | The Quest for the Rings | 41575 | [41575-the-quest-for-the-rings.json](./41575-the-quest-for-the-rings.json) |
 | The Quest Keeper | 344939 | [344939-the-quest-keeper.json](./344939-the-quest-keeper.json) |
