@@ -959,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ViperTen16 | 313497 | [313497-viperten16.json](./313497-viperten16.json) |
 | Viquim | 341886 | [341886-viquim.json](./341886-viquim.json) |
 | Virago World | 374738 | [374738-virago-world.json](./374738-virago-world.json) |
+| Virago: Herstory | 226184 | [226184-virago-herstory.json](./226184-virago-herstory.json) |
 | Virago: Herstory 2 | 374735 | [374735-virago-herstory-2.json](./374735-virago-herstory-2.json) |
 | Viral | 265255 | [265255-viral.json](./265255-viral.json) |
 | Viral Firar | 166698 | [166698-viral-firar.json](./166698-viral-firar.json) |
@@ -1472,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Angry Cow Farm Simulator | 109021 | [109021-vr-angry-cow-farm-simulator.json](./109021-vr-angry-cow-farm-simulator.json) |
 | VR Animal Kids Rumble | 371902 | [371902-vr-animal-kids-rumble.json](./371902-vr-animal-kids-rumble.json) |
 | VR Aquarium Miyabi | 29828 | [29828-vr-aquarium-miyabi.json](./29828-vr-aquarium-miyabi.json) |
+| VR Archeology: Secrets of Kulikovo Field | 226160 | [226160-vr-archeology-secrets-of-kulikovo-field.json](./226160-vr-archeology-secrets-of-kulikovo-field.json) |
 | VR AstroSmash | 157533 | [157533-vr-astrosmash.json](./157533-vr-astrosmash.json) |
 | VR Async Balls | 186832 | [186832-vr-async-balls.json](./186832-vr-async-balls.json) |
 | VR Atlantis Search: with Deep Diving | 157008 | [157008-vr-atlantis-search-with-deep-diving.json](./157008-vr-atlantis-search-with-deep-diving.json) |
