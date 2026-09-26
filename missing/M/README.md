@@ -4334,6 +4334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Spider Solitaire | 8196 | [8196-microsoft-spider-solitaire.json](./8196-microsoft-spider-solitaire.json) |
 | Microsoft Sudoku | 60285 | [60285-microsoft-sudoku.json](./60285-microsoft-sudoku.json) |
 | Microsoft Train Simulator: German Railroads Volume Two - Fast Railcars on the Runway | 78055 | [78055-microsoft-train-simulator-german-railroads-volume-two-fast-railcars-on-the-runway.json](./78055-microsoft-train-simulator-german-railroads-volume-two-fast-railcars-on-the-runway.json) |
+| Microsoft Train Simulator: Sandpatch | 206666 | [206666-microsoft-train-simulator-sandpatch.json](./206666-microsoft-train-simulator-sandpatch.json) |
 | Microsoft: My Personal Tutor 1st & 2nd Grade | 144365 | [144365-microsoft-my-personal-tutor-1st-and-2nd-grade.json](./144365-microsoft-my-personal-tutor-1st-and-2nd-grade.json) |
 | Microsoft: My Personal Tutor Preschool & Kindergarden | 144363 | [144363-microsoft-my-personal-tutor-preschool-and-kindergarden.json](./144363-microsoft-my-personal-tutor-preschool-and-kindergarden.json) |
 | Microsurgeon | 5684 | [5684-microsurgeon.json](./5684-microsurgeon.json) |
