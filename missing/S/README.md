@@ -10742,6 +10742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Interface: Stellar Spacecrafts | 243229 | [243229-stellar-interface-stellar-spacecrafts.json](./243229-stellar-interface-stellar-spacecrafts.json) |
 | Stellar Mercenaries | 62773 | [62773-stellar-mercenaries.json](./62773-stellar-mercenaries.json) |
 | Stellar Mess: Operation Kush | 380122 | [380122-stellar-mess-operation-kush.json](./380122-stellar-mess-operation-kush.json) |
+| Stellar Monarch 2 | 192179 | [192179-stellar-monarch-2.json](./192179-stellar-monarch-2.json) |
 | Stellar Monarch: The Age of Technology | 171028 | [171028-stellar-monarch-the-age-of-technology.json](./171028-stellar-monarch-the-age-of-technology.json) |
 | Stellar Nursery | 413597 | [413597-stellar-nursery.json](./413597-stellar-nursery.json) |
 | Stellar Odyssey | 413089 | [413089-stellar-odyssey.json](./413089-stellar-odyssey.json) |
