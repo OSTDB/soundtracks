@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Gold | 52578 | [52578-mahjong-gold.json](./52578-mahjong-gold.json) |
 | Mahjong Gold 2: Pirates Island | 150649 | [150649-mahjong-gold-2-pirates-island.json](./150649-mahjong-gold-2-pirates-island.json) |
 | Mahjong Hanjouki | 37938 | [37938-mahjong-hanjouki.json](./37938-mahjong-hanjouki.json) |
+| Mahjong Haoh: Dankyuu Battle II | 204352 | [204352-mahjong-haoh-dankyuu-battle-ii.json](./204352-mahjong-haoh-dankyuu-battle-ii.json) |
 | Mahjong Hishou-den: Shin Naki no Ryuu | 37937 | [37937-mahjong-hishou-den-shin-naki-no-ryuu.json](./37937-mahjong-hishou-den-shin-naki-no-ryuu.json) |
 | Mahjong Infinity | 117043 | [117043-mahjong-infinity.json](./117043-mahjong-infinity.json) |
 | Mahjong Journey: Quest for Tikal | 175921 | [175921-mahjong-journey-quest-for-tikal.json](./175921-mahjong-journey-quest-for-tikal.json) |
@@ -5318,6 +5319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Peach | 264593 | [264593-miss-peach.json](./264593-miss-peach.json) |
 | Miss Peach World | 133780 | [133780-miss-peach-world.json](./133780-miss-peach-world.json) |
 | Miss Perfect Miss Ending | 320753 | [320753-miss-perfect-miss-ending.json](./320753-miss-perfect-miss-ending.json) |
+| Miss Princess Miss Pri | 204400 | [204400-miss-princess-miss-pri.json](./204400-miss-princess-miss-pri.json) |
 | Miss Spider's Sunny Patch Friends: Harvest Time Hop and Fly | 7979 | [7979-miss-spiders-sunny-patch-friends-harvest-time-hop-and-fly.json](./7979-miss-spiders-sunny-patch-friends-harvest-time-hop-and-fly.json) |
 | Miss Spider's Tea Party | 73804 | [73804-miss-spiders-tea-party.json](./73804-miss-spiders-tea-party.json) |
 | Miss World '96 | 38567 | [38567-miss-world-96.json](./38567-miss-world-96.json) |
