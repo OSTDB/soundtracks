@@ -1976,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alcatraz | 288748 | [288748-alcatraz.json](./288748-alcatraz.json) |
 | Alcatraz: VR Escape Room | 29938 | [29938-alcatraz-vr-escape-room.json](./29938-alcatraz-vr-escape-room.json) |
 | Alcazar: The Forgotten Fortress | 12248 | [12248-alcazar-the-forgotten-fortress.json](./12248-alcazar-the-forgotten-fortress.json) |
+| Alchademy | 186612 | [186612-alchademy.json](./186612-alchademy.json) |
 | Alchem It | 211268 | [211268-alchem-it.json](./211268-alchem-it.json) |
 | Alchemia | 117032 | [117032-alchemia.json](./117032-alchemia.json) |
 | Alchemic Cutie | 107171 | [107171-alchemic-cutie.json](./107171-alchemic-cutie.json) |
@@ -4217,6 +4218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo Justice: Turnabout Substitution | 143498 | [143498-apollo-justice-turnabout-substitution.json](./143498-apollo-justice-turnabout-substitution.json) |
 | Apollo LM | 174288 | [174288-apollo-lm.json](./174288-apollo-lm.json) |
 | Apollo Lunar Mission | 158571 | [158571-apollo-lunar-mission.json](./158571-apollo-lunar-mission.json) |
+| Apollo's Palace | 186601 | [186601-apollos-palace.json](./186601-apollos-palace.json) |
 | Apollo4x | 26978 | [26978-apollo4x.json](./26978-apollo4x.json) |
 | Apology Video | 406316 | [406316-apology-video.json](./406316-apology-video.json) |
 | Apophis | 136490 | [136490-apophis.json](./136490-apophis.json) |
@@ -6228,6 +6230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atmos | 398400 | [398400-atmos.json](./398400-atmos.json) |
 | Atmosphir | 70682 | [70682-atmosphir.json](./70682-atmosphir.json) |
 | ATNRPG | 387687 | [387687-atnrpg.json](./387687-atnrpg.json) |
+| Atoll: The Last Ghost | 186644 | [186644-atoll-the-last-ghost.json](./186644-atoll-the-last-ghost.json) |
 | Atom | 245285 | [245285-atom.json](./245285-atom.json) |
 | Atom Fit | 234169 | [234169-atom-fit.json](./234169-atom-fit.json) |
 | Atom OI | 183961 | [183961-atom-oi.json](./183961-atom-oi.json) |
