@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rageball | 43894 | [43894-rageball.json](./43894-rageball.json) |
 | Rageball League | 174754 | [174754-rageball-league.json](./174754-rageball-league.json) |
 | RageFall | 391191 | [391191-ragefall.json](./391191-ragefall.json) |
+| Raggie Run | 202130 | [202130-raggie-run.json](./202130-raggie-run.json) |
 | Raging Blades | 43324 | [43324-raging-blades.json](./43324-raging-blades.json) |
 | Raging Bytes | 246079 | [246079-raging-bytes.json](./246079-raging-bytes.json) |
 | Raging Fists: Retribution | 166723 | [166723-raging-fists-retribution.json](./166723-raging-fists-retribution.json) |
@@ -1185,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Car Drift Racing | 311794 | [311794-real-car-drift-racing.json](./311794-real-car-drift-racing.json) |
 | Real Car Market Simulator Together | 407348 | [407348-real-car-market-simulator-together.json](./407348-real-car-market-simulator-together.json) |
 | Real Communism | 273963 | [273963-real-communism.json](./273963-real-communism.json) |
+| Real Cricket 20 | 202113 | [202113-real-cricket-20.json](./202113-real-cricket-20.json) |
 | Real Cricket Go | 233506 | [233506-real-cricket-go.json](./233506-real-cricket-go.json) |
 | Real Cricket™ 16: English Bash | 242682 | [242682-real-cricket-16-english-bash.json](./242682-real-cricket-16-english-bash.json) |
 | Real Crimes: Jack the Ripper | 137474 | [137474-real-crimes-jack-the-ripper.json](./137474-real-crimes-jack-the-ripper.json) |
@@ -4251,6 +4253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollo Pollo | 348352 | [348352-rollo-pollo.json](./348352-rollo-pollo.json) |
 | Rollout | 31870 | [31870-rollout.json](./31870-rollout.json) |
 | Rollover Alien | 358490 | [358490-rollover-alien.json](./358490-rollover-alien.json) |
+| Rollovski | 202151 | [202151-rollovski.json](./202151-rollovski.json) |
 | Rolls and Girls | 367027 | [367027-rolls-and-girls.json](./367027-rolls-and-girls.json) |
 | RollScape | 295403 | [295403-rollscape.json](./295403-rollscape.json) |
 | RollTheEarth | 103437 | [103437-rolltheearth.json](./103437-rolltheearth.json) |
