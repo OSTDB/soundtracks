@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Taisen Monogatari: Mysterious Paris | 73236 | [73236-sakura-taisen-monogatari-mysterious-paris.json](./73236-sakura-taisen-monogatari-mysterious-paris.json) |
 | Sakura Taisen Steam Radio Show | 62125 | [62125-sakura-taisen-steam-radio-show.json](./62125-sakura-taisen-steam-radio-show.json) |
 | Sakura Taisen: Kinematron Hanagumi Mail | 62122 | [62122-sakura-taisen-kinematron-hanagumi-mail.json](./62122-sakura-taisen-kinematron-hanagumi-mail.json) |
+| Sakura Trick: Special Edition | 191564 | [191564-sakura-trick-special-edition.json](./191564-sakura-trick-special-edition.json) |
 | Sakura Tsuushin: Remaking Memories | 209624 | [209624-sakura-tsuushin-remaking-memories.json](./209624-sakura-tsuushin-remaking-memories.json) |
 | Sakura Wars | 96392 | [96392-sakura-wars.json](./96392-sakura-wars.json) |
 | Sakura Wars: So Long, My Love | 5136 | [5136-sakura-wars-so-long-my-love.json](./5136-sakura-wars-so-long-my-love.json) |
@@ -2346,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serial Cleaners: Dino Park | 249301 | [249301-serial-cleaners-dino-park.json](./249301-serial-cleaners-dino-park.json) |
 | Serial Experiments Lain | 76448 | [76448-serial-experiments-lain.json](./76448-serial-experiments-lain.json) |
 | Serial Experiments Lain Bootleg | 245007 | [245007-serial-experiments-lain-bootleg.json](./245007-serial-experiments-lain-bootleg.json) |
+| Serial Hunter | 191572 | [191572-serial-hunter.json](./191572-serial-hunter.json) |
 | Serial Lover | 133207 | [133207-serial-lover.json](./133207-serial-lover.json) |
 | Serial World | 301328 | [301328-serial-world.json](./301328-serial-world.json) |
 | Series Makers Tycoon | 173806 | [173806-series-makers-tycoon.json](./173806-series-makers-tycoon.json) |
@@ -5209,6 +5211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyOfSteel | 177017 | [177017-skyofsteel.json](./177017-skyofsteel.json) |
 | Skypop Scramble | 323750 | [323750-skypop-scramble.json](./323750-skypop-scramble.json) |
 | Skyreach | 33023 | [33023-skyreach.json](./33023-skyreach.json) |
+| SkyRider | 191582 | [191582-skyrider.json](./191582-skyrider.json) |
 | SkyRider ADV | 90696 | [90696-skyrider-adv.json](./90696-skyrider-adv.json) |
 | Skyscraper | 267990 | [267990-skyscraper.json](./267990-skyscraper.json) |
 | Skyscraper | 9422 | [9422-skyscraper.json](./9422-skyscraper.json) |
@@ -10969,6 +10972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Sword for Adult | 67258 | [67258-still-sword-for-adult.json](./67258-still-sword-for-adult.json) |
 | Still Time | 69244 | [69244-still-time.json](./69244-still-time.json) |
 | Stillborn Slayer | 189039 | [189039-stillborn-slayer.json](./189039-stillborn-slayer.json) |
+| Stillwater | 191558 | [191558-stillwater.json](./191558-stillwater.json) |
 | Stillwater | 398402 | [398402-stillwater.json](./398402-stillwater.json) |
 | Stimmings | 264614 | [264614-stimmings.json](./264614-stimmings.json) |
 | Stimulation Clicker | 327636 | [327636-stimulation-clicker.json](./327636-stimulation-clicker.json) |
@@ -11418,6 +11422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter II' Turbo | 18626 | [18626-street-fighter-ii-turbo.json](./18626-street-fighter-ii-turbo.json) |
 | Street Fighter III 2nd Impact: Giant Attack | 6709 | [6709-street-fighter-iii-2nd-impact-giant-attack.json](./6709-street-fighter-iii-2nd-impact-giant-attack.json) |
 | Street Fighter III: 3rd Strike | 243237 | [243237-street-fighter-iii-3rd-strike.json](./243237-street-fighter-iii-3rd-strike.json) |
+| Street Fighter III: 4rd Strike | 191546 | [191546-street-fighter-iii-4rd-strike.json](./191546-street-fighter-iii-4rd-strike.json) |
 | Street Fighter III: Double Impact | 45194 | [45194-street-fighter-iii-double-impact.json](./45194-street-fighter-iii-double-impact.json) |
 | Street Fighter III: New Generation | 6708 | [6708-street-fighter-iii-new-generation.json](./6708-street-fighter-iii-new-generation.json) |
 | Street Fighter IV | 884 | [884-street-fighter-iv.json](./884-street-fighter-iv.json) |
@@ -14035,6 +14040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving the Aftermath: New Alliances | 203382 | [203382-surviving-the-aftermath-new-alliances.json](./203382-surviving-the-aftermath-new-alliances.json) |
 | Surviving the Aftermath: Rebirth | 240901 | [240901-surviving-the-aftermath-rebirth.json](./240901-surviving-the-aftermath-rebirth.json) |
 | Surviving the Aftermath: Ultimate Colony Edition | 188054 | [188054-surviving-the-aftermath-ultimate-colony-edition.json](./188054-surviving-the-aftermath-ultimate-colony-edition.json) |
+| Surviving the Humans | 191573 | [191573-surviving-the-humans.json](./191573-surviving-the-humans.json) |
 | Surviving Titan | 130244 | [130244-surviving-titan.json](./130244-surviving-titan.json) |
 | Surviving West | 92524 | [92524-surviving-west.json](./92524-surviving-west.json) |
 | Surviving with a Bat | 277824 | [277824-surviving-with-a-bat.json](./277824-surviving-with-a-bat.json) |
