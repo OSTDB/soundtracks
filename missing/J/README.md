@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jolly Chimp Champ | 291587 | [291587-jolly-chimp-champ.json](./291587-jolly-chimp-champ.json) |
 | Jolly Jam | 56432 | [56432-jolly-jam.json](./56432-jolly-jam.json) |
 | Jolly Join | 58754 | [58754-jolly-join.json](./58754-jolly-join.json) |
+| Jolly Laughter | 191563 | [191563-jolly-laughter.json](./191563-jolly-laughter.json) |
 | Jolly Match 3 MR | 380576 | [380576-jolly-match-3-mr.json](./380576-jolly-match-3-mr.json) |
 | Jolly Putt: Mini Golf & Arcade | 258705 | [258705-jolly-putt-mini-golf-and-arcade.json](./258705-jolly-putt-mini-golf-and-arcade.json) |
 | Jolly Rogers Pirates Rumble | 291530 | [291530-jolly-rogers-pirates-rumble.json](./291530-jolly-rogers-pirates-rumble.json) |
