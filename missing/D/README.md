@@ -2332,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Up | 361168 | [361168-delivery-up.json](./361168-delivery-up.json) |
 | Delores: A Thimbleweed Park Mini-Adventure | 134408 | [134408-delores-a-thimbleweed-park-mini-adventure.json](./134408-delores-a-thimbleweed-park-mini-adventure.json) |
 | Delta | 319816 | [319816-delta.json](./319816-delta.json) |
+| Delta Chase | 183339 | [183339-delta-chase.json](./183339-delta-chase.json) |
 | Delta Dash | 213621 | [213621-delta-dash.json](./213621-delta-dash.json) |
 | Delta Directive | 412266 | [412266-delta-directive.json](./412266-delta-directive.json) |
 | Delta Force: Black Hawk Down | 332541 | [332541-delta-force-black-hawk-down.json](./332541-delta-force-black-hawk-down.json) |
@@ -4570,6 +4571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Wash! | 225656 | [225656-dog-wash.json](./225656-dog-wash.json) |
 | Dog Years | 266800 | [266800-dog-years.json](./266800-dog-years.json) |
 | Dog-a-Boo | 90623 | [90623-dog-a-boo.json](./90623-dog-a-boo.json) |
+| Dog! | 183362 | [183362-dog.json](./183362-dog.json) |
 | Dog's Garden | 188009 | [188009-dogs-garden.json](./188009-dogs-garden.json) |
 | Dog's Quest | 103454 | [103454-dogs-quest.json](./103454-dogs-quest.json) |
 | Dog's Walts | 408060 | [408060-dogs-walts.json](./408060-dogs-walts.json) |
