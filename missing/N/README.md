@@ -1453,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Earth: The Journey Trilogy | 149568 | [149568-next-earth-the-journey-trilogy.json](./149568-next-earth-the-journey-trilogy.json) |
 | Next Island | 92473 | [92473-next-island.json](./92473-next-island.json) |
 | Next Move | 262295 | [262295-next-move.json](./262295-next-move.json) |
+| Next Player Please | 204346 | [204346-next-player-please.json](./204346-next-player-please.json) |
 | Next Power | 242772 | [242772-next-power.json](./242772-next-power.json) |
 | Next Quintillionaire | 391611 | [391611-next-quintillionaire.json](./391611-next-quintillionaire.json) |
 | Next Room | 292280 | [292280-next-room.json](./292280-next-room.json) |
@@ -1880,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Shift | 321774 | [321774-nightmare-shift.json](./321774-nightmare-shift.json) |
 | Nightmare Side: The Game | 273448 | [273448-nightmare-side-the-game.json](./273448-nightmare-side-the-game.json) |
 | Nightmare Simulator | 343337 | [343337-nightmare-simulator.json](./343337-nightmare-simulator.json) |
+| Nightmare Slash | 204374 | [204374-nightmare-slash.json](./204374-nightmare-slash.json) |
 | Nightmare Temptation Academy | 144117 | [144117-nightmare-temptation-academy.json](./144117-nightmare-temptation-academy.json) |
 | Nightmare Within | 311615 | [311615-nightmare-within.json](./311615-nightmare-within.json) |
 | Nightmare Without Return | 216792 | [216792-nightmare-without-return.json](./216792-nightmare-without-return.json) |
@@ -3089,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nursery Mania | 209014 | [209014-nursery-mania.json](./209014-nursery-mania.json) |
 | Nursery Rhyme | 69306 | [69306-nursery-rhyme.json](./69306-nursery-rhyme.json) |
 | Nursery Slime | 195642 | [195642-nursery-slime.json](./195642-nursery-slime.json) |
+| Nurtopu: Fetö ile Mücadele | 204357 | [204357-nurtopu-feto-ile-mucadele.json](./204357-nurtopu-feto-ile-mucadele.json) |
 | Nurujiru | 97671 | [97671-nurujiru.json](./97671-nurujiru.json) |
 | Nusantara | 240772 | [240772-nusantara.json](./240772-nusantara.json) |
 | Nushi Tsuri Adventure: Kite no Bouken | 50560 | [50560-nushi-tsuri-adventure-kite-no-bouken.json](./50560-nushi-tsuri-adventure-kite-no-bouken.json) |
