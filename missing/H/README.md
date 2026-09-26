@@ -2315,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Stickman | 346653 | [346653-hero-stickman.json](./346653-hero-stickman.json) |
 | Hero Tactics | 181921 | [181921-hero-tactics.json](./181921-hero-tactics.json) |
 | Hero Well | 249200 | [249200-hero-well.json](./249200-hero-well.json) |
+| Hero Wheels | 213343 | [213343-hero-wheels.json](./213343-hero-wheels.json) |
 | Hero World | 322376 | [322376-hero-world.json](./322376-hero-world.json) |
 | Hero World 2 | 329129 | [329129-hero-world-2.json](./329129-hero-world-2.json) |
 | Hero x Hero | 406780 | [406780-hero-x-hero.json](./406780-hero-x-hero.json) |
