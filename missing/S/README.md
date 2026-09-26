@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanou Kaihatsu Series 5: Meiro, Kioku | 303764 | [303764-sanou-kaihatsu-series-5-meiro-kioku.json](./303764-sanou-kaihatsu-series-5-meiro-kioku.json) |
 | Sanou Kaihatsu Series 6 Ouyou Mondai | 303766 | [303766-sanou-kaihatsu-series-6-ouyou-mondai.json](./303766-sanou-kaihatsu-series-6-ouyou-mondai.json) |
 | Sanrio Characters Miracle Match: Magical Onigokko | 334648 | [334648-sanrio-characters-miracle-match-magical-onigokko.json](./334648-sanrio-characters-miracle-match-magical-onigokko.json) |
+| Sanrio Characters x Tetris | 208279 | [208279-sanrio-characters-x-tetris.json](./208279-sanrio-characters-x-tetris.json) |
 | Sanrio Danshi: Watashi, Koi Wo, Shirimashita | 229031 | [229031-sanrio-danshi-watashi-koi-wo-shirimashita.json](./229031-sanrio-danshi-watashi-koi-wo-shirimashita.json) |
 | Sanrio Timenet World | 302682 | [302682-sanrio-timenet-world.json](./302682-sanrio-timenet-world.json) |
 | Sanrio World Smash Ball! | 3692 | [3692-sanrio-world-smash-ball.json](./3692-sanrio-world-smash-ball.json) |
@@ -896,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturday AM: Battle Manga | 382452 | [382452-saturday-am-battle-manga.json](./382452-saturday-am-battle-manga.json) |
 | Saturday Night is the Loneliest Night of the Week | 230855 | [230855-saturday-night-is-the-loneliest-night-of-the-week.json](./230855-saturday-night-is-the-loneliest-night-of-the-week.json) |
 | Saturday Night is the Loneliest Night of the Week II | 230856 | [230856-saturday-night-is-the-loneliest-night-of-the-week-ii.json](./230856-saturday-night-is-the-loneliest-night-of-the-week-ii.json) |
+| Saturday Night Live: The Game | 208320 | [208320-saturday-night-live-the-game.json](./208320-saturday-night-live-the-game.json) |
 | Saturday Night Racing | 372134 | [372134-saturday-night-racing.json](./372134-saturday-night-racing.json) |
 | Saturday School | 171557 | [171557-saturday-school.json](./171557-saturday-school.json) |
 | Sature | 183450 | [183450-sature.json](./183450-sature.json) |
@@ -5444,6 +5446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Rancher Rainbow Bundle | 293761 | [293761-slime-rancher-rainbow-bundle.json](./293761-slime-rancher-rainbow-bundle.json) |
 | Slime Ranger | 221159 | [221159-slime-ranger.json](./221159-slime-ranger.json) |
 | Slime Road | 108509 | [108509-slime-road.json](./108509-slime-road.json) |
+| Slime Rule | 208330 | [208330-slime-rule.json](./208330-slime-rule.json) |
 | Slime Runner | 215886 | [215886-slime-runner.json](./215886-slime-runner.json) |
 | Slime Saga | 376705 | [376705-slime-saga.json](./376705-slime-saga.json) |
 | Slime Scramble | 309328 | [309328-slime-scramble.json](./309328-slime-scramble.json) |
@@ -6622,6 +6625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire & Mahjong | 117660 | [117660-solitaire-and-mahjong.json](./117660-solitaire-and-mahjong.json) |
 | Solitaire 3D | 89738 | [89738-solitaire-3d.json](./89738-solitaire-3d.json) |
 | Solitaire After Hours | 386147 | [386147-solitaire-after-hours.json](./386147-solitaire-after-hours.json) |
+| Solitaire Antics Ultimate | 208876 | [208876-solitaire-antics-ultimate.json](./208876-solitaire-antics-ultimate.json) |
 | Solitaire Antics Ultimate Plus | 54388 | [54388-solitaire-antics-ultimate-plus.json](./54388-solitaire-antics-ultimate-plus.json) |
 | Solitaire Battle | 353365 | [353365-solitaire-battle.json](./353365-solitaire-battle.json) |
 | Solitaire Card Deck Game '23 | 231896 | [231896-solitaire-card-deck-game-23.json](./231896-solitaire-card-deck-game-23.json) |
@@ -6653,6 +6657,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Klondike Pro. | 101601 | [101601-solitaire-klondike-pro.json](./101601-solitaire-klondike-pro.json) |
 | Solitaire Lounge | 25703 | [25703-solitaire-lounge.json](./25703-solitaire-lounge.json) |
 | Solitaire Mahjong: Ancient China Adventure | 401017 | [401017-solitaire-mahjong-ancient-china-adventure.json](./401017-solitaire-mahjong-ancient-china-adventure.json) |
+| Solitaire Master 2 | 208878 | [208878-solitaire-master-2.json](./208878-solitaire-master-2.json) |
+| Solitaire Master 3 | 208879 | [208879-solitaire-master-3.json](./208879-solitaire-master-3.json) |
+| Solitaire Master 4 | 208872 | [208872-solitaire-master-4.json](./208872-solitaire-master-4.json) |
+| Solitaire Master 5 | 208873 | [208873-solitaire-master-5.json](./208873-solitaire-master-5.json) |
 | Solitaire Master VS | 212271 | [212271-solitaire-master-vs.json](./212271-solitaire-master-vs.json) |
 | Solitaire Match 2 Cards | 89858 | [89858-solitaire-match-2-cards.json](./89858-solitaire-match-2-cards.json) |
 | Solitaire Match 2 Cards. Thanksgiving Day | 199574 | [199574-solitaire-match-2-cards-thanksgiving-day.json](./199574-solitaire-match-2-cards-thanksgiving-day.json) |
@@ -6675,8 +6683,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Twist Collection | 54387 | [54387-solitaire-twist-collection.json](./54387-solitaire-twist-collection.json) |
 | Solitaire Ultimate | 89162 | [89162-solitaire-ultimate.json](./89162-solitaire-ultimate.json) |
 | Solitaire Ultra | 55520 | [55520-solitaire-ultra.json](./55520-solitaire-ultra.json) |
+| Solitaire Unlimited Platinum | 208880 | [208880-solitaire-unlimited-platinum.json](./208880-solitaire-unlimited-platinum.json) |
 | Solitaire Valentine's Day 2 | 89237 | [89237-solitaire-valentines-day-2.json](./89237-solitaire-valentines-day-2.json) |
 | Solitaire World: Anime Waifus | 411822 | [411822-solitaire-world-anime-waifus.json](./411822-solitaire-world-anime-waifus.json) |
+| Solitaire XP Championship | 208875 | [208875-solitaire-xp-championship.json](./208875-solitaire-xp-championship.json) |
 | Solitaire XXX | 93375 | [93375-solitaire-xxx.json](./93375-solitaire-xxx.json) |
 | Solitaire: Beautiful Garden Season | 199579 | [199579-solitaire-beautiful-garden-season.json](./199579-solitaire-beautiful-garden-season.json) |
 | Solitaire: Classic Klondike Card Game | 88289 | [88289-solitaire-classic-klondike-card-game.json](./88289-solitaire-classic-klondike-card-game.json) |
@@ -6762,6 +6772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Someone Knocks The Door | 350032 | [350032-someone-knocks-the-door.json](./350032-someone-knocks-the-door.json) |
 | Someone’s Ghost Photos | 399721 | [399721-someone-s-ghost-photos.json](./399721-someone-s-ghost-photos.json) |
 | Someone's Here | 410921 | [410921-someones-here.json](./410921-someones-here.json) |
+| Someone's in the Kitchen! | 208874 | [208874-someones-in-the-kitchen.json](./208874-someones-in-the-kitchen.json) |
 | Someplace Else | 136387 | [136387-someplace-else.json](./136387-someplace-else.json) |
 | Something a Little Super | 352844 | [352844-something-a-little-super.json](./352844-something-a-little-super.json) |
 | Something Dark Beyond The Light | 353871 | [353871-something-dark-beyond-the-light.json](./353871-something-dark-beyond-the-light.json) |
@@ -6772,6 +6783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something Is Wrong With My World Map | 315488 | [315488-something-is-wrong-with-my-world-map.json](./315488-something-is-wrong-with-my-world-map.json) |
 | Something Left | 369224 | [369224-something-left.json](./369224-something-left.json) |
 | Something Meaningful | 381613 | [381613-something-meaningful.json](./381613-something-meaningful.json) |
+| Something Special: Zoe's American Adventure | 208871 | [208871-something-special-zoes-american-adventure.json](./208871-something-special-zoes-american-adventure.json) |
 | Something Strange in the Woods | 149531 | [149531-something-strange-in-the-woods.json](./149531-something-strange-in-the-woods.json) |
 | Something That Shouldn't Be There Is Visible. | 410371 | [410371-something-that-shouldnt-be-there-is-visible.json](./410371-something-that-shouldnt-be-there-is-visible.json) |
 | Something Took Her | 335247 | [335247-something-took-her.json](./335247-something-took-her.json) |
@@ -7857,6 +7869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fox Kimi: The Battle of Mochi Prime | 171563 | [171563-space-fox-kimi-the-battle-of-mochi-prime.json](./171563-space-fox-kimi-the-battle-of-mochi-prime.json) |
 | Space Funeral 2: of Rubies and Gold II - From Shadows We Rise | 360744 | [360744-space-funeral-2-of-rubies-and-gold-ii-from-shadows-we-rise.json](./360744-space-funeral-2-of-rubies-and-gold-ii-from-shadows-we-rise.json) |
 | Space Funeral: Of Rubies and Gold | 360743 | [360743-space-funeral-of-rubies-and-gold.json](./360743-space-funeral-of-rubies-and-gold.json) |
+| Space Fury: The Phantom Menace | 208342 | [208342-space-fury-the-phantom-menace.json](./208342-space-fury-the-phantom-menace.json) |
 | Space Fuss | 31387 | [31387-space-fuss.json](./31387-space-fuss.json) |
 | Space Game | 312741 | [312741-space-game.json](./312741-space-game.json) |
 | Space Garbage | 277600 | [277600-space-garbage.json](./277600-space-garbage.json) |
@@ -13883,6 +13896,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivium | 408938 | [408938-survivium.json](./408938-survivium.json) |
 | Survivor | 155085 | [155085-survivor.json](./155085-survivor.json) |
 | Survivor | 20325 | [20325-survivor.json](./20325-survivor.json) |
+| Survivor | 208345 | [208345-survivor.json](./208345-survivor.json) |
+| Survivor | 208346 | [208346-survivor.json](./208346-survivor.json) |
 | Survivor | 22801 | [22801-survivor.json](./22801-survivor.json) |
 | Survivor Cells | 199590 | [199590-survivor-cells.json](./199590-survivor-cells.json) |
 | Survivor Cells: Virusbane | 310389 | [310389-survivor-cells-virusbane.json](./310389-survivor-cells-virusbane.json) |
