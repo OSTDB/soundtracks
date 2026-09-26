@@ -3115,6 +3115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord BullFrog | 149941 | [149941-lord-bullfrog.json](./149941-lord-bullfrog.json) |
 | Lord Clicker | 183555 | [183555-lord-clicker.json](./183555-lord-clicker.json) |
 | Lord Democrat Strikes Out! | 116314 | [116314-lord-democrat-strikes-out.json](./116314-lord-democrat-strikes-out.json) |
+| Lord Legend: Match Brawl | 196585 | [196585-lord-legend-match-brawl.json](./196585-lord-legend-match-brawl.json) |
 | Lord Monarch | 37941 | [37941-lord-monarch.json](./37941-lord-monarch.json) |
 | Lord O' Pirates | 258528 | [258528-lord-o-pirates.json](./258528-lord-o-pirates.json) |
 | Lord of Bones | 236265 | [236265-lord-of-bones.json](./236265-lord-of-bones.json) |
