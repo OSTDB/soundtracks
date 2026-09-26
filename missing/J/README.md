@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaws & Claws | 189070 | [189070-jaws-and-claws.json](./189070-jaws-and-claws.json) |
 | Jaws of Hell | 349322 | [349322-jaws-of-hell.json](./349322-jaws-of-hell.json) |
 | Jaws: Retro Edition | 381120 | [381120-jaws-retro-edition.json](./381120-jaws-retro-edition.json) |
+| Jaws! | 220588 | [220588-jaws.json](./220588-jaws.json) |
 | JawshRPG | 316280 | [316280-jawshrpg.json](./316280-jawshrpg.json) |
 | Jax Payne – Part 1 | 252102 | [252102-jax-payne-part-1.json](./252102-jax-payne-part-1.json) |
 | Jax: History Repeats Itself | 275725 | [275725-jax-history-repeats-itself.json](./275725-jax-history-repeats-itself.json) |
