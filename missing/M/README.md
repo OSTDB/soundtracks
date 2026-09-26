@@ -1298,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mappy-Land | 48179 | [48179-mappy-land.json](./48179-mappy-land.json) |
 | Maps 4Matt | 312897 | [312897-maps-4matt.json](./312897-maps-4matt.json) |
 | Maps 4TMD | 312911 | [312911-maps-4tmd.json](./312911-maps-4tmd.json) |
+| Maps: U.S.A. | 201011 | [201011-maps-u-s-a.json](./201011-maps-u-s-a.json) |
 | MapTap.gg | 400496 | [400496-maptap-gg.json](./400496-maptap-gg.json) |
 | Mapventure Story | 238587 | [238587-mapventure-story.json](./238587-mapventure-story.json) |
 | Maqiupai | 92993 | [92993-maqiupai.json](./92993-maqiupai.json) |
@@ -3350,6 +3351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meli | 381846 | [381846-meli.json](./381846-meli.json) |
 | Melissa K. and the Heart of Gold: Collector's Edition | 36235 | [36235-melissa-k-and-the-heart-of-gold-collectors-edition.json](./36235-melissa-k-and-the-heart-of-gold-collectors-edition.json) |
 | Melkis: Spend With You the Sweet Days Like Fairy Tales | 222241 | [222241-melkis-spend-with-you-the-sweet-days-like-fairy-tales.json](./222241-melkis-spend-with-you-the-sweet-days-like-fairy-tales.json) |
+| Mell Kiss: Limited Edition | 201049 | [201049-mell-kiss-limited-edition.json](./201049-mell-kiss-limited-edition.json) |
 | Melli's Retro Land | 270414 | [270414-mellis-retro-land.json](./270414-mellis-retro-land.json) |
 | Mello Haunted House | 207497 | [207497-mello-haunted-house.json](./207497-mello-haunted-house.json) |
 | Mellstroy Survivor | 369753 | [369753-mellstroy-survivor.json](./369753-mellstroy-survivor.json) |
@@ -3871,6 +3873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Max 2 | 37929 | [37929-metal-max-2.json](./37929-metal-max-2.json) |
 | Metal Max 3 | 66922 | [66922-metal-max-3.json](./66922-metal-max-3.json) |
 | Metal Max Returns | 38373 | [38373-metal-max-returns.json](./38373-metal-max-returns.json) |
+| Metal Max Xeno: Limited Edition | 201054 | [201054-metal-max-xeno-limited-edition.json](./201054-metal-max-xeno-limited-edition.json) |
 | Metal Max: Fireworks | 75850 | [75850-metal-max-fireworks.json](./75850-metal-max-fireworks.json) |
 | Metal Mech: Man & Machine | 48082 | [48082-metal-mech-man-and-machine.json](./48082-metal-mech-man-and-machine.json) |
 | Metal Mission 2015: Dino Island | 259567 | [259567-metal-mission-2015-dino-island.json](./259567-metal-mission-2015-dino-island.json) |
@@ -6044,6 +6047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monochrome Mapping Project | 313857 | [313857-monochrome-mapping-project.json](./313857-monochrome-mapping-project.json) |
 | Monochrome Mobius: Rights and Wrongs Forgotten | 198438 | [198438-monochrome-mobius-rights-and-wrongs-forgotten.json](./198438-monochrome-mobius-rights-and-wrongs-forgotten.json) |
 | Monochrome Mobius: Rights and Wrongs Forgotten - Deluxe Edition | 247196 | [247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json](./247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json) |
+| Monochrome Mobius: Rights and Wrongs Forgotten - Limited Edition | 201046 | [201046-monochrome-mobius-rights-and-wrongs-forgotten-limited-edition.json](./201046-monochrome-mobius-rights-and-wrongs-forgotten-limited-edition.json) |
 | Monochrome Pixels | 310576 | [310576-monochrome-pixels.json](./310576-monochrome-pixels.json) |
 | Monochrome Racing | 52592 | [52592-monochrome-racing.json](./52592-monochrome-racing.json) |
 | Monochrome RPG Episode 1: The Maniacal Morning | 152894 | [152894-monochrome-rpg-episode-1-the-maniacal-morning.json](./152894-monochrome-rpg-episode-1-the-maniacal-morning.json) |
@@ -6804,6 +6808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Shell: Complete Edition | 229693 | [229693-mortal-shell-complete-edition.json](./229693-mortal-shell-complete-edition.json) |
 | Mortal Shell: Digital Deluxe Edition | 214474 | [214474-mortal-shell-digital-deluxe-edition.json](./214474-mortal-shell-digital-deluxe-edition.json) |
 | Mortal Shell: Enhanced Edition - Game of the Year Edition | 201782 | [201782-mortal-shell-enhanced-edition-game-of-the-year-edition.json](./201782-mortal-shell-enhanced-edition-game-of-the-year-edition.json) |
+| Mortal Shell: Game of the Year Edition | 201041 | [201041-mortal-shell-game-of-the-year-edition.json](./201041-mortal-shell-game-of-the-year-edition.json) |
 | Mortal Shell: Rotten Autumn | 229714 | [229714-mortal-shell-rotten-autumn.json](./229714-mortal-shell-rotten-autumn.json) |
 | Mortal Shell: The Virtuous Cycle | 152119 | [152119-mortal-shell-the-virtuous-cycle.json](./152119-mortal-shell-the-virtuous-cycle.json) |
 | Mortal Trap Dungeon | 378282 | [378282-mortal-trap-dungeon.json](./378282-mortal-trap-dungeon.json) |
@@ -6821,6 +6826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morth | 149587 | [149587-morth.json](./149587-morth.json) |
 | Mortician Inc.: Idle Empire | 245377 | [245377-mortician-inc-idle-empire.json](./245377-mortician-inc-idle-empire.json) |
 | Mortie College | 370714 | [370714-mortie-college.json](./370714-mortie-college.json) |
+| Mortificare | 201003 | [201003-mortificare.json](./201003-mortificare.json) |
 | Mortified | 249780 | [249780-mortified.json](./249780-mortified.json) |
 | Mortimer: First Launch | 341337 | [341337-mortimer-first-launch.json](./341337-mortimer-first-launch.json) |
 | Morto: Chapter 2 | 284497 | [284497-morto-chapter-2.json](./284497-morto-chapter-2.json) |
