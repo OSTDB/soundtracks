@@ -671,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yugo: The Non-game | 319791 | [319791-yugo-the-non-game.json](./319791-yugo-the-non-game.json) |
 | Yugowave | 250009 | [250009-yugowave.json](./250009-yugowave.json) |
 | Yuha's Nightmares | 155987 | [155987-yuhas-nightmares.json](./155987-yuhas-nightmares.json) |
+| Yui Tui | 190451 | [190451-yui-tui.json](./190451-yui-tui.json) |
 | Yuika My Bestie | 351595 | [351595-yuika-my-bestie.json](./351595-yuika-my-bestie.json) |
 | Yuji Naka's NES Game | 257650 | [257650-yuji-nakas-nes-game.json](./257650-yuji-nakas-nes-game.json) |
 | Yuka: Scattered Shards of the Yokai | 247461 | [247461-yuka-scattered-shards-of-the-yokai.json](./247461-yuka-scattered-shards-of-the-yokai.json) |
