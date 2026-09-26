@@ -3988,6 +3988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Exodus: Enhanced Edition | 143292 | [143292-metro-exodus-enhanced-edition.json](./143292-metro-exodus-enhanced-edition.json) |
 | Metro Exodus: Gold Edition | 95059 | [95059-metro-exodus-gold-edition.json](./95059-metro-exodus-gold-edition.json) |
 | Metro Exodus: Sam's Story | 121756 | [121756-metro-exodus-sams-story.json](./121756-metro-exodus-sams-story.json) |
+| Metro MP | 212211 | [212211-metro-mp.json](./212211-metro-mp.json) |
 | Metro PD: Close to You | 238426 | [238426-metro-pd-close-to-you.json](./238426-metro-pd-close-to-you.json) |
 | Metro Quester | 277887 | [277887-metro-quester.json](./277887-metro-quester.json) |
 | Metro Rivals: New York | 373617 | [373617-metro-rivals-new-york.json](./373617-metro-rivals-new-york.json) |
@@ -4059,6 +4060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mexiball | 208009 | [208009-mexiball.json](./208009-mexiball.json) |
 | Mexican High School Simulator | 257355 | [257355-mexican-high-school-simulator.json](./257355-mexican-high-school-simulator.json) |
 | Mexican Ninja | 347240 | [347240-mexican-ninja.json](./347240-mexican-ninja.json) |
+| Mexican Smashoff | 212221 | [212221-mexican-smashoff.json](./212221-mexican-smashoff.json) |
 | Mexico 1921: A Deep Slumber | 211921 | [211921-mexico-1921-a-deep-slumber.json](./211921-mexico-1921-a-deep-slumber.json) |
 | Meyni | 299128 | [299128-meyni.json](./299128-meyni.json) |
 | Mezase! Kanji Ou | 43962 | [43962-mezase-kanji-ou.json](./43962-mezase-kanji-ou.json) |
@@ -4558,6 +4560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milites Fortunae | 249210 | [249210-milites-fortunae.json](./249210-milites-fortunae.json) |
 | Milk and Cookies | 132233 | [132233-milk-and-cookies.json](./132233-milk-and-cookies.json) |
 | Milk Farm Tycoon | 243708 | [243708-milk-farm-tycoon.json](./243708-milk-farm-tycoon.json) |
+| Milk Girl: Sweet Memories of Summer | 212194 | [212194-milk-girl-sweet-memories-of-summer.json](./212194-milk-girl-sweet-memories-of-summer.json) |
 | Milk Mania | 246500 | [246500-milk-mania.json](./246500-milk-mania.json) |
 | Milk Me Darling | 385061 | [385061-milk-me-darling.json](./385061-milk-me-darling.json) |
 | Milk Me Darling: Busty And The Breast | 301983 | [301983-milk-me-darling-busty-and-the-breast.json](./301983-milk-me-darling-busty-and-the-breast.json) |
@@ -5442,6 +5445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misty Garden | 345670 | [345670-misty-garden.json](./345670-misty-garden.json) |
 | Misty no Kira-kira Hanjouki | 265217 | [265217-misty-no-kira-kira-hanjouki.json](./265217-misty-no-kira-kira-hanjouki.json) |
 | Misty's Idle Fishing | 372531 | [372531-mistys-idle-fishing.json](./372531-mistys-idle-fishing.json) |
+| Misty's Shining Blacksmithing | 212199 | [212199-mistys-shining-blacksmithing.json](./212199-mistys-shining-blacksmithing.json) |
 | Misty's Super Golf Solitaire | 339911 | [339911-mistys-super-golf-solitaire.json](./339911-mistys-super-golf-solitaire.json) |
 | Mistyvale | 376109 | [376109-mistyvale.json](./376109-mistyvale.json) |
 | Misuzu no Kuni | 341591 | [341591-misuzu-no-kuni.json](./341591-misuzu-no-kuni.json) |
@@ -7087,6 +7091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moustache Mountain | 33133 | [33133-moustache-mountain.json](./33133-moustache-mountain.json) |
 | Mouth Trap | 318429 | [318429-mouth-trap.json](./318429-mouth-trap.json) |
 | Mouthwashing | 264410 | [264410-mouthwashing.json](./264410-mouthwashing.json) |
+| Movafort | 212190 | [212190-movafort.json](./212190-movafort.json) |
 | Move 78 | 157207 | [157207-move-78.json](./157207-move-78.json) |
 | Move Ball to Green | 291518 | [291518-move-ball-to-green.json](./291518-move-ball-to-green.json) |
 | Move Blocks | 285454 | [285454-move-blocks.json](./285454-move-blocks.json) |
