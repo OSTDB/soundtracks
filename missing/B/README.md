@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby's Nightmare Circus VR: Remake | 336002 | [336002-babys-nightmare-circus-vr-remake.json](./336002-babys-nightmare-circus-vr-remake.json) |
 | Baby's Town | 299835 | [299835-babys-town.json](./299835-babys-town.json) |
 | Babylon 2055 Pinball | 33113 | [33113-babylon-2055-pinball.json](./33113-babylon-2055-pinball.json) |
+| Babylon 5 | 218435 | [218435-babylon-5.json](./218435-babylon-5.json) |
 | Babylon X | 307136 | [307136-babylon-x.json](./307136-babylon-x.json) |
 | BabyRace | 255122 | [255122-babyrace.json](./255122-babyrace.json) |
 | Babysitter Simulator | 203902 | [203902-babysitter-simulator.json](./203902-babysitter-simulator.json) |
