@@ -2502,6 +2502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoGo Sentai Boukenger Kazu to Katachi wo Oboeyou! | 327590 | [327590-gogo-sentai-boukenger-kazu-to-katachi-wo-oboeyou.json](./327590-gogo-sentai-boukenger-kazu-to-katachi-wo-oboeyou.json) |
 | GoGo Tap! Fighter | 243077 | [243077-gogo-tap-fighter.json](./243077-gogo-tap-fighter.json) |
 | Gogo the Ghost | 13859 | [13859-gogo-the-ghost.json](./13859-gogo-the-ghost.json) |
+| Gogofish! Redux: GOTD Edition | 176819 | [176819-gogofish-redux-gotd-edition.json](./176819-gogofish-redux-gotd-edition.json) |
 | GoGoGo | 270934 | [270934-gogogo.json](./270934-gogogo.json) |
 | Gogoo | 151001 | [151001-gogoo.json](./151001-gogoo.json) |
 | Gogte | 188523 | [188523-gogte.json](./188523-gogte.json) |
@@ -3347,6 +3348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Shift | 271588 | [271588-graveyard-shift.json](./271588-graveyard-shift.json) |
 | Graveyard Shift | 292517 | [292517-graveyard-shift.json](./292517-graveyard-shift.json) |
 | Graveyard Shift | 31801 | [31801-graveyard-shift.json](./31801-graveyard-shift.json) |
+| Graveyard Shift 2 | 176814 | [176814-graveyard-shift-2.json](./176814-graveyard-shift-2.json) |
 | Graveyard Smash | 90583 | [90583-graveyard-smash.json](./90583-graveyard-smash.json) |
 | Graveyard Sprint | 245874 | [245874-graveyard-sprint.json](./245874-graveyard-sprint.json) |
 | Graveyard404 | 365260 | [365260-graveyard404.json](./365260-graveyard404.json) |
@@ -4070,6 +4072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guarding Goddess | 207331 | [207331-guarding-goddess.json](./207331-guarding-goddess.json) |
 | Guards of the Gate | 90168 | [90168-guards-of-the-gate.json](./90168-guards-of-the-gate.json) |
 | Guards!: Vanguard Supporter Pack | 289322 | [289322-guards-vanguard-supporter-pack.json](./289322-guards-vanguard-supporter-pack.json) |
+| Guarrd the Rum | 176800 | [176800-guarrd-the-rum.json](./176800-guarrd-the-rum.json) |
 | Gubble | 170382 | [170382-gubble.json](./170382-gubble.json) |
 | Gubble 2 | 93338 | [93338-gubble-2.json](./93338-gubble-2.json) |
 | Gudetama Tap! | 102118 | [102118-gudetama-tap.json](./102118-gudetama-tap.json) |
