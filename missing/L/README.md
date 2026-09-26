@@ -1749,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lickspittles | 392814 | [392814-lickspittles.json](./392814-lickspittles.json) |
 | Lidar Exploration Program | 291468 | [291468-lidar-exploration-program.json](./291468-lidar-exploration-program.json) |
 | Lidar Survival | 253917 | [253917-lidar-survival.json](./253917-lidar-survival.json) |
+| Lidar.exe | 213883 | [213883-lidar-exe.json](./213883-lidar-exe.json) |
 | LiEat: The Lie-Eating Dragon & the Vermilion Vampire | 115202 | [115202-lieat-the-lie-eating-dragon-and-the-vermilion-vampire.json](./115202-lieat-the-lie-eating-dragon-and-the-vermilion-vampire.json) |
 | Liebt Mich Nicht | 126021 | [126021-liebt-mich-nicht.json](./126021-liebt-mich-nicht.json) |
 | Liege | 63254 | [63254-liege.json](./63254-liege.json) |
