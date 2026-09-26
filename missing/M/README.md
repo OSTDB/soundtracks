@@ -6665,6 +6665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortadelo y Filemón: Terror, Espanto y Pavor | 277925 | [277925-mortadelo-y-filemon-terror-espanto-y-pavor.json](./277925-mortadelo-y-filemon-terror-espanto-y-pavor.json) |
 | Mortadelo y Filemón: Una aventura de cine - Edición especial | 115607 | [115607-mortadelo-y-filemon-una-aventura-de-cine-edicion-especial.json](./115607-mortadelo-y-filemon-una-aventura-de-cine-edicion-especial.json) |
 | Mortal Cultivation Biography | 368504 | [368504-mortal-cultivation-biography.json](./368504-mortal-cultivation-biography.json) |
+| Mortal Dark | 215069 | [215069-mortal-dark.json](./215069-mortal-dark.json) |
 | Mortal Fighter | 251837 | [251837-mortal-fighter.json](./251837-mortal-fighter.json) |
 | Mortal Glory | 119763 | [119763-mortal-glory.json](./119763-mortal-glory.json) |
 | Mortal Glory 2 | 235841 | [235841-mortal-glory-2.json](./235841-mortal-glory-2.json) |
@@ -7892,6 +7893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My First Date RPG | 169431 | [169431-my-first-date-rpg.json](./169431-my-first-date-rpg.json) |
 | My First Date RPG 2 | 196813 | [196813-my-first-date-rpg-2.json](./196813-my-first-date-rpg-2.json) |
 | My First Date RPG: Elliot - Story Two | 313903 | [313903-my-first-date-rpg-elliot-story-two.json](./313903-my-first-date-rpg-elliot-story-two.json) |
+| My First Date RPG: Oriana - Story One | 215100 | [215100-my-first-date-rpg-oriana-story-one.json](./215100-my-first-date-rpg-oriana-story-one.json) |
 | My First Date RPG: Oriana - Story Three | 314024 | [314024-my-first-date-rpg-oriana-story-three.json](./314024-my-first-date-rpg-oriana-story-three.json) |
 | My First Date RPG: Oriana - Story Two | 313488 | [313488-my-first-date-rpg-oriana-story-two.json](./313488-my-first-date-rpg-oriana-story-two.json) |
 | My First Dollhouse | 206769 | [206769-my-first-dollhouse.json](./206769-my-first-dollhouse.json) |
