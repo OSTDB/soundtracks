@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Energy | 285001 | [285001-dark-energy.json](./285001-dark-energy.json) |
 | Dark Engines | 398416 | [398416-dark-engines.json](./398416-dark-engines.json) |
 | Dark Era | 311596 | [311596-dark-era.json](./311596-dark-era.json) |
+| Dark Escape | 222868 | [222868-dark-escape.json](./222868-dark-escape.json) |
 | Dark Eyed Angels | 260222 | [260222-dark-eyed-angels.json](./260222-dark-eyed-angels.json) |
 | Dark Eyes | 145629 | [145629-dark-eyes.json](./145629-dark-eyes.json) |
 | Dark Eyes: Millennium 2000 | 145632 | [145632-dark-eyes-millennium-2000.json](./145632-dark-eyes-millennium-2000.json) |
@@ -727,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Survival | 152728 | [152728-dark-survival.json](./152728-dark-survival.json) |
 | Dark Sword: The Light of Ainn | 295409 | [295409-dark-sword-the-light-of-ainn.json](./295409-dark-sword-the-light-of-ainn.json) |
 | Dark Swords | 119044 | [119044-dark-swords.json](./119044-dark-swords.json) |
+| Dark Tales from México: Prelude. Just a Dream... with the Sack Man | 222845 | [222845-dark-tales-from-mexico-prelude-just-a-dream-with-the-sack-man.json](./222845-dark-tales-from-mexico-prelude-just-a-dream-with-the-sack-man.json) |
 | Dark Tales: Edgar Allan Poe's Lenore - Collector's Edition | 370676 | [370676-dark-tales-edgar-allan-poes-lenore-collectors-edition.json](./370676-dark-tales-edgar-allan-poes-lenore-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's Morella - Collector's Edition | 370677 | [370677-dark-tales-edgar-allan-poes-morella-collectors-edition.json](./370677-dark-tales-edgar-allan-poes-morella-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's Murders in the Rue Morgue - Collector's Edition | 209007 | [209007-dark-tales-edgar-allan-poes-murders-in-the-rue-morgue-collectors-edition.json](./209007-dark-tales-edgar-allan-poes-murders-in-the-rue-morgue-collectors-edition.json) |
@@ -6739,6 +6741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel of games | 292581 | [292581-duel-of-games.json](./292581-duel-of-games.json) |
 | Duel of Honor | 272239 | [272239-duel-of-honor.json](./272239-duel-of-honor.json) |
 | Duel Princess | 186912 | [186912-duel-princess.json](./186912-duel-princess.json) |
+| Duel Toys 2 | 222860 | [222860-duel-toys-2.json](./222860-duel-toys-2.json) |
 | Duelant | 311456 | [311456-duelant.json](./311456-duelant.json) |
 | Dueling Dragons | 183566 | [183566-dueling-dragons.json](./183566-dueling-dragons.json) |
 | Dueling Drums | 341466 | [341466-dueling-drums.json](./341466-dueling-drums.json) |
