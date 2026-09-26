@@ -3612,6 +3612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Mahjong | 6113 | [6113-home-mahjong.json](./6113-home-mahjong.json) |
 | Home Makeover: Hidden Object | 146710 | [146710-home-makeover-hidden-object.json](./146710-home-makeover-hidden-object.json) |
 | Home Pin 2: Family Adventure | 227362 | [227362-home-pin-2-family-adventure.json](./227362-home-pin-2-family-adventure.json) |
+| Home Quest | 227242 | [227242-home-quest.json](./227242-home-quest.json) |
 | Home Renovate 'N Sale | 105789 | [105789-home-renovate-n-sale.json](./105789-home-renovate-n-sale.json) |
 | Home Rescue Clean And Restore Collector's Edition | 399642 | [399642-home-rescue-clean-and-restore-collectors-edition.json](./399642-home-rescue-clean-and-restore-collectors-edition.json) |
 | Home Run High | 109008 | [109008-home-run-high.json](./109008-home-run-high.json) |
