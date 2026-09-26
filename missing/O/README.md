@@ -2119,6 +2119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outcasts of the Rift | 236914 | [236914-outcasts-of-the-rift.json](./236914-outcasts-of-the-rift.json) |
 | Outcore: Desktop Adventure | 156612 | [156612-outcore-desktop-adventure.json](./156612-outcore-desktop-adventure.json) |
 | Outdo IO: Alphabet Letter | 237632 | [237632-outdo-io-alphabet-letter.json](./237632-outdo-io-alphabet-letter.json) |
+| Outdoor Life: Sportman's Challenge | 202697 | [202697-outdoor-life-sportmans-challenge.json](./202697-outdoor-life-sportmans-challenge.json) |
 | Outdoor Trivia Challenge | 70355 | [70355-outdoor-trivia-challenge.json](./70355-outdoor-trivia-challenge.json) |
 | Outdoors Unlimited | 137088 | [137088-outdoors-unlimited.json](./137088-outdoors-unlimited.json) |
 | Outer Empires | 67317 | [67317-outer-empires.json](./67317-outer-empires.json) |
