@@ -3296,6 +3296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Gunner | 280289 | [280289-grave-gunner.json](./280289-grave-gunner.json) |
 | Grave Man | 179694 | [179694-grave-man.json](./179694-grave-man.json) |
 | Grave Rogue | 351800 | [351800-grave-rogue.json](./351800-grave-rogue.json) |
+| Grave Shadows | 185450 | [185450-grave-shadows.json](./185450-grave-shadows.json) |
 | Grave Spirit | 230215 | [230215-grave-spirit.json](./230215-grave-spirit.json) |
 | Grave Yardage | 94545 | [94545-grave-yardage.json](./94545-grave-yardage.json) |
 | Grave-Queen | 219806 | [219806-grave-queen.json](./219806-grave-queen.json) |
