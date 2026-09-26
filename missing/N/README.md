@@ -2428,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Slimes!! | 414600 | [414600-no-more-slimes.json](./414600-no-more-slimes.json) |
 | No Offence, But | 126581 | [126581-no-offence-but.json](./126581-no-offence-but.json) |
 | No One Can Stop Mr. Domino! | 4107 | [4107-no-one-can-stop-mr-domino.json](./4107-no-one-can-stop-mr-domino.json) |
+| No One Lives | 174675 | [174675-no-one-lives.json](./174675-no-one-lives.json) |
 | No One Lives in Heaven: Digital Deluxe Edition | 167182 | [167182-no-one-lives-in-heaven-digital-deluxe-edition.json](./167182-no-one-lives-in-heaven-digital-deluxe-edition.json) |
 | No One's Island | 368553 | [368553-no-ones-island.json](./368553-no-ones-island.json) |
 | No Ordinary Elevator | 76666 | [76666-no-ordinary-elevator.json](./76666-no-ordinary-elevator.json) |
