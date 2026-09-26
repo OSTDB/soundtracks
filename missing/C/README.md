@@ -1401,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Simon's Destiny | 141030 | [141030-castlevania-simons-destiny.json](./141030-castlevania-simons-destiny.json) |
 | Castlevania: Specter of Sorrow | 233598 | [233598-castlevania-specter-of-sorrow.json](./233598-castlevania-specter-of-sorrow.json) |
 | Castlevania: Symphony of Horrors | 376583 | [376583-castlevania-symphony-of-horrors.json](./376583-castlevania-symphony-of-horrors.json) |
+| Castlevania: Symphony of the Night | 213878 | [213878-castlevania-symphony-of-the-night.json](./213878-castlevania-symphony-of-the-night.json) |
 | Castlevania: Symphony of the Night | 222227 | [222227-castlevania-symphony-of-the-night.json](./222227-castlevania-symphony-of-the-night.json) |
 | Castlevania: Symphony of the Night | 223593 | [223593-castlevania-symphony-of-the-night.json](./223593-castlevania-symphony-of-the-night.json) |
 | Castlevania: Symphony of the Night - Reborn | 338814 | [338814-castlevania-symphony-of-the-night-reborn.json](./338814-castlevania-symphony-of-the-night-reborn.json) |
