@@ -1622,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Forged | 141139 | [141139-hell-forged.json](./141139-hell-forged.json) |
 | Hell Froze Over | 342151 | [342151-hell-froze-over.json](./342151-hell-froze-over.json) |
 | Hell Galaxy | 277918 | [277918-hell-galaxy.json](./277918-hell-galaxy.json) |
+| Hell Green Blue | 203842 | [203842-hell-green-blue.json](./203842-hell-green-blue.json) |
 | Hell Grocery | 219826 | [219826-hell-grocery.json](./219826-hell-grocery.json) |
 | Hell Ground | 256827 | [256827-hell-ground.json](./256827-hell-ground.json) |
 | Hell Guide | 130852 | [130852-hell-guide.json](./130852-hell-guide.json) |
