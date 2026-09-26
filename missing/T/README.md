@@ -5297,6 +5297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lilliput Workshop | 205249 | [205249-the-lilliput-workshop.json](./205249-the-lilliput-workshop.json) |
 | The Lilows 2 | 239888 | [239888-the-lilows-2.json](./239888-the-lilows-2.json) |
 | The Lima Project | 271492 | [271492-the-lima-project.json](./271492-the-lima-project.json) |
+| The Limbo of Loss | 183345 | [183345-the-limbo-of-loss.json](./183345-the-limbo-of-loss.json) |
 | The Liminal | 372130 | [372130-the-liminal.json](./372130-the-liminal.json) |
 | The Liminal Space | 289988 | [289988-the-liminal-space.json](./289988-the-liminal-space.json) |
 | The Liminal Theory | 312130 | [312130-the-liminal-theory.json](./312130-the-liminal-theory.json) |
@@ -6479,6 +6480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rumble Fish: Complete Pack | 336932 | [336932-the-rumble-fish-complete-pack.json](./336932-the-rumble-fish-complete-pack.json) |
 | The Runaway Feijoao | 159874 | [159874-the-runaway-feijoao.json](./159874-the-runaway-feijoao.json) |
 | The Runesmith | 376438 | [376438-the-runesmith.json](./376438-the-runesmith.json) |
+| The Running Dead | 183333 | [183333-the-running-dead.json](./183333-the-running-dead.json) |
 | The Rush: The Veronica Story | 145577 | [145577-the-rush-the-veronica-story.json](./145577-the-rush-the-veronica-story.json) |
 | The Russian Roulette Game: PR | 292522 | [292522-the-russian-roulette-game-pr.json](./292522-the-russian-roulette-game-pr.json) |
 | The Rusted | 379377 | [379377-the-rusted.json](./379377-the-rusted.json) |
@@ -6973,6 +6975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Specter's Desire | 301824 | [301824-the-specters-desire.json](./301824-the-specters-desire.json) |
 | The Spectral Web: Hitodama | 264575 | [264575-the-spectral-web-hitodama.json](./264575-the-spectral-web-hitodama.json) |
 | The Spectrum Retreat | 96065 | [96065-the-spectrum-retreat.json](./96065-the-spectrum-retreat.json) |
+| The Spectrum Soup | 183342 | [183342-the-spectrum-soup.json](./183342-the-spectrum-soup.json) |
 | The Spell | 113759 | [113759-the-spell.json](./113759-the-spell.json) |
 | The Spell Brigade | 297683 | [297683-the-spell-brigade.json](./297683-the-spell-brigade.json) |
 | The Speris Legacy | 15565 | [15565-the-speris-legacy.json](./15565-the-speris-legacy.json) |
@@ -9494,6 +9497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeZero | 58813 | [58813-timezero.json](./58813-timezero.json) |
 | Timing Hero | 112232 | [112232-timing-hero.json](./112232-timing-hero.json) |
 | Timing X | 402370 | [402370-timing-x.json](./402370-timing-x.json) |
+| Timmy & Mousey: Endless Runner | 183331 | [183331-timmy-and-mousey-endless-runner.json](./183331-timmy-and-mousey-endless-runner.json) |
 | Timmy the Dream Hunter | 307299 | [307299-timmy-the-dream-hunter.json](./307299-timmy-the-dream-hunter.json) |
 | Timmy Types | 214540 | [214540-timmy-types.json](./214540-timmy-types.json) |
 | Timmy's Adventures | 224648 | [224648-timmys-adventures.json](./224648-timmys-adventures.json) |
@@ -9821,6 +9825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Dust | 259824 | [259824-to-dust.json](./259824-to-dust.json) |
 | To Hell in a Hamper | 60019 | [60019-to-hell-in-a-hamper.json](./60019-to-hell-in-a-hamper.json) |
 | To Hell With the Ugly | 158137 | [158137-to-hell-with-the-ugly.json](./158137-to-hell-with-the-ugly.json) |
+| To Kill A Black Swan | 183371 | [183371-to-kill-a-black-swan.json](./183371-to-kill-a-black-swan.json) |
 | To Kill A King | 154399 | [154399-to-kill-a-king.json](./154399-to-kill-a-king.json) |
 | To Kill Eros | 404935 | [404935-to-kill-eros.json](./404935-to-kill-eros.json) |
 | To Kyrstem | 181326 | [181326-to-kyrstem.json](./181326-to-kyrstem.json) |
@@ -12573,6 +12578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Agent! | 75144 | [75144-triple-agent.json](./75144-triple-agent.json) |
 | Triple Bubble | 307579 | [307579-triple-bubble.json](./307579-triple-bubble.json) |
 | Triple Header Sports | 220127 | [220127-triple-header-sports.json](./220127-triple-header-sports.json) |
+| Triple Jump | 183352 | [183352-triple-jump.json](./183352-triple-jump.json) |
 | Triple Jump | 247050 | [247050-triple-jump.json](./247050-triple-jump.json) |
 | Triple Jumping Sports | 85453 | [85453-triple-jumping-sports.json](./85453-triple-jumping-sports.json) |
 | Triple Pairing Mini Fandisc | 418770 | [418770-triple-pairing-mini-fandisc.json](./418770-triple-pairing-mini-fandisc.json) |
@@ -13218,6 +13224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turquoise | 389596 | [389596-turquoise.json](./389596-turquoise.json) |
 | Turret | 130200 | [130200-turret.json](./130200-turret.json) |
 | Turret Defense King | 317362 | [317362-turret-defense-king.json](./317362-turret-defense-king.json) |
+| Turret Jumper 2 | 183350 | [183350-turret-jumper-2.json](./183350-turret-jumper-2.json) |
 | TurretCraft | 34272 | [34272-turretcraft.json](./34272-turretcraft.json) |
 | TurretGirls | 347243 | [347243-turretgirls.json](./347243-turretgirls.json) |
 | Turrican 3 | 12803 | [12803-turrican-3.json](./12803-turrican-3.json) |
