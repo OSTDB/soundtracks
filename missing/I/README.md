@@ -2516,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Assault | 195609 | [195609-island-assault.json](./195609-island-assault.json) |
 | Island Bender | 234346 | [234346-island-bender.json](./234346-island-bender.json) |
 | Island Casino | 262406 | [262406-island-casino.json](./262406-island-casino.json) |
+| Island Cities | 214445 | [214445-island-cities.json](./214445-island-cities.json) |
 | Island Clash | 267070 | [267070-island-clash.json](./267070-island-clash.json) |
 | Island Clicker | 247041 | [247041-island-clicker.json](./247041-island-clicker.json) |
 | Island Crisis | 331109 | [331109-island-crisis.json](./331109-island-crisis.json) |
