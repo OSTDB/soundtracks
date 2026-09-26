@@ -2009,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koioto Se Piace | 386255 | [386255-koioto-se-piace.json](./386255-koioto-se-piace.json) |
 | Koishi's Lumo | 132280 | [132280-koishis-lumo.json](./132280-koishis-lumo.json) |
 | Koishite Doki-doki Choice Messe & Date | 251610 | [251610-koishite-doki-doki-choice-messe-and-date.json](./251610-koishite-doki-doki-choice-messe-and-date.json) |
+| Koisuru Otome to Shugo no Tate Portable | 198249 | [198249-koisuru-otome-to-shugo-no-tate-portable.json](./198249-koisuru-otome-to-shugo-no-tate-portable.json) |
 | Koisuru Purin! Koi ha Daibouken! Dr. Kanmi no Yabou!? | 269581 | [269581-koisuru-purin-koi-ha-daibouken-dr-kanmi-no-yabou.json](./269581-koisuru-purin-koi-ha-daibouken-dr-kanmi-no-yabou.json) |
 | Koitsugi: Legend of the Water Guardian | 303616 | [303616-koitsugi-legend-of-the-water-guardian.json](./303616-koitsugi-legend-of-the-water-guardian.json) |
 | Kojouji | 149543 | [149543-kojouji.json](./149543-kojouji.json) |
