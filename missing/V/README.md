@@ -688,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Hard Game | 278499 | [278499-very-hard-game.json](./278499-very-hard-game.json) |
 | Very Human Doctor | 416822 | [416822-very-human-doctor.json](./416822-very-human-doctor.json) |
 | Very Iconic Pixels - 80s Quiz | 233738 | [233738-very-iconic-pixels-80s-quiz.json](./233738-very-iconic-pixels-80s-quiz.json) |
+| Very Important Potato | 194292 | [194292-very-important-potato.json](./194292-very-important-potato.json) |
 | Very Little Nightmares | 117295 | [117295-very-little-nightmares.json](./117295-very-little-nightmares.json) |
 | Very Pink Game | 151580 | [151580-very-pink-game.json](./151580-very-pink-game.json) |
 | Very Scary Gays | 177909 | [177909-very-scary-gays.json](./177909-very-scary-gays.json) |
