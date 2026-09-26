@@ -3265,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdie Blitz | 406787 | [406787-birdie-blitz.json](./406787-birdie-blitz.json) |
 | Birdie Burglars | 176966 | [176966-birdie-burglars.json](./176966-birdie-burglars.json) |
 | Birdie Golf | 89783 | [89783-birdie-golf.json](./89783-birdie-golf.json) |
+| Birdie Shot | 223956 | [223956-birdie-shot.json](./223956-birdie-shot.json) |
 | Birdie Up | 334084 | [334084-birdie-up.json](./334084-birdie-up.json) |
 | Birdiy | 38592 | [38592-birdiy.json](./38592-birdiy.json) |
 | Birdland | 20339 | [20339-birdland.json](./20339-birdland.json) |
@@ -4505,6 +4506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Epic | 249795 | [249795-blue-epic.json](./249795-blue-epic.json) |
 | Blue Estate | 7439 | [7439-blue-estate.json](./7439-blue-estate.json) |
 | Blue fencer Resurrection | 159860 | [159860-blue-fencer-resurrection.json](./159860-blue-fencer-resurrection.json) |
+| Blue Fire: Void of Sorrows | 223954 | [223954-blue-fire-void-of-sorrows.json](./223954-blue-fire-void-of-sorrows.json) |
 | Blue Fish and Underwater Worlds | 146275 | [146275-blue-fish-and-underwater-worlds.json](./146275-blue-fish-and-underwater-worlds.json) |
 | Blue Fish Yokohama | 212824 | [212824-blue-fish-yokohama.json](./212824-blue-fish-yokohama.json) |
 | Blue Flow Fandisc | 408309 | [408309-blue-flow-fandisc.json](./408309-blue-flow-fandisc.json) |
