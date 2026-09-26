@@ -1356,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Meat | 329030 | [329030-new-meat.json](./329030-new-meat.json) |
 | New Nintendo 3DS Internet Browser: Breakout | 251587 | [251587-new-nintendo-3ds-internet-browser-breakout.json](./251587-new-nintendo-3ds-internet-browser-breakout.json) |
 | New Path 1: Adventure or Normality? | 124237 | [124237-new-path-1-adventure-or-normality.json](./124237-new-path-1-adventure-or-normality.json) |
+| New Revolution | 188398 | [188398-new-revolution.json](./188398-new-revolution.json) |
 | New Roanoke | 270968 | [270968-new-roanoke.json](./270968-new-roanoke.json) |
 | New Roots | 203853 | [203853-new-roots.json](./203853-new-roots.json) |
 | New Rule: The Game is... | 234581 | [234581-new-rule-the-game-is.json](./234581-new-rule-the-game-is.json) |
@@ -1473,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next 2 | 81627 | [81627-next-2.json](./81627-next-2.json) |
 | Next 4 | 102440 | [102440-next-4.json](./102440-next-4.json) |
 | Next Day: Survival | 51495 | [51495-next-day-survival.json](./51495-next-day-survival.json) |
+| Next Door: An Eternal World | 188411 | [188411-next-door-an-eternal-world.json](./188411-next-door-an-eternal-world.json) |
 | Next Earth: The Journey Trilogy | 149568 | [149568-next-earth-the-journey-trilogy.json](./149568-next-earth-the-journey-trilogy.json) |
 | Next Island | 92473 | [92473-next-island.json](./92473-next-island.json) |
 | Next Move | 262295 | [262295-next-move.json](./262295-next-move.json) |
@@ -1482,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Room | 292280 | [292280-next-room.json](./292280-next-room.json) |
 | Next Run | 372468 | [372468-next-run.json](./372468-next-run.json) |
 | Next Star System | 194288 | [194288-next-star-system.json](./194288-next-star-system.json) |
+| Next Station: Jianghu | 188403 | [188403-next-station-jianghu.json](./188403-next-station-jianghu.json) |
 | Next Step | 178655 | [178655-next-step.json](./178655-next-step.json) |
 | Next Stop | 87314 | [87314-next-stop.json](./87314-next-stop.json) |
 | Next Stop 3 | 115593 | [115593-next-stop-3.json](./115593-next-stop-3.json) |
