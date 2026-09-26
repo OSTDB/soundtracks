@@ -2495,6 +2495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Tengen Uzui Character Pack | 209695 | [209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json](./209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2 | 337907 | [337907-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2.json](./337907-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2: Deluxe Edition | 345692 | [345692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-deluxe-edition.json](./345692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-deluxe-edition.json) |
+| Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Digital Deluxe Edition | 176791 | [176791-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-digital-deluxe-edition.json](./176791-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-digital-deluxe-edition.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Limited Edition | 201042 | [201042-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-limited-edition.json](./201042-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-limited-edition.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Nezuko Advanced Demon Form | 213410 | [213410-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-nezuko-advanced-demon-form.json](./213410-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-nezuko-advanced-demon-form.json) |
 | Demon Stalkers | 54711 | [54711-demon-stalkers.json](./54711-demon-stalkers.json) |
@@ -6801,6 +6802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Druonio | 177013 | [177013-druonio.json](./177013-druonio.json) |
 | Drusilla Dreams | 33149 | [33149-drusilla-dreams.json](./33149-drusilla-dreams.json) |
 | Druuna: Morbus Gravis | 23445 | [23445-druuna-morbus-gravis.json](./23445-druuna-morbus-gravis.json) |
+| Dry | 176804 | [176804-dry.json](./176804-dry.json) |
 | Dry | 202356 | [202356-dry.json](./202356-dry.json) |
 | Dry Erase: Infinite VR Whiteboard | 51559 | [51559-dry-erase-infinite-vr-whiteboard.json](./51559-dry-erase-infinite-vr-whiteboard.json) |
 | Dry Hazard | 181718 | [181718-dry-hazard.json](./181718-dry-hazard.json) |
