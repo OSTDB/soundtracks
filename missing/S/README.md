@@ -4780,6 +4780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skater XL | 113175 | [113175-skater-xl.json](./113175-skater-xl.json) |
 | Skater XL: Tampa Pro 2022 Gear Pack For Charity | 225094 | [225094-skater-xl-tampa-pro-2022-gear-pack-for-charity.json](./225094-skater-xl-tampa-pro-2022-gear-pack-for-charity.json) |
 | SkateRide | 180776 | [180776-skateride.json](./180776-skateride.json) |
+| Skator Gator 3D | 217239 | [217239-skator-gator-3d.json](./217239-skator-gator-3d.json) |
 | Skautfold: Moonless Knight | 152142 | [152142-skautfold-moonless-knight.json](./152142-skautfold-moonless-knight.json) |
 | Skautfold: Shrouded in Sanity | 19481 | [19481-skautfold-shrouded-in-sanity.json](./19481-skautfold-shrouded-in-sanity.json) |
 | Skaza | 141159 | [141159-skaza.json](./141159-skaza.json) |
