@@ -1657,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Hunter Idle | 399703 | [399703-sea-hunter-idle.json](./399703-sea-hunter-idle.json) |
 | Sea Legends | 146227 | [146227-sea-legends.json](./146227-sea-legends.json) |
 | Sea Legends | 293633 | [293633-sea-legends.json](./293633-sea-legends.json) |
+| Sea Loot | 176275 | [176275-sea-loot.json](./176275-sea-loot.json) |
 | Sea Monster | 92823 | [92823-sea-monster.json](./92823-sea-monster.json) |
 | Sea Monster Attacks Hunter | 176446 | [176446-sea-monster-attacks-hunter.json](./176446-sea-monster-attacks-hunter.json) |
 | Sea Monsters: A Prehistoric Adventure | 206650 | [206650-sea-monsters-a-prehistoric-adventure.json](./206650-sea-monsters-a-prehistoric-adventure.json) |
@@ -1773,6 +1774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seasick | 219617 | [219617-seasick.json](./219617-seasick.json) |
 | Seaside Fireflies | 336612 | [336612-seaside-fireflies.json](./336612-seaside-fireflies.json) |
 | Seaside Special | 47199 | [47199-seaside-special.json](./47199-seaside-special.json) |
+| SeaSkulls | 176260 | [176260-seaskulls.json](./176260-seaskulls.json) |
 | Season 31 | 370675 | [370675-season-31.json](./370675-season-31.json) |
 | Season Island | 340575 | [340575-season-island.json](./340575-season-island.json) |
 | Season Marbles: Autumn | 337628 | [337628-season-marbles-autumn.json](./337628-season-marbles-autumn.json) |
@@ -3018,6 +3020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shamus: Case II | 23889 | [23889-shamus-case-ii.json](./23889-shamus-case-ii.json) |
 | Shan Gui II: Sweet Osmanthus II | 110467 | [110467-shan-gui-ii-sweet-osmanthus-ii.json](./110467-shan-gui-ii-sweet-osmanthus-ii.json) |
 | Shan Hai: Mythic Origins | 374845 | [374845-shan-hai-mythic-origins.json](./374845-shan-hai-mythic-origins.json) |
+| Shan's Salty Seamen | 176291 | [176291-shans-salty-seamen.json](./176291-shans-salty-seamen.json) |
 | Shane Warne's Cricket Test Interactive DVD Game | 352193 | [352193-shane-warnes-cricket-test-interactive-dvd-game.json](./352193-shane-warnes-cricket-test-interactive-dvd-game.json) |
 | Shane's Trains | 400325 | [400325-shanes-trains.json](./400325-shanes-trains.json) |
 | Shanghai Double Pack | 128644 | [128644-shanghai-double-pack.json](./128644-shanghai-double-pack.json) |
@@ -5943,6 +5946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile Simulation | 303078 | [303078-smile-simulation.json](./303078-smile-simulation.json) |
 | Smile Town | 338191 | [338191-smile-town.json](./338191-smile-town.json) |
 | Smile Town | 397229 | [397229-smile-town.json](./397229-smile-town.json) |
+| Smiles Incorporated | 176285 | [176285-smiles-incorporated.json](./176285-smiles-incorporated.json) |
 | SmileTris 2 | 70967 | [70967-smiletris-2.json](./70967-smiletris-2.json) |
 | SmileTris 3 | 70329 | [70329-smiletris-3.json](./70329-smiletris-3.json) |
 | SmileXCorp 3 | 236945 | [236945-smilexcorp-3.json](./236945-smilexcorp-3.json) |
@@ -12448,6 +12452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunken Engine | 336738 | [336738-sunken-engine.json](./336738-sunken-engine.json) |
 | Sunken Heads | 138821 | [138821-sunken-heads.json](./138821-sunken-heads.json) |
 | Sunken Realms | 197140 | [197140-sunken-realms.json](./197140-sunken-realms.json) |
+| Sunken Sailor | 176263 | [176263-sunken-sailor.json](./176263-sunken-sailor.json) |
 | Sunken Seeker | 386693 | [386693-sunken-seeker.json](./386693-sunken-seeker.json) |
 | Sunkenland | 213475 | [213475-sunkenland.json](./213475-sunkenland.json) |
 | Sunkissed | 313831 | [313831-sunkissed.json](./313831-sunkissed.json) |
@@ -14475,6 +14480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet New Year | 339448 | [339448-sweet-new-year.json](./339448-sweet-new-year.json) |
 | Sweet Night Club | 339447 | [339447-sweet-night-club.json](./339447-sweet-night-club.json) |
 | Sweet Office | 212191 | [212191-sweet-office.json](./212191-sweet-office.json) |
+| Sweet Pensiveness Christmas | 176257 | [176257-sweet-pensiveness-christmas.json](./176257-sweet-pensiveness-christmas.json) |
 | Sweet Pet | 392913 | [392913-sweet-pet.json](./392913-sweet-pet.json) |
 | Sweet Racing Girl | 339445 | [339445-sweet-racing-girl.json](./339445-sweet-racing-girl.json) |
 | Sweet Restaurant | 368561 | [368561-sweet-restaurant.json](./368561-sweet-restaurant.json) |
@@ -14671,6 +14677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Fireheart - The Awakening Element | 31989 | [31989-sword-of-fireheart-the-awakening-element.json](./31989-sword-of-fireheart-the-awakening-element.json) |
 | Sword of Hearts | 183437 | [183437-sword-of-hearts.json](./183437-sword-of-hearts.json) |
 | Sword of Mana | 6630 | [6630-sword-of-mana.json](./6630-sword-of-mana.json) |
+| Sword of Power | 176273 | [176273-sword-of-power.json](./176273-sword-of-power.json) |
 | Sword of Resistance | 134640 | [134640-sword-of-resistance.json](./134640-sword-of-resistance.json) |
 | Sword of Rule | 376075 | [376075-sword-of-rule.json](./376075-sword-of-rule.json) |
 | Sword of Saros | 40727 | [40727-sword-of-saros.json](./40727-sword-of-saros.json) |
