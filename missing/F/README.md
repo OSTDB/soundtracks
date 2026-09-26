@@ -1794,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight of Animals | 127088 | [127088-fight-of-animals.json](./127088-fight-of-animals.json) |
 | Fight of Animals: Arena | 151668 | [151668-fight-of-animals-arena.json](./151668-fight-of-animals-arena.json) |
 | Fight of Animals: Legend of the Strongest Creature | 125376 | [125376-fight-of-animals-legend-of-the-strongest-creature.json](./125376-fight-of-animals-legend-of-the-strongest-creature.json) |
+| Fight of Steel: Infinity Warrior | 197157 | [197157-fight-of-steel-infinity-warrior.json](./197157-fight-of-steel-infinity-warrior.json) |
 | Fight or Die | 29974 | [29974-fight-or-die.json](./29974-fight-or-die.json) |
 | Fight or Flight | 113046 | [113046-fight-or-flight.json](./113046-fight-or-flight.json) |
 | Fight or Flight VR | 272266 | [272266-fight-or-flight-vr.json](./272266-fight-or-flight-vr.json) |
