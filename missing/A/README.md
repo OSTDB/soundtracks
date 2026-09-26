@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Prosecutor Zero | 303022 | [303022-ace-prosecutor-zero.json](./303022-ace-prosecutor-zero.json) |
 | Ace Racer | 174905 | [174905-ace-racer.json](./174905-ace-racer.json) |
 | Ace Racing Turbo | 200057 | [200057-ace-racing-turbo.json](./200057-ace-racing-turbo.json) |
+| Ace Squadron: WWII Conflicts | 223931 | [223931-ace-squadron-wwii-conflicts.json](./223931-ace-squadron-wwii-conflicts.json) |
 | Ace Squared | 337793 | [337793-ace-squared.json](./337793-ace-squared.json) |
 | Ace the Space-Case | 76194 | [76194-ace-the-space-case.json](./76194-ace-the-space-case.json) |
 | Ace Triad | 283890 | [283890-ace-triad.json](./283890-ace-triad.json) |
@@ -933,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Address1 | 265648 | [265648-address1.json](./265648-address1.json) |
 | Addy: Do You Speak English? | 269541 | [269541-addy-do-you-speak-english.json](./269541-addy-do-you-speak-english.json) |
 | Adebana Sacrament: Seinaru Miwaza to Akuryoutsuki no Shoujo-tachi | 77948 | [77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json](./77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json) |
+| Adelamyth: Casual Idle RPG | 223932 | [223932-adelamyth-casual-idle-rpg.json](./223932-adelamyth-casual-idle-rpg.json) |
 | Aden | 224770 | [224770-aden.json](./224770-aden.json) |
 | Adequately Ever After | 337795 | [337795-adequately-ever-after.json](./337795-adequately-ever-after.json) |
 | ADG Episode | 270696 | [270696-adg-episode.json](./270696-adg-episode.json) |
@@ -1424,6 +1426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agritopia | 274510 | [274510-agritopia.json](./274510-agritopia.json) |
 | Agromatic | 381849 | [381849-agromatic.json](./381849-agromatic.json) |
 | Ah Nanjarin | 284418 | [284418-ah-nanjarin.json](./284418-ah-nanjarin.json) |
+| AH-1 Viper Cobra Ops | 223959 | [223959-ah-1-viper-cobra-ops.json](./223959-ah-1-viper-cobra-ops.json) |
 | AH-64D Longbow | 592 | [592-ah-64d-longbow.json](./592-ah-64d-longbow.json) |
 | Aha Hit tile 3D | 101321 | [101321-aha-hit-tile-3d.json](./101321-aha-hit-tile-3d.json) |
 | Aha Link Color: Cross | 101967 | [101967-aha-link-color-cross.json](./101967-aha-link-color-cross.json) |
@@ -1535,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air | 270385 | [270385-air.json](./270385-air.json) |
 | Air | 270403 | [270403-air.json](./270403-air.json) |
 | Air Attack 2 | 266740 | [266740-air-attack-2.json](./266740-air-attack-2.json) |
+| Air Attack 3D: Sky War | 223960 | [223960-air-attack-3d-sky-war.json](./223960-air-attack-3d-sky-war.json) |
 | Air Ball 2 | 146818 | [146818-air-ball-2.json](./146818-air-ball-2.json) |
 | Air Battle Chess | 197361 | [197361-air-battle-chess.json](./197361-air-battle-chess.json) |
 | AIR Battlefront | 117477 | [117477-air-battlefront.json](./117477-air-battlefront.json) |
@@ -1756,6 +1760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akairo Mansion: Horror Edition | 301979 | [301979-akairo-mansion-horror-edition.json](./301979-akairo-mansion-horror-edition.json) |
 | Akairo no Kaii | 244376 | [244376-akairo-no-kaii.json](./244376-akairo-no-kaii.json) |
 | Akairu: A Day Adventure! | 386709 | [386709-akairu-a-day-adventure.json](./386709-akairu-a-day-adventure.json) |
+| Akakuro | 223961 | [223961-akakuro.json](./223961-akakuro.json) |
 | Akane | 103484 | [103484-akane.json](./103484-akane.json) |
 | Akane Chan-bara | 204685 | [204685-akane-chan-bara.json](./204685-akane-chan-bara.json) |
 | Akane-iro ni Somaru Saka Parallels | 79590 | [79590-akane-iro-ni-somaru-saka-parallels.json](./79590-akane-iro-ni-somaru-saka-parallels.json) |
@@ -1899,6 +1904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ALC no 10-Punkan Eigo Master: Chuukyuu | 269545 | [269545-alc-no-10-punkan-eigo-master-chuukyuu.json](./269545-alc-no-10-punkan-eigo-master-chuukyuu.json) |
 | ALC no 10-Punkan Eigo Master: Joukyuu | 269546 | [269546-alc-no-10-punkan-eigo-master-joukyuu.json](./269546-alc-no-10-punkan-eigo-master-joukyuu.json) |
 | ALC no 10-punkan Eigo Master: Shokyuu | 269547 | [269547-alc-no-10-punkan-eigo-master-shokyuu.json](./269547-alc-no-10-punkan-eigo-master-shokyuu.json) |
+| Alcatraz | 223928 | [223928-alcatraz.json](./223928-alcatraz.json) |
 | Alcatraz | 288748 | [288748-alcatraz.json](./288748-alcatraz.json) |
 | Alcatraz: VR Escape Room | 29938 | [29938-alcatraz-vr-escape-room.json](./29938-alcatraz-vr-escape-room.json) |
 | Alcazar: The Forgotten Fortress | 12248 | [12248-alcazar-the-forgotten-fortress.json](./12248-alcazar-the-forgotten-fortress.json) |
@@ -2750,6 +2756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Facts World Culture True or False Quiz | 399608 | [399608-amazing-facts-world-culture-true-or-false-quiz.json](./399608-amazing-facts-world-culture-true-or-false-quiz.json) |
 | Amazing Facts: World Proverbs True or False Quiz | 401107 | [401107-amazing-facts-world-proverbs-true-or-false-quiz.json](./401107-amazing-facts-world-proverbs-true-or-false-quiz.json) |
 | Amazing Fix | 163815 | [163815-amazing-fix.json](./163815-amazing-fix.json) |
+| Amazing Frog : Poket Frogs | 223962 | [223962-amazing-frog-poket-frogs.json](./223962-amazing-frog-poket-frogs.json) |
 | Amazing Frog Simulator City | 86921 | [86921-amazing-frog-simulator-city.json](./86921-amazing-frog-simulator-city.json) |
 | Amazing Frog: In the City | 96058 | [96058-amazing-frog-in-the-city.json](./96058-amazing-frog-in-the-city.json) |
 | Amazing Gardens | 344366 | [344366-amazing-gardens.json](./344366-amazing-gardens.json) |
