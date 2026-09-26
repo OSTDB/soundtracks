@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savant: Ascent - Anniversary Edition | 245867 | [245867-savant-ascent-anniversary-edition.json](./245867-savant-ascent-anniversary-edition.json) |
 | Savant: Ascent Remix | 261364 | [261364-savant-ascent-remix.json](./261364-savant-ascent-remix.json) |
 | Save 2B Young Man | 367009 | [367009-save-2b-young-man.json](./367009-save-2b-young-man.json) |
+| Save and Conquer | 214442 | [214442-save-and-conquer.json](./214442-save-and-conquer.json) |
 | Save Christmas With Santa | 325010 | [325010-save-christmas-with-santa.json](./325010-save-christmas-with-santa.json) |
 | Save City R | 260399 | [260399-save-city-r.json](./260399-save-city-r.json) |
 | Save Da Frogs | 237047 | [237047-save-da-frogs.json](./237047-save-da-frogs.json) |
@@ -2635,6 +2636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow and Bone: Enter the Fold | 204448 | [204448-shadow-and-bone-enter-the-fold.json](./204448-shadow-and-bone-enter-the-fold.json) |
 | Shadow and Darkness | 301286 | [301286-shadow-and-darkness.json](./301286-shadow-and-darkness.json) |
 | Shadow and Flame | 319741 | [319741-shadow-and-flame.json](./319741-shadow-and-flame.json) |
+| Shadow Archer Special | 214452 | [214452-shadow-archer-special.json](./214452-shadow-archer-special.json) |
 | Shadow Arena | 125357 | [125357-shadow-arena.json](./125357-shadow-arena.json) |
 | Shadow Basketball | 145576 | [145576-shadow-basketball.json](./145576-shadow-basketball.json) |
 | Shadow Blade | 20932 | [20932-shadow-blade.json](./20932-shadow-blade.json) |
@@ -4195,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hunter Online | 3449 | [3449-silent-hunter-online.json](./3449-silent-hunter-online.json) |
 | Silent Hunter Patrol Disk #2 | 77311 | [77311-silent-hunter-patrol-disk-2.json](./77311-silent-hunter-patrol-disk-2.json) |
 | Silent Infinity | 202366 | [202366-silent-infinity.json](./202366-silent-infinity.json) |
+| Silent Mobius: Case - Titanic | 214432 | [214432-silent-mobius-case-titanic.json](./214432-silent-mobius-case-titanic.json) |
 | Silent Night | 110391 | [110391-silent-night.json](./110391-silent-night.json) |
 | Silent Night: A Christmas Delivery | 158667 | [158667-silent-night-a-christmas-delivery.json](./158667-silent-night-a-christmas-delivery.json) |
 | Silent Nightmares: A Christmas Story | 285511 | [285511-silent-nightmares-a-christmas-story.json](./285511-silent-nightmares-a-christmas-story.json) |
@@ -6258,6 +6261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner: Season 2 - Explore & Expand | 145486 | [145486-snowrunner-season-2-explore-and-expand.json](./145486-snowrunner-season-2-explore-and-expand.json) |
 | SnowRunner: Season 20 | 397684 | [397684-snowrunner-season-20.json](./397684-snowrunner-season-20.json) |
 | SnowRunner: Season 3 - Locate & Deliver | 145487 | [145487-snowrunner-season-3-locate-and-deliver.json](./145487-snowrunner-season-3-locate-and-deliver.json) |
+| SnowRunner: Tatra Dual Pack | 214469 | [214469-snowrunner-tatra-dual-pack.json](./214469-snowrunner-tatra-dual-pack.json) |
 | SnowRunner: Year 1 Pass + Year 2 Pass + Year 3 Pass + Year 4 Pass | 284962 | [284962-snowrunner-year-1-pass-year-2-pass-year-3-pass-year-4-pass.json](./284962-snowrunner-year-1-pass-year-2-pass-year-3-pass-year-4-pass.json) |
 | SnowRunner: Year 3 Pass | 230832 | [230832-snowrunner-year-3-pass.json](./230832-snowrunner-year-3-pass.json) |
 | SnowRunner: Year 4 Pass | 284961 | [284961-snowrunner-year-4-pass.json](./284961-snowrunner-year-4-pass.json) |
@@ -7805,6 +7809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Escape | 89978 | [89978-space-escape.json](./89978-space-escape.json) |
 | Space Escape Obstacles | 202960 | [202960-space-escape-obstacles.json](./202960-space-escape-obstacles.json) |
 | Space Expedition | 146100 | [146100-space-expedition.json](./146100-space-expedition.json) |
+| Space Explorers: Lunar Mission | 214477 | [214477-space-explorers-lunar-mission.json](./214477-space-explorers-lunar-mission.json) |
 | Space Extractor: Galactic Alien Insect Control Invasion | 284492 | [284492-space-extractor-galactic-alien-insect-control-invasion.json](./284492-space-extractor-galactic-alien-insect-control-invasion.json) |
 | Space Fantasy Zone | 42007 | [42007-space-fantasy-zone.json](./42007-space-fantasy-zone.json) |
 | Space Farmers 2 | 169870 | [169870-space-farmers-2.json](./169870-space-farmers-2.json) |
@@ -8065,6 +8070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Tail: Homecoming | 230820 | [230820-space-tail-homecoming.json](./230820-space-tail-homecoming.json) |
 | Space Takeover: Over City | 245340 | [245340-space-takeover-over-city.json](./245340-space-takeover-over-city.json) |
 | Space Tales | 259033 | [259033-space-tales.json](./259033-space-tales.json) |
+| Space Tanks | 214453 | [214453-space-tanks.json](./214453-space-tanks.json) |
 | Space Tek | 189057 | [189057-space-tek.json](./189057-space-tek.json) |
 | Space Theory | 203544 | [203544-space-theory.json](./203544-space-theory.json) |
 | Space Thinger | 34471 | [34471-space-thinger.json](./34471-space-thinger.json) |
@@ -8267,6 +8273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartaga | 51853 | [51853-spartaga.json](./51853-spartaga.json) |
 | Spartan Wars | 256253 | [256253-spartan-wars.json](./256253-spartan-wars.json) |
 | Spartan Wars: Blood and Fire | 323185 | [323185-spartan-wars-blood-and-fire.json](./323185-spartan-wars-blood-and-fire.json) |
+| Spartan X | 214467 | [214467-spartan-x.json](./214467-spartan-x.json) |
 | Spartan X | 214523 | [214523-spartan-x.json](./214523-spartan-x.json) |
 | Spartan X 2 | 48650 | [48650-spartan-x-2.json](./48650-spartan-x-2.json) |
 | Spartan's Spear | 273407 | [273407-spartans-spear.json](./273407-spartans-spear.json) |
@@ -14434,6 +14441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syndicate | 49 | [49-syndicate.json](./49-syndicate.json) |
 | Syndicate of Souls | 267642 | [267642-syndicate-of-souls.json](./267642-syndicate-of-souls.json) |
 | Syndicate Plus | 77198 | [77198-syndicate-plus.json](./77198-syndicate-plus.json) |
+| Syndicate Wars | 214456 | [214456-syndicate-wars.json](./214456-syndicate-wars.json) |
 | Syndicate: American Revolt | 50 | [50-syndicate-american-revolt.json](./50-syndicate-american-revolt.json) |
 | Syndrome: Extended Edition | 233005 | [233005-syndrome-extended-edition.json](./233005-syndrome-extended-edition.json) |
 | Synduality: Echo of Ada - Deluxe Edition | 317828 | [317828-synduality-echo-of-ada-deluxe-edition.json](./317828-synduality-echo-of-ada-deluxe-edition.json) |
