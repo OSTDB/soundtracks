@@ -688,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangoku Hime: Sangoku Ransei - Haruten no Saihai | 269522 | [269522-sangoku-hime-sangoku-ransei-haruten-no-saihai.json](./269522-sangoku-hime-sangoku-ransei-haruten-no-saihai.json) |
 | Sangoku Justice | 74402 | [74402-sangoku-justice.json](./74402-sangoku-justice.json) |
 | Sangoku Rensenki ~Omoidegaeshi~ CS Edition | 135856 | [135856-sangoku-rensenki-omoidegaeshi-cs-edition.json](./135856-sangoku-rensenki-omoidegaeshi-cs-edition.json) |
+| Sangoku Rensenki: Omoide Gaeshi + Gakuen Rensenki | 222246 | [222246-sangoku-rensenki-omoide-gaeshi-gakuen-rensenki.json](./222246-sangoku-rensenki-omoide-gaeshi-gakuen-rensenki.json) |
 | Sangoku Stories Ten | 222510 | [222510-sangoku-stories-ten.json](./222510-sangoku-stories-ten.json) |
 | Sangoku Xiangqi | 259096 | [259096-sangoku-xiangqi.json](./259096-sangoku-xiangqi.json) |
 | Sangokushi 11: Power Up Kit | 350410 | [350410-sangokushi-11-power-up-kit.json](./350410-sangokushi-11-power-up-kit.json) |
@@ -741,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sans Logique | 260179 | [260179-sans-logique.json](./260179-sans-logique.json) |
 | Sansara Naga 1 | 341472 | [341472-sansara-naga-1.json](./341472-sansara-naga-1.json) |
 | Sansara Naga 2 | 341473 | [341473-sansara-naga-2.json](./341473-sansara-naga-2.json) |
+| Sansuu Driller | 222245 | [222245-sansuu-driller.json](./222245-sansuu-driller.json) |
 | Santa and Present Chaos | 278992 | [278992-santa-and-present-chaos.json](./278992-santa-and-present-chaos.json) |
 | Santa Arrow Master - Bowmaster | 104690 | [104690-santa-arrow-master-bowmaster.json](./104690-santa-arrow-master-bowmaster.json) |
 | Santa Challenge | 130959 | [130959-santa-challenge.json](./130959-santa-challenge.json) |
@@ -3381,6 +3383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Pokemon: Green Version | 275105 | [275105-shin-pokemon-green-version.json](./275105-shin-pokemon-green-version.json) |
 | Shin Pokemon: Red Version | 275104 | [275104-shin-pokemon-red-version.json](./275104-shin-pokemon-red-version.json) |
 | Shin Super Robot Taisen | 43908 | [43908-shin-super-robot-taisen.json](./43908-shin-super-robot-taisen.json) |
+| Shin Tennis no Ouji-sama: Let's Go!! Daily Life from RisingBeat | 222249 | [222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json](./222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json) |
 | Shin-chan: Bundle | 324125 | [324125-shin-chan-bundle.json](./324125-shin-chan-bundle.json) |
 | Shin-chan: Shiro and the Coal Town | 266712 | [266712-shin-chan-shiro-and-the-coal-town.json](./266712-shin-chan-shiro-and-the-coal-town.json) |
 | Shinban Arishia no Panse | 415278 | [415278-shinban-arishia-no-panse.json](./415278-shinban-arishia-no-panse.json) |
@@ -4665,6 +4668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sisters of Sweetwater | 225091 | [225091-sisters-of-sweetwater.json](./225091-sisters-of-sweetwater.json) |
 | Sisters Possession 1 | 195120 | [195120-sisters-possession-1.json](./195120-sisters-possession-1.json) |
 | Sisters Royale: Five Stars Under Fire - Ode | 161756 | [161756-sisters-royale-five-stars-under-fire-ode.json](./161756-sisters-royale-five-stars-under-fire-ode.json) |
+| Sisters Runner | 222260 | [222260-sisters-runner.json](./222260-sisters-runner.json) |
 | Sisters Secrecy: Arcanum Bloodlines | 54360 | [54360-sisters-secrecy-arcanum-bloodlines.json](./54360-sisters-secrecy-arcanum-bloodlines.json) |
 | Sisters Secrecy: Arcanum Bloodlines - Collector's Edition | 54361 | [54361-sisters-secrecy-arcanum-bloodlines-collectors-edition.json](./54361-sisters-secrecy-arcanum-bloodlines-collectors-edition.json) |
 | Sisyphe's Backspace | 347270 | [347270-sisyphes-backspace.json](./347270-sisyphes-backspace.json) |
@@ -12870,6 +12874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World Widescreen | 165069 | [165069-super-mario-world-widescreen.json](./165069-super-mario-world-widescreen.json) |
 | Super Mario World: 2025 | 365286 | [365286-super-mario-world-2025.json](./365286-super-mario-world-2025.json) |
 | Super Mario World: A Haunted Christmas | 223023 | [223023-super-mario-world-a-haunted-christmas.json](./223023-super-mario-world-a-haunted-christmas.json) |
+| Super Mario World: Bowser's Return | 222278 | [222278-super-mario-world-bowsers-return.json](./222278-super-mario-world-bowsers-return.json) |
 | Super Mario World: Mario to Yoshi no Bouken Land | 230281 | [230281-super-mario-world-mario-to-yoshi-no-bouken-land.json](./230281-super-mario-world-mario-to-yoshi-no-bouken-land.json) |
 | Super Mario World: Return to Dinosaur Land | 42525 | [42525-super-mario-world-return-to-dinosaur-land.json](./42525-super-mario-world-return-to-dinosaur-land.json) |
 | Super Mario World: The Huge Adventure | 267968 | [267968-super-mario-world-the-huge-adventure.json](./267968-super-mario-world-the-huge-adventure.json) |
