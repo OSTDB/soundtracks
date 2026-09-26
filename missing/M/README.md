@@ -828,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahou no Shippo na | 69587 | [69587-mahou-no-shippo-na.json](./69587-mahou-no-shippo-na.json) |
 | Mahou no Tenshi Creamy Mami: Futatsu no Sekai no Monogatari | 131375 | [131375-mahou-no-tenshi-creamy-mami-futatsu-no-sekai-no-monogatari.json](./131375-mahou-no-tenshi-creamy-mami-futatsu-no-sekai-no-monogatari.json) |
 | Mahou Shoujo Pretty Sammy: Osorubeshi Shintai Sokutei! Kakubakuhatsu 5 Byou Mae!! | 61329 | [61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json](./61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json) |
+| Mahou Show-Jo | 185426 | [185426-mahou-show-jo.json](./185426-mahou-show-jo.json) |
 | Mahou Tsukai Kurohime | 108956 | [108956-mahou-tsukai-kurohime.json](./108956-mahou-tsukai-kurohime.json) |
 | MahouSho* | 391711 | [391711-mahousho.json](./391711-mahousho.json) |
 | Mahoutsukai ni Naru Houhou | 97338 | [97338-mahoutsukai-ni-naru-houhou.json](./97338-mahoutsukai-ni-naru-houhou.json) |
@@ -840,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mai-Hime: Unmei no Keitouju | 79258 | [79258-mai-hime-unmei-no-keitouju.json](./79258-mai-hime-unmei-no-keitouju.json) |
 | Mai-Otome: Otome Butou Shi | 72650 | [72650-mai-otome-otome-butou-shi.json](./72650-mai-otome-otome-butou-shi.json) |
 | Maia | 188641 | [188641-maia.json](./188641-maia.json) |
+| Maia and the Cool Kids | 185432 | [185432-maia-and-the-cool-kids.json](./185432-maia-and-the-cool-kids.json) |
 | Maid Cafe | 265435 | [265435-maid-cafe.json](./265435-maid-cafe.json) |
 | Maid Cafe Coop | 381636 | [381636-maid-cafe-coop.json](./381636-maid-cafe-coop.json) |
 | Maid Cafe on Electric Street | 302952 | [302952-maid-cafe-on-electric-street.json](./302952-maid-cafe-on-electric-street.json) |
@@ -1828,6 +1830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marshmallow Marvin: Greenwood | 334287 | [334287-marshmallow-marvin-greenwood.json](./334287-marshmallow-marvin-greenwood.json) |
 | Marshmallow Marvin: Templestone | 336928 | [336928-marshmallow-marvin-templestone.json](./336928-marshmallow-marvin-templestone.json) |
 | Marshmallow Melee | 67600 | [67600-marshmallow-melee.json](./67600-marshmallow-melee.json) |
+| Marshmallow Penguins VR | 185433 | [185433-marshmallow-penguins-vr.json](./185433-marshmallow-penguins-vr.json) |
 | Marshmellow Day Spa | 114153 | [114153-marshmellow-day-spa.json](./114153-marshmellow-day-spa.json) |
 | Marsi's Adventures | 228375 | [228375-marsis-adventures.json](./228375-marsis-adventures.json) |
 | Marsport | 45327 | [45327-marsport.json](./45327-marsport.json) |
@@ -6629,6 +6632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Pale | 404436 | [404436-moonlight-pale.json](./404436-moonlight-pale.json) |
 | Moonlight Princess | 145566 | [145566-moonlight-princess.json](./145566-moonlight-princess.json) |
 | Moonlight Rabbits | 302366 | [302366-moonlight-rabbits.json](./302366-moonlight-rabbits.json) |
+| Moonlight Sonata | 185447 | [185447-moonlight-sonata.json](./185447-moonlight-sonata.json) |
 | Moonlight Syndrome | 65450 | [65450-moonlight-syndrome.json](./65450-moonlight-syndrome.json) |
 | Moonlight Walks | 51178 | [51178-moonlight-walks.json](./51178-moonlight-walks.json) |
 | Moonlight Warrior | 117107 | [117107-moonlight-warrior.json](./117107-moonlight-warrior.json) |
@@ -7741,6 +7745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muse Dash: Muse Plus | 356177 | [356177-muse-dash-muse-plus.json](./356177-muse-dash-muse-plus.json) |
 | Museca | 57107 | [57107-museca.json](./57107-museca.json) |
 | Museful | 398543 | [398543-museful.json](./398543-museful.json) |
+| Museum | 185437 | [185437-museum.json](./185437-museum.json) |
 | Museum of Extravagance | 169860 | [169860-museum-of-extravagance.json](./169860-museum-of-extravagance.json) |
 | Museum of Immersive Art | 341345 | [341345-museum-of-immersive-art.json](./341345-museum-of-immersive-art.json) |
 | Museum of Mechanics: Lockpicking | 139214 | [139214-museum-of-mechanics-lockpicking.json](./139214-museum-of-mechanics-lockpicking.json) |
