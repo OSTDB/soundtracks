@@ -2773,6 +2773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of The Forerunner | 379567 | [379567-shadow-of-the-forerunner.json](./379567-shadow-of-the-forerunner.json) |
 | Shadow of The Forgotten | 336006 | [336006-shadow-of-the-forgotten.json](./336006-shadow-of-the-forgotten.json) |
 | Shadow of the Game | 54355 | [54355-shadow-of-the-game.json](./54355-shadow-of-the-game.json) |
+| Shadow of the Guild | 188902 | [188902-shadow-of-the-guild.json](./188902-shadow-of-the-guild.json) |
 | Shadow of the Moonlight | 384232 | [384232-shadow-of-the-moonlight.json](./384232-shadow-of-the-moonlight.json) |
 | Shadow of the Night: Monsters | 256339 | [256339-shadow-of-the-night-monsters.json](./256339-shadow-of-the-night-monsters.json) |
 | Shadow of the Ninja | 9154 | [9154-shadow-of-the-ninja.json](./9154-shadow-of-the-ninja.json) |
@@ -5464,6 +5465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slidercrash | 251656 | [251656-slidercrash.json](./251656-slidercrash.json) |
 | SlideRow | 120355 | [120355-sliderow.json](./120355-sliderow.json) |
 | Sliders | 80517 | [80517-sliders.json](./80517-sliders.json) |
+| Slidetracked | 188952 | [188952-slidetracked.json](./188952-slidetracked.json) |
 | SlideWords | 88207 | [88207-slidewords.json](./88207-slidewords.json) |
 | Slidey Feet | 243635 | [243635-slidey-feet.json](./243635-slidey-feet.json) |
 | Sliding Puzzle 2018 | 104645 | [104645-sliding-puzzle-2018.json](./104645-sliding-puzzle-2018.json) |
@@ -10634,6 +10636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel and Flesh | 174850 | [174850-steel-and-flesh.json](./174850-steel-and-flesh.json) |
 | Steel Artery: Train City Builder | 371311 | [371311-steel-artery-train-city-builder.json](./371311-steel-artery-train-city-builder.json) |
 | Steel Assault | 56668 | [56668-steel-assault.json](./56668-steel-assault.json) |
+| Steel Ball Race | 188947 | [188947-steel-ball-race.json](./188947-steel-ball-race.json) |
 | Steel Battalion: Heavy Armor | 8547 | [8547-steel-battalion-heavy-armor.json](./8547-steel-battalion-heavy-armor.json) |
 | Steel Chronicle VicTroopers | 372133 | [372133-steel-chronicle-victroopers.json](./372133-steel-chronicle-victroopers.json) |
 | Steel Civilizations | 176373 | [176373-steel-civilizations.json](./176373-steel-civilizations.json) |
