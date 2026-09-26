@@ -1773,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars 2055 | 208437 | [208437-mars-2055.json](./208437-mars-2055.json) |
 | Mars Assault: 3D Shooter | 294849 | [294849-mars-assault-3d-shooter.json](./294849-mars-assault-3d-shooter.json) |
 | Mars Attracts | 314419 | [314419-mars-attracts.json](./314419-mars-attracts.json) |
+| Mars Base | 194273 | [194273-mars-base.json](./194273-mars-base.json) |
 | Mars Base Alley | 390237 | [390237-mars-base-alley.json](./390237-mars-base-alley.json) |
 | Mars Base Excavation Incident | 271746 | [271746-mars-base-excavation-incident.json](./271746-mars-base-excavation-incident.json) |
 | Mars Chaos Madness | 111452 | [111452-mars-chaos-madness.json](./111452-mars-chaos-madness.json) |
@@ -4420,6 +4421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Club 3: DUB Edition Remix | 22583 | [22583-midnight-club-3-dub-edition-remix.json](./22583-midnight-club-3-dub-edition-remix.json) |
 | Midnight Club L.A. Remix | 42857 | [42857-midnight-club-l-a-remix.json](./42857-midnight-club-l-a-remix.json) |
 | Midnight Club: Los Angeles - Complete Edition | 44581 | [44581-midnight-club-los-angeles-complete-edition.json](./44581-midnight-club-los-angeles-complete-edition.json) |
+| Midnight Club: Street Racing | 194265 | [194265-midnight-club-street-racing.json](./194265-midnight-club-street-racing.json) |
 | Midnight Collection | 309078 | [309078-midnight-collection.json](./309078-midnight-collection.json) |
 | Midnight Commander | 91963 | [91963-midnight-commander.json](./91963-midnight-commander.json) |
 | Midnight Crimes | 304142 | [304142-midnight-crimes.json](./304142-midnight-crimes.json) |
@@ -7609,6 +7611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder at Masquerade Manor | 223682 | [223682-murder-at-masquerade-manor.json](./223682-murder-at-masquerade-manor.json) |
 | Murder at Midnight | 146697 | [146697-murder-at-midnight.json](./146697-murder-at-midnight.json) |
 | Murder at the Birch Tree Theater | 296477 | [296477-murder-at-the-birch-tree-theater.json](./296477-murder-at-the-birch-tree-theater.json) |
+| Murder at the Cat Show | 194317 | [194317-murder-at-the-cat-show.json](./194317-murder-at-the-cat-show.json) |
 | Murder at the Disco | 271792 | [271792-murder-at-the-disco.json](./271792-murder-at-the-disco.json) |
 | Murder Avenue | 292531 | [292531-murder-avenue.json](./292531-murder-avenue.json) |
 | Murder by Candlelight | 305369 | [305369-murder-by-candlelight.json](./305369-murder-by-candlelight.json) |
@@ -8462,6 +8465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MyPopgoes: New and Improved! | 327307 | [327307-mypopgoes-new-and-improved.json](./327307-mypopgoes-new-and-improved.json) |
 | Mýrdalssandur, Iceland | 130176 | [130176-myrdalssandur-iceland.json](./130176-myrdalssandur-iceland.json) |
 | Myrddin | 174361 | [174361-myrddin.json](./174361-myrddin.json) |
+| Myriad | 194299 | [194299-myriad.json](./194299-myriad.json) |
 | Myriad Mayhem | 258208 | [258208-myriad-mayhem.json](./258208-myriad-mayhem.json) |
 | Myriad Realms | 406296 | [406296-myriad-realms.json](./406296-myriad-realms.json) |
 | Myrm Emblem | 279784 | [279784-myrm-emblem.json](./279784-myrm-emblem.json) |
