@@ -730,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idling Gears | 237081 | [237081-idling-gears.json](./237081-idling-gears.json) |
 | Idly God | 209637 | [209637-idly-god.json](./209637-idly-god.json) |
 | Idol Connect -AsteriskLive- | 56164 | [56164-idol-connect-asterisklive.json](./56164-idol-connect-asterisklive.json) |
+| Idol Days Sim Date | 198242 | [198242-idol-days-sim-date.json](./198242-idol-days-sim-date.json) |
 | Idol Hakken-den | 7905 | [7905-idol-hakken-den.json](./7905-idol-hakken-den.json) |
 | Idol Hands | 195711 | [195711-idol-hands.json](./195711-idol-hands.json) |
 | Idol Hunter: Hentai | 211719 | [211719-idol-hunter-hentai.json](./211719-idol-hunter-hentai.json) |
