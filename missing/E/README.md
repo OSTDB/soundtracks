@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse: Special Forces | 345002 | [345002-eclipse-special-forces.json](./345002-eclipse-special-forces.json) |
 | Eclipsic | 341111 | [341111-eclipsic.json](./341111-eclipsic.json) |
 | Ecliptic | 337151 | [337151-ecliptic.json](./337151-ecliptic.json) |
+| Eco Breaker | 213896 | [213896-eco-breaker.json](./213896-eco-breaker.json) |
 | Eco City | 397760 | [397760-eco-city.json](./397760-eco-city.json) |
 | Eco Mahjong | 177049 | [177049-eco-mahjong.json](./177049-eco-mahjong.json) |
 | Eco Of The Wild Online | 287192 | [287192-eco-of-the-wild-online.json](./287192-eco-of-the-wild-online.json) |
@@ -1584,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enkai Buchou 2 | 293176 | [293176-enkai-buchou-2.json](./293176-enkai-buchou-2.json) |
 | Enkan no Memo-ria: Kakera Tomoshi | 135858 | [135858-enkan-no-memo-ria-kakera-tomoshi.json](./135858-enkan-no-memo-ria-kakera-tomoshi.json) |
 | Enkate | 297090 | [297090-enkate.json](./297090-enkate.json) |
+| Enkeltbillet | 213890 | [213890-enkeltbillet.json](./213890-enkeltbillet.json) |
 | Enlightened | 249883 | [249883-enlightened.json](./249883-enlightened.json) |
 | Enlightened Sentinel | 155667 | [155667-enlightened-sentinel.json](./155667-enlightened-sentinel.json) |
 | Enlightenment | 43155 | [43155-enlightenment.json](./43155-enlightenment.json) |
