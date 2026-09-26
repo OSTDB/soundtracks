@@ -3830,6 +3830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hontou no Negaigoto | 413744 | [413744-hontou-no-negaigoto.json](./413744-hontou-no-negaigoto.json) |
 | Honu | 369079 | [369079-honu.json](./369079-honu.json) |
 | Honyarara Magic | 98446 | [98446-honyarara-magic.json](./98446-honyarara-magic.json) |
+| Hood Story: Kaito Yamazaki | 216717 | [216717-hood-story-kaito-yamazaki.json](./216717-hood-story-kaito-yamazaki.json) |
 | Hoodies Squad: Alcoholypse | 298115 | [298115-hoodies-squad-alcoholypse.json](./298115-hoodies-squad-alcoholypse.json) |
 | Hoodoo Voodoo | 13879 | [13879-hoodoo-voodoo.json](./13879-hoodoo-voodoo.json) |
 | Hoodsters | 259536 | [259536-hoodsters.json](./259536-hoodsters.json) |
