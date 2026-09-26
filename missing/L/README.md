@@ -1017,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Heroes: Three Kingdoms | 333603 | [333603-legend-of-heroes-three-kingdoms.json](./333603-legend-of-heroes-three-kingdoms.json) |
 | Legend of Hiraq | 348450 | [348450-legend-of-hiraq.json](./348450-legend-of-hiraq.json) |
 | Legend of Kay | 3219 | [3219-legend-of-kay.json](./3219-legend-of-kay.json) |
+| Legend of Keepers Collection | 222226 | [222226-legend-of-keepers-collection.json](./222226-legend-of-keepers-collection.json) |
 | Legend of Keepers: Feed the Troll | 188528 | [188528-legend-of-keepers-feed-the-troll.json](./188528-legend-of-keepers-feed-the-troll.json) |
 | Legend of Kingdoms | 224020 | [224020-legend-of-kingdoms.json](./224020-legend-of-kingdoms.json) |
 | Legend of Kunoichi | 59368 | [59368-legend-of-kunoichi.json](./59368-legend-of-kunoichi.json) |
@@ -1421,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let It Die: Uncle Prime Edition | 166240 | [166240-let-it-die-uncle-prime-edition.json](./166240-let-it-die-uncle-prime-edition.json) |
 | Let It Flow | 144279 | [144279-let-it-flow.json](./144279-let-it-flow.json) |
 | Let It Ride! | 392938 | [392938-let-it-ride.json](./392938-let-it-ride.json) |
+| Let It Roll | 222244 | [222244-let-it-roll.json](./222244-let-it-roll.json) |
 | Let Me Die inside | 166599 | [166599-let-me-die-inside.json](./166599-let-me-die-inside.json) |
 | Let me go | 120336 | [120336-let-me-go.json](./120336-let-me-go.json) |
 | Let Me In | 342726 | [342726-let-me-in.json](./342726-let-me-in.json) |
@@ -1481,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Park: Backyard Edition | 214185 | [214185-lets-park-backyard-edition.json](./214185-lets-park-backyard-edition.json) |
 | Let's Play Cards Baccarat | 340915 | [340915-lets-play-cards-baccarat.json](./340915-lets-play-cards-baccarat.json) |
 | Let's Play Cards Solitaire | 367603 | [367603-lets-play-cards-solitaire.json](./367603-lets-play-cards-solitaire.json) |
+| Let's Play Duema! | 222270 | [222270-lets-play-duema.json](./222270-lets-play-duema.json) |
 | Let's Play Jigsaw Puzzles: A Journey Across Continents | 263210 | [263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json](./263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json) |
 | Let's Play Jigsaw Puzzles: At the Zoo | 239738 | [239738-lets-play-jigsaw-puzzles-at-the-zoo.json](./239738-lets-play-jigsaw-puzzles-at-the-zoo.json) |
 | Let's Play Jigsaw Puzzles: Birds | 240775 | [240775-lets-play-jigsaw-puzzles-birds.json](./240775-lets-play-jigsaw-puzzles-birds.json) |
