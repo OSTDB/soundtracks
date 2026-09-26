@@ -1072,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RDS: The Official Drift Videogame - Russian Cars Pack | 226979 | [226979-rds-the-official-drift-videogame-russian-cars-pack.json](./226979-rds-the-official-drift-videogame-russian-cars-pack.json) |
 | Re Angel | 74759 | [74759-re-angel.json](./74759-re-angel.json) |
 | Re Cation: Melty Healing | 391077 | [391077-re-cation-melty-healing.json](./391077-re-cation-melty-healing.json) |
+| Re Chii Suutaroka?: Mezameta Toki ga Shinu Toki da! | 196602 | [196602-re-chii-suutaroka-mezameta-toki-ga-shinu-toki-da.json](./196602-re-chii-suutaroka-mezameta-toki-ga-shinu-toki-da.json) |
 | Re into Another World | 291748 | [291748-re-into-another-world.json](./291748-re-into-another-world.json) |
 | Re Parry | 179160 | [179160-re-parry.json](./179160-re-parry.json) |
 | Re Rive | 202323 | [202323-re-rive.json](./202323-re-rive.json) |
@@ -1112,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Dreamer | 213911 | [213911-re-dreamer.json](./213911-re-dreamer.json) |
 | Re:Fragment - Absolute Ambition | 319008 | [319008-re-fragment-absolute-ambition.json](./319008-re-fragment-absolute-ambition.json) |
 | Re:Fresh | 239086 | [239086-re-fresh.json](./239086-re-fresh.json) |
+| Re:Infinite | 196587 | [196587-re-infinite.json](./196587-re-infinite.json) |
 | Re:Kuroi | 151725 | [151725-re-kuroi.json](./151725-re-kuroi.json) |
 | Re:leap-future City and Futureless | 346572 | [346572-re-leap-future-city-and-futureless.json](./346572-re-leap-future-city-and-futureless.json) |
 | Re:Legend | 51535 | [51535-re-legend.json](./51535-re-legend.json) |
@@ -2140,6 +2142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rengoku II: The Stairway to H.E.A.V.E.N. | 24185 | [24185-rengoku-ii-the-stairway-to-h-e-a-v-e-n.json](./24185-rengoku-ii-the-stairway-to-h-e-a-v-e-n.json) |
 | Renny Blaster | 42008 | [42008-renny-blaster.json](./42008-renny-blaster.json) |
 | Renowned Explorers: Definitive Edition | 124777 | [124777-renowned-explorers-definitive-edition.json](./124777-renowned-explorers-definitive-edition.json) |
+| Renshin no Astral | 196601 | [196601-renshin-no-astral.json](./196601-renshin-no-astral.json) |
 | Rent a Girl | 350491 | [350491-rent-a-girl.json](./350491-rent-a-girl.json) |
 | Rent a Girlfriend: The Horizon Line and Her in a Swimsuit | 323726 | [323726-rent-a-girlfriend-the-horizon-line-and-her-in-a-swimsuit.json](./323726-rent-a-girlfriend-the-horizon-line-and-her-in-a-swimsuit.json) |
 | Rent Please!: Landlord Sim | 247214 | [247214-rent-please-landlord-sim.json](./247214-rent-please-landlord-sim.json) |
