@@ -4096,6 +4096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close to Light | 380114 | [380114-close-to-light.json](./380114-close-to-light.json) |
 | Close to the Sun | 55027 | [55027-close-to-the-sun.json](./55027-close-to-the-sun.json) |
 | Close to You | 217874 | [217874-close-to-you.json](./217874-close-to-you.json) |
+| Close to: Inori no Oka | 196027 | [196027-close-to-inori-no-oka.json](./196027-close-to-inori-no-oka.json) |
 | CloseCall | 155991 | [155991-closecall.json](./155991-closecall.json) |
 | Closed Circuit | 254175 | [254175-closed-circuit.json](./254175-closed-circuit.json) |
 | Closed Faith | 317366 | [317366-closed-faith.json](./317366-closed-faith.json) |
@@ -4561,6 +4562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Craze | 210863 | [210863-college-craze.json](./210863-college-craze.json) |
 | College Football Revamped | 150058 | [150058-college-football-revamped.json](./150058-college-football-revamped.json) |
 | College Hoops 2K6 | 5782 | [5782-college-hoops-2k6.json](./5782-college-hoops-2k6.json) |
+| College Kings 2: Episode 1 | 196041 | [196041-college-kings-2-episode-1.json](./196041-college-kings-2-episode-1.json) |
 | College Kings 2: Episode 2 "The Pool Party" Reworked | 354495 | [354495-college-kings-2-episode-2-the-pool-party-reworked.json](./354495-college-kings-2-episode-2-the-pool-party-reworked.json) |
 | College Kings 2: Episode 3 "Back To Basics" | 354498 | [354498-college-kings-2-episode-3-back-to-basics.json](./354498-college-kings-2-episode-3-back-to-basics.json) |
 | College Kings 2: Episodes 4 & 5 "Moving Out" | 284908 | [284908-college-kings-2-episodes-4-and-5-moving-out.json](./284908-college-kings-2-episodes-4-and-5-moving-out.json) |
@@ -6054,6 +6056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countryballs At War | 300427 | [300427-countryballs-at-war.json](./300427-countryballs-at-war.json) |
 | Countryballs: Power Protocol | 349473 | [349473-countryballs-power-protocol.json](./349473-countryballs-power-protocol.json) |
 | Countryballs: The Heist | 302945 | [302945-countryballs-the-heist.json](./302945-countryballs-the-heist.json) |
+| CountryCide | 196008 | [196008-countrycide.json](./196008-countrycide.json) |
 | Countryside Bears | 43502 | [43502-countryside-bears.json](./43502-countryside-bears.json) |
 | Countryside Farm Clues | 402930 | [402930-countryside-farm-clues.json](./402930-countryside-farm-clues.json) |
 | Countup | 358882 | [358882-countup.json](./358882-countup.json) |
