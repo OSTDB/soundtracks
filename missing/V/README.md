@@ -905,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Village | 88823 | [88823-viking-village.json](./88823-viking-village.json) |
 | Viking: Sigurd's Adventure | 115000 | [115000-viking-sigurds-adventure.json](./115000-viking-sigurds-adventure.json) |
 | Viking's Drakkars | 95235 | [95235-vikings-drakkars.json](./95235-vikings-drakkars.json) |
+| Vikingard | 175700 | [175700-vikingard.json](./175700-vikingard.json) |
 | Vikings Dynasty | 343265 | [343265-vikings-dynasty.json](./343265-vikings-dynasty.json) |
 | Vikings Hnefatafl: Kings of the Dark Age | 249712 | [249712-vikings-hnefatafl-kings-of-the-dark-age.json](./249712-vikings-hnefatafl-kings-of-the-dark-age.json) |
 | Vikings II | 147276 | [147276-vikings-ii.json](./147276-vikings-ii.json) |
