@@ -1452,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newman/Haas IndyCar featuring Nigel Mansell | 22841 | [22841-newman-haas-indycar-featuring-nigel-mansell.json](./22841-newman-haas-indycar-featuring-nigel-mansell.json) |
 | Newman/Haas Racing | 22842 | [22842-newman-haas-racing.json](./22842-newman-haas-racing.json) |
 | NewPark Simon XL | 101507 | [101507-newpark-simon-xl.json](./101507-newpark-simon-xl.json) |
+| News Reacts | 197127 | [197127-news-reacts.json](./197127-news-reacts.json) |
 | Newspaper Puzzle Challenge: Sudoku Edition | 210035 | [210035-newspaper-puzzle-challenge-sudoku-edition.json](./210035-newspaper-puzzle-challenge-sudoku-edition.json) |
 | Newsun | 324519 | [324519-newsun.json](./324519-newsun.json) |
 | Newton Going Home | 187388 | [187388-newton-going-home.json](./187388-newton-going-home.json) |
@@ -2835,6 +2836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Quite Dead | 414336 | [414336-not-quite-dead.json](./414336-not-quite-dead.json) |
 | Not So Middle Ages | 98775 | [98775-not-so-middle-ages.json](./98775-not-so-middle-ages.json) |
 | Not Sonic Flash | 330525 | [330525-not-sonic-flash.json](./330525-not-sonic-flash.json) |
+| Not Spooky: But Good Enough For Me | 197117 | [197117-not-spooky-but-good-enough-for-me.json](./197117-not-spooky-but-good-enough-for-me.json) |
 | Not the Hero | 241938 | [241938-not-the-hero.json](./241938-not-the-hero.json) |
 | Not the North Pole | 247612 | [247612-not-the-north-pole.json](./247612-not-the-north-pole.json) |
 | Not the Robots | 16723 | [16723-not-the-robots.json](./16723-not-the-robots.json) |
@@ -3146,6 +3148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NVIDIA VR Funhouse | 56867 | [56867-nvidia-vr-funhouse.json](./56867-nvidia-vr-funhouse.json) |
 | NY City Bank Manager 2018 | 96725 | [96725-ny-city-bank-manager-2018.json](./96725-ny-city-bank-manager-2018.json) |
 | Nya Nya Nya Girls | 111538 | [111538-nya-nya-nya-girls.json](./111538-nya-nya-nya-girls.json) |
+| Nyaaaanvy | 197111 | [197111-nyaaaanvy.json](./197111-nyaaaanvy.json) |
 | Nyakamon Adventures | 152159 | [152159-nyakamon-adventures.json](./152159-nyakamon-adventures.json) |
 | Nyakamon Runes | 294816 | [294816-nyakamon-runes.json](./294816-nyakamon-runes.json) |
 | Nyako: Restaurant Tycoon | 157178 | [157178-nyako-restaurant-tycoon.json](./157178-nyako-restaurant-tycoon.json) |
