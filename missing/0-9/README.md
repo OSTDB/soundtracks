@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 187 Ride or Die | 3978 | [3978-187-ride-or-die.json](./3978-187-ride-or-die.json) |
 | 1873 | 316846 | [316846-1873.json](./316846-1873.json) |
 | 1893: A World's Fair Mystery | 12374 | [12374-1893-a-worlds-fair-mystery.json](./12374-1893-a-worlds-fair-mystery.json) |
+| 18Korea | 192177 | [192177-18korea.json](./192177-18korea.json) |
 | 18th Airborne | 299485 | [299485-18th-airborne.json](./299485-18th-airborne.json) |
 | 18th Floor | 333761 | [333761-18th-floor.json](./333761-18th-floor.json) |
 | 19 Part One: Boot Camp | 41010 | [41010-19-part-one-boot-camp.json](./41010-19-part-one-boot-camp.json) |
@@ -636,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 24H Stories: The Cabin In The Forest | 308942 | [308942-24h-stories-the-cabin-in-the-forest.json](./308942-24h-stories-the-cabin-in-the-forest.json) |
 | 25 | 223926 | [223926-25.json](./223926-25.json) |
 | 25,000 Sudoku Puzzles | 125838 | [125838-25-000-sudoku-puzzles.json](./125838-25-000-sudoku-puzzles.json) |
+| 25°N 71°W | 192159 | [192159-25-n-71-w.json](./192159-25-n-71-w.json) |
 | 25°N 71°W Remastered | 279680 | [279680-25-n-71-w-remastered.json](./279680-25-n-71-w-remastered.json) |
 | 250-man-nin no Kanken Premium: Zenkyuu Zen-Kanji Kanzen Seiha | 342835 | [342835-250-man-nin-no-kanken-premium-zenkyuu-zen-kanji-kanzen-seiha.json](./342835-250-man-nin-no-kanken-premium-zenkyuu-zen-kanji-kanzen-seiha.json) |
 | 256 cosas en común entre una cama, un libro y una cerveza | 331972 | [331972-256-cosas-en-comun-entre-una-cama-un-libro-y-una-cerveza.json](./331972-256-cosas-en-comun-entre-una-cama-un-libro-y-una-cerveza.json) |
