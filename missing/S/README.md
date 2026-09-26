@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samba de Amigo | 70087 | [70087-samba-de-amigo.json](./70087-samba-de-amigo.json) |
 | Samba de Amigo: Party-To-Go | 264096 | [264096-samba-de-amigo-party-to-go.json](./264096-samba-de-amigo-party-to-go.json) |
 | Samba de Amigo: Virtual Party | 251561 | [251561-samba-de-amigo-virtual-party.json](./251561-samba-de-amigo-virtual-party.json) |
+| Sambaquis: A Story before Brazil | 216192 | [216192-sambaquis-a-story-before-brazil.json](./216192-sambaquis-a-story-before-brazil.json) |
 | Same | 64423 | [64423-same.json](./64423-same.json) |
 | Same Game for Windows | 80229 | [80229-same-game-for-windows.json](./80229-same-game-for-windows.json) |
 | Same Room Same Day | 316610 | [316610-same-room-same-day.json](./316610-same-room-same-day.json) |
@@ -1962,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seekers Aeterna | 217339 | [217339-seekers-aeterna.json](./217339-seekers-aeterna.json) |
 | Seekers of Eclipse | 278697 | [278697-seekers-of-eclipse.json](./278697-seekers-of-eclipse.json) |
 | Seeking Adventure | 331970 | [331970-seeking-adventure.json](./331970-seeking-adventure.json) |
+| Seeking Asylum: Revelations | 216205 | [216205-seeking-asylum-revelations.json](./216205-seeking-asylum-revelations.json) |
 | Seeking Asylum: The Game | 390522 | [390522-seeking-asylum-the-game.json](./390522-seeking-asylum-the-game.json) |
 | Seeking Ataraxia | 59690 | [59690-seeking-ataraxia.json](./59690-seeking-ataraxia.json) |
 | Seeking Cat | 317396 | [317396-seeking-cat.json](./317396-seeking-cat.json) |
@@ -11694,6 +11696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Waifu | 127998 | [127998-succubus-waifu.json](./127998-succubus-waifu.json) |
 | Succubus War | 186830 | [186830-succubus-war.json](./186830-succubus-war.json) |
 | Succubus: Elysian Fields | 337829 | [337829-succubus-elysian-fields.json](./337829-succubus-elysian-fields.json) |
+| Succubus: Onoskelis | 216209 | [216209-succubus-onoskelis.json](./216209-succubus-onoskelis.json) |
 | Succubuses Love Creampie | 169424 | [169424-succubuses-love-creampie.json](./169424-succubuses-love-creampie.json) |
 | Succulent | 20252 | [20252-succulent.json](./20252-succulent.json) |
 | Succulent Studio | 400224 | [400224-succulent-studio.json](./400224-succulent-studio.json) |
@@ -14294,6 +14297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Smash | 244385 | [244385-sword-smash.json](./244385-sword-smash.json) |
 | Sword World PC | 240492 | [240492-sword-world-pc.json](./240492-sword-world-pc.json) |
 | Sword World SFC 2: Inishie no Kyojin Densetsu | 37801 | [37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json](./37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json) |
+| Sword: Depths of the Void | 216193 | [216193-sword-depths-of-the-void.json](./216193-sword-depths-of-the-void.json) |
 | Sword&Magic | 226153 | [226153-sword-and-magic.json](./226153-sword-and-magic.json) |
 | Swordash | 259564 | [259564-swordash.json](./259564-swordash.json) |
 | Swordbreaker: Back to the Castle | 113751 | [113751-swordbreaker-back-to-the-castle.json](./113751-swordbreaker-back-to-the-castle.json) |
