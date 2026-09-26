@@ -1392,6 +1392,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ending the Happy Route | 350045 | [350045-ending-the-happy-route.json](./350045-ending-the-happy-route.json) |
 | Ending Way | 189198 | [189198-ending-way.json](./189198-ending-way.json) |
 | Endings | 165668 | [165668-endings.json](./165668-endings.json) |
+| Endless Alice Crysis: Ai to Dokuyaku | 204988 | [204988-endless-alice-crysis-ai-to-dokuyaku.json](./204988-endless-alice-crysis-ai-to-dokuyaku.json) |
+| Endless Alice: Nana-iro Mahoutsukai Kiki Ippatsu! | 204986 | [204986-endless-alice-nana-iro-mahoutsukai-kiki-ippatsu.json](./204986-endless-alice-nana-iro-mahoutsukai-kiki-ippatsu.json) |
 | Endless Apocalypse | 249246 | [249246-endless-apocalypse.json](./249246-endless-apocalypse.json) |
 | Endless Ascent | 289423 | [289423-endless-ascent.json](./289423-endless-ascent.json) |
 | Endless Battle | 109664 | [109664-endless-battle.json](./109664-endless-battle.json) |
