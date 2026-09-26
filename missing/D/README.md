@@ -4566,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Man: Mission Impawsible | 316875 | [316875-dog-man-mission-impawsible.json](./316875-dog-man-mission-impawsible.json) |
 | Dog Mendonca | 175274 | [175274-dog-mendonca.json](./175274-dog-mendonca.json) |
 | Dog of Dracula 2: Cyber Monogatari | 228436 | [228436-dog-of-dracula-2-cyber-monogatari.json](./228436-dog-of-dracula-2-cyber-monogatari.json) |
+| Dog Petting Simulator | 182237 | [182237-dog-petting-simulator.json](./182237-dog-petting-simulator.json) |
 | Dog Plays in Space Bundle | 230824 | [230824-dog-plays-in-space-bundle.json](./230824-dog-plays-in-space-bundle.json) |
 | Dog Puzzle | 239773 | [239773-dog-puzzle.json](./239773-dog-puzzle.json) |
 | Dog Trainer | 132797 | [132797-dog-trainer.json](./132797-dog-trainer.json) |
@@ -5185,6 +5186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoomGals | 202836 | [202836-doomgals.json](./202836-doomgals.json) |
 | Doomies | 253972 | [253972-doomies.json](./253972-doomies.json) |
 | Doomkid's Mega! | 262998 | [262998-doomkids-mega.json](./262998-doomkids-mega.json) |
+| Doomori | 182208 | [182208-doomori.json](./182208-doomori.json) |
 | DOOMpad | 246907 | [246907-doompad.json](./246907-doompad.json) |
 | Doomriderz | 372451 | [372451-doomriderz.json](./372451-doomriderz.json) |
 | Dooms | 340999 | [340999-dooms.json](./340999-dooms.json) |
@@ -6181,6 +6183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadfold | 397901 | [397901-dreadfold.json](./397901-dreadfold.json) |
 | Dreadful Aurora | 297047 | [297047-dreadful-aurora.json](./297047-dreadful-aurora.json) |
 | Dreadful Bond | 116970 | [116970-dreadful-bond.json](./116970-dreadful-bond.json) |
+| Dreadful Tales: The Space Between - Collector's Edition | 182252 | [182252-dreadful-tales-the-space-between-collectors-edition.json](./182252-dreadful-tales-the-space-between-collectors-edition.json) |
 | Dreadful Wake | 192669 | [192669-dreadful-wake.json](./192669-dreadful-wake.json) |
 | Dreadhalls | 21561 | [21561-dreadhalls.json](./21561-dreadhalls.json) |
 | DreadHaunt | 205005 | [205005-dreadhaunt.json](./205005-dreadhaunt.json) |
