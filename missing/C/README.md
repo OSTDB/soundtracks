@@ -4566,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colonize | 157549 | [157549-colonize.json](./157549-colonize.json) |
 | Colonizer | 244468 | [244468-colonizer.json](./244468-colonizer.json) |
 | Colonus | 413051 | [413051-colonus.json](./413051-colonus.json) |
+| Colony | 211667 | [211667-colony.json](./211667-colony.json) |
 | Colony | 76645 | [76645-colony.json](./76645-colony.json) |
 | Colony 28 | 388929 | [388929-colony-28.json](./388929-colony-28.json) |
 | Colony 37 | 355554 | [355554-colony-37.json](./355554-colony-37.json) |
@@ -6019,6 +6020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countup | 358882 | [358882-countup.json](./358882-countup.json) |
 | County Courier | 295782 | [295782-county-courier.json](./295782-county-courier.json) |
 | County Fair | 59967 | [59967-county-fair.json](./59967-county-fair.json) |
+| County Hospital 2 | 211697 | [211697-county-hospital-2.json](./211697-county-hospital-2.json) |
 | County Hospital Outbreak | 405700 | [405700-county-hospital-outbreak.json](./405700-county-hospital-outbreak.json) |
 | County of Fortune | 327218 | [327218-county-of-fortune.json](./327218-county-of-fortune.json) |
 | CoupButat | 242568 | [242568-coupbutat.json](./242568-coupbutat.json) |
@@ -6275,6 +6277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cramgene | 92857 | [92857-cramgene.json](./92857-cramgene.json) |
 | Cramit's Keep | 186846 | [186846-cramits-keep.json](./186846-cramits-keep.json) |
 | Crane Game Simulator | 224747 | [224747-crane-game-simulator.json](./224747-crane-game-simulator.json) |
+| Crane Logistics Simulator | 211699 | [211699-crane-logistics-simulator.json](./211699-crane-logistics-simulator.json) |
 | Cranes | 99642 | [99642-cranes.json](./99642-cranes.json) |
 | Crank | 331113 | [331113-crank.json](./331113-crank.json) |
 | Crank & Watch: Octopus | 267964 | [267964-crank-and-watch-octopus.json](./267964-crank-and-watch-octopus.json) |
@@ -6598,6 +6601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Create: Above and Beyond | 331400 | [331400-create-above-and-beyond.json](./331400-create-above-and-beyond.json) |
 | CreateTech | 127359 | [127359-createtech.json](./127359-createtech.json) |
 | Creatio Ex Nihilo II: Deus Otiosus | 81762 | [81762-creatio-ex-nihilo-ii-deus-otiosus.json](./81762-creatio-ex-nihilo-ii-deus-otiosus.json) |
+| Creative Console | 211705 | [211705-creative-console.json](./211705-creative-console.json) |
 | Creative Kill Chamber | 235240 | [235240-creative-kill-chamber.json](./235240-creative-kill-chamber.json) |
 | Creative Kill Chamber 2 | 316092 | [316092-creative-kill-chamber-2.json](./316092-creative-kill-chamber-2.json) |
 | Creative Reader: The Jungle Book | 327870 | [327870-creative-reader-the-jungle-book.json](./327870-creative-reader-the-jungle-book.json) |
