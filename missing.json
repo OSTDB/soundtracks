@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T10:18:14.488Z",
-  "total_missing": 125276,
+  "generated_at": "2026-09-26T10:33:20.043Z",
+  "total_missing": 125326,
   "games": [
     {
       "igdb_id": 176875,
@@ -9868,6 +9868,11 @@
       "file": "missing/A/319802-achilles-survivor.json"
     },
     {
+      "igdb_id": 203807,
+      "game_name": "Achromatic",
+      "file": "missing/A/203807-achromatic.json"
+    },
+    {
       "igdb_id": 314993,
       "game_name": "Achtung Franz: Quest for Wine",
       "file": "missing/A/314993-achtung-franz-quest-for-wine.json"
@@ -12131,6 +12136,11 @@
       "igdb_id": 279068,
       "game_name": "After Fright",
       "file": "missing/A/279068-after-fright.json"
+    },
+    {
+      "igdb_id": 203836,
+      "game_name": "After He Was Gone",
+      "file": "missing/A/203836-after-he-was-gone.json"
     },
     {
       "igdb_id": 366912,
@@ -27513,6 +27523,11 @@
       "file": "missing/A/133784-arae-requiem-of-a-lonely-spirit.json"
     },
     {
+      "igdb_id": 203850,
+      "game_name": "Arafinn Kontor",
+      "file": "missing/A/203850-arafinn-kontor.json"
+    },
+    {
       "igdb_id": 18853,
       "game_name": "Aragami",
       "file": "missing/A/18853-aragami.json"
@@ -36851,6 +36866,11 @@
       "igdb_id": 204455,
       "game_name": "Atrapa la Bandera",
       "file": "missing/A/204455-atrapa-la-bandera.json"
+    },
+    {
+      "igdb_id": 203839,
+      "game_name": "Atria",
+      "file": "missing/A/203839-atria.json"
     },
     {
       "igdb_id": 159806,
@@ -128043,6 +128063,11 @@
       "file": "missing/D/35913-deja-vu-macventure-series.json"
     },
     {
+      "igdb_id": 203803,
+      "game_name": "Dejar Ir: A Pandemic Soulful Tale",
+      "file": "missing/D/203803-dejar-ir-a-pandemic-soulful-tale.json"
+    },
+    {
       "igdb_id": 299994,
       "game_name": "DejaVu by dropout.tv",
       "file": "missing/D/299994-dejavu-by-dropout-tv.json"
@@ -132646,6 +132671,11 @@
       "igdb_id": 109070,
       "game_name": "Di Gi Charat Fantasy",
       "file": "missing/D/109070-di-gi-charat-fantasy.json"
+    },
+    {
+      "igdb_id": 203830,
+      "game_name": "Di Gi Charat Fantasy Excellent",
+      "file": "missing/D/203830-di-gi-charat-fantasy-excellent.json"
     },
     {
       "igdb_id": 47956,
@@ -141618,6 +141648,11 @@
       "file": "missing/D/191268-donkey-kong-craze.json"
     },
     {
+      "igdb_id": 203817,
+      "game_name": "Donkey Kong Heardle",
+      "file": "missing/D/203817-donkey-kong-heardle.json"
+    },
+    {
       "igdb_id": 112423,
       "game_name": "Donkey Kong II",
       "file": "missing/D/112423-donkey-kong-ii.json"
@@ -144441,6 +144476,11 @@
       "igdb_id": 320989,
       "game_name": "Dr. Rabbit's Toothpaste Tower",
       "file": "missing/D/320989-dr-rabbits-toothpaste-tower.json"
+    },
+    {
+      "igdb_id": 203831,
+      "game_name": "Dr. Rin ni Kiitemite! Koi no Happy Four Season",
+      "file": "missing/D/203831-dr-rin-ni-kiitemite-koi-no-happy-four-season.json"
     },
     {
       "igdb_id": 65535,
@@ -152263,6 +152303,11 @@
       "file": "missing/D/200179-dungeon-legends-2.json"
     },
     {
+      "igdb_id": 203809,
+      "game_name": "Dungeon Liberator",
+      "file": "missing/D/203809-dungeon-liberator.json"
+    },
+    {
       "igdb_id": 142280,
       "game_name": "Dungeon Limbus",
       "file": "missing/D/142280-dungeon-limbus.json"
@@ -158201,6 +158246,11 @@
       "igdb_id": 188584,
       "game_name": "Elaborate Lands",
       "file": "missing/E/188584-elaborate-lands.json"
+    },
+    {
+      "igdb_id": 203825,
+      "game_name": "Élan",
+      "file": "missing/0-9/203825-elan.json"
     },
     {
       "igdb_id": 166161,
@@ -194208,6 +194258,11 @@
       "file": "missing/F/131544-freeway.json"
     },
     {
+      "igdb_id": 203837,
+      "game_name": "Freeway Fiasco",
+      "file": "missing/F/203837-freeway-fiasco.json"
+    },
+    {
       "igdb_id": 318188,
       "game_name": "Freeway Fury: Annihilation",
       "file": "missing/F/318188-freeway-fury-annihilation.json"
@@ -198653,6 +198708,11 @@
       "file": "missing/F/311582-futanari-sex-adventures-episode-2.json"
     },
     {
+      "igdb_id": 203847,
+      "game_name": "Futanari Sex: Naughty Massage",
+      "file": "missing/F/203847-futanari-sex-naughty-massage.json"
+    },
+    {
       "igdb_id": 368124,
       "game_name": "Futanari Sex: Naughty Visit",
       "file": "missing/F/368124-futanari-sex-naughty-visit.json"
@@ -198761,6 +198821,11 @@
       "igdb_id": 276783,
       "game_name": "FutSim",
       "file": "missing/F/276783-futsim.json"
+    },
+    {
+      "igdb_id": 203846,
+      "game_name": "Futsuma Shoujo Charlotte",
+      "file": "missing/F/203846-futsuma-shoujo-charlotte.json"
     },
     {
       "igdb_id": 170492,
@@ -213916,6 +213981,11 @@
       "igdb_id": 42592,
       "game_name": "Gourmet Warriors",
       "file": "missing/G/42592-gourmet-warriors.json"
+    },
+    {
+      "igdb_id": 203840,
+      "game_name": "GoVenture Entrepreneur",
+      "file": "missing/G/203840-goventure-entrepreneur.json"
     },
     {
       "igdb_id": 31865,
@@ -229816,6 +229886,11 @@
       "igdb_id": 277918,
       "game_name": "Hell Galaxy",
       "file": "missing/H/277918-hell-galaxy.json"
+    },
+    {
+      "igdb_id": 203842,
+      "game_name": "Hell Green Blue",
+      "file": "missing/H/203842-hell-green-blue.json"
     },
     {
       "igdb_id": 219826,
@@ -250753,6 +250828,11 @@
       "file": "missing/I/219268-idle-food-empire-tycoon.json"
     },
     {
+      "igdb_id": 203805,
+      "game_name": "Idle Galaxy",
+      "file": "missing/I/203805-idle-galaxy.json"
+    },
+    {
       "igdb_id": 233628,
       "game_name": "Idle Game Tycoon",
       "file": "missing/I/233628-idle-game-tycoon.json"
@@ -261451,6 +261531,16 @@
       "igdb_id": 228564,
       "game_name": "Itsudemo! Nyan to Wonderful",
       "file": "missing/I/228564-itsudemo-nyan-to-wonderful.json"
+    },
+    {
+      "igdb_id": 203819,
+      "game_name": "Itsuka, Kasanariau Ashita he: Sayuri-hen",
+      "file": "missing/I/203819-itsuka-kasanariau-ashita-he-sayuri-hen.json"
+    },
+    {
+      "igdb_id": 203822,
+      "game_name": "Itsuka, Kasanariau Ashita he: Shirou-hen",
+      "file": "missing/I/203822-itsuka-kasanariau-ashita-he-shirou-hen.json"
     },
     {
       "igdb_id": 372571,
@@ -277558,6 +277648,11 @@
       "file": "missing/K/395702-kirby-gamble-galaxy-stories-the-future.json"
     },
     {
+      "igdb_id": 203815,
+      "game_name": "Kirby Heardle",
+      "file": "missing/K/203815-kirby-heardle.json"
+    },
+    {
       "igdb_id": 198524,
       "game_name": "Kirby in Sonic the Hedgehog",
       "file": "missing/K/198524-kirby-in-sonic-the-hedgehog.json"
@@ -282708,6 +282803,11 @@
       "file": "missing/L/144364-l-o-c-k.json"
     },
     {
+      "igdb_id": 203810,
+      "game_name": "L.O.L. Surprise! B.B.s Born to Travel",
+      "file": "missing/L/203810-l-o-l-surprise-b-b-s-born-to-travel.json"
+    },
+    {
       "igdb_id": 220836,
       "game_name": "L.S.S II",
       "file": "missing/L/220836-l-s-s-ii.json"
@@ -282721,6 +282821,11 @@
       "igdb_id": 329060,
       "game_name": "L'Artisan Meurtrier",
       "file": "missing/L/329060-lartisan-meurtrier.json"
+    },
+    {
+      "igdb_id": 203841,
+      "game_name": "L'Avancée du Désert",
+      "file": "missing/L/203841-lavancee-du-desert.json"
     },
     {
       "igdb_id": 269633,
@@ -287796,6 +287901,11 @@
       "igdb_id": 51197,
       "game_name": "Legend of Mir 3",
       "file": "missing/L/51197-legend-of-mir-3.json"
+    },
+    {
+      "igdb_id": 203852,
+      "game_name": "Legend of Mortal",
+      "file": "missing/L/203852-legend-of-mortal.json"
     },
     {
       "igdb_id": 53268,
@@ -298103,6 +298213,11 @@
       "file": "missing/L/279014-lord-of-darkness-aftermath.json"
     },
     {
+      "igdb_id": 203845,
+      "game_name": "Lord of Darkness: Prologue",
+      "file": "missing/L/203845-lord-of-darkness-prologue.json"
+    },
+    {
       "igdb_id": 37384,
       "game_name": "Lord of Djinn",
       "file": "missing/L/37384-lord-of-djinn.json"
@@ -299443,6 +299558,11 @@
       "file": "missing/L/313293-lost-resolve.json"
     },
     {
+      "igdb_id": 203844,
+      "game_name": "Lost Retrograde",
+      "file": "missing/L/203844-lost-retrograde.json"
+    },
+    {
       "igdb_id": 336143,
       "game_name": "Lost Rift",
       "file": "missing/L/336143-lost-rift.json"
@@ -300706,6 +300826,11 @@
       "igdb_id": 364486,
       "game_name": "Lovely Magicals!",
       "file": "missing/L/364486-lovely-magicals.json"
+    },
+    {
+      "igdb_id": 203802,
+      "game_name": "Lovely Moments: Dad and Daughter",
+      "file": "missing/L/203802-lovely-moments-dad-and-daughter.json"
     },
     {
       "igdb_id": 245823,
@@ -305868,6 +305993,11 @@
       "file": "missing/M/410880-magic-war-legends.json"
     },
     {
+      "igdb_id": 203818,
+      "game_name": "Magic Wardrobe",
+      "file": "missing/M/203818-magic-wardrobe.json"
+    },
+    {
       "igdb_id": 254472,
       "game_name": "Magic Wars",
       "file": "missing/M/254472-magic-wars.json"
@@ -310453,6 +310583,16 @@
       "file": "missing/M/309118-mario-golf-world-tour-star-pack.json"
     },
     {
+      "igdb_id": 203820,
+      "game_name": "Mario Heardle",
+      "file": "missing/M/203820-mario-heardle.json"
+    },
+    {
+      "igdb_id": 203821,
+      "game_name": "Mario Heardle 2",
+      "file": "missing/M/203821-mario-heardle-2.json"
+    },
+    {
       "igdb_id": 275630,
       "game_name": "Mario in Japan",
       "file": "missing/M/275630-mario-in-japan.json"
@@ -311111,6 +311251,11 @@
       "igdb_id": 231602,
       "game_name": "Mario Party 7 Bon Voyage",
       "file": "missing/M/231602-mario-party-7-bon-voyage.json"
+    },
+    {
+      "igdb_id": 203828,
+      "game_name": "Mario Party Heardle",
+      "file": "missing/M/203828-mario-party-heardle.json"
     },
     {
       "igdb_id": 132044,
@@ -312681,6 +312826,16 @@
       "igdb_id": 205003,
       "game_name": "Marvel's Midnight Suns: Digital+ Edition",
       "file": "missing/M/205003-marvels-midnight-suns-digital-edition.json"
+    },
+    {
+      "igdb_id": 203808,
+      "game_name": "Marvel's Midnight Suns: Enhanced Edition",
+      "file": "missing/M/203808-marvels-midnight-suns-enhanced-edition.json"
+    },
+    {
+      "igdb_id": 203804,
+      "game_name": "Marvel's Midnight Suns: Legendary Edition",
+      "file": "missing/M/203804-marvels-midnight-suns-legendary-edition.json"
     },
     {
       "igdb_id": 239379,
@@ -315923,6 +316078,11 @@
       "file": "missing/M/128595-me-and-my-robot-friend.json"
     },
     {
+      "igdb_id": 203843,
+      "game_name": "Me Alone Reissue",
+      "file": "missing/M/203843-me-alone-reissue.json"
+    },
+    {
       "igdb_id": 124037,
       "game_name": "Me and My Shadow",
       "file": "missing/M/124037-me-and-my-shadow.json"
@@ -318261,6 +318421,11 @@
       "igdb_id": 208479,
       "game_name": "Mega Man Eternal",
       "file": "missing/M/208479-mega-man-eternal.json"
+    },
+    {
+      "igdb_id": 203816,
+      "game_name": "Mega Man Heardle",
+      "file": "missing/M/203816-mega-man-heardle.json"
     },
     {
       "igdb_id": 1734,
@@ -323126,6 +323291,11 @@
       "igdb_id": 313328,
       "game_name": "Metroid Fusion: C.L.E.A.N. Station",
       "file": "missing/M/313328-metroid-fusion-c-l-e-a-n-station.json"
+    },
+    {
+      "igdb_id": 203827,
+      "game_name": "Metroid Heardle",
+      "file": "missing/M/203827-metroid-heardle.json"
     },
     {
       "igdb_id": 173157,
@@ -336098,6 +336268,11 @@
       "file": "missing/M/271758-morbidity-2.json"
     },
     {
+      "igdb_id": 203829,
+      "game_name": "Morbius Heardle",
+      "file": "missing/M/203829-morbius-heardle.json"
+    },
+    {
       "igdb_id": 385050,
       "game_name": "Mordecai Saw Game",
       "file": "missing/M/385050-mordecai-saw-game.json"
@@ -347673,6 +347848,11 @@
       "file": "missing/N/412380-naron.json"
     },
     {
+      "igdb_id": 203824,
+      "game_name": "Naroth",
+      "file": "missing/N/203824-naroth.json"
+    },
+    {
       "igdb_id": 192293,
       "game_name": "Narrative Adventure",
       "file": "missing/N/192293-narrative-adventure.json"
@@ -353091,6 +353271,11 @@
       "igdb_id": 270968,
       "game_name": "New Roanoke",
       "file": "missing/N/270968-new-roanoke.json"
+    },
+    {
+      "igdb_id": 203853,
+      "game_name": "New Roots",
+      "file": "missing/N/203853-new-roots.json"
     },
     {
       "igdb_id": 234581,
@@ -377266,6 +377451,11 @@
       "igdb_id": 24154,
       "game_name": "Panzer General III: Scorched Earth",
       "file": "missing/P/24154-panzer-general-iii-scorched-earth.json"
+    },
+    {
+      "igdb_id": 203801,
+      "game_name": "Panzer Girls",
+      "file": "missing/P/203801-panzer-girls.json"
     },
     {
       "igdb_id": 99020,
@@ -425243,6 +425433,11 @@
       "file": "missing/R/245945-resourcer.json"
     },
     {
+      "igdb_id": 203851,
+      "game_name": "Respawn",
+      "file": "missing/R/203851-respawn.json"
+    },
+    {
       "igdb_id": 128585,
       "game_name": "Responding",
       "file": "missing/R/128585-responding.json"
@@ -426936,6 +427131,11 @@
       "igdb_id": 84199,
       "game_name": "Revive: C64 Classics",
       "file": "missing/R/84199-revive-c64-classics.json"
+    },
+    {
+      "igdb_id": 203806,
+      "game_name": "Revived Forest",
+      "file": "missing/R/203806-revived-forest.json"
     },
     {
       "igdb_id": 163912,
@@ -491353,6 +491553,11 @@
       "file": "missing/S/202825-starry-sky-after-summer-portable.json"
     },
     {
+      "igdb_id": 203813,
+      "game_name": "Starry Sky: After Winter Portable",
+      "file": "missing/S/203813-starry-sky-after-winter-portable.json"
+    },
+    {
       "igdb_id": 201302,
       "game_name": "Starry Sky: in Spring 3D",
       "file": "missing/S/201302-starry-sky-in-spring-3d.json"
@@ -491381,6 +491586,11 @@
       "igdb_id": 202827,
       "game_name": "Starry Sky: Summer Stories",
       "file": "missing/S/202827-starry-sky-summer-stories.json"
+    },
+    {
+      "igdb_id": 203814,
+      "game_name": "Starry Sky: Winter Stories",
+      "file": "missing/S/203814-starry-sky-winter-stories.json"
     },
     {
       "igdb_id": 302103,
@@ -491691,6 +491901,11 @@
       "igdb_id": 9529,
       "game_name": "Starsweep",
       "file": "missing/S/9529-starsweep.json"
+    },
+    {
+      "igdb_id": 203835,
+      "game_name": "Starswirl Academy",
+      "file": "missing/S/203835-starswirl-academy.json"
     },
     {
       "igdb_id": 272909,
@@ -504636,6 +504851,11 @@
       "igdb_id": 213948,
       "game_name": "Super Mario Gravity",
       "file": "missing/S/213948-super-mario-gravity.json"
+    },
+    {
+      "igdb_id": 203826,
+      "game_name": "Super Mario Heardle",
+      "file": "missing/S/203826-super-mario-heardle.json"
     },
     {
       "igdb_id": 318553,
@@ -561723,6 +561943,11 @@
       "file": "missing/T/339932-to-the-moon.json"
     },
     {
+      "igdb_id": 203832,
+      "game_name": "To the Moon and Beyond",
+      "file": "missing/T/203832-to-the-moon-and-beyond.json"
+    },
+    {
       "igdb_id": 332533,
       "game_name": "To the Moon: Sigmund Minisode 1 & 2 (Holiday Special)",
       "file": "missing/T/332533-to-the-moon-sigmund-minisode-1-and-2-holiday-special.json"
@@ -566313,6 +566538,11 @@
       "file": "missing/T/169324-touhou-blooming-chaos-2-chara-pack-special-mystia-lorelei.json"
     },
     {
+      "igdb_id": 203848,
+      "game_name": "Touhou Blooming Soul",
+      "file": "missing/T/203848-touhou-blooming-soul.json"
+    },
+    {
       "igdb_id": 111052,
       "game_name": "Touhou Cannonball",
       "file": "missing/T/111052-touhou-cannonball.json"
@@ -566401,6 +566631,11 @@
       "igdb_id": 289936,
       "game_name": "Touhou Eternal Spell Cards",
       "file": "missing/T/289936-touhou-eternal-spell-cards.json"
+    },
+    {
+      "igdb_id": 203849,
+      "game_name": "Touhou Fairy Knockout: One Fairy to Rule Them All",
+      "file": "missing/T/203849-touhou-fairy-knockout-one-fairy-to-rule-them-all.json"
     },
     {
       "igdb_id": 151683,
@@ -574421,6 +574656,11 @@
       "igdb_id": 318779,
       "game_name": "Triangle Strategy",
       "file": "missing/T/318779-triangle-strategy.json"
+    },
+    {
+      "igdb_id": 203811,
+      "game_name": "Triangle Strategy: Tacticians's Limited Edition",
+      "file": "missing/T/203811-triangle-strategy-tacticianss-limited-edition.json"
     },
     {
       "igdb_id": 133461,
@@ -600698,6 +600938,11 @@
       "file": "missing/W/33129-watch-this.json"
     },
     {
+      "igdb_id": 203838,
+      "game_name": "Watch Your Back",
+      "file": "missing/W/203838-watch-your-back.json"
+    },
+    {
       "igdb_id": 179119,
       "game_name": "Watch_Dogs 1985",
       "file": "missing/W/179119-watch-dogs-1985.json"
@@ -619096,6 +619341,11 @@
       "igdb_id": 307660,
       "game_name": "Yoshi Gone MFGG",
       "file": "missing/Y/307660-yoshi-gone-mfgg.json"
+    },
+    {
+      "igdb_id": 203823,
+      "game_name": "Yoshi Heardle",
+      "file": "missing/Y/203823-yoshi-heardle.json"
     },
     {
       "igdb_id": 136418,
