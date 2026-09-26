@@ -1689,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Snow | 287771 | [287771-red-snow.json](./287771-red-snow.json) |
 | Red Soil | 379372 | [379372-red-soil.json](./379372-red-soil.json) |
 | Red Solstice 2: Survivors - Condatis Group | 193437 | [193437-red-solstice-2-survivors-condatis-group.json](./193437-red-solstice-2-survivors-condatis-group.json) |
+| Red Solstice 2: Survivors - Howell-Barrex Inc. | 180024 | [180024-red-solstice-2-survivors-howell-barrex-inc.json](./180024-red-solstice-2-survivors-howell-barrex-inc.json) |
 | Red Solstice 2: Survivors - Insurgents | 201009 | [201009-red-solstice-2-survivors-insurgents.json](./201009-red-solstice-2-survivors-insurgents.json) |
 | Red Solstice 2: Survivors - Ultimate Edition | 329198 | [329198-red-solstice-2-survivors-ultimate-edition.json](./329198-red-solstice-2-survivors-ultimate-edition.json) |
 | Red Sparrow | 38998 | [38998-red-sparrow.json](./38998-red-sparrow.json) |
@@ -2509,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Pocket | 21005 | [21005-retro-pocket.json](./21005-retro-pocket.json) |
 | Retro Pocket Rocket | 208459 | [208459-retro-pocket-rocket.json](./208459-retro-pocket-rocket.json) |
 | Retro Racer | 148469 | [148469-retro-racer.json](./148469-retro-racer.json) |
+| Retro Racers | 180039 | [180039-retro-racers.json](./180039-retro-racers.json) |
 | Retro Racing 2 | 373614 | [373614-retro-racing-2.json](./373614-retro-racing-2.json) |
 | Retro Racing City | 116860 | [116860-retro-racing-city.json](./116860-retro-racing-city.json) |
 | Retro Raider | 58504 | [58504-retro-raider.json](./58504-retro-raider.json) |
@@ -2941,8 +2943,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddle of the Sphinx | 174286 | [174286-riddle-of-the-sphinx.json](./174286-riddle-of-the-sphinx.json) |
 | Riddle of the Sphinx: Moonlight Exploration | 169930 | [169930-riddle-of-the-sphinx-moonlight-exploration.json](./169930-riddle-of-the-sphinx-moonlight-exploration.json) |
 | Riddle School | 56438 | [56438-riddle-school.json](./56438-riddle-school.json) |
+| Riddle School 2: Legacy Edition | 180004 | [180004-riddle-school-2-legacy-edition.json](./180004-riddle-school-2-legacy-edition.json) |
+| Riddle School 3: Legacy Edition | 180006 | [180006-riddle-school-3-legacy-edition.json](./180006-riddle-school-3-legacy-edition.json) |
+| Riddle School 4: Legacy Edition | 180007 | [180007-riddle-school-4-legacy-edition.json](./180007-riddle-school-4-legacy-edition.json) |
 | Riddle School 5 | 180138 | [180138-riddle-school-5.json](./180138-riddle-school-5.json) |
 | Riddle School 5: Legacy Edition | 180139 | [180139-riddle-school-5-legacy-edition.json](./180139-riddle-school-5-legacy-edition.json) |
+| Riddle School: Legacy Edition | 180003 | [180003-riddle-school-legacy-edition.json](./180003-riddle-school-legacy-edition.json) |
 | Riddle Tower: Halloween DLC | 318433 | [318433-riddle-tower-halloween-dlc.json](./318433-riddle-tower-halloween-dlc.json) |
 | Riddle Transfer | 180140 | [180140-riddle-transfer.json](./180140-riddle-transfer.json) |
 | Riddle Transfer 2 | 180142 | [180142-riddle-transfer-2.json](./180142-riddle-transfer-2.json) |
