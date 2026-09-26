@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back 4 More | 338185 | [338185-back-4-more.json](./338185-back-4-more.json) |
 | Back Again | 192507 | [192507-back-again.json](./192507-back-again.json) |
 | Back Alley Chronicle: Episode Saeki | 397092 | [397092-back-alley-chronicle-episode-saeki.json](./397092-back-alley-chronicle-episode-saeki.json) |
+| Back Alley Inn | 188905 | [188905-back-alley-inn.json](./188905-back-alley-inn.json) |
 | Back at the Barnyard: Slop Bucket Games | 7994 | [7994-back-at-the-barnyard-slop-bucket-games.json](./7994-back-at-the-barnyard-slop-bucket-games.json) |
 | Back From Hell | 24877 | [24877-back-from-hell.json](./24877-back-from-hell.json) |
 | Back from the other world, I missed love | 337707 | [337707-back-from-the-other-world-i-missed-love.json](./337707-back-from-the-other-world-i-missed-love.json) |
@@ -1882,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bauer | 189133 | [189133-bauer.json](./189133-bauer.json) |
 | Bauhaus | 260788 | [260788-bauhaus.json](./260788-bauhaus.json) |
 | Baumaschinen: Die Simulation | 136378 | [136378-baumaschinen-die-simulation.json](./136378-baumaschinen-die-simulation.json) |
+| Bavity | 188919 | [188919-bavity.json](./188919-bavity.json) |
 | Baxter's Venture | 62677 | [62677-baxters-venture.json](./62677-baxters-venture.json) |
 | Baxter's Venture: Director's Cut | 34851 | [34851-baxters-venture-directors-cut.json](./34851-baxters-venture-directors-cut.json) |
 | Bay Bell | 218980 | [218980-bay-bell.json](./218980-bay-bell.json) |
@@ -4141,6 +4143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block In | 390148 | [390148-block-in.json](./390148-block-in.json) |
 | Block Jam: Cute Edition | 332516 | [332516-block-jam-cute-edition.json](./332516-block-jam-cute-edition.json) |
 | Block Kuzushi | 38269 | [38269-block-kuzushi.json](./38269-block-kuzushi.json) |
+| Block Line Engineer | 188944 | [188944-block-line-engineer.json](./188944-block-line-engineer.json) |
 | Block Magic Puzzle | 290466 | [290466-block-magic-puzzle.json](./290466-block-magic-puzzle.json) |
 | Block Man Adventures | 295557 | [295557-block-man-adventures.json](./295557-block-man-adventures.json) |
 | Block Master 3D Puzzle | 357976 | [357976-block-master-3d-puzzle.json](./357976-block-master-3d-puzzle.json) |
@@ -5050,6 +5053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bone Mayhem | 146877 | [146877-bone-mayhem.json](./146877-bone-mayhem.json) |
 | Bone Souls | 359038 | [359038-bone-souls.json](./359038-bone-souls.json) |
 | Bone Stuff | 407338 | [407338-bone-stuff.json](./407338-bone-stuff.json) |
+| Bone's Cafe | 188921 | [188921-bones-cafe.json](./188921-bones-cafe.json) |
 | Bonehold | 366910 | [366910-bonehold.json](./366910-bonehold.json) |
 | Bonelab | 198230 | [198230-bonelab.json](./198230-bonelab.json) |
 | Boneless VR | 302352 | [302352-boneless-vr.json](./302352-boneless-vr.json) |
@@ -5852,6 +5856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Survivor | 200570 | [200570-brave-survivor.json](./200570-brave-survivor.json) |
 | Brave survivors | 213489 | [213489-brave-survivors.json](./213489-brave-survivors.json) |
 | Brave Sword | 329395 | [329395-brave-sword.json](./329395-brave-sword.json) |
+| Brave Tales | 188953 | [188953-brave-tales.json](./188953-brave-tales.json) |
 | Brave Tank Hero | 210270 | [210270-brave-tank-hero.json](./210270-brave-tank-hero.json) |
 | Brave the Dungeon | 242224 | [242224-brave-the-dungeon.json](./242224-brave-the-dungeon.json) |
 | Brave: The Search for Spirit Dancer | 20689 | [20689-brave-the-search-for-spirit-dancer.json](./20689-brave-the-search-for-spirit-dancer.json) |
