@@ -3267,6 +3267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cyclop | 301814 | [301814-the-cyclop.json](./301814-the-cyclop.json) |
 | The Czech Run | 208384 | [208384-the-czech-run.json](./208384-the-czech-run.json) |
 | The D Show | 280855 | [280855-the-d-show.json](./280855-the-d-show.json) |
+| The D-T.E.A.M. | 196010 | [196010-the-d-t-e-a-m.json](./196010-the-d-t-e-a-m.json) |
 | The D.R.G. Initiative | 54689 | [54689-the-d-r-g-initiative.json](./54689-the-d-r-g-initiative.json) |
 | The Da Vinci Cryptex 2 | 278725 | [278725-the-da-vinci-cryptex-2.json](./278725-the-da-vinci-cryptex-2.json) |
 | The Da Vinci Cryptex 3 | 280257 | [280257-the-da-vinci-cryptex-3.json](./280257-the-da-vinci-cryptex-3.json) |
@@ -4949,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Plast | 302126 | [302126-the-last-plast.json](./302126-the-last-plast.json) |
 | The Last Player | 115469 | [115469-the-last-player.json](./115469-the-last-player.json) |
 | The Last Poem: The Trials of Poe | 152776 | [152776-the-last-poem-the-trials-of-poe.json](./152776-the-last-poem-the-trials-of-poe.json) |
+| The Last Practice Sectis | 196044 | [196044-the-last-practice-sectis.json](./196044-the-last-practice-sectis.json) |
 | The Last Queen in the Wizard Kingdom | 156184 | [156184-the-last-queen-in-the-wizard-kingdom.json](./156184-the-last-queen-in-the-wizard-kingdom.json) |
 | The Last Quest | 185158 | [185158-the-last-quest.json](./185158-the-last-quest.json) |
 | The Last Refuge | 324329 | [324329-the-last-refuge.json](./324329-the-last-refuge.json) |
@@ -5823,6 +5825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nightmare | 24860 | [24860-the-nightmare.json](./24860-the-nightmare.json) |
 | The Nightmare Accord | 289976 | [289976-the-nightmare-accord.json](./289976-the-nightmare-accord.json) |
 | The Nightmare Before Christmas: Oogie's Revenge | 6200 | [6200-the-nightmare-before-christmas-oogies-revenge.json](./6200-the-nightmare-before-christmas-oogies-revenge.json) |
+| The Nightmare Catcher | 196038 | [196038-the-nightmare-catcher.json](./196038-the-nightmare-catcher.json) |
 | The Nightmare Chronicles: Horror In Da Hood | 309107 | [309107-the-nightmare-chronicles-horror-in-da-hood.json](./309107-the-nightmare-chronicles-horror-in-da-hood.json) |
 | The Nightmare Escape | 258473 | [258473-the-nightmare-escape.json](./258473-the-nightmare-escape.json) |
 | The Nightmare Inside | 194653 | [194653-the-nightmare-inside.json](./194653-the-nightmare-inside.json) |
@@ -6243,6 +6246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Railroad Works | 72047 | [72047-the-railroad-works.json](./72047-the-railroad-works.json) |
 | The Rainbowers | 254156 | [254156-the-rainbowers.json](./254156-the-rainbowers.json) |
 | The Rainbox | 358874 | [358874-the-rainbox.json](./358874-the-rainbox.json) |
+| The Raincoat Man | 196042 | [196042-the-raincoat-man.json](./196042-the-raincoat-man.json) |
 | The Rainman | 301835 | [301835-the-rainman.json](./301835-the-rainman.json) |
 | The Rainsdowne Players | 97926 | [97926-the-rainsdowne-players.json](./97926-the-rainsdowne-players.json) |
 | The Rainy Port Keelung | 35758 | [35758-the-rainy-port-keelung.json](./35758-the-rainy-port-keelung.json) |
@@ -7467,6 +7471,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Might and Magic Archives | 206778 | [206778-the-ultimate-might-and-magic-archives.json](./206778-the-ultimate-might-and-magic-archives.json) |
 | The ultimate secret of the universe: Soul | 169922 | [169922-the-ultimate-secret-of-the-universe-soul.json](./169922-the-ultimate-secret-of-the-universe-soul.json) |
 | The Ultimate Showdown | 34428 | [34428-the-ultimate-showdown.json](./34428-the-ultimate-showdown.json) |
+| The Ultimate Simpsons Doom | 196021 | [196021-the-ultimate-simpsons-doom.json](./196021-the-ultimate-simpsons-doom.json) |
+| The Ultimate Torment and Torture | 196028 | [196028-the-ultimate-torment-and-torture.json](./196028-the-ultimate-torment-and-torture.json) |
 | The Ultimate Trivia CD | 72056 | [72056-the-ultimate-trivia-cd.json](./72056-the-ultimate-trivia-cd.json) |
 | The Ultimatum: Choices | 326795 | [326795-the-ultimatum-choices.json](./326795-the-ultimatum-choices.json) |
 | The Ultra Mission | 199105 | [199105-the-ultra-mission.json](./199105-the-ultra-mission.json) |
@@ -11296,6 +11302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 2: Hauptstrecke Hamburg - Lübeck Route Add-On | 147456 | [147456-train-sim-world-2-hauptstrecke-hamburg-lubeck-route-add-on.json](./147456-train-sim-world-2-hauptstrecke-hamburg-lubeck-route-add-on.json) |
 | Train Sim World 2: Hauptstrecke München - Augsburg Route Add-On | 156504 | [156504-train-sim-world-2-hauptstrecke-munchen-augsburg-route-add-on.json](./156504-train-sim-world-2-hauptstrecke-munchen-augsburg-route-add-on.json) |
 | Train Sim World 2: Hauptstrecke Rhein-Ruhr: Duisburg - Bochum Route Add-On | 156498 | [156498-train-sim-world-2-hauptstrecke-rhein-ruhr-duisburg-bochum-route-add-on.json](./156498-train-sim-world-2-hauptstrecke-rhein-ruhr-duisburg-bochum-route-add-on.json) |
+| Train Sim World 2: Horseshoe Curve: Altoona - Johnstown & South Fork Route | 196039 | [196039-train-sim-world-2-horseshoe-curve-altoona-johnstown-and-south-fork-route.json](./196039-train-sim-world-2-horseshoe-curve-altoona-johnstown-and-south-fork-route.json) |
 | Train Sim World 2: LGV Méditerranée: Marseille - Avignon Route Add-On | 156496 | [156496-train-sim-world-2-lgv-mediterranee-marseille-avignon-route-add-on.json](./156496-train-sim-world-2-lgv-mediterranee-marseille-avignon-route-add-on.json) |
 | Train Sim World 2: LIRR M3 EMU Loco | 168738 | [168738-train-sim-world-2-lirr-m3-emu-loco.json](./168738-train-sim-world-2-lirr-m3-emu-loco.json) |
 | Train Sim World 2: Long Island Rail Road: New York - Hicksville | 227327 | [227327-train-sim-world-2-long-island-rail-road-new-york-hicksville.json](./227327-train-sim-world-2-long-island-rail-road-new-york-hicksville.json) |
@@ -12742,6 +12749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try to Escape! | 258434 | [258434-try-to-escape.json](./258434-try-to-escape.json) |
 | Try to Reach 10 | 130732 | [130732-try-to-reach-10.json](./130732-try-to-reach-10.json) |
 | Try to Survive | 116552 | [116552-try-to-survive.json](./116552-try-to-survive.json) |
+| Try to Win 2 | 196055 | [196055-try-to-win-2.json](./196055-try-to-win-2.json) |
 | Tryhard | 330935 | [330935-tryhard.json](./330935-tryhard.json) |
 | Trying | 225719 | [225719-trying.json](./225719-trying.json) |
 | Trying to Sing in Static | 230291 | [230291-trying-to-sing-in-static.json](./230291-trying-to-sing-in-static.json) |
