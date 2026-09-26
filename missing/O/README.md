@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OBJ VR | 309376 | [309376-obj-vr.json](./309376-obj-vr.json) |
 | Object "Cleaning" | 83568 | [83568-object-cleaning.json](./83568-object-cleaning.json) |
 | Object Factory | 371425 | [371425-object-factory.json](./371425-object-factory.json) |
+| Object Ward. | 188912 | [188912-object-ward.json](./188912-object-ward.json) |
 | Object Wars | 211166 | [211166-object-wars.json](./211166-object-wars.json) |
 | Objector | 232959 | [232959-objector.json](./232959-objector.json) |
 | Objects in Space | 19088 | [19088-objects-in-space.json](./19088-objects-in-space.json) |
@@ -260,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddsparks: An Automation Adventure - Deluxe Edition | 403586 | [403586-oddsparks-an-automation-adventure-deluxe-edition.json](./403586-oddsparks-an-automation-adventure-deluxe-edition.json) |
 | Oddsparks: An Automation Adventure - Deluxe Upgrade | 403587 | [403587-oddsparks-an-automation-adventure-deluxe-upgrade.json](./403587-oddsparks-an-automation-adventure-deluxe-upgrade.json) |
 | Oddventure | 137646 | [137646-oddventure.json](./137646-oddventure.json) |
+| Oddware | 188924 | [188924-oddware.json](./188924-oddware.json) |
 | Oddworld Adventures 2 | 49865 | [49865-oddworld-adventures-2.json](./49865-oddworld-adventures-2.json) |
 | Oddworld Collection | 145454 | [145454-oddworld-collection.json](./145454-oddworld-collection.json) |
 | Oddworld: Abe's Exoddus | 1000 | [1000-oddworld-abes-exoddus.json](./1000-oddworld-abes-exoddus.json) |
@@ -1773,6 +1775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orpheus: Echo of Hades | 401774 | [401774-orpheus-echo-of-hades.json](./401774-orpheus-echo-of-hades.json) |
 | Orpheus's Dream | 119766 | [119766-orpheuss-dream.json](./119766-orpheuss-dream.json) |
 | Orqa FPV SkyDive | 196854 | [196854-orqa-fpv-skydive.json](./196854-orqa-fpv-skydive.json) |
+| Orrb | 188916 | [188916-orrb.json](./188916-orrb.json) |
 | Orrery | 317811 | [317811-orrery.json](./317811-orrery.json) |
 | Ortharion: The Last Battle | 193444 | [193444-ortharion-the-last-battle.json](./193444-ortharion-the-last-battle.json) |
 | Ortheo Voyage | 289457 | [289457-ortheo-voyage.json](./289457-ortheo-voyage.json) |
