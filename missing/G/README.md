@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Chaloupe | 105758 | [105758-game-of-chaloupe.json](./105758-game-of-chaloupe.json) |
 | Game of Clowns | 27806 | [27806-game-of-clowns.json](./27806-game-of-clowns.json) |
 | Game of Dice | 58793 | [58793-game-of-dice.json](./58793-game-of-dice.json) |
+| Game of Dragons | 218973 | [218973-game-of-dragons.json](./218973-game-of-dragons.json) |
 | Game of Earth: Build Your City | 243073 | [243073-game-of-earth-build-your-city.json](./243073-game-of-earth-build-your-city.json) |
 | Game of Empires: Warring Realms | 230294 | [230294-game-of-empires-warring-realms.json](./230294-game-of-empires-warring-realms.json) |
 | Game of Evolution | 310024 | [310024-game-of-evolution.json](./310024-game-of-evolution.json) |
