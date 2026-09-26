@@ -2292,6 +2292,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ET Superman: Wrath of Tyrannosaurus Rex | 195258 | [195258-et-superman-wrath-of-tyrannosaurus-rex.json](./195258-et-superman-wrath-of-tyrannosaurus-rex.json) |
 | ETA: Unknown | 389437 | [389437-eta-unknown.json](./389437-eta-unknown.json) |
 | eTabu | 23909 | [23909-etabu.json](./23909-etabu.json) |
+| ETC: Earthquake Test Centre | 221661 | [221661-etc-earthquake-test-centre.json](./221661-etc-earthquake-test-centre.json) |
+| ETC: Earthquake Test Centre 2 | 221662 | [221662-etc-earthquake-test-centre-2.json](./221662-etc-earthquake-test-centre-2.json) |
 | Etched Memories | 382765 | [382765-etched-memories.json](./382765-etched-memories.json) |
 | Eterium | 17102 | [17102-eterium.json](./17102-eterium.json) |
 | Eternal | 303056 | [303056-eternal.json](./303056-eternal.json) |
