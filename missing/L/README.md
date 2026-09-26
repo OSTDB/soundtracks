@@ -1005,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend 64 | 261297 | [261297-legend-64.json](./261297-legend-64.json) |
 | Legend Creatures 2 | 257382 | [257382-legend-creatures-2.json](./257382-legend-creatures-2.json) |
 | Legend Knight | 95170 | [95170-legend-knight.json](./95170-legend-knight.json) |
+| Legend of a Volcano | 202116 | [202116-legend-of-a-volcano.json](./202116-legend-of-a-volcano.json) |
 | Legend of Ace | 124624 | [124624-legend-of-ace.json](./124624-legend-of-ace.json) |
 | Legend of Ahssûn | 127941 | [127941-legend-of-ahssun.json](./127941-legend-of-ahssun.json) |
 | Legend of Aladdin | 70969 | [70969-legend-of-aladdin.json](./70969-legend-of-aladdin.json) |
@@ -2220,6 +2221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lingotopia | 102359 | [102359-lingotopia.json](./102359-lingotopia.json) |
 | Lingua Fleur: Lily | 112700 | [112700-lingua-fleur-lily.json](./112700-lingua-fleur-lily.json) |
 | Lingua Franca | 371920 | [371920-lingua-franca.json](./371920-lingua-franca.json) |
+| Linguist FPS: The Language Learning FPS | 202108 | [202108-linguist-fps-the-language-learning-fps.json](./202108-linguist-fps-the-language-learning-fps.json) |
 | Língwén Xīyóu | 106558 | [106558-lingwen-xiyou.json](./106558-lingwen-xiyou.json) |
 | Lingword | 307591 | [307591-lingword.json](./307591-lingword.json) |
 | Língxià Jìyì | 130924 | [130924-lingxia-jiyi.json](./130924-lingxia-jiyi.json) |
@@ -2409,6 +2411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Horrors! | 287240 | [287240-little-horrors.json](./287240-little-horrors.json) |
 | Little Inferno: Ho Ho Holiday | 224412 | [224412-little-inferno-ho-ho-holiday.json](./224412-little-inferno-ho-ho-holiday.json) |
 | Little Island | 189072 | [189072-little-island.json](./189072-little-island.json) |
+| Little Island Adventure | 202134 | [202134-little-island-adventure.json](./202134-little-island-adventure.json) |
 | Little Islanders | 211251 | [211251-little-islanders.json](./211251-little-islanders.json) |
 | Little Jack's Adventures | 30101 | [30101-little-jacks-adventures.json](./30101-little-jacks-adventures.json) |
 | Little Jumper! | 175403 | [175403-little-jumper.json](./175403-little-jumper.json) |
