@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Board Remastered | 109665 | [109665-on-board-remastered.json](./109665-on-board-remastered.json) |
 | On Christmas He Will Return Home | 281462 | [281462-on-christmas-he-will-return-home.json](./281462-on-christmas-he-will-return-home.json) |
 | On Constant Delay | 400296 | [400296-on-constant-delay.json](./400296-on-constant-delay.json) |
+| On Dark Terms | 221134 | [221134-on-dark-terms.json](./221134-on-dark-terms.json) |
 | On Duty | 130378 | [130378-on-duty.json](./130378-on-duty.json) |
 | On Earth as in Hell: Woytons Plague | 218739 | [218739-on-earth-as-in-hell-woytons-plague.json](./218739-on-earth-as-in-hell-woytons-plague.json) |
 | On Guard | 185535 | [185535-on-guard.json](./185535-on-guard.json) |
@@ -1578,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbo's Odyssey | 260493 | [260493-orbos-odyssey.json](./260493-orbos-odyssey.json) |
 | Orbs Match | 88157 | [88157-orbs-match.json](./88157-orbs-match.json) |
 | Orbs Orbs Orbs | 342160 | [342160-orbs-orbs-orbs.json](./342160-orbs-orbs-orbs.json) |
+| Orbtangle | 221119 | [221119-orbtangle.json](./221119-orbtangle.json) |
 | Orbyss | 343264 | [343264-orbyss.json](./343264-orbyss.json) |
 | Orc Hunt | 186277 | [186277-orc-hunt.json](./186277-orc-hunt.json) |
 | Orc Invasion Tower | 219266 | [219266-orc-invasion-tower.json](./219266-orc-invasion-tower.json) |
