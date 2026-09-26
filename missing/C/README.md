@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | C So! | 6095 | [6095-c-so.json](./6095-c-so.json) |
+| C-Dogs SDL | 182203 | [182203-c-dogs-sdl.json](./182203-c-dogs-sdl.json) |
 | C-evo | 10033 | [10033-c-evo.json](./10033-c-evo.json) |
 | C-Rush | 16833 | [16833-c-rush.json](./16833-c-rush.json) |
 | C-Smash VRS: New Dimension | 321377 | [321377-c-smash-vrs-new-dimension.json](./321377-c-smash-vrs-new-dimension.json) |
@@ -387,6 +388,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp Sunshine | 25605 | [25605-camp-sunshine.json](./25605-camp-sunshine.json) |
 | Camp W | 99025 | [99025-camp-w.json](./99025-camp-w.json) |
 | Camp Wombo | 351010 | [351010-camp-wombo.json](./351010-camp-wombo.json) |
+| Campaign Antietam | 182260 | [182260-campaign-antietam.json](./182260-campaign-antietam.json) |
+| Campaign Gettysburg | 182261 | [182261-campaign-gettysburg.json](./182261-campaign-gettysburg.json) |
 | Campaign Including 25 Extra Missions | 72048 | [72048-campaign-including-25-extra-missions.json](./72048-campaign-including-25-extra-missions.json) |
 | Campaign Ozark | 135885 | [135885-campaign-ozark.json](./135885-campaign-ozark.json) |
 | Campaign Series Vietnam | 150123 | [150123-campaign-series-vietnam.json](./150123-campaign-series-vietnam.json) |
@@ -1564,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Sokoban | 135868 | [135868-cat-sokoban.json](./135868-cat-sokoban.json) |
 | Cat Souls | 244218 | [244218-cat-souls.json](./244218-cat-souls.json) |
 | Cat Spa | 224080 | [224080-cat-spa.json](./224080-cat-spa.json) |
+| Cat Stories: New Year | 182223 | [182223-cat-stories-new-year.json](./182223-cat-stories-new-year.json) |
 | Cat Summoner: Block Puzzle | 357979 | [357979-cat-summoner-block-puzzle.json](./357979-cat-summoner-block-puzzle.json) |
 | Cat Survivors | 289374 | [289374-cat-survivors.json](./289374-cat-survivors.json) |
 | Cat Tales: Premium Edition | 241396 | [241396-cat-tales-premium-edition.json](./241396-cat-tales-premium-edition.json) |
@@ -1936,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: UFO Kidnapping | 324984 | [324984-cazzarion-ufo-kidnapping.json](./324984-cazzarion-ufo-kidnapping.json) |
 | Cazzarion: Zombie Drive | 301803 | [301803-cazzarion-zombie-drive.json](./301803-cazzarion-zombie-drive.json) |
 | CBeebies Playtime Island: Game | 321783 | [321783-cbeebies-playtime-island-game.json](./321783-cbeebies-playtime-island-game.json) |
+| CBT With Yuuka Kazami: Getting Help With Patchouli Knowledge | 182247 | [182247-cbt-with-yuuka-kazami-getting-help-with-patchouli-knowledge.json](./182247-cbt-with-yuuka-kazami-getting-help-with-patchouli-knowledge.json) |
 | CCTV | 264863 | [264863-cctv.json](./264863-cctv.json) |
 | CD Battle: Hikari no Yuushi-tachi | 267948 | [267948-cd-battle-hikari-no-yuushi-tachi.json](./267948-cd-battle-hikari-no-yuushi-tachi.json) |
 | CD-i Donkey Kong Game | 231479 | [231479-cd-i-donkey-kong-game.json](./231479-cd-i-donkey-kong-game.json) |
@@ -5998,6 +6003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CosmoPirates | 258553 | [258553-cosmopirates.json](./258553-cosmopirates.json) |
 | Cosmorbit | 384537 | [384537-cosmorbit.json](./384537-cosmorbit.json) |
 | Cosmos | 76611 | [76611-cosmos.json](./76611-cosmos.json) |
+| Cosmos Bit | 182231 | [182231-cosmos-bit.json](./182231-cosmos-bit.json) |
 | Cosmos Club | 270747 | [270747-cosmos-club.json](./270747-cosmos-club.json) |
 | Cosmos Cop | 48314 | [48314-cosmos-cop.json](./48314-cosmos-cop.json) |
 | Cosmos Crash VR | 31761 | [31761-cosmos-crash-vr.json](./31761-cosmos-crash-vr.json) |
@@ -6653,6 +6659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Pitcher | 227255 | [227255-crazy-pitcher.json](./227255-crazy-pitcher.json) |
 | Crazy Pizza Boy | 242214 | [242214-crazy-pizza-boy.json](./242214-crazy-pizza-boy.json) |
 | Crazy Plane Landing | 208460 | [208460-crazy-plane-landing.json](./208460-crazy-plane-landing.json) |
+| Crazy Planets | 182210 | [182210-crazy-planets.json](./182210-crazy-planets.json) |
 | Crazy Pocket | 413613 | [413613-crazy-pocket.json](./413613-crazy-pocket.json) |
 | Crazy Puzzle | 358935 | [358935-crazy-puzzle.json](./358935-crazy-puzzle.json) |
 | Crazy Rabbits | 250973 | [250973-crazy-rabbits.json](./250973-crazy-rabbits.json) |
@@ -7564,6 +7571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Foundry | 349876 | [349876-cube-foundry.json](./349876-cube-foundry.json) |
 | Cube Game | 137605 | [137605-cube-game.json](./137605-cube-game.json) |
 | Cube Gothic | 140359 | [140359-cube-gothic.json](./140359-cube-gothic.json) |
+| Cube Gravity | 182227 | [182227-cube-gravity.json](./182227-cube-gravity.json) |
 | Cube Jump 3D | 152404 | [152404-cube-jump-3d.json](./152404-cube-jump-3d.json) |
 | Cube Jump Game | 402937 | [402937-cube-jump-game.json](./402937-cube-jump-game.json) |
 | Cube Jump Ultimate | 290467 | [290467-cube-jump-ultimate.json](./290467-cube-jump-ultimate.json) |
@@ -7786,6 +7794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupid Bistro!! Max | 264333 | [264333-cupid-bistro-max.json](./264333-cupid-bistro-max.json) |
 | Cupid Date | 225264 | [225264-cupid-date.json](./225264-cupid-date.json) |
 | Cupid Island | 190448 | [190448-cupid-island.json](./190448-cupid-island.json) |
+| Cupid Nonogram | 182248 | [182248-cupid-nonogram.json](./182248-cupid-nonogram.json) |
 | Cupid Parasite: Sweet and Spicy Darling | 200558 | [200558-cupid-parasite-sweet-and-spicy-darling.json](./200558-cupid-parasite-sweet-and-spicy-darling.json) |
 | Cupid's Bargain | 392422 | [392422-cupids-bargain.json](./392422-cupids-bargain.json) |
 | Cupky Jump | 252157 | [252157-cupky-jump.json](./252157-cupky-jump.json) |
