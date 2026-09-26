@@ -1120,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Racing 2 | 356278 | [356278-adventure-racing-2.json](./356278-adventure-racing-2.json) |
 | Adventure Realm | 357782 | [357782-adventure-realm.json](./357782-adventure-realm.json) |
 | Adventure Reborn | 240155 | [240155-adventure-reborn.json](./240155-adventure-reborn.json) |
+| Adventure Rush | 192674 | [192674-adventure-rush.json](./192674-adventure-rush.json) |
 | Adventure Story | 265404 | [265404-adventure-story.json](./265404-adventure-story.json) |
 | Adventure the Four Swords | 179576 | [179576-adventure-the-four-swords.json](./179576-adventure-the-four-swords.json) |
 | Adventure Time Game Wizard: Draw Your Own Adventure Time Games | 88096 | [88096-adventure-time-game-wizard-draw-your-own-adventure-time-games.json](./88096-adventure-time-game-wizard-draw-your-own-adventure-time-games.json) |
@@ -1949,6 +1950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albatross | 280200 | [280200-albatross.json](./280200-albatross.json) |
 | Albatroz | 255084 | [255084-albatroz.json](./255084-albatroz.json) |
 | Albert | 185094 | [185094-albert.json](./185094-albert.json) |
+| Albert and Camille's Little Lille Adventure | 192708 | [192708-albert-and-camilles-little-lille-adventure.json](./192708-albert-and-camilles-little-lille-adventure.json) |
 | Albert and Otto: The Adventure Begins | 13223 | [13223-albert-and-otto-the-adventure-begins.json](./13223-albert-and-otto-the-adventure-begins.json) |
 | Albert Mort: Desert Heat | 51510 | [51510-albert-mort-desert-heat.json](./51510-albert-mort-desert-heat.json) |
 | Albert Odyssey | 15889 | [15889-albert-odyssey.json](./15889-albert-odyssey.json) |
@@ -2490,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All The Places You'll Go (Women As Place) | 393497 | [393497-all-the-places-youll-go-women-as-place.json](./393497-all-the-places-youll-go-women-as-place.json) |
 | All the Wiser | 274011 | [274011-all-the-wiser.json](./274011-all-the-wiser.json) |
 | All Things Equal I Would Prefer It If We Were Safe & Lonely Instead of Together & Afraid But I Cannot Deny That It Is Hard; or: A Solitary Spacecraft. | 133997 | [133997-all-things-equal-i-would-prefer-it-if-we-were-safe-and-lonely-instead-of-together-and-afraid-but-i-cannot-deny-that-it-is-hard-or-a-solitary-spacecraft.json](./133997-all-things-equal-i-would-prefer-it-if-we-were-safe-and-lonely-instead-of-together-and-afraid-but-i-cannot-deny-that-it-is-hard-or-a-solitary-spacecraft.json) |
+| All to Race | 192705 | [192705-all-to-race.json](./192705-all-to-race.json) |
 | All Under Control | 335069 | [335069-all-under-control.json](./335069-all-under-control.json) |
 | All Valentine Pairs Memory Game | 180101 | [180101-all-valentine-pairs-memory-game.json](./180101-all-valentine-pairs-memory-game.json) |
 | All We Need | 263212 | [263212-all-we-need.json](./263212-all-we-need.json) |
@@ -6354,6 +6357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atypian | 369046 | [369046-atypian.json](./369046-atypian.json) |
 | Au Sable | 125855 | [125855-au-sable.json](./125855-au-sable.json) |
 | Aube | 104450 | [104450-aube.json](./104450-aube.json) |
+| Auction | 192701 | [192701-auction.json](./192701-auction.json) |
 | Audica: 5 Seconds of Summer - "Youngblood" | 358945 | [358945-audica-5-seconds-of-summer-youngblood.json](./358945-audica-5-seconds-of-summer-youngblood.json) |
 | Audica: Ariana Grande - "Into You" | 358946 | [358946-audica-ariana-grande-into-you.json](./358946-audica-ariana-grande-into-you.json) |
 | Audica: Chvrches - "The Mother We Share" | 358947 | [358947-audica-chvrches-the-mother-we-share.json](./358947-audica-chvrches-the-mother-we-share.json) |
