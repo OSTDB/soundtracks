@@ -6661,6 +6661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creme de la Creme | 126884 | [126884-creme-de-la-creme.json](./126884-creme-de-la-creme.json) |
 | Crepe Master! | 394504 | [394504-crepe-master.json](./394504-crepe-master.json) |
 | Crescendo Of Dreams + Surmounting Terror | 271490 | [271490-crescendo-of-dreams-surmounting-terror.json](./271490-crescendo-of-dreams-surmounting-terror.json) |
+| Crescent Bloom | 215095 | [215095-crescent-bloom.json](./215095-crescent-bloom.json) |
 | Crescent County | 305181 | [305181-crescent-county.json](./305181-crescent-county.json) |
 | Crescent Creek: Survival Horror | 416812 | [416812-crescent-creek-survival-horror.json](./416812-crescent-creek-survival-horror.json) |
 | Crescent Loom | 134667 | [134667-crescent-loom.json](./134667-crescent-loom.json) |
