@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QP Kiss | 188576 | [188576-qp-kiss.json](./188576-qp-kiss.json) |
 | Qpang | 144094 | [144094-qpang.json](./144094-qpang.json) |
 | QPet Zoo | 362487 | [362487-qpet-zoo.json](./362487-qpet-zoo.json) |
+| QQ Speed | 199934 | [199934-qq-speed.json](./199934-qq-speed.json) |
 | QQQbeats!!! | 354547 | [354547-qqqbeats.json](./354547-qqqbeats.json) |
 | QQTang | 240882 | [240882-qqtang.json](./240882-qqtang.json) |
 | Qrank | 94181 | [94181-qrank.json](./94181-qrank.json) |
