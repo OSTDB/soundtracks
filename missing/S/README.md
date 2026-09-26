@@ -2817,6 +2817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Warrior 2 Deluxe | 51915 | [51915-shadow-warrior-2-deluxe.json](./51915-shadow-warrior-2-deluxe.json) |
 | Shadow Warrior 2: Bounty Hunt Part 1 | 27876 | [27876-shadow-warrior-2-bounty-hunt-part-1.json](./27876-shadow-warrior-2-bounty-hunt-part-1.json) |
 | Shadow Warrior 2: Special Reserve Collector's Edition | 25772 | [25772-shadow-warrior-2-special-reserve-collectors-edition.json](./25772-shadow-warrior-2-special-reserve-collectors-edition.json) |
+| Shadow Warrior 3: Deluxe Edition | 193749 | [193749-shadow-warrior-3-deluxe-edition.json](./193749-shadow-warrior-3-deluxe-edition.json) |
 | Shadow Warrior Classic Complete | 51914 | [51914-shadow-warrior-classic-complete.json](./51914-shadow-warrior-classic-complete.json) |
 | Shadow Wolf Mysteries: Curse of the Full Moon - Collector's Edition | 36461 | [36461-shadow-wolf-mysteries-curse-of-the-full-moon-collectors-edition.json](./36461-shadow-wolf-mysteries-curse-of-the-full-moon-collectors-edition.json) |
 | Shadow Wolf Mysteries: Cursed Wedding - Collector's Edition | 99620 | [99620-shadow-wolf-mysteries-cursed-wedding-collectors-edition.json](./99620-shadow-wolf-mysteries-cursed-wedding-collectors-edition.json) |
@@ -4926,6 +4927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketchy Marathon | 319799 | [319799-sketchy-marathon.json](./319799-sketchy-marathon.json) |
 | Sketchy Racing | 186148 | [186148-sketchy-racing.json](./186148-sketchy-racing.json) |
 | Skew Pong | 190076 | [190076-skew-pong.json](./190076-skew-pong.json) |
+| Ski Bunny | 193713 | [193713-ski-bunny.json](./193713-ski-bunny.json) |
 | Ski Crazed | 138595 | [138595-ski-crazed.json](./138595-ski-crazed.json) |
 | Ski Girl Superstar | 88799 | [88799-ski-girl-superstar.json](./88799-ski-girl-superstar.json) |
 | Ski Hunt | 40796 | [40796-ski-hunt.json](./40796-ski-hunt.json) |
@@ -5564,6 +5566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingoween | 338940 | [338940-slingoween.json](./338940-slingoween.json) |
 | Slingshot | 60577 | [60577-slingshot.json](./60577-slingshot.json) |
 | Slingshot Blitz: Rewarded Play | 232036 | [232036-slingshot-blitz-rewarded-play.json](./232036-slingshot-blitz-rewarded-play.json) |
+| Slingshot Effect | 193716 | [193716-slingshot-effect.json](./193716-slingshot-effect.json) |
 | Slingshot Explorer: The Twelve Towers | 110142 | [110142-slingshot-explorer-the-twelve-towers.json](./110142-slingshot-explorer-the-twelve-towers.json) |
 | Slingshot Fun Collection | 386213 | [386213-slingshot-fun-collection.json](./386213-slingshot-fun-collection.json) |
 | Slingshot Hero VR | 50546 | [50546-slingshot-hero-vr.json](./50546-slingshot-hero-vr.json) |
@@ -14101,6 +14104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suspicious Shuffle | 219557 | [219557-suspicious-shuffle.json](./219557-suspicious-shuffle.json) |
 | Sustainable Shaun | 207839 | [207839-sustainable-shaun.json](./207839-sustainable-shaun.json) |
 | Sustenance | 316986 | [316986-sustenance.json](./316986-sustenance.json) |
+| Susume Tactics | 193724 | [193724-susume-tactics.json](./193724-susume-tactics.json) |
 | Susume! Kaizoku: Be Pirates! | 200661 | [200661-susume-kaizoku-be-pirates.json](./200661-susume-kaizoku-be-pirates.json) |
 | Susume! Taisen Puzzle Dama: Toukon! Marutama Chou | 136858 | [136858-susume-taisen-puzzle-dama-toukon-marutama-chou.json](./136858-susume-taisen-puzzle-dama-toukon-marutama-chou.json) |
 | Sutte Hakkun | 42541 | [42541-sutte-hakkun.json](./42541-sutte-hakkun.json) |
