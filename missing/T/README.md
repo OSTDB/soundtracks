@@ -971,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanuki Sunset Classic | 178502 | [178502-tanuki-sunset-classic.json](./178502-tanuki-sunset-classic.json) |
 | Tanuki Tales | 307160 | [307160-tanuki-tales.json](./307160-tanuki-tales.json) |
 | Tanuki Thief | 307135 | [307135-tanuki-thief.json](./307135-tanuki-thief.json) |
+| Tanuki Tiles | 180033 | [180033-tanuki-tiles.json](./180033-tanuki-tiles.json) |
 | Tanuki: Pon's Summer | 317817 | [317817-tanuki-pons-summer.json](./317817-tanuki-pons-summer.json) |
 | Tanuki's Dream | 307152 | [307152-tanukis-dream.json](./307152-tanukis-dream.json) |
 | Tanzanite Crush | 282548 | [282548-tanzanite-crush.json](./282548-tanzanite-crush.json) |
@@ -1808,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teodoro and the Evil Machines | 153873 | [153873-teodoro-and-the-evil-machines.json](./153873-teodoro-and-the-evil-machines.json) |
 | TEOM | 236013 | [236013-teom.json](./236013-teom.json) |
 | Teon: All Fair Hardcore ARPG | 83271 | [83271-teon-all-fair-hardcore-arpg.json](./83271-teon-all-fair-hardcore-arpg.json) |
+| Tep the Destroyer | 180000 | [180000-tep-the-destroyer.json](./180000-tep-the-destroyer.json) |
 | Teppen Banchou Take 1: Saikou no Yankee Ikusei Game | 220305 | [220305-teppen-banchou-take-1-saikou-no-yankee-ikusei-game.json](./220305-teppen-banchou-take-1-saikou-no-yankee-ikusei-game.json) |
 | Teppo and The Secret Ancient City | 283231 | [283231-teppo-and-the-secret-ancient-city.json](./283231-teppo-and-the-secret-ancient-city.json) |
 | Teppoman | 242819 | [242819-teppoman.json](./242819-teppoman.json) |
@@ -12378,6 +12380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trenchwitch | 181690 | [181690-trenchwitch.json](./181690-trenchwitch.json) |
 | Trends | 113479 | [113479-trends.json](./113479-trends.json) |
 | Trenga Unlimited | 147257 | [147257-trenga-unlimited.json](./147257-trenga-unlimited.json) |
+| Trepa | 180027 | [180027-trepa.json](./180027-trepa.json) |
 | Trepang2: Digital Deluxe Edition | 287625 | [287625-trepang2-digital-deluxe-edition.json](./287625-trepang2-digital-deluxe-edition.json) |
 | Tres | 319800 | [319800-tres.json](./319800-tres.json) |
 | Tres Acordes | 230757 | [230757-tres-acordes.json](./230757-tres-acordes.json) |
