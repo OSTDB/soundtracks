@@ -4881,6 +4881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Barn | 113497 | [113497-bomber-barn.json](./113497-bomber-barn.json) |
 | Bomber Bob | 14331 | [14331-bomber-bob.json](./14331-bomber-bob.json) |
 | Bomber Cat Run | 317860 | [317860-bomber-cat-run.json](./317860-bomber-cat-run.json) |
+| Bomber Command | 221687 | [221687-bomber-command.json](./221687-bomber-command.json) |
 | Bomber Crew: American Edition | 116147 | [116147-bomber-crew-american-edition.json](./116147-bomber-crew-american-edition.json) |
 | Bomber Crew: Deluxe Edition | 118956 | [118956-bomber-crew-deluxe-edition.json](./118956-bomber-crew-deluxe-edition.json) |
 | Bomber Crew: Skin Pack | 265253 | [265253-bomber-crew-skin-pack.json](./265253-bomber-crew-skin-pack.json) |
