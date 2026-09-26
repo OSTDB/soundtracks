@@ -829,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warshift 2 | 388957 | [388957-warshift-2.json](./388957-warshift-2.json) |
 | Warship | 377150 | [377150-warship.json](./377150-warship.json) |
 | Warship Battle Commander | 356715 | [356715-warship-battle-commander.json](./356715-warship-battle-commander.json) |
+| WarShip HD | 205010 | [205010-warship-hd.json](./205010-warship-hd.json) |
 | Warship Legend | 227813 | [227813-warship-legend.json](./227813-warship-legend.json) |
 | WarShip War Navy Fleet Combat | 255043 | [255043-warship-war-navy-fleet-combat.json](./255043-warship-war-navy-fleet-combat.json) |
 | Warships 3D | 114158 | [114158-warships-3d.json](./114158-warships-3d.json) |
@@ -1204,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Webcam Love | 338387 | [338387-webcam-love.json](./338387-webcam-love.json) |
 | WebCum Empire Tycoon | 243151 | [243151-webcum-empire-tycoon.json](./243151-webcum-empire-tycoon.json) |
 | WebCum Secrets | 338386 | [338386-webcum-secrets.json](./338386-webcum-secrets.json) |
+| Weben Blocks | 204998 | [204998-weben-blocks.json](./204998-weben-blocks.json) |
 | Webgeon Speedrun Edition | 213393 | [213393-webgeon-speedrun-edition.json](./213393-webgeon-speedrun-edition.json) |
 | WebRiot | 79889 | [79889-webriot.json](./79889-webriot.json) |
 | Websy and the Time Rogues | 361304 | [361304-websy-and-the-time-rogues.json](./361304-websy-and-the-time-rogues.json) |
@@ -1518,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Her face | 201271 | [201271-whats-her-face.json](./201271-whats-her-face.json) |
 | What's in the Attic? | 140593 | [140593-whats-in-the-attic.json](./140593-whats-in-the-attic.json) |
 | What's Michael? | 91763 | [91763-whats-michael.json](./91763-whats-michael.json) |
+| What's Missing? | 204981 | [204981-whats-missing.json](./204981-whats-missing.json) |
 | What's on Agenda | 302508 | [302508-whats-on-agenda.json](./302508-whats-on-agenda.json) |
 | What's Outside | 278729 | [278729-whats-outside.json](./278729-whats-outside.json) |
 | What's Shenmue? | 93595 | [93595-whats-shenmue.json](./93595-whats-shenmue.json) |
