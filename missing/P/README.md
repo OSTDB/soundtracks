@@ -1303,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patience Playdate | 276722 | [276722-patience-playdate.json](./276722-patience-playdate.json) |
 | Patient Rogue | 177482 | [177482-patient-rogue.json](./177482-patient-rogue.json) |
 | Patient Seven | 322709 | [322709-patient-seven.json](./322709-patient-seven.json) |
+| Patient Zero | 192676 | [192676-patient-zero.json](./192676-patient-zero.json) |
 | Patient Zero | 388918 | [388918-patient-zero.json](./388918-patient-zero.json) |
 | Patient Zero: Plague Idle | 388417 | [388417-patient-zero-plague-idle.json](./388417-patient-zero-plague-idle.json) |
 | PatientZ: Survivalist | 27727 | [27727-patientz-survivalist.json](./27727-patientz-survivalist.json) |
@@ -2306,6 +2307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Assault | 209970 | [209970-phoenix-assault.json](./209970-phoenix-assault.json) |
 | Phoenix Contract | 322588 | [322588-phoenix-contract.json](./322588-phoenix-contract.json) |
 | Phoenix HD | 343984 | [343984-phoenix-hd.json](./343984-phoenix-hd.json) |
+| Phoenix Hope | 192679 | [192679-phoenix-hope.json](./192679-phoenix-hope.json) |
 | Phoenix Nightmare | 235314 | [235314-phoenix-nightmare.json](./235314-phoenix-nightmare.json) |
 | Phoenix Point: Blood and Titanium | 149580 | [149580-phoenix-point-blood-and-titanium.json](./149580-phoenix-point-blood-and-titanium.json) |
 | Phoenix Point: Corrupted Horizons | 171628 | [171628-phoenix-point-corrupted-horizons.json](./171628-phoenix-point-corrupted-horizons.json) |
@@ -3478,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixeria | 210682 | [210682-pixeria.json](./210682-pixeria.json) |
 | Pixeria | 347234 | [347234-pixeria.json](./347234-pixeria.json) |
 | PixEvo: The Fountain | 191901 | [191901-pixevo-the-fountain.json](./191901-pixevo-the-fountain.json) |
+| PixGirls | 192673 | [192673-pixgirls.json](./192673-pixgirls.json) |
 | Pixgun | 348234 | [348234-pixgun.json](./348234-pixgun.json) |
 | Pixicharm Collection 1 | 320377 | [320377-pixicharm-collection-1.json](./320377-pixicharm-collection-1.json) |
 | Pixicharm Collection 2 | 334080 | [334080-pixicharm-collection-2.json](./334080-pixicharm-collection-2.json) |
