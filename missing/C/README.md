@@ -744,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Cops | 247218 | [247218-car-cops.json](./247218-car-cops.json) |
 | Car Crash Couch Party | 83586 | [83586-car-crash-couch-party.json](./83586-car-crash-couch-party.json) |
 | Car Dealer Driver | 207881 | [207881-car-dealer-driver.json](./207881-car-dealer-driver.json) |
+| Car Dealership Simulator | 216183 | [216183-car-dealership-simulator.json](./216183-car-dealership-simulator.json) |
 | Car Destroyer | 203888 | [203888-car-destroyer.json](./203888-car-destroyer.json) |
 | Car Detailing Cleaner Simulator | 288761 | [288761-car-detailing-cleaner-simulator.json](./288761-car-detailing-cleaner-simulator.json) |
 | Car Detailing Simulator | 182487 | [182487-car-detailing-simulator.json](./182487-car-detailing-simulator.json) |
@@ -5866,6 +5867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Ranger: S.O.L. AD 2000 | 72068 | [72068-cosmo-ranger-s-o-l-ad-2000.json](./72068-cosmo-ranger-s-o-l-ad-2000.json) |
 | Cosmo Solitaire | 295922 | [295922-cosmo-solitaire.json](./295922-cosmo-solitaire.json) |
 | Cosmo Solitaire 2 | 337254 | [337254-cosmo-solitaire-2.json](./337254-cosmo-solitaire-2.json) |
+| Cosmo Vulpes | 216194 | [216194-cosmo-vulpes.json](./216194-cosmo-vulpes.json) |
 | Cosmo-Champion | 346089 | [346089-cosmo-champion.json](./346089-cosmo-champion.json) |
 | Cosmo's Delivery and Logistics | 269037 | [269037-cosmos-delivery-and-logistics.json](./269037-cosmos-delivery-and-logistics.json) |
 | Cosmo's Industry | 374841 | [374841-cosmos-industry.json](./374841-cosmos-industry.json) |
@@ -7658,6 +7660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curious Cases | 116470 | [116470-curious-cases.json](./116470-curious-cases.json) |
 | Curious Expedition | 19319 | [19319-curious-expedition.json](./19319-curious-expedition.json) |
 | Curious Expedition 2 Bundle | 218688 | [218688-curious-expedition-2-bundle.json](./218688-curious-expedition-2-bundle.json) |
+| Curious Expedition 2: Robots of Lux | 216160 | [216160-curious-expedition-2-robots-of-lux.json](./216160-curious-expedition-2-robots-of-lux.json) |
 | Curious Fishing | 249746 | [249746-curious-fishing.json](./249746-curious-fishing.json) |
 | Curious George Early Learning Adventure | 384220 | [384220-curious-george-early-learning-adventure.json](./384220-curious-george-early-learning-adventure.json) |
 | Curley Laboratory | 196691 | [196691-curley-laboratory.json](./196691-curley-laboratory.json) |
