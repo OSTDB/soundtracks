@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenopathy | 183043 | [183043-xenopathy.json](./183043-xenopathy.json) |
 | Xenos Defense | 121480 | [121480-xenos-defense.json](./121480-xenos-defense.json) |
 | Xenos: Cartoon Creature Catcher | 272890 | [272890-xenos-cartoon-creature-catcher.json](./272890-xenos-cartoon-creature-catcher.json) |
+| Xenosaga Episode I: Der Wille zur Macht - Reloaded | 221670 | [221670-xenosaga-episode-i-der-wille-zur-macht-reloaded.json](./221670-xenosaga-episode-i-der-wille-zur-macht-reloaded.json) |
 | Xenosaga Episode II: Jenseits von Gut und Böse | 1228 | [1228-xenosaga-episode-ii-jenseits-von-gut-und-bose.json](./1228-xenosaga-episode-ii-jenseits-von-gut-und-bose.json) |
 | Xenosaga I & II | 26805 | [26805-xenosaga-i-and-ii.json](./26805-xenosaga-i-and-ii.json) |
 | Xenosaga II to III: A Missing Year | 240497 | [240497-xenosaga-ii-to-iii-a-missing-year.json](./240497-xenosaga-ii-to-iii-a-missing-year.json) |
