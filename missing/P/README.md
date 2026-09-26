@@ -1022,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Mania | 62763 | [62763-parking-mania.json](./62763-parking-mania.json) |
 | Parking Mania 2 | 261844 | [261844-parking-mania-2.json](./261844-parking-mania-2.json) |
 | Parking Master | 333087 | [333087-parking-master.json](./333087-parking-master.json) |
+| Parking Master Multiplayer | 198263 | [198263-parking-master-multiplayer.json](./198263-parking-master-multiplayer.json) |
 | Parking Masters | 313135 | [313135-parking-masters.json](./313135-parking-masters.json) |
 | Parking Masters: Big Rig | 313232 | [313232-parking-masters-big-rig.json](./313232-parking-masters-big-rig.json) |
 | Parking Masters: Bus Driver | 313513 | [313513-parking-masters-bus-driver.json](./313513-parking-masters-bus-driver.json) |
@@ -6675,6 +6676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PUBG Mobile: Season 12 | 135152 | [135152-pubg-mobile-season-12.json](./135152-pubg-mobile-season-12.json) |
 | PUBG Mobile: Season 13 | 135154 | [135154-pubg-mobile-season-13.json](./135154-pubg-mobile-season-13.json) |
 | PUBG Mobile: Season 16 | 141193 | [141193-pubg-mobile-season-16.json](./141193-pubg-mobile-season-16.json) |
+| PUBG: Battlegrounds - Season 16 | 198264 | [198264-pubg-battlegrounds-season-16.json](./198264-pubg-battlegrounds-season-16.json) |
 | PUBG: Battlegrounds - Season 18 | 217520 | [217520-pubg-battlegrounds-season-18.json](./217520-pubg-battlegrounds-season-18.json) |
 | PUBG: Battlegrounds - Season 21 | 279571 | [279571-pubg-battlegrounds-season-21.json](./279571-pubg-battlegrounds-season-21.json) |
 | PUBG: Battlegrounds - Season 22 | 279572 | [279572-pubg-battlegrounds-season-22.json](./279572-pubg-battlegrounds-season-22.json) |
