@@ -635,6 +635,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Feud | 320767 | [320767-family-feud.json](./320767-family-feud.json) |
 | Family Feud | 37112 | [37112-family-feud.json](./37112-family-feud.json) |
 | Family Feud & Friends | 86099 | [86099-family-feud-and-friends.json](./86099-family-feud-and-friends.json) |
+| Family Feud Cartridge #1 | 203238 | [203238-family-feud-cartridge-1.json](./203238-family-feud-cartridge-1.json) |
+| Family Feud Cartridge #2 | 203239 | [203239-family-feud-cartridge-2.json](./203239-family-feud-cartridge-2.json) |
 | Family Feud: 2010 Edition | 324085 | [324085-family-feud-2010-edition.json](./324085-family-feud-2010-edition.json) |
 | Family Feud: 2012 Edition | 6678 | [6678-family-feud-2012-edition.json](./6678-family-feud-2012-edition.json) |
 | Family Feud: Battle of the Sexes | 358962 | [358962-family-feud-battle-of-the-sexes.json](./358962-family-feud-battle-of-the-sexes.json) |
@@ -1133,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fartonauts | 348358 | [348358-fartonauts.json](./348358-fartonauts.json) |
 | Farwake | 403666 | [403666-farwake.json](./403666-farwake.json) |
 | FarWest Colony | 269019 | [269019-farwest-colony.json](./269019-farwest-colony.json) |
+| Farwoods | 203248 | [203248-farwoods.json](./203248-farwoods.json) |
 | Fasaria World Online | 34530 | [34530-fasaria-world-online.json](./34530-fasaria-world-online.json) |
 | Fascination | 10793 | [10793-fascination.json](./10793-fascination.json) |
 | Fascination | 205658 | [205658-fascination.json](./205658-fascination.json) |
@@ -4694,6 +4697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night 3D Darts | 74061 | [74061-friday-night-3d-darts.json](./74061-friday-night-3d-darts.json) |
 | Friday Night 3D Pool | 57610 | [57610-friday-night-3d-pool.json](./57610-friday-night-3d-pool.json) |
 | Friday Night Bullet Arena | 31702 | [31702-friday-night-bullet-arena.json](./31702-friday-night-bullet-arena.json) |
+| Friday Night Funk'n: Funkin' is Magic | 203223 | [203223-friday-night-funkn-funkin-is-magic.json](./203223-friday-night-funkn-funkin-is-magic.json) |
 | Friday Night Funkin vs. junim Cururu | 328236 | [328236-friday-night-funkin-vs-junim-cururu.json](./328236-friday-night-funkin-vs-junim-cururu.json) |
 | Friday Night Funkin' 64 | 294774 | [294774-friday-night-funkin-64.json](./294774-friday-night-funkin-64.json) |
 | Friday Night Funkin' Battle Waifu | 205627 | [205627-friday-night-funkin-battle-waifu.json](./205627-friday-night-funkin-battle-waifu.json) |
@@ -4715,6 +4719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': Super Idol | 231382 | [231382-friday-night-funkin-super-idol.json](./231382-friday-night-funkin-super-idol.json) |
 | Friday Night Funkin': The X Event | 329152 | [329152-friday-night-funkin-the-x-event.json](./329152-friday-night-funkin-the-x-event.json) |
 | Friday Night Funkin': V.S. Father Foundest | 200665 | [200665-friday-night-funkin-v-s-father-foundest.json](./200665-friday-night-funkin-v-s-father-foundest.json) |
+| Friday Night Funkin': V.S. Neco-Arc | 203230 | [203230-friday-night-funkin-v-s-neco-arc.json](./203230-friday-night-funkin-v-s-neco-arc.json) |
 | Friday Night Funkin': V.S. Whitty | 165075 | [165075-friday-night-funkin-v-s-whitty.json](./165075-friday-night-funkin-v-s-whitty.json) |
 | Friday Night Funkin': Vs Ankha | 186302 | [186302-friday-night-funkin-vs-ankha.json](./186302-friday-night-funkin-vs-ankha.json) |
 | Friday Night Funkin': Vs Impostor | 202380 | [202380-friday-night-funkin-vs-impostor.json](./202380-friday-night-funkin-vs-impostor.json) |
@@ -4854,6 +4859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogenlav: Skyward Bound | 278418 | [278418-frogenlav-skyward-bound.json](./278418-frogenlav-skyward-bound.json) |
 | FrogFlop | 313295 | [313295-frogflop.json](./313295-frogflop.json) |
 | Froggee | 93020 | [93020-froggee.json](./93020-froggee.json) |
+| Frogger | 203243 | [203243-frogger.json](./203243-frogger.json) |
 | Frogger | 218437 | [218437-frogger.json](./218437-frogger.json) |
 | Frogger | 218439 | [218439-frogger.json](./218439-frogger.json) |
 | Frogger | 218554 | [218554-frogger.json](./218554-frogger.json) |
