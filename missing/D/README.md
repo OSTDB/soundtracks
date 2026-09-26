@@ -2732,6 +2732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Bus | 251590 | [251590-desert-bus.json](./251590-desert-bus.json) |
 | Desert Bus | 277307 | [277307-desert-bus.json](./277307-desert-bus.json) |
 | Desert Bus Frontiers | 293222 | [293222-desert-bus-frontiers.json](./293222-desert-bus-frontiers.json) |
+| Desert Comets | 184923 | [184923-desert-comets.json](./184923-desert-comets.json) |
 | Desert Dive | 317425 | [317425-desert-dive.json](./317425-desert-dive.json) |
 | Desert Force: Rescue Mission | 259072 | [259072-desert-force-rescue-mission.json](./259072-desert-force-rescue-mission.json) |
 | Desert Gunner | 17116 | [17116-desert-gunner.json](./17116-desert-gunner.json) |
@@ -3326,6 +3327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicey Dungeons: Halloween Special | 266909 | [266909-dicey-dungeons-halloween-special.json](./266909-dicey-dungeons-halloween-special.json) |
 | Dicey Towers | 188489 | [188489-dicey-towers.json](./188489-dicey-towers.json) |
 | Dichotomy | 344580 | [344580-dichotomy.json](./344580-dichotomy.json) |
+| Dichromatic | 184926 | [184926-dichromatic.json](./184926-dichromatic.json) |
 | Dick and Dom's Hoopla! | 304208 | [304208-dick-and-doms-hoopla.json](./304208-dick-and-doms-hoopla.json) |
 | Dick Richards | 185410 | [185410-dick-richards.json](./185410-dick-richards.json) |
 | Dick Tracy | 13058 | [13058-dick-tracy.json](./13058-dick-tracy.json) |
@@ -6242,6 +6244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Golf VR: Jungle Temple | 171006 | [171006-dream-golf-vr-jungle-temple.json](./171006-dream-golf-vr-jungle-temple.json) |
 | Dream Golf VR: Lighthouse Island | 171007 | [171007-dream-golf-vr-lighthouse-island.json](./171007-dream-golf-vr-lighthouse-island.json) |
 | Dream Hacker | 191084 | [191084-dream-hacker.json](./191084-dream-hacker.json) |
+| Dream Hard | 184912 | [184912-dream-hard.json](./184912-dream-hard.json) |
 | Dream Hearts Dream | 212765 | [212765-dream-hearts-dream.json](./212765-dream-hearts-dream.json) |
 | Dream Hollow | 350416 | [350416-dream-hollow.json](./350416-dream-hollow.json) |
 | Dream Home | 127082 | [127082-dream-home.json](./127082-dream-home.json) |
@@ -6338,6 +6341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreaming by day | 182982 | [182982-dreaming-by-day.json](./182982-dreaming-by-day.json) |
 | Dreaming Chicken | 258041 | [258041-dreaming-chicken.json](./258041-dreaming-chicken.json) |
 | Dreaming in the Mountains | 262372 | [262372-dreaming-in-the-mountains.json](./262372-dreaming-in-the-mountains.json) |
+| Dreaming of You | 184924 | [184924-dreaming-of-you.json](./184924-dreaming-of-you.json) |
 | Dreaming Rainbow | 191824 | [191824-dreaming-rainbow.json](./191824-dreaming-rainbow.json) |
 | Dreaming Sarah | 8702 | [8702-dreaming-sarah.json](./8702-dreaming-sarah.json) |
 | Dreaming Seal Simulator | 325288 | [325288-dreaming-seal-simulator.json](./325288-dreaming-seal-simulator.json) |
