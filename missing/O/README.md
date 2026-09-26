@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octagon - A Minimal Game with Maximum Challenge | 88290 | [88290-octagon-a-minimal-game-with-maximum-challenge.json](./88290-octagon-a-minimal-game-with-maximum-challenge.json) |
 | Octagon 2: Extreme Evolution | 175418 | [175418-octagon-2-extreme-evolution.json](./175418-octagon-2-extreme-evolution.json) |
 | Octagon Squad | 30211 | [30211-octagon-squad.json](./30211-octagon-squad.json) |
+| Octagonis | 177856 | [177856-octagonis.json](./177856-octagonis.json) |
 | Octane100 | 359571 | [359571-octane100.json](./359571-octane100.json) |
 | Octapolis | 55030 | [55030-octapolis.json](./55030-octapolis.json) |
 | Octave | 180675 | [180675-octave.json](./180675-octave.json) |
@@ -1042,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Night | 292296 | [292296-one-more-night.json](./292296-one-more-night.json) |
 | One More Question | 341506 | [341506-one-more-question.json](./341506-one-more-question.json) |
 | One More Roll | 110908 | [110908-one-more-roll.json](./110908-one-more-roll.json) |
+| One More Sleep | 177857 | [177857-one-more-sleep.json](./177857-one-more-sleep.json) |
 | One More Spin | 384495 | [384495-one-more-spin.json](./384495-one-more-spin.json) |
 | One more time... From the Top! | 178661 | [178661-one-more-time-from-the-top.json](./178661-one-more-time-from-the-top.json) |
 | One More Trail | 400855 | [400855-one-more-trail.json](./400855-one-more-trail.json) |
