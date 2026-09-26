@@ -8788,6 +8788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit & Stone | 216875 | [216875-spirit-and-stone.json](./216875-spirit-and-stone.json) |
 | Spirit and Katana | 191190 | [191190-spirit-and-katana.json](./191190-spirit-and-katana.json) |
 | Spirit Catcher 93' | 383357 | [383357-spirit-catcher-93.json](./383357-spirit-catcher-93.json) |
+| Spirit Charm | 215660 | [215660-spirit-charm.json](./215660-spirit-charm.json) |
 | Spirit City: Lofi Sessions | 263016 | [263016-spirit-city-lofi-sessions.json](./263016-spirit-city-lofi-sessions.json) |
 | Spirit City: Lofi Sessions - All Aboard! | 363005 | [363005-spirit-city-lofi-sessions-all-aboard.json](./363005-spirit-city-lofi-sessions-all-aboard.json) |
 | Spirit City: Lofi Sessions - Cozy Kitchen | 325655 | [325655-spirit-city-lofi-sessions-cozy-kitchen.json](./325655-spirit-city-lofi-sessions-cozy-kitchen.json) |
