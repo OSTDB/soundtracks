@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baculus | 140599 | [140599-baculus.json](./140599-baculus.json) |
 | Bad 2 Bad: Apocalypse | 239913 | [239913-bad-2-bad-apocalypse.json](./239913-bad-2-bad-apocalypse.json) |
 | Bad 2 Bad: Delta | 96000 | [96000-bad-2-bad-delta.json](./96000-bad-2-bad-delta.json) |
+| Bad 2 Bad: Extinction | 227245 | [227245-bad-2-bad-extinction.json](./227245-bad-2-bad-extinction.json) |
 | Bad 4 Business | 346221 | [346221-bad-4-business.json](./346221-bad-4-business.json) |
 | Bad Apple Wars | 12884 | [12884-bad-apple-wars.json](./12884-bad-apple-wars.json) |
 | Bad Apples | 141636 | [141636-bad-apples.json](./141636-bad-apples.json) |
