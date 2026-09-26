@@ -2777,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfteam: Reboot | 236760 | [236760-wolfteam-reboot.json](./236760-wolfteam-reboot.json) |
 | Wolfy | 131354 | [131354-wolfy.json](./131354-wolfy.json) |
 | Wolley's Dungeon Adventure | 361872 | [361872-wolleys-dungeon-adventure.json](./361872-wolleys-dungeon-adventure.json) |
+| Wolverine: Adamantium Rage | 207235 | [207235-wolverine-adamantium-rage.json](./207235-wolverine-adamantium-rage.json) |
 | Wolverine: Adamantium Rage | 46250 | [46250-wolverine-adamantium-rage.json](./46250-wolverine-adamantium-rage.json) |
 | Wolverine: Adamantium Redux | 219275 | [219275-wolverine-adamantium-redux.json](./219275-wolverine-adamantium-redux.json) |
 | Wolverine: Feral Instinct | 272814 | [272814-wolverine-feral-instinct.json](./272814-wolverine-feral-instinct.json) |
