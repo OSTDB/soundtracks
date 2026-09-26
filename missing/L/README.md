@@ -551,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Island | 134628 | [134628-last-island.json](./134628-last-island.json) |
 | Last Joy | 126591 | [126591-last-joy.json](./126591-last-joy.json) |
 | Last Kingdom | 361305 | [361305-last-kingdom.json](./361305-last-kingdom.json) |
+| Last Knight | 177847 | [177847-last-knight.json](./177847-last-knight.json) |
 | Last Knight | 53266 | [53266-last-knight.json](./53266-last-knight.json) |
 | Last Labyrinth | 109245 | [109245-last-labyrinth.json](./109245-last-labyrinth.json) |
 | Last Labyrinth: Collector's Edition | 139973 | [139973-last-labyrinth-collectors-edition.json](./139973-last-labyrinth-collectors-edition.json) |
@@ -675,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Photographer 6 | 228086 | [228086-late-photographer-6.json](./228086-late-photographer-6.json) |
 | Late Stage Capitalism | 355125 | [355125-late-stage-capitalism.json](./355125-late-stage-capitalism.json) |
 | Late Work | 177487 | [177487-late-work.json](./177487-late-work.json) |
+| Latebus | 177832 | [177832-latebus.json](./177832-latebus.json) |
 | Later | 348328 | [348328-later.json](./348328-later.json) |
 | Later Alligator | 112939 | [112939-later-alligator.json](./112939-later-alligator.json) |
 | Later Daters: Part One and Two | 238183 | [238183-later-daters-part-one-and-two.json](./238183-later-daters-part-one-and-two.json) |
@@ -3668,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovefield General: Back to Work | 105351 | [105351-lovefield-general-back-to-work.json](./105351-lovefield-general-back-to-work.json) |
 | LoveKami -Divinity Stage- | 26541 | [26541-lovekami-divinity-stage.json](./26541-lovekami-divinity-stage.json) |
 | Loveland | 144917 | [144917-loveland.json](./144917-loveland.json) |
+| Loveless on Lockdown | 177869 | [177869-loveless-on-lockdown.json](./177869-loveless-on-lockdown.json) |
 | Lovelink | 204709 | [204709-lovelink.json](./204709-lovelink.json) |
 | LoveLive! Superstar!! Memory Collect | 386836 | [386836-lovelive-superstar-memory-collect.json](./386836-lovelive-superstar-memory-collect.json) |
 | Lovelorn Sanatorium I | 220608 | [220608-lovelorn-sanatorium-i.json](./220608-lovelorn-sanatorium-i.json) |
