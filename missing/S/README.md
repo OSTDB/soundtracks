@@ -1968,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | See You Later | 235451 | [235451-see-you-later.json](./235451-see-you-later.json) |
 | See You on the Other Side | 180188 | [180188-see-you-on-the-other-side.json](./180188-see-you-on-the-other-side.json) |
 | See you: A brief exile | 159745 | [159745-see-you-a-brief-exile.json](./159745-see-you-a-brief-exile.json) |
+| See-Through Jewels | 182220 | [182220-see-through-jewels.json](./182220-see-through-jewels.json) |
 | Seeb Defender | 244777 | [244777-seeb-defender.json](./244777-seeb-defender.json) |
 | Seed | 403825 | [403825-seed.json](./403825-seed.json) |
 | Seed 2313 | 359604 | [359604-seed-2313.json](./359604-seed-2313.json) |
@@ -2955,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shafted | 211692 | [211692-shafted.json](./211692-shafted.json) |
 | Shafted | 358931 | [358931-shafted.json](./358931-shafted.json) |
 | Shaiya | 85841 | [85841-shaiya.json](./85841-shaiya.json) |
+| Shakadou-san no Jun'ai Road | 182226 | [182226-shakadou-san-no-junai-road.json](./182226-shakadou-san-no-junai-road.json) |
 | Shake | 383508 | [383508-shake.json](./383508-shake.json) |
 | Shake | 399840 | [399840-shake.json](./399840-shake.json) |
 | Shake Ground | 202659 | [202659-shake-ground.json](./202659-shake-ground.json) |
@@ -4692,6 +4694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: SuomiSuosikit | 357940 | [357940-singstar-suomisuosikit.json](./357940-singstar-suomisuosikit.json) |
 | SingStar: Vasco | 45302 | [45302-singstar-vasco.json](./45302-singstar-vasco.json) |
 | Singstar: Wakacyjna Impreza | 15441 | [15441-singstar-wakacyjna-impreza.json](./15441-singstar-wakacyjna-impreza.json) |
+| Singular Stone | 182230 | [182230-singular-stone.json](./182230-singular-stone.json) |
 | Singularity | 302486 | [302486-singularity.json](./302486-singularity.json) |
 | Singularity | 401639 | [401639-singularity.json](./401639-singularity.json) |
 | Singularity | 77285 | [77285-singularity.json](./77285-singularity.json) |
@@ -4741,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sins of a Solar Empire: Rebellion Ultimate Edition | 51907 | [51907-sins-of-a-solar-empire-rebellion-ultimate-edition.json](./51907-sins-of-a-solar-empire-rebellion-ultimate-edition.json) |
 | Sins Of Kaleido | 276733 | [276733-sins-of-kaleido.json](./276733-sins-of-kaleido.json) |
 | Sins of the Demon RPG | 33004 | [33004-sins-of-the-demon-rpg.json](./33004-sins-of-the-demon-rpg.json) |
+| Sinsations | 182269 | [182269-sinsations.json](./182269-sinsations.json) |
 | Sinsations 2: Modern Gods | 332432 | [332432-sinsations-2-modern-gods.json](./332432-sinsations-2-modern-gods.json) |
 | SinsFromGod | 139422 | [139422-sinsfromgod.json](./139422-sinsfromgod.json) |
 | Sintesoft 2.0 | 343319 | [343319-sintesoft-2-0.json](./343319-sintesoft-2-0.json) |
@@ -5896,6 +5900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smells Like A Mushroom: 100% Vegan Edition | 323892 | [323892-smells-like-a-mushroom-100-vegan-edition.json](./323892-smells-like-a-mushroom-100-vegan-edition.json) |
 | Smells Like Grandma's | 271721 | [271721-smells-like-grandmas.json](./271721-smells-like-grandmas.json) |
 | Smelly Bubbles | 411679 | [411679-smelly-bubbles.json](./411679-smelly-bubbles.json) |
+| Smelogs Playground | 182270 | [182270-smelogs-playground.json](./182270-smelogs-playground.json) |
 | Smelter | 119191 | [119191-smelter.json](./119191-smelter.json) |
 | Smelter: Collector's Edition | 205263 | [205263-smelter-collectors-edition.json](./205263-smelter-collectors-edition.json) |
 | SMH | 277393 | [277393-smh.json](./277393-smh.json) |
@@ -6526,6 +6531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Social Interaction Trainer | 31531 | [31531-social-interaction-trainer.json](./31531-social-interaction-trainer.json) |
 | Social Space | 398537 | [398537-social-space.json](./398537-social-space.json) |
 | Social Status: Life Simulator | 279103 | [279103-social-status-life-simulator.json](./279103-social-status-life-simulator.json) |
+| Socialize | 182217 | [182217-socialize.json](./182217-socialize.json) |
 | Socialize | 189037 | [189037-socialize.json](./189037-socialize.json) |
 | Society's Paradigms | 152833 | [152833-societys-paradigms.json](./152833-societys-paradigms.json) |
 | Socioball | 128558 | [128558-socioball.json](./128558-socioball.json) |
@@ -9487,6 +9493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad 22: ZOV | 368503 | [368503-squad-22-zov.json](./368503-squad-22-zov.json) |
 | Squad 44 | 81141 | [81141-squad-44.json](./81141-squad-44.json) |
 | Squad Assault | 54395 | [54395-squad-assault.json](./54395-squad-assault.json) |
+| Squad Battles: Grenada | 182273 | [182273-squad-battles-grenada.json](./182273-squad-battles-grenada.json) |
 | Squad Battles: Pacific War | 186150 | [186150-squad-battles-pacific-war.json](./186150-squad-battles-pacific-war.json) |
 | Squad Battles: The Proud and the Few | 186303 | [186303-squad-battles-the-proud-and-the-few.json](./186303-squad-battles-the-proud-and-the-few.json) |
 | Squad Battles: Vietnam | 70966 | [70966-squad-battles-vietnam.json](./70966-squad-battles-vietnam.json) |
@@ -13270,6 +13277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid World | 323293 | [323293-super-metroid-world.json](./323293-super-metroid-world.json) |
 | Super Metroid-Revamp | 377257 | [377257-super-metroid-revamp.json](./377257-super-metroid-revamp.json) |
 | Super Metroid: Airy | 255322 | [255322-super-metroid-airy.json](./255322-super-metroid-airy.json) |
+| Super Metroid: Ancient Chozo | 182259 | [182259-super-metroid-ancient-chozo.json](./182259-super-metroid-ancient-chozo.json) |
 | Super Metroid: Battle | 318017 | [318017-super-metroid-battle.json](./318017-super-metroid-battle.json) |
 | Super Metroid: Darkholme Hospital | 213039 | [213039-super-metroid-darkholme-hospital.json](./213039-super-metroid-darkholme-hospital.json) |
 | Super Metroid: Digital Cube | 255369 | [255369-super-metroid-digital-cube.json](./255369-super-metroid-digital-cube.json) |
@@ -14356,6 +14364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Clown: Gozen San-ji no Okashi na Doukeshi | 59989 | [59989-sweet-clown-gozen-san-ji-no-okashi-na-doukeshi.json](./59989-sweet-clown-gozen-san-ji-no-okashi-na-doukeshi.json) |
 | Sweet Collector | 188497 | [188497-sweet-collector.json](./188497-sweet-collector.json) |
 | Sweet Cruise | 339467 | [339467-sweet-cruise.json](./339467-sweet-cruise.json) |
+| Sweet Dance | 182249 | [182249-sweet-dance.json](./182249-sweet-dance.json) |
 | Sweet Delights: The Girl’s Cafe Quest | 339466 | [339466-sweet-delights-the-girl-s-cafe-quest.json](./339466-sweet-delights-the-girl-s-cafe-quest.json) |
 | Sweet Desire | 147380 | [147380-sweet-desire.json](./147380-sweet-desire.json) |
 | Sweet Dream | 172106 | [172106-sweet-dream.json](./172106-sweet-dream.json) |
