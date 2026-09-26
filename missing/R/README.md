@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok Odyssey ACE: Launch Edition | 42668 | [42668-ragnarok-odyssey-ace-launch-edition.json](./42668-ragnarok-odyssey-ace-launch-edition.json) |
 | Ragnarok Online / Grand Chase | 80588 | [80588-ragnarok-online-grand-chase.json](./80588-ragnarok-online-grand-chase.json) |
 | Ragnarok Online 2 | 16484 | [16484-ragnarok-online-2.json](./16484-ragnarok-online-2.json) |
+| Ragnarok Remastered: A Mythic Hating Sim | 181128 | [181128-ragnarok-remastered-a-mythic-hating-sim.json](./181128-ragnarok-remastered-a-mythic-hating-sim.json) |
 | Ragnarok Rush | 110282 | [110282-ragnarok-rush.json](./110282-ragnarok-rush.json) |
 | Ragnarok Survivors: Valhalla | 235683 | [235683-ragnarok-survivors-valhalla.json](./235683-ragnarok-survivors-valhalla.json) |
 | Ragnarok Tactics | 243421 | [243421-ragnarok-tactics.json](./243421-ragnarok-tactics.json) |
@@ -2174,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renxia | 278696 | [278696-renxia.json](./278696-renxia.json) |
 | Reouija Sleepover | 214436 | [214436-reouija-sleepover.json](./214436-reouija-sleepover.json) |
 | Repair Plane | 303790 | [303790-repair-plane.json](./303790-repair-plane.json) |
+| Repair Programming | 181140 | [181140-repair-programming.json](./181140-repair-programming.json) |
 | Repair Shop | 181317 | [181317-repair-shop.json](./181317-repair-shop.json) |
 | Repair This! | 260385 | [260385-repair-this.json](./260385-repair-this.json) |
 | RepairBot | 114403 | [114403-repairbot.json](./114403-repairbot.json) |
@@ -3384,6 +3386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rite of Passage: The Lost Tides HD | 100231 | [100231-rite-of-passage-the-lost-tides-hd.json](./100231-rite-of-passage-the-lost-tides-hd.json) |
 | Rite of Titans | 220706 | [220706-rite-of-titans.json](./220706-rite-of-titans.json) |
 | Ritenuto | 353875 | [353875-ritenuto.json](./353875-ritenuto.json) |
+| Rites of a Mailmare | 181141 | [181141-rites-of-a-mailmare.json](./181141-rites-of-a-mailmare.json) |
 | Ritsu Reasoning 2 Lost Memories | 391862 | [391862-ritsu-reasoning-2-lost-memories.json](./391862-ritsu-reasoning-2-lost-memories.json) |
 | Rittai Ninja Katsugeki Tenchu: Shinobi Gaisen | 64910 | [64910-rittai-ninja-katsugeki-tenchu-shinobi-gaisen.json](./64910-rittai-ninja-katsugeki-tenchu-shinobi-gaisen.json) |
 | Rittai Ninja Katsugeki Tenchu: Shinobi Hyakusen | 64911 | [64911-rittai-ninja-katsugeki-tenchu-shinobi-hyakusen.json](./64911-rittai-ninja-katsugeki-tenchu-shinobi-hyakusen.json) |
