@@ -2902,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WonderLang French | 312549 | [312549-wonderlang-french.json](./312549-wonderlang-french.json) |
 | Wonderlang Korean | 345031 | [345031-wonderlang-korean.json](./345031-wonderlang-korean.json) |
 | WonderLang Spanish | 381733 | [381733-wonderlang-spanish.json](./381733-wonderlang-spanish.json) |
+| Wonderputt Forever | 187829 | [187829-wonderputt-forever.json](./187829-wonderputt-forever.json) |
 | Wonders of the Deep | 369214 | [369214-wonders-of-the-deep.json](./369214-wonders-of-the-deep.json) |
 | Wonders of Waldwea | 355557 | [355557-wonders-of-waldwea.json](./355557-wonders-of-waldwea.json) |
 | Wondersnake | 245383 | [245383-wondersnake.json](./245383-wondersnake.json) |
