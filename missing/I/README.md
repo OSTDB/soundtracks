@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Tap Pirate. A Sea Survival Adventure Game | 103535 | [103535-i-tap-pirate-a-sea-survival-adventure-game.json](./103535-i-tap-pirate-a-sea-survival-adventure-game.json) |
 | I Think | 301265 | [301265-i-think.json](./301265-i-think.json) |
 | I Think I'm in Love with a Demon Prince | 268985 | [268985-i-think-im-in-love-with-a-demon-prince.json](./268985-i-think-im-in-love-with-a-demon-prince.json) |
+| I told you | 220041 | [220041-i-told-you.json](./220041-i-told-you.json) |
 | I Too Can Grow | 179058 | [179058-i-too-can-grow.json](./179058-i-too-can-grow.json) |
 | I Traveled Back to 5 Days Before the Apocalypse | 379554 | [379554-i-traveled-back-to-5-days-before-the-apocalypse.json](./379554-i-traveled-back-to-5-days-before-the-apocalypse.json) |
 | I Wanna Be the Cat | 76580 | [76580-i-wanna-be-the-cat.json](./76580-i-wanna-be-the-cat.json) |
@@ -233,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Be the King! | 367960 | [367960-i-wanna-be-the-king.json](./367960-i-wanna-be-the-king.json) |
 | I Wanna Eat the Lemon | 191263 | [191263-i-wanna-eat-the-lemon.json](./191263-i-wanna-eat-the-lemon.json) |
 | I Wanna Fly | 115451 | [115451-i-wanna-fly.json](./115451-i-wanna-fly.json) |
+| I Wanna Go Home | 220043 | [220043-i-wanna-go-home.json](./220043-i-wanna-go-home.json) |
 | I Wanna How Many Bottles of Coke Zero Can Badlands Chug in 3 Minutes? Watch & See! | 210657 | [210657-i-wanna-how-many-bottles-of-coke-zero-can-badlands-chug-in-3-minutes-watch-and-see.json](./210657-i-wanna-how-many-bottles-of-coke-zero-can-badlands-chug-in-3-minutes-watch-and-see.json) |
 | I Wanna Kill the Guy | 80532 | [80532-i-wanna-kill-the-guy.json](./80532-i-wanna-kill-the-guy.json) |
 | I Wanna Kill the Kamilia 3 | 113466 | [113466-i-wanna-kill-the-kamilia-3.json](./113466-i-wanna-kill-the-kamilia-3.json) |
@@ -2214,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inverse Ninjas vs. The Public Domain | 277593 | [277593-inverse-ninjas-vs-the-public-domain.json](./277593-inverse-ninjas-vs-the-public-domain.json) |
 | Inversed | 310575 | [310575-inversed.json](./310575-inversed.json) |
 | Inversion | 7020 | [7020-inversion.json](./7020-inversion.json) |
+| Inversion Institute | 220038 | [220038-inversion-institute.json](./220038-inversion-institute.json) |
 | Inversus | 19608 | [19608-inversus.json](./19608-inversus.json) |
 | Invert | 383504 | [383504-invert.json](./383504-invert.json) |
 | Invert by SlushyRh | 265144 | [265144-invert-by-slushyrh.json](./265144-invert-by-slushyrh.json) |
@@ -2420,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is it Love ? Nicolae Vampire | 109023 | [109023-is-it-love-nicolae-vampire.json](./109023-is-it-love-nicolae-vampire.json) |
 | Is it Love? Blue Swan Hospital | 116392 | [116392-is-it-love-blue-swan-hospital.json](./116392-is-it-love-blue-swan-hospital.json) |
 | Is it OK to pick up Anomalies at a University? | 301946 | [301946-is-it-ok-to-pick-up-anomalies-at-a-university.json](./301946-is-it-ok-to-pick-up-anomalies-at-a-university.json) |
+| Is It Wrong to Repay the Debt in a Dungeon? | 220040 | [220040-is-it-wrong-to-repay-the-debt-in-a-dungeon.json](./220040-is-it-wrong-to-repay-the-debt-in-a-dungeon.json) |
 | Is It Wrong to Try to Pick Up Girls in a Dungeon?: Battle Chronicle | 287107 | [287107-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-battle-chronicle.json](./287107-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-battle-chronicle.json) |
 | Is It Wrong To Try To Rescue Monster Girls From The Inquisition? | 247774 | [247774-is-it-wrong-to-try-to-rescue-monster-girls-from-the-inquisition.json](./247774-is-it-wrong-to-try-to-rescue-monster-girls-from-the-inquisition.json) |
 | Is That a Human Organ? | 414414 | [414414-is-that-a-human-organ.json](./414414-is-that-a-human-organ.json) |
@@ -2452,6 +2456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Frontline | 273887 | [273887-isekai-frontline.json](./273887-isekai-frontline.json) |
 | Isekai Harem Quest: Love, Blades, and Power | 334180 | [334180-isekai-harem-quest-love-blades-and-power.json](./334180-isekai-harem-quest-love-blades-and-power.json) |
 | Isekai HKV | 388726 | [388726-isekai-hkv.json](./388726-isekai-hkv.json) |
+| Isekai Janken Hero | 220039 | [220039-isekai-janken-hero.json](./220039-isekai-janken-hero.json) |
 | Isekai Mage | 345689 | [345689-isekai-mage.json](./345689-isekai-mage.json) |
 | Isekai Mining Defense | 348229 | [348229-isekai-mining-defense.json](./348229-isekai-mining-defense.json) |
 | Isekai Musume Hatsujouchuu: Ore no Are wo Hamu-hamu Shimakuri!? | 194592 | [194592-isekai-musume-hatsujouchuu-ore-no-are-wo-hamu-hamu-shimakuri.json](./194592-isekai-musume-hatsujouchuu-ore-no-are-wo-hamu-hamu-shimakuri.json) |
