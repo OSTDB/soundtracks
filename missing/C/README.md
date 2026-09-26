@@ -439,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candelabra Estoscerro | 143077 | [143077-candelabra-estoscerro.json](./143077-candelabra-estoscerro.json) |
 | Candice DeBebe's Incredibly Trick Lifestyle | 33246 | [33246-candice-debebes-incredibly-trick-lifestyle.json](./33246-candice-debebes-incredibly-trick-lifestyle.json) |
 | Candice DeBebe's Scandalous Secrets | 110931 | [110931-candice-debebes-scandalous-secrets.json](./110931-candice-debebes-scandalous-secrets.json) |
+| Candice DeBebe's Tantalising Tricks | 223396 | [223396-candice-debebes-tantalising-tricks.json](./223396-candice-debebes-tantalising-tricks.json) |
 | Candied Violets | 178527 | [178527-candied-violets.json](./178527-candied-violets.json) |
 | Candivity: Deep Mines DLC | 324431 | [324431-candivity-deep-mines-dlc.json](./324431-candivity-deep-mines-dlc.json) |
 | Candivity: Outer Space DLC | 324432 | [324432-candivity-outer-space-dlc.json](./324432-candivity-outer-space-dlc.json) |
@@ -1779,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Command | 292609 | [292609-cave-command.json](./292609-cave-command.json) |
 | Cave Crave: Tham Luang Cave VR | 406192 | [406192-cave-crave-tham-luang-cave-vr.json](./406192-cave-crave-tham-luang-cave-vr.json) |
 | Cave Crawler 2 | 318216 | [318216-cave-crawler-2.json](./318216-cave-crawler-2.json) |
+| Cave Crawlers | 223392 | [223392-cave-crawlers.json](./223392-cave-crawlers.json) |
 | Cave Crusade | 343244 | [343244-cave-crusade.json](./343244-cave-crusade.json) |
 | Cave Digger 2 | 266177 | [266177-cave-digger-2.json](./266177-cave-digger-2.json) |
 | Cave Digger 2: Mixed Reality Expansion | 306958 | [306958-cave-digger-2-mixed-reality-expansion.json](./306958-cave-digger-2-mixed-reality-expansion.json) |
@@ -2355,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasing Kaleidorider | 343321 | [343321-chasing-kaleidorider.json](./343321-chasing-kaleidorider.json) |
 | Chasing Tail | 160240 | [160240-chasing-tail.json](./160240-chasing-tail.json) |
 | Chasing the Universe | 367524 | [367524-chasing-the-universe.json](./367524-chasing-the-universe.json) |
+| Chasing the Unseen | 223414 | [223414-chasing-the-unseen.json](./223414-chasing-the-unseen.json) |
 | Chasing the wind | 150697 | [150697-chasing-the-wind.json](./150697-chasing-the-wind.json) |
 | ChasingCube | 243083 | [243083-chasingcube.json](./243083-chasingcube.json) |
 | Chasm | 255661 | [255661-chasm.json](./255661-chasm.json) |
