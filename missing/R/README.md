@@ -2054,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relive | 34413 | [34413-relive.json](./34413-relive.json) |
 | Relms | 125992 | [125992-relms.json](./125992-relms.json) |
 | Relo | 295306 | [295306-relo.json](./295306-relo.json) |
+| Reload | 183874 | [183874-reload.json](./183874-reload.json) |
 | Reload 2 Remember | 227470 | [227470-reload-2-remember.json](./227470-reload-2-remember.json) |
 | Reload Map Jam | 271844 | [271844-reload-map-jam.json](./271844-reload-map-jam.json) |
 | Relumine | 174277 | [174277-relumine.json](./174277-relumine.json) |
@@ -4778,6 +4779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Alchemy: Bestiary I | 324487 | [324487-rpg-alchemy-bestiary-i.json](./324487-rpg-alchemy-bestiary-i.json) |
 | RPG Boss Battle | 104441 | [104441-rpg-boss-battle.json](./104441-rpg-boss-battle.json) |
 | RPG Bundle | 263559 | [263559-rpg-bundle.json](./263559-rpg-bundle.json) |
+| RPG Clicker | 183885 | [183885-rpg-clicker.json](./183885-rpg-clicker.json) |
 | RPG Creator for iOS | 61099 | [61099-rpg-creator-for-ios.json](./61099-rpg-creator-for-ios.json) |
 | RPG Driver | 126560 | [126560-rpg-driver.json](./126560-rpg-driver.json) |
 | RPG Golf with Vampires | 263759 | [263759-rpg-golf-with-vampires.json](./263759-rpg-golf-with-vampires.json) |
