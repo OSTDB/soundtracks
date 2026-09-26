@@ -2358,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resistance Forces | 235445 | [235445-resistance-forces.json](./235445-resistance-forces.json) |
 | Resistance Is Brutal | 403572 | [403572-resistance-is-brutal.json](./403572-resistance-is-brutal.json) |
 | Resistance Rocks | 270711 | [270711-resistance-rocks.json](./270711-resistance-rocks.json) |
+| Resistance: The 8th Wave | 192689 | [192689-resistance-the-8th-wave.json](./192689-resistance-the-8th-wave.json) |
 | Resistor | 252786 | [252786-resistor.json](./252786-resistor.json) |
 | Resobeat | 377046 | [377046-resobeat.json](./377046-resobeat.json) |
 | Resolutiion | 121996 | [121996-resolutiion.json](./121996-resolutiion.json) |
@@ -4005,6 +4006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockstar Alien Killers | 102796 | [102796-rockstar-alien-killers.json](./102796-rockstar-alien-killers.json) |
 | Rockstar DressUp | 104596 | [104596-rockstar-dressup.json](./104596-rockstar-dressup.json) |
 | Rockstar Games Collection: Edition 1 | 41587 | [41587-rockstar-games-collection-edition-1.json](./41587-rockstar-games-collection-edition-1.json) |
+| Rockstar Life | 192668 | [192668-rockstar-life.json](./192668-rockstar-life.json) |
 | Rockstar! | 78693 | [78693-rockstar.json](./78693-rockstar.json) |
 | Rocktopus | 301904 | [301904-rocktopus.json](./301904-rocktopus.json) |
 | Rocky | 247438 | [247438-rocky.json](./247438-rocky.json) |
