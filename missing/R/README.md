@@ -4082,6 +4082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogueline | 209659 | [209659-rogueline.json](./209659-rogueline.json) |
 | RogueLive | 291769 | [291769-roguelive.json](./291769-roguelive.json) |
 | Roguemance | 27198 | [27198-roguemance.json](./27198-roguemance.json) |
+| Roguematch: The Extraplanar Invasion | 217273 | [217273-roguematch-the-extraplanar-invasion.json](./217273-roguematch-the-extraplanar-invasion.json) |
 | Roguemon | 374728 | [374728-roguemon.json](./374728-roguemon.json) |
 | RogueMusk | 272942 | [272942-roguemusk.json](./272942-roguemusk.json) |
 | Rogues Like Beer | 183014 | [183014-rogues-like-beer.json](./183014-rogues-like-beer.json) |
@@ -4711,6 +4712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ru Lin Wai Shi Fan Jin | 258455 | [258455-ru-lin-wai-shi-fan-jin.json](./258455-ru-lin-wai-shi-fan-jin.json) |
 | Ruarua.ru | 369558 | [369558-ruarua-ru.json](./369558-ruarua-ru.json) |
 | Rubbadubbers | 335108 | [335108-rubbadubbers.json](./335108-rubbadubbers.json) |
+| Rubber | 217272 | [217272-rubber.json](./217272-rubber.json) |
 | Rubber Bandits: Animal Bandits | 297456 | [297456-rubber-bandits-animal-bandits.json](./297456-rubber-bandits-animal-bandits.json) |
 | Rubber Bandits: Go Wild Pack | 225071 | [225071-rubber-bandits-go-wild-pack.json](./225071-rubber-bandits-go-wild-pack.json) |
 | Rubber Bird | 404862 | [404862-rubber-bird.json](./404862-rubber-bird.json) |
