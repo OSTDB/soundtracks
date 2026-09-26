@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love Me, I Love Me Not | 313095 | [313095-i-love-me-i-love-me-not.json](./313095-i-love-me-i-love-me-not.json) |
 | I Love my Cats | 84542 | [84542-i-love-my-cats.json](./84542-i-love-my-cats.json) |
 | I Love My Dogs | 84541 | [84541-i-love-my-dogs.json](./84541-i-love-my-dogs.json) |
+| I Love My Job! | 177845 | [177845-i-love-my-job.json](./177845-i-love-my-job.json) |
 | I Love My Little Girl | 84540 | [84540-i-love-my-little-girl.json](./84540-i-love-my-little-girl.json) |
 | I Love My Pony | 85190 | [85190-i-love-my-pony.json](./85190-i-love-my-pony.json) |
 | I Love Puppies! | 210080 | [210080-i-love-puppies.json](./210080-i-love-puppies.json) |
@@ -1242,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Mood for Youth | 348799 | [348799-in-the-mood-for-youth.json](./348799-in-the-mood-for-youth.json) |
 | In the Mountains | 192325 | [192325-in-the-mountains.json](./192325-in-the-mountains.json) |
 | In The Night You Had Bad Dreams | 340758 | [340758-in-the-night-you-had-bad-dreams.json](./340758-in-the-night-you-had-bad-dreams.json) |
+| In the Pause Between the Ringing. | 177831 | [177831-in-the-pause-between-the-ringing.json](./177831-in-the-pause-between-the-ringing.json) |
 | In the Pines | 341875 | [341875-in-the-pines.json](./341875-in-the-pines.json) |
 | In the pines, in the pines, where the sun never shines | 177514 | [177514-in-the-pines-in-the-pines-where-the-sun-never-shines.json](./177514-in-the-pines-in-the-pines-where-the-sun-never-shines.json) |
 | In the Raven Shadow – Ve stínu havrana | 44247 | [44247-in-the-raven-shadow-ve-stinu-havrana.json](./44247-in-the-raven-shadow-ve-stinu-havrana.json) |
