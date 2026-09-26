@@ -3795,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bladenet | 68166 | [68166-bladenet.json](./68166-bladenet.json) |
 | Bladequest: The First Chapter - Gold | 106548 | [106548-bladequest-the-first-chapter-gold.json](./106548-bladequest-the-first-chapter-gold.json) |
 | BladeRite: Rivals | 409794 | [409794-bladerite-rivals.json](./409794-bladerite-rivals.json) |
+| Blades Adrift | 176272 | [176272-blades-adrift.json](./176272-blades-adrift.json) |
 | Blades and Bullets | 277279 | [277279-blades-and-bullets.json](./277279-blades-and-bullets.json) |
 | Blades and Rings | 82122 | [82122-blades-and-rings.json](./82122-blades-and-rings.json) |
 | Blades of Avernum | 73536 | [73536-blades-of-avernum.json](./73536-blades-of-avernum.json) |
@@ -6644,6 +6645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bucket Crusher: Cool Kidz | 287162 | [287162-bucket-crusher-cool-kidz.json](./287162-bucket-crusher-cool-kidz.json) |
 | Bucket Crusher: Holiday Spirit | 287161 | [287161-bucket-crusher-holiday-spirit.json](./287161-bucket-crusher-holiday-spirit.json) |
 | Bucket List | 22741 | [22741-bucket-list.json](./22741-bucket-list.json) |
+| Bucketneers | 176281 | [176281-bucketneers.json](./176281-bucketneers.json) |
 | Bucko | 236359 | [236359-bucko.json](./236359-bucko.json) |
 | Bucky O'Hare | 18808 | [18808-bucky-ohare.json](./18808-bucky-ohare.json) |
 | Bud Farm: Munchie Match | 245347 | [245347-bud-farm-munchie-match.json](./245347-bud-farm-munchie-match.json) |
