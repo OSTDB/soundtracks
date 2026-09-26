@@ -1674,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sealchain | 274540 | [274540-sealchain.json](./274540-sealchain.json) |
 | Sealed | 306661 | [306661-sealed.json](./306661-sealed.json) |
 | Sealed Bite: Extended | 291228 | [291228-sealed-bite-extended.json](./291228-sealed-bite-extended.json) |
+| Sealer of Dungeons | 211707 | [211707-sealer-of-dungeons.json](./211707-sealer-of-dungeons.json) |
 | Seals From the Frosty Bay | 402302 | [402302-seals-from-the-frosty-bay.json](./402302-seals-from-the-frosty-bay.json) |
 | Seaman 2 | 11446 | [11446-seaman-2.json](./11446-seaman-2.json) |
 | Seamongrel | 342269 | [342269-seamongrel.json](./342269-seamongrel.json) |
@@ -2889,6 +2890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shady Business | 408028 | [408028-shady-business.json](./408028-shady-business.json) |
 | Shady Wars | 260764 | [260764-shady-wars.json](./260764-shady-wars.json) |
 | Shady's Stone Smash | 63567 | [63567-shadys-stone-smash.json](./63567-shadys-stone-smash.json) |
+| Shafted | 211692 | [211692-shafted.json](./211692-shafted.json) |
 | Shafted | 358931 | [358931-shafted.json](./358931-shafted.json) |
 | Shaiya | 85841 | [85841-shaiya.json](./85841-shaiya.json) |
 | Shake | 383508 | [383508-shake.json](./383508-shake.json) |
@@ -7506,6 +7508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Recursion | 172183 | [172183-soul-recursion.json](./172183-soul-recursion.json) |
 | Soul Redemption | 369065 | [369065-soul-redemption.json](./369065-soul-redemption.json) |
 | Soul Ride | 70976 | [70976-soul-ride.json](./70976-soul-ride.json) |
+| Soul Riders | 211672 | [211672-soul-riders.json](./211672-soul-riders.json) |
 | Soul Runner | 285563 | [285563-soul-runner.json](./285563-soul-runner.json) |
 | Soul Rush | 340200 | [340200-soul-rush.json](./340200-soul-rush.json) |
 | Soul Sacrifice Delta | 6061 | [6061-soul-sacrifice-delta.json](./6061-soul-sacrifice-delta.json) |
@@ -10473,6 +10476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Civilizations | 176373 | [176373-steel-civilizations.json](./176373-steel-civilizations.json) |
 | Steel Commanders | 323191 | [323191-steel-commanders.json](./323191-steel-commanders.json) |
 | Steel Covenant | 339665 | [339665-steel-covenant.json](./339665-steel-covenant.json) |
+| Steel Defier | 211680 | [211680-steel-defier.json](./211680-steel-defier.json) |
 | Steel Division 2: Nemesis - Battle of Rimini | 143080 | [143080-steel-division-2-nemesis-battle-of-rimini.json](./143080-steel-division-2-nemesis-battle-of-rimini.json) |
 | Steel Division 2: Nemesis #4 - Storming Toulon | 157535 | [157535-steel-division-2-nemesis-4-storming-toulon.json](./157535-steel-division-2-nemesis-4-storming-toulon.json) |
 | Steel Division 2: Reinforcement Pack #11 | 157542 | [157542-steel-division-2-reinforcement-pack-11.json](./157542-steel-division-2-reinforcement-pack-11.json) |
@@ -11840,6 +11844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suez Canal Girl | 368042 | [368042-suez-canal-girl.json](./368042-suez-canal-girl.json) |
 | Suez Canal Simulator | 149409 | [149409-suez-canal-simulator.json](./149409-suez-canal-simulator.json) |
 | Suffer | 110650 | [110650-suffer.json](./110650-suffer.json) |
+| Suffer 2 | 211689 | [211689-suffer-2.json](./211689-suffer-2.json) |
 | Sufficiency | 262922 | [262922-sufficiency.json](./262922-sufficiency.json) |
 | Suffocation | 295871 | [295871-suffocation.json](./295871-suffocation.json) |
 | SUGA: Survival Game | 376470 | [376470-suga-survival-game.json](./376470-suga-survival-game.json) |
@@ -13357,6 +13362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sprint | 217981 | [217981-super-sprint.json](./217981-super-sprint.json) |
 | Super Spy Agents 3D | 197879 | [197879-super-spy-agents-3d.json](./197879-super-spy-agents-3d.json) |
 | Super Spy Violet | 335252 | [335252-super-spy-violet.json](./335252-super-spy-violet.json) |
+| Super Spyroxo Adventures: Island of Dnfoo | 211685 | [211685-super-spyroxo-adventures-island-of-dnfoo.json](./211685-super-spyroxo-adventures-island-of-dnfoo.json) |
 | Super Squad | 127075 | [127075-super-squad.json](./127075-super-squad.json) |
 | Super Squad: Super Pack | 155467 | [155467-super-squad-super-pack.json](./155467-super-squad-super-pack.json) |
 | Super Stacey World | 223025 | [223025-super-stacey-world.json](./223025-super-stacey-world.json) |
