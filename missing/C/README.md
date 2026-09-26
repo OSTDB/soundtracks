@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Café 0: The Sleeping Beast - Remastered | 226278 | [226278-cafe-0-the-sleeping-beast-remastered.json](./226278-cafe-0-the-sleeping-beast-remastered.json) |
 | Café Bouvardie | 225269 | [225269-cafe-bouvardie.json](./225269-cafe-bouvardie.json) |
 | Cafe Cafe: Idle Bird Collector | 393813 | [393813-cafe-cafe-idle-bird-collector.json](./393813-cafe-cafe-idle-bird-collector.json) |
+| Cafe Crawlers | 184885 | [184885-cafe-crawlers.json](./184885-cafe-crawlers.json) |
 | Cafe Cuillere | 141888 | [141888-cafe-cuillere.json](./141888-cafe-cuillere.json) |
 | Cafe Dreamland | 333109 | [333109-cafe-dreamland.json](./333109-cafe-dreamland.json) |
 | Café Enchanté: Limited Edition | 254787 | [254787-cafe-enchante-limited-edition.json](./254787-cafe-enchante-limited-edition.json) |
@@ -6356,6 +6357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crafting Story | 175326 | [175326-crafting-story.json](./175326-crafting-story.json) |
 | Crafting Town | 199660 | [199660-crafting-town.json](./199660-crafting-town.json) |
 | Craftmas | 105981 | [105981-craftmas.json](./105981-craftmas.json) |
+| Craftomation 101 | 184890 | [184890-craftomation-101.json](./184890-craftomation-101.json) |
 | Craftopia | 124448 | [124448-craftopia.json](./124448-craftopia.json) |
 | CraftOut | 149016 | [149016-craftout.json](./149016-craftout.json) |
 | CraftPunk | 339335 | [339335-craftpunk.json](./339335-craftpunk.json) |
@@ -7173,6 +7175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowfall | 1126 | [1126-crowfall.json](./1126-crowfall.json) |
 | Crown | 12415 | [12415-crown.json](./12415-crown.json) |
 | Crown | 146111 | [146111-crown.json](./146111-crown.json) |
+| Crown & Cauldron | 184921 | [184921-crown-and-cauldron.json](./184921-crown-and-cauldron.json) |
 | Crown and Council | 18977 | [18977-crown-and-council.json](./18977-crown-and-council.json) |
 | Crown Champion: Legends of the Arena | 31349 | [31349-crown-champion-legends-of-the-arena.json](./31349-crown-champion-legends-of-the-arena.json) |
 | Crown Chase | 412268 | [412268-crown-chase.json](./412268-crown-chase.json) |
@@ -7352,6 +7355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptica | 307157 | [307157-cryptica.json](./307157-cryptica.json) |
 | Cryptid | 253569 | [253569-cryptid.json](./253569-cryptid.json) |
 | Cryptid | 327188 | [327188-cryptid.json](./327188-cryptid.json) |
+| Cryptid Courting | 184901 | [184901-cryptid-courting.json](./184901-cryptid-courting.json) |
 | Cryptid Engine | 348861 | [348861-cryptid-engine.json](./348861-cryptid-engine.json) |
 | Cryptid Time | 320134 | [320134-cryptid-time.json](./320134-cryptid-time.json) |
 | Cryptidate | 181800 | [181800-cryptidate.json](./181800-cryptidate.json) |
