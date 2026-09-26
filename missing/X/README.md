@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xd Clicker | 364511 | [364511-xd-clicker.json](./364511-xd-clicker.json) |
 | xDasher | 132261 | [132261-xdasher.json](./132261-xdasher.json) |
 | XDefiant | 159029 | [159029-xdefiant.json](./159029-xdefiant.json) |
+| Xearz | 215658 | [215658-xearz.json](./215658-xearz.json) |
 | Xecutor | 55021 | [55021-xecutor.json](./55021-xecutor.json) |
 | XeGrader | 352364 | [352364-xegrader.json](./352364-xegrader.json) |
 | XeGrader Plus | 388057 | [388057-xegrader-plus.json](./388057-xegrader-plus.json) |
