@@ -6287,6 +6287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft Control | 88795 | [88795-craft-control.json](./88795-craft-control.json) |
 | Craft Control HD | 107223 | [107223-craft-control-hd.json](./107223-craft-control-hd.json) |
 | Craft Elements | 126577 | [126577-craft-elements.json](./126577-craft-elements.json) |
+| Craft Hero | 194264 | [194264-craft-hero.json](./194264-craft-hero.json) |
 | Craft Jam | 176416 | [176416-craft-jam.json](./176416-craft-jam.json) |
 | Craft Keep VR | 26932 | [26932-craft-keep-vr.json](./26932-craft-keep-vr.json) |
 | Craft Legend | 124631 | [124631-craft-legend.json](./124631-craft-legend.json) |
