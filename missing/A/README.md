@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cat's Way Home | 337791 | [337791-a-cats-way-home.json](./337791-a-cats-way-home.json) |
 | A Ch'ti Bundle | 147792 | [147792-a-chti-bundle.json](./147792-a-chti-bundle.json) |
 | A Challenging Game About Parkour | 379464 | [379464-a-challenging-game-about-parkour.json](./379464-a-challenging-game-about-parkour.json) |
+| A Chamber of Stars | 216710 | [216710-a-chamber-of-stars.json](./216710-a-chamber-of-stars.json) |
 | A Chicken In The Office | 379463 | [379463-a-chicken-in-the-office.json](./379463-a-chicken-in-the-office.json) |
 | A Chinese Ghost Story | 77653 | [77653-a-chinese-ghost-story.json](./77653-a-chinese-ghost-story.json) |
 | A Chocolate World | 277343 | [277343-a-chocolate-world.json](./277343-a-chocolate-world.json) |
@@ -288,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Passive Boy at the Huntress Clinic | 232425 | [232425-a-passive-boy-at-the-huntress-clinic.json](./232425-a-passive-boy-at-the-huntress-clinic.json) |
 | A Passive Boy at the Huntress Clinic | 240215 | [240215-a-passive-boy-at-the-huntress-clinic.json](./240215-a-passive-boy-at-the-huntress-clinic.json) |
 | A Past and Future Secret | 271200 | [271200-a-past-and-future-secret.json](./271200-a-past-and-future-secret.json) |
+| A Peculiar Adventure on Bast | 216720 | [216720-a-peculiar-adventure-on-bast.json](./216720-a-peculiar-adventure-on-bast.json) |
 | A Pequena Grande Crise 2: A Ameaça é Outra Agora | 217797 | [217797-a-pequena-grande-crise-2-a-ameaca-e-outra-agora.json](./217797-a-pequena-grande-crise-2-a-ameaca-e-outra-agora.json) |
 | A Pequena Grande Crise 3: A Queda do Gigante | 217818 | [217818-a-pequena-grande-crise-3-a-queda-do-gigante.json](./217818-a-pequena-grande-crise-3-a-queda-do-gigante.json) |
 | A Perfect Day | 384775 | [384775-a-perfect-day.json](./384775-a-perfect-day.json) |
@@ -1402,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent from C.O.G.O.O. | 234598 | [234598-agent-from-c-o-g-o-o.json](./234598-agent-from-c-o-g-o-o.json) |
 | Agent Gumball: Roguelike Spy Game | 86835 | [86835-agent-gumball-roguelike-spy-game.json](./86835-agent-gumball-roguelike-spy-game.json) |
 | Agent Hugo: Hula Holiday | 43512 | [43512-agent-hugo-hula-holiday.json](./43512-agent-hugo-hula-holiday.json) |
+| Agent in Depth | 216716 | [216716-agent-in-depth.json](./216716-agent-in-depth.json) |
 | Agent Lovesdick | 225635 | [225635-agent-lovesdick.json](./225635-agent-lovesdick.json) |
 | Agent MOO: Maximum Overdeath | 66387 | [66387-agent-moo-maximum-overdeath.json](./66387-agent-moo-maximum-overdeath.json) |
 | Agent Reverb | 235149 | [235149-agent-reverb.json](./235149-agent-reverb.json) |
@@ -5774,6 +5777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrid | 207304 | [207304-astrid.json](./207304-astrid.json) |
 | Astrid & the Witch | 177941 | [177941-astrid-and-the-witch.json](./177941-astrid-and-the-witch.json) |
 | Astrid: Reverie | 223493 | [223493-astrid-reverie.json](./223493-astrid-reverie.json) |
+| Astride | 216726 | [216726-astride.json](./216726-astride.json) |
 | Astro & Suzy Go to the Circus | 397071 | [397071-astro-and-suzy-go-to-the-circus.json](./397071-astro-and-suzy-go-to-the-circus.json) |
 | Astro Assembler | 71506 | [71506-astro-assembler.json](./71506-astro-assembler.json) |
 | Astro Avenger II | 51211 | [51211-astro-avenger-ii.json](./51211-astro-avenger-ii.json) |
