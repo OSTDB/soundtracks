@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Wayne: Vacation Desperation | 241378 | [241378-captain-wayne-vacation-desperation.json](./241378-captain-wayne-vacation-desperation.json) |
 | Captain Whiskers: Incremental Seas | 386443 | [386443-captain-whiskers-incremental-seas.json](./386443-captain-whiskers-incremental-seas.json) |
 | Captain Willie | 285033 | [285033-captain-willie.json](./285033-captain-willie.json) |
+| Captain's Big Day | 176259 | [176259-captains-big-day.json](./176259-captains-big-day.json) |
 | Captain's Call | 403130 | [403130-captains-call.json](./403130-captains-call.json) |
 | Captain's Room | 181130 | [181130-captains-room.json](./181130-captains-room.json) |
 | Captive | 196698 | [196698-captive.json](./196698-captive.json) |
@@ -939,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardinal Cross | 90169 | [90169-cardinal-cross.json](./90169-cardinal-cross.json) |
 | Cardinal Fall | 407576 | [407576-cardinal-fall.json](./407576-cardinal-fall.json) |
 | Cardinal Land: Jigsaw & Tangram Puzzle Blend | 87213 | [87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json](./87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json) |
+| Cardinal Ramship Pirate | 176295 | [176295-cardinal-ramship-pirate.json](./176295-cardinal-ramship-pirate.json) |
 | Cardinal Sequence | 333163 | [333163-cardinal-sequence.json](./333163-cardinal-sequence.json) |
 | CardioCasino | 177924 | [177924-cardiocasino.json](./177924-cardiocasino.json) |
 | CardioEX | 215246 | [215246-cardioex.json](./215246-cardioex.json) |
@@ -7919,6 +7921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed House | 186326 | [186326-cursed-house.json](./186326-cursed-house.json) |
 | Cursed House 11 | 214181 | [214181-cursed-house-11.json](./214181-cursed-house-11.json) |
 | Cursed House 2 | 362928 | [362928-cursed-house-2.json](./362928-cursed-house-2.json) |
+| Cursed Island | 176289 | [176289-cursed-island.json](./176289-cursed-island.json) |
 | Cursed Land | 297237 | [297237-cursed-land.json](./297237-cursed-land.json) |
 | Cursed Legacy | 370707 | [370707-cursed-legacy.json](./370707-cursed-legacy.json) |
 | Cursed Letters | 156673 | [156673-cursed-letters.json](./156673-cursed-letters.json) |
