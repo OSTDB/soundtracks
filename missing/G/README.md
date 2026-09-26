@@ -3455,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Golf | 81277 | [81277-great-golf.json](./81277-great-golf.json) |
 | Great Hero's Beard | 109867 | [109867-great-heros-beard.json](./109867-great-heros-beard.json) |
 | Great Hits | 94734 | [94734-great-hits.json](./94734-great-hits.json) |
+| Great Houses of Calderia | 192680 | [192680-great-houses-of-calderia.json](./192680-great-houses-of-calderia.json) |
 | Great Invasions: The Darkages 350-1066 AD | 66718 | [66718-great-invasions-the-darkages-350-1066-ad.json](./66718-great-invasions-the-darkages-350-1066-ad.json) |
 | Great Little War Game 2 | 61321 | [61321-great-little-war-game-2.json](./61321-great-little-war-game-2.json) |
 | Great Napoleonic Battles | 73267 | [73267-great-napoleonic-battles.json](./73267-great-napoleonic-battles.json) |
