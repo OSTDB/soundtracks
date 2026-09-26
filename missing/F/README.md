@@ -1640,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field & Stream: Trophy Bass 4 | 71459 | [71459-field-and-stream-trophy-bass-4.json](./71459-field-and-stream-trophy-bass-4.json) |
 | Field and Stream Fishing | 99003 | [99003-field-and-stream-fishing.json](./99003-field-and-stream-fishing.json) |
 | Field Breaking | 37040 | [37040-field-breaking.json](./37040-field-breaking.json) |
+| Field Combat | 206086 | [206086-field-combat.json](./206086-field-combat.json) |
 | Field Combat DX | 361327 | [361327-field-combat-dx.json](./361327-field-combat-dx.json) |
 | Field Commander | 42873 | [42873-field-commander.json](./42873-field-commander.json) |
 | Field Goal | 172656 | [172656-field-goal.json](./172656-field-goal.json) |
