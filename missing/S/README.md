@@ -7695,6 +7695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Knight | 122346 | [122346-soul-knight.json](./122346-soul-knight.json) |
 | Soul Knight Prequel | 277857 | [277857-soul-knight-prequel.json](./277857-soul-knight-prequel.json) |
 | Soul Knight: The Forest of Spirits | 237296 | [237296-soul-knight-the-forest-of-spirits.json](./237296-soul-knight-the-forest-of-spirits.json) |
+| Soul Land Reloaded | 174651 | [174651-soul-land-reloaded.json](./174651-soul-land-reloaded.json) |
 | Soul Land: Advent of the Gods | 194020 | [194020-soul-land-advent-of-the-gods.json](./194020-soul-land-advent-of-the-gods.json) |
 | Soul Light | 187407 | [187407-soul-light.json](./187407-soul-light.json) |
 | Soul Locus | 35754 | [35754-soul-locus.json](./35754-soul-locus.json) |
@@ -8980,6 +8981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spies & Soldiers | 132796 | [132796-spies-and-soldiers.json](./132796-spies-and-soldiers.json) |
 | Spies in the Night | 256770 | [256770-spies-in-the-night.json](./256770-spies-in-the-night.json) |
 | Spiiiders | 61596 | [61596-spiiiders.json](./61596-spiiiders.json) |
+| Spike | 174628 | [174628-spike.json](./174628-spike.json) |
 | Spike | 70349 | [70349-spike.json](./70349-spike.json) |
 | Spike a Love Story | 391207 | [391207-spike-a-love-story.json](./391207-spike-a-love-story.json) |
 | Spike City | 100558 | [100558-spike-city.json](./100558-spike-city.json) |
@@ -9917,6 +9919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Hacker | 197364 | [197364-star-hacker.json](./197364-star-hacker.json) |
 | Star Hammer Tactics | 52860 | [52860-star-hammer-tactics.json](./52860-star-hammer-tactics.json) |
 | Star Hammer: The Vanguard Prophecy | 36049 | [36049-star-hammer-the-vanguard-prophecy.json](./36049-star-hammer-the-vanguard-prophecy.json) |
+| Star Healer | 174679 | [174679-star-healer.json](./174679-star-healer.json) |
 | Star Hearts: Launch Point | 200713 | [200713-star-hearts-launch-point.json](./200713-star-hearts-launch-point.json) |
 | Star Hogs: Online & Campaign Battles | 79625 | [79625-star-hogs-online-and-campaign-battles.json](./79625-star-hogs-online-and-campaign-battles.json) |
 | Star Honor | 228388 | [228388-star-honor.json](./228388-star-honor.json) |
