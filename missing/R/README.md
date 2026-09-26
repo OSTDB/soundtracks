@@ -3373,6 +3373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RivenWorld: The First Era | 236937 | [236937-rivenworld-the-first-era.json](./236937-rivenworld-the-first-era.json) |
 | River and Lake Knights | 99423 | [99423-river-and-lake-knights.json](./99423-river-and-lake-knights.json) |
 | River Attack | 291574 | [291574-river-attack.json](./291574-river-attack.json) |
+| River Bones | 204342 | [204342-river-bones.json](./204342-river-bones.json) |
 | River City Girls | 117533 | [117533-river-city-girls.json](./117533-river-city-girls.json) |
 | River City Girls 2 | 152321 | [152321-river-city-girls-2.json](./152321-river-city-girls-2.json) |
 | River City Girls Zero | 137195 | [137195-river-city-girls-zero.json](./137195-river-city-girls-zero.json) |
