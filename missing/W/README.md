@@ -3859,6 +3859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWII: Battle Over Europe | 144311 | [144311-wwii-battle-over-europe.json](./144311-wwii-battle-over-europe.json) |
 | WWII: Battle Over the Pacific | 9391 | [9391-wwii-battle-over-the-pacific.json](./9391-wwii-battle-over-the-pacific.json) |
 | WWII: Battles of the South Pacific | 98945 | [98945-wwii-battles-of-the-south-pacific.json](./98945-wwii-battles-of-the-south-pacific.json) |
+| WWII: Call For Medic | 179485 | [179485-wwii-call-for-medic.json](./179485-wwii-call-for-medic.json) |
 | WWII: Iwo Jima | 95403 | [95403-wwii-iwo-jima.json](./95403-wwii-iwo-jima.json) |
 | WWII: Normandy | 18324 | [18324-wwii-normandy.json](./18324-wwii-normandy.json) |
 | WWII: Rising | 171033 | [171033-wwii-rising.json](./171033-wwii-rising.json) |
