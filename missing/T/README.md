@@ -3678,6 +3678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elephant E | 229040 | [229040-the-elephant-e.json](./229040-the-elephant-e.json) |
 | The Elevator | 326986 | [326986-the-elevator.json](./326986-the-elevator.json) |
 | The Elevator Breakdown | 337700 | [337700-the-elevator-breakdown.json](./337700-the-elevator-breakdown.json) |
+| The Elevator Game | 176256 | [176256-the-elevator-game.json](./176256-the-elevator-game.json) |
 | The Elision Effect | 273415 | [273415-the-elision-effect.json](./273415-the-elision-effect.json) |
 | The Elven Forest VR | 384633 | [384633-the-elven-forest-vr.json](./384633-the-elven-forest-vr.json) |
 | The Elysian Field | 153976 | [153976-the-elysian-field.json](./153976-the-elysian-field.json) |
@@ -4064,6 +4065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fugitives | 330309 | [330309-the-fugitives.json](./330309-the-fugitives.json) |
 | The Full Ann Petting Experience | 409795 | [409795-the-full-ann-petting-experience.json](./409795-the-full-ann-petting-experience.json) |
 | The Full Wormage | 70082 | [70082-the-full-wormage.json](./70082-the-full-wormage.json) |
+| The Funhouse of Satan | 176274 | [176274-the-funhouse-of-satan.json](./176274-the-funhouse-of-satan.json) |
 | The Funny Boneyard | 112335 | [112335-the-funny-boneyard.json](./112335-the-funny-boneyard.json) |
 | The Funskin Project | 345584 | [345584-the-funskin-project.json](./345584-the-funskin-project.json) |
 | The Furniture of Self | 185626 | [185626-the-furniture-of-self.json](./185626-the-furniture-of-self.json) |
@@ -8113,6 +8115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There a no Armadillos in this game | 129212 | [129212-there-a-no-armadillos-in-this-game.json](./129212-there-a-no-armadillos-in-this-game.json) |
 | There Are People In Your Walls | 373644 | [373644-there-are-people-in-your-walls.json](./373644-there-are-people-in-your-walls.json) |
 | There Aren't Really Words... | 135852 | [135852-there-arent-really-words.json](./135852-there-arent-really-words.json) |
+| There be Treasure! | 176258 | [176258-there-be-treasure.json](./176258-there-be-treasure.json) |
 | There Can Be Only One | 181893 | [181893-there-can-be-only-one.json](./181893-there-can-be-only-one.json) |
 | There Can Only be Two | 235711 | [235711-there-can-only-be-two.json](./235711-there-can-only-be-two.json) |
 | There Exists Nobody | 322970 | [322970-there-exists-nobody.json](./322970-there-exists-nobody.json) |
@@ -8309,6 +8312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Is Fine | 177325 | [177325-this-is-fine.json](./177325-this-is-fine.json) |
 | This is Football 2 | 44833 | [44833-this-is-football-2.json](./44833-this-is-football-2.json) |
 | This is Football 2002 | 44626 | [44626-this-is-football-2002.json](./44626-this-is-football-2002.json) |
+| This is hard for me | 176255 | [176255-this-is-hard-for-me.json](./176255-this-is-hard-for-me.json) |
 | This Is How U Look Saying This Shit | 277597 | [277597-this-is-how-u-look-saying-this-shit.json](./277597-this-is-how-u-look-saying-this-shit.json) |
 | This is Interesting | 338943 | [338943-this-is-interesting.json](./338943-this-is-interesting.json) |
 | This is Kiko | 333202 | [333202-this-is-kiko.json](./333202-this-is-kiko.json) |
@@ -9480,6 +9484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Travel | 204489 | [204489-time-travel.json](./204489-time-travel.json) |
 | Time Travel Cafe | 295777 | [295777-time-travel-cafe.json](./295777-time-travel-cafe.json) |
 | Time Traveler | 201849 | [201849-time-traveler.json](./201849-time-traveler.json) |
+| Time Travelling Space Pirates | 176296 | [176296-time-travelling-space-pirates.json](./176296-time-travelling-space-pirates.json) |
 | Time Tripper | 209128 | [209128-time-tripper.json](./209128-time-tripper.json) |
 | Time Tunnel | 12968 | [12968-time-tunnel.json](./12968-time-tunnel.json) |
 | Time Turned | 291469 | [291469-time-turned.json](./291469-time-turned.json) |
@@ -11065,6 +11070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Escape | 204105 | [204105-tower-escape.json](./204105-tower-escape.json) |
 | Tower in the Sky | 30843 | [30843-tower-in-the-sky.json](./30843-tower-in-the-sky.json) |
 | Tower Knight | 298628 | [298628-tower-knight.json](./298628-tower-knight.json) |
+| Tower Lord: Sword Loop Saga | 176267 | [176267-tower-lord-sword-loop-saga.json](./176267-tower-lord-sword-loop-saga.json) |
 | Tower Monster Rush | 309504 | [309504-tower-monster-rush.json](./309504-tower-monster-rush.json) |
 | Tower Networking Inc. | 310040 | [310040-tower-networking-inc.json](./310040-tower-networking-inc.json) |
 | Tower Numbers | 224667 | [224667-tower-numbers.json](./224667-tower-numbers.json) |
@@ -12364,6 +12370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Star | 247746 | [247746-treasure-star.json](./247746-treasure-star.json) |
 | Treasure Tomb VR | 153375 | [153375-treasure-tomb-vr.json](./153375-treasure-tomb-vr.json) |
 | Treasure Trap | 70936 | [70936-treasure-trap.json](./70936-treasure-trap.json) |
+| Treasure Trove Through Time | 176282 | [176282-treasure-trove-through-time.json](./176282-treasure-trove-through-time.json) |
 | Treasure World | 21125 | [21125-treasure-world.json](./21125-treasure-world.json) |
 | Treasures of Oz | 318547 | [318547-treasures-of-oz.json](./318547-treasures-of-oz.json) |
 | Treasures of the Aegean | 146900 | [146900-treasures-of-the-aegean.json](./146900-treasures-of-the-aegean.json) |
@@ -13289,6 +13296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TurretGirls | 347243 | [347243-turretgirls.json](./347243-turretgirls.json) |
 | Turrican 3 | 12803 | [12803-turrican-3.json](./12803-turrican-3.json) |
 | Turrican III | 37098 | [37098-turrican-iii.json](./37098-turrican-iii.json) |
+| Turrim 3D | 176250 | [176250-turrim-3d.json](./176250-turrim-3d.json) |
 | TuRT ToSS | 180681 | [180681-turt-toss.json](./180681-turt-toss.json) |
 | Turte | 309885 | [309885-turte.json](./309885-turte.json) |
 | Turtle | 340391 | [340391-turtle.json](./340391-turtle.json) |
