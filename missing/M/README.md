@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Tower 2018 | 111628 | [111628-magic-tower-2018.json](./111628-magic-tower-2018.json) |
 | Magic Tower Adventure | 173803 | [173803-magic-tower-adventure.json](./173803-magic-tower-adventure.json) |
 | Magic Tower Hero: DungeonKing | 255685 | [255685-magic-tower-hero-dungeonking.json](./255685-magic-tower-hero-dungeonking.json) |
+| Magic Tower Story | 197647 | [197647-magic-tower-story.json](./197647-magic-tower-story.json) |
 | Magic Tower: Tap Defense | 255735 | [255735-magic-tower-tap-defense.json](./255735-magic-tower-tap-defense.json) |
 | Magic Trap | 255143 | [255143-magic-trap.json](./255143-magic-trap.json) |
 | Magic Trap | 303642 | [303642-magic-trap.json](./303642-magic-trap.json) |
@@ -5287,6 +5288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror House Cornflake | 150109 | [150109-mirror-house-cornflake.json](./150109-mirror-house-cornflake.json) |
 | Mirror Image | 322352 | [322352-mirror-image.json](./322352-mirror-image.json) |
 | Mirror Insideout | 331882 | [331882-mirror-insideout.json](./331882-mirror-insideout.json) |
+| Mirror Land | 197631 | [197631-mirror-land.json](./197631-mirror-land.json) |
 | Mirror Land | 91986 | [91986-mirror-land.json](./91986-mirror-land.json) |
 | Mirror Match | 363965 | [363965-mirror-match.json](./363965-mirror-match.json) |
 | Mirror Mirror | 340938 | [340938-mirror-mirror.json](./340938-mirror-mirror.json) |
@@ -5377,6 +5379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Control | 13252 | [13252-missile-control.json](./13252-missile-control.json) |
 | Missile Survivor | 319240 | [319240-missile-survivor.json](./319240-missile-survivor.json) |
 | Missile Tank | 160256 | [160256-missile-tank.json](./160256-missile-tank.json) |
+| Missileman | 197634 | [197634-missileman.json](./197634-missileman.json) |
 | Missileman Clone Commandos! | 131586 | [131586-missileman-clone-commandos.json](./131586-missileman-clone-commandos.json) |
 | Missileman Origins | 33034 | [33034-missileman-origins.json](./33034-missileman-origins.json) |
 | Missileman Spy Strike 2 | 131603 | [131603-missileman-spy-strike-2.json](./131603-missileman-spy-strike-2.json) |
@@ -6368,6 +6371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Spa Center Simulator | 353974 | [353974-monster-spa-center-simulator.json](./353974-monster-spa-center-simulator.json) |
 | Monster Squad | 311649 | [311649-monster-squad.json](./311649-monster-squad.json) |
 | Monster Squad Rush | 208968 | [208968-monster-squad-rush.json](./208968-monster-squad-rush.json) |
+| Monster Stunts | 197677 | [197677-monster-stunts.json](./197677-monster-stunts.json) |
 | Monster Super League | 80238 | [80238-monster-super-league.json](./80238-monster-super-league.json) |
 | Monster Survivors | 246626 | [246626-monster-survivors.json](./246626-monster-survivors.json) |
 | Monster Survivors: Echo Edition | 347329 | [347329-monster-survivors-echo-edition.json](./347329-monster-survivors-echo-edition.json) |
@@ -6388,6 +6392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck Madness 64 | 10615 | [10615-monster-truck-madness-64.json](./10615-monster-truck-madness-64.json) |
 | Monster Truck Montain Offroad | 228105 | [228105-monster-truck-montain-offroad.json](./228105-monster-truck-montain-offroad.json) |
 | Monster Truck Ramp Stunt | 246431 | [246431-monster-truck-ramp-stunt.json](./246431-monster-truck-ramp-stunt.json) |
+| Monster Truck Soccer | 197648 | [197648-monster-truck-soccer.json](./197648-monster-truck-soccer.json) |
 | Monster Truck XT Airport Derby | 86784 | [86784-monster-truck-xt-airport-derby.json](./86784-monster-truck-xt-airport-derby.json) |
 | Monster Trux: Offroad | 21500 | [21500-monster-trux-offroad.json](./21500-monster-trux-offroad.json) |
 | Monster Tutor | 357455 | [357455-monster-tutor.json](./357455-monster-tutor.json) |
