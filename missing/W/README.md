@@ -1638,6 +1638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is 2016? | 384116 | [384116-where-is-2016.json](./384116-where-is-2016.json) |
 | Where is a Toilet!? | 227878 | [227878-where-is-a-toilet.json](./227878-where-is-a-toilet.json) |
 | Where is a Toilet!? | 228682 | [228682-where-is-a-toilet.json](./228682-where-is-a-toilet.json) |
+| Where is Earth? | 221109 | [221109-where-is-earth.json](./221109-where-is-earth.json) |
 | Where Is George | 287702 | [287702-where-is-george.json](./287702-where-is-george.json) |
 | Where Is Here: New Home | 207309 | [207309-where-is-here-new-home.json](./207309-where-is-here-new-home.json) |
 | Where is Love? | 302439 | [302439-where-is-love.json](./302439-where-is-love.json) |
