@@ -4964,6 +4964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combo Haven | 287212 | [287212-combo-haven.json](./287212-combo-haven.json) |
 | Combo Master | 364711 | [364711-combo-master.json](./364711-combo-master.json) |
 | Combo Quest 2 | 102768 | [102768-combo-quest-2.json](./102768-combo-quest-2.json) |
+| Combo! | 184405 | [184405-combo.json](./184405-combo.json) |
 | Combotronica | 373093 | [373093-combotronica.json](./373093-combotronica.json) |
 | Come Alive! | 192176 | [192176-come-alive.json](./192176-come-alive.json) |
 | Come Back: Chapter 1 | 120426 | [120426-come-back-chapter-1.json](./120426-come-back-chapter-1.json) |
@@ -6985,6 +6986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croc Legend of the Gobbos | 315020 | [315020-croc-legend-of-the-gobbos.json](./315020-croc-legend-of-the-gobbos.json) |
 | Croc's World | 87410 | [87410-crocs-world.json](./87410-crocs-world.json) |
 | Croc's World Run | 115465 | [115465-crocs-world-run.json](./115465-crocs-world-run.json) |
+| Crock | 184390 | [184390-crock.json](./184390-crock.json) |
 | Crococo | 406883 | [406883-crococo.json](./406883-crococo.json) |
 | Crocodile Blood: The Final Moments of Kurumizawa Keiko | 394154 | [394154-crocodile-blood-the-final-moments-of-kurumizawa-keiko.json](./394154-crocodile-blood-the-final-moments-of-kurumizawa-keiko.json) |
 | Crocodile Transformator | 217388 | [217388-crocodile-transformator.json](./217388-crocodile-transformator.json) |
@@ -7241,6 +7243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crumble Party! | 339341 | [339341-crumble-party.json](./339341-crumble-party.json) |
 | Crumble's Crisis | 159269 | [159269-crumbles-crisis.json](./159269-crumbles-crisis.json) |
 | Crumbling | 192499 | [192499-crumbling.json](./192499-crumbling.json) |
+| Crumbling Construction, Inc. | 184375 | [184375-crumbling-construction-inc.json](./184375-crumbling-construction-inc.json) |
 | Crunch Bandicoot: Submarine Hunt | 314660 | [314660-crunch-bandicoot-submarine-hunt.json](./314660-crunch-bandicoot-submarine-hunt.json) |
 | Crunch Element | 119770 | [119770-crunch-element.json](./119770-crunch-element.json) |
 | Crunch Time! | 218161 | [218161-crunch-time.json](./218161-crunch-time.json) |
@@ -7632,6 +7635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Light | 229164 | [229164-cubic-light.json](./229164-cubic-light.json) |
 | Cubic Ninja | 6754 | [6754-cubic-ninja.json](./6754-cubic-ninja.json) |
 | Cubic Odyssey | 329371 | [329371-cubic-odyssey.json](./329371-cubic-odyssey.json) |
+| Cubic Snake | 184388 | [184388-cubic-snake.json](./184388-cubic-snake.json) |
 | Cubic Survivor | 255962 | [255962-cubic-survivor.json](./255962-cubic-survivor.json) |
 | Cubic Tetris | 302342 | [302342-cubic-tetris.json](./302342-cubic-tetris.json) |
 | Cubic Worlds | 262287 | [262287-cubic-worlds.json](./262287-cubic-worlds.json) |
@@ -7789,6 +7793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curiosity | 108949 | [108949-curiosity.json](./108949-curiosity.json) |
 | Curiosity | 318392 | [318392-curiosity.json](./318392-curiosity.json) |
 | Curiosity of a Turnabout | 310423 | [310423-curiosity-of-a-turnabout.json](./310423-curiosity-of-a-turnabout.json) |
+| Curiosity Queller | 184392 | [184392-curiosity-queller.json](./184392-curiosity-queller.json) |
 | Curiosmos | 304883 | [304883-curiosmos.json](./304883-curiosmos.json) |
 | Curious Cases | 116470 | [116470-curious-cases.json](./116470-curious-cases.json) |
 | Curious Expedition | 19319 | [19319-curious-expedition.json](./19319-curious-expedition.json) |
@@ -7818,6 +7823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Silence | 385753 | [385753-curse-of-silence.json](./385753-curse-of-silence.json) |
 | Curse of the Abyss | 370919 | [370919-curse-of-the-abyss.json](./370919-curse-of-the-abyss.json) |
 | Curse of the Amethyst Skull | 364568 | [364568-curse-of-the-amethyst-skull.json](./364568-curse-of-the-amethyst-skull.json) |
+| Curse of the Arrow | 184410 | [184410-curse-of-the-arrow.json](./184410-curse-of-the-arrow.json) |
 | Curse of the Azure Bonds | 2461 | [2461-curse-of-the-azure-bonds.json](./2461-curse-of-the-azure-bonds.json) |
 | Curse of the Cobra | 229050 | [229050-curse-of-the-cobra.json](./229050-curse-of-the-cobra.json) |
 | Curse of the Corsair | 245953 | [245953-curse-of-the-corsair.json](./245953-curse-of-the-corsair.json) |
