@@ -2205,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NinMaki | 149942 | [149942-ninmaki.json](./149942-ninmaki.json) |
 | NinNinDays 2 | 230799 | [230799-ninnindays-2.json](./230799-ninnindays-2.json) |
 | NinNinDays2 | 192399 | [192399-ninnindays2.json](./192399-ninnindays2.json) |
+| Nino Maze Lofi II | 193197 | [193197-nino-maze-lofi-ii.json](./193197-nino-maze-lofi-ii.json) |
 | Ninpek | 317577 | [317577-ninpek.json](./317577-ninpek.json) |
 | Ninpen Manmaru | 62714 | [62714-ninpen-manmaru.json](./62714-ninpen-manmaru.json) |
 | Ninpuchi! Cryptoninja Petit | 333933 | [333933-ninpuchi-cryptoninja-petit.json](./333933-ninpuchi-cryptoninja-petit.json) |
