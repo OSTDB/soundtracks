@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Ninjas 1 Cup | 29898 | [29898-2-ninjas-1-cup.json](./29898-2-ninjas-1-cup.json) |
 | 2 of Me | 221177 | [221177-2-of-me.json](./221177-2-of-me.json) |
 | 2 Player Baseball | 245578 | [245578-2-player-baseball.json](./245578-2-player-baseball.json) |
+| 2 Player games : the Challenge | 208905 | [208905-2-player-games-the-challenge.json](./208905-2-player-games-the-challenge.json) |
 | 2 Sectors | 260785 | [260785-2-sectors.json](./260785-2-sectors.json) |
 | 2 Spicy | 66967 | [66967-2-spicy.json](./66967-2-spicy.json) |
 | 2 Synchro Hedgehogs | 167831 | [167831-2-synchro-hedgehogs.json](./167831-2-synchro-hedgehogs.json) |
@@ -615,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2152: Pizza Pocket | 394544 | [394544-2152-pizza-pocket.json](./394544-2152-pizza-pocket.json) |
 | 21Pirates Card Game | 308941 | [308941-21pirates-card-game.json](./308941-21pirates-card-game.json) |
 | 22 Racing Series | 97343 | [97343-22-racing-series.json](./97343-22-racing-series.json) |
+| 2248: Number Puzzle Block Game | 208906 | [208906-2248-number-puzzle-block-game.json](./208906-2248-number-puzzle-block-game.json) |
 | 2260 | 106385 | [106385-2260.json](./106385-2260.json) |
 | 2351: Apocalypsis | 304667 | [304667-2351-apocalypsis.json](./304667-2351-apocalypsis.json) |
 | 24 Hours | 308346 | [308346-24-hours.json](./308346-24-hours.json) |
@@ -867,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 in One: Cave Wonders/Earth Defender/Jaguar Bomber/Soccer Champion | 138731 | [138731-4-in-one-cave-wonders-earth-defender-jaguar-bomber-soccer-champion.json](./138731-4-in-one-cave-wonders-earth-defender-jaguar-bomber-soccer-champion.json) |
 | 4 Kingdoms Supremacy | 297056 | [297056-4-kingdoms-supremacy.json](./297056-4-kingdoms-supremacy.json) |
 | 4 Kyouka Perfect Clear DS: Eigo Onsei Tsuki | 269538 | [269538-4-kyouka-perfect-clear-ds-eigo-onsei-tsuki.json](./269538-4-kyouka-perfect-clear-ds-eigo-onsei-tsuki.json) |
+| 4 Minutes and 33 Seconds of Uniqueness | 208886 | [208886-4-minutes-and-33-seconds-of-uniqueness.json](./208886-4-minutes-and-33-seconds-of-uniqueness.json) |
 | 4 Months of You | 165650 | [165650-4-months-of-you.json](./165650-4-months-of-you.json) |
 | 4 Pics Heroes and Villains | 107184 | [107184-4-pics-heroes-and-villains.json](./107184-4-pics-heroes-and-villains.json) |
 | 4 Rush Together | 316434 | [316434-4-rush-together.json](./316434-4-rush-together.json) |
@@ -883,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4-Lung Boy | 185651 | [185651-4-lung-boy.json](./185651-4-lung-boy.json) |
 | 4-nin Uchi Mahjong | 93369 | [93369-4-nin-uchi-mahjong.json](./93369-4-nin-uchi-mahjong.json) |
 | 4-Play Action Pack (Volume 1) | 86046 | [86046-4-play-action-pack-volume-1.json](./86046-4-play-action-pack-volume-1.json) |
+| 4:32 | 208894 | [208894-4-32.json](./208894-4-32.json) |
 | 4.1.60Co | 295543 | [295543-4-1-60co.json](./295543-4-1-60co.json) |
 | 40 Days | 76539 | [76539-40-days.json](./76539-40-days.json) |
 | 40 Sports Games in 1 | 356845 | [356845-40-sports-games-in-1.json](./356845-40-sports-games-in-1.json) |
