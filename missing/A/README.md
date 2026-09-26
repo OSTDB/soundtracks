@@ -1222,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afallon | 283879 | [283879-afallon.json](./283879-afallon.json) |
 | Affair | 279084 | [279084-affair.json](./279084-affair.json) |
 | Affairs of the Court: Choice of Romance | 32355 | [32355-affairs-of-the-court-choice-of-romance.json](./32355-affairs-of-the-court-choice-of-romance.json) |
+| Affairs of the Court: Choice of Romance - Play as the Consort | 224490 | [224490-affairs-of-the-court-choice-of-romance-play-as-the-consort.json](./224490-affairs-of-the-court-choice-of-romance-play-as-the-consort.json) |
 | Affari Tuoi: Il Gioco Interattivo in DVD | 319739 | [319739-affari-tuoi-il-gioco-interattivo-in-dvd.json](./319739-affari-tuoi-il-gioco-interattivo-in-dvd.json) |
 | Affiliated Homies | 357796 | [357796-affiliated-homies.json](./357796-affiliated-homies.json) |
 | Affinity: Fallen from Paradise | 211262 | [211262-affinity-fallen-from-paradise.json](./211262-affinity-fallen-from-paradise.json) |
@@ -4834,6 +4835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argonauts Path | 309492 | [309492-argonauts-path.json](./309492-argonauts-path.json) |
 | Argonisos | 224625 | [224625-argonisos.json](./224625-argonisos.json) |
 | Argos | 12256 | [12256-argos.json](./12256-argos.json) |
+| Argos: Riders on the Storm | 224509 | [224509-argos-riders-on-the-storm.json](./224509-argos-riders-on-the-storm.json) |
 | Argosy | 408092 | [408092-argosy.json](./408092-argosy.json) |
 | Argument Wars | 207833 | [207833-argument-wars.json](./207833-argument-wars.json) |
 | Argumentum Ad Culpam | 248012 | [248012-argumentum-ad-culpam.json](./248012-argumentum-ad-culpam.json) |
@@ -6067,6 +6069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Escape | 203879 | [203879-atomic-escape.json](./203879-atomic-escape.json) |
 | Atomic Heart: Blood on Crystal | 395854 | [395854-atomic-heart-blood-on-crystal.json](./395854-atomic-heart-blood-on-crystal.json) |
 | Atomic Heart: Enchantment Under the Sea | 325107 | [325107-atomic-heart-enchantment-under-the-sea.json](./325107-atomic-heart-enchantment-under-the-sea.json) |
+| Atomic Heart: Limited Edition | 224481 | [224481-atomic-heart-limited-edition.json](./224481-atomic-heart-limited-edition.json) |
 | Atomic Heart: Ultimate Edition | 396565 | [396565-atomic-heart-ultimate-edition.json](./396565-atomic-heart-ultimate-edition.json) |
 | Atomic Heist | 90091 | [90091-atomic-heist.json](./90091-atomic-heist.json) |
 | Atomic Owl | 283949 | [283949-atomic-owl.json](./283949-atomic-owl.json) |
