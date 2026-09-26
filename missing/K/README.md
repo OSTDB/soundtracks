@@ -1487,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby Fighters 2 Memory Match-Up | 314986 | [314986-kirby-fighters-2-memory-match-up.json](./314986-kirby-fighters-2-memory-match-up.json) |
 | Kirby Gamble Galaxy Stories | 294790 | [294790-kirby-gamble-galaxy-stories.json](./294790-kirby-gamble-galaxy-stories.json) |
 | Kirby Gamble Galaxy Stories: The Future | 395702 | [395702-kirby-gamble-galaxy-stories-the-future.json](./395702-kirby-gamble-galaxy-stories-the-future.json) |
+| Kirby Heardle | 203815 | [203815-kirby-heardle.json](./203815-kirby-heardle.json) |
 | Kirby in Sonic the Hedgehog | 198524 | [198524-kirby-in-sonic-the-hedgehog.json](./198524-kirby-in-sonic-the-hedgehog.json) |
 | Kirby in Sonic the Hedgehog 2 | 198531 | [198531-kirby-in-sonic-the-hedgehog-2.json](./198531-kirby-in-sonic-the-hedgehog-2.json) |
 | Kirby Mass Attack | 3724 | [3724-kirby-mass-attack.json](./3724-kirby-mass-attack.json) |
