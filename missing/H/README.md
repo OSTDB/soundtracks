@@ -267,6 +267,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Candy Break 2: Head to Head | 214515 | [214515-halloween-candy-break-2-head-to-head.json](./214515-halloween-candy-break-2-head-to-head.json) |
 | Halloween Candy Break Head to Head | 210084 | [210084-halloween-candy-break-head-to-head.json](./210084-halloween-candy-break-head-to-head.json) |
 | Halloween Chronicles: Behind the Door | 187938 | [187938-halloween-chronicles-behind-the-door.json](./187938-halloween-chronicles-behind-the-door.json) |
+| Halloween Chronicles: Cursed Family | 186014 | [186014-halloween-chronicles-cursed-family.json](./186014-halloween-chronicles-cursed-family.json) |
+| Halloween Chronicles: Cursed Family - Collector's Edition | 186015 | [186015-halloween-chronicles-cursed-family-collectors-edition.json](./186015-halloween-chronicles-cursed-family-collectors-edition.json) |
 | Halloween Chronicles: Evil Behind a Mask - Collector's Edition | 126665 | [126665-halloween-chronicles-evil-behind-a-mask-collectors-edition.json](./126665-halloween-chronicles-evil-behind-a-mask-collectors-edition.json) |
 | Halloween Decoration Sandbox | 148548 | [148548-halloween-decoration-sandbox.json](./148548-halloween-decoration-sandbox.json) |
 | Halloween Defense | 269008 | [269008-halloween-defense.json](./269008-halloween-defense.json) |
@@ -2263,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herbtales | 207279 | [207279-herbtales.json](./207279-herbtales.json) |
 | Hercules | 95425 | [95425-hercules.json](./95425-hercules.json) |
 | Hercules V: Platinum Edition | 255765 | [255765-hercules-v-platinum-edition.json](./255765-hercules-v-platinum-edition.json) |
+| Hercules: The Legendary Journeys | 186028 | [186028-hercules-the-legendary-journeys.json](./186028-hercules-the-legendary-journeys.json) |
 | Herd!!! | 234004 | [234004-herd.json](./234004-herd.json) |
 | Herdyn, Wanna be MaN | 154575 | [154575-herdyn-wanna-be-man.json](./154575-herdyn-wanna-be-man.json) |
 | Here | 396372 | [396372-here.json](./396372-here.json) |
