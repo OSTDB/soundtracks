@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Manager Italia | 182376 | [182376-tactical-manager-italia.json](./182376-tactical-manager-italia.json) |
 | Tactical Mind | 82788 | [82788-tactical-mind.json](./82788-tactical-mind.json) |
 | Tactical Mind 2 | 125278 | [125278-tactical-mind-2.json](./125278-tactical-mind-2.json) |
+| Tactical Operations Force | 189941 | [189941-tactical-operations-force.json](./189941-tactical-operations-force.json) |
 | Tactical Rampart | 275332 | [275332-tactical-rampart.json](./275332-tactical-rampart.json) |
 | Tactical Soccer the New Season | 34477 | [34477-tactical-soccer-the-new-season.json](./34477-tactical-soccer-the-new-season.json) |
 | Tactical Vengeance: Play the Game | 230924 | [230924-tactical-vengeance-play-the-game.json](./230924-tactical-vengeance-play-the-game.json) |
@@ -9555,6 +9556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Survivors | 413902 | [413902-tiny-survivors.json](./413902-tiny-survivors.json) |
 | Tiny Tactics | 210879 | [210879-tiny-tactics.json](./210879-tiny-tactics.json) |
 | Tiny Tales: Hidden Objects | 285523 | [285523-tiny-tales-hidden-objects.json](./285523-tiny-tales-hidden-objects.json) |
+| Tiny Tank | 189962 | [189962-tiny-tank.json](./189962-tiny-tank.json) |
 | Tiny Tanks | 78904 | [78904-tiny-tanks.json](./78904-tiny-tanks.json) |
 | Tiny Tap Quest | 307066 | [307066-tiny-tap-quest.json](./307066-tiny-tap-quest.json) |
 | Tiny Tennis | 247173 | [247173-tiny-tennis.json](./247173-tiny-tennis.json) |
@@ -13344,6 +13346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Atmospheric Atrocities | 331685 | [331685-two-atmospheric-atrocities.json](./331685-two-atmospheric-atrocities.json) |
 | Two Brothers | 9440 | [9440-two-brothers.json](./9440-two-brothers.json) |
 | Two Cars Stunts Edition | 219529 | [219529-two-cars-stunts-edition.json](./219529-two-cars-stunts-edition.json) |
+| Two Clusters Cold Haven | 189978 | [189978-two-clusters-cold-haven.json](./189978-two-clusters-cold-haven.json) |
 | Two Coins | 151008 | [151008-two-coins.json](./151008-two-coins.json) |
 | Two Colours | 201712 | [201712-two-colours.json](./201712-two-colours.json) |
 | Two Days | 356898 | [356898-two-days.json](./356898-two-days.json) |
