@@ -1685,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Tie Runner | 265720 | [265720-red-tie-runner.json](./265720-red-tie-runner.json) |
 | Red Titans | 259638 | [259638-red-titans.json](./259638-red-titans.json) |
 | Red Trees Rail. CO | 305925 | [305925-red-trees-rail-co.json](./305925-red-trees-rail-co.json) |
+| Red Valley | 199389 | [199389-red-valley.json](./199389-red-valley.json) |
 | Red White Yellow | 152158 | [152158-red-white-yellow.json](./152158-red-white-yellow.json) |
 | Red White Yellow Cruising | 207894 | [207894-red-white-yellow-cruising.json](./207894-red-white-yellow-cruising.json) |
 | Red White Yellow Stingray | 200459 | [200459-red-white-yellow-stingray.json](./200459-red-white-yellow-stingray.json) |
@@ -3739,6 +3740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock 'N Racing Bundle Off Road & Rally | 147798 | [147798-rock-n-racing-bundle-off-road-and-rally.json](./147798-rock-n-racing-bundle-off-road-and-rally.json) |
 | Rock 'N Roll | 90647 | [90647-rock-n-roll.json](./90647-rock-n-roll.json) |
 | Rock 'N' Roll Defense | 33583 | [33583-rock-n-roll-defense.json](./33583-rock-n-roll-defense.json) |
+| Rock 'n' Roll Will Never Die! | 199358 | [199358-rock-n-roll-will-never-die.json](./199358-rock-n-roll-will-never-die.json) |
 | Rock Band | 2685 | [2685-rock-band.json](./2685-rock-band.json) |
 | Rock Band 2 | 2692 | [2692-rock-band-2.json](./2692-rock-band-2.json) |
 | Rock Band 3 | 206953 | [206953-rock-band-3.json](./206953-rock-band-3.json) |
@@ -4675,6 +4677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic: Workplace Worries | 264042 | [264042-roxy-raccoons-pinball-panic-workplace-worries.json](./264042-roxy-raccoons-pinball-panic-workplace-worries.json) |
 | Roxy's Windows | 241477 | [241477-roxys-windows.json](./241477-roxys-windows.json) |
 | Roy's Bizarre Adventure | 234548 | [234548-roys-bizarre-adventure.json](./234548-roys-bizarre-adventure.json) |
+| Roy's Rugs | 199385 | [199385-roys-rugs.json](./199385-roys-rugs.json) |
 | Royal Alchemist | 109734 | [109734-royal-alchemist.json](./109734-royal-alchemist.json) |
 | Royal Birkdale Championship Golf | 93341 | [93341-royal-birkdale-championship-golf.json](./93341-royal-birkdale-championship-golf.json) |
 | Royal Blade | 95879 | [95879-royal-blade.json](./95879-royal-blade.json) |
