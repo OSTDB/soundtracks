@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokiyo | 399856 | [399856-yokiyo.json](./399856-yokiyo.json) |
 | Yoko & Yuki: Dr. Rat's Revenge | 147271 | [147271-yoko-and-yuki-dr-rats-revenge.json](./147271-yoko-and-yuki-dr-rats-revenge.json) |
 | Yoko no Hanashi | 386997 | [386997-yoko-no-hanashi.json](./386997-yoko-no-hanashi.json) |
+| Yoko Redux | 185449 | [185449-yoko-redux.json](./185449-yoko-redux.json) |
 | Yoko Redux: Dreams of a Blue Planet | 191240 | [191240-yoko-redux-dreams-of-a-blue-planet.json](./191240-yoko-redux-dreams-of-a-blue-planet.json) |
 | Yokoi-san Warp | 183022 | [183022-yokoi-san-warp.json](./183022-yokoi-san-warp.json) |
 | Yokoyama Mitsuteru Sangokushi Bangi: Sugoroku Eiyuuki | 37757 | [37757-yokoyama-mitsuteru-sangokushi-bangi-sugoroku-eiyuuki.json](./37757-yokoyama-mitsuteru-sangokushi-bangi-sugoroku-eiyuuki.json) |
