@@ -5103,6 +5103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna de Shitendo DS: Hanshichi Yuumon & Ango & Ago Juurou & Hatamoto Taikutsu Otoko | 269589 | [269589-minna-de-shitendo-ds-hanshichi-yuumon-and-ango-and-ago-juurou-and-hatamoto-taikutsu-otoko.json](./269589-minna-de-shitendo-ds-hanshichi-yuumon-and-ango-and-ago-juurou-and-hatamoto-taikutsu-otoko.json) |
 | Minna de Uchuu Tour: ChariSou DX2 | 222318 | [222318-minna-de-uchuu-tour-charisou-dx2.json](./222318-minna-de-uchuu-tour-charisou-dx2.json) |
 | Minna no Doubutsuen | 69270 | [69270-minna-no-doubutsuen.json](./69270-minna-no-doubutsuen.json) |
+| Minna no Hanafuda | 218988 | [218988-minna-no-hanafuda.json](./218988-minna-no-hanafuda.json) |
 | Minna no Konbini | 67260 | [67260-minna-no-konbini.json](./67260-minna-no-konbini.json) |
 | Minna no Othello | 217925 | [217925-minna-no-othello.json](./217925-minna-no-othello.json) |
 | Minna no Tabou no Nakayoshi Daisakusen | 48628 | [48628-minna-no-tabou-no-nakayoshi-daisakusen.json](./48628-minna-no-tabou-no-nakayoshi-daisakusen.json) |
@@ -5730,6 +5731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moero Crystal H | 121766 | [121766-moero-crystal-h.json](./121766-moero-crystal-h.json) |
 | Moero! Power Dodge | 385559 | [385559-moero-power-dodge.json](./385559-moero-power-dodge.json) |
 | Moero!! Nettou Yakyuu '88 | 59990 | [59990-moero-nettou-yakyuu-88.json](./59990-moero-nettou-yakyuu-88.json) |
+| Moero!! Pro Yakyuu 2016 | 218985 | [218985-moero-pro-yakyuu-2016.json](./218985-moero-pro-yakyuu-2016.json) |
 | Moero!! Pro Yakyuu Homerun Kyousou | 40387 | [40387-moero-pro-yakyuu-homerun-kyousou.json](./40387-moero-pro-yakyuu-homerun-kyousou.json) |
 | Moeru Danmaku STG Moedan | 204490 | [204490-moeru-danmaku-stg-moedan.json](./204490-moeru-danmaku-stg-moedan.json) |
 | Moeru Mahjong: Moejong! | 398475 | [398475-moeru-mahjong-moejong.json](./398475-moeru-mahjong-moejong.json) |
@@ -7266,6 +7268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Holmes: The Monster of the Baskervilles - Collector's Edition | 119688 | [119688-ms-holmes-the-monster-of-the-baskervilles-collectors-edition.json](./119688-ms-holmes-the-monster-of-the-baskervilles-collectors-edition.json) |
 | Ms. Match | 313866 | [313866-ms-match.json](./313866-ms-match.json) |
 | Ms. Pac Person | 209155 | [209155-ms-pac-person.json](./209155-ms-pac-person.json) |
+| Ms. Pac-Man | 219011 | [219011-ms-pac-man.json](./219011-ms-pac-man.json) |
 | Ms. Pac-Man for iPad | 88813 | [88813-ms-pac-man-for-ipad.json](./88813-ms-pac-man-for-ipad.json) |
 | Ms. Pac-Man: Maze Madness | 239193 | [239193-ms-pac-man-maze-madness.json](./239193-ms-pac-man-maze-madness.json) |
 | Ms. Pac-Man: Maze Madness | 3338 | [3338-ms-pac-man-maze-madness.json](./3338-ms-pac-man-maze-madness.json) |
