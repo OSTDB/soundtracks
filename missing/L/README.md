@@ -3318,6 +3318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Key: The Path of Illumination | 318763 | [318763-lost-key-the-path-of-illumination.json](./318763-lost-key-the-path-of-illumination.json) |
 | Lost Kingdoms | 3981 | [3981-lost-kingdoms.json](./3981-lost-kingdoms.json) |
 | Lost Kittens: Maze Garden | 166696 | [166696-lost-kittens-maze-garden.json](./166696-lost-kittens-maze-garden.json) |
+| Lost Lagoon 2: Cursed and Forgotten | 206651 | [206651-lost-lagoon-2-cursed-and-forgotten.json](./206651-lost-lagoon-2-cursed-and-forgotten.json) |
 | Lost Lagoon: The Trail of Destiny | 214018 | [214018-lost-lagoon-the-trail-of-destiny.json](./214018-lost-lagoon-the-trail-of-destiny.json) |
 | Lost Lands X | 334170 | [334170-lost-lands-x.json](./334170-lost-lands-x.json) |
 | Lost Lands: Stories About the Sorceress, the Prince and the Minotaur - Collector's Edition | 416618 | [416618-lost-lands-stories-about-the-sorceress-the-prince-and-the-minotaur-collectors-edition.json](./416618-lost-lands-stories-about-the-sorceress-the-prince-and-the-minotaur-collectors-edition.json) |
