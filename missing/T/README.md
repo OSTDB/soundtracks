@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tally Man | 412399 | [412399-tally-man.json](./412399-tally-man.json) |
 | Talon City: Death from Above | 214173 | [214173-talon-city-death-from-above.json](./214173-talon-city-death-from-above.json) |
 | Talon One: Bounty Hunter | 305521 | [305521-talon-one-bounty-hunter.json](./305521-talon-one-bounty-hunter.json) |
+| Talon's Blade | 221138 | [221138-talons-blade.json](./221138-talons-blade.json) |
 | Talon's End | 300033 | [300033-talons-end.json](./300033-talons-end.json) |
 | Talos VR | 102170 | [102170-talos-vr.json](./102170-talos-vr.json) |
 | Talvisota: Icy Hell | 9095 | [9095-talvisota-icy-hell.json](./9095-talvisota-icy-hell.json) |
@@ -3219,6 +3220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Book | 248713 | [248713-the-dark-book.json](./248713-the-dark-book.json) |
 | The Dark Book 2 | 274489 | [274489-the-dark-book-2.json](./274489-the-dark-book-2.json) |
 | The Dark Climb | 253423 | [253423-the-dark-climb.json](./253423-the-dark-climb.json) |
+| The Dark Crown: Genesis | 221144 | [221144-the-dark-crown-genesis.json](./221144-the-dark-crown-genesis.json) |
 | The Dark Crystal | 14575 | [14575-the-dark-crystal.json](./14575-the-dark-crystal.json) |
 | The Dark Curiosity | 381002 | [381002-the-dark-curiosity.json](./381002-the-dark-curiosity.json) |
 | The Dark Debt | 283769 | [283769-the-dark-debt.json](./283769-the-dark-debt.json) |
@@ -5133,6 +5135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Liar's Tavern | 322981 | [322981-the-liars-tavern.json](./322981-the-liars-tavern.json) |
 | The Librarian: Special Edition | 241360 | [241360-the-librarian-special-edition.json](./241360-the-librarian-special-edition.json) |
 | The Library of Babble | 121620 | [121620-the-library-of-babble.json](./121620-the-library-of-babble.json) |
+| The Lies We Tell Ourselves | 221135 | [221135-the-lies-we-tell-ourselves.json](./221135-the-lies-we-tell-ourselves.json) |
 | The Life and Suffering of Prince Jerian | 312141 | [312141-the-life-and-suffering-of-prince-jerian.json](./312141-the-life-and-suffering-of-prince-jerian.json) |
 | The Life and Suffering of Sir Brante | 138871 | [138871-the-life-and-suffering-of-sir-brante.json](./138871-the-life-and-suffering-of-sir-brante.json) |
 | The Life and Times of Daniel Vastberaden | 368571 | [368571-the-life-and-times-of-daniel-vastberaden.json](./368571-the-life-and-times-of-daniel-vastberaden.json) |
@@ -9012,6 +9015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile World | 131408 | [131408-tile-world.json](./131408-tile-world.json) |
 | Tile-Throwing Legend: Mutsuki | 59382 | [59382-tile-throwing-legend-mutsuki.json](./59382-tile-throwing-legend-mutsuki.json) |
 | Tileburg | 407598 | [407598-tileburg.json](./407598-tileburg.json) |
+| Tilecraft | 221153 | [221153-tilecraft.json](./221153-tilecraft.json) |
 | Tiled Together | 326794 | [326794-tiled-together.json](./326794-tiled-together.json) |
 | TileDynasty FPS Arena | 90572 | [90572-tiledynasty-fps-arena.json](./90572-tiledynasty-fps-arena.json) |
 | Tilefinder | 196857 | [196857-tilefinder.json](./196857-tilefinder.json) |
@@ -9359,6 +9363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Shop | 365094 | [365094-tiny-shop.json](./365094-tiny-shop.json) |
 | Tiny Sim | 181223 | [181223-tiny-sim.json](./181223-tiny-sim.json) |
 | Tiny Sokoban | 228391 | [228391-tiny-sokoban.json](./228391-tiny-sokoban.json) |
+| Tiny Solar System | 221150 | [221150-tiny-solar-system.json](./221150-tiny-solar-system.json) |
 | Tiny Starfighters | 317413 | [317413-tiny-starfighters.json](./317413-tiny-starfighters.json) |
 | Tiny Step | 267333 | [267333-tiny-step.json](./267333-tiny-step.json) |
 | Tiny Strife | 158083 | [158083-tiny-strife.json](./158083-tiny-strife.json) |
