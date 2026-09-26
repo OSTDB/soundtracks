@@ -1539,6 +1539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heileen 1: Sail Away | 17441 | [17441-heileen-1-sail-away.json](./17441-heileen-1-sail-away.json) |
 | Heimdall | 5393 | [5393-heimdall.json](./5393-heimdall.json) |
 | Heimdallr | 174871 | [174871-heimdallr.json](./174871-heimdallr.json) |
+| Heir | 191566 | [191566-heir.json](./191566-heir.json) |
 | Heir Obscure | 164918 | [164918-heir-obscure.json](./164918-heir-obscure.json) |
 | Heir of Darkness | 127250 | [127250-heir-of-darkness.json](./127250-heir-of-darkness.json) |
 | Heir of Light Eclipse | 267351 | [267351-heir-of-light-eclipse.json](./267351-heir-of-light-eclipse.json) |
