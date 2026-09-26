@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dragon's Tale: Fading Light | 264017 | [264017-a-dragons-tale-fading-light.json](./264017-a-dragons-tale-fading-light.json) |
 | A Dragons Dawn | 379560 | [379560-a-dragons-dawn.json](./379560-a-dragons-dawn.json) |
 | A Dream That Never Wakes Up | 236391 | [236391-a-dream-that-never-wakes-up.json](./236391-a-dream-that-never-wakes-up.json) |
+| A Drift for the Irresolute | 180614 | [180614-a-drift-for-the-irresolute.json](./180614-a-drift-for-the-irresolute.json) |
 | A Dual Ascent | 327839 | [327839-a-dual-ascent.json](./327839-a-dual-ascent.json) |
 | A Fábrica dos Números | 287152 | [287152-a-fabrica-dos-numeros.json](./287152-a-fabrica-dos-numeros.json) |
 | A Factory Job | 192455 | [192455-a-factory-job.json](./192455-a-factory-job.json) |
@@ -2215,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Attack | 344944 | [344944-alien-attack.json](./344944-alien-attack.json) |
 | Alien Bash | 76198 | [76198-alien-bash.json](./76198-alien-bash.json) |
 | Alien Battlefield | 232940 | [232940-alien-battlefield.json](./232940-alien-battlefield.json) |
+| Alien Blaster | 180585 | [180585-alien-blaster.json](./180585-alien-blaster.json) |
 | Alien Bob | 293083 | [293083-alien-bob.json](./293083-alien-bob.json) |
 | Alien Breed | 8633 | [8633-alien-breed.json](./8633-alien-breed.json) |
 | Alien Breed 3D | 14239 | [14239-alien-breed-3d.json](./14239-alien-breed-3d.json) |
