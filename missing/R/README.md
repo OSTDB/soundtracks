@@ -3858,6 +3858,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocks'n'Gems | 169451 | [169451-rocksngems.json](./169451-rocksngems.json) |
 | RockSlide | 212798 | [212798-rockslide.json](./212798-rockslide.json) |
 | Rocksmith | 2697 | [2697-rocksmith.json](./2697-rocksmith.json) |
+| Rocksmith 2014 Edition: Remastered - Faith No More: Song Pack | 227199 | [227199-rocksmith-2014-edition-remastered-faith-no-more-song-pack.json](./227199-rocksmith-2014-edition-remastered-faith-no-more-song-pack.json) |
+| Rocksmith 2014 Edition: Remastered - Foo Fighters: Song Pack II | 227200 | [227200-rocksmith-2014-edition-remastered-foo-fighters-song-pack-ii.json](./227200-rocksmith-2014-edition-remastered-foo-fighters-song-pack-ii.json) |
+| Rocksmith 2014 Edition: Remastered - Foreigner: Song Pack | 227201 | [227201-rocksmith-2014-edition-remastered-foreigner-song-pack.json](./227201-rocksmith-2014-edition-remastered-foreigner-song-pack.json) |
+| Rocksmith 2014 Edition: Remastered - Godsmack: Song Pack | 227202 | [227202-rocksmith-2014-edition-remastered-godsmack-song-pack.json](./227202-rocksmith-2014-edition-remastered-godsmack-song-pack.json) |
+| Rocksmith 2014 Edition: Remastered - Good Charlotte: Song Pack | 227203 | [227203-rocksmith-2014-edition-remastered-good-charlotte-song-pack.json](./227203-rocksmith-2014-edition-remastered-good-charlotte-song-pack.json) |
+| Rocksmith 2014 Edition: Remastered - Iron Maiden: Song Pack | 227204 | [227204-rocksmith-2014-edition-remastered-iron-maiden-song-pack.json](./227204-rocksmith-2014-edition-remastered-iron-maiden-song-pack.json) |
+| Rocksmith 2014 Edition: Remastered - Jane's Addiction: Song Pack | 227205 | [227205-rocksmith-2014-edition-remastered-janes-addiction-song-pack.json](./227205-rocksmith-2014-edition-remastered-janes-addiction-song-pack.json) |
+| Rocksmith 2014 Edition: Remastered - Jimi Hendrix: Song Pack I-II-III-IV | 227207 | [227207-rocksmith-2014-edition-remastered-jimi-hendrix-song-pack-i-ii-iii-iv.json](./227207-rocksmith-2014-edition-remastered-jimi-hendrix-song-pack-i-ii-iii-iv.json) |
+| Rocksmith 2014 Edition: Remastered - Linkin Park: Song Pack | 227206 | [227206-rocksmith-2014-edition-remastered-linkin-park-song-pack.json](./227206-rocksmith-2014-edition-remastered-linkin-park-song-pack.json) |
 | Rocksmith 2014: R.E.M. Song Pack | 226937 | [226937-rocksmith-2014-r-e-m-song-pack.json](./226937-rocksmith-2014-r-e-m-song-pack.json) |
 | Rocksmith 2014: Regal Singles Song Pack | 226938 | [226938-rocksmith-2014-regal-singles-song-pack.json](./226938-rocksmith-2014-regal-singles-song-pack.json) |
 | Rocksmith 2014: Rise Against Song Pack | 226936 | [226936-rocksmith-2014-rise-against-song-pack.json](./226936-rocksmith-2014-rise-against-song-pack.json) |
