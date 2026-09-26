@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bug's Life: Active Play | 311677 | [311677-a-bugs-life-active-play.json](./311677-a-bugs-life-active-play.json) |
 | A Building Full of Cats 2 | 301592 | [301592-a-building-full-of-cats-2.json](./301592-a-building-full-of-cats-2.json) |
 | A Business Tycoon | 68025 | [68025-a-business-tycoon.json](./68025-a-business-tycoon.json) |
+| A Butterfly's Dream | 194996 | [194996-a-butterflys-dream.json](./194996-a-butterflys-dream.json) |
 | A Caçadora: Sorriso de Vampiro | 215792 | [215792-a-cacadora-sorriso-de-vampiro.json](./215792-a-cacadora-sorriso-de-vampiro.json) |
 | A Cafe at the End of the World | 389588 | [389588-a-cafe-at-the-end-of-the-world.json](./389588-a-cafe-at-the-end-of-the-world.json) |
 | A Café Couple's Joyful Life of Resistance | 343239 | [343239-a-cafe-couples-joyful-life-of-resistance.json](./343239-a-cafe-couples-joyful-life-of-resistance.json) |
@@ -3455,6 +3456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Gran Global Assault | 240921 | [240921-angry-gran-global-assault.json](./240921-angry-gran-global-assault.json) |
 | Angry Mountain Gods | 183440 | [183440-angry-mountain-gods.json](./183440-angry-mountain-gods.json) |
 | Angry Peppa | 320890 | [320890-angry-peppa.json](./320890-angry-peppa.json) |
+| Angry Pigs | 194980 | [194980-angry-pigs.json](./194980-angry-pigs.json) |
 | Angry Robot Girlfriend | 290508 | [290508-angry-robot-girlfriend.json](./290508-angry-robot-girlfriend.json) |
 | Angry Sonic Maze | 95997 | [95997-angry-sonic-maze.json](./95997-angry-sonic-maze.json) |
 | Angry Space Bees | 149029 | [149029-angry-space-bees.json](./149029-angry-space-bees.json) |
@@ -4648,6 +4650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana Heart | 243694 | [243694-arcana-heart.json](./243694-arcana-heart.json) |
 | Arcana Heart 2 | 15865 | [15865-arcana-heart-2.json](./15865-arcana-heart-2.json) |
 | Arcana Noir | 261833 | [261833-arcana-noir.json](./261833-arcana-noir.json) |
+| Arcana of Paradise: The Tower | 194945 | [194945-arcana-of-paradise-the-tower.json](./194945-arcana-of-paradise-the-tower.json) |
 | Arcana Ritter | 91422 | [91422-arcana-ritter.json](./91422-arcana-ritter.json) |
 | Arcana: Boundless Horizon | 220306 | [220306-arcana-boundless-horizon.json](./220306-arcana-boundless-horizon.json) |
 | Arcana: Heat and Cold - Season 2 | 191241 | [191241-arcana-heat-and-cold-season-2.json](./191241-arcana-heat-and-cold-season-2.json) |
@@ -4863,6 +4866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are You Smarter Than a 5th Grader? Game Time | 197940 | [197940-are-you-smarter-than-a-5th-grader-game-time.json](./197940-are-you-smarter-than-a-5th-grader-game-time.json) |
 | Are You Smarter than a 5th Grader?: Extra Credit | 234304 | [234304-are-you-smarter-than-a-5th-grader-extra-credit.json](./234304-are-you-smarter-than-a-5th-grader-extra-credit.json) |
 | Are You Smarter Than Mario? | 231629 | [231629-are-you-smarter-than-mario.json](./231629-are-you-smarter-than-mario.json) |
+| Are You Smarter Than the Crowd? | 194989 | [194989-are-you-smarter-than-the-crowd.json](./194989-are-you-smarter-than-the-crowd.json) |
 | Are You With Us? | 97715 | [97715-are-you-with-us.json](./97715-are-you-with-us.json) |
 | Are you yet Living? | 271478 | [271478-are-you-yet-living.json](./271478-are-you-yet-living.json) |
 | Area 4643 | 112756 | [112756-area-4643.json](./112756-area-4643.json) |
@@ -5142,6 +5146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Core: Nexus | 19412 | [19412-armored-core-nexus.json](./19412-armored-core-nexus.json) |
 | Armored Core: Silent Line Portable | 21757 | [21757-armored-core-silent-line-portable.json](./21757-armored-core-silent-line-portable.json) |
 | Armored Evolution | 81638 | [81638-armored-evolution.json](./81638-armored-evolution.json) |
+| Armored Firestorm | 194995 | [194995-armored-firestorm.json](./194995-armored-firestorm.json) |
 | Armored Heroes | 242204 | [242204-armored-heroes.json](./242204-armored-heroes.json) |
 | Armored Hunter Gunhound EX | 36391 | [36391-armored-hunter-gunhound-ex.json](./36391-armored-hunter-gunhound-ex.json) |
 | Armored Kitten | 67904 | [67904-armored-kitten.json](./67904-armored-kitten.json) |
@@ -5222,6 +5227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arre Unicornio | 188583 | [188583-arre-unicornio.json](./188583-arre-unicornio.json) |
 | Arrest of a Stone Buddha | 122373 | [122373-arrest-of-a-stone-buddha.json](./122373-arrest-of-a-stone-buddha.json) |
 | Arrival | 256831 | [256831-arrival.json](./256831-arrival.json) |
+| Arrival of the Punnu | 194992 | [194992-arrival-of-the-punnu.json](./194992-arrival-of-the-punnu.json) |
 | Arrival, or Attack of the B-Movie Clichés | 314038 | [314038-arrival-or-attack-of-the-b-movie-cliches.json](./314038-arrival-or-attack-of-the-b-movie-cliches.json) |
 | Arrog | 127144 | [127144-arrog.json](./127144-arrog.json) |
 | Arrogation: Unlight of Day | 220743 | [220743-arrogation-unlight-of-day.json](./220743-arrogation-unlight-of-day.json) |
