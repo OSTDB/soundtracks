@@ -786,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tampon Run | 128574 | [128574-tampon-run.json](./128574-tampon-run.json) |
 | Tampon Trawl | 184123 | [184123-tampon-trawl.json](./184123-tampon-trawl.json) |
 | Tampopo | 317004 | [317004-tampopo.json](./317004-tampopo.json) |
+| Tamriel Rebuilt | 186650 | [186650-tamriel-rebuilt.json](./186650-tamriel-rebuilt.json) |
 | Tamura Mitsuaki no Mahjong Seminar | 48886 | [48886-tamura-mitsuaki-no-mahjong-seminar.json](./48886-tamura-mitsuaki-no-mahjong-seminar.json) |
 | Tan-Tan-Tanuki | 307142 | [307142-tan-tan-tanuki.json](./307142-tan-tan-tanuki.json) |
 | Tanat Online | 366226 | [366226-tanat-online.json](./366226-tanat-online.json) |
@@ -1348,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technic Beat | 24168 | [24168-technic-beat.json](./24168-technic-beat.json) |
 | Technically Frogs Can Fly | 326217 | [326217-technically-frogs-can-fly.json](./326217-technically-frogs-can-fly.json) |
 | Technician Ted | 84242 | [84242-technician-ted.json](./84242-technician-ted.json) |
+| Technicity | 186619 | [186619-technicity.json](./186619-technicity.json) |
 | Technictix | 69252 | [69252-technictix.json](./69252-technictix.json) |
 | Technikiller | 219567 | [219567-technikiller.json](./219567-technikiller.json) |
 | Techno BB | 59397 | [59397-techno-bb.json](./59397-techno-bb.json) |
@@ -1586,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temirana: The Lucky Princess and the Tragic Knights | 200452 | [200452-temirana-the-lucky-princess-and-the-tragic-knights.json](./200452-temirana-the-lucky-princess-and-the-tragic-knights.json) |
 | Temp Zero | 196258 | [196258-temp-zero.json](./196258-temp-zero.json) |
 | Tempaux | 354525 | [354525-tempaux.json](./354525-tempaux.json) |
+| Temperature Adjustment Log #1587325 | 186624 | [186624-temperature-adjustment-log-1587325.json](./186624-temperature-adjustment-log-1587325.json) |
 | Tempest | 143034 | [143034-tempest.json](./143034-tempest.json) |
 | Tempest | 15383 | [15383-tempest.json](./15383-tempest.json) |
 | Tempest | 198939 | [198939-tempest.json](./198939-tempest.json) |
@@ -4367,6 +4370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hidden: Source | 70647 | [70647-the-hidden-source.json](./70647-the-hidden-source.json) |
 | The High Desert | 345134 | [345134-the-high-desert.json](./345134-the-high-desert.json) |
 | The High Tower | 373613 | [373613-the-high-tower.json](./373613-the-high-tower.json) |
+| The Higher Lower Game | 186614 | [186614-the-higher-lower-game.json](./186614-the-higher-lower-game.json) |
 | The Hike | 188920 | [188920-the-hike.json](./188920-the-hike.json) |
 | The Hiker | 279102 | [279102-the-hiker.json](./279102-the-hiker.json) |
 | The Hikyou Tankentai: Choutoko Special | 124270 | [124270-the-hikyou-tankentai-choutoko-special.json](./124270-the-hikyou-tankentai-choutoko-special.json) |
@@ -4717,6 +4721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Taco | 205240 | [205240-the-jumping-taco.json](./205240-the-jumping-taco.json) |
 | The Jumping Taco: Turbo | 210748 | [210748-the-jumping-taco-turbo.json](./210748-the-jumping-taco-turbo.json) |
 | The Jungle | 82395 | [82395-the-jungle.json](./82395-the-jungle.json) |
+| The Jungle Book 2 | 186649 | [186649-the-jungle-book-2.json](./186649-the-jungle-book-2.json) |
 | The Junuary Project | 233603 | [233603-the-junuary-project.json](./233603-the-junuary-project.json) |
 | The Jusou 3 | 289994 | [289994-the-jusou-3.json](./289994-the-jusou-3.json) |
 | The Justitia Files | 232955 | [232955-the-justitia-files.json](./232955-the-justitia-files.json) |
@@ -9837,6 +9842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Moon and Beyond | 203832 | [203832-to-the-moon-and-beyond.json](./203832-to-the-moon-and-beyond.json) |
 | To the Moon: Sigmund Minisode 1 & 2 (Holiday Special) | 332533 | [332533-to-the-moon-sigmund-minisode-1-and-2-holiday-special.json](./332533-to-the-moon-sigmund-minisode-1-and-2-holiday-special.json) |
 | To the Mountain | 331128 | [331128-to-the-mountain.json](./331128-to-the-mountain.json) |
+| To the Ones We Lost | 186600 | [186600-to-the-ones-we-lost.json](./186600-to-the-ones-we-lost.json) |
 | To the Rescue | 359443 | [359443-to-the-rescue.json](./359443-to-the-rescue.json) |
 | To the Rescue! 2 | 99379 | [99379-to-the-rescue-2.json](./99379-to-the-rescue-2.json) |
 | To the Rescue! 3 | 96038 | [96038-to-the-rescue-3.json](./96038-to-the-rescue-3.json) |
