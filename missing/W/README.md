@@ -3087,6 +3087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordsdom 2 | 108287 | [108287-wordsdom-2.json](./108287-wordsdom-2.json) |
 | Wordsearch Attack | 368543 | [368543-wordsearch-attack.json](./368543-wordsearch-attack.json) |
 | WordSearch Kids HD | 107670 | [107670-wordsearch-kids-hd.json](./107670-wordsearch-kids-hd.json) |
+| WordSearch Story: Chapter 1 | 213325 | [213325-wordsearch-story-chapter-1.json](./213325-wordsearch-story-chapter-1.json) |
 | Wordslop | 402911 | [402911-wordslop.json](./402911-wordslop.json) |
 | Wordsock Classic | 253431 | [253431-wordsock-classic.json](./253431-wordsock-classic.json) |
 | Wordspionage | 175391 | [175391-wordspionage.json](./175391-wordspionage.json) |
@@ -3230,6 +3231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Motors 2 | 220722 | [220722-world-of-motors-2.json](./220722-world-of-motors-2.json) |
 | World of Movies: Puzzle Game Challenge | 328463 | [328463-world-of-movies-puzzle-game-challenge.json](./328463-world-of-movies-puzzle-game-challenge.json) |
 | World of One | 39012 | [39012-world-of-one.json](./39012-world-of-one.json) |
+| World of Outlaws: Dirt Racing | 213356 | [213356-world-of-outlaws-dirt-racing.json](./213356-world-of-outlaws-dirt-racing.json) |
 | World of Outlaws: Dirt Racing 2023 - Ultimate Edition | 261877 | [261877-world-of-outlaws-dirt-racing-2023-ultimate-edition.json](./261877-world-of-outlaws-dirt-racing-2023-ultimate-edition.json) |
 | World of Outlaws: Dirt Racing 24 Gold Edition | 330341 | [330341-world-of-outlaws-dirt-racing-24-gold-edition.json](./330341-world-of-outlaws-dirt-racing-24-gold-edition.json) |
 | World of Outlaws: Sprint Cars 2002 | 23474 | [23474-world-of-outlaws-sprint-cars-2002.json](./23474-world-of-outlaws-sprint-cars-2002.json) |
