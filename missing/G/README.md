@@ -2956,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotogra | 387357 | [387357-gotogra.json](./387357-gotogra.json) |
 | Gotouchi Kentei DS | 124018 | [124018-gotouchi-kentei-ds.json](./124018-gotouchi-kentei-ds.json) |
 | Gotta Get Home | 231299 | [231299-gotta-get-home.json](./231299-gotta-get-home.json) |
+| Gotta Protectors: Amazon's Running Diet | 195502 | [195502-gotta-protectors-amazons-running-diet.json](./195502-gotta-protectors-amazons-running-diet.json) |
 | Gotta Protectors: Cart of Darkness | 196318 | [196318-gotta-protectors-cart-of-darkness.json](./196318-gotta-protectors-cart-of-darkness.json) |
 | Gotta Protectors: Cart of Darkness DLC Bundle Packs 1-4 | 223590 | [223590-gotta-protectors-cart-of-darkness-dlc-bundle-packs-1-4.json](./223590-gotta-protectors-cart-of-darkness-dlc-bundle-packs-1-4.json) |
 | Götzendiener | 19661 | [19661-gotzendiener.json](./19661-gotzendiener.json) |
@@ -3659,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridwalker | 405587 | [405587-gridwalker.json](./405587-gridwalker.json) |
 | GridWars | 92989 | [92989-gridwars.json](./92989-gridwars.json) |
 | Gridz | 229815 | [229815-gridz.json](./229815-gridz.json) |
+| Grief Like a Stray Dog | 195531 | [195531-grief-like-a-stray-dog.json](./195531-grief-like-a-stray-dog.json) |
 | Grief Trigger | 236514 | [236514-grief-trigger.json](./236514-grief-trigger.json) |
 | Grieving: Berduka | 372674 | [372674-grieving-berduka.json](./372674-grieving-berduka.json) |
 | Grievous Survivors | 235680 | [235680-grievous-survivors.json](./235680-grievous-survivors.json) |
@@ -3941,6 +3943,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grunder | 278517 | [278517-grunder.json](./278517-grunder.json) |
 | GrundHeim | 235969 | [235969-grundheim.json](./235969-grundheim.json) |
 | Grundlewhack | 380527 | [380527-grundlewhack.json](./380527-grundlewhack.json) |
+| Gruniożerca | 195503 | [195503-gruniozerca.json](./195503-gruniozerca.json) |
+| Gruniożerca 2 | 195505 | [195505-gruniozerca-2.json](./195505-gruniozerca-2.json) |
 | Gruniożerca 3: The Great Cavy Clean-Up | 308402 | [308402-gruniozerca-3-the-great-cavy-clean-up.json](./308402-gruniozerca-3-the-great-cavy-clean-up.json) |
 | Gruniożerca Trilogy | 371253 | [371253-gruniozerca-trilogy.json](./371253-gruniozerca-trilogy.json) |
 | Grunn | 281353 | [281353-grunn.json](./281353-grunn.json) |
