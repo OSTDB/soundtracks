@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H.E.N.T.A.L.K.E.R. | 311098 | [311098-h-e-n-t-a-l-k-e-r.json](./311098-h-e-n-t-a-l-k-e-r.json) |
 | H.E.R.O. | 6112 | [6112-h-e-r-o.json](./6112-h-e-r-o.json) |
 | H.I.v.C.A.: Human Intelligence vs Computer Algorithm | 311102 | [311102-h-i-v-c-a-human-intelligence-vs-computer-algorithm.json](./311102-h-i-v-c-a-human-intelligence-vs-computer-algorithm.json) |
+| H.I.V.E. | 201014 | [201014-h-i-v-e.json](./201014-h-i-v-e.json) |
 | H.O.G.S | 296914 | [296914-h-o-g-s.json](./296914-h-o-g-s.json) |
 | H.O.M.E. | 293170 | [293170-h-o-m-e.json](./293170-h-o-m-e.json) |
 | H@ck3r++ | 179191 | [179191-h-ck3r.json](./179191-h-ck3r.json) |
@@ -4489,6 +4490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hovercraft: Build Fly Retry | 105896 | [105896-hovercraft-build-fly-retry.json](./105896-hovercraft-build-fly-retry.json) |
 | HoverGrease 2 | 330535 | [330535-hovergrease-2.json](./330535-hovergrease-2.json) |
 | Hoverise Rebellion | 204412 | [204412-hoverise-rebellion.json](./204412-hoverise-rebellion.json) |
+| HoverRider | 201002 | [201002-hoverrider.json](./201002-hoverrider.json) |
 | Hovershift | 117695 | [117695-hovershift.json](./117695-hovershift.json) |
 | Hovershift | 336916 | [336916-hovershift.json](./336916-hovershift.json) |
 | Hoversteppers | 262106 | [262106-hoversteppers.json](./262106-hoversteppers.json) |
