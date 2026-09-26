@@ -51,6 +51,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man | 213944 | [213944-pac-man.json](./213944-pac-man.json) |
 | Pac-Man | 218442 | [218442-pac-man.json](./218442-pac-man.json) |
 | Pac-Man | 218443 | [218443-pac-man.json](./218443-pac-man.json) |
+| Pac-Man | 219012 | [219012-pac-man.json](./219012-pac-man.json) |
+| Pac-Man | 219013 | [219013-pac-man.json](./219013-pac-man.json) |
 | Pac-Man | 241905 | [241905-pac-man.json](./241905-pac-man.json) |
 | Pac-Man | 277394 | [277394-pac-man.json](./277394-pac-man.json) |
 | Pac-Man | 277395 | [277395-pac-man.json](./277395-pac-man.json) |
@@ -2261,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix! | 233641 | [233641-phoenix.json](./233641-phoenix.json) |
 | Phoenotopia | 313272 | [313272-phoenotopia.json](./313272-phoenotopia.json) |
 | Phoenotopia: Awakening | 136805 | [136805-phoenotopia-awakening.json](./136805-phoenotopia-awakening.json) |
+| Phone | 218998 | [218998-phone.json](./218998-phone.json) |
 | Phone Flipper Simulator | 390787 | [390787-phone-flipper-simulator.json](./390787-phone-flipper-simulator.json) |
 | Phone Story | 62455 | [62455-phone-story.json](./62455-phone-story.json) |
 | Phonequest | 134694 | [134694-phonequest.json](./134694-phonequest.json) |
@@ -2878,6 +2881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Girls | 243156 | [243156-pink-girls.json](./243156-pink-girls.json) |
 | Pink Hour | 34288 | [34288-pink-hour.json](./34288-pink-hour.json) |
 | Pink Marmalade | 184627 | [184627-pink-marmalade.json](./184627-pink-marmalade.json) |
+| Pink Panther | 219014 | [219014-pink-panther.json](./219014-pink-panther.json) |
 | Pink Rage Otome | 51569 | [51569-pink-rage-otome.json](./51569-pink-rage-otome.json) |
 | Pink River | 143471 | [143471-pink-river.json](./143471-pink-river.json) |
 | Pink World | 388950 | [388950-pink-world.json](./388950-pink-world.json) |
