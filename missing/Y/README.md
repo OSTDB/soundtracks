@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ye Fenny: Revenge of the Evil Good Shepherd | 81783 | [81783-ye-fenny-revenge-of-the-evil-good-shepherd.json](./81783-ye-fenny-revenge-of-the-evil-good-shepherd.json) |
 | Yeager | 186739 | [186739-yeager.json](./186739-yeager.json) |
 | Yeah Bunny 2 | 337091 | [337091-yeah-bunny-2.json](./337091-yeah-bunny-2.json) |
+| Yeah Jam Fury | 207268 | [207268-yeah-jam-fury.json](./207268-yeah-jam-fury.json) |
 | Yeah Yeah Beebiss I | 228361 | [228361-yeah-yeah-beebiss-i.json](./228361-yeah-yeah-beebiss-i.json) |
 | Yeah! Fighting Girl | 216804 | [216804-yeah-fighting-girl.json](./216804-yeah-fighting-girl.json) |
 | Year 2088 Classic | 276276 | [276276-year-2088-classic.json](./276276-year-2088-classic.json) |
