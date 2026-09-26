@@ -1631,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peganomics | 371999 | [371999-peganomics.json](./371999-peganomics.json) |
 | Pegasis | 298866 | [298866-pegasis.json](./298866-pegasis.json) |
 | Pegasus-5: Gone Astray | 104797 | [104797-pegasus-5-gone-astray.json](./104797-pegasus-5-gone-astray.json) |
+| Pegaxy | 188410 | [188410-pegaxy.json](./188410-pegaxy.json) |
 | Peggle | 3751 | [3751-peggle.json](./3751-peggle.json) |
 | Peggle | 95409 | [95409-peggle.json](./95409-peggle.json) |
 | Peggle 2 | 3752 | [3752-peggle-2.json](./3752-peggle-2.json) |
@@ -3090,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Mosaic Puzzle: Caribbean Treasures | 97144 | [97144-pirate-mosaic-puzzle-caribbean-treasures.json](./97144-pirate-mosaic-puzzle-caribbean-treasures.json) |
 | Pirate Parakeet | 346777 | [346777-pirate-parakeet.json](./346777-pirate-parakeet.json) |
 | Pirate Plight | 245911 | [245911-pirate-plight.json](./245911-pirate-plight.json) |
+| Pirate Raid: Caribbean Battle | 188399 | [188399-pirate-raid-caribbean-battle.json](./188399-pirate-raid-caribbean-battle.json) |
 | Pirate Royalty | 345583 | [345583-pirate-royalty.json](./345583-pirate-royalty.json) |
 | Pirate Runner | 253881 | [253881-pirate-runner.json](./253881-pirate-runner.json) |
 | Pirate Ship | 231924 | [231924-pirate-ship.json](./231924-pirate-ship.json) |
