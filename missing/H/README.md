@@ -3286,6 +3286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman World of Assassination: Bruce Lee | 370132 | [370132-hitman-world-of-assassination-bruce-lee.json](./370132-hitman-world-of-assassination-bruce-lee.json) |
 | Hitman World of Assassination: The Wizard Pack | 405098 | [405098-hitman-world-of-assassination-the-wizard-pack.json](./405098-hitman-world-of-assassination-the-wizard-pack.json) |
 | Hitman World of Assassination: VR Access | 317632 | [317632-hitman-world-of-assassination-vr-access.json](./317632-hitman-world-of-assassination-vr-access.json) |
+| Hitman: Absolution HD | 218974 | [218974-hitman-absolution-hd.json](./218974-hitman-absolution-hd.json) |
 | Hitman: Blood Money HD | 99816 | [99816-hitman-blood-money-hd.json](./99816-hitman-blood-money-hd.json) |
 | Hitman: Collector's Edition | 41619 | [41619-hitman-collectors-edition.json](./41619-hitman-collectors-edition.json) |
 | Hitman: Episode 5 - Colorado | 91024 | [91024-hitman-episode-5-colorado.json](./91024-hitman-episode-5-colorado.json) |
@@ -4234,6 +4235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed: Corvette Stingray Convertible 2014 | 195769 | [195769-hot-wheels-unleashed-corvette-stingray-convertible-2014.json](./195769-hot-wheels-unleashed-corvette-stingray-convertible-2014.json) |
 | Hot Wheels Unleashed: Day One Edition | 146134 | [146134-hot-wheels-unleashed-day-one-edition.json](./146134-hot-wheels-unleashed-day-one-edition.json) |
 | Hot Wheels Unleashed: DC Super Heroes Racing Season | 195766 | [195766-hot-wheels-unleashed-dc-super-heroes-racing-season.json](./195766-hot-wheels-unleashed-dc-super-heroes-racing-season.json) |
+| Hot Wheels Unleashed: Game of the Year Edition | 218968 | [218968-hot-wheels-unleashed-game-of-the-year-edition.json](./218968-hot-wheels-unleashed-game-of-the-year-edition.json) |
 | Hot Wheels Unleashed: McLaren Senna | 195768 | [195768-hot-wheels-unleashed-mclaren-senna.json](./195768-hot-wheels-unleashed-mclaren-senna.json) |
 | Hot Wheels Unleashed: Night Burner | 195767 | [195767-hot-wheels-unleashed-night-burner.json](./195767-hot-wheels-unleashed-night-burner.json) |
 | Hot Wheels Unleashed: Street Fighter Vega | 195770 | [195770-hot-wheels-unleashed-street-fighter-vega.json](./195770-hot-wheels-unleashed-street-fighter-vega.json) |
