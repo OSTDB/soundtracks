@@ -3601,6 +3601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Werewolf | 293099 | [293099-black-werewolf.json](./293099-black-werewolf.json) |
 | Black Widow: Looking for Love | 220874 | [220874-black-widow-looking-for-love.json](./220874-black-widow-looking-for-love.json) |
 | Black Witchcraft | 60800 | [60800-black-witchcraft.json](./60800-black-witchcraft.json) |
+| Black Wolf | 204993 | [204993-black-wolf.json](./204993-black-wolf.json) |
 | Black Wolves Saga: Weiβ und Schwarz - for Nintendo Switch | 414563 | [414563-black-wolves-saga-wei-und-schwarz-for-nintendo-switch.json](./414563-black-wolves-saga-wei-und-schwarz-for-nintendo-switch.json) |
 | Black Zen White | 344938 | [344938-black-zen-white.json](./344938-black-zen-white.json) |
 | Black/Matrix + | 93534 | [93534-black-matrix.json](./93534-black-matrix.json) |
@@ -4861,6 +4862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoltHalt | 120785 | [120785-bolthalt.json](./120785-bolthalt.json) |
 | Bolty | 184579 | [184579-bolty.json](./184579-bolty.json) |
 | Boltzmann Brain | 95211 | [95211-boltzmann-brain.json](./95211-boltzmann-brain.json) |
+| Bolu | 204987 | [204987-bolu.json](./204987-bolu.json) |
 | Bomb Ace | 362431 | [362431-bomb-ace.json](./362431-bomb-ace.json) |
 | Bomb Around | 332397 | [332397-bomb-around.json](./332397-bomb-around.json) |
 | Bomb Bomb Bomb | 248900 | [248900-bomb-bomb-bomb.json](./248900-bomb-bomb-bomb.json) |
@@ -6160,6 +6162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Briks Head to Head | 187547 | [187547-briks-head-to-head.json](./187547-briks-head-to-head.json) |
 | Briley Witch Chronicles | 194474 | [194474-briley-witch-chronicles.json](./194474-briley-witch-chronicles.json) |
 | Brilliance shines in Zhejiang | 201797 | [201797-brilliance-shines-in-zhejiang.json](./201797-brilliance-shines-in-zhejiang.json) |
+| Brilliance: Catch the light | 205012 | [205012-brilliance-catch-the-light.json](./205012-brilliance-catch-the-light.json) |
 | Brilliant Bob | 19484 | [19484-brilliant-bob.json](./19484-brilliant-bob.json) |
 | Brilliant Jigsaw | 357871 | [357871-brilliant-jigsaw.json](./357871-brilliant-jigsaw.json) |
 | Brimstone | 26957 | [26957-brimstone.json](./26957-brimstone.json) |
@@ -6809,6 +6812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunches For Bart! | 297795 | [297795-bunches-for-bart.json](./297795-bunches-for-bart.json) |
 | Bundesliga Stars 2000 | 44832 | [44832-bundesliga-stars-2000.json](./44832-bundesliga-stars-2000.json) |
 | Bundle: Journey of the Broken Circle + Cosmic Top Secret | 218468 | [218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json](./218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json) |
+| Bunflower | 205014 | [205014-bunflower.json](./205014-bunflower.json) |
 | Bung Ball | 252808 | [252808-bung-ball.json](./252808-bung-ball.json) |
 | Bungie Mac Action Sack | 172660 | [172660-bungie-mac-action-sack.json](./172660-bungie-mac-action-sack.json) |
 | Bungmyeong | 145640 | [145640-bungmyeong.json](./145640-bungmyeong.json) |
