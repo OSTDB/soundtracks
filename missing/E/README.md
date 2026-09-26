@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse of Eldergaard | 386418 | [386418-eclipse-of-eldergaard.json](./386418-eclipse-of-eldergaard.json) |
 | Eclipse of Elysium | 295815 | [295815-eclipse-of-elysium.json](./295815-eclipse-of-elysium.json) |
 | Eclipse of Illusion | 68983 | [68983-eclipse-of-illusion.json](./68983-eclipse-of-illusion.json) |
+| Eclipse Saga | 188389 | [188389-eclipse-saga.json](./188389-eclipse-saga.json) |
 | Eclipse Survivors | 249757 | [249757-eclipse-survivors.json](./249757-eclipse-survivors.json) |
 | Eclipse: Edge of Light | 27809 | [27809-eclipse-edge-of-light.json](./27809-eclipse-edge-of-light.json) |
 | Eclipse: Fall - Kami no Danzai | 379353 | [379353-eclipse-fall-kami-no-danzai.json](./379353-eclipse-fall-kami-no-danzai.json) |
@@ -1465,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Memories | 126265 | [126265-endless-memories.json](./126265-endless-memories.json) |
 | Endless Monday: Dreams and Deadlines | 236360 | [236360-endless-monday-dreams-and-deadlines.json](./236360-endless-monday-dreams-and-deadlines.json) |
 | Endless Mountain | 234058 | [234058-endless-mountain.json](./234058-endless-mountain.json) |
+| Endless National | 188376 | [188376-endless-national.json](./188376-endless-national.json) |
 | Endless Nightmare | 193996 | [193996-endless-nightmare.json](./193996-endless-nightmare.json) |
 | Endless Nightmare: Shrine | 200737 | [200737-endless-nightmare-shrine.json](./200737-endless-nightmare-shrine.json) |
 | Endless Nightmare: Weird Hospital | 174767 | [174767-endless-nightmare-weird-hospital.json](./174767-endless-nightmare-weird-hospital.json) |
