@@ -1210,6 +1210,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO City Undercover | 343450 | [343450-lego-city-undercover.json](./343450-lego-city-undercover.json) |
 | LEGO Creator: Harry Potter | 66631 | [66631-lego-creator-harry-potter.json](./66631-lego-creator-harry-potter.json) |
 | LEGO DC Super-Villains: Aquaman Bundle Pack | 214483 | [214483-lego-dc-super-villains-aquaman-bundle-pack.json](./214483-lego-dc-super-villains-aquaman-bundle-pack.json) |
+| LEGO DC Super-Villains: Aquaman Pack 2 | 207239 | [207239-lego-dc-super-villains-aquaman-pack-2.json](./207239-lego-dc-super-villains-aquaman-pack-2.json) |
+| LEGO DC Super-Villains: Batman - The Animated Series Level Pack | 207265 | [207265-lego-dc-super-villains-batman-the-animated-series-level-pack.json](./207265-lego-dc-super-villains-batman-the-animated-series-level-pack.json) |
 | LEGO DC Super-Villains: DC TV Series Super Heroes Character Pack | 214482 | [214482-lego-dc-super-villains-dc-tv-series-super-heroes-character-pack.json](./214482-lego-dc-super-villains-dc-tv-series-super-heroes-character-pack.json) |
 | LEGO DC Super-Villains: DC TV Series Super-Villains Character Pack | 214484 | [214484-lego-dc-super-villains-dc-tv-series-super-villains-character-pack.json](./214484-lego-dc-super-villains-dc-tv-series-super-villains-character-pack.json) |
 | LEGO DC Super-Villains: Deluxe Edition | 118955 | [118955-lego-dc-super-villains-deluxe-edition.json](./118955-lego-dc-super-villains-deluxe-edition.json) |
@@ -1372,6 +1374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemmings 2: The Tribes | 245307 | [245307-lemmings-2-the-tribes.json](./245307-lemmings-2-the-tribes.json) |
 | Lemmings 2: The Tribes | 8307 | [8307-lemmings-2-the-tribes.json](./8307-lemmings-2-the-tribes.json) |
 | Lemonade | 366258 | [366258-lemonade.json](./366258-lemonade.json) |
+| Lemonade Stand | 207283 | [207283-lemonade-stand.json](./207283-lemonade-stand.json) |
 | Lemonade Tycoon 2: New York Edition | 68041 | [68041-lemonade-tycoon-2-new-york-edition.json](./68041-lemonade-tycoon-2-new-york-edition.json) |
 | Lemonade. | 184051 | [184051-lemonade.json](./184051-lemonade.json) |
 | Lemonhunter | 185124 | [185124-lemonhunter.json](./185124-lemonhunter.json) |
@@ -2666,6 +2669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizzie McGuire 3: Homecoming Havoc | 49392 | [49392-lizzie-mcguire-3-homecoming-havoc.json](./49392-lizzie-mcguire-3-homecoming-havoc.json) |
 | Lizzie McGuire: On the Go! | 49394 | [49394-lizzie-mcguire-on-the-go.json](./49394-lizzie-mcguire-on-the-go.json) |
 | LJ65 | 305313 | [305313-lj65.json](./305313-lj65.json) |
+| Lkyt. | 207259 | [207259-lkyt.json](./207259-lkyt.json) |
 | Llama Villa | 129572 | [129572-llama-villa.json](./129572-llama-villa.json) |
 | Llamagotchi | 223597 | [223597-llamagotchi.json](./223597-llamagotchi.json) |
 | Llamalandia | 258002 | [258002-llamalandia.json](./258002-llamalandia.json) |
