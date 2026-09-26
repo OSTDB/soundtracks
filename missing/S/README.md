@@ -7527,6 +7527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soukou Seiki Ysphere ~Ingyaku no Sennou Kaizou~ | 133247 | [133247-soukou-seiki-ysphere-ingyaku-no-sennou-kaizou.json](./133247-soukou-seiki-ysphere-ingyaku-no-sennou-kaizou.json) |
 | Soul | 199577 | [199577-soul.json](./199577-soul.json) |
 | Soul Apocalypto | 358927 | [358927-soul-apocalypto.json](./358927-soul-apocalypto.json) |
+| Soul Ark: Brave and Fate | 199948 | [199948-soul-ark-brave-and-fate.json](./199948-soul-ark-brave-and-fate.json) |
 | Soul Armors Recollect | 322711 | [322711-soul-armors-recollect.json](./322711-soul-armors-recollect.json) |
 | Soul at Stake | 103949 | [103949-soul-at-stake.json](./103949-soul-at-stake.json) |
 | Soul Awakening Adventure | 273093 | [273093-soul-awakening-adventure.json](./273093-soul-awakening-adventure.json) |
@@ -8746,6 +8747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Solitaire F | 109493 | [109493-spider-solitaire-f.json](./109493-spider-solitaire-f.json) |
 | Spider Solitaire Pro! | 89182 | [89182-spider-solitaire-pro.json](./89182-spider-solitaire-pro.json) |
 | Spider Tanks | 175785 | [175785-spider-tanks.json](./175785-spider-tanks.json) |
+| Spider Trouble | 199935 | [199935-spider-trouble.json](./199935-spider-trouble.json) |
 | Spider Ultimate | 100738 | [100738-spider-ultimate.json](./100738-spider-ultimate.json) |
 | Spider Wars | 33209 | [33209-spider-wars.json](./33209-spider-wars.json) |
 | Spider-Guy: Trapped in the Cheese Place | 291773 | [291773-spider-guy-trapped-in-the-cheese-place.json](./291773-spider-guy-trapped-in-the-cheese-place.json) |
