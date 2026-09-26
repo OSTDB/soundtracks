@@ -2147,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaw Golf: 9 More Holes of X-Mas | 47311 | [47311-outlaw-golf-9-more-holes-of-x-mas.json](./47311-outlaw-golf-9-more-holes-of-x-mas.json) |
 | Outlaw Golf: Holiday Golf | 78687 | [78687-outlaw-golf-holiday-golf.json](./78687-outlaw-golf-holiday-golf.json) |
 | Outlaw Kingdom | 245906 | [245906-outlaw-kingdom.json](./245906-outlaw-kingdom.json) |
+| Outlaw Racing | 210603 | [210603-outlaw-racing.json](./210603-outlaw-racing.json) |
 | Outlaw Tales: Western Adventure Survival | 118199 | [118199-outlaw-tales-western-adventure-survival.json](./118199-outlaw-tales-western-adventure-survival.json) |
 | Outlaw's Gold | 319715 | [319715-outlaws-gold.json](./319715-outlaws-gold.json) |
 | Outlawed | 331339 | [331339-outlawed.json](./331339-outlawed.json) |
