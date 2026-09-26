@@ -3393,6 +3393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deep | 169464 | [169464-the-deep.json](./169464-the-deep.json) |
 | The Deep | 274009 | [274009-the-deep.json](./274009-the-deep.json) |
 | The Deep Deep | 123073 | [123073-the-deep-deep.json](./123073-the-deep-deep.json) |
+| The Deep Diving of FloodDragon | 197132 | [197132-the-deep-diving-of-flooddragon.json](./197132-the-deep-diving-of-flooddragon.json) |
 | The Deep Library | 374691 | [374691-the-deep-library.json](./374691-the-deep-library.json) |
 | The Deep Ones | 246118 | [246118-the-deep-ones.json](./246118-the-deep-ones.json) |
 | The Deep Waits | 414545 | [414545-the-deep-waits.json](./414545-the-deep-waits.json) |
@@ -5591,6 +5592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Memory of Eldurim | 16905 | [16905-the-memory-of-eldurim.json](./16905-the-memory-of-eldurim.json) |
 | The Memory Thieves | 321599 | [321599-the-memory-thieves.json](./321599-the-memory-thieves.json) |
 | The Men of Yoshiwara: Ohgiya | 33398 | [33398-the-men-of-yoshiwara-ohgiya.json](./33398-the-men-of-yoshiwara-ohgiya.json) |
+| The Mensional | 197112 | [197112-the-mensional.json](./197112-the-mensional.json) |
 | The Mercer Slough and You | 145622 | [145622-the-mercer-slough-and-you.json](./145622-the-mercer-slough-and-you.json) |
 | The Merchant's Eden | 372657 | [372657-the-merchants-eden.json](./372657-the-merchants-eden.json) |
 | The Mercury Man | 80879 | [80879-the-mercury-man.json](./80879-the-mercury-man.json) |
@@ -12007,6 +12009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Pandamonium | 302931 | [302931-trash-pandamonium.json](./302931-trash-pandamonium.json) |
 | Trash Panic | 20692 | [20692-trash-panic.json](./20692-trash-panic.json) |
 | Trash Patrol: Academic Version | 200434 | [200434-trash-patrol-academic-version.json](./200434-trash-patrol-academic-version.json) |
+| Trash Pit | 197143 | [197143-trash-pit.json](./197143-trash-pit.json) |
 | Trash Poker | 176445 | [176445-trash-poker.json](./176445-trash-poker.json) |
 | Trash Punk: Deluxe Edition | 287122 | [287122-trash-punk-deluxe-edition.json](./287122-trash-punk-deluxe-edition.json) |
 | Trash Punk: Extended Edition | 298575 | [298575-trash-punk-extended-edition.json](./298575-trash-punk-extended-edition.json) |
