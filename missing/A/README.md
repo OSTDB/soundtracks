@@ -2461,6 +2461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Men Are Pigs | 183041 | [183041-all-men-are-pigs.json](./183041-all-men-are-pigs.json) |
 | All Monsters Attack! | 202403 | [202403-all-monsters-attack.json](./202403-all-monsters-attack.json) |
 | All Motors Racing Simulator | 395221 | [395221-all-motors-racing-simulator.json](./395221-all-motors-racing-simulator.json) |
+| All My Friends Are Frogs | 183375 | [183375-all-my-friends-are-frogs.json](./183375-all-my-friends-are-frogs.json) |
 | All New Origins | 283907 | [283907-all-new-origins.json](./283907-all-new-origins.json) |
 | All New Ultimate Pub Quiz 2008 | 320900 | [320900-all-new-ultimate-pub-quiz-2008.json](./320900-all-new-ultimate-pub-quiz-2008.json) |
 | All New World of Lemmings | 14246 | [14246-all-new-world-of-lemmings.json](./14246-all-new-world-of-lemmings.json) |
@@ -3310,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | And Roger | 324784 | [324784-and-roger.json](./324784-and-roger.json) |
 | And the Band Begins to Play | 144752 | [144752-and-the-band-begins-to-play.json](./144752-and-the-band-begins-to-play.json) |
 | And The World Went Dark | 334296 | [334296-and-the-world-went-dark.json](./334296-and-the-world-went-dark.json) |
+| And Then He Went to the Tower | 183376 | [183376-and-then-he-went-to-the-tower.json](./183376-and-then-he-went-to-the-tower.json) |
 | And These Iron Limbs Exiled From Heaven | 278486 | [278486-and-these-iron-limbs-exiled-from-heaven.json](./278486-and-these-iron-limbs-exiled-from-heaven.json) |
 | And Yet It Hurt | 229628 | [229628-and-yet-it-hurt.json](./229628-and-yet-it-hurt.json) |
 | And Yet It Moves | 9772 | [9772-and-yet-it-moves.json](./9772-and-yet-it-moves.json) |
@@ -4424,6 +4426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aralon: Sword and Shadow | 38985 | [38985-aralon-sword-and-shadow.json](./38985-aralon-sword-and-shadow.json) |
 | Aranock Online | 62986 | [62986-aranock-online.json](./62986-aranock-online.json) |
 | Aranuri: Badachingudeulkkwa hamkke Mandeuneun Sesang | 269648 | [269648-aranuri-badachingudeulkkwa-hamkke-mandeuneun-sesang.json](./269648-aranuri-badachingudeulkkwa-hamkke-mandeuneun-sesang.json) |
+| Arashi | 183332 | [183332-arashi.json](./183332-arashi.json) |
 | Arashi Gaiden | 307254 | [307254-arashi-gaiden.json](./307254-arashi-gaiden.json) |
 | Arashi no Yoru ni | 269645 | [269645-arashi-no-yoru-ni.json](./269645-arashi-no-yoru-ni.json) |
 | Arasuji de Kitaeru: Hayamimi no Susume DS | 269647 | [269647-arasuji-de-kitaeru-hayamimi-no-susume-ds.json](./269647-arasuji-de-kitaeru-hayamimi-no-susume-ds.json) |
@@ -6420,6 +6423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Augmental Puzzles | 398544 | [398544-augmental-puzzles.json](./398544-augmental-puzzles.json) |
 | Augmented Fear | 376547 | [376547-augmented-fear.json](./376547-augmented-fear.json) |
 | Augmented Fourth | 60028 | [60028-augmented-fourth.json](./60028-augmented-fourth.json) |
+| Augur & Haruspex | 183377 | [183377-augur-and-haruspex.json](./183377-augur-and-haruspex.json) |
 | Augurium Mortis | 304685 | [304685-augurium-mortis.json](./304685-augurium-mortis.json) |
 | Augury Point | 280298 | [280298-augury-point.json](./280298-augury-point.json) |
 | August 31 | 202240 | [202240-august-31.json](./202240-august-31.json) |
