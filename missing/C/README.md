@@ -5070,6 +5070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer, Open That Door! | 181382 | [181382-computer-open-that-door.json](./181382-computer-open-that-door.json) |
 | ComputerCraft | 232659 | [232659-computercraft.json](./232659-computercraft.json) |
 | Computerfriend | 215231 | [215231-computerfriend.json](./215231-computerfriend.json) |
+| Computergirl888 | 226683 | [226683-computergirl888.json](./226683-computergirl888.json) |
 | Comrade Quack | 195176 | [195176-comrade-quack.json](./195176-comrade-quack.json) |
 | Comrade Trump's Re-election | 286523 | [286523-comrade-trumps-re-election.json](./286523-comrade-trumps-re-election.json) |
 | Comrade-in-Arms | 130169 | [130169-comrade-in-arms.json](./130169-comrade-in-arms.json) |
@@ -5361,6 +5362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Consummate:Missing World | 51974 | [51974-consummate-missing-world.json](./51974-consummate-missing-world.json) |
 | Contact Me | 149447 | [149447-contact-me.json](./149447-contact-me.json) |
 | Contacts | 379591 | [379591-contacts.json](./379591-contacts.json) |
+| Contain | 226717 | [226717-contain.json](./226717-contain.json) |
 | Containment Initiative: PC Standalone | 99583 | [99583-containment-initiative-pc-standalone.json](./99583-containment-initiative-pc-standalone.json) |
 | Containment Zone | 235749 | [235749-containment-zone.json](./235749-containment-zone.json) |
 | Contamination | 12986 | [12986-contamination.json](./12986-contamination.json) |
@@ -5504,6 +5506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Fever | 87046 | [87046-cooking-fever.json](./87046-cooking-fever.json) |
 | Cooking For Ma! | 404941 | [404941-cooking-for-ma.json](./404941-cooking-for-ma.json) |
 | Cooking Joy - Fun Cooking Game | 103872 | [103872-cooking-joy-fun-cooking-game.json](./103872-cooking-joy-fun-cooking-game.json) |
+| Cooking Live | 226690 | [226690-cooking-live.json](./226690-cooking-live.json) |
 | Cooking Mama 4: Kitchen Magic | 11359 | [11359-cooking-mama-4-kitchen-magic.json](./11359-cooking-mama-4-kitchen-magic.json) |
 | Cooking Mama World: Hobbies & Fun | 47957 | [47957-cooking-mama-world-hobbies-and-fun.json](./47957-cooking-mama-world-hobbies-and-fun.json) |
 | Cooking Mama: Let's Cook! | 88776 | [88776-cooking-mama-lets-cook.json](./88776-cooking-mama-lets-cook.json) |
