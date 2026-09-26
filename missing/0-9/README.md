@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1337D00m | 109489 | [109489-1337d00m.json](./109489-1337d00m.json) |
 | 1378km | 139389 | [139389-1378km.json](./139389-1378km.json) |
 | 137E0 Action 1 Steak | 234303 | [234303-137e0-action-1-steak.json](./234303-137e0-action-1-steak.json) |
+| 1387: MMO Strategy | 213313 | [213313-1387-mmo-strategy.json](./213313-1387-mmo-strategy.json) |
 | 13th Friday Night: Funk Blood | 314500 | [314500-13th-friday-night-funk-blood.json](./314500-13th-friday-night-funk-blood.json) |
 | 14 Locks | 225637 | [225637-14-locks.json](./225637-14-locks.json) |
 | 14 Minesweeper Variants 2 | 272869 | [272869-14-minesweeper-variants-2.json](./272869-14-minesweeper-variants-2.json) |
