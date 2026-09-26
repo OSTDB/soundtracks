@@ -1407,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pax Imperia | 95439 | [95439-pax-imperia.json](./95439-pax-imperia.json) |
 | Pax Imperia: Eminent Domain | 24261 | [24261-pax-imperia-eminent-domain.json](./24261-pax-imperia-eminent-domain.json) |
 | Pax Nova | 111043 | [111043-pax-nova.json](./111043-pax-nova.json) |
+| Pax Nova: Tech Supremacy | 193223 | [193223-pax-nova-tech-supremacy.json](./193223-pax-nova-tech-supremacy.json) |
 | Pax Romana | 115512 | [115512-pax-romana.json](./115512-pax-romana.json) |
 | Pax Romana: Romulus | 70076 | [70076-pax-romana-romulus.json](./70076-pax-romana-romulus.json) |
 | Pax Solis | 298291 | [298291-pax-solis.json](./298291-pax-solis.json) |
