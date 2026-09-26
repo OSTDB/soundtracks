@@ -650,6 +650,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympus Rising: Hero Defense | 106964 | [106964-olympus-rising-hero-defense.json](./106964-olympus-rising-hero-defense.json) |
 | Om Nom Solitaire | 183608 | [183608-om-nom-solitaire.json](./183608-om-nom-solitaire.json) |
 | Om Nom: Candy Flick | 343993 | [343993-om-nom-candy-flick.json](./343993-om-nom-candy-flick.json) |
+| Om Nom: Coloring, Toons & Puzzle - All DLC Pack | 199933 | [199933-om-nom-coloring-toons-and-puzzle-all-dlc-pack.json](./199933-om-nom-coloring-toons-and-puzzle-all-dlc-pack.json) |
+| Om Nom: Coloring, Toons & Puzzle - Delicious Dots | 199922 | [199922-om-nom-coloring-toons-and-puzzle-delicious-dots.json](./199922-om-nom-coloring-toons-and-puzzle-delicious-dots.json) |
 | Om Nom: Run - Costumes and Themes | 251666 | [251666-om-nom-run-costumes-and-themes.json](./251666-om-nom-run-costumes-and-themes.json) |
 | Om Nom: Run - Ultimate Edition | 251667 | [251667-om-nom-run-ultimate-edition.json](./251667-om-nom-run-ultimate-edition.json) |
 | Om Nom: Run & Om Nom: Run 2 | 363971 | [363971-om-nom-run-and-om-nom-run-2.json](./363971-om-nom-run-and-om-nom-run-2.json) |
@@ -1327,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooga Booga | 10961 | [10961-ooga-booga.json](./10961-ooga-booga.json) |
 | Ooga Booga Battle | 341512 | [341512-ooga-booga-battle.json](./341512-ooga-booga-battle.json) |
 | Ooga Booga: Troubles in Time | 309965 | [309965-ooga-booga-troubles-in-time.json](./309965-ooga-booga-troubles-in-time.json) |
+| Ooga Ooga! | 199919 | [199919-ooga-ooga.json](./199919-ooga-ooga.json) |
 | Oogies Chicken Quest | 399170 | [399170-oogies-chicken-quest.json](./399170-oogies-chicken-quest.json) |
 | Oogy: Can You Help | 190086 | [190086-oogy-can-you-help.json](./190086-oogy-can-you-help.json) |
 | Ookami to Koushinryou: Boku to Holo no Ichi-nen | 123449 | [123449-ookami-to-koushinryou-boku-to-holo-no-ichi-nen.json](./123449-ookami-to-koushinryou-boku-to-holo-no-ichi-nen.json) |
