@@ -1267,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensou Rouman Kikou: Phantasmagoria Trues | 321482 | [321482-gensou-rouman-kikou-phantasmagoria-trues.json](./321482-gensou-rouman-kikou-phantasmagoria-trues.json) |
 | Gensou Skydrift | 125591 | [125591-gensou-skydrift.json](./125591-gensou-skydrift.json) |
 | Gensou Tairiku Aurelia | 79293 | [79293-gensou-tairiku-aurelia.json](./79293-gensou-tairiku-aurelia.json) |
+| Gensou Tansaku Nitroid! | 204379 | [204379-gensou-tansaku-nitroid.json](./204379-gensou-tansaku-nitroid.json) |
 | Gensouband | 252734 | [252734-gensouband.json](./252734-gensouband.json) |
 | Gensoumaden Saiyuuki: Sabaku no Shikami | 281456 | [281456-gensoumaden-saiyuuki-sabaku-no-shikami.json](./281456-gensoumaden-saiyuuki-sabaku-no-shikami.json) |
 | Gent Stickman vs Evil Meat Hand | 290409 | [290409-gent-stickman-vs-evil-meat-hand.json](./290409-gent-stickman-vs-evil-meat-hand.json) |
