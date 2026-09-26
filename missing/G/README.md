@@ -2008,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloomy Eyes | 320289 | [320289-gloomy-eyes.json](./320289-gloomy-eyes.json) |
 | Gloomy Eyes + Arise: A Simple Story | 377274 | [377274-gloomy-eyes-arise-a-simple-story.json](./377274-gloomy-eyes-arise-a-simple-story.json) |
 | Gloomy Island | 278133 | [278133-gloomy-island.json](./278133-gloomy-island.json) |
+| Gloomy Tales: Horrific Show - Collector's Edition | 225010 | [225010-gloomy-tales-horrific-show-collectors-edition.json](./225010-gloomy-tales-horrific-show-collectors-edition.json) |
 | Gloomy Toons | 140995 | [140995-gloomy-toons.json](./140995-gloomy-toons.json) |
 | Gloop | 236955 | [236955-gloop.json](./236955-gloop.json) |
 | Gloop Deluxe | 92302 | [92302-gloop-deluxe.json](./92302-gloop-deluxe.json) |
