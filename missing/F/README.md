@@ -882,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry VR | 138767 | [138767-far-cry-vr.json](./138767-far-cry-vr.json) |
 | Far Cry: Bronze Pack | 223557 | [223557-far-cry-bronze-pack.json](./223557-far-cry-bronze-pack.json) |
 | Far Cry: Delta Sector | 51227 | [51227-far-cry-delta-sector.json](./51227-far-cry-delta-sector.json) |
+| Far Cry: Gold Pack | 219001 | [219001-far-cry-gold-pack.json](./219001-far-cry-gold-pack.json) |
 | Far Cry: Primal - Wenja Pack | 117513 | [117513-far-cry-primal-wenja-pack.json](./117513-far-cry-primal-wenja-pack.json) |
 | Far Cry: Silver Pack | 223558 | [223558-far-cry-silver-pack.json](./223558-far-cry-silver-pack.json) |
 | Far East of Eden II: Manji-maru | 71489 | [71489-far-east-of-eden-ii-manji-maru.json](./71489-far-east-of-eden-ii-manji-maru.json) |
@@ -1353,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear Less! | 60552 | [60552-fear-less.json](./60552-fear-less.json) |
 | Fear Me: The Silent | 331355 | [331355-fear-me-the-silent.json](./331355-fear-me-the-silent.json) |
 | Fear of Biosec | 332537 | [332537-fear-of-biosec.json](./332537-fear-of-biosec.json) |
+| Fear of Bugs: The Fear Experience | 218991 | [218991-fear-of-bugs-the-fear-experience.json](./218991-fear-of-bugs-the-fear-experience.json) |
 | Fear of Fear | 294292 | [294292-fear-of-fear.json](./294292-fear-of-fear.json) |
 | Fear of Hot Water Ghost | 335685 | [335685-fear-of-hot-water-ghost.json](./335685-fear-of-hot-water-ghost.json) |
 | Fear Of The Dark | 308244 | [308244-fear-of-the-dark.json](./308244-fear-of-the-dark.json) |
