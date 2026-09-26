@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemon Detective Racing Zero | 135042 | [135042-daemon-detective-racing-zero.json](./135042-daemon-detective-racing-zero.json) |
 | Daemon Masquerade | 242546 | [242546-daemon-masquerade.json](./242546-daemon-masquerade.json) |
 | Daemon Summoner | 44628 | [44628-daemon-summoner.json](./44628-daemon-summoner.json) |
+| Daemon X Machina: Deluxe Edition | 187824 | [187824-daemon-x-machina-deluxe-edition.json](./187824-daemon-x-machina-deluxe-edition.json) |
 | Daemon X Machina: Orbital Limited Edition | 120324 | [120324-daemon-x-machina-orbital-limited-edition.json](./120324-daemon-x-machina-orbital-limited-edition.json) |
 | Daemon X Machina: The Witcher Costume Pack | 262301 | [262301-daemon-x-machina-the-witcher-costume-pack.json](./262301-daemon-x-machina-the-witcher-costume-pack.json) |
 | Daemon x Machina: Titanic Scion - Free Axiom Researcher Outfit | 375259 | [375259-daemon-x-machina-titanic-scion-free-axiom-researcher-outfit.json](./375259-daemon-x-machina-titanic-scion-free-axiom-researcher-outfit.json) |
@@ -6120,6 +6121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw-A-Mountain | 185098 | [185098-draw-a-mountain.json](./185098-draw-a-mountain.json) |
 | Drawback Chess | 387533 | [387533-drawback-chess.json](./387533-drawback-chess.json) |
 | Drawchemy | 410327 | [410327-drawchemy.json](./410327-drawchemy.json) |
+| Drawer | 187849 | [187849-drawer.json](./187849-drawer.json) |
 | Drawing Carnival: Horror Edition | 298570 | [298570-drawing-carnival-horror-edition.json](./298570-drawing-carnival-horror-edition.json) |
 | Drawing Evolution | 181314 | [181314-drawing-evolution.json](./181314-drawing-evolution.json) |
 | Drawing Rush | 233480 | [233480-drawing-rush.json](./233480-drawing-rush.json) |
@@ -6499,6 +6501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driftwood | 31831 | [31831-driftwood.json](./31831-driftwood.json) |
 | Drifty | 251200 | [251200-drifty.json](./251200-drifty.json) |
 | Drifty Drive | 112271 | [112271-drifty-drive.json](./112271-drifty-drive.json) |
+| Drifty Pool | 187835 | [187835-drifty-pool.json](./187835-drifty-pool.json) |
 | Drill and Delve | 382231 | [382231-drill-and-delve.json](./382231-drill-and-delve.json) |
 | Drill Arena | 86549 | [86549-drill-arena.json](./86549-drill-arena.json) |
 | Drill Core: The Machine World | 399016 | [399016-drill-core-the-machine-world.json](./399016-drill-core-the-machine-world.json) |
@@ -6791,6 +6794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Discovery: Unite Challenge | 320318 | [320318-dual-discovery-unite-challenge.json](./320318-dual-discovery-unite-challenge.json) |
 | Dual Eclipse | 309848 | [309848-dual-eclipse.json](./309848-dual-eclipse.json) |
 | Dual Force | 413669 | [413669-dual-force.json](./413669-dual-force.json) |
+| Dual Fury | 187842 | [187842-dual-fury.json](./187842-dual-fury.json) |
 | Dual Heroes | 3477 | [3477-dual-heroes.json](./3477-dual-heroes.json) |
 | Dual Orb | 15906 | [15906-dual-orb.json](./15906-dual-orb.json) |
 | Dual Orb II | 15907 | [15907-dual-orb-ii.json](./15907-dual-orb-ii.json) |
@@ -7207,6 +7211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Re-Delve | 278422 | [278422-dungeon-re-delve.json](./278422-dungeon-re-delve.json) |
 | Dungeon Rebound | 252399 | [252399-dungeon-rebound.json](./252399-dungeon-rebound.json) |
 | Dungeon Redemption | 204691 | [204691-dungeon-redemption.json](./204691-dungeon-redemption.json) |
+| Dungeon Reels | 187833 | [187833-dungeon-reels.json](./187833-dungeon-reels.json) |
 | Dungeon Reels Tactics | 191714 | [191714-dungeon-reels-tactics.json](./191714-dungeon-reels-tactics.json) |
 | Dungeon Renovators | 224654 | [224654-dungeon-renovators.json](./224654-dungeon-renovators.json) |
 | Dungeon Rollers | 184623 | [184623-dungeon-rollers.json](./184623-dungeon-rollers.json) |
