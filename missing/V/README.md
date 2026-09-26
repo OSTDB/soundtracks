@@ -858,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viewtiful Joe: Double Trouble! | 5987 | [5987-viewtiful-joe-double-trouble.json](./5987-viewtiful-joe-double-trouble.json) |
 | Vifa | 379374 | [379374-vifa.json](./379374-vifa.json) |
 | Vigaro Runner 2: Return | 338569 | [338569-vigaro-runner-2-return.json](./338569-vigaro-runner-2-return.json) |
+| Vigil | 182812 | [182812-vigil.json](./182812-vigil.json) |
 | Vigil | 185032 | [185032-vigil.json](./185032-vigil.json) |
 | Vigil in the Mist | 409755 | [409755-vigil-in-the-mist.json](./409755-vigil-in-the-mist.json) |
 | Vigilant Inquest | 309659 | [309659-vigilant-inquest.json](./309659-vigilant-inquest.json) |
@@ -1486,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Scavenger | 124240 | [124240-voxel-scavenger.json](./124240-voxel-scavenger.json) |
 | Voxel Shooter | 406110 | [406110-voxel-shooter.json](./406110-voxel-shooter.json) |
 | Voxel Sword | 113513 | [113513-voxel-sword.json](./113513-voxel-sword.json) |
+| Voxel Works Quest | 182836 | [182836-voxel-works-quest.json](./182836-voxel-works-quest.json) |
 | Voxel World | 312559 | [312559-voxel-world.json](./312559-voxel-world.json) |
 | Voxel World | 88247 | [88247-voxel-world.json](./88247-voxel-world.json) |
 | Voxelaxy | 51967 | [51967-voxelaxy.json](./51967-voxelaxy.json) |
