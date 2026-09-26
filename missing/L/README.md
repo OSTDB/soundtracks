@@ -2747,6 +2747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lobo | 86130 | [86130-lobo.json](./86130-lobo.json) |
 | Lobotrypo | 332254 | [332254-lobotrypo.json](./332254-lobotrypo.json) |
 | Lobster Empire | 52769 | [52769-lobster-empire.json](./52769-lobster-empire.json) |
+| Lobster Game | 190469 | [190469-lobster-game.json](./190469-lobster-game.json) |
 | Loca-Love My Commuting Crush | 120792 | [120792-loca-love-my-commuting-crush.json](./120792-loca-love-my-commuting-crush.json) |
 | Loca-Love My Cute Roommate | 110774 | [110774-loca-love-my-cute-roommate.json](./110774-loca-love-my-cute-roommate.json) |
 | Loca-Love: My Pure Priestess | 146302 | [146302-loca-love-my-pure-priestess.json](./146302-loca-love-my-pure-priestess.json) |
@@ -2840,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lodge | 351692 | [351692-lodge.json](./351692-lodge.json) |
 | Lodoss-tou Senki: Eiyuu Kishiden GB | 80222 | [80222-lodoss-tou-senki-eiyuu-kishiden-gb.json](./80222-lodoss-tou-senki-eiyuu-kishiden-gb.json) |
 | Lodoss-tou Senki: Fuku Zinduke | 66143 | [66143-lodoss-tou-senki-fuku-zinduke.json](./66143-lodoss-tou-senki-fuku-zinduke.json) |
+| Lodventure | 190475 | [190475-lodventure.json](./190475-lodventure.json) |
 | Lofelia's Cozy Corner | 416097 | [416097-lofelias-cozy-corner.json](./416097-lofelias-cozy-corner.json) |
 | Lofi Ball | 256276 | [256276-lofi-ball.json](./256276-lofi-ball.json) |
 | Lofi Ball: Dessert | 255981 | [255981-lofi-ball-dessert.json](./255981-lofi-ball-dessert.json) |
@@ -3987,6 +3989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunacy: Saint Rhodes | 26710 | [26710-lunacy-saint-rhodes.json](./26710-lunacy-saint-rhodes.json) |
 | Lunadra: Luna Awakens the Legendary Dragon | 406938 | [406938-lunadra-luna-awakens-the-legendary-dragon.json](./406938-lunadra-luna-awakens-the-legendary-dragon.json) |
 | Lunaela | 200430 | [200430-lunaela.json](./200430-lunaela.json) |
+| LunaQuest | 190473 | [190473-lunaquest.json](./190473-lunaquest.json) |
 | Lunar Assault 64 | 145457 | [145457-lunar-assault-64.json](./145457-lunar-assault-64.json) |
 | Lunar Ball | 92281 | [92281-lunar-ball.json](./92281-lunar-ball.json) |
 | Lunar Catastrophe | 260960 | [260960-lunar-catastrophe.json](./260960-lunar-catastrophe.json) |
