@@ -1182,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food Panic | 50631 | [50631-fast-food-panic.json](./50631-fast-food-panic.json) |
 | Fast Food Rage | 386700 | [386700-fast-food-rage.json](./386700-fast-food-rage.json) |
 | Fast Food Rampage | 96680 | [96680-fast-food-rampage.json](./96680-fast-food-rampage.json) |
+| Fast Food Shop Online | 212225 | [212225-fast-food-shop-online.json](./212225-fast-food-shop-online.json) |
 | Fast Food Tycoon Simulator | 353959 | [353959-fast-food-tycoon-simulator.json](./353959-fast-food-tycoon-simulator.json) |
 | Fast Racing 3D | 380549 | [380549-fast-racing-3d.json](./380549-fast-racing-3d.json) |
 | Fast Travel: Loot Delivery Service | 117050 | [117050-fast-travel-loot-delivery-service.json](./117050-fast-travel-loot-delivery-service.json) |
@@ -5419,6 +5420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Sex Madness | 367034 | [367034-furry-sex-madness.json](./367034-furry-sex-madness.json) |
 | Furry Sex Resort | 309687 | [309687-furry-sex-resort.json](./309687-furry-sex-resort.json) |
 | Furry Sex: GameDev Story | 220595 | [220595-furry-sex-gamedev-story.json](./220595-furry-sex-gamedev-story.json) |
+| Furry Sex: Poker | 212192 | [212192-furry-sex-poker.json](./212192-furry-sex-poker.json) |
 | Furry Sexy Girls | 375951 | [375951-furry-sexy-girls.json](./375951-furry-sexy-girls.json) |
 | Furry Shades of Gay | 165025 | [165025-furry-shades-of-gay.json](./165025-furry-shades-of-gay.json) |
 | Furry Shakespeare: To Date Or Not To Date Cat Girls? - 2 Prophecy of Convenience | 253951 | [253951-furry-shakespeare-to-date-or-not-to-date-cat-girls-2-prophecy-of-convenience.json](./253951-furry-shakespeare-to-date-or-not-to-date-cat-girls-2-prophecy-of-convenience.json) |
