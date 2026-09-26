@@ -2085,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find It - Tap the Different | 55102 | [55102-find-it-tap-the-different.json](./55102-find-it-tap-the-different.json) |
 | Find It! | 366431 | [366431-find-it.json](./366431-find-it.json) |
 | Find it! Festival in the Hotel | 311629 | [311629-find-it-festival-in-the-hotel.json](./311629-find-it-festival-in-the-hotel.json) |
+| Find it! Mr. Pict of the Emergency Exit | 222229 | [222229-find-it-mr-pict-of-the-emergency-exit.json](./222229-find-it-mr-pict-of-the-emergency-exit.json) |
 | Find Kittens 10: Valentines Day | 389710 | [389710-find-kittens-10-valentines-day.json](./389710-find-kittens-10-valentines-day.json) |
 | Find Kittens 4: Aetherpunk | 358948 | [358948-find-kittens-4-aetherpunk.json](./358948-find-kittens-4-aetherpunk.json) |
 | Find Kittens 7: Cookie Town | 379970 | [379970-find-kittens-7-cookie-town.json](./379970-find-kittens-7-cookie-town.json) |
@@ -3370,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Spy | 12997 | [12997-fly-spy.json](./12997-fly-spy.json) |
 | Fly the Cloud | 151137 | [151137-fly-the-cloud.json](./151137-fly-the-cloud.json) |
 | Fly the Plane | 263494 | [263494-fly-the-plane.json](./263494-fly-the-plane.json) |
+| Fly This!: Flight Control Tower | 222248 | [222248-fly-this-flight-control-tower.json](./222248-fly-this-flight-control-tower.json) |
 | Fly to Kuma | 58788 | [58788-fly-to-kuma.json](./58788-fly-to-kuma.json) |
 | Fly Together! | 146215 | [146215-fly-together.json](./146215-fly-together.json) |
 | Fly Wars | 59662 | [59662-fly-wars.json](./59662-fly-wars.json) |
