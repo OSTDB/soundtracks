@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O-Bot The Robot | 336608 | [336608-o-bot-the-robot.json](./336608-o-bot-the-robot.json) |
 | O-Bot The Robot 2 | 266225 | [266225-o-bot-the-robot-2.json](./266225-o-bot-the-robot-2.json) |
 | O-Bot The Robot: Re-Botted | 418740 | [418740-o-bot-the-robot-re-botted.json](./418740-o-bot-the-robot-re-botted.json) |
+| O-chan no Oekaki Logic | 186657 | [186657-o-chan-no-oekaki-logic.json](./186657-o-chan-no-oekaki-logic.json) |
 | O-o-o | 232404 | [232404-o-o-o.json](./232404-o-o-o.json) |
 | O-Sim 22 | 222281 | [222281-o-sim-22.json](./222281-o-sim-22.json) |
 | O-Void | 257470 | [257470-o-void.json](./257470-o-void.json) |
@@ -511,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ohimesama: Jiku wo Koeru | 97694 | [97694-ohimesama-jiku-wo-koeru.json](./97694-ohimesama-jiku-wo-koeru.json) |
 | OhMyWitch! | 266876 | [266876-ohmywitch.json](./266876-ohmywitch.json) |
 | Ohno Odyssey | 23519 | [23519-ohno-odyssey.json](./23519-ohno-odyssey.json) |
+| Ohr Oni | 186620 | [186620-ohr-oni.json](./186620-ohr-oni.json) |
 | OHV | 216978 | [216978-ohv.json](./216978-ohv.json) |
 | Oi, Innkeep! | 96121 | [96121-oi-innkeep.json](./96121-oi-innkeep.json) |
 | Oib.io | 86079 | [86079-oib-io.json](./86079-oib-io.json) |
