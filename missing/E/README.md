@@ -1146,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emberwing: Lost Legacy - Collector's Edition | 416612 | [416612-emberwing-lost-legacy-collectors-edition.json](./416612-emberwing-lost-legacy-collectors-edition.json) |
 | Emblems: Sunless Vow | 294291 | [294291-emblems-sunless-vow.json](./294291-emblems-sunless-vow.json) |
 | Embr | 117312 | [117312-embr.json](./117312-embr.json) |
+| Embrace | 177866 | [177866-embrace.json](./177866-embrace.json) |
 | Embrace of Ocean: Story of Hope | 51956 | [51956-embrace-of-ocean-story-of-hope.json](./51956-embrace-of-ocean-story-of-hope.json) |
 | Embrace the Fear | 29773 | [29773-embrace-the-fear.json](./29773-embrace-the-fear.json) |
 | Embraced | 299429 | [299429-embraced.json](./299429-embraced.json) |
@@ -1678,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entasy Online | 230242 | [230242-entasy-online.json](./230242-entasy-online.json) |
 | Enter HorrorLand | 344561 | [344561-enter-horrorland.json](./344561-enter-horrorland.json) |
 | Enter the Backrooms | 157710 | [157710-enter-the-backrooms.json](./157710-enter-the-backrooms.json) |
+| Enter the Chronosphere | 177862 | [177862-enter-the-chronosphere.json](./177862-enter-the-chronosphere.json) |
 | Enter the Construct | 117016 | [117016-enter-the-construct.json](./117016-enter-the-construct.json) |
 | Enter the Cum | 203946 | [203946-enter-the-cum.json](./203946-enter-the-cum.json) |
 | Enter the Flesh Again | 105110 | [105110-enter-the-flesh-again.json](./105110-enter-the-flesh-again.json) |
