@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Heat | 284966 | [284966-dead-heat.json](./284966-dead-heat.json) |
 | Dead Hook | 252209 | [252209-dead-hook.json](./252209-dead-hook.json) |
 | Dead Hospital | 406174 | [406174-dead-hospital.json](./406174-dead-hospital.json) |
+| Dead House: Saisei | 218972 | [218972-dead-house-saisei.json](./218972-dead-house-saisei.json) |
 | Dead Humanity | 269034 | [269034-dead-humanity.json](./269034-dead-humanity.json) |
 | Dead Hungry Diner | 8442 | [8442-dead-hungry-diner.json](./8442-dead-hungry-diner.json) |
 | Dead Hunter | 119760 | [119760-dead-hunter.json](./119760-dead-hunter.json) |
@@ -3843,6 +3844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovery Kids: Kitten Corner | 72957 | [72957-discovery-kids-kitten-corner.json](./72957-discovery-kids-kitten-corner.json) |
 | Discovery Kids: Pony Paradise | 69273 | [69273-discovery-kids-pony-paradise.json](./69273-discovery-kids-pony-paradise.json) |
 | Discovery Kids: Spider Quest | 67308 | [67308-discovery-kids-spider-quest.json](./67308-discovery-kids-spider-quest.json) |
+| Discovery Tour Bundle by Assassin's Creed | 218999 | [218999-discovery-tour-bundle-by-assassins-creed.json](./218999-discovery-tour-bundle-by-assassins-creed.json) |
 | Discovery Tour: Ancient Greece | 133962 | [133962-discovery-tour-ancient-greece.json](./133962-discovery-tour-ancient-greece.json) |
 | Discovery: A Seek and Find Adventure | 9386 | [9386-discovery-a-seek-and-find-adventure.json](./9386-discovery-a-seek-and-find-adventure.json) |
 | Discovr Egypt: King Tut's Tomb | 33086 | [33086-discovr-egypt-king-tuts-tomb.json](./33086-discovr-egypt-king-tuts-tomb.json) |
@@ -4922,6 +4924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donny Donut: Dokrats | 265689 | [265689-donny-donut-dokrats.json](./265689-donny-donut-dokrats.json) |
 | Donny Donut: Stardust | 417697 | [417697-donny-donut-stardust.json](./417697-donny-donut-stardust.json) |
 | DoNor - Onna Tantei Ryoujoku | 131380 | [131380-donor-onna-tantei-ryoujoku.json](./131380-donor-onna-tantei-ryoujoku.json) |
+| Donpen Beat | 218966 | [218966-donpen-beat.json](./218966-donpen-beat.json) |
 | Donsol | 177521 | [177521-donsol.json](./177521-donsol.json) |
 | Donsol | 275678 | [275678-donsol.json](./275678-donsol.json) |
 | Dont Jump: Gamesforfarm | 364592 | [364592-dont-jump-gamesforfarm.json](./364592-dont-jump-gamesforfarm.json) |
