@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:D Cherish! SS: Desperado's One Operation | 370696 | [370696-re-d-cherish-ss-desperados-one-operation.json](./370696-re-d-cherish-ss-desperados-one-operation.json) |
 | Re:D Cherish! SS: Rouge's One Operation | 370697 | [370697-re-d-cherish-ss-rouges-one-operation.json](./370697-re-d-cherish-ss-rouges-one-operation.json) |
 | Re:D Cherish!: Eternity Blood | 370695 | [370695-re-d-cherish-eternity-blood.json](./370695-re-d-cherish-eternity-blood.json) |
+| Re:Dreamer | 213911 | [213911-re-dreamer.json](./213911-re-dreamer.json) |
 | Re:Fragment - Absolute Ambition | 319008 | [319008-re-fragment-absolute-ambition.json](./319008-re-fragment-absolute-ambition.json) |
 | Re:Fresh | 239086 | [239086-re-fresh.json](./239086-re-fresh.json) |
 | Re:Kuroi | 151725 | [151725-re-kuroi.json](./151725-re-kuroi.json) |
@@ -2239,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 2: Collector's Edition | 105979 | [105979-resident-evil-2-collectors-edition.json](./105979-resident-evil-2-collectors-edition.json) |
 | Resident Evil 2: Collector's Edition | 221401 | [221401-resident-evil-2-collectors-edition.json](./221401-resident-evil-2-collectors-edition.json) |
 | Resident Evil 2: Deluxe Edition | 110809 | [110809-resident-evil-2-deluxe-edition.json](./110809-resident-evil-2-deluxe-edition.json) |
+| Resident Evil 2: Dual Shock Ver. | 213875 | [213875-resident-evil-2-dual-shock-ver.json](./213875-resident-evil-2-dual-shock-ver.json) |
 | Resident Evil 2: Marvin's Mod | 333762 | [333762-resident-evil-2-marvins-mod.json](./333762-resident-evil-2-marvins-mod.json) |
 | Resident Evil 2: Pix' N Love Limited Edition | 221404 | [221404-resident-evil-2-pix-n-love-limited-edition.json](./221404-resident-evil-2-pix-n-love-limited-edition.json) |
 | Resident Evil 2: Special Edition | 280755 | [280755-resident-evil-2-special-edition.json](./280755-resident-evil-2-special-edition.json) |
@@ -4668,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rozalin and the Palace of Flowers | 150669 | [150669-rozalin-and-the-palace-of-flowers.json](./150669-rozalin-and-the-palace-of-flowers.json) |
 | Rozen Maiden AliBat: Record of Rozen War | 124736 | [124736-rozen-maiden-alibat-record-of-rozen-war.json](./124736-rozen-maiden-alibat-record-of-rozen-war.json) |
 | Rozen Maiden: Wechseln Sie Welt ab | 86091 | [86091-rozen-maiden-wechseln-sie-welt-ab.json](./86091-rozen-maiden-wechseln-sie-welt-ab.json) |
+| RozenDiadem | 213909 | [213909-rozendiadem.json](./213909-rozendiadem.json) |
 | RPaints | 91727 | [91727-rpaints.json](./91727-rpaints.json) |
 | RPG Alchemy: Bestiary I | 324487 | [324487-rpg-alchemy-bestiary-i.json](./324487-rpg-alchemy-bestiary-i.json) |
 | RPG Boss Battle | 104441 | [104441-rpg-boss-battle.json](./104441-rpg-boss-battle.json) |
