@@ -1797,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | People's Press Kiosk | 410957 | [410957-peoples-press-kiosk.json](./410957-peoples-press-kiosk.json) |
 | People's Tactics | 69556 | [69556-peoples-tactics.json](./69556-peoples-tactics.json) |
 | People's World | 284903 | [284903-peoples-world.json](./284903-peoples-world.json) |
+| Peopletale Online | 176790 | [176790-peopletale-online.json](./176790-peopletale-online.json) |
 | Pepe's Little Adventure | 325703 | [325703-pepes-little-adventure.json](./325703-pepes-little-adventure.json) |
 | Pepez: The game | 341584 | [341584-pepez-the-game.json](./341584-pepez-the-game.json) |
 | Pepi Doctor | 343994 | [343994-pepi-doctor.json](./343994-pepi-doctor.json) |
@@ -2148,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Championship Golf Collecter's Edition | 209985 | [209985-pga-championship-golf-collecters-edition.json](./209985-pga-championship-golf-collecters-edition.json) |
 | PGA European Tour | 209984 | [209984-pga-european-tour.json](./209984-pga-european-tour.json) |
 | PGA European Tour Golf | 209983 | [209983-pga-european-tour-golf.json](./209983-pga-european-tour-golf.json) |
+| PGA Tour 2K21: Baller Edition | 176792 | [176792-pga-tour-2k21-baller-edition.json](./176792-pga-tour-2k21-baller-edition.json) |
 | PGA Tour 2K23: Tiger Woods Edition | 221421 | [221421-pga-tour-2k23-tiger-woods-edition.json](./221421-pga-tour-2k23-tiger-woods-edition.json) |
 | PGA Tour 2K25 | 328079 | [328079-pga-tour-2k25.json](./328079-pga-tour-2k25.json) |
 | PGA Tour 96 TPC at Sawgrass Championship Course | 209982 | [209982-pga-tour-96-tpc-at-sawgrass-championship-course.json](./209982-pga-tour-96-tpc-at-sawgrass-championship-course.json) |
@@ -3067,9 +3069,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pippin | 92542 | [92542-pippin.json](./92542-pippin.json) |
 | Pippin's Mysterious Garden | 258729 | [258729-pippins-mysterious-garden.json](./258729-pippins-mysterious-garden.json) |
 | Pippo's Quest | 251584 | [251584-pippos-quest.json](./251584-pippos-quest.json) |
+| Pir-Crew | 176783 | [176783-pir-crew.json](./176783-pir-crew.json) |
 | Piraka Attack | 409761 | [409761-piraka-attack.json](./409761-piraka-attack.json) |
 | Pirarucu's Money Rush | 301023 | [301023-pirarucus-money-rush.json](./301023-pirarucus-money-rush.json) |
 | Pirate | 41424 | [41424-pirate.json](./41424-pirate.json) |
+| Pirate Adventure | 176799 | [176799-pirate-adventure.json](./176799-pirate-adventure.json) |
 | Pirate Adventures: hidden object game | 104630 | [104630-pirate-adventures-hidden-object-game.json](./104630-pirate-adventures-hidden-object-game.json) |
 | Pirate Cannons Ahoy! | 115675 | [115675-pirate-cannons-ahoy.json](./115675-pirate-cannons-ahoy.json) |
 | Pirate Chest Chess | 365875 | [365875-pirate-chest-chess.json](./365875-pirate-chest-chess.json) |
@@ -3081,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Code | 62727 | [62727-pirate-code.json](./62727-pirate-code.json) |
 | Pirate Cove Simulator | 326381 | [326381-pirate-cove-simulator.json](./326381-pirate-cove-simulator.json) |
 | Pirate Dawn | 62414 | [62414-pirate-dawn.json](./62414-pirate-dawn.json) |
+| Pirate Defender | 176805 | [176805-pirate-defender.json](./176805-pirate-defender.json) |
 | Pirate Doom II | 298313 | [298313-pirate-doom-ii.json](./298313-pirate-doom-ii.json) |
 | Pirate Escape | 323506 | [323506-pirate-escape.json](./323506-pirate-escape.json) |
 | Pirate Fighting Simulator | 234023 | [234023-pirate-fighting-simulator.json](./234023-pirate-fighting-simulator.json) |
