@@ -4513,6 +4513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colin McRae Rally | 7967 | [7967-colin-mcrae-rally.json](./7967-colin-mcrae-rally.json) |
 | Colin McRae Rally 2.0 | 235185 | [235185-colin-mcrae-rally-2-0.json](./235185-colin-mcrae-rally-2-0.json) |
 | Colin McRae Rally 2005 | 175916 | [175916-colin-mcrae-rally-2005.json](./175916-colin-mcrae-rally-2005.json) |
+| Colin McRae: Dirt 2 | 202101 | [202101-colin-mcrae-dirt-2.json](./202101-colin-mcrae-dirt-2.json) |
 | Colin the Cleaner | 84232 | [84232-colin-the-cleaner.json](./84232-colin-the-cleaner.json) |
 | Colina: Legacy | 35181 | [35181-colina-legacy.json](./35181-colina-legacy.json) |
 | Collage | 177037 | [177037-collage.json](./177037-collage.json) |
