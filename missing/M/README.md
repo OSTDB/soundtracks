@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage vs. Castle | 301819 | [301819-mage-vs-castle.json](./301819-mage-vs-castle.json) |
 | Mage World: The Wizard's Stone | 169419 | [169419-mage-world-the-wizards-stone.json](./169419-mage-world-the-wizards-stone.json) |
 | Mage: Enchanted | 169946 | [169946-mage-enchanted.json](./169946-mage-enchanted.json) |
+| Mage's Arena | 205009 | [205009-mages-arena.json](./205009-mages-arena.json) |
 | Mage's Legacy | 312162 | [312162-mages-legacy.json](./312162-mages-legacy.json) |
 | Mageanoid | 312190 | [312190-mageanoid.json](./312190-mageanoid.json) |
 | Magefall | 210719 | [210719-magefall.json](./210719-magefall.json) |
@@ -1925,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Iron Man VR | 116585 | [116585-marvels-iron-man-vr.json](./116585-marvels-iron-man-vr.json) |
 | Marvel's Iron Man VR: Digital Deluxe Edition | 255653 | [255653-marvels-iron-man-vr-digital-deluxe-edition.json](./255653-marvels-iron-man-vr-digital-deluxe-edition.json) |
 | Marvel's Midnight Suns: Blood Storm | 248352 | [248352-marvels-midnight-suns-blood-storm.json](./248352-marvels-midnight-suns-blood-storm.json) |
+| Marvel's Midnight Suns: Digital+ Edition | 205003 | [205003-marvels-midnight-suns-digital-edition.json](./205003-marvels-midnight-suns-digital-edition.json) |
 | Marvel's Midnight Suns: Redemption | 239379 | [239379-marvels-midnight-suns-redemption.json](./239379-marvels-midnight-suns-redemption.json) |
 | Marvel's Midnight Suns: Season Pass | 293722 | [293722-marvels-midnight-suns-season-pass.json](./293722-marvels-midnight-suns-season-pass.json) |
 | Marvel's Midnight Suns: The Good, The Bad, and The Undead | 232424 | [232424-marvels-midnight-suns-the-good-the-bad-and-the-undead.json](./232424-marvels-midnight-suns-the-good-the-bad-and-the-undead.json) |
@@ -2652,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech vs. Bugs | 263784 | [263784-mech-vs-bugs.json](./263784-mech-vs-bugs.json) |
 | Mech Wars | 317028 | [317028-mech-wars.json](./317028-mech-wars.json) |
 | Mech_Romancer | 134590 | [134590-mech-romancer.json](./134590-mech-romancer.json) |
+| Mech_Romancer Charity Bundle 2 | 205016 | [205016-mech-romancer-charity-bundle-2.json](./205016-mech-romancer-charity-bundle-2.json) |
 | Mecha | 336622 | [336622-mecha.json](./336622-mecha.json) |
 | Mecha Ace | 17745 | [17745-mecha-ace.json](./17745-mecha-ace.json) |
 | Mecha Arena | 321494 | [321494-mecha-arena.json](./321494-mecha-arena.json) |
@@ -5782,6 +5785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moeru Mahjong: Moejong! | 398475 | [398475-moeru-mahjong-moejong.json](./398475-moeru-mahjong-moejong.json) |
 | Moeru! Onii-san | 48327 | [48327-moeru-onii-san.json](./48327-moeru-onii-san.json) |
 | Moetan DS | 94002 | [94002-moetan-ds.json](./94002-moetan-ds.json) |
+| Mofumofu Sensen | 205013 | [205013-mofumofu-sensen.json](./205013-mofumofu-sensen.json) |
 | Mogeko Castle | 213382 | [213382-mogeko-castle.json](./213382-mogeko-castle.json) |
 | Mogeko Castle | 61296 | [61296-mogeko-castle.json](./61296-mogeko-castle.json) |
 | Mogo Invasion | 48004 | [48004-mogo-invasion.json](./48004-mogo-invasion.json) |
@@ -8411,6 +8415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Adventure of Michael | 44205 | [44205-mysterious-adventure-of-michael.json](./44205-mysterious-adventure-of-michael.json) |
 | Mysterious Adventure of Michael 2 | 190103 | [190103-mysterious-adventure-of-michael-2.json](./190103-mysterious-adventure-of-michael-2.json) |
 | Mysterious Blocks 2 | 152857 | [152857-mysterious-blocks-2.json](./152857-mysterious-blocks-2.json) |
+| Mysterious Castle | 205008 | [205008-mysterious-castle.json](./205008-mysterious-castle.json) |
 | Mysterious Forum and 7 Rumors | 115484 | [115484-mysterious-forum-and-7-rumors.json](./115484-mysterious-forum-and-7-rumors.json) |
 | Mysterious insects | 82468 | [82468-mysterious-insects.json](./82468-mysterious-insects.json) |
 | Mysterious Island: A Hidden Object Adventure | 195758 | [195758-mysterious-island-a-hidden-object-adventure.json](./195758-mysterious-island-a-hidden-object-adventure.json) |
