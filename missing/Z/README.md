@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda 64 1997 | 286619 | [286619-zelda-64-1997.json](./286619-zelda-64-1997.json) |
 | Zelda 64: Dawn & Dusk | 132646 | [132646-zelda-64-dawn-and-dusk.json](./132646-zelda-64-dawn-and-dusk.json) |
 | Zelda 64: Recompiled | 300982 | [300982-zelda-64-recompiled.json](./300982-zelda-64-recompiled.json) |
+| Zelda II: Amida's Curse | 214470 | [214470-zelda-ii-amidas-curse.json](./214470-zelda-ii-amidas-curse.json) |
 | Zelda II: Boss Endurance | 280757 | [280757-zelda-ii-boss-endurance.json](./280757-zelda-ii-boss-endurance.json) |
 | Zelda II: Paracosm | 305342 | [305342-zelda-ii-paracosm.json](./305342-zelda-ii-paracosm.json) |
 | Zelda II: Resurrection of Ganon | 339257 | [339257-zelda-ii-resurrection-of-ganon.json](./339257-zelda-ii-resurrection-of-ganon.json) |
