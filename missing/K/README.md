@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidbash: Super Legend | 275736 | [275736-kidbash-super-legend.json](./275736-kidbash-super-legend.json) |
 | Kiddie Coaster | 66045 | [66045-kiddie-coaster.json](./66045-kiddie-coaster.json) |
 | Kiddies Party Pack | 100174 | [100174-kiddies-party-pack.json](./100174-kiddies-party-pack.json) |
+| Kiddo | 176794 | [176794-kiddo.json](./176794-kiddo.json) |
 | Kiddy Kong's Challenge | 307718 | [307718-kiddy-kongs-challenge.json](./307718-kiddy-kongs-challenge.json) |
 | Kiddy Memory | 221264 | [221264-kiddy-memory.json](./221264-kiddy-memory.json) |
 | Kidgames | 131351 | [131351-kidgames.json](./131351-kidgames.json) |
