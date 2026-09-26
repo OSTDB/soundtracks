@@ -4183,14 +4183,28 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Portable: Clazziquai Edition | 79327 | [79327-djmax-portable-clazziquai-edition.json](./79327-djmax-portable-clazziquai-edition.json) |
 | DJMax Respect | 28192 | [28192-djmax-respect.json](./28192-djmax-respect.json) |
 | DJMax Respect V: Arcaea Pack | 366929 | [366929-djmax-respect-v-arcaea-pack.json](./366929-djmax-respect-v-arcaea-pack.json) |
+| DJMax Respect V: Black Square Pack | 225049 | [225049-djmax-respect-v-black-square-pack.json](./225049-djmax-respect-v-black-square-pack.json) |
+| DJMax Respect V: Chunithm Pack | 225047 | [225047-djmax-respect-v-chunithm-pack.json](./225047-djmax-respect-v-chunithm-pack.json) |
+| DJMax Respect V: Clazziquai Edition Pack | 225044 | [225044-djmax-respect-v-clazziquai-edition-pack.json](./225044-djmax-respect-v-clazziquai-edition-pack.json) |
+| DJMax Respect V: Cytus Pack | 225056 | [225056-djmax-respect-v-cytus-pack.json](./225056-djmax-respect-v-cytus-pack.json) |
+| DJMax Respect V: Deemo Pack | 225048 | [225048-djmax-respect-v-deemo-pack.json](./225048-djmax-respect-v-deemo-pack.json) |
 | DJMax Respect V: Emotional Sense Pack | 225060 | [225060-djmax-respect-v-emotional-sense-pack.json](./225060-djmax-respect-v-emotional-sense-pack.json) |
 | DJMax Respect V: Estimate Pack | 261875 | [261875-djmax-respect-v-estimate-pack.json](./261875-djmax-respect-v-estimate-pack.json) |
 | DJMax Respect V: Ez2on Pack | 239342 | [239342-djmax-respect-v-ez2on-pack.json](./239342-djmax-respect-v-ez2on-pack.json) |
 | DJMax Respect V: Girls' Frontline Pack | 261876 | [261876-djmax-respect-v-girls-frontline-pack.json](./261876-djmax-respect-v-girls-frontline-pack.json) |
 | DJMax Respect V: Groove Coaster Pack | 225059 | [225059-djmax-respect-v-groove-coaster-pack.json](./225059-djmax-respect-v-groove-coaster-pack.json) |
 | DJMax Respect V: MapleStory Pack | 265635 | [265635-djmax-respect-v-maplestory-pack.json](./265635-djmax-respect-v-maplestory-pack.json) |
+| DJMax Respect V: Muse Dash Pack | 225052 | [225052-djmax-respect-v-muse-dash-pack.json](./225052-djmax-respect-v-muse-dash-pack.json) |
+| DJMax Respect V: Nexon Pack | 225054 | [225054-djmax-respect-v-nexon-pack.json](./225054-djmax-respect-v-nexon-pack.json) |
+| DJMax Respect V: Portable 3 Pack | 225050 | [225050-djmax-respect-v-portable-3-pack.json](./225050-djmax-respect-v-portable-3-pack.json) |
+| DJMax Respect V: Technika 2 Pack | 225053 | [225053-djmax-respect-v-technika-2-pack.json](./225053-djmax-respect-v-technika-2-pack.json) |
+| DJMax Respect V: Technika 3 Pack | 225046 | [225046-djmax-respect-v-technika-3-pack.json](./225046-djmax-respect-v-technika-3-pack.json) |
 | DJMax Respect V: Technika Pack | 225058 | [225058-djmax-respect-v-technika-pack.json](./225058-djmax-respect-v-technika-pack.json) |
+| DJMax Respect V: Technika Tune & Q Pack | 225051 | [225051-djmax-respect-v-technika-tune-and-q-pack.json](./225051-djmax-respect-v-technika-tune-and-q-pack.json) |
+| DJMax Respect V: Trilogy Pack | 225045 | [225045-djmax-respect-v-trilogy-pack.json](./225045-djmax-respect-v-trilogy-pack.json) |
+| DJMax Respect V: V Extension II Pack | 225055 | [225055-djmax-respect-v-v-extension-ii-pack.json](./225055-djmax-respect-v-v-extension-ii-pack.json) |
 | DJMax Respect V: V Extension III Pack | 226691 | [226691-djmax-respect-v-v-extension-iii-pack.json](./226691-djmax-respect-v-v-extension-iii-pack.json) |
+| DJMax Respect V: V Extension Pack | 225057 | [225057-djmax-respect-v-v-extension-pack.json](./225057-djmax-respect-v-v-extension-pack.json) |
 | DJMax Respect V: V Liberty Pack | 307059 | [307059-djmax-respect-v-v-liberty-pack.json](./307059-djmax-respect-v-v-liberty-pack.json) |
 | DJMax Respect: Chunithm Pack | 383046 | [383046-djmax-respect-chunithm-pack.json](./383046-djmax-respect-chunithm-pack.json) |
 | DJMax Respect: Technika3 Pack | 383056 | [383056-djmax-respect-technika3-pack.json](./383056-djmax-respect-technika3-pack.json) |
