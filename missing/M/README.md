@@ -3172,6 +3172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Typhoon | 245245 | [245245-mega-typhoon.json](./245245-mega-typhoon.json) |
 | Mega Veg Man | 148538 | [148538-mega-veg-man.json](./148538-mega-veg-man.json) |
 | Mega Zombie | 146875 | [146875-mega-zombie.json](./146875-mega-zombie.json) |
+| Mega Zombie Explosion | 190436 | [190436-mega-zombie-explosion.json](./190436-mega-zombie-explosion.json) |
 | Mega-Bots | 214776 | [214776-mega-bots.json](./214776-mega-bots.json) |
 | Mega-Bucks | 37068 | [37068-mega-bucks.json](./37068-mega-bucks.json) |
 | Mega-Corp | 45345 | [45345-mega-corp.json](./45345-mega-corp.json) |
@@ -5399,6 +5400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Command 3D | 40810 | [40810-missile-command-3d.json](./40810-missile-command-3d.json) |
 | Missile Command: Recharged | 132154 | [132154-missile-command-recharged.json](./132154-missile-command-recharged.json) |
 | Missile Control | 13252 | [13252-missile-control.json](./13252-missile-control.json) |
+| Missile Input | 190477 | [190477-missile-input.json](./190477-missile-input.json) |
 | Missile Survivor | 319240 | [319240-missile-survivor.json](./319240-missile-survivor.json) |
 | Missile Tank | 160256 | [160256-missile-tank.json](./160256-missile-tank.json) |
 | Missileman | 197634 | [197634-missileman.json](./197634-missileman.json) |
@@ -6218,6 +6220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Fantasy | 116339 | [116339-monster-girl-fantasy.json](./116339-monster-girl-fantasy.json) |
 | Monster Girl Jungle | 375969 | [375969-monster-girl-jungle.json](./375969-monster-girl-jungle.json) |
 | Monster Girl Maker 2 | 362265 | [362265-monster-girl-maker-2.json](./362265-monster-girl-maker-2.json) |
+| Monster Girl Manager | 190438 | [190438-monster-girl-manager.json](./190438-monster-girl-manager.json) |
 | Monster Girl Prom | 96672 | [96672-monster-girl-prom.json](./96672-monster-girl-prom.json) |
 | Monster Girl Saga: Fallen Heroes | 341330 | [341330-monster-girl-saga-fallen-heroes.json](./341330-monster-girl-saga-fallen-heroes.json) |
 | Monster Girls: You Can't Say No | 415164 | [415164-monster-girls-you-cant-say-no.json](./415164-monster-girls-you-cant-say-no.json) |
