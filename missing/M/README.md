@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Craft | 130897 | [130897-mage-craft.json](./130897-mage-craft.json) |
 | Mage Hunt: Spellshifter | 295279 | [295279-mage-hunt-spellshifter.json](./295279-mage-hunt-spellshifter.json) |
 | Mage Knight: Destiny's Soldier | 20576 | [20576-mage-knight-destinys-soldier.json](./20576-mage-knight-destinys-soldier.json) |
+| Mage Lords of Brams | 215608 | [215608-mage-lords-of-brams.json](./215608-mage-lords-of-brams.json) |
 | Mage Mania | 120408 | [120408-mage-mania.json](./120408-mage-mania.json) |
 | Mage March | 185155 | [185155-mage-march.json](./185155-mage-march.json) |
 | Mage of Tempest Castle | 371352 | [371352-mage-of-tempest-castle.json](./371352-mage-of-tempest-castle.json) |
@@ -495,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic LightHouse | 147385 | [147385-magic-lighthouse.json](./147385-magic-lighthouse.json) |
 | Magic Machine Gun | 248684 | [248684-magic-machine-gun.json](./248684-magic-machine-gun.json) |
 | Magic Maho: Dream Runner | 374147 | [374147-magic-maho-dream-runner.json](./374147-magic-maho-dream-runner.json) |
+| Magic Market | 215609 | [215609-magic-market.json](./215609-magic-market.json) |
 | Magic Market World | 415129 | [415129-magic-market-world.json](./415129-magic-market-world.json) |
 | Magic Math | 299266 | [299266-magic-math.json](./299266-magic-math.json) |
 | Magic Memory Match Free | 232049 | [232049-magic-memory-match-free.json](./232049-magic-memory-match-free.json) |
@@ -990,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makeruna! Makendou Z | 64091 | [64091-makeruna-makendou-z.json](./64091-makeruna-makendou-z.json) |
 | MakeThatMoney | 90473 | [90473-makethatmoney.json](./90473-makethatmoney.json) |
 | Makeup Stylist: DIY Makeup Game | 208971 | [208971-makeup-stylist-diy-makeup-game.json](./208971-makeup-stylist-diy-makeup-game.json) |
+| Maki: Paw of Fury | 215610 | [215610-maki-paw-of-fury.json](./215610-maki-paw-of-fury.json) |
 | Makibishi Comic | 237501 | [237501-makibishi-comic.json](./237501-makibishi-comic.json) |
 | Makin Biscuits | 178516 | [178516-makin-biscuits.json](./178516-makin-biscuits.json) |
 | Making Friends | 303646 | [303646-making-friends.json](./303646-making-friends.json) |
@@ -1211,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manludo 2 | 303643 | [303643-manludo-2.json](./303643-manludo-2.json) |
 | Manly Men Fighting | 58796 | [58796-manly-men-fighting.json](./58796-manly-men-fighting.json) |
 | MannaRites | 140566 | [140566-mannarites.json](./140566-mannarites.json) |
+| ManneKin: Hessler Storage | 215611 | [215611-mannekin-hessler-storage.json](./215611-mannekin-hessler-storage.json) |
 | Mannequin Academy | 183037 | [183037-mannequin-academy.json](./183037-mannequin-academy.json) |
 | Mannequin House | 171535 | [171535-mannequin-house.json](./171535-mannequin-house.json) |
 | Mannequin House | 290948 | [290948-mannequin-house.json](./290948-mannequin-house.json) |
@@ -1767,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Type I | 181855 | [181855-mars-type-i.json](./181855-mars-type-i.json) |
 | Mars Underground | 110490 | [110490-mars-underground.json](./110490-mars-underground.json) |
 | Mars: Chaos Menace | 111712 | [111712-mars-chaos-menace.json](./111712-mars-chaos-menace.json) |
+| Mars: The New Eden | 215618 | [215618-mars-the-new-eden.json](./215618-mars-the-new-eden.json) |
 | Mars: War Logs | 1830 | [1830-mars-war-logs.json](./1830-mars-war-logs.json) |
 | Mars4 | 266175 | [266175-mars4.json](./266175-mars4.json) |
 | Marsel: The Alien Clown | 245920 | [245920-marsel-the-alien-clown.json](./245920-marsel-the-alien-clown.json) |
@@ -2401,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaxRacer | 143670 | [143670-maxracer.json](./143670-maxracer.json) |
 | MaxSwitch | 220214 | [220214-maxswitch.json](./220214-maxswitch.json) |
 | Maxwell Manor | 25979 | [25979-maxwell-manor.json](./25979-maxwell-manor.json) |
+| Maxwell's Wicked Dollhouse | 215617 | [215617-maxwells-wicked-dollhouse.json](./215617-maxwells-wicked-dollhouse.json) |
 | Maxwell's World | 281504 | [281504-maxwells-world.json](./281504-maxwells-world.json) |
 | May Angels Fall Down | 257094 | [257094-may-angels-fall-down.json](./257094-may-angels-fall-down.json) |
 | May Blues | 153990 | [153990-may-blues.json](./153990-may-blues.json) |
@@ -2825,6 +2831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Squad Tactics | 415888 | [415888-medieval-squad-tactics.json](./415888-medieval-squad-tactics.json) |
 | Medieval Steve | 108253 | [108253-medieval-steve.json](./108253-medieval-steve.json) |
 | Medieval Tales Solitaire | 236254 | [236254-medieval-tales-solitaire.json](./236254-medieval-tales-solitaire.json) |
+| Medieval Warrior Simulator | 215616 | [215616-medieval-warrior-simulator.json](./215616-medieval-warrior-simulator.json) |
 | Medieval Wars | 165697 | [165697-medieval-wars.json](./165697-medieval-wars.json) |
 | Medieval: Defense & Conquest | 255792 | [255792-medieval-defense-and-conquest.json](./255792-medieval-defense-and-conquest.json) |
 | Medieval: Idle Prayer | 364603 | [364603-medieval-idle-prayer.json](./364603-medieval-idle-prayer.json) |
@@ -2897,6 +2904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MEFB | 130736 | [130736-mefb.json](./130736-mefb.json) |
 | MEG 9: Lost Echoes | 59944 | [59944-meg-9-lost-echoes.json](./59944-meg-9-lost-echoes.json) |
 | MEG:RVO | 62434 | [62434-meg-rvo.json](./62434-meg-rvo.json) |
+| Mega | 215615 | [215615-mega.json](./215615-mega.json) |
 | Mega 99Vidas | 274000 | [274000-mega-99vidas.json](./274000-mega-99vidas.json) |
 | Mega Babies | 209532 | [209532-mega-babies.json](./209532-mega-babies.json) |
 | Mega Blaster | 311664 | [311664-mega-blaster.json](./311664-mega-blaster.json) |
@@ -3960,6 +3968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Methods: Detective Competition | 319558 | [319558-methods-detective-competition.json](./319558-methods-detective-competition.json) |
 | Methods: The Canada Files | 224567 | [224567-methods-the-canada-files.json](./224567-methods-the-canada-files.json) |
 | Meticulous | 237085 | [237085-meticulous.json](./237085-meticulous.json) |
+| Meticulous: Meet All Your Needs | 215614 | [215614-meticulous-meet-all-your-needs.json](./215614-meticulous-meet-all-your-needs.json) |
 | Metin2 | 3119 | [3119-metin2.json](./3119-metin2.json) |
 | Metori | 107864 | [107864-metori.json](./107864-metori.json) |
 | Metric Racer | 133427 | [133427-metric-racer.json](./133427-metric-racer.json) |
@@ -4183,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroProse Entertainment Pack Vol #1: Dr Floyd's Desktop Toys | 98962 | [98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json](./98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json) |
 | Microscape | 411686 | [411686-microscape.json](./411686-microscape.json) |
 | Microscope Madness | 127211 | [127211-microscope-madness.json](./127211-microscope-madness.json) |
+| Microscopic | 215613 | [215613-microscopic.json](./215613-microscopic.json) |
 | Microshaft Winblows 98 | 81214 | [81214-microshaft-winblows-98.json](./81214-microshaft-winblows-98.json) |
 | MicroSoccer | 234062 | [234062-microsoccer.json](./234062-microsoccer.json) |
 | Microsoft Action Pack | 86036 | [86036-microsoft-action-pack.json](./86036-microsoft-action-pack.json) |
@@ -4527,6 +4537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milinda Wind - Geheimnis des Zephyros | 92283 | [92283-milinda-wind-geheimnis-des-zephyros.json](./92283-milinda-wind-geheimnis-des-zephyros.json) |
 | Milita Aventuro | 218711 | [218711-milita-aventuro.json](./218711-milita-aventuro.json) |
 | MilitAnt | 20877 | [20877-militant.json](./20877-militant.json) |
+| Military Attack | 215612 | [215612-military-attack.json](./215612-military-attack.json) |
 | Military Base War | 169447 | [169447-military-base-war.json](./169447-military-base-war.json) |
 | Military Combat Shooter Desert War | 283276 | [283276-military-combat-shooter-desert-war.json](./283276-military-combat-shooter-desert-war.json) |
 | Military Defense | 326192 | [326192-military-defense.json](./326192-military-defense.json) |
@@ -8198,6 +8209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sudoku: Classic 9x9 Medium 1 | 321978 | [321978-my-sudoku-classic-9x9-medium-1.json](./321978-my-sudoku-classic-9x9-medium-1.json) |
 | My Sudoku: Classic 9x9 Medium 2 | 321995 | [321995-my-sudoku-classic-9x9-medium-2.json](./321995-my-sudoku-classic-9x9-medium-2.json) |
 | My Sudoku: Classic 9x9 Medium 3 | 321976 | [321976-my-sudoku-classic-9x9-medium-3.json](./321976-my-sudoku-classic-9x9-medium-3.json) |
+| My Sugar Mommy is a Futanari | 215637 | [215637-my-sugar-mommy-is-a-futanari.json](./215637-my-sugar-mommy-is-a-futanari.json) |
 | My Summer Adventure: Memories of Another Life - Day 1 | 240809 | [240809-my-summer-adventure-memories-of-another-life-day-1.json](./240809-my-summer-adventure-memories-of-another-life-day-1.json) |
 | My Summer Car | 21453 | [21453-my-summer-car.json](./21453-my-summer-car.json) |
 | My Summer Jobs: Dialing for Dreams! | 238513 | [238513-my-summer-jobs-dialing-for-dreams.json](./238513-my-summer-jobs-dialing-for-dreams.json) |
@@ -8517,11 +8529,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystica: The Ninth Society | 33377 | [33377-mystica-the-ninth-society.json](./33377-mystica-the-ninth-society.json) |
 | Mystical | 34821 | [34821-mystical.json](./34821-mystical.json) |
 | Mystical Chain | 202950 | [202950-mystical-chain.json](./202950-mystical-chain.json) |
+| Mystical Conquests | 215639 | [215639-mystical-conquests.json](./215639-mystical-conquests.json) |
 | Mystical Crash in Magical Middle Ages: Adventure of Valkyrie | 313273 | [313273-mystical-crash-in-magical-middle-ages-adventure-of-valkyrie.json](./313273-mystical-crash-in-magical-middle-ages-adventure-of-valkyrie.json) |
 | Mystical Echoes | 149083 | [149083-mystical-echoes.json](./149083-mystical-echoes.json) |
 | Mystical Mixing | 224011 | [224011-mystical-mixing.json](./224011-mystical-mixing.json) |
 | Mystical Mushrooms | 341353 | [341353-mystical-mushrooms.json](./341353-mystical-mushrooms.json) |
 | Mystical Realms Collection | 201854 | [201854-mystical-realms-collection.json](./201854-mystical-realms-collection.json) |
+| Mystical Riddles: Behind Doll's Eyes - Collector's Edition | 215638 | [215638-mystical-riddles-behind-dolls-eyes-collectors-edition.json](./215638-mystical-riddles-behind-dolls-eyes-collectors-edition.json) |
 | Mystical Riddles: Ghostly Park DLC | 361775 | [361775-mystical-riddles-ghostly-park-dlc.json](./361775-mystical-riddles-ghostly-park-dlc.json) |
 | Mystical Riddles: Haunted Portraits - Collector's Edition | 337262 | [337262-mystical-riddles-haunted-portraits-collectors-edition.json](./337262-mystical-riddles-haunted-portraits-collectors-edition.json) |
 | Mystical Samurai | 136453 | [136453-mystical-samurai.json](./136453-mystical-samurai.json) |
@@ -8578,6 +8592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Victory Arena | 31795 | [31795-mythic-victory-arena.json](./31795-mythic-victory-arena.json) |
 | Mythic Writer | 165654 | [165654-mythic-writer.json](./165654-mythic-writer.json) |
 | Mythic Yi | 388240 | [388240-mythic-yi.json](./388240-mythic-yi.json) |
+| Mythic: Frost Trials | 215636 | [215636-mythic-frost-trials.json](./215636-mythic-frost-trials.json) |
 | Mythical Concept Starnaut | 272387 | [272387-mythical-concept-starnaut.json](./272387-mythical-concept-starnaut.json) |
 | Mythical Love | 319018 | [319018-mythical-love.json](./319018-mythical-love.json) |
 | Mythical Ruins | 338285 | [338285-mythical-ruins.json](./338285-mythical-ruins.json) |
