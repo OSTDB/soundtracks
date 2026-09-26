@@ -1039,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saving Punyville | 157032 | [157032-saving-punyville.json](./157032-saving-punyville.json) |
 | Saving You From Yourself | 133467 | [133467-saving-you-from-yourself.json](./133467-saving-you-from-yourself.json) |
 | Savior | 121034 | [121034-savior.json](./121034-savior.json) |
+| Savior of Light | 189961 | [189961-savior-of-light.json](./189961-savior-of-light.json) |
 | Saviors | 36264 | [36264-saviors.json](./36264-saviors.json) |
 | Saviors of Sapphire Wings | 117732 | [117732-saviors-of-sapphire-wings.json](./117732-saviors-of-sapphire-wings.json) |
 | Saviour of the Wasteland | 258959 | [258959-saviour-of-the-wasteland.json](./258959-saviour-of-the-wasteland.json) |
@@ -1806,6 +1807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Stone | 216314 | [216314-second-stone.json](./216314-second-stone.json) |
 | Second Story | 59688 | [59688-second-story.json](./59688-second-story.json) |
 | Second Thoughts | 203543 | [203543-second-thoughts.json](./203543-second-thoughts.json) |
+| Second to Nun | 189949 | [189949-second-to-nun.json](./189949-second-to-nun.json) |
 | Second Wave | 242250 | [242250-second-wave.json](./242250-second-wave.json) |
 | Second Wind | 390123 | [390123-second-wind.json](./390123-second-wind.json) |
 | Second World: Air War S | 113002 | [113002-second-world-air-war-s.json](./113002-second-world-air-war-s.json) |
@@ -2535,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Game: Naughty Girls - Episode 5 | 375270 | [375270-sex-game-naughty-girls-episode-5.json](./375270-sex-game-naughty-girls-episode-5.json) |
 | Sex Game: Naughty Girls - Episode 6 | 375271 | [375271-sex-game-naughty-girls-episode-6.json](./375271-sex-game-naughty-girls-episode-6.json) |
 | Sex Game: Threesome - Episode 4 | 375268 | [375268-sex-game-threesome-episode-4.json](./375268-sex-game-threesome-episode-4.json) |
+| Sex Girlfriend Simulator | 189977 | [189977-sex-girlfriend-simulator.json](./189977-sex-girlfriend-simulator.json) |
 | Sex Goddess Punishment | 295371 | [295371-sex-goddess-punishment.json](./295371-sex-goddess-punishment.json) |
 | Sex Hotel Simulator | 253312 | [253312-sex-hotel-simulator.json](./253312-sex-hotel-simulator.json) |
 | Sex House: Orgy Party | 273658 | [273658-sex-house-orgy-party.json](./273658-sex-house-orgy-party.json) |
@@ -6342,6 +6345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowman's Land | 308234 | [308234-snowmans-land.json](./308234-snowmans-land.json) |
 | Snowmobile Racing | 208902 | [208902-snowmobile-racing.json](./208902-snowmobile-racing.json) |
 | SnowRacer: Ramps | 246963 | [246963-snowracer-ramps.json](./246963-snowracer-ramps.json) |
+| SnowRocket | 189943 | [189943-snowrocket.json](./189943-snowrocket.json) |
 | SnowRunner + Expeditions: A MudRunner Game Bundle | 398397 | [398397-snowrunner-expeditions-a-mudrunner-game-bundle.json](./398397-snowrunner-expeditions-a-mudrunner-game-bundle.json) |
 | SnowRunner: 3-Year Anniversary Edition | 230833 | [230833-snowrunner-3-year-anniversary-edition.json](./230833-snowrunner-3-year-anniversary-edition.json) |
 | SnowRunner: 5-Year Anniversary Edition | 397767 | [397767-snowrunner-5-year-anniversary-edition.json](./397767-snowrunner-5-year-anniversary-edition.json) |
@@ -8984,6 +8988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Valor | 319702 | [319702-spirit-valor.json](./319702-spirit-valor.json) |
 | Spirit Vendor | 374618 | [374618-spirit-vendor.json](./374618-spirit-vendor.json) |
 | Spirit Whisperer Conversation With Akari | 363409 | [363409-spirit-whisperer-conversation-with-akari.json](./363409-spirit-whisperer-conversation-with-akari.json) |
+| Spirit Wolves | 189938 | [189938-spirit-wolves.json](./189938-spirit-wolves.json) |
 | Spirit X Strike | 319729 | [319729-spirit-x-strike.json](./319729-spirit-x-strike.json) |
 | Spirit-Capture Net | 383359 | [383359-spirit-capture-net.json](./383359-spirit-capture-net.json) |
 | Spirit: Lucky's Big Adventure | 143055 | [143055-spirit-luckys-big-adventure.json](./143055-spirit-luckys-big-adventure.json) |
@@ -11799,6 +11804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subjectivation | 341910 | [341910-subjectivation.json](./341910-subjectivation.json) |
 | Sublight | 377057 | [377057-sublight.json](./377057-sublight.json) |
 | Sublimity | 292528 | [292528-sublimity.json](./292528-sublimity.json) |
+| Subluminal | 189942 | [189942-subluminal.json](./189942-subluminal.json) |
 | Submachine 10: The Exit | 260768 | [260768-submachine-10-the-exit.json](./260768-submachine-10-the-exit.json) |
 | Submachine 6: The Edge | 260728 | [260728-submachine-6-the-edge.json](./260728-submachine-6-the-edge.json) |
 | Submachine 7: The Core | 260741 | [260741-submachine-7-the-core.json](./260741-submachine-7-the-core.json) |
