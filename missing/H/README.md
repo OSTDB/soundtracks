@@ -1783,6 +1783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty no Tanoshii Omiseyasan | 279604 | [279604-hello-kitty-no-tanoshii-omiseyasan.json](./279604-hello-kitty-no-tanoshii-omiseyasan.json) |
 | Hello Kitty no Waku-waku Quiz | 61677 | [61677-hello-kitty-no-waku-waku-quiz.json](./61677-hello-kitty-no-waku-waku-quiz.json) |
 | Hello Kitty Online | 3685 | [3685-hello-kitty-online.json](./3685-hello-kitty-online.json) |
+| Hello Kitty Pocket Camera | 207263 | [207263-hello-kitty-pocket-camera.json](./207263-hello-kitty-pocket-camera.json) |
 | Hello Kitty Racing Adventures | 279606 | [279606-hello-kitty-racing-adventures.json](./279606-hello-kitty-racing-adventures.json) |
 | Hello Kitty Skyland | 382441 | [382441-hello-kitty-skyland.json](./382441-hello-kitty-skyland.json) |
 | Hello Kitty to Sekai Ryokou! Ironna Kuni he Odekake Shimashou! | 222307 | [222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json](./222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json) |
@@ -2235,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herbheim's Mine | 188689 | [188689-herbheims-mine.json](./188689-herbheims-mine.json) |
 | Herbie at The Olympics | 40174 | [40174-herbie-at-the-olympics.json](./40174-herbie-at-the-olympics.json) |
 | Herbis | 158216 | [158216-herbis.json](./158216-herbis.json) |
+| Herbtales | 207279 | [207279-herbtales.json](./207279-herbtales.json) |
 | Hercules | 95425 | [95425-hercules.json](./95425-hercules.json) |
 | Hercules V: Platinum Edition | 255765 | [255765-hercules-v-platinum-edition.json](./255765-hercules-v-platinum-edition.json) |
 | Herd!!! | 234004 | [234004-herd.json](./234004-herd.json) |
@@ -4483,6 +4485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How | 241652 | [241652-how.json](./241652-how.json) |
 | How 2 Dreams | 224118 | [224118-how-2-dreams.json](./224118-how-2-dreams.json) |
 | How 2 Escape Collection | 351230 | [351230-how-2-escape-collection.json](./351230-how-2-escape-collection.json) |
+| How a Healthy Hentai Administers Public Service | 207261 | [207261-how-a-healthy-hentai-administers-public-service.json](./207261-how-a-healthy-hentai-administers-public-service.json) |
 | How a Retired Strategist Saved the Country | 221199 | [221199-how-a-retired-strategist-saved-the-country.json](./221199-how-a-retired-strategist-saved-the-country.json) |
 | How About Spikes | 103417 | [103417-how-about-spikes.json](./103417-how-about-spikes.json) |
 | How Am I Still Waiting for the Bus? | 348468 | [348468-how-am-i-still-waiting-for-the-bus.json](./348468-how-am-i-still-waiting-for-the-bus.json) |
@@ -4744,6 +4747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humbug | 57637 | [57637-humbug.json](./57637-humbug.json) |
 | Hume Index | 276218 | [276218-hume-index.json](./276218-hume-index.json) |
 | Hummer Offroad Challenge | 23559 | [23559-hummer-offroad-challenge.json](./23559-hummer-offroad-challenge.json) |
+| Hummingbird's Crown | 207241 | [207241-hummingbirds-crown.json](./207241-hummingbirds-crown.json) |
 | Humorpractor | 180845 | [180845-humorpractor.json](./180845-humorpractor.json) |
 | Humpsters | 71220 | [71220-humpsters.json](./71220-humpsters.json) |
 | Humpty's Castle Adventure | 210053 | [210053-humptys-castle-adventure.json](./210053-humptys-castle-adventure.json) |
