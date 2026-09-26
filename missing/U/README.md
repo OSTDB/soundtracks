@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Racing 2D | 99538 | [99538-ultimate-racing-2d.json](./99538-ultimate-racing-2d.json) |
 | Ultimate Racing 2D 2 | 164891 | [164891-ultimate-racing-2d-2.json](./164891-ultimate-racing-2d-2.json) |
 | Ultimate Ragdoll Game | 329183 | [329183-ultimate-ragdoll-game.json](./329183-ultimate-ragdoll-game.json) |
+| Ultimate Rally Club | 216175 | [216175-ultimate-rally-club.json](./216175-ultimate-rally-club.json) |
 | Ultimate Ride | 95444 | [95444-ultimate-ride.json](./95444-ultimate-ride.json) |
 | Ultimate Ride Coaster Deluxe | 23468 | [23468-ultimate-ride-coaster-deluxe.json](./23468-ultimate-ride-coaster-deluxe.json) |
 | Ultimate Ride Jumps Collection | 387670 | [387670-ultimate-ride-jumps-collection.json](./387670-ultimate-ride-jumps-collection.json) |
