@@ -5605,6 +5605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula City Master: Idle Army | 232394 | [232394-dracula-city-master-idle-army.json](./232394-dracula-city-master-idle-army.json) |
 | Dracula Frames | 168320 | [168320-dracula-frames.json](./168320-dracula-frames.json) |
 | Dracula Hakushaku | 66111 | [66111-dracula-hakushaku.json](./66111-dracula-hakushaku.json) |
+| Dracula Is Coming | 190447 | [190447-dracula-is-coming.json](./190447-dracula-is-coming.json) |
 | Dracula Solitaire | 386152 | [386152-dracula-solitaire.json](./386152-dracula-solitaire.json) |
 | Dracula Twins | 19594 | [19594-dracula-twins.json](./19594-dracula-twins.json) |
 | Dracula Unleashed | 5376 | [5376-dracula-unleashed.json](./5376-dracula-unleashed.json) |
@@ -6341,6 +6342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamland Farm: Stone Fence and Tiles | 324477 | [324477-dreamland-farm-stone-fence-and-tiles.json](./324477-dreamland-farm-stone-fence-and-tiles.json) |
 | Dreamland: Village Life | 208446 | [208446-dreamland-village-life.json](./208446-dreamland-village-life.json) |
 | Dreamlander | 147805 | [147805-dreamlander.json](./147805-dreamlander.json) |
+| Dreamlands: Cotton Candy Hunt | 190441 | [190441-dreamlands-cotton-candy-hunt.json](./190441-dreamlands-cotton-candy-hunt.json) |
 | Dreamless | 320135 | [320135-dreamless.json](./320135-dreamless.json) |
 | Dreamless Girl: Deluxe Edtion Plus | 335097 | [335097-dreamless-girl-deluxe-edtion-plus.json](./335097-dreamless-girl-deluxe-edtion-plus.json) |
 | Dreamless: The Madness from the Sea | 146846 | [146846-dreamless-the-madness-from-the-sea.json](./146846-dreamless-the-madness-from-the-sea.json) |
@@ -7069,6 +7071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Dad | 191832 | [191832-dungeon-dad.json](./191832-dungeon-dad.json) |
 | Dungeon Danger Traps 2 | 372543 | [372543-dungeon-danger-traps-2.json](./372543-dungeon-danger-traps-2.json) |
 | Dungeon Dealer | 179064 | [179064-dungeon-dealer.json](./179064-dungeon-dealer.json) |
+| Dungeon Death | 190480 | [190480-dungeon-death.json](./190480-dungeon-death.json) |
 | Dungeon Deathball | 102922 | [102922-dungeon-deathball.json](./102922-dungeon-deathball.json) |
 | Dungeon Defenders II: Heartwarming Bundle | 90701 | [90701-dungeon-defenders-ii-heartwarming-bundle.json](./90701-dungeon-defenders-ii-heartwarming-bundle.json) |
 | Dungeon Defenders Ultimate Collection | 341661 | [341661-dungeon-defenders-ultimate-collection.json](./341661-dungeon-defenders-ultimate-collection.json) |
