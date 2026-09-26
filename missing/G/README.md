@@ -2509,6 +2509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goime 500 | 56535 | [56535-goime-500.json](./56535-goime-500.json) |
 | Goin Up | 245033 | [245033-goin-up.json](./245033-goin-up.json) |
 | Going Balls | 378161 | [378161-going-balls.json](./378161-going-balls.json) |
+| Going Dark | 179518 | [179518-going-dark.json](./179518-going-dark.json) |
 | Going Dark | 338262 | [338262-going-dark.json](./338262-going-dark.json) |
 | Going Deeper! | 196301 | [196301-going-deeper.json](./196301-going-deeper.json) |
 | Going Down | 138786 | [138786-going-down.json](./138786-going-down.json) |
@@ -3593,6 +3594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | greenTech+ | 54058 | [54058-greentech.json](./54058-greentech.json) |
 | GreenWood Defense | 309858 | [309858-greenwood-defense.json](./309858-greenwood-defense.json) |
 | Greenwood Falls | 285545 | [285545-greenwood-falls.json](./285545-greenwood-falls.json) |
+| Greenwood: Amaranthus | 179511 | [179511-greenwood-amaranthus.json](./179511-greenwood-amaranthus.json) |
 | Greetings | 178562 | [178562-greetings.json](./178562-greetings.json) |
 | Greetings From Krampus! | 127229 | [127229-greetings-from-krampus.json](./127229-greetings-from-krampus.json) |
 | Greg Hastings' Tournament Paintball MAX'D | 5855 | [5855-greg-hastings-tournament-paintball-maxd.json](./5855-greg-hastings-tournament-paintball-maxd.json) |
