@@ -1296,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enamel | 64137 | [64137-enamel.json](./64137-enamel.json) |
 | EnantiO | 206233 | [206233-enantio.json](./206233-enantio.json) |
 | Enarian: Orbital Command | 415158 | [415158-enarian-orbital-command.json](./415158-enarian-orbital-command.json) |
+| Enatus Radi | 212216 | [212216-enatus-radi.json](./212216-enatus-radi.json) |
 | Enbody | 176999 | [176999-enbody.json](./176999-enbody.json) |
 | EnbornX | 61108 | [61108-enbornx.json](./61108-enbornx.json) |
 | Encased | 95407 | [95407-encased.json](./95407-encased.json) |
