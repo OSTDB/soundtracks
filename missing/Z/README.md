@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zolaris | 153454 | [153454-zolaris.json](./153454-zolaris.json) |
 | Zolyx | 52202 | [52202-zolyx.json](./52202-zolyx.json) |
 | Zom Nom | 127768 | [127768-zom-nom.json](./127768-zom-nom.json) |
+| Zom Tom | 199372 | [199372-zom-tom.json](./199372-zom-tom.json) |
 | Zombapocalypse | 25753 | [25753-zombapocalypse.json](./25753-zombapocalypse.json) |
 | Zombase | 377134 | [377134-zombase.json](./377134-zombase.json) |
 | Zombasite | 20460 | [20460-zombasite.json](./20460-zombasite.json) |
