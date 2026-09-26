@@ -2935,6 +2935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricochet Raven | 370668 | [370668-ricochet-raven.json](./370668-ricochet-raven.json) |
 | Ricochet Rodeo | 223419 | [223419-ricochet-rodeo.json](./223419-ricochet-rodeo.json) |
 | Ricochet Xtreme | 70421 | [70421-ricochet-xtreme.json](./70421-ricochet-xtreme.json) |
+| RicoGraph | 177868 | [177868-ricograph.json](./177868-ricograph.json) |
 | Riddim Ribbon | 66040 | [66040-riddim-ribbon.json](./66040-riddim-ribbon.json) |
 | Riddle Diario | 109063 | [109063-riddle-diario.json](./109063-riddle-diario.json) |
 | Riddle fidget spinner | 297649 | [297649-riddle-fidget-spinner.json](./297649-riddle-fidget-spinner.json) |
