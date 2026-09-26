@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Neko Nihonshi: Rekishi Hakken Puzzle! | 222536 | [222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json](./222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json) |
 | Neko Neko Rampage | 231304 | [231304-neko-neko-rampage.json](./231304-neko-neko-rampage.json) |
 | Neko Night | 222912 | [222912-neko-night.json](./222912-neko-night.json) |
+| Neko Nyaa~ | 195479 | [195479-neko-nyaa.json](./195479-neko-nyaa.json) |
 | Neko Rescue Tale | 241040 | [241040-neko-rescue-tale.json](./241040-neko-rescue-tale.json) |
 | Neko Sagashi | 227270 | [227270-neko-sagashi.json](./227270-neko-sagashi.json) |
 | Neko Samurai | 212468 | [212468-neko-samurai.json](./212468-neko-samurai.json) |
