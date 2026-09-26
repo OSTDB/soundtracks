@@ -4081,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobber | 269277 | [269277-blobber.json](./269277-blobber.json) |
 | Blobbins | 151745 | [151745-blobbins.json](./151745-blobbins.json) |
 | Blobbton | 315687 | [315687-blobbton.json](./315687-blobbton.json) |
+| Blobby Jump | 194287 | [194287-blobby-jump.json](./194287-blobby-jump.json) |
 | Blobby Online | 58458 | [58458-blobby-online.json](./58458-blobby-online.json) |
 | Blobby Tennis | 36475 | [36475-blobby-tennis.json](./36475-blobby-tennis.json) |
 | Blobbz Online | 186144 | [186144-blobbz-online.json](./186144-blobbz-online.json) |
@@ -5188,6 +5189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomlings | 61067 | [61067-boomlings.json](./61067-boomlings.json) |
 | Boomlings MatchUp | 61066 | [61066-boomlings-matchup.json](./61066-boomlings-matchup.json) |
 | BoomScroll | 400236 | [400236-boomscroll.json](./400236-boomscroll.json) |
+| Boomshine2x | 194301 | [194301-boomshine2x.json](./194301-boomshine2x.json) |
 | BoomSweeper VR | 232970 | [232970-boomsweeper-vr.json](./232970-boomsweeper-vr.json) |
 | BoomTris | 120963 | [120963-boomtris.json](./120963-boomtris.json) |
 | Boomy the Cat | 58784 | [58784-boomy-the-cat.json](./58784-boomy-the-cat.json) |
