@@ -1256,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headliner: NoviNews | 107596 | [107596-headliner-novinews.json](./107596-headliner-novinews.json) |
 | Headmaster: The Lost Lessons | 174186 | [174186-headmaster-the-lost-lessons.json](./174186-headmaster-the-lost-lessons.json) |
 | Headpat Special Taskforce | 400320 | [400320-headpat-special-taskforce.json](./400320-headpat-special-taskforce.json) |
+| Headpunk: The Comic-Style Battle Chaos | 192699 | [192699-headpunk-the-comic-style-battle-chaos.json](./192699-headpunk-the-comic-style-battle-chaos.json) |
 | Headquarters: World War II - Ardennes | 324926 | [324926-headquarters-world-war-ii-ardennes.json](./324926-headquarters-world-war-ii-ardennes.json) |
 | Headroom | 364690 | [364690-headroom.json](./364690-headroom.json) |
 | Headrooms | 334472 | [334472-headrooms.json](./334472-headrooms.json) |
@@ -2925,6 +2926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Through Time: Viking Tales | 154516 | [154516-hidden-through-time-viking-tales.json](./154516-hidden-through-time-viking-tales.json) |
 | Hidden Tomatoes | 326783 | [326783-hidden-tomatoes.json](./326783-hidden-tomatoes.json) |
 | Hidden Watch | 104121 | [104121-hidden-watch.json](./104121-hidden-watch.json) |
+| Hidden Water | 192712 | [192712-hidden-water.json](./192712-hidden-water.json) |
 | Hidden Western | 192819 | [192819-hidden-western.json](./192819-hidden-western.json) |
 | Hidden Western Top-Down 3D | 277827 | [277827-hidden-western-top-down-3d.json](./277827-hidden-western-top-down-3d.json) |
 | Hidden Wings and Paws | 304620 | [304620-hidden-wings-and-paws.json](./304620-hidden-wings-and-paws.json) |
@@ -4721,6 +4723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hullbreakers | 240792 | [240792-hullbreakers.json](./240792-hullbreakers.json) |
 | Hulu Has Live Sports '20: The Video Game | 125457 | [125457-hulu-has-live-sports-20-the-video-game.json](./125457-hulu-has-live-sports-20-the-video-game.json) |
 | Hululuup | 239907 | [239907-hululuup.json](./239907-hululuup.json) |
+| Hum | 192683 | [192683-hum.json](./192683-hum.json) |
 | Human Baseball | 38342 | [38342-human-baseball.json](./38342-human-baseball.json) |
 | Human Bowling | 283270 | [283270-human-bowling.json](./283270-human-bowling.json) |
 | Human Cargo | 194449 | [194449-human-cargo.json](./194449-human-cargo.json) |
