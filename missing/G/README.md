@@ -2737,6 +2737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gone Digging | 388416 | [388416-gone-digging.json](./388416-gone-digging.json) |
 | Gone Exploring | 412409 | [412409-gone-exploring.json](./412409-gone-exploring.json) |
 | Gone Fishing | 348447 | [348447-gone-fishing.json](./348447-gone-fishing.json) |
+| Gone Rogue | 182245 | [182245-gone-rogue.json](./182245-gone-rogue.json) |
 | Gone Upstate | 152826 | [152826-gone-upstate.json](./152826-gone-upstate.json) |
 | Gone Wandering | 215061 | [215061-gone-wandering.json](./215061-gone-wandering.json) |
 | Gone with Hideyoshi | 64636 | [64636-gone-with-hideyoshi.json](./64636-gone-with-hideyoshi.json) |
