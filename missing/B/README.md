@@ -4123,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block City Cop: Vice Town | 260196 | [260196-block-city-cop-vice-town.json](./260196-block-city-cop-vice-town.json) |
 | Block City Wars | 95849 | [95849-block-city-wars.json](./95849-block-city-wars.json) |
 | Block City Wars: Mafia Town | 86930 | [86930-block-city-wars-mafia-town.json](./86930-block-city-wars-mafia-town.json) |
+| Block City: Bus Edition | 193216 | [193216-block-city-bus-edition.json](./193216-block-city-bus-edition.json) |
 | Block Competition | 100564 | [100564-block-competition.json](./100564-block-competition.json) |
 | Block Corsair | 236000 | [236000-block-corsair.json](./236000-block-corsair.json) |
 | Block Craft 3D: City Building | 86995 | [86995-block-craft-3d-city-building.json](./86995-block-craft-3d-city-building.json) |
@@ -4200,6 +4201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockfusion | 363977 | [363977-blockfusion.json](./363977-blockfusion.json) |
 | Blockhead | 14323 | [14323-blockhead.json](./14323-blockhead.json) |
 | Blockhead II | 14324 | [14324-blockhead-ii.json](./14324-blockhead-ii.json) |
+| Blockies VR | 193204 | [193204-blockies-vr.json](./193204-blockies-vr.json) |
 | Blockman 1988 | 225722 | [225722-blockman-1988.json](./225722-blockman-1988.json) |
 | Blockman Returns | 56427 | [56427-blockman-returns.json](./56427-blockman-returns.json) |
 | BlockMill | 249266 | [249266-blockmill.json](./249266-blockmill.json) |
