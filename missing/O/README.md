@@ -779,18 +779,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Add-On Coachbus 303-Series | 253435 | [253435-omsi-2-add-on-coachbus-303-series.json](./253435-omsi-2-add-on-coachbus-303-series.json) |
 | OMSI 2: Add-on Zürich Tram Linie 11 | 306070 | [306070-omsi-2-add-on-zurich-tram-linie-11.json](./306070-omsi-2-add-on-zurich-tram-linie-11.json) |
 | OMSI 2: Bad Hügelsdorf 2020 | 155130 | [155130-omsi-2-bad-hugelsdorf-2020.json](./155130-omsi-2-bad-hugelsdorf-2020.json) |
+| OMSI 2: Beijing | 193184 | [193184-omsi-2-beijing.json](./193184-omsi-2-beijing.json) |
 | OMSI 2: Berlin BRT | 155146 | [155146-omsi-2-berlin-brt.json](./155146-omsi-2-berlin-brt.json) |
 | OMSI 2: Berlin X10 | 155132 | [155132-omsi-2-berlin-x10.json](./155132-omsi-2-berlin-x10.json) |
+| OMSI 2: Bolloré-Bluebus-Pack Elektro-Bus | 193182 | [193182-omsi-2-bollore-bluebus-pack-elektro-bus.json](./193182-omsi-2-bollore-bluebus-pack-elektro-bus.json) |
 | OMSI 2: Busbetrieb-Simulator | 155140 | [155140-omsi-2-busbetrieb-simulator.json](./155140-omsi-2-busbetrieb-simulator.json) |
 | OMSI 2: C2-Stadtbus-Familie Vol.1 | 155109 | [155109-omsi-2-c2-stadtbus-familie-vol-1.json](./155109-omsi-2-c2-stadtbus-familie-vol-1.json) |
 | OMSI 2: City Bus O305 | 155116 | [155116-omsi-2-city-bus-o305.json](./155116-omsi-2-city-bus-o305.json) |
 | OMSI 2: Citybus i260 Series | 155127 | [155127-omsi-2-citybus-i260-series.json](./155127-omsi-2-citybus-i260-series.json) |
+| OMSI 2: Citybus M301 | 193183 | [193183-omsi-2-citybus-m301.json](./193183-omsi-2-citybus-m301.json) |
 | OMSI 2: Citybus o530 | 286545 | [286545-omsi-2-citybus-o530.json](./286545-omsi-2-citybus-o530.json) |
 | OMSI 2: Citybus S31X | 213326 | [213326-omsi-2-citybus-s31x.json](./213326-omsi-2-citybus-s31x.json) |
 | Omsi 2: Digibus Mirage | 235831 | [235831-omsi-2-digibus-mirage.json](./235831-omsi-2-digibus-mirage.json) |
 | OMSI 2: Digibus Phantom | 155114 | [155114-omsi-2-digibus-phantom.json](./155114-omsi-2-digibus-phantom.json) |
 | OMSI 2: Doppelgelenkbus AGG 300 | 155124 | [155124-omsi-2-doppelgelenkbus-agg-300.json](./155124-omsi-2-doppelgelenkbus-agg-300.json) |
 | OMSI 2: Download Pack Vol. 13 - AI Cars | 293404 | [293404-omsi-2-download-pack-vol-13-ai-cars.json](./293404-omsi-2-download-pack-vol-13-ai-cars.json) |
+| OMSI 2: Downloadpack Vol.11 - AI-Electric Cars | 193180 | [193180-omsi-2-downloadpack-vol-11-ai-electric-cars.json](./193180-omsi-2-downloadpack-vol-11-ai-electric-cars.json) |
 | OMSI 2: Downloadpack Vol.2 - KI-Fahrzeuge | 155126 | [155126-omsi-2-downloadpack-vol-2-ki-fahrzeuge.json](./155126-omsi-2-downloadpack-vol-2-ki-fahrzeuge.json) |
 | OMSI 2: Downloadpack Vol.3 - KI-Menschen | 155150 | [155150-omsi-2-downloadpack-vol-3-ki-menschen.json](./155150-omsi-2-downloadpack-vol-3-ki-menschen.json) |
 | OMSI 2: Downloadpack Vol.4 - KI-Fahrzeuge | 155128 | [155128-omsi-2-downloadpack-vol-4-ki-fahrzeuge.json](./155128-omsi-2-downloadpack-vol-4-ki-fahrzeuge.json) |
@@ -802,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Express 91.06 | 155129 | [155129-omsi-2-express-91-06.json](./155129-omsi-2-express-91-06.json) |
 | OMSI 2: Hamburg Linie 20 | 195764 | [195764-omsi-2-hamburg-linie-20.json](./195764-omsi-2-hamburg-linie-20.json) |
 | OMSI 2: Heuliez Bus Pack - GX x37: Diesel Edition | 237624 | [237624-omsi-2-heuliez-bus-pack-gx-x37-diesel-edition.json](./237624-omsi-2-heuliez-bus-pack-gx-x37-diesel-edition.json) |
+| OMSI 2: Irisbus Familie - Low-Entry-Busse | 193181 | [193181-omsi-2-irisbus-familie-low-entry-busse.json](./193181-omsi-2-irisbus-familie-low-entry-busse.json) |
 | OMSI 2: Irisbus Intercity Pack | 155117 | [155117-omsi-2-irisbus-intercity-pack.json](./155117-omsi-2-irisbus-intercity-pack.json) |
 | OMSI 2: IVECO Bus Family Interurban Generation | 155111 | [155111-omsi-2-iveco-bus-family-interurban-generation.json](./155111-omsi-2-iveco-bus-family-interurban-generation.json) |
 | OMSI 2: Iveco Bus-Familie Urbanway | 237071 | [237071-omsi-2-iveco-bus-familie-urbanway.json](./237071-omsi-2-iveco-bus-familie-urbanway.json) |
@@ -1630,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orcs Must Die! 2: Are We There Yeti? | 14537 | [14537-orcs-must-die-2-are-we-there-yeti.json](./14537-orcs-must-die-2-are-we-there-yeti.json) |
 | Orcs Must Die! 2: Family Ties Booster Pack | 14538 | [14538-orcs-must-die-2-family-ties-booster-pack.json](./14538-orcs-must-die-2-family-ties-booster-pack.json) |
 | Orcs Must Die! 3 Bundle | 196681 | [196681-orcs-must-die-3-bundle.json](./196681-orcs-must-die-3-bundle.json) |
+| Orcs Must Die! 3: Cold as Eyes | 193225 | [193225-orcs-must-die-3-cold-as-eyes.json](./193225-orcs-must-die-3-cold-as-eyes.json) |
 | Orcs Must Die! Unchained | 9637 | [9637-orcs-must-die-unchained.json](./9637-orcs-must-die-unchained.json) |
 | Orcs Must Die!: Artifacts of Power | 14540 | [14540-orcs-must-die-artifacts-of-power.json](./14540-orcs-must-die-artifacts-of-power.json) |
 | Orcs Must Die!: Lost Adventures | 14541 | [14541-orcs-must-die-lost-adventures.json](./14541-orcs-must-die-lost-adventures.json) |
@@ -2338,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overlooting | 334898 | [334898-overlooting.json](./334898-overlooting.json) |
 | Overlord: Dark Legend | 47 | [47-overlord-dark-legend.json](./47-overlord-dark-legend.json) |
 | Overlord: Minions | 48 | [48-overlord-minions.json](./48-overlord-minions.json) |
+| Overlord: Nobody Know Victory Better Than Me | 193199 | [193199-overlord-nobody-know-victory-better-than-me.json](./193199-overlord-nobody-know-victory-better-than-me.json) |
 | Overlord's Odyssey | 223979 | [223979-overlords-odyssey.json](./223979-overlords-odyssey.json) |
 | Overlords of Oblivion | 112153 | [112153-overlords-of-oblivion.json](./112153-overlords-of-oblivion.json) |
 | Overly Qualified Ms. Mary | 219061 | [219061-overly-qualified-ms-mary.json](./219061-overly-qualified-ms-mary.json) |
