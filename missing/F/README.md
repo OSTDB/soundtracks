@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairytale Theatre: Momotaro's Adventure | 283288 | [283288-fairytale-theatre-momotaros-adventure.json](./283288-fairytale-theatre-momotaros-adventure.json) |
 | Fairytale Thief: Snow White | 365172 | [365172-fairytale-thief-snow-white.json](./365172-fairytale-thief-snow-white.json) |
 | Fairytale Thief: The Goldfish | 259568 | [259568-fairytale-thief-the-goldfish.json](./259568-fairytale-thief-the-goldfish.json) |
+| Fäiser | 186063 | [186063-faiser.json](./186063-faiser.json) |
 | Fait: The Machine | 122188 | [122188-fait-the-machine.json](./122188-fait-the-machine.json) |
 | Faith & Shield: Tower Defense - Space Wars Game 2022 | 209694 | [209694-faith-and-shield-tower-defense-space-wars-game-2022.json](./209694-faith-and-shield-tower-defense-space-wars-game-2022.json) |
 | Faith Fighter 2 | 64375 | [64375-faith-fighter-2.json](./64375-faith-fighter-2.json) |
@@ -1249,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fastraq | 223416 | [223416-fastraq.json](./223416-fastraq.json) |
 | Fat 2 Fit! | 152289 | [152289-fat-2-fit.json](./152289-fat-2-fit.json) |
 | Fat Albert | 320981 | [320981-fat-albert.json](./320981-fat-albert.json) |
+| Fat Baby | 186036 | [186036-fat-baby.json](./186036-fat-baby.json) |
 | Fat Chicken | 17891 | [17891-fat-chicken.json](./17891-fat-chicken.json) |
 | Fat Dot | 179145 | [179145-fat-dot.json](./179145-fat-dot.json) |
 | Fat Dude Simulator | 117567 | [117567-fat-dude-simulator.json](./117567-fat-dude-simulator.json) |
