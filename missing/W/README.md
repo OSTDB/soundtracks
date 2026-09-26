@@ -1571,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WheelTris | 250023 | [250023-wheeltris.json](./250023-wheeltris.json) |
 | Wheelz2 | 90115 | [90115-wheelz2.json](./90115-wheelz2.json) |
 | Whelm | 296363 | [296363-whelm.json](./296363-whelm.json) |
+| When Bricks Fly | 224534 | [224534-when-bricks-fly.json](./224534-when-bricks-fly.json) |
 | When Day Breaks | 216346 | [216346-when-day-breaks.json](./216346-when-day-breaks.json) |
 | When Dreams Wake | 398342 | [398342-when-dreams-wake.json](./398342-when-dreams-wake.json) |
 | When Eyes Close | 360745 | [360745-when-eyes-close.json](./360745-when-eyes-close.json) |
