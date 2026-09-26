@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Town | 333966 | [333966-card-town.json](./333966-card-town.json) |
 | Card Trainer | 400869 | [400869-card-trainer.json](./400869-card-trainer.json) |
 | Card Wizard | 381123 | [381123-card-wizard.json](./381123-card-wizard.json) |
+| Card X Monster | 212747 | [212747-card-x-monster.json](./212747-card-x-monster.json) |
 | Card-en-Ciel | 292835 | [292835-card-en-ciel.json](./292835-card-en-ciel.json) |
 | Card-en-Ciel: The World of the "Blaster Master Zero Series" | 391867 | [391867-card-en-ciel-the-world-of-the-blaster-master-zero-series.json](./391867-card-en-ciel-the-world-of-the-blaster-master-zero-series.json) |
 | Card&Casino | 399617 | [399617-card-and-casino.json](./399617-card-and-casino.json) |
@@ -1272,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Formers | 154026 | [154026-castle-formers.json](./154026-castle-formers.json) |
 | Castle Grimholt | 142252 | [142252-castle-grimholt.json](./142252-castle-grimholt.json) |
 | Castle Hassle | 59452 | [59452-castle-hassle.json](./59452-castle-hassle.json) |
+| Castle Helios | 212741 | [212741-castle-helios.json](./212741-castle-helios.json) |
 | Castle Hero | 327420 | [327420-castle-hero.json](./327420-castle-hero.json) |
 | Castle Idler | 376112 | [376112-castle-idler.json](./376112-castle-idler.json) |
 | Castle in the Darkness II | 127028 | [127028-castle-in-the-darkness-ii.json](./127028-castle-in-the-darkness-ii.json) |
@@ -3294,6 +3296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronos: Dawn of Time | 234756 | [234756-chronos-dawn-of-time.json](./234756-chronos-dawn-of-time.json) |
 | Chronoshot | 138736 | [138736-chronoshot.json](./138736-chronoshot.json) |
 | Chronostrike | 332409 | [332409-chronostrike.json](./332409-chronostrike.json) |
+| Chronotron | 212779 | [212779-chronotron.json](./212779-chronotron.json) |
 | Chrs 143 | 162430 | [162430-chrs-143.json](./162430-chrs-143.json) |
 | Chrysalis | 57122 | [57122-chrysalis.json](./57122-chrysalis.json) |
 | Chu!! Karate Uranai Voxel | 407442 | [407442-chu-karate-uranai-voxel.json](./407442-chu-karate-uranai-voxel.json) |
