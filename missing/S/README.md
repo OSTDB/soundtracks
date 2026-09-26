@@ -617,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | San Francisco Rush 2049 | 3596 | [3596-san-francisco-rush-2049.json](./3596-san-francisco-rush-2049.json) |
 | San Francisco Rush: Extreme Racing | 264854 | [264854-san-francisco-rush-extreme-racing.json](./264854-san-francisco-rush-extreme-racing.json) |
 | San Francisco Rush: Extreme Racing | 3595 | [3595-san-francisco-rush-extreme-racing.json](./3595-san-francisco-rush-extreme-racing.json) |
+| San Zoolin | 202132 | [202132-san-zoolin.json](./202132-san-zoolin.json) |
 | Sanabi | 144569 | [144569-sanabi.json](./144569-sanabi.json) |
 | Sanabi: A Haunted Day | 377665 | [377665-sanabi-a-haunted-day.json](./377665-sanabi-a-haunted-day.json) |
 | Sanabi: A Haunted Day - Signal Redux Edition | 396192 | [396192-sanabi-a-haunted-day-signal-redux-edition.json](./396192-sanabi-a-haunted-day-signal-redux-edition.json) |
@@ -1412,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Hellworks | 296461 | [296461-scp-hellworks.json](./296461-scp-hellworks.json) |
 | SCP: Hours to Go | 296462 | [296462-scp-hours-to-go.json](./296462-scp-hours-to-go.json) |
 | SCP: Josie | 260410 | [260410-scp-josie.json](./260410-scp-josie.json) |
+| SCP: Maintain & Control | 202098 | [202098-scp-maintain-and-control.json](./202098-scp-maintain-and-control.json) |
 | SCP: Mystery Man | 320169 | [320169-scp-mystery-man.json](./320169-scp-mystery-man.json) |
 | SCP: Nemesi | 260106 | [260106-scp-nemesi.json](./260106-scp-nemesi.json) |
 | SCP: Rulebreaker | 279770 | [279770-scp-rulebreaker.json](./279770-scp-rulebreaker.json) |
@@ -7542,6 +7544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Historica | 118181 | [118181-soul-historica.json](./118181-soul-historica.json) |
 | Soul Injector Commando | 322603 | [322603-soul-injector-commando.json](./322603-soul-injector-commando.json) |
 | Soul Interface | 302382 | [302382-soul-interface.json](./302382-soul-interface.json) |
+| Soul Journey | 202115 | [202115-soul-journey.json](./202115-soul-journey.json) |
 | Soul King | 213453 | [213453-soul-king.json](./213453-soul-king.json) |
 | Soul King: Out of the Box | 298109 | [298109-soul-king-out-of-the-box.json](./298109-soul-king-out-of-the-box.json) |
 | Soul Knight | 122346 | [122346-soul-knight.json](./122346-soul-knight.json) |
@@ -12255,6 +12258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Fighter | 367020 | [367020-sunset-fighter.json](./367020-sunset-fighter.json) |
 | Sunset Giant | 114391 | [114391-sunset-giant.json](./114391-sunset-giant.json) |
 | Sunset High | 338267 | [338267-sunset-high.json](./338267-sunset-high.json) |
+| Sunset Hills | 202133 | [202133-sunset-hills.json](./202133-sunset-hills.json) |
 | Sunset Humanity | 273898 | [273898-sunset-humanity.json](./273898-sunset-humanity.json) |
 | Sunset Irreligion | 325252 | [325252-sunset-irreligion.json](./325252-sunset-irreligion.json) |
 | Sunset Kingdom | 129027 | [129027-sunset-kingdom.json](./129027-sunset-kingdom.json) |
@@ -14475,6 +14479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SworLd | 192808 | [192808-sworld.json](./192808-sworld.json) |
 | Swung | 134577 | [134577-swung.json](./134577-swung.json) |
 | Syberia 3: The Complete Journey | 124797 | [124797-syberia-3-the-complete-journey.json](./124797-syberia-3-the-complete-journey.json) |
+| Syberia: 20th Anniversary Bundle | 202126 | [202126-syberia-20th-anniversary-bundle.json](./202126-syberia-20th-anniversary-bundle.json) |
 | Syberia: Remastered | 344050 | [344050-syberia-remastered.json](./344050-syberia-remastered.json) |
 | Sybil's Tail | 179657 | [179657-sybils-tail.json](./179657-sybils-tail.json) |
 | Sycamore | 323346 | [323346-sycamore.json](./323346-sycamore.json) |
