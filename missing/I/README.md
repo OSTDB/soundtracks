@@ -668,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle RPG: The Game is Bugged! | 292135 | [292135-idle-rpg-the-game-is-bugged.json](./292135-idle-rpg-the-game-is-bugged.json) |
 | Idle Saga | 318215 | [318215-idle-saga.json](./318215-idle-saga.json) |
 | Idle School Simulator | 299903 | [299903-idle-school-simulator.json](./299903-idle-school-simulator.json) |
+| Idle Shapes | 226164 | [226164-idle-shapes.json](./226164-idle-shapes.json) |
 | Idle ShowOff | 368683 | [368683-idle-showoff.json](./368683-idle-showoff.json) |
 | Idle Siege: Army Tycoon Game | 246982 | [246982-idle-siege-army-tycoon-game.json](./246982-idle-siege-army-tycoon-game.json) |
 | Idle Skilling | 144767 | [144767-idle-skilling.json](./144767-idle-skilling.json) |
@@ -2331,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Front: Liberation 1944 D-Day | 53236 | [53236-iron-front-liberation-1944-d-day.json](./53236-iron-front-liberation-1944-d-day.json) |
 | Iron Frontier | 224787 | [224787-iron-frontier.json](./224787-iron-frontier.json) |
 | Iron Grip: Marauders | 50831 | [50831-iron-grip-marauders.json](./50831-iron-grip-marauders.json) |
+| Iron Guard | 226148 | [226148-iron-guard.json](./226148-iron-guard.json) |
 | Iron Helix | 5394 | [5394-iron-helix.json](./5394-iron-helix.json) |
 | Iron Hunters | 296943 | [296943-iron-hunters.json](./296943-iron-hunters.json) |
 | Iron John Hawk: The Shards Of Power | 210025 | [210025-iron-john-hawk-the-shards-of-power.json](./210025-iron-john-hawk-the-shards-of-power.json) |
