@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qublyne Dungeons | 226435 | [226435-qublyne-dungeons.json](./226435-qublyne-dungeons.json) |
 | QUByte Classics: Beat 'Em Up Collection | 353981 | [353981-qubyte-classics-beat-em-up-collection.json](./353981-qubyte-classics-beat-em-up-collection.json) |
 | QUByte Classics: Gourmet Warriors | 263495 | [263495-qubyte-classics-gourmet-warriors.json](./263495-qubyte-classics-gourmet-warriors.json) |
+| QUByte Classics: Radical Rex | 216195 | [216195-qubyte-classics-radical-rex.json](./216195-qubyte-classics-radical-rex.json) |
 | QUByte Classics: The Samurai Collection | 223156 | [223156-qubyte-classics-the-samurai-collection.json](./223156-qubyte-classics-the-samurai-collection.json) |
 | QUByte Classics: Tinhead | 221296 | [221296-qubyte-classics-tinhead.json](./221296-qubyte-classics-tinhead.json) |
 | Que ~Ancient Leaf no Yousei~ | 62408 | [62408-que-ancient-leaf-no-yousei.json](./62408-que-ancient-leaf-no-yousei.json) |
@@ -420,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quit Your Job | 413605 | [413605-quit-your-job.json](./413605-quit-your-job.json) |
 | Quit Your Job! Become A VTuber Fanartist! | 372478 | [372478-quit-your-job-become-a-vtuber-fanartist.json](./372478-quit-your-job-become-a-vtuber-fanartist.json) |
 | Quite a Ride | 336891 | [336891-quite-a-ride.json](./336891-quite-a-ride.json) |
+| Quite Soulless | 216189 | [216189-quite-soulless.json](./216189-quite-soulless.json) |
 | Quiver | 94546 | [94546-quiver.json](./94546-quiver.json) |
 | Quiver Dick's Epic Book of Fairy Fails | 119697 | [119697-quiver-dicks-epic-book-of-fairy-fails.json](./119697-quiver-dicks-epic-book-of-fairy-fails.json) |
 | Quiver Dick's Terrible Tale for Terrible Parents to Read to Their Equally Terrible Children | 110949 | [110949-quiver-dicks-terrible-tale-for-terrible-parents-to-read-to-their-equally-terrible-children.json](./110949-quiver-dicks-terrible-tale-for-terrible-parents-to-read-to-their-equally-terrible-children.json) |
