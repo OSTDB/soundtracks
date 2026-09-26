@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Mallorca | 155115 | [155115-omsi-2-mallorca.json](./155115-omsi-2-mallorca.json) |
 | OMSI 2: Man DN95 | 155113 | [155113-omsi-2-man-dn95.json](./155113-omsi-2-man-dn95.json) |
 | OMSI 2: Masterbus Gen 3 Pack | 155138 | [155138-omsi-2-masterbus-gen-3-pack.json](./155138-omsi-2-masterbus-gen-3-pack.json) |
+| OMSI 2: Masterbus Veiling Pack | 227198 | [227198-omsi-2-masterbus-veiling-pack.json](./227198-omsi-2-masterbus-veiling-pack.json) |
 | OMSI 2: Metropole Ruhr | 155121 | [155121-omsi-2-metropole-ruhr.json](./155121-omsi-2-metropole-ruhr.json) |
 | OMSI 2: Projekt Gladbeck | 155148 | [155148-omsi-2-projekt-gladbeck.json](./155148-omsi-2-projekt-gladbeck.json) |
 | OMSI 2: Rheinhausen | 155143 | [155143-omsi-2-rheinhausen.json](./155143-omsi-2-rheinhausen.json) |
@@ -799,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Steam Edition | 22438 | [22438-omsi-2-steam-edition.json](./22438-omsi-2-steam-edition.json) |
 | OMSI 2: Steam Edition - AI-Articulated Bus for Vienna | 238753 | [238753-omsi-2-steam-edition-ai-articulated-bus-for-vienna.json](./238753-omsi-2-steam-edition-ai-articulated-bus-for-vienna.json) |
 | OMSI 2: Strassenbahn NF6D Essen/Gelsenkirchen | 155125 | [155125-omsi-2-strassenbahn-nf6d-essen-gelsenkirchen.json](./155125-omsi-2-strassenbahn-nf6d-essen-gelsenkirchen.json) |
+| OMSI 2: Studio Polygon 400 MMC Pack | 227197 | [227197-omsi-2-studio-polygon-400-mmc-pack.json](./227197-omsi-2-studio-polygon-400-mmc-pack.json) |
 | OMSI 2: Studio Polygon Lite Pack | 155149 | [155149-omsi-2-studio-polygon-lite-pack.json](./155149-omsi-2-studio-polygon-lite-pack.json) |
 | OMSI 2: Three Generations | 155112 | [155112-omsi-2-three-generations.json](./155112-omsi-2-three-generations.json) |
 | OMSI 2: Urbino Stadtbusfamilie | 155134 | [155134-omsi-2-urbino-stadtbusfamilie.json](./155134-omsi-2-urbino-stadtbusfamilie.json) |
