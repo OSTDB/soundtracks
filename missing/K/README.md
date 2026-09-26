@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katarina's Farm | 254619 | [254619-katarinas-farm.json](./254619-katarinas-farm.json) |
 | Kataude no Zarigani: One-armed Crayfish | 330536 | [330536-kataude-no-zarigani-one-armed-crayfish.json](./330536-kataude-no-zarigani-one-armed-crayfish.json) |
 | KatchFoundry | 397209 | [397209-katchfoundry.json](./397209-katchfoundry.json) |
+| Kate Don't Wait | 180018 | [180018-kate-dont-wait.json](./180018-kate-dont-wait.json) |
 | Kate Goes to Wildflower Grove | 177415 | [177415-kate-goes-to-wildflower-grove.json](./177415-kate-goes-to-wildflower-grove.json) |
 | Kate Plus Ten | 112324 | [112324-kate-plus-ten.json](./112324-kate-plus-ten.json) |
 | Katei de Dekiru! Chomeijin Yuumei Ryourinin no Original Recipe - Shokusai Roman | 269824 | [269824-katei-de-dekiru-chomeijin-yuumei-ryourinin-no-original-recipe-shokusai-roman.json](./269824-katei-de-dekiru-chomeijin-yuumei-ryourinin-no-original-recipe-shokusai-roman.json) |
@@ -1915,6 +1916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knock'Em Out | 224637 | [224637-knockem-out.json](./224637-knockem-out.json) |
 | Knockback Knockout | 226452 | [226452-knockback-knockout.json](./226452-knockback-knockout.json) |
 | Knockback: The Awakening | 133240 | [133240-knockback-the-awakening.json](./133240-knockback-the-awakening.json) |
+| Knockball Pool | 180012 | [180012-knockball-pool.json](./180012-knockball-pool.json) |
 | Knockbots | 212291 | [212291-knockbots.json](./212291-knockbots.json) |
 | KnockDown | 158040 | [158040-knockdown.json](./158040-knockdown.json) |
 | Knockin | 77015 | [77015-knockin.json](./77015-knockin.json) |
