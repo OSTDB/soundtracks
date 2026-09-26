@@ -3344,6 +3344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Survivors | 273647 | [273647-the-dark-survivors.json](./273647-the-dark-survivors.json) |
 | The Dark Tales of Katarina | 28871 | [28871-the-dark-tales-of-katarina.json](./28871-the-dark-tales-of-katarina.json) |
 | The Dark Third | 128597 | [128597-the-dark-third.json](./128597-the-dark-third.json) |
+| The Dark Throne | 187232 | [187232-the-dark-throne.json](./187232-the-dark-throne.json) |
 | The Dark Tide | 312035 | [312035-the-dark-tide.json](./312035-the-dark-tide.json) |
 | The Dark Tower | 264047 | [264047-the-dark-tower.json](./264047-the-dark-tower.json) |
 | The Dark Triad | 271225 | [271225-the-dark-triad.json](./271225-the-dark-triad.json) |
@@ -6011,6 +6012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pagemaster | 49032 | [49032-the-pagemaster.json](./49032-the-pagemaster.json) |
 | The Paige Files | 255635 | [255635-the-paige-files.json](./255635-the-paige-files.json) |
 | The Painscreek Killings | 68682 | [68682-the-painscreek-killings.json](./68682-the-painscreek-killings.json) |
+| The Paint Gunner | 187211 | [187211-the-paint-gunner.json](./187211-the-paint-gunner.json) |
 | The Painting | 319557 | [319557-the-painting.json](./319557-the-painting.json) |
 | The Palace on the Hill | 153430 | [153430-the-palace-on-the-hill.json](./153430-the-palace-on-the-hill.json) |
 | The Pale Man | 232547 | [232547-the-pale-man.json](./232547-the-pale-man.json) |
@@ -7835,6 +7837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witcher 3: Wild Hunt - Complete Edition: 10th Anniversary Edition | 372654 | [372654-the-witcher-3-wild-hunt-complete-edition-10th-anniversary-edition.json](./372654-the-witcher-3-wild-hunt-complete-edition-10th-anniversary-edition.json) |
 | The Witcher 3: Wild Hunt - Songs of the Past | 403150 | [403150-the-witcher-3-wild-hunt-songs-of-the-past.json](./403150-the-witcher-3-wild-hunt-songs-of-the-past.json) |
 | The Witcher Franchise Bundle | 154960 | [154960-the-witcher-franchise-bundle.json](./154960-the-witcher-franchise-bundle.json) |
+| The Witcher: Crimson Trail | 187249 | [187249-the-witcher-crimson-trail.json](./187249-the-witcher-crimson-trail.json) |
 | The Witcher: Side Effects | 224493 | [224493-the-witcher-side-effects.json](./224493-the-witcher-side-effects.json) |
 | The Witcher: The Price of Neutrality | 224492 | [224492-the-witcher-the-price-of-neutrality.json](./224492-the-witcher-the-price-of-neutrality.json) |
 | The Witches Pond | 277823 | [277823-the-witches-pond.json](./277823-the-witches-pond.json) |
@@ -8091,6 +8094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Therian Crush: Wild Animal Girls | 414453 | [414453-therian-crush-wild-animal-girls.json](./414453-therian-crush-wild-animal-girls.json) |
 | Therian Saga | 30951 | [30951-therian-saga.json](./30951-therian-saga.json) |
 | Thermal Power Plant K-13 | 182989 | [182989-thermal-power-plant-k-13.json](./182989-thermal-power-plant-k-13.json) |
+| These are not Heroes | 187239 | [187239-these-are-not-heroes.json](./187239-these-are-not-heroes.json) |
 | These Darker Tides | 322135 | [322135-these-darker-tides.json](./322135-these-darker-tides.json) |
 | These Doomed Isles | 217269 | [217269-these-doomed-isles.json](./217269-these-doomed-isles.json) |
 | These Doomed Isles: The First God | 244276 | [244276-these-doomed-isles-the-first-god.json](./244276-these-doomed-isles-the-first-god.json) |
@@ -12708,6 +12712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble Magnet | 272876 | [272876-trouble-magnet.json](./272876-trouble-magnet.json) |
 | Trouble of Tabu | 298050 | [298050-trouble-of-tabu.json](./298050-trouble-of-tabu.json) |
 | Trouble Score | 97720 | [97720-trouble-score.json](./97720-trouble-score.json) |
+| Troubled Waters | 187221 | [187221-troubled-waters.json](./187221-troubled-waters.json) |
 | Troubled Waters | 352254 | [352254-troubled-waters.json](./352254-troubled-waters.json) |
 | TroubleDays | 129346 | [129346-troubledays.json](./129346-troubledays.json) |
 | Troublemaker | 153398 | [153398-troublemaker.json](./153398-troublemaker.json) |
@@ -13002,6 +13007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuff E Nuff | 46006 | [46006-tuff-e-nuff.json](./46006-tuff-e-nuff.json) |
 | Tuff Stuff | 317614 | [317614-tuff-stuff.json](./317614-tuff-stuff.json) |
 | Tug of Words | 198947 | [198947-tug-of-words.json](./198947-tug-of-words.json) |
+| Tuggowar | 187225 | [187225-tuggowar.json](./187225-tuggowar.json) |
 | Tui Shou: Sokoban | 372023 | [372023-tui-shou-sokoban.json](./372023-tui-shou-sokoban.json) |
 | Tuin | 213904 | [213904-tuin.json](./213904-tuin.json) |
 | Tuk Tuk Extreme Simulator | 199367 | [199367-tuk-tuk-extreme-simulator.json](./199367-tuk-tuk-extreme-simulator.json) |
@@ -13423,6 +13429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Faced | 300719 | [300719-two-faced.json](./300719-two-faced.json) |
 | Two Girls Make a Game | 178536 | [178536-two-girls-make-a-game.json](./178536-two-girls-make-a-game.json) |
 | Two Guns | 117680 | [117680-two-guns.json](./117680-two-guns.json) |
+| Two Handed Mage | 187223 | [187223-two-handed-mage.json](./187223-two-handed-mage.json) |
 | Two Heads of the Coin | 86082 | [86082-two-heads-of-the-coin.json](./86082-two-heads-of-the-coin.json) |
 | Two Hoops | 234317 | [234317-two-hoops.json](./234317-two-hoops.json) |
 | Two Hour Escape Mystery: A Puzzling Voyage | 272902 | [272902-two-hour-escape-mystery-a-puzzling-voyage.json](./272902-two-hour-escape-mystery-a-puzzling-voyage.json) |
