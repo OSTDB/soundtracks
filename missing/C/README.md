@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival of Souls | 309526 | [309526-carnival-of-souls.json](./309526-carnival-of-souls.json) |
 | Carnivore! | 413214 | [413214-carnivore.json](./413214-carnivore.json) |
 | Carnivores: Cityscape | 20568 | [20568-carnivores-cityscape.json](./20568-carnivores-cityscape.json) |
+| Carnivores: Dinosaur Hunt - Cretaceous Terror Pack | 214450 | [214450-carnivores-dinosaur-hunt-cretaceous-terror-pack.json](./214450-carnivores-dinosaur-hunt-cretaceous-terror-pack.json) |
 | Carnivores: Dinosaur Hunter | 20569 | [20569-carnivores-dinosaur-hunter.json](./20569-carnivores-dinosaur-hunter.json) |
 | Carnivores: Dinosaur Hunter HD | 20570 | [20570-carnivores-dinosaur-hunter-hd.json](./20570-carnivores-dinosaur-hunter-hd.json) |
 | Carnosis | 414556 | [414556-carnosis.json](./414556-carnosis.json) |
@@ -2135,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chamberlore | 378435 | [378435-chamberlore.json](./378435-chamberlore.json) |
 | Chambers & Crops | 346255 | [346255-chambers-and-crops.json](./346255-chambers-and-crops.json) |
 | Chambers of Shaolin | 11997 | [11997-chambers-of-shaolin.json](./11997-chambers-of-shaolin.json) |
+| Chameleon | 214466 | [214466-chameleon.json](./214466-chameleon.json) |
 | Chameleon | 21452 | [21452-chameleon.json](./21452-chameleon.json) |
 | Chameleon | 37077 | [37077-chameleon.json](./37077-chameleon.json) |
 | Chameleon Dummy Hunt | 411812 | [411812-chameleon-dummy-hunt.json](./411812-chameleon-dummy-hunt.json) |
@@ -4063,6 +4065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CloseCall | 155991 | [155991-closecall.json](./155991-closecall.json) |
 | Closed Circuit | 254175 | [254175-closed-circuit.json](./254175-closed-circuit.json) |
 | Closed Faith | 317366 | [317366-closed-faith.json](./317366-closed-faith.json) |
+| Closed Island | 214439 | [214439-closed-island.json](./214439-closed-island.json) |
 | Closed Nightmare | 82371 | [82371-closed-nightmare.json](./82371-closed-nightmare.json) |
 | Closed World | 312202 | [312202-closed-world.json](./312202-closed-world.json) |
 | Closer Than You Know | 199654 | [199654-closer-than-you-know.json](./199654-closer-than-you-know.json) |
