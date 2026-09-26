@@ -1955,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celebrating Lake Xochimilco | 250299 | [250299-celebrating-lake-xochimilco.json](./250299-celebrating-lake-xochimilco.json) |
 | Celebrating Lotería! | 375816 | [375816-celebrating-loteria.json](./375816-celebrating-loteria.json) |
 | Celebrating Pani Puri | 256370 | [256370-celebrating-pani-puri.json](./256370-celebrating-pani-puri.json) |
+| Celebrating Pizza | 183861 | [183861-celebrating-pizza.json](./183861-celebrating-pizza.json) |
 | Celebrities Hacked | 260192 | [260192-celebrities-hacked.json](./260192-celebrities-hacked.json) |
 | Celebrities Hacked: Evelyn Photo Pack | 289470 | [289470-celebrities-hacked-evelyn-photo-pack.json](./289470-celebrities-hacked-evelyn-photo-pack.json) |
 | Celebrities Hacked: LatexUsagi Photo Pack | 289469 | [289469-celebrities-hacked-latexusagi-photo-pack.json](./289469-celebrities-hacked-latexusagi-photo-pack.json) |
@@ -2013,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cellitaire | 338713 | [338713-cellitaire.json](./338713-cellitaire.json) |
 | Cellmons | 204562 | [204562-cellmons.json](./204562-cellmons.json) |
 | Cellofania | 279580 | [279580-cellofania.json](./279580-cellofania.json) |
+| CellTD | 183879 | [183879-celltd.json](./183879-celltd.json) |
 | Cellular Harvest: Purple | 152276 | [152276-cellular-harvest-purple.json](./152276-cellular-harvest-purple.json) |
 | Cellular Survival | 296346 | [296346-cellular-survival.json](./296346-cellular-survival.json) |
 | Cellyon: Boss Maker | 322717 | [322717-cellyon-boss-maker.json](./322717-cellyon-boss-maker.json) |
@@ -5899,6 +5901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Collapse | 275327 | [275327-cosmic-collapse.json](./275327-cosmic-collapse.json) |
 | Cosmic Commando | 60518 | [60518-cosmic-commando.json](./60518-cosmic-commando.json) |
 | Cosmic Commute | 229624 | [229624-cosmic-commute.json](./229624-cosmic-commute.json) |
+| Cosmic Conflict | 183880 | [183880-cosmic-conflict.json](./183880-cosmic-conflict.json) |
 | Cosmic Consensus | 68045 | [68045-cosmic-consensus.json](./68045-cosmic-consensus.json) |
 | Cosmic Cosmonaut | 336641 | [336641-cosmic-cosmonaut.json](./336641-cosmic-cosmonaut.json) |
 | Cosmic Cowboy | 413070 | [413070-cosmic-cowboy.json](./413070-cosmic-cowboy.json) |
