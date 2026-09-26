@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War 2: Victory | 254168 | [254168-war-2-victory.json](./254168-war-2-victory.json) |
 | War 2410 | 38398 | [38398-war-2410.json](./38398-war-2410.json) |
 | War 3010: The Revolution | 38397 | [38397-war-3010-the-revolution.json](./38397-war-3010-the-revolution.json) |
+| War After | 188397 | [188397-war-after.json](./188397-war-after.json) |
 | War Agent | 207874 | [207874-war-agent.json](./207874-war-agent.json) |
 | War and Peace | 253332 | [253332-war-and-peace.json](./253332-war-and-peace.json) |
 | War and Politics | 374806 | [374806-war-and-politics.json](./374806-war-and-politics.json) |
@@ -841,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars Across the World: Sepoy 1857 | 212228 | [212228-wars-across-the-world-sepoy-1857.json](./212228-wars-across-the-world-sepoy-1857.json) |
 | Wars Across The World: Tryphon 104 | 350610 | [350610-wars-across-the-world-tryphon-104.json](./350610-wars-across-the-world-tryphon-104.json) |
 | Wars of Napoleon | 33092 | [33092-wars-of-napoleon.json](./33092-wars-of-napoleon.json) |
+| Wars of Prasia | 188381 | [188381-wars-of-prasia.json](./188381-wars-of-prasia.json) |
 | Warsaw Rising: City of Heroes | 115659 | [115659-warsaw-rising-city-of-heroes.json](./115659-warsaw-rising-city-of-heroes.json) |
 | WarShape | 338396 | [338396-warshape.json](./338396-warshape.json) |
 | Warshift | 14075 | [14075-warshift.json](./14075-warshift.json) |
@@ -1259,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weekend Solitaire: Ocean Kings | 416080 | [416080-weekend-solitaire-ocean-kings.json](./416080-weekend-solitaire-ocean-kings.json) |
 | Weekend Solitaire: Railway | 386124 | [386124-weekend-solitaire-railway.json](./386124-weekend-solitaire-railway.json) |
 | Weekend Solitaire: Voyage | 386140 | [386140-weekend-solitaire-voyage.json](./386140-weekend-solitaire-voyage.json) |
+| Weekly Jump Heroes Battle! My Collection 2 | 188366 | [188366-weekly-jump-heroes-battle-my-collection-2.json](./188366-weekly-jump-heroes-battle-my-collection-2.json) |
 | Weekly Shonen Jump Jikkyou Jan-jan Stadium | 109051 | [109051-weekly-shonen-jump-jikkyou-jan-jan-stadium.json](./109051-weekly-shonen-jump-jikkyou-jan-jan-stadium.json) |
 | Weekly Shonen Jump Ore Collection | 81415 | [81415-weekly-shonen-jump-ore-collection.json](./81415-weekly-shonen-jump-ore-collection.json) |
 | Weeks Till Winter | 372466 | [372466-weeks-till-winter.json](./372466-weeks-till-winter.json) |
