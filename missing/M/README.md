@@ -1003,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make the Burger | 143663 | [143663-make-the-burger.json](./143663-make-the-burger.json) |
 | Make The Dead Dead Again | 386246 | [386246-make-the-dead-dead-again.json](./386246-make-the-dead-dead-again.json) |
 | Make the Empire Great Again | 373081 | [373081-make-the-empire-great-again.json](./373081-make-the-empire-great-again.json) |
+| Make the Jump | 183867 | [183867-make-the-jump.json](./183867-make-the-jump.json) |
 | Make the World a Better Place | 248326 | [248326-make-the-world-a-better-place.json](./248326-make-the-world-a-better-place.json) |
 | Make Them Stop | 240791 | [240791-make-them-stop.json](./240791-make-them-stop.json) |
 | Make Them Walk | 258552 | [258552-make-them-walk.json](./258552-make-them-walk.json) |
@@ -4117,6 +4118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metropolis | 84537 | [84537-metropolis.json](./84537-metropolis.json) |
 | Metropolis Card Club | 209519 | [209519-metropolis-card-club.json](./209519-metropolis-card-club.json) |
 | Metropolis Crimes | 67686 | [67686-metropolis-crimes.json](./67686-metropolis-crimes.json) |
+| Metropolis Origins | 183871 | [183871-metropolis-origins.json](./183871-metropolis-origins.json) |
 | Metropolismania | 26661 | [26661-metropolismania.json](./26661-metropolismania.json) |
 | Metropolismania 4 | 178560 | [178560-metropolismania-4.json](./178560-metropolismania-4.json) |
 | Metropolitan Mayhem | 270667 | [270667-metropolitan-mayhem.json](./270667-metropolitan-mayhem.json) |
