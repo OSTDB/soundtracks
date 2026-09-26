@@ -1469,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxie Tactics | 178092 | [178092-voxie-tactics.json](./178092-voxie-tactics.json) |
 | Voxile | 272585 | [272585-voxile.json](./272585-voxile.json) |
 | Voxorp | 178628 | [178628-voxorp.json](./178628-voxorp.json) |
+| Voxrush | 211138 | [211138-voxrush.json](./211138-voxrush.json) |
 | Voyage | 232012 | [232012-voyage.json](./232012-voyage.json) |
 | Voyage of the Starship Lexicon | 60486 | [60486-voyage-of-the-starship-lexicon.json](./60486-voyage-of-the-starship-lexicon.json) |
 | Voyage of the Valkyrie | 24882 | [24882-voyage-of-the-valkyrie.json](./24882-voyage-of-the-valkyrie.json) |
