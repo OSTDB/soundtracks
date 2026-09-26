@@ -2632,6 +2632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noitcelfer | 248128 | [248128-noitcelfer.json](./248128-noitcelfer.json) |
 | Noiz2sa | 335673 | [335673-noiz2sa.json](./335673-noiz2sa.json) |
 | Noiz2sa | 86033 | [86033-noiz2sa.json](./86033-noiz2sa.json) |
+| Nojong | 184380 | [184380-nojong.json](./184380-nojong.json) |
 | NokNok | 341484 | [341484-noknok.json](./341484-noknok.json) |
 | NokNok Invasion! | 183505 | [183505-noknok-invasion.json](./183505-noknok-invasion.json) |
 | Nol | 404808 | [404808-nol.json](./404808-nol.json) |
