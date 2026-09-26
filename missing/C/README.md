@@ -1034,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnage Heart EXA | 46589 | [46589-carnage-heart-exa.json](./46589-carnage-heart-exa.json) |
 | Carnage in Space: Crucible | 201573 | [201573-carnage-in-space-crucible.json](./201573-carnage-in-space-crucible.json) |
 | Carnage Kart X | 318977 | [318977-carnage-kart-x.json](./318977-carnage-kart-x.json) |
+| Carnage Offering | 189964 | [189964-carnage-offering.json](./189964-carnage-offering.json) |
 | Carnal Sins: Malum Incarnatum + Carne Vescens | 329693 | [329693-carnal-sins-malum-incarnatum-carne-vescens.json](./329693-carnal-sins-malum-incarnatum-carne-vescens.json) |
 | Carnasis | 360007 | [360007-carnasis.json](./360007-carnasis.json) |
 | Carnaval | 304055 | [304055-carnaval.json](./304055-carnaval.json) |
@@ -2899,6 +2900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Chess Deluxe | 146922 | [146922-chinese-chess-deluxe.json](./146922-chinese-chess-deluxe.json) |
 | Chinese Chess: Elephant Game | 72872 | [72872-chinese-chess-elephant-game.json](./72872-chinese-chess-elephant-game.json) |
 | Chinese Culinary Shop | 276221 | [276221-chinese-culinary-shop.json](./276221-chinese-culinary-shop.json) |
+| Chinese Driving Test Simulator | 189929 | [189929-chinese-driving-test-simulator.json](./189929-chinese-driving-test-simulator.json) |
 | Chinese Expeditionary Force: Assault Team | 233783 | [233783-chinese-expeditionary-force-assault-team.json](./233783-chinese-expeditionary-force-assault-team.json) |
 | Chinese Juggler | 13830 | [13830-chinese-juggler.json](./13830-chinese-juggler.json) |
 | Chinese Karate | 15885 | [15885-chinese-karate.json](./15885-chinese-karate.json) |
@@ -6000,6 +6002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Costly Adventure | 247735 | [247735-costly-adventure.json](./247735-costly-adventure.json) |
 | Costrutto | 191266 | [191266-costrutto.json](./191266-costrutto.json) |
 | Costume Curse | 326218 | [326218-costume-curse.json](./326218-costume-curse.json) |
+| Costume Party | 189968 | [189968-costume-party.json](./189968-costume-party.json) |
 | Costume Quest | 5637 | [5637-costume-quest.json](./5637-costume-quest.json) |
 | Cosy Cafe | 383648 | [383648-cosy-cafe.json](./383648-cosy-cafe.json) |
 | Cosy Company Puzzle | 346686 | [346686-cosy-company-puzzle.json](./346686-cosy-company-puzzle.json) |
@@ -7206,6 +7209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruelty | 402295 | [402295-cruelty.json](./402295-cruelty.json) |
 | Cruis'n Exotica | 249136 | [249136-cruisn-exotica.json](./249136-cruisn-exotica.json) |
 | Cruise & Learn: Downtown Collection | 386214 | [386214-cruise-and-learn-downtown-collection.json](./386214-cruise-and-learn-downtown-collection.json) |
+| Cruise Ship Handling | 189952 | [189952-cruise-ship-handling.json](./189952-cruise-ship-handling.json) |
 | Cruise Ship Manager | 207269 | [207269-cruise-ship-manager.json](./207269-cruise-ship-manager.json) |
 | Cruise Ships Manager | 218698 | [218698-cruise-ships-manager.json](./218698-cruise-ships-manager.json) |
 | Crumble | 117054 | [117054-crumble.json](./117054-crumble.json) |
@@ -7960,6 +7964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute girl with uncle's leisure time | 278737 | [278737-cute-girl-with-uncles-leisure-time.json](./278737-cute-girl-with-uncles-leisure-time.json) |
 | Cute Girls | 243627 | [243627-cute-girls.json](./243627-cute-girls.json) |
 | Cute Heroes | 343802 | [343802-cute-heroes.json](./343802-cute-heroes.json) |
+| Cute Honey: Bunny Girl | 189975 | [189975-cute-honey-bunny-girl.json](./189975-cute-honey-bunny-girl.json) |
 | Cute Honey: Special Edition | 236017 | [236017-cute-honey-special-edition.json](./236017-cute-honey-special-edition.json) |
 | Cute Ice! | 277958 | [277958-cute-ice.json](./277958-cute-ice.json) |
 | Cute Kaizo World | 208401 | [208401-cute-kaizo-world.json](./208401-cute-kaizo-world.json) |
