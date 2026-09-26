@@ -2073,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beastkeepers | 341671 | [341671-beastkeepers.json](./341671-beastkeepers.json) |
 | BeastLink | 400902 | [400902-beastlink.json](./400902-beastlink.json) |
 | Beastly Bites | 338201 | [338201-beastly-bites.json](./338201-beastly-bites.json) |
+| Beastly Muscles | 202669 | [202669-beastly-muscles.json](./202669-beastly-muscles.json) |
 | Beastly Tactics | 318400 | [318400-beastly-tactics.json](./318400-beastly-tactics.json) |
 | Beastmancer | 30346 | [30346-beastmancer.json](./30346-beastmancer.json) |
 | Beastmaster and Princes | 121737 | [121737-beastmaster-and-princes.json](./121737-beastmaster-and-princes.json) |
