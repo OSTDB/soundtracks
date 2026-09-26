@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi Commits Tax Fraud 64 | 294710 | [294710-yoshi-commits-tax-fraud-64.json](./294710-yoshi-commits-tax-fraud-64.json) |
 | Yoshi Deja Vu DS | 215767 | [215767-yoshi-deja-vu-ds.json](./215767-yoshi-deja-vu-ds.json) |
 | Yoshi Gone MFGG | 307660 | [307660-yoshi-gone-mfgg.json](./307660-yoshi-gone-mfgg.json) |
+| Yoshi Heardle | 203823 | [203823-yoshi-heardle.json](./203823-yoshi-heardle.json) |
 | Yoshi in Sonic the Hedgehog 2 | 136418 | [136418-yoshi-in-sonic-the-hedgehog-2.json](./136418-yoshi-in-sonic-the-hedgehog-2.json) |
 | Yoshi no Cookie: Kuruppon Oven de Cookie | 37755 | [37755-yoshi-no-cookie-kuruppon-oven-de-cookie.json](./37755-yoshi-no-cookie-kuruppon-oven-de-cookie.json) |
 | Yoshi no Panepon | 219010 | [219010-yoshi-no-panepon.json](./219010-yoshi-no-panepon.json) |
