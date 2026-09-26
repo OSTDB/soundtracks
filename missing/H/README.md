@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hair Mower 3D | 137052 | [137052-hair-mower-3d.json](./137052-hair-mower-3d.json) |
 | Hair Nah | 243379 | [243379-hair-nah.json](./243379-hair-nah.json) |
 | Hair Salon: Cool Stories | 237376 | [237376-hair-salon-cool-stories.json](./237376-hair-salon-cool-stories.json) |
+| Hair Tattoo: Barbershop Master | 208920 | [208920-hair-tattoo-barbershop-master.json](./208920-hair-tattoo-barbershop-master.json) |
 | Hairdresser Liquidator Bundle | 342236 | [342236-hairdresser-liquidator-bundle.json](./342236-hairdresser-liquidator-bundle.json) |
 | Hairstyle | 104597 | [104597-hairstyle.json](./104597-hairstyle.json) |
 | Hairy Trees Massacre | 299833 | [299833-hairy-trees-massacre.json](./299833-hairy-trees-massacre.json) |
@@ -3263,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit | 208059 | [208059-hit.json](./208059-hit.json) |
 | Hit | 358300 | [358300-hit.json](./358300-hit.json) |
 | Hit & Run VR | 116828 | [116828-hit-and-run-vr.json](./116828-hit-and-run-vr.json) |
+| Hit & Run: Solo Leveling | 208922 | [208922-hit-and-run-solo-leveling.json](./208922-hit-and-run-solo-leveling.json) |
 | Hit 2 | 193871 | [193871-hit-2.json](./193871-hit-2.json) |
 | Hit A Plane | 325066 | [325066-hit-a-plane.json](./325066-hit-a-plane.json) |
 | Hit and Boom | 211811 | [211811-hit-and-boom.json](./211811-hit-and-boom.json) |
