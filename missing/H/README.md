@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker II: The Doomsday Papers | 12133 | [12133-hacker-ii-the-doomsday-papers.json](./12133-hacker-ii-the-doomsday-papers.json) |
 | Hacker the Beginning | 234585 | [234585-hacker-the-beginning.json](./234585-hacker-the-beginning.json) |
 | Hacker's Adventure | 142244 | [142244-hackers-adventure.json](./142244-hackers-adventure.json) |
+| Hacking for Hermann | 199369 | [199369-hacking-for-hermann.json](./199369-hacking-for-hermann.json) |
 | Hacking Into Erebus | 412415 | [412415-hacking-into-erebus.json](./412415-hacking-into-erebus.json) |
 | Hacking Simulator | 256363 | [256363-hacking-simulator.json](./256363-hacking-simulator.json) |
 | HackLab | 185142 | [185142-hacklab.json](./185142-hacklab.json) |
