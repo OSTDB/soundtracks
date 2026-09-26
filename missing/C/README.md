@@ -1428,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Ball: Gravity Maze | 273375 | [273375-cat-ball-gravity-maze.json](./273375-cat-ball-gravity-maze.json) |
 | Cat Bird | 112137 | [112137-cat-bird.json](./112137-cat-bird.json) |
 | Cat Box Paradox | 185679 | [185679-cat-box-paradox.json](./185679-cat-box-paradox.json) |
+| Cat Break | 225587 | [225587-cat-break.json](./225587-cat-break.json) |
 | Cat Break Head to Head | 226315 | [226315-cat-break-head-to-head.json](./226315-cat-break-head-to-head.json) |
 | Cat Burglar | 256835 | [256835-cat-burglar.json](./256835-cat-burglar.json) |
 | Cat Busters: Collections | 144120 | [144120-cat-busters-collections.json](./144120-cat-busters-collections.json) |
