@@ -427,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EcoL tactics | 112312 | [112312-ecol-tactics.json](./112312-ecol-tactics.json) |
 | Econia: Crypto Idle Tycoon! | 232376 | [232376-econia-crypto-idle-tycoon.json](./232376-econia-crypto-idle-tycoon.json) |
 | Economic War | 202701 | [202701-economic-war.json](./202701-economic-war.json) |
+| Economy Bundle | 193740 | [193740-economy-bundle.json](./193740-economy-bundle.json) |
 | EcoQuest II: Lost Secret of the Rainforest | 7694 | [7694-ecoquest-ii-lost-secret-of-the-rainforest.json](./7694-ecoquest-ii-lost-secret-of-the-rainforest.json) |
 | EcoQuest: Explore, Discover, Protect! | 295814 | [295814-ecoquest-explore-discover-protect.json](./295814-ecoquest-explore-discover-protect.json) |
 | Ecotone | 19008 | [19008-ecotone.json](./19008-ecotone.json) |
@@ -751,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elastic car 2 (engineer mode) | 96004 | [96004-elastic-car-2-engineer-mode.json](./96004-elastic-car-2-engineer-mode.json) |
 | Elastic Soccer | 323950 | [323950-elastic-soccer.json](./323950-elastic-soccer.json) |
 | Elasto Mania | 9103 | [9103-elasto-mania.json](./9103-elasto-mania.json) |
+| Elasto Mania Trilogy Pack | 193754 | [193754-elasto-mania-trilogy-pack.json](./193754-elasto-mania-trilogy-pack.json) |
 | Elasto Mania: Remastered | 187473 | [187473-elasto-mania-remastered.json](./187473-elasto-mania-remastered.json) |
 | Elastrix | 36087 | [36087-elastrix.json](./36087-elastrix.json) |
 | Elation for the Wonder Box 6000 | 225567 | [225567-elation-for-the-wonder-box-6000.json](./225567-elation-for-the-wonder-box-6000.json) |
@@ -1519,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endzone | 13643 | [13643-endzone.json](./13643-endzone.json) |
 | Endzone: A World Apart | 126362 | [126362-endzone-a-world-apart.json](./126362-endzone-a-world-apart.json) |
 | Endzone: A World Apart - Complete Edition | 218504 | [218504-endzone-a-world-apart-complete-edition.json](./218504-endzone-a-world-apart-complete-edition.json) |
+| Endzone: A World Apart - Distant Places | 193755 | [193755-endzone-a-world-apart-distant-places.json](./193755-endzone-a-world-apart-distant-places.json) |
 | Endzone: A World Apart - Save the World Edition | 154952 | [154952-endzone-a-world-apart-save-the-world-edition.json](./154952-endzone-a-world-apart-save-the-world-edition.json) |
 | Endzone: A World Apart - Survivor Edition | 193533 | [193533-endzone-a-world-apart-survivor-edition.json](./193533-endzone-a-world-apart-survivor-edition.json) |
 | ENEFN | 132620 | [132620-enefn.json](./132620-enefn.json) |
@@ -2572,6 +2575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evard the Hermit: Through Fears | 221152 | [221152-evard-the-hermit-through-fears.json](./221152-evard-the-hermit-through-fears.json) |
 | Evasion | 346055 | [346055-evasion.json](./346055-evasion.json) |
 | Evasion from Cluster 42 | 259283 | [259283-evasion-from-cluster-42.json](./259283-evasion-from-cluster-42.json) |
+| Evasion From Hell | 193767 | [193767-evasion-from-hell.json](./193767-evasion-from-hell.json) |
 | Evasive | 273917 | [273917-evasive.json](./273917-evasive.json) |
 | Evasive Action | 74088 | [74088-evasive-action.json](./74088-evasive-action.json) |
 | Eve Burst Error Plus | 73525 | [73525-eve-burst-error-plus.json](./73525-eve-burst-error-plus.json) |
