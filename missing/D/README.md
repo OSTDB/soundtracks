@@ -3029,6 +3029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry 5: Playable Character - Vergil | 169336 | [169336-devil-may-cry-5-playable-character-vergil.json](./169336-devil-may-cry-5-playable-character-vergil.json) |
 | Devil May Cry HD Collection | 20734 | [20734-devil-may-cry-hd-collection.json](./20734-devil-may-cry-hd-collection.json) |
 | Devil May Cry HD Collection & 4 Special Edition Bundle | 218517 | [218517-devil-may-cry-hd-collection-and-4-special-edition-bundle.json](./218517-devil-may-cry-hd-collection-and-4-special-edition-bundle.json) |
+| Devil May Cry Triple Pack | 218404 | [218404-devil-may-cry-triple-pack.json](./218404-devil-may-cry-triple-pack.json) |
 | Devil Ninja Fight: Kungfu combat | 255058 | [255058-devil-ninja-fight-kungfu-combat.json](./255058-devil-ninja-fight-kungfu-combat.json) |
 | Devil of the Mirror | 182987 | [182987-devil-of-the-mirror.json](./182987-devil-of-the-mirror.json) |
 | Devil Slayer | 171461 | [171461-devil-slayer.json](./171461-devil-slayer.json) |
@@ -3230,6 +3231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Team | 373757 | [373757-dice-team.json](./373757-dice-team.json) |
 | Dice to Meet You | 270140 | [270140-dice-to-meet-you.json](./270140-dice-to-meet-you.json) |
 | Dice Up | 274754 | [274754-dice-up.json](./274754-dice-up.json) |
+| Dice Versa | 218406 | [218406-dice-versa.json](./218406-dice-versa.json) |
 | Dice vs Dice | 173269 | [173269-dice-vs-dice.json](./173269-dice-vs-dice.json) |
 | Dice vs. Monsters | 184619 | [184619-dice-vs-monsters.json](./184619-dice-vs-monsters.json) |
 | Dice with the Devil: Rerolled | 333015 | [333015-dice-with-the-devil-rerolled.json](./333015-dice-with-the-devil-rerolled.json) |
@@ -5864,6 +5866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon x Dragon DX | 292123 | [292123-dragon-x-dragon-dx.json](./292123-dragon-x-dragon-dx.json) |
 | Dragon x Dragon: Complete Version | 292130 | [292130-dragon-x-dragon-complete-version.json](./292130-dragon-x-dragon-complete-version.json) |
 | Dragon: A Game About a Dragon | 35700 | [35700-dragon-a-game-about-a-dragon.json](./35700-dragon-a-game-about-a-dragon.json) |
+| Dragon: The Bruce Lee Story | 218422 | [218422-dragon-the-bruce-lee-story.json](./218422-dragon-the-bruce-lee-story.json) |
 | Dragon's Bane | 148541 | [148541-dragons-bane.json](./148541-dragons-bane.json) |
 | Dragon's Crown Pro | 68283 | [68283-dragons-crown-pro.json](./68283-dragons-crown-pro.json) |
 | Dragon's Crown Pro: Royal Package | 167136 | [167136-dragons-crown-pro-royal-package.json](./167136-dragons-crown-pro-royal-package.json) |
