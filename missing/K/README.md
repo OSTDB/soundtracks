@@ -2452,6 +2452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuroi Mishin: Sekaikei Girl | 307069 | [307069-kuroi-mishin-sekaikei-girl.json](./307069-kuroi-mishin-sekaikei-girl.json) |
 | Kuroinu 2 Redux | 262080 | [262080-kuroinu-2-redux.json](./262080-kuroinu-2-redux.json) |
 | Kuroinu Redux | 244746 | [244746-kuroinu-redux.json](./244746-kuroinu-redux.json) |
+| Kuroki run! | 184927 | [184927-kuroki-run.json](./184927-kuroki-run.json) |
 | Kuroko no Basket: Mirai he no Kizuna | 60492 | [60492-kuroko-no-basket-mirai-he-no-kizuna.json](./60492-kuroko-no-basket-mirai-he-no-kizuna.json) |
 | Kuromaku | 391323 | [391323-kuromaku.json](./391323-kuromaku.json) |
 | Kuroneko-sou Souzoku Satsujin Jiken | 222910 | [222910-kuroneko-sou-souzoku-satsujin-jiken.json](./222910-kuroneko-sou-souzoku-satsujin-jiken.json) |
