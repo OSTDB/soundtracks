@@ -2397,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All New World of Lemmings | 14246 | [14246-all-new-world-of-lemmings.json](./14246-all-new-world-of-lemmings.json) |
 | All Night Nippon Super Mario Bros. | 41272 | [41272-all-night-nippon-super-mario-bros.json](./41272-all-night-nippon-super-mario-bros.json) |
 | All of Our Friends Are Dead | 124630 | [124630-all-of-our-friends-are-dead.json](./124630-all-of-our-friends-are-dead.json) |
+| All of Touhou Mystia's Izakaya | 209978 | [209978-all-of-touhou-mystias-izakaya.json](./209978-all-of-touhou-mystias-izakaya.json) |
 | All of Us: Her Story | 313877 | [313877-all-of-us-her-story.json](./313877-all-of-us-her-story.json) |
 | All of Us: His Story | 313878 | [313878-all-of-us-his-story.json](./313878-all-of-us-his-story.json) |
 | All On Board! | 305146 | [305146-all-on-board.json](./305146-all-on-board.json) |
