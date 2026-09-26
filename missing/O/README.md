@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Mist and Shadows | 133196 | [133196-of-mist-and-shadows.json](./133196-of-mist-and-shadows.json) |
 | Of Moons and Mania | 256320 | [256320-of-moons-and-mania.json](./256320-of-moons-and-mania.json) |
 | Of Piers & Bays | 397903 | [397903-of-piers-and-bays.json](./397903-of-piers-and-bays.json) |
+| Of Pith and Pumpkins | 185415 | [185415-of-pith-and-pumpkins.json](./185415-of-pith-and-pumpkins.json) |
 | Of Ships & Scoundrels | 110279 | [110279-of-ships-and-scoundrels.json](./110279-of-ships-and-scoundrels.json) |
 | Of the Devil: Episode 1 | 330913 | [330913-of-the-devil-episode-1.json](./330913-of-the-devil-episode-1.json) |
 | Of the Red, the Light, and the Ayakashi Tsuzuri | 62190 | [62190-of-the-red-the-light-and-the-ayakashi-tsuzuri.json](./62190-of-the-red-the-light-and-the-ayakashi-tsuzuri.json) |
@@ -2252,6 +2253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outshine | 192359 | [192359-outshine.json](./192359-outshine.json) |
 | Outside of Our Own | 184127 | [184127-outside-of-our-own.json](./184127-outside-of-our-own.json) |
 | Outside the Blocks | 245868 | [245868-outside-the-blocks.json](./245868-outside-the-blocks.json) |
+| Outside: Stray Cat | 185453 | [185453-outside-stray-cat.json](./185453-outside-stray-cat.json) |
 | Outsider | 201773 | [201773-outsider.json](./201773-outsider.json) |
 | OutSider | 297462 | [297462-outsider.json](./297462-outsider.json) |
 | Outsiders | 391871 | [391871-outsiders.json](./391871-outsiders.json) |
