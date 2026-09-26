@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Drink Sorrel Coffee to Reboot Reality, but I’m Being Hunted by Monster Girls and Armed Agents | 334284 | [334284-i-drink-sorrel-coffee-to-reboot-reality-but-i-m-being-hunted-by-monster-girls-and-armed-agents.json](./334284-i-drink-sorrel-coffee-to-reboot-reality-but-i-m-being-hunted-by-monster-girls-and-armed-agents.json) |
 | I Eat Paintings When Guards Aren't Looking | 394506 | [394506-i-eat-paintings-when-guards-arent-looking.json](./394506-i-eat-paintings-when-guards-arent-looking.json) |
 | I Expect You to Die: Home Sweet Home | 223146 | [223146-i-expect-you-to-die-home-sweet-home.json](./223146-i-expect-you-to-die-home-sweet-home.json) |
+| I Feel Fantastic | 217834 | [217834-i-feel-fantastic.json](./217834-i-feel-fantastic.json) |
 | I Fell in Love with the Mentally Unstable Depressed Goth on Campus | 410903 | [410903-i-fell-in-love-with-the-mentally-unstable-depressed-goth-on-campus.json](./410903-i-fell-in-love-with-the-mentally-unstable-depressed-goth-on-campus.json) |
 | I Fetch Rocks | 153351 | [153351-i-fetch-rocks.json](./153351-i-fetch-rocks.json) |
 | I Fought the Lawn | 223478 | [223478-i-fought-the-lawn.json](./223478-i-fought-the-lawn.json) |
@@ -1872,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inspire | 298302 | [298302-inspire.json](./298302-inspire.json) |
 | Inspired You | 413037 | [413037-inspired-you.json](./413037-inspired-you.json) |
 | Instability | 156522 | [156522-instability.json](./156522-instability.json) |
+| InstaDoom WAD Of The Year Edition | 217803 | [217803-instadoom-wad-of-the-year-edition.json](./217803-instadoom-wad-of-the-year-edition.json) |
 | Install Fee Tycoon | 269006 | [269006-install-fee-tycoon.json](./269006-install-fee-tycoon.json) |
 | Instant Anastasia | 356833 | [356833-instant-anastasia.json](./356833-instant-anastasia.json) |
 | Instant Armory | 303587 | [303587-instant-armory.json](./303587-instant-armory.json) |
