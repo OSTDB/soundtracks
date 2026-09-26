@@ -4654,6 +4654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeStyle Street Basketball | 21423 | [21423-freestyle-street-basketball.json](./21423-freestyle-street-basketball.json) |
 | Freetown Forest | 374839 | [374839-freetown-forest.json](./374839-freetown-forest.json) |
 | Freeway | 131544 | [131544-freeway.json](./131544-freeway.json) |
+| Freeway Fiasco | 203837 | [203837-freeway-fiasco.json](./203837-freeway-fiasco.json) |
 | Freeway Fury: Annihilation | 318188 | [318188-freeway-fury-annihilation.json](./318188-freeway-fury-annihilation.json) |
 | Freewheelin | 253023 | [253023-freewheelin.json](./253023-freewheelin.json) |
 | Freeze the Time | 187429 | [187429-freeze-the-time.json](./187429-freeze-the-time.json) |
@@ -5543,6 +5544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari Jigsaw Puzzle | 212728 | [212728-futanari-jigsaw-puzzle.json](./212728-futanari-jigsaw-puzzle.json) |
 | Futanari Quest | 99592 | [99592-futanari-quest.json](./99592-futanari-quest.json) |
 | Futanari Sex Adventures: Episode 2 | 311582 | [311582-futanari-sex-adventures-episode-2.json](./311582-futanari-sex-adventures-episode-2.json) |
+| Futanari Sex: Naughty Massage | 203847 | [203847-futanari-sex-naughty-massage.json](./203847-futanari-sex-naughty-massage.json) |
 | Futanari Sex: Naughty Visit | 368124 | [368124-futanari-sex-naughty-visit.json](./368124-futanari-sex-naughty-visit.json) |
 | Futanari Sex: Office Whores | 368123 | [368123-futanari-sex-office-whores.json](./368123-futanari-sex-office-whores.json) |
 | Futanari Sex: The Fertility Doctor | 368122 | [368122-futanari-sex-the-fertility-doctor.json](./368122-futanari-sex-the-fertility-doctor.json) |
@@ -5565,6 +5567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futilitris | 138152 | [138152-futilitris.json](./138152-futilitris.json) |
 | Futr8 | 231339 | [231339-futr8.json](./231339-futr8.json) |
 | FutSim | 276783 | [276783-futsim.json](./276783-futsim.json) |
+| Futsuma Shoujo Charlotte | 203846 | [203846-futsuma-shoujo-charlotte.json](./203846-futsuma-shoujo-charlotte.json) |
 | Futuclass: Hydrogen & Oxygen | 170492 | [170492-futuclass-hydrogen-and-oxygen.json](./170492-futuclass-hydrogen-and-oxygen.json) |
 | Futuclass: Oxygen Escape Room | 170493 | [170493-futuclass-oxygen-escape-room.json](./170493-futuclass-oxygen-escape-room.json) |
 | Futurama Saw Game | 384662 | [384662-futurama-saw-game.json](./384662-futurama-saw-game.json) |
