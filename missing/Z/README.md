@@ -697,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Season | 123547 | [123547-zombie-season.json](./123547-zombie-season.json) |
 | Zombie Serial Killer Incident | 99594 | [99594-zombie-serial-killer-incident.json](./99594-zombie-serial-killer-incident.json) |
 | Zombie Shooter | 16017 | [16017-zombie-shooter.json](./16017-zombie-shooter.json) |
+| Zombie Shooter: Pandemic Unkilled | 174667 | [174667-zombie-shooter-pandemic-unkilled.json](./174667-zombie-shooter-pandemic-unkilled.json) |
 | Zombie Shooting Star | 209713 | [209713-zombie-shooting-star.json](./209713-zombie-shooting-star.json) |
 | Zombie Shot | 285581 | [285581-zombie-shot.json](./285581-zombie-shot.json) |
 | Zombie Slapper | 220648 | [220648-zombie-slapper.json](./220648-zombie-slapper.json) |
