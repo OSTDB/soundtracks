@@ -1166,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast & Furious: Crossroads - Season Pass | 293726 | [293726-fast-and-furious-crossroads-season-pass.json](./293726-fast-and-furious-crossroads-season-pass.json) |
 | Fast & Furious: Legacy | 383491 | [383491-fast-and-furious-legacy.json](./383491-fast-and-furious-legacy.json) |
 | Fast & Furious: Spy Racers Rise of Sh1ft3r | 150132 | [150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json](./150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json) |
+| Fast & Furious: Spy Racers Rise of Sh1ft3r - Arctic Challenge | 199898 | [199898-fast-and-furious-spy-racers-rise-of-sh1ft3r-arctic-challenge.json](./199898-fast-and-furious-spy-racers-rise-of-sh1ft3r-arctic-challenge.json) |
 | Fast & Furious: Spy Racers Rise of Sh1ft3r - Complete Edition | 218500 | [218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json](./218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json) |
 | Fast Action Paq | 79585 | [79585-fast-action-paq.json](./79585-fast-action-paq.json) |
 | Fast Beat Battle Rider | 292288 | [292288-fast-beat-battle-rider.json](./292288-fast-beat-battle-rider.json) |
@@ -5412,6 +5413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furious Karting | 47310 | [47310-furious-karting.json](./47310-furious-karting.json) |
 | Furious Race | 105985 | [105985-furious-race.json](./105985-furious-race.json) |
 | Furious Seas | 103775 | [103775-furious-seas.json](./103775-furious-seas.json) |
+| Furious: Heat Racing | 199910 | [199910-furious-heat-racing.json](./199910-furious-heat-racing.json) |
 | Furistas Cat Cafe | 106594 | [106594-furistas-cat-cafe.json](./106594-furistas-cat-cafe.json) |
 | Furistas Cat Cafe | 106629 | [106629-furistas-cat-cafe.json](./106629-furistas-cat-cafe.json) |
 | Furlong Fracas | 248761 | [248761-furlong-fracas.json](./248761-furlong-fracas.json) |
