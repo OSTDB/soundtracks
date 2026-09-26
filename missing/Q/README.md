@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quick Quack | 201136 | [201136-quick-quack.json](./201136-quick-quack.json) |
 | Quick Scrap | 185111 | [185111-quick-scrap.json](./185111-quick-scrap.json) |
 | Quick Thief | 250351 | [250351-quick-thief.json](./250351-quick-thief.json) |
+| Quick Tower Defence Ultimate | 212745 | [212745-quick-tower-defence-ultimate.json](./212745-quick-tower-defence-ultimate.json) |
 | Quick Trivia | 369751 | [369751-quick-trivia.json](./369751-quick-trivia.json) |
 | Quick Whiskers | 378183 | [378183-quick-whiskers.json](./378183-quick-whiskers.json) |
 | Quick-Change | 176953 | [176953-quick-change.json](./176953-quick-change.json) |
