@@ -5070,6 +5070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda XD2: Mercuris' Chess | 243666 | [243666-the-legend-of-zelda-xd2-mercuris-chess.json](./243666-the-legend-of-zelda-xd2-mercuris-chess.json) |
 | The Legend of Zelda: 3rd Quest | 256296 | [256296-the-legend-of-zelda-3rd-quest.json](./256296-the-legend-of-zelda-3rd-quest.json) |
 | The Legend of Zelda: A Link to the Dream | 243669 | [243669-the-legend-of-zelda-a-link-to-the-dream.json](./243669-the-legend-of-zelda-a-link-to-the-dream.json) |
+| The Legend of Zelda: A Link to the Islands | 213893 | [213893-the-legend-of-zelda-a-link-to-the-islands.json](./213893-the-legend-of-zelda-a-link-to-the-islands.json) |
 | The Legend of Zelda: A Link to the Past | 229416 | [229416-the-legend-of-zelda-a-link-to-the-past.json](./229416-the-legend-of-zelda-a-link-to-the-past.json) |
 | The Legend of Zelda: A Link to the Past & Four Swords | 77336 | [77336-the-legend-of-zelda-a-link-to-the-past-and-four-swords.json](./77336-the-legend-of-zelda-a-link-to-the-past-and-four-swords.json) |
 | The Legend of Zelda: A Link to the Past Redux | 219073 | [219073-the-legend-of-zelda-a-link-to-the-past-redux.json](./219073-the-legend-of-zelda-a-link-to-the-past-redux.json) |
@@ -10667,6 +10668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou The Excalibur: Mystic Arena of Reversal Spirits | 314066 | [314066-touhou-the-excalibur-mystic-arena-of-reversal-spirits.json](./314066-touhou-the-excalibur-mystic-arena-of-reversal-spirits.json) |
 | Touhou Thousand Night Anamnesis | 197337 | [197337-touhou-thousand-night-anamnesis.json](./197337-touhou-thousand-night-anamnesis.json) |
 | Touhou Three Noisy Fairies' Adventure: Take It Easy | 373005 | [373005-touhou-three-noisy-fairies-adventure-take-it-easy.json](./373005-touhou-three-noisy-fairies-adventure-take-it-easy.json) |
+| Touhou Tougenkyuu: Riverbed Soul Saver | 213902 | [213902-touhou-tougenkyuu-riverbed-soul-saver.json](./213902-touhou-tougenkyuu-riverbed-soul-saver.json) |
 | Touhou Tougensai | 334137 | [334137-touhou-tougensai.json](./334137-touhou-tougensai.json) |
 | Touhou Tower Defense Aigisyu | 204558 | [204558-touhou-tower-defense-aigisyu.json](./204558-touhou-tower-defense-aigisyu.json) |
 | Touhou Tower Defense Aigisyu: Complete Edition | 204559 | [204559-touhou-tower-defense-aigisyu-complete-edition.json](./204559-touhou-tower-defense-aigisyu-complete-edition.json) |
@@ -12674,6 +12676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuff Stuff | 317614 | [317614-tuff-stuff.json](./317614-tuff-stuff.json) |
 | Tug of Words | 198947 | [198947-tug-of-words.json](./198947-tug-of-words.json) |
 | Tui Shou: Sokoban | 372023 | [372023-tui-shou-sokoban.json](./372023-tui-shou-sokoban.json) |
+| Tuin | 213904 | [213904-tuin.json](./213904-tuin.json) |
 | Tuk Tuk Taxi | 272573 | [272573-tuk-tuk-taxi.json](./272573-tuk-tuk-taxi.json) |
 | Tuk Tuk Trials | 109502 | [109502-tuk-tuk-trials.json](./109502-tuk-tuk-trials.json) |
 | Tukiyono | 205668 | [205668-tukiyono.json](./205668-tukiyono.json) |
@@ -12924,6 +12927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Drive | 148366 | [148366-twilight-drive.json](./148366-twilight-drive.json) |
 | Twilight Flight | 403709 | [403709-twilight-flight.json](./403709-twilight-flight.json) |
 | Twilight Flyer | 307711 | [307711-twilight-flyer.json](./307711-twilight-flyer.json) |
+| Twilight Forest | 213879 | [213879-twilight-forest.json](./213879-twilight-forest.json) |
 | Twilight Gallery | 382197 | [382197-twilight-gallery.json](./382197-twilight-gallery.json) |
 | Twilight Horizon | 314073 | [314073-twilight-horizon.json](./314073-twilight-horizon.json) |
 | Twilight Host Club | 298888 | [298888-twilight-host-club.json](./298888-twilight-host-club.json) |
