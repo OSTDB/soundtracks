@@ -1973,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interior Worlds | 223460 | [223460-interior-worlds.json](./223460-interior-worlds.json) |
 | Interitus | 201249 | [201249-interitus.json](./201249-interitus.json) |
 | Interkosmos 2000 | 215398 | [215398-interkosmos-2000.json](./215398-interkosmos-2000.json) |
+| Interlayer | 216745 | [216745-interlayer.json](./216745-interlayer.json) |
 | Interlocked | 83578 | [83578-interlocked.json](./83578-interlocked.json) |
 | Interlocked: Puzzle Islands | 406183 | [406183-interlocked-puzzle-islands.json](./406183-interlocked-puzzle-islands.json) |
 | InterLogic | 30311 | [30311-interlogic.json](./30311-interlogic.json) |
