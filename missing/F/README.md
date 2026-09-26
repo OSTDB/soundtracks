@@ -3325,6 +3325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floppy Disks from Hell | 236946 | [236946-floppy-disks-from-hell.json](./236946-floppy-disks-from-hell.json) |
 | Floppy Fish | 402997 | [402997-floppy-fish.json](./402997-floppy-fish.json) |
 | Floppy Frenzy | 25137 | [25137-floppy-frenzy.json](./25137-floppy-frenzy.json) |
+| Floppy From Outer Space | 183347 | [183347-floppy-from-outer-space.json](./183347-floppy-from-outer-space.json) |
 | Floppy Knights | 130182 | [130182-floppy-knights.json](./130182-floppy-knights.json) |
 | Floppy Knights: Version 2.0 | 230299 | [230299-floppy-knights-version-2-0.json](./230299-floppy-knights-version-2-0.json) |
 | Floppy Minecraft | 144104 | [144104-floppy-minecraft.json](./144104-floppy-minecraft.json) |
@@ -3455,6 +3456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flutter! | 304135 | [304135-flutter.json](./304135-flutter.json) |
 | Flutterdash | 391199 | [391199-flutterdash.json](./391199-flutterdash.json) |
 | Fluttershy Piano Tiles | 202388 | [202388-fluttershy-piano-tiles.json](./202388-fluttershy-piano-tiles.json) |
+| Flux | 183373 | [183373-flux.json](./183373-flux.json) |
 | Flux | 202357 | [202357-flux.json](./202357-flux.json) |
 | Flux Empyrean | 383372 | [383372-flux-empyrean.json](./383372-flux-empyrean.json) |
 | Flux Family Secrets: The Rabbit Hole | 209458 | [209458-flux-family-secrets-the-rabbit-hole.json](./209458-flux-family-secrets-the-rabbit-hole.json) |
@@ -3845,6 +3847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Varangian Guard - Hero | 289921 | [289921-for-honor-varangian-guard-hero.json](./289921-for-honor-varangian-guard-hero.json) |
 | For Honor: Warmonger Hero | 170436 | [170436-for-honor-warmonger-hero.json](./170436-for-honor-warmonger-hero.json) |
 | For Love of Evil | 271779 | [271779-for-love-of-evil.json](./271779-for-love-of-evil.json) |
+| For Madman Only | 183379 | [183379-for-madman-only.json](./183379-for-madman-only.json) |
 | For My Babies | 270770 | [270770-for-my-babies.json](./270770-for-my-babies.json) |
 | For My Babies 8 | 271246 | [271246-for-my-babies-8.json](./271246-for-my-babies-8.json) |
 | For Political Lovers, a Little Utopia Sketch | 128612 | [128612-for-political-lovers-a-little-utopia-sketch.json](./128612-for-political-lovers-a-little-utopia-sketch.json) |
