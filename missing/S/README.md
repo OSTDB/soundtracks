@@ -7852,6 +7852,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Captain vs Mega Robots | 28119 | [28119-space-captain-vs-mega-robots.json](./28119-space-captain-vs-mega-robots.json) |
 | Space Casual | 220625 | [220625-space-casual.json](./220625-space-casual.json) |
 | Space Cat Solitaire | 368471 | [368471-space-cat-solitaire.json](./368471-space-cat-solitaire.json) |
+| Space Cats Saga: Chapter I | 196023 | [196023-space-cats-saga-chapter-i.json](./196023-space-cats-saga-chapter-i.json) |
+| Space Cats Saga: Chapter II | 196024 | [196024-space-cats-saga-chapter-ii.json](./196024-space-cats-saga-chapter-ii.json) |
 | Space Channel 5: Ulala's Cosmic Attack | 23716 | [23716-space-channel-5-ulalas-cosmic-attack.json](./23716-space-channel-5-ulalas-cosmic-attack.json) |
 | Space Chase: Odyssey | 333599 | [333599-space-chase-odyssey.json](./333599-space-chase-odyssey.json) |
 | Space Cheese Defenders | 278511 | [278511-space-cheese-defenders.json](./278511-space-cheese-defenders.json) |
@@ -9237,6 +9239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spotlight: Choose Your Romance | 298871 | [298871-spotlight-choose-your-romance.json](./298871-spotlight-choose-your-romance.json) |
 | Spotlight!!! | 299479 | [299479-spotlight.json](./299479-spotlight.json) |
 | Spotted | 200720 | [200720-spotted.json](./200720-spotted.json) |
+| Spotted Garden Eel Adventure | 196043 | [196043-spotted-garden-eel-adventure.json](./196043-spotted-garden-eel-adventure.json) |
 | Spotter | 110163 | [110163-spotter.json](./110163-spotter.json) |
 | SPQR: The Empire's Darkest Hour | 73328 | [73328-spqr-the-empires-darkest-hour.json](./73328-spqr-the-empires-darkest-hour.json) |
 | Sprawl 96 | 314636 | [314636-sprawl-96.json](./314636-sprawl-96.json) |
@@ -9879,6 +9882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Tracer | 357305 | [357305-star-tracer.json](./357305-star-tracer.json) |
 | Star Traders | 69581 | [69581-star-traders.json](./69581-star-traders.json) |
 | Star Traders: 4X Empires | 36124 | [36124-star-traders-4x-empires.json](./36124-star-traders-4x-empires.json) |
+| Star Trapper FX | 196037 | [196037-star-trapper-fx.json](./196037-star-trapper-fx.json) |
 | Star Trek | 11485 | [11485-star-trek.json](./11485-star-trek.json) |
 | Star Trek | 247203 | [247203-star-trek.json](./247203-star-trek.json) |
 | Star Trek | 326626 | [326626-star-trek.json](./326626-star-trek.json) |
