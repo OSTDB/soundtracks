@@ -2117,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Mergeland Adventure | 220223 | [220223-alices-mergeland-adventure.json](./220223-alices-mergeland-adventure.json) |
 | Alice's Space Adventure | 57910 | [57910-alices-space-adventure.json](./57910-alices-space-adventure.json) |
 | Alice's Warped Wonderland | 145633 | [145633-alices-warped-wonderland.json](./145633-alices-warped-wonderland.json) |
+| Alice's Warped Wonderland: Recollection | 214444 | [214444-alices-warped-wonderland-recollection.json](./214444-alices-warped-wonderland-recollection.json) |
 | Alice's Wonderland 2: Stolen Souls - Collector's Edition | 337267 | [337267-alices-wonderland-2-stolen-souls-collectors-edition.json](./337267-alices-wonderland-2-stolen-souls-collectors-edition.json) |
 | Alice's Wonderland 5: A Ray of Hope | 416870 | [416870-alices-wonderland-5-a-ray-of-hope.json](./416870-alices-wonderland-5-a-ray-of-hope.json) |
 | Alice's Wonderland 5: A Ray of Hope - Collector's Edition | 337268 | [337268-alices-wonderland-5-a-ray-of-hope-collectors-edition.json](./337268-alices-wonderland-5-a-ray-of-hope-collectors-edition.json) |
@@ -3475,6 +3476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Life: Dinosaurs | 269552 | [269552-animal-life-dinosaurs.json](./269552-animal-life-dinosaurs.json) |
 | Animal Life: Eurasia | 269553 | [269553-animal-life-eurasia.json](./269553-animal-life-eurasia.json) |
 | Animal Life: North America | 269554 | [269554-animal-life-north-america.json](./269554-animal-life-north-america.json) |
+| Animal Magnetism: Pochi no Daisuki | 214434 | [214434-animal-magnetism-pochi-no-daisuki.json](./214434-animal-magnetism-pochi-no-daisuki.json) |
 | Animal Notes | 119707 | [119707-animal-notes.json](./119707-animal-notes.json) |
 | Animal Pairs: Matching & Concentration Game for Toddlers & Kids | 147938 | [147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json](./147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json) |
 | Animal Pattern | 335352 | [335352-animal-pattern.json](./335352-animal-pattern.json) |
@@ -3834,6 +3836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Zero | 313889 | [313889-another-zero.json](./313889-another-zero.json) |
 | Another's Memories | 374049 | [374049-anothers-memories.json](./374049-anothers-memories.json) |
 | Anothereal | 303031 | [303031-anothereal.json](./303031-anothereal.json) |
+| AnotherQuizzGame | 214468 | [214468-anotherquizzgame.json](./214468-anotherquizzgame.json) |
 | Anoun | 384681 | [384681-anoun.json](./384681-anoun.json) |
 | Anovill | 355529 | [355529-anovill.json](./355529-anovill.json) |
 | Anoyo: Zero | 157551 | [157551-anoyo-zero.json](./157551-anoyo-zero.json) |
