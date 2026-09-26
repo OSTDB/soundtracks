@@ -1643,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Change | 302373 | [302373-sea-of-change.json](./302373-sea-of-change.json) |
 | Sea of Dawn | 167674 | [167674-sea-of-dawn.json](./167674-sea-of-dawn.json) |
 | Sea of Dreamland | 48322 | [48322-sea-of-dreamland.json](./48322-sea-of-dreamland.json) |
+| Sea of Dreams | 195487 | [195487-sea-of-dreams.json](./195487-sea-of-dreams.json) |
 | Sea of Giants: Monument Island | 96046 | [96046-sea-of-giants-monument-island.json](./96046-sea-of-giants-monument-island.json) |
 | Sea of Lies: Burning Coast | 98434 | [98434-sea-of-lies-burning-coast.json](./98434-sea-of-lies-burning-coast.json) |
 | Sea of Lies: Burning Coast - Collector's Edition | 83554 | [83554-sea-of-lies-burning-coast-collectors-edition.json](./83554-sea-of-lies-burning-coast-collectors-edition.json) |
@@ -4728,6 +4729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sira | 61626 | [61626-sira.json](./61626-sira.json) |
 | Siralim 3 | 100422 | [100422-siralim-3.json](./100422-siralim-3.json) |
 | Sire Abandon | 200432 | [200432-sire-abandon.json](./200432-sire-abandon.json) |
+| Siren | 195494 | [195494-siren.json](./195494-siren.json) |
 | Siren Head Dating Sim | 177958 | [177958-siren-head-dating-sim.json](./177958-siren-head-dating-sim.json) |
 | Siren Head SCP 6789 | 243223 | [243223-siren-head-scp-6789.json](./243223-siren-head-scp-6789.json) |
 | Siren Head: Stranded | 309120 | [309120-siren-head-stranded.json](./309120-siren-head-stranded.json) |
@@ -5972,6 +5974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake | 125831 | [125831-snake.json](./125831-snake.json) |
 | Snake | 170467 | [170467-snake.json](./170467-snake.json) |
 | Snake | 186242 | [186242-snake.json](./186242-snake.json) |
+| Snake | 195495 | [195495-snake.json](./195495-snake.json) |
 | Snake | 256767 | [256767-snake.json](./256767-snake.json) |
 | Snake | 288267 | [288267-snake.json](./288267-snake.json) |
 | Snake | 294214 | [294214-snake.json](./294214-snake.json) |
@@ -6035,6 +6038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakeout | 138725 | [138725-snakeout.json](./138725-snakeout.json) |
 | SnakeQR | 146844 | [146844-snakeqr.json](./146844-snakeqr.json) |
 | Snaker 64 | 244757 | [244757-snaker-64.json](./244757-snaker-64.json) |
+| Snakes | 195497 | [195497-snakes.json](./195497-snakes.json) |
 | Snakes & Ladders | 147984 | [147984-snakes-and-ladders.json](./147984-snakes-and-ladders.json) |
 | Snakes & Ladders in Aquarium | 54379 | [54379-snakes-and-ladders-in-aquarium.json](./54379-snakes-and-ladders-in-aquarium.json) |
 | Snakes and Ladders | 106570 | [106570-snakes-and-ladders.json](./106570-snakes-and-ladders.json) |
@@ -9012,6 +9016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splat Splat | 348990 | [348990-splat-splat.json](./348990-splat-splat.json) |
 | Splat! | 46870 | [46870-splat.json](./46870-splat.json) |
 | Splatformer | 191166 | [191166-splatformer.json](./191166-splatformer.json) |
+| SplatooD | 195524 | [195524-splatood.json](./195524-splatood.json) |
 | Splatoon 2 | 26761 | [26761-splatoon-2.json](./26761-splatoon-2.json) |
 | Splatoon 2 + Splatoon 2 Octo Expansion Bundle | 136382 | [136382-splatoon-2-splatoon-2-octo-expansion-bundle.json](./136382-splatoon-2-splatoon-2-octo-expansion-bundle.json) |
 | Splatoon Raiders | 348977 | [348977-splatoon-raiders.json](./348977-splatoon-raiders.json) |
@@ -11930,6 +11935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Master | 84914 | [84914-sudoku-master.json](./84914-sudoku-master.json) |
 | Sudoku Master Edition: Logic | 98924 | [98924-sudoku-master-edition-logic.json](./98924-sudoku-master-edition-logic.json) |
 | Sudoku Masters Club | 385077 | [385077-sudoku-masters-club.json](./385077-sudoku-masters-club.json) |
+| Sudoku Micro | 195493 | [195493-sudoku-micro.json](./195493-sudoku-micro.json) |
 | Sudoku Office Style | 58254 | [58254-sudoku-office-style.json](./58254-sudoku-office-style.json) |
 | Sudoku Online | 275650 | [275650-sudoku-online.json](./275650-sudoku-online.json) |
 | Sudoku Original | 103458 | [103458-sudoku-original.json](./103458-sudoku-original.json) |
@@ -11957,6 +11963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku: Casual Board Game | 250393 | [250393-sudoku-casual-board-game.json](./250393-sudoku-casual-board-game.json) |
 | Sudoku: Classic Sudoku Puzzle | 356882 | [356882-sudoku-classic-sudoku-puzzle.json](./356882-sudoku-classic-sudoku-puzzle.json) |
 | Sudoku: Game for Kids | 283225 | [283225-sudoku-game-for-kids.json](./283225-sudoku-game-for-kids.json) |
+| Sudoku: NESWorld Edition | 195523 | [195523-sudoku-nesworld-edition.json](./195523-sudoku-nesworld-edition.json) |
 | Sudoku: Powered by Jamdat | 275649 | [275649-sudoku-powered-by-jamdat.json](./275649-sudoku-powered-by-jamdat.json) |
 | Sudoku: The Clean One | 180244 | [180244-sudoku-the-clean-one.json](./180244-sudoku-the-clean-one.json) |
 | Sudoku: Tied Up & Bound | 275648 | [275648-sudoku-tied-up-and-bound.json](./275648-sudoku-tied-up-and-bound.json) |
@@ -12295,6 +12302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunrise Village: Farm Game | 248100 | [248100-sunrise-village-farm-game.json](./248100-sunrise-village-farm-game.json) |
 | Sunrise's Order | 216727 | [216727-sunrises-order.json](./216727-sunrises-order.json) |
 | SunSenSim | 156124 | [156124-sunsensim.json](./156124-sunsensim.json) |
+| Sunset | 195533 | [195533-sunset.json](./195533-sunset.json) |
 | Sunset Arena | 312711 | [312711-sunset-arena.json](./312711-sunset-arena.json) |
 | Sunset Beach | 358397 | [358397-sunset-beach.json](./358397-sunset-beach.json) |
 | Sunset Coast Collection | 328481 | [328481-sunset-coast-collection.json](./328481-sunset-coast-collection.json) |
@@ -13110,6 +13118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario: Red Scare 2 | 318038 | [318038-super-mario-red-scare-2.json](./318038-super-mario-red-scare-2.json) |
 | Super Mario: Shatters of A Soul | 323871 | [323871-super-mario-shatters-of-a-soul.json](./323871-super-mario-shatters-of-a-soul.json) |
 | Super Mario: The Cursed Forest | 275565 | [275565-super-mario-the-cursed-forest.json](./275565-super-mario-the-cursed-forest.json) |
+| Super Mario: The Last GBA Quest | 195488 | [195488-super-mario-the-last-gba-quest.json](./195488-super-mario-the-last-gba-quest.json) |
 | Super Mario: The Lost Dreams | 135168 | [135168-super-mario-the-lost-dreams.json](./135168-super-mario-the-lost-dreams.json) |
 | Super Mario: The New Beginning Revival | 339245 | [339245-super-mario-the-new-beginning-revival.json](./339245-super-mario-the-new-beginning-revival.json) |
 | Super Mario: The Project | 318027 | [318027-super-mario-the-project.json](./318027-super-mario-the-project.json) |
@@ -13535,6 +13544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sucker: Clever Edition | 362371 | [362371-super-sucker-clever-edition.json](./362371-super-sucker-clever-edition.json) |
 | Super Sucker: Silly DLC | 351242 | [351242-super-sucker-silly-dlc.json](./351242-super-sucker-silly-dlc.json) |
 | Super Sucker: Smart DLC | 351241 | [351241-super-sucker-smart-dlc.json](./351241-super-sucker-smart-dlc.json) |
+| Super Sudoku | 195526 | [195526-super-sudoku.json](./195526-super-sudoku.json) |
 | Super Sunny World | 324695 | [324695-super-sunny-world.json](./324695-super-sunny-world.json) |
 | Super Surf Bros | 128609 | [128609-super-surf-bros.json](./128609-super-surf-bros.json) |
 | Super Sus | 198201 | [198201-super-sus.json](./198201-super-sus.json) |
@@ -14324,6 +14334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swell | 262974 | [262974-swell.json](./262974-swell.json) |
 | Swelldone | 280900 | [280900-swelldone.json](./280900-swelldone.json) |
 | Swervle | 413686 | [413686-swervle.json](./413686-swervle.json) |
+| Swift Attack | 195481 | [195481-swift-attack.json](./195481-swift-attack.json) |
 | Swift Death | 138229 | [138229-swift-death.json](./138229-swift-death.json) |
 | Swift*Stitch | 65439 | [65439-swift-stitch.json](./65439-swift-stitch.json) |
 | Swifter | 346770 | [346770-swifter.json](./346770-swifter.json) |
