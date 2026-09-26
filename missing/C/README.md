@@ -2298,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Academy | 208057 | [208057-chaos-academy.json](./208057-chaos-academy.json) |
 | Chaos Adventure | 281990 | [281990-chaos-adventure.json](./281990-chaos-adventure.json) |
 | Chaos and the White Robot | 67927 | [67927-chaos-and-the-white-robot.json](./67927-chaos-and-the-white-robot.json) |
+| Chaos Arena | 174640 | [174640-chaos-arena.json](./174640-chaos-arena.json) |
 | Chaos Ascension | 327852 | [327852-chaos-ascension.json](./327852-chaos-ascension.json) |
 | Chaos Awakens | 232656 | [232656-chaos-awakens.json](./232656-chaos-awakens.json) |
 | Chaos Battle | 57063 | [57063-chaos-battle.json](./57063-chaos-battle.json) |
@@ -6751,6 +6752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Create: Above and Beyond | 331400 | [331400-create-above-and-beyond.json](./331400-create-above-and-beyond.json) |
 | CreateTech | 127359 | [127359-createtech.json](./127359-createtech.json) |
 | Creatio Ex Nihilo II: Deus Otiosus | 81762 | [81762-creatio-ex-nihilo-ii-deus-otiosus.json](./81762-creatio-ex-nihilo-ii-deus-otiosus.json) |
+| Creation & Magic | 174663 | [174663-creation-and-magic.json](./174663-creation-and-magic.json) |
 | Creative Console | 211705 | [211705-creative-console.json](./211705-creative-console.json) |
 | Creative Kill Chamber | 235240 | [235240-creative-kill-chamber.json](./235240-creative-kill-chamber.json) |
 | Creative Kill Chamber 2 | 316092 | [316092-creative-kill-chamber-2.json](./316092-creative-kill-chamber-2.json) |
@@ -8284,6 +8286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberwar: Neon City | 231308 | [231308-cyberwar-neon-city.json](./231308-cyberwar-neon-city.json) |
 | Cyberwave | 310571 | [310571-cyberwave.json](./310571-cyberwave.json) |
 | CyberWave Survivor | 254173 | [254173-cyberwave-survivor.json](./254173-cyberwave-survivor.json) |
+| CyberWhiskey: Guy's Room | 174637 | [174637-cyberwhiskey-guys-room.json](./174637-cyberwhiskey-guys-room.json) |
 | Cyberwinter | 158194 | [158194-cyberwinter.json](./158194-cyberwinter.json) |
 | Cyberworld Online | 221376 | [221376-cyberworld-online.json](./221376-cyberworld-online.json) |
 | Cyborg City | 339359 | [339359-cyborg-city.json](./339359-cyborg-city.json) |
@@ -8353,6 +8356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyte | 371458 | [371458-cyte.json](./371458-cyte.json) |
 | Cyto | 17431 | [17431-cyto.json](./17431-cyto.json) |
 | Cytoclash | 155989 | [155989-cytoclash.json](./155989-cytoclash.json) |
+| Cytoid | 174630 | [174630-cytoid.json](./174630-cytoid.json) |
 | Cytokine Storm | 408088 | [408088-cytokine-storm.json](./408088-cytokine-storm.json) |
 | Cytopia | 124038 | [124038-cytopia.json](./124038-cytopia.json) |
 | Cytoplasm Madness | 180839 | [180839-cytoplasm-madness.json](./180839-cytoplasm-madness.json) |
