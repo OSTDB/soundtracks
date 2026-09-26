@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Past: The Revenge of the Witch | 64640 | [64640-echoes-of-the-past-the-revenge-of-the-witch.json](./64640-echoes-of-the-past-the-revenge-of-the-witch.json) |
 | Echoes of the Plum Grove: Deluxe Edition | 401668 | [401668-echoes-of-the-plum-grove-deluxe-edition.json](./401668-echoes-of-the-plum-grove-deluxe-edition.json) |
 | Echoes of the Scourge | 398979 | [398979-echoes-of-the-scourge.json](./398979-echoes-of-the-scourge.json) |
+| Echoes of the Stars | 201586 | [201586-echoes-of-the-stars.json](./201586-echoes-of-the-stars.json) |
 | Echoes of the Woods | 303512 | [303512-echoes-of-the-woods.json](./303512-echoes-of-the-woods.json) |
 | Echoes of Tomorrow | 369643 | [369643-echoes-of-tomorrow.json](./369643-echoes-of-tomorrow.json) |
 | Echoes of Undeath | 355019 | [355019-echoes-of-undeath.json](./355019-echoes-of-undeath.json) |
@@ -564,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Hunt VR | 28784 | [28784-egg-hunt-vr.json](./28784-egg-hunt-vr.json) |
 | Egg Maker | 317361 | [317361-egg-maker.json](./317361-egg-maker.json) |
 | Egg Meister | 344483 | [344483-egg-meister.json](./344483-egg-meister.json) |
+| Egg Over It: Fall Flat From the Top | 201560 | [201560-egg-over-it-fall-flat-from-the-top.json](./201560-egg-over-it-fall-flat-from-the-top.json) |
 | Egg Run | 320731 | [320731-egg-run.json](./320731-egg-run.json) |
 | Egg Surprise | 314432 | [314432-egg-surprise.json](./314432-egg-surprise.json) |
 | Egg Tales | 58749 | [58749-egg-tales.json](./58749-egg-tales.json) |
@@ -1467,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Space 2: Vaulters | 82431 | [82431-endless-space-2-vaulters.json](./82431-endless-space-2-vaulters.json) |
 | Endless Space: Definitive Edition | 231650 | [231650-endless-space-definitive-edition.json](./231650-endless-space-definitive-edition.json) |
 | Endless Suburbia | 255700 | [255700-endless-suburbia.json](./255700-endless-suburbia.json) |
+| Endless Thief: a Furry Stealth Adventure | 201567 | [201567-endless-thief-a-furry-stealth-adventure.json](./201567-endless-thief-a-furry-stealth-adventure.json) |
 | Endless TV Tycoon | 352855 | [352855-endless-tv-tycoon.json](./352855-endless-tv-tycoon.json) |
 | Endless Vine | 374798 | [374798-endless-vine.json](./374798-endless-vine.json) |
 | Endless Void | 148894 | [148894-endless-void.json](./148894-endless-void.json) |
@@ -3262,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyes First: Double Up | 210742 | [210742-eyes-first-double-up.json](./210742-eyes-first-double-up.json) |
 | Eyes First: Match Two | 210741 | [210741-eyes-first-match-two.json](./210741-eyes-first-match-two.json) |
 | Eyes First: Tile Slide | 210743 | [210743-eyes-first-tile-slide.json](./210743-eyes-first-tile-slide.json) |
+| Eyes of Darkness | 201583 | [201583-eyes-of-darkness.json](./201583-eyes-of-darkness.json) |
 | Eyes of Souls | 177948 | [177948-eyes-of-souls.json](./177948-eyes-of-souls.json) |
 | Eyes of the Factory | 408185 | [408185-eyes-of-the-factory.json](./408185-eyes-of-the-factory.json) |
 | Eyes of the Forest | 389087 | [389087-eyes-of-the-forest.json](./389087-eyes-of-the-forest.json) |
