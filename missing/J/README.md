@@ -1254,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump: The David Bowie Interactive CD-ROM | 323913 | [323913-jump-the-david-bowie-interactive-cd-rom.json](./323913-jump-the-david-bowie-interactive-cd-rom.json) |
 | Jump! Jump! Jump! | 80896 | [80896-jump-jump-jump.json](./80896-jump-jump-jump.json) |
 | Jump'n Bounce | 78970 | [78970-jumpn-bounce.json](./78970-jumpn-bounce.json) |
+| Jump'n'Brawl | 221123 | [221123-jumpnbrawl.json](./221123-jumpnbrawl.json) |
 | Jump/Die/Live | 166727 | [166727-jump-die-live.json](./166727-jump-die-live.json) |
 | Jump+ Jumble Rush | 370214 | [370214-jump-jumble-rush.json](./370214-jump-jumble-rush.json) |
 | Jump1000 | 189131 | [189131-jump1000.json](./189131-jump1000.json) |
