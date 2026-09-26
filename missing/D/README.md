@@ -2070,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeply | 390113 | [390113-deeply.json](./390113-deeply.json) |
 | Deepmess | 285015 | [285015-deepmess.json](./285015-deepmess.json) |
 | DeepOne | 242521 | [242521-deepone.json](./242521-deepone.json) |
+| Deeprealm Odyssey: Adventure game | 208917 | [208917-deeprealm-odyssey-adventure-game.json](./208917-deeprealm-odyssey-adventure-game.json) |
 | Deepsea Salvor | 128375 | [128375-deepsea-salvor.json](./128375-deepsea-salvor.json) |
 | DeepSea Serenity: VR Underwater Trip | 288786 | [288786-deepsea-serenity-vr-underwater-trip.json](./288786-deepsea-serenity-vr-underwater-trip.json) |
 | DeepTrouble | 57629 | [57629-deeptrouble.json](./57629-deeptrouble.json) |
@@ -2699,6 +2700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Force: Rescue Mission | 259072 | [259072-desert-force-rescue-mission.json](./259072-desert-force-rescue-mission.json) |
 | Desert Gunner | 17116 | [17116-desert-gunner.json](./17116-desert-gunner.json) |
 | Desert Island 64 | 231508 | [231508-desert-island-64.json](./231508-desert-island-64.json) |
+| Desert King 2 | 208918 | [208918-desert-king-2.json](./208918-desert-king-2.json) |
 | Desert Kingdom Portable: Limited Edition | 44510 | [44510-desert-kingdom-portable-limited-edition.json](./44510-desert-kingdom-portable-limited-edition.json) |
 | Desert Kingdoms 2 | 303473 | [303473-desert-kingdoms-2.json](./303473-desert-kingdoms-2.json) |
 | Desert Lions | 335459 | [335459-desert-lions.json](./335459-desert-lions.json) |
@@ -4043,6 +4045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Party | 242808 | [242808-disneys-party.json](./242808-disneys-party.json) |
 | Disney's Pocahantas: Riverbend Adventures | 76602 | [76602-disneys-pocahantas-riverbend-adventures.json](./76602-disneys-pocahantas-riverbend-adventures.json) |
 | Disney's Pocahontas | 45780 | [45780-disneys-pocahontas.json](./45780-disneys-pocahontas.json) |
+| Disney's Reading Quest with Aladdin | 208897 | [208897-disneys-reading-quest-with-aladdin.json](./208897-disneys-reading-quest-with-aladdin.json) |
 | Disney's Stitch: Experiment 626 | 25911 | [25911-disneys-stitch-experiment-626.json](./25911-disneys-stitch-experiment-626.json) |
 | Disney's TaleSpin | 198936 | [198936-disneys-talespin.json](./198936-disneys-talespin.json) |
 | Disney's Tarzan Activity Center | 57923 | [57923-disneys-tarzan-activity-center.json](./57923-disneys-tarzan-activity-center.json) |
