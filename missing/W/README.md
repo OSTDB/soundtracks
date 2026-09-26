@@ -3468,6 +3468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds War 1 | 251649 | [251649-worlds-war-1.json](./251649-worlds-war-1.json) |
 | Worldseekers | 315630 | [315630-worldseekers.json](./315630-worldseekers.json) |
 | WorldShards | 224584 | [224584-worldshards.json](./224584-worldshards.json) |
+| Worldsmith | 209441 | [209441-worldsmith.json](./209441-worldsmith.json) |
 | Worldwide Battle Royale | 256907 | [256907-worldwide-battle-royale.json](./256907-worldwide-battle-royale.json) |
 | Worldwide Soccer | 259651 | [259651-worldwide-soccer.json](./259651-worldwide-soccer.json) |
 | Worldwide Sports Fishing | 117556 | [117556-worldwide-sports-fishing.json](./117556-worldwide-sports-fishing.json) |
