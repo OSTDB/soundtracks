@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veritas | 111443 | [111443-veritas.json](./111443-veritas.json) |
 | Veritus | 260627 | [260627-veritus.json](./260627-veritus.json) |
 | Veriventure | 400851 | [400851-veriventure.json](./400851-veriventure.json) |
+| Verjaded | 179512 | [179512-verjaded.json](./179512-verjaded.json) |
 | Verliebt in Berlin | 92839 | [92839-verliebt-in-berlin.json](./92839-verliebt-in-berlin.json) |
 | Verlies | 94195 | [94195-verlies.json](./94195-verlies.json) |
 | Verlore Drome van Slange Bundle | 331496 | [331496-verlore-drome-van-slange-bundle.json](./331496-verlore-drome-van-slange-bundle.json) |
@@ -1663,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRSailing by BeTomorrow | 29781 | [29781-vrsailing-by-betomorrow.json](./29781-vrsailing-by-betomorrow.json) |
 | VRSO: Bare Knuckle Fighting | 274551 | [274551-vrso-bare-knuckle-fighting.json](./274551-vrso-bare-knuckle-fighting.json) |
 | Vrsus Dead | 306080 | [306080-vrsus-dead.json](./306080-vrsus-dead.json) |
+| Vrtillery | 179486 | [179486-vrtillery.json](./179486-vrtillery.json) |
 | VS Sonic: Dash & Spin | 223136 | [223136-vs-sonic-dash-and-spin.json](./223136-vs-sonic-dash-and-spin.json) |
 | Vs Suicide Mouse | 278448 | [278448-vs-suicide-mouse.json](./278448-vs-suicide-mouse.json) |
 | Vs. | 18307 | [18307-vs.json](./18307-vs.json) |
