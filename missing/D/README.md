@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dagat-i Kal Kal Kal | 63262 | [63262-dagat-i-kal-kal-kal.json](./63262-dagat-i-kal-kal-kal.json) |
 | Dagdrom | 183468 | [183468-dagdrom.json](./183468-dagdrom.json) |
 | Dagestan Technology Anthology | 52844 | [52844-dagestan-technology-anthology.json](./52844-dagestan-technology-anthology.json) |
+| Dagger of heroes | 211664 | [211664-dagger-of-heroes.json](./211664-dagger-of-heroes.json) |
 | Dagger Run: Aerocombatic Racing | 276254 | [276254-dagger-run-aerocombatic-racing.json](./276254-dagger-run-aerocombatic-racing.json) |
 | Dagger Woods VR | 333016 | [333016-dagger-woods-vr.json](./333016-dagger-woods-vr.json) |
 | Daggerfall Unity | 127936 | [127936-daggerfall-unity.json](./127936-daggerfall-unity.json) |
@@ -1907,6 +1908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck Warlords | 110304 | [110304-deck-warlords.json](./110304-deck-warlords.json) |
 | Deck'n'Bag | 402362 | [402362-decknbag.json](./402362-decknbag.json) |
 | Deckbane | 347782 | [347782-deckbane.json](./347782-deckbane.json) |
+| DeckBuilder Village | 211703 | [211703-deckbuilder-village.json](./211703-deckbuilder-village.json) |
 | DeckEleven's Railroads | 87687 | [87687-deckelevens-railroads.json](./87687-deckelevens-railroads.json) |
 | DeckEleven's Railroads 2 | 244898 | [244898-deckelevens-railroads-2.json](./244898-deckelevens-railroads-2.json) |
 | Deckline | 342637 | [342637-deckline.json](./342637-deckline.json) |
