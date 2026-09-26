@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pal-Mon | 393801 | [393801-pal-mon.json](./393801-pal-mon.json) |
 | Palace of a Thousand Curses | 328017 | [328017-palace-of-a-thousand-curses.json](./328017-palace-of-a-thousand-curses.json) |
 | Palace of Cards | 81384 | [81384-palace-of-cards.json](./81384-palace-of-cards.json) |
+| Palace of Magic | 186072 | [186072-palace-of-magic.json](./186072-palace-of-magic.json) |
 | Palace of Nemrac | 261283 | [261283-palace-of-nemrac.json](./261283-palace-of-nemrac.json) |
 | Palace of Poetry | 386862 | [386862-palace-of-poetry.json](./386862-palace-of-poetry.json) |
 | Palace of Woe | 134683 | [134683-palace-of-woe.json](./134683-palace-of-woe.json) |
@@ -3451,6 +3452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Waifu: Escape From the Dark Corporation. The Telepathic Power of a Lovestruck Otaku | 398558 | [398558-pixel-waifu-escape-from-the-dark-corporation-the-telepathic-power-of-a-lovestruck-otaku.json](./398558-pixel-waifu-escape-from-the-dark-corporation-the-telepathic-power-of-a-lovestruck-otaku.json) |
 | Pixel Wars | 239600 | [239600-pixel-wars.json](./239600-pixel-wars.json) |
 | Pixel Washer | 263778 | [263778-pixel-washer.json](./263778-pixel-washer.json) |
+| Pixel Wheels | 186054 | [186054-pixel-wheels.json](./186054-pixel-wheels.json) |
 | Pixel Whirled | 66640 | [66640-pixel-whirled.json](./66640-pixel-whirled.json) |
 | Pixel Z Hunter 3D | 282685 | [282685-pixel-z-hunter-3d.json](./282685-pixel-z-hunter-3d.json) |
 | Pixel: Are You Squared? | 35701 | [35701-pixel-are-you-squared.json](./35701-pixel-are-you-squared.json) |
@@ -5007,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popeye | 38310 | [38310-popeye.json](./38310-popeye.json) |
 | Popeye | 4619 | [4619-popeye.json](./4619-popeye.json) |
 | PopGerm Classic | 253021 | [253021-popgerm-classic.json](./253021-popgerm-classic.json) |
+| Popgoes | 186033 | [186033-popgoes.json](./186033-popgoes.json) |
 | Popgoes and the Machinist | 231093 | [231093-popgoes-and-the-machinist.json](./231093-popgoes-and-the-machinist.json) |
 | Popgoes Arcade | 136256 | [136256-popgoes-arcade.json](./136256-popgoes-arcade.json) |
 | Popgoes Arcade: Fighting Chance | 306983 | [306983-popgoes-arcade-fighting-chance.json](./306983-popgoes-arcade-fighting-chance.json) |
@@ -5037,6 +5040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poppy Playtime Triple Pack | 314441 | [314441-poppy-playtime-triple-pack.json](./314441-poppy-playtime-triple-pack.json) |
 | Poppy Playtime VR | 360783 | [360783-poppy-playtime-vr.json](./360783-poppy-playtime-vr.json) |
 | Poppy Sanctum | 396891 | [396891-poppy-sanctum.json](./396891-poppy-sanctum.json) |
+| PopSauce | 186044 | [186044-popsauce.json](./186044-popsauce.json) |
 | Popscene (Backstage Pass) | 91988 | [91988-popscene-backstage-pass.json](./91988-popscene-backstage-pass.json) |
 | Popsicle Stack | 223983 | [223983-popsicle-stack.json](./223983-popsicle-stack.json) |
 | PopSlinger Vol. 1 & 2: Loveless Series Bundle | 328492 | [328492-popslinger-vol-1-and-2-loveless-series-bundle.json](./328492-popslinger-vol-1-and-2-loveless-series-bundle.json) |
@@ -5053,6 +5057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Populous & The Promised Lands | 137074 | [137074-populous-and-the-promised-lands.json](./137074-populous-and-the-promised-lands.json) |
 | Populous DS | 8898 | [8898-populous-ds.json](./8898-populous-ds.json) |
 | Populous: The Beginning | 5525 | [5525-populous-the-beginning.json](./5525-populous-the-beginning.json) |
+| Porcelain Tales | 186031 | [186031-porcelain-tales.json](./186031-porcelain-tales.json) |
 | Porcini | 148999 | [148999-porcini.json](./148999-porcini.json) |
 | Porcuball | 96122 | [96122-porcuball.json](./96122-porcuball.json) |
 | Porcupine's Fate: Chapter 1 | 196694 | [196694-porcupines-fate-chapter-1.json](./196694-porcupines-fate-chapter-1.json) |
