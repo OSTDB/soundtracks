@@ -1826,6 +1826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Permanent Daylight | 62194 | [62194-permanent-daylight.json](./62194-permanent-daylight.json) |
 | Permanent Sleep | 220742 | [220742-permanent-sleep.json](./220742-permanent-sleep.json) |
 | Permission VR | 108425 | [108425-permission-vr.json](./108425-permission-vr.json) |
+| Perncops Virtual Rig | 226707 | [226707-perncops-virtual-rig.json](./226707-perncops-virtual-rig.json) |
 | Peropero Candy: You no Shou | 373030 | [373030-peropero-candy-you-no-shou.json](./373030-peropero-candy-you-no-shou.json) |
 | Perpession | 334506 | [334506-perpession.json](./334506-perpession.json) |
 | Perpetual Blast | 59670 | [59670-perpetual-blast.json](./59670-perpetual-blast.json) |
@@ -2898,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pioneers of the Coast | 341575 | [341575-pioneers-of-the-coast.json](./341575-pioneers-of-the-coast.json) |
 | Pioneerz | 129219 | [129219-pioneerz.json](./129219-pioneerz.json) |
 | Piozila 2 : Animal Adventures | 269066 | [269066-piozila-2-animal-adventures.json](./269066-piozila-2-animal-adventures.json) |
+| Pip L | 226685 | [226685-pip-l.json](./226685-pip-l.json) |
 | Pip My Dice | 314288 | [314288-pip-my-dice.json](./314288-pip-my-dice.json) |
 | Pip Pepper Park Planner | 347116 | [347116-pip-pepper-park-planner.json](./347116-pip-pepper-park-planner.json) |
 | Pip: Battle for the Arctic | 240723 | [240723-pip-battle-for-the-arctic.json](./240723-pip-battle-for-the-arctic.json) |
@@ -3480,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plain Video Poker | 84814 | [84814-plain-video-poker.json](./84814-plain-video-poker.json) |
 | Plains of Havoc | 289306 | [289306-plains-of-havoc.json](./289306-plains-of-havoc.json) |
 | Plan B: Goddess's cards | 215700 | [215700-plan-b-goddesss-cards.json](./215700-plan-b-goddesss-cards.json) |
+| Plan B: Terraform | 226719 | [226719-plan-b-terraform.json](./226719-plan-b-terraform.json) |
 | Planar Conquest | 33335 | [33335-planar-conquest.json](./33335-planar-conquest.json) |
 | Planarity | 246117 | [246117-planarity.json](./246117-planarity.json) |
 | Planck | 92468 | [92468-planck.json](./92468-planck.json) |
@@ -4743,6 +4746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Master | 43257 | [43257-pool-master.json](./43257-pool-master.json) |
 | Pool Nation Snooker Bundle | 112733 | [112733-pool-nation-snooker-bundle.json](./112733-pool-nation-snooker-bundle.json) |
 | Pool Paradise: International Edition | 43295 | [43295-pool-paradise-international-edition.json](./43295-pool-paradise-international-edition.json) |
+| Pool Party | 226713 | [226713-pool-party.json](./226713-pool-party.json) |
 | Pool Party Boys: Splash Guys | 411139 | [411139-pool-party-boys-splash-guys.json](./411139-pool-party-boys-splash-guys.json) |
 | Pool Party Girls: Splash Babes | 411824 | [411824-pool-party-girls-splash-babes.json](./411824-pool-party-girls-splash-babes.json) |
 | Pool Party Panic | 26953 | [26953-pool-party-panic.json](./26953-pool-party-panic.json) |
@@ -6651,6 +6655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Panic | 257329 | [257329-pumpkin-panic.json](./257329-pumpkin-panic.json) |
 | Pumpkinban | 382214 | [382214-pumpkinban.json](./382214-pumpkinban.json) |
 | PumPum | 159883 | [159883-pumpum.json](./159883-pumpum.json) |
+| PumPum 2 | 226696 | [226696-pumpum-2.json](./226696-pumpum-2.json) |
 | PumPum: +5 Girls Pack | 204065 | [204065-pumpum-5-girls-pack.json](./204065-pumpum-5-girls-pack.json) |
 | Pumuckl and the Crown of the Pirate King | 361866 | [361866-pumuckl-and-the-crown-of-the-pirate-king.json](./361866-pumuckl-and-the-crown-of-the-pirate-king.json) |
 | Punch A Plant! | 306431 | [306431-punch-a-plant.json](./306431-punch-a-plant.json) |
