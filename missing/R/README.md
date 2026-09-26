@@ -1680,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red: Pride of Eden | 193951 | [193951-red-pride-of-eden.json](./193951-red-pride-of-eden.json) |
 | RED: The Lucid Nightmare | 109677 | [109677-red-the-lucid-nightmare.json](./109677-red-the-lucid-nightmare.json) |
 | Red's Revenge | 273980 | [273980-reds-revenge.json](./273980-reds-revenge.json) |
+| Redacted | 212214 | [212214-redacted.json](./212214-redacted.json) |
 | Redacted by the Sadistic Princess from Another World?! | 402250 | [402250-redacted-by-the-sadistic-princess-from-another-world.json](./402250-redacted-by-the-sadistic-princess-from-another-world.json) |
 | Redacted: Genome | 287196 | [287196-redacted-genome.json](./287196-redacted-genome.json) |
 | Redactem | 27470 | [27470-redactem.json](./27470-redactem.json) |
@@ -3252,6 +3253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Storm 2: Vietnam | 18166 | [18166-rising-storm-2-vietnam.json](./18166-rising-storm-2-vietnam.json) |
 | Rising Sun | 850 | [850-rising-sun.json](./850-rising-sun.json) |
 | Rising Sun Mahjong | 257079 | [257079-rising-sun-mahjong.json](./257079-rising-sun-mahjong.json) |
+| Rising Sun: Iron Aces | 212218 | [212218-rising-sun-iron-aces.json](./212218-rising-sun-iron-aces.json) |
 | Rising Super Chef 2 | 99399 | [99399-rising-super-chef-2.json](./99399-rising-super-chef-2.json) |
 | Rising Sushi | 174287 | [174287-rising-sushi.json](./174287-rising-sushi.json) |
 | Rising Thunder: Community Edition | 82394 | [82394-rising-thunder-community-edition.json](./82394-rising-thunder-community-edition.json) |
@@ -4726,6 +4728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTL Ski Jumping 2006 | 80865 | [80865-rtl-ski-jumping-2006.json](./80865-rtl-ski-jumping-2006.json) |
 | RTL Skispringen 2003 | 94245 | [94245-rtl-skispringen-2003.json](./94245-rtl-skispringen-2003.json) |
 | RTL Winter Games 2007 | 152301 | [152301-rtl-winter-games-2007.json](./152301-rtl-winter-games-2007.json) |
+| RTM: The Last Days | 212209 | [212209-rtm-the-last-days.json](./212209-rtm-the-last-days.json) |
 | RTO | 84851 | [84851-rto.json](./84851-rto.json) |
 | RTO 3 | 106519 | [106519-rto-3.json](./106519-rto-3.json) |
 | RTS Football | 259085 | [259085-rts-football.json](./259085-rts-football.json) |
