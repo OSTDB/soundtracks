@@ -1203,6 +1203,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerofly FS 2 Flight Simulator: USA Colorado | 167723 | [167723-aerofly-fs-2-flight-simulator-usa-colorado.json](./167723-aerofly-fs-2-flight-simulator-usa-colorado.json) |
 | Aerofly FS 2 Flight Simulator: USA South Florida | 167722 | [167722-aerofly-fs-2-flight-simulator-usa-south-florida.json](./167722-aerofly-fs-2-flight-simulator-usa-south-florida.json) |
 | Aerofly FS 2 Flight Simulator: USA Utah | 167719 | [167719-aerofly-fs-2-flight-simulator-usa-utah.json](./167719-aerofly-fs-2-flight-simulator-usa-utah.json) |
+| Aerofly FS 4 Flight Simulator | 204985 | [204985-aerofly-fs-4-flight-simulator.json](./204985-aerofly-fs-4-flight-simulator.json) |
+| Aerofly FS 4 Flight Simulator: Aircraft AddOn | 204990 | [204990-aerofly-fs-4-flight-simulator-aircraft-addon.json](./204990-aerofly-fs-4-flight-simulator-aircraft-addon.json) |
 | aerofly RC 7 | 17839 | [17839-aerofly-rc-7.json](./17839-aerofly-rc-7.json) |
 | Aeronaut | 124175 | [124175-aeronaut.json](./124175-aeronaut.json) |
 | Aeronaut | 178522 | [178522-aeronaut.json](./178522-aeronaut.json) |
@@ -1736,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Run | 268016 | [268016-airport-run.json](./268016-airport-run.json) |
 | Airport Scanner | 91172 | [91172-airport-scanner.json](./91172-airport-scanner.json) |
 | Airport Security Sucks! | 397694 | [397694-airport-security-sucks.json](./397694-airport-security-sucks.json) |
+| Airport Service Simulator | 204979 | [204979-airport-service-simulator.json](./204979-airport-service-simulator.json) |
 | Airport Simulator 2013 | 100124 | [100124-airport-simulator-2013.json](./100124-airport-simulator-2013.json) |
 | Airport Simulator 2014 | 16899 | [16899-airport-simulator-2014.json](./16899-airport-simulator-2014.json) |
 | Airport Tycoon 2 | 78040 | [78040-airport-tycoon-2.json](./78040-airport-tycoon-2.json) |
