@@ -2099,6 +2099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tezcatlipoca | 350488 | [350488-tezcatlipoca.json](./350488-tezcatlipoca.json) |
 | Tezzel: The Tilemaker's Tale | 344923 | [344923-tezzel-the-tilemakers-tale.json](./344923-tezzel-the-tilemakers-tale.json) |
 | TFX | 44874 | [44874-tfx.json](./44874-tfx.json) |
+| TG Motocross 3 | 222858 | [222858-tg-motocross-3.json](./222858-tg-motocross-3.json) |
 | th!nk Logic Trainer: Kids | 81392 | [81392-th-nk-logic-trainer-kids.json](./81392-th-nk-logic-trainer-kids.json) |
 | Thailand Bus Simulator | 384617 | [384617-thailand-bus-simulator.json](./384617-thailand-bus-simulator.json) |
 | Thalamus: The Hits 2 | 137468 | [137468-thalamus-the-hits-2.json](./137468-thalamus-the-hits-2.json) |
@@ -12533,6 +12534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukutori | 395001 | [395001-tsukutori.json](./395001-tsukutori.json) |
 | Tsukutte Utau: Saru Band | 230300 | [230300-tsukutte-utau-saru-band.json](./230300-tsukutte-utau-saru-band.json) |
 | Tsumera | 268456 | [268456-tsumera.json](./268456-tsumera.json) |
+| Tsumikui: Sen no Noroi, Sen no Inori | 222867 | [222867-tsumikui-sen-no-noroi-sen-no-inori.json](./222867-tsumikui-sen-no-noroi-sen-no-inori.json) |
 | Tsumikui: Sen no Noroi, Sen no Inori for V | 74795 | [74795-tsumikui-sen-no-noroi-sen-no-inori-for-v.json](./74795-tsumikui-sen-no-noroi-sen-no-inori-for-v.json) |
 | Tsumobaka Nisshi | 299440 | [299440-tsumobaka-nisshi.json](./299440-tsumobaka-nisshi.json) |
 | Tsunagare Numbers | 222420 | [222420-tsunagare-numbers.json](./222420-tsunagare-numbers.json) |
