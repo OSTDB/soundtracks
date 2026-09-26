@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoslaive Overdrive | 51501 | [51501-xenoslaive-overdrive.json](./51501-xenoslaive-overdrive.json) |
 | Xenosphere | 301956 | [301956-xenosphere.json](./301956-xenosphere.json) |
 | XenoTown | 192884 | [192884-xenotown.json](./192884-xenotown.json) |
+| XenoTrigger | 183336 | [183336-xenotrigger.json](./183336-xenotrigger.json) |
 | Xenowar | 70390 | [70390-xenowar.json](./70390-xenowar.json) |
 | XenoWorld: The Rondeau of Astra | 236951 | [236951-xenoworld-the-rondeau-of-astra.json](./236951-xenoworld-the-rondeau-of-astra.json) |
 | Xentripetal Force | 121466 | [121466-xentripetal-force.json](./121466-xentripetal-force.json) |
