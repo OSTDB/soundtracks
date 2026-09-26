@@ -2630,6 +2630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wixoss | 56135 | [56135-wixoss.json](./56135-wixoss.json) |
 | Wiz | 162406 | [162406-wiz.json](./162406-wiz.json) |
 | Wiz Khalifa's Weed Farm | 56168 | [56168-wiz-khalifas-weed-farm.json](./56168-wiz-khalifas-weed-farm.json) |
+| Wiz Party | 194294 | [194294-wiz-party.json](./194294-wiz-party.json) |
 | Wizard | 104479 | [104479-wizard.json](./104479-wizard.json) |
 | Wizard Another World | 294280 | [294280-wizard-another-world.json](./294280-wizard-another-world.json) |
 | Wizard Battle | 121638 | [121638-wizard-battle.json](./121638-wizard-battle.json) |
@@ -2719,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WiZmans World ReTry | 265641 | [265641-wizmans-world-retry.json](./265641-wizmans-world-retry.json) |
 | WizMo's Workshop: Dragons of Frozzbokk | 94577 | [94577-wizmos-workshop-dragons-of-frozzbokk.json](./94577-wizmos-workshop-dragons-of-frozzbokk.json) |
 | Wizordum | 216197 | [216197-wizordum.json](./216197-wizordum.json) |
+| Wiztern | 194298 | [194298-wiztern.json](./194298-wiztern.json) |
 | WizUp! | 290917 | [290917-wizup.json](./290917-wizup.json) |
 | Wizwag | 304014 | [304014-wizwag.json](./304014-wizwag.json) |
 | WizzBall | 81221 | [81221-wizzball.json](./81221-wizzball.json) |
