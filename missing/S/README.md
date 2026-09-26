@@ -2189,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Block Bashi | 151711 | [151711-sengoku-block-bashi.json](./151711-sengoku-block-bashi.json) |
 | Sengoku Bushidou: Daiyabou no Maki | 308883 | [308883-sengoku-bushidou-daiyabou-no-maki.json](./308883-sengoku-bushidou-daiyabou-no-maki.json) |
 | Sengoku Denshou | 48632 | [48632-sengoku-denshou.json](./48632-sengoku-denshou.json) |
+| Sengoku Dynasty | 192664 | [192664-sengoku-dynasty.json](./192664-sengoku-dynasty.json) |
 | Sengoku Efuda Yuugi: Hototogisu Tairan | 269530 | [269530-sengoku-efuda-yuugi-hototogisu-tairan.json](./269530-sengoku-efuda-yuugi-hototogisu-tairan.json) |
 | Sengoku Gensokyo | 299300 | [299300-sengoku-gensokyo.json](./299300-sengoku-gensokyo.json) |
 | Sengoku Hime 3: Tenka o Kirisaku Hikari to Kage | 50871 | [50871-sengoku-hime-3-tenka-o-kirisaku-hikari-to-kage.json](./50871-sengoku-hime-3-tenka-o-kirisaku-hikari-to-kage.json) |
@@ -3920,6 +3921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SHPR | 211198 | [211198-shpr.json](./211198-shpr.json) |
 | Shrapnel City 2096: Trapped In The Future! | 308237 | [308237-shrapnel-city-2096-trapped-in-the-future.json](./308237-shrapnel-city-2096-trapped-in-the-future.json) |
 | Shrapnel Sentinel | 361915 | [361915-shrapnel-sentinel.json](./361915-shrapnel-sentinel.json) |
+| Shred and Tear: Explosive Kajun | 192702 | [192702-shred-and-tear-explosive-kajun.json](./192702-shred-and-tear-explosive-kajun.json) |
 | Shred BackCountry | 174268 | [174268-shred-backcountry.json](./174268-shred-backcountry.json) |
 | Shred Off | 331955 | [331955-shred-off.json](./331955-shred-off.json) |
 | Shred-A-Bunch! | 248030 | [248030-shred-a-bunch.json](./248030-shred-a-bunch.json) |
@@ -8619,6 +8621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Caster: Puzzle RPG | 233107 | [233107-spell-caster-puzzle-rpg.json](./233107-spell-caster-puzzle-rpg.json) |
 | Spell Casting: Purrfectly Portable Edition | 119541 | [119541-spell-casting-purrfectly-portable-edition.json](./119541-spell-casting-purrfectly-portable-edition.json) |
 | Spell Castle | 84181 | [84181-spell-castle.json](./84181-spell-castle.json) |
+| Spell Crisis | 192697 | [192697-spell-crisis.json](./192697-spell-crisis.json) |
 | Spell Dash | 174320 | [174320-spell-dash.json](./174320-spell-dash.json) |
 | Spell Defender | 215715 | [215715-spell-defender.json](./215715-spell-defender.json) |
 | Spell Disk | 240803 | [240803-spell-disk.json](./240803-spell-disk.json) |
@@ -10493,6 +10496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station 17 | 165629 | [165629-station-17.json](./165629-station-17.json) |
 | Station 21 - Space Station Simulator | 28883 | [28883-station-21-space-station-simulator.json](./28883-station-21-space-station-simulator.json) |
 | Station 228 | 75786 | [75786-station-228.json](./75786-station-228.json) |
+| Station 35 | 192665 | [192665-station-35.json](./192665-station-35.json) |
 | Station 37 | 277027 | [277027-station-37.json](./277027-station-37.json) |
 | Station 5 | 307931 | [307931-station-5.json](./307931-station-5.json) |
 | Station Command | 402523 | [402523-station-command.json](./402523-station-command.json) |
@@ -10671,6 +10675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Wound | 217310 | [217310-steel-wound.json](./217310-steel-wound.json) |
 | SteelBlade Shop Simulator | 382322 | [382322-steelblade-shop-simulator.json](./382322-steelblade-shop-simulator.json) |
 | Steelpaw | 124141 | [124141-steelpaw.json](./124141-steelpaw.json) |
+| SteelPinion | 192703 | [192703-steelpinion.json](./192703-steelpinion.json) |
 | SteelRacer | 250939 | [250939-steelracer.json](./250939-steelracer.json) |
 | Steelrising: Bastille Edition | 205569 | [205569-steelrising-bastille-edition.json](./205569-steelrising-bastille-edition.json) |
 | Steelwood Private Eye | 245239 | [245239-steelwood-private-eye.json](./245239-steelwood-private-eye.json) |
@@ -11870,6 +11875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Imprisoned | 83258 | [83258-succubus-imprisoned.json](./83258-succubus-imprisoned.json) |
 | Succubus Puttel | 385845 | [385845-succubus-puttel.json](./385845-succubus-puttel.json) |
 | Succubus Rem | 74452 | [74452-succubus-rem.json](./74452-succubus-rem.json) |
+| Succubus Runa and the Erotic Dungeon | 192693 | [192693-succubus-runa-and-the-erotic-dungeon.json](./192693-succubus-runa-and-the-erotic-dungeon.json) |
 | Succubus Sessions: Mami Mamiya's Sweet Slice of Hell | 371233 | [371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json](./371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json) |
 | Succubus Sexy Devils | 345111 | [345111-succubus-sexy-devils.json](./345111-succubus-sexy-devils.json) |
 | Succubus Successor: Delilah's Juicy Journey | 406898 | [406898-succubus-successor-delilahs-juicy-journey.json](./406898-succubus-successor-delilahs-juicy-journey.json) |
