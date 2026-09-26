@@ -4179,6 +4179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun & Girls.io | 200754 | [200754-gun-and-girls-io.json](./200754-gun-and-girls-io.json) |
 | Gun and Buckler | 217237 | [217237-gun-and-buckler.json](./217237-gun-and-buckler.json) |
 | Gun Beat | 113458 | [113458-gun-beat.json](./113458-gun-beat.json) |
+| Gun Blade | 212204 | [212204-gun-blade.json](./212204-gun-blade.json) |
 | Gun Blood Cowboy Duel | 103506 | [103506-gun-blood-cowboy-duel.json](./103506-gun-blood-cowboy-duel.json) |
 | Gun Breaker | 227258 | [227258-gun-breaker.json](./227258-gun-breaker.json) |
 | Gun Bro | 325001 | [325001-gun-bro.json](./325001-gun-bro.json) |
