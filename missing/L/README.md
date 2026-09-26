@@ -1607,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letteral | 242795 | [242795-letteral.json](./242795-letteral.json) |
 | Letterally | 400861 | [400861-letterally.json](./400861-letterally.json) |
 | LetterBound | 151185 | [151185-letterbound.json](./151185-letterbound.json) |
+| Letterbox by Powgi | 219522 | [219522-letterbox-by-powgi.json](./219522-letterbox-by-powgi.json) |
 | Lettergreep | 45918 | [45918-lettergreep.json](./45918-lettergreep.json) |
 | LetterMeister | 173802 | [173802-lettermeister.json](./173802-lettermeister.json) |
 | Letterorites | 58460 | [58460-letterorites.json](./58460-letterorites.json) |
