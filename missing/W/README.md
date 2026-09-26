@@ -2868,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder World | 312547 | [312547-wonder-world.json](./312547-wonder-world.json) |
 | Wonder World Amusement Park | 5286 | [5286-wonder-world-amusement-park.json](./5286-wonder-world-amusement-park.json) |
 | Wonderball Heroes | 83581 | [83581-wonderball-heroes.json](./83581-wonderball-heroes.json) |
+| Wonderbirds | 188911 | [188911-wonderbirds.json](./188911-wonderbirds.json) |
 | Wonderbook: Book of Spells | 22191 | [22191-wonderbook-book-of-spells.json](./22191-wonderbook-book-of-spells.json) |
 | Wonderbook: Diggs Nightcrawler | 25090 | [25090-wonderbook-diggs-nightcrawler.json](./25090-wonderbook-diggs-nightcrawler.json) |
 | Wonderful Dizzy | 141687 | [141687-wonderful-dizzy.json](./141687-wonderful-dizzy.json) |
@@ -3639,6 +3640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreck-It Ralph | 299871 | [299871-wreck-it-ralph.json](./299871-wreck-it-ralph.json) |
 | Wreckage | 265258 | [265258-wreckage.json](./265258-wreckage.json) |
 | Wreckboy | 229632 | [229632-wreckboy.json](./229632-wreckboy.json) |
+| Wreckdigger | 188922 | [188922-wreckdigger.json](./188922-wreckdigger.json) |
 | Wrecked | 391312 | [391312-wrecked.json](./391312-wrecked.json) |
 | Wrecked Crash Simulator | 114965 | [114965-wrecked-crash-simulator.json](./114965-wrecked-crash-simulator.json) |
 | Wrecked: A Psychedelic Adventure | 265952 | [265952-wrecked-a-psychedelic-adventure.json](./265952-wrecked-a-psychedelic-adventure.json) |
