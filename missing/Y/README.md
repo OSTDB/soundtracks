@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi Gone MFGG | 307660 | [307660-yoshi-gone-mfgg.json](./307660-yoshi-gone-mfgg.json) |
 | Yoshi in Sonic the Hedgehog 2 | 136418 | [136418-yoshi-in-sonic-the-hedgehog-2.json](./136418-yoshi-in-sonic-the-hedgehog-2.json) |
 | Yoshi no Cookie: Kuruppon Oven de Cookie | 37755 | [37755-yoshi-no-cookie-kuruppon-oven-de-cookie.json](./37755-yoshi-no-cookie-kuruppon-oven-de-cookie.json) |
+| Yoshi no Panepon | 219010 | [219010-yoshi-no-panepon.json](./219010-yoshi-no-panepon.json) |
 | Yoshi Racing | 175959 | [175959-yoshi-racing.json](./175959-yoshi-racing.json) |
 | Yoshi Touch & Go | 18329 | [18329-yoshi-touch-and-go.json](./18329-yoshi-touch-and-go.json) |
 | Yoshi Touch & Go | 231475 | [231475-yoshi-touch-and-go.json](./231475-yoshi-touch-and-go.json) |
