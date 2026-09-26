@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump, Smash! | 106999 | [106999-jump-smash.json](./106999-jump-smash.json) |
 | Jump, Step, Step | 29864 | [29864-jump-step-step.json](./29864-jump-step-step.json) |
 | Jump: Assemble | 268747 | [268747-jump-assemble.json](./268747-jump-assemble.json) |
+| JUMP: Janked Up Mario Party | 217841 | [217841-jump-janked-up-mario-party.json](./217841-jump-janked-up-mario-party.json) |
 | Jump: The David Bowie Interactive CD-ROM | 323913 | [323913-jump-the-david-bowie-interactive-cd-rom.json](./323913-jump-the-david-bowie-interactive-cd-rom.json) |
 | Jump! Jump! Jump! | 80896 | [80896-jump-jump-jump.json](./80896-jump-jump-jump.json) |
 | Jump'n Bounce | 78970 | [78970-jumpn-bounce.json](./78970-jumpn-bounce.json) |
@@ -1501,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Because of Beauty | 279082 | [279082-just-because-of-beauty.json](./279082-just-because-of-beauty.json) |
 | Just Beneath the Skin 2D | 29228 | [29228-just-beneath-the-skin-2d.json](./29228-just-beneath-the-skin-2d.json) |
 | Just Black Jack | 124025 | [124025-just-black-jack.json](./124025-just-black-jack.json) |
+| Just Blob | 217840 | [217840-just-blob.json](./217840-just-blob.json) |
 | Just Button | 240160 | [240160-just-button.json](./240160-just-button.json) |
 | Just Cause | 1042 | [1042-just-cause.json](./1042-just-cause.json) |
 | Just Cause 2: Complete Edition | 186901 | [186901-just-cause-2-complete-edition.json](./186901-just-cause-2-complete-edition.json) |
