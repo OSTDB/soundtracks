@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance It! | 317853 | [317853-dance-it.json](./317853-dance-it.json) |
 | Dance Magic | 34720 | [34720-dance-magic.json](./34720-dance-magic.json) |
 | Dance Mania | 330184 | [330184-dance-mania.json](./330184-dance-mania.json) |
+| Dance of Cards | 210594 | [210594-dance-of-cards.json](./210594-dance-of-cards.json) |
 | Dance of Cubes | 170552 | [170552-dance-of-cubes.json](./170552-dance-of-cubes.json) |
 | Dance Of Death | 266887 | [266887-dance-of-death.json](./266887-dance-of-death.json) |
 | Dance of the Butterflies | 412278 | [412278-dance-of-the-butterflies.json](./412278-dance-of-the-butterflies.json) |
@@ -1387,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead of the Sea | 235708 | [235708-dead-of-the-sea.json](./235708-dead-of-the-sea.json) |
 | Dead of Winter: The Long Night | 25654 | [25654-dead-of-winter-the-long-night.json](./25654-dead-of-winter-the-long-night.json) |
 | Dead or Alive | 1387 | [1387-dead-or-alive.json](./1387-dead-or-alive.json) |
+| Dead or Alive | 210621 | [210621-dead-or-alive.json](./210621-dead-or-alive.json) |
 | Dead or Alive | 317067 | [317067-dead-or-alive.json](./317067-dead-or-alive.json) |
 | Dead or Alive 1 Ultimate | 1391 | [1391-dead-or-alive-1-ultimate.json](./1391-dead-or-alive-1-ultimate.json) |
 | Dead or Alive 2 Millennium | 39623 | [39623-dead-or-alive-2-millennium.json](./39623-dead-or-alive-2-millennium.json) |
@@ -2221,6 +2223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DejaVu by dropout.tv | 299994 | [299994-dejavu-by-dropout-tv.json](./299994-dejavu-by-dropout-tv.json) |
 | Dejection: An Ode | 57901 | [57901-dejection-an-ode.json](./57901-dejection-an-ode.json) |
 | Deka Voice | 64928 | [64928-deka-voice.json](./64928-deka-voice.json) |
+| Dekabès Domino | 210563 | [210563-dekabes-domino.json](./210563-dekabes-domino.json) |
 | DekaBlox Arena | 104001 | [104001-dekablox-arena.json](./104001-dekablox-arena.json) |
 | DekaPari | 252075 | [252075-dekapari.json](./252075-dekapari.json) |
 | Dekaron | 60258 | [60258-dekaron.json](./60258-dekaron.json) |
@@ -2413,6 +2416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Hunter | 31217 | [31217-demon-hunter.json](./31217-demon-hunter.json) |
 | Demon Hunter 2: New Chapter | 32774 | [32774-demon-hunter-2-new-chapter.json](./32774-demon-hunter-2-new-chapter.json) |
 | Demon Hunter Collection | 52892 | [52892-demon-hunter-collection.json](./52892-demon-hunter-collection.json) |
+| Demon Hunter High School | 210607 | [210607-demon-hunter-high-school.json](./210607-demon-hunter-high-school.json) |
 | Demon Hunter Mai | 134603 | [134603-demon-hunter-mai.json](./134603-demon-hunter-mai.json) |
 | Demon Hunter: Chronicles from Beyond | 17987 | [17987-demon-hunter-chronicles-from-beyond.json](./17987-demon-hunter-chronicles-from-beyond.json) |
 | Demon Hunter: New Chapter | 232987 | [232987-demon-hunter-new-chapter.json](./232987-demon-hunter-new-chapter.json) |
@@ -4583,6 +4587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Malignancy | 333923 | [333923-doki-doki-malignancy.json](./333923-doki-doki-malignancy.json) |
 | Doki Doki Nightmare | 333927 | [333927-doki-doki-nightmare.json](./333927-doki-doki-nightmare.json) |
 | Doki Doki Our Final Heartbeat | 333609 | [333609-doki-doki-our-final-heartbeat.json](./333609-doki-doki-our-final-heartbeat.json) |
+| Doki Doki Palace | 210590 | [210590-doki-doki-palace.json](./210590-doki-doki-palace.json) |
 | Doki Doki Pokémon Club! | 360183 | [360183-doki-doki-pokemon-club.json](./360183-doki-doki-pokemon-club.json) |
 | Doki Doki Ragnarok | 143512 | [143512-doki-doki-ragnarok.json](./143512-doki-doki-ragnarok.json) |
 | Doki Doki Salvation Remake! | 342072 | [342072-doki-doki-salvation-remake.json](./342072-doki-doki-salvation-remake.json) |
@@ -6273,6 +6278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams and Nightmares | 146277 | [146277-dreams-and-nightmares.json](./146277-dreams-and-nightmares.json) |
 | Dreams Creator | 118197 | [118197-dreams-creator.json](./118197-dreams-creator.json) |
 | Dreams of a Geisha | 264700 | [264700-dreams-of-a-geisha.json](./264700-dreams-of-a-geisha.json) |
+| Dreams of a Lifetime | 210588 | [210588-dreams-of-a-lifetime.json](./210588-dreams-of-a-lifetime.json) |
 | Dreams of Adventure | 173177 | [173177-dreams-of-adventure.json](./173177-dreams-of-adventure.json) |
 | Dreams of Being | 170002 | [170002-dreams-of-being.json](./170002-dreams-of-being.json) |
 | Dreams of Dead | 202249 | [202249-dreams-of-dead.json](./202249-dreams-of-dead.json) |
