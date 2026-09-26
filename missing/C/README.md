@@ -2166,6 +2166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
 | Challange of the Five Realms | 46576 | [46576-challange-of-the-five-realms.json](./46576-challange-of-the-five-realms.json) |
 | Challenge 100 | 359419 | [359419-challenge-100.json](./359419-challenge-100.json) |
+| Challenge Dream Cat | 179997 | [179997-challenge-dream-cat.json](./179997-challenge-dream-cat.json) |
 | Challenge of the Dragon | 48294 | [48294-challenge-of-the-dragon.json](./48294-challenge-of-the-dragon.json) |
 | Challenge of the Tentacle | 217872 | [217872-challenge-of-the-tentacle.json](./217872-challenge-of-the-tentacle.json) |
 | Challenge Party | 149518 | [149518-challenge-party.json](./149518-challenge-party.json) |
@@ -2488,6 +2489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheddly and Cloud's Crazy Adventure 2 | 332261 | [332261-cheddly-and-clouds-crazy-adventure-2.json](./332261-cheddly-and-clouds-crazy-adventure-2.json) |
 | Chee-Chai Alien | 79920 | [79920-chee-chai-alien.json](./79920-chee-chai-alien.json) |
 | Cheech and Chong Bud Farm | 220176 | [220176-cheech-and-chong-bud-farm.json](./220176-cheech-and-chong-bud-farm.json) |
+| Cheeky Chickens | 180029 | [180029-cheeky-chickens.json](./180029-cheeky-chickens.json) |
 | Cheeky Chickens 2 | 104603 | [104603-cheeky-chickens-2.json](./104603-cheeky-chickens-2.json) |
 | Cheeky Princess | 189074 | [189074-cheeky-princess.json](./189074-cheeky-princess.json) |
 | Cheep Cheep Challenge | 268181 | [268181-cheep-cheep-challenge.json](./268181-cheep-cheep-challenge.json) |
@@ -6407,6 +6409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crank Tower Defense | 347140 | [347140-crank-tower-defense.json](./347140-crank-tower-defense.json) |
 | Crank! Push! Tilt! | 243697 | [243697-crank-push-tilt.json](./243697-crank-push-tilt.json) |
 | CrankCore Incremental | 413211 | [413211-crankcore-incremental.json](./413211-crankcore-incremental.json) |
+| Crankies Workshop: Lerpbot Assembly | 180030 | [180030-crankies-workshop-lerpbot-assembly.json](./180030-crankies-workshop-lerpbot-assembly.json) |
 | Cranknstein II | 214015 | [214015-cranknstein-ii.json](./214015-cranknstein-ii.json) |
 | Crankoids | 347141 | [347141-crankoids.json](./347141-crankoids.json) |
 | Cranks and Goggles | 26619 | [26619-cranks-and-goggles.json](./26619-cranks-and-goggles.json) |
