@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic Billiards: Blueprint | 22314 | [22314-magnetic-billiards-blueprint.json](./22314-magnetic-billiards-blueprint.json) |
 | Magnetic By Nature | 17322 | [17322-magnetic-by-nature.json](./17322-magnetic-by-nature.json) |
 | Magnetic Crane | 70952 | [70952-magnetic-crane.json](./70952-magnetic-crane.json) |
+| Magnetic Projectiles | 211668 | [211668-magnetic-projectiles.json](./211668-magnetic-projectiles.json) |
 | Magnetic Pull | 118324 | [118324-magnetic-pull.json](./118324-magnetic-pull.json) |
 | Magnets | 366911 | [366911-magnets.json](./366911-magnets.json) |
 | Magnificent Alfie | 233752 | [233752-magnificent-alfie.json](./233752-magnificent-alfie.json) |
@@ -3934,6 +3935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaphysical Abyss | 296979 | [296979-metaphysical-abyss.json](./296979-metaphysical-abyss.json) |
 | Metapilot | 209476 | [209476-metapilot.json](./209476-metapilot.json) |
 | Metarun | 234754 | [234754-metarun.json](./234754-metarun.json) |
+| MetaShooter | 211673 | [211673-metashooter.json](./211673-metashooter.json) |
 | Metathrone | 173771 | [173771-metathrone.json](./173771-metathrone.json) |
 | MetaTron | 33213 | [33213-metatron.json](./33213-metatron.json) |
 | Metaverse Keeper | 111984 | [111984-metaverse-keeper.json](./111984-metaverse-keeper.json) |
@@ -4782,6 +4784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft Master Collection | 118851 | [118851-minecraft-master-collection.json](./118851-minecraft-master-collection.json) |
 | Minecraft Matcha Flavoured | 411659 | [411659-minecraft-matcha-flavoured.json](./411659-minecraft-matcha-flavoured.json) |
 | Minecraft PSP | 327850 | [327850-minecraft-psp.json](./327850-minecraft-psp.json) |
+| Minecraft Randomizer | 211678 | [211678-minecraft-randomizer.json](./211678-minecraft-randomizer.json) |
 | Minecraft Tower Defence | 240149 | [240149-minecraft-tower-defence.json](./240149-minecraft-tower-defence.json) |
 | Minecraft Triple Bundle | 334490 | [334490-minecraft-triple-bundle.json](./334490-minecraft-triple-bundle.json) |
 | Minecraft vs. Zombies 2 | 273112 | [273112-minecraft-vs-zombies-2.json](./273112-minecraft-vs-zombies-2.json) |
