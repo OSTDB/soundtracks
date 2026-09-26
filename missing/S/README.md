@@ -2482,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seventh Angel | 189129 | [189129-seventh-angel.json](./189129-seventh-angel.json) |
 | Seventh Cavalry | 60220 | [60220-seventh-cavalry.json](./60220-seventh-cavalry.json) |
 | Seventh Choir | 337713 | [337713-seventh-choir.json](./337713-seventh-choir.json) |
+| Seventh Lair | 194970 | [194970-seventh-lair.json](./194970-seventh-lair.json) |
 | Seventh Song | 309510 | [309510-seventh-song.json](./309510-seventh-song.json) |
 | Sever the Wicked! | 363470 | [363470-sever-the-wicked.json](./363470-sever-the-wicked.json) |
 | Severance | 196235 | [196235-severance.json](./196235-severance.json) |
@@ -3297,6 +3298,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes Essential Bundle | 201013 | [201013-sherlock-holmes-essential-bundle.json](./201013-sherlock-holmes-essential-bundle.json) |
 | Sherlock Holmes i el cas d'Arthur Gordon Pym | 345023 | [345023-sherlock-holmes-i-el-cas-darthur-gordon-pym.json](./345023-sherlock-holmes-i-el-cas-darthur-gordon-pym.json) |
 | Sherlock Holmes: Chapter One - Beyond a Joke | 186894 | [186894-sherlock-holmes-chapter-one-beyond-a-joke.json](./186894-sherlock-holmes-chapter-one-beyond-a-joke.json) |
+| Sherlock Holmes: Chapter One - M for Mystery | 194957 | [194957-sherlock-holmes-chapter-one-m-for-mystery.json](./194957-sherlock-holmes-chapter-one-m-for-mystery.json) |
+| Sherlock Holmes: Chapter One - Saints and Sinners | 194958 | [194958-sherlock-holmes-chapter-one-saints-and-sinners.json](./194958-sherlock-holmes-chapter-one-saints-and-sinners.json) |
 | Sherlock Holmes: Consulting Detective | 5435 | [5435-sherlock-holmes-consulting-detective.json](./5435-sherlock-holmes-consulting-detective.json) |
 | Sherlock Holmes: Crimes & Punishments | 5541 | [5541-sherlock-holmes-crimes-and-punishments.json](./5541-sherlock-holmes-crimes-and-punishments.json) |
 | Sherlock Holmes: Puzzle City | 222297 | [222297-sherlock-holmes-puzzle-city.json](./222297-sherlock-holmes-puzzle-city.json) |
@@ -3762,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Sports Gun Club | 99989 | [99989-shooting-sports-gun-club.json](./99989-shooting-sports-gun-club.json) |
 | Shooting Squirrel Simulator | 278513 | [278513-shooting-squirrel-simulator.json](./278513-shooting-squirrel-simulator.json) |
 | Shooting Star | 344581 | [344581-shooting-star.json](./344581-shooting-star.json) |
+| Shooting Star Island | 194982 | [194982-shooting-star-island.json](./194982-shooting-star-island.json) |
 | Shooting Star Rockman Wave Transer | 352786 | [352786-shooting-star-rockman-wave-transer.json](./352786-shooting-star-rockman-wave-transer.json) |
 | Shooting Survival | 248149 | [248149-shooting-survival.json](./248149-shooting-survival.json) |
 | Shooting Type | 163854 | [163854-shooting-type.json](./163854-shooting-type.json) |
@@ -9095,6 +9099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Krabby Quest | 141000 | [141000-spongebob-squarepants-krabby-quest.json](./141000-spongebob-squarepants-krabby-quest.json) |
 | SpongeBob SquarePants: Lights, Camera, Pants! | 210724 | [210724-spongebob-squarepants-lights-camera-pants.json](./210724-spongebob-squarepants-lights-camera-pants.json) |
 | SpongeBob SquarePants: Nighty Nightmare | 18301 | [18301-spongebob-squarepants-nighty-nightmare.json](./18301-spongebob-squarepants-nighty-nightmare.json) |
+| SpongeBob SquarePants: Plankton's Robotic Revenge | 194951 | [194951-spongebob-squarepants-planktons-robotic-revenge.json](./194951-spongebob-squarepants-planktons-robotic-revenge.json) |
 | SpongeBob SquarePants: Revenge of the Flying Dutchman | 2762 | [2762-spongebob-squarepants-revenge-of-the-flying-dutchman.json](./2762-spongebob-squarepants-revenge-of-the-flying-dutchman.json) |
 | Spongebob Squarepants: Shrink n' Sink Golf | 394537 | [394537-spongebob-squarepants-shrink-n-sink-golf.json](./394537-spongebob-squarepants-shrink-n-sink-golf.json) |
 | SpongeBob SquarePants: SuperSponge | 248626 | [248626-spongebob-squarepants-supersponge.json](./248626-spongebob-squarepants-supersponge.json) |
@@ -9520,6 +9525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squonker 3 | 260663 | [260663-squonker-3.json](./260663-squonker-3.json) |
 | Sqwark! A Nutty Adventure | 169478 | [169478-sqwark-a-nutty-adventure.json](./169478-sqwark-a-nutty-adventure.json) |
 | SRB2 Heroes | 326954 | [326954-srb2-heroes.json](./326954-srb2-heroes.json) |
+| SRG Mixtape Volume #2 | 194977 | [194977-srg-mixtape-volume-2.json](./194977-srg-mixtape-volume-2.json) |
 | SRG Mixtape Volume #4 | 261215 | [261215-srg-mixtape-volume-4.json](./261215-srg-mixtape-volume-4.json) |
 | Srogue | 311140 | [311140-srogue.json](./311140-srogue.json) |
 | SRS: Street Racing Syndicate | 49382 | [49382-srs-street-racing-syndicate.json](./49382-srs-street-racing-syndicate.json) |
@@ -13149,6 +13155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Hentai Collection! | 215248 | [215248-super-mega-hentai-collection.json](./215248-super-mega-hentai-collection.json) |
 | Super Mega Lucky Box | 234599 | [234599-super-mega-lucky-box.json](./234599-super-mega-lucky-box.json) |
 | Super Mega Runners | 365137 | [365137-super-mega-runners.json](./365137-super-mega-runners.json) |
+| Super Mega Zero | 194981 | [194981-super-mega-zero.json](./194981-super-mega-zero.json) |
 | Super Metroid and A Link to the Past Crossover Randomizer | 210231 | [210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json](./210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json) |
 | Super Metroid But I Hate You | 345563 | [345563-super-metroid-but-i-hate-you.json](./345563-super-metroid-but-i-hate-you.json) |
 | Super Metroid CRE | 255374 | [255374-super-metroid-cre.json](./255374-super-metroid-cre.json) |
