@@ -891,6 +891,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LeapFrog: Text & Learn | 327425 | [327425-leapfrog-text-and-learn.json](./327425-leapfrog-text-and-learn.json) |
 | LeapLand Adventures | 230275 | [230275-leapland-adventures.json](./230275-leapland-adventures.json) |
 | Leapo Faith | 321568 | [321568-leapo-faith.json](./321568-leapo-faith.json) |
+| LeapSchool Math | 208323 | [208323-leapschool-math.json](./208323-leapschool-math.json) |
+| LeapSchool Reading | 208324 | [208324-leapschool-reading.json](./208324-leapschool-reading.json) |
 | Learn & Discover Home | 326588 | [326588-learn-and-discover-home.json](./326588-learn-and-discover-home.json) |
 | Learn Basic Mandarin!! | 396220 | [396220-learn-basic-mandarin.json](./396220-learn-basic-mandarin.json) |
 | Learn Colors Shapes Preschool Games for Kids Games | 232169 | [232169-learn-colors-shapes-preschool-games-for-kids-games.json](./232169-learn-colors-shapes-preschool-games-for-kids-games.json) |
@@ -2273,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lis: Achados & Perdidos dos Confins do Universo | 239179 | [239179-lis-achados-and-perdidos-dos-confins-do-universo.json](./239179-lis-achados-and-perdidos-dos-confins-do-universo.json) |
 | Lisa and the Grimoire | 169413 | [169413-lisa-and-the-grimoire.json](./169413-lisa-and-the-grimoire.json) |
 | Lisa Joyful in Hopeful | 348964 | [348964-lisa-joyful-in-hopeful.json](./348964-lisa-joyful-in-hopeful.json) |
+| Lisa the Joyful: Growing Pains | 208301 | [208301-lisa-the-joyful-growing-pains.json](./208301-lisa-the-joyful-growing-pains.json) |
 | Lisa: The First | 26652 | [26652-lisa-the-first.json](./26652-lisa-the-first.json) |
 | Lisa: The Gluttonous | 382794 | [382794-lisa-the-gluttonous.json](./382794-lisa-the-gluttonous.json) |
 | Lisa: The Oblivious | 215082 | [215082-lisa-the-oblivious.json](./215082-lisa-the-oblivious.json) |
@@ -2441,6 +2444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Mouse's Encyclopedia + Under Leaves | 188099 | [188099-little-mouses-encyclopedia-under-leaves.json](./188099-little-mouses-encyclopedia-under-leaves.json) |
 | Little Mouse's Encyclopedia: Complete Edition | 241398 | [241398-little-mouses-encyclopedia-complete-edition.json](./241398-little-mouses-encyclopedia-complete-edition.json) |
 | Little Nemo and the Guardians of Slumberland | 204380 | [204380-little-nemo-and-the-guardians-of-slumberland.json](./204380-little-nemo-and-the-guardians-of-slumberland.json) |
+| Little Nemo and the Nightmare Fiends | 208309 | [208309-little-nemo-and-the-nightmare-fiends.json](./208309-little-nemo-and-the-nightmare-fiends.json) |
 | Little Nemo the Clown | 213609 | [213609-little-nemo-the-clown.json](./213609-little-nemo-the-clown.json) |
 | Little Nightmares II: Day 1 Edition | 139821 | [139821-little-nightmares-ii-day-1-edition.json](./139821-little-nightmares-ii-day-1-edition.json) |
 | Little Nightmares II: Deluxe Edition | 154511 | [154511-little-nightmares-ii-deluxe-edition.json](./154511-little-nightmares-ii-deluxe-edition.json) |
