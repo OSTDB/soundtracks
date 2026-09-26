@@ -4462,6 +4462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Flipper 2: Pets | 370700 | [370700-house-flipper-2-pets.json](./370700-house-flipper-2-pets.json) |
 | House Flipper 2: Scooby-Doo | 347894 | [347894-house-flipper-2-scooby-doo.json](./347894-house-flipper-2-scooby-doo.json) |
 | House Flipper 2: Special Edition | 282056 | [282056-house-flipper-2-special-edition.json](./282056-house-flipper-2-special-edition.json) |
+| House Flipper Simulator | 174666 | [174666-house-flipper-simulator.json](./174666-house-flipper-simulator.json) |
 | House Flipper VR | 129209 | [129209-house-flipper-vr.json](./129209-house-flipper-vr.json) |
 | House Flipper: Cyberpunk | 171638 | [171638-house-flipper-cyberpunk.json](./171638-house-flipper-cyberpunk.json) |
 | House Flipper: Dine Out | 289332 | [289332-house-flipper-dine-out.json](./289332-house-flipper-dine-out.json) |
@@ -4845,6 +4846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundred Fires: Episode 2 | 412547 | [412547-hundred-fires-episode-2.json](./412547-hundred-fires-episode-2.json) |
 | Hundred Furious Fist Momoko: Wonderful Pink 2 | 228710 | [228710-hundred-furious-fist-momoko-wonderful-pink-2.json](./228710-hundred-furious-fist-momoko-wonderful-pink-2.json) |
 | Hundred Nights: DIFU | 395236 | [395236-hundred-nights-difu.json](./395236-hundred-nights-difu.json) |
+| Hundred Soul: The Last Savior | 174678 | [174678-hundred-soul-the-last-savior.json](./174678-hundred-soul-the-last-savior.json) |
 | Hundredth | 208036 | [208036-hundredth.json](./208036-hundredth.json) |
 | Hùndùn Zhàn Yù | 367428 | [367428-hundun-zhan-yu.json](./367428-hundun-zhan-yu.json) |
 | Hunger | 41954 | [41954-hunger.json](./41954-hunger.json) |
@@ -4946,6 +4948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter in the Lost Forest | 293202 | [293202-hunter-in-the-lost-forest.json](./293202-hunter-in-the-lost-forest.json) |
 | Hunter Island: Monsters & Dragons | 200113 | [200113-hunter-island-monsters-and-dragons.json](./200113-hunter-island-monsters-and-dragons.json) |
 | Hunter Killer | 94008 | [94008-hunter-killer.json](./94008-hunter-killer.json) |
+| Hunter Legend: Rise of Clans | 174660 | [174660-hunter-legend-rise-of-clans.json](./174660-hunter-legend-rise-of-clans.json) |
 | Hunter Legends | 304567 | [304567-hunter-legends.json](./304567-hunter-legends.json) |
 | Hunter of the Disowned | 156088 | [156088-hunter-of-the-disowned.json](./156088-hunter-of-the-disowned.json) |
 | Hunter Patrol | 13883 | [13883-hunter-patrol.json](./13883-hunter-patrol.json) |
@@ -5009,6 +5012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurdle Turtle 2 | 58264 | [58264-hurdle-turtle-2.json](./58264-hurdle-turtle-2.json) |
 | Hurdle Turtle Forever | 58262 | [58262-hurdle-turtle-forever.json](./58262-hurdle-turtle-forever.json) |
 | Hurdles | 192295 | [192295-hurdles.json](./192295-hurdles.json) |
+| Hurlements | 174634 | [174634-hurlements.json](./174634-hurlements.json) |
 | Hurling Herman | 392252 | [392252-hurling-herman.json](./392252-hurling-herman.json) |
 | Hurricane | 25928 | [25928-hurricane.json](./25928-hurricane.json) |
 | Hurry Up Bird Hunter! | 82107 | [82107-hurry-up-bird-hunter.json](./82107-hurry-up-bird-hunter.json) |
