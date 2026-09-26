@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanafuta no Tora | 358479 | [358479-hanafuta-no-tora.json](./358479-hanafuta-no-tora.json) |
 | Hanage Nuki! Nuki! - Nose Hair Master | 342652 | [342652-hanage-nuki-nuki-nose-hair-master.json](./342652-hanage-nuki-nuki-nose-hair-master.json) |
 | Hanagumi Taisen Columns | 69307 | [69307-hanagumi-taisen-columns.json](./69307-hanagumi-taisen-columns.json) |
+| Hanako in the Abandoned School | 207766 | [207766-hanako-in-the-abandoned-school.json](./207766-hanako-in-the-abandoned-school.json) |
 | Hananezumi | 200742 | [200742-hananezumi.json](./200742-hananezumi.json) |
 | Hanano | 28828 | [28828-hanano.json](./28828-hanano.json) |
 | Hanata-Kadaka!? | 59993 | [59993-hanata-kadaka.json](./59993-hanata-kadaka.json) |
@@ -1071,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Nightmares | 149446 | [149446-haunted-nightmares.json](./149446-haunted-nightmares.json) |
 | Haunted Obachestra Vol. 1 Awaking | 254617 | [254617-haunted-obachestra-vol-1-awaking.json](./254617-haunted-obachestra-vol-1-awaking.json) |
 | Haunted Obachestra Vol. 2 Bianke | 254618 | [254618-haunted-obachestra-vol-2-bianke.json](./254618-haunted-obachestra-vol-2-bianke.json) |
+| Haunted Places | 207761 | [207761-haunted-places.json](./207761-haunted-places.json) |
 | Haunted Property | 309491 | [309491-haunted-property.json](./309491-haunted-property.json) |
 | Haunted Property | 335697 | [335697-haunted-property.json](./335697-haunted-property.json) |
 | Haunted PS1 Demo Disc 2021 | 145030 | [145030-haunted-ps1-demo-disc-2021.json](./145030-haunted-ps1-demo-disc-2021.json) |
@@ -3992,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hordelord | 346021 | [346021-hordelord.json](./346021-hordelord.json) |
 | Hordes of Chaos X | 268759 | [268759-hordes-of-chaos-x.json](./268759-hordes-of-chaos-x.json) |
 | Hordes.io | 125365 | [125365-hordes-io.json](./125365-hordes-io.json) |
+| Hordound | 207764 | [207764-hordound.json](./207764-hordound.json) |
 | Horg's Brewery | 333608 | [333608-horgs-brewery.json](./333608-horgs-brewery.json) |
 | Horgihugh and Friends | 193534 | [193534-horgihugh-and-friends.json](./193534-horgihugh-and-friends.json) |
 | Horizon | 16513 | [16513-horizon.json](./16513-horizon.json) |
