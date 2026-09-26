@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthworm Jim: Menace 2 the Galaxy | 3482 | [3482-earthworm-jim-menace-2-the-galaxy.json](./3482-earthworm-jim-menace-2-the-galaxy.json) |
 | EarWorm | 340931 | [340931-earworm.json](./340931-earworm.json) |
 | Ease Out | 224544 | [224544-ease-out.json](./224544-ease-out.json) |
+| Eason | 192695 | [192695-eason.json](./192695-eason.json) |
 | East Defense | 305526 | [305526-east-defense.json](./305526-east-defense.json) |
 | East Front Campaign CD 1 | 78704 | [78704-east-front-campaign-cd-1.json](./78704-east-front-campaign-cd-1.json) |
 | East Front II | 84257 | [84257-east-front-ii.json](./84257-east-front-ii.json) |
@@ -1054,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elshe no Shounen | 257902 | [257902-elshe-no-shounen.json](./257902-elshe-no-shounen.json) |
 | Elsp | 229822 | [229822-elsp.json](./229822-elsp.json) |
 | Elsword | 115692 | [115692-elsword.json](./115692-elsword.json) |
+| Elta 7 | 192684 | [192684-elta-7.json](./192684-elta-7.json) |
 | Elumin | 295811 | [295811-elumin.json](./295811-elumin.json) |
 | Elune | 125832 | [125832-elune.json](./125832-elune.json) |
 | Elusive | 336540 | [336540-elusive.json](./336540-elusive.json) |
@@ -1506,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endoom Mapping Contest 2024 | 299767 | [299767-endoom-mapping-contest-2024.json](./299767-endoom-mapping-contest-2024.json) |
 | Endoparasitic 2 | 314438 | [314438-endoparasitic-2.json](./314438-endoparasitic-2.json) |
 | Endquest | 268763 | [268763-endquest.json](./268763-endquest.json) |
+| Endragon | 192706 | [192706-endragon.json](./192706-endragon.json) |
 | Endrays | 266860 | [266860-endrays.json](./266860-endrays.json) |
 | Endro | 164971 | [164971-endro.json](./164971-endro.json) |
 | Endrr | 200690 | [200690-endrr.json](./200690-endrr.json) |
@@ -2378,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Man: Jump | 99605 | [99605-eternal-man-jump.json](./99605-eternal-man-jump.json) |
 | Eternal Man: Mountain | 95194 | [95194-eternal-man-mountain.json](./95194-eternal-man-mountain.json) |
 | Eternal Mansion | 323743 | [323743-eternal-mansion.json](./323743-eternal-mansion.json) |
+| Eternal Night | 192710 | [192710-eternal-night.json](./192710-eternal-night.json) |
 | Eternal Night Glory | 326253 | [326253-eternal-night-glory.json](./326253-eternal-night-glory.json) |
 | Eternal Night Town | 339802 | [339802-eternal-night-town.json](./339802-eternal-night-town.json) |
 | Eternal of Swordsman | 194033 | [194033-eternal-of-swordsman.json](./194033-eternal-of-swordsman.json) |
