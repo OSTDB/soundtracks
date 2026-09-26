@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Weekend in Puzzleburg | 201680 | [201680-a-weekend-in-puzzleburg.json](./201680-a-weekend-in-puzzleburg.json) |
 | A western love story but with no horse | 176961 | [176961-a-western-love-story-but-with-no-horse.json](./176961-a-western-love-story-but-with-no-horse.json) |
 | A Whisper in the Twilight: Chapter Two | 338298 | [338298-a-whisper-in-the-twilight-chapter-two.json](./338298-a-whisper-in-the-twilight-chapter-two.json) |
+| A white horse is not a horse | 192183 | [192183-a-white-horse-is-not-a-horse.json](./192183-a-white-horse-is-not-a-horse.json) |
 | A Whole Wolfrush | 329682 | [329682-a-whole-wolfrush.json](./329682-a-whole-wolfrush.json) |
 | A Wild Heist | 390106 | [390106-a-wild-heist.json](./390106-a-wild-heist.json) |
 | A Winding Path | 157709 | [157709-a-winding-path.json](./157709-a-winding-path.json) |
