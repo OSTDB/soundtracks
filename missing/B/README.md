@@ -3642,6 +3642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Wolf | 204993 | [204993-black-wolf.json](./204993-black-wolf.json) |
 | Black Wolves Saga: Weiβ und Schwarz - for Nintendo Switch | 414563 | [414563-black-wolves-saga-wei-und-schwarz-for-nintendo-switch.json](./414563-black-wolves-saga-wei-und-schwarz-for-nintendo-switch.json) |
 | Black Zen White | 344938 | [344938-black-zen-white.json](./344938-black-zen-white.json) |
+| Black, no sugar | 183361 | [183361-black-no-sugar.json](./183361-black-no-sugar.json) |
 | Black/Matrix + | 93534 | [93534-black-matrix.json](./93534-black-matrix.json) |
 | Black/Matrix 00 | 137090 | [137090-black-matrix-00.json](./137090-black-matrix-00.json) |
 | Black/Matrix Advanced | 93013 | [93013-black-matrix-advanced.json](./93013-black-matrix-advanced.json) |
@@ -5232,6 +5233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boopa Zap | 93550 | [93550-boopa-zap.json](./93550-boopa-zap.json) |
 | Booper, Get Home! | 38949 | [38949-booper-get-home.json](./38949-booper-get-home.json) |
 | Boopie Island | 406732 | [406732-boopie-island.json](./406732-boopie-island.json) |
+| Boorglars | 183343 | [183343-boorglars.json](./183343-boorglars.json) |
 | Boorp's Balls | 122892 | [122892-boorps-balls.json](./122892-boorps-balls.json) |
 | Boost | 29832 | [29832-boost.json](./29832-boost.json) |
 | Boost Beast | 51518 | [51518-boost-beast.json](./51518-boost-beast.json) |
@@ -6535,6 +6537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Cadence | 398360 | [398360-bubble-cadence.json](./398360-bubble-cadence.json) |
 | Bubble Cloud: Spinning Bubbles | 86774 | [86774-bubble-cloud-spinning-bubbles.json](./86774-bubble-cloud-spinning-bubbles.json) |
 | Bubble Crackle | 87321 | [87321-bubble-crackle.json](./87321-bubble-crackle.json) |
+| Bubble Diving | 183341 | [183341-bubble-diving.json](./183341-bubble-diving.json) |
 | Bubble Dreams 3D | 330724 | [330724-bubble-dreams-3d.json](./330724-bubble-dreams-3d.json) |
 | Bubble Explosion Adventure | 87691 | [87691-bubble-explosion-adventure.json](./87691-bubble-explosion-adventure.json) |
 | Bubble Fresh Fruits | 289376 | [289376-bubble-fresh-fruits.json](./289376-bubble-fresh-fruits.json) |
