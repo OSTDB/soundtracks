@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Baron | 366254 | [366254-oil-baron.json](./366254-oil-baron.json) |
 | Oil Drill | 22364 | [22364-oil-drill.json](./22364-oil-drill.json) |
 | Oil Filling | 264103 | [264103-oil-filling.json](./264103-oil-filling.json) |
+| Oil Manager | 215627 | [215627-oil-manager.json](./215627-oil-manager.json) |
 | Oil Panic | 228397 | [228397-oil-panic.json](./228397-oil-panic.json) |
 | Oil Patch Simulations | 110366 | [110366-oil-patch-simulations.json](./110366-oil-patch-simulations.json) |
 | Oil Strike '75 | 310172 | [310172-oil-strike-75.json](./310172-oil-strike-75.json) |
