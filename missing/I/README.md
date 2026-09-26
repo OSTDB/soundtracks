@@ -2358,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Frontier | 224787 | [224787-iron-frontier.json](./224787-iron-frontier.json) |
 | Iron Grip: Marauders | 50831 | [50831-iron-grip-marauders.json](./50831-iron-grip-marauders.json) |
 | Iron Guard | 226148 | [226148-iron-guard.json](./226148-iron-guard.json) |
+| Iron Hammer | 210601 | [210601-iron-hammer.json](./210601-iron-hammer.json) |
 | Iron Helix | 5394 | [5394-iron-helix.json](./5394-iron-helix.json) |
 | Iron Hunters | 296943 | [296943-iron-hunters.json](./296943-iron-hunters.json) |
 | Iron John Hawk: The Shards Of Power | 210025 | [210025-iron-john-hawk-the-shards-of-power.json](./210025-iron-john-hawk-the-shards-of-power.json) |
