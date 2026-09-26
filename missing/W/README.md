@@ -1033,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Scanner | 352836 | [352836-wave-scanner.json](./352836-wave-scanner.json) |
 | Wave Shark | 142397 | [142397-wave-shark.json](./142397-wave-shark.json) |
 | Wave Weaver | 289899 | [289899-wave-weaver.json](./289899-wave-weaver.json) |
+| Wave_Machine | 186055 | [186055-wave-machine.json](./186055-wave-machine.json) |
 | Waveat | 362808 | [362808-waveat.json](./362808-waveat.json) |
 | Waveat ReLight V2 | 362811 | [362811-waveat-relight-v2.json](./362811-waveat-relight-v2.json) |
 | Wavecrashers | 391751 | [391751-wavecrashers.json](./391751-wavecrashers.json) |
@@ -3245,6 +3246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Karate Championship | 79620 | [79620-world-karate-championship.json](./79620-world-karate-championship.json) |
 | World Leader Card Game | 119779 | [119779-world-leader-card-game.json](./119779-world-leader-card-game.json) |
 | World Leaders | 274046 | [274046-world-leaders.json](./274046-world-leaders.json) |
+| World League Live! Football | 186048 | [186048-world-league-live-football.json](./186048-world-league-live-football.json) |
 | World Mahjong: Original | 220721 | [220721-world-mahjong-original.json](./220721-world-mahjong-original.json) |
 | World Map: Crafted City Builder | 202096 | [202096-world-map-crafted-city-builder.json](./202096-world-map-crafted-city-builder.json) |
 | World Mosaics | 135246 | [135246-world-mosaics.json](./135246-world-mosaics.json) |
