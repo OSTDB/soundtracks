@@ -1223,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Champion League 2019 | 220204 | [220204-baseball-champion-league-2019.json](./220204-baseball-champion-league-2019.json) |
 | Baseball Fighter | 48615 | [48615-baseball-fighter.json](./48615-baseball-fighter.json) |
 | Baseball Heroes | 342287 | [342287-baseball-heroes.json](./342287-baseball-heroes.json) |
+| Baseball in Hell | 177842 | [177842-baseball-in-hell.json](./177842-baseball-in-hell.json) |
 | Baseball Kings VR | 89255 | [89255-baseball-kings-vr.json](./89255-baseball-kings-vr.json) |
 | Baseball Mogul | 605 | [605-baseball-mogul.json](./605-baseball-mogul.json) |
 | Baseball Mogul 2000 | 72675 | [72675-baseball-mogul-2000.json](./72675-baseball-mogul-2000.json) |
@@ -1247,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Superstars 2024 | 318399 | [318399-baseball-superstars-2024.json](./318399-baseball-superstars-2024.json) |
 | Baseball with Heads | 246974 | [246974-baseball-with-heads.json](./246974-baseball-with-heads.json) |
 | Baseball-e | 170006 | [170006-baseball-e.json](./170006-baseball-e.json) |
+| Baseball, But Fun | 177858 | [177858-baseball-but-fun.json](./177858-baseball-but-fun.json) |
 | Baseball: The Season II | 40267 | [40267-baseball-the-season-ii.json](./40267-baseball-the-season-ii.json) |
 | Baseball4 | 59450 | [59450-baseball4.json](./59450-baseball4.json) |
 | BASED | 394231 | [394231-based.json](./394231-based.json) |
@@ -4350,6 +4352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood for the Throne | 370202 | [370202-blood-for-the-throne.json](./370202-blood-for-the-throne.json) |
 | Blood Gazm | 248672 | [248672-blood-gazm.json](./248672-blood-gazm.json) |
 | Blood Gear | 42020 | [42020-blood-gear.json](./42020-blood-gear.json) |
+| Blood girl | 177854 | [177854-blood-girl.json](./177854-blood-girl.json) |
 | Blood Golf | 264083 | [264083-blood-golf.json](./264083-blood-golf.json) |
 | Blood II: Revelations | 127929 | [127929-blood-ii-revelations.json](./127929-blood-ii-revelations.json) |
 | Blood II: The Chosen | 11265 | [11265-blood-ii-the-chosen.json](./11265-blood-ii-the-chosen.json) |
