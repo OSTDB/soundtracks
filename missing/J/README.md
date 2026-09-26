@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Rail Sim: Hakone Town of Natural Beauty and Hot Springs | 315837 | [315837-japanese-rail-sim-hakone-town-of-natural-beauty-and-hot-springs.json](./315837-japanese-rail-sim-hakone-town-of-natural-beauty-and-hot-springs.json) |
 | Japanese Rail Sim: Journey to Kyoto | 139991 | [139991-japanese-rail-sim-journey-to-kyoto.json](./139991-japanese-rail-sim-journey-to-kyoto.json) |
 | Japanese School Life | 26136 | [26136-japanese-school-life.json](./26136-japanese-school-life.json) |
+| Japanese TeTris | 211156 | [211156-japanese-tetris.json](./211156-japanese-tetris.json) |
 | Japaritale | 313292 | [313292-japaritale.json](./313292-japaritale.json) |
 | Japocaliptyca | 120358 | [120358-japocaliptyca.json](./120358-japocaliptyca.json) |
 | JAPP: Just Another Precise Platformer | 268984 | [268984-japp-just-another-precise-platformer.json](./268984-japp-just-another-precise-platformer.json) |
