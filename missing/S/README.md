@@ -6013,6 +6013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Man's Adventure | 158066 | [158066-snake-mans-adventure.json](./158066-snake-mans-adventure.json) |
 | Snake Neon Online | 209685 | [209685-snake-neon-online.json](./209685-snake-neon-online.json) |
 | Snake of Maths! Cool Education Game | 204973 | [204973-snake-of-maths-cool-education-game.json](./204973-snake-of-maths-cool-education-game.json) |
+| Snake on Dope | 194303 | [194303-snake-on-dope.json](./194303-snake-on-dope.json) |
 | Snake Party | 29906 | [29906-snake-party.json](./29906-snake-party.json) |
 | Snake Pass | 19220 | [19220-snake-pass.json](./19220-snake-pass.json) |
 | Snake Plissken's Escape | 67295 | [67295-snake-plisskens-escape.json](./67295-snake-plisskens-escape.json) |
@@ -8214,6 +8215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Tyrant | 30348 | [30348-space-tyrant.json](./30348-space-tyrant.json) |
 | Space Valet | 177005 | [177005-space-valet.json](./177005-space-valet.json) |
 | Space Variance Authority | 337641 | [337641-space-variance-authority.json](./337641-space-variance-authority.json) |
+| Space Varments | 194302 | [194302-space-varments.json](./194302-space-varments.json) |
 | Space Viking Raiders | 74469 | [74469-space-viking-raiders.json](./74469-space-viking-raiders.json) |
 | Space Vikings | 261551 | [261551-space-vikings.json](./261551-space-vikings.json) |
 | Space Virus Escape | 363044 | [363044-space-virus-escape.json](./363044-space-virus-escape.json) |
@@ -9403,6 +9405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyro: Year of the Dragon | 142243 | [142243-spyro-year-of-the-dragon.json](./142243-spyro-year-of-the-dragon.json) |
 | Spyro: Year of the Dragon | 1578 | [1578-spyro-year-of-the-dragon.json](./1578-spyro-year-of-the-dragon.json) |
 | Spyyn | 372101 | [372101-spyyn.json](./372101-spyyn.json) |
+| Sqdef | 194297 | [194297-sqdef.json](./194297-sqdef.json) |
 | Sqr 3 | 334766 | [334766-sqr-3.json](./334766-sqr-3.json) |
 | SQRZ | 360212 | [360212-sqrz.json](./360212-sqrz.json) |
 | Squad | 9495 | [9495-squad.json](./9495-squad.json) |
@@ -10674,6 +10677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steinkraft | 320162 | [320162-steinkraft.json](./320162-steinkraft.json) |
 | Steins;Gate Double Pack | 141877 | [141877-steins-gate-double-pack.json](./141877-steins-gate-double-pack.json) |
 | Steins;Gate Re:Boot | 320972 | [320972-steins-gate-re-boot.json](./320972-steins-gate-re-boot.json) |
+| Steins;Gate x Sanrio Characters: Kaikou Souguu - Goldig Party | 194285 | [194285-steins-gate-x-sanrio-characters-kaikou-souguu-goldig-party.json](./194285-steins-gate-x-sanrio-characters-kaikou-souguu-goldig-party.json) |
 | Steins;Gate: Divergencies Assort | 113475 | [113475-steins-gate-divergencies-assort.json](./113475-steins-gate-divergencies-assort.json) |
 | Steins;Gate: El Psy Kongroo Edition | 89914 | [89914-steins-gate-el-psy-kongroo-edition.json](./89914-steins-gate-el-psy-kongroo-edition.json) |
 | Steins;Gate: Limited Edition | 42680 | [42680-steins-gate-limited-edition.json](./42680-steins-gate-limited-edition.json) |
@@ -11355,6 +11359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Cleaner 3 | 305382 | [305382-street-cleaner-3.json](./305382-street-cleaner-3.json) |
 | Street Corner Heartbeat Snaps | 416070 | [416070-street-corner-heartbeat-snaps.json](./416070-street-corner-heartbeat-snaps.json) |
 | Street Cred Football | 71471 | [71471-street-cred-football.json](./71471-street-cred-football.json) |
+| Street Cricket Champions | 194275 | [194275-street-cricket-champions.json](./194275-street-cricket-champions.json) |
 | Street Defenders | 357270 | [357270-street-defenders.json](./357270-street-defenders.json) |
 | Street Drag Racing Car Driving Simulator 2022 Games | 231066 | [231066-street-drag-racing-car-driving-simulator-2022-games.json](./231066-street-drag-racing-car-driving-simulator-2022-games.json) |
 | Street Drag Racing Car Driving Simulator: Premium Edition | 315852 | [315852-street-drag-racing-car-driving-simulator-premium-edition.json](./315852-street-drag-racing-car-driving-simulator-premium-edition.json) |
@@ -12904,6 +12909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64 Port: PSP Port of PC | 307319 | [307319-super-mario-64-port-psp-port-of-pc.json](./307319-super-mario-64-port-psp-port-of-pc.json) |
 | Super Mario 64 Randomizer | 135265 | [135265-super-mario-64-randomizer.json](./135265-super-mario-64-randomizer.json) |
 | Super Mario 64 Shining Stars | 132859 | [132859-super-mario-64-shining-stars.json](./132859-super-mario-64-shining-stars.json) |
+| Super Mario 64 Sonic Edition | 194312 | [194312-super-mario-64-sonic-edition.json](./194312-super-mario-64-sonic-edition.json) |
 | Super Mario 64 Splitscreen Multiplayer | 135223 | [135223-super-mario-64-splitscreen-multiplayer.json](./135223-super-mario-64-splitscreen-multiplayer.json) |
 | Super Mario 64 Xbox | 284359 | [284359-super-mario-64-xbox.json](./284359-super-mario-64-xbox.json) |
 | Super Mario 64: All Star Adventure Extreme Edition | 215202 | [215202-super-mario-64-all-star-adventure-extreme-edition.json](./215202-super-mario-64-all-star-adventure-extreme-edition.json) |
@@ -12915,6 +12921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64: Odyssey Mario's Moveset | 198368 | [198368-super-mario-64-odyssey-marios-moveset.json](./198368-super-mario-64-odyssey-marios-moveset.json) |
 | Super Mario 64: Rogue Chaos Edition Version 2.0 | 413054 | [413054-super-mario-64-rogue-chaos-edition-version-2-0.json](./413054-super-mario-64-rogue-chaos-edition-version-2-0.json) |
 | Super Mario 64: Royal Legacy - Definitive Edition | 314021 | [314021-super-mario-64-royal-legacy-definitive-edition.json](./314021-super-mario-64-royal-legacy-definitive-edition.json) |
+| Super Mario 64: Shadow Edition | 194313 | [194313-super-mario-64-shadow-edition.json](./194313-super-mario-64-shadow-edition.json) |
 | Super Mario 64: Star Revenge | 132839 | [132839-super-mario-64-star-revenge.json](./132839-super-mario-64-star-revenge.json) |
 | Super Mario 64: Star Revenge Redone | 132840 | [132840-super-mario-64-star-revenge-redone.json](./132840-super-mario-64-star-revenge-redone.json) |
 | Super Mario 64: The Missing Stars | 135176 | [135176-super-mario-64-the-missing-stars.json](./135176-super-mario-64-the-missing-stars.json) |
@@ -13612,6 +13619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ultra Star Shooter | 85417 | [85417-super-ultra-star-shooter.json](./85417-super-ultra-star-shooter.json) |
 | Super Uno | 37946 | [37946-super-uno.json](./37946-super-uno.json) |
 | Super Uwol | 299173 | [299173-super-uwol.json](./299173-super-uwol.json) |
+| Super Vadimka | 194310 | [194310-super-vadimka.json](./194310-super-vadimka.json) |
 | Super Vadimka II: Revenge of Dr. Kulik | 194612 | [194612-super-vadimka-ii-revenge-of-dr-kulik.json](./194612-super-vadimka-ii-revenge-of-dr-kulik.json) |
 | Super Vadimka III: Enter ALJ | 202324 | [202324-super-vadimka-iii-enter-alj.json](./202324-super-vadimka-iii-enter-alj.json) |
 | Super Vadimka VI: A Terrible Threat there is No Vadimka | 224769 | [224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json](./224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json) |
