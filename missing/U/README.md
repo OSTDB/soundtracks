@@ -663,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Observation | 227871 | [227871-under-observation.json](./227871-under-observation.json) |
 | Under Party | 127021 | [127021-under-party.json](./127021-under-party.json) |
 | Under Pressure | 80602 | [80602-under-pressure.json](./80602-under-pressure.json) |
+| Under Pretense of Death | 177334 | [177334-under-pretense-of-death.json](./177334-under-pretense-of-death.json) |
 | Under Princess: Pure Voice | 109005 | [109005-under-princess-pure-voice.json](./109005-under-princess-pure-voice.json) |
 | Under Siege | 383347 | [383347-under-siege.json](./383347-under-siege.json) |
 | Under Siege | 95467 | [95467-under-siege.json](./95467-under-siege.json) |
