@@ -1841,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marshmallow Marvin: Greenwood | 334287 | [334287-marshmallow-marvin-greenwood.json](./334287-marshmallow-marvin-greenwood.json) |
 | Marshmallow Marvin: Templestone | 336928 | [336928-marshmallow-marvin-templestone.json](./336928-marshmallow-marvin-templestone.json) |
 | Marshmallow Melee | 67600 | [67600-marshmallow-melee.json](./67600-marshmallow-melee.json) |
+| Marshmallow Nights | 177833 | [177833-marshmallow-nights.json](./177833-marshmallow-nights.json) |
 | Marshmallow Penguins VR | 185433 | [185433-marshmallow-penguins-vr.json](./185433-marshmallow-penguins-vr.json) |
 | Marshmellow Day Spa | 114153 | [114153-marshmellow-day-spa.json](./114153-marshmellow-day-spa.json) |
 | Marsi's Adventures | 228375 | [228375-marsis-adventures.json](./228375-marsis-adventures.json) |
@@ -7348,6 +7349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Jorries! | 157136 | [157136-mr-jorries.json](./157136-mr-jorries.json) |
 | Mr Jump World | 217804 | [217804-mr-jump-world.json](./217804-mr-jump-world.json) |
 | Mr Love: Queen's Choice | 118949 | [118949-mr-love-queens-choice.json](./118949-mr-love-queens-choice.json) |
+| Mr Moneybag | 177864 | [177864-mr-moneybag.json](./177864-mr-moneybag.json) |
 | Mr Mosco Bizarre Climbing | 263770 | [263770-mr-mosco-bizarre-climbing.json](./263770-mr-mosco-bizarre-climbing.json) |
 | Mr Ninja | 208060 | [208060-mr-ninja.json](./208060-mr-ninja.json) |
 | Mr Octopus | 234003 | [234003-mr-octopus.json](./234003-mr-octopus.json) |
