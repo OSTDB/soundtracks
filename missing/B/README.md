@@ -1560,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Group 2 | 10040 | [10040-battle-group-2.json](./10040-battle-group-2.json) |
 | Battle Hanafuda | 377059 | [377059-battle-hanafuda.json](./377059-battle-hanafuda.json) |
 | Battle Heat! | 45962 | [45962-battle-heat.json](./45962-battle-heat.json) |
+| Battle Heroine Crisis | 189972 | [189972-battle-heroine-crisis.json](./189972-battle-heroine-crisis.json) |
 | Battle High School | 91922 | [91922-battle-high-school.json](./91922-battle-high-school.json) |
 | Battle In Space | 212470 | [212470-battle-in-space.json](./212470-battle-in-space.json) |
 | Battle Insects | 52644 | [52644-battle-insects.json](./52644-battle-insects.json) |
@@ -4353,6 +4354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood of the Covenant | 217864 | [217864-blood-of-the-covenant.json](./217864-blood-of-the-covenant.json) |
 | Blood of the Elves | 290560 | [290560-blood-of-the-elves.json](./290560-blood-of-the-elves.json) |
 | Blood of the Killer | 178572 | [178572-blood-of-the-killer.json](./178572-blood-of-the-killer.json) |
+| Blood of Utpia | 189930 | [189930-blood-of-utpia.json](./189930-blood-of-utpia.json) |
 | Blood Omen 2: Legacy of Kain | 323372 | [323372-blood-omen-2-legacy-of-kain.json](./323372-blood-omen-2-legacy-of-kain.json) |
 | Blood Omen 2: Legacy of Kain | 3823 | [3823-blood-omen-2-legacy-of-kain.json](./3823-blood-omen-2-legacy-of-kain.json) |
 | Blood Omen: Legacy of Kain | 317629 | [317629-blood-omen-legacy-of-kain.json](./317629-blood-omen-legacy-of-kain.json) |
@@ -6968,6 +6970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Kombat | 314291 | [314291-burger-kombat.json](./314291-burger-kombat.json) |
 | Burger Memory Game | 240919 | [240919-burger-memory-game.json](./240919-burger-memory-game.json) |
 | Burger Night | 158708 | [158708-burger-night.json](./158708-burger-night.json) |
+| Burger Patrol | 189928 | [189928-burger-patrol.json](./189928-burger-patrol.json) |
 | Burger Race | 327840 | [327840-burger-race.json](./327840-burger-race.json) |
 | Burger Restaurant Simulator | 261339 | [261339-burger-restaurant-simulator.json](./261339-burger-restaurant-simulator.json) |
 | Burger Rush | 71525 | [71525-burger-rush.json](./71525-burger-rush.json) |
