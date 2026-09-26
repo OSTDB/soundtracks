@@ -3878,6 +3878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Football Quiz | 219171 | [219171-the-football-quiz.json](./219171-the-football-quiz.json) |
 | The Forage | 102802 | [102802-the-forage.json](./102802-the-forage.json) |
 | The Forbidden Tomes of Olipos | 411648 | [411648-the-forbidden-tomes-of-olipos.json](./411648-the-forbidden-tomes-of-olipos.json) |
+| The Forest Adventurer | 221704 | [221704-the-forest-adventurer.json](./221704-the-forest-adventurer.json) |
 | The Forest Below | 100588 | [100588-the-forest-below.json](./100588-the-forest-below.json) |
 | The Forest Below | 133827 | [133827-the-forest-below.json](./133827-the-forest-below.json) |
 | The Forest Cries | 185101 | [185101-the-forest-cries.json](./185101-the-forest-cries.json) |
@@ -4565,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Burger | 200724 | [200724-the-jumping-burger.json](./200724-the-jumping-burger.json) |
 | The Jumping Burger Climb | 332565 | [332565-the-jumping-burger-climb.json](./332565-the-jumping-burger-climb.json) |
 | The Jumping Burger Rush | 317418 | [317418-the-jumping-burger-rush.json](./317418-the-jumping-burger-rush.json) |
+| The Jumping Burger: Halloween Edition | 221689 | [221689-the-jumping-burger-halloween-edition.json](./221689-the-jumping-burger-halloween-edition.json) |
 | The Jumping Burger: Turbo | 209146 | [209146-the-jumping-burger-turbo.json](./209146-the-jumping-burger-turbo.json) |
 | The Jumping Burrito | 208381 | [208381-the-jumping-burrito.json](./208381-the-jumping-burrito.json) |
 | The Jumping Burrito: Turbo | 208382 | [208382-the-jumping-burrito-turbo.json](./208382-the-jumping-burrito-turbo.json) |
@@ -7723,6 +7725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wylde | 23875 | [23875-the-wylde.json](./23875-the-wylde.json) |
 | The X Factor Sing | 84261 | [84261-the-x-factor-sing.json](./84261-the-x-factor-sing.json) |
 | The X-Com Files | 276795 | [276795-the-x-com-files.json](./276795-the-x-com-files.json) |
+| The Xeno Project | 221659 | [221659-the-xeno-project.json](./221659-the-xeno-project.json) |
 | The Yakutsu Noroi Game | 124641 | [124641-the-yakutsu-noroi-game.json](./124641-the-yakutsu-noroi-game.json) |
 | The Yakyuu Ken Special: Konya wa 8-kaisen | 74777 | [74777-the-yakyuu-ken-special-konya-wa-8-kaisen.json](./74777-the-yakyuu-ken-special-konya-wa-8-kaisen.json) |
 | The Yakyuuken Special: Konya ha 12-kaisen | 74778 | [74778-the-yakyuuken-special-konya-ha-12-kaisen.json](./74778-the-yakyuuken-special-konya-ha-12-kaisen.json) |
@@ -10587,6 +10590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Soujinengi: The Genius of Sappheiros | 65194 | [65194-touhou-soujinengi-the-genius-of-sappheiros.json](./65194-touhou-soujinengi-the-genius-of-sappheiros.json) |
 | Touhou Spell Bubble | 131922 | [131922-touhou-spell-bubble.json](./131922-touhou-spell-bubble.json) |
 | Touhou Spell Bubble: Akatsuki Records Song Pack | 209154 | [209154-touhou-spell-bubble-akatsuki-records-song-pack.json](./209154-touhou-spell-bubble-akatsuki-records-song-pack.json) |
+| Touhou Spell Bubble: Character Pack - Toyosatomimi no Miko | 221693 | [221693-touhou-spell-bubble-character-pack-toyosatomimi-no-miko.json](./221693-touhou-spell-bubble-character-pack-toyosatomimi-no-miko.json) |
 | Touhou Spell Bubble: Character Pack Hata no Kokoro | 209525 | [209525-touhou-spell-bubble-character-pack-hata-no-kokoro.json](./209525-touhou-spell-bubble-character-pack-hata-no-kokoro.json) |
 | Touhou Spell Bubble: Character Pack Hong Meiling | 246646 | [246646-touhou-spell-bubble-character-pack-hong-meiling.json](./246646-touhou-spell-bubble-character-pack-hong-meiling.json) |
 | Touhou Spell Bubble: Character Pack Kogasa Tatara | 209492 | [209492-touhou-spell-bubble-character-pack-kogasa-tatara.json](./209492-touhou-spell-bubble-character-pack-kogasa-tatara.json) |
