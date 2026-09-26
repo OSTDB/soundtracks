@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kana: Imouto | 56771 | [56771-kana-imouto.json](./56771-kana-imouto.json) |
 | Kanamono | 168215 | [168215-kanamono.json](./168215-kanamono.json) |
 | Kanashimi Arabesque | 294807 | [294807-kanashimi-arabesque.json](./294807-kanashimi-arabesque.json) |
+| Kanazawa Shogi: Level 300 | 219008 | [219008-kanazawa-shogi-level-300.json](./219008-kanazawa-shogi-level-300.json) |
 | Kanban-mura | 310719 | [310719-kanban-mura.json](./310719-kanban-mura.json) |
 | Kanbutsu Himouto! Umaru-chan Daratto Puzzle | 222392 | [222392-kanbutsu-himouto-umaru-chan-daratto-puzzle.json](./222392-kanbutsu-himouto-umaru-chan-daratto-puzzle.json) |
 | Kanchayudha | 57106 | [57106-kanchayudha.json](./57106-kanchayudha.json) |
