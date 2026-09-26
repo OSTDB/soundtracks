@@ -1781,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats' World | 406210 | [406210-cats-world.json](./406210-cats-world.json) |
 | Catsbridge Stories: Detective in Time | 116360 | [116360-catsbridge-stories-detective-in-time.json](./116360-catsbridge-stories-detective-in-time.json) |
 | Cattails: Wildwood Story | 189143 | [189143-cattails-wildwood-story.json](./189143-cattails-wildwood-story.json) |
+| Cattenburg | 187234 | [187234-cattenburg.json](./187234-cattenburg.json) |
 | Cattle Call: Hollywood Talent Manager | 110525 | [110525-cattle-call-hollywood-talent-manager.json](./110525-cattle-call-hollywood-talent-manager.json) |
 | Cattle Country | 306909 | [306909-cattle-country.json](./306909-cattle-country.json) |
 | Cattle Hyperdrive | 247745 | [247745-cattle-hyperdrive.json](./247745-cattle-hyperdrive.json) |
@@ -2866,6 +2867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chilled Chicken | 262421 | [262421-chilled-chicken.json](./262421-chilled-chicken.json) |
 | Chiller | 11727 | [11727-chiller.json](./11727-chiller.json) |
 | Chiller | 229644 | [229644-chiller.json](./229644-chiller.json) |
+| Chilli Con Valley | 187200 | [187200-chilli-con-valley.json](./187200-chilli-con-valley.json) |
 | Chillin' | 308265 | [308265-chillin.json](./308265-chillin.json) |
 | Chilling Urban Legends | 409670 | [409670-chilling-urban-legends.json](./409670-chilling-urban-legends.json) |
 | Chilljong | 223505 | [223505-chilljong.json](./223505-chilljong.json) |
@@ -3180,6 +3182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Massacre | 186281 | [186281-christmas-massacre.json](./186281-christmas-massacre.json) |
 | Christmas Massacre VR | 29952 | [29952-christmas-massacre-vr.json](./29952-christmas-massacre-vr.json) |
 | Christmas Matchup | 92963 | [92963-christmas-matchup.json](./92963-christmas-matchup.json) |
+| Christmas Morning | 187222 | [187222-christmas-morning.json](./187222-christmas-morning.json) |
 | Christmas Mutilator | 326235 | [326235-christmas-mutilator.json](./326235-christmas-mutilator.json) |
 | Christmas Night | 236804 | [236804-christmas-night.json](./236804-christmas-night.json) |
 | Christmas Night Archery | 77667 | [77667-christmas-night-archery.json](./77667-christmas-night-archery.json) |
@@ -4585,6 +4588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collector's Edition: 101 Incredible Games! | 205799 | [205799-collectors-edition-101-incredible-games.json](./205799-collectors-edition-101-incredible-games.json) |
 | Collector's Edition: 251 Awesome Games! | 110319 | [110319-collectors-edition-251-awesome-games.json](./110319-collectors-edition-251-awesome-games.json) |
 | College Bball Coach | 78544 | [78544-college-bball-coach.json](./78544-college-bball-coach.json) |
+| College Bound | 187242 | [187242-college-bound.json](./187242-college-bound.json) |
 | College Bound: Arctic Adventure | 237482 | [237482-college-bound-arctic-adventure.json](./237482-college-bound-arctic-adventure.json) |
 | College Bound: Episode 4 | 207504 | [207504-college-bound-episode-4.json](./207504-college-bound-episode-4.json) |
 | College Bowl | 249183 | [249183-college-bowl.json](./249183-college-bowl.json) |
@@ -7815,6 +7819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of the Sea Rats | 121712 | [121712-curse-of-the-sea-rats.json](./121712-curse-of-the-sea-rats.json) |
 | Curse of the Shadow | 390519 | [390519-curse-of-the-shadow.json](./390519-curse-of-the-shadow.json) |
 | Curse of the Shadow Samurai | 254761 | [254761-curse-of-the-shadow-samurai.json](./254761-curse-of-the-shadow-samurai.json) |
+| Curse of the Spookz: Hidden Island | 187228 | [187228-curse-of-the-spookz-hidden-island.json](./187228-curse-of-the-spookz-hidden-island.json) |
 | Curse of Woney | 365066 | [365066-curse-of-woney.json](./365066-curse-of-woney.json) |
 | Curse of Yggdrasil | 380102 | [380102-curse-of-yggdrasil.json](./380102-curse-of-yggdrasil.json) |
 | Curse Removal Service | 218150 | [218150-curse-removal-service.json](./218150-curse-removal-service.json) |
