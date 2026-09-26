@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Valoris: Swallow's Defenders | 330265 | [330265-tales-of-valoris-swallows-defenders.json](./330265-tales-of-valoris-swallows-defenders.json) |
 | Tales of Vengeance | 362926 | [362926-tales-of-vengeance.json](./362926-tales-of-vengeance.json) |
 | Tales of Violet Valley | 379437 | [379437-tales-of-violet-valley.json](./379437-tales-of-violet-valley.json) |
+| Tales of Weapons | 175723 | [175723-tales-of-weapons.json](./175723-tales-of-weapons.json) |
 | Tales Of Wedding Rings VR | 110075 | [110075-tales-of-wedding-rings-vr.json](./110075-tales-of-wedding-rings-vr.json) |
 | Tales of Wild | 152376 | [152376-tales-of-wild.json](./152376-tales-of-wild.json) |
 | Tales of Wind Online | 379438 | [379438-tales-of-wind-online.json](./379438-tales-of-wind-online.json) |
@@ -3632,6 +3633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eggsperts | 373560 | [373560-the-eggsperts.json](./373560-the-eggsperts.json) |
 | The Eidolon | 12950 | [12950-the-eidolon.json](./12950-the-eidolon.json) |
 | The Eigengrau Menagerie | 90480 | [90480-the-eigengrau-menagerie.json](./90480-the-eigengrau-menagerie.json) |
+| The Elder Fight | 175722 | [175722-the-elder-fight.json](./175722-the-elder-fight.json) |
 | The Elder Reality | 271486 | [271486-the-elder-reality.json](./271486-the-elder-reality.json) |
 | The Elder Scrolls Adventures: Redguard | 55 | [55-the-elder-scrolls-adventures-redguard.json](./55-the-elder-scrolls-adventures-redguard.json) |
 | The Elder Scrolls III: Tribunal | 57 | [57-the-elder-scrolls-iii-tribunal.json](./57-the-elder-scrolls-iii-tribunal.json) |
@@ -3895,6 +3897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fierce Livid | 271764 | [271764-the-fierce-livid.json](./271764-the-fierce-livid.json) |
 | The Fiery Crater | 268474 | [268474-the-fiery-crater.json](./268474-the-fiery-crater.json) |
 | The Fiery Descent | 268475 | [268475-the-fiery-descent.json](./268475-the-fiery-descent.json) |
+| The Fifth Ark | 175701 | [175701-the-fifth-ark.json](./175701-the-fifth-ark.json) |
 | The Fifth Bell | 370770 | [370770-the-fifth-bell.json](./370770-the-fifth-bell.json) |
 | The Fifth Paradox | 232710 | [232710-the-fifth-paradox.json](./232710-the-fifth-paradox.json) |
 | The Fifth Rite | 250951 | [250951-the-fifth-rite.json](./250951-the-fifth-rite.json) |
@@ -4920,6 +4923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Cove | 152155 | [152155-the-last-cove.json](./152155-the-last-cove.json) |
 | The Last Cowboy | 119784 | [119784-the-last-cowboy.json](./119784-the-last-cowboy.json) |
 | The Last Craftsman | 229937 | [229937-the-last-craftsman.json](./229937-the-last-craftsman.json) |
+| The Last Crown | 175712 | [175712-the-last-crown.json](./175712-the-last-crown.json) |
 | The Last Crown: Midnight Horror | 17206 | [17206-the-last-crown-midnight-horror.json](./17206-the-last-crown-midnight-horror.json) |
 | The Last Crystal | 124138 | [124138-the-last-crystal.json](./124138-the-last-crystal.json) |
 | The Last Days of Friendship Valley | 289999 | [289999-the-last-days-of-friendship-valley.json](./289999-the-last-days-of-friendship-valley.json) |
@@ -9764,6 +9768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tisuland | 382747 | [382747-tisuland.json](./382747-tisuland.json) |
 | Tit Tap Tingle | 135801 | [135801-tit-tap-tingle.json](./135801-tit-tap-tingle.json) |
 | Titan A.E. | 198944 | [198944-titan-a-e.json](./198944-titan-a-e.json) |
+| Titan Attack: Wall Defense FPS | 175716 | [175716-titan-attack-wall-defense-fps.json](./175716-titan-attack-wall-defense-fps.json) |
 | Titan Attacks! | 11460 | [11460-titan-attacks.json](./11460-titan-attacks.json) |
 | Titan Empires | 323314 | [323314-titan-empires.json](./323314-titan-empires.json) |
 | Titan Force | 289944 | [289944-titan-force.json](./289944-titan-force.json) |
@@ -10026,6 +10031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet 8 | 378306 | [378306-toilet-8.json](./378306-toilet-8.json) |
 | Toilet Farm | 185005 | [185005-toilet-farm.json](./185005-toilet-farm.json) |
 | Toilet Fight: Open World | 273945 | [273945-toilet-fight-open-world.json](./273945-toilet-fight-open-world.json) |
+| Toilet Flushing Simulator | 175710 | [175710-toilet-flushing-simulator.json](./175710-toilet-flushing-simulator.json) |
 | Toilet in Wonderland | 25015 | [25015-toilet-in-wonderland.json](./25015-toilet-in-wonderland.json) |
 | Toilet Management Simulator | 138586 | [138586-toilet-management-simulator.json](./138586-toilet-management-simulator.json) |
 | Toilet Paper Simulator | 248890 | [248890-toilet-paper-simulator.json](./248890-toilet-paper-simulator.json) |
@@ -12762,6 +12768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Air hockey | 129349 | [129349-tropical-air-hockey.json](./129349-tropical-air-hockey.json) |
 | Tropical Alien Massacre | 308329 | [308329-tropical-alien-massacre.json](./308329-tropical-alien-massacre.json) |
 | Tropical Escape | 81198 | [81198-tropical-escape.json](./81198-tropical-escape.json) |
+| Tropical Farm HD | 175740 | [175740-tropical-farm-hd.json](./175740-tropical-farm-hd.json) |
 | Tropical Hearts | 226444 | [226444-tropical-hearts.json](./226444-tropical-hearts.json) |
 | Tropical Princess - Makeup and Dressup Salon Game | 86855 | [86855-tropical-princess-makeup-and-dressup-salon-game.json](./86855-tropical-princess-makeup-and-dressup-salon-game.json) |
 | Tropical Resort Story | 208026 | [208026-tropical-resort-story.json](./208026-tropical-resort-story.json) |
