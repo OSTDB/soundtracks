@@ -611,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Killing | 257889 | [257889-keep-killing.json](./257889-keep-killing.json) |
 | Keep looking | 158185 | [158185-keep-looking.json](./158185-keep-looking.json) |
 | Keep Me Breathing | 176988 | [176988-keep-me-breathing.json](./176988-keep-me-breathing.json) |
+| Keep Me Burning | 181715 | [181715-keep-me-burning.json](./181715-keep-me-burning.json) |
 | Keep Me Posted | 223169 | [223169-keep-me-posted.json](./223169-keep-me-posted.json) |
 | Keep Moving Forward | 182228 | [182228-keep-moving-forward.json](./182228-keep-moving-forward.json) |
 | Keep of the Witch | 221186 | [221186-keep-of-the-witch.json](./221186-keep-of-the-witch.json) |
@@ -2018,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi-Koi Japan: Ukiyoe Deluxe Edition | 53261 | [53261-koi-koi-japan-ukiyoe-deluxe-edition.json](./53261-koi-koi-japan-ukiyoe-deluxe-edition.json) |
 | Koibito no Nazo: Lover's Enigma | 310521 | [310521-koibito-no-nazo-lovers-enigma.json](./310521-koibito-no-nazo-lovers-enigma.json) |
 | Koibumi | 279130 | [279130-koibumi.json](./279130-koibumi.json) |
+| Koibumi Romantica | 181671 | [181671-koibumi-romantica.json](./181671-koibumi-romantica.json) |
 | KoiGig: Devil x Angel | 202373 | [202373-koigig-devil-x-angel.json](./202373-koigig-devil-x-angel.json) |
 | Koihana Bakumeiroku | 229034 | [229034-koihana-bakumeiroku.json](./229034-koihana-bakumeiroku.json) |
 | Koihime Enbu RyoRaiRai: Jokou and Kakuka | 159307 | [159307-koihime-enbu-ryorairai-jokou-and-kakuka.json](./159307-koihime-enbu-ryorairai-jokou-and-kakuka.json) |
