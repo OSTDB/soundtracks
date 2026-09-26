@@ -1934,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niji-iro Canvas | 109003 | [109003-niji-iro-canvas.json](./109003-niji-iro-canvas.json) |
 | Nijiiro Twinkle: Guru-guru Daisakusen | 378171 | [378171-nijiiro-twinkle-guru-guru-daisakusen.json](./378171-nijiiro-twinkle-guru-guru-daisakusen.json) |
 | Nijuuei | 204499 | [204499-nijuuei.json](./204499-nijuuei.json) |
+| Nik and Kit Racing | 213351 | [213351-nik-and-kit-racing.json](./213351-nik-and-kit-racing.json) |
 | Nik and Kit: Kit's Adventure | 214013 | [214013-nik-and-kit-kits-adventure.json](./214013-nik-and-kit-kits-adventure.json) |
 | Nik and Kit: Nik's Adventure | 212793 | [212793-nik-and-kit-niks-adventure.json](./212793-nik-and-kit-niks-adventure.json) |
 | Nik Jam Violator | 330715 | [330715-nik-jam-violator.json](./330715-nik-jam-violator.json) |
@@ -2318,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Logic | 264650 | [264650-no-logic.json](./264650-no-logic.json) |
 | No Logic Inc. | 349321 | [349321-no-logic-inc.json](./349321-no-logic-inc.json) |
 | No Longer Home: Farewell Edition | 167177 | [167177-no-longer-home-farewell-edition.json](./167177-no-longer-home-farewell-edition.json) |
+| No Longer Home: Friary Road | 213359 | [213359-no-longer-home-friary-road.json](./213359-no-longer-home-friary-road.json) |
 | No Loose Threads | 301918 | [301918-no-loose-threads.json](./301918-no-loose-threads.json) |
 | No Love | 115048 | [115048-no-love.json](./115048-no-love.json) |
 | No Love: 2009 | 399069 | [399069-no-love-2009.json](./399069-no-love-2009.json) |
