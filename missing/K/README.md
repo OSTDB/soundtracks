@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karm: Early Access Archives | 303605 | [303605-karm-early-access-archives.json](./303605-karm-early-access-archives.json) |
 | Karma | 356868 | [356868-karma.json](./356868-karma.json) |
 | Karma - A Visual Novel About A Dystopia. | 124192 | [124192-karma-a-visual-novel-about-a-dystopia.json](./124192-karma-a-visual-novel-about-a-dystopia.json) |
+| Karma Crown | 189944 | [189944-karma-crown.json](./189944-karma-crown.json) |
 | Karma Flow 2: Tears of a Ghost | 164997 | [164997-karma-flow-2-tears-of-a-ghost.json](./164997-karma-flow-2-tears-of-a-ghost.json) |
 | Karma II | 316288 | [316288-karma-ii.json](./316288-karma-ii.json) |
 | Karma Jump | 367481 | [367481-karma-jump.json](./367481-karma-jump.json) |
@@ -542,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Pet Shop Monogatari | 228580 | [228580-kawaii-pet-shop-monogatari.json](./228580-kawaii-pet-shop-monogatari.json) |
 | Kawaii Pet to Kurasou! Wan Nyan & Mini Mini Animal | 222402 | [222402-kawaii-pet-to-kurasou-wan-nyan-and-mini-mini-animal.json](./222402-kawaii-pet-to-kurasou-wan-nyan-and-mini-mini-animal.json) |
 | Kawaii Slime | 314295 | [314295-kawaii-slime.json](./314295-kawaii-slime.json) |
+| Kawaii Slime Arena | 189969 | [189969-kawaii-slime-arena.json](./189969-kawaii-slime-arena.json) |
 | Kawaii Solitaire 3 in 1 | 220872 | [220872-kawaii-solitaire-3-in-1.json](./220872-kawaii-solitaire-3-in-1.json) |
 | Kawaii Survivors | 395039 | [395039-kawaii-survivors.json](./395039-kawaii-survivors.json) |
 | KawaiiDungeon: Rise of a Goddess | 225762 | [225762-kawaiidungeon-rise-of-a-goddess.json](./225762-kawaiidungeon-rise-of-a-goddess.json) |
