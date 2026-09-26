@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babysitting Mania | 47979 | [47979-babysitting-mania.json](./47979-babysitting-mania.json) |
 | Babyz: Your Virtual Bundle of Joy | 70343 | [70343-babyz-your-virtual-bundle-of-joy.json](./70343-babyz-your-virtual-bundle-of-joy.json) |
 | Bacchanalia | 227880 | [227880-bacchanalia.json](./227880-bacchanalia.json) |
+| Bacchikoi!: Expansion Pack | 224494 | [224494-bacchikoi-expansion-pack.json](./224494-bacchikoi-expansion-pack.json) |
 | Bacchus | 121626 | [121626-bacchus.json](./121626-bacchus.json) |
 | Bachelairs | 331357 | [331357-bachelairs.json](./331357-bachelairs.json) |
 | Bachelorette Party | 313834 | [313834-bachelorette-party.json](./313834-bachelorette-party.json) |
