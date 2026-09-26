@@ -1399,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Saber Plus | 343918 | [343918-open-saber-plus.json](./343918-open-saber-plus.json) |
 | Open School World | 297505 | [297505-open-school-world.json](./297505-open-school-world.json) |
 | Open Season | 4055 | [4055-open-season.json](./4055-open-season.json) |
+| Open Solomon's Key | 184409 | [184409-open-solomons-key.json](./184409-open-solomons-key.json) |
 | Open Sorcery | 27444 | [27444-open-sorcery.json](./27444-open-sorcery.json) |
 | Open Source Objects: The Game | 361751 | [361751-open-source-objects-the-game.json](./361751-open-source-objects-the-game.json) |
 | Open Space Collection | 196306 | [196306-open-space-collection.json](./196306-open-space-collection.json) |
@@ -1418,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenFront | 333095 | [333095-openfront.json](./333095-openfront.json) |
 | OpenGoal: Jak II | 275306 | [275306-opengoal-jak-ii.json](./275306-opengoal-jak-ii.json) |
 | OpenGuessr | 314022 | [314022-openguessr.json](./314022-openguessr.json) |
+| OpenHV | 184413 | [184413-openhv.json](./184413-openhv.json) |
 | Opening Night | 68975 | [68975-opening-night.json](./68975-opening-night.json) |
 | Opening Weekend: Bear Season | 208993 | [208993-opening-weekend-bear-season.json](./208993-opening-weekend-bear-season.json) |
 | Opening Weekend: Big Cat Season | 208992 | [208992-opening-weekend-big-cat-season.json](./208992-opening-weekend-big-cat-season.json) |
@@ -1523,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opposite Day | 313243 | [313243-opposite-day.json](./313243-opposite-day.json) |
 | Opposite Day 2 | 329173 | [329173-opposite-day-2.json](./329173-opposite-day-2.json) |
 | Opposites | 202775 | [202775-opposites.json](./202775-opposites.json) |
+| Opposoddo | 184384 | [184384-opposoddo.json](./184384-opposoddo.json) |
 | Opposyte | 258459 | [258459-opposyte.json](./258459-opposyte.json) |
 | Opps! They Love Me Way Too Much! | 292163 | [292163-opps-they-love-me-way-too-much.json](./292163-opps-they-love-me-way-too-much.json) |
 | Oprost | 380109 | [380109-oprost.json](./380109-oprost.json) |
