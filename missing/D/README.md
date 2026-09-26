@@ -1677,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Elevator | 255717 | [255717-death-elevator.json](./255717-death-elevator.json) |
 | Death End Re;Quest | 41061 | [41061-death-end-re-quest.json](./41061-death-end-re-quest.json) |
 | Death End Re;Quest 2 | 120302 | [120302-death-end-re-quest-2.json](./120302-death-end-re-quest-2.json) |
+| Death end re;Quest 2 - Ultimate Weapon Set | 224513 | [224513-death-end-re-quest-2-ultimate-weapon-set.json](./224513-death-end-re-quest-2-ultimate-weapon-set.json) |
 | Death End Re;Quest 2: Complete Deluxe Edition | 186871 | [186871-death-end-re-quest-2-complete-deluxe-edition.json](./186871-death-end-re-quest-2-complete-deluxe-edition.json) |
 | Death End Re;Quest 2: Limited Edition | 166236 | [166236-death-end-re-quest-2-limited-edition.json](./166236-death-end-re-quest-2-limited-edition.json) |
 | Death Escape | 148495 | [148495-death-escape.json](./148495-death-escape.json) |
@@ -2266,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Dash | 213621 | [213621-delta-dash.json](./213621-delta-dash.json) |
 | Delta Directive | 412266 | [412266-delta-directive.json](./412266-delta-directive.json) |
 | Delta Force: Black Hawk Down | 332541 | [332541-delta-force-black-hawk-down.json](./332541-delta-force-black-hawk-down.json) |
+| Delta Force: Black Hawk Down Platinum Pack | 224486 | [224486-delta-force-black-hawk-down-platinum-pack.json](./224486-delta-force-black-hawk-down-platinum-pack.json) |
 | Delta Force: Land Warrior | 9350 | [9350-delta-force-land-warrior.json](./9350-delta-force-land-warrior.json) |
 | Delta Force: Xtreme | 1273 | [1273-delta-force-xtreme.json](./1273-delta-force-xtreme.json) |
 | Delta G | 112924 | [112924-delta-g.json](./112924-delta-g.json) |
@@ -3062,6 +3064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devils Wind Mine | 294156 | [294156-devils-wind-mine.json](./294156-devils-wind-mine.json) |
 | DevilShaft: TheTower | 116843 | [116843-devilshaft-thetower.json](./116843-devilshaft-thetower.json) |
 | Devinica | 253979 | [253979-devinica.json](./253979-devinica.json) |
+| Devious Lick | 224502 | [224502-devious-lick.json](./224502-devious-lick.json) |
 | Devious Path | 317405 | [317405-devious-path.json](./317405-devious-path.json) |
 | Devoid | 377568 | [377568-devoid.json](./377568-devoid.json) |
 | Devoid of Shadows | 27370 | [27370-devoid-of-shadows.json](./27370-devoid-of-shadows.json) |
@@ -3783,6 +3786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disciples II: Gallean's Return | 19351 | [19351-disciples-ii-galleans-return.json](./19351-disciples-ii-galleans-return.json) |
 | Disciples II: Guardians of the Light | 11403 | [11403-disciples-ii-guardians-of-the-light.json](./11403-disciples-ii-guardians-of-the-light.json) |
 | Disciples II: Rise of the Elves | 11404 | [11404-disciples-ii-rise-of-the-elves.json](./11404-disciples-ii-rise-of-the-elves.json) |
+| Disciples II: Rise of the Elves Gold | 224495 | [224495-disciples-ii-rise-of-the-elves-gold.json](./224495-disciples-ii-rise-of-the-elves-gold.json) |
 | Disciples III: Renaissance | 9824 | [9824-disciples-iii-renaissance.json](./9824-disciples-iii-renaissance.json) |
 | Disciples of Steel | 71793 | [71793-disciples-of-steel.json](./71793-disciples-of-steel.json) |
 | Disciples of Varahces | 263029 | [263029-disciples-of-varahces.json](./263029-disciples-of-varahces.json) |
@@ -5529,6 +5533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Age: Inquisition - Spoils of the Qunari | 367438 | [367438-dragon-age-inquisition-spoils-of-the-qunari.json](./367438-dragon-age-inquisition-spoils-of-the-qunari.json) |
 | Dragon Age: Inquisition - The Black Emporium | 367431 | [367431-dragon-age-inquisition-the-black-emporium.json](./367431-dragon-age-inquisition-the-black-emporium.json) |
 | Dragon Age: Inquisition - The Descent | 20188 | [20188-dragon-age-inquisition-the-descent.json](./20188-dragon-age-inquisition-the-descent.json) |
+| Dragon Age: Origins - A Tale of Orzammar | 224491 | [224491-dragon-age-origins-a-tale-of-orzammar.json](./224491-dragon-age-origins-a-tale-of-orzammar.json) |
 | Dragon Age: Origins - Feastday Gifts | 367441 | [367441-dragon-age-origins-feastday-gifts.json](./367441-dragon-age-origins-feastday-gifts.json) |
 | Dragon Age: Origins - Feastday Gifts and Pranks | 368144 | [368144-dragon-age-origins-feastday-gifts-and-pranks.json](./368144-dragon-age-origins-feastday-gifts-and-pranks.json) |
 | Dragon Age: Origins - Feastday Pranks | 367442 | [367442-dragon-age-origins-feastday-pranks.json](./367442-dragon-age-origins-feastday-pranks.json) |
@@ -6370,6 +6375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Thru | 365860 | [365860-drive-thru.json](./365860-drive-thru.json) |
 | Drive to The Top | 411690 | [411690-drive-to-the-top.json](./411690-drive-to-the-top.json) |
 | Drive Together | 384799 | [384799-drive-together.json](./384799-drive-together.json) |
+| Drive West Coast | 224496 | [224496-drive-west-coast.json](./224496-drive-west-coast.json) |
 | Drive Your Car | 199629 | [199629-drive-your-car.json](./199629-drive-your-car.json) |
 | Drive Zone Online | 269096 | [269096-drive-zone-online.json](./269096-drive-zone-online.json) |
 | Drive-In | 25134 | [25134-drive-in.json](./25134-drive-in.json) |
