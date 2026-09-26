@@ -438,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You have a drunk friend | 111355 | [111355-you-have-a-drunk-friend.json](./111355-you-have-a-drunk-friend.json) |
 | You Have My Support | 321563 | [321563-you-have-my-support.json](./321563-you-have-my-support.json) |
 | You Have One Shot | 390120 | [390120-you-have-one-shot.json](./390120-you-have-one-shot.json) |
+| You Have to Burn the Rope | 218417 | [218417-you-have-to-burn-the-rope.json](./218417-you-have-to-burn-the-rope.json) |
 | You Have To Climb Out | 308350 | [308350-you-have-to-climb-out.json](./308350-you-have-to-climb-out.json) |
 | You Have to Go to Work | 176421 | [176421-you-have-to-go-to-work.json](./176421-you-have-to-go-to-work.json) |
 | You Know The Drill | 322212 | [322212-you-know-the-drill.json](./322212-you-know-the-drill.json) |
