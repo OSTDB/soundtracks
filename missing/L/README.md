@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lab Inspect | 226141 | [226141-lab-inspect.json](./226141-lab-inspect.json) |
 | Lab Rat | 94244 | [94244-lab-rat.json](./94244-lab-rat.json) |
 | Lab Rat Escape | 323541 | [323541-lab-rat-escape.json](./323541-lab-rat-escape.json) |
+| Lab Remnants | 188367 | [188367-lab-remnants.json](./188367-lab-remnants.json) |
 | Lab Runner: X | 126437 | [126437-lab-runner-x.json](./126437-lab-runner-x.json) |
 | Lab47 | 407425 | [407425-lab47.json](./407425-lab47.json) |
 | Laballatory | 409584 | [409584-laballatory.json](./409584-laballatory.json) |
