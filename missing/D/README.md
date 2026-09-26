@@ -823,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Maze Cube | 130213 | [130213-darkness-maze-cube.json](./130213-darkness-maze-cube.json) |
 | Darkness Maze Cube | 221255 | [221255-darkness-maze-cube.json](./221255-darkness-maze-cube.json) |
 | Darkness of the Coast | 195220 | [195220-darkness-of-the-coast.json](./195220-darkness-of-the-coast.json) |
+| Darkness Reborn | 223427 | [223427-darkness-reborn.json](./223427-darkness-reborn.json) |
 | Darkness Reborn | 28820 | [28820-darkness-reborn.json](./28820-darkness-reborn.json) |
 | Darkness Rises | 103411 | [103411-darkness-rises.json](./103411-darkness-rises.json) |
 | Darkness Trap: Purify Old Sins | 134440 | [134440-darkness-trap-purify-old-sins.json](./134440-darkness-trap-purify-old-sins.json) |
@@ -5079,6 +5080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doorka | 346154 | [346154-doorka.json](./346154-doorka.json) |
 | Doors | 168388 | [168388-doors.json](./168388-doors.json) |
 | Doors | 16987 | [16987-doors.json](./16987-doors.json) |
+| Doors | 223422 | [223422-doors.json](./223422-doors.json) |
 | Doors & Rooms | 112745 | [112745-doors-and-rooms.json](./112745-doors-and-rooms.json) |
 | Doors and Doors | 244498 | [244498-doors-and-doors.json](./244498-doors-and-doors.json) |
 | Doors Closed | 415070 | [415070-doors-closed.json](./415070-doors-closed.json) |
