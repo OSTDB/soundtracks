@@ -424,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16 Brands Taiwan Mahjong 2 | 371335 | [371335-16-brands-taiwan-mahjong-2.json](./371335-16-brands-taiwan-mahjong-2.json) |
 | 16 Brands Taiwan Mahjong 3 | 371343 | [371343-16-brands-taiwan-mahjong-3.json](./371343-16-brands-taiwan-mahjong-3.json) |
 | 16 Cyber-personalities: Survivors | 348850 | [348850-16-cyber-personalities-survivors.json](./348850-16-cyber-personalities-survivors.json) |
+| 16 Greens | 181704 | [181704-16-greens.json](./181704-16-greens.json) |
 | 16 Personalities Simulator | 397789 | [397789-16-personalities-simulator.json](./397789-16-personalities-simulator.json) |
 | 16 Shot! Shooting Watch | 85823 | [85823-16-shot-shooting-watch.json](./85823-16-shot-shooting-watch.json) |
 | 16: The Ultimate 15 Puzzle | 357974 | [357974-16-the-ultimate-15-puzzle.json](./357974-16-the-ultimate-15-puzzle.json) |
