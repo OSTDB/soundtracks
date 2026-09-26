@@ -4110,6 +4110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghoul's Forest | 144804 | [144804-the-ghouls-forest.json](./144804-the-ghouls-forest.json) |
 | The Giant of Torridge Island | 192984 | [192984-the-giant-of-torridge-island.json](./192984-the-giant-of-torridge-island.json) |
 | The GIF Game | 297813 | [297813-the-gif-game.json](./297813-the-gif-game.json) |
+| The Gift | 192151 | [192151-the-gift.json](./192151-the-gift.json) |
 | The Gigglebone Gang: The AlphaBonk Farm | 206110 | [206110-the-gigglebone-gang-the-alphabonk-farm.json](./206110-the-gigglebone-gang-the-alphabonk-farm.json) |
 | The Girl and the Robot | 22777 | [22777-the-girl-and-the-robot.json](./22777-the-girl-and-the-robot.json) |
 | The Girl From the Snuff Video | 247742 | [247742-the-girl-from-the-snuff-video.json](./247742-the-girl-from-the-snuff-video.json) |
@@ -9931,6 +9932,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Cop | 148506 | [148506-tokyo-cop.json](./148506-tokyo-cop.json) |
 | Tokyo Crash Mobs | 20171 | [20171-tokyo-crash-mobs.json](./20171-tokyo-crash-mobs.json) |
 | Tokyo Day | 399166 | [399166-tokyo-day.json](./399166-tokyo-day.json) |
+| Tokyo Detectives: Case 01 | 192167 | [192167-tokyo-detectives-case-01.json](./192167-tokyo-detectives-case-01.json) |
+| Tokyo Detectives: Case 02 | 192168 | [192168-tokyo-detectives-case-02.json](./192168-tokyo-detectives-case-02.json) |
 | Tokyo Dungeon | 108824 | [108824-tokyo-dungeon.json](./108824-tokyo-dungeon.json) |
 | Tokyo Friend Park II Ketteiban: Minna de Chousen! Taikan Attraction | 139255 | [139255-tokyo-friend-park-ii-ketteiban-minna-de-chousen-taikan-attraction.json](./139255-tokyo-friend-park-ii-ketteiban-minna-de-chousen-taikan-attraction.json) |
 | Tokyo Fury | 339437 | [339437-tokyo-fury.json](./339437-tokyo-fury.json) |
@@ -10765,6 +10768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Mini Map | 292828 | [292828-touhou-mini-map.json](./292828-touhou-mini-map.json) |
 | Touhou Mix | 193870 | [193870-touhou-mix.json](./193870-touhou-mix.json) |
 | Touhou Monster TD: Dr.Cirno | 210248 | [210248-touhou-monster-td-dr-cirno.json](./210248-touhou-monster-td-dr-cirno.json) |
+| Touhou Monster TD: Nagae Iku | 192155 | [192155-touhou-monster-td-nagae-iku.json](./192155-touhou-monster-td-nagae-iku.json) |
 | Touhou Mother | 184129 | [184129-touhou-mother.json](./184129-touhou-mother.json) |
 | Touhou Mukyuushi: Glory of Deep Skies | 246677 | [246677-touhou-mukyuushi-glory-of-deep-skies.json](./246677-touhou-mukyuushi-glory-of-deep-skies.json) |
 | Touhou Mutsuigeki: Concealed the Conclusion | 51266 | [51266-touhou-mutsuigeki-concealed-the-conclusion.json](./51266-touhou-mutsuigeki-concealed-the-conclusion.json) |
@@ -11041,6 +11045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towing Simulator | 9451 | [9451-towing-simulator.json](./9451-towing-simulator.json) |
 | Town Doubt | 55470 | [55470-town-doubt.json](./55470-town-doubt.json) |
 | Town Hall Toaster | 71463 | [71463-town-hall-toaster.json](./71463-town-hall-toaster.json) |
+| Town of Destruction | 192184 | [192184-town-of-destruction.json](./192184-town-of-destruction.json) |
 | Town of Dusk | 251810 | [251810-town-of-dusk.json](./251810-town-of-dusk.json) |
 | Town of Host | 224196 | [224196-town-of-host.json](./224196-town-of-host.json) |
 | Town of Machine | 145049 | [145049-town-of-machine.json](./145049-town-of-machine.json) |
@@ -12019,6 +12024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped: The Abduction | 66096 | [66096-trapped-the-abduction.json](./66096-trapped-the-abduction.json) |
 | Trapped: Wayne's Chamber | 311597 | [311597-trapped-waynes-chamber.json](./311597-trapped-waynes-chamber.json) |
 | Trapper Simulator | 122369 | [122369-trapper-simulator.json](./122369-trapper-simulator.json) |
+| Trapper: Drug Dealing RPG | 192182 | [192182-trapper-drug-dealing-rpg.json](./192182-trapper-drug-dealing-rpg.json) |
 | Trapper's Delight | 32701 | [32701-trappers-delight.json](./32701-trappers-delight.json) |
 | Trappuzzler | 158173 | [158173-trappuzzler.json](./158173-trappuzzler.json) |
 | Trappy Climb | 181870 | [181870-trappy-climb.json](./181870-trappy-climb.json) |
