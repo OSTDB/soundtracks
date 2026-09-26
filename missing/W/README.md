@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Armageddon - Ork Hunters | 53888 | [53888-warhammer-40-000-armageddon-ork-hunters.json](./53888-warhammer-40-000-armageddon-ork-hunters.json) |
 | Warhammer 40,000: Battlesector - Necrons | 251007 | [251007-warhammer-40-000-battlesector-necrons.json](./251007-warhammer-40-000-battlesector-necrons.json) |
 | Warhammer 40,000: Battlesector - Orks | 250908 | [250908-warhammer-40-000-battlesector-orks.json](./250908-warhammer-40-000-battlesector-orks.json) |
+| Warhammer 40,000: Battlesector - Sisters of Battle | 203271 | [203271-warhammer-40-000-battlesector-sisters-of-battle.json](./203271-warhammer-40-000-battlesector-sisters-of-battle.json) |
 | Warhammer 40,000: Battlesector - T'au | 289900 | [289900-warhammer-40-000-battlesector-tau.json](./289900-warhammer-40-000-battlesector-tau.json) |
 | Warhammer 40,000: Battlesector - Ultramarines | 402508 | [402508-warhammer-40-000-battlesector-ultramarines.json](./402508-warhammer-40-000-battlesector-ultramarines.json) |
 | Warhammer 40,000: Boltgun - Forges of Corruption Edition | 306489 | [306489-warhammer-40-000-boltgun-forges-of-corruption-edition.json](./306489-warhammer-40-000-boltgun-forges-of-corruption-edition.json) |
@@ -574,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Chaos Gate - Deathwatch | 402517 | [402517-warhammer-40-000-chaos-gate-deathwatch.json](./402517-warhammer-40-000-chaos-gate-deathwatch.json) |
 | Warhammer 40,000: Dakka Squadron | 143650 | [143650-warhammer-40-000-dakka-squadron.json](./143650-warhammer-40-000-dakka-squadron.json) |
 | Warhammer 40,000: Dark Crusaders | 200657 | [200657-warhammer-40-000-dark-crusaders.json](./200657-warhammer-40-000-dark-crusaders.json) |
+| Warhammer 40,000: Darktide - Imperial Edition | 203255 | [203255-warhammer-40-000-darktide-imperial-edition.json](./203255-warhammer-40-000-darktide-imperial-edition.json) |
 | Warhammer 40,000: Darktide - Skitarii | 402515 | [402515-warhammer-40-000-darktide-skitarii.json](./402515-warhammer-40-000-darktide-skitarii.json) |
 | Warhammer 40,000: Darktide - The Traitor Curse Part 1 | 276771 | [276771-warhammer-40-000-darktide-the-traitor-curse-part-1.json](./276771-warhammer-40-000-darktide-the-traitor-curse-part-1.json) |
 | Warhammer 40,000: Dawn of War | 257 | [257-warhammer-40-000-dawn-of-war.json](./257-warhammer-40-000-dawn-of-war.json) |
@@ -594,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Gladius - Relics of War: Adeptus Mechanicus | 186891 | [186891-warhammer-40-000-gladius-relics-of-war-adeptus-mechanicus.json](./186891-warhammer-40-000-gladius-relics-of-war-adeptus-mechanicus.json) |
 | Warhammer 40,000: Gladius - Relics of War: Firepower Pack | 250912 | [250912-warhammer-40-000-gladius-relics-of-war-firepower-pack.json](./250912-warhammer-40-000-gladius-relics-of-war-firepower-pack.json) |
 | Warhammer 40,000: Inquisitor - Martyr | 11364 | [11364-warhammer-40-000-inquisitor-martyr.json](./11364-warhammer-40-000-inquisitor-martyr.json) |
+| Warhammer 40,000: Inquisitor - Martyr | 203272 | [203272-warhammer-40-000-inquisitor-martyr.json](./203272-warhammer-40-000-inquisitor-martyr.json) |
 | Warhammer 40,000: Inquisitor - Martyr Complete Collection | 173158 | [173158-warhammer-40-000-inquisitor-martyr-complete-collection.json](./173158-warhammer-40-000-inquisitor-martyr-complete-collection.json) |
 | Warhammer 40,000: Inquisitor - Prophecy | 118770 | [118770-warhammer-40-000-inquisitor-prophecy.json](./118770-warhammer-40-000-inquisitor-prophecy.json) |
 | Warhammer 40,000: Kill Team | 7045 | [7045-warhammer-40-000-kill-team.json](./7045-warhammer-40-000-kill-team.json) |
@@ -628,6 +631,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Space Wolf - Sigurd Ironside | 163387 | [163387-warhammer-40-000-space-wolf-sigurd-ironside.json](./163387-warhammer-40-000-space-wolf-sigurd-ironside.json) |
 | Warhammer 40,000: Squad Command | 18310 | [18310-warhammer-40-000-squad-command.json](./18310-warhammer-40-000-squad-command.json) |
 | Warhammer 40,000: Storm of Vengeance | 9389 | [9389-warhammer-40-000-storm-of-vengeance.json](./9389-warhammer-40-000-storm-of-vengeance.json) |
+| Warhammer 40,000: Tacticus | 203274 | [203274-warhammer-40-000-tacticus.json](./203274-warhammer-40-000-tacticus.json) |
+| Warhammer 40,000: Warpforge | 203256 | [203256-warhammer-40-000-warpforge.json](./203256-warhammer-40-000-warpforge.json) |
 | Warhammer Age of Sigmar: Champions | 112518 | [112518-warhammer-age-of-sigmar-champions.json](./112518-warhammer-age-of-sigmar-champions.json) |
 | Warhammer Age of Sigmar: Deathmaster | 402516 | [402516-warhammer-age-of-sigmar-deathmaster.json](./402516-warhammer-age-of-sigmar-deathmaster.json) |
 | Warhammer Age of Sigmar: Realms of Ruin - The Gobsprakk, The Mouth of Mork Pack | 279093 | [279093-warhammer-age-of-sigmar-realms-of-ruin-the-gobsprakk-the-mouth-of-mork-pack.json](./279093-warhammer-age-of-sigmar-realms-of-ruin-the-gobsprakk-the-mouth-of-mork-pack.json) |
@@ -3189,6 +3194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Explorer Challenge | 325266 | [325266-world-explorer-challenge.json](./325266-world-explorer-challenge.json) |
 | World Fantasista | 302701 | [302701-world-fantasista.json](./302701-world-fantasista.json) |
 | World Fantasy: DigiWar | 336125 | [336125-world-fantasy-digiwar.json](./336125-world-fantasy-digiwar.json) |
+| World Fighting | 203263 | [203263-world-fighting.json](./203263-world-fighting.json) |
 | World for Two | 147270 | [147270-world-for-two.json](./147270-world-for-two.json) |
 | World Geography | 216177 | [216177-world-geography.json](./216177-world-geography.json) |
 | World Golf | 68674 | [68674-world-golf.json](./68674-world-golf.json) |
