@@ -4589,6 +4589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journey: Bob's Story | 18186 | [18186-the-journey-bobs-story.json](./18186-the-journey-bobs-story.json) |
 | The Journey: Episode 1 - Whatever This Is | 169299 | [169299-the-journey-episode-1-whatever-this-is.json](./169299-the-journey-episode-1-whatever-this-is.json) |
 | The Journeyman Project | 9517 | [9517-the-journeyman-project.json](./9517-the-journeyman-project.json) |
+| The Journeyman Project: Pegasus Prime | 210007 | [210007-the-journeyman-project-pegasus-prime.json](./210007-the-journeyman-project-pegasus-prime.json) |
 | The Journeyman Project: Turbo! | 79931 | [79931-the-journeyman-project-turbo.json](./79931-the-journeyman-project-turbo.json) |
 | The Joy of Creation: Classic | 255691 | [255691-the-joy-of-creation-classic.json](./255691-the-joy-of-creation-classic.json) |
 | The Joy of Creation: Ignited Collection | 216456 | [216456-the-joy-of-creation-ignited-collection.json](./216456-the-joy-of-creation-ignited-collection.json) |
@@ -10592,6 +10593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Gakuen Ki: Shippuu no Shou | 201176 | [201176-touhou-gakuen-ki-shippuu-no-shou.json](./201176-touhou-gakuen-ki-shippuu-no-shou.json) |
 | Touhou Genso Kikou: Lost Alchemy | 100555 | [100555-touhou-genso-kikou-lost-alchemy.json](./100555-touhou-genso-kikou-lost-alchemy.json) |
 | Touhou Genso Maroku W: The Devil of Decline - Shikigami Additional Contents | 212243 | [212243-touhou-genso-maroku-w-the-devil-of-decline-shikigami-additional-contents.json](./212243-touhou-genso-maroku-w-the-devil-of-decline-shikigami-additional-contents.json) |
+| Touhou Genso Wanderer Lotus Labyrinth R: Complete Edition | 209968 | [209968-touhou-genso-wanderer-lotus-labyrinth-r-complete-edition.json](./209968-touhou-genso-wanderer-lotus-labyrinth-r-complete-edition.json) |
 | Touhou Genso Wanderer Reloaded | 86645 | [86645-touhou-genso-wanderer-reloaded.json](./86645-touhou-genso-wanderer-reloaded.json) |
 | Touhou Genso Wanderer Reloaded: Alice Margatroid | 161746 | [161746-touhou-genso-wanderer-reloaded-alice-margatroid.json](./161746-touhou-genso-wanderer-reloaded-alice-margatroid.json) |
 | Touhou Genso Wanderer Reloaded: Cirno | 161749 | [161749-touhou-genso-wanderer-reloaded-cirno.json](./161749-touhou-genso-wanderer-reloaded-cirno.json) |
