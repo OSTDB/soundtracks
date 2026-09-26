@@ -482,6 +482,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Kaleidoscope | 257459 | [257459-magic-kaleidoscope.json](./257459-magic-kaleidoscope.json) |
 | Magic Kid Goo Goo | 48898 | [48898-magic-kid-goo-goo.json](./48898-magic-kid-goo-goo.json) |
 | Magic Kingdom | 213591 | [213591-magic-kingdom.json](./213591-magic-kingdom.json) |
+| Magic Kingdom War DLC-1 | 220609 | [220609-magic-kingdom-war-dlc-1.json](./220609-magic-kingdom-war-dlc-1.json) |
+| Magic Kingdom War DLC-2 | 220610 | [220610-magic-kingdom-war-dlc-2.json](./220610-magic-kingdom-war-dlc-2.json) |
 | Magic Klondike | 232561 | [232561-magic-klondike.json](./232561-magic-klondike.json) |
 | Magic Knight Rayearth | 38375 | [38375-magic-knight-rayearth.json](./38375-magic-knight-rayearth.json) |
 | Magic Knight Rayearth | 78959 | [78959-magic-knight-rayearth.json](./78959-magic-knight-rayearth.json) |
@@ -5467,7 +5469,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miyazato San Kyoudai Naizou: Sega Golf Club | 7454 | [7454-miyazato-san-kyoudai-naizou-sega-golf-club.json](./7454-miyazato-san-kyoudai-naizou-sega-golf-club.json) |
 | Mizari Loves Company | 385056 | [385056-mizari-loves-company.json](./385056-mizari-loves-company.json) |
 | Mizu | 229701 | [229701-mizu.json](./229701-mizu.json) |
+| Mizu no Senritsu | 220576 | [220576-mizu-no-senritsu.json](./220576-mizu-no-senritsu.json) |
 | Mizu no Senritsu 2: Hi no Kioku | 67305 | [67305-mizu-no-senritsu-2-hi-no-kioku.json](./67305-mizu-no-senritsu-2-hi-no-kioku.json) |
+| Mizu no Senritsu: Kyousoukyoku | 220578 | [220578-mizu-no-senritsu-kyousoukyoku.json](./220578-mizu-no-senritsu-kyousoukyoku.json) |
 | Mizuiro no Chizu | 77680 | [77680-mizuiro-no-chizu.json](./77680-mizuiro-no-chizu.json) |
 | Mizuki Shigeru no Yokai Hyakki Yakou | 37924 | [37924-mizuki-shigeru-no-yokai-hyakki-yakou.json](./37924-mizuki-shigeru-no-yokai-hyakki-yakou.json) |
 | Mizuki Shigeru no Yokai Shashinkan | 43963 | [43963-mizuki-shigeru-no-yokai-shashinkan.json](./43963-mizuki-shigeru-no-yokai-shashinkan.json) |
@@ -5560,6 +5564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobil 1 Rally Championship | 793 | [793-mobil-1-rally-championship.json](./793-mobil-1-rally-championship.json) |
 | Mobile Ball | 109476 | [109476-mobile-ball.json](./109476-mobile-ball.json) |
 | Mobile Dinosaur: Action Edition | 108501 | [108501-mobile-dinosaur-action-edition.json](./108501-mobile-dinosaur-action-edition.json) |
+| Mobile Hangman | 220624 | [220624-mobile-hangman.json](./220624-mobile-hangman.json) |
 | Mobile Minigames: Play & Earn | 131355 | [131355-mobile-minigames-play-and-earn.json](./131355-mobile-minigames-play-and-earn.json) |
 | Mobile Murder Mystery | 370691 | [370691-mobile-murder-mystery.json](./370691-mobile-murder-mystery.json) |
 | Mobile Phase 10 | 243277 | [243277-mobile-phase-10.json](./243277-mobile-phase-10.json) |
