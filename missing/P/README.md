@@ -3024,6 +3024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate's Dual | 390236 | [390236-pirates-dual.json](./390236-pirates-dual.json) |
 | Pirate's Solitaire | 195715 | [195715-pirates-solitaire.json](./195715-pirates-solitaire.json) |
 | Pirated Code | 179612 | [179612-pirated-code.json](./179612-pirated-code.json) |
+| Pirated Code: Admin Edition | 212187 | [212187-pirated-code-admin-edition.json](./212187-pirated-code-admin-edition.json) |
 | Pirateer: High Seas | 253575 | [253575-pirateer-high-seas.json](./253575-pirateer-high-seas.json) |
 | Piratepoly Gold: Caribbean Treasure | 218723 | [218723-piratepoly-gold-caribbean-treasure.json](./218723-piratepoly-gold-caribbean-treasure.json) |
 | Pirates | 197378 | [197378-pirates.json](./197378-pirates.json) |
@@ -5431,10 +5432,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prescription: Madness | 389100 | [389100-prescription-madness.json](./389100-prescription-madness.json) |
 | Presence | 124269 | [124269-presence.json](./124269-presence.json) |
 | Presence | 170989 | [170989-presence.json](./170989-presence.json) |
+| Presence | 212226 | [212226-presence.json](./212226-presence.json) |
 | Presence | 253339 | [253339-presence.json](./253339-presence.json) |
 | Present For You | 64374 | [64374-present-for-you.json](./64374-present-for-you.json) |
 | Present Memories: A Vox Akuma Fangame | 198338 | [198338-present-memories-a-vox-akuma-fangame.json](./198338-present-memories-a-vox-akuma-fangame.json) |
 | Present Panic!: A Princess Adventure | 269877 | [269877-present-panic-a-princess-adventure.json](./269877-present-panic-a-princess-adventure.json) |
+| Presentable Liberty Remake | 212233 | [212233-presentable-liberty-remake.json](./212233-presentable-liberty-remake.json) |
 | Presenter Slides | 213947 | [213947-presenter-slides.json](./213947-presenter-slides.json) |
 | Presentfall: Santa Defense | 384521 | [384521-presentfall-santa-defense.json](./384521-presentfall-santa-defense.json) |
 | Presentiment of Death | 241650 | [241650-presentiment-of-death.json](./241650-presentiment-of-death.json) |
@@ -6798,6 +6801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppet Team | 332982 | [332982-puppet-team.json](./332982-puppet-team.json) |
 | Puppet War | 333153 | [333153-puppet-war.json](./333153-puppet-war.json) |
 | Puppet: Hide And Seek | 302934 | [302934-puppet-hide-and-seek.json](./302934-puppet-hide-and-seek.json) |
+| Puppeteer | 212232 | [212232-puppeteer.json](./212232-puppeteer.json) |
 | Puppeteer: Control | 261836 | [261836-puppeteer-control.json](./261836-puppeteer-control.json) |
 | PuppeTNetiK: Speedrun Challenge | 152365 | [152365-puppetnetik-speedrun-challenge.json](./152365-puppetnetik-speedrun-challenge.json) |
 | PuppetShow: Destiny Undone | 63571 | [63571-puppetshow-destiny-undone.json](./63571-puppetshow-destiny-undone.json) |
