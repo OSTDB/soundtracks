@@ -6113,7 +6113,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Rise: Bonus Update | 252384 | [252384-monster-hunter-rise-bonus-update.json](./252384-monster-hunter-rise-bonus-update.json) |
 | Monster Hunter Rise: Collector's Edition | 139971 | [139971-monster-hunter-rise-collectors-edition.json](./139971-monster-hunter-rise-collectors-edition.json) |
 | Monster Hunter Rise: Deluxe Edition | 139943 | [139943-monster-hunter-rise-deluxe-edition.json](./139943-monster-hunter-rise-deluxe-edition.json) |
+| Monster Hunter Rise: DLC Pack 1 | 222856 | [222856-monster-hunter-rise-dlc-pack-1.json](./222856-monster-hunter-rise-dlc-pack-1.json) |
 | Monster Hunter Rise: DLC Pack 10 | 246890 | [246890-monster-hunter-rise-dlc-pack-10.json](./246890-monster-hunter-rise-dlc-pack-10.json) |
+| Monster Hunter Rise: DLC Pack 2 | 222857 | [222857-monster-hunter-rise-dlc-pack-2.json](./222857-monster-hunter-rise-dlc-pack-2.json) |
 | Monster Hunter Rise: DLC Pack 3 | 237918 | [237918-monster-hunter-rise-dlc-pack-3.json](./237918-monster-hunter-rise-dlc-pack-3.json) |
 | Monster Hunter Rise: DLC Pack 5 | 223591 | [223591-monster-hunter-rise-dlc-pack-5.json](./223591-monster-hunter-rise-dlc-pack-5.json) |
 | Monster Hunter Rise: DLC Pack 6 | 223578 | [223578-monster-hunter-rise-dlc-pack-6.json](./223578-monster-hunter-rise-dlc-pack-6.json) |
@@ -7735,6 +7737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Best Friends: Cats & Dogs | 17043 | [17043-my-best-friends-cats-and-dogs.json](./17043-my-best-friends-cats-and-dogs.json) |
 | My Best Life My Pest Life | 393118 | [393118-my-best-life-my-pest-life.json](./393118-my-best-life-my-pest-life.json) |
 | My Best Nightmare | 166673 | [166673-my-best-nightmare.json](./166673-my-best-nightmare.json) |
+| My Big Sister: Remastered | 222871 | [222871-my-big-sister-remastered.json](./222871-my-big-sister-remastered.json) |
 | My Billionaire Girlfriend | 220335 | [220335-my-billionaire-girlfriend.json](./220335-my-billionaire-girlfriend.json) |
 | My Bird | 368664 | [368664-my-bird.json](./368664-my-bird.json) |
 | My Bloodsucking 9-to-5 | 397260 | [397260-my-bloodsucking-9-to-5.json](./397260-my-bloodsucking-9-to-5.json) |
