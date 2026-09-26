@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanted: Yokai Uprising | 309889 | [309889-wanted-yokai-uprising.json](./309889-wanted-yokai-uprising.json) |
 | Wanting Shock | 361675 | [361675-wanting-shock.json](./361675-wanting-shock.json) |
 | Wanting Wings | 278705 | [278705-wanting-wings.json](./278705-wanting-wings.json) |
+| Wantless: Solace at World’s End | 179999 | [179999-wantless-solace-at-world-s-end.json](./179999-wantless-solace-at-world-s-end.json) |
 | Waochi! Math Homerun | 395686 | [395686-waochi-math-homerun.json](./395686-waochi-math-homerun.json) |
 | War | 255331 | [255331-war.json](./255331-war.json) |
 | War | 330313 | [330313-war.json](./330313-war.json) |
@@ -1918,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiteverse: No Country for Old Men | 121690 | [121690-whiteverse-no-country-for-old-men.json](./121690-whiteverse-no-country-for-old-men.json) |
 | WhiteWash | 370774 | [370774-whitewash.json](./370774-whitewash.json) |
 | Whitewater Rapids | 205838 | [205838-whitewater-rapids.json](./205838-whitewater-rapids.json) |
+| Whiz Racer | 180031 | [180031-whiz-racer.json](./180031-whiz-racer.json) |
 | Whizz | 12825 | [12825-whizz.json](./12825-whizz.json) |
 | Who Am I: The Tale of Dorothy | 96654 | [96654-who-am-i-the-tale-of-dorothy.json](./96654-who-am-i-the-tale-of-dorothy.json) |
 | Who Am You? | 306335 | [306335-who-am-you.json](./306335-who-am-you.json) |
@@ -2284,6 +2286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windborn: Concrete Jungle | 340746 | [340746-windborn-concrete-jungle.json](./340746-windborn-concrete-jungle.json) |
 | WinDepth | 314455 | [314455-windepth.json](./314455-windepth.json) |
 | Windfolk: Sky Is Just the Beginning | 187438 | [187438-windfolk-sky-is-just-the-beginning.json](./187438-windfolk-sky-is-just-the-beginning.json) |
+| Winding Road | 180010 | [180010-winding-road.json](./180010-winding-road.json) |
 | Winding Worlds | 117009 | [117009-winding-worlds.json](./117009-winding-worlds.json) |
 | Windjammers | 11222 | [11222-windjammers.json](./11222-windjammers.json) |
 | Windlands | 15932 | [15932-windlands.json](./15932-windlands.json) |
