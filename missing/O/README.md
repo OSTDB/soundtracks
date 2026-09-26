@@ -876,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onaji | 174335 | [174335-onaji.json](./174335-onaji.json) |
 | Onamae Battle | 331886 | [331886-onamae-battle.json](./331886-onamae-battle.json) |
 | Onanigan | 181383 | [181383-onanigan.json](./181383-onanigan.json) |
+| Onc' Picsou | 198841 | [198841-onc-picsou.json](./198841-onc-picsou.json) |
 | OnCall | 276185 | [276185-oncall.json](./276185-oncall.json) |
 | Once a Porn a Time | 216980 | [216980-once-a-porn-a-time.json](./216980-once-a-porn-a-time.json) |
 | Once a Tale | 238461 | [238461-once-a-tale.json](./238461-once-a-tale.json) |
