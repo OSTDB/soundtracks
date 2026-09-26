@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E-commerce Simulator | 303507 | [303507-e-commerce-simulator.json](./303507-e-commerce-simulator.json) |
 | E-Elementals | 208436 | [208436-e-elementals.json](./208436-e-elementals.json) |
 | E-Motion | 13639 | [13639-e-motion.json](./13639-e-motion.json) |
+| E-On | 211701 | [211701-e-on.json](./211701-e-on.json) |
 | E-Reader 5-Card Sample Pack | 355538 | [355538-e-reader-5-card-sample-pack.json](./355538-e-reader-5-card-sample-pack.json) |
 | E-Shop Tycoon | 293624 | [293624-e-shop-tycoon.json](./293624-e-shop-tycoon.json) |
 | E-Tech Simulator | 308960 | [308960-e-tech-simulator.json](./308960-e-tech-simulator.json) |
@@ -1683,6 +1684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enyla X | 149598 | [149598-enyla-x.json](./149598-enyla-x.json) |
 | Enyo Arcade | 17802 | [17802-enyo-arcade.json](./17802-enyo-arcade.json) |
 | Enypnion Redreamed | 249812 | [249812-enypnion-redreamed.json](./249812-enypnion-redreamed.json) |
+| Eo | 211661 | [211661-eo.json](./211661-eo.json) |
 | EOE: Eve of Extinction | 23454 | [23454-eoe-eve-of-extinction.json](./23454-eoe-eve-of-extinction.json) |
 | EOEOnline | 303515 | [303515-eoeonline.json](./303515-eoeonline.json) |
 | Eol-ui Moheom | 363981 | [363981-eol-ui-moheom.json](./363981-eol-ui-moheom.json) |
