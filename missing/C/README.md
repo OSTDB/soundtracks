@@ -2729,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Holmes: The Mystery of Bartolomeu | 163827 | [163827-chicken-holmes-the-mystery-of-bartolomeu.json](./163827-chicken-holmes-the-mystery-of-bartolomeu.json) |
 | Chicken Hunter | 83235 | [83235-chicken-hunter.json](./83235-chicken-hunter.json) |
 | Chicken in the Darkness | 110341 | [110341-chicken-in-the-darkness.json](./110341-chicken-in-the-darkness.json) |
+| Chicken in the Henhouse | 199362 | [199362-chicken-in-the-henhouse.json](./199362-chicken-in-the-henhouse.json) |
 | Chicken Invaders | 11713 | [11713-chicken-invaders.json](./11713-chicken-invaders.json) |
 | Chicken Invaders 2 Xmas | 99974 | [99974-chicken-invaders-2-xmas.json](./99974-chicken-invaders-2-xmas.json) |
 | Chicken Invaders 3 Xmas | 89285 | [89285-chicken-invaders-3-xmas.json](./89285-chicken-invaders-3-xmas.json) |
@@ -2773,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicktionary | 375202 | [375202-chicktionary.json](./375202-chicktionary.json) |
 | Chicku | 181397 | [181397-chicku.json](./181397-chicku.json) |
 | Chicky Woggy | 41421 | [41421-chicky-woggy.json](./41421-chicky-woggy.json) |
+| Chico and the Magic Orchards | 199361 | [199361-chico-and-the-magic-orchards.json](./199361-chico-and-the-magic-orchards.json) |
 | Chico and the Magic Orchards DX | 277885 | [277885-chico-and-the-magic-orchards-dx.json](./277885-chico-and-the-magic-orchards-dx.json) |
 | Chico's Rebound | 345050 | [345050-chicos-rebound.json](./345050-chicos-rebound.json) |
 | ChicScape | 152777 | [152777-chicscape.json](./152777-chicscape.json) |
@@ -5783,6 +5785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corridor Exit 8 | 346688 | [346688-corridor-exit-8.json](./346688-corridor-exit-8.json) |
 | Corridor Geodesic | 319387 | [319387-corridor-geodesic.json](./319387-corridor-geodesic.json) |
 | Corridor Maze: Home Cleanup | 291251 | [291251-corridor-maze-home-cleanup.json](./291251-corridor-maze-home-cleanup.json) |
+| Corridor Sigma | 199382 | [199382-corridor-sigma.json](./199382-corridor-sigma.json) |
 | Corridors of Their Memories | 149093 | [149093-corridors-of-their-memories.json](./149093-corridors-of-their-memories.json) |
 | Corrosion Protocol | 377073 | [377073-corrosion-protocol.json](./377073-corrosion-protocol.json) |
 | Corrosion: Cold Winter Waiting | 126027 | [126027-corrosion-cold-winter-waiting.json](./126027-corrosion-cold-winter-waiting.json) |
