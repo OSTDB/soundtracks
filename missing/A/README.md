@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Handful of Lewd Games | 337801 | [337801-a-handful-of-lewd-games.json](./337801-a-handful-of-lewd-games.json) |
 | A Happy Place | 376114 | [376114-a-happy-place.json](./376114-a-happy-place.json) |
 | A Harvesting Moon | 55089 | [55089-a-harvesting-moon.json](./55089-a-harvesting-moon.json) |
+| A Hat in Time: Vanessa's Curse | 193202 | [193202-a-hat-in-time-vanessas-curse.json](./193202-a-hat-in-time-vanessas-curse.json) |
 | A Haunting Novel: Burton Hotel | 416854 | [416854-a-haunting-novel-burton-hotel.json](./416854-a-haunting-novel-burton-hotel.json) |
 | A Healer Only Lives Twice | 33255 | [33255-a-healer-only-lives-twice.json](./33255-a-healer-only-lives-twice.json) |
 | A Heart between Parts | 136866 | [136866-a-heart-between-parts.json](./136866-a-heart-between-parts.json) |
@@ -264,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Million Murder Mysteries | 283909 | [283909-a-million-murder-mysteries.json](./283909-a-million-murder-mysteries.json) |
 | A Mirror Puzzle | 209705 | [209705-a-mirror-puzzle.json](./209705-a-mirror-puzzle.json) |
 | A Moderately Uncomfortable Night with Tux | 338711 | [338711-a-moderately-uncomfortable-night-with-tux.json](./338711-a-moderately-uncomfortable-night-with-tux.json) |
+| A Modest Legacy | 193187 | [193187-a-modest-legacy.json](./193187-a-modest-legacy.json) |
 | A Mole in a Hole | 211249 | [211249-a-mole-in-a-hole.json](./211249-a-mole-in-a-hole.json) |
 | A Mole in Space | 322750 | [322750-a-mole-in-space.json](./322750-a-mole-in-space.json) |
 | A Moon for the Sky | 9974 | [9974-a-moon-for-the-sky.json](./9974-a-moon-for-the-sky.json) |
@@ -515,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.S.H. | 99614 | [99614-a-s-h.json](./99614-a-s-h.json) |
 | A.S.S.: Awesome Street Skaters | 245907 | [245907-a-s-s-awesome-street-skaters.json](./245907-a-s-s-awesome-street-skaters.json) |
 | A.V.A Global: Masters Pack | 298709 | [298709-a-v-a-global-masters-pack.json](./298709-a-v-a-global-masters-pack.json) |
+| A.W.O.L. | 193214 | [193214-a-w-o-l.json](./193214-a-w-o-l.json) |
 | A'Jatt | 372556 | [372556-ajatt.json](./372556-ajatt.json) |
 | A/X-101 | 5360 | [5360-a-x-101.json](./5360-a-x-101.json) |
 | A&E Crime Scene: AR | 95872 | [95872-a-and-e-crime-scene-ar.json](./95872-a-and-e-crime-scene-ar.json) |
@@ -1737,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Baggage Simulator | 372497 | [372497-airport-baggage-simulator.json](./372497-airport-baggage-simulator.json) |
 | Airport Boss | 297230 | [297230-airport-boss.json](./297230-airport-boss.json) |
 | Airport CEO | 52524 | [52524-airport-ceo.json](./52524-airport-ceo.json) |
+| Airport CEO: Beasts of the East | 193185 | [193185-airport-ceo-beasts-of-the-east.json](./193185-airport-ceo-beasts-of-the-east.json) |
 | Airport CEO: Business Class Edition | 202127 | [202127-airport-ceo-business-class-edition.json](./202127-airport-ceo-business-class-edition.json) |
 | Airport CEO: Helicopters | 272868 | [272868-airport-ceo-helicopters.json](./272868-airport-ceo-helicopters.json) |
 | Airport Control 27 | 398961 | [398961-airport-control-27.json](./398961-airport-control-27.json) |
@@ -2418,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Hail the Heat Death! | 396357 | [396357-all-hail-the-heat-death.json](./396357-all-hail-the-heat-death.json) |
 | All Hands on Deck | 216465 | [216465-all-hands-on-deck.json](./216465-all-hands-on-deck.json) |
 | All Hell Unleashed | 340581 | [340581-all-hell-unleashed.json](./340581-all-hell-unleashed.json) |
+| All Hit All Her: Western City | 193230 | [193230-all-hit-all-her-western-city.json](./193230-all-hit-all-her-western-city.json) |
 | All Humans Must Die! | 183557 | [183557-all-humans-must-die.json](./183557-all-humans-must-die.json) |
 | All I want for Christmas are Subgames: Collector's Edition | 416871 | [416871-all-i-want-for-christmas-are-subgames-collectors-edition.json](./416871-all-i-want-for-christmas-are-subgames-collectors-edition.json) |
 | All in Abyss: Judge the Fake | 302693 | [302693-all-in-abyss-judge-the-fake.json](./302693-all-in-abyss-judge-the-fake.json) |
@@ -5861,6 +5866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Sanctum | 347770 | [347770-astral-sanctum.json](./347770-astral-sanctum.json) |
 | Astral Savior | 347779 | [347779-astral-savior.json](./347779-astral-savior.json) |
 | Astral Sever | 414337 | [414337-astral-sever.json](./414337-astral-sever.json) |
+| Astral Shipwright | 193198 | [193198-astral-shipwright.json](./193198-astral-shipwright.json) |
 | Astral Terra | 16882 | [16882-astral-terra.json](./16882-astral-terra.json) |
 | Astral Traveler | 51973 | [51973-astral-traveler.json](./51973-astral-traveler.json) |
 | Astral Zone | 380451 | [380451-astral-zone.json](./380451-astral-zone.json) |
