@@ -2427,6 +2427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godless Tactics | 132673 | [132673-godless-tactics.json](./132673-godless-tactics.json) |
 | Godlike Burger | 143010 | [143010-godlike-burger.json](./143010-godlike-burger.json) |
 | Godmode Epochs | 252688 | [252688-godmode-epochs.json](./252688-godmode-epochs.json) |
+| Godmorgon: Spooky Ride | 187227 | [187227-godmorgon-spooky-ride.json](./187227-godmorgon-spooky-ride.json) |
 | Gododo | 148902 | [148902-gododo.json](./148902-gododo.json) |
 | Godproof | 357429 | [357429-godproof.json](./357429-godproof.json) |
 | Godrop | 292290 | [292290-godrop.json](./292290-godrop.json) |
