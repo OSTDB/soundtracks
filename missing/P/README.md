@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Button | 71230 | [71230-panic-button.json](./71230-panic-button.json) |
 | Panic Crew | 390672 | [390672-panic-crew.json](./390672-panic-crew.json) |
 | Panic Crisis Mage Attack | 128636 | [128636-panic-crisis-mage-attack.json](./128636-panic-crisis-mage-attack.json) |
+| Panic Factory | 194315 | [194315-panic-factory.json](./194315-panic-factory.json) |
 | Panic Floor!! | 202658 | [202658-panic-floor.json](./202658-panic-floor.json) |
 | Panic in the Park | 69251 | [69251-panic-in-the-park.json](./69251-panic-in-the-park.json) |
 | Panic in the Woods | 315508 | [315508-panic-in-the-woods.json](./315508-panic-in-the-woods.json) |
@@ -883,6 +884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paralyzed | 141787 | [141787-paralyzed.json](./141787-paralyzed.json) |
 | Paralyzis | 184500 | [184500-paralyzis.json](./184500-paralyzis.json) |
 | Paramedic Simulator | 141858 | [141858-paramedic-simulator.json](./141858-paramedic-simulator.json) |
+| ParamediCats | 194314 | [194314-paramedicats.json](./194314-paramedicats.json) |
 | Paramedics! | 270958 | [270958-paramedics.json](./270958-paramedics.json) |
 | Paramedium 2: Girl in the Road | 82484 | [82484-paramedium-2-girl-in-the-road.json](./82484-paramedium-2-girl-in-the-road.json) |
 | Paramedium: 2 | 179750 | [179750-paramedium-2.json](./179750-paramedium-2.json) |
@@ -2254,6 +2256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phasmonauts | 310730 | [310730-phasmonauts.json](./310730-phasmonauts.json) |
 | Phat Phrog | 30892 | [30892-phat-phrog.json](./30892-phat-phrog.json) |
 | Phat Phrog Clicker | 314308 | [314308-phat-phrog-clicker.json](./314308-phat-phrog-clicker.json) |
+| Phenocore | 194308 | [194308-phenocore.json](./194308-phenocore.json) |
 | Phenomenal Car Park Simulator | 124220 | [124220-phenomenal-car-park-simulator.json](./124220-phenomenal-car-park-simulator.json) |
 | Phi: The Broken Strings | 332599 | [332599-phi-the-broken-strings.json](./332599-phi-the-broken-strings.json) |
 | Phi's Star Challenge | 393099 | [393099-phis-star-challenge.json](./393099-phis-star-challenge.json) |
@@ -2797,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Breeze | 354432 | [354432-pinball-breeze.json](./354432-pinball-breeze.json) |
 | Pinball Challenge Deluxe | 49361 | [49361-pinball-challenge-deluxe.json](./49361-pinball-challenge-deluxe.json) |
 | Pinball Deluxe | 260802 | [260802-pinball-deluxe.json](./260802-pinball-deluxe.json) |
+| Pinball Dreams | 194279 | [194279-pinball-dreams.json](./194279-pinball-dreams.json) |
 | Pinball Dreams | 248589 | [248589-pinball-dreams.json](./248589-pinball-dreams.json) |
 | Pinball Dreams | 260726 | [260726-pinball-dreams.json](./260726-pinball-dreams.json) |
 | Pinball Duel | 66642 | [66642-pinball-duel.json](./66642-pinball-duel.json) |
@@ -3108,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Asteroid Belt VR | 116857 | [116857-pirates-of-the-asteroid-belt-vr.json](./116857-pirates-of-the-asteroid-belt-vr.json) |
 | Pirates of the Barbary Coast | 38929 | [38929-pirates-of-the-barbary-coast.json](./38929-pirates-of-the-barbary-coast.json) |
 | Pirates of the Burning Sea | 21283 | [21283-pirates-of-the-burning-sea.json](./21283-pirates-of-the-burning-sea.json) |
+| Pirates of the Caribbean: Dead Man's Chest | 194266 | [194266-pirates-of-the-caribbean-dead-mans-chest.json](./194266-pirates-of-the-caribbean-dead-mans-chest.json) |
 | Pirates of the Caribbean: Dead Man's Chest | 20542 | [20542-pirates-of-the-caribbean-dead-mans-chest.json](./20542-pirates-of-the-caribbean-dead-mans-chest.json) |
 | Pirates on Target | 187536 | [187536-pirates-on-target.json](./187536-pirates-on-target.json) |
 | Pirates Outlaws 2: Heritage | 320892 | [320892-pirates-outlaws-2-heritage.json](./320892-pirates-outlaws-2-heritage.json) |
@@ -4421,6 +4426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mystery Dungeon: Explorers of Alpha | 381141 | [381141-pokemon-mystery-dungeon-explorers-of-alpha.json](./381141-pokemon-mystery-dungeon-explorers-of-alpha.json) |
 | Pokémon Mystery Dungeon: Explorers of Darkness | 2322 | [2322-pokemon-mystery-dungeon-explorers-of-darkness.json](./2322-pokemon-mystery-dungeon-explorers-of-darkness.json) |
 | Pokémon Mystery Dungeon: Explorers of Skies | 294796 | [294796-pokemon-mystery-dungeon-explorers-of-skies.json](./294796-pokemon-mystery-dungeon-explorers-of-skies.json) |
+| Pokémon Mystery Dungeon: Explorers of the Spirit | 194263 | [194263-pokemon-mystery-dungeon-explorers-of-the-spirit.json](./194263-pokemon-mystery-dungeon-explorers-of-the-spirit.json) |
 | Pokémon Mystery Dungeon: Origins | 365792 | [365792-pokemon-mystery-dungeon-origins.json](./365792-pokemon-mystery-dungeon-origins.json) |
 | Pokémon Mystery Dungeon: Outlaw's Paradise | 294718 | [294718-pokemon-mystery-dungeon-outlaws-paradise.json](./294718-pokemon-mystery-dungeon-outlaws-paradise.json) |
 | Pokémon Nameless FireRed Project | 213034 | [213034-pokemon-nameless-firered-project.json](./213034-pokemon-nameless-firered-project.json) |
@@ -5145,6 +5151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PostApo | 386421 | [386421-postapo.json](./386421-postapo.json) |
 | Postbound! | 291581 | [291581-postbound.json](./291581-postbound.json) |
 | Postcard Through Time | 417581 | [417581-postcard-through-time.json](./417581-postcard-through-time.json) |
+| Postcat Caitsith | 194318 | [194318-postcat-caitsith.json](./194318-postcat-caitsith.json) |
 | Postcodeloterij Deal or No Deal: Het Interactive DVD-Spel | 319736 | [319736-postcodeloterij-deal-or-no-deal-het-interactive-dvd-spel.json](./319736-postcodeloterij-deal-or-no-deal-het-interactive-dvd-spel.json) |
 | PostCollapse | 31888 | [31888-postcollapse.json](./31888-postcollapse.json) |
 | Postfrost | 247751 | [247751-postfrost.json](./247751-postfrost.json) |
@@ -5697,6 +5704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Knight's Mission: Anna's Marvelous Adventures | 272946 | [272946-princess-knights-mission-annas-marvelous-adventures.json](./272946-princess-knights-mission-annas-marvelous-adventures.json) |
 | Princess Lili | 107881 | [107881-princess-lili.json](./107881-princess-lili.json) |
 | Princess Lover! | 387346 | [387346-princess-lover.json](./387346-princess-lover.json) |
+| Princess Maker 2 | 194280 | [194280-princess-maker-2.json](./194280-princess-maker-2.json) |
 | Princess Maker 2 Regeneration | 261795 | [261795-princess-maker-2-regeneration.json](./261795-princess-maker-2-regeneration.json) |
 | Princess Maker 3: Fairy Tales Come True | 43184 | [43184-princess-maker-3-fairy-tales-come-true.json](./43184-princess-maker-3-fairy-tales-come-true.json) |
 | Princess Maker 4 Portable | 205640 | [205640-princess-maker-4-portable.json](./205640-princess-maker-4-portable.json) |
@@ -6481,6 +6489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prophecy Matrix | 207296 | [207296-prophecy-matrix.json](./207296-prophecy-matrix.json) |
 | Prophecy of the Nun | 165657 | [165657-prophecy-of-the-nun.json](./165657-prophecy-of-the-nun.json) |
 | Prophet Margin | 376537 | [376537-prophet-margin.json](./376537-prophet-margin.json) |
+| Propis | 194290 | [194290-propis.json](./194290-propis.json) |
 | Proportionator | 316765 | [316765-proportionator.json](./316765-proportionator.json) |
 | ProSoccer 2190 | 138723 | [138723-prosoccer-2190.json](./138723-prosoccer-2190.json) |
 | Prospector | 296680 | [296680-prospector.json](./296680-prospector.json) |
