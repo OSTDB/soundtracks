@@ -745,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombiegrinder 60000 | 11343 | [11343-zombiegrinder-60000.json](./11343-zombiegrinder-60000.json) |
 | ZombieHunt | 86573 | [86573-zombiehunt.json](./86573-zombiehunt.json) |
 | ZombieHunterZ | 101335 | [101335-zombiehunterz.json](./101335-zombiehunterz.json) |
+| Zombies | 218976 | [218976-zombies.json](./218976-zombies.json) |
 | Zombies & Love | 296987 | [296987-zombies-and-love.json](./296987-zombies-and-love.json) |
 | Zombies & Trains! | 51202 | [51202-zombies-and-trains.json](./51202-zombies-and-trains.json) |
 | Zombies 2.0 | 67679 | [67679-zombies-2-0.json](./67679-zombies-2-0.json) |
