@@ -1773,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats vs. Aliens | 295561 | [295561-cats-vs-aliens.json](./295561-cats-vs-aliens.json) |
 | Cats Yakuza | 211961 | [211961-cats-yakuza.json](./211961-cats-yakuza.json) |
 | Cats-Shaped | 311608 | [311608-cats-shaped.json](./311608-cats-shaped.json) |
+| Cats! | 191548 | [191548-cats.json](./191548-cats.json) |
 | Cats! | 34772 | [34772-cats.json](./34772-cats.json) |
 | Cats' World | 406210 | [406210-cats-world.json](./406210-cats-world.json) |
 | Catsbridge Stories: Detective in Time | 116360 | [116360-catsbridge-stories-detective-in-time.json](./116360-catsbridge-stories-detective-in-time.json) |
@@ -3712,6 +3713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cityscapes: Sim Builder | 248581 | [248581-cityscapes-sim-builder.json](./248581-cityscapes-sim-builder.json) |
 | Citytopia | 114791 | [114791-citytopia.json](./114791-citytopia.json) |
 | Citywars Savage | 112740 | [112740-citywars-savage.json](./112740-citywars-savage.json) |
+| Citywars Tower Defense | 191574 | [191574-citywars-tower-defense.json](./191574-citywars-tower-defense.json) |
 | CityZen | 392256 | [392256-cityzen.json](./392256-cityzen.json) |
 | Ciudad Alfombra | 251848 | [251848-ciudad-alfombra.json](./251848-ciudad-alfombra.json) |
 | Ciudad Anómala de Buenos Aires | 271206 | [271206-ciudad-anomala-de-buenos-aires.json](./271206-ciudad-anomala-de-buenos-aires.json) |
