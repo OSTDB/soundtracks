@@ -4438,6 +4438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Psychic Seeds | 157527 | [157527-pokemon-psychic-seeds.json](./157527-pokemon-psychic-seeds.json) |
 | Pokémon Puffy Pink | 327204 | [327204-pokemon-puffy-pink.json](./327204-pokemon-puffy-pink.json) |
 | Pokémon PureBlue | 233600 | [233600-pokemon-pureblue.json](./233600-pokemon-pureblue.json) |
+| Pokémon Quarantine Crystal | 201001 | [201001-pokemon-quarantine-crystal.json](./201001-pokemon-quarantine-crystal.json) |
 | Pokémon Quest | 102874 | [102874-pokemon-quest.json](./102874-pokemon-quest.json) |
 | Pokémon R.O.W.E. | 305876 | [305876-pokemon-r-o-w-e.json](./305876-pokemon-r-o-w-e.json) |
 | Pokémon Ranger: Shadows of Almia | 14699 | [14699-pokemon-ranger-shadows-of-almia.json](./14699-pokemon-ranger-shadows-of-almia.json) |
@@ -6837,6 +6838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punji VR | 192962 | [192962-punji-vr.json](./192962-punji-vr.json) |
 | Punk Racer | 411619 | [411619-punk-racer.json](./411619-punk-racer.json) |
 | Punk Wars | 150059 | [150059-punk-wars.json](./150059-punk-wars.json) |
+| Punk Wars: Threat From Within | 201015 | [201015-punk-wars-threat-from-within.json](./201015-punk-wars-threat-from-within.json) |
 | Punk-o-Matic | 243144 | [243144-punk-o-matic.json](./243144-punk-o-matic.json) |
 | Punks Not Dead | 83938 | [83938-punks-not-dead.json](./83938-punks-not-dead.json) |
 | Punky Skunk | 44881 | [44881-punky-skunk.json](./44881-punky-skunk.json) |
@@ -6890,6 +6892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Hentai: Gallery | 385082 | [385082-pure-hentai-gallery.json](./385082-pure-hentai-gallery.json) |
 | Pure Hentai: Moments | 385081 | [385081-pure-hentai-moments.json](./385081-pure-hentai-moments.json) |
 | Pure Hentai: Paradise | 380699 | [380699-pure-hentai-paradise.json](./380699-pure-hentai-paradise.json) |
+| Pure Hold 'Em World Poker Championships | 201056 | [201056-pure-hold-em-world-poker-championships.json](./201056-pure-hold-em-world-poker-championships.json) |
 | Pure Hold'em | 17840 | [17840-pure-holdem.json](./17840-pure-holdem.json) |
 | Pure Love | 368048 | [368048-pure-love.json](./368048-pure-love.json) |
 | Pure Metal: Feature 1 | 169288 | [169288-pure-metal-feature-1.json](./169288-pure-metal-feature-1.json) |
