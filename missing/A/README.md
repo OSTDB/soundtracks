@@ -1258,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Burner Climax | 20085 | [20085-after-burner-climax.json](./20085-after-burner-climax.json) |
 | After Burner III | 365185 | [365185-after-burner-iii.json](./365185-after-burner-iii.json) |
 | After Burner III | 5356 | [5356-after-burner-iii.json](./5356-after-burner-iii.json) |
+| After Corruption | 211173 | [211173-after-corruption.json](./211173-after-corruption.json) |
 | After Dark | 357793 | [357793-after-dark.json](./357793-after-dark.json) |
 | After Exposure | 341131 | [341131-after-exposure.json](./341131-after-exposure.json) |
 | After Friday | 339803 | [339803-after-friday.json](./339803-after-friday.json) |
@@ -1390,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Speed Underworld | 326752 | [326752-age-of-speed-underworld.json](./326752-age-of-speed-underworld.json) |
 | Age of Talisman | 26954 | [26954-age-of-talisman.json](./26954-age-of-talisman.json) |
 | Age of Time | 254542 | [254542-age-of-time.json](./254542-age-of-time.json) |
+| Age of Undead | 211145 | [211145-age-of-undead.json](./211145-age-of-undead.json) |
 | Age of War | 18348 | [18348-age-of-war.json](./18348-age-of-war.json) |
 | Age of Warscape | 28209 | [28209-age-of-warscape.json](./28209-age-of-warscape.json) |
 | Age of Wonders | 589 | [589-age-of-wonders.json](./589-age-of-wonders.json) |
@@ -2155,6 +2157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Crab in the Ghostmaze | 180706 | [180706-alien-crab-in-the-ghostmaze.json](./180706-alien-crab-in-the-ghostmaze.json) |
 | Alien Cube | 254779 | [254779-alien-cube.json](./254779-alien-cube.json) |
 | Alien Dead | 229715 | [229715-alien-dead.json](./229715-alien-dead.json) |
+| Alien Decimation | 211164 | [211164-alien-decimation.json](./211164-alien-decimation.json) |
 | Alien Defense Unit | 216464 | [216464-alien-defense-unit.json](./216464-alien-defense-unit.json) |
 | Alien Disaster | 135272 | [135272-alien-disaster.json](./135272-alien-disaster.json) |
 | Alien Disco Safari | 63846 | [63846-alien-disco-safari.json](./63846-alien-disco-safari.json) |
@@ -3740,6 +3743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anodyne Mobile | 108454 | [108454-anodyne-mobile.json](./108454-anodyne-mobile.json) |
 | Anoldor | 181300 | [181300-anoldor.json](./181300-anoldor.json) |
 | Anolock | 211433 | [211433-anolock.json](./211433-anolock.json) |
+| Anomalia | 211142 | [211142-anomalia.json](./211142-anomalia.json) |
 | Anomalice | 172695 | [172695-anomalice.json](./172695-anomalice.json) |
 | Anomalies Detective | 325068 | [325068-anomalies-detective.json](./325068-anomalies-detective.json) |
 | Anomalistic Revolution | 226235 | [226235-anomalistic-revolution.json](./226235-anomalistic-revolution.json) |
