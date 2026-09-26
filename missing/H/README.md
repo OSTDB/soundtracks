@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack.ing | 290927 | [290927-hack-ing.json](./290927-hack-ing.json) |
 | Hacker | 12131 | [12131-hacker.json](./12131-hacker.json) |
 | Hacker Ball | 185128 | [185128-hacker-ball.json](./185128-hacker-ball.json) |
+| Hacker Clicker | 183903 | [183903-hacker-clicker.json](./183903-hacker-clicker.json) |
 | Hacker Evolution Duality: Hacker Bootcamp | 171565 | [171565-hacker-evolution-duality-hacker-bootcamp.json](./171565-hacker-evolution-duality-hacker-bootcamp.json) |
 | Hacker Evolution Duality: Hardcore Package Part 1 | 169309 | [169309-hacker-evolution-duality-hardcore-package-part-1.json](./169309-hacker-evolution-duality-hardcore-package-part-1.json) |
 | Hacker Evolution Duality: Inception Part 2 | 171633 | [171633-hacker-evolution-duality-inception-part-2.json](./171633-hacker-evolution-duality-inception-part-2.json) |
@@ -2666,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexTD | 212834 | [212834-hextd.json](./212834-hextd.json) |
 | Hexterminate | 133411 | [133411-hexterminate.json](./133411-hexterminate.json) |
 | Hexters | 81393 | [81393-hexters.json](./81393-hexters.json) |
+| Hextris | 183898 | [183898-hextris.json](./183898-hextris.json) |
 | HextriX | 105912 | [105912-hextrix.json](./105912-hextrix.json) |
 | Hexual Deflection | 308552 | [308552-hexual-deflection.json](./308552-hexual-deflection.json) |
 | Hexuma | 265422 | [265422-hexuma.json](./265422-hexuma.json) |
@@ -4777,6 +4779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humanelfo: Um Segredo Vai Te Libertar | 338936 | [338936-humanelfo-um-segredo-vai-te-libertar.json](./338936-humanelfo-um-segredo-vai-te-libertar.json) |
 | Humanitarian Helicopter | 85172 | [85172-humanitarian-helicopter.json](./85172-humanitarian-helicopter.json) |
 | Humanitas | 117001 | [117001-humanitas.json](./117001-humanitas.json) |
+| Humanities Legend: Hollow Ascending | 183868 | [183868-humanities-legend-hollow-ascending.json](./183868-humanities-legend-hollow-ascending.json) |
 | Humanity Is Dead | 181302 | [181302-humanity-is-dead.json](./181302-humanity-is-dead.json) |
 | Humanity Lost | 229047 | [229047-humanity-lost.json](./229047-humanity-lost.json) |
 | Humanity Must Perish | 68323 | [68323-humanity-must-perish.json](./68323-humanity-must-perish.json) |
