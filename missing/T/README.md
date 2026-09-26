@@ -1643,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temporal Cross | 310211 | [310211-temporal-cross.json](./310211-temporal-cross.json) |
 | Temporal Odyssey | 277406 | [277406-temporal-odyssey.json](./277406-temporal-odyssey.json) |
 | Temporal Purge: Z | 154378 | [154378-temporal-purge-z.json](./154378-temporal-purge-z.json) |
+| Temporal Sprint | 190439 | [190439-temporal-sprint.json](./190439-temporal-sprint.json) |
 | Temporal Titans | 309865 | [309865-temporal-titans.json](./309865-temporal-titans.json) |
 | Temporarily | 280255 | [280255-temporarily.json](./280255-temporarily.json) |
 | Temporian | 228969 | [228969-temporian.json](./228969-temporian.json) |
@@ -2185,6 +2186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Puzzle Game Everyone Knows | 135023 | [135023-that-puzzle-game-everyone-knows.json](./135023-that-puzzle-game-everyone-knows.json) |
 | That Racecar Game | 241651 | [241651-that-racecar-game.json](./241651-that-racecar-game.json) |
 | That Rocket Game | 244356 | [244356-that-rocket-game.json](./244356-that-rocket-game.json) |
+| That Role Playing | 190459 | [190459-that-role-playing.json](./190459-that-role-playing.json) |
 | That Smiling Game | 202963 | [202963-that-smiling-game.json](./202963-that-smiling-game.json) |
 | That Spongy Thing on Your Tongue | 184575 | [184575-that-spongy-thing-on-your-tongue.json](./184575-that-spongy-thing-on-your-tongue.json) |
 | That Time I Became Friends with The Royal Scuttlebug Family and Fell From Space | 304155 | [304155-that-time-i-became-friends-with-the-royal-scuttlebug-family-and-fell-from-space.json](./304155-that-time-i-became-friends-with-the-royal-scuttlebug-family-and-fell-from-space.json) |
@@ -5665,6 +5667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Misfits Burger Joint | 255341 | [255341-the-misfits-burger-joint.json](./255341-the-misfits-burger-joint.json) |
 | The Misfortunes of a Nekomimi Catgirl Sorceress | 82914 | [82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json](./82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json) |
 | The Missing Few | 110808 | [110808-the-missing-few.json](./110808-the-missing-few.json) |
+| The Missing Link | 190442 | [190442-the-missing-link.json](./190442-the-missing-link.json) |
 | The Missing Locksmith | 135049 | [135049-the-missing-locksmith.json](./135049-the-missing-locksmith.json) |
 | The Missing Part | 349880 | [349880-the-missing-part.json](./349880-the-missing-part.json) |
 | The Missing Sock | 302139 | [302139-the-missing-sock.json](./302139-the-missing-sock.json) |
@@ -6629,6 +6632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow Syndicate | 342265 | [342265-the-shadow-syndicate.json](./342265-the-shadow-syndicate.json) |
 | The Shadow Warrior Trilogy | 243065 | [243065-the-shadow-warrior-trilogy.json](./243065-the-shadow-warrior-trilogy.json) |
 | The Shadow's Terror | 257907 | [257907-the-shadows-terror.json](./257907-the-shadows-terror.json) |
+| The Shadows Lengthen | 190481 | [190481-the-shadows-lengthen.json](./190481-the-shadows-lengthen.json) |
 | The Shadows Of Eldergroove | 416096 | [416096-the-shadows-of-eldergroove.json](./416096-the-shadows-of-eldergroove.json) |
 | The Shadows That Run Alongside Our Car | 77595 | [77595-the-shadows-that-run-alongside-our-car.json](./77595-the-shadows-that-run-alongside-our-car.json) |
 | The Shadows Within: Nightmare's Game | 304615 | [304615-the-shadows-within-nightmares-game.json](./304615-the-shadows-within-nightmares-game.json) |
@@ -9354,6 +9358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Wiza | 364675 | [364675-time-wiza.json](./364675-time-wiza.json) |
 | Time Zone | 14574 | [14574-time-zone.json](./14574-time-zone.json) |
 | Time's Prison | 318423 | [318423-times-prison.json](./318423-times-prison.json) |
+| Time's Up in Tiny Town | 190471 | [190471-times-up-in-tiny-town.json](./190471-times-up-in-tiny-town.json) |
 | Timeball | 7791 | [7791-timeball.json](./7791-timeball.json) |
 | Timebound Vampire | 329064 | [329064-timebound-vampire.json](./329064-timebound-vampire.json) |
 | TimeCluster | 105295 | [105295-timecluster.json](./105295-timecluster.json) |
@@ -9643,6 +9648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanic Mystery: Ao no Senritsu | 41312 | [41312-titanic-mystery-ao-no-senritsu.json](./41312-titanic-mystery-ao-no-senritsu.json) |
 | Titanic Shipwreck Exploration | 111180 | [111180-titanic-shipwreck-exploration.json](./111180-titanic-shipwreck-exploration.json) |
 | Titanic Terror | 258961 | [258961-titanic-terror.json](./258961-titanic-terror.json) |
+| Titanic: Fall of a Legend | 190455 | [190455-titanic-fall-of-a-legend.json](./190455-titanic-fall-of-a-legend.json) |
 | Titanic: Honor and Glory | 57921 | [57921-titanic-honor-and-glory.json](./57921-titanic-honor-and-glory.json) |
 | Titanic: Iceberg Ahead | 91966 | [91966-titanic-iceberg-ahead.json](./91966-titanic-iceberg-ahead.json) |
 | Titanic: The Recovery Mission | 12962 | [12962-titanic-the-recovery-mission.json](./12962-titanic-the-recovery-mission.json) |
@@ -9722,6 +9728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Be With You | 152890 | [152890-to-be-with-you.json](./152890-to-be-with-you.json) |
 | To Bring Her Back | 316804 | [316804-to-bring-her-back.json](./316804-to-bring-her-back.json) |
 | To Burn in Memory: Anniversary Edition | 110371 | [110371-to-burn-in-memory-anniversary-edition.json](./110371-to-burn-in-memory-anniversary-edition.json) |
+| To Carry a Sword | 190440 | [190440-to-carry-a-sword.json](./190440-to-carry-a-sword.json) |
 | To Crown or to Destroy | 373183 | [373183-to-crown-or-to-destroy.json](./373183-to-crown-or-to-destroy.json) |
 | To Dawn and Back | 136847 | [136847-to-dawn-and-back.json](./136847-to-dawn-and-back.json) |
 | To Die in the Shade | 281425 | [281425-to-die-in-the-shade.json](./281425-to-die-in-the-shade.json) |
