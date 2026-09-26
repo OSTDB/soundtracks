@@ -4202,6 +4202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guinevere | 313874 | [313874-guinevere.json](./313874-guinevere.json) |
 | Guinness World Records 2010: Gamer's Edition | 21746 | [21746-guinness-world-records-2010-gamers-edition.json](./21746-guinness-world-records-2010-gamers-edition.json) |
 | Guise of the Wolf | 7669 | [7669-guise-of-the-wolf.json](./7669-guise-of-the-wolf.json) |
+| Guitar Band Battle | 175729 | [175729-guitar-band-battle.json](./175729-guitar-band-battle.json) |
 | Guitar Band: Rock Battle | 299999 | [299999-guitar-band-rock-battle.json](./299999-guitar-band-rock-battle.json) |
 | Guitar Freaks V3 & DrumMania V3 | 78349 | [78349-guitar-freaks-v3-and-drummania-v3.json](./78349-guitar-freaks-v3-and-drummania-v3.json) |
 | Guitar Girl Match 3 | 193930 | [193930-guitar-girl-match-3.json](./193930-guitar-girl-match-3.json) |
@@ -4455,6 +4456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns of Infinity | 33440 | [33440-guns-of-infinity.json](./33440-guns-of-infinity.json) |
 | Guns of Mercy | 114176 | [114176-guns-of-mercy.json](./114176-guns-of-mercy.json) |
 | Guns of Midnight | 118362 | [118362-guns-of-midnight.json](./118362-guns-of-midnight.json) |
+| Guns Up! Mobile | 175705 | [175705-guns-up-mobile.json](./175705-guns-up-mobile.json) |
 | Guns, Blocks, and Steel | 326239 | [326239-guns-blocks-and-steel.json](./326239-guns-blocks-and-steel.json) |
 | Guns'n'Glory | 95410 | [95410-gunsnglory.json](./95410-gunsnglory.json) |
 | Guns'n'Glory Heroes | 68958 | [68958-gunsnglory-heroes.json](./68958-gunsnglory-heroes.json) |
