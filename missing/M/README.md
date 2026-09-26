@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Traps | 144135 | [144135-magic-traps.json](./144135-magic-traps.json) |
 | Magic Twins | 132244 | [132244-magic-twins.json](./132244-magic-twins.json) |
 | Magic Venue | 303647 | [303647-magic-venue.json](./303647-magic-venue.json) |
+| Magic vs. Metal | 196572 | [196572-magic-vs-metal.json](./196572-magic-vs-metal.json) |
 | Magic vs. Mind | 311601 | [311601-magic-vs-mind.json](./311601-magic-vs-mind.json) |
 | Magic Wand | 27326 | [27326-magic-wand.json](./27326-magic-wand.json) |
 | Magic Wand | 311811 | [311811-magic-wand.json](./311811-magic-wand.json) |
@@ -688,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicolor TD | 280173 | [280173-magicolor-td.json](./280173-magicolor-td.json) |
 | MagiCraze | 151720 | [151720-magicraze.json](./151720-magicraze.json) |
 | MagicShop2 | 253903 | [253903-magicshop2.json](./253903-magicshop2.json) |
+| Magidoll | 196588 | [196588-magidoll.json](./196588-magidoll.json) |
 | Magiduck | 252868 | [252868-magiduck.json](./252868-magiduck.json) |
 | Magiduel | 177019 | [177019-magiduel.json](./177019-magiduel.json) |
 | Magika Bounce | 408295 | [408295-magika-bounce.json](./408295-magika-bounce.json) |
@@ -2432,6 +2434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Sports Gold Collection | 406799 | [406799-maximum-sports-gold-collection.json](./406799-maximum-sports-gold-collection.json) |
 | Maximum Surge | 94175 | [94175-maximum-surge.json](./94175-maximum-surge.json) |
 | Maximus | 333766 | [333766-maximus.json](./333766-maximus.json) |
+| Maximus 2: Fantasy Beat-Em-Up | 196574 | [196574-maximus-2-fantasy-beat-em-up.json](./196574-maximus-2-fantasy-beat-em-up.json) |
 | Maxit | 78372 | [78372-maxit.json](./78372-maxit.json) |
 | Maxo Scringle's "Human Rocket" Mini-Type Rocket Golf | 402367 | [402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json](./402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json) |
 | MaxRacer | 143670 | [143670-maxracer.json](./143670-maxracer.json) |
@@ -3462,6 +3465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorel Restoration Project | 380525 | [380525-memorel-restoration-project.json](./380525-memorel-restoration-project.json) |
 | Memori | 251579 | [251579-memori.json](./251579-memori.json) |
 | Memoria | 191172 | [191172-memoria.json](./191172-memoria.json) |
+| Memoria | 196556 | [196556-memoria.json](./196556-memoria.json) |
 | Memoria Project | 193969 | [193969-memoria-project.json](./193969-memoria-project.json) |
 | Memoria VR | 311793 | [311793-memoria-vr.json](./311793-memoria-vr.json) |
 | Memoria Wake | 348349 | [348349-memoria-wake.json](./348349-memoria-wake.json) |
@@ -3948,6 +3952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal: Hellsinger - Complete Edition | 279779 | [279779-metal-hellsinger-complete-edition.json](./279779-metal-hellsinger-complete-edition.json) |
 | MetalArms | 122418 | [122418-metalarms.json](./122418-metalarms.json) |
 | MetälBörn | 209490 | [209490-metalborn.json](./209490-metalborn.json) |
+| Metalborne | 196562 | [196562-metalborne.json](./196562-metalborne.json) |
 | MetalCore | 216171 | [216171-metalcore.json](./216171-metalcore.json) |
 | Metallicars | 234319 | [234319-metallicars.json](./234319-metallicars.json) |
 | Metalocalypse: Dethgame | 68300 | [68300-metalocalypse-dethgame.json](./68300-metalocalypse-dethgame.json) |
@@ -5613,6 +5618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Slugfest 2003 | 47334 | [47334-mlb-slugfest-2003.json](./47334-mlb-slugfest-2003.json) |
 | MLB Tap Sports Baseball 2017 | 90064 | [90064-mlb-tap-sports-baseball-2017.json](./90064-mlb-tap-sports-baseball-2017.json) |
 | MLB Tap Sports Baseball 2020 | 220210 | [220210-mlb-tap-sports-baseball-2020.json](./220210-mlb-tap-sports-baseball-2020.json) |
+| MLB Tap Sports Baseball 2022 | 196590 | [196590-mlb-tap-sports-baseball-2022.json](./196590-mlb-tap-sports-baseball-2022.json) |
 | MLB The Show 19: MVP Edition | 119070 | [119070-mlb-the-show-19-mvp-edition.json](./119070-mlb-the-show-19-mvp-edition.json) |
 | MLB The Show 20 | 125013 | [125013-mlb-the-show-20.json](./125013-mlb-the-show-20.json) |
 | MLB The Show 21 | 143260 | [143260-mlb-the-show-21.json](./143260-mlb-the-show-21.json) |
@@ -5760,6 +5766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Defense HD | 294682 | [294682-modern-defense-hd.json](./294682-modern-defense-hd.json) |
 | Modern Girl's Refined Choices | 208937 | [208937-modern-girls-refined-choices.json](./208937-modern-girls-refined-choices.json) |
 | Modern Jet-Fighter : Air War | 107116 | [107116-modern-jet-fighter-air-war.json](./107116-modern-jet-fighter-air-war.json) |
+| Modern Life | 196594 | [196594-modern-life.json](./196594-modern-life.json) |
 | Modern Ludo | 175325 | [175325-modern-ludo.json](./175325-modern-ludo.json) |
 | Modern Mud | 377691 | [377691-modern-mud.json](./377691-modern-mud.json) |
 | Modern Museum | 305524 | [305524-modern-museum.json](./305524-modern-museum.json) |
@@ -7050,6 +7057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 24: Nolan Helmet Liveries | 309663 | [309663-motogp-24-nolan-helmet-liveries.json](./309663-motogp-24-nolan-helmet-liveries.json) |
 | MotoGP 24: Test Suits | 309662 | [309662-motogp-24-test-suits.json](./309662-motogp-24-test-suits.json) |
 | MotoGP 3 | 5938 | [5938-motogp-3.json](./5938-motogp-3.json) |
+| MotoGP Guru Racing 25/26 | 196554 | [196554-motogp-guru-racing-25-26.json](./196554-motogp-guru-racing-25-26.json) |
 | Motoko-chan no Wonder Kitchen | 37920 | [37920-motoko-chan-no-wonder-kitchen.json](./37920-motoko-chan-no-wonder-kitchen.json) |
 | Motomancer: Auto Battle | 181939 | [181939-motomancer-auto-battle.json](./181939-motomancer-auto-battle.json) |
 | Motor Cycle | 68274 | [68274-motor-cycle.json](./68274-motor-cycle.json) |
