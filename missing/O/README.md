@@ -1119,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Unlimited Cruise SP2 | 79261 | [79261-one-piece-unlimited-cruise-sp2.json](./79261-one-piece-unlimited-cruise-sp2.json) |
 | One Piece: World Seeker Episode Pass | 152911 | [152911-one-piece-world-seeker-episode-pass.json](./152911-one-piece-world-seeker-episode-pass.json) |
 | One Punch | 151657 | [151657-one-punch.json](./151657-one-punch.json) |
+| One Punch Man | 175711 | [175711-one-punch-man.json](./175711-one-punch-man.json) |
 | One Punch Man: A Hero Nobody Knows DLC Pack 1 - Suiryu | 134062 | [134062-one-punch-man-a-hero-nobody-knows-dlc-pack-1-suiryu.json](./134062-one-punch-man-a-hero-nobody-knows-dlc-pack-1-suiryu.json) |
 | One Punch Man: A Hero Nobody Knows DLC Pack 2 - Lightning Max | 134063 | [134063-one-punch-man-a-hero-nobody-knows-dlc-pack-2-lightning-max.json](./134063-one-punch-man-a-hero-nobody-knows-dlc-pack-2-lightning-max.json) |
 | One Punch Man: A Hero Nobody Knows DLC Pack 3 - Watchdog Man | 134064 | [134064-one-punch-man-a-hero-nobody-knows-dlc-pack-3-watchdog-man.json](./134064-one-punch-man-a-hero-nobody-knows-dlc-pack-3-watchdog-man.json) |
@@ -1929,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otome Senki | 304733 | [304733-otome-senki.json](./304733-otome-senki.json) |
 | Otome the Exorcist | 158045 | [158045-otome-the-exorcist.json](./158045-otome-the-exorcist.json) |
 | Otometeki Koi Kakumei Love Revo!! | 70678 | [70678-otometeki-koi-kakumei-love-revo.json](./70678-otometeki-koi-kakumei-love-revo.json) |
+| Otomon Drop: Monster Hunter Stories | 175726 | [175726-otomon-drop-monster-hunter-stories.json](./175726-otomon-drop-monster-hunter-stories.json) |
 | Otona no Gal Jan Kimi ni Hane Man | 248628 | [248628-otona-no-gal-jan-kimi-ni-hane-man.json](./248628-otona-no-gal-jan-kimi-ni-hane-man.json) |
 | Otona no Joushikiryoku Training DS | 68029 | [68029-otona-no-joushikiryoku-training-ds.json](./68029-otona-no-joushikiryoku-training-ds.json) |
 | Otonari Koi Sensou! | 194547 | [194547-otonari-koi-sensou.json](./194547-otonari-koi-sensou.json) |
