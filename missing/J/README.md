@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jagged Alliance Online: Reloaded - Raven | 168750 | [168750-jagged-alliance-online-reloaded-raven.json](./168750-jagged-alliance-online-reloaded-raven.json) |
 | Jagged Alliance Online: Reloaded - Shadow | 168752 | [168752-jagged-alliance-online-reloaded-shadow.json](./168752-jagged-alliance-online-reloaded-shadow.json) |
 | Jagged Alliance: Back in Action | 1008 | [1008-jagged-alliance-back-in-action.json](./1008-jagged-alliance-back-in-action.json) |
+| Jagged Bone | 177826 | [177826-jagged-bone.json](./177826-jagged-bone.json) |
 | Jaghund Armoured Organ Delivery Service | 329941 | [329941-jaghund-armoured-organ-delivery-service.json](./329941-jaghund-armoured-organ-delivery-service.json) |
 | Jagot | 267393 | [267393-jagot.json](./267393-jagot.json) |
 | Jaguar Drift Simulator | 104589 | [104589-jaguar-drift-simulator.json](./104589-jaguar-drift-simulator.json) |
