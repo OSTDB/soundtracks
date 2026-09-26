@@ -2606,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Island Project | 284330 | [284330-living-island-project.json](./284330-living-island-project.json) |
 | Living Labyrinth | 185139 | [185139-living-labyrinth.json](./185139-living-labyrinth.json) |
 | Living Legends: Beasts of Bremen | 188004 | [188004-living-legends-beasts-of-bremen.json](./188004-living-legends-beasts-of-bremen.json) |
+| Living Legends: Bound by Wishes - Collector's Edition | 212207 | [212207-living-legends-bound-by-wishes-collectors-edition.json](./212207-living-legends-bound-by-wishes-collectors-edition.json) |
 | Living Legends: Frozen Beauty Collector's Edition | 355542 | [355542-living-legends-frozen-beauty-collectors-edition.json](./355542-living-legends-frozen-beauty-collectors-edition.json) |
 | Living Legends: Haunting Melody | 355552 | [355552-living-legends-haunting-melody.json](./355552-living-legends-haunting-melody.json) |
 | Living Legends: The Red Trace - Collector's Edition | 340557 | [340557-living-legends-the-red-trace-collectors-edition.json](./340557-living-legends-the-red-trace-collectors-edition.json) |
