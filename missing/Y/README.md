@@ -785,7 +785,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yurivania 3: Circle of the Polycule | 364533 | [364533-yurivania-3-circle-of-the-polycule.json](./364533-yurivania-3-circle-of-the-polycule.json) |
 | Yurivania: Uhaul of the Night | 206156 | [206156-yurivania-uhaul-of-the-night.json](./206156-yurivania-uhaul-of-the-night.json) |
 | Yuru Yuru Gekijou Classic | 221254 | [221254-yuru-yuru-gekijou-classic.json](./221254-yuru-yuru-gekijou-classic.json) |
+| Yuru-fuwa Ball | 206677 | [206677-yuru-fuwa-ball.json](./206677-yuru-fuwa-ball.json) |
 | Yuru-GeGeGe no Kitaro | 223972 | [223972-yuru-gegege-no-kitaro.json](./223972-yuru-gegege-no-kitaro.json) |
+| Yuru-huwa Souls | 206678 | [206678-yuru-huwa-souls.json](./206678-yuru-huwa-souls.json) |
 | Yuru-i GeGeGe no Kitaro: Yokai Dotabata Daisensou | 227364 | [227364-yuru-i-gegege-no-kitaro-yokai-dotabata-daisensou.json](./227364-yuru-i-gegege-no-kitaro-yokai-dotabata-daisensou.json) |
 | Yuru-yuru Gekijou: Gekijou-ban - Kanketsu-hen: Sanbu-sak | 256272 | [256272-yuru-yuru-gekijou-gekijou-ban-kanketsu-hen-sanbu-sak.json](./256272-yuru-yuru-gekijou-gekijou-ban-kanketsu-hen-sanbu-sak.json) |
 | Yurukill: The Calumniation Games - Deluxe Edition | 175976 | [175976-yurukill-the-calumniation-games-deluxe-edition.json](./175976-yurukill-the-calumniation-games-deluxe-edition.json) |
