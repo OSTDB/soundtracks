@@ -1563,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit Quest | 107201 | [107201-orbit-quest.json](./107201-orbit-quest.json) |
 | Orbit: Satellite Defense | 83942 | [83942-orbit-satellite-defense.json](./83942-orbit-satellite-defense.json) |
 | Orbit.Industries | 194457 | [194457-orbit-industries.json](./194457-orbit-industries.json) |
+| Orbital | 208895 | [208895-orbital.json](./208895-orbital.json) |
 | Orbital 1 | 96089 | [96089-orbital-1.json](./96089-orbital-1.json) |
 | Orbital Bombardment | 237078 | [237078-orbital-bombardment.json](./237078-orbital-bombardment.json) |
 | Orbital Clash | 226165 | [226165-orbital-clash.json](./226165-orbital-clash.json) |
@@ -1604,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orchard Odyssey: Chestnut Christmas | 391146 | [391146-orchard-odyssey-chestnut-christmas.json](./391146-orchard-odyssey-chestnut-christmas.json) |
 | Orchard Odyssey: Pumpkin Party | 375440 | [375440-orchard-odyssey-pumpkin-party.json](./375440-orchard-odyssey-pumpkin-party.json) |
 | Orchard Outbreak: Slime Time | 383955 | [383955-orchard-outbreak-slime-time.json](./383955-orchard-outbreak-slime-time.json) |
+| Orchidia | 208893 | [208893-orchidia.json](./208893-orchidia.json) |
 | Orchids to Dusk | 135906 | [135906-orchids-to-dusk.json](./135906-orchids-to-dusk.json) |
 | Orcish Skies | 260184 | [260184-orcish-skies.json](./260184-orcish-skies.json) |
 | Orcs & Elves | 21527 | [21527-orcs-and-elves.json](./21527-orcs-and-elves.json) |
@@ -1766,7 +1768,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oscar | 12456 | [12456-oscar.json](./12456-oscar.json) |
 | Oscar der Ballonfahrer taucht unter | 86031 | [86031-oscar-der-ballonfahrer-taucht-unter.json](./86031-oscar-der-ballonfahrer-taucht-unter.json) |
 | Oscar Mike VR | 30810 | [30810-oscar-mike-vr.json](./30810-oscar-mike-vr.json) |
+| Oscar the Ballonist & The Secrets of the Forest | 208889 | [208889-oscar-the-ballonist-and-the-secrets-of-the-forest.json](./208889-oscar-the-ballonist-and-the-secrets-of-the-forest.json) |
+| Oscar the Ballonist flies into the Mountains | 208890 | [208890-oscar-the-ballonist-flies-into-the-mountains.json](./208890-oscar-the-ballonist-flies-into-the-mountains.json) |
 | Oscar the Balloonist Discovers the Farm | 250604 | [250604-oscar-the-balloonist-discovers-the-farm.json](./250604-oscar-the-balloonist-discovers-the-farm.json) |
+| Oscar the Balloonist: Discovers the Farm | 208891 | [208891-oscar-the-balloonist-discovers-the-farm.json](./208891-oscar-the-balloonist-discovers-the-farm.json) |
+| Oscar the Balloonist: Drops Into the Country Side | 208888 | [208888-oscar-the-balloonist-drops-into-the-country-side.json](./208888-oscar-the-balloonist-drops-into-the-country-side.json) |
+| Oscar the Balloonist: My Creative Workshop | 208887 | [208887-oscar-the-balloonist-my-creative-workshop.json](./208887-oscar-the-balloonist-my-creative-workshop.json) |
 | Oscar Wilde Card | 220615 | [220615-oscar-wilde-card.json](./220615-oscar-wilde-card.json) |
 | Oscar's World Tour | 65749 | [65749-oscars-world-tour.json](./65749-oscars-world-tour.json) |
 | Oscarzinho e o Bug do Esporte | 218411 | [218411-oscarzinho-e-o-bug-do-esporte.json](./218411-oscarzinho-e-o-bug-do-esporte.json) |
@@ -2230,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oven Dodgers | 281395 | [281395-oven-dodgers.json](./281395-oven-dodgers.json) |
 | OvenBreak | 284436 | [284436-ovenbreak.json](./284436-ovenbreak.json) |
 | Over 1000 Jigsaw Puzzles | 228409 | [228409-over-1000-jigsaw-puzzles.json](./228409-over-1000-jigsaw-puzzles.json) |
+| Over blood | 208898 | [208898-over-blood.json](./208898-over-blood.json) |
 | Over Circle | 161223 | [161223-over-circle.json](./161223-over-circle.json) |
 | Over Clock | 336693 | [336693-over-clock.json](./336693-over-clock.json) |
 | Over Engineered | 406076 | [406076-over-engineered.json](./406076-over-engineered.json) |
@@ -2255,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over The Top: WWI | 291749 | [291749-over-the-top-wwi.json](./291749-over-the-top-wwi.json) |
 | Over-Run | 220618 | [220618-over-run.json](./220618-over-run.json) |
 | Overage: Child of Chaos | 203306 | [203306-overage-child-of-chaos.json](./203306-overage-child-of-chaos.json) |
+| Overball | 208899 | [208899-overball.json](./208899-overball.json) |
 | Overbeast | 247169 | [247169-overbeast.json](./247169-overbeast.json) |
 | OverBlood 2 | 20000 | [20000-overblood-2.json](./20000-overblood-2.json) |
 | Overboard | 122430 | [122430-overboard.json](./122430-overboard.json) |
