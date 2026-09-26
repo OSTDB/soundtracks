@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemono Friends | 109605 | [109605-kemono-friends.json](./109605-kemono-friends.json) |
 | Kemono Friends Pavilion | 214738 | [214738-kemono-friends-pavilion.json](./214738-kemono-friends-pavilion.json) |
 | Kemono Friends Picross | 107655 | [107655-kemono-friends-picross.json](./107655-kemono-friends-picross.json) |
+| Kemono Friends: Cellien May Cry | 199376 | [199376-kemono-friends-cellien-may-cry.json](./199376-kemono-friends-cellien-may-cry.json) |
 | Kemono Friends: Neko to Wakai se yo | 254533 | [254533-kemono-friends-neko-to-wakai-se-yo.json](./254533-kemono-friends-neko-to-wakai-se-yo.json) |
 | Kemono Friends: Opening Day | 247776 | [247776-kemono-friends-opening-day.json](./247776-kemono-friends-opening-day.json) |
 | Kemono Labyrinth | 225729 | [225729-kemono-labyrinth.json](./225729-kemono-labyrinth.json) |
@@ -2013,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokoro no Doki Doki Senpai?? | 150133 | [150133-kokoro-no-doki-doki-senpai.json](./150133-kokoro-no-doki-doki-senpai.json) |
 | Kokoro no Pro | 266870 | [266870-kokoro-no-pro.json](./266870-kokoro-no-pro.json) |
 | Kokoro Talkers | 325446 | [325446-kokoro-talkers.json](./325446-kokoro-talkers.json) |
+| Kokoro Ultimate | 199352 | [199352-kokoro-ultimate.json](./199352-kokoro-ultimate.json) |
 | Kokoro: Baka-Monogatari | 150134 | [150134-kokoro-baka-monogatari.json](./150134-kokoro-baka-monogatari.json) |
 | Kokoro's Gensokyo Journey: The Lost Masks | 207773 | [207773-kokoros-gensokyo-journey-the-lost-masks.json](./207773-kokoros-gensokyo-journey-the-lost-masks.json) |
 | Kokorogawari: Mini Quiz Game | 169944 | [169944-kokorogawari-mini-quiz-game.json](./169944-kokorogawari-mini-quiz-game.json) |
