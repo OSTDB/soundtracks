@@ -2400,6 +2400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maumau and the Labyrinth | 330860 | [330860-maumau-and-the-labyrinth.json](./330860-maumau-and-the-labyrinth.json) |
 | Maurice Sendak's Little Bear: Toddler Discovery Adventures | 316781 | [316781-maurice-sendaks-little-bear-toddler-discovery-adventures.json](./316781-maurice-sendaks-little-bear-toddler-discovery-adventures.json) |
 | Maurice: In the Predator's Nest | 227770 | [227770-maurice-in-the-predators-nest.json](./227770-maurice-in-the-predators-nest.json) |
+| Mauritius Atoll | 176294 | [176294-mauritius-atoll.json](./176294-mauritius-atoll.json) |
 | Mausoleosis | 302951 | [302951-mausoleosis.json](./302951-mausoleosis.json) |
 | Mausoleum of the Medusa | 25604 | [25604-mausoleum-of-the-medusa.json](./25604-mausoleum-of-the-medusa.json) |
 | Mave's Castle | 415323 | [415323-maves-castle.json](./415323-maves-castle.json) |
@@ -3714,6 +3715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merch Tycoon | 102138 | [102138-merch-tycoon.json](./102138-merch-tycoon.json) |
 | Merchant | 139231 | [139231-merchant.json](./139231-merchant.json) |
 | Merchant | 7714 | [7714-merchant.json](./7714-merchant.json) |
+| Merchant Empire | 176270 | [176270-merchant-empire.json](./176270-merchant-empire.json) |
 | Merchant in Dungeon | 240788 | [240788-merchant-in-dungeon.json](./240788-merchant-in-dungeon.json) |
 | Merchant's Game | 164519 | [164519-merchants-game.json](./164519-merchants-game.json) |
 | Merchants & Mercenaries | 30846 | [30846-merchants-and-mercenaries.json](./30846-merchants-and-mercenaries.json) |
@@ -4796,6 +4798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Games | 33393 | [33393-mind-games.json](./33393-mind-games.json) |
 | Mind Games | 81416 | [81416-mind-games.json](./81416-mind-games.json) |
 | Mind Her Manor | 312325 | [312325-mind-her-manor.json](./312325-mind-her-manor.json) |
+| Mind if I drop in? | 176288 | [176288-mind-if-i-drop-in.json](./176288-mind-if-i-drop-in.json) |
 | Mind In Despair | 231917 | [231917-mind-in-despair.json](./231917-mind-in-despair.json) |
 | Mind Jab | 227846 | [227846-mind-jab.json](./227846-mind-jab.json) |
 | Mind Keeper | 296974 | [296974-mind-keeper.json](./296974-mind-keeper.json) |
