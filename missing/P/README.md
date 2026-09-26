@@ -3318,6 +3318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Horizons | 341572 | [341572-pixel-horizons.json](./341572-pixel-horizons.json) |
 | Pixel House: Color by Number | 328494 | [328494-pixel-house-color-by-number.json](./328494-pixel-house-color-by-number.json) |
 | Pixel Hunt | 304621 | [304621-pixel-hunt.json](./304621-pixel-hunt.json) |
+| Pixel Islands | 177328 | [177328-pixel-islands.json](./177328-pixel-islands.json) |
 | Pixel Kane | 273439 | [273439-pixel-kane.json](./273439-pixel-kane.json) |
 | Pixel Knight | 252675 | [252675-pixel-knight.json](./252675-pixel-knight.json) |
 | Pixel Knights Online | 227375 | [227375-pixel-knights-online.json](./227375-pixel-knights-online.json) |
@@ -6277,6 +6278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Highrise: Miami Malls | 51883 | [51883-project-highrise-miami-malls.json](./51883-project-highrise-miami-malls.json) |
 | Project Highrise: Tokyo Towers | 124798 | [124798-project-highrise-tokyo-towers.json](./124798-project-highrise-tokyo-towers.json) |
 | Project Hive | 317034 | [317034-project-hive.json](./317034-project-hive.json) |
+| Project Home | 177336 | [177336-project-home.json](./177336-project-home.json) |
 | Project Homecoming Haven | 300711 | [300711-project-homecoming-haven.json](./300711-project-homecoming-haven.json) |
 | Project Horror Anthology: Project Prequel | 244183 | [244183-project-horror-anthology-project-prequel.json](./244183-project-horror-anthology-project-prequel.json) |
 | Project Horror Tales | 240174 | [240174-project-horror-tales.json](./240174-project-horror-tales.json) |
