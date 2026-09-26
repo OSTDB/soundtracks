@@ -2448,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Adventures: Kinky Bondage | 226145 | [226145-sex-adventures-kinky-bondage.json](./226145-sex-adventures-kinky-bondage.json) |
 | Sex Adventures: Mile High Club | 286528 | [286528-sex-adventures-mile-high-club.json](./286528-sex-adventures-mile-high-club.json) |
 | Sex Adventures: Modeling Audition | 219599 | [219599-sex-adventures-modeling-audition.json](./219599-sex-adventures-modeling-audition.json) |
+| Sex Adventures: Office Affairs | 223406 | [223406-sex-adventures-office-affairs.json](./223406-sex-adventures-office-affairs.json) |
 | Sex Adventures: Swingers Gym | 212800 | [212800-sex-adventures-swingers-gym.json](./212800-sex-adventures-swingers-gym.json) |
 | Sex Adventures: The Bar Hookup | 219600 | [219600-sex-adventures-the-bar-hookup.json](./219600-sex-adventures-the-bar-hookup.json) |
 | Sex Adventures: The Pool Party | 213459 | [213459-sex-adventures-the-pool-party.json](./213459-sex-adventures-the-pool-party.json) |
@@ -5016,6 +5017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Tower | 34625 | [34625-sky-tower.json](./34625-sky-tower.json) |
 | Sky Track | 54372 | [54372-sky-track.json](./54372-sky-track.json) |
 | Sky Trader | 29789 | [29789-sky-trader.json](./29789-sky-trader.json) |
+| Sky Traveler | 223384 | [223384-sky-traveler.json](./223384-sky-traveler.json) |
 | Sky Utopia | 233449 | [233449-sky-utopia.json](./233449-sky-utopia.json) |
 | Sky Valley | 31947 | [31947-sky-valley.json](./31947-sky-valley.json) |
 | Sky War | 272802 | [272802-sky-war.json](./272802-sky-war.json) |
@@ -7750,6 +7752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Drilling Station | 250028 | [250028-space-drilling-station.json](./250028-space-drilling-station.json) |
 | Space Drop | 290505 | [290505-space-drop.json](./290505-space-drop.json) |
 | Space Ducks: The Great Escape | 199658 | [199658-space-ducks-the-great-escape.json](./199658-space-ducks-the-great-escape.json) |
+| Space Dudes vs Alien Dudes | 223389 | [223389-space-dudes-vs-alien-dudes.json](./223389-space-dudes-vs-alien-dudes.json) |
 | Space Eater Force | 182919 | [182919-space-eater-force.json](./182919-space-eater-force.json) |
 | Space Egg Shooter | 199482 | [199482-space-egg-shooter.json](./199482-space-egg-shooter.json) |
 | Space electrician | 126668 | [126668-space-electrician.json](./126668-space-electrician.json) |
@@ -10482,6 +10485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stella of the End: First Press Limited Edition | 379954 | [379954-stella-of-the-end-first-press-limited-edition.json](./379954-stella-of-the-end-first-press-limited-edition.json) |
 | Stella Supernova: The Astral Vale | 417538 | [417538-stella-supernova-the-astral-vale.json](./417538-stella-supernova-the-astral-vale.json) |
 | Stella's Pointless Castle Awakening | 232951 | [232951-stellas-pointless-castle-awakening.json](./232951-stellas-pointless-castle-awakening.json) |
+| Stellabits | 223405 | [223405-stellabits.json](./223405-stellabits.json) |
 | Stellanova | 216264 | [216264-stellanova.json](./216264-stellanova.json) |
 | Stellar 2D | 34763 | [34763-stellar-2d.json](./34763-stellar-2d.json) |
 | Stellar 7 | 14513 | [14513-stellar-7.json](./14513-stellar-7.json) |
@@ -11956,6 +11960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summit in Space | 164905 | [164905-summit-in-space.json](./164905-summit-in-space.json) |
 | Summit of the Wolf | 119033 | [119033-summit-of-the-wolf.json](./119033-summit-of-the-wolf.json) |
 | Summon | 263754 | [263754-summon.json](./263754-summon.json) |
+| Summon Elemental | 223402 | [223402-summon-elemental.json](./223402-summon-elemental.json) |
 | Summon Legion | 317988 | [317988-summon-legion.json](./317988-summon-legion.json) |
 | Summon My Girl | 278702 | [278702-summon-my-girl.json](./278702-summon-my-girl.json) |
 | Summon Night 3 | 13108 | [13108-summon-night-3.json](./13108-summon-night-3.json) |
@@ -13652,6 +13657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival & Horror: Hangman's Rope | 244273 | [244273-survival-and-horror-hangmans-rope.json](./244273-survival-and-horror-hangmans-rope.json) |
 | Survival & Horror: Mortanis Prisoners Prologue | 253422 | [253422-survival-and-horror-mortanis-prisoners-prologue.json](./253422-survival-and-horror-mortanis-prisoners-prologue.json) |
 | Survival & Horror: The Damned City | 244750 | [244750-survival-and-horror-the-damned-city.json](./244750-survival-and-horror-the-damned-city.json) |
+| Survival Academy | 223379 | [223379-survival-academy.json](./223379-survival-academy.json) |
 | Survival After War | 319773 | [319773-survival-after-war.json](./319773-survival-after-war.json) |
 | Survival Arena | 76568 | [76568-survival-arena.json](./76568-survival-arena.json) |
 | Survival Arts | 39586 | [39586-survival-arts.json](./39586-survival-arts.json) |
@@ -14343,6 +14349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synchro | 296994 | [296994-synchro.json](./296994-synchro.json) |
 | Synchro Hedgehogs Bundle | 218466 | [218466-synchro-hedgehogs-bundle.json](./218466-synchro-hedgehogs-bundle.json) |
 | Synchrom | 34710 | [34710-synchrom.json](./34710-synchrom.json) |
+| Synchronicity | 223400 | [223400-synchronicity.json](./223400-synchronicity.json) |
 | Synchronity | 381116 | [381116-synchronity.json](./381116-synchronity.json) |
 | Synchronizacja | 187539 | [187539-synchronizacja.json](./187539-synchronizacja.json) |
 | Synchronizers: Undead Marines | 154373 | [154373-synchronizers-undead-marines.json](./154373-synchronizers-undead-marines.json) |
