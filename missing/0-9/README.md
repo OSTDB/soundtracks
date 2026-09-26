@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw: Earth Chronicles 3 | 90040 | [90040-1001-jigsaw-earth-chronicles-3.json](./90040-1001-jigsaw-earth-chronicles-3.json) |
 | 1001 Jigsaw: Earth Chronicles 4 | 87252 | [87252-1001-jigsaw-earth-chronicles-4.json](./87252-1001-jigsaw-earth-chronicles-4.json) |
 | 1001 Jigsaw: Earth Chronicles 8 | 199582 | [199582-1001-jigsaw-earth-chronicles-8.json](./199582-1001-jigsaw-earth-chronicles-8.json) |
+| 1001 Jigsaw: Home Sweet Home - Back from Vacation | 188933 | [188933-1001-jigsaw-home-sweet-home-back-from-vacation.json](./188933-1001-jigsaw-home-sweet-home-back-from-vacation.json) |
 | 1001 Jigsaw: Ice Age | 268041 | [268041-1001-jigsaw-ice-age.json](./268041-1001-jigsaw-ice-age.json) |
 | 1001 Jigsaw: Legends of Mystery 4 | 200701 | [200701-1001-jigsaw-legends-of-mystery-4.json](./200701-1001-jigsaw-legends-of-mystery-4.json) |
 | 1001 Jigsaw: Legends of Mystery 6 | 212899 | [212899-1001-jigsaw-legends-of-mystery-6.json](./212899-1001-jigsaw-legends-of-mystery-6.json) |
