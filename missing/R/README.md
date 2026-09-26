@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Squad | 261860 | [261860-raccoon-squad.json](./261860-raccoon-squad.json) |
 | Raccoon Survival Simulator | 401540 | [401540-raccoon-survival-simulator.json](./401540-raccoon-survival-simulator.json) |
 | Raccoon Tales | 200573 | [200573-raccoon-tales.json](./200573-raccoon-tales.json) |
+| Raccoon Unhappy | 199916 | [199916-raccoon-unhappy.json](./199916-raccoon-unhappy.json) |
 | Raccoon Valley Tycoon | 373083 | [373083-raccoon-valley-tycoon.json](./373083-raccoon-valley-tycoon.json) |
 | Raccoonwave | 307120 | [307120-raccoonwave.json](./307120-raccoonwave.json) |
 | Race 07: Formula RaceRoom | 120183 | [120183-race-07-formula-raceroom.json](./120183-race-07-formula-raceroom.json) |
@@ -498,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain of Pumpkins | 75071 | [75071-rain-of-pumpkins.json](./75071-rain-of-pumpkins.json) |
 | Rain of Reflections | 58544 | [58544-rain-of-reflections.json](./58544-rain-of-reflections.json) |
 | Rain on their Parade! | 252080 | [252080-rain-on-their-parade.json](./252080-rain-on-their-parade.json) |
+| Rain on Your Parade: Rain on Your DLC | 199914 | [199914-rain-on-your-parade-rain-on-your-dlc.json](./199914-rain-on-your-parade-rain-on-your-dlc.json) |
 | Rain Ruin | 207358 | [207358-rain-ruin.json](./207358-rain-ruin.json) |
 | Rain Station Z | 410414 | [410414-rain-station-z.json](./410414-rain-station-z.json) |
 | Rain World: Deluxe Edition | 290437 | [290437-rain-world-deluxe-edition.json](./290437-rain-world-deluxe-edition.json) |
@@ -3626,6 +3628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboMaze III: The Dome | 78029 | [78029-robomaze-iii-the-dome.json](./78029-robomaze-iii-the-dome.json) |
 | RoboMaze: The Basement | 59927 | [59927-robomaze-the-basement.json](./59927-robomaze-the-basement.json) |
 | Robopost | 244195 | [244195-robopost.json](./244195-robopost.json) |
+| RoboQuest | 199912 | [199912-roboquest.json](./199912-roboquest.json) |
 | Roboquest VR | 313774 | [313774-roboquest-vr.json](./313774-roboquest-vr.json) |
 | Roborobi | 357808 | [357808-roborobi.json](./357808-roborobi.json) |
 | RoBoRumble | 26485 | [26485-roborumble.json](./26485-roborumble.json) |
