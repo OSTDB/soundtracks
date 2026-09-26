@@ -4021,6 +4021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Tarzan: Untamed | 10625 | [10625-disneys-tarzan-untamed.json](./10625-disneys-tarzan-untamed.json) |
 | Disney's The Lion King | 204572 | [204572-disneys-the-lion-king.json](./204572-disneys-the-lion-king.json) |
 | Disney's The Lion King: Simba's Mighty Adventure | 45228 | [45228-disneys-the-lion-king-simbas-mighty-adventure.json](./45228-disneys-the-lion-king-simbas-mighty-adventure.json) |
+| Disney's The Little Mermaid | 217836 | [217836-disneys-the-little-mermaid.json](./217836-disneys-the-little-mermaid.json) |
 | Disney's The Little Mermaid II: Pinball Frenzy | 49919 | [49919-disneys-the-little-mermaid-ii-pinball-frenzy.json](./49919-disneys-the-little-mermaid-ii-pinball-frenzy.json) |
 | Disney's The Little Mermaid II: Return to the Sea | 314908 | [314908-disneys-the-little-mermaid-ii-return-to-the-sea.json](./314908-disneys-the-little-mermaid-ii-return-to-the-sea.json) |
 | Disney's The Little Mermaid: Ariel's Majestic Journey | 258692 | [258692-disneys-the-little-mermaid-ariels-majestic-journey.json](./258692-disneys-the-little-mermaid-ariels-majestic-journey.json) |
@@ -4561,6 +4562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Sayori Date! | 332855 | [332855-doki-doki-sayori-date.json](./332855-doki-doki-sayori-date.json) |
 | Doki Doki Silver & Emerald | 334693 | [334693-doki-doki-silver-and-emerald.json](./334693-doki-doki-silver-and-emerald.json) |
 | Doki Doki Takeover!: Bad Ending | 208412 | [208412-doki-doki-takeover-bad-ending.json](./208412-doki-doki-takeover-bad-ending.json) |
+| Doki Doki Tegami Relay | 217845 | [217845-doki-doki-tegami-relay.json](./217845-doki-doki-tegami-relay.json) |
 | Doki Doki Theo Club | 374835 | [374835-doki-doki-theo-club.json](./374835-doki-doki-theo-club.json) |
 | Doki Doki Tri-Line Quest | 191218 | [191218-doki-doki-tri-line-quest.json](./191218-doki-doki-tri-line-quest.json) |
 | Doki Doki Tutorial! | 256833 | [256833-doki-doki-tutorial.json](./256833-doki-doki-tutorial.json) |
