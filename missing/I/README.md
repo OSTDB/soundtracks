@@ -1143,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impulse Rogue | 199572 | [199572-impulse-rogue.json](./199572-impulse-rogue.json) |
 | Impulse: Space Combat | 37035 | [37035-impulse-space-combat.json](./37035-impulse-space-combat.json) |
 | Impulse!: Brick breaker | 253016 | [253016-impulse-brick-breaker.json](./253016-impulse-brick-breaker.json) |
+| Impulsers | 194270 | [194270-impulsers.json](./194270-impulsers.json) |
 | Impulsive Force | 187365 | [187365-impulsive-force.json](./187365-impulsive-force.json) |
 | Impunes | 345147 | [345147-impunes.json](./345147-impunes.json) |
 | IMSA World Championship Racing | 237511 | [237511-imsa-world-championship-racing.json](./237511-imsa-world-championship-racing.json) |
@@ -1318,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indeep | 55503 | [55503-indeep.json](./55503-indeep.json) |
 | Indekos | 328613 | [328613-indekos.json](./328613-indekos.json) |
 | Indenture | 212208 | [212208-indenture.json](./212208-indenture.json) |
+| Independant Video Video Game | 194307 | [194307-independant-video-video-game.json](./194307-independant-video-video-game.json) |
 | Independence Day Resurgence: Battle Heroes | 354411 | [354411-independence-day-resurgence-battle-heroes.json](./354411-independence-day-resurgence-battle-heroes.json) |
 | Independence Day Run | 229039 | [229039-independence-day-run.json](./229039-independence-day-run.json) |
 | Independence War: Defiance | 62990 | [62990-independence-war-defiance.json](./62990-independence-war-defiance.json) |
@@ -2168,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into The Wild | 377583 | [377583-into-the-wild.json](./377583-into-the-wild.json) |
 | Into the Woods | 230293 | [230293-into-the-woods.json](./230293-into-the-woods.json) |
 | Intoxicated Driver | 286136 | [286136-intoxicated-driver.json](./286136-intoxicated-driver.json) |
+| Intra-System: Trust Issues | 194282 | [194282-intra-system-trust-issues.json](./194282-intra-system-trust-issues.json) |
 | Intrana | 310207 | [310207-intrana.json](./310207-intrana.json) |
 | Intransigent | 326275 | [326275-intransigent.json](./326275-intransigent.json) |
 | Intraquartz | 215034 | [215034-intraquartz.json](./215034-intraquartz.json) |
@@ -2327,6 +2330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ipuppet Presents: Colin's Classic Cards | 210022 | [210022-ipuppet-presents-colins-classic-cards.json](./210022-ipuppet-presents-colins-classic-cards.json) |
 | IPuppy World | 175290 | [175290-ipuppy-world.json](./175290-ipuppy-world.json) |
 | IQ Dungeon | 199904 | [199904-iq-dungeon.json](./199904-iq-dungeon.json) |
+| IQ Jump | 194295 | [194295-iq-jump.json](./194295-iq-jump.json) |
 | IQ Logic Codes: Number & Letter Puzzles | 415062 | [415062-iq-logic-codes-number-and-letter-puzzles.json](./415062-iq-logic-codes-number-and-letter-puzzles.json) |
 | IQ Wars | 89171 | [89171-iq-wars.json](./89171-iq-wars.json) |
 | Ir/rational Investigator | 110316 | [110316-ir-rational-investigator.json](./110316-ir-rational-investigator.json) |
