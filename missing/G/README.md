@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaforce | 13719 | [13719-galaforce.json](./13719-galaforce.json) |
 | Galaga | 239156 | [239156-galaga.json](./239156-galaga.json) |
 | Galaga 30th Collection | 25188 | [25188-galaga-30th-collection.json](./25188-galaga-30th-collection.json) |
+| Galaga Arrangement | 178409 | [178409-galaga-arrangement.json](./178409-galaga-arrangement.json) |
 | Galaga Assault | 58475 | [58475-galaga-assault.json](./58475-galaga-assault.json) |
 | Galaga Wars+ | 291975 | [291975-galaga-wars.json](./291975-galaga-wars.json) |
 | Galaga Wave Mixer | 339253 | [339253-galaga-wave-mixer.json](./339253-galaga-wave-mixer.json) |
@@ -2824,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good-Bye to Youtopia | 321546 | [321546-good-bye-to-youtopia.json](./321546-good-bye-to-youtopia.json) |
 | Goodboy Galaxy/Witch n' Wiz | 260091 | [260091-goodboy-galaxy-witch-n-wiz.json](./260091-goodboy-galaxy-witch-n-wiz.json) |
 | Goodbye | 130741 | [130741-goodbye.json](./130741-goodbye.json) |
+| Goodbye | 178455 | [178455-goodbye.json](./178455-goodbye.json) |
 | Goodbye Cendrillon | 285991 | [285991-goodbye-cendrillon.json](./285991-goodbye-cendrillon.json) |
 | Goodbye Deponia: Premium Edition | 54069 | [54069-goodbye-deponia-premium-edition.json](./54069-goodbye-deponia-premium-edition.json) |
 | Goodbye, Doggy | 135905 | [135905-goodbye-doggy.json](./135905-goodbye-doggy.json) |
