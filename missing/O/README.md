@@ -1501,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Outbreak Idle | 405539 | [405539-operation-outbreak-idle.json](./405539-operation-outbreak-idle.json) |
 | Operation: Polygon Storm | 239775 | [239775-operation-polygon-storm.json](./239775-operation-polygon-storm.json) |
 | Operation: Surface Takeover | 344365 | [344365-operation-surface-takeover.json](./344365-operation-surface-takeover.json) |
+| Operation: Tango - Challenge Mode | 182256 | [182256-operation-tango-challenge-mode.json](./182256-operation-tango-challenge-mode.json) |
 | Operation: Thunder | 91403 | [91403-operation-thunder.json](./91403-operation-thunder.json) |
 | Operation: Vietnam | 20760 | [20760-operation-vietnam.json](./20760-operation-vietnam.json) |
 | Operation8 Project | 189935 | [189935-operation8-project.json](./189935-operation8-project.json) |
@@ -2321,6 +2322,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overcast and Light Rain | 185011 | [185011-overcast-and-light-rain.json](./185011-overcast-and-light-rain.json) |
 | Overcat | 373530 | [373530-overcat.json](./373530-overcat.json) |
 | Overcooked! 2: Surf 'n' Turf | 110575 | [110575-overcooked-2-surf-n-turf.json](./110575-overcooked-2-surf-n-turf.json) |
+| Overcooked! All You Can Eat: The Ever Peckish Rises | 182254 | [182254-overcooked-all-you-can-eat-the-ever-peckish-rises.json](./182254-overcooked-all-you-can-eat-the-ever-peckish-rises.json) |
+| Overcooked! All You Can Eat: The Overcooked Birthday Party | 182255 | [182255-overcooked-all-you-can-eat-the-overcooked-birthday-party.json](./182255-overcooked-all-you-can-eat-the-overcooked-birthday-party.json) |
 | Overcrowded | 185147 | [185147-overcrowded.json](./185147-overcrowded.json) |
 | Overcrowded: Tycoon | 200743 | [200743-overcrowded-tycoon.json](./200743-overcrowded-tycoon.json) |
 | Overcursed | 176494 | [176494-overcursed.json](./176494-overcursed.json) |
