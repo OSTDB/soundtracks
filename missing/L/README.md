@@ -3231,6 +3231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Ascension | 260099 | [260099-lost-ascension.json](./260099-lost-ascension.json) |
 | Lost Assassin | 157574 | [157574-lost-assassin.json](./157574-lost-assassin.json) |
 | Lost at Sea | 209139 | [209139-lost-at-sea.json](./209139-lost-at-sea.json) |
+| Lost Away | 191571 | [191571-lost-away.json](./191571-lost-away.json) |
 | Lost Between | 232914 | [232914-lost-between.json](./232914-lost-between.json) |
 | Lost Boy | 179063 | [179063-lost-boy.json](./179063-lost-boy.json) |
 | Lost Brother | 323895 | [323895-lost-brother.json](./323895-lost-brother.json) |
@@ -3249,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost City | 403010 | [403010-lost-city.json](./403010-lost-city.json) |
 | Lost Civilization 2 | 262991 | [262991-lost-civilization-2.json](./262991-lost-civilization-2.json) |
 | Lost Colony | 250422 | [250422-lost-colony.json](./250422-lost-colony.json) |
+| Lost Continent | 191553 | [191553-lost-continent.json](./191553-lost-continent.json) |
 | Lost Cosmonaut | 33402 | [33402-lost-cosmonaut.json](./33402-lost-cosmonaut.json) |
 | Lost Crab​ | 417663 | [417663-lost-crab.json](./417663-lost-crab.json) |
 | Lost Crypts | 94759 | [94759-lost-crypts.json](./94759-lost-crypts.json) |
