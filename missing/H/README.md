@@ -677,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Shape Blast | 241343 | [241343-happy-shape-blast.json](./241343-happy-shape-blast.json) |
 | Happy Sisters Life | 354442 | [354442-happy-sisters-life.json](./354442-happy-sisters-life.json) |
 | Happy Soccer Physics | 97311 | [97311-happy-soccer-physics.json](./97311-happy-soccer-physics.json) |
+| Happy Summer Quest | 189931 | [189931-happy-summer-quest.json](./189931-happy-summer-quest.json) |
 | Happy Tails Zoo Keeper | 54077 | [54077-happy-tails-zoo-keeper.json](./54077-happy-tails-zoo-keeper.json) |
 | Happy Time | 362282 | [362282-happy-time.json](./362282-happy-time.json) |
 | Happy Trails | 23685 | [23685-happy-trails.json](./23685-happy-trails.json) |
@@ -4254,6 +4255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Lap Racing | 265779 | [265779-hot-lap-racing.json](./265779-hot-lap-racing.json) |
 | Hot Love Dreams: Classic Hentai Logic Puzzle | 274502 | [274502-hot-love-dreams-classic-hentai-logic-puzzle.json](./274502-hot-love-dreams-classic-hentai-logic-puzzle.json) |
 | Hot Mars 69 | 89587 | [89587-hot-mars-69.json](./89587-hot-mars-69.json) |
+| Hot Milf 2 | 189976 | [189976-hot-milf-2.json](./189976-hot-milf-2.json) |
 | Hot Milf 4 | 192441 | [192441-hot-milf-4.json](./192441-hot-milf-4.json) |
 | Hot Milf 9 | 224222 | [224222-hot-milf-9.json](./224222-hot-milf-9.json) |
 | Hot MILF VR | 344432 | [344432-hot-milf-vr.json](./344432-hot-milf-vr.json) |
@@ -4470,6 +4472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Plague 0 | 107907 | [107907-house-of-plague-0.json](./107907-house-of-plague-0.json) |
 | House of Portals VR | 154384 | [154384-house-of-portals-vr.json](./154384-house-of-portals-vr.json) |
 | House of Shadow | 230907 | [230907-house-of-shadow.json](./230907-house-of-shadow.json) |
+| House of Sin | 189967 | [189967-house-of-sin.json](./189967-house-of-sin.json) |
 | House of Slender-Man | 64425 | [64425-house-of-slender-man.json](./64425-house-of-slender-man.json) |
 | House of Spikes | 271786 | [271786-house-of-spikes.json](./271786-house-of-spikes.json) |
 | House of Terror VR | 23336 | [23336-house-of-terror-vr.json](./23336-house-of-terror-vr.json) |
