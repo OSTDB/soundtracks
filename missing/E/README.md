@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EastEnders | 79304 | [79304-eastenders.json](./79304-eastenders.json) |
 | Easter | 130733 | [130733-easter.json](./130733-easter.json) |
 | Easter Bunneh | 79941 | [79941-easter-bunneh.json](./79941-easter-bunneh.json) |
+| Easter Bunny | 194998 | [194998-easter-bunny.json](./194998-easter-bunny.json) |
 | Easter Bunny | 278154 | [278154-easter-bunny.json](./278154-easter-bunny.json) |
 | Easter Bunny on Speed | 186270 | [186270-easter-bunny-on-speed.json](./186270-easter-bunny-on-speed.json) |
 | Easter Clicker: Idle Manager | 118339 | [118339-easter-clicker-idle-manager.json](./118339-easter-clicker-idle-manager.json) |
