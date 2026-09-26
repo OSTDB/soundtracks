@@ -4599,6 +4599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rot Forever | 371260 | [371260-rot-forever.json](./371260-rot-forever.json) |
 | Rot Gut | 34656 | [34656-rot-gut.json](./34656-rot-gut.json) |
 | Rot Splatation | 409809 | [409809-rot-splatation.json](./409809-rot-splatation.json) |
+| Rot: Purgatory Hill | 182811 | [182811-rot-purgatory-hill.json](./182811-rot-purgatory-hill.json) |
 | Rota | 291026 | [291026-rota.json](./291026-rota.json) |
 | Rota: Kurofune | 304146 | [304146-rota-kurofune.json](./304146-rota-kurofune.json) |
 | Rota's Nautical Chronicles of Trade | 302446 | [302446-rotas-nautical-chronicles-of-trade.json](./302446-rotas-nautical-chronicles-of-trade.json) |
