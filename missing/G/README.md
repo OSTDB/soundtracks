@@ -2214,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go West | 133998 | [133998-go-west.json](./133998-go-west.json) |
 | Go West! A Lucky Luke Adventure | 110321 | [110321-go-west-a-lucky-luke-adventure.json](./110321-go-west-a-lucky-luke-adventure.json) |
 | Go West! A Lucky Luke Adventure | 345551 | [345551-go-west-a-lucky-luke-adventure.json](./345551-go-west-a-lucky-luke-adventure.json) |
+| Go with the Flow | 192165 | [192165-go-with-the-flow.json](./192165-go-with-the-flow.json) |
 | Go-Go! Nekketsu Hockey Club Slip-and-Slide Madness | 48630 | [48630-go-go-nekketsu-hockey-club-slip-and-slide-madness.json](./48630-go-go-nekketsu-hockey-club-slip-and-slide-madness.json) |
 | Go-Jin Senki | 80525 | [80525-go-jin-senki.json](./80525-go-jin-senki.json) |
 | Go-Kart | 246489 | [246489-go-kart.json](./246489-go-kart.json) |
@@ -3352,6 +3353,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graviteam Tactics: Mius Front - Grim of Death | 155487 | [155487-graviteam-tactics-mius-front-grim-of-death.json](./155487-graviteam-tactics-mius-front-grim-of-death.json) |
 | Graviteam Tactics: Mius Front - Leopard's Leap | 155480 | [155480-graviteam-tactics-mius-front-leopards-leap.json](./155480-graviteam-tactics-mius-front-leopards-leap.json) |
 | Graviteam Tactics: Mius Front - Operation Moduler | 155478 | [155478-graviteam-tactics-mius-front-operation-moduler.json](./155478-graviteam-tactics-mius-front-operation-moduler.json) |
+| Graviteam Tactics: Mius Front - Operation Victory | 192163 | [192163-graviteam-tactics-mius-front-operation-victory.json](./192163-graviteam-tactics-mius-front-operation-victory.json) |
+| Graviteam Tactics: Mius Front - Pivot Point | 192162 | [192162-graviteam-tactics-mius-front-pivot-point.json](./192162-graviteam-tactics-mius-front-pivot-point.json) |
+| Graviteam Tactics: Mius Front - Raging Bridgehead | 192164 | [192164-graviteam-tactics-mius-front-raging-bridgehead.json](./192164-graviteam-tactics-mius-front-raging-bridgehead.json) |
 | Graviteam Tactics: Mius Front - Raid | 155482 | [155482-graviteam-tactics-mius-front-raid.json](./155482-graviteam-tactics-mius-front-raid.json) |
 | Graviteam Tactics: Mius Front - Strong Point | 155485 | [155485-graviteam-tactics-mius-front-strong-point.json](./155485-graviteam-tactics-mius-front-strong-point.json) |
 | Graviteam Tactics: Mius Front - The Day of the Olifant | 155491 | [155491-graviteam-tactics-mius-front-the-day-of-the-olifant.json](./155491-graviteam-tactics-mius-front-the-day-of-the-olifant.json) |
