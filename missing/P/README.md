@@ -6644,6 +6644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycholytic | 348235 | [348235-psycholytic.json](./348235-psycholytic.json) |
 | Psychomachia | 291218 | [291218-psychomachia.json](./291218-psychomachia.json) |
 | Psychonauts 2: Motherlobe Edition | 207394 | [207394-psychonauts-2-motherlobe-edition.json](./207394-psychonauts-2-motherlobe-edition.json) |
+| PsychoPhobia | 196025 | [196025-psychophobia.json](./196025-psychophobia.json) |
 | Psychophonies: What Ghosts Say | 238438 | [238438-psychophonies-what-ghosts-say.json](./238438-psychophonies-what-ghosts-say.json) |
 | Psychopomp Gold | 319765 | [319765-psychopomp-gold.json](./319765-psychopomp-gold.json) |
 | Psychosis: Teaser | 222863 | [222863-psychosis-teaser.json](./222863-psychosis-teaser.json) |
