@@ -5203,7 +5203,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misadventure In Little Lon | 125425 | [125425-misadventure-in-little-lon.json](./125425-misadventure-in-little-lon.json) |
 | Misadventures of Laura Silver - Chapter II | 121771 | [121771-misadventures-of-laura-silver-chapter-ii.json](./121771-misadventures-of-laura-silver-chapter-ii.json) |
 | Misao: Definitive Edition | 74567 | [74567-misao-definitive-edition.json](./74567-misao-definitive-edition.json) |
+| Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Asha Edition | 225040 | [225040-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-asha-edition.json](./225040-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-asha-edition.json) |
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Clara Edition | 232996 | [232996-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-clara-edition.json](./232996-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-clara-edition.json) |
+| Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Janice Edition | 225042 | [225042-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-janice-edition.json](./225042-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-janice-edition.json) |
+| Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Kuraara Edition | 225041 | [225041-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-kuraara-edition.json](./225041-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-kuraara-edition.json) |
+| Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Satsuki Edition | 225039 | [225039-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-satsuki-edition.json](./225039-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-satsuki-edition.json) |
 | Mischief Motors | 294130 | [294130-mischief-motors.json](./294130-mischief-motors.json) |
 | Miscreated | 17379 | [17379-miscreated.json](./17379-miscreated.json) |
 | Miscreated: Canyonlands | 171581 | [171581-miscreated-canyonlands.json](./171581-miscreated-canyonlands.json) |
