@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.T.A.L.K.E.R.: Oblivion Lost Remake | 138257 | [138257-s-t-a-l-k-e-r-oblivion-lost-remake.json](./138257-s-t-a-l-k-e-r-oblivion-lost-remake.json) |
 | S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition | 343442 | [343442-s-t-a-l-k-e-r-shadow-of-chornobyl-enhanced-edition.json](./343442-s-t-a-l-k-e-r-shadow-of-chornobyl-enhanced-edition.json) |
 | S.T.A.L.K.E.R.: Wind of Time | 138799 | [138799-s-t-a-l-k-e-r-wind-of-time.json](./138799-s-t-a-l-k-e-r-wind-of-time.json) |
+| S.T.A.R: Space Typing Action Rangers | 226684 | [226684-s-t-a-r-space-typing-action-rangers.json](./226684-s-t-a-r-space-typing-action-rangers.json) |
 | S.T.A.R.V.E. | 410263 | [410263-s-t-a-r-v-e.json](./410263-s-t-a-r-v-e.json) |
 | S.T.G: Strike Gunner | 39692 | [39692-s-t-g-strike-gunner.json](./39692-s-t-g-strike-gunner.json) |
 | S.T.R.E.T.C.H. | 100566 | [100566-s-t-r-e-t-c-h.json](./100566-s-t-r-e-t-c-h.json) |
@@ -11216,7 +11217,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Master | 45987 | [45987-street-master.json](./45987-street-master.json) |
 | Street of the Cats | 293631 | [293631-street-of-the-cats.json](./293631-street-of-the-cats.json) |
 | Street Outlaws 2: Winner Takes All | 162246 | [162246-street-outlaws-2-winner-takes-all.json](./162246-street-outlaws-2-winner-takes-all.json) |
+| Street Outlaws 2: Winner Takes All - Blazing Freedom Bundle | 226698 | [226698-street-outlaws-2-winner-takes-all-blazing-freedom-bundle.json](./226698-street-outlaws-2-winner-takes-all-blazing-freedom-bundle.json) |
 | Street Outlaws 2: Winner Takes All - Digital Deluxe Edition | 173797 | [173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json](./173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json) |
+| Street Outlaws 2: Winner Takes All - Ryan Martin Bundle | 226709 | [226709-street-outlaws-2-winner-takes-all-ryan-martin-bundle.json](./226709-street-outlaws-2-winner-takes-all-ryan-martin-bundle.json) |
+| Street Outlaws 2: Winner Takes All - Steel Thunder Bundle | 226699 | [226699-street-outlaws-2-winner-takes-all-steel-thunder-bundle.json](./226699-street-outlaws-2-winner-takes-all-steel-thunder-bundle.json) |
 | Street Paint Playground | 217991 | [217991-street-paint-playground.json](./217991-street-paint-playground.json) |
 | Street Power Football | 134708 | [134708-street-power-football.json](./134708-street-power-football.json) |
 | Street Pursuit | 266174 | [266174-street-pursuit.json](./266174-street-pursuit.json) |
@@ -13614,6 +13618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surreality | 71008 | [71008-surreality.json](./71008-surreality.json) |
 | Surreality Check | 387376 | [387376-surreality-check.json](./387376-surreality-check.json) |
 | SurrealVR | 33030 | [33030-surrealvr.json](./33030-surrealvr.json) |
+| Surrender | 226689 | [226689-surrender.json](./226689-surrender.json) |
 | Surrender | 313798 | [313798-surrender.json](./313798-surrender.json) |
 | Surrender 2 | 313799 | [313799-surrender-2.json](./313799-surrender-2.json) |
 | Surrounded by Death | 311613 | [311613-surrounded-by-death.json](./311613-surrounded-by-death.json) |
