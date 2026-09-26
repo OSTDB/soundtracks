@@ -2254,6 +2254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links: Championship Course - Troon North | 73319 | [73319-links-championship-course-troon-north.json](./73319-links-championship-course-troon-north.json) |
 | Linkz | 92995 | [92995-linkz.json](./92995-linkz.json) |
 | Linley Henzell's Dungeon Crawl | 84198 | [84198-linley-henzells-dungeon-crawl.json](./84198-linley-henzells-dungeon-crawl.json) |
+| Linq! | 200445 | [200445-linq.json](./200445-linq.json) |
 | Linsips | 395725 | [395725-linsips.json](./395725-linsips.json) |
 | Linum | 234063 | [234063-linum.json](./234063-linum.json) |
 | Linum | 337830 | [337830-linum.json](./337830-linum.json) |
@@ -3522,6 +3523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love is Strange | 178526 | [178526-love-is-strange.json](./178526-love-is-strange.json) |
 | Love Is... | 321619 | [321619-love-is.json](./321619-love-is.json) |
 | Love is... in Bloom | 51160 | [51160-love-is-in-bloom.json](./51160-love-is-in-bloom.json) |
+| Love is… in Small Things | 200441 | [200441-love-is-in-small-things.json](./200441-love-is-in-small-things.json) |
 | Love Island | 303636 | [303636-love-island.json](./303636-love-island.json) |
 | Love Island: The Game - Season 10 | 413632 | [413632-love-island-the-game-season-10.json](./413632-love-island-the-game-season-10.json) |
 | Love Kuesuto | 268468 | [268468-love-kuesuto.json](./268468-love-kuesuto.json) |
@@ -3957,6 +3959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunacy | 71493 | [71493-lunacy.json](./71493-lunacy.json) |
 | Lunacy: Saint Rhodes | 26710 | [26710-lunacy-saint-rhodes.json](./26710-lunacy-saint-rhodes.json) |
 | Lunadra: Luna Awakens the Legendary Dragon | 406938 | [406938-lunadra-luna-awakens-the-legendary-dragon.json](./406938-lunadra-luna-awakens-the-legendary-dragon.json) |
+| Lunaela | 200430 | [200430-lunaela.json](./200430-lunaela.json) |
 | Lunar Assault 64 | 145457 | [145457-lunar-assault-64.json](./145457-lunar-assault-64.json) |
 | Lunar Ball | 92281 | [92281-lunar-ball.json](./92281-lunar-ball.json) |
 | Lunar Catastrophe | 260960 | [260960-lunar-catastrophe.json](./260960-lunar-catastrophe.json) |
