@@ -875,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gate Keepers | 69303 | [69303-gate-keepers.json](./69303-gate-keepers.json) |
 | Gate of Doom | 46847 | [46847-gate-of-doom.json](./46847-gate-of-doom.json) |
 | Gate of Mobius | 200751 | [200751-gate-of-mobius.json](./200751-gate-of-mobius.json) |
+| Gate of Nightmares | 174644 | [174644-gate-of-nightmares.json](./174644-gate-of-nightmares.json) |
 | Gate of Providence | 181925 | [181925-gate-of-providence.json](./181925-gate-of-providence.json) |
 | Gate of Souls | 253308 | [253308-gate-of-souls.json](./253308-gate-of-souls.json) |
 | Gate to Die | 412500 | [412500-gate-to-die.json](./412500-gate-to-die.json) |
@@ -3034,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grab the Goblins! | 250650 | [250650-grab-the-goblins.json](./250650-grab-the-goblins.json) |
 | Grab the Sushi | 268023 | [268023-grab-the-sushi.json](./268023-grab-the-sushi.json) |
 | Grabanakki | 180782 | [180782-grabanakki.json](./180782-grabanakki.json) |
+| Grabatron | 174643 | [174643-grabatron.json](./174643-grabatron.json) |
 | GrabBag | 107936 | [107936-grabbag.json](./107936-grabbag.json) |
 | Grabbers in the Woods | 294426 | [294426-grabbers-in-the-woods.json](./294426-grabbers-in-the-woods.json) |
 | Grabitoons | 231049 | [231049-grabitoons.json](./231049-grabitoons.json) |
@@ -3079,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Carismo | 277008 | [277008-gran-carismo.json](./277008-gran-carismo.json) |
 | Gran Empire | 149443 | [149443-gran-empire.json](./149443-gran-empire.json) |
 | Gran Trak 10 | 7429 | [7429-gran-trak-10.json](./7429-gran-trak-10.json) |
+| Gran Trak 20 | 174658 | [174658-gran-trak-20.json](./174658-gran-trak-20.json) |
 | Gran Turismo 2 | 1597 | [1597-gran-turismo-2.json](./1597-gran-turismo-2.json) |
 | Gran Turismo 2000 | 298017 | [298017-gran-turismo-2000.json](./298017-gran-turismo-2000.json) |
 | Gran Turismo 4 | 1601 | [1601-gran-turismo-4.json](./1601-gran-turismo-4.json) |
