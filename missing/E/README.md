@@ -2425,6 +2425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eukarion Tales: Origins | 259581 | [259581-eukarion-tales-origins.json](./259581-eukarion-tales-origins.json) |
 | Euler Wars | 130166 | [130166-euler-wars.json](./130166-euler-wars.json) |
 | Eulogy for Nonno | 374813 | [374813-eulogy-for-nonno.json](./374813-eulogy-for-nonno.json) |
+| EunHye DS | 217839 | [217839-eunhye-ds.json](./217839-eunhye-ds.json) |
 | Euotopia | 261901 | [261901-euotopia.json](./261901-euotopia.json) |
 | Euphoria Games Bundle | 302513 | [302513-euphoria-games-bundle.json](./302513-euphoria-games-bundle.json) |
 | Euphoria: Supreme Mechanics VR | 377048 | [377048-euphoria-supreme-mechanics-vr.json](./377048-euphoria-supreme-mechanics-vr.json) |
