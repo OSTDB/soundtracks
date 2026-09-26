@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T11:33:11.845Z",
-  "total_missing": 125526,
+  "generated_at": "2026-09-26T11:48:14.538Z",
+  "total_missing": 125576,
   "games": [
     {
       "igdb_id": 176875,
@@ -17368,6 +17368,11 @@
       "file": "missing/A/247755-aliens-fireteam-elite-hardened-marine-pack.json"
     },
     {
+      "igdb_id": 201027,
+      "game_name": "Aliens: Fireteam Elite - Into the Hive Edition",
+      "file": "missing/A/201027-aliens-fireteam-elite-into-the-hive-edition.json"
+    },
+    {
       "igdb_id": 204435,
       "game_name": "Aliens: Fireteam Elite - Pathogen",
       "file": "missing/A/204435-aliens-fireteam-elite-pathogen.json"
@@ -24841,6 +24846,11 @@
       "igdb_id": 11776,
       "game_name": "Anonymous;Code",
       "file": "missing/A/11776-anonymous-code.json"
+    },
+    {
+      "igdb_id": 201045,
+      "game_name": "Anonymous;Code: Limited Edition",
+      "file": "missing/A/201045-anonymous-code-limited-edition.json"
     },
     {
       "igdb_id": 398584,
@@ -51078,6 +51088,11 @@
       "file": "missing/B/338202-beats-and-boss.json"
     },
     {
+      "igdb_id": 201004,
+      "game_name": "Beatus Creation Solitaire",
+      "file": "missing/B/201004-beatus-creation-solitaire.json"
+    },
+    {
       "igdb_id": 386444,
       "game_name": "Beatworks Inc.",
       "file": "missing/B/386444-beatworks-inc.json"
@@ -77246,6 +77261,11 @@
       "igdb_id": 25973,
       "game_name": "Call of Duty: Advanced Warfare - Atlas Digital Pack",
       "file": "missing/C/25973-call-of-duty-advanced-warfare-atlas-digital-pack.json"
+    },
+    {
+      "igdb_id": 201043,
+      "game_name": "Call of Duty: Advanced Warfare - Dubbed Edition",
+      "file": "missing/C/201043-call-of-duty-advanced-warfare-dubbed-edition.json"
     },
     {
       "igdb_id": 343819,
@@ -129418,6 +129438,11 @@
       "file": "missing/D/345692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-deluxe-edition.json"
     },
     {
+      "igdb_id": 201042,
+      "game_name": "Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Limited Edition",
+      "file": "missing/D/201042-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-limited-edition.json"
+    },
+    {
       "igdb_id": 213410,
       "game_name": "Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Nezuko Advanced Demon Form",
       "file": "missing/D/213410-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-nezuko-advanced-demon-form.json"
@@ -136658,6 +136683,11 @@
       "file": "missing/D/405533-disfact-game-pack-1.json"
     },
     {
+      "igdb_id": 201055,
+      "game_name": "Disgaea 1 Complete: Limited Edition",
+      "file": "missing/D/201055-disgaea-1-complete-limited-edition.json"
+    },
+    {
       "igdb_id": 21851,
       "game_name": "Disgaea 2: Dark Hero Days",
       "file": "missing/D/21851-disgaea-2-dark-hero-days.json"
@@ -142108,6 +142138,11 @@
       "file": "missing/D/305838-dontrel-dolphin-2.json"
     },
     {
+      "igdb_id": 201052,
+      "game_name": "Donut 80",
+      "file": "missing/D/201052-donut-80.json"
+    },
+    {
       "igdb_id": 190137,
       "game_name": "Donut Arena",
       "file": "missing/D/190137-donut-arena.json"
@@ -146846,6 +146881,11 @@
       "igdb_id": 26985,
       "game_name": "Dragon's Dogma Online",
       "file": "missing/D/26985-dragons-dogma-online.json"
+    },
+    {
+      "igdb_id": 201048,
+      "game_name": "Dragon's Dogma Online: Season 2 - Limited Edition",
+      "file": "missing/D/201048-dragons-dogma-online-season-2-limited-edition.json"
     },
     {
       "igdb_id": 63310,
@@ -187593,6 +187633,11 @@
       "file": "missing/F/364685-flora.json"
     },
     {
+      "igdb_id": 201035,
+      "game_name": "Flora and Sauna",
+      "file": "missing/F/201035-flora-and-sauna.json"
+    },
+    {
       "igdb_id": 175906,
       "game_name": "Flora and the Darkness",
       "file": "missing/F/175906-flora-and-the-darkness.json"
@@ -194696,6 +194741,11 @@
       "igdb_id": 380569,
       "game_name": "Fresh Tracks VR",
       "file": "missing/F/380569-fresh-tracks-vr.json"
+    },
+    {
+      "igdb_id": 201010,
+      "game_name": "Freshman Magic: Spellbooks and Tangled Sheets",
+      "file": "missing/F/201010-freshman-magic-spellbooks-and-tangled-sheets.json"
     },
     {
       "igdb_id": 411674,
@@ -214138,6 +214188,11 @@
       "file": "missing/G/201777-gotham-knights-collectors-edition.json"
     },
     {
+      "igdb_id": 201037,
+      "game_name": "Gotham Knights: Deluxe Edition",
+      "file": "missing/G/201037-gotham-knights-deluxe-edition.json"
+    },
+    {
       "igdb_id": 281563,
       "game_name": "Gotham Knights: Heroic Assault: The Kelvin Incident",
       "file": "missing/G/281563-gotham-knights-heroic-assault-the-kelvin-incident.json"
@@ -222236,6 +222291,11 @@
       "igdb_id": 311102,
       "game_name": "H.I.v.C.A.: Human Intelligence vs Computer Algorithm",
       "file": "missing/H/311102-h-i-v-c-a-human-intelligence-vs-computer-algorithm.json"
+    },
+    {
+      "igdb_id": 201014,
+      "game_name": "H.I.V.E.",
+      "file": "missing/H/201014-h-i-v-e.json"
     },
     {
       "igdb_id": 296914,
@@ -244588,6 +244648,11 @@
       "file": "missing/H/204412-hoverise-rebellion.json"
     },
     {
+      "igdb_id": 201002,
+      "game_name": "HoverRider",
+      "file": "missing/H/201002-hoverrider.json"
+    },
+    {
       "igdb_id": 117695,
       "game_name": "Hovershift",
       "file": "missing/H/117695-hovershift.json"
@@ -249296,6 +249361,11 @@
       "igdb_id": 361758,
       "game_name": "I Wanna Ponder",
       "file": "missing/I/361758-i-wanna-ponder.json"
+    },
+    {
+      "igdb_id": 201007,
+      "game_name": "I wanna Reach the Top",
+      "file": "missing/I/201007-i-wanna-reach-the-top.json"
     },
     {
       "igdb_id": 187366,
@@ -263418,6 +263488,11 @@
       "file": "missing/J/110285-james-bonk.json"
     },
     {
+      "igdb_id": 200999,
+      "game_name": "James Cameron's Avatar: The Game",
+      "file": "missing/J/200999-james-camerons-avatar-the-game.json"
+    },
+    {
       "igdb_id": 15473,
       "game_name": "James Clavell's Shogun",
       "file": "missing/J/15473-james-clavells-shogun.json"
@@ -265713,9 +265788,19 @@
       "file": "missing/J/238230-jigsaw-masterpieces-juicy-fruits.json"
     },
     {
+      "igdb_id": 201024,
+      "game_name": "Jigsaw Masterpieces: Landscapes with Flags of the World - Asia vol.1",
+      "file": "missing/J/201024-jigsaw-masterpieces-landscapes-with-flags-of-the-world-asia-vol-1.json"
+    },
+    {
       "igdb_id": 238231,
       "game_name": "Jigsaw Masterpieces: Okinawa - Paradise in Japan",
       "file": "missing/J/238231-jigsaw-masterpieces-okinawa-paradise-in-japan.json"
+    },
+    {
+      "igdb_id": 201023,
+      "game_name": "Jigsaw Masterpieces: Scenes with Horses",
+      "file": "missing/J/201023-jigsaw-masterpieces-scenes-with-horses.json"
     },
     {
       "igdb_id": 243371,
@@ -265726,6 +265811,11 @@
       "igdb_id": 237912,
       "game_name": "Jigsaw Masterpieces: View from the Sky",
       "file": "missing/J/237912-jigsaw-masterpieces-view-from-the-sky.json"
+    },
+    {
+      "igdb_id": 201025,
+      "game_name": "Jigsaw Masterpieces: World's Most Scenic Train Trips",
+      "file": "missing/J/201025-jigsaw-masterpieces-worlds-most-scenic-train-trips.json"
     },
     {
       "igdb_id": 283274,
@@ -270016,6 +270106,11 @@
       "igdb_id": 117492,
       "game_name": "Just Cause 4: Dare Devils of Destruction",
       "file": "missing/J/117492-just-cause-4-dare-devils-of-destruction.json"
+    },
+    {
+      "igdb_id": 201031,
+      "game_name": "Just Cause 4: Day One Edition",
+      "file": "missing/J/201031-just-cause-4-day-one-edition.json"
     },
     {
       "igdb_id": 53245,
@@ -277008,6 +277103,11 @@
       "file": "missing/K/393138-kings-mug.json"
     },
     {
+      "igdb_id": 201053,
+      "game_name": "King's Path Solitaire",
+      "file": "missing/K/201053-kings-path-solitaire.json"
+    },
+    {
       "igdb_id": 154935,
       "game_name": "King's Quest 4+5+6",
       "file": "missing/K/154935-kings-quest-4-5-6.json"
@@ -279213,6 +279313,11 @@
       "file": "missing/K/191405-klonoa-phantasy-reverie-series.json"
     },
     {
+      "igdb_id": 201032,
+      "game_name": "Klonoa Phantasy Reverie Series: Special Edition",
+      "file": "missing/K/201032-klonoa-phantasy-reverie-series-special-edition.json"
+    },
+    {
       "igdb_id": 270725,
       "game_name": "Klonoa: Door to Phantomile",
       "file": "missing/K/270725-klonoa-door-to-phantomile.json"
@@ -280951,6 +281056,11 @@
       "igdb_id": 49333,
       "game_name": "Kong: The Animated Series",
       "file": "missing/K/49333-kong-the-animated-series.json"
+    },
+    {
+      "igdb_id": 201006,
+      "game_name": "Kongeer",
+      "file": "missing/K/201006-kongeer.json"
     },
     {
       "igdb_id": 246465,
@@ -284741,6 +284851,11 @@
       "igdb_id": 370122,
       "game_name": "Landomayzer",
       "file": "missing/L/370122-landomayzer.json"
+    },
+    {
+      "igdb_id": 201005,
+      "game_name": "LandPort",
+      "file": "missing/L/201005-landport.json"
     },
     {
       "igdb_id": 149513,
@@ -310123,6 +310238,11 @@
       "file": "missing/M/312911-maps-4tmd.json"
     },
     {
+      "igdb_id": 201011,
+      "game_name": "Maps: U.S.A.",
+      "file": "missing/M/201011-maps-u-s-a.json"
+    },
+    {
       "igdb_id": 400496,
       "game_name": "MapTap.gg",
       "file": "missing/M/400496-maptap-gg.json"
@@ -320383,6 +320503,11 @@
       "file": "missing/M/222241-melkis-spend-with-you-the-sweet-days-like-fairy-tales.json"
     },
     {
+      "igdb_id": 201049,
+      "game_name": "Mell Kiss: Limited Edition",
+      "file": "missing/M/201049-mell-kiss-limited-edition.json"
+    },
+    {
       "igdb_id": 270414,
       "game_name": "Melli's Retro Land",
       "file": "missing/M/270414-mellis-retro-land.json"
@@ -322986,6 +323111,11 @@
       "igdb_id": 38373,
       "game_name": "Metal Max Returns",
       "file": "missing/M/38373-metal-max-returns.json"
+    },
+    {
+      "igdb_id": 201054,
+      "game_name": "Metal Max Xeno: Limited Edition",
+      "file": "missing/M/201054-metal-max-xeno-limited-edition.json"
     },
     {
       "igdb_id": 75850,
@@ -333853,6 +333983,11 @@
       "file": "missing/M/247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json"
     },
     {
+      "igdb_id": 201046,
+      "game_name": "Monochrome Mobius: Rights and Wrongs Forgotten - Limited Edition",
+      "file": "missing/M/201046-monochrome-mobius-rights-and-wrongs-forgotten-limited-edition.json"
+    },
+    {
       "igdb_id": 310576,
       "game_name": "Monochrome Pixels",
       "file": "missing/M/310576-monochrome-pixels.json"
@@ -337653,6 +337788,11 @@
       "file": "missing/M/201782-mortal-shell-enhanced-edition-game-of-the-year-edition.json"
     },
     {
+      "igdb_id": 201041,
+      "game_name": "Mortal Shell: Game of the Year Edition",
+      "file": "missing/M/201041-mortal-shell-game-of-the-year-edition.json"
+    },
+    {
       "igdb_id": 229714,
       "game_name": "Mortal Shell: Rotten Autumn",
       "file": "missing/M/229714-mortal-shell-rotten-autumn.json"
@@ -337736,6 +337876,11 @@
       "igdb_id": 370714,
       "game_name": "Mortie College",
       "file": "missing/M/370714-mortie-college.json"
+    },
+    {
+      "igdb_id": 201003,
+      "game_name": "Mortificare",
+      "file": "missing/M/201003-mortificare.json"
     },
     {
       "igdb_id": 249780,
@@ -397273,6 +397418,11 @@
       "file": "missing/P/233600-pokemon-pureblue.json"
     },
     {
+      "igdb_id": 201001,
+      "game_name": "Pokémon Quarantine Crystal",
+      "file": "missing/P/201001-pokemon-quarantine-crystal.json"
+    },
+    {
       "igdb_id": 102874,
       "game_name": "Pokémon Quest",
       "file": "missing/P/102874-pokemon-quest.json"
@@ -409268,6 +409418,11 @@
       "file": "missing/P/150059-punk-wars.json"
     },
     {
+      "igdb_id": 201015,
+      "game_name": "Punk Wars: Threat From Within",
+      "file": "missing/P/201015-punk-wars-threat-from-within.json"
+    },
+    {
       "igdb_id": 243144,
       "game_name": "Punk-o-Matic",
       "file": "missing/P/243144-punk-o-matic.json"
@@ -409531,6 +409686,11 @@
       "igdb_id": 380699,
       "game_name": "Pure Hentai: Paradise",
       "file": "missing/P/380699-pure-hentai-paradise.json"
+    },
+    {
+      "igdb_id": 201056,
+      "game_name": "Pure Hold 'Em World Poker Championships",
+      "file": "missing/P/201056-pure-hold-em-world-poker-championships.json"
     },
     {
       "igdb_id": 17840,
@@ -422608,6 +422768,11 @@
       "file": "missing/R/193437-red-solstice-2-survivors-condatis-group.json"
     },
     {
+      "igdb_id": 201009,
+      "game_name": "Red Solstice 2: Survivors - Insurgents",
+      "file": "missing/R/201009-red-solstice-2-survivors-insurgents.json"
+    },
+    {
       "igdb_id": 329198,
       "game_name": "Red Solstice 2: Survivors - Ultimate Edition",
       "file": "missing/R/329198-red-solstice-2-survivors-ultimate-edition.json"
@@ -423188,6 +423353,11 @@
       "file": "missing/R/226973-redout-space-exploration-pack.json"
     },
     {
+      "igdb_id": 201038,
+      "game_name": "Redout: Ultimate Edition",
+      "file": "missing/R/201038-redout-ultimate-edition.json"
+    },
+    {
       "igdb_id": 226974,
       "game_name": "Redout: V.E.R.T.E.X. Pack",
       "file": "missing/R/226974-redout-v-e-r-t-e-x-pack.json"
@@ -423646,6 +423816,11 @@
       "igdb_id": 64892,
       "game_name": "Refrain Love: Anata ni Aitai",
       "file": "missing/R/64892-refrain-love-anata-ni-aitai.json"
+    },
+    {
+      "igdb_id": 201050,
+      "game_name": "Refrain no Chika Meikyuu to Majo no Ryodan: Limited Edition",
+      "file": "missing/R/201050-refrain-no-chika-meikyuu-to-majo-no-ryodan-limited-edition.json"
     },
     {
       "igdb_id": 53499,
@@ -429063,6 +429238,11 @@
       "file": "missing/R/263515-riders-republic-complete-edition.json"
     },
     {
+      "igdb_id": 201047,
+      "game_name": "Riders Republic: Freeride Edition",
+      "file": "missing/R/201047-riders-republic-freeride-edition.json"
+    },
+    {
       "igdb_id": 139834,
       "game_name": "Riders Republic: Gold Edition",
       "file": "missing/R/139834-riders-republic-gold-edition.json"
@@ -430731,6 +430911,11 @@
       "igdb_id": 3173,
       "game_name": "Risk of Rain",
       "file": "missing/R/3173-risk-of-rain.json"
+    },
+    {
+      "igdb_id": 201040,
+      "game_name": "Risk of Rain 2 + Survivors of the Void",
+      "file": "missing/R/201040-risk-of-rain-2-survivors-of-the-void.json"
     },
     {
       "igdb_id": 310531,
@@ -457268,6 +457453,11 @@
       "file": "missing/S/78363-sherlock-holmes-consulting-detective-collection.json"
     },
     {
+      "igdb_id": 201013,
+      "game_name": "Sherlock Holmes Essential Bundle",
+      "file": "missing/S/201013-sherlock-holmes-essential-bundle.json"
+    },
+    {
       "igdb_id": 345023,
       "game_name": "Sherlock Holmes i el cas d'Arthur Gordon Pym",
       "file": "missing/S/345023-sherlock-holmes-i-el-cas-darthur-gordon-pym.json"
@@ -473538,6 +473728,11 @@
       "file": "missing/S/148382-sol-cresta.json"
     },
     {
+      "igdb_id": 201018,
+      "game_name": "Sol Cresta: Dramatic DLC",
+      "file": "missing/S/201018-sol-cresta-dramatic-dlc.json"
+    },
+    {
       "igdb_id": 317033,
       "game_name": "Sol Frontiers",
       "file": "missing/S/317033-sol-frontiers.json"
@@ -475341,6 +475536,11 @@
       "igdb_id": 366851,
       "game_name": "Songs of Conquest: Roots",
       "file": "missing/S/366851-songs-of-conquest-roots.json"
+    },
+    {
+      "igdb_id": 201036,
+      "game_name": "Songs of Conquest: Supporter Edition",
+      "file": "missing/S/201036-songs-of-conquest-supporter-edition.json"
     },
     {
       "igdb_id": 319147,
@@ -481721,6 +481921,11 @@
       "igdb_id": 212234,
       "game_name": "Space Trucker",
       "file": "missing/S/212234-space-trucker.json"
+    },
+    {
+      "igdb_id": 201008,
+      "game_name": "Space Turbo",
+      "file": "missing/S/201008-space-turbo.json"
     },
     {
       "igdb_id": 30348,
@@ -496668,6 +496873,11 @@
       "file": "missing/S/273871-stranger-in-utopia.json"
     },
     {
+      "igdb_id": 201028,
+      "game_name": "Stranger of Paradise: Final Fantasy Origin - Collector's Edition",
+      "file": "missing/S/201028-stranger-of-paradise-final-fantasy-origin-collectors-edition.json"
+    },
+    {
       "igdb_id": 173775,
       "game_name": "Stranger of Paradise: Final Fantasy Origin - Digital Deluxe Edition",
       "file": "missing/S/173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json"
@@ -497681,6 +497891,11 @@
       "igdb_id": 126095,
       "game_name": "Street Fighter V: Champion Edition",
       "file": "missing/S/126095-street-fighter-v-champion-edition.json"
+    },
+    {
+      "igdb_id": 201034,
+      "game_name": "Street Fighter V: Champion Edition - All Character Pack",
+      "file": "missing/S/201034-street-fighter-v-champion-edition-all-character-pack.json"
     },
     {
       "igdb_id": 322209,
@@ -509858,6 +510073,11 @@
       "file": "missing/S/33613-surfingers.json"
     },
     {
+      "igdb_id": 201017,
+      "game_name": "Surflexers",
+      "file": "missing/S/201017-surflexers.json"
+    },
+    {
       "igdb_id": 219573,
       "game_name": "Surfwords",
       "file": "missing/S/219573-surfwords.json"
@@ -521926,6 +522146,11 @@
       "igdb_id": 333183,
       "game_name": "Telealiens",
       "file": "missing/T/333183-telealiens.json"
+    },
+    {
+      "igdb_id": 201016,
+      "game_name": "Teleball",
+      "file": "missing/T/201016-teleball.json"
     },
     {
       "igdb_id": 108420,
@@ -541583,6 +541808,11 @@
       "file": "missing/T/384791-the-love-of-cooking.json"
     },
     {
+      "igdb_id": 201012,
+      "game_name": "The Lucid Dreamer Bundle",
+      "file": "missing/T/201012-the-lucid-dreamer-bundle.json"
+    },
+    {
       "igdb_id": 285594,
       "game_name": "The Luckiest in the Megaverse",
       "file": "missing/T/285594-the-luckiest-in-the-megaverse.json"
@@ -545311,6 +545541,16 @@
       "igdb_id": 342720,
       "game_name": "The Quintessential Princesses: Fantasy, Abyss, and Magic Academy",
       "file": "missing/T/342720-the-quintessential-princesses-fantasy-abyss-and-magic-academy.json"
+    },
+    {
+      "igdb_id": 201033,
+      "game_name": "The Quintessential Quintuplets the Movie: Five Memories of My Time With You - Limited Edition",
+      "file": "missing/T/201033-the-quintessential-quintuplets-the-movie-five-memories-of-my-time-with-you-limited-edition.json"
+    },
+    {
+      "igdb_id": 201044,
+      "game_name": "The Quintessential Quintuplets: Five Memories Spent With You",
+      "file": "missing/T/201044-the-quintessential-quintuplets-five-memories-spent-with-you.json"
     },
     {
       "igdb_id": 243630,
@@ -587193,6 +587433,11 @@
       "file": "missing/U/148539-until-last-breath.json"
     },
     {
+      "igdb_id": 201051,
+      "game_name": "Until the End",
+      "file": "missing/U/201051-until-the-end.json"
+    },
+    {
       "igdb_id": 399077,
       "game_name": "Until the Last Philomel",
       "file": "missing/U/399077-until-the-last-philomel.json"
@@ -609071,6 +609316,11 @@
       "igdb_id": 141651,
       "game_name": "Winning Post 9: 2021",
       "file": "missing/W/141651-winning-post-9-2021.json"
+    },
+    {
+      "igdb_id": 201030,
+      "game_name": "Winning Post 9: 2022",
+      "file": "missing/W/201030-winning-post-9-2022.json"
     },
     {
       "igdb_id": 47545,
