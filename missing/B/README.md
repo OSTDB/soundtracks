@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Boomer | 48107 | [48107-baby-boomer.json](./48107-baby-boomer.json) |
 | Baby Carbonara | 404968 | [404968-baby-carbonara.json](./404968-baby-carbonara.json) |
 | Baby Escape | 400220 | [400220-baby-escape.json](./400220-baby-escape.json) |
+| Baby Felix Creativity Center | 200456 | [200456-baby-felix-creativity-center.json](./200456-baby-felix-creativity-center.json) |
 | Baby Ghost: Jump Away With Jewel | 175361 | [175361-baby-ghost-jump-away-with-jewel.json](./175361-baby-ghost-jump-away-with-jewel.json) |
 | Baby Goat Billy | 159826 | [159826-baby-goat-billy.json](./159826-baby-goat-billy.json) |
 | Baby Hands | 68834 | [68834-baby-hands.json](./68834-baby-hands.json) |
@@ -2241,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Indie Worlds Bundle | 246112 | [246112-beautiful-indie-worlds-bundle.json](./246112-beautiful-indie-worlds-bundle.json) |
 | Beautiful Japanese Scenery: Animated Jigsaws | 31695 | [31695-beautiful-japanese-scenery-animated-jigsaws.json](./31695-beautiful-japanese-scenery-animated-jigsaws.json) |
 | Beautiful Mystic Defenders | 159748 | [159748-beautiful-mystic-defenders.json](./159748-beautiful-mystic-defenders.json) |
+| Beautiful Mystic Survivors | 200465 | [200465-beautiful-mystic-survivors.json](./200465-beautiful-mystic-survivors.json) |
 | Beautiful Sakura: Fashion Club | 327971 | [327971-beautiful-sakura-fashion-club.json](./327971-beautiful-sakura-fashion-club.json) |
 | Beautiful Sakura: Running Club | 327973 | [327973-beautiful-sakura-running-club.json](./327973-beautiful-sakura-running-club.json) |
 | Beautiful Sakura: Surfing Club | 265240 | [265240-beautiful-sakura-surfing-club.json](./265240-beautiful-sakura-surfing-club.json) |
@@ -2361,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before Fate | 205248 | [205248-before-fate.json](./205248-before-fate.json) |
 | Before I Forget | 122372 | [122372-before-i-forget.json](./122372-before-i-forget.json) |
 | Before Nightfall | 271311 | [271311-before-nightfall.json](./271311-before-nightfall.json) |
+| Before the Last Hour | 200428 | [200428-before-the-last-hour.json](./200428-before-the-last-hour.json) |
 | Before the Moon | 311067 | [311067-before-the-moon.json](./311067-before-the-moon.json) |
 | Before the Needle Lifts | 303754 | [303754-before-the-needle-lifts.json](./303754-before-the-needle-lifts.json) |
 | Before the Night | 189049 | [189049-before-the-night.json](./189049-before-the-night.json) |
@@ -6587,6 +6590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Drop | 399215 | [399215-bug-drop.json](./399215-bug-drop.json) |
 | Bug Drop! | 200055 | [200055-bug-drop.json](./200055-bug-drop.json) |
 | Bug Error 404: Anime Boys Not Found | 416065 | [416065-bug-error-404-anime-boys-not-found.json](./416065-bug-error-404-anime-boys-not-found.json) |
+| Bug Explorers | 200478 | [200478-bug-explorers.json](./200478-bug-explorers.json) |
 | Bug Heroes | 92316 | [92316-bug-heroes.json](./92316-bug-heroes.json) |
 | Bug Hunter | 317575 | [317575-bug-hunter.json](./317575-bug-hunter.json) |
 | Bug Invaders | 82398 | [82398-bug-invaders.json](./82398-bug-invaders.json) |
