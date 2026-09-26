@@ -3316,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dick Tracy | 83907 | [83907-dick-tracy.json](./83907-dick-tracy.json) |
 | Dick Wilde 2 | 114006 | [114006-dick-wilde-2.json](./114006-dick-wilde-2.json) |
 | Dickdown Duel | 197407 | [197407-dickdown-duel.json](./197407-dickdown-duel.json) |
+| Dickie A Cumming: The Prequel | 196033 | [196033-dickie-a-cumming-the-prequel.json](./196033-dickie-a-cumming-the-prequel.json) |
 | Dickland: Horror Quest | 253980 | [253980-dickland-horror-quest.json](./253980-dickland-horror-quest.json) |
 | Dickland: Racing | 259064 | [259064-dickland-racing.json](./259064-dickland-racing.json) |
 | Dickme Dicki | 202353 | [202353-dickme-dicki.json](./202353-dickme-dicki.json) |
@@ -5088,6 +5089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom + Doom II | 313126 | [313126-doom-doom-ii.json](./313126-doom-doom-ii.json) |
 | Doom 2 In City Only | 299447 | [299447-doom-2-in-city-only.json](./299447-doom-2-in-city-only.json) |
 | Doom 3: BFG Edition | 6968 | [6968-doom-3-bfg-edition.json](./6968-doom-3-bfg-edition.json) |
+| Doom 3: Hard Corps | 196016 | [196016-doom-3-hard-corps.json](./196016-doom-3-hard-corps.json) |
 | Doom 3: Resurrection of Evil | 332410 | [332410-doom-3-resurrection-of-evil.json](./332410-doom-3-resurrection-of-evil.json) |
 | Doom 4 For Doom | 201182 | [201182-doom-4-for-doom.json](./201182-doom-4-for-doom.json) |
 | Doom 64 | 3471 | [3471-doom-64.json](./3471-doom-64.json) |
@@ -5132,6 +5134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom: The Golden Souls 3 | 314436 | [314436-doom-the-golden-souls-3.json](./314436-doom-the-golden-souls-3.json) |
 | Doom: The Golden Souls Remastered | 198349 | [198349-doom-the-golden-souls-remastered.json](./198349-doom-the-golden-souls-remastered.json) |
 | Doom: Unto the Evil | 22431 | [22431-doom-unto-the-evil.json](./22431-doom-unto-the-evil.json) |
+| Doom3D | 196011 | [196011-doom3d.json](./196011-doom3d.json) |
 | Doomblade | 114004 | [114004-doomblade.json](./114004-doomblade.json) |
 | DoomBus | 383650 | [383650-doombus.json](./383650-doombus.json) |
 | Doomclock | 346677 | [346677-doomclock.json](./346677-doomclock.json) |
@@ -5767,6 +5770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Break Classic Head to Head | 152755 | [152755-dragon-break-classic-head-to-head.json](./152755-dragon-break-classic-head-to-head.json) |
 | Dragon Bride | 134607 | [134607-dragon-bride.json](./134607-dragon-bride.json) |
 | Dragon Buster | 38035 | [38035-dragon-buster.json](./38035-dragon-buster.json) |
+| Dragon Caffi | 196036 | [196036-dragon-caffi.json](./196036-dragon-caffi.json) |
 | Dragon Castle | 346115 | [346115-dragon-castle.json](./346115-dragon-castle.json) |
 | Dragon Castle | 346753 | [346753-dragon-castle.json](./346753-dragon-castle.json) |
 | Dragon Castle: The Board Game | 127095 | [127095-dragon-castle-the-board-game.json](./127095-dragon-castle-the-board-game.json) |
@@ -6125,6 +6129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread Protocol | 277315 | [277315-dread-protocol.json](./277315-dread-protocol.json) |
 | Dread the Rabbit | 183595 | [183595-dread-the-rabbit.json](./183595-dread-the-rabbit.json) |
 | Dread X Collection 3 | 140041 | [140041-dread-x-collection-3.json](./140041-dread-x-collection-3.json) |
+| Dread X Collection 5 | 196045 | [196045-dread-x-collection-5.json](./196045-dread-x-collection-5.json) |
 | Dread X Collection: The Hunt | 145624 | [145624-dread-x-collection-the-hunt.json](./145624-dread-x-collection-the-hunt.json) |
 | Dreadbone | 347786 | [347786-dreadbone.json](./347786-dreadbone.json) |
 | DreadBound | 382895 | [382895-dreadbound.json](./382895-dreadbound.json) |
@@ -6766,6 +6771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Pack I Awakening: The Goblin Kingdom and Awakening: The Skyward Castle | 201857 | [201857-dual-pack-i-awakening-the-goblin-kingdom-and-awakening-the-skyward-castle.json](./201857-dual-pack-i-awakening-the-goblin-kingdom-and-awakening-the-skyward-castle.json) |
 | Dual Pack I Spirits of Mystery: Song of the Phoenix & Spirits of Mystery: The Dark Minotaur | 201853 | [201853-dual-pack-i-spirits-of-mystery-song-of-the-phoenix-and-spirits-of-mystery-the-dark-minotaur.json](./201853-dual-pack-i-spirits-of-mystery-song-of-the-phoenix-and-spirits-of-mystery-the-dark-minotaur.json) |
 | Dual Protocol: The Case of Eva & Miles | 407324 | [407324-dual-protocol-the-case-of-eva-and-miles.json](./407324-dual-protocol-the-case-of-eva-and-miles.json) |
+| Dual Souls: The Last Bearer - Complete Edition | 196049 | [196049-dual-souls-the-last-bearer-complete-edition.json](./196049-dual-souls-the-last-bearer-complete-edition.json) |
 | Dual Spin | 241346 | [241346-dual-spin.json](./241346-dual-spin.json) |
 | Dual Tennis | 246959 | [246959-dual-tennis.json](./246959-dual-tennis.json) |
 | Dual Universe | 19548 | [19548-dual-universe.json](./19548-dual-universe.json) |
