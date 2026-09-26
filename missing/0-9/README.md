@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| _________ (What Even Is That Thing?) | 186066 | [186066-what-even-is-that-thing.json](./186066-what-even-is-that-thing.json) |
 | __________ | 176875 | [176875-.json](./176875-.json) |
 | _Message: | 273453 | [273453-message.json](./273453-message.json) |
 | _Turing | 306086 | [306086-turing.json](./306086-turing.json) |
@@ -46,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 'The | 247183 | [247183-the.json](./247183-the.json) |
 | "Did You Submit a Ticket?" Simulator | 417551 | [417551-did-you-submit-a-ticket-simulator.json](./417551-did-you-submit-a-ticket-simulator.json) |
 | "Edna & Harvey" Bundle | 271701 | [271701-edna-and-harvey-bundle.json](./271701-edna-and-harvey-bundle.json) |
+| "Gamer"+ Crossroad of Sympathy | 186065 | [186065-gamer-crossroad-of-sympathy.json](./186065-gamer-crossroad-of-sympathy.json) |
 | "Glow Ball" - The billiard puzzle game | 34802 | [34802-glow-ball-the-billiard-puzzle-game.json](./34802-glow-ball-the-billiard-puzzle-game.json) |
 | "Hello, world." | 130306 | [130306-hello-world.json](./130306-hello-world.json) |
 | "Out" file#01 | 237475 | [237475-out-file-01.json](./237475-out-file-01.json) |
