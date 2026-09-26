@@ -639,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctum 2: The Last Stand | 10808 | [10808-sanctum-2-the-last-stand.json](./10808-sanctum-2-the-last-stand.json) |
 | Sanctum 2: The Pursuit | 10809 | [10809-sanctum-2-the-pursuit.json](./10809-sanctum-2-the-pursuit.json) |
 | Sanctum Breach | 122977 | [122977-sanctum-breach.json](./122977-sanctum-breach.json) |
+| Sanctum Breach: Rebirth | 196579 | [196579-sanctum-breach-rebirth.json](./196579-sanctum-breach-rebirth.json) |
 | Sanctum: Cavern | 10810 | [10810-sanctum-cavern.json](./10810-sanctum-cavern.json) |
 | Sanctum: Map Pack 2 | 225076 | [225076-sanctum-map-pack-2.json](./225076-sanctum-map-pack-2.json) |
 | Sanctus | 235775 | [235775-sanctus.json](./235775-sanctus.json) |
@@ -700,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangoku Stories Ten | 222510 | [222510-sangoku-stories-ten.json](./222510-sangoku-stories-ten.json) |
 | Sangoku Xiangqi | 259096 | [259096-sangoku-xiangqi.json](./259096-sangoku-xiangqi.json) |
 | Sangokushi 11: Power Up Kit | 350410 | [350410-sangokushi-11-power-up-kit.json](./350410-sangokushi-11-power-up-kit.json) |
+| Sangokushi Dice | 196600 | [196600-sangokushi-dice.json](./196600-sangokushi-dice.json) |
 | Sangokushi Eiketsuden | 327954 | [327954-sangokushi-eiketsuden.json](./327954-sangokushi-eiketsuden.json) |
 | Sangokushi Game Boy-ban | 349837 | [349837-sangokushi-game-boy-ban.json](./349837-sangokushi-game-boy-ban.json) |
 | Sangokushi II: Haou no Tairiku | 48861 | [48861-sangokushi-ii-haou-no-tairiku.json](./48861-sangokushi-ii-haou-no-tairiku.json) |
@@ -7539,6 +7541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soukou Kihei Votoms | 85861 | [85861-soukou-kihei-votoms.json](./85861-soukou-kihei-votoms.json) |
 | Soukou Kihei Votoms: The Battling Road | 38273 | [38273-soukou-kihei-votoms-the-battling-road.json](./38273-soukou-kihei-votoms-the-battling-road.json) |
 | Soukou Seiki Ysphere ~Ingyaku no Sennou Kaizou~ | 133247 | [133247-soukou-seiki-ysphere-ingyaku-no-sennou-kaizou.json](./133247-soukou-seiki-ysphere-ingyaku-no-sennou-kaizou.json) |
+| Soul | 196565 | [196565-soul.json](./196565-soul.json) |
 | Soul | 199577 | [199577-soul.json](./199577-soul.json) |
 | Soul Apocalypto | 358927 | [358927-soul-apocalypto.json](./358927-soul-apocalypto.json) |
 | Soul Ark: Brave and Fate | 199948 | [199948-soul-ark-brave-and-fate.json](./199948-soul-ark-brave-and-fate.json) |
@@ -9057,6 +9060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob and the Pit of 100 Trials | 341664 | [341664-spongebob-and-the-pit-of-100-trials.json](./341664-spongebob-and-the-pit-of-100-trials.json) |
 | SpongeBob Big Guy Challenge | 382339 | [382339-spongebob-big-guy-challenge.json](./382339-spongebob-big-guy-challenge.json) |
 | Spongebob Boat-O-Cross | 235316 | [235316-spongebob-boat-o-cross.json](./235316-spongebob-boat-o-cross.json) |
+| SpongeBob GameStation | 196552 | [196552-spongebob-gamestation.json](./196552-spongebob-gamestation.json) |
 | SpongeBob HeroPants | 8474 | [8474-spongebob-heropants.json](./8474-spongebob-heropants.json) |
 | SpongeBob in Run For The Krusty Krab | 382779 | [382779-spongebob-in-run-for-the-krusty-krab.json](./382779-spongebob-in-run-for-the-krusty-krab.json) |
 | SpongeBob Laptop | 293737 | [293737-spongebob-laptop.json](./293737-spongebob-laptop.json) |
@@ -14050,6 +14054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Sort | 255762 | [255762-sushi-sort.json](./255762-sushi-sort.json) |
 | Sushi Soul Universe | 264026 | [264026-sushi-soul-universe.json](./264026-sushi-soul-universe.json) |
 | Sushi Striker: The Way of Sushido | 37179 | [37179-sushi-striker-the-way-of-sushido.json](./37179-sushi-striker-the-way-of-sushido.json) |
+| Sushi Surf: Endless Run Fun | 196592 | [196592-sushi-surf-endless-run-fun.json](./196592-sushi-surf-endless-run-fun.json) |
 | Sushi Time!: Premium Edition | 241402 | [241402-sushi-time-premium-edition.json](./241402-sushi-time-premium-edition.json) |
 | Sushi vs. Remilia Scarlet | 206739 | [206739-sushi-vs-remilia-scarlet.json](./206739-sushi-vs-remilia-scarlet.json) |
 | Sushi Yummy | 399183 | [399183-sushi-yummy.json](./399183-sushi-yummy.json) |
@@ -14427,6 +14432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Last Recollection - Digital Premium Edition | 271473 | [271473-sword-art-online-last-recollection-digital-premium-edition.json](./271473-sword-art-online-last-recollection-digital-premium-edition.json) |
 | Sword Art Online: Lost Song - Limited Edition | 313299 | [313299-sword-art-online-lost-song-limited-edition.json](./313299-sword-art-online-lost-song-limited-edition.json) |
 | Sword Art Online: Unleash Blading | 318998 | [318998-sword-art-online-unleash-blading.json](./318998-sword-art-online-unleash-blading.json) |
+| Sword Art Online: Variant Showdown | 196564 | [196564-sword-art-online-variant-showdown.json](./196564-sword-art-online-variant-showdown.json) |
 | Sword Chronicles: Awaken | 262378 | [262378-sword-chronicles-awaken.json](./262378-sword-chronicles-awaken.json) |
 | Sword Coast Legends: Digital Deluxe Edition | 54422 | [54422-sword-coast-legends-digital-deluxe-edition.json](./54422-sword-coast-legends-digital-deluxe-edition.json) |
 | Sword Coast Legends: Rage of Demons | 19477 | [19477-sword-coast-legends-rage-of-demons.json](./19477-sword-coast-legends-rage-of-demons.json) |
