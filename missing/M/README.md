@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic City Detective: The Carnival Begins DLC | 361772 | [361772-magic-city-detective-the-carnival-begins-dlc.json](./361772-magic-city-detective-the-carnival-begins-dlc.json) |
 | Magic City Detective: Wings of Revenge - Collector's Edition | 188023 | [188023-magic-city-detective-wings-of-revenge-collectors-edition.json](./188023-magic-city-detective-wings-of-revenge-collectors-edition.json) |
 | Magic Clouds | 117057 | [117057-magic-clouds.json](./117057-magic-clouds.json) |
+| Magic Code | 187863 | [187863-magic-code.json](./187863-magic-code.json) |
 | Magic Crayon | 57649 | [57649-magic-crayon.json](./57649-magic-crayon.json) |
 | Magic Crystals | 192810 | [192810-magic-crystals.json](./192810-magic-crystals.json) |
 | Magic Cube | 48622 | [48622-magic-cube.json](./48622-magic-cube.json) |
@@ -3809,6 +3810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meso | 319350 | [319350-meso.json](./319350-meso.json) |
 | Mesopotamia | 42042 | [42042-mesopotamia.json](./42042-mesopotamia.json) |
 | Mesorift Survival | 350403 | [350403-mesorift-survival.json](./350403-mesorift-survival.json) |
+| Mess Adventures 2 | 187819 | [187819-mess-adventures-2.json](./187819-mess-adventures-2.json) |
 | Mess Cleanup | 166765 | [166765-mess-cleanup.json](./166765-mess-cleanup.json) |
 | Message From Aliens | 415077 | [415077-message-from-aliens.json](./415077-message-from-aliens.json) |
 | Message Quest | 13665 | [13665-message-quest.json](./13665-message-quest.json) |
@@ -6219,6 +6221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Fishing: Fishing Life RPG | 233510 | [233510-monster-fishing-fishing-life-rpg.json](./233510-monster-fishing-fishing-life-rpg.json) |
 | Monster Force | 49390 | [49390-monster-force.json](./49390-monster-force.json) |
 | Monster Forest | 383949 | [383949-monster-forest.json](./383949-monster-forest.json) |
+| Monster Fruit Academy | 187864 | [187864-monster-fruit-academy.json](./187864-monster-fruit-academy.json) |
 | Monster Galaxy | 197943 | [197943-monster-galaxy.json](./197943-monster-galaxy.json) |
 | Monster Gals: Voyage | 373100 | [373100-monster-gals-voyage.json](./373100-monster-gals-voyage.json) |
 | Monster Girl 2 | 237291 | [237291-monster-girl-2.json](./237291-monster-girl-2.json) |
@@ -6374,6 +6377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Prom | 69483 | [69483-monster-prom.json](./69483-monster-prom.json) |
 | Monster Prom 2: Monster Camp | 122195 | [122195-monster-prom-2-monster-camp.json](./122195-monster-prom-2-monster-camp.json) |
 | Monster Prom 2: Monster Camp Outfit Pack - Thirst and Sensibility | 230815 | [230815-monster-prom-2-monster-camp-outfit-pack-thirst-and-sensibility.json](./230815-monster-prom-2-monster-camp-outfit-pack-thirst-and-sensibility.json) |
+| Monster Prom 2: Monster Camp XXL | 187866 | [187866-monster-prom-2-monster-camp-xxl.json](./187866-monster-prom-2-monster-camp-xxl.json) |
 | Monster Prom 2: Monster Camp XXL Character Pack - Colorful Campers | 283183 | [283183-monster-prom-2-monster-camp-xxl-character-pack-colorful-campers.json](./283183-monster-prom-2-monster-camp-xxl-character-pack-colorful-campers.json) |
 | Monster Prom 3: Monster Roadtrip - Hitchhiker Pack: Amira & Oz | 230822 | [230822-monster-prom-3-monster-roadtrip-hitchhiker-pack-amira-and-oz.json](./230822-monster-prom-3-monster-roadtrip-hitchhiker-pack-amira-and-oz.json) |
 | Monster Prom 3: Monster Roadtrip - Hitchhiker Pack: Vicky & Brian | 241967 | [241967-monster-prom-3-monster-roadtrip-hitchhiker-pack-vicky-and-brian.json](./241967-monster-prom-3-monster-roadtrip-hitchhiker-pack-vicky-and-brian.json) |
@@ -8592,6 +8596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Museum | 146858 | [146858-mystery-museum.json](./146858-mystery-museum.json) |
 | Mystery of Ancients: Dagger | 106989 | [106989-mystery-of-ancients-dagger.json](./106989-mystery-of-ancients-dagger.json) |
 | Mystery of Camp Enigma | 147447 | [147447-mystery-of-camp-enigma.json](./147447-mystery-of-camp-enigma.json) |
+| Mystery of Fortune 2 Refine | 187850 | [187850-mystery-of-fortune-2-refine.json](./187850-mystery-of-fortune-2-refine.json) |
 | Mystery of Fortune 3 | 175263 | [175263-mystery-of-fortune-3.json](./175263-mystery-of-fortune-3.json) |
 | Mystery of Gevaudan | 332448 | [332448-mystery-of-gevaudan.json](./332448-mystery-of-gevaudan.json) |
 | Mystery of Hidden Inheritance | 95581 | [95581-mystery-of-hidden-inheritance.json](./95581-mystery-of-hidden-inheritance.json) |
