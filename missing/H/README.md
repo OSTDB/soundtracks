@@ -246,7 +246,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halley's Big Catch | 417530 | [417530-halleys-big-catch.json](./417530-halleys-big-catch.json) |
 | Halley's Dream | 169372 | [169372-halleys-dream.json](./169372-halleys-dream.json) |
 | Hallo Spaceboy | 102217 | [102217-hallo-spaceboy.json](./102217-hallo-spaceboy.json) |
+| Hallow Eve | 222842 | [222842-hallow-eve.json](./222842-hallow-eve.json) |
 | Hallow Maze | 336525 | [336525-hallow-maze.json](./336525-hallow-maze.json) |
+| Hallow's End | 222824 | [222824-hallows-end.json](./222824-hallows-end.json) |
 | Hallowanderband | 312762 | [312762-hallowanderband.json](./312762-hallowanderband.json) |
 | Hallowed Crucible | 333363 | [333363-hallowed-crucible.json](./333363-hallowed-crucible.json) |
 | Hallowed Legends: Templar - Collector's Edition | 376584 | [376584-hallowed-legends-templar-collectors-edition.json](./376584-hallowed-legends-templar-collectors-edition.json) |
@@ -440,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Playground: Fun & Challenge Games Pack | 332019 | [332019-hamster-playground-fun-and-challenge-games-pack.json](./332019-hamster-playground-fun-and-challenge-games-pack.json) |
 | Hamster Playground: Spooky Hamster House | 226708 | [226708-hamster-playground-spooky-hamster-house.json](./226708-hamster-playground-spooky-hamster-house.json) |
 | Hamster Scramble | 125655 | [125655-hamster-scramble.json](./125655-hamster-scramble.json) |
+| Hamster Town | 222833 | [222833-hamster-town.json](./222833-hamster-town.json) |
 | Hamsterball | 45288 | [45288-hamsterball.json](./45288-hamsterball.json) |
 | Hamsteria! | 390684 | [390684-hamsteria.json](./390684-hamsteria.json) |
 | Hamstörm | 303055 | [303055-hamstorm.json](./303055-hamstorm.json) |
@@ -3289,6 +3292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitmasters | 220177 | [220177-hitmasters.json](./220177-hitmasters.json) |
 | Hitme | 178096 | [178096-hitme.json](./178096-hitme.json) |
 | Hitme 2 | 225273 | [225273-hitme-2.json](./225273-hitme-2.json) |
+| Hitmen Havoc | 222829 | [222829-hitmen-havoc.json](./222829-hitmen-havoc.json) |
 | Hitokata | 337114 | [337114-hitokata.json](./337114-hitokata.json) |
 | Hitori | 334771 | [334771-hitori.json](./334771-hitori.json) |
 | Hitori by Nikoli | 85184 | [85184-hitori-by-nikoli.json](./85184-hitori-by-nikoli.json) |
@@ -4892,6 +4896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huxley Pig | 67653 | [67653-huxley-pig.json](./67653-huxley-pig.json) |
 | Huxley: The Dystopia | 73011 | [73011-huxley-the-dystopia.json](./73011-huxley-the-dystopia.json) |
 | Huygens Principle | 51477 | [51477-huygens-principle.json](./51477-huygens-principle.json) |
+| HuZero: Caravan Edition | 222850 | [222850-huzero-caravan-edition.json](./222850-huzero-caravan-edition.json) |
 | Hv Rebellion | 184568 | [184568-hv-rebellion.json](./184568-hv-rebellion.json) |
 | HVR | 91099 | [91099-hvr.json](./91099-hvr.json) |
 | HVRGun | 29707 | [29707-hvrgun.json](./29707-hvrgun.json) |
