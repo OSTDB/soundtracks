@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Prince | 48891 | [48891-panda-prince.json](./48891-panda-prince.json) |
 | Panda Push | 162868 | [162868-panda-push.json](./162868-panda-push.json) |
 | Panda vs Lightning | 98796 | [98796-panda-vs-lightning.json](./98796-panda-vs-lightning.json) |
+| Panda vs. Bugs | 196555 | [196555-panda-vs-bugs.json](./196555-panda-vs-bugs.json) |
 | Panda? | 287715 | [287715-panda.json](./287715-panda.json) |
 | Pandamonium | 345520 | [345520-pandamonium.json](./345520-pandamonium.json) |
 | PandaSG | 157122 | [157122-pandasg.json](./157122-pandasg.json) |
@@ -1593,6 +1594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pee War! | 163861 | [163861-pee-war.json](./163861-pee-war.json) |
 | Peech World | 311599 | [311599-peech-world.json](./311599-peech-world.json) |
 | Peek a Boo | 225606 | [225606-peek-a-boo.json](./225606-peek-a-boo.json) |
+| Peek a Phone | 196560 | [196560-peek-a-phone.json](./196560-peek-a-phone.json) |
 | Peek a Rabbit! | 395666 | [395666-peek-a-rabbit.json](./395666-peek-a-rabbit.json) |
 | Peek-A-Boo Poker | 48277 | [48277-peek-a-boo-poker.json](./48277-peek-a-boo-poker.json) |
 | Peek-a-Boo! | 40407 | [40407-peek-a-boo.json](./40407-peek-a-boo.json) |
@@ -6428,6 +6430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Unity | 275572 | [275572-project-unity.json](./275572-project-unity.json) |
 | Project: Waterfall | 224783 | [224783-project-waterfall.json](./224783-project-waterfall.json) |
 | Project: X Insurrection | 147292 | [147292-project-x-insurrection.json](./147292-project-x-insurrection.json) |
+| Project: XD | 196595 | [196595-project-xd.json](./196595-project-xd.json) |
 | Project: Youtuber | 147301 | [147301-project-youtuber.json](./147301-project-youtuber.json) |
 | Project:Pong | 149440 | [149440-project-pong.json](./149440-project-pong.json) |
 | Projectile Fighter | 109490 | [109490-projectile-fighter.json](./109490-projectile-fighter.json) |
@@ -6931,6 +6934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purifying Fox | 358507 | [358507-purifying-fox.json](./358507-purifying-fox.json) |
 | Purikura Daisakusen | 39572 | [39572-purikura-daisakusen.json](./39572-purikura-daisakusen.json) |
 | Purin-chan's Boxing Gym 2 | 83229 | [83229-purin-chans-boxing-gym-2.json](./83229-purin-chans-boxing-gym-2.json) |
+| Puriore!: Smile Princess | 196566 | [196566-puriore-smile-princess.json](./196566-puriore-smile-princess.json) |
 | Purity | 184113 | [184113-purity.json](./184113-purity.json) |
 | Puroma | 410980 | [410980-puroma.json](./410980-puroma.json) |
 | Purple Chicken Spaceman | 117777 | [117777-purple-chicken-spaceman.json](./117777-purple-chicken-spaceman.json) |
