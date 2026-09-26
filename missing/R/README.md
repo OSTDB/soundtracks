@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Fishing | 373656 | [373656-rage-fishing.json](./373656-rage-fishing.json) |
 | Rage Gang | 270943 | [270943-rage-gang.json](./270943-rage-gang.json) |
 | Rage Jump | 141019 | [141019-rage-jump.json](./141019-rage-jump.json) |
+| Rage Multiplayer | 212734 | [212734-rage-multiplayer.json](./212734-rage-multiplayer.json) |
 | Rage Night | 224764 | [224764-rage-night.json](./224764-rage-night.json) |
 | Rage of Mages | 13154 | [13154-rage-of-mages.json](./13154-rage-of-mages.json) |
 | Rage of the Dragons NEO | 296483 | [296483-rage-of-the-dragons-neo.json](./296483-rage-of-the-dragons-neo.json) |
@@ -1690,6 +1691,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RedCat Megapack | 242638 | [242638-redcat-megapack.json](./242638-redcat-megapack.json) |
 | RedCat Megapack 2 | 242639 | [242639-redcat-megapack-2.json](./242639-redcat-megapack-2.json) |
 | RedCat Megapack 3 | 242640 | [242640-redcat-megapack-3.json](./242640-redcat-megapack-3.json) |
+| RedCat Spookkasteel | 212738 | [212738-redcat-spookkasteel.json](./212738-redcat-spookkasteel.json) |
+| RedCat Superkarts | 212753 | [212753-redcat-superkarts.json](./212753-redcat-superkarts.json) |
 | RedCat: De Brutale Bankroof | 201297 | [201297-redcat-de-brutale-bankroof.json](./201297-redcat-de-brutale-bankroof.json) |
 | RedCat: De Duistere Dierendiefstal | 242637 | [242637-redcat-de-duistere-dierendiefstal.json](./242637-redcat-de-duistere-dierendiefstal.json) |
 | RedCat: De Europese Stedentocht | 242635 | [242635-redcat-de-europese-stedentocht.json](./242635-redcat-de-europese-stedentocht.json) |
@@ -1697,6 +1700,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RedCat: De Spannende Stedentocht | 125279 | [125279-redcat-de-spannende-stedentocht.json](./125279-redcat-de-spannende-stedentocht.json) |
 | RedCat: De Toffe Tijdreis | 201299 | [201299-redcat-de-toffe-tijdreis.json](./201299-redcat-de-toffe-tijdreis.json) |
 | RedCat: De Woeste Woordenbrij | 201300 | [201300-redcat-de-woeste-woordenbrij.json](./201300-redcat-de-woeste-woordenbrij.json) |
+| RedCat: Het Levende Kleurboek | 212751 | [212751-redcat-het-levende-kleurboek.json](./212751-redcat-het-levende-kleurboek.json) |
+| RedCat: Het Machtige Monumenten Mysterie | 212752 | [212752-redcat-het-machtige-monumenten-mysterie.json](./212752-redcat-het-machtige-monumenten-mysterie.json) |
 | Redcon | 25098 | [25098-redcon.json](./25098-redcon.json) |
 | Redcrest: 1993 | 346241 | [346241-redcrest-1993.json](./346241-redcrest-1993.json) |
 | Redd War: Turnabout | 318805 | [318805-redd-war-turnabout.json](./318805-redd-war-turnabout.json) |
@@ -3856,6 +3861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman 3: Claw | 269880 | [269880-rockman-3-claw.json](./269880-rockman-3-claw.json) |
 | Rockman 4: Burst Chaser X Air Sliding | 245380 | [245380-rockman-4-burst-chaser-x-air-sliding.json](./245380-rockman-4-burst-chaser-x-air-sliding.json) |
 | Rockman 5: Double Jumper | 322118 | [322118-rockman-5-double-jumper.json](./322118-rockman-5-double-jumper.json) |
+| Rockman 7 EP | 212782 | [212782-rockman-7-ep.json](./212782-rockman-7-ep.json) |
 | Rockman 7 FC | 137115 | [137115-rockman-7-fc.json](./137115-rockman-7-fc.json) |
 | Rockman 8 FC | 137116 | [137116-rockman-8-fc.json](./137116-rockman-8-fc.json) |
 | Rockman Battle & Fighters | 75515 | [75515-rockman-battle-and-fighters.json](./75515-rockman-battle-and-fighters.json) |
