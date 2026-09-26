@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lake Masters | 67302 | [67302-lake-masters.json](./67302-lake-masters.json) |
 | Lake Masters 2 | 67298 | [67298-lake-masters-2.json](./67298-lake-masters-2.json) |
 | Lake Masters Pro | 67300 | [67300-lake-masters-pro.json](./67300-lake-masters-pro.json) |
+| Lake of Creatures | 190990 | [190990-lake-of-creatures.json](./190990-lake-of-creatures.json) |
 | Lake of Darkness | 351116 | [351116-lake-of-darkness.json](./351116-lake-of-darkness.json) |
 | Lake of Shadows | 165548 | [165548-lake-of-shadows.json](./165548-lake-of-shadows.json) |
 | Lake Ridden | 27943 | [27943-lake-ridden.json](./27943-lake-ridden.json) |
@@ -1846,6 +1847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of a Capitalist | 118407 | [118407-life-of-a-capitalist.json](./118407-life-of-a-capitalist.json) |
 | Life of a Goldfish | 364670 | [364670-life-of-a-goldfish.json](./364670-life-of-a-goldfish.json) |
 | Life of a Lonely Indie Game Developer | 324888 | [324888-life-of-a-lonely-indie-game-developer.json](./324888-life-of-a-lonely-indie-game-developer.json) |
+| Life of a Space Force Captain | 190947 | [190947-life-of-a-space-force-captain.json](./190947-life-of-a-space-force-captain.json) |
 | Life of a Thug | 306341 | [306341-life-of-a-thug.json](./306341-life-of-a-thug.json) |
 | Life of an NPC | 381128 | [381128-life-of-an-npc.json](./381128-life-of-an-npc.json) |
 | Life of D. Duck II | 70643 | [70643-life-of-d-duck-ii.json](./70643-life-of-d-duck-ii.json) |
@@ -2159,6 +2161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limit Choice | 253601 | [253601-limit-choice.json](./253601-limit-choice.json) |
 | Limit Zero Breakers | 361763 | [361763-limit-zero-breakers.json](./361763-limit-zero-breakers.json) |
 | LiMiT's Escape Room Games | 196161 | [196161-limits-escape-room-games.json](./196161-limits-escape-room-games.json) |
+| Limitless Hunger | 190986 | [190986-limitless-hunger.json](./190986-limitless-hunger.json) |
 | Limitless Runner | 359085 | [359085-limitless-runner.json](./359085-limitless-runner.json) |
 | Limits | 379052 | [379052-limits.json](./379052-limits.json) |
 | Limits of Intelligence | 301821 | [301821-limits-of-intelligence.json](./301821-limits-of-intelligence.json) |
@@ -3437,6 +3440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost World | 226183 | [226183-lost-world.json](./226183-lost-world.json) |
 | Lost Zion | 395555 | [395555-lost-zion.json](./395555-lost-zion.json) |
 | Lostade | 377694 | [377694-lostade.json](./377694-lostade.json) |
+| Losted | 190962 | [190962-losted.json](./190962-losted.json) |
 | Losted Mind | 348256 | [348256-losted-mind.json](./348256-losted-mind.json) |
 | Lostgamer | 231504 | [231504-lostgamer.json](./231504-lostgamer.json) |
 | LostHero | 138248 | [138248-losthero.json](./138248-losthero.json) |
