@@ -753,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VHScape | 316759 | [316759-vhscape.json](./316759-vhscape.json) |
 | VHSMan | 386417 | [386417-vhsman.json](./386417-vhsman.json) |
 | VIA | 377289 | [377289-via.json](./377289-via.json) |
+| Via Negativa | 186623 | [186623-via-negativa.json](./186623-via-negativa.json) |
 | Viaje al centro de la Tierra | 138807 | [138807-viaje-al-centro-de-la-tierra.json](./138807-viaje-al-centro-de-la-tierra.json) |
 | Vianiato PopOut | 334757 | [334757-vianiato-popout.json](./334757-vianiato-popout.json) |
 | Vibin'Vendetta | 302671 | [302671-vibinvendetta.json](./302671-vibinvendetta.json) |
@@ -1708,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vulcan Tower Defence | 234759 | [234759-vulcan-tower-defence.json](./234759-vulcan-tower-defence.json) |
 | Vulcard | 351715 | [351715-vulcard.json](./351715-vulcard.json) |
 | Vulpine | 82477 | [82477-vulpine.json](./82477-vulpine.json) |
+| Vultur: Magic Artifact Retrieval Service | 186643 | [186643-vultur-magic-artifact-retrieval-service.json](./186643-vultur-magic-artifact-retrieval-service.json) |
 | Vulture Attack | 40721 | [40721-vulture-attack.json](./40721-vulture-attack.json) |
 | Vulture: Unlimited Frontier - 0 | 255130 | [255130-vulture-unlimited-frontier-0.json](./255130-vulture-unlimited-frontier-0.json) |
 | VVVV | 225771 | [225771-vvvv.json](./225771-vvvv.json) |
