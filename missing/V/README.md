@@ -54,10 +54,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacant Ark | 266188 | [266188-vacant-ark.json](./266188-vacant-ark.json) |
 | Vacant Sky Vol. I: Contention | 83916 | [83916-vacant-sky-vol-i-contention.json](./83916-vacant-sky-vol-i-contention.json) |
 | Vacant's Mine | 289918 | [289918-vacants-mine.json](./289918-vacants-mine.json) |
+| Vacation Adventures: Cruise Director 3 | 193219 | [193219-vacation-adventures-cruise-director-3.json](./193219-vacation-adventures-cruise-director-3.json) |
+| Vacation Adventures: Cruise Director 4 | 193220 | [193220-vacation-adventures-cruise-director-4.json](./193220-vacation-adventures-cruise-director-4.json) |
 | Vacation Adventures: Cruise Director 6 | 201597 | [201597-vacation-adventures-cruise-director-6.json](./201597-vacation-adventures-cruise-director-6.json) |
 | Vacation Adventures: Cruise Director 8 - Collector's Edition | 248015 | [248015-vacation-adventures-cruise-director-8-collectors-edition.json](./248015-vacation-adventures-cruise-director-8-collectors-edition.json) |
 | Vacation Adventures: Park Ranger | 85464 | [85464-vacation-adventures-park-ranger.json](./85464-vacation-adventures-park-ranger.json) |
 | Vacation Adventures: Park Ranger 11 | 147421 | [147421-vacation-adventures-park-ranger-11.json](./147421-vacation-adventures-park-ranger-11.json) |
+| Vacation Adventures: Park Ranger 12 | 193218 | [193218-vacation-adventures-park-ranger-12.json](./193218-vacation-adventures-park-ranger-12.json) |
 | Vacation Adventures: Park Ranger 14 | 216854 | [216854-vacation-adventures-park-ranger-14.json](./216854-vacation-adventures-park-ranger-14.json) |
 | Vacation Adventures: Park Ranger 16 - Collectors Edition | 311108 | [311108-vacation-adventures-park-ranger-16-collectors-edition.json](./311108-vacation-adventures-park-ranger-16-collectors-edition.json) |
 | Vacation Adventures: Park Ranger 2 | 85465 | [85465-vacation-adventures-park-ranger-2.json](./85465-vacation-adventures-park-ranger-2.json) |
