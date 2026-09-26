@@ -753,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawnmower Game: Mission X | 368655 | [368655-lawnmower-game-mission-x.json](./368655-lawnmower-game-mission-x.json) |
 | Lawnmower Game: Mortal Race | 202657 | [202657-lawnmower-game-mortal-race.json](./202657-lawnmower-game-mortal-race.json) |
 | Lawnmower Game: Pinball | 384069 | [384069-lawnmower-game-pinball.json](./384069-lawnmower-game-pinball.json) |
+| Lawnmower Game: Space Fight | 188954 | [188954-lawnmower-game-space-fight.json](./188954-lawnmower-game-space-fight.json) |
 | Lawnmower Game: Space Race | 225605 | [225605-lawnmower-game-space-race.json](./225605-lawnmower-game-space-race.json) |
 | Lawnmower Maniac | 385874 | [385874-lawnmower-maniac.json](./385874-lawnmower-maniac.json) |
 | LawnMower: Mortal Race | 219284 | [219284-lawnmower-mortal-race.json](./219284-lawnmower-mortal-race.json) |
