@@ -1379,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Circle of the Moon | 222410 | [222410-castlevania-circle-of-the-moon.json](./222410-castlevania-circle-of-the-moon.json) |
 | Castlevania: Circle of the Moon - Card Mode | 219075 | [219075-castlevania-circle-of-the-moon-card-mode.json](./219075-castlevania-circle-of-the-moon-card-mode.json) |
 | Castlevania: Circle of the Moon GBC | 215764 | [215764-castlevania-circle-of-the-moon-gbc.json](./215764-castlevania-circle-of-the-moon-gbc.json) |
+| Castlevania: Circle of the Realm | 208308 | [208308-castlevania-circle-of-the-realm.json](./208308-castlevania-circle-of-the-realm.json) |
 | Castlevania: Dawn of Sorrow | 1136 | [1136-castlevania-dawn-of-sorrow.json](./1136-castlevania-dawn-of-sorrow.json) |
 | Castlevania: Dawn of Sorrow | 315314 | [315314-castlevania-dawn-of-sorrow.json](./315314-castlevania-dawn-of-sorrow.json) |
 | Castlevania: Dawn of Sorrow | 336029 | [336029-castlevania-dawn-of-sorrow.json](./336029-castlevania-dawn-of-sorrow.json) |
@@ -4675,6 +4676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorful Logic 3 | 221275 | [221275-colorful-logic-3.json](./221275-colorful-logic-3.json) |
 | Colorful Mirai: Spooky Edition | 308962 | [308962-colorful-mirai-spooky-edition.json](./308962-colorful-mirai-spooky-edition.json) |
 | Colorful Party Wars | 201248 | [201248-colorful-party-wars.json](./201248-colorful-party-wars.json) |
+| Colorful Recolor | 208315 | [208315-colorful-recolor.json](./208315-colorful-recolor.json) |
 | Colorful Tower of Hanoi | 386701 | [386701-colorful-tower-of-hanoi.json](./386701-colorful-tower-of-hanoi.json) |
 | Colorful3D II | 131623 | [131623-colorful3d-ii.json](./131623-colorful3d-ii.json) |
 | Colorfuly Ball | 321485 | [321485-colorfuly-ball.json](./321485-colorfuly-ball.json) |
@@ -6540,6 +6542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Mouse | 74410 | [74410-crazy-mouse.json](./74410-crazy-mouse.json) |
 | Crazy Neighbour | 405613 | [405613-crazy-neighbour.json](./405613-crazy-neighbour.json) |
 | Crazy One | 242791 | [242791-crazy-one.json](./242791-crazy-one.json) |
+| Crazy Otto | 208322 | [208322-crazy-otto.json](./208322-crazy-otto.json) |
 | Crazy Penguin Catapult 2 | 67968 | [67968-crazy-penguin-catapult-2.json](./67968-crazy-penguin-catapult-2.json) |
 | Crazy Penguin Diner Run | 101974 | [101974-crazy-penguin-diner-run.json](./101974-crazy-penguin-diner-run.json) |
 | Crazy People | 273960 | [273960-crazy-people.json](./273960-crazy-people.json) |
