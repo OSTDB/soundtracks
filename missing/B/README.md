@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballatory | 391308 | [391308-ballatory.json](./391308-ballatory.json) |
 | Ballblazer | 176 | [176-ballblazer.json](./176-ballblazer.json) |
 | Ballblazer | 273081 | [273081-ballblazer.json](./273081-ballblazer.json) |
+| Balldventure | 226173 | [226173-balldventure.json](./226173-balldventure.json) |
 | Ballerburg | 129148 | [129148-ballerburg.json](./129148-ballerburg.json) |
 | Ballerburg: Castle Chaos | 43879 | [43879-ballerburg-castle-chaos.json](./43879-ballerburg-castle-chaos.json) |
 | Ballerina Magazine Dress Up | 95844 | [95844-ballerina-magazine-dress-up.json](./95844-ballerina-magazine-dress-up.json) |
