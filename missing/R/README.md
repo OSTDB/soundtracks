@@ -2471,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Game Store Simulator | 331111 | [331111-retro-game-store-simulator.json](./331111-retro-game-store-simulator.json) |
 | Retro Garbage | 62675 | [62675-retro-garbage.json](./62675-retro-garbage.json) |
 | Retro Geek Shop Simulator | 348968 | [348968-retro-geek-shop-simulator.json](./348968-retro-geek-shop-simulator.json) |
+| Retro Golden Age: Livingstone I Presume | 196052 | [196052-retro-golden-age-livingstone-i-presume.json](./196052-retro-golden-age-livingstone-i-presume.json) |
 | Retro Golf Mania | 408247 | [408247-retro-golf-mania.json](./408247-retro-golf-mania.json) |
 | Retro Granny's Garden | 70921 | [70921-retro-grannys-garden.json](./70921-retro-grannys-garden.json) |
 | Retro Horror Story | 318213 | [318213-retro-horror-story.json](./318213-retro-horror-story.json) |
@@ -3610,6 +3611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCop 2D 2: RoboCop vs. Terminator | 203234 | [203234-robocop-2d-2-robocop-vs-terminator.json](./203234-robocop-2d-2-robocop-vs-terminator.json) |
 | RoboCop 3 | 19695 | [19695-robocop-3.json](./19695-robocop-3.json) |
 | RoboCop 3 | 25167 | [25167-robocop-3.json](./25167-robocop-3.json) |
+| RoboCop Doom | 196020 | [196020-robocop-doom.json](./196020-robocop-doom.json) |
 | RoboCop Versus the Terminator | 288341 | [288341-robocop-versus-the-terminator.json](./288341-robocop-versus-the-terminator.json) |
 | RoboCop Versus the Terminator | 44464 | [44464-robocop-versus-the-terminator.json](./44464-robocop-versus-the-terminator.json) |
 | RoboCop Versus the Terminator | 8195 | [8195-robocop-versus-the-terminator.json](./8195-robocop-versus-the-terminator.json) |
