@@ -1198,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In My Shadow | 140488 | [140488-in-my-shadow.json](./140488-in-my-shadow.json) |
 | In Other Waters | 86504 | [86504-in-other-waters.json](./86504-in-other-waters.json) |
 | In Passing | 125443 | [125443-in-passing.json](./125443-in-passing.json) |
+| In Requiem | 178460 | [178460-in-requiem.json](./178460-in-requiem.json) |
 | In Search of Dr. Riptide | 69578 | [69578-in-search-of-dr-riptide.json](./69578-in-search-of-dr-riptide.json) |
 | In Search of Heroes! | 303584 | [303584-in-search-of-heroes.json](./303584-in-search-of-heroes.json) |
 | In Search of Light | 182522 | [182522-in-search-of-light.json](./182522-in-search-of-light.json) |
