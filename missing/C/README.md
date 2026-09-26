@@ -1241,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cast Cats | 312755 | [312755-cast-cats.json](./312755-cast-cats.json) |
 | Cast Dice Away | 324901 | [324901-cast-dice-away.json](./324901-cast-dice-away.json) |
 | Cast VR | 132206 | [132206-cast-vr.json](./132206-cast-vr.json) |
+| Castan | 197116 | [197116-castan.json](./197116-castan.json) |
 | Castaside | 348270 | [348270-castaside.json](./348270-castaside.json) |
 | Castaway | 295314 | [295314-castaway.json](./295314-castaway.json) |
 | Castaway Coconuts | 307916 | [307916-castaway-coconuts.json](./307916-castaway-coconuts.json) |
@@ -6878,6 +6879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criss Cross | 67520 | [67520-criss-cross.json](./67520-criss-cross.json) |
 | Cristal Absoluto | 411734 | [411734-cristal-absoluto.json](./411734-cristal-absoluto.json) |
 | Criteria | 326203 | [326203-criteria.json](./326203-criteria.json) |
+| Critias Empire | 197123 | [197123-critias-empire.json](./197123-critias-empire.json) |
 | Critical Annihilation | 36027 | [36027-critical-annihilation.json](./36027-critical-annihilation.json) |
 | Critical Bullet: 7th Target | 72121 | [72121-critical-bullet-7th-target.json](./72121-critical-bullet-7th-target.json) |
 | Critical Fishing | 293144 | [293144-critical-fishing.json](./293144-critical-fishing.json) |
@@ -7834,6 +7836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursor Thief | 261893 | [261893-cursor-thief.json](./261893-cursor-thief.json) |
 | Cursorcana | 343240 | [343240-cursorcana.json](./343240-cursorcana.json) |
 | CursorLublub | 334207 | [334207-cursorlublub.json](./334207-cursorlublub.json) |
+| Curtain Call | 197133 | [197133-curtain-call.json](./197133-curtain-call.json) |
 | Curtain Call | 405046 | [405046-curtain-call.json](./405046-curtain-call.json) |
 | Curtain Drop | 352828 | [352828-curtain-drop.json](./352828-curtain-drop.json) |
 | Curtainfall | 367613 | [367613-curtainfall.json](./367613-curtainfall.json) |
