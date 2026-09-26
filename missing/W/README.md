@@ -645,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer Blood Bowl | 394515 | [394515-warhammer-blood-bowl.json](./394515-warhammer-blood-bowl.json) |
 | Warhammer Quest: Silver Tower | 151194 | [151194-warhammer-quest-silver-tower.json](./151194-warhammer-quest-silver-tower.json) |
 | Warhammer Survivors | 376145 | [376145-warhammer-survivors.json](./376145-warhammer-survivors.json) |
+| Warhammer Underworlds: Online - Warband: Mollog's Mob | 196057 | [196057-warhammer-underworlds-online-warband-mollogs-mob.json](./196057-warhammer-underworlds-online-warband-mollogs-mob.json) |
 | Warhammer: Battle for Atluma | 28882 | [28882-warhammer-battle-for-atluma.json](./28882-warhammer-battle-for-atluma.json) |
 | Warhammer: Battle March | 20786 | [20786-warhammer-battle-march.json](./20786-warhammer-battle-march.json) |
 | Warhammer: Chaosbane - Deluxe Edition | 115064 | [115064-warhammer-chaosbane-deluxe-edition.json](./115064-warhammer-chaosbane-deluxe-edition.json) |
