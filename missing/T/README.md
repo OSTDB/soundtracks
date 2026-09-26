@@ -1562,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telusfax | 229810 | [229810-telusfax.json](./229810-telusfax.json) |
 | Temanava | 236768 | [236768-temanava.json](./236768-temanava.json) |
 | Temari Trials | 359984 | [359984-temari-trials.json](./359984-temari-trials.json) |
+| Temirana: The Lucky Princess and the Tragic Knights | 200452 | [200452-temirana-the-lucky-princess-and-the-tragic-knights.json](./200452-temirana-the-lucky-princess-and-the-tragic-knights.json) |
 | Temp Zero | 196258 | [196258-temp-zero.json](./196258-temp-zero.json) |
 | Tempaux | 354525 | [354525-tempaux.json](./354525-tempaux.json) |
 | Tempest | 143034 | [143034-tempest.json](./143034-tempest.json) |
@@ -2198,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thawed Waters | 260254 | [260254-thawed-waters.json](./260254-thawed-waters.json) |
 | The "Quiet, Please!" Collection | 95193 | [95193-the-quiet-please-collection.json](./95193-the-quiet-please-collection.json) |
 | The $100,000 Pyramid | 12372 | [12372-the-100-000-pyramid.json](./12372-the-100-000-pyramid.json) |
+| The 10th Planet | 200421 | [200421-the-10th-planet.json](./200421-the-10th-planet.json) |
 | The 13th Floor | 298323 | [298323-the-13th-floor.json](./298323-the-13th-floor.json) |
 | The 13th Floor | 356709 | [356709-the-13th-floor.json](./356709-the-13th-floor.json) |
 | The 13th Month | 166148 | [166148-the-13th-month.json](./166148-the-13th-month.json) |
@@ -6099,6 +6101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Premiership | 71787 | [71787-the-premiership.json](./71787-the-premiership.json) |
 | The Preschoolers: Season 1 - Extended Edition | 233006 | [233006-the-preschoolers-season-1-extended-edition.json](./233006-the-preschoolers-season-1-extended-edition.json) |
 | The Preservation Project | 204415 | [204415-the-preservation-project.json](./204415-the-preservation-project.json) |
+| The President | 200476 | [200476-the-president.json](./200476-the-president.json) |
 | The President | 209640 | [209640-the-president.json](./209640-the-president.json) |
 | The Presidential Assassins | 345004 | [345004-the-presidential-assassins.json](./345004-the-presidential-assassins.json) |
 | The Pressure of Ambition | 352376 | [352376-the-pressure-of-ambition.json](./352376-the-pressure-of-ambition.json) |
@@ -10303,6 +10306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Run | 129126 | [129126-top-run.json](./129126-top-run.json) |
 | Top Secret | 171498 | [171498-top-secret.json](./171498-top-secret.json) |
 | Top Skater | 18047 | [18047-top-skater.json](./18047-top-skater.json) |
+| Top Speed 2: Drag Rivals & Nitro Racing | 200464 | [200464-top-speed-2-drag-rivals-and-nitro-racing.json](./200464-top-speed-2-drag-rivals-and-nitro-racing.json) |
 | Top Speed 2: Racing Legends | 121448 | [121448-top-speed-2-racing-legends.json](./121448-top-speed-2-racing-legends.json) |
 | Top Spin | 5234 | [5234-top-spin.json](./5234-top-spin.json) |
 | Top Street Soccer | 102209 | [102209-top-street-soccer.json](./102209-top-street-soccer.json) |
@@ -11982,6 +11986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Panda: The Adventures of Ricky and Boxman | 226433 | [226433-trash-panda-the-adventures-of-ricky-and-boxman.json](./226433-trash-panda-the-adventures-of-ricky-and-boxman.json) |
 | Trash Pandamonium | 302931 | [302931-trash-pandamonium.json](./302931-trash-pandamonium.json) |
 | Trash Panic | 20692 | [20692-trash-panic.json](./20692-trash-panic.json) |
+| Trash Patrol: Academic Version | 200434 | [200434-trash-patrol-academic-version.json](./200434-trash-patrol-academic-version.json) |
 | Trash Poker | 176445 | [176445-trash-poker.json](./176445-trash-poker.json) |
 | Trash Punk: Deluxe Edition | 287122 | [287122-trash-punk-deluxe-edition.json](./287122-trash-punk-deluxe-edition.json) |
 | Trash Punk: Extended Edition | 298575 | [298575-trash-punk-extended-edition.json](./298575-trash-punk-extended-edition.json) |
