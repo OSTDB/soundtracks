@@ -956,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Park Master | 254751 | [254751-park-master.json](./254751-park-master.json) |
 | Park Patrol | 25619 | [25619-park-patrol.json](./25619-park-patrol.json) |
 | Park Ranger Simulator | 314460 | [314460-park-ranger-simulator.json](./314460-park-ranger-simulator.json) |
+| Park Ranger: Lost in the Woods | 223423 | [223423-park-ranger-lost-in-the-woods.json](./223423-park-ranger-lost-in-the-woods.json) |
 | Park Rangers of the Undead | 162843 | [162843-park-rangers-of-the-undead.json](./162843-park-rangers-of-the-undead.json) |
 | Park the Car | 166711 | [166711-park-the-car.json](./166711-park-the-car.json) |
 | Park the Retro Car | 309498 | [309498-park-the-retro-car.json](./309498-park-the-retro-car.json) |
@@ -1158,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastry Wars | 91730 | [91730-pastry-wars.json](./91730-pastry-wars.json) |
 | Pat Sajak's Trivia Gems | 98966 | [98966-pat-sajaks-trivia-gems.json](./98966-pat-sajaks-trivia-gems.json) |
 | Pata | 236799 | [236799-pata.json](./236799-pata.json) |
+| Patagon | 223412 | [223412-patagon.json](./223412-patagon.json) |
 | Patagonian Pilgrimage | 360755 | [360755-patagonian-pilgrimage.json](./360755-patagonian-pilgrimage.json) |
 | Patapon | 7812 | [7812-patapon.json](./7812-patapon.json) |
 | Patapon 2 | 7813 | [7813-patapon-2.json](./7813-patapon-2.json) |
@@ -1769,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Grind | 200746 | [200746-perfect-grind.json](./200746-perfect-grind.json) |
 | Perfect Heist 2: Historic Characters DLC | 274740 | [274740-perfect-heist-2-historic-characters-dlc.json](./274740-perfect-heist-2-historic-characters-dlc.json) |
 | Perfect Hue Arena | 384075 | [384075-perfect-hue-arena.json](./384075-perfect-hue-arena.json) |
+| Perfect Inventory | 223411 | [223411-perfect-inventory.json](./223411-perfect-inventory.json) |
 | Perfect Kick | 62980 | [62980-perfect-kick.json](./62980-perfect-kick.json) |
 | Perfect Landing | 265587 | [265587-perfect-landing.json](./265587-perfect-landing.json) |
 | Perfect Liar | 373536 | [373536-perfect-liar.json](./373536-perfect-liar.json) |
@@ -6038,6 +6041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Exo | 214038 | [214038-project-exo.json](./214038-project-exo.json) |
 | Project F.A.L.S.E. | 156529 | [156529-project-f-a-l-s-e.json](./156529-project-f-a-l-s-e.json) |
 | Project Faceless | 340048 | [340048-project-faceless.json](./340048-project-faceless.json) |
+| Project Faith | 223380 | [223380-project-faith.json](./223380-project-faith.json) |
 | Project Fiend | 346247 | [346247-project-fiend.json](./346247-project-fiend.json) |
 | Project Fireball | 258458 | [258458-project-fireball.json](./258458-project-fireball.json) |
 | Project Fist | 84806 | [84806-project-fist.json](./84806-project-fist.json) |
