@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint By Numbers: 8-Bit World Ep. 9 | 305509 | [305509-paint-by-numbers-8-bit-world-ep-9.json](./305509-paint-by-numbers-8-bit-world-ep-9.json) |
 | Paint by Pixel 2 | 249203 | [249203-paint-by-pixel-2.json](./249203-paint-by-pixel-2.json) |
 | Paint by Words | 374600 | [374600-paint-by-words.json](./374600-paint-by-words.json) |
+| Paint Car Derby | 180028 | [180028-paint-car-derby.json](./180028-paint-car-derby.json) |
 | Paint Chase | 317578 | [317578-paint-chase.json](./317578-paint-chase.json) |
 | Paint Desk Simulator | 265135 | [265135-paint-desk-simulator.json](./265135-paint-desk-simulator.json) |
 | Paint Gal Adventures | 388227 | [388227-paint-gal-adventures.json](./388227-paint-gal-adventures.json) |
@@ -3754,6 +3755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Settlers | 101340 | [101340-planetary-settlers.json](./101340-planetary-settlers.json) |
 | Planetbase | 13200 | [13200-planetbase.json](./13200-planetbase.json) |
 | PlanetCon | 114780 | [114780-planetcon.json](./114780-planetcon.json) |
+| PlanetDrop: A Tiny Space Adventure | 180011 | [180011-planetdrop-a-tiny-space-adventure.json](./180011-planetdrop-a-tiny-space-adventure.json) |
 | Planetes | 184628 | [184628-planetes.json](./184628-planetes.json) |
 | PlanetExplorerVR | 101566 | [101566-planetexplorervr.json](./101566-planetexplorervr.json) |
 | Planetfall | 12620 | [12620-planetfall.json](./12620-planetfall.json) |
@@ -6880,6 +6882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Delivery | 242234 | [242234-pumpkin-delivery.json](./242234-pumpkin-delivery.json) |
 | Pumpkin Farmer | 158177 | [158177-pumpkin-farmer.json](./158177-pumpkin-farmer.json) |
 | Pumpkin Ghost | 272269 | [272269-pumpkin-ghost.json](./272269-pumpkin-ghost.json) |
+| Pumpkin Invasion | 180025 | [180025-pumpkin-invasion.json](./180025-pumpkin-invasion.json) |
 | Pumpkin Jam | 269562 | [269562-pumpkin-jam.json](./269562-pumpkin-jam.json) |
 | PumpKin Majo | 235704 | [235704-pumpkin-majo.json](./235704-pumpkin-majo.json) |
 | Pumpkin Panic | 257329 | [257329-pumpkin-panic.json](./257329-pumpkin-panic.json) |
