@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of the Dead: Road to Fiddler's Green | 5900 | [5900-land-of-the-dead-road-to-fiddlers-green.json](./5900-land-of-the-dead-road-to-fiddlers-green.json) |
 | Land of the Lost: Crystal Adventure | 68042 | [68042-land-of-the-lost-crystal-adventure.json](./68042-land-of-the-lost-crystal-adventure.json) |
 | Land of the Vikings | 211376 | [211376-land-of-the-vikings.json](./211376-land-of-the-vikings.json) |
+| Land of Towers | 225585 | [225585-land-of-towers.json](./225585-land-of-towers.json) |
 | Land of Viewers | 204095 | [204095-land-of-viewers.json](./204095-land-of-viewers.json) |
 | Land of War: The Beginning | 122376 | [122376-land-of-war-the-beginning.json](./122376-land-of-war-the-beginning.json) |
 | Land of Warriors - Epic War | 100612 | [100612-land-of-warriors-epic-war.json](./100612-land-of-warriors-epic-war.json) |
@@ -733,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawnmower Game: 2024 | 340904 | [340904-lawnmower-game-2024.json](./340904-lawnmower-game-2024.json) |
 | Lawnmower Game: Mission X | 368655 | [368655-lawnmower-game-mission-x.json](./368655-lawnmower-game-mission-x.json) |
 | Lawnmower Game: Pinball | 384069 | [384069-lawnmower-game-pinball.json](./384069-lawnmower-game-pinball.json) |
+| Lawnmower Game: Space Race | 225605 | [225605-lawnmower-game-space-race.json](./225605-lawnmower-game-space-race.json) |
 | Lawnmower Maniac | 385874 | [385874-lawnmower-maniac.json](./385874-lawnmower-maniac.json) |
 | LawnMower: Mortal Race | 219284 | [219284-lawnmower-mortal-race.json](./219284-lawnmower-mortal-race.json) |
 | Lawnpocalypse | 379370 | [379370-lawnpocalypse.json](./379370-lawnpocalypse.json) |
@@ -1072,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Yashiyu 4 | 173774 | [173774-legend-of-yashiyu-4.json](./173774-legend-of-yashiyu-4.json) |
 | Legend of You | 163843 | [163843-legend-of-you.json](./163843-legend-of-you.json) |
 | Legend of Zelda: The Dual Mage | 323891 | [323891-legend-of-zelda-the-dual-mage.json](./323891-legend-of-zelda-the-dual-mage.json) |
+| Legend of Zero | 225601 | [225601-legend-of-zero.json](./225601-legend-of-zero.json) |
 | Legend Sang 1 | 374264 | [374264-legend-sang-1.json](./374264-legend-sang-1.json) |
 | Legend: Ashita he no Tsubasa | 334883 | [334883-legend-ashita-he-no-tsubasa.json](./334883-legend-ashita-he-no-tsubasa.json) |
 | Legend's Duty: The Rifted World | 397265 | [397265-legends-duty-the-rifted-world.json](./397265-legends-duty-the-rifted-world.json) |
