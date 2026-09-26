@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Chariots: Royal Legion | 43503 | [43503-war-chariots-royal-legion.json](./43503-war-chariots-royal-legion.json) |
 | War Church | 271805 | [271805-war-church.json](./271805-war-church.json) |
 | War crime | 82815 | [82815-war-crime.json](./82815-war-crime.json) |
+| War Dots | 211150 | [211150-war-dots.json](./211150-war-dots.json) |
 | War Doves | 24999 | [24999-war-doves.json](./24999-war-doves.json) |
 | War Eternal | 172670 | [172670-war-eternal.json](./172670-war-eternal.json) |
 | War For Galaxy | 250897 | [250897-war-for-galaxy.json](./250897-war-for-galaxy.json) |
