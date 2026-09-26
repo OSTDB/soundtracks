@@ -1141,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Megara: Demeter's Cat-astrophe | 149549 | [149549-adventures-of-megara-demeters-cat-astrophe.json](./149549-adventures-of-megara-demeters-cat-astrophe.json) |
 | Adventures of Mike | 101344 | [101344-adventures-of-mike.json](./101344-adventures-of-mike.json) |
 | Adventures of Pipi 2: Save Hype | 101639 | [101639-adventures-of-pipi-2-save-hype.json](./101639-adventures-of-pipi-2-save-hype.json) |
+| Adventures of Ruby Rabbit | 211702 | [211702-adventures-of-ruby-rabbit.json](./211702-adventures-of-ruby-rabbit.json) |
 | Adventures of Samuel: The Worst Game Ever Made | 196160 | [196160-adventures-of-samuel-the-worst-game-ever-made.json](./196160-adventures-of-samuel-the-worst-game-ever-made.json) |
 | Adventures of Tara | 393119 | [393119-adventures-of-tara.json](./393119-adventures-of-tara.json) |
 | Adventures of the Cat Leopold | 53166 | [53166-adventures-of-the-cat-leopold.json](./53166-adventures-of-the-cat-leopold.json) |
