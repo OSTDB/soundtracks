@@ -2397,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind the Hydra's Eyes | 374585 | [374585-behind-the-hydras-eyes.json](./374585-behind-the-hydras-eyes.json) |
 | Behind the Iron Gate | 14294 | [14294-behind-the-iron-gate.json](./14294-behind-the-iron-gate.json) |
 | Behind The Mask Bundle | 308578 | [308578-behind-the-mask-bundle.json](./308578-behind-the-mask-bundle.json) |
+| Behind the Screen & Defoliation | 194974 | [194974-behind-the-screen-and-defoliation.json](./194974-behind-the-screen-and-defoliation.json) |
 | Behind the Smile | 374800 | [374800-behind-the-smile.json](./374800-behind-the-smile.json) |
 | Behind The Truth | 83954 | [83954-behind-the-truth.json](./83954-behind-the-truth.json) |
 | Behind You | 34572 | [34572-behind-you.json](./34572-behind-you.json) |
@@ -2670,6 +2671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beta Runner | 47989 | [47989-beta-runner.json](./47989-beta-runner.json) |
 | Betaman 2000: Special Edition | 330521 | [330521-betaman-2000-special-edition.json](./330521-betaman-2000-special-edition.json) |
 | Betasuppe | 68968 | [68968-betasuppe.json](./68968-betasuppe.json) |
+| Betia Pera-pera English Adventure | 194976 | [194976-betia-pera-pera-english-adventure.json](./194976-betia-pera-pera-english-adventure.json) |
 | BeTrapped! | 71522 | [71522-betrapped.json](./71522-betrapped.json) |
 | Betray Me Not | 239679 | [239679-betray-me-not.json](./239679-betray-me-not.json) |
 | Betrayal At Club Low | 194803 | [194803-betrayal-at-club-low.json](./194803-betrayal-at-club-low.json) |
@@ -2833,6 +2835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibi & Tina: Die große Schnitzeljagd | 216188 | [216188-bibi-and-tina-die-gro-e-schnitzeljagd.json](./216188-bibi-and-tina-die-gro-e-schnitzeljagd.json) |
 | Bibi & Tina: Jump & Ride | 148356 | [148356-bibi-and-tina-jump-and-ride.json](./148356-bibi-and-tina-jump-and-ride.json) |
 | Bibi & Tina: Mikoschs großer Auftritt | 151206 | [151206-bibi-and-tina-mikoschs-gro-er-auftritt.json](./151206-bibi-and-tina-mikoschs-gro-er-auftritt.json) |
+| Bibi & Tina: New Adventures with Horses | 194979 | [194979-bibi-and-tina-new-adventures-with-horses.json](./194979-bibi-and-tina-new-adventures-with-horses.json) |
 | Bibi Blocksberg: Big Broom Race 4 | 375406 | [375406-bibi-blocksberg-big-broom-race-4.json](./375406-bibi-blocksberg-big-broom-race-4.json) |
 | Bibi Blocksberg: Der Magische Hexenkreis | 199069 | [199069-bibi-blocksberg-der-magische-hexenkreis.json](./199069-bibi-blocksberg-der-magische-hexenkreis.json) |
 | Bibi Blocksberg: Der verhexte Schloss-Schatz | 148498 | [148498-bibi-blocksberg-der-verhexte-schloss-schatz.json](./148498-bibi-blocksberg-der-verhexte-schloss-schatz.json) |
@@ -4199,6 +4202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockman 1988 | 225722 | [225722-blockman-1988.json](./225722-blockman-1988.json) |
 | Blockman Returns | 56427 | [56427-blockman-returns.json](./56427-blockman-returns.json) |
 | BlockMill | 249266 | [249266-blockmill.json](./249266-blockmill.json) |
+| Blocknator | 194993 | [194993-blocknator.json](./194993-blocknator.json) |
 | Blockor.io | 56443 | [56443-blockor-io.json](./56443-blockor-io.json) |
 | Blockout | 347672 | [347672-blockout.json](./347672-blockout.json) |
 | Blockpost Mobile | 225875 | [225875-blockpost-mobile.json](./225875-blockpost-mobile.json) |
