@@ -4084,6 +4084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguesphere | 297227 | [297227-roguesphere.json](./297227-roguesphere.json) |
 | Roguestorm Beats | 416651 | [416651-roguestorm-beats.json](./416651-roguestorm-beats.json) |
 | Roguesweeper | 389126 | [389126-roguesweeper.json](./389126-roguesweeper.json) |
+| RogueType | 221142 | [221142-roguetype.json](./221142-roguetype.json) |
 | Roguie | 382303 | [382303-roguie.json](./382303-roguie.json) |
 | Rogum: A Cat Match Puzzle | 386691 | [386691-rogum-a-cat-match-puzzle.json](./386691-rogum-a-cat-match-puzzle.json) |
 | Rogun Arena | 165046 | [165046-rogun-arena.json](./165046-rogun-arena.json) |
@@ -4558,6 +4559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Route-16 Collection | 411156 | [411156-route-16-collection.json](./411156-route-16-collection.json) |
 | Route-16 Turbo | 411159 | [411159-route-16-turbo.json](./411159-route-16-turbo.json) |
 | Route-16: R | 411158 | [411158-route-16-r.json](./411158-route-16-r.json) |
+| Routemania | 221114 | [221114-routemania.json](./221114-routemania.json) |
 | Router | 68936 | [68936-router.json](./68936-router.json) |
 | RouteWhom | 394513 | [394513-routewhom.json](./394513-routewhom.json) |
 | Routine | 8948 | [8948-routine.json](./8948-routine.json) |
