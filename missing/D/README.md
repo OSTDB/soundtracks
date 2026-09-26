@@ -5552,6 +5552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Dolittle | 43255 | [43255-dr-dolittle.json](./43255-dr-dolittle.json) |
 | Dr. Dude | 92441 | [92441-dr-dude.json](./92441-dr-dude.json) |
 | Dr. Emmerson's Nocturnes | 244355 | [244355-dr-emmersons-nocturnes.json](./244355-dr-emmersons-nocturnes.json) |
+| Dr. Emoji | 181147 | [181147-dr-emoji.json](./181147-dr-emoji.json) |
 | Dr. Finklestein's Marvelous Room | 275560 | [275560-dr-finklesteins-marvelous-room.json](./275560-dr-finklesteins-marvelous-room.json) |
 | Dr. Franken | 369599 | [369599-dr-franken.json](./369599-dr-franken.json) |
 | Dr. Fruit | 133789 | [133789-dr-fruit.json](./133789-dr-fruit.json) |
