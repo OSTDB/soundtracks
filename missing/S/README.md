@@ -1307,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorchy Sky Trials | 402905 | [402905-scorchy-sky-trials.json](./402905-scorchy-sky-trials.json) |
 | Score 3020 | 72037 | [72037-score-3020.json](./72037-score-3020.json) |
 | Score a goal (Physical football) | 29951 | [29951-score-a-goal-physical-football.json](./29951-score-a-goal-physical-football.json) |
+| Score Gun | 225603 | [225603-score-gun.json](./225603-score-gun.json) |
 | Score International Baja 1000 | 7446 | [7446-score-international-baja-1000.json](./7446-score-international-baja-1000.json) |
 | Score Rush Extended | 19854 | [19854-score-rush-extended.json](./19854-score-rush-extended.json) |
 | Score! Hero | 15851 | [15851-score-hero.json](./15851-score-hero.json) |
@@ -5398,6 +5399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Village VR | 187377 | [187377-slime-village-vr.json](./187377-slime-village-vr.json) |
 | Slime Volley | 264001 | [264001-slime-volley.json](./264001-slime-volley.json) |
 | Slime Voyage | 312575 | [312575-slime-voyage.json](./312575-slime-voyage.json) |
+| Slime vs. Mushroom 2 | 225581 | [225581-slime-vs-mushroom-2.json](./225581-slime-vs-mushroom-2.json) |
 | Slime Warrior | 260758 | [260758-slime-warrior.json](./260758-slime-warrior.json) |
 | Slime Wars | 292544 | [292544-slime-wars.json](./292544-slime-wars.json) |
 | Slime Weapon Master | 297614 | [297614-slime-weapon-master.json](./297614-slime-weapon-master.json) |
@@ -8749,6 +8751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Legends: Solar Eclipse - Collector's Edition | 338706 | [338706-spirit-legends-solar-eclipse-collectors-edition.json](./338706-spirit-legends-solar-eclipse-collectors-edition.json) |
 | Spirit Level | 322997 | [322997-spirit-level.json](./322997-spirit-level.json) |
 | Spirit Mancer | 224556 | [224556-spirit-mancer.json](./224556-spirit-mancer.json) |
+| Spirit Night | 225563 | [225563-spirit-night.json](./225563-spirit-night.json) |
 | Spirit Oath | 118383 | [118383-spirit-oath.json](./118383-spirit-oath.json) |
 | Spirit of Death | 294252 | [294252-spirit-of-death.json](./294252-spirit-of-death.json) |
 | Spirit of Maya | 29903 | [29903-spirit-of-maya.json](./29903-spirit-of-maya.json) |
