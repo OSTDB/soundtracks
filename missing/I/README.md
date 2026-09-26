@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idylls of the Lunar Maria | 302923 | [302923-idylls-of-the-lunar-maria.json](./302923-idylls-of-the-lunar-maria.json) |
 | Ie Naki Ko - Suzu no Sentaku | 92276 | [92276-ie-naki-ko-suzu-no-sentaku.json](./92276-ie-naki-ko-suzu-no-sentaku.json) |
 | Iesabel | 16645 | [16645-iesabel.json](./16645-iesabel.json) |
+| If | 204401 | [204401-if.json](./204401-if.json) |
 | If 2 | 204478 | [204478-if-2.json](./204478-if-2.json) |
 | If 3 | 204479 | [204479-if-3.json](./204479-if-3.json) |
 | If Enemy: Smack! | 413078 | [413078-if-enemy-smack.json](./413078-if-enemy-smack.json) |
