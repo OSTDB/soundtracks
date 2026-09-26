@@ -735,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Survival | 152728 | [152728-dark-survival.json](./152728-dark-survival.json) |
 | Dark Sword: The Light of Ainn | 295409 | [295409-dark-sword-the-light-of-ainn.json](./295409-dark-sword-the-light-of-ainn.json) |
 | Dark Swords | 119044 | [119044-dark-swords.json](./119044-dark-swords.json) |
+| Dark Swords Firelink | 198207 | [198207-dark-swords-firelink.json](./198207-dark-swords-firelink.json) |
 | Dark Tales from México: Prelude. Just a Dream... with the Sack Man | 222845 | [222845-dark-tales-from-mexico-prelude-just-a-dream-with-the-sack-man.json](./222845-dark-tales-from-mexico-prelude-just-a-dream-with-the-sack-man.json) |
 | Dark Tales: Edgar Allan Poe's Lenore - Collector's Edition | 370676 | [370676-dark-tales-edgar-allan-poes-lenore-collectors-edition.json](./370676-dark-tales-edgar-allan-poes-lenore-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's Morella - Collector's Edition | 370677 | [370677-dark-tales-edgar-allan-poes-morella-collectors-edition.json](./370677-dark-tales-edgar-allan-poes-morella-collectors-edition.json) |
