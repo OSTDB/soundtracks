@@ -1603,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Clock | 324256 | [324256-hell-clock.json](./324256-hell-clock.json) |
 | Hell Corp | 154568 | [154568-hell-corp.json](./154568-hell-corp.json) |
 | Hell Crusher | 202845 | [202845-hell-crusher.json](./202845-hell-crusher.json) |
+| Hell Diary | 212770 | [212770-hell-diary.json](./212770-hell-diary.json) |
 | Hell Dice Gambit | 388396 | [388396-hell-dice-gambit.json](./388396-hell-dice-gambit.json) |
 | Hell Dive | 324307 | [324307-hell-dive.json](./324307-hell-dive.json) |
 | Hell Dungeons: The Lost Soul | 236362 | [236362-hell-dungeons-the-lost-soul.json](./236362-hell-dungeons-the-lost-soul.json) |
@@ -3322,6 +3323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitozuma Sentai Aisaiger | 65519 | [65519-hitozuma-sentai-aisaiger.json](./65519-hitozuma-sentai-aisaiger.json) |
 | Hitstream | 268454 | [268454-hitstream.json](./268454-hitstream.json) |
 | Hitsuji no Hakobune | 408308 | [408308-hitsuji-no-hakobune.json](./408308-hitsuji-no-hakobune.json) |
+| Hitting Mices | 212730 | [212730-hitting-mices.json](./212730-hitting-mices.json) |
 | Hituzibuster | 229371 | [229371-hituzibuster.json](./229371-hituzibuster.json) |
 | Hivaneph: The Legend of Elles | 335372 | [335372-hivaneph-the-legend-of-elles.json](./335372-hivaneph-the-legend-of-elles.json) |
 | Hive | 172032 | [172032-hive.json](./172032-hive.json) |
