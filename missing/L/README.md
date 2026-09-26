@@ -1659,6 +1659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letters to Arralla | 224565 | [224565-letters-to-arralla.json](./224565-letters-to-arralla.json) |
 | Letters to Heaven | 274463 | [274463-letters-to-heaven.json](./274463-letters-to-heaven.json) |
 | Letters to the Metro | 182548 | [182548-letters-to-the-metro.json](./182548-letters-to-the-metro.json) |
+| Letters: Collector's Edition | 193748 | [193748-letters-collectors-edition.json](./193748-letters-collectors-edition.json) |
 | LettersFall 110% | 392794 | [392794-lettersfall-110.json](./392794-lettersfall-110.json) |
 | Lettters | 340564 | [340564-lettters.json](./340564-lettters.json) |
 | Lettuce Fish | 404977 | [404977-lettuce-fish.json](./404977-lettuce-fish.json) |
@@ -2363,6 +2364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Big Workshop | 124131 | [124131-little-big-workshop.json](./124131-little-big-workshop.json) |
 | Little Bill Thinks Big | 71805 | [71805-little-bill-thinks-big.json](./71805-little-bill-thinks-big.json) |
 | Little Bit War | 147259 | [147259-little-bit-war.json](./147259-little-bit-war.json) |
+| Little Boats of Farewell | 193730 | [193730-little-boats-of-farewell.json](./193730-little-boats-of-farewell.json) |
 | Little Boo and the Spectral Orbs | 386232 | [386232-little-boo-and-the-spectral-orbs.json](./386232-little-boo-and-the-spectral-orbs.json) |
 | Little Britain: The Video Game | 8557 | [8557-little-britain-the-video-game.json](./8557-little-britain-the-video-game.json) |
 | Little Bushman | 346039 | [346039-little-bushman.json](./346039-little-bushman.json) |
