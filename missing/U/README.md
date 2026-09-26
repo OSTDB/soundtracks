@@ -1197,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untameable | 313800 | [313800-untameable.json](./313800-untameable.json) |
 | Untamed | 280233 | [280233-untamed.json](./280233-untamed.json) |
 | Untamed Isle | 395197 | [395197-untamed-isle.json](./395197-untamed-isle.json) |
+| Untamed Isles | 186017 | [186017-untamed-isles.json](./186017-untamed-isles.json) |
 | Untamed Kingdom | 274765 | [274765-untamed-kingdom.json](./274765-untamed-kingdom.json) |
 | Untamed Tactics | 158184 | [158184-untamed-tactics.json](./158184-untamed-tactics.json) |
 | Untangle | 338820 | [338820-untangle.json](./338820-untangle.json) |
@@ -1209,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until the Last Philomel | 399077 | [399077-until-the-last-philomel.json](./399077-until-the-last-philomel.json) |
 | Until They Burn | 400949 | [400949-until-they-burn.json](./400949-until-they-burn.json) |
 | UntilZombieDown | 287759 | [287759-untilzombiedown.json](./287759-untilzombiedown.json) |
+| Untitled | 186022 | [186022-untitled.json](./186022-untitled.json) |
 | Untitled | 218540 | [218540-untitled.json](./218540-untitled.json) |
 | Untitled Block Platformer | 218384 | [218384-untitled-block-platformer.json](./218384-untitled-block-platformer.json) |
 | Untitled Car Game | 373018 | [373018-untitled-car-game.json](./373018-untitled-car-game.json) |
