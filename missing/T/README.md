@@ -10685,6 +10685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Spell Bubble: Character Pack Hong Meiling | 246646 | [246646-touhou-spell-bubble-character-pack-hong-meiling.json](./246646-touhou-spell-bubble-character-pack-hong-meiling.json) |
 | Touhou Spell Bubble: Character Pack Kogasa Tatara | 209492 | [209492-touhou-spell-bubble-character-pack-kogasa-tatara.json](./209492-touhou-spell-bubble-character-pack-kogasa-tatara.json) |
 | Touhou Spell Bubble: Diao ye zong - Song Pack | 209169 | [209169-touhou-spell-bubble-diao-ye-zong-song-pack.json](./209169-touhou-spell-bubble-diao-ye-zong-song-pack.json) |
+| Touhou Spell Bubble: Rhythm Game Song Pack | 209443 | [209443-touhou-spell-bubble-rhythm-game-song-pack.json](./209443-touhou-spell-bubble-rhythm-game-song-pack.json) |
 | Touhou Spell Bubble: Scarlet Devil Land Arrange Song Pack Vol.2 | 209468 | [209468-touhou-spell-bubble-scarlet-devil-land-arrange-song-pack-vol-2.json](./209468-touhou-spell-bubble-scarlet-devil-land-arrange-song-pack-vol-2.json) |
 | Touhou Spell Bubble: Side Story Pack Sanae Arc | 144773 | [144773-touhou-spell-bubble-side-story-pack-sanae-arc.json](./144773-touhou-spell-bubble-side-story-pack-sanae-arc.json) |
 | Touhou Spell Bubble: Sound Holic - Song Pack | 224507 | [224507-touhou-spell-bubble-sound-holic-song-pack.json](./224507-touhou-spell-bubble-sound-holic-song-pack.json) |
@@ -11010,6 +11011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toya | 404934 | [404934-toya.json](./404934-toya.json) |
 | Toybit Quest | 104039 | [104039-toybit-quest.json](./104039-toybit-quest.json) |
 | Toybox | 184645 | [184645-toybox.json](./184645-toybox.json) |
+| Toybox | 209423 | [209423-toybox.json](./209423-toybox.json) |
 | Toybox | 271305 | [271305-toybox.json](./271305-toybox.json) |
 | Toybox Aviation | 194421 | [194421-toybox-aviation.json](./194421-toybox-aviation.json) |
 | ToyBox Puzzle | 236407 | [236407-toybox-puzzle.json](./236407-toybox-puzzle.json) |
