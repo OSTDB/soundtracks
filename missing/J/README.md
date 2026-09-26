@@ -1161,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judge of Hasoon | 296928 | [296928-judge-of-hasoon.json](./296928-judge-of-hasoon.json) |
 | Judge Sim | 397266 | [397266-judge-sim.json](./397266-judge-sim.json) |
 | Judged: A Court Simulator | 112365 | [112365-judged-a-court-simulator.json](./112365-judged-a-court-simulator.json) |
+| Judgement | 182838 | [182838-judgement.json](./182838-judgement.json) |
 | Judgement | 335650 | [335650-judgement.json](./335650-judgement.json) |
 | Judgment Day: Pacific Assault | 340777 | [340777-judgment-day-pacific-assault.json](./340777-judgment-day-pacific-assault.json) |
 | Judgment: Apocalypse Survival Simulation | 33153 | [33153-judgment-apocalypse-survival-simulation.json](./33153-judgment-apocalypse-survival-simulation.json) |
