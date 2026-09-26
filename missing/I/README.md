@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love Finding Birds: Collector's Edition | 248656 | [248656-i-love-finding-birds-collectors-edition.json](./248656-i-love-finding-birds-collectors-edition.json) |
 | I Love Finding Cats & Pups | 256341 | [256341-i-love-finding-cats-and-pups.json](./256341-i-love-finding-cats-and-pups.json) |
 | I Love Finding Critters | 195177 | [195177-i-love-finding-critters.json](./195177-i-love-finding-critters.json) |
+| I Love Finding Critters!: Collector's Edition | 204974 | [204974-i-love-finding-critters-collectors-edition.json](./204974-i-love-finding-critters-collectors-edition.json) |
 | I Love Finding Furbabies: Collector's Edition | 277576 | [277576-i-love-finding-furbabies-collectors-edition.json](./277576-i-love-finding-furbabies-collectors-edition.json) |
 | I Love Finding More Cats | 190729 | [190729-i-love-finding-more-cats.json](./190729-i-love-finding-more-cats.json) |
 | I Love Finding More Cats!: Collector's Edition | 205224 | [205224-i-love-finding-more-cats-collectors-edition.json](./205224-i-love-finding-more-cats-collectors-edition.json) |
@@ -2088,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interview | 80233 | [80233-interview.json](./80233-interview.json) |
 | Interweaver | 296682 | [296682-interweaver.json](./296682-interweaver.json) |
 | Interworlds Academy | 117080 | [117080-interworlds-academy.json](./117080-interworlds-academy.json) |
+| Interwoven | 204970 | [204970-interwoven.json](./204970-interwoven.json) |
 | Interwoven Dream | 357811 | [357811-interwoven-dream.json](./357811-interwoven-dream.json) |
 | Intesa Vincente | 341899 | [341899-intesa-vincente.json](./341899-intesa-vincente.json) |
 | Intimate Abode | 302475 | [302475-intimate-abode.json](./302475-intimate-abode.json) |
