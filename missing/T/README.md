@@ -1843,6 +1843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal City | 314463 | [314463-terminal-city.json](./314463-terminal-city.json) |
 | Terminal Compression | 331969 | [331969-terminal-compression.json](./331969-terminal-compression.json) |
 | Terminal Defense | 298636 | [298636-terminal-defense.json](./298636-terminal-defense.json) |
+| Terminal Hacker | 178955 | [178955-terminal-hacker.json](./178955-terminal-hacker.json) |
 | Terminal Hacker | 30854 | [30854-terminal-hacker.json](./30854-terminal-hacker.json) |
 | Terminal Hacker - Into the Deep | 35935 | [35935-terminal-hacker-into-the-deep.json](./35935-terminal-hacker-into-the-deep.json) |
 | Terminal Machine | 54427 | [54427-terminal-machine.json](./54427-terminal-machine.json) |
@@ -2540,6 +2541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Avengers | 86108 | [86108-the-avengers.json](./86108-the-avengers.json) |
 | The Avengers United Battle Force | 297544 | [297544-the-avengers-united-battle-force.json](./297544-the-avengers-united-battle-force.json) |
 | The Average Everyday Adventures of Samantha Browne | 16984 | [16984-the-average-everyday-adventures-of-samantha-browne.json](./16984-the-average-everyday-adventures-of-samantha-browne.json) |
+| The Avoider | 178976 | [178976-the-avoider.json](./178976-the-avoider.json) |
 | The Awakened Avenger | 372467 | [372467-the-awakened-avenger.json](./372467-the-awakened-avenger.json) |
 | The Awakened Fate: Ultimatum | 19119 | [19119-the-awakened-fate-ultimatum.json](./19119-the-awakened-fate-ultimatum.json) |
 | The Awakener: Risen | 172702 | [172702-the-awakener-risen.json](./172702-the-awakener-risen.json) |
@@ -3136,6 +3138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Contract | 177530 | [177530-the-contract.json](./177530-the-contract.json) |
 | The Contract | 271756 | [271756-the-contract.json](./271756-the-contract.json) |
 | The Contract Bound | 224479 | [224479-the-contract-bound.json](./224479-the-contract-bound.json) |
+| The Contrast of 2 Worlds | 178939 | [178939-the-contrast-of-2-worlds.json](./178939-the-contrast-of-2-worlds.json) |
 | The Conveni: Ano Machi wo Dokusen Seyo | 178558 | [178558-the-conveni-ano-machi-wo-dokusen-seyo.json](./178558-the-conveni-ano-machi-wo-dokusen-seyo.json) |
 | The Cook in the Court of the Count | 397669 | [397669-the-cook-in-the-court-of-the-count.json](./397669-the-cook-in-the-court-of-the-count.json) |
 | The Cooking Game VR | 104045 | [104045-the-cooking-game-vr.json](./104045-the-cooking-game-vr.json) |
