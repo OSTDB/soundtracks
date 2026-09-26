@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vicious, Fateful Memories | 108992 | [108992-vicious-fateful-memories.json](./108992-vicious-fateful-memories.json) |
 | Vicky | 138753 | [138753-vicky.json](./138753-vicky.json) |
 | Vicky Saves the Big Dumb World | 34415 | [34415-vicky-saves-the-big-dumb-world.json](./34415-vicky-saves-the-big-dumb-world.json) |
+| Vico | 193768 | [193768-vico.json](./193768-vico.json) |
 | Vico 3: Tale of the Seven Seas | 243790 | [243790-vico-3-tale-of-the-seven-seas.json](./243790-vico-3-tale-of-the-seven-seas.json) |
 | Victim Doll | 239195 | [239195-victim-doll.json](./239195-victim-doll.json) |
 | Victim.exe | 335344 | [335344-victim-exe.json](./335344-victim-exe.json) |
@@ -1395,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volfoss | 66699 | [66699-volfoss.json](./66699-volfoss.json) |
 | Volgarr the Viking II | 304741 | [304741-volgarr-the-viking-ii.json](./304741-volgarr-the-viking-ii.json) |
 | Volley & Tennis Bundle Blast | 196812 | [196812-volley-and-tennis-bundle-blast.json](./196812-volley-and-tennis-bundle-blast.json) |
+| Volley Sumos | 193727 | [193727-volley-sumos.json](./193727-volley-sumos.json) |
 | Volleyball | 109446 | [109446-volleyball.json](./109446-volleyball.json) |
 | Volleyball Challenge | 43244 | [43244-volleyball-challenge.json](./43244-volleyball-challenge.json) |
 | Volleyball Champions 3D | 323322 | [323322-volleyball-champions-3d.json](./323322-volleyball-champions-3d.json) |
