@@ -474,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candlelight | 200472 | [200472-candlelight.json](./200472-candlelight.json) |
 | Candlelight | 276456 | [276456-candlelight.json](./276456-candlelight.json) |
 | Candleman:find yourself | 130755 | [130755-candleman-find-yourself.json](./130755-candleman-find-yourself.json) |
+| Candles | 178946 | [178946-candles.json](./178946-candles.json) |
 | Candles of the Damned | 271491 | [271491-candles-of-the-damned.json](./271491-candles-of-the-damned.json) |
 | Candy | 104011 | [104011-candy.json](./104011-candy.json) |
 | Candy Adventure HD | 232046 | [232046-candy-adventure-hd.json](./232046-candy-adventure-hd.json) |
@@ -5986,6 +5987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmica | 149948 | [149948-cosmica.json](./149948-cosmica.json) |
 | Cosminers | 309524 | [309524-cosminers.json](./309524-cosminers.json) |
 | Cosmo 02 | 165690 | [165690-cosmo-02.json](./165690-cosmo-02.json) |
+| Cosmo and Yuuko: A Space Adventure | 178958 | [178958-cosmo-and-yuuko-a-space-adventure.json](./178958-cosmo-and-yuuko-a-space-adventure.json) |
 | Cosmo Cargo | 394499 | [394499-cosmo-cargo.json](./394499-cosmo-cargo.json) |
 | Cosmo Fighter II | 112162 | [112162-cosmo-fighter-ii.json](./112162-cosmo-fighter-ii.json) |
 | Cosmo Flight | 346052 | [346052-cosmo-flight.json](./346052-cosmo-flight.json) |
@@ -7072,6 +7074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross or Crash | 241993 | [241993-cross-or-crash.json](./241993-cross-or-crash.json) |
 | Cross Pix 2 | 363970 | [363970-cross-pix-2.json](./363970-cross-pix-2.json) |
 | Cross Reunion | 237652 | [237652-cross-reunion.json](./237652-cross-reunion.json) |
+| Cross Review World | 178951 | [178951-cross-review-world.json](./178951-cross-review-world.json) |
 | Cross Seekers | 258987 | [258987-cross-seekers.json](./258987-cross-seekers.json) |
 | Cross Set Infinity | 74497 | [74497-cross-set-infinity.json](./74497-cross-set-infinity.json) |
 | Cross Tantei Monogatari: Motsureta Nanatsu no Labyrinth | 122982 | [122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json](./122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json) |
