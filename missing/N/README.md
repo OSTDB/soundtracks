@@ -2417,6 +2417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Momentum | 190979 | [190979-no-momentum.json](./190979-no-momentum.json) |
 | No More Cows | 399063 | [399063-no-more-cows.json](./399063-no-more-cows.json) |
 | No More Future | 177912 | [177912-no-more-future.json](./177912-no-more-future.json) |
+| No More Heroes 1 & 2 | 175207 | [175207-no-more-heroes-1-and-2.json](./175207-no-more-heroes-1-and-2.json) |
 | No More Heroes 1-3 Bundle | 384792 | [384792-no-more-heroes-1-3-bundle.json](./384792-no-more-heroes-1-3-bundle.json) |
 | No More Heroes III | 119387 | [119387-no-more-heroes-iii.json](./119387-no-more-heroes-iii.json) |
 | No More Heroes III: Day 1 Edition | 198394 | [198394-no-more-heroes-iii-day-1-edition.json](./198394-no-more-heroes-iii-day-1-edition.json) |
