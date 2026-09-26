@@ -230,6 +230,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Jungle Simulator | 86856 | [86856-ultimate-jungle-simulator.json](./86856-ultimate-jungle-simulator.json) |
 | Ultimate Knight Windom XP | 268438 | [268438-ultimate-knight-windom-xp.json](./268438-ultimate-knight-windom-xp.json) |
 | Ultimate Mah-Jongg | 228410 | [228410-ultimate-mah-jongg.json](./228410-ultimate-mah-jongg.json) |
+| Ultimate Mahjongg | 206058 | [206058-ultimate-mahjongg.json](./206058-ultimate-mahjongg.json) |
+| Ultimate Mahjongg 10 | 206057 | [206057-ultimate-mahjongg-10.json](./206057-ultimate-mahjongg-10.json) |
 | Ultimate MMA | 133385 | [133385-ultimate-mma.json](./133385-ultimate-mma.json) |
 | Ultimate Mortal Kombat 3 | 1621 | [1621-ultimate-mortal-kombat-3.json](./1621-ultimate-mortal-kombat-3.json) |
 | Ultimate Mortal Kombat 3 | 283814 | [283814-ultimate-mortal-kombat-3.json](./283814-ultimate-mortal-kombat-3.json) |
@@ -958,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universal Car Ball | 345030 | [345030-universal-car-ball.json](./345030-universal-car-ball.json) |
 | Universal Chaos | 40726 | [40726-universal-chaos.json](./40726-universal-chaos.json) |
 | Universal Combat | 70975 | [70975-universal-combat.json](./70975-universal-combat.json) |
+| Universal Combat: Collector's Edition | 206064 | [206064-universal-combat-collectors-edition.json](./206064-universal-combat-collectors-edition.json) |
 | Universal Conquest | 258741 | [258741-universal-conquest.json](./258741-universal-conquest.json) |
 | Universal Flight Simulator | 207890 | [207890-universal-flight-simulator.json](./207890-universal-flight-simulator.json) |
 | Universal Harvest: Incremental | 406890 | [406890-universal-harvest-incremental.json](./406890-universal-harvest-incremental.json) |
