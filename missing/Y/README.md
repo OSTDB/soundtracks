@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokubou Lock: Boku no Kanojo wa Shasei Kanrinin | 313262 | [313262-yokubou-lock-boku-no-kanojo-wa-shasei-kanrinin.json](./313262-yokubou-lock-boku-no-kanojo-wa-shasei-kanrinin.json) |
 | YOLO Life: The Beggining | 76562 | [76562-yolo-life-the-beggining.json](./76562-yolo-life-the-beggining.json) |
 | Yolo Space Hacker | 156008 | [156008-yolo-space-hacker.json](./156008-yolo-space-hacker.json) |
+| Yolo Space Hacker: Mission Bahamas | 196048 | [196048-yolo-space-hacker-mission-bahamas.json](./196048-yolo-space-hacker-mission-bahamas.json) |
 | Yomaia | 238768 | [238768-yomaia.json](./238768-yomaia.json) |
 | Yomawari: Lost in the Dark | 203885 | [203885-yomawari-lost-in-the-dark.json](./203885-yomawari-lost-in-the-dark.json) |
 | Yomawari: Night Alone | 11589 | [11589-yomawari-night-alone.json](./11589-yomawari-night-alone.json) |
