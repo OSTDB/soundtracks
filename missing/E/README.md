@@ -1973,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Error Loop | 329948 | [329948-error-loop.json](./329948-error-loop.json) |
 | Error_Boy.exe | 276255 | [276255-error-boy-exe.json](./276255-error-boy-exe.json) |
 | Error: Girlfriend Not Found | 406289 | [406289-error-girlfriend-not-found.json](./406289-error-girlfriend-not-found.json) |
+| Error: Slasher Alert | 176251 | [176251-error-slasher-alert.json](./176251-error-slasher-alert.json) |
 | Erst Kerf | 130906 | [130906-erst-kerf.json](./130906-erst-kerf.json) |
 | Erth | 134673 | [134673-erth.json](./134673-erth.json) |
 | Ertugrul | 274772 | [274772-ertugrul.json](./274772-ertugrul.json) |
