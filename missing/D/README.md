@@ -2005,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Diving Simulator: Adventure Pack | 154506 | [154506-deep-diving-simulator-adventure-pack.json](./154506-deep-diving-simulator-adventure-pack.json) |
 | Deep Down | 285011 | [285011-deep-down.json](./285011-deep-down.json) |
 | Deep Down & Dark | 263592 | [263592-deep-down-and-dark.json](./263592-deep-down-and-dark.json) |
+| Deep Dungeon | 177860 | [177860-deep-dungeon.json](./177860-deep-dungeon.json) |
 | Deep Dungeon Adventure | 311984 | [311984-deep-dungeon-adventure.json](./311984-deep-dungeon-adventure.json) |
 | Deep Dungeons of Doom | 17876 | [17876-deep-dungeons-of-doom.json](./17876-deep-dungeons-of-doom.json) |
 | Deep Echo | 25762 | [25762-deep-echo.json](./25762-deep-echo.json) |
@@ -2381,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delucid | 390254 | [390254-delucid.json](./390254-delucid.json) |
 | Deluge | 351644 | [351644-deluge.json](./351644-deluge.json) |
 | Deluge: Threnody of Crashing Waves | 173264 | [173264-deluge-threnody-of-crashing-waves.json](./173264-deluge-threnody-of-crashing-waves.json) |
+| Delunky: Endless Descent | 177861 | [177861-delunky-endless-descent.json](./177861-delunky-endless-descent.json) |
 | Delusion Gallery | 178607 | [178607-delusion-gallery.json](./178607-delusion-gallery.json) |
 | Delusional | 377584 | [377584-delusional.json](./377584-delusional.json) |
 | Deluxe Free Cell Solitaire | 86899 | [86899-deluxe-free-cell-solitaire.json](./86899-deluxe-free-cell-solitaire.json) |
