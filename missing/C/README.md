@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare II - Graffiti Tactical: Pro Pack | 257325 | [257325-call-of-duty-modern-warfare-ii-graffiti-tactical-pro-pack.json](./257325-call-of-duty-modern-warfare-ii-graffiti-tactical-pro-pack.json) |
 | Call of Duty: Modern Warfare II - Griffin: Pro Pack | 254759 | [254759-call-of-duty-modern-warfare-ii-griffin-pro-pack.json](./254759-call-of-duty-modern-warfare-ii-griffin-pro-pack.json) |
 | Call of Duty: Modern Warfare II - Season 03 | 243777 | [243777-call-of-duty-modern-warfare-ii-season-03.json](./243777-call-of-duty-modern-warfare-ii-season-03.json) |
+| Call of Duty: Modern Warfare II - Vault Edition | 218405 | [218405-call-of-duty-modern-warfare-ii-vault-edition.json](./218405-call-of-duty-modern-warfare-ii-vault-edition.json) |
 | Call of Duty: Modern Warfare III - Season 1 | 279645 | [279645-call-of-duty-modern-warfare-iii-season-1.json](./279645-call-of-duty-modern-warfare-iii-season-1.json) |
 | Call of Duty: Modern Warfare III - Season 2 | 285601 | [285601-call-of-duty-modern-warfare-iii-season-2.json](./285601-call-of-duty-modern-warfare-iii-season-2.json) |
 | Call of Duty: Modern Warfare III - Season 3 | 298563 | [298563-call-of-duty-modern-warfare-iii-season-3.json](./298563-call-of-duty-modern-warfare-iii-season-3.json) |
@@ -1171,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casebook: Episode 0 - The Missing Urn | 335437 | [335437-casebook-episode-0-the-missing-urn.json](./335437-casebook-episode-0-the-missing-urn.json) |
 | CaseCracker2 | 301425 | [301425-casecracker2.json](./301425-casecracker2.json) |
 | Casenology | 382778 | [382778-casenology.json](./382778-casenology.json) |
+| Casey Duck: Butter Duck | 218408 | [218408-casey-duck-butter-duck.json](./218408-casey-duck-butter-duck.json) |
 | Casey Noir and Carved Pumpkin's Latte | 353967 | [353967-casey-noir-and-carved-pumpkins-latte.json](./353967-casey-noir-and-carved-pumpkins-latte.json) |
 | Casey Powell Lacrosse 18 | 96477 | [96477-casey-powell-lacrosse-18.json](./96477-casey-powell-lacrosse-18.json) |
 | Cash Cleaner Simulator | 297943 | [297943-cash-cleaner-simulator.json](./297943-cash-cleaner-simulator.json) |
@@ -4173,6 +4175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clumsy Knight vs. Skeletons R | 200065 | [200065-clumsy-knight-vs-skeletons-r.json](./200065-clumsy-knight-vs-skeletons-r.json) |
 | Clumsy Pirates | 22272 | [22272-clumsy-pirates.json](./22272-clumsy-pirates.json) |
 | Clumsy Rush + Brawl Chess Family Bundle | 218455 | [218455-clumsy-rush-brawl-chess-family-bundle.json](./218455-clumsy-rush-brawl-chess-family-bundle.json) |
+| Clumsy Rush + Cyber Protocol | 218415 | [218415-clumsy-rush-cyber-protocol.json](./218415-clumsy-rush-cyber-protocol.json) |
 | Clumsy Rush: Ultimate Guys - Complete Edition | 232998 | [232998-clumsy-rush-ultimate-guys-complete-edition.json](./232998-clumsy-rush-ultimate-guys-complete-edition.json) |
 | Clumsy Rush: Ultimate Guys - Decorations Pack 12 | 251665 | [251665-clumsy-rush-ultimate-guys-decorations-pack-12.json](./251665-clumsy-rush-ultimate-guys-decorations-pack-12.json) |
 | Clumsy Rush: Ultimate Guys - Extended Edition | 238064 | [238064-clumsy-rush-ultimate-guys-extended-edition.json](./238064-clumsy-rush-ultimate-guys-extended-edition.json) |
