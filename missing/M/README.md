@@ -758,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Detective: The Stolen Love | 295919 | [295919-mahjong-detective-the-stolen-love.json](./295919-mahjong-detective-the-stolen-love.json) |
 | Mahjong Elements HD | 174371 | [174371-mahjong-elements-hd.json](./174371-mahjong-elements-hd.json) |
 | Mahjong Escape: Ancient China | 135673 | [135673-mahjong-escape-ancient-china.json](./135673-mahjong-escape-ancient-china.json) |
+| Mahjong Escape: Ancient Japan | 202093 | [202093-mahjong-escape-ancient-japan.json](./202093-mahjong-escape-ancient-japan.json) |
 | Mahjong Gakkou | 415967 | [415967-mahjong-gakkou.json](./415967-mahjong-gakkou.json) |
 | Mahjong Gakuen Touma Soushirou Toujou | 59429 | [59429-mahjong-gakuen-touma-soushirou-toujou.json](./59429-mahjong-gakuen-touma-soushirou-toujou.json) |
 | Mahjong Garden | 366439 | [366439-mahjong-garden.json](./366439-mahjong-garden.json) |
@@ -1470,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Bros. VB | 231513 | [231513-mario-bros-vb.json](./231513-mario-bros-vb.json) |
 | Mario Bros.-e | 170013 | [170013-mario-bros-e.json](./170013-mario-bros-e.json) |
 | Mario Builder | 323745 | [323745-mario-builder.json](./323745-mario-builder.json) |
+| Mario Cars 2: 64 | 202150 | [202150-mario-cars-2-64.json](./202150-mario-cars-2-64.json) |
 | Mario Doom | 314469 | [314469-mario-doom.json](./314469-mario-doom.json) |
 | Mario Drinks A Glass of Milk | 250051 | [250051-mario-drinks-a-glass-of-milk.json](./250051-mario-drinks-a-glass-of-milk.json) |
 | Mario Eisouoku: Illusionary Blossom of Cranium Prayer | 216179 | [216179-mario-eisouoku-illusionary-blossom-of-cranium-prayer.json](./216179-mario-eisouoku-illusionary-blossom-of-cranium-prayer.json) |
@@ -5528,6 +5530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixx Island: Remix Plus - Ultra Special | 308820 | [308820-mixx-island-remix-plus-ultra-special.json](./308820-mixx-island-remix-plus-ultra-special.json) |
 | Mixx Island: Remix Vol. 2 | 186316 | [186316-mixx-island-remix-vol-2.json](./186316-mixx-island-remix-vol-2.json) |
 | Miya Might Break | 390138 | [390138-miya-might-break.json](./390138-miya-might-break.json) |
+| Miya's Everyday Joy of Cooking | 202144 | [202144-miyas-everyday-joy-of-cooking.json](./202144-miyas-everyday-joy-of-cooking.json) |
 | Miyaji Shachou no Pachinko Fan: Shouri Sengen 2 | 37925 | [37925-miyaji-shachou-no-pachinko-fan-shouri-sengen-2.json](./37925-miyaji-shachou-no-pachinko-fan-shouri-sengen-2.json) |
 | Miyamoto | 175328 | [175328-miyamoto.json](./175328-miyamoto.json) |
 | Miyazato San Kyoudai Naizou: Sega Golf Club | 7454 | [7454-miyazato-san-kyoudai-naizou-sega-golf-club.json](./7454-miyazato-san-kyoudai-naizou-sega-golf-club.json) |
