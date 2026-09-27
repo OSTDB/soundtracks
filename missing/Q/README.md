@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qlione | 50840 | [50840-qlione.json](./50840-qlione.json) |
 | Qliphah in Providence's Shadow | 408068 | [408068-qliphah-in-providences-shadow.json](./408068-qliphah-in-providences-shadow.json) |
 | Qlorb 2 | 88241 | [88241-qlorb-2.json](./88241-qlorb-2.json) |
+| Qlrz | 134514 | [134514-qlrz.json](./134514-qlrz.json) |
 | Qomp | 142475 | [142475-qomp.json](./142475-qomp.json) |
 | Qop 3 | 102389 | [102389-qop-3.json](./102389-qop-3.json) |
 | Qorena | 211931 | [211931-qorena.json](./211931-qorena.json) |
