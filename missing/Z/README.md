@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenith | 377137 | [377137-zenith.json](./377137-zenith.json) |
 | Zenith Heroes | 306371 | [306371-zenith-heroes.json](./306371-zenith-heroes.json) |
 | Zenith Hunter | 107816 | [107816-zenith-hunter.json](./107816-zenith-hunter.json) |
+| Zenith Into Maronarium | 167601 | [167601-zenith-into-maronarium.json](./167601-zenith-into-maronarium.json) |
 | Zenith Realms | 367513 | [367513-zenith-realms.json](./367513-zenith-realms.json) |
 | Zenith Trace | 379879 | [379879-zenith-trace.json](./379879-zenith-trace.json) |
 | Zenith: The Last City | 145452 | [145452-zenith-the-last-city.json](./145452-zenith-the-last-city.json) |
