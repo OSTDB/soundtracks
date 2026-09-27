@@ -1871,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redneck Racers | 17199 | [17199-redneck-racers.json](./17199-redneck-racers.json) |
 | Redneck Rampage | 9002 | [9002-redneck-rampage.json](./9002-redneck-rampage.json) |
 | Redneck Rift | 207914 | [207914-redneck-rift.json](./207914-redneck-rift.json) |
+| Redneck Skeet Shooting | 120258 | [120258-redneck-skeet-shooting.json](./120258-redneck-skeet-shooting.json) |
 | Redo! | 114085 | [114085-redo.json](./114085-redo.json) |
 | Redout 2: Deluxe Edition | 205571 | [205571-redout-2-deluxe-edition.json](./205571-redout-2-deluxe-edition.json) |
 | Redout 2: Summer Pack | 224209 | [224209-redout-2-summer-pack.json](./224209-redout-2-summer-pack.json) |
@@ -2011,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regular Ordinary Boy | 51166 | [51166-regular-ordinary-boy.json](./51166-regular-ordinary-boy.json) |
 | Regular Show: Battle of the Behemoths | 185661 | [185661-regular-show-battle-of-the-behemoths.json](./185661-regular-show-battle-of-the-behemoths.json) |
 | Regular Show: Fist Punch | 185663 | [185663-regular-show-fist-punch.json](./185663-regular-show-fist-punch.json) |
+| Regular Show: Galaxy Escape | 120291 | [120291-regular-show-galaxy-escape.json](./120291-regular-show-galaxy-escape.json) |
 | Regular Show: Mordecai and Rigby in 8-Bit Land | 6869 | [6869-regular-show-mordecai-and-rigby-in-8-bit-land.json](./6869-regular-show-mordecai-and-rigby-in-8-bit-land.json) |
 | Regular Show: Paint War | 185662 | [185662-regular-show-paint-war.json](./185662-regular-show-paint-war.json) |
 | Regular Toad Game | 135125 | [135125-regular-toad-game.json](./135125-regular-toad-game.json) |
@@ -4456,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll in the Hole | 64670 | [64670-roll-in-the-hole.json](./64670-roll-in-the-hole.json) |
 | Roll It to the End | 244718 | [244718-roll-it-to-the-end.json](./244718-roll-it-to-the-end.json) |
 | Roll or Die | 382911 | [382911-roll-or-die.json](./382911-roll-or-die.json) |
+| Roll Prix | 120252 | [120252-roll-prix.json](./120252-roll-prix.json) |
 | Roll the Ball | 273418 | [273418-roll-the-ball.json](./273418-roll-the-ball.json) |
 | Roll the Dark Heart | 251850 | [251850-roll-the-dark-heart.json](./251850-roll-the-dark-heart.json) |
 | Roll The Die: Prologue | 309467 | [309467-roll-the-die-prologue.json](./309467-roll-the-die-prologue.json) |
