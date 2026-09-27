@@ -723,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Witch's Trial | 247201 | [247201-under-the-witchs-trial.json](./247201-under-the-witchs-trial.json) |
 | Under Tower Idle | 405585 | [405585-under-tower-idle.json](./405585-under-tower-idle.json) |
 | Under Walls | 289926 | [289926-under-walls.json](./289926-under-walls.json) |
+| Under What? | 120911 | [120911-under-what.json](./120911-under-what.json) |
 | Under Zero | 33223 | [33223-under-zero.json](./33223-under-zero.json) |
 | Underboard | 245819 | [245819-underboard.json](./245819-underboard.json) |
 | Undercards | 57109 | [57109-undercards.json](./57109-undercards.json) |
@@ -1554,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utakata no R: Kako-hen Awayuki | 221743 | [221743-utakata-no-r-kako-hen-awayuki.json](./221743-utakata-no-r-kako-hen-awayuki.json) |
 | Utauta-Uh: Seirei Songs | 167052 | [167052-utauta-uh-seirei-songs.json](./167052-utauta-uh-seirei-songs.json) |
 | Utawarerumono | 24080 | [24080-utawarerumono.json](./24080-utawarerumono.json) |
+| Utawarerumono: Lost Flag | 120286 | [120286-utawarerumono-lost-flag.json](./120286-utawarerumono-lost-flag.json) |
 | Utawarerumono: Past and Present Rediscovered | 387541 | [387541-utawarerumono-past-and-present-rediscovered.json](./387541-utawarerumono-past-and-present-rediscovered.json) |
 | Utawarerumono: Prelude to the Fallen - Premium Edition | 167071 | [167071-utawarerumono-prelude-to-the-fallen-premium-edition.json](./167071-utawarerumono-prelude-to-the-fallen-premium-edition.json) |
 | Utherous | 60488 | [60488-utherous.json](./60488-utherous.json) |
