@@ -1685,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enoch Never Dies | 350514 | [350514-enoch-never-dies.json](./350514-enoch-never-dies.json) |
 | Enoki | 157149 | [157149-enoki.json](./157149-enoki.json) |
 | Enotria: The Last Song | 218521 | [218521-enotria-the-last-song.json](./218521-enotria-the-last-song.json) |
+| Enough Plumbers | 141730 | [141730-enough-plumbers.json](./141730-enough-plumbers.json) |
 | Enough Sheep | 277382 | [277382-enough-sheep.json](./277382-enough-sheep.json) |
 | Enough with the Witch | 298677 | [298677-enough-with-the-witch.json](./298677-enough-with-the-witch.json) |
 | Enpitsu de Oku no Hosomichi DS | 269830 | [269830-enpitsu-de-oku-no-hosomichi-ds.json](./269830-enpitsu-de-oku-no-hosomichi-ds.json) |
@@ -2389,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESports Simulator | 309522 | [309522-esports-simulator.json](./309522-esports-simulator.json) |
 | Esports Team Manager | 356710 | [356710-esports-team-manager.json](./356710-esports-team-manager.json) |
 | Esse mundo é um Colosso | 230758 | [230758-esse-mundo-e-um-colosso.json](./230758-esse-mundo-e-um-colosso.json) |
+| Esse Rakuraku Kakeibo | 141724 | [141724-esse-rakuraku-kakeibo.json](./141724-esse-rakuraku-kakeibo.json) |
 | Essence | 383502 | [383502-essence.json](./383502-essence.json) |
 | Essence Child | 260967 | [260967-essence-child.json](./260967-essence-child.json) |
 | Essence Hunt | 177512 | [177512-essence-hunt.json](./177512-essence-hunt.json) |
