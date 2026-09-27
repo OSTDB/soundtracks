@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N3Rally | 310204 | [310204-n3rally.json](./310204-n3rally.json) |
 | N64 SP Map Jam | 300421 | [300421-n64-sp-map-jam.json](./300421-n64-sp-map-jam.json) |
 | Naals Tales | 311610 | [311610-naals-tales.json](./311610-naals-tales.json) |
+| Naau: The Lost Eye | 121570 | [121570-naau-the-lost-eye.json](./121570-naau-the-lost-eye.json) |
 | Nabi | 320551 | [320551-nabi.json](./320551-nabi.json) |
 | Nabokos | 185140 | [185140-nabokos.json](./185140-nabokos.json) |
 | Nachkriegsratten Punk-Rock Puzzle | 203300 | [203300-nachkriegsratten-punk-rock-puzzle.json](./203300-nachkriegsratten-punk-rock-puzzle.json) |
@@ -928,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekra Psaria 4 | 385188 | [385188-nekra-psaria-4.json](./385188-nekra-psaria-4.json) |
 | Nekro3 | 356836 | [356836-nekro3.json](./356836-nekro3.json) |
 | Nekron: 24 | 323199 | [323199-nekron-24.json](./323199-nekron-24.json) |
+| Nekrotronic VR | 121547 | [121547-nekrotronic-vr.json](./121547-nekrotronic-vr.json) |
 | Nekurogahara: Psycho Ronins | 359067 | [359067-nekurogahara-psycho-ronins.json](./359067-nekurogahara-psycho-ronins.json) |
 | Nelda Nockbladder's Anatomy Lesson | 73284 | [73284-nelda-nockbladders-anatomy-lesson.json](./73284-nelda-nockbladders-anatomy-lesson.json) |
 | Nell & the Festival of Spooks | 178569 | [178569-nell-and-the-festival-of-spooks.json](./178569-nell-and-the-festival-of-spooks.json) |
