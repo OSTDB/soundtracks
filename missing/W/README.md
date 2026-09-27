@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Lords | 377155 | [377155-war-lords.json](./377155-war-lords.json) |
 | War Machine | 93015 | [93015-war-machine.json](./93015-war-machine.json) |
 | War Machines | 86933 | [86933-war-machines.json](./86933-war-machines.json) |
+| War Mines: WW1 | 152721 | [152721-war-mines-ww1.json](./152721-war-mines-ww1.json) |
 | War Never Changes | 333590 | [333590-war-never-changes.json](./333590-war-never-changes.json) |
 | War Obelisks | 218977 | [218977-war-obelisks.json](./218977-war-obelisks.json) |
 | War of Aero | 39849 | [39849-war-of-aero.json](./39849-war-of-aero.json) |
@@ -794,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarpForce | 55876 | [55876-warpforce.json](./55876-warpforce.json) |
 | Warpie | 188034 | [188034-warpie.json](./188034-warpie.json) |
 | WarPlan | 125460 | [125460-warplan.json](./125460-warplan.json) |
+| Warplane Inc. | 152801 | [152801-warplane-inc.json](./152801-warplane-inc.json) |
 | Warplanes Bundle | 238436 | [238436-warplanes-bundle.json](./238436-warplanes-bundle.json) |
 | Warplanes Inc. | 327206 | [327206-warplanes-inc.json](./327206-warplanes-inc.json) |
 | Warplanes: Air Corp | 266302 | [266302-warplanes-air-corp.json](./266302-warplanes-air-corp.json) |
@@ -903,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warzone Chronicles: Virtual Warfare Shooter - Premium Edition | 308795 | [308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json](./308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json) |
 | WarZone Flashpoint | 112996 | [112996-warzone-flashpoint.json](./112996-warzone-flashpoint.json) |
 | Warzoom | 263999 | [263999-warzoom.json](./263999-warzoom.json) |
+| Was It Worth It? | 152811 | [152811-was-it-worth-it.json](./152811-was-it-worth-it.json) |
 | Wasabi Game | 245044 | [245044-wasabi-game.json](./245044-wasabi-game.json) |
 | WASD: The Adventure of Tori | 358333 | [358333-wasd-the-adventure-of-tori.json](./358333-wasd-the-adventure-of-tori.json) |
 | Wash Card | 223705 | [223705-wash-card.json](./223705-wash-card.json) |
@@ -1107,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayfarer | 178450 | [178450-wayfarer.json](./178450-wayfarer.json) |
 | Wayfarer | 310721 | [310721-wayfarer.json](./310721-wayfarer.json) |
 | Wayfarer Survival Mini-Game | 63288 | [63288-wayfarer-survival-mini-game.json](./63288-wayfarer-survival-mini-game.json) |
+| Wayfarers Edge | 152823 | [152823-wayfarers-edge.json](./152823-wayfarers-edge.json) |
 | Wayfarers: Call of Osiris | 156012 | [156012-wayfarers-call-of-osiris.json](./156012-wayfarers-call-of-osiris.json) |
 | Wayfinder | 152746 | [152746-wayfinder.json](./152746-wayfinder.json) |
 | Wayfinder: Episode One | 381694 | [381694-wayfinder-episode-one.json](./381694-wayfinder-episode-one.json) |
@@ -2224,6 +2228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wilds.io | 79877 | [79877-wilds-io.json](./79877-wilds-io.json) |
 | Wildseed | 356170 | [356170-wildseed.json](./356170-wildseed.json) |
 | Wildshade Fantasy Horse Races | 233069 | [233069-wildshade-fantasy-horse-races.json](./233069-wildshade-fantasy-horse-races.json) |
+| Wildsilver | 152784 | [152784-wildsilver.json](./152784-wildsilver.json) |
 | Wildsong | 287694 | [287694-wildsong.json](./287694-wildsong.json) |
 | Wildwood | 279754 | [279754-wildwood.json](./279754-wildwood.json) |
 | Wildwood: Graveyard Defense | 217539 | [217539-wildwood-graveyard-defense.json](./217539-wildwood-graveyard-defense.json) |
@@ -2310,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Surf Willy | 10850 | [10850-wind-surf-willy.json](./10850-wind-surf-willy.json) |
 | Wind Traveler | 324311 | [324311-wind-traveler.json](./324311-wind-traveler.json) |
 | Wind Up | 231291 | [231291-wind-up.json](./231291-wind-up.json) |
+| Wind Up! | 152785 | [152785-wind-up.json](./152785-wind-up.json) |
 | Wind-Up Knight | 65528 | [65528-wind-up-knight.json](./65528-wind-up-knight.json) |
 | Wind: A Breath of Heart | 161174 | [161174-wind-a-breath-of-heart.json](./161174-wind-a-breath-of-heart.json) |
 | Wind's Poem | 325065 | [325065-winds-poem.json](./325065-winds-poem.json) |
