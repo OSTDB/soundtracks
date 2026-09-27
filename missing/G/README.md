@@ -2639,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Rails: Small Town Story | 148909 | [148909-golden-rails-small-town-story.json](./148909-golden-rails-small-town-story.json) |
 | Golden Rainbow Slot Simulator | 88734 | [88734-golden-rainbow-slot-simulator.json](./88734-golden-rainbow-slot-simulator.json) |
 | Golden Record Retriever | 234310 | [234310-golden-record-retriever.json](./234310-golden-record-retriever.json) |
+| Golden Retriever | 168646 | [168646-golden-retriever.json](./168646-golden-retriever.json) |
 | Golden Road | 295853 | [295853-golden-road.json](./295853-golden-road.json) |
 | Golden Royal Hold'em | 67974 | [67974-golden-royal-holdem.json](./67974-golden-royal-holdem.json) |
 | Golden Sails | 329144 | [329144-golden-sails.json](./329144-golden-sails.json) |
@@ -3453,6 +3454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Garden | 365759 | [365759-gravity-garden.json](./365759-gravity-garden.json) |
 | Gravity Golfing | 255054 | [255054-gravity-golfing.json](./255054-gravity-golfing.json) |
 | Gravity Guy | 361723 | [361723-gravity-guy.json](./361723-gravity-guy.json) |
+| Gravity in Space | 168664 | [168664-gravity-in-space.json](./168664-gravity-in-space.json) |
 | Gravity Kid | 171601 | [171601-gravity-kid.json](./171601-gravity-kid.json) |
 | Gravity Knight | 413008 | [413008-gravity-knight.json](./413008-gravity-knight.json) |
 | Gravity Lane 981 | 121601 | [121601-gravity-lane-981.json](./121601-gravity-lane-981.json) |
