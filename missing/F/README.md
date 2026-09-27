@@ -4765,6 +4765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Fighters | 719 | [719-freedom-fighters.json](./719-freedom-fighters.json) |
 | Freedom Maker | 327825 | [327825-freedom-maker.json](./327825-freedom-maker.json) |
 | Freedom: A Time to Reckon | 72350 | [72350-freedom-a-time-to-reckon.json](./72350-freedom-a-time-to-reckon.json) |
+| Freedom! Do or Die | 168122 | [168122-freedom-do-or-die.json](./168122-freedom-do-or-die.json) |
 | FreedomBot | 391577 | [391577-freedombot.json](./391577-freedombot.json) |
 | Freefall Racers | 62981 | [62981-freefall-racers.json](./62981-freefall-racers.json) |
 | Freeflow | 340248 | [340248-freeflow.json](./340248-freeflow.json) |
