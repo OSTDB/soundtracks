@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Courtesan of Rome | 313819 | [313819-a-courtesan-of-rome.json](./313819-a-courtesan-of-rome.json) |
 | A Cozy Classics: Color Lines | 379467 | [379467-a-cozy-classics-color-lines.json](./379467-a-cozy-classics-color-lines.json) |
 | A Crazy Guy | 251010 | [251010-a-crazy-guy.json](./251010-a-crazy-guy.json) |
+| A Crooked Heart | 142335 | [142335-a-crooked-heart.json](./142335-a-crooked-heart.json) |
 | A Cup of Coffee | 211247 | [211247-a-cup-of-coffee.json](./211247-a-cup-of-coffee.json) |
 | A Cut Above: Mow & Grow | 379572 | [379572-a-cut-above-mow-and-grow.json](./379572-a-cut-above-mow-and-grow.json) |
 | A Cyberpunk's Dream of 2077 | 228992 | [228992-a-cyberpunks-dream-of-2077.json](./228992-a-cyberpunks-dream-of-2077.json) |
@@ -359,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Road That May Lead Nowhere | 77658 | [77658-a-road-that-may-lead-nowhere.json](./77658-a-road-that-may-lead-nowhere.json) |
 | A Roaming Wildebeest In Spain | 271244 | [271244-a-roaming-wildebeest-in-spain.json](./271244-a-roaming-wildebeest-in-spain.json) |
 | A Rocket's Intensity | 247777 | [247777-a-rockets-intensity.json](./247777-a-rockets-intensity.json) |
+| A Rogue Escape | 142376 | [142376-a-rogue-escape.json](./142376-a-rogue-escape.json) |
 | A Room Beyond | 33421 | [33421-a-room-beyond.json](./33421-a-room-beyond.json) |
 | A Room With a Ghost Girl | 306426 | [306426-a-room-with-a-ghost-girl.json](./306426-a-room-with-a-ghost-girl.json) |
 | A Room Without You In It | 165503 | [165503-a-room-without-you-in-it.json](./165503-a-room-without-you-in-it.json) |
@@ -1973,6 +1975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aki: Mahjong Solitaire | 146191 | [146191-aki-mahjong-solitaire.json](./146191-aki-mahjong-solitaire.json) |
 | Akiba Alive Urban Legend of Akihabara in Near Future | 382464 | [382464-akiba-alive-urban-legend-of-akihabara-in-near-future.json](./382464-akiba-alive-urban-legend-of-akihabara-in-near-future.json) |
 | Akiba's Beat | 19465 | [19465-akibas-beat.json](./19465-akibas-beat.json) |
+| Akiba’s Trip: First Memory - 10th Anniversary Edition | 142373 | [142373-akiba-s-trip-first-memory-10th-anniversary-edition.json](./142373-akiba-s-trip-first-memory-10th-anniversary-edition.json) |
 | Akiba's Trip: Undead & Undressed | 7268 | [7268-akibas-trip-undead-and-undressed.json](./7268-akibas-trip-undead-and-undressed.json) |
 | Akiba's Trip: Undead & Undressed - Kati Route | 204503 | [204503-akibas-trip-undead-and-undressed-kati-route.json](./204503-akibas-trip-undead-and-undressed-kati-route.json) |
 | Akihabara: Feel the Rhythm | 26770 | [26770-akihabara-feel-the-rhythm.json](./26770-akihabara-feel-the-rhythm.json) |
@@ -3655,6 +3658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anilife: An Animal Survival Adventure | 156991 | [156991-anilife-an-animal-survival-adventure.json](./156991-anilife-an-animal-survival-adventure.json) |
 | Anima | 193433 | [193433-anima.json](./193433-anima.json) |
 | Anima | 337817 | [337817-anima.json](./337817-anima.json) |
+| Anima ARPG | 142331 | [142331-anima-arpg.json](./142331-anima-arpg.json) |
 | Anima De Machina | 309975 | [309975-anima-de-machina.json](./309975-anima-de-machina.json) |
 | Anima Fighters | 332422 | [332422-anima-fighters.json](./332422-anima-fighters.json) |
 | Anima Flux | 249480 | [249480-anima-flux.json](./249480-anima-flux.json) |
