@@ -3790,6 +3790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Exclusion Zone Online | 153925 | [153925-the-exclusion-zone-online.json](./153925-the-exclusion-zone-online.json) |
 | The Executioner | 89375 | [89375-the-executioner.json](./89375-the-executioner.json) |
 | The Executioner: Prologue | 51993 | [51993-the-executioner-prologue.json](./51993-the-executioner-prologue.json) |
+| The Executioner: Watchmaker's Son | 170839 | [170839-the-executioner-watchmakers-son.json](./170839-the-executioner-watchmakers-son.json) |
 | The Exhibition | 407326 | [407326-the-exhibition.json](./407326-the-exhibition.json) |
 | The Exit 8 VR | 310522 | [310522-the-exit-8-vr.json](./310522-the-exit-8-vr.json) |
 | The Exit Project: Backstreets | 319939 | [319939-the-exit-project-backstreets.json](./319939-the-exit-project-backstreets.json) |
@@ -4402,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hero of Bangaona | 173067 | [173067-the-hero-of-bangaona.json](./173067-the-hero-of-bangaona.json) |
 | The Hero Of Pixel Spire | 370912 | [370912-the-hero-of-pixel-spire.json](./370912-the-hero-of-pixel-spire.json) |
 | The Hero Project: Redemption Season | 33089 | [33089-the-hero-project-redemption-season.json](./33089-the-hero-project-redemption-season.json) |
+| The Hero Project: Redemption Season - MeChip Warning System | 170822 | [170822-the-hero-project-redemption-season-mechip-warning-system.json](./170822-the-hero-project-redemption-season-mechip-warning-system.json) |
 | The Hero Unmasked! | 52274 | [52274-the-hero-unmasked.json](./52274-the-hero-unmasked.json) |
 | The Herobrine Mod | 232684 | [232684-the-herobrine-mod.json](./232684-the-herobrine-mod.json) |
 | The Heroic Legend of Eagarlnia: Expansion Pack | 199651 | [199651-the-heroic-legend-of-eagarlnia-expansion-pack.json](./199651-the-heroic-legend-of-eagarlnia-expansion-pack.json) |
@@ -6378,6 +6380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Real Texas: Dusty Skies Edition | 51922 | [51922-the-real-texas-dusty-skies-edition.json](./51922-the-real-texas-dusty-skies-edition.json) |
 | The Realm | 292558 | [292558-the-realm.json](./292558-the-realm.json) |
 | The Reaper Survivors | 224760 | [224760-the-reaper-survivors.json](./224760-the-reaper-survivors.json) |
+| The Reason Why Raeliana Ended up at the Duke's Mansion: Heika's Colorful Day Out | 170832 | [170832-the-reason-why-raeliana-ended-up-at-the-dukes-mansion-heikas-colorful-day-out.json](./170832-the-reason-why-raeliana-ended-up-at-the-dukes-mansion-heikas-colorful-day-out.json) |
 | The Reasons for It. | 397080 | [397080-the-reasons-for-it.json](./397080-the-reasons-for-it.json) |
 | The Rebirth of Kingdom Lo | 244868 | [244868-the-rebirth-of-kingdom-lo.json](./244868-the-rebirth-of-kingdom-lo.json) |
 | The Reconstruction | 130894 | [130894-the-reconstruction.json](./130894-the-reconstruction.json) |
@@ -6407,6 +6410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Redundant | 318979 | [318979-the-redundant.json](./318979-the-redundant.json) |
 | The Reggae Operation | 188119 | [188119-the-reggae-operation.json](./188119-the-reggae-operation.json) |
 | The Relief of Impact | 179751 | [179751-the-relief-of-impact.json](./179751-the-relief-of-impact.json) |
+| The Remainder: Act 1 | 170855 | [170855-the-remainder-act-1.json](./170855-the-remainder-act-1.json) |
 | The Remainder: Act 2 | 171387 | [171387-the-remainder-act-2.json](./171387-the-remainder-act-2.json) |
 | The Remains of El Dorado | 184570 | [184570-the-remains-of-el-dorado.json](./184570-the-remains-of-el-dorado.json) |
 | The Remission of Sins | 149042 | [149042-the-remission-of-sins.json](./149042-the-remission-of-sins.json) |
@@ -9859,7 +9863,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Tank Rumble | 85442 | [85442-titan-tank-rumble.json](./85442-titan-tank-rumble.json) |
 | Titan-3D | 53806 | [53806-titan-3d.json](./53806-titan-3d.json) |
 | Titan78 | 190147 | [190147-titan78.json](./190147-titan78.json) |
+| Titanfall 2: Angel City's Most Wanted Bundle | 170861 | [170861-titanfall-2-angel-citys-most-wanted-bundle.json](./170861-titanfall-2-angel-citys-most-wanted-bundle.json) |
 | Titanfall 2: Deluxe Edition | 53805 | [53805-titanfall-2-deluxe-edition.json](./53805-titanfall-2-deluxe-edition.json) |
+| Titanfall 2: Nitro Scorch Pack | 170862 | [170862-titanfall-2-nitro-scorch-pack.json](./170862-titanfall-2-nitro-scorch-pack.json) |
 | Titanfall Frontline | 400292 | [400292-titanfall-frontline.json](./400292-titanfall-frontline.json) |
 | Titanfall: Deluxe Edition | 83876 | [83876-titanfall-deluxe-edition.json](./83876-titanfall-deluxe-edition.json) |
 | Titanic | 10842 | [10842-titanic.json](./10842-titanic.json) |
@@ -12923,6 +12929,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Kyousoukyoku: Ai to Kanashimi no Rodeo | 327364 | [327364-truck-kyousoukyoku-ai-to-kanashimi-no-rodeo.json](./327364-truck-kyousoukyoku-ai-to-kanashimi-no-rodeo.json) |
 | Truck License Trainer | 391180 | [391180-truck-license-trainer.json](./391180-truck-license-trainer.json) |
 | Truck Life | 124166 | [124166-truck-life.json](./124166-truck-life.json) |
+| Truck Life: Gansu | 170814 | [170814-truck-life-gansu.json](./170814-truck-life-gansu.json) |
+| Truck Life: Hainan | 170815 | [170815-truck-life-hainan.json](./170815-truck-life-hainan.json) |
+| Truck Life: TaiWan | 170816 | [170816-truck-life-taiwan.json](./170816-truck-life-taiwan.json) |
 | Truck Mechanic Simulator 2015 | 36188 | [36188-truck-mechanic-simulator-2015.json](./36188-truck-mechanic-simulator-2015.json) |
 | Truck Mechanic: Dangerous Paths | 134668 | [134668-truck-mechanic-dangerous-paths.json](./134668-truck-mechanic-dangerous-paths.json) |
 | Truck Mondai | 244351 | [244351-truck-mondai.json](./244351-truck-mondai.json) |
