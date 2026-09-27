@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ...Knew the Beginning | 195155 | [195155-knew-the-beginning.json](./195155-knew-the-beginning.json) |
 | ..And the Mooncats | 185519 | [185519-and-the-mooncats.json](./185519-and-the-mooncats.json) |
 | .Atorb. | 330318 | [330318-atorb.json](./330318-atorb.json) |
+| .Cat | 145537 | [145537-cat.json](./145537-cat.json) |
 | .Cat Nincat Dinogotchi | 231044 | [231044-cat-nincat-dinogotchi.json](./231044-cat-nincat-dinogotchi.json) |
 | .ExE | 202236 | [202236-exe.json](./202236-exe.json) |
 | .Fall | 126441 | [126441-fall.json](./126441-fall.json) |
@@ -523,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Games in 1: Disney Princess + Disney's The Lion King | 86045 | [86045-2-games-in-1-disney-princess-disneys-the-lion-king.json](./86045-2-games-in-1-disney-princess-disneys-the-lion-king.json) |
 | 2 Games In 1: Disney's Brother Bear + Disney Princess | 79840 | [79840-2-games-in-1-disneys-brother-bear-disney-princess.json](./79840-2-games-in-1-disneys-brother-bear-disney-princess.json) |
 | 2 Games in 1: Finding Nemo + The Incredibles | 327394 | [327394-2-games-in-1-finding-nemo-the-incredibles.json](./327394-2-games-in-1-finding-nemo-the-incredibles.json) |
+| 2 Games in 1: My Riding Stables 3D - Jumping for the Team + My Riding Stables 3D | 145525 | [145525-2-games-in-1-my-riding-stables-3d-jumping-for-the-team-my-riding-stables-3d.json](./145525-2-games-in-1-my-riding-stables-3d-jumping-for-the-team-my-riding-stables-3d.json) |
 | 2 Games in 1: Sonic Advance + ChuChu Rocket! | 86053 | [86053-2-games-in-1-sonic-advance-chuchu-rocket.json](./86053-2-games-in-1-sonic-advance-chuchu-rocket.json) |
 | 2 Games in 1: Sonic Pinball Party + Sonic Battle | 79839 | [79839-2-games-in-1-sonic-pinball-party-sonic-battle.json](./79839-2-games-in-1-sonic-pinball-party-sonic-battle.json) |
 | 2 Games in 1: SpongeBob SquarePants: SuperSponge + Rugrats Go Wild! | 82100 | [82100-2-games-in-1-spongebob-squarepants-supersponge-rugrats-go-wild.json](./82100-2-games-in-1-spongebob-squarepants-supersponge-rugrats-go-wild.json) |
