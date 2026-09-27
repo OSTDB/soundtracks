@@ -1056,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmen Sandiego: To Steal or Not to Steal | 256843 | [256843-carmen-sandiego-to-steal-or-not-to-steal.json](./256843-carmen-sandiego-to-steal-or-not-to-steal.json) |
 | Carmen Sandiego's Great Chase Through Time | 19426 | [19426-carmen-sandiegos-great-chase-through-time.json](./19426-carmen-sandiegos-great-chase-through-time.json) |
 | Carmen Sandiego's Think Quick Challenge | 66607 | [66607-carmen-sandiegos-think-quick-challenge.json](./66607-carmen-sandiegos-think-quick-challenge.json) |
+| Carmine Impact | 142318 | [142318-carmine-impact.json](./142318-carmine-impact.json) |
 | Carminia | 153385 | [153385-carminia.json](./153385-carminia.json) |
 | Carnage | 170831 | [170831-carnage.json](./170831-carnage.json) |
 | Carnage Heart | 20733 | [20733-carnage-heart.json](./20733-carnage-heart.json) |
@@ -6302,6 +6303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courage | 25768 | [25768-courage.json](./25768-courage.json) |
 | Courage Saw Game | 385598 | [385598-courage-saw-game.json](./385598-courage-saw-game.json) |
 | Courage the Cowardly Dog: Creep TV | 186279 | [186279-courage-the-cowardly-dog-creep-tv.json](./186279-courage-the-cowardly-dog-creep-tv.json) |
+| Courage the Cowardly Dog: Hell Bound Hound | 142356 | [142356-courage-the-cowardly-dog-hell-bound-hound.json](./142356-courage-the-cowardly-dog-hell-bound-hound.json) |
 | Courage: The Videogame | 170005 | [170005-courage-the-videogame.json](./170005-courage-the-videogame.json) |
 | Courage: ZaGame | 338284 | [338284-courage-zagame.json](./338284-courage-zagame.json) |
 | Courage's Reasoning Nori 5 Chewed Rice Balls | 288305 | [288305-courages-reasoning-nori-5-chewed-rice-balls.json](./288305-courages-reasoning-nori-5-chewed-rice-balls.json) |
@@ -7606,6 +7608,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Call | 142237 | [142237-crystal-call.json](./142237-crystal-call.json) |
 | Crystal Castles | 11207 | [11207-crystal-castles.json](./11207-crystal-castles.json) |
 | Crystal Cave | 339343 | [339343-crystal-cave.json](./339343-crystal-cave.json) |
+| Crystal Cave Classic | 142326 | [142326-crystal-cave-classic.json](./142326-crystal-cave-classic.json) |
+| Crystal Cave Gold | 142325 | [142325-crystal-cave-gold.json](./142325-crystal-cave-gold.json) |
 | Crystal Caverns | 177420 | [177420-crystal-caverns.json](./177420-crystal-caverns.json) |
 | Crystal Caverns | 339344 | [339344-crystal-caverns.json](./339344-crystal-caverns.json) |
 | Crystal Caves | 8483 | [8483-crystal-caves.json](./8483-crystal-caves.json) |
