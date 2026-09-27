@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandemic: The Board Game - On the Brink: Mutation | 171931 | [171931-pandemic-the-board-game-on-the-brink-mutation.json](./171931-pandemic-the-board-game-on-the-brink-mutation.json) |
 | Pandemic: The Board Game - On the Brink: Roles & Events | 171930 | [171930-pandemic-the-board-game-on-the-brink-roles-and-events.json](./171930-pandemic-the-board-game-on-the-brink-roles-and-events.json) |
 | Pandemommyum! Hot Single Moms in My Area | 257951 | [257951-pandemommyum-hot-single-moms-in-my-area.json](./257951-pandemommyum-hot-single-moms-in-my-area.json) |
+| Pandemonium | 128466 | [128466-pandemonium.json](./128466-pandemonium.json) |
 | Pando Engines | 211193 | [211193-pando-engines.json](./211193-pando-engines.json) |
 | Pandoland | 306675 | [306675-pandoland.json](./306675-pandoland.json) |
 | Pandora | 238499 | [238499-pandora.json](./238499-pandora.json) |
@@ -578,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panta Rhei | 204090 | [204090-panta-rhei.json](./204090-panta-rhei.json) |
 | Pantazil | 221681 | [221681-pantazil.json](./221681-pantazil.json) |
 | Panthalassa | 304650 | [304650-panthalassa.json](./304650-panthalassa.json) |
+| Pantheon | 128470 | [128470-pantheon.json](./128470-pantheon.json) |
 | Pantheon: Card Game of Hentai - Part 1 | 267091 | [267091-pantheon-card-game-of-hentai-part-1.json](./267091-pantheon-card-game-of-hentai-part-1.json) |
 | Panther Family Sim | 101550 | [101550-panther-family-sim.json](./101550-panther-family-sim.json) |
 | Panther Simulator | 104625 | [104625-panther-simulator.json](./104625-panther-simulator.json) |
@@ -1442,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws & Claws: Pet Resort | 18272 | [18272-paws-and-claws-pet-resort.json](./18272-paws-and-claws-pet-resort.json) |
 | Paws & Claws: Pet School | 29198 | [29198-paws-and-claws-pet-school.json](./29198-paws-and-claws-pet-school.json) |
 | Paws & Clean | 316847 | [316847-paws-and-clean.json](./316847-paws-and-clean.json) |
+| Paws & Effect: My Dogs Are Human! | 128455 | [128455-paws-and-effect-my-dogs-are-human.json](./128455-paws-and-effect-my-dogs-are-human.json) |
 | Paws & Perils: Out Of This World | 327386 | [327386-paws-and-perils-out-of-this-world.json](./327386-paws-and-perils-out-of-this-world.json) |
 | Paws and Leaves: A Last Tale | 211234 | [211234-paws-and-leaves-a-last-tale.json](./211234-paws-and-leaves-a-last-tale.json) |
 | Paws for Adventure | 204108 | [204108-paws-for-adventure.json](./204108-paws-for-adventure.json) |
@@ -1873,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perch | 29944 | [29944-perch.json](./29944-perch.json) |
 | Perchang World | 400242 | [400242-perchang-world.json](./400242-perchang-world.json) |
 | Percipio | 339634 | [339634-percipio.json](./339634-percipio.json) |
+| Percy Penguin | 128467 | [128467-percy-penguin.json](./128467-percy-penguin.json) |
 | Percy's Last Stand | 118403 | [118403-percys-last-stand.json](./118403-percys-last-stand.json) |
 | Pereelous | 347710 | [347710-pereelous.json](./347710-pereelous.json) |
 | Perennial Order | 149935 | [149935-perennial-order.json](./149935-perennial-order.json) |
@@ -4127,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playing with Our Lives | 291003 | [291003-playing-with-our-lives.json](./291003-playing-with-our-lives.json) |
 | Playmobil: Novelmore | 207844 | [207844-playmobil-novelmore.json](./207844-playmobil-novelmore.json) |
 | Playmobil: The Explorers | 103901 | [103901-playmobil-the-explorers.json](./103901-playmobil-the-explorers.json) |
+| Playmobil: The Movie VR Adventures | 128438 | [128438-playmobil-the-movie-vr-adventures.json](./128438-playmobil-the-movie-vr-adventures.json) |
 | Playne | 102937 | [102937-playne.json](./102937-playne.json) |
 | Playroom Invasion TD | 264646 | [264646-playroom-invasion-td.json](./264646-playroom-invasion-td.json) |
 | Playroom Racer 2 | 259028 | [259028-playroom-racer-2.json](./259028-playroom-racer-2.json) |
@@ -6359,6 +6364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Goodboi's Ballistics | 248654 | [248654-professor-goodbois-ballistics.json](./248654-professor-goodbois-ballistics.json) |
 | Professor Heinz Wolff's Gravity | 5109 | [5109-professor-heinz-wolffs-gravity.json](./5109-professor-heinz-wolffs-gravity.json) |
 | Professor Layton and the Azran Legacy | 1403 | [1403-professor-layton-and-the-azran-legacy.json](./1403-professor-layton-and-the-azran-legacy.json) |
+| Professor Layton and the Diabolical Box HD for Mobile | 128436 | [128436-professor-layton-and-the-diabolical-box-hd-for-mobile.json](./128436-professor-layton-and-the-diabolical-box-hd-for-mobile.json) |
 | Professor Layton and the Mansion of the Deathly Mirror | 276490 | [276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json](./276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json) |
 | Professor Layton and the Miracle Mask | 1401 | [1401-professor-layton-and-the-miracle-mask.json](./1401-professor-layton-and-the-miracle-mask.json) |
 | Professor Layton and the Phantom Thieves | 276491 | [276491-professor-layton-and-the-phantom-thieves.json](./276491-professor-layton-and-the-phantom-thieves.json) |
