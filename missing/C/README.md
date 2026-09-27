@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caravan Boomer | 266911 | [266911-caravan-boomer.json](./266911-caravan-boomer.json) |
 | Caravan Racers | 323854 | [323854-caravan-racers.json](./323854-caravan-racers.json) |
 | Caravan Stories: Academy of Magic | 194037 | [194037-caravan-stories-academy-of-magic.json](./194037-caravan-stories-academy-of-magic.json) |
+| Caravan Trade Tycoon | 138673 | [138673-caravan-trade-tycoon.json](./138673-caravan-trade-tycoon.json) |
 | Caravan Village: Farming Life | 389590 | [389590-caravan-village-farming-life.json](./389590-caravan-village-farming-life.json) |
 | Caravana 2000 | 400367 | [400367-caravana-2000.json](./400367-caravana-2000.json) |
 | Carbage | 130766 | [130766-carbage.json](./130766-carbage.json) |
@@ -2515,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Château Royale Jigsaw: Expansion Pack 3 | 357878 | [357878-chateau-royale-jigsaw-expansion-pack-3.json](./357878-chateau-royale-jigsaw-expansion-pack-3.json) |
 | ChatGladiators | 411104 | [411104-chatgladiators.json](./411104-chatgladiators.json) |
 | ChatTDT: Tower Defense Twitch | 306678 | [306678-chattdt-tower-defense-twitch.json](./306678-chattdt-tower-defense-twitch.json) |
+| Chatteract | 138710 | [138710-chatteract.json](./138710-chatteract.json) |
 | Chaturanga | 383617 | [383617-chaturanga.json](./383617-chaturanga.json) |
 | CHE: Guerrilla In Bolivia | 15874 | [15874-che-guerrilla-in-bolivia.json](./15874-che-guerrilla-in-bolivia.json) |
 | Cheap Game | 157516 | [157516-cheap-game.json](./157516-cheap-game.json) |
@@ -3589,6 +3591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle of Sumo: Online Rumble! | 126661 | [126661-circle-of-sumo-online-rumble.json](./126661-circle-of-sumo-online-rumble.json) |
 | Circle of Swords | 276242 | [276242-circle-of-swords.json](./276242-circle-of-swords.json) |
 | Circle Pong | 289388 | [289388-circle-pong.json](./289388-circle-pong.json) |
+| Circle Tank | 138658 | [138658-circle-tank.json](./138658-circle-tank.json) |
 | Circle the Dot | 39200 | [39200-circle-the-dot.json](./39200-circle-the-dot.json) |
 | Circle the Fish | 214168 | [214168-circle-the-fish.json](./214168-circle-the-fish.json) |
 | Circle the Wagons: Prima Septimana | 274506 | [274506-circle-the-wagons-prima-septimana.json](./274506-circle-the-wagons-prima-septimana.json) |
@@ -4663,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Engines | 199474 | [199474-cold-engines.json](./199474-cold-engines.json) |
 | Cold Fear | 5780 | [5780-cold-fear.json](./5780-cold-fear.json) |
 | Cold Harvest | 191195 | [191195-cold-harvest.json](./191195-cold-harvest.json) |
+| Cold Heart | 138683 | [138683-cold-heart.json](./138683-cold-heart.json) |
 | Cold Hill | 153897 | [153897-cold-hill.json](./153897-cold-hill.json) |
 | Cold House | 190092 | [190092-cold-house.json](./190092-cold-house.json) |
 | Cold Massacre | 220585 | [220585-cold-massacre.json](./220585-cold-massacre.json) |
@@ -5948,6 +5952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corgi Memory | 62694 | [62694-corgi-memory.json](./62694-corgi-memory.json) |
 | Corgi Simulator | 128588 | [128588-corgi-simulator.json](./128588-corgi-simulator.json) |
 | Corgi Snow Day | 178579 | [178579-corgi-snow-day.json](./178579-corgi-snow-day.json) |
+| Corgix | 138698 | [138698-corgix.json](./138698-corgix.json) |
 | Cork the Volcano | 132776 | [132776-cork-the-volcano.json](./132776-cork-the-volcano.json) |
 | Cork the Volcano for Puzzlets | 96718 | [96718-cork-the-volcano-for-puzzlets.json](./96718-cork-the-volcano-for-puzzlets.json) |
 | Corked | 273373 | [273373-corked.json](./273373-corked.json) |
@@ -5983,6 +5988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corporation Liberty | 379030 | [379030-corporation-liberty.json](./379030-corporation-liberty.json) |
 | Corporation Master | 55889 | [55889-corporation-master.json](./55889-corporation-master.json) |
 | Corporeal | 365138 | [365138-corporeal.json](./365138-corporeal.json) |
+| Corpse Castle | 138671 | [138671-corpse-castle.json](./138671-corpse-castle.json) |
 | Corpse Clue | 176983 | [176983-corpse-clue.json](./176983-corpse-clue.json) |
 | Corpse Collector | 341676 | [341676-corpse-collector.json](./341676-corpse-collector.json) |
 | Corpse Killer | 298551 | [298551-corpse-killer.json](./298551-corpse-killer.json) |
