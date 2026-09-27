@@ -1633,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sculplings | 349407 | [349407-sculplings.json](./349407-sculplings.json) |
 | Sculpt | 263763 | [263763-sculpt.json](./263763-sculpt.json) |
 | Sculpt People: Creative Edition | 308789 | [308789-sculpt-people-creative-edition.json](./308789-sculpt-people-creative-edition.json) |
+| Sculptor | 122286 | [122286-sculptor.json](./122286-sculptor.json) |
 | Sculpture of Chance | 244749 | [244749-sculpture-of-chance.json](./244749-sculpture-of-chance.json) |
 | Sculpturn | 264141 | [264141-sculpturn.json](./264141-sculpturn.json) |
 | Scum: Vehicle Skins Pack | 288905 | [288905-scum-vehicle-skins-pack.json](./288905-scum-vehicle-skins-pack.json) |
@@ -5553,6 +5554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slave Ghost | 112760 | [112760-slave-ghost.json](./112760-slave-ghost.json) |
 | Slave Master: The Game | 111732 | [111732-slave-master-the-game.json](./111732-slave-master-the-game.json) |
 | Slave of Lust | 219691 | [219691-slave-of-lust.json](./219691-slave-of-lust.json) |
+| Slave Pageant | 122262 | [122262-slave-pageant.json](./122262-slave-pageant.json) |
 | Slave Princess Finne: Why Did She Sell Out Her Own Kingdom? | 214179 | [214179-slave-princess-finne-why-did-she-sell-out-her-own-kingdom.json](./214179-slave-princess-finne-why-did-she-sell-out-her-own-kingdom.json) |
 | Slave Princess Sarah | 158147 | [158147-slave-princess-sarah.json](./158147-slave-princess-sarah.json) |
 | Slave Zero X: Calamity Edition | 277375 | [277375-slave-zero-x-calamity-edition.json](./277375-slave-zero-x-calamity-edition.json) |
@@ -9325,6 +9327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiriki: Tiny Island | 404860 | [404860-spiriki-tiny-island.json](./404860-spiriki-tiny-island.json) |
 | Spirit & Stone | 216875 | [216875-spirit-and-stone.json](./216875-spirit-and-stone.json) |
 | Spirit and Katana | 191190 | [191190-spirit-and-katana.json](./191190-spirit-and-katana.json) |
+| Spirit Arena | 122258 | [122258-spirit-arena.json](./122258-spirit-arena.json) |
 | Spirit Bounce | 156587 | [156587-spirit-bounce.json](./156587-spirit-bounce.json) |
 | Spirit Catcher 93' | 383357 | [383357-spirit-catcher-93.json](./383357-spirit-catcher-93.json) |
 | Spirit Charm | 215660 | [215660-spirit-charm.json](./215660-spirit-charm.json) |
@@ -14028,6 +14031,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Akaza Moveset | 395017 | [395017-super-smash-bros-ultimate-akaza-moveset.json](./395017-super-smash-bros-ultimate-akaza-moveset.json) |
 | Super Smash Bros. Ultimate: Animdude Moveset | 395034 | [395034-super-smash-bros-ultimate-animdude-moveset.json](./395034-super-smash-bros-ultimate-animdude-moveset.json) |
 | Super Smash Bros. Ultimate: Blood Falcon Moveset | 375986 | [375986-super-smash-bros-ultimate-blood-falcon-moveset.json](./375986-super-smash-bros-ultimate-blood-falcon-moveset.json) |
+| Super Smash Bros. Ultimate: Challenger Pack 3 | 122260 | [122260-super-smash-bros-ultimate-challenger-pack-3.json](./122260-super-smash-bros-ultimate-challenger-pack-3.json) |
+| Super Smash Bros. Ultimate: Challenger Pack 4 | 122261 | [122261-super-smash-bros-ultimate-challenger-pack-4.json](./122261-super-smash-bros-ultimate-challenger-pack-4.json) |
 | Super Smash Bros. Ultimate: Competitive Playable Bosses | 280797 | [280797-super-smash-bros-ultimate-competitive-playable-bosses.json](./280797-super-smash-bros-ultimate-competitive-playable-bosses.json) |
 | Super Smash Bros. Ultimate: Fall Guy Moveset | 395031 | [395031-super-smash-bros-ultimate-fall-guy-moveset.json](./395031-super-smash-bros-ultimate-fall-guy-moveset.json) |
 | Super Smash Bros. Ultimate: Geno Hat + Outfit | 325078 | [325078-super-smash-bros-ultimate-geno-hat-outfit.json](./325078-super-smash-bros-ultimate-geno-hat-outfit.json) |
@@ -14169,6 +14174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tower Rush | 50849 | [50849-super-tower-rush.json](./50849-super-tower-rush.json) |
 | Super Toxicboy | 130165 | [130165-super-toxicboy.json](./130165-super-toxicboy.json) |
 | Super Toy Cars 1 & 2 Bundle | 208579 | [208579-super-toy-cars-1-and-2-bundle.json](./208579-super-toy-cars-1-and-2-bundle.json) |
+| Super Toy Cars 2 | 122256 | [122256-super-toy-cars-2.json](./122256-super-toy-cars-2.json) |
 | Super Toy Cars 2: Ultimate Racing | 146179 | [146179-super-toy-cars-2-ultimate-racing.json](./146179-super-toy-cars-2-ultimate-racing.json) |
 | Super Toy Cars Collection | 204083 | [204083-super-toy-cars-collection.json](./204083-super-toy-cars-collection.json) |
 | Super Toy Cars Offroad | 173959 | [173959-super-toy-cars-offroad.json](./173959-super-toy-cars-offroad.json) |
