@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealFlight Trainer Edition | 162755 | [162755-realflight-trainer-edition.json](./162755-realflight-trainer-edition.json) |
 | Realistic Battle Tank | 216153 | [216153-realistic-battle-tank.json](./216153-realistic-battle-tank.json) |
 | Realistic Tower Destruction | 131558 | [131558-realistic-tower-destruction.json](./131558-realistic-tower-destruction.json) |
+| Realities: Death Valley | 171911 | [171911-realities-death-valley.json](./171911-realities-death-valley.json) |
 | Reality | 226976 | [226976-reality.json](./226976-reality.json) |
 | Reality | 353297 | [353297-reality.json](./353297-reality.json) |
 | Reality | 81178 | [81178-reality.json](./81178-reality.json) |
@@ -1937,6 +1938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reginald Does His Thang | 74375 | [74375-reginald-does-his-thang.json](./74375-reginald-does-his-thang.json) |
 | Reginald's Death Arena | 156025 | [156025-reginalds-death-arena.json](./156025-reginalds-death-arena.json) |
 | Regions of Ruin | 61884 | [61884-regions-of-ruin.json](./61884-regions-of-ruin.json) |
+| Regions of Ruin: Sieges | 171959 | [171959-regions-of-ruin-sieges.json](./171959-regions-of-ruin-sieges.json) |
 | Regola | 119593 | [119593-regola.json](./119593-regola.json) |
 | Regretful Ghosts | 318542 | [318542-regretful-ghosts.json](./318542-regretful-ghosts.json) |
 | Regular Friday Night | 298719 | [298719-regular-friday-night.json](./298719-regular-friday-night.json) |
