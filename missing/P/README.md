@@ -3302,6 +3302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cross Stitch: Color by Number - Tiny Vehicles Pack 2 | 377603 | [377603-pixel-cross-stitch-color-by-number-tiny-vehicles-pack-2.json](./377603-pixel-cross-stitch-color-by-number-tiny-vehicles-pack-2.json) |
 | Pixel Cross Stitch: Color by Number - Vacations Pack | 361226 | [361226-pixel-cross-stitch-color-by-number-vacations-pack.json](./361226-pixel-cross-stitch-color-by-number-vacations-pack.json) |
 | Pixel Cup Soccer 16 | 39001 | [39001-pixel-cup-soccer-16.json](./39001-pixel-cup-soccer-16.json) |
+| Pixel Cup Soccer: Ultimate Edition | 158544 | [158544-pixel-cup-soccer-ultimate-edition.json](./158544-pixel-cup-soccer-ultimate-edition.json) |
 | Pixel Dash | 265778 | [265778-pixel-dash.json](./265778-pixel-dash.json) |
 | Pixel Demolish | 220066 | [220066-pixel-demolish.json](./220066-pixel-demolish.json) |
 | Pixel Descent | 264587 | [264587-pixel-descent.json](./264587-pixel-descent.json) |
@@ -4299,6 +4300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poena | 202237 | [202237-poena.json](./202237-poena.json) |
 | Poetry of Blood: Eclipse | 247614 | [247614-poetry-of-blood-eclipse.json](./247614-poetry-of-blood-eclipse.json) |
 | Poetry, wine and sword | 158186 | [158186-poetry-wine-and-sword.json](./158186-poetry-wine-and-sword.json) |
+| Pog 4 | 158497 | [158497-pog-4.json](./158497-pog-4.json) |
 | Pog 5 | 165705 | [165705-pog-5.json](./165705-pog-5.json) |
 | Pogglewash | 249504 | [249504-pogglewash.json](./249504-pogglewash.json) |
 | Pogn | 205103 | [205103-pogn.json](./205103-pogn.json) |
