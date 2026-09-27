@@ -418,6 +418,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale for Anna: Collector's Edition | 382907 | [382907-a-tale-for-anna-collectors-edition.json](./382907-a-tale-for-anna-collectors-edition.json) |
 | A Tale of Body Limbs | 331142 | [331142-a-tale-of-body-limbs.json](./331142-a-tale-of-body-limbs.json) |
 | A Tale of Caos: Overture | 32116 | [32116-a-tale-of-caos-overture.json](./32116-a-tale-of-caos-overture.json) |
+| A Tale of Caos: Overture - Act II | 170821 | [170821-a-tale-of-caos-overture-act-ii.json](./170821-a-tale-of-caos-overture-act-ii.json) |
+| A Tale of Caos: Overture - Act III | 170820 | [170820-a-tale-of-caos-overture-act-iii.json](./170820-a-tale-of-caos-overture-act-iii.json) |
 | A Tale of Paper | 102803 | [102803-a-tale-of-paper.json](./102803-a-tale-of-paper.json) |
 | A Tale of Paper: Refolded | 213997 | [213997-a-tale-of-paper-refolded.json](./213997-a-tale-of-paper-refolded.json) |
 | A Tale of Paper: Refolded - Digital Deluxe Edition | 214055 | [214055-a-tale-of-paper-refolded-digital-deluxe-edition.json](./214055-a-tale-of-paper-refolded-digital-deluxe-edition.json) |
@@ -1516,6 +1518,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agriculture Tractor Sim | 264107 | [264107-agriculture-tractor-sim.json](./264107-agriculture-tractor-sim.json) |
 | Agritopia | 274510 | [274510-agritopia.json](./274510-agritopia.json) |
 | Agromatic | 381849 | [381849-agromatic.json](./381849-agromatic.json) |
+| Agrou: Panda pet | 170825 | [170825-agrou-panda-pet.json](./170825-agrou-panda-pet.json) |
+| Agrou: Rabbit pet | 170826 | [170826-agrou-rabbit-pet.json](./170826-agrou-rabbit-pet.json) |
 | Ah Nanjarin | 284418 | [284418-ah-nanjarin.json](./284418-ah-nanjarin.json) |
 | AH-1 Viper Cobra Ops | 223959 | [223959-ah-1-viper-cobra-ops.json](./223959-ah-1-viper-cobra-ops.json) |
 | AH-64D Longbow | 592 | [592-ah-64d-longbow.json](./592-ah-64d-longbow.json) |
@@ -4057,6 +4061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antichamber | 2064 | [2064-antichamber.json](./2064-antichamber.json) |
 | Antichromatic | 112323 | [112323-antichromatic.json](./112323-antichromatic.json) |
 | Anticipating Murder | 316768 | [316768-anticipating-murder.json](./316768-anticipating-murder.json) |
+| Antidote | 170819 | [170819-antidote.json](./170819-antidote.json) |
 | Antigrav | 43521 | [43521-antigrav.json](./43521-antigrav.json) |
 | Antigrav Racing Championship | 248329 | [248329-antigrav-racing-championship.json](./248329-antigrav-racing-championship.json) |
 | Antigravity Racing | 239292 | [239292-antigravity-racing.json](./239292-antigravity-racing.json) |
@@ -4189,6 +4194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ape Hit | 107824 | [107824-ape-hit.json](./107824-ape-hit.json) |
 | Ape Out | 27719 | [27719-ape-out.json](./27719-ape-out.json) |
 | Ape Reunion | 271267 | [271267-ape-reunion.json](./271267-ape-reunion.json) |
+| Apeiron: Tower Defense | 170856 | [170856-apeiron-tower-defense.json](./170856-apeiron-tower-defense.json) |
 | Aperture | 287217 | [287217-aperture.json](./287217-aperture.json) |
 | Aperture Desk Job | 191897 | [191897-aperture-desk-job.json](./191897-aperture-desk-job.json) |
 | Aperture Ireland | 284363 | [284363-aperture-ireland.json](./284363-aperture-ireland.json) |
@@ -5085,6 +5091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arie: Moonprayer | 258534 | [258534-arie-moonprayer.json](./258534-arie-moonprayer.json) |
 | Ariel's Daily Grind | 223492 | [223492-ariels-daily-grind.json](./223492-ariels-daily-grind.json) |
 | Ariel's Story Studio | 57920 | [57920-ariels-story-studio.json](./57920-ariels-story-studio.json) |
+| Aries | 170824 | [170824-aries.json](./170824-aries.json) |
 | Aries: Origins | 142865 | [142865-aries-origins.json](./142865-aries-origins.json) |
 | Arifureta: From Commonplace to World's Strongest - Rebellion Soul | 390534 | [390534-arifureta-from-commonplace-to-worlds-strongest-rebellion-soul.json](./390534-arifureta-from-commonplace-to-worlds-strongest-rebellion-soul.json) |
 | Arigatou, Ningen-san! | 135030 | [135030-arigatou-ningen-san.json](./135030-arigatou-ningen-san.json) |
@@ -6218,6 +6225,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Elie: Puzzle Workshop | 338535 | [338535-atelier-elie-puzzle-workshop.json](./338535-atelier-elie-puzzle-workshop.json) |
 | Atelier Ellie: Puzzle Workshop | 329392 | [329392-atelier-ellie-puzzle-workshop.json](./329392-atelier-ellie-puzzle-workshop.json) |
 | Atelier Escha & Logy: Alchemists of the Dusk Sky DX | 122749 | [122749-atelier-escha-and-logy-alchemists-of-the-dusk-sky-dx.json](./122749-atelier-escha-and-logy-alchemists-of-the-dusk-sky-dx.json) |
+| Atelier Firis: The Alchemist and the Mysterious Journey - Heintz | 170836 | [170836-atelier-firis-the-alchemist-and-the-mysterious-journey-heintz.json](./170836-atelier-firis-the-alchemist-and-the-mysterious-journey-heintz.json) |
+| Atelier Firis: The Alchemist and the Mysterious Journey - Shanon | 170837 | [170837-atelier-firis-the-alchemist-and-the-mysterious-journey-shanon.json](./170837-atelier-firis-the-alchemist-and-the-mysterious-journey-shanon.json) |
 | Atelier Iris 2: The Azoth of Destiny | 20510 | [20510-atelier-iris-2-the-azoth-of-destiny.json](./20510-atelier-iris-2-the-azoth-of-destiny.json) |
 | Atelier Lilie Plus: The Alchemist of Salburg 3 | 43516 | [43516-atelier-lilie-plus-the-alchemist-of-salburg-3.json](./43516-atelier-lilie-plus-the-alchemist-of-salburg-3.json) |
 | Atelier Lulua: The Scion of Arland - Additional Character: Meruru | 238049 | [238049-atelier-lulua-the-scion-of-arland-additional-character-meruru.json](./238049-atelier-lulua-the-scion-of-arland-additional-character-meruru.json) |
@@ -6429,6 +6438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Steel | 346228 | [346228-attack-on-steel.json](./346228-attack-on-steel.json) |
 | Attack on Time | 193848 | [193848-attack-on-time.json](./193848-attack-on-time.json) |
 | Attack on Titan | 14879 | [14879-attack-on-titan.json](./14879-attack-on-titan.json) |
+| Attack on Titan 2: Second Victory | 170829 | [170829-attack-on-titan-2-second-victory.json](./170829-attack-on-titan-2-second-victory.json) |
 | Attack on Titan 2: Singular Target | 200426 | [200426-attack-on-titan-2-singular-target.json](./200426-attack-on-titan-2-singular-target.json) |
 | Attack on Titan 2: Treasure Box - Limited Edition | 212312 | [212312-attack-on-titan-2-treasure-box-limited-edition.json](./212312-attack-on-titan-2-treasure-box-limited-edition.json) |
 | Attack on Titan Tactics | 117518 | [117518-attack-on-titan-tactics.json](./117518-attack-on-titan-tactics.json) |
