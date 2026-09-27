@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Hero: Rebirth | 88044 | [88044-fallen-hero-rebirth.json](./88044-fallen-hero-rebirth.json) |
 | Fallen Kingdom | 75023 | [75023-fallen-kingdom.json](./75023-fallen-kingdom.json) |
 | Fallen Knight: Rise of the Fallen | 367514 | [367514-fallen-knight-rise-of-the-fallen.json](./367514-fallen-knight-rise-of-the-fallen.json) |
+| Fallen Leaf | 141083 | [141083-fallen-leaf.json](./141083-fallen-leaf.json) |
 | Fallen Legion Revenants | 135342 | [135342-fallen-legion-revenants.json](./135342-fallen-legion-revenants.json) |
 | Fallen Legion Revenants: Vanguard Edition | 139961 | [139961-fallen-legion-revenants-vanguard-edition.json](./139961-fallen-legion-revenants-vanguard-edition.json) |
 | Fallen London | 11285 | [11285-fallen-london.json](./11285-fallen-london.json) |
@@ -4655,6 +4656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frak | 257472 | [257472-frak.json](./257472-frak.json) |
 | Frak | 350484 | [350484-frak.json](./350484-frak.json) |
 | Frak! | 91894 | [91894-frak.json](./91894-frak.json) |
+| Frakktus | 141117 | [141117-frakktus.json](./141117-frakktus.json) |
 | Frale Tides | 395834 | [395834-frale-tides.json](./395834-frale-tides.json) |
 | Frame Breaker | 304333 | [304333-frame-breaker.json](./304333-frame-breaker.json) |
 | Frame Cat | 353960 | [353960-frame-cat.json](./353960-frame-cat.json) |
@@ -4719,6 +4721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fray: Shugyou-hen | 130763 | [130763-fray-shugyou-hen.json](./130763-fray-shugyou-hen.json) |
 | Frayed | 292314 | [292314-frayed.json](./292314-frayed.json) |
 | Frayhem | 146723 | [146723-frayhem.json](./146723-frayhem.json) |
+| Fraymakers | 141090 | [141090-fraymakers.json](./141090-fraymakers.json) |
 | Frazzle Dazzle | 180710 | [180710-frazzle-dazzle.json](./180710-frazzle-dazzle.json) |
 | FRC 25 | 377792 | [377792-frc-25.json](./377792-frc-25.json) |
 | Freak Control | 137490 | [137490-freak-control.json](./137490-freak-control.json) |
