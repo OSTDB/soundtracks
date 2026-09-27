@@ -1039,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Assassin: Siberia | 107830 | [107830-legend-of-assassin-siberia.json](./107830-legend-of-assassin-siberia.json) |
 | Legend of Bricks | 175176 | [175176-legend-of-bricks.json](./175176-legend-of-bricks.json) |
 | Legend of Camelot | 66939 | [66939-legend-of-camelot.json](./66939-legend-of-camelot.json) |
+| Legend of Chilli Tree | 161160 | [161160-legend-of-chilli-tree.json](./161160-legend-of-chilli-tree.json) |
 | Legend of Coin | 80874 | [80874-legend-of-coin.json](./80874-legend-of-coin.json) |
 | Legend of Cozar | 334475 | [334475-legend-of-cozar.json](./334475-legend-of-cozar.json) |
 | Legend of Djel | 12176 | [12176-legend-of-djel.json](./12176-legend-of-djel.json) |
@@ -1961,6 +1962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light House Puzzle | 110969 | [110969-light-house-puzzle.json](./110969-light-house-puzzle.json) |
 | Light In Blood | 277003 | [277003-light-in-blood.json](./277003-light-in-blood.json) |
 | Light in the Woods | 343849 | [343849-light-in-the-woods.json](./343849-light-in-the-woods.json) |
+| Light Infantry | 161157 | [161157-light-infantry.json](./161157-light-infantry.json) |
 | Light Instinct | 357818 | [357818-light-instinct.json](./357818-light-instinct.json) |
 | Light Leak | 395170 | [395170-light-leak.json](./395170-light-leak.json) |
 | Light of Atlantis | 253915 | [253915-light-of-atlantis.json](./253915-light-of-atlantis.json) |
@@ -2386,6 +2388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lithium City | 134543 | [134543-lithium-city.json](./134543-lithium-city.json) |
 | Lithium: Inmate 39 | 25876 | [25876-lithium-inmate-39.json](./25876-lithium-inmate-39.json) |
 | Little Acorns | 64956 | [64956-little-acorns.json](./64956-little-acorns.json) |
+| Little adventure 2 | 161167 | [161167-little-adventure-2.json](./161167-little-adventure-2.json) |
 | Little Adventure Tale | 325834 | [325834-little-adventure-tale.json](./325834-little-adventure-tale.json) |
 | Little Adventurer | 98464 | [98464-little-adventurer.json](./98464-little-adventurer.json) |
 | Little Adventurer II | 61607 | [61607-little-adventurer-ii.json](./61607-little-adventurer-ii.json) |
