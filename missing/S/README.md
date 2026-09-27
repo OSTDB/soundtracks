@@ -2491,6 +2491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serpentine | 22769 | [22769-serpentine.json](./22769-serpentine.json) |
 | Serpy | 78054 | [78054-serpy.json](./78054-serpy.json) |
 | Serra Pelada | 80551 | [80551-serra-pelada.json](./80551-serra-pelada.json) |
+| Serre | 134522 | [134522-serre.json](./134522-serre.json) |
 | Serum | 216721 | [216721-serum.json](./216721-serum.json) |
 | Serum | 273863 | [273863-serum.json](./273863-serum.json) |
 | Serum X | 95229 | [95229-serum-x.json](./95229-serum-x.json) |
@@ -3218,6 +3219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharin no Kuni: The Girl Among the Sunflowers | 7185 | [7185-sharin-no-kuni-the-girl-among-the-sunflowers.json](./7185-sharin-no-kuni-the-girl-among-the-sunflowers.json) |
 | Sharing Lights | 192902 | [192902-sharing-lights.json](./192902-sharing-lights.json) |
 | Sharique | 112267 | [112267-sharique.json](./112267-sharique.json) |
+| Shark Attack | 134536 | [134536-shark-attack.json](./134536-shark-attack.json) |
 | Shark Bridge Card Game | 87120 | [87120-shark-bridge-card-game.json](./87120-shark-bridge-card-game.json) |
 | Shark Castle | 123556 | [123556-shark-castle.json](./123556-shark-castle.json) |
 | Shark Coin Party | 337630 | [337630-shark-coin-party.json](./337630-shark-coin-party.json) |
@@ -10015,6 +10017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Academy: Showtime! | 327859 | [327859-star-academy-showtime.json](./327859-star-academy-showtime.json) |
 | Star Aegis | 155996 | [155996-star-aegis.json](./155996-star-aegis.json) |
 | Star Ally | 246403 | [246403-star-ally.json](./246403-star-ally.json) |
+| Star and Light | 134508 | [134508-star-and-light.json](./134508-star-and-light.json) |
 | Star Apprentice: Dazzling Danmaku Detective | 260235 | [260235-star-apprentice-dazzling-danmaku-detective.json](./260235-star-apprentice-dazzling-danmaku-detective.json) |
 | Star Apprentice: Magical Murder Mystery | 153909 | [153909-star-apprentice-magical-murder-mystery.json](./153909-star-apprentice-magical-murder-mystery.json) |
 | Star Aquarium | 348803 | [348803-star-aquarium.json](./348803-star-aquarium.json) |
@@ -12965,6 +12968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Collapse! Puzzle Gallery 3 | 201282 | [201282-super-collapse-puzzle-gallery-3.json](./201282-super-collapse-puzzle-gallery-3.json) |
 | Super Collapse! Puzzle Gallery 4 | 201283 | [201283-super-collapse-puzzle-gallery-4.json](./201283-super-collapse-puzzle-gallery-4.json) |
 | Super Collapse! Puzzle Gallery 5 | 201284 | [201284-super-collapse-puzzle-gallery-5.json](./201284-super-collapse-puzzle-gallery-5.json) |
+| Super Columbine Massacre RPG! | 134526 | [134526-super-columbine-massacre-rpg.json](./134526-super-columbine-massacre-rpg.json) |
 | Super Columns | 19690 | [19690-super-columns.json](./19690-super-columns.json) |
 | Super Comboman | 63550 | [63550-super-comboman.json](./63550-super-comboman.json) |
 | Super ComboMan: Don't Mash Edition | 30231 | [30231-super-comboman-dont-mash-edition.json](./30231-super-comboman-dont-mash-edition.json) |
@@ -13333,6 +13337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Marine | 234929 | [234929-super-marine.json](./234929-super-marine.json) |
 | Super Mario & Sonic | 262087 | [262087-super-mario-and-sonic.json](./262087-super-mario-and-sonic.json) |
 | Super Mario & The Rainbow Stars | 307658 | [307658-super-mario-and-the-rainbow-stars.json](./307658-super-mario-and-the-rainbow-stars.json) |
+| Super Mario 14 | 134517 | [134517-super-mario-14.json](./134517-super-mario-14.json) |
 | Super Mario 16: Land of Crisis | 296050 | [296050-super-mario-16-land-of-crisis.json](./296050-super-mario-16-land-of-crisis.json) |
 | Super Mario 256 | 270377 | [270377-super-mario-256.json](./270377-super-mario-256.json) |
 | Super Mario 2D Land | 269114 | [269114-super-mario-2d-land.json](./269114-super-mario-2d-land.json) |
