@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanovoid | 244908 | [244908-nanovoid.json](./244908-nanovoid.json) |
 | Nanovor | 234177 | [234177-nanovor.json](./234177-nanovor.json) |
 | Nanowar | 181902 | [181902-nanowar.json](./181902-nanowar.json) |
+| Nanpure 10000 + Puzzle no Mado | 136971 | [136971-nanpure-10000-puzzle-no-mado.json](./136971-nanpure-10000-puzzle-no-mado.json) |
 | Nanpure VOW | 191866 | [191866-nanpure-vow.json](./191866-nanpure-vow.json) |
 | Nantara Adventures | 259001 | [259001-nantara-adventures.json](./259001-nantara-adventures.json) |
 | Nantettatte Engine | 308407 | [308407-nantettatte-engine.json](./308407-nantettatte-engine.json) |
@@ -1406,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New LovePlus: New Nene Deluxe | 89883 | [89883-new-loveplus-new-nene-deluxe.json](./89883-new-loveplus-new-nene-deluxe.json) |
 | New LovePlus: New Rinko Deluxe | 89882 | [89882-new-loveplus-new-rinko-deluxe.json](./89882-new-loveplus-new-rinko-deluxe.json) |
 | New LovePlus: Rinko Complete Set | 89880 | [89880-new-loveplus-rinko-complete-set.json](./89880-new-loveplus-rinko-complete-set.json) |
+| New LovePlus+ | 136937 | [136937-new-loveplus.json](./136937-new-loveplus.json) |
 | New LovePlus+: Manaka Artbook Limited Edition | 89887 | [89887-new-loveplus-manaka-artbook-limited-edition.json](./89887-new-loveplus-manaka-artbook-limited-edition.json) |
 | New LovePlus+: Nene Artbook Limited Edition | 89888 | [89888-new-loveplus-nene-artbook-limited-edition.json](./89888-new-loveplus-nene-artbook-limited-edition.json) |
 | New LovePlus+: Rinko Artbook Limited Edition | 89881 | [89881-new-loveplus-rinko-artbook-limited-edition.json](./89881-new-loveplus-rinko-artbook-limited-edition.json) |
@@ -2817,6 +2819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nor'Easter | 119754 | [119754-noreaster.json](./119754-noreaster.json) |
 | Nora and Frank | 358925 | [358925-nora-and-frank.json](./358925-nora-and-frank.json) |
 | Nora to Oujo to Noraneko Heart 2 | 205267 | [205267-nora-to-oujo-to-noraneko-heart-2.json](./205267-nora-to-oujo-to-noraneko-heart-2.json) |
+| Nora to Oujo to Noraneko Heart 2: Dakimakura Cover Set | 136972 | [136972-nora-to-oujo-to-noraneko-heart-2-dakimakura-cover-set.json](./136972-nora-to-oujo-to-noraneko-heart-2-dakimakura-cover-set.json) |
 | Nora: Forest Nights | 298654 | [298654-nora-forest-nights.json](./298654-nora-forest-nights.json) |
 | Nora: In Search of Hidden Ingredients | 306334 | [306334-nora-in-search-of-hidden-ingredients.json](./306334-nora-in-search-of-hidden-ingredients.json) |
 | Nora's Dream | 200732 | [200732-noras-dream.json](./200732-noras-dream.json) |
