@@ -779,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yummy Girl 2 | 195243 | [195243-yummy-girl-2.json](./195243-yummy-girl-2.json) |
 | Yummy Girls 2 | 236762 | [236762-yummy-girls-2.json](./236762-yummy-girls-2.json) |
 | Yummy Jewels | 264900 | [264900-yummy-jewels.json](./264900-yummy-jewels.json) |
+| Yummy Nuts | 150580 | [150580-yummy-nuts.json](./150580-yummy-nuts.json) |
 | Yummy Tales 2 | 205023 | [205023-yummy-tales-2.json](./205023-yummy-tales-2.json) |
 | Yummy Yummy Cooking Jam | 69279 | [69279-yummy-yummy-cooking-jam.json](./69279-yummy-yummy-cooking-jam.json) |
 | Yummyland Solitaire | 386122 | [386122-yummyland-solitaire.json](./386122-yummyland-solitaire.json) |
