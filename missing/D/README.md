@@ -2359,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delegati Genesis | 203956 | [203956-delegati-genesis.json](./203956-delegati-genesis.json) |
 | Deleted | 264654 | [264654-deleted.json](./264654-deleted.json) |
 | Deleters | 405586 | [405586-deleters.json](./405586-deleters.json) |
+| Delhanro | 131438 | [131438-delhanro.json](./131438-delhanro.json) |
 | Delia: The Traveling Witch | 252410 | [252410-delia-the-traveling-witch.json](./252410-delia-the-traveling-witch.json) |
 | Deliberate | 309956 | [309956-deliberate.json](./309956-deliberate.json) |
 | DeliCat | 256533 | [256533-delicat.json](./256533-delicat.json) |
@@ -6290,6 +6291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonsbane | 38921 | [38921-dragonsbane.json](./38921-dragonsbane.json) |
 | Dragonscale Monastery | 260170 | [260170-dragonscale-monastery.json](./260170-dragonscale-monastery.json) |
 | DragonScales 3: Eternal Prophecy of Darkness | 70388 | [70388-dragonscales-3-eternal-prophecy-of-darkness.json](./70388-dragonscales-3-eternal-prophecy-of-darkness.json) |
+| DragonScales 6: Love and Redemption | 131446 | [131446-dragonscales-6-love-and-redemption.json](./131446-dragonscales-6-love-and-redemption.json) |
 | DragonScales 7: A Heart of Dark Flames | 197416 | [197416-dragonscales-7-a-heart-of-dark-flames.json](./197416-dragonscales-7-a-heart-of-dark-flames.json) |
 | DragonScales: Chambers of The Dragon Whisperer | 55854 | [55854-dragonscales-chambers-of-the-dragon-whisperer.json](./55854-dragonscales-chambers-of-the-dragon-whisperer.json) |
 | Dragonscapes Adventure | 219830 | [219830-dragonscapes-adventure.json](./219830-dragonscapes-adventure.json) |
