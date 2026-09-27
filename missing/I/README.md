@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ignis | 81748 | [81748-ignis.json](./81748-ignis.json) |
 | Ignis Corruption | 196241 | [196241-ignis-corruption.json](./196241-ignis-corruption.json) |
 | Ignis Universia: Awakening of the Erudite Empress | 171380 | [171380-ignis-universia-awakening-of-the-erudite-empress.json](./171380-ignis-universia-awakening-of-the-erudite-empress.json) |
+| Ignis Universia: Eternal Sisters Saga DX | 144213 | [144213-ignis-universia-eternal-sisters-saga-dx.json](./144213-ignis-universia-eternal-sisters-saga-dx.json) |
 | Ignisia | 328239 | [328239-ignisia.json](./328239-ignisia.json) |
 | Ignistone | 248000 | [248000-ignistone.json](./248000-ignistone.json) |
 | Ignitement | 407440 | [407440-ignitement.json](./407440-ignitement.json) |
@@ -1987,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instant Family Fun Bundle | 406801 | [406801-instant-family-fun-bundle.json](./406801-instant-family-fun-bundle.json) |
 | Instant Sports Summer + Winter | 269299 | [269299-instant-sports-summer-winter.json](./269299-instant-sports-summer-winter.json) |
 | Instant Sports Summer Games | 139969 | [139969-instant-sports-summer-games.json](./139969-instant-sports-summer-games.json) |
+| Instant Sports Tennis | 144207 | [144207-instant-sports-tennis.json](./144207-instant-sports-tennis.json) |
 | Instant Sports Winter Games | 163828 | [163828-instant-sports-winter-games.json](./163828-instant-sports-winter-games.json) |
 | Instant Sports: All-Stars | 195094 | [195094-instant-sports-all-stars.json](./195094-instant-sports-all-stars.json) |
 | Instant Tennis | 108255 | [108255-instant-tennis.json](./108255-instant-tennis.json) |
