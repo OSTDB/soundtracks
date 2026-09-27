@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Crush Solitaire | 350067 | [350067-candy-crush-solitaire.json](./350067-candy-crush-solitaire.json) |
 | Candy Eaters Tournament | 202660 | [202660-candy-eaters-tournament.json](./202660-candy-eaters-tournament.json) |
 | Candy Factory TD | 307694 | [307694-candy-factory-td.json](./307694-candy-factory-td.json) |
+| Candy Fall | 148980 | [148980-candy-fall.json](./148980-candy-fall.json) |
 | Candy Girl | 382784 | [382784-candy-girl.json](./382784-candy-girl.json) |
 | Candy Kingdom | 31395 | [31395-candy-kingdom.json](./31395-candy-kingdom.json) |
 | Candy land | 154401 | [154401-candy-land.json](./154401-candy-land.json) |
@@ -1582,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Pipes | 244275 | [244275-cat-pipes.json](./244275-cat-pipes.json) |
 | Cat Plus | 330190 | [330190-cat-plus.json](./330190-cat-plus.json) |
 | Cat Pong! | 243082 | [243082-cat-pong.json](./243082-cat-pong.json) |
+| Cat President 2: Purrlitical Revolution | 148990 | [148990-cat-president-2-purrlitical-revolution.json](./148990-cat-president-2-purrlitical-revolution.json) |
 | Cat President: A More Purrfect Union | 23186 | [23186-cat-president-a-more-purrfect-union.json](./23186-cat-president-a-more-purrfect-union.json) |
 | Cat Purrtrol: Find All 100! | 295772 | [295772-cat-purrtrol-find-all-100.json](./295772-cat-purrtrol-find-all-100.json) |
 | Cat Puzzle | 335441 | [335441-cat-puzzle.json](./335441-cat-puzzle.json) |
@@ -2547,6 +2549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheerleader Champion Dance Off | 86808 | [86808-cheerleader-champion-dance-off.json](./86808-cheerleader-champion-dance-off.json) |
 | Cheerleader's Choice: New York Spirit | 338274 | [338274-cheerleaders-choice-new-york-spirit.json](./338274-cheerleaders-choice-new-york-spirit.json) |
 | Cheers! | 227934 | [227934-cheers.json](./227934-cheers.json) |
+| Cheery Party | 148977 | [148977-cheery-party.json](./148977-cheery-party.json) |
 | Cheese Banquet Advanced | 294695 | [294695-cheese-banquet-advanced.json](./294695-cheese-banquet-advanced.json) |
 | Cheese Bit | 412971 | [412971-cheese-bit.json](./412971-cheese-bit.json) |
 | Cheese Dreams New Moon | 326738 | [326738-cheese-dreams-new-moon.json](./326738-cheese-dreams-new-moon.json) |
