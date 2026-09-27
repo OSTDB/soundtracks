@@ -855,6 +855,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unexpected Consequences | 268218 | [268218-unexpected-consequences.json](./268218-unexpected-consequences.json) |
 | Unexpected End | 75807 | [75807-unexpected-end.json](./75807-unexpected-end.json) |
 | Unexpected Visitors | 265128 | [265128-unexpected-visitors.json](./265128-unexpected-visitors.json) |
+| Unexplored: Mithril Run | 155020 | [155020-unexplored-mithril-run.json](./155020-unexplored-mithril-run.json) |
+| Unexplored: Ripley Run | 155022 | [155022-unexplored-ripley-run.json](./155022-unexplored-ripley-run.json) |
+| Unexplored: The Dark Ritual | 155021 | [155021-unexplored-the-dark-ritual.json](./155021-unexplored-the-dark-ritual.json) |
 | UnExplored: Unlocked Edition | 98837 | [98837-unexplored-unlocked-edition.json](./98837-unexplored-unlocked-edition.json) |
 | Unexposed: The Ghost Archives | 188014 | [188014-unexposed-the-ghost-archives.json](./188014-unexposed-the-ghost-archives.json) |
 | Unextinction | 365862 | [365862-unextinction.json](./365862-unextinction.json) |
