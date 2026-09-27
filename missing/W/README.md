@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Obelisks | 218977 | [218977-war-obelisks.json](./218977-war-obelisks.json) |
 | War of Aero | 39849 | [39849-war-of-aero.json](./39849-war-of-aero.json) |
 | War of Angels | 66400 | [66400-war-of-angels.json](./66400-war-of-angels.json) |
+| War of Ashird | 122974 | [122974-war-of-ashird.json](./122974-war-of-ashird.json) |
 | War Of Celestials | 253389 | [253389-war-of-celestials.json](./253389-war-of-celestials.json) |
 | War of Charge | 309676 | [309676-war-of-charge.json](./309676-war-of-charge.json) |
 | War of Colony | 86946 | [86946-war-of-colony.json](./86946-war-of-colony.json) |
@@ -2004,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who is There? | 221761 | [221761-who-is-there.json](./221761-who-is-there.json) |
 | Who Is This Man | 113570 | [113570-who-is-this-man.json](./113570-who-is-this-man.json) |
 | Who Is You | 123549 | [123549-who-is-you.json](./123549-who-is-you.json) |
+| Who Killed My Sister? | 122946 | [122946-who-killed-my-sister.json](./122946-who-killed-my-sister.json) |
 | Who Killed the Streamer? | 260645 | [260645-who-killed-the-streamer.json](./260645-who-killed-the-streamer.json) |
 | Who Knows Where They're Going | 184053 | [184053-who-knows-where-theyre-going.json](./184053-who-knows-where-theyre-going.json) |
 | Who Made This | 338369 | [338369-who-made-this.json](./338369-who-made-this.json) |
