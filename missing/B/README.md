@@ -4707,6 +4707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Bird's Song | 275346 | [275346-blue-birds-song.json](./275346-blue-birds-song.json) |
 | Blue Blaster Fandisc: Claudia Dakkan Sakusen | 408312 | [408312-blue-blaster-fandisc-claudia-dakkan-sakusen.json](./408312-blue-blaster-fandisc-claudia-dakkan-sakusen.json) |
 | Blue Blaze Maze | 96080 | [96080-blue-blaze-maze.json](./96080-blue-blaze-maze.json) |
+| Blue Blood | 141770 | [141770-blue-blood.json](./141770-blue-blood.json) |
 | Blue Blood | 213939 | [213939-blue-blood.json](./213939-blue-blood.json) |
 | Blue Box | 200753 | [200753-blue-box.json](./200753-blue-box.json) |
 | Blue Chips | 191126 | [191126-blue-chips.json](./191126-blue-chips.json) |
@@ -5215,6 +5216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bones: Wandering Soul | 347678 | [347678-bones-wandering-soul.json](./347678-bones-wandering-soul.json) |
 | Bonesaw | 316799 | [316799-bonesaw.json](./316799-bonesaw.json) |
 | Bonesaw: The Game | 65432 | [65432-bonesaw-the-game.json](./65432-bonesaw-the-game.json) |
+| BoneStagE | 141773 | [141773-bonestage.json](./141773-bonestage.json) |
 | Bonesy | 143074 | [143074-bonesy.json](./143074-bonesy.json) |
 | Bonetale | 229380 | [229380-bonetale.json](./229380-bonetale.json) |
 | BoneTown | 145047 | [145047-bonetown.json](./145047-bonetown.json) |
@@ -6108,6 +6110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brazil Fencing Club VR | 275100 | [275100-brazil-fencing-club-vr.json](./275100-brazil-fencing-club-vr.json) |
 | Brazzers: The Game | 200634 | [200634-brazzers-the-game.json](./200634-brazzers-the-game.json) |
 | Breach | 135167 | [135167-breach.json](./135167-breach.json) |
+| Breach | 141779 | [141779-breach.json](./141779-breach.json) |
 | Breach | 251831 | [251831-breach.json](./251831-breach.json) |
 | Breach | 413003 | [413003-breach.json](./413003-breach.json) |
 | Breach & Clear: Deadline Rebirth | 36293 | [36293-breach-and-clear-deadline-rebirth.json](./36293-breach-and-clear-deadline-rebirth.json) |
