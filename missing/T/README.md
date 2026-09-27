@@ -925,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks! | 353523 | [353523-tanks.json](./353523-tanks.json) |
 | TankTrouble - Mobile Mayhem | 88514 | [88514-tanktrouble-mobile-mayhem.json](./88514-tanktrouble-mobile-mayhem.json) |
 | Tankura: Tango Crush - Kotoba Keshi Tango Puzzle Game | 208938 | [208938-tankura-tango-crush-kotoba-keshi-tango-puzzle-game.json](./208938-tankura-tango-crush-kotoba-keshi-tango-puzzle-game.json) |
+| Tanky Panky | 158508 | [158508-tanky-panky.json](./158508-tanky-panky.json) |
 | Tanky Tanks | 120399 | [120399-tanky-tanks.json](./120399-tanky-tanks.json) |
 | Tanokai Chapter 1 | 178571 | [178571-tanokai-chapter-1.json](./178571-tanokai-chapter-1.json) |
 | Tanoth | 52019 | [52019-tanoth.json](./52019-tanoth.json) |
@@ -9051,6 +9052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Fighter 1931: Tora!Tora!Tora! MP087 | 189630 | [189630-tiger-fighter-1931-tora-tora-tora-mp087.json](./189630-tiger-fighter-1931-tora-tora-tora-mp087.json) |
 | Tiger Fighter 1931: Tora!Tora!Tora! MP092 | 189595 | [189595-tiger-fighter-1931-tora-tora-tora-mp092.json](./189595-tiger-fighter-1931-tora-tora-tora-mp092.json) |
 | Tiger Fighter 1931: Tora!Tora!Tora! MP094 | 189589 | [189589-tiger-fighter-1931-tora-tora-tora-mp094.json](./189589-tiger-fighter-1931-tora-tora-tora-mp094.json) |
+| Tiger Girl Hill Breaker | 158532 | [158532-tiger-girl-hill-breaker.json](./158532-tiger-girl-hill-breaker.json) |
 | Tiger Hunt | 41977 | [41977-tiger-hunt.json](./41977-tiger-hunt.json) |
 | Tiger Hunt | 68695 | [68695-tiger-hunt.json](./68695-tiger-hunt.json) |
 | Tiger Knight | 137043 | [137043-tiger-knight.json](./137043-tiger-knight.json) |
@@ -13856,6 +13858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twizzle Puzzle: Rodents | 295379 | [295379-twizzle-puzzle-rodents.json](./295379-twizzle-puzzle-rodents.json) |
 | Two | 357458 | [357458-two.json](./357458-two.json) |
 | Two & One Hundred Ways Bundle | 188020 | [188020-two-and-one-hundred-ways-bundle.json](./188020-two-and-one-hundred-ways-bundle.json) |
+| Two Against the Legion | 158509 | [158509-two-against-the-legion.json](./158509-two-against-the-legion.json) |
 | Two Atmospheric Atrocities | 331685 | [331685-two-atmospheric-atrocities.json](./331685-two-atmospheric-atrocities.json) |
 | Two Brothers | 9440 | [9440-two-brothers.json](./9440-two-brothers.json) |
 | Two Cars Stunts Edition | 219529 | [219529-two-cars-stunts-edition.json](./219529-two-cars-stunts-edition.json) |
