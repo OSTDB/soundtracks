@@ -6553,6 +6553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rumble Fish 2: Nintendo Switch 2 Edition | 384186 | [384186-the-rumble-fish-2-nintendo-switch-2-edition.json](./384186-the-rumble-fish-2-nintendo-switch-2-edition.json) |
 | The Rumble Fish: Complete Pack | 336932 | [336932-the-rumble-fish-complete-pack.json](./336932-the-rumble-fish-complete-pack.json) |
 | The Runaway Feijoao | 159874 | [159874-the-runaway-feijoao.json](./159874-the-runaway-feijoao.json) |
+| The Runemaster's Diary | 167588 | [167588-the-runemasters-diary.json](./167588-the-runemasters-diary.json) |
 | The Runesmith | 376438 | [376438-the-runesmith.json](./376438-the-runesmith.json) |
 | The Running Dead | 183333 | [183333-the-running-dead.json](./183333-the-running-dead.json) |
 | The Rush: The Veronica Story | 145577 | [145577-the-rush-the-veronica-story.json](./145577-the-rush-the-veronica-story.json) |
@@ -10835,9 +10836,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer - Realm of the Wood Elves | 26423 | [26423-total-war-warhammer-realm-of-the-wood-elves.json](./26423-total-war-warhammer-realm-of-the-wood-elves.json) |
 | Total War: Warhammer - Wurrzag | 81295 | [81295-total-war-warhammer-wurrzag.json](./81295-total-war-warhammer-wurrzag.json) |
 | Total War: Warhammer 40,000 | 381245 | [381245-total-war-warhammer-40-000.json](./381245-total-war-warhammer-40-000.json) |
+| Total War: Warhammer II - Alith Anar | 167623 | [167623-total-war-warhammer-ii-alith-anar.json](./167623-total-war-warhammer-ii-alith-anar.json) |
 | Total War: Warhammer II - Curse of the Vampire Coast | 110863 | [110863-total-war-warhammer-ii-curse-of-the-vampire-coast.json](./110863-total-war-warhammer-ii-curse-of-the-vampire-coast.json) |
+| Total War: Warhammer II - Gor-Rok | 167621 | [167621-total-war-warhammer-ii-gor-rok.json](./167621-total-war-warhammer-ii-gor-rok.json) |
+| Total War: Warhammer II - Imrik | 167620 | [167620-total-war-warhammer-ii-imrik.json](./167620-total-war-warhammer-ii-imrik.json) |
 | Total War: Warhammer II - Limited Edition | 4131 | [4131-total-war-warhammer-ii-limited-edition.json](./4131-total-war-warhammer-ii-limited-edition.json) |
+| Total War: Warhammer II - Lokhir Fellheart | 167625 | [167625-total-war-warhammer-ii-lokhir-fellheart.json](./167625-total-war-warhammer-ii-lokhir-fellheart.json) |
+| Total War: Warhammer II - Repanse de Lyonesse | 167628 | [167628-total-war-warhammer-ii-repanse-de-lyonesse.json](./167628-total-war-warhammer-ii-repanse-de-lyonesse.json) |
+| Total War: Warhammer II - The Hunter & The Beast | 167627 | [167627-total-war-warhammer-ii-the-hunter-and-the-beast.json](./167627-total-war-warhammer-ii-the-hunter-and-the-beast.json) |
+| Total War: Warhammer II - The Twisted & The Twilight | 167626 | [167626-total-war-warhammer-ii-the-twisted-and-the-twilight.json](./167626-total-war-warhammer-ii-the-twisted-and-the-twilight.json) |
+| Total War: Warhammer II - The Warden & The Paunch | 167629 | [167629-total-war-warhammer-ii-the-warden-and-the-paunch.json](./167629-total-war-warhammer-ii-the-warden-and-the-paunch.json) |
 | Total War: Warhammer II - Thorek Ironbrow | 157543 | [157543-total-war-warhammer-ii-thorek-ironbrow.json](./157543-total-war-warhammer-ii-thorek-ironbrow.json) |
+| Total War: Warhammer II - Tiktaq'to | 167622 | [167622-total-war-warhammer-ii-tiktaqto.json](./167622-total-war-warhammer-ii-tiktaqto.json) |
 | Total War: Warhammer II - Tretch Craventail | 167825 | [167825-total-war-warhammer-ii-tretch-craventail.json](./167825-total-war-warhammer-ii-tretch-craventail.json) |
 | Total War: Warhammer III - Bhashiva | 402510 | [402510-total-war-warhammer-iii-bhashiva.json](./402510-total-war-warhammer-iii-bhashiva.json) |
 | Total War: Warhammer III - Blood for the Blood God III | 227239 | [227239-total-war-warhammer-iii-blood-for-the-blood-god-iii.json](./227239-total-war-warhammer-iii-blood-for-the-blood-god-iii.json) |
