@@ -2430,6 +2430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before Fate | 205248 | [205248-before-fate.json](./205248-before-fate.json) |
 | Before I Forget | 122372 | [122372-before-i-forget.json](./122372-before-i-forget.json) |
 | Before Nightfall | 271311 | [271311-before-nightfall.json](./271311-before-nightfall.json) |
+| Before the Battery's Over | 148986 | [148986-before-the-batterys-over.json](./148986-before-the-batterys-over.json) |
 | Before the Last Hour | 200428 | [200428-before-the-last-hour.json](./200428-before-the-last-hour.json) |
 | Before the Moon | 311067 | [311067-before-the-moon.json](./311067-before-the-moon.json) |
 | Before the Needle Lifts | 303754 | [303754-before-the-needle-lifts.json](./303754-before-the-needle-lifts.json) |
@@ -6908,6 +6909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Building Relationships | 152275 | [152275-building-relationships.json](./152275-building-relationships.json) |
 | Building the Great Wall of China | 91125 | [91125-building-the-great-wall-of-china.json](./91125-building-the-great-wall-of-china.json) |
 | Buildings Have Feelings Too! | 107268 | [107268-buildings-have-feelings-too.json](./107268-buildings-have-feelings-too.json) |
+| Buildmark | 148942 | [148942-buildmark.json](./148942-buildmark.json) |
 | BuildNow GG | 333186 | [333186-buildnow-gg.json](./333186-buildnow-gg.json) |
 | Buildozer Simulator | 321489 | [321489-buildozer-simulator.json](./321489-buildozer-simulator.json) |
 | Buildville | 102745 | [102745-buildville.json](./102745-buildville.json) |
