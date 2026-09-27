@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mainbody | 223424 | [223424-mainbody.json](./223424-mainbody.json) |
 | MainFrames | 313809 | [313809-mainframes.json](./313809-mainframes.json) |
 | MainGuns | 56478 | [56478-mainguns.json](./56478-mainguns.json) |
+| Mainichi | 144226 | [144226-mainichi.json](./144226-mainichi.json) |
 | Mainichi Kotsu-kotsu Ore Tower | 395856 | [395856-mainichi-kotsu-kotsu-ore-tower.json](./395856-mainichi-kotsu-kotsu-ore-tower.json) |
 | Mainichi no Mimikaki | 227954 | [227954-mainichi-no-mimikaki.json](./227954-mainichi-no-mimikaki.json) |
 | Mainichi Suteki! Hello Kitty no Life Kit | 3690 | [3690-mainichi-suteki-hello-kitty-no-life-kit.json](./3690-mainichi-suteki-hello-kitty-no-life-kit.json) |
@@ -3228,6 +3229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man: Dr Wily Visits Indonesia | 356694 | [356694-mega-man-dr-wily-visits-indonesia.json](./356694-mega-man-dr-wily-visits-indonesia.json) |
 | Mega Man: Dual Override | 381249 | [381249-mega-man-dual-override.json](./381249-mega-man-dual-override.json) |
 | Mega Man: Limbo Edition | 269871 | [269871-mega-man-limbo-edition.json](./269871-mega-man-limbo-edition.json) |
+| Mega Man: Rock N Roll | 144203 | [144203-mega-man-rock-n-roll.json](./144203-mega-man-rock-n-roll.json) |
 | Mega Man: Shattered Diamond | 215151 | [215151-mega-man-shattered-diamond.json](./215151-mega-man-shattered-diamond.json) |
 | Mega Man: Speed Bomber | 269872 | [269872-mega-man-speed-bomber.json](./269872-mega-man-speed-bomber.json) |
 | Mega Man: The New Lands Remastered | 269873 | [269873-mega-man-the-new-lands-remastered.json](./269873-mega-man-the-new-lands-remastered.json) |
@@ -5429,6 +5431,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minute Knights | 221379 | [221379-minute-knights.json](./221379-minute-knights.json) |
 | Minute Marriage | 304760 | [304760-minute-marriage.json](./304760-minute-marriage.json) |
 | Minute to Win It | 20162 | [20162-minute-to-win-it.json](./20162-minute-to-win-it.json) |
+| MinuteDungeon | 144219 | [144219-minutedungeon.json](./144219-minutedungeon.json) |
+| MinuteFrontier | 144221 | [144221-minutefrontier.json](./144221-minutefrontier.json) |
+| MinuteQues‪t‬ | 144218 | [144218-minuteques-t.json](./144218-minuteques-t.json) |
 | Minutescape | 327969 | [327969-minutescape.json](./327969-minutescape.json) |
 | Mio no Mystery Adventure | 137627 | [137627-mio-no-mystery-adventure.json](./137627-mio-no-mystery-adventure.json) |
 | Mion and the Cursed Killer Hamster | 224576 | [224576-mion-and-the-cursed-killer-hamster.json](./224576-mion-and-the-cursed-killer-hamster.json) |
@@ -6452,6 +6457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Dual Pack | 78626 | [78626-monster-hunter-dual-pack.json](./78626-monster-hunter-dual-pack.json) |
 | Monster Hunter Frontier G | 5316 | [5316-monster-hunter-frontier-g.json](./5316-monster-hunter-frontier-g.json) |
 | Monster Hunter Frontier G Genuine | 78359 | [78359-monster-hunter-frontier-g-genuine.json](./78359-monster-hunter-frontier-g-genuine.json) |
+| Monster Hunter Frontier G6 | 144181 | [144181-monster-hunter-frontier-g6.json](./144181-monster-hunter-frontier-g6.json) |
 | Monster Hunter Frontier Online | 7075 | [7075-monster-hunter-frontier-online.json](./7075-monster-hunter-frontier-online.json) |
 | Monster Hunter Frontier Z | 78360 | [78360-monster-hunter-frontier-z.json](./78360-monster-hunter-frontier-z.json) |
 | Monster Hunter Generations Ultimate | 25623 | [25623-monster-hunter-generations-ultimate.json](./25623-monster-hunter-generations-ultimate.json) |
