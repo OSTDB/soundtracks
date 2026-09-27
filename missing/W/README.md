@@ -2667,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WitchSpring3 | 207869 | [207869-witchspring3.json](./207869-witchspring3.json) |
 | WitchSpring3 Re:Fine - The Story of Eirudy | 141763 | [141763-witchspring3-re-fine-the-story-of-eirudy.json](./141763-witchspring3-re-fine-the-story-of-eirudy.json) |
 | WitchSpring4 | 147342 | [147342-witchspring4.json](./147342-witchspring4.json) |
+| Witchtastic | 135787 | [135787-witchtastic.json](./135787-witchtastic.json) |
 | Witchworker | 405611 | [405611-witchworker.json](./405611-witchworker.json) |
 | Witchy Wonderland | 344348 | [344348-witchy-wonderland.json](./344348-witchy-wonderland.json) |
 | Witchy Woo | 379902 | [379902-witchy-woo.json](./379902-witchy-woo.json) |
@@ -3251,6 +3252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Work Inc. | 393821 | [393821-work-inc.json](./393821-work-inc.json) |
 | Work Life Balance | 372470 | [372470-work-life-balance.json](./372470-work-life-balance.json) |
 | Work Till Die | 391060 | [391060-work-till-die.json](./391060-work-till-die.json) |
+| Work Trip | 135792 | [135792-work-trip.json](./135792-work-trip.json) |
 | Work Work Work | 385568 | [385568-work-work-work.json](./385568-work-work-work.json) |
 | Work Wrecker | 358488 | [358488-work-wrecker.json](./358488-work-wrecker.json) |
 | Work x Work | 218984 | [218984-work-x-work.json](./218984-work-x-work.json) |
