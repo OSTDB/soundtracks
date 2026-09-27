@@ -1678,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feudalism | 234914 | [234914-feudalism.json](./234914-feudalism.json) |
 | Feudalism II | 234915 | [234915-feudalism-ii.json](./234915-feudalism-ii.json) |
 | Fever Frenzy | 209420 | [209420-fever-frenzy.json](./209420-fever-frenzy.json) |
+| Few Nights More | 147351 | [147351-few-nights-more.json](./147351-few-nights-more.json) |
 | Fey | 388975 | [388975-fey.json](./388975-fey.json) |
 | Fey: Distant Daydream | 189201 | [189201-fey-distant-daydream.json](./189201-fey-distant-daydream.json) |
 | Feydome: Fairy Dress Up | 272323 | [272323-feydome-fairy-dress-up.json](./272323-feydome-fairy-dress-up.json) |
@@ -3420,6 +3421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FloraMancer: Seeds and Spells | 235982 | [235982-floramancer-seeds-and-spells.json](./235982-floramancer-seeds-and-spells.json) |
 | Florani Match | 392295 | [392295-florani-match.json](./392295-florani-match.json) |
 | Florarium | 258454 | [258454-florarium.json](./258454-florarium.json) |
+| Floratic | 147334 | [147334-floratic.json](./147334-floratic.json) |
 | Flore | 204527 | [204527-flore.json](./204527-flore.json) |
 | Florensia | 34922 | [34922-florensia.json](./34922-florensia.json) |
 | Florescer | 159058 | [159058-florescer.json](./159058-florescer.json) |
