@@ -1380,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawapuro-kun Pocket 7 | 237347 | [237347-pawapuro-kun-pocket-7.json](./237347-pawapuro-kun-pocket-7.json) |
 | Pawapuro-kun Pocket R | 152368 | [152368-pawapuro-kun-pocket-r.json](./152368-pawapuro-kun-pocket-r.json) |
 | Pawar | 273953 | [273953-pawar.json](./273953-pawar.json) |
+| Pawarumi: Limited Edition | 167051 | [167051-pawarumi-limited-edition.json](./167051-pawarumi-limited-edition.json) |
 | Pawfect Cat Mansion | 314862 | [314862-pawfect-cat-mansion.json](./314862-pawfect-cat-mansion.json) |
 | Pawfish Bay | 337181 | [337181-pawfish-bay.json](./337181-pawfish-bay.json) |
 | Pawful Dice | 390809 | [390809-pawful-dice.json](./390809-pawful-dice.json) |
@@ -6447,6 +6448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Starcrash | 311136 | [311136-project-starcrash.json](./311136-project-starcrash.json) |
 | Project Starship | 33222 | [33222-project-starship.json](./33222-project-starship.json) |
 | Project Starship X | 126587 | [126587-project-starship-x.json](./126587-project-starship-x.json) |
+| Project Starship X: Limited Edition | 167083 | [167083-project-starship-x-limited-edition.json](./167083-project-starship-x-limited-edition.json) |
 | Project Stratarch | 259260 | [259260-project-stratarch.json](./259260-project-stratarch.json) |
 | Project Summit | 153376 | [153376-project-summit.json](./153376-project-summit.json) |
 | Project T | 301327 | [301327-project-t.json](./301327-project-t.json) |
