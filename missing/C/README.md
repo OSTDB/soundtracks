@@ -5314,6 +5314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Complexia: A Ballet of Blades | 400486 | [400486-complexia-a-ballet-of-blades.json](./400486-complexia-a-ballet-of-blades.json) |
 | Componut | 174195 | [174195-componut.json](./174195-componut.json) |
 | Compound | 28927 | [28927-compound.json](./28927-compound.json) |
+| Compound Fracture | 143560 | [143560-compound-fracture.json](./143560-compound-fracture.json) |
 | Compound Word Puzzles 2 | 359997 | [359997-compound-word-puzzles-2.json](./359997-compound-word-puzzles-2.json) |
 | Compression | 345664 | [345664-compression.json](./345664-compression.json) |
 | Compromised | 79596 | [79596-compromised.json](./79596-compromised.json) |
@@ -6247,6 +6248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Spell Reforged | 122853 | [122853-counter-spell-reforged.json](./122853-counter-spell-reforged.json) |
 | Counter Terrorism - Minesweeper | 127025 | [127025-counter-terrorism-minesweeper.json](./127025-counter-terrorism-minesweeper.json) |
 | Counter-Fall | 127746 | [127746-counter-fall.json](./127746-counter-fall.json) |
+| Counter-Strike NEO: White Memories | 143558 | [143558-counter-strike-neo-white-memories.json](./143558-counter-strike-neo-white-memories.json) |
 | Counter-Strike Techno: Zombies | 332267 | [332267-counter-strike-techno-zombies.json](./332267-counter-strike-techno-zombies.json) |
 | Counter-Strike: Source Offensive | 287621 | [287621-counter-strike-source-offensive.json](./287621-counter-strike-source-offensive.json) |
 | Counterattack | 256877 | [256877-counterattack.json](./256877-counterattack.json) |
