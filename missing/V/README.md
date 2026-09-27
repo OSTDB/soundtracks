@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanish | 28150 | [28150-vanish.json](./28150-vanish.json) |
 | Vanished Anniversary | 305366 | [305366-vanished-anniversary.json](./305366-vanished-anniversary.json) |
 | Vanished Maiden | 403042 | [403042-vanished-maiden.json](./403042-vanished-maiden.json) |
+| Vanishing Grace | 133883 | [133883-vanishing-grace.json](./133883-vanishing-grace.json) |
 | Vanishing Point: Tenshi no Kieta Machi | 308971 | [308971-vanishing-point-tenshi-no-kieta-machi.json](./308971-vanishing-point-tenshi-no-kieta-machi.json) |
 | Vanishing Realms | 18694 | [18694-vanishing-realms.json](./18694-vanishing-realms.json) |
 | Vanishing Realms: The Sundered Rift | 167244 | [167244-vanishing-realms-the-sundered-rift.json](./167244-vanishing-realms-the-sundered-rift.json) |
