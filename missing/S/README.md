@@ -51,6 +51,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.R.D. Mission | 40418 | [40418-s-r-d-mission.json](./40418-s-r-d-mission.json) |
 | S.S. Mission | 40252 | [40252-s-s-mission.json](./40252-s-s-mission.json) |
 | S.T.A.L.K.E.R. 2: Heart of Chornobyl - Collector's Edition | 284360 | [284360-s-t-a-l-k-e-r-2-heart-of-chornobyl-collectors-edition.json](./284360-s-t-a-l-k-e-r-2-heart-of-chornobyl-collectors-edition.json) |
+| S.T.A.L.K.E.R. 2: Heart of Chornobyl - Deluxe Edition | 169175 | [169175-s-t-a-l-k-e-r-2-heart-of-chornobyl-deluxe-edition.json](./169175-s-t-a-l-k-e-r-2-heart-of-chornobyl-deluxe-edition.json) |
+| S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition | 169174 | [169174-s-t-a-l-k-e-r-2-heart-of-chornobyl-ultimate-edition.json](./169174-s-t-a-l-k-e-r-2-heart-of-chornobyl-ultimate-edition.json) |
 | S.T.A.L.K.E.R. H.A.C.R. | 377614 | [377614-s-t-a-l-k-e-r-h-a-c-r.json](./377614-s-t-a-l-k-e-r-h-a-c-r.json) |
 | S.T.A.L.K.E.R.: Anomaly | 126153 | [126153-s-t-a-l-k-e-r-anomaly.json](./126153-s-t-a-l-k-e-r-anomaly.json) |
 | S.T.A.L.K.E.R.: Call of Chernobyl | 132011 | [132011-s-t-a-l-k-e-r-call-of-chernobyl.json](./132011-s-t-a-l-k-e-r-call-of-chernobyl.json) |
@@ -325,8 +327,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row: Front to Back Cosmetic Pack | 307141 | [307141-saints-row-front-to-back-cosmetic-pack.json](./307141-saints-row-front-to-back-cosmetic-pack.json) |
 | Saints Row: Gat Out of Hell | 7708 | [7708-saints-row-gat-out-of-hell.json](./7708-saints-row-gat-out-of-hell.json) |
 | Saints Row: Going Commando Cosmetic Pack | 307144 | [307144-saints-row-going-commando-cosmetic-pack.json](./307144-saints-row-going-commando-cosmetic-pack.json) |
+| Saints Row: Gold Edition | 169195 | [169195-saints-row-gold-edition.json](./169195-saints-row-gold-edition.json) |
 | Saints Row: Idols Anarchy Pack | 307146 | [307146-saints-row-idols-anarchy-pack.json](./307146-saints-row-idols-anarchy-pack.json) |
 | Saints Row: Los Panteros American Muscle Bundle | 307148 | [307148-saints-row-los-panteros-american-muscle-bundle.json](./307148-saints-row-los-panteros-american-muscle-bundle.json) |
+| Saints Row: Platinum Edition | 169194 | [169194-saints-row-platinum-edition.json](./169194-saints-row-platinum-edition.json) |
 | Saints Row: Saints Criminal Customs | 307149 | [307149-saints-row-saints-criminal-customs.json](./307149-saints-row-saints-criminal-customs.json) |
 | Saints Row: SteelSeries Cosmetic Pack | 307151 | [307151-saints-row-steelseries-cosmetic-pack.json](./307151-saints-row-steelseries-cosmetic-pack.json) |
 | Saints Row: The Big Purple Package | 283181 | [283181-saints-row-the-big-purple-package.json](./283181-saints-row-the-big-purple-package.json) |
@@ -355,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakumon | 412956 | [412956-sakumon.json](./412956-sakumon.json) |
 | Sakuna: Hinuka Junreitan | 359480 | [359480-sakuna-hinuka-junreitan.json](./359480-sakuna-hinuka-junreitan.json) |
 | Sakuna: Of Rice and Ruin - Collector's Edition | 139843 | [139843-sakuna-of-rice-and-ruin-collectors-edition.json](./139843-sakuna-of-rice-and-ruin-collectors-edition.json) |
+| Sakuna: Of Rice and Ruin - Digital Deluxe Edition | 169184 | [169184-sakuna-of-rice-and-ruin-digital-deluxe-edition.json](./169184-sakuna-of-rice-and-ruin-digital-deluxe-edition.json) |
 | Sakuna: Of Rice and Ruin - Divine Edition | 139978 | [139978-sakuna-of-rice-and-ruin-divine-edition.json](./139978-sakuna-of-rice-and-ruin-divine-edition.json) |
 | Sakuna: Of Rice and Ruin - Golden Harvest Limited Edition | 139830 | [139830-sakuna-of-rice-and-ruin-golden-harvest-limited-edition.json](./139830-sakuna-of-rice-and-ruin-golden-harvest-limited-edition.json) |
 | Sakunaverse | 363980 | [363980-sakunaverse.json](./363980-sakunaverse.json) |
@@ -7136,6 +7141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Battle 2 | 326806 | [326806-sonic-battle-2.json](./326806-sonic-battle-2.json) |
 | Sonic Battle 4: The Call to Chaos | 330280 | [330280-sonic-battle-4-the-call-to-chaos.json](./330280-sonic-battle-4-the-call-to-chaos.json) |
 | Sonic Battle Cards | 338941 | [338941-sonic-battle-cards.json](./338941-sonic-battle-cards.json) |
+| Sonic Battle R | 169233 | [169233-sonic-battle-r.json](./169233-sonic-battle-r.json) |
 | Sonic Battle Rush | 266507 | [266507-sonic-battle-rush.json](./266507-sonic-battle-rush.json) |
 | Sonic Billiards | 261246 | [261246-sonic-billiards.json](./261246-sonic-billiards.json) |
 | Sonic Black Ace | 331957 | [331957-sonic-black-ace.json](./331957-sonic-black-ace.json) |
@@ -7175,6 +7181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Colors: Ultimate | 150005 | [150005-sonic-colors-ultimate.json](./150005-sonic-colors-ultimate.json) |
 | Sonic Colors: Ultimate - 30th Anniversary Pack | 150157 | [150157-sonic-colors-ultimate-30th-anniversary-pack.json](./150157-sonic-colors-ultimate-30th-anniversary-pack.json) |
 | Sonic Colors: Ultimate - Day One Edition | 227941 | [227941-sonic-colors-ultimate-day-one-edition.json](./227941-sonic-colors-ultimate-day-one-edition.json) |
+| Sonic Colors: Ultimate - Digital Deluxe | 169201 | [169201-sonic-colors-ultimate-digital-deluxe.json](./169201-sonic-colors-ultimate-digital-deluxe.json) |
 | Sonic Colors: Ultimate Online Puzzle | 237491 | [237491-sonic-colors-ultimate-online-puzzle.json](./237491-sonic-colors-ultimate-online-puzzle.json) |
 | Sonic Core | 332596 | [332596-sonic-core.json](./332596-sonic-core.json) |
 | Sonic Darts | 261252 | [261252-sonic-darts.json](./261252-sonic-darts.json) |
@@ -8399,6 +8406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacebar | 183334 | [183334-spacebar.json](./183334-spacebar.json) |
 | Spacebar | 344361 | [344361-spacebar.json](./344361-spacebar.json) |
 | Spacebase DF-9 | 5632 | [5632-spacebase-df-9.json](./5632-spacebase-df-9.json) |
+| Spacebase Startopia: Extended Edition | 169189 | [169189-spacebase-startopia-extended-edition.json](./169189-spacebase-startopia-extended-edition.json) |
 | SpaceBeaver | 180575 | [180575-spacebeaver.json](./180575-spacebeaver.json) |
 | Spacebeef | 135059 | [135059-spacebeef.json](./135059-spacebeef.json) |
 | SpaceBlocc | 193499 | [193499-spaceblocc.json](./193499-spaceblocc.json) |
@@ -14053,6 +14061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suprabac.io | 243380 | [243380-suprabac-io.json](./243380-suprabac-io.json) |
 | Supracore | 251854 | [251854-supracore.json](./251854-supracore.json) |
 | Supraland | 89354 | [89354-supraland.json](./89354-supraland.json) |
+| Supraland: Complete Edition | 169180 | [169180-supraland-complete-edition.json](./169180-supraland-complete-edition.json) |
 | Supraland: Six Inches Under | 172903 | [172903-supraland-six-inches-under.json](./172903-supraland-six-inches-under.json) |
 | Supraworld | 250601 | [250601-supraworld.json](./250601-supraworld.json) |
 | Supremacy 1914 | 113460 | [113460-supremacy-1914.json](./113460-supremacy-1914.json) |
