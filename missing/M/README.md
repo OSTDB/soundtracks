@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Elements HD | 174371 | [174371-mahjong-elements-hd.json](./174371-mahjong-elements-hd.json) |
 | Mahjong Escape: Ancient China | 135673 | [135673-mahjong-escape-ancient-china.json](./135673-mahjong-escape-ancient-china.json) |
 | Mahjong Escape: Ancient Japan | 202093 | [202093-mahjong-escape-ancient-japan.json](./202093-mahjong-escape-ancient-japan.json) |
+| Mahjong Fight Club Wii: Wi-Fi Taiou | 125914 | [125914-mahjong-fight-club-wii-wi-fi-taiou.json](./125914-mahjong-fight-club-wii-wi-fi-taiou.json) |
 | Mahjong Gakkou | 415967 | [415967-mahjong-gakkou.json](./415967-mahjong-gakkou.json) |
 | Mahjong Gakuen Touma Soushirou Toujou | 59429 | [59429-mahjong-gakuen-touma-soushirou-toujou.json](./59429-mahjong-gakuen-touma-soushirou-toujou.json) |
 | Mahjong Garden | 366439 | [366439-mahjong-garden.json](./366439-mahjong-garden.json) |
@@ -1318,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mantis Burn Racing: Elite Class | 170305 | [170305-mantis-burn-racing-elite-class.json](./170305-mantis-burn-racing-elite-class.json) |
 | Mantis Burn Racing: Snowbound Pack | 170306 | [170306-mantis-burn-racing-snowbound-pack.json](./170306-mantis-burn-racing-snowbound-pack.json) |
 | Mantle Crater | 386429 | [386429-mantle-crater.json](./386429-mantle-crater.json) |
+| Mantra | 125900 | [125900-mantra.json](./125900-mantra.json) |
 | Mantra | 223438 | [223438-mantra.json](./223438-mantra.json) |
 | Mantras 3D | 100114 | [100114-mantras-3d.json](./100114-mantras-3d.json) |
 | Manufactoria 2022 | 150616 | [150616-manufactoria-2022.json](./150616-manufactoria-2022.json) |
@@ -2596,6 +2598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem Survivors: Animals | 261312 | [261312-mayhem-survivors-animals.json](./261312-mayhem-survivors-animals.json) |
 | Mayhem Triple | 34731 | [34731-mayhem-triple.json](./34731-mayhem-triple.json) |
 | Mayhem ZX | 74755 | [74755-mayhem-zx.json](./74755-mayhem-zx.json) |
+| MayhemCars | 125909 | [125909-mayhemcars.json](./125909-mayhemcars.json) |
 | Mayo Mayo | 321605 | [321605-mayo-mayo.json](./321605-mayo-mayo.json) |
 | Mayohiga | 151530 | [151530-mayohiga.json](./151530-mayohiga.json) |
 | Mayoi Shopping Street | 365861 | [365861-mayoi-shopping-street.json](./365861-mayoi-shopping-street.json) |
@@ -5936,6 +5939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Murder Mystery | 370691 | [370691-mobile-murder-mystery.json](./370691-mobile-murder-mystery.json) |
 | Mobile Phase 10 | 243277 | [243277-mobile-phase-10.json](./243277-mobile-phase-10.json) |
 | Mobile Quest GB | 304098 | [304098-mobile-quest-gb.json](./304098-mobile-quest-gb.json) |
+| Mobile Royale | 125887 | [125887-mobile-royale.json](./125887-mobile-royale.json) |
 | Mobile Soldiers: Plastic Army | 369639 | [369639-mobile-soldiers-plastic-army.json](./369639-mobile-soldiers-plastic-army.json) |
 | Mobile Suit Baba | 280934 | [280934-mobile-suit-baba.json](./280934-mobile-suit-baba.json) |
 | Mobile Suit Gundam | 125966 | [125966-mobile-suit-gundam.json](./125966-mobile-suit-gundam.json) |
@@ -8812,6 +8816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MyDearest.exe | 391745 | [391745-mydearest-exe.json](./391745-mydearest-exe.json) |
 | MyDream | 35794 | [35794-mydream.json](./35794-mydream.json) |
 | MyDU | 365704 | [365704-mydu.json](./365704-mydu.json) |
+| Myeong Wol | 125894 | [125894-myeong-wol.json](./125894-myeong-wol.json) |
 | Myether | 184888 | [184888-myether.json](./184888-myether.json) |
 | Mygnar | 151130 | [151130-mygnar.json](./151130-mygnar.json) |
 | Myha: Return to the Lost Island | 116558 | [116558-myha-return-to-the-lost-island.json](./116558-myha-return-to-the-lost-island.json) |
