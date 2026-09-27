@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valhalla: Before the War | 12809 | [12809-valhalla-before-the-war.json](./12809-valhalla-before-the-war.json) |
 | Valheim: Mistlands | 227760 | [227760-valheim-mistlands.json](./227760-valheim-mistlands.json) |
 | Valheim: The Bog Witch | 319145 | [319145-valheim-the-bog-witch.json](./319145-valheim-the-bog-witch.json) |
+| Valhyre FPS | 131470 | [131470-valhyre-fps.json](./131470-valhyre-fps.json) |
 | Valhyre: The Aftermath | 67293 | [67293-valhyre-the-aftermath.json](./67293-valhyre-the-aftermath.json) |
 | Vali Victorian | 150618 | [150618-vali-victorian.json](./150618-vali-victorian.json) |
 | Valiant | 136848 | [136848-valiant.json](./136848-valiant.json) |
@@ -1143,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Pool 4 Online | 91991 | [91991-virtual-pool-4-online.json](./91991-virtual-pool-4-online.json) |
 | Virtual Pro Wrestling 2: Oudou Keishou | 3625 | [3625-virtual-pro-wrestling-2-oudou-keishou.json](./3625-virtual-pro-wrestling-2-oudou-keishou.json) |
 | Virtual Pro Wrestling 64 | 3626 | [3626-virtual-pro-wrestling-64.json](./3626-virtual-pro-wrestling-64.json) |
+| Virtual Reality Studio | 131498 | [131498-virtual-reality-studio.json](./131498-virtual-reality-studio.json) |
 | Virtual Reality Studio 2.0 | 100130 | [100130-virtual-reality-studio-2-0.json](./100130-virtual-reality-studio-2-0.json) |
 | Virtual Reality Vol. 2 | 100128 | [100128-virtual-reality-vol-2.json](./100128-virtual-reality-vol-2.json) |
 | Virtual Rehab Art 4 Health | 172181 | [172181-virtual-rehab-art-4-health.json](./172181-virtual-rehab-art-4-health.json) |
@@ -1562,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyage of the Valkyrie | 24882 | [24882-voyage-of-the-valkyrie.json](./24882-voyage-of-the-valkyrie.json) |
 | Voyage on the Alihacc Desert | 336361 | [336361-voyage-on-the-alihacc-desert.json](./336361-voyage-on-the-alihacc-desert.json) |
 | Voyage Router | 352752 | [352752-voyage-router.json](./352752-voyage-router.json) |
+| Voyager | 131492 | [131492-voyager.json](./131492-voyager.json) |
 | Voyager I: Sabotage of the Robot Ship | 24848 | [24848-voyager-i-sabotage-of-the-robot-ship.json](./24848-voyager-i-sabotage-of-the-robot-ship.json) |
 | VoYD | 89211 | [89211-voyd.json](./89211-voyd.json) |
 | Voyeur Hotel | 272001 | [272001-voyeur-hotel.json](./272001-voyeur-hotel.json) |
