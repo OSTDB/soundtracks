@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Skies 2: Keepers of Nemansk | 296689 | [296689-dark-skies-2-keepers-of-nemansk.json](./296689-dark-skies-2-keepers-of-nemansk.json) |
 | Dark Sky | 290393 | [290393-dark-sky.json](./290393-dark-sky.json) |
 | Dark Slayer | 297015 | [297015-dark-slayer.json](./297015-dark-slayer.json) |
+| Dark Solid | 141736 | [141736-dark-solid.json](./141736-dark-solid.json) |
 | Dark Solitaire: Search for a Cure | 386139 | [386139-dark-solitaire-search-for-a-cure.json](./386139-dark-solitaire-search-for-a-cure.json) |
 | Dark Souls II: Crown of the Old Iron King | 22502 | [22502-dark-souls-ii-crown-of-the-old-iron-king.json](./22502-dark-souls-ii-crown-of-the-old-iron-king.json) |
 | Dark Souls III: Deluxe Edition | 47486 | [47486-dark-souls-iii-deluxe-edition.json](./47486-dark-souls-iii-deluxe-edition.json) |
@@ -4661,6 +4662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoDonPachi Resurrection: Deluxe Edition | 22933 | [22933-dodonpachi-resurrection-deluxe-edition.json](./22933-dodonpachi-resurrection-deluxe-edition.json) |
 | Dodonpachi True Death exA Label | 219161 | [219161-dodonpachi-true-death-exa-label.json](./219161-dodonpachi-true-death-exa-label.json) |
 | DoDonPachi Unlimited | 264093 | [264093-dodonpachi-unlimited.json](./264093-dodonpachi-unlimited.json) |
+| Does Canned Rice Dream of a Napkin Heap? | 141752 | [141752-does-canned-rice-dream-of-a-napkin-heap.json](./141752-does-canned-rice-dream-of-a-napkin-heap.json) |
 | Does It Shoot? | 88174 | [88174-does-it-shoot.json](./88174-does-it-shoot.json) |
 | Does It Stack?: Full Stack Edition | 278672 | [278672-does-it-stack-full-stack-edition.json](./278672-does-it-stack-full-stack-edition.json) |
 | Does Money Grow on Trees | 184999 | [184999-does-money-grow-on-trees.json](./184999-does-money-grow-on-trees.json) |
@@ -5895,6 +5897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Super TCG | 212759 | [212759-dragon-ball-super-tcg.json](./212759-dragon-ball-super-tcg.json) |
 | Dragon Ball Xenoverse 2: Dragon Ball Daima Pack | 366824 | [366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json](./366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json) |
 | Dragon Ball Xenoverse 2: Lite Version | 116372 | [116372-dragon-ball-xenoverse-2-lite-version.json](./116372-dragon-ball-xenoverse-2-lite-version.json) |
+| Dragon Ball Xenoverse and Dragon Ball Xenoverse 2 Double Pack | 141765 | [141765-dragon-ball-xenoverse-and-dragon-ball-xenoverse-2-double-pack.json](./141765-dragon-ball-xenoverse-and-dragon-ball-xenoverse-2-double-pack.json) |
 | Dragon Ball Z | 220086 | [220086-dragon-ball-z.json](./220086-dragon-ball-z.json) |
 | Dragon Ball Z 5 | 242098 | [242098-dragon-ball-z-5.json](./242098-dragon-ball-z-5.json) |
 | Dragon Ball Z II: Gekishin Frieza!! | 48682 | [48682-dragon-ball-z-ii-gekishin-frieza.json](./48682-dragon-ball-z-ii-gekishin-frieza.json) |
