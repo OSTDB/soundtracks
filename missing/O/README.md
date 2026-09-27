@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occultist Girl Magatsuhi | 270188 | [270188-occultist-girl-magatsuhi.json](./270188-occultist-girl-magatsuhi.json) |
 | Occulto | 192948 | [192948-occulto.json](./192948-occulto.json) |
 | Occultus Vitae: Hidden Life | 330914 | [330914-occultus-vitae-hidden-life.json](./330914-occultus-vitae-hidden-life.json) |
+| Occupation 2.5 | 159111 | [159111-occupation-2-5.json](./159111-occupation-2-5.json) |
 | Occupied | 383029 | [383029-occupied.json](./383029-occupied.json) |
 | Occupy Mars: The Game | 80936 | [80936-occupy-mars-the-game.json](./80936-occupy-mars-the-game.json) |
 | Ocda | 185117 | [185117-ocda.json](./185117-ocda.json) |
@@ -404,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Novice | 180851 | [180851-office-novice.json](./180851-office-novice.json) |
 | Office Outbreak Savior | 333155 | [333155-office-outbreak-savior.json](./333155-office-outbreak-savior.json) |
 | Office Overloaded | 317580 | [317580-office-overloaded.json](./317580-office-overloaded.json) |
+| Office Point Rescue | 159051 | [159051-office-point-rescue.json](./159051-office-point-rescue.json) |
 | Office Racer | 213045 | [213045-office-racer.json](./213045-office-racer.json) |
 | Office Rivals | 332266 | [332266-office-rivals.json](./332266-office-rivals.json) |
 | Office Romance | 215090 | [215090-office-romance.json](./215090-office-romance.json) |
