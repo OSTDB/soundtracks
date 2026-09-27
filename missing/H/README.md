@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Chronicles: Evil Behind a Mask - Collector's Edition | 126665 | [126665-halloween-chronicles-evil-behind-a-mask-collectors-edition.json](./126665-halloween-chronicles-evil-behind-a-mask-collectors-edition.json) |
 | Halloween Decoration Sandbox | 148548 | [148548-halloween-decoration-sandbox.json](./148548-halloween-decoration-sandbox.json) |
 | Halloween Defense | 269008 | [269008-halloween-defense.json](./269008-halloween-defense.json) |
+| Halloween Escape | 160159 | [160159-halloween-escape.json](./160159-halloween-escape.json) |
 | Halloween Experience 3: GGen | 295556 | [295556-halloween-experience-3-ggen.json](./295556-halloween-experience-3-ggen.json) |
 | Halloween Girls | 373750 | [373750-halloween-girls.json](./373750-halloween-girls.json) |
 | Halloween Harem | 398450 | [398450-halloween-harem.json](./398450-halloween-harem.json) |
@@ -2251,6 +2252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai: Royal Quarters | 286543 | [286543-hentai-royal-quarters.json](./286543-hentai-royal-quarters.json) |
 | Hentai: Waifu World | 296950 | [296950-hentai-waifu-world.json](./296950-hentai-waifu-world.json) |
 | Hentai: Young Valkyries | 259610 | [259610-hentai-young-valkyries.json](./259610-hentai-young-valkyries.json) |
+| Hentai! Zombie! Defense! | 160165 | [160165-hentai-zombie-defense.json](./160165-hentai-zombie-defense.json) |
 | Hentaicraft | 171371 | [171371-hentaicraft.json](./171371-hentaicraft.json) |
 | Hentaimon | 296946 | [296946-hentaimon.json](./296946-hentaimon.json) |
 | Henteria Chronicles: The Peacekeepers | 334495 | [334495-henteria-chronicles-the-peacekeepers.json](./334495-henteria-chronicles-the-peacekeepers.json) |
@@ -3048,6 +3050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Jinx! | 217977 | [217977-high-jinx.json](./217977-high-jinx.json) |
 | High Jump | 247048 | [247048-high-jump.json](./247048-high-jump.json) |
 | High Mountain Abbey | 335370 | [335370-high-mountain-abbey.json](./335370-high-mountain-abbey.json) |
+| High Mountain Roller Coaster VR | 160147 | [160147-high-mountain-roller-coaster-vr.json](./160147-high-mountain-roller-coaster-vr.json) |
 | High Noon | 76974 | [76974-high-noon.json](./76974-high-noon.json) |
 | High Noon Drifter | 141868 | [141868-high-noon-drifter.json](./141868-high-noon-drifter.json) |
 | High Noon In Akhetaten | 308387 | [308387-high-noon-in-akhetaten.json](./308387-high-noon-in-akhetaten.json) |
@@ -4255,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hospital Haste | 54084 | [54084-hospital-haste.json](./54084-hospital-haste.json) |
 | Hospital Havoc | 85179 | [85179-hospital-havoc.json](./85179-hospital-havoc.json) |
 | Hospital Hustle | 52235 | [52235-hospital-hustle.json](./52235-hospital-hustle.json) |
+| Hospitality VR | 160135 | [160135-hospitality-vr.json](./160135-hospitality-vr.json) |
 | Host | 104007 | [104007-host.json](./104007-host.json) |
 | Host 714 | 153440 | [153440-host-714.json](./153440-host-714.json) |
 | Host Master and the Conquest of Humor | 62186 | [62186-host-master-and-the-conquest-of-humor.json](./62186-host-master-and-the-conquest-of-humor.json) |
