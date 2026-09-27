@@ -4178,6 +4178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antarctic Adventure | 239172 | [239172-antarctic-adventure.json](./239172-antarctic-adventure.json) |
 | Antarctic Girl | 127922 | [127922-antarctic-girl.json](./127922-antarctic-girl.json) |
 | Antarctic Tales Enhanced Edition | 268511 | [268511-antarctic-tales-enhanced-edition.json](./268511-antarctic-tales-enhanced-edition.json) |
+| Antares | 125343 | [125343-antares.json](./125343-antares.json) |
 | Antares | 132727 | [132727-antares.json](./132727-antares.json) |
 | Antartica | 400962 | [400962-antartica.json](./400962-antartica.json) |
 | Antecrypt | 176341 | [176341-antecrypt.json](./176341-antecrypt.json) |
@@ -7130,6 +7131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axe Prime | 115046 | [115046-axe-prime.json](./115046-axe-prime.json) |
 | Axe Slasher | 333065 | [333065-axe-slasher.json](./333065-axe-slasher.json) |
 | Axe Throw VR | 107850 | [107850-axe-throw-vr.json](./107850-axe-throw-vr.json) |
+| AxE: Alliance Vs Empire | 125351 | [125351-axe-alliance-vs-empire.json](./125351-axe-alliance-vs-empire.json) |
 | Axegend | 131596 | [131596-axegend.json](./131596-axegend.json) |
 | Axel City | 124767 | [124767-axel-city.json](./124767-axel-city.json) |
 | Axes and Arrows | 34355 | [34355-axes-and-arrows.json](./34355-axes-and-arrows.json) |
