@@ -1725,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Corridor | 230862 | [230862-death-corridor.json](./230862-death-corridor.json) |
 | Death Crimson 2: Meranito no Saidan | 60497 | [60497-death-crimson-2-meranito-no-saidan.json](./60497-death-crimson-2-meranito-no-saidan.json) |
 | Death Crown | 90270 | [90270-death-crown.json](./90270-death-crown.json) |
+| Death Crown: Era of Human | 171920 | [171920-death-crown-era-of-human.json](./171920-death-crown-era-of-human.json) |
 | Death Cube | 199096 | [199096-death-cube.json](./199096-death-cube.json) |
 | Death Delivery | 371237 | [371237-death-delivery.json](./371237-death-delivery.json) |
 | Death Dojo | 30913 | [30913-death-dojo.json](./30913-death-dojo.json) |
@@ -4997,6 +4998,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey King Arcade Game | 96713 | [96713-donkey-king-arcade-game.json](./96713-donkey-king-arcade-game.json) |
 | Donkey Kong | 1086 | [1086-donkey-kong.json](./1086-donkey-kong.json) |
 | Donkey Kong | 1089 | [1089-donkey-kong.json](./1089-donkey-kong.json) |
+| Donkey Kong | 171952 | [171952-donkey-kong.json](./171952-donkey-kong.json) |
+| Donkey Kong | 171953 | [171953-donkey-kong.json](./171953-donkey-kong.json) |
+| Donkey Kong | 171954 | [171954-donkey-kong.json](./171954-donkey-kong.json) |
+| Donkey Kong | 171956 | [171956-donkey-kong.json](./171956-donkey-kong.json) |
+| Donkey Kong | 171961 | [171961-donkey-kong.json](./171961-donkey-kong.json) |
 | Donkey Kong | 172013 | [172013-donkey-kong.json](./172013-donkey-kong.json) |
 | Donkey Kong | 172014 | [172014-donkey-kong.json](./172014-donkey-kong.json) |
 | Donkey Kong | 172015 | [172015-donkey-kong.json](./172015-donkey-kong.json) |
@@ -5151,6 +5157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom & Destiny | 13168 | [13168-doom-and-destiny.json](./13168-doom-and-destiny.json) |
 | Doom & Destiny Advanced | 25944 | [25944-doom-and-destiny-advanced.json](./25944-doom-and-destiny-advanced.json) |
 | Doom & Destiny Worlds | 133012 | [133012-doom-and-destiny-worlds.json](./133012-doom-and-destiny-worlds.json) |
+| Doom & Destiny Worlds: Survival of the Nerdiest | 171949 | [171949-doom-and-destiny-worlds-survival-of-the-nerdiest.json](./171949-doom-and-destiny-worlds-survival-of-the-nerdiest.json) |
 | Doom + Doom II | 313126 | [313126-doom-doom-ii.json](./313126-doom-doom-ii.json) |
 | Doom 2 In City Only | 299447 | [299447-doom-2-in-city-only.json](./299447-doom-2-in-city-only.json) |
 | Doom 3: BFG Edition | 6968 | [6968-doom-3-bfg-edition.json](./6968-doom-3-bfg-edition.json) |
@@ -5874,6 +5881,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Eternity | 59981 | [59981-dragon-eternity.json](./59981-dragon-eternity.json) |
 | Dragon Expedition | 332993 | [332993-dragon-expedition.json](./332993-dragon-expedition.json) |
 | Dragon Extinction VR | 149002 | [149002-dragon-extinction-vr.json](./149002-dragon-extinction-vr.json) |
+| Dragon Fang Z: The Rose & Dungeon of Time - Extra Dungeon: The Cave of Fangs | 171939 | [171939-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-the-cave-of-fangs.json](./171939-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-the-cave-of-fangs.json) |
+| Dragon Fang Z: The Rose & Dungeon of Time - Extra Dungeon: The Inferno Hollow | 171938 | [171938-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-the-inferno-hollow.json](./171938-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-the-inferno-hollow.json) |
 | Dragon Fantasy | 22332 | [22332-dragon-fantasy.json](./22332-dragon-fantasy.json) |
 | Dragon Fantasy Book I and II Bundle | 99554 | [99554-dragon-fantasy-book-i-and-ii-bundle.json](./99554-dragon-fantasy-book-i-and-ii-bundle.json) |
 | Dragon Fantasy: The Black Tome of Ice | 36219 | [36219-dragon-fantasy-the-black-tome-of-ice.json](./36219-dragon-fantasy-the-black-tome-of-ice.json) |
