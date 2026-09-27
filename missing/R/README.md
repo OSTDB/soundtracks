@@ -1467,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recalcitrant | 326273 | [326273-recalcitrant.json](./326273-recalcitrant.json) |
 | Recalhorn | 257330 | [257330-recalhorn.json](./257330-recalhorn.json) |
 | Recall | 154397 | [154397-recall.json](./154397-recall.json) |
+| Recapture the Castle | 173062 | [173062-recapture-the-castle.json](./173062-recapture-the-castle.json) |
 | ReCast FF3: War of the Magitek | 339255 | [339255-recast-ff3-war-of-the-magitek.json](./339255-recast-ff3-war-of-the-magitek.json) |
 | Recesses | 317409 | [317409-recesses.json](./317409-recesses.json) |
 | Recharge Complete | 75171 | [75171-recharge-complete.json](./75171-recharge-complete.json) |
@@ -1637,6 +1638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Genesis | 367592 | [367592-red-genesis.json](./367592-red-genesis.json) |
 | Red Genie: An Eidola Tale | 258737 | [258737-red-genie-an-eidola-tale.json](./258737-red-genie-an-eidola-tale.json) |
 | Red Goddess: Inner World | 15912 | [15912-red-goddess-inner-world.json](./15912-red-goddess-inner-world.json) |
+| Red Goes Faster | 173090 | [173090-red-goes-faster.json](./173090-red-goes-faster.json) |
 | Red Haven | 218714 | [218714-red-haven.json](./218714-red-haven.json) |
 | Red Hawk | 411129 | [411129-red-hawk.json](./411129-red-hawk.json) |
 | Red Haze: Bruises Glimmer in Starlight | 325820 | [325820-red-haze-bruises-glimmer-in-starlight.json](./325820-red-haze-bruises-glimmer-in-starlight.json) |
@@ -2845,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm 'n Notes: Improve Your Music Skills | 79176 | [79176-rhythm-n-notes-improve-your-music-skills.json](./79176-rhythm-n-notes-improve-your-music-skills.json) |
 | Rhythm & Beats | 292282 | [292282-rhythm-and-beats.json](./292282-rhythm-and-beats.json) |
 | Rhythm Any Music | 220709 | [220709-rhythm-any-music.json](./220709-rhythm-any-music.json) |
+| Rhythm Brawl | 173059 | [173059-rhythm-brawl.json](./173059-rhythm-brawl.json) |
 | Rhythm Cat Pro | 86707 | [86707-rhythm-cat-pro.json](./86707-rhythm-cat-pro.json) |
 | Rhythm Core Alpha | 84842 | [84842-rhythm-core-alpha.json](./84842-rhythm-core-alpha.json) |
 | Rhythm Core Alpha 2 | 84841 | [84841-rhythm-core-alpha-2.json](./84841-rhythm-core-alpha-2.json) |
