@@ -756,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idling Gears | 237081 | [237081-idling-gears.json](./237081-idling-gears.json) |
 | Idly God | 209637 | [209637-idly-god.json](./209637-idly-god.json) |
 | Idol Connect -AsteriskLive- | 56164 | [56164-idol-connect-asterisklive.json](./56164-idol-connect-asterisklive.json) |
+| Idol Days | 151599 | [151599-idol-days.json](./151599-idol-days.json) |
 | Idol Days Sim Date | 198242 | [198242-idol-days-sim-date.json](./198242-idol-days-sim-date.json) |
 | Idol Hakken-den | 7905 | [7905-idol-hakken-den.json](./7905-idol-hakken-den.json) |
 | Idol Hands | 195711 | [195711-idol-hands.json](./195711-idol-hands.json) |
@@ -2717,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isoball | 243779 | [243779-isoball.json](./243779-isoball.json) |
 | IsoBoom | 55504 | [55504-isoboom.json](./55504-isoboom.json) |
 | IsoChess | 236779 | [236779-isochess.json](./236779-isochess.json) |
+| IsoCubes | 151605 | [151605-isocubes.json](./151605-isocubes.json) |
 | Isoge Hero | 379573 | [379573-isoge-hero.json](./379573-isoge-hero.json) |
 | Isoge! Doraemon | 385850 | [385850-isoge-doraemon.json](./385850-isoge-doraemon.json) |
 | Isoland | 57337 | [57337-isoland.json](./57337-isoland.json) |
