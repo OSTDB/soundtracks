@@ -952,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenhaul | 249470 | [249470-ravenhaul.json](./249470-ravenhaul.json) |
 | RavenHeart Hospital: A Medical Visual Novel | 165009 | [165009-ravenheart-hospital-a-medical-visual-novel.json](./165009-ravenheart-hospital-a-medical-visual-novel.json) |
 | Ravenholm | 319744 | [319744-ravenholm.json](./319744-ravenholm.json) |
+| Ravenix: The Card Master | 139337 | [139337-ravenix-the-card-master.json](./139337-ravenix-the-card-master.json) |
 | Ravenlok | 204626 | [204626-ravenlok.json](./204626-ravenlok.json) |
 | Ravenmark: Mercenaries | 63534 | [63534-ravenmark-mercenaries.json](./63534-ravenmark-mercenaries.json) |
 | Ravenmoore Psychiatric Hospital | 376463 | [376463-ravenmoore-psychiatric-hospital.json](./376463-ravenmoore-psychiatric-hospital.json) |
@@ -1195,9 +1196,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Read the Unfinished Donkey Kong Country Story...and then Finish the Adventure! | 328601 | [328601-read-the-unfinished-donkey-kong-country-story-and-then-finish-the-adventure.json](./328601-read-the-unfinished-donkey-kong-country-story-and-then-finish-the-adventure.json) |
 | Reader Rabbit 1 | 80516 | [80516-reader-rabbit-1.json](./80516-reader-rabbit-1.json) |
 | Reader Rabbit 1st Grade | 88280 | [88280-reader-rabbit-1st-grade.json](./88280-reader-rabbit-1st-grade.json) |
+| Reader Rabbit 1st Grade: Capers on Cloud Nine | 139351 | [139351-reader-rabbit-1st-grade-capers-on-cloud-nine.json](./139351-reader-rabbit-1st-grade-capers-on-cloud-nine.json) |
 | Reader Rabbit 2 | 73302 | [73302-reader-rabbit-2.json](./73302-reader-rabbit-2.json) |
 | Reader Rabbit Kindergarten | 301429 | [301429-reader-rabbit-kindergarten.json](./301429-reader-rabbit-kindergarten.json) |
+| Reader Rabbit Kindergarten: Bounce Down in Balloon Town | 139350 | [139350-reader-rabbit-kindergarten-bounce-down-in-balloon-town.json](./139350-reader-rabbit-kindergarten-bounce-down-in-balloon-town.json) |
 | Reader Rabbit Math Adventures Ages 4-6 | 313291 | [313291-reader-rabbit-math-adventures-ages-4-6.json](./313291-reader-rabbit-math-adventures-ages-4-6.json) |
+| Reader Rabbit Preschool: Sparkle Star Rescue | 139349 | [139349-reader-rabbit-preschool-sparkle-star-rescue.json](./139349-reader-rabbit-preschool-sparkle-star-rescue.json) |
 | Reader Rabbit: Beginner Addition | 245415 | [245415-reader-rabbit-beginner-addition.json](./245415-reader-rabbit-beginner-addition.json) |
 | Reader Rabbit: Kindergarten | 67333 | [67333-reader-rabbit-kindergarten.json](./67333-reader-rabbit-kindergarten.json) |
 | Reader Rabbit: Thinking Adventures Ages 4-6 | 144857 | [144857-reader-rabbit-thinking-adventures-ages-4-6.json](./144857-reader-rabbit-thinking-adventures-ages-4-6.json) |
@@ -4822,6 +4826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotting Grief | 415068 | [415068-rotting-grief.json](./415068-rotting-grief.json) |
 | Rotting Jam | 271847 | [271847-rotting-jam.json](./271847-rotting-jam.json) |
 | Rotund Rebound | 117060 | [117060-rotund-rebound.json](./117060-rotund-rebound.json) |
+| Rotund Takeoff | 139303 | [139303-rotund-takeoff.json](./139303-rotund-takeoff.json) |
 | Rouen | 97935 | [97935-rouen.json](./97935-rouen.json) |
 | Rouge noir | 175904 | [175904-rouge-noir.json](./175904-rouge-noir.json) |
 | Rouge Tank | 295548 | [295548-rouge-tank.json](./295548-rouge-tank.json) |
@@ -5595,3 +5600,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryuuko No Ken Gaiden | 75517 | [75517-ryuuko-no-ken-gaiden.json](./75517-ryuuko-no-ken-gaiden.json) |
 | Ryuuo no Oshigoto! | 125193 | [125193-ryuuo-no-oshigoto.json](./125193-ryuuo-no-oshigoto.json) |
 | Ryuuo no Oshigoto!: Limited Edition | 167073 | [167073-ryuuo-no-oshigoto-limited-edition.json](./167073-ryuuo-no-oshigoto-limited-edition.json) |
+| Ryuusei no Rockman: Denpa Henkan! On Air! | 139348 | [139348-ryuusei-no-rockman-denpa-henkan-on-air.json](./139348-ryuusei-no-rockman-denpa-henkan-on-air.json) |
