@@ -3520,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitmap Bureau Collection | 287089 | [287089-bitmap-bureau-collection.json](./287089-bitmap-bureau-collection.json) |
 | Bitmap Bureau Collection: Deluxe Edition | 294814 | [294814-bitmap-bureau-collection-deluxe-edition.json](./294814-bitmap-bureau-collection-deluxe-edition.json) |
 | Bitmates | 228413 | [228413-bitmates.json](./228413-bitmates.json) |
+| Bitpunky | 149473 | [149473-bitpunky.json](./149473-bitpunky.json) |
 | BitRay2 | 31724 | [31724-bitray2.json](./31724-bitray2.json) |
 | BitRick's Venture | 333173 | [333173-bitricks-venture.json](./333173-bitricks-venture.json) |
 | Bitroom | 148925 | [148925-bitroom.json](./148925-bitroom.json) |
@@ -4258,6 +4259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Man Adventures | 295557 | [295557-block-man-adventures.json](./295557-block-man-adventures.json) |
 | Block Master 3D Puzzle | 357976 | [357976-block-master-3d-puzzle.json](./357976-block-master-3d-puzzle.json) |
 | Block Mesa 64 | 193328 | [193328-block-mesa-64.json](./193328-block-mesa-64.json) |
+| Block Motion | 149486 | [149486-block-motion.json](./149486-block-motion.json) |
 | Block N Load 2 | 204443 | [204443-block-n-load-2.json](./204443-block-n-load-2.json) |
 | Block Out | 246386 | [246386-block-out.json](./246386-block-out.json) |
 | Block Pile | 360562 | [360562-block-pile.json](./360562-block-pile.json) |
@@ -5645,6 +5647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boundless Skies | 278969 | [278969-boundless-skies.json](./278969-boundless-skies.json) |
 | Bounters | 199119 | [199119-bounters.json](./199119-bounters.json) |
 | Bountiful Hunters | 382315 | [382315-bountiful-hunters.json](./382315-bountiful-hunters.json) |
+| Bountiful Life | 149503 | [149503-bountiful-life.json](./149503-bountiful-life.json) |
 | Bounty | 226269 | [226269-bounty.json](./226269-bounty.json) |
 | Bounty Battle | 107873 | [107873-bounty-battle.json](./107873-bounty-battle.json) |
 | Bounty Below | 192707 | [192707-bounty-below.json](./192707-bounty-below.json) |
@@ -6641,6 +6644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BTS Island: In the Seom | 206740 | [206740-bts-island-in-the-seom.json](./206740-bts-island-in-the-seom.json) |
 | Buba | 120348 | [120348-buba.json](./120348-buba.json) |
 | Bubba Yuga | 383523 | [383523-bubba-yuga.json](./383523-bubba-yuga.json) |
+| Bubbaruka! | 149483 | [149483-bubbaruka.json](./149483-bubbaruka.json) |
 | Bubbits | 319971 | [319971-bubbits.json](./319971-bubbits.json) |
 | Bubblbrst | 24081 | [24081-bubblbrst.json](./24081-bubblbrst.json) |
 | Bubble | 287650 | [287650-bubble.json](./287650-bubble.json) |
