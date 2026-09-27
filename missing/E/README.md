@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | East Front II | 84257 | [84257-east-front-ii.json](./84257-east-front-ii.json) |
 | East Legend | 39219 | [39219-east-legend.json](./39219-east-legend.json) |
 | East Trapper | 189032 | [189032-east-trapper.json](./189032-east-trapper.json) |
+| east van EP | 134510 | [134510-east-van-ep.json](./134510-east-van-ep.json) |
 | east van EP | 230795 | [230795-east-van-ep.json](./230795-east-van-ep.json) |
 | East Wind | 226811 | [226811-east-wind.json](./226811-east-wind.json) |
 | EastEnders | 79304 | [79304-eastenders.json](./79304-eastenders.json) |
@@ -731,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eiyuden Chronicle: Hundred Heroes - The Chapter of Seign | 332519 | [332519-eiyuden-chronicle-hundred-heroes-the-chapter-of-seign.json](./332519-eiyuden-chronicle-hundred-heroes-the-chapter-of-seign.json) |
 | Eiyuu Shigan: Gal Act Heroism | 91760 | [91760-eiyuu-shigan-gal-act-heroism.json](./91760-eiyuu-shigan-gal-act-heroism.json) |
 | Eizo Play: Megumi | 69857 | [69857-eizo-play-megumi.json](./69857-eizo-play-megumi.json) |
+| Eizoku | 134519 | [134519-eizoku.json](./134519-eizoku.json) |
 | Eject Bombin' | 182923 | [182923-eject-bombin.json](./182923-eject-bombin.json) |
 | Eklips | 174180 | [174180-eklips.json](./174180-eklips.json) |
 | Eko | 223673 | [223673-eko.json](./223673-eko.json) |
