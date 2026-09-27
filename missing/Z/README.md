@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhījiāng Wǎngshì | 155549 | [155549-zhijiang-wangshi.json](./155549-zhijiang-wangshi.json) |
 | Zhījiāng Xiǎozhèn | 369570 | [369570-zhijiang-xiaozhen.json](./369570-zhijiang-xiaozhen.json) |
 | Zhǐshàngtánbīng Mónǐqì | 147359 | [147359-zhishangtanbing-moniqi.json](./147359-zhishangtanbing-moniqi.json) |
+| ZHive | 120773 | [120773-zhive.json](./120773-zhive.json) |
 | Zhmyshenko Valery Albertovich | 99018 | [99018-zhmyshenko-valery-albertovich.json](./99018-zhmyshenko-valery-albertovich.json) |
 | Zhombre, the Undead Hombre | 23878 | [23878-zhombre-the-undead-hombre.json](./23878-zhombre-the-undead-hombre.json) |
 | Zhōngguó Shì Fùháo | 375430 | [375430-zhongguo-shi-fuhao.json](./375430-zhongguo-shi-fuhao.json) |
