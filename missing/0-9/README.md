@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 'Round The Mind | 265687 | [265687-round-the-mind.json](./265687-round-the-mind.json) |
 | 'The | 247183 | [247183-the.json](./247183-the.json) |
 | "Did You Submit a Ticket?" Simulator | 417551 | [417551-did-you-submit-a-ticket-simulator.json](./417551-did-you-submit-a-ticket-simulator.json) |
+| "Draw a card" Simulator | 168659 | [168659-draw-a-card-simulator.json](./168659-draw-a-card-simulator.json) |
 | "Edna & Harvey" Bundle | 271701 | [271701-edna-and-harvey-bundle.json](./271701-edna-and-harvey-bundle.json) |
 | "Gamer"+ Crossroad of Sympathy | 186065 | [186065-gamer-crossroad-of-sympathy.json](./186065-gamer-crossroad-of-sympathy.json) |
 | "Glow Ball" - The billiard puzzle game | 34802 | [34802-glow-ball-the-billiard-puzzle-game.json](./34802-glow-ball-the-billiard-puzzle-game.json) |
