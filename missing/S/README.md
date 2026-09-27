@@ -11363,6 +11363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormball | 77379 | [77379-stormball.json](./77379-stormball.json) |
 | Stormbane | 258956 | [258956-stormbane.json](./258956-stormbane.json) |
 | Stormbinders | 336520 | [336520-stormbinders.json](./336520-stormbinders.json) |
+| Stormblades | 158028 | [158028-stormblades.json](./158028-stormblades.json) |
 | StormBorn: War of Legends | 83917 | [83917-stormborn-war-of-legends.json](./83917-stormborn-war-of-legends.json) |
 | Stormbound: Kingdom Wars | 70909 | [70909-stormbound-kingdom-wars.json](./70909-stormbound-kingdom-wars.json) |
 | Stormbridge | 327329 | [327329-stormbridge.json](./327329-stormbridge.json) |
