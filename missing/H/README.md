@@ -1960,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help Me Jack: Save the Dogs | 175731 | [175731-help-me-jack-save-the-dogs.json](./175731-help-me-jack-save-the-dogs.json) |
 | Help Me Now | 133221 | [133221-help-me-now.json](./133221-help-me-now.json) |
 | Help me please | 155977 | [155977-help-me-please.json](./155977-help-me-please.json) |
+| Help Me, I'm Drowning | 128435 | [128435-help-me-im-drowning.json](./128435-help-me-im-drowning.json) |
 | Help Me! | 154003 | [154003-help-me.json](./154003-help-me.json) |
 | Help Newton | 197228 | [197228-help-newton.json](./197228-help-newton.json) |
 | Help Police: Pull the Pins | 290461 | [290461-help-police-pull-the-pins.json](./290461-help-police-pull-the-pins.json) |
@@ -5397,5 +5398,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyrule Warriors: Age of Calamity + Expansion Pass Bundle | 293728 | [293728-hyrule-warriors-age-of-calamity-expansion-pass-bundle.json](./293728-hyrule-warriors-age-of-calamity-expansion-pass-bundle.json) |
 | Hyrule Warriors: Legends | 11193 | [11193-hyrule-warriors-legends.json](./11193-hyrule-warriors-legends.json) |
 | Hyrule Warriors: Master Quest Pack | 23825 | [23825-hyrule-warriors-master-quest-pack.json](./23825-hyrule-warriors-master-quest-pack.json) |
+| Hyspherical | 128546 | [128546-hyspherical.json](./128546-hyspherical.json) |
 | Hysteria Project 2 | 20623 | [20623-hysteria-project-2.json](./20623-hysteria-project-2.json) |
 | Hysteric Mama | 385329 | [385329-hysteric-mama.json](./385329-hysteric-mama.json) |
