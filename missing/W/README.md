@@ -928,6 +928,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waste recycling | 183368 | [183368-waste-recycling.json](./183368-waste-recycling.json) |
 | Waste The Fallen | 413735 | [413735-waste-the-fallen.json](./413735-waste-the-fallen.json) |
 | Waste Time Lotto | 338391 | [338391-waste-time-lotto.json](./338391-waste-time-lotto.json) |
+| Waste Walkers Deliverance | 135106 | [135106-waste-walkers-deliverance.json](./135106-waste-walkers-deliverance.json) |
+| Waste Walkers Subsistence | 135107 | [135107-waste-walkers-subsistence.json](./135107-waste-walkers-subsistence.json) |
 | Waste Water | 395175 | [395175-waste-water.json](./395175-waste-water.json) |
 | Waste Your Wedding | 366413 | [366413-waste-your-wedding.json](./366413-waste-your-wedding.json) |
 | Wastebraver | 205101 | [205101-wastebraver.json](./205101-wastebraver.json) |
@@ -1709,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When you're gone | 37192 | [37192-when-youre-gone.json](./37192-when-youre-gone.json) |
 | Whenever You Can Breathe | 203378 | [203378-whenever-you-can-breathe.json](./203378-whenever-you-can-breathe.json) |
 | Where Angels Cry: Tears of the Fallen - Collectors Edition | 34175 | [34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json](./34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json) |
+| Where Angels Meet | 135114 | [135114-where-angels-meet.json](./135114-where-angels-meet.json) |
 | Where are my potatoes 2: Land Of Mystery | 276815 | [276815-where-are-my-potatoes-2-land-of-mystery.json](./276815-where-are-my-potatoes-2-land-of-mystery.json) |
 | Where are My Potatoes? | 207798 | [207798-where-are-my-potatoes.json](./207798-where-are-my-potatoes.json) |
 | Where Are the Fish? | 399168 | [399168-where-are-the-fish.json](./399168-where-are-the-fish.json) |
