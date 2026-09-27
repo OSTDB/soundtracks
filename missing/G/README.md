@@ -1611,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Party: Nemuri-hime | 308873 | [308873-ghost-party-nemuri-hime.json](./308873-ghost-party-nemuri-hime.json) |
 | Ghost Patrol VR | 135117 | [135117-ghost-patrol-vr.json](./135117-ghost-patrol-vr.json) |
 | Ghost Puncher | 211171 | [211171-ghost-puncher.json](./211171-ghost-puncher.json) |
+| Ghost Punishment | 121590 | [121590-ghost-punishment.json](./121590-ghost-punishment.json) |
 | Ghost Pursuit VR | 31977 | [31977-ghost-pursuit-vr.json](./31977-ghost-pursuit-vr.json) |
 | Ghost Racer | 174212 | [174212-ghost-racer.json](./174212-ghost-racer.json) |
 | Ghost Racing: Formula E | 130324 | [130324-ghost-racing-formula-e.json](./130324-ghost-racing-formula-e.json) |
@@ -3129,6 +3130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grab it! Crane Game | 334095 | [334095-grab-it-crane-game.json](./334095-grab-it-crane-game.json) |
 | Grab Man | 47264 | [47264-grab-man.json](./47264-grab-man.json) |
 | Grab the Goblins! | 250650 | [250650-grab-the-goblins.json](./250650-grab-the-goblins.json) |
+| Grab the Mask | 121546 | [121546-grab-the-mask.json](./121546-grab-the-mask.json) |
 | Grab the Sushi | 268023 | [268023-grab-the-sushi.json](./268023-grab-the-sushi.json) |
 | Grabanakki | 180782 | [180782-grabanakki.json](./180782-grabanakki.json) |
 | Grabatron | 174643 | [174643-grabatron.json](./174643-grabatron.json) |
@@ -4676,6 +4678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gurmple Champs | 395712 | [395712-gurmple-champs.json](./395712-gurmple-champs.json) |
 | Guro Dere | 108971 | [108971-guro-dere.json](./108971-guro-dere.json) |
 | Guroku Rainbow | 237373 | [237373-guroku-rainbow.json](./237373-guroku-rainbow.json) |
+| Guroopia! | 121551 | [121551-guroopia.json](./121551-guroopia.json) |
 | Guru Guru | 309884 | [309884-guru-guru.json](./309884-guru-guru.json) |
 | Guru Guru | 94165 | [94165-guru-guru.json](./94165-guru-guru.json) |
 | Guru Logic | 84233 | [84233-guru-logic.json](./84233-guru-logic.json) |
