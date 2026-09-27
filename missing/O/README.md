@@ -1450,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Nectar | 416628 | [416628-open-nectar.json](./416628-open-nectar.json) |
 | Open Net Battle | 343861 | [343861-open-net-battle.json](./343861-open-net-battle.json) |
 | Open Ocarina | 271820 | [271820-open-ocarina.json](./271820-open-ocarina.json) |
+| Open Ocean | 119659 | [119659-open-ocean.json](./119659-open-ocean.json) |
 | Open Puzzle Box | 59035 | [59035-open-puzzle-box.json](./59035-open-puzzle-box.json) |
 | Open Rails | 89985 | [89985-open-rails.json](./89985-open-rails.json) |
 | Open Saber Plus | 343918 | [343918-open-saber-plus.json](./343918-open-saber-plus.json) |
@@ -1838,6 +1839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orixo | 132118 | [132118-orixo.json](./132118-orixo.json) |
 | Orixo Hex | 232165 | [232165-orixo-hex.json](./232165-orixo-hex.json) |
 | Orixo Wormhole | 132119 | [132119-orixo-wormhole.json](./132119-orixo-wormhole.json) |
+| Oriza | 119633 | [119633-oriza.json](./119633-oriza.json) |
 | Ork Manager: Coal & Top hats | 125400 | [125400-ork-manager-coal-and-top-hats.json](./125400-ork-manager-coal-and-top-hats.json) |
 | Orkicidium | 183516 | [183516-orkicidium.json](./183516-orkicidium.json) |
 | Orla Frøsnapper | 172596 | [172596-orla-fr-snapper.json](./172596-orla-fr-snapper.json) |
@@ -2321,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outrage | 33144 | [33144-outrage.json](./33144-outrage.json) |
 | OutRage: Fight Fest | 262662 | [262662-outrage-fight-fest.json](./262662-outrage-fight-fest.json) |
 | Outranked | 220617 | [220617-outranked.json](./220617-outranked.json) |
+| Outrider Mako | 119655 | [119655-outrider-mako.json](./119655-outrider-mako.json) |
 | Outriders: Complete Edition | 286513 | [286513-outriders-complete-edition.json](./286513-outriders-complete-edition.json) |
 | Outriders: Day One Edition | 139917 | [139917-outriders-day-one-edition.json](./139917-outriders-day-one-edition.json) |
 | Outright | 149086 | [149086-outright.json](./149086-outright.json) |
