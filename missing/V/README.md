@@ -1214,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vital Bracelet Arena | 270627 | [270627-vital-bracelet-arena.json](./270627-vital-bracelet-arena.json) |
 | Vital Charge | 400312 | [400312-vital-charge.json](./400312-vital-charge.json) |
 | Vital Force | 62188 | [62188-vital-force.json](./62188-vital-force.json) |
+| Vital Signs: Emergency Department | 164261 | [164261-vital-signs-emergency-department.json](./164261-vital-signs-emergency-department.json) |
 | Vital Signs: Emergency Department - Infections Package | 225107 | [225107-vital-signs-emergency-department-infections-package.json](./225107-vital-signs-emergency-department-infections-package.json) |
 | Vital Signs: Emergency Department - Injuries Package #1 | 225105 | [225105-vital-signs-emergency-department-injuries-package-1.json](./225105-vital-signs-emergency-department-injuries-package-1.json) |
 | Vital Signs: Emergency Department - Injuries Package #2 | 225106 | [225106-vital-signs-emergency-department-injuries-package-2.json](./225106-vital-signs-emergency-department-injuries-package-2.json) |
@@ -1573,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Giants | 107183 | [107183-vr-giants.json](./107183-vr-giants.json) |
 | VR GirlFriend | 30291 | [30291-vr-girlfriend.json](./30291-vr-girlfriend.json) |
 | VR Ground: Crazy Farm | 105311 | [105311-vr-ground-crazy-farm.json](./105311-vr-ground-crazy-farm.json) |
+| VR Guardians | 164234 | [164234-vr-guardians.json](./164234-vr-guardians.json) |
 | VR Harem Life | 338563 | [338563-vr-harem-life.json](./338563-vr-harem-life.json) |
 | VR Harem Sex | 295359 | [295359-vr-harem-sex.json](./295359-vr-harem-sex.json) |
 | VR Hentai | 384637 | [384637-vr-hentai.json](./384637-vr-hentai.json) |
@@ -1606,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Sailing | 338561 | [338561-vr-sailing.json](./338561-vr-sailing.json) |
 | VR Secretary: Ailey Edition | 338560 | [338560-vr-secretary-ailey-edition.json](./338560-vr-secretary-ailey-edition.json) |
 | VR Shooter Guns | 32867 | [32867-vr-shooter-guns.json](./32867-vr-shooter-guns.json) |
+| VR shooting cute balloons | 164249 | [164249-vr-shooting-cute-balloons.json](./164249-vr-shooting-cute-balloons.json) |
 | VR Skater | 146829 | [146829-vr-skater.json](./146829-vr-skater.json) |
 | VR Skater: SL Pro Series Tour | 296527 | [296527-vr-skater-sl-pro-series-tour.json](./296527-vr-skater-sl-pro-series-tour.json) |
 | VR Sky Walk | 189114 | [189114-vr-sky-walk.json](./189114-vr-sky-walk.json) |
