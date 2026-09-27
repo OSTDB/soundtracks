@@ -2227,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Online 2 New Genesis | 136042 | [136042-phantasy-star-online-2-new-genesis.json](./136042-phantasy-star-online-2-new-genesis.json) |
 | Phantasy Star Online 2 New Genesis: Limited Edition | 146336 | [146336-phantasy-star-online-2-new-genesis-limited-edition.json](./146336-phantasy-star-online-2-new-genesis-limited-edition.json) |
 | Phantasy Star Online 2 New Genesis: Start Dash Rappy Edition | 164821 | [164821-phantasy-star-online-2-new-genesis-start-dash-rappy-edition.json](./164821-phantasy-star-online-2-new-genesis-start-dash-rappy-edition.json) |
+| Phantasy Star Online 2: Episode 6 - Deluxe Package | 136922 | [136922-phantasy-star-online-2-episode-6-deluxe-package.json](./136922-phantasy-star-online-2-episode-6-deluxe-package.json) |
 | Phantasy Star Online 2: Helga Pack | 225867 | [225867-phantasy-star-online-2-helga-pack.json](./225867-phantasy-star-online-2-helga-pack.json) |
 | Phantasy Star Online 2: Howzer Pack | 225863 | [225863-phantasy-star-online-2-howzer-pack.json](./225863-phantasy-star-online-2-howzer-pack.json) |
 | Phantasy Star Online 2: Sonic Collaboration Edition | 132156 | [132156-phantasy-star-online-2-sonic-collaboration-edition.json](./132156-phantasy-star-online-2-sonic-collaboration-edition.json) |
@@ -2660,6 +2661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piczle Cross Adventure + PictoQuest: The Cursed Grids | 146140 | [146140-piczle-cross-adventure-pictoquest-the-cursed-grids.json](./146140-piczle-cross-adventure-pictoquest-the-cursed-grids.json) |
 | Piczle Lines DX Bundle | 147788 | [147788-piczle-lines-dx-bundle.json](./147788-piczle-lines-dx-bundle.json) |
 | Piczle Puzzle Adventures + Picto Quest Puzzle Bundle | 145690 | [145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json](./145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json) |
+| Piczle Puzzle Pack 3-in-1 | 136960 | [136960-piczle-puzzle-pack-3-in-1.json](./136960-piczle-puzzle-pack-3-in-1.json) |
 | Pid | 225890 | [225890-pid.json](./225890-pid.json) |
 | Pido1 | 105367 | [105367-pido1.json](./105367-pido1.json) |
 | Pie in the Sky | 298346 | [298346-pie-in-the-sky.json](./298346-pie-in-the-sky.json) |
@@ -2732,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigskin Punter! | 234336 | [234336-pigskin-punter.json](./234336-pigskin-punter.json) |
 | Pih | 375457 | [375457-pih.json](./375457-pih.json) |
 | Pik's Epic Kirby Sprite Comics: Teh Game 2 | 246666 | [246666-piks-epic-kirby-sprite-comics-teh-game-2.json](./246666-piks-epic-kirby-sprite-comics-teh-game-2.json) |
+| Pika Pika Nurse Monogatari: Shounika ha Itsumo Oosawagi | 136932 | [136932-pika-pika-nurse-monogatari-shounika-ha-itsumo-oosawagi.json](./136932-pika-pika-nurse-monogatari-shounika-ha-itsumo-oosawagi.json) |
 | Pikabuu: Stop! | 357230 | [357230-pikabuu-stop.json](./357230-pikabuu-stop.json) |
 | Pikachu Teeth Problem | 380551 | [380551-pikachu-teeth-problem.json](./380551-pikachu-teeth-problem.json) |
 | Pikari Walk | 230503 | [230503-pikari-walk.json](./230503-pikari-walk.json) |
@@ -3085,6 +3088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pintorino | 386399 | [386399-pintorino.json](./386399-pintorino.json) |
 | Pinup | 403142 | [403142-pinup.json](./403142-pinup.json) |
 | PinWar | 93632 | [93632-pinwar.json](./93632-pinwar.json) |
+| Piofiore: Episodio 1926 | 136944 | [136944-piofiore-episodio-1926.json](./136944-piofiore-episodio-1926.json) |
 | Piofiore: Episodio 1926 Limited Edition | 223129 | [223129-piofiore-episodio-1926-limited-edition.json](./223129-piofiore-episodio-1926-limited-edition.json) |
 | Pioneer | 337737 | [337737-pioneer.json](./337737-pioneer.json) |
 | Pioneer | 61666 | [61666-pioneer.json](./61666-pioneer.json) |
@@ -6235,6 +6239,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu Dream Nine Superstars | 220313 | [220313-pro-yakyuu-dream-nine-superstars.json](./220313-pro-yakyuu-dream-nine-superstars.json) |
 | Pro Yakyuu Family Stadium | 218385 | [218385-pro-yakyuu-family-stadium.json](./218385-pro-yakyuu-family-stadium.json) |
 | Pro Yakyuu Family Stadium '88: Nendo-ban | 48304 | [48304-pro-yakyuu-family-stadium-88-nendo-ban.json](./48304-pro-yakyuu-family-stadium-88-nendo-ban.json) |
+| Pro Yakyuu Famista 2020 | 136923 | [136923-pro-yakyuu-famista-2020.json](./136923-pro-yakyuu-famista-2020.json) |
+| Pro Yakyuu Famista Evolution | 136969 | [136969-pro-yakyuu-famista-evolution.json](./136969-pro-yakyuu-famista-evolution.json) |
 | Pro Yakyuu Fanstars League | 395234 | [395234-pro-yakyuu-fanstars-league.json](./395234-pro-yakyuu-fanstars-league.json) |
 | Pro Yakyuu ga Suki Da! 2017 | 194032 | [194032-pro-yakyuu-ga-suki-da-2017.json](./194032-pro-yakyuu-ga-suki-da-2017.json) |
 | Pro Yakyuu GG League | 141191 | [141191-pro-yakyuu-gg-league.json](./141191-pro-yakyuu-gg-league.json) |
@@ -6893,6 +6899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psikyo Shooting Stars Alpha: Limited Edition | 136264 | [136264-psikyo-shooting-stars-alpha-limited-edition.json](./136264-psikyo-shooting-stars-alpha-limited-edition.json) |
 | Psikyo Shooting Stars Bravo | 121652 | [121652-psikyo-shooting-stars-bravo.json](./121652-psikyo-shooting-stars-bravo.json) |
 | Psikyo Shooting Stars Bravo: Limited Edition | 136265 | [136265-psikyo-shooting-stars-bravo-limited-edition.json](./136265-psikyo-shooting-stars-bravo-limited-edition.json) |
+| Psikyo: Shooting Library Vol. 2 | 136951 | [136951-psikyo-shooting-library-vol-2.json](./136951-psikyo-shooting-library-vol-2.json) |
 | Psionic Sentry: Infinite | 276191 | [276191-psionic-sentry-infinite.json](./276191-psionic-sentry-infinite.json) |
 | PSN Protector | 320978 | [320978-psn-protector.json](./320978-psn-protector.json) |
 | Psst... I Have a Secret | 179043 | [179043-psst-i-have-a-secret.json](./179043-psst-i-have-a-secret.json) |
@@ -6980,6 +6987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PUBG Mobile Lite | 124773 | [124773-pubg-mobile-lite.json](./124773-pubg-mobile-lite.json) |
 | PUBG Mobile: Season 12 | 135152 | [135152-pubg-mobile-season-12.json](./135152-pubg-mobile-season-12.json) |
 | PUBG Mobile: Season 13 | 135154 | [135154-pubg-mobile-season-13.json](./135154-pubg-mobile-season-13.json) |
+| PUBG Mobile: Season 14 | 136975 | [136975-pubg-mobile-season-14.json](./136975-pubg-mobile-season-14.json) |
 | PUBG Mobile: Season 16 | 141193 | [141193-pubg-mobile-season-16.json](./141193-pubg-mobile-season-16.json) |
 | PUBG: Battlegrounds - Season 16 | 198264 | [198264-pubg-battlegrounds-season-16.json](./198264-pubg-battlegrounds-season-16.json) |
 | PUBG: Battlegrounds - Season 18 | 217520 | [217520-pubg-battlegrounds-season-18.json](./217520-pubg-battlegrounds-season-18.json) |
