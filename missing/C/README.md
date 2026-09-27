@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canada Break | 208582 | [208582-canada-break.json](./208582-canada-break.json) |
 | Canada Break: Head to Head | 209618 | [209618-canada-break-head-to-head.json](./209618-canada-break-head-to-head.json) |
 | Canada Clash | 418736 | [418736-canada-clash.json](./418736-canada-clash.json) |
+| Canadian Robot Racing League | 127175 | [127175-canadian-robot-racing-league.json](./127175-canadian-robot-racing-league.json) |
 | Canal Control | 243702 | [243702-canal-control.json](./243702-canal-control.json) |
 | Canal Towns | 197335 | [197335-canal-towns.json](./197335-canal-towns.json) |
 | Canari | 51580 | [51580-canari.json](./51580-canari.json) |
@@ -1187,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Cartoon Summer Resort | 130744 | [130744-cartoon-cartoon-summer-resort.json](./130744-cartoon-cartoon-summer-resort.json) |
 | Cartoon Collection | 53777 | [53777-cartoon-collection.json](./53777-cartoon-collection.json) |
 | Cartoon Dungeon VIP | 95865 | [95865-cartoon-dungeon-vip.json](./95865-cartoon-dungeon-vip.json) |
+| Cartoon Jukebox | 127151 | [127151-cartoon-jukebox.json](./127151-cartoon-jukebox.json) |
 | Cartoon Kingdom | 66957 | [66957-cartoon-kingdom.json](./66957-cartoon-kingdom.json) |
 | Cartoon Line: Part One | 13244 | [13244-cartoon-line-part-one.json](./13244-cartoon-line-part-one.json) |
 | Cartoon Network Collection: Limited Edition | 49362 | [49362-cartoon-network-collection-limited-edition.json](./49362-cartoon-network-collection-limited-edition.json) |
@@ -5804,6 +5806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooked Out | 282001 | [282001-cooked-out.json](./282001-cooked-out.json) |
 | Cooked with Love | 177507 | [177507-cooked-with-love.json](./177507-cooked-with-love.json) |
 | Cookey Shop | 145581 | [145581-cookey-shop.json](./145581-cookey-shop.json) |
+| Cookiator | 127122 | [127122-cookiator.json](./127122-cookiator.json) |
 | Cookie | 380085 | [380085-cookie.json](./380085-cookie.json) |
 | Cookie & Bibi 3 | 39643 | [39643-cookie-and-bibi-3.json](./39643-cookie-and-bibi-3.json) |
 | Cookie Baker | 106361 | [106361-cookie-baker.json](./106361-cookie-baker.json) |
@@ -6382,6 +6385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cover Orange | 86862 | [86862-cover-orange.json](./86862-cover-orange.json) |
 | Cover Orange | 90090 | [90090-cover-orange.json](./90090-cover-orange.json) |
 | Cover U: Raora Route | 351001 | [351001-cover-u-raora-route.json](./351001-cover-u-raora-route.json) |
+| Cover Your Eyes | 127161 | [127161-cover-your-eyes.json](./127161-cover-your-eyes.json) |
 | Covermount | 327295 | [327295-covermount.json](./327295-covermount.json) |
 | CoverQuest | 294456 | [294456-coverquest.json](./294456-coverquest.json) |
 | Covert | 112736 | [112736-covert.json](./112736-covert.json) |
@@ -6538,6 +6542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cracking the Cryptic | 211958 | [211958-cracking-the-cryptic.json](./211958-cracking-the-cryptic.json) |
 | Cracking the Cryptic: GAS Volume #1 | 280875 | [280875-cracking-the-cryptic-gas-volume-1.json](./280875-cracking-the-cryptic-gas-volume-1.json) |
 | Cracking the Cryptic: Lines Variety Pack | 270083 | [270083-cracking-the-cryptic-lines-variety-pack.json](./270083-cracking-the-cryptic-lines-variety-pack.json) |
+| Crackinho Beat' em up in the World | 127120 | [127120-crackinho-beat-em-up-in-the-world.json](./127120-crackinho-beat-em-up-in-the-world.json) |
 | Crackout | 48292 | [48292-crackout.json](./48292-crackout.json) |
 | Cracks Where the Light Gets In | 245795 | [245795-cracks-where-the-light-gets-in.json](./245795-cracks-where-the-light-gets-in.json) |
 | Crackshot | 183982 | [183982-crackshot.json](./183982-crackshot.json) |
@@ -6755,6 +6760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Run | 106365 | [106365-crayon-run.json](./106365-crayon-run.json) |
 | Crayon Sea Friends | 399629 | [399629-crayon-sea-friends.json](./399629-crayon-sea-friends.json) |
 | Crayon Shin Chan: The Storm Called! Flaming Kasukabe Runner!! | 130760 | [130760-crayon-shin-chan-the-storm-called-flaming-kasukabe-runner.json](./130760-crayon-shin-chan-the-storm-called-flaming-kasukabe-runner.json) |
+| Crayon Shin-chan 4: Ora no Itazura Daihenshin | 127112 | [127112-crayon-shin-chan-4-ora-no-itazura-daihenshin.json](./127112-crayon-shin-chan-4-ora-no-itazura-daihenshin.json) |
 | Crayon Shin-Chan for Nuon | 138119 | [138119-crayon-shin-chan-for-nuon.json](./138119-crayon-shin-chan-for-nuon.json) |
 | Crayon Shin-Chan Shokkugan! Densetsu o Yobu Omake Daiketsusen!! | 269681 | [269681-crayon-shin-chan-shokkugan-densetsu-o-yobu-omake-daiketsusen.json](./269681-crayon-shin-chan-shokkugan-densetsu-o-yobu-omake-daiketsusen.json) |
 | Crayon Shin-chan: Arashi wo Yobu Cinema-Land - Kachinko Gachinko Daikatsugeki! | 136939 | [136939-crayon-shin-chan-arashi-wo-yobu-cinema-land-kachinko-gachinko-daikatsugeki.json](./136939-crayon-shin-chan-arashi-wo-yobu-cinema-land-kachinko-gachinko-daikatsugeki.json) |
