@@ -803,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tan-Tan-Tanuki | 307142 | [307142-tan-tan-tanuki.json](./307142-tan-tan-tanuki.json) |
 | Tanat Online | 366226 | [366226-tanat-online.json](./366226-tanat-online.json) |
 | Tandem: A Tale of Shadows | 151134 | [151134-tandem-a-tale-of-shadows.json](./151134-tandem-a-tale-of-shadows.json) |
+| Tandis | 144176 | [144176-tandis.json](./144176-tandis.json) |
 | Tane o Maku Tori | 20174 | [20174-tane-o-maku-tori.json](./20174-tane-o-maku-tori.json) |
 | Tang Dynasty Architecture | 275341 | [275341-tang-dynasty-architecture.json](./275341-tang-dynasty-architecture.json) |
 | Tángdì zhī Huá | 394820 | [394820-tangdi-zhi-hua.json](./394820-tangdi-zhi-hua.json) |
@@ -1224,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tax Evasion | 265147 | [265147-tax-evasion.json](./265147-tax-evasion.json) |
 | Tax Return | 390679 | [390679-tax-return.json](./390679-tax-return.json) |
 | Tax-Force | 265631 | [265631-tax-force.json](./265631-tax-force.json) |
+| Taxer Inc. | 144211 | [144211-taxer-inc.json](./144211-taxer-inc.json) |
 | Taxi | 36490 | [36490-taxi.json](./36490-taxi.json) |
 | Taxi 3 | 138156 | [138156-taxi-3.json](./138156-taxi-3.json) |
 | Taxi 3 | 282673 | [282673-taxi-3.json](./282673-taxi-3.json) |
@@ -6889,6 +6891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silent Suite | 330923 | [330923-the-silent-suite.json](./330923-the-silent-suite.json) |
 | The Silk Road of the Eastern Dynasty | 211665 | [211665-the-silk-road-of-the-eastern-dynasty.json](./211665-the-silk-road-of-the-eastern-dynasty.json) |
 | The Silver Age | 209556 | [209556-the-silver-age.json](./209556-the-silver-age.json) |
+| The Silver Case 2425 | 144216 | [144216-the-silver-case-2425.json](./144216-the-silver-case-2425.json) |
 | The Silver Case 2425: Deluxe Edition | 146185 | [146185-the-silver-case-2425-deluxe-edition.json](./146185-the-silver-case-2425-deluxe-edition.json) |
 | The Silver Case 2425: Limited Edition | 167074 | [167074-the-silver-case-2425-limited-edition.json](./167074-the-silver-case-2425-limited-edition.json) |
 | The Silver Case: Deluxe Edition | 51921 | [51921-the-silver-case-deluxe-edition.json](./51921-the-silver-case-deluxe-edition.json) |
@@ -8292,6 +8295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Is Nothing Here | 179174 | [179174-there-is-nothing-here.json](./179174-there-is-nothing-here.json) |
 | There is nothing here. | 176789 | [176789-there-is-nothing-here.json](./176789-there-is-nothing-here.json) |
 | There is Still Hope | 211669 | [211669-there-is-still-hope.json](./211669-there-is-still-hope.json) |
+| There Shall Be Lancing | 144231 | [144231-there-shall-be-lancing.json](./144231-there-shall-be-lancing.json) |
 | There the Light | 117846 | [117846-there-the-light.json](./117846-there-the-light.json) |
 | There Was a Caveman | 34339 | [34339-there-was-a-caveman.json](./34339-there-was-a-caveman.json) |
 | There Was a Mixup at the Factory! | 227810 | [227810-there-was-a-mixup-at-the-factory.json](./227810-there-was-a-mixup-at-the-factory.json) |
@@ -10287,6 +10291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Capital | 24476 | [24476-to-the-capital.json](./24476-to-the-capital.json) |
 | To the City of the Clouds | 83597 | [83597-to-the-city-of-the-clouds.json](./83597-to-the-city-of-the-clouds.json) |
 | To the Core | 307614 | [307614-to-the-core.json](./307614-to-the-core.json) |
+| To the Cosmos | 144227 | [144227-to-the-cosmos.json](./144227-to-the-cosmos.json) |
 | To the Crown | 182530 | [182530-to-the-crown.json](./182530-to-the-crown.json) |
 | To The Dark Tower | 119006 | [119006-to-the-dark-tower.json](./119006-to-the-dark-tower.json) |
 | To the Dungeon! | 255075 | [255075-to-the-dungeon.json](./255075-to-the-dungeon.json) |
