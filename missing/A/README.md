@@ -1566,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agony | 11890 | [11890-agony.json](./11890-agony.json) |
 | Agony | 201153 | [201153-agony.json](./201153-agony.json) |
 | Agony Increment | 393803 | [393803-agony-increment.json](./393803-agony-increment.json) |
+| Agony of a Dying MMO | 136415 | [136415-agony-of-a-dying-mmo.json](./136415-agony-of-a-dying-mmo.json) |
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
 | Agraelus, Wanna be MaN | 141737 | [141737-agraelus-wanna-be-man.json](./141737-agraelus-wanna-be-man.json) |
