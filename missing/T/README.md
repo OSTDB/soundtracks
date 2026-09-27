@@ -3400,6 +3400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkness | 331150 | [331150-the-darkness.json](./331150-the-darkness.json) |
 | The Darkside Detective Duology | 291586 | [291586-the-darkside-detective-duology.json](./291586-the-darkside-detective-duology.json) |
 | The Darkside Detective: A Fumble in the Dark | 109650 | [109650-the-darkside-detective-a-fumble-in-the-dark.json](./109650-the-darkside-detective-a-fumble-in-the-dark.json) |
+| The Darkside Detective: Series Edition | 164793 | [164793-the-darkside-detective-series-edition.json](./164793-the-darkside-detective-series-edition.json) |
 | The Dating Game | 65534 | [65534-the-dating-game.json](./65534-the-dating-game.json) |
 | The Dawn | 284349 | [284349-the-dawn.json](./284349-the-dawn.json) |
 | The Dawn is Inevitable | 249461 | [249461-the-dawn-is-inevitable.json](./249461-the-dawn-is-inevitable.json) |
