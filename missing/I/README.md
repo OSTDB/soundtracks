@@ -1109,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperator: Rome - Epirus Content Pack | 154498 | [154498-imperator-rome-epirus-content-pack.json](./154498-imperator-rome-epirus-content-pack.json) |
 | Imperator: Rome - Heirs of Alexander Content Pack | 154495 | [154495-imperator-rome-heirs-of-alexander-content-pack.json](./154495-imperator-rome-heirs-of-alexander-content-pack.json) |
 | Imperator: Rome - Magna Graecia Content Pack | 154497 | [154497-imperator-rome-magna-graecia-content-pack.json](./154497-imperator-rome-magna-graecia-content-pack.json) |
+| Imperator: Rome - Premium Edition | 139915 | [139915-imperator-rome-premium-edition.json](./139915-imperator-rome-premium-edition.json) |
 | Imperator: Rome - The Punic Wars Content Pack | 154496 | [154496-imperator-rome-the-punic-wars-content-pack.json](./154496-imperator-rome-the-punic-wars-content-pack.json) |
 | Imperfect Garden | 358297 | [358297-imperfect-garden.json](./358297-imperfect-garden.json) |
 | Imperi | 75791 | [75791-imperi.json](./75791-imperi.json) |
