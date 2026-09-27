@@ -867,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Life Link! | 138174 | [138174-fantasy-life-link.json](./138174-fantasy-life-link.json) |
 | Fantasy Life Online | 26609 | [26609-fantasy-life-online.json](./26609-fantasy-life-online.json) |
 | Fantasy Life: Origin Island | 225737 | [225737-fantasy-life-origin-island.json](./225737-fantasy-life-origin-island.json) |
+| Fantasy Little Jobs | 135141 | [135141-fantasy-little-jobs.json](./135141-fantasy-little-jobs.json) |
 | Fantasy Mahjong Connect | 154357 | [154357-fantasy-mahjong-connect.json](./154357-fantasy-mahjong-connect.json) |
 | Fantasy Maiden Wars: Scarlet | 138718 | [138718-fantasy-maiden-wars-scarlet.json](./138718-fantasy-maiden-wars-scarlet.json) |
 | Fantasy Maiden's Odd Hideout | 124640 | [124640-fantasy-maidens-odd-hideout.json](./124640-fantasy-maidens-odd-hideout.json) |
@@ -1724,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fibble | 228714 | [228714-fibble.json](./228714-fibble.json) |
 | Fibble: Flick 'n' Roll | 65220 | [65220-fibble-flick-n-roll.json](./65220-fibble-flick-n-roll.json) |
 | Fibbler.io | 282568 | [282568-fibbler-io.json](./282568-fibbler-io.json) |
+| Fiber Twig | 135101 | [135101-fiber-twig.json](./135101-fiber-twig.json) |
 | Fiber Twig 2: Restoration of Magic Garden | 58183 | [58183-fiber-twig-2-restoration-of-magic-garden.json](./58183-fiber-twig-2-restoration-of-magic-garden.json) |
 | Fibonacci's Final Sequence | 287209 | [287209-fibonaccis-final-sequence.json](./287209-fibonaccis-final-sequence.json) |
 | Fibras | 378446 | [378446-fibras.json](./378446-fibras.json) |
