@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ICY: Frostbite Edition | 52095 | [52095-icy-frostbite-edition.json](./52095-icy-frostbite-edition.json) |
 | iD | 172035 | [172035-id.json](./172035-id.json) |
 | id Action Pack Vol. 3 | 222855 | [222855-id-action-pack-vol-3.json](./222855-id-action-pack-vol-3.json) |
+| ID-Ego | 125359 | [125359-id-ego.json](./125359-id-ego.json) |
 | ID4 Mission Disk 2: Alien Science Officer | 78005 | [78005-id4-mission-disk-2-alien-science-officer.json](./78005-id4-mission-disk-2-alien-science-officer.json) |
 | iDate Reborn | 384190 | [384190-idate-reborn.json](./384190-idate-reborn.json) |
 | Idea | 204951 | [204951-idea.json](./204951-idea.json) |
@@ -1272,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Grass | 212289 | [212289-in-the-grass.json](./212289-in-the-grass.json) |
 | In the Grave Wood | 183599 | [183599-in-the-grave-wood.json](./183599-in-the-grave-wood.json) |
 | In the Intrigue of the Ratings | 145694 | [145694-in-the-intrigue-of-the-ratings.json](./145694-in-the-intrigue-of-the-ratings.json) |
+| In the Line of Duty - Firefighter | 125314 | [125314-in-the-line-of-duty-firefighter.json](./125314-in-the-line-of-duty-firefighter.json) |
 | In the Line of Fire | 89244 | [89244-in-the-line-of-fire.json](./89244-in-the-line-of-fire.json) |
 | In the Line of My Heart | 189973 | [189973-in-the-line-of-my-heart.json](./189973-in-the-line-of-my-heart.json) |
 | In the Long Run: The Game | 104525 | [104525-in-the-long-run-the-game.json](./104525-in-the-long-run-the-game.json) |
@@ -1526,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infected: Outpost | 276267 | [276267-infected-outpost.json](./276267-infected-outpost.json) |
 | Infected: Super Soldier Project | 270088 | [270088-infected-super-soldier-project.json](./270088-infected-super-soldier-project.json) |
 | Infected: The Twin Vaccine | 62424 | [62424-infected-the-twin-vaccine.json](./62424-infected-the-twin-vaccine.json) |
+| Infected: The Twin Vaccine - Collector's Edition | 125309 | [125309-infected-the-twin-vaccine-collectors-edition.json](./125309-infected-the-twin-vaccine-collectors-edition.json) |
 | Infection | 129082 | [129082-infection.json](./129082-infection.json) |
 | Infection | 142474 | [142474-infection.json](./142474-infection.json) |
 | Infection Bio War | 343978 | [343978-infection-bio-war.json](./343978-infection-bio-war.json) |
@@ -2337,6 +2340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion | 95388 | [95388-invasion.json](./95388-invasion.json) |
 | Invasion - The Abductors | 39624 | [39624-invasion-the-abductors.json](./39624-invasion-the-abductors.json) |
 | Invasion 360 | 333665 | [333665-invasion-360.json](./333665-invasion-360.json) |
+| Invasion Deutschland | 125313 | [125313-invasion-deutschland.json](./125313-invasion-deutschland.json) |
 | Invasion Eternity | 258218 | [258218-invasion-eternity.json](./258218-invasion-eternity.json) |
 | Invasion Force | 85518 | [85518-invasion-force.json](./85518-invasion-force.json) |
 | Invasion Machine | 110597 | [110597-invasion-machine.json](./110597-invasion-machine.json) |
