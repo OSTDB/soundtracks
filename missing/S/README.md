@@ -2597,6 +2597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Nexus | 381639 | [381639-seven-nexus.json](./381639-seven-nexus.json) |
 | Seven Nights With Hanako | 414574 | [414574-seven-nights-with-hanako.json](./414574-seven-nights-with-hanako.json) |
 | Seven of Heart | 176989 | [176989-seven-of-heart.json](./176989-seven-of-heart.json) |
+| Seven Photos | 122945 | [122945-seven-photos.json](./122945-seven-photos.json) |
 | Seven Pirates H | 192281 | [192281-seven-pirates-h.json](./192281-seven-pirates-h.json) |
 | Seven Sins: Academic Version | 112933 | [112933-seven-sins-academic-version.json](./112933-seven-sins-academic-version.json) |
 | Seven Skies to Paradise | 219601 | [219601-seven-skies-to-paradise.json](./219601-seven-skies-to-paradise.json) |
@@ -3099,6 +3100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shall we date? Sengoku Darling: Choose your Destination | 219134 | [219134-shall-we-date-sengoku-darling-choose-your-destination.json](./219134-shall-we-date-sengoku-darling-choose-your-destination.json) |
 | Shall we date?: Angel or Devil | 225315 | [225315-shall-we-date-angel-or-devil.json](./225315-shall-we-date-angel-or-devil.json) |
 | Shall we date?: Arabian Dreams Wildest Tales in Starry Nights | 225664 | [225664-shall-we-date-arabian-dreams-wildest-tales-in-starry-nights.json](./225664-shall-we-date-arabian-dreams-wildest-tales-in-starry-nights.json) |
+| Shall We Date?: Destiny Ninja 2 | 122928 | [122928-shall-we-date-destiny-ninja-2.json](./122928-shall-we-date-destiny-ninja-2.json) |
 | Shall we date?: Guard Me, Sherlock! | 225667 | [225667-shall-we-date-guard-me-sherlock.json](./225667-shall-we-date-guard-me-sherlock.json) |
 | Shall we date?: Love, Mafia Dawn of the Don | 225673 | [225673-shall-we-date-love-mafia-dawn-of-the-don.json](./225673-shall-we-date-love-mafia-dawn-of-the-don.json) |
 | Shall we date?: Love, Mafia My Signore | 225674 | [225674-shall-we-date-love-mafia-my-signore.json](./225674-shall-we-date-love-mafia-my-signore.json) |
@@ -4926,6 +4928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinsations | 182269 | [182269-sinsations.json](./182269-sinsations.json) |
 | Sinsations 2: Modern Gods | 332432 | [332432-sinsations-2-modern-gods.json](./332432-sinsations-2-modern-gods.json) |
 | SinsFromGod | 139422 | [139422-sinsfromgod.json](./139422-sinsfromgod.json) |
+| Sint Nicolaas | 122964 | [122964-sint-nicolaas.json](./122964-sint-nicolaas.json) |
 | Sintesoft 2.0 | 343319 | [343319-sintesoft-2-0.json](./343319-sintesoft-2-0.json) |
 | Sinthetic | 192805 | [192805-sinthetic.json](./192805-sinthetic.json) |
 | Sintropia | 337161 | [337161-sintropia.json](./337161-sintropia.json) |
@@ -5379,6 +5382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyblocker | 340388 | [340388-skyblocker.json](./340388-skyblocker.json) |
 | SkyBoats | 31832 | [31832-skyboats.json](./31832-skyboats.json) |
 | Skybolt Zack | 109028 | [109028-skybolt-zack.json](./109028-skybolt-zack.json) |
+| Skyborg: Into the Vortex | 122940 | [122940-skyborg-into-the-vortex.json](./122940-skyborg-into-the-vortex.json) |
 | Skybound Colonies | 394529 | [394529-skybound-colonies.json](./394529-skybound-colonies.json) |
 | Skybox | 236858 | [236858-skybox.json](./236858-skybox.json) |
 | Skybride | 134634 | [134634-skybride.json](./134634-skybride.json) |
@@ -10167,6 +10171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Drives | 187464 | [187464-star-drives.json](./187464-star-drives.json) |
 | Star Dust: A Journey Through Space | 161349 | [161349-star-dust-a-journey-through-space.json](./161349-star-dust-a-journey-through-space.json) |
 | Star Dust: The Book of Earth (VR) | 29931 | [29931-star-dust-the-book-of-earth-vr.json](./29931-star-dust-the-book-of-earth-vr.json) |
+| Star Dynasties | 122934 | [122934-star-dynasties.json](./122934-star-dynasties.json) |
 | Star Equestrian | 242225 | [242225-star-equestrian.json](./242225-star-equestrian.json) |
 | Star Escape | 135052 | [135052-star-escape.json](./135052-star-escape.json) |
 | Star Evil | 243936 | [243936-star-evil.json](./243936-star-evil.json) |
@@ -10604,6 +10609,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfighter: Eclipse | 142958 | [142958-starfighter-eclipse.json](./142958-starfighter-eclipse.json) |
 | Starflight 1+2 | 154450 | [154450-starflight-1-2.json](./154450-starflight-1-2.json) |
 | Starflower Inc. | 348788 | [348788-starflower-inc.json](./348788-starflower-inc.json) |
+| StarFlyers: Alien Space Chase | 122951 | [122951-starflyers-alien-space-chase.json](./122951-starflyers-alien-space-chase.json) |
+| StarFlyers: Royal Jewel Rescue | 122950 | [122950-starflyers-royal-jewel-rescue.json](./122950-starflyers-royal-jewel-rescue.json) |
 | StarForce: 2193 | 34475 | [34475-starforce-2193.json](./34475-starforce-2193.json) |
 | Starforge | 172038 | [172038-starforge.json](./172038-starforge.json) |
 | Starforge | 295305 | [295305-starforge.json](./295305-starforge.json) |
@@ -13891,6 +13898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Real AI | 399844 | [399844-super-real-ai.json](./399844-super-real-ai.json) |
 | Super Real Fishing | 282663 | [282663-super-real-fishing.json](./282663-super-real-fishing.json) |
 | Super Real Hanafuda: Koi Koi Shimasho | 130299 | [130299-super-real-hanafuda-koi-koi-shimasho.json](./130299-super-real-hanafuda-koi-koi-shimasho.json) |
+| Super Real Mahjong Graffiti | 122965 | [122965-super-real-mahjong-graffiti.json](./122965-super-real-mahjong-graffiti.json) |
 | Super Real Mahjong Love 2~7! | 127798 | [127798-super-real-mahjong-love-2-7.json](./127798-super-real-mahjong-love-2-7.json) |
 | Super Real Mahjong Love 2~7! Special Edition | 342064 | [342064-super-real-mahjong-love-2-7-special-edition.json](./342064-super-real-mahjong-love-2-7-special-edition.json) |
 | Super Real Mahjong P7 | 342132 | [342132-super-real-mahjong-p7.json](./342132-super-real-mahjong-p7.json) |
