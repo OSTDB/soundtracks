@@ -1277,6 +1277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advisor: Elderly Paradigm | 383081 | [383081-advisor-elderly-paradigm.json](./383081-advisor-elderly-paradigm.json) |
 | Advisors at the End of the Universe | 122184 | [122184-advisors-at-the-end-of-the-universe.json](./122184-advisors-at-the-end-of-the-universe.json) |
 | Aebal | 167174 | [167174-aebal.json](./167174-aebal.json) |
+| Aëdemphia | 125943 | [125943-aedemphia.json](./125943-aedemphia.json) |
 | Aegis of Earth: Protonovus Assault | 20070 | [20070-aegis-of-earth-protonovus-assault.json](./20070-aegis-of-earth-protonovus-assault.json) |
 | Aegis Online | 103881 | [103881-aegis-online.json](./103881-aegis-online.json) |
 | Aegyptus | 55466 | [55466-aegyptus.json](./55466-aegyptus.json) |
@@ -5359,6 +5360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arma 3: Tanks | 168907 | [168907-arma-3-tanks.json](./168907-arma-3-tanks.json) |
 | Arma 3: Zeus | 168908 | [168908-arma-3-zeus.json](./168908-arma-3-zeus.json) |
 | ArmA II: Reinforcements | 77286 | [77286-arma-ii-reinforcements.json](./77286-arma-ii-reinforcements.json) |
+| ArmA Mobile Ops | 125918 | [125918-arma-mobile-ops.json](./125918-arma-mobile-ops.json) |
 | Arma Reforger | 201789 | [201789-arma-reforger.json](./201789-arma-reforger.json) |
 | ARMA: Armed Assault | 15626 | [15626-arma-armed-assault.json](./15626-arma-armed-assault.json) |
 | Armada | 163191 | [163191-armada.json](./163191-armada.json) |
