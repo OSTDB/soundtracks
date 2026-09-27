@@ -4292,6 +4292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golden Mare | 364663 | [364663-the-golden-mare.json](./364663-the-golden-mare.json) |
 | The Golden Pearl | 179142 | [179142-the-golden-pearl.json](./179142-the-golden-pearl.json) |
 | The Golden Tower | 362911 | [362911-the-golden-tower.json](./362911-the-golden-tower.json) |
+| The Golem | 138674 | [138674-the-golem.json](./138674-the-golem.json) |
 | The Golf Club 2019 featuring PGA Tour | 91128 | [91128-the-golf-club-2019-featuring-pga-tour.json](./91128-the-golf-club-2019-featuring-pga-tour.json) |
 | The Golf: Bishoujo Classic | 41309 | [41309-the-golf-bishoujo-classic.json](./41309-the-golf-bishoujo-classic.json) |
 | The Good Chicken | 220673 | [220673-the-good-chicken.json](./220673-the-good-chicken.json) |
@@ -5669,6 +5670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lot | 116317 | [116317-the-lot.json](./116317-the-lot.json) |
 | The Lotus | 187844 | [187844-the-lotus.json](./187844-the-lotus.json) |
 | The Lotus Eater | 184610 | [184610-the-lotus-eater.json](./184610-the-lotus-eater.json) |
+| The Love Boat: Puzzle Cruise | 138678 | [138678-the-love-boat-puzzle-cruise.json](./138678-the-love-boat-puzzle-cruise.json) |
 | The Love Interests get their Own Game | 183049 | [183049-the-love-interests-get-their-own-game.json](./183049-the-love-interests-get-their-own-game.json) |
 | The love letter | 398435 | [398435-the-love-letter.json](./398435-the-love-letter.json) |
 | The Love Letter | 63820 | [63820-the-love-letter.json](./63820-the-love-letter.json) |
@@ -10285,6 +10287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To be on Top | 55023 | [55023-to-be-on-top.json](./55023-to-be-on-top.json) |
 | To Be or Not to Be | 17870 | [17870-to-be-or-not-to-be.json](./17870-to-be-or-not-to-be.json) |
 | To Be Seen is To Be Loved | 397947 | [397947-to-be-seen-is-to-be-loved.json](./397947-to-be-seen-is-to-be-loved.json) |
+| To Be With You | 138677 | [138677-to-be-with-you.json](./138677-to-be-with-you.json) |
 | To Be With You | 152890 | [152890-to-be-with-you.json](./152890-to-be-with-you.json) |
 | To Bring Her Back | 316804 | [316804-to-bring-her-back.json](./316804-to-bring-her-back.json) |
 | To Burn in Memory: Anniversary Edition | 110371 | [110371-to-burn-in-memory-anniversary-edition.json](./110371-to-burn-in-memory-anniversary-edition.json) |
@@ -14182,6 +14185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing Hero | 126428 | [126428-typing-hero.json](./126428-typing-hero.json) |
 | Typing Karaoke | 64362 | [64362-typing-karaoke.json](./64362-typing-karaoke.json) |
 | Typing Ninja | 290943 | [290943-typing-ninja.json](./290943-typing-ninja.json) |
+| Typing of the Date | 138656 | [138656-typing-of-the-date.json](./138656-typing-of-the-date.json) |
 | Typing of Ys | 252843 | [252843-typing-of-ys.json](./252843-typing-of-ys.json) |
 | Typing Stars | 322387 | [322387-typing-stars.json](./322387-typing-stars.json) |
 | Typing Tales | 373004 | [373004-typing-tales.json](./373004-typing-tales.json) |
