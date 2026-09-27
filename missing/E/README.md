@@ -2817,6 +2817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Genius 2: World Domination - Cabal Pack | 226850 | [226850-evil-genius-2-world-domination-cabal-pack.json](./226850-evil-genius-2-world-domination-cabal-pack.json) |
 | Evil Genius 2: World Domination - Deluxe Edition | 188025 | [188025-evil-genius-2-world-domination-deluxe-edition.json](./188025-evil-genius-2-world-domination-deluxe-edition.json) |
 | Evil Genius 2: World Domination - In-Genius Items Pack | 226846 | [226846-evil-genius-2-world-domination-in-genius-items-pack.json](./226846-evil-genius-2-world-domination-in-genius-items-pack.json) |
+| Evil Genius 2: World Domination - Portal Pack | 174131 | [174131-evil-genius-2-world-domination-portal-pack.json](./174131-evil-genius-2-world-domination-portal-pack.json) |
 | Evil Genius 2: World Domination - Rise of the Valkyrie Pack | 226847 | [226847-evil-genius-2-world-domination-rise-of-the-valkyrie-pack.json](./226847-evil-genius-2-world-domination-rise-of-the-valkyrie-pack.json) |
 | Evil Genius 2: World Domination - Team Fortress 2: Pyro Pack | 226848 | [226848-evil-genius-2-world-domination-team-fortress-2-pyro-pack.json](./226848-evil-genius-2-world-domination-team-fortress-2-pyro-pack.json) |
 | Evil Genome | 51565 | [51565-evil-genome.json](./51565-evil-genome.json) |
