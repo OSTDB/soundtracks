@@ -1086,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 78 Hour Rain | 179739 | [179739-78-hour-rain.json](./179739-78-hour-rain.json) |
 | 79 Pompeii | 195238 | [195238-79-pompeii.json](./195238-79-pompeii.json) |
 | 7D Game | 30816 | [30816-7d-game.json](./30816-7d-game.json) |
+| 7D Maze | 164255 | [164255-7d-maze.json](./164255-7d-maze.json) |
 | 7Groves | 295780 | [295780-7groves.json](./295780-7groves.json) |
 | 7Swordsman | 197394 | [197394-7swordsman.json](./197394-7swordsman.json) |
 | 7th Deep | 88084 | [88084-7th-deep.json](./88084-7th-deep.json) |
