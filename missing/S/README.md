@@ -12360,6 +12360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer In Mara: Collector's Edition | 172589 | [172589-summer-in-mara-collectors-edition.json](./172589-summer-in-mara-collectors-edition.json) |
 | Summer In Memoria | 196784 | [196784-summer-in-memoria.json](./196784-summer-in-memoria.json) |
 | Summer In The City | 356733 | [356733-summer-in-the-city.json](./356733-summer-in-the-city.json) |
+| Summer in Trigue | 169769 | [169769-summer-in-trigue.json](./169769-summer-in-trigue.json) |
 | Summer Knights | 122156 | [122156-summer-knights.json](./122156-summer-knights.json) |
 | Summer Lesson: Chisato Shinjo - Shichiyou no Etude | 219030 | [219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json](./219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json) |
 | Summer Meetings | 121692 | [121692-summer-meetings.json](./121692-summer-meetings.json) |
