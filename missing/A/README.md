@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wizard's Odyssey | 68651 | [68651-a-wizards-odyssey.json](./68651-a-wizards-odyssey.json) |
 | A Wonder | 75164 | [75164-a-wonder.json](./75164-a-wonder.json) |
 | A Work of Art | 319801 | [319801-a-work-of-art.json](./319801-a-work-of-art.json) |
+| A Worker's Guide to Espionage | 144245 | [144245-a-workers-guide-to-espionage.json](./144245-a-workers-guide-to-espionage.json) |
 | A Workplace With No People | 146096 | [146096-a-workplace-with-no-people.json](./146096-a-workplace-with-no-people.json) |
 | A World At War Tactics | 379452 | [379452-a-world-at-war-tactics.json](./379452-a-world-at-war-tactics.json) |
 | A World of Ice and Fire | 356195 | [356195-a-world-of-ice-and-fire.json](./356195-a-world-of-ice-and-fire.json) |
@@ -1336,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affairs of the Court: Choice of Romance - Play as the Consort | 224490 | [224490-affairs-of-the-court-choice-of-romance-play-as-the-consort.json](./224490-affairs-of-the-court-choice-of-romance-play-as-the-consort.json) |
 | Affari Tuoi: Il Gioco Interattivo in DVD | 319739 | [319739-affari-tuoi-il-gioco-interattivo-in-dvd.json](./319739-affari-tuoi-il-gioco-interattivo-in-dvd.json) |
 | Affiliated Homies | 357796 | [357796-affiliated-homies.json](./357796-affiliated-homies.json) |
+| Affinity | 144199 | [144199-affinity.json](./144199-affinity.json) |
 | Affinity: Fallen from Paradise | 211262 | [211262-affinity-fallen-from-paradise.json](./211262-affinity-fallen-from-paradise.json) |
 | Affogato | 210654 | [210654-affogato.json](./210654-affogato.json) |
 | AFK Champions | 193866 | [193866-afk-champions.json](./193866-afk-champions.json) |
@@ -1701,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Combat MF | 121009 | [121009-air-combat-mf.json](./121009-air-combat-mf.json) |
 | Air Combat Pilot: WW2 Pacific | 102581 | [102581-air-combat-pilot-ww2-pacific.json](./102581-air-combat-pilot-ww2-pacific.json) |
 | Air Combat Revolution | 61062 | [61062-air-combat-revolution.json](./61062-air-combat-revolution.json) |
+| Air Command 3.0: Airport Expansion Set | 144186 | [144186-air-command-3-0-airport-expansion-set.json](./144186-air-command-3-0-airport-expansion-set.json) |
 | Air Conflicts Collection | 52572 | [52572-air-conflicts-collection.json](./52572-air-conflicts-collection.json) |
 | Air Conflicts: Double Pack | 118198 | [118198-air-conflicts-double-pack.json](./118198-air-conflicts-double-pack.json) |
 | Air Conflicts: Secret Wars | 3830 | [3830-air-conflicts-secret-wars.json](./3830-air-conflicts-secret-wars.json) |
