@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cajun Cop: The French Quarter Caper | 417496 | [417496-cajun-cop-the-french-quarter-caper.json](./417496-cajun-cop-the-french-quarter-caper.json) |
 | Cake Bash | 113826 | [113826-cake-bash.json](./113826-cake-bash.json) |
 | Cake Bites Make & Bake: Cooking Dessert Kids Game | 109012 | [109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json](./109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json) |
+| Cake Invaders | 151611 | [151611-cake-invaders.json](./151611-cake-invaders.json) |
 | Cake Kills Candy | 184988 | [184988-cake-kills-candy.json](./184988-cake-kills-candy.json) |
 | Cake Laboratory | 114184 | [114184-cake-laboratory.json](./114184-cake-laboratory.json) |
 | Cake Maker Deluxe | 103151 | [103151-cake-maker-deluxe.json](./103151-cake-maker-deluxe.json) |
@@ -2084,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Center of Gravity | 29158 | [29158-center-of-gravity.json](./29158-center-of-gravity.json) |
 | Centi-Bug | 94568 | [94568-centi-bug.json](./94568-centi-bug.json) |
 | Centifeed | 111494 | [111494-centifeed.json](./111494-centifeed.json) |
+| Centipede | 151643 | [151643-centipede.json](./151643-centipede.json) |
 | Centipede | 218804 | [218804-centipede.json](./218804-centipede.json) |
 | Centipede | 245541 | [245541-centipede.json](./245541-centipede.json) |
 | Centipede | 282564 | [282564-centipede.json](./282564-centipede.json) |
@@ -4422,6 +4424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocaine McBain | 185007 | [185007-cocaine-mcbain.json](./185007-cocaine-mcbain.json) |
 | Cochonnet | 382750 | [382750-cochonnet.json](./382750-cochonnet.json) |
 | Cock Soccer | 291608 | [291608-cock-soccer.json](./291608-cock-soccer.json) |
+| Cock-A-Doodle-Doo | 151628 | [151628-cock-a-doodle-doo.json](./151628-cock-a-doodle-doo.json) |
 | Cockatrice Attacking the city | 120970 | [120970-cockatrice-attacking-the-city.json](./120970-cockatrice-attacking-the-city.json) |
 | Cocked and Loaded | 278671 | [278671-cocked-and-loaded.json](./278671-cocked-and-loaded.json) |
 | Cockeyed Helicopters | 156581 | [156581-cockeyed-helicopters.json](./156581-cockeyed-helicopters.json) |
@@ -5406,6 +5409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confusion Constructions | 279074 | [279074-confusion-constructions.json](./279074-confusion-constructions.json) |
 | Confusion Readily Achieved Perspectively Through Unrealistic Relative Dimensions | 283740 | [283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json](./283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json) |
 | Congestion 1024 | 196247 | [196247-congestion-1024.json](./196247-congestion-1024.json) |
+| Conglomerate 451: Overloaded | 151596 | [151596-conglomerate-451-overloaded.json](./151596-conglomerate-451-overloaded.json) |
 | Congo Bongo | 282063 | [282063-congo-bongo.json](./282063-congo-bongo.json) |
 | Congo Bongo | 5669 | [5669-congo-bongo.json](./5669-congo-bongo.json) |
 | Congo Merc | 31821 | [31821-congo-merc.json](./31821-congo-merc.json) |
@@ -5513,6 +5517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Consonance | 374596 | [374596-consonance.json](./374596-consonance.json) |
 | Conspiracy Crew | 312152 | [312152-conspiracy-crew.json](./312152-conspiracy-crew.json) |
 | Conspiracy Girls | 158534 | [158534-conspiracy-girls.json](./158534-conspiracy-girls.json) |
+| Conspiracy! | 151638 | [151638-conspiracy.json](./151638-conspiracy.json) |
 | Constance | 258950 | [258950-constance.json](./258950-constance.json) |
 | ConsTance | 323524 | [323524-constance.json](./323524-constance.json) |
 | Constancia | 177326 | [177326-constancia.json](./177326-constancia.json) |
@@ -7818,6 +7823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubiya | 164881 | [164881-cubiya.json](./164881-cubiya.json) |
 | Cubob | 229006 | [229006-cubob.json](./229006-cubob.json) |
 | Cuboid | 23024 | [23024-cuboid.json](./23024-cuboid.json) |
+| Cuboid Bouncer | 151618 | [151618-cuboid-bouncer.json](./151618-cuboid-bouncer.json) |
 | Cuboid Stack | 249731 | [249731-cuboid-stack.json](./249731-cuboid-stack.json) |
 | Cubosphere | 238065 | [238065-cubosphere.json](./238065-cubosphere.json) |
 | Cubot | 36000 | [36000-cubot.json](./36000-cubot.json) |
