@@ -2827,6 +2827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Girls: Angels With Dirty Intentions | 399638 | [399638-good-girls-angels-with-dirty-intentions.json](./399638-good-girls-angels-with-dirty-intentions.json) |
 | Good God! | 400882 | [400882-good-god.json](./400882-good-god.json) |
 | Good Goliath | 132187 | [132187-good-goliath.json](./132187-good-goliath.json) |
+| Good Guy Card | 158535 | [158535-good-guy-card.json](./158535-good-guy-card.json) |
 | Good Heavens! | 204463 | [204463-good-heavens.json](./204463-good-heavens.json) |
 | Good Hell | 215356 | [215356-good-hell.json](./215356-good-hell.json) |
 | Good Idea! | 301962 | [301962-good-idea.json](./301962-good-idea.json) |
