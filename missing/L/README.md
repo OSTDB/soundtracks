@@ -3868,6 +3868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Hero | 253900 | [253900-lucky-hero.json](./253900-lucky-hero.json) |
 | Lucky Heroes | 217370 | [217370-lucky-heroes.json](./217370-lucky-heroes.json) |
 | Lucky Island | 224742 | [224742-lucky-island.json](./224742-lucky-island.json) |
+| Lucky Joe | 160168 | [160168-lucky-joe.json](./160168-lucky-joe.json) |
 | Lucky Lawn Mower | 359413 | [359413-lucky-lawn-mower.json](./359413-lucky-lawn-mower.json) |
 | Lucky Luke | 198806 | [198806-lucky-luke.json](./198806-lucky-luke.json) |
 | Lucky Luke Shoot & Hit | 197849 | [197849-lucky-luke-shoot-and-hit.json](./197849-lucky-luke-shoot-and-hit.json) |
