@@ -1745,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Survive | 75787 | [75787-hell-survive.json](./75787-hell-survive.json) |
 | Hell Survivors | 302694 | [302694-hell-survivors.json](./302694-hell-survivors.json) |
 | Hell Takes All | 278137 | [278137-hell-takes-all.json](./278137-hell-takes-all.json) |
+| Hell to Raze | 132702 | [132702-hell-to-raze.json](./132702-hell-to-raze.json) |
 | Hell Trigger | 253440 | [253440-hell-trigger.json](./253440-hell-trigger.json) |
 | Hell University | 264140 | [264140-hell-university.json](./264140-hell-university.json) |
 | Hell Warriors | 127380 | [127380-hell-warriors.json](./127380-hell-warriors.json) |
@@ -2424,6 +2425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Staff | 113655 | [113655-hero-staff.json](./113655-hero-staff.json) |
 | Hero Stickman | 346653 | [346653-hero-stickman.json](./346653-hero-stickman.json) |
 | Hero Tactics | 181921 | [181921-hero-tactics.json](./181921-hero-tactics.json) |
+| Hero Tower | 132746 | [132746-hero-tower.json](./132746-hero-tower.json) |
 | Hero Well | 249200 | [249200-hero-well.json](./249200-hero-well.json) |
 | Hero Wheels | 213343 | [213343-hero-wheels.json](./213343-hero-wheels.json) |
 | Hero World | 322376 | [322376-hero-world.json](./322376-hero-world.json) |
