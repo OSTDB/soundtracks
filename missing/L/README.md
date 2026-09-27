@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land It | 387514 | [387514-land-it.json](./387514-land-it.json) |
 | Land of Borealia | 259090 | [259090-land-of-borealia.json](./259090-land-of-borealia.json) |
 | Land of Chaos Online | 65442 | [65442-land-of-chaos-online.json](./65442-land-of-chaos-online.json) |
+| Land of Chaos Online II: Revolution | 119634 | [119634-land-of-chaos-online-ii-revolution.json](./119634-land-of-chaos-online-ii-revolution.json) |
 | Land of Chark | 141243 | [141243-land-of-chark.json](./141243-land-of-chark.json) |
 | Land Of Chasers | 278409 | [278409-land-of-chasers.json](./278409-land-of-chasers.json) |
 | Land of Futures | 294144 | [294144-land-of-futures.json](./294144-land-of-futures.json) |
@@ -3663,6 +3664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Connection! | 242789 | [242789-love-connection.json](./242789-love-connection.json) |
 | Love Cooking at Home? Turn your Hobby into a Business! | 156122 | [156122-love-cooking-at-home-turn-your-hobby-into-a-business.json](./156122-love-cooking-at-home-turn-your-hobby-into-a-business.json) |
 | Love D3ath Love | 412296 | [412296-love-d3ath-love.json](./412296-love-d3ath-love.json) |
+| Love Date | 119669 | [119669-love-date.json](./119669-love-date.json) |
 | Love Death | 259259 | [259259-love-death.json](./259259-love-death.json) |
 | Love Delivery | 185632 | [185632-love-delivery.json](./185632-love-delivery.json) |
 | Love Delivery2 | 274014 | [274014-love-delivery2.json](./274014-love-delivery2.json) |
