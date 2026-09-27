@@ -802,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yummyland Solitaire 3 | 403837 | [403837-yummyland-solitaire-3.json](./403837-yummyland-solitaire-3.json) |
 | Yumper | 146306 | [146306-yumper.json](./146306-yumper.json) |
 | Yumpr | 287675 | [287675-yumpr.json](./287675-yumpr.json) |
+| Yuna and other troubles | 129072 | [129072-yuna-and-other-troubles.json](./129072-yuna-and-other-troubles.json) |
 | Yuna: Sugar hearts and Love | 110967 | [110967-yuna-sugar-hearts-and-love.json](./110967-yuna-sugar-hearts-and-love.json) |
 | Yuna: Sugar Hearts and Love - New Love | 169963 | [169963-yuna-sugar-hearts-and-love-new-love.json](./169963-yuna-sugar-hearts-and-love-new-love.json) |
 | Yunak | 330541 | [330541-yunak.json](./330541-yunak.json) |
