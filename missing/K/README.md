@@ -1258,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Kong City Destroyer | 291478 | [291478-king-kong-city-destroyer.json](./291478-king-kong-city-destroyer.json) |
 | King Lucas | 26371 | [26371-king-lucas.json](./26371-king-lucas.json) |
 | King of Bali | 50547 | [50547-king-of-bali.json](./50547-king-of-bali.json) |
+| King of Bees in Fantasy Land | 139310 | [139310-king-of-bees-in-fantasy-land.json](./139310-king-of-bees-in-fantasy-land.json) |
 | King of BMX | 91979 | [91979-king-of-bmx.json](./91979-king-of-bmx.json) |
 | King of Booze: Drinking Game | 31590 | [31590-king-of-booze-drinking-game.json](./31590-king-of-booze-drinking-game.json) |
 | King of Bowling | 166543 | [166543-king-of-bowling.json](./166543-king-of-bowling.json) |
@@ -1735,6 +1736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Rhythm TD | 306996 | [306996-kitty-rhythm-td.json](./306996-kitty-rhythm-td.json) |
 | Kitty Spangles Solitaire | 90369 | [90369-kitty-spangles-solitaire.json](./90369-kitty-spangles-solitaire.json) |
 | Kitty Tactics | 149510 | [149510-kitty-tactics.json](./149510-kitty-tactics.json) |
+| Kitty: Isolation | 139320 | [139320-kitty-isolation.json](./139320-kitty-isolation.json) |
 | Kitty's Adventure for XBox One | 358365 | [358365-kittys-adventure-for-xbox-one.json](./358365-kittys-adventure-for-xbox-one.json) |
 | Kitty's Last Adventure | 295372 | [295372-kittys-last-adventure.json](./295372-kittys-last-adventure.json) |
 | Kity Builder | 204525 | [204525-kity-builder.json](./204525-kity-builder.json) |
@@ -2006,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knowledge Party | 275353 | [275353-knowledge-party.json](./275353-knowledge-party.json) |
 | Knowledge, or Know Lady | 290941 | [290941-knowledge-or-know-lady.json](./290941-knowledge-or-know-lady.json) |
 | Known Mysteries | 330826 | [330826-known-mysteries.json](./330826-known-mysteries.json) |
+| Known Unknowns | 139309 | [139309-known-unknowns.json](./139309-known-unknowns.json) |
 | Knuckers Test Fight | 172182 | [172182-knuckers-test-fight.json](./172182-knuckers-test-fight.json) |
 | Knuckle Heads | 39588 | [39588-knuckle-heads.json](./39588-knuckle-heads.json) |
 | Knuckle Jet | 336521 | [336521-knuckle-jet.json](./336521-knuckle-jet.json) |
