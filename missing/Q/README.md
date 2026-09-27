@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quietus Euphony | 374046 | [374046-quietus-euphony.json](./374046-quietus-euphony.json) |
 | Quiiiz | 304204 | [304204-quiiiz.json](./304204-quiiiz.json) |
 | Quill > Pistol | 366240 | [366240-quill-pistol.json](./366240-quill-pistol.json) |
+| Quin | 152813 | [152813-quin.json](./152813-quin.json) |
 | Quing's Quest VII: The Death of Videogames | 128593 | [128593-quings-quest-vii-the-death-of-videogames.json](./128593-quings-quest-vii-the-death-of-videogames.json) |
 | Quinn's Aquarium | 354994 | [354994-quinns-aquarium.json](./354994-quinns-aquarium.json) |
 | Quintaesencia | 156989 | [156989-quintaesencia.json](./156989-quintaesencia.json) |
