@@ -4039,6 +4039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden place | 173180 | [173180-forbidden-place.json](./173180-forbidden-place.json) |
 | Forbidden Planet | 81414 | [81414-forbidden-planet.json](./81414-forbidden-planet.json) |
 | Forbidden Proton | 174289 | [174289-forbidden-proton.json](./174289-forbidden-proton.json) |
+| Forbidden Punch | 121542 | [121542-forbidden-punch.json](./121542-forbidden-punch.json) |
 | Forbidden Quake OST Liner Notes | 262422 | [262422-forbidden-quake-ost-liner-notes.json](./262422-forbidden-quake-ost-liner-notes.json) |
 | Forbidden Secrets: Alien Town - Collector's Edition | 53035 | [53035-forbidden-secrets-alien-town-collectors-edition.json](./53035-forbidden-secrets-alien-town-collectors-edition.json) |
 | Forbidden Siren 2 | 14411 | [14411-forbidden-siren-2.json](./14411-forbidden-siren-2.json) |
@@ -4587,6 +4588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fourthy | 129199 | [129199-fourthy.json](./129199-fourthy.json) |
 | Fourville | 281503 | [281503-fourville.json](./281503-fourville.json) |
 | Fovos VR | 29907 | [29907-fovos-vr.json](./29907-fovos-vr.json) |
+| Fowl Magic | 121543 | [121543-fowl-magic.json](./121543-fowl-magic.json) |
 | Fowl Scourge | 201238 | [201238-fowl-scourge.json](./201238-fowl-scourge.json) |
 | Fowl Swarm | 295837 | [295837-fowl-swarm.json](./295837-fowl-swarm.json) |
 | Fox & Goat | 40740 | [40740-fox-and-goat.json](./40740-fox-and-goat.json) |
