@@ -2744,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigeon Hater | 336116 | [336116-pigeon-hater.json](./336116-pigeon-hater.json) |
 | Pigeon Hunter | 369121 | [369121-pigeon-hunter.json](./369121-pigeon-hunter.json) |
 | Pigeon Protocol | 245880 | [245880-pigeon-protocol.json](./245880-pigeon-protocol.json) |
+| Pigeon Simulator | 120304 | [120304-pigeon-simulator.json](./120304-pigeon-simulator.json) |
 | Pigeon Simulator Survival | 296459 | [296459-pigeon-simulator-survival.json](./296459-pigeon-simulator-survival.json) |
 | Pigeon West: Call of Gun. Isekai | 340394 | [340394-pigeon-west-call-of-gun-isekai.json](./340394-pigeon-west-call-of-gun-isekai.json) |
 | Pigeon West: El Diablo | 340393 | [340393-pigeon-west-el-diablo.json](./340393-pigeon-west-el-diablo.json) |
