@@ -3457,6 +3457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Block 2 | 326189 | [326189-gravity-block-2.json](./326189-gravity-block-2.json) |
 | Gravity Bone | 7962 | [7962-gravity-bone.json](./7962-gravity-bone.json) |
 | Gravity Box | 207853 | [207853-gravity-box.json](./207853-gravity-box.json) |
+| Gravity Brawl | 159056 | [159056-gravity-brawl.json](./159056-gravity-brawl.json) |
 | Gravity Cab | 270132 | [270132-gravity-cab.json](./270132-gravity-cab.json) |
 | Gravity Cat | 143705 | [143705-gravity-cat.json](./143705-gravity-cat.json) |
 | Gravity Crash Portable | 257323 | [257323-gravity-crash-portable.json](./257323-gravity-crash-portable.json) |
