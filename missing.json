@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T00:48:17.556Z",
-  "total_missing": 128176,
+  "generated_at": "2026-09-27T01:03:17.676Z",
+  "total_missing": 128226,
   "games": [
     {
       "igdb_id": 186066,
@@ -8468,6 +8468,11 @@
       "file": "missing/A/52560-a-train-9-v3-0-railway-simulator.json"
     },
     {
+      "igdb_id": 171908,
+      "game_name": "A-Train 9 V4.0: Japan Rail Simulator - Mega Japan Train Pack",
+      "file": "missing/A/171908-a-train-9-v4-0-japan-rail-simulator-mega-japan-train-pack.json"
+    },
+    {
       "igdb_id": 10003,
       "game_name": "A-Train 9 Version 2.0: Professional Edition",
       "file": "missing/A/10003-a-train-9-version-2-0-professional-edition.json"
@@ -12981,6 +12986,11 @@
       "igdb_id": 16402,
       "game_name": "Age of Conan: Unchained",
       "file": "missing/A/16402-age-of-conan-unchained.json"
+    },
+    {
+      "igdb_id": 171936,
+      "game_name": "Age of Conan: Unchained - Hyborian Conqueror Collection",
+      "file": "missing/A/171936-age-of-conan-unchained-hyborian-conqueror-collection.json"
     },
     {
       "igdb_id": 36268,
@@ -40933,6 +40943,11 @@
       "file": "missing/B/223421-b-17-flying-fortress-the-bloody-100th.json"
     },
     {
+      "igdb_id": 171924,
+      "game_name": "B-17 Squadron",
+      "file": "missing/B/171924-b-17-squadron.json"
+    },
+    {
       "igdb_id": 20565,
       "game_name": "B-Boy",
       "file": "missing/B/20565-b-boy.json"
@@ -50576,6 +50591,11 @@
       "igdb_id": 80245,
       "game_name": "Be a King",
       "file": "missing/B/80245-be-a-king.json"
+    },
+    {
+      "igdb_id": 171960,
+      "game_name": "Be a Maid in the Demon World: The Secret Cafe of the Demon Angel Hero",
+      "file": "missing/B/171960-be-a-maid-in-the-demon-world-the-secret-cafe-of-the-demon-angel-hero.json"
     },
     {
       "igdb_id": 143746,
@@ -92338,6 +92358,11 @@
       "file": "missing/C/125715-chinatown-detective-agency.json"
     },
     {
+      "igdb_id": 171940,
+      "game_name": "Chinbu's Adventure: Ice World",
+      "file": "missing/C/171940-chinbus-adventure-ice-world.json"
+    },
+    {
       "igdb_id": 274576,
       "game_name": "Chinese Ancient Poetry Matching Game",
       "file": "missing/C/274576-chinese-ancient-poetry-matching-game.json"
@@ -128133,6 +128158,11 @@
       "file": "missing/D/90270-death-crown.json"
     },
     {
+      "igdb_id": 171920,
+      "game_name": "Death Crown: Era of Human",
+      "file": "missing/D/171920-death-crown-era-of-human.json"
+    },
+    {
       "igdb_id": 199096,
       "game_name": "Death Cube",
       "file": "missing/D/199096-death-cube.json"
@@ -144493,6 +144523,31 @@
       "file": "missing/D/1089-donkey-kong.json"
     },
     {
+      "igdb_id": 171952,
+      "game_name": "Donkey Kong",
+      "file": "missing/D/171952-donkey-kong.json"
+    },
+    {
+      "igdb_id": 171953,
+      "game_name": "Donkey Kong",
+      "file": "missing/D/171953-donkey-kong.json"
+    },
+    {
+      "igdb_id": 171954,
+      "game_name": "Donkey Kong",
+      "file": "missing/D/171954-donkey-kong.json"
+    },
+    {
+      "igdb_id": 171956,
+      "game_name": "Donkey Kong",
+      "file": "missing/D/171956-donkey-kong.json"
+    },
+    {
+      "igdb_id": 171961,
+      "game_name": "Donkey Kong",
+      "file": "missing/D/171961-donkey-kong.json"
+    },
+    {
       "igdb_id": 172013,
       "game_name": "Donkey Kong",
       "file": "missing/D/172013-donkey-kong.json"
@@ -145261,6 +145316,11 @@
       "igdb_id": 133012,
       "game_name": "Doom & Destiny Worlds",
       "file": "missing/D/133012-doom-and-destiny-worlds.json"
+    },
+    {
+      "igdb_id": 171949,
+      "game_name": "Doom & Destiny Worlds: Survival of the Nerdiest",
+      "file": "missing/D/171949-doom-and-destiny-worlds-survival-of-the-nerdiest.json"
     },
     {
       "igdb_id": 313126,
@@ -148876,6 +148936,16 @@
       "igdb_id": 149002,
       "game_name": "Dragon Extinction VR",
       "file": "missing/D/149002-dragon-extinction-vr.json"
+    },
+    {
+      "igdb_id": 171939,
+      "game_name": "Dragon Fang Z: The Rose & Dungeon of Time - Extra Dungeon: The Cave of Fangs",
+      "file": "missing/D/171939-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-the-cave-of-fangs.json"
+    },
+    {
+      "igdb_id": 171938,
+      "game_name": "Dragon Fang Z: The Rose & Dungeon of Time - Extra Dungeon: The Inferno Hollow",
+      "file": "missing/D/171938-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-the-inferno-hollow.json"
     },
     {
       "igdb_id": 22332,
@@ -161338,6 +161408,16 @@
       "file": "missing/E/43080-eight-minute-empire.json"
     },
     {
+      "igdb_id": 171947,
+      "game_name": "Eight-Minute Empire: Archipelago of Azra Map",
+      "file": "missing/E/171947-eight-minute-empire-archipelago-of-azra-map.json"
+    },
+    {
+      "igdb_id": 171946,
+      "game_name": "Eight-Minute Empire: Mountains",
+      "file": "missing/E/171946-eight-minute-empire-mountains.json"
+    },
+    {
       "igdb_id": 295244,
       "game_name": "Eighteen",
       "file": "missing/E/295244-eighteen.json"
@@ -162881,6 +162961,11 @@
       "igdb_id": 354648,
       "game_name": "Eliminator",
       "file": "missing/E/354648-eliminator.json"
+    },
+    {
+      "igdb_id": 171922,
+      "game_name": "Elios VR",
+      "file": "missing/E/171922-elios-vr.json"
     },
     {
       "igdb_id": 32277,
@@ -185903,6 +185988,11 @@
       "file": "missing/F/305349-find-your-if.json"
     },
     {
+      "igdb_id": 171925,
+      "game_name": "Find Your Way: Episode 1",
+      "file": "missing/F/171925-find-your-way-episode-1.json"
+    },
+    {
       "igdb_id": 229011,
       "game_name": "Find-a-frog",
       "file": "missing/F/229011-find-a-frog.json"
@@ -205071,6 +205161,11 @@
       "igdb_id": 21297,
       "game_name": "Galagan's Island: Reprymian Rising",
       "file": "missing/G/21297-galagans-island-reprymian-rising.json"
+    },
+    {
+      "igdb_id": 171934,
+      "game_name": "Galagan's Island: Reprymian Rising - Metagalactic Monstrosities",
+      "file": "missing/G/171934-galagans-island-reprymian-rising-metagalactic-monstrosities.json"
     },
     {
       "igdb_id": 197342,
@@ -226003,6 +226098,11 @@
       "file": "missing/G/17010-gunscape.json"
     },
     {
+      "igdb_id": 171921,
+      "game_name": "Gunscape: Seismic",
+      "file": "missing/G/171921-gunscape-seismic.json"
+    },
+    {
       "igdb_id": 133964,
       "game_name": "Gunship",
       "file": "missing/G/133964-gunship.json"
@@ -240348,6 +240448,11 @@
       "file": "missing/H/185084-hibernia.json"
     },
     {
+      "igdb_id": 171933,
+      "game_name": "Hibiscus Red: Part 2",
+      "file": "missing/H/171933-hibiscus-red-part-2.json"
+    },
+    {
       "igdb_id": 158210,
       "game_name": "Hibow",
       "file": "missing/H/158210-hibow.json"
@@ -249408,6 +249513,11 @@
       "file": "missing/H/244796-hover-rider.json"
     },
     {
+      "igdb_id": 171944,
+      "game_name": "Hover Ship",
+      "file": "missing/H/171944-hover-ship.json"
+    },
+    {
       "igdb_id": 265151,
       "game_name": "Hover Shooting Defence",
       "file": "missing/H/265151-hover-shooting-defence.json"
@@ -255536,6 +255646,11 @@
       "igdb_id": 36240,
       "game_name": "Icewind Dale: Enhanced Edition",
       "file": "missing/I/36240-icewind-dale-enhanced-edition.json"
+    },
+    {
+      "igdb_id": 171943,
+      "game_name": "Icey: Ucey's Awakening",
+      "file": "missing/I/171943-icey-uceys-awakening.json"
     },
     {
       "igdb_id": 269639,
@@ -266166,6 +266281,11 @@
       "igdb_id": 238039,
       "game_name": "Island Saver: Dinosaur Island",
       "file": "missing/I/238039-island-saver-dinosaur-island.json"
+    },
+    {
+      "igdb_id": 171915,
+      "game_name": "Island Saver: Fantasy Island",
+      "file": "missing/I/171915-island-saver-fantasy-island.json"
     },
     {
       "igdb_id": 31914,
@@ -334713,6 +334833,11 @@
       "file": "missing/M/127099-mineirinho-directors-cut.json"
     },
     {
+      "igdb_id": 171927,
+      "game_name": "Mineirinho Director's Cut: Mineirinho Hoversurf DC",
+      "file": "missing/M/171927-mineirinho-directors-cut-mineirinho-hoversurf-dc.json"
+    },
+    {
       "igdb_id": 48687,
       "game_name": "Minelvaton Saga: Ragon no Fukkatsu",
       "file": "missing/M/48687-minelvaton-saga-ragon-no-fukkatsu.json"
@@ -370843,6 +370968,11 @@
       "file": "missing/O/407419-oblivion-maiden.json"
     },
     {
+      "igdb_id": 171914,
+      "game_name": "Oblivious Garden: Carmina Burana - Oblivious Garden: White Day",
+      "file": "missing/O/171914-oblivious-garden-carmina-burana-oblivious-garden-white-day.json"
+    },
+    {
       "igdb_id": 264674,
       "game_name": "Oblivistar",
       "file": "missing/O/264674-oblivistar.json"
@@ -385206,6 +385336,16 @@
       "igdb_id": 69425,
       "game_name": "Pandemic: The Board Game",
       "file": "missing/P/69425-pandemic-the-board-game.json"
+    },
+    {
+      "igdb_id": 171931,
+      "game_name": "Pandemic: The Board Game - On the Brink: Mutation",
+      "file": "missing/P/171931-pandemic-the-board-game-on-the-brink-mutation.json"
+    },
+    {
+      "igdb_id": 171930,
+      "game_name": "Pandemic: The Board Game - On the Brink: Roles & Events",
+      "file": "missing/P/171930-pandemic-the-board-game-on-the-brink-roles-and-events.json"
     },
     {
       "igdb_id": 257951,
@@ -410643,6 +410783,11 @@
       "file": "missing/P/68617-premier-buggy-racing-tour.json"
     },
     {
+      "igdb_id": 171941,
+      "game_name": "Premier Manager 04/05",
+      "file": "missing/P/171941-premier-manager-04-05.json"
+    },
+    {
       "igdb_id": 95428,
       "game_name": "Premier Manager 2002-03",
       "file": "missing/P/95428-premier-manager-2002-03.json"
@@ -429348,6 +429493,11 @@
       "file": "missing/R/131558-realistic-tower-destruction.json"
     },
     {
+      "igdb_id": 171911,
+      "game_name": "Realities: Death Valley",
+      "file": "missing/R/171911-realities-death-valley.json"
+    },
+    {
       "igdb_id": 226976,
       "game_name": "Reality",
       "file": "missing/R/226976-reality.json"
@@ -432526,6 +432676,11 @@
       "igdb_id": 61884,
       "game_name": "Regions of Ruin",
       "file": "missing/R/61884-regions-of-ruin.json"
+    },
+    {
+      "igdb_id": 171959,
+      "game_name": "Regions of Ruin: Sieges",
+      "file": "missing/R/171959-regions-of-ruin-sieges.json"
     },
     {
       "igdb_id": 119593,
@@ -451833,6 +451988,11 @@
       "file": "missing/S/137622-sakura-knight-2.json"
     },
     {
+      "igdb_id": 171945,
+      "game_name": "Sakura Knight 3",
+      "file": "missing/S/171945-sakura-knight-3.json"
+    },
+    {
       "igdb_id": 77946,
       "game_name": "Sakura Machizaka Stories Vol. 1",
       "file": "missing/S/77946-sakura-machizaka-stories-vol-1.json"
@@ -464328,6 +464488,11 @@
       "file": "missing/S/90309-shadow-treachery-cannot-be-tolerated.json"
     },
     {
+      "igdb_id": 171950,
+      "game_name": "Shadow: Treachery Cannot Be Tolerated - Episode 2: Retaliation",
+      "file": "missing/S/171950-shadow-treachery-cannot-be-tolerated-episode-2-retaliation.json"
+    },
+    {
       "igdb_id": 191871,
       "game_name": "Shadow's Bullet",
       "file": "missing/S/191871-shadows-bullet.json"
@@ -474363,6 +474528,11 @@
       "file": "missing/S/129710-sixth-night.json"
     },
     {
+      "igdb_id": 171910,
+      "game_name": "Sixtieth Kilometer: Eightieth Kilometer",
+      "file": "missing/S/171910-sixtieth-kilometer-eightieth-kilometer.json"
+    },
+    {
       "igdb_id": 258479,
       "game_name": "Sixty Jumps to Ceres",
       "file": "missing/S/258479-sixty-jumps-to-ceres.json"
@@ -477916,6 +478086,11 @@
       "igdb_id": 185619,
       "game_name": "Slime on Hole",
       "file": "missing/S/185619-slime-on-hole.json"
+    },
+    {
+      "igdb_id": 171932,
+      "game_name": "Slime Pandemic TD",
+      "file": "missing/S/171932-slime-pandemic-td.json"
     },
     {
       "igdb_id": 90360,
@@ -483531,6 +483706,11 @@
       "igdb_id": 133421,
       "game_name": "Solar Rogue",
       "file": "missing/S/133421-solar-rogue.json"
+    },
+    {
+      "igdb_id": 171937,
+      "game_name": "Solar Sails",
+      "file": "missing/S/171937-solar-sails.json"
     },
     {
       "igdb_id": 347891,
@@ -504578,6 +504758,11 @@
       "file": "missing/S/143701-stellar-warfare.json"
     },
     {
+      "igdb_id": 171929,
+      "game_name": "Stellar Warrior: Master Levels",
+      "file": "missing/S/171929-stellar-warrior-master-levels.json"
+    },
+    {
       "igdb_id": 14515,
       "game_name": "Stellar-Fire",
       "file": "missing/S/14515-stellar-fire.json"
@@ -510103,6 +510288,11 @@
       "file": "missing/S/91348-subway-simulator-10-new-york-edition.json"
     },
     {
+      "igdb_id": 171903,
+      "game_name": "Subway Simulator: Moscow Train",
+      "file": "missing/S/171903-subway-simulator-moscow-train.json"
+    },
+    {
       "igdb_id": 251589,
       "game_name": "Subway Surfers",
       "file": "missing/S/251589-subway-surfers.json"
@@ -514453,6 +514643,11 @@
       "file": "missing/S/178613-super-hot-pellet-muncher-2000.json"
     },
     {
+      "igdb_id": 171909,
+      "game_name": "Super Huey 1 & 2 Airdrop",
+      "file": "missing/S/171909-super-huey-1-and-2-airdrop.json"
+    },
+    {
       "igdb_id": 272806,
       "game_name": "Super Huggie Bros",
       "file": "missing/S/272806-super-huggie-bros.json"
@@ -516746,6 +516941,16 @@
       "igdb_id": 363916,
       "game_name": "Super Mecha Lifter 4000",
       "file": "missing/S/363916-super-mecha-lifter-4000.json"
+    },
+    {
+      "igdb_id": 171906,
+      "game_name": "Super Mega Baseball 2: El Viejo Stadium",
+      "file": "missing/S/171906-super-mega-baseball-2-el-viejo-stadium.json"
+    },
+    {
+      "igdb_id": 171907,
+      "game_name": "Super Mega Baseball 2: Red Rock Park",
+      "file": "missing/S/171907-super-mega-baseball-2-red-rock-park.json"
     },
     {
       "igdb_id": 266742,
@@ -520201,6 +520406,11 @@
       "igdb_id": 277931,
       "game_name": "Supreme Ruler The Great War Remastered DLC",
       "file": "missing/S/277931-supreme-ruler-the-great-war-remastered-dlc.json"
+    },
+    {
+      "igdb_id": 171958,
+      "game_name": "Supreme Ruler Ultimate: Trump Rising",
+      "file": "missing/S/171958-supreme-ruler-ultimate-trump-rising.json"
     },
     {
       "igdb_id": 9277,
@@ -567408,6 +567618,16 @@
       "file": "missing/T/159132-throne-of-fate.json"
     },
     {
+      "igdb_id": 171905,
+      "game_name": "Throne of Fate: Hell Demon",
+      "file": "missing/T/171905-throne-of-fate-hell-demon.json"
+    },
+    {
+      "igdb_id": 171904,
+      "game_name": "Throne of Fate: Tiger Roar",
+      "file": "missing/T/171904-throne-of-fate-tiger-roar.json"
+    },
+    {
       "igdb_id": 108502,
       "game_name": "Throne of Magic",
       "file": "missing/T/108502-throne-of-magic.json"
@@ -573133,6 +573353,11 @@
       "file": "missing/T/159172-timore.json"
     },
     {
+      "igdb_id": 171942,
+      "game_name": "Timore 5: The Flood",
+      "file": "missing/T/171942-timore-5-the-flood.json"
+    },
+    {
       "igdb_id": 111636,
       "game_name": "Timore 6",
       "file": "missing/T/111636-timore-6.json"
@@ -574731,6 +574956,11 @@
       "igdb_id": 259824,
       "game_name": "To Dust",
       "file": "missing/T/259824-to-dust.json"
+    },
+    {
+      "igdb_id": 171955,
+      "game_name": "To End All Wars: Breaking the Deadlock",
+      "file": "missing/T/171955-to-end-all-wars-breaking-the-deadlock.json"
     },
     {
       "igdb_id": 60019,
@@ -580376,6 +580606,21 @@
       "igdb_id": 82490,
       "game_name": "Touki Kyouka",
       "file": "missing/T/82490-touki-kyouka.json"
+    },
+    {
+      "igdb_id": 171916,
+      "game_name": "Toukiden: Kiwami - Mission Collection 1-3",
+      "file": "missing/T/171916-toukiden-kiwami-mission-collection-1-3.json"
+    },
+    {
+      "igdb_id": 171917,
+      "game_name": "Toukiden: Kiwami - Mission Collection 4-7",
+      "file": "missing/T/171917-toukiden-kiwami-mission-collection-4-7.json"
+    },
+    {
+      "igdb_id": 171918,
+      "game_name": "Toukiden: Kiwami - Mission Collection 8-11",
+      "file": "missing/T/171918-toukiden-kiwami-mission-collection-8-11.json"
     },
     {
       "igdb_id": 8658,
@@ -598461,6 +598706,11 @@
       "igdb_id": 70975,
       "game_name": "Universal Combat",
       "file": "missing/U/70975-universal-combat.json"
+    },
+    {
+      "igdb_id": 171923,
+      "game_name": "Universal Combat CE: The Lyrius Conflict",
+      "file": "missing/U/171923-universal-combat-ce-the-lyrius-conflict.json"
     },
     {
       "igdb_id": 206064,
