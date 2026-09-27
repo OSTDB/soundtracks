@@ -2906,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Wonder Punch | 273386 | [273386-wonder-wonder-punch.json](./273386-wonder-wonder-punch.json) |
 | Wonder World | 312547 | [312547-wonder-world.json](./312547-wonder-world.json) |
 | Wonder World Amusement Park | 5286 | [5286-wonder-world-amusement-park.json](./5286-wonder-world-amusement-park.json) |
+| Wonder World Walkers | 173079 | [173079-wonder-world-walkers.json](./173079-wonder-world-walkers.json) |
 | Wonderball Heroes | 83581 | [83581-wonderball-heroes.json](./83581-wonderball-heroes.json) |
 | Wonderbirds | 188911 | [188911-wonderbirds.json](./188911-wonderbirds.json) |
 | Wonderbook: Book of Spells | 22191 | [22191-wonderbook-book-of-spells.json](./22191-wonderbook-book-of-spells.json) |
