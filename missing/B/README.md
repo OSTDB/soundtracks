@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballad of Angels | 310927 | [310927-ballad-of-angels.json](./310927-ballad-of-angels.json) |
 | Ballad of Antara | 303809 | [303809-ballad-of-antara.json](./303809-ballad-of-antara.json) |
 | Ballad of Ba'al | 189181 | [189181-ballad-of-baal.json](./189181-ballad-of-baal.json) |
+| Ballad of the Asura | 161182 | [161182-ballad-of-the-asura.json](./161182-ballad-of-the-asura.json) |
 | Ballad of the Masked Bandits | 132255 | [132255-ballad-of-the-masked-bandits.json](./132255-ballad-of-the-masked-bandits.json) |
 | Ballad of the Space Whale | 181841 | [181841-ballad-of-the-space-whale.json](./181841-ballad-of-the-space-whale.json) |
 | Ballade2: the Celestial Promise | 118414 | [118414-ballade2-the-celestial-promise.json](./118414-ballade2-the-celestial-promise.json) |
