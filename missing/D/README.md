@@ -2765,6 +2765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der Weichensteller: Odyssey Live | 309108 | [309108-der-weichensteller-odyssey-live.json](./309108-der-weichensteller-odyssey-live.json) |
 | Der Zorn Gottes | 308241 | [308241-der-zorn-gottes.json](./308241-der-zorn-gottes.json) |
 | Derace | 393602 | [393602-derace.json](./393602-derace.json) |
+| Derange | 129099 | [129099-derange.json](./129099-derange.json) |
 | Deranged Rabbits | 33389 | [33389-deranged-rabbits.json](./33389-deranged-rabbits.json) |
 | Derby Champion Club | 386250 | [386250-derby-champion-club.json](./386250-derby-champion-club.json) |
 | Derby Day | 356288 | [356288-derby-day.json](./356288-derby-day.json) |
@@ -7272,6 +7273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumb Castle | 289304 | [289304-dumb-castle.json](./289304-dumb-castle.json) |
 | Dumb Chicken 2: One Way Out | 32895 | [32895-dumb-chicken-2-one-way-out.json](./32895-dumb-chicken-2-one-way-out.json) |
 | Dumb Fight | 130257 | [130257-dumb-fight.json](./130257-dumb-fight.json) |
+| Dumb Infernal | 129068 | [129068-dumb-infernal.json](./129068-dumb-infernal.json) |
 | Dumb Little Creatures | 109683 | [109683-dumb-little-creatures.json](./109683-dumb-little-creatures.json) |
 | Dumb Little Robots | 197150 | [197150-dumb-little-robots.json](./197150-dumb-little-robots.json) |
 | Dumb Roguelike-like RPG | 164517 | [164517-dumb-roguelike-like-rpg.json](./164517-dumb-roguelike-like-rpg.json) |
