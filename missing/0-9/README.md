@@ -1072,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Sins: Lost in Labyrinth | 236243 | [236243-7-sins-lost-in-labyrinth.json](./236243-7-sins-lost-in-labyrinth.json) |
 | 7 Soccer: a sci-fi soccer tale | 88178 | [88178-7-soccer-a-sci-fi-soccer-tale.json](./88178-7-soccer-a-sci-fi-soccer-tale.json) |
 | 7 Wonders | 89128 | [89128-7-wonders.json](./89128-7-wonders.json) |
+| 7 Years War | 157003 | [157003-7-years-war.json](./157003-7-years-war.json) |
 | 7 Zwerge: Das Brettspiel | 84284 | [84284-7-zwerge-das-brettspiel.json](./84284-7-zwerge-das-brettspiel.json) |
 | 7,62 Hard Life | 98372 | [98372-7-62-hard-life.json](./98372-7-62-hard-life.json) |
 | 7° Continente | 397054 | [397054-7-continente.json](./397054-7-continente.json) |
