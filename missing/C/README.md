@@ -2578,6 +2578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheeky Chickens 2 | 104603 | [104603-cheeky-chickens-2.json](./104603-cheeky-chickens-2.json) |
 | Cheeky Princess | 189074 | [189074-cheeky-princess.json](./189074-cheeky-princess.json) |
 | Cheep Cheep Challenge | 268181 | [268181-cheep-cheep-challenge.json](./268181-cheep-cheep-challenge.json) |
+| Cheer and Track | 123517 | [123517-cheer-and-track.json](./123517-cheer-and-track.json) |
 | Cheerleader Champion Dance Off | 86808 | [86808-cheerleader-champion-dance-off.json](./86808-cheerleader-champion-dance-off.json) |
 | Cheerleader's Choice: New York Spirit | 338274 | [338274-cheerleaders-choice-new-york-spirit.json](./338274-cheerleaders-choice-new-york-spirit.json) |
 | Cheers! | 227934 | [227934-cheers.json](./227934-cheers.json) |
@@ -6422,6 +6423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy Carl | 306456 | [306456-cowboy-carl.json](./306456-cowboy-carl.json) |
 | Cowboy Escape | 88233 | [88233-cowboy-escape.json](./88233-cowboy-escape.json) |
 | Cowboy Gold Round-Up | 103867 | [103867-cowboy-gold-round-up.json](./103867-cowboy-gold-round-up.json) |
+| Cowboy Life Simulator | 123528 | [123528-cowboy-life-simulator.json](./123528-cowboy-life-simulator.json) |
 | Cowboy vs. UFOs | 57110 | [57110-cowboy-vs-ufos.json](./57110-cowboy-vs-ufos.json) |
 | Cowboy War | 237627 | [237627-cowboy-war.json](./237627-cowboy-war.json) |
 | Cowboy with a Gatling Gun | 184106 | [184106-cowboy-with-a-gatling-gun.json](./184106-cowboy-with-a-gatling-gun.json) |
