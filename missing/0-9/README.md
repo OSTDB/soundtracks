@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | _Turing | 306086 | [306086-turing.json](./306086-turing.json) |
 | -256 | 245917 | [245917-256.json](./245917-256.json) |
 | -Sprout- | 170321 | [170321-sprout.json](./170321-sprout.json) |
+| :) | 139909 | [139909-.json](./139909-.json) |
 | ! | 165498 | [165498-.json](./165498-.json) |
 | !BurnToDie! | 109760 | [109760-burntodie.json](./109760-burntodie.json) |
 | !Hungry Blocks! | 338924 | [338924-hungry-blocks.json](./338924-hungry-blocks.json) |
@@ -68,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | *N Sync: Get to the Show | 94742 | [94742-n-sync-get-to-the-show.json](./94742-n-sync-get-to-the-show.json) |
 | //Todo: today | 112283 | [112283-todo-today.json](./112283-todo-today.json) |
 | /Connection Haunted | 147872 | [147872-connection-haunted.json](./147872-connection-haunted.json) |
+| \\\//\\/\\\/// | 139880 | [139880-.json](./139880-.json) |
 | & in the War I Find You | 178584 | [178584-and-in-the-war-i-find-you.json](./178584-and-in-the-war-i-find-you.json) |
 | #1 Pastime Bundle | 192408 | [192408-1-pastime-bundle.json](./192408-1-pastime-bundle.json) |
 | #7-J5Z: The Driftwood Experiment | 343447 | [343447-7-j5z-the-driftwood-experiment.json](./343447-7-j5z-the-driftwood-experiment.json) |
@@ -351,7 +353,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10KoyaNI | 382189 | [382189-10koyani.json](./382189-10koyani.json) |
 | 10mg Collection | 141158 | [141158-10mg-collection.json](./141158-10mg-collection.json) |
 | 10mg: Always Down | 141099 | [141099-10mg-always-down.json](./141099-10mg-always-down.json) |
+| 10mg: Cover Me In Leaves | 139901 | [139901-10mg-cover-me-in-leaves.json](./139901-10mg-cover-me-in-leaves.json) |
+| 10mg: Handmade Death Labyrinth Issue 0 | 139898 | [139898-10mg-handmade-death-labyrinth-issue-0.json](./139898-10mg-handmade-death-labyrinth-issue-0.json) |
+| 10mg: Locked In | 139902 | [139902-10mg-locked-in.json](./139902-10mg-locked-in.json) |
+| 10mg: Sealed Estate | 139900 | [139900-10mg-sealed-estate.json](./139900-10mg-sealed-estate.json) |
+| 10mg: Slasher, Interrupted | 139897 | [139897-10mg-slasher-interrupted.json](./139897-10mg-slasher-interrupted.json) |
 | 10mg: Snaaak | 141097 | [141097-10mg-snaaak.json](./141097-10mg-snaaak.json) |
+| 10mg: Stroke | 139899 | [139899-10mg-stroke.json](./139899-10mg-stroke.json) |
+| 10mg: You are such a Soft and Round Kitten. | 139903 | [139903-10mg-you-are-such-a-soft-and-round-kitten.json](./139903-10mg-you-are-such-a-soft-and-round-kitten.json) |
 | 10Minutes | 258997 | [258997-10minutes.json](./258997-10minutes.json) |
 | 10n: Ten Power N | 392455 | [392455-10n-ten-power-n.json](./392455-10n-ten-power-n.json) |
 | 10s | 397234 | [397234-10s.json](./397234-10s.json) |
