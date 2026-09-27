@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Crown | 76567 | [76567-war-of-crown.json](./76567-war-of-crown.json) |
 | War of Dragons 2016 | 231891 | [231891-war-of-dragons-2016.json](./231891-war-of-dragons-2016.json) |
 | War of Eclipse | 64101 | [64101-war-of-eclipse.json](./64101-war-of-eclipse.json) |
+| War of Freedom | 158523 | [158523-war-of-freedom.json](./158523-war-of-freedom.json) |
 | War of Genesis III | 76613 | [76613-war-of-genesis-iii.json](./76613-war-of-genesis-iii.json) |
 | War of Gods Athena | 273640 | [273640-war-of-gods-athena.json](./273640-war-of-gods-athena.json) |
 | War of Gold 2 Mission 99 | 226694 | [226694-war-of-gold-2-mission-99.json](./226694-war-of-gold-2-mission-99.json) |
@@ -2672,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Without Escape | 270394 | [270394-without-escape.json](./270394-without-escape.json) |
 | Without kidney | 215652 | [215652-without-kidney.json](./215652-without-kidney.json) |
 | Without My Arms | 141176 | [141176-without-my-arms.json](./141176-without-my-arms.json) |
+| Without Romance | 158542 | [158542-without-romance.json](./158542-without-romance.json) |
 | Without Wings | 340932 | [340932-without-wings.json](./340932-without-wings.json) |
 | Without Within | 35853 | [35853-without-within.json](./35853-without-within.json) |
 | Without You | 235702 | [235702-without-you.json](./235702-without-you.json) |
