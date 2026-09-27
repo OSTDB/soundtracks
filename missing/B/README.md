@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bal | 290930 | [290930-bal.json](./290930-bal.json) |
 | Bala na Manga | 238994 | [238994-bala-na-manga.json](./238994-bala-na-manga.json) |
 | Balaball | 373012 | [373012-balaball.json](./373012-balaball.json) |
+| Balacera Brothers | 135745 | [135745-balacera-brothers.json](./135745-balacera-brothers.json) |
 | Balala Dà Zhuǎnhuàn | 359469 | [359469-balala-da-zhuanhuan.json](./359469-balala-da-zhuanhuan.json) |
 | Balam and the Spirit Within | 201325 | [201325-balam-and-the-spirit-within.json](./201325-balam-and-the-spirit-within.json) |
 | Balamory: Join the Fun! | 313240 | [313240-balamory-join-the-fun.json](./313240-balamory-join-the-fun.json) |
@@ -2006,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be the One | 154387 | [154387-be-the-one.json](./154387-be-the-one.json) |
 | Be the Ruler: Britannia | 112987 | [112987-be-the-ruler-britannia.json](./112987-be-the-ruler-britannia.json) |
 | BE Witches | 157163 | [157163-be-witches.json](./157163-be-witches.json) |
+| Be You 2 | 135757 | [135757-be-you-2.json](./135757-be-you-2.json) |
 | Be Yourself | 318234 | [318234-be-yourself.json](./318234-be-yourself.json) |
 | Beach Bar Simulator | 347355 | [347355-beach-bar-simulator.json](./347355-beach-bar-simulator.json) |
 | Beach Bass | 334210 | [334210-beach-bass.json](./334210-beach-bass.json) |
@@ -2242,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat The Boss Game | 331699 | [331699-beat-the-boss-game.json](./331699-beat-the-boss-game.json) |
 | Beat the Clock | 196261 | [196261-beat-the-clock.json](./196261-beat-the-clock.json) |
 | Beat the House 2 | 71503 | [71503-beat-the-house-2.json](./71503-beat-the-house-2.json) |
+| Beat the Machine: Rebooted | 135767 | [135767-beat-the-machine-rebooted.json](./135767-beat-the-machine-rebooted.json) |
 | Beat the Markets | 348262 | [348262-beat-the-markets.json](./348262-beat-the-markets.json) |
 | Beat the Moles | 157023 | [157023-beat-the-moles.json](./157023-beat-the-moles.json) |
 | Beat the Wall | 323848 | [323848-beat-the-wall.json](./323848-beat-the-wall.json) |
@@ -5898,6 +5901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Hack Squad | 350026 | [350026-brain-hack-squad.json](./350026-brain-hack-squad.json) |
 | Brain Hole Girls | 242488 | [242488-brain-hole-girls.json](./242488-brain-hole-girls.json) |
 | Brain It On! | 97332 | [97332-brain-it-on.json](./97332-brain-it-on.json) |
+| Brain Marmelade | 135751 | [135751-brain-marmelade.json](./135751-brain-marmelade.json) |
 | Brain Memory Training Academy | 283727 | [283727-brain-memory-training-academy.json](./283727-brain-memory-training-academy.json) |
 | Brain Memory: Amazing Edition | 276452 | [276452-brain-memory-amazing-edition.json](./276452-brain-memory-amazing-edition.json) |
 | Brain Memory: Complete Edition | 246877 | [246877-brain-memory-complete-edition.json](./246877-brain-memory-complete-edition.json) |
@@ -6257,6 +6261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breath of the Waters: The Angler | 410937 | [410937-breath-of-the-waters-the-angler.json](./410937-breath-of-the-waters-the-angler.json) |
 | Breath: Toiki wa Akaneiro | 269675 | [269675-breath-toiki-wa-akaneiro.json](./269675-breath-toiki-wa-akaneiro.json) |
 | Breathbound | 372447 | [372447-breathbound.json](./372447-breathbound.json) |
+| Breathe in | 135773 | [135773-breathe-in.json](./135773-breathe-in.json) |
 | Breathedge | 89326 | [89326-breathedge.json](./89326-breathedge.json) |
 | Breathedge 2 | 252870 | [252870-breathedge-2.json](./252870-breathedge-2.json) |
 | Breathedge: Cosmic Cluck | 286571 | [286571-breathedge-cosmic-cluck.json](./286571-breathedge-cosmic-cluck.json) |
@@ -6453,6 +6458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Britannica Sudoku Unlimited | 206681 | [206681-britannica-sudoku-unlimited.json](./206681-britannica-sudoku-unlimited.json) |
 | Britannica World's Best Solitaire | 206683 | [206683-britannica-worlds-best-solitaire.json](./206683-britannica-worlds-best-solitaire.json) |
 | Britebot | 178651 | [178651-britebot.json](./178651-britebot.json) |
+| British Lads Hit Each Other With Chairs: A Bitsy Retelling | 135772 | [135772-british-lads-hit-each-other-with-chairs-a-bitsy-retelling.json](./135772-british-lads-hit-each-other-with-chairs-a-bitsy-retelling.json) |
 | British Voter Quiz | 366245 | [366245-british-voter-quiz.json](./366245-british-voter-quiz.json) |
 | Britney Spears' Theme Park | 305843 | [305843-britney-spears-theme-park.json](./305843-britney-spears-theme-park.json) |
 | Brittle | 278684 | [278684-brittle.json](./278684-brittle.json) |
