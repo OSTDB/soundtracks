@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Hunt | 165625 | [165625-happy-hunt.json](./165625-happy-hunt.json) |
 | Happy Lesson | 78643 | [78643-happy-lesson.json](./78643-happy-lesson.json) |
 | Happy Live, Show Up! | 194472 | [194472-happy-live-show-up.json](./194472-happy-live-show-up.json) |
+| Happy Marriage Project: Starting from 9 Years Old | 151095 | [151095-happy-marriage-project-starting-from-9-years-old.json](./151095-happy-marriage-project-starting-from-9-years-old.json) |
 | Happy Mask | 263209 | [263209-happy-mask.json](./263209-happy-mask.json) |
 | Happy Maze | 30944 | [30944-happy-maze.json](./30944-happy-maze.json) |
 | Happy Mice | 246460 | [246460-happy-mice.json](./246460-happy-mice.json) |
@@ -3312,6 +3313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hire Me! | 285521 | [285521-hire-me.json](./285521-hire-me.json) |
 | Hired 2 Die | 211704 | [211704-hired-2-die.json](./211704-hired-2-die.json) |
 | Hired Team: Trial Gold | 73849 | [73849-hired-team-trial-gold.json](./73849-hired-team-trial-gold.json) |
+| Hirilun | 151062 | [151062-hirilun.json](./151062-hirilun.json) |
 | Hiro's Harvest Season | 76532 | [76532-hiros-harvest-season.json](./76532-hiros-harvest-season.json) |
 | Hirocato: The Delivery Hero | 253934 | [253934-hirocato-the-delivery-hero.json](./253934-hirocato-the-delivery-hero.json) |
 | Hirogami | 317871 | [317871-hirogami.json](./317871-hirogami.json) |
