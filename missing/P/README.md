@@ -1423,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pax Romana | 115512 | [115512-pax-romana.json](./115512-pax-romana.json) |
 | Pax Romana: Romulus | 70076 | [70076-pax-romana-romulus.json](./70076-pax-romana-romulus.json) |
 | Pax Solis | 298291 | [298291-pax-solis.json](./298291-pax-solis.json) |
+| Pax Warrior | 174108 | [174108-pax-warrior.json](./174108-pax-warrior.json) |
 | Pay 4 It | 229821 | [229821-pay-4-it.json](./229821-pay-4-it.json) |
 | Pay for Picture: Vol.01 | 335335 | [335335-pay-for-picture-vol-01.json](./335335-pay-for-picture-vol-01.json) |
 | Pay Me In Colors | 287764 | [287764-pay-me-in-colors.json](./287764-pay-me-in-colors.json) |
@@ -3636,6 +3637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Placid Plastic Duck VR | 338550 | [338550-placid-plastic-duck-vr.json](./338550-placid-plastic-duck-vr.json) |
 | Plague | 185680 | [185680-plague.json](./185680-plague.json) |
 | Plague Doctor | 287790 | [287790-plague-doctor.json](./287790-plague-doctor.json) |
+| Plague Doctor: Contagion - 430 BCE-2020 AD | 174100 | [174100-plague-doctor-contagion-430-bce-2020-ad.json](./174100-plague-doctor-contagion-430-bce-2020-ad.json) |
 | Plague Doctor: Medieval Apothecary | 416824 | [416824-plague-doctor-medieval-apothecary.json](./416824-plague-doctor-medieval-apothecary.json) |
 | Plague Inc: Aliens & Anti-Vaxxers | 398971 | [398971-plague-inc-aliens-and-anti-vaxxers.json](./398971-plague-inc-aliens-and-anti-vaxxers.json) |
 | Plague Inc: Evolved | 7601 | [7601-plague-inc-evolved.json](./7601-plague-inc-evolved.json) |
@@ -3754,6 +3756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Zoo: Aquatic Pack | 226995 | [226995-planet-zoo-aquatic-pack.json](./226995-planet-zoo-aquatic-pack.json) |
 | Planet Zoo: Barnyard Animal Pack | 308275 | [308275-planet-zoo-barnyard-animal-pack.json](./308275-planet-zoo-barnyard-animal-pack.json) |
 | Planet Zoo: Europe Pack | 191245 | [191245-planet-zoo-europe-pack.json](./191245-planet-zoo-europe-pack.json) |
+| Planet Zoo: North America Animal Pack | 174129 | [174129-planet-zoo-north-america-animal-pack.json](./174129-planet-zoo-north-america-animal-pack.json) |
 | Planet Zoo: Tropical Pack | 243535 | [243535-planet-zoo-tropical-pack.json](./243535-planet-zoo-tropical-pack.json) |
 | Planet Zoo: Zookeepers Animal Pack | 336614 | [336614-planet-zoo-zookeepers-animal-pack.json](./336614-planet-zoo-zookeepers-animal-pack.json) |
 | Planet-Fall | 290997 | [290997-planet-fall.json](./290997-planet-fall.json) |
@@ -4016,6 +4019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleasure Puzzle:Workshop - Part 5 | 163465 | [163465-pleasure-puzzle-workshop-part-5.json](./163465-pleasure-puzzle-workshop-part-5.json) |
 | Pleasuredrome | 325246 | [325246-pleasuredrome.json](./325246-pleasuredrome.json) |
 | Pleasuredromes Of Kubla Khan | 268738 | [268738-pleasuredromes-of-kubla-khan.json](./268738-pleasuredromes-of-kubla-khan.json) |
+| Plebby Quest: The Promised Land | 174132 | [174132-plebby-quest-the-promised-land.json](./174132-plebby-quest-the-promised-land.json) |
 | Plebs | 261766 | [261766-plebs.json](./261766-plebs.json) |
 | Plekos | 255032 | [255032-plekos.json](./255032-plekos.json) |
 | Plentiful | 341567 | [341567-plentiful.json](./341567-plentiful.json) |
@@ -4636,6 +4640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Pretty Girls Battle: Texas Hold'em | 34324 | [34324-poker-pretty-girls-battle-texas-holdem.json](./34324-poker-pretty-girls-battle-texas-holdem.json) |
 | Poker Squ♠res | 81285 | [81285-poker-squ-res.json](./81285-poker-squ-res.json) |
 | Poker Squares | 131523 | [131523-poker-squares.json](./131523-poker-squares.json) |
+| Poker Supreme: Las Vegas | 174099 | [174099-poker-supreme-las-vegas.json](./174099-poker-supreme-las-vegas.json) |
 | Poker TD | 390103 | [390103-poker-td.json](./390103-poker-td.json) |
 | Poker Train | 320148 | [320148-poker-train.json](./320148-poker-train.json) |
 | Poker World: Casino Game | 219292 | [219292-poker-world-casino-game.json](./219292-poker-world-casino-game.json) |
@@ -5768,6 +5773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Connect! | 22792 | [22792-princess-connect.json](./22792-princess-connect.json) |
 | Princess Covenant | 367632 | [367632-princess-covenant.json](./367632-princess-covenant.json) |
 | Princess Edge: Dragonstone | 26525 | [26525-princess-edge-dragonstone.json](./26525-princess-edge-dragonstone.json) |
+| Princess escape | 174119 | [174119-princess-escape.json](./174119-princess-escape.json) |
 | Princess Evangile W Happiness | 140525 | [140525-princess-evangile-w-happiness.json](./140525-princess-evangile-w-happiness.json) |
 | Princess Evangile W Happiness | 43360 | [43360-princess-evangile-w-happiness.json](./43360-princess-evangile-w-happiness.json) |
 | Princess Home | 227243 | [227243-princess-home.json](./227243-princess-home.json) |
