@@ -1639,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacombs | 25918 | [25918-catacombs.json](./25918-catacombs.json) |
 | Catacombs 1: Demon War | 43505 | [43505-catacombs-1-demon-war.json](./43505-catacombs-1-demon-war.json) |
 | Catacombs of the Phantoms | 356691 | [356691-catacombs-of-the-phantoms.json](./356691-catacombs-of-the-phantoms.json) |
+| Catacombs Pack | 154420 | [154420-catacombs-pack.json](./154420-catacombs-pack.json) |
 | Catacombs: The Asper Case | 235854 | [235854-catacombs-the-asper-case.json](./235854-catacombs-the-asper-case.json) |
 | Cataegis : The White Wind | 35920 | [35920-cataegis-the-white-wind.json](./35920-cataegis-the-white-wind.json) |
 | Catagrams | 333575 | [333575-catagrams.json](./333575-catagrams.json) |
@@ -6991,6 +6992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Case: The Conspiracy | 262381 | [262381-criminal-case-the-conspiracy.json](./262381-criminal-case-the-conspiracy.json) |
 | Criminal Case: Travel in Time | 262388 | [262388-criminal-case-travel-in-time.json](./262388-criminal-case-travel-in-time.json) |
 | Criminal Consequences | 185073 | [185073-criminal-consequences.json](./185073-criminal-consequences.json) |
+| Criminal Dissidia | 154435 | [154435-criminal-dissidia.json](./154435-criminal-dissidia.json) |
 | Criminal Pursuit Force | 110349 | [110349-criminal-pursuit-force.json](./110349-criminal-pursuit-force.json) |
 | Criminal Run | 40741 | [40741-criminal-run.json](./40741-criminal-run.json) |
 | Criminal Stories: CSI Episode | 215394 | [215394-criminal-stories-csi-episode.json](./215394-criminal-stories-csi-episode.json) |
@@ -7880,6 +7882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cultures: 8th Wonder of the World | 200207 | [200207-cultures-8th-wonder-of-the-world.json](./200207-cultures-8th-wonder-of-the-world.json) |
 | Cultures: Die Rache des Regengottes | 93039 | [93039-cultures-die-rache-des-regengottes.json](./93039-cultures-die-rache-des-regengottes.json) |
 | Cultures: Northland | 11381 | [11381-cultures-northland.json](./11381-cultures-northland.json) |
+| Cultures: Northland + 8th Wonder of the World | 154437 | [154437-cultures-northland-8th-wonder-of-the-world.json](./154437-cultures-northland-8th-wonder-of-the-world.json) |
 | Cultus | 156690 | [156690-cultus.json](./156690-cultus.json) |
 | Cum & Climb | 267080 | [267080-cum-and-climb.json](./267080-cum-and-climb.json) |
 | Cum Clicker | 262098 | [262098-cum-clicker.json](./262098-cum-clicker.json) |
@@ -8369,6 +8372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberTD: Cartridge Card Style | 382439 | [382439-cybertd-cartridge-card-style.json](./382439-cybertd-cartridge-card-style.json) |
 | CyberThreat | 253326 | [253326-cyberthreat.json](./253326-cyberthreat.json) |
 | CyberThreat | 31603 | [31603-cyberthreat.json](./31603-cyberthreat.json) |
+| Cyberush | 154352 | [154352-cyberush.json](./154352-cyberush.json) |
 | CyberVerse | 280898 | [280898-cyberverse.json](./280898-cyberverse.json) |
 | CyberVerse | 345103 | [345103-cyberverse.json](./345103-cyberverse.json) |
 | CyberVirus | 153842 | [153842-cybervirus.json](./153842-cybervirus.json) |
