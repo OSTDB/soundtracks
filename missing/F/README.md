@@ -1890,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Life: Vanguard | 318193 | [318193-fight-life-vanguard.json](./318193-fight-life-vanguard.json) |
 | Fight Like a Chicken | 386244 | [386244-fight-like-a-chicken.json](./386244-fight-like-a-chicken.json) |
 | Fight List - Categories Game | 87038 | [87038-fight-list-categories-game.json](./87038-fight-list-categories-game.json) |
+| Fight Me | 137553 | [137553-fight-me.json](./137553-fight-me.json) |
 | Fight Me | 378308 | [378308-fight-me.json](./378308-fight-me.json) |
 | Fight Night 2004 | 5835 | [5835-fight-night-2004.json](./5835-fight-night-2004.json) |
 | Fight Night Round 2 | 3915 | [3915-fight-night-round-2.json](./3915-fight-night-round-2.json) |
@@ -3046,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappatron: Episode 3 (Chapters 8 - 10) | 168846 | [168846-flappatron-episode-3-chapters-8-10.json](./168846-flappatron-episode-3-chapters-8-10.json) |
 | Flappatron: Episode 4 (Chapters 11 - 13) | 168845 | [168845-flappatron-episode-4-chapters-11-13.json](./168845-flappatron-episode-4-chapters-11-13.json) |
 | FlapPing | 40718 | [40718-flapping.json](./40718-flapping.json) |
+| FlapPlane | 137573 | [137573-flapplane.json](./137573-flapplane.json) |
 | Flappy | 195527 | [195527-flappy.json](./195527-flappy.json) |
 | Flappy 2: The Resurrection of Blue Star | 62199 | [62199-flappy-2-the-resurrection-of-blue-star.json](./62199-flappy-2-the-resurrection-of-blue-star.json) |
 | Flappy Arms | 81698 | [81698-flappy-arms.json](./81698-flappy-arms.json) |
