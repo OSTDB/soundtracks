@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bark in the Dark | 225289 | [225289-a-bark-in-the-dark.json](./225289-a-bark-in-the-dark.json) |
 | A Bear's Night Out | 124606 | [124606-a-bears-night-out.json](./124606-a-bears-night-out.json) |
 | A Beautiful Ride to Carlisle | 184911 | [184911-a-beautiful-ride-to-carlisle.json](./184911-a-beautiful-ride-to-carlisle.json) |
+| A Beauty Cold and Austere | 138140 | [138140-a-beauty-cold-and-austere.json](./138140-a-beauty-cold-and-austere.json) |
 | A Better World | 345591 | [345591-a-better-world.json](./345591-a-better-world.json) |
 | A Bewitching Revolution | 124258 | [124258-a-bewitching-revolution.json](./124258-a-bewitching-revolution.json) |
 | A Bird's Tale | 207242 | [207242-a-birds-tale.json](./207242-a-birds-tale.json) |
@@ -2236,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alian Planet | 316188 | [316188-alian-planet.json](./316188-alian-planet.json) |
 | Alianator | 76197 | [76197-alianator.json](./76197-alianator.json) |
 | Alias | 5719 | [5719-alias.json](./5719-alias.json) |
+| Alias 'The Magpie' | 138144 | [138144-alias-the-magpie.json](./138144-alias-the-magpie.json) |
 | Alias Underground Episode 1: SD-6 Agent Training | 367409 | [367409-alias-underground-episode-1-sd-6-agent-training.json](./367409-alias-underground-episode-1-sd-6-agent-training.json) |
 | Alias Underground Episode 10: Endgame | 367419 | [367419-alias-underground-episode-10-endgame.json](./367419-alias-underground-episode-10-endgame.json) |
 | Alias Underground Episode 2: Mission - Turkish Embassy | 367410 | [367410-alias-underground-episode-2-mission-turkish-embassy.json](./367410-alias-underground-episode-2-mission-turkish-embassy.json) |
@@ -3373,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anchor | 375444 | [375444-anchor.json](./375444-anchor.json) |
 | Anchor-13 | 408047 | [408047-anchor-13.json](./408047-anchor-13.json) |
 | Anchored Alone | 408269 | [408269-anchored-alone.json](./408269-anchored-alone.json) |
+| Anchorhead | 138147 | [138147-anchorhead.json](./138147-anchorhead.json) |
 | Anchors: Blockade Zone | 239900 | [239900-anchors-blockade-zone.json](./239900-anchors-blockade-zone.json) |
 | Ancient | 371889 | [371889-ancient.json](./371889-ancient.json) |
 | Ancient Adventure | 406222 | [406222-ancient-adventure.json](./406222-ancient-adventure.json) |
