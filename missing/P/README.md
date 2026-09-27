@@ -1045,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Park Inc | 146878 | [146878-park-inc.json](./146878-park-inc.json) |
 | Park It! | 310740 | [310740-park-it.json](./310740-park-it.json) |
 | Park Master | 254751 | [254751-park-master.json](./254751-park-master.json) |
+| Park of Monster | 120906 | [120906-park-of-monster.json](./120906-park-of-monster.json) |
 | Park Patrol | 25619 | [25619-park-patrol.json](./25619-park-patrol.json) |
 | Park Ranger Simulator | 314460 | [314460-park-ranger-simulator.json](./314460-park-ranger-simulator.json) |
 | Park Ranger: Lost in the Woods | 223423 | [223423-park-ranger-lost-in-the-woods.json](./223423-park-ranger-lost-in-the-woods.json) |
@@ -1547,6 +1548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payout: Shop Simulator | 309336 | [309336-payout-shop-simulator.json](./309336-payout-shop-simulator.json) |
 | Payrates | 405522 | [405522-payrates.json](./405522-payrates.json) |
 | Paze Knight Ellen and the Dungeon Town Sodom | 244482 | [244482-paze-knight-ellen-and-the-dungeon-town-sodom.json](./244482-paze-knight-ellen-and-the-dungeon-town-sodom.json) |
+| PazuDora Gold | 120866 | [120866-pazudora-gold.json](./120866-pazudora-gold.json) |
 | Pazuru in Airou | 65177 | [65177-pazuru-in-airou.json](./65177-pazuru-in-airou.json) |
 | PB Makes Lunch | 177411 | [177411-pb-makes-lunch.json](./177411-pb-makes-lunch.json) |
 | PBA Bowling 2 | 94674 | [94674-pba-bowling-2.json](./94674-pba-bowling-2.json) |
@@ -4015,6 +4017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants Vs. Zombies 2: Project Eclise | 132131 | [132131-plants-vs-zombies-2-project-eclise.json](./132131-plants-vs-zombies-2-project-eclise.json) |
 | Plants vs. Zombies 2: Reflourished | 221859 | [221859-plants-vs-zombies-2-reflourished.json](./221859-plants-vs-zombies-2-reflourished.json) |
 | Plants vs. Zombies 2: Requiem | 272889 | [272889-plants-vs-zombies-2-requiem.json](./272889-plants-vs-zombies-2-requiem.json) |
+| Plants vs. Zombies 3: Welcome to Zomburbia | 120900 | [120900-plants-vs-zombies-3-welcome-to-zomburbia.json](./120900-plants-vs-zombies-3-welcome-to-zomburbia.json) |
 | Plants vs. Zombies Adventures | 77968 | [77968-plants-vs-zombies-adventures.json](./77968-plants-vs-zombies-adventures.json) |
 | Plants vs. Zombies Delturbia | 343926 | [343926-plants-vs-zombies-delturbia.json](./343926-plants-vs-zombies-delturbia.json) |
 | Plants vs. Zombies: Battle for Neighborville - Deluxe Edition | 136356 | [136356-plants-vs-zombies-battle-for-neighborville-deluxe-edition.json](./136356-plants-vs-zombies-battle-for-neighborville-deluxe-edition.json) |
