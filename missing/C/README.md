@@ -2765,6 +2765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiaroscuro | 138739 | [138739-chiaroscuro.json](./138739-chiaroscuro.json) |
 | Chiaroscuro Imago | 377300 | [377300-chiaroscuro-imago.json](./377300-chiaroscuro-imago.json) |
 | Chiaroscuro: O Jogo | 210649 | [210649-chiaroscuro-o-jogo.json](./210649-chiaroscuro-o-jogo.json) |
+| Chiasm | 149482 | [149482-chiasm.json](./149482-chiasm.json) |
 | Chibi 3D Online RPG Sandbox | 300372 | [300372-chibi-3d-online-rpg-sandbox.json](./300372-chibi-3d-online-rpg-sandbox.json) |
 | Chibi Akuma's Episode 1: Invasion! | 300807 | [300807-chibi-akumas-episode-1-invasion.json](./300807-chibi-akumas-episode-1-invasion.json) |
 | Chibi Charger | 338562 | [338562-chibi-charger.json](./338562-chibi-charger.json) |
@@ -7195,6 +7196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Numbers | 153888 | [153888-cross-numbers.json](./153888-cross-numbers.json) |
 | Cross or Crash | 241993 | [241993-cross-or-crash.json](./241993-cross-or-crash.json) |
 | Cross Pix 2 | 363970 | [363970-cross-pix-2.json](./363970-cross-pix-2.json) |
+| Cross Princess | 149499 | [149499-cross-princess.json](./149499-cross-princess.json) |
 | Cross Reunion | 237652 | [237652-cross-reunion.json](./237652-cross-reunion.json) |
 | Cross Review World | 178951 | [178951-cross-review-world.json](./178951-cross-review-world.json) |
 | Cross Seekers | 258987 | [258987-cross-seekers.json](./258987-cross-seekers.json) |
