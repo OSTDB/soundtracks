@@ -1056,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Kart | 61091 | [61091-rayman-kart.json](./61091-rayman-kart.json) |
 | Rayman Legends Beatbox | 61350 | [61350-rayman-legends-beatbox.json](./61350-rayman-legends-beatbox.json) |
 | Rayman Legends Challenges App | 2925 | [2925-rayman-legends-challenges-app.json](./2925-rayman-legends-challenges-app.json) |
+| Rayman Legends/Rayman Origins | 138688 | [138688-rayman-legends-rayman-origins.json](./138688-rayman-legends-rayman-origins.json) |
 | Rayman Mini | 122560 | [122560-rayman-mini.json](./122560-rayman-mini.json) |
 | Rayman Origins | 288944 | [288944-rayman-origins.json](./288944-rayman-origins.json) |
 | Rayman Raving Rabbids | 193362 | [193362-rayman-raving-rabbids.json](./193362-rayman-raving-rabbids.json) |
@@ -2280,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repton 3 | 37074 | [37074-repton-3.json](./37074-repton-3.json) |
 | Repton Mania | 94257 | [94257-repton-mania.json](./94257-repton-mania.json) |
 | Republic at War | 377612 | [377612-republic-at-war.json](./377612-republic-at-war.json) |
+| Republic of Jungle | 138655 | [138655-republic-of-jungle.json](./138655-republic-of-jungle.json) |
 | Republic: The Revolution | 10236 | [10236-republic-the-revolution.json](./10236-republic-the-revolution.json) |
 | République VR | 159154 | [159154-republique-vr.json](./159154-republique-vr.json) |
 | Republique: Anniversary Edition | 152324 | [152324-republique-anniversary-edition.json](./152324-republique-anniversary-edition.json) |
@@ -3374,6 +3376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise 2: Resurrection | 20256 | [20256-rise-2-resurrection.json](./20256-rise-2-resurrection.json) |
 | Rise Achlys | 337835 | [337835-rise-achlys.json](./337835-rise-achlys.json) |
 | Rise Again | 248885 | [248885-rise-again.json](./248885-rise-again.json) |
+| Rise and Fall | 138692 | [138692-rise-and-fall.json](./138692-rise-and-fall.json) |
 | Rise Eterna | 113809 | [113809-rise-eterna.json](./113809-rise-eterna.json) |
 | Rise Eterna War | 290503 | [290503-rise-eterna-war.json](./290503-rise-eterna-war.json) |
 | Rise High | 81240 | [81240-rise-high.json](./81240-rise-high.json) |
