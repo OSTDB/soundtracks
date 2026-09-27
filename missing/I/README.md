@@ -817,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ignis | 294170 | [294170-ignis.json](./294170-ignis.json) |
 | Ignis | 81748 | [81748-ignis.json](./81748-ignis.json) |
 | Ignis Corruption | 196241 | [196241-ignis-corruption.json](./196241-ignis-corruption.json) |
+| Ignis Universia: Awakening of the Erudite Empress | 171380 | [171380-ignis-universia-awakening-of-the-erudite-empress.json](./171380-ignis-universia-awakening-of-the-erudite-empress.json) |
 | Ignisia | 328239 | [328239-ignisia.json](./328239-ignisia.json) |
 | Ignistone | 248000 | [248000-ignistone.json](./248000-ignistone.json) |
 | Ignitement | 407440 | [407440-ignitement.json](./407440-ignitement.json) |
@@ -1134,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Maze | 135898 | [135898-impossible-maze.json](./135898-impossible-maze.json) |
 | Impossible Mission | 210090 | [210090-impossible-mission.json](./210090-impossible-mission.json) |
 | Impossible Mission 2025 | 37107 | [37107-impossible-mission-2025.json](./37107-impossible-mission-2025.json) |
+| Impossible Mission Remastered | 171358 | [171358-impossible-mission-remastered.json](./171358-impossible-mission-remastered.json) |
 | Impossible Road 2 | 278688 | [278688-impossible-road-2.json](./278688-impossible-road-2.json) |
 | Impossible Slasher | 194634 | [194634-impossible-slasher.json](./194634-impossible-slasher.json) |
 | Impossible Soaring | 127705 | [127705-impossible-soaring.json](./127705-impossible-soaring.json) |
@@ -1186,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Extremis | 115429 | [115429-in-extremis.json](./115429-in-extremis.json) |
 | In Extremis | 31162 | [31162-in-extremis.json](./31162-in-extremis.json) |
 | In Extremis DX | 225759 | [225759-in-extremis-dx.json](./225759-in-extremis-dx.json) |
+| In Fear I Trust: Episode 3 - Iron and Rust | 171363 | [171363-in-fear-i-trust-episode-3-iron-and-rust.json](./171363-in-fear-i-trust-episode-3-iron-and-rust.json) |
 | In Good Company | 184906 | [184906-in-good-company.json](./184906-in-good-company.json) |
 | In Harness | 369083 | [369083-in-harness.json](./369083-in-harness.json) |
 | In Hazy Clouds | 212761 | [212761-in-hazy-clouds.json](./212761-in-hazy-clouds.json) |
@@ -1351,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Independence War: Defiance | 62990 | [62990-independence-war-defiance.json](./62990-independence-war-defiance.json) |
 | Independent Games | 210063 | [210063-independent-games.json](./210063-independent-games.json) |
 | Indestructotank Anniversary Edition | 279748 | [279748-indestructotank-anniversary-edition.json](./279748-indestructotank-anniversary-edition.json) |
+| Indian Army: Mission Pok | 171399 | [171399-indian-army-mission-pok.json](./171399-indian-army-mission-pok.json) |
 | Indian Bus Simulator: Game | 384620 | [384620-indian-bus-simulator-game.json](./384620-indian-bus-simulator-game.json) |
 | Indian Mutiny: Little Sepoy | 101351 | [101351-indian-mutiny-little-sepoy.json](./101351-indian-mutiny-little-sepoy.json) |
 | Indian Rummy: Fun Card Game | 88171 | [88171-indian-rummy-fun-card-game.json](./88171-indian-rummy-fun-card-game.json) |
