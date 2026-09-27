@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanako in the Abandoned School | 207766 | [207766-hanako-in-the-abandoned-school.json](./207766-hanako-in-the-abandoned-school.json) |
 | Hananezumi | 200742 | [200742-hananezumi.json](./200742-hananezumi.json) |
 | Hanano | 28828 | [28828-hanano.json](./28828-hanano.json) |
+| Hanapon Princess | 135790 | [135790-hanapon-princess.json](./135790-hanapon-princess.json) |
 | Hanata-Kadaka!? | 59993 | [59993-hanata-kadaka.json](./59993-hanata-kadaka.json) |
 | Hanayaka Nari, Waga Ichizoku | 61640 | [61640-hanayaka-nari-waga-ichizoku.json](./61640-hanayaka-nari-waga-ichizoku.json) |
 | Hanctt Origins | 253455 | [253455-hanctt-origins.json](./253455-hanctt-origins.json) |
@@ -2306,6 +2307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her Pound of Flesh | 139386 | [139386-her-pound-of-flesh.json](./139386-her-pound-of-flesh.json) |
 | Her Shoes | 301822 | [301822-her-shoes.json](./301822-her-shoes.json) |
 | Her Trees: The Puzzle House | 285920 | [285920-her-trees-the-puzzle-house.json](./285920-her-trees-the-puzzle-house.json) |
+| Her War | 135752 | [135752-her-war.json](./135752-her-war.json) |
 | Her World | 218401 | [218401-her-world.json](./218401-her-world.json) |
 | Her3 : The Light of Paradise Regained | 393461 | [393461-her3-the-light-of-paradise-regained.json](./393461-her3-the-light-of-paradise-regained.json) |
 | Heracles - Battle of the Gods | 54098 | [54098-heracles-battle-of-the-gods.json](./54098-heracles-battle-of-the-gods.json) |
@@ -4833,6 +4835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huge Jaws | 219665 | [219665-huge-jaws.json](./219665-huge-jaws.json) |
 | Huggy & Friends | 372483 | [372483-huggy-and-friends.json](./372483-huggy-and-friends.json) |
 | Huggy: Love and Rescue | 276861 | [276861-huggy-love-and-rescue.json](./276861-huggy-love-and-rescue.json) |
+| Hugh's Dream | 135797 | [135797-hughs-dream.json](./135797-hughs-dream.json) |
 | Huglings | 388756 | [388756-huglings.json](./388756-huglings.json) |
 | Hugo and the Animals of the Ocean | 286610 | [286610-hugo-and-the-animals-of-the-ocean.json](./286610-hugo-and-the-animals-of-the-ocean.json) |
 | Hugo Gold | 265969 | [265969-hugo-gold.json](./265969-hugo-gold.json) |
