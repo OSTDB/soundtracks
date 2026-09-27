@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden Genesis | 280561 | [280561-eden-genesis.json](./280561-eden-genesis.json) |
 | Eden Isle: Resort Paradise | 261841 | [261841-eden-isle-resort-paradise.json](./261841-eden-isle-resort-paradise.json) |
 | Eden Remains: Arrival | 203944 | [203944-eden-remains-arrival.json](./203944-eden-remains-arrival.json) |
+| Eden Reverse | 125883 | [125883-eden-reverse.json](./125883-eden-reverse.json) |
 | Eden Rising | 81383 | [81383-eden-rising.json](./81383-eden-rising.json) |
 | Eden Rising: Ascendant Expansion | 169326 | [169326-eden-rising-ascendant-expansion.json](./169326-eden-rising-ascendant-expansion.json) |
 | Eden Star | 14377 | [14377-eden-star.json](./14377-eden-star.json) |
@@ -686,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egypt Solitaire: Match 2 Cards | 127237 | [127237-egypt-solitaire-match-2-cards.json](./127237-egypt-solitaire-match-2-cards.json) |
 | Egypt: Old Kingdom - Master of History | 124796 | [124796-egypt-old-kingdom-master-of-history.json](./124796-egypt-old-kingdom-master-of-history.json) |
 | Egypt: Secret of Five Gods | 294206 | [294206-egypt-secret-of-five-gods.json](./294206-egypt-secret-of-five-gods.json) |
+| Eidetus | 125898 | [125898-eidetus.json](./125898-eidetus.json) |
 | Eidolons: Nethergate | 116818 | [116818-eidolons-nethergate.json](./116818-eidolons-nethergate.json) |
 | Eien no Filena | 15899 | [15899-eien-no-filena.json](./15899-eien-no-filena.json) |
 | Eien no Miyako | 372564 | [372564-eien-no-miyako.json](./372564-eien-no-miyako.json) |
@@ -1945,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Era of Combat: Boxing | 189055 | [189055-era-of-combat-boxing.json](./189055-era-of-combat-boxing.json) |
 | Era of Darkness | 287735 | [287735-era-of-darkness.json](./287735-era-of-darkness.json) |
 | Era of Defense | 157509 | [157509-era-of-defense.json](./157509-era-of-defense.json) |
+| Era of Legends | 125897 | [125897-era-of-legends.json](./125897-era-of-legends.json) |
 | Era of Miracles | 124167 | [124167-era-of-miracles.json](./124167-era-of-miracles.json) |
 | Era of Samurai: Code of Love | 163356 | [163356-era-of-samurai-code-of-love.json](./163356-era-of-samurai-code-of-love.json) |
 | Era's Adventures | 247534 | [247534-eras-adventures.json](./247534-eras-adventures.json) |
