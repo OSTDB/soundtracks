@@ -1187,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartooners | 94685 | [94685-cartooners.json](./94685-cartooners.json) |
 | Cartoony Cars 2 | 110773 | [110773-cartoony-cars-2.json](./110773-cartoony-cars-2.json) |
 | Cartridge Defense | 132277 | [132277-cartridge-defense.json](./132277-cartridge-defense.json) |
+| Cartridge Monsters | 158030 | [158030-cartridge-monsters.json](./158030-cartridge-monsters.json) |
 | Carvalho: Los Pájaros de Bangkok | 138790 | [138790-carvalho-los-pajaros-de-bangkok.json](./138790-carvalho-los-pajaros-de-bangkok.json) |
 | Carve The Cave Together | 414602 | [414602-carve-the-cave-together.json](./414602-carve-the-cave-together.json) |
 | Carved Brink | 356881 | [356881-carved-brink.json](./356881-carved-brink.json) |
