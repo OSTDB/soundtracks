@@ -2037,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Long Walk Home | 283815 | [283815-our-long-walk-home.json](./283815-our-long-walk-home.json) |
 | Our Lovely Escape | 111878 | [111878-our-lovely-escape.json](./111878-our-lovely-escape.json) |
 | Our Metal Bowl | 390653 | [390653-our-metal-bowl.json](./390653-our-metal-bowl.json) |
+| Our Mind | 153898 | [153898-our-mind.json](./153898-our-mind.json) |
 | Our Mind | 238496 | [238496-our-mind.json](./238496-our-mind.json) |
 | Our Mini Adventure | 235871 | [235871-our-mini-adventure.json](./235871-our-mini-adventure.json) |
 | Our Ninja World | 199106 | [199106-our-ninja-world.json](./199106-our-ninja-world.json) |
