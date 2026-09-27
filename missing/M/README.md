@@ -1787,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mark of the Deep: Deluxe Edition | 402957 | [402957-mark-of-the-deep-deluxe-edition.json](./402957-mark-of-the-deep-deluxe-edition.json) |
 | Mark of the Ninja: Remastered | 94969 | [94969-mark-of-the-ninja-remastered.json](./94969-mark-of-the-ninja-remastered.json) |
 | Mark the Headless Chicken | 391616 | [391616-mark-the-headless-chicken.json](./391616-mark-the-headless-chicken.json) |
+| Mark Twain's Tom Sawyer: Survival Game | 151108 | [151108-mark-twains-tom-sawyer-survival-game.json](./151108-mark-twains-tom-sawyer-survival-game.json) |
 | Mark-I: Mission Pilot | 156632 | [156632-mark-i-mission-pilot.json](./156632-mark-i-mission-pilot.json) |
 | Mark's Life | 150089 | [150089-marks-life.json](./150089-marks-life.json) |
 | Mark's Magnificent Marble Maze | 199515 | [199515-marks-magnificent-marble-maze.json](./199515-marks-magnificent-marble-maze.json) |
@@ -2777,6 +2778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechajammer | 152269 | [152269-mechajammer.json](./152269-mechajammer.json) |
 | Mechamice | 377276 | [377276-mechamice.json](./377276-mechamice.json) |
 | Mechaneer Resta's Grand Adventure | 236785 | [236785-mechaneer-restas-grand-adventure.json](./236785-mechaneer-restas-grand-adventure.json) |
+| Mechanic 8230 | 151107 | [151107-mechanic-8230.json](./151107-mechanic-8230.json) |
 | Mechanic 8230: Deluxe Edition | 252700 | [252700-mechanic-8230-deluxe-edition.json](./252700-mechanic-8230-deluxe-edition.json) |
 | Mechanic 8230: Escape From Ilgrot - Extended Edition | 259544 | [259544-mechanic-8230-escape-from-ilgrot-extended-edition.json](./259544-mechanic-8230-escape-from-ilgrot-extended-edition.json) |
 | Mechanic Legends | 314472 | [314472-mechanic-legends.json](./314472-mechanic-legends.json) |
