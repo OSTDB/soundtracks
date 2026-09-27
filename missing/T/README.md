@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tail of the Sun | 20814 | [20814-tail-of-the-sun.json](./20814-tail-of-the-sun.json) |
 | Tail-Tale | 194300 | [194300-tail-tale.json](./194300-tail-tale.json) |
 | Tailed Demon Slayer | 174824 | [174824-tailed-demon-slayer.json](./174824-tailed-demon-slayer.json) |
+| Tailgunner | 132130 | [132130-tailgunner.json](./132130-tailgunner.json) |
 | Tailor Tales - Aiden Plus | 305544 | [305544-tailor-tales-aiden-plus.json](./305544-tailor-tales-aiden-plus.json) |
 | Tailor Tales: Eeyok Plus | 399054 | [399054-tailor-tales-eeyok-plus.json](./399054-tailor-tales-eeyok-plus.json) |
 | Tailor Tales: Gray Plus | 305543 | [305543-tailor-tales-gray-plus.json](./305543-tailor-tales-gray-plus.json) |
@@ -4935,6 +4936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XIV: Athena KOF ‘98 Costume | 342871 | [342871-the-king-of-fighters-xiv-athena-kof-98-costume.json](./342871-the-king-of-fighters-xiv-athena-kof-98-costume.json) |
 | The King of Fighters XIV: Blue Mary | 321571 | [321571-the-king-of-fighters-xiv-blue-mary.json](./321571-the-king-of-fighters-xiv-blue-mary.json) |
 | The King of Fighters XIV: Classic Iori Costume | 322961 | [322961-the-king-of-fighters-xiv-classic-iori-costume.json](./322961-the-king-of-fighters-xiv-classic-iori-costume.json) |
+| The King of Fighters XIV: Galaxy Edition | 132080 | [132080-the-king-of-fighters-xiv-galaxy-edition.json](./132080-the-king-of-fighters-xiv-galaxy-edition.json) |
 | The King of Fighters XIV: Heidern | 321570 | [321570-the-king-of-fighters-xiv-heidern.json](./321570-the-king-of-fighters-xiv-heidern.json) |
 | The King of Fighters XIV: Kyo Classic Costume | 342872 | [342872-the-king-of-fighters-xiv-kyo-classic-costume.json](./342872-the-king-of-fighters-xiv-kyo-classic-costume.json) |
 | The King of Fighters XIV: Najd | 321572 | [321572-the-king-of-fighters-xiv-najd.json](./321572-the-king-of-fighters-xiv-najd.json) |
@@ -6394,6 +6396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Principals Bimbofication | 388954 | [388954-the-principals-bimbofication.json](./388954-the-principals-bimbofication.json) |
 | The Prison | 117089 | [117089-the-prison.json](./117089-the-prison.json) |
 | The Prisoning: Fletcher's Quest | 284895 | [284895-the-prisoning-fletchers-quest.json](./284895-the-prisoning-fletchers-quest.json) |
+| The Pro Yakyuu | 132129 | [132129-the-pro-yakyuu.json](./132129-the-pro-yakyuu.json) |
 | The Pro Yakyuu Super '94 | 307092 | [307092-the-pro-yakyuu-super-94.json](./307092-the-pro-yakyuu-super-94.json) |
 | The Problem With Golf | 330156 | [330156-the-problem-with-golf.json](./330156-the-problem-with-golf.json) |
 | The Problems Compound | 59677 | [59677-the-problems-compound.json](./59677-the-problems-compound.json) |
@@ -7942,6 +7945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wall Mustn't Fall | 215793 | [215793-the-wall-mustnt-fall.json](./215793-the-wall-mustnt-fall.json) |
 | The Walls | 289952 | [289952-the-walls.json](./289952-the-walls.json) |
 | The Walsingham Files: Chapter 1 | 116120 | [116120-the-walsingham-files-chapter-1.json](./116120-the-walsingham-files-chapter-1.json) |
+| The Walt Disney World Explorer | 132096 | [132096-the-walt-disney-world-explorer.json](./132096-the-walt-disney-world-explorer.json) |
 | The Wand | 138143 | [138143-the-wand.json](./138143-the-wand.json) |
 | The Wand of Gamelon Remastered | 206135 | [206135-the-wand-of-gamelon-remastered.json](./206135-the-wand-of-gamelon-remastered.json) |
 | The Wand Wizard | 255150 | [255150-the-wand-wizard.json](./255150-the-wand-wizard.json) |
@@ -10589,6 +10593,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Yakuza Idols: Save the Heart of a Rebel Girl | 406079 | [406079-tokyo-yakuza-idols-save-the-heart-of-a-rebel-girl.json](./406079-tokyo-yakuza-idols-save-the-heart-of-a-rebel-girl.json) |
 | Tokyo Yamanote Boys Black Vanilla Disc | 221958 | [221958-tokyo-yamanote-boys-black-vanilla-disc.json](./221958-tokyo-yamanote-boys-black-vanilla-disc.json) |
 | Tokyo Yamanote Boys Dark Cherry Disc | 221955 | [221955-tokyo-yamanote-boys-dark-cherry-disc.json](./221955-tokyo-yamanote-boys-dark-cherry-disc.json) |
+| Tokyo Yamanote Boys for V Fan Disc | 132087 | [132087-tokyo-yamanote-boys-for-v-fan-disc.json](./132087-tokyo-yamanote-boys-for-v-fan-disc.json) |
+| Tokyo Yamanote Boys for V Main Disc | 132086 | [132086-tokyo-yamanote-boys-for-v-main-disc.json](./132086-tokyo-yamanote-boys-for-v-main-disc.json) |
 | Tokyo Yamanote Boys Fresh Ginger Disc | 221957 | [221957-tokyo-yamanote-boys-fresh-ginger-disc.json](./221957-tokyo-yamanote-boys-fresh-ginger-disc.json) |
 | Tokyo Yamanote Boys Honey Milk Disc | 221951 | [221951-tokyo-yamanote-boys-honey-milk-disc.json](./221951-tokyo-yamanote-boys-honey-milk-disc.json) |
 | Tokyo Yamanote Boys Portable Dark Cherry Disc | 221956 | [221956-tokyo-yamanote-boys-portable-dark-cherry-disc.json](./221956-tokyo-yamanote-boys-portable-dark-cherry-disc.json) |
