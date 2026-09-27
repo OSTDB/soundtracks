@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eBall 2 | 238523 | [238523-eball-2.json](./238523-eball-2.json) |
 | Ebanashi: Kaiwa | 195216 | [195216-ebanashi-kaiwa.json](./195216-ebanashi-kaiwa.json) |
 | EBaseball MLB Pro Spirit | 321590 | [321590-ebaseball-mlb-pro-spirit.json](./321590-ebaseball-mlb-pro-spirit.json) |
+| eBaseball Professional Yakyuu Spirits 2021: Grand Slam | 143624 | [143624-ebaseball-professional-yakyuu-spirits-2021-grand-slam.json](./143624-ebaseball-professional-yakyuu-spirits-2021-grand-slam.json) |
 | eBaseball: Pro Spirit 2026 | 410262 | [410262-ebaseball-pro-spirit-2026.json](./410262-ebaseball-pro-spirit-2026.json) |
 | Eberouge | 97318 | [97318-eberouge.json](./97318-eberouge.json) |
 | EbiTapes | 238731 | [238731-ebitapes.json](./238731-ebitapes.json) |
@@ -1645,6 +1646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigma | 241344 | [241344-enigma.json](./241344-enigma.json) |
 | Enigma Da Parda | 335881 | [335881-enigma-da-parda.json](./335881-enigma-da-parda.json) |
 | Enigma do Labirinto | 232455 | [232455-enigma-do-labirinto.json](./232455-enigma-do-labirinto.json) |
+| Enigma Engine | 143561 | [143561-enigma-engine.json](./143561-enigma-engine.json) |
 | Enigma Express: Hidden Objects | 233629 | [233629-enigma-express-hidden-objects.json](./233629-enigma-express-hidden-objects.json) |
 | Enigma Heart | 351000 | [351000-enigma-heart.json](./351000-enigma-heart.json) |
 | Enigma of Sector Sigma | 262986 | [262986-enigma-of-sector-sigma.json](./262986-enigma-of-sector-sigma.json) |
