@@ -1101,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malkin: The Cairn and the Crossroads | 285449 | [285449-malkin-the-cairn-and-the-crossroads.json](./285449-malkin-the-cairn-and-the-crossroads.json) |
 | Malkyrs: Arenas of Eternity | 74365 | [74365-malkyrs-arenas-of-eternity.json](./74365-malkyrs-arenas-of-eternity.json) |
 | Mall Control | 358898 | [358898-mall-control.json](./358898-mall-control.json) |
+| Mall Craze | 129090 | [129090-mall-craze.json](./129090-mall-craze.json) |
 | Mall Manager | 291255 | [291255-mall-manager.json](./291255-mall-manager.json) |
 | Mall Manager Simulator | 309444 | [309444-mall-manager-simulator.json](./309444-mall-manager-simulator.json) |
 | Mall Maniacs | 70681 | [70681-mall-maniacs.json](./70681-mall-maniacs.json) |
@@ -5477,6 +5478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mira's Brush | 152217 | [152217-miras-brush.json](./152217-miras-brush.json) |
 | Mira's Journal | 370918 | [370918-miras-journal.json](./370918-miras-journal.json) |
 | Mira's Mirage Mirror | 361691 | [361691-miras-mirage-mirror.json](./361691-miras-mirage-mirror.json) |
+| Mira's Tale | 129088 | [129088-miras-tale.json](./129088-miras-tale.json) |
 | Miracle Casino Paradise | 37926 | [37926-miracle-casino-paradise.json](./37926-miracle-casino-paradise.json) |
 | Miracle Chou Party Plus: Sanae to Tenshi no Gensou Labyrinth | 206955 | [206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json](./206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json) |
 | Miracle Chou Party: Sanae to Tenshi no Gensou Labyrinth | 206944 | [206944-miracle-chou-party-sanae-to-tenshi-no-gensou-labyrinth.json](./206944-miracle-chou-party-sanae-to-tenshi-no-gensou-labyrinth.json) |
@@ -7333,6 +7335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocon | 395189 | [395189-motocon.json](./395189-motocon.json) |
 | Motocross | 159094 | [159094-motocross.json](./159094-motocross.json) |
 | Motocross | 72336 | [72336-motocross.json](./72336-motocross.json) |
+| Motocross Go! | 129113 | [129113-motocross-go.json](./129113-motocross-go.json) |
 | Motocross Madness | 10260 | [10260-motocross-madness.json](./10260-motocross-madness.json) |
 | Motocross Maniacs 2 | 49891 | [49891-motocross-maniacs-2.json](./49891-motocross-maniacs-2.json) |
 | Motocross Maniacs Advance | 23475 | [23475-motocross-maniacs-advance.json](./23475-motocross-maniacs-advance.json) |
@@ -7507,6 +7510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move The Box: Classic Block Puzzle | 251052 | [251052-move-the-box-classic-block-puzzle.json](./251052-move-the-box-classic-block-puzzle.json) |
 | MoveFort | 318189 | [318189-movefort.json](./318189-movefort.json) |
 | Moveit | 188500 | [188500-moveit.json](./188500-moveit.json) |
+| Moves | 129081 | [129081-moves.json](./129081-moves.json) |
 | Moves Away | 303794 | [303794-moves-away.json](./303794-moves-away.json) |
 | Movie Actor Trivia | 250864 | [250864-movie-actor-trivia.json](./250864-movie-actor-trivia.json) |
 | Movie Award Winners Trivia | 104637 | [104637-movie-award-winners-trivia.json](./104637-movie-award-winners-trivia.json) |
@@ -8769,6 +8773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Virtual Tutor: Reading Pre-K to Kindergarten | 67664 | [67664-my-virtual-tutor-reading-pre-k-to-kindergarten.json](./67664-my-virtual-tutor-reading-pre-k-to-kindergarten.json) |
 | My Waifu Is A Tank Girl! | 391043 | [391043-my-waifu-is-a-tank-girl.json](./391043-my-waifu-is-a-tank-girl.json) |
 | My Wedding and 7 Rings | 238423 | [238423-my-wedding-and-7-rings.json](./238423-my-wedding-and-7-rings.json) |
+| My Wet Leto Comic | 129118 | [129118-my-wet-leto-comic.json](./129118-my-wet-leto-comic.json) |
 | My Wife | 339913 | [339913-my-wife.json](./339913-my-wife.json) |
 | My Wife is a Princess | 216992 | [216992-my-wife-is-a-princess.json](./216992-my-wife-is-a-princess.json) |
 | My Wife is a Spy?! | 347865 | [347865-my-wife-is-a-spy.json](./347865-my-wife-is-a-spy.json) |
