@@ -3380,6 +3380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes: Chapter One - Saints and Sinners | 194958 | [194958-sherlock-holmes-chapter-one-saints-and-sinners.json](./194958-sherlock-holmes-chapter-one-saints-and-sinners.json) |
 | Sherlock Holmes: Consulting Detective | 5435 | [5435-sherlock-holmes-consulting-detective.json](./5435-sherlock-holmes-consulting-detective.json) |
 | Sherlock Holmes: Crimes & Punishments | 5541 | [5541-sherlock-holmes-crimes-and-punishments.json](./5541-sherlock-holmes-crimes-and-punishments.json) |
+| Sherlock Holmes: Crimes and Punishments Redux | 164780 | [164780-sherlock-holmes-crimes-and-punishments-redux.json](./164780-sherlock-holmes-crimes-and-punishments-redux.json) |
 | Sherlock Holmes: Puzzle City | 222297 | [222297-sherlock-holmes-puzzle-city.json](./222297-sherlock-holmes-puzzle-city.json) |
 | Sherlock Holmes: The Awakened | 212664 | [212664-sherlock-holmes-the-awakened.json](./212664-sherlock-holmes-the-awakened.json) |
 | Sherlock Holmes: The Case of the Beheaded Smuggler | 230257 | [230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json](./230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json) |
@@ -7917,6 +7918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souten no Shiroki Kami no Kura: Great Peak | 166501 | [166501-souten-no-shiroki-kami-no-kura-great-peak.json](./166501-souten-no-shiroki-kami-no-kura-great-peak.json) |
 | South of Midnight: Weaver’s Edition | 329136 | [329136-south-of-midnight-weaver-s-edition.json](./329136-south-of-midnight-weaver-s-edition.json) |
 | South Park | 198486 | [198486-south-park.json](./198486-south-park.json) |
+| South Park : The Stick of Truth + The Fractured but Whole Bundle | 164783 | [164783-south-park-the-stick-of-truth-the-fractured-but-whole-bundle.json](./164783-south-park-the-stick-of-truth-the-fractured-but-whole-bundle.json) |
 | South Park 201 - Quizner's Trivia | 76981 | [76981-south-park-201-quizners-trivia.json](./76981-south-park-201-quizners-trivia.json) |
 | South Park Let's Go Tower Defense Play! | 1260 | [1260-south-park-lets-go-tower-defense-play.json](./1260-south-park-lets-go-tower-defense-play.json) |
 | South Park Mega Millionaire | 65752 | [65752-south-park-mega-millionaire.json](./65752-south-park-mega-millionaire.json) |
@@ -12583,6 +12585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Mall: Classic | 201244 | [201244-sunset-mall-classic.json](./201244-sunset-mall-classic.json) |
 | Sunset of Ate | 264611 | [264611-sunset-of-ate.json](./264611-sunset-of-ate.json) |
 | Sunset Overdrive | 3247 | [3247-sunset-overdrive.json](./3247-sunset-overdrive.json) |
+| Sunset Overdrive: Deluxe Edition | 164800 | [164800-sunset-overdrive-deluxe-edition.json](./164800-sunset-overdrive-deluxe-edition.json) |
 | Sunset Racer | 284485 | [284485-sunset-racer.json](./284485-sunset-racer.json) |
 | Sunset Racing | 391305 | [391305-sunset-racing.json](./391305-sunset-racing.json) |
 | Sunset Riders | 276081 | [276081-sunset-riders.json](./276081-sunset-riders.json) |
