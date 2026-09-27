@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kabedon Kareshi: Manatsu no Charao | 240227 | [240227-kabedon-kareshi-manatsu-no-charao.json](./240227-kabedon-kareshi-manatsu-no-charao.json) |
 | Kabod Online | 65209 | [65209-kabod-online.json](./65209-kabod-online.json) |
 | Kaboom Swing | 179151 | [179151-kaboom-swing.json](./179151-kaboom-swing.json) |
+| Kaboom: The Suicide Bombing Game | 174111 | [174111-kaboom-the-suicide-bombing-game.json](./174111-kaboom-the-suicide-bombing-game.json) |
 | Kaboom! | 12309 | [12309-kaboom.json](./12309-kaboom.json) |
 | Kaboom! | 172030 | [172030-kaboom.json](./172030-kaboom.json) |
 | Kaboom! | 198790 | [198790-kaboom.json](./198790-kaboom.json) |
