@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T07:18:14.528Z",
-  "total_missing": 129476,
+  "generated_at": "2026-09-27T07:33:14.474Z",
+  "total_missing": 129526,
   "games": [
     {
       "igdb_id": 186066,
@@ -23218,6 +23218,11 @@
       "file": "missing/A/267405-angel-present.json"
     },
     {
+      "igdb_id": 158038,
+      "game_name": "Angel Sex Pet",
+      "file": "missing/A/158038-angel-sex-pet.json"
+    },
+    {
       "igdb_id": 293088,
       "game_name": "Angel Spirit",
       "file": "missing/A/293088-angel-spirit.json"
@@ -43138,6 +43143,11 @@
       "file": "missing/B/294297-bad-mechanic.json"
     },
     {
+      "igdb_id": 158036,
+      "game_name": "Bad Meme",
+      "file": "missing/B/158036-bad-meme.json"
+    },
+    {
       "igdb_id": 272246,
       "game_name": "Bad Mineral",
       "file": "missing/B/272246-bad-mineral.json"
@@ -56581,6 +56591,11 @@
       "igdb_id": 329400,
       "game_name": "Big's Fishing Quest",
       "file": "missing/B/329400-bigs-fishing-quest.json"
+    },
+    {
+      "igdb_id": 158002,
+      "game_name": "BigChick",
+      "file": "missing/B/158002-bigchick.json"
     },
     {
       "igdb_id": 80972,
@@ -84316,6 +84331,11 @@
       "igdb_id": 132277,
       "game_name": "Cartridge Defense",
       "file": "missing/C/132277-cartridge-defense.json"
+    },
+    {
+      "igdb_id": 158030,
+      "game_name": "Cartridge Monsters",
+      "file": "missing/C/158030-cartridge-monsters.json"
     },
     {
       "igdb_id": 138790,
@@ -130273,6 +130293,11 @@
       "file": "missing/D/165641-decent-into-sector-32.json"
     },
     {
+      "igdb_id": 158034,
+      "game_name": "Decently Bad Tower Defense",
+      "file": "missing/D/158034-decently-bad-tower-defense.json"
+    },
+    {
       "igdb_id": 386840,
       "game_name": "Deceptiive Love Ballad The Blasphemer",
       "file": "missing/D/386840-deceptiive-love-ballad-the-blasphemer.json"
@@ -171933,6 +171958,11 @@
       "file": "missing/E/88323-euchre-by-webfoot.json"
     },
     {
+      "igdb_id": 158031,
+      "game_name": "Euclyca",
+      "file": "missing/E/158031-euclyca.json"
+    },
+    {
       "igdb_id": 398401,
       "game_name": "EUcraft",
       "file": "missing/E/398401-eucraft.json"
@@ -201061,6 +201091,11 @@
       "igdb_id": 153406,
       "game_name": "Friki",
       "file": "missing/F/153406-friki.json"
+    },
+    {
+      "igdb_id": 158029,
+      "game_name": "Frikin the Laser Shark",
+      "file": "missing/F/158029-frikin-the-laser-shark.json"
     },
     {
       "igdb_id": 34426,
@@ -244891,6 +244926,11 @@
       "igdb_id": 324703,
       "game_name": "Himei Dam",
       "file": "missing/H/324703-himei-dam.json"
+    },
+    {
+      "igdb_id": 158037,
+      "game_name": "Himeko Maid",
+      "file": "missing/H/158037-himeko-maid.json"
     },
     {
       "igdb_id": 195095,
@@ -305798,6 +305838,11 @@
       "file": "missing/L/46964-lode-runner-the-legend-returns.json"
     },
     {
+      "igdb_id": 158033,
+      "game_name": "Lodestar",
+      "file": "missing/L/158033-lodestar.json"
+    },
+    {
       "igdb_id": 130188,
       "game_name": "Lodestone: The crazy cave adventures of mad Stony Tony and his encounter with the exploding rolling stones",
       "file": "missing/L/130188-lodestone-the-crazy-cave-adventures-of-mad-stony-tony-and-his-encounter-with-the-exploding-rolling-stones.json"
@@ -334303,6 +334348,26 @@
       "file": "missing/M/161820-microsoft-flight-simulator-x-steam-edition-737-extreme-sound.json"
     },
     {
+      "igdb_id": 157994,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Airbus A318/A319",
+      "file": "missing/M/157994-microsoft-flight-simulator-x-steam-edition-airbus-a318-a319.json"
+    },
+    {
+      "igdb_id": 158016,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Airbus A320/A321",
+      "file": "missing/M/158016-microsoft-flight-simulator-x-steam-edition-airbus-a320-a321.json"
+    },
+    {
+      "igdb_id": 158006,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Airbus Series Vol.4",
+      "file": "missing/M/158006-microsoft-flight-simulator-x-steam-edition-airbus-series-vol-4.json"
+    },
+    {
+      "igdb_id": 158018,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Ajaccio",
+      "file": "missing/M/158018-microsoft-flight-simulator-x-steam-edition-ajaccio.json"
+    },
+    {
       "igdb_id": 161847,
       "game_name": "Microsoft Flight Simulator X: Steam Edition - Albatros D.III (Oef) 253",
       "file": "missing/M/161847-microsoft-flight-simulator-x-steam-edition-albatros-d-iii-oef-253.json"
@@ -334323,9 +334388,19 @@
       "file": "missing/M/161877-microsoft-flight-simulator-x-steam-edition-beechcraft-d17-staggerwing.json"
     },
     {
+      "igdb_id": 157990,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Beechcraft Duchess 76",
+      "file": "missing/M/157990-microsoft-flight-simulator-x-steam-edition-beechcraft-duchess-76.json"
+    },
+    {
       "igdb_id": 161881,
       "game_name": "Microsoft Flight Simulator X: Steam Edition - Ben Gurion Airport",
       "file": "missing/M/161881-microsoft-flight-simulator-x-steam-edition-ben-gurion-airport.json"
+    },
+    {
+      "igdb_id": 158023,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Boeing 767-200/300",
+      "file": "missing/M/158023-microsoft-flight-simulator-x-steam-edition-boeing-767-200-300.json"
     },
     {
       "igdb_id": 161874,
@@ -334343,9 +334418,44 @@
       "file": "missing/M/161872-microsoft-flight-simulator-x-steam-edition-catalina-airport-kavx.json"
     },
     {
+      "igdb_id": 157992,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Cessna 152",
+      "file": "missing/M/157992-microsoft-flight-simulator-x-steam-edition-cessna-152.json"
+    },
+    {
+      "igdb_id": 158013,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Cessna C172N Skyhawk II",
+      "file": "missing/M/158013-microsoft-flight-simulator-x-steam-edition-cessna-c172n-skyhawk-ii.json"
+    },
+    {
+      "igdb_id": 158003,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Cessna C172RG Cutlass",
+      "file": "missing/M/158003-microsoft-flight-simulator-x-steam-edition-cessna-c172rg-cutlass.json"
+    },
+    {
       "igdb_id": 161822,
       "game_name": "Microsoft Flight Simulator X: Steam Edition - Cessna C185F Skywagon",
       "file": "missing/M/161822-microsoft-flight-simulator-x-steam-edition-cessna-c185f-skywagon.json"
+    },
+    {
+      "igdb_id": 158005,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Cessna C337H Skymaster",
+      "file": "missing/M/158005-microsoft-flight-simulator-x-steam-edition-cessna-c337h-skymaster.json"
+    },
+    {
+      "igdb_id": 158010,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Cessna CT210M Centurion II",
+      "file": "missing/M/158010-microsoft-flight-simulator-x-steam-edition-cessna-ct210m-centurion-ii.json"
+    },
+    {
+      "igdb_id": 158007,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Conington Airfield",
+      "file": "missing/M/158007-microsoft-flight-simulator-x-steam-edition-conington-airfield.json"
+    },
+    {
+      "igdb_id": 158012,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Convair XB-46",
+      "file": "missing/M/158012-microsoft-flight-simulator-x-steam-edition-convair-xb-46.json"
     },
     {
       "igdb_id": 161778,
@@ -334398,14 +334508,29 @@
       "file": "missing/M/161836-microsoft-flight-simulator-x-steam-edition-extra-300s.json"
     },
     {
+      "igdb_id": 158024,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - F-105D Thunderchief",
+      "file": "missing/M/158024-microsoft-flight-simulator-x-steam-edition-f-105d-thunderchief.json"
+    },
+    {
       "igdb_id": 161852,
       "game_name": "Microsoft Flight Simulator X: Steam Edition - Fairchild PT-26 Cornell",
       "file": "missing/M/161852-microsoft-flight-simulator-x-steam-edition-fairchild-pt-26-cornell.json"
     },
     {
+      "igdb_id": 158009,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Farm Strips Vol 2: Central and Southern England",
+      "file": "missing/M/158009-microsoft-flight-simulator-x-steam-edition-farm-strips-vol-2-central-and-southern-england.json"
+    },
+    {
       "igdb_id": 161838,
       "game_name": "Microsoft Flight Simulator X: Steam Edition - Farm Strips Volume 1: South East England",
       "file": "missing/M/161838-microsoft-flight-simulator-x-steam-edition-farm-strips-volume-1-south-east-england.json"
+    },
+    {
+      "igdb_id": 158001,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - First Flight Airport (KFFA)",
+      "file": "missing/M/158001-microsoft-flight-simulator-x-steam-edition-first-flight-airport-kffa.json"
     },
     {
       "igdb_id": 161865,
@@ -334468,6 +334593,11 @@
       "file": "missing/M/161824-microsoft-flight-simulator-x-steam-edition-grumman-f11f-1-tiger.json"
     },
     {
+      "igdb_id": 158022,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Grumman Gulfhawk II",
+      "file": "missing/M/158022-microsoft-flight-simulator-x-steam-edition-grumman-gulfhawk-ii.json"
+    },
+    {
       "igdb_id": 161873,
       "game_name": "Microsoft Flight Simulator X: Steam Edition - Grumman HU-16B Albatross",
       "file": "missing/M/161873-microsoft-flight-simulator-x-steam-edition-grumman-hu-16b-albatross.json"
@@ -334508,6 +334638,16 @@
       "file": "missing/M/161853-microsoft-flight-simulator-x-steam-edition-lukla-airport-vnlk.json"
     },
     {
+      "igdb_id": 157995,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - McDonnell Douglas DC-8 Series 10 - 40",
+      "file": "missing/M/157995-microsoft-flight-simulator-x-steam-edition-mcdonnell-douglas-dc-8-series-10-40.json"
+    },
+    {
+      "igdb_id": 157991,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - McDonnell F3H-2 Demon",
+      "file": "missing/M/157991-microsoft-flight-simulator-x-steam-edition-mcdonnell-f3h-2-demon.json"
+    },
+    {
       "igdb_id": 161846,
       "game_name": "Microsoft Flight Simulator X: Steam Edition - Messerschmitt Bf 109",
       "file": "missing/M/161846-microsoft-flight-simulator-x-steam-edition-messerschmitt-bf-109.json"
@@ -334516,6 +334656,26 @@
       "igdb_id": 161888,
       "game_name": "Microsoft Flight Simulator X: Steam Edition - Natural Tree Environment X",
       "file": "missing/M/161888-microsoft-flight-simulator-x-steam-edition-natural-tree-environment-x.json"
+    },
+    {
+      "igdb_id": 157993,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Night Environment: Connecticut",
+      "file": "missing/M/157993-microsoft-flight-simulator-x-steam-edition-night-environment-connecticut.json"
+    },
+    {
+      "igdb_id": 157999,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Night Environment: Spain",
+      "file": "missing/M/157999-microsoft-flight-simulator-x-steam-edition-night-environment-spain.json"
+    },
+    {
+      "igdb_id": 158020,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Night Environment: Sweden",
+      "file": "missing/M/158020-microsoft-flight-simulator-x-steam-edition-night-environment-sweden.json"
+    },
+    {
+      "igdb_id": 158021,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - North American F-86F-1 Sabre",
+      "file": "missing/M/158021-microsoft-flight-simulator-x-steam-edition-north-american-f-86f-1-sabre.json"
     },
     {
       "igdb_id": 161843,
@@ -334598,6 +334758,11 @@
       "file": "missing/M/161832-microsoft-flight-simulator-x-steam-edition-santa-barbara-airport-ksba.json"
     },
     {
+      "igdb_id": 158025,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Seychelles",
+      "file": "missing/M/158025-microsoft-flight-simulator-x-steam-edition-seychelles.json"
+    },
+    {
       "igdb_id": 161837,
       "game_name": "Microsoft Flight Simulator X: Steam Edition - Skychaser",
       "file": "missing/M/161837-microsoft-flight-simulator-x-steam-edition-skychaser.json"
@@ -334608,9 +334773,49 @@
       "file": "missing/M/82475-microsoft-flight-simulator-x-steam-edition-spaceport.json"
     },
     {
+      "igdb_id": 158015,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Steamboat Springs (KSBS)",
+      "file": "missing/M/158015-microsoft-flight-simulator-x-steam-edition-steamboat-springs-ksbs.json"
+    },
+    {
+      "igdb_id": 158004,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Stinson L-5 Sentinel",
+      "file": "missing/M/158004-microsoft-flight-simulator-x-steam-edition-stinson-l-5-sentinel.json"
+    },
+    {
       "igdb_id": 156181,
       "game_name": "Microsoft Flight Simulator X: Steam Edition - Stornoway Airport (EGPO)",
       "file": "missing/M/156181-microsoft-flight-simulator-x-steam-edition-stornoway-airport-egpo.json"
+    },
+    {
+      "igdb_id": 157989,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Toposim Australia",
+      "file": "missing/M/157989-microsoft-flight-simulator-x-steam-edition-toposim-australia.json"
+    },
+    {
+      "igdb_id": 158000,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Toposim East Africa",
+      "file": "missing/M/158000-microsoft-flight-simulator-x-steam-edition-toposim-east-africa.json"
+    },
+    {
+      "igdb_id": 157997,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Toposim Mexico",
+      "file": "missing/M/157997-microsoft-flight-simulator-x-steam-edition-toposim-mexico.json"
+    },
+    {
+      "igdb_id": 158011,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Toposim Southeast Asia",
+      "file": "missing/M/158011-microsoft-flight-simulator-x-steam-edition-toposim-southeast-asia.json"
+    },
+    {
+      "igdb_id": 157998,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Toposim Southern Africa",
+      "file": "missing/M/157998-microsoft-flight-simulator-x-steam-edition-toposim-southern-africa.json"
+    },
+    {
+      "igdb_id": 157996,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Toposim US West Coast",
+      "file": "missing/M/157996-microsoft-flight-simulator-x-steam-edition-toposim-us-west-coast.json"
     },
     {
       "igdb_id": 161817,
@@ -334626,6 +334831,21 @@
       "igdb_id": 161849,
       "game_name": "Microsoft Flight Simulator X: Steam Edition - Ultimate VFR Guam",
       "file": "missing/M/161849-microsoft-flight-simulator-x-steam-edition-ultimate-vfr-guam.json"
+    },
+    {
+      "igdb_id": 158017,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - US Cities X: Las Vegas",
+      "file": "missing/M/158017-microsoft-flight-simulator-x-steam-edition-us-cities-x-las-vegas.json"
+    },
+    {
+      "igdb_id": 158026,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - US Cities X: Los Angeles",
+      "file": "missing/M/158026-microsoft-flight-simulator-x-steam-edition-us-cities-x-los-angeles.json"
+    },
+    {
+      "igdb_id": 158019,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - US Cities X: San Francisco",
+      "file": "missing/M/158019-microsoft-flight-simulator-x-steam-edition-us-cities-x-san-francisco.json"
     },
     {
       "igdb_id": 161862,
@@ -334666,6 +334886,11 @@
       "igdb_id": 161850,
       "game_name": "Microsoft Flight Simulator X: Steam Edition - Zurich Airport",
       "file": "missing/M/161850-microsoft-flight-simulator-x-steam-edition-zurich-airport.json"
+    },
+    {
+      "igdb_id": 158014,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition: Farm Strips Vol 3 - South West England & Wales",
+      "file": "missing/M/158014-microsoft-flight-simulator-x-steam-edition-farm-strips-vol-3-south-west-england-and-wales.json"
     },
     {
       "igdb_id": 293926,
@@ -348946,6 +349171,11 @@
       "igdb_id": 285047,
       "game_name": "Mountinuum",
       "file": "missing/M/285047-mountinuum.json"
+    },
+    {
+      "igdb_id": 158035,
+      "game_name": "Mourning Inc.",
+      "file": "missing/M/158035-mourning-inc.json"
     },
     {
       "igdb_id": 306174,
@@ -374471,6 +374701,11 @@
       "igdb_id": 125845,
       "game_name": "Oco",
       "file": "missing/O/125845-oco.json"
+    },
+    {
+      "igdb_id": 158027,
+      "game_name": "Ocolast",
+      "file": "missing/O/158027-ocolast.json"
     },
     {
       "igdb_id": 329061,
@@ -414961,6 +415196,11 @@
       "igdb_id": 374672,
       "game_name": "Primal Dinosaur Shooter: Dino Killer",
       "file": "missing/P/374672-primal-dinosaur-shooter-dino-killer.json"
+    },
+    {
+      "igdb_id": 158008,
+      "game_name": "Primal Dungeon",
+      "file": "missing/P/158008-primal-dungeon.json"
     },
     {
       "igdb_id": 374822,
@@ -510988,6 +511228,11 @@
       "file": "missing/S/336520-stormbinders.json"
     },
     {
+      "igdb_id": 158028,
+      "game_name": "Stormblades",
+      "file": "missing/S/158028-stormblades.json"
+    },
+    {
       "igdb_id": 83917,
       "game_name": "StormBorn: War of Legends",
       "file": "missing/S/83917-stormborn-war-of-legends.json"
@@ -593961,6 +594206,11 @@
       "igdb_id": 253022,
       "game_name": "Tribio puzzle: Strategic Spot",
       "file": "missing/T/253022-tribio-puzzle-strategic-spot.json"
+    },
+    {
+      "igdb_id": 158032,
+      "game_name": "Triblock",
+      "file": "missing/T/158032-triblock.json"
     },
     {
       "igdb_id": 104685,
