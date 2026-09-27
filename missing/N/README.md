@@ -254,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narcissu | 95463 | [95463-narcissu.json](./95463-narcissu.json) |
 | Narcissu 3rd -Die Dritte Welt- | 93513 | [93513-narcissu-3rd-die-dritte-welt.json](./93513-narcissu-3rd-die-dritte-welt.json) |
 | Narcissu: A Little Iris | 127324 | [127324-narcissu-a-little-iris.json](./127324-narcissu-a-little-iris.json) |
+| Narcissu: Himeko's Epilogue | 122263 | [122263-narcissu-himekos-epilogue.json](./122263-narcissu-himekos-epilogue.json) |
 | Narcissus | 335682 | [335682-narcissus.json](./335682-narcissus.json) |
 | Narco Express | 353399 | [353399-narco-express.json](./353399-narco-express.json) |
 | Narco Terror | 16446 | [16446-narco-terror.json](./16446-narco-terror.json) |
@@ -782,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Carbon - Own the City | 197881 | [197881-need-for-speed-carbon-own-the-city.json](./197881-need-for-speed-carbon-own-the-city.json) |
 | Need for Speed: Carbon - Own the City | 248119 | [248119-need-for-speed-carbon-own-the-city.json](./248119-need-for-speed-carbon-own-the-city.json) |
 | Need for Speed: Carbon - Own the City | 248120 | [248120-need-for-speed-carbon-own-the-city.json](./248120-need-for-speed-carbon-own-the-city.json) |
+| Need for Speed: Collector's Series | 122269 | [122269-need-for-speed-collectors-series.json](./122269-need-for-speed-collectors-series.json) |
 | Need for Speed: Heat | 119161 | [119161-need-for-speed-heat.json](./119161-need-for-speed-heat.json) |
 | Need for Speed: Heat - McLaren F1 Black Market Delivery | 140381 | [140381-need-for-speed-heat-mclaren-f1-black-market-delivery.json](./140381-need-for-speed-heat-mclaren-f1-black-market-delivery.json) |
 | Need for Speed: Heat - Red Bull Nissan 370Z | 140382 | [140382-need-for-speed-heat-red-bull-nissan-370z.json](./140382-need-for-speed-heat-red-bull-nissan-370z.json) |
