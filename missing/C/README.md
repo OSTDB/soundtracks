@@ -2182,6 +2182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chains of Fury | 125213 | [125213-chains-of-fury.json](./125213-chains-of-fury.json) |
 | Chains Of Reality | 334196 | [334196-chains-of-reality.json](./334196-chains-of-reality.json) |
 | Chains on Sand | 372001 | [372001-chains-on-sand.json](./372001-chains-on-sand.json) |
+| Chainsaw Dance | 159059 | [159059-chainsaw-dance.json](./159059-chainsaw-dance.json) |
 | Chainsaw Juice King | 321143 | [321143-chainsaw-juice-king.json](./321143-chainsaw-juice-king.json) |
 | Chainsaw Maniac | 289402 | [289402-chainsaw-maniac.json](./289402-chainsaw-maniac.json) |
 | Chainsaw Snuff Shots | 349477 | [349477-chainsaw-snuff-shots.json](./349477-chainsaw-snuff-shots.json) |
@@ -5593,6 +5594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contenders: Arena | 255684 | [255684-contenders-arena.json](./255684-contenders-arena.json) |
 | Content Caution: The Horror Filmmaker | 335090 | [335090-content-caution-the-horror-filmmaker.json](./335090-content-caution-the-horror-filmmaker.json) |
 | Content Warning: Scary Filming | 337073 | [337073-content-warning-scary-filming.json](./337073-content-warning-scary-filming.json) |
+| Context Insensitive | 159044 | [159044-context-insensitive.json](./159044-context-insensitive.json) |
 | Continent of the Ninth Golden | 256337 | [256337-continent-of-the-ninth-golden.json](./256337-continent-of-the-ninth-golden.json) |
 | Continental Cafe | 52830 | [52830-continental-cafe.json](./52830-continental-cafe.json) |
 | Continental Drift | 135834 | [135834-continental-drift.json](./135834-continental-drift.json) |
@@ -8030,6 +8032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursor Thief | 261893 | [261893-cursor-thief.json](./261893-cursor-thief.json) |
 | Cursorcana | 343240 | [343240-cursorcana.json](./343240-cursorcana.json) |
 | CursorLublub | 334207 | [334207-cursorlublub.json](./334207-cursorlublub.json) |
+| Curtain | 159075 | [159075-curtain.json](./159075-curtain.json) |
 | Curtain Call | 197133 | [197133-curtain-call.json](./197133-curtain-call.json) |
 | Curtain Call | 405046 | [405046-curtain-call.json](./405046-curtain-call.json) |
 | Curtain Drop | 352828 | [352828-curtain-drop.json](./352828-curtain-drop.json) |
