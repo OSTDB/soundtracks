@@ -3919,6 +3919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky of Love | 114090 | [114090-lucky-of-love.json](./114090-lucky-of-love.json) |
 | Lucky One | 273973 | [273973-lucky-one.json](./273973-lucky-one.json) |
 | Lucky Paradox | 239300 | [239300-lucky-paradox.json](./239300-lucky-paradox.json) |
+| Lucky Penguin | 141104 | [141104-lucky-penguin.json](./141104-lucky-penguin.json) |
 | Lucky Pikinini: Zombie Rampage | 325870 | [325870-lucky-pikinini-zombie-rampage.json](./325870-lucky-pikinini-zombie-rampage.json) |
 | Lucky Pirates | 346066 | [346066-lucky-pirates.json](./346066-lucky-pirates.json) |
 | Lucky Punk | 402372 | [402372-lucky-punk.json](./402372-lucky-punk.json) |
@@ -4188,6 +4189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust for Speed | 152807 | [152807-lust-for-speed.json](./152807-lust-for-speed.json) |
 | Lust from Beyond | 115903 | [115903-lust-from-beyond.json](./115903-lust-from-beyond.json) |
 | Lust From Beyond: M Edition | 152313 | [152313-lust-from-beyond-m-edition.json](./152313-lust-from-beyond-m-edition.json) |
+| Lust from Beyond: Scarlet | 141129 | [141129-lust-from-beyond-scarlet.json](./141129-lust-from-beyond-scarlet.json) |
 | Lust Galaxy | 309478 | [309478-lust-galaxy.json](./309478-lust-galaxy.json) |
 | Lust Girl | 241514 | [241514-lust-girl.json](./241514-lust-girl.json) |
 | Lust Harem 1001 Pleasures | 384757 | [384757-lust-harem-1001-pleasures.json](./384757-lust-harem-1001-pleasures.json) |
