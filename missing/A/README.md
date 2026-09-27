@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACE | 329185 | [329185-ace.json](./329185-ace.json) |
 | ACE | 329188 | [329188-ace.json](./329188-ace.json) |
 | ACE | 329190 | [329190-ace.json](./329190-ace.json) |
+| ACE / ACE 2 | 138690 | [138690-ace-ace-2.json](./138690-ace-ace-2.json) |
 | Ace Angler | 144863 | [144863-ace-angler.json](./144863-ace-angler.json) |
 | Ace Angler | 292017 | [292017-ace-angler.json](./292017-ace-angler.json) |
 | Ace Attorney Investigations 0: Quercus Alba Dating Simulator | 237350 | [237350-ace-attorney-investigations-0-quercus-alba-dating-simulator.json](./237350-ace-attorney-investigations-0-quercus-alba-dating-simulator.json) |
