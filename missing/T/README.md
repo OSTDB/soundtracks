@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takamori Puzzle | 264328 | [264328-takamori-puzzle.json](./264328-takamori-puzzle.json) |
 | Takanaria | 113495 | [113495-takanaria.json](./113495-takanaria.json) |
 | Takara Cards | 194401 | [194401-takara-cards.json](./194401-takara-cards.json) |
+| Takara-hai Oozumou Eisei Basho | 151639 | [151639-takara-hai-oozumou-eisei-basho.json](./151639-takara-hai-oozumou-eisei-basho.json) |
 | Takatron: 2098 | 384785 | [384785-takatron-2098.json](./384785-takatron-2098.json) |
 | Take 'Em Out | 71802 | [71802-take-em-out.json](./71802-take-em-out.json) |
 | Take a Break! Crosswords | 76557 | [76557-take-a-break-crosswords.json](./76557-take-a-break-crosswords.json) |
@@ -955,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Jinguji Saburo Series No. 19: Rensa Suru Noroi | 347269 | [347269-tantei-jinguji-saburo-series-no-19-rensa-suru-noroi.json](./347269-tantei-jinguji-saburo-series-no-19-rensa-suru-noroi.json) |
 | Tantei Jinguji Saburo Series No. 20: Naki Ko no Shouzou | 347271 | [347271-tantei-jinguji-saburo-series-no-20-naki-ko-no-shouzou.json](./347271-tantei-jinguji-saburo-series-no-20-naki-ko-no-shouzou.json) |
 | Tantei Jinguji Saburo Series No. 21: Oni-hime-den | 347272 | [347272-tantei-jinguji-saburo-series-no-21-oni-hime-den.json](./347272-tantei-jinguji-saburo-series-no-21-oni-hime-den.json) |
+| Tantei Jinguji Saburo: Fukushuu no Rondo | 151624 | [151624-tantei-jinguji-saburo-fukushuu-no-rondo.json](./151624-tantei-jinguji-saburo-fukushuu-no-rondo.json) |
 | Tantei Jinguji Saburo: Kiken na Futari - Kouhen | 41414 | [41414-tantei-jinguji-saburo-kiken-na-futari-kouhen.json](./41414-tantei-jinguji-saburo-kiken-na-futari-kouhen.json) |
 | Tantei Jinguji Saburo: Kiken na Futari - Zenpen | 41413 | [41413-tantei-jinguji-saburo-kiken-na-futari-zenpen.json](./41413-tantei-jinguji-saburo-kiken-na-futari-zenpen.json) |
 | Tantei Jinguji Saburo: Rensa Suru Noroi & Nazono-Jikenbo | 347328 | [347328-tantei-jinguji-saburo-rensa-suru-noroi-and-nazono-jikenbo.json](./347328-tantei-jinguji-saburo-rensa-suru-noroi-and-nazono-jikenbo.json) |
@@ -8807,6 +8809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tien Len: Killer 13 | 175422 | [175422-tien-len-killer-13.json](./175422-tien-len-killer-13.json) |
 | Tier 1 | 30204 | [30204-tier-1.json](./30204-tier-1.json) |
 | Tierra: Adventure Mystery | 174306 | [174306-tierra-adventure-mystery.json](./174306-tierra-adventure-mystery.json) |
+| Tiěxuè Gōngshā | 151615 | [151615-tiexue-gongsha.json](./151615-tiexue-gongsha.json) |
 | Tiffany Alvord Dream World | 233079 | [233079-tiffany-alvord-dream-world.json](./233079-tiffany-alvord-dream-world.json) |
 | Tiger & Bunny: Hero's Day | 63842 | [63842-tiger-and-bunny-heros-day.json](./63842-tiger-and-bunny-heros-day.json) |
 | Tiger Casino & Slot Game | 373625 | [373625-tiger-casino-and-slot-game.json](./373625-tiger-casino-and-slot-game.json) |
@@ -12806,6 +12809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tree Simulator 2021 | 230253 | [230253-tree-simulator-2021.json](./230253-tree-simulator-2021.json) |
 | Tree Simulator 2022 | 152372 | [152372-tree-simulator-2022.json](./152372-tree-simulator-2022.json) |
 | Tree Spade Truck | 90670 | [90670-tree-spade-truck.json](./90670-tree-spade-truck.json) |
+| Tree Strike | 151612 | [151612-tree-strike.json](./151612-tree-strike.json) |
 | Tree World | 225749 | [225749-tree-world.json](./225749-tree-world.json) |
 | Tree's Love Crossing Above | 346571 | [346571-trees-love-crossing-above.json](./346571-trees-love-crossing-above.json) |
 | Treehouse Trouble | 181133 | [181133-treehouse-trouble.json](./181133-treehouse-trouble.json) |
