@@ -1581,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infestation Sea | 273420 | [273420-infestation-sea.json](./273420-infestation-sea.json) |
 | Infestation: Battle Royale | 130205 | [130205-infestation-battle-royale.json](./130205-infestation-battle-royale.json) |
 | Infestation: Origins | 281398 | [281398-infestation-origins.json](./281398-infestation-origins.json) |
+| Infestation: Revival | 122933 | [122933-infestation-revival.json](./122933-infestation-revival.json) |
 | Infested Grounds | 275068 | [275068-infested-grounds.json](./275068-infested-grounds.json) |
 | Infested Lands | 248014 | [248014-infested-lands.json](./248014-infested-lands.json) |
 | Infested Planet: Planetary Campaign | 53231 | [53231-infested-planet-planetary-campaign.json](./53231-infested-planet-planetary-campaign.json) |
