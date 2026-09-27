@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yunoha na Spring!: Cherishing Time | 135855 | [135855-yunoha-na-spring-cherishing-time.json](./135855-yunoha-na-spring-cherishing-time.json) |
 | Yunoha na Spring!: Mellow Times for Nintendo Switch | 136836 | [136836-yunoha-na-spring-mellow-times-for-nintendo-switch.json](./136836-yunoha-na-spring-mellow-times-for-nintendo-switch.json) |
 | Yunyun Syndrome!?: Rhythm Psychosis | 302655 | [302655-yunyun-syndrome-rhythm-psychosis.json](./302655-yunyun-syndrome-rhythm-psychosis.json) |
+| Yuoni | 146806 | [146806-yuoni.json](./146806-yuoni.json) |
 | Yupi | 153394 | [153394-yupi.json](./153394-yupi.json) |
 | Yupitergrad | 142438 | [142438-yupitergrad.json](./142438-yupitergrad.json) |
 | Yupitergrad 2: The Lost Station | 202106 | [202106-yupitergrad-2-the-lost-station.json](./202106-yupitergrad-2-the-lost-station.json) |
