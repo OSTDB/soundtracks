@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oceanopolis 2000 | 398361 | [398361-oceanopolis-2000.json](./398361-oceanopolis-2000.json) |
 | Oceans | 224563 | [224563-oceans.json](./224563-oceans.json) |
 | Oceans Below | 37124 | [37124-oceans-below.json](./37124-oceans-below.json) |
+| Oceans We Make | 126528 | [126528-oceans-we-make.json](./126528-oceans-we-make.json) |
 | Oceanside | 274198 | [274198-oceanside.json](./274198-oceanside.json) |
 | Oceanside Whispers | 390676 | [390676-oceanside-whispers.json](./390676-oceanside-whispers.json) |
 | Oceanspirit Danish | 57102 | [57102-oceanspirit-danish.json](./57102-oceanspirit-danish.json) |
@@ -1859,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ortheo Voyage | 289457 | [289457-ortheo-voyage.json](./289457-ortheo-voyage.json) |
 | Ortho | 152322 | [152322-ortho.json](./152322-ortho.json) |
 | Orthodox | 138583 | [138583-orthodox.json](./138583-orthodox.json) |
+| Ortolan | 126499 | [126499-ortolan.json](./126499-ortolan.json) |
 | Ortunia Mysteries: Where Did Everybody Go? | 323519 | [323519-ortunia-mysteries-where-did-everybody-go.json](./323519-ortunia-mysteries-where-did-everybody-go.json) |
 | Orudo Taima | 184884 | [184884-orudo-taima.json](./184884-orudo-taima.json) |
 | Orun | 411713 | [411713-orun.json](./411713-orun.json) |
@@ -2423,6 +2425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overdungeon - Mr.Almighty (Card Pack) | 208372 | [208372-overdungeon-mr-almighty-card-pack.json](./208372-overdungeon-mr-almighty-card-pack.json) |
 | Overencumbered In Another World | 333382 | [333382-overencumbered-in-another-world.json](./333382-overencumbered-in-another-world.json) |
 | Overfall | 17253 | [17253-overfall.json](./17253-overfall.json) |
+| Overflo Game | 126538 | [126538-overflo-game.json](./126538-overflo-game.json) |
 | Overflower | 316858 | [316858-overflower.json](./316858-overflower.json) |
 | Overground | 178495 | [178495-overground.json](./178495-overground.json) |
 | Overgrown | 147395 | [147395-overgrown.json](./147395-overgrown.json) |
