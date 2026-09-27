@@ -2226,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koshotengai no Hashihime Noma | 103176 | [103176-koshotengai-no-hashihime-noma.json](./103176-koshotengai-no-hashihime-noma.json) |
 | Kosmik Pirate | 300032 | [300032-kosmik-pirate.json](./300032-kosmik-pirate.json) |
 | Kosmo Azs | 257922 | [257922-kosmo-azs.json](./257922-kosmo-azs.json) |
+| Kosmo Laika: Space and Beyond | 164247 | [164247-kosmo-laika-space-and-beyond.json](./164247-kosmo-laika-space-and-beyond.json) |
 | Kosmo Skirmish | 291771 | [291771-kosmo-skirmish.json](./291771-kosmo-skirmish.json) |
 | Kosmobreak | 285518 | [285518-kosmobreak.json](./285518-kosmobreak.json) |
 | Kosmonavtes: Escape Reality | 155983 | [155983-kosmonavtes-escape-reality.json](./155983-kosmonavtes-escape-reality.json) |
