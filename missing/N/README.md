@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature of Dread | 403683 | [403683-nature-of-dread.json](./403683-nature-of-dread.json) |
 | Nature Park | 274729 | [274729-nature-park.json](./274729-nature-park.json) |
 | Nature Prhysm | 206374 | [206374-nature-prhysm.json](./206374-nature-prhysm.json) |
+| Nature Treks: Together | 152817 | [152817-nature-treks-together.json](./152817-nature-treks-together.json) |
 | Nature Walk Simulator | 28199 | [28199-nature-walk-simulator.json](./28199-nature-walk-simulator.json) |
 | Nature's Element | 270972 | [270972-natures-element.json](./270972-natures-element.json) |
 | Nature's Habit | 195103 | [195103-natures-habit.json](./195103-natures-habit.json) |
@@ -2417,6 +2418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Fuel Odyssey | 178983 | [178983-no-fuel-odyssey.json](./178983-no-fuel-odyssey.json) |
 | No Gasoline | 291527 | [291527-no-gasoline.json](./291527-no-gasoline.json) |
 | No Ghost in Circus Caravan | 311999 | [311999-no-ghost-in-circus-caravan.json](./311999-no-ghost-in-circus-caravan.json) |
+| No Ghost in Stay Home | 152778 | [152778-no-ghost-in-stay-home.json](./152778-no-ghost-in-stay-home.json) |
 | No Gods of Men | 346764 | [346764-no-gods-of-men.json](./346764-no-gods-of-men.json) |
 | No Gods, Only Ducks | 415902 | [415902-no-gods-only-ducks.json](./415902-no-gods-only-ducks.json) |
 | No Gravity: The Plague Of Mind | 42846 | [42846-no-gravity-the-plague-of-mind.json](./42846-no-gravity-the-plague-of-mind.json) |
