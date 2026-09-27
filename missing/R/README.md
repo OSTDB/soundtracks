@@ -4453,6 +4453,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollercoaster Dreams | 26784 | [26784-rollercoaster-dreams.json](./26784-rollercoaster-dreams.json) |
 | RollerCoaster Legends II: Thor's Hammer | 102340 | [102340-rollercoaster-legends-ii-thors-hammer.json](./102340-rollercoaster-legends-ii-thors-hammer.json) |
 | Rollercoaster Mechanic | 132624 | [132624-rollercoaster-mechanic.json](./132624-rollercoaster-mechanic.json) |
+| Rollercoaster Rush | 133915 | [133915-rollercoaster-rush.json](./133915-rollercoaster-rush.json) |
+| Rollercoaster Rush 3D | 133914 | [133914-rollercoaster-rush-3d.json](./133914-rollercoaster-rush-3d.json) |
 | RollerCoaster Tycoon | 254 | [254-rollercoaster-tycoon.json](./254-rollercoaster-tycoon.json) |
 | RollerCoaster Tycoon 3: Gold | 257414 | [257414-rollercoaster-tycoon-3-gold.json](./257414-rollercoaster-tycoon-3-gold.json) |
 | RollerCoaster Tycoon Joyride | 99460 | [99460-rollercoaster-tycoon-joyride.json](./99460-rollercoaster-tycoon-joyride.json) |
