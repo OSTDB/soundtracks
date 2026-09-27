@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Dream: Complete Edition | 53265 | [53265-last-dream-complete-edition.json](./53265-last-dream-complete-edition.json) |
 | Last Dream: World Unknown | 33378 | [33378-last-dream-world-unknown.json](./33378-last-dream-world-unknown.json) |
 | Last dungeon of defeat - Humiliation for female warrior Erina | 134627 | [134627-last-dungeon-of-defeat-humiliation-for-female-warrior-erina.json](./134627-last-dungeon-of-defeat-humiliation-for-female-warrior-erina.json) |
+| Last Embryo: Either of Brave to Story | 163754 | [163754-last-embryo-either-of-brave-to-story.json](./163754-last-embryo-either-of-brave-to-story.json) |
 | Last Emperor | 258554 | [258554-last-emperor.json](./258554-last-emperor.json) |
 | Last Empire: War Z | 88093 | [88093-last-empire-war-z.json](./88093-last-empire-war-z.json) |
 | Last Epoch | 95118 | [95118-last-epoch.json](./95118-last-epoch.json) |
@@ -3464,6 +3465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Records: Bloom & Rage - Tape 2 | 314261 | [314261-lost-records-bloom-and-rage-tape-2.json](./314261-lost-records-bloom-and-rage-tape-2.json) |
 | Lost Region | 27107 | [27107-lost-region.json](./27107-lost-region.json) |
 | Lost Remnant: Roaches to Riches | 158056 | [158056-lost-remnant-roaches-to-riches.json](./158056-lost-remnant-roaches-to-riches.json) |
+| Lost Remnant: Wherehouse | 163749 | [163749-lost-remnant-wherehouse.json](./163749-lost-remnant-wherehouse.json) |
 | Lost Resolve | 313293 | [313293-lost-resolve.json](./313293-lost-resolve.json) |
 | Lost Retrograde | 203844 | [203844-lost-retrograde.json](./203844-lost-retrograde.json) |
 | Lost Rift | 336143 | [336143-lost-rift.json](./336143-lost-rift.json) |
