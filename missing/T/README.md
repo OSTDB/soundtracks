@@ -2613,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Banner Saga 3 | 26940 | [26940-the-banner-saga-3.json](./26940-the-banner-saga-3.json) |
 | The Banner Saga 3: Legendary Edition | 124774 | [124774-the-banner-saga-3-legendary-edition.json](./124774-the-banner-saga-3-legendary-edition.json) |
 | The Banner Saga Complete Pack | 51954 | [51954-the-banner-saga-complete-pack.json](./51954-the-banner-saga-complete-pack.json) |
+| The Banner Saga Trilogy: Stoic Edition | 169191 | [169191-the-banner-saga-trilogy-stoic-edition.json](./169191-the-banner-saga-trilogy-stoic-edition.json) |
 | The Banner Saga: Deluxe Edition | 54435 | [54435-the-banner-saga-deluxe-edition.json](./54435-the-banner-saga-deluxe-edition.json) |
 | The Banshee | 231514 | [231514-the-banshee.json](./231514-the-banshee.json) |
 | The Bar | 119049 | [119049-the-bar.json](./119049-the-bar.json) |
@@ -5180,6 +5181,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails of Cold Steel - Lionheart Edition | 89911 | [89911-the-legend-of-heroes-trails-of-cold-steel-lionheart-edition.json](./89911-the-legend-of-heroes-trails-of-cold-steel-lionheart-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel II | 13558 | [13558-the-legend-of-heroes-trails-of-cold-steel-ii.json](./13558-the-legend-of-heroes-trails-of-cold-steel-ii.json) |
 | The Legend of Heroes: Trails of Cold Steel II - All Ride-Alongs | 124812 | [124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json](./124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json) |
+| The Legend of Heroes: Trails of Cold Steel III - Digital Limited Edition | 169217 | [169217-the-legend-of-heroes-trails-of-cold-steel-iii-digital-limited-edition.json](./169217-the-legend-of-heroes-trails-of-cold-steel-iii-digital-limited-edition.json) |
+| The Legend of Heroes: Trails of Cold Steel IV - Digital Deluxe Edition | 169218 | [169218-the-legend-of-heroes-trails-of-cold-steel-iv-digital-deluxe-edition.json](./169218-the-legend-of-heroes-trails-of-cold-steel-iv-digital-deluxe-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel IV - Standard Costume Bundle | 227335 | [227335-the-legend-of-heroes-trails-of-cold-steel-iv-standard-costume-bundle.json](./227335-the-legend-of-heroes-trails-of-cold-steel-iv-standard-costume-bundle.json) |
 | The Legend of Heroes: Trails to Azure | 23323 | [23323-the-legend-of-heroes-trails-to-azure.json](./23323-the-legend-of-heroes-trails-to-azure.json) |
 | The Legend of Heroes: Trails to Azure - Deluxe Edition | 249169 | [249169-the-legend-of-heroes-trails-to-azure-deluxe-edition.json](./249169-the-legend-of-heroes-trails-to-azure-deluxe-edition.json) |
@@ -9604,6 +9607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeless Valley | 333593 | [333593-timeless-valley.json](./333593-timeless-valley.json) |
 | Timeless: The Forgotten Town | 44597 | [44597-timeless-the-forgotten-town.json](./44597-timeless-the-forgotten-town.json) |
 | Timelie | 122385 | [122385-timelie.json](./122385-timelie.json) |
+| Timelie: Game of the Year Edition | 169192 | [169192-timelie-game-of-the-year-edition.json](./169192-timelie-game-of-the-year-edition.json) |
 | Timeline Traveler | 136401 | [136401-timeline-traveler.json](./136401-timeline-traveler.json) |
 | Timeline Traveler II: Dream | 170518 | [170518-timeline-traveler-ii-dream.json](./170518-timeline-traveler-ii-dream.json) |
 | TimeLock VR | 51516 | [51516-timelock-vr.json](./51516-timelock-vr.json) |
