@@ -928,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbershop Simulator | 220351 | [220351-barbershop-simulator.json](./220351-barbershop-simulator.json) |
 | Barbican Of Hell | 271796 | [271796-barbican-of-hell.json](./271796-barbican-of-hell.json) |
 | Barbie | 245570 | [245570-barbie.json](./245570-barbie.json) |
+| Barbie and Her Magical House | 142980 | [142980-barbie-and-her-magical-house.json](./142980-barbie-and-her-magical-house.json) |
 | Barbie and Her Sisters: Puppy Rescue | 25143 | [25143-barbie-and-her-sisters-puppy-rescue.json](./25143-barbie-and-her-sisters-puppy-rescue.json) |
 | Barbie and the Magic of Pegasus | 248681 | [248681-barbie-and-the-magic-of-pegasus.json](./248681-barbie-and-the-magic-of-pegasus.json) |
 | Barbie as Princess Bride | 200600 | [200600-barbie-as-princess-bride.json](./200600-barbie-as-princess-bride.json) |
@@ -3292,6 +3293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bioleech | 366419 | [366419-bioleech.json](./366419-bioleech.json) |
 | Biolum | 149552 | [149552-biolum.json](./149552-biolum.json) |
 | Biolune | 381612 | [381612-biolune.json](./381612-biolune.json) |
+| Biomass | 142950 | [142950-biomass.json](./142950-biomass.json) |
 | Biome Conquest | 227943 | [227943-biome-conquest.json](./227943-biome-conquest.json) |
 | BioMech Vendetta | 380402 | [380402-biomech-vendetta.json](./380402-biomech-vendetta.json) |
 | Biomechanical Toy | 39613 | [39613-biomechanical-toy.json](./39613-biomechanical-toy.json) |
