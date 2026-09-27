@@ -2231,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defendron | 260378 | [260378-defendron.json](./260378-defendron.json) |
 | Defense Derby | 247465 | [247465-defense-derby.json](./247465-defense-derby.json) |
 | Defense Grid 2: Enhanced VR Edition | 58745 | [58745-defense-grid-2-enhanced-vr-edition.json](./58745-defense-grid-2-enhanced-vr-edition.json) |
+| Defense Grid: The Awakening - Resurgence Map Pack 3 | 156026 | [156026-defense-grid-the-awakening-resurgence-map-pack-3.json](./156026-defense-grid-the-awakening-resurgence-map-pack-3.json) |
 | Defense Master | 284486 | [284486-defense-master.json](./284486-defense-master.json) |
 | Defense of Kyrath | 406310 | [406310-defense-of-kyrath.json](./406310-defense-of-kyrath.json) |
 | Defense of Nations | 268505 | [268505-defense-of-nations.json](./268505-defense-of-nations.json) |
@@ -5287,6 +5288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Dealer | 347769 | [347769-doomsday-dealer.json](./347769-doomsday-dealer.json) |
 | Doomsday Derby | 249192 | [249192-doomsday-derby.json](./249192-doomsday-derby.json) |
 | Doomsday Dispute | 192386 | [192386-doomsday-dispute.json](./192386-doomsday-dispute.json) |
+| Doomsday Hero | 156042 | [156042-doomsday-hero.json](./156042-doomsday-hero.json) |
 | Doomsday of UAC | 252367 | [252367-doomsday-of-uac.json](./252367-doomsday-of-uac.json) |
 | Doomsday on Demand | 104037 | [104037-doomsday-on-demand.json](./104037-doomsday-on-demand.json) |
 | Doomsday on Demand 2 | 104036 | [104036-doomsday-on-demand-2.json](./104036-doomsday-on-demand-2.json) |
@@ -7228,6 +7230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Cross | 221251 | [221251-dungeon-cross.json](./221251-dungeon-cross.json) |
 | Dungeon Crusher: Soul Hunters | 142999 | [142999-dungeon-crusher-soul-hunters.json](./142999-dungeon-crusher-soul-hunters.json) |
 | Dungeon Dad | 191832 | [191832-dungeon-dad.json](./191832-dungeon-dad.json) |
+| Dungeon Dan | 156028 | [156028-dungeon-dan.json](./156028-dungeon-dan.json) |
 | Dungeon Danger Traps 2 | 372543 | [372543-dungeon-danger-traps-2.json](./372543-dungeon-danger-traps-2.json) |
 | Dungeon Dealer | 179064 | [179064-dungeon-dealer.json](./179064-dungeon-dealer.json) |
 | Dungeon Death | 190480 | [190480-dungeon-death.json](./190480-dungeon-death.json) |
