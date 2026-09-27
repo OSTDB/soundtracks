@@ -1096,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unkore | 151750 | [151750-unkore.json](./151750-unkore.json) |
 | Unleash | 398974 | [398974-unleash.json](./398974-unleash.json) |
 | Unleash | 72340 | [72340-unleash.json](./72340-unleash.json) |
+| Unleash Hell | 119643 | [119643-unleash-hell.json](./119643-unleash-hell.json) |
 | Unless Terminalia | 399081 | [399081-unless-terminalia.json](./399081-unless-terminalia.json) |
 | Unlich | 315711 | [315711-unlich.json](./315711-unlich.json) |
 | Unlife | 151127 | [151127-unlife.json](./151127-unlife.json) |
