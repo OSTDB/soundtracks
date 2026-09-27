@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War and Politics | 374806 | [374806-war-and-politics.json](./374806-war-and-politics.json) |
 | War Angels | 385609 | [385609-war-angels.json](./385609-war-angels.json) |
 | War Ashes | 214488 | [214488-war-ashes.json](./214488-war-ashes.json) |
+| War Beasts | 164273 | [164273-war-beasts.json](./164273-war-beasts.json) |
 | War Birds: WW2 Air strike 1942 | 33281 | [33281-war-birds-ww2-air-strike-1942.json](./33281-war-birds-ww2-air-strike-1942.json) |
 | War Brokers | 74845 | [74845-war-brokers.json](./74845-war-brokers.json) |
 | War by Grow Games | 125982 | [125982-war-by-grow-games.json](./125982-war-by-grow-games.json) |
@@ -1207,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Were Here Together | 109535 | [109535-we-were-here-together.json](./109535-we-were-here-together.json) |
 | We Were Here Too | 54486 | [54486-we-were-here-too.json](./54486-we-were-here-too.json) |
 | We, Junk Artists | 369043 | [369043-we-junk-artists.json](./369043-we-junk-artists.json) |
+| We'll always have Paris | 164263 | [164263-well-always-have-paris.json](./164263-well-always-have-paris.json) |
 | We'll Be Alright | 310564 | [310564-well-be-alright.json](./310564-well-be-alright.json) |
 | We're Back! A Dinosaur's Story | 241985 | [241985-were-back-a-dinosaurs-story.json](./241985-were-back-a-dinosaurs-story.json) |
 | We're Closed Sorry | 298775 | [298775-were-closed-sorry.json](./298775-were-closed-sorry.json) |
@@ -2721,6 +2723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard's Adventure | 186243 | [186243-wizards-adventure.json](./186243-wizards-adventure.json) |
 | Wizard's Beard | 277606 | [277606-wizards-beard.json](./277606-wizards-beard.json) |
 | Wizard's Crown | 2877 | [2877-wizards-crown.json](./2877-wizards-crown.json) |
+| Wizard's Duty | 164238 | [164238-wizards-duty.json](./164238-wizards-duty.json) |
 | Wizard's Fortress: Tower Defense | 345706 | [345706-wizards-fortress-tower-defense.json](./345706-wizards-fortress-tower-defense.json) |
 | Wizard's Harmony | 55900 | [55900-wizards-harmony.json](./55900-wizards-harmony.json) |
 | Wizard's Harmony 2 | 55901 | [55901-wizards-harmony-2.json](./55901-wizards-harmony-2.json) |
