@@ -4350,6 +4350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot And Lovely XXII | 318431 | [318431-hot-and-lovely-xxii.json](./318431-hot-and-lovely-xxii.json) |
 | Hot And Lovely: Dream | 296911 | [296911-hot-and-lovely-dream.json](./296911-hot-and-lovely-dream.json) |
 | Hot And Lovely: Uniform | 262926 | [262926-hot-and-lovely-uniform.json](./262926-hot-and-lovely-uniform.json) |
+| Hot Brass | 129108 | [129108-hot-brass.json](./129108-hot-brass.json) |
 | Hot Brass: Operator Edition | 167176 | [167176-hot-brass-operator-edition.json](./167176-hot-brass-operator-edition.json) |
 | Hot Bubble | 40194 | [40194-hot-bubble.json](./40194-hot-bubble.json) |
 | Hot Cam | 212196 | [212196-hot-cam.json](./212196-hot-cam.json) |
