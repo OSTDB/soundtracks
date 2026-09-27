@@ -5275,6 +5275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato Party: The Potatomancer | 189063 | [189063-potato-party-the-potatomancer.json](./189063-potato-party-the-potatomancer.json) |
 | Potato Sack Racing Simulator 2024 | 274581 | [274581-potato-sack-racing-simulator-2024.json](./274581-potato-sack-racing-simulator-2024.json) |
 | Potato Salad | 290960 | [290960-potato-salad.json](./290960-potato-salad.json) |
+| Potato Smash | 165409 | [165409-potato-smash.json](./165409-potato-smash.json) |
 | Potato Survival | 218708 | [218708-potato-survival.json](./218708-potato-survival.json) |
 | Potato Thriller | 97100 | [97100-potato-thriller.json](./97100-potato-thriller.json) |
 | Potato Vs. Potato | 341560 | [341560-potato-vs-potato.json](./341560-potato-vs-potato.json) |
@@ -5517,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pragmatics | 326068 | [326068-pragmatics.json](./326068-pragmatics.json) |
 | Prague Metro Simulator: Passenger Transport | 207813 | [207813-prague-metro-simulator-passenger-transport.json](./207813-prague-metro-simulator-passenger-transport.json) |
 | Prana | 75113 | [75113-prana.json](./75113-prana.json) |
+| Prank Call | 165423 | [165423-prank-call.json](./165423-prank-call.json) |
 | Prank Heart | 287754 | [287754-prank-heart.json](./287754-prank-heart.json) |
 | Pranksters: Treasure of the Indians | 322570 | [322570-pranksters-treasure-of-the-indians.json](./322570-pranksters-treasure-of-the-indians.json) |
 | Pranksterz: From Russia With Love | 23195 | [23195-pranksterz-from-russia-with-love.json](./23195-pranksterz-from-russia-with-love.json) |
@@ -7007,6 +7009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punyan Connecty | 362351 | [362351-punyan-connecty.json](./362351-punyan-connecty.json) |
 | Punzel: Chapter I - Toujours la Meme Histoire | 221147 | [221147-punzel-chapter-i-toujours-la-meme-histoire.json](./221147-punzel-chapter-i-toujours-la-meme-histoire.json) |
 | Pup Boy Cowboy: Infinite Desert Edition | 410443 | [410443-pup-boy-cowboy-infinite-desert-edition.json](./410443-pup-boy-cowboy-infinite-desert-edition.json) |
+| Pup Breeder | 165411 | [165411-pup-breeder.json](./165411-pup-breeder.json) |
 | Pupa | 310221 | [310221-pupa.json](./310221-pupa.json) |
 | Pupil: Wandering VR | 117834 | [117834-pupil-wandering-vr.json](./117834-pupil-wandering-vr.json) |
 | Pupillary | 408296 | [408296-pupillary.json](./408296-pupillary.json) |
@@ -7035,6 +7038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Palace | 122204 | [122204-puppy-palace.json](./122204-puppy-palace.json) |
 | Puppy Pipy | 151149 | [151149-puppy-pipy.json](./151149-puppy-pipy.json) |
 | Puppy Truck | 411658 | [411658-puppy-truck.json](./411658-puppy-truck.json) |
+| Pups & Purrs Animal Hospital | 165427 | [165427-pups-and-purrs-animal-hospital.json](./165427-pups-and-purrs-animal-hospital.json) |
 | Pups Treats | 359412 | [359412-pups-treats.json](./359412-pups-treats.json) |
 | Purah's Lab | 279688 | [279688-purahs-lab.json](./279688-purahs-lab.json) |
 | Purarger Collector!! | 384805 | [384805-purarger-collector.json](./384805-purarger-collector.json) |
