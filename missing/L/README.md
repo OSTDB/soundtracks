@@ -3977,6 +3977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumberjack Construction Simulator | 239325 | [239325-lumberjack-construction-simulator.json](./239325-lumberjack-construction-simulator.json) |
 | Lumberjack Simulator | 116774 | [116774-lumberjack-simulator.json](./116774-lumberjack-simulator.json) |
 | Lumberjack Simulator: Made in Alaska 2026 | 390501 | [390501-lumberjack-simulator-made-in-alaska-2026.json](./390501-lumberjack-simulator-made-in-alaska-2026.json) |
+| Lumberjack's Dynasty: Digital Supporter Edition | 169187 | [169187-lumberjacks-dynasty-digital-supporter-edition.json](./169187-lumberjacks-dynasty-digital-supporter-edition.json) |
 | Lumbermill | 122427 | [122427-lumbermill.json](./122427-lumbermill.json) |
 | LumberQwaxes | 154013 | [154013-lumberqwaxes.json](./154013-lumberqwaxes.json) |
 | LumberReborn | 217822 | [217822-lumberreborn.json](./217822-lumberreborn.json) |
