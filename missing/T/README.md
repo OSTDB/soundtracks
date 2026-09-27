@@ -8749,6 +8749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne of Magic | 108502 | [108502-throne-of-magic.json](./108502-throne-of-magic.json) |
 | Throne of Valoria | 323194 | [323194-throne-of-valoria.json](./323194-throne-of-valoria.json) |
 | Throne Quest | 112953 | [112953-throne-quest.json](./112953-throne-quest.json) |
+| Throne Quest Deluxe | 122298 | [122298-throne-quest-deluxe.json](./122298-throne-quest-deluxe.json) |
 | Throne Rush | 243125 | [243125-throne-rush.json](./243125-throne-rush.json) |
 | Throne Wars | 319133 | [319133-throne-wars.json](./319133-throne-wars.json) |
 | Throne: Kingdom at War | 159083 | [159083-throne-kingdom-at-war.json](./159083-throne-kingdom-at-war.json) |
@@ -11961,6 +11962,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trading Simulator | 274563 | [274563-trading-simulator.json](./274563-trading-simulator.json) |
 | Trading Simulator | 290421 | [290421-trading-simulator.json](./290421-trading-simulator.json) |
 | Traditional Braves with Sess-AI 2.0 | 387668 | [387668-traditional-braves-with-sess-ai-2-0.json](./387668-traditional-braves-with-sess-ai-2-0.json) |
+| Traditional Tactics | 122293 | [122293-traditional-tactics.json](./122293-traditional-tactics.json) |
+| Traditional Tactics Mobile | 122294 | [122294-traditional-tactics-mobile.json](./122294-traditional-tactics-mobile.json) |
+| Traditional Tactics Ne | 122295 | [122295-traditional-tactics-ne.json](./122295-traditional-tactics-ne.json) |
 | Traditional Tactics Ne+ | 153818 | [153818-traditional-tactics-ne.json](./153818-traditional-tactics-ne.json) |
 | Traffic | 312583 | [312583-traffic.json](./312583-traffic.json) |
 | Traffic | 319601 | [319601-traffic.json](./319601-traffic.json) |
@@ -12178,6 +12182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator | 327582 | [327582-train-simulator.json](./327582-train-simulator.json) |
 | Train Simulator 2017 | 26539 | [26539-train-simulator-2017.json](./26539-train-simulator-2017.json) |
 | Train Simulator 2019 | 111023 | [111023-train-simulator-2019.json](./111023-train-simulator-2019.json) |
+| Train Simulator 2020 | 122285 | [122285-train-simulator-2020.json](./122285-train-simulator-2020.json) |
 | Train Simulator 2021: 0-4-0 Saddletank Pack 1 Add-on Loco | 169924 | [169924-train-simulator-2021-0-4-0-saddletank-pack-1-add-on-loco.json](./169924-train-simulator-2021-0-4-0-saddletank-pack-1-add-on-loco.json) |
 | Train Simulator 2021: Aerotrain Streamlined Train | 161732 | [161732-train-simulator-2021-aerotrain-streamlined-train.json](./161732-train-simulator-2021-aerotrain-streamlined-train.json) |
 | Train Simulator 2021: Amtrak Acela Express EMU | 162260 | [162260-train-simulator-2021-amtrak-acela-express-emu.json](./162260-train-simulator-2021-amtrak-acela-express-emu.json) |
