@@ -1280,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WebCum Secrets | 338386 | [338386-webcum-secrets.json](./338386-webcum-secrets.json) |
 | Weben Blocks | 204998 | [204998-weben-blocks.json](./204998-weben-blocks.json) |
 | Webgeon Speedrun Edition | 213393 | [213393-webgeon-speedrun-edition.json](./213393-webgeon-speedrun-edition.json) |
+| Webmaster - Fantastic Adventures in the World of the Internet | 127121 | [127121-webmaster-fantastic-adventures-in-the-world-of-the-internet.json](./127121-webmaster-fantastic-adventures-in-the-world-of-the-internet.json) |
 | WebRiot | 79889 | [79889-webriot.json](./79889-webriot.json) |
 | Websy and the Time Rogues | 361304 | [361304-websy-and-the-time-rogues.json](./361304-websy-and-the-time-rogues.json) |
 | WEC Le Mans 24 | 55088 | [55088-wec-le-mans-24.json](./55088-wec-le-mans-24.json) |
@@ -2517,6 +2518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Walk 2006 | 326780 | [326780-winter-walk-2006.json](./326780-winter-walk-2006.json) |
 | Winter With You | 188108 | [188108-winter-with-you.json](./188108-winter-with-you.json) |
 | Winter Wonderland | 31179 | [31179-winter-wonderland.json](./31179-winter-wonderland.json) |
+| Winter Worm, Summer Grass | 127105 | [127105-winter-worm-summer-grass.json](./127105-winter-worm-summer-grass.json) |
 | Winter X-Games Snowboarding 2002 | 47303 | [47303-winter-x-games-snowboarding-2002.json](./47303-winter-x-games-snowboarding-2002.json) |
 | Winter-Over | 352163 | [352163-winter-over.json](./352163-winter-over.json) |
 | Winter, 2001: Someone tell Luigi I love him | 177485 | [177485-winter-2001-someone-tell-luigi-i-love-him.json](./177485-winter-2001-someone-tell-luigi-i-love-him.json) |
