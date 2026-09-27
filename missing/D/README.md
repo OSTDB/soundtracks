@@ -4268,6 +4268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divilethion | 176299 | [176299-divilethion.json](./176299-divilethion.json) |
 | Divilixa | 149456 | [149456-divilixa.json](./149456-divilixa.json) |
 | Divination | 339102 | [339102-divination.json](./339102-divination.json) |
+| Divine Adventure: Act One | 174121 | [174121-divine-adventure-act-one.json](./174121-divine-adventure-act-one.json) |
 | Divine Ascent | 29179 | [29179-divine-ascent.json](./29179-divine-ascent.json) |
 | Divine Ascent: Map Pack | 161752 | [161752-divine-ascent-map-pack.json](./161752-divine-ascent-map-pack.json) |
 | Divine Business: Fantasy Trading Simulator | 113744 | [113744-divine-business-fantasy-trading-simulator.json](./113744-divine-business-fantasy-trading-simulator.json) |
@@ -5545,6 +5546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downroll | 191161 | [191161-downroll.json](./191161-downroll.json) |
 | Downshot | 308353 | [308353-downshot.json](./308353-downshot.json) |
 | DownSouth | 391048 | [391048-downsouth.json](./391048-downsouth.json) |
+| Downtown | 174110 | [174110-downtown.json](./174110-downtown.json) |
 | Downtown Club | 330284 | [330284-downtown-club.json](./330284-downtown-club.json) |
 | Downtown Dodgeball Da yo: Zenin Shuugou!! | 60501 | [60501-downtown-dodgeball-da-yo-zenin-shuugou.json](./60501-downtown-dodgeball-da-yo-zenin-shuugou.json) |
 | Downtown Jam | 207784 | [207784-downtown-jam.json](./207784-downtown-jam.json) |
@@ -5648,6 +5650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draconic Evolution | 232672 | [232672-draconic-evolution.json](./232672-draconic-evolution.json) |
 | Draconic Order VR | 31925 | [31925-draconic-order-vr.json](./31925-draconic-order-vr.json) |
 | Dracu-Riot! | 137087 | [137087-dracu-riot.json](./137087-dracu-riot.json) |
+| Dracula | 174104 | [174104-dracula.json](./174104-dracula.json) |
 | Dracula | 18588 | [18588-dracula.json](./18588-dracula.json) |
 | Dracula | 31184 | [31184-dracula.json](./31184-dracula.json) |
 | Dracula 2: The Last Sanctuary | 9092 | [9092-dracula-2-the-last-sanctuary.json](./9092-dracula-2-the-last-sanctuary.json) |
@@ -5959,6 +5962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest VII Reimagined: White Wolf Costume | 375191 | [375191-dragon-quest-vii-reimagined-white-wolf-costume.json](./375191-dragon-quest-vii-reimagined-white-wolf-costume.json) |
 | Dragon Quest VIII: Journey of the Cursed King | 145528 | [145528-dragon-quest-viii-journey-of-the-cursed-king.json](./145528-dragon-quest-viii-journey-of-the-cursed-king.json) |
 | Dragon Quest VIII: Journey of the Cursed King | 205649 | [205649-dragon-quest-viii-journey-of-the-cursed-king.json](./205649-dragon-quest-viii-journey-of-the-cursed-king.json) |
+| Dragon Quest X Offline: Deluxe Edition | 174127 | [174127-dragon-quest-x-offline-deluxe-edition.json](./174127-dragon-quest-x-offline-deluxe-edition.json) |
 | Dragon Quest X: All In One Package - Versions 1-6 | 222408 | [222408-dragon-quest-x-all-in-one-package-versions-1-6.json](./222408-dragon-quest-x-all-in-one-package-versions-1-6.json) |
 | Dragon Quest X: Ibara no Miko to Horobi no Kami Online | 136835 | [136835-dragon-quest-x-ibara-no-miko-to-horobi-no-kami-online.json](./136835-dragon-quest-x-ibara-no-miko-to-horobi-no-kami-online.json) |
 | Dragon Quest X: Jikuu no Mayoigo-tachi Online | 374305 | [374305-dragon-quest-x-jikuu-no-mayoigo-tachi-online.json](./374305-dragon-quest-x-jikuu-no-mayoigo-tachi-online.json) |
@@ -6467,6 +6471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamworks Voltron VR Chronicles | 55172 | [55172-dreamworks-voltron-vr-chronicles.json](./55172-dreamworks-voltron-vr-chronicles.json) |
 | Dreamworks' Shark Tale | 4148 | [4148-dreamworks-shark-tale.json](./4148-dreamworks-shark-tale.json) |
 | Dreamworks' Universe of Legends | 82114 | [82114-dreamworks-universe-of-legends.json](./82114-dreamworks-universe-of-legends.json) |
+| Dreamworld | 174103 | [174103-dreamworld.json](./174103-dreamworld.json) |
 | DreamWorld | 145026 | [145026-dreamworld.json](./145026-dreamworld.json) |
 | Dreamwrought | 387022 | [387022-dreamwrought.json](./387022-dreamwrought.json) |
 | Dreamy Beauties: Heart-Pounding Illustration Puzzle | 416066 | [416066-dreamy-beauties-heart-pounding-illustration-puzzle.json](./416066-dreamy-beauties-heart-pounding-illustration-puzzle.json) |
