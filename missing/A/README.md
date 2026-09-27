@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wave of Lights | 175838 | [175838-a-wave-of-lights.json](./175838-a-wave-of-lights.json) |
 | A Way to Die | 159854 | [159854-a-way-to-die.json](./159854-a-way-to-die.json) |
 | A Week | 223494 | [223494-a-week.json](./223494-a-week.json) |
+| A Week in the Cold | 132745 | [132745-a-week-in-the-cold.json](./132745-a-week-in-the-cold.json) |
 | A Week in the Office: Under the Table | 154976 | [154976-a-week-in-the-office-under-the-table.json](./154976-a-week-in-the-office-under-the-table.json) |
 | A Week of Circus Terror | 32169 | [32169-a-week-of-circus-terror.json](./32169-a-week-of-circus-terror.json) |
 | A Weekend in Puzzleburg | 201680 | [201680-a-weekend-in-puzzleburg.json](./201680-a-weekend-in-puzzleburg.json) |
@@ -4132,6 +4133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anpanman to Asobu: AIUEO Kyoushitsu | 67284 | [67284-anpanman-to-asobu-aiueo-kyoushitsu.json](./67284-anpanman-to-asobu-aiueo-kyoushitsu.json) |
 | Anpanman Touch de Enjoy! AIUEO Kyoushitsu for Nintendo Switch | 381265 | [381265-anpanman-touch-de-enjoy-aiueo-kyoushitsu-for-nintendo-switch.json](./381265-anpanman-touch-de-enjoy-aiueo-kyoushitsu-for-nintendo-switch.json) |
 | Anseion | 245810 | [245810-anseion.json](./245810-anseion.json) |
+| AnShi | 132740 | [132740-anshi.json](./132740-anshi.json) |
 | Anstorm | 111214 | [111214-anstorm.json](./111214-anstorm.json) |
 | Anstoss | 37126 | [37126-anstoss.json](./37126-anstoss.json) |
 | Anstoss 2: Gold Edition | 155090 | [155090-anstoss-2-gold-edition.json](./155090-anstoss-2-gold-edition.json) |
@@ -4157,6 +4159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antarctic Adventure | 239172 | [239172-antarctic-adventure.json](./239172-antarctic-adventure.json) |
 | Antarctic Girl | 127922 | [127922-antarctic-girl.json](./127922-antarctic-girl.json) |
 | Antarctic Tales Enhanced Edition | 268511 | [268511-antarctic-tales-enhanced-edition.json](./268511-antarctic-tales-enhanced-edition.json) |
+| Antares | 132727 | [132727-antares.json](./132727-antares.json) |
 | Antartica | 400962 | [400962-antartica.json](./400962-antartica.json) |
 | Antecrypt | 176341 | [176341-antecrypt.json](./176341-antecrypt.json) |
 | Antediluvian | 271251 | [271251-antediluvian.json](./271251-antediluvian.json) |
@@ -6727,6 +6730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auralux: Constellations | 33527 | [33527-auralux-constellations.json](./33527-auralux-constellations.json) |
 | Aurascope | 177951 | [177951-aurascope.json](./177951-aurascope.json) |
 | AuraTitan | 417677 | [417677-auratitan.json](./417677-auratitan.json) |
+| Aurcus Online | 132715 | [132715-aurcus-online.json](./132715-aurcus-online.json) |
 | Aurelia: Stellar Arising | 201806 | [201806-aurelia-stellar-arising.json](./201806-aurelia-stellar-arising.json) |
 | Auri's Amazing Arch Adventure | 388247 | [388247-auris-amazing-arch-adventure.json](./388247-auris-amazing-arch-adventure.json) |
 | Auri's Tales | 113042 | [113042-auris-tales.json](./113042-auris-tales.json) |
