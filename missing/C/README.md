@@ -2654,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Grandmaster Royal Bundle | 283189 | [283189-chess-grandmaster-royal-bundle.json](./283189-chess-grandmaster-royal-bundle.json) |
 | Chess in the Park | 254438 | [254438-chess-in-the-park.json](./254438-chess-in-the-park.json) |
 | Chess Infinity | 324987 | [324987-chess-infinity.json](./324987-chess-infinity.json) |
+| Chess Knights: Eldritch Hunter | 160166 | [160166-chess-knights-eldritch-hunter.json](./160166-chess-knights-eldritch-hunter.json) |
 | Chess Knights: Viking Lands | 135662 | [135662-chess-knights-viking-lands.json](./135662-chess-knights-viking-lands.json) |
 | Chess Master | 245540 | [245540-chess-master.json](./245540-chess-master.json) |
 | Chess Master | 247054 | [247054-chess-master.json](./247054-chess-master.json) |
@@ -8334,6 +8335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberSkyscrUpper | 265770 | [265770-cyberskyscrupper.json](./265770-cyberskyscrupper.json) |
 | Cybersonic Strike | 258538 | [258538-cybersonic-strike.json](./258538-cybersonic-strike.json) |
 | Cybersoul: Cosmic Resonance | 385864 | [385864-cybersoul-cosmic-resonance.json](./385864-cybersoul-cosmic-resonance.json) |
+| Cyberspace VR | 160145 | [160145-cyberspace-vr.json](./160145-cyberspace-vr.json) |
 | Cybersphere | 228696 | [228696-cybersphere.json](./228696-cybersphere.json) |
 | CyberStorm 2: Corporate Wars | 11028 | [11028-cyberstorm-2-corporate-wars.json](./11028-cyberstorm-2-corporate-wars.json) |
 | Cyberstrike | 22809 | [22809-cyberstrike.json](./22809-cyberstrike.json) |
