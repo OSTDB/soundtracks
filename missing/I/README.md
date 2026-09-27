@@ -2759,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Pays to Be a Winner | 122410 | [122410-it-pays-to-be-a-winner.json](./122410-it-pays-to-be-a-winner.json) |
 | It Sleeps Below the Haar | 217396 | [217396-it-sleeps-below-the-haar.json](./217396-it-sleeps-below-the-haar.json) |
 | IT Specialist Simulator | 346606 | [346606-it-specialist-simulator.json](./346606-it-specialist-simulator.json) |
+| IT Startup: Tech Fodder | 168121 | [168121-it-startup-tech-fodder.json](./168121-it-startup-tech-fodder.json) |
 | It sucks to be a succulent | 179668 | [179668-it-sucks-to-be-a-succulent.json](./179668-it-sucks-to-be-a-succulent.json) |
 | It Sucks to Be Us | 397062 | [397062-it-sucks-to-be-us.json](./397062-it-sucks-to-be-us.json) |
 | It sucks, y'know | 302661 | [302661-it-sucks-yknow.json](./302661-it-sucks-yknow.json) |
