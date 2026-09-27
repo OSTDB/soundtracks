@@ -762,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic Pull | 118324 | [118324-magnetic-pull.json](./118324-magnetic-pull.json) |
 | Magnetoresistive | 180597 | [180597-magnetoresistive.json](./180597-magnetoresistive.json) |
 | Magnets | 366911 | [366911-magnets.json](./366911-magnets.json) |
+| Magnia | 123530 | [123530-magnia.json](./123530-magnia.json) |
 | Magnificent Alfie | 233752 | [233752-magnificent-alfie.json](./233752-magnificent-alfie.json) |
 | Magnificent-1 | 196137 | [196137-magnificent-1.json](./196137-magnificent-1.json) |
 | Magnir Saga Part 1 | 263227 | [263227-magnir-saga-part-1.json](./263227-magnir-saga-part-1.json) |
