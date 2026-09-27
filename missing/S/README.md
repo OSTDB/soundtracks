@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand Scorpion | 40184 | [40184-sand-scorpion.json](./40184-sand-scorpion.json) |
 | Sand Seeker | 390504 | [390504-sand-seeker.json](./390504-sand-seeker.json) |
 | Sand Storm | 81422 | [81422-sand-storm.json](./81422-sand-storm.json) |
+| Sand Story | 174122 | [174122-sand-story.json](./174122-sand-story.json) |
 | Sand Witch Adventures | 169873 | [169873-sand-witch-adventures.json](./169873-sand-witch-adventures.json) |
 | Sand: A Superfluous Game | 177946 | [177946-sand-a-superfluous-game.json](./177946-sand-a-superfluous-game.json) |
 | Sand:box | 223924 | [223924-sand-box.json](./223924-sand-box.json) |
@@ -11276,6 +11277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storms of Shambhala | 72363 | [72363-storms-of-shambhala.json](./72363-storms-of-shambhala.json) |
 | Stormtrooper | 15379 | [15379-stormtrooper.json](./15379-stormtrooper.json) |
 | Stormwinds | 210284 | [210284-stormwinds.json](./210284-stormwinds.json) |
+| Stormworks: Search and Destroy | 174136 | [174136-stormworks-search-and-destroy.json](./174136-stormworks-search-and-destroy.json) |
 | Stormy Castle | 330847 | [330847-stormy-castle.json](./330847-stormy-castle.json) |
 | Story 210 | 345094 | [345094-story-210.json](./345094-story-210.json) |
 | Story About Times | 113009 | [113009-story-about-times.json](./113009-story-about-times.json) |
@@ -11750,6 +11752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strinova Mobile | 350533 | [350533-strinova-mobile.json](./350533-strinova-mobile.json) |
 | Strip 4: Classmate Study | 130057 | [130057-strip-4-classmate-study.json](./130057-strip-4-classmate-study.json) |
 | Strip Battle | 296990 | [296990-strip-battle.json](./296990-strip-battle.json) |
+| Strip Black Jack: At the Pub | 174115 | [174115-strip-black-jack-at-the-pub.json](./174115-strip-black-jack-at-the-pub.json) |
 | Strip Black Jack: Hot Gym | 169297 | [169297-strip-black-jack-hot-gym.json](./169297-strip-black-jack-hot-gym.json) |
 | Strip Black Jack: Santa Babe | 385856 | [385856-strip-black-jack-santa-babe.json](./385856-strip-black-jack-santa-babe.json) |
 | Strip Breaker: Hentai Girls | 109695 | [109695-strip-breaker-hentai-girls.json](./109695-strip-breaker-hentai-girls.json) |
