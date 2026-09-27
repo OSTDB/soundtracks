@@ -4631,6 +4631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roses Shoot Red, Violets Shoot Blue | 334167 | [334167-roses-shoot-red-violets-shoot-blue.json](./334167-roses-shoot-red-violets-shoot-blue.json) |
 | Rosetta and the Well | 301989 | [301989-rosetta-and-the-well.json](./301989-rosetta-and-the-well.json) |
 | RoShamBo Arena | 34714 | [34714-roshambo-arena.json](./34714-roshambo-arena.json) |
+| RoShamBo Arena: Starter Fighter Pack | 170304 | [170304-roshambo-arena-starter-fighter-pack.json](./170304-roshambo-arena-starter-fighter-pack.json) |
 | Rosie's Inn | 183526 | [183526-rosies-inn.json](./183526-rosies-inn.json) |
 | Rosie's Rampage | 391170 | [391170-rosies-rampage.json](./391170-rosies-rampage.json) |
 | Roskur's Run | 300802 | [300802-roskurs-run.json](./300802-roskurs-run.json) |
