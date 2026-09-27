@@ -434,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Total War Saga: Troy - Limited Edition | 139940 | [139940-a-total-war-saga-troy-limited-edition.json](./139940-a-total-war-saga-troy-limited-edition.json) |
 | A Touch of Magic | 273966 | [273966-a-touch-of-magic.json](./273966-a-touch-of-magic.json) |
 | A Tower | 338718 | [338718-a-tower.json](./338718-a-tower.json) |
+| A Trail of Ooze: Chapter 1 | 174094 | [174094-a-trail-of-ooze-chapter-1.json](./174094-a-trail-of-ooze-chapter-1.json) |
 | A Trans Man's Grindr DMs | 282106 | [282106-a-trans-mans-grindr-dms.json](./282106-a-trans-mans-grindr-dms.json) |
 | A Transitional Eve | 397044 | [397044-a-transitional-eve.json](./397044-a-transitional-eve.json) |
 | A Trip to the Mall at Night | 359054 | [359054-a-trip-to-the-mall-at-night.json](./359054-a-trip-to-the-mall-at-night.json) |
@@ -1389,6 +1390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Again | 117713 | [117713-again.json](./117713-again.json) |
 | Again | 177548 | [177548-again.json](./177548-again.json) |
 | Again and Again | 216182 | [216182-again-and-again.json](./216182-again-and-again.json) |
+| Against All Odds | 174102 | [174102-against-all-odds.json](./174102-against-all-odds.json) |
 | Against All Odds | 228719 | [228719-against-all-odds.json](./228719-against-all-odds.json) |
 | Against Ether | 173293 | [173293-against-ether.json](./173293-against-ether.json) |
 | Against the Storm: Keepers of the Stone | 315116 | [315116-against-the-storm-keepers-of-the-stone.json](./315116-against-the-storm-keepers-of-the-stone.json) |
@@ -1547,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai to Yume to Bouken Sanrio Puroland! | 250334 | [250334-ai-to-yume-to-bouken-sanrio-puroland.json](./250334-ai-to-yume-to-bouken-sanrio-puroland.json) |
 | AI Unbound | 245865 | [245865-ai-unbound.json](./245865-ai-unbound.json) |
 | AI War 2 | 25648 | [25648-ai-war-2.json](./25648-ai-war-2.json) |
+| AI War 2: The Neinzul Abyss | 174138 | [174138-ai-war-2-the-neinzul-abyss.json](./174138-ai-war-2-the-neinzul-abyss.json) |
 | AI War 2: Titan Edition | 159700 | [159700-ai-war-2-titan-edition.json](./159700-ai-war-2-titan-edition.json) |
 | AI War 2: Zenith Onslaught | 154490 | [154490-ai-war-2-zenith-onslaught.json](./154490-ai-war-2-zenith-onslaught.json) |
 | AI War: Ancient Shadows | 8888 | [8888-ai-war-ancient-shadows.json](./8888-ai-war-ancient-shadows.json) |
@@ -3212,6 +3215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Octonaut Odyssey | 30198 | [30198-an-octonaut-odyssey.json](./30198-an-octonaut-odyssey.json) |
 | An Ode to Todd the Toad: Frogcare! | 185628 | [185628-an-ode-to-todd-the-toad-frogcare.json](./185628-an-ode-to-todd-the-toad-frogcare.json) |
 | An Ordinary Sonic ROM Hack | 129178 | [129178-an-ordinary-sonic-rom-hack.json](./129178-an-ordinary-sonic-rom-hack.json) |
+| An Un-epic story: The adventure of Enki and Tiny Freddie | 174093 | [174093-an-un-epic-story-the-adventure-of-enki-and-tiny-freddie.json](./174093-an-un-epic-story-the-adventure-of-enki-and-tiny-freddie.json) |
 | An Unnamed Jumping Game | 321750 | [321750-an-unnamed-jumping-game.json](./321750-an-unnamed-jumping-game.json) |
 | Ana'Adventure | 357430 | [357430-anaadventure.json](./357430-anaadventure.json) |
 | Anachroma | 211404 | [211404-anachroma.json](./211404-anachroma.json) |
