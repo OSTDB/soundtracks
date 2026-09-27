@@ -1165,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NERF Legends: Elite Blaster Combo Pack | 262314 | [262314-nerf-legends-elite-blaster-combo-pack.json](./262314-nerf-legends-elite-blaster-combo-pack.json) |
 | Nerf: Battle Arena | 197329 | [197329-nerf-battle-arena.json](./197329-nerf-battle-arena.json) |
 | Nerl's Crazy C"rough"t! | 311598 | [311598-nerls-crazy-c-rough-t.json](./311598-nerls-crazy-c-rough-t.json) |
+| Nero | 156570 | [156570-nero.json](./156570-nero.json) |
 | Nerts Extreme | 107660 | [107660-nerts-extreme.json](./107660-nerts-extreme.json) |
 | Nerts!: Online | 142226 | [142226-nerts-online.json](./142226-nerts-online.json) |
 | Nerve Me | 125833 | [125833-nerve-me.json](./125833-nerve-me.json) |
