@@ -2670,6 +2670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densha de D: Climax Stage | 55920 | [55920-densha-de-d-climax-stage.json](./55920-densha-de-d-climax-stage.json) |
 | Densha de D: Lightning Stage | 137014 | [137014-densha-de-d-lightning-stage.json](./137014-densha-de-d-lightning-stage.json) |
 | Densha de D: Rising Stage | 55924 | [55924-densha-de-d-rising-stage.json](./55924-densha-de-d-rising-stage.json) |
+| Densha de D: Shining Stage | 137560 | [137560-densha-de-d-shining-stage.json](./137560-densha-de-d-shining-stage.json) |
 | Densha de GO! | 146907 | [146907-densha-de-go.json](./146907-densha-de-go.json) |
 | Densha de GO! 64 | 3469 | [3469-densha-de-go-64.json](./3469-densha-de-go-64.json) |
 | Densha de GO! Tokubetsu-hen: Fukkatsu Shouwa no Yamanotesen | 66660 | [66660-densha-de-go-tokubetsu-hen-fukkatsu-shouwa-no-yamanotesen.json](./66660-densha-de-go-tokubetsu-hen-fukkatsu-shouwa-no-yamanotesen.json) |
@@ -4176,6 +4177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Princess: Pop-Up Story Adventures | 230373 | [230373-disney-princess-pop-up-story-adventures.json](./230373-disney-princess-pop-up-story-adventures.json) |
 | Disney Princess: Royal Adventure | 49411 | [49411-disney-princess-royal-adventure.json](./49411-disney-princess-royal-adventure.json) |
 | Disney Princess: Suteki ni Lesson! Hiragana-Katakana | 58849 | [58849-disney-princess-suteki-ni-lesson-hiragana-katakana.json](./58849-disney-princess-suteki-ni-lesson-hiragana-katakana.json) |
+| Disney Princess: The Little Mermaid - Ariel's Princess Adventures | 137563 | [137563-disney-princess-the-little-mermaid-ariels-princess-adventures.json](./137563-disney-princess-the-little-mermaid-ariels-princess-adventures.json) |
 | Disney Princess: The Princess and the Frog | 230374 | [230374-disney-princess-the-princess-and-the-frog.json](./230374-disney-princess-the-princess-and-the-frog.json) |
 | Disney Sing It: High School Musical 3 - Senior Year | 60243 | [60243-disney-sing-it-high-school-musical-3-senior-year.json](./60243-disney-sing-it-high-school-musical-3-senior-year.json) |
 | Disney Sorcerer's Arena | 124644 | [124644-disney-sorcerers-arena.json](./124644-disney-sorcerers-arena.json) |
@@ -4510,6 +4512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DMZ Adventure 2 | 331110 | [331110-dmz-adventure-2.json](./331110-dmz-adventure-2.json) |
 | DMZ: Nuclear Survival | 340001 | [340001-dmz-nuclear-survival.json](./340001-dmz-nuclear-survival.json) |
 | DNA 1: Finale | 311106 | [311106-dna-1-finale.json](./311106-dna-1-finale.json) |
+| DNA Farm | 137533 | [137533-dna-farm.json](./137533-dna-farm.json) |
 | DNA Nemesis | 415147 | [415147-dna-nemesis.json](./415147-dna-nemesis.json) |
 | DNA Subject: Lucy | 307053 | [307053-dna-subject-lucy.json](./307053-dna-subject-lucy.json) |
 | DNA: Episode 1 | 280315 | [280315-dna-episode-1.json](./280315-dna-episode-1.json) |
@@ -6749,6 +6752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drillmin | 186198 | [186198-drillmin.json](./186198-drillmin.json) |
 | Drills VR | 109066 | [109066-drills-vr.json](./109066-drills-vr.json) |
 | Drim | 286085 | [286085-drim.json](./286085-drim.json) |
+| Drimsley | 137526 | [137526-drimsley.json](./137526-drimsley.json) |
 | Drink | 178604 | [178604-drink.json](./178604-drink.json) |
 | Drink Bar Maid | 134608 | [134608-drink-bar-maid.json](./134608-drink-bar-maid.json) |
 | Drink Bar Maid: Regression | 134609 | [134609-drink-bar-maid-regression.json](./134609-drink-bar-maid-regression.json) |
@@ -7194,6 +7198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Forces | 291977 | [291977-duke-forces.json](./291977-duke-forces.json) |
 | Duke Hard | 218118 | [218118-duke-hard.json](./218118-duke-hard.json) |
 | Duke It's Zero Hour | 270656 | [270656-duke-its-zero-hour.json](./270656-duke-its-zero-hour.json) |
+| Duke Nukem 1+2 | 137548 | [137548-duke-nukem-1-2.json](./137548-duke-nukem-1-2.json) |
 | Duke Nukem 3D | 262683 | [262683-duke-nukem-3d.json](./262683-duke-nukem-3d.json) |
 | Duke Nukem Forever | 490 | [490-duke-nukem-forever.json](./490-duke-nukem-forever.json) |
 | Duke Nukem Forever 2013 | 153446 | [153446-duke-nukem-forever-2013.json](./153446-duke-nukem-forever-2013.json) |
@@ -7390,6 +7395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Hunter Champions | 97279 | [97279-dungeon-hunter-champions.json](./97279-dungeon-hunter-champions.json) |
 | Dungeon Hunter Survival | 240881 | [240881-dungeon-hunter-survival.json](./240881-dungeon-hunter-survival.json) |
 | Dungeon Hunter: Alliance | 21140 | [21140-dungeon-hunter-alliance.json](./21140-dungeon-hunter-alliance.json) |
+| Dungeon Island | 137550 | [137550-dungeon-island.json](./137550-dungeon-island.json) |
 | Dungeon Janitor | 345605 | [345605-dungeon-janitor.json](./345605-dungeon-janitor.json) |
 | Dungeon Janitor | 345607 | [345607-dungeon-janitor.json](./345607-dungeon-janitor.json) |
 | Dungeon Jinrou | 308914 | [308914-dungeon-jinrou.json](./308914-dungeon-jinrou.json) |
