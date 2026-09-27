@@ -2551,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Survival | 226756 | [226756-demon-survival.json](./226756-demon-survival.json) |
 | Demon Sword | 48065 | [48065-demon-sword.json](./48065-demon-sword.json) |
 | Demon Sword: Incubus | 203955 | [203955-demon-sword-incubus.json](./203955-demon-sword-incubus.json) |
+| Demon Throttle | 152206 | [152206-demon-throttle.json](./152206-demon-throttle.json) |
 | Demon Turf | 134564 | [134564-demon-turf.json](./134564-demon-turf.json) |
 | Demon Turf: Neon Splash | 197868 | [197868-demon-turf-neon-splash.json](./197868-demon-turf-neon-splash.json) |
 | Demon Turf: The Tower | 280851 | [280851-demon-turf-the-tower.json](./280851-demon-turf-the-tower.json) |
@@ -2902,6 +2903,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desperabis | 121707 | [121707-desperabis.json](./121707-desperabis.json) |
 | Desperado 2 | 13590 | [13590-desperado-2.json](./13590-desperado-2.json) |
 | Desperados 2: Cooper's Revenge | 7261 | [7261-desperados-2-coopers-revenge.json](./7261-desperados-2-coopers-revenge.json) |
+| Desperados III: Money for the Vultures - Part 1: Late to the Party | 152234 | [152234-desperados-iii-money-for-the-vultures-part-1-late-to-the-party.json](./152234-desperados-iii-money-for-the-vultures-part-1-late-to-the-party.json) |
+| Desperados III: Money for the Vultures - Part 2: Five Steps Ahead | 152235 | [152235-desperados-iii-money-for-the-vultures-part-2-five-steps-ahead.json](./152235-desperados-iii-money-for-the-vultures-part-2-five-steps-ahead.json) |
+| Desperados III: Money for the Vultures - Part 3: Once More With Feeling | 152236 | [152236-desperados-iii-money-for-the-vultures-part-3-once-more-with-feeling.json](./152236-desperados-iii-money-for-the-vultures-part-3-once-more-with-feeling.json) |
 | Desperate Defence | 115433 | [115433-desperate-defence.json](./115433-desperate-defence.json) |
 | Desperate game | 82050 | [82050-desperate-game.json](./82050-desperate-game.json) |
 | Desperate Place | 335290 | [335290-desperate-place.json](./335290-desperate-place.json) |
@@ -3227,6 +3231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devoid of Shadows | 27370 | [27370-devoid-of-shadows.json](./27370-devoid-of-shadows.json) |
 | Devolution: Maken no Ou to Shimobe-tachi | 220329 | [220329-devolution-maken-no-ou-to-shimobe-tachi.json](./220329-devolution-maken-no-ou-to-shimobe-tachi.json) |
 | Devolver Bootleg | 119315 | [119315-devolver-bootleg.json](./119315-devolver-bootleg.json) |
+| Devolver Tumble Time | 152205 | [152205-devolver-tumble-time.json](./152205-devolver-tumble-time.json) |
 | Devotion | 107228 | [107228-devotion.json](./107228-devotion.json) |
 | Devour | 181916 | [181916-devour.json](./181916-devour.json) |
 | Devwill Too ZX | 333924 | [333924-devwill-too-zx.json](./333924-devwill-too-zx.json) |
@@ -4017,6 +4022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovery Kids: Spider Quest | 67308 | [67308-discovery-kids-spider-quest.json](./67308-discovery-kids-spider-quest.json) |
 | Discovery Tour Bundle by Assassin's Creed | 218999 | [218999-discovery-tour-bundle-by-assassins-creed.json](./218999-discovery-tour-bundle-by-assassins-creed.json) |
 | Discovery Tour: Ancient Greece | 133962 | [133962-discovery-tour-ancient-greece.json](./133962-discovery-tour-ancient-greece.json) |
+| Discovery Tour: Viking Age | 152231 | [152231-discovery-tour-viking-age.json](./152231-discovery-tour-viking-age.json) |
 | Discovery: A Seek and Find Adventure | 9386 | [9386-discovery-a-seek-and-find-adventure.json](./9386-discovery-a-seek-and-find-adventure.json) |
 | Discovr Egypt: King Tut's Tomb | 33086 | [33086-discovr-egypt-king-tuts-tomb.json](./33086-discovr-egypt-king-tuts-tomb.json) |
 | Discremental | 405603 | [405603-discremental.json](./405603-discremental.json) |
@@ -6491,6 +6497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamland | 274535 | [274535-dreamland.json](./274535-dreamland.json) |
 | DreamLand | 32173 | [32173-dreamland.json](./32173-dreamland.json) |
 | Dreamland Arcade | 310572 | [310572-dreamland-arcade.json](./310572-dreamland-arcade.json) |
+| Dreamland Confectionery | 152191 | [152191-dreamland-confectionery.json](./152191-dreamland-confectionery.json) |
 | Dreamland Escape | 130338 | [130338-dreamland-escape.json](./130338-dreamland-escape.json) |
 | Dreamland Farm | 317223 | [317223-dreamland-farm.json](./317223-dreamland-farm.json) |
 | Dreamland Farm: Banner | 324443 | [324443-dreamland-farm-banner.json](./324443-dreamland-farm-banner.json) |
@@ -7574,6 +7581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Durka Simulator | 236402 | [236402-durka-simulator.json](./236402-durka-simulator.json) |
 | Duru: About Mole Rats and Depression | 138724 | [138724-duru-about-mole-rats-and-depression.json](./138724-duru-about-mole-rats-and-depression.json) |
 | Dūshì Kǒngbù Gùshì | 116312 | [116312-dushi-kongbu-gushi.json](./116312-dushi-kongbu-gushi.json) |
+| Dusk '82 | 152265 | [152265-dusk-82.json](./152265-dusk-82.json) |
 | Dusk 12: Deadly Zone | 17738 | [17738-dusk-12-deadly-zone.json](./17738-dusk-12-deadly-zone.json) |
 | Dusk Golem's Anthology of Horror | 124193 | [124193-dusk-golems-anthology-of-horror.json](./124193-dusk-golems-anthology-of-horror.json) |
 | Dusk of the Cage | 237949 | [237949-dusk-of-the-cage.json](./237949-dusk-of-the-cage.json) |
