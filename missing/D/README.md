@@ -1910,6 +1910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death's Web | 288815 | [288815-deaths-web.json](./288815-deaths-web.json) |
 | Deathball | 182452 | [182452-deathball.json](./182452-deathball.json) |
 | Deathbed Lullabye | 201328 | [201328-deathbed-lullabye.json](./201328-deathbed-lullabye.json) |
+| Deathbloom: Chapter 2 | 127103 | [127103-deathbloom-chapter-2.json](./127103-deathbloom-chapter-2.json) |
 | Deathbound | 135796 | [135796-deathbound.json](./135796-deathbound.json) |
 | Deathbound: Accepted by Death | 320735 | [320735-deathbound-accepted-by-death.json](./320735-deathbound-accepted-by-death.json) |
 | Deathbulge: Battle of the Bands | 114778 | [114778-deathbulge-battle-of-the-bands.json](./114778-deathbulge-battle-of-the-bands.json) |
@@ -7082,6 +7083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DTXMania2 | 123017 | [123017-dtxmania2.json](./123017-dtxmania2.json) |
 | DTXPlayer | 130948 | [130948-dtxplayer.json](./130948-dtxplayer.json) |
 | Duael Invaders | 42827 | [42827-duael-invaders.json](./42827-duael-invaders.json) |
+| Dual Brain Vol.1: Calculation | 127170 | [127170-dual-brain-vol-1-calculation.json](./127170-dual-brain-vol-1-calculation.json) |
 | Dual Brain: Complete Edition | 196178 | [196178-dual-brain-complete-edition.json](./196178-dual-brain-complete-edition.json) |
 | Dual Bus Simulator | 269028 | [269028-dual-bus-simulator.json](./269028-dual-bus-simulator.json) |
 | Dual Chroma: Far Shore | 196699 | [196699-dual-chroma-far-shore.json](./196699-dual-chroma-far-shore.json) |
