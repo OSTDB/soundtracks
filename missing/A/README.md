@@ -4751,6 +4751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Guttang Gottong | 271477 | [271477-arcade-archives-guttang-gottong.json](./271477-arcade-archives-guttang-gottong.json) |
 | Arcade Archives: Hacha Mecha Fighter | 151164 | [151164-arcade-archives-hacha-mecha-fighter.json](./151164-arcade-archives-hacha-mecha-fighter.json) |
 | Arcade Archives: Hyper Crash | 409673 | [409673-arcade-archives-hyper-crash.json](./409673-arcade-archives-hyper-crash.json) |
+| Arcade Archives: Hyper Sports | 126493 | [126493-arcade-archives-hyper-sports.json](./126493-arcade-archives-hyper-sports.json) |
 | Arcade Archives: Ice Climber | 68333 | [68333-arcade-archives-ice-climber.json](./68333-arcade-archives-ice-climber.json) |
 | Arcade Archives: Ikki | 99567 | [99567-arcade-archives-ikki.json](./99567-arcade-archives-ikki.json) |
 | Arcade Archives: Kid's Horehore Daisakusen | 99544 | [99544-arcade-archives-kids-horehore-daisakusen.json](./99544-arcade-archives-kids-horehore-daisakusen.json) |
@@ -5750,6 +5751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASCII Survivors | 398448 | [398448-ascii-survivors.json](./398448-ascii-survivors.json) |
 | Ascii the Brave Cat | 143752 | [143752-ascii-the-brave-cat.json](./143752-ascii-the-brave-cat.json) |
 | ASCII Tower Defense | 302097 | [302097-ascii-tower-defense.json](./302097-ascii-tower-defense.json) |
+| Asciident | 126536 | [126536-asciident.json](./126536-asciident.json) |
 | Asciill | 192976 | [192976-asciill.json](./192976-asciill.json) |
 | Ascribe | 235990 | [235990-ascribe.json](./235990-ascribe.json) |
 | Ascribe Imya | 382457 | [382457-ascribe-imya.json](./382457-ascribe-imya.json) |
@@ -6124,6 +6126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Sentinel | 297791 | [297791-asteroid-sentinel.json](./297791-asteroid-sentinel.json) |
 | Asteroid Smash | 73515 | [73515-asteroid-smash.json](./73515-asteroid-smash.json) |
 | Asteroid Wars | 116328 | [116328-asteroid-wars.json](./116328-asteroid-wars.json) |
+| Asteroidiga | 126541 | [126541-asteroidiga.json](./126541-asteroidiga.json) |
 | AsteroIdle | 211410 | [211410-asteroidle.json](./211410-asteroidle.json) |
 | Asteroids | 178966 | [178966-asteroids.json](./178966-asteroids.json) |
 | Asteroids | 187250 | [187250-asteroids.json](./187250-asteroids.json) |
