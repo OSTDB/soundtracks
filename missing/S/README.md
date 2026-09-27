@@ -2358,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sent to the Office | 238445 | [238445-sent-to-the-office.json](./238445-sent-to-the-office.json) |
 | Sentama | 223966 | [223966-sentama.json](./223966-sentama.json) |
 | Sente | 122414 | [122414-sente.json](./122414-sente.json) |
+| Sentence | 138130 | [138130-sentence.json](./138130-sentence.json) |
 | Sentenced VR | 152221 | [152221-sentenced-vr.json](./152221-sentenced-vr.json) |
 | Sentience | 143695 | [143695-sentience.json](./143695-sentience.json) |
 | Sentient | 227966 | [227966-sentient.json](./227966-sentient.json) |
@@ -4143,6 +4144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shugo Chara! Amu no Niji-iro Chara Change | 70666 | [70666-shugo-chara-amu-no-niji-iro-chara-change.json](./70666-shugo-chara-amu-no-niji-iro-chara-change.json) |
 | Shugo Chara! Spirit! Chara Formation-Rhythm | 124276 | [124276-shugo-chara-spirit-chara-formation-rhythm.json](./124276-shugo-chara-spirit-chara-formation-rhythm.json) |
 | Shǔguāng zhī Shī | 157116 | [157116-shuguang-zhi-shi.json](./157116-shuguang-zhi-shi.json) |
+| Shuǐhǔ Zhuàn | 138098 | [138098-shuihu-zhuan.json](./138098-shuihu-zhuan.json) |
 | Shukuchi Ninja | 213457 | [213457-shukuchi-ninja.json](./213457-shukuchi-ninja.json) |
 | Shukusai no Utahime: Kimi to Tsumugu Asu he no Uta | 194605 | [194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json](./194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json) |
 | Shukusei no Girlfriend AllStar | 305323 | [305323-shukusei-no-girlfriend-allstar.json](./305323-shukusei-no-girlfriend-allstar.json) |
