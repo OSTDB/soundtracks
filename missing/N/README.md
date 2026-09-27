@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nameless Graves | 397900 | [397900-nameless-graves.json](./397900-nameless-graves.json) |
 | Nameless Kaizo World | 267914 | [267914-nameless-kaizo-world.json](./267914-nameless-kaizo-world.json) |
 | Nameless Kaizo World Light | 267915 | [267915-nameless-kaizo-world-light.json](./267915-nameless-kaizo-world-light.json) |
+| Nameless Record | 163757 | [163757-nameless-record.json](./163757-nameless-record.json) |
 | Nameless Shells | 267916 | [267916-nameless-shells.json](./267916-nameless-shells.json) |
 | Nami | 169846 | [169846-nami.json](./169846-nami.json) |
 | Nami no Mani Mani - Sazanami Shinryoushou | 70645 | [70645-nami-no-mani-mani-sazanami-shinryoushou.json](./70645-nami-no-mani-mani-sazanami-shinryoushou.json) |
@@ -1006,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Abyss: Deluxe Edition | 169182 | [169182-neon-abyss-deluxe-edition.json](./169182-neon-abyss-deluxe-edition.json) |
 | Neon Baller 0.1 | 151706 | [151706-neon-baller-0-1.json](./151706-neon-baller-0-1.json) |
 | Neon Bash | 301804 | [301804-neon-bash.json](./301804-neon-bash.json) |
+| Neon Beat Rider | 163739 | [163739-neon-beat-rider.json](./163739-neon-beat-rider.json) |
 | Neon Beats | 197652 | [197652-neon-beats.json](./197652-neon-beats.json) |
 | Neon Blood | 223443 | [223443-neon-blood.json](./223443-neon-blood.json) |
 | Neon Blood: Limited Edition | 323889 | [323889-neon-blood-limited-edition.json](./323889-neon-blood-limited-edition.json) |
