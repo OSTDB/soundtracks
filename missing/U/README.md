@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Armored Turbodrifter: Saga Chapter 2 - Tank Authority Wolfram | 290950 | [290950-ultimate-armored-turbodrifter-saga-chapter-2-tank-authority-wolfram.json](./290950-ultimate-armored-turbodrifter-saga-chapter-2-tank-authority-wolfram.json) |
 | Ultimate Ball | 242483 | [242483-ultimate-ball.json](./242483-ultimate-ball.json) |
 | Ultimate Baseball Online 2007 | 21413 | [21413-ultimate-baseball-online-2007.json](./21413-ultimate-baseball-online-2007.json) |
+| Ultimate Battle | 156979 | [156979-ultimate-battle.json](./156979-ultimate-battle.json) |
 | Ultimate Battle Kingdom | 390507 | [390507-ultimate-battle-kingdom.json](./390507-ultimate-battle-kingdom.json) |
 | Ultimate Battle Royale PvP | 90675 | [90675-ultimate-battle-royale-pvp.json](./90675-ultimate-battle-royale-pvp.json) |
 | Ultimate Beach Soccer | 248631 | [248631-ultimate-beach-soccer.json](./248631-ultimate-beach-soccer.json) |
@@ -682,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Castle | 275663 | [275663-under-the-castle.json](./275663-under-the-castle.json) |
 | Under The Concrete Wave | 306068 | [306068-under-the-concrete-wave.json](./306068-under-the-concrete-wave.json) |
 | Under the Farm | 184648 | [184648-under-the-farm.json](./184648-under-the-farm.json) |
+| Under the Ghost Mountain | 156975 | [156975-under-the-ghost-mountain.json](./156975-under-the-ghost-mountain.json) |
 | Under the Island | 151501 | [151501-under-the-island.json](./151501-under-the-island.json) |
 | Under the Moon: Tsukiiro Ehon | 72682 | [72682-under-the-moon-tsukiiro-ehon.json](./72682-under-the-moon-tsukiiro-ehon.json) |
 | Under the Ocean | 50821 | [50821-under-the-ocean.json](./50821-under-the-ocean.json) |
