@@ -1118,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Property | 309491 | [309491-haunted-property.json](./309491-haunted-property.json) |
 | Haunted Property | 335697 | [335697-haunted-property.json](./335697-haunted-property.json) |
 | Haunted PS1 Demo Disc 2021 | 145030 | [145030-haunted-ps1-demo-disc-2021.json](./145030-haunted-ps1-demo-disc-2021.json) |
+| Haunted PS1 Madvent Calendar 2020 | 141758 | [141758-haunted-ps1-madvent-calendar-2020.json](./141758-haunted-ps1-madvent-calendar-2020.json) |
 | Haunted Record | 304608 | [304608-haunted-record.json](./304608-haunted-record.json) |
 | Haunted ROM: The Lost Cartridge | 363042 | [363042-haunted-rom-the-lost-cartridge.json](./363042-haunted-rom-the-lost-cartridge.json) |
 | Haunted Space Hotel: Vacancy | 330508 | [330508-haunted-space-hotel-vacancy.json](./330508-haunted-space-hotel-vacancy.json) |
