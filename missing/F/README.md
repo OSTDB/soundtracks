@@ -3002,6 +3002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flameruby | 106542 | [106542-flameruby.json](./106542-flameruby.json) |
 | Flaming Friday Night | 130168 | [130168-flaming-friday-night.json](./130168-flaming-friday-night.json) |
 | Flaming Thunderer | 232946 | [232946-flaming-thunderer.json](./232946-flaming-thunderer.json) |
+| Flaming/Million | 153319 | [153319-flaming-million.json](./153319-flaming-million.json) |
 | Flamingo Quest | 229635 | [229635-flamingo-quest.json](./229635-flamingo-quest.json) |
 | Flan's BN | 346613 | [346613-flans-bn.json](./346613-flans-bn.json) |
 | Flan's Mod | 232680 | [232680-flans-mod.json](./232680-flans-mod.json) |
@@ -5777,6 +5778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futr8 | 231339 | [231339-futr8.json](./231339-futr8.json) |
 | FutSim | 276783 | [276783-futsim.json](./276783-futsim.json) |
 | Futsuma Shoujo Charlotte | 203846 | [203846-futsuma-shoujo-charlotte.json](./203846-futsuma-shoujo-charlotte.json) |
+| Futuclass Chemistry VR | 153324 | [153324-futuclass-chemistry-vr.json](./153324-futuclass-chemistry-vr.json) |
 | Futuclass: Hydrogen & Oxygen | 170492 | [170492-futuclass-hydrogen-and-oxygen.json](./170492-futuclass-hydrogen-and-oxygen.json) |
 | Futuclass: Oxygen Escape Room | 170493 | [170493-futuclass-oxygen-escape-room.json](./170493-futuclass-oxygen-escape-room.json) |
 | Futurama Saw Game | 384662 | [384662-futurama-saw-game.json](./384662-futurama-saw-game.json) |
