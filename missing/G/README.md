@@ -2681,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golem | 310610 | [310610-golem.json](./310610-golem.json) |
 | Golem Wars | 58752 | [58752-golem-wars.json](./58752-golem-wars.json) |
 | Golembert | 258017 | [258017-golembert.json](./258017-golembert.json) |
+| Golems TD | 164244 | [164244-golems-td.json](./164244-golems-td.json) |
 | Golf | 131528 | [131528-golf.json](./131528-golf.json) |
 | Golf | 147820 | [147820-golf.json](./147820-golf.json) |
 | Golf | 18008 | [18008-golf.json](./18008-golf.json) |
@@ -2967,6 +2968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorilla Smash City Attack Game | 274185 | [274185-gorilla-smash-city-attack-game.json](./274185-gorilla-smash-city-attack-game.json) |
 | Gorillas | 308395 | [308395-gorillas.json](./308395-gorillas.json) |
 | Gorillaz - Escape to Plastic Beach | 66158 | [66158-gorillaz-escape-to-plastic-beach.json](./66158-gorillaz-escape-to-plastic-beach.json) |
+| Gorit | 164285 | [164285-gorit.json](./164285-gorit.json) |
 | Goritaire | 393809 | [393809-goritaire.json](./393809-goritaire.json) |
 | Gorky 17 | 7833 | [7833-gorky-17.json](./7833-gorky-17.json) |
 | Gorky Zero: Beyond Honor | 26557 | [26557-gorky-zero-beyond-honor.json](./26557-gorky-zero-beyond-honor.json) |
