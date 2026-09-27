@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeopardy!: 25th Anniversary Edition | 48694 | [48694-jeopardy-25th-anniversary-edition.json](./48694-jeopardy-25th-anniversary-edition.json) |
 | Jeopardy!: Junior Edition | 48709 | [48709-jeopardy-junior-edition.json](./48709-jeopardy-junior-edition.json) |
 | Jequi's Dream | 390007 | [390007-jequis-dream.json](./390007-jequis-dream.json) |
+| Jera | 121578 | [121578-jera.json](./121578-jera.json) |
 | Jeremiah | 181691 | [181691-jeremiah.json](./181691-jeremiah.json) |
 | Jeremy Goes Jumping | 128469 | [128469-jeremy-goes-jumping.json](./128469-jeremy-goes-jumping.json) |
 | Jeremy McGrath Supercross 98 | 4125 | [4125-jeremy-mcgrath-supercross-98.json](./4125-jeremy-mcgrath-supercross-98.json) |
