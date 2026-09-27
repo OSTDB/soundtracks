@@ -1702,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Salt City | 404240 | [404240-sea-salt-city.json](./404240-sea-salt-city.json) |
 | Sea Scenes | 219616 | [219616-sea-scenes.json](./219616-sea-scenes.json) |
 | Sea Trader: Rise of Taipan | 49386 | [49386-sea-trader-rise-of-taipan.json](./49386-sea-trader-rise-of-taipan.json) |
+| Sea War | 168633 | [168633-sea-war.json](./168633-sea-war.json) |
 | Sea Warfare: Glorious | 188024 | [188024-sea-warfare-glorious.json](./188024-sea-warfare-glorious.json) |
 | Sea Wolf Arcade | 130940 | [130940-sea-wolf-arcade.json](./130940-sea-wolf-arcade.json) |
 | Sea Wolf: Tactics | 149586 | [149586-sea-wolf-tactics.json](./149586-sea-wolf-tactics.json) |
@@ -10204,6 +10205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Jedi Challenges | 75089 | [75089-star-wars-jedi-challenges.json](./75089-star-wars-jedi-challenges.json) |
 | Star Wars: Jedi Knight Collection | 54401 | [54401-star-wars-jedi-knight-collection.json](./54401-star-wars-jedi-knight-collection.json) |
 | Star Wars: Jedi Reading | 91751 | [91751-star-wars-jedi-reading.json](./91751-star-wars-jedi-reading.json) |
+| Star Wars: Knights of the Old Republic - Remake | 168665 | [168665-star-wars-knights-of-the-old-republic-remake.json](./168665-star-wars-knights-of-the-old-republic-remake.json) |
 | Star Wars: Lethal Alliance | 200677 | [200677-star-wars-lethal-alliance.json](./200677-star-wars-lethal-alliance.json) |
 | Star Wars: Millenium Falcon Challenge | 198922 | [198922-star-wars-millenium-falcon-challenge.json](./198922-star-wars-millenium-falcon-challenge.json) |
 | Star Wars: Outpost | 75087 | [75087-star-wars-outpost.json](./75087-star-wars-outpost.json) |
@@ -12580,6 +12582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supaplex | 413616 | [413616-supaplex.json](./413616-supaplex.json) |
 | Supaplex Hard | 107929 | [107929-supaplex-hard.json](./107929-supaplex-hard.json) |
 | Supaplex: Second Chance | 145010 | [145010-supaplex-second-chance.json](./145010-supaplex-second-chance.json) |
+| Super | 168678 | [168678-super.json](./168678-super.json) |
 | Super | 51970 | [51970-super.json](./51970-super.json) |
 | Super "Mario" World | 297240 | [297240-super-mario-world.json](./297240-super-mario-world.json) |
 | Super "Mario" World 2 | 297496 | [297496-super-mario-world-2.json](./297496-super-mario-world-2.json) |
