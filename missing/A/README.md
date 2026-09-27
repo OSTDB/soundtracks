@@ -433,7 +433,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tofu Tail | 58803 | [58803-a-tofu-tail.json](./58803-a-tofu-tail.json) |
 | A Tome in the Attic | 363975 | [363975-a-tome-in-the-attic.json](./363975-a-tome-in-the-attic.json) |
 | A Total War Saga: Troy | 122649 | [122649-a-total-war-saga-troy.json](./122649-a-total-war-saga-troy.json) |
+| A Total War Saga: Troy - Heroic Edition | 169185 | [169185-a-total-war-saga-troy-heroic-edition.json](./169185-a-total-war-saga-troy-heroic-edition.json) |
 | A Total War Saga: Troy - Limited Edition | 139940 | [139940-a-total-war-saga-troy-limited-edition.json](./139940-a-total-war-saga-troy-limited-edition.json) |
+| A Total War Saga: Troy - Mythic Edition | 169186 | [169186-a-total-war-saga-troy-mythic-edition.json](./169186-a-total-war-saga-troy-mythic-edition.json) |
 | A Touch of Magic | 273966 | [273966-a-touch-of-magic.json](./273966-a-touch-of-magic.json) |
 | A Tower | 338718 | [338718-a-tower.json](./338718-a-tower.json) |
 | A Trail of Ooze: Chapter 1 | 174094 | [174094-a-trail-of-ooze-chapter-1.json](./174094-a-trail-of-ooze-chapter-1.json) |
@@ -1237,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 2 | 270073 | [270073-aerial-nature-jigsaw-puzzles-expansion-pack-2.json](./270073-aerial-nature-jigsaw-puzzles-expansion-pack-2.json) |
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 4 | 270199 | [270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json](./270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json) |
 | Aerial Racers | 76195 | [76195-aerial-racers.json](./76195-aerial-racers.json) |
+| Aerial_Knight's Never Yield: Deluxe Edition | 169190 | [169190-aerial-knights-never-yield-deluxe-edition.json](./169190-aerial-knights-never-yield-deluxe-edition.json) |
 | Aerial_Knight's We Never Yield | 290947 | [290947-aerial-knights-we-never-yield.json](./290947-aerial-knights-we-never-yield.json) |
 | Aero Cosmos | 335094 | [335094-aero-cosmos.json](./335094-aero-cosmos.json) |
 | Aero Dancing F: Todoroki Tsubasa no Hatsu Hikou | 267381 | [267381-aero-dancing-f-todoroki-tsubasa-no-hatsu-hikou.json](./267381-aero-dancing-f-todoroki-tsubasa-no-hatsu-hikou.json) |
