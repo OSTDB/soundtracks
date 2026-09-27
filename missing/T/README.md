@@ -3589,6 +3589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Door Factory | 405529 | [405529-the-door-factory.json](./405529-the-door-factory.json) |
 | The Door in The Skybox | 400977 | [400977-the-door-in-the-skybox.json](./400977-the-door-in-the-skybox.json) |
 | The Door Museum | 177483 | [177483-the-door-museum.json](./177483-the-door-museum.json) |
+| The Door of Redemption | 148972 | [148972-the-door-of-redemption.json](./148972-the-door-of-redemption.json) |
 | The Door of thoughts | 212777 | [212777-the-door-of-thoughts.json](./212777-the-door-of-thoughts.json) |
 | The Doors That Led to Nowhere | 336604 | [336604-the-doors-that-led-to-nowhere.json](./336604-the-doors-that-led-to-nowhere.json) |
 | The Dot | 226205 | [226205-the-dot.json](./226205-the-dot.json) |
@@ -5155,6 +5156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last War | 173257 | [173257-the-last-war.json](./173257-the-last-war.json) |
 | The Last Warlock | 34881 | [34881-the-last-warlock.json](./34881-the-last-warlock.json) |
 | The Last Warmage | 298631 | [298631-the-last-warmage.json](./298631-the-last-warmage.json) |
+| The Last Warrior | 148981 | [148981-the-last-warrior.json](./148981-the-last-warrior.json) |
 | The Last Weekend | 31890 | [31890-the-last-weekend.json](./31890-the-last-weekend.json) |
 | The Last Werewolf | 235177 | [235177-the-last-werewolf.json](./235177-the-last-werewolf.json) |
 | The Last Wish | 27877 | [27877-the-last-wish.json](./27877-the-last-wish.json) |
@@ -5392,6 +5394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Life and Suffering of Sir Brante | 138871 | [138871-the-life-and-suffering-of-sir-brante.json](./138871-the-life-and-suffering-of-sir-brante.json) |
 | The Life and Times of Daniel Vastberaden | 368571 | [368571-the-life-and-times-of-daniel-vastberaden.json](./368571-the-life-and-times-of-daniel-vastberaden.json) |
 | The Life of a Pacifist is Often Fraught With Conflict | 65777 | [65777-the-life-of-a-pacifist-is-often-fraught-with-conflict.json](./65777-the-life-of-a-pacifist-is-often-fraught-with-conflict.json) |
+| The Life of Frederick Sommer | 148987 | [148987-the-life-of-frederick-sommer.json](./148987-the-life-of-frederick-sommer.json) |
 | The Life of Me | 314662 | [314662-the-life-of-me.json](./314662-the-life-of-me.json) |
 | The Life of Saint Fiona Bianco Xena | 191748 | [191748-the-life-of-saint-fiona-bianco-xena.json](./191748-the-life-of-saint-fiona-bianco-xena.json) |
 | The Life Threads | 225261 | [225261-the-life-threads.json](./225261-the-life-threads.json) |
@@ -7217,6 +7220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stronghold Collection | 27858 | [27858-the-stronghold-collection.json](./27858-the-stronghold-collection.json) |
 | The Strongholds of Silberland | 183446 | [183446-the-strongholds-of-silberland.json](./183446-the-strongholds-of-silberland.json) |
 | The Struggle of Trust | 177339 | [177339-the-struggle-of-trust.json](./177339-the-struggle-of-trust.json) |
+| The Struggles of Stefan | 148975 | [148975-the-struggles-of-stefan.json](./148975-the-struggles-of-stefan.json) |
 | The Stubborn of WakGood: Afterheat | 257885 | [257885-the-stubborn-of-wakgood-afterheat.json](./257885-the-stubborn-of-wakgood-afterheat.json) |
 | The Studio 100: Play Island | 268210 | [268210-the-studio-100-play-island.json](./268210-the-studio-100-play-island.json) |
 | The Sub Shop | 308365 | [308365-the-sub-shop.json](./308365-the-sub-shop.json) |
@@ -7882,6 +7886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ward | 70348 | [70348-the-ward.json](./70348-the-ward.json) |
 | The Warden's Paradise | 289951 | [289951-the-wardens-paradise.json](./289951-the-wardens-paradise.json) |
 | The Warfstache Clicker | 239539 | [239539-the-warfstache-clicker.json](./239539-the-warfstache-clicker.json) |
+| The Warlin of Heroes | 148963 | [148963-the-warlin-of-heroes.json](./148963-the-warlin-of-heroes.json) |
 | The Warlock of Firetop Mountain: Goblin Scourge Edition! | 147832 | [147832-the-warlock-of-firetop-mountain-goblin-scourge-edition.json](./147832-the-warlock-of-firetop-mountain-goblin-scourge-edition.json) |
 | The Warp: Cephisso | 351641 | [351641-the-warp-cephisso.json](./351641-the-warp-cephisso.json) |
 | The Warrens | 373224 | [373224-the-warrens.json](./373224-the-warrens.json) |
