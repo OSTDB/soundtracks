@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railworks 3: Train Simulator 2012 - Bristol to Avonmouth | 136479 | [136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json](./136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json) |
 | Raimodula | 247463 | [247463-raimodula.json](./247463-raimodula.json) |
 | Rain | 128617 | [128617-rain.json](./128617-rain.json) |
+| Rain | 135784 | [135784-rain.json](./135784-rain.json) |
 | Rain | 216251 | [216251-rain.json](./216251-rain.json) |
 | Rain & Chamomile Tea | 260948 | [260948-rain-and-chamomile-tea.json](./260948-rain-and-chamomile-tea.json) |
 | Rain and Red Roses | 184057 | [184057-rain-and-red-roses.json](./184057-rain-and-red-roses.json) |
@@ -624,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainy Day Roommate | 158168 | [158168-rainy-day-roommate.json](./158168-rainy-day-roommate.json) |
 | Rainy Day Spider Solitaire | 366447 | [366447-rainy-day-spider-solitaire.json](./366447-rainy-day-spider-solitaire.json) |
 | Rainy Day Spider Solitaire HD | 354996 | [354996-rainy-day-spider-solitaire-hd.json](./354996-rainy-day-spider-solitaire-hd.json) |
+| Rainy Morning Kitchen Fire Blues | 135778 | [135778-rainy-morning-kitchen-fire-blues.json](./135778-rainy-morning-kitchen-fire-blues.json) |
 | Rainy single room | 205588 | [205588-rainy-single-room.json](./205588-rainy-single-room.json) |
 | RainyCloud | 224542 | [224542-rainycloud.json](./224542-rainycloud.json) |
 | Rainyday | 67905 | [67905-rainyday.json](./67905-rainyday.json) |
