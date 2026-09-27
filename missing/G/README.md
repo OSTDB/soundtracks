@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Dev Story | 19815 | [19815-game-dev-story.json](./19815-game-dev-story.json) |
 | Game Dev Story 2 | 91915 | [91915-game-dev-story-2.json](./91915-game-dev-story-2.json) |
 | Game Dev Studio | 89377 | [89377-game-dev-studio.json](./89377-game-dev-studio.json) |
+| Game Doraemon: Nobita no Shin Kyouryuu | 141725 | [141725-game-doraemon-nobita-no-shin-kyouryuu.json](./141725-game-doraemon-nobita-no-shin-kyouryuu.json) |
 | Game Doraemon: Nobita no Takara-jima | 97373 | [97373-game-doraemon-nobita-no-takara-jima.json](./97373-game-doraemon-nobita-no-takara-jima.json) |
 | Game Doraemon: Shin Nobita no Nippon Tanjou | 59055 | [59055-game-doraemon-shin-nobita-no-nippon-tanjou.json](./59055-game-doraemon-shin-nobita-no-nippon-tanjou.json) |
 | Game For Anna | 154004 | [154004-game-for-anna.json](./154004-game-for-anna.json) |
@@ -1445,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Money | 57049 | [57049-get-money.json](./57049-get-money.json) |
 | Get Mushi Club: Minna no Konchuu Daizukan | 153816 | [153816-get-mushi-club-minna-no-konchuu-daizukan.json](./153816-get-mushi-club-minna-no-konchuu-daizukan.json) |
 | Get Off Work | 379031 | [379031-get-off-work.json](./379031-get-off-work.json) |
+| Get Ogre It | 141747 | [141747-get-ogre-it.json](./141747-get-ogre-it.json) |
 | Get on Slime Level | 393614 | [393614-get-on-slime-level.json](./393614-get-on-slime-level.json) |
 | Get Order! | 274465 | [274465-get-order.json](./274465-get-order.json) |
 | Get Out | 287099 | [287099-get-out.json](./287099-get-out.json) |
@@ -1745,6 +1747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gift | 95440 | [95440-gift.json](./95440-gift.json) |
 | Gift Drop Machine: Life Simulator | 390242 | [390242-gift-drop-machine-life-simulator.json](./390242-gift-drop-machine-life-simulator.json) |
 | Gift for You | 290702 | [290702-gift-for-you.json](./290702-gift-for-you.json) |
+| Gift Giving Up | 141746 | [141746-gift-giving-up.json](./141746-gift-giving-up.json) |
 | Gift of Life: Key of Solomon | 88228 | [88228-gift-of-life-key-of-solomon.json](./88228-gift-of-life-key-of-solomon.json) |
 | Gift Quest: Christmas Edition | 255643 | [255643-gift-quest-christmas-edition.json](./255643-gift-quest-christmas-edition.json) |
 | Gift Quest: Valentine's Day | 255655 | [255655-gift-quest-valentines-day.json](./255655-gift-quest-valentines-day.json) |
@@ -2324,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator MMO Simulator | 88922 | [88922-goat-simulator-mmo-simulator.json](./88922-goat-simulator-mmo-simulator.json) |
 | Goat Simulator Waste of Space | 369590 | [369590-goat-simulator-waste-of-space.json](./369590-goat-simulator-waste-of-space.json) |
 | Goat Simulator: Remastered | 314250 | [314250-goat-simulator-remastered.json](./314250-goat-simulator-remastered.json) |
+| Goat Simulator: The Bundle | 141764 | [141764-goat-simulator-the-bundle.json](./141764-goat-simulator-the-bundle.json) |
 | Goat Simulator: Waste of Space Bundle | 234308 | [234308-goat-simulator-waste-of-space-bundle.json](./234308-goat-simulator-waste-of-space-bundle.json) |
 | Goat Survivor | 367025 | [367025-goat-survivor.json](./367025-goat-survivor.json) |
 | Goat!Goat! | 242481 | [242481-goat-goat.json](./242481-goat-goat.json) |
@@ -2746,6 +2750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Odyssey 2 DX | 269003 | [269003-golf-odyssey-2-dx.json](./269003-golf-odyssey-2-dx.json) |
 | Golf Of America | 351647 | [351647-golf-of-america.json](./351647-golf-of-america.json) |
 | Golf of the Dead | 181705 | [181705-golf-of-the-dead.json](./181705-golf-of-the-dead.json) |
+| Golf Party | 141741 | [141741-golf-party.json](./141741-golf-party.json) |
 | Golf Peaks | 107329 | [107329-golf-peaks.json](./107329-golf-peaks.json) |
 | Golf Pro 2000 Downunder | 93072 | [93072-golf-pro-2000-downunder.json](./93072-golf-pro-2000-downunder.json) |
 | Golf Resort Tycoon | 73296 | [73296-golf-resort-tycoon.json](./73296-golf-resort-tycoon.json) |
