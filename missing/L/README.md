@@ -2303,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link Letter | 53275 | [53275-link-letter.json](./53275-link-letter.json) |
 | Link of Hearts | 208012 | [208012-link-of-hearts.json](./208012-link-of-hearts.json) |
 | Link the animals | 117774 | [117774-link-the-animals.json](./117774-link-the-animals.json) |
+| Link Wars | 153317 | [153317-link-wars.json](./153317-link-wars.json) |
 | Link: The Faces of Evil | 8532 | [8532-link-the-faces-of-evil.json](./8532-link-the-faces-of-evil.json) |
 | Link: The Unleashed Nexus - Restructured Heaven | 151756 | [151756-link-the-unleashed-nexus-restructured-heaven.json](./151756-link-the-unleashed-nexus-restructured-heaven.json) |
 | Link! Like! Love Live! | 245241 | [245241-link-like-love-live.json](./245241-link-like-love-live.json) |
@@ -2526,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Magic | 267646 | [267646-little-magic.json](./267646-little-magic.json) |
 | Little Magic | 38383 | [38383-little-magic.json](./38383-little-magic.json) |
 | Little Magic | 81331 | [81331-little-magic.json](./81331-little-magic.json) |
+| Little Martian | 153332 | [153332-little-martian.json](./153332-little-martian.json) |
 | Little Medusa | 106984 | [106984-little-medusa.json](./106984-little-medusa.json) |
 | Little Memories | 109741 | [109741-little-memories.json](./109741-little-memories.json) |
 | Little Memory | 93025 | [93025-little-memory.json](./93025-little-memory.json) |
