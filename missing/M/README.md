@@ -2479,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Payne 2 | 196252 | [196252-max-payne-2.json](./196252-max-payne-2.json) |
 | Max Payne 2: Mona the Assassin | 320154 | [320154-max-payne-2-mona-the-assassin.json](./320154-max-payne-2-mona-the-assassin.json) |
 | Max Payne: Kung Fu Edition v3 | 24085 | [24085-max-payne-kung-fu-edition-v3.json](./24085-max-payne-kung-fu-edition-v3.json) |
+| Max Reloaded II | 146798 | [146798-max-reloaded-ii.json](./146798-max-reloaded-ii.json) |
 | Max Speed | 409543 | [409543-max-speed.json](./409543-max-speed.json) |
 | Max Steel: Laptop Bilíngue Power | 294463 | [294463-max-steel-laptop-bilingue-power.json](./294463-max-steel-laptop-bilingue-power.json) |
 | Max Steel: Max Technical | 294464 | [294464-max-steel-max-technical.json](./294464-max-steel-max-technical.json) |
@@ -2631,6 +2632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Twister | 191820 | [191820-maze-twister.json](./191820-maze-twister.json) |
 | Maze Walk VR - Virtual Reality Game Puzzle Apps | 88063 | [88063-maze-walk-vr-virtual-reality-game-puzzle-apps.json](./88063-maze-walk-vr-virtual-reality-game-puzzle-apps.json) |
 | Maze Wars | 116316 | [116316-maze-wars.json](./116316-maze-wars.json) |
+| Maze with Cube | 146775 | [146775-maze-with-cube.json](./146775-maze-with-cube.json) |
 | Maze Zen | 175296 | [175296-maze-zen.json](./175296-maze-zen.json) |
 | Maze: A VR Adventure | 160151 | [160151-maze-a-vr-adventure.json](./160151-maze-a-vr-adventure.json) |
 | Maze: Interim Odyssey | 345677 | [345677-maze-interim-odyssey.json](./345677-maze-interim-odyssey.json) |
@@ -4251,6 +4253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mia's Christmas 2 | 229165 | [229165-mias-christmas-2.json](./229165-mias-christmas-2.json) |
 | Mia's Hunt | 261201 | [261201-mias-hunt.json](./261201-mias-hunt.json) |
 | Mia's Math Adventure: Just in Time! | 144378 | [144378-mias-math-adventure-just-in-time.json](./144378-mias-math-adventure-just-in-time.json) |
+| Mia's Picnic | 146777 | [146777-mias-picnic.json](./146777-mias-picnic.json) |
 | Mia's Reading Adventure: The Search for Grandma's Remedy | 381688 | [381688-mias-reading-adventure-the-search-for-grandmas-remedy.json](./381688-mias-reading-adventure-the-search-for-grandmas-remedy.json) |
 | Mia's Science Adventure: Romaine's New Hat | 381689 | [381689-mias-science-adventure-romaines-new-hat.json](./381689-mias-science-adventure-romaines-new-hat.json) |
 | Miai Kekkon Shita Osanazuma ga Otoko no Ko Datta Ken | 59046 | [59046-miai-kekkon-shita-osanazuma-ga-otoko-no-ko-datta-ken.json](./59046-miai-kekkon-shita-osanazuma-ga-otoko-no-ko-datta-ken.json) |
@@ -4371,6 +4374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micropolis | 46622 | [46622-micropolis.json](./46622-micropolis.json) |
 | MicroProse Entertainment Pack Vol #1: Dr Floyd's Desktop Toys | 98962 | [98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json](./98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json) |
 | MicroProse Golf | 194972 | [194972-microprose-golf.json](./194972-microprose-golf.json) |
+| MicroSand | 146810 | [146810-microsand.json](./146810-microsand.json) |
 | Microscape | 411686 | [411686-microscape.json](./411686-microscape.json) |
 | Microscope Madness | 127211 | [127211-microscope-madness.json](./127211-microscope-madness.json) |
 | Microscopic | 215613 | [215613-microscopic.json](./215613-microscopic.json) |
@@ -6365,6 +6369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Bash | 18059 | [18059-monster-bash.json](./18059-monster-bash.json) |
 | Monster Battle | 302368 | [302368-monster-battle.json](./302368-monster-battle.json) |
 | Monster Battles | 343864 | [343864-monster-battles.json](./343864-monster-battles.json) |
+| Monster Blast | 146780 | [146780-monster-blast.json](./146780-monster-blast.json) |
 | Monster Blast Infinity | 330940 | [330940-monster-blast-infinity.json](./330940-monster-blast-infinity.json) |
 | Monster Block Game | 235236 | [235236-monster-block-game.json](./235236-monster-block-game.json) |
 | Monster Bomber | 20617 | [20617-monster-bomber.json](./20617-monster-bomber.json) |
@@ -8431,6 +8436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Cafe Nightmare | 348334 | [348334-my-little-cafe-nightmare.json](./348334-my-little-cafe-nightmare.json) |
 | My Little Career | 261852 | [261852-my-little-career.json](./261852-my-little-career.json) |
 | My Little Cemetery | 294173 | [294173-my-little-cemetery.json](./294173-my-little-cemetery.json) |
+| My Little Dog Adventure | 146772 | [146772-my-little-dog-adventure.json](./146772-my-little-dog-adventure.json) |
 | My Little Farm | 391620 | [391620-my-little-farm.json](./391620-my-little-farm.json) |
 | My Little Fast Food Booth | 147457 | [147457-my-little-fast-food-booth.json](./147457-my-little-fast-food-booth.json) |
 | My Little Friend Chibi | 391738 | [391738-my-little-friend-chibi.json](./391738-my-little-friend-chibi.json) |
@@ -8472,6 +8478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lovely Flower | 373659 | [373659-my-lovely-flower.json](./373659-my-lovely-flower.json) |
 | My Lovely Noblewomen | 148339 | [148339-my-lovely-noblewomen.json](./148339-my-lovely-noblewomen.json) |
 | My Lovey-Dovey Angel Is a Total Deadbeat: Seriously Scary! | 411717 | [411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json](./411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json) |
+| My Magic Florist | 146773 | [146773-my-magic-florist.json](./146773-my-magic-florist.json) |
 | My Magical Demon Lover | 109628 | [109628-my-magical-demon-lover.json](./109628-my-magical-demon-lover.json) |
 | My Make-Up | 93985 | [93985-my-make-up.json](./93985-my-make-up.json) |
 | My Mates | 346244 | [346244-my-mates.json](./346244-my-mates.json) |
