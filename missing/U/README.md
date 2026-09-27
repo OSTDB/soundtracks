@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Pirates | 176809 | [176809-ultimate-pirates.json](./176809-ultimate-pirates.json) |
 | Ultimate Pro Basketball GM | 228122 | [228122-ultimate-pro-basketball-gm.json](./228122-ultimate-pro-basketball-gm.json) |
 | Ultimate Protector | 215679 | [215679-ultimate-protector.json](./215679-ultimate-protector.json) |
+| Ultimate Puzzle Games: Sudoku Edition | 124111 | [124111-ultimate-puzzle-games-sudoku-edition.json](./124111-ultimate-puzzle-games-sudoku-edition.json) |
 | Ultimate Racing 2D | 99538 | [99538-ultimate-racing-2d.json](./99538-ultimate-racing-2d.json) |
 | Ultimate Racing 2D 2 | 164891 | [164891-ultimate-racing-2d-2.json](./164891-ultimate-racing-2d-2.json) |
 | Ultimate Ragdoll Game | 329183 | [329183-ultimate-ragdoll-game.json](./329183-ultimate-ragdoll-game.json) |
@@ -523,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umineko: Ougon Musou Kyoku - Cross | 79850 | [79850-umineko-ougon-musou-kyoku-cross.json](./79850-umineko-ougon-musou-kyoku-cross.json) |
 | Umiro | 90720 | [90720-umiro.json](./90720-umiro.json) |
 | Umisho | 62407 | [62407-umisho.json](./62407-umisho.json) |
+| Umiuru to Sudoku Shiyo! | 124119 | [124119-umiuru-to-sudoku-shiyo.json](./124119-umiuru-to-sudoku-shiyo.json) |
 | Umokay 64DS | 215203 | [215203-umokay-64ds.json](./215203-umokay-64ds.json) |
 | Umokay 64DS 2 | 215205 | [215205-umokay-64ds-2.json](./215205-umokay-64ds-2.json) |
 | Umokay 64DS 3: Travel in Time | 215206 | [215206-umokay-64ds-3-travel-in-time.json](./215206-umokay-64ds-3-travel-in-time.json) |
@@ -1158,7 +1160,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unoklive vs. Zuck | 182459 | [182459-unoklive-vs-zuck.json](./182459-unoklive-vs-zuck.json) |
 | Unolingo | 288195 | [288195-unolingo.json](./288195-unolingo.json) |
 | Unou Kaihatsu Series 10 Nontan to Issho Wai-wai Nippon | 303759 | [303759-unou-kaihatsu-series-10-nontan-to-issho-wai-wai-nippon.json](./303759-unou-kaihatsu-series-10-nontan-to-issho-wai-wai-nippon.json) |
+| Unou Kids DS | 124117 | [124117-unou-kids-ds.json](./124117-unou-kids-ds.json) |
+| Unou no Tatsujin: Hirameki Kosodate My Angel | 124116 | [124116-unou-no-tatsujin-hirameki-kosodate-my-angel.json](./124116-unou-no-tatsujin-hirameki-kosodate-my-angel.json) |
 | Unou no Tatsujin: Machigai Sagashi Museum | 146795 | [146795-unou-no-tatsujin-machigai-sagashi-museum.json](./146795-unou-no-tatsujin-machigai-sagashi-museum.json) |
+| Unou Tanren UnoTan DS: Shichida Shiki Otona no Shun Kan Training | 124115 | [124115-unou-tanren-unotan-ds-shichida-shiki-otona-no-shun-kan-training.json](./124115-unou-tanren-unotan-ds-shichida-shiki-otona-no-shun-kan-training.json) |
 | Unova Nights | 410358 | [410358-unova-nights.json](./410358-unova-nights.json) |
 | Unpacking | 115843 | [115843-unpacking.json](./115843-unpacking.json) |
 | Unpan | 338808 | [338808-unpan.json](./338808-unpan.json) |
@@ -1562,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utopias: Navigating Without Coordinates | 132635 | [132635-utopias-navigating-without-coordinates.json](./132635-utopias-navigating-without-coordinates.json) |
 | Utopos | 156635 | [156635-utopos.json](./156635-utopos.json) |
 | Utsuho's Great Hunger Battle | 262101 | [262101-utsuhos-great-hunger-battle.json](./262101-utsuhos-great-hunger-battle.json) |
+| Utsukushii Nihongo no Kakikata Hanashikata DS | 124114 | [124114-utsukushii-nihongo-no-kakikata-hanashikata-ds.json](./124114-utsukushii-nihongo-no-kakikata-hanashikata-ds.json) |
 | Utsurobi no Serentia | 301608 | [301608-utsurobi-no-serentia.json](./301608-utsurobi-no-serentia.json) |
 | Utsusemi no Meguri | 69323 | [69323-utsusemi-no-meguri.json](./69323-utsusemi-no-meguri.json) |
 | Utter a Name | 326216 | [326216-utter-a-name.json](./326216-utter-a-name.json) |
@@ -1573,6 +1579,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UvsU | 258704 | [258704-uvsu.json](./258704-uvsu.json) |
 | Uwaiteru | 341650 | [341650-uwaiteru.json](./341650-uwaiteru.json) |
 | UWAR | 338579 | [338579-uwar.json](./338579-uwar.json) |
+| Uwasa no Midori-kun!! Futari no Midori!? | 124113 | [124113-uwasa-no-midori-kun-futari-no-midori.json](./124113-uwasa-no-midori-kun-futari-no-midori.json) |
+| Uwasa no Midori-kun!! Natsu Iro Striker | 124112 | [124112-uwasa-no-midori-kun-natsu-iro-striker.json](./124112-uwasa-no-midori-kun-natsu-iro-striker.json) |
 | Uwis Shooting Gallery | 94196 | [94196-uwis-shooting-gallery.json](./94196-uwis-shooting-gallery.json) |
 | Uwol 2 | 299168 | [299168-uwol-2.json](./299168-uwol-2.json) |
 | Uwol: Quest for Money | 46675 | [46675-uwol-quest-for-money.json](./46675-uwol-quest-for-money.json) |
