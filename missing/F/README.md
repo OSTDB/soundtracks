@@ -1279,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Chicken | 17891 | [17891-fat-chicken.json](./17891-fat-chicken.json) |
 | Fat Dot | 179145 | [179145-fat-dot.json](./179145-fat-dot.json) |
 | Fat Dude Simulator | 117567 | [117567-fat-dude-simulator.json](./117567-fat-dude-simulator.json) |
+| Fat Fritz 2.0 SE | 155545 | [155545-fat-fritz-2-0-se.json](./155545-fat-fritz-2-0-se.json) |
 | Fat Hobo: Hobocop Saves Christmas | 410970 | [410970-fat-hobo-hobocop-saves-christmas.json](./410970-fat-hobo-hobocop-saves-christmas.json) |
 | Fat Kevin | 179494 | [179494-fat-kevin.json](./179494-fat-kevin.json) |
 | Fat Man Fights | 158720 | [158720-fat-man-fights.json](./158720-fat-man-fights.json) |
