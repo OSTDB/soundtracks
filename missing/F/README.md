@@ -2426,6 +2426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Thief | 286053 | [286053-fire-thief.json](./286053-fire-thief.json) |
 | Fire Trap | 39551 | [39551-fire-trap.json](./39551-fire-trap.json) |
 | Fire Truck | 40039 | [40039-fire-truck.json](./40039-fire-truck.json) |
+| Fire Trump: Air Combat VR | 171362 | [171362-fire-trump-air-combat-vr.json](./171362-fire-trump-air-combat-vr.json) |
 | Fire Up Together | 416103 | [416103-fire-up-together.json](./416103-fire-up-together.json) |
 | Fire Up: Football Manager | 347236 | [347236-fire-up-football-manager.json](./347236-fire-up-football-manager.json) |
 | Fire Up! | 87659 | [87659-fire-up.json](./87659-fire-up.json) |
@@ -5396,6 +5397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fully Automated Luxury Gay Space Communism | 69522 | [69522-fully-automated-luxury-gay-space-communism.json](./69522-fully-automated-luxury-gay-space-communism.json) |
 | Fully Dogomatic | 301289 | [301289-fully-dogomatic.json](./301289-fully-dogomatic.json) |
 | Fully Loaded Collector's Pack - Awesomenauts Assemble! Game Bundle | 90662 | [90662-fully-loaded-collectors-pack-awesomenauts-assemble-game-bundle.json](./90662-fully-loaded-collectors-pack-awesomenauts-assemble-game-bundle.json) |
+| fullybroKen | 171359 | [171359-fullybroken.json](./171359-fullybroken.json) |
 | fullybroKen#4 | 115640 | [115640-fullybroken-4.json](./115640-fullybroken-4.json) |
 | Fúlóng: Tiānyuán Jìnglèi | 124214 | [124214-fulong-tianyuan-jinglei.json](./124214-fulong-tianyuan-jinglei.json) |
 | Fuman Ghoul | 399007 | [399007-fuman-ghoul.json](./399007-fuman-ghoul.json) |
