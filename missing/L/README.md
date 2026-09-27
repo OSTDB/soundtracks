@@ -800,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layers of the Machine | 119794 | [119794-layers-of-the-machine.json](./119794-layers-of-the-machine.json) |
 | Layla: The Iris Missions | 239599 | [239599-layla-the-iris-missions.json](./239599-layla-the-iris-missions.json) |
 | Layover Lovers | 270204 | [270204-layover-lovers.json](./270204-layover-lovers.json) |
+| Laza Knitez!! | 134513 | [134513-laza-knitez.json](./134513-laza-knitez.json) |
 | Lazaret | 211740 | [211740-lazaret.json](./211740-lazaret.json) |
 | Lazarian | 23917 | [23917-lazarian.json](./23917-lazarian.json) |
 | Lazarus Doom | 198354 | [198354-lazarus-doom.json](./198354-lazarus-doom.json) |
