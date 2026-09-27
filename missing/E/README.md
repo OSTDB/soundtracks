@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggggg | 24074 | [24074-eggggg.json](./24074-eggggg.json) |
 | Egghead Gumpty | 210852 | [210852-egghead-gumpty.json](./210852-egghead-gumpty.json) |
 | Eggies | 233770 | [233770-eggies.json](./233770-eggies.json) |
+| Eggineer | 169767 | [169767-eggineer.json](./169767-eggineer.json) |
 | Egging On | 294270 | [294270-egging-on.json](./294270-egging-on.json) |
 | Egglets: The Long 10 Days | 372022 | [372022-egglets-the-long-10-days.json](./372022-egglets-the-long-10-days.json) |
 | Egglia Rebirth | 187474 | [187474-egglia-rebirth.json](./187474-egglia-rebirth.json) |
@@ -1249,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emote Farming Simulator | 173082 | [173082-emote-farming-simulator.json](./173082-emote-farming-simulator.json) |
 | Emote Guesser | 252732 | [252732-emote-guesser.json](./252732-emote-guesser.json) |
 | EmoteGuesser | 232687 | [232687-emoteguesser.json](./232687-emoteguesser.json) |
+| Emotion | 169766 | [169766-emotion.json](./169766-emotion.json) |
 | Emotions: A Day In A Life | 178603 | [178603-emotions-a-day-in-a-life.json](./178603-emotions-a-day-in-a-life.json) |
 | Emoyan no 10-bai Pro Yakyuu | 48332 | [48332-emoyan-no-10-bai-pro-yakyuu.json](./48332-emoyan-no-10-bai-pro-yakyuu.json) |
 | Empath | 182825 | [182825-empath.json](./182825-empath.json) |
