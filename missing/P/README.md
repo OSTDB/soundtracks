@@ -7249,6 +7249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrrfect Love | 204066 | [204066-purrrfect-love.json](./204066-purrrfect-love.json) |
 | Purrrification | 365161 | [365161-purrrification.json](./365161-purrrification.json) |
 | Purrrifiers: Cleaning Chaos | 322196 | [322196-purrrifiers-cleaning-chaos.json](./322196-purrrifiers-cleaning-chaos.json) |
+| Purrs In Heaven | 146800 | [146800-purrs-in-heaven.json](./146800-purrs-in-heaven.json) |
 | Purry & Panther: Lost in Helsinki | 304646 | [304646-purry-and-panther-lost-in-helsinki.json](./304646-purry-and-panther-lost-in-helsinki.json) |
 | Pursuing Susie | 84534 | [84534-pursuing-susie.json](./84534-pursuing-susie.json) |
 | Pursuit of Power 2 | 30866 | [30866-pursuit-of-power-2.json](./30866-pursuit-of-power-2.json) |
