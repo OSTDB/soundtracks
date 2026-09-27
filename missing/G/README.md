@@ -1427,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gerty: Robots In Love | 31638 | [31638-gerty-robots-in-love.json](./31638-gerty-robots-in-love.json) |
 | Gerztron | 78350 | [78350-gerztron.json](./78350-gerztron.json) |
 | Gesshizu: Minna de Chokomaka Murazukuri | 222253 | [222253-gesshizu-minna-de-chokomaka-murazukuri.json](./222253-gesshizu-minna-de-chokomaka-murazukuri.json) |
+| Gesshizu: Mori no Chiisana Nakama-tachi | 136966 | [136966-gesshizu-mori-no-chiisana-nakama-tachi.json](./136966-gesshizu-mori-no-chiisana-nakama-tachi.json) |
 | Gesshoku | 273346 | [273346-gesshoku.json](./273346-gesshoku.json) |
 | Gessou! Dangun Racer Onsoku Buster: Dangun Tama | 281457 | [281457-gessou-dangun-racer-onsoku-buster-dangun-tama.json](./281457-gessou-dangun-racer-onsoku-buster-dangun-tama.json) |
 | Gestalt_OS | 270657 | [270657-gestalt-os.json](./270657-gestalt-os.json) |
@@ -3065,6 +3066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothwane Towers | 323376 | [323376-gothwane-towers.json](./323376-gothwane-towers.json) |
 | Gotogra | 387357 | [387357-gotogra.json](./387357-gotogra.json) |
 | Gotouchi Kentei DS | 124018 | [124018-gotouchi-kentei-ds.json](./124018-gotouchi-kentei-ds.json) |
+| Gotouchi Tetsudou for Nintendo Switch | 136963 | [136963-gotouchi-tetsudou-for-nintendo-switch.json](./136963-gotouchi-tetsudou-for-nintendo-switch.json) |
 | Gotta Get Home | 231299 | [231299-gotta-get-home.json](./231299-gotta-get-home.json) |
 | Gotta Protectors: Amazon's Running Diet | 195502 | [195502-gotta-protectors-amazons-running-diet.json](./195502-gotta-protectors-amazons-running-diet.json) |
 | Gotta Protectors: Cart of Darkness | 196318 | [196318-gotta-protectors-cart-of-darkness.json](./196318-gotta-protectors-cart-of-darkness.json) |
