@@ -3551,6 +3551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flutter! | 304135 | [304135-flutter.json](./304135-flutter.json) |
 | Flutterdash | 391199 | [391199-flutterdash.json](./391199-flutterdash.json) |
 | Fluttershy Piano Tiles | 202388 | [202388-fluttershy-piano-tiles.json](./202388-fluttershy-piano-tiles.json) |
+| Flux | 140475 | [140475-flux.json](./140475-flux.json) |
 | Flux | 183373 | [183373-flux.json](./183373-flux.json) |
 | Flux | 202357 | [202357-flux.json](./202357-flux.json) |
 | Flux Empyrean | 383372 | [383372-flux-empyrean.json](./383372-flux-empyrean.json) |
@@ -4406,6 +4407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forty Thieves Solitaire Collection | 166679 | [166679-forty-thieves-solitaire-collection.json](./166679-forty-thieves-solitaire-collection.json) |
 | Forward | 178014 | [178014-forward.json](./178014-forward.json) |
 | Forward | 99024 | [99024-forward.json](./99024-forward.json) |
+| Forward Assault | 140491 | [140491-forward-assault.json](./140491-forward-assault.json) |
 | Forward March: Attack! Deluxe | 25106 | [25106-forward-march-attack-deluxe.json](./25106-forward-march-attack-deluxe.json) |
 | Forwards Compatible | 271742 | [271742-forwards-compatible.json](./271742-forwards-compatible.json) |
 | Forza Horizon - December IGN Car Pack | 132825 | [132825-forza-horizon-december-ign-car-pack.json](./132825-forza-horizon-december-ign-car-pack.json) |
@@ -5185,6 +5187,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Mission 2: Remake | 191401 | [191401-front-mission-2-remake.json](./191401-front-mission-2-remake.json) |
 | Front Mission 3 | 1502 | [1502-front-mission-3.json](./1502-front-mission-3.json) |
 | Front Mission 3: Remake | 217552 | [217552-front-mission-3-remake.json](./217552-front-mission-3-remake.json) |
+| Front Mission Evolved: Last Stand | 140460 | [140460-front-mission-evolved-last-stand.json](./140460-front-mission-evolved-last-stand.json) |
+| Front Mission Evolved: Map Pack | 140461 | [140461-front-mission-evolved-map-pack.json](./140461-front-mission-evolved-map-pack.json) |
+| Front Mission Evolved: Wanzer Pack 2 | 140458 | [140458-front-mission-evolved-wanzer-pack-2.json](./140458-front-mission-evolved-wanzer-pack-2.json) |
+| Front Mission Evolved: Wanzer Pack 3 | 140459 | [140459-front-mission-evolved-wanzer-pack-3.json](./140459-front-mission-evolved-wanzer-pack-3.json) |
+| Front Mission Evolved: Wanzer Weapons Pack 1 | 140456 | [140456-front-mission-evolved-wanzer-weapons-pack-1.json](./140456-front-mission-evolved-wanzer-weapons-pack-1.json) |
+| Front Mission Evolved: Wanzer Weapons Pack 2 | 140457 | [140457-front-mission-evolved-wanzer-weapons-pack-2.json](./140457-front-mission-evolved-wanzer-weapons-pack-2.json) |
 | Front Mission: Gun Hazard | 1499 | [1499-front-mission-gun-hazard.json](./1499-front-mission-gun-hazard.json) |
 | Front Office Card Games: Up and Down the River | 67995 | [67995-front-office-card-games-up-and-down-the-river.json](./67995-front-office-card-games-up-and-down-the-river.json) |
 | Front Office Football 2 | 68051 | [68051-front-office-football-2.json](./68051-front-office-football-2.json) |
