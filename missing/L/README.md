@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Làngjì Sānguó | 150636 | [150636-langji-sanguo.json](./150636-langji-sanguo.json) |
 | Langoth | 29756 | [29756-langoth.json](./29756-langoth.json) |
 | Langrisser I & II | 62775 | [62775-langrisser-i-and-ii.json](./62775-langrisser-i-and-ii.json) |
+| Langrisser I & II: Limited Edition Box | 167037 | [167037-langrisser-i-and-ii-limited-edition-box.json](./167037-langrisser-i-and-ii-limited-edition-box.json) |
 | Langrisser IV | 69226 | [69226-langrisser-iv.json](./69226-langrisser-iv.json) |
 | Langrisser IV & V: Final Edition | 44862 | [44862-langrisser-iv-and-v-final-edition.json](./44862-langrisser-iv-and-v-final-edition.json) |
 | Langrisser Re:Incarnation Tensei | 20080 | [20080-langrisser-re-incarnation-tensei.json](./20080-langrisser-re-incarnation-tensei.json) |
