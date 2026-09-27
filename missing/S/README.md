@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari Kart | 263579 | [263579-safari-kart.json](./263579-safari-kart.json) |
 | Safari Kongo | 79243 | [79243-safari-kongo.json](./79243-safari-kongo.json) |
 | Safari Party | 256224 | [256224-safari-party.json](./256224-safari-party.json) |
+| Safari Pinball | 124086 | [124086-safari-pinball.json](./124086-safari-pinball.json) |
 | Safari Puzzle Match | 319952 | [319952-safari-puzzle-match.json](./319952-safari-puzzle-match.json) |
 | Safari Quest | 84904 | [84904-safari-quest.json](./84904-safari-quest.json) |
 | Safari Rally | 40416 | [40416-safari-rally.json](./40416-safari-rally.json) |
@@ -4381,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sign of Torment | 257348 | [257348-sign-of-torment.json](./257348-sign-of-torment.json) |
 | Sign Off | 364705 | [364705-sign-off.json](./364705-sign-off.json) |
 | Sign: Broken Kether | 406269 | [406269-sign-broken-kether.json](./406269-sign-broken-kether.json) |
+| Signal | 124085 | [124085-signal.json](./124085-signal.json) |
 | Signal | 171482 | [171482-signal.json](./171482-signal.json) |
 | Signal | 205094 | [205094-signal.json](./205094-signal.json) |
 | Signal | 329155 | [329155-signal.json](./329155-signal.json) |
@@ -4677,6 +4679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Vol. 120: Saigo no Nippon Hei - Utsukushiki Kokudo Dakkan Sakusen | 203340 | [203340-simple-2000-series-vol-120-saigo-no-nippon-hei-utsukushiki-kokudo-dakkan-sakusen.json](./203340-simple-2000-series-vol-120-saigo-no-nippon-hei-utsukushiki-kokudo-dakkan-sakusen.json) |
 | Simple 2000 Series Vol. 14: The Billiard | 335904 | [335904-simple-2000-series-vol-14-the-billiard.json](./335904-simple-2000-series-vol-14-the-billiard.json) |
 | Simple 2000 Series Vol. 19: The Renai Simulation - Watashi ni Oma Cafe | 70431 | [70431-simple-2000-series-vol-19-the-renai-simulation-watashi-ni-oma-cafe.json](./70431-simple-2000-series-vol-19-the-renai-simulation-watashi-ni-oma-cafe.json) |
+| Simple 2000 Series Vol. 2: The Party Game | 124080 | [124080-simple-2000-series-vol-2-the-party-game.json](./124080-simple-2000-series-vol-2-the-party-game.json) |
 | Simple 2000 Series Vol. 20: The Dungeon RPG | 335906 | [335906-simple-2000-series-vol-20-the-dungeon-rpg.json](./335906-simple-2000-series-vol-20-the-dungeon-rpg.json) |
 | Simple 2000 Series Vol. 24: The Bowling Hyper | 335909 | [335909-simple-2000-series-vol-24-the-bowling-hyper.json](./335909-simple-2000-series-vol-24-the-bowling-hyper.json) |
 | Simple 2000 Series Vol. 29: The Renai Board Game Seishun 18 Radio | 203257 | [203257-simple-2000-series-vol-29-the-renai-board-game-seishun-18-radio.json](./203257-simple-2000-series-vol-29-the-renai-board-game-seishun-18-radio.json) |
@@ -4689,7 +4692,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Vol. 58: The Gekai | 203276 | [203276-simple-2000-series-vol-58-the-gekai.json](./203276-simple-2000-series-vol-58-the-gekai.json) |
 | Simple 2000 Series Vol. 59: The Uchuujin to Hanasou! Uchuujin-tte Naani? | 203277 | [203277-simple-2000-series-vol-59-the-uchuujin-to-hanasou-uchuujin-tte-naani.json](./203277-simple-2000-series-vol-59-the-uchuujin-to-hanasou-uchuujin-tte-naani.json) |
 | Simple 2000 Series Vol. 62: The Super Puzzle Bobble DX | 61339 | [61339-simple-2000-series-vol-62-the-super-puzzle-bobble-dx.json](./61339-simple-2000-series-vol-62-the-super-puzzle-bobble-dx.json) |
+| Simple 2000 Series vol. 66: The Party Unou Quiz | 124079 | [124079-simple-2000-series-vol-66-the-party-unou-quiz.json](./124079-simple-2000-series-vol-66-the-party-unou-quiz.json) |
 | Simple 2000 Series Vol. 69: The Board Game Collection | 203279 | [203279-simple-2000-series-vol-69-the-board-game-collection.json](./203279-simple-2000-series-vol-69-the-board-game-collection.json) |
+| Simple 2000 Series Vol. 70: The Kanshikikan | 124078 | [124078-simple-2000-series-vol-70-the-kanshikikan.json](./124078-simple-2000-series-vol-70-the-kanshikikan.json) |
 | Simple 2000 Series Vol. 71: The Fantasy Renai Adventure - Kanojo no Densetsu, Boku no Sekiban | 203280 | [203280-simple-2000-series-vol-71-the-fantasy-renai-adventure-kanojo-no-densetsu-boku-no-sekiban.json](./203280-simple-2000-series-vol-71-the-fantasy-renai-adventure-kanojo-no-densetsu-boku-no-sekiban.json) |
 | Simple 2000 Series Vol. 77: The Hanasou Hanguru no Tabi | 203319 | [203319-simple-2000-series-vol-77-the-hanasou-hanguru-no-tabi.json](./203319-simple-2000-series-vol-77-the-hanasou-hanguru-no-tabi.json) |
 | Simple 2000 Series vol. 79: Akko ni Omakase! The Party Quiz | 203320 | [203320-simple-2000-series-vol-79-akko-ni-omakase-the-party-quiz.json](./203320-simple-2000-series-vol-79-akko-ni-omakase-the-party-quiz.json) |
