@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Seiya: Ougon Densetsu - Kanketsu-hen | 48654 | [48654-saint-seiya-ougon-densetsu-kanketsu-hen.json](./48654-saint-seiya-ougon-densetsu-kanketsu-hen.json) |
 | Saint Seiya: Ougon Densetsu-hen - Perfect Edition | 37353 | [37353-saint-seiya-ougon-densetsu-hen-perfect-edition.json](./37353-saint-seiya-ougon-densetsu-hen-perfect-edition.json) |
 | Saint Seiya: Rising Cosmo | 139221 | [139221-saint-seiya-rising-cosmo.json](./139221-saint-seiya-rising-cosmo.json) |
+| Saint Seiya: Ultimate Cosmo | 166519 | [166519-saint-seiya-ultimate-cosmo.json](./166519-saint-seiya-ultimate-cosmo.json) |
 | Saint Sword | 46199 | [46199-saint-sword.json](./46199-saint-sword.json) |
 | Saint Warner's Angels | 239768 | [239768-saint-warners-angels.json](./239768-saint-warners-angels.json) |
 | Sainte-Vibrisse | 322191 | [322191-sainte-vibrisse.json](./322191-sainte-vibrisse.json) |
@@ -2338,6 +2339,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinels of the Multiverse: Wrath of the Cosmos | 170415 | [170415-sentinels-of-the-multiverse-wrath-of-the-cosmos.json](./170415-sentinels-of-the-multiverse-wrath-of-the-cosmos.json) |
 | Sento Survivor: Slip, Grab, and Bathe in Glory! | 390231 | [390231-sento-survivor-slip-grab-and-bathe-in-glory.json](./390231-sento-survivor-slip-grab-and-bathe-in-glory.json) |
 | Sentou Gakuen: Revival | 34388 | [34388-sentou-gakuen-revival.json](./34388-sentou-gakuen-revival.json) |
+| Sentou Kokka Kai Improved | 166547 | [166547-sentou-kokka-kai-improved.json](./166547-sentou-kokka-kai-improved.json) |
+| Sentou Kokka: Air Land Battle | 166546 | [166546-sentou-kokka-air-land-battle.json](./166546-sentou-kokka-air-land-battle.json) |
 | Sentree | 18281 | [18281-sentree.json](./18281-sentree.json) |
 | Sentry | 172054 | [172054-sentry.json](./172054-sentry.json) |
 | Sentry | 218164 | [218164-sentry.json](./218164-sentry.json) |
@@ -4338,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hunter Patrol Disk #2 | 77311 | [77311-silent-hunter-patrol-disk-2.json](./77311-silent-hunter-patrol-disk-2.json) |
 | Silent Infinity | 202366 | [202366-silent-infinity.json](./202366-silent-infinity.json) |
 | Silent Mobius: Case - Titanic | 214432 | [214432-silent-mobius-case-titanic.json](./214432-silent-mobius-case-titanic.json) |
+| Silent Mobius: Genei no Datenshi | 166498 | [166498-silent-mobius-genei-no-datenshi.json](./166498-silent-mobius-genei-no-datenshi.json) |
 | Silent Night | 110391 | [110391-silent-night.json](./110391-silent-night.json) |
 | Silent Night: A Christmas Delivery | 158667 | [158667-silent-night-a-christmas-delivery.json](./158667-silent-night-a-christmas-delivery.json) |
 | Silent Nightmares: A Christmas Story | 285511 | [285511-silent-nightmares-a-christmas-story.json](./285511-silent-nightmares-a-christmas-story.json) |
@@ -5845,6 +5849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Nights | 253397 | [253397-small-nights.json](./253397-small-nights.json) |
 | Small Pixel | 105094 | [105094-small-pixel.json](./105094-small-pixel.json) |
 | Small Rockets Mahjongg | 208956 | [208956-small-rockets-mahjongg.json](./208956-small-rockets-mahjongg.json) |
+| Small Soldiers | 166528 | [166528-small-soldiers.json](./166528-small-soldiers.json) |
 | Small Soldiers | 71671 | [71671-small-soldiers.json](./71671-small-soldiers.json) |
 | Small Soldiers: Globotech Design Lab | 14594 | [14594-small-soldiers-globotech-design-lab.json](./14594-small-soldiers-globotech-design-lab.json) |
 | Small Soldiers: Hand to Hand Combat Game | 245408 | [245408-small-soldiers-hand-to-hand-combat-game.json](./245408-small-soldiers-hand-to-hand-combat-game.json) |
@@ -7014,6 +7019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somnifuge | 330702 | [330702-somnifuge.json](./330702-somnifuge.json) |
 | Somniphobia | 340940 | [340940-somniphobia.json](./340940-somniphobia.json) |
 | Somnis: Rumble Rush | 332441 | [332441-somnis-rumble-rush.json](./332441-somnis-rumble-rush.json) |
+| Somnium | 166502 | [166502-somnium.json](./166502-somnium.json) |
 | Somnium | 201329 | [201329-somnium.json](./201329-somnium.json) |
 | Somnium Eleven | 191876 | [191876-somnium-eleven.json](./191876-somnium-eleven.json) |
 | Somnium Shore | 158183 | [158183-somnium-shore.json](./158183-somnium-shore.json) |
@@ -7897,6 +7903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soushuu Senshinkan Gakuen Bansenjin | 137082 | [137082-soushuu-senshinkan-gakuen-bansenjin.json](./137082-soushuu-senshinkan-gakuen-bansenjin.json) |
 | Souten Koihime: Dawn of Sovereignty | 411657 | [411657-souten-koihime-dawn-of-sovereignty.json](./411657-souten-koihime-dawn-of-sovereignty.json) |
 | Souten Koihime: Shigen no Ou | 326788 | [326788-souten-koihime-shigen-no-ou.json](./326788-souten-koihime-shigen-no-ou.json) |
+| Souten no Shiroki Kami no Kura: Great Peak | 166501 | [166501-souten-no-shiroki-kami-no-kura-great-peak.json](./166501-souten-no-shiroki-kami-no-kura-great-peak.json) |
 | South of Midnight: Weaver’s Edition | 329136 | [329136-south-of-midnight-weaver-s-edition.json](./329136-south-of-midnight-weaver-s-edition.json) |
 | South Park | 198486 | [198486-south-park.json](./198486-south-park.json) |
 | South Park 201 - Quizner's Trivia | 76981 | [76981-south-park-201-quizners-trivia.json](./76981-south-park-201-quizners-trivia.json) |
@@ -11580,6 +11587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Drag Racing Car Driving Simulator 2022 Games | 231066 | [231066-street-drag-racing-car-driving-simulator-2022-games.json](./231066-street-drag-racing-car-driving-simulator-2022-games.json) |
 | Street Drag Racing Car Driving Simulator: Premium Edition | 315852 | [315852-street-drag-racing-car-driving-simulator-premium-edition.json](./315852-street-drag-racing-car-driving-simulator-premium-edition.json) |
 | Street Drag Racing: Car Simulator | 271475 | [271475-street-drag-racing-car-simulator.json](./271475-street-drag-racing-car-simulator.json) |
+| Street Dreams | 166497 | [166497-street-dreams.json](./166497-street-dreams.json) |
 | Street Dude: Homeless Empire | 245373 | [245373-street-dude-homeless-empire.json](./245373-street-dude-homeless-empire.json) |
 | Street Dunk | 264320 | [264320-street-dunk.json](./264320-street-dunk.json) |
 | Street Fighter 2010: The Final Fight | 45196 | [45196-street-fighter-2010-the-final-fight.json](./45196-street-fighter-2010-the-final-fight.json) |
