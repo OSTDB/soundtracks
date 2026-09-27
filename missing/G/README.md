@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Store Simulator | 346695 | [346695-game-store-simulator.json](./346695-game-store-simulator.json) |
 | Game Studio Simulator | 115594 | [115594-game-studio-simulator.json](./115594-game-studio-simulator.json) |
 | Game Tengoku: Cruisin Mix | 52187 | [52187-game-tengoku-cruisin-mix.json](./52187-game-tengoku-cruisin-mix.json) |
+| Game Tengoku: Cruisin Mix Special - Gokuraku Box | 167054 | [167054-game-tengoku-cruisin-mix-special-gokuraku-box.json](./167054-game-tengoku-cruisin-mix-special-gokuraku-box.json) |
 | Game Tester Quest | 283308 | [283308-game-tester-quest.json](./283308-game-tester-quest.json) |
 | Game Time Glizzys | 266298 | [266298-game-time-glizzys.json](./266298-game-time-glizzys.json) |
 | Game Title | 139818 | [139818-game-title.json](./139818-game-title.json) |
