@@ -482,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18th Floor | 333761 | [333761-18th-floor.json](./333761-18th-floor.json) |
 | 19 Part One: Boot Camp | 41010 | [41010-19-part-one-boot-camp.json](./41010-19-part-one-boot-camp.json) |
 | 19: Neunzehn | 41342 | [41342-19-neunzehn.json](./41342-19-neunzehn.json) |
+| 1912 Titanic Mystery | 120395 | [120395-1912-titanic-mystery.json](./120395-1912-titanic-mystery.json) |
 | 1912 Titanic w/ Neptunia | 205802 | [205802-1912-titanic-w-neptunia.json](./205802-1912-titanic-w-neptunia.json) |
 | 1917: The Alien Invasion DX Remastered | 332592 | [332592-1917-the-alien-invasion-dx-remastered.json](./332592-1917-the-alien-invasion-dx-remastered.json) |
 | 1931: Scheherazade at the Library of Pergamum | 36136 | [36136-1931-scheherazade-at-the-library-of-pergamum.json](./36136-1931-scheherazade-at-the-library-of-pergamum.json) |
