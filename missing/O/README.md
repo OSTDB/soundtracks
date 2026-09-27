@@ -1673,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbo | 292822 | [292822-orbo.json](./292822-orbo.json) |
 | Orbo's Exodus | 314907 | [314907-orbos-exodus.json](./314907-orbos-exodus.json) |
 | Orbo's Odyssey | 260493 | [260493-orbos-odyssey.json](./260493-orbos-odyssey.json) |
+| OrbQuest: The Search for Seven Wards | 140450 | [140450-orbquest-the-search-for-seven-wards.json](./140450-orbquest-the-search-for-seven-wards.json) |
 | Orbs Match | 88157 | [88157-orbs-match.json](./88157-orbs-match.json) |
 | Orbs Orbs Orbs | 342160 | [342160-orbs-orbs-orbs.json](./342160-orbs-orbs-orbs.json) |
 | Orbtangle | 221119 | [221119-orbtangle.json](./221119-orbtangle.json) |
