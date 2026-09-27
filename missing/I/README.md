@@ -1461,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industry Giant 4.0 | 284886 | [284886-industry-giant-4-0.json](./284886-industry-giant-4-0.json) |
 | Industry Giant II | 16947 | [16947-industry-giant-ii.json](./16947-industry-giant-ii.json) |
 | Industry Giant: Expansion Set | 100137 | [100137-industry-giant-expansion-set.json](./100137-industry-giant-expansion-set.json) |
+| Industry Idle | 148408 | [148408-industry-idle.json](./148408-industry-idle.json) |
 | IndustryPlayer | 79239 | [79239-industryplayer.json](./79239-industryplayer.json) |
 | Indy 4 | 18583 | [18583-indy-4.json](./18583-indy-4.json) |
 | Indy Cat and Ball of Fate | 59449 | [59449-indy-cat-and-ball-of-fate.json](./59449-indy-cat-and-ball-of-fate.json) |
