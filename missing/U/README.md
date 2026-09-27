@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultradian | 265132 | [265132-ultradian.json](./265132-ultradian.json) |
 | Ultraflow 2 | 129790 | [129790-ultraflow-2.json](./129790-ultraflow-2.json) |
 | Ultrafrog and the City of Destruction | 56426 | [56426-ultrafrog-and-the-city-of-destruction.json](./56426-ultrafrog-and-the-city-of-destruction.json) |
+| UltraGoodness 2 | 121539 | [121539-ultragoodness-2.json](./121539-ultragoodness-2.json) |
 | Ultragun Dreamland | 138728 | [138728-ultragun-dreamland.json](./138728-ultragun-dreamland.json) |
 | Ultrakanoid | 310179 | [310179-ultrakanoid.json](./310179-ultrakanoid.json) |
 | Ultrakill | 124333 | [124333-ultrakill.json](./124333-ultrakill.json) |
@@ -1431,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban | 312570 | [312570-urban.json](./312570-urban.json) |
 | Urban Ascend | 390262 | [390262-urban-ascend.json](./390262-urban-ascend.json) |
 | Urban Assault | 50131 | [50131-urban-assault.json](./50131-urban-assault.json) |
+| Urban Cards | 121582 | [121582-urban-cards.json](./121582-urban-cards.json) |
 | Urban Champion-e | 170014 | [170014-urban-champion-e.json](./170014-urban-champion-e.json) |
 | Urban Dead | 69281 | [69281-urban-dead.json](./69281-urban-dead.json) |
 | Urban Dreambog | 323391 | [323391-urban-dreambog.json](./323391-urban-dreambog.json) |
