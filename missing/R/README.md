@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race to Mars | 16737 | [16737-race-to-mars.json](./16737-race-to-mars.json) |
 | Race To The Sea | 372479 | [372479-race-to-the-sea.json](./372479-race-to-the-sea.json) |
 | Race Track Maniacs | 333527 | [333527-race-track-maniacs.json](./333527-race-track-maniacs.json) |
+| Race With Ryan: Adventure Track Pack | 168140 | [168140-race-with-ryan-adventure-track-pack.json](./168140-race-with-ryan-adventure-track-pack.json) |
 | Race with Ryan: Road Trip - Deluxe Edition | 141036 | [141036-race-with-ryan-road-trip-deluxe-edition.json](./141036-race-with-ryan-road-trip-deluxe-edition.json) |
 | Race With Ryan: Surprise Track Pack | 197661 | [197661-race-with-ryan-surprise-track-pack.json](./197661-race-with-ryan-surprise-track-pack.json) |
 | Race: Rocket Arena Car Extreme | 226724 | [226724-race-rocket-arena-car-extreme.json](./226724-race-rocket-arena-car-extreme.json) |
@@ -179,12 +180,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race07 | 50162 | [50162-race07.json](./50162-race07.json) |
 | Raceborn | 311638 | [311638-raceborn.json](./311638-raceborn.json) |
 | Racecraft | 18188 | [18188-racecraft.json](./18188-racecraft.json) |
+| RaceLeague | 168128 | [168128-raceleague.json](./168128-raceleague.json) |
 | Racer | 282668 | [282668-racer.json](./282668-racer.json) |
 | Racer | 79859 | [79859-racer.json](./79859-racer.json) |
 | Racer Overdrive | 373188 | [373188-racer-overdrive.json](./373188-racer-overdrive.json) |
 | Racerloop | 259817 | [259817-racerloop.json](./259817-racerloop.json) |
 | RaceRoom - Audi Sport TT Cup 2015 | 53170 | [53170-raceroom-audi-sport-tt-cup-2015.json](./53170-raceroom-audi-sport-tt-cup-2015.json) |
 | RaceRoom - DTM Experience 2015 | 53168 | [53168-raceroom-dtm-experience-2015.json](./53168-raceroom-dtm-experience-2015.json) |
+| RaceRoom Racing Experience: ADAC GT Masters Experience 2014 | 168153 | [168153-raceroom-racing-experience-adac-gt-masters-experience-2014.json](./168153-raceroom-racing-experience-adac-gt-masters-experience-2014.json) |
+| RaceRoom Racing Experience: DTM Experience 2014 | 168152 | [168152-raceroom-racing-experience-dtm-experience-2014.json](./168152-raceroom-racing-experience-dtm-experience-2014.json) |
 | RaceRoom Racing Experience: Nurburgring Legends | 53167 | [53167-raceroom-racing-experience-nurburgring-legends.json](./53167-raceroom-racing-experience-nurburgring-legends.json) |
 | Racers Islands | 233229 | [233229-racers-islands.json](./233229-racers-islands.json) |
 | RaceTrap | 287213 | [287213-racetrap.json](./287213-racetrap.json) |
@@ -2079,6 +2083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reload | 183874 | [183874-reload.json](./183874-reload.json) |
 | Reload 2 Remember | 227470 | [227470-reload-2-remember.json](./227470-reload-2-remember.json) |
 | Reload Map Jam | 271844 | [271844-reload-map-jam.json](./271844-reload-map-jam.json) |
+| Reloader: test_subject | 168129 | [168129-reloader-test-subject.json](./168129-reloader-test-subject.json) |
 | Relumine | 174277 | [174277-relumine.json](./174277-relumine.json) |
 | REM-9: The Yume Nikki Randomizer | 229704 | [229704-rem-9-the-yume-nikki-randomizer.json](./229704-rem-9-the-yume-nikki-randomizer.json) |
 | Rem: The Dreamer | 368653 | [368653-rem-the-dreamer.json](./368653-rem-the-dreamer.json) |
