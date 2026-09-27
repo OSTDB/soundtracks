@@ -5239,6 +5239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runeth | 385723 | [385723-runeth.json](./385723-runeth.json) |
 | Runeveil | 383632 | [383632-runeveil.json](./383632-runeveil.json) |
 | Runeverse | 137597 | [137597-runeverse.json](./137597-runeverse.json) |
+| Runeverse: Sea Brawls | 165429 | [165429-runeverse-sea-brawls.json](./165429-runeverse-sea-brawls.json) |
 | Runewaker | 186803 | [186803-runewaker.json](./186803-runewaker.json) |
 | Runewatch: Age of Arcanum | 208464 | [208464-runewatch-age-of-arcanum.json](./208464-runewatch-age-of-arcanum.json) |
 | Runeyana | 32935 | [32935-runeyana.json](./32935-runeyana.json) |
