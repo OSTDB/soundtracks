@@ -3810,6 +3810,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimoire of Gaia | 237528 | [237528-grimoire-of-gaia.json](./237528-grimoire-of-gaia.json) |
 | Grimoire Organizer | 282146 | [282146-grimoire-organizer.json](./282146-grimoire-organizer.json) |
 | Grimoire: Heralds of the Winged Exemplar | 43487 | [43487-grimoire-heralds-of-the-winged-exemplar.json](./43487-grimoire-heralds-of-the-winged-exemplar.json) |
+| Grimoire: Manastorm - Earth Class | 170331 | [170331-grimoire-manastorm-earth-class.json](./170331-grimoire-manastorm-earth-class.json) |
+| Grimoire: Manastorm - Fire Class | 170329 | [170329-grimoire-manastorm-fire-class.json](./170329-grimoire-manastorm-fire-class.json) |
+| Grimoire: Manastorm - Lightning Class | 170330 | [170330-grimoire-manastorm-lightning-class.json](./170330-grimoire-manastorm-lightning-class.json) |
+| Grimoire: Manastorm - Nature Class | 170328 | [170328-grimoire-manastorm-nature-class.json](./170328-grimoire-manastorm-nature-class.json) |
 | Grimoria | 391573 | [391573-grimoria.json](./391573-grimoria.json) |
 | Grimorium | 392292 | [392292-grimorium.json](./392292-grimorium.json) |
 | GrimRail | 367612 | [367612-grimrail.json](./367612-grimrail.json) |
@@ -4082,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Ember | 26692 | [26692-guardians-of-ember.json](./26692-guardians-of-ember.json) |
 | Guardians of Gaia | 217263 | [217263-guardians-of-gaia.json](./217263-guardians-of-gaia.json) |
 | Guardians Of Gaia: Guardians 8 | 266321 | [266321-guardians-of-gaia-guardians-8.json](./266321-guardians-of-gaia-guardians-8.json) |
+| Guardians of Graxia: Elves & Dwarves | 170320 | [170320-guardians-of-graxia-elves-and-dwarves.json](./170320-guardians-of-graxia-elves-and-dwarves.json) |
 | Guardians of Greyrock | 151034 | [151034-guardians-of-greyrock.json](./151034-guardians-of-greyrock.json) |
 | Guardians of Magic: Amanda's Awakening | 19315 | [19315-guardians-of-magic-amandas-awakening.json](./19315-guardians-of-magic-amandas-awakening.json) |
 | Guardians of Middle-earth | 7892 | [7892-guardians-of-middle-earth.json](./7892-guardians-of-middle-earth.json) |
