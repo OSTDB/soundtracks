@@ -2455,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The American Challenge: A Sailing Simulation | 12253 | [12253-the-american-challenge-a-sailing-simulation.json](./12253-the-american-challenge-a-sailing-simulation.json) |
 | The American Delta Vengeance Action Blood Force Kill Commando | 270209 | [270209-the-american-delta-vengeance-action-blood-force-kill-commando.json](./270209-the-american-delta-vengeance-action-blood-force-kill-commando.json) |
 | The American Girls Premiere | 18243 | [18243-the-american-girls-premiere.json](./18243-the-american-girls-premiere.json) |
+| The Amethyst Stones | 153916 | [153916-the-amethyst-stones.json](./153916-the-amethyst-stones.json) |
 | The Ampoule | 275702 | [275702-the-ampoule.json](./275702-the-ampoule.json) |
 | The Amulet of AmunRuuuuuN | 157188 | [157188-the-amulet-of-amunruuuuun.json](./157188-the-amulet-of-amunruuuuun.json) |
 | The Anacrusis: Deluxe Edition | 192304 | [192304-the-anacrusis-deluxe-edition.json](./192304-the-anacrusis-deluxe-edition.json) |
@@ -4100,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Front of Greed | 106388 | [106388-the-front-of-greed.json](./106388-the-front-of-greed.json) |
 | The Frontier | 30929 | [30929-the-frontier.json](./30929-the-frontier.json) |
 | The Frost | 28872 | [28872-the-frost.json](./28872-the-frost.json) |
+| The Frosts: First Ones | 153919 | [153919-the-frosts-first-ones.json](./153919-the-frosts-first-ones.json) |
 | The Frozen Shore | 231462 | [231462-the-frozen-shore.json](./231462-the-frozen-shore.json) |
 | The Fruit Game | 346565 | [346565-the-fruit-game.json](./346565-the-fruit-game.json) |
 | The Fruit of Grisaia | 11456 | [11456-the-fruit-of-grisaia.json](./11456-the-fruit-of-grisaia.json) |
@@ -11724,6 +11726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trading Simulator | 274563 | [274563-trading-simulator.json](./274563-trading-simulator.json) |
 | Trading Simulator | 290421 | [290421-trading-simulator.json](./290421-trading-simulator.json) |
 | Traditional Braves with Sess-AI 2.0 | 387668 | [387668-traditional-braves-with-sess-ai-2-0.json](./387668-traditional-braves-with-sess-ai-2-0.json) |
+| Traditional Tactics Ne+ | 153818 | [153818-traditional-tactics-ne.json](./153818-traditional-tactics-ne.json) |
 | Traffic | 312583 | [312583-traffic.json](./312583-traffic.json) |
 | Traffic | 319601 | [319601-traffic.json](./319601-traffic.json) |
 | Traffic Chase | 173303 | [173303-traffic-chase.json](./173303-traffic-chase.json) |
