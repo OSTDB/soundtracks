@@ -2147,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pewduckpie 2 - An Unexpected Journey | 101988 | [101988-pewduckpie-2-an-unexpected-journey.json](./101988-pewduckpie-2-an-unexpected-journey.json) |
 | PewDuckPie: On the Run | 159178 | [159178-pewduckpie-on-the-run.json](./159178-pewduckpie-on-the-run.json) |
 | PewPew 2 | 140606 | [140606-pewpew-2.json](./140606-pewpew-2.json) |
+| PewPew! | 171373 | [171373-pewpew.json](./171373-pewpew.json) |
 | Pewt 'em Up! | 203561 | [203561-pewt-em-up.json](./203561-pewt-em-up.json) |
 | Peyton's Post-Op Visits | 183908 | [183908-peytons-post-op-visits.json](./183908-peytons-post-op-visits.json) |
 | Pferd & Pony - Mein Pferdehof | 125959 | [125959-pferd-and-pony-mein-pferdehof.json](./125959-pferd-and-pony-mein-pferdehof.json) |
