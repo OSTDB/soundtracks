@@ -541,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sampras Extreme Tennis | 44851 | [44851-sampras-extreme-tennis.json](./44851-sampras-extreme-tennis.json) |
 | Sampras Tennis 96 | 46183 | [46183-sampras-tennis-96.json](./46183-sampras-tennis-96.json) |
 | Samsara | 143042 | [143042-samsara.json](./143042-samsara.json) |
+| Samsara | 163763 | [163763-samsara.json](./163763-samsara.json) |
 | Samsara | 192957 | [192957-samsara.json](./192957-samsara.json) |
 | Samsara | 249503 | [249503-samsara.json](./249503-samsara.json) |
 | Samsara Room | 300426 | [300426-samsara-room.json](./300426-samsara-room.json) |
@@ -1991,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seduction of Beauty | 292622 | [292622-seduction-of-beauty.json](./292622-seduction-of-beauty.json) |
 | Seductive Shadows | 288916 | [288916-seductive-shadows.json](./288916-seductive-shadows.json) |
 | Seductive Solitude | 225080 | [225080-seductive-solitude.json](./225080-seductive-solitude.json) |
+| Seductive Tombs: Beach Love | 163767 | [163767-seductive-tombs-beach-love.json](./163767-seductive-tombs-beach-love.json) |
 | See | 141815 | [141815-see.json](./141815-see.json) |
 | See Me | 97903 | [97903-see-me.json](./97903-see-me.json) |
 | See Thru: Need a Friend? | 305333 | [305333-see-thru-need-a-friend.json](./305333-see-thru-need-a-friend.json) |
@@ -3462,6 +3464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shikigami No Shiro Evolution | 281464 | [281464-shikigami-no-shiro-evolution.json](./281464-shikigami-no-shiro-evolution.json) |
 | Shikinjou | 231346 | [231346-shikinjou.json](./231346-shikinjou.json) |
 | Shikkoku no Sharnoth: What a beautiful tomorrow | 186285 | [186285-shikkoku-no-sharnoth-what-a-beautiful-tomorrow.json](./186285-shikkoku-no-sharnoth-what-a-beautiful-tomorrow.json) |
+| Shikoku Kororozashi Deluxe: Sake Jidori Udon Senki | 163760 | [163760-shikoku-kororozashi-deluxe-sake-jidori-udon-senki.json](./163760-shikoku-kororozashi-deluxe-sake-jidori-udon-senki.json) |
 | Shikoutei no Michi he | 223963 | [223963-shikoutei-no-michi-he.json](./223963-shikoutei-no-michi-he.json) |
 | Shil | 400483 | [400483-shil.json](./400483-shil.json) |
 | Shimai no Omoide | 283824 | [283824-shimai-no-omoide.json](./283824-shimai-no-omoide.json) |
