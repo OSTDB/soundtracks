@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Day VR Museum | 295790 | [295790-d-day-vr-museum.json](./295790-d-day-vr-museum.json) |
 | D-Day: Normandy | 180210 | [180210-d-day-normandy.json](./180210-d-day-normandy.json) |
 | D-Day: The Beginning of the End | 12417 | [12417-d-day-the-beginning-of-the-end.json](./12417-d-day-the-beginning-of-the-end.json) |
+| D-Pad Hero | 163218 | [163218-d-pad-hero.json](./163218-d-pad-hero.json) |
 | D-Pad Hero 2 | 48649 | [48649-d-pad-hero-2.json](./48649-d-pad-hero-2.json) |
 | D-Paddle vs. Crankquet | 232463 | [232463-d-paddle-vs-crankquet.json](./232463-d-paddle-vs-crankquet.json) |
 | D-Virus: Devilnitive Edition | 259847 | [259847-d-virus-devilnitive-edition.json](./259847-d-virus-devilnitive-edition.json) |
@@ -830,6 +831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Wave | 229818 | [229818-darkest-wave.json](./229818-darkest-wave.json) |
 | Darkfall Unholy Wars | 8185 | [8185-darkfall-unholy-wars.json](./8185-darkfall-unholy-wars.json) |
 | Darkfate | 242817 | [242817-darkfate.json](./242817-darkfate.json) |
+| DarkFighter | 163190 | [163190-darkfighter.json](./163190-darkfighter.json) |
 | Darkheart: Flight of the Harpies | 112741 | [112741-darkheart-flight-of-the-harpies.json](./112741-darkheart-flight-of-the-harpies.json) |
 | Darkheart: Flight of the Harpies - Collector's Edition | 339840 | [339840-darkheart-flight-of-the-harpies-collectors-edition.json](./339840-darkheart-flight-of-the-harpies-collectors-edition.json) |
 | DarkHospital | 285009 | [285009-darkhospital.json](./285009-darkhospital.json) |
@@ -2760,6 +2762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent Vector: Space Runner | 153431 | [153431-descent-vector-space-runner.json](./153431-descent-vector-space-runner.json) |
 | Descent X | 311474 | [311474-descent-x.json](./311474-descent-x.json) |
 | Descent: Freespace - Battle Pack | 371972 | [371972-descent-freespace-battle-pack.json](./371972-descent-freespace-battle-pack.json) |
+| Descent: Legends of the Dark | 163206 | [163206-descent-legends-of-the-dark.json](./163206-descent-legends-of-the-dark.json) |
 | Descent: Levels of the World | 68718 | [68718-descent-levels-of-the-world.json](./68718-descent-levels-of-the-world.json) |
 | Descent: Road to Legend - The Delve | 166009 | [166009-descent-road-to-legend-the-delve.json](./166009-descent-road-to-legend-the-delve.json) |
 | Descent: Road to Legend - Trials of Frostgate | 171576 | [171576-descent-road-to-legend-trials-of-frostgate.json](./171576-descent-road-to-legend-trials-of-frostgate.json) |
@@ -2909,6 +2912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destination Treasure Island | 52888 | [52888-destination-treasure-island.json](./52888-destination-treasure-island.json) |
 | Destination: Dragons! | 292819 | [292819-destination-dragons.json](./292819-destination-dragons.json) |
 | Destination: Mars! | 72101 | [72101-destination-mars.json](./72101-destination-mars.json) |
+| Destined to Love: Ikemen Samurai Romances | 163230 | [163230-destined-to-love-ikemen-samurai-romances.json](./163230-destined-to-love-ikemen-samurai-romances.json) |
 | Destinies | 152884 | [152884-destinies.json](./152884-destinies.json) |
 | Destino Indomable | 322350 | [322350-destino-indomable.json](./322350-destino-indomable.json) |
 | Destiny | 100186 | [100186-destiny.json](./100186-destiny.json) |
@@ -4422,6 +4426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DmC: Devil May Cry - Vergil's Downfall | 21024 | [21024-dmc-devil-may-cry-vergils-downfall.json](./21024-dmc-devil-may-cry-vergils-downfall.json) |
 | DMCA's Sky | 127260 | [127260-dmcas-sky.json](./127260-dmcas-sky.json) |
 | DMD Mars Mission | 86516 | [86516-dmd-mars-mission.json](./86516-dmd-mars-mission.json) |
+| DMG Deals Damage | 163219 | [163219-dmg-deals-damage.json](./163219-dmg-deals-damage.json) |
 | Dmod | 275917 | [275917-dmod.json](./275917-dmod.json) |
 | dMuse | 98978 | [98978-dmuse.json](./98978-dmuse.json) |
 | DMX Presents: Unnecessary Hypeman Hero | 138266 | [138266-dmx-presents-unnecessary-hypeman-hero.json](./138266-dmx-presents-unnecessary-hypeman-hero.json) |
@@ -5019,6 +5024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dong Dong Never Die: Judgment Day | 310532 | [310532-dong-dong-never-die-judgment-day.json](./310532-dong-dong-never-die-judgment-day.json) |
 | Dong Wu: Odyssey | 269032 | [269032-dong-wu-odyssey.json](./269032-dong-wu-odyssey.json) |
 | DongBeiZhiXia | 230782 | [230782-dongbeizhixia.json](./230782-dongbeizhixia.json) |
+| Dōngfāng de Chuánshuō zhī Fēngyìn Dǎo | 163214 | [163214-dongfang-de-chuanshuo-zhi-fengyin-dao.json](./163214-dongfang-de-chuanshuo-zhi-fengyin-dao.json) |
 | Dōngfāng Jiànjī zài Xīfāng Lǚxíng de Gùshì | 157212 | [157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json](./157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json) |
 | Donkee's Adventure | 401638 | [401638-donkees-adventure.json](./401638-donkees-adventure.json) |
 | Donkey BoM | 398315 | [398315-donkey-bom.json](./398315-donkey-bom.json) |
