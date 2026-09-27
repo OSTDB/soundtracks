@@ -1483,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings under the hill | 31390 | [31390-kings-under-the-hill.json](./31390-kings-under-the-hill.json) |
 | Kings' Cross | 112354 | [112354-kings-cross.json](./112354-kings-cross.json) |
 | Kingsburg Serving the Crown | 205090 | [205090-kingsburg-serving-the-crown.json](./205090-kingsburg-serving-the-crown.json) |
+| Kingsland Online | 137551 | [137551-kingsland-online.json](./137551-kingsland-online.json) |
 | Kingslayer Tactics | 117065 | [117065-kingslayer-tactics.json](./117065-kingslayer-tactics.json) |
 | Kingsman: The Golden Circle | 54712 | [54712-kingsman-the-golden-circle.json](./54712-kingsman-the-golden-circle.json) |
 | Kingspray Graffiti | 26358 | [26358-kingspray-graffiti.json](./26358-kingspray-graffiti.json) |
@@ -2308,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kov | 272373 | [272373-kov.json](./272373-kov.json) |
 | Kova | 27883 | [27883-kova.json](./27883-kova.json) |
 | KovaaK 2.0: Tracking Trainer | 171035 | [171035-kovaak-2-0-tracking-trainer.json](./171035-kovaak-2-0-tracking-trainer.json) |
+| Kowai Shashin: Shinrei Shashin Kitan | 137561 | [137561-kowai-shashin-shinrei-shashin-kitan.json](./137561-kowai-shashin-shinrei-shashin-kitan.json) |
 | Kowalski | 388367 | [388367-kowalski.json](./388367-kowalski.json) |
 | Kowi Ishto: Battle of Akonoli | 125476 | [125476-kowi-ishto-battle-of-akonoli.json](./125476-kowi-ishto-battle-of-akonoli.json) |
 | Kowloon Story 2 | 291741 | [291741-kowloon-story-2.json](./291741-kowloon-story-2.json) |
