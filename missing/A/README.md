@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cafe at the End of the World | 389588 | [389588-a-cafe-at-the-end-of-the-world.json](./389588-a-cafe-at-the-end-of-the-world.json) |
 | A Café Couple's Joyful Life of Resistance | 343239 | [343239-a-cafe-couples-joyful-life-of-resistance.json](./343239-a-cafe-couples-joyful-life-of-resistance.json) |
 | A Cairn Tale | 251001 | [251001-a-cairn-tale.json](./251001-a-cairn-tale.json) |
+| A Call to Mars | 141755 | [141755-a-call-to-mars.json](./141755-a-call-to-mars.json) |
 | A Car That Turns | 205084 | [205084-a-car-that-turns.json](./205084-a-car-that-turns.json) |
 | A Case for Cap & Co | 242642 | [242642-a-case-for-cap-and-co.json](./242642-a-case-for-cap-and-co.json) |
 | A Cat & His Boy | 295390 | [295390-a-cat-and-his-boy.json](./295390-a-cat-and-his-boy.json) |
@@ -335,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Plague Tale: Innocence - Coats of Arms | 118201 | [118201-a-plague-tale-innocence-coats-of-arms.json](./118201-a-plague-tale-innocence-coats-of-arms.json) |
 | A Plague Tale: Requiem - Cloud Version | 206817 | [206817-a-plague-tale-requiem-cloud-version.json](./206817-a-plague-tale-requiem-cloud-version.json) |
 | A Plague Tale: Requiem - Protector Pack | 223447 | [223447-a-plague-tale-requiem-protector-pack.json](./223447-a-plague-tale-requiem-protector-pack.json) |
+| A Planet Wakes | 141756 | [141756-a-planet-wakes.json](./141756-a-planet-wakes.json) |
 | A Plant's Life | 63845 | [63845-a-plants-life.json](./63845-a-plants-life.json) |
 | A Platformer for Ants | 82150 | [82150-a-platformer-for-ants.json](./82150-a-platformer-for-ants.json) |
 | A Playground Afternoon | 402490 | [402490-a-playground-afternoon.json](./402490-a-playground-afternoon.json) |
@@ -1394,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Wave: Downfall | 212284 | [212284-after-wave-downfall.json](./212284-after-wave-downfall.json) |
 | After Work | 360586 | [360586-after-work.json](./360586-after-work.json) |
 | After-H : Zombies | 141798 | [141798-after-h-zombies.json](./141798-after-h-zombies.json) |
+| After-H: Battle Arena | 141797 | [141797-after-h-battle-arena.json](./141797-after-h-battle-arena.json) |
 | After-H: Legend of Mars | 141799 | [141799-after-h-legend-of-mars.json](./141799-after-h-legend-of-mars.json) |
 | After-Image | 362285 | [362285-after-image.json](./362285-after-image.json) |
 | After... Prologue | 405063 | [405063-after-prologue.json](./405063-after-prologue.json) |
@@ -1560,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agony Increment | 393803 | [393803-agony-increment.json](./393803-agony-increment.json) |
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
+| Agraelus, Wanna be MaN | 141737 | [141737-agraelus-wanna-be-man.json](./141737-agraelus-wanna-be-man.json) |
 | Agrarian developer | 283883 | [283883-agrarian-developer.json](./283883-agrarian-developer.json) |
 | AgrChamp | 240748 | [240748-agrchamp.json](./240748-agrchamp.json) |
 | Agricultural Simulator 2012: Deluxe Edition | 36393 | [36393-agricultural-simulator-2012-deluxe-edition.json](./36393-agricultural-simulator-2012-deluxe-edition.json) |
