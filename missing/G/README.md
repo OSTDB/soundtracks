@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Mafia | 169415 | [169415-game-of-mafia.json](./169415-game-of-mafia.json) |
 | Game of Puzzles: Animals | 163428 | [163428-game-of-puzzles-animals.json](./163428-game-of-puzzles-animals.json) |
 | Game of Puzzles: Animals - Expansion Pack | 163429 | [163429-game-of-puzzles-animals-expansion-pack.json](./163429-game-of-puzzles-animals-expansion-pack.json) |
+| Game of Puzzles: Dinosaurs | 148994 | [148994-game-of-puzzles-dinosaurs.json](./148994-game-of-puzzles-dinosaurs.json) |
 | Game Of Puzzles: Dragons | 248922 | [248922-game-of-puzzles-dragons.json](./248922-game-of-puzzles-dragons.json) |
 | Game of Puzzles: Slavic Mythology | 163415 | [163415-game-of-puzzles-slavic-mythology.json](./163415-game-of-puzzles-slavic-mythology.json) |
 | Game of Roads | 174364 | [174364-game-of-roads.json](./174364-game-of-roads.json) |
@@ -2459,6 +2460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goddess Era: Paradise Oath | 259628 | [259628-goddess-era-paradise-oath.json](./259628-goddess-era-paradise-oath.json) |
 | Goddess Husk | 184527 | [184527-goddess-husk.json](./184527-goddess-husk.json) |
 | Goddess Kiss | 57066 | [57066-goddess-kiss.json](./57066-goddess-kiss.json) |
+| Goddess of Card War | 148995 | [148995-goddess-of-card-war.json](./148995-goddess-of-card-war.json) |
 | Goddess of Card War: DLC-1 | 170420 | [170420-goddess-of-card-war-dlc-1.json](./170420-goddess-of-card-war-dlc-1.json) |
 | Goddess of Card War: DLC-2 | 170419 | [170419-goddess-of-card-war-dlc-2.json](./170419-goddess-of-card-war-dlc-2.json) |
 | Goddess of Fate IV: Lilith | 281447 | [281447-goddess-of-fate-iv-lilith.json](./281447-goddess-of-fate-iv-lilith.json) |
