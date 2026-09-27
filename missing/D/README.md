@@ -3018,6 +3018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroyer | 175824 | [175824-destroyer.json](./175824-destroyer.json) |
 | Destroyer 7800 | 304197 | [304197-destroyer-7800.json](./304197-destroyer-7800.json) |
 | Destroyer Command | 23456 | [23456-destroyer-command.json](./23456-destroyer-command.json) |
+| Destroyer of Worlds | 144223 | [144223-destroyer-of-worlds.json](./144223-destroyer-of-worlds.json) |
 | Destruct | 60511 | [60511-destruct.json](./60511-destruct.json) |
 | Destruction | 112124 | [112124-destruction.json](./112124-destruction.json) |
 | Destruction Darius | 121430 | [121430-destruction-darius.json](./121430-destruction-darius.json) |
@@ -5268,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom 64 for Dreamcast | 346123 | [346123-doom-64-for-dreamcast.json](./346123-doom-64-for-dreamcast.json) |
 | Doom 64 Reloaded | 346668 | [346668-doom-64-reloaded.json](./346668-doom-64-reloaded.json) |
 | DOOM Abort | 202841 | [202841-doom-abort.json](./202841-doom-abort.json) |
+| Doom City | 144214 | [144214-doom-city.json](./144214-doom-city.json) |
 | Doom Core | 275569 | [275569-doom-core.json](./275569-doom-core.json) |
 | Doom Days: Fire Shooter | 226761 | [226761-doom-days-fire-shooter.json](./226761-doom-days-fire-shooter.json) |
 | Doom Eternal: The Ancient Gods - Expansion Pass | 281566 | [281566-doom-eternal-the-ancient-gods-expansion-pass.json](./281566-doom-eternal-the-ancient-gods-expansion-pass.json) |
