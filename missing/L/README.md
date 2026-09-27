@@ -1931,6 +1931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifeline: Silent Night | 39254 | [39254-lifeline-silent-night.json](./39254-lifeline-silent-night.json) |
 | Lifeline: Whiteout | 57911 | [57911-lifeline-whiteout.json](./57911-lifeline-whiteout.json) |
 | LifePaths | 414351 | [414351-lifepaths.json](./414351-lifepaths.json) |
+| Lifesigns | 143575 | [143575-lifesigns.json](./143575-lifesigns.json) |
 | LifeSigns: Surgical Unit | 18600 | [18600-lifesigns-surgical-unit.json](./18600-lifesigns-surgical-unit.json) |
 | Lifespeed | 27386 | [27386-lifespeed.json](./27386-lifespeed.json) |
 | Lifestream - A Haunting Text Adventure | 31344 | [31344-lifestream-a-haunting-text-adventure.json](./31344-lifestream-a-haunting-text-adventure.json) |
@@ -3174,6 +3175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Express Delivery Service | 211824 | [211824-loot-express-delivery-service.json](./211824-loot-express-delivery-service.json) |
 | Loot Goblin Inc. | 337672 | [337672-loot-goblin-inc.json](./337672-loot-goblin-inc.json) |
 | Loot Goblin: An Idle Adventure | 389592 | [389592-loot-goblin-an-idle-adventure.json](./389592-loot-goblin-an-idle-adventure.json) |
+| Loot Grind Simulator | 143601 | [143601-loot-grind-simulator.json](./143601-loot-grind-simulator.json) |
 | Loot Hero DX | 17289 | [17289-loot-hero-dx.json](./17289-loot-hero-dx.json) |
 | Loot Legends: Robots vs Aliens | 174868 | [174868-loot-legends-robots-vs-aliens.json](./174868-loot-legends-robots-vs-aliens.json) |
 | Loot Loop | 391204 | [391204-loot-loop.json](./391204-loot-loop.json) |
