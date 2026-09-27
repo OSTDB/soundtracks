@@ -1862,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reels of Fortune | 270416 | [270416-reels-of-fortune.json](./270416-reels-of-fortune.json) |
 | Reels of the Damned | 411589 | [411589-reels-of-the-damned.json](./411589-reels-of-the-damned.json) |
 | Reenchant | 365732 | [365732-reenchant.json](./365732-reenchant.json) |
+| Reese's Pac-Man | 172487 | [172487-reeses-pac-man.json](./172487-reeses-pac-man.json) |
 | ReEstate | 197409 | [197409-reestate.json](./197409-reestate.json) |
 | Reeve | 223463 | [223463-reeve.json](./223463-reeve.json) |
 | ReEvolve | 103178 | [103178-reevolve.json](./103178-reevolve.json) |
@@ -2158,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rendezvous with a Stranger Girl | 57623 | [57623-rendezvous-with-a-stranger-girl.json](./57623-rendezvous-with-a-stranger-girl.json) |
 | Rendezvous: A Space Shuttle Flight Simulation | 24859 | [24859-rendezvous-a-space-shuttle-flight-simulation.json](./24859-rendezvous-a-space-shuttle-flight-simulation.json) |
 | Rending Sky | 114374 | [114374-rending-sky.json](./114374-rending-sky.json) |
+| Rendition | 172498 | [172498-rendition.json](./172498-rendition.json) |
 | Renegade Grounds: Episode 1 | 55508 | [55508-renegade-grounds-episode-1.json](./55508-renegade-grounds-episode-1.json) |
 | Renegade Ops: Coldstrike Campaign | 140394 | [140394-renegade-ops-coldstrike-campaign.json](./140394-renegade-ops-coldstrike-campaign.json) |
 | Renegade Ops: Reinforcement Pack | 140393 | [140393-renegade-ops-reinforcement-pack.json](./140393-renegade-ops-reinforcement-pack.json) |
@@ -2789,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolvermen | 344397 | [344397-revolvermen.json](./344397-revolvermen.json) |
 | RevolverRouge | 381115 | [381115-revolverrouge.json](./381115-revolverrouge.json) |
 | RevolVR 3 | 169355 | [169355-revolvr-3.json](./169355-revolvr-3.json) |
+| Revv Racing | 172500 | [172500-revv-racing.json](./172500-revv-racing.json) |
 | Revvolvver | 250460 | [250460-revvolvver.json](./250460-revvolvver.json) |
 | Revvver | 285450 | [285450-revvver.json](./285450-revvver.json) |
 | Rewilder | 303782 | [303782-rewilder.json](./303782-rewilder.json) |
