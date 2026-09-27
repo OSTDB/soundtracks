@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddles! Pong edition | 102621 | [102621-paddles-pong-edition.json](./102621-paddles-pong-edition.json) |
 | Paddock Note '95 | 268522 | [268522-paddock-note-95.json](./268522-paddock-note-95.json) |
 | Padel Pro World Tour | 409553 | [409553-padel-pro-world-tour.json](./409553-padel-pro-world-tour.json) |
+| Pagan Hope | 132713 | [132713-pagan-hope.json](./132713-pagan-hope.json) |
 | Pagan: Absent Gods | 111835 | [111835-pagan-absent-gods.json](./111835-pagan-absent-gods.json) |
 | Pagans Must Die | 116853 | [116853-pagans-must-die.json](./116853-pagans-must-die.json) |
 | Pageant | 184045 | [184045-pageant.json](./184045-pageant.json) |
@@ -683,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Knight | 386401 | [386401-paper-knight.json](./386401-paper-knight.json) |
 | Paper Luigi's Mansion | 323901 | [323901-paper-luigis-mansion.json](./323901-paper-luigis-mansion.json) |
 | Paper Mario | 323287 | [323287-paper-mario.json](./323287-paper-mario.json) |
+| Paper Mario 3D Land | 132722 | [132722-paper-mario-3d-land.json](./132722-paper-mario-3d-land.json) |
 | Paper Mario 64K | 315016 | [315016-paper-mario-64k.json](./315016-paper-mario-64k.json) |
 | Paper Mario Eggstraordinary Egg Hunt | 245039 | [245039-paper-mario-eggstraordinary-egg-hunt.json](./245039-paper-mario-eggstraordinary-egg-hunt.json) |
 | Paper Mario Multiplayer | 159325 | [159325-paper-mario-multiplayer.json](./159325-paper-mario-multiplayer.json) |
@@ -1200,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passage | 36502 | [36502-passage.json](./36502-passage.json) |
 | Passage 3 | 210017 | [210017-passage-3.json](./210017-passage-3.json) |
 | Passage 4: Christmas Edition | 97132 | [97132-passage-4-christmas-edition.json](./97132-passage-4-christmas-edition.json) |
+| Passage to Malkuth | 132744 | [132744-passage-to-malkuth.json](./132744-passage-to-malkuth.json) |
 | Passage: A Job Interview Simulator! | 237360 | [237360-passage-a-job-interview-simulator.json](./237360-passage-a-job-interview-simulator.json) |
 | Passage: Path of Betrayal | 70958 | [70958-passage-path-of-betrayal.json](./70958-passage-path-of-betrayal.json) |
 | Passageway of the Ancients | 258490 | [258490-passageway-of-the-ancients.json](./258490-passageway-of-the-ancients.json) |
@@ -6952,6 +6955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Starship Rampage | 34856 | [34856-psycho-starship-rampage.json](./34856-psycho-starship-rampage.json) |
 | Psycho Strafe | 358969 | [358969-psycho-strafe.json](./358969-psycho-strafe.json) |
 | Psycho Train | 53483 | [53483-psycho-train.json](./53483-psycho-train.json) |
+| Psycho Waluigi | 132724 | [132724-psycho-waluigi.json](./132724-psycho-waluigi.json) |
 | Psycho-Nics Oscar | 55193 | [55193-psycho-nics-oscar.json](./55193-psycho-nics-oscar.json) |
 | Psycho-Pass: Mandatory Happiness - Limited Edition | 166186 | [166186-psycho-pass-mandatory-happiness-limited-edition.json](./166186-psycho-pass-mandatory-happiness-limited-edition.json) |
 | Psycho-unstable Journey | 180792 | [180792-psycho-unstable-journey.json](./180792-psycho-unstable-journey.json) |
