@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salt | 334887 | [334887-salt.json](./334887-salt.json) |
 | Salt 2: Shores of Gold | 151169 | [151169-salt-2-shores-of-gold.json](./151169-salt-2-shores-of-gold.json) |
 | Salt and Sacrifice | 152065 | [152065-salt-and-sacrifice.json](./152065-salt-and-sacrifice.json) |
+| Salt and Sails | 153921 | [153921-salt-and-sails.json](./153921-salt-and-sails.json) |
 | SALT: Super Awesome Laser Tag | 379869 | [379869-salt-super-awesome-laser-tag.json](./379869-salt-super-awesome-laser-tag.json) |
 | Salted | 372537 | [372537-salted.json](./372537-salted.json) |
 | Salthe | 248139 | [248139-salthe.json](./248139-salthe.json) |
@@ -590,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Revenge | 307606 | [307606-samurai-revenge.json](./307606-samurai-revenge.json) |
 | Samurai Revenge 2 | 241509 | [241509-samurai-revenge-2.json](./241509-samurai-revenge-2.json) |
 | Samurai Saga | 55910 | [55910-samurai-saga.json](./55910-samurai-saga.json) |
+| Samurai Shampoo | 153879 | [153879-samurai-shampoo.json](./153879-samurai-shampoo.json) |
 | Samurai Shaver | 177442 | [177442-samurai-shaver.json](./177442-samurai-shaver.json) |
 | Samurai Shodown 64 | 19990 | [19990-samurai-shodown-64.json](./19990-samurai-shodown-64.json) |
 | Samurai Shodown 64: Warriors Rage | 19991 | [19991-samurai-shodown-64-warriors-rage.json](./19991-samurai-shodown-64-warriors-rage.json) |
@@ -1261,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schloss der Wölfe | 323389 | [323389-schloss-der-wolfe.json](./323389-schloss-der-wolfe.json) |
 | Schmaragon | 230265 | [230265-schmaragon.json](./230265-schmaragon.json) |
 | Schmeiser Robo | 40413 | [40413-schmeiser-robo.json](./40413-schmeiser-robo.json) |
+| Schmutznik | 153910 | [153910-schmutznik.json](./153910-schmutznik.json) |
 | Schnappi: 3 Fun-Games | 96526 | [96526-schnappi-3-fun-games.json](./96526-schnappi-3-fun-games.json) |
 | Schola Spiritus | 383358 | [383358-schola-spiritus.json](./383358-schola-spiritus.json) |
 | Scholar | 200431 | [200431-scholar.json](./200431-scholar.json) |
@@ -2020,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seed of Life | 225773 | [225773-seed-of-life.json](./225773-seed-of-life.json) |
 | Seed of Nostalgia | 334879 | [334879-seed-of-nostalgia.json](./334879-seed-of-nostalgia.json) |
 | Seed of Pandora: Legend of the Gaia Tree | 237051 | [237051-seed-of-pandora-legend-of-the-gaia-tree.json](./237051-seed-of-pandora-legend-of-the-gaia-tree.json) |
+| Seed of the Dead: Sweet Home | 153900 | [153900-seed-of-the-dead-sweet-home.json](./153900-seed-of-the-dead-sweet-home.json) |
 | Seed World | 224530 | [224530-seed-world.json](./224530-seed-world.json) |
 | Seed. | 182906 | [182906-seed.json](./182906-seed.json) |
 | Seed's End | 339088 | [339088-seeds-end.json](./339088-seeds-end.json) |
@@ -6667,6 +6671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soda-Powered Penguin | 216734 | [216734-soda-powered-penguin.json](./216734-soda-powered-penguin.json) |
 | Sodablood | 312174 | [312174-sodablood.json](./312174-sodablood.json) |
 | Sodium One | 45282 | [45282-sodium-one.json](./45282-sodium-one.json) |
+| Soer Dolls | 153906 | [153906-soer-dolls.json](./153906-soer-dolls.json) |
 | SOF: Enemy from the future | 305955 | [305955-sof-enemy-from-the-future.json](./305955-sof-enemy-from-the-future.json) |
 | Sofi Origins | 277607 | [277607-sofi-origins.json](./277607-sofi-origins.json) |
 | Sofia | 218734 | [218734-sofia.json](./218734-sofia.json) |
@@ -9913,6 +9918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Aegis | 155996 | [155996-star-aegis.json](./155996-star-aegis.json) |
 | Star Ally | 246403 | [246403-star-ally.json](./246403-star-ally.json) |
 | Star Apprentice: Dazzling Danmaku Detective | 260235 | [260235-star-apprentice-dazzling-danmaku-detective.json](./260235-star-apprentice-dazzling-danmaku-detective.json) |
+| Star Apprentice: Magical Murder Mystery | 153909 | [153909-star-apprentice-magical-murder-mystery.json](./153909-star-apprentice-magical-murder-mystery.json) |
 | Star Aquarium | 348803 | [348803-star-aquarium.json](./348803-star-aquarium.json) |
 | Star Archer | 337982 | [337982-star-archer.json](./337982-star-archer.json) |
 | Star Arthur Densetsu I: Wakusei Mephius | 65513 | [65513-star-arthur-densetsu-i-wakusei-mephius.json](./65513-star-arthur-densetsu-i-wakusei-mephius.json) |
@@ -12393,6 +12399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suiren | 377581 | [377581-suiren.json](./377581-suiren.json) |
 | Suisenka | 261776 | [261776-suisenka.json](./261776-suisenka.json) |
 | SuiSui Sweet | 254547 | [254547-suisui-sweet.json](./254547-suisui-sweet.json) |
+| Suit for Hire | 153895 | [153895-suit-for-hire.json](./153895-suit-for-hire.json) |
 | Suitcase of Gor | 262437 | [262437-suitcase-of-gor.json](./262437-suitcase-of-gor.json) |
 | Suitcase Stories | 391198 | [391198-suitcase-stories.json](./391198-suitcase-stories.json) |
 | Suite PreCure: Happy Oshare Harmony | 327601 | [327601-suite-precure-happy-oshare-harmony.json](./327601-suite-precure-happy-oshare-harmony.json) |
