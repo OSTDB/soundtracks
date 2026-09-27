@@ -685,6 +685,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2D Owen | 134578 | [134578-2d-owen.json](./134578-2d-owen.json) |
 | 2D Zombie Survival | 115044 | [115044-2d-zombie-survival.json](./115044-2d-zombie-survival.json) |
 | 2Dark: Deluxe Edition | 52545 | [52545-2dark-deluxe-edition.json](./52545-2dark-deluxe-edition.json) |
+| 2econds to Starlivht: Forever My Diamond | 144193 | [144193-2econds-to-starlivht-forever-my-diamond.json](./144193-2econds-to-starlivht-forever-my-diamond.json) |
+| 2econds to Starlivht: My Heart's Reflection | 144194 | [144194-2econds-to-starlivht-my-hearts-reflection.json](./144194-2econds-to-starlivht-my-hearts-reflection.json) |
 | 2in1: Application Driver and Serial Killer / Sniper | 147818 | [147818-2in1-application-driver-and-serial-killer-sniper.json](./147818-2in1-application-driver-and-serial-killer-sniper.json) |
 | 2in1: Musik fur Kids + Englisch macht Spass | 269532 | [269532-2in1-musik-fur-kids-englisch-macht-spass.json](./269532-2in1-musik-fur-kids-englisch-macht-spass.json) |
 | 2K Games Pack | 319564 | [319564-2k-games-pack.json](./319564-2k-games-pack.json) |
