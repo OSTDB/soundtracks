@@ -1135,6 +1135,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Sundown | 193421 | [193421-neon-sundown.json](./193421-neon-sundown.json) |
 | Neon Sword | 107169 | [107169-neon-sword.json](./107169-neon-sword.json) |
 | Neon Tail | 119431 | [119431-neon-tail.json](./119431-neon-tail.json) |
+| Neon Tide | 120912 | [120912-neon-tide.json](./120912-neon-tide.json) |
+| Neon Tower Blast | 120757 | [120757-neon-tower-blast.json](./120757-neon-tower-blast.json) |
 | Neon Trap Defense | 185526 | [185526-neon-trap-defense.json](./185526-neon-trap-defense.json) |
 | Neon Village | 302358 | [302358-neon-village.json](./302358-neon-village.json) |
 | Neon Wars | 312925 | [312925-neon-wars.json](./312925-neon-wars.json) |
@@ -1216,6 +1218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Net de Get: Minigame @100 | 107186 | [107186-net-de-get-minigame-100.json](./107186-net-de-get-minigame-100.json) |
 | Net Defender | 266476 | [266476-net-defender.json](./266476-net-defender.json) |
 | Net Enjou Jikenbo: Moete Moeru SNS Idol Tenraku Illustration Quiz Game | 225898 | [225898-net-enjou-jikenbo-moete-moeru-sns-idol-tenraku-illustration-quiz-game.json](./225898-net-enjou-jikenbo-moete-moeru-sns-idol-tenraku-illustration-quiz-game.json) |
+| Net Gain: Stories | 120881 | [120881-net-gain-stories.json](./120881-net-gain-stories.json) |
 | Net Gin Rummy | 93047 | [93047-net-gin-rummy.json](./93047-net-gin-rummy.json) |
 | Net King's Call | 143514 | [143514-net-kings-call.json](./143514-net-kings-call.json) |
 | Net Pet | 293205 | [293205-net-pet.json](./293205-net-pet.json) |
@@ -1306,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Fall | 334187 | [334187-never-fall.json](./334187-never-fall.json) |
 | Never Forget Me | 31168 | [31168-never-forget-me.json](./31168-never-forget-me.json) |
 | Never Forgotten | 239639 | [239639-never-forgotten.json](./239639-never-forgotten.json) |
+| Never Go Home | 120880 | [120880-never-go-home.json](./120880-never-go-home.json) |
 | Never Immortal | 235741 | [235741-never-immortal.json](./235741-never-immortal.json) |
 | Never out of Time | 193476 | [193476-never-out-of-time.json](./193476-never-out-of-time.json) |
 | Never Rain | 221103 | [221103-never-rain.json](./221103-never-rain.json) |
@@ -1330,6 +1334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverinth: The Never Ending Labyrinth | 117493 | [117493-neverinth-the-never-ending-labyrinth.json](./117493-neverinth-the-never-ending-labyrinth.json) |
 | Neverland | 216990 | [216990-neverland.json](./216990-neverland.json) |
 | Neverland | 342267 | [342267-neverland.json](./342267-neverland.json) |
+| Neverland Treasure | 120846 | [120846-neverland-treasure.json](./120846-neverland-treasure.json) |
 | Neverland: Aeterna Chronicles | 353288 | [353288-neverland-aeterna-chronicles.json](./353288-neverland-aeterna-chronicles.json) |
 | Neverless Academy | 371259 | [371259-neverless-academy.json](./371259-neverless-academy.json) |
 | Nevermind | 290939 | [290939-nevermind.json](./290939-nevermind.json) |
@@ -1393,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Eyes Cycle | 374273 | [374273-new-eyes-cycle.json](./374273-new-eyes-cycle.json) |
 | New Fortress | 130875 | [130875-new-fortress.json](./130875-new-fortress.json) |
 | New FreeCell Solitaire HD | 232369 | [232369-new-freecell-solitaire-hd.json](./232369-new-freecell-solitaire-hd.json) |
+| New Frontier | 120855 | [120855-new-frontier.json](./120855-new-frontier.json) |
 | New Ganymede | 266783 | [266783-new-ganymede.json](./266783-new-ganymede.json) |
 | New Ghostbusters II | 3658 | [3658-new-ghostbusters-ii.json](./3658-new-ghostbusters-ii.json) |
 | New Gundam Breaker: Gunpla Figure Premium Edition | 167159 | [167159-new-gundam-breaker-gunpla-figure-premium-edition.json](./167159-new-gundam-breaker-gunpla-figure-premium-edition.json) |
