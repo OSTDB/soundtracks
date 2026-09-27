@@ -71,6 +71,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am: A Story of Awakenings | 154993 | [154993-i-am-a-story-of-awakenings.json](./154993-i-am-a-story-of-awakenings.json) |
 | I Ask The Cube Where To Go | 290481 | [290481-i-ask-the-cube-where-to-go.json](./290481-i-ask-the-cube-where-to-go.json) |
 | I Ball II: Quest for the Past | 70351 | [70351-i-ball-ii-quest-for-the-past.json](./70351-i-ball-ii-quest-for-the-past.json) |
+| I Became a Dog | 142334 | [142334-i-became-a-dog.json](./142334-i-became-a-dog.json) |
+| I Became a Dog 2 | 142332 | [142332-i-became-a-dog-2.json](./142332-i-became-a-dog-2.json) |
 | I Believe in Capybara Supremacy! | 250992 | [250992-i-believe-in-capybara-supremacy.json](./250992-i-believe-in-capybara-supremacy.json) |
 | I Bring The Chaos | 277934 | [277934-i-bring-the-chaos.json](./277934-i-bring-the-chaos.json) |
 | I C Redd | 84543 | [84543-i-c-redd.json](./84543-i-c-redd.json) |
