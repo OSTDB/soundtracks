@@ -7432,6 +7432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motu Patlu Save Friends | 325123 | [325123-motu-patlu-save-friends.json](./325123-motu-patlu-save-friends.json) |
 | Motu Patlu Super Duper Man | 325113 | [325113-motu-patlu-super-duper-man.json](./325113-motu-patlu-super-duper-man.json) |
 | Motu Patlu: Robot Transform | 325122 | [325122-motu-patlu-robot-transform.json](./325122-motu-patlu-robot-transform.json) |
+| Motus | 130280 | [130280-motus.json](./130280-motus.json) |
 | Motus Paintball VR | 336593 | [336593-motus-paintball-vr.json](./336593-motus-paintball-vr.json) |
 | Moubootaur Legends | 177425 | [177425-moubootaur-legends.json](./177425-moubootaur-legends.json) |
 | Mouja | 197958 | [197958-mouja.json](./197958-mouja.json) |
