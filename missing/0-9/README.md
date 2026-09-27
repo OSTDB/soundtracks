@@ -1141,6 +1141,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8AM | 288739 | [288739-8am.json](./288739-8am.json) |
 | 8bit Doves | 262348 | [262348-8bit-doves.json](./262348-8bit-doves.json) |
 | 8bit Killer | 65522 | [65522-8bit-killer.json](./65522-8bit-killer.json) |
+| 8Bit Music Power | 150566 | [150566-8bit-music-power.json](./150566-8bit-music-power.json) |
+| 8bit Music Power Final | 150565 | [150565-8bit-music-power-final.json](./150565-8bit-music-power-final.json) |
 | 8bit Ninja | 232005 | [232005-8bit-ninja.json](./232005-8bit-ninja.json) |
 | 8bit-Collection Jaleco Vol. 01 | 97885 | [97885-8bit-collection-jaleco-vol-01.json](./97885-8bit-collection-jaleco-vol-01.json) |
 | 8Floor Bundle 3 in 1 | 273940 | [273940-8floor-bundle-3-in-1.json](./273940-8floor-bundle-3-in-1.json) |
