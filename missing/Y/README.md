@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yogoe Hunter | 320178 | [320178-yogoe-hunter.json](./320178-yogoe-hunter.json) |
 | Yogurt Commercial 3 | 146850 | [146850-yogurt-commercial-3.json](./146850-yogurt-commercial-3.json) |
 | Yogurt Royale | 177010 | [177010-yogurt-royale.json](./177010-yogurt-royale.json) |
+| Yogurting | 166014 | [166014-yogurting.json](./166014-yogurting.json) |
 | Yohane the Parhelion: Additional Character Pack vol.1 "Dia & Hanamaru & Kanan" | 301020 | [301020-yohane-the-parhelion-additional-character-pack-vol-1-dia-and-hanamaru-and-kanan.json](./301020-yohane-the-parhelion-additional-character-pack-vol-1-dia-and-hanamaru-and-kanan.json) |
 | Yohane the Parhelion: Additional character pack vol.3 "Riko & Mari + Yohane" | 315494 | [315494-yohane-the-parhelion-additional-character-pack-vol-3-riko-and-mari-yohane.json](./315494-yohane-the-parhelion-additional-character-pack-vol-3-riko-and-mari-yohane.json) |
 | Yohane the Parhelion: Costume "Fluffy Lailaps" | 324495 | [324495-yohane-the-parhelion-costume-fluffy-lailaps.json](./324495-yohane-the-parhelion-costume-fluffy-lailaps.json) |
