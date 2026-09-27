@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Element Are We | 275348 | [275348-element-are-we.json](./275348-element-are-we.json) |
 | Element Ensemble: Wind of Moon | 125438 | [125438-element-ensemble-wind-of-moon.json](./125438-element-ensemble-wind-of-moon.json) |
 | Element Release: Water Territory | 292526 | [292526-element-release-water-territory.json](./292526-element-release-water-territory.json) |
+| Element Z | 120763 | [120763-element-z.json](./120763-element-z.json) |
 | Elementaire | 297088 | [297088-elementaire.json](./297088-elementaire.json) |
 | Elemental | 351639 | [351639-elemental.json](./351639-elemental.json) |
 | Elemental | 95377 | [95377-elemental.json](./95377-elemental.json) |
@@ -1801,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eons Lost: Arrival | 185038 | [185038-eons-lost-arrival.json](./185038-eons-lost-arrival.json) |
 | Eonwar | 217315 | [217315-eonwar.json](./217315-eonwar.json) |
 | EOPN: Test RS | 285549 | [285549-eopn-test-rs.json](./285549-eopn-test-rs.json) |
+| Eormor: Shattered Lands | 120918 | [120918-eormor-shattered-lands.json](./120918-eormor-shattered-lands.json) |
 | Eos | 147330 | [147330-eos.json](./147330-eos.json) |
 | eOthello | 277283 | [277283-eothello.json](./277283-eothello.json) |
 | Epejsodion Dodgeball Defense | 166748 | [166748-epejsodion-dodgeball-defense.json](./166748-epejsodion-dodgeball-defense.json) |
@@ -3257,6 +3259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Experimental Game Pack 01 | 62139 | [62139-experimental-game-pack-01.json](./62139-experimental-game-pack-01.json) |
 | Experimental Game Pack 01 | 80612 | [80612-experimental-game-pack-01.json](./80612-experimental-game-pack-01.json) |
 | Expert Chess | 93361 | [93361-expert-chess.json](./93361-expert-chess.json) |
+| Expert Laser Man | 120879 | [120879-expert-laser-man.json](./120879-expert-laser-man.json) |
 | Expert on Domestication | 152850 | [152850-expert-on-domestication.json](./152850-expert-on-domestication.json) |
 | Expest | 265611 | [265611-expest.json](./265611-expest.json) |
 | Expiare | 388920 | [388920-expiare.json](./388920-expiare.json) |
