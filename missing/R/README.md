@@ -1124,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re Cation: Melty Healing | 391077 | [391077-re-cation-melty-healing.json](./391077-re-cation-melty-healing.json) |
 | Re Chii Suutaroka?: Mezameta Toki ga Shinu Toki da! | 196602 | [196602-re-chii-suutaroka-mezameta-toki-ga-shinu-toki-da.json](./196602-re-chii-suutaroka-mezameta-toki-ga-shinu-toki-da.json) |
 | Re into Another World | 291748 | [291748-re-into-another-world.json](./291748-re-into-another-world.json) |
+| Re Painter | 120838 | [120838-re-painter.json](./120838-re-painter.json) |
 | Re Parry | 179160 | [179160-re-parry.json](./179160-re-parry.json) |
 | Re Rive | 202323 | [202323-re-rive.json](./202323-re-rive.json) |
 | Re-Blood | 198357 | [198357-re-blood.json](./198357-re-blood.json) |
@@ -1466,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Moon Rising | 57628 | [57628-rebel-moon-rising.json](./57628-rebel-moon-rising.json) |
 | Rebel Pirates | 371238 | [371238-rebel-pirates.json](./371238-rebel-pirates.json) |
 | Rebel Planet | 26479 | [26479-rebel-planet.json](./26479-rebel-planet.json) |
+| Rebel Planet Orion | 120891 | [120891-rebel-planet-orion.json](./120891-rebel-planet-orion.json) |
 | Rebel Reenactment: Battle of the Wilderness | 164429 | [164429-rebel-reenactment-battle-of-the-wilderness.json](./164429-rebel-reenactment-battle-of-the-wilderness.json) |
 | Rebel Roar | 408736 | [408736-rebel-roar.json](./408736-rebel-roar.json) |
 | Rebellion Anthology | 53492 | [53492-rebellion-anthology.json](./53492-rebellion-anthology.json) |
@@ -4415,6 +4417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguestorm Beats | 416651 | [416651-roguestorm-beats.json](./416651-roguestorm-beats.json) |
 | Roguesweeper | 389126 | [389126-roguesweeper.json](./389126-roguesweeper.json) |
 | RogueType | 221142 | [221142-roguetype.json](./221142-roguetype.json) |
+| RogueVerse | 120777 | [120777-rogueverse.json](./120777-rogueverse.json) |
 | Roguie | 382303 | [382303-roguie.json](./382303-roguie.json) |
 | Rogum: A Cat Match Puzzle | 386691 | [386691-rogum-a-cat-match-puzzle.json](./386691-rogum-a-cat-match-puzzle.json) |
 | Rogun Arena | 165046 | [165046-rogun-arena.json](./165046-rogun-arena.json) |
@@ -5322,6 +5325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run, Poo, Run! | 388967 | [388967-run-poo-run.json](./388967-run-poo-run.json) |
 | Run, Veggies! | 358878 | [358878-run-veggies.json](./358878-run-veggies.json) |
 | Run! | 219064 | [219064-run.json](./219064-run.json) |
+| Run! Bunny | 120922 | [120922-run-bunny.json](./120922-run-bunny.json) |
 | Run! Goddess | 338796 | [338796-run-goddess.json](./338796-run-goddess.json) |
 | Run! Run! Don't Die! | 329942 | [329942-run-run-dont-die.json](./329942-run-run-dont-die.json) |
 | Run!!! | 148492 | [148492-run.json](./148492-run.json) |
