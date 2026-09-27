@@ -1813,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars | 91393 | [91393-mars.json](./91393-mars.json) |
 | Mars 2030 | 51519 | [51519-mars-2030.json](./51519-mars-2030.json) |
 | Mars 2055 | 208437 | [208437-mars-2055.json](./208437-mars-2055.json) |
+| Mars Accident | 157477 | [157477-mars-accident.json](./157477-mars-accident.json) |
 | Mars Assault: 3D Shooter | 294849 | [294849-mars-assault-3d-shooter.json](./294849-mars-assault-3d-shooter.json) |
 | Mars Attracts | 314419 | [314419-mars-attracts.json](./314419-mars-attracts.json) |
 | Mars Base | 194273 | [194273-mars-base.json](./194273-mars-base.json) |
@@ -4741,6 +4742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Military Madness | 270701 | [270701-military-madness.json](./270701-military-madness.json) |
 | Military Madness | 44334 | [44334-military-madness.json](./44334-military-madness.json) |
 | Military Merge | 402307 | [402307-military-merge.json](./402307-military-merge.json) |
+| Military Service | 157515 | [157515-military-service.json](./157515-military-service.json) |
 | Military Transporter Sim | 293646 | [293646-military-transporter-sim.json](./293646-military-transporter-sim.json) |
 | Military:Run | 101463 | [101463-military-run.json](./101463-military-run.json) |
 | Military.io | 197362 | [197362-military-io.json](./197362-military-io.json) |
@@ -7405,6 +7407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moving Corpse | 258030 | [258030-moving-corpse.json](./258030-moving-corpse.json) |
 | Moving Day | 75793 | [75793-moving-day.json](./75793-moving-day.json) |
 | Moving Day: Make It Home | 389417 | [389417-moving-day-make-it-home.json](./389417-moving-day-make-it-home.json) |
+| Moving Letters | 157512 | [157512-moving-letters.json](./157512-moving-letters.json) |
 | Moving On | 303075 | [303075-moving-on.json](./303075-moving-on.json) |
 | Moving Out + Moving Out 2 Bundle | 261873 | [261873-moving-out-moving-out-2-bundle.json](./261873-moving-out-moving-out-2-bundle.json) |
 | Moving Out 2: Deluxe Edition | 271470 | [271470-moving-out-2-deluxe-edition.json](./271470-moving-out-2-deluxe-edition.json) |
