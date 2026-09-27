@@ -1256,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Jump | 167574 | [167574-fast-jump.json](./167574-fast-jump.json) |
 | Fast Racing 3D | 380549 | [380549-fast-racing-3d.json](./380549-fast-racing-3d.json) |
 | Fast Travel: Loot Delivery Service | 117050 | [117050-fast-travel-loot-delivery-service.json](./117050-fast-travel-loot-delivery-service.json) |
+| Fast Wings | 156060 | [156060-fast-wings.json](./156060-fast-wings.json) |
 | Fast:Run | 320392 | [320392-fast-run.json](./320392-fast-run.json) |
 | Fastar: Fantasy Fairy Story | 233468 | [233468-fastar-fantasy-fairy-story.json](./233468-fastar-fantasy-fairy-story.json) |
 | FastBall 2 | 257370 | [257370-fastball-2.json](./257370-fastball-2.json) |
@@ -3578,6 +3579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Dino Simulator 3D: Pterodactyl | 104671 | [104671-flying-dino-simulator-3d-pterodactyl.json](./104671-flying-dino-simulator-3d-pterodactyl.json) |
 | Flying Feathers | 13847 | [13847-flying-feathers.json](./13847-flying-feathers.json) |
 | Flying Fish Quest | 192313 | [192313-flying-fish-quest.json](./192313-flying-fish-quest.json) |
+| Flying Frags World Tour | 156070 | [156070-flying-frags-world-tour.json](./156070-flying-frags-world-tour.json) |
 | Flying Frogs | 209462 | [209462-flying-frogs.json](./209462-flying-frogs.json) |
 | Flying Frogs | 301991 | [301991-flying-frogs.json](./301991-flying-frogs.json) |
 | Flying Guys | 361741 | [361741-flying-guys.json](./361741-flying-guys.json) |
@@ -4103,6 +4105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Eras | 368499 | [368499-forgotten-eras.json](./368499-forgotten-eras.json) |
 | Forgotten Faces | 47998 | [47998-forgotten-faces.json](./47998-forgotten-faces.json) |
 | Forgotten Fears | 312734 | [312734-forgotten-fears.json](./312734-forgotten-fears.json) |
+| Forgotten Fragments | 156059 | [156059-forgotten-fragments.json](./156059-forgotten-fragments.json) |
 | Forgotten Gifts | 114349 | [114349-forgotten-gifts.json](./114349-forgotten-gifts.json) |
 | Forgotten Heroes | 31858 | [31858-forgotten-heroes.json](./31858-forgotten-heroes.json) |
 | Forgotten Hill Disillusion | 121472 | [121472-forgotten-hill-disillusion.json](./121472-forgotten-hill-disillusion.json) |
@@ -4639,6 +4642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franchise Hockey Manager 6 | 122838 | [122838-franchise-hockey-manager-6.json](./122838-franchise-hockey-manager-6.json) |
 | Franchise Hockey Manager 9 | 220867 | [220867-franchise-hockey-manager-9.json](./220867-franchise-hockey-manager-9.json) |
 | Francisca | 32062 | [32062-francisca.json](./32062-francisca.json) |
+| Francisca 2 | 156073 | [156073-francisca-2.json](./156073-francisca-2.json) |
 | Frank and 10 roots | 116286 | [116286-frank-and-10-roots.json](./116286-frank-and-10-roots.json) |
 | Frank and Drake | 152923 | [152923-frank-and-drake.json](./152923-frank-and-drake.json) |
 | Frank Fux | 294422 | [294422-frank-fux.json](./294422-frank-fux.json) |
