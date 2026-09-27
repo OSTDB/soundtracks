@@ -2532,6 +2532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Fighterz: Direct Offensive Action | 369580 | [369580-maximum-fighterz-direct-offensive-action.json](./369580-maximum-fighterz-direct-offensive-action.json) |
 | Maximum Football | 304344 | [304344-maximum-football.json](./304344-maximum-football.json) |
 | Maximum Football | 66690 | [66690-maximum-football.json](./66690-maximum-football.json) |
+| Maximum Football 2019 | 124703 | [124703-maximum-football-2019.json](./124703-maximum-football-2019.json) |
 | Maximum Football 2020 | 139233 | [139233-maximum-football-2020.json](./139233-maximum-football-2020.json) |
 | Maximum Force | 36573 | [36573-maximum-force.json](./36573-maximum-force.json) |
 | Maximum G-Force Coasters | 209537 | [209537-maximum-g-force-coasters.json](./209537-maximum-g-force-coasters.json) |
