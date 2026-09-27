@@ -648,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie High Dive | 344004 | [344004-zombie-high-dive.json](./344004-zombie-high-dive.json) |
 | Zombie Highway | 201839 | [201839-zombie-highway.json](./201839-zombie-highway.json) |
 | Zombie Hill Race | 147265 | [147265-zombie-hill-race.json](./147265-zombie-hill-race.json) |
+| Zombie Hills | 139905 | [139905-zombie-hills.json](./139905-zombie-hills.json) |
 | Zombie Hobby VR | 41950 | [41950-zombie-hobby-vr.json](./41950-zombie-hobby-vr.json) |
 | Zombie Hunter | 220741 | [220741-zombie-hunter.json](./220741-zombie-hunter.json) |
 | Zombie Hunter | 377130 | [377130-zombie-hunter.json](./377130-zombie-hunter.json) |
