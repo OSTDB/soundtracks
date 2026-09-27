@@ -1527,6 +1527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurl | 244189 | [244189-jurl.json](./244189-jurl.json) |
 | Jurnal Malam: Bestfriend | 310057 | [310057-jurnal-malam-bestfriend.json](./310057-jurnal-malam-bestfriend.json) |
 | Jurnal Risa: Dark Destiny | 334165 | [334165-jurnal-risa-dark-destiny.json](./334165-jurnal-risa-dark-destiny.json) |
+| Jury Trial | 160157 | [160157-jury-trial.json](./160157-jury-trial.json) |
 | Jusou: Gakkou no Kaidan | 308906 | [308906-jusou-gakkou-no-kaidan.json](./308906-jusou-gakkou-no-kaidan.json) |
 | Just 1 Minute! Memory Test with Masterpieces | 316273 | [316273-just-1-minute-memory-test-with-masterpieces.json](./316273-just-1-minute-memory-test-with-masterpieces.json) |
 | Just a Cute Capybara Puzzle | 295284 | [295284-just-a-cute-capybara-puzzle.json](./295284-just-a-cute-capybara-puzzle.json) |
