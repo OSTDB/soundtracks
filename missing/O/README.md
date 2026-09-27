@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ojou-sama no Hanbun wa Renai de Dekiteimasu! | 328216 | [328216-ojou-sama-no-hanbun-wa-renai-de-dekiteimasu.json](./328216-ojou-sama-no-hanbun-wa-renai-de-dekiteimasu.json) |
 | Ojou-sama to Himitsu no Otome | 132100 | [132100-ojou-sama-to-himitsu-no-otome.json](./132100-ojou-sama-to-himitsu-no-otome.json) |
 | Ojousama Sousamou | 70400 | [70400-ojousama-sousamou.json](./70400-ojousama-sousamou.json) |
+| OK Boomer | 127160 | [127160-ok-boomer.json](./127160-ok-boomer.json) |
 | Ok/Normal | 101635 | [101635-ok-normal.json](./101635-ok-normal.json) |
 | Okada Toshio no Itsumade mo Debu to Omounayo | 70633 | [70633-okada-toshio-no-itsumade-mo-debu-to-omounayo.json](./70633-okada-toshio-no-itsumade-mo-debu-to-omounayo.json) |
 | Okaeri | 122005 | [122005-okaeri.json](./122005-okaeri.json) |
