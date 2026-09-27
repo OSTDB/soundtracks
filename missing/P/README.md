@@ -1794,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PenguInn | 223951 | [223951-penguinn.json](./223951-penguinn.json) |
 | Penguino | 365853 | [365853-penguino.json](./365853-penguino.json) |
 | Penguins Arena: Sedna's World | 15779 | [15779-penguins-arena-sednas-world.json](./15779-penguins-arena-sednas-world.json) |
+| Penguins of the North | 121545 | [121545-penguins-of-the-north.json](./121545-penguins-of-the-north.json) |
 | Penguins vs. Bugs | 122402 | [122402-penguins-vs-bugs.json](./122402-penguins-vs-bugs.json) |
 | Penguins! | 147344 | [147344-penguins.json](./147344-penguins.json) |
 | Penguru | 264648 | [264648-penguru.json](./264648-penguru.json) |
@@ -1890,6 +1891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Percipio | 339634 | [339634-percipio.json](./339634-percipio.json) |
 | Percy Penguin | 128467 | [128467-percy-penguin.json](./128467-percy-penguin.json) |
 | Percy's Last Stand | 118403 | [118403-percys-last-stand.json](./118403-percys-last-stand.json) |
+| Perdition | 121580 | [121580-perdition.json](./121580-perdition.json) |
 | Pereelous | 347710 | [347710-pereelous.json](./347710-pereelous.json) |
 | Perennial Order | 149935 | [149935-perennial-order.json](./149935-perennial-order.json) |
 | Perestroika | 180293 | [180293-perestroika.json](./180293-perestroika.json) |
@@ -5305,6 +5307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poppy Playtime Triple Pack | 314441 | [314441-poppy-playtime-triple-pack.json](./314441-poppy-playtime-triple-pack.json) |
 | Poppy Playtime VR | 360783 | [360783-poppy-playtime-vr.json](./360783-poppy-playtime-vr.json) |
 | Poppy Sanctum | 396891 | [396891-poppy-sanctum.json](./396891-poppy-sanctum.json) |
+| Poppy's Nightmare | 121577 | [121577-poppys-nightmare.json](./121577-poppys-nightmare.json) |
 | PopSauce | 186044 | [186044-popsauce.json](./186044-popsauce.json) |
 | Popscene (Backstage Pass) | 91988 | [91988-popscene-backstage-pass.json](./91988-popscene-backstage-pass.json) |
 | Popsicle Stack | 223983 | [223983-popsicle-stack.json](./223983-popsicle-stack.json) |
