@@ -170,6 +170,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yelling At Cats: The Game | 395727 | [395727-yelling-at-cats-the-game.json](./395727-yelling-at-cats-the-game.json) |
 | Yello Adventures | 242571 | [242571-yello-adventures.json](./242571-yello-adventures.json) |
 | Yellow Ballman | 153920 | [153920-yellow-ballman.json](./153920-yellow-ballman.json) |
+| Yellow Brick Road II | 144851 | [144851-yellow-brick-road-ii.json](./144851-yellow-brick-road-ii.json) |
+| Yellow Brick Road: Harapeko Tsuki to Hoshi Atsume | 144852 | [144852-yellow-brick-road-harapeko-tsuki-to-hoshi-atsume.json](./144852-yellow-brick-road-harapeko-tsuki-to-hoshi-atsume.json) |
 | Yellow Fins | 147815 | [147815-yellow-fins.json](./147815-yellow-fins.json) |
 | Yellow Fins HD | 89574 | [89574-yellow-fins-hd.json](./89574-yellow-fins-hd.json) |
 | Yellow House | 309512 | [309512-yellow-house.json](./309512-yellow-house.json) |
