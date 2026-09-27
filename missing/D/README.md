@@ -1717,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Brother | 158562 | [158562-dear-brother.json](./158562-dear-brother.json) |
 | Dear Camy | 400479 | [400479-dear-camy.json](./400479-dear-camy.json) |
 | Dear Delusion | 201574 | [201574-dear-delusion.json](./201574-dear-delusion.json) |
+| Dear Devere | 139324 | [139324-dear-devere.json](./139324-dear-devere.json) |
 | Dear Diary | 297233 | [297233-dear-diary.json](./297233-dear-diary.json) |
 | Dear Diary | 370715 | [370715-dear-diary.json](./370715-dear-diary.json) |
 | Dear Drops Distortion | 59421 | [59421-dear-drops-distortion.json](./59421-dear-drops-distortion.json) |
@@ -2273,6 +2274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defensive Measures | 199403 | [199403-defensive-measures.json](./199403-defensive-measures.json) |
 | Defensurvivor | 324715 | [324715-defensurvivor.json](./324715-defensurvivor.json) |
 | Deff | 133973 | [133973-deff.json](./133973-deff.json) |
+| Defiance | 139312 | [139312-defiance.json](./139312-defiance.json) |
 | Defiance 2050 | 89554 | [89554-defiance-2050.json](./89554-defiance-2050.json) |
 | Defiant Ascent | 375439 | [375439-defiant-ascent.json](./375439-defiant-ascent.json) |
 | Deficiency | 278161 | [278161-deficiency.json](./278161-deficiency.json) |
@@ -3845,6 +3847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DinoRPG | 176881 | [176881-dinorpg.json](./176881-dinorpg.json) |
 | Dinos | 311257 | [311257-dinos.json](./311257-dinos.json) |
 | Dinos Jump | 96754 | [96754-dinos-jump.json](./96754-dinos-jump.json) |
+| Dinosaur | 139327 | [139327-dinosaur.json](./139327-dinosaur.json) |
 | Dinosaur | 139988 | [139988-dinosaur.json](./139988-dinosaur.json) |
 | Dinosaur | 310972 | [310972-dinosaur.json](./310972-dinosaur.json) |
 | Dinosaur Adventure 3-D | 69808 | [69808-dinosaur-adventure-3-d.json](./69808-dinosaur-adventure-3-d.json) |
@@ -4222,6 +4225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Goofy's Fun House | 43895 | [43895-disneys-goofys-fun-house.json](./43895-disneys-goofys-fun-house.json) |
 | Disney's Herbie: Rescue Rally | 73552 | [73552-disneys-herbie-rescue-rally.json](./73552-disneys-herbie-rescue-rally.json) |
 | Disney's Hercules Action Game | 9814 | [9814-disneys-hercules-action-game.json](./9814-disneys-hercules-action-game.json) |
+| Disney's Hercules: Animated Storybook | 139313 | [139313-disneys-hercules-animated-storybook.json](./139313-disneys-hercules-animated-storybook.json) |
 | Disney's Hot Shots: Timon and Pumbaa's Jungle Pinball | 109480 | [109480-disneys-hot-shots-timon-and-pumbaas-jungle-pinball.json](./109480-disneys-hot-shots-timon-and-pumbaas-jungle-pinball.json) |
 | Disney's Magic Artist Studio | 51281 | [51281-disneys-magic-artist-studio.json](./51281-disneys-magic-artist-studio.json) |
 | Disney's Magical Quest 2 Starring Mickey & Minnie | 188634 | [188634-disneys-magical-quest-2-starring-mickey-and-minnie.json](./188634-disneys-magical-quest-2-starring-mickey-and-minnie.json) |
