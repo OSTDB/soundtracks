@@ -1439,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenGuessr | 314022 | [314022-openguessr.json](./314022-openguessr.json) |
 | OpenHV | 184413 | [184413-openhv.json](./184413-openhv.json) |
 | Opening Night | 68975 | [68975-opening-night.json](./68975-opening-night.json) |
+| Opening Night at the Großen Schauspielhaus: Berlin 1927 | 171409 | [171409-opening-night-at-the-gro-en-schauspielhaus-berlin-1927.json](./171409-opening-night-at-the-gro-en-schauspielhaus-berlin-1927.json) |
 | Opening Weekend: Bear Season | 208993 | [208993-opening-weekend-bear-season.json](./208993-opening-weekend-bear-season.json) |
 | Opening Weekend: Big Cat Season | 208992 | [208992-opening-weekend-big-cat-season.json](./208992-opening-weekend-big-cat-season.json) |
 | OpenLoco | 138233 | [138233-openloco.json](./138233-openloco.json) |
