@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geeste | 99667 | [99667-geeste.json](./99667-geeste.json) |
 | Geflect | 181908 | [181908-geflect.json](./181908-geflect.json) |
 | Geg 2: Nazad v Budushchee | 303242 | [303242-geg-2-nazad-v-budushchee.json](./303242-geg-2-nazad-v-budushchee.json) |
+| GeGeGe no Kitaro | 166545 | [166545-gegege-no-kitaro.json](./166545-gegege-no-kitaro.json) |
 | GeGeGe no Kitaro: Fukkatsu! Tenma Daiou | 64106 | [64106-gegege-no-kitaro-fukkatsu-tenma-daiou.json](./64106-gegege-no-kitaro-fukkatsu-tenma-daiou.json) |
 | GeGeGe no Kitaro: Ibun Yokai Kitan | 64108 | [64108-gegege-no-kitaro-ibun-yokai-kitan.json](./64108-gegege-no-kitaro-ibun-yokai-kitan.json) |
 | GeGeGe no Kitaro: Kiki Ippatsu! Yokai Rettou | 49609 | [49609-gegege-no-kitaro-kiki-ippatsu-yokai-rettou.json](./49609-gegege-no-kitaro-kiki-ippatsu-yokai-rettou.json) |
@@ -1412,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gestalt_OS | 270657 | [270657-gestalt-os.json](./270657-gestalt-os.json) |
 | Gestalt: The Fifth Day | 275730 | [275730-gestalt-the-fifth-day.json](./275730-gestalt-the-fifth-day.json) |
 | Gestures Towards Divinity | 393510 | [393510-gestures-towards-divinity.json](./393510-gestures-towards-divinity.json) |
+| Gesuido | 166516 | [166516-gesuido.json](./166516-gesuido.json) |
 | Get Achievements for Achievements | 188527 | [188527-get-achievements-for-achievements.json](./188527-get-achievements-for-achievements.json) |
 | Get Away From The Cube | 335678 | [335678-get-away-from-the-cube.json](./335678-get-away-from-the-cube.json) |
 | Get Bigger! Mola | 120321 | [120321-get-bigger-mola.json](./120321-get-bigger-mola.json) |
