@@ -910,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Ball Adventure | 212274 | [212274-kid-ball-adventure.json](./212274-kid-ball-adventure.json) |
 | Kid Chameleon | 16035 | [16035-kid-chameleon.json](./16035-kid-chameleon.json) |
 | Kid Dracula | 1125 | [1125-kid-dracula.json](./1125-kid-dracula.json) |
+| Kid Funky | 134506 | [134506-kid-funky.json](./134506-kid-funky.json) |
 | Kid Grid | 22770 | [22770-kid-grid.json](./22770-kid-grid.json) |
 | Kid Hallow | 179210 | [179210-kid-hallow.json](./179210-kid-hallow.json) |
 | Kid Icarus | 279751 | [279751-kid-icarus.json](./279751-kid-icarus.json) |
@@ -1538,6 +1539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kira Kira Rainbow Pack | 26562 | [26562-kira-kira-rainbow-pack.json](./26562-kira-kira-rainbow-pack.json) |
 | Kira Legends | 285548 | [285548-kira-legends.json](./285548-kira-legends.json) |
 | Kira-Kira Catgirl Rampage | 369193 | [369193-kira-kira-catgirl-rampage.json](./369193-kira-kira-catgirl-rampage.json) |
+| Kira-kira Star Night | 134518 | [134518-kira-kira-star-night.json](./134518-kira-kira-star-night.json) |
 | Kira-kira Star Night AC | 206341 | [206341-kira-kira-star-night-ac.json](./206341-kira-kira-star-night-ac.json) |
 | Kira-kira Star Night exa | 206344 | [206344-kira-kira-star-night-exa.json](./206344-kira-kira-star-night-exa.json) |
 | Kira-kira Star Night Gold | 206342 | [206342-kira-kira-star-night-gold.json](./206342-kira-kira-star-night-gold.json) |
@@ -1964,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knighty Knight | 261320 | [261320-knighty-knight.json](./261320-knighty-knight.json) |
 | Knighty Night | 119027 | [119027-knighty-night.json](./119027-knighty-night.json) |
 | Knitted and Inflatable | 155666 | [155666-knitted-and-inflatable.json](./155666-knitted-and-inflatable.json) |
+| Kno | 134527 | [134527-kno.json](./134527-kno.json) |
 | Knob | 346254 | [346254-knob.json](./346254-knob.json) |
 | Knock 'Em Down! Bowling | 114201 | [114201-knock-em-down-bowling.json](./114201-knock-em-down-bowling.json) |
 | Knock Harder | 120953 | [120953-knock-harder.json](./120953-knock-harder.json) |
@@ -2324,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koyomin's Revenge | 343473 | [343473-koyomins-revenge.json](./343473-koyomins-revenge.json) |
 | Koziołek Matołek Wynalazca | 135255 | [135255-kozio-ek-mato-ek-wynalazca.json](./135255-kozio-ek-mato-ek-wynalazca.json) |
 | Kozmik Krooz'r | 245279 | [245279-kozmik-kroozr.json](./245279-kozmik-kroozr.json) |
+| KPatience | 134532 | [134532-kpatience.json](./134532-kpatience.json) |
 | Kpop Love Idol Maker Manager | 297017 | [297017-kpop-love-idol-maker-manager.json](./297017-kpop-love-idol-maker-manager.json) |
 | Kraal | 142366 | [142366-kraal.json](./142366-kraal.json) |
 | Krabat: The Secret of the Sorbian King | 186722 | [186722-krabat-the-secret-of-the-sorbian-king.json](./186722-krabat-the-secret-of-the-sorbian-king.json) |
