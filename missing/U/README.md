@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universal Car Ball | 345030 | [345030-universal-car-ball.json](./345030-universal-car-ball.json) |
 | Universal Chaos | 40726 | [40726-universal-chaos.json](./40726-universal-chaos.json) |
 | Universal Combat | 70975 | [70975-universal-combat.json](./70975-universal-combat.json) |
+| Universal Combat CE: The Lyrius Conflict | 171923 | [171923-universal-combat-ce-the-lyrius-conflict.json](./171923-universal-combat-ce-the-lyrius-conflict.json) |
 | Universal Combat: Collector's Edition | 206064 | [206064-universal-combat-collectors-edition.json](./206064-universal-combat-collectors-edition.json) |
 | Universal Conquest | 258741 | [258741-universal-conquest.json](./258741-universal-conquest.json) |
 | Universal Flight Simulator | 207890 | [207890-universal-flight-simulator.json](./207890-universal-flight-simulator.json) |
