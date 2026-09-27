@@ -2146,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild River Run | 230311 | [230311-wild-river-run.json](./230311-wild-river-run.json) |
 | Wild Roads | 233070 | [233070-wild-roads.json](./233070-wild-roads.json) |
 | Wild Romance | 32335 | [32335-wild-romance.json](./32335-wild-romance.json) |
+| Wild Runs | 147241 | [147241-wild-runs.json](./147241-wild-runs.json) |
 | Wild Script: Nature | 319348 | [319348-wild-script-nature.json](./319348-wild-script-nature.json) |
 | Wild Seasons | 273383 | [273383-wild-seasons.json](./273383-wild-seasons.json) |
 | Wild Shape | 180311 | [180311-wild-shape.json](./180311-wild-shape.json) |
@@ -2655,6 +2656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WitchSpring R: The Follower’s Fall | 363460 | [363460-witchspring-r-the-follower-s-fall.json](./363460-witchspring-r-the-follower-s-fall.json) |
 | WitchSpring2 | 102813 | [102813-witchspring2.json](./102813-witchspring2.json) |
 | WitchSpring3 | 207869 | [207869-witchspring3.json](./207869-witchspring3.json) |
+| WitchSpring4 | 147342 | [147342-witchspring4.json](./147342-witchspring4.json) |
 | Witchworker | 405611 | [405611-witchworker.json](./405611-witchworker.json) |
 | Witchy Wonderland | 344348 | [344348-witchy-wonderland.json](./344348-witchy-wonderland.json) |
 | Witchy Woo | 379902 | [379902-witchy-woo.json](./379902-witchy-woo.json) |
