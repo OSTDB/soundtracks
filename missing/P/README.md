@@ -1768,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguino | 365853 | [365853-penguino.json](./365853-penguino.json) |
 | Penguins Arena: Sedna's World | 15779 | [15779-penguins-arena-sednas-world.json](./15779-penguins-arena-sednas-world.json) |
 | Penguins vs. Bugs | 122402 | [122402-penguins-vs-bugs.json](./122402-penguins-vs-bugs.json) |
+| Penguins! | 147344 | [147344-penguins.json](./147344-penguins.json) |
 | Penguru | 264648 | [264648-penguru.json](./264648-penguru.json) |
 | Pengwyn | 13745 | [13745-pengwyn.json](./13745-pengwyn.json) |
 | Penis Simulator | 403024 | [403024-penis-simulator.json](./403024-penis-simulator.json) |
@@ -2872,6 +2873,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Brain Damage | 69591 | [69591-pinball-brain-damage.json](./69591-pinball-brain-damage.json) |
 | Pinball Breaker 3 | 146686 | [146686-pinball-breaker-3.json](./146686-pinball-breaker-3.json) |
 | Pinball Breaker 4 | 146685 | [146685-pinball-breaker-4.json](./146685-pinball-breaker-4.json) |
+| Pinball Breaker V | 147357 | [147357-pinball-breaker-v.json](./147357-pinball-breaker-v.json) |
+| Pinball Breaker VI | 147356 | [147356-pinball-breaker-vi.json](./147356-pinball-breaker-vi.json) |
 | Pinball Breakout | 57322 | [57322-pinball-breakout.json](./57322-pinball-breakout.json) |
 | Pinball Breakout 2 | 112114 | [112114-pinball-breakout-2.json](./112114-pinball-breakout-2.json) |
 | Pinball Breeze | 354432 | [354432-pinball-breeze.json](./354432-pinball-breeze.json) |
@@ -7236,6 +7239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrfect Alchemy | 337808 | [337808-purrfect-alchemy.json](./337808-purrfect-alchemy.json) |
 | Purrfect Apawcalypse: Ideal Finale!!! | 304124 | [304124-purrfect-apawcalypse-ideal-finale.json](./304124-purrfect-apawcalypse-ideal-finale.json) |
 | Purrfect Apawcalypse: Infamous Furiend?! | 304122 | [304122-purrfect-apawcalypse-infamous-furiend.json](./304122-purrfect-apawcalypse-infamous-furiend.json) |
+| Purrfect Apawcalypse: Patches' Infurno | 147324 | [147324-purrfect-apawcalypse-patches-infurno.json](./147324-purrfect-apawcalypse-patches-infurno.json) |
 | Purrfect Apawcalypse! Incredible Furture! | 304121 | [304121-purrfect-apawcalypse-incredible-furture.json](./304121-purrfect-apawcalypse-incredible-furture.json) |
 | Purrfect Catch | 255041 | [255041-purrfect-catch.json](./255041-purrfect-catch.json) |
 | Purrfect Stall | 371958 | [371958-purrfect-stall.json](./371958-purrfect-stall.json) |
