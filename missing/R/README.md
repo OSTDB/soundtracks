@@ -3158,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Adventure | 153958 | [153958-rift-adventure.json](./153958-rift-adventure.json) |
 | Rift Breach | 232693 | [232693-rift-breach.json](./232693-rift-breach.json) |
 | Rift Coaster HD Remastered VR | 52259 | [52259-rift-coaster-hd-remastered-vr.json](./52259-rift-coaster-hd-remastered-vr.json) |
+| Rift Drifter | 149986 | [149986-rift-drifter.json](./149986-rift-drifter.json) |
 | Rift Fishing | 380422 | [380422-rift-fishing.json](./380422-rift-fishing.json) |
 | Rift Frigate | 132007 | [132007-rift-frigate.json](./132007-rift-frigate.json) |
 | Rift Investigations | 402992 | [402992-rift-investigations.json](./402992-rift-investigations.json) |
