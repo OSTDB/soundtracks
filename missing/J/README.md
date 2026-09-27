@@ -887,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiǔlóng Mófǎzhèn | 394200 | [394200-jiulong-mofazhen.json](./394200-jiulong-mofazhen.json) |
 | Jiǔměizǐ zhī Sǐ: Zhāohé Shàonǚ Xuèsè Gàobái | 374628 | [374628-jiumeizi-zhi-si-zhaohe-shaonu-xuese-gaobai.json](./374628-jiumeizi-zhi-si-zhaohe-shaonu-xuese-gaobai.json) |
 | JiuTian Idle RPG | 187845 | [187845-jiutian-idle-rpg.json](./187845-jiutian-idle-rpg.json) |
+| Jiǔxiāo Huánshén Jì | 119640 | [119640-jiuxiao-huanshen-ji.json](./119640-jiuxiao-huanshen-ji.json) |
 | Jiǔzhōu Jiàn Gē | 367405 | [367405-jiuzhou-jian-ge.json](./367405-jiuzhou-jian-ge.json) |
 | Jive Blocks | 222993 | [222993-jive-blocks.json](./222993-jive-blocks.json) |
 | Jiwa: The Damned Soul | 327169 | [327169-jiwa-the-damned-soul.json](./327169-jiwa-the-damned-soul.json) |
@@ -1124,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey of the Broken Circle | 136502 | [136502-journey-of-the-broken-circle.json](./136502-journey-of-the-broken-circle.json) |
 | Journey of the Forgotten | 274460 | [274460-journey-of-the-forgotten.json](./274460-journey-of-the-forgotten.json) |
 | Journey of the Sword | 72348 | [72348-journey-of-the-sword.json](./72348-journey-of-the-sword.json) |
+| Journey of the World | 119676 | [119676-journey-of-the-world.json](./119676-journey-of-the-world.json) |
 | Journey On | 154023 | [154023-journey-on.json](./154023-journey-on.json) |
 | Journey Record | 265961 | [265961-journey-record.json](./265961-journey-record.json) |
 | Journey Through the Nightmare Realm II | 347683 | [347683-journey-through-the-nightmare-realm-ii.json](./347683-journey-through-the-nightmare-realm-ii.json) |
@@ -1733,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justin Freeman's Build A House | 304647 | [304647-justin-freemans-build-a-house.json](./304647-justin-freemans-build-a-house.json) |
 | Justin Wack and the Big Time Hack | 121639 | [121639-justin-wack-and-the-big-time-hack.json](./121639-justin-wack-and-the-big-time-hack.json) |
 | Justin Wack and the Big Time Hack: Deluxe Edition | 230819 | [230819-justin-wack-and-the-big-time-hack-deluxe-edition.json](./230819-justin-wack-and-the-big-time-hack-deluxe-edition.json) |
+| JustN | 119665 | [119665-justn.json](./119665-justn.json) |
 | JustWatchMyCat | 257380 | [257380-justwatchmycat.json](./257380-justwatchmycat.json) |
 | Justy x Nasty: Maou Hajimemashita | 60778 | [60778-justy-x-nasty-maou-hajimemashita.json](./60778-justy-x-nasty-maou-hajimemashita.json) |
 | Jut | 129578 | [129578-jut.json](./129578-jut.json) |
