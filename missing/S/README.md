@@ -999,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savant: Ascent | 7879 | [7879-savant-ascent.json](./7879-savant-ascent.json) |
 | Savant: Ascent - Anniversary Edition | 245867 | [245867-savant-ascent-anniversary-edition.json](./245867-savant-ascent-anniversary-edition.json) |
 | Savant: Ascent Remix | 261364 | [261364-savant-ascent-remix.json](./261364-savant-ascent-remix.json) |
+| Save 2020 | 156043 | [156043-save-2020.json](./156043-save-2020.json) |
 | Save 2B Young Man | 367009 | [367009-save-2b-young-man.json](./367009-save-2b-young-man.json) |
 | Save and Conquer | 214442 | [214442-save-and-conquer.json](./214442-save-and-conquer.json) |
 | Save Christmas With Santa | 325010 | [325010-save-christmas-with-santa.json](./325010-save-christmas-with-santa.json) |
@@ -1938,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets | 179171 | [179171-secrets.json](./179171-secrets.json) |
 | Secrets Agent | 136440 | [136440-secrets-agent.json](./136440-secrets-agent.json) |
 | Secrets by Episode | 332434 | [332434-secrets-by-episode.json](./332434-secrets-by-episode.json) |
+| Secrets of a Campfire | 156072 | [156072-secrets-of-a-campfire.json](./156072-secrets-of-a-campfire.json) |
 | Secrets of Blinck Island | 397077 | [397077-secrets-of-blinck-island.json](./397077-secrets-of-blinck-island.json) |
 | Secrets of Grindea | 8436 | [8436-secrets-of-grindea.json](./8436-secrets-of-grindea.json) |
 | Secrets of Magic 2: Witches and Wizards | 68599 | [68599-secrets-of-magic-2-witches-and-wizards.json](./68599-secrets-of-magic-2-witches-and-wizards.json) |
@@ -3431,6 +3433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shield of Breaker | 380118 | [380118-shield-of-breaker.json](./380118-shield-of-breaker.json) |
 | Shieldbound | 349406 | [349406-shieldbound.json](./349406-shieldbound.json) |
 | Shieldmaiden | 129709 | [129709-shieldmaiden.json](./129709-shieldmaiden.json) |
+| Shields of Loyalty | 156040 | [156040-shields-of-loyalty.json](./156040-shields-of-loyalty.json) |
 | Shields Up! VR | 102196 | [102196-shields-up-vr.json](./102196-shields-up-vr.json) |
 | Shieldwall Chronicles | 197769 | [197769-shieldwall-chronicles.json](./197769-shieldwall-chronicles.json) |
 | Shien's Revenge | 20173 | [20173-shiens-revenge.json](./20173-shiens-revenge.json) |
@@ -6697,6 +6700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoban | 47946 | [47946-sokoban.json](./47946-sokoban.json) |
 | Sokoban (Boxman) Classic | 171619 | [171619-sokoban-boxman-classic.json](./171619-sokoban-boxman-classic.json) |
 | Sokoban DS | 307081 | [307081-sokoban-ds.json](./307081-sokoban-ds.json) |
+| Sokoban Gianta | 155973 | [155973-sokoban-gianta.json](./155973-sokoban-gianta.json) |
 | Sokoban Land DX | 44206 | [44206-sokoban-land-dx.json](./44206-sokoban-land-dx.json) |
 | Sokoban World | 308565 | [308565-sokoban-world.json](./308565-sokoban-world.json) |
 | Sokoban: Bunny Tales | 168220 | [168220-sokoban-bunny-tales.json](./168220-sokoban-bunny-tales.json) |
@@ -9678,6 +9682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Saga: The Trials | 296469 | [296469-square-saga-the-trials.json](./296469-square-saga-the-trials.json) |
 | Square Shooter | 108482 | [108482-square-shooter.json](./108482-square-shooter.json) |
 | Square Valley | 200051 | [200051-square-valley.json](./200051-square-valley.json) |
+| Square vs Triangles | 156054 | [156054-square-vs-triangles.json](./156054-square-vs-triangles.json) |
 | Square Worlds | 185538 | [185538-square-worlds.json](./185538-square-worlds.json) |
 | Square: Trial and Error | 361781 | [361781-square-trial-and-error.json](./361781-square-trial-and-error.json) |
 | Square's Route | 33390 | [33390-squares-route.json](./33390-squares-route.json) |
@@ -12382,6 +12387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suits: A Business RPG | 16135 | [16135-suits-a-business-rpg.json](./16135-suits-a-business-rpg.json) |
 | SuitU | 341166 | [341166-suitu.json](./341166-suitu.json) |
 | Suīyáng: Shī Yǔ Huǒ | 374626 | [374626-suiyang-shi-yu-huo.json](./374626-suiyang-shi-yu-huo.json) |
+| Sukakko | 156048 | [156048-sukakko.json](./156048-sukakko.json) |
 | Sukashika Shipanman DS | 69212 | [69212-sukashika-shipanman-ds.json](./69212-sukashika-shipanman-ds.json) |
 | Sukeban Deka III | 48684 | [48684-sukeban-deka-iii.json](./48684-sukeban-deka-iii.json) |
 | Sukeban Janshi Ryuuko | 372145 | [372145-sukeban-janshi-ryuuko.json](./372145-sukeban-janshi-ryuuko.json) |
@@ -14613,6 +14619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Hide and Seek | 339460 | [339460-sweet-hide-and-seek.json](./339460-sweet-hide-and-seek.json) |
 | Sweet Home | 9426 | [9426-sweet-home.json](./9426-sweet-home.json) |
 | Sweet Home 3: Look and Find - Collector's Edition | 339459 | [339459-sweet-home-3-look-and-find-collectors-edition.json](./339459-sweet-home-3-look-and-find-collectors-edition.json) |
+| Sweet Home Puzzle | 156047 | [156047-sweet-home-puzzle.json](./156047-sweet-home-puzzle.json) |
 | Sweet Home: Design & Blast | 207810 | [207810-sweet-home-design-and-blast.json](./207810-sweet-home-design-and-blast.json) |
 | Sweet Honey | 339458 | [339458-sweet-honey.json](./339458-sweet-honey.json) |
 | Sweet Hospital | 332624 | [332624-sweet-hospital.json](./332624-sweet-hospital.json) |
@@ -15057,6 +15064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: The Smile - "Zero Sum" | 364552 | [364552-synth-riders-the-smile-zero-sum.json](./364552-synth-riders-the-smile-zero-sum.json) |
 | Synth Riders: Tokyo Machine - "Turbo" | 356171 | [356171-synth-riders-tokyo-machine-turbo.json](./356171-synth-riders-tokyo-machine-turbo.json) |
 | Synth Riders: Toto - "Africa" | 352395 | [352395-synth-riders-toto-africa.json](./352395-synth-riders-toto-africa.json) |
+| Synth Swinger | 156051 | [156051-synth-swinger.json](./156051-synth-swinger.json) |
 | Synth War Tactics | 151188 | [151188-synth-war-tactics.json](./151188-synth-war-tactics.json) |
 | Synthaar | 304880 | [304880-synthaar.json](./304880-synthaar.json) |
 | Synthalgia: Retro Arcade Racing | 155513 | [155513-synthalgia-retro-arcade-racing.json](./155513-synthalgia-retro-arcade-racing.json) |
