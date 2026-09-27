@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon to the Moon 2 | 316083 | [316083-balloon-to-the-moon-2.json](./316083-balloon-to-the-moon-2.json) |
 | Balloonacy 2 | 97324 | [97324-balloonacy-2.json](./97324-balloonacy-2.json) |
 | Balloonacy! | 39043 | [39043-balloonacy.json](./39043-balloonacy.json) |
+| BalloonBoyBob | 129096 | [129096-balloonboybob.json](./129096-balloonboybob.json) |
 | Balloonrain | 130836 | [130836-balloonrain.json](./130836-balloonrain.json) |
 | Balloons | 257936 | [257936-balloons.json](./257936-balloons.json) |
 | Balloons Jump | 107110 | [107110-balloons-jump.json](./107110-balloons-jump.json) |
@@ -4806,6 +4807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Ridge Hunting | 265390 | [265390-blue-ridge-hunting.json](./265390-blue-ridge-hunting.json) |
 | Blue Sango | 263595 | [263595-blue-sango.json](./263595-blue-sango.json) |
 | Blue Skies | 63858 | [63858-blue-skies.json](./63858-blue-skies.json) |
+| Blue sky fighter | 129076 | [129076-blue-sky-fighter.json](./129076-blue-sky-fighter.json) |
 | Blue Sphere Madness | 332598 | [332598-blue-sphere-madness.json](./332598-blue-sphere-madness.json) |
 | Blue Sphere Plus | 216302 | [216302-blue-sphere-plus.json](./216302-blue-sphere-plus.json) |
 | Blue Submarine No. 6: Antarctica | 78956 | [78956-blue-submarine-no-6-antarctica.json](./78956-blue-submarine-no-6-antarctica.json) |
@@ -6866,6 +6868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Budding Destiny | 316649 | [316649-budding-destiny.json](./316649-budding-destiny.json) |
 | Buddy & Friends: Santa's Workshop Animal Party | 283299 | [283299-buddy-and-friends-santas-workshop-animal-party.json](./283299-buddy-and-friends-santas-workshop-animal-party.json) |
 | Buddy & Me | 61874 | [61874-buddy-and-me.json](./61874-buddy-and-me.json) |
+| Buddy Bash | 129091 | [129091-buddy-bash.json](./129091-buddy-bash.json) |
 | Buddy Bug | 335359 | [335359-buddy-bug.json](./335359-buddy-bug.json) |
 | Buddy Collection | 241521 | [241521-buddy-collection.json](./241521-buddy-collection.json) |
 | Buddy Shell | 328071 | [328071-buddy-shell.json](./328071-buddy-shell.json) |
