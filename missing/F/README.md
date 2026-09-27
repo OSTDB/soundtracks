@@ -2124,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII G-Bike | 7398 | [7398-final-fantasy-vii-g-bike.json](./7398-final-fantasy-vii-g-bike.json) |
 | Final Fantasy VII Remake: 1st Class Edition | 136353 | [136353-final-fantasy-vii-remake-1st-class-edition.json](./136353-final-fantasy-vii-remake-1st-class-edition.json) |
 | Final Fantasy VII Remake: Digital Deluxe Edition | 119576 | [119576-final-fantasy-vii-remake-digital-deluxe-edition.json](./119576-final-fantasy-vii-remake-digital-deluxe-edition.json) |
+| Final Fantasy VII Remake: Digital Deluxe Upgrade | 133299 | [133299-final-fantasy-vii-remake-digital-deluxe-upgrade.json](./133299-final-fantasy-vii-remake-digital-deluxe-upgrade.json) |
 | Final Fantasy VII: Regenesis | 394328 | [394328-final-fantasy-vii-regenesis.json](./394328-final-fantasy-vii-regenesis.json) |
 | Final Fantasy X International | 146774 | [146774-final-fantasy-x-international.json](./146774-final-fantasy-x-international.json) |
 | Final Fantasy X-2 International + Last Mission | 146852 | [146852-final-fantasy-x-2-international-last-mission.json](./146852-final-fantasy-x-2-international-last-mission.json) |
@@ -2567,6 +2568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FireMatch Empire | 382319 | [382319-firematch-empire.json](./382319-firematch-empire.json) |
 | Fireplace | 68630 | [68630-fireplace.json](./68630-fireplace.json) |
 | Fireplace Simulator | 337615 | [337615-fireplace-simulator.json](./337615-fireplace-simulator.json) |
+| Fires At Midnight | 133350 | [133350-fires-at-midnight.json](./133350-fires-at-midnight.json) |
 | Firescape | 342731 | [342731-firescape.json](./342731-firescape.json) |
 | Firescout | 142874 | [142874-firescout.json](./142874-firescout.json) |
 | Fireside Feelings | 345597 | [345597-fireside-feelings.json](./345597-fireside-feelings.json) |
