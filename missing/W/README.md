@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waiting Game | 114787 | [114787-waiting-game.json](./114787-waiting-game.json) |
 | Waiting on the Finishline | 403791 | [403791-waiting-on-the-finishline.json](./403791-waiting-on-the-finishline.json) |
 | WaiWai Drive | 312353 | [312353-waiwai-drive.json](./312353-waiwai-drive.json) |
+| Wakamarina Valley, New Zealand | 134521 | [134521-wakamarina-valley-new-zealand.json](./134521-wakamarina-valley-new-zealand.json) |
 | Wakana Nikki | 229664 | [229664-wakana-nikki.json](./229664-wakana-nikki.json) |
 | Wakatsuya Mura no Tatari | 370300 | [370300-wakatsuya-mura-no-tatari.json](./370300-wakatsuya-mura-no-tatari.json) |
 | WakaVR | 243626 | [243626-wakavr.json](./243626-wakavr.json) |
@@ -1026,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Surfer Bus | 202766 | [202766-water-surfer-bus.json](./202766-water-surfer-bus.json) |
 | Water Tower | 336384 | [336384-water-tower.json](./336384-water-tower.json) |
 | Water: Transformer | 303048 | [303048-water-transformer.json](./303048-water-transformer.json) |
+| Water's Fine | 134565 | [134565-waters-fine.json](./134565-waters-fine.json) |
 | Waterbed | 178668 | [178668-waterbed.json](./178668-waterbed.json) |
 | Watercolors Sink Beneath the Surface | 404254 | [404254-watercolors-sink-beneath-the-surface.json](./404254-watercolors-sink-beneath-the-surface.json) |
 | Waterfall | 251196 | [251196-waterfall.json](./251196-waterfall.json) |
