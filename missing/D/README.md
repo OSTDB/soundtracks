@@ -6704,6 +6704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving School 2016 | 89273 | [89273-driving-school-2016.json](./89273-driving-school-2016.json) |
 | Driving School 3D | 102104 | [102104-driving-school-3d.json](./102104-driving-school-3d.json) |
 | Driving School Simulator: EVO | 383520 | [383520-driving-school-simulator-evo.json](./383520-driving-school-simulator-evo.json) |
+| Driving Simulator | 159645 | [159645-driving-simulator.json](./159645-driving-simulator.json) |
 | Driving Simulator 2011 | 51254 | [51254-driving-simulator-2011.json](./51254-driving-simulator-2011.json) |
 | Driving Theory Training | 72620 | [72620-driving-theory-training.json](./72620-driving-theory-training.json) |
 | Driving World Collection | 283206 | [283206-driving-world-collection.json](./283206-driving-world-collection.json) |
