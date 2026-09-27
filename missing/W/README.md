@@ -1859,6 +1859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers | 299154 | [299154-whispers.json](./299154-whispers.json) |
 | Whispers from Within: Moving On | 159832 | [159832-whispers-from-within-moving-on.json](./159832-whispers-from-within-moving-on.json) |
 | Whispers in Akarra | 180208 | [180208-whispers-in-akarra.json](./180208-whispers-in-akarra.json) |
+| Whispers in the Dark | 165417 | [165417-whispers-in-the-dark.json](./165417-whispers-in-the-dark.json) |
 | Whispers in the Fog | 347871 | [347871-whispers-in-the-fog.json](./347871-whispers-in-the-fog.json) |
 | Whispers in the Shadows | 295555 | [295555-whispers-in-the-shadows.json](./295555-whispers-in-the-shadows.json) |
 | Whispers in the Void | 287705 | [287705-whispers-in-the-void.json](./287705-whispers-in-the-void.json) |
@@ -3662,6 +3663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wounded: The Beginning | 114560 | [114560-wounded-the-beginning.json](./114560-wounded-the-beginning.json) |
 | Wounds 4 Hard Medication | 181291 | [181291-wounds-4-hard-medication.json](./181291-wounds-4-hard-medication.json) |
 | Wove | 369024 | [369024-wove.json](./369024-wove.json) |
+| Wowowow Korone Box | 165402 | [165402-wowowow-korone-box.json](./165402-wowowow-korone-box.json) |
 | Woyo!! | 301958 | [301958-woyo.json](./301958-woyo.json) |
 | WPCA: World Phasebound Control Authority | 394524 | [394524-wpca-world-phasebound-control-authority.json](./394524-wpca-world-phasebound-control-authority.json) |
 | WpnFire | 345516 | [345516-wpnfire.json](./345516-wpnfire.json) |
