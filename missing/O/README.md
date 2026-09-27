@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Voyager | 209028 | [209028-ocean-voyager.json](./209028-ocean-voyager.json) |
 | Ocean's Crabellum | 74372 | [74372-oceans-crabellum.json](./74372-oceans-crabellum.json) |
 | Oceanarium World | 291549 | [291549-oceanarium-world.json](./291549-oceanarium-world.json) |
+| Oceanhorn: Chronos Dungeon | 142346 | [142346-oceanhorn-chronos-dungeon.json](./142346-oceanhorn-chronos-dungeon.json) |
 | Oceanhorn: Monster of Uncharted Seas | 18975 | [18975-oceanhorn-monster-of-uncharted-seas.json](./18975-oceanhorn-monster-of-uncharted-seas.json) |
 | Oceanic Discoveries Duo | 271830 | [271830-oceanic-discoveries-duo.json](./271830-oceanic-discoveries-duo.json) |
 | Oceanides of the World's End: Legend of the Big-breasted Swimsuit Beauty Guardian | 344556 | [344556-oceanides-of-the-worlds-end-legend-of-the-big-breasted-swimsuit-beauty-guardian.json](./344556-oceanides-of-the-worlds-end-legend-of-the-big-breasted-swimsuit-beauty-guardian.json) |
