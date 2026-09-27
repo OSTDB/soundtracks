@@ -1501,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble | 371873 | [371873-scrabble.json](./371873-scrabble.json) |
 | Scrabble Blast! | 49337 | [49337-scrabble-blast.json](./49337-scrabble-blast.json) |
 | Scrabble Blitz | 209015 | [209015-scrabble-blitz.json](./209015-scrabble-blitz.json) |
+| Scrabble for Game Boy | 131453 | [131453-scrabble-for-game-boy.json](./131453-scrabble-for-game-boy.json) |
 | Scrabble Interactive: 2007 Edition | 51207 | [51207-scrabble-interactive-2007-edition.json](./51207-scrabble-interactive-2007-edition.json) |
 | Scrabble Interactive: 2009 Edition | 51157 | [51157-scrabble-interactive-2009-edition.json](./51157-scrabble-interactive-2009-edition.json) |
 | Scrabble Plus | 209005 | [209005-scrabble-plus.json](./209005-scrabble-plus.json) |
@@ -6951,6 +6952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solipsism Reigns | 183434 | [183434-solipsism-reigns.json](./183434-solipsism-reigns.json) |
 | Solipsistic | 409582 | [409582-solipsistic.json](./409582-solipsistic.json) |
 | Solir | 332529 | [332529-solir.json](./332529-solir.json) |
+| Solitaire | 131465 | [131465-solitaire.json](./131465-solitaire.json) |
 | Solitaire | 234167 | [234167-solitaire.json](./234167-solitaire.json) |
 | Solitaire | 243634 | [243634-solitaire.json](./243634-solitaire.json) |
 | Solitaire | 243701 | [243701-solitaire.json](./243701-solitaire.json) |
@@ -9825,6 +9827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squarena | 191829 | [191829-squarena.json](./191829-squarena.json) |
 | Squarepinski | 372994 | [372994-squarepinski.json](./372994-squarepinski.json) |
 | Squares | 101610 | [101610-squares.json](./101610-squares.json) |
+| Squares | 131454 | [131454-squares.json](./131454-squares.json) |
 | Squares | 59961 | [59961-squares.json](./59961-squares.json) |
 | Squares of Hell | 304612 | [304612-squares-of-hell.json](./304612-squares-of-hell.json) |
 | Squares Proximity | 366332 | [366332-squares-proximity.json](./366332-squares-proximity.json) |
@@ -10280,6 +10283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Traders: 4X Empires | 36124 | [36124-star-traders-4x-empires.json](./36124-star-traders-4x-empires.json) |
 | Star Trapper FX | 196037 | [196037-star-trapper-fx.json](./196037-star-trapper-fx.json) |
 | Star Trek | 11485 | [11485-star-trek.json](./11485-star-trek.json) |
+| Star Trek | 131474 | [131474-star-trek.json](./131474-star-trek.json) |
 | Star Trek | 247203 | [247203-star-trek.json](./247203-star-trek.json) |
 | Star Trek | 326626 | [326626-star-trek.json](./326626-star-trek.json) |
 | Star Trek Alien Domain: Incursion | 123597 | [123597-star-trek-alien-domain-incursion.json](./123597-star-trek-alien-domain-incursion.json) |
@@ -12342,6 +12346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudocity | 216866 | [216866-sudocity.json](./216866-sudocity.json) |
 | SudoKats | 164995 | [164995-sudokats.json](./164995-sudokats.json) |
 | Sudokku Elite Collection | 58256 | [58256-sudokku-elite-collection.json](./58256-sudokku-elite-collection.json) |
+| Sudoku | 131490 | [131490-sudoku.json](./131490-sudoku.json) |
 | Sudoku | 131505 | [131505-sudoku.json](./131505-sudoku.json) |
 | Sudoku | 246366 | [246366-sudoku.json](./246366-sudoku.json) |
 | Sudoku | 337482 | [337482-sudoku.json](./337482-sudoku.json) |
@@ -12373,6 +12378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Dreams: Hints Pack | 379020 | [379020-sudoku-dreams-hints-pack.json](./379020-sudoku-dreams-hints-pack.json) |
 | Sudoku for Kids | 268481 | [268481-sudoku-for-kids.json](./268481-sudoku-for-kids.json) |
 | Sudoku for Kids | 67237 | [67237-sudoku-for-kids.json](./67237-sudoku-for-kids.json) |
+| Sudoku for PSP Mini | 131459 | [131459-sudoku-for-psp-mini.json](./131459-sudoku-for-psp-mini.json) |
 | Sudoku G1 | 266910 | [266910-sudoku-g1.json](./266910-sudoku-g1.json) |
 | Sudoku Gridmaster | 20538 | [20538-sudoku-gridmaster.json](./20538-sudoku-gridmaster.json) |
 | Sudoku HD | 97911 | [97911-sudoku-hd.json](./97911-sudoku-hd.json) |
