@@ -1369,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PaulPaul - Act 1 | 105142 | [105142-paulpaul-act-1.json](./105142-paulpaul-act-1.json) |
 | Paunch 2 | 190953 | [190953-paunch-2.json](./190953-paunch-2.json) |
 | Pavement Pummel | 302432 | [302432-pavement-pummel.json](./302432-pavement-pummel.json) |
+| Pavlov's House | 153322 | [153322-pavlovs-house.json](./153322-pavlovs-house.json) |
 | Pavor | 116378 | [116378-pavor.json](./116378-pavor.json) |
 | Pavor | 215690 | [215690-pavor.json](./215690-pavor.json) |
 | Pavu | 313816 | [313816-pavu.json](./313816-pavu.json) |
@@ -1690,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pellet Packer: Micro Munch | 270956 | [270956-pellet-packer-micro-munch.json](./270956-pellet-packer-micro-munch.json) |
 | Pembrey | 63729 | [63729-pembrey.json](./63729-pembrey.json) |
 | Pemkie Island | 400478 | [400478-pemkie-island.json](./400478-pemkie-island.json) |
+| Pemsa | 153320 | [153320-pemsa.json](./153320-pemsa.json) |
 | Pen and Paper Games Bundle | 147799 | [147799-pen-and-paper-games-bundle.json](./147799-pen-and-paper-games-bundle.json) |
 | Pen Fight | 233760 | [233760-pen-fight.json](./233760-pen-fight.json) |
 | Pen Guns | 210098 | [210098-pen-guns.json](./210098-pen-guns.json) |
@@ -2075,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet World | 411146 | [411146-pet-world.json](./411146-pet-world.json) |
 | Pet'n'Run | 325833 | [325833-petnrun.json](./325833-petnrun.json) |
 | Petadachi | 225876 | [225876-petadachi.json](./225876-petadachi.json) |
+| Petals of the Star Curtain | 153331 | [153331-petals-of-the-star-curtain.json](./153331-petals-of-the-star-curtain.json) |
 | Pétanque 2026 | 401828 | [401828-petanque-2026.json](./401828-petanque-2026.json) |
 | Pétanque Master | 93518 | [93518-petanque-master.json](./93518-petanque-master.json) |
 | Pétanque Master 2 | 81755 | [81755-petanque-master-2.json](./81755-petanque-master-2.json) |
