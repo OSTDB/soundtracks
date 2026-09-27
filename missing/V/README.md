@@ -590,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ven Games | 145472 | [145472-ven-games.json](./145472-ven-games.json) |
 | Ven'rif | 342900 | [342900-venrif.json](./342900-venrif.json) |
 | Venandi In Silva | 124217 | [124217-venandi-in-silva.json](./124217-venandi-in-silva.json) |
+| Venari | 128434 | [128434-venari.json](./128434-venari.json) |
 | Venatio | 188073 | [188073-venatio.json](./188073-venatio.json) |
 | Venatrix | 267369 | [267369-venatrix.json](./267369-venatrix.json) |
 | Vendetta Forever | 313771 | [313771-vendetta-forever.json](./313771-vendetta-forever.json) |
