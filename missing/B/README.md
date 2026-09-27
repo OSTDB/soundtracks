@@ -761,6 +761,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bananarun | 157698 | [157698-bananarun.json](./157698-bananarun.json) |
 | Bananas de Pijamas | 42200 | [42200-bananas-de-pijamas.json](./42200-bananas-de-pijamas.json) |
 | Bananas in Pajamas: It's Fun Time | 221980 | [221980-bananas-in-pajamas-its-fun-time.json](./221980-bananas-in-pajamas-its-fun-time.json) |
+| Bananas in Pyjamas: It's Fun Time | 159091 | [159091-bananas-in-pyjamas-its-fun-time.json](./159091-bananas-in-pyjamas-its-fun-time.json) |
+| Bananas in Pyjamas: It's Party Time | 159092 | [159092-bananas-in-pyjamas-its-party-time.json](./159092-bananas-in-pyjamas-its-party-time.json) |
 | BananaTron | 74066 | [74066-bananatron.json](./74066-bananatron.json) |
 | Bananounce | 320974 | [320974-bananounce.json](./320974-bananounce.json) |
 | Banban Isle Rangers | 405584 | [405584-banban-isle-rangers.json](./405584-banban-isle-rangers.json) |
@@ -2731,6 +2733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betrayer: Curse of the Spine | 168381 | [168381-betrayer-curse-of-the-spine.json](./168381-betrayer-curse-of-the-spine.json) |
 | Betroyal | 245839 | [245839-betroyal.json](./245839-betroyal.json) |
 | Bets on Pets | 278170 | [278170-bets-on-pets.json](./278170-bets-on-pets.json) |
+| Betsy's Hospital | 159067 | [159067-betsys-hospital.json](./159067-betsys-hospital.json) |
 | Better Call Saul | 221831 | [221831-better-call-saul.json](./221831-better-call-saul.json) |
 | Better Days | 341862 | [341862-better-days.json](./341862-better-days.json) |
 | Better Half | 176801 | [176801-better-half.json](./176801-better-half.json) |
