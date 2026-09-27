@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaia: A Protetora da Natureza | 261227 | [261227-gaia-a-protetora-da-natureza.json](./261227-gaia-a-protetora-da-natureza.json) |
 | Gaia: Adapt and Evolve | 74756 | [74756-gaia-adapt-and-evolve.json](./74756-gaia-adapt-and-evolve.json) |
 | Gaia's Blessing | 278735 | [278735-gaias-blessing.json](./278735-gaias-blessing.json) |
+| Gaia's Decision | 127853 | [127853-gaias-decision.json](./127853-gaias-decision.json) |
 | Gaia's Melody: Echoed Melodies | 74231 | [74231-gaias-melody-echoed-melodies.json](./74231-gaias-melody-echoed-melodies.json) |
 | Gaiabreaker | 61316 | [61316-gaiabreaker.json](./61316-gaiabreaker.json) |
 | Gaiadon: Eternal Quest | 318761 | [318761-gaiadon-eternal-quest.json](./318761-gaiadon-eternal-quest.json) |
