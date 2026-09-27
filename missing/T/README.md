@@ -3471,6 +3471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day the World Changed | 97713 | [97713-the-day-the-world-changed.json](./97713-the-day-the-world-changed.json) |
 | The Day We Met was a Regular Day in the Infinitely Looping Highschool, is That Normal? | 192953 | [192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json](./192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json) |
 | The Dead City | 376715 | [376715-the-dead-city.json](./376715-the-dead-city.json) |
+| The Dead in my Living Room | 142378 | [142378-the-dead-in-my-living-room.json](./142378-the-dead-in-my-living-room.json) |
 | The Dead Linger | 9055 | [9055-the-dead-linger.json](./9055-the-dead-linger.json) |
 | The Dead Mountaineer's Hotel | 54438 | [54438-the-dead-mountaineers-hotel.json](./54438-the-dead-mountaineers-hotel.json) |
 | The Dead Prince | 196167 | [196167-the-dead-prince.json](./196167-the-dead-prince.json) |
@@ -5413,6 +5414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The LEGO Movie Videogame | 4845 | [4845-the-lego-movie-videogame.json](./4845-the-lego-movie-videogame.json) |
 | The Lemonade | 258517 | [258517-the-lemonade.json](./258517-the-lemonade.json) |
 | The Lesser Evil | 176507 | [176507-the-lesser-evil.json](./176507-the-lesser-evil.json) |
+| The Lesser Known Cities of Europe | 142359 | [142359-the-lesser-known-cities-of-europe.json](./142359-the-lesser-known-cities-of-europe.json) |
 | The Letter That Came Over Time | 386396 | [386396-the-letter-that-came-over-time.json](./386396-the-letter-that-came-over-time.json) |
 | The Leviathan's Fantasy: DLC | 289327 | [289327-the-leviathans-fantasy-dlc.json](./289327-the-leviathans-fantasy-dlc.json) |
 | The Leviathan's Fantasy: Mechanical Crisis | 329013 | [329013-the-leviathans-fantasy-mechanical-crisis.json](./329013-the-leviathans-fantasy-mechanical-crisis.json) |
@@ -8441,6 +8443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Think Shift | 250386 | [250386-think-shift.json](./250386-think-shift.json) |
 | Think Tap Turn | 100815 | [100815-think-tap-turn.json](./100815-think-tap-turn.json) |
 | THiNK-X | 94539 | [94539-think-x.json](./94539-think-x.json) |
+| Think! | 142363 | [142363-think.json](./142363-think.json) |
 | Think! Think! Monsters | 233512 | [233512-think-think-monsters.json](./233512-think-think-monsters.json) |
 | Thinkin' Science: Zap! | 243422 | [243422-thinkin-science-zap.json](./243422-thinkin-science-zap.json) |
 | Thinkin' Things Collection 2 | 70086 | [70086-thinkin-things-collection-2.json](./70086-thinkin-things-collection-2.json) |
@@ -10023,6 +10026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Fishing | 165065 | [165065-tiny-fishing.json](./165065-tiny-fishing.json) |
 | Tiny Football | 191182 | [191182-tiny-football.json](./191182-tiny-football.json) |
 | Tiny Fortress | 409645 | [409645-tiny-fortress.json](./409645-tiny-fortress.json) |
+| Tiny Fragments | 142360 | [142360-tiny-fragments.json](./142360-tiny-fragments.json) |
 | Tiny Garden | 300390 | [300390-tiny-garden.json](./300390-tiny-garden.json) |
 | Tiny Gems Bundle | 292617 | [292617-tiny-gems-bundle.json](./292617-tiny-gems-bundle.json) |
 | Tiny Goalie | 233081 | [233081-tiny-goalie.json](./233081-tiny-goalie.json) |
@@ -10047,6 +10051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Lands: Expansion Pack 1 | 231288 | [231288-tiny-lands-expansion-pack-1.json](./231288-tiny-lands-expansion-pack-1.json) |
 | Tiny Lands: Expansion Pack 3 | 289943 | [289943-tiny-lands-expansion-pack-3.json](./289943-tiny-lands-expansion-pack-3.json) |
 | Tiny Legends | 373725 | [373725-tiny-legends.json](./373725-tiny-legends.json) |
+| Tiny Life | 142348 | [142348-tiny-life.json](./142348-tiny-life.json) |
 | Tiny Little Farm | 304332 | [304332-tiny-little-farm.json](./304332-tiny-little-farm.json) |
 | TIny Little Farm Plus Milk Seller | 328473 | [328473-tiny-little-farm-plus-milk-seller.json](./328473-tiny-little-farm-plus-milk-seller.json) |
 | Tiny Mage in Puzzle Land | 402928 | [402928-tiny-mage-in-puzzle-land.json](./402928-tiny-mage-in-puzzle-land.json) |
@@ -13103,6 +13108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trimorta | 184086 | [184086-trimorta.json](./184086-trimorta.json) |
 | Trimurti Online | 265688 | [265688-trimurti-online.json](./265688-trimurti-online.json) |
 | Trine 4: The Nightmare Prince | 110846 | [110846-trine-4-the-nightmare-prince.json](./110846-trine-4-the-nightmare-prince.json) |
+| Trine Bundle | 142369 | [142369-trine-bundle.json](./142369-trine-bundle.json) |
 | Tringo | 49344 | [49344-tringo.json](./49344-tringo.json) |
 | Trinity | 2952 | [2952-trinity.json](./2952-trinity.json) |
 | Trinity Archetype | 169756 | [169756-trinity-archetype.json](./169756-trinity-archetype.json) |
