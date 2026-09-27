@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La-Mulana 2: The Tower of Oannes | 188630 | [188630-la-mulana-2-the-tower-of-oannes.json](./188630-la-mulana-2-the-tower-of-oannes.json) |
 | Lab | 199511 | [199511-lab.json](./199511-lab.json) |
 | Lab 77 | 319988 | [319988-lab-77.json](./319988-lab-77.json) |
+| Lab BreakOut | 158533 | [158533-lab-breakout.json](./158533-lab-breakout.json) |
 | Lab Crisis | 205580 | [205580-lab-crisis.json](./205580-lab-crisis.json) |
 | Lab Escape! | 299450 | [299450-lab-escape.json](./299450-lab-escape.json) |
 | Lab Inspect | 226141 | [226141-lab-inspect.json](./226141-lab-inspect.json) |
@@ -1038,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend Of Apophyxis | 287755 | [287755-legend-of-apophyxis.json](./287755-legend-of-apophyxis.json) |
 | Legend of Asha | 390266 | [390266-legend-of-asha.json](./390266-legend-of-asha.json) |
 | Legend of Assassin: Siberia | 107830 | [107830-legend-of-assassin-siberia.json](./107830-legend-of-assassin-siberia.json) |
+| Legend of Azcarth | 158505 | [158505-legend-of-azcarth.json](./158505-legend-of-azcarth.json) |
 | Legend of Bricks | 175176 | [175176-legend-of-bricks.json](./175176-legend-of-bricks.json) |
 | Legend of Camelot | 66939 | [66939-legend-of-camelot.json](./66939-legend-of-camelot.json) |
 | Legend of Chilli Tree | 161160 | [161160-legend-of-chilli-tree.json](./161160-legend-of-chilli-tree.json) |
