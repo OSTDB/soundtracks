@@ -2020,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alawar Adventure Collection | 52591 | [52591-alawar-adventure-collection.json](./52591-alawar-adventure-collection.json) |
 | Alba: A Wildlife Adventure | 135919 | [135919-alba-a-wildlife-adventure.json](./135919-alba-a-wildlife-adventure.json) |
 | Albatross | 280200 | [280200-albatross.json](./280200-albatross.json) |
+| Albatross Koukairoku | 156033 | [156033-albatross-koukairoku.json](./156033-albatross-koukairoku.json) |
 | Albatroz | 255084 | [255084-albatroz.json](./255084-albatroz.json) |
 | Albert | 185094 | [185094-albert.json](./185094-albert.json) |
 | Albert and Camille's Little Lille Adventure | 192708 | [192708-albert-and-camilles-little-lille-adventure.json](./192708-albert-and-camilles-little-lille-adventure.json) |
@@ -5483,6 +5484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur’s Tale | 405578 | [405578-arthur-s-tale.json](./405578-arthur-s-tale.json) |
 | Arthur's Thinking Games | 186061 | [186061-arthurs-thinking-games.json](./186061-arthurs-thinking-games.json) |
 | Artifact Adventure Gaiden DX | 119527 | [119527-artifact-adventure-gaiden-dx.json](./119527-artifact-adventure-gaiden-dx.json) |
+| Artifact Hunter | 156036 | [156036-artifact-hunter.json](./156036-artifact-hunter.json) |
 | Artifact Run | 384534 | [384534-artifact-run.json](./384534-artifact-run.json) |
 | Artifact Seekers | 366306 | [366306-artifact-seekers.json](./366306-artifact-seekers.json) |
 | Artifacto | 180103 | [180103-artifacto.json](./180103-artifacto.json) |
