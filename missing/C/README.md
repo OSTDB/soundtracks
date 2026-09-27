@@ -1410,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Aria of Sorrow - Magician Mode | 268721 | [268721-castlevania-aria-of-sorrow-magician-mode.json](./268721-castlevania-aria-of-sorrow-magician-mode.json) |
 | Castlevania: Aria of Sorrow - Persephone | 268722 | [268722-castlevania-aria-of-sorrow-persephone.json](./268722-castlevania-aria-of-sorrow-persephone.json) |
 | Castlevania: Aria of Sorrow - Reprise | 231091 | [231091-castlevania-aria-of-sorrow-reprise.json](./231091-castlevania-aria-of-sorrow-reprise.json) |
+| Castlevania: Aria of Sorrow Alter | 173088 | [173088-castlevania-aria-of-sorrow-alter.json](./173088-castlevania-aria-of-sorrow-alter.json) |
 | Castlevania: Belmont's Curse | 389434 | [389434-castlevania-belmonts-curse.json](./389434-castlevania-belmonts-curse.json) |
 | Castlevania: Belmont's Curse - Bonus Contents Pack | 411827 | [411827-castlevania-belmonts-curse-bonus-contents-pack.json](./411827-castlevania-belmonts-curse-bonus-contents-pack.json) |
 | Castlevania: Belmont's Curse - Midnight Edition | 411834 | [411834-castlevania-belmonts-curse-midnight-edition.json](./411834-castlevania-belmonts-curse-midnight-edition.json) |
@@ -1693,6 +1694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catcha | 327398 | [327398-catcha.json](./327398-catcha.json) |
 | Catcha Catcha Aliens! | 61630 | [61630-catcha-catcha-aliens.json](./61630-catcha-catcha-aliens.json) |
 | Catching | 117654 | [117654-catching.json](./117654-catching.json) |
+| Catching a Ride | 173057 | [173057-catching-a-ride.json](./173057-catching-a-ride.json) |
 | Catching Features | 21465 | [21465-catching-features.json](./21465-catching-features.json) |
 | Catching Spirits | 236769 | [236769-catching-spirits.json](./236769-catching-spirits.json) |
 | CatchKing | 215227 | [215227-catchking.json](./215227-catchking.json) |
@@ -3329,6 +3331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Lussaria | 284899 | [284899-chronicles-of-lussaria.json](./284899-chronicles-of-lussaria.json) |
 | Chronicles of Middle Ages | 342761 | [342761-chronicles-of-middle-ages.json](./342761-chronicles-of-middle-ages.json) |
 | Chronicles of Refugia | 213401 | [213401-chronicles-of-refugia.json](./213401-chronicles-of-refugia.json) |
+| Chronicles of Sarval: Bridges of Koni | 173052 | [173052-chronicles-of-sarval-bridges-of-koni.json](./173052-chronicles-of-sarval-bridges-of-koni.json) |
 | Chronicles of the Celestial Way | 347221 | [347221-chronicles-of-the-celestial-way.json](./347221-chronicles-of-the-celestial-way.json) |
 | Chronicles of the Great Wilderness | 339109 | [339109-chronicles-of-the-great-wilderness.json](./339109-chronicles-of-the-great-wilderness.json) |
 | Chronicles of the Mattock | 181676 | [181676-chronicles-of-the-mattock.json](./181676-chronicles-of-the-mattock.json) |
@@ -4398,6 +4401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Bunny | 183988 | [183988-code-bunny.json](./183988-code-bunny.json) |
 | Code Carbon | 24857 | [24857-code-carbon.json](./24857-code-carbon.json) |
 | Code Correction | 155466 | [155466-code-correction.json](./155466-code-correction.json) |
+| Code Dread | 173071 | [173071-code-dread.json](./173071-code-dread.json) |
 | Code Dungeon | 185592 | [185592-code-dungeon.json](./185592-code-dungeon.json) |
 | Code Eagle! | 246438 | [246438-code-eagle.json](./246438-code-eagle.json) |
 | Code Exit | 292540 | [292540-code-exit.json](./292540-code-exit.json) |
@@ -4604,6 +4608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collage | 177037 | [177037-collage.json](./177037-collage.json) |
 | Collapse | 310937 | [310937-collapse.json](./310937-collapse.json) |
 | Collapse Machine | 310765 | [310765-collapse-machine.json](./310765-collapse-machine.json) |
+| Collapse of Magic | 173063 | [173063-collapse-of-magic.json](./173063-collapse-of-magic.json) |
 | Collapse of the Midnight Sun | 351635 | [351635-collapse-of-the-midnight-sun.json](./351635-collapse-of-the-midnight-sun.json) |
 | Collapse Relapse | 203969 | [203969-collapse-relapse.json](./203969-collapse-relapse.json) |
 | Collapse Zone | 382309 | [382309-collapse-zone.json](./382309-collapse-zone.json) |
