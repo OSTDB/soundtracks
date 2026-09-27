@@ -638,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloball: Ribbit & Rescue | 388214 | [388214-balloball-ribbit-and-rescue.json](./388214-balloball-ribbit-and-rescue.json) |
 | Ballochet 3 | 79272 | [79272-ballochet-3.json](./79272-ballochet-3.json) |
 | Balloon | 379997 | [379997-balloon.json](./379997-balloon.json) |
+| Balloon Azuna | 167589 | [167589-balloon-azuna.json](./167589-balloon-azuna.json) |
 | Balloon Bounce | 366401 | [366401-balloon-bounce.json](./366401-balloon-bounce.json) |
 | Balloon Bros | 381095 | [381095-balloon-bros.json](./381095-balloon-bros.json) |
 | Balloon Challenge | 57632 | [57632-balloon-challenge.json](./57632-balloon-challenge.json) |
@@ -872,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banzai Hentai! | 368516 | [368516-banzai-hentai.json](./368516-banzai-hentai.json) |
 | Banzai Mario World | 132855 | [132855-banzai-mario-world.json](./132855-banzai-mario-world.json) |
 | Banzai Pecan: The Last Hope For the Young Century | 35947 | [35947-banzai-pecan-the-last-hope-for-the-young-century.json](./35947-banzai-pecan-the-last-hope-for-the-young-century.json) |
+| Bao | 167577 | [167577-bao.json](./167577-bao.json) |
 | Baoxiao Chuji | 306642 | [306642-baoxiao-chuji.json](./306642-baoxiao-chuji.json) |
 | Baoxiao Duobiqiu | 97353 | [97353-baoxiao-duobiqiu.json](./97353-baoxiao-duobiqiu.json) |
 | Bapbap | 186656 | [186656-bapbap.json](./186656-bapbap.json) |
@@ -1884,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleTime | 31886 | [31886-battletime.json](./31886-battletime.json) |
 | Battletoads | 262942 | [262942-battletoads.json](./262942-battletoads.json) |
 | Battletoads | 365173 | [365173-battletoads.json](./365173-battletoads.json) |
+| Battletronics | 167594 | [167594-battletronics.json](./167594-battletronics.json) |
 | BattleTubers | 280794 | [280794-battletubers.json](./280794-battletubers.json) |
 | Battlevoid: Sector Siege | 72488 | [72488-battlevoid-sector-siege.json](./72488-battlevoid-sector-siege.json) |
 | Battlewagon | 65486 | [65486-battlewagon.json](./65486-battlewagon.json) |
