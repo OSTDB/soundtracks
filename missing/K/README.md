@@ -451,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kartofank VR | 72358 | [72358-kartofank-vr.json](./72358-kartofank-vr.json) |
 | KartRider: Drift | 125626 | [125626-kartrider-drift.json](./125626-kartrider-drift.json) |
 | Karts With Chat | 345505 | [345505-karts-with-chat.json](./345505-karts-with-chat.json) |
+| Karumaruka Circle: Limited Edition | 167036 | [167036-karumaruka-circle-limited-edition.json](./167036-karumaruka-circle-limited-edition.json) |
 | Karyuu Jyou | 62982 | [62982-karyuu-jyou.json](./62982-karyuu-jyou.json) |
 | Kasaba | 217369 | [217369-kasaba.json](./217369-kasaba.json) |
 | Kasane Teto and Hatsune Miku are Lesbians | 333537 | [333537-kasane-teto-and-hatsune-miku-are-lesbians.json](./333537-kasane-teto-and-hatsune-miku-are-lesbians.json) |
@@ -1160,8 +1161,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinda Heroes | 172107 | [172107-kinda-heroes.json](./172107-kinda-heroes.json) |
 | Kindai Mahjong Special | 37960 | [37960-kindai-mahjong-special.json](./37960-kindai-mahjong-special.json) |
 | Kindaichi Mystery Series: The Honjin Murders | 334298 | [334298-kindaichi-mystery-series-the-honjin-murders.json](./334298-kindaichi-mystery-series-the-honjin-murders.json) |
+| Kindaichi Shounen no Jikenbo 3: Shouryuu Densetsu Satsujin Jiken | 167062 | [167062-kindaichi-shounen-no-jikenbo-3-shouryuu-densetsu-satsujin-jiken.json](./167062-kindaichi-shounen-no-jikenbo-3-shouryuu-densetsu-satsujin-jiken.json) |
 | Kindaichi Shounen no Jikenbo: 10-nenme no Shoutaijou | 228581 | [228581-kindaichi-shounen-no-jikenbo-10-nenme-no-shoutaijou.json](./228581-kindaichi-shounen-no-jikenbo-10-nenme-no-shoutaijou.json) |
 | Kindaichi Shounen no Jikenbo: Akuma no Satsujin Koukai | 122979 | [122979-kindaichi-shounen-no-jikenbo-akuma-no-satsujin-koukai.json](./122979-kindaichi-shounen-no-jikenbo-akuma-no-satsujin-koukai.json) |
+| Kindaichi Shounen no Jikenbo: Hihou-shima Aratanaru Sangeki | 167060 | [167060-kindaichi-shounen-no-jikenbo-hihou-shima-aratanaru-sangeki.json](./167060-kindaichi-shounen-no-jikenbo-hihou-shima-aratanaru-sangeki.json) |
+| Kindaichi Shounen no Jikenbo: Jigoku Yuuen Satsujin Jiken | 167061 | [167061-kindaichi-shounen-no-jikenbo-jigoku-yuuen-satsujin-jiken.json](./167061-kindaichi-shounen-no-jikenbo-jigoku-yuuen-satsujin-jiken.json) |
 | Kindan no Jikobukken | 260690 | [260690-kindan-no-jikobukken.json](./260690-kindan-no-jikobukken.json) |
 | Kindawn: The Parish Remembers | 412555 | [412555-kindawn-the-parish-remembers.json](./412555-kindawn-the-parish-remembers.json) |
 | Kindergarten | 215760 | [215760-kindergarten.json](./215760-kindergarten.json) |
@@ -1325,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Come: Deliverance - A Woman's Lot | 119899 | [119899-kingdom-come-deliverance-a-womans-lot.json](./119899-kingdom-come-deliverance-a-womans-lot.json) |
 | Kingdom Come: Deliverance - From the Ashes | 104985 | [104985-kingdom-come-deliverance-from-the-ashes.json](./104985-kingdom-come-deliverance-from-the-ashes.json) |
 | Kingdom Come: Deliverance - Limited Edition | 166176 | [166176-kingdom-come-deliverance-limited-edition.json](./166176-kingdom-come-deliverance-limited-edition.json) |
+| Kingdom Come: Deliverance - Royal Collector’s Edition | 167066 | [167066-kingdom-come-deliverance-royal-collector-s-edition.json](./167066-kingdom-come-deliverance-royal-collector-s-edition.json) |
 | Kingdom Come: Deliverance - Royal DLC Package | 155078 | [155078-kingdom-come-deliverance-royal-dlc-package.json](./155078-kingdom-come-deliverance-royal-dlc-package.json) |
 | Kingdom Come: Deliverance II - Brushes with Death | 343669 | [343669-kingdom-come-deliverance-ii-brushes-with-death.json](./343669-kingdom-come-deliverance-ii-brushes-with-death.json) |
 | Kingdom Come: Deliverance II - Collectors' Edition | 326774 | [326774-kingdom-come-deliverance-ii-collectors-edition.json](./326774-kingdom-come-deliverance-ii-collectors-edition.json) |
