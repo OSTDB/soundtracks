@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T04:03:27.115Z",
-  "total_missing": 128826,
+  "generated_at": "2026-09-27T04:18:17.781Z",
+  "total_missing": 128876,
   "games": [
     {
       "igdb_id": 186066,
@@ -18448,6 +18448,11 @@
       "file": "missing/A/392139-all-in-vain.json"
     },
     {
+      "igdb_id": 164807,
+      "game_name": "All in! Bundle",
+      "file": "missing/A/164807-all-in-bundle.json"
+    },
+    {
       "igdb_id": 142266,
       "game_name": "All is Fair in Dust and Air",
       "file": "missing/A/142266-all-is-fair-in-dust-and-air.json"
@@ -33473,6 +33478,11 @@
       "file": "missing/A/191238-artists-of-fortune-paint-by-numbers-spooky-rush-ep-6.json"
     },
     {
+      "igdb_id": 164792,
+      "game_name": "Artists of the World Bundle",
+      "file": "missing/A/164792-artists-of-the-world-bundle.json"
+    },
+    {
       "igdb_id": 36032,
       "game_name": "Artizens",
       "file": "missing/A/36032-artizens.json"
@@ -34643,6 +34653,11 @@
       "file": "missing/A/219000-assassins-creed-american-history-pack.json"
     },
     {
+      "igdb_id": 164782,
+      "game_name": "Assassin's Creed Antiquity Pack",
+      "file": "missing/A/164782-assassins-creed-antiquity-pack.json"
+    },
+    {
       "igdb_id": 8216,
       "game_name": "Assassin's Creed Brotherhood: The Da Vinci Disappearance",
       "file": "missing/A/8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json"
@@ -34711,6 +34726,11 @@
       "igdb_id": 216319,
       "game_name": "Assassin's Creed Jade",
       "file": "missing/A/216319-assassins-creed-jade.json"
+    },
+    {
+      "igdb_id": 164778,
+      "game_name": "Assassin's Creed Legendary Collection",
+      "file": "missing/A/164778-assassins-creed-legendary-collection.json"
     },
     {
       "igdb_id": 271474,
@@ -73588,6 +73608,11 @@
       "file": "missing/B/14759-brut-l.json"
     },
     {
+      "igdb_id": 164786,
+      "game_name": "Brutal 2urvive Bundle",
+      "file": "missing/B/164786-brutal-2urvive-bundle.json"
+    },
+    {
       "igdb_id": 86935,
       "game_name": "Brutal Age: Horde Invasion",
       "file": "missing/B/86935-brutal-age-horde-invasion.json"
@@ -77661,6 +77686,11 @@
       "igdb_id": 75148,
       "game_name": "Butter & Friends Babysitter Sim",
       "file": "missing/B/75148-butter-and-friends-babysitter-sim.json"
+    },
+    {
+      "igdb_id": 164787,
+      "game_name": "Butterflies Bundle",
+      "file": "missing/B/164787-butterflies-bundle.json"
     },
     {
       "igdb_id": 134666,
@@ -104493,14 +104523,49 @@
       "file": "missing/C/9006-conan.json"
     },
     {
+      "igdb_id": 164781,
+      "game_name": "Conan Exiles: Blood and Sand Pack",
+      "file": "missing/C/164781-conan-exiles-blood-and-sand-pack.json"
+    },
+    {
+      "igdb_id": 164823,
+      "game_name": "Conan Exiles: Debaucheries of Derketo Pack",
+      "file": "missing/C/164823-conan-exiles-debaucheries-of-derketo-pack.json"
+    },
+    {
       "igdb_id": 167762,
       "game_name": "Conan Exiles: Isle of Siptah",
       "file": "missing/C/167762-conan-exiles-isle-of-siptah.json"
     },
     {
+      "igdb_id": 164809,
+      "game_name": "Conan Exiles: Isle of Siptah Edition",
+      "file": "missing/C/164809-conan-exiles-isle-of-siptah-edition.json"
+    },
+    {
       "igdb_id": 127253,
       "game_name": "Conan Exiles: Riders of Hyboria",
       "file": "missing/C/127253-conan-exiles-riders-of-hyboria.json"
+    },
+    {
+      "igdb_id": 164794,
+      "game_name": "Conan Exiles: Riders of Hyboria Pack",
+      "file": "missing/C/164794-conan-exiles-riders-of-hyboria-pack.json"
+    },
+    {
+      "igdb_id": 164771,
+      "game_name": "Conan Exiles: Savage Edition",
+      "file": "missing/C/164771-conan-exiles-savage-edition.json"
+    },
+    {
+      "igdb_id": 164775,
+      "game_name": "Conan Exiles: Seekers of the Dawn Pack",
+      "file": "missing/C/164775-conan-exiles-seekers-of-the-dawn-pack.json"
+    },
+    {
+      "igdb_id": 164779,
+      "game_name": "Conan Exiles: Treasures of Turan Pack",
+      "file": "missing/C/164779-conan-exiles-treasures-of-turan-pack.json"
     },
     {
       "igdb_id": 32411,
@@ -113826,6 +113891,11 @@
       "igdb_id": 35282,
       "game_name": "CrossCode",
       "file": "missing/C/35282-crosscode.json"
+    },
+    {
+      "igdb_id": 164797,
+      "game_name": "CrossCode: Deluxe Edition",
+      "file": "missing/C/164797-crosscode-deluxe-edition.json"
     },
     {
       "igdb_id": 399085,
@@ -126133,6 +126203,11 @@
       "file": "missing/D/2117-dayz.json"
     },
     {
+      "igdb_id": 164803,
+      "game_name": "DayZ: Livonia Edition",
+      "file": "missing/D/164803-dayz-livonia-edition.json"
+    },
+    {
       "igdb_id": 64351,
       "game_name": "Dazzeloids",
       "file": "missing/D/64351-dazzeloids.json"
@@ -126726,6 +126801,11 @@
       "igdb_id": 358410,
       "game_name": "Dead by Daylight: Stranger Things - Jonathan Byers",
       "file": "missing/D/358410-dead-by-daylight-stranger-things-jonathan-byers.json"
+    },
+    {
+      "igdb_id": 164813,
+      "game_name": "Dead by Daylight: Stranger Things Edition",
+      "file": "missing/D/164813-dead-by-daylight-stranger-things-edition.json"
     },
     {
       "igdb_id": 76221,
@@ -135543,6 +135623,11 @@
       "file": "missing/D/46024-deus-ex-mankind-divided-day-one-edition.json"
     },
     {
+      "igdb_id": 164802,
+      "game_name": "Deus Ex: Mankind Divided - Digital Deluxe Edition",
+      "file": "missing/D/164802-deus-ex-mankind-divided-digital-deluxe-edition.json"
+    },
+    {
       "igdb_id": 374696,
       "game_name": "Deus Ex: Mankind Divided - Tactical Pack",
       "file": "missing/D/374696-deus-ex-mankind-divided-tactical-pack.json"
@@ -139406,6 +139491,11 @@
       "igdb_id": 292027,
       "game_name": "Dirt 5: Wild Spirits Content Pack",
       "file": "missing/D/292027-dirt-5-wild-spirits-content-pack.json"
+    },
+    {
+      "igdb_id": 164796,
+      "game_name": "Dirt 5: Year One Edition",
+      "file": "missing/D/164796-dirt-5-year-one-edition.json"
     },
     {
       "igdb_id": 278691,
@@ -149448,6 +149538,11 @@
       "file": "missing/D/168742-dragon-ball-xenoverse-2-ultra-pack-1.json"
     },
     {
+      "igdb_id": 164822,
+      "game_name": "Dragon Ball: Xenoverse 2 - Ultra Pack Set",
+      "file": "missing/D/164822-dragon-ball-xenoverse-2-ultra-pack-set.json"
+    },
+    {
       "igdb_id": 271831,
       "game_name": "Dragon Ball: Xenoverse 2: Special Edition",
       "file": "missing/D/271831-dragon-ball-xenoverse-2-special-edition.json"
@@ -159011,6 +159106,11 @@
       "igdb_id": 319197,
       "game_name": "EA Sports WRC 24",
       "file": "missing/E/319197-ea-sports-wrc-24.json"
+    },
+    {
+      "igdb_id": 164777,
+      "game_name": "EA Star Wars Triple Bundle",
+      "file": "missing/E/164777-ea-star-wars-triple-bundle.json"
     },
     {
       "igdb_id": 7719,
@@ -180253,6 +180353,11 @@
       "file": "missing/F/51544-far-cry-3-wish-you-were-here-edition.json"
     },
     {
+      "igdb_id": 164801,
+      "game_name": "Far Cry 4 + Far Cry: Primal Bundle",
+      "file": "missing/F/164801-far-cry-4-far-cry-primal-bundle.json"
+    },
+    {
       "igdb_id": 109553,
       "game_name": "Far Cry 4: Hurk Deluxe Pack",
       "file": "missing/F/109553-far-cry-4-hurk-deluxe-pack.json"
@@ -180286,6 +180391,11 @@
       "igdb_id": 188049,
       "game_name": "Far Cry Anthology Bundle",
       "file": "missing/F/188049-far-cry-anthology-bundle.json"
+    },
+    {
+      "igdb_id": 164798,
+      "game_name": "Far Cry Insanity Bundle",
+      "file": "missing/F/164798-far-cry-insanity-bundle.json"
     },
     {
       "igdb_id": 22584,
@@ -209598,6 +209708,11 @@
       "file": "missing/G/342721-gears-of-war-reloaded.json"
     },
     {
+      "igdb_id": 164770,
+      "game_name": "Gears of War: Ultimate Edition - Deluxe Version",
+      "file": "missing/G/164770-gears-of-war-ultimate-edition-deluxe-version.json"
+    },
+    {
       "igdb_id": 41613,
       "game_name": "Gears of War: Ultimate Edition and Rare Replay",
       "file": "missing/G/41613-gears-of-war-ultimate-edition-and-rare-replay.json"
@@ -210386,6 +210501,11 @@
       "igdb_id": 234917,
       "game_name": "Generation Zero: Motorbikes Pack",
       "file": "missing/G/234917-generation-zero-motorbikes-pack.json"
+    },
+    {
+      "igdb_id": 164785,
+      "game_name": "Generation Zero: Resistance Bundle",
+      "file": "missing/G/164785-generation-zero-resistance-bundle.json"
     },
     {
       "igdb_id": 234932,
@@ -211341,6 +211461,11 @@
       "igdb_id": 152133,
       "game_name": "Geometry Arena",
       "file": "missing/G/152133-geometry-arena.json"
+    },
+    {
+      "igdb_id": 164795,
+      "game_name": "Geometry Ball Escape",
+      "file": "missing/G/164795-geometry-ball-escape.json"
     },
     {
       "igdb_id": 98768,
@@ -221436,6 +221561,11 @@
       "igdb_id": 172061,
       "game_name": "Gravel: King of Buggies",
       "file": "missing/G/172061-gravel-king-of-buggies.json"
+    },
+    {
+      "igdb_id": 164769,
+      "game_name": "Gravel: Special Edition",
+      "file": "missing/G/164769-gravel-special-edition.json"
     },
     {
       "igdb_id": 359996,
@@ -237296,6 +237426,11 @@
       "igdb_id": 228448,
       "game_name": "Hellpit",
       "file": "missing/H/228448-hellpit.json"
+    },
+    {
+      "igdb_id": 164816,
+      "game_name": "Hellpoint: Blue Sun",
+      "file": "missing/H/164816-hellpoint-blue-sun.json"
     },
     {
       "igdb_id": 139838,
@@ -263106,6 +263241,11 @@
       "igdb_id": 165038,
       "game_name": "Injustice 2: Starfire",
       "file": "missing/I/165038-injustice-2-starfire.json"
+    },
+    {
+      "igdb_id": 164818,
+      "game_name": "Injustice 2: Sub-Zero",
+      "file": "missing/I/164818-injustice-2-sub-zero.json"
     },
     {
       "igdb_id": 165044,
@@ -306643,6 +306783,11 @@
       "file": "missing/L/179125-lose-your-head.json"
     },
     {
+      "igdb_id": 164810,
+      "game_name": "Lose Your Head Deluxe Bundle",
+      "file": "missing/L/164810-lose-your-head-deluxe-bundle.json"
+    },
+    {
       "igdb_id": 362334,
       "game_name": "Lose Your Marbles",
       "file": "missing/L/362334-lose-your-marbles.json"
@@ -312596,6 +312741,11 @@
       "igdb_id": 141182,
       "game_name": "Madden NFL 21: NXT LVL Edition",
       "file": "missing/M/141182-madden-nfl-21-nxt-lvl-edition.json"
+    },
+    {
+      "igdb_id": 164806,
+      "game_name": "Madden NFL 21: Superstar Edition",
+      "file": "missing/M/164806-madden-nfl-21-superstar-edition.json"
     },
     {
       "igdb_id": 140010,
@@ -333703,6 +333853,11 @@
       "file": "missing/M/106764-middle-earth-shadow-of-war-definitive-edition.json"
     },
     {
+      "igdb_id": 164808,
+      "game_name": "Middle-earth: Shadow of War - Outlaw Tribe Nemesis",
+      "file": "missing/M/164808-middle-earth-shadow-of-war-outlaw-tribe-nemesis.json"
+    },
+    {
       "igdb_id": 52198,
       "game_name": "Middle-earth: Shadow of War Mobile",
       "file": "missing/M/52198-middle-earth-shadow-of-war-mobile.json"
@@ -335951,6 +336106,11 @@
       "igdb_id": 132145,
       "game_name": "Minecraft Dungeons: Hero Edition",
       "file": "missing/M/132145-minecraft-dungeons-hero-edition.json"
+    },
+    {
+      "igdb_id": 164776,
+      "game_name": "Minecraft Dungeons: Ultimate Edition",
+      "file": "missing/M/164776-minecraft-dungeons-ultimate-edition.json"
     },
     {
       "igdb_id": 118711,
@@ -343308,6 +343468,11 @@
       "file": "missing/M/148509-monster-hunter-world-iceborne-deluxe-kit.json"
     },
     {
+      "igdb_id": 164814,
+      "game_name": "Monster Hunter: World - Iceborne: Master Edition Digital Deluxe",
+      "file": "missing/M/164814-monster-hunter-world-iceborne-master-edition-digital-deluxe.json"
+    },
+    {
       "igdb_id": 81355,
       "game_name": "Monster Hunter: World - Steelbook Edition",
       "file": "missing/M/81355-monster-hunter-world-steelbook-edition.json"
@@ -343921,6 +344086,11 @@
       "igdb_id": 132220,
       "game_name": "Monster Truck Championship",
       "file": "missing/M/132220-monster-truck-championship.json"
+    },
+    {
+      "igdb_id": 164784,
+      "game_name": "Monster Truck Championship: Rebel Hunter Edition",
+      "file": "missing/M/164784-monster-truck-championship-rebel-hunter-edition.json"
     },
     {
       "igdb_id": 96518,
@@ -346033,6 +346203,11 @@
       "file": "missing/M/139446-mortal-kombat-11-ultimate.json"
     },
     {
+      "igdb_id": 164774,
+      "game_name": "Mortal Kombat 11: Ultimate + Injustice 2 Legendary Edition Bundle",
+      "file": "missing/M/164774-mortal-kombat-11-ultimate-injustice-2-legendary-edition-bundle.json"
+    },
+    {
       "igdb_id": 1620,
       "game_name": "Mortal Kombat 3",
       "file": "missing/M/1620-mortal-kombat-3.json"
@@ -346176,6 +346351,11 @@
       "igdb_id": 340201,
       "game_name": "Mortal Kombat X: Kold War Scorpion",
       "file": "missing/M/340201-mortal-kombat-x-kold-war-scorpion.json"
+    },
+    {
+      "igdb_id": 164819,
+      "game_name": "Mortal Kombat X: Predator",
+      "file": "missing/M/164819-mortal-kombat-x-predator.json"
     },
     {
       "igdb_id": 140997,
@@ -357348,6 +357528,11 @@
       "file": "missing/N/28175-naruto-to-boruto-shinobi-striker.json"
     },
     {
+      "igdb_id": 164790,
+      "game_name": "Naruto to Boruto: Shinobi Striker - Deluxe Edition",
+      "file": "missing/N/164790-naruto-to-boruto-shinobi-striker-deluxe-edition.json"
+    },
+    {
       "igdb_id": 307760,
       "game_name": "Naruto to Boruto: Shinobi Striker - Master Character Training Pack - Kawaki: Karma Progression",
       "file": "missing/N/307760-naruto-to-boruto-shinobi-striker-master-character-training-pack-kawaki-karma-progression.json"
@@ -357521,6 +357706,11 @@
       "igdb_id": 248619,
       "game_name": "NASCAR Heat 2002",
       "file": "missing/N/248619-nascar-heat-2002.json"
+    },
+    {
+      "igdb_id": 164815,
+      "game_name": "NASCAR Heat 5: Ultimate Edition",
+      "file": "missing/N/164815-nascar-heat-5-ultimate-edition.json"
     },
     {
       "igdb_id": 273941,
@@ -359411,6 +359601,11 @@
       "igdb_id": 162858,
       "game_name": "Necromunda: Underhive Wars - Cawdor Gang",
       "file": "missing/N/162858-necromunda-underhive-wars-cawdor-gang.json"
+    },
+    {
+      "igdb_id": 164820,
+      "game_name": "Necromunda: Underhive Wars - Gold Edition",
+      "file": "missing/N/164820-necromunda-underhive-wars-gold-edition.json"
     },
     {
       "igdb_id": 162857,
@@ -389338,6 +389533,11 @@
       "file": "missing/P/294166-paranormal-archives.json"
     },
     {
+      "igdb_id": 164791,
+      "game_name": "Paranormal Bundle",
+      "file": "missing/P/164791-paranormal-bundle.json"
+    },
+    {
       "igdb_id": 276187,
       "game_name": "Paranormal Capture Investigation",
       "file": "missing/P/276187-paranormal-capture-investigation.json"
@@ -395731,6 +395931,11 @@
       "igdb_id": 146336,
       "game_name": "Phantasy Star Online 2 New Genesis: Limited Edition",
       "file": "missing/P/146336-phantasy-star-online-2-new-genesis-limited-edition.json"
+    },
+    {
+      "igdb_id": 164821,
+      "game_name": "Phantasy Star Online 2 New Genesis: Start Dash Rappy Edition",
+      "file": "missing/P/164821-phantasy-star-online-2-new-genesis-start-dash-rappy-edition.json"
     },
     {
       "igdb_id": 225867,
@@ -410543,6 +410748,11 @@
       "file": "missing/P/20392-portal-knights.json"
     },
     {
+      "igdb_id": 164772,
+      "game_name": "Portal Knights: Druids, Furfolk, and Relic Defense",
+      "file": "missing/P/164772-portal-knights-druids-furfolk-and-relic-defense.json"
+    },
+    {
       "igdb_id": 166156,
       "game_name": "Portal Knights: Legendary Edition",
       "file": "missing/P/166156-portal-knights-legendary-edition.json"
@@ -414188,6 +414398,11 @@
       "file": "missing/P/148519-prison-architect-second-chances.json"
     },
     {
+      "igdb_id": 164789,
+      "game_name": "Prison Architect: Total Lockdown Bundle",
+      "file": "missing/P/164789-prison-architect-total-lockdown-bundle.json"
+    },
+    {
       "igdb_id": 167214,
       "game_name": "Prison Ball: Full Blown",
       "file": "missing/P/167214-prison-ball-full-blown.json"
@@ -417181,6 +417396,11 @@
       "igdb_id": 199947,
       "game_name": "Project Winter Mobile",
       "file": "missing/P/199947-project-winter-mobile.json"
+    },
+    {
+      "igdb_id": 164817,
+      "game_name": "Project Winter: Blackout",
+      "file": "missing/P/164817-project-winter-blackout.json"
     },
     {
       "igdb_id": 211812,
@@ -436601,6 +436821,11 @@
       "igdb_id": 213875,
       "game_name": "Resident Evil 2: Dual Shock Ver.",
       "file": "missing/R/213875-resident-evil-2-dual-shock-ver.json"
+    },
+    {
+      "igdb_id": 164773,
+      "game_name": "Resident Evil 2: Extra DLC Pack",
+      "file": "missing/R/164773-resident-evil-2-extra-dlc-pack.json"
     },
     {
       "igdb_id": 333762,
@@ -469213,6 +469438,11 @@
       "file": "missing/S/5541-sherlock-holmes-crimes-and-punishments.json"
     },
     {
+      "igdb_id": 164780,
+      "game_name": "Sherlock Holmes: Crimes and Punishments Redux",
+      "file": "missing/S/164780-sherlock-holmes-crimes-and-punishments-redux.json"
+    },
+    {
       "igdb_id": 222297,
       "game_name": "Sherlock Holmes: Puzzle City",
       "file": "missing/S/222297-sherlock-holmes-puzzle-city.json"
@@ -491901,6 +492131,11 @@
       "igdb_id": 198486,
       "game_name": "South Park",
       "file": "missing/S/198486-south-park.json"
+    },
+    {
+      "igdb_id": 164783,
+      "game_name": "South Park : The Stick of Truth + The Fractured but Whole Bundle",
+      "file": "missing/S/164783-south-park-the-stick-of-truth-the-fractured-but-whole-bundle.json"
     },
     {
       "igdb_id": 76981,
@@ -515236,6 +515471,11 @@
       "igdb_id": 3247,
       "game_name": "Sunset Overdrive",
       "file": "missing/S/3247-sunset-overdrive.json"
+    },
+    {
+      "igdb_id": 164800,
+      "game_name": "Sunset Overdrive: Deluxe Edition",
+      "file": "missing/S/164800-sunset-overdrive-deluxe-edition.json"
     },
     {
       "igdb_id": 284485,
@@ -544676,6 +544916,11 @@
       "igdb_id": 109650,
       "game_name": "The Darkside Detective: A Fumble in the Dark",
       "file": "missing/T/109650-the-darkside-detective-a-fumble-in-the-dark.json"
+    },
+    {
+      "igdb_id": 164793,
+      "game_name": "The Darkside Detective: Series Edition",
+      "file": "missing/T/164793-the-darkside-detective-series-edition.json"
     },
     {
       "igdb_id": 65534,
@@ -631646,6 +631891,11 @@
       "igdb_id": 223694,
       "game_name": "Wreckfest: Banger Racing Car Pack",
       "file": "missing/W/223694-wreckfest-banger-racing-car-pack.json"
+    },
+    {
+      "igdb_id": 164788,
+      "game_name": "Wreckfest: Complete Edition",
+      "file": "missing/W/164788-wreckfest-complete-edition.json"
     },
     {
       "igdb_id": 223699,
