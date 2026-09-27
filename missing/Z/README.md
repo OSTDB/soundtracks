@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Builder Defense | 111211 | [111211-zombie-builder-defense.json](./111211-zombie-builder-defense.json) |
 | Zombie Builder Defense 2 | 239766 | [239766-zombie-builder-defense-2.json](./239766-zombie-builder-defense-2.json) |
 | Zombie Buster VR | 28886 | [28886-zombie-buster-vr.json](./28886-zombie-buster-vr.json) |
+| Zombie Busters | 127864 | [127864-zombie-busters.json](./127864-zombie-busters.json) |
 | Zombie Carnage 2 | 184476 | [184476-zombie-carnage-2.json](./184476-zombie-carnage-2.json) |
 | Zombie City | 192275 | [192275-zombie-city.json](./192275-zombie-city.json) |
 | Zombie City | 377132 | [377132-zombie-city.json](./377132-zombie-city.json) |
