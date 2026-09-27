@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Tournament | 135140 | [135140-open-tournament.json](./135140-open-tournament.json) |
 | Open Wheel Manager | 117611 | [117611-open-wheel-manager.json](./117611-open-wheel-manager.json) |
 | Open World Foreva | 152772 | [152772-open-world-foreva.json](./152772-open-world-foreva.json) |
+| Open World Game: The Open World Game - The Gratuitous DLC | 133919 | [133919-open-world-game-the-open-world-game-the-gratuitous-dlc.json](./133919-open-world-game-the-open-world-game-the-gratuitous-dlc.json) |
 | Open Your Eyes | 376576 | [376576-open-your-eyes.json](./376576-open-your-eyes.json) |
 | OpenArena | 77358 | [77358-openarena.json](./77358-openarena.json) |
 | OpenArena Live | 357434 | [357434-openarena-live.json](./357434-openarena-live.json) |
