@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echowood | 387652 | [387652-echowood.json](./387652-echowood.json) |
 | EchtegP | 254789 | [254789-echtegp.json](./254789-echtegp.json) |
 | Ecila | 257392 | [257392-ecila.json](./257392-ecila.json) |
+| Ecio | 119674 | [119674-ecio.json](./119674-ecio.json) |
 | Eckn+ | 159177 | [159177-eckn.json](./159177-eckn.json) |
 | Eclectic Custom Night | 317220 | [317220-eclectic-custom-night.json](./317220-eclectic-custom-night.json) |
 | Eclectic Guests | 178674 | [178674-eclectic-guests.json](./178674-eclectic-guests.json) |
@@ -1593,6 +1594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endure Island | 213976 | [213976-endure-island.json](./213976-endure-island.json) |
 | Endure or Perish | 288223 | [288223-endure-or-perish.json](./288223-endure-or-perish.json) |
 | Enduro Racer | 37159 | [37159-enduro-racer.json](./37159-enduro-racer.json) |
+| EndZ Village | 119630 | [119630-endz-village.json](./119630-endz-village.json) |
 | Endzeit | 243785 | [243785-endzeit.json](./243785-endzeit.json) |
 | Endzone | 13643 | [13643-endzone.json](./13643-endzone.json) |
 | Endzone: A World Apart | 126362 | [126362-endzone-a-world-apart.json](./126362-endzone-a-world-apart.json) |
