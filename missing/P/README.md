@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Bamboo Adventure | 388196 | [388196-panda-bamboo-adventure.json](./388196-panda-bamboo-adventure.json) |
 | Panda Chase | 40738 | [40738-panda-chase.json](./40738-panda-chase.json) |
 | Panda Choice Mahjong | 263502 | [263502-panda-choice-mahjong.json](./263502-panda-choice-mahjong.json) |
+| Panda City | 160131 | [160131-panda-city.json](./160131-panda-city.json) |
 | Panda Dynasty | 177927 | [177927-panda-dynasty.json](./177927-panda-dynasty.json) |
 | Panda Go | 275118 | [275118-panda-go.json](./275118-panda-go.json) |
 | Panda Hero: Remastered | 143054 | [143054-panda-hero-remastered.json](./143054-panda-hero-remastered.json) |
@@ -3062,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipe Connect | 290422 | [290422-pipe-connect.json](./290422-pipe-connect.json) |
 | Pipe Cube | 125964 | [125964-pipe-cube.json](./125964-pipe-cube.json) |
 | Pipe Dream | 200 | [200-pipe-dream.json](./200-pipe-dream.json) |
+| Pipe Dreamin' VR: The Big Easy | 160154 | [160154-pipe-dreamin-vr-the-big-easy.json](./160154-pipe-dreamin-vr-the-big-easy.json) |
 | Pipe Dreams | 232141 | [232141-pipe-dreams.json](./232141-pipe-dreams.json) |
 | Pipe Inspector: Plumbocalypse | 336534 | [336534-pipe-inspector-plumbocalypse.json](./336534-pipe-inspector-plumbocalypse.json) |
 | Pipe It Puzzle Challenge | 167610 | [167610-pipe-it-puzzle-challenge.json](./167610-pipe-it-puzzle-challenge.json) |
@@ -3354,6 +3356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Mage Quest RPG | 145050 | [145050-pixel-mage-quest-rpg.json](./145050-pixel-mage-quest-rpg.json) |
 | Pixel Manager: Football 2021 | 256230 | [256230-pixel-manager-football-2021.json](./256230-pixel-manager-football-2021.json) |
 | Pixel Miner | 333639 | [333639-pixel-miner.json](./333639-pixel-miner.json) |
+| Pixel Ninja | 160163 | [160163-pixel-ninja.json](./160163-pixel-ninja.json) |
 | Pixel of War | 294424 | [294424-pixel-of-war.json](./294424-pixel-of-war.json) |
 | Pixel Origin | 104654 | [104654-pixel-origin.json](./104654-pixel-origin.json) |
 | Pixel Paint | 84818 | [84818-pixel-paint.json](./84818-pixel-paint.json) |
@@ -5854,6 +5857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Evangile W Happiness | 140525 | [140525-princess-evangile-w-happiness.json](./140525-princess-evangile-w-happiness.json) |
 | Princess Evangile W Happiness | 43360 | [43360-princess-evangile-w-happiness.json](./43360-princess-evangile-w-happiness.json) |
 | Princess Home | 227243 | [227243-princess-home.json](./227243-princess-home.json) |
+| Princess in Airiness | 160161 | [160161-princess-in-airiness.json](./160161-princess-in-airiness.json) |
 | Princess in Love | 67663 | [67663-princess-in-love.json](./67663-princess-in-love.json) |
 | Princess Isabella | 36318 | [36318-princess-isabella.json](./36318-princess-isabella.json) |
 | Princess Kaguya | 34914 | [34914-princess-kaguya.json](./34914-princess-kaguya.json) |
