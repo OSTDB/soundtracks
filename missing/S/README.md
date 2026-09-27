@@ -1487,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Hellworks | 296461 | [296461-scp-hellworks.json](./296461-scp-hellworks.json) |
 | SCP: Hours to Go | 296462 | [296462-scp-hours-to-go.json](./296462-scp-hours-to-go.json) |
 | SCP: Josie | 260410 | [260410-scp-josie.json](./260410-scp-josie.json) |
+| SCP: Liberation | 125908 | [125908-scp-liberation.json](./125908-scp-liberation.json) |
 | SCP: Maintain & Control | 202098 | [202098-scp-maintain-and-control.json](./202098-scp-maintain-and-control.json) |
 | SCP: Mystery Man | 320169 | [320169-scp-mystery-man.json](./320169-scp-mystery-man.json) |
 | SCP: Nemesi | 260106 | [260106-scp-nemesi.json](./260106-scp-nemesi.json) |
@@ -11790,6 +11791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Quest | 142410 | [142410-stream-quest.json](./142410-stream-quest.json) |
 | Stream Quiz | 140027 | [140027-stream-quiz.json](./140027-stream-quiz.json) |
 | Stream Racer | 135295 | [135295-stream-racer.json](./135295-stream-racer.json) |
+| Stream Raiders | 125893 | [125893-stream-raiders.json](./125893-stream-raiders.json) |
 | Stream Runners: Heroes | 232972 | [232972-stream-runners-heroes.json](./232972-stream-runners-heroes.json) |
 | Stream Stratos | 348323 | [348323-stream-stratos.json](./348323-stream-stratos.json) |
 | Stream Town | 143703 | [143703-stream-town.json](./143703-stream-town.json) |
