@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fait: The Machine | 122188 | [122188-fait-the-machine.json](./122188-fait-the-machine.json) |
 | Faith & Shield: Tower Defense - Space Wars Game 2022 | 209694 | [209694-faith-and-shield-tower-defense-space-wars-game-2022.json](./209694-faith-and-shield-tower-defense-space-wars-game-2022.json) |
 | Faith Fighter 2 | 64375 | [64375-faith-fighter-2.json](./64375-faith-fighter-2.json) |
+| Faith of Fate | 119668 | [119668-faith-of-fate.json](./119668-faith-of-fate.json) |
 | Faith of Life: Survive Edition | 340052 | [340052-faith-of-life-survive-edition.json](./340052-faith-of-life-survive-edition.json) |
 | Faith of the Guardians | 65743 | [65743-faith-of-the-guardians.json](./65743-faith-of-the-guardians.json) |
 | Faith: The Unholy Trinity | 125171 | [125171-faith-the-unholy-trinity.json](./125171-faith-the-unholy-trinity.json) |
@@ -878,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mahjong Connect | 154357 | [154357-fantasy-mahjong-connect.json](./154357-fantasy-mahjong-connect.json) |
 | Fantasy Maiden Wars: Scarlet | 138718 | [138718-fantasy-maiden-wars-scarlet.json](./138718-fantasy-maiden-wars-scarlet.json) |
 | Fantasy Maiden's Odd Hideout | 124640 | [124640-fantasy-maidens-odd-hideout.json](./124640-fantasy-maidens-odd-hideout.json) |
+| Fantasy Monarch | 119627 | [119627-fantasy-monarch.json](./119627-fantasy-monarch.json) |
 | Fantasy Monster Hunt | 346683 | [346683-fantasy-monster-hunt.json](./346683-fantasy-monster-hunt.json) |
 | Fantasy Mosaics | 57350 | [57350-fantasy-mosaics.json](./57350-fantasy-mosaics.json) |
 | Fantasy Mosaics 2 | 100733 | [100733-fantasy-mosaics-2.json](./100733-fantasy-mosaics-2.json) |
@@ -2716,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Kiss | 184088 | [184088-fish-kiss.json](./184088-fish-kiss.json) |
 | Fish Kisser | 410893 | [410893-fish-kisser.json](./410893-fish-kisser.json) |
 | Fish Machine | 139254 | [139254-fish-machine.json](./139254-fish-machine.json) |
+| Fish man avoiding fishing | 119671 | [119671-fish-man-avoiding-fishing.json](./119671-fish-man-avoiding-fishing.json) |
 | Fish Market | 391052 | [391052-fish-market.json](./391052-fish-market.json) |
 | Fish Memory | 150678 | [150678-fish-memory.json](./150678-fish-memory.json) |
 | Fish or Die | 34778 | [34778-fish-or-die.json](./34778-fish-or-die.json) |
@@ -5539,6 +5542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Kiss SS: Complete Limited Edition | 155066 | [155066-full-kiss-ss-complete-limited-edition.json](./155066-full-kiss-ss-complete-limited-edition.json) |
 | Full Kiss: Limited Edition | 167133 | [167133-full-kiss-limited-edition.json](./167133-full-kiss-limited-edition.json) |
 | Full Metal Coffin | 410265 | [410265-full-metal-coffin.json](./410265-full-metal-coffin.json) |
+| Full Metal Monsters | 119648 | [119648-full-metal-monsters.json](./119648-full-metal-monsters.json) |
 | Full Metal Nun | 411666 | [411666-full-metal-nun.json](./411666-full-metal-nun.json) |
 | Full Metal Planet | 12110 | [12110-full-metal-planet.json](./12110-full-metal-planet.json) |
 | Full Metal Schoolgirl | 352205 | [352205-full-metal-schoolgirl.json](./352205-full-metal-schoolgirl.json) |
