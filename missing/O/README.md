@@ -1563,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Vietnam | 20760 | [20760-operation-vietnam.json](./20760-operation-vietnam.json) |
 | Operation7: Revolution | 127836 | [127836-operation7-revolution.json](./127836-operation7-revolution.json) |
 | Operation8 Project | 189935 | [189935-operation8-project.json](./189935-operation8-project.json) |
+| Operator | 125348 | [125348-operator.json](./125348-operator.json) |
 | Operator | 220613 | [220613-operator.json](./220613-operator.json) |
 | Operator | 226706 | [226706-operator.json](./226706-operator.json) |
 | Operator Ace's Simple Infinite Survival | 278734 | [278734-operator-aces-simple-infinite-survival.json](./278734-operator-aces-simple-infinite-survival.json) |
