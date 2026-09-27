@@ -1225,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DC Comics Legends | 60027 | [60027-dc-comics-legends.json](./60027-dc-comics-legends.json) |
 | DC Comics Super Heroes: The Watchtower | 220122 | [220122-dc-comics-super-heroes-the-watchtower.json](./220122-dc-comics-super-heroes-the-watchtower.json) |
 | DC Super Hero Girls: Food Fight | 316786 | [316786-dc-super-hero-girls-food-fight.json](./316786-dc-super-hero-girls-food-fight.json) |
+| DC Super Hero Girls: Teen Power | 143617 | [143617-dc-super-hero-girls-teen-power.json](./143617-dc-super-hero-girls-teen-power.json) |
 | DC Universe Online: Episode 17 - Unholy Matrimony & The Flash Museum Burglary | 271163 | [271163-dc-universe-online-episode-17-unholy-matrimony-and-the-flash-museum-burglary.json](./271163-dc-universe-online-episode-17-unholy-matrimony-and-the-flash-museum-burglary.json) |
 | DC Universe Online: Episode 18 - The Demon's Pit and Blackest Day | 271164 | [271164-dc-universe-online-episode-18-the-demons-pit-and-blackest-day.json](./271164-dc-universe-online-episode-18-the-demons-pit-and-blackest-day.json) |
 | DC Universe Online: Episode 19 - The Demon's Plan and Deep Desires | 271165 | [271165-dc-universe-online-episode-19-the-demons-plan-and-deep-desires.json](./271165-dc-universe-online-episode-19-the-demons-plan-and-deep-desires.json) |
@@ -2998,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny's Sword | 117061 | [117061-destinys-sword.json](./117061-destinys-sword.json) |
 | Destoria: The Withering | 207801 | [207801-destoria-the-withering.json](./207801-destoria-the-withering.json) |
 | Destrobots | 135656 | [135656-destrobots.json](./135656-destrobots.json) |
+| Destropolis | 143587 | [143587-destropolis.json](./143587-destropolis.json) |
 | Destroy All Cars | 337203 | [337203-destroy-all-cars.json](./337203-destroy-all-cars.json) |
 | Destroy All Humans! 2: Reprobed - Challenge Accepted | 220596 | [220596-destroy-all-humans-2-reprobed-challenge-accepted.json](./220596-destroy-all-humans-2-reprobed-challenge-accepted.json) |
 | Destroy All Humans! Path of the Furon | 2717 | [2717-destroy-all-humans-path-of-the-furon.json](./2717-destroy-all-humans-path-of-the-furon.json) |
@@ -5500,6 +5502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dotchidabe | 385328 | [385328-dotchidabe.json](./385328-dotchidabe.json) |
 | DotDot | 253971 | [253971-dotdot.json](./253971-dotdot.json) |
 | Dotonon | 341677 | [341677-dotonon.json](./341677-dotonon.json) |
+| Dotori | 143600 | [143600-dotori.json](./143600-dotori.json) |
 | Dots | 76631 | [76631-dots.json](./76631-dots.json) |
 | Dots and Boxes - Dino Fury Edition | 107117 | [107117-dots-and-boxes-dino-fury-edition.json](./107117-dots-and-boxes-dino-fury-edition.json) |
 | Dots and Dashes | 188674 | [188674-dots-and-dashes.json](./188674-dots-and-dashes.json) |
@@ -7035,6 +7038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dubbing Time | 156623 | [156623-dubbing-time.json](./156623-dubbing-time.json) |
 | Dubium | 182352 | [182352-dubium.json](./182352-dubium.json) |
 | Dubstep Abasralsa | 102407 | [102407-dubstep-abasralsa.json](./102407-dubstep-abasralsa.json) |
+| Dubstep Bird | 143588 | [143588-dubstep-bird.json](./143588-dubstep-bird.json) |
 | Dubstep Sound Pack | 343860 | [343860-dubstep-sound-pack.json](./343860-dubstep-sound-pack.json) |
 | DubWars | 36348 | [36348-dubwars.json](./36348-dubwars.json) |
 | Ducati World Championship | 19353 | [19353-ducati-world-championship.json](./19353-ducati-world-championship.json) |
@@ -7829,6 +7833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynogems | 42826 | [42826-dynogems.json](./42826-dynogems.json) |
 | Dynopunk | 147348 | [147348-dynopunk.json](./147348-dynopunk.json) |
 | Dynopunk: Welcome to Synth-City | 244703 | [244703-dynopunk-welcome-to-synth-city.json](./244703-dynopunk-welcome-to-synth-city.json) |
+| Dynos & Ghosts | 143563 | [143563-dynos-and-ghosts.json](./143563-dynos-and-ghosts.json) |
 | Dynowarz: Destruction of Spondylus | 48029 | [48029-dynowarz-destruction-of-spondylus.json](./48029-dynowarz-destruction-of-spondylus.json) |
 | Dys4ia | 15850 | [15850-dys4ia.json](./15850-dys4ia.json) |
 | Dysarmia | 304896 | [304896-dysarmia.json](./304896-dysarmia.json) |
