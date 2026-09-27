@@ -854,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unearther | 326245 | [326245-unearther.json](./326245-unearther.json) |
 | Unearthing Invasions | 302362 | [302362-unearthing-invasions.json](./302362-unearthing-invasions.json) |
 | Unearthing Mars 2: The Ancient War | 107243 | [107243-unearthing-mars-2-the-ancient-war.json](./107243-unearthing-mars-2-the-ancient-war.json) |
+| UnearthU | 144192 | [144192-unearthu.json](./144192-unearthu.json) |
 | Unemployment Quest | 50803 | [50803-unemployment-quest.json](./50803-unemployment-quest.json) |
 | Unending | 260416 | [260416-unending.json](./260416-unending.json) |
 | Unending Aqua | 405732 | [405732-unending-aqua.json](./405732-unending-aqua.json) |
@@ -1399,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ura no Ura | 76596 | [76596-ura-no-ura.json](./76596-ura-no-ura.json) |
 | Uraankhians Dygyn: The Beginning | 314904 | [314904-uraankhians-dygyn-the-beginning.json](./314904-uraankhians-dygyn-the-beginning.json) |
 | Urania | 313835 | [313835-urania.json](./313835-urania.json) |
+| Urania's Cloak | 144200 | [144200-uranias-cloak.json](./144200-uranias-cloak.json) |
 | Urânio 235 | 256281 | [256281-uranio-235.json](./256281-uranio-235.json) |
 | Uranium Mario 64 | 338828 | [338828-uranium-mario-64.json](./338828-uranium-mario-64.json) |
 | Urawaza Mahjong: Korette Tenwatte Yatsukai | 363966 | [363966-urawaza-mahjong-korette-tenwatte-yatsukai.json](./363966-urawaza-mahjong-korette-tenwatte-yatsukai.json) |
