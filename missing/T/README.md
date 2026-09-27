@@ -1208,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tattoo Punk | 146824 | [146824-tattoo-punk.json](./146824-tattoo-punk.json) |
 | Tattoos and Tulips | 257976 | [257976-tattoos-and-tulips.json](./257976-tattoos-and-tulips.json) |
 | Tatvalok | 380542 | [380542-tatvalok.json](./380542-tatvalok.json) |
+| Tau Defense | 120859 | [120859-tau-defense.json](./120859-tau-defense.json) |
 | TAU-09 | 392942 | [392942-tau-09.json](./392942-tau-09.json) |
 | TauCeti Unknown Origin | 130911 | [130911-tauceti-unknown-origin.json](./130911-tauceti-unknown-origin.json) |
 | Tauriel Teaches Typing | 181883 | [181883-tauriel-teaches-typing.json](./181883-tauriel-teaches-typing.json) |
@@ -2619,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Awakener: Risen | 172702 | [172702-the-awakener-risen.json](./172702-the-awakener-risen.json) |
 | The Awakening of a Villainous Lady: A Crimson and Pure White Romance | 310208 | [310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json](./310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json) |
 | The Awakening of Mummies | 147323 | [147323-the-awakening-of-mummies.json](./147323-the-awakening-of-mummies.json) |
+| The Away Team: Lost Exodus | 120897 | [120897-the-away-team-lost-exodus.json](./120897-the-away-team-lost-exodus.json) |
 | The Awesome Adventures of Captain Spirit | 103283 | [103283-the-awesome-adventures-of-captain-spirit.json](./103283-the-awesome-adventures-of-captain-spirit.json) |
 | The Awesome Adventures of Victor Vector & Yondo: The Cyberplasm Formula | 72098 | [72098-the-awesome-adventures-of-victor-vector-and-yondo-the-cyberplasm-formula.json](./72098-the-awesome-adventures-of-victor-vector-and-yondo-the-cyberplasm-formula.json) |
 | The Axolotl Project | 60022 | [60022-the-axolotl-project.json](./60022-the-axolotl-project.json) |
@@ -4539,6 +4541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hero Project: Redemption Season - MeChip Warning System | 170822 | [170822-the-hero-project-redemption-season-mechip-warning-system.json](./170822-the-hero-project-redemption-season-mechip-warning-system.json) |
 | The Hero Unmasked! | 52274 | [52274-the-hero-unmasked.json](./52274-the-hero-unmasked.json) |
 | The Herobrine Mod | 232684 | [232684-the-herobrine-mod.json](./232684-the-herobrine-mod.json) |
+| The Heroic Legend of Eagarlnia | 120766 | [120766-the-heroic-legend-of-eagarlnia.json](./120766-the-heroic-legend-of-eagarlnia.json) |
 | The Heroic Legend of Eagarlnia: Expansion Pack | 199651 | [199651-the-heroic-legend-of-eagarlnia-expansion-pack.json](./199651-the-heroic-legend-of-eagarlnia-expansion-pack.json) |
 | The Hi-Finesse: 2D | 25909 | [25909-the-hi-finesse-2d.json](./25909-the-hi-finesse-2d.json) |
 | The Hidden | 85437 | [85437-the-hidden.json](./85437-the-hidden.json) |
@@ -5065,6 +5068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last | 31802 | [31802-the-last.json](./31802-the-last.json) |
 | The Last (Hotdog) Stand | 399185 | [399185-the-last-hotdog-stand.json](./399185-the-last-hotdog-stand.json) |
 | The Last Airbender | 7983 | [7983-the-last-airbender.json](./7983-the-last-airbender.json) |
+| The Last Aura | 120871 | [120871-the-last-aura.json](./120871-the-last-aura.json) |
 | The Last Ball | 410474 | [410474-the-last-ball.json](./410474-the-last-ball.json) |
 | The last Baron's stunt | 89652 | [89652-the-last-barons-stunt.json](./89652-the-last-barons-stunt.json) |
 | The Last Bastion | 188504 | [188504-the-last-bastion.json](./188504-the-last-bastion.json) |
@@ -5343,6 +5347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Nayuta: Boundless Trails | 42722 | [42722-the-legend-of-nayuta-boundless-trails.json](./42722-the-legend-of-nayuta-boundless-trails.json) |
 | The Legend of Neverland | 159100 | [159100-the-legend-of-neverland.json](./159100-the-legend-of-neverland.json) |
 | The Legend of Ninja | 147947 | [147947-the-legend-of-ninja.json](./147947-the-legend-of-ninja.json) |
+| The Legend of Paco the Jungle Duck | 120845 | [120845-the-legend-of-paco-the-jungle-duck.json](./120845-the-legend-of-paco-the-jungle-duck.json) |
 | The Legend of Peach | 198374 | [198374-the-legend-of-peach.json](./198374-the-legend-of-peach.json) |
 | The Legend of Peach: Insert Random Title There | 323270 | [323270-the-legend-of-peach-insert-random-title-there.json](./323270-the-legend-of-peach-insert-random-title-there.json) |
 | The Legend of Peks | 262449 | [262449-the-legend-of-peks.json](./262449-the-legend-of-peks.json) |
@@ -8570,6 +8575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirsty Bird | 403784 | [403784-thirsty-bird.json](./403784-thirsty-bird.json) |
 | Thirsty Nellan | 70111 | [70111-thirsty-nellan.json](./70111-thirsty-nellan.json) |
 | Thirsty Suitors | 185240 | [185240-thirsty-suitors.json](./185240-thirsty-suitors.json) |
+| Thirteen & Half Cats | 120888 | [120888-thirteen-and-half-cats.json](./120888-thirteen-and-half-cats.json) |
 | Thirteen Souls | 129770 | [129770-thirteen-souls.json](./129770-thirteen-souls.json) |
 | Thirty Cycles | 200710 | [200710-thirty-cycles.json](./200710-thirty-cycles.json) |
 | Thirty Flights of Loving | 9013 | [9013-thirty-flights-of-loving.json](./9013-thirty-flights-of-loving.json) |
@@ -8897,6 +8903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiānxiān Biàn | 156131 | [156131-tianxian-bian.json](./156131-tianxian-bian.json) |
 | Tiào Tiào Xiǎo Miánmián | 359470 | [359470-tiao-tiao-xiao-mianmian.json](./359470-tiao-tiao-xiao-mianmian.json) |
 | Tiara Concerto | 86102 | [86102-tiara-concerto.json](./86102-tiara-concerto.json) |
+| Tiara the Deceiving Crown | 120864 | [120864-tiara-the-deceiving-crown.json](./120864-tiara-the-deceiving-crown.json) |
 | Tiberian War: Ion Shock | 144980 | [144980-tiberian-war-ion-shock.json](./144980-tiberian-war-ion-shock.json) |
 | Tiberium | 94713 | [94713-tiberium.json](./94713-tiberium.json) |
 | Tibia Chronicles: Survivors | 394519 | [394519-tibia-chronicles-survivors.json](./394519-tibia-chronicles-survivors.json) |
@@ -9979,6 +9986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Travel | 204489 | [204489-time-travel.json](./204489-time-travel.json) |
 | Time Travel Cafe | 295777 | [295777-time-travel-cafe.json](./295777-time-travel-cafe.json) |
 | Time Traveler | 201849 | [201849-time-traveler.json](./201849-time-traveler.json) |
+| Time Travelling Blues | 120909 | [120909-time-travelling-blues.json](./120909-time-travelling-blues.json) |
 | Time Travelling Space Pirates | 176296 | [176296-time-travelling-space-pirates.json](./176296-time-travelling-space-pirates.json) |
 | Time Tripper | 209128 | [209128-time-tripper.json](./209128-time-tripper.json) |
 | Time Tunnel | 12968 | [12968-time-tunnel.json](./12968-time-tunnel.json) |
@@ -10340,6 +10348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tkium Underground | 225181 | [225181-tkium-underground.json](./225181-tkium-underground.json) |
 | TKKG: Alarm in der Geisterbahn | 182384 | [182384-tkkg-alarm-in-der-geisterbahn.json](./182384-tkkg-alarm-in-der-geisterbahn.json) |
 | TKKG: Deadly Chocolate | 200658 | [200658-tkkg-deadly-chocolate.json](./200658-tkkg-deadly-chocolate.json) |
+| TKKG: Die Feuerprobe | 120853 | [120853-tkkg-die-feuerprobe.json](./120853-tkkg-die-feuerprobe.json) |
 | TKKG: Jennifer is Missing | 206218 | [206218-tkkg-jennifer-is-missing.json](./206218-tkkg-jennifer-is-missing.json) |
 | TKKG: Mystery of the Mayan Treasure | 206216 | [206216-tkkg-mystery-of-the-mayan-treasure.json](./206216-tkkg-mystery-of-the-mayan-treasure.json) |
 | TKKG: The Betrayal | 206217 | [206217-tkkg-the-betrayal.json](./206217-tkkg-the-betrayal.json) |
@@ -10798,6 +10807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Joe | 29874 | [29874-tomb-joe.json](./29874-tomb-joe.json) |
 | Tomb Keeper Mansion Deluxe Pinball | 193215 | [193215-tomb-keeper-mansion-deluxe-pinball.json](./193215-tomb-keeper-mansion-deluxe-pinball.json) |
 | Tomb Nightmares | 302929 | [302929-tomb-nightmares.json](./302929-tomb-nightmares.json) |
+| Tomb of Evil Avenue | 120890 | [120890-tomb-of-evil-avenue.json](./120890-tomb-of-evil-avenue.json) |
 | Tomb of Friends | 249468 | [249468-tomb-of-friends.json](./249468-tomb-of-friends.json) |
 | Tomb of Horror | 356664 | [356664-tomb-of-horror.json](./356664-tomb-of-horror.json) |
 | Tomb of Pharaohs | 158140 | [158140-tomb-of-pharaohs.json](./158140-tomb-of-pharaohs.json) |
@@ -13158,6 +13168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrianGo | 130898 | [130898-triango.json](./130898-triango.json) |
 | Triangulate | 226307 | [226307-triangulate.json](./226307-triangulate.json) |
 | Triangulation | 181789 | [181789-triangulation.json](./181789-triangulation.json) |
+| Triangulum | 120768 | [120768-triangulum.json](./120768-triangulum.json) |
 | Triarchy | 377667 | [377667-triarchy.json](./377667-triarchy.json) |
 | TRIB3 | 300800 | [300800-trib3.json](./300800-trib3.json) |
 | Tribal Mania | 377799 | [377799-tribal-mania.json](./377799-tribal-mania.json) |
@@ -13779,6 +13790,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TT Isle of Man: Collection | 275041 | [275041-tt-isle-of-man-collection.json](./275041-tt-isle-of-man-collection.json) |
 | TTA 1 | 253565 | [253565-tta-1.json](./253565-tta-1.json) |
 | Tu cara me suena: El videojuego | 332817 | [332817-tu-cara-me-suena-el-videojuego.json](./332817-tu-cara-me-suena-el-videojuego.json) |
+| TU-46 | 120876 | [120876-tu-46.json](./120876-tu-46.json) |
+| TU-95 | 120877 | [120877-tu-95.json](./120877-tu-95.json) |
 | Tub Sub | 180584 | [180584-tub-sub.json](./180584-tub-sub.json) |
 | Tubby's Wonderful Town | 382751 | [382751-tubbys-wonderful-town.json](./382751-tubbys-wonderful-town.json) |
 | Tube Adventures | 19443 | [19443-tube-adventures.json](./19443-tube-adventures.json) |
