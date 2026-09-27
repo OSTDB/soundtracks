@@ -2785,6 +2785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse Fantasy Legend 2 | 174795 | [174795-reverse-fantasy-legend-2.json](./174795-reverse-fantasy-legend-2.json) |
 | Reverse Horizons | 387017 | [387017-reverse-horizons.json](./387017-reverse-horizons.json) |
 | Reverse it, board game | 88262 | [88262-reverse-it-board-game.json](./88262-reverse-it-board-game.json) |
+| Reverse Memories | 143594 | [143594-reverse-memories.json](./143594-reverse-memories.json) |
 | Reverse Momories | 115622 | [115622-reverse-momories.json](./115622-reverse-momories.json) |
 | Reversed Dreamland | 50515 | [50515-reversed-dreamland.json](./50515-reversed-dreamland.json) |
 | Reversed Front | 224632 | [224632-reversed-front.json](./224632-reversed-front.json) |
@@ -4348,6 +4349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguematch: The Extraplanar Invasion | 217273 | [217273-roguematch-the-extraplanar-invasion.json](./217273-roguematch-the-extraplanar-invasion.json) |
 | Roguemon | 374728 | [374728-roguemon.json](./374728-roguemon.json) |
 | RogueMusk | 272942 | [272942-roguemusk.json](./272942-roguemusk.json) |
+| Rogueria: Roguelikes X Tactics | 143585 | [143585-rogueria-roguelikes-x-tactics.json](./143585-rogueria-roguelikes-x-tactics.json) |
 | Rogues Like Beer | 183014 | [183014-rogues-like-beer.json](./183014-rogues-like-beer.json) |
 | Rogues of Europa | 274495 | [274495-rogues-of-europa.json](./274495-rogues-of-europa.json) |
 | Roguesphere | 297227 | [297227-roguesphere.json](./297227-roguesphere.json) |
