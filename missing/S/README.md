@@ -10160,6 +10160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: The Next Generation - Klingon Honor Guard | 84216 | [84216-star-trek-the-next-generation-klingon-honor-guard.json](./84216-star-trek-the-next-generation-klingon-honor-guard.json) |
 | Star Trek: The Next Generation - The Transinium Challenge | 69214 | [69214-star-trek-the-next-generation-the-transinium-challenge.json](./69214-star-trek-the-next-generation-the-transinium-challenge.json) |
 | Star Trek: The Rebel Universe | 15376 | [15376-star-trek-the-rebel-universe.json](./15376-star-trek-the-rebel-universe.json) |
+| Star Trek: Timelines - Steam Fleet Commander Pack | 162713 | [162713-star-trek-timelines-steam-fleet-commander-pack.json](./162713-star-trek-timelines-steam-fleet-commander-pack.json) |
 | Star Trek: Voyager - Across the Unknown | 362088 | [362088-star-trek-voyager-across-the-unknown.json](./362088-star-trek-voyager-across-the-unknown.json) |
 | Star Trek: Voyager - Elite Force Expansion Pack | 77313 | [77313-star-trek-voyager-elite-force-expansion-pack.json](./77313-star-trek-voyager-elite-force-expansion-pack.json) |
 | Star Trigon | 54399 | [54399-star-trigon.json](./54399-star-trigon.json) |
@@ -10783,9 +10784,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam Marines 2 | 57889 | [57889-steam-marines-2.json](./57889-steam-marines-2.json) |
 | Steam Punks | 61085 | [61085-steam-punks.json](./61085-steam-punks.json) |
 | Steam Puppet: Tower Defense | 151670 | [151670-steam-puppet-tower-defense.json](./151670-steam-puppet-tower-defense.json) |
+| Steam Revolution VR | 162710 | [162710-steam-revolution-vr.json](./162710-steam-revolution-vr.json) |
 | Steam Slug | 51262 | [51262-steam-slug.json](./51262-steam-slug.json) |
 | Steam Tactics | 61606 | [61606-steam-tactics.json](./61606-steam-tactics.json) |
 | Steam-Heart's | 45973 | [45973-steam-hearts.json](./45973-steam-hearts.json) |
+| Steam: Rails to Riches - Belgium & Luxembourg Map | 162706 | [162706-steam-rails-to-riches-belgium-and-luxembourg-map.json](./162706-steam-rails-to-riches-belgium-and-luxembourg-map.json) |
+| Steam: Rails to Riches - Carcassonne Map | 162705 | [162705-steam-rails-to-riches-carcassonne-map.json](./162705-steam-rails-to-riches-carcassonne-map.json) |
+| Steam: Rails to Riches - Northern England Map | 162714 | [162714-steam-rails-to-riches-northern-england-map.json](./162714-steam-rails-to-riches-northern-england-map.json) |
+| Steam: Rails to Riches - USA-Canada Map | 162704 | [162704-steam-rails-to-riches-usa-canada-map.json](./162704-steam-rails-to-riches-usa-canada-map.json) |
 | Steam: Rails to Riches Complete Edition | 157531 | [157531-steam-rails-to-riches-complete-edition.json](./157531-steam-rails-to-riches-complete-edition.json) |
 | Steam'd Roller | 269102 | [269102-steamd-roller.json](./269102-steamd-roller.json) |
 | Steambirds Alliance | 36530 | [36530-steambirds-alliance.json](./36530-steambirds-alliance.json) |
@@ -13278,6 +13284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros.: Raiders of the Painting Realms | 323897 | [323897-super-mario-bros-raiders-of-the-painting-realms.json](./323897-super-mario-bros-raiders-of-the-painting-realms.json) |
 | Super Mario Bros.: The 8th Star | 324087 | [324087-super-mario-bros-the-8th-star.json](./324087-super-mario-bros-the-8th-star.json) |
 | Super Mario Bros.: The Cookie of Destiny | 323353 | [323353-super-mario-bros-the-cookie-of-destiny.json](./323353-super-mario-bros-the-cookie-of-destiny.json) |
+| Super Mario Bros.: Two Players Hack | 162716 | [162716-super-mario-bros-two-players-hack.json](./162716-super-mario-bros-two-players-hack.json) |
 | Super Mario Buys Bread | 370294 | [370294-super-mario-buys-bread.json](./370294-super-mario-buys-bread.json) |
 | Super Mario Chronicles | 323870 | [323870-super-mario-chronicles.json](./323870-super-mario-chronicles.json) |
 | Super Mario Classic: Return | 324086 | [324086-super-mario-classic-return.json](./324086-super-mario-classic-return.json) |
@@ -14204,6 +14211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surrounded by Death | 311613 | [311613-surrounded-by-death.json](./311613-surrounded-by-death.json) |
 | Surv | 51986 | [51986-surv.json](./51986-surv.json) |
 | Surv: Last Survival | 105791 | [105791-surv-last-survival.json](./105791-surv-last-survival.json) |
+| Survarium: Steam Shotgun Pack | 162712 | [162712-survarium-steam-shotgun-pack.json](./162712-survarium-steam-shotgun-pack.json) |
 | Survarium: Vepr 'Molot' | 171054 | [171054-survarium-vepr-molot.json](./171054-survarium-vepr-molot.json) |
 | Surveillance | 267684 | [267684-surveillance.json](./267684-surveillance.json) |
 | Surveillance Simulator | 287736 | [287736-surveillance-simulator.json](./287736-surveillance-simulator.json) |
