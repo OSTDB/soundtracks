@@ -3018,6 +3018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide 'N Seek!: Foes DLC | 317954 | [317954-hide-n-seek-foes-dlc.json](./317954-hide-n-seek-foes-dlc.json) |
 | Hide 'N Seek!: Friends DLC | 317955 | [317955-hide-n-seek-friends-dlc.json](./317955-hide-n-seek-friends-dlc.json) |
 | Hide & Chick | 206196 | [206196-hide-and-chick.json](./206196-hide-and-chick.json) |
+| Hide & Dance! | 146759 | [146759-hide-and-dance.json](./146759-hide-and-dance.json) |
 | Hide & Seek World | 188552 | [188552-hide-and-seek-world.json](./188552-hide-and-seek-world.json) |
 | Hide and Moo! | 414286 | [414286-hide-and-moo.json](./414286-hide-and-moo.json) |
 | Hide and Secret Treasure of the Ages | 32874 | [32874-hide-and-secret-treasure-of-the-ages.json](./32874-hide-and-secret-treasure-of-the-ages.json) |
@@ -3805,6 +3806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home_0 | 325661 | [325661-home-0.json](./325661-home-0.json) |
 | Home: Boov Pop! | 344931 | [344931-home-boov-pop.json](./344931-home-boov-pop.json) |
 | Home: Mother | 305762 | [305762-home-mother.json](./305762-home-mother.json) |
+| Home: Postmortem Edition | 146776 | [146776-home-postmortem-edition.json](./146776-home-postmortem-edition.json) |
 | Home's Embrace | 177403 | [177403-homes-embrace.json](./177403-homes-embrace.json) |
 | Homebody | 202698 | [202698-homebody.json](./202698-homebody.json) |
 | Homebound | 178519 | [178519-homebound.json](./178519-homebound.json) |
