@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T07:16:01.478Z",
-  "total_soundtracks": 1454,
+  "generated_at": "2026-09-27T13:51:05.659Z",
+  "total_soundtracks": 1455,
   "games": [
     {
       "igdb_id": 7522,
@@ -11778,6 +11778,20 @@
           "album_name": "Rise of the Tomb Raider (Official Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5wRvkOWkIYe7YhyAvUABN9",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 28512,
+      "game_name": "Risk of Rain 2",
+      "game_url": "https://ostdb.net/games/risk-of-rain-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736697f4b4355ca2590ad808be",
+      "albums": [
+        {
+          "album_name": "Risk of Rain 2",
+          "spotify_url": "https://open.spotify.com/album/3eFWXLdogrCHW11f8ZQLoa",
+          "apple_music_url": "https://music.apple.com/us/album/risk-of-rain-2/1524853282",
           "album_link_url": ""
         }
       ]
