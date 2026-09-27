@@ -1171,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeptuneGL | 83563 | [83563-neptunegl.json](./83563-neptunegl.json) |
 | Neptunia GameMaker R:Evolution | 247467 | [247467-neptunia-gamemaker-r-evolution.json](./247467-neptunia-gamemaker-r-evolution.json) |
 | Neptunia reVerse | 139072 | [139072-neptunia-reverse.json](./139072-neptunia-reverse.json) |
+| Neptunia reVerse: Day One Edition | 142370 | [142370-neptunia-reverse-day-one-edition.json](./142370-neptunia-reverse-day-one-edition.json) |
 | Neptunia: Virtual Stars | 135338 | [135338-neptunia-virtual-stars.json](./135338-neptunia-virtual-stars.json) |
 | Neptunia: Virtual Stars - Emotional Limited Edition | 167057 | [167057-neptunia-virtual-stars-emotional-limited-edition.json](./167057-neptunia-virtual-stars-emotional-limited-edition.json) |
 | Neptunia: Virtual Stars - VIP Edition | 186890 | [186890-neptunia-virtual-stars-vip-edition.json](./186890-neptunia-virtual-stars-vip-edition.json) |
