@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UltiMage | 385191 | [385191-ultimage.json](./385191-ultimage.json) |
 | Ultimagus | 29845 | [29845-ultimagus.json](./29845-ultimagus.json) |
 | UltiMahjong | 289928 | [289928-ultimahjong.json](./289928-ultimahjong.json) |
+| Ultimate 1v1 | 125902 | [125902-ultimate-1v1.json](./125902-ultimate-1v1.json) |
 | Ultimate 20-Game Bundle | 392766 | [392766-ultimate-20-game-bundle.json](./392766-ultimate-20-game-bundle.json) |
 | Ultimate 8 Ball Pool | 415309 | [415309-ultimate-8-ball-pool.json](./415309-ultimate-8-ball-pool.json) |
 | Ultimate Action Hero | 306364 | [306364-ultimate-action-hero.json](./306364-ultimate-action-hero.json) |
@@ -548,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unalive 010 | 247441 | [247441-unalive-010.json](./247441-unalive-010.json) |
 | Unanchored Spaceshooting | 390226 | [390226-unanchored-spaceshooting.json](./390226-unanchored-spaceshooting.json) |
 | Unanimy | 211756 | [211756-unanimy.json](./211756-unanimy.json) |
+| Unannounced Survival Game | 125919 | [125919-unannounced-survival-game.json](./125919-unannounced-survival-game.json) |
 | Unanswered | 401529 | [401529-unanswered.json](./401529-unanswered.json) |
 | Unawake | 173247 | [173247-unawake.json](./173247-unawake.json) |
 | UNB | 335890 | [335890-unb.json](./335890-unb.json) |
