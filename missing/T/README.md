@@ -8484,6 +8484,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne of Bone | 207355 | [207355-throne-of-bone.json](./207355-throne-of-bone.json) |
 | Throne of Egypt | 356707 | [356707-throne-of-egypt.json](./356707-throne-of-egypt.json) |
 | Throne of Fate | 159132 | [159132-throne-of-fate.json](./159132-throne-of-fate.json) |
+| Throne of Fate: Hell Demon | 171905 | [171905-throne-of-fate-hell-demon.json](./171905-throne-of-fate-hell-demon.json) |
+| Throne of Fate: Tiger Roar | 171904 | [171904-throne-of-fate-tiger-roar.json](./171904-throne-of-fate-tiger-roar.json) |
 | Throne of Magic | 108502 | [108502-throne-of-magic.json](./108502-throne-of-magic.json) |
 | Throne of Valoria | 323194 | [323194-throne-of-valoria.json](./323194-throne-of-valoria.json) |
 | Throne Quest | 112953 | [112953-throne-quest.json](./112953-throne-quest.json) |
@@ -9629,6 +9631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timo the Game | 370911 | [370911-timo-the-game.json](./370911-timo-the-game.json) |
 | Timo's Adventures | 143708 | [143708-timos-adventures.json](./143708-timos-adventures.json) |
 | Timore | 159172 | [159172-timore.json](./159172-timore.json) |
+| Timore 5: The Flood | 171942 | [171942-timore-5-the-flood.json](./171942-timore-5-the-flood.json) |
 | Timore 6 | 111636 | [111636-timore-6.json](./111636-timore-6.json) |
 | Timore Narhelma | 317381 | [317381-timore-narhelma.json](./317381-timore-narhelma.json) |
 | Timothy | 64992 | [64992-timothy.json](./64992-timothy.json) |
@@ -9949,6 +9952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Die in the Shade | 281425 | [281425-to-die-in-the-shade.json](./281425-to-die-in-the-shade.json) |
 | To Duel List | 151704 | [151704-to-duel-list.json](./151704-to-duel-list.json) |
 | To Dust | 259824 | [259824-to-dust.json](./259824-to-dust.json) |
+| To End All Wars: Breaking the Deadlock | 171955 | [171955-to-end-all-wars-breaking-the-deadlock.json](./171955-to-end-all-wars-breaking-the-deadlock.json) |
 | To Hell in a Hamper | 60019 | [60019-to-hell-in-a-hamper.json](./60019-to-hell-in-a-hamper.json) |
 | To Hell With the Ugly | 158137 | [158137-to-hell-with-the-ugly.json](./158137-to-hell-with-the-ugly.json) |
 | To Kill A Black Swan | 183371 | [183371-to-kill-a-black-swan.json](./183371-to-kill-a-black-swan.json) |
@@ -11078,6 +11082,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touken Ranbu Warriors: Uchiban Outfit 16-piece Set | 224518 | [224518-touken-ranbu-warriors-uchiban-outfit-16-piece-set.json](./224518-touken-ranbu-warriors-uchiban-outfit-16-piece-set.json) |
 | Touken Ranbu: Online Pocket | 194031 | [194031-touken-ranbu-online-pocket.json](./194031-touken-ranbu-online-pocket.json) |
 | Touki Kyouka | 82490 | [82490-touki-kyouka.json](./82490-touki-kyouka.json) |
+| Toukiden: Kiwami - Mission Collection 1-3 | 171916 | [171916-toukiden-kiwami-mission-collection-1-3.json](./171916-toukiden-kiwami-mission-collection-1-3.json) |
+| Toukiden: Kiwami - Mission Collection 4-7 | 171917 | [171917-toukiden-kiwami-mission-collection-4-7.json](./171917-toukiden-kiwami-mission-collection-4-7.json) |
+| Toukiden: Kiwami - Mission Collection 8-11 | 171918 | [171918-toukiden-kiwami-mission-collection-8-11.json](./171918-toukiden-kiwami-mission-collection-8-11.json) |
 | Toukiden: The Age of Demons | 8658 | [8658-toukiden-the-age-of-demons.json](./8658-toukiden-the-age-of-demons.json) |
 | Touko in Underland | 312764 | [312764-touko-in-underland.json](./312764-touko-in-underland.json) |
 | Toumayhem | 202857 | [202857-toumayhem.json](./202857-toumayhem.json) |
