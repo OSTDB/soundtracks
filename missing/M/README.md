@@ -1392,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Odyssey | 113699 | [113699-marble-odyssey.json](./113699-marble-odyssey.json) |
 | Marble on Rails | 370916 | [370916-marble-on-rails.json](./370916-marble-on-rails.json) |
 | Marble Park | 235135 | [235135-marble-park.json](./235135-marble-park.json) |
+| Marble Parkour 2: Roll and Roll | 163186 | [163186-marble-parkour-2-roll-and-roll.json](./163186-marble-parkour-2-roll-and-roll.json) |
 | Marble Partner | 119756 | [119756-marble-partner.json](./119756-marble-partner.json) |
 | Marble Run 2D | 87990 | [87990-marble-run-2d.json](./87990-marble-run-2d.json) |
 | Marble Souls | 412504 | [412504-marble-souls.json](./412504-marble-souls.json) |
@@ -5062,6 +5063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mines | 102817 | [102817-mines.json](./102817-mines.json) |
 | Mines | 205095 | [205095-mines.json](./205095-mines.json) |
 | Mines & Dragons | 163994 | [163994-mines-and-dragons.json](./163994-mines-and-dragons.json) |
+| Mines of Dalarnia | 163220 | [163220-mines-of-dalarnia.json](./163220-mines-of-dalarnia.json) |
 | Mines of Minos | 18534 | [18534-mines-of-minos.json](./18534-mines-of-minos.json) |
 | Mines of Moria | 248063 | [248063-mines-of-moria.json](./248063-mines-of-moria.json) |
 | Mines Of Moritania | 253446 | [253446-mines-of-moritania.json](./253446-mines-of-moritania.json) |
@@ -5517,6 +5519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing In Action | 40806 | [40806-missing-in-action.json](./40806-missing-in-action.json) |
 | Missing Information | 169325 | [169325-missing-information.json](./169325-missing-information.json) |
 | Missing Kitty | 258724 | [258724-missing-kitty.json](./258724-missing-kitty.json) |
+| Missing Love | 163199 | [163199-missing-love.json](./163199-missing-love.json) |
 | Missing Memories | 257088 | [257088-missing-memories.json](./257088-missing-memories.json) |
 | Missing Mildred | 189190 | [189190-missing-mildred.json](./189190-missing-mildred.json) |
 | Missing Parts 2: The Tantei Stories | 64673 | [64673-missing-parts-2-the-tantei-stories.json](./64673-missing-parts-2-the-tantei-stories.json) |
