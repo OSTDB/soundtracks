@@ -2007,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Life | 11822 | [11822-beach-life.json](./11822-beach-life.json) |
 | Beach Life Simulator | 371247 | [371247-beach-life-simulator.json](./371247-beach-life-simulator.json) |
 | Beach Pong | 109736 | [109736-beach-pong.json](./109736-beach-pong.json) |
+| Beach Relaxation VR | 160146 | [160146-beach-relaxation-vr.json](./160146-beach-relaxation-vr.json) |
 | Beach Resort Simulator | 36189 | [36189-beach-resort-simulator.json](./36189-beach-resort-simulator.json) |
 | Beach Restaurant | 80924 | [80924-beach-restaurant.json](./80924-beach-restaurant.json) |
 | Beach Rules | 81784 | [81784-beach-rules.json](./81784-beach-rules.json) |
@@ -2230,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeatBlast: Rhythm Rampage | 325006 | [325006-beatblast-rhythm-rampage.json](./325006-beatblast-rhythm-rampage.json) |
 | BeatBlasters III | 9045 | [9045-beatblasters-iii.json](./9045-beatblasters-iii.json) |
 | BeatBlox | 68648 | [68648-beatblox.json](./68648-beatblox.json) |
+| BeatBox Runner | 160130 | [160130-beatbox-runner.json](./160130-beatbox-runner.json) |
 | Beatbuddy: On Tour | 34170 | [34170-beatbuddy-on-tour.json](./34170-beatbuddy-on-tour.json) |
 | Beatcraft Cyclon | 232683 | [232683-beatcraft-cyclon.json](./232683-beatcraft-cyclon.json) |
 | Beatem Tom and Jerry | 100822 | [100822-beatem-tom-and-jerry.json](./100822-beatem-tom-and-jerry.json) |
@@ -6869,6 +6871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulby: Diamond Course | 33042 | [33042-bulby-diamond-course.json](./33042-bulby-diamond-course.json) |
 | Bule Form | 158224 | [158224-bule-form.json](./158224-bule-form.json) |
 | Bulk | 390638 | [390638-bulk.json](./390638-bulk.json) |
+| Bulk Dominoes VR: Kinetic Rush | 160141 | [160141-bulk-dominoes-vr-kinetic-rush.json](./160141-bulk-dominoes-vr-kinetic-rush.json) |
 | Bull Fighter | 40273 | [40273-bull-fighter.json](./40273-bull-fighter.json) |
 | Bull-Bia Ricky | 291456 | [291456-bull-bia-ricky.json](./291456-bull-bia-ricky.json) |
 | Bull3000VRTS | 369649 | [369649-bull3000vrts.json](./369649-bull3000vrts.json) |
