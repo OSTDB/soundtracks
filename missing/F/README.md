@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faif | 128576 | [128576-faif.json](./128576-faif.json) |
 | Fail Factory! | 196314 | [196314-fail-factory.json](./196314-fail-factory.json) |
 | Fail Hard | 39225 | [39225-fail-hard.json](./39225-fail-hard.json) |
+| Fail to Win | 125929 | [125929-fail-to-win.json](./125929-fail-to-win.json) |
 | Fail to Win: Chapter 1 | 114988 | [114988-fail-to-win-chapter-1.json](./114988-fail-to-win-chapter-1.json) |
 | Fail World | 356064 | [356064-fail-world.json](./356064-fail-world.json) |
 | Failed State | 98375 | [98375-failed-state.json](./98375-failed-state.json) |
@@ -3670,6 +3671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Mustaches | 260201 | [260201-flying-mustaches.json](./260201-flying-mustaches.json) |
 | Flying Neko Delivery | 202136 | [202136-flying-neko-delivery.json](./202136-flying-neko-delivery.json) |
 | Flying Propeller | 161777 | [161777-flying-propeller.json](./161777-flying-propeller.json) |
+| Flying PuPu | 125926 | [125926-flying-pupu.json](./125926-flying-pupu.json) |
 | Flying Saucer | 358845 | [358845-flying-saucer.json](./358845-flying-saucer.json) |
 | Flying Shot | 127766 | [127766-flying-shot.json](./127766-flying-shot.json) |
 | Flying Soldiers | 146863 | [146863-flying-soldiers.json](./146863-flying-soldiers.json) |
@@ -5525,6 +5527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Metal Planet | 12110 | [12110-full-metal-planet.json](./12110-full-metal-planet.json) |
 | Full Metal Schoolgirl | 352205 | [352205-full-metal-schoolgirl.json](./352205-full-metal-schoolgirl.json) |
 | Full Metal Sergeant | 189108 | [189108-full-metal-sergeant.json](./189108-full-metal-sergeant.json) |
+| Full Moon | 125910 | [125910-full-moon.json](./125910-full-moon.json) |
 | Full Moon Fishing | 383396 | [383396-full-moon-fishing.json](./383396-full-moon-fishing.json) |
 | Full Moon Guildhouse Simulator | 366251 | [366251-full-moon-guildhouse-simulator.json](./366251-full-moon-guildhouse-simulator.json) |
 | Full of Crap | 288838 | [288838-full-of-crap.json](./288838-full-of-crap.json) |
