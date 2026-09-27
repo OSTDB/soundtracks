@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B Team: Metal Cartoon Squad | 21252 | [21252-b-team-metal-cartoon-squad.json](./21252-b-team-metal-cartoon-squad.json) |
 | B u r n t | 181392 | [181392-b-u-r-n-t.json](./181392-b-u-r-n-t.json) |
 | B-17 Flying Fortress the Bloody 100th | 223421 | [223421-b-17-flying-fortress-the-bloody-100th.json](./223421-b-17-flying-fortress-the-bloody-100th.json) |
+| B-17 Squadron | 171924 | [171924-b-17-squadron.json](./171924-b-17-squadron.json) |
 | B-Boy | 20565 | [20565-b-boy.json](./20565-b-boy.json) |
 | B-Cubed | 159169 | [159169-b-cubed.json](./159169-b-cubed.json) |
 | B-e-e-t-l-e | 178507 | [178507-b-e-e-t-l-e.json](./178507-b-e-e-t-l-e.json) |
@@ -1942,6 +1943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be (Not) Afraid | 356832 | [356832-be-not-afraid.json](./356832-be-not-afraid.json) |
 | Be A Bee | 351090 | [351090-be-a-bee.json](./351090-be-a-bee.json) |
 | Be a King | 80245 | [80245-be-a-king.json](./80245-be-a-king.json) |
+| Be a Maid in the Demon World: The Secret Cafe of the Demon Angel Hero | 171960 | [171960-be-a-maid-in-the-demon-world-the-secret-cafe-of-the-demon-angel-hero.json](./171960-be-a-maid-in-the-demon-world-the-secret-cafe-of-the-demon-angel-hero.json) |
 | Be a Pirate | 143746 | [143746-be-a-pirate.json](./143746-be-a-pirate.json) |
 | Be Brave, Barb | 331143 | [331143-be-brave-barb.json](./331143-be-brave-barb.json) |
 | Be Funny Now! | 194440 | [194440-be-funny-now.json](./194440-be-funny-now.json) |
