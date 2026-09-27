@@ -3687,6 +3687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Duck Song Game | 205616 | [205616-the-duck-song-game.json](./205616-the-duck-song-game.json) |
 | The Ducksuckers | 195245 | [195245-the-ducksuckers.json](./195245-the-ducksuckers.json) |
 | The Duduk Master | 232433 | [232433-the-duduk-master.json](./232433-the-duduk-master.json) |
+| The Duel: Reloaded | 124668 | [124668-the-duel-reloaded.json](./124668-the-duel-reloaded.json) |
 | The Dukes of Hazzard: Racing for Home | 144950 | [144950-the-dukes-of-hazzard-racing-for-home.json](./144950-the-dukes-of-hazzard-racing-for-home.json) |
 | The Dukes of Hazzard: Racing for Home | 49889 | [49889-the-dukes-of-hazzard-racing-for-home.json](./49889-the-dukes-of-hazzard-racing-for-home.json) |
 | The Dukes of Hazzard: Return of the General Lee | 5818 | [5818-the-dukes-of-hazzard-return-of-the-general-lee.json](./5818-the-dukes-of-hazzard-return-of-the-general-lee.json) |
@@ -8086,6 +8087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wild Thornberrys Movie | 49372 | [49372-the-wild-thornberrys-movie.json](./49372-the-wild-thornberrys-movie.json) |
 | The Wild Thornberrys: Chimp Chase | 49373 | [49373-the-wild-thornberrys-chimp-chase.json](./49373-the-wild-thornberrys-chimp-chase.json) |
 | The Wild Thornberrys' Animal Adventures | 8014 | [8014-the-wild-thornberrys-animal-adventures.json](./8014-the-wild-thornberrys-animal-adventures.json) |
+| The Will 2 - The Castle 1999 | 124682 | [124682-the-will-2-the-castle-1999.json](./124682-the-will-2-the-castle-1999.json) |
 | The Will of a Single Tale | 100117 | [100117-the-will-of-a-single-tale.json](./100117-the-will-of-a-single-tale.json) |
 | The Will of Dr. Frankenstein | 66715 | [66715-the-will-of-dr-frankenstein.json](./66715-the-will-of-dr-frankenstein.json) |
 | The Williams Family Sacrifice | 385860 | [385860-the-williams-family-sacrifice.json](./385860-the-williams-family-sacrifice.json) |
@@ -8663,6 +8665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Games | 178427 | [178427-three-games.json](./178427-three-games.json) |
 | Three Glyph Tiles | 256307 | [256307-three-glyph-tiles.json](./256307-three-glyph-tiles.json) |
 | Three Goblin Wobblin' | 267076 | [267076-three-goblin-wobblin.json](./267076-three-goblin-wobblin.json) |
+| Three Guys That Paint | 124674 | [124674-three-guys-that-paint.json](./124674-three-guys-that-paint.json) |
 | Three Hoops | 233076 | [233076-three-hoops.json](./233076-three-hoops.json) |
 | Three Kingdom: The Journey | 166618 | [166618-three-kingdom-the-journey.json](./166618-three-kingdom-the-journey.json) |
 | Three Kingdom: Zhang Jiao Revival | 374060 | [374060-three-kingdom-zhang-jiao-revival.json](./374060-three-kingdom-zhang-jiao-revival.json) |
@@ -8721,6 +8724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne of Fate | 159132 | [159132-throne-of-fate.json](./159132-throne-of-fate.json) |
 | Throne of Fate: Hell Demon | 171905 | [171905-throne-of-fate-hell-demon.json](./171905-throne-of-fate-hell-demon.json) |
 | Throne of Fate: Tiger Roar | 171904 | [171904-throne-of-fate-tiger-roar.json](./171904-throne-of-fate-tiger-roar.json) |
+| Throne of Gods | 124692 | [124692-throne-of-gods.json](./124692-throne-of-gods.json) |
 | Throne of Magic | 108502 | [108502-throne-of-magic.json](./108502-throne-of-magic.json) |
 | Throne of Valoria | 323194 | [323194-throne-of-valoria.json](./323194-throne-of-valoria.json) |
 | Throne Quest | 112953 | [112953-throne-quest.json](./112953-throne-quest.json) |
@@ -10559,6 +10563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokoro-san no Mah-Mahjong | 125974 | [125974-tokoro-san-no-mah-mahjong.json](./125974-tokoro-san-no-mah-mahjong.json) |
 | Tokoro's Mahjong | 37786 | [37786-tokoros-mahjong.json](./37786-tokoros-mahjong.json) |
 | Tokoro's Mahjong Jr. | 126011 | [126011-tokoros-mahjong-jr.json](./126011-tokoros-mahjong-jr.json) |
+| TokoToko | 124705 | [124705-tokotoko.json](./124705-tokotoko.json) |
 | Tokoyo ni Ochiru Hana | 163358 | [163358-tokoyo-ni-ochiru-hana.json](./163358-tokoyo-ni-ochiru-hana.json) |
 | Tokumei Sentai Go-Busters | 63581 | [63581-tokumei-sentai-go-busters.json](./63581-tokumei-sentai-go-busters.json) |
 | Tokusatsu Bouken Katsugeki Super Hero Retsuden | 58778 | [58778-tokusatsu-bouken-katsugeki-super-hero-retsuden.json](./58778-tokusatsu-bouken-katsugeki-super-hero-retsuden.json) |
@@ -13286,6 +13291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Yatzy for iPad | 101494 | [101494-triple-yatzy-for-ipad.json](./101494-triple-yatzy-for-ipad.json) |
 | Triple Zombie Collection | 274443 | [274443-triple-zombie-collection.json](./274443-triple-zombie-collection.json) |
 | Triple Zoo | 232185 | [232185-triple-zoo.json](./232185-triple-zoo.json) |
+| TripleA | 124699 | [124699-triplea.json](./124699-triplea.json) |
 | TripleBuilder | 161168 | [161168-triplebuilder.json](./161168-triplebuilder.json) |
 | Triplets Trouble!!! | 262903 | [262903-triplets-trouble.json](./262903-triplets-trouble.json) |
 | Tripp | 144866 | [144866-tripp.json](./144866-tripp.json) |
