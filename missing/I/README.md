@@ -2070,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interference | 56447 | [56447-interference.json](./56447-interference.json) |
 | Interference: Dead Air | 211199 | [211199-interference-dead-air.json](./211199-interference-dead-air.json) |
 | Intergalactic | 263025 | [263025-intergalactic.json](./263025-intergalactic.json) |
+| Intergalactic Ambassador | 141753 | [141753-intergalactic-ambassador.json](./141753-intergalactic-ambassador.json) |
 | Intergalactic Defenders | 340757 | [340757-intergalactic-defenders.json](./340757-intergalactic-defenders.json) |
 | Intergalactic Fishing | 111754 | [111754-intergalactic-fishing.json](./111754-intergalactic-fishing.json) |
 | Intergalactic Galactic Dinosaur Banana | 85537 | [85537-intergalactic-galactic-dinosaur-banana.json](./85537-intergalactic-galactic-dinosaur-banana.json) |
@@ -2166,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InterSpace | 258209 | [258209-interspace.json](./258209-interspace.json) |
 | Interstate 35 | 322155 | [322155-interstate-35.json](./322155-interstate-35.json) |
 | Interstate Cowboys | 292322 | [292322-interstate-cowboys.json](./292322-interstate-cowboys.json) |
+| Interstate Drifter 1999 | 141776 | [141776-interstate-drifter-1999.json](./141776-interstate-drifter-1999.json) |
 | Interstate Drifter 1999: Hyperdrive | 296936 | [296936-interstate-drifter-1999-hyperdrive.json](./296936-interstate-drifter-1999-hyperdrive.json) |
 | Interstellar Connection | 183013 | [183013-interstellar-connection.json](./183013-interstellar-connection.json) |
 | Interstellar Dragon: Into the depths... of space! | 374670 | [374670-interstellar-dragon-into-the-depths-of-space.json](./374670-interstellar-dragon-into-the-depths-of-space.json) |
