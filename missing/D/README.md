@@ -6494,6 +6494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Walker | 365851 | [365851-dream-walker.json](./365851-dream-walker.json) |
 | Dream Warrior | 13612 | [13612-dream-warrior.json](./13612-dream-warrior.json) |
 | Dream Warrior | 307899 | [307899-dream-warrior.json](./307899-dream-warrior.json) |
+| Dream Watcher | 142947 | [142947-dream-watcher.json](./142947-dream-watcher.json) |
 | Dream Wave'84 | 379870 | [379870-dream-wave84.json](./379870-dream-wave84.json) |
 | Dream Well | 205104 | [205104-dream-well.json](./205104-dream-well.json) |
 | Dream Wires | 180240 | [180240-dream-wires.json](./180240-dream-wires.json) |
@@ -7432,6 +7433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Quest | 2880 | [2880-dungeon-quest.json](./2880-dungeon-quest.json) |
 | Dungeon Raid | 22459 | [22459-dungeon-raid.json](./22459-dungeon-raid.json) |
 | Dungeon Raid: Zero Floor | 365888 | [365888-dungeon-raid-zero-floor.json](./365888-dungeon-raid-zero-floor.json) |
+| Dungeon Rampage | 142975 | [142975-dungeon-rampage.json](./142975-dungeon-rampage.json) |
 | Dungeon Rankers | 105086 | [105086-dungeon-rankers.json](./105086-dungeon-rankers.json) |
 | Dungeon Raze | 327593 | [327593-dungeon-raze.json](./327593-dungeon-raze.json) |
 | Dungeon Re-Delve | 278422 | [278422-dungeon-re-delve.json](./278422-dungeon-re-delve.json) |
