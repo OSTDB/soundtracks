@@ -1220,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Base Defense | 380002 | [380002-base-defense.json](./380002-base-defense.json) |
 | Base Defense VR | 167804 | [167804-base-defense-vr.json](./167804-base-defense-vr.json) |
 | Base Defense! | 208909 | [208909-base-defense.json](./208909-base-defense.json) |
+| Base Jump | 153323 | [153323-base-jump.json](./153323-base-jump.json) |
 | Base Jump: Wing Suit Flying | 199114 | [199114-base-jump-wing-suit-flying.json](./199114-base-jump-wing-suit-flying.json) |
 | Base Jumping | 323839 | [323839-base-jumping.json](./323839-base-jumping.json) |
 | Base Raid | 31808 | [31808-base-raid.json](./31808-base-raid.json) |
@@ -6141,6 +6142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BreakBall | 304651 | [304651-breakball.json](./304651-breakball.json) |
 | BreakBall: Time Travel | 146890 | [146890-breakball-time-travel.json](./146890-breakball-time-travel.json) |
 | Breakbeat Alley | 200048 | [200048-breakbeat-alley.json](./200048-breakbeat-alley.json) |
+| BreakBlast | 153330 | [153330-breakblast.json](./153330-breakblast.json) |
 | Breaker | 175825 | [175825-breaker.json](./175825-breaker.json) |
 | Breaker's World | 199131 | [199131-breakers-world.json](./199131-breakers-world.json) |
 | Breakers | 315054 | [315054-breakers.json](./315054-breakers.json) |
@@ -7367,6 +7369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterflies: Episode 1 - Rudies | 134666 | [134666-butterflies-episode-1-rudies.json](./134666-butterflies-episode-1-rudies.json) |
 | ButterFlight | 98934 | [98934-butterflight.json](./98934-butterflight.json) |
 | Butterflowers | 186180 | [186180-butterflowers.json](./186180-butterflowers.json) |
+| Butterfly 3: Funny Twins | 153340 | [153340-butterfly-3-funny-twins.json](./153340-butterfly-3-funny-twins.json) |
 | Butterfly Æffect: Papillons à Quatre Mains | 381148 | [381148-butterfly-ffect-papillons-a-quatre-mains.json](./381148-butterfly-ffect-papillons-a-quatre-mains.json) |
 | Butterfly Bundle | 218489 | [218489-butterfly-bundle.json](./218489-butterfly-bundle.json) |
 | Butterfly Collector | 183536 | [183536-butterfly-collector.json](./183536-butterfly-collector.json) |
