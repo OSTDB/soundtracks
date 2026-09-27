@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic 4 | 3914 | [3914-fantastic-4.json](./3914-fantastic-4.json) |
 | Fantastic 4 in a Row HD | 70407 | [70407-fantastic-4-in-a-row-hd.json](./70407-fantastic-4-in-a-row-hd.json) |
 | Fantastic Children | 49578 | [49578-fantastic-children.json](./49578-fantastic-children.json) |
+| Fantastic Contraption | 168671 | [168671-fantastic-contraption.json](./168671-fantastic-contraption.json) |
 | Fantastic Contraption Classic 1 & 2 | 169227 | [169227-fantastic-contraption-classic-1-and-2.json](./169227-fantastic-contraption-classic-1-and-2.json) |
 | Fantastic Dizzy | 12089 | [12089-fantastic-dizzy.json](./12089-fantastic-dizzy.json) |
 | Fantastic Fetus: Prebirth | 205113 | [205113-fantastic-fetus-prebirth.json](./205113-fantastic-fetus-prebirth.json) |
@@ -3070,6 +3071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flatland Vol.2 | 140612 | [140612-flatland-vol-2.json](./140612-flatland-vol-2.json) |
 | Flatland: Prologue | 132035 | [132035-flatland-prologue.json](./132035-flatland-prologue.json) |
 | Flatlands | 349949 | [349949-flatlands.json](./349949-flatlands.json) |
+| Flatline | 168652 | [168652-flatline.json](./168652-flatline.json) |
 | FlatOut | 2667 | [2667-flatout.json](./2667-flatout.json) |
 | FlatOut 4: Total Insanity VR | 360782 | [360782-flatout-4-total-insanity-vr.json](./360782-flatout-4-total-insanity-vr.json) |
 | FlatOut 4: Total Insanity Workshop Tools | 90606 | [90606-flatout-4-total-insanity-workshop-tools.json](./90606-flatout-4-total-insanity-workshop-tools.json) |
@@ -5252,6 +5254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Golf | 34363 | [34363-fruit-golf.json](./34363-fruit-golf.json) |
 | Fruit Hoop 2 | 358311 | [358311-fruit-hoop-2.json](./358311-fruit-hoop-2.json) |
 | Fruit Jammin' | 245807 | [245807-fruit-jammin.json](./245807-fruit-jammin.json) |
+| Fruit Juice | 168648 | [168648-fruit-juice.json](./168648-fruit-juice.json) |
 | Fruit Language Opinions | 128637 | [128637-fruit-language-opinions.json](./128637-fruit-language-opinions.json) |
 | Fruit Link Go 3 | 89585 | [89585-fruit-link-go-3.json](./89585-fruit-link-go-3.json) |
 | Fruit Loops | 271999 | [271999-fruit-loops.json](./271999-fruit-loops.json) |
