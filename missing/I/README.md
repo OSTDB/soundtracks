@@ -1979,10 +1979,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insurgence: Second Assault - Remastered | 240805 | [240805-insurgence-second-assault-remastered.json](./240805-insurgence-second-assault-remastered.json) |
 | Insurgency Runner | 258485 | [258485-insurgency-runner.json](./258485-insurgency-runner.json) |
 | Insurgency: Sandstorm - Chemical Combat Gear Set | 321157 | [321157-insurgency-sandstorm-chemical-combat-gear-set.json](./321157-insurgency-sandstorm-chemical-combat-gear-set.json) |
+| Insurgency: Sandstorm - Deluxe Edition | 169171 | [169171-insurgency-sandstorm-deluxe-edition.json](./169171-insurgency-sandstorm-deluxe-edition.json) |
 | Insurgency: Sandstorm - Desert Veteran Weapon Skin Set | 321159 | [321159-insurgency-sandstorm-desert-veteran-weapon-skin-set.json](./321159-insurgency-sandstorm-desert-veteran-weapon-skin-set.json) |
 | Insurgency: Sandstorm - Digital Splatter Skin Set | 273937 | [273937-insurgency-sandstorm-digital-splatter-skin-set.json](./273937-insurgency-sandstorm-digital-splatter-skin-set.json) |
 | Insurgency: Sandstorm - Digital Splatter Weapon Skin Set | 274588 | [274588-insurgency-sandstorm-digital-splatter-weapon-skin-set.json](./274588-insurgency-sandstorm-digital-splatter-weapon-skin-set.json) |
 | Insurgency: Sandstorm - Dusty Weapon Skin Set | 321160 | [321160-insurgency-sandstorm-dusty-weapon-skin-set.json](./321160-insurgency-sandstorm-dusty-weapon-skin-set.json) |
+| Insurgency: Sandstorm - Gold Edition | 169172 | [169172-insurgency-sandstorm-gold-edition.json](./169172-insurgency-sandstorm-gold-edition.json) |
 | Insurgency: Sandstorm - Mountain Tactical Gear Set | 273935 | [273935-insurgency-sandstorm-mountain-tactical-gear-set.json](./273935-insurgency-sandstorm-mountain-tactical-gear-set.json) |
 | Insurgency: Sandstorm - Onslaught Set Bundle | 273934 | [273934-insurgency-sandstorm-onslaught-set-bundle.json](./273934-insurgency-sandstorm-onslaught-set-bundle.json) |
 | Insurgency: Sandstorm - Protective Gear Set | 321158 | [321158-insurgency-sandstorm-protective-gear-set.json](./321158-insurgency-sandstorm-protective-gear-set.json) |
