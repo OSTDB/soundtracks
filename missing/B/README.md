@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Guy: Neighborhood | 193494 | [193494-bad-guy-neighborhood.json](./193494-bad-guy-neighborhood.json) |
 | Bad Guys at School | 128352 | [128352-bad-guys-at-school.json](./128352-bad-guys-at-school.json) |
 | Bad Heroes | 373206 | [373206-bad-heroes.json](./373206-bad-heroes.json) |
+| Bad Hombre | 119660 | [119660-bad-hombre.json](./119660-bad-hombre.json) |
 | Bad Impressions | 211424 | [211424-bad-impressions.json](./211424-bad-impressions.json) |
 | Bad Janitor | 346250 | [346250-bad-janitor.json](./346250-bad-janitor.json) |
 | Bad Lands | 39655 | [39655-bad-lands.json](./39655-bad-lands.json) |
@@ -699,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls n Blocks | 120255 | [120255-balls-n-blocks.json](./120255-balls-n-blocks.json) |
 | Balls of Glory Pinball | 261803 | [261803-balls-of-glory-pinball.json](./261803-balls-of-glory-pinball.json) |
 | Balls of Steel Community Project | 229708 | [229708-balls-of-steel-community-project.json](./229708-balls-of-steel-community-project.json) |
+| Balls Out | 119651 | [119651-balls-out.json](./119651-balls-out.json) |
 | Balls Out of Control | 154994 | [154994-balls-out-of-control.json](./154994-balls-out-of-control.json) |
 | Balls Rolling-Plumber, Slither, Line, Fill & Fun! | 108486 | [108486-balls-rolling-plumber-slither-line-fill-and-fun.json](./108486-balls-rolling-plumber-slither-line-fill-and-fun.json) |
 | Balls! | 99982 | [99982-balls.json](./99982-balls.json) |
@@ -2933,6 +2935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Wall | 80968 | [80968-beyond-the-wall.json](./80968-beyond-the-wall.json) |
 | Beyond the Wall of Stars | 68684 | [68684-beyond-the-wall-of-stars.json](./68684-beyond-the-wall-of-stars.json) |
 | Beyond The Walls | 303548 | [303548-beyond-the-walls.json](./303548-beyond-the-walls.json) |
+| Beyond the Wizard | 119666 | [119666-beyond-the-wizard.json](./119666-beyond-the-wizard.json) |
 | Beyond These Stars | 239002 | [239002-beyond-these-stars.json](./239002-beyond-these-stars.json) |
 | Beyond Truth | 184372 | [184372-beyond-truth.json](./184372-beyond-truth.json) |
 | Beyond Up | 386297 | [386297-beyond-up.json](./386297-beyond-up.json) |
@@ -6066,6 +6069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brass Lament | 343277 | [343277-brass-lament.json](./343277-brass-lament.json) |
 | Brass Necessity | 292324 | [292324-brass-necessity.json](./292324-brass-necessity.json) |
 | Brass: Birmingham | 153870 | [153870-brass-birmingham.json](./153870-brass-birmingham.json) |
+| Brassheart | 119650 | [119650-brassheart.json](./119650-brassheart.json) |
 | Brassica: A Marry Tale | 134660 | [134660-brassica-a-marry-tale.json](./134660-brassica-a-marry-tale.json) |
 | Brat | 14343 | [14343-brat.json](./14343-brat.json) |
 | Bratavism | 254577 | [254577-bratavism.json](./254577-bratavism.json) |
@@ -6477,6 +6481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BridgeTeam: Ship Simulator | 190981 | [190981-bridgeteam-ship-simulator.json](./190981-bridgeteam-ship-simulator.json) |
 | Brigadoon: The Quest of Time | 204485 | [204485-brigadoon-the-quest-of-time.json](./204485-brigadoon-the-quest-of-time.json) |
 | Brigador | 13361 | [13361-brigador.json](./13361-brigador.json) |
+| Brigador Killers | 119625 | [119625-brigador-killers.json](./119625-brigador-killers.json) |
 | Brigandine | 143118 | [143118-brigandine.json](./143118-brigandine.json) |
 | Brigandine: The Legend of Runersia | 121960 | [121960-brigandine-the-legend-of-runersia.json](./121960-brigandine-the-legend-of-runersia.json) |
 | Brigandine: The Legend of Runersia - Limited Edition | 136950 | [136950-brigandine-the-legend-of-runersia-limited-edition.json](./136950-brigandine-the-legend-of-runersia-limited-edition.json) |
