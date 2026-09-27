@@ -2972,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden SciFi City Top-Down 3D | 257110 | [257110-hidden-scifi-city-top-down-3d.json](./257110-hidden-scifi-city-top-down-3d.json) |
 | Hidden Series 1 | 258194 | [258194-hidden-series-1.json](./258194-hidden-series-1.json) |
 | Hidden Shapes: Animals + Lovely Cats | 194437 | [194437-hidden-shapes-animals-lovely-cats.json](./194437-hidden-shapes-animals-lovely-cats.json) |
+| Hidden Shapes: Lovely Cats | 148466 | [148466-hidden-shapes-lovely-cats.json](./148466-hidden-shapes-lovely-cats.json) |
 | Hidden Sheep Puzzle | 395839 | [395839-hidden-sheep-puzzle.json](./395839-hidden-sheep-puzzle.json) |
 | Hidden Shy Cats & Dogs Bundle | 325011 | [325011-hidden-shy-cats-and-dogs-bundle.json](./325011-hidden-shy-cats-and-dogs-bundle.json) |
 | Hidden Space Station Top-Down 3D | 340473 | [340473-hidden-space-station-top-down-3d.json](./340473-hidden-space-station-top-down-3d.json) |
