@@ -2581,6 +2581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyoufu Shinbun Heisei-ban: Kaiki! Shinrei File | 336005 | [336005-kyoufu-shinbun-heisei-ban-kaiki-shinrei-file.json](./336005-kyoufu-shinbun-heisei-ban-kaiki-shinrei-file.json) |
 | Kyoufu Yawa | 397907 | [397907-kyoufu-yawa.json](./397907-kyoufu-yawa.json) |
 | Kyouko no Tame ni Kane wa Naru | 205081 | [205081-kyouko-no-tame-ni-kane-wa-naru.json](./205081-kyouko-no-tame-ni-kane-wa-naru.json) |
+| Kyouren no Utage | 150561 | [150561-kyouren-no-utage.json](./150561-kyouren-no-utage.json) |
 | Kyouryuu Ikusei Battle RPG: Kyouryuu Monster | 329749 | [329749-kyouryuu-ikusei-battle-rpg-kyouryuu-monster.json](./329749-kyouryuu-ikusei-battle-rpg-kyouryuu-monster.json) |
 | Kyouryuu Sentai Zyuranger | 48437 | [48437-kyouryuu-sentai-zyuranger.json](./48437-kyouryuu-sentai-zyuranger.json) |
 | Kyoutabi | 236776 | [236776-kyoutabi.json](./236776-kyoutabi.json) |
