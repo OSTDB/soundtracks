@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxian | 277392 | [277392-galaxian.json](./277392-galaxian.json) |
 | Galaxian Sleena | 304143 | [304143-galaxian-sleena.json](./304143-galaxian-sleena.json) |
 | Galaxian3 | 234085 | [234085-galaxian3.json](./234085-galaxian3.json) |
+| Galaxian3: Project Dragoon | 140478 | [140478-galaxian3-project-dragoon.json](./140478-galaxian3-project-dragoon.json) |
 | Galaxians | 308354 | [308354-galaxians.json](./308354-galaxians.json) |
 | Galaxians & Gloops | 319580 | [319580-galaxians-and-gloops.json](./319580-galaxians-and-gloops.json) |
 | Galaxians: Remastered Edition | 308355 | [308355-galaxians-remastered-edition.json](./308355-galaxians-remastered-edition.json) |
@@ -3583,6 +3584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Pilots | 224531 | [224531-great-pilots.json](./224531-great-pilots.json) |
 | Great Powers | 291482 | [291482-great-powers.json](./291482-great-powers.json) |
 | Great Race: Route 66 | 233111 | [233111-great-race-route-66.json](./233111-great-race-route-66.json) |
+| Great Sluggers: New World Stadium | 140480 | [140480-great-sluggers-new-world-stadium.json](./140480-great-sluggers-new-world-stadium.json) |
 | Great Song's Records of Economy | 161644 | [161644-great-songs-records-of-economy.json](./161644-great-songs-records-of-economy.json) |
 | Great Time Trio Remake | 306684 | [306684-great-time-trio-remake.json](./306684-great-time-trio-remake.json) |
 | Great Toilet Simulator | 222289 | [222289-great-toilet-simulator.json](./222289-great-toilet-simulator.json) |
@@ -3797,6 +3799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grievous Survivors | 235680 | [235680-grievous-survivors.json](./235680-grievous-survivors.json) |
 | Griffin | 353993 | [353993-griffin.json](./353993-griffin.json) |
 | Griffin Card | 182847 | [182847-griffin-card.json](./182847-griffin-card.json) |
+| Griftlands: Nintendo Switch Edition | 140501 | [140501-griftlands-nintendo-switch-edition.json](./140501-griftlands-nintendo-switch-edition.json) |
 | Grigala Runner | 110140 | [110140-grigala-runner.json](./110140-grigala-runner.json) |
 | Grill-Off with Ultra Hand! | 50696 | [50696-grill-off-with-ultra-hand.json](./50696-grill-off-with-ultra-hand.json) |
 | Grille Logic | 286580 | [286580-grille-logic.json](./286580-grille-logic.json) |
