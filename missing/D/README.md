@@ -2614,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonrock: War of Ages | 216156 | [216156-demonrock-war-of-ages.json](./216156-demonrock-war-of-ages.json) |
 | Demons and Doobins | 291760 | [291760-demons-and-doobins.json](./291760-demons-and-doobins.json) |
 | Demons are coming! | 278160 | [278160-demons-are-coming.json](./278160-demons-are-coming.json) |
+| Demons Ate My Neighbors! | 138676 | [138676-demons-ate-my-neighbors.json](./138676-demons-ate-my-neighbors.json) |
 | Demons Infernalize | 243376 | [243376-demons-infernalize.json](./243376-demons-infernalize.json) |
 | Demons of Asteborg/Astebros | 260093 | [260093-demons-of-asteborg-astebros.json](./260093-demons-of-asteborg-astebros.json) |
 | Demons of Problematique | 260126 | [260126-demons-of-problematique.json](./260126-demons-of-problematique.json) |
@@ -3315,6 +3316,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo Junior | 186037 | [186037-diablo-junior.json](./186037-diablo-junior.json) |
 | Diablo V | 417647 | [417647-diablo-v.json](./417647-diablo-v.json) |
 | Diablo: Battle Chest | 46976 | [46976-diablo-battle-chest.json](./46976-diablo-battle-chest.json) |
+| Diabolik 01: Inafferrabile Criminale | 138700 | [138700-diabolik-01-inafferrabile-criminale.json](./138700-diabolik-01-inafferrabile-criminale.json) |
+| Diabolik 02: La Gemma di Salomone | 138713 | [138713-diabolik-02-la-gemma-di-salomone.json](./138713-diabolik-02-la-gemma-di-salomone.json) |
 | Diabolik Lovers Chaos Lineage | 113463 | [113463-diabolik-lovers-chaos-lineage.json](./113463-diabolik-lovers-chaos-lineage.json) |
 | Diabolik Lovers: Haunted Dark Bridal - Limited Edition | 44509 | [44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json](./44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json) |
 | Diadem of Manstraut | 407349 | [407349-diadem-of-manstraut.json](./407349-diadem-of-manstraut.json) |
@@ -4149,6 +4152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Fairies: Tinker Bell and the Great Fairy Rescue | 230553 | [230553-disney-fairies-tinker-bell-and-the-great-fairy-rescue.json](./230553-disney-fairies-tinker-bell-and-the-great-fairy-rescue.json) |
 | Disney Fairies: Tinker Bell's Adventure | 50099 | [50099-disney-fairies-tinker-bells-adventure.json](./50099-disney-fairies-tinker-bells-adventure.json) |
 | Disney Friends | 220083 | [220083-disney-friends.json](./220083-disney-friends.json) |
+| Disney Frozen Adventures | 138679 | [138679-disney-frozen-adventures.json](./138679-disney-frozen-adventures.json) |
 | Disney Hot Shots: Disney's Tarzan Jungle Tumble | 231855 | [231855-disney-hot-shots-disneys-tarzan-jungle-tumble.json](./231855-disney-hot-shots-disneys-tarzan-jungle-tumble.json) |
 | Disney Hot Shots: Disney's Terk & Tantor Power Lunch | 231857 | [231857-disney-hot-shots-disneys-terk-and-tantor-power-lunch.json](./231857-disney-hot-shots-disneys-terk-and-tantor-power-lunch.json) |
 | Disney Hotshots: Disney's Tarzan | 231854 | [231854-disney-hotshots-disneys-tarzan.json](./231854-disney-hotshots-disneys-tarzan.json) |
@@ -4168,6 +4172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Princess: Cinderella - Once Upon a Midnight | 221676 | [221676-disney-princess-cinderella-once-upon-a-midnight.json](./221676-disney-princess-cinderella-once-upon-a-midnight.json) |
 | Disney Princess: Enchanted Journey | 17829 | [17829-disney-princess-enchanted-journey.json](./17829-disney-princess-enchanted-journey.json) |
 | Disney Princess: Magical Adventures | 221671 | [221671-disney-princess-magical-adventures.json](./221671-disney-princess-magical-adventures.json) |
+| Disney Princess: Majestic Quest | 138680 | [138680-disney-princess-majestic-quest.json](./138680-disney-princess-majestic-quest.json) |
 | Disney Princess: Pop-Up Story Adventures | 230373 | [230373-disney-princess-pop-up-story-adventures.json](./230373-disney-princess-pop-up-story-adventures.json) |
 | Disney Princess: Royal Adventure | 49411 | [49411-disney-princess-royal-adventure.json](./49411-disney-princess-royal-adventure.json) |
 | Disney Princess: Suteki ni Lesson! Hiragana-Katakana | 58849 | [58849-disney-princess-suteki-ni-lesson-hiragana-katakana.json](./58849-disney-princess-suteki-ni-lesson-hiragana-katakana.json) |
@@ -6715,6 +6720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifter | 16772 | [16772-drifter.json](./16772-drifter.json) |
 | Drifter Star: Evolution | 371872 | [371872-drifter-star-evolution.json](./371872-drifter-star-evolution.json) |
 | Drifter's Tales | 195174 | [195174-drifters-tales.json](./195174-drifters-tales.json) |
+| Drifters Loot the Galaxy | 138705 | [138705-drifters-loot-the-galaxy.json](./138705-drifters-loot-the-galaxy.json) |
 | DriftHub | 256007 | [256007-drifthub.json](./256007-drifthub.json) |
 | Driftin.io | 126024 | [126024-driftin-io.json](./126024-driftin-io.json) |
 | Drifting Cloud | 99577 | [99577-drifting-cloud.json](./99577-drifting-cloud.json) |
@@ -6780,6 +6786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive West Coast | 224496 | [224496-drive-west-coast.json](./224496-drive-west-coast.json) |
 | Drive Your Car | 199629 | [199629-drive-your-car.json](./199629-drive-your-car.json) |
 | Drive Zone Online | 269096 | [269096-drive-zone-online.json](./269096-drive-zone-online.json) |
+| Drive-By | 138696 | [138696-drive-by.json](./138696-drive-by.json) |
 | Drive-In | 25134 | [25134-drive-in.json](./25134-drive-in.json) |
 | Driveby Gangster | 34452 | [34452-driveby-gangster.json](./34452-driveby-gangster.json) |
 | DriveCraft | 392909 | [392909-drivecraft.json](./392909-drivecraft.json) |
