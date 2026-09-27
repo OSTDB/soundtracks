@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icewind Dale II: Collector's Edition | 232152 | [232152-icewind-dale-ii-collectors-edition.json](./232152-icewind-dale-ii-collectors-edition.json) |
 | Icewind Dale: Complete | 143699 | [143699-icewind-dale-complete.json](./143699-icewind-dale-complete.json) |
 | Icewind Dale: Enhanced Edition | 36240 | [36240-icewind-dale-enhanced-edition.json](./36240-icewind-dale-enhanced-edition.json) |
+| Icey: Ucey's Awakening | 171943 | [171943-icey-uceys-awakening.json](./171943-icey-uceys-awakening.json) |
 | Ichido ha Yonde Okitai: Nihon Bungaku 100-sen | 269639 | [269639-ichido-ha-yonde-okitai-nihon-bungaku-100-sen.json](./269639-ichido-ha-yonde-okitai-nihon-bungaku-100-sen.json) |
 | Ichigeki: Hagane No Hito | 174632 | [174632-ichigeki-hagane-no-hito.json](./174632-ichigeki-hagane-no-hito.json) |
 | Ichigo's Study Sessions | 361345 | [361345-ichigos-study-sessions.json](./361345-ichigos-study-sessions.json) |
@@ -2626,6 +2627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Racer | 30039 | [30039-island-racer.json](./30039-island-racer.json) |
 | Island Raft Survival 2021: Ocean Escape | 163915 | [163915-island-raft-survival-2021-ocean-escape.json](./163915-island-raft-survival-2021-ocean-escape.json) |
 | Island Saver: Dinosaur Island | 238039 | [238039-island-saver-dinosaur-island.json](./238039-island-saver-dinosaur-island.json) |
+| Island Saver: Fantasy Island | 171915 | [171915-island-saver-fantasy-island.json](./171915-island-saver-fantasy-island.json) |
 | Island Simulator 2016 | 31914 | [31914-island-simulator-2016.json](./31914-island-simulator-2016.json) |
 | Island Supermarket Simulator | 348465 | [348465-island-supermarket-simulator.json](./348465-island-supermarket-simulator.json) |
 | Island Survival | 110172 | [110172-island-survival.json](./110172-island-survival.json) |
