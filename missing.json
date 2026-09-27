@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T05:47:54.754Z",
-  "total_missing": 129176,
+  "generated_at": "2026-09-27T06:03:22.878Z",
+  "total_missing": 129226,
   "games": [
     {
       "igdb_id": 186066,
@@ -19773,6 +19773,11 @@
       "file": "missing/A/157150-altarage.json"
     },
     {
+      "igdb_id": 161165,
+      "game_name": "Altarays",
+      "file": "missing/A/161165-altarays.json"
+    },
+    {
       "igdb_id": 304115,
       "game_name": "Altcode",
       "file": "missing/A/304115-altcode.json"
@@ -20091,6 +20096,11 @@
       "igdb_id": 290688,
       "game_name": "Always 1-1",
       "file": "missing/A/290688-always-1-1.json"
+    },
+    {
+      "igdb_id": 161185,
+      "game_name": "Always a New Journey",
+      "file": "missing/A/161185-always-a-new-journey.json"
     },
     {
       "igdb_id": 297062,
@@ -22826,6 +22836,11 @@
       "igdb_id": 318618,
       "game_name": "And one day everything changed...",
       "file": "missing/A/318618-and-one-day-everything-changed.json"
+    },
+    {
+      "igdb_id": 161176,
+      "game_name": "And Other Stories",
+      "file": "missing/A/161176-and-other-stories.json"
     },
     {
       "igdb_id": 324784,
@@ -30796,6 +30811,16 @@
       "igdb_id": 98263,
       "game_name": "Arcus III",
       "file": "missing/A/98263-arcus-iii.json"
+    },
+    {
+      "igdb_id": 161152,
+      "game_name": "Arcuz",
+      "file": "missing/A/161152-arcuz.json"
+    },
+    {
+      "igdb_id": 161153,
+      "game_name": "Arcuz II: Dungeons",
+      "file": "missing/A/161153-arcuz-ii-dungeons.json"
     },
     {
       "igdb_id": 182264,
@@ -44266,6 +44291,11 @@
       "igdb_id": 189181,
       "game_name": "Ballad of Ba'al",
       "file": "missing/B/189181-ballad-of-baal.json"
+    },
+    {
+      "igdb_id": 161182,
+      "game_name": "Ballad of the Asura",
+      "file": "missing/B/161182-ballad-of-the-asura.json"
     },
     {
       "igdb_id": 132255,
@@ -81126,6 +81156,11 @@
       "igdb_id": 113692,
       "game_name": "Cantrip Cafe",
       "file": "missing/C/113692-cantrip-cafe.json"
+    },
+    {
+      "igdb_id": 161156,
+      "game_name": "Canvas Colors: In the Moving City",
+      "file": "missing/C/161156-canvas-colors-in-the-moving-city.json"
     },
     {
       "igdb_id": 259576,
@@ -126463,6 +126498,11 @@
       "file": "missing/D/248600-dc-universe-online-episode-45-shock-to-the-system.json"
     },
     {
+      "igdb_id": 161187,
+      "game_name": "DC Universe Online: Episode Pack I",
+      "file": "missing/D/161187-dc-universe-online-episode-pack-i.json"
+    },
+    {
       "igdb_id": 43496,
       "game_name": "DC Wonder: Unlimited",
       "file": "missing/D/43496-dc-wonder-unlimited.json"
@@ -137263,6 +137303,11 @@
       "file": "missing/D/188489-dicey-towers.json"
     },
     {
+      "igdb_id": 161159,
+      "game_name": "Dichotomy",
+      "file": "missing/D/161159-dichotomy.json"
+    },
+    {
       "igdb_id": 344580,
       "game_name": "Dichotomy",
       "file": "missing/D/344580-dichotomy.json"
@@ -140113,6 +140158,11 @@
       "file": "missing/D/174188-disciples-liberation-deluxe-edition.json"
     },
     {
+      "igdb_id": 161183,
+      "game_name": "Disciples: Liberation - Digital Deluxe Edition",
+      "file": "missing/D/161183-disciples-liberation-digital-deluxe-edition.json"
+    },
+    {
       "igdb_id": 11405,
       "game_name": "Disciples: Sacred Lands Gold",
       "file": "missing/D/11405-disciples-sacred-lands-gold.json"
@@ -140371,6 +140421,11 @@
       "igdb_id": 245842,
       "game_name": "Disease Z",
       "file": "missing/D/245842-disease-z.json"
+    },
+    {
+      "igdb_id": 161161,
+      "game_name": "Disenchantment Heart",
+      "file": "missing/D/161161-disenchantment-heart.json"
     },
     {
       "igdb_id": 405533,
@@ -210018,6 +210073,11 @@
       "file": "missing/G/41613-gears-of-war-ultimate-edition-and-rare-replay.json"
     },
     {
+      "igdb_id": 161180,
+      "game_name": "Gears Triple Bundle",
+      "file": "missing/G/161180-gears-triple-bundle.json"
+    },
+    {
       "igdb_id": 117651,
       "game_name": "GearStorm",
       "file": "missing/G/117651-gearstorm.json"
@@ -217366,6 +217426,11 @@
       "igdb_id": 313473,
       "game_name": "Godforged: Origins of Ozgalor",
       "file": "missing/G/313473-godforged-origins-of-ozgalor.json"
+    },
+    {
+      "igdb_id": 161172,
+      "game_name": "Godkiller",
+      "file": "missing/G/161172-godkiller.json"
     },
     {
       "igdb_id": 202666,
@@ -225938,6 +226003,11 @@
       "file": "missing/G/159254-guild-wars-2-end-of-dragons.json"
     },
     {
+      "igdb_id": 161181,
+      "game_name": "Guild Wars 2: End of Dragons - Deluxe Edition",
+      "file": "missing/G/161181-guild-wars-2-end-of-dragons-deluxe-edition.json"
+    },
+    {
       "igdb_id": 13183,
       "game_name": "Guild Wars 2: Heart of Thorns",
       "file": "missing/G/13183-guild-wars-2-heart-of-thorns.json"
@@ -227901,6 +227971,11 @@
       "igdb_id": 184097,
       "game_name": "Gura's Adventure",
       "file": "missing/G/184097-guras-adventure.json"
+    },
+    {
+      "igdb_id": 161177,
+      "game_name": "Gura's Birthday",
+      "file": "missing/G/161177-guras-birthday.json"
     },
     {
       "igdb_id": 296948,
@@ -238201,6 +238276,11 @@
       "igdb_id": 309474,
       "game_name": "Hentai Breeding Simulator",
       "file": "missing/H/309474-hentai-breeding-simulator.json"
+    },
+    {
+      "igdb_id": 161162,
+      "game_name": "Hentai Brick Breaker 2",
+      "file": "missing/H/161162-hentai-brick-breaker-2.json"
     },
     {
       "igdb_id": 226162,
@@ -255021,6 +255101,11 @@
       "igdb_id": 329547,
       "game_name": "I Am Here, I Won't Disappear. I Am Here, I Won't...",
       "file": "missing/I/329547-i-am-here-i-wont-disappear-i-am-here-i-wont.json"
+    },
+    {
+      "igdb_id": 161173,
+      "game_name": "I Am Human!",
+      "file": "missing/I/161173-i-am-human.json"
     },
     {
       "igdb_id": 337826,
@@ -272696,6 +272781,11 @@
       "igdb_id": 254449,
       "game_name": "Jieitai World",
       "file": "missing/J/254449-jieitai-world.json"
+    },
+    {
+      "igdb_id": 161164,
+      "game_name": "Jiēxiànyuán de Shǐmìng",
+      "file": "missing/J/161164-jiexianyuan-de-shiming.json"
     },
     {
       "igdb_id": 209987,
@@ -296043,6 +296133,11 @@
       "file": "missing/L/66939-legend-of-camelot.json"
     },
     {
+      "igdb_id": 161160,
+      "game_name": "Legend of Chilli Tree",
+      "file": "missing/L/161160-legend-of-chilli-tree.json"
+    },
+    {
       "igdb_id": 80874,
       "game_name": "Legend of Coin",
       "file": "missing/L/80874-legend-of-coin.json"
@@ -300653,6 +300748,11 @@
       "file": "missing/L/343849-light-in-the-woods.json"
     },
     {
+      "igdb_id": 161157,
+      "game_name": "Light Infantry",
+      "file": "missing/L/161157-light-infantry.json"
+    },
+    {
       "igdb_id": 357818,
       "game_name": "Light Instinct",
       "file": "missing/L/357818-light-instinct.json"
@@ -302776,6 +302876,11 @@
       "igdb_id": 64956,
       "game_name": "Little Acorns",
       "file": "missing/L/64956-little-acorns.json"
+    },
+    {
+      "igdb_id": 161167,
+      "game_name": "Little adventure 2",
+      "file": "missing/L/161167-little-adventure-2.json"
     },
     {
       "igdb_id": 325834,
@@ -326613,6 +326718,11 @@
       "file": "missing/M/151559-medium-naut.json"
     },
     {
+      "igdb_id": 161158,
+      "game_name": "Medium: The Psychic Party Game",
+      "file": "missing/M/161158-medium-the-psychic-party-game.json"
+    },
+    {
       "igdb_id": 304578,
       "game_name": "Medival Hustle",
       "file": "missing/M/304578-medival-hustle.json"
@@ -331513,6 +331623,11 @@
       "file": "missing/M/308247-metal-eye-2.json"
     },
     {
+      "igdb_id": 161166,
+      "game_name": "Metal Faith",
+      "file": "missing/M/161166-metal-faith.json"
+    },
+    {
       "igdb_id": 65197,
       "game_name": "Metal Fight Beyblade Portable: Chouzetsu Tensei! Vulcan Horuseus",
       "file": "missing/M/65197-metal-fight-beyblade-portable-chouzetsu-tensei-vulcan-horuseus.json"
@@ -334521,6 +334636,11 @@
       "igdb_id": 89860,
       "game_name": "Midnight Mysteries: Devil on the Mississippi - Collector's Edition",
       "file": "missing/M/89860-midnight-mysteries-devil-on-the-mississippi-collectors-edition.json"
+    },
+    {
+      "igdb_id": 161175,
+      "game_name": "Midnight on the Milky Way",
+      "file": "missing/M/161175-midnight-on-the-milky-way.json"
     },
     {
       "igdb_id": 342907,
@@ -374923,6 +375043,11 @@
       "file": "missing/O/21119-officers.json"
     },
     {
+      "igdb_id": 161163,
+      "game_name": "Officespace",
+      "file": "missing/O/161163-officespace.json"
+    },
+    {
       "igdb_id": 275582,
       "game_name": "Official AFL: The Interactive DVD Trivia Game - Adelaide Super Quiz",
       "file": "missing/O/275582-official-afl-the-interactive-dvd-trivia-game-adelaide-super-quiz.json"
@@ -388626,6 +388751,11 @@
       "igdb_id": 350019,
       "game_name": "Paper Bleed",
       "file": "missing/P/350019-paper-bleed.json"
+    },
+    {
+      "igdb_id": 161155,
+      "game_name": "Paper Boats",
+      "file": "missing/P/161155-paper-boats.json"
     },
     {
       "igdb_id": 190178,
@@ -448521,6 +448651,11 @@
       "igdb_id": 164898,
       "game_name": "Ronister Adventure",
       "file": "missing/R/164898-ronister-adventure.json"
+    },
+    {
+      "igdb_id": 161178,
+      "game_name": "Roniu's Tale",
+      "file": "missing/R/161178-ronius-tale.json"
     },
     {
       "igdb_id": 263758,
@@ -537923,6 +538058,11 @@
       "file": "missing/T/394174-teraburst.json"
     },
     {
+      "igdb_id": 161170,
+      "game_name": "Terafall",
+      "file": "missing/T/161170-terafall.json"
+    },
+    {
       "igdb_id": 159250,
       "game_name": "Teraphobia",
       "file": "missing/T/159250-teraphobia.json"
@@ -540766,6 +540906,11 @@
       "igdb_id": 126606,
       "game_name": "The Airship Designer",
       "file": "missing/T/126606-the-airship-designer.json"
+    },
+    {
+      "igdb_id": 161171,
+      "game_name": "The Airtight City 2",
+      "file": "missing/T/161171-the-airtight-city-2.json"
     },
     {
       "igdb_id": 45993,
@@ -544776,6 +544921,11 @@
       "igdb_id": 2137,
       "game_name": "The Crew",
       "file": "missing/T/2137-the-crew.json"
+    },
+    {
+      "igdb_id": 161179,
+      "game_name": "The Crew 2: Special Edition",
+      "file": "missing/T/161179-the-crew-2-special-edition.json"
     },
     {
       "igdb_id": 122358,
@@ -558556,6 +558706,11 @@
       "igdb_id": 275328,
       "game_name": "The Ninji Saga Part 1: Birth of a Legend",
       "file": "missing/T/275328-the-ninji-saga-part-1-birth-of-a-legend.json"
+    },
+    {
+      "igdb_id": 161184,
+      "game_name": "The Ninth Way",
+      "file": "missing/T/161184-the-ninth-way.json"
     },
     {
       "igdb_id": 225293,
@@ -574903,6 +575058,11 @@
       "file": "missing/T/160323-tiger-tank-59-i-battleship-mp058.json"
     },
     {
+      "igdb_id": 161150,
+      "game_name": "Tiger Tank 59 I: Battleship MP061",
+      "file": "missing/T/161150-tiger-tank-59-i-battleship-mp061.json"
+    },
+    {
       "igdb_id": 160345,
       "game_name": "Tiger Tank 59 I: Black Hill Fortress MP001",
       "file": "missing/T/160345-tiger-tank-59-i-black-hill-fortress-mp001.json"
@@ -575203,9 +575363,19 @@
       "file": "missing/T/160351-tiger-tank-59-i-mission-pack-029.json"
     },
     {
+      "igdb_id": 161143,
+      "game_name": "Tiger Tank 59 I: Mission Pack 030",
+      "file": "missing/T/161143-tiger-tank-59-i-mission-pack-030.json"
+    },
+    {
       "igdb_id": 160309,
       "game_name": "Tiger Tank 59 I: Mission Pack 033",
       "file": "missing/T/160309-tiger-tank-59-i-mission-pack-033.json"
+    },
+    {
+      "igdb_id": 161146,
+      "game_name": "Tiger Tank 59 I: Mission Pack 043",
+      "file": "missing/T/161146-tiger-tank-59-i-mission-pack-043.json"
     },
     {
       "igdb_id": 160311,
@@ -575213,14 +575383,54 @@
       "file": "missing/T/160311-tiger-tank-59-i-mission-pack-048.json"
     },
     {
+      "igdb_id": 161142,
+      "game_name": "Tiger Tank 59 I: Mission Pack 055",
+      "file": "missing/T/161142-tiger-tank-59-i-mission-pack-055.json"
+    },
+    {
+      "igdb_id": 161139,
+      "game_name": "Tiger Tank 59 I: Mission Pack 056",
+      "file": "missing/T/161139-tiger-tank-59-i-mission-pack-056.json"
+    },
+    {
+      "igdb_id": 161145,
+      "game_name": "Tiger Tank 59 I: Mission Pack 059",
+      "file": "missing/T/161145-tiger-tank-59-i-mission-pack-059.json"
+    },
+    {
       "igdb_id": 160320,
       "game_name": "Tiger Tank 59 I: Mission Pack 062",
       "file": "missing/T/160320-tiger-tank-59-i-mission-pack-062.json"
     },
     {
+      "igdb_id": 161144,
+      "game_name": "Tiger Tank 59 I: Mission Pack 066",
+      "file": "missing/T/161144-tiger-tank-59-i-mission-pack-066.json"
+    },
+    {
+      "igdb_id": 161140,
+      "game_name": "Tiger Tank 59 I: Mission Pack 069",
+      "file": "missing/T/161140-tiger-tank-59-i-mission-pack-069.json"
+    },
+    {
+      "igdb_id": 161138,
+      "game_name": "Tiger Tank 59 I: Mission Pack 073",
+      "file": "missing/T/161138-tiger-tank-59-i-mission-pack-073.json"
+    },
+    {
+      "igdb_id": 161137,
+      "game_name": "Tiger Tank 59 I: Mission Pack 074",
+      "file": "missing/T/161137-tiger-tank-59-i-mission-pack-074.json"
+    },
+    {
       "igdb_id": 160373,
       "game_name": "Tiger Tank 59 I: Mission Pack 079",
       "file": "missing/T/160373-tiger-tank-59-i-mission-pack-079.json"
+    },
+    {
+      "igdb_id": 161147,
+      "game_name": "Tiger Tank 59 I: Mission Pack 080",
+      "file": "missing/T/161147-tiger-tank-59-i-mission-pack-080.json"
     },
     {
       "igdb_id": 160348,
@@ -575236,6 +575446,11 @@
       "igdb_id": 160327,
       "game_name": "Tiger Tank 59 I: Mission Pack 086",
       "file": "missing/T/160327-tiger-tank-59-i-mission-pack-086.json"
+    },
+    {
+      "igdb_id": 161141,
+      "game_name": "Tiger Tank 59 I: Mission Pack 087",
+      "file": "missing/T/161141-tiger-tank-59-i-mission-pack-087.json"
     },
     {
       "igdb_id": 160399,
@@ -575413,6 +575628,11 @@
       "file": "missing/T/160734-tiger-tank-59-i-super-tank-mp028.json"
     },
     {
+      "igdb_id": 161149,
+      "game_name": "Tiger Tank 59 I: Super Tank MP031",
+      "file": "missing/T/161149-tiger-tank-59-i-super-tank-mp031.json"
+    },
+    {
       "igdb_id": 160739,
       "game_name": "Tiger Tank 59 I: Super Tank MP033",
       "file": "missing/T/160739-tiger-tank-59-i-super-tank-mp033.json"
@@ -575486,6 +575706,11 @@
       "igdb_id": 160728,
       "game_name": "Tiger Tank 59 I: Super Tank MP052",
       "file": "missing/T/160728-tiger-tank-59-i-super-tank-mp052.json"
+    },
+    {
+      "igdb_id": 161148,
+      "game_name": "Tiger Tank 59 I: Super Tank MP054",
+      "file": "missing/T/161148-tiger-tank-59-i-super-tank-mp054.json"
     },
     {
       "igdb_id": 160769,
@@ -593313,6 +593538,11 @@
       "file": "missing/T/232185-triple-zoo.json"
     },
     {
+      "igdb_id": 161168,
+      "game_name": "TripleBuilder",
+      "file": "missing/T/161168-triplebuilder.json"
+    },
+    {
       "igdb_id": 262903,
       "game_name": "Triplets Trouble!!!",
       "file": "missing/T/262903-triplets-trouble.json"
@@ -597986,6 +598216,11 @@
       "igdb_id": 52012,
       "game_name": "Tyd wag vir Niemand",
       "file": "missing/T/52012-tyd-wag-vir-niemand.json"
+    },
+    {
+      "igdb_id": 161154,
+      "game_name": "Tyfortress: Tactical Typing",
+      "file": "missing/T/161154-tyfortress-tactical-typing.json"
     },
     {
       "igdb_id": 303079,
@@ -619638,6 +619873,11 @@
       "file": "missing/W/383512-watched.json"
     },
     {
+      "igdb_id": 161186,
+      "game_name": "Watchers: Batter Up Pack",
+      "file": "missing/W/161186-watchers-batter-up-pack.json"
+    },
+    {
       "igdb_id": 225572,
       "game_name": "Watchers: Perfectly Calm Pack",
       "file": "missing/W/225572-watchers-perfectly-calm-pack.json"
@@ -626291,6 +626531,11 @@
       "igdb_id": 65528,
       "game_name": "Wind-Up Knight",
       "file": "missing/W/65528-wind-up-knight.json"
+    },
+    {
+      "igdb_id": 161174,
+      "game_name": "Wind: A Breath of Heart",
+      "file": "missing/W/161174-wind-a-breath-of-heart.json"
     },
     {
       "igdb_id": 325065,
@@ -643446,6 +643691,11 @@
       "igdb_id": 402282,
       "game_name": "Zoe and the Cursed Dreamer",
       "file": "missing/Z/402282-zoe-and-the-cursed-dreamer.json"
+    },
+    {
+      "igdb_id": 161169,
+      "game_name": "Zoelie",
+      "file": "missing/Z/161169-zoelie.json"
     },
     {
       "igdb_id": 18325,
