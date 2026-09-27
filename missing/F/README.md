@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Team Simulation: Project F | 128359 | [128359-f1-team-simulation-project-f.json](./128359-f1-team-simulation-project-f.json) |
 | F1 Tornado | 300877 | [300877-f1-tornado.json](./300877-f1-tornado.json) |
 | F1 Tornado | 65208 | [65208-f1-tornado.json](./65208-f1-tornado.json) |
+| F1-2004 Racing | 138694 | [138694-f1-2004-racing.json](./138694-f1-2004-racing.json) |
 | F1: World Championship Edition | 12083 | [12083-f1-world-championship-edition.json](./12083-f1-world-championship-edition.json) |
 | F15 Flight Simulator VR | 107129 | [107129-f15-flight-simulator-vr.json](./107129-f15-flight-simulator-vr.json) |
 | F18 Pilot Simulator | 174355 | [174355-f18-pilot-simulator.json](./174355-f18-pilot-simulator.json) |
@@ -985,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Starlight | 355219 | [355219-far-starlight.json](./355219-far-starlight.json) |
 | Far Tale | 248020 | [248020-far-tale.json](./248020-far-tale.json) |
 | Far Til Fire: Gi'r Aldrig Op | 129779 | [129779-far-til-fire-gir-aldrig-op.json](./129779-far-til-fire-gir-aldrig-op.json) |
+| Far Worlds | 138662 | [138662-far-worlds.json](./138662-far-worlds.json) |
 | Far-Out | 34792 | [34792-far-out.json](./34792-far-out.json) |
 | FAR: Changing Tides - Deluxe Edition | 187823 | [187823-far-changing-tides-deluxe-edition.json](./187823-far-changing-tides-deluxe-edition.json) |
 | Farabel | 24965 | [24965-farabel.json](./24965-farabel.json) |
@@ -1373,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order Lostbelt No. 5: Olympus | 414357 | [414357-fate-grand-order-lostbelt-no-5-olympus.json](./414357-fate-grand-order-lostbelt-no-5-olympus.json) |
 | Fate/Grand Order Lostbelt No. 6: Avalon Le Fae | 346782 | [346782-fate-grand-order-lostbelt-no-6-avalon-le-fae.json](./346782-fate-grand-order-lostbelt-no-6-avalon-le-fae.json) |
 | Fate/Grand Order VR feat. Mash Kyrielight | 26933 | [26933-fate-grand-order-vr-feat-mash-kyrielight.json](./26933-fate-grand-order-vr-feat-mash-kyrielight.json) |
+| Fate/Grand Order Waltz in the Moonlight/Lostroom | 138703 | [138703-fate-grand-order-waltz-in-the-moonlight-lostroom.json](./138703-fate-grand-order-waltz-in-the-moonlight-lostroom.json) |
 | Fate/Grand Order: Epic of Remnant EX - SE.RA.PH | 414365 | [414365-fate-grand-order-epic-of-remnant-ex-se-ra-ph.json](./414365-fate-grand-order-epic-of-remnant-ex-se-ra-ph.json) |
 | Fate/Grand Order: Epic of Remnant I - Shinjuku | 414364 | [414364-fate-grand-order-epic-of-remnant-i-shinjuku.json](./414364-fate-grand-order-epic-of-remnant-i-shinjuku.json) |
 | Fate/Grand Order: Epic of Remnant III - Shimousa | 414363 | [414363-fate-grand-order-epic-of-remnant-iii-shimousa.json](./414363-fate-grand-order-epic-of-remnant-iii-shimousa.json) |
@@ -1415,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatum Betula + Food Truck Tycoon | 250343 | [250343-fatum-betula-food-truck-tycoon.json](./250343-fatum-betula-food-truck-tycoon.json) |
 | Fatum Betula + Knights & Guns | 246080 | [246080-fatum-betula-knights-and-guns.json](./246080-fatum-betula-knights-and-guns.json) |
 | Fatum Betula + Urban Flow | 252702 | [252702-fatum-betula-urban-flow.json](./252702-fatum-betula-urban-flow.json) |
+| FAU-G: Fearless and United Guards | 138668 | [138668-fau-g-fearless-and-united-guards.json](./138668-fau-g-fearless-and-united-guards.json) |
 | Faucet VR | 89269 | [89269-faucet-vr.json](./89269-faucet-vr.json) |
 | Faul! | 194659 | [194659-faul.json](./194659-faul.json) |
 | Fault Milestone Two Side: Above | 35883 | [35883-fault-milestone-two-side-above.json](./35883-fault-milestone-two-side-above.json) |
@@ -3542,6 +3546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flugrettung: Die Simulation | 334884 | [334884-flugrettung-die-simulation.json](./334884-flugrettung-die-simulation.json) |
 | Fluid | 94223 | [94223-fluid.json](./94223-fluid.json) |
 | Fluid SE | 197645 | [197645-fluid-se.json](./197645-fluid-se.json) |
+| Fluid-Kha | 138681 | [138681-fluid-kha.json](./138681-fluid-kha.json) |
 | Fluidity | 21169 | [21169-fluidity.json](./21169-fluidity.json) |
 | Fluidity: Spin Cycle | 20088 | [20088-fluidity-spin-cycle.json](./20088-fluidity-spin-cycle.json) |
 | Flunky Farm | 224250 | [224250-flunky-farm.json](./224250-flunky-farm.json) |
