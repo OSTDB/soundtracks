@@ -3390,6 +3390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grappling Bagel | 348870 | [348870-grappling-bagel.json](./348870-grappling-bagel.json) |
 | Grappling Hook | 21106 | [21106-grappling-hook.json](./21106-grappling-hook.json) |
 | Grashers | 124247 | [124247-grashers.json](./124247-grashers.json) |
+| Grass Cutter: Mutated Lawns | 120257 | [120257-grass-cutter-mutated-lawns.json](./120257-grass-cutter-mutated-lawns.json) |
 | Grass Life Sim | 328450 | [328450-grass-life-sim.json](./328450-grass-life-sim.json) |
 | Grass Toucher | 373091 | [373091-grass-toucher.json](./373091-grass-toucher.json) |
 | Grassassins | 310049 | [310049-grassassins.json](./310049-grassassins.json) |
@@ -4261,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild & Gals | 346258 | [346258-guild-and-gals.json](./346258-guild-and-gals.json) |
 | Guild Commander | 36097 | [36097-guild-commander.json](./36097-guild-commander.json) |
 | Guild Hall Adventures | 152803 | [152803-guild-hall-adventures.json](./152803-guild-hall-adventures.json) |
+| Guild Loot | 120239 | [120239-guild-loot.json](./120239-guild-loot.json) |
 | Guild Masters | 110317 | [110317-guild-masters.json](./110317-guild-masters.json) |
 | Guild of Darksteel | 137461 | [137461-guild-of-darksteel.json](./137461-guild-of-darksteel.json) |
 | Guild of Dungeoneering: Deluxe Edition | 54075 | [54075-guild-of-dungeoneering-deluxe-edition.json](./54075-guild-of-dungeoneering-deluxe-edition.json) |
@@ -4490,6 +4492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Battle Assault 2 | 45007 | [45007-gundam-battle-assault-2.json](./45007-gundam-battle-assault-2.json) |
 | Gundam Battle Online | 107166 | [107166-gundam-battle-online.json](./107166-gundam-battle-online.json) |
 | Gundam Battle Operation Next | 44538 | [44538-gundam-battle-operation-next.json](./44538-gundam-battle-operation-next.json) |
+| Gundam Battle: Gunpla Warfare | 120305 | [120305-gundam-battle-gunpla-warfare.json](./120305-gundam-battle-gunpla-warfare.json) |
 | Gundam Breaker | 45290 | [45290-gundam-breaker.json](./45290-gundam-breaker.json) |
 | Gundam Breaker 2 | 44552 | [44552-gundam-breaker-2.json](./44552-gundam-breaker-2.json) |
 | Gundam Breaker 3 | 19858 | [19858-gundam-breaker-3.json](./19858-gundam-breaker-3.json) |
