@@ -8426,6 +8426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thoroughbred Breeder II | 37788 | [37788-thoroughbred-breeder-ii.json](./37788-thoroughbred-breeder-ii.json) |
 | Thoroughbred Breeder III | 37787 | [37787-thoroughbred-breeder-iii.json](./37787-thoroughbred-breeder-iii.json) |
 | Thoroughbred Breeder: Sekai Seiha-hen | 61023 | [61023-thoroughbred-breeder-sekai-seiha-hen.json](./61023-thoroughbred-breeder-sekai-seiha-hen.json) |
+| Thoroughbred Tatsu no Eikan: The Victorious Thoroughbreds | 166541 | [166541-thoroughbred-tatsu-no-eikan-the-victorious-thoroughbreds.json](./166541-thoroughbred-tatsu-no-eikan-the-victorious-thoroughbreds.json) |
 | Those Damn Aliens VR | 29937 | [29937-those-damn-aliens-vr.json](./29937-those-damn-aliens-vr.json) |
 | Those Dirty Colonists | 179527 | [179527-those-dirty-colonists.json](./179527-those-dirty-colonists.json) |
 | Those Infernal Girls! | 225744 | [225744-those-infernal-girls.json](./225744-those-infernal-girls.json) |
