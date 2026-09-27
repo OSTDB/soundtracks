@@ -3906,6 +3906,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Hentai Logic Puzzle | 365280 | [365280-classic-hentai-logic-puzzle.json](./365280-classic-hentai-logic-puzzle.json) |
 | Classic Internet Scary Maze Game: Game Boy Edition | 275670 | [275670-classic-internet-scary-maze-game-game-boy-edition.json](./275670-classic-internet-scary-maze-game-game-boy-edition.json) |
 | Classic Invaders | 270765 | [270765-classic-invaders.json](./270765-classic-invaders.json) |
+| Classic Jigsaw Puzzles | 162199 | [162199-classic-jigsaw-puzzles.json](./162199-classic-jigsaw-puzzles.json) |
+| Classic Jigsaw Puzzles: Animals | 162202 | [162202-classic-jigsaw-puzzles-animals.json](./162202-classic-jigsaw-puzzles-animals.json) |
+| Classic Jigsaw Puzzles: Beautifully Illustrated | 162198 | [162198-classic-jigsaw-puzzles-beautifully-illustrated.json](./162198-classic-jigsaw-puzzles-beautifully-illustrated.json) |
+| Classic Jigsaw Puzzles: Forest Jigsaw Puzzles | 162203 | [162203-classic-jigsaw-puzzles-forest-jigsaw-puzzles.json](./162203-classic-jigsaw-puzzles-forest-jigsaw-puzzles.json) |
+| Classic Jigsaw Puzzles: House | 162200 | [162200-classic-jigsaw-puzzles-house.json](./162200-classic-jigsaw-puzzles-house.json) |
+| Classic Jigsaw Puzzles: Puppy | 162201 | [162201-classic-jigsaw-puzzles-puppy.json](./162201-classic-jigsaw-puzzles-puppy.json) |
 | Classic Journey: Nitro | 219175 | [219175-classic-journey-nitro.json](./219175-classic-journey-nitro.json) |
 | Classic Kakuro | 206972 | [206972-classic-kakuro.json](./206972-classic-kakuro.json) |
 | Classic Mario World: The Magic Crystals | 191909 | [191909-classic-mario-world-the-magic-crystals.json](./191909-classic-mario-world-the-magic-crystals.json) |
