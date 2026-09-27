@@ -871,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iii Demake | 284405 | [284405-iii-demake.json](./284405-iii-demake.json) |
 | III Spy | 71453 | [71453-iii-spy.json](./71453-iii-spy.json) |
 | iii: Revolving Wonderland | 151701 | [151701-iii-revolving-wonderland.json](./151701-iii-revolving-wonderland.json) |
+| Iin | 133920 | [133920-iin.json](./133920-iin.json) |
 | IIslands of War | 126162 | [126162-iislands-of-war.json](./126162-iislands-of-war.json) |
 | Iiwake Docchi!? | 251621 | [251621-iiwake-docchi.json](./251621-iiwake-docchi.json) |
 | iJezzball | 88218 | [88218-ijezzball.json](./88218-ijezzball.json) |
