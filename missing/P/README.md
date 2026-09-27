@@ -3465,6 +3465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Fantasy Jigsaws | 389396 | [389396-pixel-puzzles-fantasy-jigsaws.json](./389396-pixel-puzzles-fantasy-jigsaws.json) |
 | Pixel Puzzles Japan Jigsaws | 389414 | [389414-pixel-puzzles-japan-jigsaws.json](./389414-pixel-puzzles-japan-jigsaws.json) |
 | Pixel Puzzles Junior | 33190 | [33190-pixel-puzzles-junior.json](./33190-pixel-puzzles-junior.json) |
+| Pixel Puzzles Traditional Jigsaws | 130274 | [130274-pixel-puzzles-traditional-jigsaws.json](./130274-pixel-puzzles-traditional-jigsaws.json) |
 | Pixel Puzzles Traditional Jigsaws Pack: Korea | 247775 | [247775-pixel-puzzles-traditional-jigsaws-pack-korea.json](./247775-pixel-puzzles-traditional-jigsaws-pack-korea.json) |
 | Pixel Puzzles Traditional Jigsaws Pack: Variety Pack 9 | 260419 | [260419-pixel-puzzles-traditional-jigsaws-pack-variety-pack-9.json](./260419-pixel-puzzles-traditional-jigsaws-pack-variety-pack-9.json) |
 | Pixel Puzzles Traditional Jigsaws: Cats 2 | 357951 | [357951-pixel-puzzles-traditional-jigsaws-cats-2.json](./357951-pixel-puzzles-traditional-jigsaws-cats-2.json) |
@@ -4015,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plastic Soldiers | 111701 | [111701-plastic-soldiers.json](./111701-plastic-soldiers.json) |
 | Plastic Trick | 321592 | [321592-plastic-trick.json](./321592-plastic-trick.json) |
 | PlasticFighter | 310738 | [310738-plasticfighter.json](./310738-plasticfighter.json) |
+| Plastris | 130263 | [130263-plastris.json](./130263-plastris.json) |
 | Plat Wacky Adventure Remastered | 266184 | [266184-plat-wacky-adventure-remastered.json](./266184-plat-wacky-adventure-remastered.json) |
 | Plat4mer | 112972 | [112972-plat4mer.json](./112972-plat4mer.json) |
 | Platboarder | 253415 | [253415-platboarder.json](./253415-platboarder.json) |
@@ -4813,6 +4815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Dice Solitaire Future | 61338 | [61338-poker-dice-solitaire-future.json](./61338-poker-dice-solitaire-future.json) |
 | Poker Drop | 146691 | [146691-poker-drop.json](./146691-poker-drop.json) |
 | Poker Dungeon: Joker's Madness | 310747 | [310747-poker-dungeon-jokers-madness.json](./310747-poker-dungeon-jokers-madness.json) |
+| Poker Extra | 130276 | [130276-poker-extra.json](./130276-poker-extra.json) |
 | Poker for Dummies | 64983 | [64983-poker-for-dummies.json](./64983-poker-for-dummies.json) |
 | Poker Hands | 147993 | [147993-poker-hands.json](./147993-poker-hands.json) |
 | Poker Legends: Omaha Champions | 232560 | [232560-poker-legends-omaha-champions.json](./232560-poker-legends-omaha-champions.json) |
@@ -5525,6 +5528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power at Sea | 55151 | [55151-power-at-sea.json](./55151-power-at-sea.json) |
 | Power Ball 2021 | 150620 | [150620-power-ball-2021.json](./150620-power-ball-2021.json) |
 | Power Ball 2022 | 211954 | [211954-power-ball-2022.json](./211954-power-ball-2022.json) |
+| Power Block | 130286 | [130286-power-block.json](./130286-power-block.json) |
 | Power Champions | 250868 | [250868-power-champions.json](./250868-power-champions.json) |
 | Power Chess | 79900 | [79900-power-chess.json](./79900-power-chess.json) |
 | Power Chips | 382344 | [382344-power-chips.json](./382344-power-chips.json) |
@@ -7740,6 +7744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyschotic Adventures | 53485 | [53485-pyschotic-adventures.json](./53485-pyschotic-adventures.json) |
 | PySol Fan Club Edition | 141728 | [141728-pysol-fan-club-edition.json](./141728-pysol-fan-club-edition.json) |
 | Pythagorea 60° | 309096 | [309096-pythagorea-60.json](./309096-pythagorea-60.json) |
+| Pythagorean Complex | 130288 | [130288-pythagorean-complex.json](./130288-pythagorean-complex.json) |
 | Pythian | 163922 | [163922-pythian.json](./163922-pythian.json) |
 | Pytho's Mask | 60016 | [60016-pythos-mask.json](./60016-pythos-mask.json) |
 | Pythonmancer | 298161 | [298161-pythonmancer.json](./298161-pythonmancer.json) |
