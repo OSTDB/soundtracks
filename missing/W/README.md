@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waiting Game | 114787 | [114787-waiting-game.json](./114787-waiting-game.json) |
 | Waiting on the Finishline | 403791 | [403791-waiting-on-the-finishline.json](./403791-waiting-on-the-finishline.json) |
 | WaiWai Drive | 312353 | [312353-waiwai-drive.json](./312353-waiwai-drive.json) |
+| Wakabayashi Fumie no DS Kabu Lesson | 124127 | [124127-wakabayashi-fumie-no-ds-kabu-lesson.json](./124127-wakabayashi-fumie-no-ds-kabu-lesson.json) |
 | Wakamarina Valley, New Zealand | 134521 | [134521-wakamarina-valley-new-zealand.json](./134521-wakamarina-valley-new-zealand.json) |
 | Wakana Nikki | 229664 | [229664-wakana-nikki.json](./229664-wakana-nikki.json) |
 | Wakatsuya Mura no Tatari | 370300 | [370300-wakatsuya-mura-no-tatari.json](./370300-wakatsuya-mura-no-tatari.json) |
@@ -2064,6 +2065,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why? | 335243 | [335243-why.json](./335243-why.json) |
 | WhyImmortal | 289897 | [289897-whyimmortal.json](./289897-whyimmortal.json) |
 | Whys & Wonders Secrets of Our Bodies | 409656 | [409656-whys-and-wonders-secrets-of-our-bodies.json](./409656-whys-and-wonders-secrets-of-our-bodies.json) |
+| Wi-Fi Taiou Gensen Table Game DS | 124124 | [124124-wi-fi-taiou-gensen-table-game-ds.json](./124124-wi-fi-taiou-gensen-table-game-ds.json) |
+| Wi-Fi Taiou Morita Shogi DS | 124123 | [124123-wi-fi-taiou-morita-shogi-ds.json](./124123-wi-fi-taiou-morita-shogi-ds.json) |
+| Wi-Fi Taiou Yakuman DS | 124122 | [124122-wi-fi-taiou-yakuman-ds.json](./124122-wi-fi-taiou-yakuman-ds.json) |
 | Wi-Fi Taiou: Gensen Table Game Wii | 268206 | [268206-wi-fi-taiou-gensen-table-game-wii.json](./268206-wi-fi-taiou-gensen-table-game-wii.json) |
 | Wibarm | 84248 | [84248-wibarm.json](./84248-wibarm.json) |
 | Wibbly-wobbly Tower | 178421 | [178421-wibbly-wobbly-tower.json](./178421-wibbly-wobbly-tower.json) |
@@ -3419,6 +3423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Reinvention | 267430 | [267430-world-of-reinvention.json](./267430-world-of-reinvention.json) |
 | World of relish | 127251 | [127251-world-of-relish.json](./127251-world-of-relish.json) |
 | World of Retailing | 193472 | [193472-world-of-retailing.json](./193472-world-of-retailing.json) |
+| World of Riders | 124121 | [124121-world-of-riders.json](./124121-world-of-riders.json) |
 | World of Robots | 193757 | [193757-world-of-robots.json](./193757-world-of-robots.json) |
 | World of Rune | 263057 | [263057-world-of-rune.json](./263057-world-of-rune.json) |
 | World of Sea Battle | 59962 | [59962-world-of-sea-battle.json](./59962-world-of-sea-battle.json) |
@@ -3879,6 +3884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wunderheilung | 128560 | [128560-wunderheilung.json](./128560-wunderheilung.json) |
 | Wunderverse | 106359 | [106359-wunderverse.json](./106359-wunderverse.json) |
 | Wunkfall | 413887 | [413887-wunkfall.json](./413887-wunkfall.json) |
+| Wuppo: Definitive Edition | 124120 | [124120-wuppo-definitive-edition.json](./124120-wuppo-definitive-edition.json) |
 | Wurd Torn | 58230 | [58230-wurd-torn.json](./58230-wurd-torn.json) |
 | Wurdweb | 165047 | [165047-wurdweb.json](./165047-wurdweb.json) |
 | Wurmus | 181389 | [181389-wurmus.json](./181389-wurmus.json) |
