@@ -3746,6 +3746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Assault | 89936 | [89936-planet-assault.json](./89936-planet-assault.json) |
 | Planet B24 | 154374 | [154374-planet-b24.json](./154374-planet-b24.json) |
 | Planet Ballet | 179051 | [179051-planet-ballet.json](./179051-planet-ballet.json) |
+| Planet Blood | 156591 | [156591-planet-blood.json](./156591-planet-blood.json) |
 | Planet Bom Bom | 345486 | [345486-planet-bom-bom.json](./345486-planet-bom-bom.json) |
 | Planet Centauri | 34841 | [34841-planet-centauri.json](./34841-planet-centauri.json) |
 | Planet Coaster 2 | 308099 | [308099-planet-coaster-2.json](./308099-planet-coaster-2.json) |
@@ -4152,6 +4153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunger Boyz | 190148 | [190148-plunger-boyz.json](./190148-plunger-boyz.json) |
 | Plunger Simulator | 165653 | [165653-plunger-simulator.json](./165653-plunger-simulator.json) |
 | Plunko | 260187 | [260187-plunko.json](./260187-plunko.json) |
+| Plunkocity | 156571 | [156571-plunkocity.json](./156571-plunkocity.json) |
 | Pluralys | 336112 | [336112-pluralys.json](./336112-pluralys.json) |
 | Plus City | 281416 | [281416-plus-city.json](./281416-plus-city.json) |
 | Plus One | 313894 | [313894-plus-one.json](./313894-plus-one.json) |
@@ -7294,6 +7296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzgun | 98684 | [98684-puzzgun.json](./98684-puzzgun.json) |
 | Puzzl9 | 178650 | [178650-puzzl9.json](./178650-puzzl9.json) |
 | Puzzle & Action: Treasure Hunt | 123590 | [123590-puzzle-and-action-treasure-hunt.json](./123590-puzzle-and-action-treasure-hunt.json) |
+| Puzzle & Chess | 156558 | [156558-puzzle-and-chess.json](./156558-puzzle-and-chess.json) |
 | Puzzle & Dragons | 8590 | [8590-puzzle-and-dragons.json](./8590-puzzle-and-dragons.json) |
 | Puzzle & Dragons Nintendo Switch Edition | 191724 | [191724-puzzle-and-dragons-nintendo-switch-edition.json](./191724-puzzle-and-dragons-nintendo-switch-edition.json) |
 | Puzzle & Dragons Story | 279762 | [279762-puzzle-and-dragons-story.json](./279762-puzzle-and-dragons-story.json) |
