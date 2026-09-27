@@ -1144,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptunia GameMaker R:Evolution | 247467 | [247467-neptunia-gamemaker-r-evolution.json](./247467-neptunia-gamemaker-r-evolution.json) |
 | Neptunia reVerse | 139072 | [139072-neptunia-reverse.json](./139072-neptunia-reverse.json) |
 | Neptunia: Virtual Stars | 135338 | [135338-neptunia-virtual-stars.json](./135338-neptunia-virtual-stars.json) |
+| Neptunia: Virtual Stars - Emotional Limited Edition | 167057 | [167057-neptunia-virtual-stars-emotional-limited-edition.json](./167057-neptunia-virtual-stars-emotional-limited-edition.json) |
 | Neptunia: Virtual Stars - VIP Edition | 186890 | [186890-neptunia-virtual-stars-vip-edition.json](./186890-neptunia-virtual-stars-vip-edition.json) |
 | Neratte chu | 40989 | [40989-neratte-chu.json](./40989-neratte-chu.json) |
 | Nerds & Ammo | 391585 | [391585-nerds-and-ammo.json](./391585-nerds-and-ammo.json) |
@@ -1901,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Before Blackgate | 399096 | [399096-nightmare-before-blackgate.json](./399096-nightmare-before-blackgate.json) |
 | Nightmare Before Disney: Halloween Edition | 270751 | [270751-nightmare-before-disney-halloween-edition.json](./270751-nightmare-before-disney-halloween-edition.json) |
 | Nightmare Below Disney | 270671 | [270671-nightmare-below-disney.json](./270671-nightmare-below-disney.json) |
+| Nightmare Boy: Mongano's Edition | 167047 | [167047-nightmare-boy-monganos-edition.json](./167047-nightmare-boy-monganos-edition.json) |
 | Nightmare Break | 340550 | [340550-nightmare-break.json](./340550-nightmare-break.json) |
 | Nightmare Breaker | 230312 | [230312-nightmare-breaker.json](./230312-nightmare-breaker.json) |
 | Nightmare Burger Hell | 181885 | [181885-nightmare-burger-hell.json](./181885-nightmare-burger-hell.json) |
@@ -2560,6 +2562,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition II | 307125 | [307125-nobunagas-ambition-ii.json](./307125-nobunagas-ambition-ii.json) |
 | Nobunaga's Ambition II | 48287 | [48287-nobunagas-ambition-ii.json](./48287-nobunagas-ambition-ii.json) |
 | Nobunaga's Ambition Mobile | 131367 | [131367-nobunagas-ambition-mobile.json](./131367-nobunagas-ambition-mobile.json) |
+| Nobunaga's Ambition Online: Kakusei no Shou | 167063 | [167063-nobunagas-ambition-online-kakusei-no-shou.json](./167063-nobunagas-ambition-online-kakusei-no-shou.json) |
+| Nobunaga's Ambition Online: Kakusei no Shou - Treasure Box | 167064 | [167064-nobunagas-ambition-online-kakusei-no-shou-treasure-box.json](./167064-nobunagas-ambition-online-kakusei-no-shou-treasure-box.json) |
 | Nobunaga's Ambition: Awakening - Scenario "Brotherly Revolt" | 294852 | [294852-nobunagas-ambition-awakening-scenario-brotherly-revolt.json](./294852-nobunagas-ambition-awakening-scenario-brotherly-revolt.json) |
 | Nobunaga's Ambition: Awakening - Scenario: Battle of Komaki-Nagakute | 283260 | [283260-nobunagas-ambition-awakening-scenario-battle-of-komaki-nagakute.json](./283260-nobunagas-ambition-awakening-scenario-battle-of-komaki-nagakute.json) |
 | Nobunaga's Ambition: Awakening - Set of 6 Scenarios | 347227 | [347227-nobunagas-ambition-awakening-set-of-6-scenarios.json](./347227-nobunagas-ambition-awakening-set-of-6-scenarios.json) |
