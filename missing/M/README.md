@@ -745,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnavody | 277610 | [277610-magnavody.json](./277610-magnavody.json) |
 | Magneboy | 299834 | [299834-magneboy.json](./299834-magneboy.json) |
 | Magnery Reign | 156580 | [156580-magnery-reign.json](./156580-magnery-reign.json) |
+| Magnet Action: Zi | 147890 | [147890-magnet-action-zi.json](./147890-magnet-action-zi.json) |
 | Magnetic Billiards | 47276 | [47276-magnetic-billiards.json](./47276-magnetic-billiards.json) |
 | Magnetic Billiards: Blueprint | 22314 | [22314-magnetic-billiards-blueprint.json](./22314-magnetic-billiards-blueprint.json) |
 | Magnetic By Nature | 17322 | [17322-magnetic-by-nature.json](./17322-magnetic-by-nature.json) |
@@ -6236,6 +6237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkeround | 326219 | [326219-monkeround.json](./326219-monkeround.json) |
 | Monkey Bananza | 146349 | [146349-monkey-bananza.json](./146349-monkey-bananza.json) |
 | Monkey Boxing | 61063 | [61063-monkey-boxing.json](./61063-monkey-boxing.json) |
+| Monkey Business | 147895 | [147895-monkey-business.json](./147895-monkey-business.json) |
 | Monkey Catapult | 323162 | [323162-monkey-catapult.json](./323162-monkey-catapult.json) |
 | Monkey Do | 291484 | [291484-monkey-do.json](./291484-monkey-do.json) |
 | Monkey Doo | 234551 | [234551-monkey-doo.json](./234551-monkey-doo.json) |
@@ -7512,6 +7514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Right Simulator | 348795 | [348795-mr-right-simulator.json](./348795-mr-right-simulator.json) |
 | Mr Snuggles Dungeon Adventure | 310748 | [310748-mr-snuggles-dungeon-adventure.json](./310748-mr-snuggles-dungeon-adventure.json) |
 | Mr Tomato Adventures | 341342 | [341342-mr-tomato-adventures.json](./341342-mr-tomato-adventures.json) |
+| Mr Trials | 147849 | [147849-mr-trials.json](./147849-mr-trials.json) |
 | Mr Trippy | 413206 | [413206-mr-trippy.json](./413206-mr-trippy.json) |
 | Mr Twigs | 114435 | [114435-mr-twigs.json](./114435-mr-twigs.json) |
 | Mr White | 262073 | [262073-mr-white.json](./262073-mr-white.json) |
@@ -7756,6 +7759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi Maze 3D: Complete Edition | 298574 | [298574-multi-maze-3d-complete-edition.json](./298574-multi-maze-3d-complete-edition.json) |
 | Multi Maze 3D: Roll Pack | 293156 | [293156-multi-maze-3d-roll-pack.json](./293156-multi-maze-3d-roll-pack.json) |
 | Multi Play Volleyball | 38363 | [38363-multi-play-volleyball.json](./38363-multi-play-volleyball.json) |
+| Multi Quiz | 147850 | [147850-multi-quiz.json](./147850-multi-quiz.json) |
 | Multi Sandbox | 102751 | [102751-multi-sandbox.json](./102751-multi-sandbox.json) |
 | Multi Sports | 94688 | [94688-multi-sports.json](./94688-multi-sports.json) |
 | Multi Sports II | 301579 | [301579-multi-sports-ii.json](./301579-multi-sports-ii.json) |
@@ -8813,6 +8817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery House | 342677 | [342677-mystery-house.json](./342677-mystery-house.json) |
 | Mystery House: Secret Stealth | 88133 | [88133-mystery-house-secret-stealth.json](./88133-mystery-house-secret-stealth.json) |
 | Mystery in the Office | 245840 | [245840-mystery-in-the-office.json](./245840-mystery-in-the-office.json) |
+| Mystery Island II | 147865 | [147865-mystery-island-ii.json](./147865-mystery-island-ii.json) |
 | Mystery Island: Missing Amy | 367614 | [367614-mystery-island-missing-amy.json](./367614-mystery-island-missing-amy.json) |
 | Mystery Legends: Phantom of the Opera - Collector’s Edition | 239602 | [239602-mystery-legends-phantom-of-the-opera-collector-s-edition.json](./239602-mystery-legends-phantom-of-the-opera-collector-s-edition.json) |
 | Mystery Loss | 57029 | [57029-mystery-loss.json](./57029-mystery-loss.json) |
