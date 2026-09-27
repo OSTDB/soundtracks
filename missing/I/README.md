@@ -738,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Universe Creator | 351606 | [351606-idle-universe-creator.json](./351606-idle-universe-creator.json) |
 | Idle Universe: Planet Miner | 231925 | [231925-idle-universe-planet-miner.json](./231925-idle-universe-planet-miner.json) |
 | Idle Warrior | 129679 | [129679-idle-warrior.json](./129679-idle-warrior.json) |
+| Idle Wasteland | 153922 | [153922-idle-wasteland.json](./153922-idle-wasteland.json) |
 | Idle Wasteland: Pet Slot Bundle | 157546 | [157546-idle-wasteland-pet-slot-bundle.json](./157546-idle-wasteland-pet-slot-bundle.json) |
 | Idle Waters | 304604 | [304604-idle-waters.json](./304604-idle-waters.json) |
 | Idle Weaponshop | 261756 | [261756-idle-weaponshop.json](./261756-idle-weaponshop.json) |
