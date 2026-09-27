@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Knight's Move | 89689 | [89689-a-knights-move.json](./89689-a-knights-move.json) |
 | A Knight's Pursuit | 311662 | [311662-a-knights-pursuit.json](./311662-a-knights-pursuit.json) |
 | A Knight's Quest | 109984 | [109984-a-knights-quest.json](./109984-a-knights-quest.json) |
+| A Knights Adventure | 156574 | [156574-a-knights-adventure.json](./156574-a-knights-adventure.json) |
 | A Koopa's Revenge | 261814 | [261814-a-koopas-revenge.json](./261814-a-koopas-revenge.json) |
 | A Koopa's Revenge 2 | 307669 | [307669-a-koopas-revenge-2.json](./307669-a-koopas-revenge-2.json) |
 | A Lab of One's Own | 177848 | [177848-a-lab-of-ones-own.json](./177848-a-lab-of-ones-own.json) |
@@ -1126,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Escape: The Castle | 123428 | [123428-adventure-escape-the-castle.json](./123428-adventure-escape-the-castle.json) |
 | Adventure Escape: Time Library | 123436 | [123436-adventure-escape-time-library.json](./123436-adventure-escape-time-library.json) |
 | Adventure Escape: Xmas Killer | 123429 | [123429-adventure-escape-xmas-killer.json](./123429-adventure-escape-xmas-killer.json) |
+| Adventure Farm VR | 156589 | [156589-adventure-farm-vr.json](./156589-adventure-farm-vr.json) |
 | Adventure Field | 274001 | [274001-adventure-field.json](./274001-adventure-field.json) |
 | Adventure Field 2 | 274002 | [274002-adventure-field-2.json](./274002-adventure-field-2.json) |
 | Adventure Field 3: Definitive Edition | 274003 | [274003-adventure-field-3-definitive-edition.json](./274003-adventure-field-3-definitive-edition.json) |
@@ -4448,6 +4450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquaphobia | 46655 | [46655-aquaphobia.json](./46655-aquaphobia.json) |
 | Aquaplane | 94575 | [94575-aquaplane.json](./94575-aquaplane.json) |
 | Aquapolis SOS | 267398 | [267398-aquapolis-sos.json](./267398-aquapolis-sos.json) |
+| Aquarelle | 156573 | [156573-aquarelle.json](./156573-aquarelle.json) |
 | Aquaria | 297464 | [297464-aquaria.json](./297464-aquaria.json) |
 | Aquaris | 109044 | [109044-aquaris.json](./109044-aquaris.json) |
 | Aquarist: My First Job | 170934 | [170934-aquarist-my-first-job.json](./170934-aquarist-my-first-job.json) |
