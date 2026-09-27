@@ -2302,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Rance: Limited Edition | 185689 | [185689-sengoku-rance-limited-edition.json](./185689-sengoku-rance-limited-edition.json) |
 | Sengoku Turb | 246940 | [246940-sengoku-turb.json](./246940-sengoku-turb.json) |
 | Sengoku Turb: Fanfan I Heart Me Dunce-Doublentendre | 142401 | [142401-sengoku-turb-fanfan-i-heart-me-dunce-doublentendre.json](./142401-sengoku-turb-fanfan-i-heart-me-dunce-doublentendre.json) |
+| Sengoku Warriors 4 DX: 15th Anniversary Box | 136948 | [136948-sengoku-warriors-4-dx-15th-anniversary-box.json](./136948-sengoku-warriors-4-dx-15th-anniversary-box.json) |
 | Senile Wizards | 259815 | [259815-senile-wizards.json](./259815-senile-wizards.json) |
 | Senior Sunset | 384060 | [384060-senior-sunset.json](./384060-senior-sunset.json) |
 | Senity: The Game | 116329 | [116329-senity-the-game.json](./116329-senity-the-game.json) |
@@ -2329,6 +2330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura Reflexions: Yumi Reflexions Course & 9-Outfit Set | 374267 | [374267-senran-kagura-reflexions-yumi-reflexions-course-and-9-outfit-set.json](./374267-senran-kagura-reflexions-yumi-reflexions-course-and-9-outfit-set.json) |
 | Senran Kagura: Estival Versus | 11006 | [11006-senran-kagura-estival-versus.json](./11006-senran-kagura-estival-versus.json) |
 | Senran Kagura: Estival Versus - Endless Summer Edition | 42677 | [42677-senran-kagura-estival-versus-endless-summer-edition.json](./42677-senran-kagura-estival-versus-endless-summer-edition.json) |
+| Senran Kagura: Peach and Reflexions Limited Double Pack | 136928 | [136928-senran-kagura-peach-and-reflexions-limited-double-pack.json](./136928-senran-kagura-peach-and-reflexions-limited-double-pack.json) |
 | Senran Meisuishu Tactics | 83548 | [83548-senran-meisuishu-tactics.json](./83548-senran-meisuishu-tactics.json) |
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
 | Sensations | 252733 | [252733-sensations.json](./252733-sensations.json) |
@@ -2983,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowrun | 7643 | [7643-shadowrun.json](./7643-shadowrun.json) |
 | Shadowrun Chronicles: Boston Lockdown - Missions | 193178 | [193178-shadowrun-chronicles-boston-lockdown-missions.json](./193178-shadowrun-chronicles-boston-lockdown-missions.json) |
 | Shadowrun Chronicles: Infected - Missions | 171365 | [171365-shadowrun-chronicles-infected-missions.json](./171365-shadowrun-chronicles-infected-missions.json) |
+| Shadowrun Collection | 136925 | [136925-shadowrun-collection.json](./136925-shadowrun-collection.json) |
 | Shadowrun: Dragonfall | 22652 | [22652-shadowrun-dragonfall.json](./22652-shadowrun-dragonfall.json) |
 | Shadowrun: Dragonfall - Director's Cut | 8864 | [8864-shadowrun-dragonfall-directors-cut.json](./8864-shadowrun-dragonfall-directors-cut.json) |
 | Shadowrun: Hong Kong | 11772 | [11772-shadowrun-hong-kong.json](./11772-shadowrun-hong-kong.json) |
@@ -3750,6 +3753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiren the Wanderer: The Tower of Fortune and the Dice of Fate | 19460 | [19460-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json](./19460-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json) |
 | Shiren The Wanderer: The Tower of Fortune and the Dice of Fate - Eternal Wanderer Edition | 42676 | [42676-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate-eternal-wanderer-edition.json](./42676-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate-eternal-wanderer-edition.json) |
 | Shirime 2: The Genesis of Butt-Eye | 253854 | [253854-shirime-2-the-genesis-of-butt-eye.json](./253854-shirime-2-the-genesis-of-butt-eye.json) |
+| Shiritsu Berubara Gakuen: Versailles no Bara Re*imagination | 136943 | [136943-shiritsu-berubara-gakuen-versailles-no-bara-re-imagination.json](./136943-shiritsu-berubara-gakuen-versailles-no-bara-re-imagination.json) |
 | Shirley Muldowney's Top Fuel Challenge | 69542 | [69542-shirley-muldowneys-top-fuel-challenge.json](./69542-shirley-muldowneys-top-fuel-challenge.json) |
 | Shiro | 220333 | [220333-shiro.json](./220333-shiro.json) |
 | SHiRO 011 | 97028 | [97028-shiro-011.json](./97028-shiro-011.json) |
@@ -7211,7 +7215,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 1 Spike Bug Fix & Spindash | 198532 | [198532-sonic-1-spike-bug-fix-and-spindash.json](./198532-sonic-1-spike-bug-fix-and-spindash.json) |
 | Sonic 1: South Island Expedition | 215157 | [215157-sonic-1-south-island-expedition.json](./215157-sonic-1-south-island-expedition.json) |
 | Sonic 1: WTF Lame | 323859 | [323859-sonic-1-wtf-lame.json](./323859-sonic-1-wtf-lame.json) |
+| Sonic 2 Dimps Edition | 136920 | [136920-sonic-2-dimps-edition.json](./136920-sonic-2-dimps-edition.json) |
 | Sonic 2 In 1 | 56739 | [56739-sonic-2-in-1.json](./56739-sonic-2-in-1.json) |
+| Sonic 2 Megamix | 136921 | [136921-sonic-2-megamix.json](./136921-sonic-2-megamix.json) |
 | Sonic 2 SMS Remake | 227799 | [227799-sonic-2-sms-remake.json](./227799-sonic-2-sms-remake.json) |
 | Sonic 2: Chaos Adventure | 333957 | [333957-sonic-2-chaos-adventure.json](./333957-sonic-2-chaos-adventure.json) |
 | Sonic 2006 | 310952 | [310952-sonic-2006.json](./310952-sonic-2006.json) |
@@ -15068,6 +15074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylph | 395193 | [395193-sylph.json](./395193-sylph.json) |
 | Sylvan Disappearance | 260974 | [260974-sylvan-disappearance.json](./260974-sylvan-disappearance.json) |
 | Sylvan Idyll | 97284 | [97284-sylvan-idyll.json](./97284-sylvan-idyll.json) |
+| Sylvan Meadows | 136983 | [136983-sylvan-meadows.json](./136983-sylvan-meadows.json) |
 | Sylvan Tale | 19691 | [19691-sylvan-tale.json](./19691-sylvan-tale.json) |
 | Sylvana's Chronicles | 259016 | [259016-sylvanas-chronicles.json](./259016-sylvanas-chronicles.json) |
 | Sylvania Melody | 50555 | [50555-sylvania-melody.json](./50555-sylvania-melody.json) |
