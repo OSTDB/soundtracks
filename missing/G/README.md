@@ -1600,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Party | 304863 | [304863-ghost-party.json](./304863-ghost-party.json) |
 | Ghost Party Nyanbaba | 187846 | [187846-ghost-party-nyanbaba.json](./187846-ghost-party-nyanbaba.json) |
 | Ghost Party: Nemuri-hime | 308873 | [308873-ghost-party-nemuri-hime.json](./308873-ghost-party-nemuri-hime.json) |
+| Ghost Patrol VR | 135117 | [135117-ghost-patrol-vr.json](./135117-ghost-patrol-vr.json) |
 | Ghost Puncher | 211171 | [211171-ghost-puncher.json](./211171-ghost-puncher.json) |
 | Ghost Pursuit VR | 31977 | [31977-ghost-pursuit-vr.json](./31977-ghost-pursuit-vr.json) |
 | Ghost Racer | 174212 | [174212-ghost-racer.json](./174212-ghost-racer.json) |
@@ -2202,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Ranger | 15492 | [15492-gnome-ranger.json](./15492-gnome-ranger.json) |
 | Gnomecart Havoc | 319006 | [319006-gnomecart-havoc.json](./319006-gnomecart-havoc.json) |
 | Gnomes | 37182 | [37182-gnomes.json](./37182-gnomes.json) |
+| Gnomes & Goblins | 135119 | [135119-gnomes-and-goblins.json](./135119-gnomes-and-goblins.json) |
 | Gnomes And Co: The Art of the Build | 137460 | [137460-gnomes-and-co-the-art-of-the-build.json](./137460-gnomes-and-co-the-art-of-the-build.json) |
 | Gnomes and Knights | 317434 | [317434-gnomes-and-knights.json](./317434-gnomes-and-knights.json) |
 | Gnomes and Knights: Path of Success | 347324 | [347324-gnomes-and-knights-path-of-success.json](./347324-gnomes-and-knights-path-of-success.json) |
@@ -2299,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! George Go! | 300394 | [300394-go-george-go.json](./300394-go-george-go.json) |
 | Go! Go! Advance Drive: Muttsu no Machine ni Chousen Da! | 327588 | [327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json](./327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json) |
 | Go! Go! Digger | 227816 | [227816-go-go-digger.json](./227816-go-go-digger.json) |
+| Go! Go! Gooble!! | 135136 | [135136-go-go-gooble.json](./135136-go-go-gooble.json) |
 | Go! Go! Hitchhike | 92296 | [92296-go-go-hitchhike.json](./92296-go-go-hitchhike.json) |
 | Go! Go! Mile Smile | 40178 | [40178-go-go-mile-smile.json](./40178-go-go-mile-smile.json) |
 | Go! Go! PogoGirl | 188125 | [188125-go-go-pogogirl.json](./188125-go-go-pogogirl.json) |
@@ -3524,6 +3527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity in Space | 168664 | [168664-gravity-in-space.json](./168664-gravity-in-space.json) |
 | Gravity Kid | 171601 | [171601-gravity-kid.json](./171601-gravity-kid.json) |
 | Gravity Knight | 413008 | [413008-gravity-knight.json](./413008-gravity-knight.json) |
+| Gravity Lab | 135116 | [135116-gravity-lab.json](./135116-gravity-lab.json) |
 | Gravity Lane 981 | 121601 | [121601-gravity-lane-981.json](./121601-gravity-lane-981.json) |
 | Gravity Machine | 294441 | [294441-gravity-machine.json](./294441-gravity-machine.json) |
 | Gravity Mastery | 144191 | [144191-gravity-mastery.json](./144191-gravity-mastery.json) |
