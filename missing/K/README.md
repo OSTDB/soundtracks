@@ -2026,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kochira Katsushika-ku Kameari Kouen Mae Hashutsujo: Nakagawa Land Dai-race! no Maki | 166505 | [166505-kochira-katsushika-ku-kameari-kouen-mae-hashutsujo-nakagawa-land-dai-race-no-maki.json](./166505-kochira-katsushika-ku-kameari-kouen-mae-hashutsujo-nakagawa-land-dai-race-no-maki.json) |
 | Kochira, Haha Naru Hoshi Yori | 152912 | [152912-kochira-haha-naru-hoshi-yori.json](./152912-kochira-haha-naru-hoshi-yori.json) |
 | Kochiya Sanae no Kamikaze to Tomo ni | 165524 | [165524-kochiya-sanae-no-kamikaze-to-tomo-ni.json](./165524-kochiya-sanae-no-kamikaze-to-tomo-ni.json) |
+| Kochu's Dream | 148423 | [148423-kochus-dream.json](./148423-kochus-dream.json) |
 | Kodama | 262067 | [262067-kodama.json](./262067-kodama.json) |
 | Kode Zero | 362252 | [362252-kode-zero.json](./362252-kode-zero.json) |
 | Kodoku no Yurikago | 260941 | [260941-kodoku-no-yurikago.json](./260941-kodoku-no-yurikago.json) |
