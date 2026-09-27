@@ -2187,6 +2187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pew Pew Zombies | 88300 | [88300-pew-pew-zombies.json](./88300-pew-pew-zombies.json) |
 | PewDiePie: Legend of the Brofist | 15182 | [15182-pewdiepie-legend-of-the-brofist.json](./15182-pewdiepie-legend-of-the-brofist.json) |
 | PewDiePie's Paradise Island | 200637 | [200637-pewdiepies-paradise-island.json](./200637-pewdiepies-paradise-island.json) |
+| PewDiePie's Pixelings | 130817 | [130817-pewdiepies-pixelings.json](./130817-pewdiepies-pixelings.json) |
 | PewDiePie's Tuber Simulator | 23867 | [23867-pewdiepies-tuber-simulator.json](./23867-pewdiepies-tuber-simulator.json) |
 | Pewduckpie 2 - An Unexpected Journey | 101988 | [101988-pewduckpie-2-an-unexpected-journey.json](./101988-pewduckpie-2-an-unexpected-journey.json) |
 | PewDuckPie: On the Run | 159178 | [159178-pewduckpie-on-the-run.json](./159178-pewduckpie-on-the-run.json) |
@@ -3064,6 +3065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pingo Puzzle Poker | 51167 | [51167-pingo-puzzle-poker.json](./51167-pingo-puzzle-poker.json) |
 | Pingolf | 318601 | [318601-pingolf.json](./318601-pingolf.json) |
 | PingPong Kings VR | 89256 | [89256-pingpong-kings-vr.json](./89256-pingpong-kings-vr.json) |
+| Pingu and Friends | 130803 | [130803-pingu-and-friends.json](./130803-pingu-and-friends.json) |
 | Pingus | 146207 | [146207-pingus.json](./146207-pingus.json) |
 | Pingwinek Kelvin | 142495 | [142495-pingwinek-kelvin.json](./142495-pingwinek-kelvin.json) |
 | Pink 2048 | 211737 | [211737-pink-2048.json](./211737-pink-2048.json) |
@@ -4397,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pog 5 | 165705 | [165705-pog-5.json](./165705-pog-5.json) |
 | Pogglewash | 249504 | [249504-pogglewash.json](./249504-pogglewash.json) |
 | Pogn | 205103 | [205103-pogn.json](./205103-pogn.json) |
+| Pogo | 130837 | [130837-pogo.json](./130837-pogo.json) |
 | Pogo | 45363 | [45363-pogo.json](./45363-pogo.json) |
 | Pogo Addiction Solitaire | 366444 | [366444-pogo-addiction-solitaire.json](./366444-pogo-addiction-solitaire.json) |
 | Pogo Arc | 271695 | [271695-pogo-arc.json](./271695-pogo-arc.json) |
@@ -5513,6 +5516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowBall Deluxe | 412564 | [412564-powball-deluxe.json](./412564-powball-deluxe.json) |
 | Powder VR | 116864 | [116864-powder-vr.json](./116864-powder-vr.json) |
 | Powdergray | 322965 | [322965-powdergray.json](./322965-powdergray.json) |
+| Power | 130818 | [130818-power.json](./130818-power.json) |
 | Power | 164447 | [164447-power.json](./164447-power.json) |
 | Power | 368681 | [368681-power.json](./368681-power.json) |
 | Power (of) Metal | 199599 | [199599-power-of-metal.json](./199599-power-of-metal.json) |
