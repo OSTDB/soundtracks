@@ -1899,6 +1899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleships At Dawn! | 33488 | [33488-battleships-at-dawn.json](./33488-battleships-at-dawn.json) |
 | Battleships Simulator | 407557 | [407557-battleships-simulator.json](./407557-battleships-simulator.json) |
 | BattleSide | 267477 | [267477-battleside.json](./267477-battleside.json) |
+| Battlesight | 132128 | [132128-battlesight.json](./132128-battlesight.json) |
 | Battlesloths 2025: The Great Pizza Wars | 33090 | [33090-battlesloths-2025-the-great-pizza-wars.json](./33090-battlesloths-2025-the-great-pizza-wars.json) |
 | BattleSound | 151739 | [151739-battlesound.json](./151739-battlesound.json) |
 | Battlespace Command | 408067 | [408067-battlespace-command.json](./408067-battlespace-command.json) |
@@ -2343,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beaver Fun | 216355 | [216355-beaver-fun.json](./216355-beaver-fun.json) |
 | Beaver Fun River Run: Steam Edition | 162715 | [162715-beaver-fun-river-run-steam-edition.json](./162715-beaver-fun-river-run-steam-edition.json) |
 | Bebe Miner | 416664 | [416664-bebe-miner.json](./416664-bebe-miner.json) |
+| Beberserker | 132094 | [132094-beberserker.json](./132094-beberserker.json) |
 | Beboop to the Rescue! | 211431 | [211431-beboop-to-the-rescue.json](./211431-beboop-to-the-rescue.json) |
 | Bebop and Tempo | 43893 | [43893-bebop-and-tempo.json](./43893-bebop-and-tempo.json) |
 | Bebylon Battle Royale | 56757 | [56757-bebylon-battle-royale.json](./56757-bebylon-battle-royale.json) |
@@ -3751,6 +3753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Widow: Looking for Love | 220874 | [220874-black-widow-looking-for-love.json](./220874-black-widow-looking-for-love.json) |
 | Black Witchcraft | 60800 | [60800-black-witchcraft.json](./60800-black-witchcraft.json) |
 | Black Wolf | 204993 | [204993-black-wolf.json](./204993-black-wolf.json) |
+| Black Wolves Saga: Weiβ und Schwarz | 132091 | [132091-black-wolves-saga-wei-und-schwarz.json](./132091-black-wolves-saga-wei-und-schwarz.json) |
 | Black Wolves Saga: Weiβ und Schwarz - for Nintendo Switch | 414563 | [414563-black-wolves-saga-wei-und-schwarz-for-nintendo-switch.json](./414563-black-wolves-saga-wei-und-schwarz-for-nintendo-switch.json) |
 | Black Zen White | 344938 | [344938-black-zen-white.json](./344938-black-zen-white.json) |
 | Black, no sugar | 183361 | [183361-black-no-sugar.json](./183361-black-no-sugar.json) |
