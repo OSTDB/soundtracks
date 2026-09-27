@@ -3305,6 +3305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromatic | 200719 | [200719-chromatic.json](./200719-chromatic.json) |
 | Chromatic Battles | 388354 | [388354-chromatic-battles.json](./388354-chromatic-battles.json) |
 | Chromatic Fantasia EX | 98442 | [98442-chromatic-fantasia-ex.json](./98442-chromatic-fantasia-ex.json) |
+| Chromatic Labyrinth | 167603 | [167603-chromatic-labyrinth.json](./167603-chromatic-labyrinth.json) |
 | Chromatic Souls | 200734 | [200734-chromatic-souls.json](./200734-chromatic-souls.json) |
 | Chromatic: Color Puzzles | 134425 | [134425-chromatic-color-puzzles.json](./134425-chromatic-color-puzzles.json) |
 | Chromatrix | 295769 | [295769-chromatrix.json](./295769-chromatrix.json) |
@@ -3505,6 +3506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinema Madness | 310551 | [310551-cinema-madness.json](./310551-cinema-madness.json) |
 | Cinema Manager | 157171 | [157171-cinema-manager.json](./157171-cinema-manager.json) |
 | Cinema Quest | 107249 | [107249-cinema-quest.json](./107249-cinema-quest.json) |
+| Cinema Simulator | 167581 | [167581-cinema-simulator.json](./167581-cinema-simulator.json) |
 | Cinema Theater Tycoon | 358377 | [358377-cinema-theater-tycoon.json](./358377-cinema-theater-tycoon.json) |
 | Cinematrix | 319218 | [319218-cinematrix.json](./319218-cinematrix.json) |
 | CineNerdle | 231638 | [231638-cinenerdle.json](./231638-cinenerdle.json) |
@@ -4768,6 +4770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color SlayerS | 214500 | [214500-color-slayers.json](./214500-color-slayers.json) |
 | Color Slots | 190446 | [190446-color-slots.json](./190446-color-slots.json) |
 | Color Soul: Memories | 124229 | [124229-color-soul-memories.json](./124229-color-soul-memories.json) |
+| Color Souls | 167604 | [167604-color-souls.json](./167604-color-souls.json) |
 | Color Splash: Dinosaurs | 291082 | [291082-color-splash-dinosaurs.json](./291082-color-splash-dinosaurs.json) |
 | Color Splash: Dogs | 261509 | [261509-color-splash-dogs.json](./261509-color-splash-dogs.json) |
 | Color Splash: Fairies | 301834 | [301834-color-splash-fairies.json](./301834-color-splash-fairies.json) |
