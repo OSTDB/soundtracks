@@ -2522,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Valhalla | 224104 | [224104-heroes-of-valhalla.json](./224104-heroes-of-valhalla.json) |
 | Heroes of War | 227471 | [227471-heroes-of-war.json](./227471-heroes-of-war.json) |
 | Heroes of Warland | 112141 | [112141-heroes-of-warland.json](./112141-heroes-of-warland.json) |
+| Heroes of Zaruban | 159652 | [159652-heroes-of-zaruban.json](./159652-heroes-of-zaruban.json) |
 | Heroes Origins | 266205 | [266205-heroes-origins.json](./266205-heroes-origins.json) |
 | Heroes Phantasia | 65495 | [65495-heroes-phantasia.json](./65495-heroes-phantasia.json) |
 | Heroes Ravage | 114433 | [114433-heroes-ravage.json](./114433-heroes-ravage.json) |
