@@ -4730,6 +4730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Cingdom | 334788 | [334788-color-cingdom.json](./334788-color-cingdom.json) |
 | Color Clash | 93980 | [93980-color-clash.json](./93980-color-clash.json) |
 | Color Computer Games #1 | 71247 | [71247-color-computer-games-1.json](./71247-color-computer-games-1.json) |
+| Color Connect | 168679 | [168679-color-connect.json](./168679-color-connect.json) |
 | Color Connect | 397235 | [397235-color-connect.json](./397235-color-connect.json) |
 | Color Course | 185528 | [185528-color-course.json](./185528-color-course.json) |
 | Color Cube | 172053 | [172053-color-cube.json](./172053-color-cube.json) |
@@ -7246,6 +7247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowd Run | 323304 | [323304-crowd-run.json](./323304-crowd-run.json) |
 | Crowd Sign: Emission | 190080 | [190080-crowd-sign-emission.json](./190080-crowd-sign-emission.json) |
 | Crowd Smashers | 29176 | [29176-crowd-smashers.json](./29176-crowd-smashers.json) |
+| Crowded Blue Dot | 168636 | [168636-crowded-blue-dot.json](./168636-crowded-blue-dot.json) |
 | Crowded Dungeon Crawler | 182993 | [182993-crowded-dungeon-crawler.json](./182993-crowded-dungeon-crawler.json) |
 | Crowded Mysteries 2: Winter Romance | 320334 | [320334-crowded-mysteries-2-winter-romance.json](./320334-crowded-mysteries-2-winter-romance.json) |
 | Crowfall | 1126 | [1126-crowfall.json](./1126-crowfall.json) |
