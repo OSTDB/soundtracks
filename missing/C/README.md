@@ -267,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Infinite Warfare - Absolution | 44149 | [44149-call-of-duty-infinite-warfare-absolution.json](./44149-call-of-duty-infinite-warfare-absolution.json) |
 | Call of Duty: Infinite Warfare - Continuum | 28063 | [28063-call-of-duty-infinite-warfare-continuum.json](./28063-call-of-duty-infinite-warfare-continuum.json) |
 | Call of Duty: Infinite Warfare - Legacy Edition | 42896 | [42896-call-of-duty-infinite-warfare-legacy-edition.json](./42896-call-of-duty-infinite-warfare-legacy-edition.json) |
+| Call of Duty: Modern Warfare - Season Five | 136976 | [136976-call-of-duty-modern-warfare-season-five.json](./136976-call-of-duty-modern-warfare-season-five.json) |
 | Call of Duty: Modern Warfare - Season Four | 135220 | [135220-call-of-duty-modern-warfare-season-four.json](./135220-call-of-duty-modern-warfare-season-four.json) |
 | Call of Duty: Modern Warfare - Season Six | 140977 | [140977-call-of-duty-modern-warfare-season-six.json](./140977-call-of-duty-modern-warfare-season-six.json) |
 | Call of Duty: Modern Warfare - Season Three | 135219 | [135219-call-of-duty-modern-warfare-season-three.json](./135219-call-of-duty-modern-warfare-season-three.json) |
@@ -2231,6 +2232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenge Speedball | 157029 | [157029-challenge-speedball.json](./157029-challenge-speedball.json) |
 | Challenge Together! Elementary School Quiz | 399620 | [399620-challenge-together-elementary-school-quiz.json](./399620-challenge-together-elementary-school-quiz.json) |
 | Challenge! | 68608 | [68608-challenge.json](./68608-challenge.json) |
+| Challenger | 136979 | [136979-challenger.json](./136979-challenger.json) |
 | Challengers of Khalea | 76622 | [76622-challengers-of-khalea.json](./76622-challengers-of-khalea.json) |
 | Chalo Chalo | 34292 | [34292-chalo-chalo.json](./34292-chalo-chalo.json) |
 | Chalvo 55: Super Puzzle Action | 7821 | [7821-chalvo-55-super-puzzle-action.json](./7821-chalvo-55-super-puzzle-action.json) |
@@ -6719,6 +6721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Shin Chan: The Storm Called! Flaming Kasukabe Runner!! | 130760 | [130760-crayon-shin-chan-the-storm-called-flaming-kasukabe-runner.json](./130760-crayon-shin-chan-the-storm-called-flaming-kasukabe-runner.json) |
 | Crayon Shin-Chan for Nuon | 138119 | [138119-crayon-shin-chan-for-nuon.json](./138119-crayon-shin-chan-for-nuon.json) |
 | Crayon Shin-Chan Shokkugan! Densetsu o Yobu Omake Daiketsusen!! | 269681 | [269681-crayon-shin-chan-shokkugan-densetsu-o-yobu-omake-daiketsusen.json](./269681-crayon-shin-chan-shokkugan-densetsu-o-yobu-omake-daiketsusen.json) |
+| Crayon Shin-chan: Arashi wo Yobu Cinema-Land - Kachinko Gachinko Daikatsugeki! | 136939 | [136939-crayon-shin-chan-arashi-wo-yobu-cinema-land-kachinko-gachinko-daikatsugeki.json](./136939-crayon-shin-chan-arashi-wo-yobu-cinema-land-kachinko-gachinko-daikatsugeki.json) |
 | Crayon Shin-chan: Arashi wo Yobu Nendororoon Daihenshin! | 20476 | [20476-crayon-shin-chan-arashi-wo-yobu-nendororoon-daihenshin.json](./20476-crayon-shin-chan-arashi-wo-yobu-nendororoon-daihenshin.json) |
 | Crayon Shin-chan: Guu Choki Panic | 346024 | [346024-crayon-shin-chan-guu-choki-panic.json](./346024-crayon-shin-chan-guu-choki-panic.json) |
 | Crayon Shin-chan: Obaka Dainin Den - Susume! Kasukabe Ninja Tai! | 269680 | [269680-crayon-shin-chan-obaka-dainin-den-susume-kasukabe-ninja-tai.json](./269680-crayon-shin-chan-obaka-dainin-den-susume-kasukabe-ninja-tai.json) |
@@ -8011,6 +8014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupid Date | 225264 | [225264-cupid-date.json](./225264-cupid-date.json) |
 | Cupid Island | 190448 | [190448-cupid-island.json](./190448-cupid-island.json) |
 | Cupid Nonogram | 182248 | [182248-cupid-nonogram.json](./182248-cupid-nonogram.json) |
+| Cupid Parasite | 136964 | [136964-cupid-parasite.json](./136964-cupid-parasite.json) |
 | Cupid Parasite: Sweet and Spicy Darling | 200558 | [200558-cupid-parasite-sweet-and-spicy-darling.json](./200558-cupid-parasite-sweet-and-spicy-darling.json) |
 | Cupid's Bargain | 392422 | [392422-cupids-bargain.json](./392422-cupids-bargain.json) |
 | Cupky Jump | 252157 | [252157-cupky-jump.json](./252157-cupky-jump.json) |
