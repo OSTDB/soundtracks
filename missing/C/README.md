@@ -1517,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Clinic Simulator: Vet Hospital | 364075 | [364075-cat-clinic-simulator-vet-hospital.json](./364075-cat-clinic-simulator-vet-hospital.json) |
 | Cat Dance | 178007 | [178007-cat-dance.json](./178007-cat-dance.json) |
 | Cat Dash Go | 236232 | [236232-cat-dash-go.json](./236232-cat-dash-go.json) |
+| Cat Designer Mocha | 152192 | [152192-cat-designer-mocha.json](./152192-cat-designer-mocha.json) |
 | Cat Detective Albert Wilde | 191800 | [191800-cat-detective-albert-wilde.json](./191800-cat-detective-albert-wilde.json) |
 | Cat Doctor: For Loyal Servants | 396880 | [396880-cat-doctor-for-loyal-servants.json](./396880-cat-doctor-for-loyal-servants.json) |
 | Cat Dungeon | 210880 | [210880-cat-dungeon.json](./210880-cat-dungeon.json) |
@@ -1697,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Pokémon | 341322 | [341322-catch-pokemon.json](./341322-catch-pokemon.json) |
 | Catch Royale | 368667 | [368667-catch-royale.json](./368667-catch-royale.json) |
 | Catch the Balls | 348273 | [348273-catch-the-balls.json](./348273-catch-the-balls.json) |
+| Catch the Bowling Balls | 152229 | [152229-catch-the-bowling-balls.json](./152229-catch-the-bowling-balls.json) |
 | Catch the Candy: Remastered | 330922 | [330922-catch-the-candy-remastered.json](./330922-catch-the-candy-remastered.json) |
 | Catch the Donut | 164276 | [164276-catch-the-donut.json](./164276-catch-the-donut.json) |
 | Catch the Dustling | 329077 | [329077-catch-the-dustling.json](./329077-catch-the-dustling.json) |
@@ -3986,6 +3988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clawberta | 192191 | [192191-clawberta.json](./192191-clawberta.json) |
 | Clawed | 342028 | [342028-clawed.json](./342028-clawed.json) |
 | Clawface | 89670 | [89670-clawface.json](./89670-clawface.json) |
+| Clawfish | 152190 | [152190-clawfish.json](./152190-clawfish.json) |
 | Clawless Coin | 405526 | [405526-clawless-coin.json](./405526-clawless-coin.json) |
 | Clawsome | 334203 | [334203-clawsome.json](./334203-clawsome.json) |
 | Clay Beats | 334504 | [334504-clay-beats.json](./334504-clay-beats.json) |
@@ -5642,6 +5645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra Spirits | 242088 | [242088-contra-spirits.json](./242088-contra-spirits.json) |
 | Contra: Rogue Corps | 119385 | [119385-contra-rogue-corps.json](./119385-contra-rogue-corps.json) |
 | Contra: The War of the Worlds | 216358 | [216358-contra-the-war-of-the-worlds.json](./216358-contra-the-war-of-the-worlds.json) |
+| Contraband | 152240 | [152240-contraband.json](./152240-contraband.json) |
 | Contract Bridge Solo | 398415 | [398415-contract-bridge-solo.json](./398415-contract-bridge-solo.json) |
 | Contract Cooks | 403578 | [403578-contract-cooks.json](./403578-contract-cooks.json) |
 | Contract J.A.C.K. | 1336 | [1336-contract-j-a-c-k.json](./1336-contract-j-a-c-k.json) |
