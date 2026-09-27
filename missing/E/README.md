@@ -1241,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji Wars | 397649 | [397649-emoji-wars.json](./397649-emoji-wars.json) |
 | Emoji-Connect | 291989 | [291989-emoji-connect.json](./291989-emoji-connect.json) |
 | Emorrior | 197876 | [197876-emorrior.json](./197876-emorrior.json) |
+| Emote Farming Simulator | 173082 | [173082-emote-farming-simulator.json](./173082-emote-farming-simulator.json) |
 | Emote Guesser | 252732 | [252732-emote-guesser.json](./252732-emote-guesser.json) |
 | EmoteGuesser | 232687 | [232687-emoteguesser.json](./232687-emoteguesser.json) |
 | Emotions: A Day In A Life | 178603 | [178603-emotions-a-day-in-a-life.json](./178603-emotions-a-day-in-a-life.json) |
