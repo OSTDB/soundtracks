@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Shippuden: Ultimate Ninja Storm Legacy | 28177 | [28177-naruto-shippuden-ultimate-ninja-storm-legacy.json](./28177-naruto-shippuden-ultimate-ninja-storm-legacy.json) |
 | Naruto To Boruto: Shinobi Stricker - Master Character Training Pack: Boruto Uzumaki (Karma Progression) | 275885 | [275885-naruto-to-boruto-shinobi-stricker-master-character-training-pack-boruto-uzumaki-karma-progression.json](./275885-naruto-to-boruto-shinobi-stricker-master-character-training-pack-boruto-uzumaki-karma-progression.json) |
 | Naruto to Boruto: Shinobi Striker | 28175 | [28175-naruto-to-boruto-shinobi-striker.json](./28175-naruto-to-boruto-shinobi-striker.json) |
+| Naruto to Boruto: Shinobi Striker - Deluxe Edition | 164790 | [164790-naruto-to-boruto-shinobi-striker-deluxe-edition.json](./164790-naruto-to-boruto-shinobi-striker-deluxe-edition.json) |
 | Naruto to Boruto: Shinobi Striker - Master Character Training Pack - Kawaki: Karma Progression | 307760 | [307760-naruto-to-boruto-shinobi-striker-master-character-training-pack-kawaki-karma-progression.json](./307760-naruto-to-boruto-shinobi-striker-master-character-training-pack-kawaki-karma-progression.json) |
 | Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Boruto Uzumaki (Karma) | 265248 | [265248-naruto-to-boruto-shinobi-striker-master-character-training-pack-boruto-uzumaki-karma.json](./265248-naruto-to-boruto-shinobi-striker-master-character-training-pack-boruto-uzumaki-karma.json) |
 | Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Isshiki Otsutsuki | 234632 | [234632-naruto-to-boruto-shinobi-striker-master-character-training-pack-isshiki-otsutsuki.json](./234632-naruto-to-boruto-shinobi-striker-master-character-training-pack-isshiki-otsutsuki.json) |
@@ -327,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Challenge | 49957 | [49957-nascar-challenge.json](./49957-nascar-challenge.json) |
 | NASCAR Heat | 49956 | [49956-nascar-heat.json](./49956-nascar-heat.json) |
 | NASCAR Heat 2002 | 248619 | [248619-nascar-heat-2002.json](./248619-nascar-heat-2002.json) |
+| NASCAR Heat 5: Ultimate Edition | 164815 | [164815-nascar-heat-5-ultimate-edition.json](./164815-nascar-heat-5-ultimate-edition.json) |
 | NASCAR Heat Bundle | 273941 | [273941-nascar-heat-bundle.json](./273941-nascar-heat-bundle.json) |
 | NASCAR Heat Evolution: Toyota Challenge Pack 1 | 157553 | [157553-nascar-heat-evolution-toyota-challenge-pack-1.json](./157553-nascar-heat-evolution-toyota-challenge-pack-1.json) |
 | Nascar Racing | 199011 | [199011-nascar-racing.json](./199011-nascar-racing.json) |
@@ -705,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromonads | 34743 | [34743-necromonads.json](./34743-necromonads.json) |
 | Necromunda: Underhive Wars | 26846 | [26846-necromunda-underhive-wars.json](./26846-necromunda-underhive-wars.json) |
 | Necromunda: Underhive Wars - Cawdor Gang | 162858 | [162858-necromunda-underhive-wars-cawdor-gang.json](./162858-necromunda-underhive-wars-cawdor-gang.json) |
+| Necromunda: Underhive Wars - Gold Edition | 164820 | [164820-necromunda-underhive-wars-gold-edition.json](./164820-necromunda-underhive-wars-gold-edition.json) |
 | Necromunda: Underhive Wars - Van Saar Gang | 162857 | [162857-necromunda-underhive-wars-van-saar-gang.json](./162857-necromunda-underhive-wars-van-saar-gang.json) |
 | Necronator | 304048 | [304048-necronator.json](./304048-necronator.json) |
 | Necronator 2 | 304049 | [304049-necronator-2.json](./304049-necronator-2.json) |
