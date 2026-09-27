@@ -5037,6 +5037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skater XL | 113175 | [113175-skater-xl.json](./113175-skater-xl.json) |
 | Skater XL: Tampa Pro 2022 Gear Pack For Charity | 225094 | [225094-skater-xl-tampa-pro-2022-gear-pack-for-charity.json](./225094-skater-xl-tampa-pro-2022-gear-pack-for-charity.json) |
 | SkateRide | 180776 | [180776-skateride.json](./180776-skateride.json) |
+| Skator Gator | 139871 | [139871-skator-gator.json](./139871-skator-gator.json) |
 | Skator Gator 3D | 217239 | [217239-skator-gator-3d.json](./217239-skator-gator-3d.json) |
 | Skautfold: Moonless Knight | 152142 | [152142-skautfold-moonless-knight.json](./152142-skautfold-moonless-knight.json) |
 | Skautfold: Shrouded in Sanity | 19481 | [19481-skautfold-shrouded-in-sanity.json](./19481-skautfold-shrouded-in-sanity.json) |
@@ -8806,6 +8807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speechless | 166736 | [166736-speechless.json](./166736-speechless.json) |
 | Speed | 261245 | [261245-speed.json](./261245-speed.json) |
 | Speed & Precision Collection | 328484 | [328484-speed-and-precision-collection.json](./328484-speed-and-precision-collection.json) |
+| Speed 3: Grand Prix | 139877 | [139877-speed-3-grand-prix.json](./139877-speed-3-grand-prix.json) |
 | Speed Bike Racing | 250657 | [250657-speed-bike-racing.json](./250657-speed-bike-racing.json) |
 | Speed Blazers | 38989 | [38989-speed-blazers.json](./38989-speed-blazers.json) |
 | Speed Box | 105132 | [105132-speed-box.json](./105132-speed-box.json) |
@@ -13743,6 +13745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Princess Peach: Operation - Toad Rescue | 323872 | [323872-super-princess-peach-operation-toad-rescue.json](./323872-super-princess-peach-operation-toad-rescue.json) |
 | Super Pump | 369215 | [369215-super-pump.json](./369215-super-pump.json) |
 | Super Punch | 147959 | [147959-super-punch.json](./147959-super-punch.json) |
+| Super Punch Patrol | 139882 | [139882-super-punch-patrol.json](./139882-super-punch-patrol.json) |
 | Super Punch-Out!! | 9152 | [9152-super-punch-out.json](./9152-super-punch-out.json) |
 | Super Punchy Face | 181116 | [181116-super-punchy-face.json](./181116-super-punchy-face.json) |
 | Super Putty | 39039 | [39039-super-putty.json](./39039-super-putty.json) |
@@ -14677,6 +14680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweater? Ok!: The Dilogy | 127370 | [127370-sweater-ok-the-dilogy.json](./127370-sweater-ok-the-dilogy.json) |
 | SweatShop | 32204 | [32204-sweatshop.json](./32204-sweatshop.json) |
 | Sweatshop HD | 15448 | [15448-sweatshop-hd.json](./15448-sweatshop-hd.json) |
+| Swedish Classics GP | 139868 | [139868-swedish-classics-gp.json](./139868-swedish-classics-gp.json) |
 | Swedish Touring Car Championship 2 | 71774 | [71774-swedish-touring-car-championship-2.json](./71774-swedish-touring-car-championship-2.json) |
 | Sweeky Land | 145608 | [145608-sweeky-land.json](./145608-sweeky-land.json) |
 | Sweep | 163964 | [163964-sweep.json](./163964-sweep.json) |
