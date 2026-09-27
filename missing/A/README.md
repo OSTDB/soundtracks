@@ -611,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC's Featuring the Jungle Jukebox | 392413 | [392413-abcs-featuring-the-jungle-jukebox.json](./392413-abcs-featuring-the-jungle-jukebox.json) |
 | ABD: A Beautiful Day | 34900 | [34900-abd-a-beautiful-day.json](./34900-abd-a-beautiful-day.json) |
 | Abduct and Destroy! | 182543 | [182543-abduct-and-destroy.json](./182543-abduct-and-destroy.json) |
+| Abducted: The Night Hunters | 145578 | [145578-abducted-the-night-hunters.json](./145578-abducted-the-night-hunters.json) |
 | Abducting Mjolnir | 180759 | [180759-abducting-mjolnir.json](./180759-abducting-mjolnir.json) |
 | Abduction Episode 1: Her Name Was Sarah | 32170 | [32170-abduction-episode-1-her-name-was-sarah.json](./32170-abduction-episode-1-her-name-was-sarah.json) |
 | Abduction Escape | 337117 | [337117-abduction-escape.json](./337117-abduction-escape.json) |
@@ -654,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Above the Law | 195529 | [195529-above-the-law.json](./195529-above-the-law.json) |
 | Above the Skies | 166623 | [166623-above-the-skies.json](./166623-above-the-skies.json) |
 | Above the Snow | 349373 | [349373-above-the-snow.json](./349373-above-the-snow.json) |
+| Above the Waters | 145510 | [145510-above-the-waters.json](./145510-above-the-waters.json) |
 | Abra-cooking-dabra | 345039 | [345039-abra-cooking-dabra.json](./345039-abra-cooking-dabra.json) |
 | Abraca | 267482 | [267482-abraca.json](./267482-abraca.json) |
 | Abracadabra | 383355 | [383355-abracadabra.json](./383355-abracadabra.json) |
@@ -716,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss of Doom | 403689 | [403689-abyss-of-doom.json](./403689-abyss-of-doom.json) |
 | Abyss of Dungeons | 306976 | [306976-abyss-of-dungeons.json](./306976-abyss-of-dungeons.json) |
 | Abyss of Light | 283876 | [283876-abyss-of-light.json](./283876-abyss-of-light.json) |
+| Abyss of Neptune | 145563 | [145563-abyss-of-neptune.json](./145563-abyss-of-neptune.json) |
 | Abyss Of Pleasure | 379549 | [379549-abyss-of-pleasure.json](./379549-abyss-of-pleasure.json) |
 | Abyss Pact | 339129 | [339129-abyss-pact.json](./339129-abyss-pact.json) |
 | Abyss Rebel | 357415 | [357415-abyss-rebel.json](./357415-abyss-rebel.json) |
@@ -737,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AbyssalCraft | 232418 | [232418-abyssalcraft.json](./232418-abyssalcraft.json) |
 | Abyssdia | 363049 | [363049-abyssdia.json](./363049-abyssdia.json) |
 | Abyssfall: Seekers Within | 337706 | [337706-abyssfall-seekers-within.json](./337706-abyssfall-seekers-within.json) |
+| Abyssopelagia | 145511 | [145511-abyssopelagia.json](./145511-abyssopelagia.json) |
 | Abyssopelagic | 382880 | [382880-abyssopelagic.json](./382880-abyssopelagic.json) |
 | Abyssus Deep Under | 309322 | [309322-abyssus-deep-under.json](./309322-abyssus-deep-under.json) |
 | Abysswalkers | 260646 | [260646-abysswalkers.json](./260646-abysswalkers.json) |
@@ -1432,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against Twilight | 349927 | [349927-against-twilight.json](./349927-against-twilight.json) |
 | Agame | 269042 | [269042-agame.json](./269042-agame.json) |
 | Agarest Senki Mariage: Limited Edition | 64119 | [64119-agarest-senki-mariage-limited-edition.json](./64119-agarest-senki-mariage-limited-edition.json) |
+| Agartha | 145519 | [145519-agartha.json](./145519-agartha.json) |
 | Agartha Platform 81!: City of Angels | 400499 | [400499-agartha-platform-81-city-of-angels.json](./400499-agartha-platform-81-city-of-angels.json) |
 | Agassi Tennis Generation | 248735 | [248735-agassi-tennis-generation.json](./248735-agassi-tennis-generation.json) |
 | Agatha Christie: 4:50 from Paddington | 135245 | [135245-agatha-christie-4-50-from-paddington.json](./135245-agatha-christie-4-50-from-paddington.json) |
@@ -1470,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires IV: Dynasties of the East | 361886 | [361886-age-of-empires-iv-dynasties-of-the-east.json](./361886-age-of-empires-iv-dynasties-of-the-east.json) |
 | Age of Empires IV: Raiders of the North | 405077 | [405077-age-of-empires-iv-raiders-of-the-north.json](./405077-age-of-empires-iv-raiders-of-the-north.json) |
 | Age of Empires Mobile | 280839 | [280839-age-of-empires-mobile.json](./280839-age-of-empires-mobile.json) |
+| Age of Empires: Pocket PC Edition | 145568 | [145568-age-of-empires-pocket-pc-edition.json](./145568-age-of-empires-pocket-pc-edition.json) |
 | Age of Empires: World Domination | 145567 | [145567-age-of-empires-world-domination.json](./145567-age-of-empires-world-domination.json) |
 | Age of Enchantment | 312672 | [312672-age-of-enchantment.json](./312672-age-of-enchantment.json) |
 | Age of Explorers | 396377 | [396377-age-of-explorers.json](./396377-age-of-explorers.json) |
@@ -1723,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Legends | 77273 | [77273-air-legends.json](./77273-air-legends.json) |
 | Air Master Hanemaru | 346747 | [346747-air-master-hanemaru.json](./346747-air-master-hanemaru.json) |
 | Air Museum VR | 195480 | [195480-air-museum-vr.json](./195480-air-museum-vr.json) |
+| Air Nights | 145516 | [145516-air-nights.json](./145516-air-nights.json) |
 | Air Offense Command | 258449 | [258449-air-offense-command.json](./258449-air-offense-command.json) |
 | Air patrol | 40768 | [40768-air-patrol.json](./40768-air-patrol.json) |
 | Air Port Panic | 300008 | [300008-air-port-panic.json](./300008-air-port-panic.json) |
@@ -5566,6 +5573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArtilleRoyalty | 374681 | [374681-artilleroyalty.json](./374681-artilleroyalty.json) |
 | Artillery | 93527 | [93527-artillery.json](./93527-artillery.json) |
 | Artillery Duel | 12241 | [12241-artillery-duel.json](./12241-artillery-duel.json) |
+| Artillery Royale | 145532 | [145532-artillery-royale.json](./145532-artillery-royale.json) |
 | Artisan | 190096 | [190096-artisan.json](./190096-artisan.json) |
 | Artisan Story | 260215 | [260215-artisan-story.json](./260215-artisan-story.json) |
 | Artist Colony | 23284 | [23284-artist-colony.json](./23284-artist-colony.json) |
