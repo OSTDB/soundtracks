@@ -3454,6 +3454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Church Crew | 360740 | [360740-church-crew.json](./360740-church-crew.json) |
 | Church Era | 118391 | [118391-church-era.json](./118391-church-era.json) |
 | Church of Shadows | 323527 | [323527-church-of-shadows.json](./323527-church-of-shadows.json) |
+| Church of Stratum | 163224 | [163224-church-of-stratum.json](./163224-church-of-stratum.json) |
 | Church Simulator | 312878 | [312878-church-simulator.json](./312878-church-simulator.json) |
 | Churchill Solitaire | 234547 | [234547-churchill-solitaire.json](./234547-churchill-solitaire.json) |
 | Churip | 316993 | [316993-churip.json](./316993-churip.json) |
@@ -5643,6 +5644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Controlled Climate Chaos | 282130 | [282130-controlled-climate-chaos.json](./282130-controlled-climate-chaos.json) |
 | Controller Sync | 209489 | [209489-controller-sync.json](./209489-controller-sync.json) |
 | Controware | 285519 | [285519-controware.json](./285519-controware.json) |
+| Conundrum | 163201 | [163201-conundrum.json](./163201-conundrum.json) |
 | Conundrum | 348975 | [348975-conundrum.json](./348975-conundrum.json) |
 | Conundrum | 380087 | [380087-conundrum.json](./380087-conundrum.json) |
 | Conveni Dream | 58464 | [58464-conveni-dream.json](./58464-conveni-dream.json) |
@@ -7684,6 +7686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube School | 408905 | [408905-cube-school.json](./408905-cube-school.json) |
 | Cube Snake | 318968 | [318968-cube-snake.json](./318968-cube-snake.json) |
 | Cube Snap 2 | 86882 | [86882-cube-snap-2.json](./86882-cube-snap-2.json) |
+| Cube Space | 163195 | [163195-cube-space.json](./163195-cube-space.json) |
 | Cube War | 284984 | [284984-cube-war.json](./284984-cube-war.json) |
 | Cube Way | 75902 | [75902-cube-way.json](./75902-cube-way.json) |
 | Cube World | 195215 | [195215-cube-world.json](./195215-cube-world.json) |
