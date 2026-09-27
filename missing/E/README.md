@@ -1423,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End of Space Project | 264651 | [264651-end-of-space-project.json](./264651-end-of-space-project.json) |
 | End of Starchild | 400374 | [400374-end-of-starchild.json](./400374-end-of-starchild.json) |
 | End of Summer | 210570 | [210570-end-of-summer.json](./210570-end-of-summer.json) |
+| End of the Skyline | 140499 | [140499-end-of-the-skyline.json](./140499-end-of-the-skyline.json) |
 | End of the Universe | 200105 | [200105-end-of-the-universe.json](./200105-end-of-the-universe.json) |
 | End of the World | 210099 | [210099-end-of-the-world.json](./210099-end-of-the-world.json) |
 | End of the World: NTR | 170499 | [170499-end-of-the-world-ntr.json](./170499-end-of-the-world-ntr.json) |
