@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZXombies! | 281532 | [281532-zxombies.json](./281532-zxombies.json) |
 | ZxZ | 307621 | [307621-zxz.json](./307621-zxz.json) |
 | Zybex | 47206 | [47206-zybex.json](./47206-zybex.json) |
+| Zyconix | 154422 | [154422-zyconix.json](./154422-zyconix.json) |
 | Zyconix | 84210 | [84210-zyconix.json](./84210-zyconix.json) |
 | Zylo and the magic souls | 120214 | [120214-zylo-and-the-magic-souls.json](./120214-zylo-and-the-magic-souls.json) |
 | Zylogon | 363561 | [363561-zylogon.json](./363561-zylogon.json) |
