@@ -4968,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fritz 19: Steam Edition | 280203 | [280203-fritz-19-steam-edition.json](./280203-fritz-19-steam-edition.json) |
 | Fritz 9: Play Chess | 130848 | [130848-fritz-9-play-chess.json](./130848-fritz-9-play-chess.json) |
 | Fritz Chess 14 | 17050 | [17050-fritz-chess-14.json](./17050-fritz-chess-14.json) |
+| Fritz Chess 17 Steam Edition | 162708 | [162708-fritz-chess-17-steam-edition.json](./162708-fritz-chess-17-steam-edition.json) |
 | Fritz: Your Chess Coach | 262648 | [262648-fritz-your-chess-coach.json](./262648-fritz-your-chess-coach.json) |
 | Frizzle | 319194 | [319194-frizzle.json](./319194-frizzle.json) |
 | Frizzy | 34764 | [34764-frizzy.json](./34764-frizzy.json) |
