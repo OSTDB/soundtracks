@@ -4577,6 +4577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Bite | 115008 | [115008-cold-bite.json](./115008-cold-bite.json) |
 | Cold Boot | 348876 | [348876-cold-boot.json](./348876-cold-boot.json) |
 | Cold Breath | 151050 | [151050-cold-breath.json](./151050-cold-breath.json) |
+| Cold Call | 165989 | [165989-cold-call.json](./165989-cold-call.json) |
 | Cold Case Files | 57683 | [57683-cold-case-files.json](./57683-cold-case-files.json) |
 | Cold Case Summer | 151544 | [151544-cold-case-summer.json](./151544-cold-case-summer.json) |
 | Cold City | 401838 | [401838-cold-city.json](./401838-cold-city.json) |
@@ -7225,6 +7226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrossTown 1: Giften | 122315 | [122315-crosstown-1-giften.json](./122315-crosstown-1-giften.json) |
 | Crossword | 402255 | [402255-crossword.json](./402255-crossword.json) |
 | Crossword Champ | 58273 | [58273-crossword-champ.json](./58273-crossword-champ.json) |
+| Crossword City Chronicles | 166001 | [166001-crossword-city-chronicles.json](./166001-crossword-city-chronicles.json) |
 | Crossword Cove | 366416 | [366416-crossword-cove.json](./366416-crossword-cove.json) |
 | Crossword Dungeon | 208017 | [208017-crossword-dungeon.json](./208017-crossword-dungeon.json) |
 | Crossword Explorer | 406089 | [406089-crossword-explorer.json](./406089-crossword-explorer.json) |
