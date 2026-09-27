@@ -2413,6 +2413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESWAT: Cyber Police | 39869 | [39869-eswat-cyber-police.json](./39869-eswat-cyber-police.json) |
 | Esylium MMORPG | 250885 | [250885-esylium-mmorpg.json](./250885-esylium-mmorpg.json) |
 | ET Superman: Wrath of Tyrannosaurus Rex | 195258 | [195258-et-superman-wrath-of-tyrannosaurus-rex.json](./195258-et-superman-wrath-of-tyrannosaurus-rex.json) |
+| ET: Legacy | 142954 | [142954-et-legacy.json](./142954-et-legacy.json) |
 | ETA: Unknown | 389437 | [389437-eta-unknown.json](./389437-eta-unknown.json) |
 | eTabu | 23909 | [23909-etabu.json](./23909-etabu.json) |
 | ETC: Earthquake Test Centre | 221661 | [221661-etc-earthquake-test-centre.json](./221661-etc-earthquake-test-centre.json) |
@@ -2735,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergarden | 107191 | [107191-evergarden.json](./107191-evergarden.json) |
 | Evergate: Ki's Awakening | 167593 | [167593-evergate-kis-awakening.json](./167593-evergate-kis-awakening.json) |
 | Everglory | 163911 | [163911-everglory.json](./163911-everglory.json) |
+| Evergreen | 142995 | [142995-evergreen.json](./142995-evergreen.json) |
 | Evergreen | 59933 | [59933-evergreen.json](./59933-evergreen.json) |
 | Evergreen Avenue | 63578 | [63578-evergreen-avenue.json](./63578-evergreen-avenue.json) |
 | Evergreen Meadow | 390495 | [390495-evergreen-meadow.json](./390495-evergreen-meadow.json) |
