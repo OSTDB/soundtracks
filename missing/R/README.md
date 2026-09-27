@@ -4371,6 +4371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Stars | 149017 | [149017-roller-stars.json](./149017-roller-stars.json) |
 | Roller-Skating | 328498 | [328498-roller-skating.json](./328498-roller-skating.json) |
 | Rollerball | 298843 | [298843-rollerball.json](./298843-rollerball.json) |
+| RollerBaller | 158511 | [158511-rollerballer.json](./158511-rollerballer.json) |
 | Rollerboy 2 | 293644 | [293644-rollerboy-2.json](./293644-rollerboy-2.json) |
 | Rollercoaster Creator | 337202 | [337202-rollercoaster-creator.json](./337202-rollercoaster-creator.json) |
 | Rollercoaster Dash | 104460 | [104460-rollercoaster-dash.json](./104460-rollercoaster-dash.json) |
