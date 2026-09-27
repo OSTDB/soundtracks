@@ -2098,6 +2098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightning Returns: Final Fantasy XIII | 2449 | [2449-lightning-returns-final-fantasy-xiii.json](./2449-lightning-returns-final-fantasy-xiii.json) |
 | Lightning Wings II | 123482 | [123482-lightning-wings-ii.json](./123482-lightning-wings-ii.json) |
 | Lightning: D-Day | 47984 | [47984-lightning-d-day.json](./47984-lightning-d-day.json) |
+| Lightomania | 120265 | [120265-lightomania.json](./120265-lightomania.json) |
 | Lighton | 148895 | [148895-lighton.json](./148895-lighton.json) |
 | Lightopus | 22316 | [22316-lightopus.json](./22316-lightopus.json) |
 | Lightout | 175388 | [175388-lightout.json](./175388-lightout.json) |
