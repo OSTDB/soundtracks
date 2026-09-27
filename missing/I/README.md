@@ -2082,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intercontinental | 131383 | [131383-intercontinental.json](./131383-intercontinental.json) |
 | Interdictor Pilot | 342035 | [342035-interdictor-pilot.json](./342035-interdictor-pilot.json) |
 | Interesting Kaizo World | 215768 | [215768-interesting-kaizo-world.json](./215768-interesting-kaizo-world.json) |
+| Interference | 131445 | [131445-interference.json](./131445-interference.json) |
 | Interference | 56447 | [56447-interference.json](./56447-interference.json) |
 | Interference: Dead Air | 211199 | [211199-interference-dead-air.json](./211199-interference-dead-air.json) |
 | Intergalactic | 263025 | [263025-intergalactic.json](./263025-intergalactic.json) |
