@@ -1426,6 +1426,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman Returns | 4379 | [4379-batman-returns.json](./4379-batman-returns.json) |
 | Batman v Superman: Who Will Win | 76554 | [76554-batman-v-superman-who-will-win.json](./76554-batman-v-superman-who-will-win.json) |
 | Batman: Arkham Asylum | 240487 | [240487-batman-arkham-asylum.json](./240487-batman-arkham-asylum.json) |
+| Batman: Arkham City - Batman Inc. Batsuit Skin | 138111 | [138111-batman-arkham-city-batman-inc-batsuit-skin.json](./138111-batman-arkham-city-batman-inc-batsuit-skin.json) |
+| Batman: Arkham City - The Arkham Bundle | 138112 | [138112-batman-arkham-city-the-arkham-bundle.json](./138112-batman-arkham-city-the-arkham-bundle.json) |
 | Batman: Arkham City - Ultimate Edition | 138185 | [138185-batman-arkham-city-ultimate-edition.json](./138185-batman-arkham-city-ultimate-edition.json) |
 | Batman: Arkham Collection | 112659 | [112659-batman-arkham-collection.json](./112659-batman-arkham-collection.json) |
 | Batman: Arkham Knight - 1st Appearance Batman Skin | 25977 | [25977-batman-arkham-knight-1st-appearance-batman-skin.json](./25977-batman-arkham-knight-1st-appearance-batman-skin.json) |
@@ -4675,6 +4677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons TD 5 HD | 88911 | [88911-bloons-td-5-hd.json](./88911-bloons-td-5-hd.json) |
 | Bloons TD 6: Frontier Legends | 381278 | [381278-bloons-td-6-frontier-legends.json](./381278-bloons-td-6-frontier-legends.json) |
 | Bloons TD 6: Rogue Legends | 330334 | [330334-bloons-td-6-rogue-legends.json](./330334-bloons-td-6-rogue-legends.json) |
+| Bloons TDX | 138135 | [138135-bloons-tdx.json](./138135-bloons-tdx.json) |
 | Bloop | 182984 | [182984-bloop.json](./182984-bloop.json) |
 | Blooper's Revenge | 237492 | [237492-bloopers-revenge.json](./237492-bloopers-revenge.json) |
 | Bloopy & Droopy | 168685 | [168685-bloopy-and-droopy.json](./168685-bloopy-and-droopy.json) |
@@ -4979,6 +4982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bogdanoff vs. Wojak Simulator | 182358 | [182358-bogdanoff-vs-wojak-simulator.json](./182358-bogdanoff-vs-wojak-simulator.json) |
 | Bogey Blows Golf Simulator | 181677 | [181677-bogey-blows-golf-simulator.json](./181677-bogey-blows-golf-simulator.json) |
 | Bogey Dead 6 | 20590 | [20590-bogey-dead-6.json](./20590-bogey-dead-6.json) |
+| Bogeyman | 138145 | [138145-bogeyman.json](./138145-bogeyman.json) |
 | Boggle | 206463 | [206463-boggle.json](./206463-boggle.json) |
 | Boggle | 282633 | [282633-boggle.json](./282633-boggle.json) |
 | Boggle Bash | 366411 | [366411-boggle-bash.json](./366411-boggle-bash.json) |
