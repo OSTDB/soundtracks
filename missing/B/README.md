@@ -2349,6 +2349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Warrior Hibiki's Captive Violation Days | 82828 | [82828-beautiful-warrior-hibikis-captive-violation-days.json](./82828-beautiful-warrior-hibikis-captive-violation-days.json) |
 | Beauty and the Beast | 211430 | [211430-beauty-and-the-beast.json](./211430-beauty-and-the-beast.json) |
 | Beauty and the Beast | 292649 | [292649-beauty-and-the-beast.json](./292649-beauty-and-the-beast.json) |
+| Beauty and Violence: Valkyries | 122299 | [122299-beauty-and-violence-valkyries.json](./122299-beauty-and-violence-valkyries.json) |
 | Beauty from Wisdom | 236372 | [236372-beauty-from-wisdom.json](./236372-beauty-from-wisdom.json) |
 | Beauty Jigsaw: Image Pack | 357874 | [357874-beauty-jigsaw-image-pack.json](./357874-beauty-jigsaw-image-pack.json) |
 | Beauty Lawyer Victoria 2 | 200058 | [200058-beauty-lawyer-victoria-2.json](./200058-beauty-lawyer-victoria-2.json) |
