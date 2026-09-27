@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Coherence | 215901 | [215901-quantum-coherence.json](./215901-quantum-coherence.json) |
 | Quantum Conquest | 295329 | [295329-quantum-conquest.json](./295329-quantum-conquest.json) |
 | Quantum Contours | 278394 | [278394-quantum-contours.json](./278394-quantum-contours.json) |
+| Quantum Conundrum: IKE-aramba! | 168169 | [168169-quantum-conundrum-ike-aramba.json](./168169-quantum-conundrum-ike-aramba.json) |
 | Quantum Conundrum: The Desmond Debacle | 172125 | [172125-quantum-conundrum-the-desmond-debacle.json](./172125-quantum-conundrum-the-desmond-debacle.json) |
 | Quantum Covenant | 113718 | [113718-quantum-covenant.json](./113718-quantum-covenant.json) |
 | Quantum Derail | 182939 | [182939-quantum-derail.json](./182939-quantum-derail.json) |
