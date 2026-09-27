@@ -3744,6 +3744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Farm | 264360 | [264360-lovely-farm.json](./264360-lovely-farm.json) |
 | Lovely Fox | 102918 | [102918-lovely-fox.json](./102918-lovely-fox.json) |
 | Lovely Fracture | 183363 | [183363-lovely-fracture.json](./183363-lovely-fracture.json) |
+| Lovely Goddess | 155019 | [155019-lovely-goddess.json](./155019-lovely-goddess.json) |
 | Lovely Island | 109620 | [109620-lovely-island.json](./109620-lovely-island.json) |
 | Lovely Koala | 325612 | [325612-lovely-koala.json](./325612-lovely-koala.json) |
 | Lovely Lisa 3D | 80608 | [80608-lovely-lisa-3d.json](./80608-lovely-lisa-3d.json) |
