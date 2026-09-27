@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Squad | 261860 | [261860-raccoon-squad.json](./261860-raccoon-squad.json) |
 | Raccoon Survival Simulator | 401540 | [401540-raccoon-survival-simulator.json](./401540-raccoon-survival-simulator.json) |
 | Raccoon Tales | 200573 | [200573-raccoon-tales.json](./200573-raccoon-tales.json) |
+| Raccoon the Miner | 129669 | [129669-raccoon-the-miner.json](./129669-raccoon-the-miner.json) |
 | Raccoon Unhappy | 199916 | [199916-raccoon-unhappy.json](./199916-raccoon-unhappy.json) |
 | Raccoon Valley Tycoon | 373083 | [373083-raccoon-valley-tycoon.json](./373083-raccoon-valley-tycoon.json) |
 | Raccoonwave | 307120 | [307120-raccoonwave.json](./307120-raccoonwave.json) |
@@ -2964,6 +2965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Zone | 51283 | [51283-rhythm-zone.json](./51283-rhythm-zone.json) |
 | Rhythmcremental | 176462 | [176462-rhythmcremental.json](./176462-rhythmcremental.json) |
 | Rhythmetric | 364572 | [364572-rhythmetric.json](./364572-rhythmetric.json) |
+| Rhythmic Retro Racer | 129664 | [129664-rhythmic-retro-racer.json](./129664-rhythmic-retro-racer.json) |
 | Rhythmos | 194291 | [194291-rhythmos.json](./194291-rhythmos.json) |
 | RhythmPG | 179610 | [179610-rhythmpg.json](./179610-rhythmpg.json) |
 | Rhythmscapes | 317017 | [317017-rhythmscapes.json](./317017-rhythmscapes.json) |
