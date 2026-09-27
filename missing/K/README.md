@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanenone Dynatic: Green Green | 294727 | [294727-kanenone-dynatic-green-green.json](./294727-kanenone-dynatic-green-green.json) |
 | Kang | 396587 | [396587-kang.json](./396587-kang.json) |
 | Kang Fu | 37109 | [37109-kang-fu.json](./37109-kang-fu.json) |
+| Kang's Adventures: The Escape | 163744 | [163744-kangs-adventures-the-escape.json](./163744-kangs-adventures-the-escape.json) |
 | Kangaroo | 12310 | [12310-kangaroo.json](./12310-kangaroo.json) |
 | Kangaroo | 282067 | [282067-kangaroo.json](./282067-kangaroo.json) |
 | Kangaroo | 282068 | [282068-kangaroo.json](./282068-kangaroo.json) |
@@ -2229,6 +2230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kosmo Laika: Space and Beyond | 164247 | [164247-kosmo-laika-space-and-beyond.json](./164247-kosmo-laika-space-and-beyond.json) |
 | Kosmo Skirmish | 291771 | [291771-kosmo-skirmish.json](./291771-kosmo-skirmish.json) |
 | Kosmobreak | 285518 | [285518-kosmobreak.json](./285518-kosmobreak.json) |
+| Kosmonavtes: Academy Escape | 163752 | [163752-kosmonavtes-academy-escape.json](./163752-kosmonavtes-academy-escape.json) |
 | Kosmonavtes: Escape Reality | 155983 | [155983-kosmonavtes-escape-reality.json](./155983-kosmonavtes-escape-reality.json) |
 | Kosmos: The Discovery of Nature | 276194 | [276194-kosmos-the-discovery-of-nature.json](./276194-kosmos-the-discovery-of-nature.json) |
 | Kosmosis | 382345 | [382345-kosmosis.json](./382345-kosmosis.json) |
