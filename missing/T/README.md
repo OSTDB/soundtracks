@@ -3570,6 +3570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Diner | 355230 | [355230-the-diner.json](./355230-the-diner.json) |
 | The Dinner Heist | 308561 | [308561-the-dinner-heist.json](./308561-the-dinner-heist.json) |
 | The Dino R | 233623 | [233623-the-dino-r.json](./233623-the-dino-r.json) |
+| The DinoHunters | 142967 | [142967-the-dinohunters.json](./142967-the-dinohunters.json) |
 | The Dinosaurs Are Here | 152732 | [152732-the-dinosaurs-are-here.json](./152732-the-dinosaurs-are-here.json) |
 | The DioField Chronicle: Digital Deluxe Edition | 212339 | [212339-the-diofield-chronicle-digital-deluxe-edition.json](./212339-the-diofield-chronicle-digital-deluxe-edition.json) |
 | The Directed | 89253 | [89253-the-directed.json](./89253-the-directed.json) |
@@ -4557,6 +4558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of E. | 242490 | [242490-the-house-of-e.json](./242490-the-house-of-e.json) |
 | The House of God | 138182 | [138182-the-house-of-god.json](./138182-the-house-of-god.json) |
 | The House of Hikmah | 380426 | [380426-the-house-of-hikmah.json](./380426-the-house-of-hikmah.json) |
+| The House of Mr Chocolate | 142963 | [142963-the-house-of-mr-chocolate.json](./142963-the-house-of-mr-chocolate.json) |
 | The House of the Dead 2 | 13777 | [13777-the-house-of-the-dead-2.json](./13777-the-house-of-the-dead-2.json) |
 | The House of the Dead 2 & 3 Return | 4918 | [4918-the-house-of-the-dead-2-and-3-return.json](./4918-the-house-of-the-dead-2-and-3-return.json) |
 | The House of the Dead 2: Remake | 327808 | [327808-the-house-of-the-dead-2-remake.json](./327808-the-house-of-the-dead-2-remake.json) |
@@ -13807,6 +13809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turok 2 | 308370 | [308370-turok-2.json](./308370-turok-2.json) |
 | Turok 2: Seeds of Evil | 146696 | [146696-turok-2-seeds-of-evil.json](./146696-turok-2-seeds-of-evil.json) |
 | Turok 3: Shadow of Oblivion | 1328 | [1328-turok-3-shadow-of-oblivion.json](./1328-turok-3-shadow-of-oblivion.json) |
+| Turok 3: Shadow of Oblivion | 142996 | [142996-turok-3-shadow-of-oblivion.json](./142996-turok-3-shadow-of-oblivion.json) |
 | Turok Trilogy Bundle | 279028 | [279028-turok-trilogy-bundle.json](./279028-turok-trilogy-bundle.json) |
 | Turok: Dinosaur Hunter | 1321 | [1321-turok-dinosaur-hunter.json](./1321-turok-dinosaur-hunter.json) |
 | Turok: Evolution | 146695 | [146695-turok-evolution.json](./146695-turok-evolution.json) |
