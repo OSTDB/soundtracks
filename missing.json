@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T05:17:51.350Z",
-  "total_missing": 129076,
+  "generated_at": "2026-09-27T05:33:00.488Z",
+  "total_missing": 129126,
   "games": [
     {
       "igdb_id": 186066,
@@ -97761,6 +97761,36 @@
       "igdb_id": 270765,
       "game_name": "Classic Invaders",
       "file": "missing/C/270765-classic-invaders.json"
+    },
+    {
+      "igdb_id": 162199,
+      "game_name": "Classic Jigsaw Puzzles",
+      "file": "missing/C/162199-classic-jigsaw-puzzles.json"
+    },
+    {
+      "igdb_id": 162202,
+      "game_name": "Classic Jigsaw Puzzles: Animals",
+      "file": "missing/C/162202-classic-jigsaw-puzzles-animals.json"
+    },
+    {
+      "igdb_id": 162198,
+      "game_name": "Classic Jigsaw Puzzles: Beautifully Illustrated",
+      "file": "missing/C/162198-classic-jigsaw-puzzles-beautifully-illustrated.json"
+    },
+    {
+      "igdb_id": 162203,
+      "game_name": "Classic Jigsaw Puzzles: Forest Jigsaw Puzzles",
+      "file": "missing/C/162203-classic-jigsaw-puzzles-forest-jigsaw-puzzles.json"
+    },
+    {
+      "igdb_id": 162200,
+      "game_name": "Classic Jigsaw Puzzles: House",
+      "file": "missing/C/162200-classic-jigsaw-puzzles-house.json"
+    },
+    {
+      "igdb_id": 162201,
+      "game_name": "Classic Jigsaw Puzzles: Puppy",
+      "file": "missing/C/162201-classic-jigsaw-puzzles-puppy.json"
     },
     {
       "igdb_id": 219175,
@@ -402458,9 +402488,19 @@
       "file": "missing/P/53461-pixel-puzzles-ultimate-2016-jigsaw-collection.json"
     },
     {
+      "igdb_id": 162178,
+      "game_name": "Pixel Puzzles Ultimate: Angel Wings",
+      "file": "missing/P/162178-pixel-puzzles-ultimate-angel-wings.json"
+    },
+    {
       "igdb_id": 226860,
       "game_name": "Pixel Puzzles Ultimate: Animals",
       "file": "missing/P/226860-pixel-puzzles-ultimate-animals.json"
+    },
+    {
+      "igdb_id": 162186,
+      "game_name": "Pixel Puzzles Ultimate: Autumn",
+      "file": "missing/P/162186-pixel-puzzles-ultimate-autumn.json"
     },
     {
       "igdb_id": 357884,
@@ -402473,6 +402513,11 @@
       "file": "missing/P/192145-pixel-puzzles-ultimate-canary-islands.json"
     },
     {
+      "igdb_id": 162175,
+      "game_name": "Pixel Puzzles Ultimate: Castles",
+      "file": "missing/P/162175-pixel-puzzles-ultimate-castles.json"
+    },
+    {
       "igdb_id": 226861,
       "game_name": "Pixel Puzzles Ultimate: Cheregi",
       "file": "missing/P/226861-pixel-puzzles-ultimate-cheregi.json"
@@ -402483,9 +402528,29 @@
       "file": "missing/P/192143-pixel-puzzles-ultimate-cheregi-2.json"
     },
     {
+      "igdb_id": 162184,
+      "game_name": "Pixel Puzzles Ultimate: China",
+      "file": "missing/P/162184-pixel-puzzles-ultimate-china.json"
+    },
+    {
+      "igdb_id": 162188,
+      "game_name": "Pixel Puzzles Ultimate: Christmas 2",
+      "file": "missing/P/162188-pixel-puzzles-ultimate-christmas-2.json"
+    },
+    {
       "igdb_id": 357885,
       "game_name": "Pixel Puzzles Ultimate: Colorful 2",
       "file": "missing/P/357885-pixel-puzzles-ultimate-colorful-2.json"
+    },
+    {
+      "igdb_id": 162196,
+      "game_name": "Pixel Puzzles Ultimate: Coral Reef",
+      "file": "missing/P/162196-pixel-puzzles-ultimate-coral-reef.json"
+    },
+    {
+      "igdb_id": 162164,
+      "game_name": "Pixel Puzzles Ultimate: Da Vinci",
+      "file": "missing/P/162164-pixel-puzzles-ultimate-da-vinci.json"
     },
     {
       "igdb_id": 192146,
@@ -402498,6 +402563,31 @@
       "file": "missing/P/357886-pixel-puzzles-ultimate-dino-park.json"
     },
     {
+      "igdb_id": 162171,
+      "game_name": "Pixel Puzzles Ultimate: England",
+      "file": "missing/P/162171-pixel-puzzles-ultimate-england.json"
+    },
+    {
+      "igdb_id": 162194,
+      "game_name": "Pixel Puzzles Ultimate: Extreme Sports",
+      "file": "missing/P/162194-pixel-puzzles-ultimate-extreme-sports.json"
+    },
+    {
+      "igdb_id": 162169,
+      "game_name": "Pixel Puzzles Ultimate: Glaciers",
+      "file": "missing/P/162169-pixel-puzzles-ultimate-glaciers.json"
+    },
+    {
+      "igdb_id": 162189,
+      "game_name": "Pixel Puzzles Ultimate: Halloween",
+      "file": "missing/P/162189-pixel-puzzles-ultimate-halloween.json"
+    },
+    {
+      "igdb_id": 162176,
+      "game_name": "Pixel Puzzles Ultimate: Halloween 2",
+      "file": "missing/P/162176-pixel-puzzles-ultimate-halloween-2.json"
+    },
+    {
       "igdb_id": 192142,
       "game_name": "Pixel Puzzles Ultimate: Halloween 3",
       "file": "missing/P/192142-pixel-puzzles-ultimate-halloween-3.json"
@@ -402508,9 +402598,54 @@
       "file": "missing/P/192148-pixel-puzzles-ultimate-halloween-4.json"
     },
     {
+      "igdb_id": 162163,
+      "game_name": "Pixel Puzzles Ultimate: Holidays",
+      "file": "missing/P/162163-pixel-puzzles-ultimate-holidays.json"
+    },
+    {
+      "igdb_id": 162177,
+      "game_name": "Pixel Puzzles Ultimate: India",
+      "file": "missing/P/162177-pixel-puzzles-ultimate-india.json"
+    },
+    {
+      "igdb_id": 162179,
+      "game_name": "Pixel Puzzles Ultimate: Ireland",
+      "file": "missing/P/162179-pixel-puzzles-ultimate-ireland.json"
+    },
+    {
+      "igdb_id": 162156,
+      "game_name": "Pixel Puzzles Ultimate: Japan",
+      "file": "missing/P/162156-pixel-puzzles-ultimate-japan.json"
+    },
+    {
+      "igdb_id": 162159,
+      "game_name": "Pixel Puzzles Ultimate: Japan 2",
+      "file": "missing/P/162159-pixel-puzzles-ultimate-japan-2.json"
+    },
+    {
       "igdb_id": 357887,
       "game_name": "Pixel Puzzles Ultimate: Light Trail",
       "file": "missing/P/357887-pixel-puzzles-ultimate-light-trail.json"
+    },
+    {
+      "igdb_id": 162181,
+      "game_name": "Pixel Puzzles Ultimate: Noel",
+      "file": "missing/P/162181-pixel-puzzles-ultimate-noel.json"
+    },
+    {
+      "igdb_id": 162183,
+      "game_name": "Pixel Puzzles Ultimate: Pin-Ups",
+      "file": "missing/P/162183-pixel-puzzles-ultimate-pin-ups.json"
+    },
+    {
+      "igdb_id": 162154,
+      "game_name": "Pixel Puzzles Ultimate: PP1 UndeadZ",
+      "file": "missing/P/162154-pixel-puzzles-ultimate-pp1-undeadz.json"
+    },
+    {
+      "igdb_id": 162182,
+      "game_name": "Pixel Puzzles Ultimate: Primates",
+      "file": "missing/P/162182-pixel-puzzles-ultimate-primates.json"
     },
     {
       "igdb_id": 163416,
@@ -402518,14 +402653,89 @@
       "file": "missing/P/163416-pixel-puzzles-ultimate-puzzle-pack-2000-ad.json"
     },
     {
+      "igdb_id": 162197,
+      "game_name": "Pixel Puzzles Ultimate: Russia",
+      "file": "missing/P/162197-pixel-puzzles-ultimate-russia.json"
+    },
+    {
+      "igdb_id": 162180,
+      "game_name": "Pixel Puzzles Ultimate: Samurai",
+      "file": "missing/P/162180-pixel-puzzles-ultimate-samurai.json"
+    },
+    {
+      "igdb_id": 162195,
+      "game_name": "Pixel Puzzles Ultimate: Savanna",
+      "file": "missing/P/162195-pixel-puzzles-ultimate-savanna.json"
+    },
+    {
+      "igdb_id": 162193,
+      "game_name": "Pixel Puzzles Ultimate: Shipwrecks",
+      "file": "missing/P/162193-pixel-puzzles-ultimate-shipwrecks.json"
+    },
+    {
+      "igdb_id": 162190,
+      "game_name": "Pixel Puzzles Ultimate: Space 2",
+      "file": "missing/P/162190-pixel-puzzles-ultimate-space-2.json"
+    },
+    {
+      "igdb_id": 162165,
+      "game_name": "Pixel Puzzles Ultimate: Summer",
+      "file": "missing/P/162165-pixel-puzzles-ultimate-summer.json"
+    },
+    {
+      "igdb_id": 162162,
+      "game_name": "Pixel Puzzles Ultimate: Summertime",
+      "file": "missing/P/162162-pixel-puzzles-ultimate-summertime.json"
+    },
+    {
       "igdb_id": 148510,
       "game_name": "Pixel Puzzles Ultimate: Sunflowers",
       "file": "missing/P/148510-pixel-puzzles-ultimate-sunflowers.json"
     },
     {
+      "igdb_id": 162192,
+      "game_name": "Pixel Puzzles Ultimate: T.C.O.T.C",
+      "file": "missing/P/162192-pixel-puzzles-ultimate-t-c-o-t-c.json"
+    },
+    {
+      "igdb_id": 162167,
+      "game_name": "Pixel Puzzles Ultimate: Ukiyo-e",
+      "file": "missing/P/162167-pixel-puzzles-ultimate-ukiyo-e.json"
+    },
+    {
+      "igdb_id": 162174,
+      "game_name": "Pixel Puzzles Ultimate: Ukiyo-e 2",
+      "file": "missing/P/162174-pixel-puzzles-ultimate-ukiyo-e-2.json"
+    },
+    {
+      "igdb_id": 162185,
+      "game_name": "Pixel Puzzles Ultimate: Urban Decay",
+      "file": "missing/P/162185-pixel-puzzles-ultimate-urban-decay.json"
+    },
+    {
+      "igdb_id": 162158,
+      "game_name": "Pixel Puzzles Ultimate: USA",
+      "file": "missing/P/162158-pixel-puzzles-ultimate-usa.json"
+    },
+    {
+      "igdb_id": 162172,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack 1",
+      "file": "missing/P/162172-pixel-puzzles-ultimate-variety-pack-1.json"
+    },
+    {
       "igdb_id": 148493,
       "game_name": "Pixel Puzzles Ultimate: Variety Pack 10",
       "file": "missing/P/148493-pixel-puzzles-ultimate-variety-pack-10.json"
+    },
+    {
+      "igdb_id": 162191,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack 12",
+      "file": "missing/P/162191-pixel-puzzles-ultimate-variety-pack-12.json"
+    },
+    {
+      "igdb_id": 162187,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack 15",
+      "file": "missing/P/162187-pixel-puzzles-ultimate-variety-pack-15.json"
     },
     {
       "igdb_id": 357889,
@@ -402548,9 +402758,49 @@
       "file": "missing/P/192147-pixel-puzzles-ultimate-variety-pack-3xl.json"
     },
     {
+      "igdb_id": 162155,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack 4",
+      "file": "missing/P/162155-pixel-puzzles-ultimate-variety-pack-4.json"
+    },
+    {
+      "igdb_id": 162168,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack 5",
+      "file": "missing/P/162168-pixel-puzzles-ultimate-variety-pack-5.json"
+    },
+    {
       "igdb_id": 192144,
       "game_name": "Pixel Puzzles Ultimate: Variety Pack 5XS",
       "file": "missing/P/192144-pixel-puzzles-ultimate-variety-pack-5xs.json"
+    },
+    {
+      "igdb_id": 162166,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack 9",
+      "file": "missing/P/162166-pixel-puzzles-ultimate-variety-pack-9.json"
+    },
+    {
+      "igdb_id": 162170,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack XS",
+      "file": "missing/P/162170-pixel-puzzles-ultimate-variety-pack-xs.json"
+    },
+    {
+      "igdb_id": 162161,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack XXS",
+      "file": "missing/P/162161-pixel-puzzles-ultimate-variety-pack-xxs.json"
+    },
+    {
+      "igdb_id": 162173,
+      "game_name": "Pixel Puzzles Ultimate: Volcanoes",
+      "file": "missing/P/162173-pixel-puzzles-ultimate-volcanoes.json"
+    },
+    {
+      "igdb_id": 162160,
+      "game_name": "Pixel Puzzles Ultimate: Wales",
+      "file": "missing/P/162160-pixel-puzzles-ultimate-wales.json"
+    },
+    {
+      "igdb_id": 162157,
+      "game_name": "Pixel Puzzles Ultimate: Waterfalls",
+      "file": "missing/P/162157-pixel-puzzles-ultimate-waterfalls.json"
     },
     {
       "igdb_id": 389415,
