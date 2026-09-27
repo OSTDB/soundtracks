@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1999 Christmas Eve | 367492 | [367492-1999-christmas-eve.json](./367492-1999-christmas-eve.json) |
 | 1999: Hore, Mita Koto ka! Seikimatsu | 48607 | [48607-1999-hore-mita-koto-ka-seikimatsu.json](./48607-1999-hore-mita-koto-ka-seikimatsu.json) |
 | 1B Spells | 248318 | [248318-1b-spells.json](./248318-1b-spells.json) |
+| 1Bit Castle | 124702 | [124702-1bit-castle.json](./124702-1bit-castle.json) |
 | 1D Game | 332265 | [332265-1d-game.json](./332265-1d-game.json) |
 | 1Heart | 16316 | [16316-1heart.json](./16316-1heart.json) |
 | 1Key Rocket Launcher | 70099 | [70099-1key-rocket-launcher.json](./70099-1key-rocket-launcher.json) |
@@ -973,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4185113 | 212755 | [212755-4185113.json](./212755-4185113.json) |
 | 419 | 389733 | [389733-419.json](./389733-419.json) |
 | 41m | 234073 | [234073-41m.json](./234073-41m.json) |
+| 420 Button Clicker | 124689 | [124689-420-button-clicker.json](./124689-420-button-clicker.json) |
 | 44 The Jail | 283306 | [283306-44-the-jail.json](./283306-44-the-jail.json) |
 | 450 XP Games | 98817 | [98817-450-xp-games.json](./98817-450-xp-games.json) |
 | 46 Memory Lane | 165501 | [165501-46-memory-lane.json](./165501-46-memory-lane.json) |
