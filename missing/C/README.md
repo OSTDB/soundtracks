@@ -901,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Shop Tycoon | 203368 | [203368-card-shop-tycoon.json](./203368-card-shop-tycoon.json) |
 | Card Shuffle Sort | 251237 | [251237-card-shuffle-sort.json](./251237-card-shuffle-sort.json) |
 | Card Sim: Chinese Restaurant | 391182 | [391182-card-sim-chinese-restaurant.json](./391182-card-sim-chinese-restaurant.json) |
+| Card story | 120851 | [120851-card-story.json](./120851-card-story.json) |
 | Card Summoner | 309445 | [309445-card-summoner.json](./309445-card-summoner.json) |
 | Card Survival: Fantasy Forest | 290925 | [290925-card-survival-fantasy-forest.json](./290925-card-survival-fantasy-forest.json) |
 | Card Thief | 28018 | [28018-card-thief.json](./28018-card-thief.json) |
@@ -2263,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chambers & Crops | 346255 | [346255-chambers-and-crops.json](./346255-chambers-and-crops.json) |
 | Chambers of Devious Design | 153886 | [153886-chambers-of-devious-design.json](./153886-chambers-of-devious-design.json) |
 | Chambers of Shaolin | 11997 | [11997-chambers-of-shaolin.json](./11997-chambers-of-shaolin.json) |
+| Chameleon | 120875 | [120875-chameleon.json](./120875-chameleon.json) |
 | Chameleon | 214466 | [214466-chameleon.json](./214466-chameleon.json) |
 | Chameleon | 21452 | [21452-chameleon.json](./21452-chameleon.json) |
 | Chameleon | 37077 | [37077-chameleon.json](./37077-chameleon.json) |
@@ -6732,6 +6734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashawk | 336162 | [336162-crashawk.json](./336162-crashawk.json) |
 | Crashbots | 109627 | [109627-crashbots.json](./109627-crashbots.json) |
 | Crashed | 329598 | [329598-crashed.json](./329598-crashed.json) |
+| Crashimals | 120893 | [120893-crashimals.json](./120893-crashimals.json) |
 | Crashing Race | 172598 | [172598-crashing-race.json](./172598-crashing-race.json) |
 | Crashland | 144349 | [144349-crashland.json](./144349-crashland.json) |
 | Crashletics | 242217 | [242217-crashletics.json](./242217-crashletics.json) |
@@ -7086,6 +7089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket Heroes: VR | 295785 | [295785-cricket-heroes-vr.json](./295785-cricket-heroes-vr.json) |
 | Cricket League | 242218 | [242218-cricket-league.json](./242218-cricket-league.json) |
 | Cricket Manager 27 | 414308 | [414308-cricket-manager-27.json](./414308-cricket-manager-27.json) |
+| CricVRX: VR Cricket | 120772 | [120772-cricvrx-vr-cricket.json](./120772-cricvrx-vr-cricket.json) |
 | Crimax | 130912 | [130912-crimax.json](./130912-crimax.json) |
 | Crime Boss: Heavy Hitters Pack | 276298 | [276298-crime-boss-heavy-hitters-pack.json](./276298-crime-boss-heavy-hitters-pack.json) |
 | Crime Boss: Rockay City - Cagnali's Order | 315500 | [315500-crime-boss-rockay-city-cagnalis-order.json](./315500-crime-boss-rockay-city-cagnalis-order.json) |
