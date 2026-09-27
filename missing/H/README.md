@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half Light | 374840 | [374840-half-light.json](./374840-half-light.json) |
 | Half Moon ni Kawaru made: Ramiya Ryo no Niji-iro Tamate-bako | 198534 | [198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json](./198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json) |
 | Half of Our | 297569 | [297569-half-of-our.json](./297569-half-of-our.json) |
+| Half Past Fate: Romantic Distancing | 143589 | [143589-half-past-fate-romantic-distancing.json](./143589-half-past-fate-romantic-distancing.json) |
 | Half-Cat | 163958 | [163958-half-cat.json](./163958-half-cat.json) |
 | Half-Chamber | 252100 | [252100-half-chamber.json](./252100-half-chamber.json) |
 | Half-Doomed | 252366 | [252366-half-doomed.json](./252366-half-doomed.json) |
@@ -2508,6 +2509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Maidan 3 | 127754 | [127754-heroes-of-maidan-3.json](./127754-heroes-of-maidan-3.json) |
 | Heroes of Mana | 14990 | [14990-heroes-of-mana.json](./14990-heroes-of-mana.json) |
 | Heroes of Might & Magic: Olden Era | 314543 | [314543-heroes-of-might-and-magic-olden-era.json](./314543-heroes-of-might-and-magic-olden-era.json) |
+| Heroes of Might and Magic | 143578 | [143578-heroes-of-might-and-magic.json](./143578-heroes-of-might-and-magic.json) |
 | Heroes of Might and Magic 3.5: In the Wake of Gods | 19775 | [19775-heroes-of-might-and-magic-3-5-in-the-wake-of-gods.json](./19775-heroes-of-might-and-magic-3-5-in-the-wake-of-gods.json) |
 | Heroes of Might and Magic II: Desecrated Lands | 223031 | [223031-heroes-of-might-and-magic-ii-desecrated-lands.json](./223031-heroes-of-might-and-magic-ii-desecrated-lands.json) |
 | Heroes of Might and Magic II: Gold | 51821 | [51821-heroes-of-might-and-magic-ii-gold.json](./51821-heroes-of-might-and-magic-ii-gold.json) |
@@ -3219,6 +3221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiiro no Kakera: Omoi Iro no Kioku | 136478 | [136478-hiiro-no-kakera-omoi-iro-no-kioku.json](./136478-hiiro-no-kakera-omoi-iro-no-kioku.json) |
 | Hiiro: Collector's Edition | 53211 | [53211-hiiro-collectors-edition.json](./53211-hiiro-collectors-edition.json) |
 | Hiirun | 257112 | [257112-hiirun.json](./257112-hiirun.json) |
+| Hiis | 143579 | [143579-hiis.json](./143579-hiis.json) |
 | Hijack | 13005 | [13005-hijack.json](./13005-hijack.json) |
 | Hijack Jump | 362920 | [362920-hijack-jump.json](./362920-hijack-jump.json) |
 | Hijinks High | 415088 | [415088-hijinks-high.json](./415088-hijinks-high.json) |
@@ -5351,6 +5354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypoxia: One Last Breath | 167291 | [167291-hypoxia-one-last-breath.json](./167291-hypoxia-one-last-breath.json) |
 | HypurrX | 336535 | [336535-hypurrx.json](./336535-hypurrx.json) |
 | Hyrax In The Rocks | 342046 | [342046-hyrax-in-the-rocks.json](./342046-hyrax-in-the-rocks.json) |
+| Hyrule Warriors: Age of Calamity - Expansion Pass | 143618 | [143618-hyrule-warriors-age-of-calamity-expansion-pass.json](./143618-hyrule-warriors-age-of-calamity-expansion-pass.json) |
 | Hyrule Warriors: Age of Calamity - Wave 1: Pulse of the Ancients | 184509 | [184509-hyrule-warriors-age-of-calamity-wave-1-pulse-of-the-ancients.json](./184509-hyrule-warriors-age-of-calamity-wave-1-pulse-of-the-ancients.json) |
 | Hyrule Warriors: Age of Calamity - Wave 2: Guardian of Remembrance | 184510 | [184510-hyrule-warriors-age-of-calamity-wave-2-guardian-of-remembrance.json](./184510-hyrule-warriors-age-of-calamity-wave-2-guardian-of-remembrance.json) |
 | Hyrule Warriors: Age of Calamity + Expansion Pass Bundle | 293728 | [293728-hyrule-warriors-age-of-calamity-expansion-pass-bundle.json](./293728-hyrule-warriors-age-of-calamity-expansion-pass-bundle.json) |
