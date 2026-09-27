@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T03:33:18.951Z",
-  "total_missing": 128726,
+  "generated_at": "2026-09-27T03:48:11.169Z",
+  "total_missing": 128776,
   "games": [
     {
       "igdb_id": 186066,
@@ -60848,6 +60848,51 @@
       "file": "missing/B/238224-blazblue-cross-tag-battle-additional-character-pack-vol-1-to-vol-7.json"
     },
     {
+      "igdb_id": 165992,
+      "game_name": "BlazBlue: Cross Tag Battle - Character Pack Vol. 1: Platinum/Kanji/Orie",
+      "file": "missing/B/165992-blazblue-cross-tag-battle-character-pack-vol-1-platinum-kanji-orie.json"
+    },
+    {
+      "igdb_id": 165994,
+      "game_name": "BlazBlue: Cross Tag Battle - Character Pack Vol. 2: Jubei/Aegis/Carmine",
+      "file": "missing/B/165994-blazblue-cross-tag-battle-character-pack-vol-2-jubei-aegis-carmine.json"
+    },
+    {
+      "igdb_id": 165991,
+      "game_name": "BlazBlue: Cross Tag Battle - Character Pack Vol. 3: Hakumen/NaotoShirogane/Vatista",
+      "file": "missing/B/165991-blazblue-cross-tag-battle-character-pack-vol-3-hakumen-naotoshirogane-vatista.json"
+    },
+    {
+      "igdb_id": 165993,
+      "game_name": "BlazBlue: Cross Tag Battle - Character Pack Vol. 4: Izayoi/Mitsuru/Merkava",
+      "file": "missing/B/165993-blazblue-cross-tag-battle-character-pack-vol-4-izayoi-mitsuru-merkava.json"
+    },
+    {
+      "igdb_id": 165996,
+      "game_name": "BlazBlue: Cross Tag Battle - Character Pack Vol. 5: Mai/Akihiko/Yuzuriha",
+      "file": "missing/B/165996-blazblue-cross-tag-battle-character-pack-vol-5-mai-akihiko-yuzuriha.json"
+    },
+    {
+      "igdb_id": 165997,
+      "game_name": "BlazBlue: Cross Tag Battle - Character Pack Vol. 6: Nine/Labrys/Mika",
+      "file": "missing/B/165997-blazblue-cross-tag-battle-character-pack-vol-6-nine-labrys-mika.json"
+    },
+    {
+      "igdb_id": 165995,
+      "game_name": "BlazBlue: Cross Tag Battle - Character Pack Vol. 7: Heart/NaotoKurogane/Teddie/Seth",
+      "file": "missing/B/165995-blazblue-cross-tag-battle-character-pack-vol-7-heart-naotokurogane-teddie-seth.json"
+    },
+    {
+      "igdb_id": 165999,
+      "game_name": "BlazBlue: Cross Tag Battle - Character: Blake",
+      "file": "missing/B/165999-blazblue-cross-tag-battle-character-blake.json"
+    },
+    {
+      "igdb_id": 165998,
+      "game_name": "BlazBlue: Cross Tag Battle - Character: Yang",
+      "file": "missing/B/165998-blazblue-cross-tag-battle-character-yang.json"
+    },
+    {
       "igdb_id": 167318,
       "game_name": "BlazBlue: Cross Tag Battle - Ver 2.0 Expansion Pack",
       "file": "missing/B/167318-blazblue-cross-tag-battle-ver-2-0-expansion-pack.json"
@@ -67761,6 +67806,11 @@
       "igdb_id": 110835,
       "game_name": "Borderlands 2 VR",
       "file": "missing/B/110835-borderlands-2-vr.json"
+    },
+    {
+      "igdb_id": 166010,
+      "game_name": "Borderlands 2 VR: BAMF DLC Pack",
+      "file": "missing/B/166010-borderlands-2-vr-bamf-dlc-pack.json"
     },
     {
       "igdb_id": 119267,
@@ -100908,6 +100958,11 @@
       "file": "missing/C/151050-cold-breath.json"
     },
     {
+      "igdb_id": 165989,
+      "game_name": "Cold Call",
+      "file": "missing/C/165989-cold-call.json"
+    },
+    {
       "igdb_id": 57683,
       "game_name": "Cold Case Files",
       "file": "missing/C/57683-cold-case-files.json"
@@ -114146,6 +114201,11 @@
       "igdb_id": 58273,
       "game_name": "Crossword Champ",
       "file": "missing/C/58273-crossword-champ.json"
+    },
+    {
+      "igdb_id": 166001,
+      "game_name": "Crossword City Chronicles",
+      "file": "missing/C/166001-crossword-city-chronicles.json"
     },
     {
       "igdb_id": 366416,
@@ -133771,6 +133831,11 @@
       "igdb_id": 68718,
       "game_name": "Descent: Levels of the World",
       "file": "missing/D/68718-descent-levels-of-the-world.json"
+    },
+    {
+      "igdb_id": 166009,
+      "game_name": "Descent: Road to Legend - The Delve",
+      "file": "missing/D/166009-descent-road-to-legend-the-delve.json"
     },
     {
       "igdb_id": 171576,
@@ -250148,6 +250213,11 @@
       "file": "missing/H/129209-house-flipper-vr.json"
     },
     {
+      "igdb_id": 165990,
+      "game_name": "House Flipper: Apocalypse",
+      "file": "missing/H/165990-house-flipper-apocalypse.json"
+    },
+    {
       "igdb_id": 171638,
       "game_name": "House Flipper: Cyberpunk",
       "file": "missing/H/171638-house-flipper-cyberpunk.json"
@@ -316708,6 +316778,16 @@
       "file": "missing/M/74463-malzbies-pinball-collection.json"
     },
     {
+      "igdb_id": 166015,
+      "game_name": "Malzbie's Pinball Collection: Carnival Table",
+      "file": "missing/M/166015-malzbies-pinball-collection-carnival-table.json"
+    },
+    {
+      "igdb_id": 166016,
+      "game_name": "Malzbie's Pinball Collection: The Garden Table",
+      "file": "missing/M/166016-malzbies-pinball-collection-the-garden-table.json"
+    },
+    {
       "igdb_id": 341167,
       "game_name": "Mama Cabra",
       "file": "missing/M/341167-mama-cabra.json"
@@ -373626,6 +373706,11 @@
       "igdb_id": 167677,
       "game_name": "Of Guards and Thieves: Firefight",
       "file": "missing/O/167677-of-guards-and-thieves-firefight.json"
+    },
+    {
+      "igdb_id": 166013,
+      "game_name": "Of Guards and Thieves: Zombie Rush",
+      "file": "missing/O/166013-of-guards-and-thieves-zombie-rush.json"
     },
     {
       "igdb_id": 397097,
@@ -439738,14 +439823,134 @@
       "file": "missing/R/103497-ride-3.json"
     },
     {
+      "igdb_id": 165975,
+      "game_name": "Ride 3: 2-Strokes Pack",
+      "file": "missing/R/165975-ride-3-2-strokes-pack.json"
+    },
+    {
+      "igdb_id": 165969,
+      "game_name": "Ride 3: Back to Basic Pack",
+      "file": "missing/R/165969-ride-3-back-to-basic-pack.json"
+    },
+    {
+      "igdb_id": 165977,
+      "game_name": "Ride 3: Best of 2018 Pack 1",
+      "file": "missing/R/165977-ride-3-best-of-2018-pack-1.json"
+    },
+    {
+      "igdb_id": 165983,
+      "game_name": "Ride 3: Best of 2018 Pack 2",
+      "file": "missing/R/165983-ride-3-best-of-2018-pack-2.json"
+    },
+    {
+      "igdb_id": 165982,
+      "game_name": "Ride 3: Free Pack 1",
+      "file": "missing/R/165982-ride-3-free-pack-1.json"
+    },
+    {
+      "igdb_id": 165979,
+      "game_name": "Ride 3: Free Pack 10",
+      "file": "missing/R/165979-ride-3-free-pack-10.json"
+    },
+    {
+      "igdb_id": 165973,
+      "game_name": "Ride 3: Free Pack 11",
+      "file": "missing/R/165973-ride-3-free-pack-11.json"
+    },
+    {
+      "igdb_id": 165967,
+      "game_name": "Ride 3: Free Pack 12",
+      "file": "missing/R/165967-ride-3-free-pack-12.json"
+    },
+    {
+      "igdb_id": 165974,
+      "game_name": "Ride 3: Free Pack 2",
+      "file": "missing/R/165974-ride-3-free-pack-2.json"
+    },
+    {
+      "igdb_id": 165968,
+      "game_name": "Ride 3: Free Pack 3",
+      "file": "missing/R/165968-ride-3-free-pack-3.json"
+    },
+    {
+      "igdb_id": 165971,
+      "game_name": "Ride 3: Free Pack 4",
+      "file": "missing/R/165971-ride-3-free-pack-4.json"
+    },
+    {
+      "igdb_id": 165981,
+      "game_name": "Ride 3: Free Pack 5",
+      "file": "missing/R/165981-ride-3-free-pack-5.json"
+    },
+    {
+      "igdb_id": 165986,
+      "game_name": "Ride 3: Free Pack 6",
+      "file": "missing/R/165986-ride-3-free-pack-6.json"
+    },
+    {
+      "igdb_id": 165966,
+      "game_name": "Ride 3: Free Pack 7",
+      "file": "missing/R/165966-ride-3-free-pack-7.json"
+    },
+    {
+      "igdb_id": 165984,
+      "game_name": "Ride 3: Free Pack 8",
+      "file": "missing/R/165984-ride-3-free-pack-8.json"
+    },
+    {
+      "igdb_id": 165965,
+      "game_name": "Ride 3: Free Pack 9",
+      "file": "missing/R/165965-ride-3-free-pack-9.json"
+    },
+    {
+      "igdb_id": 165972,
+      "game_name": "Ride 3: Japan Pack",
+      "file": "missing/R/165972-ride-3-japan-pack.json"
+    },
+    {
       "igdb_id": 156106,
       "game_name": "Ride 3: Limited Models Pack",
       "file": "missing/R/156106-ride-3-limited-models-pack.json"
     },
     {
+      "igdb_id": 165980,
+      "game_name": "Ride 3: Racing Pack",
+      "file": "missing/R/165980-ride-3-racing-pack.json"
+    },
+    {
+      "igdb_id": 165970,
+      "game_name": "Ride 3: Sport Bikes Pack",
+      "file": "missing/R/165970-ride-3-sport-bikes-pack.json"
+    },
+    {
+      "igdb_id": 165976,
+      "game_name": "Ride 3: Street Racing Pack",
+      "file": "missing/R/165976-ride-3-street-racing-pack.json"
+    },
+    {
+      "igdb_id": 165978,
+      "game_name": "Ride 3: Supercustom Pack",
+      "file": "missing/R/165978-ride-3-supercustom-pack.json"
+    },
+    {
+      "igdb_id": 165985,
+      "game_name": "Ride 3: Top Performance Pack",
+      "file": "missing/R/165985-ride-3-top-performance-pack.json"
+    },
+    {
+      "igdb_id": 165987,
+      "game_name": "Ride 4: Bonus Pack 13",
+      "file": "missing/R/165987-ride-4-bonus-pack-13.json"
+    },
+    {
       "igdb_id": 190708,
       "game_name": "Ride 4: Bonus Pack 14",
       "file": "missing/R/190708-ride-4-bonus-pack-14.json"
+    },
+    {
+      "igdb_id": 165988,
+      "game_name": "Ride 4: Italian Style Pack 2",
+      "file": "missing/R/165988-ride-4-italian-style-pack-2.json"
     },
     {
       "igdb_id": 190706,
@@ -479263,9 +479468,39 @@
       "file": "missing/S/100585-sleeping-dawn-vr.json"
     },
     {
+      "igdb_id": 166007,
+      "game_name": "Sleeping Dogs: Drunken Fist Pack",
+      "file": "missing/S/166007-sleeping-dogs-drunken-fist-pack.json"
+    },
+    {
+      "igdb_id": 166003,
+      "game_name": "Sleeping Dogs: Monkey King Pack",
+      "file": "missing/S/166003-sleeping-dogs-monkey-king-pack.json"
+    },
+    {
       "igdb_id": 10872,
       "game_name": "Sleeping Dogs: Nightmare in North Point",
       "file": "missing/S/10872-sleeping-dogs-nightmare-in-north-point.json"
+    },
+    {
+      "igdb_id": 166004,
+      "game_name": "Sleeping Dogs: Police Protection Pack",
+      "file": "missing/S/166004-sleeping-dogs-police-protection-pack.json"
+    },
+    {
+      "igdb_id": 166002,
+      "game_name": "Sleeping Dogs: Street Racer Pack",
+      "file": "missing/S/166002-sleeping-dogs-street-racer-pack.json"
+    },
+    {
+      "igdb_id": 166005,
+      "game_name": "Sleeping Dogs: Tactical Soldier Pack",
+      "file": "missing/S/166005-sleeping-dogs-tactical-soldier-pack.json"
+    },
+    {
+      "igdb_id": 166006,
+      "game_name": "Sleeping Dogs: The SWAT Pack",
+      "file": "missing/S/166006-sleeping-dogs-the-swat-pack.json"
     },
     {
       "igdb_id": 10873,
@@ -503136,6 +503371,11 @@
       "igdb_id": 134957,
       "game_name": "Star Wars: Tales from the Galaxy's Edge",
       "file": "missing/S/134957-star-wars-tales-from-the-galaxys-edge.json"
+    },
+    {
+      "igdb_id": 166008,
+      "game_name": "Star Wars: Tales from the Galaxy's Edge - Last Call",
+      "file": "missing/S/166008-star-wars-tales-from-the-galaxys-edge-last-call.json"
     },
     {
       "igdb_id": 75085,
@@ -567901,6 +568141,11 @@
       "igdb_id": 10347,
       "game_name": "TheHunter: Primal",
       "file": "missing/T/10347-thehunter-primal.json"
+    },
+    {
+      "igdb_id": 166000,
+      "game_name": "Their Eyes",
+      "file": "missing/T/166000-their-eyes.json"
     },
     {
       "igdb_id": 250993,
@@ -635796,6 +636041,11 @@
       "igdb_id": 177010,
       "game_name": "Yogurt Royale",
       "file": "missing/Y/177010-yogurt-royale.json"
+    },
+    {
+      "igdb_id": 166014,
+      "game_name": "Yogurting",
+      "file": "missing/Y/166014-yogurting.json"
     },
     {
       "igdb_id": 301020,
