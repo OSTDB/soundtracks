@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naked and Afraid: The Game | 121468 | [121468-naked-and-afraid-the-game.json](./121468-naked-and-afraid-the-game.json) |
 | Naked Little Dude | 131607 | [131607-naked-little-dude.json](./131607-naked-little-dude.json) |
 | Naked News | 129213 | [129213-naked-news.json](./129213-naked-news.json) |
+| Naked Story | 127838 | [127838-naked-story.json](./127838-naked-story.json) |
 | Naked Warrior | 385305 | [385305-naked-warrior.json](./385305-naked-warrior.json) |
 | Nakiti Generations | 31762 | [31762-nakiti-generations.json](./31762-nakiti-generations.json) |
 | Nakoruru: Anohito kara no Okurimono | 57624 | [57624-nakoruru-anohito-kara-no-okurimono.json](./57624-nakoruru-anohito-kara-no-okurimono.json) |
@@ -1523,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newman/Haas IndyCar featuring Nigel Mansell | 22841 | [22841-newman-haas-indycar-featuring-nigel-mansell.json](./22841-newman-haas-indycar-featuring-nigel-mansell.json) |
 | Newman/Haas Racing | 22842 | [22842-newman-haas-racing.json](./22842-newman-haas-racing.json) |
 | NewPark Simon XL | 101507 | [101507-newpark-simon-xl.json](./101507-newpark-simon-xl.json) |
+| News Agency Simulator | 127852 | [127852-news-agency-simulator.json](./127852-news-agency-simulator.json) |
 | News Reacts | 197127 | [197127-news-reacts.json](./197127-news-reacts.json) |
 | Newspaper Puzzle Challenge: Sudoku Edition | 210035 | [210035-newspaper-puzzle-challenge-sudoku-edition.json](./210035-newspaper-puzzle-challenge-sudoku-edition.json) |
 | Newsun | 324519 | [324519-newsun.json](./324519-newsun.json) |
