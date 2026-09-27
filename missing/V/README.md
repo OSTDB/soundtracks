@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vermin | 232696 | [232696-vermin.json](./232696-vermin.json) |
 | Vermin Control | 334483 | [334483-vermin-control.json](./334483-vermin-control.json) |
 | Vermin God: SCP Horror Game | 235157 | [235157-vermin-god-scp-horror-game.json](./235157-vermin-god-scp-horror-game.json) |
+| Vermin Hunter | 120774 | [120774-vermin-hunter.json](./120774-vermin-hunter.json) |
 | Verminator | 55202 | [55202-verminator.json](./55202-verminator.json) |
 | Vermintide Collection | 107265 | [107265-vermintide-collection.json](./107265-vermintide-collection.json) |
 | Vermis | 342745 | [342745-vermis.json](./342745-vermis.json) |
@@ -1024,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violet | 265152 | [265152-violet.json](./265152-violet.json) |
 | Violet Cycle | 81245 | [81245-violet-cycle.json](./81245-violet-cycle.json) |
 | Violet Girl | 169777 | [169777-violet-girl.json](./169777-violet-girl.json) |
+| Violet rE:-The Final reExistence- | 120781 | [120781-violet-re-the-final-reexistence.json](./120781-violet-re-the-final-reexistence.json) |
 | Violett | 18734 | [18734-violett.json](./18734-violett.json) |
 | Violin Paradise | 85474 | [85474-violin-paradise.json](./85474-violin-paradise.json) |
 | Viorate no Atelier: Gramnad no Renkinjutsushi 2 | 26515 | [26515-viorate-no-atelier-gramnad-no-renkinjutsushi-2.json](./26515-viorate-no-atelier-gramnad-no-renkinjutsushi-2.json) |
