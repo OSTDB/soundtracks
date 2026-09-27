@@ -5635,6 +5635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aruma Ketera | 382787 | [382787-aruma-ketera.json](./382787-aruma-ketera.json) |
 | Arvale | 14787 | [14787-arvale.json](./14787-arvale.json) |
 | Arvis Punch | 329015 | [329015-arvis-punch.json](./329015-arvis-punch.json) |
+| Arwinia | 141074 | [141074-arwinia.json](./141074-arwinia.json) |
 | Arx Fatalis | 602 | [602-arx-fatalis.json](./602-arx-fatalis.json) |
 | Arx, After the Reckoning | 228694 | [228694-arx-after-the-reckoning.json](./228694-arx-after-the-reckoning.json) |
 | Arx: End of Sun | 386114 | [386114-arx-end-of-sun.json](./386114-arx-end-of-sun.json) |
