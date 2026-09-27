@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P1 Select | 139803 | [139803-p1-select.json](./139803-p1-select.json) |
 | P1441vr | 186851 | [186851-p1441vr.json](./186851-p1441vr.json) |
 | P47 Thunderbolt | 12838 | [12838-p47-thunderbolt.json](./12838-p47-thunderbolt.json) |
+| P9: The GateAway | 129093 | [129093-p9-the-gateaway.json](./129093-p9-the-gateaway.json) |
 | På Ekspedition i Bibelen | 129775 | [129775-pa-ekspedition-i-bibelen.json](./129775-pa-ekspedition-i-bibelen.json) |
 | Pa-nap | 257072 | [257072-pa-nap.json](./257072-pa-nap.json) |
 | PABG: Player Anime Battlegrounds | 393107 | [393107-pabg-player-anime-battlegrounds.json](./393107-pabg-player-anime-battlegrounds.json) |
@@ -2568,6 +2569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pick Race 3D | 345707 | [345707-pick-race-3d.json](./345707-pick-race-3d.json) |
 | Pick Three!!! | 396238 | [396238-pick-three.json](./396238-pick-three.json) |
 | Pick-A-Gem | 59460 | [59460-pick-a-gem.json](./59460-pick-a-gem.json) |
+| Pick, shoot, repeat! | 129075 | [129075-pick-shoot-repeat.json](./129075-pick-shoot-repeat.json) |
 | Pickaxe Tower | 362860 | [362860-pickaxe-tower.json](./362860-pickaxe-tower.json) |
 | Picker Bot 42 | 287189 | [287189-picker-bot-42.json](./287189-picker-bot-42.json) |
 | Pickers: Adventures in Rust | 209967 | [209967-pickers-adventures-in-rust.json](./209967-pickers-adventures-in-rust.json) |
@@ -4954,6 +4956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polly Pocket: Polly Party Pickup | 293182 | [293182-polly-pocket-polly-party-pickup.json](./293182-polly-pocket-polly-party-pickup.json) |
 | Polly Pocket: Polly's Beautiful Bedroom | 293185 | [293185-polly-pocket-pollys-beautiful-bedroom.json](./293185-polly-pocket-pollys-beautiful-bedroom.json) |
 | Pollywog | 386398 | [386398-pollywog.json](./386398-pollywog.json) |
+| Polnyj ulyot | 129105 | [129105-polnyj-ulyot.json](./129105-polnyj-ulyot.json) |
 | PolterCue | 231647 | [231647-poltercue.json](./231647-poltercue.json) |
 | Poltergeist Watcher | 298661 | [298661-poltergeist-watcher.json](./298661-poltergeist-watcher.json) |
 | Poltergeist: A Pixelated Horror | 17855 | [17855-poltergeist-a-pixelated-horror.json](./17855-poltergeist-a-pixelated-horror.json) |
@@ -6832,6 +6835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prostitute Simulator | 208451 | [208451-prostitute-simulator.json](./208451-prostitute-simulator.json) |
 | ProStroke Golf: World Tour 2007 | 20572 | [20572-prostroke-golf-world-tour-2007.json](./20572-prostroke-golf-world-tour-2007.json) |
 | Prot | 348351 | [348351-prot.json](./348351-prot.json) |
+| Protagonism | 129079 | [129079-protagonism.json](./129079-protagonism.json) |
 | Protagonist Complex One | 392146 | [392146-protagonist-complex-one.json](./392146-protagonist-complex-one.json) |
 | Protean Fox | 376751 | [376751-protean-fox.json](./376751-protean-fox.json) |
 | Protect Harem City | 220654 | [220654-protect-harem-city.json](./220654-protect-harem-city.json) |
@@ -7601,6 +7605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Together: Animals Jigsaw Super Pack | 241311 | [241311-puzzle-together-animals-jigsaw-super-pack.json](./241311-puzzle-together-animals-jigsaw-super-pack.json) |
 | Puzzle Together: Architecture Jigsaw Super Pack | 241312 | [241312-puzzle-together-architecture-jigsaw-super-pack.json](./241312-puzzle-together-architecture-jigsaw-super-pack.json) |
 | Puzzle Together: Great Paintings Jigsaw Super Pack | 241313 | [241313-puzzle-together-great-paintings-jigsaw-super-pack.json](./241313-puzzle-together-great-paintings-jigsaw-super-pack.json) |
+| Puzzle Tower | 129089 | [129089-puzzle-tower.json](./129089-puzzle-tower.json) |
 | Puzzle toys | 268979 | [268979-puzzle-toys.json](./268979-puzzle-toys.json) |
 | Puzzle Trains | 89276 | [89276-puzzle-trains.json](./89276-puzzle-trains.json) |
 | Puzzle Vacations: Australia and New Zealand | 278495 | [278495-puzzle-vacations-australia-and-new-zealand.json](./278495-puzzle-vacations-australia-and-new-zealand.json) |
