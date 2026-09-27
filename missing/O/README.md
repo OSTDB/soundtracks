@@ -2200,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outdoors Unlimited | 137088 | [137088-outdoors-unlimited.json](./137088-outdoors-unlimited.json) |
 | Outer Empires | 67317 | [67317-outer-empires.json](./67317-outer-empires.json) |
 | Outer Factory | 279106 | [279106-outer-factory.json](./279106-outer-factory.json) |
+| Outer Frontier | 160128 | [160128-outer-frontier.json](./160128-outer-frontier.json) |
 | Outer Outage | 265964 | [265964-outer-outage.json](./265964-outer-outage.json) |
 | Outer Rat | 143020 | [143020-outer-rat.json](./143020-outer-rat.json) |
 | Outer Ridge | 14506 | [14506-outer-ridge.json](./14506-outer-ridge.json) |
