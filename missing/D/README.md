@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Pad Hero | 163218 | [163218-d-pad-hero.json](./163218-d-pad-hero.json) |
 | D-Pad Hero 2 | 48649 | [48649-d-pad-hero-2.json](./48649-d-pad-hero-2.json) |
 | D-Paddle vs. Crankquet | 232463 | [232463-d-paddle-vs-crankquet.json](./232463-d-paddle-vs-crankquet.json) |
+| D-Star's | 130793 | [130793-d-stars.json](./130793-d-stars.json) |
 | D-Virus: Devilnitive Edition | 259847 | [259847-d-virus-devilnitive-edition.json](./259847-d-virus-devilnitive-edition.json) |
 | D-Virus: Evil Menance | 259846 | [259846-d-virus-evil-menance.json](./259846-d-virus-evil-menance.json) |
 | D-War | 252133 | [252133-d-war.json](./252133-d-war.json) |
@@ -3292,6 +3293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DEX : Speed Run - Level Maker - World Records | 380430 | [380430-dex-speed-run-level-maker-world-records.json](./380430-dex-speed-run-level-maker-world-records.json) |
 | Dex & Akane | 315824 | [315824-dex-and-akane.json](./315824-dex-and-akane.json) |
 | Dexlinhale | 125963 | [125963-dexlinhale.json](./125963-dexlinhale.json) |
+| Dexoriality | 130824 | [130824-dexoriality.json](./130824-dexoriality.json) |
 | Dexter Stardust | 213337 | [213337-dexter-stardust.json](./213337-dexter-stardust.json) |
 | Dexter's Laboratory: Science Ain't Fair | 8003 | [8003-dexters-laboratory-science-aint-fair.json](./8003-dexters-laboratory-science-aint-fair.json) |
 | Dexterity Ball 3D | 34445 | [34445-dexterity-ball-3d.json](./34445-dexterity-ball-3d.json) |
@@ -6963,6 +6965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drug Lord 2 | 71473 | [71473-drug-lord-2.json](./71473-drug-lord-2.json) |
 | Drug Lords | 193228 | [193228-drug-lords.json](./193228-drug-lords.json) |
 | Drug Prince & Narcotic Girl for Nintendo Switch | 255630 | [255630-drug-prince-and-narcotic-girl-for-nintendo-switch.json](./255630-drug-prince-and-narcotic-girl-for-nintendo-switch.json) |
+| Drug Watch | 130838 | [130838-drug-watch.json](./130838-drug-watch.json) |
 | Drugs and Crime Idle | 153426 | [153426-drugs-and-crime-idle.json](./153426-drugs-and-crime-idle.json) |
 | Drugs to Bee | 103447 | [103447-drugs-to-bee.json](./103447-drugs-to-bee.json) |
 | Drugz: 2D Drug Empire Simulator | 253398 | [253398-drugz-2d-drug-empire-simulator.json](./253398-drugz-2d-drug-empire-simulator.json) |
