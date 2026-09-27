@@ -2758,6 +2758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Devi! | 222291 | [222291-chibi-devi.json](./222291-chibi-devi.json) |
 | Chibi Escape | 301285 | [301285-chibi-escape.json](./301285-chibi-escape.json) |
 | Chibi Fighters 2.0 | 130375 | [130375-chibi-fighters-2-0.json](./130375-chibi-fighters-2-0.json) |
+| Chibi Horror: The School | 156039 | [156039-chibi-horror-the-school.json](./156039-chibi-horror-the-school.json) |
 | Chibi Knight | 386258 | [386258-chibi-knight.json](./386258-chibi-knight.json) |
 | Chibi Knight Classic | 389703 | [389703-chibi-knight-classic.json](./389703-chibi-knight-classic.json) |
 | Chibi Maruko-chan Deluxe Quiz | 47574 | [47574-chibi-maruko-chan-deluxe-quiz.json](./47574-chibi-maruko-chan-deluxe-quiz.json) |
