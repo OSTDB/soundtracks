@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Army: Fast Fingers Shmup | 175366 | [175366-tank-army-fast-fingers-shmup.json](./175366-tank-army-fast-fingers-shmup.json) |
 | Tank Attack | 273913 | [273913-tank-attack.json](./273913-tank-attack.json) |
 | Tank Ball | 95174 | [95174-tank-ball.json](./95174-tank-ball.json) |
+| Tank Battle | 146765 | [146765-tank-battle.json](./146765-tank-battle.json) |
 | Tank Battle | 172044 | [172044-tank-battle.json](./172044-tank-battle.json) |
 | Tank Battle Arena Combat | 395212 | [395212-tank-battle-arena-combat.json](./395212-tank-battle-arena-combat.json) |
 | Tank Battle Heroes: Iron Warfare | 120430 | [120430-tank-battle-heroes-iron-warfare.json](./120430-tank-battle-heroes-iron-warfare.json) |
@@ -10879,6 +10880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gun | 196226 | [196226-top-gun.json](./196226-top-gun.json) |
 | Top Gun Air Combat: Extended | 283835 | [283835-top-gun-air-combat-extended.json](./283835-top-gun-air-combat-extended.json) |
 | Top Gun Global War | 380404 | [380404-top-gun-global-war.json](./380404-top-gun-global-war.json) |
+| Top Gun: Combat Zones | 146784 | [146784-top-gun-combat-zones.json](./146784-top-gun-combat-zones.json) |
 | Top Gun: Combat Zones | 9236 | [9236-top-gun-combat-zones.json](./9236-top-gun-combat-zones.json) |
 | Top Gun: Fire At Will | 20129 | [20129-top-gun-fire-at-will.json](./20129-top-gun-fire-at-will.json) |
 | Top Gun: Hard Lock | 22915 | [22915-top-gun-hard-lock.json](./22915-top-gun-hard-lock.json) |
