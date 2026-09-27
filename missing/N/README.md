@@ -3065,6 +3065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nowhere Girl | 110627 | [110627-nowhere-girl.json](./110627-nowhere-girl.json) |
 | Nowhere Near | 305929 | [305929-nowhere-near.json](./305929-nowhere-near.json) |
 | Nowhere Patrol | 111390 | [111390-nowhere-patrol.json](./111390-nowhere-patrol.json) |
+| Nowotnik Puzzle | 138660 | [138660-nowotnik-puzzle.json](./138660-nowotnik-puzzle.json) |
 | Nowv | 320541 | [320541-nowv.json](./320541-nowv.json) |
 | Nox Archaist: Lord of Storms | 247430 | [247430-nox-archaist-lord-of-storms.json](./247430-nox-archaist-lord-of-storms.json) |
 | Nox Dash | 331480 | [331480-nox-dash.json](./331480-nox-dash.json) |
@@ -3149,6 +3150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuggets Slitherio | 383620 | [383620-nuggets-slitherio.json](./383620-nuggets-slitherio.json) |
 | Nugimus | 97669 | [97669-nugimus.json](./97669-nugimus.json) |
 | NugQuest | 341488 | [341488-nugquest.json](./341488-nugquest.json) |
+| Nui | 138693 | [138693-nui.json](./138693-nui.json) |
 | Nui Goes to Town! | 354410 | [354410-nui-goes-to-town.json](./354410-nui-goes-to-town.json) |
 | Nuign Specter | 251242 | [251242-nuign-specter.json](./251242-nuign-specter.json) |
 | Nuke Destroyer | 97158 | [97158-nuke-destroyer.json](./97158-nuke-destroyer.json) |
