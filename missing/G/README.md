@@ -1679,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostrunner: Winter Pack | 237921 | [237921-ghostrunner-winter-pack.json](./237921-ghostrunner-winter-pack.json) |
 | Ghosts | 11337 | [11337-ghosts.json](./11337-ghosts.json) |
 | Ghosts | 306496 | [306496-ghosts.json](./306496-ghosts.json) |
+| Ghosts 'N Demons | 139876 | [139876-ghosts-n-demons.json](./139876-ghosts-n-demons.json) |
 | Ghosts 'n Goblins | 178021 | [178021-ghosts-n-goblins.json](./178021-ghosts-n-goblins.json) |
 | Ghosts 'n Goblins 64 | 297480 | [297480-ghosts-n-goblins-64.json](./297480-ghosts-n-goblins-64.json) |
 | Ghosts I-IV for Quake | 131580 | [131580-ghosts-i-iv-for-quake.json](./131580-ghosts-i-iv-for-quake.json) |
