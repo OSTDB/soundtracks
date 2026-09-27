@@ -1379,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Stories: Mystic Woods - Collector's Edition | 356763 | [356763-enchanted-stories-mystic-woods-collectors-edition.json](./356763-enchanted-stories-mystic-woods-collectors-edition.json) |
 | Enchanted Trees Escape | 315669 | [315669-enchanted-trees-escape.json](./315669-enchanted-trees-escape.json) |
 | Enchanted Valley: Fantasy Slide Puzzle | 365900 | [365900-enchanted-valley-fantasy-slide-puzzle.json](./365900-enchanted-valley-fantasy-slide-puzzle.json) |
+| Enchanted Words | 146766 | [146766-enchanted-words.json](./146766-enchanted-words.json) |
 | EnchantedGirl | 368676 | [368676-enchantedgirl.json](./368676-enchantedgirl.json) |
 | Enchanter Trilogy | 73789 | [73789-enchanter-trilogy.json](./73789-enchanter-trilogy.json) |
 | Enchantment Siege | 253966 | [253966-enchantment-siege.json](./253966-enchantment-siege.json) |
@@ -3243,6 +3244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explorers: Deluxe Edition | 152280 | [152280-explorers-deluxe-edition.json](./152280-explorers-deluxe-edition.json) |
 | Exploring Phonics 1 for Beginners | 334109 | [334109-exploring-phonics-1-for-beginners.json](./334109-exploring-phonics-1-for-beginners.json) |
 | Explosion | 200466 | [200466-explosion.json](./200466-explosion.json) |
+| Explosionade DX | 146797 | [146797-explosionade-dx.json](./146797-explosionade-dx.json) |
 | Explosive Breaker | 39650 | [39650-explosive-breaker.json](./39650-explosive-breaker.json) |
 | Explosive Dungeon | 179127 | [179127-explosive-dungeon.json](./179127-explosive-dungeon.json) |
 | Explosive Fighter Patton | 11449 | [11449-explosive-fighter-patton.json](./11449-explosive-fighter-patton.json) |
