@@ -3852,6 +3852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merely a Regret | 176922 | [176922-merely-a-regret.json](./176922-merely-a-regret.json) |
 | Merendam 2: Diary of Two Shaman Sisters | 70409 | [70409-merendam-2-diary-of-two-shaman-sisters.json](./70409-merendam-2-diary-of-two-shaman-sisters.json) |
 | MerFight | 191862 | [191862-merfight.json](./191862-merfight.json) |
+| Merge | 121544 | [121544-merge.json](./121544-merge.json) |
 | Merge 3 Mania | 234618 | [234618-merge-3-mania.json](./234618-merge-3-mania.json) |
 | Merge 5: 10x10 Color | 233518 | [233518-merge-5-10x10-color.json](./233518-merge-5-10x10-color.json) |
 | Merge AirPlane | 227501 | [227501-merge-airplane.json](./227501-merge-airplane.json) |
@@ -7488,6 +7489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountaincore | 245932 | [245932-mountaincore.json](./245932-mountaincore.json) |
 | Mounted War | 336691 | [336691-mounted-war.json](./336691-mounted-war.json) |
 | Mountinuum | 285047 | [285047-mountinuum.json](./285047-mountinuum.json) |
+| Mournful Sword | 121583 | [121583-mournful-sword.json](./121583-mournful-sword.json) |
 | Mourning Inc. | 158035 | [158035-mourning-inc.json](./158035-mourning-inc.json) |
 | Mourning Tide | 306174 | [306174-mourning-tide.json](./306174-mourning-tide.json) |
 | Mourningwood Lodge | 370104 | [370104-mourningwood-lodge.json](./370104-mourningwood-lodge.json) |
@@ -8931,6 +8933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery House: Secret Stealth | 88133 | [88133-mystery-house-secret-stealth.json](./88133-mystery-house-secret-stealth.json) |
 | Mystery in the Office | 245840 | [245840-mystery-in-the-office.json](./245840-mystery-in-the-office.json) |
 | Mystery Island II | 147865 | [147865-mystery-island-ii.json](./147865-mystery-island-ii.json) |
+| Mystery Island: Hidden Object Games | 121568 | [121568-mystery-island-hidden-object-games.json](./121568-mystery-island-hidden-object-games.json) |
 | Mystery Island: Missing Amy | 367614 | [367614-mystery-island-missing-amy.json](./367614-mystery-island-missing-amy.json) |
 | Mystery Legends: Phantom of the Opera - Collector’s Edition | 239602 | [239602-mystery-legends-phantom-of-the-opera-collector-s-edition.json](./239602-mystery-legends-phantom-of-the-opera-collector-s-edition.json) |
 | Mystery Loss | 57029 | [57029-mystery-loss.json](./57029-mystery-loss.json) |
