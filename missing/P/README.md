@@ -7388,6 +7388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Games Bundle | 226316 | [226316-puzzle-games-bundle.json](./226316-puzzle-games-bundle.json) |
 | Puzzle Games for Children | 352830 | [352830-puzzle-games-for-children.json](./352830-puzzle-games-for-children.json) |
 | Puzzle Garage | 291615 | [291615-puzzle-garage.json](./291615-puzzle-garage.json) |
+| Puzzle Girl | 155463 | [155463-puzzle-girl.json](./155463-puzzle-girl.json) |
 | Puzzle Girls: Celia | 163913 | [163913-puzzle-girls-celia.json](./163913-puzzle-girls-celia.json) |
 | Puzzle Girls: Lingerie | 109492 | [109492-puzzle-girls-lingerie.json](./109492-puzzle-girls-lingerie.json) |
 | Puzzle Grid | 263571 | [263571-puzzle-grid.json](./263571-puzzle-grid.json) |
