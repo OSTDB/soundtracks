@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jubeat Prop | 268568 | [268568-jubeat-prop.json](./268568-jubeat-prop.json) |
 | Jubeat Ripples | 91903 | [91903-jubeat-ripples.json](./91903-jubeat-ripples.json) |
 | Jubilane | 165696 | [165696-jubilane.json](./165696-jubilane.json) |
+| Juda | 120780 | [120780-juda.json](./120780-juda.json) |
 | Judas | 228527 | [228527-judas.json](./228527-judas.json) |
 | Judas | 29714 | [29714-judas.json](./29714-judas.json) |
 | Jude | 172141 | [172141-jude.json](./172141-jude.json) |
@@ -1352,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump1000 | 189131 | [189131-jump1000.json](./189131-jump1000.json) |
 | Jumpah | 254755 | [254755-jumpah.json](./254755-jumpah.json) |
 | JumpBeard | 199642 | [199642-jumpbeard.json](./199642-jumpbeard.json) |
+| Jumpbot | 120882 | [120882-jumpbot.json](./120882-jumpbot.json) |
 | Jumpbound | 365097 | [365097-jumpbound.json](./365097-jumpbound.json) |
 | Jumpcat | 280915 | [280915-jumpcat.json](./280915-jumpcat.json) |
 | Jumpcut Jigsaws | 407311 | [407311-jumpcut-jigsaws.json](./407311-jumpcut-jigsaws.json) |
@@ -1600,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Another Christmas | 272033 | [272033-just-another-christmas.json](./272033-just-another-christmas.json) |
 | Just Another Day at the Office | 134507 | [134507-just-another-day-at-the-office.json](./134507-just-another-day-at-the-office.json) |
 | Just another generic: FPS | 291219 | [291219-just-another-generic-fps.json](./291219-just-another-generic-fps.json) |
+| Just Another Memory | 120914 | [120914-just-another-memory.json](./120914-just-another-memory.json) |
 | Just Another Platformer | 316052 | [316052-just-another-platformer.json](./316052-just-another-platformer.json) |
 | Just Another Pong Clone | 361736 | [361736-just-another-pong-clone.json](./361736-just-another-pong-clone.json) |
 | Just Another Runner | 204109 | [204109-just-another-runner.json](./204109-just-another-runner.json) |
