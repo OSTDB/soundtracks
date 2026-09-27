@@ -828,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 7: Skies Unknown - FB-22 Strike Raptor Set | 282590 | [282590-ace-combat-7-skies-unknown-fb-22-strike-raptor-set.json](./282590-ace-combat-7-skies-unknown-fb-22-strike-raptor-set.json) |
 | Ace Combat 7: Skies Unknown - Original Aircraft Series | 138246 | [138246-ace-combat-7-skies-unknown-original-aircraft-series.json](./138246-ace-combat-7-skies-unknown-original-aircraft-series.json) |
 | Ace Combat 7: Skies Unknown - Original Aircraft Series Set | 324422 | [324422-ace-combat-7-skies-unknown-original-aircraft-series-set.json](./324422-ace-combat-7-skies-unknown-original-aircraft-series-set.json) |
+| Ace Combat 7: Skies Unknown - Premium Edition | 139975 | [139975-ace-combat-7-skies-unknown-premium-edition.json](./139975-ace-combat-7-skies-unknown-premium-edition.json) |
 | Ace Combat 7: Skies Unknown - Top Gun: Maverick Edition | 204084 | [204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json](./204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json) |
 | Ace Combat 7: Skies Unknown - Ultimate Edition | 282547 | [282547-ace-combat-7-skies-unknown-ultimate-edition.json](./282547-ace-combat-7-skies-unknown-ultimate-edition.json) |
 | Ace Combat 8: Wings of Theve | 381247 | [381247-ace-combat-8-wings-of-theve.json](./381247-ace-combat-8-wings-of-theve.json) |
@@ -7159,6 +7160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azumanga Fighter: Come Back! | 328279 | [328279-azumanga-fighter-come-back.json](./328279-azumanga-fighter-come-back.json) |
 | Azumi and the Vertical Slice | 257075 | [257075-azumi-and-the-vertical-slice.json](./257075-azumi-and-the-vertical-slice.json) |
 | Azur Lane: Crosswave | 109475 | [109475-azur-lane-crosswave.json](./109475-azur-lane-crosswave.json) |
+| Azur Lane: Crosswave - Commanders Calendar Edition | 139918 | [139918-azur-lane-crosswave-commanders-calendar-edition.json](./139918-azur-lane-crosswave-commanders-calendar-edition.json) |
 | Azurael's Circle: Chapter 3 | 112368 | [112368-azuraels-circle-chapter-3.json](./112368-azuraels-circle-chapter-3.json) |
 | Azurael's Circle: Chapter 5 | 168836 | [168836-azuraels-circle-chapter-5.json](./168836-azuraels-circle-chapter-5.json) |
 | Azuran Tales: Trials | 99165 | [99165-azuran-tales-trials.json](./99165-azuran-tales-trials.json) |
