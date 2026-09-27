@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda: Meadow of Shadows | 248290 | [248290-zelda-meadow-of-shadows.json](./248290-zelda-meadow-of-shadows.json) |
 | Zelda: The Wand of Gamelon | 8533 | [8533-zelda-the-wand-of-gamelon.json](./8533-zelda-the-wand-of-gamelon.json) |
 | Zelda's Adventure | 248106 | [248106-zeldas-adventure.json](./248106-zeldas-adventure.json) |
+| Zelda's Birthday | 173087 | [173087-zeldas-birthday.json](./173087-zeldas-birthday.json) |
 | ZeldaBound 64 | 315025 | [315025-zeldabound-64.json](./315025-zeldabound-64.json) |
 | Zeldo's Challenge Ch. 1: Bingo's Revenge | 243618 | [243618-zeldos-challenge-ch-1-bingos-revenge.json](./243618-zeldos-challenge-ch-1-bingos-revenge.json) |
 | Zeldo's Challenge Ch. 2: The Tower of Memories | 243619 | [243619-zeldos-challenge-ch-2-the-tower-of-memories.json](./243619-zeldos-challenge-ch-2-the-tower-of-memories.json) |
@@ -260,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Pinball World: Xena - Warrior Princess Pinball | 354083 | [354083-zen-pinball-world-xena-warrior-princess-pinball.json](./354083-zen-pinball-world-xena-warrior-princess-pinball.json) |
 | Zen Rage | 319223 | [319223-zen-rage.json](./319223-zen-rage.json) |
 | Zen Studios VR Collection | 107642 | [107642-zen-studios-vr-collection.json](./107642-zen-studios-vr-collection.json) |
+| Zen Trails | 173074 | [173074-zen-trails.json](./173074-zen-trails.json) |
 | Zen Training | 316067 | [316067-zen-training.json](./316067-zen-training.json) |
 | Zen Wars | 200187 | [200187-zen-wars.json](./200187-zen-wars.json) |
 | Zen Wash | 381713 | [381713-zen-wash.json](./381713-zen-wash.json) |
