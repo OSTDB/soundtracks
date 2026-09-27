@@ -1299,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Dimensions: Zane Fun Pack | 172610 | [172610-lego-dimensions-zane-fun-pack.json](./172610-lego-dimensions-zane-fun-pack.json) |
 | LEGO Fortnite: Brick Life | 325544 | [325544-lego-fortnite-brick-life.json](./325544-lego-fortnite-brick-life.json) |
 | LEGO Fortnite: Expeditions | 387000 | [387000-lego-fortnite-expeditions.json](./387000-lego-fortnite-expeditions.json) |
+| LEGO Friends | 142951 | [142951-lego-friends.json](./142951-lego-friends.json) |
 | LEGO Friends | 248569 | [248569-lego-friends.json](./248569-lego-friends.json) |
 | LEGO Friends | 6838 | [6838-lego-friends.json](./6838-lego-friends.json) |
 | LEGO Fun Pack | 279031 | [279031-lego-fun-pack.json](./279031-lego-fun-pack.json) |
@@ -1332,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Marvel's Avengers: Marvel's Ant-Man Pack | 138034 | [138034-lego-marvels-avengers-marvels-ant-man-pack.json](./138034-lego-marvels-avengers-marvels-ant-man-pack.json) |
 | LEGO Marvel's Avengers: Marvel's Captain America - Civil War Character Pack | 168780 | [168780-lego-marvels-avengers-marvels-captain-america-civil-war-character-pack.json](./168780-lego-marvels-avengers-marvels-captain-america-civil-war-character-pack.json) |
 | LEGO Marvel's Avengers: Spider-Man Character Pack | 168779 | [168779-lego-marvels-avengers-spider-man-character-pack.json](./168779-lego-marvels-avengers-spider-man-character-pack.json) |
+| LEGO Masterpiece Collection | 142953 | [142953-lego-masterpiece-collection.json](./142953-lego-masterpiece-collection.json) |
 | Lego Merlok 2.0 Version 4.0.0 | 345593 | [345593-lego-merlok-2-0-version-4-0-0.json](./345593-lego-merlok-2-0-version-4-0-0.json) |
 | LEGO Minifigures Online | 17874 | [17874-lego-minifigures-online.json](./17874-lego-minifigures-online.json) |
 | LEGO Ninjago: The Four Paths | 340034 | [340034-lego-ninjago-the-four-paths.json](./340034-lego-ninjago-the-four-paths.json) |
@@ -3948,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucy's World | 229001 | [229001-lucys-world.json](./229001-lucys-world.json) |
 | Ludicrium | 312924 | [312924-ludicrium.json](./312924-ludicrium.json) |
 | Ludicrous Speed | 102162 | [102162-ludicrous-speed.json](./102162-ludicrous-speed.json) |
+| Ludo Anceint | 142938 | [142938-ludo-anceint.json](./142938-ludo-anceint.json) |
 | Ludo Blitz | 58751 | [58751-ludo-blitz.json](./58751-ludo-blitz.json) |
 | Ludo King | 169778 | [169778-ludo-king.json](./169778-ludo-king.json) |
 | Ludo Live!: Heroes and Strategy | 242661 | [242661-ludo-live-heroes-and-strategy.json](./242661-ludo-live-heroes-and-strategy.json) |
