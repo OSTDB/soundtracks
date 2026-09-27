@@ -7890,10 +7890,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: March to War | 25642 | [25642-the-walking-dead-march-to-war.json](./25642-the-walking-dead-march-to-war.json) |
 | The Walking Dead: Michonne | 11204 | [11204-the-walking-dead-michonne.json](./11204-the-walking-dead-michonne.json) |
 | The Walking Dead: Michonne - Episode 2: Give No Shelter | 127034 | [127034-the-walking-dead-michonne-episode-2-give-no-shelter.json](./127034-the-walking-dead-michonne-episode-2-give-no-shelter.json) |
+| The Walking Dead: Onslaught - Sheriff Rick and Hunter Daryl Edition | 139916 | [139916-the-walking-dead-onslaught-sheriff-rick-and-hunter-daryl-edition.json](./139916-the-walking-dead-onslaught-sheriff-rick-and-hunter-daryl-edition.json) |
 | The Walking Dead: Onslaught - Survivors Edition | 139842 | [139842-the-walking-dead-onslaught-survivors-edition.json](./139842-the-walking-dead-onslaught-survivors-edition.json) |
 | The Walking Dead: Onslaught - The Golden Weapons Deluxe Pack | 139956 | [139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json](./139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json) |
 | The Walking Dead: Our World | 55177 | [55177-the-walking-dead-our-world.json](./55177-the-walking-dead-our-world.json) |
 | The Walking Dead: Saints & Sinners - Ch 2: Retribution | 198232 | [198232-the-walking-dead-saints-and-sinners-ch-2-retribution.json](./198232-the-walking-dead-saints-and-sinners-ch-2-retribution.json) |
+| The Walking Dead: Saints & Sinners - The Complete Edition | 139865 | [139865-the-walking-dead-saints-and-sinners-the-complete-edition.json](./139865-the-walking-dead-saints-and-sinners-the-complete-edition.json) |
 | The Walking Dead: Season One - Episode 3: Long Road Ahead | 114942 | [114942-the-walking-dead-season-one-episode-3-long-road-ahead.json](./114942-the-walking-dead-season-one-episode-3-long-road-ahead.json) |
 | The Walking Dead: Season One - Episode 4: Around Every Corner | 114943 | [114943-the-walking-dead-season-one-episode-4-around-every-corner.json](./114943-the-walking-dead-season-one-episode-4-around-every-corner.json) |
 | The Walking Dead: Season Two - Episode 2: A House Divided | 127058 | [127058-the-walking-dead-season-two-episode-2-a-house-divided.json](./127058-the-walking-dead-season-two-episode-2-a-house-divided.json) |
@@ -7972,6 +7974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way We All Go | 345102 | [345102-the-way-we-all-go.json](./345102-the-way-we-all-go.json) |
 | The Wayfarer | 144261 | [144261-the-wayfarer.json](./144261-the-wayfarer.json) |
 | The Wayhaven Chronicles: Book Three | 224639 | [224639-the-wayhaven-chronicles-book-three.json](./224639-the-wayhaven-chronicles-book-three.json) |
+| The Waystone's Toll: A Diorama Mini-Dungeon | 139873 | [139873-the-waystones-toll-a-diorama-mini-dungeon.json](./139873-the-waystones-toll-a-diorama-mini-dungeon.json) |
 | The Wayward Tower | 329031 | [329031-the-wayward-tower.json](./329031-the-wayward-tower.json) |
 | The Weakened Demon Lord and His Servant's Business: Please Give Me Your White Fluid | 82769 | [82769-the-weakened-demon-lord-and-his-servants-business-please-give-me-your-white-fluid.json](./82769-the-weakened-demon-lord-and-his-servants-business-please-give-me-your-white-fluid.json) |
 | The Weakest Link & Friends | 86100 | [86100-the-weakest-link-and-friends.json](./86100-the-weakest-link-and-friends.json) |
@@ -8348,6 +8351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | These nights in Cairo | 74688 | [74688-these-nights-in-cairo.json](./74688-these-nights-in-cairo.json) |
 | These Robotic Hearts of Mine | 22920 | [22920-these-robotic-hearts-of-mine.json](./22920-these-robotic-hearts-of-mine.json) |
 | These Thieving Hearts | 289966 | [289966-these-thieving-hearts.json](./289966-these-thieving-hearts.json) |
+| Theseus | 139912 | [139912-theseus.json](./139912-theseus.json) |
 | Theseus and the Minotaur | 24904 | [24904-theseus-and-the-minotaur.json](./24904-theseus-and-the-minotaur.json) |
 | TheSpoiler | 289962 | [289962-thespoiler.json](./289962-thespoiler.json) |
 | Theta | 67736 | [67736-theta.json](./67736-theta.json) |
@@ -10825,6 +10829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's American Wasteland | 7219 | [7219-tony-hawks-american-wasteland.json](./7219-tony-hawks-american-wasteland.json) |
 | Tony Hawk's Existential Nightmare | 178029 | [178029-tony-hawks-existential-nightmare.json](./178029-tony-hawks-existential-nightmare.json) |
 | Tony Hawk's Pro Skater | 6692 | [6692-tony-hawks-pro-skater.json](./6692-tony-hawks-pro-skater.json) |
+| Tony Hawk's Pro Skater 1+2: Digital Deluxe Edition | 139878 | [139878-tony-hawks-pro-skater-1-2-digital-deluxe-edition.json](./139878-tony-hawks-pro-skater-1-2-digital-deluxe-edition.json) |
 | Tony Hawk's Pro Skater 2 | 201756 | [201756-tony-hawks-pro-skater-2.json](./201756-tony-hawks-pro-skater-2.json) |
 | Tony Hawk's Pro Skater 2 | 229927 | [229927-tony-hawks-pro-skater-2.json](./229927-tony-hawks-pro-skater-2.json) |
 | Tony Hawk's Pro Skater 2 | 259743 | [259743-tony-hawks-pro-skater-2.json](./259743-tony-hawks-pro-skater-2.json) |
