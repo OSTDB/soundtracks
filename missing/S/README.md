@@ -846,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanyo Pachinko Paradise | 55926 | [55926-sanyo-pachinko-paradise.json](./55926-sanyo-pachinko-paradise.json) |
 | Sanyo Pachinko Paradise 2: Umi Monogatari Special | 55942 | [55942-sanyo-pachinko-paradise-2-umi-monogatari-special.json](./55942-sanyo-pachinko-paradise-2-umi-monogatari-special.json) |
 | Sanyo Pachinko Paradise 3 | 55927 | [55927-sanyo-pachinko-paradise-3.json](./55927-sanyo-pachinko-paradise-3.json) |
+| Sanyou Pachinko Paradise 5: Ukiuki Tairyouki | 138685 | [138685-sanyou-pachinko-paradise-5-ukiuki-tairyouki.json](./138685-sanyou-pachinko-paradise-5-ukiuki-tairyouki.json) |
 | Sanzen Sekai Yuugi: Re Multi Universe Myself | 103175 | [103175-sanzen-sekai-yuugi-re-multi-universe-myself.json](./103175-sanzen-sekai-yuugi-re-multi-universe-myself.json) |
 | Sanzensekai no Ko wo Koroshi | 399061 | [399061-sanzensekai-no-ko-wo-koroshi.json](./399061-sanzensekai-no-ko-wo-koroshi.json) |
 | Saomi | 199379 | [199379-saomi.json](./199379-saomi.json) |
@@ -2956,6 +2957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowcrawl | 80971 | [80971-shadowcrawl.json](./80971-shadowcrawl.json) |
 | Shadowfall | 250990 | [250990-shadowfall.json](./250990-shadowfall.json) |
 | Shadowfax | 77333 | [77333-shadowfax.json](./77333-shadowfax.json) |
+| Shadowforge | 138684 | [138684-shadowforge.json](./138684-shadowforge.json) |
 | Shadowgate 2 | 291480 | [291480-shadowgate-2.json](./291480-shadowgate-2.json) |
 | Shadowgate Classic | 8699 | [8699-shadowgate-classic.json](./8699-shadowgate-classic.json) |
 | Shadowgate: MacVenture Series | 35911 | [35911-shadowgate-macventure-series.json](./35911-shadowgate-macventure-series.json) |
@@ -8933,6 +8935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellarium 2 | 298089 | [298089-spellarium-2.json](./298089-spellarium-2.json) |
 | Spellarium 4 | 293703 | [293703-spellarium-4.json](./293703-spellarium-4.json) |
 | Spellarium 8 Match 3 Puzzle | 202665 | [202665-spellarium-8-match-3-puzzle.json](./202665-spellarium-8-match-3-puzzle.json) |
+| Spellbearers | 138670 | [138670-spellbearers.json](./138670-spellbearers.json) |
 | Spellbind | 18183 | [18183-spellbind.json](./18183-spellbind.json) |
 | Spellbind | 35646 | [35646-spellbind.json](./35646-spellbind.json) |
 | Spellbinder: The Nexus Conflict | 62208 | [62208-spellbinder-the-nexus-conflict.json](./62208-spellbinder-the-nexus-conflict.json) |
@@ -9353,6 +9356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splett | 342660 | [342660-splett.json](./342660-splett.json) |
 | Splice: Tree of Life | 91102 | [91102-splice-tree-of-life.json](./91102-splice-tree-of-life.json) |
 | Spliced | 218706 | [218706-spliced.json](./218706-spliced.json) |
+| Splinter | 138691 | [138691-splinter.json](./138691-splinter.json) |
 | Splinter Zone | 28867 | [28867-splinter-zone.json](./28867-splinter-zone.json) |
 | Splintered | 319206 | [319206-splintered.json](./319206-splintered.json) |
 | Splinterlands | 165055 | [165055-splinterlands.json](./165055-splinterlands.json) |
@@ -11219,6 +11223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Infinite Kingdom | 310934 | [310934-stick-infinite-kingdom.json](./310934-stick-infinite-kingdom.json) |
 | Stick It to the Stickman | 215042 | [215042-stick-it-to-the-stickman.json](./215042-stick-it-to-the-stickman.json) |
 | Stick It! | 312183 | [312183-stick-it.json](./312183-stick-it.json) |
+| Stick Knight Takes Over the Universe | 138657 | [138657-stick-knight-takes-over-the-universe.json](./138657-stick-knight-takes-over-the-universe.json) |
 | Stick man Flipper | 112742 | [112742-stick-man-flipper.json](./112742-stick-man-flipper.json) |
 | Stick Man Rescue | 44501 | [44501-stick-man-rescue.json](./44501-stick-man-rescue.json) |
 | Stick Mountain | 412503 | [412503-stick-mountain.json](./412503-stick-mountain.json) |
