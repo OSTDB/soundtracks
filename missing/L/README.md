@@ -2326,6 +2326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lion | 9565 | [9565-lion.json](./9565-lion.json) |
 | Lion Bubble Tosser: The Queen of the Safari | 259078 | [259078-lion-bubble-tosser-the-queen-of-the-safari.json](./259078-lion-bubble-tosser-the-queen-of-the-safari.json) |
 | Lion Pig: Frozen Run | 259238 | [259238-lion-pig-frozen-run.json](./259238-lion-pig-frozen-run.json) |
+| Lion Quest Infinity | 157519 | [157519-lion-quest-infinity.json](./157519-lion-quest-infinity.json) |
 | Lion Tamer | 346061 | [346061-lion-tamer.json](./346061-lion-tamer.json) |
 | Liona's Adventure | 258447 | [258447-lionas-adventure.json](./258447-lionas-adventure.json) |
 | Lionel Trains Presents: Trans-Con! | 348978 | [348978-lionel-trains-presents-trans-con.json](./348978-lionel-trains-presents-trans-con.json) |
