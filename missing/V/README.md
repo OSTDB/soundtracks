@@ -939,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vikings: Valhalla Saga | 228120 | [228120-vikings-valhalla-saga.json](./228120-vikings-valhalla-saga.json) |
 | Vikings: War of Clans | 44118 | [44118-vikings-war-of-clans.json](./44118-vikings-war-of-clans.json) |
 | VikingStory | 149418 | [149418-vikingstory.json](./149418-vikingstory.json) |
+| Viktor Crysworth | 132731 | [132731-viktor-crysworth.json](./132731-viktor-crysworth.json) |
 | Viktor: Enforcer Edition | 53871 | [53871-viktor-enforcer-edition.json](./53871-viktor-enforcer-edition.json) |
 | Vila do Nevoeiro R.E.L.I.D.O | 261300 | [261300-vila-do-nevoeiro-r-e-l-i-d-o.json](./261300-vila-do-nevoeiro-r-e-l-i-d-o.json) |
 | Vile | 111386 | [111386-vile.json](./111386-vile.json) |
@@ -1203,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viscera Cleanup Detail: Shadow Warrior | 16718 | [16718-viscera-cleanup-detail-shadow-warrior.json](./16718-viscera-cleanup-detail-shadow-warrior.json) |
 | Viscera Cleanup Detail: The Vulcan Affair | 167765 | [167765-viscera-cleanup-detail-the-vulcan-affair.json](./167765-viscera-cleanup-detail-the-vulcan-affair.json) |
 | Visceral Cubes | 96462 | [96462-visceral-cubes.json](./96462-visceral-cubes.json) |
+| Visceratum | 132696 | [132696-visceratum.json](./132696-visceratum.json) |
 | Viscous Realms | 269103 | [269103-viscous-realms.json](./269103-viscous-realms.json) |
 | Visible Solar System | 125824 | [125824-visible-solar-system.json](./125824-visible-solar-system.json) |
 | Vision | 88326 | [88326-vision.json](./88326-vision.json) |
