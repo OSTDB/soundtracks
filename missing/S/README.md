@@ -2142,6 +2142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Legends | 108842 | [108842-sega-legends.json](./108842-sega-legends.json) |
 | Sega Mega Drive Portable Video Game Player | 202781 | [202781-sega-mega-drive-portable-video-game-player.json](./202781-sega-mega-drive-portable-video-game-player.json) |
 | Sega Mega Drive Portable Video Game Player: Streets of Rage Special Edition | 202782 | [202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json](./202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json) |
+| Sega Net Mahjong MJ | 130811 | [130811-sega-net-mahjong-mj.json](./130811-sega-net-mahjong-mj.json) |
 | Sega Network Taisen Mahjong MJ4 | 165395 | [165395-sega-network-taisen-mahjong-mj4.json](./165395-sega-network-taisen-mahjong-mj4.json) |
 | Sega Rally 2 | 1572 | [1572-sega-rally-2.json](./1572-sega-rally-2.json) |
 | Sega Rally 2006 | 1573 | [1573-sega-rally-2006.json](./1573-sega-rally-2006.json) |
@@ -9893,6 +9894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squish Run | 251204 | [251204-squish-run.json](./251204-squish-run.json) |
 | Squish the Zombies | 257367 | [257367-squish-the-zombies.json](./257367-squish-the-zombies.json) |
 | Squish Them All | 415148 | [415148-squish-them-all.json](./415148-squish-them-all.json) |
+| Squish'ems | 130801 | [130801-squishems.json](./130801-squishems.json) |
 | Squishies | 111451 | [111451-squishies.json](./111451-squishies.json) |
 | Squishy the Suicidal Pig | 9874 | [9874-squishy-the-suicidal-pig.json](./9874-squishy-the-suicidal-pig.json) |
 | Squonker 3 | 260663 | [260663-squonker-3.json](./260663-squonker-3.json) |
