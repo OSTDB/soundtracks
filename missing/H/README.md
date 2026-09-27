@@ -1338,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Africa | 13874 | [13874-heart-of-africa.json](./13874-heart-of-africa.json) |
 | Heart of China | 12139 | [12139-heart-of-china.json](./12139-heart-of-china.json) |
 | Heart of Crown Online | 217292 | [217292-heart-of-crown-online.json](./217292-heart-of-crown-online.json) |
+| Heart of Enya | 149479 | [149479-heart-of-enya.json](./149479-heart-of-enya.json) |
 | Heart of Evil | 165441 | [165441-heart-of-evil.json](./165441-heart-of-evil.json) |
 | Heart Of Evil: Source | 334847 | [334847-heart-of-evil-source.json](./334847-heart-of-evil-source.json) |
 | Heart of Fantasy | 404441 | [404441-heart-of-fantasy.json](./404441-heart-of-fantasy.json) |
