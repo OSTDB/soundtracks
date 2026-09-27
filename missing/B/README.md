@@ -2506,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belial Wars | 234351 | [234351-belial-wars.json](./234351-belial-wars.json) |
 | Belief & Betrayal | 21459 | [21459-belief-and-betrayal.json](./21459-belief-and-betrayal.json) |
 | Believe | 165632 | [165632-believe.json](./165632-believe.json) |
+| Bell Park, Youth Detective | 139308 | [139308-bell-park-youth-detective.json](./139308-bell-park-youth-detective.json) |
 | Bell's Avenue Vol. 3 | 299817 | [299817-bells-avenue-vol-3.json](./299817-bells-avenue-vol-3.json) |
 | Bella | 260939 | [260939-bella.json](./260939-bella.json) |
 | Bella II | 260938 | [260938-bella-ii.json](./260938-bella-ii.json) |
@@ -2752,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betray Me Not | 239679 | [239679-betray-me-not.json](./239679-betray-me-not.json) |
 | Betrayal At Club Low | 194803 | [194803-betrayal-at-club-low.json](./194803-betrayal-at-club-low.json) |
 | Betrayal Beach: Supporter Pack | 310051 | [310051-betrayal-beach-supporter-pack.json](./310051-betrayal-beach-supporter-pack.json) |
+| Betrayal.io | 139300 | [139300-betrayal-io.json](./139300-betrayal-io.json) |
 | Betrayed Alliance: Book 2 | 239894 | [239894-betrayed-alliance-book-2.json](./239894-betrayed-alliance-book-2.json) |
 | Betrayer | 7711 | [7711-betrayer.json](./7711-betrayer.json) |
 | Betrayer: Curse of the Spine | 168381 | [168381-betrayer-curse-of-the-spine.json](./168381-betrayer-curse-of-the-spine.json) |
@@ -3580,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black | 159265 | [159265-black.json](./159265-black.json) |
 | Black & White | 376747 | [376747-black-and-white.json](./376747-black-and-white.json) |
 | Black Astral | 201317 | [201317-black-astral.json](./201317-black-astral.json) |
+| Black Baby | 139292 | [139292-black-baby.json](./139292-black-baby.json) |
 | Black Baby Classic | 178461 | [178461-black-baby-classic.json](./178461-black-baby-classic.json) |
 | Black Baron | 118530 | [118530-black-baron.json](./118530-black-baron.json) |
 | Black Bart | 101367 | [101367-black-bart.json](./101367-black-bart.json) |
@@ -6666,6 +6669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BTank | 203898 | [203898-btank.json](./203898-btank.json) |
 | BTD: BTD | 258500 | [258500-btd-btd.json](./258500-btd-btd.json) |
 | BTS Island: In the Seom | 206740 | [206740-bts-island-in-the-seom.json](./206740-bts-island-in-the-seom.json) |
+| BTS Universe Story | 139294 | [139294-bts-universe-story.json](./139294-bts-universe-story.json) |
 | Buba | 120348 | [120348-buba.json](./120348-buba.json) |
 | Bubba Yuga | 383523 | [383523-bubba-yuga.json](./383523-bubba-yuga.json) |
 | Bubbaruka! | 149483 | [149483-bubbaruka.json](./149483-bubbaruka.json) |
