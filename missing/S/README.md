@@ -2675,6 +2675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Therapy | 384223 | [384223-sex-therapy.json](./384223-sex-therapy.json) |
 | Sex Twice Hentai | 319170 | [319170-sex-twice-hentai.json](./319170-sex-twice-hentai.json) |
 | Sex Vixens From Space | 72378 | [72378-sex-vixens-from-space.json](./72378-sex-vixens-from-space.json) |
+| SEX VR Horny Nurses | 147875 | [147875-sex-vr-horny-nurses.json](./147875-sex-vr-horny-nurses.json) |
 | Sex With Friends | 367048 | [367048-sex-with-friends.json](./367048-sex-with-friends.json) |
 | Sex with Maids | 248669 | [248669-sex-with-maids.json](./248669-sex-with-maids.json) |
 | Sex with the Devil | 165543 | [165543-sex-with-the-devil.json](./165543-sex-with-the-devil.json) |
@@ -6902,6 +6903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Antics Ultimate Plus | 54388 | [54388-solitaire-antics-ultimate-plus.json](./54388-solitaire-antics-ultimate-plus.json) |
 | Solitaire Battle | 353365 | [353365-solitaire-battle.json](./353365-solitaire-battle.json) |
 | Solitaire Card Deck Game '23 | 231896 | [231896-solitaire-card-deck-game-23.json](./231896-solitaire-card-deck-game-23.json) |
+| Solitaire Card Games | 147883 | [147883-solitaire-card-games.json](./147883-solitaire-card-games.json) |
 | Solitaire Central | 384790 | [384790-solitaire-central.json](./384790-solitaire-central.json) |
 | Solitaire City | 76589 | [76589-solitaire-city.json](./76589-solitaire-city.json) |
 | Solitaire Classic | 277564 | [277564-solitaire-classic.json](./277564-solitaire-classic.json) |
@@ -12874,6 +12876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Clown 3: Revenge | 223179 | [223179-super-clown-3-revenge.json](./223179-super-clown-3-revenge.json) |
 | Super Clown Puzzles | 412996 | [412996-super-clown-puzzles.json](./412996-super-clown-puzzles.json) |
 | Super Clown: Lost Diamonds | 190445 | [190445-super-clown-lost-diamonds.json](./190445-super-clown-lost-diamonds.json) |
+| Super Club Tennis | 147857 | [147857-super-club-tennis.json](./147857-super-club-tennis.json) |
 | Super Cobra | 282073 | [282073-super-cobra.json](./282073-super-cobra.json) |
 | Super Cobra | 346134 | [346134-super-cobra.json](./346134-super-cobra.json) |
 | Super Code Strike | 145014 | [145014-super-code-strike.json](./145014-super-code-strike.json) |
