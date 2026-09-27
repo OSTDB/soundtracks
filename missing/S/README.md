@@ -2322,9 +2322,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensory Baby Toddler Learning Extra | 99392 | [99392-sensory-baby-toddler-learning-extra.json](./99392-sensory-baby-toddler-learning-extra.json) |
 | Sensory Deprivation Chamber | 262088 | [262088-sensory-deprivation-chamber.json](./262088-sensory-deprivation-chamber.json) |
 | Sensory Overload | 395844 | [395844-sensory-overload.json](./395844-sensory-overload.json) |
+| Sensual Adventures: Episode 5 | 155554 | [155554-sensual-adventures-episode-5.json](./155554-sensual-adventures-episode-5.json) |
+| Sensual Adventures: Episode 6 | 155553 | [155553-sensual-adventures-episode-6.json](./155553-sensual-adventures-episode-6.json) |
 | Sensual Adventures: Episode 7 | 245856 | [245856-sensual-adventures-episode-7.json](./245856-sensual-adventures-episode-7.json) |
 | Sensual Adventures: Episode 8 | 259002 | [259002-sensual-adventures-episode-8.json](./259002-sensual-adventures-episode-8.json) |
 | Sensual Adventures: Episode 9 | 277842 | [277842-sensual-adventures-episode-9.json](./277842-sensual-adventures-episode-9.json) |
+| Sensual Adventures: The Game | 155552 | [155552-sensual-adventures-the-game.json](./155552-sensual-adventures-the-game.json) |
 | Sensual VR | 80941 | [80941-sensual-vr.json](./80941-sensual-vr.json) |
 | Sent to the Office | 238445 | [238445-sent-to-the-office.json](./238445-sent-to-the-office.json) |
 | Sentama | 223966 | [223966-sentama.json](./223966-sentama.json) |
