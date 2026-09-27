@@ -983,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tao Taido | 39585 | [39585-tao-taido.json](./39585-tao-taido.json) |
 | Táolí Dìqiú | 158203 | [158203-taoli-diqiu.json](./158203-taoli-diqiu.json) |
 | Taora: Survival | 235197 | [235197-taora-survival.json](./235197-taora-survival.json) |
+| Taoyuan Adventure | 160174 | [160174-taoyuan-adventure.json](./160174-taoyuan-adventure.json) |
 | Tap 'n' Pop 3: Balloon Adventures | 88225 | [88225-tap-n-pop-3-balloon-adventures.json](./88225-tap-n-pop-3-balloon-adventures.json) |
 | Tap a Jam | 73290 | [73290-tap-a-jam.json](./73290-tap-a-jam.json) |
 | Tap Adventure: Time Travel | 27688 | [27688-tap-adventure-time-travel.json](./27688-tap-adventure-time-travel.json) |
@@ -1345,6 +1346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tearscape | 318752 | [318752-tearscape.json](./318752-tearscape.json) |
 | Tearstone: Thieves of the Heart | 195699 | [195699-tearstone-thieves-of-the-heart.json](./195699-tearstone-thieves-of-the-heart.json) |
 | Tearstone: Thieves of the Heart - Collector's Edition | 322791 | [322791-tearstone-thieves-of-the-heart-collectors-edition.json](./322791-tearstone-thieves-of-the-heart-collectors-edition.json) |
+| Teasing Master Takagi-san VR: 1st Semester | 160134 | [160134-teasing-master-takagi-san-vr-1st-semester.json](./160134-teasing-master-takagi-san-vr-1st-semester.json) |
 | Teatime with a Vampire | 301375 | [301375-teatime-with-a-vampire.json](./301375-teatime-with-a-vampire.json) |
 | Tebb And The Chistorbes | 232961 | [232961-tebb-and-the-chistorbes.json](./232961-tebb-and-the-chistorbes.json) |
 | Tebeo | 215147 | [215147-tebeo.json](./215147-tebeo.json) |
@@ -13816,6 +13818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Waters | 295283 | [295283-twisted-waters.json](./295283-twisted-waters.json) |
 | Twisted Worlds | 32918 | [32918-twisted-worlds.json](./32918-twisted-worlds.json) |
 | Twisted! | 95382 | [95382-twisted.json](./95382-twisted.json) |
+| Twistedland VR | 160132 | [160132-twistedland-vr.json](./160132-twistedland-vr.json) |
 | Twister | 91394 | [91394-twister.json](./91394-twister.json) |
 | Twister Mania | 20216 | [20216-twister-mania.json](./20216-twister-mania.json) |
 | Twister Road | 125251 | [125251-twister-road.json](./125251-twister-road.json) |
