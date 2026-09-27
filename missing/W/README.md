@@ -3484,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War | 78611 | [78611-world-war.json](./78611-world-war.json) |
 | World War 1: Ruined - Part 2 | 265118 | [265118-world-war-1-ruined-part-2.json](./265118-world-war-1-ruined-part-2.json) |
 | World War 3: Card Battler | 216480 | [216480-world-war-3-card-battler.json](./216480-world-war-3-card-battler.json) |
+| World War Academy: Commander 1 | 170317 | [170317-world-war-academy-commander-1.json](./170317-world-war-academy-commander-1.json) |
 | World War Alpha | 261288 | [261288-world-war-alpha.json](./261288-world-war-alpha.json) |
 | World War Battle Heroes Field Armies Call of Prison Duty Simulator | 227924 | [227924-world-war-battle-heroes-field-armies-call-of-prison-duty-simulator.json](./227924-world-war-battle-heroes-field-armies-call-of-prison-duty-simulator.json) |
 | World War Battle Simulator | 220643 | [220643-world-war-battle-simulator.json](./220643-world-war-battle-simulator.json) |
