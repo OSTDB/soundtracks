@@ -3630,6 +3630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Simulator Extremes: Ocean Cruise Ship | 10827 | [10827-ship-simulator-extremes-ocean-cruise-ship.json](./10827-ship-simulator-extremes-ocean-cruise-ship.json) |
 | Ship Simulator Extremes: Offshore Vessel | 10828 | [10828-ship-simulator-extremes-offshore-vessel.json](./10828-ship-simulator-extremes-offshore-vessel.json) |
 | Ship Simulator Extremes: Sigita Pack | 10829 | [10829-ship-simulator-extremes-sigita-pack.json](./10829-ship-simulator-extremes-sigita-pack.json) |
+| Ship Simulator Realistic | 173056 | [173056-ship-simulator-realistic.json](./173056-ship-simulator-realistic.json) |
 | Ship Simulator: Maritime Search and Rescue | 27185 | [27185-ship-simulator-maritime-search-and-rescue.json](./27185-ship-simulator-maritime-search-and-rescue.json) |
 | ShipCrafter | 371975 | [371975-shipcrafter.json](./371975-shipcrafter.json) |
 | Shiperoids | 31853 | [31853-shiperoids.json](./31853-shiperoids.json) |
@@ -8247,6 +8248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rangers: Quest | 25617 | [25617-space-rangers-quest.json](./25617-space-rangers-quest.json) |
 | Space raven quest - Tiny planet | 120965 | [120965-space-raven-quest-tiny-planet.json](./120965-space-raven-quest-tiny-planet.json) |
 | Space Rebellion | 66930 | [66930-space-rebellion.json](./66930-space-rebellion.json) |
+| Space Reign | 173047 | [173047-space-reign.json](./173047-space-reign.json) |
 | Space Rescue: Code Pink | 169417 | [169417-space-rescue-code-pink.json](./169417-space-rescue-code-pink.json) |
 | Space Restaurant | 337722 | [337722-space-restaurant.json](./337722-space-restaurant.json) |
 | Space Revenge | 158217 | [158217-space-revenge.json](./158217-space-revenge.json) |
@@ -10840,6 +10842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steins;Gate: Limited Edition | 42680 | [42680-steins-gate-limited-edition.json](./42680-steins-gate-limited-edition.json) |
 | Steins;Gate: Linear Bounded Phenogram | 65504 | [65504-steins-gate-linear-bounded-phenogram.json](./65504-steins-gate-linear-bounded-phenogram.json) |
 | Steins;Gate: Octet of Shifting Space | 65764 | [65764-steins-gate-octet-of-shifting-space.json](./65764-steins-gate-octet-of-shifting-space.json) |
+| Steinstern: Spacewar | 173049 | [173049-steinstern-spacewar.json](./173049-steinstern-spacewar.json) |
 | Stelarace | 245851 | [245851-stelarace.json](./245851-stelarace.json) |
 | Stele | 339664 | [339664-stele.json](./339664-stele.json) |
 | Stella Arcana | 142257 | [142257-stella-arcana.json](./142257-stella-arcana.json) |
@@ -13637,6 +13640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. for Wii U: Stage Bundle | 325075 | [325075-super-smash-bros-for-wii-u-stage-bundle.json](./325075-super-smash-bros-for-wii-u-stage-bundle.json) |
 | Super Smash Bros. for Wii U: Wario's Shoulder Bash from Brawl | 343430 | [343430-super-smash-bros-for-wii-u-warios-shoulder-bash-from-brawl.json](./343430-super-smash-bros-for-wii-u-warios-shoulder-bash-from-brawl.json) |
 | Super Smash Bros. Open | 269059 | [269059-super-smash-bros-open.json](./269059-super-smash-bros-open.json) |
+| Super Smash Bros. Sonic 2 Mod | 173085 | [173085-super-smash-bros-sonic-2-mod.json](./173085-super-smash-bros-sonic-2-mod.json) |
 | Super Smash Bros. Ultimate - Piranha Plant | 136383 | [136383-super-smash-bros-ultimate-piranha-plant.json](./136383-super-smash-bros-ultimate-piranha-plant.json) |
 | Super Smash Bros. Ultimate: Akaza Moveset | 395017 | [395017-super-smash-bros-ultimate-akaza-moveset.json](./395017-super-smash-bros-ultimate-akaza-moveset.json) |
 | Super Smash Bros. Ultimate: Animdude Moveset | 395034 | [395034-super-smash-bros-ultimate-animdude-moveset.json](./395034-super-smash-bros-ultimate-animdude-moveset.json) |
@@ -13877,6 +13881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperDungeon MegaCorp | 190995 | [190995-superdungeon-megacorp.json](./190995-superdungeon-megacorp.json) |
 | Superfighter | 325272 | [325272-superfighter.json](./325272-superfighter.json) |
 | Superfighters of Survival | 338292 | [338292-superfighters-of-survival.json](./338292-superfighters-of-survival.json) |
+| Superfluous Returnz | 173055 | [173055-superfluous-returnz.json](./173055-superfluous-returnz.json) |
 | Superfly Santa Claus | 62212 | [62212-superfly-santa-claus.json](./62212-superfly-santa-claus.json) |
 | Superguy and Megaboy | 316615 | [316615-superguy-and-megaboy.json](./316615-superguy-and-megaboy.json) |
 | SuperHero | 161259 | [161259-superhero.json](./161259-superhero.json) |
