@@ -3725,6 +3725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Designer Makeover Blast: Sheila's Little Girl's Room | 255073 | [255073-home-designer-makeover-blast-sheilas-little-girls-room.json](./255073-home-designer-makeover-blast-sheilas-little-girls-room.json) |
 | Home Designer Makeover Blast: Sheila's Modern Kitchen | 255071 | [255071-home-designer-makeover-blast-sheilas-modern-kitchen.json](./255071-home-designer-makeover-blast-sheilas-modern-kitchen.json) |
 | Home Designer Makeover Blast: Steve's Sky Loft | 255072 | [255072-home-designer-makeover-blast-steves-sky-loft.json](./255072-home-designer-makeover-blast-steves-sky-loft.json) |
+| Home Designer: Home Sweet Home | 170838 | [170838-home-designer-home-sweet-home.json](./170838-home-designer-home-sweet-home.json) |
 | Home Designer: House Makeover | 239035 | [239035-home-designer-house-makeover.json](./239035-home-designer-house-makeover.json) |
 | Home Designer: Living Room | 169947 | [169947-home-designer-living-room.json](./169947-home-designer-living-room.json) |
 | Home Domes | 277962 | [277962-home-domes.json](./277962-home-domes.json) |
