@@ -3360,6 +3360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyorols | 399180 | [399180-nyorols.json](./399180-nyorols.json) |
 | Nyotai Inkan: Utsurikawaru Chijokuteki Koukishin | 313235 | [313235-nyotai-inkan-utsurikawaru-chijokuteki-koukishin.json](./313235-nyotai-inkan-utsurikawaru-chijokuteki-koukishin.json) |
 | Nyra: The Fall of Light | 390097 | [390097-nyra-the-fall-of-light.json](./390097-nyra-the-fall-of-light.json) |
+| Nyrthos | 120242 | [120242-nyrthos.json](./120242-nyrthos.json) |
 | NYT Crossplay: Play and Spell | 387535 | [387535-nyt-crossplay-play-and-spell.json](./387535-nyt-crossplay-play-and-spell.json) |
 | NYT Games | 280218 | [280218-nyt-games.json](./280218-nyt-games.json) |
 | Nyx | 98804 | [98804-nyx.json](./98804-nyx.json) |
