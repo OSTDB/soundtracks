@@ -442,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiden V: Director's Cut - Limited Edition | 136319 | [136319-raiden-v-directors-cut-limited-edition.json](./136319-raiden-v-directors-cut-limited-edition.json) |
 | Raider | 319597 | [319597-raider.json](./319597-raider.json) |
 | Raider | 351801 | [351801-raider.json](./351801-raider.json) |
+| Raider Kid and the Ruby Chest | 130287 | [130287-raider-kid-and-the-ruby-chest.json](./130287-raider-kid-and-the-ruby-chest.json) |
 | Raider: Dark Age | 261753 | [261753-raider-dark-age.json](./261753-raider-dark-age.json) |
 | Raiders 1941 | 406812 | [406812-raiders-1941.json](./406812-raiders-1941.json) |
 | Raiders of Blackveil | 341668 | [341668-raiders-of-blackveil.json](./341668-raiders-of-blackveil.json) |
@@ -1759,6 +1760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Square Escape 2 | 165612 | [165612-red-square-escape-2.json](./165612-red-square-escape-2.json) |
 | Red Stone Online | 35737 | [35737-red-stone-online.json](./35737-red-stone-online.json) |
 | Red Storm Survival | 96035 | [96035-red-storm-survival.json](./96035-red-storm-survival.json) |
+| Red Sun Raiders | 130272 | [130272-red-sun-raiders.json](./130272-red-sun-raiders.json) |
 | Red Supreme | 337733 | [337733-red-supreme.json](./337733-red-supreme.json) |
 | Red Tag Rendezvous | 180769 | [180769-red-tag-rendezvous.json](./180769-red-tag-rendezvous.json) |
 | Red Tape | 226968 | [226968-red-tape.json](./226968-red-tape.json) |
