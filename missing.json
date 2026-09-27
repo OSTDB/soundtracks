@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T05:33:00.488Z",
-  "total_missing": 129126,
+  "generated_at": "2026-09-27T05:47:54.754Z",
+  "total_missing": 129176,
   "games": [
     {
       "igdb_id": 186066,
@@ -222756,6 +222756,11 @@
       "igdb_id": 233111,
       "game_name": "Great Race: Route 66",
       "file": "missing/G/233111-great-race-route-66.json"
+    },
+    {
+      "igdb_id": 161644,
+      "game_name": "Great Song's Records of Economy",
+      "file": "missing/G/161644-great-songs-records-of-economy.json"
     },
     {
       "igdb_id": 306684,
@@ -550613,6 +550618,11 @@
       "file": "missing/T/314061-the-haunted-house.json"
     },
     {
+      "igdb_id": 161693,
+      "game_name": "The Haunted House of Doom",
+      "file": "missing/T/161693-the-haunted-house-of-doom.json"
+    },
+    {
       "igdb_id": 392259,
       "game_name": "The Haunted House: Dark Island",
       "file": "missing/T/392259-the-haunted-house-dark-island.json"
@@ -565258,6 +565268,11 @@
       "file": "missing/T/232557-the-terrors-of-trantoss.json"
     },
     {
+      "igdb_id": 161645,
+      "game_name": "The test of beauty",
+      "file": "missing/T/161645-the-test-of-beauty.json"
+    },
+    {
       "igdb_id": 132660,
       "game_name": "The Test: Hypothesis Rising",
       "file": "missing/T/132660-the-test-hypothesis-rising.json"
@@ -568816,6 +568831,11 @@
       "igdb_id": 125983,
       "game_name": "The World to Reverse.",
       "file": "missing/T/125983-the-world-to-reverse.json"
+    },
+    {
+      "igdb_id": 161646,
+      "game_name": "The World We Saved",
+      "file": "missing/T/161646-the-world-we-saved.json"
     },
     {
       "igdb_id": 141086,
@@ -572553,6 +572573,181 @@
       "file": "missing/T/206789-tiger-eye-part-i-curse-of-the-riddle-box.json"
     },
     {
+      "igdb_id": 161690,
+      "game_name": "Tiger Fighter 1931: MP001",
+      "file": "missing/T/161690-tiger-fighter-1931-mp001.json"
+    },
+    {
+      "igdb_id": 161682,
+      "game_name": "Tiger Fighter 1931: MP002",
+      "file": "missing/T/161682-tiger-fighter-1931-mp002.json"
+    },
+    {
+      "igdb_id": 161648,
+      "game_name": "Tiger Fighter 1931: MP003",
+      "file": "missing/T/161648-tiger-fighter-1931-mp003.json"
+    },
+    {
+      "igdb_id": 161674,
+      "game_name": "Tiger Fighter 1931: MP004",
+      "file": "missing/T/161674-tiger-fighter-1931-mp004.json"
+    },
+    {
+      "igdb_id": 161649,
+      "game_name": "Tiger Fighter 1931: MP005",
+      "file": "missing/T/161649-tiger-fighter-1931-mp005.json"
+    },
+    {
+      "igdb_id": 161660,
+      "game_name": "Tiger Fighter 1931: MP006",
+      "file": "missing/T/161660-tiger-fighter-1931-mp006.json"
+    },
+    {
+      "igdb_id": 161656,
+      "game_name": "Tiger Fighter 1931: MP007",
+      "file": "missing/T/161656-tiger-fighter-1931-mp007.json"
+    },
+    {
+      "igdb_id": 161680,
+      "game_name": "Tiger Fighter 1931: MP008",
+      "file": "missing/T/161680-tiger-fighter-1931-mp008.json"
+    },
+    {
+      "igdb_id": 161670,
+      "game_name": "Tiger Fighter 1931: MP009",
+      "file": "missing/T/161670-tiger-fighter-1931-mp009.json"
+    },
+    {
+      "igdb_id": 161668,
+      "game_name": "Tiger Fighter 1931: MP010",
+      "file": "missing/T/161668-tiger-fighter-1931-mp010.json"
+    },
+    {
+      "igdb_id": 161657,
+      "game_name": "Tiger Fighter 1931: MP011",
+      "file": "missing/T/161657-tiger-fighter-1931-mp011.json"
+    },
+    {
+      "igdb_id": 161659,
+      "game_name": "Tiger Fighter 1931: MP012",
+      "file": "missing/T/161659-tiger-fighter-1931-mp012.json"
+    },
+    {
+      "igdb_id": 161681,
+      "game_name": "Tiger Fighter 1931: MP013",
+      "file": "missing/T/161681-tiger-fighter-1931-mp013.json"
+    },
+    {
+      "igdb_id": 161679,
+      "game_name": "Tiger Fighter 1931: MP014",
+      "file": "missing/T/161679-tiger-fighter-1931-mp014.json"
+    },
+    {
+      "igdb_id": 161658,
+      "game_name": "Tiger Fighter 1931: MP015",
+      "file": "missing/T/161658-tiger-fighter-1931-mp015.json"
+    },
+    {
+      "igdb_id": 161672,
+      "game_name": "Tiger Fighter 1931: MP016",
+      "file": "missing/T/161672-tiger-fighter-1931-mp016.json"
+    },
+    {
+      "igdb_id": 161664,
+      "game_name": "Tiger Fighter 1931: MP017",
+      "file": "missing/T/161664-tiger-fighter-1931-mp017.json"
+    },
+    {
+      "igdb_id": 161686,
+      "game_name": "Tiger Fighter 1931: MP018",
+      "file": "missing/T/161686-tiger-fighter-1931-mp018.json"
+    },
+    {
+      "igdb_id": 161673,
+      "game_name": "Tiger Fighter 1931: MP019",
+      "file": "missing/T/161673-tiger-fighter-1931-mp019.json"
+    },
+    {
+      "igdb_id": 161684,
+      "game_name": "Tiger Fighter 1931: MP020",
+      "file": "missing/T/161684-tiger-fighter-1931-mp020.json"
+    },
+    {
+      "igdb_id": 161653,
+      "game_name": "Tiger Fighter 1931: MP021",
+      "file": "missing/T/161653-tiger-fighter-1931-mp021.json"
+    },
+    {
+      "igdb_id": 161677,
+      "game_name": "Tiger Fighter 1931: MP022",
+      "file": "missing/T/161677-tiger-fighter-1931-mp022.json"
+    },
+    {
+      "igdb_id": 161687,
+      "game_name": "Tiger Fighter 1931: MP023",
+      "file": "missing/T/161687-tiger-fighter-1931-mp023.json"
+    },
+    {
+      "igdb_id": 161675,
+      "game_name": "Tiger Fighter 1931: MP024",
+      "file": "missing/T/161675-tiger-fighter-1931-mp024.json"
+    },
+    {
+      "igdb_id": 161661,
+      "game_name": "Tiger Fighter 1931: MP025",
+      "file": "missing/T/161661-tiger-fighter-1931-mp025.json"
+    },
+    {
+      "igdb_id": 161663,
+      "game_name": "Tiger Fighter 1931: MP026",
+      "file": "missing/T/161663-tiger-fighter-1931-mp026.json"
+    },
+    {
+      "igdb_id": 161683,
+      "game_name": "Tiger Fighter 1931: MP027",
+      "file": "missing/T/161683-tiger-fighter-1931-mp027.json"
+    },
+    {
+      "igdb_id": 161665,
+      "game_name": "Tiger Fighter 1931: MP028",
+      "file": "missing/T/161665-tiger-fighter-1931-mp028.json"
+    },
+    {
+      "igdb_id": 161650,
+      "game_name": "Tiger Fighter 1931: MP029",
+      "file": "missing/T/161650-tiger-fighter-1931-mp029.json"
+    },
+    {
+      "igdb_id": 161685,
+      "game_name": "Tiger Fighter 1931: MP030",
+      "file": "missing/T/161685-tiger-fighter-1931-mp030.json"
+    },
+    {
+      "igdb_id": 161689,
+      "game_name": "Tiger Fighter 1931: MP031",
+      "file": "missing/T/161689-tiger-fighter-1931-mp031.json"
+    },
+    {
+      "igdb_id": 161676,
+      "game_name": "Tiger Fighter 1931: MP032",
+      "file": "missing/T/161676-tiger-fighter-1931-mp032.json"
+    },
+    {
+      "igdb_id": 161666,
+      "game_name": "Tiger Fighter 1931: MP033",
+      "file": "missing/T/161666-tiger-fighter-1931-mp033.json"
+    },
+    {
+      "igdb_id": 161651,
+      "game_name": "Tiger Fighter 1931: MP034",
+      "file": "missing/T/161651-tiger-fighter-1931-mp034.json"
+    },
+    {
+      "igdb_id": 161654,
+      "game_name": "Tiger Fighter 1931: MP035",
+      "file": "missing/T/161654-tiger-fighter-1931-mp035.json"
+    },
+    {
       "igdb_id": 173757,
       "game_name": "Tiger Fighter 1931: MP061",
       "file": "missing/T/173757-tiger-fighter-1931-mp061.json"
@@ -572636,6 +572831,56 @@
       "igdb_id": 121476,
       "game_name": "Tiger Fighter 1931: Sunset",
       "file": "missing/T/121476-tiger-fighter-1931-sunset.json"
+    },
+    {
+      "igdb_id": 161692,
+      "game_name": "Tiger Fighter 1931: Sunset MP001",
+      "file": "missing/T/161692-tiger-fighter-1931-sunset-mp001.json"
+    },
+    {
+      "igdb_id": 161688,
+      "game_name": "Tiger Fighter 1931: Sunset MP002",
+      "file": "missing/T/161688-tiger-fighter-1931-sunset-mp002.json"
+    },
+    {
+      "igdb_id": 161669,
+      "game_name": "Tiger Fighter 1931: Sunset MP003",
+      "file": "missing/T/161669-tiger-fighter-1931-sunset-mp003.json"
+    },
+    {
+      "igdb_id": 161691,
+      "game_name": "Tiger Fighter 1931: Sunset MP004",
+      "file": "missing/T/161691-tiger-fighter-1931-sunset-mp004.json"
+    },
+    {
+      "igdb_id": 161667,
+      "game_name": "Tiger Fighter 1931: Sunset MP005",
+      "file": "missing/T/161667-tiger-fighter-1931-sunset-mp005.json"
+    },
+    {
+      "igdb_id": 161655,
+      "game_name": "Tiger Fighter 1931: Sunset MP006",
+      "file": "missing/T/161655-tiger-fighter-1931-sunset-mp006.json"
+    },
+    {
+      "igdb_id": 161678,
+      "game_name": "Tiger Fighter 1931: Sunset MP007",
+      "file": "missing/T/161678-tiger-fighter-1931-sunset-mp007.json"
+    },
+    {
+      "igdb_id": 161662,
+      "game_name": "Tiger Fighter 1931: Sunset MP008",
+      "file": "missing/T/161662-tiger-fighter-1931-sunset-mp008.json"
+    },
+    {
+      "igdb_id": 161652,
+      "game_name": "Tiger Fighter 1931: Sunset MP009",
+      "file": "missing/T/161652-tiger-fighter-1931-sunset-mp009.json"
+    },
+    {
+      "igdb_id": 161671,
+      "game_name": "Tiger Fighter 1931: Sunset MP010",
+      "file": "missing/T/161671-tiger-fighter-1931-sunset-mp010.json"
     },
     {
       "igdb_id": 189567,
@@ -643321,6 +643566,11 @@
       "igdb_id": 25753,
       "game_name": "Zombapocalypse",
       "file": "missing/Z/25753-zombapocalypse.json"
+    },
+    {
+      "igdb_id": 161647,
+      "game_name": "Zombardment",
+      "file": "missing/Z/161647-zombardment.json"
     },
     {
       "igdb_id": 377134,
