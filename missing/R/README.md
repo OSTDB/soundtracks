@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabi Laby 3 | 84833 | [84833-rabi-laby-3.json](./84833-rabi-laby-3.json) |
 | Rabi to Navi no Daibouken | 206179 | [206179-rabi-to-navi-no-daibouken.json](./206179-rabi-to-navi-no-daibouken.json) |
 | Rabi-Ribi | 28545 | [28545-rabi-ribi.json](./28545-rabi-ribi.json) |
+| Rabi-Ribi: Cicini's Halloween! | 171360 | [171360-rabi-ribi-cicinis-halloween.json](./171360-rabi-ribi-cicinis-halloween.json) |
 | Rabi-Ribi: Is the order a DLC? | 171637 | [171637-rabi-ribi-is-the-order-a-dlc.json](./171637-rabi-ribi-is-the-order-a-dlc.json) |
 | Rabid Helix | 257656 | [257656-rabid-helix.json](./257656-rabid-helix.json) |
 | Rabiez: Epidemic | 33347 | [33347-rabiez-epidemic.json](./33347-rabiez-epidemic.json) |
@@ -580,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Unicorn Nail Salon | 90353 | [90353-rainbow-unicorn-nail-salon.json](./90353-rainbow-unicorn-nail-salon.json) |
 | Rainbow Warhead | 244859 | [244859-rainbow-warhead.json](./244859-rainbow-warhead.json) |
 | Rainbows, Toilets & Unicorns: Entertainment Corp. | 171607 | [171607-rainbows-toilets-and-unicorns-entertainment-corp.json](./171607-rainbows-toilets-and-unicorns-entertainment-corp.json) |
+| Rainbows, Toilets & Unicorns: Influencerama | 171407 | [171407-rainbows-toilets-and-unicorns-influencerama.json](./171407-rainbows-toilets-and-unicorns-influencerama.json) |
 | Rainbows, Toilets & Unicorns: Outraged & Offended | 171569 | [171569-rainbows-toilets-and-unicorns-outraged-and-offended.json](./171569-rainbows-toilets-and-unicorns-outraged-and-offended.json) |
 | Rainboy | 178082 | [178082-rainboy.json](./178082-rainboy.json) |
 | Rainchaser | 315623 | [315623-rainchaser.json](./315623-rainchaser.json) |
