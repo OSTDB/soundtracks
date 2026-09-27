@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vera Blanc: Supernatural Mysteries | 306516 | [306516-vera-blanc-supernatural-mysteries.json](./306516-vera-blanc-supernatural-mysteries.json) |
 | Vera: The Last Hope | 215673 | [215673-vera-the-last-hope.json](./215673-vera-the-last-hope.json) |
 | Verald Defense | 53874 | [53874-verald-defense.json](./53874-verald-defense.json) |
+| Verdant Citadel | 141778 | [141778-verdant-citadel.json](./141778-verdant-citadel.json) |
 | Verdge | 377701 | [377701-verdge.json](./377701-verdge.json) |
 | Verdict | 166606 | [166606-verdict.json](./166606-verdict.json) |
 | Verdonia | 92446 | [92446-verdonia.json](./92446-verdonia.json) |
@@ -1330,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voice of Pripyat | 16920 | [16920-voice-of-pripyat.json](./16920-voice-of-pripyat.json) |
 | Voice of the Killer | 150094 | [150094-voice-of-the-killer.json](./150094-voice-of-the-killer.json) |
 | Voice of the Wizard by Brett Farkas | 221179 | [221179-voice-of-the-wizard-by-brett-farkas.json](./221179-voice-of-the-wizard-by-brett-farkas.json) |
+| Voice of Vamana | 141743 | [141743-voice-of-vamana.json](./141743-voice-of-vamana.json) |
 | Voice over | 224746 | [224746-voice-over.json](./224746-voice-over.json) |
 | Voice Paradise | 270636 | [270636-voice-paradise.json](./270636-voice-paradise.json) |
 | Voicemail: Laura | 383074 | [383074-voicemail-laura.json](./383074-voicemail-laura.json) |
