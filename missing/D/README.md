@@ -628,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Grid | 373014 | [373014-dark-grid.json](./373014-dark-grid.json) |
 | Dark Half | 42562 | [42562-dark-half.json](./42562-dark-half.json) |
 | Dark Harvest: Ascension | 224577 | [224577-dark-harvest-ascension.json](./224577-dark-harvest-ascension.json) |
+| Dark Heart Mansion | 156994 | [156994-dark-heart-mansion.json](./156994-dark-heart-mansion.json) |
 | Dark Honor | 403652 | [403652-dark-honor.json](./403652-dark-honor.json) |
 | Dark Horizon | 19639 | [19639-dark-horizon.json](./19639-dark-horizon.json) |
 | Dark Hours | 251843 | [251843-dark-hours.json](./251843-dark-hours.json) |
@@ -6050,6 +6051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ruins II | 328277 | [328277-dragon-ruins-ii.json](./328277-dragon-ruins-ii.json) |
 | Dragon Ruins II: Aftermath | 356739 | [356739-dragon-ruins-ii-aftermath.json](./356739-dragon-ruins-ii-aftermath.json) |
 | Dragon Run Classic | 218553 | [218553-dragon-run-classic.json](./218553-dragon-run-classic.json) |
+| Dragon Saddle Melee | 157061 | [157061-dragon-saddle-melee.json](./157061-dragon-saddle-melee.json) |
 | Dragon Saga | 15888 | [15888-dragon-saga.json](./15888-dragon-saga.json) |
 | Dragon Side II: The Twisted Speare | 122988 | [122988-dragon-side-ii-the-twisted-speare.json](./122988-dragon-side-ii-the-twisted-speare.json) |
 | Dragon Simulator Multiplayer | 111350 | [111350-dragon-simulator-multiplayer.json](./111350-dragon-simulator-multiplayer.json) |
@@ -6310,6 +6312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Addict | 303491 | [303491-dream-addict.json](./303491-dream-addict.json) |
 | Dream Adventure | 264068 | [264068-dream-adventure.json](./264068-dream-adventure.json) |
 | Dream Animal | 376759 | [376759-dream-animal.json](./376759-dream-animal.json) |
+| Dream Big 2 | 156992 | [156992-dream-big-2.json](./156992-dream-big-2.json) |
 | Dream Boundary | 347715 | [347715-dream-boundary.json](./347715-dream-boundary.json) |
 | Dream Bubblez | 103491 | [103491-dream-bubblez.json](./103491-dream-bubblez.json) |
 | Dream Builder: Amusement Park | 294200 | [294200-dream-builder-amusement-park.json](./294200-dream-builder-amusement-park.json) |
@@ -6446,6 +6449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamfarer | 123001 | [123001-dreamfarer.json](./123001-dreamfarer.json) |
 | Dreamgate | 130060 | [130060-dreamgate.json](./130060-dreamgate.json) |
 | DreamHero | 373118 | [373118-dreamhero.json](./373118-dreamhero.json) |
+| Dreamhouse: The Game | 156981 | [156981-dreamhouse-the-game.json](./156981-dreamhouse-the-game.json) |
 | Dreamians: Card Battle | 304891 | [304891-dreamians-card-battle.json](./304891-dreamians-card-battle.json) |
 | Dreamin' Cat | 276714 | [276714-dreamin-cat.json](./276714-dreamin-cat.json) |
 | Dreaminal | 270077 | [270077-dreaminal.json](./270077-dreaminal.json) |
