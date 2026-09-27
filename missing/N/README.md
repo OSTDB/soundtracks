@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nada Asatarou / Kojima Takeo no Jissen Mahjong Kyoushitsu | 228566 | [228566-nada-asatarou-kojima-takeo-no-jissen-mahjong-kyoushitsu.json](./228566-nada-asatarou-kojima-takeo-no-jissen-mahjong-kyoushitsu.json) |
 | Naddagil: A Nordic Nightmare | 314026 | [314026-naddagil-a-nordic-nightmare.json](./314026-naddagil-a-nordic-nightmare.json) |
 | Nadine in: Diamond in the Grave | 279725 | [279725-nadine-in-diamond-in-the-grave.json](./279725-nadine-in-diamond-in-the-grave.json) |
+| Nadir: A Grimdark Deckbuilder | 142956 | [142956-nadir-a-grimdark-deckbuilder.json](./142956-nadir-a-grimdark-deckbuilder.json) |
 | Nae Yeodongsaeng-gwa Chinguui Yeodongsaeng-eul Gyohwanhae Boassda | 368038 | [368038-nae-yeodongsaeng-gwa-chinguui-yeodongsaeng-eul-gyohwanhae-boassda.json](./368038-nae-yeodongsaeng-gwa-chinguui-yeodongsaeng-eul-gyohwanhae-boassda.json) |
 | Naemo | 385216 | [385216-naemo.json](./385216-naemo.json) |
 | Nagai | 386265 | [386265-nagai.json](./386265-nagai.json) |
@@ -943,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis Z | 287211 | [287211-nemesis-z.json](./287211-nemesis-z.json) |
 | Nemesis: The Final Challenge | 262391 | [262391-nemesis-the-final-challenge.json](./262391-nemesis-the-final-challenge.json) |
 | Nemesis: The Final Challenge | 262392 | [262392-nemesis-the-final-challenge.json](./262392-nemesis-the-final-challenge.json) |
+| Nemexia | 142976 | [142976-nemexia.json](./142976-nemexia.json) |
 | Nemezis: Mysterious Journey III - Deluxe Edition | 159692 | [159692-nemezis-mysterious-journey-iii-deluxe-edition.json](./159692-nemezis-mysterious-journey-iii-deluxe-edition.json) |
 | Nemo | 303778 | [303778-nemo.json](./303778-nemo.json) |
 | Nemo is going to School | 264105 | [264105-nemo-is-going-to-school.json](./264105-nemo-is-going-to-school.json) |
@@ -1889,6 +1891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night World | 178057 | [178057-night-world.json](./178057-night-world.json) |
 | Night-Runners Prologue | 281485 | [281485-night-runners-prologue.json](./281485-night-runners-prologue.json) |
 | Night, Hood and the Mysterious Traveller | 276780 | [276780-night-hood-and-the-mysterious-traveller.json](./276780-night-hood-and-the-mysterious-traveller.json) |
+| Night/Shade: You're the Drug | 142961 | [142961-night-shade-youre-the-drug.json](./142961-night-shade-youre-the-drug.json) |
 | Night&Scape | 237052 | [237052-night-and-scape.json](./237052-night-and-scape.json) |
 | Nightbanes | 9518 | [9518-nightbanes.json](./9518-nightbanes.json) |
 | Nightbird Society | 196309 | [196309-nightbird-society.json](./196309-nightbird-society.json) |
