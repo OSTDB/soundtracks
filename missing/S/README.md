@@ -2393,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serendipity Morning Mist: Dawn, Tobacco, Your Scent | 387003 | [387003-serendipity-morning-mist-dawn-tobacco-your-scent.json](./387003-serendipity-morning-mist-dawn-tobacco-your-scent.json) |
 | Serendipity Next Door | 238425 | [238425-serendipity-next-door.json](./238425-serendipity-next-door.json) |
 | Serendipity: The Mafias | 254615 | [254615-serendipity-the-mafias.json](./254615-serendipity-the-mafias.json) |
+| Serene | 160169 | [160169-serene.json](./160169-serene.json) |
 | Serene Asylum | 172740 | [172740-serene-asylum.json](./172740-serene-asylum.json) |
 | Serene Estates: Last Guy | 372677 | [372677-serene-estates-last-guy.json](./372677-serene-estates-last-guy.json) |
 | Serenity | 313862 | [313862-serenity.json](./313862-serenity.json) |
@@ -6718,6 +6719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokowand | 335261 | [335261-sokowand.json](./335261-sokowand.json) |
 | SokoWinter | 187401 | [187401-sokowinter.json](./187401-sokowinter.json) |
 | Sol | 258519 | [258519-sol.json](./258519-sol.json) |
+| Sol 705 | 160175 | [160175-sol-705.json](./160175-sol-705.json) |
 | Sol and the Endless Orbit | 375825 | [375825-sol-and-the-endless-orbit.json](./375825-sol-and-the-endless-orbit.json) |
 | Sol Blanka | 150613 | [150613-sol-blanka.json](./150613-sol-blanka.json) |
 | Sol Cresta | 148382 | [148382-sol-cresta.json](./148382-sol-cresta.json) |
@@ -8002,6 +8004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bar | 411582 | [411582-space-bar.json](./411582-space-bar.json) |
 | Space Bar at the End of the Galaxy | 171005 | [171005-space-bar-at-the-end-of-the-galaxy.json](./171005-space-bar-at-the-end-of-the-galaxy.json) |
 | Space Battalion Alpha | 186194 | [186194-space-battalion-alpha.json](./186194-space-battalion-alpha.json) |
+| Space Battle | 160158 | [160158-space-battle.json](./160158-space-battle.json) |
 | Space Battle | 328486 | [328486-space-battle.json](./328486-space-battle.json) |
 | Space Battle Arena | 60231 | [60231-space-battle-arena.json](./60231-space-battle-arena.json) |
 | Space Battle Royale | 264000 | [264000-space-battle-royale.json](./264000-space-battle-royale.json) |
@@ -11228,6 +11231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stock: Retail investors | 295542 | [295542-stock-retail-investors.json](./295542-stock-retail-investors.json) |
 | Stockfish Chess | 87155 | [87155-stockfish-chess.json](./87155-stockfish-chess.json) |
 | StockSim | 332623 | [332623-stocksim.json](./332623-stocksim.json) |
+| Stoirs VR | 160156 | [160156-stoirs-vr.json](./160156-stoirs-vr.json) |
 | Stoked | 7195 | [7195-stoked.json](./7195-stoked.json) |
 | Stoked: Big Air Edition | 21107 | [21107-stoked-big-air-edition.json](./21107-stoked-big-air-edition.json) |
 | Stolen Dolls | 226430 | [226430-stolen-dolls.json](./226430-stolen-dolls.json) |
@@ -13920,6 +13924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Vadimka VI: A Terrible Threat there is No Vadimka | 224769 | [224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json](./224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json) |
 | Super Valis IV | 38411 | [38411-super-valis-iv.json](./38411-super-valis-iv.json) |
 | Super Vanilla World | 223029 | [223029-super-vanilla-world.json](./223029-super-vanilla-world.json) |
+| Super Vili | 160167 | [160167-super-vili.json](./160167-super-vili.json) |
 | Super Visual Soccer | 125980 | [125980-super-visual-soccer.json](./125980-super-visual-soccer.json) |
 | Super Volley Blast | 105274 | [105274-super-volley-blast.json](./105274-super-volley-blast.json) |
 | Super Volte-Face | 310414 | [310414-super-volte-face.json](./310414-super-volte-face.json) |
