@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkure Romanze: Shoujo Kishi Monogatari | 194591 | [194591-walkure-romanze-shoujo-kishi-monogatari.json](./194591-walkure-romanze-shoujo-kishi-monogatari.json) |
 | Wall Break | 172658 | [172658-wall-break.json](./172658-wall-break.json) |
 | Wall Clip | 183028 | [183028-wall-clip.json](./183028-wall-clip.json) |
+| Wall Force | 123509 | [123509-wall-force.json](./123509-wall-force.json) |
 | Wall Gai | 312917 | [312917-wall-gai.json](./312917-wall-gai.json) |
 | Wall Jump Ninja | 195603 | [195603-wall-jump-ninja.json](./195603-wall-jump-ninja.json) |
 | Wall Kickers | 107245 | [107245-wall-kickers.json](./107245-wall-kickers.json) |
@@ -1897,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispering Willows | 9369 | [9369-whispering-willows.json](./9369-whispering-willows.json) |
 | Whispers | 25335 | [25335-whispers.json](./25335-whispers.json) |
 | Whispers | 299154 | [299154-whispers.json](./299154-whispers.json) |
+| Whispers From the Rift | 123479 | [123479-whispers-from-the-rift.json](./123479-whispers-from-the-rift.json) |
 | Whispers from Within: Moving On | 159832 | [159832-whispers-from-within-moving-on.json](./159832-whispers-from-within-moving-on.json) |
 | Whispers in Akarra | 180208 | [180208-whispers-in-akarra.json](./180208-whispers-in-akarra.json) |
 | Whispers in the Dark | 165417 | [165417-whispers-in-the-dark.json](./165417-whispers-in-the-dark.json) |
@@ -2602,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wisplight | 248008 | [248008-wisplight.json](./248008-wisplight.json) |
 | Wisps of the Elements | 312544 | [312544-wisps-of-the-elements.json](./312544-wisps-of-the-elements.json) |
 | Wisps: The Redeeming | 2961 | [2961-wisps-the-redeeming.json](./2961-wisps-the-redeeming.json) |
+| Wissen Heroes | 123501 | [123501-wissen-heroes.json](./123501-wissen-heroes.json) |
 | Witch | 120153 | [120153-witch.json](./120153-witch.json) |
 | Witch | 299159 | [299159-witch.json](./299159-witch.json) |
 | Witch & Cats | 258177 | [258177-witch-and-cats.json](./258177-witch-and-cats.json) |
