@@ -3104,6 +3104,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Yeetus | 260096 | [260096-big-yeetus.json](./260096-big-yeetus.json) |
 | Big's Fishing Derby | 129179 | [129179-bigs-fishing-derby.json](./129179-bigs-fishing-derby.json) |
 | Big's Fishing Quest | 329400 | [329400-bigs-fishing-quest.json](./329400-bigs-fishing-quest.json) |
+| BigBang Beat: 1st Impression | 133328 | [133328-bigbang-beat-1st-impression.json](./133328-bigbang-beat-1st-impression.json) |
+| BigBang Beat: Revolve | 133329 | [133329-bigbang-beat-revolve.json](./133329-bigbang-beat-revolve.json) |
 | BigChick | 158002 | [158002-bigchick.json](./158002-bigchick.json) |
 | BigDay | 80972 | [80972-bigday.json](./80972-bigday.json) |
 | Bigface Marsh | 179179 | [179179-bigface-marsh.json](./179179-bigface-marsh.json) |
@@ -4090,6 +4092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleak Winter | 259043 | [259043-bleak-winter.json](./259043-bleak-winter.json) |
 | Bleaklight Falls | 362270 | [362270-bleaklight-falls.json](./362270-bleaklight-falls.json) |
 | Bleakmoor House | 371965 | [371965-bleakmoor-house.json](./371965-bleakmoor-house.json) |
+| Bleakshore | 133317 | [133317-bleakshore.json](./133317-bleakshore.json) |
 | Bleakwood | 304574 | [304574-bleakwood.json](./304574-bleakwood.json) |
 | Bleb | 346792 | [346792-bleb.json](./346792-bleb.json) |
 | Bleed | 9706 | [9706-bleed.json](./9706-bleed.json) |
@@ -6311,6 +6314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick | 92294 | [92294-brick.json](./92294-brick.json) |
 | Brick Battalion | 32208 | [32208-brick-battalion.json](./32208-brick-battalion.json) |
 | Brick Blast | 376107 | [376107-brick-blast.json](./376107-brick-blast.json) |
+| Brick Blaster | 133326 | [133326-brick-blaster.json](./133326-brick-blaster.json) |
 | Brick Block | 304041 | [304041-brick-block.json](./304041-brick-block.json) |
 | Brick Breaker | 195751 | [195751-brick-breaker.json](./195751-brick-breaker.json) |
 | Brick Breaker Bunch | 87968 | [87968-brick-breaker-bunch.json](./87968-brick-breaker-bunch.json) |
