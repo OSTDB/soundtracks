@@ -2310,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Zone | 138616 | [138616-rescue-zone.json](./138616-rescue-zone.json) |
 | Rescue! Dropkick on my Devil | 283239 | [283239-rescue-dropkick-on-my-devil.json](./283239-rescue-dropkick-on-my-devil.json) |
 | Research Station | 273140 | [273140-research-station.json](./273140-research-station.json) |
+| Research Story | 168637 | [168637-research-story.json](./168637-research-story.json) |
 | Researcher | 143476 | [143476-researcher.json](./143476-researcher.json) |
 | Resequenced | 96650 | [96650-resequenced.json](./96650-resequenced.json) |
 | Reset | 195635 | [195635-reset.json](./195635-reset.json) |
