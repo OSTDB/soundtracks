@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naious | 213623 | [213623-naious.json](./213623-naious.json) |
 | Nairo High School: Seishun Hakusho | 52609 | [52609-nairo-high-school-seishun-hakusho.json](./52609-nairo-high-school-seishun-hakusho.json) |
 | Nairo High School: Seishun Hakusho | 52611 | [52611-nairo-high-school-seishun-hakusho.json](./52611-nairo-high-school-seishun-hakusho.json) |
+| Nairobi X | 139890 | [139890-nairobi-x.json](./139890-nairobi-x.json) |
 | NaissanceE | 8116 | [8116-naissancee.json](./8116-naissancee.json) |
 | Naisu Gaisu Survivors | 305871 | [305871-naisu-gaisu-survivors.json](./305871-naisu-gaisu-survivors.json) |
 | Naive Riri | 236511 | [236511-naive-riri.json](./236511-naive-riri.json) |
@@ -444,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naught | 150502 | [150502-naught.json](./150502-naught.json) |
 | Naught Reawakening | 35798 | [35798-naught-reawakening.json](./35798-naught-reawakening.json) |
 | Naught: Edahi & Dohai | 238215 | [238215-naught-edahi-and-dohai.json](./238215-naught-edahi-and-dohai.json) |
+| Naught: Extended Edition | 139911 | [139911-naught-extended-edition.json](./139911-naught-extended-edition.json) |
 | Naughty | 348778 | [348778-naughty.json](./348778-naughty.json) |
 | Naughty & Nice | 283732 | [283732-naughty-and-nice.json](./283732-naughty-and-nice.json) |
 | Naughty Bear | 2633 | [2633-naughty-bear.json](./2633-naughty-bear.json) |
