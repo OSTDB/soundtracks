@@ -1577,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Anomaly: Hospital | 413208 | [413208-just-anomaly-hospital.json](./413208-just-anomaly-hospital.json) |
 | Just Another Boomer Shooter | 385340 | [385340-just-another-boomer-shooter.json](./385340-just-another-boomer-shooter.json) |
 | Just Another Christmas | 272033 | [272033-just-another-christmas.json](./272033-just-another-christmas.json) |
+| Just Another Day at the Office | 134507 | [134507-just-another-day-at-the-office.json](./134507-just-another-day-at-the-office.json) |
 | Just another generic: FPS | 291219 | [291219-just-another-generic-fps.json](./291219-just-another-generic-fps.json) |
 | Just Another Platformer | 316052 | [316052-just-another-platformer.json](./316052-just-another-platformer.json) |
 | Just Another Pong Clone | 361736 | [361736-just-another-pong-clone.json](./361736-just-another-pong-clone.json) |
