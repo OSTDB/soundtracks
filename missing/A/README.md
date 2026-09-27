@@ -4658,6 +4658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Saint Dragon | 129766 | [129766-arcade-archives-saint-dragon.json](./129766-arcade-archives-saint-dragon.json) |
 | Arcade Archives: Satan of Saturn | 416064 | [416064-arcade-archives-satan-of-saturn.json](./416064-arcade-archives-satan-of-saturn.json) |
 | Arcade Archives: Scrambled Egg | 364072 | [364072-arcade-archives-scrambled-egg.json](./364072-arcade-archives-scrambled-egg.json) |
+| Arcade Archives: Sea Fighter Poseidon | 154981 | [154981-arcade-archives-sea-fighter-poseidon.json](./154981-arcade-archives-sea-fighter-poseidon.json) |
 | Arcade Archives: Shingen Samurai-Fighter | 153832 | [153832-arcade-archives-shingen-samurai-fighter.json](./153832-arcade-archives-shingen-samurai-fighter.json) |
 | Arcade Archives: Silk Worm | 284928 | [284928-arcade-archives-silk-worm.json](./284928-arcade-archives-silk-worm.json) |
 | Arcade Archives: Sky Kid DX | 240220 | [240220-arcade-archives-sky-kid-dx.json](./240220-arcade-archives-sky-kid-dx.json) |
@@ -4845,6 +4846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane TD | 307297 | [307297-arcane-td.json](./307297-arcane-td.json) |
 | Arcane Tower Defense | 237077 | [237077-arcane-tower-defense.json](./237077-arcane-tower-defense.json) |
 | Arcane Tower Survivors | 342641 | [342641-arcane-tower-survivors.json](./342641-arcane-tower-survivors.json) |
+| Arcane Walker | 154998 | [154998-arcane-walker.json](./154998-arcane-walker.json) |
 | Arcane Worlds | 16923 | [16923-arcane-worlds.json](./16923-arcane-worlds.json) |
 | Arcane: League of Legends - Ready to unlock the world of Arcane? | 324100 | [324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json](./324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json) |
 | Arcane's Watch | 264155 | [264155-arcanes-watch.json](./264155-arcanes-watch.json) |
