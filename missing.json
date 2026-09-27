@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T02:33:31.739Z",
-  "total_missing": 128526,
+  "generated_at": "2026-09-27T02:48:16.887Z",
+  "total_missing": 128576,
   "games": [
     {
       "igdb_id": 186066,
@@ -52208,6 +52208,11 @@
       "file": "missing/B/111508-beating-a-dead-horse-with-a-one-trick-pony.json"
     },
     {
+      "igdb_id": 168134,
+      "game_name": "BeatJunkies",
+      "file": "missing/B/168134-beatjunkies.json"
+    },
+    {
       "igdb_id": 174641,
       "game_name": "Beatless",
       "file": "missing/B/174641-beatless.json"
@@ -60586,6 +60591,11 @@
       "igdb_id": 68759,
       "game_name": "Blaster Cop",
       "file": "missing/B/68759-blaster-cop.json"
+    },
+    {
+      "igdb_id": 168165,
+      "game_name": "Blaster Master Zero 2: Kanna Raising Simulator",
+      "file": "missing/B/168165-blaster-master-zero-2-kanna-raising-simulator.json"
     },
     {
       "igdb_id": 116416,
@@ -79333,6 +79343,11 @@
       "file": "missing/C/291077-call-of-duty-modern-warfare-iii-tech-luxe-pro-pack.json"
     },
     {
+      "igdb_id": 168155,
+      "game_name": "Call of Duty: Modern Warfare Remastered - Variety Map Pack",
+      "file": "missing/C/168155-call-of-duty-modern-warfare-remastered-variety-map-pack.json"
+    },
+    {
       "igdb_id": 42975,
       "game_name": "Call of Duty: Modern Warfare Trilogy",
       "file": "missing/C/42975-call-of-duty-modern-warfare-trilogy.json"
@@ -85826,6 +85841,11 @@
       "igdb_id": 87780,
       "game_name": "Cat Simulator 2015",
       "file": "missing/C/87780-cat-simulator-2015.json"
+    },
+    {
+      "igdb_id": 168135,
+      "game_name": "Cat Simulator: Animals on Farm",
+      "file": "missing/C/168135-cat-simulator-animals-on-farm.json"
     },
     {
       "igdb_id": 332976,
@@ -116673,6 +116693,11 @@
       "file": "missing/C/36000-cubot.json"
     },
     {
+      "igdb_id": 168156,
+      "game_name": "Cubox: Awakening of Gods",
+      "file": "missing/C/168156-cubox-awakening-of-gods.json"
+    },
+    {
       "igdb_id": 251692,
       "game_name": "Cuboy",
       "file": "missing/C/251692-cuboy.json"
@@ -122448,9 +122473,19 @@
       "file": "missing/D/222397-dariusburst-chronicle-saviours-core-taito-and-sega-packs.json"
     },
     {
+      "igdb_id": 168171,
+      "game_name": "Dariusburst: Chronicle Saviours - Galaxy Force II",
+      "file": "missing/D/168171-dariusburst-chronicle-saviours-galaxy-force-ii.json"
+    },
+    {
       "igdb_id": 44536,
       "game_name": "Dariusburst: Chronicle Saviours - Limited Edition",
       "file": "missing/D/44536-dariusburst-chronicle-saviours-limited-edition.json"
+    },
+    {
+      "igdb_id": 168170,
+      "game_name": "Dariusburst: Chronicle Saviours - Night Striker",
+      "file": "missing/D/168170-dariusburst-chronicle-saviours-night-striker.json"
     },
     {
       "igdb_id": 22340,
@@ -126226,6 +126261,11 @@
       "igdb_id": 182816,
       "game_name": "Deabirth: Real",
       "file": "missing/D/182816-deabirth-real.json"
+    },
+    {
+      "igdb_id": 168127,
+      "game_name": "Dead",
+      "file": "missing/D/168127-dead.json"
     },
     {
       "igdb_id": 90624,
@@ -152793,6 +152833,11 @@
       "file": "missing/D/187835-drifty-pool.json"
     },
     {
+      "igdb_id": 168133,
+      "game_name": "DriftZ",
+      "file": "missing/D/168133-driftz.json"
+    },
+    {
       "igdb_id": 382231,
       "game_name": "Drill and Delve",
       "file": "missing/D/382231-drill-and-delve.json"
@@ -154458,6 +154503,11 @@
       "file": "missing/D/88217-duck-bow-hunt.json"
     },
     {
+      "igdb_id": 168131,
+      "game_name": "Duck City",
+      "file": "missing/D/168131-duck-city.json"
+    },
+    {
       "igdb_id": 221675,
       "game_name": "Duck Commander: Hunting Video Game",
       "file": "missing/D/221675-duck-commander-hunting-video-game.json"
@@ -155461,6 +155511,11 @@
       "igdb_id": 92312,
       "game_name": "Dungeon & Guarder",
       "file": "missing/D/92312-dungeon-and-guarder.json"
+    },
+    {
+      "igdb_id": 168125,
+      "game_name": "Dungeon & Heros",
+      "file": "missing/D/168125-dungeon-and-heros.json"
     },
     {
       "igdb_id": 192663,
@@ -156711,6 +156766,11 @@
       "igdb_id": 401092,
       "game_name": "Dungeonloop",
       "file": "missing/D/401092-dungeonloop.json"
+    },
+    {
+      "igdb_id": 168162,
+      "game_name": "Dungeonmans: Pay2Lose",
+      "file": "missing/D/168162-dungeonmans-pay2lose.json"
     },
     {
       "igdb_id": 282152,
@@ -199028,6 +199088,11 @@
       "file": "missing/F/72350-freedom-a-time-to-reckon.json"
     },
     {
+      "igdb_id": 168122,
+      "game_name": "Freedom! Do or Die",
+      "file": "missing/F/168122-freedom-do-or-die.json"
+    },
+    {
       "igdb_id": 391577,
       "game_name": "FreedomBot",
       "file": "missing/F/391577-freedombot.json"
@@ -223151,6 +223216,11 @@
       "igdb_id": 187964,
       "game_name": "Grim Tales: Trace in Time",
       "file": "missing/G/187964-grim-tales-trace-in-time.json"
+    },
+    {
+      "igdb_id": 168166,
+      "game_name": "Grim Tales: Trace in Time - Collector's Edition",
+      "file": "missing/G/168166-grim-tales-trace-in-time-collectors-edition.json"
     },
     {
       "igdb_id": 86552,
@@ -252433,6 +252503,11 @@
       "file": "missing/H/114966-hunting-fields-of-jackals.json"
     },
     {
+      "igdb_id": 168150,
+      "game_name": "Hunting Moon",
+      "file": "missing/H/168150-hunting-moon.json"
+    },
+    {
       "igdb_id": 165022,
       "game_name": "Hunting Moon vol.2",
       "file": "missing/H/165022-hunting-moon-vol-2.json"
@@ -267633,6 +267708,11 @@
       "file": "missing/I/346606-it-specialist-simulator.json"
     },
     {
+      "igdb_id": 168121,
+      "game_name": "IT Startup: Tech Fodder",
+      "file": "missing/I/168121-it-startup-tech-fodder.json"
+    },
+    {
       "igdb_id": 179668,
       "game_name": "It sucks to be a succulent",
       "file": "missing/I/179668-it-sucks-to-be-a-succulent.json"
@@ -272323,6 +272403,16 @@
       "file": "missing/J/220858-jikkyou-j-league-1999-perfect-striker.json"
     },
     {
+      "igdb_id": 168137,
+      "game_name": "Jikkyou J.League Perfect Striker 3",
+      "file": "missing/J/168137-jikkyou-j-league-perfect-striker-3.json"
+    },
+    {
+      "igdb_id": 168154,
+      "game_name": "Jikkyou J.League Perfect Striker 4",
+      "file": "missing/J/168154-jikkyou-j-league-perfect-striker-4.json"
+    },
+    {
       "igdb_id": 220863,
       "game_name": "Jikkyou J.League Perfect Striker 5",
       "file": "missing/J/220863-jikkyou-j-league-perfect-striker-5.json"
@@ -272411,6 +272501,11 @@
       "igdb_id": 229183,
       "game_name": "Jikkyou Pawafuru Puroyakyu Wii",
       "file": "missing/J/229183-jikkyou-pawafuru-puroyakyu-wii.json"
+    },
+    {
+      "igdb_id": 168136,
+      "game_name": "Jikkyou World Soccer 2000: Final Edition",
+      "file": "missing/J/168136-jikkyou-world-soccer-2000-final-edition.json"
     },
     {
       "igdb_id": 210683,
@@ -280571,6 +280666,11 @@
       "igdb_id": 144981,
       "game_name": "Kentucky Route Zero: Act V",
       "file": "missing/K/144981-kentucky-route-zero-act-v.json"
+    },
+    {
+      "igdb_id": 168124,
+      "game_name": "Keo",
+      "file": "missing/K/168124-keo.json"
     },
     {
       "igdb_id": 99981,
@@ -305183,6 +305283,11 @@
       "file": "missing/L/374629-loop-my-crank.json"
     },
     {
+      "igdb_id": 168151,
+      "game_name": "Loop Room",
+      "file": "missing/L/168151-loop-room.json"
+    },
+    {
       "igdb_id": 288817,
       "game_name": "Loop Theory",
       "file": "missing/L/288817-loop-theory.json"
@@ -310528,6 +310633,11 @@
       "file": "missing/L/16004-luxor-mah-jong.json"
     },
     {
+      "igdb_id": 168139,
+      "game_name": "Luxoral Prime",
+      "file": "missing/L/168139-luxoral-prime.json"
+    },
+    {
       "igdb_id": 400338,
       "game_name": "Luxsor: Nights Over Egypt",
       "file": "missing/L/400338-luxsor-nights-over-egypt.json"
@@ -312346,6 +312456,11 @@
       "igdb_id": 385595,
       "game_name": "Maelstrom: The Battle for Earth Begins Enhanced",
       "file": "missing/M/385595-maelstrom-the-battle-for-earth-begins-enhanced.json"
+    },
+    {
+      "igdb_id": 168123,
+      "game_name": "Maenovan",
+      "file": "missing/M/168123-maenovan.json"
     },
     {
       "igdb_id": 248578,
@@ -337218,6 +337333,11 @@
       "file": "missing/M/320165-mint-dodgers.json"
     },
     {
+      "igdb_id": 168126,
+      "game_name": "Mint Muse Sound Flare",
+      "file": "missing/M/168126-mint-muse-sound-flare.json"
+    },
+    {
       "igdb_id": 159818,
       "game_name": "Mint Works",
       "file": "missing/M/159818-mint-works.json"
@@ -352118,6 +352238,11 @@
       "file": "missing/M/347757-my-lil-afterlife.json"
     },
     {
+      "igdb_id": 168168,
+      "game_name": "My Lil Horror",
+      "file": "missing/M/168168-my-lil-horror.json"
+    },
+    {
       "igdb_id": 31971,
       "game_name": "My Lil' Donut",
       "file": "missing/M/31971-my-lil-donut.json"
@@ -356551,6 +356676,26 @@
       "igdb_id": 19649,
       "game_name": "Naruto Shippuden: Ultimate Ninja Impact",
       "file": "missing/N/19649-naruto-shippuden-ultimate-ninja-impact.json"
+    },
+    {
+      "igdb_id": 168159,
+      "game_name": "Naruto Shippuden: Ultimate Ninja Storm 4 - Gaara's Tale Extra Scenario",
+      "file": "missing/N/168159-naruto-shippuden-ultimate-ninja-storm-4-gaaras-tale-extra-scenario.json"
+    },
+    {
+      "igdb_id": 168161,
+      "game_name": "Naruto Shippuden: Ultimate Ninja Storm 4 - Road to Boruto Next Generations",
+      "file": "missing/N/168161-naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto-next-generations.json"
+    },
+    {
+      "igdb_id": 168160,
+      "game_name": "Naruto Shippuden: Ultimate Ninja Storm 4 - Shikamaru's Tale Extra Scenario",
+      "file": "missing/N/168160-naruto-shippuden-ultimate-ninja-storm-4-shikamarus-tale-extra-scenario.json"
+    },
+    {
+      "igdb_id": 168158,
+      "game_name": "Naruto Shippuden: Ultimate Ninja Storm 4 - The Sound Four Characters",
+      "file": "missing/N/168158-naruto-shippuden-ultimate-ninja-storm-4-the-sound-four-characters.json"
     },
     {
       "igdb_id": 44562,
@@ -414238,6 +414383,11 @@
       "file": "missing/P/268525-pro-stadium.json"
     },
     {
+      "igdb_id": 168164,
+      "game_name": "Pro Strategy Football 2021",
+      "file": "missing/P/168164-pro-strategy-football-2021.json"
+    },
+    {
       "igdb_id": 165623,
       "game_name": "Pro Strategy Football 2022",
       "file": "missing/P/165623-pro-strategy-football-2022.json"
@@ -422393,6 +422543,11 @@
       "file": "missing/Q/278394-quantum-contours.json"
     },
     {
+      "igdb_id": 168169,
+      "game_name": "Quantum Conundrum: IKE-aramba!",
+      "file": "missing/Q/168169-quantum-conundrum-ike-aramba.json"
+    },
+    {
       "igdb_id": 172125,
       "game_name": "Quantum Conundrum: The Desmond Debacle",
       "file": "missing/Q/172125-quantum-conundrum-the-desmond-debacle.json"
@@ -424883,6 +425038,11 @@
       "file": "missing/R/333527-race-track-maniacs.json"
     },
     {
+      "igdb_id": 168140,
+      "game_name": "Race With Ryan: Adventure Track Pack",
+      "file": "missing/R/168140-race-with-ryan-adventure-track-pack.json"
+    },
+    {
       "igdb_id": 141036,
       "game_name": "Race with Ryan: Road Trip - Deluxe Edition",
       "file": "missing/R/141036-race-with-ryan-road-trip-deluxe-edition.json"
@@ -424918,6 +425078,11 @@
       "file": "missing/R/18188-racecraft.json"
     },
     {
+      "igdb_id": 168128,
+      "game_name": "RaceLeague",
+      "file": "missing/R/168128-raceleague.json"
+    },
+    {
       "igdb_id": 282668,
       "game_name": "Racer",
       "file": "missing/R/282668-racer.json"
@@ -424946,6 +425111,16 @@
       "igdb_id": 53168,
       "game_name": "RaceRoom - DTM Experience 2015",
       "file": "missing/R/53168-raceroom-dtm-experience-2015.json"
+    },
+    {
+      "igdb_id": 168153,
+      "game_name": "RaceRoom Racing Experience: ADAC GT Masters Experience 2014",
+      "file": "missing/R/168153-raceroom-racing-experience-adac-gt-masters-experience-2014.json"
+    },
+    {
+      "igdb_id": 168152,
+      "game_name": "RaceRoom Racing Experience: DTM Experience 2014",
+      "file": "missing/R/168152-raceroom-racing-experience-dtm-experience-2014.json"
     },
     {
       "igdb_id": 53167,
@@ -434416,6 +434591,11 @@
       "igdb_id": 271844,
       "game_name": "Reload Map Jam",
       "file": "missing/R/271844-reload-map-jam.json"
+    },
+    {
+      "igdb_id": 168129,
+      "game_name": "Reloader: test_subject",
+      "file": "missing/R/168129-reloader-test-subject.json"
     },
     {
       "igdb_id": 174277,
@@ -456376,6 +456556,11 @@
       "igdb_id": 166764,
       "game_name": "Save the Pirate: Sea Story",
       "file": "missing/S/166764-save-the-pirate-sea-story.json"
+    },
+    {
+      "igdb_id": 168157,
+      "game_name": "Save the Pirate: Sea Story - Tribal Legacy",
+      "file": "missing/S/168157-save-the-pirate-sea-story-tribal-legacy.json"
     },
     {
       "igdb_id": 112306,
@@ -511151,6 +511336,11 @@
       "igdb_id": 377057,
       "game_name": "Sublight",
       "file": "missing/S/377057-sublight.json"
+    },
+    {
+      "igdb_id": 168132,
+      "game_name": "Subliminal Region",
+      "file": "missing/S/168132-subliminal-region.json"
     },
     {
       "igdb_id": 292528,
@@ -577788,6 +577978,11 @@
       "file": "missing/T/219005-tom-clancys-ghost-recon-future-soldier-deluxe-edition.json"
     },
     {
+      "igdb_id": 168163,
+      "game_name": "Tom Clancy's Ghost Recon: Future Soldier - Khyber Strike",
+      "file": "missing/T/168163-tom-clancys-ghost-recon-future-soldier-khyber-strike.json"
+    },
+    {
       "igdb_id": 127642,
       "game_name": "Tom Clancy's Ghost Recon: Future Soldier - Raven Strike",
       "file": "missing/T/127642-tom-clancys-ghost-recon-future-soldier-raven-strike.json"
@@ -580796,6 +580991,11 @@
       "igdb_id": 32402,
       "game_name": "Totally Unbalanced",
       "file": "missing/T/32402-totally-unbalanced.json"
+    },
+    {
+      "igdb_id": 168130,
+      "game_name": "Totally Working Game",
+      "file": "missing/T/168130-totally-working-game.json"
     },
     {
       "igdb_id": 133974,
@@ -591041,6 +591241,51 @@
       "igdb_id": 61113,
       "game_name": "Trouserheart",
       "file": "missing/T/61113-trouserheart.json"
+    },
+    {
+      "igdb_id": 168147,
+      "game_name": "Trove: Arcanium Expedition Pack",
+      "file": "missing/T/168147-trove-arcanium-expedition-pack.json"
+    },
+    {
+      "igdb_id": 168144,
+      "game_name": "Trove: Botanical Blaster Pack",
+      "file": "missing/T/168144-trove-botanical-blaster-pack.json"
+    },
+    {
+      "igdb_id": 168146,
+      "game_name": "Trove: Double Dragon Pack",
+      "file": "missing/T/168146-trove-double-dragon-pack.json"
+    },
+    {
+      "igdb_id": 168148,
+      "game_name": "Trove: Dynomighty Miner Pack",
+      "file": "missing/T/168148-trove-dynomighty-miner-pack.json"
+    },
+    {
+      "igdb_id": 168145,
+      "game_name": "Trove: Eclipse Pack",
+      "file": "missing/T/168145-trove-eclipse-pack.json"
+    },
+    {
+      "igdb_id": 168141,
+      "game_name": "Trove: Geode Companion Pack 1",
+      "file": "missing/T/168141-trove-geode-companion-pack-1.json"
+    },
+    {
+      "igdb_id": 168142,
+      "game_name": "Trove: Geode Companion Pack 2",
+      "file": "missing/T/168142-trove-geode-companion-pack-2.json"
+    },
+    {
+      "igdb_id": 168143,
+      "game_name": "Trove: Mega Menagerie Pack",
+      "file": "missing/T/168143-trove-mega-menagerie-pack.json"
+    },
+    {
+      "igdb_id": 168149,
+      "game_name": "Trove: Square Necessities Pack",
+      "file": "missing/T/168149-trove-square-necessities-pack.json"
     },
     {
       "igdb_id": 132636,
@@ -604666,6 +604911,11 @@
       "igdb_id": 170929,
       "game_name": "Vanguard Princess: Hilda Rize",
       "file": "missing/V/170929-vanguard-princess-hilda-rize.json"
+    },
+    {
+      "igdb_id": 168167,
+      "game_name": "Vanguard Princess: Online Deluxe",
+      "file": "missing/V/168167-vanguard-princess-online-deluxe.json"
     },
     {
       "igdb_id": 57345,
