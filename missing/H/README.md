@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammer Away | 40181 | [40181-hammer-away.json](./40181-hammer-away.json) |
 | Hammer Bros | 264666 | [264666-hammer-bros.json](./264666-hammer-bros.json) |
 | Hammer climber - Hard Get Over | 105944 | [105944-hammer-climber-hard-get-over.json](./105944-hammer-climber-hard-get-over.json) |
+| Hammer Dongers | 140483 | [140483-hammer-dongers.json](./140483-hammer-dongers.json) |
 | Hammer Joe | 307586 | [307586-hammer-joe.json](./307586-hammer-joe.json) |
 | Hammer Keep | 180796 | [180796-hammer-keep.json](./180796-hammer-keep.json) |
 | Hammer Kid | 187490 | [187490-hammer-kid.json](./187490-hammer-kid.json) |
@@ -3416,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 2 Christmas Game | 336886 | [336886-hitman-2-christmas-game.json](./336886-hitman-2-christmas-game.json) |
 | Hitman 2: Miami Pack | 118173 | [118173-hitman-2-miami-pack.json](./118173-hitman-2-miami-pack.json) |
 | Hitman 3 | 134595 | [134595-hitman-3.json](./134595-hitman-3.json) |
+| Hitman 3: Cloud Version | 140502 | [140502-hitman-3-cloud-version.json](./140502-hitman-3-cloud-version.json) |
 | Hitman 3: Patient Zero Requiem | 381244 | [381244-hitman-3-patient-zero-requiem.json](./381244-hitman-3-patient-zero-requiem.json) |
 | Hitman 3: The Banker Pack | 357256 | [357256-hitman-3-the-banker-pack.json](./357256-hitman-3-the-banker-pack.json) |
 | Hitman 3: The Sarajevo Six | 279033 | [279033-hitman-3-the-sarajevo-six.json](./279033-hitman-3-the-sarajevo-six.json) |
