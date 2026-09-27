@@ -1333,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoExpert - Russia Geography | 103152 | [103152-geoexpert-russia-geography.json](./103152-geoexpert-russia-geography.json) |
 | GeoExpert - USA Geography | 98998 | [98998-geoexpert-usa-geography.json](./98998-geoexpert-usa-geography.json) |
 | GeoExpert - World | 100616 | [100616-geoexpert-world.json](./100616-geoexpert-world.json) |
+| GeoFS | 142942 | [142942-geofs.json](./142942-geofs.json) |
 | Geograph Seal | 63819 | [63819-geograph-seal.json](./63819-geograph-seal.json) |
 | Geography Champion | 105933 | [105933-geography-champion.json](./105933-geography-champion.json) |
 | GeoGrid | 301361 | [301361-geogrid.json](./301361-geogrid.json) |
@@ -2695,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoldenMiner | 253939 | [253939-goldenminer.json](./253939-goldenminer.json) |
 | GoldenShot | 275686 | [275686-goldenshot.json](./275686-goldenshot.json) |
 | Goldfish | 346226 | [346226-goldfish.json](./346226-goldfish.json) |
+| Goldfish Brain | 142952 | [142952-goldfish-brain.json](./142952-goldfish-brain.json) |
 | GoldfishFlap | 172677 | [172677-goldfishflap.json](./172677-goldfishflap.json) |
 | Goldheart | 248324 | [248324-goldheart.json](./248324-goldheart.json) |
 | Goldilock One: Boss Arena | 138247 | [138247-goldilock-one-boss-arena.json](./138247-goldilock-one-boss-arena.json) |
