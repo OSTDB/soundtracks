@@ -6208,6 +6208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BreakThru! | 7800 | [7800-breakthru.json](./7800-breakthru.json) |
 | Breaktory | 183552 | [183552-breaktory.json](./183552-breaktory.json) |
 | Breakup Squad | 243103 | [243103-breakup-squad.json](./243103-breakup-squad.json) |
+| Breakwaters | 148425 | [148425-breakwaters.json](./148425-breakwaters.json) |
 | Breath | 141685 | [141685-breath.json](./141685-breath.json) |
 | Breath of Death VII | 16259 | [16259-breath-of-death-vii.json](./16259-breath-of-death-vii.json) |
 | Breath of Dragon II | 203551 | [203551-breath-of-dragon-ii.json](./203551-breath-of-dragon-ii.json) |
@@ -6421,6 +6422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brittle Blue | 184591 | [184591-brittle-blue.json](./184591-brittle-blue.json) |
 | Brittle Buildings | 180841 | [180841-brittle-buildings.json](./180841-brittle-buildings.json) |
 | Brix and Trix | 237955 | [237955-brix-and-trix.json](./237955-brix-and-trix.json) |
+| Brix II Deluxe | 148451 | [148451-brix-ii-deluxe.json](./148451-brix-ii-deluxe.json) |
 | Brix VR | 116324 | [116324-brix-vr.json](./116324-brix-vr.json) |
 | Broadside | 34450 | [34450-broadside.json](./34450-broadside.json) |
 | Broadside Bets | 401617 | [401617-broadside-bets.json](./401617-broadside-bets.json) |
