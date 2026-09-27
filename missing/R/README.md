@@ -2271,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replicart | 41390 | [41390-replicart.json](./41390-replicart.json) |
 | Replicators | 98785 | [98785-replicators.json](./98785-replicators.json) |
 | Replics | 129765 | [129765-replics.json](./129765-replics.json) |
+| Replics 3 - Behind the Light | 132075 | [132075-replics-3-behind-the-light.json](./132075-replics-3-behind-the-light.json) |
 | Replik Survivors | 266296 | [266296-replik-survivors.json](./266296-replik-survivors.json) |
 | Replika | 92274 | [92274-replika.json](./92274-replika.json) |
 | Reply All | 350055 | [350055-reply-all.json](./350055-reply-all.json) |
@@ -2990,6 +2991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich Uncle: A Gay Adventure | 385307 | [385307-rich-uncle-a-gay-adventure.json](./385307-rich-uncle-a-gay-adventure.json) |
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
 | Richard Scarry's Best Neighborhood Disc Ever | 127322 | [127322-richard-scarrys-best-neighborhood-disc-ever.json](./127322-richard-scarrys-best-neighborhood-disc-ever.json) |
+| Richard Scarry's Busytown | 132142 | [132142-richard-scarrys-busytown.json](./132142-richard-scarrys-busytown.json) |
 | Richard Scarry's Busytown | 46202 | [46202-richard-scarrys-busytown.json](./46202-richard-scarrys-busytown.json) |
 | Richard West and the Golden Mask | 190139 | [190139-richard-west-and-the-golden-mask.json](./190139-richard-west-and-the-golden-mask.json) |
 | Richdle | 348949 | [348949-richdle.json](./348949-richdle.json) |
