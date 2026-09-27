@@ -2126,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Night Detective: Chapter One | 167263 | [167263-deep-night-detective-chapter-one.json](./167263-deep-night-detective-chapter-one.json) |
 | Deep Panic | 402271 | [402271-deep-panic.json](./402271-deep-panic.json) |
 | Deep Pixel Melancholy | 347185 | [347185-deep-pixel-melancholy.json](./347185-deep-pixel-melancholy.json) |
+| Deep Race: Battle | 121557 | [121557-deep-race-battle.json](./121557-deep-race-battle.json) |
 | Deep Realms | 92442 | [92442-deep-realms.json](./92442-deep-realms.json) |
 | Deep Research | 271493 | [271493-deep-research.json](./271493-deep-research.json) |
 | Deep Rest | 106395 | [106395-deep-rest.json](./106395-deep-rest.json) |
@@ -3834,6 +3835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Dana - Experiments | 95828 | [95828-dino-dana-experiments.json](./95828-dino-dana-experiments.json) |
 | Dino Dave 2 | 80542 | [80542-dino-dave-2.json](./80542-dino-dave-2.json) |
 | Dino Dave in Sokoman | 150084 | [150084-dino-dave-in-sokoman.json](./150084-dino-dave-in-sokoman.json) |
+| Dino Delivery | 121581 | [121581-dino-delivery.json](./121581-dino-delivery.json) |
 | Dino Dino | 287770 | [287770-dino-dino.json](./287770-dino-dino.json) |
 | Dino Domino | 360022 | [360022-dino-domino.json](./360022-dino-domino.json) |
 | Dino Eggs | 23928 | [23928-dino-eggs.json](./23928-dino-eggs.json) |
@@ -5725,6 +5727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down In The Dungeon | 307684 | [307684-down-in-the-dungeon.json](./307684-down-in-the-dungeon.json) |
 | Down Load | 37716 | [37716-down-load.json](./37716-down-load.json) |
 | Down Load 2 | 85810 | [85810-down-load-2.json](./85810-down-load-2.json) |
+| Down Means Up | 121561 | [121561-down-means-up.json](./121561-down-means-up.json) |
 | Down the Drain | 256830 | [256830-down-the-drain.json](./256830-down-the-drain.json) |
 | Down the Hill! | 259239 | [259239-down-the-hill.json](./259239-down-the-hill.json) |
 | Down the Hole | 133813 | [133813-down-the-hole.json](./133813-down-the-hole.json) |
@@ -7834,6 +7837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarfs Fight | 224663 | [224663-dwarfs-fight.json](./224663-dwarfs-fight.json) |
 | Dwarrows | 25229 | [25229-dwarrows.json](./25229-dwarrows.json) |
 | Dwarven Alchemist | 382332 | [382332-dwarven-alchemist.json](./382332-dwarven-alchemist.json) |
+| Dwarven Defender | 121575 | [121575-dwarven-defender.json](./121575-dwarven-defender.json) |
 | Dwarven Descent | 63006 | [63006-dwarven-descent.json](./63006-dwarven-descent.json) |
 | Dwarven Destiny | 206148 | [206148-dwarven-destiny.json](./206148-dwarven-destiny.json) |
 | Dwarven Forge | 149554 | [149554-dwarven-forge.json](./149554-dwarven-forge.json) |
