@@ -6393,6 +6393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brigador | 13361 | [13361-brigador.json](./13361-brigador.json) |
 | Brigandine | 143118 | [143118-brigandine.json](./143118-brigandine.json) |
 | Brigandine: The Legend of Runersia | 121960 | [121960-brigandine-the-legend-of-runersia.json](./121960-brigandine-the-legend-of-runersia.json) |
+| Brigandine: The Legend of Runersia - Limited Edition | 136950 | [136950-brigandine-the-legend-of-runersia-limited-edition.json](./136950-brigandine-the-legend-of-runersia-limited-edition.json) |
 | Briganty: The Roots of Darkness | 73820 | [73820-briganty-the-roots-of-darkness.json](./73820-briganty-the-roots-of-darkness.json) |
 | Bright Bob | 83523 | [83523-bright-bob.json](./83523-bright-bob.json) |
 | Bright Days in Quarantine | 158517 | [158517-bright-days-in-quarantine.json](./158517-bright-days-in-quarantine.json) |
