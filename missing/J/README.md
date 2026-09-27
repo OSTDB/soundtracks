@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jo-Jo Fighter | 182366 | [182366-jo-jo-fighter.json](./182366-jo-jo-fighter.json) |
 | Jo's Dream: Organic Coffee | 123638 | [123638-jos-dream-organic-coffee.json](./123638-jos-dream-organic-coffee.json) |
 | Joan Jade and the Gates of Xibalba | 53248 | [53248-joan-jade-and-the-gates-of-xibalba.json](./53248-joan-jade-and-the-gates-of-xibalba.json) |
+| Joan of Arc: The Beginning | 127841 | [127841-joan-of-arc-the-beginning.json](./127841-joan-of-arc-the-beginning.json) |
 | Joanie | 176386 | [176386-joanie.json](./176386-joanie.json) |
 | Job Battle Simulator: Accurate Physics Showdown | 348253 | [348253-job-battle-simulator-accurate-physics-showdown.json](./348253-job-battle-simulator-accurate-physics-showdown.json) |
 | Job Fit For a Devil | 369044 | [369044-job-fit-for-a-devil.json](./369044-job-fit-for-a-devil.json) |
