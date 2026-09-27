@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasia: The Realm of Thanos | 243964 | [243964-fantasia-the-realm-of-thanos.json](./243964-fantasia-the-realm-of-thanos.json) |
 | Fantasic Cube | 129763 | [129763-fantasic-cube.json](./129763-fantasic-cube.json) |
 | Fantasization | 68593 | [68593-fantasization.json](./68593-fantasization.json) |
+| Fantasma | 153915 | [153915-fantasma.json](./153915-fantasma.json) |
 | Fantasteroids | 218588 | [218588-fantasteroids.json](./218588-fantasteroids.json) |
 | Fantastic 4 | 3914 | [3914-fantastic-4.json](./3914-fantastic-4.json) |
 | Fantastic 4 in a Row HD | 70407 | [70407-fantastic-4-in-a-row-hd.json](./70407-fantastic-4-in-a-row-hd.json) |
@@ -822,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Forest Solitaire | 386128 | [386128-fantasy-forest-solitaire.json](./386128-fantasy-forest-solitaire.json) |
 | Fantasy Friends | 138035 | [138035-fantasy-friends.json](./138035-fantasy-friends.json) |
 | Fantasy Friends: Dream Worlds | 314998 | [314998-fantasy-friends-dream-worlds.json](./314998-fantasy-friends-dream-worlds.json) |
+| Fantasy Friends: Under the Sea | 153817 | [153817-fantasy-friends-under-the-sea.json](./153817-fantasy-friends-under-the-sea.json) |
 | Fantasy Games | 319578 | [319578-fantasy-games.json](./319578-fantasy-games.json) |
 | Fantasy General | 14417 | [14417-fantasy-general.json](./14417-fantasy-general.json) |
 | Fantasy General II: Empire Aflame | 154501 | [154501-fantasy-general-ii-empire-aflame.json](./154501-fantasy-general-ii-empire-aflame.json) |
@@ -2358,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fio Fizhook | 296365 | [296365-fio-fizhook.json](./296365-fio-fizhook.json) |
 | Fiona's Dream of Atlantis | 294228 | [294228-fionas-dream-of-atlantis.json](./294228-fionas-dream-of-atlantis.json) |
 | Fiora Arc | 273494 | [273494-fiora-arc.json](./273494-fiora-arc.json) |
+| Fiore I: Daffodil | 153918 | [153918-fiore-i-daffodil.json](./153918-fiore-i-daffodil.json) |
 | Fir Flowers and Hyacinths | 369636 | [369636-fir-flowers-and-hyacinths.json](./369636-fir-flowers-and-hyacinths.json) |
 | Fira | 173315 | [173315-fira.json](./173315-fira.json) |
 | Fire | 152137 | [152137-fire.json](./152137-fire.json) |
@@ -2436,6 +2439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Jump | 390807 | [390807-fire-jump.json](./390807-fire-jump.json) |
 | Fire Lookout: Abandoned Post | 401664 | [401664-fire-lookout-abandoned-post.json](./401664-fire-lookout-abandoned-post.json) |
 | Fire Man | 247018 | [247018-fire-man.json](./247018-fire-man.json) |
+| Fire Opal | 153875 | [153875-fire-opal.json](./153875-fire-opal.json) |
 | Fire Power | 110821 | [110821-fire-power.json](./110821-fire-power.json) |
 | Fire Pro Joshi: All Star Dream Slam | 42614 | [42614-fire-pro-joshi-all-star-dream-slam.json](./42614-fire-pro-joshi-all-star-dream-slam.json) |
 | Fire Pro Wrestling Gaiden | 45534 | [45534-fire-pro-wrestling-gaiden.json](./45534-fire-pro-wrestling-gaiden.json) |
@@ -3188,6 +3192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight 74 | 152730 | [152730-flight-74.json](./152730-flight-74.json) |
 | Flight 787: Advanced | 197630 | [197630-flight-787-advanced.json](./197630-flight-787-advanced.json) |
 | Flight Academy | 62999 | [62999-flight-academy.json](./62999-flight-academy.json) |
+| Flight Attendant Simulator | 153905 | [153905-flight-attendant-simulator.json](./153905-flight-attendant-simulator.json) |
 | Flight Catastrophe | 149532 | [149532-flight-catastrophe.json](./149532-flight-catastrophe.json) |
 | Flight Commander 2 | 73854 | [73854-flight-commander-2.json](./73854-flight-commander-2.json) |
 | Flight Control HD | 15064 | [15064-flight-control-hd.json](./15064-flight-control-hd.json) |
@@ -5593,6 +5598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furious Golf | 180768 | [180768-furious-golf.json](./180768-furious-golf.json) |
 | Furious Karting | 47310 | [47310-furious-karting.json](./47310-furious-karting.json) |
 | Furious Race | 105985 | [105985-furious-race.json](./105985-furious-race.json) |
+| Furious Revenge of Bolo | 153893 | [153893-furious-revenge-of-bolo.json](./153893-furious-revenge-of-bolo.json) |
 | Furious Seas | 103775 | [103775-furious-seas.json](./103775-furious-seas.json) |
 | Furious: Heat Racing | 199910 | [199910-furious-heat-racing.json](./199910-furious-heat-racing.json) |
 | Furistas Cat Cafe | 106594 | [106594-furistas-cat-cafe.json](./106594-furistas-cat-cafe.json) |
