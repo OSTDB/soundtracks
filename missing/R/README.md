@@ -1995,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regular Show: Fist Punch | 185663 | [185663-regular-show-fist-punch.json](./185663-regular-show-fist-punch.json) |
 | Regular Show: Mordecai and Rigby in 8-Bit Land | 6869 | [6869-regular-show-mordecai-and-rigby-in-8-bit-land.json](./6869-regular-show-mordecai-and-rigby-in-8-bit-land.json) |
 | Regular Show: Paint War | 185662 | [185662-regular-show-paint-war.json](./185662-regular-show-paint-war.json) |
+| Regular Toad Game | 135125 | [135125-regular-toad-game.json](./135125-regular-toad-game.json) |
 | Regulus: The Advent | 373720 | [373720-regulus-the-advent.json](./373720-regulus-the-advent.json) |
 | Rehaunted | 410924 | [410924-rehaunted.json](./410924-rehaunted.json) |
 | Reigen Doushi | 215135 | [215135-reigen-doushi.json](./215135-reigen-doushi.json) |
