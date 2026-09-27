@@ -1253,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Simulator | 343327 | [343327-taxi-simulator.json](./343327-taxi-simulator.json) |
 | Taxi Xtreme Urban Racer | 320368 | [320368-taxi-xtreme-urban-racer.json](./320368-taxi-xtreme-urban-racer.json) |
 | Taxi! | 9454 | [9454-taxi.json](./9454-taxi.json) |
+| Taxidermy | 127828 | [127828-taxidermy.json](./127828-taxidermy.json) |
 | TaxingTiles | 277937 | [277937-taxingtiles.json](./277937-taxingtiles.json) |
 | TaxMan | 19478 | [19478-taxman.json](./19478-taxman.json) |
 | Tay Son Dynasty | 256343 | [256343-tay-son-dynasty.json](./256343-tay-son-dynasty.json) |
@@ -6183,6 +6184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ormus Saga II: Guild of Death | 232524 | [232524-the-ormus-saga-ii-guild-of-death.json](./232524-the-ormus-saga-ii-guild-of-death.json) |
 | The Ormus Saga III: The Final Chapter | 232530 | [232530-the-ormus-saga-iii-the-final-chapter.json](./232530-the-ormus-saga-iii-the-final-chapter.json) |
 | The Orphan | 243153 | [243153-the-orphan.json](./243153-the-orphan.json) |
+| The Orphan A Tale of An Errant Ghost: Hidden Object Game | 127870 | [127870-the-orphan-a-tale-of-an-errant-ghost-hidden-object-game.json](./127870-the-orphan-a-tale-of-an-errant-ghost-hidden-object-game.json) |
 | The Orphan Dreams | 33160 | [33160-the-orphan-dreams.json](./33160-the-orphan-dreams.json) |
 | The Orphanage | 236381 | [236381-the-orphanage.json](./236381-the-orphanage.json) |
 | The Orphaned House | 413212 | [413212-the-orphaned-house.json](./413212-the-orphaned-house.json) |
@@ -11589,6 +11591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Numbers | 224667 | [224667-tower-numbers.json](./224667-tower-numbers.json) |
 | Tower O-ven | 338261 | [338261-tower-o-ven.json](./338261-tower-o-ven.json) |
 | Tower of Alos | 262095 | [262095-tower-of-alos.json](./262095-tower-of-alos.json) |
+| Tower of Arcana | 127840 | [127840-tower-of-arcana.json](./127840-tower-of-arcana.json) |
 | Tower of Ardia | 169453 | [169453-tower-of-ardia.json](./169453-tower-of-ardia.json) |
 | Tower of Ascension | 192834 | [192834-tower-of-ascension.json](./192834-tower-of-ascension.json) |
 | Tower of Ashes | 360190 | [360190-tower-of-ashes.json](./360190-tower-of-ashes.json) |
