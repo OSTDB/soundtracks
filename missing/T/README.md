@@ -1621,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempete sur les Bermudes | 310966 | [310966-tempete-sur-les-bermudes.json](./310966-tempete-sur-les-bermudes.json) |
 | Templar | 324332 | [324332-templar.json](./324332-templar.json) |
 | Templar Battleforce Elite | 89703 | [89703-templar-battleforce-elite.json](./89703-templar-battleforce-elite.json) |
+| Templar Castle Builder | 152790 | [152790-templar-castle-builder.json](./152790-templar-castle-builder.json) |
 | TemplarGFX's Aliens Colonial Marines Overhaul | 340008 | [340008-templargfxs-aliens-colonial-marines-overhaul.json](./340008-templargfxs-aliens-colonial-marines-overhaul.json) |
 | Templars | 133833 | [133833-templars.json](./133833-templars.json) |
 | Temple Crawler | 276810 | [276810-temple-crawler.json](./276810-temple-crawler.json) |
@@ -3198,6 +3199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Count of Monte Carlo | 151696 | [151696-the-count-of-monte-carlo.json](./151696-the-count-of-monte-carlo.json) |
 | The Counter Gambit | 379037 | [379037-the-counter-gambit.json](./379037-the-counter-gambit.json) |
 | The Counting Kingdom | 17435 | [17435-the-counting-kingdom.json](./17435-the-counting-kingdom.json) |
+| The Court of Wanderers | 152793 | [152793-the-court-of-wanderers.json](./152793-the-court-of-wanderers.json) |
 | The Coven | 37114 | [37114-the-coven.json](./37114-the-coven.json) |
 | The Cow Quiz | 217914 | [217914-the-cow-quiz.json](./217914-the-cow-quiz.json) |
 | The Crackpet Show: Happy Tree Friends Edition | 291998 | [291998-the-crackpet-show-happy-tree-friends-edition.json](./291998-the-crackpet-show-happy-tree-friends-edition.json) |
@@ -3909,6 +3911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Far Kingdoms: Spooky Mosiacs | 337605 | [337605-the-far-kingdoms-spooky-mosiacs.json](./337605-the-far-kingdoms-spooky-mosiacs.json) |
 | The Far Kingdoms: Winter Solitaire | 386131 | [386131-the-far-kingdoms-winter-solitaire.json](./386131-the-far-kingdoms-winter-solitaire.json) |
 | The Far Node | 392286 | [392286-the-far-node.json](./392286-the-far-node.json) |
+| The Faraway Land | 152786 | [152786-the-faraway-land.json](./152786-the-faraway-land.json) |
 | The Farm You Grew Up On | 180749 | [180749-the-farm-you-grew-up-on.json](./180749-the-farm-you-grew-up-on.json) |
 | The Farmer Was Replaced | 243931 | [243931-the-farmer-was-replaced.json](./243931-the-farmer-was-replaced.json) |
 | The Farnese Hercules | 203308 | [203308-the-farnese-hercules.json](./203308-the-farnese-hercules.json) |
@@ -6066,6 +6069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orchid's Edge | 231373 | [231373-the-orchids-edge.json](./231373-the-orchids-edge.json) |
 | The Ord Accord | 289972 | [289972-the-ord-accord.json](./289972-the-ord-accord.json) |
 | The Order: 1886 - Blackwater Edition | 62666 | [62666-the-order-1886-blackwater-edition.json](./62666-the-order-1886-blackwater-edition.json) |
+| The ordinary case of Margaret Luoni | 152819 | [152819-the-ordinary-case-of-margaret-luoni.json](./152819-the-ordinary-case-of-margaret-luoni.json) |
 | The Oregon Trail: 3rd Edition | 73240 | [73240-the-oregon-trail-3rd-edition.json](./73240-the-oregon-trail-3rd-edition.json) |
 | The Oregon Trail: 40th Anniversary Edition | 202693 | [202693-the-oregon-trail-40th-anniversary-edition.json](./202693-the-oregon-trail-40th-anniversary-edition.json) |
 | The Oregon Trail: 5th Edition | 68343 | [68343-the-oregon-trail-5th-edition.json](./68343-the-oregon-trail-5th-edition.json) |
@@ -9820,6 +9824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timekeepers Expansion | 210702 | [210702-timekeepers-expansion.json](./210702-timekeepers-expansion.json) |
 | Timelake: Time Travel Tactics | 327841 | [327841-timelake-time-travel-tactics.json](./327841-timelake-time-travel-tactics.json) |
 | Timeless | 119751 | [119751-timeless.json](./119751-timeless.json) |
+| Timeless Dual | 152809 | [152809-timeless-dual.json](./152809-timeless-dual.json) |
 | Timeless Paradox VR | 133200 | [133200-timeless-paradox-vr.json](./133200-timeless-paradox-vr.json) |
 | Timeless Solitaire Collection | 372476 | [372476-timeless-solitaire-collection.json](./372476-timeless-solitaire-collection.json) |
 | Timeless Tesseract | 310497 | [310497-timeless-tesseract.json](./310497-timeless-tesseract.json) |
