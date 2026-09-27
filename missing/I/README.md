@@ -1595,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Jump | 155518 | [155518-infinite-jump.json](./155518-infinite-jump.json) |
 | Infinite Knights | 256523 | [256523-infinite-knights.json](./256523-infinite-knights.json) |
 | Infinite Labyrinth | 281522 | [281522-infinite-labyrinth.json](./281522-infinite-labyrinth.json) |
+| Infinite Lagrange | 163227 | [163227-infinite-lagrange.json](./163227-infinite-lagrange.json) |
 | Infinite Legend | 102755 | [102755-infinite-legend.json](./102755-infinite-legend.json) |
 | Infinite Library | 318186 | [318186-infinite-library.json](./318186-infinite-library.json) |
 | Infinite Links | 194185 | [194185-infinite-links.json](./194185-infinite-links.json) |
@@ -1681,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Souls | 196576 | [196576-infinity-souls.json](./196576-infinity-souls.json) |
 | Infinity Strash: Dragon Quest - The Adventure of Dai | 137928 | [137928-infinity-strash-dragon-quest-the-adventure-of-dai.json](./137928-infinity-strash-dragon-quest-the-adventure-of-dai.json) |
 | Infinity Strash: Dragon Quest - The Adventure of Dai: Digital Deluxe Edition | 262330 | [262330-infinity-strash-dragon-quest-the-adventure-of-dai-digital-deluxe-edition.json](./262330-infinity-strash-dragon-quest-the-adventure-of-dai-digital-deluxe-edition.json) |
+| Infinity Tempest | 163207 | [163207-infinity-tempest.json](./163207-infinity-tempest.json) |
 | Infinity Toss | 239629 | [239629-infinity-toss.json](./239629-infinity-toss.json) |
 | Infinity Tower | 357845 | [357845-infinity-tower.json](./357845-infinity-tower.json) |
 | Infinity Trials | 245817 | [245817-infinity-trials.json](./245817-infinity-trials.json) |
@@ -2629,6 +2631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island of AIto: Life After Death | 226852 | [226852-island-of-aito-life-after-death.json](./226852-island-of-aito-life-after-death.json) |
 | Island of Despair | 326801 | [326801-island-of-despair.json](./326801-island-of-despair.json) |
 | Island of Enchantment | 296940 | [296940-island-of-enchantment.json](./296940-island-of-enchantment.json) |
+| Island of Girls Dreams | 163205 | [163205-island-of-girls-dreams.json](./163205-island-of-girls-dreams.json) |
 | Island of Hearts | 373514 | [373514-island-of-hearts.json](./373514-island-of-hearts.json) |
 | Island of Lust | 191220 | [191220-island-of-lust.json](./191220-island-of-lust.json) |
 | Island of Mine | 273959 | [273959-island-of-mine.json](./273959-island-of-mine.json) |
