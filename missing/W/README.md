@@ -1437,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werewolf Party | 301378 | [301378-werewolf-party.json](./301378-werewolf-party.json) |
 | Werewolf Pinball | 105930 | [105930-werewolf-pinball.json](./105930-werewolf-pinball.json) |
 | Werewolf: The Apocalypse - Earthblood Champion of Gaia Pack | 149967 | [149967-werewolf-the-apocalypse-earthblood-champion-of-gaia-pack.json](./149967-werewolf-the-apocalypse-earthblood-champion-of-gaia-pack.json) |
+| Werewolf: The Apocalypse - Earthblood: The Exiled One | 146174 | [146174-werewolf-the-apocalypse-earthblood-the-exiled-one.json](./146174-werewolf-the-apocalypse-earthblood-the-exiled-one.json) |
 | Werewolf: The Gloaming Malice | 408095 | [408095-werewolf-the-gloaming-malice.json](./408095-werewolf-the-gloaming-malice.json) |
 | Werewolf: The Inner Beast | 390099 | [390099-werewolf-the-inner-beast.json](./390099-werewolf-the-inner-beast.json) |
 | Werft-Simulator 2013 | 208482 | [208482-werft-simulator-2013.json](./208482-werft-simulator-2013.json) |
@@ -3657,6 +3658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Rumble: Action All-Stars Pack | 261333 | [261333-worms-rumble-action-all-stars-pack.json](./261333-worms-rumble-action-all-stars-pack.json) |
 | Worms Rumble: Bank Heist Double Pack | 225086 | [225086-worms-rumble-bank-heist-double-pack.json](./225086-worms-rumble-bank-heist-double-pack.json) |
 | Worms Rumble: Captain & Shark Double Pack | 225087 | [225087-worms-rumble-captain-and-shark-double-pack.json](./225087-worms-rumble-captain-and-shark-double-pack.json) |
+| Worms Rumble: Fully Loaded Edition | 146164 | [146164-worms-rumble-fully-loaded-edition.json](./146164-worms-rumble-fully-loaded-edition.json) |
 | Worms Rumble: Honor & Death Pack | 225089 | [225089-worms-rumble-honor-and-death-pack.json](./225089-worms-rumble-honor-and-death-pack.json) |
 | Worms: A Space Oddity | 5290 | [5290-worms-a-space-oddity.json](./5290-worms-a-space-oddity.json) |
 | Worms: Battle Islands | 5291 | [5291-worms-battle-islands.json](./5291-worms-battle-islands.json) |
