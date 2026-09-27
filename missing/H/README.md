@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker Clicker | 183903 | [183903-hacker-clicker.json](./183903-hacker-clicker.json) |
 | Hacker Evolution Duality: Hacker Bootcamp | 171565 | [171565-hacker-evolution-duality-hacker-bootcamp.json](./171565-hacker-evolution-duality-hacker-bootcamp.json) |
 | Hacker Evolution Duality: Hardcore Package Part 1 | 169309 | [169309-hacker-evolution-duality-hardcore-package-part-1.json](./169309-hacker-evolution-duality-hardcore-package-part-1.json) |
+| Hacker Evolution Duality: Inception Part 1 | 171375 | [171375-hacker-evolution-duality-inception-part-1.json](./171375-hacker-evolution-duality-inception-part-1.json) |
 | Hacker Evolution Duality: Inception Part 2 | 171633 | [171633-hacker-evolution-duality-inception-part-2.json](./171633-hacker-evolution-duality-inception-part-2.json) |
 | Hacker II: The Doomsday Papers | 12133 | [12133-hacker-ii-the-doomsday-papers.json](./12133-hacker-ii-the-doomsday-papers.json) |
 | Hacker the Beginning | 234585 | [234585-hacker-the-beginning.json](./234585-hacker-the-beginning.json) |
@@ -749,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Racing | 252160 | [252160-hard-racing.json](./252160-hard-racing.json) |
 | Hard Racing: Stunt Car Driving | 283264 | [283264-hard-racing-stunt-car-driving.json](./283264-hard-racing-stunt-car-driving.json) |
 | Hard Relay Mario | 219117 | [219117-hard-relay-mario.json](./219117-hard-relay-mario.json) |
+| Hard Reset: Extended Edition - Exile | 171405 | [171405-hard-reset-extended-edition-exile.json](./171405-hard-reset-extended-edition-exile.json) |
 | Hard Rock Casino | 21386 | [21386-hard-rock-casino.json](./21386-hard-rock-casino.json) |
 | Hard Rock Pinball | 133434 | [133434-hard-rock-pinball.json](./133434-hard-rock-pinball.json) |
 | Hard Rock Racing | 103878 | [103878-hard-rock-racing.json](./103878-hard-rock-racing.json) |
@@ -2239,6 +2241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai: Royal Quarters | 286543 | [286543-hentai-royal-quarters.json](./286543-hentai-royal-quarters.json) |
 | Hentai: Waifu World | 296950 | [296950-hentai-waifu-world.json](./296950-hentai-waifu-world.json) |
 | Hentai: Young Valkyries | 259610 | [259610-hentai-young-valkyries.json](./259610-hentai-young-valkyries.json) |
+| Hentaicraft | 171371 | [171371-hentaicraft.json](./171371-hentaicraft.json) |
 | Hentaimon | 296946 | [296946-hentaimon.json](./296946-hentaimon.json) |
 | Henteria Chronicles: The Peacekeepers | 334495 | [334495-henteria-chronicles-the-peacekeepers.json](./334495-henteria-chronicles-the-peacekeepers.json) |
 | HenTris 2: Shemales | 111209 | [111209-hentris-2-shemales.json](./111209-hentris-2-shemales.json) |
@@ -5198,6 +5201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdimension Neptunia Re;Birth2: Sister's Generation - Additional Content Pack 3 | 224218 | [224218-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-3.json](./224218-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-3.json) |
 | Hyperdimension Neptunia Re;Birth2: Sisters Generation | 9868 | [9868-hyperdimension-neptunia-re-birth2-sisters-generation.json](./9868-hyperdimension-neptunia-re-birth2-sisters-generation.json) |
 | Hyperdimension Neptunia Re;Birth2: Sisters Generation - Limited Edition | 388189 | [388189-hyperdimension-neptunia-re-birth2-sisters-generation-limited-edition.json](./388189-hyperdimension-neptunia-re-birth2-sisters-generation-limited-edition.json) |
+| Hyperdimension Neptunia Re;Birth3: V Generation - Giant Island | 171374 | [171374-hyperdimension-neptunia-re-birth3-v-generation-giant-island.json](./171374-hyperdimension-neptunia-re-birth3-v-generation-giant-island.json) |
 | Hyperdimension Neptunia Re;Birth3: V Generation - Mini Island | 170401 | [170401-hyperdimension-neptunia-re-birth3-v-generation-mini-island.json](./170401-hyperdimension-neptunia-re-birth3-v-generation-mini-island.json) |
 | Hyperdimension Neptunia U: Action Unleashed - Bonus Quest | 172172 | [172172-hyperdimension-neptunia-u-action-unleashed-bonus-quest.json](./172172-hyperdimension-neptunia-u-action-unleashed-bonus-quest.json) |
 | Hyperdimension Neptunia Unlimited | 400492 | [400492-hyperdimension-neptunia-unlimited.json](./400492-hyperdimension-neptunia-unlimited.json) |
