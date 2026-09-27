@@ -2877,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Match | 232147 | [232147-not-match.json](./232147-not-match.json) |
 | Not Meow Purroblem | 247539 | [247539-not-meow-purroblem.json](./247539-not-meow-purroblem.json) |
 | Not My Hand | 391744 | [391744-not-my-hand.json](./391744-not-my-hand.json) |
+| Not My President: Level 1 | 174096 | [174096-not-my-president-level-1.json](./174096-not-my-president-level-1.json) |
 | Not My Son | 405693 | [405693-not-my-son.json](./405693-not-my-son.json) |
 | Not My War | 377669 | [377669-not-my-war.json](./377669-not-my-war.json) |
 | Not Not: Zunou Taikyuu Game | 222266 | [222266-not-not-zunou-taikyuu-game.json](./222266-not-not-zunou-taikyuu-game.json) |
