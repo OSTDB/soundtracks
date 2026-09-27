@@ -1145,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joyride: Lowpoly World | 259010 | [259010-joyride-lowpoly-world.json](./259010-joyride-lowpoly-world.json) |
 | Joyrider | 270412 | [270412-joyrider.json](./270412-joyrider.json) |
 | Joyshot | 181914 | [181914-joyshot.json](./181914-joyshot.json) |
+| Joyspring | 156046 | [156046-joyspring.json](./156046-joyspring.json) |
 | Joyville | 260104 | [260104-joyville.json](./260104-joyville.json) |
 | Joyville 2 | 305751 | [305751-joyville-2.json](./305751-joyville-2.json) |
 | JPDE: Sonata of Fire | 178042 | [178042-jpde-sonata-of-fire.json](./178042-jpde-sonata-of-fire.json) |
@@ -1364,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpo Joe | 103423 | [103423-jumpo-joe.json](./103423-jumpo-joe.json) |
 | JumpoCalypse | 406124 | [406124-jumpocalypse.json](./406124-jumpocalypse.json) |
 | JumpOut | 300987 | [300987-jumpout.json](./300987-jumpout.json) |
+| Jumps VR | 156041 | [156041-jumps-vr.json](./156041-jumps-vr.json) |
 | Jumpscare to Live | 374715 | [374715-jumpscare-to-live.json](./374715-jumpscare-to-live.json) |
 | JumpSky | 74472 | [74472-jumpsky.json](./74472-jumpsky.json) |
 | JumpStart 1st Grade Reading | 286668 | [286668-jumpstart-1st-grade-reading.json](./286668-jumpstart-1st-grade-reading.json) |
