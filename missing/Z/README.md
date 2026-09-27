@@ -536,6 +536,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoey 101: Field Trip Fiasco | 18326 | [18326-zoey-101-field-trip-fiasco.json](./18326-zoey-101-field-trip-fiasco.json) |
 | Zoey: My Hentai Sex Doll | 167170 | [167170-zoey-my-hentai-sex-doll.json](./167170-zoey-my-hentai-sex-doll.json) |
 | Zoids 2: Zenebasu no Gyakushuu | 48594 | [48594-zoids-2-zenebasu-no-gyakushuu.json](./48594-zoids-2-zenebasu-no-gyakushuu.json) |
+| Zoids Battle Colosseum | 122250 | [122250-zoids-battle-colosseum.json](./122250-zoids-battle-colosseum.json) |
+| Zoids Dash | 122249 | [122249-zoids-dash.json](./122249-zoids-dash.json) |
 | Zoids Infinity EX NEO | 91725 | [91725-zoids-infinity-ex-neo.json](./91725-zoids-infinity-ex-neo.json) |
 | Zoids VS | 50586 | [50586-zoids-vs.json](./50586-zoids-vs.json) |
 | Zoids VS II | 50585 | [50585-zoids-vs-ii.json](./50585-zoids-vs-ii.json) |
