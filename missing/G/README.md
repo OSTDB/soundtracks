@@ -2386,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God bless, or Goddess | 358972 | [358972-god-bless-or-goddess.json](./358972-god-bless-or-goddess.json) |
 | God Busters: Who watches the Watchers? | 232460 | [232460-god-busters-who-watches-the-watchers.json](./232460-god-busters-who-watches-the-watchers.json) |
 | God Came to the Cave | 70298 | [70298-god-came-to-the-cave.json](./70298-god-came-to-the-cave.json) |
+| God Cop Bad Cop | 157518 | [157518-god-cop-bad-cop.json](./157518-god-cop-bad-cop.json) |
 | God Crafter | 309456 | [309456-god-crafter.json](./309456-god-crafter.json) |
 | God Eater | 11844 | [11844-god-eater.json](./11844-god-eater.json) |
 | God Eater 2 | 11853 | [11853-god-eater-2.json](./11853-god-eater-2.json) |
@@ -2432,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Simulator | 191570 | [191570-god-simulator.json](./191570-god-simulator.json) |
 | God Simulator | 31883 | [31883-god-simulator.json](./31883-god-simulator.json) |
 | God Starfighter | 76956 | [76956-god-starfighter.json](./76956-god-starfighter.json) |
+| God Sword | 157497 | [157497-god-sword.json](./157497-god-sword.json) |
 | God Trials | 348421 | [348421-god-trials.json](./348421-god-trials.json) |
 | God Wars | 347325 | [347325-god-wars.json](./347325-god-wars.json) |
 | God, Save the Queens! | 406682 | [406682-god-save-the-queens.json](./406682-god-save-the-queens.json) |
@@ -3407,6 +3409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitas! | 259549 | [259549-gravitas.json](./259549-gravitas.json) |
 | Gravitation | 57614 | [57614-gravitation.json](./57614-gravitation.json) |
 | Gravitational | 150150 | [150150-gravitational.json](./150150-gravitational.json) |
+| Gravitators | 157507 | [157507-gravitators.json](./157507-gravitators.json) |
 | Gravitaze: One | 171397 | [171397-gravitaze-one.json](./171397-gravitaze-one.json) |
 | Graviteam Tactics: Mius Front | 18173 | [18173-graviteam-tactics-mius-front.json](./18173-graviteam-tactics-mius-front.json) |
 | Graviteam Tactics: Mius Front - Against the Tide | 155477 | [155477-graviteam-tactics-mius-front-against-the-tide.json](./155477-graviteam-tactics-mius-front-against-the-tide.json) |
