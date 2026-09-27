@@ -1324,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vladik Brutal | 159796 | [159796-vladik-brutal.json](./159796-vladik-brutal.json) |
 | Vladimere's Lhore | 216497 | [216497-vladimeres-lhore.json](./216497-vladimeres-lhore.json) |
 | Vladimir 2021 | 156542 | [156542-vladimir-2021.json](./156542-vladimir-2021.json) |
+| Vladimir Putin Style | 125362 | [125362-vladimir-putin-style.json](./125362-vladimir-putin-style.json) |
 | Vlak | 377281 | [377281-vlak.json](./377281-vlak.json) |
 | Vlogger Go Viral | 102765 | [102765-vlogger-go-viral.json](./102765-vlogger-go-viral.json) |
 | Vlorp | 144850 | [144850-vlorp.json](./144850-vlorp.json) |
