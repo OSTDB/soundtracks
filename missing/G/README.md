@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gather the Gems! | 100013 | [100013-gather-the-gems.json](./100013-gather-the-gems.json) |
 | Gathering Our Childhoods | 249756 | [249756-gathering-our-childhoods.json](./249756-gathering-our-childhoods.json) |
 | Gator Brigade | 321565 | [321565-gator-brigade.json](./321565-gator-brigade.json) |
+| Gator Parade | 123533 | [123533-gator-parade.json](./123533-gator-parade.json) |
 | Gaucho and the Grassland | 192368 | [192368-gaucho-and-the-grassland.json](./192368-gaucho-and-the-grassland.json) |
 | Gaudi: Barcelona no Kaze | 118312 | [118312-gaudi-barcelona-no-kaze.json](./118312-gaudi-barcelona-no-kaze.json) |
 | Gauley | 341327 | [341327-gauley.json](./341327-gauley.json) |
@@ -3768,6 +3769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey Wolf | 56499 | [56499-grey-wolf.json](./56499-grey-wolf.json) |
 | Grey Zone | 68620 | [68620-grey-zone.json](./68620-grey-zone.json) |
 | Grey-Box Testing | 135222 | [135222-grey-box-testing.json](./135222-grey-box-testing.json) |
+| Grey: An Alien Dream | 123508 | [123508-grey-an-alien-dream.json](./123508-grey-an-alien-dream.json) |
 | Greyhill Incident: Found Footage Mode | 252682 | [252682-greyhill-incident-found-footage-mode.json](./252682-greyhill-incident-found-footage-mode.json) |
 | Greyhound Manager 2 | 175195 | [175195-greyhound-manager-2.json](./175195-greyhound-manager-2.json) |
 | Greyhound Racing | 175212 | [175212-greyhound-racing.json](./175212-greyhound-racing.json) |
