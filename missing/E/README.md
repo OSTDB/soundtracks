@@ -2985,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution of a Mini World: Physics Wonderland | 153429 | [153429-evolution-of-a-mini-world-physics-wonderland.json](./153429-evolution-of-a-mini-world-physics-wonderland.json) |
 | Evolution RTS | 36359 | [36359-evolution-rts.json](./36359-evolution-rts.json) |
 | Evolution Soccer | 137690 | [137690-evolution-soccer.json](./137690-evolution-soccer.json) |
+| Evolution: Battle for Utopia | 131458 | [131458-evolution-battle-for-utopia.json](./131458-evolution-battle-for-utopia.json) |
 | Evolution: Dino Dudes | 40801 | [40801-evolution-dino-dudes.json](./40801-evolution-dino-dudes.json) |
 | Evolution: Dragon X | 267354 | [267354-evolution-dragon-x.json](./267354-evolution-dragon-x.json) |
 | Evolution: From the Little Light | 280290 | [280290-evolution-from-the-little-light.json](./280290-evolution-from-the-little-light.json) |
@@ -3134,6 +3135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit: The Curse of Ophir | 174278 | [174278-exit-the-curse-of-ophir.json](./174278-exit-the-curse-of-ophir.json) |
 | Exit16: Byilhan Hotel | 305523 | [305523-exit16-byilhan-hotel.json](./305523-exit16-byilhan-hotel.json) |
 | Exiting the White Room | 310598 | [310598-exiting-the-white-room.json](./310598-exiting-the-white-room.json) |
+| Exitium | 131457 | [131457-exitium.json](./131457-exitium.json) |
 | Exitor | 230958 | [230958-exitor.json](./230958-exitor.json) |
 | Exitrance | 417537 | [417537-exitrance.json](./417537-exitrance.json) |
 | Exmortis | 196724 | [196724-exmortis.json](./196724-exmortis.json) |
