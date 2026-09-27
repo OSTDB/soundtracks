@@ -2372,6 +2372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermit | 291025 | [291025-hermit.json](./291025-hermit.json) |
 | Hermit and Pig | 252738 | [252738-hermit-and-pig.json](./252738-hermit-and-pig.json) |
 | Hermit: an Underwater Tale | 211955 | [211955-hermit-an-underwater-tale.json](./211955-hermit-an-underwater-tale.json) |
+| Hermitage: Strange Case Files | 130256 | [130256-hermitage-strange-case-files.json](./130256-hermitage-strange-case-files.json) |
 | Hero | 46879 | [46879-hero.json](./46879-hero.json) |
 | Hero Among Us | 143686 | [143686-hero-among-us.json](./143686-hero-among-us.json) |
 | Hero Barrier | 29747 | [29747-hero-barrier.json](./29747-hero-barrier.json) |
@@ -5051,6 +5052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter | 112716 | [112716-hunter.json](./112716-hunter.json) |
 | Hunter A Hunter | 192461 | [192461-hunter-a-hunter.json](./192461-hunter-a-hunter.json) |
 | Hunter and Tavern | 374664 | [374664-hunter-and-tavern.json](./374664-hunter-and-tavern.json) |
+| Hunter Assassin | 130293 | [130293-hunter-assassin.json](./130293-hunter-assassin.json) |
 | Hunter Beat | 296650 | [296650-hunter-beat.json](./296650-hunter-beat.json) |
 | Hunter Chronicles: Tara and Vyn | 303560 | [303560-hunter-chronicles-tara-and-vyn.json](./303560-hunter-chronicles-tara-and-vyn.json) |
 | Hunter Desert Simulator: Sniper Rifle | 409533 | [409533-hunter-desert-simulator-sniper-rifle.json](./409533-hunter-desert-simulator-sniper-rifle.json) |
