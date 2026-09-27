@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZaBaTa! | 235496 | [235496-zabata.json](./235496-zabata.json) |
 | Zabugorie: The Fairy Planet | 57638 | [57638-zabugorie-the-fairy-planet.json](./57638-zabugorie-the-fairy-planet.json) |
 | Zabula's Quest | 144224 | [144224-zabulas-quest.json](./144224-zabulas-quest.json) |
+| Zac Zac adventure | 133360 | [133360-zac-zac-adventure.json](./133360-zac-zac-adventure.json) |
 | Zac's Batting Academy | 234595 | [234595-zacs-batting-academy.json](./234595-zacs-batting-academy.json) |
 | Zaccaria Pinball | 33463 | [33463-zaccaria-pinball.json](./33463-zaccaria-pinball.json) |
 | Zaccaria Pinball: 40 Retro Tables | 158496 | [158496-zaccaria-pinball-40-retro-tables.json](./158496-zaccaria-pinball-40-retro-tables.json) |
