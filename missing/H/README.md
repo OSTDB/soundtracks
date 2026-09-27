@@ -3794,6 +3794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Stone Mage | 310019 | [310019-holy-stone-mage.json](./310019-holy-stone-mage.json) |
 | Holy Umbrella: Dondera no Mubou!! | 38386 | [38386-holy-umbrella-dondera-no-mubou.json](./38386-holy-umbrella-dondera-no-mubou.json) |
 | Holy War | 273484 | [273484-holy-war.json](./273484-holy-war.json) |
+| Holy Warrior | 121574 | [121574-holy-warrior.json](./121574-holy-warrior.json) |
 | Holyday City | 101933 | [101933-holyday-city.json](./101933-holyday-city.json) |
 | Holyday City: Reloaded | 76536 | [76536-holyday-city-reloaded.json](./76536-holyday-city-reloaded.json) |
 | Homaysa | 224223 | [224223-homaysa.json](./224223-homaysa.json) |
