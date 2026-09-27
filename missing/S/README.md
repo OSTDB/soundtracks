@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacreligious | 276460 | [276460-sacreligious.json](./276460-sacreligious.json) |
 | Sacrifices | 330126 | [330126-sacrifices.json](./330126-sacrifices.json) |
 | Sacrifices Must Be Made | 182849 | [182849-sacrifices-must-be-made.json](./182849-sacrifices-must-be-made.json) |
+| SacriFire | 152268 | [152268-sacrifire.json](./152268-sacrifire.json) |
 | SacriFrogos | 390009 | [390009-sacrifrogos.json](./390009-sacrifrogos.json) |
 | Sacrilege | 61634 | [61634-sacrilege.json](./61634-sacrilege.json) |
 | Sad But Ded | 185527 | [185527-sad-but-ded.json](./185527-sad-but-ded.json) |
@@ -1818,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seasons of War | 58746 | [58746-seasons-of-war.json](./58746-seasons-of-war.json) |
 | Seasons Pairs | 96030 | [96030-seasons-pairs.json](./96030-seasons-pairs.json) |
 | Seasons Turning | 374617 | [374617-seasons-turning.json](./374617-seasons-turning.json) |
+| Seasonspree | 152195 | [152195-seasonspree.json](./152195-seasonspree.json) |
 | Seaward | 361870 | [361870-seaward.json](./361870-seaward.json) |
 | Seaway | 181901 | [181901-seaway.json](./181901-seaway.json) |
 | Seawolf | 78987 | [78987-seawolf.json](./78987-seawolf.json) |
@@ -2339,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sent to the Office | 238445 | [238445-sent-to-the-office.json](./238445-sent-to-the-office.json) |
 | Sentama | 223966 | [223966-sentama.json](./223966-sentama.json) |
 | Sente | 122414 | [122414-sente.json](./122414-sente.json) |
+| Sentenced VR | 152221 | [152221-sentenced-vr.json](./152221-sentenced-vr.json) |
 | Sentience | 143695 | [143695-sentience.json](./143695-sentience.json) |
 | Sentient | 227966 | [227966-sentient.json](./227966-sentient.json) |
 | Sentient Noir | 219618 | [219618-sentient-noir.json](./219618-sentient-noir.json) |
@@ -14440,6 +14443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Bar Express | 54416 | [54416-sushi-bar-express.json](./54416-sushi-bar-express.json) |
 | Sushi Battle Rambunctiously | 267685 | [267685-sushi-battle-rambunctiously.json](./267685-sushi-battle-rambunctiously.json) |
 | Sushi Belt | 181226 | [181226-sushi-belt.json](./181226-sushi-belt.json) |
+| Sushi Ben VR | 152219 | [152219-sushi-ben-vr.json](./152219-sushi-ben-vr.json) |
 | Sushi Cat | 87214 | [87214-sushi-cat.json](./87214-sushi-cat.json) |
 | Sushi Cat 2 | 323934 | [323934-sushi-cat-2.json](./323934-sushi-cat-2.json) |
 | Sushi Catapult | 320746 | [320746-sushi-catapult.json](./320746-sushi-catapult.json) |
