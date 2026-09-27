@@ -5277,8 +5277,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Con-Quest | 140569 | [140569-con-quest.json](./140569-con-quest.json) |
 | Conan | 3862 | [3862-conan.json](./3862-conan.json) |
 | Conan | 9006 | [9006-conan.json](./9006-conan.json) |
+| Conan Exiles: Blood and Sand Pack | 164781 | [164781-conan-exiles-blood-and-sand-pack.json](./164781-conan-exiles-blood-and-sand-pack.json) |
+| Conan Exiles: Debaucheries of Derketo Pack | 164823 | [164823-conan-exiles-debaucheries-of-derketo-pack.json](./164823-conan-exiles-debaucheries-of-derketo-pack.json) |
 | Conan Exiles: Isle of Siptah | 167762 | [167762-conan-exiles-isle-of-siptah.json](./167762-conan-exiles-isle-of-siptah.json) |
+| Conan Exiles: Isle of Siptah Edition | 164809 | [164809-conan-exiles-isle-of-siptah-edition.json](./164809-conan-exiles-isle-of-siptah-edition.json) |
 | Conan Exiles: Riders of Hyboria | 127253 | [127253-conan-exiles-riders-of-hyboria.json](./127253-conan-exiles-riders-of-hyboria.json) |
+| Conan Exiles: Riders of Hyboria Pack | 164794 | [164794-conan-exiles-riders-of-hyboria-pack.json](./164794-conan-exiles-riders-of-hyboria-pack.json) |
+| Conan Exiles: Savage Edition | 164771 | [164771-conan-exiles-savage-edition.json](./164771-conan-exiles-savage-edition.json) |
+| Conan Exiles: Seekers of the Dawn Pack | 164775 | [164775-conan-exiles-seekers-of-the-dawn-pack.json](./164775-conan-exiles-seekers-of-the-dawn-pack.json) |
+| Conan Exiles: Treasures of Turan Pack | 164779 | [164779-conan-exiles-treasures-of-turan-pack.json](./164779-conan-exiles-treasures-of-turan-pack.json) |
 | Conan the mighty pig | 32411 | [32411-conan-the-mighty-pig.json](./32411-conan-the-mighty-pig.json) |
 | Conan Unconquered | 113208 | [113208-conan-unconquered.json](./113208-conan-unconquered.json) |
 | Conarium | 24856 | [24856-conarium.json](./24856-conarium.json) |
@@ -7144,6 +7151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrossCheck | 15920 | [15920-crosscheck.json](./15920-crosscheck.json) |
 | Crossclimb | 321118 | [321118-crossclimb.json](./321118-crossclimb.json) |
 | CrossCode | 35282 | [35282-crosscode.json](./35282-crosscode.json) |
+| CrossCode: Deluxe Edition | 164797 | [164797-crosscode-deluxe-edition.json](./164797-crosscode-deluxe-edition.json) |
 | Crosscountry BC | 399085 | [399085-crosscountry-bc.json](./399085-crosscountry-bc.json) |
 | Crosscountry California | 399068 | [399068-crosscountry-california.json](./399068-crosscountry-california.json) |
 | Crosscountry Canada Photo Safari | 399084 | [399084-crosscountry-canada-photo-safari.json](./399084-crosscountry-canada-photo-safari.json) |
