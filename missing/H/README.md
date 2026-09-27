@@ -408,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamilton's Great Adventure: Retro Fever DLC | 29212 | [29212-hamiltons-great-adventure-retro-fever-dlc.json](./29212-hamiltons-great-adventure-retro-fever-dlc.json) |
 | HamJam!! | 108972 | [108972-hamjam.json](./108972-hamjam.json) |
 | Hamlet in a Pond | 306081 | [306081-hamlet-in-a-pond.json](./306081-hamlet-in-a-pond.json) |
+| Hamlet: The Text Adventure | 146192 | [146192-hamlet-the-text-adventure.json](./146192-hamlet-the-text-adventure.json) |
 | Hammer | 247029 | [247029-hammer.json](./247029-hammer.json) |
 | Hammer & Potion | 215351 | [215351-hammer-and-potion.json](./215351-hammer-and-potion.json) |
 | Hammer 2 | 74595 | [74595-hammer-2.json](./74595-hammer-2.json) |
@@ -1314,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Healer's Quest: Pocket Wand | 197759 | [197759-healers-quest-pocket-wand.json](./197759-healers-quest-pocket-wand.json) |
 | Healing Hearts | 337702 | [337702-healing-hearts.json](./337702-healing-hearts.json) |
 | Healslut | 217999 | [217999-healslut.json](./217999-healslut.json) |
+| Health & Fitness Club Tycoon | 146200 | [146200-health-and-fitness-club-tycoon.json](./146200-health-and-fitness-club-tycoon.json) |
 | Health Ninja | 365760 | [365760-health-ninja.json](./365760-health-ninja.json) |
 | Healthy Breakfast | 117674 | [117674-healthy-breakfast.json](./117674-healthy-breakfast.json) |
 | Healthy Hero: Tower Defense | 284921 | [284921-healthy-hero-tower-defense.json](./284921-healthy-hero-tower-defense.json) |
@@ -4400,6 +4402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed 2: Turbocharged - Manga Free Pack | 277831 | [277831-hot-wheels-unleashed-2-turbocharged-manga-free-pack.json](./277831-hot-wheels-unleashed-2-turbocharged-manga-free-pack.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Pure Fire Edition | 252165 | [252165-hot-wheels-unleashed-2-turbocharged-pure-fire-edition.json](./252165-hot-wheels-unleashed-2-turbocharged-pure-fire-edition.json) |
 | Hot Wheels Unleashed 2: Twin Mill (Unleashed Edition) | 271777 | [271777-hot-wheels-unleashed-2-twin-mill-unleashed-edition.json](./271777-hot-wheels-unleashed-2-twin-mill-unleashed-edition.json) |
+| Hot Wheels Unleashed: Challenge Accepted Edition | 146181 | [146181-hot-wheels-unleashed-challenge-accepted-edition.json](./146181-hot-wheels-unleashed-challenge-accepted-edition.json) |
 | Hot Wheels Unleashed: Collector's Edition | 169204 | [169204-hot-wheels-unleashed-collectors-edition.json](./169204-hot-wheels-unleashed-collectors-edition.json) |
 | Hot Wheels Unleashed: Corvette Stingray Convertible 2014 | 195769 | [195769-hot-wheels-unleashed-corvette-stingray-convertible-2014.json](./195769-hot-wheels-unleashed-corvette-stingray-convertible-2014.json) |
 | Hot Wheels Unleashed: Day One Edition | 146134 | [146134-hot-wheels-unleashed-day-one-edition.json](./146134-hot-wheels-unleashed-day-one-edition.json) |
@@ -4719,6 +4722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Card Games | 87746 | [87746-hoyle-card-games.json](./87746-hoyle-card-games.json) |
 | Hoyle Card Games 2007 | 97125 | [97125-hoyle-card-games-2007.json](./97125-hoyle-card-games-2007.json) |
 | Hoyle Card Games 2009 | 210064 | [210064-hoyle-card-games-2009.json](./210064-hoyle-card-games-2009.json) |
+| Hoyle Card Games 2010 | 146194 | [146194-hoyle-card-games-2010.json](./146194-hoyle-card-games-2010.json) |
 | Hoyle Card Games 2011 | 210065 | [210065-hoyle-card-games-2011.json](./210065-hoyle-card-games-2011.json) |
 | Hoyle Card Games 2012 | 54107 | [54107-hoyle-card-games-2012.json](./54107-hoyle-card-games-2012.json) |
 | Hoyle Casino | 131506 | [131506-hoyle-casino.json](./131506-hoyle-casino.json) |
