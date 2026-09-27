@@ -5311,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky on Fire: 1940 | 182846 | [182846-sky-on-fire-1940.json](./182846-sky-on-fire-1940.json) |
 | Sky Patch | 347890 | [347890-sky-patch.json](./347890-sky-patch.json) |
 | Sky Patrol | 40793 | [40793-sky-patrol.json](./40793-sky-patrol.json) |
+| Sky Pirates of Actorius | 129101 | [129101-sky-pirates-of-actorius.json](./129101-sky-pirates-of-actorius.json) |
 | Sky Plankers | 28195 | [28195-sky-plankers.json](./28195-sky-plankers.json) |
 | Sky Races | 186909 | [186909-sky-races.json](./186909-sky-races.json) |
 | Sky Reach | 382347 | [382347-sky-reach.json](./382347-sky-reach.json) |
@@ -8666,6 +8667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacetronic | 270683 | [270683-spacetronic.json](./270683-spacetronic.json) |
 | Spacetug | 179028 | [179028-spacetug.json](./179028-spacetug.json) |
 | SpaceVenture | 63497 | [63497-spaceventure.json](./63497-spaceventure.json) |
+| SpaceVibes | 129120 | [129120-spacevibes.json](./129120-spacevibes.json) |
 | Spacewar | 181938 | [181938-spacewar.json](./181938-spacewar.json) |
 | Spaceward Ho! | 47296 | [47296-spaceward-ho.json](./47296-spaceward-ho.json) |
 | Spacewind The Zeppelin | 292587 | [292587-spacewind-the-zeppelin.json](./292587-spacewind-the-zeppelin.json) |
@@ -13892,6 +13894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Rock Blasters! | 31959 | [31959-super-rock-blasters.json](./31959-super-rock-blasters.json) |
 | Super Rocket Monkey | 389130 | [389130-super-rocket-monkey.json](./389130-super-rocket-monkey.json) |
 | Super Rocket Pets | 320155 | [320155-super-rocket-pets.json](./320155-super-rocket-pets.json) |
+| Super Rocket Ride | 129092 | [129092-super-rocket-ride.json](./129092-super-rocket-ride.json) |
 | Super Rugby | 48664 | [48664-super-rugby.json](./48664-super-rugby.json) |
 | Super Rugby League 2 | 23009 | [23009-super-rugby-league-2.json](./23009-super-rugby-league-2.json) |
 | Super Run World | 223017 | [223017-super-run-world.json](./223017-super-run-world.json) |
