@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T16:33:31.167Z",
-  "total_missing": 131326,
+  "generated_at": "2026-09-27T16:48:26.111Z",
+  "total_missing": 131376,
   "games": [
     {
       "igdb_id": 186066,
@@ -22283,6 +22283,11 @@
       "file": "missing/A/62753-amnesia-later.json"
     },
     {
+      "igdb_id": 136947,
+      "game_name": "Amnesia Later x Crowd for Nintendo Switch",
+      "file": "missing/A/136947-amnesia-later-x-crowd-for-nintendo-switch.json"
+    },
+    {
       "igdb_id": 62755,
       "game_name": "Amnesia World",
       "file": "missing/A/62755-amnesia-world.json"
@@ -35338,6 +35343,11 @@
       "file": "missing/A/269558-asonde-igo-ga-sara-ni-tsuyoku-naru-ginsei-igo-ds-chuukyuu-hen.json"
     },
     {
+      "igdb_id": 136958,
+      "game_name": "Asonde Igo ga Tsuyoku Naru! Ginsei Igo DX",
+      "file": "missing/A/136958-asonde-igo-ga-tsuyoku-naru-ginsei-igo-dx.json"
+    },
+    {
       "igdb_id": 269651,
       "game_name": "Asonde Igo ga Tsuyoku Naru!! Ginsei Igo DS",
       "file": "missing/A/269651-asonde-igo-ga-tsuyoku-naru-ginsei-igo-ds.json"
@@ -38401,6 +38411,11 @@
       "igdb_id": 356745,
       "game_name": "Atelier Yumia: The Art of Aladiss Expansion Pack",
       "file": "missing/A/356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json"
+    },
+    {
+      "igdb_id": 136924,
+      "game_name": "Atelier: Alchemists of the Dusk Trilogy DX - Premium Box",
+      "file": "missing/A/136924-atelier-alchemists-of-the-dusk-trilogy-dx-premium-box.json"
     },
     {
       "igdb_id": 167138,
@@ -74063,6 +74078,11 @@
       "file": "missing/B/121960-brigandine-the-legend-of-runersia.json"
     },
     {
+      "igdb_id": 136950,
+      "game_name": "Brigandine: The Legend of Runersia - Limited Edition",
+      "file": "missing/B/136950-brigandine-the-legend-of-runersia-limited-edition.json"
+    },
+    {
       "igdb_id": 73820,
       "game_name": "Briganty: The Roots of Darkness",
       "file": "missing/B/73820-briganty-the-roots-of-darkness.json"
@@ -81006,6 +81026,11 @@
       "igdb_id": 42896,
       "game_name": "Call of Duty: Infinite Warfare - Legacy Edition",
       "file": "missing/C/42896-call-of-duty-infinite-warfare-legacy-edition.json"
+    },
+    {
+      "igdb_id": 136976,
+      "game_name": "Call of Duty: Modern Warfare - Season Five",
+      "file": "missing/C/136976-call-of-duty-modern-warfare-season-five.json"
     },
     {
       "igdb_id": 135220,
@@ -90826,6 +90851,11 @@
       "igdb_id": 68608,
       "game_name": "Challenge!",
       "file": "missing/C/68608-challenge.json"
+    },
+    {
+      "igdb_id": 136979,
+      "game_name": "Challenger",
+      "file": "missing/C/136979-challenger.json"
     },
     {
       "igdb_id": 76622,
@@ -113268,6 +113298,11 @@
       "file": "missing/C/269681-crayon-shin-chan-shokkugan-densetsu-o-yobu-omake-daiketsusen.json"
     },
     {
+      "igdb_id": 136939,
+      "game_name": "Crayon Shin-chan: Arashi wo Yobu Cinema-Land - Kachinko Gachinko Daikatsugeki!",
+      "file": "missing/C/136939-crayon-shin-chan-arashi-wo-yobu-cinema-land-kachinko-gachinko-daikatsugeki.json"
+    },
+    {
       "igdb_id": 20476,
       "game_name": "Crayon Shin-chan: Arashi wo Yobu Nendororoon Daihenshin!",
       "file": "missing/C/20476-crayon-shin-chan-arashi-wo-yobu-nendororoon-daihenshin.json"
@@ -119728,6 +119763,11 @@
       "file": "missing/C/182248-cupid-nonogram.json"
     },
     {
+      "igdb_id": 136964,
+      "game_name": "Cupid Parasite",
+      "file": "missing/C/136964-cupid-parasite.json"
+    },
+    {
       "igdb_id": 200558,
       "game_name": "Cupid Parasite: Sweet and Spicy Darling",
       "file": "missing/C/200558-cupid-parasite-sweet-and-spicy-darling.json"
@@ -122588,6 +122628,11 @@
       "file": "missing/D/86547-d-c-s-storm.json"
     },
     {
+      "igdb_id": 136926,
+      "game_name": "D.C.4: Da Capo 4",
+      "file": "missing/D/136926-d-c-4-da-capo-4.json"
+    },
+    {
       "igdb_id": 207920,
       "game_name": "D.C.4: Da Capo 4 - Fortunate Departures",
       "file": "missing/D/207920-d-c-4-da-capo-4-fortunate-departures.json"
@@ -123231,6 +123276,11 @@
       "igdb_id": 353376,
       "game_name": "Dai Datsugoku! Hell chama Prison no Yabou",
       "file": "missing/D/353376-dai-datsugoku-hell-chama-prison-no-yabou.json"
+    },
+    {
+      "igdb_id": 136955,
+      "game_name": "Dai Gyakuten Saiban: Naruhodou Ryuunosuke no Bouken 1&2 - Best Price!",
+      "file": "missing/D/136955-dai-gyakuten-saiban-naruhodou-ryuunosuke-no-bouken-1-and-2-best-price.json"
     },
     {
       "igdb_id": 240912,
@@ -165283,6 +165333,11 @@
       "file": "missing/E/171550-eiga-sumikko-gurashi-aoi-tsukiyo-no-mahou-no-ko-game-de-asobou-eiga-no-sekai.json"
     },
     {
+      "igdb_id": 136961,
+      "game_name": "Eiga Sumikko Gurashi: Tobidasu Ehon to Himitsu no Ko - Game de Asobou! Ehon no Sekai",
+      "file": "missing/E/136961-eiga-sumikko-gurashi-tobidasu-ehon-to-himitsu-no-ko-game-de-asobou-ehon-no-sekai.json"
+    },
+    {
       "igdb_id": 192427,
       "game_name": "Eigen Space",
       "file": "missing/E/192427-eigen-space.json"
@@ -167176,6 +167231,11 @@
       "igdb_id": 345588,
       "game_name": "Elmin",
       "file": "missing/E/345588-elmin.json"
+    },
+    {
+      "igdb_id": 136933,
+      "game_name": "Elminage Gothic 3D Remix: Ulm Zakir to Yami no Gishiki",
+      "file": "missing/E/136933-elminage-gothic-3d-remix-ulm-zakir-to-yami-no-gishiki.json"
     },
     {
       "igdb_id": 21033,
@@ -180956,6 +181016,11 @@
       "igdb_id": 95432,
       "game_name": "Fall Down",
       "file": "missing/F/95432-fall-down.json"
+    },
+    {
+      "igdb_id": 136946,
+      "game_name": "Fall Dudes 3D",
+      "file": "missing/F/136946-fall-dudes-3d.json"
     },
     {
       "igdb_id": 340053,
@@ -215678,6 +215743,11 @@
       "file": "missing/G/222253-gesshizu-minna-de-chokomaka-murazukuri.json"
     },
     {
+      "igdb_id": 136966,
+      "game_name": "Gesshizu: Mori no Chiisana Nakama-tachi",
+      "file": "missing/G/136966-gesshizu-mori-no-chiisana-nakama-tachi.json"
+    },
+    {
       "igdb_id": 273346,
       "game_name": "Gesshoku",
       "file": "missing/G/273346-gesshoku.json"
@@ -223871,6 +223941,11 @@
       "igdb_id": 124018,
       "game_name": "Gotouchi Kentei DS",
       "file": "missing/G/124018-gotouchi-kentei-ds.json"
+    },
+    {
+      "igdb_id": 136963,
+      "game_name": "Gotouchi Tetsudou for Nintendo Switch",
+      "file": "missing/G/136963-gotouchi-tetsudou-for-nintendo-switch.json"
     },
     {
       "igdb_id": 231299,
@@ -232708,6 +232783,11 @@
       "file": "missing/H/141134-haiki.json"
     },
     {
+      "igdb_id": 136931,
+      "game_name": "Haikyu!! Tsunage! Itadaki no Keshiki!!",
+      "file": "missing/H/136931-haikyu-tsunage-itadaki-no-keshiki.json"
+    },
+    {
       "igdb_id": 196599,
       "game_name": "Haikyuu!! Donpisha Match!!",
       "file": "missing/H/196599-haikyuu-donpisha-match.json"
@@ -236071,6 +236151,11 @@
       "igdb_id": 382444,
       "game_name": "Hardcore Leveling Warrior",
       "file": "missing/H/382444-hardcore-leveling-warrior.json"
+    },
+    {
+      "igdb_id": 136927,
+      "game_name": "Hardcore Mecha: Fighter Edition",
+      "file": "missing/H/136927-hardcore-mecha-fighter-edition.json"
     },
     {
       "igdb_id": 168211,
@@ -262873,6 +262958,11 @@
       "file": "missing/I/285041-idol-time-pripara.json"
     },
     {
+      "igdb_id": 136938,
+      "game_name": "Idol Time PriPara Yume All Star Live!",
+      "file": "missing/I/136938-idol-time-pripara-yume-all-star-live.json"
+    },
+    {
       "igdb_id": 75471,
       "game_name": "Idol-Mahjong Final Romance 2",
       "file": "missing/I/75471-idol-mahjong-final-romance-2.json"
@@ -284863,6 +284953,11 @@
       "file": "missing/K/12652-katakis.json"
     },
     {
+      "igdb_id": 136974,
+      "game_name": "Katakoi Contrast: Collection of Branch",
+      "file": "missing/K/136974-katakoi-contrast-collection-of-branch.json"
+    },
+    {
       "igdb_id": 116380,
       "game_name": "Katakoi Contrast: Way of Parting Vol.1",
       "file": "missing/K/116380-katakoi-contrast-way-of-parting-vol-1.json"
@@ -292801,6 +292896,11 @@
       "igdb_id": 30780,
       "game_name": "Koi Musubi",
       "file": "missing/K/30780-koi-musubi.json"
+    },
+    {
+      "igdb_id": 136929,
+      "game_name": "Koi no Hanasaku Hyakkaen",
+      "file": "missing/K/136929-koi-no-hanasaku-hyakkaen.json"
     },
     {
       "igdb_id": 40230,
@@ -314553,6 +314653,11 @@
       "file": "missing/L/299149-lover.json"
     },
     {
+      "igdb_id": 136945,
+      "game_name": "LoveR Kiss: Costume Deluxe Pack",
+      "file": "missing/L/136945-lover-kiss-costume-deluxe-pack.json"
+    },
+    {
       "igdb_id": 355544,
       "game_name": "LoveR Kiss: Endless Memories",
       "file": "missing/L/355544-lover-kiss-endless-memories.json"
@@ -331411,6 +331516,16 @@
       "igdb_id": 59661,
       "game_name": "Medarot 9 Kabuto/Kuwagata",
       "file": "missing/M/59661-medarot-9-kabuto-kuwagata.json"
+    },
+    {
+      "igdb_id": 136957,
+      "game_name": "Medarot Classics Kabuto Version",
+      "file": "missing/M/136957-medarot-classics-kabuto-version.json"
+    },
+    {
+      "igdb_id": 136953,
+      "game_name": "Medarot Classics Kuwagata Version",
+      "file": "missing/M/136953-medarot-classics-kuwagata-version.json"
     },
     {
       "igdb_id": 136832,
@@ -351008,6 +351123,11 @@
       "file": "missing/M/166142-moon-whistle.json"
     },
     {
+      "igdb_id": 136965,
+      "game_name": "Moon: Premium Edition",
+      "file": "missing/M/136965-moon-premium-edition.json"
+    },
+    {
       "igdb_id": 339946,
       "game_name": "Moon64",
       "file": "missing/M/339946-moon64.json"
@@ -363368,6 +363488,11 @@
       "file": "missing/N/181902-nanowar.json"
     },
     {
+      "igdb_id": 136971,
+      "game_name": "Nanpure 10000 + Puzzle no Mado",
+      "file": "missing/N/136971-nanpure-10000-puzzle-no-mado.json"
+    },
+    {
       "igdb_id": 191866,
       "game_name": "Nanpure VOW",
       "file": "missing/N/191866-nanpure-vow.json"
@@ -369361,6 +369486,11 @@
       "igdb_id": 89880,
       "game_name": "New LovePlus: Rinko Complete Set",
       "file": "missing/N/89880-new-loveplus-rinko-complete-set.json"
+    },
+    {
+      "igdb_id": 136937,
+      "game_name": "New LovePlus+",
+      "file": "missing/N/136937-new-loveplus.json"
     },
     {
       "igdb_id": 89887,
@@ -376416,6 +376546,11 @@
       "igdb_id": 205267,
       "game_name": "Nora to Oujo to Noraneko Heart 2",
       "file": "missing/N/205267-nora-to-oujo-to-noraneko-heart-2.json"
+    },
+    {
+      "igdb_id": 136972,
+      "game_name": "Nora to Oujo to Noraneko Heart 2: Dakimakura Cover Set",
+      "file": "missing/N/136972-nora-to-oujo-to-noraneko-heart-2-dakimakura-cover-set.json"
     },
     {
       "igdb_id": 298654,
@@ -390968,6 +391103,11 @@
       "file": "missing/O/203565-overdrive.json"
     },
     {
+      "igdb_id": 136934,
+      "game_name": "Overdrive City",
+      "file": "missing/O/136934-overdrive-city.json"
+    },
+    {
       "igdb_id": 249296,
       "game_name": "Overdrive Escape",
       "file": "missing/O/249296-overdrive-escape.json"
@@ -402843,6 +402983,11 @@
       "file": "missing/P/164821-phantasy-star-online-2-new-genesis-start-dash-rappy-edition.json"
     },
     {
+      "igdb_id": 136922,
+      "game_name": "Phantasy Star Online 2: Episode 6 - Deluxe Package",
+      "file": "missing/P/136922-phantasy-star-online-2-episode-6-deluxe-package.json"
+    },
+    {
       "igdb_id": 225867,
       "game_name": "Phantasy Star Online 2: Helga Pack",
       "file": "missing/P/225867-phantasy-star-online-2-helga-pack.json"
@@ -405008,6 +405153,11 @@
       "file": "missing/P/145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json"
     },
     {
+      "igdb_id": 136960,
+      "game_name": "Piczle Puzzle Pack 3-in-1",
+      "file": "missing/P/136960-piczle-puzzle-pack-3-in-1.json"
+    },
+    {
       "igdb_id": 225890,
       "game_name": "Pid",
       "file": "missing/P/225890-pid.json"
@@ -405366,6 +405516,11 @@
       "igdb_id": 246666,
       "game_name": "Pik's Epic Kirby Sprite Comics: Teh Game 2",
       "file": "missing/P/246666-piks-epic-kirby-sprite-comics-teh-game-2.json"
+    },
+    {
+      "igdb_id": 136932,
+      "game_name": "Pika Pika Nurse Monogatari: Shounika ha Itsumo Oosawagi",
+      "file": "missing/P/136932-pika-pika-nurse-monogatari-shounika-ha-itsumo-oosawagi.json"
     },
     {
       "igdb_id": 357230,
@@ -407131,6 +407286,11 @@
       "igdb_id": 93632,
       "game_name": "PinWar",
       "file": "missing/P/93632-pinwar.json"
+    },
+    {
+      "igdb_id": 136944,
+      "game_name": "Piofiore: Episodio 1926",
+      "file": "missing/P/136944-piofiore-episodio-1926.json"
     },
     {
       "igdb_id": 223129,
@@ -422883,6 +423043,16 @@
       "file": "missing/P/48304-pro-yakyuu-family-stadium-88-nendo-ban.json"
     },
     {
+      "igdb_id": 136923,
+      "game_name": "Pro Yakyuu Famista 2020",
+      "file": "missing/P/136923-pro-yakyuu-famista-2020.json"
+    },
+    {
+      "igdb_id": 136969,
+      "game_name": "Pro Yakyuu Famista Evolution",
+      "file": "missing/P/136969-pro-yakyuu-famista-evolution.json"
+    },
+    {
       "igdb_id": 395234,
       "game_name": "Pro Yakyuu Fanstars League",
       "file": "missing/P/395234-pro-yakyuu-fanstars-league.json"
@@ -426173,6 +426343,11 @@
       "file": "missing/P/136265-psikyo-shooting-stars-bravo-limited-edition.json"
     },
     {
+      "igdb_id": 136951,
+      "game_name": "Psikyo: Shooting Library Vol. 2",
+      "file": "missing/P/136951-psikyo-shooting-library-vol-2.json"
+    },
+    {
       "igdb_id": 276191,
       "game_name": "Psionic Sentry: Infinite",
       "file": "missing/P/276191-psionic-sentry-infinite.json"
@@ -426606,6 +426781,11 @@
       "igdb_id": 135154,
       "game_name": "PUBG Mobile: Season 13",
       "file": "missing/P/135154-pubg-mobile-season-13.json"
+    },
+    {
+      "igdb_id": 136975,
+      "game_name": "PUBG Mobile: Season 14",
+      "file": "missing/P/136975-pubg-mobile-season-14.json"
     },
     {
       "igdb_id": 141193,
@@ -472293,6 +472473,11 @@
       "file": "missing/S/142401-sengoku-turb-fanfan-i-heart-me-dunce-doublentendre.json"
     },
     {
+      "igdb_id": 136948,
+      "game_name": "Sengoku Warriors 4 DX: 15th Anniversary Box",
+      "file": "missing/S/136948-sengoku-warriors-4-dx-15th-anniversary-box.json"
+    },
+    {
       "igdb_id": 259815,
       "game_name": "Senile Wizards",
       "file": "missing/S/259815-senile-wizards.json"
@@ -472426,6 +472611,11 @@
       "igdb_id": 42677,
       "game_name": "Senran Kagura: Estival Versus - Endless Summer Edition",
       "file": "missing/S/42677-senran-kagura-estival-versus-endless-summer-edition.json"
+    },
+    {
+      "igdb_id": 136928,
+      "game_name": "Senran Kagura: Peach and Reflexions Limited Double Pack",
+      "file": "missing/S/136928-senran-kagura-peach-and-reflexions-limited-double-pack.json"
     },
     {
       "igdb_id": 83548,
@@ -475696,6 +475886,11 @@
       "igdb_id": 171365,
       "game_name": "Shadowrun Chronicles: Infected - Missions",
       "file": "missing/S/171365-shadowrun-chronicles-infected-missions.json"
+    },
+    {
+      "igdb_id": 136925,
+      "game_name": "Shadowrun Collection",
+      "file": "missing/S/136925-shadowrun-collection.json"
     },
     {
       "igdb_id": 22652,
@@ -479531,6 +479726,11 @@
       "igdb_id": 253854,
       "game_name": "Shirime 2: The Genesis of Butt-Eye",
       "file": "missing/S/253854-shirime-2-the-genesis-of-butt-eye.json"
+    },
+    {
+      "igdb_id": 136943,
+      "game_name": "Shiritsu Berubara Gakuen: Versailles no Bara Re*imagination",
+      "file": "missing/S/136943-shiritsu-berubara-gakuen-versailles-no-bara-re-imagination.json"
     },
     {
       "igdb_id": 69542,
@@ -496838,9 +497038,19 @@
       "file": "missing/S/323859-sonic-1-wtf-lame.json"
     },
     {
+      "igdb_id": 136920,
+      "game_name": "Sonic 2 Dimps Edition",
+      "file": "missing/S/136920-sonic-2-dimps-edition.json"
+    },
+    {
       "igdb_id": 56739,
       "game_name": "Sonic 2 In 1",
       "file": "missing/S/56739-sonic-2-in-1.json"
+    },
+    {
+      "igdb_id": 136921,
+      "game_name": "Sonic 2 Megamix",
+      "file": "missing/S/136921-sonic-2-megamix.json"
     },
     {
       "igdb_id": 227799,
@@ -536133,6 +536343,11 @@
       "file": "missing/S/97284-sylvan-idyll.json"
     },
     {
+      "igdb_id": 136983,
+      "game_name": "Sylvan Meadows",
+      "file": "missing/S/136983-sylvan-meadows.json"
+    },
+    {
       "igdb_id": 19691,
       "game_name": "Sylvan Tale",
       "file": "missing/S/19691-sylvan-tale.json"
@@ -553031,6 +553246,11 @@
       "igdb_id": 154967,
       "game_name": "The Coma: Back to School Bundle",
       "file": "missing/T/154967-the-coma-back-to-school-bundle.json"
+    },
+    {
+      "igdb_id": 136930,
+      "game_name": "The Coma: Double Cut",
+      "file": "missing/T/136930-the-coma-double-cut.json"
     },
     {
       "igdb_id": 166241,
@@ -589398,6 +589618,11 @@
       "file": "missing/T/242474-toheart2-anotherdays.json"
     },
     {
+      "igdb_id": 136956,
+      "game_name": "Tohoku Daigaku Karei Igaku Kenkyuusho: Kawashima Ryuuta Kyouju Kanshuu - Mono Sugoku Nou wo Kitaeru 5-Funkan no Oni Training",
+      "file": "missing/T/136956-tohoku-daigaku-karei-igaku-kenkyuusho-kawashima-ryuuta-kyouju-kanshuu-mono-sugoku-nou-wo-kitaeru-5-funkan-no-oni-training.json"
+    },
+    {
       "igdb_id": 391609,
       "game_name": "Tohotopia",
       "file": "missing/T/391609-tohotopia.json"
@@ -590286,6 +590511,11 @@
       "igdb_id": 25641,
       "game_name": "Tom Clancy's Rainbow Six Siege: Operation Red Crow",
       "file": "missing/T/25641-tom-clancys-rainbow-six-siege-operation-red-crow.json"
+    },
+    {
+      "igdb_id": 136978,
+      "game_name": "Tom Clancy's Rainbow Six Siege: Operation Shadow Legacy",
+      "file": "missing/T/136978-tom-clancys-rainbow-six-siege-operation-shadow-legacy.json"
     },
     {
       "igdb_id": 135157,
@@ -592141,6 +592371,11 @@
       "igdb_id": 97297,
       "game_name": "Toraware no Palm",
       "file": "missing/T/97297-toraware-no-palm.json"
+    },
+    {
+      "igdb_id": 136967,
+      "game_name": "Toraware no Palm: Deluxe Edition",
+      "file": "missing/T/136967-toraware-no-palm-deluxe-edition.json"
     },
     {
       "igdb_id": 109603,
@@ -596226,6 +596461,11 @@
       "igdb_id": 272899,
       "game_name": "Tracks n' Turrets",
       "file": "missing/T/272899-tracks-n-turrets.json"
+    },
+    {
+      "igdb_id": 136982,
+      "game_name": "Tracks of Thought",
+      "file": "missing/T/136982-tracks-of-thought.json"
     },
     {
       "igdb_id": 29886,
@@ -615876,6 +616116,11 @@
       "igdb_id": 136840,
       "game_name": "Uta no Prince-sama: Amazing Aria & Sweet Serenade Love",
       "file": "missing/U/136840-uta-no-prince-sama-amazing-aria-and-sweet-serenade-love.json"
+    },
+    {
+      "igdb_id": 136962,
+      "game_name": "Uta no Prince-sama: Debut for Nintendo Switch",
+      "file": "missing/U/136962-uta-no-prince-sama-debut-for-nintendo-switch.json"
     },
     {
       "igdb_id": 222999,
@@ -648481,6 +648726,11 @@
       "igdb_id": 127255,
       "game_name": "Yo-kai Watch 4++",
       "file": "missing/Y/127255-yo-kai-watch-4.json"
+    },
+    {
+      "igdb_id": 136935,
+      "game_name": "Yo-kai Watch Busters 2: Hihou Densetsu Banbaraya Magnum",
+      "file": "missing/Y/136935-yo-kai-watch-busters-2-hihou-densetsu-banbaraya-magnum.json"
     },
     {
       "igdb_id": 59946,
