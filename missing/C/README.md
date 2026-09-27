@@ -3901,6 +3901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clark: Hoova VR | 82067 | [82067-clark-hoova-vr.json](./82067-clark-hoova-vr.json) |
 | Clash | 55033 | [55033-clash.json](./55033-clash.json) |
 | Clash for Crust | 310042 | [310042-clash-for-crust.json](./310042-clash-for-crust.json) |
+| Clash Heroes | 145547 | [145547-clash-heroes.json](./145547-clash-heroes.json) |
 | Clash Memory Game | 158557 | [158557-clash-memory-game.json](./158557-clash-memory-game.json) |
 | Clash Mini | 172495 | [172495-clash-mini.json](./172495-clash-mini.json) |
 | Clash of Blades | 265109 | [265109-clash-of-blades.json](./265109-clash-of-blades.json) |
@@ -3925,6 +3926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Vikings | 382912 | [382912-clash-of-vikings.json](./382912-clash-of-vikings.json) |
 | Clash of Warlords | 153333 | [153333-clash-of-warlords.json](./153333-clash-of-warlords.json) |
 | Clash of Warriors: 9 Legends | 56428 | [56428-clash-of-warriors-9-legends.json](./56428-clash-of-warriors-9-legends.json) |
+| Clash Quest | 145533 | [145533-clash-quest.json](./145533-clash-quest.json) |
 | Clash-Road | 46863 | [46863-clash-road.json](./46863-clash-road.json) |
 | Clash: Artifacts of Chaos - Lone Fighter Pack | 336141 | [336141-clash-artifacts-of-chaos-lone-fighter-pack.json](./336141-clash-artifacts-of-chaos-lone-fighter-pack.json) |
 | Clash: Artifacts of Chaos - Supporter Pack | 336137 | [336137-clash-artifacts-of-chaos-supporter-pack.json](./336137-clash-artifacts-of-chaos-supporter-pack.json) |
