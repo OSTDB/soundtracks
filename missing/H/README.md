@@ -3570,6 +3570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Mania | 157183 | [157183-holiday-mania.json](./157183-holiday-mania.json) |
 | Holiday Present Hunt | 349501 | [349501-holiday-present-hunt.json](./349501-holiday-present-hunt.json) |
 | Holiday Racer | 144386 | [144386-holiday-racer.json](./144386-holiday-racer.json) |
+| Holiday Solitaire Easter | 173070 | [173070-holiday-solitaire-easter.json](./173070-holiday-solitaire-easter.json) |
 | Holiday Time | 191086 | [191086-holiday-time.json](./191086-holiday-time.json) |
 | Holiday with Gwen | 213485 | [213485-holiday-with-gwen.json](./213485-holiday-with-gwen.json) |
 | Hollenburg: Hell Castle | 256259 | [256259-hollenburg-hell-castle.json](./256259-hollenburg-hell-castle.json) |
