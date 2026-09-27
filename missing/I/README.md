@@ -2510,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irondrive | 409778 | [409778-irondrive.json](./409778-irondrive.json) |
 | IronFall: Invasion | 8610 | [8610-ironfall-invasion.json](./8610-ironfall-invasion.json) |
 | Irongate Arena | 189034 | [189034-irongate-arena.json](./189034-irongate-arena.json) |
+| Irongrave: Tactics | 149465 | [149465-irongrave-tactics.json](./149465-irongrave-tactics.json) |
 | Ironguard | 32973 | [32973-ironguard.json](./32973-ironguard.json) |
 | Ironheart | 131615 | [131615-ironheart.json](./131615-ironheart.json) |
 | Ironheart: Cardia | 291466 | [291466-ironheart-cardia.json](./291466-ironheart-cardia.json) |
