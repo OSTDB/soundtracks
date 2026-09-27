@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Glide VR | 334854 | [334854-zero-glide-vr.json](./334854-zero-glide-vr.json) |
 | Zero Gravity | 229795 | [229795-zero-gravity.json](./229795-zero-gravity.json) |
 | Zero Hour | 151730 | [151730-zero-hour.json](./151730-zero-hour.json) |
+| Zero Idle | 143604 | [143604-zero-idle.json](./143604-zero-idle.json) |
 | Zero King | 293912 | [293912-zero-king.json](./293912-zero-king.json) |
 | Zero Lilium Bloom | 245871 | [245871-zero-lilium-bloom.json](./245871-zero-lilium-bloom.json) |
 | Zero Losses | 204544 | [204544-zero-losses.json](./204544-zero-losses.json) |
@@ -789,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies Don't Drive | 150014 | [150014-zombies-dont-drive.json](./150014-zombies-dont-drive.json) |
 | Zombies Everywhere 3 | 405736 | [405736-zombies-everywhere-3.json](./405736-zombies-everywhere-3.json) |
 | Zombies in City: Apocalypse Survival | 215115 | [215115-zombies-in-city-apocalypse-survival.json](./215115-zombies-in-city-apocalypse-survival.json) |
+| Zombies in Space | 143602 | [143602-zombies-in-space.json](./143602-zombies-in-space.json) |
 | Zombies In Valkeala | 369750 | [369750-zombies-in-valkeala.json](./369750-zombies-in-valkeala.json) |
 | Zombies Inc | 104617 | [104617-zombies-inc.json](./104617-zombies-inc.json) |
 | Zombies Midnight | 207771 | [207771-zombies-midnight.json](./207771-zombies-midnight.json) |
