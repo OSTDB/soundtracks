@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P-Robots | 93029 | [93029-p-robots.json](./93029-p-robots.json) |
 | P.A.W.S.: Personal Automated Wagging System | 46573 | [46573-p-a-w-s-personal-automated-wagging-system.json](./46573-p-a-w-s-personal-automated-wagging-system.json) |
 | P.C. Fuzz | 92821 | [92821-p-c-fuzz.json](./92821-p-c-fuzz.json) |
+| P.Craft | 132121 | [132121-p-craft.json](./132121-p-craft.json) |
 | P.I. Al Luminum: Haunted House | 325635 | [325635-p-i-al-luminum-haunted-house.json](./325635-p-i-al-luminum-haunted-house.json) |
 | P.I.S. | 382221 | [382221-p-i-s.json](./382221-p-i-s.json) |
 | P.M.P. Project Murder Party | 176911 | [176911-p-m-p-project-murder-party.json](./176911-p-m-p-project-murder-party.json) |
@@ -3301,6 +3302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pity Pit | 132769 | [132769-pity-pit.json](./132769-pity-pit.json) |
 | Pity This Busy Monster | 345587 | [345587-pity-this-busy-monster.json](./345587-pity-this-busy-monster.json) |
 | Piverantum | 261752 | [261752-piverantum.json](./261752-piverantum.json) |
+| Pivo | 132136 | [132136-pivo.json](./132136-pivo.json) |
 | Pivot of Hearts | 191165 | [191165-pivot-of-hearts.json](./191165-pivot-of-hearts.json) |
 | Pivot Puzzles | 65780 | [65780-pivot-puzzles.json](./65780-pivot-puzzles.json) |
 | Pivoting People | 105942 | [105942-pivoting-people.json](./105942-pivoting-people.json) |
@@ -3416,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Kane | 273439 | [273439-pixel-kane.json](./273439-pixel-kane.json) |
 | Pixel Knight | 252675 | [252675-pixel-knight.json](./252675-pixel-knight.json) |
 | Pixel Knights Online | 227375 | [227375-pixel-knights-online.json](./227375-pixel-knights-online.json) |
+| Pixel Legions | 132106 | [132106-pixel-legions.json](./132106-pixel-legions.json) |
 | Pixel Mage Quest RPG | 145050 | [145050-pixel-mage-quest-rpg.json](./145050-pixel-mage-quest-rpg.json) |
 | Pixel Manager: Football 2021 | 256230 | [256230-pixel-manager-football-2021.json](./256230-pixel-manager-football-2021.json) |
 | Pixel Miner | 333639 | [333639-pixel-miner.json](./333639-pixel-miner.json) |
@@ -3974,6 +3977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies 2: Into the Storm | 272546 | [272546-plants-vs-zombies-2-into-the-storm.json](./272546-plants-vs-zombies-2-into-the-storm.json) |
 | Plants vs. Zombies 2: It's About Time | 3145 | [3145-plants-vs-zombies-2-its-about-time.json](./3145-plants-vs-zombies-2-its-about-time.json) |
 | Plants vs. Zombies 2: Odyssey | 272295 | [272295-plants-vs-zombies-2-odyssey.json](./272295-plants-vs-zombies-2-odyssey.json) |
+| Plants Vs. Zombies 2: Project Eclise | 132131 | [132131-plants-vs-zombies-2-project-eclise.json](./132131-plants-vs-zombies-2-project-eclise.json) |
 | Plants vs. Zombies 2: Reflourished | 221859 | [221859-plants-vs-zombies-2-reflourished.json](./221859-plants-vs-zombies-2-reflourished.json) |
 | Plants vs. Zombies 2: Requiem | 272889 | [272889-plants-vs-zombies-2-requiem.json](./272889-plants-vs-zombies-2-requiem.json) |
 | Plants vs. Zombies Adventures | 77968 | [77968-plants-vs-zombies-adventures.json](./77968-plants-vs-zombies-adventures.json) |
@@ -4089,6 +4093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playboy: The Mansion - Private Party | 68037 | [68037-playboy-the-mansion-private-party.json](./68037-playboy-the-mansion-private-party.json) |
 | PlayChapas | 177934 | [177934-playchapas.json](./177934-playchapas.json) |
 | Playdate Bunny Bundle | 245320 | [245320-playdate-bunny-bundle.json](./245320-playdate-bunny-bundle.json) |
+| Player 9 | 132095 | [132095-player-9.json](./132095-player-9.json) |
 | Player's Eleven | 129230 | [129230-players-eleven.json](./129230-players-eleven.json) |
 | PlayerONeGame | 90357 | [90357-playeronegame.json](./90357-playeronegame.json) |
 | Playerunkn1wn: Friendly Fire | 80912 | [80912-playerunkn1wn-friendly-fire.json](./80912-playerunkn1wn-friendly-fire.json) |
@@ -6432,6 +6437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Cataclysm | 393653 | [393653-project-cataclysm.json](./393653-project-cataclysm.json) |
 | Project Cerberus | 42875 | [42875-project-cerberus.json](./42875-project-cerberus.json) |
 | Project Chameleon | 279584 | [279584-project-chameleon.json](./279584-project-chameleon.json) |
+| Project Chemistry | 132116 | [132116-project-chemistry.json](./132116-project-chemistry.json) |
 | Project Cobalt | 366310 | [366310-project-cobalt.json](./366310-project-cobalt.json) |
 | Project Colored Mountains | 264095 | [264095-project-colored-mountains.json](./264095-project-colored-mountains.json) |
 | Project Confrontation | 57051 | [57051-project-confrontation.json](./57051-project-confrontation.json) |
