@@ -844,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khara the Game | 108830 | [108830-khara-the-game.json](./108830-khara-the-game.json) |
 | Khatyrka: Prelude | 229967 | [229967-khatyrka-prelude.json](./229967-khatyrka-prelude.json) |
 | Khemia | 136460 | [136460-khemia.json](./136460-khemia.json) |
+| Khimera: Puzzle Island | 146205 | [146205-khimera-puzzle-island.json](./146205-khimera-puzzle-island.json) |
 | Khio | 136458 | [136458-khio.json](./136458-khio.json) |
 | Khnum Fire | 370211 | [370211-khnum-fire.json](./370211-khnum-fire.json) |
 | Kholin Echo | 415311 | [415311-kholin-echo.json](./415311-kholin-echo.json) |
@@ -2074,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koibumi Romantica | 181671 | [181671-koibumi-romantica.json](./181671-koibumi-romantica.json) |
 | KoiGig: Devil x Angel | 202373 | [202373-koigig-devil-x-angel.json](./202373-koigig-devil-x-angel.json) |
 | Koihana Bakumeiroku | 229034 | [229034-koihana-bakumeiroku.json](./229034-koihana-bakumeiroku.json) |
+| Koihime Enbu RyoRaiRai Version 3 | 146203 | [146203-koihime-enbu-ryorairai-version-3.json](./146203-koihime-enbu-ryorairai-version-3.json) |
 | Koihime Enbu RyoRaiRai: Jokou and Kakuka | 159307 | [159307-koihime-enbu-ryorairai-jokou-and-kakuka.json](./159307-koihime-enbu-ryorairai-jokou-and-kakuka.json) |
 | Koikatsu Party | 119656 | [119656-koikatsu-party.json](./119656-koikatsu-party.json) |
 | Koikoi | 105266 | [105266-koikoi.json](./105266-koikoi.json) |
