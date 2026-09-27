@@ -982,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left at Home | 241488 | [241488-left-at-home.json](./241488-left-at-home.json) |
 | Left Behind: Eternal Forces | 20614 | [20614-left-behind-eternal-forces.json](./20614-left-behind-eternal-forces.json) |
 | Left in the Dark: No One on Board | 17144 | [17144-left-in-the-dark-no-one-on-board.json](./17144-left-in-the-dark-no-one-on-board.json) |
+| Left on Read | 137527 | [137527-left-on-read.json](./137527-left-on-read.json) |
 | Left Right Dodge Race | 358352 | [358352-left-right-dodge-race.json](./358352-left-right-dodge-race.json) |
 | Left Stranded | 195199 | [195199-left-stranded.json](./195199-left-stranded.json) |
 | Left to My Own Devices | 180239 | [180239-left-to-my-own-devices.json](./180239-left-to-my-own-devices.json) |
@@ -2992,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lola and the Giant | 110325 | [110325-lola-and-the-giant.json](./110325-lola-and-the-giant.json) |
 | Lola: The Escape | 170930 | [170930-lola-the-escape.json](./170930-lola-the-escape.json) |
 | Lola's ABC Party - Learn to Read | 88344 | [88344-lolas-abc-party-learn-to-read.json](./88344-lolas-abc-party-learn-to-read.json) |
+| Lola's World of Wonders | 137525 | [137525-lolas-world-of-wonders.json](./137525-lolas-world-of-wonders.json) |
 | Lolagame | 320294 | [320294-lolagame.json](./320294-lolagame.json) |
 | LOLCat Escape | 338932 | [338932-lolcat-escape.json](./338932-lolcat-escape.json) |
 | Loli Racing | 292291 | [292291-loli-racing.json](./292291-loli-racing.json) |
