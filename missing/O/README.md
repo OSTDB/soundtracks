@@ -885,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Leaving the Building | 229784 | [229784-on-leaving-the-building.json](./229784-on-leaving-the-building.json) |
 | On Love, On Monsters | 413779 | [413779-on-love-on-monsters.json](./413779-on-love-on-monsters.json) |
 | On Mount Ségou | 296098 | [296098-on-mount-segou.json](./296098-on-mount-segou.json) |
+| On My Own So-Called Cleverness... | 143629 | [143629-on-my-own-so-called-cleverness.json](./143629-on-my-own-so-called-cleverness.json) |
 | On My Way Out | 365896 | [365896-on-my-way-out.json](./365896-on-my-way-out.json) |
 | On N Off | 246356 | [246356-on-n-off.json](./246356-on-n-off.json) |
 | On Pixels: A Lights Out Game | 172175 | [172175-on-pixels-a-lights-out-game.json](./172175-on-pixels-a-lights-out-game.json) |
@@ -2439,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overpass 2: Deluxe Edition | 269331 | [269331-overpass-2-deluxe-edition.json](./269331-overpass-2-deluxe-edition.json) |
 | Overpass 2: Ford Play Rock Bouncer | 271285 | [271285-overpass-2-ford-play-rock-bouncer.json](./271285-overpass-2-ford-play-rock-bouncer.json) |
 | Overpass 2: Polaris Vehicles Pack | 271284 | [271284-overpass-2-polaris-vehicles-pack.json](./271284-overpass-2-polaris-vehicles-pack.json) |
+| Overplasma | 143576 | [143576-overplasma.json](./143576-overplasma.json) |
 | OverPowered | 146257 | [146257-overpowered.json](./146257-overpowered.json) |
 | Overpowered 1: Mars Infestation | 353973 | [353973-overpowered-1-mars-infestation.json](./353973-overpowered-1-mars-infestation.json) |
 | Overpowered 2: Crux of Fate | 393627 | [393627-overpowered-2-crux-of-fate.json](./393627-overpowered-2-crux-of-fate.json) |
