@@ -515,7 +515,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dariusburst | 18193 | [18193-dariusburst.json](./18193-dariusburst.json) |
 | Dariusburst: Another Chronicle EX | 138014 | [138014-dariusburst-another-chronicle-ex.json](./138014-dariusburst-another-chronicle-ex.json) |
 | Dariusburst: Chronicle Saviours - Core + Taito & Sega Packs | 222397 | [222397-dariusburst-chronicle-saviours-core-taito-and-sega-packs.json](./222397-dariusburst-chronicle-saviours-core-taito-and-sega-packs.json) |
+| Dariusburst: Chronicle Saviours - Galaxy Force II | 168171 | [168171-dariusburst-chronicle-saviours-galaxy-force-ii.json](./168171-dariusburst-chronicle-saviours-galaxy-force-ii.json) |
 | Dariusburst: Chronicle Saviours - Limited Edition | 44536 | [44536-dariusburst-chronicle-saviours-limited-edition.json](./44536-dariusburst-chronicle-saviours-limited-edition.json) |
+| Dariusburst: Chronicle Saviours - Night Striker | 168170 | [168170-dariusburst-chronicle-saviours-night-striker.json](./168170-dariusburst-chronicle-saviours-night-striker.json) |
 | Dariusburst: Second Prologue | 22340 | [22340-dariusburst-second-prologue.json](./22340-dariusburst-second-prologue.json) |
 | Dark & Under | 144371 | [144371-dark-and-under.json](./144371-dark-and-under.json) |
 | Dark 7 | 310528 | [310528-dark-7.json](./310528-dark-7.json) |
@@ -1271,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De'Vot | 258497 | [258497-devot.json](./258497-devot.json) |
 | Dea | 288852 | [288852-dea.json](./288852-dea.json) |
 | Deabirth: Real | 182816 | [182816-deabirth-real.json](./182816-deabirth-real.json) |
+| Dead | 168127 | [168127-dead.json](./168127-dead.json) |
 | Dead | 90624 | [90624-dead.json](./90624-dead.json) |
 | Dead 4 Dress | 135019 | [135019-dead-4-dress.json](./135019-dead-4-dress.json) |
 | Dead Above | 366309 | [366309-dead-above.json](./366309-dead-above.json) |
@@ -6584,6 +6587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifty | 251200 | [251200-drifty.json](./251200-drifty.json) |
 | Drifty Drive | 112271 | [112271-drifty-drive.json](./112271-drifty-drive.json) |
 | Drifty Pool | 187835 | [187835-drifty-pool.json](./187835-drifty-pool.json) |
+| DriftZ | 168133 | [168133-driftz.json](./168133-driftz.json) |
 | Drill and Delve | 382231 | [382231-drill-and-delve.json](./382231-drill-and-delve.json) |
 | Drill Arena | 86549 | [86549-drill-arena.json](./86549-drill-arena.json) |
 | Drill Core: The Machine World | 399016 | [399016-drill-core-the-machine-world.json](./399016-drill-core-the-machine-world.json) |
@@ -6917,6 +6921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck and the Land of Flightless Birds | 189932 | [189932-duck-and-the-land-of-flightless-birds.json](./189932-duck-and-the-land-of-flightless-birds.json) |
 | Duck Attack | 180707 | [180707-duck-attack.json](./180707-duck-attack.json) |
 | Duck Bow Hunt | 88217 | [88217-duck-bow-hunt.json](./88217-duck-bow-hunt.json) |
+| Duck City | 168131 | [168131-duck-city.json](./168131-duck-city.json) |
 | Duck Commander: Hunting Video Game | 221675 | [221675-duck-commander-hunting-video-game.json](./221675-duck-commander-hunting-video-game.json) |
 | Duck Creator 2 | 306082 | [306082-duck-creator-2.json](./306082-duck-creator-2.json) |
 | Duck Dash | 290539 | [290539-duck-dash.json](./290539-duck-dash.json) |
@@ -7118,6 +7123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon & Evil | 174847 | [174847-dungeon-and-evil.json](./174847-dungeon-and-evil.json) |
 | Dungeon & Fighter: Arad | 325603 | [325603-dungeon-and-fighter-arad.json](./325603-dungeon-and-fighter-arad.json) |
 | Dungeon & Guarder | 92312 | [92312-dungeon-and-guarder.json](./92312-dungeon-and-guarder.json) |
+| Dungeon & Heros | 168125 | [168125-dungeon-and-heros.json](./168125-dungeon-and-heros.json) |
 | Dungeon 100 | 192663 | [192663-dungeon-100.json](./192663-dungeon-100.json) |
 | Dungeon 3D: Eastern | 277583 | [277583-dungeon-3d-eastern.json](./277583-dungeon-3d-eastern.json) |
 | Dungeon Adventure | 344358 | [344358-dungeon-adventure.json](./344358-dungeon-adventure.json) |
@@ -7368,6 +7374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonlike | 183574 | [183574-dungeonlike.json](./183574-dungeonlike.json) |
 | Dungeonlite Duelers | 175836 | [175836-dungeonlite-duelers.json](./175836-dungeonlite-duelers.json) |
 | Dungeonloop | 401092 | [401092-dungeonloop.json](./401092-dungeonloop.json) |
+| Dungeonmans: Pay2Lose | 168162 | [168162-dungeonmans-pay2lose.json](./168162-dungeonmans-pay2lose.json) |
 | Dungeonoid 2: Awakening | 282152 | [282152-dungeonoid-2-awakening.json](./282152-dungeonoid-2-awakening.json) |
 | Dungeonpreneur | 274033 | [274033-dungeonpreneur.json](./274033-dungeonpreneur.json) |
 | Dungeonrite | 203941 | [203941-dungeonrite.json](./203941-dungeonrite.json) |
