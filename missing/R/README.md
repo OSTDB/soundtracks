@@ -1932,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflex Unit AR | 197758 | [197758-reflex-unit-ar.json](./197758-reflex-unit-ar.json) |
 | Reflex Unit: Strike Ops | 304653 | [304653-reflex-unit-strike-ops.json](./304653-reflex-unit-strike-ops.json) |
 | Reflexia Prototype ver. | 224749 | [224749-reflexia-prototype-ver.json](./224749-reflexia-prototype-ver.json) |
+| Reforged TD | 150586 | [150586-reforged-td.json](./150586-reforged-td.json) |
 | Reformpunk | 367604 | [367604-reformpunk.json](./367604-reformpunk.json) |
 | Refraction: Beyond the Mirror | 186647 | [186647-refraction-beyond-the-mirror.json](./186647-refraction-beyond-the-mirror.json) |
 | Refrain Blue | 395006 | [395006-refrain-blue.json](./395006-refrain-blue.json) |
@@ -4940,6 +4941,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Quiz | 368498 | [368498-rpg-quiz.json](./368498-rpg-quiz.json) |
 | RPG Time: The Legend of Wright | 110395 | [110395-rpg-time-the-legend-of-wright.json](./110395-rpg-time-the-legend-of-wright.json) |
 | RPG Town | 217297 | [217297-rpg-town.json](./217297-rpg-town.json) |
+| RPG Tsukuuru 2 Taiou Data: BS Kure-kure Mou Race | 150574 | [150574-rpg-tsukuuru-2-taiou-data-bs-kure-kure-mou-race.json](./150574-rpg-tsukuuru-2-taiou-data-bs-kure-kure-mou-race.json) |
+| RPG Tsukuuru 2 Taiou Data: Jewel of Live 3 | 150579 | [150579-rpg-tsukuuru-2-taiou-data-jewel-of-live-3.json](./150579-rpg-tsukuuru-2-taiou-data-jewel-of-live-3.json) |
+| RPG Tsukuuru 2 Taiou: Alf to Hakase no Daibouken | 150581 | [150581-rpg-tsukuuru-2-taiou-alf-to-hakase-no-daibouken.json](./150581-rpg-tsukuuru-2-taiou-alf-to-hakase-no-daibouken.json) |
+| RPG Tsukuuru 2 Taiou: Organic Stone | 150582 | [150582-rpg-tsukuuru-2-taiou-organic-stone.json](./150582-rpg-tsukuuru-2-taiou-organic-stone.json) |
 | RPG Tsukuuru 2 Taiou: Organic Stone Honpen | 151167 | [151167-rpg-tsukuuru-2-taiou-organic-stone-honpen.json](./151167-rpg-tsukuuru-2-taiou-organic-stone-honpen.json) |
 | RPG Tsukuuru 2 Taiou: Ryouma de Yuku | 151168 | [151168-rpg-tsukuuru-2-taiou-ryouma-de-yuku.json](./151168-rpg-tsukuuru-2-taiou-ryouma-de-yuku.json) |
 | RPG Tycoon: Supply & Demand | 164507 | [164507-rpg-tycoon-supply-and-demand.json](./164507-rpg-tycoon-supply-and-demand.json) |
