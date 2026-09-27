@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icebreakers | 66963 | [66963-icebreakers.json](./66963-icebreakers.json) |
 | Icebroken | 410335 | [410335-icebroken.json](./410335-icebroken.json) |
 | Iceburg | 373525 | [373525-iceburg.json](./373525-iceburg.json) |
+| Iced In | 132120 | [132120-iced-in.json](./132120-iced-in.json) |
 | Icee Maker | 159259 | [159259-icee-maker.json](./159259-icee-maker.json) |
 | Icee Slush Rush | 352751 | [352751-icee-slush-rush.json](./352751-icee-slush-rush.json) |
 | Icefishing v | 215101 | [215101-icefishing-v.json](./215101-icefishing-v.json) |
