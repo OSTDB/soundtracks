@@ -1847,6 +1847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Married Girls' Night School | 249750 | [249750-married-girls-night-school.json](./249750-married-girls-night-school.json) |
 | Married in Red | 307253 | [307253-married-in-red.json](./307253-married-in-red.json) |
 | Married Woman Eilla's NTR RPG: Two Man Cell Journey with Obeying a Douchey Guy | 82852 | [82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json](./82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json) |
+| Marron Helps a Friend | 122947 | [122947-marron-helps-a-friend.json](./122947-marron-helps-a-friend.json) |
 | Marrow | 269569 | [269569-marrow.json](./269569-marrow.json) |
 | Marrow Marrow | 369775 | [369775-marrow-marrow.json](./369775-marrow-marrow.json) |
 | Marry a Deep One | 319748 | [319748-marry-a-deep-one.json](./319748-marry-a-deep-one.json) |
@@ -2229,6 +2230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Squad | 223382 | [223382-master-of-squad.json](./223382-master-of-squad.json) |
 | Master of Survival Bundle | 213333 | [213333-master-of-survival-bundle.json](./213333-master-of-survival-bundle.json) |
 | Master of Tactics | 142393 | [142393-master-of-tactics.json](./142393-master-of-tactics.json) |
+| Master of the Grid | 122923 | [122923-master-of-the-grid.json](./122923-master-of-the-grid.json) |
 | Master of the Harem Guild | 109618 | [109618-master-of-the-harem-guild.json](./109618-master-of-the-harem-guild.json) |
 | Master of the Monster Lair | 21276 | [21276-master-of-the-monster-lair.json](./21276-master-of-the-monster-lair.json) |
 | Master of the Wind | 123642 | [123642-master-of-the-wind.json](./123642-master-of-the-wind.json) |
@@ -3017,6 +3019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medival Hustle | 304578 | [304578-medival-hustle.json](./304578-medival-hustle.json) |
 | Medivination | 302505 | [302505-medivination.json](./302505-medivination.json) |
 | Medulla | 147254 | [147254-medulla.json](./147254-medulla.json) |
+| Medusa and Her Lover | 122930 | [122930-medusa-and-her-lover.json](./122930-medusa-and-her-lover.json) |
 | Medusa Frontier | 196889 | [196889-medusa-frontier.json](./196889-medusa-frontier.json) |
 | Medusa the Origin: Lost Dream of the Deep | 284324 | [284324-medusa-the-origin-lost-dream-of-the-deep.json](./284324-medusa-the-origin-lost-dream-of-the-deep.json) |
 | Medusa VR | 247181 | [247181-medusa-vr.json](./247181-medusa-vr.json) |
@@ -3400,6 +3403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megami Ibunroku Persona | 240506 | [240506-megami-ibunroku-persona.json](./240506-megami-ibunroku-persona.json) |
 | Megami Ibunroku Persona Digital Collection | 263596 | [263596-megami-ibunroku-persona-digital-collection.json](./263596-megami-ibunroku-persona-digital-collection.json) |
 | Megami Meguri | 222529 | [222529-megami-meguri.json](./222529-megami-meguri.json) |
+| Megami no Etsubo | 122926 | [122926-megami-no-etsubo.json](./122926-megami-no-etsubo.json) |
 | Megami Tensei Gaiden: Last Bible | 225584 | [225584-megami-tensei-gaiden-last-bible.json](./225584-megami-tensei-gaiden-last-bible.json) |
 | Megami Tensei Gaiden: Last Bible Special | 45263 | [45263-megami-tensei-gaiden-last-bible-special.json](./45263-megami-tensei-gaiden-last-bible-special.json) |
 | Megami Tensei Gaiden: Shinyaku Last Bible | 202957 | [202957-megami-tensei-gaiden-shinyaku-last-bible.json](./202957-megami-tensei-gaiden-shinyaku-last-bible.json) |
@@ -3963,6 +3967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Messy Up | 263771 | [263771-messy-up.json](./263771-messy-up.json) |
 | Mestres da Pangada | 307683 | [307683-mestres-da-pangada.json](./307683-mestres-da-pangada.json) |
 | Mesudoku | 400866 | [400866-mesudoku.json](./400866-mesudoku.json) |
+| Met Rage | 122970 | [122970-met-rage.json](./122970-met-rage.json) |
 | Meta Form | 198485 | [198485-meta-form.json](./198485-meta-form.json) |
 | Meta Fox | 39689 | [39689-meta-fox.json](./39689-meta-fox.json) |
 | Meta Nanos: Rumble Race | 263521 | [263521-meta-nanos-rumble-race.json](./263521-meta-nanos-rumble-race.json) |
@@ -9107,6 +9112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Ocean | 93804 | [93804-mythic-ocean.json](./93804-mythic-ocean.json) |
 | Mythic Origin | 227265 | [227265-mythic-origin.json](./227265-mythic-origin.json) |
 | Mythic Origins | 207321 | [207321-mythic-origins.json](./207321-mythic-origins.json) |
+| Mythic Palace | 122973 | [122973-mythic-palace.json](./122973-mythic-palace.json) |
 | Mythic Pearls: The Legend of Tirnanog | 73803 | [73803-mythic-pearls-the-legend-of-tirnanog.json](./73803-mythic-pearls-the-legend-of-tirnanog.json) |
 | Mythic Trials | 290534 | [290534-mythic-trials.json](./290534-mythic-trials.json) |
 | Mythic Victory Arena | 31795 | [31795-mythic-victory-arena.json](./31795-mythic-victory-arena.json) |
