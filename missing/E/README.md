@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edgar Torronteras Extreme Biker | 24112 | [24112-edgar-torronteras-extreme-biker.json](./24112-edgar-torronteras-extreme-biker.json) |
 | Edgar's Room | 189939 | [189939-edgars-room.json](./189939-edgars-room.json) |
 | Edge of Atlantis | 28946 | [28946-edge-of-atlantis.json](./28946-edge-of-atlantis.json) |
+| Edge of Dawn | 135799 | [135799-edge-of-dawn.json](./135799-edge-of-dawn.json) |
 | Edge of Dead: Under a Uranium Sky | 150597 | [150597-edge-of-dead-under-a-uranium-sky.json](./150597-edge-of-dead-under-a-uranium-sky.json) |
 | Edge Of Dread | 388723 | [388723-edge-of-dread.json](./388723-edge-of-dread.json) |
 | Edge of Elsewhere | 168661 | [168661-edge-of-elsewhere.json](./168661-edge-of-elsewhere.json) |
@@ -1054,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ellie's Farm: Forest Fires - Collector's Edition | 356105 | [356105-ellies-farm-forest-fires-collectors-edition.json](./356105-ellies-farm-forest-fires-collectors-edition.json) |
 | Ellie's Travel Diary | 149949 | [149949-ellies-travel-diary.json](./149949-ellies-travel-diary.json) |
 | Ellingby House | 351026 | [351026-ellingby-house.json](./351026-ellingby-house.json) |
+| Elliot | 135791 | [135791-elliot.json](./135791-elliot.json) |
 | Elliot and the Musical Journey | 133415 | [133415-elliot-and-the-musical-journey.json](./133415-elliot-and-the-musical-journey.json) |
 | Elliot Quest | 8596 | [8596-elliot-quest.json](./8596-elliot-quest.json) |
 | Ellipsis | 19862 | [19862-ellipsis.json](./19862-ellipsis.json) |
@@ -1879,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Episode | 369114 | [369114-episode.json](./369114-episode.json) |
 | Episode XOXO | 291981 | [291981-episode-xoxo.json](./291981-episode-xoxo.json) |
 | Epistory: Typing Chronicles | 11657 | [11657-epistory-typing-chronicles.json](./11657-epistory-typing-chronicles.json) |
+| Epitaph | 135780 | [135780-epitaph.json](./135780-epitaph.json) |
 | Epithymía | 352759 | [352759-epithymia.json](./352759-epithymia.json) |
 | Epoch | 16939 | [16939-epoch.json](./16939-epoch.json) |
 | Epoch | 24889 | [24889-epoch.json](./24889-epoch.json) |
@@ -2818,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Wednesday | 387366 | [387366-every-wednesday.json](./387366-every-wednesday.json) |
 | Every Year Banjir | 254765 | [254765-every-year-banjir.json](./254765-every-year-banjir.json) |
 | Everybody 1-2-Switch | 251588 | [251588-everybody-1-2-switch.json](./251588-everybody-1-2-switch.json) |
+| Everybody Got Mad | 135744 | [135744-everybody-got-mad.json](./135744-everybody-got-mad.json) |
 | Everybody Herds | 350425 | [350425-everybody-herds.json](./350425-everybody-herds.json) |
 | Everybody Loves Skeletons | 121453 | [121453-everybody-loves-skeletons.json](./121453-everybody-loves-skeletons.json) |
 | Everybody's Golf | 28187 | [28187-everybodys-golf.json](./28187-everybodys-golf.json) |
