@@ -4381,6 +4381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Pool | 74454 | [74454-hot-pool.json](./74454-hot-pool.json) |
 | Hot Pot | 182817 | [182817-hot-pot.json](./182817-hot-pot.json) |
 | Hot Pot For One | 139811 | [139811-hot-pot-for-one.json](./139811-hot-pot-for-one.json) |
+| Hot Pot Panic | 134550 | [134550-hot-pot-panic.json](./134550-hot-pot-panic.json) |
 | Hot Pussy College 2 | 240737 | [240737-hot-pussy-college-2.json](./240737-hot-pussy-college-2.json) |
 | Hot Racing | 246461 | [246461-hot-racing.json](./246461-hot-racing.json) |
 | Hot Rider Racing Simulator | 290428 | [290428-hot-rider-racing-simulator.json](./290428-hot-rider-racing-simulator.json) |
@@ -4574,6 +4575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of 1000 Doors: Family Secrets | 36371 | [36371-house-of-1000-doors-family-secrets.json](./36371-house-of-1000-doors-family-secrets.json) |
 | House of 1000 Doors: Family Secrets | 79322 | [79322-house-of-1000-doors-family-secrets.json](./79322-house-of-1000-doors-family-secrets.json) |
 | House of 1000 Doors: Serpent Flame | 119031 | [119031-house-of-1000-doors-serpent-flame.json](./119031-house-of-1000-doors-serpent-flame.json) |
+| House of Cards: A Modern Fantasy Story Game | 134555 | [134555-house-of-cards-a-modern-fantasy-story-game.json](./134555-house-of-cards-a-modern-fantasy-story-game.json) |
 | House of Cards: TD | 298128 | [298128-house-of-cards-td.json](./298128-house-of-cards-td.json) |
 | House of Cathalon | 142442 | [142442-house-of-cathalon.json](./142442-house-of-cathalon.json) |
 | House of Dead Skin | 316078 | [316078-house-of-dead-skin.json](./316078-house-of-dead-skin.json) |
@@ -5068,6 +5070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter's Journey: Tears of the Lake - Collector's Edition | 362844 | [362844-hunters-journey-tears-of-the-lake-collectors-edition.json](./362844-hunters-journey-tears-of-the-lake-collectors-edition.json) |
 | Hunter's Moon | 144939 | [144939-hunters-moon.json](./144939-hunters-moon.json) |
 | Hunter's Moon | 416105 | [416105-hunters-moon.json](./416105-hunters-moon.json) |
+| Hunter's Moon Remastered | 134523 | [134523-hunters-moon-remastered.json](./134523-hunters-moon-remastered.json) |
 | Hunter's Requiem | 303563 | [303563-hunters-requiem.json](./303563-hunters-requiem.json) |
 | Hunter's Seal | 365681 | [365681-hunters-seal.json](./365681-hunters-seal.json) |
 | Hunter's Soul | 122435 | [122435-hunters-soul.json](./122435-hunters-soul.json) |
