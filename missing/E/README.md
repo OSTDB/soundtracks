@@ -1190,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerald Isle | 13635 | [13635-emerald-isle.json](./13635-emerald-isle.json) |
 | Emerald Isle | 318995 | [318995-emerald-isle.json](./318995-emerald-isle.json) |
 | Emerald Mine | 37100 | [37100-emerald-mine.json](./37100-emerald-mine.json) |
+| Emerald Mine 3: Professional | 137558 | [137558-emerald-mine-3-professional.json](./137558-emerald-mine-3-professional.json) |
 | Emerald Mine II | 37105 | [37105-emerald-mine-ii.json](./37105-emerald-mine-ii.json) |
 | Emerald Rush | 97157 | [97157-emerald-rush.json](./97157-emerald-rush.json) |
 | Emerald Shores | 111470 | [111470-emerald-shores.json](./111470-emerald-shores.json) |
@@ -1203,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency 2014 | 52960 | [52960-emergency-2014.json](./52960-emergency-2014.json) |
 | Emergency 3 | 46457 | [46457-emergency-3.json](./46457-emergency-3.json) |
 | Emergency 5 | 57334 | [57334-emergency-5.json](./57334-emergency-5.json) |
+| Emergency Ambulance Simulator 2013 | 137549 | [137549-emergency-ambulance-simulator-2013.json](./137549-emergency-ambulance-simulator-2013.json) |
 | Emergency Call 112: The Fire Fighting Simulation 2 | 144936 | [144936-emergency-call-112-the-fire-fighting-simulation-2.json](./144936-emergency-call-112-the-fire-fighting-simulation-2.json) |
 | Emergency Call: The Attack Squad | 278494 | [278494-emergency-call-the-attack-squad.json](./278494-emergency-call-the-attack-squad.json) |
 | Emergency Crew 4: Call of the Ancestors | 360663 | [360663-emergency-crew-4-call-of-the-ancestors.json](./360663-emergency-crew-4-call-of-the-ancestors.json) |
@@ -1903,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equalizer | 55498 | [55498-equalizer.json](./55498-equalizer.json) |
 | Equestria | 128563 | [128563-equestria.json](./128563-equestria.json) |
 | EquestriaBound: Return of the Nightmare | 205642 | [205642-equestriabound-return-of-the-nightmare.json](./205642-equestriabound-return-of-the-nightmare.json) |
+| Equestrian Simulator: Saddle Royale | 137576 | [137576-equestrian-simulator-saddle-royale.json](./137576-equestrian-simulator-saddle-royale.json) |
 | Equestrian the Game | 210575 | [210575-equestrian-the-game.json](./210575-equestrian-the-game.json) |
 | Equestrian Training | 155464 | [155464-equestrian-training.json](./155464-equestrian-training.json) |
 | Equilibrium | 170999 | [170999-equilibrium.json](./170999-equilibrium.json) |
