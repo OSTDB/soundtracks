@@ -1546,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai Dawn | 368678 | [368678-ai-dawn.json](./368678-ai-dawn.json) |
 | AI Hunter | 151027 | [151027-ai-hunter.json](./151027-ai-hunter.json) |
 | AI Kills All Humans | 258425 | [258425-ai-kills-all-humans.json](./258425-ai-kills-all-humans.json) |
+| Ai Kiss: Limited Edition | 167081 | [167081-ai-kiss-limited-edition.json](./167081-ai-kiss-limited-edition.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
 | Ai Painter: Painting Simulator | 350489 | [350489-ai-painter-painting-simulator.json](./350489-ai-painter-painting-simulator.json) |
 | AI Rebellion | 90465 | [90465-ai-rebellion.json](./90465-ai-rebellion.json) |
@@ -2631,6 +2632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alluna and Brie | 117033 | [117033-alluna-and-brie.json](./117033-alluna-and-brie.json) |
 | Alma | 80915 | [80915-alma.json](./80915-alma.json) |
 | Almanaque Recreio | 227215 | [227215-almanaque-recreio.json](./227215-almanaque-recreio.json) |
+| Almari | 167076 | [167076-almari.json](./167076-almari.json) |
 | Almastriga: Relics of Azathoth | 156618 | [156618-almastriga-relics-of-azathoth.json](./156618-almastriga-relics-of-azathoth.json) |
 | Almighty: God Idle Clicker | 132013 | [132013-almighty-god-idle-clicker.json](./132013-almighty-god-idle-clicker.json) |
 | Almistice | 274010 | [274010-almistice.json](./274010-almistice.json) |
@@ -2852,6 +2854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amalgoom | 346646 | [346646-amalgoom.json](./346646-amalgoom.json) |
 | Amalgun | 347764 | [347764-amalgun.json](./347764-amalgun.json) |
 | Amamane | 121724 | [121724-amamane.json](./121724-amamane.json) |
+| Amamane 2: Limited Edition | 167038 | [167038-amamane-2-limited-edition.json](./167038-amamane-2-limited-edition.json) |
 | Amanaha hockey | 329164 | [329164-amanaha-hockey.json](./329164-amanaha-hockey.json) |
 | Amanatsu Location | 413057 | [413057-amanatsu-location.json](./413057-amanatsu-location.json) |
 | Amanatsu: Perfect Edition | 297063 | [297063-amanatsu-perfect-edition.json](./297063-amanatsu-perfect-edition.json) |
@@ -4507,6 +4510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ARC Continuum | 27671 | [27671-arc-continuum.json](./27671-arc-continuum.json) |
 | Arc Intelligence | 212905 | [212905-arc-intelligence.json](./212905-arc-intelligence.json) |
 | Arc Nova Base | 308358 | [308358-arc-nova-base.json](./308358-arc-nova-base.json) |
+| Arc of Alchemist: Limited Edition | 167040 | [167040-arc-of-alchemist-limited-edition.json](./167040-arc-of-alchemist-limited-edition.json) |
 | Arc Seed | 244485 | [244485-arc-seed.json](./244485-arc-seed.json) |
 | ARC Squadron: Redux | 38984 | [38984-arc-squadron-redux.json](./38984-arc-squadron-redux.json) |
 | Arc Style Solitaire | 62222 | [62222-arc-style-solitaire.json](./62222-arc-style-solitaire.json) |
@@ -6271,6 +6275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ryza 3: Endless Summer Splash! Costume Set | 242543 | [242543-atelier-ryza-3-endless-summer-splash-costume-set.json](./242543-atelier-ryza-3-endless-summer-splash-costume-set.json) |
 | Atelier Ryza 3: Summer Look Costume Set | 242544 | [242544-atelier-ryza-3-summer-look-costume-set.json](./242544-atelier-ryza-3-summer-look-costume-set.json) |
 | Atelier Ryza Secret Trilogy Deluxe Pack | 354258 | [354258-atelier-ryza-secret-trilogy-deluxe-pack.json](./354258-atelier-ryza-secret-trilogy-deluxe-pack.json) |
+| Atelier Ryza: Ever Darkness & the Secret Hideout - Collector's Edition | 167072 | [167072-atelier-ryza-ever-darkness-and-the-secret-hideout-collectors-edition.json](./167072-atelier-ryza-ever-darkness-and-the-secret-hideout-collectors-edition.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout - Secret Solitary Island | 238227 | [238227-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json](./238227-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout DX | 359424 | [359424-atelier-ryza-ever-darkness-and-the-secret-hideout-dx.json](./359424-atelier-ryza-ever-darkness-and-the-secret-hideout-dx.json) |
 | Atelier Shallie: Alchemists of the Dusk Sea - Limited Edition | 51537 | [51537-atelier-shallie-alchemists-of-the-dusk-sea-limited-edition.json](./51537-atelier-shallie-alchemists-of-the-dusk-sea-limited-edition.json) |
