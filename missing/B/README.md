@@ -1783,6 +1783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleCrypt Bombers | 226238 | [226238-battlecrypt-bombers.json](./226238-battlecrypt-bombers.json) |
 | BattleCubes: Arena | 116333 | [116333-battlecubes-arena.json](./116333-battlecubes-arena.json) |
 | Battlecursed | 33422 | [33422-battlecursed.json](./33422-battlecursed.json) |
+| BattleDudes.io | 144189 | [144189-battledudes-io.json](./144189-battledudes-io.json) |
 | Battlefield 1: Turning Tides | 76190 | [76190-battlefield-1-turning-tides.json](./76190-battlefield-1-turning-tides.json) |
 | Battlefield 1: Ultimate Edition | 52640 | [52640-battlefield-1-ultimate-edition.json](./52640-battlefield-1-ultimate-edition.json) |
 | Battlefield 1918 | 317836 | [317836-battlefield-1918.json](./317836-battlefield-1918.json) |
@@ -2680,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berserk or Die | 348333 | [348333-berserk-or-die.json](./348333-berserk-or-die.json) |
 | Berserk Reborn | 211261 | [211261-berserk-reborn.json](./211261-berserk-reborn.json) |
 | Berserk World | 379453 | [379453-berserk-world.json](./379453-berserk-world.json) |
+| Berserker | 144185 | [144185-berserker.json](./144185-berserker.json) |
 | Berserker 2: The Saga of Hilde | 390633 | [390633-berserker-2-the-saga-of-hilde.json](./390633-berserker-2-the-saga-of-hilde.json) |
 | Berserker: A Viking Board Game | 213203 | [213203-berserker-a-viking-board-game.json](./213203-berserker-a-viking-board-game.json) |
 | Berserker's Descent | 145433 | [145433-berserkers-descent.json](./145433-berserkers-descent.json) |
@@ -2979,6 +2981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Buck Hunter Pro Adventure | 328254 | [328254-big-buck-hunter-pro-adventure.json](./328254-big-buck-hunter-pro-adventure.json) |
 | Big Buck Hunter: Ultimate Trophy - Mythic Hunting Pack | 333752 | [333752-big-buck-hunter-ultimate-trophy-mythic-hunting-pack.json](./333752-big-buck-hunter-ultimate-trophy-mythic-hunting-pack.json) |
 | Big Buck Safari | 220076 | [220076-big-buck-safari.json](./220076-big-buck-safari.json) |
+| Big Buck World | 144195 | [144195-big-buck-world.json](./144195-big-buck-world.json) |
 | Big Bucks: Trivia Quest | 312355 | [312355-big-bucks-trivia-quest.json](./312355-big-bucks-trivia-quest.json) |
 | Big Bug Bang: Le Retour de Commander Blood | 98921 | [98921-big-bug-bang-le-retour-de-commander-blood.json](./98921-big-bug-bang-le-retour-de-commander-blood.json) |
 | Big Bumpin' | 2731 | [2731-big-bumpin.json](./2731-big-bumpin.json) |
