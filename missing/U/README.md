@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultranova | 248025 | [248025-ultranova.json](./248025-ultranova.json) |
 | Ultrapool | 380523 | [380523-ultrapool.json](./380523-ultrapool.json) |
 | Ultrasecreto/Prólogo | 382239 | [382239-ultrasecreto-prologo.json](./382239-ultrasecreto-prologo.json) |
+| UltraStar | 142979 | [142979-ultrastar.json](./142979-ultrastar.json) |
 | UltraStar WorldParty | 138582 | [138582-ultrastar-worldparty.json](./138582-ultrastar-worldparty.json) |
 | Ultratron | 14327 | [14327-ultratron.json](./14327-ultratron.json) |
 | Ultraviolet | 287149 | [287149-ultraviolet.json](./287149-ultraviolet.json) |
@@ -1530,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utawarerumono: Prelude to the Fallen - Premium Edition | 167071 | [167071-utawarerumono-prelude-to-the-fallen-premium-edition.json](./167071-utawarerumono-prelude-to-the-fallen-premium-edition.json) |
 | Utherous | 60488 | [60488-utherous.json](./60488-utherous.json) |
 | Utility for the Soul | 312571 | [312571-utility-for-the-soul.json](./312571-utility-for-the-soul.json) |
+| Utopia | 142988 | [142988-utopia.json](./142988-utopia.json) |
 | Utopia | 174098 | [174098-utopia.json](./174098-utopia.json) |
 | Utopia | 377298 | [377298-utopia.json](./377298-utopia.json) |
 | Utopia | 5702 | [5702-utopia.json](./5702-utopia.json) |
