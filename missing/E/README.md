@@ -1774,6 +1774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eons Lost: Arrival | 185038 | [185038-eons-lost-arrival.json](./185038-eons-lost-arrival.json) |
 | Eonwar | 217315 | [217315-eonwar.json](./217315-eonwar.json) |
 | EOPN: Test RS | 285549 | [285549-eopn-test-rs.json](./285549-eopn-test-rs.json) |
+| Eos | 147330 | [147330-eos.json](./147330-eos.json) |
 | eOthello | 277283 | [277283-eothello.json](./277283-eothello.json) |
 | Epejsodion Dodgeball Defense | 166748 | [166748-epejsodion-dodgeball-defense.json](./166748-epejsodion-dodgeball-defense.json) |
 | Ephemeral Dreams, Eternal Love | 260116 | [260116-ephemeral-dreams-eternal-love.json](./260116-ephemeral-dreams-eternal-love.json) |
@@ -2807,6 +2808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everybody's Gone to the Rapture | 7405 | [7405-everybodys-gone-to-the-rapture.json](./7405-everybodys-gone-to-the-rapture.json) |
 | Everybody's Home Run Derby | 231056 | [231056-everybodys-home-run-derby.json](./231056-everybodys-home-run-derby.json) |
 | Everybody's Putter Golf With Toro | 66090 | [66090-everybodys-putter-golf-with-toro.json](./66090-everybodys-putter-golf-with-toro.json) |
+| Everybody's RPG: Reborn | 147318 | [147318-everybodys-rpg-reborn.json](./147318-everybodys-rpg-reborn.json) |
 | Everybody's Sad | 113672 | [113672-everybodys-sad.json](./113672-everybodys-sad.json) |
 | Everyday House Tamagotchi | 222427 | [222427-everyday-house-tamagotchi.json](./222427-everyday-house-tamagotchi.json) |
 | Everyday Jigsaw | 87088 | [87088-everyday-jigsaw.json](./87088-everyday-jigsaw.json) |
