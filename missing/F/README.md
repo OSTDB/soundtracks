@@ -1546,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feline | 171559 | [171559-feline.json](./171559-feline.json) |
 | Feline Fever Dream | 416641 | [416641-feline-fever-dream.json](./416641-feline-fever-dream.json) |
 | Feline Realms: The Ancients' Legacy | 386280 | [386280-feline-realms-the-ancients-legacy.json](./386280-feline-realms-the-ancients-legacy.json) |
+| Feline Sweet | 165430 | [165430-feline-sweet.json](./165430-feline-sweet.json) |
 | Felinea Tales | 328532 | [328532-felinea-tales.json](./328532-felinea-tales.json) |
 | Felis: Cat Saving Platformer | 30106 | [30106-felis-cat-saving-platformer.json](./30106-felis-cat-saving-platformer.json) |
 | Felix in the Factory | 13713 | [13713-felix-in-the-factory.json](./13713-felix-in-the-factory.json) |
