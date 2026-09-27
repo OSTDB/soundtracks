@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lakeside | 269563 | [269563-lakeside.json](./269563-lakeside.json) |
 | Lakeside Has No Lake!! | 355614 | [355614-lakeside-has-no-lake.json](./355614-lakeside-has-no-lake.json) |
 | Lakesider: Above and Below | 285477 | [285477-lakesider-above-and-below.json](./285477-lakesider-above-and-below.json) |
+| Lakeview Cabin 2 | 149478 | [149478-lakeview-cabin-2.json](./149478-lakeview-cabin-2.json) |
 | Lakitu's Great Adventure | 217842 | [217842-lakitus-great-adventure.json](./217842-lakitus-great-adventure.json) |
 | Lala Hentai 2 | 375970 | [375970-lala-hentai-2.json](./375970-lala-hentai-2.json) |
 | Lala the Magical | 48298 | [48298-lala-the-magical.json](./48298-lala-the-magical.json) |
@@ -2980,6 +2981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lolita 2 | 66128 | [66128-lolita-2.json](./66128-lolita-2.json) |
 | Lolita Expedition | 370885 | [370885-lolita-expedition.json](./370885-lolita-expedition.json) |
 | Lollipop Chainsaw RePop: Nintendo Switch 2 Edition | 401101 | [401101-lollipop-chainsaw-repop-nintendo-switch-2-edition.json](./401101-lollipop-chainsaw-repop-nintendo-switch-2-edition.json) |
+| LolliPop: The Best Indie Game | 149496 | [149496-lollipop-the-best-indie-game.json](./149496-lollipop-the-best-indie-game.json) |
 | Lollipop! | 159882 | [159882-lollipop.json](./159882-lollipop.json) |
 | Lollypop | 9762 | [9762-lollypop.json](./9762-lollypop.json) |
 | LolShot.io | 202776 | [202776-lolshot-io.json](./202776-lolshot-io.json) |
