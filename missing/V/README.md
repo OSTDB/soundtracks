@@ -1303,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vladimir 2021 | 156542 | [156542-vladimir-2021.json](./156542-vladimir-2021.json) |
 | Vlak | 377281 | [377281-vlak.json](./377281-vlak.json) |
 | Vlogger Go Viral | 102765 | [102765-vlogger-go-viral.json](./102765-vlogger-go-viral.json) |
+| Vlorp | 144850 | [144850-vlorp.json](./144850-vlorp.json) |
 | VMod | 129164 | [129164-vmod.json](./129164-vmod.json) |
 | VMX | 334205 | [334205-vmx.json](./334205-vmx.json) |
 | VN Dating Sims: Masa SMA | 214623 | [214623-vn-dating-sims-masa-sma.json](./214623-vn-dating-sims-masa-sma.json) |
