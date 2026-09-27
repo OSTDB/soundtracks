@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaf Tree | 175791 | [175791-leaf-tree.json](./175791-leaf-tree.json) |
 | Leaf's Odyssey | 301354 | [301354-leafs-odyssey.json](./301354-leafs-odyssey.json) |
 | Leafing Home | 333006 | [333006-leafing-home.json](./333006-leafing-home.json) |
+| Leafling | 142347 | [142347-leafling.json](./142347-leafling.json) |
 | Leaftaker | 411043 | [411043-leaftaker.json](./411043-leaftaker.json) |
 | Leafy Trails Collection | 294838 | [294838-leafy-trails-collection.json](./294838-leafy-trails-collection.json) |
 | League Bowling | 40206 | [40206-league-bowling.json](./40206-league-bowling.json) |
