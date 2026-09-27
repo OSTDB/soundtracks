@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War 3010: The Revolution | 38397 | [38397-war-3010-the-revolution.json](./38397-war-3010-the-revolution.json) |
 | War After | 188397 | [188397-war-after.json](./188397-war-after.json) |
 | War Agent | 207874 | [207874-war-agent.json](./207874-war-agent.json) |
+| War and Magic | 125354 | [125354-war-and-magic.json](./125354-war-and-magic.json) |
 | War and Peace | 253332 | [253332-war-and-peace.json](./253332-war-and-peace.json) |
 | War and Politics | 374806 | [374806-war-and-politics.json](./374806-war-and-politics.json) |
 | War Angels | 385609 | [385609-war-angels.json](./385609-war-angels.json) |
