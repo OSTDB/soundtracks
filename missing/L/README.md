@@ -1551,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Just Farm | 374846 | [374846-lets-just-farm.json](./374846-lets-just-farm.json) |
 | Let's Kill Hitler: The Game | 253914 | [253914-lets-kill-hitler-the-game.json](./253914-lets-kill-hitler-the-game.json) |
 | Let's Kill Iggy! | 330843 | [330843-lets-kill-iggy.json](./330843-lets-kill-iggy.json) |
+| Let's Learn Janggi | 147876 | [147876-lets-learn-janggi.json](./147876-lets-learn-janggi.json) |
 | Let's Learn Japanese! Complete Collection | 306696 | [306696-lets-learn-japanese-complete-collection.json](./306696-lets-learn-japanese-complete-collection.json) |
 | Let's Learn Japanese! Kanji Sudoku | 306440 | [306440-lets-learn-japanese-kanji-sudoku.json](./306440-lets-learn-japanese-kanji-sudoku.json) |
 | Let's Learn Korean! Hangul | 367521 | [367521-lets-learn-korean-hangul.json](./367521-lets-learn-korean-hangul.json) |
@@ -3541,6 +3542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotion Samurai for Nintendo Switch | 249785 | [249785-lotion-samurai-for-nintendo-switch.json](./249785-lotion-samurai-for-nintendo-switch.json) |
 | Lots of Bugs | 405064 | [405064-lots-of-bugs.json](./405064-lots-of-bugs.json) |
 | Lots of Guns | 65466 | [65466-lots-of-guns.json](./65466-lots-of-guns.json) |
+| Lots of Slots | 147892 | [147892-lots-of-slots.json](./147892-lots-of-slots.json) |
 | Lots of Things 2: Travel and Search - Collector's Edition | 307759 | [307759-lots-of-things-2-travel-and-search-collectors-edition.json](./307759-lots-of-things-2-travel-and-search-collectors-edition.json) |
 | LotS: Light on the Sea | 400371 | [400371-lots-light-on-the-sea.json](./400371-lots-light-on-the-sea.json) |
 | Lotte | 245815 | [245815-lotte.json](./245815-lotte.json) |
