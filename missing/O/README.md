@@ -1436,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Fortress | 134576 | [134576-open-fortress.json](./134576-open-fortress.json) |
 | Open Heart: Book 1 | 313721 | [313721-open-heart-book-1.json](./313721-open-heart-book-1.json) |
 | Open Heart: Second Year | 313722 | [313722-open-heart-second-year.json](./313722-open-heart-second-year.json) |
+| Open Hexagon | 133332 | [133332-open-hexagon.json](./133332-open-hexagon.json) |
 | Open Nectar | 416628 | [416628-open-nectar.json](./416628-open-nectar.json) |
 | Open Net Battle | 343861 | [343861-open-net-battle.json](./343861-open-net-battle.json) |
 | Open Ocarina | 271820 | [271820-open-ocarina.json](./271820-open-ocarina.json) |
