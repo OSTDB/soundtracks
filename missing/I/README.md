@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ichigo's Study Sessions | 361345 | [361345-ichigos-study-sessions.json](./361345-ichigos-study-sessions.json) |
 | Ichikoi | 412544 | [412544-ichikoi.json](./412544-ichikoi.json) |
 | Ichinichi | 262988 | [262988-ichinichi.json](./262988-ichinichi.json) |
+| Ichiro Shounen Kitan | 150557 | [150557-ichiro-shounen-kitan.json](./150557-ichiro-shounen-kitan.json) |
 | Ichizu na Kanojo to Koi Shitai | 402486 | [402486-ichizu-na-kanojo-to-koi-shitai.json](./402486-ichizu-na-kanojo-to-koi-shitai.json) |
 | Ichor | 122398 | [122398-ichor.json](./122398-ichor.json) |
 | Ichor Burns | 358958 | [358958-ichor-burns.json](./358958-ichor-burns.json) |
@@ -1547,6 +1548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferno Meltdown | 266867 | [266867-inferno-meltdown.json](./266867-inferno-meltdown.json) |
 | Inferno Protocol | 381679 | [381679-inferno-protocol.json](./381679-inferno-protocol.json) |
 | Inferno Quest: Journey Through the Lava Cavern | 248021 | [248021-inferno-quest-journey-through-the-lava-cavern.json](./248021-inferno-quest-journey-through-the-lava-cavern.json) |
+| Inferno: Beyond the 7th Circle | 150583 | [150583-inferno-beyond-the-7th-circle.json](./150583-inferno-beyond-the-7th-circle.json) |
 | Inferno: Deathfield | 82051 | [82051-inferno-deathfield.json](./82051-inferno-deathfield.json) |
 | Inferno’s Embrace | 298902 | [298902-inferno-s-embrace.json](./298902-inferno-s-embrace.json) |
 | Infernovasion | 269663 | [269663-infernovasion.json](./269663-infernovasion.json) |
