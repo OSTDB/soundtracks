@@ -5326,6 +5326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Sword and Fairy 7: Dreamlike World | 235192 | [235192-the-legend-of-sword-and-fairy-7-dreamlike-world.json](./235192-the-legend-of-sword-and-fairy-7-dreamlike-world.json) |
 | The Legend of the Astera Stone | 300020 | [300020-the-legend-of-the-astera-stone.json](./300020-the-legend-of-the-astera-stone.json) |
 | The Legend of The Duck Knite | 117507 | [117507-the-legend-of-the-duck-knite.json](./117507-the-legend-of-the-duck-knite.json) |
+| The Legend of the Radient Mask | 135094 | [135094-the-legend-of-the-radient-mask.json](./135094-the-legend-of-the-radient-mask.json) |
 | The Legend of The Sacred Stone EX | 371336 | [371336-the-legend-of-the-sacred-stone-ex.json](./371336-the-legend-of-the-sacred-stone-ex.json) |
 | The Legend of the Spirit Bird | 172520 | [172520-the-legend-of-the-spirit-bird.json](./172520-the-legend-of-the-spirit-bird.json) |
 | The Legend of the War Axe | 190129 | [190129-the-legend-of-the-war-axe.json](./190129-the-legend-of-the-war-axe.json) |
