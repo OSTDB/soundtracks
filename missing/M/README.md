@@ -8682,6 +8682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Island: A Race Against Time and Hot Lava | 200136 | [200136-mysterious-island-a-race-against-time-and-hot-lava.json](./200136-mysterious-island-a-race-against-time-and-hot-lava.json) |
 | Mysterious Islandz | 322385 | [322385-mysterious-islandz.json](./322385-mysterious-islandz.json) |
 | Mysterious Journey II | 72063 | [72063-mysterious-journey-ii.json](./72063-mysterious-journey-ii.json) |
+| Mysterious Puzzles Collection: Nemezis, Schizm, Reah | 159686 | [159686-mysterious-puzzles-collection-nemezis-schizm-reah.json](./159686-mysterious-puzzles-collection-nemezis-schizm-reah.json) |
 | Mysterious Retro Games Bundle | 231076 | [231076-mysterious-retro-games-bundle.json](./231076-mysterious-retro-games-bundle.json) |
 | Mysterious School | 212812 | [212812-mysterious-school.json](./212812-mysterious-school.json) |
 | Mysterious Unnamed Space Game | 184092 | [184092-mysterious-unnamed-space-game.json](./184092-mysterious-unnamed-space-game.json) |
