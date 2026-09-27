@@ -4967,6 +4967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Pro Gold | 147914 | [147914-pool-pro-gold.json](./147914-pool-pro-gold.json) |
 | Pool Quiz | 246477 | [246477-pool-quiz.json](./246477-pool-quiz.json) |
 | Pool Revolution: Cue Sports | 70649 | [70649-pool-revolution-cue-sports.json](./70649-pool-revolution-cue-sports.json) |
+| Pool Shark | 169226 | [169226-pool-shark.json](./169226-pool-shark.json) |
 | Pool Shark 2 | 5984 | [5984-pool-shark-2.json](./5984-pool-shark-2.json) |
 | Pool Sharks | 92437 | [92437-pool-sharks.json](./92437-pool-sharks.json) |
 | Pool Together Bundle | 315842 | [315842-pool-together-bundle.json](./315842-pool-together-bundle.json) |
@@ -5980,6 +5981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Lesson with My Lover Teacher 2 | 382782 | [382782-private-lesson-with-my-lover-teacher-2.json](./382782-private-lesson-with-my-lover-teacher-2.json) |
 | Private Military Manager: Tactical Auto Battler | 264618 | [264618-private-military-manager-tactical-auto-battler.json](./264618-private-military-manager-tactical-auto-battler.json) |
 | Private Mining Company | 309368 | [309368-private-mining-company.json](./309368-private-mining-company.json) |
+| Private Model | 169229 | [169229-private-model.json](./169229-private-model.json) |
 | Private Property | 199378 | [199378-private-property.json](./199378-private-property.json) |
 | Private School Days | 89760 | [89760-private-school-days.json](./89760-private-school-days.json) |
 | Private: Pornmania | 254545 | [254545-private-pornmania.json](./254545-private-pornmania.json) |
