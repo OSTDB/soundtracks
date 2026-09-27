@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the AI | 256239 | [256239-war-of-the-ai.json](./256239-war-of-the-ai.json) |
 | War of the Human Tanks - Complete Collection | 53884 | [53884-war-of-the-human-tanks-complete-collection.json](./53884-war-of-the-human-tanks-complete-collection.json) |
 | War of the Lance | 50494 | [50494-war-of-the-lance.json](./50494-war-of-the-lance.json) |
+| War of the Mars | 151075 | [151075-war-of-the-mars.json](./151075-war-of-the-mars.json) |
 | War of the Ring | 356066 | [356066-war-of-the-ring.json](./356066-war-of-the-ring.json) |
 | War of the Roses | 1385 | [1385-war-of-the-roses.json](./1385-war-of-the-roses.json) |
 | War of the Roses: Kingmaker | 11040 | [11040-war-of-the-roses-kingmaker.json](./11040-war-of-the-roses-kingmaker.json) |
@@ -883,6 +884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warsim: The Realm of Aslona | 43148 | [43148-warsim-the-realm-of-aslona.json](./43148-warsim-the-realm-of-aslona.json) |
 | Warsino | 232539 | [232539-warsino.json](./232539-warsino.json) |
 | Warsong | 3196 | [3196-warsong.json](./3196-warsong.json) |
+| Warspace | 151093 | [151093-warspace.json](./151093-warspace.json) |
 | Warspace | 242065 | [242065-warspace.json](./242065-warspace.json) |
 | Warspace 2 | 158652 | [158652-warspace-2.json](./158652-warspace-2.json) |
 | Warspear Online | 87077 | [87077-warspear-online.json](./87077-warspear-online.json) |
@@ -1414,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welltris | 12872 | [12872-welltris.json](./12872-welltris.json) |
 | Welly Wang VR | 267680 | [267680-welly-wang-vr.json](./267680-welly-wang-vr.json) |
 | Welme | 404234 | [404234-welme.json](./404234-welme.json) |
+| Weltreich: Political Strategy Simulator | 151071 | [151071-weltreich-political-strategy-simulator.json](./151071-weltreich-political-strategy-simulator.json) |
 | Wèndào Xiāntú | 160231 | [160231-wendao-xiantu.json](./160231-wendao-xiantu.json) |
 | Wendigo | 252727 | [252727-wendigo.json](./252727-wendigo.json) |
 | Wendigo | 253331 | [253331-wendigo.json](./253331-wendigo.json) |
