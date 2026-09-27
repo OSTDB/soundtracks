@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offworld Trading Company: Blue Chip Ventures | 124835 | [124835-offworld-trading-company-blue-chip-ventures.json](./124835-offworld-trading-company-blue-chip-ventures.json) |
 | Offworld Trading Company: Ceres Initiative | 154480 | [154480-offworld-trading-company-ceres-initiative.json](./154480-offworld-trading-company-ceres-initiative.json) |
 | Offworld Trading Company: Limited Supply | 154477 | [154477-offworld-trading-company-limited-supply.json](./154477-offworld-trading-company-limited-supply.json) |
+| Offworld Trading Company: Real Mars Map Pack | 154444 | [154444-offworld-trading-company-real-mars-map-pack.json](./154444-offworld-trading-company-real-mars-map-pack.json) |
 | Offworld Trading Company: Scenario Toolkit | 154479 | [154479-offworld-trading-company-scenario-toolkit.json](./154479-offworld-trading-company-scenario-toolkit.json) |
 | Offworld Trading Company: The Patron and the Patriot | 124817 | [124817-offworld-trading-company-the-patron-and-the-patriot.json](./124817-offworld-trading-company-the-patron-and-the-patriot.json) |
 | Oftalmogarden | 189176 | [189176-oftalmogarden.json](./189176-oftalmogarden.json) |
@@ -2010,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Adventure Time | 178549 | [178549-our-adventure-time.json](./178549-our-adventure-time.json) |
 | Our Bad Ending | 354487 | [354487-our-bad-ending.json](./354487-our-bad-ending.json) |
 | Our Baseball Club Manager Girl Was Framed in a Bunk Bed so I Banged Her | 83220 | [83220-our-baseball-club-manager-girl-was-framed-in-a-bunk-bed-so-i-banged-her.json](./83220-our-baseball-club-manager-girl-was-framed-in-a-bunk-bed-so-i-banged-her.json) |
+| Our Beautiful Earth | 154431 | [154431-our-beautiful-earth.json](./154431-our-beautiful-earth.json) |
 | Our Beautiful Earth 2 | 164887 | [164887-our-beautiful-earth-2.json](./164887-our-beautiful-earth-2.json) |
 | Our Beautiful Earth 3 | 294447 | [294447-our-beautiful-earth-3.json](./294447-our-beautiful-earth-3.json) |
 | Our Beautiful Earth 4 | 294692 | [294692-our-beautiful-earth-4.json](./294692-our-beautiful-earth-4.json) |
