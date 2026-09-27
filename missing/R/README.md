@@ -1242,6 +1242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaktron | 121706 | [121706-reaktron.json](./121706-reaktron.json) |
 | Real Al's Humanity Academy | 115009 | [115009-real-als-humanity-academy.json](./115009-real-als-humanity-academy.json) |
 | Real Anime Situation! DT | 314992 | [314992-real-anime-situation-dt.json](./314992-real-anime-situation-dt.json) |
+| Real Arcade Bike | 126498 | [126498-real-arcade-bike.json](./126498-real-arcade-bike.json) |
 | Real Basketball | 89688 | [89688-real-basketball.json](./89688-real-basketball.json) |
 | Real Bird Fake Bird | 325241 | [325241-real-bird-fake-bird.json](./325241-real-bird-fake-bird.json) |
 | Real Bout Fatal Fury Best Collection | 70941 | [70941-real-bout-fatal-fury-best-collection.json](./70941-real-bout-fatal-fury-best-collection.json) |
@@ -1429,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reanimal: The Expanded World - Chapter 2 | 395672 | [395672-reanimal-the-expanded-world-chapter-2.json](./395672-reanimal-the-expanded-world-chapter-2.json) |
 | Reanimal: The Expanded World - Chapter 3 | 395673 | [395673-reanimal-the-expanded-world-chapter-3.json](./395673-reanimal-the-expanded-world-chapter-3.json) |
 | Reanimated | 274205 | [274205-reanimated.json](./274205-reanimated.json) |
+| Reanimation Inc. | 126514 | [126514-reanimation-inc.json](./126514-reanimation-inc.json) |
 | Reanimation Scheme | 158647 | [158647-reanimation-scheme.json](./158647-reanimation-scheme.json) |
 | Reap and Sow | 202362 | [202362-reap-and-sow.json](./202362-reap-and-sow.json) |
 | Reap What You Sow | 184995 | [184995-reap-what-you-sow.json](./184995-reap-what-you-sow.json) |
@@ -4527,6 +4529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Valley | 192876 | [192876-rolling-valley.json](./192876-rolling-valley.json) |
 | Rolling Voltorb | 70084 | [70084-rolling-voltorb.json](./70084-rolling-voltorb.json) |
 | RollingSky | 129747 | [129747-rollingsky.json](./129747-rollingsky.json) |
+| RollingSky2 | 126505 | [126505-rollingsky2.json](./126505-rollingsky2.json) |
 | RollMe | 169883 | [169883-rollme.json](./169883-rollme.json) |
 | Rollo Pollo | 348352 | [348352-rollo-pollo.json](./348352-rollo-pollo.json) |
 | Rollout | 31870 | [31870-rollout.json](./31870-rollout.json) |
