@@ -2301,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty vs. Zombie | 309844 | [309844-beauty-vs-zombie.json](./309844-beauty-vs-zombie.json) |
 | Beaver Creek | 360060 | [360060-beaver-creek.json](./360060-beaver-creek.json) |
 | Beaver Fun | 216355 | [216355-beaver-fun.json](./216355-beaver-fun.json) |
+| Beaver Fun River Run: Steam Edition | 162715 | [162715-beaver-fun-river-run-steam-edition.json](./162715-beaver-fun-river-run-steam-edition.json) |
 | Bebe Miner | 416664 | [416664-bebe-miner.json](./416664-bebe-miner.json) |
 | Beboop to the Rescue! | 211431 | [211431-beboop-to-the-rescue.json](./211431-beboop-to-the-rescue.json) |
 | Bebop and Tempo | 43893 | [43893-bebop-and-tempo.json](./43893-bebop-and-tempo.json) |
