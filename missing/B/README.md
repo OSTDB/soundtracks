@@ -7349,6 +7349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust-A-Move 2: Arcade Edition | 249129 | [249129-bust-a-move-2-arcade-edition.json](./249129-bust-a-move-2-arcade-edition.json) |
 | Bust-A-Move 2: Arcade Edition | 3455 | [3455-bust-a-move-2-arcade-edition.json](./3455-bust-a-move-2-arcade-edition.json) |
 | Bust-A-Move 3000 | 50570 | [50570-bust-a-move-3000.json](./50570-bust-a-move-3000.json) |
+| Bust-A-Move Again | 146217 | [146217-bust-a-move-again.json](./146217-bust-a-move-again.json) |
 | Bust-a-Move DS | 22572 | [22572-bust-a-move-ds.json](./22572-bust-a-move-ds.json) |
 | Bust-A-Move Live! | 21102 | [21102-bust-a-move-live.json](./21102-bust-a-move-live.json) |
 | Bust-A-Move Pocket | 43977 | [43977-bust-a-move-pocket.json](./43977-bust-a-move-pocket.json) |
