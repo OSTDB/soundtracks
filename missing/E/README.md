@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | E Nikki | 201836 | [201836-e-nikki.json](./201836-e-nikki.json) |
+| E-Ball | 126540 | [126540-e-ball.json](./126540-e-ball.json) |
 | E-circle | 203943 | [203943-e-circle.json](./203943-e-circle.json) |
 | E-commerce Simulator | 303507 | [303507-e-commerce-simulator.json](./303507-e-commerce-simulator.json) |
 | E-Elementals | 208436 | [208436-e-elementals.json](./208436-e-elementals.json) |
