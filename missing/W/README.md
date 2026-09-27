@@ -2109,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Ice | 166777 | [166777-wild-ice.json](./166777-wild-ice.json) |
 | Wild Indigo Ranch | 199596 | [199596-wild-indigo-ranch.json](./199596-wild-indigo-ranch.json) |
 | Wild Isles | 220642 | [220642-wild-isles.json](./220642-wild-isles.json) |
+| Wild Jigsaw VR | 160149 | [160149-wild-jigsaw-vr.json](./160149-wild-jigsaw-vr.json) |
 | Wild Legion | 243150 | [243150-wild-legion.json](./243150-wild-legion.json) |
 | Wild Leopard Safari | 255167 | [255167-wild-leopard-safari.json](./255167-wild-leopard-safari.json) |
 | Wild Life | 127894 | [127894-wild-life.json](./127894-wild-life.json) |
@@ -2969,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonky Ship: Black Hole Down | 168322 | [168322-wonky-ship-black-hole-down.json](./168322-wonky-ship-black-hole-down.json) |
 | Wonky Works! | 189051 | [189051-wonky-works.json](./189051-wonky-works.json) |
 | Woo Woo | 388919 | [388919-woo-woo.json](./388919-woo-woo.json) |
+| Woo Wop Da Bam | 160173 | [160173-woo-wop-da-bam.json](./160173-woo-wop-da-bam.json) |
 | Woobies | 294205 | [294205-woobies.json](./294205-woobies.json) |
 | Woochi the Wayfarer | 360752 | [360752-woochi-the-wayfarer.json](./360752-woochi-the-wayfarer.json) |
 | Wood & Flesh Chapter 2 | 372696 | [372696-wood-and-flesh-chapter-2.json](./372696-wood-and-flesh-chapter-2.json) |
@@ -2987,6 +2989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodcutter Simulator 2013 | 16900 | [16900-woodcutter-simulator-2013.json](./16900-woodcutter-simulator-2013.json) |
 | Wooden House | 23726 | [23726-wooden-house.json](./23726-wooden-house.json) |
 | Wooden Nickel | 115663 | [115663-wooden-nickel.json](./115663-wooden-nickel.json) |
+| WoodHeart | 160160 | [160160-woodheart.json](./160160-woodheart.json) |
 | Woodla: The Tower | 251199 | [251199-woodla-the-tower.json](./251199-woodla-the-tower.json) |
 | Woodland Isle | 265103 | [265103-woodland-isle.json](./265103-woodland-isle.json) |
 | Woodland Rebels | 385604 | [385604-woodland-rebels.json](./385604-woodland-rebels.json) |
