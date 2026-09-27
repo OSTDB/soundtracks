@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack's House | 88314 | [88314-jacks-house.json](./88314-jacks-house.json) |
 | Jackal | 212707 | [212707-jackal.json](./212707-jackal.json) |
 | Jackal | 25334 | [25334-jackal.json](./25334-jackal.json) |
+| Jacked | 124685 | [124685-jacked.json](./124685-jacked.json) |
 | Jackie Chan in Fists of Fire | 39606 | [39606-jackie-chan-in-fists-of-fire.json](./39606-jackie-chan-in-fists-of-fire.json) |
 | Jackie Chan: The Kung-Fu Master | 39607 | [39607-jackie-chan-the-kung-fu-master.json](./39607-jackie-chan-the-kung-fu-master.json) |
 | Jackie Chan's Action Kung Fu | 12522 | [12522-jackie-chans-action-kung-fu.json](./12522-jackie-chans-action-kung-fu.json) |
@@ -802,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu 14 | 69203 | [69203-jikkyou-pawafuru-puroyakyu-14.json](./69203-jikkyou-pawafuru-puroyakyu-14.json) |
 | Jikkyou Pawafuru Puroyakyu 15 | 69204 | [69204-jikkyou-pawafuru-puroyakyu-15.json](./69204-jikkyou-pawafuru-puroyakyu-15.json) |
 | Jikkyou Pawafuru Puroyakyu 2010 | 45286 | [45286-jikkyou-pawafuru-puroyakyu-2010.json](./45286-jikkyou-pawafuru-puroyakyu-2010.json) |
+| Jikkyou Pawafuru Puroyakyu 2011 | 124695 | [124695-jikkyou-pawafuru-puroyakyu-2011.json](./124695-jikkyou-pawafuru-puroyakyu-2011.json) |
 | Jikkyou Pawafuru Puroyakyu 2011 | 45285 | [45285-jikkyou-pawafuru-puroyakyu-2011.json](./45285-jikkyou-pawafuru-puroyakyu-2011.json) |
 | Jikkyou Pawafuru Puroyakyu 2012 | 44584 | [44584-jikkyou-pawafuru-puroyakyu-2012.json](./44584-jikkyou-pawafuru-puroyakyu-2012.json) |
 | Jikkyou Pawafuru Puroyakyu 2012: Kettei-ban | 44583 | [44583-jikkyou-pawafuru-puroyakyu-2012-kettei-ban.json](./44583-jikkyou-pawafuru-puroyakyu-2012-kettei-ban.json) |
@@ -979,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John's Tombstone | 187523 | [187523-johns-tombstone.json](./187523-johns-tombstone.json) |
 | John's Wizard Dungeon | 119738 | [119738-johns-wizard-dungeon.json](./119738-johns-wizard-dungeon.json) |
 | JohnGagz | 317354 | [317354-johngagz.json](./317354-johngagz.json) |
+| Johnny 9: The Return | 124704 | [124704-johnny-9-the-return.json](./124704-johnny-9-the-return.json) |
 | Johnny Bonasera: Full Season | 147821 | [147821-johnny-bonasera-full-season.json](./147821-johnny-bonasera-full-season.json) |
 | Johnny Boy: Red Moon's Kiss | 188651 | [188651-johnny-boy-red-moons-kiss.json](./188651-johnny-boy-red-moons-kiss.json) |
 | Johnny Chainsaw | 154466 | [154466-johnny-chainsaw.json](./154466-johnny-chainsaw.json) |
