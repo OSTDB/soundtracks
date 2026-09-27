@@ -785,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Time III | 310923 | [310923-hard-time-iii.json](./310923-hard-time-iii.json) |
 | Hard Times at Sequoia State Park | 192388 | [192388-hard-times-at-sequoia-state-park.json](./192388-hard-times-at-sequoia-state-park.json) |
 | Hard to be a God | 20779 | [20779-hard-to-be-a-god.json](./20779-hard-to-be-a-god.json) |
+| Hard to be a King | 120854 | [120854-hard-to-be-a-king.json](./120854-hard-to-be-a-king.json) |
 | Hard Vacuum | 132627 | [132627-hard-vacuum.json](./132627-hard-vacuum.json) |
 | Hard West | 7675 | [7675-hard-west.json](./7675-hard-west.json) |
 | Hard West 2 | 116014 | [116014-hard-west-2.json](./116014-hard-west-2.json) |
@@ -3489,6 +3490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitori Kakurenbo | 150131 | [150131-hitori-kakurenbo.json](./150131-hitori-kakurenbo.json) |
 | Hitori Kakurenbo Online | 187450 | [187450-hitori-kakurenbo-online.json](./187450-hitori-kakurenbo-online.json) |
 | Hitoriasobi | 398576 | [398576-hitoriasobi.json](./398576-hitoriasobi.json) |
+| Hitotsu No Mori | 120770 | [120770-hitotsu-no-mori.json](./120770-hitotsu-no-mori.json) |
 | Hitotsu Tobashi Renai V | 217545 | [217545-hitotsu-tobashi-renai-v.json](./217545-hitotsu-tobashi-renai-v.json) |
 | Hitotsubashi Animal Chronicles | 358386 | [358386-hitotsubashi-animal-chronicles.json](./358386-hitotsubashi-animal-chronicles.json) |
 | Hitou Dungeon | 283842 | [283842-hitou-dungeon.json](./283842-hitou-dungeon.json) |
@@ -5155,6 +5157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurlements | 174634 | [174634-hurlements.json](./174634-hurlements.json) |
 | Hurling Herman | 392252 | [392252-hurling-herman.json](./392252-hurling-herman.json) |
 | Hurricane | 25928 | [25928-hurricane.json](./25928-hurricane.json) |
+| Hurricane chase | 120775 | [120775-hurricane-chase.json](./120775-hurricane-chase.json) |
 | Hurry Up Bird Hunter! | 82107 | [82107-hurry-up-bird-hunter.json](./82107-hurry-up-bird-hunter.json) |
 | Hurt Me Plenty | 20248 | [20248-hurt-me-plenty.json](./20248-hurt-me-plenty.json) |
 | Hush | 95475 | [95475-hush.json](./95475-hush.json) |
@@ -5309,6 +5312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypercharge: Unboxed | 39758 | [39758-hypercharge-unboxed.json](./39758-hypercharge-unboxed.json) |
 | Hyperchase Auto Race | 41990 | [41990-hyperchase-auto-race.json](./41990-hyperchase-auto-race.json) |
 | Hypercide | 156532 | [156532-hypercide.json](./156532-hypercide.json) |
+| HyperCore: Out of Dimension | 120887 | [120887-hypercore-out-of-dimension.json](./120887-hypercore-out-of-dimension.json) |
 | HyperCore: Rhythm Bullet Hell | 122388 | [122388-hypercore-rhythm-bullet-hell.json](./122388-hypercore-rhythm-bullet-hell.json) |
 | Hypercoven | 256784 | [256784-hypercoven.json](./256784-hypercoven.json) |
 | HyperCycle League | 383979 | [383979-hypercycle-league.json](./383979-hypercycle-league.json) |
