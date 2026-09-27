@@ -2977,6 +2977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorathar | 262339 | [262339-gorathar.json](./262339-gorathar.json) |
 | Gorble | 311272 | [311272-gorble.json](./311272-gorble.json) |
 | Gord: Deluxe Edition | 259522 | [259522-gord-deluxe-edition.json](./259522-gord-deluxe-edition.json) |
+| Gordian Snake | 139319 | [139319-gordian-snake.json](./139319-gordian-snake.json) |
 | Gordian Tomb | 73850 | [73850-gordian-tomb.json](./73850-gordian-tomb.json) |
 | Gordon and the Light Within | 334691 | [334691-gordon-and-the-light-within.json](./334691-gordon-and-the-light-within.json) |
 | Gore | 371991 | [371991-gore.json](./371991-gore.json) |
