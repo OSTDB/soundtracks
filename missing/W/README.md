@@ -2661,6 +2661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WitchSpring R: The Follower’s Fall | 363460 | [363460-witchspring-r-the-follower-s-fall.json](./363460-witchspring-r-the-follower-s-fall.json) |
 | WitchSpring2 | 102813 | [102813-witchspring2.json](./102813-witchspring2.json) |
 | WitchSpring3 | 207869 | [207869-witchspring3.json](./207869-witchspring3.json) |
+| WitchSpring3 Re:Fine - The Story of Eirudy | 141763 | [141763-witchspring3-re-fine-the-story-of-eirudy.json](./141763-witchspring3-re-fine-the-story-of-eirudy.json) |
 | WitchSpring4 | 147342 | [147342-witchspring4.json](./147342-witchspring4.json) |
 | Witchworker | 405611 | [405611-witchworker.json](./405611-witchworker.json) |
 | Witchy Wonderland | 344348 | [344348-witchy-wonderland.json](./344348-witchy-wonderland.json) |
