@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A New Leaf: Memories | 167583 | [167583-a-new-leaf-memories.json](./167583-a-new-leaf-memories.json) |
 | A Night at Sea | 228996 | [228996-a-night-at-sea.json](./228996-a-night-at-sea.json) |
 | A Night Before the Deadline | 145625 | [145625-a-night-before-the-deadline.json](./145625-a-night-before-the-deadline.json) |
+| A Night in Vanet Manor | 147243 | [147243-a-night-in-vanet-manor.json](./147243-a-night-in-vanet-manor.json) |
 | A Night Out. | 334702 | [334702-a-night-out.json](./334702-a-night-out.json) |
 | A Night Train to the Forest Zone | 138054 | [138054-a-night-train-to-the-forest-zone.json](./138054-a-night-train-to-the-forest-zone.json) |
 | A Night Was Had on the Town | 178944 | [178944-a-night-was-had-on-the-town.json](./178944-a-night-was-had-on-the-town.json) |
