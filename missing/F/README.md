@@ -633,6 +633,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famicom Meijinsen | 48330 | [48330-famicom-meijinsen.json](./48330-famicom-meijinsen.json) |
 | Famicom Mini: Dai-2-ji Super Robot Taisen | 170948 | [170948-famicom-mini-dai-2-ji-super-robot-taisen.json](./170948-famicom-mini-dai-2-ji-super-robot-taisen.json) |
 | Famicom Mini: Kidou Senshi Z Gundam - Hot Scramble | 170947 | [170947-famicom-mini-kidou-senshi-z-gundam-hot-scramble.json](./170947-famicom-mini-kidou-senshi-z-gundam-hot-scramble.json) |
+| Famicom Mini: Mario Bros. | 170287 | [170287-famicom-mini-mario-bros.json](./170287-famicom-mini-mario-bros.json) |
+| Famicom Mini: SD Gundam World - Gachapon Senshi: Scramble Wars | 170283 | [170283-famicom-mini-sd-gundam-world-gachapon-senshi-scramble-wars.json](./170283-famicom-mini-sd-gundam-world-gachapon-senshi-scramble-wars.json) |
+| Famicom Mini: Star Soldier | 170295 | [170295-famicom-mini-star-soldier.json](./170295-famicom-mini-star-soldier.json) |
+| Famicom Mini: TwinBee | 170309 | [170309-famicom-mini-twinbee.json](./170309-famicom-mini-twinbee.json) |
+| Famicom Mini: Wrecking Crew | 170318 | [170318-famicom-mini-wrecking-crew.json](./170318-famicom-mini-wrecking-crew.json) |
 | Famicom Mukashibanashi: Shin Onigashima - Kouhen | 41418 | [41418-famicom-mukashibanashi-shin-onigashima-kouhen.json](./41418-famicom-mukashibanashi-shin-onigashima-kouhen.json) |
 | Famicom Mukashibanashi: Shin Onigashima - Zenpen | 41417 | [41417-famicom-mukashibanashi-shin-onigashima-zenpen.json](./41417-famicom-mukashibanashi-shin-onigashima-zenpen.json) |
 | Famicom Shogi: Ryuu-Ou-Sen | 48713 | [48713-famicom-shogi-ryuu-ou-sen.json](./48713-famicom-shogi-ryuu-ou-sen.json) |
@@ -907,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasya | 232937 | [232937-fantasya.json](./232937-fantasya.json) |
 | FantasyKingdom | 306429 | [306429-fantasykingdom.json](./306429-fantasykingdom.json) |
 | Fantasyland 2041 A.D. | 282635 | [282635-fantasyland-2041-a-d.json](./282635-fantasyland-2041-a-d.json) |
+| Fantasyland: All Heroes | 170313 | [170313-fantasyland-all-heroes.json](./170313-fantasyland-all-heroes.json) |
 | Fantasynth | 54726 | [54726-fantasynth.json](./54726-fantasynth.json) |
 | Fantasynth One | 157548 | [157548-fantasynth-one.json](./157548-fantasynth-one.json) |
 | Fantaventura | 129717 | [129717-fantaventura.json](./129717-fantaventura.json) |
@@ -4330,6 +4336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune: Hoshi no Furi Sosogu Oka | 344480 | [344480-fortune-hoshi-no-furi-sosogu-oka.json](./344480-fortune-hoshi-no-furi-sosogu-oka.json) |
 | Fortune's Favor | 347323 | [347323-fortunes-favor.json](./347323-fortunes-favor.json) |
 | Fortune's Run | 165071 | [165071-fortunes-run.json](./165071-fortunes-run.json) |
+| Fortune's Tavern: The Fantasy Tavern Simulator - Miniature Gods | 170311 | [170311-fortunes-tavern-the-fantasy-tavern-simulator-miniature-gods.json](./170311-fortunes-tavern-the-fantasy-tavern-simulator-miniature-gods.json) |
 | Forty Thieves Solitaire Collection | 166679 | [166679-forty-thieves-solitaire-collection.json](./166679-forty-thieves-solitaire-collection.json) |
 | Forward | 178014 | [178014-forward.json](./178014-forward.json) |
 | Forward | 99024 | [99024-forward.json](./99024-forward.json) |
