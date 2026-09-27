@@ -1393,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Party | 348987 | [348987-paw-party.json](./348987-paw-party.json) |
 | Paw Patrol | 298309 | [298309-paw-patrol.json](./298309-paw-patrol.json) |
 | Paw Patrol Bundle | 150141 | [150141-paw-patrol-bundle.json](./150141-paw-patrol-bundle.json) |
+| PAW Patrol Collection | 137559 | [137559-paw-patrol-collection.json](./137559-paw-patrol-collection.json) |
 | Paw Patrol the Movie: Adventure City Calls | 152302 | [152302-paw-patrol-the-movie-adventure-city-calls.json](./152302-paw-patrol-the-movie-adventure-city-calls.json) |
 | Paw Patrol: Laptop Infantil | 294467 | [294467-paw-patrol-laptop-infantil.json](./294467-paw-patrol-laptop-infantil.json) |
 | Paw Patrol: World | 252175 | [252175-paw-patrol-world.json](./252175-paw-patrol-world.json) |
@@ -3741,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PJ Masks: Heroes of the Night - Complete Edition | 214727 | [214727-pj-masks-heroes-of-the-night-complete-edition.json](./214727-pj-masks-heroes-of-the-night-complete-edition.json) |
 | PJ Masks: Heroes of the Night - Mischief on Mystery Mountain | 195772 | [195772-pj-masks-heroes-of-the-night-mischief-on-mystery-mountain.json](./195772-pj-masks-heroes-of-the-night-mischief-on-mystery-mountain.json) |
 | PJ Masks: Moonlight Heroes | 237649 | [237649-pj-masks-moonlight-heroes.json](./237649-pj-masks-moonlight-heroes.json) |
+| PJ Masks: Time to be a Hero | 137539 | [137539-pj-masks-time-to-be-a-hero.json](./137539-pj-masks-time-to-be-a-hero.json) |
 | PK Scramble | 93521 | [93521-pk-scramble.json](./93521-pk-scramble.json) |
 | PK War | 367610 | [367610-pk-war.json](./367610-pk-war.json) |
 | Pk2022 | 188505 | [188505-pk2022.json](./188505-pk2022.json) |
@@ -6262,6 +6264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Probo Rush | 235876 | [235876-probo-rush.json](./235876-probo-rush.json) |
 | Probot Soccer | 276829 | [276829-probot-soccer.json](./276829-probot-soccer.json) |
 | Probotector | 186202 | [186202-probotector.json](./186202-probotector.json) |
+| Procedural Death Labyrinth | 137578 | [137578-procedural-death-labyrinth.json](./137578-procedural-death-labyrinth.json) |
 | Procedural Realms | 228701 | [228701-procedural-realms.json](./228701-procedural-realms.json) |
 | Procedural Soccer | 173228 | [173228-procedural-soccer.json](./173228-procedural-soccer.json) |
 | Procemon: You Must Catch Them | 369727 | [369727-procemon-you-must-catch-them.json](./369727-procemon-you-must-catch-them.json) |
