@@ -1643,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam G Generation Cross Rays: Added Dispatch Mission Set 3 | 225077 | [225077-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-3.json](./225077-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-3.json) |
 | SD Gundam G Generation Cross Rays: Added Dispatch Mission Set 4 | 225078 | [225078-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-4.json](./225078-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-4.json) |
 | SD Gundam G Generation Cross Rays: Expansion Pack | 225079 | [225079-sd-gundam-g-generation-cross-rays-expansion-pack.json](./225079-sd-gundam-g-generation-cross-rays-expansion-pack.json) |
+| SD Gundam G Generation Cross Rays: Platinum Edition | 142371 | [142371-sd-gundam-g-generation-cross-rays-platinum-edition.json](./142371-sd-gundam-g-generation-cross-rays-platinum-edition.json) |
 | SD Gundam G Generation Touch | 66372 | [66372-sd-gundam-g-generation-touch.json](./66372-sd-gundam-g-generation-touch.json) |
 | SD Gundam G Next | 38324 | [38324-sd-gundam-g-next.json](./38324-sd-gundam-g-next.json) |
 | SD Gundam G Next: Tsuika Unit Map Data | 234760 | [234760-sd-gundam-g-next-tsuika-unit-map-data.json](./234760-sd-gundam-g-next-tsuika-unit-map-data.json) |
@@ -5195,6 +5196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull8 | 362873 | [362873-skull8.json](./362873-skull8.json) |
 | Skullbreaker | 370341 | [370341-skullbreaker.json](./370341-skullbreaker.json) |
 | Skullchef | 408786 | [408786-skullchef.json](./408786-skullchef.json) |
+| Skulldash | 142377 | [142377-skulldash.json](./142377-skulldash.json) |
 | Skulldash Expanded Edition | 142416 | [142416-skulldash-expanded-edition.json](./142416-skulldash-expanded-edition.json) |
 | Skulldude | 181220 | [181220-skulldude.json](./181220-skulldude.json) |
 | Skullgirls Encore: Beowulf | 127262 | [127262-skullgirls-encore-beowulf.json](./127262-skullgirls-encore-beowulf.json) |
@@ -8579,6 +8581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceman's Luck | 404427 | [404427-spacemans-luck.json](./404427-spacemans-luck.json) |
 | Spacemancer | 200716 | [200716-spacemancer.json](./200716-spacemancer.json) |
 | SpaceMaster X-7 | 23844 | [23844-spacemaster-x-7.json](./23844-spacemaster-x-7.json) |
+| SpacePod | 142319 | [142319-spacepod.json](./142319-spacepod.json) |
 | SpacePom | 192367 | [192367-spacepom.json](./192367-spacepom.json) |
 | Spaceport Crew | 216884 | [216884-spaceport-crew.json](./216884-spaceport-crew.json) |
 | Spaceport Trading Company | 270152 | [270152-spaceport-trading-company.json](./270152-spaceport-trading-company.json) |
@@ -8685,6 +8688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartan X 2 | 48650 | [48650-spartan-x-2.json](./48650-spartan-x-2.json) |
 | Spartan's Spear | 273407 | [273407-spartans-spear.json](./273407-spartans-spear.json) |
 | Sparticles | 107271 | [107271-sparticles.json](./107271-sparticles.json) |
+| Spårvagn | 142361 | [142361-sparvagn.json](./142361-sparvagn.json) |
 | Spasms of Stupidity | 265725 | [265725-spasms-of-stupidity.json](./265725-spasms-of-stupidity.json) |
 | Spaß Taxi | 128396 | [128396-spa-taxi.json](./128396-spa-taxi.json) |
 | Spatial Ops | 324913 | [324913-spatial-ops.json](./324913-spatial-ops.json) |
@@ -9679,6 +9683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy of Deimos | 61880 | [61880-spy-of-deimos.json](./61880-spy-of-deimos.json) |
 | Spy Rumble | 204407 | [204407-spy-rumble.json](./204407-spy-rumble.json) |
 | Spy Snatcher | 73817 | [73817-spy-snatcher.json](./73817-spy-snatcher.json) |
+| Spy Story | 142350 | [142350-spy-story.json](./142350-spy-story.json) |
 | Spy Tactics | 120359 | [120359-spy-tactics.json](./120359-spy-tactics.json) |
 | Spy Vs. Spy: Volumes I & II | 77397 | [77397-spy-vs-spy-volumes-i-and-ii.json](./77397-spy-vs-spy-volumes-i-and-ii.json) |
 | Spy x Anya: Operation Memories - Deluxe Outing Pack | 308814 | [308814-spy-x-anya-operation-memories-deluxe-outing-pack.json](./308814-spy-x-anya-operation-memories-deluxe-outing-pack.json) |
@@ -10929,6 +10934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteamPunk Sky | 88169 | [88169-steampunk-sky.json](./88169-steampunk-sky.json) |
 | Steampunk Syndicate | 29666 | [29666-steampunk-syndicate.json](./29666-steampunk-syndicate.json) |
 | Steampunk Timer | 152797 | [152797-steampunk-timer.json](./152797-steampunk-timer.json) |
+| Steampunk Tower | 142333 | [142333-steampunk-tower.json](./142333-steampunk-tower.json) |
 | Steamroll | 20361 | [20361-steamroll.json](./20361-steamroll.json) |
 | SteamRush | 295278 | [295278-steamrush.json](./295278-steamrush.json) |
 | Steamry | 365678 | [365678-steamry.json](./365678-steamry.json) |
@@ -12952,6 +12958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Crypto Kart | 138748 | [138748-super-crypto-kart.json](./138748-super-crypto-kart.json) |
 | Super Cubo | 130737 | [130737-super-cubo.json](./130737-super-cubo.json) |
 | Super Cup Finals | 40428 | [40428-super-cup-finals.json](./40428-super-cup-finals.json) |
+| Super Cup Football | 142368 | [142368-super-cup-football.json](./142368-super-cup-football.json) |
 | Super Daisenryaku: Map Collection | 381856 | [381856-super-daisenryaku-map-collection.json](./381856-super-daisenryaku-map-collection.json) |
 | Super Dany | 42658 | [42658-super-dany.json](./42658-super-dany.json) |
 | Super Dapper Man vs. Furries | 310215 | [310215-super-dapper-man-vs-furries.json](./310215-super-dapper-man-vs-furries.json) |
@@ -13114,6 +13121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Impostor Bros. | 202379 | [202379-super-impostor-bros.json](./202379-super-impostor-bros.json) |
 | Super Inefficient Golf | 90074 | [90074-super-inefficient-golf.json](./90074-super-inefficient-golf.json) |
 | Super Invaders | 330909 | [330909-super-invaders.json](./330909-super-invaders.json) |
+| Super Is Hot | 142374 | [142374-super-is-hot.json](./142374-super-is-hot.json) |
 | Super Jack | 265965 | [265965-super-jack.json](./265965-super-jack.json) |
 | Super Jack The Ripper | 336895 | [336895-super-jack-the-ripper.json](./336895-super-jack-the-ripper.json) |
 | Super Jacked Up Tomato Face Johnson | 222851 | [222851-super-jacked-up-tomato-face-johnson.json](./222851-super-jacked-up-tomato-face-johnson.json) |
