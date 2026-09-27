@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Kishoutenketsu in the Countryside | 134688 | [134688-a-kishoutenketsu-in-the-countryside.json](./134688-a-kishoutenketsu-in-the-countryside.json) |
 | A Kiss for the Petals - Remembering How We Met | 34585 | [34585-a-kiss-for-the-petals-remembering-how-we-met.json](./34585-a-kiss-for-the-petals-remembering-how-we-met.json) |
 | A Kiss Of Salt Water | 301907 | [301907-a-kiss-of-salt-water.json](./301907-a-kiss-of-salt-water.json) |
+| A Knight Never Yields | 148486 | [148486-a-knight-never-yields.json](./148486-a-knight-never-yields.json) |
 | A Knight's Devotion | 238410 | [238410-a-knights-devotion.json](./238410-a-knights-devotion.json) |
 | A Knight's Life | 197750 | [197750-a-knights-life.json](./197750-a-knights-life.json) |
 | A Knight's Move | 89689 | [89689-a-knights-move.json](./89689-a-knights-move.json) |
@@ -2693,6 +2694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the Dark: The Gates of Hell | 375455 | [375455-alone-in-the-dark-the-gates-of-hell.json](./375455-alone-in-the-dark-the-gates-of-hell.json) |
 | Alone in the Dark: The New Nightmare | 266501 | [266501-alone-in-the-dark-the-new-nightmare.json](./266501-alone-in-the-dark-the-new-nightmare.json) |
 | Alone in the Dark: The New Nightmare | 320336 | [320336-alone-in-the-dark-the-new-nightmare.json](./320336-alone-in-the-dark-the-new-nightmare.json) |
+| Alone in the Dark: The Trilogy 1+2+3 | 148420 | [148420-alone-in-the-dark-the-trilogy-1-2-3.json](./148420-alone-in-the-dark-the-trilogy-1-2-3.json) |
 | Alone in the Dark: Vintage Horror Filter Pack | 336139 | [336139-alone-in-the-dark-vintage-horror-filter-pack.json](./336139-alone-in-the-dark-vintage-horror-filter-pack.json) |
 | Alone in the Grey | 201707 | [201707-alone-in-the-grey.json](./201707-alone-in-the-grey.json) |
 | Alone in the Machine | 363909 | [363909-alone-in-the-machine.json](./363909-alone-in-the-machine.json) |
@@ -5771,6 +5773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asmik-kun World 2 | 7798 | [7798-asmik-kun-world-2.json](./7798-asmik-kun-world-2.json) |
 | Asmodeus | 261748 | [261748-asmodeus.json](./261748-asmodeus.json) |
 | Asmodeus's Hell: Devil in the Sunshine State | 225753 | [225753-asmodeuss-hell-devil-in-the-sunshine-state.json](./225753-asmodeuss-hell-devil-in-the-sunshine-state.json) |
+| ASMR Lightness: Light painting | 148417 | [148417-asmr-lightness-light-painting.json](./148417-asmr-lightness-light-painting.json) |
 | ASMR Pressure Wash VR | 372540 | [372540-asmr-pressure-wash-vr.json](./372540-asmr-pressure-wash-vr.json) |
 | ASMR Slicing | 254179 | [254179-asmr-slicing.json](./254179-asmr-slicing.json) |
 | Asobu Rakugaki | 72690 | [72690-asobu-rakugaki.json](./72690-asobu-rakugaki.json) |
