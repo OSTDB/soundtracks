@@ -983,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo: The World Ends with You x Field Walk RPG | 362436 | [362436-neo-the-world-ends-with-you-x-field-walk-rpg.json](./362436-neo-the-world-ends-with-you-x-field-walk-rpg.json) |
 | Neo's Land | 61632 | [61632-neos-land.json](./61632-neos-land.json) |
 | NeoBalls2 | 83560 | [83560-neoballs2.json](./83560-neoballs2.json) |
+| Neocense | 157060 | [157060-neocense.json](./157060-neocense.json) |
 | NeoCoins | 362268 | [362268-neocoins.json](./362268-neocoins.json) |
 | NeoCube | 55482 | [55482-neocube.json](./55482-neocube.json) |
 | Neodash | 148497 | [148497-neodash.json](./148497-neodash.json) |
@@ -2609,6 +2610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nock: Hidden Arrow | 31389 | [31389-nock-hidden-arrow.json](./31389-nock-hidden-arrow.json) |
 | Nocked! | 174208 | [174208-nocked.json](./174208-nocked.json) |
 | Nocked! True Tales of Robin Hood | 118139 | [118139-nocked-true-tales-of-robin-hood.json](./118139-nocked-true-tales-of-robin-hood.json) |
+| Nocko | 157004 | [157004-nocko.json](./157004-nocko.json) |
 | Noctiria | 409759 | [409759-noctiria.json](./409759-noctiria.json) |
 | Noctropolis | 243766 | [243766-noctropolis.json](./243766-noctropolis.json) |
 | Noctuary | 221395 | [221395-noctuary.json](./221395-noctuary.json) |
