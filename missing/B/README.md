@@ -3948,6 +3948,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue: Continuum Shift II - Manga Edition | 89902 | [89902-blazblue-continuum-shift-ii-manga-edition.json](./89902-blazblue-continuum-shift-ii-manga-edition.json) |
 | BlazBlue: Cross Tag Battle | 51448 | [51448-blazblue-cross-tag-battle.json](./51448-blazblue-cross-tag-battle.json) |
 | BlazBlue: Cross Tag Battle - Additional Character Pack Vol.1 to Vol.7 | 238224 | [238224-blazblue-cross-tag-battle-additional-character-pack-vol-1-to-vol-7.json](./238224-blazblue-cross-tag-battle-additional-character-pack-vol-1-to-vol-7.json) |
+| BlazBlue: Cross Tag Battle - Character Pack Vol. 1: Platinum/Kanji/Orie | 165992 | [165992-blazblue-cross-tag-battle-character-pack-vol-1-platinum-kanji-orie.json](./165992-blazblue-cross-tag-battle-character-pack-vol-1-platinum-kanji-orie.json) |
+| BlazBlue: Cross Tag Battle - Character Pack Vol. 2: Jubei/Aegis/Carmine | 165994 | [165994-blazblue-cross-tag-battle-character-pack-vol-2-jubei-aegis-carmine.json](./165994-blazblue-cross-tag-battle-character-pack-vol-2-jubei-aegis-carmine.json) |
+| BlazBlue: Cross Tag Battle - Character Pack Vol. 3: Hakumen/NaotoShirogane/Vatista | 165991 | [165991-blazblue-cross-tag-battle-character-pack-vol-3-hakumen-naotoshirogane-vatista.json](./165991-blazblue-cross-tag-battle-character-pack-vol-3-hakumen-naotoshirogane-vatista.json) |
+| BlazBlue: Cross Tag Battle - Character Pack Vol. 4: Izayoi/Mitsuru/Merkava | 165993 | [165993-blazblue-cross-tag-battle-character-pack-vol-4-izayoi-mitsuru-merkava.json](./165993-blazblue-cross-tag-battle-character-pack-vol-4-izayoi-mitsuru-merkava.json) |
+| BlazBlue: Cross Tag Battle - Character Pack Vol. 5: Mai/Akihiko/Yuzuriha | 165996 | [165996-blazblue-cross-tag-battle-character-pack-vol-5-mai-akihiko-yuzuriha.json](./165996-blazblue-cross-tag-battle-character-pack-vol-5-mai-akihiko-yuzuriha.json) |
+| BlazBlue: Cross Tag Battle - Character Pack Vol. 6: Nine/Labrys/Mika | 165997 | [165997-blazblue-cross-tag-battle-character-pack-vol-6-nine-labrys-mika.json](./165997-blazblue-cross-tag-battle-character-pack-vol-6-nine-labrys-mika.json) |
+| BlazBlue: Cross Tag Battle - Character Pack Vol. 7: Heart/NaotoKurogane/Teddie/Seth | 165995 | [165995-blazblue-cross-tag-battle-character-pack-vol-7-heart-naotokurogane-teddie-seth.json](./165995-blazblue-cross-tag-battle-character-pack-vol-7-heart-naotokurogane-teddie-seth.json) |
+| BlazBlue: Cross Tag Battle - Character: Blake | 165999 | [165999-blazblue-cross-tag-battle-character-blake.json](./165999-blazblue-cross-tag-battle-character-blake.json) |
+| BlazBlue: Cross Tag Battle - Character: Yang | 165998 | [165998-blazblue-cross-tag-battle-character-yang.json](./165998-blazblue-cross-tag-battle-character-yang.json) |
 | BlazBlue: Cross Tag Battle - Ver 2.0 Expansion Pack | 167318 | [167318-blazblue-cross-tag-battle-ver-2-0-expansion-pack.json](./167318-blazblue-cross-tag-battle-ver-2-0-expansion-pack.json) |
 | BlazBlue: Entropy Effect X | 377236 | [377236-blazblue-entropy-effect-x.json](./377236-blazblue-entropy-effect-x.json) |
 | Blaze and Blade: Eternal Quest | 18249 | [18249-blaze-and-blade-eternal-quest.json](./18249-blaze-and-blade-eternal-quest.json) |
@@ -5331,6 +5340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 2 : Ultimate Vault Hunter Upgrade Pack | 186627 | [186627-borderlands-2-ultimate-vault-hunter-upgrade-pack.json](./186627-borderlands-2-ultimate-vault-hunter-upgrade-pack.json) |
 | Borderlands 2 : Ultimate Vault Hunter Upgrade Pack 2 | 186628 | [186628-borderlands-2-ultimate-vault-hunter-upgrade-pack-2.json](./186628-borderlands-2-ultimate-vault-hunter-upgrade-pack-2.json) |
 | Borderlands 2 VR | 110835 | [110835-borderlands-2-vr.json](./110835-borderlands-2-vr.json) |
+| Borderlands 2 VR: BAMF DLC Pack | 166010 | [166010-borderlands-2-vr-bamf-dlc-pack.json](./166010-borderlands-2-vr-bamf-dlc-pack.json) |
 | Borderlands 2: Commander Lilith and the Fight for Sanctuary | 119267 | [119267-borderlands-2-commander-lilith-and-the-fight-for-sanctuary.json](./119267-borderlands-2-commander-lilith-and-the-fight-for-sanctuary.json) |
 | Borderlands 2: Deluxe Vault Hunter's Edition | 45277 | [45277-borderlands-2-deluxe-vault-hunters-edition.json](./45277-borderlands-2-deluxe-vault-hunters-edition.json) |
 | Borderlands 2: Game of the Year Edition | 47461 | [47461-borderlands-2-game-of-the-year-edition.json](./47461-borderlands-2-game-of-the-year-edition.json) |
