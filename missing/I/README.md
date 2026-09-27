@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Pregnant at 16 | 336639 | [336639-im-pregnant-at-16.json](./336639-im-pregnant-at-16.json) |
 | I'm Scared of My Girlfriend | 247580 | [247580-im-scared-of-my-girlfriend.json](./247580-im-scared-of-my-girlfriend.json) |
 | I'm Still Here | 367039 | [367039-im-still-here.json](./367039-im-still-here.json) |
+| I'm Strongest Legend | 154426 | [154426-im-strongest-legend.json](./154426-im-strongest-legend.json) |
 | I'm Struggling | 375936 | [375936-im-struggling.json](./375936-im-struggling.json) |
 | I'm Surrounded by Classical Beauties! | 296998 | [296998-im-surrounded-by-classical-beauties.json](./296998-im-surrounded-by-classical-beauties.json) |
 | I'm the dirt-for art | 120948 | [120948-im-the-dirt-for-art.json](./120948-im-the-dirt-for-art.json) |
@@ -2356,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible Apartment 2 | 34492 | [34492-invisible-apartment-2.json](./34492-invisible-apartment-2.json) |
 | Invisible Ascent | 406325 | [406325-invisible-ascent.json](./406325-invisible-ascent.json) |
 | Invisible Beasts | 183040 | [183040-invisible-beasts.json](./183040-invisible-beasts.json) |
+| Invisible Cock: They never saw it cumming! | 154453 | [154453-invisible-cock-they-never-saw-it-cumming.json](./154453-invisible-cock-they-never-saw-it-cumming.json) |
 | Invisible Fear | 274498 | [274498-invisible-fear.json](./274498-invisible-fear.json) |
 | Invisible Inc.: Contingency Plan | 68275 | [68275-invisible-inc-contingency-plan.json](./68275-invisible-inc-contingency-plan.json) |
 | Invisible Mind | 32029 | [32029-invisible-mind.json](./32029-invisible-mind.json) |
