@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaunt | 154382 | [154382-jaunt.json](./154382-jaunt.json) |
 | Java Jim in Square Shaped Trouble | 37069 | [37069-java-jim-in-square-shaped-trouble.json](./37069-java-jim-in-square-shaped-trouble.json) |
 | Java Journey | 303589 | [303589-java-journey.json](./303589-java-journey.json) |
+| Java-Klingsburg | 146769 | [146769-java-klingsburg.json](./146769-java-klingsburg.json) |
 | Javaders | 128578 | [128578-javaders.json](./128578-javaders.json) |
 | Javelin | 247047 | [247047-javelin.json](./247047-javelin.json) |
 | Javelin Masters 2 | 344451 | [344451-javelin-masters-2.json](./344451-javelin-masters-2.json) |
@@ -442,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jenny's Fish Shop | 177044 | [177044-jennys-fish-shop.json](./177044-jennys-fish-shop.json) |
 | Jeonsa Ryan | 145590 | [145590-jeonsa-ryan.json](./145590-jeonsa-ryan.json) |
 | Jeopardy! | 131547 | [131547-jeopardy.json](./131547-jeopardy.json) |
+| Jeopardy! | 146802 | [146802-jeopardy.json](./146802-jeopardy.json) |
 | Jeopardy! | 220095 | [220095-jeopardy.json](./220095-jeopardy.json) |
 | Jeopardy! | 28472 | [28472-jeopardy.json](./28472-jeopardy.json) |
 | Jeopardy! | 297599 | [297599-jeopardy.json](./297599-jeopardy.json) |
@@ -674,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Fun 3-in-1 Collection | 197341 | [197341-jigsaw-fun-3-in-1-collection.json](./197341-jigsaw-fun-3-in-1-collection.json) |
 | Jigsaw Fun: 3-in-1 Collection | 196259 | [196259-jigsaw-fun-3-in-1-collection.json](./196259-jigsaw-fun-3-in-1-collection.json) |
 | Jigsaw Fun: Amazing Animals | 175814 | [175814-jigsaw-fun-amazing-animals.json](./175814-jigsaw-fun-amazing-animals.json) |
+| Jigsaw Fun: Piece It Together | 146791 | [146791-jigsaw-fun-piece-it-together.json](./146791-jigsaw-fun-piece-it-together.json) |
 | Jigsaw Fun: Wonderful Nature | 187497 | [187497-jigsaw-fun-wonderful-nature.json](./187497-jigsaw-fun-wonderful-nature.json) |
 | Jigsaw Game 05/06 | 345498 | [345498-jigsaw-game-05-06.json](./345498-jigsaw-game-05-06.json) |
 | Jigsaw Ice Princess | 271272 | [271272-jigsaw-ice-princess.json](./271272-jigsaw-ice-princess.json) |
@@ -1500,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Craft: Dino Hunter | 175350 | [175350-jurassic-craft-dino-hunter.json](./175350-jurassic-craft-dino-hunter.json) |
 | Jurassic Differences | 397780 | [397780-jurassic-differences.json](./397780-jurassic-differences.json) |
 | Jurassic Dinosaur | 252148 | [252148-jurassic-dinosaur.json](./252148-jurassic-dinosaur.json) |
+| Jurassic Excite | 146779 | [146779-jurassic-excite.json](./146779-jurassic-excite.json) |
 | Jurassic Fossil & Mine Exploration Bundle | 401122 | [401122-jurassic-fossil-and-mine-exploration-bundle.json](./401122-jurassic-fossil-and-mine-exploration-bundle.json) |
 | Jurassic Free Fall - Match 3 | 87102 | [87102-jurassic-free-fall-match-3.json](./87102-jurassic-free-fall-match-3.json) |
 | Jurassic Genesis: We Are Aliens | 411586 | [411586-jurassic-genesis-we-are-aliens.json](./411586-jurassic-genesis-we-are-aliens.json) |
