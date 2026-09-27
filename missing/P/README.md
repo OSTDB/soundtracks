@@ -4352,6 +4352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Mine 3 | 77666 | [77666-pocket-mine-3.json](./77666-pocket-mine-3.json) |
 | Pocket Mini Golf | 132027 | [132027-pocket-mini-golf.json](./132027-pocket-mini-golf.json) |
 | Pocket Mirror | 57894 | [57894-pocket-mirror.json](./57894-pocket-mirror.json) |
+| Pocket Monsters Diamond & Pearl: Pokémon wo Sagase! Meiro de Daibouken! | 125325 | [125325-pocket-monsters-diamond-and-pearl-pokemon-wo-sagase-meiro-de-daibouken.json](./125325-pocket-monsters-diamond-and-pearl-pokemon-wo-sagase-meiro-de-daibouken.json) |
 | Pocket Monsters RPG | 130335 | [130335-pocket-monsters-rpg.json](./130335-pocket-monsters-rpg.json) |
 | Pocket Monsters: Suuji wo Tsukamaeyou! | 63849 | [63849-pocket-monsters-suuji-wo-tsukamaeyou.json](./63849-pocket-monsters-suuji-wo-tsukamaeyou.json) |
 | Pocket Music | 98797 | [98797-pocket-music.json](./98797-pocket-music.json) |
@@ -7471,6 +7472,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle & Dragons | 8590 | [8590-puzzle-and-dragons.json](./8590-puzzle-and-dragons.json) |
 | Puzzle & Dragons Nintendo Switch Edition | 191724 | [191724-puzzle-and-dragons-nintendo-switch-edition.json](./191724-puzzle-and-dragons-nintendo-switch-edition.json) |
 | Puzzle & Dragons Story | 279762 | [279762-puzzle-and-dragons-story.json](./279762-puzzle-and-dragons-story.json) |
+| Puzzle & Dragons X: Dragon Chapter | 125345 | [125345-puzzle-and-dragons-x-dragon-chapter.json](./125345-puzzle-and-dragons-x-dragon-chapter.json) |
+| Puzzle & Dragons X: God Chapter | 125344 | [125344-puzzle-and-dragons-x-god-chapter.json](./125344-puzzle-and-dragons-x-god-chapter.json) |
 | Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition | 85357 | [85357-puzzle-and-dragons-z-puzzle-and-dragons-super-mario-bros-edition.json](./85357-puzzle-and-dragons-z-puzzle-and-dragons-super-mario-bros-edition.json) |
 | Puzzle & Glory | 13105 | [13105-puzzle-and-glory.json](./13105-puzzle-and-glory.json) |
 | Puzzle & Maze | 152870 | [152870-puzzle-and-maze.json](./152870-puzzle-and-maze.json) |
