@@ -1900,6 +1900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night&Scape | 237052 | [237052-night-and-scape.json](./237052-night-and-scape.json) |
 | Nightbanes | 9518 | [9518-nightbanes.json](./9518-nightbanes.json) |
 | Nightbird Society | 196309 | [196309-nightbird-society.json](./196309-nightbird-society.json) |
+| Nightbloom | 138110 | [138110-nightbloom.json](./138110-nightbloom.json) |
 | Nightboarder | 179031 | [179031-nightboarder.json](./179031-nightboarder.json) |
 | NightCaster II: Equinox | 5970 | [5970-nightcaster-ii-equinox.json](./5970-nightcaster-ii-equinox.json) |
 | Nightclub 69: Bunny Girls | 367032 | [367032-nightclub-69-bunny-girls.json](./367032-nightclub-69-bunny-girls.json) |
@@ -2298,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninpuchi! Cryptoninja Petit | 333933 | [333933-ninpuchi-cryptoninja-petit.json](./333933-ninpuchi-cryptoninja-petit.json) |
 | Ninshi Masuta | 131617 | [131617-ninshi-masuta.json](./131617-ninshi-masuta.json) |
 | Nintama Rantarou | 37741 | [37741-nintama-rantarou.json](./37741-nintama-rantarou.json) |
+| Nintama Rantarou GB | 138095 | [138095-nintama-rantarou-gb.json](./138095-nintama-rantarou-gb.json) |
 | Nintama Rantarou GB: E-awase Challenge Puzzle | 97862 | [97862-nintama-rantarou-gb-e-awase-challenge-puzzle.json](./97862-nintama-rantarou-gb-e-awase-challenge-puzzle.json) |
 | Nintama Rantarou Mugen no Tsubo Daibousou no Dan | 227251 | [227251-nintama-rantarou-mugen-no-tsubo-daibousou-no-dan.json](./227251-nintama-rantarou-mugen-no-tsubo-daibousou-no-dan.json) |
 | Nintendo 3DS Sound: Soccer | 250320 | [250320-nintendo-3ds-sound-soccer.json](./250320-nintendo-3ds-sound-soccer.json) |
