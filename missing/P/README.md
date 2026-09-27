@@ -5236,6 +5236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop-Pop | 146186 | [146186-pop-pop.json](./146186-pop-pop.json) |
 | Pop-up Fox | 101471 | [101471-pop-up-fox.json](./101471-pop-up-fox.json) |
 | Pop-Up Pilgrims | 90094 | [90094-pop-up-pilgrims.json](./90094-pop-up-pilgrims.json) |
+| Pop! | 122281 | [122281-pop.json](./122281-pop.json) |
 | Pop! Slots | 370752 | [370752-pop-slots.json](./370752-pop-slots.json) |
 | Pop'n music | 186652 | [186652-popn-music.json](./186652-popn-music.json) |
 | Pop'n Music | 281400 | [281400-popn-music.json](./281400-popn-music.json) |
@@ -5539,6 +5540,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pounce and the Twin Trees | 295349 | [295349-pounce-and-the-twin-trees.json](./295349-pounce-and-the-twin-trees.json) |
 | Pounce Cat | 212766 | [212766-pounce-cat.json](./212766-pounce-cat.json) |
 | Pound For Pound | 40400 | [40400-pound-for-pound.json](./40400-pound-for-pound.json) |
+| Poupée Girl DS | 122303 | [122303-poupee-girl-ds.json](./122303-poupee-girl-ds.json) |
+| Poupée Girl DS 2: Elegant Mint Style | 122302 | [122302-poupee-girl-ds-2-elegant-mint-style.json](./122302-poupee-girl-ds-2-elegant-mint-style.json) |
 | Pour Boy and the Nitro Necromancer | 400895 | [400895-pour-boy-and-the-nitro-necromancer.json](./400895-pour-boy-and-the-nitro-necromancer.json) |
 | Pour Quelques Bonbons... | 320994 | [320994-pour-quelques-bonbons.json](./320994-pour-quelques-bonbons.json) |
 | Pour There | 155994 | [155994-pour-there.json](./155994-pour-there.json) |
@@ -5676,6 +5679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Up | 94571 | [94571-power-up.json](./94571-power-up.json) |
 | Power Ups that Kill! | 51165 | [51165-power-ups-that-kill.json](./51165-power-ups-that-kill.json) |
 | Power, Corruption & Lies | 57646 | [57646-power-corruption-and-lies.json](./57646-power-corruption-and-lies.json) |
+| Power: The Game | 122275 | [122275-power-the-game.json](./122275-power-the-game.json) |
 | Powerama | 60582 | [60582-powerama.json](./60582-powerama.json) |
 | Powerball: Monster's Quest | 329697 | [329697-powerball-monsters-quest.json](./329697-powerball-monsters-quest.json) |
 | PowerBeatsVR | 113557 | [113557-powerbeatsvr.json](./113557-powerbeatsvr.json) |
@@ -6076,6 +6080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prinny Presents NIS Classics Volumes 1-3 Bundle | 234638 | [234638-prinny-presents-nis-classics-volumes-1-3-bundle.json](./234638-prinny-presents-nis-classics-volumes-1-3-bundle.json) |
 | Prinny Presents: NIS Classics Vol 1 - Deluxe Edition | 148545 | [148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json](./148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json) |
 | Prinny Presents: NIS Classics Vol 3 | 194961 | [194961-prinny-presents-nis-classics-vol-3.json](./194961-prinny-presents-nis-classics-vol-3.json) |
+| Prinsess of Da Hell | 122305 | [122305-prinsess-of-da-hell.json](./122305-prinsess-of-da-hell.json) |
 | Print Gallery of an Artist | 399606 | [399606-print-gallery-of-an-artist.json](./399606-print-gallery-of-an-artist.json) |
 | Prinzessin Lillifee Puzzle: Echter Puzzlespass für Unterwegs | 252669 | [252669-prinzessin-lillifee-puzzle-echter-puzzlespass-fur-unterwegs.json](./252669-prinzessin-lillifee-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | Priority Realignment | 234900 | [234900-priority-realignment.json](./234900-priority-realignment.json) |
