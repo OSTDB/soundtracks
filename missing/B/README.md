@@ -4599,6 +4599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Heaven | 263995 | [263995-bloody-heaven.json](./263995-bloody-heaven.json) |
 | Bloody Heck | 261548 | [261548-bloody-heck.json](./261548-bloody-heck.json) |
 | Bloody Layne | 174794 | [174794-bloody-layne.json](./174794-bloody-layne.json) |
+| Bloody Merc | 152814 | [152814-bloody-merc.json](./152814-bloody-merc.json) |
 | Bloody Roar 2 | 4140 | [4140-bloody-roar-2.json](./4140-bloody-roar-2.json) |
 | Bloody Roar 3 | 3824 | [3824-bloody-roar-3.json](./3824-bloody-roar-3.json) |
 | Bloody Sky | 312153 | [312153-bloody-sky.json](./312153-bloody-sky.json) |
@@ -6427,6 +6428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broke Signal Badlands: A World of Desert Adventure | 280292 | [280292-broke-signal-badlands-a-world-of-desert-adventure.json](./280292-broke-signal-badlands-a-world-of-desert-adventure.json) |
 | Broken Armor | 31900 | [31900-broken-armor.json](./31900-broken-armor.json) |
 | Broken Banners | 192839 | [192839-broken-banners.json](./192839-broken-banners.json) |
+| Broken Blades | 152787 | [152787-broken-blades.json](./152787-broken-blades.json) |
 | Broken Boughs | 218993 | [218993-broken-boughs.json](./218993-broken-boughs.json) |
 | Broken Build Simulator | 217415 | [217415-broken-build-simulator.json](./217415-broken-build-simulator.json) |
 | Broken Cavalier | 214052 | [214052-broken-cavalier.json](./214052-broken-cavalier.json) |
