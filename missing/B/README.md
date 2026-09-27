@@ -7321,6 +7321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bushido Saga: Nightmare of the Samurai | 260375 | [260375-bushido-saga-nightmare-of-the-samurai.json](./260375-bushido-saga-nightmare-of-the-samurai.json) |
 | Bushido: The Way of the Warrior | 41008 | [41008-bushido-the-way-of-the-warrior.json](./41008-bushido-the-way-of-the-warrior.json) |
 | Business 98 | 391200 | [391200-business-98.json](./391200-business-98.json) |
+| Business Boardwalk | 146812 | [146812-business-boardwalk.json](./146812-business-boardwalk.json) |
 | Business Empire Tycoon | 309489 | [309489-business-empire-tycoon.json](./309489-business-empire-tycoon.json) |
 | Business Empire: RichMan | 280220 | [280220-business-empire-richman.json](./280220-business-empire-richman.json) |
 | Business Magnate | 112754 | [112754-business-magnate.json](./112754-business-magnate.json) |
