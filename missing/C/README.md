@@ -2524,6 +2524,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check In, Knock Out | 59936 | [59936-check-in-knock-out.json](./59936-check-in-knock-out.json) |
 | Check it Out! | 196918 | [196918-check-it-out.json](./196918-check-it-out.json) |
 | Check Man | 39609 | [39609-check-man.json](./39609-check-man.json) |
+| Check vs. Mate: Dark Desert DLC | 142983 | [142983-check-vs-mate-dark-desert-dlc.json](./142983-check-vs-mate-dark-desert-dlc.json) |
+| Check vs. Mate: Floating Island DLC | 142984 | [142984-check-vs-mate-floating-island-dlc.json](./142984-check-vs-mate-floating-island-dlc.json) |
 | Check-In Chaos | 410448 | [410448-check-in-chaos.json](./410448-check-in-chaos.json) |
 | Checkered Flag | 40815 | [40815-checkered-flag.json](./40815-checkered-flag.json) |
 | Checkers | 131515 | [131515-checkers.json](./131515-checkers.json) |
@@ -3223,6 +3225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choujin Baseball Stadium: Nekketsu Story | 222398 | [222398-choujin-baseball-stadium-nekketsu-story.json](./222398-choujin-baseball-stadium-nekketsu-story.json) |
 | Choujin Heiki Zeroigar | 45960 | [45960-choujin-heiki-zeroigar.json](./45960-choujin-heiki-zeroigar.json) |
 | Choujin Sentai Jetman | 318559 | [318559-choujin-sentai-jetman.json](./318559-choujin-sentai-jetman.json) |
+| Chouon RPG: Ushinawareta Ototoi Mura | 142962 | [142962-chouon-rpg-ushinawareta-ototoi-mura.json](./142962-chouon-rpg-ushinawareta-ototoi-mura.json) |
 | Chousenshi Densetsu: Assault from the Sea | 62189 | [62189-chousenshi-densetsu-assault-from-the-sea.json](./62189-chousenshi-densetsu-assault-from-the-sea.json) |
 | Chousentou Kyuugi: The Ultimate Ballgame Van Borg | 135674 | [135674-chousentou-kyuugi-the-ultimate-ballgame-van-borg.json](./135674-chousentou-kyuugi-the-ultimate-ballgame-van-borg.json) |
 | Chousoku Henkei Gyrozetter: Albatross no Tsubasa | 59970 | [59970-chousoku-henkei-gyrozetter-albatross-no-tsubasa.json](./59970-chousoku-henkei-gyrozetter-albatross-no-tsubasa.json) |
@@ -6223,6 +6226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Count on Me | 176511 | [176511-count-on-me.json](./176511-count-on-me.json) |
 | Count to Ten: Supporter Edition | 310385 | [310385-count-to-ten-supporter-edition.json](./310385-count-to-ten-supporter-edition.json) |
 | Count your Clones | 413889 | [413889-count-your-clones.json](./413889-count-your-clones.json) |
+| Countdown | 142936 | [142936-countdown.json](./142936-countdown.json) |
 | Countdown | 319236 | [319236-countdown.json](./319236-countdown.json) |
 | Countdown | 95417 | [95417-countdown.json](./95417-countdown.json) |
 | CountDown | 336629 | [336629-countdown.json](./336629-countdown.json) |
@@ -6519,6 +6523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft Tower | 224213 | [224213-craft-tower.json](./224213-craft-tower.json) |
 | Craft Warriors | 99109 | [99109-craft-warriors.json](./99109-craft-warriors.json) |
 | Craft Your Way | 370804 | [370804-craft-your-way.json](./370804-craft-your-way.json) |
+| Craft: The Vicious Vikings | 142982 | [142982-craft-the-vicious-vikings.json](./142982-craft-the-vicious-vikings.json) |
 | Craft. Sell. Goblin. Repeat. | 374665 | [374665-craft-sell-goblin-repeat.json](./374665-craft-sell-goblin-repeat.json) |
 | Craftaway | 355032 | [355032-craftaway.json](./355032-craftaway.json) |
 | CraftCraft: Fantasy Merchant Simulator | 249178 | [249178-craftcraft-fantasy-merchant-simulator.json](./249178-craftcraft-fantasy-merchant-simulator.json) |
