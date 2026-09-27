@@ -3914,6 +3914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetes | 184628 | [184628-planetes.json](./184628-planetes.json) |
 | PlanetExplorerVR | 101566 | [101566-planetexplorervr.json](./101566-planetexplorervr.json) |
 | Planetfall | 12620 | [12620-planetfall.json](./12620-planetfall.json) |
+| PlanetFriend | 133879 | [133879-planetfriend.json](./133879-planetfriend.json) |
 | Planetgore | 255139 | [255139-planetgore.json](./255139-planetgore.json) |
 | Planetoid | 13747 | [13747-planetoid.json](./13747-planetoid.json) |
 | Planetoid | 330907 | [330907-planetoid.json](./330907-planetoid.json) |
