@@ -1746,6 +1746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cathulhu Detective | 193978 | [193978-cathulhu-detective.json](./193978-cathulhu-detective.json) |
 | Catify VR | 104799 | [104799-catify-vr.json](./104799-catify-vr.json) |
 | Catjong 3: Purrl of the East | 393825 | [393825-catjong-3-purrl-of-the-east.json](./393825-catjong-3-purrl-of-the-east.json) |
+| Catlateral Damage: VR | 170315 | [170315-catlateral-damage-vr.json](./170315-catlateral-damage-vr.json) |
 | Catloons | 240204 | [240204-catloons.json](./240204-catloons.json) |
 | Catly | 325592 | [325592-catly.json](./325592-catly.json) |
 | Catmageddon | 152882 | [152882-catmageddon.json](./152882-catmageddon.json) |
@@ -7148,6 +7149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossedland | 207501 | [207501-crossedland.json](./207501-crossedland.json) |
 | CrossFire | 267638 | [267638-crossfire.json](./267638-crossfire.json) |
 | Crossfire 2 | 76994 | [76994-crossfire-2.json](./76994-crossfire-2.json) |
+| Crossfire II | 170284 | [170284-crossfire-ii.json](./170284-crossfire-ii.json) |
 | Crossfire Zombie Survivor | 233457 | [233457-crossfire-zombie-survivor.json](./233457-crossfire-zombie-survivor.json) |
 | CrossFire: Legends | 102759 | [102759-crossfire-legends.json](./102759-crossfire-legends.json) |
 | Crossfire: The Multiplayer Adventure Game | 171544 | [171544-crossfire-the-multiplayer-adventure-game.json](./171544-crossfire-the-multiplayer-adventure-game.json) |
