@@ -1005,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiki & Ana - The Child | 144812 | [144812-kiki-and-ana-the-child.json](./144812-kiki-and-ana-the-child.json) |
 | Kiki's Adventure | 125462 | [125462-kikis-adventure.json](./125462-kikis-adventure.json) |
 | Kiki's Vacation | 192195 | [192195-kikis-vacation.json](./192195-kikis-vacation.json) |
+| KikiMimi2 | 123511 | [123511-kikimimi2.json](./123511-kikimimi2.json) |
 | Kiko's Apple Adventure | 336635 | [336635-kikos-apple-adventure.json](./336635-kikos-apple-adventure.json) |
 | Kikokugai | 232662 | [232662-kikokugai.json](./232662-kikokugai.json) |
 | Kikou Seiki Unitron | 43969 | [43969-kikou-seiki-unitron.json](./43969-kikou-seiki-unitron.json) |
@@ -1282,6 +1283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Drop | 245052 | [245052-king-of-drop.json](./245052-king-of-drop.json) |
 | King of Fighters 2002: 3rd Strike of the Orochi | 205791 | [205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json](./205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json) |
 | King of Football | 67980 | [67980-king-of-football.json](./67980-king-of-football.json) |
+| King of Halloween | 123503 | [123503-king-of-halloween.json](./123503-king-of-halloween.json) |
 | King of Hell | 298671 | [298671-king-of-hell.json](./298671-king-of-hell.json) |
 | King of Kalimpong | 203312 | [203312-king-of-kalimpong.json](./203312-king-of-kalimpong.json) |
 | King of Karts | 88306 | [88306-king-of-karts.json](./88306-king-of-karts.json) |
