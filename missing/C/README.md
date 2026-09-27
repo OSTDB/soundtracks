@@ -2478,6 +2478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chased Around the World | 211963 | [211963-chased-around-the-world.json](./211963-chased-around-the-world.json) |
 | Chaseway | 179586 | [179586-chaseway.json](./179586-chaseway.json) |
 | Chasing Bottaflies | 286567 | [286567-chasing-bottaflies.json](./286567-chasing-bottaflies.json) |
+| Chasing Demons | 150553 | [150553-chasing-demons.json](./150553-chasing-demons.json) |
 | Chasing Kaleidorider | 343321 | [343321-chasing-kaleidorider.json](./343321-chasing-kaleidorider.json) |
 | Chasing Tail | 160240 | [160240-chasing-tail.json](./160240-chasing-tail.json) |
 | Chasing the Universe | 367524 | [367524-chasing-the-universe.json](./367524-chasing-the-universe.json) |
@@ -2887,6 +2888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiki-chiki Machine Mou Race: Kenken to Black Maou no Ijiwaru Daisakusen | 245250 | [245250-chiki-chiki-machine-mou-race-kenken-to-black-maou-no-ijiwaru-daisakusen.json](./245250-chiki-chiki-machine-mou-race-kenken-to-black-maou-no-ijiwaru-daisakusen.json) |
 | Chikn Nuggit Nightmare Fwiends | 275929 | [275929-chikn-nuggit-nightmare-fwiends.json](./275929-chikn-nuggit-nightmare-fwiends.json) |
 | Chiko-chan no Noukatsu Kenkyuujo | 251520 | [251520-chiko-chan-no-noukatsu-kenkyuujo.json](./251520-chiko-chan-no-noukatsu-kenkyuujo.json) |
+| Chikoku no Mokushiroku | 150555 | [150555-chikoku-no-mokushiroku.json](./150555-chikoku-no-mokushiroku.json) |
 | Chikoku no Mokushiroku: Ver.2.00 | 302957 | [302957-chikoku-no-mokushiroku-ver-2-00.json](./302957-chikoku-no-mokushiroku-ver-2-00.json) |
 | Chiku Chiku Beach | 22462 | [22462-chiku-chiku-beach.json](./22462-chiku-chiku-beach.json) |
 | Chikudenya Toubee | 42039 | [42039-chikudenya-toubee.json](./42039-chikudenya-toubee.json) |
