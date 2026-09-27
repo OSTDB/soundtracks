@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rageball League | 174754 | [174754-rageball-league.json](./174754-rageball-league.json) |
 | RageFall | 391191 | [391191-ragefall.json](./391191-ragefall.json) |
 | Raggie Run | 202130 | [202130-raggie-run.json](./202130-raggie-run.json) |
+| Raging Ball | 157511 | [157511-raging-ball.json](./157511-raging-ball.json) |
 | Raging Blades | 43324 | [43324-raging-blades.json](./43324-raging-blades.json) |
 | Raging Bytes | 246079 | [246079-raging-bytes.json](./246079-raging-bytes.json) |
 | Raging Fists: Retribution | 166723 | [166723-raging-fists-retribution.json](./166723-raging-fists-retribution.json) |
@@ -2190,6 +2191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rengoku | 325284 | [325284-rengoku.json](./325284-rengoku.json) |
 | Rengoku II: The Stairway to H.E.A.V.E.N. | 24185 | [24185-rengoku-ii-the-stairway-to-h-e-a-v-e-n.json](./24185-rengoku-ii-the-stairway-to-h-e-a-v-e-n.json) |
 | Renny Blaster | 42008 | [42008-renny-blaster.json](./42008-renny-blaster.json) |
+| Renovation Products Collection 1 | 157521 | [157521-renovation-products-collection-1.json](./157521-renovation-products-collection-1.json) |
 | Renowned Explorers: Definitive Edition | 124777 | [124777-renowned-explorers-definitive-edition.json](./124777-renowned-explorers-definitive-edition.json) |
 | Renshin no Astral | 196601 | [196601-renshin-no-astral.json](./196601-renshin-no-astral.json) |
 | Rent a Girl | 350491 | [350491-rent-a-girl.json](./350491-rent-a-girl.json) |
@@ -3807,6 +3809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Dinosaurs That Shoot Beams When They Roar | 378445 | [378445-robot-dinosaurs-that-shoot-beams-when-they-roar.json](./378445-robot-dinosaurs-that-shoot-beams-when-they-roar.json) |
 | Robot Dir | 249768 | [249768-robot-dir.json](./249768-robot-dir.json) |
 | Robot Female Hero 2 | 120939 | [120939-robot-female-hero-2.json](./120939-robot-female-hero-2.json) |
+| Robot Female Hero 3 | 157508 | [157508-robot-female-hero-3.json](./157508-robot-female-hero-3.json) |
 | Robot Fighter: Epic Battles | 378407 | [378407-robot-fighter-epic-battles.json](./378407-robot-fighter-epic-battles.json) |
 | Robot Hunt | 324661 | [324661-robot-hunt.json](./324661-robot-hunt.json) |
 | Robot King Part I: Rebooted and Ready | 72383 | [72383-robot-king-part-i-rebooted-and-ready.json](./72383-robot-king-part-i-rebooted-and-ready.json) |
@@ -4322,6 +4325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roids | 264564 | [264564-roids.json](./264564-roids.json) |
 | Rojiura Satsuki: Chapter Heroine Sanctuary | 225654 | [225654-rojiura-satsuki-chapter-heroine-sanctuary.json](./225654-rojiura-satsuki-chapter-heroine-sanctuary.json) |
 | Roka Blocks Game - Fun & Hexagon Puzzle | 57690 | [57690-roka-blocks-game-fun-and-hexagon-puzzle.json](./57690-roka-blocks-game-fun-and-hexagon-puzzle.json) |
+| Rokka | 157492 | [157492-rokka.json](./157492-rokka.json) |
 | Rokko Chan | 93510 | [93510-rokko-chan.json](./93510-rokko-chan.json) |
 | Roko-Loko no Castelo do Ratozinger Remix | 78042 | [78042-roko-loko-no-castelo-do-ratozinger-remix.json](./78042-roko-loko-no-castelo-do-ratozinger-remix.json) |
 | Roku and Rei | 303007 | [303007-roku-and-rei.json](./303007-roku-and-rei.json) |
@@ -5389,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Fishing | 345561 | [345561-russian-fishing.json](./345561-russian-fishing.json) |
 | Russian Gangsta in Hell | 99063 | [99063-russian-gangsta-in-hell.json](./99063-russian-gangsta-in-hell.json) |
 | Russian Life Simulator | 118022 | [118022-russian-life-simulator.json](./118022-russian-life-simulator.json) |
+| Russian Mailman Simulator | 157496 | [157496-russian-mailman-simulator.json](./157496-russian-mailman-simulator.json) |
 | Russian Pawn Store | 211749 | [211749-russian-pawn-store.json](./211749-russian-pawn-store.json) |
 | Russian Peace Duck: Take My Nalogi | 96614 | [96614-russian-peace-duck-take-my-nalogi.json](./96614-russian-peace-duck-take-my-nalogi.json) |
 | Russian Prisoner VS Nazi Zombies | 90177 | [90177-russian-prisoner-vs-nazi-zombies.json](./90177-russian-prisoner-vs-nazi-zombies.json) |
