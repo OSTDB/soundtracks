@@ -879,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Mechanic Simulator: Shermans DLC | 387695 | [387695-tank-mechanic-simulator-shermans-dlc.json](./387695-tank-mechanic-simulator-shermans-dlc.json) |
 | Tank Nova | 119790 | [119790-tank-nova.json](./119790-tank-nova.json) |
 | Tank Odyssey | 414550 | [414550-tank-odyssey.json](./414550-tank-odyssey.json) |
+| Tank Off | 137554 | [137554-tank-off.json](./137554-tank-off.json) |
 | Tank Onslaught | 147811 | [147811-tank-onslaught.json](./147811-tank-onslaught.json) |
 | Tank Operations: Diary of the War | 342845 | [342845-tank-operations-diary-of-the-war.json](./342845-tank-operations-diary-of-the-war.json) |
 | Tank POV | 402526 | [402526-tank-pov.json](./402526-tank-pov.json) |
