@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OliVR | 240769 | [240769-olivr.json](./240769-olivr.json) |
 | Ollam House | 128628 | [128628-ollam-house.json](./128628-ollam-house.json) |
 | Olli & Lissa 3: The Candlelight Adventure | 70920 | [70920-olli-and-lissa-3-the-candlelight-adventure.json](./70920-olli-and-lissa-3-the-candlelight-adventure.json) |
+| Ollie & Bollie: Outdoor Estate | 129660 | [129660-ollie-and-bollie-outdoor-estate.json](./129660-ollie-and-bollie-outdoor-estate.json) |
 | Ollie Ollie Oxen Free | 60010 | [60010-ollie-ollie-oxen-free.json](./60010-ollie-ollie-oxen-free.json) |
 | Olliefrog Toad Skater | 204522 | [204522-olliefrog-toad-skater.json](./204522-olliefrog-toad-skater.json) |
 | OlliOlli World: Close Encounter Skate Deck | 353282 | [353282-olliolli-world-close-encounter-skate-deck.json](./353282-olliolli-world-close-encounter-skate-deck.json) |
