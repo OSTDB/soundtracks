@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncanny Islands | 81787 | [81787-uncanny-islands.json](./81787-uncanny-islands.json) |
 | Uncanyon | 416106 | [416106-uncanyon.json](./416106-uncanyon.json) |
 | Uncensor Quest | 261773 | [261773-uncensor-quest.json](./261773-uncensor-quest.json) |
+| Unchained | 130262 | [130262-unchained.json](./130262-unchained.json) |
 | Unchained | 178075 | [178075-unchained.json](./178075-unchained.json) |
 | Uncharted 2: Among Thieves: Drake's Fortune Multiplayer Pack | 252107 | [252107-uncharted-2-among-thieves-drakes-fortune-multiplayer-pack.json](./252107-uncharted-2-among-thieves-drakes-fortune-multiplayer-pack.json) |
 | Uncharted 2: Among Thieves: Siege Expansion Pack | 252114 | [252114-uncharted-2-among-thieves-siege-expansion-pack.json](./252114-uncharted-2-among-thieves-siege-expansion-pack.json) |
@@ -1344,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up All Night: Rumination | 225305 | [225305-up-all-night-rumination.json](./225305-up-all-night-rumination.json) |
 | Up Down Z | 136235 | [136235-up-down-z.json](./136235-up-down-z.json) |
 | Up for Grabs | 268025 | [268025-up-for-grabs.json](./268025-up-for-grabs.json) |
+| Up on the Rooftop | 130235 | [130235-up-on-the-rooftop.json](./130235-up-on-the-rooftop.json) |
 | Up or Fall | 343243 | [343243-up-or-fall.json](./343243-up-or-fall.json) |
 | Up or Out | 105317 | [105317-up-or-out.json](./105317-up-or-out.json) |
 | Up Periscope | 138104 | [138104-up-periscope.json](./138104-up-periscope.json) |
