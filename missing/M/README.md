@@ -2900,6 +2900,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot 3 Kabuto Version | 55140 | [55140-medarot-3-kabuto-version.json](./55140-medarot-3-kabuto-version.json) |
 | Medarot 3 Kuwagata Version | 76575 | [76575-medarot-3-kuwagata-version.json](./76575-medarot-3-kuwagata-version.json) |
 | Medarot 3 Parts Collection: Z Kara no Chousenjou | 92536 | [92536-medarot-3-parts-collection-z-kara-no-chousenjou.json](./92536-medarot-3-parts-collection-z-kara-no-chousenjou.json) |
+| Medarot 7: Kabuto Version | 138121 | [138121-medarot-7-kabuto-version.json](./138121-medarot-7-kabuto-version.json) |
+| Medarot 8: Kabuto Version | 138117 | [138117-medarot-8-kabuto-version.json](./138117-medarot-8-kabuto-version.json) |
 | Medarot 9 Kabuto/Kuwagata | 59661 | [59661-medarot-9-kabuto-kuwagata.json](./59661-medarot-9-kabuto-kuwagata.json) |
 | Medarot Classics Plus Kabuto Version | 136832 | [136832-medarot-classics-plus-kabuto-version.json](./136832-medarot-classics-plus-kabuto-version.json) |
 | Medarot DS: Kabuto Version | 67687 | [67687-medarot-ds-kabuto-version.json](./67687-medarot-ds-kabuto-version.json) |
@@ -5718,6 +5720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mister Fruit Joy | 137676 | [137676-mister-fruit-joy.json](./137676-mister-fruit-joy.json) |
 | Mister Furry | 236788 | [236788-mister-furry.json](./236788-mister-furry.json) |
 | Mister Gato Idle: The Meowsiah | 348250 | [348250-mister-gato-idle-the-meowsiah.json](./348250-mister-gato-idle-the-meowsiah.json) |
+| Mister Rogers' Neighborhood | 138092 | [138092-mister-rogers-neighborhood.json](./138092-mister-rogers-neighborhood.json) |
 | Mister Slime | 21377 | [21377-mister-slime.json](./21377-mister-slime.json) |
 | Mister Smith & His Adventures | 255039 | [255039-mister-smith-and-his-adventures.json](./255039-mister-smith-and-his-adventures.json) |
 | Mister Universe | 153428 | [153428-mister-universe.json](./153428-mister-universe.json) |
