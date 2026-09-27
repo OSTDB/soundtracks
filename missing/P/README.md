@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pact With a Demon | 345105 | [345105-pact-with-a-demon.json](./345105-pact-with-a-demon.json) |
 | Pact With a Witch | 118350 | [118350-pact-with-a-witch.json](./118350-pact-with-a-witch.json) |
 | PacWorm | 25140 | [25140-pacworm.json](./25140-pacworm.json) |
+| Pacz!: Pacmanworlds 2 | 141732 | [141732-pacz-pacmanworlds-2.json](./141732-pacz-pacmanworlds-2.json) |
 | Pad of Time | 194983 | [194983-pad-of-time.json](./194983-pad-of-time.json) |
 | Pad Quad | 376144 | [376144-pad-quad.json](./376144-pad-quad.json) |
 | Paddington Run | 83249 | [83249-paddington-run.json](./83249-paddington-run.json) |
@@ -2779,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piko-piko Kiritan Island | 204730 | [204730-piko-piko-kiritan-island.json](./204730-piko-piko-kiritan-island.json) |
 | Piko-piko: Koisuru Kimochi no Nemuru Basho | 201834 | [201834-piko-piko-koisuru-kimochi-no-nemuru-basho.json](./201834-piko-piko-koisuru-kimochi-no-nemuru-basho.json) |
 | Piko-Taro Official: Ppap Run! | 56778 | [56778-piko-taro-official-ppap-run.json](./56778-piko-taro-official-ppap-run.json) |
+| Pikot: Stream Chat Games | 141738 | [141738-pikot-stream-chat-games.json](./141738-pikot-stream-chat-games.json) |
 | Piksels | 225287 | [225287-piksels.json](./225287-piksels.json) |
 | Pikubo | 302681 | [302681-pikubo.json](./302681-pikubo.json) |
 | Pikuniku: Collector's Edition | 154528 | [154528-pikuniku-collectors-edition.json](./154528-pikuniku-collectors-edition.json) |
@@ -3833,6 +3835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Modular Tower Defense. Sci-Fi TD Strategy | 126597 | [126597-planet-modular-tower-defense-sci-fi-td-strategy.json](./126597-planet-modular-tower-defense-sci-fi-td-strategy.json) |
 | Planet Monsters | 49359 | [49359-planet-monsters.json](./49359-planet-monsters.json) |
 | Planet Nine | 113694 | [113694-planet-nine.json](./113694-planet-nine.json) |
+| Planet of a Poisoned Past | 141750 | [141750-planet-of-a-poisoned-past.json](./141750-planet-of-a-poisoned-past.json) |
 | Planet of Blood Thirsty Santa | 125261 | [125261-planet-of-blood-thirsty-santa.json](./125261-planet-of-blood-thirsty-santa.json) |
 | Planet of Carrots | 311254 | [311254-planet-of-carrots.json](./311254-planet-of-carrots.json) |
 | Planet of Cartmans 2 | 175902 | [175902-planet-of-cartmans-2.json](./175902-planet-of-cartmans-2.json) |
@@ -7670,6 +7673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyrus: Alle Tiders Familiespil | 129813 | [129813-pyrus-alle-tiders-familiespil.json](./129813-pyrus-alle-tiders-familiespil.json) |
 | Pyrus: Alletiders Jul | 129780 | [129780-pyrus-alletiders-jul.json](./129780-pyrus-alletiders-jul.json) |
 | Pyschotic Adventures | 53485 | [53485-pyschotic-adventures.json](./53485-pyschotic-adventures.json) |
+| PySol Fan Club Edition | 141728 | [141728-pysol-fan-club-edition.json](./141728-pysol-fan-club-edition.json) |
 | Pythagorea 60° | 309096 | [309096-pythagorea-60.json](./309096-pythagorea-60.json) |
 | Pythian | 163922 | [163922-pythian.json](./163922-pythian.json) |
 | Pytho's Mask | 60016 | [60016-pythos-mask.json](./60016-pythos-mask.json) |
