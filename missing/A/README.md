@@ -3122,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amidakuji Knight | 214024 | [214024-amidakuji-knight.json](./214024-amidakuji-knight.json) |
 | Amidar | 11116 | [11116-amidar.json](./11116-amidar.json) |
 | Amidar | 304189 | [304189-amidar.json](./304189-amidar.json) |
+| Amidst the Darkness | 160129 | [160129-amidst-the-darkness.json](./160129-amidst-the-darkness.json) |
 | Amidst The Haze | 278677 | [278677-amidst-the-haze.json](./278677-amidst-the-haze.json) |
 | Amiga CD Football | 39037 | [39037-amiga-cd-football.json](./39037-amiga-cd-football.json) |
 | Amiga Classix 3 | 70939 | [70939-amiga-classix-3.json](./70939-amiga-classix-3.json) |
@@ -5858,6 +5859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assembloids 2600 | 321557 | [321557-assembloids-2600.json](./321557-assembloids-2600.json) |
 | Assembly Line | 65756 | [65756-assembly-line.json](./65756-assembly-line.json) |
 | Assembly Line 2: Mobile Version | 277015 | [277015-assembly-line-2-mobile-version.json](./277015-assembly-line-2-mobile-version.json) |
+| Assembly Planter | 160176 | [160176-assembly-planter.json](./160176-assembly-planter.json) |
 | Assembly Required | 96496 | [96496-assembly-required.json](./96496-assembly-required.json) |
 | Assenizator | 355116 | [355116-assenizator.json](./355116-assenizator.json) |
 | Assetto Corsa | 5597 | [5597-assetto-corsa.json](./5597-assetto-corsa.json) |
@@ -7042,6 +7044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azuran Tales: Trials | 99165 | [99165-azuran-tales-trials.json](./99165-azuran-tales-trials.json) |
 | Azure | 150658 | [150658-azure.json](./150658-azure.json) |
 | Azure Be Gone | 322396 | [322396-azure-be-gone.json](./322396-azure-be-gone.json) |
+| Azure Domain | 160162 | [160162-azure-domain.json](./160162-azure-domain.json) |
 | Azure Dreams | 6545 | [6545-azure-dreams.json](./6545-azure-dreams.json) |
 | Azure Flame | 333179 | [333179-azure-flame.json](./333179-azure-flame.json) |
 | Azure Hue | 336553 | [336553-azure-hue.json](./336553-azure-hue.json) |
