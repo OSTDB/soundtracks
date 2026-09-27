@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiwan 2013 | 291988 | [291988-taiwan-2013.json](./291988-taiwan-2013.json) |
 | Taiwan Coolfox | 351603 | [351603-taiwan-coolfox.json](./351603-taiwan-coolfox.json) |
 | Taiwan Mahjong | 334658 | [334658-taiwan-mahjong.json](./334658-taiwan-mahjong.json) |
+| Taiwan Monster Fruit: Prologue | 146216 | [146216-taiwan-monster-fruit-prologue.json](./146216-taiwan-monster-fruit-prologue.json) |
 | Taiwanese Dominatrixes Are the Best | 385703 | [385703-taiwanese-dominatrixes-are-the-best.json](./385703-taiwanese-dominatrixes-are-the-best.json) |
 | TaiWord: A Daily Word Game | 232039 | [232039-taiword-a-daily-word-game.json](./232039-taiword-a-daily-word-game.json) |
 | Taiyo No Miyako | 221422 | [221422-taiyo-no-miyako.json](./221422-taiyo-no-miyako.json) |
@@ -2369,6 +2370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Dr. Franken | 369600 | [369600-the-adventures-of-dr-franken.json](./369600-the-adventures-of-dr-franken.json) |
 | The Adventures of Dr. Franken | 48617 | [48617-the-adventures-of-dr-franken.json](./48617-the-adventures-of-dr-franken.json) |
 | The Adventures of Eggbert | 146814 | [146814-the-adventures-of-eggbert.json](./146814-the-adventures-of-eggbert.json) |
+| The Adventures of El Ballo | 146189 | [146189-the-adventures-of-el-ballo.json](./146189-the-adventures-of-el-ballo.json) |
 | The Adventures of Elliot: The Millennium Tales - Digital Deluxe Edition | 395685 | [395685-the-adventures-of-elliot-the-millennium-tales-digital-deluxe-edition.json](./395685-the-adventures-of-elliot-the-millennium-tales-digital-deluxe-edition.json) |
 | The Adventures of Golly | 116858 | [116858-the-adventures-of-golly.json](./116858-the-adventures-of-golly.json) |
 | The Adventures of Graham | 398329 | [398329-the-adventures-of-graham.json](./398329-the-adventures-of-graham.json) |
@@ -2400,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Pinocchio | 206210 | [206210-the-adventures-of-pinocchio.json](./206210-the-adventures-of-pinocchio.json) |
 | The Adventures of Pinocchio: Activity Center | 206211 | [206211-the-adventures-of-pinocchio-activity-center.json](./206211-the-adventures-of-pinocchio-activity-center.json) |
 | The Adventures of Rad Gravity | 8777 | [8777-the-adventures-of-rad-gravity.json](./8777-the-adventures-of-rad-gravity.json) |
+| The Adventures of Reynaldo | 146193 | [146193-the-adventures-of-reynaldo.json](./146193-the-adventures-of-reynaldo.json) |
 | The Adventures of Sheep and Sheep | 262451 | [262451-the-adventures-of-sheep-and-sheep.json](./262451-the-adventures-of-sheep-and-sheep.json) |
 | The Adventures of Sherlock Holmes | 72319 | [72319-the-adventures-of-sherlock-holmes.json](./72319-the-adventures-of-sherlock-holmes.json) |
 | The Adventures of Sinbad | 14226 | [14226-the-adventures-of-sinbad.json](./14226-the-adventures-of-sinbad.json) |
@@ -3594,6 +3597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Door | 246123 | [246123-the-door.json](./246123-the-door.json) |
 | The Door at the End of the Hall | 398321 | [398321-the-door-at-the-end-of-the-hall.json](./398321-the-door-at-the-end-of-the-hall.json) |
 | The Door Factory | 405529 | [405529-the-door-factory.json](./405529-the-door-factory.json) |
+| The Door in the Basement | 146206 | [146206-the-door-in-the-basement.json](./146206-the-door-in-the-basement.json) |
 | The Door in The Skybox | 400977 | [400977-the-door-in-the-skybox.json](./400977-the-door-in-the-skybox.json) |
 | The Door Museum | 177483 | [177483-the-door-museum.json](./177483-the-door-museum.json) |
 | The Door of Redemption | 148972 | [148972-the-door-of-redemption.json](./148972-the-door-of-redemption.json) |
@@ -3653,6 +3657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dungeon of Destiny | 74399 | [74399-the-dungeon-of-destiny.json](./74399-the-dungeon-of-destiny.json) |
 | The Dungeon of Doom | 229374 | [229374-the-dungeon-of-doom.json](./229374-the-dungeon-of-doom.json) |
 | The Dungeon of Lulu Farea | 113800 | [113800-the-dungeon-of-lulu-farea.json](./113800-the-dungeon-of-lulu-farea.json) |
+| The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Chicken Edition | 146166 | [146166-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition.json](./146166-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition.json) |
 | The Dungeon of Naheulbeuk: The Amulet of Chaos - Chicken Edition: Splat Jaypak's Arenas | 199115 | [199115-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition-splat-jaypaks-arenas.json](./199115-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition-splat-jaypaks-arenas.json) |
 | The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Deluxe Edition | 154540 | [154540-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-deluxe-edition.json](./154540-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-deluxe-edition.json) |
 | The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Ultimate Edition | 159705 | [159705-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-ultimate-edition.json](./159705-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-ultimate-edition.json) |
@@ -3676,6 +3681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Earth Sucks | 337278 | [337278-the-earth-sucks.json](./337278-the-earth-sucks.json) |
 | The Eastern Edge | 341897 | [341897-the-eastern-edge.json](./341897-the-eastern-edge.json) |
 | The Eastern Sacrifice | 273659 | [273659-the-eastern-sacrifice.json](./273659-the-eastern-sacrifice.json) |
+| The Ebb and Flow of the Tide | 146196 | [146196-the-ebb-and-flow-of-the-tide.json](./146196-the-ebb-and-flow-of-the-tide.json) |
 | The Echo | 353970 | [353970-the-echo.json](./353970-the-echo.json) |
 | The Echoes of Mars | 301841 | [301841-the-echoes-of-mars.json](./301841-the-echoes-of-mars.json) |
 | The Echoes of Me | 398479 | [398479-the-echoes-of-me.json](./398479-the-echoes-of-me.json) |
@@ -4767,6 +4773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journey of Elisa | 280916 | [280916-the-journey-of-elisa.json](./280916-the-journey-of-elisa.json) |
 | The Journey of Ieser | 63537 | [63537-the-journey-of-ieser.json](./63537-the-journey-of-ieser.json) |
 | The Journey of Piggy | 287092 | [287092-the-journey-of-piggy.json](./287092-the-journey-of-piggy.json) |
+| The Journey of the King | 146204 | [146204-the-journey-of-the-king.json](./146204-the-journey-of-the-king.json) |
 | The Journey to Life | 325067 | [325067-the-journey-to-life.json](./325067-the-journey-to-life.json) |
 | The journey to the party | 179743 | [179743-the-journey-to-the-party.json](./179743-the-journey-to-the-party.json) |
 | The Journey VR | 30873 | [30873-the-journey-vr.json](./30873-the-journey-vr.json) |
@@ -4901,6 +4908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XIV: Oswald | 321569 | [321569-the-king-of-fighters-xiv-oswald.json](./321569-the-king-of-fighters-xiv-oswald.json) |
 | The King of Fighters XIV: Shun'ei Kung-Fu Costume | 342867 | [342867-the-king-of-fighters-xiv-shunei-kung-fu-costume.json](./342867-the-king-of-fighters-xiv-shunei-kung-fu-costume.json) |
 | The King Of Fighters XIV: Sylvie Little Red Riding Hood Costume | 342870 | [342870-the-king-of-fighters-xiv-sylvie-little-red-riding-hood-costume.json](./342870-the-king-of-fighters-xiv-sylvie-little-red-riding-hood-costume.json) |
+| The King of Fighters XIV: Ultimate Edition | 146182 | [146182-the-king-of-fighters-xiv-ultimate-edition.json](./146182-the-king-of-fighters-xiv-ultimate-edition.json) |
 | The King of Fighters XV: Character "Sylvie Paula Paula" | 249759 | [249759-the-king-of-fighters-xv-character-sylvie-paula-paula.json](./249759-the-king-of-fighters-xv-character-sylvie-paula-paula.json) |
 | The King of Fighters XV: Characters Mature & Vice | 317839 | [317839-the-king-of-fighters-xv-characters-mature-and-vice.json](./317839-the-king-of-fighters-xv-characters-mature-and-vice.json) |
 | The King of Fighters XV: DLC Costume "Classic Leona" | 332031 | [332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json](./332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json) |
@@ -6871,6 +6879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silent Suite | 330923 | [330923-the-silent-suite.json](./330923-the-silent-suite.json) |
 | The Silk Road of the Eastern Dynasty | 211665 | [211665-the-silk-road-of-the-eastern-dynasty.json](./211665-the-silk-road-of-the-eastern-dynasty.json) |
 | The Silver Age | 209556 | [209556-the-silver-age.json](./209556-the-silver-age.json) |
+| The Silver Case 2425: Deluxe Edition | 146185 | [146185-the-silver-case-2425-deluxe-edition.json](./146185-the-silver-case-2425-deluxe-edition.json) |
 | The Silver Case 2425: Limited Edition | 167074 | [167074-the-silver-case-2425-limited-edition.json](./167074-the-silver-case-2425-limited-edition.json) |
 | The Silver Case: Deluxe Edition | 51921 | [51921-the-silver-case-deluxe-edition.json](./51921-the-silver-case-deluxe-edition.json) |
 | The Silver Lining | 50807 | [50807-the-silver-lining.json](./50807-the-silver-lining.json) |
@@ -7481,6 +7490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of Eden | 346153 | [346153-the-tower-of-eden.json](./346153-the-tower-of-eden.json) |
 | The Tower of Five Hearts | 111402 | [111402-the-tower-of-five-hearts.json](./111402-the-tower-of-five-hearts.json) |
 | The Tower of Shadows | 347232 | [347232-the-tower-of-shadows.json](./347232-the-tower-of-shadows.json) |
+| The Tower of the Elephant | 146199 | [146199-the-tower-of-the-elephant.json](./146199-the-tower-of-the-elephant.json) |
 | The Tower of the Spells | 257456 | [257456-the-tower-of-the-spells.json](./257456-the-tower-of-the-spells.json) |
 | The Tower of TigerQiuQiu 2: 1942-J20 | 157690 | [157690-the-tower-of-tigerqiuqiu-2-1942-j20.json](./157690-the-tower-of-tigerqiuqiu-2-1942-j20.json) |
 | The Tower of TigerQiuQiu 2: 1952 M0 | 173714 | [173714-the-tower-of-tigerqiuqiu-2-1952-m0.json](./173714-the-tower-of-tigerqiuqiu-2-1952-m0.json) |
