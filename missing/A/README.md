@@ -4481,6 +4481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquavern | 416677 | [416677-aquavern.json](./416677-aquavern.json) |
 | Aquavias | 96757 | [96757-aquavias.json](./96757-aquavias.json) |
 | Aquaville | 373612 | [373612-aquaville.json](./373612-aquaville.json) |
+| Aquillanto | 153334 | [153334-aquillanto.json](./153334-aquillanto.json) |
 | Aquis | 293095 | [293095-aquis.json](./293095-aquis.json) |
 | Aquium | 290553 | [290553-aquium.json](./290553-aquium.json) |
 | Aqumana | 175376 | [175376-aqumana.json](./175376-aqumana.json) |
