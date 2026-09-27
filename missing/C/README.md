@@ -1073,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival of Souls | 309526 | [309526-carnival-of-souls.json](./309526-carnival-of-souls.json) |
 | Carnivore! | 413214 | [413214-carnivore.json](./413214-carnivore.json) |
 | Carnivores: Cityscape | 20568 | [20568-carnivores-cityscape.json](./20568-carnivores-cityscape.json) |
+| Carnivores: Dinosaur Hunt | 148429 | [148429-carnivores-dinosaur-hunt.json](./148429-carnivores-dinosaur-hunt.json) |
 | Carnivores: Dinosaur Hunt - Cretaceous Terror Pack | 214450 | [214450-carnivores-dinosaur-hunt-cretaceous-terror-pack.json](./214450-carnivores-dinosaur-hunt-cretaceous-terror-pack.json) |
 | Carnivores: Dinosaur Hunter | 20569 | [20569-carnivores-dinosaur-hunter.json](./20569-carnivores-dinosaur-hunter.json) |
 | Carnivores: Dinosaur Hunter HD | 20570 | [20570-carnivores-dinosaur-hunter-hd.json](./20570-carnivores-dinosaur-hunter-hd.json) |
@@ -6000,6 +6001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupted Universe Cries Quietly | 269282 | [269282-corrupted-universe-cries-quietly.json](./269282-corrupted-universe-cries-quietly.json) |
 | Corruption | 101599 | [101599-corruption.json](./101599-corruption.json) |
 | Corruption Catharsis: Try To Act Normal | 271507 | [271507-corruption-catharsis-try-to-act-normal.json](./271507-corruption-catharsis-try-to-act-normal.json) |
+| Corruption of Champions II | 148426 | [148426-corruption-of-champions-ii.json](./148426-corruption-of-champions-ii.json) |
 | Corruption: Political Simulator Strategy | 271476 | [271476-corruption-political-simulator-strategy.json](./271476-corruption-political-simulator-strategy.json) |
 | Corsair | 80501 | [80501-corsair.json](./80501-corsair.json) |
 | Corsair Cove | 398638 | [398638-corsair-cove.json](./398638-corsair-cove.json) |
