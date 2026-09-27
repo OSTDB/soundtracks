@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janko | 306365 | [306365-janko.json](./306365-janko.json) |
 | Janky Tanks | 35877 | [35877-janky-tanks.json](./35877-janky-tanks.json) |
 | Janosik | 64913 | [64913-janosik.json](./64913-janosik.json) |
+| Janosik 2 | 152783 | [152783-janosik-2.json](./152783-janosik-2.json) |
 | Janosik 2: Prologue | 316419 | [316419-janosik-2-prologue.json](./316419-janosik-2-prologue.json) |
 | Janpuu 7 | 415965 | [415965-janpuu-7.json](./415965-janpuu-7.json) |
 | Jantei Monogatari 3: Saver Angels | 321173 | [321173-jantei-monogatari-3-saver-angels.json](./321173-jantei-monogatari-3-saver-angels.json) |
