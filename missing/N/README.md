@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Tissue | 370105 | [370105-neko-tissue.json](./370105-neko-tissue.json) |
 | Neko to Sakana | 188601 | [188601-neko-to-sakana.json](./188601-neko-to-sakana.json) |
 | Neko Waifu | 367033 | [367033-neko-waifu.json](./367033-neko-waifu.json) |
+| Neko Yume | 166503 | [166503-neko-yume.json](./166503-neko-yume.json) |
 | Neko Zamurai | 128364 | [128364-neko-zamurai.json](./128364-neko-zamurai.json) |
 | Neko-Nin ExHeart 3 | 126911 | [126911-neko-nin-exheart-3.json](./126911-neko-nin-exheart-3.json) |
 | Neko-Nin exHeart Spin! Love+Plus | 384234 | [384234-neko-nin-exheart-spin-love-plus.json](./384234-neko-nin-exheart-spin-love-plus.json) |
@@ -2085,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninety8 | 246977 | [246977-ninety8.json](./246977-ninety8.json) |
 | Ningen Maru | 178677 | [178677-ningen-maru.json](./178677-ningen-maru.json) |
 | Ningen Tower Battle | 346018 | [346018-ningen-tower-battle.json](./346018-ningen-tower-battle.json) |
+| Ningyo no Rakuin | 166551 | [166551-ningyo-no-rakuin.json](./166551-ningyo-no-rakuin.json) |
 | Ningyou no Kizuato | 255112 | [255112-ningyou-no-kizuato.json](./255112-ningyou-no-kizuato.json) |
 | Ningyou Tsukai | 41407 | [41407-ningyou-tsukai.json](./41407-ningyou-tsukai.json) |
 | Ninja | 12837 | [12837-ninja.json](./12837-ninja.json) |
