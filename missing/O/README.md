@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OctoFurry | 128971 | [128971-octofurry.json](./128971-octofurry.json) |
 | Octogram | 265686 | [265686-octogram.json](./265686-octogram.json) |
 | Octonauts | 230394 | [230394-octonauts.json](./230394-octonauts.json) |
+| Octopath Traveler: Wayfarer's Edition | 136350 | [136350-octopath-traveler-wayfarers-edition.json](./136350-octopath-traveler-wayfarers-edition.json) |
 | Octopede | 94202 | [94202-octopede.json](./94202-octopede.json) |
 | Octopie | 204723 | [204723-octopie.json](./204723-octopie.json) |
 | Octopinbs | 394319 | [394319-octopinbs.json](./394319-octopinbs.json) |
