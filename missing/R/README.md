@@ -334,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Blaster | 67691 | [67691-ragdoll-blaster.json](./67691-ragdoll-blaster.json) |
 | Ragdoll Boxing Multiplayer | 360670 | [360670-ragdoll-boxing-multiplayer.json](./360670-ragdoll-boxing-multiplayer.json) |
 | Ragdoll Destroyer | 252673 | [252673-ragdoll-destroyer.json](./252673-ragdoll-destroyer.json) |
+| Ragdoll Kanojo | 174117 | [174117-ragdoll-kanojo.json](./174117-ragdoll-kanojo.json) |
 | Ragdoll LABS | 204069 | [204069-ragdoll-labs.json](./204069-ragdoll-labs.json) |
 | Ragdoll Laser Battle | 163979 | [163979-ragdoll-laser-battle.json](./163979-ragdoll-laser-battle.json) |
 | Ragdoll Masters | 78684 | [78684-ragdoll-masters.json](./78684-ragdoll-masters.json) |
@@ -720,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramhart | 341311 | [341311-ramhart.json](./341311-ramhart.json) |
 | Ramify | 31153 | [31153-ramify.json](./31153-ramify.json) |
 | Ramming Turtleship: 1592 - The Imjin War | 390000 | [390000-ramming-turtleship-1592-the-imjin-war.json](./390000-ramming-turtleship-1592-the-imjin-war.json) |
+| Rammy No Daibouken Ⅱ | 174128 | [174128-rammy-no-daibouken-ii.json](./174128-rammy-no-daibouken-ii.json) |
 | Ramona | 370326 | [370326-ramona.json](./370326-ramona.json) |
 | Ramona: Play With Me | 370327 | [370327-ramona-play-with-me.json](./370327-ramona-play-with-me.json) |
 | Ramone: Teh Gaem | 59669 | [59669-ramone-teh-gaem.json](./59669-ramone-teh-gaem.json) |
@@ -1433,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebirth of Myths: Dragonborn | 297616 | [297616-rebirth-of-myths-dragonborn.json](./297616-rebirth-of-myths-dragonborn.json) |
 | Rebirth RC | 147808 | [147808-rebirth-rc.json](./147808-rebirth-rc.json) |
 | Rebirth-Land of Zombies | 189122 | [189122-rebirth-land-of-zombies.json](./189122-rebirth-land-of-zombies.json) |
+| Rebirth: Beware of Mr.Wang | 174114 | [174114-rebirth-beware-of-mr-wang.json](./174114-rebirth-beware-of-mr-wang.json) |
 | Rebirthing | 239771 | [239771-rebirthing.json](./239771-rebirthing.json) |
 | RebirthM | 174879 | [174879-rebirthm.json](./174879-rebirthm.json) |
 | Rebloom | 351101 | [351101-rebloom.json](./351101-rebloom.json) |
