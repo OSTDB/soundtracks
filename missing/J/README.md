@@ -1152,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joy Life 4 | 336636 | [336636-joy-life-4.json](./336636-joy-life-4.json) |
 | Joy Match 3D | 255796 | [255796-joy-match-3d.json](./255796-joy-match-3d.json) |
 | Joy of Ping Pong | 230844 | [230844-joy-of-ping-pong.json](./230844-joy-of-ping-pong.json) |
+| Joy the Pug | 144187 | [144187-joy-the-pug.json](./144187-joy-the-pug.json) |
 | Joyland: Horror Adventure Quest | 233437 | [233437-joyland-horror-adventure-quest.json](./233437-joyland-horror-adventure-quest.json) |
 | Joymaker | 374284 | [374284-joymaker.json](./374284-joymaker.json) |
 | Joyman | 40203 | [40203-joyman.json](./40203-joyman.json) |
@@ -1548,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World: The Game | 10530 | [10530-jurassic-world-the-game.json](./10530-jurassic-world-the-game.json) |
 | Jurassic Wrap | 381736 | [381736-jurassic-wrap.json](./381736-jurassic-wrap.json) |
 | Jurig Escape | 117768 | [117768-jurig-escape.json](./117768-jurig-escape.json) |
+| Jurisdiction | 144183 | [144183-jurisdiction.json](./144183-jurisdiction.json) |
 | Jurl | 244189 | [244189-jurl.json](./244189-jurl.json) |
 | Jurnal Malam: Bestfriend | 310057 | [310057-jurnal-malam-bestfriend.json](./310057-jurnal-malam-bestfriend.json) |
 | Jurnal Risa: Dark Destiny | 334165 | [334165-jurnal-risa-dark-destiny.json](./334165-jurnal-risa-dark-destiny.json) |
