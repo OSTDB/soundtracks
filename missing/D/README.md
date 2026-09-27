@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Dave in the Deserted Pirate's Hideout | 11384 | [11384-dangerous-dave-in-the-deserted-pirates-hideout.json](./11384-dangerous-dave-in-the-deserted-pirates-hideout.json) |
 | Dangerous Dave Returns | 11387 | [11387-dangerous-dave-returns.json](./11387-dangerous-dave-returns.json) |
 | Dangerous Dave's Risky Rescue | 11388 | [11388-dangerous-daves-risky-rescue.json](./11388-dangerous-daves-risky-rescue.json) |
+| Dangerous Degrees | 163755 | [163755-dangerous-degrees.json](./163755-dangerous-degrees.json) |
 | Dangerous Driving | 104232 | [104232-dangerous-driving.json](./104232-dangerous-driving.json) |
 | Dangerous Fellows | 133817 | [133817-dangerous-fellows.json](./133817-dangerous-fellows.json) |
 | Dangerous Fight | 284997 | [284997-dangerous-fight.json](./284997-dangerous-fight.json) |
@@ -809,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkenstein 3D | 235996 | [235996-darkenstein-3d.json](./235996-darkenstein-3d.json) |
 | Darker Ride Escape | 310578 | [310578-darker-ride-escape.json](./310578-darker-ride-escape.json) |
 | Darker Tides | 238603 | [238603-darker-tides.json](./238603-darker-tides.json) |
+| Darker: Episode I | 163759 | [163759-darker-episode-i.json](./163759-darker-episode-i.json) |
 | Darkest Corners | 404867 | [404867-darkest-corners.json](./404867-darkest-corners.json) |
 | Darkest Days | 332225 | [332225-darkest-days.json](./332225-darkest-days.json) |
 | Darkest Descent | 370670 | [370670-darkest-descent.json](./370670-darkest-descent.json) |
@@ -7574,6 +7576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DVD Screensaver Simulator Rebirth Reimagined Definitive Reloaded Special Intergrade Ultimate HD Legacy Collection Remastered (2027 Edition) | 408785 | [408785-dvd-screensaver-simulator-rebirth-reimagined-definitive-reloaded-special-intergrade-ultimate-hd-legacy-collection-remastered-2027-edition.json](./408785-dvd-screensaver-simulator-rebirth-reimagined-definitive-reloaded-special-intergrade-ultimate-hd-legacy-collection-remastered-2027-edition.json) |
 | DvDrum, Ultimate Drum Simulator! | 27206 | [27206-dvdrum-ultimate-drum-simulator.json](./27206-dvdrum-ultimate-drum-simulator.json) |
 | Dvergatal: Thorin's Quest | 178420 | [178420-dvergatal-thorins-quest.json](./178420-dvergatal-thorins-quest.json) |
+| DvG: Conquering Giants | 163768 | [163768-dvg-conquering-giants.json](./163768-dvg-conquering-giants.json) |
 | Dwango5 | 143038 | [143038-dwango5.json](./143038-dwango5.json) |
 | Dwarf | 292069 | [292069-dwarf.json](./292069-dwarf.json) |
 | Dwarf Complete | 191796 | [191796-dwarf-complete.json](./191796-dwarf-complete.json) |
