@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HalOpe | 281399 | [281399-halope.json](./281399-halope.json) |
 | Haluz | 322784 | [322784-haluz.json](./322784-haluz.json) |
 | Haluz 2 | 322787 | [322787-haluz-2.json](./322787-haluz-2.json) |
+| Halver | 168662 | [168662-halver.json](./168662-halver.json) |
 | Halves | 235720 | [235720-halves.json](./235720-halves.json) |
 | Ham's Kitchen | 323822 | [323822-hams-kitchen.json](./323822-hams-kitchen.json) |
 | Hamatora: Look at Smoking World | 60542 | [60542-hamatora-look-at-smoking-world.json](./60542-hamatora-look-at-smoking-world.json) |
@@ -1631,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helix | 147373 | [147373-helix.json](./147373-helix.json) |
 | Helix | 181115 | [181115-helix.json](./181115-helix.json) |
 | Helix Ball | 104651 | [104651-helix-ball.json](./104651-helix-ball.json) |
+| Helix Brawl | 168645 | [168645-helix-brawl.json](./168645-helix-brawl.json) |
 | Helix Fruit Jump | 316193 | [316193-helix-fruit-jump.json](./316193-helix-fruit-jump.json) |
 | Helix Jump 2 | 101536 | [101536-helix-jump-2.json](./101536-helix-jump-2.json) |
 | Helix Jump Down | 102106 | [102106-helix-jump-down.json](./102106-helix-jump-down.json) |
@@ -2452,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Egypt: The Curse of Sethos | 191119 | [191119-heroes-of-egypt-the-curse-of-sethos.json](./191119-heroes-of-egypt-the-curse-of-sethos.json) |
 | Heroes of Eroticism: Amorous Advances | 244349 | [244349-heroes-of-eroticism-amorous-advances.json](./244349-heroes-of-eroticism-amorous-advances.json) |
 | Heroes of Eroticism: New Beginnings | 221204 | [221204-heroes-of-eroticism-new-beginnings.json](./221204-heroes-of-eroticism-new-beginnings.json) |
+| Heroes of Fantasia | 168656 | [168656-heroes-of-fantasia.json](./168656-heroes-of-fantasia.json) |
 | Heroes of Gaia | 63867 | [63867-heroes-of-gaia.json](./63867-heroes-of-gaia.json) |
 | Heroes of Hammerwatch II: Celestial Ruins | 411671 | [411671-heroes-of-hammerwatch-ii-celestial-ruins.json](./411671-heroes-of-hammerwatch-ii-celestial-ruins.json) |
 | Heroes of Havoc: Idle Adventures | 26171 | [26171-heroes-of-havoc-idle-adventures.json](./26171-heroes-of-havoc-idle-adventures.json) |
@@ -3120,6 +3123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway to Heal | 344445 | [344445-highway-to-heal.json](./344445-highway-to-heal.json) |
 | Highway to the Moon | 32890 | [32890-highway-to-the-moon.json](./32890-highway-to-the-moon.json) |
 | Highway Traffic Pro | 387664 | [387664-highway-traffic-pro.json](./387664-highway-traffic-pro.json) |
+| Highway Traffic Racer | 168638 | [168638-highway-traffic-racer.json](./168638-highway-traffic-racer.json) |
 | Highway Traffic Racer | 251675 | [251675-highway-traffic-racer.json](./251675-highway-traffic-racer.json) |
 | Highway Trouble | 322597 | [322597-highway-trouble.json](./322597-highway-trouble.json) |
 | Highway Trouble 2 | 322599 | [322599-highway-trouble-2.json](./322599-highway-trouble-2.json) |
@@ -5219,6 +5223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperFeat | 152761 | [152761-hyperfeat.json](./152761-hyperfeat.json) |
 | Hyperfield | 295877 | [295877-hyperfield.json](./295877-hyperfield.json) |
 | Hyperfight 2 | 340496 | [340496-hyperfight-2.json](./340496-hyperfight-2.json) |
+| HyperFleet | 168683 | [168683-hyperfleet.json](./168683-hyperfleet.json) |
 | Hyperflex Ultra | 355562 | [355562-hyperflex-ultra.json](./355562-hyperflex-ultra.json) |
 | HyperFlight | 340497 | [340497-hyperflight.json](./340497-hyperflight.json) |
 | Hyperforma: Lost Archives - Fragment I | 262316 | [262316-hyperforma-lost-archives-fragment-i.json](./262316-hyperforma-lost-archives-fragment-i.json) |
@@ -5250,6 +5255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperspace Throw Patrol | 184991 | [184991-hyperspace-throw-patrol.json](./184991-hyperspace-throw-patrol.json) |
 | Hyperspeed - Race with Friends | 115450 | [115450-hyperspeed-race-with-friends.json](./115450-hyperspeed-race-with-friends.json) |
 | Hyperstacks | 137604 | [137604-hyperstacks.json](./137604-hyperstacks.json) |
+| Hyperstar | 168649 | [168649-hyperstar.json](./168649-hyperstar.json) |
 | Hypersudoku Puzzle | 58258 | [58258-hypersudoku-puzzle.json](./58258-hypersudoku-puzzle.json) |
 | Hypertrain | 96430 | [96430-hypertrain.json](./96430-hypertrain.json) |
 | Hypertron | 210058 | [210058-hypertron.json](./210058-hypertron.json) |
