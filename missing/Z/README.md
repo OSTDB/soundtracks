@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zom Nom | 127768 | [127768-zom-nom.json](./127768-zom-nom.json) |
 | Zom Tom | 199372 | [199372-zom-tom.json](./199372-zom-tom.json) |
 | Zombapocalypse | 25753 | [25753-zombapocalypse.json](./25753-zombapocalypse.json) |
+| Zombardment | 161647 | [161647-zombardment.json](./161647-zombardment.json) |
 | Zombase | 377134 | [377134-zombase.json](./377134-zombase.json) |
 | Zombasite | 20460 | [20460-zombasite.json](./20460-zombasite.json) |
 | Zombeat | 79946 | [79946-zombeat.json](./79946-zombeat.json) |
