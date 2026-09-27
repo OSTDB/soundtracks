@@ -2383,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Frenzy | 295347 | [295347-chaos-frenzy.json](./295347-chaos-frenzy.json) |
 | Chaos Front | 291490 | [291490-chaos-front.json](./291490-chaos-front.json) |
 | Chaos Galaxy 2 | 148997 | [148997-chaos-galaxy-2.json](./148997-chaos-galaxy-2.json) |
+| Chaos Heat | 122943 | [122943-chaos-heat.json](./122943-chaos-heat.json) |
 | Chaos Hero | 335328 | [335328-chaos-hero.json](./335328-chaos-hero.json) |
 | Chaos In Andromeda | 15873 | [15873-chaos-in-andromeda.json](./15873-chaos-in-andromeda.json) |
 | Chaos Islands | 296395 | [296395-chaos-islands.json](./296395-chaos-islands.json) |
@@ -2737,6 +2738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Puzzles: 100 by Tyrone | 163413 | [163413-chess-puzzles-100-by-tyrone.json](./163413-chess-puzzles-100-by-tyrone.json) |
 | Chess Remix | 259293 | [259293-chess-remix.json](./259293-chess-remix.json) |
 | Chess Royale | 330918 | [330918-chess-royale.json](./330918-chess-royale.json) |
+| Chess Rush | 122963 | [122963-chess-rush.json](./122963-chess-rush.json) |
 | Chess Twist | 284967 | [284967-chess-twist.json](./284967-chess-twist.json) |
 | Chess Universe | 357416 | [357416-chess-universe.json](./357416-chess-universe.json) |
 | Chess vs. Chat | 203930 | [203930-chess-vs-chat.json](./203930-chess-vs-chat.json) |
