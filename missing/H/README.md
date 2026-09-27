@@ -1329,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Africa | 13874 | [13874-heart-of-africa.json](./13874-heart-of-africa.json) |
 | Heart of China | 12139 | [12139-heart-of-china.json](./12139-heart-of-china.json) |
 | Heart of Crown Online | 217292 | [217292-heart-of-crown-online.json](./217292-heart-of-crown-online.json) |
+| Heart of Evil | 165441 | [165441-heart-of-evil.json](./165441-heart-of-evil.json) |
 | Heart Of Evil: Source | 334847 | [334847-heart-of-evil-source.json](./334847-heart-of-evil-source.json) |
 | Heart of Fantasy | 404441 | [404441-heart-of-fantasy.json](./404441-heart-of-fantasy.json) |
 | Heart of Fire | 268729 | [268729-heart-of-fire.json](./268729-heart-of-fire.json) |
@@ -1489,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy As Stone | 322601 | [322601-heavy-as-stone.json](./322601-heavy-as-stone.json) |
 | Heavy Blade | 98764 | [98764-heavy-blade.json](./98764-heavy-blade.json) |
 | Heavy Burden VR | 372459 | [372459-heavy-burden-vr.json](./372459-heavy-burden-vr.json) |
+| Heavy Cargo: The Truck Simulator | 165384 | [165384-heavy-cargo-the-truck-simulator.json](./165384-heavy-cargo-the-truck-simulator.json) |
 | Heavy Drinker | 250893 | [250893-heavy-drinker.json](./250893-heavy-drinker.json) |
 | Heavy Duty | 375422 | [375422-heavy-duty.json](./375422-heavy-duty.json) |
 | Heavy Duty Inc. | 389088 | [389088-heavy-duty-inc.json](./389088-heavy-duty-inc.json) |
