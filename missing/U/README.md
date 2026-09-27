@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Station | 313227 | [313227-underground-station.json](./313227-underground-station.json) |
 | Underground Waifus TCG | 273365 | [273365-underground-waifus-tcg.json](./273365-underground-waifus-tcg.json) |
 | Undergrown | 244488 | [244488-undergrown.json](./244488-undergrown.json) |
+| Underhell | 144877 | [144877-underhell.json](./144877-underhell.json) |
 | Underhero | 36652 | [36652-underhero.json](./36652-underhero.json) |
 | Underkeep | 389458 | [389458-underkeep.json](./389458-underkeep.json) |
 | Underlab | 262667 | [262667-underlab.json](./262667-underlab.json) |
