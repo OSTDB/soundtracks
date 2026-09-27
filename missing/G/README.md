@@ -1082,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemibears | 233997 | [233997-gemibears.json](./233997-gemibears.json) |
 | Gemini | 139404 | [139404-gemini.json](./139404-gemini.json) |
 | Gemini | 86115 | [86115-gemini.json](./86115-gemini.json) |
+| Gemini Arms | 145546 | [145546-gemini-arms.json](./145546-gemini-arms.json) |
 | Gemini Lost | 16080 | [16080-gemini-lost.json](./16080-gemini-lost.json) |
 | Gemini Wing | 12117 | [12117-gemini-wing.json](./12117-gemini-wing.json) |
 | Gemini X | 404926 | [404926-gemini-x.json](./404926-gemini-x.json) |
