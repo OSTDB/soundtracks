@@ -1094,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wawa Neko no Shima | 206175 | [206175-wawa-neko-no-shima.json](./206175-wawa-neko-no-shima.json) |
 | Wawa United | 150598 | [150598-wawa-united.json](./150598-wawa-united.json) |
 | Wax Museum | 187454 | [187454-wax-museum.json](./187454-wax-museum.json) |
+| Waxworks: Curse of the Ancestors | 126548 | [126548-waxworks-curse-of-the-ancestors.json](./126548-waxworks-curse-of-the-ancestors.json) |
 | Way Back Home | 127742 | [127742-way-back-home.json](./127742-way-back-home.json) |
 | Way Down | 187511 | [187511-way-down.json](./187511-way-down.json) |
 | Way in the stars | 156593 | [156593-way-in-the-stars.json](./156593-way-in-the-stars.json) |
@@ -3809,6 +3810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreckout | 123576 | [123576-wreckout.json](./123576-wreckout.json) |
 | Wreckreation | 213241 | [213241-wreckreation.json](./213241-wreckreation.json) |
 | Wrekless | 304739 | [304739-wrekless.json](./304739-wrekless.json) |
+| Wren | 126524 | [126524-wren.json](./126524-wren.json) |
 | Wren's Journey | 215656 | [215656-wrens-journey.json](./215656-wrens-journey.json) |
 | WrenchFighter Turbo | 136234 | [136234-wrenchfighter-turbo.json](./136234-wrenchfighter-turbo.json) |
 | Wrestle Kingdom | 7251 | [7251-wrestle-kingdom.json](./7251-wrestle-kingdom.json) |
