@@ -931,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Brick | 207787 | [207787-john-brick.json](./207787-john-brick.json) |
 | John Carter: Warlord of Mars | 172715 | [172715-john-carter-warlord-of-mars.json](./172715-john-carter-warlord-of-mars.json) |
 | John Cena’s Sexy High School Adventure | 250376 | [250376-john-cena-s-sexy-high-school-adventure.json](./250376-john-cena-s-sexy-high-school-adventure.json) |
+| John Christian | 155001 | [155001-john-christian.json](./155001-john-christian.json) |
 | John Christian 2 | 195141 | [195141-john-christian-2.json](./195141-john-christian-2.json) |
 | John Christian 3.0 | 274458 | [274458-john-christian-3-0.json](./274458-john-christian-3-0.json) |
 | John Deere American Farmer: Deluxe Edition | 210132 | [210132-john-deere-american-farmer-deluxe-edition.json](./210132-john-deere-american-farmer-deluxe-edition.json) |
