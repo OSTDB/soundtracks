@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veil Runners | 310932 | [310932-veil-runners.json](./310932-veil-runners.json) |
 | Veil Stream | 360675 | [360675-veil-stream.json](./360675-veil-stream.json) |
 | Veil: Tactics | 304619 | [304619-veil-tactics.json](./304619-veil-tactics.json) |
+| Veiled | 172509 | [172509-veiled.json](./172509-veiled.json) |
 | Veiled Basilisk | 153373 | [153373-veiled-basilisk.json](./153373-veiled-basilisk.json) |
 | Veiled Edge | 253596 | [253596-veiled-edge.json](./253596-veiled-edge.json) |
 | Veilfall: True Strength | 333066 | [333066-veilfall-true-strength.json](./333066-veilfall-true-strength.json) |
