@@ -917,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Activity: The Lost Soul | 32699 | [32699-paranormal-activity-the-lost-soul.json](./32699-paranormal-activity-the-lost-soul.json) |
 | Paranormal Activity: The VR Game | 25626 | [25626-paranormal-activity-the-vr-game.json](./25626-paranormal-activity-the-vr-game.json) |
 | Paranormal Archives | 294166 | [294166-paranormal-archives.json](./294166-paranormal-archives.json) |
+| Paranormal Bundle | 164791 | [164791-paranormal-bundle.json](./164791-paranormal-bundle.json) |
 | Paranormal Capture Investigation | 276187 | [276187-paranormal-capture-investigation.json](./276187-paranormal-capture-investigation.json) |
 | Paranormal Entities | 177402 | [177402-paranormal-entities.json](./177402-paranormal-entities.json) |
 | Paranormal Files: Chaos Weekend | 416704 | [416704-paranormal-files-chaos-weekend.json](./416704-paranormal-files-chaos-weekend.json) |
@@ -2196,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Online 2 -Ragol Edition- | 132155 | [132155-phantasy-star-online-2-ragol-edition.json](./132155-phantasy-star-online-2-ragol-edition.json) |
 | Phantasy Star Online 2 New Genesis | 136042 | [136042-phantasy-star-online-2-new-genesis.json](./136042-phantasy-star-online-2-new-genesis.json) |
 | Phantasy Star Online 2 New Genesis: Limited Edition | 146336 | [146336-phantasy-star-online-2-new-genesis-limited-edition.json](./146336-phantasy-star-online-2-new-genesis-limited-edition.json) |
+| Phantasy Star Online 2 New Genesis: Start Dash Rappy Edition | 164821 | [164821-phantasy-star-online-2-new-genesis-start-dash-rappy-edition.json](./164821-phantasy-star-online-2-new-genesis-start-dash-rappy-edition.json) |
 | Phantasy Star Online 2: Helga Pack | 225867 | [225867-phantasy-star-online-2-helga-pack.json](./225867-phantasy-star-online-2-helga-pack.json) |
 | Phantasy Star Online 2: Howzer Pack | 225863 | [225863-phantasy-star-online-2-howzer-pack.json](./225863-phantasy-star-online-2-howzer-pack.json) |
 | Phantasy Star Online 2: Sonic Collaboration Edition | 132156 | [132156-phantasy-star-online-2-sonic-collaboration-edition.json](./132156-phantasy-star-online-2-sonic-collaboration-edition.json) |
@@ -5158,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Gun in Sonic 2 | 129175 | [129175-portal-gun-in-sonic-2.json](./129175-portal-gun-in-sonic-2.json) |
 | Portal Hunter | 373623 | [373623-portal-hunter.json](./373623-portal-hunter.json) |
 | Portal Knights | 20392 | [20392-portal-knights.json](./20392-portal-knights.json) |
+| Portal Knights: Druids, Furfolk, and Relic Defense | 164772 | [164772-portal-knights-druids-furfolk-and-relic-defense.json](./164772-portal-knights-druids-furfolk-and-relic-defense.json) |
 | Portal Knights: Legendary Edition | 166156 | [166156-portal-knights-legendary-edition.json](./166156-portal-knights-legendary-edition.json) |
 | Portal Panic | 268001 | [268001-portal-panic.json](./268001-portal-panic.json) |
 | Portal Pro | 284358 | [284358-portal-pro.json](./284358-portal-pro.json) |
@@ -5887,6 +5890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Architect: Nintendo Switch Edition - Bundle | 222502 | [222502-prison-architect-nintendo-switch-edition-bundle.json](./222502-prison-architect-nintendo-switch-edition-bundle.json) |
 | Prison Architect: Psych Ward - Warden's Edition | 148526 | [148526-prison-architect-psych-ward-wardens-edition.json](./148526-prison-architect-psych-ward-wardens-edition.json) |
 | Prison Architect: Second Chances | 148519 | [148519-prison-architect-second-chances.json](./148519-prison-architect-second-chances.json) |
+| Prison Architect: Total Lockdown Bundle | 164789 | [164789-prison-architect-total-lockdown-bundle.json](./164789-prison-architect-total-lockdown-bundle.json) |
 | Prison Ball: Full Blown | 167214 | [167214-prison-ball-full-blown.json](./167214-prison-ball-full-blown.json) |
 | Prison Ball: Full Blown - Cheyenne Storm | 167221 | [167221-prison-ball-full-blown-cheyenne-storm.json](./167221-prison-ball-full-blown-cheyenne-storm.json) |
 | Prison Ball: Full Blown - Deborah Fire | 167220 | [167220-prison-ball-full-blown-deborah-fire.json](./167220-prison-ball-full-blown-deborah-fire.json) |
@@ -6486,6 +6490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Wingman: Frontline 59 | 270216 | [270216-project-wingman-frontline-59.json](./270216-project-wingman-frontline-59.json) |
 | Project Winter | 111033 | [111033-project-winter.json](./111033-project-winter.json) |
 | Project Winter Mobile | 199947 | [199947-project-winter-mobile.json](./199947-project-winter-mobile.json) |
+| Project Winter: Blackout | 164817 | [164817-project-winter-blackout.json](./164817-project-winter-blackout.json) |
 | Project Worth: Forgather | 211812 | [211812-project-worth-forgather.json](./211812-project-worth-forgather.json) |
 | Project X | 377577 | [377577-project-x.json](./377577-project-x.json) |
 | Project X Zone: Limited Edition | 89877 | [89877-project-x-zone-limited-edition.json](./89877-project-x-zone-limited-edition.json) |
