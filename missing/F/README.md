@@ -4962,6 +4962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frigid | 159281 | [159281-frigid.json](./159281-frigid.json) |
 | Frigid VR | 172733 | [172733-frigid-vr.json](./172733-frigid-vr.json) |
 | Friki | 153406 | [153406-friki.json](./153406-friki.json) |
+| Frikin the Laser Shark | 158029 | [158029-frikin-the-laser-shark.json](./158029-frikin-the-laser-shark.json) |
 | Fringes of the Empire | 34426 | [34426-fringes-of-the-empire.json](./34426-fringes-of-the-empire.json) |
 | Frio2 - Memory of my sister | 90004 | [90004-frio2-memory-of-my-sister.json](./90004-frio2-memory-of-my-sister.json) |
 | Frip and Froop's Logical Labyrinth | 56509 | [56509-frip-and-froops-logical-labyrinth.json](./56509-frip-and-froops-logical-labyrinth.json) |
