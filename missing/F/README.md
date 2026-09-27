@@ -393,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Cars: Ultimate Car Battle | 278492 | [278492-fall-cars-ultimate-car-battle.json](./278492-fall-cars-ultimate-car-battle.json) |
 | Fall Down | 40791 | [40791-fall-down.json](./40791-fall-down.json) |
 | Fall Down | 95432 | [95432-fall-down.json](./95432-fall-down.json) |
+| Fall Dudes 3D | 136946 | [136946-fall-dudes-3d.json](./136946-fall-dudes-3d.json) |
 | Fall From Eden | 340053 | [340053-fall-from-eden.json](./340053-fall-from-eden.json) |
 | Fall Gummies | 146796 | [146796-fall-gummies.json](./146796-fall-gummies.json) |
 | Fall Guys World | 213892 | [213892-fall-guys-world.json](./213892-fall-guys-world.json) |
