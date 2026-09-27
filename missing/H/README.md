@@ -2733,6 +2733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hibernation | 339638 | [339638-hibernation.json](./339638-hibernation.json) |
 | Hibernation Day | 247772 | [247772-hibernation-day.json](./247772-hibernation-day.json) |
 | Hibernia | 185084 | [185084-hibernia.json](./185084-hibernia.json) |
+| Hibiscus Red: Part 2 | 171933 | [171933-hibiscus-red-part-2.json](./171933-hibiscus-red-part-2.json) |
 | Hibow | 158210 | [158210-hibow.json](./158210-hibow.json) |
 | Hibridya | 371274 | [371274-hibridya.json](./371274-hibridya.json) |
 | Hidalgo | 314641 | [314641-hidalgo.json](./314641-hidalgo.json) |
@@ -4545,6 +4546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Racer | 207904 | [207904-hover-racer.json](./207904-hover-racer.json) |
 | Hover Rev Hispeed Burst | 340488 | [340488-hover-rev-hispeed-burst.json](./340488-hover-rev-hispeed-burst.json) |
 | Hover Rider | 244796 | [244796-hover-rider.json](./244796-hover-rider.json) |
+| Hover Ship | 171944 | [171944-hover-ship.json](./171944-hover-ship.json) |
 | Hover Shooting Defence | 265151 | [265151-hover-shooting-defence.json](./265151-hover-shooting-defence.json) |
 | Hover Skate VR | 30167 | [30167-hover-skate-vr.json](./30167-hover-skate-vr.json) |
 | Hover Strike | 40812 | [40812-hover-strike.json](./40812-hover-strike.json) |
