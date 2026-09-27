@@ -1408,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marbleous Blocks | 163825 | [163825-marbleous-blocks.json](./163825-marbleous-blocks.json) |
 | Marbles Garden | 192298 | [192298-marbles-garden.json](./192298-marbles-garden.json) |
 | Marbles HD | 101520 | [101520-marbles-hd.json](./101520-marbles-hd.json) |
+| Marbles Rush | 153819 | [153819-marbles-rush.json](./153819-marbles-rush.json) |
 | Marblize | 31142 | [31142-marblize.json](./31142-marblize.json) |
 | Marby Baby Story | 143668 | [143668-marby-baby-story.json](./143668-marby-baby-story.json) |
 | Marc Ecko's Getting Up | 386410 | [386410-marc-eckos-getting-up.json](./386410-marc-eckos-getting-up.json) |
@@ -5525,6 +5526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Inconspicuous Maid Girl Cleaning Co. 2 | 375454 | [375454-miss-inconspicuous-maid-girl-cleaning-co-2.json](./375454-miss-inconspicuous-maid-girl-cleaning-co-2.json) |
 | Miss Input | 221271 | [221271-miss-input.json](./221271-miss-input.json) |
 | Miss Input 2 | 300804 | [300804-miss-input-2.json](./300804-miss-input-2.json) |
+| Miss Intelligence | 153912 | [153912-miss-intelligence.json](./153912-miss-intelligence.json) |
 | Miss It! | 283707 | [283707-miss-it.json](./283707-miss-it.json) |
 | Miss Kawaii 2 | 222941 | [222941-miss-kawaii-2.json](./222941-miss-kawaii-2.json) |
 | Miss Mantis | 307288 | [307288-miss-mantis.json](./307288-miss-mantis.json) |
@@ -6714,6 +6716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Cresta | 18762 | [18762-moon-cresta.json](./18762-moon-cresta.json) |
 | Moon Crystal | 48620 | [48620-moon-crystal.json](./48620-moon-crystal.json) |
 | Moon Crystals | 172710 | [172710-moon-crystals.json](./172710-moon-crystals.json) |
+| Moon Defence | 153901 | [153901-moon-defence.json](./153901-moon-defence.json) |
 | Moon Eater | 59659 | [59659-moon-eater.json](./59659-moon-eater.json) |
 | Moon Fall | 122381 | [122381-moon-fall.json](./122381-moon-fall.json) |
 | Moon Farming | 161352 | [161352-moon-farming.json](./161352-moon-farming.json) |
@@ -8397,6 +8400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Farm | 391620 | [391620-my-little-farm.json](./391620-my-little-farm.json) |
 | My Little Fast Food Booth | 147457 | [147457-my-little-fast-food-booth.json](./147457-my-little-fast-food-booth.json) |
 | My Little Friend Chibi | 391738 | [391738-my-little-friend-chibi.json](./391738-my-little-friend-chibi.json) |
+| My Little Fruit Juice Booth | 153820 | [153820-my-little-fruit-juice-booth.json](./153820-my-little-fruit-juice-booth.json) |
 | My Little Garden | 261528 | [261528-my-little-garden.json](./261528-my-little-garden.json) |
 | My Little Helper: Spring Cleaning | 146117 | [146117-my-little-helper-spring-cleaning.json](./146117-my-little-helper-spring-cleaning.json) |
 | My Little Kitties | 20759 | [20759-my-little-kitties.json](./20759-my-little-kitties.json) |
