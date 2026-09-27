@@ -1598,6 +1598,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Lives | 354536 | [354536-infinite-lives.json](./354536-infinite-lives.json) |
 | Infinite Mansion | 374816 | [374816-infinite-mansion.json](./374816-infinite-mansion.json) |
 | Infinite Mario 64 | 288851 | [288851-infinite-mario-64.json](./288851-infinite-mario-64.json) |
+| Infinite Minigolf: Hangar 37 | 170835 | [170835-infinite-minigolf-hangar-37.json](./170835-infinite-minigolf-hangar-37.json) |
+| Infinite Minigolf: Tortuga | 170834 | [170834-infinite-minigolf-tortuga.json](./170834-infinite-minigolf-tortuga.json) |
 | Infinite Monkey Autocorrect | 89205 | [89205-infinite-monkey-autocorrect.json](./89205-infinite-monkey-autocorrect.json) |
 | Infinite Monkey Clicker | 387328 | [387328-infinite-monkey-clicker.json](./387328-infinite-monkey-clicker.json) |
 | Infinite Monkeys | 57095 | [57095-infinite-monkeys.json](./57095-infinite-monkeys.json) |
