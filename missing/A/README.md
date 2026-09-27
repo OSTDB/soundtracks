@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Factory Job | 192455 | [192455-a-factory-job.json](./192455-a-factory-job.json) |
 | A Factory Roguelike | 379570 | [379570-a-factory-roguelike.json](./379570-a-factory-roguelike.json) |
 | A Fading Melody | 68650 | [68650-a-fading-melody.json](./68650-a-fading-melody.json) |
+| A Fairy Tale of Lotus | 142977 | [142977-a-fairy-tale-of-lotus.json](./142977-a-fairy-tale-of-lotus.json) |
 | A Familiar Fairytale: Dyslexic Text Based Adventure | 124174 | [124174-a-familiar-fairytale-dyslexic-text-based-adventure.json](./124174-a-familiar-fairytale-dyslexic-text-based-adventure.json) |
 | A Familiar World | 367615 | [367615-a-familiar-world.json](./367615-a-familiar-world.json) |
 | A Fascinating Story | 297057 | [297057-a-fascinating-story.json](./297057-a-fascinating-story.json) |
@@ -862,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AceSurvivor | 379465 | [379465-acesurvivor.json](./379465-acesurvivor.json) |
 | Acheron | 154386 | [154386-acheron.json](./154386-acheron.json) |
 | Acheron's Souls | 150121 | [150121-acherons-souls.json](./150121-acherons-souls.json) |
+| Achi: Strategy Game | 142973 | [142973-achi-strategy-game.json](./142973-achi-strategy-game.json) |
 | Achievement Chevo Lurker: Achievement Exodus | 72483 | [72483-achievement-chevo-lurker-achievement-exodus.json](./72483-achievement-chevo-lurker-achievement-exodus.json) |
 | Achievement Clicker 2020 | 104084 | [104084-achievement-clicker-2020.json](./104084-achievement-clicker-2020.json) |
 | Achievement Collector: Cat | 107682 | [107682-achievement-collector-cat.json](./107682-achievement-collector-cat.json) |
@@ -1789,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aircoaster | 66731 | [66731-aircoaster.json](./66731-aircoaster.json) |
 | Aircraft Carrier Survival | 139380 | [139380-aircraft-carrier-survival.json](./139380-aircraft-carrier-survival.json) |
 | Aircraft Pushback Simulator | 234744 | [234744-aircraft-pushback-simulator.json](./234744-aircraft-pushback-simulator.json) |
+| Aircraft Sketch Shooter | 142997 | [142997-aircraft-sketch-shooter.json](./142997-aircraft-sketch-shooter.json) |
 | Aircraft War: Car Wars | 170954 | [170954-aircraft-war-car-wars.json](./170954-aircraft-war-car-wars.json) |
 | Aircraft War: Dragon Wars | 170953 | [170953-aircraft-war-dragon-wars.json](./170953-aircraft-war-dragon-wars.json) |
 | Aircraft War: Extra Level Pack 1 | 170950 | [170950-aircraft-war-extra-level-pack-1.json](./170950-aircraft-war-extra-level-pack-1.json) |
@@ -3862,6 +3865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Shop Simulator ✨ | 415269 | [415269-anime-shop-simulator.json](./415269-anime-shop-simulator.json) |
 | Anime Sniper | 255062 | [255062-anime-sniper.json](./255062-anime-sniper.json) |
 | Anime Spa | 279757 | [279757-anime-spa.json](./279757-anime-spa.json) |
+| Anime Standing | 142969 | [142969-anime-standing.json](./142969-anime-standing.json) |
 | Anime Story Otome Game: Comino | 298878 | [298878-anime-story-otome-game-comino.json](./298878-anime-story-otome-game-comino.json) |
 | Anime Studio Saga | 287237 | [287237-anime-studio-saga.json](./287237-anime-studio-saga.json) |
 | Anime Tank Blitz: Warbound Legends | 283293 | [283293-anime-tank-blitz-warbound-legends.json](./283293-anime-tank-blitz-warbound-legends.json) |
@@ -6126,6 +6130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Savior | 347779 | [347779-astral-savior.json](./347779-astral-savior.json) |
 | Astral Sever | 414337 | [414337-astral-sever.json](./414337-astral-sever.json) |
 | Astral Shipwright | 193198 | [193198-astral-shipwright.json](./193198-astral-shipwright.json) |
+| Astral Stairways | 142993 | [142993-astral-stairways.json](./142993-astral-stairways.json) |
 | Astral Terra | 16882 | [16882-astral-terra.json](./16882-astral-terra.json) |
 | Astral Traveler | 51973 | [51973-astral-traveler.json](./51973-astral-traveler.json) |
 | Astral Zone | 380451 | [380451-astral-zone.json](./380451-astral-zone.json) |
