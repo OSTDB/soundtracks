@@ -3642,6 +3642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Simulator Extremes: Sigita Pack | 10829 | [10829-ship-simulator-extremes-sigita-pack.json](./10829-ship-simulator-extremes-sigita-pack.json) |
 | Ship Simulator Realistic | 173056 | [173056-ship-simulator-realistic.json](./173056-ship-simulator-realistic.json) |
 | Ship Simulator: Maritime Search and Rescue | 27185 | [27185-ship-simulator-maritime-search-and-rescue.json](./27185-ship-simulator-maritime-search-and-rescue.json) |
+| Ship Surveyor Through the Ages: VR | 170324 | [170324-ship-surveyor-through-the-ages-vr.json](./170324-ship-surveyor-through-the-ages-vr.json) |
 | ShipCrafter | 371975 | [371975-shipcrafter.json](./371975-shipcrafter.json) |
 | Shiperoids | 31853 | [31853-shiperoids.json](./31853-shiperoids.json) |
 | ShipLord | 19326 | [19326-shiplord.json](./19326-shiplord.json) |
@@ -6027,6 +6028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smuggler's Run | 248594 | [248594-smugglers-run.json](./248594-smugglers-run.json) |
 | Smuggler's Run | 4154 | [4154-smugglers-run.json](./4154-smugglers-run.json) |
 | Smugglers 5: Invasion | 36209 | [36209-smugglers-5-invasion.json](./36209-smugglers-5-invasion.json) |
+| Smugglers 5: Invasion - Warrior Within | 170285 | [170285-smugglers-5-invasion-warrior-within.json](./170285-smugglers-5-invasion-warrior-within.json) |
 | Smugglers IV: Doomsday | 54377 | [54377-smugglers-iv-doomsday.json](./54377-smugglers-iv-doomsday.json) |
 | Smugglers V | 51903 | [51903-smugglers-v.json](./51903-smugglers-v.json) |
 | Smugglers V: Invasion - Warrior Within | 51902 | [51902-smugglers-v-invasion-warrior-within.json](./51902-smugglers-v-invasion-warrior-within.json) |
@@ -7680,6 +7682,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Ark: Brave and Fate | 199948 | [199948-soul-ark-brave-and-fate.json](./199948-soul-ark-brave-and-fate.json) |
 | Soul Armors Recollect | 322711 | [322711-soul-armors-recollect.json](./322711-soul-armors-recollect.json) |
 | Soul at Stake | 103949 | [103949-soul-at-stake.json](./103949-soul-at-stake.json) |
+| Soul at Stake: Blood Ritual | 170293 | [170293-soul-at-stake-blood-ritual.json](./170293-soul-at-stake-blood-ritual.json) |
+| Soul at Stake: Frozen Village | 170292 | [170292-soul-at-stake-frozen-village.json](./170292-soul-at-stake-frozen-village.json) |
+| Soul at Stake: Funeral of the Flowers | 170289 | [170289-soul-at-stake-funeral-of-the-flowers.json](./170289-soul-at-stake-funeral-of-the-flowers.json) |
+| Soul at Stake: Lament of the Lovers | 170294 | [170294-soul-at-stake-lament-of-the-lovers.json](./170294-soul-at-stake-lament-of-the-lovers.json) |
+| Soul at Stake: Terror Cruise | 170291 | [170291-soul-at-stake-terror-cruise.json](./170291-soul-at-stake-terror-cruise.json) |
 | Soul Awakening Adventure | 273093 | [273093-soul-awakening-adventure.json](./273093-soul-awakening-adventure.json) |
 | Soul Azylum | 131379 | [131379-soul-azylum.json](./131379-soul-azylum.json) |
 | Soul Balance | 391610 | [391610-soul-balance.json](./391610-soul-balance.json) |
