@@ -6523,6 +6523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dress-Up With Helene: Deluxe! | 358860 | [358860-dress-up-with-helene-deluxe.json](./358860-dress-up-with-helene-deluxe.json) |
 | Dressed to Kill Sherlock Holmes for Playdate & C64! | 265737 | [265737-dressed-to-kill-sherlock-holmes-for-playdate-and-c64.json](./265737-dressed-to-kill-sherlock-holmes-for-playdate-and-c64.json) |
 | Dressing Room | 361320 | [361320-dressing-room.json](./361320-dressing-room.json) |
+| DressMaker | 168654 | [168654-dressmaker.json](./168654-dressmaker.json) |
 | Drevepsina | 256005 | [256005-drevepsina.json](./256005-drevepsina.json) |
 | Drew and the Floating Labyrinth | 35867 | [35867-drew-and-the-floating-labyrinth.json](./35867-drew-and-the-floating-labyrinth.json) |
 | Driar | 191911 | [191911-driar.json](./191911-driar.json) |
@@ -6718,6 +6719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drones and Ruins | 87978 | [87978-drones-and-ruins.json](./87978-drones-and-ruins.json) |
 | Dronihilation VR | 67928 | [67928-dronihilation-vr.json](./67928-dronihilation-vr.json) |
 | Droom | 320299 | [320299-droom.json](./320299-droom.json) |
+| Droopy Balls Simulator 2021 | 168684 | [168684-droopy-balls-simulator-2021.json](./168684-droopy-balls-simulator-2021.json) |
 | Drop & Smash | 227483 | [227483-drop-and-smash.json](./227483-drop-and-smash.json) |
 | Drop Boy | 183435 | [183435-drop-boy.json](./183435-drop-boy.json) |
 | Drop Cat | 127769 | [127769-drop-cat.json](./127769-drop-cat.json) |
