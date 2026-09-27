@@ -1891,6 +1891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HelloWorld: Escape | 369582 | [369582-helloworld-escape.json](./369582-helloworld-escape.json) |
 | HelloWorldFactory | 276841 | [276841-helloworldfactory.json](./276841-helloworldfactory.json) |
 | Hellpit | 228448 | [228448-hellpit.json](./228448-hellpit.json) |
+| Hellpoint: Blue Sun | 164816 | [164816-hellpoint-blue-sun.json](./164816-hellpoint-blue-sun.json) |
 | Hellpoint: Signature Edition | 139838 | [139838-hellpoint-signature-edition.json](./139838-hellpoint-signature-edition.json) |
 | Hellpoint: Ultimate Edition | 209688 | [209688-hellpoint-ultimate-edition.json](./209688-hellpoint-ultimate-edition.json) |
 | HellPunk: Purgatorium | 349925 | [349925-hellpunk-purgatorium.json](./349925-hellpunk-purgatorium.json) |
