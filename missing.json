@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T05:03:19.245Z",
-  "total_missing": 129026,
+  "generated_at": "2026-09-27T05:17:51.350Z",
+  "total_missing": 129076,
   "games": [
     {
       "igdb_id": 186066,
@@ -52706,6 +52706,11 @@
       "igdb_id": 216355,
       "game_name": "Beaver Fun",
       "file": "missing/B/216355-beaver-fun.json"
+    },
+    {
+      "igdb_id": 162715,
+      "game_name": "Beaver Fun River Run: Steam Edition",
+      "file": "missing/B/162715-beaver-fun-river-run-steam-edition.json"
     },
     {
       "igdb_id": 416664,
@@ -200748,6 +200753,11 @@
       "file": "missing/F/17050-fritz-chess-14.json"
     },
     {
+      "igdb_id": 162708,
+      "game_name": "Fritz Chess 17 Steam Edition",
+      "file": "missing/F/162708-fritz-chess-17-steam-edition.json"
+    },
+    {
       "igdb_id": 262648,
       "game_name": "Fritz: Your Chess Coach",
       "file": "missing/F/262648-fritz-your-chess-coach.json"
@@ -283401,6 +283411,16 @@
       "igdb_id": 161759,
       "game_name": "Killing Floor: PostMortem Character Pack",
       "file": "missing/K/161759-killing-floor-postmortem-character-pack.json"
+    },
+    {
+      "igdb_id": 162709,
+      "game_name": "Killing Floor: Steampunk Character Pack",
+      "file": "missing/K/162709-killing-floor-steampunk-character-pack.json"
+    },
+    {
+      "igdb_id": 162711,
+      "game_name": "Killing Floor: Steampunk Character Pack 2",
+      "file": "missing/K/162711-killing-floor-steampunk-character-pack-2.json"
     },
     {
       "igdb_id": 191905,
@@ -503823,6 +503843,11 @@
       "file": "missing/S/15376-star-trek-the-rebel-universe.json"
     },
     {
+      "igdb_id": 162713,
+      "game_name": "Star Trek: Timelines - Steam Fleet Commander Pack",
+      "file": "missing/S/162713-star-trek-timelines-steam-fleet-commander-pack.json"
+    },
+    {
       "igdb_id": 362088,
       "game_name": "Star Trek: Voyager - Across the Unknown",
       "file": "missing/S/362088-star-trek-voyager-across-the-unknown.json"
@@ -506938,6 +506963,11 @@
       "file": "missing/S/151670-steam-puppet-tower-defense.json"
     },
     {
+      "igdb_id": 162710,
+      "game_name": "Steam Revolution VR",
+      "file": "missing/S/162710-steam-revolution-vr.json"
+    },
+    {
       "igdb_id": 51262,
       "game_name": "Steam Slug",
       "file": "missing/S/51262-steam-slug.json"
@@ -506951,6 +506981,26 @@
       "igdb_id": 45973,
       "game_name": "Steam-Heart's",
       "file": "missing/S/45973-steam-hearts.json"
+    },
+    {
+      "igdb_id": 162706,
+      "game_name": "Steam: Rails to Riches - Belgium & Luxembourg Map",
+      "file": "missing/S/162706-steam-rails-to-riches-belgium-and-luxembourg-map.json"
+    },
+    {
+      "igdb_id": 162705,
+      "game_name": "Steam: Rails to Riches - Carcassonne Map",
+      "file": "missing/S/162705-steam-rails-to-riches-carcassonne-map.json"
+    },
+    {
+      "igdb_id": 162714,
+      "game_name": "Steam: Rails to Riches - Northern England Map",
+      "file": "missing/S/162714-steam-rails-to-riches-northern-england-map.json"
+    },
+    {
+      "igdb_id": 162704,
+      "game_name": "Steam: Rails to Riches - USA-Canada Map",
+      "file": "missing/S/162704-steam-rails-to-riches-usa-canada-map.json"
     },
     {
       "igdb_id": 157531,
@@ -519413,6 +519463,11 @@
       "file": "missing/S/323353-super-mario-bros-the-cookie-of-destiny.json"
     },
     {
+      "igdb_id": 162716,
+      "game_name": "Super Mario Bros.: Two Players Hack",
+      "file": "missing/S/162716-super-mario-bros-two-players-hack.json"
+    },
+    {
       "igdb_id": 370294,
       "game_name": "Super Mario Buys Bread",
       "file": "missing/S/370294-super-mario-buys-bread.json"
@@ -524041,6 +524096,11 @@
       "igdb_id": 105791,
       "game_name": "Surv: Last Survival",
       "file": "missing/S/105791-surv-last-survival.json"
+    },
+    {
+      "igdb_id": 162712,
+      "game_name": "Survarium: Steam Shotgun Pack",
+      "file": "missing/S/162712-survarium-steam-shotgun-pack.json"
     },
     {
       "igdb_id": 171054,
@@ -588953,6 +589013,11 @@
       "file": "missing/T/167780-trainz-railroad-simulator-2019-etr-1000-frecciarossa.json"
     },
     {
+      "igdb_id": 162702,
+      "game_name": "Trainz Railroad Simulator 2019: Florida Rail Road Museum Model Railroad",
+      "file": "missing/T/162702-trainz-railroad-simulator-2019-florida-rail-road-museum-model-railroad.json"
+    },
+    {
       "igdb_id": 219539,
       "game_name": "Trainz Railroad Simulator 2019: Industrial Mayhem",
       "file": "missing/T/219539-trainz-railroad-simulator-2019-industrial-mayhem.json"
@@ -588966,6 +589031,11 @@
       "igdb_id": 153263,
       "game_name": "Trainz Railroad Simulator 2019: JR Rolling Stock Pack TRS19",
       "file": "missing/T/153263-trainz-railroad-simulator-2019-jr-rolling-stock-pack-trs19.json"
+    },
+    {
+      "igdb_id": 162701,
+      "game_name": "Trainz Railroad Simulator 2019: L&N M1 2-8-4 Big Emma",
+      "file": "missing/T/162701-trainz-railroad-simulator-2019-l-and-n-m1-2-8-4-big-emma.json"
     },
     {
       "igdb_id": 153272,
@@ -589183,6 +589253,11 @@
       "file": "missing/T/153265-trainz-railroad-simulator-2019-victorian-railways-v-class-2-tone-green.json"
     },
     {
+      "igdb_id": 162703,
+      "game_name": "Trainz Railroad Simulator 2019: Victorian Railways V Class FL Black",
+      "file": "missing/T/162703-trainz-railroad-simulator-2019-victorian-railways-v-class-fl-black.json"
+    },
+    {
       "igdb_id": 190707,
       "game_name": "Trainz Railroad Simulator 2019: VR Healesville 1913-1920 TRS19",
       "file": "missing/T/190707-trainz-railroad-simulator-2019-vr-healesville-1913-1920-trs19.json"
@@ -589348,6 +589423,46 @@
       "file": "missing/T/161737-trainz-simulator-12-aerotrain.json"
     },
     {
+      "igdb_id": 162700,
+      "game_name": "Trainz Simulator 12: BR Class 14",
+      "file": "missing/T/162700-trainz-simulator-12-br-class-14.json"
+    },
+    {
+      "igdb_id": 162693,
+      "game_name": "Trainz Simulator 12: CONTZ Pack - Basic Edition",
+      "file": "missing/T/162693-trainz-simulator-12-contz-pack-basic-edition.json"
+    },
+    {
+      "igdb_id": 162696,
+      "game_name": "Trainz Simulator 12: CONTZ Pack - Standard Edition",
+      "file": "missing/T/162696-trainz-simulator-12-contz-pack-standard-edition.json"
+    },
+    {
+      "igdb_id": 162699,
+      "game_name": "Trainz Simulator 12: Coronation Scot",
+      "file": "missing/T/162699-trainz-simulator-12-coronation-scot.json"
+    },
+    {
+      "igdb_id": 162694,
+      "game_name": "Trainz Simulator 12: Nickel Plate High Speed Freight Set",
+      "file": "missing/T/162694-trainz-simulator-12-nickel-plate-high-speed-freight-set.json"
+    },
+    {
+      "igdb_id": 162698,
+      "game_name": "Trainz Simulator 12: PRR T1",
+      "file": "missing/T/162698-trainz-simulator-12-prr-t1.json"
+    },
+    {
+      "igdb_id": 162695,
+      "game_name": "Trainz Simulator 12: SNCF - AGC Languedoc",
+      "file": "missing/T/162695-trainz-simulator-12-sncf-agc-languedoc.json"
+    },
+    {
+      "igdb_id": 162697,
+      "game_name": "Trainz Simulator 12: SS4 China Coal Heavy Haul Pack",
+      "file": "missing/T/162697-trainz-simulator-12-ss4-china-coal-heavy-haul-pack.json"
+    },
+    {
       "igdb_id": 50112,
       "game_name": "Trainz Simulator 2009",
       "file": "missing/T/50112-trainz-simulator-2009.json"
@@ -589386,6 +589501,106 @@
       "igdb_id": 156169,
       "game_name": "Trainz: A New Era - Aerotrain",
       "file": "missing/T/156169-trainz-a-new-era-aerotrain.json"
+    },
+    {
+      "igdb_id": 162676,
+      "game_name": "Trainz: A New Era - Amtrak F40PH 2 Pack",
+      "file": "missing/T/162676-trainz-a-new-era-amtrak-f40ph-2-pack.json"
+    },
+    {
+      "igdb_id": 162669,
+      "game_name": "Trainz: A New Era - Amtrak P42DC: Phase V",
+      "file": "missing/T/162669-trainz-a-new-era-amtrak-p42dc-phase-v.json"
+    },
+    {
+      "igdb_id": 162677,
+      "game_name": "Trainz: A New Era - ATSF GP38-2 Santa FE 2 Pack",
+      "file": "missing/T/162677-trainz-a-new-era-atsf-gp38-2-santa-fe-2-pack.json"
+    },
+    {
+      "igdb_id": 162686,
+      "game_name": "Trainz: A New Era - BNSF GE Dash-9 44CW Warbonnet",
+      "file": "missing/T/162686-trainz-a-new-era-bnsf-ge-dash-9-44cw-warbonnet.json"
+    },
+    {
+      "igdb_id": 162672,
+      "game_name": "Trainz: A New Era - Canadian Rocky Mountains: Rogers Pass",
+      "file": "missing/T/162672-trainz-a-new-era-canadian-rocky-mountains-rogers-pass.json"
+    },
+    {
+      "igdb_id": 162680,
+      "game_name": "Trainz: A New Era - Chicago North Western GE Dash 9 44CW",
+      "file": "missing/T/162680-trainz-a-new-era-chicago-north-western-ge-dash-9-44cw.json"
+    },
+    {
+      "igdb_id": 162683,
+      "game_name": "Trainz: A New Era - Chinese Electric SS4 Locomotive Pack",
+      "file": "missing/T/162683-trainz-a-new-era-chinese-electric-ss4-locomotive-pack.json"
+    },
+    {
+      "igdb_id": 162682,
+      "game_name": "Trainz: A New Era - CO17-3173 Russian Loco and Tender",
+      "file": "missing/T/162682-trainz-a-new-era-co17-3173-russian-loco-and-tender.json"
+    },
+    {
+      "igdb_id": 162689,
+      "game_name": "Trainz: A New Era - CO17-3373 Russian Loco and Tender",
+      "file": "missing/T/162689-trainz-a-new-era-co17-3373-russian-loco-and-tender.json"
+    },
+    {
+      "igdb_id": 162670,
+      "game_name": "Trainz: A New Era - CO17-4173 Russian Loco and Tender",
+      "file": "missing/T/162670-trainz-a-new-era-co17-4173-russian-loco-and-tender.json"
+    },
+    {
+      "igdb_id": 162675,
+      "game_name": "Trainz: A New Era - CO17-4174 Russian Loco and Tender",
+      "file": "missing/T/162675-trainz-a-new-era-co17-4174-russian-loco-and-tender.json"
+    },
+    {
+      "igdb_id": 162690,
+      "game_name": "Trainz: A New Era - CO17-4373 Russian Loco and Tender",
+      "file": "missing/T/162690-trainz-a-new-era-co17-4373-russian-loco-and-tender.json"
+    },
+    {
+      "igdb_id": 162671,
+      "game_name": "Trainz: A New Era - EMD GP50: FRISCO",
+      "file": "missing/T/162671-trainz-a-new-era-emd-gp50-frisco.json"
+    },
+    {
+      "igdb_id": 162685,
+      "game_name": "Trainz: A New Era - EMD SD40-2: NS",
+      "file": "missing/T/162685-trainz-a-new-era-emd-sd40-2-ns.json"
+    },
+    {
+      "igdb_id": 162684,
+      "game_name": "Trainz: A New Era - Hccrrs Car Transporter",
+      "file": "missing/T/162684-trainz-a-new-era-hccrrs-car-transporter.json"
+    },
+    {
+      "igdb_id": 162667,
+      "game_name": "Trainz: A New Era - ITC GP7 Phase I & II (2 Pack)",
+      "file": "missing/T/162667-trainz-a-new-era-itc-gp7-phase-i-and-ii-2-pack.json"
+    },
+    {
+      "igdb_id": 162678,
+      "game_name": "Trainz: A New Era - Laadgs Transporter",
+      "file": "missing/T/162678-trainz-a-new-era-laadgs-transporter.json"
+    },
+    {
+      "igdb_id": 162668,
+      "game_name": "Trainz: A New Era - Laaers Car Transporter",
+      "file": "missing/T/162668-trainz-a-new-era-laaers-car-transporter.json"
+    },
+    {
+      "igdb_id": 162673,
+      "game_name": "Trainz: A New Era - NS SD60E: 6920 Veterans Unit",
+      "file": "missing/T/162673-trainz-a-new-era-ns-sd60e-6920-veterans-unit.json"
+    },
+    {
+      "igdb_id": 162688,
+      "game_name": "Trainz: A New Era - NS SD60E: 6963 GoRail",
+      "file": "missing/T/162688-trainz-a-new-era-ns-sd60e-6963-gorail.json"
     },
     {
       "igdb_id": 153302,
@@ -589436,6 +589651,36 @@
       "igdb_id": 153300,
       "game_name": "Trainz: A New Era - Route: The Shorts and Kerl Traction Railroad",
       "file": "missing/T/153300-trainz-a-new-era-route-the-shorts-and-kerl-traction-railroad.json"
+    },
+    {
+      "igdb_id": 162692,
+      "game_name": "Trainz: A New Era - RZD-UZ-RIC Wagons",
+      "file": "missing/T/162692-trainz-a-new-era-rzd-uz-ric-wagons.json"
+    },
+    {
+      "igdb_id": 162674,
+      "game_name": "Trainz: A New Era - Shmmns Coil Transporter",
+      "file": "missing/T/162674-trainz-a-new-era-shmmns-coil-transporter.json"
+    },
+    {
+      "igdb_id": 162691,
+      "game_name": "Trainz: A New Era - SNCF: AGC Languedoc",
+      "file": "missing/T/162691-trainz-a-new-era-sncf-agc-languedoc.json"
+    },
+    {
+      "igdb_id": 162679,
+      "game_name": "Trainz: A New Era - US ATC Class S 160 Steam",
+      "file": "missing/T/162679-trainz-a-new-era-us-atc-class-s-160-steam.json"
+    },
+    {
+      "igdb_id": 162681,
+      "game_name": "Trainz: A New Era - Victorian Railways D1 Class (Type 4: Newport) Black",
+      "file": "missing/T/162681-trainz-a-new-era-victorian-railways-d1-class-type-4-newport-black.json"
+    },
+    {
+      "igdb_id": 162687,
+      "game_name": "Trainz: A New Era - Victorian Railways Type 2 DD Class Pack",
+      "file": "missing/T/162687-trainz-a-new-era-victorian-railways-type-2-dd-class-pack.json"
     },
     {
       "igdb_id": 27895,
@@ -598066,6 +598311,11 @@
       "igdb_id": 368145,
       "game_name": "Ufophilia",
       "file": "missing/U/368145-ufophilia.json"
+    },
+    {
+      "igdb_id": 162707,
+      "game_name": "UfoPilot: The Phadt Menace - Steam Edition",
+      "file": "missing/U/162707-ufopilot-the-phadt-menace-steam-edition.json"
     },
     {
       "igdb_id": 60513,
