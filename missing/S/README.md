@@ -2087,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seemly Girl Escape | 233493 | [233493-seemly-girl-escape.json](./233493-seemly-girl-escape.json) |
 | Seemonster | 40784 | [40784-seemonster.json](./40784-seemonster.json) |
 | Seen | 117641 | [117641-seen.json](./117641-seen.json) |
+| Seen | 142972 | [142972-seen.json](./142972-seen.json) |
 | Seen on Screen | 225721 | [225721-seen-on-screen.json](./225721-seen-on-screen.json) |
 | Seers Isle | 86344 | [86344-seers-isle.json](./86344-seers-isle.json) |
 | SeeYou | 381606 | [381606-seeyou.json](./381606-seeyou.json) |
@@ -3499,6 +3500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shìjiè Zhīwài | 400305 | [400305-shijie-zhiwai.json](./400305-shijie-zhiwai.json) |
 | Shijou Saikyou No Deshi Kenichi: Gekitou! Ragnarok Hachikengou | 64664 | [64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json](./64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json) |
 | Shikakui Atama wo Maru Kusuru: Mainichi Minna no Challenge-hen | 409001 | [409001-shikakui-atama-wo-maru-kusuru-mainichi-minna-no-challenge-hen.json](./409001-shikakui-atama-wo-maru-kusuru-mainichi-minna-no-challenge-hen.json) |
+| Shikari Rising | 142949 | [142949-shikari-rising.json](./142949-shikari-rising.json) |
 | Shikhondo: Youkai Rampage | 283772 | [283772-shikhondo-youkai-rampage.json](./283772-shikhondo-youkai-rampage.json) |
 | Shiki no Kyouken: Kanna Zekkei | 147339 | [147339-shiki-no-kyouken-kanna-zekkei.json](./147339-shiki-no-kyouken-kanna-zekkei.json) |
 | Shiki Oni no Koku: Chuugoku-hen - Dainishou | 240303 | [240303-shiki-oni-no-koku-chuugoku-hen-dainishou.json](./240303-shiki-oni-no-koku-chuugoku-hen-dainishou.json) |
@@ -3837,6 +3839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shokutte Night | 97844 | [97844-shokutte-night.json](./97844-shokutte-night.json) |
 | Shonen Jump's One Piece | 75755 | [75755-shonen-jumps-one-piece.json](./75755-shonen-jumps-one-piece.json) |
 | Shoni Island | 306422 | [306422-shoni-island.json](./306422-shoni-island.json) |
+| ShooMachi | 142937 | [142937-shoomachi.json](./142937-shoomachi.json) |
 | Shoomer Booter | 287717 | [287717-shoomer-booter.json](./287717-shoomer-booter.json) |
 | Shooper Nova | 296512 | [296512-shooper-nova.json](./296512-shooper-nova.json) |
 | Shoot 'n' Smash | 340374 | [340374-shoot-n-smash.json](./340374-shoot-n-smash.json) |
@@ -7134,6 +7137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song Animals | 116101 | [116101-song-animals.json](./116101-song-animals.json) |
 | Song by the Sea | 207238 | [207238-song-by-the-sea.json](./207238-song-by-the-sea.json) |
 | Song in the Smoke | 145450 | [145450-song-in-the-smoke.json](./145450-song-in-the-smoke.json) |
+| Song of Calamity | 142966 | [142966-song-of-calamity.json](./142966-song-of-calamity.json) |
 | Song of Hero: Music RPG | 260763 | [260763-song-of-hero-music-rpg.json](./260763-song-of-hero-music-rpg.json) |
 | Song of Horror | 121555 | [121555-song-of-horror.json](./121555-song-of-horror.json) |
 | Song of Horror - Episode 3 | 135151 | [135151-song-of-horror-episode-3.json](./135151-song-of-horror-episode-3.json) |
@@ -10487,6 +10491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfighter 77 | 138810 | [138810-starfighter-77.json](./138810-starfighter-77.json) |
 | Starfighter Galaxy Defender VR | 175209 | [175209-starfighter-galaxy-defender-vr.json](./175209-starfighter-galaxy-defender-vr.json) |
 | StarFighter R&D HD Edition | 134689 | [134689-starfighter-r-and-d-hd-edition.json](./134689-starfighter-r-and-d-hd-edition.json) |
+| Starfighter: Eclipse | 142958 | [142958-starfighter-eclipse.json](./142958-starfighter-eclipse.json) |
 | Starflight 1+2 | 154450 | [154450-starflight-1-2.json](./154450-starflight-1-2.json) |
 | Starflower Inc. | 348788 | [348788-starflower-inc.json](./348788-starflower-inc.json) |
 | StarForce: 2193 | 34475 | [34475-starforce-2193.json](./34475-starforce-2193.json) |
@@ -14069,6 +14074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Yakyuu-dou | 76993 | [76993-super-yakyuu-dou.json](./76993-super-yakyuu-dou.json) |
 | Super Yuki Onna-chan | 154423 | [154423-super-yuki-onna-chan.json](./154423-super-yuki-onna-chan.json) |
 | Super Zangyura | 151652 | [151652-super-zangyura.json](./151652-super-zangyura.json) |
+| Super Zoo Story | 142957 | [142957-super-zoo-story.json](./142957-super-zoo-story.json) |
 | Super Zugan: Hakotenjou kara no Shoutai | 60498 | [60498-super-zugan-hakotenjou-kara-no-shoutai.json](./60498-super-zugan-hakotenjou-kara-no-shoutai.json) |
 | Super ZZT | 46656 | [46656-super-zzt.json](./46656-super-zzt.json) |
 | Super-B | 373220 | [373220-super-b.json](./373220-super-b.json) |
