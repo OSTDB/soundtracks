@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Underworld | 78933 | [78933-sacred-underworld.json](./78933-sacred-underworld.json) |
 | Sacred Zodongga Defense | 234576 | [234576-sacred-zodongga-defense.json](./234576-sacred-zodongga-defense.json) |
 | Sacreligious | 276460 | [276460-sacreligious.json](./276460-sacreligious.json) |
+| Sacrifice Your Friends | 121552 | [121552-sacrifice-your-friends.json](./121552-sacrifice-your-friends.json) |
 | Sacrifices | 330126 | [330126-sacrifices.json](./330126-sacrifices.json) |
 | Sacrifices Must Be Made | 182849 | [182849-sacrifices-must-be-made.json](./182849-sacrifices-must-be-made.json) |
 | SacriFire | 152268 | [152268-sacrifire.json](./152268-sacrifire.json) |
@@ -1586,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screenplay in Autumn | 392757 | [392757-screenplay-in-autumn.json](./392757-screenplay-in-autumn.json) |
 | Screens Up by Nickelodeon | 105974 | [105974-screens-up-by-nickelodeon.json](./105974-screens-up-by-nickelodeon.json) |
 | Screensavers VR | 400373 | [400373-screensavers-vr.json](./400373-screensavers-vr.json) |
+| Screeps: Arena | 121571 | [121571-screeps-arena.json](./121571-screeps-arena.json) |
 | Screeps: World | 25903 | [25903-screeps-world.json](./25903-screeps-world.json) |
 | Screw Drivers | 305376 | [305376-screw-drivers.json](./305376-screw-drivers.json) |
 | Screw Loose | 40412 | [40412-screw-loose.json](./40412-screw-loose.json) |
@@ -4514,6 +4516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicone Heart | 358369 | [358369-silicone-heart.json](./358369-silicone-heart.json) |
 | SiliCorp Systems | 321550 | [321550-silicorp-systems.json](./321550-silicorp-systems.json) |
 | Silivri | 376097 | [376097-silivri.json](./376097-silivri.json) |
+| Silk | 121573 | [121573-silk.json](./121573-silk.json) |
 | Silk & Sorrow | 415870 | [415870-silk-and-sorrow.json](./415870-silk-and-sorrow.json) |
 | Silk Suki: Chat Messaging Game | 298099 | [298099-silk-suki-chat-messaging-game.json](./298099-silk-suki-chat-messaging-game.json) |
 | Silke, Pixelines Lillesøster: Der Bor En Bager | 349491 | [349491-silke-pixelines-lilles-ster-der-bor-en-bager.json](./349491-silke-pixelines-lilles-ster-der-bor-en-bager.json) |
@@ -4994,6 +4997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sitnalta | 268762 | [268762-sitnalta.json](./268762-sitnalta.json) |
 | Sitri: Shadow Walk | 225092 | [225092-sitri-shadow-walk.json](./225092-sitri-shadow-walk.json) |
 | Sitten Kitten | 141110 | [141110-sitten-kitten.json](./141110-sitten-kitten.json) |
+| Sitting around the world on a hot air balloon | 121576 | [121576-sitting-around-the-world-on-a-hot-air-balloon.json](./121576-sitting-around-the-world-on-a-hot-air-balloon.json) |
 | Sitting Ducks | 210727 | [210727-sitting-ducks.json](./210727-sitting-ducks.json) |
 | Sitting Ducks | 402482 | [402482-sitting-ducks.json](./402482-sitting-ducks.json) |
 | Situation Outbreak | 91456 | [91456-situation-outbreak.json](./91456-situation-outbreak.json) |
@@ -5599,6 +5603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleep and Girls | 365272 | [365272-sleep-and-girls.json](./365272-sleep-and-girls.json) |
 | Sleep Clock: Record and Analyse Your Sleep Patterns | 84883 | [84883-sleep-clock-record-and-analyse-your-sleep-patterns.json](./84883-sleep-clock-record-and-analyse-your-sleep-patterns.json) |
 | Sleep Is Death | 20664 | [20664-sleep-is-death.json](./20664-sleep-is-death.json) |
+| Sleep Paralysis | 121564 | [121564-sleep-paralysis.json](./121564-sleep-paralysis.json) |
 | Sleep Paralysis: The Uncanny Valley | 196876 | [196876-sleep-paralysis-the-uncanny-valley.json](./196876-sleep-paralysis-the-uncanny-valley.json) |
 | Sleep Simulator | 304593 | [304593-sleep-simulator.json](./304593-sleep-simulator.json) |
 | Sleep Stream | 306339 | [306339-sleep-stream.json](./306339-sleep-stream.json) |
@@ -5733,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime 3k: Demake | 322759 | [322759-slime-3k-demake.json](./322759-slime-3k-demake.json) |
 | Slime 3K: Rise Against Despot | 244377 | [244377-slime-3k-rise-against-despot.json](./244377-slime-3k-rise-against-despot.json) |
 | Slime 64 | 144114 | [144114-slime-64.json](./144114-slime-64.json) |
+| Slime Adventure Legacy | 121537 | [121537-slime-adventure-legacy.json](./121537-slime-adventure-legacy.json) |
 | Slime Age: Parody MMORPG Clicker | 108411 | [108411-slime-age-parody-mmorpg-clicker.json](./108411-slime-age-parody-mmorpg-clicker.json) |
 | Slime Alchemist | 265108 | [265108-slime-alchemist.json](./265108-slime-alchemist.json) |
 | Slime and Rancher | 102756 | [102756-slime-and-rancher.json](./102756-slime-and-rancher.json) |
@@ -10349,6 +10355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek III | 69258 | [69258-star-trek-iii.json](./69258-star-trek-iii.json) |
 | Star Trek Online | 7584 | [7584-star-trek-online.json](./7584-star-trek-online.json) |
 | Star Trek Online: Agents of Yesterday | 23285 | [23285-star-trek-online-agents-of-yesterday.json](./23285-star-trek-online-agents-of-yesterday.json) |
+| Star Trek Online: Awakening | 121530 | [121530-star-trek-online-awakening.json](./121530-star-trek-online-awakening.json) |
 | Star Trek Online: Rise of Discovery | 120207 | [120207-star-trek-online-rise-of-discovery.json](./120207-star-trek-online-rise-of-discovery.json) |
 | Star Trek Prodigy: Supernova | 202419 | [202419-star-trek-prodigy-supernova.json](./202419-star-trek-prodigy-supernova.json) |
 | Star Trek Scene It? | 216322 | [216322-star-trek-scene-it.json](./216322-star-trek-scene-it.json) |
