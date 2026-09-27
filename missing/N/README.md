@@ -3239,6 +3239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyan to Wonderful | 143674 | [143674-nyan-to-wonderful.json](./143674-nyan-to-wonderful.json) |
 | Nyancle Racing | 94668 | [94668-nyancle-racing.json](./94668-nyancle-racing.json) |
 | Nyanco Dream | 126557 | [126557-nyanco-dream.json](./126557-nyanco-dream.json) |
+| Nyanco Mine | 164284 | [164284-nyanco-mine.json](./164284-nyanco-mine.json) |
 | Nyanco Project | 120984 | [120984-nyanco-project.json](./120984-nyanco-project.json) |
 | Nyanco Space | 133220 | [133220-nyanco-space.json](./133220-nyanco-space.json) |
 | Nyandanoid | 205096 | [205096-nyandanoid.json](./205096-nyandanoid.json) |
