@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A World of Ice and Fire | 356195 | [356195-a-world-of-ice-and-fire.json](./356195-a-world-of-ice-and-fire.json) |
 | A World of Keflings: Sugar, Spice and Not So Nice | 377854 | [377854-a-world-of-keflings-sugar-spice-and-not-so-nice.json](./377854-a-world-of-keflings-sugar-spice-and-not-so-nice.json) |
 | A World of Wishes | 260754 | [260754-a-world-of-wishes.json](./260754-a-world-of-wishes.json) |
+| A World With No Colour | 122257 | [122257-a-world-with-no-colour.json](./122257-a-world-with-no-colour.json) |
 | A World Without... Videogames | 352373 | [352373-a-world-without-videogames.json](./352373-a-world-without-videogames.json) |
 | A xustiza pola man | 176271 | [176271-a-xustiza-pola-man.json](./176271-a-xustiza-pola-man.json) |
 | A Year at Pooh Corner | 45575 | [45575-a-year-at-pooh-corner.json](./45575-a-year-at-pooh-corner.json) |
