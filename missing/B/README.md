@@ -4452,6 +4452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Island | 227916 | [227916-blood-island.json](./227916-blood-island.json) |
 | Blood Kiss | 146247 | [146247-blood-kiss.json](./146247-blood-kiss.json) |
 | Blood Knights | 8421 | [8421-blood-knights.json](./8421-blood-knights.json) |
+| Blood Knot | 150578 | [150578-blood-knot.json](./150578-blood-knot.json) |
 | Blood Lily: Killers Can't Sink a Yuri Ship | 360199 | [360199-blood-lily-killers-cant-sink-a-yuri-ship.json](./360199-blood-lily-killers-cant-sink-a-yuri-ship.json) |
 | Blood Lines: Magicians' Chase 2 | 300775 | [300775-blood-lines-magicians-chase-2.json](./300775-blood-lines-magicians-chase-2.json) |
 | Blood Mall: Part II | 380553 | [380553-blood-mall-part-ii.json](./380553-blood-mall-part-ii.json) |
@@ -4925,6 +4926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Body and Soul | 176977 | [176977-body-and-soul.json](./176977-body-and-soul.json) |
 | Body Cam Shooter | 328555 | [328555-body-cam-shooter.json](./328555-body-cam-shooter.json) |
 | Body Count | 273366 | [273366-body-count.json](./273366-body-count.json) |
+| Body Elements | 150551 | [150551-body-elements.json](./150551-body-elements.json) |
 | Body Glove Bluewater Hunter | 65189 | [65189-body-glove-bluewater-hunter.json](./65189-body-glove-bluewater-hunter.json) |
 | Body Language | 68034 | [68034-body-language.json](./68034-body-language.json) |
 | Body Pay | 296665 | [296665-body-pay.json](./296665-body-pay.json) |
@@ -5417,6 +5419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderline Homicide | 245788 | [245788-borderline-homicide.json](./245788-borderline-homicide.json) |
 | Borderline Project: Beta-2 | 184577 | [184577-borderline-project-beta-2.json](./184577-borderline-project-beta-2.json) |
 | BorderStrain | 115037 | [115037-borderstrain.json](./115037-borderstrain.json) |
+| Borderus: Angels & Demons | 150547 | [150547-borderus-angels-and-demons.json](./150547-borderus-angels-and-demons.json) |
 | Boreal Tenebrae | 195729 | [195729-boreal-tenebrae.json](./195729-boreal-tenebrae.json) |
 | Boreal Tenebrae: Deluxe Definitive Edition | 259582 | [259582-boreal-tenebrae-deluxe-definitive-edition.json](./259582-boreal-tenebrae-deluxe-definitive-edition.json) |
 | Boreal Tenebrae: Deluxe Extended Edition | 250366 | [250366-boreal-tenebrae-deluxe-extended-edition.json](./250366-boreal-tenebrae-deluxe-extended-edition.json) |
