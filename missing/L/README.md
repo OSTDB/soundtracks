@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Glarefall | 352737 | [352737-land-of-glarefall.json](./352737-land-of-glarefall.json) |
 | Land of Idyllic Beauty | 348355 | [348355-land-of-idyllic-beauty.json](./348355-land-of-idyllic-beauty.json) |
 | Land of Illusion Starring Mickey Mouse | 8123 | [8123-land-of-illusion-starring-mickey-mouse.json](./8123-land-of-illusion-starring-mickey-mouse.json) |
+| Land of Legends | 130833 | [130833-land-of-legends.json](./130833-land-of-legends.json) |
 | Land of Mushrooms: Co-Op mode - Play with Friends | 324497 | [324497-land-of-mushrooms-co-op-mode-play-with-friends.json](./324497-land-of-mushrooms-co-op-mode-play-with-friends.json) |
 | Land of Mushrooms: Forest of Nightmares - Background | 324469 | [324469-land-of-mushrooms-forest-of-nightmares-background.json](./324469-land-of-mushrooms-forest-of-nightmares-background.json) |
 | Land of Mushrooms: Kawaii Animals - Skin Set | 324429 | [324429-land-of-mushrooms-kawaii-animals-skin-set.json](./324429-land-of-mushrooms-kawaii-animals-skin-set.json) |
@@ -403,6 +404,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Largo Winch: Empire Under Threat | 3971 | [3971-largo-winch-empire-under-threat.json](./3971-largo-winch-empire-under-threat.json) |
 | Larn | 2889 | [2889-larn.json](./2889-larn.json) |
 | Larry and the Long Look for a Luscious Lover | 195509 | [195509-larry-and-the-long-look-for-a-luscious-lover.json](./195509-larry-and-the-long-look-for-a-luscious-lover.json) |
+| Larry Bond's Harpoon 3: Advanced Naval Warfare | 130797 | [130797-larry-bonds-harpoon-3-advanced-naval-warfare.json](./130797-larry-bonds-harpoon-3-advanced-naval-warfare.json) |
+| Larry Bond's Harpoon Commander's Edition | 130796 | [130796-larry-bonds-harpoon-commanders-edition.json](./130796-larry-bonds-harpoon-commanders-edition.json) |
 | Larry Lotter and the Test of Time | 57096 | [57096-larry-lotter-and-the-test-of-time.json](./57096-larry-lotter-and-the-test-of-time.json) |
 | Larry the Dinosaur 2: Something in the Cola | 217509 | [217509-larry-the-dinosaur-2-something-in-the-cola.json](./217509-larry-the-dinosaur-2-something-in-the-cola.json) |
 | Larry: Wet Dreams Dry Twice | 200194 | [200194-larry-wet-dreams-dry-twice.json](./200194-larry-wet-dreams-dry-twice.json) |
