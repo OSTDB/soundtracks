@@ -1497,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent in Depth | 216716 | [216716-agent-in-depth.json](./216716-agent-in-depth.json) |
 | Agent Lovesdick | 225635 | [225635-agent-lovesdick.json](./225635-agent-lovesdick.json) |
 | Agent MOO: Maximum Overdeath | 66387 | [66387-agent-moo-maximum-overdeath.json](./66387-agent-moo-maximum-overdeath.json) |
+| Agent Murphy | 164260 | [164260-agent-murphy.json](./164260-agent-murphy.json) |
 | Agent Reverb | 235149 | [235149-agent-reverb.json](./235149-agent-reverb.json) |
 | Agent Roy: Zombie Hunt | 232449 | [232449-agent-roy-zombie-hunt.json](./232449-agent-roy-zombie-hunt.json) |
 | Agent X: Equation Rider | 81754 | [81754-agent-x-equation-rider.json](./81754-agent-x-equation-rider.json) |
@@ -3561,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Robot Girlfriend | 290508 | [290508-angry-robot-girlfriend.json](./290508-angry-robot-girlfriend.json) |
 | Angry Sonic Maze | 95997 | [95997-angry-sonic-maze.json](./95997-angry-sonic-maze.json) |
 | Angry Space Bees | 149029 | [149029-angry-space-bees.json](./149029-angry-space-bees.json) |
+| Angry Squirrel | 164233 | [164233-angry-squirrel.json](./164233-angry-squirrel.json) |
 | Angry stone | 296533 | [296533-angry-stone.json](./296533-angry-stone.json) |
 | Angry Troll | 122210 | [122210-angry-troll.json](./122210-angry-troll.json) |
 | Angry Universe VR | 297066 | [297066-angry-universe-vr.json](./297066-angry-universe-vr.json) |
@@ -5680,6 +5682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AsiaKingdom | 302343 | [302343-asiakingdom.json](./302343-asiakingdom.json) |
 | Asian Cargo Sim | 224115 | [224115-asian-cargo-sim.json](./224115-asian-cargo-sim.json) |
 | Asian Dynamite | 39645 | [39645-asian-dynamite.json](./39645-asian-dynamite.json) |
+| Asian Mahjong | 164270 | [164270-asian-mahjong.json](./164270-asian-mahjong.json) |
 | Asian Truck Simulator | 214165 | [214165-asian-truck-simulator.json](./214165-asian-truck-simulator.json) |
 | Ask Gear Re:Boost | 325447 | [325447-ask-gear-re-boost.json](./325447-ask-gear-re-boost.json) |
 | Ask her out | 287096 | [287096-ask-her-out.json](./287096-ask-her-out.json) |
@@ -5949,6 +5952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids | 89564 | [89564-asteroids.json](./89564-asteroids.json) |
 | Asteroids & Super Breakout | 78656 | [78656-asteroids-and-super-breakout.json](./78656-asteroids-and-super-breakout.json) |
 | Asteroids Bangers | 178980 | [178980-asteroids-bangers.json](./178980-asteroids-bangers.json) |
+| Asteroids Belt: Try to Survive! | 164232 | [164232-asteroids-belt-try-to-survive.json](./164232-asteroids-belt-try-to-survive.json) |
 | Asteroids Deluxe | 13689 | [13689-asteroids-deluxe.json](./13689-asteroids-deluxe.json) |
 | Asteroids Hyper 64 | 10664 | [10664-asteroids-hyper-64.json](./10664-asteroids-hyper-64.json) |
 | Asteroids Maneuvers | 149946 | [149946-asteroids-maneuvers.json](./149946-asteroids-maneuvers.json) |
@@ -6622,6 +6626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Test | 347705 | [347705-auto-test.json](./347705-auto-test.json) |
 | Auto Tow Truck Simulator | 278710 | [278710-auto-tow-truck-simulator.json](./278710-auto-tow-truck-simulator.json) |
 | Auto Tuktuk Mafia | 411587 | [411587-auto-tuktuk-mafia.json](./411587-auto-tuktuk-mafia.json) |
+| Auto World Tycoon | 164240 | [164240-auto-world-tycoon.json](./164240-auto-world-tycoon.json) |
 | Auto WWII Equips | 374825 | [374825-auto-wwii-equips.json](./374825-auto-wwii-equips.json) |
 | Auto-Upturn | 48692 | [48692-auto-upturn.json](./48692-auto-upturn.json) |
 | Autobahn Chaos | 179138 | [179138-autobahn-chaos.json](./179138-autobahn-chaos.json) |
