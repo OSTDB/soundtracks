@@ -1290,11 +1290,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De griezelbus 2 | 78322 | [78322-de-griezelbus-2.json](./78322-de-griezelbus-2.json) |
 | Dé_Intricate | 310534 | [310534-de-intricate.json](./310534-de-intricate.json) |
 | De-Exit: Eternal Matters | 172757 | [172757-de-exit-eternal-matters.json](./172757-de-exit-eternal-matters.json) |
+| De: Yabatanien | 145548 | [145548-de-yabatanien.json](./145548-de-yabatanien.json) |
 | De:Fanastasis | 297812 | [297812-de-fanastasis.json](./297812-de-fanastasis.json) |
 | De:Void | 135813 | [135813-de-void.json](./135813-de-void.json) |
 | De'Vot | 258497 | [258497-devot.json](./258497-devot.json) |
 | Dea | 288852 | [288852-dea.json](./288852-dea.json) |
 | Deabirth: Real | 182816 | [182816-deabirth-real.json](./182816-deabirth-real.json) |
+| Deacon Blues | 145517 | [145517-deacon-blues.json](./145517-deacon-blues.json) |
 | Dead | 168127 | [168127-dead.json](./168127-dead.json) |
 | Dead | 90624 | [90624-dead.json](./90624-dead.json) |
 | Dead 4 Dress | 135019 | [135019-dead-4-dress.json](./135019-dead-4-dress.json) |
@@ -1411,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Island 2: Gold Edition | 214472 | [214472-dead-island-2-gold-edition.json](./214472-dead-island-2-gold-edition.json) |
 | Dead Island 2: SoLA | 298542 | [298542-dead-island-2-sola.json](./298542-dead-island-2-sola.json) |
 | Dead Island 2: Ultimate Edition | 320310 | [320310-dead-island-2-ultimate-edition.json](./320310-dead-island-2-ultimate-edition.json) |
+| Dead Island Double Pack | 145526 | [145526-dead-island-double-pack.json](./145526-dead-island-double-pack.json) |
 | Dead Island: Bloodbath Arena | 22932 | [22932-dead-island-bloodbath-arena.json](./22932-dead-island-bloodbath-arena.json) |
 | Dead Island: Game of the Year Edition | 47400 | [47400-dead-island-game-of-the-year-edition.json](./47400-dead-island-game-of-the-year-edition.json) |
 | Dead Lab | 223661 | [223661-dead-lab.json](./223661-dead-lab.json) |
@@ -2024,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dededeball | 395701 | [395701-dededeball.json](./395701-dededeball.json) |
 | Deduce Together | 308884 | [308884-deduce-together.json](./308884-deduce-together.json) |
 | Deductum | 355531 | [355531-deductum.json](./355531-deductum.json) |
+| Dee-6: Dice Defenders | 145562 | [145562-dee-6-dice-defenders.json](./145562-dee-6-dice-defenders.json) |
 | Deed: Sustainable Business | 240201 | [240201-deed-sustainable-business.json](./240201-deed-sustainable-business.json) |
 | Deeds Were Done 2: Project Ascend | 414425 | [414425-deeds-were-done-2-project-ascend.json](./414425-deeds-were-done-2-project-ascend.json) |
 | Deeeep.io | 79267 | [79267-deeeep-io.json](./79267-deeeep-io.json) |
@@ -6643,6 +6647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift 19 | 47161 | [47161-drift-19.json](./47161-drift-19.json) |
 | Drift Alone | 126631 | [126631-drift-alone.json](./126631-drift-alone.json) |
 | Drift Apocalypse | 296091 | [296091-drift-apocalypse.json](./296091-drift-apocalypse.json) |
+| Drift Boss | 145531 | [145531-drift-boss.json](./145531-drift-boss.json) |
 | Drift City | 259514 | [259514-drift-city.json](./259514-drift-city.json) |
 | Drift Clash Online Racing | 227241 | [227241-drift-clash-online-racing.json](./227241-drift-clash-online-racing.json) |
 | Drift Clicker | 233496 | [233496-drift-clicker.json](./233496-drift-clicker.json) |
@@ -6650,6 +6655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Gang | 372449 | [372449-drift-gang.json](./372449-drift-gang.json) |
 | Drift Girls | 58786 | [58786-drift-girls.json](./58786-drift-girls.json) |
 | Drift Highway: Retro Console Edition | 365855 | [365855-drift-highway-retro-console-edition.json](./365855-drift-highway-retro-console-edition.json) |
+| Drift Hunters | 145530 | [145530-drift-hunters.json](./145530-drift-hunters.json) |
 | Drift Journey: Nitro | 214499 | [214499-drift-journey-nitro.json](./214499-drift-journey-nitro.json) |
 | Drift King Shuto-kou Battle 2: Tsuchiya Keiichi & Bandou Masaaki | 46582 | [46582-drift-king-shuto-kou-battle-2-tsuchiya-keiichi-and-bandou-masaaki.json](./46582-drift-king-shuto-kou-battle-2-tsuchiya-keiichi-and-bandou-masaaki.json) |
 | Drift Legends | 89647 | [89647-drift-legends.json](./89647-drift-legends.json) |
