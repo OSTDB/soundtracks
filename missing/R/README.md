@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RaidersSphere4th | 35981 | [35981-raiderssphere4th.json](./35981-raiderssphere4th.json) |
 | Raidfield 2 | 160242 | [160242-raidfield-2.json](./160242-raidfield-2.json) |
 | Raiding Zone | 236242 | [236242-raiding-zone.json](./236242-raiding-zone.json) |
+| RaidLand | 132728 | [132728-raidland.json](./132728-raidland.json) |
 | Raidlands | 125826 | [125826-raidlands.json](./125826-raidlands.json) |
 | Raidol: Injoku ni Ochita Seiningyou | 108970 | [108970-raidol-injoku-ni-ochita-seiningyou.json](./108970-raidol-injoku-ni-ochita-seiningyou.json) |
 | Raidou Remastered: Kuzunoha Village Trainings | 347332 | [347332-raidou-remastered-kuzunoha-village-trainings.json](./347332-raidou-remastered-kuzunoha-village-trainings.json) |
@@ -763,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramshackle | 374162 | [374162-ramshackle.json](./374162-ramshackle.json) |
 | Rana Neida | 303070 | [303070-rana-neida.json](./303070-rana-neida.json) |
 | Rana Rama | 30805 | [30805-rana-rama.json](./30805-rana-rama.json) |
+| Rance 03: The Fall of Leazas | 132710 | [132710-rance-03-the-fall-of-leazas.json](./132710-rance-03-the-fall-of-leazas.json) |
 | Rance 4.1: Okusuri Koujou wo Sukue! | 132638 | [132638-rance-4-1-okusuri-koujou-wo-sukue.json](./132638-rance-4-1-okusuri-koujou-wo-sukue.json) |
 | Rance 4.2: Angel-gumi | 132639 | [132639-rance-4-2-angel-gumi.json](./132639-rance-4-2-angel-gumi.json) |
 | Rance 5D: The Lonely Girl | 132655 | [132655-rance-5d-the-lonely-girl.json](./132655-rance-5d-the-lonely-girl.json) |
@@ -770,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rance II: Hangyaku no Shoujo-tachi | 57642 | [57642-rance-ii-hangyaku-no-shoujo-tachi.json](./57642-rance-ii-hangyaku-no-shoujo-tachi.json) |
 | Rance III: Leazas Kanraku | 41406 | [41406-rance-iii-leazas-kanraku.json](./41406-rance-iii-leazas-kanraku.json) |
 | Rance IV: Kyoudan no Isan | 41405 | [41405-rance-iv-kyoudan-no-isan.json](./41405-rance-iv-kyoudan-no-isan.json) |
+| Rance Quest | 132689 | [132689-rance-quest.json](./132689-rance-quest.json) |
 | Rance Quest Magnum | 137669 | [137669-rance-quest-magnum.json](./137669-rance-quest-magnum.json) |
 | Rance VI Sonogo | 329187 | [329187-rance-vi-sonogo.json](./329187-rance-vi-sonogo.json) |
 | Rance VI: Collapse of Zeth | 132656 | [132656-rance-vi-collapse-of-zeth.json](./132656-rance-vi-collapse-of-zeth.json) |
@@ -4444,6 +4447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Coaster Mania | 144896 | [144896-roller-coaster-mania.json](./144896-roller-coaster-mania.json) |
 | Roller Coaster Rampage | 16359 | [16359-roller-coaster-rampage.json](./16359-roller-coaster-rampage.json) |
 | Roller Jammer | 40420 | [40420-roller-jammer.json](./40420-roller-jammer.json) |
+| Roller Riot | 132703 | [132703-roller-riot.json](./132703-roller-riot.json) |
 | Roller Rush | 209008 | [209008-roller-rush.json](./209008-roller-rush.json) |
 | Roller Stars | 149017 | [149017-roller-stars.json](./149017-roller-stars.json) |
 | Roller-Skating | 328498 | [328498-roller-skating.json](./328498-roller-skating.json) |
