@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T03:03:37.395Z",
-  "total_missing": 128626,
+  "generated_at": "2026-09-27T03:18:20.474Z",
+  "total_missing": 128676,
   "games": [
     {
       "igdb_id": 186066,
@@ -13648,6 +13648,11 @@
       "file": "missing/A/258425-ai-kills-all-humans.json"
     },
     {
+      "igdb_id": 167081,
+      "game_name": "Ai Kiss: Limited Edition",
+      "file": "missing/A/167081-ai-kiss-limited-edition.json"
+    },
+    {
       "igdb_id": 269327,
       "game_name": "AI Mahjong 2003",
       "file": "missing/A/269327-ai-mahjong-2003.json"
@@ -19083,6 +19088,11 @@
       "file": "missing/A/227215-almanaque-recreio.json"
     },
     {
+      "igdb_id": 167076,
+      "game_name": "Almari",
+      "file": "missing/A/167076-almari.json"
+    },
+    {
       "igdb_id": 156618,
       "game_name": "Almastriga: Relics of Azathoth",
       "file": "missing/A/156618-almastriga-relics-of-azathoth.json"
@@ -20191,6 +20201,11 @@
       "igdb_id": 121724,
       "game_name": "Amamane",
       "file": "missing/A/121724-amamane.json"
+    },
+    {
+      "igdb_id": 167038,
+      "game_name": "Amamane 2: Limited Edition",
+      "file": "missing/A/167038-amamane-2-limited-edition.json"
     },
     {
       "igdb_id": 329164,
@@ -28501,6 +28516,11 @@
       "igdb_id": 308358,
       "game_name": "Arc Nova Base",
       "file": "missing/A/308358-arc-nova-base.json"
+    },
+    {
+      "igdb_id": 167040,
+      "game_name": "Arc of Alchemist: Limited Edition",
+      "file": "missing/A/167040-arc-of-alchemist-limited-edition.json"
     },
     {
       "igdb_id": 244485,
@@ -37331,6 +37351,11 @@
       "igdb_id": 354258,
       "game_name": "Atelier Ryza Secret Trilogy Deluxe Pack",
       "file": "missing/A/354258-atelier-ryza-secret-trilogy-deluxe-pack.json"
+    },
+    {
+      "igdb_id": 167072,
+      "game_name": "Atelier Ryza: Ever Darkness & the Secret Hideout - Collector's Edition",
+      "file": "missing/A/167072-atelier-ryza-ever-darkness-and-the-secret-hideout-collectors-edition.json"
     },
     {
       "igdb_id": 238227,
@@ -46481,6 +46506,11 @@
       "igdb_id": 109727,
       "game_name": "Bardo",
       "file": "missing/B/109727-bardo.json"
+    },
+    {
+      "igdb_id": 167075,
+      "game_name": "Bardysh: Kromeford no Juunin",
+      "file": "missing/B/167075-bardysh-kromeford-no-juunin.json"
     },
     {
       "igdb_id": 197269,
@@ -56138,6 +56168,11 @@
       "file": "missing/B/43921-big-ol-bass-2.json"
     },
     {
+      "igdb_id": 167042,
+      "game_name": "Big Pharma: Special Edition",
+      "file": "missing/B/167042-big-pharma-special-edition.json"
+    },
+    {
       "igdb_id": 126894,
       "game_name": "Big Red Hood: Halloween",
       "file": "missing/B/126894-big-red-hood-halloween.json"
@@ -61093,6 +61128,11 @@
       "file": "missing/B/9706-bleed.json"
     },
     {
+      "igdb_id": 167059,
+      "game_name": "Bleed + Bleed 2: Limited Edition",
+      "file": "missing/B/167059-bleed-bleed-2-limited-edition.json"
+    },
+    {
       "igdb_id": 118854,
       "game_name": "Bleed Complete Bundle",
       "file": "missing/B/118854-bleed-complete-bundle.json"
@@ -64433,6 +64473,11 @@
       "file": "missing/B/396396-blue-reflection-final-fantasy-xv-costumes.json"
     },
     {
+      "igdb_id": 167079,
+      "game_name": "Blue Reflection: Premium Box",
+      "file": "missing/B/167079-blue-reflection-premium-box.json"
+    },
+    {
       "igdb_id": 396237,
       "game_name": "Blue Reflection: Second Light",
       "file": "missing/B/396237-blue-reflection-second-light.json"
@@ -64456,6 +64501,11 @@
       "igdb_id": 159275,
       "game_name": "Blue Ribbon Darts",
       "file": "missing/B/159275-blue-ribbon-darts.json"
+    },
+    {
+      "igdb_id": 167046,
+      "game_name": "Blue Rider: Collector's Edition",
+      "file": "missing/B/167046-blue-rider-collectors-edition.json"
     },
     {
       "igdb_id": 265390,
@@ -66221,6 +66271,11 @@
       "igdb_id": 116147,
       "game_name": "Bomber Crew: American Edition",
       "file": "missing/B/116147-bomber-crew-american-edition.json"
+    },
+    {
+      "igdb_id": 167048,
+      "game_name": "Bomber Crew: Complete Edition",
+      "file": "missing/B/167048-bomber-crew-complete-edition.json"
     },
     {
       "igdb_id": 118956,
@@ -80971,6 +81026,11 @@
       "igdb_id": 150655,
       "game_name": "Capcom Arcade Stadium: Tatakai no Banka",
       "file": "missing/C/150655-capcom-arcade-stadium-tatakai-no-banka.json"
+    },
+    {
+      "igdb_id": 167077,
+      "game_name": "Capcom Beat 'Em Up Bundle: Collector's Box",
+      "file": "missing/C/167077-capcom-beat-em-up-bundle-collectors-box.json"
     },
     {
       "igdb_id": 23005,
@@ -120093,6 +120153,11 @@
       "file": "missing/D/207920-d-c-4-da-capo-4-fortunate-departures.json"
     },
     {
+      "igdb_id": 167044,
+      "game_name": "D.C.4: Da Capo 4 - Limited Edition",
+      "file": "missing/D/167044-d-c-4-da-capo-4-limited-edition.json"
+    },
+    {
       "igdb_id": 408137,
       "game_name": "D.C.5 to 4: Luminous Memories",
       "file": "missing/D/408137-d-c-5-to-4-luminous-memories.json"
@@ -121903,6 +121968,11 @@
       "file": "missing/D/152401-danganronpa-v3-killing-harmony-anniversary-edition.json"
     },
     {
+      "igdb_id": 167053,
+      "game_name": "Danganronpa V3: Killing Harmony - Limited Edition",
+      "file": "missing/D/167053-danganronpa-v3-killing-harmony-limited-edition.json"
+    },
+    {
       "igdb_id": 282660,
       "game_name": "Danganronpa V3: Killing Harmony Demo Ver.",
       "file": "missing/D/282660-danganronpa-v3-killing-harmony-demo-ver.json"
@@ -122486,6 +122556,11 @@
       "igdb_id": 139992,
       "game_name": "Darius Cozmic Revelation",
       "file": "missing/D/139992-darius-cozmic-revelation.json"
+    },
+    {
+      "igdb_id": 167082,
+      "game_name": "Darius Cozmic Revelation: Special Limited Edition",
+      "file": "missing/D/167082-darius-cozmic-revelation-special-limited-edition.json"
     },
     {
       "igdb_id": 294786,
@@ -127131,6 +127206,11 @@
       "igdb_id": 26930,
       "game_name": "Dead or Alive Xtreme 3: Fortune - VR Paradise",
       "file": "missing/D/26930-dead-or-alive-xtreme-3-fortune-vr-paradise.json"
+    },
+    {
+      "igdb_id": 167033,
+      "game_name": "Dead or Alive Xtreme 3: Saikyou Package",
+      "file": "missing/D/167033-dead-or-alive-xtreme-3-saikyou-package.json"
     },
     {
       "igdb_id": 68297,
@@ -138038,6 +138118,11 @@
       "file": "missing/D/27327-dimension-drive.json"
     },
     {
+      "igdb_id": 167045,
+      "game_name": "Dimension Drive: Limited Edition",
+      "file": "missing/D/167045-dimension-drive-limited-edition.json"
+    },
+    {
       "igdb_id": 213969,
       "game_name": "Dimension M",
       "file": "missing/D/213969-dimension-m.json"
@@ -139861,6 +139946,11 @@
       "igdb_id": 205262,
       "game_name": "Disgaea 4 Complete+: A Promise of Sardines Edition",
       "file": "missing/D/205262-disgaea-4-complete-a-promise-of-sardines-edition.json"
+    },
+    {
+      "igdb_id": 167058,
+      "game_name": "Disgaea 5: Alliance of Vengeance - Limited Edition",
+      "file": "missing/D/167058-disgaea-5-alliance-of-vengeance-limited-edition.json"
     },
     {
       "igdb_id": 191497,
@@ -158961,6 +159051,11 @@
       "igdb_id": 352842,
       "game_name": "Earth Atlantis 2",
       "file": "missing/E/352842-earth-atlantis-2.json"
+    },
+    {
+      "igdb_id": 167041,
+      "game_name": "Earth Atlantis: Limited Edition",
+      "file": "missing/E/167041-earth-atlantis-limited-edition.json"
     },
     {
       "igdb_id": 204085,
@@ -203568,6 +203663,11 @@
       "file": "missing/F/27726-furwind.json"
     },
     {
+      "igdb_id": 167049,
+      "game_name": "Furwind: Limited Edition",
+      "file": "missing/F/167049-furwind-limited-edition.json"
+    },
+    {
       "igdb_id": 240773,
       "game_name": "Fury",
       "file": "missing/F/240773-fury.json"
@@ -207271,6 +207371,11 @@
       "igdb_id": 52187,
       "game_name": "Game Tengoku: Cruisin Mix",
       "file": "missing/G/52187-game-tengoku-cruisin-mix.json"
+    },
+    {
+      "igdb_id": 167054,
+      "game_name": "Game Tengoku: Cruisin Mix Special - Gokuraku Box",
+      "file": "missing/G/167054-game-tengoku-cruisin-mix-special-gokuraku-box.json"
     },
     {
       "igdb_id": 283308,
@@ -232693,6 +232798,11 @@
       "file": "missing/H/117659-hatsune-miku-project-diva-future-tone-dx.json"
     },
     {
+      "igdb_id": 167080,
+      "game_name": "Hatsune Miku: Project Diva Future Tone DX - Memorial Pack",
+      "file": "missing/H/167080-hatsune-miku-project-diva-future-tone-dx-memorial-pack.json"
+    },
+    {
       "igdb_id": 120278,
       "game_name": "Hatsune Miku: Project Diva Mega Mix",
       "file": "missing/H/120278-hatsune-miku-project-diva-mega-mix.json"
@@ -253541,6 +253651,11 @@
       "igdb_id": 7319,
       "game_name": "Hyperdimension Neptunia",
       "file": "missing/H/7319-hyperdimension-neptunia.json"
+    },
+    {
+      "igdb_id": 167043,
+      "game_name": "Hyperdimension Neptunia Re;Birth 1 Plus: Limited Edition",
+      "file": "missing/H/167043-hyperdimension-neptunia-re-birth-1-plus-limited-edition.json"
     },
     {
       "igdb_id": 8902,
@@ -279373,6 +279488,11 @@
       "file": "missing/K/345505-karts-with-chat.json"
     },
     {
+      "igdb_id": 167036,
+      "game_name": "Karumaruka Circle: Limited Edition",
+      "file": "missing/K/167036-karumaruka-circle-limited-edition.json"
+    },
+    {
       "igdb_id": 62982,
       "game_name": "Karyuu Jyou",
       "file": "missing/K/62982-karyuu-jyou.json"
@@ -282918,6 +283038,11 @@
       "file": "missing/K/334298-kindaichi-mystery-series-the-honjin-murders.json"
     },
     {
+      "igdb_id": 167062,
+      "game_name": "Kindaichi Shounen no Jikenbo 3: Shouryuu Densetsu Satsujin Jiken",
+      "file": "missing/K/167062-kindaichi-shounen-no-jikenbo-3-shouryuu-densetsu-satsujin-jiken.json"
+    },
+    {
       "igdb_id": 228581,
       "game_name": "Kindaichi Shounen no Jikenbo: 10-nenme no Shoutaijou",
       "file": "missing/K/228581-kindaichi-shounen-no-jikenbo-10-nenme-no-shoutaijou.json"
@@ -282926,6 +283051,16 @@
       "igdb_id": 122979,
       "game_name": "Kindaichi Shounen no Jikenbo: Akuma no Satsujin Koukai",
       "file": "missing/K/122979-kindaichi-shounen-no-jikenbo-akuma-no-satsujin-koukai.json"
+    },
+    {
+      "igdb_id": 167060,
+      "game_name": "Kindaichi Shounen no Jikenbo: Hihou-shima Aratanaru Sangeki",
+      "file": "missing/K/167060-kindaichi-shounen-no-jikenbo-hihou-shima-aratanaru-sangeki.json"
+    },
+    {
+      "igdb_id": 167061,
+      "game_name": "Kindaichi Shounen no Jikenbo: Jigoku Yuuen Satsujin Jiken",
+      "file": "missing/K/167061-kindaichi-shounen-no-jikenbo-jigoku-yuuen-satsujin-jiken.json"
     },
     {
       "igdb_id": 260690,
@@ -283741,6 +283876,11 @@
       "igdb_id": 166176,
       "game_name": "Kingdom Come: Deliverance - Limited Edition",
       "file": "missing/K/166176-kingdom-come-deliverance-limited-edition.json"
+    },
+    {
+      "igdb_id": 167066,
+      "game_name": "Kingdom Come: Deliverance - Royal Collector’s Edition",
+      "file": "missing/K/167066-kingdom-come-deliverance-royal-collector-s-edition.json"
     },
     {
       "igdb_id": 155078,
@@ -291691,6 +291831,11 @@
       "igdb_id": 62775,
       "game_name": "Langrisser I & II",
       "file": "missing/L/62775-langrisser-i-and-ii.json"
+    },
+    {
+      "igdb_id": 167037,
+      "game_name": "Langrisser I & II: Limited Edition Box",
+      "file": "missing/L/167037-langrisser-i-and-ii-limited-edition-box.json"
     },
     {
       "igdb_id": 69226,
@@ -361123,6 +361268,11 @@
       "file": "missing/N/135338-neptunia-virtual-stars.json"
     },
     {
+      "igdb_id": 167057,
+      "game_name": "Neptunia: Virtual Stars - Emotional Limited Edition",
+      "file": "missing/N/167057-neptunia-virtual-stars-emotional-limited-edition.json"
+    },
+    {
       "igdb_id": 186890,
       "game_name": "Neptunia: Virtual Stars - VIP Edition",
       "file": "missing/N/186890-neptunia-virtual-stars-vip-edition.json"
@@ -364908,6 +365058,11 @@
       "file": "missing/N/270671-nightmare-below-disney.json"
     },
     {
+      "igdb_id": 167047,
+      "game_name": "Nightmare Boy: Mongano's Edition",
+      "file": "missing/N/167047-nightmare-boy-monganos-edition.json"
+    },
+    {
       "igdb_id": 340550,
       "game_name": "Nightmare Break",
       "file": "missing/N/340550-nightmare-break.json"
@@ -368201,6 +368356,16 @@
       "igdb_id": 131367,
       "game_name": "Nobunaga's Ambition Mobile",
       "file": "missing/N/131367-nobunagas-ambition-mobile.json"
+    },
+    {
+      "igdb_id": 167063,
+      "game_name": "Nobunaga's Ambition Online: Kakusei no Shou",
+      "file": "missing/N/167063-nobunagas-ambition-online-kakusei-no-shou.json"
+    },
+    {
+      "igdb_id": 167064,
+      "game_name": "Nobunaga's Ambition Online: Kakusei no Shou - Treasure Box",
+      "file": "missing/N/167064-nobunagas-ambition-online-kakusei-no-shou-treasure-box.json"
     },
     {
       "igdb_id": 294852,
@@ -391111,6 +391276,11 @@
       "igdb_id": 273953,
       "game_name": "Pawar",
       "file": "missing/P/273953-pawar.json"
+    },
+    {
+      "igdb_id": 167051,
+      "game_name": "Pawarumi: Limited Edition",
+      "file": "missing/P/167051-pawarumi-limited-edition.json"
     },
     {
       "igdb_id": 314862,
@@ -416448,6 +416618,11 @@
       "file": "missing/P/126587-project-starship-x.json"
     },
     {
+      "igdb_id": 167083,
+      "game_name": "Project Starship X: Limited Edition",
+      "file": "missing/P/167083-project-starship-x-limited-edition.json"
+    },
+    {
       "igdb_id": 259260,
       "game_name": "Project Stratarch",
       "file": "missing/P/259260-project-stratarch.json"
@@ -435983,6 +436158,11 @@
       "file": "missing/R/210710-resident-evil-2.json"
     },
     {
+      "igdb_id": 167078,
+      "game_name": "Resident Evil 2 + Resident Evil 3 Bundle",
+      "file": "missing/R/167078-resident-evil-2-resident-evil-3-bundle.json"
+    },
+    {
       "igdb_id": 105979,
       "game_name": "Resident Evil 2: Collector's Edition",
       "file": "missing/R/105979-resident-evil-2-collectors-edition.json"
@@ -436086,6 +436266,11 @@
       "igdb_id": 90566,
       "game_name": "Resident Evil 7 Teaser: Beginning Hour",
       "file": "missing/R/90566-resident-evil-7-teaser-beginning-hour.json"
+    },
+    {
+      "igdb_id": 167065,
+      "game_name": "Resident Evil 7: Biohazard - Gold Edition Grotesque Version",
+      "file": "missing/R/167065-resident-evil-7-biohazard-gold-edition-grotesque-version.json"
     },
     {
       "igdb_id": 27395,
@@ -451508,6 +451693,11 @@
       "file": "missing/R/6548-ryl-path-of-the-emperor.json"
     },
     {
+      "igdb_id": 167035,
+      "game_name": "Rym 9000: Limited Edition",
+      "file": "missing/R/167035-rym-9000-limited-edition.json"
+    },
+    {
       "igdb_id": 11735,
       "game_name": "RymdResa",
       "file": "missing/R/11735-rymdresa.json"
@@ -451601,6 +451791,11 @@
       "igdb_id": 125193,
       "game_name": "Ryuuo no Oshigoto!",
       "file": "missing/R/125193-ryuuo-no-oshigoto.json"
+    },
+    {
+      "igdb_id": 167073,
+      "game_name": "Ryuuo no Oshigoto!: Limited Edition",
+      "file": "missing/R/167073-ryuuo-no-oshigoto-limited-edition.json"
     },
     {
       "igdb_id": 184411,
@@ -454521,6 +454716,11 @@
       "igdb_id": 19991,
       "game_name": "Samurai Shodown 64: Warriors Rage",
       "file": "missing/S/19991-samurai-shodown-64-warriors-rage.json"
+    },
+    {
+      "igdb_id": 167069,
+      "game_name": "Samurai Shodown NeoGeo Collection: Limited Edition Pack",
+      "file": "missing/S/167069-samurai-shodown-neogeo-collection-limited-edition-pack.json"
     },
     {
       "igdb_id": 23272,
@@ -462636,6 +462836,11 @@
       "igdb_id": 17990,
       "game_name": "Semispheres",
       "file": "missing/S/17990-semispheres.json"
+    },
+    {
+      "igdb_id": 167034,
+      "game_name": "Semispheres: Blue Cover Limited Edition",
+      "file": "missing/S/167034-semispheres-blue-cover-limited-edition.json"
     },
     {
       "igdb_id": 238752,
@@ -510158,6 +510363,11 @@
       "file": "missing/S/107262-streets-of-rage-4.json"
     },
     {
+      "igdb_id": 167055,
+      "game_name": "Streets of Rage 4: Special Edition",
+      "file": "missing/S/167055-streets-of-rage-4-special-edition.json"
+    },
+    {
       "igdb_id": 272336,
       "game_name": "Streets of Rage Zombies",
       "file": "missing/S/272336-streets-of-rage-zombies.json"
@@ -552728,9 +552938,19 @@
       "file": "missing/T/169217-the-legend-of-heroes-trails-of-cold-steel-iii-digital-limited-edition.json"
     },
     {
+      "igdb_id": 167067,
+      "game_name": "The Legend of Heroes: Trails of Cold Steel III - Limited Kiseki Box",
+      "file": "missing/T/167067-the-legend-of-heroes-trails-of-cold-steel-iii-limited-kiseki-box.json"
+    },
+    {
       "igdb_id": 169218,
       "game_name": "The Legend of Heroes: Trails of Cold Steel IV - Digital Deluxe Edition",
       "file": "missing/T/169218-the-legend-of-heroes-trails-of-cold-steel-iv-digital-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 167068,
+      "game_name": "The Legend of Heroes: Trails of Cold Steel IV - Eternal Preservation Edition",
+      "file": "missing/T/167068-the-legend-of-heroes-trails-of-cold-steel-iv-eternal-preservation-edition.json"
     },
     {
       "igdb_id": 227335,
@@ -560778,6 +560998,11 @@
       "file": "missing/T/209556-the-silver-age.json"
     },
     {
+      "igdb_id": 167074,
+      "game_name": "The Silver Case 2425: Limited Edition",
+      "file": "missing/T/167074-the-silver-case-2425-limited-edition.json"
+    },
+    {
       "igdb_id": 51921,
       "game_name": "The Silver Case: Deluxe Edition",
       "file": "missing/T/51921-the-silver-case-deluxe-edition.json"
@@ -566396,6 +566621,11 @@
       "igdb_id": 24909,
       "game_name": "The Witch and the Hundred Knight 2",
       "file": "missing/T/24909-the-witch-and-the-hundred-knight-2.json"
+    },
+    {
+      "igdb_id": 167070,
+      "game_name": "The Witch and the Hundred Knight 2: Limited Edition",
+      "file": "missing/T/167070-the-witch-and-the-hundred-knight-2-limited-edition.json"
     },
     {
       "igdb_id": 394549,
@@ -603163,6 +603393,11 @@
       "file": "missing/U/221743-utakata-no-r-kako-hen-awayuki.json"
     },
     {
+      "igdb_id": 167052,
+      "game_name": "Utauta-Uh: Seirei Songs",
+      "file": "missing/U/167052-utauta-uh-seirei-songs.json"
+    },
+    {
       "igdb_id": 24080,
       "game_name": "Utawarerumono",
       "file": "missing/U/24080-utawarerumono.json"
@@ -603171,6 +603406,11 @@
       "igdb_id": 387541,
       "game_name": "Utawarerumono: Past and Present Rediscovered",
       "file": "missing/U/387541-utawarerumono-past-and-present-rediscovered.json"
+    },
+    {
+      "igdb_id": 167071,
+      "game_name": "Utawarerumono: Prelude to the Fallen - Premium Edition",
+      "file": "missing/U/167071-utawarerumono-prelude-to-the-fallen-premium-edition.json"
     },
     {
       "igdb_id": 60488,
@@ -606136,6 +606376,11 @@
       "igdb_id": 377292,
       "game_name": "VeloCity",
       "file": "missing/V/377292-velocity.json"
+    },
+    {
+      "igdb_id": 167039,
+      "game_name": "Velocity 2X: Critical Mass Edition",
+      "file": "missing/V/167039-velocity-2x-critical-mass-edition.json"
     },
     {
       "igdb_id": 250375,
@@ -635511,6 +635756,11 @@
       "igdb_id": 203885,
       "game_name": "Yomawari: Lost in the Dark",
       "file": "missing/Y/203885-yomawari-lost-in-the-dark.json"
+    },
+    {
+      "igdb_id": 167050,
+      "game_name": "Yomawari: Midnight Shadows - Limited Edition",
+      "file": "missing/Y/167050-yomawari-midnight-shadows-limited-edition.json"
     },
     {
       "igdb_id": 11589,
