@@ -1370,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afo | 78330 | [78330-afo.json](./78330-afo.json) |
 | Afraid of the Night | 148489 | [148489-afraid-of-the-night.json](./148489-afraid-of-the-night.json) |
 | Africa Empire 2027 | 219680 | [219680-africa-empire-2027.json](./219680-africa-empire-2027.json) |
+| Africa Help | 133354 | [133354-africa-help.json](./133354-africa-help.json) |
 | African Safari | 74039 | [74039-african-safari.json](./74039-african-safari.json) |
 | African Safari Trophy Hunter 3D | 206098 | [206098-african-safari-trophy-hunter-3d.json](./206098-african-safari-trophy-hunter-3d.json) |
 | Afro Samurai 2: Revenge of Kuma | 20030 | [20030-afro-samurai-2-revenge-of-kuma.json](./20030-afro-samurai-2-revenge-of-kuma.json) |
