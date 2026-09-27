@@ -3667,6 +3667,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Dahlia | 12405 | [12405-black-dahlia.json](./12405-black-dahlia.json) |
 | Black Dawn | 125312 | [125312-black-dawn.json](./125312-black-dawn.json) |
 | Black Dawn | 45503 | [45503-black-dawn.json](./45503-black-dawn.json) |
+| Black Dawn II | 124725 | [124725-black-dawn-ii.json](./124725-black-dawn-ii.json) |
+| Black Dawn Rebirth | 124712 | [124712-black-dawn-rebirth.json](./124712-black-dawn-rebirth.json) |
+| Black Dawn VI: Hellbound | 124724 | [124724-black-dawn-vi-hellbound.json](./124724-black-dawn-vi-hellbound.json) |
 | Black Death | 65753 | [65753-black-death.json](./65753-black-death.json) |
 | Black Desert Mobile | 54701 | [54701-black-desert-mobile.json](./54701-black-desert-mobile.json) |
 | Black Desert Online: Prestige Edition | 139914 | [139914-black-desert-online-prestige-edition.json](./139914-black-desert-online-prestige-edition.json) |
@@ -4517,6 +4520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Gear | 42020 | [42020-blood-gear.json](./42020-blood-gear.json) |
 | Blood girl | 177854 | [177854-blood-girl.json](./177854-blood-girl.json) |
 | Blood Golf | 264083 | [264083-blood-golf.json](./264083-blood-golf.json) |
+| Blood Idol Wakabayashi | 124676 | [124676-blood-idol-wakabayashi.json](./124676-blood-idol-wakabayashi.json) |
 | Blood II: Revelations | 127929 | [127929-blood-ii-revelations.json](./127929-blood-ii-revelations.json) |
 | Blood II: The Chosen | 11265 | [11265-blood-ii-the-chosen.json](./11265-blood-ii-the-chosen.json) |
 | Blood II: The Chosen - The Nightmare Levels | 95451 | [95451-blood-ii-the-chosen-the-nightmare-levels.json](./95451-blood-ii-the-chosen-the-nightmare-levels.json) |
