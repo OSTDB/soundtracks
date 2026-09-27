@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N0-Exit | 31987 | [31987-n0-exit.json](./31987-n0-exit.json) |
 | N00b's Guide | 404956 | [404956-n00bs-guide.json](./404956-n00bs-guide.json) |
 | N0de: Machina Omega | 82470 | [82470-n0de-machina-omega.json](./82470-n0de-machina-omega.json) |
+| N1NE: The Splintered Mind Part 1 | 154424 | [154424-n1ne-the-splintered-mind-part-1.json](./154424-n1ne-the-splintered-mind-part-1.json) |
 | N1RV Ann-A: Cyberpunk Bartender Action | 109582 | [109582-n1rv-ann-a-cyberpunk-bartender-action.json](./109582-n1rv-ann-a-cyberpunk-bartender-action.json) |
 | N3Rally | 310204 | [310204-n3rally.json](./310204-n3rally.json) |
 | N64 SP Map Jam | 300421 | [300421-n64-sp-map-jam.json](./300421-n64-sp-map-jam.json) |
@@ -1662,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ni Hao, Kai-lan: Beach Day | 109052 | [109052-ni-hao-kai-lan-beach-day.json](./109052-ni-hao-kai-lan-beach-day.json) |
 | Ni Hao, Kai-Lan: New Year's Celebration | 97371 | [97371-ni-hao-kai-lan-new-years-celebration.json](./97371-ni-hao-kai-lan-new-years-celebration.json) |
 | Ni Hao, Kai-Lan: Super Happy Day! | 230393 | [230393-ni-hao-kai-lan-super-happy-day.json](./230393-ni-hao-kai-lan-super-happy-day.json) |
+| Ni no Kuni II: Revenant Kingdom - Adventure Pack | 154454 | [154454-ni-no-kuni-ii-revenant-kingdom-adventure-pack.json](./154454-ni-no-kuni-ii-revenant-kingdom-adventure-pack.json) |
 | Ni no Kuni II: Revenant Kingdom - Tale of a Timeless Tome | 115646 | [115646-ni-no-kuni-ii-revenant-kingdom-tale-of-a-timeless-tome.json](./115646-ni-no-kuni-ii-revenant-kingdom-tale-of-a-timeless-tome.json) |
 | Ni no Kuni II: Revenant Kingdom - The Lair of the Lost Lord | 154455 | [154455-ni-no-kuni-ii-revenant-kingdom-the-lair-of-the-lost-lord.json](./154455-ni-no-kuni-ii-revenant-kingdom-the-lair-of-the-lost-lord.json) |
 | Ni no Kuni: Wrath of the White Witch | 1864 | [1864-ni-no-kuni-wrath-of-the-white-witch.json](./1864-ni-no-kuni-wrath-of-the-white-witch.json) |
@@ -3107,6 +3109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Titbit | 113375 | [113375-nuclear-titbit.json](./113375-nuclear-titbit.json) |
 | Nuclear Titbit 2 | 250593 | [250593-nuclear-titbit-2.json](./250593-nuclear-titbit-2.json) |
 | Nuclear War | 12189 | [12189-nuclear-war.json](./12189-nuclear-war.json) |
+| Nuclear War Simulator | 154350 | [154350-nuclear-war-simulator.json](./154350-nuclear-war-simulator.json) |
 | Nuclear Winter | 221663 | [221663-nuclear-winter.json](./221663-nuclear-winter.json) |
 | NuclearDanger | 180806 | [180806-nucleardanger.json](./180806-nucleardanger.json) |
 | NuclearRifle | 384527 | [384527-nuclearrifle.json](./384527-nuclearrifle.json) |
