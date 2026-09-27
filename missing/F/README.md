@@ -624,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FalseGod's Gambit | 373007 | [373007-falsegods-gambit.json](./373007-falsegods-gambit.json) |
 | Falsion | 64648 | [64648-falsion.json](./64648-falsion.json) |
 | Falskaar | 313266 | [313266-falskaar.json](./313266-falskaar.json) |
+| Falta | 169764 | [169764-falta.json](./169764-falta.json) |
 | Famaze | 9170 | [9170-famaze.json](./9170-famaze.json) |
 | Fame or Folly | 394181 | [394181-fame-or-folly.json](./394181-fame-or-folly.json) |
 | Famicom Bunko: Hajimari no Mori | 42245 | [42245-famicom-bunko-hajimari-no-mori.json](./42245-famicom-bunko-hajimari-no-mori.json) |
@@ -1412,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faye Falling | 189136 | [189136-faye-falling.json](./189136-faye-falling.json) |
 | Faye: A Tale of Shadow | 192885 | [192885-faye-a-tale-of-shadow.json](./192885-faye-a-tale-of-shadow.json) |
 | Faylinn's Quest | 173840 | [173840-faylinns-quest.json](./173840-faylinns-quest.json) |
+| FBG Arcade Machine | 169761 | [169761-fbg-arcade-machine.json](./169761-fbg-arcade-machine.json) |
 | FBI Mania | 30065 | [30065-fbi-mania.json](./30065-fbi-mania.json) |
 | FC 26 Quiz | 396596 | [396596-fc-26-quiz.json](./396596-fc-26-quiz.json) |
 | FC Barcelona Club Football | 267881 | [267881-fc-barcelona-club-football.json](./267881-fc-barcelona-club-football.json) |
@@ -1958,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | File Destined | 235446 | [235446-file-destined.json](./235446-file-destined.json) |
 | File://maniac | 118374 | [118374-file-maniac.json](./118374-file-maniac.json) |
 | FileKiller | 294215 | [294215-filekiller.json](./294215-filekiller.json) |
+| Fill & Cross: Christmas Riddles | 169788 | [169788-fill-and-cross-christmas-riddles.json](./169788-fill-and-cross-christmas-riddles.json) |
 | Fill & Cross: Pirate Riddles 2 | 101556 | [101556-fill-and-cross-pirate-riddles-2.json](./101556-fill-and-cross-pirate-riddles-2.json) |
 | Fill & Cross: Pirate Riddles 3 | 213014 | [213014-fill-and-cross-pirate-riddles-3.json](./213014-fill-and-cross-pirate-riddles-3.json) |
 | Fill and Cross: Trick or Treat | 163987 | [163987-fill-and-cross-trick-or-treat.json](./163987-fill-and-cross-trick-or-treat.json) |
