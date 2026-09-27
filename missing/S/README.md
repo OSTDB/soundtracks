@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrappage | 236248 | [236248-scrappage.json](./236248-scrappage.json) |
 | Scrapped | 243402 | [243402-scrapped.json](./243402-scrapped.json) |
 | Scrapper | 82399 | [82399-scrapper.json](./82399-scrapper.json) |
+| Scrappers | 132114 | [132114-scrappers.json](./132114-scrappers.json) |
 | Scrappy Stinks! | 307954 | [307954-scrappy-stinks.json](./307954-scrappy-stinks.json) |
 | Scraps and Patches | 111726 | [111726-scraps-and-patches.json](./111726-scraps-and-patches.json) |
 | Scraps of the Machine | 377683 | [377683-scraps-of-the-machine.json](./377683-scraps-of-the-machine.json) |
@@ -5486,6 +5487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slash Mr. M | 181152 | [181152-slash-mr-m.json](./181152-slash-mr-m.json) |
 | Slash of Bullet | 151675 | [151675-slash-of-bullet.json](./151675-slash-of-bullet.json) |
 | Slash of Sword 2 | 254157 | [254157-slash-of-sword-2.json](./254157-slash-of-sword-2.json) |
+| Slash Roll | 132081 | [132081-slash-roll.json](./132081-slash-roll.json) |
 | Slash Them All | 239626 | [239626-slash-them-all.json](./239626-slash-them-all.json) |
 | Slash'EM Extended | 351135 | [351135-slashem-extended.json](./351135-slashem-extended.json) |
 | Slash/Jump | 313317 | [313317-slash-jump.json](./313317-slash-jump.json) |
@@ -12508,6 +12510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suidou Kozou | 91949 | [91949-suidou-kozou.json](./91949-suidou-kozou.json) |
 | Suigetsu 2 | 93515 | [93515-suigetsu-2.json](./93515-suigetsu-2.json) |
 | Suigetsu: Mayoi-Gokoro | 396592 | [396592-suigetsu-mayoi-gokoro.json](./396592-suigetsu-mayoi-gokoro.json) |
+| Suika | 132085 | [132085-suika.json](./132085-suika.json) |
 | Suika Dish More Plates | 276166 | [276166-suika-dish-more-plates.json](./276166-suika-dish-more-plates.json) |
 | Suika Game | 221740 | [221740-suika-game.json](./221740-suika-game.json) |
 | Suika Game Planet | 366891 | [366891-suika-game-planet.json](./366891-suika-game-planet.json) |
