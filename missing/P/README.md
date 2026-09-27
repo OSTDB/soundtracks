@@ -361,6 +361,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paitan Small Town | 159804 | [159804-paitan-small-town.json](./159804-paitan-small-town.json) |
 | Paiteo: Yeongung-eul Gidalimyeo | 98430 | [98430-paiteo-yeongung-eul-gidalimyeo.json](./98430-paiteo-yeongung-eul-gidalimyeo.json) |
 | Pajama Sam 2: Thunder and Lightning Aren't so Frightening | 3731 | [3731-pajama-sam-2-thunder-and-lightning-arent-so-frightening.json](./3731-pajama-sam-2-thunder-and-lightning-arent-so-frightening.json) |
+| Pajama Sam Vol. 1 | 154442 | [154442-pajama-sam-vol-1.json](./154442-pajama-sam-vol-1.json) |
+| Pajama Sam Vol. 2 | 154440 | [154440-pajama-sam-vol-2.json](./154440-pajama-sam-vol-2.json) |
 | Pakacuda | 83264 | [83264-pakacuda.json](./83264-pakacuda.json) |
 | Pakka Pets Village | 230212 | [230212-pakka-pets-village.json](./230212-pakka-pets-village.json) |
 | Pakku Pony | 374671 | [374671-pakku-pony.json](./374671-pakku-pony.json) |
@@ -3865,6 +3867,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlanetSide 2 | 1265 | [1265-planetside-2.json](./1265-planetside-2.json) |
 | PlanetSide 2: Essential Pack | 225573 | [225573-planetside-2-essential-pack.json](./225573-planetside-2-essential-pack.json) |
 | PlanetSide Arena | 113362 | [113362-planetside-arena.json](./113362-planetside-arena.json) |
+| PlanetSide Arena: Legendary Edition | 154452 | [154452-planetside-arena-legendary-edition.json](./154452-planetside-arena-legendary-edition.json) |
+| PlanetSide Arena: Recruit Edition | 154451 | [154451-planetside-arena-recruit-edition.json](./154451-planetside-arena-recruit-edition.json) |
 | PlanetSmith | 263777 | [263777-planetsmith.json](./263777-planetsmith.json) |
 | Planetstar Warrior | 290689 | [290689-planetstar-warrior.json](./290689-planetstar-warrior.json) |
 | Planeturem | 326259 | [326259-planeturem.json](./326259-planeturem.json) |
@@ -4588,6 +4592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Online | 311459 | [311459-pokemon-online.json](./311459-pokemon-online.json) |
 | Pokémon Orange | 141203 | [141203-pokemon-orange.json](./141203-pokemon-orange.json) |
 | Pokémon Party Mini | 66031 | [66031-pokemon-party-mini.json](./66031-pokemon-party-mini.json) |
+| Pokémon Pathways | 154415 | [154415-pokemon-pathways.json](./154415-pokemon-pathways.json) |
 | Pokémon Pearl Version | 1518 | [1518-pokemon-pearl-version.json](./1518-pokemon-pearl-version.json) |
 | Pokemon Penumbra Moon | 288205 | [288205-pokemon-penumbra-moon.json](./288205-pokemon-penumbra-moon.json) |
 | Pokémon Pesadilla | 254529 | [254529-pokemon-pesadilla.json](./254529-pokemon-pesadilla.json) |
