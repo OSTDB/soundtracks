@@ -2111,6 +2111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetrigram | 195489 | [195489-tetrigram.json](./195489-tetrigram.json) |
 | Tetriller | 84247 | [84247-tetriller.json](./84247-tetriller.json) |
 | TetriMatch | 339273 | [339273-tetrimatch.json](./339273-tetrimatch.json) |
+| Tetris | 133912 | [133912-tetris.json](./133912-tetris.json) |
 | Tetris | 180279 | [180279-tetris.json](./180279-tetris.json) |
 | Tetris | 185669 | [185669-tetris.json](./185669-tetris.json) |
 | Tetris | 213370 | [213370-tetris.json](./213370-tetris.json) |
@@ -6571,6 +6572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Resonance Initiative | 405691 | [405691-the-resonance-initiative.json](./405691-the-resonance-initiative.json) |
 | The Resonant | 289971 | [289971-the-resonant.json](./289971-the-resonant.json) |
 | The Rest is Silence | 271770 | [271770-the-rest-is-silence.json](./271770-the-rest-is-silence.json) |
+| The Restless | 133873 | [133873-the-restless.json](./133873-the-restless.json) |
 | The Restless Dead | 87304 | [87304-the-restless-dead.json](./87304-the-restless-dead.json) |
 | The Restless Resort | 271987 | [271987-the-restless-resort.json](./271987-the-restless-resort.json) |
 | The Restless Sheep & The Lone Wolf: A Tale of Cutthroat Lovers | 307070 | [307070-the-restless-sheep-and-the-lone-wolf-a-tale-of-cutthroat-lovers.json](./307070-the-restless-sheep-and-the-lone-wolf-a-tale-of-cutthroat-lovers.json) |
@@ -13547,6 +13549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try to Reach 10 | 130732 | [130732-try-to-reach-10.json](./130732-try-to-reach-10.json) |
 | Try to Survive | 116552 | [116552-try-to-survive.json](./116552-try-to-survive.json) |
 | Try to Win 2 | 196055 | [196055-try-to-win-2.json](./196055-try-to-win-2.json) |
+| Try. Die. Repeat. | 133875 | [133875-try-die-repeat.json](./133875-try-die-repeat.json) |
 | Tryhard | 330935 | [330935-tryhard.json](./330935-tryhard.json) |
 | Trying | 225719 | [225719-trying.json](./225719-trying.json) |
 | Trying to Sing in Static | 230291 | [230291-trying-to-sing-in-static.json](./230291-trying-to-sing-in-static.json) |
