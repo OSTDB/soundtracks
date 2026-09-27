@@ -3160,6 +3160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FleurBirdShoot | 192931 | [192931-fleurbirdshoot.json](./192931-fleurbirdshoot.json) |
 | Flewn | 18087 | [18087-flewn.json](./18087-flewn.json) |
 | Flex City | 358973 | [358973-flex-city.json](./358973-flex-city.json) |
+| Flex hooks | 147889 | [147889-flex-hooks.json](./147889-flex-hooks.json) |
 | Flexibility and Girls | 147979 | [147979-flexibility-and-girls.json](./147979-flexibility-and-girls.json) |
 | Flexible Survival | 60023 | [60023-flexible-survival.json](./60023-flexible-survival.json) |
 | FlexibleJigsaw: Journey | 357882 | [357882-flexiblejigsaw-journey.json](./357882-flexiblejigsaw-journey.json) |
@@ -4025,6 +4026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Friends Match | 340231 | [340231-forest-friends-match.json](./340231-forest-friends-match.json) |
 | Forest God | 313255 | [313255-forest-god.json](./313255-forest-god.json) |
 | Forest Grump | 199471 | [199471-forest-grump.json](./199471-forest-grump.json) |
+| Forest Guardian | 147859 | [147859-forest-guardian.json](./147859-forest-guardian.json) |
 | Forest Harvester Tractor 3D | 89941 | [89941-forest-harvester-tractor-3d.json](./89941-forest-harvester-tractor-3d.json) |
 | Forest Heroes | 311581 | [311581-forest-heroes.json](./311581-forest-heroes.json) |
 | Forest Hills: The Last Year | 292310 | [292310-forest-hills-the-last-year.json](./292310-forest-hills-the-last-year.json) |
@@ -4064,6 +4066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forestless | 351275 | [351275-forestless.json](./351275-forestless.json) |
 | Forestrike | 310694 | [310694-forestrike.json](./310694-forestrike.json) |
 | Forestry | 29950 | [29950-forestry.json](./29950-forestry.json) |
+| Forestry: The Simulation | 147858 | [147858-forestry-the-simulation.json](./147858-forestry-the-simulation.json) |
 | Forests of Augusta | 104035 | [104035-forests-of-augusta.json](./104035-forests-of-augusta.json) |
 | Forêt Éternelle | 187362 | [187362-foret-eternelle.json](./187362-foret-eternelle.json) |
 | Foretales | 195096 | [195096-foretales.json](./195096-foretales.json) |
@@ -4792,6 +4795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Strategy Chess Game | 349862 | [349862-free-strategy-chess-game.json](./349862-free-strategy-chess-game.json) |
 | Free the Bird | 319165 | [319165-free-the-bird.json](./319165-free-the-bird.json) |
 | Free the Lazy Dogs | 258516 | [258516-free-the-lazy-dogs.json](./258516-free-the-lazy-dogs.json) |
+| Free Throw Basketball | 147868 | [147868-free-throw-basketball.json](./147868-free-throw-basketball.json) |
 | Free Will | 291462 | [291462-free-will.json](./291462-free-will.json) |
 | Free Yourself - The Gravity Puzzle Game Starring YOU | 81789 | [81789-free-yourself-the-gravity-puzzle-game-starring-you.json](./81789-free-yourself-the-gravity-puzzle-game-starring-you.json) |
 | Free-Energy | 180576 | [180576-free-energy.json](./180576-free-energy.json) |
