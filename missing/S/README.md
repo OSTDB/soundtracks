@@ -5463,7 +5463,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepin' Guy: Deluxe Edition | 188043 | [188043-sleepin-guy-deluxe-edition.json](./188043-sleepin-guy-deluxe-edition.json) |
 | Sleeping Beauty X : The Legend of Tales | 175984 | [175984-sleeping-beauty-x-the-legend-of-tales.json](./175984-sleeping-beauty-x-the-legend-of-tales.json) |
 | Sleeping Dawn VR | 100585 | [100585-sleeping-dawn-vr.json](./100585-sleeping-dawn-vr.json) |
+| Sleeping Dogs: Drunken Fist Pack | 166007 | [166007-sleeping-dogs-drunken-fist-pack.json](./166007-sleeping-dogs-drunken-fist-pack.json) |
+| Sleeping Dogs: Monkey King Pack | 166003 | [166003-sleeping-dogs-monkey-king-pack.json](./166003-sleeping-dogs-monkey-king-pack.json) |
 | Sleeping Dogs: Nightmare in North Point | 10872 | [10872-sleeping-dogs-nightmare-in-north-point.json](./10872-sleeping-dogs-nightmare-in-north-point.json) |
+| Sleeping Dogs: Police Protection Pack | 166004 | [166004-sleeping-dogs-police-protection-pack.json](./166004-sleeping-dogs-police-protection-pack.json) |
+| Sleeping Dogs: Street Racer Pack | 166002 | [166002-sleeping-dogs-street-racer-pack.json](./166002-sleeping-dogs-street-racer-pack.json) |
+| Sleeping Dogs: Tactical Soldier Pack | 166005 | [166005-sleeping-dogs-tactical-soldier-pack.json](./166005-sleeping-dogs-tactical-soldier-pack.json) |
+| Sleeping Dogs: The SWAT Pack | 166006 | [166006-sleeping-dogs-the-swat-pack.json](./166006-sleeping-dogs-the-swat-pack.json) |
 | Sleeping Dogs: Year of the Snake | 10873 | [10873-sleeping-dogs-year-of-the-snake.json](./10873-sleeping-dogs-year-of-the-snake.json) |
 | Sleeping Flowers: Thread Curse | 233490 | [233490-sleeping-flowers-thread-curse.json](./233490-sleeping-flowers-thread-curse.json) |
 | Sleeping Forest | 292513 | [292513-sleeping-forest.json](./292513-sleeping-forest.json) |
@@ -10236,6 +10242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Rogue Leaders - Rogue Squadron Wii | 261815 | [261815-star-wars-rogue-leaders-rogue-squadron-wii.json](./261815-star-wars-rogue-leaders-rogue-squadron-wii.json) |
 | Star Wars: Starfighter - Special Edition | 242773 | [242773-star-wars-starfighter-special-edition.json](./242773-star-wars-starfighter-special-edition.json) |
 | Star Wars: Tales from the Galaxy's Edge | 134957 | [134957-star-wars-tales-from-the-galaxys-edge.json](./134957-star-wars-tales-from-the-galaxys-edge.json) |
+| Star Wars: Tales from the Galaxy's Edge - Last Call | 166008 | [166008-star-wars-tales-from-the-galaxys-edge-last-call.json](./166008-star-wars-tales-from-the-galaxys-edge-last-call.json) |
 | Star Wars: The Best of PC | 75085 | [75085-star-wars-the-best-of-pc.json](./75085-star-wars-the-best-of-pc.json) |
 | Star Wars: The Clone Wars | 230403 | [230403-star-wars-the-clone-wars.json](./230403-star-wars-the-clone-wars.json) |
 | Star Wars: The Clone Wars | 320344 | [320344-star-wars-the-clone-wars.json](./320344-star-wars-the-clone-wars.json) |
