@@ -1304,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realistic Battle Tank | 216153 | [216153-realistic-battle-tank.json](./216153-realistic-battle-tank.json) |
 | Realistic Tower Destruction | 131558 | [131558-realistic-tower-destruction.json](./131558-realistic-tower-destruction.json) |
 | Realities: Death Valley | 171911 | [171911-realities-death-valley.json](./171911-realities-death-valley.json) |
+| Reality | 170818 | [170818-reality.json](./170818-reality.json) |
 | Reality | 226976 | [226976-reality.json](./226976-reality.json) |
 | Reality | 353297 | [353297-reality.json](./353297-reality.json) |
 | Reality | 81178 | [81178-reality.json](./81178-reality.json) |
