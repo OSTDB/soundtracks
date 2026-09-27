@@ -2519,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Democracy 3: Social Engineering | 11399 | [11399-democracy-3-social-engineering.json](./11399-democracy-3-social-engineering.json) |
 | Democracy 4 | 109483 | [109483-democracy-4.json](./109483-democracy-4.json) |
 | Demolish & Build 2018 | 90102 | [90102-demolish-and-build-2018.json](./90102-demolish-and-build-2018.json) |
+| Demolition | 125341 | [125341-demolition.json](./125341-demolition.json) |
 | Demolition | 308335 | [308335-demolition.json](./308335-demolition.json) |
 | Demolition Company | 344435 | [344435-demolition-company.json](./344435-demolition-company.json) |
 | Demolition Company: Gold Edition | 23397 | [23397-demolition-company-gold-edition.json](./23397-demolition-company-gold-edition.json) |
