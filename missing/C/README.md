@@ -4227,6 +4227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clockwork Calamity in Mushroom World: What would you do if the time stopped ticking? | 153424 | [153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json](./153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json) |
 | Clockwork Dungeon | 165682 | [165682-clockwork-dungeon.json](./165682-clockwork-dungeon.json) |
 | Clockwork Empires | 9764 | [9764-clockwork-empires.json](./9764-clockwork-empires.json) |
+| Clockwork Knight: Pepperouchau no Fukubukuro | 137541 | [137541-clockwork-knight-pepperouchau-no-fukubukuro.json](./137541-clockwork-knight-pepperouchau-no-fukubukuro.json) |
 | Clockwork Manor | 240914 | [240914-clockwork-manor.json](./240914-clockwork-manor.json) |
 | Clockwork Owl | 224767 | [224767-clockwork-owl.json](./224767-clockwork-owl.json) |
 | Clockwork Pussy | 158218 | [158218-clockwork-pussy.json](./158218-clockwork-pussy.json) |
