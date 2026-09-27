@@ -583,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velvet Shedding | 415890 | [415890-velvet-shedding.json](./415890-velvet-shedding.json) |
 | Velvet Sundown | 13159 | [13159-velvet-sundown.json](./13159-velvet-sundown.json) |
 | Velvet's Veil | 336723 | [336723-velvets-veil.json](./336723-velvets-veil.json) |
+| Velvetist: The City of Machine Guns | 133343 | [133343-velvetist-the-city-of-machine-guns.json](./133343-velvetist-the-city-of-machine-guns.json) |
 | Ven Adventure | 216495 | [216495-ven-adventure.json](./216495-ven-adventure.json) |
 | Ven Games | 145472 | [145472-ven-games.json](./145472-ven-games.json) |
 | Ven'rif | 342900 | [342900-venrif.json](./342900-venrif.json) |
@@ -862,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VideoHole: Episode 1 | 132757 | [132757-videohole-episode-1.json](./132757-videohole-episode-1.json) |
 | Videomation | 18309 | [18309-videomation.json](./18309-videomation.json) |
 | Videophobia | 327615 | [327615-videophobia.json](./327615-videophobia.json) |
+| Videopulp: Super Carty's Dread | 133320 | [133320-videopulp-super-cartys-dread.json](./133320-videopulp-super-cartys-dread.json) |
 | Videoverse | 213618 | [213618-videoverse.json](./213618-videoverse.json) |
 | Vie: Itsuka no Natsu no Hi. | 131377 | [131377-vie-itsuka-no-natsu-no-hi.json](./131377-vie-itsuka-no-natsu-no-hi.json) |
 | Vier op een rij | 92991 | [92991-vier-op-een-rij.json](./92991-vier-op-een-rij.json) |
