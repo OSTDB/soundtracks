@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Java Journey | 303589 | [303589-java-journey.json](./303589-java-journey.json) |
 | Java-Klingsburg | 146769 | [146769-java-klingsburg.json](./146769-java-klingsburg.json) |
 | Javaders | 128578 | [128578-javaders.json](./128578-javaders.json) |
+| Javel-ein | 133300 | [133300-javel-ein.json](./133300-javel-ein.json) |
 | Javelin | 247047 | [247047-javelin.json](./247047-javelin.json) |
 | Javelin Masters 2 | 344451 | [344451-javelin-masters-2.json](./344451-javelin-masters-2.json) |
 | Jawaker | 315697 | [315697-jawaker.json](./315697-jawaker.json) |
@@ -1220,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juiced | 248738 | [248738-juiced.json](./248738-juiced.json) |
 | Juiced | 5870 | [5870-juiced.json](./5870-juiced.json) |
 | Juiced 2: Hot Import Nights | 380445 | [380445-juiced-2-hot-import-nights.json](./380445-juiced-2-hot-import-nights.json) |
+| Juiced! | 133349 | [133349-juiced.json](./133349-juiced.json) |
 | Juicy Ass | 264114 | [264114-juicy-ass.json](./264114-juicy-ass.json) |
 | Juicy Blast | 346158 | [346158-juicy-blast.json](./346158-juicy-blast.json) |
 | Juicy Hentai | 368114 | [368114-juicy-hentai.json](./368114-juicy-hentai.json) |
