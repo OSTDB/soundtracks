@@ -1489,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wet Girls | 338383 | [338383-wet-girls.json](./338383-wet-girls.json) |
 | Wet Nightmares | 158560 | [158560-wet-nightmares.json](./158560-wet-nightmares.json) |
 | Wet Passion | 338382 | [338382-wet-passion.json](./338382-wet-passion.json) |
+| Wet Robot Dreams | 142351 | [142351-wet-robot-dreams.json](./142351-wet-robot-dreams.json) |
 | Wet Steps | 158072 | [158072-wet-steps.json](./158072-wet-steps.json) |
 | Wet Waifu | 161367 | [161367-wet-waifu.json](./161367-wet-waifu.json) |
 | Wet Warfare | 109679 | [109679-wet-warfare.json](./109679-wet-warfare.json) |
@@ -2956,6 +2957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderbirds | 188911 | [188911-wonderbirds.json](./188911-wonderbirds.json) |
 | Wonderbook: Book of Spells | 22191 | [22191-wonderbook-book-of-spells.json](./22191-wonderbook-book-of-spells.json) |
 | Wonderbook: Diggs Nightcrawler | 25090 | [25090-wonderbook-diggs-nightcrawler.json](./25090-wonderbook-diggs-nightcrawler.json) |
+| Wonderbox: The Adventure Maker | 142352 | [142352-wonderbox-the-adventure-maker.json](./142352-wonderbox-the-adventure-maker.json) |
 | Wonderful Dizzy | 141687 | [141687-wonderful-dizzy.json](./141687-wonderful-dizzy.json) |
 | Wonderful Duck | 182991 | [182991-wonderful-duck.json](./182991-wonderful-duck.json) |
 | Wonderful Everyday: Down the Rabbit-Hole | 172667 | [172667-wonderful-everyday-down-the-rabbit-hole.json](./172667-wonderful-everyday-down-the-rabbit-hole.json) |
