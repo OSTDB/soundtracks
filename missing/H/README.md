@@ -2728,6 +2728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexos CCG Missions | 55947 | [55947-hexos-ccg-missions.json](./55947-hexos-ccg-missions.json) |
 | Hexoscope: Collector's Edition | 53214 | [53214-hexoscope-collectors-edition.json](./53214-hexoscope-collectors-edition.json) |
 | Hexpand | 410909 | [410909-hexpand.json](./410909-hexpand.json) |
+| Hexpert | 137552 | [137552-hexpert.json](./137552-hexpert.json) |
 | Hexplorando | 291778 | [291778-hexplorando.json](./291778-hexplorando.json) |
 | HeXpunk | 343246 | [343246-hexpunk.json](./343246-hexpunk.json) |
 | HexRoller | 253015 | [253015-hexroller.json](./253015-hexroller.json) |
