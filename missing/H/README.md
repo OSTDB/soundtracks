@@ -3168,6 +3168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HighFleet | 157439 | [157439-highfleet.json](./157439-highfleet.json) |
 | Highland Panic | 248077 | [248077-highland-panic.json](./248077-highland-panic.json) |
 | Highlander | 28851 | [28851-highlander.json](./28851-highlander.json) |
+| Highlander: The Game | 120295 | [120295-highlander-the-game.json](./120295-highlander-the-game.json) |
 | Highlander: The Gathering | 67240 | [67240-highlander-the-gathering.json](./67240-highlander-the-gathering.json) |
 | Highlands, Deep Waters | 72513 | [72513-highlands-deep-waters.json](./72513-highlands-deep-waters.json) |
 | Highnoon | 11304 | [11304-highnoon.json](./11304-highnoon.json) |
