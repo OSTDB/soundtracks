@@ -1432,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoidGate | 111447 | [111447-voidgate.json](./111447-voidgate.json) |
 | Voidhunter | 216851 | [216851-voidhunter.json](./216851-voidhunter.json) |
 | Voidland Mystery Goodnight | 215225 | [215225-voidland-mystery-goodnight.json](./215225-voidland-mystery-goodnight.json) |
+| Voidlifted | 123487 | [123487-voidlifted.json](./123487-voidlifted.json) |
 | Voidline | 408037 | [408037-voidline.json](./408037-voidline.json) |
 | Voidnomaly | 378415 | [378415-voidnomaly.json](./378415-voidnomaly.json) |
 | VoidOut Parkour | 155660 | [155660-voidout-parkour.json](./155660-voidout-parkour.json) |
@@ -1464,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volcanon | 195193 | [195193-volcanon.json](./195193-volcanon.json) |
 | VolChaos | 35658 | [35658-volchaos.json](./35658-volchaos.json) |
 | Volden Idle | 274500 | [274500-volden-idle.json](./274500-volden-idle.json) |
+| Vole Complexity | 123496 | [123496-vole-complexity.json](./123496-vole-complexity.json) |
 | Voleur! | 411693 | [411693-voleur.json](./411693-voleur.json) |
 | Volfoss | 66699 | [66699-volfoss.json](./66699-volfoss.json) |
 | Volgarr the Viking II | 304741 | [304741-volgarr-the-viking-ii.json](./304741-volgarr-the-viking-ii.json) |
