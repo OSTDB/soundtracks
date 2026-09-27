@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offroad Racing on Line | 172161 | [172161-offroad-racing-on-line.json](./172161-offroad-racing-on-line.json) |
 | Offroad Simulator Online 4x4 | 196584 | [196584-offroad-simulator-online-4x4.json](./196584-offroad-simulator-online-4x4.json) |
 | Offroad Thunder | 3702 | [3702-offroad-thunder.json](./3702-offroad-thunder.json) |
+| Offroad Truck Simulator: Heavy Duty Challenge | 165381 | [165381-offroad-truck-simulator-heavy-duty-challenge.json](./165381-offroad-truck-simulator-heavy-duty-challenge.json) |
 | Offsea | 235761 | [235761-offsea.json](./235761-offsea.json) |
 | Offshore Fishing | 387692 | [387692-offshore-fishing.json](./387692-offshore-fishing.json) |
 | Offshore Racing | 234617 | [234617-offshore-racing.json](./234617-offshore-racing.json) |
@@ -2124,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak 2030 | 237076 | [237076-outbreak-2030.json](./237076-outbreak-2030.json) |
 | Outbreak Contagion Co-Op Collection | 340740 | [340740-outbreak-contagion-co-op-collection.json](./340740-outbreak-contagion-co-op-collection.json) |
 | Outbreak Diamond Collection | 200177 | [200177-outbreak-diamond-collection.json](./200177-outbreak-diamond-collection.json) |
+| Outbreak Island | 165386 | [165386-outbreak-island.json](./165386-outbreak-island.json) |
 | Outbreak Survivors | 317976 | [317976-outbreak-survivors.json](./317976-outbreak-survivors.json) |
 | Outbreak Zero | 365085 | [365085-outbreak-zero.json](./365085-outbreak-zero.json) |
 | Outbreak Zombie Plague | 291528 | [291528-outbreak-zombie-plague.json](./291528-outbreak-zombie-plague.json) |
