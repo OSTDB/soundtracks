@@ -1249,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food Rampage | 96680 | [96680-fast-food-rampage.json](./96680-fast-food-rampage.json) |
 | Fast Food Shop Online | 212225 | [212225-fast-food-shop-online.json](./212225-fast-food-shop-online.json) |
 | Fast Food Tycoon Simulator | 353959 | [353959-fast-food-tycoon-simulator.json](./353959-fast-food-tycoon-simulator.json) |
+| Fast Jump | 167574 | [167574-fast-jump.json](./167574-fast-jump.json) |
 | Fast Racing 3D | 380549 | [380549-fast-racing-3d.json](./380549-fast-racing-3d.json) |
 | Fast Travel: Loot Delivery Service | 117050 | [117050-fast-travel-loot-delivery-service.json](./117050-fast-travel-loot-delivery-service.json) |
 | Fast:Run | 320392 | [320392-fast-run.json](./320392-fast-run.json) |
@@ -3248,6 +3249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fliplomacy | 103399 | [103399-fliplomacy.json](./103399-fliplomacy.json) |
 | Flipnote Studio | 85636 | [85636-flipnote-studio.json](./85636-flipnote-studio.json) |
 | Flipo: Gravity Adventure | 233456 | [233456-flipo-gravity-adventure.json](./233456-flipo-gravity-adventure.json) |
+| Flipol | 167596 | [167596-flipol.json](./167596-flipol.json) |
 | Flipominos | 58467 | [58467-flipominos.json](./58467-flipominos.json) |
 | Flipped | 190737 | [190737-flipped.json](./190737-flipped.json) |
 | Flipped in Love | 143744 | [143744-flipped-in-love.json](./143744-flipped-in-love.json) |
@@ -5076,6 +5078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogstool | 337479 | [337479-frogstool.json](./337479-frogstool.json) |
 | Frogurai | 226454 | [226454-frogurai.json](./226454-frogurai.json) |
 | Frogvival | 235482 | [235482-frogvival.json](./235482-frogvival.json) |
+| Frogworld | 167608 | [167608-frogworld.json](./167608-frogworld.json) |
 | Frogz | 329159 | [329159-frogz.json](./329159-frogz.json) |
 | From Basement with Love | 384057 | [384057-from-basement-with-love.json](./384057-from-basement-with-love.json) |
 | From Below | 415065 | [415065-from-below.json](./415065-from-below.json) |
