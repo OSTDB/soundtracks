@@ -7237,6 +7237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stone of Anamara: First Chapter | 186145 | [186145-the-stone-of-anamara-first-chapter.json](./186145-the-stone-of-anamara-first-chapter.json) |
 | The Stone of Destiny | 284322 | [284322-the-stone-of-destiny.json](./284322-the-stone-of-destiny.json) |
 | The Stone of God | 165659 | [165659-the-stone-of-god.json](./165659-the-stone-of-god.json) |
+| The Stone of Madness | 138097 | [138097-the-stone-of-madness.json](./138097-the-stone-of-madness.json) |
 | The Stone of Sisyphus | 24902 | [24902-the-stone-of-sisyphus.json](./24902-the-stone-of-sisyphus.json) |
 | The Stone Ship | 408790 | [408790-the-stone-ship.json](./408790-the-stone-ship.json) |
 | The Stones | 371482 | [371482-the-stones.json](./371482-the-stones.json) |
@@ -7919,6 +7920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wall Mustn't Fall | 215793 | [215793-the-wall-mustnt-fall.json](./215793-the-wall-mustnt-fall.json) |
 | The Walls | 289952 | [289952-the-walls.json](./289952-the-walls.json) |
 | The Walsingham Files: Chapter 1 | 116120 | [116120-the-walsingham-files-chapter-1.json](./116120-the-walsingham-files-chapter-1.json) |
+| The Wand | 138143 | [138143-the-wand.json](./138143-the-wand.json) |
 | The Wand of Gamelon Remastered | 206135 | [206135-the-wand-of-gamelon-remastered.json](./206135-the-wand-of-gamelon-remastered.json) |
 | The Wand Wizard | 255150 | [255150-the-wand-wizard.json](./255150-the-wand-wizard.json) |
 | The Wanderer: Chosen One | 211752 | [211752-the-wanderer-chosen-one.json](./211752-the-wanderer-chosen-one.json) |
@@ -8480,6 +8482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Third Grade Learning Games | 86903 | [86903-third-grade-learning-games.json](./86903-third-grade-learning-games.json) |
 | Third Iteration | 322394 | [322394-third-iteration.json](./322394-third-iteration.json) |
 | Third Reich | 14518 | [14518-third-reich.json](./14518-third-reich.json) |
+| Third Reich PC | 138103 | [138103-third-reich-pc.json](./138103-third-reich-pc.json) |
 | Third Wild | 208600 | [208600-third-wild.json](./208600-third-wild.json) |
 | ThirdMiracle | 197764 | [197764-thirdmiracle.json](./197764-thirdmiracle.json) |
 | Thirst | 31836 | [31836-thirst.json](./31836-thirst.json) |
@@ -11281,6 +11284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tougen Anki: Crimson Inferno | 396591 | [396591-tougen-anki-crimson-inferno.json](./396591-tougen-anki-crimson-inferno.json) |
 | Tough Story: Big Hell | 54457 | [54457-tough-story-big-hell.json](./54457-tough-story-big-hell.json) |
 | Tough Turf | 40259 | [40259-tough-turf.json](./40259-tough-turf.json) |
+| Tough: Dark Fight | 138107 | [138107-tough-dark-fight.json](./138107-tough-dark-fight.json) |
 | Touhai Densetsu Akagi: Yami ni Maiorita Tensai | 74767 | [74767-touhai-densetsu-akagi-yami-ni-maiorita-tensai.json](./74767-touhai-densetsu-akagi-yami-ni-maiorita-tensai.json) |
 | Touhou Baisyunyado: Soap of Royal Road | 138029 | [138029-touhou-baisyunyado-soap-of-royal-road.json](./138029-touhou-baisyunyado-soap-of-royal-road.json) |
 | Touhou Blooming Chaos 2: Chara Pack 3 | 170959 | [170959-touhou-blooming-chaos-2-chara-pack-3.json](./170959-touhou-blooming-chaos-2-chara-pack-3.json) |
@@ -11775,6 +11779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToyShot VR | 112982 | [112982-toyshot-vr.json](./112982-toyshot-vr.json) |
 | Toz | 124200 | [124200-toz.json](./124200-toz.json) |
 | TP Bullet | 289930 | [289930-tp-bullet.json](./289930-tp-bullet.json) |
+| Tplosjons | 138128 | [138128-tplosjons.json](./138128-tplosjons.json) |
 | TPM Football | 151536 | [151536-tpm-football.json](./151536-tpm-football.json) |
 | TR-12 | 295351 | [295351-tr-12.json](./295351-tr-12.json) |
 | Tr4pp3d | 277975 | [277975-tr4pp3d.json](./277975-tr4pp3d.json) |
