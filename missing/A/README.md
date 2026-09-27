@@ -1314,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | aerofly RC 7 | 17839 | [17839-aerofly-rc-7.json](./17839-aerofly-rc-7.json) |
 | Aeronaut | 124175 | [124175-aeronaut.json](./124175-aeronaut.json) |
 | Aeronaut | 178522 | [178522-aeronaut.json](./178522-aeronaut.json) |
+| Aeronautica Imperialis: Flight Command | 132207 | [132207-aeronautica-imperialis-flight-command.json](./132207-aeronautica-imperialis-flight-command.json) |
 | Aeronautica Imperialis: Flight Command - Skulls Pack | 162754 | [162754-aeronautica-imperialis-flight-command-skulls-pack.json](./162754-aeronautica-imperialis-flight-command-skulls-pack.json) |
 | Aerospace Forces | 101387 | [101387-aerospace-forces.json](./101387-aerospace-forces.json) |
 | Aerostar | 7746 | [7746-aerostar.json](./7746-aerostar.json) |
@@ -1489,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Darkness: Final Stand | 159424 | [159424-age-of-darkness-final-stand.json](./159424-age-of-darkness-final-stand.json) |
 | Age of Defense 3 | 327421 | [327421-age-of-defense-3.json](./327421-age-of-defense-3.json) |
 | Age of Defense: Prehistory | 309860 | [309860-age-of-defense-prehistory.json](./309860-age-of-defense-prehistory.json) |
+| Age of Emerald | 132173 | [132173-age-of-emerald.json](./132173-age-of-emerald.json) |
 | Age of Empires II Mobile | 144346 | [144346-age-of-empires-ii-mobile.json](./144346-age-of-empires-ii-mobile.json) |
 | Age of Empires II: Definitive Edition | 55056 | [55056-age-of-empires-ii-definitive-edition.json](./55056-age-of-empires-ii-definitive-edition.json) |
 | Age of Empires II: Definitive Edition - Chronicles: Battle for Greece | 323348 | [323348-age-of-empires-ii-definitive-edition-chronicles-battle-for-greece.json](./323348-age-of-empires-ii-definitive-edition-chronicles-battle-for-greece.json) |
@@ -1541,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders 4: Primal Fury | 288837 | [288837-age-of-wonders-4-primal-fury.json](./288837-age-of-wonders-4-primal-fury.json) |
 | Age of Wonders III | 5652 | [5652-age-of-wonders-iii.json](./5652-age-of-wonders-iii.json) |
 | Age of Wonders: Planetfall - Deluxe Edition | 118845 | [118845-age-of-wonders-planetfall-deluxe-edition.json](./118845-age-of-wonders-planetfall-deluxe-edition.json) |
+| Age of Wonders: Planetfall - Invasions | 132166 | [132166-age-of-wonders-planetfall-invasions.json](./132166-age-of-wonders-planetfall-invasions.json) |
 | Age of Wonders: Planetfall - Star Kings | 148927 | [148927-age-of-wonders-planetfall-star-kings.json](./148927-age-of-wonders-planetfall-star-kings.json) |
 | Age of Zombies | 8628 | [8628-age-of-zombies.json](./8628-age-of-zombies.json) |
 | Ageless Machine: Cup of Tea | 180716 | [180716-ageless-machine-cup-of-tea.json](./180716-ageless-machine-cup-of-tea.json) |
@@ -1563,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent X: Equation Rider | 81754 | [81754-agent-x-equation-rider.json](./81754-agent-x-equation-rider.json) |
 | Agent XXL und das Geheimnis der Quadrate | 113470 | [113470-agent-xxl-und-das-geheimnis-der-quadrate.json](./113470-agent-xxl-und-das-geheimnis-der-quadrate.json) |
 | Agent-00 | 140355 | [140355-agent-00.json](./140355-agent-00.json) |
+| Agent: osoboye zadaniye | 132158 | [132158-agent-osoboye-zadaniye.json](./132158-agent-osoboye-zadaniye.json) |
 | Agents of Groove | 325644 | [325644-agents-of-groove.json](./325644-agents-of-groove.json) |
 | Agents of SomeCompany | 253374 | [253374-agents-of-somecompany.json](./253374-agents-of-somecompany.json) |
 | Ageod's American Civil War: The Blue and the Gray | 21451 | [21451-ageods-american-civil-war-the-blue-and-the-gray.json](./21451-ageods-american-civil-war-the-blue-and-the-gray.json) |
