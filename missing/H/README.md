@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halen: Ballad of the Blade Thief | 134002 | [134002-halen-ballad-of-the-blade-thief.json](./134002-halen-ballad-of-the-blade-thief.json) |
 | Half Away | 322756 | [322756-half-away.json](./322756-half-away.json) |
 | Half Blood | 402500 | [402500-half-blood.json](./402500-half-blood.json) |
+| Half Blood RPG | 163735 | [163735-half-blood-rpg.json](./163735-half-blood-rpg.json) |
 | Half Built: Casino | 211721 | [211721-half-built-casino.json](./211721-half-built-casino.json) |
 | Half Empty | 103510 | [103510-half-empty.json](./103510-half-empty.json) |
 | Half Light | 374840 | [374840-half-light.json](./374840-half-light.json) |
