@@ -2261,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Dust | 7341 | [7341-phantom-dust.json](./7341-phantom-dust.json) |
 | Phantom Floor | 394178 | [394178-phantom-floor.json](./394178-phantom-floor.json) |
 | Phantom Fury | 218009 | [218009-phantom-fury.json](./218009-phantom-fury.json) |
+| Phantom Gear | 141108 | [141108-phantom-gear.json](./141108-phantom-gear.json) |
 | Phantom Grid | 367974 | [367974-phantom-grid.json](./367974-phantom-grid.json) |
 | Phantom Halls | 27199 | [27199-phantom-halls.json](./27199-phantom-halls.json) |
 | Phantom Havoc | 333962 | [333962-phantom-havoc.json](./333962-phantom-havoc.json) |
@@ -2357,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phobia 1.5 | 159179 | [159179-phobia-1-5.json](./159179-phobia-1-5.json) |
 | Phobia Exposure VR | 260619 | [260619-phobia-exposure-vr.json](./260619-phobia-exposure-vr.json) |
 | PhoboPhobia | 306479 | [306479-phobophobia.json](./306479-phobophobia.json) |
+| Phobos | 141096 | [141096-phobos.json](./141096-phobos.json) |
 | Phobos | 184093 | [184093-phobos.json](./184093-phobos.json) |
 | Phobos Down | 285462 | [285462-phobos-down.json](./285462-phobos-down.json) |
 | Phobos Massacre | 268424 | [268424-phobos-massacre.json](./268424-phobos-massacre.json) |
