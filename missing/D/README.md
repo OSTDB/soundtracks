@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.C. III PS: Da Coda III - Plus Story | 259595 | [259595-d-c-iii-ps-da-coda-iii-plus-story.json](./259595-d-c-iii-ps-da-coda-iii-plus-story.json) |
 | D.C. Re:tune | 327964 | [327964-d-c-re-tune.json](./327964-d-c-re-tune.json) |
 | D.C. S#*!storm | 86547 | [86547-d-c-s-storm.json](./86547-d-c-s-storm.json) |
+| D.C.4: Da Capo 4 | 136926 | [136926-d-c-4-da-capo-4.json](./136926-d-c-4-da-capo-4.json) |
 | D.C.4: Da Capo 4 - Fortunate Departures | 207920 | [207920-d-c-4-da-capo-4-fortunate-departures.json](./207920-d-c-4-da-capo-4-fortunate-departures.json) |
 | D.C.4: Da Capo 4 - Limited Edition | 167044 | [167044-d-c-4-da-capo-4-limited-edition.json](./167044-d-c-4-da-capo-4-limited-edition.json) |
 | D.C.5 to 4: Luminous Memories | 408137 | [408137-d-c-5-to-4-luminous-memories.json](./408137-d-c-5-to-4-luminous-memories.json) |
@@ -159,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dahna: Megami Tanjou | 46185 | [46185-dahna-megami-tanjou.json](./46185-dahna-megami-tanjou.json) |
 | Dāi Dāi Dàmàoxiǎn | 368138 | [368138-dai-dai-damaoxian.json](./368138-dai-dai-damaoxian.json) |
 | Dai Datsugoku! Hell chama Prison no Yabou | 353376 | [353376-dai-datsugoku-hell-chama-prison-no-yabou.json](./353376-dai-datsugoku-hell-chama-prison-no-yabou.json) |
+| Dai Gyakuten Saiban: Naruhodou Ryuunosuke no Bouken 1&2 - Best Price! | 136955 | [136955-dai-gyakuten-saiban-naruhodou-ryuunosuke-no-bouken-1-and-2-best-price.json](./136955-dai-gyakuten-saiban-naruhodou-ryuunosuke-no-bouken-1-and-2-best-price.json) |
 | Dai-2-ji Super Robot Taisen | 240912 | [240912-dai-2-ji-super-robot-taisen.json](./240912-dai-2-ji-super-robot-taisen.json) |
 | Dai-2-ji Super Robot Taisen | 48636 | [48636-dai-2-ji-super-robot-taisen.json](./48636-dai-2-ji-super-robot-taisen.json) |
 | Dai-2-ji Super Robot Taisen G | 221400 | [221400-dai-2-ji-super-robot-taisen-g.json](./221400-dai-2-ji-super-robot-taisen-g.json) |
