@@ -1950,6 +1950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Other Submarine | 124143 | [124143-other-submarine.json](./124143-other-submarine.json) |
 | Other World | 154360 | [154360-other-world.json](./154360-other-world.json) |
 | Other World Survivors | 235742 | [235742-other-world-survivors.json](./235742-other-world-survivors.json) |
+| Other: Her Loving Embrace | 123534 | [123534-other-her-loving-embrace.json](./123534-other-her-loving-embrace.json) |
 | Othercide | 107140 | [107140-othercide.json](./107140-othercide.json) |
 | Otherlights | 275113 | [275113-otherlights.json](./275113-otherlights.json) |
 | Others | 117662 | [117662-others.json](./117662-others.json) |
