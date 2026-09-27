@@ -5385,6 +5385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot by Dot+ | 19383 | [19383-dot-by-dot.json](./19383-dot-by-dot.json) |
 | Dot Clicker | 411575 | [411575-dot-clicker.json](./411575-dot-clicker.json) |
 | Dot Dash Defense | 400361 | [400361-dot-dash-defense.json](./400361-dot-dash-defense.json) |
+| Dot Dash Dot | 167619 | [167619-dot-dash-dot.json](./167619-dot-dash-dot.json) |
 | Dot Hop | 295803 | [295803-dot-hop.json](./295803-dot-hop.json) |
 | Dot Hopper | 52208 | [52208-dot-hopper.json](./52208-dot-hopper.json) |
 | Dot Horror Story: Double Pack | 222262 | [222262-dot-horror-story-double-pack.json](./222262-dot-horror-story-double-pack.json) |
@@ -5581,6 +5582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DPS Idle 2 | 253970 | [253970-dps-idle-2.json](./253970-dps-idle-2.json) |
 | DQ Girls Colosseum | 97699 | [97699-dq-girls-colosseum.json](./97699-dq-girls-colosseum.json) |
 | DQ Tycoon | 94000 | [94000-dq-tycoon.json](./94000-dq-tycoon.json) |
+| Dr Iwan | 167598 | [167598-dr-iwan.json](./167598-dr-iwan.json) |
 | Dr Jugo | 404446 | [404446-dr-jugo.json](./404446-dr-jugo.json) |
 | Dr Livesey Rom and Death Edition | 224897 | [224897-dr-livesey-rom-and-death-edition.json](./224897-dr-livesey-rom-and-death-edition.json) |
 | Dr Livingstone, I Presume? | 148338 | [148338-dr-livingstone-i-presume.json](./148338-dr-livingstone-i-presume.json) |
