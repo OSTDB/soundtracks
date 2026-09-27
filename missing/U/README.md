@@ -953,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | United 1944 | 244343 | [244343-united-1944.json](./244343-united-1944.json) |
 | United Assault: Battle of the Bulge | 195231 | [195231-united-assault-battle-of-the-bulge.json](./195231-united-assault-battle-of-the-bulge.json) |
 | United Assault: Final Stand | 334105 | [334105-united-assault-final-stand.json](./334105-united-assault-final-stand.json) |
+| United Assault: Normandy '44 | 171361 | [171361-united-assault-normandy-44.json](./171361-united-assault-normandy-44.json) |
 | United Command | 137450 | [137450-united-command.json](./137450-united-command.json) |
 | United Heist | 215677 | [215677-united-heist.json](./215677-united-heist.json) |
 | United Penguin Kingdom | 277330 | [277330-united-penguin-kingdom.json](./277330-united-penguin-kingdom.json) |
