@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hank Loves the Beach | 240797 | [240797-hank-loves-the-beach.json](./240797-hank-loves-the-beach.json) |
 | Hank: Drowning on Dry Land | 195168 | [195168-hank-drowning-on-dry-land.json](./195168-hank-drowning-on-dry-land.json) |
 | Hank: Straightjacket | 232458 | [232458-hank-straightjacket.json](./232458-hank-straightjacket.json) |
+| Hank's Voyage | 144908 | [144908-hanks-voyage.json](./144908-hanks-voyage.json) |
 | Hanna Barbera's Cartoon Carnival | 45939 | [45939-hanna-barberas-cartoon-carnival.json](./45939-hanna-barberas-cartoon-carnival.json) |
 | Hanna Barbera's Turbo Toons | 42619 | [42619-hanna-barberas-turbo-toons.json](./42619-hanna-barberas-turbo-toons.json) |
 | Hannah & Henry | 257067 | [257067-hannah-and-henry.json](./257067-hannah-and-henry.json) |
@@ -1320,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Healthy Breakfast | 117674 | [117674-healthy-breakfast.json](./117674-healthy-breakfast.json) |
 | Healthy Hero: Tower Defense | 284921 | [284921-healthy-hero-tower-defense.json](./284921-healthy-hero-tower-defense.json) |
 | Healthy Hospital | 233508 | [233508-healthy-hospital.json](./233508-healthy-hospital.json) |
+| Healthy Living | 144853 | [144853-healthy-living.json](./144853-healthy-living.json) |
 | Healthy Weapon | 112332 | [112332-healthy-weapon.json](./112332-healthy-weapon.json) |
 | Hear Tell of Hauntings | 338726 | [338726-hear-tell-of-hauntings.json](./338726-hear-tell-of-hauntings.json) |
 | Heard of the Story? | 211791 | [211791-heard-of-the-story.json](./211791-heard-of-the-story.json) |
@@ -4282,6 +4284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshi Saga 8: Dokuringo | 377800 | [377800-hoshi-saga-8-dokuringo.json](./377800-hoshi-saga-8-dokuringo.json) |
 | Hoshi wo Miru Hito | 25016 | [25016-hoshi-wo-miru-hito.json](./25016-hoshi-wo-miru-hito.json) |
 | Hoshi wo Miru Hito: Bad Ebuna Patch 2 | 269869 | [269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json](./269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json) |
+| Hoshizora e Kakaru Hashi AA | 144889 | [144889-hoshizora-e-kakaru-hashi-aa.json](./144889-hoshizora-e-kakaru-hashi-aa.json) |
 | Hoshizora no Comic Garden | 70660 | [70660-hoshizora-no-comic-garden.json](./70660-hoshizora-no-comic-garden.json) |
 | Hoshizora no Memoria: Wish Upon a Shooting Star HD | 312361 | [312361-hoshizora-no-memoria-wish-upon-a-shooting-star-hd.json](./312361-hoshizora-no-memoria-wish-upon-a-shooting-star-hd.json) |
 | Hoshizora Testudou to Shiro no Tabi | 147405 | [147405-hoshizora-testudou-to-shiro-no-tabi.json](./147405-hoshizora-testudou-to-shiro-no-tabi.json) |
