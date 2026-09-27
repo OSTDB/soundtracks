@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaerimichi | 308892 | [308892-kaerimichi.json](./308892-kaerimichi.json) |
 | Kaeru Batake DE Tsukamaete Portable | 218505 | [218505-kaeru-batake-de-tsukamaete-portable.json](./218505-kaeru-batake-de-tsukamaete-portable.json) |
 | Kaeru Batake DE Tsukamaete: Natsu Chigira Sansen! | 60248 | [60248-kaeru-batake-de-tsukamaete-natsu-chigira-sansen.json](./60248-kaeru-batake-de-tsukamaete-natsu-chigira-sansen.json) |
+| Kaeru no Ehon: Adventure for The Lost Memories | 166514 | [166514-kaeru-no-ehon-adventure-for-the-lost-memories.json](./166514-kaeru-no-ehon-adventure-for-the-lost-memories.json) |
 | Kaeru no Tame ni Kane wa Naru | 49078 | [49078-kaeru-no-tame-ni-kane-wa-naru.json](./49078-kaeru-no-tame-ni-kane-wa-naru.json) |
 | Kaeru nyo Panyo~n | 146266 | [146266-kaeru-nyo-panyo-n.json](./146266-kaeru-nyo-panyo-n.json) |
 | Kaetram | 301401 | [301401-kaetram.json](./301401-kaetram.json) |
@@ -656,7 +657,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kegani Friends | 297581 | [297581-kegani-friends.json](./297581-kegani-friends.json) |
 | Keiba Eight Special | 37966 | [37966-keiba-eight-special.json](./37966-keiba-eight-special.json) |
 | Keiba Eight Special 2 | 37965 | [37965-keiba-eight-special-2.json](./37965-keiba-eight-special-2.json) |
+| Keiba Eito '98 Akyfuyu | 166531 | [166531-keiba-eito-98-akyfuyu.json](./166531-keiba-eito-98-akyfuyu.json) |
+| Keiba Eito '98 Haru Natsu | 166530 | [166530-keiba-eito-98-haru-natsu.json](./166530-keiba-eito-98-haru-natsu.json) |
+| Keiba Eito '99 - Haru Natsu | 166532 | [166532-keiba-eito-99-haru-natsu.json](./166532-keiba-eito-99-haru-natsu.json) |
+| Keiba Saisho no Housoku '95 | 166529 | [166529-keiba-saisho-no-housoku-95.json](./166529-keiba-saisho-no-housoku-95.json) |
+| Keiba Saisho no Housoku '96 vol.1 | 166533 | [166533-keiba-saisho-no-housoku-96-vol-1.json](./166533-keiba-saisho-no-housoku-96-vol-1.json) |
+| Keiba Saisho no Housoku '96 vol.2: G-I Road | 166534 | [166534-keiba-saisho-no-housoku-96-vol-2-g-i-road.json](./166534-keiba-saisho-no-housoku-96-vol-2-g-i-road.json) |
+| Keiba Saisho no Housoku '97 vol.1 | 166535 | [166535-keiba-saisho-no-housoku-97-vol-1.json](./166535-keiba-saisho-no-housoku-97-vol-1.json) |
 | Keiba Saishou no Housoku | 268508 | [268508-keiba-saishou-no-housoku.json](./268508-keiba-saishou-no-housoku.json) |
+| Keiba Saishou no Housoku '97 Vol. 2: To Hit! | 166536 | [166536-keiba-saishou-no-housoku-97-vol-2-to-hit.json](./166536-keiba-saishou-no-housoku-97-vol-2-to-hit.json) |
+| Keiba Saishou no Housoku '99 Aki Fuyu | 166537 | [166537-keiba-saishou-no-housoku-99-aki-fuyu.json](./166537-keiba-saishou-no-housoku-99-aki-fuyu.json) |
 | Keiba Yosou Baken Renkinjutsu | 37970 | [37970-keiba-yosou-baken-renkinjutsu.json](./37970-keiba-yosou-baken-renkinjutsu.json) |
 | Keibatsuu Portable | 56767 | [56767-keibatsuu-portable.json](./56767-keibatsuu-portable.json) |
 | Keibatsuu Portable 2 | 56769 | [56769-keibatsuu-portable-2.json](./56769-keibatsuu-portable-2.json) |
@@ -1232,6 +1242,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Bali | 50547 | [50547-king-of-bali.json](./50547-king-of-bali.json) |
 | King of BMX | 91979 | [91979-king-of-bmx.json](./91979-king-of-bmx.json) |
 | King of Booze: Drinking Game | 31590 | [31590-king-of-booze-drinking-game.json](./31590-king-of-booze-drinking-game.json) |
+| King of Bowling | 166543 | [166543-king-of-bowling.json](./166543-king-of-bowling.json) |
+| King of Bowling 2: Professional-hen | 166544 | [166544-king-of-bowling-2-professional-hen.json](./166544-king-of-bowling-2-professional-hen.json) |
 | King of Bugs | 348317 | [348317-king-of-bugs.json](./348317-king-of-bugs.json) |
 | King of Conquerors | 211175 | [211175-king-of-conquerors.json](./211175-king-of-conquerors.json) |
 | King of Cooking | 151158 | [151158-king-of-cooking.json](./151158-king-of-cooking.json) |
@@ -1998,6 +2010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KoboldKare | 344381 | [344381-koboldkare.json](./344381-koboldkare.json) |
 | Kobyashi Naru | 52204 | [52204-kobyashi-naru.json](./52204-kobyashi-naru.json) |
 | KochiKame: Ryo-san's Billion-yen Beat | 402892 | [402892-kochikame-ryo-sans-billion-yen-beat.json](./402892-kochikame-ryo-sans-billion-yen-beat.json) |
+| Kochira Katsushika-ku Kameari Kouen Mae Hashutsujo: Nakagawa Land Dai-race! no Maki | 166505 | [166505-kochira-katsushika-ku-kameari-kouen-mae-hashutsujo-nakagawa-land-dai-race-no-maki.json](./166505-kochira-katsushika-ku-kameari-kouen-mae-hashutsujo-nakagawa-land-dai-race-no-maki.json) |
 | Kochira, Haha Naru Hoshi Yori | 152912 | [152912-kochira-haha-naru-hoshi-yori.json](./152912-kochira-haha-naru-hoshi-yori.json) |
 | Kochiya Sanae no Kamikaze to Tomo ni | 165524 | [165524-kochiya-sanae-no-kamikaze-to-tomo-ni.json](./165524-kochiya-sanae-no-kamikaze-to-tomo-ni.json) |
 | Kodama | 262067 | [262067-kodama.json](./262067-kodama.json) |
