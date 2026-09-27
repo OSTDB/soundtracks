@@ -2369,6 +2369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niplob Adventure | 225726 | [225726-niplob-adventure.json](./225726-niplob-adventure.json) |
 | Nippets | 326613 | [326613-nippets.json](./326613-nippets.json) |
 | Nippon Marathon | 87673 | [87673-nippon-marathon.json](./87673-nippon-marathon.json) |
+| Nippon Pro Mahjong: Renmei Kounin Motto 20-bai! Mahjgong ga Tsuyoku naru Houhou - Hatsu Chuukyuu-sha-hen | 125913 | [125913-nippon-pro-mahjong-renmei-kounin-motto-20-bai-mahjgong-ga-tsuyoku-naru-houhou-hatsu-chuukyuu-sha-hen.json](./125913-nippon-pro-mahjong-renmei-kounin-motto-20-bai-mahjgong-ga-tsuyoku-naru-houhou-hatsu-chuukyuu-sha-hen.json) |
 | Nippon Suugaku Kentei Kyoukai Kounin: Suuken DS - Otona ga Tokenai!? Kodomo no Sansuu | 269615 | [269615-nippon-suugaku-kentei-kyoukai-kounin-suuken-ds-otona-ga-tokenai-kodomo-no-sansuu.json](./269615-nippon-suugaku-kentei-kyoukai-kounin-suuken-ds-otona-ga-tokenai-kodomo-no-sansuu.json) |
 | Nira | 126207 | [126207-nira.json](./126207-nira.json) |
 | NIRA Intense Import Drag Racing | 62225 | [62225-nira-intense-import-drag-racing.json](./62225-nira-intense-import-drag-racing.json) |
@@ -3149,6 +3150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Inc 2 | 100862 | [100862-nuclear-inc-2.json](./100862-nuclear-inc-2.json) |
 | Nuclear Lizard Island Rampage | 318434 | [318434-nuclear-lizard-island-rampage.json](./318434-nuclear-lizard-island-rampage.json) |
 | Nuclear Mages | 230942 | [230942-nuclear-mages.json](./230942-nuclear-mages.json) |
+| Nuclear Nick | 125891 | [125891-nuclear-nick.json](./125891-nuclear-nick.json) |
 | Nuclear Nightmare | 297163 | [297163-nuclear-nightmare.json](./297163-nuclear-nightmare.json) |
 | Nuclear Outrun | 234601 | [234601-nuclear-outrun.json](./234601-nuclear-outrun.json) |
 | Nuclear Plant 2024 | 308267 | [308267-nuclear-plant-2024.json](./308267-nuclear-plant-2024.json) |
