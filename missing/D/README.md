@@ -1942,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deceiver | 74788 | [74788-deceiver.json](./74788-deceiver.json) |
 | December 3rd | 392758 | [392758-december-3rd.json](./392758-december-3rd.json) |
 | Decent Into Sector 32 | 165641 | [165641-decent-into-sector-32.json](./165641-decent-into-sector-32.json) |
+| Decently Bad Tower Defense | 158034 | [158034-decently-bad-tower-defense.json](./158034-decently-bad-tower-defense.json) |
 | Deceptiive Love Ballad The Blasphemer | 386840 | [386840-deceptiive-love-ballad-the-blasphemer.json](./386840-deceptiive-love-ballad-the-blasphemer.json) |
 | Deceptus Map Pack + Bonus Items | 230934 | [230934-deceptus-map-pack-bonus-items.json](./230934-deceptus-map-pack-bonus-items.json) |
 | Decide 4 God | 173046 | [173046-decide-4-god.json](./173046-decide-4-god.json) |
