@@ -1354,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate in the Darkness | 169385 | [169385-fate-in-the-darkness.json](./169385-fate-in-the-darkness.json) |
 | Fate Is Not A Line | 335255 | [335255-fate-is-not-a-line.json](./335255-fate-is-not-a-line.json) |
 | Fate of India | 104324 | [104324-fate-of-india.json](./104324-fate-of-india.json) |
+| Fate of Kai | 139314 | [139314-fate-of-kai.json](./139314-fate-of-kai.json) |
 | Fate of the Elder Gods | 125454 | [125454-fate-of-the-elder-gods.json](./125454-fate-of-the-elder-gods.json) |
 | Fate of the Seventh Scholar | 366260 | [366260-fate-of-the-seventh-scholar.json](./366260-fate-of-the-seventh-scholar.json) |
 | Fate Seeker II | 182359 | [182359-fate-seeker-ii.json](./182359-fate-seeker-ii.json) |
@@ -1724,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FickleFlame | 367472 | [367472-fickleflame.json](./367472-fickleflame.json) |
 | Fiction Fixers: The Curse of Oz & Adventures in Wonderland | 209421 | [209421-fiction-fixers-the-curse-of-oz-and-adventures-in-wonderland.json](./209421-fiction-fixers-the-curse-of-oz-and-adventures-in-wonderland.json) |
 | Fiction.Colors | 341152 | [341152-fiction-colors.json](./341152-fiction-colors.json) |
+| Fidchell | 139338 | [139338-fidchell.json](./139338-fidchell.json) |
 | Fiddle | 80534 | [80534-fiddle.json](./80534-fiddle.json) |
 | Fiddlebert's Folly | 313476 | [313476-fiddleberts-folly.json](./313476-fiddleberts-folly.json) |
 | Fidel: Dungeon Rescue | 36724 | [36724-fidel-dungeon-rescue.json](./36724-fidel-dungeon-rescue.json) |
