@@ -3105,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective of the Dead | 318179 | [318179-detective-of-the-dead.json](./318179-detective-of-the-dead.json) |
 | Detective Olivia: The Cult of Whisperers | 294448 | [294448-detective-olivia-the-cult-of-whisperers.json](./294448-detective-olivia-the-cult-of-whisperers.json) |
 | Detective Patch | 257958 | [257958-detective-patch.json](./257958-detective-patch.json) |
+| Detective Puz | 133907 | [133907-detective-puz.json](./133907-detective-puz.json) |
 | Detective R & Prophet J | 402369 | [402369-detective-r-and-prophet-j.json](./402369-detective-r-and-prophet-j.json) |
 | Detective Rosie Morgan: Death at a Dinner Party | 236827 | [236827-detective-rosie-morgan-death-at-a-dinner-party.json](./236827-detective-rosie-morgan-death-at-a-dinner-party.json) |
 | Detective S | 159089 | [159089-detective-s.json](./159089-detective-s.json) |
@@ -4434,6 +4435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divinity Fatum | 227769 | [227769-divinity-fatum.json](./227769-divinity-fatum.json) |
 | Divinity Hunting | 269033 | [269033-divinity-hunting.json](./269033-divinity-hunting.json) |
 | Divinity Vassals | 389709 | [389709-divinity-vassals.json](./389709-divinity-vassals.json) |
+| Divinity: Original Sin - The Source Saga | 133908 | [133908-divinity-original-sin-the-source-saga.json](./133908-divinity-original-sin-the-source-saga.json) |
 | Divinus Vanitas | 215921 | [215921-divinus-vanitas.json](./215921-divinus-vanitas.json) |
 | Dìwáng Chāiqiān Bàn | 367485 | [367485-diwang-chaiqian-ban.json](./367485-diwang-chaiqian-ban.json) |
 | DIY Fashion Star - Design Hacks Clothing Game | 104486 | [104486-diy-fashion-star-design-hacks-clothing-game.json](./104486-diy-fashion-star-design-hacks-clothing-game.json) |
@@ -4889,6 +4891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolls | 244497 | [244497-dolls.json](./244497-dolls.json) |
 | Dolls: The Hunt | 310205 | [310205-dolls-the-hunt.json](./310205-dolls-the-hunt.json) |
 | Dolls' Domain | 305888 | [305888-dolls-domain.json](./305888-dolls-domain.json) |
+| Dolly | 133894 | [133894-dolly.json](./133894-dolly.json) |
 | Dolmenia : Chroniques Gauloises | 125369 | [125369-dolmenia-chroniques-gauloises.json](./125369-dolmenia-chroniques-gauloises.json) |
 | Dolmenjord | 217519 | [217519-dolmenjord.json](./217519-dolmenjord.json) |
 | Doloc Town | 235852 | [235852-doloc-town.json](./235852-doloc-town.json) |
