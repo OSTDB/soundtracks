@@ -5281,6 +5281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Merge | 322806 | [322806-fruit-merge.json](./322806-fruit-merge.json) |
 | Fruit Mountain Party | 334302 | [334302-fruit-mountain-party.json](./334302-fruit-mountain-party.json) |
 | Fruit Ninja Academy: Math Master | 193723 | [193723-fruit-ninja-academy-math-master.json](./193723-fruit-ninja-academy-math-master.json) |
+| Fruit Ninja VR 2 | 160150 | [160150-fruit-ninja-vr-2.json](./160150-fruit-ninja-vr-2.json) |
 | Fruit Ninja vs Skittles | 352285 | [352285-fruit-ninja-vs-skittles.json](./352285-fruit-ninja-vs-skittles.json) |
 | Fruit Ninja: Pac-Man Theme | 400979 | [400979-fruit-ninja-pac-man-theme.json](./400979-fruit-ninja-pac-man-theme.json) |
 | Fruit of Choice | 309495 | [309495-fruit-of-choice.json](./309495-fruit-of-choice.json) |
@@ -5445,6 +5446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Chess: Platinum Edition | 283146 | [283146-fun-chess-platinum-edition.json](./283146-fun-chess-platinum-edition.json) |
 | Fun Chess: Premium Edition | 270792 | [270792-fun-chess-premium-edition.json](./270792-fun-chess-premium-edition.json) |
 | Fun Chess: Special Edition | 268559 | [268559-fun-chess-special-edition.json](./268559-fun-chess-special-edition.json) |
+| Fun Christmas Santa VR | 160152 | [160152-fun-christmas-santa-vr.json](./160152-fun-christmas-santa-vr.json) |
 | Fun Feud Trivia | 208974 | [208974-fun-feud-trivia.json](./208974-fun-feud-trivia.json) |
 | Fun Fox’s Biscuit Bash | 397089 | [397089-fun-fox-s-biscuit-bash.json](./397089-fun-fox-s-biscuit-bash.json) |
 | Fun Fruit Merge | 305388 | [305388-fun-fruit-merge.json](./305388-fun-fruit-merge.json) |
