@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T21:48:29.628Z",
-  "total_missing": 132376,
+  "generated_at": "2026-09-27T22:03:33.317Z",
+  "total_missing": 132426,
   "games": [
     {
       "igdb_id": 186066,
@@ -465533,6 +465533,11 @@
       "file": "missing/S/256224-safari-party.json"
     },
     {
+      "igdb_id": 124086,
+      "game_name": "Safari Pinball",
+      "file": "missing/S/124086-safari-pinball.json"
+    },
+    {
       "igdb_id": 319952,
       "game_name": "Safari Puzzle Match",
       "file": "missing/S/319952-safari-puzzle-match.json"
@@ -486518,6 +486523,11 @@
       "file": "missing/S/406269-sign-broken-kether.json"
     },
     {
+      "igdb_id": 124085,
+      "game_name": "Signal",
+      "file": "missing/S/124085-signal.json"
+    },
+    {
       "igdb_id": 171482,
       "game_name": "Signal",
       "file": "missing/S/171482-signal.json"
@@ -487998,6 +488008,11 @@
       "file": "missing/S/70431-simple-2000-series-vol-19-the-renai-simulation-watashi-ni-oma-cafe.json"
     },
     {
+      "igdb_id": 124080,
+      "game_name": "Simple 2000 Series Vol. 2: The Party Game",
+      "file": "missing/S/124080-simple-2000-series-vol-2-the-party-game.json"
+    },
+    {
       "igdb_id": 335906,
       "game_name": "Simple 2000 Series Vol. 20: The Dungeon RPG",
       "file": "missing/S/335906-simple-2000-series-vol-20-the-dungeon-rpg.json"
@@ -488058,9 +488073,19 @@
       "file": "missing/S/61339-simple-2000-series-vol-62-the-super-puzzle-bobble-dx.json"
     },
     {
+      "igdb_id": 124079,
+      "game_name": "Simple 2000 Series vol. 66: The Party Unou Quiz",
+      "file": "missing/S/124079-simple-2000-series-vol-66-the-party-unou-quiz.json"
+    },
+    {
       "igdb_id": 203279,
       "game_name": "Simple 2000 Series Vol. 69: The Board Game Collection",
       "file": "missing/S/203279-simple-2000-series-vol-69-the-board-game-collection.json"
+    },
+    {
+      "igdb_id": 124078,
+      "game_name": "Simple 2000 Series Vol. 70: The Kanshikikan",
+      "file": "missing/S/124078-simple-2000-series-vol-70-the-kanshikikan.json"
     },
     {
       "igdb_id": 203280,
@@ -541788,6 +541813,16 @@
       "file": "missing/T/327433-table-game-end.json"
     },
     {
+      "igdb_id": 124068,
+      "game_name": "Table Game Spirits",
+      "file": "missing/T/124068-table-game-spirits.json"
+    },
+    {
+      "igdb_id": 124067,
+      "game_name": "Table Game Spirits 2",
+      "file": "missing/T/124067-table-game-spirits-2.json"
+    },
+    {
       "igdb_id": 115611,
       "game_name": "Table Games VR",
       "file": "missing/T/115611-table-games-vr.json"
@@ -546423,6 +546458,11 @@
       "file": "missing/T/48883-tantei-jinguji-saburo-toki-no-sugiyuku-mama-ni.json"
     },
     {
+      "igdb_id": 124070,
+      "game_name": "Tantei Kibukawa Ryosuke Jiken Tan: The Masquerade Lullaby",
+      "file": "missing/T/124070-tantei-kibukawa-ryosuke-jiken-tan-the-masquerade-lullaby.json"
+    },
+    {
       "igdb_id": 297585,
       "game_name": "Tantei Kibukawa Ryousuke Jiken-tan Vol. 7: Otonari Keiji no Sousa Memo",
       "file": "missing/T/297585-tantei-kibukawa-ryousuke-jiken-tan-vol-7-otonari-keiji-no-sousa-memo.json"
@@ -548781,6 +548821,11 @@
       "igdb_id": 36002,
       "game_name": "Teddy Floppy Ear: Mountain Adventure",
       "file": "missing/T/36002-teddy-floppy-ear-mountain-adventure.json"
+    },
+    {
+      "igdb_id": 124072,
+      "game_name": "Teddy Gangs",
+      "file": "missing/T/124072-teddy-gangs.json"
     },
     {
       "igdb_id": 374149,
@@ -562543,6 +562588,11 @@
       "file": "missing/T/181355-the-futurist.json"
     },
     {
+      "igdb_id": 124074,
+      "game_name": "The Gal Mahjong",
+      "file": "missing/T/124074-the-gal-mahjong.json"
+    },
+    {
       "igdb_id": 204410,
       "game_name": "The Galactic Junkers",
       "file": "missing/T/204410-the-galactic-junkers.json"
@@ -562666,6 +562716,11 @@
       "igdb_id": 167151,
       "game_name": "The Game Paradise: Cruisin Mix - Limited Edition",
       "file": "missing/T/167151-the-game-paradise-cruisin-mix-limited-edition.json"
+    },
+    {
+      "igdb_id": 124073,
+      "game_name": "The Game Paradise: Crusin Mix Special",
+      "file": "missing/T/124073-the-game-paradise-crusin-mix-special.json"
     },
     {
       "igdb_id": 408818,
@@ -563751,6 +563806,11 @@
       "igdb_id": 234051,
       "game_name": "The Hacker 2.0",
       "file": "missing/T/234051-the-hacker-2-0.json"
+    },
+    {
+      "igdb_id": 124076,
+      "game_name": "The Haioku Byoutou",
+      "file": "missing/T/124076-the-haioku-byoutou.json"
     },
     {
       "igdb_id": 252091,
@@ -573878,6 +573938,11 @@
       "file": "missing/T/62671-the-pyramids-of-egypt.json"
     },
     {
+      "igdb_id": 124082,
+      "game_name": "The Pyraplex",
+      "file": "missing/T/124082-the-pyraplex.json"
+    },
+    {
       "igdb_id": 105863,
       "game_name": "The Q - Live Trivia Network",
       "file": "missing/T/105863-the-q-live-trivia-network.json"
@@ -574001,6 +574066,11 @@
       "igdb_id": 275134,
       "game_name": "The Quest of the Tiny Hero",
       "file": "missing/T/275134-the-quest-of-the-tiny-hero.json"
+    },
+    {
+      "igdb_id": 124083,
+      "game_name": "The Quest Trio",
+      "file": "missing/T/124083-the-quest-trio.json"
     },
     {
       "igdb_id": 205602,
@@ -576241,6 +576311,11 @@
       "igdb_id": 327327,
       "game_name": "The Shortest Journey",
       "file": "missing/T/327327-the-shortest-journey.json"
+    },
+    {
+      "igdb_id": 124081,
+      "game_name": "The Shouboutai",
+      "file": "missing/T/124081-the-shouboutai.json"
     },
     {
       "igdb_id": 272577,
@@ -580333,6 +580408,11 @@
       "file": "missing/T/48706-the-trolls-in-crazyland.json"
     },
     {
+      "igdb_id": 124087,
+      "game_name": "The Trump",
+      "file": "missing/T/124087-the-trump.json"
+    },
+    {
       "igdb_id": 340955,
       "game_name": "The Truth of a Snowy Night",
       "file": "missing/T/340955-the-truth-of-a-snowy-night.json"
@@ -582373,6 +582453,11 @@
       "file": "missing/T/398476-the-woman-above.json"
     },
     {
+      "igdb_id": 124088,
+      "game_name": "The Wonder Pets!: Save the Animals!",
+      "file": "missing/T/124088-the-wonder-pets-save-the-animals.json"
+    },
+    {
       "igdb_id": 327585,
       "game_name": "The Wonder Sword",
       "file": "missing/T/327585-the-wonder-sword.json"
@@ -582486,6 +582571,11 @@
       "igdb_id": 268205,
       "game_name": "The World of Golden Eggs: Nori Nori Rhythm-kei - Nissan Note Original Version",
       "file": "missing/T/268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json"
+    },
+    {
+      "igdb_id": 124089,
+      "game_name": "The World of Golden Eggs: Nori Nori Uta Dekichatte Kei",
+      "file": "missing/T/124089-the-world-of-golden-eggs-nori-nori-uta-dekichatte-kei.json"
     },
     {
       "igdb_id": 156090,
@@ -584156,6 +584246,11 @@
       "igdb_id": 94539,
       "game_name": "THiNK-X",
       "file": "missing/T/94539-think-x.json"
+    },
+    {
+      "igdb_id": 124092,
+      "game_name": "Think: Train Your Brain",
+      "file": "missing/T/124092-think-train-your-brain.json"
     },
     {
       "igdb_id": 142363,
@@ -585996,6 +586091,11 @@
       "igdb_id": 206787,
       "game_name": "Tic-a-Tac Royale",
       "file": "missing/T/206787-tic-a-tac-royale.json"
+    },
+    {
+      "igdb_id": 124091,
+      "game_name": "Tic-Tac-Letters by POWGI",
+      "file": "missing/T/124091-tic-tac-letters-by-powgi.json"
     },
     {
       "igdb_id": 180748,
@@ -592988,6 +593088,11 @@
       "file": "missing/T/340565-titans-of-the-past.json"
     },
     {
+      "igdb_id": 124093,
+      "game_name": "Titans Pinball",
+      "file": "missing/T/124093-titans-pinball.json"
+    },
+    {
       "igdb_id": 109056,
       "game_name": "Titans: Dawn of Tribes",
       "file": "missing/T/109056-titans-dawn-of-tribes.json"
@@ -594043,6 +594148,11 @@
       "file": "missing/T/196237-toe-to-toe-party-games.json"
     },
     {
+      "igdb_id": 124095,
+      "game_name": "Toeic Test DS Training",
+      "file": "missing/T/124095-toeic-test-ds-training.json"
+    },
+    {
       "igdb_id": 157143,
       "game_name": "Toewr le Fence",
       "file": "missing/T/157143-toewr-le-fence.json"
@@ -594316,6 +594426,21 @@
       "igdb_id": 109045,
       "game_name": "Tokimeki Memorial Girl's Side Triple Pack",
       "file": "missing/T/109045-tokimeki-memorial-girls-side-triple-pack.json"
+    },
+    {
+      "igdb_id": 124096,
+      "game_name": "Tokimeki Memorial Girl's Side: 1st Love",
+      "file": "missing/T/124096-tokimeki-memorial-girls-side-1st-love.json"
+    },
+    {
+      "igdb_id": 124097,
+      "game_name": "Tokimeki Memorial Girl's Side: 1st Love Plus",
+      "file": "missing/T/124097-tokimeki-memorial-girls-side-1st-love-plus.json"
+    },
+    {
+      "igdb_id": 124098,
+      "game_name": "Tokimeki Memorial Girl's Side: 2nd Season",
+      "file": "missing/T/124098-tokimeki-memorial-girls-side-2nd-season.json"
     },
     {
       "igdb_id": 50129,
@@ -595921,6 +596046,11 @@
       "igdb_id": 79319,
       "game_name": "Tomy Car Drive Shutsudou! Kinkyuu Sharyou-hen",
       "file": "missing/T/79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json"
+    },
+    {
+      "igdb_id": 124099,
+      "game_name": "Tomyka Hero: Rescue Force DS",
+      "file": "missing/T/124099-tomyka-hero-rescue-force-ds.json"
     },
     {
       "igdb_id": 236240,
@@ -598213,6 +598343,11 @@
       "file": "missing/T/348258-touch-fish.json"
     },
     {
+      "igdb_id": 124103,
+      "game_name": "Touch Game Party",
+      "file": "missing/T/124103-touch-game-party.json"
+    },
+    {
       "igdb_id": 219542,
       "game_name": "Touch Love",
       "file": "missing/T/219542-touch-love.json"
@@ -598381,6 +598516,11 @@
       "igdb_id": 74767,
       "game_name": "Touhai Densetsu Akagi: Yami ni Maiorita Tensai",
       "file": "missing/T/74767-touhai-densetsu-akagi-yami-ni-maiorita-tensai.json"
+    },
+    {
+      "igdb_id": 124104,
+      "game_name": "Touhai Densetsu: Akagi DS - Yami ni Maiorita Tensai",
+      "file": "missing/T/124104-touhai-densetsu-akagi-ds-yami-ni-maiorita-tensai.json"
     },
     {
       "igdb_id": 138029,
@@ -599411,6 +599551,11 @@
       "igdb_id": 147346,
       "game_name": "Tout Savoir: CM1",
       "file": "missing/T/147346-tout-savoir-cm1.json"
+    },
+    {
+      "igdb_id": 124105,
+      "game_name": "Tout Savoir: CM2",
+      "file": "missing/T/124105-tout-savoir-cm2.json"
     },
     {
       "igdb_id": 24994,
@@ -606428,6 +606573,11 @@
       "file": "missing/T/153445-treasure-rangers.json"
     },
     {
+      "igdb_id": 124109,
+      "game_name": "Treasure Report: Kikai Jikake no Isan",
+      "file": "missing/T/124109-treasure-report-kikai-jikake-no-isan.json"
+    },
+    {
       "igdb_id": 386293,
       "game_name": "Treasure Rush: Phantom Infiltration",
       "file": "missing/T/386293-treasure-rush-phantom-infiltration.json"
@@ -609898,6 +610048,11 @@
       "file": "missing/T/226203-tsubaki-hata.json"
     },
     {
+      "igdb_id": 124108,
+      "game_name": "Tsubasa Chronicle Vol. 2",
+      "file": "missing/T/124108-tsubasa-chronicle-vol-2.json"
+    },
+    {
       "igdb_id": 406831,
       "game_name": "Tsubasa Heaven",
       "file": "missing/T/406831-tsubasa-heaven.json"
@@ -610021,6 +610176,11 @@
       "igdb_id": 268456,
       "game_name": "Tsumera",
       "file": "missing/T/268456-tsumera.json"
+    },
+    {
+      "igdb_id": 124107,
+      "game_name": "Tsumiki: The Infernal Tower",
+      "file": "missing/T/124107-tsumiki-the-infernal-tower.json"
     },
     {
       "igdb_id": 222867,
@@ -614438,6 +614598,11 @@
       "file": "missing/U/215679-ultimate-protector.json"
     },
     {
+      "igdb_id": 124111,
+      "game_name": "Ultimate Puzzle Games: Sudoku Edition",
+      "file": "missing/U/124111-ultimate-puzzle-games-sudoku-edition.json"
+    },
+    {
       "igdb_id": 99538,
       "game_name": "Ultimate Racing 2D",
       "file": "missing/U/99538-ultimate-racing-2d.json"
@@ -615731,6 +615896,11 @@
       "igdb_id": 62407,
       "game_name": "Umisho",
       "file": "missing/U/62407-umisho.json"
+    },
+    {
+      "igdb_id": 124119,
+      "game_name": "Umiuru to Sudoku Shiyo!",
+      "file": "missing/U/124119-umiuru-to-sudoku-shiyo.json"
     },
     {
       "igdb_id": 215203,
@@ -618908,9 +619078,24 @@
       "file": "missing/U/303759-unou-kaihatsu-series-10-nontan-to-issho-wai-wai-nippon.json"
     },
     {
+      "igdb_id": 124117,
+      "game_name": "Unou Kids DS",
+      "file": "missing/U/124117-unou-kids-ds.json"
+    },
+    {
+      "igdb_id": 124116,
+      "game_name": "Unou no Tatsujin: Hirameki Kosodate My Angel",
+      "file": "missing/U/124116-unou-no-tatsujin-hirameki-kosodate-my-angel.json"
+    },
+    {
       "igdb_id": 146795,
       "game_name": "Unou no Tatsujin: Machigai Sagashi Museum",
       "file": "missing/U/146795-unou-no-tatsujin-machigai-sagashi-museum.json"
+    },
+    {
+      "igdb_id": 124115,
+      "game_name": "Unou Tanren UnoTan DS: Shichida Shiki Otona no Shun Kan Training",
+      "file": "missing/U/124115-unou-tanren-unotan-ds-shichida-shiki-otona-no-shun-kan-training.json"
     },
     {
       "igdb_id": 410358,
@@ -620928,6 +621113,11 @@
       "file": "missing/U/262101-utsuhos-great-hunger-battle.json"
     },
     {
+      "igdb_id": 124114,
+      "game_name": "Utsukushii Nihongo no Kakikata Hanashikata DS",
+      "file": "missing/U/124114-utsukushii-nihongo-no-kakikata-hanashikata-ds.json"
+    },
+    {
       "igdb_id": 301608,
       "game_name": "Utsurobi no Serentia",
       "file": "missing/U/301608-utsurobi-no-serentia.json"
@@ -620981,6 +621171,16 @@
       "igdb_id": 338579,
       "game_name": "UWAR",
       "file": "missing/U/338579-uwar.json"
+    },
+    {
+      "igdb_id": 124113,
+      "game_name": "Uwasa no Midori-kun!! Futari no Midori!?",
+      "file": "missing/U/124113-uwasa-no-midori-kun-futari-no-midori.json"
+    },
+    {
+      "igdb_id": 124112,
+      "game_name": "Uwasa no Midori-kun!! Natsu Iro Striker",
+      "file": "missing/U/124112-uwasa-no-midori-kun-natsu-iro-striker.json"
     },
     {
       "igdb_id": 94196,
@@ -627373,6 +627573,11 @@
       "file": "missing/V/69288-vitamin-x.json"
     },
     {
+      "igdb_id": 124110,
+      "game_name": "Vitamin X Evolution",
+      "file": "missing/V/124110-vitamin-x-evolution.json"
+    },
+    {
       "igdb_id": 132092,
       "game_name": "Vitamin Z",
       "file": "missing/V/132092-vitamin-z.json"
@@ -630601,6 +630806,11 @@
       "igdb_id": 312353,
       "game_name": "WaiWai Drive",
       "file": "missing/W/312353-waiwai-drive.json"
+    },
+    {
+      "igdb_id": 124127,
+      "game_name": "Wakabayashi Fumie no DS Kabu Lesson",
+      "file": "missing/W/124127-wakabayashi-fumie-no-ds-kabu-lesson.json"
     },
     {
       "igdb_id": 134521,
@@ -640418,6 +640628,21 @@
       "file": "missing/W/409656-whys-and-wonders-secrets-of-our-bodies.json"
     },
     {
+      "igdb_id": 124124,
+      "game_name": "Wi-Fi Taiou Gensen Table Game DS",
+      "file": "missing/W/124124-wi-fi-taiou-gensen-table-game-ds.json"
+    },
+    {
+      "igdb_id": 124123,
+      "game_name": "Wi-Fi Taiou Morita Shogi DS",
+      "file": "missing/W/124123-wi-fi-taiou-morita-shogi-ds.json"
+    },
+    {
+      "igdb_id": 124122,
+      "game_name": "Wi-Fi Taiou Yakuman DS",
+      "file": "missing/W/124122-wi-fi-taiou-yakuman-ds.json"
+    },
+    {
       "igdb_id": 268206,
       "game_name": "Wi-Fi Taiou: Gensen Table Game Wii",
       "file": "missing/W/268206-wi-fi-taiou-gensen-table-game-wii.json"
@@ -647193,6 +647418,11 @@
       "file": "missing/W/193472-world-of-retailing.json"
     },
     {
+      "igdb_id": 124121,
+      "game_name": "World of Riders",
+      "file": "missing/W/124121-world-of-riders.json"
+    },
+    {
       "igdb_id": 193757,
       "game_name": "World of Robots",
       "file": "missing/W/193757-world-of-robots.json"
@@ -649491,6 +649721,11 @@
       "igdb_id": 413887,
       "game_name": "Wunkfall",
       "file": "missing/W/413887-wunkfall.json"
+    },
+    {
+      "igdb_id": 124120,
+      "game_name": "Wuppo: Definitive Edition",
+      "file": "missing/W/124120-wuppo-definitive-edition.json"
     },
     {
       "igdb_id": 58230,
@@ -658298,6 +658533,11 @@
       "file": "missing/Z/411735-zenless-zone-zero-update-3-1-the-long-goodbye.json"
     },
     {
+      "igdb_id": 124128,
+      "game_name": "Zenmai Zamurai",
+      "file": "missing/Z/124128-zenmai-zamurai.json"
+    },
+    {
       "igdb_id": 118828,
       "game_name": "Zenodeath",
       "file": "missing/Z/118828-zenodeath.json"
@@ -658813,6 +659053,11 @@
       "file": "missing/Z/251528-zettai-mite-ha-ikenai-shashin.json"
     },
     {
+      "igdb_id": 124129,
+      "game_name": "Zettai Zetsumei Dangerous Jiisan DS: Dangerous Sensation",
+      "file": "missing/Z/124129-zettai-zetsumei-dangerous-jiisan-ds-dangerous-sensation.json"
+    },
+    {
       "igdb_id": 395895,
       "game_name": "Zetton's One Trillion Degree Derby",
       "file": "missing/Z/395895-zettons-one-trillion-degree-derby.json"
@@ -659056,6 +659301,11 @@
       "igdb_id": 211277,
       "game_name": "Ziircon",
       "file": "missing/Z/211277-ziircon.json"
+    },
+    {
+      "igdb_id": 124130,
+      "game_name": "ZikSquare",
+      "file": "missing/Z/124130-ziksquare.json"
     },
     {
       "igdb_id": 94007,
