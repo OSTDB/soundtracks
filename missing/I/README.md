@@ -1631,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Robotics | 279000 | [279000-infinite-robotics.json](./279000-infinite-robotics.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
 | Infinite Shooter | 33103 | [33103-infinite-shooter.json](./33103-infinite-shooter.json) |
+| Infinite Sky | 150018 | [150018-infinite-sky.json](./150018-infinite-sky.json) |
 | Infinite Soul | 361919 | [361919-infinite-soul.json](./361919-infinite-soul.json) |
 | Infinite Space III: Sea of Stars | 16930 | [16930-infinite-space-iii-sea-of-stars.json](./16930-infinite-space-iii-sea-of-stars.json) |
 | Infinite Sparkles | 125415 | [125415-infinite-sparkles.json](./125415-infinite-sparkles.json) |
