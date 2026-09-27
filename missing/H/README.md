@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handball Manager 2022 | 193497 | [193497-handball-manager-2022.json](./193497-handball-manager-2022.json) |
 | Handdogg | 185154 | [185154-handdogg.json](./185154-handdogg.json) |
 | Handheld Pinball - Robot, Pirate, & Holiday Themes | 108452 | [108452-handheld-pinball-robot-pirate-and-holiday-themes.json](./108452-handheld-pinball-robot-pirate-and-holiday-themes.json) |
+| Handle With Care | 133864 | [133864-handle-with-care.json](./133864-handle-with-care.json) |
 | Hands of Necromancy II | 278539 | [278539-hands-of-necromancy-ii.json](./278539-hands-of-necromancy-ii.json) |
 | Hands of the Killer | 150096 | [150096-hands-of-the-killer.json](./150096-hands-of-the-killer.json) |
 | Hands of Time | 49927 | [49927-hands-of-time.json](./49927-hands-of-time.json) |
@@ -2643,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex-a-Hop | 261303 | [261303-hex-a-hop.json](./261303-hex-a-hop.json) |
 | Hexa | 114390 | [114390-hexa.json](./114390-hexa.json) |
 | Hexa | 46868 | [46868-hexa.json](./46868-hexa.json) |
+| Hexa Attack Puzzle: Shoot n Merge Numbers | 133891 | [133891-hexa-attack-puzzle-shoot-n-merge-numbers.json](./133891-hexa-attack-puzzle-shoot-n-merge-numbers.json) |
 | Hexa Faction | 57044 | [57044-hexa-faction.json](./57044-hexa-faction.json) |
 | Hexa Faction 2 | 57043 | [57043-hexa-faction-2.json](./57043-hexa-faction-2.json) |
 | Hexa Fusion 2048 | 364558 | [364558-hexa-fusion-2048.json](./364558-hexa-fusion-2048.json) |
@@ -4868,6 +4870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hulu Has Live Sports '20: The Video Game | 125457 | [125457-hulu-has-live-sports-20-the-video-game.json](./125457-hulu-has-live-sports-20-the-video-game.json) |
 | Hululuup | 239907 | [239907-hululuup.json](./239907-hululuup.json) |
 | Hum | 192683 | [192683-hum.json](./192683-hum.json) |
+| Human | 133865 | [133865-human.json](./133865-human.json) |
 | Human Baseball | 38342 | [38342-human-baseball.json](./38342-human-baseball.json) |
 | Human Bowling | 283270 | [283270-human-bowling.json](./283270-human-bowling.json) |
 | Human Cargo | 194449 | [194449-human-cargo.json](./194449-human-cargo.json) |
