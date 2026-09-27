@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Sinclair Magnificent 7 February 1992 | 96509 | [96509-your-sinclair-magnificent-7-february-1992.json](./96509-your-sinclair-magnificent-7-february-1992.json) |
 | Your Sister's Drown'd, Laertes | 135302 | [135302-your-sisters-drownd-laertes.json](./135302-your-sisters-drownd-laertes.json) |
 | Your Study Mate | 325061 | [325061-your-study-mate.json](./325061-your-study-mate.json) |
+| Your Sword Is So Big | 174120 | [174120-your-sword-is-so-big.json](./174120-your-sword-is-so-big.json) |
 | Your Time Is Mine | 82945 | [82945-your-time-is-mine.json](./82945-your-time-is-mine.json) |
 | Your Time to Shine: Island Existence | 205610 | [205610-your-time-to-shine-island-existence.json](./205610-your-time-to-shine-island-existence.json) |
 | Your Train 2 | 267085 | [267085-your-train-2.json](./267085-your-train-2.json) |
