@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EasyChemistryLab | 202755 | [202755-easychemistrylab.json](./202755-easychemistrylab.json) |
 | Easyland 2 | 328065 | [328065-easyland-2.json](./328065-easyland-2.json) |
 | Easyland 3 | 379973 | [379973-easyland-3.json](./379973-easyland-3.json) |
+| EasyPianoGame | 130802 | [130802-easypianogame.json](./130802-easypianogame.json) |
 | Eat and Evolve | 227957 | [227957-eat-and-evolve.json](./227957-eat-and-evolve.json) |
 | Eat Bananas | 213399 | [213399-eat-bananas.json](./213399-eat-bananas.json) |
 | Eat It | 414313 | [414313-eat-it.json](./414313-eat-it.json) |
@@ -3295,6 +3296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exsanguination | 340045 | [340045-exsanguination.json](./340045-exsanguination.json) |
 | Extase | 94197 | [94197-extase.json](./94197-extase.json) |
 | Exterminate Zombies: Get Paid | 215930 | [215930-exterminate-zombies-get-paid.json](./215930-exterminate-zombies-get-paid.json) |
+| Extermination | 130828 | [130828-extermination.json](./130828-extermination.json) |
 | Extermination | 271997 | [271997-extermination.json](./271997-extermination.json) |
 | Extermination 1 | 304705 | [304705-extermination-1.json](./304705-extermination-1.json) |
 | Exterminator | 290522 | [290522-exterminator.json](./290522-exterminator.json) |
