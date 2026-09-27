@@ -1907,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Era | 83940 | [83940-era.json](./83940-era.json) |
 | Era of Combat: Boxing | 189055 | [189055-era-of-combat-boxing.json](./189055-era-of-combat-boxing.json) |
 | Era of Darkness | 287735 | [287735-era-of-darkness.json](./287735-era-of-darkness.json) |
+| Era of Defense | 157509 | [157509-era-of-defense.json](./157509-era-of-defense.json) |
 | Era of Miracles | 124167 | [124167-era-of-miracles.json](./124167-era-of-miracles.json) |
 | Era of Samurai: Code of Love | 163356 | [163356-era-of-samurai-code-of-love.json](./163356-era-of-samurai-code-of-love.json) |
 | Era's Adventures | 247534 | [247534-eras-adventures.json](./247534-eras-adventures.json) |
@@ -2249,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape to Hell | 179517 | [179517-escape-to-hell.json](./179517-escape-to-hell.json) |
 | Escape to Mars | 159707 | [159707-escape-to-mars.json](./159707-escape-to-mars.json) |
 | Escape to School | 192804 | [192804-escape-to-school.json](./192804-escape-to-school.json) |
+| Escape to Sidious | 157500 | [157500-escape-to-sidious.json](./157500-escape-to-sidious.json) |
 | Escape to the Ocean | 231061 | [231061-escape-to-the-ocean.json](./231061-escape-to-the-ocean.json) |
 | Escape Velocity | 377579 | [377579-escape-velocity.json](./377579-escape-velocity.json) |
 | Escape Velocity Nova | 50144 | [50144-escape-velocity-nova.json](./50144-escape-velocity-nova.json) |
