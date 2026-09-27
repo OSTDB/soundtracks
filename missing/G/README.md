@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of War: Reloaded | 342721 | [342721-gears-of-war-reloaded.json](./342721-gears-of-war-reloaded.json) |
 | Gears of War: Ultimate Edition - Deluxe Version | 164770 | [164770-gears-of-war-ultimate-edition-deluxe-version.json](./164770-gears-of-war-ultimate-edition-deluxe-version.json) |
 | Gears of War: Ultimate Edition and Rare Replay | 41613 | [41613-gears-of-war-ultimate-edition-and-rare-replay.json](./41613-gears-of-war-ultimate-edition-and-rare-replay.json) |
+| Gears Triple Bundle | 161180 | [161180-gears-triple-bundle.json](./161180-gears-triple-bundle.json) |
 | GearStorm | 117651 | [117651-gearstorm.json](./117651-gearstorm.json) |
 | Gearverse | 181159 | [181159-gearverse.json](./181159-gearverse.json) |
 | Gearz | 71763 | [71763-gearz.json](./71763-gearz.json) |
@@ -2463,6 +2464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GodFinger | 66697 | [66697-godfinger.json](./66697-godfinger.json) |
 | Godfist | 235356 | [235356-godfist.json](./235356-godfist.json) |
 | Godforged: Origins of Ozgalor | 313473 | [313473-godforged-origins-of-ozgalor.json](./313473-godforged-origins-of-ozgalor.json) |
+| Godkiller | 161172 | [161172-godkiller.json](./161172-godkiller.json) |
 | Godland: The Fire Quest | 202666 | [202666-godland-the-fire-quest.json](./202666-godland-the-fire-quest.json) |
 | Godland: The Fire Quest 2 | 219662 | [219662-godland-the-fire-quest-2.json](./219662-godland-the-fire-quest-2.json) |
 | Godless Tactics | 132673 | [132673-godless-tactics.json](./132673-godless-tactics.json) |
@@ -4176,6 +4178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Wars | 234 | [234-guild-wars.json](./234-guild-wars.json) |
 | Guild Wars 2: Elder Dragon Saga - Complete Collection | 293924 | [293924-guild-wars-2-elder-dragon-saga-complete-collection.json](./293924-guild-wars-2-elder-dragon-saga-complete-collection.json) |
 | Guild Wars 2: End of Dragons | 159254 | [159254-guild-wars-2-end-of-dragons.json](./159254-guild-wars-2-end-of-dragons.json) |
+| Guild Wars 2: End of Dragons - Deluxe Edition | 161181 | [161181-guild-wars-2-end-of-dragons-deluxe-edition.json](./161181-guild-wars-2-end-of-dragons-deluxe-edition.json) |
 | Guild Wars 2: Heart of Thorns | 13183 | [13183-guild-wars-2-heart-of-thorns.json](./13183-guild-wars-2-heart-of-thorns.json) |
 | Guild Wars 2: Janthir Wilds | 304360 | [304360-guild-wars-2-janthir-wilds.json](./304360-guild-wars-2-janthir-wilds.json) |
 | Guild Wars 2: Secrets of the Obscure | 255088 | [255088-guild-wars-2-secrets-of-the-obscure.json](./255088-guild-wars-2-secrets-of-the-obscure.json) |
@@ -4569,6 +4572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunzle: Clover And Claus | 331963 | [331963-gunzle-clover-and-claus.json](./331963-gunzle-clover-and-claus.json) |
 | Guójì Xiàngqí: Dānshuāngrén Duìzhàn Qípái Xiǎoyóuxì | 109011 | [109011-guoji-xiangqi-danshuangren-duizhan-qipai-xiaoyouxi.json](./109011-guoji-xiangqi-danshuangren-duizhan-qipai-xiaoyouxi.json) |
 | Gura's Adventure | 184097 | [184097-guras-adventure.json](./184097-guras-adventure.json) |
+| Gura's Birthday | 161177 | [161177-guras-birthday.json](./161177-guras-birthday.json) |
 | Guragura Oden | 296948 | [296948-guragura-oden.json](./296948-guragura-oden.json) |
 | Guranbo | 49596 | [49596-guranbo.json](./49596-guranbo.json) |
 | Gurei | 235913 | [235913-gurei.json](./235913-gurei.json) |
