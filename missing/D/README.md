@@ -2753,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent X | 311474 | [311474-descent-x.json](./311474-descent-x.json) |
 | Descent: Freespace - Battle Pack | 371972 | [371972-descent-freespace-battle-pack.json](./371972-descent-freespace-battle-pack.json) |
 | Descent: Levels of the World | 68718 | [68718-descent-levels-of-the-world.json](./68718-descent-levels-of-the-world.json) |
+| Descent: Road to Legend - The Delve | 166009 | [166009-descent-road-to-legend-the-delve.json](./166009-descent-road-to-legend-the-delve.json) |
 | Descent: Road to Legend - Trials of Frostgate | 171576 | [171576-descent-road-to-legend-trials-of-frostgate.json](./171576-descent-road-to-legend-trials-of-frostgate.json) |
 | Descent: Silence of Mind | 41905 | [41905-descent-silence-of-mind.json](./41905-descent-silence-of-mind.json) |
 | Descentium | 211139 | [211139-descentium.json](./211139-descentium.json) |
