@@ -3814,6 +3814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Endless Express | 26669 | [26669-the-endless-express.json](./26669-the-endless-express.json) |
 | The Endless Journey | 81068 | [81068-the-endless-journey.json](./81068-the-endless-journey.json) |
 | The Endless Village | 401522 | [401522-the-endless-village.json](./401522-the-endless-village.json) |
+| The Endless Wyrd | 133353 | [133353-the-endless-wyrd.json](./133353-the-endless-wyrd.json) |
 | The Enemy Approached the Walls | 224536 | [224536-the-enemy-approached-the-walls.json](./224536-the-enemy-approached-the-walls.json) |
 | The Enemy Below | 151010 | [151010-the-enemy-below.json](./151010-the-enemy-below.json) |
 | The Enforcer | 60493 | [60493-the-enforcer.json](./60493-the-enforcer.json) |
@@ -8901,6 +8902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TideTurn | 142262 | [142262-tideturn.json](./142262-tideturn.json) |
 | Tidewatch | 412273 | [412273-tidewatch.json](./412273-tidewatch.json) |
 | Tidewell | 413884 | [413884-tidewell.json](./413884-tidewell.json) |
+| Tidewoken | 133334 | [133334-tidewoken.json](./133334-tidewoken.json) |
 | Tidewrack | 413673 | [413673-tidewrack.json](./413673-tidewrack.json) |
 | Tidy Backpack | 309874 | [309874-tidy-backpack.json](./309874-tidy-backpack.json) |
 | Tidy Up: Electronic Store Simulator | 416679 | [416679-tidy-up-electronic-store-simulator.json](./416679-tidy-up-electronic-store-simulator.json) |
@@ -11659,6 +11661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towerborne | 252839 | [252839-towerborne.json](./252839-towerborne.json) |
 | Towercore: Survivors | 272898 | [272898-towercore-survivors.json](./272898-towercore-survivors.json) |
 | TowerDefenceDesigner | 296648 | [296648-towerdefencedesigner.json](./296648-towerdefencedesigner.json) |
+| Towerfall 8-Player | 133331 | [133331-towerfall-8-player.json](./133331-towerfall-8-player.json) |
 | TowerFall Ascension | 9567 | [9567-towerfall-ascension.json](./9567-towerfall-ascension.json) |
 | TowerFall with Friends | 201686 | [201686-towerfall-with-friends.json](./201686-towerfall-with-friends.json) |
 | Towerful | 259517 | [259517-towerful.json](./259517-towerful.json) |
