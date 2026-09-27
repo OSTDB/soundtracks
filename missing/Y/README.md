@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Will Not Survive | 258512 | [258512-you-will-not-survive.json](./258512-you-will-not-survive.json) |
 | You Will Return | 307620 | [307620-you-will-return.json](./307620-you-will-return.json) |
 | You Will Select a Decision | 60015 | [60015-you-will-select-a-decision.json](./60015-you-will-select-a-decision.json) |
+| You Will Thank Me as Fast as You Thank a Werewolf | 139305 | [139305-you-will-thank-me-as-fast-as-you-thank-a-werewolf.json](./139305-you-will-thank-me-as-fast-as-you-thank-a-werewolf.json) |
 | You Will Travel No More | 177825 | [177825-you-will-travel-no-more.json](./177825-you-will-travel-no-more.json) |
 | You You N Music | 159800 | [159800-you-you-n-music.json](./159800-you-you-n-music.json) |
 | You, Calligrapher | 148448 | [148448-you-calligrapher.json](./148448-you-calligrapher.json) |
