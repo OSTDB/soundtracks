@@ -737,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Romance: Hunchback of Notre-Dame - Collector's Edition | 116108 | [116108-dark-romance-hunchback-of-notre-dame-collectors-edition.json](./116108-dark-romance-hunchback-of-notre-dame-collectors-edition.json) |
 | Dark Romance: Kingdom of Death HD | 88810 | [88810-dark-romance-kingdom-of-death-hd.json](./88810-dark-romance-kingdom-of-death-hd.json) |
 | Dark Romance: Monster Within | 101486 | [101486-dark-romance-monster-within.json](./101486-dark-romance-monster-within.json) |
+| Dark Romance: The Ethereal Gardens - Collector's Edition | 123522 | [123522-dark-romance-the-ethereal-gardens-collectors-edition.json](./123522-dark-romance-the-ethereal-gardens-collectors-edition.json) |
 | Dark Romance: The Swan Sonata - Collector's Edition | 110345 | [110345-dark-romance-the-swan-sonata-collectors-edition.json](./110345-dark-romance-the-swan-sonata-collectors-edition.json) |
 | Dark Romance: The Swan Sonata HD | 88812 | [88812-dark-romance-the-swan-sonata-hd.json](./88812-dark-romance-the-swan-sonata-hd.json) |
 | Dark Romance: Vampire Origins - Collector's Edition | 209716 | [209716-dark-romance-vampire-origins-collectors-edition.json](./209716-dark-romance-vampire-origins-collectors-edition.json) |
@@ -6638,6 +6639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamless: The Madness from the Sea | 146846 | [146846-dreamless-the-madness-from-the-sea.json](./146846-dreamless-the-madness-from-the-sea.json) |
 | Dreamlight | 151025 | [151025-dreamlight.json](./151025-dreamlight.json) |
 | Dreamlords: The Reawakening | 21460 | [21460-dreamlords-the-reawakening.json](./21460-dreamlords-the-reawakening.json) |
+| Dreamo VR | 123494 | [123494-dreamo-vr.json](./123494-dreamo-vr.json) |
 | Dreampainters | 360005 | [360005-dreampainters.json](./360005-dreampainters.json) |
 | DreamPark Tycoon | 63012 | [63012-dreampark-tycoon.json](./63012-dreampark-tycoon.json) |
 | Dreampath: Curse of the Swamps HD | 99378 | [99378-dreampath-curse-of-the-swamps-hd.json](./99378-dreampath-curse-of-the-swamps-hd.json) |
