@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth Trailblazer | 370666 | [370666-labyrinth-trailblazer.json](./370666-labyrinth-trailblazer.json) |
 | Labyrinth X | 312114 | [312114-labyrinth-x.json](./312114-labyrinth-x.json) |
 | Labyrinth: Classic Pinball Puzzle | 225884 | [225884-labyrinth-classic-pinball-puzzle.json](./225884-labyrinth-classic-pinball-puzzle.json) |
+| Labyrinth: Derelict Abyss | 138136 | [138136-labyrinth-derelict-abyss.json](./138136-labyrinth-derelict-abyss.json) |
 | Labyrinth: Roll of Fate | 309494 | [309494-labyrinth-roll-of-fate.json](./309494-labyrinth-roll-of-fate.json) |
 | Labyrinth: The War on Terror | 129983 | [129983-labyrinth-the-war-on-terror.json](./129983-labyrinth-the-war-on-terror.json) |
 | Labyrinth: The Wizard's Cat | 296486 | [296486-labyrinth-the-wizards-cat.json](./296486-labyrinth-the-wizards-cat.json) |
@@ -1367,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Star Wars: The Skywalker Saga - Character Collection 1 | 196046 | [196046-lego-star-wars-the-skywalker-saga-character-collection-1.json](./196046-lego-star-wars-the-skywalker-saga-character-collection-1.json) |
 | LEGO Star Wars: The Skywalker Saga - Classic Character Edition | 139937 | [139937-lego-star-wars-the-skywalker-saga-classic-character-edition.json](./139937-lego-star-wars-the-skywalker-saga-classic-character-edition.json) |
 | LEGO Star Wars: The Skywalker Saga - Classic Character Pack | 199517 | [199517-lego-star-wars-the-skywalker-saga-classic-character-pack.json](./199517-lego-star-wars-the-skywalker-saga-classic-character-pack.json) |
+| LEGO Star Wars: The Skywalker Saga - Deluxe Edition | 138105 | [138105-lego-star-wars-the-skywalker-saga-deluxe-edition.json](./138105-lego-star-wars-the-skywalker-saga-deluxe-edition.json) |
 | LEGO Star Wars: The Skywalker Saga - Solo: A Star Wars Story - Character Pack | 201138 | [201138-lego-star-wars-the-skywalker-saga-solo-a-star-wars-story-character-pack.json](./201138-lego-star-wars-the-skywalker-saga-solo-a-star-wars-story-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - The Bad Batch Character Pack | 201129 | [201129-lego-star-wars-the-skywalker-saga-the-bad-batch-character-pack.json](./201129-lego-star-wars-the-skywalker-saga-the-bad-batch-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - The Mandalorian: Season 1 - Character Pack | 201137 | [201137-lego-star-wars-the-skywalker-saga-the-mandalorian-season-1-character-pack.json](./201137-lego-star-wars-the-skywalker-saga-the-mandalorian-season-1-character-pack.json) |
@@ -1564,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Learn Shogi | 168643 | [168643-lets-learn-shogi.json](./168643-lets-learn-shogi.json) |
 | Let's Learn Xaad Kil | 303627 | [303627-lets-learn-xaad-kil.json](./303627-lets-learn-xaad-kil.json) |
 | Let's Mahjong | 388356 | [388356-lets-mahjong.json](./388356-lets-mahjong.json) |
+| Let's Make a Pro Baseball Team! 2 | 138100 | [138100-lets-make-a-pro-baseball-team-2.json](./138100-lets-make-a-pro-baseball-team-2.json) |
 | Let's Meat Adam 2 | 180134 | [180134-lets-meat-adam-2.json](./180134-lets-meat-adam-2.json) |
 | Let's Minesweeper | 220183 | [220183-lets-minesweeper.json](./220183-lets-minesweeper.json) |
 | Let's Pachinko: Nante Gindama | 134465 | [134465-lets-pachinko-nante-gindama.json](./134465-lets-pachinko-nante-gindama.json) |
@@ -2185,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limbus Company | 194106 | [194106-limbus-company.json](./194106-limbus-company.json) |
 | Limbus Company: Season 5 - Oblivion | 319013 | [319013-limbus-company-season-5-oblivion.json](./319013-limbus-company-season-5-oblivion.json) |
 | Limbus Stable | 352213 | [352213-limbus-stable.json](./352213-limbus-stable.json) |
+| Lime Ergot | 138142 | [138142-lime-ergot.json](./138142-lime-ergot.json) |
 | Lime Juice | 323719 | [323719-lime-juice.json](./323719-lime-juice.json) |
 | Lime Volleyball | 307590 | [307590-lime-volleyball.json](./307590-lime-volleyball.json) |
 | Limelight | 303633 | [303633-limelight.json](./303633-limelight.json) |
@@ -2887,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lockes the Thief | 211793 | [211793-lockes-the-thief.json](./211793-lockes-the-thief.json) |
 | Locksmith | 413897 | [413897-locksmith.json](./413897-locksmith.json) |
 | Locksmith | 48906 | [48906-locksmith.json](./48906-locksmith.json) |
+| Loco | 138123 | [138123-loco.json](./138123-loco.json) |
 | Loco Bonobo | 192871 | [192871-loco-bonobo.json](./192871-loco-bonobo.json) |
 | Loco Motive | 141805 | [141805-loco-motive.json](./141805-loco-motive.json) |
 | LOCO Online | 361771 | [361771-loco-online.json](./361771-loco-online.json) |
