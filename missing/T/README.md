@@ -8131,6 +8131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Weapon Pack 3 | 206800 | [206800-thehunter-call-of-the-wild-weapon-pack-3.json](./206800-thehunter-call-of-the-wild-weapon-pack-3.json) |
 | TheHunter: Call of the Wild - Wild Goose Chase Gear | 206816 | [206816-thehunter-call-of-the-wild-wild-goose-chase-gear.json](./206816-thehunter-call-of-the-wild-wild-goose-chase-gear.json) |
 | TheHunter: Primal | 10347 | [10347-thehunter-primal.json](./10347-thehunter-primal.json) |
+| Their Eyes | 166000 | [166000-their-eyes.json](./166000-their-eyes.json) |
 | Their Majesties' Pleasure | 250993 | [250993-their-majesties-pleasure.json](./250993-their-majesties-pleasure.json) |
 | Their Navy Is Their Doom | 319138 | [319138-their-navy-is-their-doom.json](./319138-their-navy-is-their-doom.json) |
 | TheLast.io | 125984 | [125984-thelast-io.json](./125984-thelast-io.json) |
