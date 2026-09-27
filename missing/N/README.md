@@ -3073,6 +3073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nowhere | 272287 | [272287-nowhere.json](./272287-nowhere.json) |
 | Nowhere Girl | 110627 | [110627-nowhere-girl.json](./110627-nowhere-girl.json) |
 | Nowhere Near | 305929 | [305929-nowhere-near.json](./305929-nowhere-near.json) |
+| Nowhere New | 135768 | [135768-nowhere-new.json](./135768-nowhere-new.json) |
 | Nowhere Patrol | 111390 | [111390-nowhere-patrol.json](./111390-nowhere-patrol.json) |
 | Nowotnik Puzzle | 138660 | [138660-nowotnik-puzzle.json](./138660-nowotnik-puzzle.json) |
 | Nowv | 320541 | [320541-nowv.json](./320541-nowv.json) |
