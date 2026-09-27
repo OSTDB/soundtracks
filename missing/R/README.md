@@ -1803,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption Cemetery: The Island of the Lost - Collector's Edition | 36493 | [36493-redemption-cemetery-the-island-of-the-lost-collectors-edition.json](./36493-redemption-cemetery-the-island-of-the-lost-collectors-edition.json) |
 | Redemption Cemetery: The Stolen Time - Collector's Edition | 201144 | [201144-redemption-cemetery-the-stolen-time-collectors-edition.json](./201144-redemption-cemetery-the-stolen-time-collectors-edition.json) |
 | Redemption of Liuyin | 333635 | [333635-redemption-of-liuyin.json](./333635-redemption-of-liuyin.json) |
+| Redemption of the Damned | 147345 | [147345-redemption-of-the-damned.json](./147345-redemption-of-the-damned.json) |
 | Redemption: Eternal Quest | 34754 | [34754-redemption-eternal-quest.json](./34754-redemption-eternal-quest.json) |
 | Redemption: Liar | 65221 | [65221-redemption-liar.json](./65221-redemption-liar.json) |
 | Redemption: Wrath of Sin | 265568 | [265568-redemption-wrath-of-sin.json](./265568-redemption-wrath-of-sin.json) |
@@ -3318,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riot Operator | 156120 | [156120-riot-operator.json](./156120-riot-operator.json) |
 | Riot Ride | 317987 | [317987-riot-ride.json](./317987-riot-ride.json) |
 | Riot Riders | 414548 | [414548-riot-riders.json](./414548-riot-riders.json) |
+| Rioters 2025 | 147328 | [147328-rioters-2025.json](./147328-rioters-2025.json) |
 | RIP | 392756 | [392756-rip.json](./392756-rip.json) |
 | RIP 2: Strike Back | 28922 | [28922-rip-2-strike-back.json](./28922-rip-2-strike-back.json) |
 | RIP 3: The Last Hero | 28923 | [28923-rip-3-the-last-hero.json](./28923-rip-3-the-last-hero.json) |
