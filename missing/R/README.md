@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio General | 117643 | [117643-radio-general.json](./117643-radio-general.json) |
 | Radio General: Water Rats | 213490 | [213490-radio-general-water-rats.json](./213490-radio-general-water-rats.json) |
 | Radio Helicopter | 51159 | [51159-radio-helicopter.json](./51159-radio-helicopter.json) |
+| Radio Runner | 133345 | [133345-radio-runner.json](./133345-radio-runner.json) |
 | Radio Station | 132772 | [132772-radio-station.json](./132772-radio-station.json) |
 | Radio Violence | 110987 | [110987-radio-violence.json](./110987-radio-violence.json) |
 | Radio Viscera | 153438 | [153438-radio-viscera.json](./153438-radio-viscera.json) |
@@ -3428,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Eternal | 288756 | [288756-rise-of-the-eternal.json](./288756-rise-of-the-eternal.json) |
 | Rise of The Fallen | 102574 | [102574-rise-of-the-fallen.json](./102574-rise-of-the-fallen.json) |
 | Rise of The Fey | 82120 | [82120-rise-of-the-fey.json](./82120-rise-of-the-fey.json) |
+| Rise of the Foederati | 133339 | [133339-rise-of-the-foederati.json](./133339-rise-of-the-foederati.json) |
 | Rise of the Ghostdom | 210895 | [210895-rise-of-the-ghostdom.json](./210895-rise-of-the-ghostdom.json) |
 | Rise of the Gorecats | 390800 | [390800-rise-of-the-gorecats.json](./390800-rise-of-the-gorecats.json) |
 | Rise of the Merchants | 415289 | [415289-rise-of-the-merchants.json](./415289-rise-of-the-merchants.json) |
