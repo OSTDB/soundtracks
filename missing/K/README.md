@@ -808,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Key Hunters DX | 266206 | [266206-key-hunters-dx.json](./266206-key-hunters-dx.json) |
 | Key La Box | 242064 | [242064-key-la-box.json](./242064-key-la-box.json) |
 | Key Of The Magic | 376128 | [376128-key-of-the-magic.json](./376128-key-of-the-magic.json) |
+| Key to Heaven | 143559 | [143559-key-to-heaven.json](./143559-key-to-heaven.json) |
 | Key: Maze of Illusions | 191545 | [191545-key-maze-of-illusions.json](./191545-key-maze-of-illusions.json) |
 | Keyboard Creations! | 41569 | [41569-keyboard-creations.json](./41569-keyboard-creations.json) |
 | Keyboard Crush | 320983 | [320983-keyboard-crush.json](./320983-keyboard-crush.json) |
