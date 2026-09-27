@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QQ Speed | 199934 | [199934-qq-speed.json](./199934-qq-speed.json) |
 | QQQbeats!!! | 354547 | [354547-qqqbeats.json](./354547-qqqbeats.json) |
 | QQTang | 240882 | [240882-qqtang.json](./240882-qqtang.json) |
+| QR Code Killer | 123514 | [123514-qr-code-killer.json](./123514-qr-code-killer.json) |
 | Qrank | 94181 | [94181-qrank.json](./94181-qrank.json) |
 | Qreate | 356758 | [356758-qreate.json](./356758-qreate.json) |
 | Qrgan Quarter | 249305 | [249305-qrgan-quarter.json](./249305-qrgan-quarter.json) |
@@ -436,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quietus Euphony | 374046 | [374046-quietus-euphony.json](./374046-quietus-euphony.json) |
 | Quiiiz | 304204 | [304204-quiiiz.json](./304204-quiiiz.json) |
 | Quill > Pistol | 366240 | [366240-quill-pistol.json](./366240-quill-pistol.json) |
+| Quilly | 123495 | [123495-quilly.json](./123495-quilly.json) |
 | Quin | 152813 | [152813-quin.json](./152813-quin.json) |
 | Quing's Quest VII: The Death of Videogames | 128593 | [128593-quings-quest-vii-the-death-of-videogames.json](./128593-quings-quest-vii-the-death-of-videogames.json) |
 | Quinn's Aquarium | 354994 | [354994-quinns-aquarium.json](./354994-quinns-aquarium.json) |
