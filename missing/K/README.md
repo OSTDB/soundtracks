@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaleidocraft | 156572 | [156572-kaleidocraft.json](./156572-kaleidocraft.json) |
 | Kaleidoscope | 406303 | [406303-kaleidoscope.json](./406303-kaleidoscope.json) |
 | Kaleidoscope Chateau | 238722 | [238722-kaleidoscope-chateau.json](./238722-kaleidoscope-chateau.json) |
+| Kaleidoscope of Phantasm Prison | 121533 | [121533-kaleidoscope-of-phantasm-prison.json](./121533-kaleidoscope-of-phantasm-prison.json) |
 | Kaleidoscope of Phantasm Prison 2 | 320772 | [320772-kaleidoscope-of-phantasm-prison-2.json](./320772-kaleidoscope-of-phantasm-prison-2.json) |
 | Kaleidoscope of Phantasm Prison: Limited Edition | 121611 | [121611-kaleidoscope-of-phantasm-prison-limited-edition.json](./121611-kaleidoscope-of-phantasm-prison-limited-edition.json) |
 | Kaleidoscope: 7 Man Kounen no Houshi-tachi | 66149 | [66149-kaleidoscope-7-man-kounen-no-houshi-tachi.json](./66149-kaleidoscope-7-man-kounen-no-houshi-tachi.json) |
@@ -777,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kerbal Space Program: Breaking Ground | 118176 | [118176-kerbal-space-program-breaking-ground.json](./118176-kerbal-space-program-breaking-ground.json) |
 | Kerbal Space Program: Enhanced Edition Complete | 139970 | [139970-kerbal-space-program-enhanced-edition-complete.json](./139970-kerbal-space-program-enhanced-edition-complete.json) |
 | Kerf: Sawmill Tycoon | 413677 | [413677-kerf-sawmill-tycoon.json](./413677-kerf-sawmill-tycoon.json) |
+| Kerfuffight | 121553 | [121553-kerfuffight.json](./121553-kerfuffight.json) |
 | Keri-hime Sweets | 212454 | [212454-keri-hime-sweets.json](./212454-keri-hime-sweets.json) |
 | Keribato | 250277 | [250277-keribato.json](./250277-keribato.json) |
 | Keridwen | 161404 | [161404-keridwen.json](./161404-keridwen.json) |
