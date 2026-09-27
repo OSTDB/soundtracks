@@ -1083,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carpet Shark | 214513 | [214513-carpet-shark.json](./214513-carpet-shark.json) |
 | Carpieces | 369127 | [369127-carpieces.json](./369127-carpieces.json) |
 | Carpocalypse | 179123 | [179123-carpocalypse.json](./179123-carpocalypse.json) |
+| Carpoon | 172515 | [172515-carpoon.json](./172515-carpoon.json) |
 | Carprogram | 273379 | [273379-carprogram.json](./273379-carprogram.json) |
 | Carrera | 295031 | [295031-carrera.json](./295031-carrera.json) |
 | Carrera Power Slide | 49308 | [49308-carrera-power-slide.json](./49308-carrera-power-slide.json) |
@@ -3686,6 +3687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Mage 3: False Prophecy - Collector's Edition | 417520 | [417520-city-mage-3-false-prophecy-collectors-edition.json](./417520-city-mage-3-false-prophecy-collectors-edition.json) |
 | City Night Rider | 101505 | [101505-city-night-rider.json](./101505-city-night-rider.json) |
 | City of Brass | 44122 | [44122-city-of-brass.json](./44122-city-of-brass.json) |
+| City of Broken Dreamers: Book One | 172514 | [172514-city-of-broken-dreamers-book-one.json](./172514-city-of-broken-dreamers-book-one.json) |
 | City of Cards | 171555 | [171555-city-of-cards.json](./171555-city-of-cards.json) |
 | City of Chains | 34177 | [34177-city-of-chains.json](./34177-city-of-chains.json) |
 | City of Chaos | 360173 | [360173-city-of-chaos.json](./360173-city-of-chaos.json) |
@@ -3838,6 +3840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash | 55033 | [55033-clash.json](./55033-clash.json) |
 | Clash for Crust | 310042 | [310042-clash-for-crust.json](./310042-clash-for-crust.json) |
 | Clash Memory Game | 158557 | [158557-clash-memory-game.json](./158557-clash-memory-game.json) |
+| Clash Mini | 172495 | [172495-clash-mini.json](./172495-clash-mini.json) |
 | Clash of Blades | 265109 | [265109-clash-of-blades.json](./265109-clash-of-blades.json) |
 | Clash of Champs | 56529 | [56529-clash-of-champs.json](./56529-clash-of-champs.json) |
 | Clash of Chefs VR | 111704 | [111704-clash-of-chefs-vr.json](./111704-clash-of-chefs-vr.json) |
@@ -6485,6 +6488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Cart | 235144 | [235144-crash-cart.json](./235144-crash-cart.json) |
 | Crash Cleaner | 165656 | [165656-crash-cleaner.json](./165656-crash-cleaner.json) |
 | Crash Commando | 21136 | [21136-crash-commando.json](./21136-crash-commando.json) |
+| Crash Course | 172528 | [172528-crash-course.json](./172528-crash-course.json) |
 | Crash Course | 380094 | [380094-crash-course.json](./380094-crash-course.json) |
 | Crash Drive 2 | 35904 | [35904-crash-drive-2.json](./35904-crash-drive-2.json) |
 | Crash Drive 3 | 153824 | [153824-crash-drive-3.json](./153824-crash-drive-3.json) |
