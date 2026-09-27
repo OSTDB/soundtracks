@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.V.S. Nirmana | 400475 | [400475-u-v-s-nirmana.json](./400475-u-v-s-nirmana.json) |
 | U96 | 207513 | [207513-u96.json](./207513-u96.json) |
 | UAC Invasion: The Supply Depot | 256868 | [256868-uac-invasion-the-supply-depot.json](./256868-uac-invasion-the-supply-depot.json) |
+| UAC Ultra | 140469 | [140469-uac-ultra.json](./140469-uac-ultra.json) |
 | Ubaste | 218474 | [218474-ubaste.json](./218474-ubaste.json) |
 | UBeat | 91921 | [91921-ubeat.json](./91921-ubeat.json) |
 | Ubel | 195142 | [195142-ubel.json](./195142-ubel.json) |
