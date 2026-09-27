@@ -5318,6 +5318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the World: Travel to Brazil | 269287 | [269287-around-the-world-travel-to-brazil.json](./269287-around-the-world-travel-to-brazil.json) |
 | Around Us | 226230 | [226230-around-us.json](./226230-around-us.json) |
 | Arpiel Online | 56466 | [56466-arpiel-online.json](./56466-arpiel-online.json) |
+| Arran: The Book of Heroes | 172519 | [172519-arran-the-book-of-heroes.json](./172519-arran-the-book-of-heroes.json) |
 | Arranged | 118798 | [118798-arranged.json](./118798-arranged.json) |
 | Arrapha | 136229 | [136229-arrapha.json](./136229-arrapha.json) |
 | Arras.io | 327193 | [327193-arras-io.json](./327193-arras-io.json) |
