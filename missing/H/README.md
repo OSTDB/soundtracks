@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halcyon: The WaveBorn | 259053 | [259053-halcyon-the-waveborn.json](./259053-halcyon-the-waveborn.json) |
 | Haldion | 82913 | [82913-haldion.json](./82913-haldion.json) |
 | Halen: Ballad of the Blade Thief | 134002 | [134002-halen-ballad-of-the-blade-thief.json](./134002-halen-ballad-of-the-blade-thief.json) |
+| Half + Half | 152230 | [152230-half-half.json](./152230-half-half.json) |
 | Half Away | 322756 | [322756-half-away.json](./322756-half-away.json) |
 | Half Blood | 402500 | [402500-half-blood.json](./402500-half-blood.json) |
 | Half Blood RPG | 163735 | [163735-half-blood-rpg.json](./163735-half-blood-rpg.json) |
@@ -761,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Rock Pinball | 133434 | [133434-hard-rock-pinball.json](./133434-hard-rock-pinball.json) |
 | Hard Rock Racing | 103878 | [103878-hard-rock-racing.json](./103878-hard-rock-racing.json) |
 | Hard Survivor | 232973 | [232973-hard-survivor.json](./232973-hard-survivor.json) |
+| Hard Time | 152241 | [152241-hard-time.json](./152241-hard-time.json) |
 | Hard Time III | 310923 | [310923-hard-time-iii.json](./310923-hard-time-iii.json) |
 | Hard Times at Sequoia State Park | 192388 | [192388-hard-times-at-sequoia-state-park.json](./192388-hard-times-at-sequoia-state-park.json) |
 | Hard to be a God | 20779 | [20779-hard-to-be-a-god.json](./20779-hard-to-be-a-god.json) |
@@ -1279,6 +1281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headlice | 292585 | [292585-headlice.json](./292585-headlice.json) |
 | Headliner: NoviNews | 107596 | [107596-headliner-novinews.json](./107596-headliner-novinews.json) |
 | Headlines from the Deep | 177312 | [177312-headlines-from-the-deep.json](./177312-headlines-from-the-deep.json) |
+| Headlong Hunt | 152226 | [152226-headlong-hunt.json](./152226-headlong-hunt.json) |
 | Headmaster: The Lost Lessons | 174186 | [174186-headmaster-the-lost-lessons.json](./174186-headmaster-the-lost-lessons.json) |
 | Headpat Special Taskforce | 400320 | [400320-headpat-special-taskforce.json](./400320-headpat-special-taskforce.json) |
 | Headpunk: The Comic-Style Battle Chaos | 192699 | [192699-headpunk-the-comic-style-battle-chaos.json](./192699-headpunk-the-comic-style-battle-chaos.json) |
