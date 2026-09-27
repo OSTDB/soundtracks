@@ -833,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undying Lantern | 197131 | [197131-undying-lantern.json](./197131-undying-lantern.json) |
 | Undying Memoir | 270646 | [270646-undying-memoir.json](./270646-undying-memoir.json) |
 | Undying One | 390250 | [390250-undying-one.json](./390250-undying-one.json) |
+| Undying Symphony | 163194 | [163194-undying-symphony.json](./163194-undying-symphony.json) |
 | Undying: Kowloon in Red | 406313 | [406313-undying-kowloon-in-red.json](./406313-undying-kowloon-in-red.json) |
 | Une affaire en or | 93012 | [93012-une-affaire-en-or.json](./93012-une-affaire-en-or.json) |
 | Unearth | 255974 | [255974-unearth.json](./255974-unearth.json) |
@@ -893,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unholy | 90213 | [90213-unholy.json](./90213-unholy.json) |
 | Unholy Adventure 2 | 295933 | [295933-unholy-adventure-2.json](./295933-unholy-adventure-2.json) |
 | Unholy Adventure: Mystery | 381711 | [381711-unholy-adventure-mystery.json](./381711-unholy-adventure-mystery.json) |
+| Unholy Alliance: Tower Defense | 163223 | [163223-unholy-alliance-tower-defense.json](./163223-unholy-alliance-tower-defense.json) |
 | Unholy Angel 2 | 243066 | [243066-unholy-angel-2.json](./243066-unholy-angel-2.json) |
 | Unholy Arts | 135882 | [135882-unholy-arts.json](./135882-unholy-arts.json) |
 | Unholy Eyeballs | 177945 | [177945-unholy-eyeballs.json](./177945-unholy-eyeballs.json) |
@@ -1164,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unrecord | 246417 | [246417-unrecord.json](./246417-unrecord.json) |
 | Unregret | 386243 | [386243-unregret.json](./386243-unregret.json) |
 | Unrelaxing Quacks | 244200 | [244200-unrelaxing-quacks.json](./244200-unrelaxing-quacks.json) |
+| Unreliable Bio | 163215 | [163215-unreliable-bio.json](./163215-unreliable-bio.json) |
 | Unrepeatable | 204429 | [204429-unrepeatable.json](./204429-unrepeatable.json) |
 | UnRequited | 201311 | [201311-unrequited.json](./201311-unrequited.json) |
 | Unrestrained | 231356 | [231356-unrestrained.json](./231356-unrestrained.json) |
@@ -1218,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untamed Isles | 186017 | [186017-untamed-isles.json](./186017-untamed-isles.json) |
 | Untamed Kingdom | 274765 | [274765-untamed-kingdom.json](./274765-untamed-kingdom.json) |
 | Untamed Tactics | 158184 | [158184-untamed-tactics.json](./158184-untamed-tactics.json) |
+| Untangle | 163236 | [163236-untangle.json](./163236-untangle.json) |
 | Untangle | 338820 | [338820-untangle.json](./338820-untangle.json) |
 | Untei DX | 295918 | [295918-untei-dx.json](./295918-untei-dx.json) |
 | Untergrund Raceways: Arena | 417518 | [417518-untergrund-raceways-arena.json](./417518-untergrund-raceways-arena.json) |
