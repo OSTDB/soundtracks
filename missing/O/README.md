@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Strike '75 | 310172 | [310172-oil-strike-75.json](./310172-oil-strike-75.json) |
 | Oil Truck Transporter | 310055 | [310055-oil-truck-transporter.json](./310055-oil-truck-transporter.json) |
 | Oil Tycoon 2 | 219261 | [219261-oil-tycoon-2.json](./219261-oil-tycoon-2.json) |
+| Oil Wars | 129069 | [129069-oil-wars.json](./129069-oil-wars.json) |
 | Oiled | 101361 | [101361-oiled.json](./101361-oiled.json) |
 | Oily Tower | 386982 | [386982-oily-tower.json](./386982-oily-tower.json) |
 | Oink Royale | 185600 | [185600-oink-royale.json](./185600-oink-royale.json) |
