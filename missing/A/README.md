@@ -1028,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adarna | 326038 | [326038-adarna.json](./326038-adarna.json) |
 | Adarna: Alamat ni Maria Blanca | 120168 | [120168-adarna-alamat-ni-maria-blanca.json](./120168-adarna-alamat-ni-maria-blanca.json) |
 | Add Flyers To Dreams | 400472 | [400472-add-flyers-to-dreams.json](./400472-add-flyers-to-dreams.json) |
+| Add It! | 130853 | [130853-add-it.json](./130853-add-it.json) |
 | Addams Family Pinball | 356275 | [356275-addams-family-pinball.json](./356275-addams-family-pinball.json) |
 | AddForce | 61881 | [61881-addforce.json](./61881-addforce.json) |
 | Addiction Pinball | 69860 | [69860-addiction-pinball.json](./69860-addiction-pinball.json) |
@@ -1376,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Africa Help | 133354 | [133354-africa-help.json](./133354-africa-help.json) |
 | African Safari | 74039 | [74039-african-safari.json](./74039-african-safari.json) |
 | African Safari Trophy Hunter 3D | 206098 | [206098-african-safari-trophy-hunter-3d.json](./206098-african-safari-trophy-hunter-3d.json) |
+| Afrika | 130826 | [130826-afrika.json](./130826-afrika.json) |
 | Afro Samurai 2: Revenge of Kuma | 20030 | [20030-afro-samurai-2-revenge-of-kuma.json](./20030-afro-samurai-2-revenge-of-kuma.json) |
 | AfroPenguin & The Forbidden Ramen | 244866 | [244866-afropenguin-and-the-forbidden-ramen.json](./244866-afropenguin-and-the-forbidden-ramen.json) |
 | After Burner | 365088 | [365088-after-burner.json](./365088-after-burner.json) |
@@ -1927,6 +1929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airwave: I Fought the Law and the Law One | 169988 | [169988-airwave-i-fought-the-law-and-the-law-one.json](./169988-airwave-i-fought-the-law-and-the-law-one.json) |
 | AirwayEx | 215243 | [215243-airwayex.json](./215243-airwayex.json) |
 | Airwolf | 13296 | [13296-airwolf.json](./13296-airwolf.json) |
+| Aisle | 130832 | [130832-aisle.json](./130832-aisle.json) |
 | Aisle Survive | 410432 | [410432-aisle-survive.json](./410432-aisle-survive.json) |
 | AisleRiot Solitaire | 63236 | [63236-aisleriot-solitaire.json](./63236-aisleriot-solitaire.json) |
 | Aislin's Story: The Bloodbath Trials | 177534 | [177534-aislins-story-the-bloodbath-trials.json](./177534-aislins-story-the-bloodbath-trials.json) |
@@ -4123,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another World: Lost In Heart | 365735 | [365735-another-world-lost-in-heart.json](./365735-another-world-lost-in-heart.json) |
 | Another World: Pirates And The Great Old Gods | 379450 | [379450-another-world-pirates-and-the-great-old-gods.json](./379450-another-world-pirates-and-the-great-old-gods.json) |
 | Another World: Thought Taboo | 230911 | [230911-another-world-thought-taboo.json](./230911-another-world-thought-taboo.json) |
+| Another World/Flashback | 130804 | [130804-another-world-flashback.json](./130804-another-world-flashback.json) |
 | Another Zero | 313889 | [313889-another-zero.json](./313889-another-zero.json) |
 | Another's Memories | 374049 | [374049-anothers-memories.json](./374049-anothers-memories.json) |
 | Anothereal | 303031 | [303031-anothereal.json](./303031-anothereal.json) |
