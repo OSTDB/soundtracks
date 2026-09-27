@@ -651,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Animal Adventure | 204515 | [204515-paper-animal-adventure.json](./204515-paper-animal-adventure.json) |
 | Paper Bleed | 350019 | [350019-paper-bleed.json](./350019-paper-bleed.json) |
 | Paper Boats | 161155 | [161155-paper-boats.json](./161155-paper-boats.json) |
+| Paper Bowser World | 135130 | [135130-paper-bowser-world.json](./135130-paper-bowser-world.json) |
 | Paper Bride | 190178 | [190178-paper-bride.json](./190178-paper-bride.json) |
 | Paper Bride 2: Zangling Village | 200630 | [200630-paper-bride-2-zangling-village.json](./200630-paper-bride-2-zangling-village.json) |
 | Paper Bride 4: Bound Love | 236258 | [236258-paper-bride-4-bound-love.json](./236258-paper-bride-4-bound-love.json) |
@@ -1905,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Ninja Bundle | 331486 | [331486-perfect-ninja-bundle.json](./331486-perfect-ninja-bundle.json) |
 | Perfect Pachinko | 385719 | [385719-perfect-pachinko.json](./385719-perfect-pachinko.json) |
 | Perfect Pair Solitaire | 210005 | [210005-perfect-pair-solitaire.json](./210005-perfect-pair-solitaire.json) |
+| Perfect Park | 135102 | [135102-perfect-park.json](./135102-perfect-park.json) |
 | Perfect Paths | 193721 | [193721-perfect-paths.json](./193721-perfect-paths.json) |
 | Perfect Performer: The Yellow Monkey | 301350 | [301350-perfect-performer-the-yellow-monkey.json](./301350-perfect-performer-the-yellow-monkey.json) |
 | Perfect Plan | 29226 | [29226-perfect-plan.json](./29226-perfect-plan.json) |
@@ -4084,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayerONeGame | 90357 | [90357-playeronegame.json](./90357-playeronegame.json) |
 | Playerunkn1wn: Friendly Fire | 80912 | [80912-playerunkn1wn-friendly-fire.json](./80912-playerunkn1wn-friendly-fire.json) |
 | Playerunkn4wn: Zombie | 80913 | [80913-playerunkn4wn-zombie.json](./80913-playerunkn4wn-zombie.json) |
+| PlayerUnknown's Battlegrounds: Season 7 | 135139 | [135139-playerunknowns-battlegrounds-season-7.json](./135139-playerunknowns-battlegrounds-season-7.json) |
 | PlayerUnknown's Battlegrounds: Season 8 | 135824 | [135824-playerunknowns-battlegrounds-season-8.json](./135824-playerunknowns-battlegrounds-season-8.json) |
 | PlayFortress | 33102 | [33102-playfortress.json](./33102-playfortress.json) |
 | Playful Math | 104439 | [104439-playful-math.json](./104439-playful-math.json) |
@@ -4706,6 +4709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sinking Sapphire | 163228 | [163228-pokemon-sinking-sapphire.json](./163228-pokemon-sinking-sapphire.json) |
 | Pokémon Sky Stacker | 288369 | [288369-pokemon-sky-stacker.json](./288369-pokemon-sky-stacker.json) |
 | Pokémon Sleep | 123089 | [123089-pokemon-sleep.json](./123089-pokemon-sleep.json) |
+| Pokémon Smile | 135145 | [135145-pokemon-smile.json](./135145-pokemon-smile.json) |
 | Pokémon Snap 3DS | 401507 | [401507-pokemon-snap-3ds.json](./401507-pokemon-snap-3ds.json) |
 | Pokémon Sodateyasan Mini | 92306 | [92306-pokemon-sodateyasan-mini.json](./92306-pokemon-sodateyasan-mini.json) |
 | Pokémon Solar Eclipse | 399594 | [399594-pokemon-solar-eclipse.json](./399594-pokemon-solar-eclipse.json) |
@@ -5598,6 +5602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Stakes | 301385 | [301385-power-stakes.json](./301385-power-stakes.json) |
 | Power Stakes 2 | 301386 | [301386-power-stakes-2.json](./301386-power-stakes-2.json) |
 | Power Stakes: Grade 1 | 141165 | [141165-power-stakes-grade-1.json](./141165-power-stakes-grade-1.json) |
+| Power Star Frenzy | 135090 | [135090-power-star-frenzy.json](./135090-power-star-frenzy.json) |
 | Power Star Unleashed | 315024 | [315024-power-star-unleashed.json](./315024-power-star-unleashed.json) |
 | Power Structure | 271318 | [271318-power-structure.json](./271318-power-structure.json) |
 | Power Struggle | 129005 | [129005-power-struggle.json](./129005-power-struggle.json) |
@@ -6961,6 +6966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychoverse City | 158163 | [158163-psychoverse-city.json](./158163-psychoverse-city.json) |
 | Psychroma | 204534 | [204534-psychroma.json](./204534-psychroma.json) |
 | Psycron | 145676 | [145676-psycron.json](./145676-psycron.json) |
+| Psycutlery | 135137 | [135137-psycutlery.json](./135137-psycutlery.json) |
 | PsyHotel | 132197 | [132197-psyhotel.json](./132197-psyhotel.json) |
 | Psyia | 111670 | [111670-psyia.json](./111670-psyia.json) |
 | Psyko | 295909 | [295909-psyko.json](./295909-psyko.json) |
