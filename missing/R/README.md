@@ -5301,6 +5301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Gunner | 383475 | [383475-rune-gunner.json](./383475-rune-gunner.json) |
 | Rune II | 55149 | [55149-rune-ii.json](./55149-rune-ii.json) |
 | Rune II: Berserker Rage Edition | 202216 | [202216-rune-ii-berserker-rage-edition.json](./202216-rune-ii-berserker-rage-edition.json) |
+| Rune II: Decapitation Edition | 139881 | [139881-rune-ii-decapitation-edition.json](./139881-rune-ii-decapitation-edition.json) |
 | Rune in the Three Kingdoms | 278674 | [278674-rune-in-the-three-kingdoms.json](./278674-rune-in-the-three-kingdoms.json) |
 | Rune Legacy Idle | 377598 | [377598-rune-legacy-idle.json](./377598-rune-legacy-idle.json) |
 | Rune Raiders | 22327 | [22327-rune-raiders.json](./22327-rune-raiders.json) |
