@@ -2305,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outworld Battlegrounds | 111037 | [111037-outworld-battlegrounds.json](./111037-outworld-battlegrounds.json) |
 | Outworld Defence | 383652 | [383652-outworld-defence.json](./383652-outworld-defence.json) |
 | Ova Magica | 138211 | [138211-ova-magica.json](./138211-ova-magica.json) |
+| Oval Racer Series: Sandbox | 170830 | [170830-oval-racer-series-sandbox.json](./170830-oval-racer-series-sandbox.json) |
 | Ovation | 392461 | [392461-ovation.json](./392461-ovation.json) |
 | Oven Dodgers | 281395 | [281395-oven-dodgers.json](./281395-oven-dodgers.json) |
 | OvenBreak | 284436 | [284436-ovenbreak.json](./284436-ovenbreak.json) |
