@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oak Defenders | 183514 | [183514-oak-defenders.json](./183514-oak-defenders.json) |
 | Oak Hill | 219043 | [219043-oak-hill.json](./219043-oak-hill.json) |
 | Oaken Tower | 345143 | [345143-oaken-tower.json](./345143-oaken-tower.json) |
+| Oakenfold | 163742 | [163742-oakenfold.json](./163742-oakenfold.json) |
 | Oakley's World | 337601 | [337601-oakleys-world.json](./337601-oakleys-world.json) |
 | Oakwood | 112433 | [112433-oakwood.json](./112433-oakwood.json) |
 | Oakwood Academy of Spells and Sorcery | 90196 | [90196-oakwood-academy-of-spells-and-sorcery.json](./90196-oakwood-academy-of-spells-and-sorcery.json) |
@@ -280,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddworld: Soulstorm - Day 1 Oddition | 146118 | [146118-oddworld-soulstorm-day-1-oddition.json](./146118-oddworld-soulstorm-day-1-oddition.json) |
 | Oddworld: The Oddbox | 121444 | [121444-oddworld-the-oddbox.json](./121444-oddworld-the-oddbox.json) |
 | Oddy's Lost and Found | 257071 | [257071-oddys-lost-and-found.json](./257071-oddys-lost-and-found.json) |
+| Oddyssey: Your Space, Your Way | 163736 | [163736-oddyssey-your-space-your-way.json](./163736-oddyssey-your-space-your-way.json) |
 | Oddyverse | 307709 | [307709-oddyverse.json](./307709-oddyverse.json) |
 | Ode of Resurrection | 315489 | [315489-ode-of-resurrection.json](./315489-ode-of-resurrection.json) |
 | Ode to a Moon | 111059 | [111059-ode-to-a-moon.json](./111059-ode-to-a-moon.json) |
@@ -607,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Market Simulator | 291232 | [291232-old-market-simulator.json](./291232-old-market-simulator.json) |
 | Old Mate Dave | 406105 | [406105-old-mate-dave.json](./406105-old-mate-dave.json) |
 | Old Monastery Escape | 114753 | [114753-old-monastery-escape.json](./114753-old-monastery-escape.json) |
+| Old Quarry | 163746 | [163746-old-quarry.json](./163746-old-quarry.json) |
 | Old Retro Shooter | 209668 | [209668-old-retro-shooter.json](./209668-old-retro-shooter.json) |
 | Old Salt | 165056 | [165056-old-salt.json](./165056-old-salt.json) |
 | Old School Racer | 91887 | [91887-old-school-racer.json](./91887-old-school-racer.json) |
