@@ -1982,6 +1982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Bikini | 387660 | [387660-hentai-bikini.json](./387660-hentai-bikini.json) |
 | Hentai Boy | 149427 | [149427-hentai-boy.json](./149427-hentai-boy.json) |
 | Hentai Breeding Simulator | 309474 | [309474-hentai-breeding-simulator.json](./309474-hentai-breeding-simulator.json) |
+| Hentai Brick Breaker 2 | 161162 | [161162-hentai-brick-breaker-2.json](./161162-hentai-brick-breaker-2.json) |
 | Hentai BunnyGirl | 226162 | [226162-hentai-bunnygirl.json](./226162-hentai-bunnygirl.json) |
 | Hentai Cast: Podcast Simulator | 212195 | [212195-hentai-cast-podcast-simulator.json](./212195-hentai-cast-podcast-simulator.json) |
 | Hentai Casual Slider 2 | 234736 | [234736-hentai-casual-slider-2.json](./234736-hentai-casual-slider-2.json) |
