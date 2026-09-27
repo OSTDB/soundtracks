@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-kai Watch 3 | 113249 | [113249-yo-kai-watch-3.json](./113249-yo-kai-watch-3.json) |
 | Yo-Kai Watch 3: Tempura | 222295 | [222295-yo-kai-watch-3-tempura.json](./222295-yo-kai-watch-3-tempura.json) |
 | Yo-kai Watch 4++ | 127255 | [127255-yo-kai-watch-4.json](./127255-yo-kai-watch-4.json) |
+| Yo-kai Watch Busters 2: Hihou Densetsu Banbaraya Magnum | 136935 | [136935-yo-kai-watch-busters-2-hihou-densetsu-banbaraya-magnum.json](./136935-yo-kai-watch-busters-2-hihou-densetsu-banbaraya-magnum.json) |
 | Yo-kai Watch Dance: Just Dance Special Edition | 59946 | [59946-yo-kai-watch-dance-just-dance-special-edition.json](./59946-yo-kai-watch-dance-just-dance-special-edition.json) |
 | Yo-Kai Watch Wibble Wobble: The Great Detective Nekomata | 397922 | [397922-yo-kai-watch-wibble-wobble-the-great-detective-nekomata.json](./397922-yo-kai-watch-wibble-wobble-the-great-detective-nekomata.json) |
 | Yo! Ninjia | 234321 | [234321-yo-ninjia.json](./234321-yo-ninjia.json) |
