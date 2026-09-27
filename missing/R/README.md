@@ -1383,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealPlay Racing | 21368 | [21368-realplay-racing.json](./21368-realplay-racing.json) |
 | Realpolitiks 3: Earth and Beyond | 309890 | [309890-realpolitiks-3-earth-and-beyond.json](./309890-realpolitiks-3-earth-and-beyond.json) |
 | Realpolitiks II | 132618 | [132618-realpolitiks-ii.json](./132618-realpolitiks-ii.json) |
+| Realpolitiks II: Deluxe Edition | 159693 | [159693-realpolitiks-ii-deluxe-edition.json](./159693-realpolitiks-ii-deluxe-edition.json) |
 | Realpolitiks Mobile | 97304 | [97304-realpolitiks-mobile.json](./97304-realpolitiks-mobile.json) |
 | Realpolitiks: New Power | 116997 | [116997-realpolitiks-new-power.json](./116997-realpolitiks-new-power.json) |
 | Realtor | 273445 | [273445-realtor.json](./273445-realtor.json) |
@@ -3038,11 +3039,35 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 3: Street Racing Pack | 165976 | [165976-ride-3-street-racing-pack.json](./165976-ride-3-street-racing-pack.json) |
 | Ride 3: Supercustom Pack | 165978 | [165978-ride-3-supercustom-pack.json](./165978-ride-3-supercustom-pack.json) |
 | Ride 3: Top Performance Pack | 165985 | [165985-ride-3-top-performance-pack.json](./165985-ride-3-top-performance-pack.json) |
+| Ride 4: Best Vintage 80's - 90's | 159661 | [159661-ride-4-best-vintage-80s-90s.json](./159661-ride-4-best-vintage-80s-90s.json) |
+| Ride 4: Bonus Pack 01 | 159665 | [159665-ride-4-bonus-pack-01.json](./159665-ride-4-bonus-pack-01.json) |
+| Ride 4: Bonus Pack 02 | 159677 | [159677-ride-4-bonus-pack-02.json](./159677-ride-4-bonus-pack-02.json) |
+| Ride 4: Bonus Pack 03 | 159669 | [159669-ride-4-bonus-pack-03.json](./159669-ride-4-bonus-pack-03.json) |
+| Ride 4: Bonus Pack 04 | 159675 | [159675-ride-4-bonus-pack-04.json](./159675-ride-4-bonus-pack-04.json) |
+| Ride 4: Bonus Pack 05 | 159676 | [159676-ride-4-bonus-pack-05.json](./159676-ride-4-bonus-pack-05.json) |
+| Ride 4: Bonus Pack 06 | 159673 | [159673-ride-4-bonus-pack-06.json](./159673-ride-4-bonus-pack-06.json) |
+| Ride 4: Bonus Pack 07 | 159667 | [159667-ride-4-bonus-pack-07.json](./159667-ride-4-bonus-pack-07.json) |
+| Ride 4: Bonus Pack 08 | 159679 | [159679-ride-4-bonus-pack-08.json](./159679-ride-4-bonus-pack-08.json) |
+| Ride 4: Bonus Pack 09 | 159663 | [159663-ride-4-bonus-pack-09.json](./159663-ride-4-bonus-pack-09.json) |
+| Ride 4: Bonus Pack 10 | 159657 | [159657-ride-4-bonus-pack-10.json](./159657-ride-4-bonus-pack-10.json) |
+| Ride 4: Bonus Pack 11 | 159659 | [159659-ride-4-bonus-pack-11.json](./159659-ride-4-bonus-pack-11.json) |
 | Ride 4: Bonus Pack 13 | 165987 | [165987-ride-4-bonus-pack-13.json](./165987-ride-4-bonus-pack-13.json) |
 | Ride 4: Bonus Pack 14 | 190708 | [190708-ride-4-bonus-pack-14.json](./190708-ride-4-bonus-pack-14.json) |
+| Ride 4: European Bikes Pack | 159658 | [159658-ride-4-european-bikes-pack.json](./159658-ride-4-european-bikes-pack.json) |
+| Ride 4: Extreme Performance | 159666 | [159666-ride-4-extreme-performance.json](./159666-ride-4-extreme-performance.json) |
+| Ride 4: Italian Style Pack 1 | 159678 | [159678-ride-4-italian-style-pack-1.json](./159678-ride-4-italian-style-pack-1.json) |
 | Ride 4: Italian Style Pack 2 | 165988 | [165988-ride-4-italian-style-pack-2.json](./165988-ride-4-italian-style-pack-2.json) |
+| Ride 4: Kyalami Pack | 159674 | [159674-ride-4-kyalami-pack.json](./159674-ride-4-kyalami-pack.json) |
 | Ride 4: Naked Japan Style | 190706 | [190706-ride-4-naked-japan-style.json](./190706-ride-4-naked-japan-style.json) |
+| Ride 4: Power Naked Pack | 159660 | [159660-ride-4-power-naked-pack.json](./159660-ride-4-power-naked-pack.json) |
 | Ride 4: Special Edition | 173171 | [173171-ride-4-special-edition.json](./173171-ride-4-special-edition.json) |
+| Ride 4: Sportbikes 101 | 159672 | [159672-ride-4-sportbikes-101.json](./159672-ride-4-sportbikes-101.json) |
+| Ride 4: Street Kings | 159671 | [159671-ride-4-street-kings.json](./159671-ride-4-street-kings.json) |
+| Ride 4: Superbikes 2000 | 159662 | [159662-ride-4-superbikes-2000.json](./159662-ride-4-superbikes-2000.json) |
+| Ride 4: The Collector's Pack | 159668 | [159668-ride-4-the-collectors-pack.json](./159668-ride-4-the-collectors-pack.json) |
+| Ride 4: Ultimate 2020 | 159670 | [159670-ride-4-ultimate-2020.json](./159670-ride-4-ultimate-2020.json) |
+| Ride 4: USA Tribute Pack | 159664 | [159664-ride-4-usa-tribute-pack.json](./159664-ride-4-usa-tribute-pack.json) |
+| Ride 4: Valencia Pack | 159656 | [159656-ride-4-valencia-pack.json](./159656-ride-4-valencia-pack.json) |
 | Ride 5: Born to Race Pack | 288213 | [288213-ride-5-born-to-race-pack.json](./288213-ride-5-born-to-race-pack.json) |
 | Ride 5: Dreamer's Garage Pack | 277830 | [277830-ride-5-dreamers-garage-pack.json](./277830-ride-5-dreamers-garage-pack.json) |
 | Ride 5: Far East Pack | 271287 | [271287-ride-5-far-east-pack.json](./271287-ride-5-far-east-pack.json) |
