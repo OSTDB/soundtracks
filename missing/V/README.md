@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VHS World '89 | 410912 | [410912-vhs-world-89.json](./410912-vhs-world-89.json) |
 | VHScape | 316759 | [316759-vhscape.json](./316759-vhscape.json) |
 | VHSMan | 386417 | [386417-vhsman.json](./386417-vhsman.json) |
+| Vi.Dange | 152802 | [152802-vi-dange.json](./152802-vi-dange.json) |
 | VIA | 377289 | [377289-via.json](./377289-via.json) |
 | Via Negativa | 186623 | [186623-via-negativa.json](./186623-via-negativa.json) |
 | Viaje al centro de la Tierra | 138807 | [138807-viaje-al-centro-de-la-tierra.json](./138807-viaje-al-centro-de-la-tierra.json) |
@@ -1549,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR AirHockey | 195221 | [195221-vr-airhockey.json](./195221-vr-airhockey.json) |
 | VR Angry Cow Farm Simulator | 109021 | [109021-vr-angry-cow-farm-simulator.json](./109021-vr-angry-cow-farm-simulator.json) |
 | VR Animal Kids Rumble | 371902 | [371902-vr-animal-kids-rumble.json](./371902-vr-animal-kids-rumble.json) |
+| VR Another World | 152810 | [152810-vr-another-world.json](./152810-vr-another-world.json) |
 | VR Aquarium Miyabi | 29828 | [29828-vr-aquarium-miyabi.json](./29828-vr-aquarium-miyabi.json) |
 | VR Archeology: Secrets of Kulikovo Field | 226160 | [226160-vr-archeology-secrets-of-kulikovo-field.json](./226160-vr-archeology-secrets-of-kulikovo-field.json) |
 | VR AstroSmash | 157533 | [157533-vr-astrosmash.json](./157533-vr-astrosmash.json) |
