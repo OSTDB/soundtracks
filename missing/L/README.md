@@ -920,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leap Frog | 89158 | [89158-leap-frog.json](./89158-leap-frog.json) |
 | Leap in Bootstrap | 254530 | [254530-leap-in-bootstrap.json](./254530-leap-in-bootstrap.json) |
 | Leap In The Right Direction | 296487 | [296487-leap-in-the-right-direction.json](./296487-leap-in-the-right-direction.json) |
+| Leap of Champions | 129650 | [129650-leap-of-champions.json](./129650-leap-of-champions.json) |
 | Leap of Fate | 50227 | [50227-leap-of-fate.json](./50227-leap-of-fate.json) |
 | Leap of Love | 149436 | [149436-leap-of-love.json](./149436-leap-of-love.json) |
 | Leap of Sins | 319763 | [319763-leap-of-sins.json](./319763-leap-of-sins.json) |
@@ -1514,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let It Die | 304376 | [304376-let-it-die.json](./304376-let-it-die.json) |
 | Let It Die: Uncle Prime Edition | 166240 | [166240-let-it-die-uncle-prime-edition.json](./166240-let-it-die-uncle-prime-edition.json) |
 | Let It Flow | 144279 | [144279-let-it-flow.json](./144279-let-it-flow.json) |
+| Let It Happen | 129663 | [129663-let-it-happen.json](./129663-let-it-happen.json) |
 | Let It Ride! | 392938 | [392938-let-it-ride.json](./392938-let-it-ride.json) |
 | Let It Roll | 222244 | [222244-let-it-roll.json](./222244-let-it-roll.json) |
 | Let Me Die inside | 166599 | [166599-let-me-die-inside.json](./166599-let-me-die-inside.json) |
