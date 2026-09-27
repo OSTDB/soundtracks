@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy My Sweets | 70675 | [70675-happy-my-sweets.json](./70675-happy-my-sweets.json) |
 | Happy New Hentai | 367059 | [367059-happy-new-hentai.json](./367059-happy-new-hentai.json) |
 | Happy New Song | 178959 | [178959-happy-new-song.json](./178959-happy-new-song.json) |
+| Happy New Year, Zeliria! | 148996 | [148996-happy-new-year-zeliria.json](./148996-happy-new-year-zeliria.json) |
 | Happy New Year, Zeliria!: Dragon! | 291055 | [291055-happy-new-year-zeliria-dragon.json](./291055-happy-new-year-zeliria-dragon.json) |
 | Happy Night | 280767 | [280767-happy-night.json](./280767-happy-night.json) |
 | Happy Numbers | 149437 | [149437-happy-numbers.json](./149437-happy-numbers.json) |
