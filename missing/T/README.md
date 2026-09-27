@@ -2019,6 +2019,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive: Offroad | 206222 | [206222-test-drive-offroad.json](./206222-test-drive-offroad.json) |
 | Test Lab Inc. | 264604 | [264604-test-lab-inc.json](./264604-test-lab-inc.json) |
 | Test Subject | 318778 | [318778-test-subject.json](./318778-test-subject.json) |
+| Test Subject Complete | 172475 | [172475-test-subject-complete.json](./172475-test-subject-complete.json) |
+| Test Subject Green | 172474 | [172474-test-subject-green.json](./172474-test-subject-green.json) |
 | Test Tube Titans | 129933 | [129933-test-tube-titans.json](./129933-test-tube-titans.json) |
 | Test Your Mario Memory | 231604 | [231604-test-your-mario-memory.json](./231604-test-your-mario-memory.json) |
 | Test Your Math | 27731 | [27731-test-your-math.json](./27731-test-your-math.json) |
@@ -5207,10 +5209,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of the Astera Stone | 300020 | [300020-the-legend-of-the-astera-stone.json](./300020-the-legend-of-the-astera-stone.json) |
 | The Legend of The Duck Knite | 117507 | [117507-the-legend-of-the-duck-knite.json](./117507-the-legend-of-the-duck-knite.json) |
 | The Legend of The Sacred Stone EX | 371336 | [371336-the-legend-of-the-sacred-stone-ex.json](./371336-the-legend-of-the-sacred-stone-ex.json) |
+| The Legend of the Spirit Bird | 172520 | [172520-the-legend-of-the-spirit-bird.json](./172520-the-legend-of-the-spirit-bird.json) |
 | The Legend of the War Axe | 190129 | [190129-the-legend-of-the-war-axe.json](./190129-the-legend-of-the-war-axe.json) |
 | The Legend of White Whale | 243945 | [243945-the-legend-of-white-whale.json](./243945-the-legend-of-white-whale.json) |
 | The Legend of Xanadu | 73824 | [73824-the-legend-of-xanadu.json](./73824-the-legend-of-xanadu.json) |
 | The Legend of You | 390139 | [390139-the-legend-of-you.json](./390139-the-legend-of-you.json) |
+| The Legend of Zelda Game Watch | 172501 | [172501-the-legend-of-zelda-game-watch.json](./172501-the-legend-of-zelda-game-watch.json) |
 | The Legend of Zelda Ocarina of Time 3D: First Edition | 89904 | [89904-the-legend-of-zelda-ocarina-of-time-3d-first-edition.json](./89904-the-legend-of-zelda-ocarina-of-time-3d-first-edition.json) |
 | The Legend of Zelda Remastered | 260748 | [260748-the-legend-of-zelda-remastered.json](./260748-the-legend-of-zelda-remastered.json) |
 | The Legend of Zelda XD2: Mercuris' Chess | 243666 | [243666-the-legend-of-zelda-xd2-mercuris-chess.json](./243666-the-legend-of-zelda-xd2-mercuris-chess.json) |
@@ -5250,6 +5254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Link's Awakening DX | 1027 | [1027-the-legend-of-zelda-links-awakening-dx.json](./1027-the-legend-of-zelda-links-awakening-dx.json) |
 | The Legend of Zelda: Link's Awakening Redux | 219081 | [219081-the-legend-of-zelda-links-awakening-redux.json](./219081-the-legend-of-zelda-links-awakening-redux.json) |
 | The Legend of Zelda: Link's Shadow | 269867 | [269867-the-legend-of-zelda-links-shadow.json](./269867-the-legend-of-zelda-links-shadow.json) |
+| The Legend of Zelda: Majora's Mask - Masked Quest | 172482 | [172482-the-legend-of-zelda-majoras-mask-masked-quest.json](./172482-the-legend-of-zelda-majoras-mask-masked-quest.json) |
 | The Legend of Zelda: Majora's Mask 3D | 8593 | [8593-the-legend-of-zelda-majoras-mask-3d.json](./8593-the-legend-of-zelda-majoras-mask-3d.json) |
 | The Legend of Zelda: Mask of the Gods | 323280 | [323280-the-legend-of-zelda-mask-of-the-gods.json](./323280-the-legend-of-zelda-mask-of-the-gods.json) |
 | The Legend of Zelda: Mercuris' Chest | 243269 | [243269-the-legend-of-zelda-mercuris-chest.json](./243269-the-legend-of-zelda-mercuris-chest.json) |
@@ -10586,6 +10591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Management II | 37785 | [37785-top-management-ii.json](./37785-top-management-ii.json) |
 | Top Race | 236832 | [236832-top-race.json](./236832-top-race.json) |
 | Top Run | 129126 | [129126-top-run.json](./129126-top-run.json) |
+| Top Runner | 172532 | [172532-top-runner.json](./172532-top-runner.json) |
 | Top Secret | 171498 | [171498-top-secret.json](./171498-top-secret.json) |
 | Top Skater | 18047 | [18047-top-skater.json](./18047-top-skater.json) |
 | Top Speed 2: Drag Rivals & Nitro Racing | 200464 | [200464-top-speed-2-drag-rivals-and-nitro-racing.json](./200464-top-speed-2-drag-rivals-and-nitro-racing.json) |
@@ -10749,6 +10755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Overdose | 6213 | [6213-total-overdose.json](./6213-total-overdose.json) |
 | Total Pinball 25: 3D Tables | 206745 | [206745-total-pinball-25-3d-tables.json](./206745-total-pinball-25-3d-tables.json) |
 | Total Reload | 248661 | [248661-total-reload.json](./248661-total-reload.json) |
+| Total Rendition | 172522 | [172522-total-rendition.json](./172522-total-rendition.json) |
 | Total Rush | 289939 | [289939-total-rush.json](./289939-total-rush.json) |
 | Total Ski Jump | 122159 | [122159-total-ski-jump.json](./122159-total-ski-jump.json) |
 | Total Soccer Manager | 49343 | [49343-total-soccer-manager.json](./49343-total-soccer-manager.json) |
