@@ -160,8 +160,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back Rank Chess: Zombie Strike | 289341 | [289341-back-rank-chess-zombie-strike.json](./289341-back-rank-chess-zombie-strike.json) |
 | Back Rooms: Ground Zero | 250641 | [250641-back-rooms-ground-zero.json](./250641-back-rooms-ground-zero.json) |
 | Back Street Soccer | 38538 | [38538-back-street-soccer.json](./38538-back-street-soccer.json) |
+| Back Then | 120872 | [120872-back-then.json](./120872-back-then.json) |
 | Back to 1998 | 116986 | [116986-back-to-1998.json](./116986-back-to-1998.json) |
 | Back to 21 | 407409 | [407409-back-to-21.json](./407409-back-to-21.json) |
+| Back to Ashes | 120862 | [120862-back-to-ashes.json](./120862-back-to-ashes.json) |
 | Back To Back | 379992 | [379992-back-to-back.json](./379992-back-to-back.json) |
 | Back to Base(Q2)ics Jam 1 | 316741 | [316741-back-to-base-q2-ics-jam-1.json](./316741-back-to-base-q2-ics-jam-1.json) |
 | Back to Basics | 256852 | [256852-back-to-basics.json](./256852-back-to-basics.json) |
@@ -1150,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barney Bear Meets Santa Claus | 14286 | [14286-barney-bear-meets-santa-claus.json](./14286-barney-bear-meets-santa-claus.json) |
 | Barney Shoot 'Em Up | 325816 | [325816-barney-shoot-em-up.json](./325816-barney-shoot-em-up.json) |
 | Barney: Magical Music | 206239 | [206239-barney-magical-music.json](./206239-barney-magical-music.json) |
+| Barney's Dream Cruise | 120908 | [120908-barneys-dream-cruise.json](./120908-barneys-dream-cruise.json) |
 | Barney's Hide & Seek Game | 46286 | [46286-barneys-hide-and-seek-game.json](./46286-barneys-hide-and-seek-game.json) |
 | Barnicle | 344380 | [344380-barnicle.json](./344380-barnicle.json) |
 | Barnstormer | 92849 | [92849-barnstormer.json](./92849-barnstormer.json) |
@@ -1571,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Dawn 2: Terra Reborn | 217230 | [217230-battle-dawn-2-terra-reborn.json](./217230-battle-dawn-2-terra-reborn.json) |
 | Battle destruction | 175730 | [175730-battle-destruction.json](./175730-battle-destruction.json) |
 | Battle Dex | 93581 | [93581-battle-dex.json](./93581-battle-dex.json) |
+| Battle Disc | 120895 | [120895-battle-disc.json](./120895-battle-disc.json) |
 | Battle Dodge Ball 3 | 56519 | [56519-battle-dodge-ball-3.json](./56519-battle-dodge-ball-3.json) |
 | Battle Dodgeball | 38350 | [38350-battle-dodgeball.json](./38350-battle-dodgeball.json) |
 | Battle Dome | 143586 | [143586-battle-dome.json](./143586-battle-dome.json) |
@@ -1888,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlerite Royale | 107022 | [107022-battlerite-royale.json](./107022-battlerite-royale.json) |
 | Battlerite Royale: All Champions Pack | 168365 | [168365-battlerite-royale-all-champions-pack.json](./168365-battlerite-royale-all-champions-pack.json) |
 | Battlers of Ekrasys | 339948 | [339948-battlers-of-ekrasys.json](./339948-battlers-of-ekrasys.json) |
+| Battles For Spain | 120869 | [120869-battles-for-spain.json](./120869-battles-for-spain.json) |
 | Battles Game | 370135 | [370135-battles-game.json](./370135-battles-game.json) |
 | Battles in Normandy | 611 | [611-battles-in-normandy.json](./611-battles-in-normandy.json) |
 | Battles in Time | 69826 | [69826-battles-in-time.json](./69826-battles-in-time.json) |
@@ -5302,6 +5307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonetown: The Power of Death | 35741 | [35741-bonetown-the-power-of-death.json](./35741-bonetown-the-power-of-death.json) |
 | BoneTown: The Second Coming Edition | 173828 | [173828-bonetown-the-second-coming-edition.json](./173828-bonetown-the-second-coming-edition.json) |
 | Boneyard Bounce! | 414604 | [414604-boneyard-bounce.json](./414604-boneyard-bounce.json) |
+| Bonez Adventures: Tomb of Fulaos | 120874 | [120874-bonez-adventures-tomb-of-fulaos.json](./120874-bonez-adventures-tomb-of-fulaos.json) |
 | Bonfire Kingdom | 260413 | [260413-bonfire-kingdom.json](./260413-bonfire-kingdom.json) |
 | Bonfire Peaks: Lost Memories | 203901 | [203901-bonfire-peaks-lost-memories.json](./203901-bonfire-peaks-lost-memories.json) |
 | BongBongCapy | 400862 | [400862-bongbongcapy.json](./400862-bongbongcapy.json) |
@@ -6231,6 +6237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Into Zatwor | 27775 | [27775-break-into-zatwor.json](./27775-break-into-zatwor.json) |
 | Break Limit | 91945 | [91945-break-limit.json](./91945-break-limit.json) |
 | Break Liner | 57346 | [57346-break-liner.json](./57346-break-liner.json) |
+| Break my body | 120771 | [120771-break-my-body.json](./120771-break-my-body.json) |
 | Break My Case | 333943 | [333943-break-my-case.json](./333943-break-my-case.json) |
 | Break Nine: World Billiards Tournament | 5755 | [5755-break-nine-world-billiards-tournament.json](./5755-break-nine-world-billiards-tournament.json) |
 | Break Point | 257351 | [257351-break-point.json](./257351-break-point.json) |
@@ -6560,6 +6567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Dimensions | 350640 | [350640-broken-dimensions.json](./350640-broken-dimensions.json) |
 | Broken Ecchi Gallery | 280748 | [280748-broken-ecchi-gallery.json](./280748-broken-ecchi-gallery.json) |
 | Broken God Awakening | 216791 | [216791-broken-god-awakening.json](./216791-broken-god-awakening.json) |
+| Broken Hearts Club: Blue Bird Blues | 120844 | [120844-broken-hearts-club-blue-bird-blues.json](./120844-broken-hearts-club-blue-bird-blues.json) |
 | Broken Hearts Island | 258990 | [258990-broken-hearts-island.json](./258990-broken-hearts-island.json) |
 | Broken Hearts: A Soldier's Duty | 206685 | [206685-broken-hearts-a-soldiers-duty.json](./206685-broken-hearts-a-soldiers-duty.json) |
 | Broken In Time | 223499 | [223499-broken-in-time.json](./223499-broken-in-time.json) |
@@ -7013,6 +7021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Builder Liquidator Bundle | 342238 | [342238-builder-liquidator-bundle.json](./342238-builder-liquidator-bundle.json) |
 | Builder Simulator VR | 237080 | [237080-builder-simulator-vr.json](./237080-builder-simulator-vr.json) |
 | Builder: Don't Let me Fall | 137643 | [137643-builder-dont-let-me-fall.json](./137643-builder-dont-let-me-fall.json) |
+| Builders of Egypt | 120901 | [120901-builders-of-egypt.json](./120901-builders-of-egypt.json) |
 | Builders of Greece | 217337 | [217337-builders-of-greece.json](./217337-builders-of-greece.json) |
 | Building & Co | 79285 | [79285-building-and-co.json](./79285-building-and-co.json) |
 | Building 37 | 185603 | [185603-building-37.json](./185603-building-37.json) |
