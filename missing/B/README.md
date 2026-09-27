@@ -6394,6 +6394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bronze Hoof | 127083 | [127083-bronze-hoof.json](./127083-bronze-hoof.json) |
 | Bronzebeard's Tavern | 258955 | [258955-bronzebeards-tavern.json](./258955-bronzebeards-tavern.json) |
 | Brood | 116514 | [116514-brood.json](./116514-brood.json) |
+| Brooklyn Trash King | 172508 | [172508-brooklyn-trash-king.json](./172508-brooklyn-trash-king.json) |
 | Brooks in Wild West | 272258 | [272258-brooks-in-wild-west.json](./272258-brooks-in-wild-west.json) |
 | Brookwood: Pocket Tactics | 329696 | [329696-brookwood-pocket-tactics.json](./329696-brookwood-pocket-tactics.json) |
 | Broom Broom | 387655 | [387655-broom-broom.json](./387655-broom-broom.json) |
