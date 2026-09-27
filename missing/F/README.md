@@ -3317,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipper Critters | 20693 | [20693-flipper-critters.json](./20693-flipper-critters.json) |
 | Flipper Hazard 5 | 55442 | [55442-flipper-hazard-5.json](./55442-flipper-hazard-5.json) |
 | Flipper Mechanic Simulator | 244789 | [244789-flipper-mechanic-simulator.json](./244789-flipper-mechanic-simulator.json) |
+| Flipper Volcano | 138134 | [138134-flipper-volcano.json](./138134-flipper-volcano.json) |
 | Flippin Misfits | 212809 | [212809-flippin-misfits.json](./212809-flippin-misfits.json) |
 | Flipping Frogs 64 | 369060 | [369060-flipping-frogs-64.json](./369060-flipping-frogs-64.json) |
 | Flipping in the air | 278703 | [278703-flipping-in-the-air.json](./278703-flipping-in-the-air.json) |
@@ -3753,6 +3754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fomalhaut Flowers | 159714 | [159714-fomalhaut-flowers.json](./159714-fomalhaut-flowers.json) |
 | Fomography | 264003 | [264003-fomography.json](./264003-fomography.json) |
 | Fono | 161336 | [161336-fono.json](./161336-fono.json) |
+| Foo Foo | 138148 | [138148-foo-foo.json](./138148-foo-foo.json) |
 | Fooaaahh! | 182451 | [182451-fooaaahh.json](./182451-fooaaahh.json) |
 | Food Adventures | 395173 | [395173-food-adventures.json](./395173-food-adventures.json) |
 | Food and Girls | 148363 | [148363-food-and-girls.json](./148363-food-and-girls.json) |
