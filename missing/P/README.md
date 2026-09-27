@@ -3215,6 +3215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates Pinball | 115058 | [115058-pirates-pinball.json](./115058-pirates-pinball.json) |
 | Pirates vs Corsairs: Davy Jones's Gold | 35613 | [35613-pirates-vs-corsairs-davy-joness-gold.json](./35613-pirates-vs-corsairs-davy-joness-gold.json) |
 | Pirates vs monkeys | 162851 | [162851-pirates-vs-monkeys.json](./162851-pirates-vs-monkeys.json) |
+| Pirates: Captain's Quest | 145521 | [145521-pirates-captains-quest.json](./145521-pirates-captains-quest.json) |
 | Pirates: Duels on the High Seas | 21274 | [21274-pirates-duels-on-the-high-seas.json](./21274-pirates-duels-on-the-high-seas.json) |
 | Pirates: Legend of the Black Buccaneer | 11286 | [11286-pirates-legend-of-the-black-buccaneer.json](./11286-pirates-legend-of-the-black-buccaneer.json) |
 | Pirates: Mystery of the Skeletons Island | 133425 | [133425-pirates-mystery-of-the-skeletons-island.json](./133425-pirates-mystery-of-the-skeletons-island.json) |
@@ -3815,6 +3816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Finder | 362299 | [362299-planet-finder.json](./362299-planet-finder.json) |
 | Planet Flipper | 394893 | [394893-planet-flipper.json](./394893-planet-flipper.json) |
 | Planet G | 209972 | [209972-planet-g.json](./209972-planet-g.json) |
+| Planet Gula | 145557 | [145557-planet-gula.json](./145557-planet-gula.json) |
 | Planet Harriers | 72972 | [72972-planet-harriers.json](./72972-planet-harriers.json) |
 | Planet Hop | 158082 | [158082-planet-hop.json](./158082-planet-hop.json) |
 | Planet Hotpot | 173241 | [173241-planet-hotpot.json](./173241-planet-hotpot.json) |
@@ -5231,6 +5233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Populous & The Promised Lands | 137074 | [137074-populous-and-the-promised-lands.json](./137074-populous-and-the-promised-lands.json) |
 | Populous DS | 8898 | [8898-populous-ds.json](./8898-populous-ds.json) |
 | Populous: The Beginning | 5525 | [5525-populous-the-beginning.json](./5525-populous-the-beginning.json) |
+| Populus Run | 145513 | [145513-populus-run.json](./145513-populus-run.json) |
 | Poramid | 185438 | [185438-poramid.json](./185438-poramid.json) |
 | Porcelain Tales | 186031 | [186031-porcelain-tales.json](./186031-porcelain-tales.json) |
 | Porcini | 148999 | [148999-porcini.json](./148999-porcini.json) |
