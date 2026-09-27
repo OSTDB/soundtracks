@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Hibnernry Boneyard Ler Ardus | 397097 | [397097-of-hibnernry-boneyard-ler-ardus.json](./397097-of-hibnernry-boneyard-ler-ardus.json) |
 | Of Ice & Snow | 229783 | [229783-of-ice-and-snow.json](./229783-of-ice-and-snow.json) |
 | Of Life and Land | 188614 | [188614-of-life-and-land.json](./188614-of-life-and-land.json) |
+| Of Light & Shadow | 166509 | [166509-of-light-and-shadow.json](./166509-of-light-and-shadow.json) |
 | Of Me and My Mirror | 380680 | [380680-of-me-and-my-mirror.json](./380680-of-me-and-my-mirror.json) |
 | Of Mist and Shadows | 133196 | [133196-of-mist-and-shadows.json](./133196-of-mist-and-shadows.json) |
 | Of Moons and Mania | 256320 | [256320-of-moons-and-mania.json](./256320-of-moons-and-mania.json) |
