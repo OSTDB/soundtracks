@@ -1772,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liar's Lounge | 325003 | [325003-liars-lounge.json](./325003-liars-lounge.json) |
 | Libble Rabble | 37945 | [37945-libble-rabble.json](./37945-libble-rabble.json) |
 | Libe | 332854 | [332854-libe.json](./332854-libe.json) |
+| Liber | 163198 | [163198-liber.json](./163198-liber.json) |
 | Liberate 1024 | 312923 | [312923-liberate-1024.json](./312923-liberate-1024.json) |
 | Liberation | 249813 | [249813-liberation.json](./249813-liberation.json) |
 | Liberation | 355236 | [355236-liberation.json](./355236-liberation.json) |
@@ -2078,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightyears from Home | 124634 | [124634-lightyears-from-home.json](./124634-lightyears-from-home.json) |
 | Ligmar | 361692 | [361692-ligmar.json](./361692-ligmar.json) |
 | Ligo | 258539 | [258539-ligo.json](./258539-ligo.json) |
+| Lihue | 163210 | [163210-lihue.json](./163210-lihue.json) |
 | Like A Dino! | 212495 | [212495-like-a-dino.json](./212495-like-a-dino.json) |
 | Like a Dragon Gaiden: The Man Who Erased His Name | 217624 | [217624-like-a-dragon-gaiden-the-man-who-erased-his-name.json](./217624-like-a-dragon-gaiden-the-man-who-erased-his-name.json) |
 | Like a Dragon: Infinite Wealth - Assorted Outfit Bundle | 288216 | [288216-like-a-dragon-infinite-wealth-assorted-outfit-bundle.json](./288216-like-a-dragon-infinite-wealth-assorted-outfit-bundle.json) |
