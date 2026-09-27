@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadalion Online | 9872 | [9872-cadalion-online.json](./9872-cadalion-online.json) |
 | Cadaver | 11983 | [11983-cadaver.json](./11983-cadaver.json) |
 | Cadaver: The Payoff | 37130 | [37130-cadaver-the-payoff.json](./37130-cadaver-the-payoff.json) |
+| Cadavers for Dinner | 174126 | [174126-cadavers-for-dinner.json](./174126-cadavers-for-dinner.json) |
 | Cadde | 265401 | [265401-cadde.json](./265401-cadde.json) |
 | Cade Prime | 173244 | [173244-cade-prime.json](./173244-cade-prime.json) |
 | Cadeau | 326952 | [326952-cadeau.json](./326952-cadeau.json) |
@@ -1336,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Of Plague | 237090 | [237090-castle-of-plague.json](./237090-castle-of-plague.json) |
 | Castle of Riddles | 13701 | [13701-castle-of-riddles.json](./13701-castle-of-riddles.json) |
 | Castle of Shikigami | 28519 | [28519-castle-of-shikigami.json](./28519-castle-of-shikigami.json) |
+| Castle of Shikigami 2 | 174090 | [174090-castle-of-shikigami-2.json](./174090-castle-of-shikigami-2.json) |
 | Castle of Shikigami 3 | 331315 | [331315-castle-of-shikigami-3.json](./331315-castle-of-shikigami-3.json) |
 | Castle of The Dark Ages | 271754 | [271754-castle-of-the-dark-ages.json](./271754-castle-of-the-dark-ages.json) |
 | Castle of the Land | 153356 | [153356-castle-of-the-land.json](./153356-castle-of-the-land.json) |
@@ -5304,6 +5306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conference of the Shamblers | 271294 | [271294-conference-of-the-shamblers.json](./271294-conference-of-the-shamblers.json) |
 | Confession Box | 417559 | [417559-confession-box.json](./417559-confession-box.json) |
 | Confession of the Golden Witch | 255386 | [255386-confession-of-the-golden-witch.json](./255386-confession-of-the-golden-witch.json) |
+| Confessions at Candlewood Lake | 174113 | [174113-confessions-at-candlewood-lake.json](./174113-confessions-at-candlewood-lake.json) |
 | Confettied | 412395 | [412395-confettied.json](./412395-confettied.json) |
 | Confidential Mission | 305954 | [305954-confidential-mission.json](./305954-confidential-mission.json) |
 | Confined | 304138 | [304138-confined.json](./304138-confined.json) |
