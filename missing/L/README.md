@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Espada Sagrada | 141821 | [141821-la-espada-sagrada.json](./141821-la-espada-sagrada.json) |
 | La Foret | 176779 | [176779-la-foret.json](./176779-la-foret.json) |
 | La Fuga | 115603 | [115603-la-fuga.json](./115603-la-fuga.json) |
+| La Historia De | 129078 | [129078-la-historia-de.json](./129078-la-historia-de.json) |
 | LA Hollywood Zombies | 273633 | [273633-la-hollywood-zombies.json](./273633-la-hollywood-zombies.json) |
 | La Isla de lo Mono | 208467 | [208467-la-isla-de-lo-mono.json](./208467-la-isla-de-lo-mono.json) |
 | La Leyenda del Chupacabra | 75094 | [75094-la-leyenda-del-chupacabra.json](./75094-la-leyenda-del-chupacabra.json) |
@@ -109,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LabWatch | 272261 | [272261-labwatch.json](./272261-labwatch.json) |
 | Laby to Panel de Shiritori | 325452 | [325452-laby-to-panel-de-shiritori.json](./325452-laby-to-panel-de-shiritori.json) |
 | Labyren | 389086 | [389086-labyren.json](./389086-labyren.json) |
+| Labyrinth | 129067 | [129067-labyrinth.json](./129067-labyrinth.json) |
 | Labyrinth | 206701 | [206701-labyrinth.json](./206701-labyrinth.json) |
 | Labyrinth | 249273 | [249273-labyrinth.json](./249273-labyrinth.json) |
 | Labyrinth | 260387 | [260387-labyrinth.json](./260387-labyrinth.json) |
@@ -564,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Hour | 192175 | [192175-last-hour.json](./192175-last-hour.json) |
 | Last Idea | 115448 | [115448-last-idea.json](./115448-last-idea.json) |
 | Last Imperial Prince | 45956 | [45956-last-imperial-prince.json](./45956-last-imperial-prince.json) |
+| Last in Orbit | 129063 | [129063-last-in-orbit.json](./129063-last-in-orbit.json) |
 | Last Inua | 10494 | [10494-last-inua.json](./10494-last-inua.json) |
 | Last Island | 134628 | [134628-last-island.json](./134628-last-island.json) |
 | Last Joy | 126591 | [126591-last-joy.json](./126591-last-joy.json) |
