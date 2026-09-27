@@ -2023,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5: Funkin' in Starlight | 327858 | [327858-persona-5-funkin-in-starlight.json](./327858-persona-5-funkin-in-starlight.json) |
 | Persona 5: Goro Akechi Dating Simulator | 179107 | [179107-persona-5-goro-akechi-dating-simulator.json](./179107-persona-5-goro-akechi-dating-simulator.json) |
 | Persona 6 | 405088 | [405088-persona-6.json](./405088-persona-6.json) |
+| Persona Q2: New Cinema Labyrinth - Showtime Premium Edition | 136347 | [136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json](./136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json) |
 | Personal Arcade Volume One | 79947 | [79947-personal-arcade-volume-one.json](./79947-personal-arcade-volume-one.json) |
 | Personal Chef to the Stars | 218707 | [218707-personal-chef-to-the-stars.json](./218707-personal-chef-to-the-stars.json) |
 | Personal Nightmare | 12194 | [12194-personal-nightmare.json](./12194-personal-nightmare.json) |
@@ -3967,6 +3968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies 2: Requiem | 272889 | [272889-plants-vs-zombies-2-requiem.json](./272889-plants-vs-zombies-2-requiem.json) |
 | Plants vs. Zombies Adventures | 77968 | [77968-plants-vs-zombies-adventures.json](./77968-plants-vs-zombies-adventures.json) |
 | Plants vs. Zombies Delturbia | 343926 | [343926-plants-vs-zombies-delturbia.json](./343926-plants-vs-zombies-delturbia.json) |
+| Plants vs. Zombies: Battle for Neighborville - Deluxe Edition | 136356 | [136356-plants-vs-zombies-battle-for-neighborville-deluxe-edition.json](./136356-plants-vs-zombies-battle-for-neighborville-deluxe-edition.json) |
 | Plants vs. Zombies: Cubed | 272801 | [272801-plants-vs-zombies-cubed.json](./272801-plants-vs-zombies-cubed.json) |
 | Plants vs. Zombies: Fusion | 330905 | [330905-plants-vs-zombies-fusion.json](./330905-plants-vs-zombies-fusion.json) |
 | Plants vs. Zombies: Garden Warfare 2 | 11148 | [11148-plants-vs-zombies-garden-warfare-2.json](./11148-plants-vs-zombies-garden-warfare-2.json) |
@@ -5569,6 +5571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers: Battle For the Grid - Jen Scotts: Time Force Pink Ranger | 326726 | [326726-power-rangers-battle-for-the-grid-jen-scotts-time-force-pink-ranger.json](./326726-power-rangers-battle-for-the-grid-jen-scotts-time-force-pink-ranger.json) |
 | Power Rangers: Battle for the Grid - Lauren Shiba Super Samurai | 167787 | [167787-power-rangers-battle-for-the-grid-lauren-shiba-super-samurai.json](./167787-power-rangers-battle-for-the-grid-lauren-shiba-super-samurai.json) |
 | Power Rangers: Battle for the Grid - Lord Zedd | 167790 | [167790-power-rangers-battle-for-the-grid-lord-zedd.json](./167790-power-rangers-battle-for-the-grid-lord-zedd.json) |
+| Power Rangers: Battle for the Grid - Ranger Edition | 136360 | [136360-power-rangers-battle-for-the-grid-ranger-edition.json](./136360-power-rangers-battle-for-the-grid-ranger-edition.json) |
 | Power Rangers: Battle for the Grid - Robert James Jungle Fury | 167789 | [167789-power-rangers-battle-for-the-grid-robert-james-jungle-fury.json](./167789-power-rangers-battle-for-the-grid-robert-james-jungle-fury.json) |
 | Power Rangers: Battle for the Grid - Ryu Crimson Hawk Ranger | 167791 | [167791-power-rangers-battle-for-the-grid-ryu-crimson-hawk-ranger.json](./167791-power-rangers-battle-for-the-grid-ryu-crimson-hawk-ranger.json) |
 | Power Rangers: Battle for the Grid - Scorpina | 167795 | [167795-power-rangers-battle-for-the-grid-scorpina.json](./167795-power-rangers-battle-for-the-grid-scorpina.json) |
