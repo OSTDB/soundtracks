@@ -5726,6 +5726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control the Ball | 312198 | [312198-control-the-ball.json](./312198-control-the-ball.json) |
 | Control: Expeditions | 298854 | [298854-control-expeditions.json](./298854-control-expeditions.json) |
 | Control: Ultimate Edition | 136604 | [136604-control-ultimate-edition.json](./136604-control-ultimate-edition.json) |
+| Control: Ultimate Edition - Cloud Version | 140503 | [140503-control-ultimate-edition-cloud-version.json](./140503-control-ultimate-edition-cloud-version.json) |
 | Controlled Climate Chaos | 282130 | [282130-controlled-climate-chaos.json](./282130-controlled-climate-chaos.json) |
 | Controller Sync | 209489 | [209489-controller-sync.json](./209489-controller-sync.json) |
 | Controware | 285519 | [285519-controware.json](./285519-controware.json) |
@@ -7268,6 +7269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosscountry USA | 399067 | [399067-crosscountry-usa.json](./399067-crosscountry-usa.json) |
 | Crosscountry USA 2 | 71484 | [71484-crosscountry-usa-2.json](./71484-crosscountry-usa-2.json) |
 | Crosscountry USA Photo Safari | 399082 | [399082-crosscountry-usa-photo-safari.json](./399082-crosscountry-usa-photo-safari.json) |
+| CrossCraze | 140504 | [140504-crosscraze.json](./140504-crosscraze.json) |
 | Crossdoku: Math Crossword Sudoku | 127789 | [127789-crossdoku-math-crossword-sudoku.json](./127789-crossdoku-math-crossword-sudoku.json) |
 | Crossed Paths | 183045 | [183045-crossed-paths.json](./183045-crossed-paths.json) |
 | Crossed Paths: Connected Worlds - At First Sight | 180105 | [180105-crossed-paths-connected-worlds-at-first-sight.json](./180105-crossed-paths-connected-worlds-at-first-sight.json) |
@@ -8328,6 +8330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Rush | 296522 | [296522-cyber-rush.json](./296522-cyber-rush.json) |
 | Cyber Russia | 300693 | [300693-cyber-russia.json](./300693-cyber-russia.json) |
 | Cyber Sensation: MicroLife | 351631 | [351631-cyber-sensation-microlife.json](./351631-cyber-sensation-microlife.json) |
+| Cyber Seraph | 140447 | [140447-cyber-seraph.json](./140447-cyber-seraph.json) |
 | Cyber Slayer | 219672 | [219672-cyber-slayer.json](./219672-cyber-slayer.json) |
 | Cyber Sled | 20626 | [20626-cyber-sled.json](./20626-cyber-sled.json) |
 | Cyber Soldier Sharaku | 45934 | [45934-cyber-soldier-sharaku.json](./45934-cyber-soldier-sharaku.json) |
