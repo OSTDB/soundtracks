@@ -756,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idlemon | 390637 | [390637-idlemon.json](./390637-idlemon.json) |
 | IdleOn | 143440 | [143440-idleon.json](./143440-idleon.json) |
 | Idleplex | 261270 | [261270-idleplex.json](./261270-idleplex.json) |
+| Idlescape | 139325 | [139325-idlescape.json](./139325-idlescape.json) |
 | IdleTowerDefense | 357843 | [357843-idletowerdefense.json](./357843-idletowerdefense.json) |
 | Idling Gears | 237081 | [237081-idling-gears.json](./237081-idling-gears.json) |
 | Idly God | 209637 | [209637-idly-god.json](./209637-idly-god.json) |
