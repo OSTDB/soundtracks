@@ -156,6 +156,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakegurui Cheating Allowed | 220311 | [220311-kakegurui-cheating-allowed.json](./220311-kakegurui-cheating-allowed.json) |
 | Kakele Online: MMORPG | 151267 | [151267-kakele-online-mmorpg.json](./151267-kakele-online-mmorpg.json) |
 | Kakele Online: MMORPG - Bonanza | 265732 | [265732-kakele-online-mmorpg-bonanza.json](./265732-kakele-online-mmorpg-bonanza.json) |
+| Kakenuke Forward to Our Sparking Youth! | 146793 | [146793-kakenuke-forward-to-our-sparking-youth.json](./146793-kakenuke-forward-to-our-sparking-youth.json) |
+| Kakenuke Seishun Sparking!: Limited Edition | 146794 | [146794-kakenuke-seishun-sparking-limited-edition.json](./146794-kakenuke-seishun-sparking-limited-edition.json) |
 | Kakeochi | 415133 | [415133-kakeochi.json](./415133-kakeochi.json) |
 | Kakikuku Jump! | 234590 | [234590-kakikuku-jump.json](./234590-kakikuku-jump.json) |
 | Kakinoki Shogi | 37968 | [37968-kakinoki-shogi.json](./37968-kakinoki-shogi.json) |
@@ -236,6 +238,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kami no Me no Aeon: Zenpen | 341326 | [341326-kami-no-me-no-aeon-zenpen.json](./341326-kami-no-me-no-aeon-zenpen.json) |
 | Kami Quest: Enter the Imagynasium | 361762 | [361762-kami-quest-enter-the-imagynasium.json](./361762-kami-quest-enter-the-imagynasium.json) |
 | Kami-sama no Shippo: Etogami-sama-tachi no Ongaeshi | 194608 | [194608-kami-sama-no-shippo-etogami-sama-tachi-no-ongaeshi.json](./194608-kami-sama-no-shippo-etogami-sama-tachi-no-ongaeshi.json) |
+| Kami-sama no you na Kimi he | 146781 | [146781-kami-sama-no-you-na-kimi-he.json](./146781-kami-sama-no-you-na-kimi-he.json) |
+| Kami-sama no you na Kimi he: Limited Edition | 146782 | [146782-kami-sama-no-you-na-kimi-he-limited-edition.json](./146782-kami-sama-no-you-na-kimi-he-limited-edition.json) |
 | Kami: Parade of Senses | 286000 | [286000-kami-parade-of-senses.json](./286000-kami-parade-of-senses.json) |
 | Kami: The Great Guardian | 408034 | [408034-kami-the-great-guardian.json](./408034-kami-the-great-guardian.json) |
 | Kamigami no Asobi InFinite | 136474 | [136474-kamigami-no-asobi-infinite.json](./136474-kamigami-no-asobi-infinite.json) |
