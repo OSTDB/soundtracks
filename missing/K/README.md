@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ken to Mahou to Gakuen Mono. Final: Shinnyusei wa Ohimesama! | 63896 | [63896-ken-to-mahou-to-gakuen-mono-final-shinnyusei-wa-ohimesama.json](./63896-ken-to-mahou-to-gakuen-mono-final-shinnyusei-wa-ohimesama.json) |
 | Ken to Mahou to Gakuen Quest | 222230 | [222230-ken-to-mahou-to-gakuen-quest.json](./222230-ken-to-mahou-to-gakuen-quest.json) |
 | Ken's Labyrinth II | 309654 | [309654-kens-labyrinth-ii.json](./309654-kens-labyrinth-ii.json) |
+| Kena: Bridge of Spirits - Digital Deluxe | 169183 | [169183-kena-bridge-of-spirits-digital-deluxe.json](./169183-kena-bridge-of-spirits-digital-deluxe.json) |
 | Kena: Scars of Kosmora | 389419 | [389419-kena-scars-of-kosmora.json](./389419-kena-scars-of-kosmora.json) |
 | Kenas-unarpe | 299130 | [299130-kenas-unarpe.json](./299130-kenas-unarpe.json) |
 | Kenchana: Oath of a Magical Spear | 238756 | [238756-kenchana-oath-of-a-magical-spear.json](./238756-kenchana-oath-of-a-magical-spear.json) |
@@ -1279,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Wizard, of the Forest Kingdom | 274573 | [274573-king-wizard-of-the-forest-kingdom.json](./274573-king-wizard-of-the-forest-kingdom.json) |
 | King's Bounty 2 | 74329 | [74329-kings-bounty-2.json](./74329-kings-bounty-2.json) |
 | King's Bounty II: Day One Edition | 146330 | [146330-kings-bounty-ii-day-one-edition.json](./146330-kings-bounty-ii-day-one-edition.json) |
+| King's Bounty II: Duke's Edition | 169209 | [169209-kings-bounty-ii-dukes-edition.json](./169209-kings-bounty-ii-dukes-edition.json) |
 | King's Bounty II: Lord's Edition | 155100 | [155100-kings-bounty-ii-lords-edition.json](./155100-kings-bounty-ii-lords-edition.json) |
 | King's Bounty: Dark Side | 8073 | [8073-kings-bounty-dark-side.json](./8073-kings-bounty-dark-side.json) |
 | King's Bounty: Dark Side - Premium Edition | 53238 | [53238-kings-bounty-dark-side-premium-edition.json](./53238-kings-bounty-dark-side-premium-edition.json) |
@@ -1930,6 +1932,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knocking Up My Nympho Neighbors | 235828 | [235828-knocking-up-my-nympho-neighbors.json](./235828-knocking-up-my-nympho-neighbors.json) |
 | Knockout 2: Wrath of the Karen | 244756 | [244756-knockout-2-wrath-of-the-karen.json](./244756-knockout-2-wrath-of-the-karen.json) |
 | Knockout Bowling VR | 129695 | [129695-knockout-bowling-vr.json](./129695-knockout-bowling-vr.json) |
+| Knockout City: Block Party Edition | 169177 | [169177-knockout-city-block-party-edition.json](./169177-knockout-city-block-party-edition.json) |
+| Knockout City: Deluxe Block Party Edition | 169176 | [169176-knockout-city-deluxe-block-party-edition.json](./169176-knockout-city-deluxe-block-party-edition.json) |
 | Knockout City: Private Server Edition | 296669 | [296669-knockout-city-private-server-edition.json](./296669-knockout-city-private-server-edition.json) |
 | Knockout City: Season 1 - Welcome to Knockout City | 159120 | [159120-knockout-city-season-1-welcome-to-knockout-city.json](./159120-knockout-city-season-1-welcome-to-knockout-city.json) |
 | Knockout City: Season 2 - Fight at the Movies | 159118 | [159118-knockout-city-season-2-fight-at-the-movies.json](./159118-knockout-city-season-2-fight-at-the-movies.json) |
@@ -2269,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krakels ABC: Det Magiska Äventyret | 97703 | [97703-krakels-abc-det-magiska-aventyret.json](./97703-krakels-abc-det-magiska-aventyret.json) |
 | Krakels ABC: Storm Över Allemansland | 97705 | [97705-krakels-abc-storm-over-allemansland.json](./97705-krakels-abc-storm-over-allemansland.json) |
 | Kraken | 74458 | [74458-kraken.json](./74458-kraken.json) |
+| Kraken Academy: End of the World Edition | 169200 | [169200-kraken-academy-end-of-the-world-edition.json](./169200-kraken-academy-end-of-the-world-edition.json) |
 | Kraken Attack | 318228 | [318228-kraken-attack.json](./318228-kraken-attack.json) |
 | Kraken City | 325652 | [325652-kraken-city.json](./325652-kraken-city.json) |
 | Kraken Cleaning | 401776 | [401776-kraken-cleaning.json](./401776-kraken-cleaning.json) |
