@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banshiryuu | 123606 | [123606-banshiryuu.json](./123606-banshiryuu.json) |
 | Bansoko | 179193 | [179193-bansoko.json](./179193-bansoko.json) |
 | Banter | 342242 | [342242-banter.json](./342242-banter.json) |
+| Banter Schooldays!! | 126531 | [126531-banter-schooldays.json](./126531-banter-schooldays.json) |
 | Banui Moheom: Idle RPG | 219781 | [219781-banui-moheom-idle-rpg.json](./219781-banui-moheom-idle-rpg.json) |
 | Banyu: Reclaiming Hope | 347888 | [347888-banyu-reclaiming-hope.json](./347888-banyu-reclaiming-hope.json) |
 | Banzai Dice | 232367 | [232367-banzai-dice.json](./232367-banzai-dice.json) |
@@ -2880,6 +2881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Protocol | 72646 | [72646-beyond-protocol.json](./72646-beyond-protocol.json) |
 | Beyond Sandbox | 399220 | [399220-beyond-sandbox.json](./399220-beyond-sandbox.json) |
 | Beyond Senses | 124169 | [124169-beyond-senses.json](./124169-beyond-senses.json) |
+| Beyond Shattered Isles | 126545 | [126545-beyond-shattered-isles.json](./126545-beyond-shattered-isles.json) |
 | Beyond Silence | 363964 | [363964-beyond-silence.json](./363964-beyond-silence.json) |
 | Beyond Solar | 172135 | [172135-beyond-solar.json](./172135-beyond-solar.json) |
 | Beyond the Abyss | 86126 | [86126-beyond-the-abyss.json](./86126-beyond-the-abyss.json) |
@@ -3215,6 +3217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billionworlds : Kingdoms | 153437 | [153437-billionworlds-kingdoms.json](./153437-billionworlds-kingdoms.json) |
 | Billo-Bricks | 291509 | [291509-billo-bricks.json](./291509-billo-bricks.json) |
 | Billund | 241499 | [241499-billund.json](./241499-billund.json) |
+| Billy | 126539 | [126539-billy.json](./126539-billy.json) |
 | Billy 101 | 192964 | [192964-billy-101.json](./192964-billy-101.json) |
 | Billy Bob's Huntin'-n-Fishin' | 49913 | [49913-billy-bobs-huntin-n-fishin.json](./49913-billy-bobs-huntin-n-fishin.json) |
 | Billy Boots' Treasure | 396548 | [396548-billy-boots-treasure.json](./396548-billy-boots-treasure.json) |
@@ -3630,6 +3633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Bass: Lure Fishing | 7787 | [7787-black-bass-lure-fishing.json](./7787-black-bass-lure-fishing.json) |
 | Black Beacon: Forsaken Eternity | 349327 | [349327-black-beacon-forsaken-eternity.json](./349327-black-beacon-forsaken-eternity.json) |
 | Black Beacon: Whispers of the Stars | 352859 | [352859-black-beacon-whispers-of-the-stars.json](./352859-black-beacon-whispers-of-the-stars.json) |
+| Black Bekker | 126529 | [126529-black-bekker.json](./126529-black-bekker.json) |
 | Black Bell Tactical | 174768 | [174768-black-bell-tactical.json](./174768-black-bell-tactical.json) |
 | Black Belt | 12257 | [12257-black-belt.json](./12257-black-belt.json) |
 | Black Belt | 282625 | [282625-black-belt.json](./282625-black-belt.json) |
@@ -5359,6 +5363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book of Mario: Thousands of Doors | 159323 | [159323-book-of-mario-thousands-of-doors.json](./159323-book-of-mario-thousands-of-doors.json) |
 | Book of Myko | 350455 | [350455-book-of-myko.json](./350455-book-of-myko.json) |
 | Book of Shadows | 235204 | [235204-book-of-shadows.json](./235204-book-of-shadows.json) |
+| Book of Yog | 126520 | [126520-book-of-yog.json](./126520-book-of-yog.json) |
 | Book Organizer | 405095 | [405095-book-organizer.json](./405095-book-organizer.json) |
 | Book Smugglers | 291522 | [291522-book-smugglers.json](./291522-book-smugglers.json) |
 | Book Travelers II: A Royal Story - Collector's Edition | 362845 | [362845-book-travelers-ii-a-royal-story-collectors-edition.json](./362845-book-travelers-ii-a-royal-story-collectors-edition.json) |
@@ -7524,6 +7529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buy Sell | 374158 | [374158-buy-sell.json](./374158-buy-sell.json) |
 | Buyhads | 169872 | [169872-buyhads.json](./169872-buyhads.json) |
 | Buying Tomato | 394869 | [394869-buying-tomato.json](./394869-buying-tomato.json) |
+| Buzludzha VR | 126496 | [126496-buzludzha-vr.json](./126496-buzludzha-vr.json) |
 | Buzz | 232552 | [232552-buzz.json](./232552-buzz.json) |
 | Buzz Cut Simulation | 277313 | [277313-buzz-cut-simulation.json](./277313-buzz-cut-simulation.json) |
 | Buzz is a VTuber: I want to be famous, even if it's just a game | 301887 | [301887-buzz-is-a-vtuber-i-want-to-be-famous-even-if-its-just-a-game.json](./301887-buzz-is-a-vtuber-i-want-to-be-famous-even-if-its-just-a-game.json) |
