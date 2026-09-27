@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate 1v1 | 125902 | [125902-ultimate-1v1.json](./125902-ultimate-1v1.json) |
 | Ultimate 20-Game Bundle | 392766 | [392766-ultimate-20-game-bundle.json](./392766-ultimate-20-game-bundle.json) |
 | Ultimate 8 Ball Pool | 415309 | [415309-ultimate-8-ball-pool.json](./415309-ultimate-8-ball-pool.json) |
+| Ultimate Action Hero | 124708 | [124708-ultimate-action-hero.json](./124708-ultimate-action-hero.json) |
 | Ultimate Action Hero | 306364 | [306364-ultimate-action-hero.json](./306364-ultimate-action-hero.json) |
 | Ultimate Admiral: Dreadnoughts | 125374 | [125374-ultimate-admiral-dreadnoughts.json](./125374-ultimate-admiral-dreadnoughts.json) |
 | Ultimate ADOM: Caverns of Chaos - Save the World Edition | 186876 | [186876-ultimate-adom-caverns-of-chaos-save-the-world-edition.json](./186876-ultimate-adom-caverns-of-chaos-save-the-world-edition.json) |
