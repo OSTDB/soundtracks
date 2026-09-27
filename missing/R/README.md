@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit's All-Comers Mapping Project | 260958 | [260958-rabbits-all-comers-mapping-project.json](./260958-rabbits-all-comers-mapping-project.json) |
 | Rabbit's All-Comers Mapping Project 2022 | 260962 | [260962-rabbits-all-comers-mapping-project-2022.json](./260962-rabbits-all-comers-mapping-project-2022.json) |
 | Rabbit's All-Comers Mapping Project 2023 | 260963 | [260963-rabbits-all-comers-mapping-project-2023.json](./260963-rabbits-all-comers-mapping-project-2023.json) |
+| Rabbit's Quest | 142342 | [142342-rabbits-quest.json](./142342-rabbits-quest.json) |
 | RabbitJack's Casino | 67960 | [67960-rabbitjacks-casino.json](./67960-rabbitjacks-casino.json) |
 | Rabby in the Land of Sweets | 165646 | [165646-rabby-in-the-land-of-sweets.json](./165646-rabby-in-the-land-of-sweets.json) |
 | Rabi Laby 2 | 84834 | [84834-rabi-laby-2.json](./84834-rabi-laby-2.json) |
@@ -3354,6 +3355,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riptale: Deluxe Edition | 53509 | [53509-riptale-deluxe-edition.json](./53509-riptale-deluxe-edition.json) |
 | Riptide | 291236 | [291236-riptide.json](./291236-riptide.json) |
 | Riptide GP2 | 16735 | [16735-riptide-gp2.json](./16735-riptide-gp2.json) |
+| Riptoff | 142367 | [142367-riptoff.json](./142367-riptoff.json) |
+| Rise | 142344 | [142344-rise.json](./142344-rise.json) |
 | Rise | 32198 | [32198-rise.json](./32198-rise.json) |
 | Rise | 32218 | [32218-rise.json](./32218-rise.json) |
 | Rise | 338219 | [338219-rise.json](./338219-rise.json) |
@@ -4108,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman 7 EP | 212782 | [212782-rockman-7-ep.json](./212782-rockman-7-ep.json) |
 | Rockman 7 FC | 137115 | [137115-rockman-7-fc.json](./137115-rockman-7-fc.json) |
 | Rockman 8 FC | 137116 | [137116-rockman-8-fc.json](./137116-rockman-8-fc.json) |
+| Rockman 8 Metal Heroes Famicom | 142354 | [142354-rockman-8-metal-heroes-famicom.json](./142354-rockman-8-metal-heroes-famicom.json) |
 | Rockman Battle & Fighters | 75515 | [75515-rockman-battle-and-fighters.json](./75515-rockman-battle-and-fighters.json) |
 | Rockman EXE 5: Kaizou Card - Part 1 | 352754 | [352754-rockman-exe-5-kaizou-card-part-1.json](./352754-rockman-exe-5-kaizou-card-part-1.json) |
 | Rockman EXE 5: Kaizou Card - Part 2 | 352756 | [352756-rockman-exe-5-kaizou-card-part-2.json](./352756-rockman-exe-5-kaizou-card-part-2.json) |
@@ -5052,6 +5056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruby: Huntress of Vale | 257333 | [257333-ruby-huntress-of-vale.json](./257333-ruby-huntress-of-vale.json) |
 | Ruby's Land | 298052 | [298052-rubys-land.json](./298052-rubys-land.json) |
 | Ruby’s Realms | 360746 | [360746-ruby-s-realms.json](./360746-ruby-s-realms.json) |
+| Ruby's Rebalanced Halo 3 Campaign | 142379 | [142379-rubys-rebalanced-halo-3-campaign.json](./142379-rubys-rebalanced-halo-3-campaign.json) |
 | Ruby's Rebalanced Halo CE Campaign | 142276 | [142276-rubys-rebalanced-halo-ce-campaign.json](./142276-rubys-rebalanced-halo-ce-campaign.json) |
 | Ruby's Rebalanced Reach Campaign | 142380 | [142380-rubys-rebalanced-reach-campaign.json](./142380-rubys-rebalanced-reach-campaign.json) |
 | Ruby's Vitten Party | 304033 | [304033-rubys-vitten-party.json](./304033-rubys-vitten-party.json) |
