@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Pinball | 46877 | [46877-video-pinball.json](./46877-video-pinball.json) |
 | Video Poker | 246382 | [246382-video-poker.json](./246382-video-poker.json) |
 | Video Poker | 272552 | [272552-video-poker.json](./272552-video-poker.json) |
+| Video Realms | 156553 | [156553-video-realms.json](./156553-video-realms.json) |
 | Video Strip Poker HD | 109636 | [109636-video-strip-poker-hd.json](./109636-video-strip-poker-hd.json) |
 | Video Tennis but the Computer Asks About Your Ex-Girlfriend | 177413 | [177413-video-tennis-but-the-computer-asks-about-your-ex-girlfriend.json](./177413-video-tennis-but-the-computer-asks-about-your-ex-girlfriend.json) |
 | Video Time Machine | 40770 | [40770-video-time-machine.json](./40770-video-time-machine.json) |
@@ -1479,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voron: Raven's Story | 235968 | [235968-voron-ravens-story.json](./235968-voron-ravens-story.json) |
 | Vortex | 81436 | [81436-vortex.json](./81436-vortex.json) |
 | Vortex Attack EX | 124235 | [124235-vortex-attack-ex.json](./124235-vortex-attack-ex.json) |
+| Vortex Escape | 156549 | [156549-vortex-escape.json](./156549-vortex-escape.json) |
 | Vortex of Hostility | 93998 | [93998-vortex-of-hostility.json](./93998-vortex-of-hostility.json) |
 | Vortex Rolling | 152743 | [152743-vortex-rolling.json](./152743-vortex-rolling.json) |
 | Vortex: The Gateway | 34348 | [34348-vortex-the-gateway.json](./34348-vortex-the-gateway.json) |
