@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oden-kun Tamagotchi | 229963 | [229963-oden-kun-tamagotchi.json](./229963-oden-kun-tamagotchi.json) |
 | Oden-kun: Oden-mura no Tanoshii Nakama-tachi | 327599 | [327599-oden-kun-oden-mura-no-tanoshii-nakama-tachi.json](./327599-oden-kun-oden-mura-no-tanoshii-nakama-tachi.json) |
 | Oden-ya Ninjou Monogatari 3: Seiya ni Kiseki ga Yattekuru | 356260 | [356260-oden-ya-ninjou-monogatari-3-seiya-ni-kiseki-ga-yattekuru.json](./356260-oden-ya-ninjou-monogatari-3-seiya-ni-kiseki-ga-yattekuru.json) |
+| Odenavirus Online | 158516 | [158516-odenavirus-online.json](./158516-odenavirus-online.json) |
 | Odens öga | 304035 | [304035-odens-oga.json](./304035-odens-oga.json) |
 | Odessa | 333649 | [333649-odessa.json](./333649-odessa.json) |
 | Odezie | 129753 | [129753-odezie.json](./129753-odezie.json) |
@@ -466,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OGame | 17257 | [17257-ogame.json](./17257-ogame.json) |
 | Ogami Ichiro Funtouki: Sakura Taisen Kayou Show - Benitokage Yori | 62127 | [62127-ogami-ichiro-funtouki-sakura-taisen-kayou-show-benitokage-yori.json](./62127-ogami-ichiro-funtouki-sakura-taisen-kayou-show-benitokage-yori.json) |
 | Ogantto | 349332 | [349332-ogantto.json](./349332-ogantto.json) |
+| Ogopogo | 158539 | [158539-ogopogo.json](./158539-ogopogo.json) |
 | Ogora | 323936 | [323936-ogora.json](./323936-ogora.json) |
 | Ogre Battle Gaiden | 66085 | [66085-ogre-battle-gaiden.json](./66085-ogre-battle-gaiden.json) |
 | Ogre Chambers 2222 | 369740 | [369740-ogre-chambers-2222.json](./369740-ogre-chambers-2222.json) |
