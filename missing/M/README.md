@@ -6628,6 +6628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters, Inc.: Wreck Room Arcade - Eight Ball Chaos | 69576 | [69576-monsters-inc-wreck-room-arcade-eight-ball-chaos.json](./69576-monsters-inc-wreck-room-arcade-eight-ball-chaos.json) |
 | Monsters: Survival | 114997 | [114997-monsters-survival.json](./114997-monsters-survival.json) |
 | Monsters: The Hunter of Darkness | 214198 | [214198-monsters-the-hunter-of-darkness.json](./214198-monsters-the-hunter-of-darkness.json) |
+| Monsters' Den: Godfall - Protectorate Operations | 155550 | [155550-monsters-den-godfall-protectorate-operations.json](./155550-monsters-den-godfall-protectorate-operations.json) |
 | Monsters' Gambits | 250870 | [250870-monsters-gambits.json](./250870-monsters-gambits.json) |
 | MonsterSoft | 138803 | [138803-monstersoft.json](./138803-monstersoft.json) |
 | Monsterstone: Prelude | 215122 | [215122-monsterstone-prelude.json](./215122-monsterstone-prelude.json) |
@@ -8509,6 +8510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sexy Anthro: Fluttertime! | 273944 | [273944-my-sexy-anthro-fluttertime.json](./273944-my-sexy-anthro-fluttertime.json) |
 | My Sexy Fairies | 415161 | [415161-my-sexy-fairies.json](./415161-my-sexy-fairies.json) |
 | My Sexy Neighbor | 291061 | [291061-my-sexy-neighbor.json](./291061-my-sexy-neighbor.json) |
+| My Sexy Waitress | 155548 | [155548-my-sexy-waitress.json](./155548-my-sexy-waitress.json) |
 | My Shadow | 289432 | [289432-my-shadow.json](./289432-my-shadow.json) |
 | My Shelf | 87882 | [87882-my-shelf.json](./87882-my-shelf.json) |
 | My Shelter | 348449 | [348449-my-shelter.json](./348449-my-shelter.json) |
