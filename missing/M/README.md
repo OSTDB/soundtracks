@@ -668,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Star Pillars | 87976 | [87976-magical-star-pillars.json](./87976-magical-star-pillars.json) |
 | Magical Starsign | 15839 | [15839-magical-starsign.json](./15839-magical-starsign.json) |
 | Magical Stick Girl Miracle Kurun | 125427 | [125427-magical-stick-girl-miracle-kurun.json](./125427-magical-stick-girl-miracle-kurun.json) |
+| Magical Stock Princess | 157066 | [157066-magical-stock-princess.json](./157066-magical-stock-princess.json) |
 | Magical Strings | 157719 | [157719-magical-strings.json](./157719-magical-strings.json) |
 | Magical Taluluto-kun | 180301 | [180301-magical-taluluto-kun.json](./180301-magical-taluluto-kun.json) |
 | Magical Taluluto-kun 2: Raiba Zone Panic!! | 125846 | [125846-magical-taluluto-kun-2-raiba-zone-panic.json](./125846-magical-taluluto-kun-2-raiba-zone-panic.json) |
@@ -4738,6 +4739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Military Attack | 215612 | [215612-military-attack.json](./215612-military-attack.json) |
 | Military Base War | 169447 | [169447-military-base-war.json](./169447-military-base-war.json) |
 | Military Combat Shooter Desert War | 283276 | [283276-military-combat-shooter-desert-war.json](./283276-military-combat-shooter-desert-war.json) |
+| Military Crusaders | 157002 | [157002-military-crusaders.json](./157002-military-crusaders.json) |
 | Military Defense | 326192 | [326192-military-defense.json](./326192-military-defense.json) |
 | Military Madness | 270701 | [270701-military-madness.json](./270701-military-madness.json) |
 | Military Madness | 44334 | [44334-military-madness.json](./44334-military-madness.json) |
@@ -4892,6 +4894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Reader | 107130 | [107130-mind-reader.json](./107130-mind-reader.json) |
 | Mind Reader | 229699 | [229699-mind-reader.json](./229699-mind-reader.json) |
 | Mind Reader: Ghost Trip | 347716 | [347716-mind-reader-ghost-trip.json](./347716-mind-reader-ghost-trip.json) |
+| Mind Rite | 157073 | [157073-mind-rite.json](./157073-mind-rite.json) |
 | Mind Shadows | 151180 | [151180-mind-shadows.json](./151180-mind-shadows.json) |
 | Mind Space | 171469 | [171469-mind-space.json](./171469-mind-space.json) |
 | Mind Storm | 308338 | [308338-mind-storm.json](./308338-mind-storm.json) |
@@ -6075,6 +6078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molly: fear of clowns | 126613 | [126613-molly-fear-of-clowns.json](./126613-molly-fear-of-clowns.json) |
 | Moloch Kombinat | 410886 | [410886-moloch-kombinat.json](./410886-moloch-kombinat.json) |
 | Moloch's Priest | 144244 | [144244-molochs-priest.json](./144244-molochs-priest.json) |
+| Moloko | 157006 | [157006-moloko.json](./157006-moloko.json) |
 | Molten Winds: Open Editon | 288375 | [288375-molten-winds-open-editon.json](./288375-molten-winds-open-editon.json) |
 | Mom | 159247 | [159247-mom.json](./159247-mom.json) |
 | Mom Crush: Hidden Hotel Love Story | 387673 | [387673-mom-crush-hidden-hotel-love-story.json](./387673-mom-crush-hidden-hotel-love-story.json) |
@@ -7995,6 +7999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutagenic | 210690 | [210690-mutagenic.json](./210690-mutagenic.json) |
 | Mutant | 79916 | [79916-mutant.json](./79916-mutant.json) |
 | Mutant Alien Moles of the Dead: Whack Whack or Die | 55941 | [55941-mutant-alien-moles-of-the-dead-whack-whack-or-die.json](./55941-mutant-alien-moles-of-the-dead-whack-whack-or-die.json) |
+| Mutant Alley: Do the Dinosaur | 157065 | [157065-mutant-alley-do-the-dinosaur.json](./157065-mutant-alley-do-the-dinosaur.json) |
 | Mutant Crisis | 320539 | [320539-mutant-crisis.json](./320539-mutant-crisis.json) |
 | Mutant DNA | 341689 | [341689-mutant-dna.json](./341689-mutant-dna.json) |
 | Mutant Fighting Cup | 234193 | [234193-mutant-fighting-cup.json](./234193-mutant-fighting-cup.json) |
