@@ -2671,6 +2671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cherrywitched! | 246070 | [246070-cherrywitched.json](./246070-cherrywitched.json) |
 | Chesh | 15551 | [15551-chesh.json](./15551-chesh.json) |
 | Chess | 128646 | [128646-chess.json](./128646-chess.json) |
+| Chess | 131469 | [131469-chess.json](./131469-chess.json) |
 | Chess | 237288 | [237288-chess.json](./237288-chess.json) |
 | Chess | 25126 | [25126-chess.json](./25126-chess.json) |
 | Chess | 277419 | [277419-chess.json](./277419-chess.json) |
@@ -2695,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Deluxe | 86703 | [86703-chess-deluxe.json](./86703-chess-deluxe.json) |
 | Chess Dungeons | 209663 | [209663-chess-dungeons.json](./209663-chess-dungeons.json) |
 | Chess Empire | 361316 | [361316-chess-empire.json](./361316-chess-empire.json) |
+| Chess for Mac | 131488 | [131488-chess-for-mac.json](./131488-chess-for-mac.json) |
 | Chess For Playdate | 275684 | [275684-chess-for-playdate.json](./275684-chess-for-playdate.json) |
 | Chess Force | 338917 | [338917-chess-force.json](./338917-chess-force.json) |
 | Chess Grandmaster Royal Bundle | 283189 | [283189-chess-grandmaster-royal-bundle.json](./283189-chess-grandmaster-royal-bundle.json) |
@@ -3961,6 +3963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash: Robot Detective - Complete Edition | 236218 | [236218-clash-robot-detective-complete-edition.json](./236218-clash-robot-detective-complete-edition.json) |
 | Clasherball | 306514 | [306514-clasherball.json](./306514-clasherball.json) |
 | Class Trip Crush | 238411 | [238411-class-trip-crush.json](./238411-class-trip-crush.json) |
+| Class4 (working title) | 131466 | [131466-class4-working-title.json](./131466-class4-working-title.json) |
 | Classic Adventures: The Great Gatsby | 417686 | [417686-classic-adventures-the-great-gatsby.json](./417686-classic-adventures-the-great-gatsby.json) |
 | Classic Arcade Fishing | 284976 | [284976-classic-arcade-fishing.json](./284976-classic-arcade-fishing.json) |
 | Classic Arcades: Pong | 353953 | [353953-classic-arcades-pong.json](./353953-classic-arcades-pong.json) |
