@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenless Zone Zero: Update 2.8 - New Eridan Sunset | 400497 | [400497-zenless-zone-zero-update-2-8-new-eridan-sunset.json](./400497-zenless-zone-zero-update-2-8-new-eridan-sunset.json) |
 | Zenless Zone Zero: Update 3.0 - A Sleepwalker's Confession | 406810 | [406810-zenless-zone-zero-update-3-0-a-sleepwalkers-confession.json](./406810-zenless-zone-zero-update-3-0-a-sleepwalkers-confession.json) |
 | Zenless Zone Zero: Update 3.1 - The Long Goodbye | 411735 | [411735-zenless-zone-zero-update-3-1-the-long-goodbye.json](./411735-zenless-zone-zero-update-3-1-the-long-goodbye.json) |
+| Zenmai Zamurai | 124128 | [124128-zenmai-zamurai.json](./124128-zenmai-zamurai.json) |
 | Zenodeath | 118828 | [118828-zenodeath.json](./118828-zenodeath.json) |
 | Zenomatrix | 332450 | [332450-zenomatrix.json](./332450-zenomatrix.json) |
 | Zenonia | 38725 | [38725-zenonia.json](./38725-zenonia.json) |
@@ -410,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zettai Meikyuu Grimm: Nanatsu no Kagi to Rakuen no Otome | 62459 | [62459-zettai-meikyuu-grimm-nanatsu-no-kagi-to-rakuen-no-otome.json](./62459-zettai-meikyuu-grimm-nanatsu-no-kagi-to-rakuen-no-otome.json) |
 | Zettai Meikyuu Himitsu no Oyayubi-hime | 59959 | [59959-zettai-meikyuu-himitsu-no-oyayubi-hime.json](./59959-zettai-meikyuu-himitsu-no-oyayubi-hime.json) |
 | Zettai Mite ha Ikenai Shashin | 251528 | [251528-zettai-mite-ha-ikenai-shashin.json](./251528-zettai-mite-ha-ikenai-shashin.json) |
+| Zettai Zetsumei Dangerous Jiisan DS: Dangerous Sensation | 124129 | [124129-zettai-zetsumei-dangerous-jiisan-ds-dangerous-sensation.json](./124129-zettai-zetsumei-dangerous-jiisan-ds-dangerous-sensation.json) |
 | Zetton's One Trillion Degree Derby | 395895 | [395895-zettons-one-trillion-degree-derby.json](./395895-zettons-one-trillion-degree-derby.json) |
 | Zeus + Poseidon | 90554 | [90554-zeus-poseidon.json](./90554-zeus-poseidon.json) |
 | Zeus Quest Remastered | 147435 | [147435-zeus-quest-remastered.json](./147435-zeus-quest-remastered.json) |
@@ -459,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ziggy's Labyrinth | 286573 | [286573-ziggys-labyrinth.json](./286573-ziggys-labyrinth.json) |
 | ZigZag | 26920 | [26920-zigzag.json](./26920-zigzag.json) |
 | Ziircon | 211277 | [211277-ziircon.json](./211277-ziircon.json) |
+| ZikSquare | 124130 | [124130-ziksquare.json](./124130-ziksquare.json) |
 | Zill O'll | 94007 | [94007-zill-oll.json](./94007-zill-oll.json) |
 | Zill O'll Infinite | 80486 | [80486-zill-oll-infinite.json](./80486-zill-oll-infinite.json) |
 | Zilla: Shadow of the Bridge | 257989 | [257989-zilla-shadow-of-the-bridge.json](./257989-zilla-shadow-of-the-bridge.json) |
