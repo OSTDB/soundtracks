@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-Ho-Ho Cannon | 349842 | [349842-yo-ho-ho-cannon.json](./349842-yo-ho-ho-cannon.json) |
 | Yo-Jin-Bo: The Bodyguards | 72679 | [72679-yo-jin-bo-the-bodyguards.json](./72679-yo-jin-bo-the-bodyguards.json) |
 | Yo-kai Sangokushi: Kunitori Wars | 77356 | [77356-yo-kai-sangokushi-kunitori-wars.json](./77356-yo-kai-sangokushi-kunitori-wars.json) |
+| Yo-Kai Watch 1 for Nintendo Switch | 136357 | [136357-yo-kai-watch-1-for-nintendo-switch.json](./136357-yo-kai-watch-1-for-nintendo-switch.json) |
 | Yo-kai Watch 1 Smartphone | 308252 | [308252-yo-kai-watch-1-smartphone.json](./308252-yo-kai-watch-1-smartphone.json) |
 | Yo-Kai Watch 2: Bony Spirits | 11658 | [11658-yo-kai-watch-2-bony-spirits.json](./11658-yo-kai-watch-2-bony-spirits.json) |
 | Yo-kai Watch 3 | 113249 | [113249-yo-kai-watch-3.json](./113249-yo-kai-watch-3.json) |
