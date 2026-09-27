@@ -1046,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Place | 287226 | [287226-unknown-place.json](./287226-unknown-place.json) |
 | Unknown Presence | 274508 | [274508-unknown-presence.json](./274508-unknown-presence.json) |
 | Unknown Project | 269120 | [269120-unknown-project.json](./269120-unknown-project.json) |
+| Unknown Region | 160178 | [160178-unknown-region.json](./160178-unknown-region.json) |
 | Unknown Rules | 302477 | [302477-unknown-rules.json](./302477-unknown-rules.json) |
 | Unknown Scrolls | 113719 | [113719-unknown-scrolls.json](./113719-unknown-scrolls.json) |
 | Unknown Signal: Invasion | 290695 | [290695-unknown-signal-invasion.json](./290695-unknown-signal-invasion.json) |
