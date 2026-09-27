@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandtrix+ | 280778 | [280778-sandtrix.json](./280778-sandtrix.json) |
 | Sandustry | 285974 | [285974-sandustry.json](./285974-sandustry.json) |
 | Sandvich Maker | 294431 | [294431-sandvich-maker.json](./294431-sandvich-maker.json) |
+| Sandwalkers | 165392 | [165392-sandwalkers.json](./165392-sandwalkers.json) |
 | Sandwich | 352206 | [352206-sandwich.json](./352206-sandwich.json) |
 | Sandwich Quest | 387531 | [387531-sandwich-quest.json](./387531-sandwich-quest.json) |
 | Sandwich Runner | 193845 | [193845-sandwich-runner.json](./193845-sandwich-runner.json) |
@@ -1376,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorched Sun | 375434 | [375434-scorched-sun.json](./375434-scorched-sun.json) |
 | Scorched Warfare | 323959 | [323959-scorched-warfare.json](./323959-scorched-warfare.json) |
 | Scorching Strings | 331873 | [331873-scorching-strings.json](./331873-scorching-strings.json) |
+| Scorchlands | 165401 | [165401-scorchlands.json](./165401-scorchlands.json) |
 | Scorchy Sky Trials | 402905 | [402905-scorchy-sky-trials.json](./402905-scorchy-sky-trials.json) |
 | Score 3020 | 72037 | [72037-score-3020.json](./72037-score-3020.json) |
 | Score a goal (Physical football) | 29951 | [29951-score-a-goal-physical-football.json](./29951-score-a-goal-physical-football.json) |
@@ -2098,6 +2100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Legends | 108842 | [108842-sega-legends.json](./108842-sega-legends.json) |
 | Sega Mega Drive Portable Video Game Player | 202781 | [202781-sega-mega-drive-portable-video-game-player.json](./202781-sega-mega-drive-portable-video-game-player.json) |
 | Sega Mega Drive Portable Video Game Player: Streets of Rage Special Edition | 202782 | [202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json](./202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json) |
+| Sega Network Taisen Mahjong MJ4 | 165395 | [165395-sega-network-taisen-mahjong-mj4.json](./165395-sega-network-taisen-mahjong-mj4.json) |
 | Sega Rally 2 | 1572 | [1572-sega-rally-2.json](./1572-sega-rally-2.json) |
 | Sega Rally 2006 | 1573 | [1573-sega-rally-2006.json](./1573-sega-rally-2006.json) |
 | Sega Rally Championship Plus | 374706 | [374706-sega-rally-championship-plus.json](./374706-sega-rally-championship-plus.json) |
@@ -2263,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senile Wizards | 259815 | [259815-senile-wizards.json](./259815-senile-wizards.json) |
 | Senior Sunset | 384060 | [384060-senior-sunset.json](./384060-senior-sunset.json) |
 | Senity: The Game | 116329 | [116329-senity-the-game.json](./116329-senity-the-game.json) |
+| Senjin Aleste | 165428 | [165428-senjin-aleste.json](./165428-senjin-aleste.json) |
 | Senjo no Valkyria Duel | 77367 | [77367-senjo-no-valkyria-duel.json](./77367-senjo-no-valkyria-duel.json) |
 | Senko no Ronde 2 | 29137 | [29137-senko-no-ronde-2.json](./29137-senko-no-ronde-2.json) |
 | Senko no Ronde 2: Limited Edition | 212315 | [212315-senko-no-ronde-2-limited-edition.json](./212315-senko-no-ronde-2-limited-edition.json) |
@@ -2296,6 +2300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensible Blood Rugby | 175879 | [175879-sensible-blood-rugby.json](./175879-sensible-blood-rugby.json) |
 | Sensible Blood Rugby Sevens | 122181 | [122181-sensible-blood-rugby-sevens.json](./122181-sensible-blood-rugby-sevens.json) |
 | Sensible Soccer 2006 | 20535 | [20535-sensible-soccer-2006.json](./20535-sensible-soccer-2006.json) |
+| Sensible Soccer: European Champions | 165408 | [165408-sensible-soccer-european-champions.json](./165408-sensible-soccer-european-champions.json) |
 | Sensible Soccer: European Club Edition | 79250 | [79250-sensible-soccer-european-club-edition.json](./79250-sensible-soccer-european-club-edition.json) |
 | Sensible Train-Spotting | 77374 | [77374-sensible-train-spotting.json](./77374-sensible-train-spotting.json) |
 | Sensible World of Soccer: European Championship Edition | 79251 | [79251-sensible-world-of-soccer-european-championship-edition.json](./79251-sensible-world-of-soccer-european-championship-edition.json) |
@@ -9073,6 +9078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin to Survive | 386388 | [386388-spin-to-survive.json](./386388-spin-to-survive.json) |
 | Spinal Breakers | 39666 | [39666-spinal-breakers.json](./39666-spinal-breakers.json) |
 | SpinDrive Ping Pong | 43354 | [43354-spindrive-ping-pong.json](./43354-spindrive-ping-pong.json) |
+| Spine | 165432 | [165432-spine.json](./165432-spine.json) |
 | Spine & Quill | 304630 | [304630-spine-and-quill.json](./304630-spine-and-quill.json) |
 | Spineworld | 209494 | [209494-spineworld.json](./209494-spineworld.json) |
 | Sping | 145442 | [145442-sping.json](./145442-sping.json) |
