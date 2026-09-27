@@ -2664,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Buds vs Bad Guys | 52631 | [52631-best-buds-vs-bad-guys.json](./52631-best-buds-vs-bad-guys.json) |
 | Best Election Simulator In Russia! | 217253 | [217253-best-election-simulator-in-russia.json](./217253-best-election-simulator-in-russia.json) |
 | Best Eleven: Champions Club | 196596 | [196596-best-eleven-champions-club.json](./196596-best-eleven-champions-club.json) |
+| Best Elf | 169783 | [169783-best-elf.json](./169783-best-elf.json) |
 | Best Fiends Forever | 57363 | [57363-best-fiends-forever.json](./57363-best-fiends-forever.json) |
 | Best Friends Forever | 183442 | [183442-best-friends-forever.json](./183442-best-friends-forever.json) |
 | Best Garden | 135238 | [135238-best-garden.json](./135238-best-garden.json) |
@@ -4758,6 +4759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boat Train | 227867 | [227867-boat-train.json](./227867-boat-train.json) |
 | Boat Violence: Ship Happens | 122197 | [122197-boat-violence-ship-happens.json](./122197-boat-violence-ship-happens.json) |
 | Boatgator | 253359 | [253359-boatgator.json](./253359-boatgator.json) |
+| BoatMan | 169759 | [169759-boatman.json](./169759-boatman.json) |
 | Boaty McBoatwad | 260662 | [260662-boaty-mcboatwad.json](./260662-boaty-mcboatwad.json) |
 | Boaty Tanks | 261830 | [261830-boaty-tanks.json](./261830-boaty-tanks.json) |
 | Bob | 27700 | [27700-bob.json](./27700-bob.json) |
