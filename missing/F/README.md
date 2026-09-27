@@ -2562,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Kiss at a Spooky Soiree | 144233 | [144233-first-kiss-at-a-spooky-soiree.json](./144233-first-kiss-at-a-spooky-soiree.json) |
 | First Kiss Stories | 384644 | [384644-first-kiss-stories.json](./384644-first-kiss-stories.json) |
 | First Kiss Story II | 125206 | [125206-first-kiss-story-ii.json](./125206-first-kiss-story-ii.json) |
+| First Land | 166515 | [166515-first-land.json](./166515-first-land.json) |
 | First Light | 191155 | [191155-first-light.json](./191155-first-light.json) |
 | First Light | 336721 | [336721-first-light.json](./336721-first-light.json) |
 | First Love / Late Spring | 204493 | [204493-first-love-late-spring.json](./204493-first-love-late-spring.json) |
@@ -5633,6 +5634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Woof | 322704 | [322704-furry-woof.json](./322704-furry-woof.json) |
 | FurryFury: Smash & Roll | 116361 | [116361-furryfury-smash-and-roll.json](./116361-furryfury-smash-and-roll.json) |
 | Furs of Fury | 149049 | [149049-furs-of-fury.json](./149049-furs-of-fury.json) |
+| Fursan al-Aqsa: The Knights of the Al-Aqsa Mosque | 166499 | [166499-fursan-al-aqsa-the-knights-of-the-al-aqsa-mosque.json](./166499-fursan-al-aqsa-the-knights-of-the-al-aqsa-mosque.json) |
 | FurstDate: A Furry Dating Simulator | 368127 | [368127-furstdate-a-furry-dating-simulator.json](./368127-furstdate-a-furry-dating-simulator.json) |
 | Further | 291743 | [291743-further.json](./291743-further.json) |
 | Further and Rarer | 406917 | [406917-further-and-rarer.json](./406917-further-and-rarer.json) |
