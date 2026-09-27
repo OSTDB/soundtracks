@@ -1498,6 +1498,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GG Bundle 2015 | 25986 | [25986-gg-bundle-2015.json](./25986-gg-bundle-2015.json) |
 | GG Date Me | 178567 | [178567-gg-date-me.json](./178567-gg-date-me.json) |
 | GG Portrait: Pai-chan | 46602 | [46602-gg-portrait-pai-chan.json](./46602-gg-portrait-pai-chan.json) |
+| Ggg Collection | 170854 | [170854-ggg-collection.json](./170854-ggg-collection.json) |
+| Ggg Collection: Gubbie | 170853 | [170853-ggg-collection-gubbie.json](./170853-ggg-collection-gubbie.json) |
+| Ggg Collection: The Olivia Saga | 170852 | [170852-ggg-collection-the-olivia-saga.json](./170852-ggg-collection-the-olivia-saga.json) |
 | GGX: Great Grandma Escape | 200124 | [200124-ggx-great-grandma-escape.json](./200124-ggx-great-grandma-escape.json) |
 | Ghaib | 117767 | [117767-ghaib.json](./117767-ghaib.json) |
 | Gharp | 192438 | [192438-gharp.json](./192438-gharp.json) |
@@ -4526,6 +4529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunter Abstrauer | 322771 | [322771-gunter-abstrauer.json](./322771-gunter-abstrauer.json) |
 | Guntris | 311824 | [311824-guntris.json](./311824-guntris.json) |
 | Gunvein | 211693 | [211693-gunvein.json](./211693-gunvein.json) |
+| Gunvolt Chronicles: Luminous Avenger iX - Extra Mission: "VS ???" | 170842 | [170842-gunvolt-chronicles-luminous-avenger-ix-extra-mission-vs.json](./170842-gunvolt-chronicles-luminous-avenger-ix-extra-mission-vs.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Jason Frudnick | 196153 | [196153-gunvolt-chronicles-luminous-avenger-ix-2-jason-frudnick.json](./196153-gunvolt-chronicles-luminous-avenger-ix-2-jason-frudnick.json) |
 | Gunvolt Chronicles: Luminous Avenger iX2 - Special DLC Boss: Kirin | 199931 | [199931-gunvolt-chronicles-luminous-avenger-ix2-special-dlc-boss-kirin.json](./199931-gunvolt-chronicles-luminous-avenger-ix2-special-dlc-boss-kirin.json) |
 | Gunvolt Records Cychronicle: Song Pack 6 | 294845 | [294845-gunvolt-records-cychronicle-song-pack-6.json](./294845-gunvolt-records-cychronicle-song-pack-6.json) |
