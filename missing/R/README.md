@@ -1015,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ray'z Arcade Chronology | 207918 | [207918-rayz-arcade-chronology.json](./207918-rayz-arcade-chronology.json) |
 | Ray'z Arcade Chronology: Special Limited Edition | 212331 | [212331-rayz-arcade-chronology-special-limited-edition.json](./212331-rayz-arcade-chronology-special-limited-edition.json) |
 | Rayadium | 341306 | [341306-rayadium.json](./341306-rayadium.json) |
+| Rayball | 119657 | [119657-rayball.json](./119657-rayball.json) |
 | Raybeem | 369204 | [369204-raybeem.json](./369204-raybeem.json) |
 | Raybound | 145683 | [145683-raybound.json](./145683-raybound.json) |
 | RayCity | 116391 | [116391-raycity.json](./116391-raycity.json) |
@@ -4124,6 +4125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Rush | 99633 | [99633-rocket-rush.json](./99633-rocket-rush.json) |
 | Rocket Science | 232417 | [232417-rocket-science.json](./232417-rocket-science.json) |
 | Rocket Shooting | 403001 | [403001-rocket-shooting.json](./403001-rocket-shooting.json) |
+| Rocket Sky! | 119647 | [119647-rocket-sky.json](./119647-rocket-sky.json) |
 | Rocket Smash | 273642 | [273642-rocket-smash.json](./273642-rocket-smash.json) |
 | Rocket Space Ship Frontier | 243091 | [243091-rocket-space-ship-frontier.json](./243091-rocket-space-ship-frontier.json) |
 | Rocket Spin Orbit Glide | 369128 | [369128-rocket-spin-orbit-glide.json](./369128-rocket-spin-orbit-glide.json) |
