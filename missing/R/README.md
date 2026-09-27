@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Dungeon | 260725 | [260725-random-dungeon.json](./260725-random-dungeon.json) |
 | Random Dungeon Game | 333018 | [333018-random-dungeon-game.json](./333018-random-dungeon-game.json) |
 | Random Number God | 184625 | [184625-random-number-god.json](./184625-random-number-god.json) |
+| Random Platformer | 169785 | [169785-random-platformer.json](./169785-random-platformer.json) |
 | Random Quest : First Person RPG | 103505 | [103505-random-quest-first-person-rpg.json](./103505-random-quest-first-person-rpg.json) |
 | Random Racing | 159124 | [159124-random-racing.json](./159124-random-racing.json) |
 | Random Thing Game | 236278 | [236278-random-thing-game.json](./236278-random-thing-game.json) |
@@ -2288,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Race | 243810 | [243810-rescue-race.json](./243810-rescue-race.json) |
 | Rescue Raider | 38564 | [38564-rescue-raider.json](./38564-rescue-raider.json) |
 | Rescue Raiders | 25777 | [25777-rescue-raiders.json](./25777-rescue-raiders.json) |
+| Rescue Rina | 169797 | [169797-rescue-rina.json](./169797-rescue-rina.json) |
 | Rescue Roby | 68933 | [68933-rescue-roby.json](./68933-rescue-roby.json) |
 | Rescue Rover 2 | 72110 | [72110-rescue-rover-2.json](./72110-rescue-rover-2.json) |
 | Rescue Rover Collection | 150692 | [150692-rescue-rover-collection.json](./150692-rescue-rover-collection.json) |
@@ -3073,6 +3075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riff: The Music Trivia DVD Game | 360767 | [360767-riff-the-music-trivia-dvd-game.json](./360767-riff-the-music-trivia-dvd-game.json) |
 | Riffle Effect | 217511 | [217511-riffle-effect.json](./217511-riffle-effect.json) |
 | RiffTrax: The Game | 194462 | [194462-rifftrax-the-game.json](./194462-rifftrax-the-game.json) |
+| Rifle Dodger | 169774 | [169774-rifle-dodger.json](./169774-rifle-dodger.json) |
 | Rifle MarksMan | 119787 | [119787-rifle-marksman.json](./119787-rifle-marksman.json) |
 | Rifle Strike | 149539 | [149539-rifle-strike.json](./149539-rifle-strike.json) |
 | Rift | 368036 | [368036-rift.json](./368036-rift.json) |
@@ -4083,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky Mountain Trophy Hunter: Alaskan Expedition | 69084 | [69084-rocky-mountain-trophy-hunter-alaskan-expedition.json](./69084-rocky-mountain-trophy-hunter-alaskan-expedition.json) |
 | Rocky Mountain: Trophy Hunter | 249158 | [249158-rocky-mountain-trophy-hunter.json](./249158-rocky-mountain-trophy-hunter.json) |
 | Rocky Mountain: Trophy Hunter | 49946 | [49946-rocky-mountain-trophy-hunter.json](./49946-rocky-mountain-trophy-hunter.json) |
+| Rocky Ride | 169801 | [169801-rocky-ride.json](./169801-rocky-ride.json) |
 | Rocky Rodent | 42648 | [42648-rocky-rodent.json](./42648-rocky-rodent.json) |
 | Rocky Towers: Puzzle Defense | 237378 | [237378-rocky-towers-puzzle-defense.json](./237378-rocky-towers-puzzle-defense.json) |
 | Rocky Wings | 265184 | [265184-rocky-wings.json](./265184-rocky-wings.json) |
@@ -4833,6 +4837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Creator for iOS | 61099 | [61099-rpg-creator-for-ios.json](./61099-rpg-creator-for-ios.json) |
 | RPG Driver | 126560 | [126560-rpg-driver.json](./126560-rpg-driver.json) |
 | RPG Golf with Vampires | 263759 | [263759-rpg-golf-with-vampires.json](./263759-rpg-golf-with-vampires.json) |
+| RPG Idle | 169796 | [169796-rpg-idle.json](./169796-rpg-idle.json) |
 | RPG Maker 2003 | 53529 | [53529-rpg-maker-2003.json](./53529-rpg-maker-2003.json) |
 | RPG Maker 3 | 24144 | [24144-rpg-maker-3.json](./24144-rpg-maker-3.json) |
 | RPG Maker Coloring Book | 338946 | [338946-rpg-maker-coloring-book.json](./338946-rpg-maker-coloring-book.json) |
