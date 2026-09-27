@@ -2340,6 +2340,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa and the Grimoire | 169413 | [169413-lisa-and-the-grimoire.json](./169413-lisa-and-the-grimoire.json) |
 | Lisa Joyful in Hopeful | 348964 | [348964-lisa-joyful-in-hopeful.json](./348964-lisa-joyful-in-hopeful.json) |
 | Lisa the Joyful: Growing Pains | 208301 | [208301-lisa-the-joyful-growing-pains.json](./208301-lisa-the-joyful-growing-pains.json) |
+| Lisa the Vegaful | 172483 | [172483-lisa-the-vegaful.json](./172483-lisa-the-vegaful.json) |
+| Lisa: Is Fearless | 172490 | [172490-lisa-is-fearless.json](./172490-lisa-is-fearless.json) |
+| Lisa: The Bashful | 172484 | [172484-lisa-the-bashful.json](./172484-lisa-the-bashful.json) |
 | Lisa: The First | 26652 | [26652-lisa-the-first.json](./26652-lisa-the-first.json) |
 | Lisa: The Gluttonous | 382794 | [382794-lisa-the-gluttonous.json](./382794-lisa-the-gluttonous.json) |
 | Lisa: The Oblivious | 215082 | [215082-lisa-the-oblivious.json](./215082-lisa-the-oblivious.json) |
