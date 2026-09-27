@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ziggy Road | 235136 | [235136-ziggy-road.json](./235136-ziggy-road.json) |
 | Ziggy's Labyrinth | 286573 | [286573-ziggys-labyrinth.json](./286573-ziggys-labyrinth.json) |
 | ZigZag | 26920 | [26920-zigzag.json](./26920-zigzag.json) |
+| Zigzag Infinite Runner | 123480 | [123480-zigzag-infinite-runner.json](./123480-zigzag-infinite-runner.json) |
 | Ziircon | 211277 | [211277-ziircon.json](./211277-ziircon.json) |
 | ZikSquare | 124130 | [124130-ziksquare.json](./124130-ziksquare.json) |
 | Zill O'll | 94007 | [94007-zill-oll.json](./94007-zill-oll.json) |
