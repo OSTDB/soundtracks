@@ -2824,6 +2824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Llamas With Hats: Cruise Catastrophe | 63336 | [63336-llamas-with-hats-cruise-catastrophe.json](./63336-llamas-with-hats-cruise-catastrophe.json) |
 | Llamatron: 2112 | 50117 | [50117-llamatron-2112.json](./50117-llamatron-2112.json) |
 | Llamero | 404407 | [404407-llamero.json](./404407-llamero.json) |
+| Llhore | 122939 | [122939-llhore.json](./122939-llhore.json) |
 | LLM x Quiz | 369055 | [369055-llm-x-quiz.json](./369055-llm-x-quiz.json) |
 | Llorona | 177313 | [177313-llorona.json](./177313-llorona.json) |
 | Lloyd the Monkey | 266214 | [266214-lloyd-the-monkey.json](./266214-lloyd-the-monkey.json) |
@@ -4081,6 +4082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LumberQwaxes | 154013 | [154013-lumberqwaxes.json](./154013-lumberqwaxes.json) |
 | LumberReborn | 217822 | [217822-lumberreborn.json](./217822-lumberreborn.json) |
 | Lumboo | 397093 | [397093-lumboo.json](./397093-lumboo.json) |
+| Lume and the Shifting Void | 122952 | [122952-lume-and-the-shifting-void.json](./122952-lume-and-the-shifting-void.json) |
 | Lumeera and the Glow Reefs | 406803 | [406803-lumeera-and-the-glow-reefs.json](./406803-lumeera-and-the-glow-reefs.json) |
 | Lumen | 292608 | [292608-lumen.json](./292608-lumen.json) |
 | Lumen Race | 370776 | [370776-lumen-race.json](./370776-lumen-race.json) |
