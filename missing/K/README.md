@@ -1299,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Hand: Exotic Zeus Pack | 230920 | [230920-kings-hand-exotic-zeus-pack.json](./230920-kings-hand-exotic-zeus-pack.json) |
 | King's Hand: Seasonal Winter Pack | 230918 | [230918-kings-hand-seasonal-winter-pack.json](./230918-kings-hand-seasonal-winter-pack.json) |
 | King's Heir: Rise to the Throne | 102885 | [102885-kings-heir-rise-to-the-throne.json](./102885-kings-heir-rise-to-the-throne.json) |
+| King's Helper | 173039 | [173039-kings-helper.json](./173039-kings-helper.json) |
 | King's Knight | 307938 | [307938-kings-knight.json](./307938-kings-knight.json) |
 | King's Knight Special | 307937 | [307937-kings-knight-special.json](./307937-kings-knight-special.json) |
 | King's League II | 113688 | [113688-kings-league-ii.json](./113688-kings-league-ii.json) |
