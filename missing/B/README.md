@@ -4190,6 +4190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blob King | 124762 | [124762-blob-king.json](./124762-blob-king.json) |
 | Blob Quest | 213391 | [213391-blob-quest.json](./213391-blob-quest.json) |
 | Blob Wars | 294472 | [294472-blob-wars.json](./294472-blob-wars.json) |
+| Blob Wars: Attrition | 144887 | [144887-blob-wars-attrition.json](./144887-blob-wars-attrition.json) |
 | Blob Wars: Metal Blob Solid | 178552 | [178552-blob-wars-metal-blob-solid.json](./178552-blob-wars-metal-blob-solid.json) |
 | Blob's Adventure | 344389 | [344389-blobs-adventure.json](./344389-blobs-adventure.json) |
 | Blob's Adventure | 395875 | [395875-blobs-adventure.json](./395875-blobs-adventure.json) |
