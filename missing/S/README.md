@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sagittarius: The Lost and Cursed | 352225 | [352225-sagittarius-the-lost-and-cursed.json](./352225-sagittarius-the-lost-and-cursed.json) |
 | Sago Mini Forest Flyer | 200108 | [200108-sago-mini-forest-flyer.json](./200108-sago-mini-forest-flyer.json) |
 | SAHUR: Escape Together | 367936 | [367936-sahur-escape-together.json](./367936-sahur-escape-together.json) |
+| Sai | 133880 | [133880-sai.json](./133880-sai.json) |
 | Sai | 185100 | [185100-sai.json](./185100-sai.json) |
 | Saiaku Tantei Kanojo | 150115 | [150115-saiaku-tantei-kanojo.json](./150115-saiaku-tantei-kanojo.json) |
 | SaiBorRai | 292674 | [292674-saiborrai.json](./292674-saiborrai.json) |
@@ -5547,6 +5548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayin 2 | 134021 | [134021-slayin-2.json](./134021-slayin-2.json) |
 | Slayin DX | 266754 | [266754-slayin-dx.json](./266754-slayin-dx.json) |
 | Slayser | 238760 | [238760-slayser.json](./238760-slayser.json) |
+| SlaytheCube Remake | 133898 | [133898-slaythecube-remake.json](./133898-slaythecube-remake.json) |
 | Sled Bandit | 255731 | [255731-sled-bandit.json](./255731-sled-bandit.json) |
 | Sled Riders | 301003 | [301003-sled-riders.json](./301003-sled-riders.json) |
 | Sled Storm | 8264 | [8264-sled-storm.json](./8264-sled-storm.json) |
@@ -6240,6 +6242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Den | 84876 | [84876-snake-den.json](./84876-snake-den.json) |
 | Snake Dice | 364679 | [364679-snake-dice.json](./364679-snake-dice.json) |
 | Snake Echos | 417645 | [417645-snake-echos.json](./417645-snake-echos.json) |
+| Snake EX | 133869 | [133869-snake-ex.json](./133869-snake-ex.json) |
 | Snake Eyes | 369733 | [369733-snake-eyes.json](./369733-snake-eyes.json) |
 | Snake Flow | 37061 | [37061-snake-flow.json](./37061-snake-flow.json) |
 | Snake Force | 182382 | [182382-snake-force.json](./182382-snake-force.json) |
@@ -6259,9 +6262,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Plissken's Escape | 67295 | [67295-snake-plisskens-escape.json](./67295-snake-plisskens-escape.json) |
 | Snake Princess | 350536 | [350536-snake-princess.json](./350536-snake-princess.json) |
 | Snake Quest | 261517 | [261517-snake-quest.json](./261517-snake-quest.json) |
+| Snake Real World | 133874 | [133874-snake-real-world.json](./133874-snake-real-world.json) |
 | Snake Roy | 210642 | [210642-snake-roy.json](./210642-snake-roy.json) |
 | Snake Vs Colours | 108446 | [108446-snake-vs-colours.json](./108446-snake-vs-colours.json) |
 | Snake vs Snake | 110801 | [110801-snake-vs-snake.json](./110801-snake-vs-snake.json) |
+| Snake Xenzia | 133868 | [133868-snake-xenzia.json](./133868-snake-xenzia.json) |
+| Snake Xenzia | 133872 | [133872-snake-xenzia.json](./133872-snake-xenzia.json) |
 | Snake-A-Roid | 377840 | [377840-snake-a-roid.json](./377840-snake-a-roid.json) |
 | Snake-a-roni | 230937 | [230937-snake-a-roni.json](./230937-snake-a-roni.json) |
 | Snake-O-Tron | 288239 | [288239-snake-o-tron.json](./288239-snake-o-tron.json) |
@@ -6292,6 +6298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakes LTD | 265921 | [265921-snakes-ltd.json](./265921-snakes-ltd.json) |
 | Snakes LTD VR | 264010 | [264010-snakes-ltd-vr.json](./264010-snakes-ltd-vr.json) |
 | Snakes On A Cartesian Plane | 272307 | [272307-snakes-on-a-cartesian-plane.json](./272307-snakes-on-a-cartesian-plane.json) |
+| Snakes Subsonic | 133871 | [133871-snakes-subsonic.json](./133871-snakes-subsonic.json) |
 | Snakes with Fists! | 343271 | [343271-snakes-with-fists.json](./343271-snakes-with-fists.json) |
 | Snakest | 109773 | [109773-snakest.json](./109773-snakest.json) |
 | Snaky Cat | 337093 | [337093-snaky-cat.json](./337093-snaky-cat.json) |
@@ -9423,6 +9430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants Saves the Krusty Krab | 135810 | [135810-spongebob-squarepants-saves-the-krusty-krab.json](./135810-spongebob-squarepants-saves-the-krusty-krab.json) |
 | SpongeBob SquarePants Talking Heads | 382919 | [382919-spongebob-squarepants-talking-heads.json](./382919-spongebob-squarepants-talking-heads.json) |
 | SpongeBob SquarePants: A Day in the Life of a Sponge | 73000 | [73000-spongebob-squarepants-a-day-in-the-life-of-a-sponge.json](./73000-spongebob-squarepants-a-day-in-the-life-of-a-sponge.json) |
+| SpongeBob SquarePants: Battle for Bikini Bottom | 133910 | [133910-spongebob-squarepants-battle-for-bikini-bottom.json](./133910-spongebob-squarepants-battle-for-bikini-bottom.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom | 261266 | [261266-spongebob-squarepants-battle-for-bikini-bottom.json](./261266-spongebob-squarepants-battle-for-bikini-bottom.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom - Beta Mod | 413219 | [413219-spongebob-squarepants-battle-for-bikini-bottom-beta-mod.json](./413219-spongebob-squarepants-battle-for-bikini-bottom-beta-mod.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom - Sock Expedition Extreme | 308374 | [308374-spongebob-squarepants-battle-for-bikini-bottom-sock-expedition-extreme.json](./308374-spongebob-squarepants-battle-for-bikini-bottom-sock-expedition-extreme.json) |
