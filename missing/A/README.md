@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Building Full of Cats 2 | 301592 | [301592-a-building-full-of-cats-2.json](./301592-a-building-full-of-cats-2.json) |
 | A Business Tycoon | 68025 | [68025-a-business-tycoon.json](./68025-a-business-tycoon.json) |
 | A Butterfly's Dream | 194996 | [194996-a-butterflys-dream.json](./194996-a-butterflys-dream.json) |
+| A Buttload of Free Games | 135226 | [135226-a-buttload-of-free-games.json](./135226-a-buttload-of-free-games.json) |
 | A Caçadora: Sorriso de Vampiro | 215792 | [215792-a-cacadora-sorriso-de-vampiro.json](./215792-a-cacadora-sorriso-de-vampiro.json) |
 | A Cafe at the End of the World | 389588 | [389588-a-cafe-at-the-end-of-the-world.json](./389588-a-cafe-at-the-end-of-the-world.json) |
 | A Café Couple's Joyful Life of Resistance | 343239 | [343239-a-cafe-couples-joyful-life-of-resistance.json](./343239-a-cafe-couples-joyful-life-of-resistance.json) |
@@ -621,11 +622,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC's Featuring the Jungle Jukebox | 392413 | [392413-abcs-featuring-the-jungle-jukebox.json](./392413-abcs-featuring-the-jungle-jukebox.json) |
 | ABD: A Beautiful Day | 34900 | [34900-abd-a-beautiful-day.json](./34900-abd-a-beautiful-day.json) |
 | Abduct and Destroy! | 182543 | [182543-abduct-and-destroy.json](./182543-abduct-and-destroy.json) |
+| Abducted Toad | 135096 | [135096-abducted-toad.json](./135096-abducted-toad.json) |
 | Abducted: The Night Hunters | 145578 | [145578-abducted-the-night-hunters.json](./145578-abducted-the-night-hunters.json) |
 | Abducting Mjolnir | 180759 | [180759-abducting-mjolnir.json](./180759-abducting-mjolnir.json) |
 | Abduction Episode 1: Her Name Was Sarah | 32170 | [32170-abduction-episode-1-her-name-was-sarah.json](./32170-abduction-episode-1-her-name-was-sarah.json) |
 | Abduction Escape | 337117 | [337117-abduction-escape.json](./337117-abduction-escape.json) |
 | Abe VR | 33117 | [33117-abe-vr.json](./33117-abe-vr.json) |
+| Abenteuer Landtag 2 | 135093 | [135093-abenteuer-landtag-2.json](./135093-abenteuer-landtag-2.json) |
 | Abermore | 191621 | [191621-abermore.json](./191621-abermore.json) |
 | Aberrant Nights | 304671 | [304671-aberrant-nights.json](./304671-aberrant-nights.json) |
 | Abh | 173184 | [173184-abh.json](./173184-abh.json) |
@@ -903,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achtung Franz: Quest for Wine | 314993 | [314993-achtung-franz-quest-for-wine.json](./314993-achtung-franz-quest-for-wine.json) |
 | Achtung Spitfire | 86015 | [86015-achtung-spitfire.json](./86015-achtung-spitfire.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
+| Acid Moon | 135092 | [135092-acid-moon.json](./135092-acid-moon.json) |
 | Acid Reflux | 274437 | [274437-acid-reflux.json](./274437-acid-reflux.json) |
 | Acid Spy | 102877 | [102877-acid-spy.json](./102877-acid-spy.json) |
 | Acid Worship | 271740 | [271740-acid-worship.json](./271740-acid-worship.json) |
@@ -1461,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agartha Platform 81!: City of Angels | 400499 | [400499-agartha-platform-81-city-of-angels.json](./400499-agartha-platform-81-city-of-angels.json) |
 | Agassi Tennis Generation | 248735 | [248735-agassi-tennis-generation.json](./248735-agassi-tennis-generation.json) |
 | Agatha Christie: 4:50 from Paddington | 135245 | [135245-agatha-christie-4-50-from-paddington.json](./135245-agatha-christie-4-50-from-paddington.json) |
+| Agatha Christie: Dead Man's Folly | 135105 | [135105-agatha-christie-dead-mans-folly.json](./135105-agatha-christie-dead-mans-folly.json) |
 | Agatha Christie: Death on the Nile | 21134 | [21134-agatha-christie-death-on-the-nile.json](./21134-agatha-christie-death-on-the-nile.json) |
 | Agatha Christie: Hercule Poirot - The First Cases | 159123 | [159123-agatha-christie-hercule-poirot-the-first-cases.json](./159123-agatha-christie-hercule-poirot-the-first-cases.json) |
 | Agatha Christie: Hercule Poirot - The London Case: Deluxe | 276303 | [276303-agatha-christie-hercule-poirot-the-london-case-deluxe.json](./276303-agatha-christie-hercule-poirot-the-london-case-deluxe.json) |
@@ -1534,6 +1539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders: Planetfall - Star Kings | 148927 | [148927-age-of-wonders-planetfall-star-kings.json](./148927-age-of-wonders-planetfall-star-kings.json) |
 | Age of Zombies | 8628 | [8628-age-of-zombies.json](./8628-age-of-zombies.json) |
 | Ageless Machine: Cup of Tea | 180716 | [180716-ageless-machine-cup-of-tea.json](./180716-ageless-machine-cup-of-tea.json) |
+| Agence | 135115 | [135115-agence.json](./135115-agence.json) |
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
 | Agent 01 | 199400 | [199400-agent-01.json](./199400-agent-01.json) |
 | Agent A & Down in Bermuda Bundle | 380693 | [380693-agent-a-and-down-in-bermuda-bundle.json](./380693-agent-a-and-down-in-bermuda-bundle.json) |
