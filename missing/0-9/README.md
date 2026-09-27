@@ -479,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1944 Burning Bridges | 56464 | [56464-1944-burning-bridges.json](./56464-1944-burning-bridges.json) |
 | 1953: KGB Unleashed | 9771 | [9771-1953-kgb-unleashed.json](./9771-1953-kgb-unleashed.json) |
 | 1953: NATO vs Warsaw Pact | 17886 | [17886-1953-nato-vs-warsaw-pact.json](./17886-1953-nato-vs-warsaw-pact.json) |
+| 1968 | 141731 | [141731-1968.json](./141731-1968.json) |
 | 1971: Indian Naval Front | 110956 | [110956-1971-indian-naval-front.json](./110956-1971-indian-naval-front.json) |
 | 1977: Radio Aut | 135236 | [135236-1977-radio-aut.json](./135236-1977-radio-aut.json) |
 | 1979 Revolution: Black Friday | 14360 | [14360-1979-revolution-black-friday.json](./14360-1979-revolution-black-friday.json) |
