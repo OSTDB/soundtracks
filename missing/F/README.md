@@ -1930,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Until Death | 219783 | [219783-fight-until-death.json](./219783-fight-until-death.json) |
 | Fight With Valkyries | 368565 | [368565-fight-with-valkyries.json](./368565-fight-with-valkyries.json) |
 | Fight with WWE Champion | 196583 | [196583-fight-with-wwe-champion.json](./196583-fight-with-wwe-champion.json) |
+| Fight,to the last | 127869 | [127869-fight-to-the-last.json](./127869-fight-to-the-last.json) |
 | Fight'N Rage | 59573 | [59573-fightn-rage.json](./59573-fightn-rage.json) |
 | FightBit | 250956 | [250956-fightbit.json](./250956-fightbit.json) |
 | FightBots | 259859 | [259859-fightbots.json](./259859-fightbots.json) |
@@ -2128,11 +2129,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII | 207021 | [207021-final-fantasy-vii.json](./207021-final-fantasy-vii.json) |
 | Final Fantasy VII | 392808 | [392808-final-fantasy-vii.json](./392808-final-fantasy-vii.json) |
 | Final Fantasy VII | 393025 | [393025-final-fantasy-vii.json](./393025-final-fantasy-vii.json) |
+| Final Fantasy VII & Final Fantasy VIII Remastered Twin Pack | 127879 | [127879-final-fantasy-vii-and-final-fantasy-viii-remastered-twin-pack.json](./127879-final-fantasy-vii-and-final-fantasy-viii-remastered-twin-pack.json) |
 | Final Fantasy VII + VIII Double Pack | 55049 | [55049-final-fantasy-vii-viii-double-pack.json](./55049-final-fantasy-vii-viii-double-pack.json) |
 | Final Fantasy VII G-Bike | 7398 | [7398-final-fantasy-vii-g-bike.json](./7398-final-fantasy-vii-g-bike.json) |
 | Final Fantasy VII Remake: 1st Class Edition | 136353 | [136353-final-fantasy-vii-remake-1st-class-edition.json](./136353-final-fantasy-vii-remake-1st-class-edition.json) |
 | Final Fantasy VII Remake: Digital Deluxe Edition | 119576 | [119576-final-fantasy-vii-remake-digital-deluxe-edition.json](./119576-final-fantasy-vii-remake-digital-deluxe-edition.json) |
 | Final Fantasy VII Remake: Digital Deluxe Upgrade | 133299 | [133299-final-fantasy-vii-remake-digital-deluxe-upgrade.json](./133299-final-fantasy-vii-remake-digital-deluxe-upgrade.json) |
+| Final Fantasy VII Snowboarding | 127832 | [127832-final-fantasy-vii-snowboarding.json](./127832-final-fantasy-vii-snowboarding.json) |
 | Final Fantasy VII: Regenesis | 394328 | [394328-final-fantasy-vii-regenesis.json](./394328-final-fantasy-vii-regenesis.json) |
 | Final Fantasy X International | 146774 | [146774-final-fantasy-x-international.json](./146774-final-fantasy-x-international.json) |
 | Final Fantasy X-2 International + Last Mission | 146852 | [146852-final-fantasy-x-2-international-last-mission.json](./146852-final-fantasy-x-2-international-last-mission.json) |
@@ -2178,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy: Explorers | 7413 | [7413-final-fantasy-explorers.json](./7413-final-fantasy-explorers.json) |
 | Final Fantasy: Pixel Remaster Collection | 159253 | [159253-final-fantasy-pixel-remaster-collection.json](./159253-final-fantasy-pixel-remaster-collection.json) |
 | Final Fantasy: The 4 Heroes of Light | 17463 | [17463-final-fantasy-the-4-heroes-of-light.json](./17463-final-fantasy-the-4-heroes-of-light.json) |
+| Final Fantasy: World Wide Words | 127876 | [127876-final-fantasy-world-wide-words.json](./127876-final-fantasy-world-wide-words.json) |
 | Final Fight 3 | 223016 | [223016-final-fight-3.json](./223016-final-fight-3.json) |
 | Final Fight Guy | 42554 | [42554-final-fight-guy.json](./42554-final-fight-guy.json) |
 | Final Fight One | 1663 | [1663-final-fight-one.json](./1663-final-fight-one.json) |
