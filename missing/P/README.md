@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora | 249207 | [249207-pandora.json](./249207-pandora.json) |
 | Pandora | 255144 | [255144-pandora.json](./255144-pandora.json) |
 | Pandora Saga: Weapons of Balance | 78647 | [78647-pandora-saga-weapons-of-balance.json](./78647-pandora-saga-weapons-of-balance.json) |
+| Pandora: First Contact - Eclipse of Nashira | 170827 | [170827-pandora-first-contact-eclipse-of-nashira.json](./170827-pandora-first-contact-eclipse-of-nashira.json) |
 | Pandora: Kimi no Namae wo, Boku ha Shiru | 221825 | [221825-pandora-kimi-no-namae-wo-boku-ha-shiru.json](./221825-pandora-kimi-no-namae-wo-boku-ha-shiru.json) |
 | Pandora: Purge of Pride | 62995 | [62995-pandora-purge-of-pride.json](./62995-pandora-purge-of-pride.json) |
 | Pandora's Box | 76200 | [76200-pandoras-box.json](./76200-pandoras-box.json) |
@@ -3982,6 +3983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayStation Move Heroes | 19664 | [19664-playstation-move-heroes.json](./19664-playstation-move-heroes.json) |
 | PlayStation Vita Pets | 63011 | [63011-playstation-vita-pets.json](./63011-playstation-vita-pets.json) |
 | Playthings: VR Music Vacation | 32881 | [32881-playthings-vr-music-vacation.json](./32881-playthings-vr-music-vacation.json) |
+| Playtime | 170847 | [170847-playtime.json](./170847-playtime.json) |
 | Playtown 2 | 281396 | [281396-playtown-2.json](./281396-playtown-2.json) |
 | Playtown 3 | 342289 | [342289-playtown-3.json](./342289-playtown-3.json) |
 | Playtown Genesis | 319376 | [319376-playtown-genesis.json](./319376-playtown-genesis.json) |
@@ -3990,6 +3992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playtron | 56155 | [56155-playtron.json](./56155-playtron.json) |
 | PlayVille | 366253 | [366253-playville.json](./366253-playville.json) |
 | Playworld Superheroes | 23230 | [23230-playworld-superheroes.json](./23230-playworld-superheroes.json) |
+| PlayZ | 170833 | [170833-playz.json](./170833-playz.json) |
 | Plaza Security | 306427 | [306427-plaza-security.json](./306427-plaza-security.json) |
 | PlazaSoup | 408908 | [408908-plazasoup.json](./408908-plazasoup.json) |
 | Plazma Burst: Forward to the Past | 124039 | [124039-plazma-burst-forward-to-the-past.json](./124039-plazma-burst-forward-to-the-past.json) |
