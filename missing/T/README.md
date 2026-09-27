@@ -5341,6 +5341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Life of Saint Fiona Bianco Xena | 191748 | [191748-the-life-of-saint-fiona-bianco-xena.json](./191748-the-life-of-saint-fiona-bianco-xena.json) |
 | The Life Threads | 225261 | [225261-the-life-threads.json](./225261-the-life-threads.json) |
 | The Lifetime | 218473 | [218473-the-lifetime.json](./218473-the-lifetime.json) |
+| The Light at the End of the Ocean | 168635 | [168635-the-light-at-the-end-of-the-ocean.json](./168635-the-light-at-the-end-of-the-ocean.json) |
 | The Light Box | 242557 | [242557-the-light-box.json](./242557-the-light-box.json) |
 | The Light Brigade | 224505 | [224505-the-light-brigade.json](./224505-the-light-brigade.json) |
 | The Light Corridor | 12438 | [12438-the-light-corridor.json](./12438-the-light-corridor.json) |
@@ -7703,6 +7704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Viking Game | 89704 | [89704-the-viking-game.json](./89704-the-viking-game.json) |
 | The Vikings | 37188 | [37188-the-vikings.json](./37188-the-vikings.json) |
 | The Villa of Pain | 272925 | [272925-the-villa-of-pain.json](./272925-the-villa-of-pain.json) |
+| The Village | 168634 | [168634-the-village.json](./168634-the-village.json) |
 | The Village | 74391 | [74391-the-village.json](./74391-the-village.json) |
 | The Village of Archensheen | 268725 | [268725-the-village-of-archensheen.json](./268725-the-village-of-archensheen.json) |
 | The VIllage of Eri | 289953 | [289953-the-village-of-eri.json](./289953-the-village-of-eri.json) |
