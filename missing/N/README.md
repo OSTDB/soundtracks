@@ -283,6 +283,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Shippuden: Ultimate Ninja Blazing | 79298 | [79298-naruto-shippuden-ultimate-ninja-blazing.json](./79298-naruto-shippuden-ultimate-ninja-blazing.json) |
 | Naruto Shippuden: Ultimate Ninja Heroes 3 | 42855 | [42855-naruto-shippuden-ultimate-ninja-heroes-3.json](./42855-naruto-shippuden-ultimate-ninja-heroes-3.json) |
 | Naruto Shippuden: Ultimate Ninja Impact | 19649 | [19649-naruto-shippuden-ultimate-ninja-impact.json](./19649-naruto-shippuden-ultimate-ninja-impact.json) |
+| Naruto Shippuden: Ultimate Ninja Storm 4 - Gaara's Tale Extra Scenario | 168159 | [168159-naruto-shippuden-ultimate-ninja-storm-4-gaaras-tale-extra-scenario.json](./168159-naruto-shippuden-ultimate-ninja-storm-4-gaaras-tale-extra-scenario.json) |
+| Naruto Shippuden: Ultimate Ninja Storm 4 - Road to Boruto Next Generations | 168161 | [168161-naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto-next-generations.json](./168161-naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto-next-generations.json) |
+| Naruto Shippuden: Ultimate Ninja Storm 4 - Shikamaru's Tale Extra Scenario | 168160 | [168160-naruto-shippuden-ultimate-ninja-storm-4-shikamarus-tale-extra-scenario.json](./168160-naruto-shippuden-ultimate-ninja-storm-4-shikamarus-tale-extra-scenario.json) |
+| Naruto Shippuden: Ultimate Ninja Storm 4 - The Sound Four Characters | 168158 | [168158-naruto-shippuden-ultimate-ninja-storm-4-the-sound-four-characters.json](./168158-naruto-shippuden-ultimate-ninja-storm-4-the-sound-four-characters.json) |
 | Naruto Shippuden: Ultimate Ninja Storm Collection | 44562 | [44562-naruto-shippuden-ultimate-ninja-storm-collection.json](./44562-naruto-shippuden-ultimate-ninja-storm-collection.json) |
 | Naruto Shippuden: Ultimate Ninja Storm Generations | 7100 | [7100-naruto-shippuden-ultimate-ninja-storm-generations.json](./7100-naruto-shippuden-ultimate-ninja-storm-generations.json) |
 | Naruto Shippuden: Ultimate Ninja Storm Legacy | 28177 | [28177-naruto-shippuden-ultimate-ninja-storm-legacy.json](./28177-naruto-shippuden-ultimate-ninja-storm-legacy.json) |
