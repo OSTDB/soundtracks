@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Griddlers 2 | 101555 | [101555-magic-griddlers-2.json](./101555-magic-griddlers-2.json) |
 | Magic Heart | 114996 | [114996-magic-heart.json](./114996-magic-heart.json) |
 | Magic Hero Incremental | 386446 | [386446-magic-hero-incremental.json](./386446-magic-hero-incremental.json) |
+| Magic Heroes | 120261 | [120261-magic-heroes.json](./120261-magic-heroes.json) |
 | Magic Island Escape | 315472 | [315472-magic-island-escape.json](./315472-magic-island-escape.json) |
 | Magic Island Escape 2 | 315473 | [315473-magic-island-escape-2.json](./315473-magic-island-escape-2.json) |
 | Magic Island Escape 3 | 315474 | [315474-magic-island-escape-3.json](./315474-magic-island-escape-3.json) |
@@ -3094,6 +3095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega City Void | 190105 | [190105-mega-city-void.json](./190105-mega-city-void.json) |
 | Mega Collection: 8 Amazing Games - Volume 2 | 409542 | [409542-mega-collection-8-amazing-games-volume-2.json](./409542-mega-collection-8-amazing-games-volume-2.json) |
 | Mega Custom Night | 389412 | [389412-mega-custom-night.json](./389412-mega-custom-night.json) |
+| Mega Dead Pixel | 120241 | [120241-mega-dead-pixel.json](./120241-mega-dead-pixel.json) |
 | Mega Deal Card | 390276 | [390276-mega-deal-card.json](./390276-mega-deal-card.json) |
 | Mega Demon Blaster | 207379 | [207379-mega-demon-blaster.json](./207379-mega-demon-blaster.json) |
 | Mega Drive | 305267 | [305267-mega-drive.json](./305267-mega-drive.json) |
@@ -5933,6 +5935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mob Control: Triple Backup | 277899 | [277899-mob-control-triple-backup.json](./277899-mob-control-triple-backup.json) |
 | Mob Drop Castle | 406078 | [406078-mob-drop-castle.json](./406078-mob-drop-castle.json) |
 | Mob Enforcer | 78380 | [78380-mob-enforcer.json](./78380-mob-enforcer.json) |
+| Mob Psycho 100: Psychic Battle | 120274 | [120274-mob-psycho-100-psychic-battle.json](./120274-mob-psycho-100-psychic-battle.json) |
 | Mob Stadium | 40427 | [40427-mob-stadium.json](./40427-mob-stadium.json) |
 | MOB the Robot | 330514 | [330514-mob-the-robot.json](./330514-mob-the-robot.json) |
 | Mob Trader | 314407 | [314407-mob-trader.json](./314407-mob-trader.json) |
