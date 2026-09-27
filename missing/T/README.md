@@ -9227,6 +9227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Air Strike MP100 | 160880 | [160880-tiger-tank-59-i-air-strike-mp100.json](./160880-tiger-tank-59-i-air-strike-mp100.json) |
 | Tiger Tank 59 I: Battleship MP003 | 160368 | [160368-tiger-tank-59-i-battleship-mp003.json](./160368-tiger-tank-59-i-battleship-mp003.json) |
 | Tiger Tank 59 I: Battleship MP008 | 160317 | [160317-tiger-tank-59-i-battleship-mp008.json](./160317-tiger-tank-59-i-battleship-mp008.json) |
+| Tiger Tank 59 I: Battleship MP016 | 160637 | [160637-tiger-tank-59-i-battleship-mp016.json](./160637-tiger-tank-59-i-battleship-mp016.json) |
 | Tiger Tank 59 I: Battleship MP020 | 160319 | [160319-tiger-tank-59-i-battleship-mp020.json](./160319-tiger-tank-59-i-battleship-mp020.json) |
 | Tiger Tank 59 I: Battleship MP030 | 160346 | [160346-tiger-tank-59-i-battleship-mp030.json](./160346-tiger-tank-59-i-battleship-mp030.json) |
 | Tiger Tank 59 I: Battleship MP037 | 160360 | [160360-tiger-tank-59-i-battleship-mp037.json](./160360-tiger-tank-59-i-battleship-mp037.json) |
@@ -9313,20 +9314,68 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Mission Pack 092 | 160399 | [160399-tiger-tank-59-i-mission-pack-092.json](./160399-tiger-tank-59-i-mission-pack-092.json) |
 | Tiger Tank 59 I: Mission Pack 096 | 160400 | [160400-tiger-tank-59-i-mission-pack-096.json](./160400-tiger-tank-59-i-mission-pack-096.json) |
 | Tiger Tank 59 I: Mission Pack 098 | 160376 | [160376-tiger-tank-59-i-mission-pack-098.json](./160376-tiger-tank-59-i-mission-pack-098.json) |
+| Tiger Tank 59 I: Rainstorm MP001 | 160670 | [160670-tiger-tank-59-i-rainstorm-mp001.json](./160670-tiger-tank-59-i-rainstorm-mp001.json) |
+| Tiger Tank 59 I: Rainstorm MP003 | 160679 | [160679-tiger-tank-59-i-rainstorm-mp003.json](./160679-tiger-tank-59-i-rainstorm-mp003.json) |
 | Tiger Tank 59 I: Rainstorm MP007 | 160343 | [160343-tiger-tank-59-i-rainstorm-mp007.json](./160343-tiger-tank-59-i-rainstorm-mp007.json) |
+| Tiger Tank 59 I: Rainstorm MP008 | 160640 | [160640-tiger-tank-59-i-rainstorm-mp008.json](./160640-tiger-tank-59-i-rainstorm-mp008.json) |
 | Tiger Tank 59 I: Rainstorm MP009 | 160406 | [160406-tiger-tank-59-i-rainstorm-mp009.json](./160406-tiger-tank-59-i-rainstorm-mp009.json) |
+| Tiger Tank 59 I: Rainstorm MP010 | 160651 | [160651-tiger-tank-59-i-rainstorm-mp010.json](./160651-tiger-tank-59-i-rainstorm-mp010.json) |
+| Tiger Tank 59 I: Rainstorm MP011 | 160680 | [160680-tiger-tank-59-i-rainstorm-mp011.json](./160680-tiger-tank-59-i-rainstorm-mp011.json) |
+| Tiger Tank 59 I: Rainstorm MP012 | 160650 | [160650-tiger-tank-59-i-rainstorm-mp012.json](./160650-tiger-tank-59-i-rainstorm-mp012.json) |
 | Tiger Tank 59 I: Rainstorm MP014 | 160352 | [160352-tiger-tank-59-i-rainstorm-mp014.json](./160352-tiger-tank-59-i-rainstorm-mp014.json) |
+| Tiger Tank 59 I: Rainstorm MP015 | 160648 | [160648-tiger-tank-59-i-rainstorm-mp015.json](./160648-tiger-tank-59-i-rainstorm-mp015.json) |
+| Tiger Tank 59 I: Rainstorm MP016 | 160641 | [160641-tiger-tank-59-i-rainstorm-mp016.json](./160641-tiger-tank-59-i-rainstorm-mp016.json) |
+| Tiger Tank 59 I: Rainstorm MP018 | 160643 | [160643-tiger-tank-59-i-rainstorm-mp018.json](./160643-tiger-tank-59-i-rainstorm-mp018.json) |
+| Tiger Tank 59 I: Rainstorm MP019 | 160639 | [160639-tiger-tank-59-i-rainstorm-mp019.json](./160639-tiger-tank-59-i-rainstorm-mp019.json) |
+| Tiger Tank 59 I: Rainstorm MP020 | 160649 | [160649-tiger-tank-59-i-rainstorm-mp020.json](./160649-tiger-tank-59-i-rainstorm-mp020.json) |
+| Tiger Tank 59 I: Rainstorm MP023 | 160644 | [160644-tiger-tank-59-i-rainstorm-mp023.json](./160644-tiger-tank-59-i-rainstorm-mp023.json) |
+| Tiger Tank 59 I: Rainstorm MP024 | 160660 | [160660-tiger-tank-59-i-rainstorm-mp024.json](./160660-tiger-tank-59-i-rainstorm-mp024.json) |
+| Tiger Tank 59 I: Rainstorm MP026 | 160656 | [160656-tiger-tank-59-i-rainstorm-mp026.json](./160656-tiger-tank-59-i-rainstorm-mp026.json) |
 | Tiger Tank 59 I: Rainstorm MP028 | 160375 | [160375-tiger-tank-59-i-rainstorm-mp028.json](./160375-tiger-tank-59-i-rainstorm-mp028.json) |
+| Tiger Tank 59 I: Rainstorm MP029 | 160668 | [160668-tiger-tank-59-i-rainstorm-mp029.json](./160668-tiger-tank-59-i-rainstorm-mp029.json) |
+| Tiger Tank 59 I: Rainstorm MP031 | 160658 | [160658-tiger-tank-59-i-rainstorm-mp031.json](./160658-tiger-tank-59-i-rainstorm-mp031.json) |
 | Tiger Tank 59 I: Rainstorm MP033 | 160408 | [160408-tiger-tank-59-i-rainstorm-mp033.json](./160408-tiger-tank-59-i-rainstorm-mp033.json) |
+| Tiger Tank 59 I: Rainstorm MP034 | 160661 | [160661-tiger-tank-59-i-rainstorm-mp034.json](./160661-tiger-tank-59-i-rainstorm-mp034.json) |
+| Tiger Tank 59 I: Rainstorm MP035 | 160663 | [160663-tiger-tank-59-i-rainstorm-mp035.json](./160663-tiger-tank-59-i-rainstorm-mp035.json) |
+| Tiger Tank 59 I: Rainstorm MP037 | 160674 | [160674-tiger-tank-59-i-rainstorm-mp037.json](./160674-tiger-tank-59-i-rainstorm-mp037.json) |
+| Tiger Tank 59 I: Rainstorm MP038 | 160682 | [160682-tiger-tank-59-i-rainstorm-mp038.json](./160682-tiger-tank-59-i-rainstorm-mp038.json) |
 | Tiger Tank 59 I: Rainstorm MP039 | 160316 | [160316-tiger-tank-59-i-rainstorm-mp039.json](./160316-tiger-tank-59-i-rainstorm-mp039.json) |
+| Tiger Tank 59 I: Rainstorm MP042 | 160677 | [160677-tiger-tank-59-i-rainstorm-mp042.json](./160677-tiger-tank-59-i-rainstorm-mp042.json) |
+| Tiger Tank 59 I: Rainstorm MP046 | 160681 | [160681-tiger-tank-59-i-rainstorm-mp046.json](./160681-tiger-tank-59-i-rainstorm-mp046.json) |
 | Tiger Tank 59 I: Rainstorm MP047 | 160347 | [160347-tiger-tank-59-i-rainstorm-mp047.json](./160347-tiger-tank-59-i-rainstorm-mp047.json) |
+| Tiger Tank 59 I: Rainstorm MP050 | 160685 | [160685-tiger-tank-59-i-rainstorm-mp050.json](./160685-tiger-tank-59-i-rainstorm-mp050.json) |
+| Tiger Tank 59 I: Rainstorm MP052 | 160676 | [160676-tiger-tank-59-i-rainstorm-mp052.json](./160676-tiger-tank-59-i-rainstorm-mp052.json) |
+| Tiger Tank 59 I: Rainstorm MP053 | 160638 | [160638-tiger-tank-59-i-rainstorm-mp053.json](./160638-tiger-tank-59-i-rainstorm-mp053.json) |
+| Tiger Tank 59 I: Rainstorm MP054 | 160684 | [160684-tiger-tank-59-i-rainstorm-mp054.json](./160684-tiger-tank-59-i-rainstorm-mp054.json) |
+| Tiger Tank 59 I: Rainstorm MP055 | 160669 | [160669-tiger-tank-59-i-rainstorm-mp055.json](./160669-tiger-tank-59-i-rainstorm-mp055.json) |
 | Tiger Tank 59 I: Rainstorm MP056 | 160407 | [160407-tiger-tank-59-i-rainstorm-mp056.json](./160407-tiger-tank-59-i-rainstorm-mp056.json) |
 | Tiger Tank 59 I: Rainstorm MP057 | 160387 | [160387-tiger-tank-59-i-rainstorm-mp057.json](./160387-tiger-tank-59-i-rainstorm-mp057.json) |
+| Tiger Tank 59 I: Rainstorm MP058 | 160673 | [160673-tiger-tank-59-i-rainstorm-mp058.json](./160673-tiger-tank-59-i-rainstorm-mp058.json) |
+| Tiger Tank 59 I: Rainstorm MP059 | 160646 | [160646-tiger-tank-59-i-rainstorm-mp059.json](./160646-tiger-tank-59-i-rainstorm-mp059.json) |
+| Tiger Tank 59 I: Rainstorm MP062 | 160654 | [160654-tiger-tank-59-i-rainstorm-mp062.json](./160654-tiger-tank-59-i-rainstorm-mp062.json) |
+| Tiger Tank 59 I: Rainstorm MP065 | 160655 | [160655-tiger-tank-59-i-rainstorm-mp065.json](./160655-tiger-tank-59-i-rainstorm-mp065.json) |
+| Tiger Tank 59 I: Rainstorm MP067 | 160645 | [160645-tiger-tank-59-i-rainstorm-mp067.json](./160645-tiger-tank-59-i-rainstorm-mp067.json) |
+| Tiger Tank 59 I: Rainstorm MP070 | 160686 | [160686-tiger-tank-59-i-rainstorm-mp070.json](./160686-tiger-tank-59-i-rainstorm-mp070.json) |
+| Tiger Tank 59 I: Rainstorm MP072 | 160662 | [160662-tiger-tank-59-i-rainstorm-mp072.json](./160662-tiger-tank-59-i-rainstorm-mp072.json) |
+| Tiger Tank 59 I: Rainstorm MP073 | 160671 | [160671-tiger-tank-59-i-rainstorm-mp073.json](./160671-tiger-tank-59-i-rainstorm-mp073.json) |
 | Tiger Tank 59 I: Rainstorm MP074 | 160392 | [160392-tiger-tank-59-i-rainstorm-mp074.json](./160392-tiger-tank-59-i-rainstorm-mp074.json) |
+| Tiger Tank 59 I: Rainstorm MP075 | 160665 | [160665-tiger-tank-59-i-rainstorm-mp075.json](./160665-tiger-tank-59-i-rainstorm-mp075.json) |
+| Tiger Tank 59 I: Rainstorm MP076 | 160672 | [160672-tiger-tank-59-i-rainstorm-mp076.json](./160672-tiger-tank-59-i-rainstorm-mp076.json) |
+| Tiger Tank 59 I: Rainstorm MP077 | 160653 | [160653-tiger-tank-59-i-rainstorm-mp077.json](./160653-tiger-tank-59-i-rainstorm-mp077.json) |
 | Tiger Tank 59 I: Rainstorm MP079 | 160344 | [160344-tiger-tank-59-i-rainstorm-mp079.json](./160344-tiger-tank-59-i-rainstorm-mp079.json) |
+| Tiger Tank 59 I: Rainstorm MP081 | 160659 | [160659-tiger-tank-59-i-rainstorm-mp081.json](./160659-tiger-tank-59-i-rainstorm-mp081.json) |
+| Tiger Tank 59 I: Rainstorm MP082 | 160678 | [160678-tiger-tank-59-i-rainstorm-mp082.json](./160678-tiger-tank-59-i-rainstorm-mp082.json) |
+| Tiger Tank 59 I: Rainstorm MP083 | 160666 | [160666-tiger-tank-59-i-rainstorm-mp083.json](./160666-tiger-tank-59-i-rainstorm-mp083.json) |
+| Tiger Tank 59 I: Rainstorm MP085 | 160642 | [160642-tiger-tank-59-i-rainstorm-mp085.json](./160642-tiger-tank-59-i-rainstorm-mp085.json) |
 | Tiger Tank 59 I: Rainstorm MP086 | 160367 | [160367-tiger-tank-59-i-rainstorm-mp086.json](./160367-tiger-tank-59-i-rainstorm-mp086.json) |
+| Tiger Tank 59 I: Rainstorm MP088 | 160652 | [160652-tiger-tank-59-i-rainstorm-mp088.json](./160652-tiger-tank-59-i-rainstorm-mp088.json) |
+| Tiger Tank 59 I: Rainstorm MP089 | 160657 | [160657-tiger-tank-59-i-rainstorm-mp089.json](./160657-tiger-tank-59-i-rainstorm-mp089.json) |
 | Tiger Tank 59 I: Rainstorm MP090 | 160382 | [160382-tiger-tank-59-i-rainstorm-mp090.json](./160382-tiger-tank-59-i-rainstorm-mp090.json) |
+| Tiger Tank 59 I: Rainstorm MP091 | 160664 | [160664-tiger-tank-59-i-rainstorm-mp091.json](./160664-tiger-tank-59-i-rainstorm-mp091.json) |
 | Tiger Tank 59 I: Rainstorm MP093 | 160312 | [160312-tiger-tank-59-i-rainstorm-mp093.json](./160312-tiger-tank-59-i-rainstorm-mp093.json) |
+| Tiger Tank 59 I: Rainstorm MP094 | 160647 | [160647-tiger-tank-59-i-rainstorm-mp094.json](./160647-tiger-tank-59-i-rainstorm-mp094.json) |
+| Tiger Tank 59 I: Rainstorm MP097 | 160675 | [160675-tiger-tank-59-i-rainstorm-mp097.json](./160675-tiger-tank-59-i-rainstorm-mp097.json) |
+| Tiger Tank 59 I: Rainstorm MP098 | 160667 | [160667-tiger-tank-59-i-rainstorm-mp098.json](./160667-tiger-tank-59-i-rainstorm-mp098.json) |
 | Tiger Tank 59 I: Rainstorm MP099 | 160325 | [160325-tiger-tank-59-i-rainstorm-mp099.json](./160325-tiger-tank-59-i-rainstorm-mp099.json) |
 | Tiger Tank 59 I: Super Tank MP003 | 160740 | [160740-tiger-tank-59-i-super-tank-mp003.json](./160740-tiger-tank-59-i-super-tank-mp003.json) |
 | Tiger Tank 59 I: Super Tank MP005 | 160736 | [160736-tiger-tank-59-i-super-tank-mp005.json](./160736-tiger-tank-59-i-super-tank-mp005.json) |
