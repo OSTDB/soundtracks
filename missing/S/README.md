@@ -4145,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuffle Farm | 345568 | [345568-shuffle-farm.json](./345568-shuffle-farm.json) |
 | Shuffle in One | 259551 | [259551-shuffle-in-one.json](./259551-shuffle-in-one.json) |
 | Shuffle Party | 65525 | [65525-shuffle-party.json](./65525-shuffle-party.json) |
+| Shuffle Pix | 133311 | [133311-shuffle-pix.json](./133311-shuffle-pix.json) |
 | Shuffle Sword | 355096 | [355096-shuffle-sword.json](./355096-shuffle-sword.json) |
 | Shuffle to Fortune | 140991 | [140991-shuffle-to-fortune.json](./140991-shuffle-to-fortune.json) |
 | Shuffle! | 31127 | [31127-shuffle.json](./31127-shuffle.json) |
@@ -11373,6 +11374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stimuli | 133226 | [133226-stimuli.json](./133226-stimuli.json) |
 | Sting | 230541 | [230541-sting.json](./230541-sting.json) |
 | Sting & Swing | 398983 | [398983-sting-and-swing.json](./398983-sting-and-swing.json) |
+| Stink Bug Plague | 133304 | [133304-stink-bug-plague.json](./133304-stink-bug-plague.json) |
 | Stinker Golf | 406107 | [406107-stinker-golf.json](./406107-stinker-golf.json) |
 | Stinkoman 20X6 | 124605 | [124605-stinkoman-20x6.json](./124605-stinkoman-20x6.json) |
 | Stinky Company Simulator | 211741 | [211741-stinky-company-simulator.json](./211741-stinky-company-simulator.json) |
@@ -11625,6 +11627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Seed | 257998 | [257998-strange-seed.json](./257998-strange-seed.json) |
 | Strange Shores: Social Desktop Fishing | 344395 | [344395-strange-shores-social-desktop-fishing.json](./344395-strange-shores-social-desktop-fishing.json) |
 | Strange Tales of Tei-Shan | 301262 | [301262-strange-tales-of-tei-shan.json](./301262-strange-tales-of-tei-shan.json) |
+| Strange Terror from Beyond the Stars! | 133303 | [133303-strange-terror-from-beyond-the-stars.json](./133303-strange-terror-from-beyond-the-stars.json) |
 | Strange Things | 75775 | [75775-strange-things.json](./75775-strange-things.json) |
 | Strange Winds | 383637 | [383637-strange-winds.json](./383637-strange-winds.json) |
 | Strange Zoo | 415139 | [415139-strange-zoo.json](./415139-strange-zoo.json) |
