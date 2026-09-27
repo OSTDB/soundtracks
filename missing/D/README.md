@@ -3483,6 +3483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Didi & Ditto: Kindergarten | 73832 | [73832-didi-and-ditto-kindergarten.json](./73832-didi-and-ditto-kindergarten.json) |
 | Didnapper | 295249 | [295249-didnapper.json](./295249-didnapper.json) |
 | Die 3 | 269641 | [269641-die-3.json](./269641-die-3.json) |
+| Die Again | 133340 | [133340-die-again.json](./133340-die-again.json) |
 | Die Alien Slime | 13593 | [13593-die-alien-slime.json](./13593-die-alien-slime.json) |
 | Die Bahnwelt | 82035 | [82035-die-bahnwelt.json](./82035-die-bahnwelt.json) |
 | Die Bloody Nazi Die! | 117543 | [117543-die-bloody-nazi-die.json](./117543-die-bloody-nazi-die.json) |
@@ -6327,6 +6328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drapline | 333105 | [333105-drapline.json](./333105-drapline.json) |
 | Drasle Family: Pochi & Bochi | 342621 | [342621-drasle-family-pochi-and-bochi.json](./342621-drasle-family-pochi-and-bochi.json) |
 | Draugen: Collector's Edition | 124776 | [124776-draugen-collectors-edition.json](./124776-draugen-collectors-edition.json) |
+| Draught Kraft | 133352 | [133352-draught-kraft.json](./133352-draught-kraft.json) |
 | Draw | 258014 | [258014-draw.json](./258014-draw.json) |
 | Draw & Guess Multiplayer | 348948 | [348948-draw-and-guess-multiplayer.json](./348948-draw-and-guess-multiplayer.json) |
 | Draw 2 Save: Stickman Puzzle | 208980 | [208980-draw-2-save-stickman-puzzle.json](./208980-draw-2-save-stickman-puzzle.json) |
@@ -6741,6 +6743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifted | 287227 | [287227-drifted.json](./287227-drifted.json) |
 | Driftence | 190130 | [190130-driftence.json](./190130-driftence.json) |
 | Drifter | 16772 | [16772-drifter.json](./16772-drifter.json) |
+| Drifter King Online | 133358 | [133358-drifter-king-online.json](./133358-drifter-king-online.json) |
 | Drifter Star: Evolution | 371872 | [371872-drifter-star-evolution.json](./371872-drifter-star-evolution.json) |
 | Drifter's Tales | 195174 | [195174-drifters-tales.json](./195174-drifters-tales.json) |
 | Drifters Loot the Galaxy | 138705 | [138705-drifters-loot-the-galaxy.json](./138705-drifters-loot-the-galaxy.json) |
@@ -7517,6 +7520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Slime Hero | 295808 | [295808-dungeon-slime-hero.json](./295808-dungeon-slime-hero.json) |
 | Dungeon Solitaire | 178000 | [178000-dungeon-solitaire.json](./178000-dungeon-solitaire.json) |
 | Dungeon Solitaire | 341127 | [341127-dungeon-solitaire.json](./341127-dungeon-solitaire.json) |
+| Dungeon Solver | 133338 | [133338-dungeon-solver.json](./133338-dungeon-solver.json) |
 | Dungeon Squad | 225764 | [225764-dungeon-squad.json](./225764-dungeon-squad.json) |
 | Dungeon Stalkers | 255912 | [255912-dungeon-stalkers.json](./255912-dungeon-stalkers.json) |
 | Dungeon Striker | 63256 | [63256-dungeon-striker.json](./63256-dungeon-striker.json) |
