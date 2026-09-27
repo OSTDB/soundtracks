@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valhalla Hills: Sand of the Damned | 171639 | [171639-valhalla-hills-sand-of-the-damned.json](./171639-valhalla-hills-sand-of-the-damned.json) |
 | Valhalla Knights | 20073 | [20073-valhalla-knights.json](./20073-valhalla-knights.json) |
 | Valhalla Knights 2 | 20071 | [20071-valhalla-knights-2.json](./20071-valhalla-knights-2.json) |
+| Valhalla Knights 2: Battle Stance | 142322 | [142322-valhalla-knights-2-battle-stance.json](./142322-valhalla-knights-2-battle-stance.json) |
 | Valhalla Knights 3 | 20072 | [20072-valhalla-knights-3.json](./20072-valhalla-knights-3.json) |
 | Valhalla Mountain | 328465 | [328465-valhalla-mountain.json](./328465-valhalla-mountain.json) |
 | Valhalla: Awakening of Valkyrie | 214200 | [214200-valhalla-awakening-of-valkyrie.json](./214200-valhalla-awakening-of-valkyrie.json) |
@@ -1163,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtualis Galeria | 383505 | [383505-virtualis-galeria.json](./383505-virtualis-galeria.json) |
 | Virtually Board Snowboarding 2 | 202947 | [202947-virtually-board-snowboarding-2.json](./202947-virtually-board-snowboarding-2.json) |
 | VirtualSociety | 413192 | [413192-virtualsociety.json](./413192-virtualsociety.json) |
+| VirtualSociety Online | 142328 | [142328-virtualsociety-online.json](./142328-virtualsociety-online.json) |
 | Virtue | 282015 | [282015-virtue.json](./282015-virtue.json) |
 | Virtue's Heaven | 204432 | [204432-virtues-heaven.json](./204432-virtues-heaven.json) |
 | Virtueror: The Virtual Conqueror | 216859 | [216859-virtueror-the-virtual-conqueror.json](./216859-virtueror-the-virtual-conqueror.json) |
