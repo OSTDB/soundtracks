@@ -3014,6 +3014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Nose Freaks Out | 48105 | [48105-big-nose-freaks-out.json](./48105-big-nose-freaks-out.json) |
 | Big Ol' Bass 2 | 43921 | [43921-big-ol-bass-2.json](./43921-big-ol-bass-2.json) |
 | Big Pharma: Special Edition | 167042 | [167042-big-pharma-special-edition.json](./167042-big-pharma-special-edition.json) |
+| Big Quest 2: the Adventure | 163738 | [163738-big-quest-2-the-adventure.json](./163738-big-quest-2-the-adventure.json) |
 | Big Red Hood: Halloween | 126894 | [126894-big-red-hood-halloween.json](./126894-big-red-hood-halloween.json) |
 | Big Rigs: Over the Road Racing | 7557 | [7557-big-rigs-over-the-road-racing.json](./7557-big-rigs-over-the-road-racing.json) |
 | Big Rumble Boxing: Creed Champions | 137129 | [137129-big-rumble-boxing-creed-champions.json](./137129-big-rumble-boxing-creed-champions.json) |
@@ -6570,6 +6571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS2 | 329932 | [329932-bs2.json](./329932-bs2.json) |
 | BSL Winter Games Challenge | 88283 | [88283-bsl-winter-games-challenge.json](./88283-bsl-winter-games-challenge.json) |
 | BSMP | 394877 | [394877-bsmp.json](./394877-bsmp.json) |
+| BSurfing | 163733 | [163733-bsurfing.json](./163733-bsurfing.json) |
 | BTank | 203898 | [203898-btank.json](./203898-btank.json) |
 | BTD: BTD | 258500 | [258500-btd-btd.json](./258500-btd-btd.json) |
 | BTS Island: In the Seom | 206740 | [206740-bts-island-in-the-seom.json](./206740-bts-island-in-the-seom.json) |
