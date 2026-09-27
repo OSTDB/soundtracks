@@ -2329,6 +2329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herb Tea Man | 391724 | [391724-herb-tea-man.json](./391724-herb-tea-man.json) |
 | Herbal Haven | 374797 | [374797-herbal-haven.json](./374797-herbal-haven.json) |
 | Herbal Remedies | 266203 | [266203-herbal-remedies.json](./266203-herbal-remedies.json) |
+| Herbalist Simulator | 127826 | [127826-herbalist-simulator.json](./127826-herbalist-simulator.json) |
 | Herbert's Dummy Run | 30217 | [30217-herberts-dummy-run.json](./30217-herberts-dummy-run.json) |
 | Herbheim's Mine | 188689 | [188689-herbheims-mine.json](./188689-herbheims-mine.json) |
 | Herbie at The Olympics | 40174 | [40174-herbie-at-the-olympics.json](./40174-herbie-at-the-olympics.json) |
@@ -2398,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Mages | 197632 | [197632-hero-mages.json](./197632-hero-mages.json) |
 | Hero Mania | 211714 | [211714-hero-mania.json](./211714-hero-mania.json) |
 | Hero Must Die. Again | 127334 | [127334-hero-must-die-again.json](./127334-hero-must-die-again.json) |
+| Hero of Allacrost | 127885 | [127885-hero-of-allacrost.json](./127885-hero-of-allacrost.json) |
 | Hero of Fate | 250886 | [250886-hero-of-fate.json](./250886-hero-of-fate.json) |
 | Hero of Fate: Darkness Land | 292647 | [292647-hero-of-fate-darkness-land.json](./292647-hero-of-fate-darkness-land.json) |
 | Hero of Law | 351679 | [351679-hero-of-law.json](./351679-hero-of-law.json) |
@@ -2735,6 +2737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexLogic: Lanterns | 216155 | [216155-hexlogic-lanterns.json](./216155-hexlogic-lanterns.json) |
 | HexoCity | 291590 | [291590-hexocity.json](./291590-hexocity.json) |
 | Hexodius | 16517 | [16517-hexodius.json](./16517-hexodius.json) |
+| Hexogin | 127865 | [127865-hexogin.json](./127865-hexogin.json) |
 | Hexon | 127310 | [127310-hexon.json](./127310-hexon.json) |
 | Hexonaut | 293168 | [293168-hexonaut.json](./293168-hexonaut.json) |
 | Hexopods | 75339 | [75339-hexopods.json](./75339-hexopods.json) |
@@ -4698,6 +4701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Much Items: Weapon | 340493 | [340493-how-much-items-weapon.json](./340493-how-much-items-weapon.json) |
 | How Now, Sea Cow? | 184493 | [184493-how-now-sea-cow.json](./184493-how-now-sea-cow.json) |
 | How Should I Keep a House Squeaky Clean, With a Filthy Little Neighbour Ghost? | 373080 | [373080-how-should-i-keep-a-house-squeaky-clean-with-a-filthy-little-neighbour-ghost.json](./373080-how-should-i-keep-a-house-squeaky-clean-with-a-filthy-little-neighbour-ghost.json) |
+| How Stories Die | 127855 | [127855-how-stories-die.json](./127855-how-stories-die.json) |
 | How The Grinch Stole Christmas!: Dr. Seuss Mobile | 84195 | [84195-how-the-grinch-stole-christmas-dr-seuss-mobile.json](./84195-how-the-grinch-stole-christmas-dr-seuss-mobile.json) |
 | How the Leopard Got His Spots | 363985 | [363985-how-the-leopard-got-his-spots.json](./363985-how-the-leopard-got-his-spots.json) |
 | How the Little Match Girl Got Her Colt Paterson Revolver, and Taught a Virtue to a Goblin | 290403 | [290403-how-the-little-match-girl-got-her-colt-paterson-revolver-and-taught-a-virtue-to-a-goblin.json](./290403-how-the-little-match-girl-got-her-colt-paterson-revolver-and-taught-a-virtue-to-a-goblin.json) |
