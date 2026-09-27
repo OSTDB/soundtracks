@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naxat Cup Satellaview Bass Tournament "Big Fight" | 150171 | [150171-naxat-cup-satellaview-bass-tournament-big-fight.json](./150171-naxat-cup-satellaview-bass-tournament-big-fight.json) |
 | Naxat Open | 37707 | [37707-naxat-open.json](./37707-naxat-open.json) |
 | Naxos | 199402 | [199402-naxos.json](./199402-naxos.json) |
+| Nayati River | 165404 | [165404-nayati-river.json](./165404-nayati-river.json) |
 | Nayra's Popstactic Adventures in Cadiz | 114752 | [114752-nayras-popstactic-adventures-in-cadiz.json](./114752-nayras-popstactic-adventures-in-cadiz.json) |
 | Nayuta no Kiseki | 284431 | [284431-nayuta-no-kiseki.json](./284431-nayuta-no-kiseki.json) |
 | Nayuta no Kiseki: Limited Edition | 284434 | [284434-nayuta-no-kiseki-limited-edition.json](./284434-nayuta-no-kiseki-limited-edition.json) |
