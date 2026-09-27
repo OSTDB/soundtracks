@@ -1252,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vitality Girl Ⅲ: Pixel - Night Action | 196157 | [196157-vitality-girl-iii-pixel-night-action.json](./196157-vitality-girl-iii-pixel-night-action.json) |
 | Vitamin R | 59360 | [59360-vitamin-r.json](./59360-vitamin-r.json) |
 | Vitamin X | 69288 | [69288-vitamin-x.json](./69288-vitamin-x.json) |
+| Vitamin Z | 132092 | [132092-vitamin-z.json](./132092-vitamin-z.json) |
 | Vitamin Z | 60250 | [60250-vitamin-z.json](./60250-vitamin-z.json) |
 | Vitas Castle of Horror | 186018 | [186018-vitas-castle-of-horror.json](./186018-vitas-castle-of-horror.json) |
 | Vitavania | 390673 | [390673-vitavania.json](./390673-vitavania.json) |
