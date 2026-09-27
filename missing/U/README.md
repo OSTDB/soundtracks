@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale Yellow | 136482 | [136482-undertale-yellow.json](./136482-undertale-yellow.json) |
 | Undertale Yellow But Blue | 318536 | [318536-undertale-yellow-but-blue.json](./318536-undertale-yellow-but-blue.json) |
 | Undertale: Chara Boss Fight | 283766 | [283766-undertale-chara-boss-fight.json](./283766-undertale-chara-boss-fight.json) |
+| Undertale: Collector's Edition | 136341 | [136341-undertale-collectors-edition.json](./136341-undertale-collectors-edition.json) |
 | Undertale: Disbelief | 136869 | [136869-undertale-disbelief.json](./136869-undertale-disbelief.json) |
 | Undertale: Icebound | 329944 | [329944-undertale-icebound.json](./329944-undertale-icebound.json) |
 | Undertale: Kindred Spirits | 231469 | [231469-undertale-kindred-spirits.json](./231469-undertale-kindred-spirits.json) |
