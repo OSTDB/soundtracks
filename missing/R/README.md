@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Skill | 358355 | [358355-racing-skill.json](./358355-racing-skill.json) |
 | Racing Stars | 295274 | [295274-racing-stars.json](./295274-racing-stars.json) |
 | Racing Wars | 180701 | [180701-racing-wars.json](./180701-racing-wars.json) |
+| Racing Xtreme 2 | 154989 | [154989-racing-xtreme-2.json](./154989-racing-xtreme-2.json) |
 | Racing Xtreme: Fast Rally Driver 3D | 192909 | [192909-racing-xtreme-fast-rally-driver-3d.json](./192909-racing-xtreme-fast-rally-driver-3d.json) |
 | Racing: 4 Games on One Game Pak | 84175 | [84175-racing-4-games-on-one-game-pak.json](./84175-racing-4-games-on-one-game-pak.json) |
 | Racing: Breakthrough Gaming Arcade | 145668 | [145668-racing-breakthrough-gaming-arcade.json](./145668-racing-breakthrough-gaming-arcade.json) |
