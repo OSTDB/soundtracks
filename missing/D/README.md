@@ -1384,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead In Vinland: The Battle of the Heodenings | 114430 | [114430-dead-in-vinland-the-battle-of-the-heodenings.json](./114430-dead-in-vinland-the-battle-of-the-heodenings.json) |
 | Dead In Vinland: The Vallhund | 114431 | [114431-dead-in-vinland-the-vallhund.json](./114431-dead-in-vinland-the-vallhund.json) |
 | Dead in Your TrackZ | 358913 | [358913-dead-in-your-trackz.json](./358913-dead-in-your-trackz.json) |
+| Dead Ink | 164259 | [164259-dead-ink.json](./164259-dead-ink.json) |
 | Dead Inside | 377576 | [377576-dead-inside.json](./377576-dead-inside.json) |
 | Dead Invaders: Modern War 3D | 216164 | [216164-dead-invaders-modern-war-3d.json](./216164-dead-invaders-modern-war-3d.json) |
 | Dead Island 2: Deluxe Edition | 214473 | [214473-dead-island-2-deluxe-edition.json](./214473-dead-island-2-deluxe-edition.json) |
@@ -2540,6 +2541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Crystals | 20402 | [20402-demons-crystals.json](./20402-demons-crystals.json) |
 | Demon's Draw | 235349 | [235349-demons-draw.json](./235349-demons-draw.json) |
 | Demon's Island | 301576 | [301576-demons-island.json](./301576-demons-island.json) |
+| Demon's Residence | 164275 | [164275-demons-residence.json](./164275-demons-residence.json) |
 | Demon's Residence | 207878 | [207878-demons-residence.json](./207878-demons-residence.json) |
 | Demon's Revenge | 13587 | [13587-demons-revenge.json](./13587-demons-revenge.json) |
 | Demon's Rise - Lords of Chaos | 97899 | [97899-demons-rise-lords-of-chaos.json](./97899-demons-rise-lords-of-chaos.json) |
@@ -4840,6 +4842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Fit | 303482 | [303482-domino-fit.json](./303482-domino-fit.json) |
 | Domino Marble | 238977 | [238977-domino-marble.json](./238977-domino-marble.json) |
 | Domino Merged Puzzle | 252154 | [252154-domino-merged-puzzle.json](./252154-domino-merged-puzzle.json) |
+| Domino Sandbox | 164257 | [164257-domino-sandbox.json](./164257-domino-sandbox.json) |
 | Domino Sky | 33131 | [33131-domino-sky.json](./33131-domino-sky.json) |
 | Domino VR | 31894 | [31894-domino-vr.json](./31894-domino-vr.json) |
 | Domino! | 281483 | [281483-domino.json](./281483-domino.json) |
