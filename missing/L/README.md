@@ -1140,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Sword Saint | 340912 | [340912-legend-of-the-sword-saint.json](./340912-legend-of-the-sword-saint.json) |
 | Legend of the Tetrarchs | 117738 | [117738-legend-of-the-tetrarchs.json](./117738-legend-of-the-tetrarchs.json) |
 | Legend of the Time Sword: Episode 1 | 303814 | [303814-legend-of-the-time-sword-episode-1.json](./303814-legend-of-the-time-sword-episode-1.json) |
+| Legend of the wizard | 120856 | [120856-legend-of-the-wizard.json](./120856-legend-of-the-wizard.json) |
 | Legend of the Wonderfish | 383961 | [383961-legend-of-the-wonderfish.json](./383961-legend-of-the-wonderfish.json) |
 | Legend of Traveller | 116307 | [116307-legend-of-traveller.json](./116307-legend-of-traveller.json) |
 | Legend of Vengeancev | 156685 | [156685-legend-of-vengeancev.json](./156685-legend-of-vengeancev.json) |
@@ -3587,6 +3588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Wish: In the Desperate World | 195482 | [195482-lost-wish-in-the-desperate-world.json](./195482-lost-wish-in-the-desperate-world.json) |
 | Lost World | 226183 | [226183-lost-world.json](./226183-lost-world.json) |
 | Lost Zion | 395555 | [395555-lost-zion.json](./395555-lost-zion.json) |
+| Lost:Smile Memories | 120778 | [120778-lost-smile-memories.json](./120778-lost-smile-memories.json) |
 | Lostade | 377694 | [377694-lostade.json](./377694-lostade.json) |
 | Losted | 190962 | [190962-losted.json](./190962-losted.json) |
 | Losted Mind | 348256 | [348256-losted-mind.json](./348256-losted-mind.json) |
