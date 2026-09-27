@@ -2766,6 +2766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altar of Evil | 269116 | [269116-altar-of-evil.json](./269116-altar-of-evil.json) |
 | Altar War | 218585 | [218585-altar-war.json](./218585-altar-war.json) |
 | Altarage | 157150 | [157150-altarage.json](./157150-altarage.json) |
+| Altarays | 161165 | [161165-altarays.json](./161165-altarays.json) |
 | Altcode | 304115 | [304115-altcode.json](./304115-altcode.json) |
 | AltCoin | 334769 | [334769-altcoin.json](./334769-altcoin.json) |
 | Altdeus: Beyond Chronos - Limited Edition | 166229 | [166229-altdeus-beyond-chronos-limited-edition.json](./166229-altdeus-beyond-chronos-limited-edition.json) |
@@ -2830,6 +2831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alwa's Collection | 171547 | [171547-alwas-collection.json](./171547-alwas-collection.json) |
 | Alwa's Legacy + Alwa's Awakening | 288311 | [288311-alwas-legacy-alwas-awakening.json](./288311-alwas-legacy-alwas-awakening.json) |
 | Always 1-1 | 290688 | [290688-always-1-1.json](./290688-always-1-1.json) |
+| Always a New Journey | 161185 | [161185-always-a-new-journey.json](./161185-always-a-new-journey.json) |
 | Always Forward | 297062 | [297062-always-forward.json](./297062-always-forward.json) |
 | Always Higher | 32196 | [32196-always-higher.json](./32196-always-higher.json) |
 | Always Remember Me | 36356 | [36356-always-remember-me.json](./36356-always-remember-me.json) |
@@ -3376,6 +3378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | And I Saw the Stars Falling Down... | 250336 | [250336-and-i-saw-the-stars-falling-down.json](./250336-and-i-saw-the-stars-falling-down.json) |
 | And I'll Never Leave | 345009 | [345009-and-ill-never-leave.json](./345009-and-ill-never-leave.json) |
 | And one day everything changed... | 318618 | [318618-and-one-day-everything-changed.json](./318618-and-one-day-everything-changed.json) |
+| And Other Stories | 161176 | [161176-and-other-stories.json](./161176-and-other-stories.json) |
 | And Roger | 324784 | [324784-and-roger.json](./324784-and-roger.json) |
 | And the Band Begins to Play | 144752 | [144752-and-the-band-begins-to-play.json](./144752-and-the-band-begins-to-play.json) |
 | And The World Went Dark | 334296 | [334296-and-the-world-went-dark.json](./334296-and-the-world-went-dark.json) |
@@ -4964,6 +4967,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctis | 334663 | [334663-arctis.json](./334663-arctis.json) |
 | Arcus Chroma | 133786 | [133786-arcus-chroma.json](./133786-arcus-chroma.json) |
 | Arcus III | 98263 | [98263-arcus-iii.json](./98263-arcus-iii.json) |
+| Arcuz | 161152 | [161152-arcuz.json](./161152-arcuz.json) |
+| Arcuz II: Dungeons | 161153 | [161153-arcuz-ii-dungeons.json](./161153-arcuz-ii-dungeons.json) |
 | ARD: Anomalous Research Department | 182264 | [182264-ard-anomalous-research-department.json](./182264-ard-anomalous-research-department.json) |
 | Ardarium | 168331 | [168331-ardarium.json](./168331-ardarium.json) |
 | Ardem | 260389 | [260389-ardem.json](./260389-ardem.json) |
