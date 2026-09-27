@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T06:33:19.390Z",
-  "total_missing": 129326,
+  "generated_at": "2026-09-27T06:48:14.199Z",
+  "total_missing": 129376,
   "games": [
     {
       "igdb_id": 186066,
@@ -27561,6 +27561,11 @@
       "igdb_id": 136490,
       "game_name": "Apophis",
       "file": "missing/A/136490-apophis.json"
+    },
+    {
+      "igdb_id": 159680,
+      "game_name": "Apopia",
+      "file": "missing/A/159680-apopia.json"
     },
     {
       "igdb_id": 392258,
@@ -57991,6 +57996,11 @@
       "igdb_id": 265728,
       "game_name": "Bird of Paradise",
       "file": "missing/B/265728-bird-of-paradise.json"
+    },
+    {
+      "igdb_id": 159641,
+      "game_name": "Bird Pro Skater",
+      "file": "missing/B/159641-bird-pro-skater.json"
     },
     {
       "igdb_id": 152178,
@@ -153963,6 +153973,11 @@
       "file": "missing/D/383520-driving-school-simulator-evo.json"
     },
     {
+      "igdb_id": 159645,
+      "game_name": "Driving Simulator",
+      "file": "missing/D/159645-driving-simulator.json"
+    },
+    {
       "igdb_id": 51254,
       "game_name": "Driving Simulator 2011",
       "file": "missing/D/51254-driving-simulator-2011.json"
@@ -167006,6 +167021,11 @@
       "igdb_id": 193755,
       "game_name": "Endzone: A World Apart - Distant Places",
       "file": "missing/E/193755-endzone-a-world-apart-distant-places.json"
+    },
+    {
+      "igdb_id": 159687,
+      "game_name": "Endzone: A World Apart - Prosperity",
+      "file": "missing/E/159687-endzone-a-world-apart-prosperity.json"
     },
     {
       "igdb_id": 154952,
@@ -185926,6 +185946,11 @@
       "igdb_id": 213014,
       "game_name": "Fill & Cross: Pirate Riddles 3",
       "file": "missing/F/213014-fill-and-cross-pirate-riddles-3.json"
+    },
+    {
+      "igdb_id": 159654,
+      "game_name": "Fill and Cross: Magic Journey",
+      "file": "missing/F/159654-fill-and-cross-magic-journey.json"
     },
     {
       "igdb_id": 163987,
@@ -206216,6 +206241,11 @@
       "igdb_id": 163370,
       "game_name": "Galactic Civilizations III: Rise of the Terrans DLC",
       "file": "missing/G/163370-galactic-civilizations-iii-rise-of-the-terrans-dlc.json"
+    },
+    {
+      "igdb_id": 159691,
+      "game_name": "Galactic Civilizations III: Ultimate Edition",
+      "file": "missing/G/159691-galactic-civilizations-iii-ultimate-edition.json"
     },
     {
       "igdb_id": 163382,
@@ -241066,6 +241096,11 @@
       "igdb_id": 112141,
       "game_name": "Heroes of Warland",
       "file": "missing/H/112141-heroes-of-warland.json"
+    },
+    {
+      "igdb_id": 159652,
+      "game_name": "Heroes of Zaruban",
+      "file": "missing/H/159652-heroes-of-zaruban.json"
     },
     {
       "igdb_id": 266205,
@@ -278653,6 +278688,11 @@
       "file": "missing/K/36155-kaiju-a-gogo.json"
     },
     {
+      "igdb_id": 159650,
+      "game_name": "Kaiju-A-GoGo: Grey Goop",
+      "file": "missing/K/159650-kaiju-a-gogo-grey-goop.json"
+    },
+    {
       "igdb_id": 40216,
       "game_name": "Kaiketsu Yanchamaru",
       "file": "missing/K/40216-kaiketsu-yanchamaru.json"
@@ -290093,6 +290133,11 @@
       "file": "missing/K/276290-kugle.json"
     },
     {
+      "igdb_id": 159653,
+      "game_name": "Kuguru",
+      "file": "missing/K/159653-kuguru.json"
+    },
+    {
       "igdb_id": 183992,
       "game_name": "Kuiper Belt Plaza",
       "file": "missing/K/183992-kuiper-belt-plaza.json"
@@ -296146,6 +296191,11 @@
       "igdb_id": 192446,
       "game_name": "Legacy Quest 2",
       "file": "missing/L/192446-legacy-quest-2.json"
+    },
+    {
+      "igdb_id": 159655,
+      "game_name": "Legacy: Witch Island 2",
+      "file": "missing/L/159655-legacy-witch-island-2.json"
     },
     {
       "igdb_id": 325681,
@@ -355523,6 +355573,11 @@
       "file": "missing/M/72063-mysterious-journey-ii.json"
     },
     {
+      "igdb_id": 159686,
+      "game_name": "Mysterious Puzzles Collection: Nemezis, Schizm, Reah",
+      "file": "missing/M/159686-mysterious-puzzles-collection-nemezis-schizm-reah.json"
+    },
+    {
       "igdb_id": 231076,
       "game_name": "Mysterious Retro Games Bundle",
       "file": "missing/M/231076-mysterious-retro-games-bundle.json"
@@ -361401,6 +361456,11 @@
       "igdb_id": 262392,
       "game_name": "Nemesis: The Final Challenge",
       "file": "missing/N/262392-nemesis-the-final-challenge.json"
+    },
+    {
+      "igdb_id": 159692,
+      "game_name": "Nemezis: Mysterious Journey III - Deluxe Edition",
+      "file": "missing/N/159692-nemezis-mysterious-journey-iii-deluxe-edition.json"
     },
     {
       "igdb_id": 303778,
@@ -379278,6 +379338,11 @@
       "file": "missing/O/239638-onenellemoo.json"
     },
     {
+      "igdb_id": 159643,
+      "game_name": "Oneons: Prisoners",
+      "file": "missing/O/159643-oneons-prisoners.json"
+    },
+    {
       "igdb_id": 232385,
       "game_name": "Ones!",
       "file": "missing/O/232385-ones.json"
@@ -388688,6 +388753,11 @@
       "file": "missing/P/155081-panzer-corps-2-axis-operations-1941.json"
     },
     {
+      "igdb_id": 159689,
+      "game_name": "Panzer Corps 2: Axis Operations - 1942",
+      "file": "missing/P/159689-panzer-corps-2-axis-operations-1942.json"
+    },
+    {
       "igdb_id": 220620,
       "game_name": "Panzer Corps 2: Axis Operations - 1944",
       "file": "missing/P/220620-panzer-corps-2-axis-operations-1944.json"
@@ -393293,6 +393363,11 @@
       "file": "missing/P/124783-pc-building-simulator-deadstick-case.json"
     },
     {
+      "igdb_id": 159688,
+      "game_name": "PC Building Simulator: Fractal Workshop",
+      "file": "missing/P/159688-pc-building-simulator-fractal-workshop.json"
+    },
+    {
       "igdb_id": 124811,
       "game_name": "PC Building Simulator: Good Company Case",
       "file": "missing/P/124811-pc-building-simulator-good-company-case.json"
@@ -397476,6 +397551,11 @@
       "igdb_id": 149585,
       "game_name": "Phoenix Point: Legacy of the Ancients",
       "file": "missing/P/149585-phoenix-point-legacy-of-the-ancients.json"
+    },
+    {
+      "igdb_id": 159694,
+      "game_name": "Phoenix Point: Year One Edition - Festering Skies",
+      "file": "missing/P/159694-phoenix-point-year-one-edition-festering-skies.json"
     },
     {
       "igdb_id": 331484,
@@ -406216,6 +406296,11 @@
       "igdb_id": 400286,
       "game_name": "Plobania 47/B",
       "file": "missing/P/400286-plobania-47-b.json"
+    },
+    {
+      "igdb_id": 159682,
+      "game_name": "Ploid",
+      "file": "missing/P/159682-ploid.json"
     },
     {
       "igdb_id": 132628,
@@ -425148,6 +425233,11 @@
       "file": "missing/Q/272945-queer-quest-all-in-a-gays-work.json"
     },
     {
+      "igdb_id": 159649,
+      "game_name": "Queerskins: A love story",
+      "file": "missing/Q/159649-queerskins-a-love-story.json"
+    },
+    {
       "igdb_id": 15741,
       "game_name": "Quell",
       "file": "missing/Q/15741-quell.json"
@@ -433086,6 +433176,11 @@
       "igdb_id": 132618,
       "game_name": "Realpolitiks II",
       "file": "missing/R/132618-realpolitiks-ii.json"
+    },
+    {
+      "igdb_id": 159693,
+      "game_name": "Realpolitiks II: Deluxe Edition",
+      "file": "missing/R/159693-realpolitiks-ii-deluxe-edition.json"
     },
     {
       "igdb_id": 97304,
@@ -441363,6 +441458,66 @@
       "file": "missing/R/165985-ride-3-top-performance-pack.json"
     },
     {
+      "igdb_id": 159661,
+      "game_name": "Ride 4: Best Vintage 80's - 90's",
+      "file": "missing/R/159661-ride-4-best-vintage-80s-90s.json"
+    },
+    {
+      "igdb_id": 159665,
+      "game_name": "Ride 4: Bonus Pack 01",
+      "file": "missing/R/159665-ride-4-bonus-pack-01.json"
+    },
+    {
+      "igdb_id": 159677,
+      "game_name": "Ride 4: Bonus Pack 02",
+      "file": "missing/R/159677-ride-4-bonus-pack-02.json"
+    },
+    {
+      "igdb_id": 159669,
+      "game_name": "Ride 4: Bonus Pack 03",
+      "file": "missing/R/159669-ride-4-bonus-pack-03.json"
+    },
+    {
+      "igdb_id": 159675,
+      "game_name": "Ride 4: Bonus Pack 04",
+      "file": "missing/R/159675-ride-4-bonus-pack-04.json"
+    },
+    {
+      "igdb_id": 159676,
+      "game_name": "Ride 4: Bonus Pack 05",
+      "file": "missing/R/159676-ride-4-bonus-pack-05.json"
+    },
+    {
+      "igdb_id": 159673,
+      "game_name": "Ride 4: Bonus Pack 06",
+      "file": "missing/R/159673-ride-4-bonus-pack-06.json"
+    },
+    {
+      "igdb_id": 159667,
+      "game_name": "Ride 4: Bonus Pack 07",
+      "file": "missing/R/159667-ride-4-bonus-pack-07.json"
+    },
+    {
+      "igdb_id": 159679,
+      "game_name": "Ride 4: Bonus Pack 08",
+      "file": "missing/R/159679-ride-4-bonus-pack-08.json"
+    },
+    {
+      "igdb_id": 159663,
+      "game_name": "Ride 4: Bonus Pack 09",
+      "file": "missing/R/159663-ride-4-bonus-pack-09.json"
+    },
+    {
+      "igdb_id": 159657,
+      "game_name": "Ride 4: Bonus Pack 10",
+      "file": "missing/R/159657-ride-4-bonus-pack-10.json"
+    },
+    {
+      "igdb_id": 159659,
+      "game_name": "Ride 4: Bonus Pack 11",
+      "file": "missing/R/159659-ride-4-bonus-pack-11.json"
+    },
+    {
       "igdb_id": 165987,
       "game_name": "Ride 4: Bonus Pack 13",
       "file": "missing/R/165987-ride-4-bonus-pack-13.json"
@@ -441373,9 +441528,29 @@
       "file": "missing/R/190708-ride-4-bonus-pack-14.json"
     },
     {
+      "igdb_id": 159658,
+      "game_name": "Ride 4: European Bikes Pack",
+      "file": "missing/R/159658-ride-4-european-bikes-pack.json"
+    },
+    {
+      "igdb_id": 159666,
+      "game_name": "Ride 4: Extreme Performance",
+      "file": "missing/R/159666-ride-4-extreme-performance.json"
+    },
+    {
+      "igdb_id": 159678,
+      "game_name": "Ride 4: Italian Style Pack 1",
+      "file": "missing/R/159678-ride-4-italian-style-pack-1.json"
+    },
+    {
       "igdb_id": 165988,
       "game_name": "Ride 4: Italian Style Pack 2",
       "file": "missing/R/165988-ride-4-italian-style-pack-2.json"
+    },
+    {
+      "igdb_id": 159674,
+      "game_name": "Ride 4: Kyalami Pack",
+      "file": "missing/R/159674-ride-4-kyalami-pack.json"
     },
     {
       "igdb_id": 190706,
@@ -441383,9 +441558,49 @@
       "file": "missing/R/190706-ride-4-naked-japan-style.json"
     },
     {
+      "igdb_id": 159660,
+      "game_name": "Ride 4: Power Naked Pack",
+      "file": "missing/R/159660-ride-4-power-naked-pack.json"
+    },
+    {
       "igdb_id": 173171,
       "game_name": "Ride 4: Special Edition",
       "file": "missing/R/173171-ride-4-special-edition.json"
+    },
+    {
+      "igdb_id": 159672,
+      "game_name": "Ride 4: Sportbikes 101",
+      "file": "missing/R/159672-ride-4-sportbikes-101.json"
+    },
+    {
+      "igdb_id": 159671,
+      "game_name": "Ride 4: Street Kings",
+      "file": "missing/R/159671-ride-4-street-kings.json"
+    },
+    {
+      "igdb_id": 159662,
+      "game_name": "Ride 4: Superbikes 2000",
+      "file": "missing/R/159662-ride-4-superbikes-2000.json"
+    },
+    {
+      "igdb_id": 159668,
+      "game_name": "Ride 4: The Collector's Pack",
+      "file": "missing/R/159668-ride-4-the-collectors-pack.json"
+    },
+    {
+      "igdb_id": 159670,
+      "game_name": "Ride 4: Ultimate 2020",
+      "file": "missing/R/159670-ride-4-ultimate-2020.json"
+    },
+    {
+      "igdb_id": 159664,
+      "game_name": "Ride 4: USA Tribute Pack",
+      "file": "missing/R/159664-ride-4-usa-tribute-pack.json"
+    },
+    {
+      "igdb_id": 159656,
+      "game_name": "Ride 4: Valencia Pack",
+      "file": "missing/R/159656-ride-4-valencia-pack.json"
     },
     {
       "igdb_id": 288213,
@@ -485363,6 +485578,11 @@
       "file": "missing/S/38948-snooker-live-pro.json"
     },
     {
+      "igdb_id": 159646,
+      "game_name": "Snooker Loopy Pro",
+      "file": "missing/S/159646-snooker-loopy-pro.json"
+    },
+    {
       "igdb_id": 33123,
       "game_name": "Snooker Nation Championship",
       "file": "missing/S/33123-snooker-nation-championship.json"
@@ -493511,6 +493731,11 @@
       "igdb_id": 145669,
       "game_name": "Space 2: Breakthrough Gaming Arcade",
       "file": "missing/S/145669-space-2-breakthrough-gaming-arcade.json"
+    },
+    {
+      "igdb_id": 159642,
+      "game_name": "Space Abyss",
+      "file": "missing/S/159642-space-abyss.json"
     },
     {
       "igdb_id": 100161,
@@ -542143,6 +542368,11 @@
       "file": "missing/T/336539-the-ballad-of-bellum.json"
     },
     {
+      "igdb_id": 159648,
+      "game_name": "The Ballad of Bonky",
+      "file": "missing/T/159648-the-ballad-of-bonky.json"
+    },
+    {
       "igdb_id": 207295,
       "game_name": "The Ballad of Radolf",
       "file": "missing/T/207295-the-ballad-of-radolf.json"
@@ -557331,6 +557561,11 @@
       "igdb_id": 179740,
       "game_name": "The Mannequin",
       "file": "missing/T/179740-the-mannequin.json"
+    },
+    {
+      "igdb_id": 159683,
+      "game_name": "The Mansion",
+      "file": "missing/T/159683-the-mansion.json"
     },
     {
       "igdb_id": 45522,
@@ -593513,6 +593748,11 @@
       "file": "missing/T/63229-tridefense.json"
     },
     {
+      "igdb_id": 159647,
+      "game_name": "Trident",
+      "file": "missing/T/159647-trident.json"
+    },
+    {
       "igdb_id": 336161,
       "game_name": "Trident's Tale",
       "file": "missing/T/336161-tridents-tale.json"
@@ -595286,6 +595526,11 @@
       "igdb_id": 120412,
       "game_name": "Truefish",
       "file": "missing/T/120412-truefish.json"
+    },
+    {
+      "igdb_id": 159651,
+      "game_name": "Truffle Hogs",
+      "file": "missing/T/159651-truffle-hogs.json"
     },
     {
       "igdb_id": 197766,
@@ -613111,6 +613356,11 @@
       "igdb_id": 301951,
       "game_name": "Vizul",
       "file": "missing/V/301951-vizul.json"
+    },
+    {
+      "igdb_id": 159644,
+      "game_name": "Vizzle",
+      "file": "missing/V/159644-vizzle.json"
     },
     {
       "igdb_id": 337993,
