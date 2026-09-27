@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1on1 Basketball | 59651 | [59651-1on1-basketball.json](./59651-1on1-basketball.json) |
 | 1on1 Soccer | 59649 | [59649-1on1-soccer.json](./59649-1on1-soccer.json) |
 | 1Second | 363873 | [363873-1second.json](./363873-1second.json) |
+| 1sland | 142339 | [142339-1sland.json](./142339-1sland.json) |
 | 1st Core | 103444 | [103444-1st-core.json](./103444-1st-core.json) |
 | 1st Grade | 91743 | [91743-1st-grade.json](./91743-1st-grade.json) |
 | 1st Homizio | 378278 | [378278-1st-homizio.json](./378278-1st-homizio.json) |
