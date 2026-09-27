@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macs World | 193714 | [193714-macs-world.json](./193714-macs-world.json) |
 | MacShot | 192447 | [192447-macshot.json](./192447-macshot.json) |
 | Mad Arkanoid | 50536 | [50536-mad-arkanoid.json](./50536-mad-arkanoid.json) |
+| Mad Ball | 128449 | [128449-mad-ball.json](./128449-mad-ball.json) |
 | Mad Blocker Arcade | 65744 | [65744-mad-blocker-arcade.json](./65744-mad-blocker-arcade.json) |
 | Mad Blocker HD | 52558 | [52558-mad-blocker-hd.json](./52558-mad-blocker-hd.json) |
 | Mad Bullets | 33262 | [33262-mad-bullets.json](./33262-mad-bullets.json) |
@@ -5000,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MindGym | 172145 | [172145-mindgym.json](./172145-mindgym.json) |
 | Mindhack | 151735 | [151735-mindhack.json](./151735-mindhack.json) |
 | Mindhive: Wilds | 341164 | [341164-mindhive-wilds.json](./341164-mindhive-wilds.json) |
+| MindLess | 128457 | [128457-mindless.json](./128457-mindless.json) |
 | Mindlock: The Apartment | 275333 | [275333-mindlock-the-apartment.json](./275333-mindlock-the-apartment.json) |
 | MindMessenger | 342156 | [342156-mindmessenger.json](./342156-mindmessenger.json) |
 | Minds of Nations | 128985 | [128985-minds-of-nations.json](./128985-minds-of-nations.json) |
@@ -7702,6 +7704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Transporter - Truck Driving Simulator | 88735 | [88735-mr-transporter-truck-driving-simulator.json](./88735-mr-transporter-truck-driving-simulator.json) |
 | Mr. Whiskers Bubbles | 385088 | [385088-mr-whiskers-bubbles.json](./385088-mr-whiskers-bubbles.json) |
 | Mr. Wings | 255714 | [255714-mr-wings.json](./255714-mr-wings.json) |
+| Mr. Wiz | 128447 | [128447-mr-wiz.json](./128447-mr-wiz.json) |
 | Mr. Woodpecker | 298648 | [298648-mr-woodpecker.json](./298648-mr-woodpecker.json) |
 | Mr. Yeti's Fast Food | 179495 | [179495-mr-yetis-fast-food.json](./179495-mr-yetis-fast-food.json) |
 | Mr. Zippy is Watching | 401090 | [401090-mr-zippy-is-watching.json](./401090-mr-zippy-is-watching.json) |
