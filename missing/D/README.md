@@ -4301,6 +4301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | District: Evolution | 328550 | [328550-district-evolution.json](./328550-district-evolution.json) |
 | DistroCards | 392807 | [392807-distrocards.json](./392807-distrocards.json) |
 | Disturbed 2 | 28904 | [28904-disturbed-2.json](./28904-disturbed-2.json) |
+| Disturbed R.I.P. | 151080 | [151080-disturbed-r-i-p.json](./151080-disturbed-r-i-p.json) |
 | Ditch Whit #1: Shield Night | 202922 | [202922-ditch-whit-1-shield-night.json](./202922-ditch-whit-1-shield-night.json) |
 | DitherDream | 285020 | [285020-ditherdream.json](./285020-ditherdream.json) |
 | Dithered | 122411 | [122411-dithered.json](./122411-dithered.json) |
@@ -4495,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do I Pass? | 179738 | [179738-do-i-pass.json](./179738-do-i-pass.json) |
 | Do I Really Like Chocolate? | 397944 | [397944-do-i-really-like-chocolate.json](./397944-do-i-really-like-chocolate.json) |
 | Do It for Me | 122997 | [122997-do-it-for-me.json](./122997-do-it-for-me.json) |
+| Do It With Hay | 151084 | [151084-do-it-with-hay.json](./151084-do-it-with-hay.json) |
 | Do No Harm | 324687 | [324687-do-no-harm.json](./324687-do-no-harm.json) |
 | Do Not Crash | 252391 | [252391-do-not-crash.json](./252391-do-not-crash.json) |
 | Do not Donut. | 208474 | [208474-do-not-donut.json](./208474-do-not-donut.json) |
@@ -7017,6 +7019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Duck Swap | 218155 | [218155-duck-duck-swap.json](./218155-duck-duck-swap.json) |
 | Duck Dynasty: Battle of the Beards | 234327 | [234327-duck-dynasty-battle-of-the-beards.json](./234327-duck-dynasty-battle-of-the-beards.json) |
 | Duck Eggs | 325058 | [325058-duck-eggs.json](./325058-duck-eggs.json) |
+| Duck Flighting | 151089 | [151089-duck-flighting.json](./151089-duck-flighting.json) |
 | Duck Guardian One | 135883 | [135883-duck-guardian-one.json](./135883-duck-guardian-one.json) |
 | Duck Hunt | 2741 | [2741-duck-hunt.json](./2741-duck-hunt.json) |
 | Duck Hunt 2 | 127992 | [127992-duck-hunt-2.json](./127992-duck-hunt-2.json) |
