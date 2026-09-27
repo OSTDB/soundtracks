@@ -1681,6 +1681,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ni Hao, Kai-Lan: New Year's Celebration | 97371 | [97371-ni-hao-kai-lan-new-years-celebration.json](./97371-ni-hao-kai-lan-new-years-celebration.json) |
 | Ni Hao, Kai-Lan: Super Happy Day! | 230393 | [230393-ni-hao-kai-lan-super-happy-day.json](./230393-ni-hao-kai-lan-super-happy-day.json) |
 | Ni no Kuni II: Revenant Kingdom - Adventure Pack | 154454 | [154454-ni-no-kuni-ii-revenant-kingdom-adventure-pack.json](./154454-ni-no-kuni-ii-revenant-kingdom-adventure-pack.json) |
+| Ni no Kuni II: Revenant Kingdom - Collector's Edition | 136358 | [136358-ni-no-kuni-ii-revenant-kingdom-collectors-edition.json](./136358-ni-no-kuni-ii-revenant-kingdom-collectors-edition.json) |
+| Ni no Kuni II: Revenant Kingdom - Day One Edition | 136325 | [136325-ni-no-kuni-ii-revenant-kingdom-day-one-edition.json](./136325-ni-no-kuni-ii-revenant-kingdom-day-one-edition.json) |
+| Ni no Kuni II: Revenant Kingdom - Premium Edition | 136328 | [136328-ni-no-kuni-ii-revenant-kingdom-premium-edition.json](./136328-ni-no-kuni-ii-revenant-kingdom-premium-edition.json) |
 | Ni no Kuni II: Revenant Kingdom - Tale of a Timeless Tome | 115646 | [115646-ni-no-kuni-ii-revenant-kingdom-tale-of-a-timeless-tome.json](./115646-ni-no-kuni-ii-revenant-kingdom-tale-of-a-timeless-tome.json) |
 | Ni no Kuni II: Revenant Kingdom - The Lair of the Lost Lord | 154455 | [154455-ni-no-kuni-ii-revenant-kingdom-the-lair-of-the-lost-lord.json](./154455-ni-no-kuni-ii-revenant-kingdom-the-lair-of-the-lost-lord.json) |
 | Ni no Kuni: Wrath of the White Witch | 1864 | [1864-ni-no-kuni-wrath-of-the-white-witch.json](./1864-ni-no-kuni-wrath-of-the-white-witch.json) |
