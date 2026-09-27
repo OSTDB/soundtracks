@@ -1143,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrot: The First Seed | 248918 | [248918-carrot-the-first-seed.json](./248918-carrot-the-first-seed.json) |
 | Carrots and Cream | 22414 | [22414-carrots-and-cream.json](./22414-carrots-and-cream.json) |
 | Carrotting Brain | 34418 | [34418-carrotting-brain.json](./34418-carrotting-brain.json) |
+| Carrumble | 122252 | [122252-carrumble.json](./122252-carrumble.json) |
 | Carry Onward | 249787 | [249787-carry-onward.json](./249787-carry-onward.json) |
 | Carry The Glass | 319399 | [319399-carry-the-glass.json](./319399-carry-the-glass.json) |
 | Carry the Pack Rack | 389711 | [389711-carry-the-pack-rack.json](./389711-carry-the-pack-rack.json) |
@@ -3443,6 +3444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Mirror | 276696 | [276696-chrono-mirror.json](./276696-chrono-mirror.json) |
 | Chrono Port: Heroes of All Time | 366320 | [366320-chrono-port-heroes-of-all-time.json](./366320-chrono-port-heroes-of-all-time.json) |
 | Chrono Ressurection | 263448 | [263448-chrono-ressurection.json](./263448-chrono-ressurection.json) |
+| Chrono Sword | 122280 | [122280-chrono-sword.json](./122280-chrono-sword.json) |
 | Chrono Tales | 333574 | [333574-chrono-tales.json](./333574-chrono-tales.json) |
 | Chrono Trigger | 20398 | [20398-chrono-trigger.json](./20398-chrono-trigger.json) |
 | Chrono Trigger | 263446 | [263446-chrono-trigger.json](./263446-chrono-trigger.json) |
@@ -7659,6 +7661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypto-Shots | 221844 | [221844-crypto-shots.json](./221844-crypto-shots.json) |
 | CryptoClash | 265730 | [265730-cryptoclash.json](./265730-cryptoclash.json) |
 | CryptoClickers | 218162 | [218162-cryptoclickers.json](./218162-cryptoclickers.json) |
+| Cryptofall: Investor simulator | 122253 | [122253-cryptofall-investor-simulator.json](./122253-cryptofall-investor-simulator.json) |
 | Cryptoforce | 247500 | [247500-cryptoforce.json](./247500-cryptoforce.json) |
 | Cryptogram | 355105 | [355105-cryptogram.json](./355105-cryptogram.json) |
 | Cryptogram | 413000 | [413000-cryptogram.json](./413000-cryptogram.json) |
