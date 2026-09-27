@@ -3446,6 +3446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Death of Zoe | 159841 | [159841-the-death-of-zoe.json](./159841-the-death-of-zoe.json) |
 | The Deathmind | 353381 | [353381-the-deathmind.json](./353381-the-deathmind.json) |
 | The Deceived Man | 310421 | [310421-the-deceived-man.json](./310421-the-deceived-man.json) |
+| The December Effect | 163766 | [163766-the-december-effect.json](./163766-the-december-effect.json) |
 | The December Job | 386871 | [386871-the-december-job.json](./386871-the-december-job.json) |
 | The Decline of Grandidier | 395592 | [395592-the-decline-of-grandidier.json](./395592-the-decline-of-grandidier.json) |
 | The Deed II | 122623 | [122623-the-deed-ii.json](./122623-the-deed-ii.json) |
@@ -5931,6 +5932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night Jackals Vol. 1 | 289975 | [289975-the-night-jackals-vol-1.json](./289975-the-night-jackals-vol-1.json) |
 | The Night of Erosion: Prequel | 267677 | [267677-the-night-of-erosion-prequel.json](./267677-the-night-of-erosion-prequel.json) |
 | The Night of Fire Stealing | 106412 | [106412-the-night-of-fire-stealing.json](./106412-the-night-of-fire-stealing.json) |
+| The Night of Fire Stealing 2 | 163751 | [163751-the-night-of-fire-stealing-2.json](./163751-the-night-of-fire-stealing-2.json) |
 | The Night of the Rabbit | 3230 | [3230-the-night-of-the-rabbit.json](./3230-the-night-of-the-rabbit.json) |
 | The Night Owl Murder | 260086 | [260086-the-night-owl-murder.json](./260086-the-night-owl-murder.json) |
 | The Night Ripper | 125259 | [125259-the-night-ripper.json](./125259-the-night-ripper.json) |
@@ -9049,6 +9051,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Soldier I: MP098 | 189429 | [189429-tiger-soldier-i-mp098.json](./189429-tiger-soldier-i-mp098.json) |
 | Tiger Soldier I: MP099 | 173702 | [173702-tiger-soldier-i-mp099.json](./173702-tiger-soldier-i-mp099.json) |
 | Tiger Soldier I: MP100 | 189428 | [189428-tiger-soldier-i-mp100.json](./189428-tiger-soldier-i-mp100.json) |
+| Tiger Striker: MP011 | 163725 | [163725-tiger-striker-mp011.json](./163725-tiger-striker-mp011.json) |
+| Tiger Striker: MP012 | 163723 | [163723-tiger-striker-mp012.json](./163723-tiger-striker-mp012.json) |
+| Tiger Striker: MP014 | 163718 | [163718-tiger-striker-mp014.json](./163718-tiger-striker-mp014.json) |
+| Tiger Striker: MP015 | 163722 | [163722-tiger-striker-mp015.json](./163722-tiger-striker-mp015.json) |
+| Tiger Striker: MP016 | 163731 | [163731-tiger-striker-mp016.json](./163731-tiger-striker-mp016.json) |
+| Tiger Striker: MP018 | 163728 | [163728-tiger-striker-mp018.json](./163728-tiger-striker-mp018.json) |
+| Tiger Striker: MP020 | 163730 | [163730-tiger-striker-mp020.json](./163730-tiger-striker-mp020.json) |
+| Tiger Striker: MP021 | 163719 | [163719-tiger-striker-mp021.json](./163719-tiger-striker-mp021.json) |
+| Tiger Striker: MP022 | 163729 | [163729-tiger-striker-mp022.json](./163729-tiger-striker-mp022.json) |
+| Tiger Striker: MP025 | 163732 | [163732-tiger-striker-mp025.json](./163732-tiger-striker-mp025.json) |
+| Tiger Striker: MP026 | 163726 | [163726-tiger-striker-mp026.json](./163726-tiger-striker-mp026.json) |
+| Tiger Striker: MP027 | 163721 | [163721-tiger-striker-mp027.json](./163721-tiger-striker-mp027.json) |
+| Tiger Striker: MP028 | 163724 | [163724-tiger-striker-mp028.json](./163724-tiger-striker-mp028.json) |
+| Tiger Striker: MP029 | 163727 | [163727-tiger-striker-mp029.json](./163727-tiger-striker-mp029.json) |
+| Tiger Striker: MP030 | 163720 | [163720-tiger-striker-mp030.json](./163720-tiger-striker-mp030.json) |
 | Tiger Striker: MP054 | 189720 | [189720-tiger-striker-mp054.json](./189720-tiger-striker-mp054.json) |
 | Tiger Striker: MP058 | 189721 | [189721-tiger-striker-mp058.json](./189721-tiger-striker-mp058.json) |
 | Tiger Striker: MP081 | 189719 | [189719-tiger-striker-mp081.json](./189719-tiger-striker-mp081.json) |
