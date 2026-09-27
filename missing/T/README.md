@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Scale | 339628 | [339628-tale-of-scale.json](./339628-tale-of-scale.json) |
 | Tale of Season | 174762 | [174762-tale-of-season.json](./174762-tale-of-season.json) |
 | Tale of Serendipity | 189056 | [189056-tale-of-serendipity.json](./189056-tale-of-serendipity.json) |
+| Tale of Starship | 126510 | [126510-tale-of-starship.json](./126510-tale-of-starship.json) |
 | Tale of Swords | 113734 | [113734-tale-of-swords.json](./113734-tale-of-swords.json) |
 | Tale of Swords: Eternal Love | 104469 | [104469-tale-of-swords-eternal-love.json](./104469-tale-of-swords-eternal-love.json) |
 | Tale of Swords: Mystery Scroll | 83544 | [83544-tale-of-swords-mystery-scroll.json](./83544-tale-of-swords-mystery-scroll.json) |
@@ -3831,6 +3832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Endless Express | 26669 | [26669-the-endless-express.json](./26669-the-endless-express.json) |
 | The Endless Journey | 81068 | [81068-the-endless-journey.json](./81068-the-endless-journey.json) |
 | The Endless Village | 401522 | [401522-the-endless-village.json](./401522-the-endless-village.json) |
+| The Endless White | 126518 | [126518-the-endless-white.json](./126518-the-endless-white.json) |
 | The Endless Wyrd | 133353 | [133353-the-endless-wyrd.json](./133353-the-endless-wyrd.json) |
 | The Enemy Approached the Walls | 224536 | [224536-the-enemy-approached-the-walls.json](./224536-the-enemy-approached-the-walls.json) |
 | The Enemy Below | 151010 | [151010-the-enemy-below.json](./151010-the-enemy-below.json) |
@@ -8365,6 +8367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Is No Escape | 396213 | [396213-there-is-no-escape.json](./396213-there-is-no-escape.json) |
 | There Is No Fangame | 406811 | [406811-there-is-no-fangame.json](./406811-there-is-no-fangame.json) |
 | There Is No Game: Jam Edition 2015 | 132522 | [132522-there-is-no-game-jam-edition-2015.json](./132522-there-is-no-game-jam-edition-2015.json) |
+| There is No GreenDam | 126532 | [126532-there-is-no-greendam.json](./126532-there-is-no-greendam.json) |
 | There Is No Light | 138213 | [138213-there-is-no-light.json](./138213-there-is-no-light.json) |
 | There Is No Light 616 | 180203 | [180203-there-is-no-light-616.json](./180203-there-is-no-light-616.json) |
 | There Is No Next Stop | 391879 | [391879-there-is-no-next-stop.json](./391879-there-is-no-next-stop.json) |
@@ -8925,6 +8928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiddy Bounce | 156061 | [156061-tiddy-bounce.json](./156061-tiddy-bounce.json) |
 | Tide of Thieves | 216501 | [216501-tide-of-thieves.json](./216501-tide-of-thieves.json) |
 | Tide: 1927 | 368034 | [368034-tide-1927.json](./368034-tide-1927.json) |
+| Tides of Existence | 126504 | [126504-tides-of-existence.json](./126504-tides-of-existence.json) |
 | Tides of the Endless | 345037 | [345037-tides-of-the-endless.json](./345037-tides-of-the-endless.json) |
 | Tides of Time | 215096 | [215096-tides-of-time.json](./215096-tides-of-time.json) |
 | Tides of Time: The Board Game | 175284 | [175284-tides-of-time-the-board-game.json](./175284-tides-of-time-the-board-game.json) |
