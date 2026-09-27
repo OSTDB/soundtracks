@@ -1116,6 +1116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall of Mayhem | 188502 | [188502-mall-of-mayhem.json](./188502-mall-of-mayhem.json) |
 | Mall Simulator | 326402 | [326402-mall-simulator.json](./326402-mall-simulator.json) |
 | Mall Together | 400213 | [400213-mall-together.json](./400213-mall-together.json) |
+| Mall Town | 119629 | [119629-mall-town.json](./119629-mall-town.json) |
 | Mall Tycoon | 23450 | [23450-mall-tycoon.json](./23450-mall-tycoon.json) |
 | Malleus Maleficarum | 373104 | [373104-malleus-maleficarum.json](./373104-malleus-maleficarum.json) |
 | Malleus Maleficarum: The Witch of San Ignacio | 318794 | [318794-malleus-maleficarum-the-witch-of-san-ignacio.json](./318794-malleus-maleficarum-the-witch-of-san-ignacio.json) |
@@ -2088,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mash | 100606 | [100606-mash.json](./100606-mash.json) |
 | Mash Motion: Sprint Rush | 397950 | [397950-mash-motion-sprint-rush.json](./397950-mash-motion-sprint-rush.json) |
 | Mash VP! Re:Vision | 319746 | [319746-mash-vp-re-vision.json](./319746-mash-vp-re-vision.json) |
+| Mash&Co | 119645 | [119645-mash-and-co.json](./119645-mash-and-co.json) |
 | Masha and Medved | 216457 | [216457-masha-and-medved.json](./216457-masha-and-medved.json) |
 | Masha and the Bear Child Games: Cooking Adventure | 95847 | [95847-masha-and-the-bear-child-games-cooking-adventure.json](./95847-masha-and-the-bear-child-games-cooking-adventure.json) |
 | Masha and the Bear: Dentist | 227487 | [227487-masha-and-the-bear-dentist.json](./227487-masha-and-the-bear-dentist.json) |
@@ -2643,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Invaders | 98243 | [98243-maze-invaders.json](./98243-maze-invaders.json) |
 | Maze It Out | 374730 | [374730-maze-it-out.json](./374730-maze-it-out.json) |
 | Maze Lord | 33305 | [33305-maze-lord.json](./33305-maze-lord.json) |
+| Maze Machina | 119646 | [119646-maze-machina.json](./119646-maze-machina.json) |
 | Maze Madness | 101598 | [101598-maze-madness.json](./101598-maze-madness.json) |
 | Maze Maid | 287656 | [287656-maze-maid.json](./287656-maze-maid.json) |
 | Maze Master | 94010 | [94010-maze-master.json](./94010-maze-master.json) |
@@ -3547,6 +3550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melon Dusk | 196238 | [196238-melon-dusk.json](./196238-melon-dusk.json) |
 | Melon Journey | 132112 | [132112-melon-journey.json](./132112-melon-journey.json) |
 | Melon Journey Pocket | 244794 | [244794-melon-journey-pocket.json](./244794-melon-journey-pocket.json) |
+| Melon Journey: Bittersweet Memories | 119653 | [119653-melon-journey-bittersweet-memories.json](./119653-melon-journey-bittersweet-memories.json) |
 | Melon Madness | 288765 | [288765-melon-madness.json](./288765-melon-madness.json) |
 | Melon on a Mission | 416071 | [416071-melon-on-a-mission.json](./416071-melon-on-a-mission.json) |
 | Melon Parker: We are Whatever Club! | 378816 | [378816-melon-parker-we-are-whatever-club.json](./378816-melon-parker-we-are-whatever-club.json) |
@@ -6872,6 +6876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Thirst | 310177 | [310177-moon-thirst.json](./310177-moon-thirst.json) |
 | Moon Tower: Gotta Save the Universe Real Quick | 287224 | [287224-moon-tower-gotta-save-the-universe-real-quick.json](./287224-moon-tower-gotta-save-the-universe-real-quick.json) |
 | Moon Tycoon | 120150 | [120150-moon-tycoon.json](./120150-moon-tycoon.json) |
+| Moon Village | 119639 | [119639-moon-village.json](./119639-moon-village.json) |
 | Moon Waltz | 201291 | [201291-moon-waltz.json](./201291-moon-waltz.json) |
 | Moon Wars | 287233 | [287233-moon-wars.json](./287233-moon-wars.json) |
 | Moon Whistle | 166142 | [166142-moon-whistle.json](./166142-moon-whistle.json) |
