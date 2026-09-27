@@ -2983,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambushed | 188492 | [188492-ambushed.json](./188492-ambushed.json) |
 | Ambusher | 267479 | [267479-ambusher.json](./267479-ambusher.json) |
 | Ambuuu | 329936 | [329936-ambuuu.json](./329936-ambuuu.json) |
+| Ame Koi | 166524 | [166524-ame-koi.json](./166524-ame-koi.json) |
 | Ame ni Negaeba: Wishin' in the Rain | 301601 | [301601-ame-ni-negaeba-wishin-in-the-rain.json](./301601-ame-ni-negaeba-wishin-in-the-rain.json) |
 | Ame ni Utau Tanshikyoku: A Rainbow After the Rain | 271170 | [271170-ame-ni-utau-tanshikyoku-a-rainbow-after-the-rain.json](./271170-ame-ni-utau-tanshikyoku-a-rainbow-after-the-rain.json) |
 | Ame no Marginal -Rain Marginal- | 35747 | [35747-ame-no-marginal-rain-marginal.json](./35747-ame-no-marginal-rain-marginal.json) |
