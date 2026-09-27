@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calavera: Day of the Dead - Collector's Edition | 28877 | [28877-calavera-day-of-the-dead-collectors-edition.json](./28877-calavera-day-of-the-dead-collectors-edition.json) |
 | Calcium Chaos | 199353 | [199353-calcium-chaos.json](./199353-calcium-chaos.json) |
 | Calcium Contract | 251814 | [251814-calcium-contract.json](./251814-calcium-contract.json) |
+| Calcolo!: Ochimo no Shooting | 146763 | [146763-calcolo-ochimo-no-shooting.json](./146763-calcolo-ochimo-no-shooting.json) |
 | Calcu-Late | 33331 | [33331-calcu-late.json](./33331-calcu-late.json) |
 | Calculate It | 317375 | [317375-calculate-it.json](./317375-calculate-it.json) |
 | Calculation Castle: Greco's Ghostly Challenge "Addition" | 105924 | [105924-calculation-castle-grecos-ghostly-challenge-addition.json](./105924-calculation-castle-grecos-ghostly-challenge-addition.json) |
@@ -3966,6 +3967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic NES Series: Zelda II - The Adventure of Link | 136280 | [136280-classic-nes-series-zelda-ii-the-adventure-of-link.json](./136280-classic-nes-series-zelda-ii-the-adventure-of-link.json) |
 | Classic Offensive | 250310 | [250310-classic-offensive.json](./250310-classic-offensive.json) |
 | Classic Pool and Cyber Pool Bundle | 251804 | [251804-classic-pool-and-cyber-pool-bundle.json](./251804-classic-pool-and-cyber-pool-bundle.json) |
+| Classic Racers Elite | 146787 | [146787-classic-racers-elite.json](./146787-classic-racers-elite.json) |
 | Classic Racing Pack: Moto Roader MC + Rider's Spirits | 317238 | [317238-classic-racing-pack-moto-roader-mc-riders-spirits.json](./317238-classic-racing-pack-moto-roader-mc-riders-spirits.json) |
 | Classic Snake Adventures | 130395 | [130395-classic-snake-adventures.json](./130395-classic-snake-adventures.json) |
 | Classic snake final | 88791 | [88791-classic-snake-final.json](./88791-classic-snake-final.json) |
@@ -5165,6 +5167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command Center Earth | 273634 | [273634-command-center-earth.json](./273634-command-center-earth.json) |
 | Command Doctrine | 416109 | [416109-command-doctrine.json](./416109-command-doctrine.json) |
 | Command Line Mazer | 203972 | [203972-command-line-mazer.json](./203972-command-line-mazer.json) |
+| Command Line Pilot | 146783 | [146783-command-line-pilot.json](./146783-command-line-pilot.json) |
 | Command Monster | 413763 | [413763-command-monster.json](./413763-command-monster.json) |
 | Command Ops 2: Bastogne Vol. 4 | 170396 | [170396-command-ops-2-bastogne-vol-4.json](./170396-command-ops-2-bastogne-vol-4.json) |
 | Command Ops 2: Bradley at Bay Vol. 8 | 170395 | [170395-command-ops-2-bradley-at-bay-vol-8.json](./170395-command-ops-2-bradley-at-bay-vol-8.json) |
@@ -6187,6 +6190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotton Boomerang | 39830 | [39830-cotton-boomerang.json](./39830-cotton-boomerang.json) |
 | Cotton Boomerang: Saturn Tribute | 173781 | [173781-cotton-boomerang-saturn-tribute.json](./173781-cotton-boomerang-saturn-tribute.json) |
 | Cotton Games' New Game Bundle | 196811 | [196811-cotton-games-new-game-bundle.json](./196811-cotton-games-new-game-bundle.json) |
+| Cotton Guardian Force: Saturn Tribute | 146808 | [146808-cotton-guardian-force-saturn-tribute.json](./146808-cotton-guardian-force-saturn-tribute.json) |
 | Cottonville | 346242 | [346242-cottonville.json](./346242-cottonville.json) |
 | Couch Co-Op Bundle Vol. 2 | 147796 | [147796-couch-co-op-bundle-vol-2.json](./147796-couch-co-op-bundle-vol-2.json) |
 | Couch Co-Op: Urban Flow + Knights & Guns | 243795 | [243795-couch-co-op-urban-flow-knights-and-guns.json](./243795-couch-co-op-urban-flow-knights-and-guns.json) |
@@ -6954,6 +6958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crest of the Stars | 57940 | [57940-crest-of-the-stars.json](./57940-crest-of-the-stars.json) |
 | Cresteaju | 143094 | [143094-cresteaju.json](./143094-cresteaju.json) |
 | Creta | 318538 | [318538-creta.json](./318538-creta.json) |
+| Cretaceous Carnage | 146803 | [146803-cretaceous-carnage.json](./146803-cretaceous-carnage.json) |
 | Crevis | 59413 | [59413-crevis.json](./59413-crevis.json) |
 | Crew Crew Blocks | 150162 | [150162-crew-crew-blocks.json](./150162-crew-crew-blocks.json) |
 | Crewmate Rush Space Escape Runner | 414539 | [414539-crewmate-rush-space-escape-runner.json](./414539-crewmate-rush-space-escape-runner.json) |
