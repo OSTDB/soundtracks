@@ -1846,6 +1846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seclusion: Islesbury | 28147 | [28147-seclusion-islesbury.json](./28147-seclusion-islesbury.json) |
 | Second Base | 388257 | [388257-second-base.json](./388257-second-base.json) |
 | Second Chance | 111668 | [111668-second-chance.json](./111668-second-chance.json) |
+| Second Chance | 144198 | [144198-second-chance.json](./144198-second-chance.json) |
 | Second Chance | 182971 | [182971-second-chance.json](./182971-second-chance.json) |
 | Second Chance | 184499 | [184499-second-chance.json](./184499-second-chance.json) |
 | Second Chances | 337728 | [337728-second-chances.json](./337728-second-chances.json) |
@@ -2446,6 +2447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serial Lover | 133207 | [133207-serial-lover.json](./133207-serial-lover.json) |
 | Serial World | 301328 | [301328-serial-world.json](./301328-serial-world.json) |
 | Series Makers Tycoon | 173806 | [173806-series-makers-tycoon.json](./173806-series-makers-tycoon.json) |
+| Series: Your Story Universe | 144197 | [144197-series-your-story-universe.json](./144197-series-your-story-universe.json) |
 | Serious Breakdown | 191223 | [191223-serious-breakdown.json](./191223-serious-breakdown.json) |
 | Serious Sam | 291050 | [291050-serious-sam.json](./291050-serious-sam.json) |
 | Serious Sam 3: BFE | 527 | [527-serious-sam-3-bfe.json](./527-serious-sam-3-bfe.json) |
@@ -2820,6 +2822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Gambit: Zagan's Ritual | 279542 | [279542-shadow-gambit-zagans-ritual.json](./279542-shadow-gambit-zagans-ritual.json) |
 | Shadow Game | 331297 | [331297-shadow-game.json](./331297-shadow-game.json) |
 | Shadow Girls | 396566 | [396566-shadow-girls.json](./396566-shadow-girls.json) |
+| Shadow Gunner: The Robot Wars | 144188 | [144188-shadow-gunner-the-robot-wars.json](./144188-shadow-gunner-the-robot-wars.json) |
 | Shadow Harvest: Phantom Ops | 16236 | [16236-shadow-harvest-phantom-ops.json](./16236-shadow-harvest-phantom-ops.json) |
 | Shadow Hawk One | 282140 | [282140-shadow-hawk-one.json](./282140-shadow-hawk-one.json) |
 | Shadow Hold | 236223 | [236223-shadow-hold.json](./236223-shadow-hold.json) |
@@ -5223,6 +5226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Dancers: They Magically Fly! | 49401 | [49401-sky-dancers-they-magically-fly.json](./49401-sky-dancers-they-magically-fly.json) |
 | Sky DarkCrow | 190195 | [190195-sky-darkcrow.json](./190195-sky-darkcrow.json) |
 | Sky Fighters | 275664 | [275664-sky-fighters.json](./275664-sky-fighters.json) |
+| Sky Fleet | 144190 | [144190-sky-fleet.json](./144190-sky-fleet.json) |
 | Sky Flight | 110968 | [110968-sky-flight.json](./110968-sky-flight.json) |
 | Sky Flowers | 404449 | [404449-sky-flowers.json](./404449-sky-flowers.json) |
 | Sky Fortress: Odyssey | 277033 | [277033-sky-fortress-odyssey.json](./277033-sky-fortress-odyssey.json) |
@@ -6036,6 +6040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashpunks | 178088 | [178088-smashpunks.json](./178088-smashpunks.json) |
 | SmashThem | 28202 | [28202-smashthem.json](./28202-smashthem.json) |
 | Smashy Brick | 237324 | [237324-smashy-brick.json](./237324-smashy-brick.json) |
+| Smashy Road: Wanted 2 | 144196 | [144196-smashy-road-wanted-2.json](./144196-smashy-road-wanted-2.json) |
 | SMB RMX: Shattered Realms | 370902 | [370902-smb-rmx-shattered-realms.json](./370902-smb-rmx-shattered-realms.json) |
 | SMBX: Level Contest Japan | 359515 | [359515-smbx-level-contest-japan.json](./359515-smbx-level-contest-japan.json) |
 | SMBX2 Demo Stages | 328243 | [328243-smbx2-demo-stages.json](./328243-smbx2-demo-stages.json) |
