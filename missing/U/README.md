@@ -1500,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Usagi Shima | 204511 | [204511-usagi-shima.json](./204511-usagi-shima.json) |
 | Usagi Yojimbo: Way of the Ronin | 36060 | [36060-usagi-yojimbo-way-of-the-ronin.json](./36060-usagi-yojimbo-way-of-the-ronin.json) |
 | Usagito Watashi | 280908 | [280908-usagito-watashi.json](./280908-usagito-watashi.json) |
+| Usavich - Game no Jikan | 133333 | [133333-usavich-game-no-jikan.json](./133333-usavich-game-no-jikan.json) |
 | USB-bot | 358302 | [358302-usb-bot.json](./358302-usb-bot.json) |
 | USD Clicker | 371916 | [371916-usd-clicker.json](./371916-usd-clicker.json) |
 | Use Holy Water! | 243961 | [243961-use-holy-water.json](./243961-use-holy-water.json) |
