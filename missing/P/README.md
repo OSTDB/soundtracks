@@ -5774,6 +5774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Carnage: Genesis | 80564 | [80564-primal-carnage-genesis.json](./80564-primal-carnage-genesis.json) |
 | Primal Chronicles | 336618 | [336618-primal-chronicles.json](./336618-primal-chronicles.json) |
 | Primal Dinosaur Shooter: Dino Killer | 374672 | [374672-primal-dinosaur-shooter-dino-killer.json](./374672-primal-dinosaur-shooter-dino-killer.json) |
+| Primal Dungeon | 158008 | [158008-primal-dungeon.json](./158008-primal-dungeon.json) |
 | Primal Echo | 374822 | [374822-primal-echo.json](./374822-primal-echo.json) |
 | Primal Force Arena | 317842 | [317842-primal-force-arena.json](./317842-primal-force-arena.json) |
 | Primal Fray | 244469 | [244469-primal-fray.json](./244469-primal-fray.json) |
