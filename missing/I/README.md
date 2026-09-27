@@ -1275,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Grass | 212289 | [212289-in-the-grass.json](./212289-in-the-grass.json) |
 | In the Grave Wood | 183599 | [183599-in-the-grave-wood.json](./183599-in-the-grave-wood.json) |
 | In the Intrigue of the Ratings | 145694 | [145694-in-the-intrigue-of-the-ratings.json](./145694-in-the-intrigue-of-the-ratings.json) |
+| In the Keeper's Shadow | 120884 | [120884-in-the-keepers-shadow.json](./120884-in-the-keepers-shadow.json) |
 | In the Line of Duty - Firefighter | 125314 | [125314-in-the-line-of-duty-firefighter.json](./125314-in-the-line-of-duty-firefighter.json) |
 | In the Line of Fire | 89244 | [89244-in-the-line-of-fire.json](./89244-in-the-line-of-fire.json) |
 | In the Line of My Heart | 189973 | [189973-in-the-line-of-my-heart.json](./189973-in-the-line-of-my-heart.json) |
@@ -1713,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Ops | 174826 | [174826-infinity-ops.json](./174826-infinity-ops.json) |
 | Infinity Party Battle | 224034 | [224034-infinity-party-battle.json](./224034-infinity-party-battle.json) |
 | Infinity Pinball | 142871 | [142871-infinity-pinball.json](./142871-infinity-pinball.json) |
+| Infinity Pipe | 120843 | [120843-infinity-pipe.json](./120843-infinity-pipe.json) |
 | Infinity R | 340752 | [340752-infinity-r.json](./340752-infinity-r.json) |
 | Infinity Rising | 315056 | [315056-infinity-rising.json](./315056-infinity-rising.json) |
 | Infinity Run | 105875 | [105875-infinity-run.json](./105875-infinity-run.json) |
@@ -2643,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ISEPS Idle Particle Simulator | 256524 | [256524-iseps-idle-particle-simulator.json](./256524-iseps-idle-particle-simulator.json) |
 | Iseran: Isekai Rantou | 257675 | [257675-iseran-isekai-rantou.json](./257675-iseran-isekai-rantou.json) |
 | Isernsmith | 382331 | [382331-isernsmith.json](./382331-isernsmith.json) |
+| Iseshima Mystery Annai: Itsuwari no Kuro Shinju | 120849 | [120849-iseshima-mystery-annai-itsuwari-no-kuro-shinju.json](./120849-iseshima-mystery-annai-itsuwari-no-kuro-shinju.json) |
 | Isha's Magic Book Decoding | 334701 | [334701-ishas-magic-book-decoding.json](./334701-ishas-magic-book-decoding.json) |
 | Ishar: Legend of the Fortress | 10856 | [10856-ishar-legend-of-the-fortress.json](./10856-ishar-legend-of-the-fortress.json) |
 | Ishara: Bane of the Seas | 133966 | [133966-ishara-bane-of-the-seas.json](./133966-ishara-bane-of-the-seas.json) |
