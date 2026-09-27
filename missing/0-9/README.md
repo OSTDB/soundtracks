@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1st Kochobo Dourado | 215199 | [215199-1st-kochobo-dourado.json](./215199-1st-kochobo-dourado.json) |
 | 1st Person Pinball | 12429 | [12429-1st-person-pinball.json](./12429-1st-person-pinball.json) |
 | 1v1 Arcade Soccer | 58469 | [58469-1v1-arcade-soccer.json](./58469-1v1-arcade-soccer.json) |
+| 1v1 Cube Game | 135143 | [135143-1v1-cube-game.json](./135143-1v1-cube-game.json) |
 | 1x! Space Adventure | 169847 | [169847-1x-space-adventure.json](./169847-1x-space-adventure.json) |
 | 1x1 | 262086 | [262086-1x1.json](./262086-1x1.json) |
 | 2 Bit Operative | 197119 | [197119-2-bit-operative.json](./197119-2-bit-operative.json) |
@@ -1141,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 beat Story | 56167 | [56167-8-beat-story.json](./56167-8-beat-story.json) |
 | 8 Bit Fighters | 233495 | [233495-8-bit-fighters.json](./233495-8-bit-fighters.json) |
 | 8 Bit Son-of-a-Bitch | 186235 | [186235-8-bit-son-of-a-bitch.json](./186235-8-bit-son-of-a-bitch.json) |
+| 8 Bit Space | 135100 | [135100-8-bit-space.json](./135100-8-bit-space.json) |
 | 8 Legs to Love | 181252 | [181252-8-legs-to-love.json](./181252-8-legs-to-love.json) |
 | 8 Links | 173075 | [173075-8-links.json](./173075-8-links.json) |
 | 8 Yous+ | 334089 | [334089-8-yous.json](./334089-8-yous.json) |
