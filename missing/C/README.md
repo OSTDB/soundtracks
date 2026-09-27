@@ -1150,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cart Panic! OS: E-Commerce Tycoon | 402494 | [402494-cart-panic-os-e-commerce-tycoon.json](./402494-cart-panic-os-e-commerce-tycoon.json) |
 | Cart Precision Racing | 627 | [627-cart-precision-racing.json](./627-cart-precision-racing.json) |
 | Cartagra: First Press Limited Edition | 388046 | [388046-cartagra-first-press-limited-edition.json](./388046-cartagra-first-press-limited-edition.json) |
+| Cartagra: Tsuki Kurui no Yamai - Rebirth FHD Size Edition | 150033 | [150033-cartagra-tsuki-kurui-no-yamai-rebirth-fhd-size-edition.json](./150033-cartagra-tsuki-kurui-no-yamai-rebirth-fhd-size-edition.json) |
 | Cartapli: Fold Quest | 386834 | [386834-cartapli-fold-quest.json](./386834-cartapli-fold-quest.json) |
 | Cartas de Coisas | 325623 | [325623-cartas-de-coisas.json](./325623-cartas-de-coisas.json) |
 | Carte Blanche | 333559 | [333559-carte-blanche.json](./333559-carte-blanche.json) |
@@ -3655,9 +3656,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities XL: Limited Edition | 29202 | [29202-cities-xl-limited-edition.json](./29202-cities-xl-limited-edition.json) |
 | Cities XXL | 10094 | [10094-cities-xxl.json](./10094-cities-xxl.json) |
 | Cities: Skylines - 90s Pop Radio | 257082 | [257082-cities-skylines-90s-pop-radio.json](./257082-cities-skylines-90s-pop-radio.json) |
+| Cities: Skylines - Coast to Coast Radio | 149996 | [149996-cities-skylines-coast-to-coast-radio.json](./149996-cities-skylines-coast-to-coast-radio.json) |
 | Cities: Skylines - Content Creator Pack | 241073 | [241073-cities-skylines-content-creator-pack.json](./241073-cities-skylines-content-creator-pack.json) |
+| Cities: Skylines - Content Creator Pack: Bridges & Piers | 149999 | [149999-cities-skylines-content-creator-pack-bridges-and-piers.json](./149999-cities-skylines-content-creator-pack-bridges-and-piers.json) |
+| Cities: Skylines - Content Creator Pack: Modern City Center | 149993 | [149993-cities-skylines-content-creator-pack-modern-city-center.json](./149993-cities-skylines-content-creator-pack-modern-city-center.json) |
+| Cities: Skylines - Content Creator Pack: Modern Japan | 149995 | [149995-cities-skylines-content-creator-pack-modern-japan.json](./149995-cities-skylines-content-creator-pack-modern-japan.json) |
 | Cities: Skylines - Content Creator Pack: Seaside Resorts | 241037 | [241037-cities-skylines-content-creator-pack-seaside-resorts.json](./241037-cities-skylines-content-creator-pack-seaside-resorts.json) |
 | Cities: Skylines - Content Creator Pack: Skyscrapers | 226302 | [226302-cities-skylines-content-creator-pack-skyscrapers.json](./226302-cities-skylines-content-creator-pack-skyscrapers.json) |
+| Cities: Skylines - Content Creator Pack: Train Stations | 149998 | [149998-cities-skylines-content-creator-pack-train-stations.json](./149998-cities-skylines-content-creator-pack-train-stations.json) |
 | Cities: Skylines - Financial Districts | 226303 | [226303-cities-skylines-financial-districts.json](./226303-cities-skylines-financial-districts.json) |
 | Cities: Skylines - Hotels & Retreats | 249189 | [249189-cities-skylines-hotels-and-retreats.json](./249189-cities-skylines-hotels-and-retreats.json) |
 | Cities: Skylines - Mayor's Edition | 114766 | [114766-cities-skylines-mayors-edition.json](./114766-cities-skylines-mayors-edition.json) |
@@ -3665,7 +3671,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Parklife Edition | 205268 | [205268-cities-skylines-parklife-edition.json](./205268-cities-skylines-parklife-edition.json) |
 | Cities: Skylines - Piano Tunes Radio | 257084 | [257084-cities-skylines-piano-tunes-radio.json](./257084-cities-skylines-piano-tunes-radio.json) |
 | Cities: Skylines - Race Day | 393462 | [393462-cities-skylines-race-day.json](./393462-cities-skylines-race-day.json) |
+| Cities: Skylines - Rail Hawk Radio | 149991 | [149991-cities-skylines-rail-hawk-radio.json](./149991-cities-skylines-rail-hawk-radio.json) |
 | Cities: Skylines - Remastered | 237966 | [237966-cities-skylines-remastered.json](./237966-cities-skylines-remastered.json) |
+| Cities: Skylines - Sunny Breeze Radio | 149997 | [149997-cities-skylines-sunny-breeze-radio.json](./149997-cities-skylines-sunny-breeze-radio.json) |
 | Cities: Skylines - World Tour Bundle | 240904 | [240904-cities-skylines-world-tour-bundle.json](./240904-cities-skylines-world-tour-bundle.json) |
 | Cities: Skylines II | 240902 | [240902-cities-skylines-ii.json](./240902-cities-skylines-ii.json) |
 | Cities: Skylines II - Beach Properties | 292637 | [292637-cities-skylines-ii-beach-properties.json](./292637-cities-skylines-ii-beach-properties.json) |
@@ -7444,6 +7452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush Beats: Club Candy | 96763 | [96763-crush-beats-club-candy.json](./96763-crush-beats-club-candy.json) |
 | Crush Crush | 187865 | [187865-crush-crush.json](./187865-crush-crush.json) |
 | Crush Crush: - 18+ Naughty | 279778 | [279778-crush-crush-18-naughty.json](./279778-crush-crush-18-naughty.json) |
+| Crush Depth: U-Boat Simulator | 150050 | [150050-crush-depth-u-boat-simulator.json](./150050-crush-depth-u-boat-simulator.json) |
 | Crush Link TD | 272865 | [272865-crush-link-td.json](./272865-crush-link-td.json) |
 | Crush Online | 24953 | [24953-crush-online.json](./24953-crush-online.json) |
 | Crush Roller | 39641 | [39641-crush-roller.json](./39641-crush-roller.json) |
