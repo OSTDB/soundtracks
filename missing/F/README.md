@@ -1973,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | File://maniac | 118374 | [118374-file-maniac.json](./118374-file-maniac.json) |
 | FileKiller | 294215 | [294215-filekiller.json](./294215-filekiller.json) |
 | Fill & Cross: Christmas Riddles | 169788 | [169788-fill-and-cross-christmas-riddles.json](./169788-fill-and-cross-christmas-riddles.json) |
+| Fill & Cross: Pirate Riddles | 155013 | [155013-fill-and-cross-pirate-riddles.json](./155013-fill-and-cross-pirate-riddles.json) |
 | Fill & Cross: Pirate Riddles 2 | 101556 | [101556-fill-and-cross-pirate-riddles-2.json](./101556-fill-and-cross-pirate-riddles-2.json) |
 | Fill & Cross: Pirate Riddles 3 | 213014 | [213014-fill-and-cross-pirate-riddles-3.json](./213014-fill-and-cross-pirate-riddles-3.json) |
 | Fill and Cross: Magic Journey | 159654 | [159654-fill-and-cross-magic-journey.json](./159654-fill-and-cross-magic-journey.json) |
@@ -2202,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find 100 Cats! | 363018 | [363018-find-100-cats.json](./363018-find-100-cats.json) |
 | Find 100 Ducks and Blast Them...in Space!!! | 391317 | [391317-find-100-ducks-and-blast-them-in-space.json](./391317-find-100-ducks-and-blast-them-in-space.json) |
 | Find 5 differences! | 348956 | [348956-find-5-differences.json](./348956-find-5-differences.json) |
+| Find A Way | 155005 | [155005-find-a-way.json](./155005-find-a-way.json) |
 | Find a way out: Abode of darkness. | 192799 | [192799-find-a-way-out-abode-of-darkness.json](./192799-find-a-way-out-abode-of-darkness.json) |
 | Find a Way Soccer: Women's Cup | 247437 | [247437-find-a-way-soccer-womens-cup.json](./247437-find-a-way-soccer-womens-cup.json) |
 | Find All 5: Vikings | 317026 | [317026-find-all-5-vikings.json](./317026-find-all-5-vikings.json) |
