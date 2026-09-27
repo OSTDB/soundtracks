@@ -699,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ein Fall für TKKG: Katjas Geheimnis | 127995 | [127995-ein-fall-fur-tkkg-katjas-geheimnis.json](./127995-ein-fall-fur-tkkg-katjas-geheimnis.json) |
 | Ein's Sword 3 | 312112 | [312112-eins-sword-3.json](./312112-eins-sword-3.json) |
 | Einar | 50540 | [50540-einar.json](./50540-einar.json) |
+| Einar: Loki's Traps | 171357 | [171357-einar-lokis-traps.json](./171357-einar-lokis-traps.json) |
 | Einhänder | 1360 | [1360-einhander.json](./1360-einhander.json) |
 | Einherjar | 181122 | [181122-einherjar.json](./181122-einherjar.json) |
 | Einn | 120832 | [120832-einn.json](./120832-einn.json) |
@@ -1046,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elmo Through the Looking-Glass | 333203 | [333203-elmo-through-the-looking-glass.json](./333203-elmo-through-the-looking-glass.json) |
 | Elmo's Deep Sea Adventure | 71511 | [71511-elmos-deep-sea-adventure.json](./71511-elmos-deep-sea-adventure.json) |
 | Elmo's Deep Sea Adventure | 71513 | [71513-elmos-deep-sea-adventure.json](./71513-elmos-deep-sea-adventure.json) |
+| Elmo's Kangaroo of the damned: Punishment Edition | 171404 | [171404-elmos-kangaroo-of-the-damned-punishment-edition.json](./171404-elmos-kangaroo-of-the-damned-punishment-edition.json) |
 | Elmo's Monster Maker HD | 89732 | [89732-elmos-monster-maker-hd.json](./89732-elmos-monster-maker-hd.json) |
 | Elo 1100 Chess | 192404 | [192404-elo-1100-chess.json](./192404-elo-1100-chess.json) |
 | Elo Hell | 105744 | [105744-elo-hell.json](./105744-elo-hell.json) |
@@ -2342,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESports Hero | 335458 | [335458-esports-hero.json](./335458-esports-hero.json) |
 | Esports Heroes | 259639 | [259639-esports-heroes.json](./259639-esports-heroes.json) |
 | Esports Life Tycoon | 118522 | [118522-esports-life-tycoon.json](./118522-esports-life-tycoon.json) |
+| eSports Manager | 171381 | [171381-esports-manager.json](./171381-esports-manager.json) |
 | Esports Saga | 95836 | [95836-esports-saga.json](./95836-esports-saga.json) |
 | ESports Simulator | 309522 | [309522-esports-simulator.json](./309522-esports-simulator.json) |
 | Esports Team Manager | 356710 | [356710-esports-team-manager.json](./356710-esports-team-manager.json) |
