@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden: World Builder Simulator | 259626 | [259626-eden-world-builder-simulator.json](./259626-eden-world-builder-simulator.json) |
 | Eden.schemata(); | 151707 | [151707-eden-schemata.json](./151707-eden-schemata.json) |
 | Eden's Inferno | 353304 | [353304-edens-inferno.json](./353304-edens-inferno.json) |
+| Eden's Lair | 149497 | [149497-edens-lair.json](./149497-edens-lair.json) |
 | Eden's Last Sunrise | 190187 | [190187-edens-last-sunrise.json](./190187-edens-last-sunrise.json) |
 | Eden's Prison | 350517 | [350517-edens-prison.json](./350517-edens-prison.json) |
 | Edenbound | 295813 | [295813-edenbound.json](./295813-edenbound.json) |
@@ -2276,6 +2277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape: Backrooms Horror VR | 391175 | [391175-escape-backrooms-horror-vr.json](./391175-escape-backrooms-horror-vr.json) |
 | Escape: Immersion | 391205 | [391205-escape-immersion.json](./391205-escape-immersion.json) |
 | Escape: Lia | 195173 | [195173-escape-lia.json](./195173-escape-lia.json) |
+| Escape: Underground | 149490 | [149490-escape-underground.json](./149490-escape-underground.json) |
 | Escape: VR | 29157 | [29157-escape-vr.json](./29157-escape-vr.json) |
 | Escape! | 89659 | [89659-escape.json](./89659-escape.json) |
 | Escape30DayCircle | 360650 | [360650-escape30daycircle.json](./360650-escape30daycircle.json) |
@@ -2717,6 +2719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everdream Valley: GOG Exclusive DLC | 250652 | [250652-everdream-valley-gog-exclusive-dlc.json](./250652-everdream-valley-gog-exclusive-dlc.json) |
 | Everdream Valley: Summer Fun DLC | 255154 | [255154-everdream-valley-summer-fun-dlc.json](./255154-everdream-valley-summer-fun-dlc.json) |
 | Everest | 95437 | [95437-everest.json](./95437-everest.json) |
+| Everest Search and Rescue | 149477 | [149477-everest-search-and-rescue.json](./149477-everest-search-and-rescue.json) |
 | Everest Truck Simulator | 367981 | [367981-everest-truck-simulator.json](./367981-everest-truck-simulator.json) |
 | Everest VR | 18971 | [18971-everest-vr.json](./18971-everest-vr.json) |
 | Everfall: Idle Dungeon RPG | 377083 | [377083-everfall-idle-dungeon-rpg.json](./377083-everfall-idle-dungeon-rpg.json) |
