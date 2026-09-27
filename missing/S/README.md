@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurado | 244254 | [244254-samurado.json](./244254-samurado.json) |
 | Samurai | 140531 | [140531-samurai.json](./140531-samurai.json) |
 | Samurai Aces | 39844 | [39844-samurai-aces.json](./39844-samurai-aces.json) |
+| Samurai Bamboo | 120290 | [120290-samurai-bamboo.json](./120290-samurai-bamboo.json) |
 | Samurai Beat | 253866 | [253866-samurai-beat.json](./253866-samurai-beat.json) |
 | Samurai Blade | 237671 | [237671-samurai-blade.json](./237671-samurai-blade.json) |
 | Samurai Bloodshow | 92500 | [92500-samurai-bloodshow.json](./92500-samurai-bloodshow.json) |
@@ -1877,6 +1878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Death | 32211 | [32211-second-death.json](./32211-second-death.json) |
 | Second Death | 377178 | [377178-second-death.json](./377178-second-death.json) |
 | Second Final | 120381 | [120381-second-final.json](./120381-second-final.json) |
+| Second Galaxy | 120308 | [120308-second-galaxy.json](./120308-second-galaxy.json) |
 | Second Humanity | 391869 | [391869-second-humanity.json](./391869-second-humanity.json) |
 | Second Novel: Kanojo no Natsu, 15fun no Kioku | 138805 | [138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json](./138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json) |
 | Second Person: Secret Laboratory | 158657 | [158657-second-person-secret-laboratory.json](./158657-second-person-secret-laboratory.json) |
@@ -3377,6 +3379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Love | 157007 | [157007-sheep-love.json](./157007-sheep-love.json) |
 | Sheep Monologue | 383506 | [383506-sheep-monologue.json](./383506-sheep-monologue.json) |
 | Sheep Quest | 340379 | [340379-sheep-quest.json](./340379-sheep-quest.json) |
+| Sheep Up! | 120247 | [120247-sheep-up.json](./120247-sheep-up.json) |
 | Sheep's Symphony | 294455 | [294455-sheeps-symphony.json](./294455-sheeps-symphony.json) |
 | Sheepageddon | 108429 | [108429-sheepageddon.json](./108429-sheepageddon.json) |
 | Sheepdog Simulator | 132658 | [132658-sheepdog-simulator.json](./132658-sheepdog-simulator.json) |
@@ -10223,6 +10226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Hammer: The Vanguard Prophecy | 36049 | [36049-star-hammer-the-vanguard-prophecy.json](./36049-star-hammer-the-vanguard-prophecy.json) |
 | Star Healer | 174679 | [174679-star-healer.json](./174679-star-healer.json) |
 | Star Hearts: Launch Point | 200713 | [200713-star-hearts-launch-point.json](./200713-star-hearts-launch-point.json) |
+| Star Heritage 1: The Black Cobra | 120312 | [120312-star-heritage-1-the-black-cobra.json](./120312-star-heritage-1-the-black-cobra.json) |
 | Star Hogs: Online & Campaign Battles | 79625 | [79625-star-hogs-online-and-campaign-battles.json](./79625-star-hogs-online-and-campaign-battles.json) |
 | Star Honor | 228388 | [228388-star-honor.json](./228388-star-honor.json) |
 | Star Horizon | 35690 | [35690-star-horizon.json](./35690-star-horizon.json) |
@@ -11522,6 +11526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonemachia | 300028 | [300028-stonemachia.json](./300028-stonemachia.json) |
 | Stones Keeper: King Aurelius | 212863 | [212863-stones-keeper-king-aurelius.json](./212863-stones-keeper-king-aurelius.json) |
 | Stones of Harlath | 152747 | [152747-stones-of-harlath.json](./152747-stones-of-harlath.json) |
+| Stones of Solace | 120284 | [120284-stones-of-solace.json](./120284-stones-of-solace.json) |
 | StoneSpace | 376436 | [376436-stonespace.json](./376436-stonespace.json) |
 | StoneStory | 339662 | [339662-stonestory.json](./339662-stonestory.json) |
 | Stoneveil | 376439 | [376439-stoneveil.json](./376439-stoneveil.json) |
