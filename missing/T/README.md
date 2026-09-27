@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Letters | 283837 | [283837-table-letters.json](./283837-table-letters.json) |
 | Table Soccer Foosball | 147953 | [147953-table-soccer-foosball.json](./147953-table-soccer-foosball.json) |
 | Table Space: Board and Card Game Sandbox | 389701 | [389701-table-space-board-and-card-game-sandbox.json](./389701-table-space-board-and-card-game-sandbox.json) |
+| Table Tennis | 150560 | [150560-table-tennis.json](./150560-table-tennis.json) |
 | Table Tennis Infinity | 85420 | [85420-table-tennis-infinity.json](./85420-table-tennis-infinity.json) |
 | Table Tennis Simulation | 72076 | [72076-table-tennis-simulation.json](./72076-table-tennis-simulation.json) |
 | Table Top Racing | 8350 | [8350-table-top-racing.json](./8350-table-top-racing.json) |
