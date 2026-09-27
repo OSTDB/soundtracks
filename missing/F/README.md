@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food Rampage | 96680 | [96680-fast-food-rampage.json](./96680-fast-food-rampage.json) |
 | Fast Food Shop Online | 212225 | [212225-fast-food-shop-online.json](./212225-fast-food-shop-online.json) |
 | Fast Food Tycoon Simulator | 353959 | [353959-fast-food-tycoon-simulator.json](./353959-fast-food-tycoon-simulator.json) |
+| Fast Fox | 152198 | [152198-fast-fox.json](./152198-fast-fox.json) |
 | Fast Jump | 167574 | [167574-fast-jump.json](./167574-fast-jump.json) |
 | Fast Racing 3D | 380549 | [380549-fast-racing-3d.json](./380549-fast-racing-3d.json) |
 | Fast Travel: Loot Delivery Service | 117050 | [117050-fast-travel-loot-delivery-service.json](./117050-fast-travel-loot-delivery-service.json) |
@@ -1721,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fido | 315275 | [315275-fido.json](./315275-fido.json) |
 | Fido 2: Puppy Power | 315278 | [315278-fido-2-puppy-power.json](./315278-fido-2-puppy-power.json) |
 | Fido Dido | 93010 | [93010-fido-dido.json](./93010-fido-dido.json) |
+| FIE Swordplay | 152225 | [152225-fie-swordplay.json](./152225-fie-swordplay.json) |
 | Fief Lord | 348986 | [348986-fief-lord.json](./348986-fief-lord.json) |
 | Field & Stream: Total Outdoorsman Challenge | 67081 | [67081-field-and-stream-total-outdoorsman-challenge.json](./67081-field-and-stream-total-outdoorsman-challenge.json) |
 | Field & Stream: Trophy Bass 3D | 70127 | [70127-field-and-stream-trophy-bass-3d.json](./70127-field-and-stream-trophy-bass-3d.json) |
