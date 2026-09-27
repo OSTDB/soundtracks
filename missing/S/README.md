@@ -4821,6 +4821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sink and Score | 373658 | [373658-sink-and-score.json](./373658-sink-and-score.json) |
 | Sink Sub Pro | 379984 | [379984-sink-sub-pro.json](./379984-sink-sub-pro.json) |
 | Sink the Fish: Spy Kit | 282542 | [282542-sink-the-fish-spy-kit.json](./282542-sink-the-fish-spy-kit.json) |
+| Sinking Inn | 151111 | [151111-sinking-inn.json](./151111-sinking-inn.json) |
 | Sinking Iron | 251176 | [251176-sinking-iron.json](./251176-sinking-iron.json) |
 | Sinking Ships | 176455 | [176455-sinking-ships.json](./176455-sinking-ships.json) |
 | Sinkr 2 | 111667 | [111667-sinkr-2.json](./111667-sinkr-2.json) |
@@ -12653,6 +12654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunrose.p8 | 179488 | [179488-sunrose-p8.json](./179488-sunrose-p8.json) |
 | SunSenSim | 156124 | [156124-sunsensim.json](./156124-sunsensim.json) |
 | Sunset | 195533 | [195533-sunset.json](./195533-sunset.json) |
+| Sunset 20 Drone Racer | 151069 | [151069-sunset-20-drone-racer.json](./151069-sunset-20-drone-racer.json) |
 | Sunset Arena | 312711 | [312711-sunset-arena.json](./312711-sunset-arena.json) |
 | Sunset Beach | 358397 | [358397-sunset-beach.json](./358397-sunset-beach.json) |
 | Sunset Coast Collection | 328481 | [328481-sunset-coast-collection.json](./328481-sunset-coast-collection.json) |
@@ -14278,6 +14280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surreality | 71008 | [71008-surreality.json](./71008-surreality.json) |
 | Surreality Check | 387376 | [387376-surreality-check.json](./387376-surreality-check.json) |
 | SurrealVR | 33030 | [33030-surrealvr.json](./33030-surrealvr.json) |
+| Surreatripus | 151079 | [151079-surreatripus.json](./151079-surreatripus.json) |
 | Surrender | 226689 | [226689-surrender.json](./226689-surrender.json) |
 | Surrender | 313798 | [313798-surrender.json](./313798-surrender.json) |
 | Surrender 2 | 313799 | [313799-surrender-2.json](./313799-surrender-2.json) |
