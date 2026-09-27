@@ -1980,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helping Hand | 104858 | [104858-helping-hand.json](./104858-helping-hand.json) |
 | Helping Hand | 365739 | [365739-helping-hand.json](./365739-helping-hand.json) |
 | Heltons Haunted Hotel | 148371 | [148371-heltons-haunted-hotel.json](./148371-heltons-haunted-hotel.json) |
+| Helvetii | 119673 | [119673-helvetii.json](./119673-helvetii.json) |
 | Helwyr | 148551 | [148551-helwyr.json](./148551-helwyr.json) |
 | HemiRoids | 229020 | [229020-hemiroids.json](./229020-hemiroids.json) |
 | Hemlock | 295862 | [295862-hemlock.json](./295862-hemlock.json) |
