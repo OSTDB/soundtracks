@@ -442,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster | 307295 | [307295-hamster.json](./307295-hamster.json) |
 | Hamster All-Stars | 144121 | [144121-hamster-all-stars.json](./144121-hamster-all-stars.json) |
 | Hamster Blitz! | 191821 | [191821-hamster-blitz.json](./191821-hamster-blitz.json) |
+| Hamster Bob | 147862 | [147862-hamster-bob.json](./147862-hamster-bob.json) |
 | Hamster Bomba | 312028 | [312028-hamster-bomba.json](./312028-hamster-bomba.json) |
 | Hamster Clicker! | 340410 | [340410-hamster-clicker.json](./340410-hamster-clicker.json) |
 | Hamster Club 2 | 281543 | [281543-hamster-club-2.json](./281543-hamster-club-2.json) |
