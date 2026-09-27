@@ -2067,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Globaglorp Simulator | 341147 | [341147-globaglorp-simulator.json](./341147-globaglorp-simulator.json) |
 | Global Arcade Classics | 93502 | [93502-global-arcade-classics.json](./93502-global-arcade-classics.json) |
 | Global ATC Simulator | 16945 | [16945-global-atc-simulator.json](./16945-global-atc-simulator.json) |
+| Global Aviation Dream | 126530 | [126530-global-aviation-dream.json](./126530-global-aviation-dream.json) |
 | Global Domination | 15480 | [15480-global-domination.json](./15480-global-domination.json) |
 | Global Elite | 298684 | [298684-global-elite.json](./298684-global-elite.json) |
 | Global Farmer | 301913 | [301913-global-farmer.json](./301913-global-farmer.json) |
@@ -3417,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Rogue | 351800 | [351800-grave-rogue.json](./351800-grave-rogue.json) |
 | Grave Shadows | 185450 | [185450-grave-shadows.json](./185450-grave-shadows.json) |
 | Grave Spirit | 230215 | [230215-grave-spirit.json](./230215-grave-spirit.json) |
+| Grave Tower | 126550 | [126550-grave-tower.json](./126550-grave-tower.json) |
 | Grave Yardage | 94545 | [94545-grave-yardage.json](./94545-grave-yardage.json) |
 | Grave-Queen | 219806 | [219806-grave-queen.json](./219806-grave-queen.json) |
 | GraveBond | 272390 | [272390-gravebond.json](./272390-gravebond.json) |
