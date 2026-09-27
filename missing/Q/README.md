@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qianli: The Vastscape Scroll | 399598 | [399598-qianli-the-vastscape-scroll.json](./399598-qianli-the-vastscape-scroll.json) |
 | Qianling Mainland | 220744 | [220744-qianling-mainland.json](./220744-qianling-mainland.json) |
 | Qǐluó Sìshí Tán | 130935 | [130935-qiluo-sishi-tan.json](./130935-qiluo-sishi-tan.json) |
+| Qīnglán Xuèfēng | 120850 | [120850-qinglan-xuefeng.json](./120850-qinglan-xuefeng.json) |
 | Qīngmèng Tán: Wèng zhī Piān | 128987 | [128987-qingmeng-tan-weng-zhi-pian.json](./128987-qingmeng-tan-weng-zhi-pian.json) |
 | Qīngniǎo no Xūxiàng | 331944 | [331944-qingniao-no-xuxiang.json](./331944-qingniao-no-xuxiang.json) |
 | Qisah Tomang: Cycle Ends | 235989 | [235989-qisah-tomang-cycle-ends.json](./235989-qisah-tomang-cycle-ends.json) |
@@ -303,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Quest 2: Stories of Forgotten Past | 30424 | [30424-queens-quest-2-stories-of-forgotten-past.json](./30424-queens-quest-2-stories-of-forgotten-past.json) |
 | Queen's Quest 2: Stories of Forgotten Past - Collector's Edition | 343352 | [343352-queens-quest-2-stories-of-forgotten-past-collectors-edition.json](./343352-queens-quest-2-stories-of-forgotten-past-collectors-edition.json) |
 | Queen's Quest 4: Sacred Truce | 97109 | [97109-queens-quest-4-sacred-truce.json](./97109-queens-quest-4-sacred-truce.json) |
+| Queen's Quest 5: Symphony of Death | 120841 | [120841-queens-quest-5-symphony-of-death.json](./120841-queens-quest-5-symphony-of-death.json) |
 | Queen's Quest Collection | 53489 | [53489-queens-quest-collection.json](./53489-queens-quest-collection.json) |
 | Queen's River | 344559 | [344559-queens-river.json](./344559-queens-river.json) |
 | Queen's Tales: Sins of the Past HD | 108963 | [108963-queens-tales-sins-of-the-past-hd.json](./108963-queens-tales-sins-of-the-past-hd.json) |
