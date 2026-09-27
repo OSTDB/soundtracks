@@ -4226,6 +4226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mhystaria | 347775 | [347775-mhystaria.json](./347775-mhystaria.json) |
 | MHZ | 369219 | [369219-mhz.json](./369219-mhz.json) |
 | Mi Espada | 288825 | [288825-mi-espada.json](./288825-mi-espada.json) |
+| Mi'pu'mi' Collection | 151627 | [151627-mipumi-collection.json](./151627-mipumi-collection.json) |
 | Mia | 169370 | [169370-mia.json](./169370-mia.json) |
 | Mia & Mio | 388752 | [388752-mia-and-mio.json](./388752-mia-and-mio.json) |
 | Mia and me: Freedom for Centopia | 107003 | [107003-mia-and-me-freedom-for-centopia.json](./107003-mia-and-me-freedom-for-centopia.json) |
@@ -4639,6 +4640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Magic: Elemental Guardians | 70707 | [70707-might-and-magic-elemental-guardians.json](./70707-might-and-magic-elemental-guardians.json) |
 | Might & Magic: Heroes Online | 20177 | [20177-might-and-magic-heroes-online.json](./20177-might-and-magic-heroes-online.json) |
 | Might & Mayhem | 38970 | [38970-might-and-mayhem.json](./38970-might-and-mayhem.json) |
+| Might & Trap: Apocalypse | 151595 | [151595-might-and-trap-apocalypse.json](./151595-might-and-trap-apocalypse.json) |
 | Might and Magic III: Isles of Terra | 7735 | [7735-might-and-magic-iii-isles-of-terra.json](./7735-might-and-magic-iii-isles-of-terra.json) |
 | Might and Magic VI: The Mandate of Heaven | 790 | [790-might-and-magic-vi-the-mandate-of-heaven.json](./790-might-and-magic-vi-the-mandate-of-heaven.json) |
 | Might and Magic: Book One - The Secret of the Inner Sanctum | 7733 | [7733-might-and-magic-book-one-the-secret-of-the-inner-sanctum.json](./7733-might-and-magic-book-one-the-secret-of-the-inner-sanctum.json) |
