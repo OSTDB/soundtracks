@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am a Dorm Resident (but Cat) | 353841 | [353841-i-am-a-dorm-resident-but-cat.json](./353841-i-am-a-dorm-resident-but-cat.json) |
 | I am a Fish Online | 276239 | [276239-i-am-a-fish-online.json](./276239-i-am-a-fish-online.json) |
 | I Am A I | 188597 | [188597-i-am-a-i.json](./188597-i-am-a-i.json) |
+| I am a Man | 135120 | [135120-i-am-a-man.json](./135120-i-am-a-man.json) |
 | I Am a Teacher: Teami no Kiso | 41374 | [41374-i-am-a-teacher-teami-no-kiso.json](./41374-i-am-a-teacher-teami-no-kiso.json) |
 | I Am a Worm | 323341 | [323341-i-am-a-worm.json](./323341-i-am-a-worm.json) |
 | I Am Alone Too | 179116 | [179116-i-am-alone-too.json](./179116-i-am-alone-too.json) |
@@ -665,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Hamburgers Save the World | 224215 | [224215-idle-hamburgers-save-the-world.json](./224215-idle-hamburgers-save-the-world.json) |
 | Idle Heist | 101368 | [101368-idle-heist.json](./101368-idle-heist.json) |
 | Idle Hero World | 127210 | [127210-idle-hero-world.json](./127210-idle-hero-world.json) |
+| Idle Heroes: Odyssey | 135099 | [135099-idle-heroes-odyssey.json](./135099-idle-heroes-odyssey.json) |
 | Idle Human | 204484 | [204484-idle-human.json](./204484-idle-human.json) |
 | Idle Human 2 | 204486 | [204486-idle-human-2.json](./204486-idle-human-2.json) |
 | Idle Huntress: Adventure | 202250 | [202250-idle-huntress-adventure.json](./202250-idle-huntress-adventure.json) |
