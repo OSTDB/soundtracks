@@ -1792,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klondike | 281555 | [281555-klondike.json](./281555-klondike.json) |
 | Klondike Re-Imagined | 170940 | [170940-klondike-re-imagined.json](./170940-klondike-re-imagined.json) |
 | Klondike Solitaire 2018 | 89235 | [89235-klondike-solitaire-2018.json](./89235-klondike-solitaire-2018.json) |
+| Klondike Solitaire 2019 | 138109 | [138109-klondike-solitaire-2019.json](./138109-klondike-solitaire-2019.json) |
 | Klondike Solitaire Gold | 146914 | [146914-klondike-solitaire-gold.json](./146914-klondike-solitaire-gold.json) |
 | Klondike Solitaire Pro | 391349 | [391349-klondike-solitaire-pro.json](./391349-klondike-solitaire-pro.json) |
 | Klondike's Hike | 321479 | [321479-klondikes-hike.json](./321479-klondikes-hike.json) |
