@@ -6799,6 +6799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Siege of Jeomdo | 258199 | [258199-the-siege-of-jeomdo.json](./258199-the-siege-of-jeomdo.json) |
 | The Sign | 241634 | [241634-the-sign.json](./241634-the-sign.json) |
 | The Signal From Tölva | 22039 | [22039-the-signal-from-tolva.json](./22039-the-signal-from-tolva.json) |
+| The Signal State | 157524 | [157524-the-signal-state.json](./157524-the-signal-state.json) |
 | The Signal VR | 360780 | [360780-the-signal-vr.json](./360780-the-signal-vr.json) |
 | The Signifier: Deluxe Edition | 154550 | [154550-the-signifier-deluxe-edition.json](./154550-the-signifier-deluxe-edition.json) |
 | The Silence | 185625 | [185625-the-silence.json](./185625-the-silence.json) |
@@ -10123,6 +10124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Arms!! | 207826 | [207826-to-arms.json](./207826-to-arms.json) |
 | To Aru Majutsu No Index | 44526 | [44526-to-aru-majutsu-no-index.json](./44526-to-aru-majutsu-no-index.json) |
 | To Ash | 33226 | [33226-to-ash.json](./33226-to-ash.json) |
+| To Ash & Ember | 157493 | [157493-to-ash-and-ember.json](./157493-to-ash-and-ember.json) |
 | To Be A Dummy Head VR | 118377 | [118377-to-be-a-dummy-head-vr.json](./118377-to-be-a-dummy-head-vr.json) |
 | To Be A Dummy Head VR: Ferris Wheel Story | 118379 | [118379-to-be-a-dummy-head-vr-ferris-wheel-story.json](./118379-to-be-a-dummy-head-vr-ferris-wheel-story.json) |
 | To Be A Dummy Head VR: Hotel Elevator Story | 118378 | [118378-to-be-a-dummy-head-vr-hotel-elevator-story.json](./118378-to-be-a-dummy-head-vr-hotel-elevator-story.json) |
@@ -10604,6 +10606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomeling | 85448 | [85448-tomeling.json](./85448-tomeling.json) |
 | Tomeling in Trouble | 85447 | [85447-tomeling-in-trouble.json](./85447-tomeling-in-trouble.json) |
 | TomeNet | 98397 | [98397-tomenet.json](./98397-tomenet.json) |
+| Tomes and Quests: A Word RPG | 157525 | [157525-tomes-and-quests-a-word-rpg.json](./157525-tomes-and-quests-a-word-rpg.json) |
 | Tomes and Quests: Nemesis Campaign | 241665 | [241665-tomes-and-quests-nemesis-campaign.json](./241665-tomes-and-quests-nemesis-campaign.json) |
 | TomHanksFrThMmrs | 305862 | [305862-tomhanksfrthmmrs.json](./305862-tomhanksfrthmmrs.json) |
 | Tomica de Asobou! | 327612 | [327612-tomica-de-asobou.json](./327612-tomica-de-asobou.json) |
@@ -12970,6 +12973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Action Volume 5 | 93382 | [93382-triple-action-volume-5.json](./93382-triple-action-volume-5.json) |
 | Triple Agent! | 75144 | [75144-triple-agent.json](./75144-triple-agent.json) |
 | Triple Bubble | 307579 | [307579-triple-bubble.json](./307579-triple-bubble.json) |
+| Triple Dungeon | 157476 | [157476-triple-dungeon.json](./157476-triple-dungeon.json) |
 | Triple Header Sports | 220127 | [220127-triple-header-sports.json](./220127-triple-header-sports.json) |
 | Triple Jump | 183352 | [183352-triple-jump.json](./183352-triple-jump.json) |
 | Triple Jump | 247050 | [247050-triple-jump.json](./247050-triple-jump.json) |
@@ -13861,6 +13865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two & One Hundred Ways Bundle | 188020 | [188020-two-and-one-hundred-ways-bundle.json](./188020-two-and-one-hundred-ways-bundle.json) |
 | Two Against the Legion | 158509 | [158509-two-against-the-legion.json](./158509-two-against-the-legion.json) |
 | Two Atmospheric Atrocities | 331685 | [331685-two-atmospheric-atrocities.json](./331685-two-atmospheric-atrocities.json) |
+| Two Bit Hero | 157498 | [157498-two-bit-hero.json](./157498-two-bit-hero.json) |
 | Two Brothers | 9440 | [9440-two-brothers.json](./9440-two-brothers.json) |
 | Two Cars Stunts Edition | 219529 | [219529-two-cars-stunts-edition.json](./219529-two-cars-stunts-edition.json) |
 | Two Clusters Cold Haven | 189978 | [189978-two-clusters-cold-haven.json](./189978-two-clusters-cold-haven.json) |
