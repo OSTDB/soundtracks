@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I dream of you and ice cream | 135654 | [135654-i-dream-of-you-and-ice-cream.json](./135654-i-dream-of-you-and-ice-cream.json) |
 | I Drink Sorrel Coffee to Reboot Reality, but I’m Being Hunted by Monster Girls and Armed Agents | 334284 | [334284-i-drink-sorrel-coffee-to-reboot-reality-but-i-m-being-hunted-by-monster-girls-and-armed-agents.json](./334284-i-drink-sorrel-coffee-to-reboot-reality-but-i-m-being-hunted-by-monster-girls-and-armed-agents.json) |
 | I Eat Paintings When Guards Aren't Looking | 394506 | [394506-i-eat-paintings-when-guards-arent-looking.json](./394506-i-eat-paintings-when-guards-arent-looking.json) |
+| I Expect You to Die 2 | 152218 | [152218-i-expect-you-to-die-2.json](./152218-i-expect-you-to-die-2.json) |
 | I Expect You to Die: Home Sweet Home | 223146 | [223146-i-expect-you-to-die-home-sweet-home.json](./223146-i-expect-you-to-die-home-sweet-home.json) |
 | I Feel Fantastic | 217834 | [217834-i-feel-fantastic.json](./217834-i-feel-fantastic.json) |
 | I Fell in Love with the Mentally Unstable Depressed Goth on Campus | 410903 | [410903-i-fell-in-love-with-the-mentally-unstable-depressed-goth-on-campus.json](./410903-i-fell-in-love-with-the-mentally-unstable-depressed-goth-on-campus.json) |
@@ -1946,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insiders | 155024 | [155024-insiders.json](./155024-insiders.json) |
 | Insight | 302670 | [302670-insight.json](./302670-insight.json) |
 | InSight | 302955 | [302955-insight.json](./302955-insight.json) |
+| Insignia | 152232 | [152232-insignia.json](./152232-insignia.json) |
 | Insomnia | 238747 | [238747-insomnia.json](./238747-insomnia.json) |
 | Insomnia | 278403 | [278403-insomnia.json](./278403-insomnia.json) |
 | Insomnia | 333572 | [333572-insomnia.json](./333572-insomnia.json) |
