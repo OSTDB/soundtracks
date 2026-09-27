@@ -1831,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tequila Zombies 3: Things to Die For | 59063 | [59063-tequila-zombies-3-things-to-die-for.json](./59063-tequila-zombies-3-things-to-die-for.json) |
 | Tera: La Cité des Crânes | 356857 | [356857-tera-la-cite-des-cranes.json](./356857-tera-la-cite-des-cranes.json) |
 | Teraburst | 394174 | [394174-teraburst.json](./394174-teraburst.json) |
+| Terafall | 161170 | [161170-terafall.json](./161170-terafall.json) |
 | Teraphobia | 159250 | [159250-teraphobia.json](./159250-teraphobia.json) |
 | Terasene The Light of Her Life | 273102 | [273102-terasene-the-light-of-her-life.json](./273102-terasene-the-light-of-her-life.json) |
 | Teratale: Tide of Wishes | 257908 | [257908-teratale-tide-of-wishes.json](./257908-teratale-tide-of-wishes.json) |
@@ -2400,6 +2401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Airline Project: Next Gen | 199521 | [199521-the-airline-project-next-gen.json](./199521-the-airline-project-next-gen.json) |
 | The Airs | 144951 | [144951-the-airs.json](./144951-the-airs.json) |
 | The Airship Designer | 126606 | [126606-the-airship-designer.json](./126606-the-airship-designer.json) |
+| The Airtight City 2 | 161171 | [161171-the-airtight-city-2.json](./161171-the-airtight-city-2.json) |
 | The Akuma Hunters: Exorsister | 45993 | [45993-the-akuma-hunters-exorsister.json](./45993-the-akuma-hunters-exorsister.json) |
 | The Alchemist | 207373 | [207373-the-alchemist.json](./207373-the-alchemist.json) |
 | The Alchemist | 306992 | [306992-the-alchemist.json](./306992-the-alchemist.json) |
@@ -3202,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Creature Zone VR: Welcome To Dystopia | 286069 | [286069-the-creature-zone-vr-welcome-to-dystopia.json](./286069-the-creature-zone-vr-welcome-to-dystopia.json) |
 | The Creature: Escape Room | 207538 | [207538-the-creature-escape-room.json](./207538-the-creature-escape-room.json) |
 | The Crew | 2137 | [2137-the-crew.json](./2137-the-crew.json) |
+| The Crew 2: Special Edition | 161179 | [161179-the-crew-2-special-edition.json](./161179-the-crew-2-special-edition.json) |
 | The Crew 2: Steelbook Gold Edition | 122358 | [122358-the-crew-2-steelbook-gold-edition.json](./122358-the-crew-2-steelbook-gold-edition.json) |
 | The Crew Motorfest: Year 1 Pass | 298706 | [298706-the-crew-motorfest-year-1-pass.json](./298706-the-crew-motorfest-year-1-pass.json) |
 | The Crew: Motorfest | 234256 | [234256-the-crew-motorfest.json](./234256-the-crew-motorfest.json) |
@@ -5958,6 +5961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ninja Gaiden as Interpreted by MiniMacro Sound | 311650 | [311650-the-ninja-gaiden-as-interpreted-by-minimacro-sound.json](./311650-the-ninja-gaiden-as-interpreted-by-minimacro-sound.json) |
 | The Ninja of the 4 Seasons | 195518 | [195518-the-ninja-of-the-4-seasons.json](./195518-the-ninja-of-the-4-seasons.json) |
 | The Ninji Saga Part 1: Birth of a Legend | 275328 | [275328-the-ninji-saga-part-1-birth-of-a-legend.json](./275328-the-ninji-saga-part-1-birth-of-a-legend.json) |
+| The Ninth Way | 161184 | [161184-the-ninth-way.json](./161184-the-ninth-way.json) |
 | The No Button Game | 225293 | [225293-the-no-button-game.json](./225293-the-no-button-game.json) |
 | The No No Man | 316412 | [316412-the-no-no-man.json](./316412-the-no-no-man.json) |
 | The Normal Day | 38997 | [38997-the-normal-day.json](./38997-the-normal-day.json) |
@@ -9227,6 +9231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Battleship MP030 | 160346 | [160346-tiger-tank-59-i-battleship-mp030.json](./160346-tiger-tank-59-i-battleship-mp030.json) |
 | Tiger Tank 59 I: Battleship MP037 | 160360 | [160360-tiger-tank-59-i-battleship-mp037.json](./160360-tiger-tank-59-i-battleship-mp037.json) |
 | Tiger Tank 59 I: Battleship MP058 | 160323 | [160323-tiger-tank-59-i-battleship-mp058.json](./160323-tiger-tank-59-i-battleship-mp058.json) |
+| Tiger Tank 59 I: Battleship MP061 | 161150 | [161150-tiger-tank-59-i-battleship-mp061.json](./161150-tiger-tank-59-i-battleship-mp061.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP001 | 160345 | [160345-tiger-tank-59-i-black-hill-fortress-mp001.json](./160345-tiger-tank-59-i-black-hill-fortress-mp001.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP022 | 160353 | [160353-tiger-tank-59-i-black-hill-fortress-mp022.json](./160353-tiger-tank-59-i-black-hill-fortress-mp022.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP033 | 160341 | [160341-tiger-tank-59-i-black-hill-fortress-mp033.json](./160341-tiger-tank-59-i-black-hill-fortress-mp033.json) |
@@ -9287,13 +9292,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Break the Fog MP100 | 160829 | [160829-tiger-tank-59-i-break-the-fog-mp100.json](./160829-tiger-tank-59-i-break-the-fog-mp100.json) |
 | Tiger Tank 59 I: Mission Pack 027 | 160333 | [160333-tiger-tank-59-i-mission-pack-027.json](./160333-tiger-tank-59-i-mission-pack-027.json) |
 | Tiger Tank 59 I: Mission Pack 029 | 160351 | [160351-tiger-tank-59-i-mission-pack-029.json](./160351-tiger-tank-59-i-mission-pack-029.json) |
+| Tiger Tank 59 I: Mission Pack 030 | 161143 | [161143-tiger-tank-59-i-mission-pack-030.json](./161143-tiger-tank-59-i-mission-pack-030.json) |
 | Tiger Tank 59 I: Mission Pack 033 | 160309 | [160309-tiger-tank-59-i-mission-pack-033.json](./160309-tiger-tank-59-i-mission-pack-033.json) |
+| Tiger Tank 59 I: Mission Pack 043 | 161146 | [161146-tiger-tank-59-i-mission-pack-043.json](./161146-tiger-tank-59-i-mission-pack-043.json) |
 | Tiger Tank 59 I: Mission Pack 048 | 160311 | [160311-tiger-tank-59-i-mission-pack-048.json](./160311-tiger-tank-59-i-mission-pack-048.json) |
+| Tiger Tank 59 I: Mission Pack 055 | 161142 | [161142-tiger-tank-59-i-mission-pack-055.json](./161142-tiger-tank-59-i-mission-pack-055.json) |
+| Tiger Tank 59 I: Mission Pack 056 | 161139 | [161139-tiger-tank-59-i-mission-pack-056.json](./161139-tiger-tank-59-i-mission-pack-056.json) |
+| Tiger Tank 59 I: Mission Pack 059 | 161145 | [161145-tiger-tank-59-i-mission-pack-059.json](./161145-tiger-tank-59-i-mission-pack-059.json) |
 | Tiger Tank 59 I: Mission Pack 062 | 160320 | [160320-tiger-tank-59-i-mission-pack-062.json](./160320-tiger-tank-59-i-mission-pack-062.json) |
+| Tiger Tank 59 I: Mission Pack 066 | 161144 | [161144-tiger-tank-59-i-mission-pack-066.json](./161144-tiger-tank-59-i-mission-pack-066.json) |
+| Tiger Tank 59 I: Mission Pack 069 | 161140 | [161140-tiger-tank-59-i-mission-pack-069.json](./161140-tiger-tank-59-i-mission-pack-069.json) |
+| Tiger Tank 59 I: Mission Pack 073 | 161138 | [161138-tiger-tank-59-i-mission-pack-073.json](./161138-tiger-tank-59-i-mission-pack-073.json) |
+| Tiger Tank 59 I: Mission Pack 074 | 161137 | [161137-tiger-tank-59-i-mission-pack-074.json](./161137-tiger-tank-59-i-mission-pack-074.json) |
 | Tiger Tank 59 I: Mission Pack 079 | 160373 | [160373-tiger-tank-59-i-mission-pack-079.json](./160373-tiger-tank-59-i-mission-pack-079.json) |
+| Tiger Tank 59 I: Mission Pack 080 | 161147 | [161147-tiger-tank-59-i-mission-pack-080.json](./161147-tiger-tank-59-i-mission-pack-080.json) |
 | Tiger Tank 59 I: Mission Pack 081 | 160348 | [160348-tiger-tank-59-i-mission-pack-081.json](./160348-tiger-tank-59-i-mission-pack-081.json) |
 | Tiger Tank 59 I: Mission Pack 082 | 160383 | [160383-tiger-tank-59-i-mission-pack-082.json](./160383-tiger-tank-59-i-mission-pack-082.json) |
 | Tiger Tank 59 I: Mission Pack 086 | 160327 | [160327-tiger-tank-59-i-mission-pack-086.json](./160327-tiger-tank-59-i-mission-pack-086.json) |
+| Tiger Tank 59 I: Mission Pack 087 | 161141 | [161141-tiger-tank-59-i-mission-pack-087.json](./161141-tiger-tank-59-i-mission-pack-087.json) |
 | Tiger Tank 59 I: Mission Pack 092 | 160399 | [160399-tiger-tank-59-i-mission-pack-092.json](./160399-tiger-tank-59-i-mission-pack-092.json) |
 | Tiger Tank 59 I: Mission Pack 096 | 160400 | [160400-tiger-tank-59-i-mission-pack-096.json](./160400-tiger-tank-59-i-mission-pack-096.json) |
 | Tiger Tank 59 I: Mission Pack 098 | 160376 | [160376-tiger-tank-59-i-mission-pack-098.json](./160376-tiger-tank-59-i-mission-pack-098.json) |
@@ -9329,6 +9345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Super Tank MP026 | 160310 | [160310-tiger-tank-59-i-super-tank-mp026.json](./160310-tiger-tank-59-i-super-tank-mp026.json) |
 | Tiger Tank 59 I: Super Tank MP027 | 160737 | [160737-tiger-tank-59-i-super-tank-mp027.json](./160737-tiger-tank-59-i-super-tank-mp027.json) |
 | Tiger Tank 59 I: Super Tank MP028 | 160734 | [160734-tiger-tank-59-i-super-tank-mp028.json](./160734-tiger-tank-59-i-super-tank-mp028.json) |
+| Tiger Tank 59 I: Super Tank MP031 | 161149 | [161149-tiger-tank-59-i-super-tank-mp031.json](./161149-tiger-tank-59-i-super-tank-mp031.json) |
 | Tiger Tank 59 I: Super Tank MP033 | 160739 | [160739-tiger-tank-59-i-super-tank-mp033.json](./160739-tiger-tank-59-i-super-tank-mp033.json) |
 | Tiger Tank 59 I: Super Tank MP035 | 160738 | [160738-tiger-tank-59-i-super-tank-mp035.json](./160738-tiger-tank-59-i-super-tank-mp035.json) |
 | Tiger Tank 59 I: Super Tank MP036 | 160767 | [160767-tiger-tank-59-i-super-tank-mp036.json](./160767-tiger-tank-59-i-super-tank-mp036.json) |
@@ -9344,6 +9361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Super Tank MP050 | 160735 | [160735-tiger-tank-59-i-super-tank-mp050.json](./160735-tiger-tank-59-i-super-tank-mp050.json) |
 | Tiger Tank 59 I: Super Tank MP051 | 160727 | [160727-tiger-tank-59-i-super-tank-mp051.json](./160727-tiger-tank-59-i-super-tank-mp051.json) |
 | Tiger Tank 59 I: Super Tank MP052 | 160728 | [160728-tiger-tank-59-i-super-tank-mp052.json](./160728-tiger-tank-59-i-super-tank-mp052.json) |
+| Tiger Tank 59 I: Super Tank MP054 | 161148 | [161148-tiger-tank-59-i-super-tank-mp054.json](./161148-tiger-tank-59-i-super-tank-mp054.json) |
 | Tiger Tank 59 I: Super Tank MP056 | 160769 | [160769-tiger-tank-59-i-super-tank-mp056.json](./160769-tiger-tank-59-i-super-tank-mp056.json) |
 | Tiger Tank 59 I: Super Tank MP058 | 160758 | [160758-tiger-tank-59-i-super-tank-mp058.json](./160758-tiger-tank-59-i-super-tank-mp058.json) |
 | Tiger Tank 59 I: Super Tank MP060 | 160748 | [160748-tiger-tank-59-i-super-tank-mp060.json](./160748-tiger-tank-59-i-super-tank-mp060.json) |
@@ -12909,6 +12927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Yatzy for iPad | 101494 | [101494-triple-yatzy-for-ipad.json](./101494-triple-yatzy-for-ipad.json) |
 | Triple Zombie Collection | 274443 | [274443-triple-zombie-collection.json](./274443-triple-zombie-collection.json) |
 | Triple Zoo | 232185 | [232185-triple-zoo.json](./232185-triple-zoo.json) |
+| TripleBuilder | 161168 | [161168-triplebuilder.json](./161168-triplebuilder.json) |
 | Triplets Trouble!!! | 262903 | [262903-triplets-trouble.json](./262903-triplets-trouble.json) |
 | Trippy Jump | 101329 | [101329-trippy-jump.json](./101329-trippy-jump.json) |
 | TripSync | 189179 | [189179-tripsync.json](./189179-tripsync.json) |
@@ -13844,6 +13863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tycoon Legends | 245855 | [245855-tycoon-legends.json](./245855-tycoon-legends.json) |
 | Tycoon of the HighSeas | 181124 | [181124-tycoon-of-the-highseas.json](./181124-tycoon-of-the-highseas.json) |
 | Tyd wag vir Niemand | 52012 | [52012-tyd-wag-vir-niemand.json](./52012-tyd-wag-vir-niemand.json) |
+| Tyfortress: Tactical Typing | 161154 | [161154-tyfortress-tactical-typing.json](./161154-tyfortress-tactical-typing.json) |
 | Tyga | 303079 | [303079-tyga.json](./303079-tyga.json) |
 | Tyler | 34770 | [34770-tyler.json](./34770-tyler.json) |
 | Tyler Tactics | 236953 | [236953-tyler-tactics.json](./236953-tyler-tactics.json) |
