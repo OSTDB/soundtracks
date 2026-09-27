@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.U.M. Slay Uncool Monsters: Rogue | 168251 | [168251-s-u-m-slay-uncool-monsters-rogue.json](./168251-s-u-m-slay-uncool-monsters-rogue.json) |
 | S.U.M. Slay Uncool Monsters: Wizard | 168249 | [168249-s-u-m-slay-uncool-monsters-wizard.json](./168249-s-u-m-slay-uncool-monsters-wizard.json) |
 | S.X.E. Slider: Dungeons | 311617 | [311617-s-x-e-slider-dungeons.json](./311617-s-x-e-slider-dungeons.json) |
+| S0 | 129633 | [129633-s0.json](./129633-s0.json) |
 | S4Game | 213463 | [213463-s4game.json](./213463-s4game.json) |
 | S4U: Citypunk 2011 and Love Punch | 303000 | [303000-s4u-citypunk-2011-and-love-punch.json](./303000-s4u-citypunk-2011-and-love-punch.json) |
 | S7 Mexico | 218728 | [218728-s7-mexico.json](./218728-s7-mexico.json) |
@@ -3613,6 +3614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shine: Journey of Light | 132017 | [132017-shine-journey-of-light.json](./132017-shine-journey-of-light.json) |
 | Shine's Adventures 0: Zombies Reload | 171408 | [171408-shines-adventures-0-zombies-reload.json](./171408-shines-adventures-0-zombies-reload.json) |
 | Shine's Adventures 2 (Zombie Attack) | 120372 | [120372-shines-adventures-2-zombie-attack.json](./120372-shines-adventures-2-zombie-attack.json) |
+| Shine's Adventures 4 (Nightmare) | 129659 | [129659-shines-adventures-4-nightmare.json](./129659-shines-adventures-4-nightmare.json) |
 | Shine's Adventures 5: World of Box | 127318 | [127318-shines-adventures-5-world-of-box.json](./127318-shines-adventures-5-world-of-box.json) |
 | ShineG Has Nightmares | 68675 | [68675-shineg-has-nightmares.json](./68675-shineg-has-nightmares.json) |
 | Shinehill | 245912 | [245912-shinehill.json](./245912-shinehill.json) |
@@ -7987,6 +7989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souls of Darkon | 12966 | [12966-souls-of-darkon.json](./12966-souls-of-darkon.json) |
 | Souls of Shadow | 320557 | [320557-souls-of-shadow.json](./320557-souls-of-shadow.json) |
 | Souls Survivors | 272930 | [272930-souls-survivors.json](./272930-souls-survivors.json) |
+| Souls Unguarded | 129686 | [129686-souls-unguarded.json](./129686-souls-unguarded.json) |
 | Soulscape | 300823 | [300823-soulscape.json](./300823-soulscape.json) |
 | Soulscape | 377565 | [377565-soulscape.json](./377565-soulscape.json) |
 | SoulSide | 190703 | [190703-soulside.json](./190703-soulside.json) |
@@ -10932,6 +10935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Woke Etheral Edition | 75499 | [75499-stay-woke-etheral-edition.json](./75499-stay-woke-etheral-edition.json) |
 | Stay? | 184073 | [184073-stay.json](./184073-stay.json) |
 | Stay.: Fragments of Memories | 308972 | [308972-stay-fragments-of-memories.json](./308972-stay-fragments-of-memories.json) |
+| Staying Together | 129647 | [129647-staying-together.json](./129647-staying-together.json) |
 | STCC 2: The Game | 62410 | [62410-stcc-2-the-game.json](./62410-stcc-2-the-game.json) |
 | Steadfast | 417535 | [417535-steadfast.json](./417535-steadfast.json) |
 | Steady, Steady, Steady! | 348254 | [348254-steady-steady-steady.json](./348254-steady-steady-steady.json) |
@@ -11921,6 +11925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Sports Basketball | 37163 | [37163-street-sports-basketball.json](./37163-street-sports-basketball.json) |
 | Street Sports Football | 55153 | [55153-street-sports-football.json](./55153-street-sports-football.json) |
 | Street Sports Soccer | 55152 | [55152-street-sports-soccer.json](./55152-street-sports-soccer.json) |
+| Street Sweeper | 129643 | [129643-street-sweeper.json](./129643-street-sweeper.json) |
 | Street Tennis, the Next Generation Champions | 57668 | [57668-street-tennis-the-next-generation-champions.json](./57668-street-tennis-the-next-generation-champions.json) |
 | Street Totochèr | 288760 | [288760-street-totocher.json](./288760-street-totocher.json) |
 | Street Vendor Simulator | 347330 | [347330-street-vendor-simulator.json](./347330-street-vendor-simulator.json) |
@@ -15282,6 +15287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synther | 99008 | [99008-synther.json](./99008-synther.json) |
 | Syntherapy | 139473 | [139473-syntherapy.json](./139473-syntherapy.json) |
 | Synthesia | 50109 | [50109-synthesia.json](./50109-synthesia.json) |
+| Synthetic Blood: Mind Shift | 129678 | [129678-synthetic-blood-mind-shift.json](./129678-synthetic-blood-mind-shift.json) |
 | Synthetic Days | 232918 | [232918-synthetic-days.json](./232918-synthetic-days.json) |
 | Synthetic Dreams | 51977 | [51977-synthetic-dreams.json](./51977-synthetic-dreams.json) |
 | Synthetic Fantasy; | 277581 | [277581-synthetic-fantasy.json](./277581-synthetic-fantasy.json) |
