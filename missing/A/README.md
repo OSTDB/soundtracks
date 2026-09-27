@@ -4353,6 +4353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Cider Spider | 12254 | [12254-apple-cider-spider.json](./12254-apple-cider-spider.json) |
 | Apple Clicker | 314410 | [314410-apple-clicker.json](./314410-apple-clicker.json) |
 | Apple Grove Picking Games | 116098 | [116098-apple-grove-picking-games.json](./116098-apple-grove-picking-games.json) |
+| Apple Hopper | 158526 | [158526-apple-hopper.json](./158526-apple-hopper.json) |
 | Apple Jack | 91905 | [91905-apple-jack.json](./91905-apple-jack.json) |
 | Apple Jack 1&2 | 35716 | [35716-apple-jack-1-and-2.json](./35716-apple-jack-1-and-2.json) |
 | Apple Panic | 12255 | [12255-apple-panic.json](./12255-apple-panic.json) |
@@ -5930,6 +5931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix: The Official Mobile Game of the Movie | 297590 | [297590-asterix-the-official-mobile-game-of-the-movie.json](./297590-asterix-the-official-mobile-game-of-the-movie.json) |
 | Astérix: These Romans Are Crazy! | 269567 | [269567-asterix-these-romans-are-crazy.json](./269567-asterix-these-romans-are-crazy.json) |
 | AsterMaster | 418795 | [418795-astermaster.json](./418795-astermaster.json) |
+| Asterminer | 158507 | [158507-asterminer.json](./158507-asterminer.json) |
 | Astero Inc. | 176506 | [176506-astero-inc.json](./176506-astero-inc.json) |
 | Asteroad | 149089 | [149089-asteroad.json](./149089-asteroad.json) |
 | Asteroid | 80931 | [80931-asteroid.json](./80931-asteroid.json) |
