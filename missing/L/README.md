@@ -1687,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letterorites | 58460 | [58460-letterorites.json](./58460-letterorites.json) |
 | Letters | 314307 | [314307-letters.json](./314307-letters.json) |
 | Letters & Legends | 292319 | [292319-letters-and-legends.json](./292319-letters-and-legends.json) |
+| Letters From a Rainy Day: Oceans and Lace | 152812 | [152812-letters-from-a-rainy-day-oceans-and-lace.json](./152812-letters-from-a-rainy-day-oceans-and-lace.json) |
 | Letters from the War | 340916 | [340916-letters-from-the-war.json](./340916-letters-from-the-war.json) |
 | Letters of Bernard Thorne | 337466 | [337466-letters-of-bernard-thorne.json](./337466-letters-of-bernard-thorne.json) |
 | Letters on the Loose | 91742 | [91742-letters-on-the-loose.json](./91742-letters-on-the-loose.json) |
@@ -4046,6 +4047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminous Plume | 140981 | [140981-luminous-plume.json](./140981-luminous-plume.json) |
 | Luminous Skies: A Short Adventure | 255956 | [255956-luminous-skies-a-short-adventure.json](./255956-luminous-skies-a-short-adventure.json) |
 | Luminous Threads: A Visual Novel | 306414 | [306414-luminous-threads-a-visual-novel.json](./306414-luminous-threads-a-visual-novel.json) |
+| Luminyte | 152720 | [152720-luminyte.json](./152720-luminyte.json) |
 | Lumiric Stage | 412264 | [412264-lumiric-stage.json](./412264-lumiric-stage.json) |
 | Lumiva Legacy | 265697 | [265697-lumiva-legacy.json](./265697-lumiva-legacy.json) |
 | Lumo 2 | 338546 | [338546-lumo-2.json](./338546-lumo-2.json) |
@@ -4164,6 +4166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Dungeon | 209485 | [209485-lust-dungeon.json](./209485-lust-dungeon.json) |
 | Lust for Darkness VR | 193508 | [193508-lust-for-darkness-vr.json](./193508-lust-for-darkness-vr.json) |
 | Lust for Lucre | 305760 | [305760-lust-for-lucre.json](./305760-lust-for-lucre.json) |
+| Lust for Speed | 152807 | [152807-lust-for-speed.json](./152807-lust-for-speed.json) |
 | Lust from Beyond | 115903 | [115903-lust-from-beyond.json](./115903-lust-from-beyond.json) |
 | Lust From Beyond: M Edition | 152313 | [152313-lust-from-beyond-m-edition.json](./152313-lust-from-beyond-m-edition.json) |
 | Lust Galaxy | 309478 | [309478-lust-galaxy.json](./309478-lust-galaxy.json) |
