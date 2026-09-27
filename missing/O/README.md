@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Gods and Men: The Daybreak Empire | 109401 | [109401-of-gods-and-men-the-daybreak-empire.json](./109401-of-gods-and-men-the-daybreak-empire.json) |
 | Of Grit & Graves | 371465 | [371465-of-grit-and-graves.json](./371465-of-grit-and-graves.json) |
 | Of Guards and Thieves: Firefight | 167677 | [167677-of-guards-and-thieves-firefight.json](./167677-of-guards-and-thieves-firefight.json) |
+| Of Guards and Thieves: Zombie Rush | 166013 | [166013-of-guards-and-thieves-zombie-rush.json](./166013-of-guards-and-thieves-zombie-rush.json) |
 | Of Hibnernry Boneyard Ler Ardus | 397097 | [397097-of-hibnernry-boneyard-ler-ardus.json](./397097-of-hibnernry-boneyard-ler-ardus.json) |
 | Of Ice & Snow | 229783 | [229783-of-ice-and-snow.json](./229783-of-ice-and-snow.json) |
 | Of Life and Land | 188614 | [188614-of-life-and-land.json](./188614-of-life-and-land.json) |
