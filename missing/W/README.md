@@ -1392,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Scott's Story in the World of Our Church and Halloween: Visual Novel | 225588 | [225588-welcome-to-scotts-story-in-the-world-of-our-church-and-halloween-visual-novel.json](./225588-welcome-to-scotts-story-in-the-world-of-our-church-and-halloween-visual-novel.json) |
 | Welcome to Sushi Tree | 316612 | [316612-welcome-to-sushi-tree.json](./316612-welcome-to-sushi-tree.json) |
 | Welcome to the Adventurer Inn! | 169460 | [169460-welcome-to-the-adventurer-inn.json](./169460-welcome-to-the-adventurer-inn.json) |
+| Welcome to the Ballroom | 137577 | [137577-welcome-to-the-ballroom.json](./137577-welcome-to-the-ballroom.json) |
 | Welcome to the Chop House | 337087 | [337087-welcome-to-the-chop-house.json](./337087-welcome-to-the-chop-house.json) |
 | Welcome to the Colony | 184033 | [184033-welcome-to-the-colony.json](./184033-welcome-to-the-colony.json) |
 | Welcome to the Dark Place | 121599 | [121599-welcome-to-the-dark-place.json](./121599-welcome-to-the-dark-place.json) |
