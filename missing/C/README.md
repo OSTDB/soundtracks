@@ -5561,6 +5561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator: Year 1 Season Pass | 246401 | [246401-construction-simulator-year-1-season-pass.json](./246401-construction-simulator-year-1-season-pass.json) |
 | Construction Simulator: Year 2 Season Pass | 293132 | [293132-construction-simulator-year-2-season-pass.json](./293132-construction-simulator-year-2-season-pass.json) |
 | Construction Site Driver 2 | 223568 | [223568-construction-site-driver-2.json](./223568-construction-site-driver-2.json) |
+| Construction Worker Simulator | 151102 | [151102-construction-worker-simulator.json](./151102-construction-worker-simulator.json) |
 | Construction: Action - Map: Ampharos | 354492 | [354492-construction-action-map-ampharos.json](./354492-construction-action-map-ampharos.json) |
 | Construction: Action - Map: Arcanine | 354493 | [354493-construction-action-map-arcanine.json](./354493-construction-action-map-arcanine.json) |
 | Construction: Action - Map: Beedrill | 354610 | [354610-construction-action-map-beedrill.json](./354610-construction-action-map-beedrill.json) |
@@ -7323,6 +7324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowded Dungeon Crawler | 182993 | [182993-crowded-dungeon-crawler.json](./182993-crowded-dungeon-crawler.json) |
 | Crowded Mysteries 2: Winter Romance | 320334 | [320334-crowded-mysteries-2-winter-romance.json](./320334-crowded-mysteries-2-winter-romance.json) |
 | Crowfall | 1126 | [1126-crowfall.json](./1126-crowfall.json) |
+| Crowhille: Detective Case Files VR | 151064 | [151064-crowhille-detective-case-files-vr.json](./151064-crowhille-detective-case-files-vr.json) |
 | CrowKart | 165443 | [165443-crowkart.json](./165443-crowkart.json) |
 | Crown | 12415 | [12415-crown.json](./12415-crown.json) |
 | Crown | 146111 | [146111-crown.json](./146111-crown.json) |
