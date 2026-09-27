@@ -1745,6 +1745,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlecaster 2 | 386231 | [386231-battlecaster-2.json](./386231-battlecaster-2.json) |
 | Battlechat | 276245 | [276245-battlechat.json](./276245-battlechat.json) |
 | BattleClaws | 297784 | [297784-battleclaws.json](./297784-battleclaws.json) |
+| Battlecon: Online - Season 1 | 174140 | [174140-battlecon-online-season-1.json](./174140-battlecon-online-season-1.json) |
+| Battlecon: Online - Season 2 | 174141 | [174141-battlecon-online-season-2.json](./174141-battlecon-online-season-2.json) |
 | BattleCourt | 132219 | [132219-battlecourt.json](./132219-battlecourt.json) |
 | BattleCrew: Space Pirates | 26807 | [26807-battlecrew-space-pirates.json](./26807-battlecrew-space-pirates.json) |
 | BattleCross | 266827 | [266827-battlecross.json](./266827-battlecross.json) |
@@ -1999,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach-Head II | 13389 | [13389-beach-head-ii.json](./13389-beach-head-ii.json) |
 | Beachcomber | 333945 | [333945-beachcomber.json](./333945-beachcomber.json) |
 | Beachcomber | 388924 | [388924-beachcomber.json](./388924-beachcomber.json) |
+| Beached | 174101 | [174101-beached.json](./174101-beached.json) |
 | Beachgirl Dreams | 337159 | [337159-beachgirl-dreams.json](./337159-beachgirl-dreams.json) |
 | Beachside Blitz | 353315 | [353315-beachside-blitz.json](./353315-beachside-blitz.json) |
 | Beacon | 165516 | [165516-beacon.json](./165516-beacon.json) |
@@ -6985,6 +6988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Forest | 374150 | [374150-bunny-forest.json](./374150-bunny-forest.json) |
 | Bunny Game | 236230 | [236230-bunny-game.json](./236230-bunny-game.json) |
 | Bunny Girl Story | 201844 | [201844-bunny-girl-story.json](./201844-bunny-girl-story.json) |
+| Bunny Hop | 174124 | [174124-bunny-hop.json](./174124-bunny-hop.json) |
 | Bunny Hop League: Map Pack 1 | 226275 | [226275-bunny-hop-league-map-pack-1.json](./226275-bunny-hop-league-map-pack-1.json) |
 | Bunny Hopper | 377049 | [377049-bunny-hopper.json](./377049-bunny-hopper.json) |
 | Bunny Hurling | 335286 | [335286-bunny-hurling.json](./335286-bunny-hurling.json) |
