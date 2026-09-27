@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Fear | 20143 | [20143-dark-fear.json](./20143-dark-fear.json) |
 | Dark Flow | 220586 | [220586-dark-flow.json](./220586-dark-flow.json) |
 | Dark Flowers | 157135 | [157135-dark-flowers.json](./157135-dark-flowers.json) |
+| Dark Forest Project | 169784 | [169784-dark-forest-project.json](./169784-dark-forest-project.json) |
 | Dark Forester | 35760 | [35760-dark-forester.json](./35760-dark-forester.json) |
 | Dark Frontiers | 203362 | [203362-dark-frontiers.json](./203362-dark-frontiers.json) |
 | Dark Goddess of Destruction | 339364 | [339364-dark-goddess-of-destruction.json](./339364-dark-goddess-of-destruction.json) |
