@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic 2014: Duels of the Planeswalkers - Deck Pack 3 | 362460 | [362460-magic-2014-duels-of-the-planeswalkers-deck-pack-3.json](./362460-magic-2014-duels-of-the-planeswalkers-deck-pack-3.json) |
 | Magic 2014: Duels of the Planeswalkers - Expansion | 362457 | [362457-magic-2014-duels-of-the-planeswalkers-expansion.json](./362457-magic-2014-duels-of-the-planeswalkers-expansion.json) |
 | Magic Academy | 311117 | [311117-magic-academy.json](./311117-magic-academy.json) |
+| Magic Adventures | 155025 | [155025-magic-adventures.json](./155025-magic-adventures.json) |
 | Magic and Elements | 205581 | [205581-magic-and-elements.json](./205581-magic-and-elements.json) |
 | Magic Archery | 318318 | [318318-magic-archery.json](./318318-magic-archery.json) |
 | Magic Balls | 263474 | [263474-magic-balls.json](./263474-magic-balls.json) |
@@ -1559,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart 64 HD | 229075 | [229075-mario-kart-64-hd.json](./229075-mario-kart-64-hd.json) |
 | Mario Kart 64 ITEM BLAST | 374679 | [374679-mario-kart-64-item-blast.json](./374679-mario-kart-64-item-blast.json) |
 | Mario Kart 64 Randomizer | 210604 | [210604-mario-kart-64-randomizer.json](./210604-mario-kart-64-randomizer.json) |
+| Mario Kart 64: Amped Up | 155010 | [155010-mario-kart-64-amped-up.json](./155010-mario-kart-64-amped-up.json) |
 | Mario Kart 64: Amped Up - Version 3 | 358307 | [358307-mario-kart-64-amped-up-version-3.json](./358307-mario-kart-64-amped-up-version-3.json) |
 | Mario Kart 64: Hooting Time | 248303 | [248303-mario-kart-64-hooting-time.json](./248303-mario-kart-64-hooting-time.json) |
 | Mario Kart 64: Mega Mushroom Blast | 266208 | [266208-mario-kart-64-mega-mushroom-blast.json](./266208-mario-kart-64-mega-mushroom-blast.json) |
@@ -1757,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Time Machine | 210116 | [210116-marios-time-machine.json](./210116-marios-time-machine.json) |
 | Mario's Time Machine DX | 323825 | [323825-marios-time-machine-dx.json](./323825-marios-time-machine-dx.json) |
 | Mario's Timeship Battle | 318041 | [318041-marios-timeship-battle.json](./318041-marios-timeship-battle.json) |
+| Mario's Vacation Course 64 | 155018 | [155018-marios-vacation-course-64.json](./155018-marios-vacation-course-64.json) |
 | Mario/Rabbids Crossover Adventure Game | 231477 | [231477-mario-rabbids-crossover-adventure-game.json](./231477-mario-rabbids-crossover-adventure-game.json) |
 | Marioblade Chronicles 64 | 219044 | [219044-marioblade-chronicles-64.json](./219044-marioblade-chronicles-64.json) |
 | MarioBreak! | 404420 | [404420-mariobreak.json](./404420-mariobreak.json) |
@@ -4742,6 +4745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Military Attack | 215612 | [215612-military-attack.json](./215612-military-attack.json) |
 | Military Base War | 169447 | [169447-military-base-war.json](./169447-military-base-war.json) |
 | Military Combat Shooter Desert War | 283276 | [283276-military-combat-shooter-desert-war.json](./283276-military-combat-shooter-desert-war.json) |
+| Military Conflict: Vietnam | 154984 | [154984-military-conflict-vietnam.json](./154984-military-conflict-vietnam.json) |
 | Military Crusaders | 157002 | [157002-military-crusaders.json](./157002-military-crusaders.json) |
 | Military Defense | 326192 | [326192-military-defense.json](./326192-military-defense.json) |
 | Military Madness | 270701 | [270701-military-madness.json](./270701-military-madness.json) |
@@ -5142,6 +5146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MineSweeper VR | 31617 | [31617-minesweeper-vr.json](./31617-minesweeper-vr.json) |
 | Minesweeper: The Clean One | 180245 | [180245-minesweeper-the-clean-one.json](./180245-minesweeper-the-clean-one.json) |
 | Mineswifter | 138189 | [138189-mineswifter.json](./138189-mineswifter.json) |
+| Míngjiào Fēngyún zhī Jiǔ Yīn Jiǔ Yáng | 155014 | [155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json](./155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json) |
 | Mìngyùn de Yǐndǎozhě: Chuánshuō Bǎoshí | 394195 | [394195-mingyun-de-yindaozhe-chuanshuo-baoshi.json](./394195-mingyun-de-yindaozhe-chuanshuo-baoshi.json) |
 | Mini AirHockey | 405473 | [405473-mini-airhockey.json](./405473-mini-airhockey.json) |
 | Mini Basketball | 194630 | [194630-mini-basketball.json](./194630-mini-basketball.json) |
@@ -5920,6 +5925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ModelMaker | 258946 | [258946-modelmaker.json](./258946-modelmaker.json) |
 | Moderium | 127214 | [127214-moderium.json](./127214-moderium.json) |
 | Modern Arena | 394359 | [394359-modern-arena.json](./394359-modern-arena.json) |
+| Modern Assault Tanks | 155026 | [155026-modern-assault-tanks.json](./155026-modern-assault-tanks.json) |
 | Modern Attack | 391865 | [391865-modern-attack.json](./391865-modern-attack.json) |
 | Modern Campaigns: Danube Front '85 | 124738 | [124738-modern-campaigns-danube-front-85.json](./124738-modern-campaigns-danube-front-85.json) |
 | Modern Campaigns: Middle East '67 | 124737 | [124737-modern-campaigns-middle-east-67.json](./124737-modern-campaigns-middle-east-67.json) |
@@ -7084,6 +7090,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mos Speedrun 2 | 36158 | [36158-mos-speedrun-2.json](./36158-mos-speedrun-2.json) |
 | Mosa Lina | 258680 | [258680-mosa-lina.json](./258680-mosa-lina.json) |
 | Mosaic | 18929 | [18929-mosaic.json](./18929-mosaic.json) |
+| Mosaic 1% DLC | 155030 | [155030-mosaic-1-dlc.json](./155030-mosaic-1-dlc.json) |
+| Mosaic 1% Edition | 155031 | [155031-mosaic-1-edition.json](./155031-mosaic-1-edition.json) |
 | Mosaic Chronicles | 162850 | [162850-mosaic-chronicles.json](./162850-mosaic-chronicles.json) |
 | Mosaic Chronicles Deluxe: Complete + | 328837 | [328837-mosaic-chronicles-deluxe-complete.json](./328837-mosaic-chronicles-deluxe-complete.json) |
 | Mosaic Chronicles Deluxe: Extended Edition | 251533 | [251533-mosaic-chronicles-deluxe-extended-edition.json](./251533-mosaic-chronicles-deluxe-extended-edition.json) |
@@ -7639,6 +7647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MSX Soccer | 94680 | [94680-msx-soccer.json](./94680-msx-soccer.json) |
 | MT Force Aliens Uprising | 341343 | [341343-mt-force-aliens-uprising.json](./341343-mt-force-aliens-uprising.json) |
 | Mt. Doubt | 101979 | [101979-mt-doubt.json](./101979-mt-doubt.json) |
+| MTB Dirt | 154999 | [154999-mtb-dirt.json](./154999-mtb-dirt.json) |
 | MTB DirtCross | 298860 | [298860-mtb-dirtcross.json](./298860-mtb-dirtcross.json) |
 | MTF: Moth To a Flame | 379980 | [379980-mtf-moth-to-a-flame.json](./379980-mtf-moth-to-a-flame.json) |
 | Mtn Chaos | 257963 | [257963-mtn-chaos.json](./257963-mtn-chaos.json) |
