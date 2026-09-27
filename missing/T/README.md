@@ -2854,6 +2854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bombing Islands | 3457 | [3457-the-bombing-islands.json](./3457-the-bombing-islands.json) |
 | The Bond | 368010 | [368010-the-bond.json](./368010-the-bond.json) |
 | The Bones of Rosalinda | 290394 | [290394-the-bones-of-rosalinda.json](./290394-the-bones-of-rosalinda.json) |
+| The Bones Picked Clean and the Clean Bones Gone | 139316 | [139316-the-bones-picked-clean-and-the-clean-bones-gone.json](./139316-the-bones-picked-clean-and-the-clean-bones-gone.json) |
 | The Bonte Room | 316828 | [316828-the-bonte-room.json](./316828-the-bonte-room.json) |
 | The Bonte Room 2 | 316829 | [316829-the-bonte-room-2.json](./316829-the-bonte-room-2.json) |
 | The Boo Croo | 381619 | [381619-the-boo-croo.json](./381619-the-boo-croo.json) |
@@ -3598,6 +3599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Divine Speaker: The Sun and the Moon | 199563 | [199563-the-divine-speaker-the-sun-and-the-moon.json](./199563-the-divine-speaker-the-sun-and-the-moon.json) |
 | The Diving Bell | 391881 | [391881-the-diving-bell.json](./391881-the-diving-bell.json) |
 | The Division 2: Warlords of New York - Year 5 Season 1: Broken Wings | 276774 | [276774-the-division-2-warlords-of-new-york-year-5-season-1-broken-wings.json](./276774-the-division-2-warlords-of-new-york-year-5-season-1-broken-wings.json) |
+| The Document of Metal Gear Solid 2 | 139343 | [139343-the-document-of-metal-gear-solid-2.json](./139343-the-document-of-metal-gear-solid-2.json) |
 | The Dog Quiz | 223149 | [223149-the-dog-quiz.json](./223149-the-dog-quiz.json) |
 | The Dog Run | 114410 | [114410-the-dog-run.json](./114410-the-dog-run.json) |
 | The Doll | 249816 | [249816-the-doll.json](./249816-the-doll.json) |
@@ -3680,6 +3682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dungeon Tower | 255996 | [255996-the-dungeon-tower.json](./255996-the-dungeon-tower.json) |
 | The Dungeoning | 17310 | [17310-the-dungeoning.json](./17310-the-dungeoning.json) |
 | The Dungeons of Castle Madness | 22403 | [22403-the-dungeons-of-castle-madness.json](./22403-the-dungeons-of-castle-madness.json) |
+| The Dungeons of Moria | 139345 | [139345-the-dungeons-of-moria.json](./139345-the-dungeons-of-moria.json) |
 | The Durka: You will (not) die | 154010 | [154010-the-durka-you-will-not-die.json](./154010-the-durka-you-will-not-die.json) |
 | The Dusk Alliance | 250614 | [250614-the-dusk-alliance.json](./250614-the-dusk-alliance.json) |
 | The Dust Below | 183542 | [183542-the-dust-below.json](./183542-the-dust-below.json) |
@@ -5177,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Strand | 318621 | [318621-the-last-strand.json](./318621-the-last-strand.json) |
 | The Last Sunshine | 34760 | [34760-the-last-sunshine.json](./34760-the-last-sunshine.json) |
 | The Last Sunshine: Rekindled | 150612 | [150612-the-last-sunshine-rekindled.json](./150612-the-last-sunshine-rekindled.json) |
+| The Last Survey | 139318 | [139318-the-last-survey.json](./139318-the-last-survey.json) |
 | The Last Tale | 403004 | [403004-the-last-tale.json](./403004-the-last-tale.json) |
 | The Last Tape | 334841 | [334841-the-last-tape.json](./334841-the-last-tape.json) |
 | The Last Taxi | 132822 | [132822-the-last-taxi.json](./132822-the-last-taxi.json) |
@@ -6343,6 +6347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Powerpuff Girls: Monkey Mania | 309101 | [309101-the-powerpuff-girls-monkey-mania.json](./309101-the-powerpuff-girls-monkey-mania.json) |
 | The Powerpuff Girls: Princess Snorebucks | 59381 | [59381-the-powerpuff-girls-princess-snorebucks.json](./59381-the-powerpuff-girls-princess-snorebucks.json) |
 | The PowerPuff Girls: Relish Rampage | 19415 | [19415-the-powerpuff-girls-relish-rampage.json](./19415-the-powerpuff-girls-relish-rampage.json) |
+| The Prabbits: Happy Dogfights | 139298 | [139298-the-prabbits-happy-dogfights.json](./139298-the-prabbits-happy-dogfights.json) |
 | The Premiership | 71787 | [71787-the-premiership.json](./71787-the-premiership.json) |
 | The Preschoolers: Season 1 - Extended Edition | 233006 | [233006-the-preschoolers-season-1-extended-edition.json](./233006-the-preschoolers-season-1-extended-edition.json) |
 | The Preservation Project | 204415 | [204415-the-preservation-project.json](./204415-the-preservation-project.json) |
@@ -11658,6 +11663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town of Salem | 9658 | [9658-town-of-salem.json](./9658-town-of-salem.json) |
 | Town of Salem 2 | 247531 | [247531-town-of-salem-2.json](./247531-town-of-salem-2.json) |
 | Town of Salem 2: Mafia Pack | 370314 | [370314-town-of-salem-2-mafia-pack.json](./370314-town-of-salem-2-mafia-pack.json) |
+| Town of Salem: The Coven | 139332 | [139332-town-of-salem-the-coven.json](./139332-town-of-salem-the-coven.json) |
 | Town of Sin | 175994 | [175994-town-of-sin.json](./175994-town-of-sin.json) |
 | Town of Tides | 198540 | [198540-town-of-tides.json](./198540-town-of-tides.json) |
 | Town of Tinysville | 413049 | [413049-town-of-tinysville.json](./413049-town-of-tinysville.json) |
