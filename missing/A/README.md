@@ -4116,6 +4116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti Frank's Wrath | 173255 | [173255-anti-franks-wrath.json](./173255-anti-franks-wrath.json) |
 | Anti Hero Bundle | 147791 | [147791-anti-hero-bundle.json](./147791-anti-hero-bundle.json) |
 | Anti Pac-Man | 325557 | [325557-anti-pac-man.json](./325557-anti-pac-man.json) |
+| Anti Pong | 147878 | [147878-anti-pong.json](./147878-anti-pong.json) |
 | Anti Terrorist Rush 2 | 116342 | [116342-anti-terrorist-rush-2.json](./116342-anti-terrorist-rush-2.json) |
 | Anti V Reboot | 357805 | [357805-anti-v-reboot.json](./357805-anti-v-reboot.json) |
 | Anti-Goodness Dept. | 176787 | [176787-anti-goodness-dept.json](./176787-anti-goodness-dept.json) |
@@ -5955,6 +5956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assualt cube | 178444 | [178444-assualt-cube.json](./178444-assualt-cube.json) |
 | AST-Hero | 130384 | [130384-ast-hero.json](./130384-ast-hero.json) |
 | Astæria | 134670 | [134670-ast-ria.json](./134670-ast-ria.json) |
+| Astalo | 147879 | [147879-astalo.json](./147879-astalo.json) |
 | Astalon: Tears of the Earth | 80885 | [80885-astalon-tears-of-the-earth.json](./80885-astalon-tears-of-the-earth.json) |
 | Astar Solis | 366396 | [366396-astar-solis.json](./366396-astar-solis.json) |
 | Astate: La Malédiction des Templiers | 14271 | [14271-astate-la-malediction-des-templiers.json](./14271-astate-la-malediction-des-templiers.json) |
