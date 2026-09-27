@@ -5306,6 +5306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniDrivers | 34867 | [34867-minidrivers.json](./34867-minidrivers.json) |
 | Minifiend | 253034 | [253034-minifiend.json](./253034-minifiend.json) |
 | Minigame Game | 231333 | [231333-minigame-game.json](./231333-minigame-game.json) |
+| Minigame Madness | 142964 | [142964-minigame-madness.json](./142964-minigame-madness.json) |
 | Minigame Party | 257648 | [257648-minigame-party.json](./257648-minigame-party.json) |
 | Minigame Party VR | 33146 | [33146-minigame-party-vr.json](./33146-minigame-party-vr.json) |
 | MiniGame Show do Milhão | 268040 | [268040-minigame-show-do-milhao.json](./268040-minigame-show-do-milhao.json) |
