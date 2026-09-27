@@ -478,9 +478,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakugan Battle Brawlers: Arcade Battlers | 122989 | [122989-bakugan-battle-brawlers-arcade-battlers.json](./122989-bakugan-battle-brawlers-arcade-battlers.json) |
 | Bakugan: Rise of the Resistance | 26690 | [26690-bakugan-rise-of-the-resistance.json](./26690-bakugan-rise-of-the-resistance.json) |
 | Bakuman: Mangaka he no Michi | 65745 | [65745-bakuman-mangaka-he-no-michi.json](./65745-bakuman-mangaka-he-no-michi.json) |
+| Bakumatsu Ishin: Amakakeru Koi | 163234 | [163234-bakumatsu-ishin-amakakeru-koi.json](./163234-bakumatsu-ishin-amakakeru-koi.json) |
 | Bakumatsu Kourinden Oni | 15897 | [15897-bakumatsu-kourinden-oni.json](./15897-bakumatsu-kourinden-oni.json) |
+| Bakumatsu Midarezaki | 163231 | [163231-bakumatsu-midarezaki.json](./163231-bakumatsu-midarezaki.json) |
+| Bakumatsu Renka: Karyuu Kenshi-den | 163235 | [163235-bakumatsu-renka-karyuu-kenshi-den.json](./163235-bakumatsu-renka-karyuu-kenshi-den.json) |
 | Bakumatsu Renka: Shinsengumi DS | 122864 | [122864-bakumatsu-renka-shinsengumi-ds.json](./122864-bakumatsu-renka-shinsengumi-ds.json) |
 | Bakumatsu Roman: Gekka no Kenshi 1+2 | 84253 | [84253-bakumatsu-roman-gekka-no-kenshi-1-2.json](./84253-bakumatsu-roman-gekka-no-kenshi-1-2.json) |
+| Bakumatsu-shishi no Renai Jijou | 163229 | [163229-bakumatsu-shishi-no-renai-jijou.json](./163229-bakumatsu-shishi-no-renai-jijou.json) |
 | Bakuretsu Breaker | 40269 | [40269-bakuretsu-breaker.json](./40269-bakuretsu-breaker.json) |
 | Bakuretsu Hunters: Mahjong Special | 123058 | [123058-bakuretsu-hunters-mahjong-special.json](./123058-bakuretsu-hunters-mahjong-special.json) |
 | Bakuryuu Sentai Abaranger | 130409 | [130409-bakuryuu-sentai-abaranger.json](./130409-bakuryuu-sentai-abaranger.json) |
@@ -4452,6 +4456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Samurai | 256918 | [256918-blood-samurai.json](./256918-blood-samurai.json) |
 | Blood Samurai: Night of Slaughter | 227851 | [227851-blood-samurai-night-of-slaughter.json](./227851-blood-samurai-night-of-slaughter.json) |
 | Blood Sea | 312572 | [312572-blood-sea.json](./312572-blood-sea.json) |
+| Blood Spear | 163208 | [163208-blood-spear.json](./163208-blood-spear.json) |
 | Blood Sport | 13243 | [13243-blood-sport.json](./13243-blood-sport.json) |
 | Blood Ties | 78714 | [78714-blood-ties.json](./78714-blood-ties.json) |
 | Blood Ties: A Hidden Object Game with a Bite | 206143 | [206143-blood-ties-a-hidden-object-game-with-a-bite.json](./206143-blood-ties-a-hidden-object-game-with-a-bite.json) |
