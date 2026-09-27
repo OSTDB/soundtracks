@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impact Trial: Simulation | 164508 | [164508-impact-trial-simulation.json](./164508-impact-trial-simulation.json) |
 | Impaler Gold | 196078 | [196078-impaler-gold.json](./196078-impaler-gold.json) |
 | Impartial | 339091 | [339091-impartial.json](./339091-impartial.json) |
+| Impavidvm | 158527 | [158527-impavidvm.json](./158527-impavidvm.json) |
 | Impawlse | 303575 | [303575-impawlse.json](./303575-impawlse.json) |
 | Impeached 2 | 253921 | [253921-impeached-2.json](./253921-impeached-2.json) |
 | Impeached! | 179611 | [179611-impeached.json](./179611-impeached.json) |
@@ -1481,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infamous: Precinct Assault | 374313 | [374313-infamous-precinct-assault.json](./374313-infamous-precinct-assault.json) |
 | Infamous: Second Son - Cole's Legacy | 210087 | [210087-infamous-second-son-coles-legacy.json](./210087-infamous-second-son-coles-legacy.json) |
 | Infamous: Second Son - Collector's Edition | 147293 | [147293-infamous-second-son-collectors-edition.json](./147293-infamous-second-son-collectors-edition.json) |
+| Infanticide | 158541 | [158541-infanticide.json](./158541-infanticide.json) |
 | Infantry | 85840 | [85840-infantry.json](./85840-infantry.json) |
 | Infantry Attack: Backup Edition | 308805 | [308805-infantry-attack-backup-edition.json](./308805-infantry-attack-backup-edition.json) |
 | Infantry Attack: Drone Squad | 303578 | [303578-infantry-attack-drone-squad.json](./303578-infantry-attack-drone-squad.json) |
