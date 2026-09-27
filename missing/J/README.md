@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackpot Stadium | 91733 | [91733-jackpot-stadium.json](./91733-jackpot-stadium.json) |
 | Jackpot Tycoon | 210128 | [210128-jackpot-tycoon.json](./210128-jackpot-tycoon.json) |
 | Jackroid | 367967 | [367967-jackroid.json](./367967-jackroid.json) |
+| Jacks or Better: Video Poker | 147855 | [147855-jacks-or-better-video-poker.json](./147855-jacks-or-better-video-poker.json) |
 | Jacksepticeye's 1 Million Subscriber YouTube Party Massacre | 252770 | [252770-jacksepticeyes-1-million-subscriber-youtube-party-massacre.json](./252770-jacksepticeyes-1-million-subscriber-youtube-party-massacre.json) |
 | Jacksmith: Weapons and Warriors | 337075 | [337075-jacksmith-weapons-and-warriors.json](./337075-jacksmith-weapons-and-warriors.json) |
 | Jackson | 40192 | [40192-jackson.json](./40192-jackson.json) |
@@ -375,6 +376,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JBMod | 222836 | [222836-jbmod.json](./222836-jbmod.json) |
 | JBomb | 340769 | [340769-jbomb.json](./340769-jbomb.json) |
 | JCB Digger | 13730 | [13730-jcb-digger.json](./13730-jcb-digger.json) |
+| JDM Racing | 147854 | [147854-jdm-racing.json](./147854-jdm-racing.json) |
+| JDM Racing 2 | 147853 | [147853-jdm-racing-2.json](./147853-jdm-racing-2.json) |
 | Jealousy Duel X | 93347 | [93347-jealousy-duel-x.json](./93347-jealousy-duel-x.json) |
 | Jeam's Big Day | 185606 | [185606-jeams-big-day.json](./185606-jeams-big-day.json) |
 | Jean's Club | 197845 | [197845-jeans-club.json](./197845-jeans-club.json) |
