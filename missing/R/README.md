@@ -4529,6 +4529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronin: Two Souls | 139474 | [139474-ronin-two-souls.json](./139474-ronin-two-souls.json) |
 | Ronin's Requiem | 305289 | [305289-ronins-requiem.json](./305289-ronins-requiem.json) |
 | Ronister Adventure | 164898 | [164898-ronister-adventure.json](./164898-ronister-adventure.json) |
+| Roniu's Tale | 161178 | [161178-ronius-tale.json](./161178-ronius-tale.json) |
 | Ronnarium | 263758 | [263758-ronnarium.json](./263758-ronnarium.json) |
 | Ronnie O'Sullivan's Snooker | 312350 | [312350-ronnie-osullivans-snooker.json](./312350-ronnie-osullivans-snooker.json) |
 | Ronnie O'Sullivan's Snooker | 64669 | [64669-ronnie-osullivans-snooker.json](./64669-ronnie-osullivans-snooker.json) |
