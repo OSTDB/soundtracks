@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A/X-101 | 5360 | [5360-a-x-101.json](./5360-a-x-101.json) |
 | A&E Crime Scene: AR | 95872 | [95872-a-and-e-crime-scene-ar.json](./95872-a-and-e-crime-scene-ar.json) |
 | A2 Racer III: Europa Tour | 44841 | [44841-a2-racer-iii-europa-tour.json](./44841-a2-racer-iii-europa-tour.json) |
+| A3! Act! Addict! Actors! | 137535 | [137535-a3-act-addict-actors.json](./137535-a3-act-addict-actors.json) |
 | A320 Airbus: Edition USA | 14595 | [14595-a320-airbus-edition-usa.json](./14595-a320-airbus-edition-usa.json) |
 | A6: A-Train 6 | 9997 | [9997-a6-a-train-6.json](./9997-a6-a-train-6.json) |
 | AAA Clock: Extreme Premium | 304762 | [304762-aaa-clock-extreme-premium.json](./304762-aaa-clock-extreme-premium.json) |
@@ -4867,6 +4868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadia: Cloudbound | 348454 | [348454-arcadia-cloudbound.json](./348454-arcadia-cloudbound.json) |
 | Arcadian Atlas | 18868 | [18868-arcadian-atlas.json](./18868-arcadian-atlas.json) |
 | Arcadian Rift | 162245 | [162245-arcadian-rift.json](./162245-arcadian-rift.json) |
+| Arcadium | 137562 | [137562-arcadium.json](./137562-arcadium.json) |
 | Arcadium: Space Odyssey | 255971 | [255971-arcadium-space-odyssey.json](./255971-arcadium-space-odyssey.json) |
 | Arcadius | 156126 | [156126-arcadius.json](./156126-arcadius.json) |
 | Arcadletra | 391876 | [391876-arcadletra.json](./391876-arcadletra.json) |
@@ -5946,6 +5948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Bandit | 240347 | [240347-assault-bandit.json](./240347-assault-bandit.json) |
 | Assault Commander Rearmed | 371888 | [371888-assault-commander-rearmed.json](./371888-assault-commander-rearmed.json) |
 | Assault Dragon: The Day 5 | 65735 | [65735-assault-dragon-the-day-5.json](./65735-assault-dragon-the-day-5.json) |
+| Assault Fire | 137583 | [137583-assault-fire.json](./137583-assault-fire.json) |
 | Assault Gunners HD Edition | 87854 | [87854-assault-gunners-hd-edition.json](./87854-assault-gunners-hd-edition.json) |
 | Assault Heroes | 20634 | [20634-assault-heroes.json](./20634-assault-heroes.json) |
 | Assault Mayhem | 351607 | [351607-assault-mayhem.json](./351607-assault-mayhem.json) |
@@ -6981,6 +6984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avorion: Black Market | 172110 | [172110-avorion-black-market.json](./172110-avorion-black-market.json) |
 | Avorion: Into the Rift | 210867 | [210867-avorion-into-the-rift.json](./210867-avorion-into-the-rift.json) |
 | AVP: Evolution | 20087 | [20087-avp-evolution.json](./20087-avp-evolution.json) |
+| Avrach Resurrection | 137567 | [137567-avrach-resurrection.json](./137567-avrach-resurrection.json) |
 | Avril | 373011 | [373011-avril.json](./373011-avril.json) |
 | Avrod | 149452 | [149452-avrod.json](./149452-avrod.json) |
 | Avventura nel Castello | 304177 | [304177-avventura-nel-castello.json](./304177-avventura-nel-castello.json) |
