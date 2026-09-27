@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Story | 221190 | [221190-galactic-story.json](./221190-galactic-story.json) |
 | Galactic Striker | 329174 | [329174-galactic-striker.json](./329174-galactic-striker.json) |
 | Galactic Traffic Control | 325839 | [325839-galactic-traffic-control.json](./325839-galactic-traffic-control.json) |
+| Galactic Trooper Armada | 146786 | [146786-galactic-trooper-armada.json](./146786-galactic-trooper-armada.json) |
 | Galactic Vanguard | 295841 | [295841-galactic-vanguard.json](./295841-galactic-vanguard.json) |
 | Galactic Vanguard | 333629 | [333629-galactic-vanguard.json](./333629-galactic-vanguard.json) |
 | Galactic Veins | 346159 | [346159-galactic-veins.json](./346159-galactic-veins.json) |
