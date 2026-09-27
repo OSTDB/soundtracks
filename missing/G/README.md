@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gar-Type | 327351 | [327351-gar-type.json](./327351-gar-type.json) |
 | Garage Flipper | 217270 | [217270-garage-flipper.json](./217270-garage-flipper.json) |
 | Garage Mechanic Simulator | 124020 | [124020-garage-mechanic-simulator.json](./124020-garage-mechanic-simulator.json) |
+| Garage Ninja | 163764 | [163764-garage-ninja.json](./163764-garage-ninja.json) |
 | Garage Works | 278417 | [278417-garage-works.json](./278417-garage-works.json) |
 | Garage: Bad Dream Adventure | 24947 | [24947-garage-bad-dream-adventure.json](./24947-garage-bad-dream-adventure.json) |
 | Garaku Tale | 122882 | [122882-garaku-tale.json](./122882-garaku-tale.json) |
