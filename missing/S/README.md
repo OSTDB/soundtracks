@@ -8944,6 +8944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spells & Secrets | 198494 | [198494-spells-and-secrets.json](./198494-spells-and-secrets.json) |
 | Spells For Sad Goths With Shitty Parents | 176921 | [176921-spells-for-sad-goths-with-shitty-parents.json](./176921-spells-for-sad-goths-with-shitty-parents.json) |
 | Spellshaper | 213451 | [213451-spellshaper.json](./213451-spellshaper.json) |
+| Spellshard: The Black Crown of Horgoth | 149992 | [149992-spellshard-the-black-crown-of-horgoth.json](./149992-spellshard-the-black-crown-of-horgoth.json) |
 | Spellshot | 243700 | [243700-spellshot.json](./243700-spellshot.json) |
 | Spellsided | 311488 | [311488-spellsided.json](./311488-spellsided.json) |
 | Spellslayer | 266273 | [266273-spellslayer.json](./266273-spellslayer.json) |
@@ -9804,6 +9805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Srogue | 311140 | [311140-srogue.json](./311140-srogue.json) |
 | SRS: Street Racing Syndicate | 49382 | [49382-srs-street-racing-syndicate.json](./49382-srs-street-racing-syndicate.json) |
 | SRX | 133368 | [133368-srx.json](./133368-srx.json) |
+| SRX: The Game | 150048 | [150048-srx-the-game.json](./150048-srx-the-game.json) |
 | SS.Archives | 253433 | [253433-ss-archives.json](./253433-ss-archives.json) |
 | SSGN Covert Cruise Special Attack Strategy | 112159 | [112159-ssgn-covert-cruise-special-attack-strategy.json](./112159-ssgn-covert-cruise-special-attack-strategy.json) |
 | SSR Wives: The Murder Of My Winter Crush | 296468 | [296468-ssr-wives-the-murder-of-my-winter-crush.json](./296468-ssr-wives-the-murder-of-my-winter-crush.json) |
