@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O2Jam: The Beginning | 390546 | [390546-o2jam-the-beginning.json](./390546-o2jam-the-beginning.json) |
 | O3: Hollow Descent | 308927 | [308927-o3-hollow-descent.json](./308927-o3-hollow-descent.json) |
 | O7 | 389116 | [389116-o7.json](./389116-o7.json) |
+| Oak | 137580 | [137580-oak.json](./137580-oak.json) |
 | Oak Adventure the Maze | 235473 | [235473-oak-adventure-the-maze.json](./235473-oak-adventure-the-maze.json) |
 | Oak Defenders | 183514 | [183514-oak-defenders.json](./183514-oak-defenders.json) |
 | Oak Hill | 219043 | [219043-oak-hill.json](./219043-oak-hill.json) |
@@ -938,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Death | 115696 | [115696-once-upon-a-death.json](./115696-once-upon-a-death.json) |
 | Once upon a Dungeon II | 226727 | [226727-once-upon-a-dungeon-ii.json](./226727-once-upon-a-dungeon-ii.json) |
 | Once Upon a Dungeon: Infinity | 327951 | [327951-once-upon-a-dungeon-infinity.json](./327951-once-upon-a-dungeon-infinity.json) |
+| Once Upon a Forest | 137530 | [137530-once-upon-a-forest.json](./137530-once-upon-a-forest.json) |
 | Once Upon a Galaxy | 305262 | [305262-once-upon-a-galaxy.json](./305262-once-upon-a-galaxy.json) |
 | Once Upon a Jester | 159553 | [159553-once-upon-a-jester.json](./159553-once-upon-a-jester.json) |
 | Once Upon a Katamari | 358526 | [358526-once-upon-a-katamari.json](./358526-once-upon-a-katamari.json) |
@@ -1486,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Babel: New Tokyo Legacy | 25593 | [25593-operation-babel-new-tokyo-legacy.json](./25593-operation-babel-new-tokyo-legacy.json) |
 | Operation Blackout | 341514 | [341514-operation-blackout.json](./341514-operation-blackout.json) |
 | Operation Blindside: Annihilation | 343440 | [343440-operation-blindside-annihilation.json](./343440-operation-blindside-annihilation.json) |
+| Operation Blood | 137566 | [137566-operation-blood.json](./137566-operation-blood.json) |
 | Operation Bodycam | 316848 | [316848-operation-bodycam.json](./316848-operation-bodycam.json) |
 | Operation Breakout | 30839 | [30839-operation-breakout.json](./30839-operation-breakout.json) |
 | Operation Covid-19 | 149027 | [149027-operation-covid-19.json](./149027-operation-covid-19.json) |
