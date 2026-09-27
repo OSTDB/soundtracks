@@ -1832,6 +1832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl with a Heart of | 64906 | [64906-girl-with-a-heart-of.json](./64906-girl-with-a-heart-of.json) |
 | Girl Zone | 66945 | [66945-girl-zone.json](./66945-girl-zone.json) |
 | Girl!Panic!!! | 415108 | [415108-girl-panic.json](./415108-girl-panic.json) |
+| Girl.exe | 171401 | [171401-girl-exe.json](./171401-girl-exe.json) |
 | Girl.exe.exe | 345680 | [345680-girl-exe-exe.json](./345680-girl-exe-exe.json) |
 | Girl's Blossom Project: Unbelievable Real Love | 245022 | [245022-girls-blossom-project-unbelievable-real-love.json](./245022-girls-blossom-project-unbelievable-real-love.json) |
 | Girl's Garden | 6106 | [6106-girls-garden.json](./6106-girls-garden.json) |
@@ -2073,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glorious Mission | 74323 | [74323-glorious-mission.json](./74323-glorious-mission.json) |
 | Glorious Savior | 38972 | [38972-glorious-savior.json](./38972-glorious-savior.json) |
 | Glorious Storm | 258201 | [258201-glorious-storm.json](./258201-glorious-storm.json) |
+| Glory | 171382 | [171382-glory.json](./171382-glory.json) |
 | Glory Days: Tactical Defense | 84509 | [84509-glory-days-tactical-defense.json](./84509-glory-days-tactical-defense.json) |
 | Glory Hold | 151117 | [151117-glory-hold.json](./151117-glory-hold.json) |
 | Glory Hounds | 210700 | [210700-glory-hounds.json](./210700-glory-hounds.json) |
@@ -3378,6 +3380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitas! | 259549 | [259549-gravitas.json](./259549-gravitas.json) |
 | Gravitation | 57614 | [57614-gravitation.json](./57614-gravitation.json) |
 | Gravitational | 150150 | [150150-gravitational.json](./150150-gravitational.json) |
+| Gravitaze: One | 171397 | [171397-gravitaze-one.json](./171397-gravitaze-one.json) |
 | Graviteam Tactics: Mius Front | 18173 | [18173-graviteam-tactics-mius-front.json](./18173-graviteam-tactics-mius-front.json) |
 | Graviteam Tactics: Mius Front - Against the Tide | 155477 | [155477-graviteam-tactics-mius-front-against-the-tide.json](./155477-graviteam-tactics-mius-front-against-the-tide.json) |
 | Graviteam Tactics: Mius Front - Bird Grove | 219807 | [219807-graviteam-tactics-mius-front-bird-grove.json](./219807-graviteam-tactics-mius-front-bird-grove.json) |
