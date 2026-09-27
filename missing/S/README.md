@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapiens | 55032 | [55032-sapiens.json](./55032-sapiens.json) |
 | Sapiens Craft Puzzle | 270087 | [270087-sapiens-craft-puzzle.json](./270087-sapiens-craft-puzzle.json) |
 | Sapiens League | 232437 | [232437-sapiens-league.json](./232437-sapiens-league.json) |
+| Sapling | 167600 | [167600-sapling.json](./167600-sapling.json) |
 | Sapling Wars | 333008 | [333008-sapling-wars.json](./333008-sapling-wars.json) |
 | Sapo Xulé and the Unwanted Marriage | 259667 | [259667-sapo-xule-and-the-unwanted-marriage.json](./259667-sapo-xule-and-the-unwanted-marriage.json) |
 | Sapo Xulé: O Mestre do Kung Fu | 152305 | [152305-sapo-xule-o-mestre-do-kung-fu.json](./152305-sapo-xule-o-mestre-do-kung-fu.json) |
@@ -5018,6 +5019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skew Pong | 190076 | [190076-skew-pong.json](./190076-skew-pong.json) |
 | Ski Bunny | 193713 | [193713-ski-bunny.json](./193713-ski-bunny.json) |
 | Ski Crazed | 138595 | [138595-ski-crazed.json](./138595-ski-crazed.json) |
+| Ski Doom VR | 167579 | [167579-ski-doom-vr.json](./167579-ski-doom-vr.json) |
 | Ski Girl Superstar | 88799 | [88799-ski-girl-superstar.json](./88799-ski-girl-superstar.json) |
 | Ski Hunt | 40796 | [40796-ski-hunt.json](./40796-ski-hunt.json) |
 | Ski Jump International v2 | 342080 | [342080-ski-jump-international-v2.json](./342080-ski-jump-international-v2.json) |
@@ -7703,6 +7705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Blade | 274455 | [274455-soul-blade.json](./274455-soul-blade.json) |
 | Soul Breach | 363022 | [363022-soul-breach.json](./363022-soul-breach.json) |
 | Soul Calibur Mobile | 372102 | [372102-soul-calibur-mobile.json](./372102-soul-calibur-mobile.json) |
+| Soul Delivery | 167591 | [167591-soul-delivery.json](./167591-soul-delivery.json) |
 | Soul Demon Hunters | 371977 | [371977-soul-demon-hunters.json](./371977-soul-demon-hunters.json) |
 | Soul Destiny | 125967 | [125967-soul-destiny.json](./125967-soul-destiny.json) |
 | Soul Devourer | 259853 | [259853-soul-devourer.json](./259853-soul-devourer.json) |
@@ -10190,6 +10193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Episode I - Underwater Race to Theed | 198916 | [198916-star-wars-episode-i-underwater-race-to-theed.json](./198916-star-wars-episode-i-underwater-race-to-theed.json) |
 | Star Wars: Episode II - Anakin Skywalker’s Lightsaber Duel | 198917 | [198917-star-wars-episode-ii-anakin-skywalker-s-lightsaber-duel.json](./198917-star-wars-episode-ii-anakin-skywalker-s-lightsaber-duel.json) |
 | Star Wars: Episode III - Revenge of the Sith | 166484 | [166484-star-wars-episode-iii-revenge-of-the-sith.json](./166484-star-wars-episode-iii-revenge-of-the-sith.json) |
+| Star Wars: Episode III - Revenge of the Sith | 167612 | [167612-star-wars-episode-iii-revenge-of-the-sith.json](./167612-star-wars-episode-iii-revenge-of-the-sith.json) |
 | Star Wars: Force Commander | 159 | [159-star-wars-force-commander.json](./159-star-wars-force-commander.json) |
 | Star Wars: Galactic Battle | 198918 | [198918-star-wars-galactic-battle.json](./198918-star-wars-galactic-battle.json) |
 | Star Wars: Galactic Battlegrounds Saga | 35596 | [35596-star-wars-galactic-battlegrounds-saga.json](./35596-star-wars-galactic-battlegrounds-saga.json) |
@@ -11211,6 +11215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Flower | 61594 | [61594-stone-flower.json](./61594-stone-flower.json) |
 | Stone Giant | 95852 | [95852-stone-giant.json](./95852-stone-giant.json) |
 | Stone of Destiny | 242796 | [242796-stone-of-destiny.json](./242796-stone-of-destiny.json) |
+| Stone River | 167602 | [167602-stone-river.json](./167602-stone-river.json) |
 | Stone Story | 301604 | [301604-stone-story.json](./301604-stone-story.json) |
 | Stone Tales | 34386 | [34386-stone-tales.json](./34386-stone-tales.json) |
 | Stone Wars | 91938 | [91938-stone-wars.json](./91938-stone-wars.json) |
