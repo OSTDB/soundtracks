@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painter's Pets | 189951 | [189951-painters-pets.json](./189951-painters-pets.json) |
 | Paintey | 33467 | [33467-paintey.json](./33467-paintey.json) |
 | Painting Mel-chan | 237505 | [237505-painting-mel-chan.json](./237505-painting-mel-chan.json) |
+| Painting VR | 159090 | [159090-painting-vr.json](./159090-painting-vr.json) |
 | Painting VR: Cozy Cabin | 305541 | [305541-painting-vr-cozy-cabin.json](./305541-painting-vr-cozy-cabin.json) |
 | Paintings Restoration | 329576 | [329576-paintings-restoration.json](./329576-paintings-restoration.json) |
 | PaintPool | 334754 | [334754-paintpool.json](./334754-paintpool.json) |
@@ -551,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panicked and Surrounded by Hot Vampires | 186626 | [186626-panicked-and-surrounded-by-hot-vampires.json](./186626-panicked-and-surrounded-by-hot-vampires.json) |
 | Panicore | 277278 | [277278-panicore.json](./277278-panicore.json) |
 | Panik | 289300 | [289300-panik.json](./289300-panik.json) |
+| Panilla Saga | 159068 | [159068-panilla-saga.json](./159068-panilla-saga.json) |
 | Panin | 358331 | [358331-panin.json](./358331-panin.json) |
 | Panmorphia | 96536 | [96536-panmorphia.json](./96536-panmorphia.json) |
 | Panmorphia: Awakened | 197256 | [197256-panmorphia-awakened.json](./197256-panmorphia-awakened.json) |
@@ -4572,6 +4574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Nightmare Version: Invasion | 279053 | [279053-pokemon-nightmare-version-invasion.json](./279053-pokemon-nightmare-version-invasion.json) |
 | Pokemon Nova Sun | 288201 | [288201-pokemon-nova-sun.json](./288201-pokemon-nova-sun.json) |
 | Pokémon Omega Ruby and Alpha Sapphire Special Demo Version | 313320 | [313320-pokemon-omega-ruby-and-alpha-sapphire-special-demo-version.json](./313320-pokemon-omega-ruby-and-alpha-sapphire-special-demo-version.json) |
+| Pokémon Omega Ruby and Pokémon Alpha Sapphire Dual Pack | 159108 | [159108-pokemon-omega-ruby-and-pokemon-alpha-sapphire-dual-pack.json](./159108-pokemon-omega-ruby-and-pokemon-alpha-sapphire-dual-pack.json) |
 | Pokémon Online | 311459 | [311459-pokemon-online.json](./311459-pokemon-online.json) |
 | Pokémon Orange | 141203 | [141203-pokemon-orange.json](./141203-pokemon-orange.json) |
 | Pokémon Party Mini | 66031 | [66031-pokemon-party-mini.json](./66031-pokemon-party-mini.json) |
@@ -5375,6 +5378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pots and Potions | 170540 | [170540-pots-and-potions.json](./170540-pots-and-potions.json) |
 | Potshot Pirates | 117750 | [117750-potshot-pirates.json](./117750-potshot-pirates.json) |
 | Potsworth & Co. | 95379 | [95379-potsworth-and-co.json](./95379-potsworth-and-co.json) |
+| Pottergame | 159069 | [159069-pottergame.json](./159069-pottergame.json) |
 | Pottery Maker | 89264 | [89264-pottery-maker.json](./89264-pottery-maker.json) |
 | Potty Quest | 225768 | [225768-potty-quest.json](./225768-potty-quest.json) |
 | Potty Racers | 269602 | [269602-potty-racers.json](./269602-potty-racers.json) |
