@@ -1174,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus.exe | 131409 | [131409-virus-exe.json](./131409-virus-exe.json) |
 | ViruStream | 331878 | [331878-virustream.json](./331878-virustream.json) |
 | Virusum | 210860 | [210860-virusum.json](./210860-virusum.json) |
+| ViruZ | 156996 | [156996-viruz.json](./156996-viruz.json) |
 | Viruzzerk | 245296 | [245296-viruzzerk.json](./245296-viruzzerk.json) |
 | Virvius | 244888 | [244888-virvius.json](./244888-virvius.json) |
 | Visagens | 282020 | [282020-visagens.json](./282020-visagens.json) |
@@ -1615,6 +1616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Run | 224546 | [224546-vr-run.json](./224546-vr-run.json) |
 | VR Sailing | 338561 | [338561-vr-sailing.json](./338561-vr-sailing.json) |
 | VR Secretary: Ailey Edition | 338560 | [338560-vr-secretary-ailey-edition.json](./338560-vr-secretary-ailey-edition.json) |
+| VR Shark | 156988 | [156988-vr-shark.json](./156988-vr-shark.json) |
 | VR Shooter Guns | 32867 | [32867-vr-shooter-guns.json](./32867-vr-shooter-guns.json) |
 | VR shooting cute balloons | 164249 | [164249-vr-shooting-cute-balloons.json](./164249-vr-shooting-cute-balloons.json) |
 | VR Skater | 146829 | [146829-vr-skater.json](./146829-vr-skater.json) |
