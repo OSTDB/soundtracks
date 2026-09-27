@@ -6042,6 +6042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Pinball: Timeshock! | 12905 | [12905-pro-pinball-timeshock.json](./12905-pro-pinball-timeshock.json) |
 | Pro Pool | 49952 | [49952-pro-pool.json](./49952-pro-pool.json) |
 | Pro Power Boat | 279693 | [279693-pro-power-boat.json](./279693-pro-power-boat.json) |
+| Pro Racer | 172529 | [172529-pro-racer.json](./172529-pro-racer.json) |
 | Pro Rugby Manager 2 | 67949 | [67949-pro-rugby-manager-2.json](./67949-pro-rugby-manager-2.json) |
 | Pro Series Drag Racing | 91081 | [91081-pro-series-drag-racing.json](./91081-pro-series-drag-racing.json) |
 | Pro Skateboard Simulator | 69867 | [69867-pro-skateboard-simulator.json](./69867-pro-skateboard-simulator.json) |
@@ -6947,6 +6948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Max | 302471 | [302471-punch-max.json](./302471-punch-max.json) |
 | Punch Monk | 331513 | [331513-punch-monk.json](./331513-punch-monk.json) |
 | Punch the Rats | 104102 | [104102-punch-the-rats.json](./104102-punch-the-rats.json) |
+| Punch the Stool John | 172510 | [172510-punch-the-stool-john.json](./172510-punch-the-stool-john.json) |
 | Punch The Undead | 291519 | [291519-punch-the-undead.json](./291519-punch-the-undead.json) |
 | Punch Upon a Time | 399204 | [399204-punch-upon-a-time.json](./399204-punch-upon-a-time.json) |
 | Punch-Out!! | 2194 | [2194-punch-out.json](./2194-punch-out.json) |
