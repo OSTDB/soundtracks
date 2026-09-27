@@ -3969,6 +3969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Feral Child | 112304 | [112304-the-feral-child.json](./112304-the-feral-child.json) |
 | The Ferry | 319378 | [319378-the-ferry.json](./319378-the-ferry.json) |
 | The Ferryman | 201760 | [201760-the-ferryman.json](./201760-the-ferryman.json) |
+| The Fever | 141745 | [141745-the-fever.json](./141745-the-fever.json) |
 | The Few | 211932 | [211932-the-few.json](./211932-the-few.json) |
 | The Few | 407334 | [407334-the-few.json](./407334-the-few.json) |
 | The Fidelio Incident | 36707 | [36707-the-fidelio-incident.json](./36707-the-fidelio-incident.json) |
@@ -5591,6 +5592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Caves | 179169 | [179169-the-lost-caves.json](./179169-the-lost-caves.json) |
 | The Lost Cemetery | 268995 | [268995-the-lost-cemetery.json](./268995-the-lost-cemetery.json) |
 | The Lost Child | 36535 | [36535-the-lost-child.json](./36535-the-lost-child.json) |
+| The Lost Chrononaut | 141754 | [141754-the-lost-chrononaut.json](./141754-the-lost-chrononaut.json) |
 | The Lost City | 323286 | [323286-the-lost-city.json](./323286-the-lost-city.json) |
 | The Lost City of Malathedra | 35670 | [35670-the-lost-city-of-malathedra.json](./35670-the-lost-city-of-malathedra.json) |
 | The Lost Clown | 268736 | [268736-the-lost-clown.json](./268736-the-lost-clown.json) |
@@ -6861,6 +6863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sheep Quiz | 210602 | [210602-the-sheep-quiz.json](./210602-the-sheep-quiz.json) |
 | The Shell Part I: Inferno | 142230 | [142230-the-shell-part-i-inferno.json](./142230-the-shell-part-i-inferno.json) |
 | The Shell Part I: Inferno | 252084 | [252084-the-shell-part-i-inferno.json](./252084-the-shell-part-i-inferno.json) |
+| The Shell Part III: Paradiso | 141751 | [141751-the-shell-part-iii-paradiso.json](./141751-the-shell-part-iii-paradiso.json) |
 | The Shenanigans of Cherry and Trix | 127374 | [127374-the-shenanigans-of-cherry-and-trix.json](./127374-the-shenanigans-of-cherry-and-trix.json) |
 | The Shifting Cavern | 258424 | [258424-the-shifting-cavern.json](./258424-the-shifting-cavern.json) |
 | The Shinri Game 2: Magical Trip | 58790 | [58790-the-shinri-game-2-magical-trip.json](./58790-the-shinri-game-2-magical-trip.json) |
@@ -10792,6 +10795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonic Tile | 57319 | [57319-tonic-tile.json](./57319-tonic-tile.json) |
 | Tonic Trouble | 249127 | [249127-tonic-trouble.json](./249127-tonic-trouble.json) |
 | Tonic Trouble | 3614 | [3614-tonic-trouble.json](./3614-tonic-trouble.json) |
+| Tonight Dies the Moon | 141748 | [141748-tonight-dies-the-moon.json](./141748-tonight-dies-the-moon.json) |
 | Tonight It Follows | 120201 | [120201-tonight-it-follows.json](./120201-tonight-it-follows.json) |
 | Tonight We Hunt | 183975 | [183975-tonight-we-hunt.json](./183975-tonight-we-hunt.json) |
 | Tonight We Riot | 36352 | [36352-tonight-we-riot.json](./36352-tonight-we-riot.json) |
@@ -13152,6 +13156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Jump | 247050 | [247050-triple-jump.json](./247050-triple-jump.json) |
 | Triple Jumping Sports | 85453 | [85453-triple-jumping-sports.json](./85453-triple-jumping-sports.json) |
 | Triple n Extended m | 182826 | [182826-triple-n-extended-m.json](./182826-triple-n-extended-m.json) |
+| Triple Pack: Trials HD, Limbo, Splosion Man | 141767 | [141767-triple-pack-trials-hd-limbo-splosion-man.json](./141767-triple-pack-trials-hd-limbo-splosion-man.json) |
 | Triple Pairing Mini Fandisc | 418770 | [418770-triple-pairing-mini-fandisc.json](./418770-triple-pairing-mini-fandisc.json) |
 | Triple Play 2001 | 249153 | [249153-triple-play-2001.json](./249153-triple-play-2001.json) |
 | Triple Play 96 | 46245 | [46245-triple-play-96.json](./46245-triple-play-96.json) |
@@ -14113,6 +14118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TwoPlay Mahjong | 115020 | [115020-twoplay-mahjong.json](./115020-twoplay-mahjong.json) |
 | Twordle | 200060 | [200060-twordle.json](./200060-twordle.json) |
 | Twosheep.io | 274721 | [274721-twosheep-io.json](./274721-twosheep-io.json) |
+| Twwwr | 141761 | [141761-twwwr.json](./141761-twwwr.json) |
 | TXXX | 232706 | [232706-txxx.json](./232706-txxx.json) |
 | TY the Tasmanian Tiger 2: Bush Rescue HD | 147845 | [147845-ty-the-tasmanian-tiger-2-bush-rescue-hd.json](./147845-ty-the-tasmanian-tiger-2-bush-rescue-hd.json) |
 | Ty the Tasmanian Tiger 4: Gunyip! | 307671 | [307671-ty-the-tasmanian-tiger-4-gunyip.json](./307671-ty-the-tasmanian-tiger-4-gunyip.json) |
