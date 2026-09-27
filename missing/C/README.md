@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy land | 154401 | [154401-candy-land.json](./154401-candy-land.json) |
 | Candy Land / Chutes & Ladders / Original Memory Game | 91423 | [91423-candy-land-chutes-and-ladders-original-memory-game.json](./91423-candy-land-chutes-and-ladders-original-memory-game.json) |
 | Candy Land Adventure | 261301 | [261301-candy-land-adventure.json](./261301-candy-land-adventure.json) |
+| Candy Land: A Child's First Game Comes to Life | 144182 | [144182-candy-land-a-childs-first-game-comes-to-life.json](./144182-candy-land-a-childs-first-game-comes-to-life.json) |
 | Candy Land: Sugary Sprint | 384054 | [384054-candy-land-sugary-sprint.json](./384054-candy-land-sugary-sprint.json) |
 | Candy Lattice | 245830 | [245830-candy-lattice.json](./245830-candy-lattice.json) |
 | Candy Legend | 105784 | [105784-candy-legend.json](./105784-candy-legend.json) |
@@ -3747,6 +3748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Life: World Edition | 206347 | [206347-city-life-world-edition.json](./206347-city-life-world-edition.json) |
 | City Limits | 208438 | [208438-city-limits.json](./208438-city-limits.json) |
 | City Mage 3: False Prophecy - Collector's Edition | 417520 | [417520-city-mage-3-false-prophecy-collectors-edition.json](./417520-city-mage-3-false-prophecy-collectors-edition.json) |
+| City Maker | 144220 | [144220-city-maker.json](./144220-city-maker.json) |
 | City Night Rider | 101505 | [101505-city-night-rider.json](./101505-city-night-rider.json) |
 | City of Atlantis | 153911 | [153911-city-of-atlantis.json](./153911-city-of-atlantis.json) |
 | City of Brass | 44122 | [44122-city-of-brass.json](./44122-city-of-brass.json) |
@@ -7634,6 +7636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Project: Mod Pack 2 - New Challenges | 314886 | [314886-crystal-project-mod-pack-2-new-challenges.json](./314886-crystal-project-mod-pack-2-new-challenges.json) |
 | Crystal Quest Classic | 32182 | [32182-crystal-quest-classic.json](./32182-crystal-quest-classic.json) |
 | Crystal Raider | 55188 | [55188-crystal-raider.json](./55188-crystal-raider.json) |
+| Crystal Raiders VR | 144178 | [144178-crystal-raiders-vr.json](./144178-crystal-raiders-vr.json) |
 | Crystal Riders VR | 236393 | [236393-crystal-riders-vr.json](./236393-crystal-riders-vr.json) |
 | Crystal Sequence | 151015 | [151015-crystal-sequence.json](./151015-crystal-sequence.json) |
 | Crystal Soul Chambers | 132257 | [132257-crystal-soul-chambers.json](./132257-crystal-soul-chambers.json) |
@@ -8334,6 +8337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Tower | 267098 | [267098-cyber-tower.json](./267098-cyber-tower.json) |
 | Cyber Troopers Virtual-On | 46775 | [46775-cyber-troopers-virtual-on.json](./46775-cyber-troopers-virtual-on.json) |
 | Cyber Troopers Virtual-On Marz | 19252 | [19252-cyber-troopers-virtual-on-marz.json](./19252-cyber-troopers-virtual-on-marz.json) |
+| Cyber Troopers: Virtual On x Toaru Majutsu no Index - Toaru Majutsu no Dennou Senki | 144179 | [144179-cyber-troopers-virtual-on-x-toaru-majutsu-no-index-toaru-majutsu-no-dennou-senki.json](./144179-cyber-troopers-virtual-on-x-toaru-majutsu-no-index-toaru-majutsu-no-dennou-senki.json) |
 | Cyber Utopia | 43508 | [43508-cyber-utopia.json](./43508-cyber-utopia.json) |
 | Cyber VR | 51938 | [51938-cyber-vr.json](./51938-cyber-vr.json) |
 | Cyber War: Cyberpunk Reborn | 174904 | [174904-cyber-war-cyberpunk-reborn.json](./174904-cyber-war-cyberpunk-reborn.json) |
