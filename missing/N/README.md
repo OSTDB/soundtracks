@@ -457,7 +457,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nautilus Epoch | 166780 | [166780-nautilus-epoch.json](./166780-nautilus-epoch.json) |
 | Nautus | 414355 | [414355-nautus.json](./414355-nautus.json) |
 | Nav's Endless Nightmare | 182537 | [182537-navs-endless-nightmare.json](./182537-navs-endless-nightmare.json) |
+| Naval Action: Admiralty Connection | 155560 | [155560-naval-action-admiralty-connection.json](./155560-naval-action-admiralty-connection.json) |
+| Naval Action: Hercules | 155562 | [155562-naval-action-hercules.json](./155562-naval-action-hercules.json) |
+| Naval Action: HMS Victory 1765 | 155559 | [155559-naval-action-hms-victory-1765.json](./155559-naval-action-hms-victory-1765.json) |
+| Naval Action: L'Hermione | 155557 | [155557-naval-action-lhermione.json](./155557-naval-action-lhermione.json) |
+| Naval Action: Le Requin | 155555 | [155555-naval-action-le-requin.json](./155555-naval-action-le-requin.json) |
+| Naval Action: Leopard | 155558 | [155558-naval-action-leopard.json](./155558-naval-action-leopard.json) |
+| Naval Action: Painter | 155561 | [155561-naval-action-painter.json](./155561-naval-action-painter.json) |
+| Naval Action: Prolific Forger | 155563 | [155563-naval-action-prolific-forger.json](./155563-naval-action-prolific-forger.json) |
+| Naval Action: Rättvisan | 155564 | [155564-naval-action-rattvisan.json](./155564-naval-action-rattvisan.json) |
+| Naval Action: Redoutable | 155556 | [155556-naval-action-redoutable.json](./155556-naval-action-redoutable.json) |
 | Naval Action: Rotterdam | 249722 | [249722-naval-action-rotterdam.json](./249722-naval-action-rotterdam.json) |
+| Naval Action: Trincomalee | 155565 | [155565-naval-action-trincomalee.json](./155565-naval-action-trincomalee.json) |
 | Naval Battle Online | 224533 | [224533-naval-battle-online.json](./224533-naval-battle-online.json) |
 | Naval Battles Simulator | 130705 | [130705-naval-battles-simulator.json](./130705-naval-battles-simulator.json) |
 | Naval Campaigns Guadalcanal | 141668 | [141668-naval-campaigns-guadalcanal.json](./141668-naval-campaigns-guadalcanal.json) |
