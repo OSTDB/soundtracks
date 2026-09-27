@@ -5765,6 +5765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Safe Airlines | 125480 | [125480-pretty-safe-airlines.json](./125480-pretty-safe-airlines.json) |
 | Pretty Soldier Sailor Moon S | 316798 | [316798-pretty-soldier-sailor-moon-s.json](./316798-pretty-soldier-sailor-moon-s.json) |
 | Pretty Visitors | 229791 | [229791-pretty-visitors.json](./229791-pretty-visitors.json) |
+| Previous Tenant | 152208 | [152208-previous-tenant.json](./152208-previous-tenant.json) |
 | Prey 2 | 525 | [525-prey-2.json](./525-prey-2.json) |
 | Prey of the Night | 325626 | [325626-prey-of-the-night.json](./325626-prey-of-the-night.json) |
 | Prey with Gun | 91426 | [91426-prey-with-gun.json](./91426-prey-with-gun.json) |
@@ -7370,6 +7371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Collection: Complete Edition | 225760 | [225760-puzzle-collection-complete-edition.json](./225760-puzzle-collection-complete-edition.json) |
 | Puzzle Collection: New Pieces | 226317 | [226317-puzzle-collection-new-pieces.json](./226317-puzzle-collection-new-pieces.json) |
 | Puzzle Company | 348441 | [348441-puzzle-company.json](./348441-puzzle-company.json) |
+| Puzzle Compound | 152189 | [152189-puzzle-compound.json](./152189-puzzle-compound.json) |
 | Puzzle Cozy | 386692 | [386692-puzzle-cozy.json](./386692-puzzle-cozy.json) |
 | Puzzle Craft | 47286 | [47286-puzzle-craft.json](./47286-puzzle-craft.json) |
 | Puzzle Cube | 275146 | [275146-puzzle-cube.json](./275146-puzzle-cube.json) |
