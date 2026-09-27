@@ -10270,6 +10270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon: Future Soldier | 1293 | [1293-tom-clancys-ghost-recon-future-soldier.json](./1293-tom-clancys-ghost-recon-future-soldier.json) |
 | Tom Clancy's Ghost Recon: Future Soldier - Arctic Strike | 171635 | [171635-tom-clancys-ghost-recon-future-soldier-arctic-strike.json](./171635-tom-clancys-ghost-recon-future-soldier-arctic-strike.json) |
 | Tom Clancy's Ghost Recon: Future Soldier - Deluxe Edition | 219005 | [219005-tom-clancys-ghost-recon-future-soldier-deluxe-edition.json](./219005-tom-clancys-ghost-recon-future-soldier-deluxe-edition.json) |
+| Tom Clancy's Ghost Recon: Future Soldier - Khyber Strike | 168163 | [168163-tom-clancys-ghost-recon-future-soldier-khyber-strike.json](./168163-tom-clancys-ghost-recon-future-soldier-khyber-strike.json) |
 | Tom Clancy's Ghost Recon: Future Soldier - Raven Strike | 127642 | [127642-tom-clancys-ghost-recon-future-soldier-raven-strike.json](./127642-tom-clancys-ghost-recon-future-soldier-raven-strike.json) |
 | Tom Clancy's Ghost Recon: Future Soldier / Tom Clancy's Ghost Recon: Advanced Warfighter 2 | 152333 | [152333-tom-clancys-ghost-recon-future-soldier-tom-clancys-ghost-recon-advanced-warfighter-2.json](./152333-tom-clancys-ghost-recon-future-soldier-tom-clancys-ghost-recon-advanced-warfighter-2.json) |
 | Tom Clancy's Ghost Recon: Gold Pack | 219006 | [219006-tom-clancys-ghost-recon-gold-pack.json](./219006-tom-clancys-ghost-recon-gold-pack.json) |
@@ -10872,6 +10873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Tattoos | 200603 | [200603-totally-tattoos.json](./200603-totally-tattoos.json) |
 | Totally Tuberz | 373074 | [373074-totally-tuberz.json](./373074-totally-tuberz.json) |
 | Totally Unbalanced | 32402 | [32402-totally-unbalanced.json](./32402-totally-unbalanced.json) |
+| Totally Working Game | 168130 | [168130-totally-working-game.json](./168130-totally-working-game.json) |
 | Tôtem | 133974 | [133974-totem.json](./133974-totem.json) |
 | Totem City | 124017 | [124017-totem-city.json](./124017-totem-city.json) |
 | Totem Runner | 64391 | [64391-totem-runner.json](./64391-totem-runner.json) |
@@ -12921,6 +12923,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troubleshooting | 221195 | [221195-troubleshooting.json](./221195-troubleshooting.json) |
 | Trough the lab | 232024 | [232024-trough-the-lab.json](./232024-trough-the-lab.json) |
 | Trouserheart | 61113 | [61113-trouserheart.json](./61113-trouserheart.json) |
+| Trove: Arcanium Expedition Pack | 168147 | [168147-trove-arcanium-expedition-pack.json](./168147-trove-arcanium-expedition-pack.json) |
+| Trove: Botanical Blaster Pack | 168144 | [168144-trove-botanical-blaster-pack.json](./168144-trove-botanical-blaster-pack.json) |
+| Trove: Double Dragon Pack | 168146 | [168146-trove-double-dragon-pack.json](./168146-trove-double-dragon-pack.json) |
+| Trove: Dynomighty Miner Pack | 168148 | [168148-trove-dynomighty-miner-pack.json](./168148-trove-dynomighty-miner-pack.json) |
+| Trove: Eclipse Pack | 168145 | [168145-trove-eclipse-pack.json](./168145-trove-eclipse-pack.json) |
+| Trove: Geode Companion Pack 1 | 168141 | [168141-trove-geode-companion-pack-1.json](./168141-trove-geode-companion-pack-1.json) |
+| Trove: Geode Companion Pack 2 | 168142 | [168142-trove-geode-companion-pack-2.json](./168142-trove-geode-companion-pack-2.json) |
+| Trove: Mega Menagerie Pack | 168143 | [168143-trove-mega-menagerie-pack.json](./168143-trove-mega-menagerie-pack.json) |
+| Trove: Square Necessities Pack | 168149 | [168149-trove-square-necessities-pack.json](./168149-trove-square-necessities-pack.json) |
 | Trover Saves the Universe: Important Cosmic Jobs | 132636 | [132636-trover-saves-the-universe-important-cosmic-jobs.json](./132636-trover-saves-the-universe-important-cosmic-jobs.json) |
 | Trow's Space | 250876 | [250876-trows-space.json](./250876-trows-space.json) |
 | Troxia | 214480 | [214480-troxia.json](./214480-troxia.json) |
