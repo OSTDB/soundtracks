@@ -989,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of War 4: Amazon Exclusive Collector's Edition | 51540 | [51540-gears-of-war-4-amazon-exclusive-collectors-edition.json](./51540-gears-of-war-4-amazon-exclusive-collectors-edition.json) |
 | Gears of War: E-Day | 305160 | [305160-gears-of-war-e-day.json](./305160-gears-of-war-e-day.json) |
 | Gears of War: Reloaded | 342721 | [342721-gears-of-war-reloaded.json](./342721-gears-of-war-reloaded.json) |
+| Gears of War: Ultimate Edition - Deluxe Version | 164770 | [164770-gears-of-war-ultimate-edition-deluxe-version.json](./164770-gears-of-war-ultimate-edition-deluxe-version.json) |
 | Gears of War: Ultimate Edition and Rare Replay | 41613 | [41613-gears-of-war-ultimate-edition-and-rare-replay.json](./41613-gears-of-war-ultimate-edition-and-rare-replay.json) |
 | GearStorm | 117651 | [117651-gearstorm.json](./117651-gearstorm.json) |
 | Gearverse | 181159 | [181159-gearverse.json](./181159-gearverse.json) |
@@ -1147,6 +1148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation Zero: Eastern European Weapons Pack | 234909 | [234909-generation-zero-eastern-european-weapons-pack.json](./234909-generation-zero-eastern-european-weapons-pack.json) |
 | Generation Zero: Fnix Rising | 150087 | [150087-generation-zero-fnix-rising.json](./150087-generation-zero-fnix-rising.json) |
 | Generation Zero: Motorbikes Pack | 234917 | [234917-generation-zero-motorbikes-pack.json](./234917-generation-zero-motorbikes-pack.json) |
+| Generation Zero: Resistance Bundle | 164785 | [164785-generation-zero-resistance-bundle.json](./164785-generation-zero-resistance-bundle.json) |
 | Generation Zero: Rivals and Experimental Weapons | 234932 | [234932-generation-zero-rivals-and-experimental-weapons.json](./234932-generation-zero-rivals-and-experimental-weapons.json) |
 | Generation Zero: Soviet Weapons Pack | 234927 | [234927-generation-zero-soviet-weapons-pack.json](./234927-generation-zero-soviet-weapons-pack.json) |
 | Generation Zero: Tactical Equipment Pack | 234919 | [234919-generation-zero-tactical-equipment-pack.json](./234919-generation-zero-tactical-equipment-pack.json) |
@@ -1338,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeometricMadness | 184897 | [184897-geometricmadness.json](./184897-geometricmadness.json) |
 | Geometrix | 159728 | [159728-geometrix.json](./159728-geometrix.json) |
 | Geometry Arena | 152133 | [152133-geometry-arena.json](./152133-geometry-arena.json) |
+| Geometry Ball Escape | 164795 | [164795-geometry-ball-escape.json](./164795-geometry-ball-escape.json) |
 | Geometry Boxer | 98768 | [98768-geometry-boxer.json](./98768-geometry-boxer.json) |
 | Geometry Darkness 2.2 :D | 101984 | [101984-geometry-darkness-2-2-d.json](./101984-geometry-darkness-2-2-d.json) |
 | Geometry Dash Meltdown | 38693 | [38693-geometry-dash-meltdown.json](./38693-geometry-dash-meltdown.json) |
@@ -3356,6 +3359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravel Gang | 243791 | [243791-gravel-gang.json](./243791-gravel-gang.json) |
 | Gravel: Armored Operation | 167805 | [167805-gravel-armored-operation.json](./167805-gravel-armored-operation.json) |
 | Gravel: King of Buggies | 172061 | [172061-gravel-king-of-buggies.json](./172061-gravel-king-of-buggies.json) |
+| Gravel: Special Edition | 164769 | [164769-gravel-special-edition.json](./164769-gravel-special-edition.json) |
 | Gravelmon | 359996 | [359996-gravelmon.json](./359996-gravelmon.json) |
 | Gravels of Endless War | 149565 | [149565-gravels-of-endless-war.json](./149565-gravels-of-endless-war.json) |
 | Gravemyst | 336711 | [336711-gravemyst.json](./336711-gravemyst.json) |
