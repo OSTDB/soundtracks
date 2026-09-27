@@ -1177,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerf Arena Blast | 68701 | [68701-nerf-arena-blast.json](./68701-nerf-arena-blast.json) |
 | Nerf Jr. Foam Balster: Attack of The Kleptons | 210037 | [210037-nerf-jr-foam-balster-attack-of-the-kleptons.json](./210037-nerf-jr-foam-balster-attack-of-the-kleptons.json) |
 | NERF Legends: Elite Blaster Combo Pack | 262314 | [262314-nerf-legends-elite-blaster-combo-pack.json](./262314-nerf-legends-elite-blaster-combo-pack.json) |
+| Nerf Ultimate Championship | 152224 | [152224-nerf-ultimate-championship.json](./152224-nerf-ultimate-championship.json) |
 | Nerf: Battle Arena | 197329 | [197329-nerf-battle-arena.json](./197329-nerf-battle-arena.json) |
 | Nerl's Crazy C"rough"t! | 311598 | [311598-nerls-crazy-c-rough-t.json](./311598-nerls-crazy-c-rough-t.json) |
 | Nero | 156570 | [156570-nero.json](./156570-nero.json) |
@@ -1533,6 +1534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Quintillionaire | 391611 | [391611-next-quintillionaire.json](./391611-next-quintillionaire.json) |
 | Next Room | 292280 | [292280-next-room.json](./292280-next-room.json) |
 | Next Run | 372468 | [372468-next-run.json](./372468-next-run.json) |
+| Next Space Rebels | 152256 | [152256-next-space-rebels.json](./152256-next-space-rebels.json) |
 | Next Star System | 194288 | [194288-next-star-system.json](./194288-next-star-system.json) |
 | Next Station: Jianghu | 188403 | [188403-next-station-jianghu.json](./188403-next-station-jianghu.json) |
 | Next Step | 178655 | [178655-next-step.json](./178655-next-step.json) |
@@ -2875,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nose | 287230 | [287230-nose.json](./287230-nose.json) |
 | Nose Bleed | 227915 | [227915-nose-bleed.json](./227915-nose-bleed.json) |
 | NoseBound | 132821 | [132821-nosebound.json](./132821-nosebound.json) |
+| NoSeq | 152270 | [152270-noseq.json](./152270-noseq.json) |
 | NoserLand | 51960 | [51960-noserland.json](./51960-noserland.json) |
 | Nosfereatyou | 179579 | [179579-nosfereatyou.json](./179579-nosfereatyou.json) |
 | Nosos | 175885 | [175885-nosos.json](./175885-nosos.json) |
