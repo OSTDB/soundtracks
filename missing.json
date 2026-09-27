@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T01:33:25.829Z",
-  "total_missing": 128326,
+  "generated_at": "2026-09-27T01:48:09.212Z",
+  "total_missing": 128376,
   "games": [
     {
       "igdb_id": 186066,
@@ -26,6 +26,11 @@
       "igdb_id": 245917,
       "game_name": "-256",
       "file": "missing/0-9/245917-256.json"
+    },
+    {
+      "igdb_id": 170321,
+      "game_name": "-Sprout-",
+      "file": "missing/0-9/170321-sprout.json"
     },
     {
       "igdb_id": 165498,
@@ -27033,6 +27038,11 @@
       "file": "missing/A/249282-apex-legends-arsenal.json"
     },
     {
+      "igdb_id": 170286,
+      "game_name": "Apex Legends: Bangalore Edition",
+      "file": "missing/A/170286-apex-legends-bangalore-edition.json"
+    },
+    {
       "igdb_id": 188649,
       "game_name": "Apex Legends: Defiance",
       "file": "missing/A/188649-apex-legends-defiance.json"
@@ -34053,6 +34063,11 @@
       "file": "missing/A/124815-ashes-of-the-singularity-escalation-gauntlet.json"
     },
     {
+      "igdb_id": 170302,
+      "game_name": "Ashes of the Singularity: Escalation - Gauntlet",
+      "file": "missing/A/170302-ashes-of-the-singularity-escalation-gauntlet.json"
+    },
+    {
       "igdb_id": 167315,
       "game_name": "Ashes of the Singularity: Escalation - Hunter / Prey",
       "file": "missing/A/167315-ashes-of-the-singularity-escalation-hunter-prey.json"
@@ -34063,9 +34078,29 @@
       "file": "missing/A/155086-ashes-of-the-singularity-escalation-hunter-prey.json"
     },
     {
+      "igdb_id": 170301,
+      "game_name": "Ashes of the Singularity: Escalation - Juggernaut",
+      "file": "missing/A/170301-ashes-of-the-singularity-escalation-juggernaut.json"
+    },
+    {
       "igdb_id": 124828,
       "game_name": "Ashes of the Singularity: Escalation - Oblivion",
       "file": "missing/A/124828-ashes-of-the-singularity-escalation-oblivion.json"
+    },
+    {
+      "igdb_id": 170299,
+      "game_name": "Ashes of the Singularity: Escalation - Oblivion",
+      "file": "missing/A/170299-ashes-of-the-singularity-escalation-oblivion.json"
+    },
+    {
+      "igdb_id": 170300,
+      "game_name": "Ashes of the Singularity: Escalation - Secret Missions",
+      "file": "missing/A/170300-ashes-of-the-singularity-escalation-secret-missions.json"
+    },
+    {
+      "igdb_id": 170298,
+      "game_name": "Ashes of the Singularity: Escalation - Turtle Wars",
+      "file": "missing/A/170298-ashes-of-the-singularity-escalation-turtle-wars.json"
     },
     {
       "igdb_id": 52605,
@@ -71028,6 +71063,11 @@
       "file": "missing/B/118823-breach-point.json"
     },
     {
+      "igdb_id": 170327,
+      "game_name": "Breach: Veil Demon DLC",
+      "file": "missing/B/170327-breach-veil-demon-dlc.json"
+    },
+    {
       "igdb_id": 178027,
       "game_name": "Bread",
       "file": "missing/B/178027-bread.json"
@@ -75756,6 +75796,11 @@
       "igdb_id": 185446,
       "game_name": "Bunk.Town",
       "file": "missing/B/185446-bunk-town.json"
+    },
+    {
+      "igdb_id": 170332,
+      "game_name": "Bunker",
+      "file": "missing/B/170332-bunker.json"
     },
     {
       "igdb_id": 22780,
@@ -86486,6 +86531,11 @@
       "igdb_id": 393825,
       "game_name": "Catjong 3: Purrl of the East",
       "file": "missing/C/393825-catjong-3-purrl-of-the-east.json"
+    },
+    {
+      "igdb_id": 170315,
+      "game_name": "Catlateral Damage: VR",
+      "file": "missing/C/170315-catlateral-damage-vr.json"
     },
     {
       "igdb_id": 240204,
@@ -113496,6 +113546,11 @@
       "igdb_id": 76994,
       "game_name": "Crossfire 2",
       "file": "missing/C/76994-crossfire-2.json"
+    },
+    {
+      "igdb_id": 170284,
+      "game_name": "Crossfire II",
+      "file": "missing/C/170284-crossfire-ii.json"
     },
     {
       "igdb_id": 233457,
@@ -178123,6 +178178,31 @@
       "file": "missing/F/170947-famicom-mini-kidou-senshi-z-gundam-hot-scramble.json"
     },
     {
+      "igdb_id": 170287,
+      "game_name": "Famicom Mini: Mario Bros.",
+      "file": "missing/F/170287-famicom-mini-mario-bros.json"
+    },
+    {
+      "igdb_id": 170283,
+      "game_name": "Famicom Mini: SD Gundam World - Gachapon Senshi: Scramble Wars",
+      "file": "missing/F/170283-famicom-mini-sd-gundam-world-gachapon-senshi-scramble-wars.json"
+    },
+    {
+      "igdb_id": 170295,
+      "game_name": "Famicom Mini: Star Soldier",
+      "file": "missing/F/170295-famicom-mini-star-soldier.json"
+    },
+    {
+      "igdb_id": 170309,
+      "game_name": "Famicom Mini: TwinBee",
+      "file": "missing/F/170309-famicom-mini-twinbee.json"
+    },
+    {
+      "igdb_id": 170318,
+      "game_name": "Famicom Mini: Wrecking Crew",
+      "file": "missing/F/170318-famicom-mini-wrecking-crew.json"
+    },
+    {
       "igdb_id": 41418,
       "game_name": "Famicom Mukashibanashi: Shin Onigashima - Kouhen",
       "file": "missing/F/41418-famicom-mukashibanashi-shin-onigashima-kouhen.json"
@@ -179491,6 +179571,11 @@
       "igdb_id": 282635,
       "game_name": "Fantasyland 2041 A.D.",
       "file": "missing/F/282635-fantasyland-2041-a-d.json"
+    },
+    {
+      "igdb_id": 170313,
+      "game_name": "Fantasyland: All Heroes",
+      "file": "missing/F/170313-fantasyland-all-heroes.json"
     },
     {
       "igdb_id": 54726,
@@ -196606,6 +196691,11 @@
       "igdb_id": 165071,
       "game_name": "Fortune's Run",
       "file": "missing/F/165071-fortunes-run.json"
+    },
+    {
+      "igdb_id": 170311,
+      "game_name": "Fortune's Tavern: The Fantasy Tavern Simulator - Miniature Gods",
+      "file": "missing/F/170311-fortunes-tavern-the-fantasy-tavern-simulator-miniature-gods.json"
     },
     {
       "igdb_id": 166679,
@@ -222963,6 +223053,26 @@
       "file": "missing/G/43487-grimoire-heralds-of-the-winged-exemplar.json"
     },
     {
+      "igdb_id": 170331,
+      "game_name": "Grimoire: Manastorm - Earth Class",
+      "file": "missing/G/170331-grimoire-manastorm-earth-class.json"
+    },
+    {
+      "igdb_id": 170329,
+      "game_name": "Grimoire: Manastorm - Fire Class",
+      "file": "missing/G/170329-grimoire-manastorm-fire-class.json"
+    },
+    {
+      "igdb_id": 170330,
+      "game_name": "Grimoire: Manastorm - Lightning Class",
+      "file": "missing/G/170330-grimoire-manastorm-lightning-class.json"
+    },
+    {
+      "igdb_id": 170328,
+      "game_name": "Grimoire: Manastorm - Nature Class",
+      "file": "missing/G/170328-grimoire-manastorm-nature-class.json"
+    },
+    {
       "igdb_id": 391573,
       "game_name": "Grimoria",
       "file": "missing/G/391573-grimoria.json"
@@ -224321,6 +224431,11 @@
       "igdb_id": 266321,
       "game_name": "Guardians Of Gaia: Guardians 8",
       "file": "missing/G/266321-guardians-of-gaia-guardians-8.json"
+    },
+    {
+      "igdb_id": 170320,
+      "game_name": "Guardians of Graxia: Elves & Dwarves",
+      "file": "missing/G/170320-guardians-of-graxia-elves-and-dwarves.json"
     },
     {
       "igdb_id": 151034,
@@ -251333,6 +251448,11 @@
       "file": "missing/H/53193-hunger-dungeon-deluxe-edition.json"
     },
     {
+      "igdb_id": 170319,
+      "game_name": "Hunger Dungeon: New Challenger Pack",
+      "file": "missing/H/170319-hunger-dungeon-new-challenger-pack.json"
+    },
+    {
       "igdb_id": 403687,
       "game_name": "Hunger Lane",
       "file": "missing/H/403687-hunger-lane.json"
@@ -265776,6 +265896,11 @@
       "igdb_id": 391038,
       "game_name": "Ironborne",
       "file": "missing/I/391038-ironborne.json"
+    },
+    {
+      "igdb_id": 170296,
+      "game_name": "Ironcast: The Stirling Pack",
+      "file": "missing/I/170296-ironcast-the-stirling-pack.json"
     },
     {
       "igdb_id": 51941,
@@ -295918,6 +296043,11 @@
       "file": "missing/L/138161-lego-star-wars-the-force-awakens-poes-quest-for-survival.json"
     },
     {
+      "igdb_id": 170323,
+      "game_name": "LEGO Star Wars: The Force Awakens - Prequel Trilogy Character Pack",
+      "file": "missing/L/170323-lego-star-wars-the-force-awakens-prequel-trilogy-character-pack.json"
+    },
+    {
       "igdb_id": 169925,
       "game_name": "LEGO Star Wars: The Force Awakens - The Empire Strikes Back Character Pack",
       "file": "missing/L/169925-lego-star-wars-the-force-awakens-the-empire-strikes-back-character-pack.json"
@@ -303643,6 +303773,11 @@
       "file": "missing/L/332844-lofirunner.json"
     },
     {
+      "igdb_id": 170282,
+      "game_name": "Loftus and the Sky Cap",
+      "file": "missing/L/170282-loftus-and-the-sky-cap.json"
+    },
+    {
       "igdb_id": 395708,
       "game_name": "Log Away: Christmas DLC",
       "file": "missing/L/395708-log-away-christmas-dlc.json"
@@ -304406,6 +304541,11 @@
       "igdb_id": 157010,
       "game_name": "Loofy",
       "file": "missing/L/157010-loofy.json"
+    },
+    {
+      "igdb_id": 170297,
+      "game_name": "Look and Find: Curiosity",
+      "file": "missing/L/170297-look-and-find-curiosity.json"
     },
     {
       "igdb_id": 285564,
@@ -305236,6 +305376,11 @@
       "igdb_id": 69811,
       "game_name": "Lords of Doom",
       "file": "missing/L/69811-lords-of-doom.json"
+    },
+    {
+      "igdb_id": 170290,
+      "game_name": "Lords of Doom: Part One - The Black God",
+      "file": "missing/L/170290-lords-of-doom-part-one-the-black-god.json"
     },
     {
       "igdb_id": 133970,
@@ -313488,6 +313633,11 @@
       "file": "missing/M/211730-magicarnage.json"
     },
     {
+      "igdb_id": 170312,
+      "game_name": "MagiCats Builder: Infinite Pack",
+      "file": "missing/M/170312-magicats-builder-infinite-pack.json"
+    },
+    {
       "igdb_id": 94209,
       "game_name": "Magician",
       "file": "missing/M/94209-magician.json"
@@ -316506,6 +316656,21 @@
       "igdb_id": 404246,
       "game_name": "MansionDungeon",
       "file": "missing/M/404246-mansiondungeon.json"
+    },
+    {
+      "igdb_id": 170307,
+      "game_name": "Mantis Burn Racing: Battle Cars",
+      "file": "missing/M/170307-mantis-burn-racing-battle-cars.json"
+    },
+    {
+      "igdb_id": 170305,
+      "game_name": "Mantis Burn Racing: Elite Class",
+      "file": "missing/M/170305-mantis-burn-racing-elite-class.json"
+    },
+    {
+      "igdb_id": 170306,
+      "game_name": "Mantis Burn Racing: Snowbound Pack",
+      "file": "missing/M/170306-mantis-burn-racing-snowbound-pack.json"
     },
     {
       "igdb_id": 386429,
@@ -389718,6 +389883,11 @@
       "file": "missing/P/172705-pathless-woods.json"
     },
     {
+      "igdb_id": 170316,
+      "game_name": "Pathmaker",
+      "file": "missing/P/170316-pathmaker.json"
+    },
+    {
       "igdb_id": 276188,
       "game_name": "PathoBlasta VS",
       "file": "missing/P/276188-pathoblasta-vs.json"
@@ -392521,6 +392691,11 @@
       "igdb_id": 346650,
       "game_name": "Perfect Circle: Stand Alone",
       "file": "missing/P/346650-perfect-circle-stand-alone.json"
+    },
+    {
+      "igdb_id": 170288,
+      "game_name": "Perfect Crime: Collector's Death",
+      "file": "missing/P/170288-perfect-crime-collectors-death.json"
     },
     {
       "igdb_id": 1463,
@@ -401456,6 +401631,11 @@
       "igdb_id": 150074,
       "game_name": "Placebo Love",
       "file": "missing/P/150074-placebo-love.json"
+    },
+    {
+      "igdb_id": 170322,
+      "game_name": "Placefront",
+      "file": "missing/P/170322-placefront.json"
     },
     {
       "igdb_id": 291755,
@@ -413931,6 +414111,11 @@
       "igdb_id": 109682,
       "game_name": "Professor Chuckenhope",
       "file": "missing/P/109682-professor-chuckenhope.json"
+    },
+    {
+      "igdb_id": 170308,
+      "game_name": "Professor Crackbrain: And the Awakening of the Weredog",
+      "file": "missing/P/170308-professor-crackbrain-and-the-awakening-of-the-weredog.json"
     },
     {
       "igdb_id": 301268,
@@ -446478,6 +446663,11 @@
       "file": "missing/R/34714-roshambo-arena.json"
     },
     {
+      "igdb_id": 170304,
+      "game_name": "RoShamBo Arena: Starter Fighter Pack",
+      "file": "missing/R/170304-roshambo-arena-starter-fighter-pack.json"
+    },
+    {
       "igdb_id": 183526,
       "game_name": "Rosie's Inn",
       "file": "missing/R/183526-rosies-inn.json"
@@ -468698,6 +468888,11 @@
       "file": "missing/S/27185-ship-simulator-maritime-search-and-rescue.json"
     },
     {
+      "igdb_id": 170324,
+      "game_name": "Ship Surveyor Through the Ages: VR",
+      "file": "missing/S/170324-ship-surveyor-through-the-ages-vr.json"
+    },
+    {
       "igdb_id": 371975,
       "game_name": "ShipCrafter",
       "file": "missing/S/371975-shipcrafter.json"
@@ -480623,6 +480818,11 @@
       "file": "missing/S/36209-smugglers-5-invasion.json"
     },
     {
+      "igdb_id": 170285,
+      "game_name": "Smugglers 5: Invasion - Warrior Within",
+      "file": "missing/S/170285-smugglers-5-invasion-warrior-within.json"
+    },
+    {
       "igdb_id": 54377,
       "game_name": "Smugglers IV: Doomsday",
       "file": "missing/S/54377-smugglers-iv-doomsday.json"
@@ -488891,6 +489091,31 @@
       "igdb_id": 103949,
       "game_name": "Soul at Stake",
       "file": "missing/S/103949-soul-at-stake.json"
+    },
+    {
+      "igdb_id": 170293,
+      "game_name": "Soul at Stake: Blood Ritual",
+      "file": "missing/S/170293-soul-at-stake-blood-ritual.json"
+    },
+    {
+      "igdb_id": 170292,
+      "game_name": "Soul at Stake: Frozen Village",
+      "file": "missing/S/170292-soul-at-stake-frozen-village.json"
+    },
+    {
+      "igdb_id": 170289,
+      "game_name": "Soul at Stake: Funeral of the Flowers",
+      "file": "missing/S/170289-soul-at-stake-funeral-of-the-flowers.json"
+    },
+    {
+      "igdb_id": 170294,
+      "game_name": "Soul at Stake: Lament of the Lovers",
+      "file": "missing/S/170294-soul-at-stake-lament-of-the-lovers.json"
+    },
+    {
+      "igdb_id": 170291,
+      "game_name": "Soul at Stake: Terror Cruise",
+      "file": "missing/S/170291-soul-at-stake-terror-cruise.json"
     },
     {
       "igdb_id": 273093,
@@ -533273,6 +533498,11 @@
       "file": "missing/T/218586-tekla.json"
     },
     {
+      "igdb_id": 170314,
+      "game_name": "Tekling 2: Overdrive",
+      "file": "missing/T/170314-tekling-2-overdrive.json"
+    },
+    {
       "igdb_id": 316625,
       "game_name": "TeknoKinetica",
       "file": "missing/T/316625-teknokinetica.json"
@@ -540421,6 +540651,16 @@
       "igdb_id": 233014,
       "game_name": "The Catch: Carp & Coarse - Deluxe Edition",
       "file": "missing/T/233014-the-catch-carp-and-coarse-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 170326,
+      "game_name": "The Catch: Carp & Coarse Fishing - Jezioro Bestii",
+      "file": "missing/T/170326-the-catch-carp-and-coarse-fishing-jezioro-bestii.json"
+    },
+    {
+      "igdb_id": 170325,
+      "game_name": "The Catch: Carp & Coarse Fishing - Lake Beasts Equipment Pack",
+      "file": "missing/T/170325-the-catch-carp-and-coarse-fishing-lake-beasts-equipment-pack.json"
     },
     {
       "igdb_id": 262074,
@@ -609128,6 +609368,11 @@
       "file": "missing/V/39590-voltage-fighter-gowcaizer.json"
     },
     {
+      "igdb_id": 170303,
+      "game_name": "Voltage: Episode 2",
+      "file": "missing/V/170303-voltage-episode-2.json"
+    },
+    {
       "igdb_id": 203242,
       "game_name": "Voltaire: The Vegan Vampire",
       "file": "missing/V/203242-voltaire-the-vegan-vampire.json"
@@ -628066,6 +628311,11 @@
       "igdb_id": 216480,
       "game_name": "World War 3: Card Battler",
       "file": "missing/W/216480-world-war-3-card-battler.json"
+    },
+    {
+      "igdb_id": 170317,
+      "game_name": "World War Academy: Commander 1",
+      "file": "missing/W/170317-world-war-academy-commander-1.json"
     },
     {
       "igdb_id": 261288,
