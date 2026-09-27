@@ -3837,6 +3837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants in Rush | 287718 | [287718-plants-in-rush.json](./287718-plants-in-rush.json) |
 | Plants vs Zombies Expansion | 366941 | [366941-plants-vs-zombies-expansion.json](./366941-plants-vs-zombies-expansion.json) |
 | Plants vs Zombies: Neighborhood Defense | 336549 | [336549-plants-vs-zombies-neighborhood-defense.json](./336549-plants-vs-zombies-neighborhood-defense.json) |
+| Plants vs. Zombies | 163213 | [163213-plants-vs-zombies.json](./163213-plants-vs-zombies.json) |
 | Plants vs. Zombies | 275575 | [275575-plants-vs-zombies.json](./275575-plants-vs-zombies.json) |
 | Plants vs. Zombies | 342043 | [342043-plants-vs-zombies.json](./342043-plants-vs-zombies.json) |
 | Plants vs. Zombies | 342044 | [342044-plants-vs-zombies.json](./342044-plants-vs-zombies.json) |
@@ -4569,6 +4570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Shield | 115653 | [115653-pokemon-shield.json](./115653-pokemon-shield.json) |
 | Pokémon Showdown | 87797 | [87797-pokemon-showdown.json](./87797-pokemon-showdown.json) |
 | Pokémon Sigma Platinum | 197927 | [197927-pokemon-sigma-platinum.json](./197927-pokemon-sigma-platinum.json) |
+| Pokémon Sinking Sapphire | 163228 | [163228-pokemon-sinking-sapphire.json](./163228-pokemon-sinking-sapphire.json) |
 | Pokémon Sky Stacker | 288369 | [288369-pokemon-sky-stacker.json](./288369-pokemon-sky-stacker.json) |
 | Pokémon Sleep | 123089 | [123089-pokemon-sleep.json](./123089-pokemon-sleep.json) |
 | Pokémon Snap 3DS | 401507 | [401507-pokemon-snap-3ds.json](./401507-pokemon-snap-3ds.json) |
@@ -5028,6 +5030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Star Makeover | 99995 | [99995-pop-star-makeover.json](./99995-pop-star-makeover.json) |
 | POP Station | 225629 | [225629-pop-station.json](./225629-pop-station.json) |
 | Pop the Jewel | 233435 | [233435-pop-the-jewel.json](./233435-pop-the-jewel.json) |
+| Pop This Pop-It | 163189 | [163189-pop-this-pop-it.json](./163189-pop-this-pop-it.json) |
 | Pop Town | 26561 | [26561-pop-town.json](./26561-pop-town.json) |
 | Pop Up Computer | 285034 | [285034-pop-up-computer.json](./285034-pop-up-computer.json) |
 | Pop-a-Chick | 232043 | [232043-pop-a-chick.json](./232043-pop-a-chick.json) |
