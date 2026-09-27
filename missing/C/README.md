@@ -1056,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnage in Space: Crucible | 201573 | [201573-carnage-in-space-crucible.json](./201573-carnage-in-space-crucible.json) |
 | Carnage Kart X | 318977 | [318977-carnage-kart-x.json](./318977-carnage-kart-x.json) |
 | Carnage Offering | 189964 | [189964-carnage-offering.json](./189964-carnage-offering.json) |
+| Carnal | 163743 | [163743-carnal.json](./163743-carnal.json) |
 | Carnal Sins: Malum Incarnatum + Carne Vescens | 329693 | [329693-carnal-sins-malum-incarnatum-carne-vescens.json](./329693-carnal-sins-malum-incarnatum-carne-vescens.json) |
 | Carnasis | 360007 | [360007-carnasis.json](./360007-carnasis.json) |
 | Carnaval | 304055 | [304055-carnaval.json](./304055-carnaval.json) |
