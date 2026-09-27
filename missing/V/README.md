@@ -1160,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtueror: The Virtual Conqueror | 216859 | [216859-virtueror-the-virtual-conqueror.json](./216859-virtueror-the-virtual-conqueror.json) |
 | Virtuoso GP Race: On | 373077 | [373077-virtuoso-gp-race-on.json](./373077-virtuoso-gp-race-on.json) |
 | Virtuoso Skins Game | 391886 | [391886-virtuoso-skins-game.json](./391886-virtuoso-skins-game.json) |
+| Virtuous Western | 156056 | [156056-virtuous-western.json](./156056-virtuous-western.json) |
 | Virulent Vessels: The Legend of Gobbledygunk | 317985 | [317985-virulent-vessels-the-legend-of-gobbledygunk.json](./317985-virulent-vessels-the-legend-of-gobbledygunk.json) |
 | Virus | 12812 | [12812-virus.json](./12812-virus.json) |
 | Virus 91 | 279092 | [279092-virus-91.json](./279092-virus-91.json) |
