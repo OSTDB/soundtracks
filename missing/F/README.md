@@ -1449,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear of Hot Water Ghost | 335685 | [335685-fear-of-hot-water-ghost.json](./335685-fear-of-hot-water-ghost.json) |
 | Fear Of The Dark | 308244 | [308244-fear-of-the-dark.json](./308244-fear-of-the-dark.json) |
 | Fear or Evil: Nightmare Horror Scary Game Phobia 2023 Simulator Hunter Games | 241401 | [241401-fear-or-evil-nightmare-horror-scary-game-phobia-2023-simulator-hunter-games.json](./241401-fear-or-evil-nightmare-horror-scary-game-phobia-2023-simulator-hunter-games.json) |
+| Fear Protocol: Shadow Paradigm | 163187 | [163187-fear-protocol-shadow-paradigm.json](./163187-fear-protocol-shadow-paradigm.json) |
 | Fear surrounds | 143693 | [143693-fear-surrounds.json](./143693-fear-surrounds.json) |
 | Fear Survival | 174650 | [174650-fear-survival.json](./174650-fear-survival.json) |
 | Fear Tall Grass | 399074 | [399074-fear-tall-grass.json](./399074-fear-tall-grass.json) |
@@ -2226,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find My Frogs: Branches | 362893 | [362893-find-my-frogs-branches.json](./362893-find-my-frogs-branches.json) |
 | Find My Weiner | 292292 | [292292-find-my-weiner.json](./292292-find-my-weiner.json) |
 | Find Oann | 335368 | [335368-find-oann.json](./335368-find-oann.json) |
+| Find Objects | 163203 | [163203-find-objects.json](./163203-find-objects.json) |
 | Find Pairs | 246490 | [246490-find-pairs.json](./246490-find-pairs.json) |
 | Find Room 96 | 291457 | [291457-find-room-96.json](./291457-find-room-96.json) |
 | Find someone else | 95237 | [95237-find-someone-else.json](./95237-find-someone-else.json) |
