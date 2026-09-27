@@ -1274,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basement Breakout | 399857 | [399857-basement-breakout.json](./399857-basement-breakout.json) |
 | Basement Crawl | 19916 | [19916-basement-crawl.json](./19916-basement-crawl.json) |
 | Basement Dweller | 158158 | [158158-basement-dweller.json](./158158-basement-dweller.json) |
+| Basement VR | 156579 | [156579-basement-vr.json](./156579-basement-vr.json) |
 | Basemental Gangs | 259230 | [259230-basemental-gangs.json](./259230-basemental-gangs.json) |
 | Bases and Bandits | 215145 | [215145-bases-and-bandits.json](./215145-bases-and-bandits.json) |
 | Bases Loaded | 7764 | [7764-bases-loaded.json](./7764-bases-loaded.json) |
@@ -2498,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belladonna's Flight | 255344 | [255344-belladonnas-flight.json](./255344-belladonnas-flight.json) |
 | Bellatores | 352257 | [352257-bellatores.json](./352257-bellatores.json) |
 | Belle Boomerang | 150127 | [150127-belle-boomerang.json](./150127-belle-boomerang.json) |
+| Belle-de-Nuit | 156552 | [156552-belle-de-nuit.json](./156552-belle-de-nuit.json) |
 | Belle-de-Nuit: Point-du-Jour | 230559 | [230559-belle-de-nuit-point-du-jour.json](./230559-belle-de-nuit-point-du-jour.json) |
 | Belle's Beauty Boutique | 205120 | [205120-belles-beauty-boutique.json](./205120-belles-beauty-boutique.json) |
 | Bellfortis | 304712 | [304712-bellfortis.json](./304712-bellfortis.json) |
@@ -3439,6 +3441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Shashinkan II: Moving School | 41378 | [41378-bishoujo-shashinkan-ii-moving-school.json](./41378-bishoujo-shashinkan-ii-moving-school.json) |
 | Bishoujo Wrestler Retsuden: Blizzard Yuki Rannyuu!! | 38275 | [38275-bishoujo-wrestler-retsuden-blizzard-yuki-rannyuu.json](./38275-bishoujo-wrestler-retsuden-blizzard-yuki-rannyuu.json) |
 | Bismarck: The North Sea Chase | 14308 | [14308-bismarck-the-north-sea-chase.json](./14308-bismarck-the-north-sea-chase.json) |
+| Bist du zu schwach oder Stark | 156568 | [156568-bist-du-zu-schwach-oder-stark.json](./156568-bist-du-zu-schwach-oder-stark.json) |
 | Bistro Blitz | 278709 | [278709-bistro-blitz.json](./278709-bistro-blitz.json) |
 | Bistro Days | 139481 | [139481-bistro-days.json](./139481-bistro-days.json) |
 | Bistro Recipe | 66674 | [66674-bistro-recipe.json](./66674-bistro-recipe.json) |
@@ -4355,6 +4358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blokdodge | 68327 | [68327-blokdodge.json](./68327-blokdodge.json) |
 | Blokdoku | 315827 | [315827-blokdoku.json](./315827-blokdoku.json) |
 | Blokin | 111633 | [111633-blokin.json](./111633-blokin.json) |
+| Blokker | 156585 | [156585-blokker.json](./156585-blokker.json) |
 | Blokker: Orange | 163909 | [163909-blokker-orange.json](./163909-blokker-orange.json) |
 | Blokoto | 346585 | [346585-blokoto.json](./346585-blokoto.json) |
 | Bloku! | 259541 | [259541-bloku.json](./259541-bloku.json) |
