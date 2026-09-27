@@ -1472,6 +1472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingmaker | 292554 | [292554-kingmaker.json](./292554-kingmaker.json) |
 | Kingmakers | 287671 | [287671-kingmakers.json](./287671-kingmakers.json) |
 | Kingpin: Arcade Sports Bowling | 37110 | [37110-kingpin-arcade-sports-bowling.json](./37110-kingpin-arcade-sports-bowling.json) |
+| Kingpin: Reloaded | 128487 | [128487-kingpin-reloaded.json](./128487-kingpin-reloaded.json) |
 | Kings | 78364 | [78364-kings.json](./78364-kings.json) |
 | Kings & Savages | 330264 | [330264-kings-and-savages.json](./330264-kings-and-savages.json) |
 | Kings Age | 62717 | [62717-kings-age.json](./62717-kings-age.json) |
