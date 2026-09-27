@@ -906,6 +906,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satella 2 1 | 178952 | [178952-satella-2-1.json](./178952-satella-2-1.json) |
 | Satella X | 178953 | [178953-satella-x.json](./178953-satella-x.json) |
 | Satella-Q: Nenmatsu Jumbo Takara Quiz | 234040 | [234040-satella-q-nenmatsu-jumbo-takara-quiz.json](./234040-satella-q-nenmatsu-jumbo-takara-quiz.json) |
+| SatellaWalker 2: Bottom de Battle | 151637 | [151637-satellawalker-2-bottom-de-battle.json](./151637-satellawalker-2-bottom-de-battle.json) |
+| SatellaWalker 2: Moku-moku Kemuri Panic | 151636 | [151636-satellawalker-2-moku-moku-kemuri-panic.json](./151636-satellawalker-2-moku-moku-kemuri-panic.json) |
+| SatellaWalker: Machi no Heiwa wo Torimodose! | 151634 | [151634-satellawalker-machi-no-heiwa-wo-torimodose.json](./151634-satellawalker-machi-no-heiwa-wo-torimodose.json) |
+| SatellaWalker: Satebo wo Sukuidase! | 151633 | [151633-satellawalker-satebo-wo-sukuidase.json](./151633-satellawalker-satebo-wo-sukuidase.json) |
 | Satellina | 128557 | [128557-satellina.json](./128557-satellina.json) |
 | Satellite Attack | 41571 | [41571-satellite-attack.json](./41571-satellite-attack.json) |
 | Satellite Command | 31778 | [31778-satellite-command.json](./31778-satellite-command.json) |
@@ -4895,6 +4899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sisters Secrecy: Arcanum Bloodlines | 54360 | [54360-sisters-secrecy-arcanum-bloodlines.json](./54360-sisters-secrecy-arcanum-bloodlines.json) |
 | Sisters Secrecy: Arcanum Bloodlines - Collector's Edition | 54361 | [54361-sisters-secrecy-arcanum-bloodlines-collectors-edition.json](./54361-sisters-secrecy-arcanum-bloodlines-collectors-edition.json) |
 | Sisyphe's Backspace | 347270 | [347270-sisyphes-backspace.json](./347270-sisyphes-backspace.json) |
+| Sisyphus | 151619 | [151619-sisyphus.json](./151619-sisyphus.json) |
 | Sisyphus | 340369 | [340369-sisyphus.json](./340369-sisyphus.json) |
 | Sisyphus Is a Bug | 372456 | [372456-sisyphus-is-a-bug.json](./372456-sisyphus-is-a-bug.json) |
 | Sisypush | 236358 | [236358-sisypush.json](./236358-sisypush.json) |
@@ -9663,6 +9668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sqr 3 | 334766 | [334766-sqr-3.json](./334766-sqr-3.json) |
 | Sqroma | 186020 | [186020-sqroma.json](./186020-sqroma.json) |
 | SQRZ | 360212 | [360212-sqrz.json](./360212-sqrz.json) |
+| Squabble | 151597 | [151597-squabble.json](./151597-squabble.json) |
 | Squad | 9495 | [9495-squad.json](./9495-squad.json) |
 | Squad 22: ZOV | 368503 | [368503-squad-22-zov.json](./368503-squad-22-zov.json) |
 | Squad 44 | 81141 | [81141-squad-44.json](./81141-squad-44.json) |
@@ -12365,6 +12371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugoi Girls: Raunchy Rabbit | 345704 | [345704-sugoi-girls-raunchy-rabbit.json](./345704-sugoi-girls-raunchy-rabbit.json) |
 | Sugoi Girls: Sassy Heroine | 315843 | [315843-sugoi-girls-sassy-heroine.json](./315843-sugoi-girls-sassy-heroine.json) |
 | Sugoi Girls: Sexy Steampunk | 333739 | [333739-sugoi-girls-sexy-steampunk.json](./333739-sugoi-girls-sexy-steampunk.json) |
+| Sugoi RPG? | 151632 | [151632-sugoi-rpg.json](./151632-sugoi-rpg.json) |
 | Sugoro Quest: Dice no Senshi-tachi | 48621 | [48621-sugoro-quest-dice-no-senshi-tachi.json](./48621-sugoro-quest-dice-no-senshi-tachi.json) |
 | Sugoro Quest++ Dicenics | 37807 | [37807-sugoro-quest-dicenics.json](./37807-sugoro-quest-dicenics.json) |
 | Sugoroku New Year's Party | 379373 | [379373-sugoroku-new-years-party.json](./379373-sugoroku-new-years-party.json) |
@@ -14129,6 +14136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernova Tactics | 211287 | [211287-supernova-tactics.json](./211287-supernova-tactics.json) |
 | Superola and the Lost Burgers | 87475 | [87475-superola-and-the-lost-burgers.json](./87475-superola-and-the-lost-burgers.json) |
 | Superpanel | 377702 | [377702-superpanel.json](./377702-superpanel.json) |
+| Superpantsu Harematchii | 151607 | [151607-superpantsu-harematchii.json](./151607-superpantsu-harematchii.json) |
 | Superpersons University | 277362 | [277362-superpersons-university.json](./277362-superpersons-university.json) |
 | Superpopular | 127308 | [127308-superpopular.json](./127308-superpopular.json) |
 | SuperPower | 23466 | [23466-superpower.json](./23466-superpower.json) |
@@ -14374,6 +14382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive: Forgotten and Abandoned | 270185 | [270185-survive-forgotten-and-abandoned.json](./270185-survive-forgotten-and-abandoned.json) |
 | Survive: Frost Bite | 325710 | [325710-survive-frost-bite.json](./325710-survive-frost-bite.json) |
 | Survive: The Alien Tracing | 360203 | [360203-survive-the-alien-tracing.json](./360203-survive-the-alien-tracing.json) |
+| Survive! Mola mola! | 151640 | [151640-survive-mola-mola.json](./151640-survive-mola-mola.json) |
 | Survive.io Battle Ground | 100139 | [100139-survive-io-battle-ground.json](./100139-survive-io-battle-ground.json) |
 | Surviving Ceres | 290533 | [290533-surviving-ceres.json](./290533-surviving-ceres.json) |
 | Surviving Deponia | 252793 | [252793-surviving-deponia.json](./252793-surviving-deponia.json) |
@@ -14495,6 +14504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzume: Match 3 Puzzle | 255336 | [255336-suzume-match-3-puzzle.json](./255336-suzume-match-3-puzzle.json) |
 | Suzumiya Haruhi no Gekidou | 69295 | [69295-suzumiya-haruhi-no-gekidou.json](./69295-suzumiya-haruhi-no-gekidou.json) |
 | Suzumiya Haruhi no Tomadoi | 72709 | [72709-suzumiya-haruhi-no-tomadoi.json](./72709-suzumiya-haruhi-no-tomadoi.json) |
+| Suzy Burger | 151609 | [151609-suzy-burger.json](./151609-suzy-burger.json) |
 | Suzy Cube | 103247 | [103247-suzy-cube.json](./103247-suzy-cube.json) |
 | Svarog's Dream: Return of the Old Gods | 311099 | [311099-svarogs-dream-return-of-the-old-gods.json](./311099-svarogs-dream-return-of-the-old-gods.json) |
 | Svea Rike 2 | 84179 | [84179-svea-rike-2.json](./84179-svea-rike-2.json) |
