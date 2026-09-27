@@ -2068,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep | 372091 | [372091-deep.json](./372091-deep.json) |
 | Deep Alchemy Dungeon | 207500 | [207500-deep-alchemy-dungeon.json](./207500-deep-alchemy-dungeon.json) |
 | Deep Among the Swarm | 285013 | [285013-deep-among-the-swarm.json](./285013-deep-among-the-swarm.json) |
+| Deep Aquarium | 124688 | [124688-deep-aquarium.json](./124688-deep-aquarium.json) |
 | Deep Black: Reloaded | 52863 | [52863-deep-black-reloaded.json](./52863-deep-black-reloaded.json) |
 | Deep Blue | 75524 | [75524-deep-blue.json](./75524-deep-blue.json) |
 | Deep Blue Fantasy | 253612 | [253612-deep-blue-fantasy.json](./253612-deep-blue-fantasy.json) |
@@ -6916,6 +6917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Adventure | 301836 | [301836-drone-adventure.json](./301836-drone-adventure.json) |
 | Drone Arsenal | 391736 | [391736-drone-arsenal.json](./391736-drone-arsenal.json) |
 | Drone Attack Spy Drone Games | 303263 | [303263-drone-attack-spy-drone-games.json](./303263-drone-attack-spy-drone-games.json) |
+| Drone Attack! | 124707 | [124707-drone-attack.json](./124707-drone-attack.json) |
 | Drone Combat | 127013 | [127013-drone-combat.json](./127013-drone-combat.json) |
 | Drone Crash Course | 190171 | [190171-drone-crash-course.json](./190171-drone-crash-course.json) |
 | Drone Investigations | 127866 | [127866-drone-investigations.json](./127866-drone-investigations.json) |
@@ -7704,6 +7706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunkeep | 203947 | [203947-dunkeep.json](./203947-dunkeep.json) |
 | Dunkehr | 141181 | [141181-dunkehr.json](./141181-dunkehr.json) |
 | Dunkle Manöver | 92851 | [92851-dunkle-manover.json](./92851-dunkle-manover.json) |
+| Dunkle Schatten 3: Tod in der Südkurve | 124684 | [124684-dunkle-schatten-3-tod-in-der-sudkurve.json](./124684-dunkle-schatten-3-tod-in-der-sudkurve.json) |
 | Dunkypung | 113637 | [113637-dunkypung.json](./113637-dunkypung.json) |
 | Dunnigan's Trail | 154009 | [154009-dunnigans-trail.json](./154009-dunnigans-trail.json) |
 | Dunrog | 124203 | [124203-dunrog.json](./124203-dunrog.json) |
