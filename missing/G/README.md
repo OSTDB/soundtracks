@@ -2029,6 +2029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitched | 57361 | [57361-glitched.json](./57361-glitched.json) |
 | Glitched Lightning | 267463 | [267463-glitched-lightning.json](./267463-glitched-lightning.json) |
 | Glitched Out | 274482 | [274482-glitched-out.json](./274482-glitched-out.json) |
+| Glitcheon | 143557 | [143557-glitcheon.json](./143557-glitcheon.json) |
 | Glitchers | 120332 | [120332-glitchers.json](./120332-glitchers.json) |
 | Glitchery | 386143 | [386143-glitchery.json](./386143-glitchery.json) |
 | Glitchhikers: First Drive | 178009 | [178009-glitchhikers-first-drive.json](./178009-glitchhikers-first-drive.json) |
