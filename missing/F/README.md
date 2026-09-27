@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Earth: Zero | 51192 | [51192-fantasy-earth-zero.json](./51192-fantasy-earth-zero.json) |
 | Fantasy ERA | 54463 | [54463-fantasy-era.json](./54463-fantasy-era.json) |
 | Fantasy Fighters: Historic Fighters | 209132 | [209132-fantasy-fighters-historic-fighters.json](./209132-fantasy-fighters-historic-fighters.json) |
+| Fantasy Finger Football | 120240 | [120240-fantasy-finger-football.json](./120240-fantasy-finger-football.json) |
 | Fantasy Fishing Town | 197225 | [197225-fantasy-fishing-town.json](./197225-fantasy-fishing-town.json) |
 | Fantasy Football Tactics | 338925 | [338925-fantasy-football-tactics.json](./338925-fantasy-football-tactics.json) |
 | Fantasy Forest | 372473 | [372473-fantasy-forest.json](./372473-fantasy-forest.json) |
