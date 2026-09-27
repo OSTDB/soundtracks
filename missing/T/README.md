@@ -2578,6 +2578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Art of GO | 14270 | [14270-the-art-of-go.json](./14270-the-art-of-go.json) |
 | The Art of Murder | 91354 | [91354-the-art-of-murder.json](./91354-the-art-of-murder.json) |
 | The Art of Tortoise Walking | 403187 | [403187-the-art-of-tortoise-walking.json](./403187-the-art-of-tortoise-walking.json) |
+| THE ART: Metamorphosis | 123492 | [123492-the-art-metamorphosis.json](./123492-the-art-metamorphosis.json) |
 | The Artifact of Ancients | 301838 | [301838-the-artifact-of-ancients.json](./301838-the-artifact-of-ancients.json) |
 | The Artifact Protocol | 365775 | [365775-the-artifact-protocol.json](./365775-the-artifact-protocol.json) |
 | The Artifactory | 334179 | [334179-the-artifactory.json](./334179-the-artifactory.json) |
@@ -7388,6 +7389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Surprisingly Short Adventure of Leopold Kettle | 232556 | [232556-the-surprisingly-short-adventure-of-leopold-kettle.json](./232556-the-surprisingly-short-adventure-of-leopold-kettle.json) |
 | The Surreal Imaginarium | 135765 | [135765-the-surreal-imaginarium.json](./135765-the-surreal-imaginarium.json) |
 | The Survivalists: Deluxe Edition | 173159 | [173159-the-survivalists-deluxe-edition.json](./173159-the-survivalists-deluxe-edition.json) |
+| The Survivor | 123491 | [123491-the-survivor.json](./123491-the-survivor.json) |
 | The Survivor After | 152879 | [152879-the-survivor-after.json](./152879-the-survivor-after.json) |
 | The Suspected Murder | 308911 | [308911-the-suspected-murder.json](./308911-the-suspected-murder.json) |
 | The Suspense | 333070 | [333070-the-suspense.json](./333070-the-suspense.json) |
@@ -8162,6 +8164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizard Needs Food, Badly! | 330717 | [330717-the-wizard-needs-food-badly.json](./330717-the-wizard-needs-food-badly.json) |
 | The Wizard of Oz | 25781 | [25781-the-wizard-of-oz.json](./25781-the-wizard-of-oz.json) |
 | The Wizard Party | 277609 | [277609-the-wizard-party.json](./277609-the-wizard-party.json) |
+| The Wizard Sniffer | 123477 | [123477-the-wizard-sniffer.json](./123477-the-wizard-sniffer.json) |
 | The Wizard: WizHarder Edition | 141234 | [141234-the-wizard-wizharder-edition.json](./141234-the-wizard-wizharder-edition.json) |
 | The Wizard’s Beans Or: A Short Period of Unplanned Internment | 350445 | [350445-the-wizard-s-beans-or-a-short-period-of-unplanned-internment.json](./350445-the-wizard-s-beans-or-a-short-period-of-unplanned-internment.json) |
 | The Wizard's Castle | 25127 | [25127-the-wizards-castle.json](./25127-the-wizards-castle.json) |
@@ -8780,6 +8783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throw M | 319962 | [319962-throw-m.json](./319962-throw-m.json) |
 | Throw Me in the River | 149600 | [149600-throw-me-in-the-river.json](./149600-throw-me-in-the-river.json) |
 | Throw Me To My Planet | 257443 | [257443-throw-me-to-my-planet.json](./257443-throw-me-to-my-planet.json) |
+| Throw the Ball in the Hole | 123489 | [123489-throw-the-ball-in-the-hole.json](./123489-throw-the-ball-in-the-hole.json) |
 | Throw Wizard | 224636 | [224636-throw-wizard.json](./224636-throw-wizard.json) |
 | Thrower Defense | 415898 | [415898-thrower-defense.json](./415898-thrower-defense.json) |
 | Throwing Punches | 182394 | [182394-throwing-punches.json](./182394-throwing-punches.json) |
@@ -10902,6 +10906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonari no Princess Rolfee! | 70402 | [70402-tonari-no-princess-rolfee.json](./70402-tonari-no-princess-rolfee.json) |
 | Tonarino | 400960 | [400960-tonarino.json](./400960-tonarino.json) |
 | Tondeke Perman | 385570 | [385570-tondeke-perman.json](./385570-tondeke-perman.json) |
+| Tonetaker VR | 123510 | [123510-tonetaker-vr.json](./123510-tonetaker-vr.json) |
 | Tong Create Thorns | 358513 | [358513-tong-create-thorns.json](./358513-tong-create-thorns.json) |
 | Tongari Boushi to Mahou no Machi | 109053 | [109053-tongari-boushi-to-mahou-no-machi.json](./109053-tongari-boushi-to-mahou-no-machi.json) |
 | Tongari Boushi to Mahou no Omise | 109055 | [109055-tongari-boushi-to-mahou-no-omise.json](./109055-tongari-boushi-to-mahou-no-omise.json) |
@@ -11965,6 +11970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Master Collection | 283212 | [283212-traffic-master-collection.json](./283212-traffic-master-collection.json) |
 | Traffic Panic | 343480 | [343480-traffic-panic.json](./343480-traffic-panic.json) |
 | Traffic Panic London | 343799 | [343799-traffic-panic-london.json](./343799-traffic-panic-london.json) |
+| Traffic Racer Crash | 123481 | [123481-traffic-racer-crash.json](./123481-traffic-racer-crash.json) |
 | Traffic Racer Highway Online | 250350 | [250350-traffic-racer-highway-online.json](./250350-traffic-racer-highway-online.json) |
 | Traffic Rivals: 1v1 Duels | 348456 | [348456-traffic-rivals-1v1-duels.json](./348456-traffic-rivals-1v1-duels.json) |
 | Traffic Road | 353949 | [353949-traffic-road.json](./353949-traffic-road.json) |
