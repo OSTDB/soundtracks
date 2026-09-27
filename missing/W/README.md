@@ -1627,6 +1627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Dismount | 101951 | [101951-wheel-dismount.json](./101951-wheel-dismount.json) |
 | Wheel Of Fates | 338376 | [338376-wheel-of-fates.json](./338376-wheel-of-fates.json) |
 | Wheel of Fortune | 119255 | [119255-wheel-of-fortune.json](./119255-wheel-of-fortune.json) |
+| Wheel of Fortune | 144230 | [144230-wheel-of-fortune.json](./144230-wheel-of-fortune.json) |
 | Wheel of Fortune | 194569 | [194569-wheel-of-fortune.json](./194569-wheel-of-fortune.json) |
 | Wheel of Fortune | 198964 | [198964-wheel-of-fortune.json](./198964-wheel-of-fortune.json) |
 | Wheel of Fortune | 220131 | [220131-wheel-of-fortune.json](./220131-wheel-of-fortune.json) |
