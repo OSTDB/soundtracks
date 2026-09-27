@@ -350,6 +350,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10K & The Kriminal World: Sammy's Attack | 195765 | [195765-10k-and-the-kriminal-world-sammys-attack.json](./195765-10k-and-the-kriminal-world-sammys-attack.json) |
 | 10KoyaNI | 382189 | [382189-10koyani.json](./382189-10koyani.json) |
 | 10mg Collection | 141158 | [141158-10mg-collection.json](./141158-10mg-collection.json) |
+| 10mg: Always Down | 141099 | [141099-10mg-always-down.json](./141099-10mg-always-down.json) |
+| 10mg: Snaaak | 141097 | [141097-10mg-snaaak.json](./141097-10mg-snaaak.json) |
 | 10Minutes | 258997 | [258997-10minutes.json](./258997-10minutes.json) |
 | 10n: Ten Power N | 392455 | [392455-10n-ten-power-n.json](./392455-10n-ten-power-n.json) |
 | 10s | 397234 | [397234-10s.json](./397234-10s.json) |
@@ -1005,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 50 flags and seals of the United States HD | 109013 | [109013-50-flags-and-seals-of-the-united-states-hd.json](./109013-50-flags-and-seals-of-the-united-states-hd.json) |
 | 50 Floors: The Paranormal Investigators Prologue | 306699 | [306699-50-floors-the-paranormal-investigators-prologue.json](./306699-50-floors-the-paranormal-investigators-prologue.json) |
 | 50 Minutes 'Til Impact | 369730 | [369730-50-minutes-til-impact.json](./369730-50-minutes-til-impact.json) |
+| 50 Shades of Graytall | 141084 | [141084-50-shades-of-graytall.json](./141084-50-shades-of-graytall.json) |
 | 50 Tiny Room Escape | 297545 | [297545-50-tiny-room-escape.json](./297545-50-tiny-room-escape.json) |
 | 50 Waves Hero | 164981 | [164981-50-waves-hero.json](./164981-50-waves-hero.json) |
 | 500 GP | 249253 | [249253-500-gp.json](./249253-500-gp.json) |
