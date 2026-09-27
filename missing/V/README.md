@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire on Trial | 394169 | [394169-vampire-on-trial.json](./394169-vampire-on-trial.json) |
 | Vampire Origins Reloaded | 63013 | [63013-vampire-origins-reloaded.json](./63013-vampire-origins-reloaded.json) |
 | Vampire Panic | 77665 | [77665-vampire-panic.json](./77665-vampire-panic.json) |
+| Vampire Revenge | 169786 | [169786-vampire-revenge.json](./169786-vampire-revenge.json) |
 | Vampire Romance | 223013 | [223013-vampire-romance.json](./223013-vampire-romance.json) |
 | Vampire Rush | 66037 | [66037-vampire-rush.json](./66037-vampire-rush.json) |
 | Vampire Slasher Hero | 208955 | [208955-vampire-slasher-hero.json](./208955-vampire-slasher-hero.json) |
@@ -992,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violet | 184526 | [184526-violet.json](./184526-violet.json) |
 | Violet | 265152 | [265152-violet.json](./265152-violet.json) |
 | Violet Cycle | 81245 | [81245-violet-cycle.json](./81245-violet-cycle.json) |
+| Violet Girl | 169777 | [169777-violet-girl.json](./169777-violet-girl.json) |
 | Violett | 18734 | [18734-violett.json](./18734-violett.json) |
 | Violin Paradise | 85474 | [85474-violin-paradise.json](./85474-violin-paradise.json) |
 | Viorate no Atelier: Gramnad no Renkinjutsushi 2 | 26515 | [26515-viorate-no-atelier-gramnad-no-renkinjutsushi-2.json](./26515-viorate-no-atelier-gramnad-no-renkinjutsushi-2.json) |
