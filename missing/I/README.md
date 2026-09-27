@@ -2301,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inu no Osanpo | 169323 | [169323-inu-no-osanpo.json](./169323-inu-no-osanpo.json) |
 | Inuit Uppirijatuqangit | 293689 | [293689-inuit-uppirijatuqangit.json](./293689-inuit-uppirijatuqangit.json) |
 | Inunaki Tunnel | 126348 | [126348-inunaki-tunnel.json](./126348-inunaki-tunnel.json) |
+| Inuwashi: Urabure Tantei to Ojou-sama Keiji no Ikebukuro Jiken File | 130237 | [130237-inuwashi-urabure-tantei-to-ojou-sama-keiji-no-ikebukuro-jiken-file.json](./130237-inuwashi-urabure-tantei-to-ojou-sama-keiji-no-ikebukuro-jiken-file.json) |
 | Inuyasha Awakening | 174825 | [174825-inuyasha-awakening.json](./174825-inuyasha-awakening.json) |
 | Inuyasha: Battle of Hell | 121442 | [121442-inuyasha-battle-of-hell.json](./121442-inuyasha-battle-of-hell.json) |
 | Inuyasha: Battle of Naraku | 193963 | [193963-inuyasha-battle-of-naraku.json](./193963-inuyasha-battle-of-naraku.json) |
