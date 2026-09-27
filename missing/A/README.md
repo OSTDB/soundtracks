@@ -1409,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Again | 117713 | [117713-again.json](./117713-again.json) |
 | Again | 177548 | [177548-again.json](./177548-again.json) |
 | Again and Again | 216182 | [216182-again-and-again.json](./216182-again-and-again.json) |
+| Against | 152211 | [152211-against.json](./152211-against.json) |
 | Against All Odds | 174102 | [174102-against-all-odds.json](./174102-against-all-odds.json) |
 | Against All Odds | 228719 | [228719-against-all-odds.json](./228719-against-all-odds.json) |
 | Against Ether | 173293 | [173293-against-ether.json](./173293-against-ether.json) |
@@ -1902,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akapulka: The Rainbow | 201666 | [201666-akapulka-the-rainbow.json](./201666-akapulka-the-rainbow.json) |
 | Akari by Nikoli | 84869 | [84869-akari-by-nikoli.json](./84869-akari-by-nikoli.json) |
 | Akashi | 229379 | [229379-akashi.json](./229379-akashi.json) |
+| Akashicverse: Pandemonic Nightmare | 152210 | [152210-akashicverse-pandemonic-nightmare.json](./152210-akashicverse-pandemonic-nightmare.json) |
 | Akatori | 140375 | [140375-akatori.json](./140375-akatori.json) |
 | Akatsuki Blitzkampf | 80207 | [80207-akatsuki-blitzkampf.json](./80207-akatsuki-blitzkampf.json) |
 | Akatsuki Blitzkampf: Ausf. Achse | 132026 | [132026-akatsuki-blitzkampf-ausf-achse.json](./132026-akatsuki-blitzkampf-ausf-achse.json) |
@@ -2022,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alaskan Road Truckers: Truck Skin Pack | 323265 | [323265-alaskan-road-truckers-truck-skin-pack.json](./323265-alaskan-road-truckers-truck-skin-pack.json) |
 | Alawar Adventure Collection | 52591 | [52591-alawar-adventure-collection.json](./52591-alawar-adventure-collection.json) |
 | Alba: A Wildlife Adventure | 135919 | [135919-alba-a-wildlife-adventure.json](./135919-alba-a-wildlife-adventure.json) |
+| Albacete Warrior | 152237 | [152237-albacete-warrior.json](./152237-albacete-warrior.json) |
 | Albatross | 280200 | [280200-albatross.json](./280200-albatross.json) |
 | Albatross Koukairoku | 156033 | [156033-albatross-koukairoku.json](./156033-albatross-koukairoku.json) |
 | Albatroz | 255084 | [255084-albatroz.json](./255084-albatroz.json) |
@@ -3126,6 +3129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AMFM | 315622 | [315622-amfm.json](./315622-amfm.json) |
 | Ami | 276791 | [276791-ami.json](./276791-ami.json) |
 | Amid Evil: Champion Edition | 263589 | [263589-amid-evil-champion-edition.json](./263589-amid-evil-champion-edition.json) |
+| Amid Evil: The Black Labyrinth | 152264 | [152264-amid-evil-the-black-labyrinth.json](./152264-amid-evil-the-black-labyrinth.json) |
 | Amid the Grid | 394824 | [394824-amid-the-grid.json](./394824-amid-the-grid.json) |
 | Amid the Lines | 165530 | [165530-amid-the-lines.json](./165530-amid-the-lines.json) |
 | Amida | 7755 | [7755-amida.json](./7755-amida.json) |
@@ -4649,6 +4653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Ordyne | 223153 | [223153-arcade-archives-ordyne.json](./223153-arcade-archives-ordyne.json) |
 | Arcade Archives: Pac & Pal | 215109 | [215109-arcade-archives-pac-and-pal.json](./215109-arcade-archives-pac-and-pal.json) |
 | Arcade Archives: Phelios | 234631 | [234631-arcade-archives-phelios.json](./234631-arcade-archives-phelios.json) |
+| Arcade Archives: Pirate Pete | 152252 | [152252-arcade-archives-pirate-pete.json](./152252-arcade-archives-pirate-pete.json) |
 | Arcade Archives: Plump Pop | 394382 | [394382-arcade-archives-plump-pop.json](./394382-arcade-archives-plump-pop.json) |
 | Arcade Archives: Power Spikes | 319783 | [319783-arcade-archives-power-spikes.json](./319783-arcade-archives-power-spikes.json) |
 | Arcade Archives: Radical Radial | 147936 | [147936-arcade-archives-radical-radial.json](./147936-arcade-archives-radical-radial.json) |
@@ -5398,6 +5403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arre Unicornio | 188583 | [188583-arre-unicornio.json](./188583-arre-unicornio.json) |
 | Arrest of a Stone Buddha | 122373 | [122373-arrest-of-a-stone-buddha.json](./122373-arrest-of-a-stone-buddha.json) |
 | Arrival | 256831 | [256831-arrival.json](./256831-arrival.json) |
+| Arrival of Beasts | 152228 | [152228-arrival-of-beasts.json](./152228-arrival-of-beasts.json) |
 | Arrival of the Punnu | 194992 | [194992-arrival-of-the-punnu.json](./194992-arrival-of-the-punnu.json) |
 | Arrival, or Attack of the B-Movie Clichés | 314038 | [314038-arrival-or-attack-of-the-b-movie-cliches.json](./314038-arrival-or-attack-of-the-b-movie-cliches.json) |
 | Arrog | 127144 | [127144-arrog.json](./127144-arrog.json) |
