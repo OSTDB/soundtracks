@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C64 & Amiga Classix Remakes Sixpack 3 | 120817 | [120817-c64-and-amiga-classix-remakes-sixpack-3.json](./120817-c64-and-amiga-classix-remakes-sixpack-3.json) |
 | C64 & AMIGA Classix Remakes Sixpack 4 | 377574 | [377574-c64-and-amiga-classix-remakes-sixpack-4.json](./377574-c64-and-amiga-classix-remakes-sixpack-4.json) |
 | C64anabalt | 41017 | [41017-c64anabalt.json](./41017-c64anabalt.json) |
+| Caapora Adventure: Ojibe's Revenge | 171379 | [171379-caapora-adventure-ojibes-revenge.json](./171379-caapora-adventure-ojibes-revenge.json) |
 | Cabal 2 | 12132 | [12132-cabal-2.json](./12132-cabal-2.json) |
 | Cabal M: Heroes of Nevareth | 174724 | [174724-cabal-m-heroes-of-nevareth.json](./174724-cabal-m-heroes-of-nevareth.json) |
 | Cabals: Magic & Battle Cards | 33107 | [33107-cabals-magic-and-battle-cards.json](./33107-cabals-magic-and-battle-cards.json) |
@@ -825,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Simulator 2015 | 83216 | [83216-car-simulator-2015.json](./83216-car-simulator-2015.json) |
 | Car Simulator: Car Games 3D | 266260 | [266260-car-simulator-car-games-3d.json](./266260-car-simulator-car-games-3d.json) |
 | Car Soccer World Cup | 120825 | [120825-car-soccer-world-cup.json](./120825-car-soccer-world-cup.json) |
+| Car Trader Simulator: Welcome to the Business | 171384 | [171384-car-trader-simulator-welcome-to-the-business.json](./171384-car-trader-simulator-welcome-to-the-business.json) |
 | Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
 | Car Tycoon | 362291 | [362291-car-tycoon.json](./362291-car-tycoon.json) |
 | Car vs. Cops | 90288 | [90288-car-vs-cops.json](./90288-car-vs-cops.json) |
@@ -5347,6 +5349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Congo The Movie: The Lost City of Zinj | 45516 | [45516-congo-the-movie-the-lost-city-of-zinj.json](./45516-congo-the-movie-the-lost-city-of-zinj.json) |
 | Congo the Movie: The Secret of Zinj | 38289 | [38289-congo-the-movie-the-secret-of-zinj.json](./38289-congo-the-movie-the-secret-of-zinj.json) |
 | Conjuntalia | 91002 | [91002-conjuntalia.json](./91002-conjuntalia.json) |
+| Conjuntalia: Overcome the Death of a Loved One | 171400 | [171400-conjuntalia-overcome-the-death-of-a-loved-one.json](./171400-conjuntalia-overcome-the-death-of-a-loved-one.json) |
 | Conjuror's Eye | 88069 | [88069-conjurors-eye.json](./88069-conjurors-eye.json) |
 | Conker's High Rule Tail | 42207 | [42207-conkers-high-rule-tail.json](./42207-conkers-high-rule-tail.json) |
 | Conker's Other Bad Fur Day | 77970 | [77970-conkers-other-bad-fur-day.json](./77970-conkers-other-bad-fur-day.json) |
@@ -7287,6 +7290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crucible Of Time | 359041 | [359041-crucible-of-time.json](./359041-crucible-of-time.json) |
 | Crucible TD | 380098 | [380098-crucible-td.json](./380098-crucible-td.json) |
 | Crucified Dreams | 260959 | [260959-crucified-dreams.json](./260959-crucified-dreams.json) |
+| Crude | 171388 | [171388-crude.json](./171388-crude.json) |
 | Crude Oil | 369093 | [369093-crude-oil.json](./369093-crude-oil.json) |
 | Crude Survivor TD | 370890 | [370890-crude-survivor-td.json](./370890-crude-survivor-td.json) |
 | Cruel | 282123 | [282123-cruel.json](./282123-cruel.json) |
