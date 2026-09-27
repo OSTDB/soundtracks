@@ -424,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takedown: Red Sabre | 2937 | [2937-takedown-red-sabre.json](./2937-takedown-red-sabre.json) |
 | Takedown: The Introduction | 141639 | [141639-takedown-the-introduction.json](./141639-takedown-the-introduction.json) |
 | Takedown! | 94191 | [94191-takedown.json](./94191-takedown.json) |
+| Takelshin | 148456 | [148456-takelshin.json](./148456-takelshin.json) |
 | Takemiya Masaki Kudan no Igo Taishou | 37794 | [37794-takemiya-masaki-kudan-no-igo-taishou.json](./37794-takemiya-masaki-kudan-no-igo-taishou.json) |
 | Taken Soul | 273400 | [273400-taken-soul.json](./273400-taken-soul.json) |
 | Taken Souls: Blood Ritual | 139427 | [139427-taken-souls-blood-ritual.json](./139427-taken-souls-blood-ritual.json) |
@@ -1772,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Kings VR | 89257 | [89257-tennis-kings-vr.json](./89257-tennis-kings-vr.json) |
 | Tennis League VR | 208108 | [208108-tennis-league-vr.json](./208108-tennis-league-vr.json) |
 | Tennis Life | 333532 | [333532-tennis-life.json](./333532-tennis-life.json) |
+| Tennis Manager 2021 | 148444 | [148444-tennis-manager-2021.json](./148444-tennis-manager-2021.json) |
 | Tennis Manager 25 | 338259 | [338259-tennis-manager-25.json](./338259-tennis-manager-25.json) |
 | Tennis Manager Mobile | 234016 | [234016-tennis-manager-mobile.json](./234016-tennis-manager-mobile.json) |
 | Tennis Masters Series | 18334 | [18334-tennis-masters-series.json](./18334-tennis-masters-series.json) |
@@ -1811,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tens and Twos | 175384 | [175384-tens-and-twos.json](./175384-tens-and-twos.json) |
 | Tensei | 264610 | [264610-tensei.json](./264610-tensei.json) |
 | Tensen Nyannyan: Gekigyouban | 166149 | [166149-tensen-nyannyan-gekigyouban.json](./166149-tensen-nyannyan-gekigyouban.json) |
+| Tenshi no Inai 12-gatsu | 148442 | [148442-tenshi-no-inai-12-gatsu.json](./148442-tenshi-no-inai-12-gatsu.json) |
 | Tenshi no Solitaire | 409079 | [409079-tenshi-no-solitaire.json](./409079-tenshi-no-solitaire.json) |
 | Tenshi no Uta: The Angel Verse II - The Fallen Angel | 385074 | [385074-tenshi-no-uta-the-angel-verse-ii-the-fallen-angel.json](./385074-tenshi-no-uta-the-angel-verse-ii-the-fallen-angel.json) |
 | Tenshi no uta: The Angel's Verse | 385075 | [385075-tenshi-no-uta-the-angels-verse.json](./385075-tenshi-no-uta-the-angels-verse.json) |
@@ -3912,6 +3915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fancy Pants Adventures: World 2 | 66009 | [66009-the-fancy-pants-adventures-world-2.json](./66009-the-fancy-pants-adventures-world-2.json) |
 | The Fancy Pants Adventures: World 4 | 210712 | [210712-the-fancy-pants-adventures-world-4.json](./210712-the-fancy-pants-adventures-world-4.json) |
 | The Fang | 156068 | [156068-the-fang.json](./156068-the-fang.json) |
+| The Fangs Huntress | 148462 | [148462-the-fangs-huntress.json](./148462-the-fangs-huntress.json) |
 | The Fantastic Adventures of Mr. Don and Friends | 372982 | [372982-the-fantastic-adventures-of-mr-don-and-friends.json](./372982-the-fantastic-adventures-of-mr-don-and-friends.json) |
 | The Fantastic Fivesome | 303015 | [303015-the-fantastic-fivesome.json](./303015-the-fantastic-fivesome.json) |
 | The Fantastic Game | 230520 | [230520-the-fantastic-game.json](./230520-the-fantastic-game.json) |
@@ -8242,6 +8246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Therapist: Mind Manager | 246116 | [246116-therapist-mind-manager.json](./246116-therapist-mind-manager.json) |
 | Therapy Simulator | 344444 | [344444-therapy-simulator.json](./344444-therapy-simulator.json) |
 | Therapy Simulator 2023 | 248078 | [248078-therapy-simulator-2023.json](./248078-therapy-simulator-2023.json) |
+| Therapy with Dr. Albert Krueger | 148411 | [148411-therapy-with-dr-albert-krueger.json](./148411-therapy-with-dr-albert-krueger.json) |
 | There a no Armadillos in this game | 129212 | [129212-there-a-no-armadillos-in-this-game.json](./129212-there-a-no-armadillos-in-this-game.json) |
 | There Are People In Your Walls | 373644 | [373644-there-are-people-in-your-walls.json](./373644-there-are-people-in-your-walls.json) |
 | There Aren't Really Words... | 135852 | [135852-there-arent-really-words.json](./135852-there-arent-really-words.json) |
@@ -10163,6 +10168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titty World | 334675 | [334675-titty-world.json](./334675-titty-world.json) |
 | Titus the Fox | 65798 | [65798-titus-the-fox.json](./65798-titus-the-fox.json) |
 | Tivits: Math Game | 108967 | [108967-tivits-math-game.json](./108967-tivits-math-game.json) |
+| TIZ: Tokyo Insect Zoo | 148436 | [148436-tiz-tokyo-insect-zoo.json](./148436-tiz-tokyo-insect-zoo.json) |
 | Tizahl's Quest | 152738 | [152738-tizahls-quest.json](./152738-tizahls-quest.json) |
 | Tizi Airport | 299219 | [299219-tizi-airport.json](./299219-tizi-airport.json) |
 | Tizi Town: Airport Adventure | 227481 | [227481-tizi-town-airport-adventure.json](./227481-tizi-town-airport-adventure.json) |
@@ -12731,6 +12737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traveloot | 392163 | [392163-traveloot.json](./392163-traveloot.json) |
 | Travelrama USA | 206078 | [206078-travelrama-usa.json](./206078-travelrama-usa.json) |
 | Traverse: Starlight & Prairie | 37782 | [37782-traverse-starlight-and-prairie.json](./37782-traverse-starlight-and-prairie.json) |
+| Traversing Traveler | 148463 | [148463-traversing-traveler.json](./148463-traversing-traveler.json) |
 | Traversion | 274527 | [274527-traversion.json](./274527-traversion.json) |
 | Travian: Kingdoms | 31910 | [31910-travian-kingdoms.json](./31910-travian-kingdoms.json) |
 | Travians | 363543 | [363543-travians.json](./363543-travians.json) |
@@ -12858,6 +12865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trenches II | 197763 | [197763-trenches-ii.json](./197763-trenches-ii.json) |
 | Trenches of Europe 2 | 199945 | [199945-trenches-of-europe-2.json](./199945-trenches-of-europe-2.json) |
 | TrenchesWIP | 120957 | [120957-trencheswip.json](./120957-trencheswip.json) |
+| Trenchlore | 148464 | [148464-trenchlore.json](./148464-trenchlore.json) |
 | Trenchwitch | 181690 | [181690-trenchwitch.json](./181690-trenchwitch.json) |
 | Trends | 113479 | [113479-trends.json](./113479-trends.json) |
 | Trenga Unlimited | 147257 | [147257-trenga-unlimited.json](./147257-trenga-unlimited.json) |
