@@ -7650,6 +7650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamo Frank | 413035 | [413035-dynamo-frank.json](./413035-dynamo-frank.json) |
 | Dynasty | 278441 | [278441-dynasty.json](./278441-dynasty.json) |
 | Dynasty Feud | 27080 | [27080-dynasty-feud.json](./27080-dynasty-feud.json) |
+| Dynasty Feud: The Night Party | 171406 | [171406-dynasty-feud-the-night-party.json](./171406-dynasty-feud-the-night-party.json) |
 | Dynasty Legends: Warriors Unite | 240887 | [240887-dynasty-legends-warriors-unite.json](./240887-dynasty-legends-warriors-unite.json) |
 | Dynasty Warriors | 2982 | [2982-dynasty-warriors.json](./2982-dynasty-warriors.json) |
 | Dynasty Warriors 3: Xtreme Legends | 45014 | [45014-dynasty-warriors-3-xtreme-legends.json](./45014-dynasty-warriors-3-xtreme-legends.json) |
