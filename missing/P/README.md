@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora | 238499 | [238499-pandora.json](./238499-pandora.json) |
 | Pandora | 249207 | [249207-pandora.json](./249207-pandora.json) |
 | Pandora | 255144 | [255144-pandora.json](./255144-pandora.json) |
+| Pandora Galaxy | 156987 | [156987-pandora-galaxy.json](./156987-pandora-galaxy.json) |
 | Pandora Saga: Weapons of Balance | 78647 | [78647-pandora-saga-weapons-of-balance.json](./78647-pandora-saga-weapons-of-balance.json) |
 | Pandora: First Contact - Eclipse of Nashira | 170827 | [170827-pandora-first-contact-eclipse-of-nashira.json](./170827-pandora-first-contact-eclipse-of-nashira.json) |
 | Pandora: Kimi no Namae wo, Boku ha Shiru | 221825 | [221825-pandora-kimi-no-namae-wo-boku-ha-shiru.json](./221825-pandora-kimi-no-namae-wo-boku-ha-shiru.json) |
@@ -4081,6 +4082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Stop Crying: Terrible Twos | 337110 | [337110-please-stop-crying-terrible-twos.json](./337110-please-stop-crying-terrible-twos.json) |
 | Please Subscribe | 190078 | [190078-please-subscribe.json](./190078-please-subscribe.json) |
 | Please Tell Me I Love You | 177823 | [177823-please-tell-me-i-love-you.json](./177823-please-tell-me-i-love-you.json) |
+| Please Wake Up | 156993 | [156993-please-wake-up.json](./156993-please-wake-up.json) |
 | Please, Don't Touch Anything | 9327 | [9327-please-dont-touch-anything.json](./9327-please-dont-touch-anything.json) |
 | Please, Don't Touch Anything: Classic | 151565 | [151565-please-dont-touch-anything-classic.json](./151565-please-dont-touch-anything-classic.json) |
 | Please!! I want to Beg the Voluptuous Koume-chan into Consent! | 82824 | [82824-please-i-want-to-beg-the-voluptuous-koume-chan-into-consent.json](./82824-please-i-want-to-beg-the-voluptuous-koume-chan-into-consent.json) |
