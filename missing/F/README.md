@@ -941,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 4: Hurk Deluxe Pack | 109553 | [109553-far-cry-4-hurk-deluxe-pack.json](./109553-far-cry-4-hurk-deluxe-pack.json) |
 | Far Cry 4: Kyrat Edition | 41616 | [41616-far-cry-4-kyrat-edition.json](./41616-far-cry-4-kyrat-edition.json) |
 | Far Cry 4: Steelbook Edition | 51531 | [51531-far-cry-4-steelbook-edition.json](./51531-far-cry-4-steelbook-edition.json) |
+| Far Cry 6: Collector's Edition | 149987 | [149987-far-cry-6-collectors-edition.json](./149987-far-cry-6-collectors-edition.json) |
 | Far Cry 6: Gold Edition | 136403 | [136403-far-cry-6-gold-edition.json](./136403-far-cry-6-gold-edition.json) |
 | Far Cry 6: Lost Between Worlds | 228591 | [228591-far-cry-6-lost-between-worlds.json](./228591-far-cry-6-lost-between-worlds.json) |
 | Far Cry 6: Ultimate Edition | 136404 | [136404-far-cry-6-ultimate-edition.json](./136404-far-cry-6-ultimate-edition.json) |
