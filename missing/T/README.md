@@ -6427,6 +6427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Procession to Calvary | 106985 | [106985-the-procession-to-calvary.json](./106985-the-procession-to-calvary.json) |
 | The Profaned | 406314 | [406314-the-profaned.json](./406314-the-profaned.json) |
 | The Professor Presents: Got Handles? | 28937 | [28937-the-professor-presents-got-handles.json](./28937-the-professor-presents-got-handles.json) |
+| The Project Mars 2+3 | 125927 | [125927-the-project-mars-2-3.json](./125927-the-project-mars-2-3.json) |
 | The Projection Room of Malka Spitzer | 262953 | [262953-the-projection-room-of-malka-spitzer.json](./262953-the-projection-room-of-malka-spitzer.json) |
 | The Promised Land | 17318 | [17318-the-promised-land.json](./17318-the-promised-land.json) |
 | The Promised Land | 78648 | [78648-the-promised-land.json](./78648-the-promised-land.json) |
@@ -10536,6 +10537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokeru Fuuka to Shirousagi | 411105 | [411105-tokeru-fuuka-to-shirousagi.json](./411105-tokeru-fuuka-to-shirousagi.json) |
 | Toki | 12228 | [12228-toki.json](./12228-toki.json) |
 | Toki Hako Time Capsule | 342767 | [342767-toki-hako-time-capsule.json](./342767-toki-hako-time-capsule.json) |
+| Toki Island | 125890 | [125890-toki-island.json](./125890-toki-island.json) |
 | Toki no Ihoujin | 408767 | [408767-toki-no-ihoujin.json](./408767-toki-no-ihoujin.json) |
 | Toki no Tabibito: Time Stranger | 48879 | [48879-toki-no-tabibito-time-stranger.json](./48879-toki-no-tabibito-time-stranger.json) |
 | Toki Tori 2 | 2351 | [2351-toki-tori-2.json](./2351-toki-tori-2.json) |
@@ -14270,6 +14272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typical | 108664 | [108664-typical.json](./108664-typical.json) |
 | Typical NPC | 412263 | [412263-typical-npc.json](./412263-typical-npc.json) |
 | Typing Break | 373079 | [373079-typing-break.json](./373079-typing-break.json) |
+| Typing Faster | 125928 | [125928-typing-faster.json](./125928-typing-faster.json) |
 | Typing Hearts | 149091 | [149091-typing-hearts.json](./149091-typing-hearts.json) |
 | Typing Hero | 126428 | [126428-typing-hero.json](./126428-typing-hero.json) |
 | Typing Karaoke | 64362 | [64362-typing-karaoke.json](./64362-typing-karaoke.json) |
