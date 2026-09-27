@@ -2102,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Jigsaw Puzzle Collection: Autumn | 371234 | [371234-hentai-jigsaw-puzzle-collection-autumn.json](./371234-hentai-jigsaw-puzzle-collection-autumn.json) |
 | Hentai Jigsaw Puzzle Collection: Christmas Edition | 235476 | [235476-hentai-jigsaw-puzzle-collection-christmas-edition.json](./235476-hentai-jigsaw-puzzle-collection-christmas-edition.json) |
 | Hentai Jigsaw Puzzle Collection: Spring Edition | 263218 | [263218-hentai-jigsaw-puzzle-collection-spring-edition.json](./263218-hentai-jigsaw-puzzle-collection-spring-edition.json) |
+| Hentai Killer: Girls & Chess | 151622 | [151622-hentai-killer-girls-and-chess.json](./151622-hentai-killer-girls-and-chess.json) |
 | Hentai Ladyboy Ren | 367051 | [367051-hentai-ladyboy-ren.json](./367051-hentai-ladyboy-ren.json) |
 | Hentai Lucia | 339914 | [339914-hentai-lucia.json](./339914-hentai-lucia.json) |
 | Hentai Lunara | 376108 | [376108-hentai-lunara.json](./376108-hentai-lunara.json) |
@@ -2379,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Pack | 340466 | [340466-hero-pack.json](./340466-hero-pack.json) |
 | Hero Panda Bomber | 60794 | [60794-hero-panda-bomber.json](./60794-hero-panda-bomber.json) |
 | Hero Park | 156651 | [156651-hero-park.json](./156651-hero-park.json) |
+| Hero Pop | 151603 | [151603-hero-pop.json](./151603-hero-pop.json) |
 | Hero Quest | 331670 | [331670-hero-quest.json](./331670-hero-quest.json) |
 | Hero Quest: Tower Conflict | 33248 | [33248-hero-quest-tower-conflict.json](./33248-hero-quest-tower-conflict.json) |
 | Hero Rescue | 319947 | [319947-hero-rescue.json](./319947-hero-rescue.json) |
