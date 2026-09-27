@@ -628,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | False Hero | 275734 | [275734-false-hero.json](./275734-false-hero.json) |
 | False Love: Ghost or Not? | 414444 | [414444-false-love-ghost-or-not.json](./414444-false-love-ghost-or-not.json) |
 | False Mall | 311570 | [311570-false-mall.json](./311570-false-mall.json) |
+| False Myth | 132742 | [132742-false-myth.json](./132742-false-myth.json) |
 | False Positive Paradox | 401006 | [401006-false-positive-paradox.json](./401006-false-positive-paradox.json) |
 | False Shelter | 28785 | [28785-false-shelter.json](./28785-false-shelter.json) |
 | Falseflash | 401497 | [401497-falseflash.json](./401497-falseflash.json) |
