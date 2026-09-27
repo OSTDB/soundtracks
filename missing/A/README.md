@@ -2270,6 +2270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Blaster | 180585 | [180585-alien-blaster.json](./180585-alien-blaster.json) |
 | Alien Bob | 293083 | [293083-alien-bob.json](./293083-alien-bob.json) |
 | Alien Breed | 8633 | [8633-alien-breed.json](./8633-alien-breed.json) |
+| Alien Breed + Alien Breed: Tower Assault | 154438 | [154438-alien-breed-alien-breed-tower-assault.json](./154438-alien-breed-alien-breed-tower-assault.json) |
 | Alien Breed 3D | 14239 | [14239-alien-breed-3d.json](./14239-alien-breed-3d.json) |
 | Alien Breed 3D 2: The Killing Grounds | 14240 | [14240-alien-breed-3d-2-the-killing-grounds.json](./14240-alien-breed-3d-2-the-killing-grounds.json) |
 | Alien Breed II: The Horror Continues | 14241 | [14241-alien-breed-ii-the-horror-continues.json](./14241-alien-breed-ii-the-horror-continues.json) |
