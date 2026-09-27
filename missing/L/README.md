@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lara Gates: The Lost Talisman Hidden Object Game | 144761 | [144761-lara-gates-the-lost-talisman-hidden-object-game.json](./144761-lara-gates-the-lost-talisman-hidden-object-game.json) |
 | Laranja! | 391059 | [391059-laranja.json](./391059-laranja.json) |
 | Larcenauts | 149018 | [149018-larcenauts.json](./149018-larcenauts.json) |
+| Larcin Lazer | 169792 | [169792-larcin-lazer.json](./169792-larcin-lazer.json) |
 | Larentia | 330748 | [330748-larentia.json](./330748-larentia.json) |
 | Larger Than Light | 157017 | [157017-larger-than-light.json](./157017-larger-than-light.json) |
 | Largo | 292285 | [292285-largo.json](./292285-largo.json) |
@@ -943,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leather Goddesses of Phobos | 12174 | [12174-leather-goddesses-of-phobos.json](./12174-leather-goddesses-of-phobos.json) |
 | Leather Goddesses of Phobos 2: Gas Pump Girls Meet the Pulsating Inconvenience from Planet X! | 14558 | [14558-leather-goddesses-of-phobos-2-gas-pump-girls-meet-the-pulsating-inconvenience-from-planet-x.json](./14558-leather-goddesses-of-phobos-2-gas-pump-girls-meet-the-pulsating-inconvenience-from-planet-x.json) |
 | Leave Me Alone! | 177953 | [177953-leave-me-alone.json](./177953-leave-me-alone.json) |
+| Leave! | 169795 | [169795-leave.json](./169795-leave.json) |
 | Leaves 3 | 394892 | [394892-leaves-3.json](./394892-leaves-3.json) |
 | Leaves: The Journey | 30063 | [30063-leaves-the-journey.json](./30063-leaves-the-journey.json) |
 | Leaving | 195532 | [195532-leaving.json](./195532-leaving.json) |
@@ -1657,6 +1659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter Lattice | 174190 | [174190-letter-lattice.json](./174190-letter-lattice.json) |
 | Letter League | 254445 | [254445-letter-league.json](./254445-letter-league.json) |
 | Letter Lost | 343275 | [343275-letter-lost.json](./343275-letter-lost.json) |
+| Letter Match / Spell N Score / Crosswords | 169790 | [169790-letter-match-spell-n-score-crosswords.json](./169790-letter-match-spell-n-score-crosswords.json) |
 | Letter Quest: Grimm's Journey | 17942 | [17942-letter-quest-grimms-journey.json](./17942-letter-quest-grimms-journey.json) |
 | Letter Rooms | 174217 | [174217-letter-rooms.json](./174217-letter-rooms.json) |
 | Letter Snap: Term Challenge | 409537 | [409537-letter-snap-term-challenge.json](./409537-letter-snap-term-challenge.json) |
@@ -3897,6 +3900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludicrium | 312924 | [312924-ludicrium.json](./312924-ludicrium.json) |
 | Ludicrous Speed | 102162 | [102162-ludicrous-speed.json](./102162-ludicrous-speed.json) |
 | Ludo Blitz | 58751 | [58751-ludo-blitz.json](./58751-ludo-blitz.json) |
+| Ludo King | 169778 | [169778-ludo-king.json](./169778-ludo-king.json) |
 | Ludo Live!: Heroes and Strategy | 242661 | [242661-ludo-live-heroes-and-strategy.json](./242661-ludo-live-heroes-and-strategy.json) |
 | Ludo Okpo | 237508 | [237508-ludo-okpo.json](./237508-ludo-okpo.json) |
 | Ludo Online | 89583 | [89583-ludo-online.json](./89583-ludo-online.json) |
