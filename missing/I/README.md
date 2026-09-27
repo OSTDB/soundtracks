@@ -1515,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infection Crisis: Fight For Life | 270134 | [270134-infection-crisis-fight-for-life.json](./270134-infection-crisis-fight-for-life.json) |
 | Infection Free Zone | 215036 | [215036-infection-free-zone.json](./215036-infection-free-zone.json) |
 | Infection Inspection | 368026 | [368026-infection-inspection.json](./368026-infection-inspection.json) |
+| Infection Maze | 146771 | [146771-infection-maze.json](./146771-infection-maze.json) |
 | Infection of the dead | 107274 | [107274-infection-of-the-dead.json](./107274-infection-of-the-dead.json) |
 | Infection Outbreak | 130174 | [130174-infection-outbreak.json](./130174-infection-outbreak.json) |
 | Infection X | 260417 | [260417-infection-x.json](./260417-infection-x.json) |
