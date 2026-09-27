@@ -1373,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Free Will: Episode 3 | 237060 | [237060-welcome-to-free-will-episode-3.json](./237060-welcome-to-free-will-episode-3.json) |
 | Welcome to GameCube World!! | 175969 | [175969-welcome-to-gamecube-world.json](./175969-welcome-to-gamecube-world.json) |
 | Welcome to Genius High! | 208317 | [208317-welcome-to-genius-high.json](./208317-welcome-to-genius-high.json) |
+| Welcome to Graymount | 133336 | [133336-welcome-to-graymount.json](./133336-welcome-to-graymount.json) |
 | Welcome to Greedcorp | 355721 | [355721-welcome-to-greedcorp.json](./355721-welcome-to-greedcorp.json) |
 | Welcome to Hanwell | 29076 | [29076-welcome-to-hanwell.json](./29076-welcome-to-hanwell.json) |
 | Welcome to Heaven | 41976 | [41976-welcome-to-heaven.json](./41976-welcome-to-heaven.json) |
@@ -2030,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who's the Traitor | 273655 | [273655-whos-the-traitor.json](./273655-whos-the-traitor.json) |
 | Who's Who 2.0 | 336393 | [336393-whos-who-2-0.json](./336393-whos-who-2-0.json) |
 | Whodunchat | 418675 | [418675-whodunchat.json](./418675-whodunchat.json) |
+| Wholesome Cats | 133322 | [133322-wholesome-cats.json](./133322-wholesome-cats.json) |
 | Wholesome Slaughter | 143014 | [143014-wholesome-slaughter.json](./143014-wholesome-slaughter.json) |
 | Whoopi | 338368 | [338368-whoopi.json](./338368-whoopi.json) |
 | Whooshy Dragon | 349932 | [349932-whooshy-dragon.json](./349932-whooshy-dragon.json) |
