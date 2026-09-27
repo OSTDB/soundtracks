@@ -1914,6 +1914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insane Forest | 342886 | [342886-insane-forest.json](./342886-insane-forest.json) |
 | Insane Kart Wii | 250325 | [250325-insane-kart-wii.json](./250325-insane-kart-wii.json) |
 | Insane Road | 37404 | [37404-insane-road.json](./37404-insane-road.json) |
+| Insania | 132738 | [132738-insania.json](./132738-insania.json) |
 | Insanias | 250950 | [250950-insanias.json](./250950-insanias.json) |
 | Insaniquarium! | 334696 | [334696-insaniquarium.json](./334696-insaniquarium.json) |
 | Insanity | 94703 | [94703-insanity.json](./94703-insanity.json) |
@@ -2526,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Soul | 10460 | [10460-iron-soul.json](./10460-iron-soul.json) |
 | Iron Throne: Kingdoms | 101518 | [101518-iron-throne-kingdoms.json](./101518-iron-throne-kingdoms.json) |
 | Iron Tides | 51561 | [51561-iron-tides.json](./51561-iron-tides.json) |
+| Iron Vulture | 132734 | [132734-iron-vulture.json](./132734-iron-vulture.json) |
 | Iron Works | 383350 | [383350-iron-works.json](./383350-iron-works.json) |
 | Ironblood | 402498 | [402498-ironblood.json](./402498-ironblood.json) |
 | IronBorn | 109585 | [109585-ironborn.json](./109585-ironborn.json) |
