@@ -1866,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is Feudal: Arden | 321560 | [321560-life-is-feudal-arden.json](./321560-life-is-feudal-arden.json) |
 | Life Is Hard, and Then You Buy a Cactus | 178957 | [178957-life-is-hard-and-then-you-buy-a-cactus.json](./178957-life-is-hard-and-then-you-buy-a-cactus.json) |
 | Life is Magic | 64426 | [64426-life-is-magic.json](./64426-life-is-magic.json) |
+| Life Is Not the End | 156999 | [156999-life-is-not-the-end.json](./156999-life-is-not-the-end.json) |
 | Life is Pain | 239584 | [239584-life-is-pain.json](./239584-life-is-pain.json) |
 | Life is Strange 2: Episode 4 - Faith | 119055 | [119055-life-is-strange-2-episode-4-faith.json](./119055-life-is-strange-2-episode-4-faith.json) |
 | Life is Strange Collection | 361759 | [361759-life-is-strange-collection.json](./361759-life-is-strange-collection.json) |
@@ -2561,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Panda's Camping Trip | 105963 | [105963-little-pandas-camping-trip.json](./105963-little-pandas-camping-trip.json) |
 | Little Panda's Candy Shop | 231932 | [231932-little-pandas-candy-shop.json](./231932-little-pandas-candy-shop.json) |
 | Little Panda's Restaurant | 239916 | [239916-little-pandas-restaurant.json](./239916-little-pandas-restaurant.json) |
+| Little Party Legends | 156976 | [156976-little-party-legends.json](./156976-little-party-legends.json) |
 | Little People | 57039 | [57039-little-people.json](./57039-little-people.json) |
 | Little Petsville Desktop | 401641 | [401641-little-petsville-desktop.json](./401641-little-petsville-desktop.json) |
 | Little Pilot | 370227 | [370227-little-pilot.json](./370227-little-pilot.json) |
@@ -3381,6 +3383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Blue 3 | 21361 | [21361-lost-in-blue-3.json](./21361-lost-in-blue-3.json) |
 | Lost in Cairo | 284909 | [284909-lost-in-cairo.json](./284909-lost-in-cairo.json) |
 | Lost In Failures | 291093 | [291093-lost-in-failures.json](./291093-lost-in-failures.json) |
+| Lost In Fantaland | 157064 | [157064-lost-in-fantaland.json](./157064-lost-in-fantaland.json) |
 | Lost in Heart of Chernobyl: Survival | 314864 | [314864-lost-in-heart-of-chernobyl-survival.json](./314864-lost-in-heart-of-chernobyl-survival.json) |
 | Lost in Hell | 207786 | [207786-lost-in-hell.json](./207786-lost-in-hell.json) |
 | Lost in Hieroglyphs: A Hidden Objects Expedition | 317020 | [317020-lost-in-hieroglyphs-a-hidden-objects-expedition.json](./317020-lost-in-hieroglyphs-a-hidden-objects-expedition.json) |
