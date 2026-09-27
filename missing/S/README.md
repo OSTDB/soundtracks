@@ -3295,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Hungers | 397665 | [397665-she-hungers.json](./397665-she-hungers.json) |
 | She is Home Alone | 310373 | [310373-she-is-home-alone.json](./310373-she-is-home-alone.json) |
 | She is Mermaid | 102086 | [102086-she-is-mermaid.json](./102086-she-is-mermaid.json) |
+| She is Sexaroid | 148439 | [148439-she-is-sexaroid.json](./148439-she-is-sexaroid.json) |
 | She is... | 413045 | [413045-she-is.json](./413045-she-is.json) |
 | She Save | 50511 | [50511-she-save.json](./50511-she-save.json) |
 | She Was 98 | 385327 | [385327-she-was-98.json](./385327-she-was-98.json) |
@@ -3347,6 +3348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shell Kingdom | 185087 | [185087-shell-kingdom.json](./185087-shell-kingdom.json) |
 | Shell of a King | 250961 | [250961-shell-of-a-king.json](./250961-shell-of-a-king.json) |
 | Shell Out | 328047 | [328047-shell-out.json](./328047-shell-out.json) |
+| Shell Out Showdown | 148437 | [148437-shell-out-showdown.json](./148437-shell-out-showdown.json) |
 | Shell Shatter | 243969 | [243969-shell-shatter.json](./243969-shell-shatter.json) |
 | Shell_Break | 112951 | [112951-shell-break.json](./112951-shell-break.json) |
 | Shell's Kitchen: Leo's Journey | 308377 | [308377-shells-kitchen-leos-journey.json](./308377-shells-kitchen-leos-journey.json) |
@@ -7656,6 +7658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophia - My Little Sis | 86824 | [86824-sophia-my-little-sis.json](./86824-sophia-my-little-sis.json) |
 | Sophia and the Mansion of Doubt | 82897 | [82897-sophia-and-the-mansion-of-doubt.json](./82897-sophia-and-the-mansion-of-doubt.json) |
 | Sophias Pizza Restaurant | 293636 | [293636-sophias-pizza-restaurant.json](./293636-sophias-pizza-restaurant.json) |
+| Sophie: Starlight Whispers | 148440 | [148440-sophie-starlight-whispers.json](./148440-sophie-starlight-whispers.json) |
 | Sophie's Grids | 400970 | [400970-sophies-grids.json](./400970-sophies-grids.json) |
 | Sophie's Safecracking Simulator | 152924 | [152924-sophies-safecracking-simulator.json](./152924-sophies-safecracking-simulator.json) |
 | Sophie's World | 73234 | [73234-sophies-world.json](./73234-sophies-world.json) |
@@ -9891,6 +9894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stahlfeder: Tekkou Hikuudan | 138746 | [138746-stahlfeder-tekkou-hikuudan.json](./138746-stahlfeder-tekkou-hikuudan.json) |
 | Stahlkampf | 179480 | [179480-stahlkampf.json](./179480-stahlkampf.json) |
 | Stair Dismount | 19285 | [19285-stair-dismount.json](./19285-stair-dismount.json) |
+| Stair Quest | 148409 | [148409-stair-quest.json](./148409-stair-quest.json) |
 | Stair Tap | 365064 | [365064-stair-tap.json](./365064-stair-tap.json) |
 | Staircase55 | 253603 | [253603-staircase55.json](./253603-staircase55.json) |
 | Stairdown | 221291 | [221291-stairdown.json](./221291-stairdown.json) |
@@ -12357,6 +12361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Sling Showdown | 341685 | [341685-sugar-sling-showdown.json](./341685-sugar-sling-showdown.json) |
 | Sugar Story | 190091 | [190091-sugar-story.json](./190091-sugar-story.json) |
 | Sugar Style | 141795 | [141795-sugar-style.json](./141795-sugar-style.json) |
+| Sugar Style | 148419 | [148419-sugar-style.json](./148419-sugar-style.json) |
 | Sugar Style: Complete Edition | 141892 | [141892-sugar-style-complete-edition.json](./141892-sugar-style-complete-edition.json) |
 | Sugar, Sugar | 89099 | [89099-sugar-sugar.json](./89099-sugar-sugar.json) |
 | Sugarbound | 334288 | [334288-sugarbound.json](./334288-sugarbound.json) |
@@ -12765,6 +12770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Battle Polycars | 288874 | [288874-super-battle-polycars.json](./288874-super-battle-polycars.json) |
 | Super Battle Sensha | 252407 | [252407-super-battle-sensha.json](./252407-super-battle-sensha.json) |
 | Super Beach Bros. Wii | 394336 | [394336-super-beach-bros-wii.json](./394336-super-beach-bros-wii.json) |
+| Super Bear Adventure | 148427 | [148427-super-bear-adventure.json](./148427-super-bear-adventure.json) |
 | Super Beast Activation | 311823 | [311823-super-beast-activation.json](./311823-super-beast-activation.json) |
 | Super Beasts: Gang up! | 260708 | [260708-super-beasts-gang-up.json](./260708-super-beasts-gang-up.json) |
 | Super Beat 'em up World | 415317 | [415317-super-beat-em-up-world.json](./415317-super-beat-em-up-world.json) |
