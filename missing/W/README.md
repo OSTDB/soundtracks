@@ -2283,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will: The Beginning | 368050 | [368050-will-the-beginning.json](./368050-will-the-beginning.json) |
 | Willful | 44190 | [44190-willful.json](./44190-willful.json) |
 | William Shatner's TekWar | 8686 | [8686-william-shatners-tekwar.json](./8686-william-shatners-tekwar.json) |
+| William's Love Prelude | 127849 | [127849-williams-love-prelude.json](./127849-williams-love-prelude.json) |
 | Williams Arcade Classics | 71782 | [71782-williams-arcade-classics.json](./71782-williams-arcade-classics.json) |
 | Williams Arcade's Greatest Hits | 20713 | [20713-williams-arcades-greatest-hits.json](./20713-williams-arcades-greatest-hits.json) |
 | Williams Arcade's Greatest Hits | 287084 | [287084-williams-arcades-greatest-hits.json](./287084-williams-arcades-greatest-hits.json) |
@@ -2313,6 +2314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wilmot Works It Out | 314431 | [314431-wilmot-works-it-out.json](./314431-wilmot-works-it-out.json) |
 | Wilmot's Warehouse | 77494 | [77494-wilmots-warehouse.json](./77494-wilmots-warehouse.json) |
 | Wiloo | 50533 | [50533-wiloo.json](./50533-wiloo.json) |
+| Wilson Chronicles | 127888 | [127888-wilson-chronicles.json](./127888-wilson-chronicles.json) |
 | Wilson: In Search of Tom | 307088 | [307088-wilson-in-search-of-tom.json](./307088-wilson-in-search-of-tom.json) |
 | Wilson's Heart | 19597 | [19597-wilsons-heart.json](./19597-wilsons-heart.json) |
 | Wilt | 319219 | [319219-wilt.json](./319219-wilt.json) |
