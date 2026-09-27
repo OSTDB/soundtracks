@@ -1208,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready Set Sumo! | 216758 | [216758-ready-set-sumo.json](./216758-ready-set-sumo.json) |
 | Ready Steady Play | 61073 | [61073-ready-steady-play.json](./61073-ready-steady-play.json) |
 | Ready, Set, Plumb! | 306352 | [306352-ready-set-plumb.json](./306352-ready-set-plumb.json) |
+| Ready, Set, Read with Bananas & Jack | 148450 | [148450-ready-set-read-with-bananas-and-jack.json](./148450-ready-set-read-with-bananas-and-jack.json) |
 | Ready? Set. Haiya! | 149601 | [149601-ready-set-haiya.json](./149601-ready-set-haiya.json) |
 | Readyyy! | 270757 | [270757-readyyy.json](./270757-readyyy.json) |
 | Reaktor | 40165 | [40165-reaktor.json](./40165-reaktor.json) |
@@ -1682,6 +1683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Man Follows | 243056 | [243056-red-man-follows.json](./243056-red-man-follows.json) |
 | Red Matter 2 | 198227 | [198227-red-matter-2.json](./198227-red-matter-2.json) |
 | Red Max | 49561 | [49561-red-max.json](./49561-red-max.json) |
+| Red Measures | 148447 | [148447-red-measures.json](./148447-red-measures.json) |
 | Red Meat Radiator | 396575 | [396575-red-meat-radiator.json](./396575-red-meat-radiator.json) |
 | Red Mercenary | 129127 | [129127-red-mercenary.json](./129127-red-mercenary.json) |
 | Red Mist | 131993 | [131993-red-mist.json](./131993-red-mist.json) |
@@ -2508,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retexo Mori | 155975 | [155975-retexo-mori.json](./155975-retexo-mori.json) |
 | Rethawed | 320929 | [320929-rethawed.json](./320929-rethawed.json) |
 | ReThink \| Evolved 4 | 132592 | [132592-rethink-evolved-4.json](./132592-rethink-evolved-4.json) |
+| ReThink 4 | 148457 | [148457-rethink-4.json](./148457-rethink-4.json) |
 | Reticle Star | 210097 | [210097-reticle-star.json](./210097-reticle-star.json) |
 | Retired Men's Nude Beach Volleyball League | 163452 | [163452-retired-mens-nude-beach-volleyball-league.json](./163452-retired-mens-nude-beach-volleyball-league.json) |
 | Retirement Home Tower Defense | 340569 | [340569-retirement-home-tower-defense.json](./340569-retirement-home-tower-defense.json) |
@@ -5333,6 +5336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Beehind | 399694 | [399694-running-beehind.json](./399694-running-beehind.json) |
 | Running Black | 120990 | [120990-running-black.json](./120990-running-black.json) |
 | Running Challenge | 190152 | [190152-running-challenge.json](./190152-running-challenge.json) |
+| Running Education | 148459 | [148459-running-education.json](./148459-running-education.json) |
 | Running Fox | 267061 | [267061-running-fox.json](./267061-running-fox.json) |
 | Running Gods | 32231 | [32231-running-gods.json](./32231-running-gods.json) |
 | Running into the Cyberpunk | 219655 | [219655-running-into-the-cyberpunk.json](./219655-running-into-the-cyberpunk.json) |
@@ -5455,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust Rails | 267063 | [267063-rust-rails.json](./267063-rust-rails.json) |
 | Rust Rides | 373620 | [373620-rust-rides.json](./373620-rust-rides.json) |
 | Rust Rivalry | 305941 | [305941-rust-rivalry.json](./305941-rust-rivalry.json) |
+| Rust: Console Deluxe Edition | 148452 | [148452-rust-console-deluxe-edition.json](./148452-rust-console-deluxe-edition.json) |
 | Rust: Console Edition | 145149 | [145149-rust-console-edition.json](./145149-rust-console-edition.json) |
 | Rust: Console Edition - Day One | 146116 | [146116-rust-console-edition-day-one.json](./146116-rust-console-edition-day-one.json) |
 | Rust: Console Edition - Warhammer 40,000 Pack | 402506 | [402506-rust-console-edition-warhammer-40-000-pack.json](./402506-rust-console-edition-warhammer-40-000-pack.json) |
