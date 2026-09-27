@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fair Deal: Las Vegas | 110129 | [110129-fair-deal-las-vegas.json](./110129-fair-deal-las-vegas.json) |
 | Fair Food Maker Game | 97153 | [97153-fair-food-maker-game.json](./97153-fair-food-maker-game.json) |
 | Faircroft's Antiques: The Forbidden Crypt | 182361 | [182361-faircrofts-antiques-the-forbidden-crypt.json](./182361-faircrofts-antiques-the-forbidden-crypt.json) |
+| Faircroft's Antiques: The Heir of Glen Kinnoch | 148993 | [148993-faircrofts-antiques-the-heir-of-glen-kinnoch.json](./148993-faircrofts-antiques-the-heir-of-glen-kinnoch.json) |
 | Faircroft's Antiques: The Mountaineer's Legacy | 197413 | [197413-faircrofts-antiques-the-mountaineers-legacy.json](./197413-faircrofts-antiques-the-mountaineers-legacy.json) |
 | Faircroft's Antiques: The Mountaineer's Legacy - Collector's Edition | 212359 | [212359-faircrofts-antiques-the-mountaineers-legacy-collectors-edition.json](./212359-faircrofts-antiques-the-mountaineers-legacy-collectors-edition.json) |
 | Faire Trade | 336519 | [336519-faire-trade.json](./336519-faire-trade.json) |
@@ -3547,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Cat | 199107 | [199107-fly-cat.json](./199107-fly-cat.json) |
 | Fly Catbug Fly! | 175434 | [175434-fly-catbug-fly.json](./175434-fly-catbug-fly.json) |
 | Fly Destroyer | 74344 | [74344-fly-destroyer.json](./74344-fly-destroyer.json) |
+| Fly Fish | 148949 | [148949-fly-fish.json](./148949-fly-fish.json) |
 | Fly Fly | 311057 | [311057-fly-fly.json](./311057-fly-fly.json) |
 | Fly Fly Dragon! | 255123 | [255123-fly-fly-dragon.json](./255123-fly-fly-dragon.json) |
 | Fly Fly Tank | 129735 | [129735-fly-fly-tank.json](./129735-fly-fly-tank.json) |
