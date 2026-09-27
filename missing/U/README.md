@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Moto Bike Simulator | 283221 | [283221-ultimate-moto-bike-simulator.json](./283221-ultimate-moto-bike-simulator.json) |
 | Ultimate MotoCross 4 | 227948 | [227948-ultimate-motocross-4.json](./227948-ultimate-motocross-4.json) |
 | Ultimate Motorcycle Simulator | 100826 | [100826-ultimate-motorcycle-simulator.json](./100826-ultimate-motorcycle-simulator.json) |
+| Ultimate Neural Network | 168657 | [168657-ultimate-neural-network.json](./168657-ultimate-neural-network.json) |
 | Ultimate Ninja: Ninja King | 99410 | [99410-ultimate-ninja-ninja-king.json](./99410-ultimate-ninja-ninja-king.json) |
 | Ultimate Ocean Simulator | 86890 | [86890-ultimate-ocean-simulator.json](./86890-ultimate-ocean-simulator.json) |
 | Ultimate Paintball | 49901 | [49901-ultimate-paintball.json](./49901-ultimate-paintball.json) |
@@ -919,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicycle Giraffe | 318984 | [318984-unicycle-giraffe.json](./318984-unicycle-giraffe.json) |
 | Unicycle Journey | 415082 | [415082-unicycle-journey.json](./415082-unicycle-journey.json) |
 | Unicycle Together | 389403 | [389403-unicycle-together.json](./389403-unicycle-together.json) |
+| UniDuni | 168642 | [168642-uniduni.json](./168642-uniduni.json) |
 | Uniform Girl | 242062 | [242062-uniform-girl.json](./242062-uniform-girl.json) |
 | Unikitty! Save the Kingdom! | 199029 | [199029-unikitty-save-the-kingdom.json](./199029-unikitty-save-the-kingdom.json) |
 | Unilateral Table Tennis | 288268 | [288268-unilateral-table-tennis.json](./288268-unilateral-table-tennis.json) |
