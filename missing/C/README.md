@@ -2224,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chambered | 40708 | [40708-chambered.json](./40708-chambered.json) |
 | Chamberlore | 378435 | [378435-chamberlore.json](./378435-chamberlore.json) |
 | Chambers & Crops | 346255 | [346255-chambers-and-crops.json](./346255-chambers-and-crops.json) |
+| Chambers of Devious Design | 153886 | [153886-chambers-of-devious-design.json](./153886-chambers-of-devious-design.json) |
 | Chambers of Shaolin | 11997 | [11997-chambers-of-shaolin.json](./11997-chambers-of-shaolin.json) |
 | Chameleon | 214466 | [214466-chameleon.json](./214466-chameleon.json) |
 | Chameleon | 21452 | [21452-chameleon.json](./21452-chameleon.json) |
@@ -3718,6 +3719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Limits | 208438 | [208438-city-limits.json](./208438-city-limits.json) |
 | City Mage 3: False Prophecy - Collector's Edition | 417520 | [417520-city-mage-3-false-prophecy-collectors-edition.json](./417520-city-mage-3-false-prophecy-collectors-edition.json) |
 | City Night Rider | 101505 | [101505-city-night-rider.json](./101505-city-night-rider.json) |
+| City of Atlantis | 153911 | [153911-city-of-atlantis.json](./153911-city-of-atlantis.json) |
 | City of Brass | 44122 | [44122-city-of-brass.json](./44122-city-of-brass.json) |
 | City of Broken Dreamers: Book One | 172514 | [172514-city-of-broken-dreamers-book-one.json](./172514-city-of-broken-dreamers-book-one.json) |
 | City of Cards | 171555 | [171555-city-of-cards.json](./171555-city-of-cards.json) |
@@ -4614,6 +4616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Engines | 199474 | [199474-cold-engines.json](./199474-cold-engines.json) |
 | Cold Fear | 5780 | [5780-cold-fear.json](./5780-cold-fear.json) |
 | Cold Harvest | 191195 | [191195-cold-harvest.json](./191195-cold-harvest.json) |
+| Cold Hill | 153897 | [153897-cold-hill.json](./153897-cold-hill.json) |
 | Cold House | 190092 | [190092-cold-house.json](./190092-cold-house.json) |
 | Cold Massacre | 220585 | [220585-cold-massacre.json](./220585-cold-massacre.json) |
 | Cold Meat | 166716 | [166716-cold-meat.json](./166716-cold-meat.json) |
@@ -7163,6 +7166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Guardian | 381110 | [381110-cross-guardian.json](./381110-cross-guardian.json) |
 | Cross Impact | 250398 | [250398-cross-impact.json](./250398-cross-impact.json) |
 | Cross Match! | 238402 | [238402-cross-match.json](./238402-cross-match.json) |
+| Cross Numbers | 153888 | [153888-cross-numbers.json](./153888-cross-numbers.json) |
 | Cross or Crash | 241993 | [241993-cross-or-crash.json](./241993-cross-or-crash.json) |
 | Cross Pix 2 | 363970 | [363970-cross-pix-2.json](./363970-cross-pix-2.json) |
 | Cross Reunion | 237652 | [237652-cross-reunion.json](./237652-cross-reunion.json) |
