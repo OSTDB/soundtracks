@@ -4865,6 +4865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunger Crunch | 233210 | [233210-hunger-crunch.json](./233210-hunger-crunch.json) |
 | Hunger Dungeon | 25850 | [25850-hunger-dungeon.json](./25850-hunger-dungeon.json) |
 | Hunger Dungeon: Deluxe Edition | 53193 | [53193-hunger-dungeon-deluxe-edition.json](./53193-hunger-dungeon-deluxe-edition.json) |
+| Hunger Dungeon: New Challenger Pack | 170319 | [170319-hunger-dungeon-new-challenger-pack.json](./170319-hunger-dungeon-new-challenger-pack.json) |
 | Hunger Lane | 403687 | [403687-hunger-lane.json](./403687-hunger-lane.json) |
 | Hunger of The Elder Slime | 180846 | [180846-hunger-of-the-elder-slime.json](./180846-hunger-of-the-elder-slime.json) |
 | Hungrities | 386695 | [386695-hungrities.json](./386695-hungrities.json) |
