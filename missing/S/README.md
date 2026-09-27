@@ -1128,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scallion RPG | 315710 | [315710-scallion-rpg.json](./315710-scallion-rpg.json) |
 | Scam Artist | 413774 | [413774-scam-artist.json](./413774-scam-artist.json) |
 | Scam Line | 379595 | [379595-scam-line.json](./379595-scam-line.json) |
+| Scampr | 152788 | [152788-scampr.json](./152788-scampr.json) |
 | Scamster Kombat | 366931 | [366931-scamster-kombat.json](./366931-scamster-kombat.json) |
 | Scan Alien | 238987 | [238987-scan-alien.json](./238987-scan-alien.json) |
 | Scan Hunter: Sen-nen Kaigyo wo Oe! | 56528 | [56528-scan-hunter-sen-nen-kaigyo-wo-oe.json](./56528-scan-hunter-sen-nen-kaigyo-wo-oe.json) |
@@ -5650,6 +5651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Jumper | 34316 | [34316-slime-jumper.json](./34316-slime-jumper.json) |
 | Slime Killer | 163910 | [163910-slime-killer.json](./163910-slime-killer.json) |
 | Slime Kingdom | 102192 | [102192-slime-kingdom.json](./102192-slime-kingdom.json) |
+| Slime Labs | 152791 | [152791-slime-labs.json](./152791-slime-labs.json) |
 | Slime Land Adventures | 220056 | [220056-slime-land-adventures.json](./220056-slime-land-adventures.json) |
 | Slime Legion | 242238 | [242238-slime-legion.json](./242238-slime-legion.json) |
 | Slime LOL | 130177 | [130177-slime-lol.json](./130177-slime-lol.json) |
@@ -10868,6 +10870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steampunk Racing 3D | 252141 | [252141-steampunk-racing-3d.json](./252141-steampunk-racing-3d.json) |
 | SteamPunk Sky | 88169 | [88169-steampunk-sky.json](./88169-steampunk-sky.json) |
 | Steampunk Syndicate | 29666 | [29666-steampunk-syndicate.json](./29666-steampunk-syndicate.json) |
+| Steampunk Timer | 152797 | [152797-steampunk-timer.json](./152797-steampunk-timer.json) |
 | Steamroll | 20361 | [20361-steamroll.json](./20361-steamroll.json) |
 | SteamRush | 295278 | [295278-steamrush.json](./295278-steamrush.json) |
 | Steamry | 365678 | [365678-steamry.json](./365678-steamry.json) |
@@ -12987,6 +12990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ghouls'n Ghosts Restoration | 247446 | [247446-super-ghoulsn-ghosts-restoration.json](./247446-super-ghoulsn-ghosts-restoration.json) |
 | Super Glovekid | 317352 | [317352-super-glovekid.json](./317352-super-glovekid.json) |
 | Super Goal! | 76999 | [76999-super-goal.json](./76999-super-goal.json) |
+| Super Gobang | 152782 | [152782-super-gobang.json](./152782-super-gobang.json) |
 | Super Godzilla | 38418 | [38418-super-godzilla.json](./38418-super-godzilla.json) |
 | Super Golf 2018 | 102972 | [102972-super-golf-2018.json](./102972-super-golf-2018.json) |
 | Super Gorilla Quest 2: A Space Chimpanzee | 347230 | [347230-super-gorilla-quest-2-a-space-chimpanzee.json](./347230-super-gorilla-quest-2-a-space-chimpanzee.json) |
