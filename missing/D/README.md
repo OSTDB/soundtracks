@@ -3871,6 +3871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Safari: Evolution | 107123 | [107123-dinosaur-safari-evolution.json](./107123-dinosaur-safari-evolution.json) |
 | Dinosaur Shakespeare: To Date Or Not To Date? - 2 Winter of our Discontent | 253975 | [253975-dinosaur-shakespeare-to-date-or-not-to-date-2-winter-of-our-discontent.json](./253975-dinosaur-shakespeare-to-date-or-not-to-date-2-winter-of-our-discontent.json) |
 | Dinosaur Stacker | 108250 | [108250-dinosaur-stacker.json](./108250-dinosaur-stacker.json) |
+| Dinosaur World | 140470 | [140470-dinosaur-world.json](./140470-dinosaur-world.json) |
 | Dinosaur World | 276205 | [276205-dinosaur-world.json](./276205-dinosaur-world.json) |
 | Dinosaur Zookeeper | 318233 | [318233-dinosaur-zookeeper.json](./318233-dinosaur-zookeeper.json) |
 | Dinosaurily | 242511 | [242511-dinosaurily.json](./242511-dinosaurily.json) |
@@ -5312,6 +5313,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DooM: Infernal Attack | 198352 | [198352-doom-infernal-attack.json](./198352-doom-infernal-attack.json) |
 | Doom: The Dark Ages - Revelations | 405075 | [405075-doom-the-dark-ages-revelations.json](./405075-doom-the-dark-ages-revelations.json) |
 | Doom: The Gallery Experience | 327632 | [327632-doom-the-gallery-experience.json](./327632-doom-the-gallery-experience.json) |
+| DOOM: The Golden Souls | 140496 | [140496-doom-the-golden-souls.json](./140496-doom-the-golden-souls.json) |
+| Doom: The Golden Souls 2 | 140497 | [140497-doom-the-golden-souls-2.json](./140497-doom-the-golden-souls-2.json) |
 | Doom: The Golden Souls 3 | 314436 | [314436-doom-the-golden-souls-3.json](./314436-doom-the-golden-souls-3.json) |
 | Doom: The Golden Souls Remastered | 198349 | [198349-doom-the-golden-souls-remastered.json](./198349-doom-the-golden-souls-remastered.json) |
 | Doom: Unto the Evil | 22431 | [22431-doom-unto-the-evil.json](./22431-doom-unto-the-evil.json) |
