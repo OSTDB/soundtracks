@@ -2911,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rez Infinite | 19746 | [19746-rez-infinite.json](./19746-rez-infinite.json) |
 | Rezel Cross | 64955 | [64955-rezel-cross.json](./64955-rezel-cross.json) |
 | Rezident Evil: It Is Escape | 260137 | [260137-rezident-evil-it-is-escape.json](./260137-rezident-evil-it-is-escape.json) |
+| Rezist: Tower Defense | 123500 | [123500-rezist-tower-defense.json](./123500-rezist-tower-defense.json) |
 | Rezon | 40186 | [40186-rezon.json](./40186-rezon.json) |
 | Rezzil Player | 220710 | [220710-rezzil-player.json](./220710-rezzil-player.json) |
 | RFA Station | 244907 | [244907-rfa-station.json](./244907-rfa-station.json) |
@@ -2983,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RhythmPG | 179610 | [179610-rhythmpg.json](./179610-rhythmpg.json) |
 | Rhythmscapes | 317017 | [317017-rhythmscapes.json](./317017-rhythmscapes.json) |
 | RhythmSlinger | 154000 | [154000-rhythmslinger.json](./154000-rhythmslinger.json) |
+| RhythmSnake | 123497 | [123497-rhythmsnake.json](./123497-rhythmsnake.json) |
 | RhythmStar | 230522 | [230522-rhythmstar.json](./230522-rhythmstar.json) |
 | Rhythmy | 116315 | [116315-rhythmy.json](./116315-rhythmy.json) |
 | Ri Ri Ye Ye | 150515 | [150515-ri-ri-ye-ye.json](./150515-ri-ri-ye-ye.json) |
@@ -4900,6 +4902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rounded Hills | 145654 | [145654-rounded-hills.json](./145654-rounded-hills.json) |
 | Rounders | 220746 | [220746-rounders.json](./220746-rounders.json) |
 | Rounders (Arena) | 98991 | [98991-rounders-arena.json](./98991-rounders-arena.json) |
+| Rounding Demon | 123505 | [123505-rounding-demon.json](./123505-rounding-demon.json) |
 | RoundRick: Brick Breaker | 251201 | [251201-roundrick-brick-breaker.json](./251201-roundrick-brick-breaker.json) |
 | RoundRunners Playground | 253608 | [253608-roundrunners-playground.json](./253608-roundrunners-playground.json) |
 | Rounds | 145341 | [145341-rounds.json](./145341-rounds.json) |
