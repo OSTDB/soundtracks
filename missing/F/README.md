@@ -2942,6 +2942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fixed Point In Space | 184644 | [184644-fixed-point-in-space.json](./184644-fixed-point-in-space.json) |
 | FixForce | 393101 | [393101-fixforce.json](./393101-fixforce.json) |
 | FIXKIN: A Long Way Home (at the End of the World) | 380104 | [380104-fixkin-a-long-way-home-at-the-end-of-the-world.json](./380104-fixkin-a-long-way-home-at-the-end-of-the-world.json) |
+| Fizik | 163747 | [163747-fizik.json](./163747-fizik.json) |
 | Fizz Quiz | 318058 | [318058-fizz-quiz.json](./318058-fizz-quiz.json) |
 | Fizzburg | 413878 | [413878-fizzburg.json](./413878-fizzburg.json) |
 | Fizzy Factory | 262070 | [262070-fizzy-factory.json](./262070-fizzy-factory.json) |
