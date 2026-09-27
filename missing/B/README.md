@@ -696,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls and Magnets | 83538 | [83538-balls-and-magnets.json](./83538-balls-and-magnets.json) |
 | Balls Away! | 235141 | [235141-balls-away.json](./235141-balls-away.json) |
 | Balls Bombs | 300733 | [300733-balls-bombs.json](./300733-balls-bombs.json) |
+| Balls n Blocks | 120255 | [120255-balls-n-blocks.json](./120255-balls-n-blocks.json) |
 | Balls of Glory Pinball | 261803 | [261803-balls-of-glory-pinball.json](./261803-balls-of-glory-pinball.json) |
 | Balls of Steel Community Project | 229708 | [229708-balls-of-steel-community-project.json](./229708-balls-of-steel-community-project.json) |
 | Balls Out of Control | 154994 | [154994-balls-out-of-control.json](./154994-balls-out-of-control.json) |
@@ -3436,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Museum | 145484 | [145484-bird-museum.json](./145484-bird-museum.json) |
 | Bird of Light | 33458 | [33458-bird-of-light.json](./33458-bird-of-light.json) |
 | Bird of Paradise | 265728 | [265728-bird-of-paradise.json](./265728-bird-of-paradise.json) |
+| Bird of Passage | 120249 | [120249-bird-of-passage.json](./120249-bird-of-passage.json) |
 | Bird Pro Skater | 159641 | [159641-bird-pro-skater.json](./159641-bird-pro-skater.json) |
 | Bird Problems | 152178 | [152178-bird-problems.json](./152178-bird-problems.json) |
 | Bird Shooter | 229974 | [229974-bird-shooter.json](./229974-bird-shooter.json) |
@@ -3447,6 +3449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Vs Bird | 277417 | [277417-bird-vs-bird.json](./277417-bird-vs-bird.json) |
 | Bird's Eye | 160249 | [160249-birds-eye.json](./160249-birds-eye.json) |
 | Bird's Eye Odyssey | 245954 | [245954-birds-eye-odyssey.json](./245954-birds-eye-odyssey.json) |
+| Bird's Town | 120264 | [120264-birds-town.json](./120264-birds-town.json) |
 | Birdcage (Oda al Pájaro) | 325262 | [325262-birdcage-oda-al-pajaro.json](./325262-birdcage-oda-al-pajaro.json) |
 | Birdfull | 333567 | [333567-birdfull.json](./333567-birdfull.json) |
 | Birdie | 341130 | [341130-birdie.json](./341130-birdie.json) |
@@ -4844,6 +4847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Tear | 30308 | [30308-blue-tear.json](./30308-blue-tear.json) |
 | Blue Thunder | 296678 | [296678-blue-thunder.json](./296678-blue-thunder.json) |
 | Blue Tower Chronicle | 413739 | [413739-blue-tower-chronicle.json](./413739-blue-tower-chronicle.json) |
+| Blue Volta | 120251 | [120251-blue-volta.json](./120251-blue-volta.json) |
 | Blue Wars | 193947 | [193947-blue-wars.json](./193947-blue-wars.json) |
 | Blue Whale | 75320 | [75320-blue-whale.json](./75320-blue-whale.json) |
 | Blue Wish Resurrection Plus | 122850 | [122850-blue-wish-resurrection-plus.json](./122850-blue-wish-resurrection-plus.json) |
@@ -6139,6 +6143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravo, Gaspar! | 399163 | [399163-bravo-gaspar.json](./399163-bravo-gaspar.json) |
 | Bravo! | 362438 | [362438-bravo.json](./362438-bravo.json) |
 | Bravoman: Binja Bash! | 63290 | [63290-bravoman-binja-bash.json](./63290-bravoman-binja-bash.json) |
+| Bravura: Quest Rush | 120246 | [120246-bravura-quest-rush.json](./120246-bravura-quest-rush.json) |
 | Brawl Arena Shooter | 414385 | [414385-brawl-arena-shooter.json](./414385-brawl-arena-shooter.json) |
 | Brawl Boys | 234354 | [234354-brawl-boys.json](./234354-brawl-boys.json) |
 | Brawl Brothers | 42639 | [42639-brawl-brothers.json](./42639-brawl-brothers.json) |
@@ -6818,6 +6823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Mix 3 in 1 Plus | 90685 | [90685-bubble-mix-3-in-1-plus.json](./90685-bubble-mix-3-in-1-plus.json) |
 | Bubble People | 173265 | [173265-bubble-people.json](./173265-bubble-people.json) |
 | Bubble Piles | 241615 | [241615-bubble-piles.json](./241615-bubble-piles.json) |
+| Bubble Pirates | 120256 | [120256-bubble-pirates.json](./120256-bubble-pirates.json) |
 | Bubble Pop Letters & Shapes | 213396 | [213396-bubble-pop-letters-and-shapes.json](./213396-bubble-pop-letters-and-shapes.json) |
 | Bubble Pop Math Challenge Gr. 1-2 Premium | 87255 | [87255-bubble-pop-math-challenge-gr-1-2-premium.json](./87255-bubble-pop-math-challenge-gr-1-2-premium.json) |
 | Bubble Rage | 340228 | [340228-bubble-rage.json](./340228-bubble-rage.json) |
@@ -7497,6 +7503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Busy Bea's Halftime Hustle | 349295 | [349295-busy-beas-halftime-hustle.json](./349295-busy-beas-halftime-hustle.json) |
 | Busy Scissors | 50594 | [50594-busy-scissors.json](./50594-busy-scissors.json) |
 | But That Was [Yesterday] | 203353 | [203353-but-that-was-yesterday.json](./203353-but-that-was-yesterday.json) |
+| But You Seem Fine | 120267 | [120267-but-you-seem-fine.json](./120267-but-you-seem-fine.json) |
 | Buta | 204413 | [204413-buta.json](./204413-buta.json) |
 | Butanooo! Simulator | 303805 | [303805-butanooo-simulator.json](./303805-butanooo-simulator.json) |
 | Butch: Hard Guy | 293250 | [293250-butch-hard-guy.json](./293250-butch-hard-guy.json) |
