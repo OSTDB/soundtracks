@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Project Diva 2nd - The Idolm@ster Collaboration Pack #2 | 294734 | [294734-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-2.json](./294734-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-2.json) |
 | Hatsune Miku: Project Diva Future Tone | 25821 | [25821-hatsune-miku-project-diva-future-tone.json](./25821-hatsune-miku-project-diva-future-tone.json) |
 | Hatsune Miku: Project Diva Future Tone DX | 117659 | [117659-hatsune-miku-project-diva-future-tone-dx.json](./117659-hatsune-miku-project-diva-future-tone-dx.json) |
+| Hatsune Miku: Project Diva Future Tone DX - Memorial Pack | 167080 | [167080-hatsune-miku-project-diva-future-tone-dx-memorial-pack.json](./167080-hatsune-miku-project-diva-future-tone-dx-memorial-pack.json) |
 | Hatsune Miku: Project Diva Mega Mix | 120278 | [120278-hatsune-miku-project-diva-mega-mix.json](./120278-hatsune-miku-project-diva-mega-mix.json) |
 | Hatsune Miku: Project Diva Mega Mix - 10th Anniversary Collection | 136283 | [136283-hatsune-miku-project-diva-mega-mix-10th-anniversary-collection.json](./136283-hatsune-miku-project-diva-mega-mix-10th-anniversary-collection.json) |
 | Hatsune Miku: Roller Skating Music | 199044 | [199044-hatsune-miku-roller-skating-music.json](./199044-hatsune-miku-roller-skating-music.json) |
@@ -5196,6 +5197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypercoven | 256784 | [256784-hypercoven.json](./256784-hypercoven.json) |
 | HyperCycle League | 383979 | [383979-hypercycle-league.json](./383979-hypercycle-league.json) |
 | Hyperdimension Neptunia | 7319 | [7319-hyperdimension-neptunia.json](./7319-hyperdimension-neptunia.json) |
+| Hyperdimension Neptunia Re;Birth 1 Plus: Limited Edition | 167043 | [167043-hyperdimension-neptunia-re-birth-1-plus-limited-edition.json](./167043-hyperdimension-neptunia-re-birth-1-plus-limited-edition.json) |
 | Hyperdimension Neptunia Re;Birth1 | 8902 | [8902-hyperdimension-neptunia-re-birth1.json](./8902-hyperdimension-neptunia-re-birth1.json) |
 | Hyperdimension Neptunia Re;Birth1: Additional Content 1 | 167238 | [167238-hyperdimension-neptunia-re-birth1-additional-content-1.json](./167238-hyperdimension-neptunia-re-birth1-additional-content-1.json) |
 | Hyperdimension Neptunia Re;Birth1: Additional Content 2 | 167240 | [167240-hyperdimension-neptunia-re-birth1-additional-content-2.json](./167240-hyperdimension-neptunia-re-birth1-additional-content-2.json) |
