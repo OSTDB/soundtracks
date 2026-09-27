@@ -5742,6 +5742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contract Revoked: The Lost Chapters | 271237 | [271237-contract-revoked-the-lost-chapters.json](./271237-contract-revoked-the-lost-chapters.json) |
 | Contract Sudoku | 277920 | [277920-contract-sudoku.json](./277920-contract-sudoku.json) |
 | Contract Wars | 77472 | [77472-contract-wars.json](./77472-contract-wars.json) |
+| Contract Work | 126513 | [126513-contract-work.json](./126513-contract-work.json) |
 | Contractor | 235980 | [235980-contractor.json](./235980-contractor.json) |
 | Contractors | 123603 | [123603-contractors.json](./123603-contractors.json) |
 | Contractors VR | 111625 | [111625-contractors-vr.json](./111625-contractors-vr.json) |
@@ -6051,6 +6052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corral | 67525 | [67525-corral.json](./67525-corral.json) |
 | Corrida das Blogueiras 6: A Maldição dos Zumbis | 319027 | [319027-corrida-das-blogueiras-6-a-maldicao-dos-zumbis.json](./319027-corrida-das-blogueiras-6-a-maldicao-dos-zumbis.json) |
 | Corridor | 282000 | [282000-corridor.json](./282000-corridor.json) |
+| Corridor Crusaders | 126535 | [126535-corridor-crusaders.json](./126535-corridor-crusaders.json) |
 | Corridor Exit 8 | 346688 | [346688-corridor-exit-8.json](./346688-corridor-exit-8.json) |
 | Corridor Geodesic | 319387 | [319387-corridor-geodesic.json](./319387-corridor-geodesic.json) |
 | Corridor Maze: Home Cleanup | 291251 | [291251-corridor-maze-home-cleanup.json](./291251-corridor-maze-home-cleanup.json) |
