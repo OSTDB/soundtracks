@@ -591,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted Waters | 351137 | [351137-uncharted-waters.json](./351137-uncharted-waters.json) |
 | Uncharted Waters IV with Power Up Kit | 145544 | [145544-uncharted-waters-iv-with-power-up-kit.json](./145544-uncharted-waters-iv-with-power-up-kit.json) |
 | Uncharted Waters Online | 102570 | [102570-uncharted-waters-online.json](./102570-uncharted-waters-online.json) |
+| Uncharted Waters Origin | 138704 | [138704-uncharted-waters-origin.json](./138704-uncharted-waters-origin.json) |
 | Uncharted Waters: New Horizons | 102810 | [102810-uncharted-waters-new-horizons.json](./102810-uncharted-waters-new-horizons.json) |
 | Uncharted Waters: New Horizons | 38412 | [38412-uncharted-waters-new-horizons.json](./38412-uncharted-waters-new-horizons.json) |
 | Uncharted Waters: New Horizons | 45539 | [45539-uncharted-waters-new-horizons.json](./45539-uncharted-waters-new-horizons.json) |
