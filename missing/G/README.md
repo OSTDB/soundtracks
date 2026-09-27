@@ -1437,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Me Outta Here: Deluxe/Remastered Edition | 126574 | [126574-get-me-outta-here-deluxe-remastered-edition.json](./126574-get-me-outta-here-deluxe-remastered-edition.json) |
 | Get Medieval | 71795 | [71795-get-medieval.json](./71795-get-medieval.json) |
 | Get Money | 57049 | [57049-get-money.json](./57049-get-money.json) |
+| Get Mushi Club: Minna no Konchuu Daizukan | 153816 | [153816-get-mushi-club-minna-no-konchuu-daizukan.json](./153816-get-mushi-club-minna-no-konchuu-daizukan.json) |
 | Get Off Work | 379031 | [379031-get-off-work.json](./379031-get-off-work.json) |
 | Get on Slime Level | 393614 | [393614-get-on-slime-level.json](./393614-get-on-slime-level.json) |
 | Get Order! | 274465 | [274465-get-order.json](./274465-get-order.json) |
@@ -2246,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Plague Monkey! Go! | 60558 | [60558-go-plague-monkey-go.json](./60558-go-plague-monkey-go.json) |
 | Go Quirk! | 340552 | [340552-go-quirk.json](./340552-go-quirk.json) |
 | Go Race Yourself | 200137 | [200137-go-race-yourself.json](./200137-go-race-yourself.json) |
+| Go Rocket | 153917 | [153917-go-rocket.json](./153917-go-rocket.json) |
 | GO Series: Portable Shrine Wars | 65750 | [65750-go-series-portable-shrine-wars.json](./65750-go-series-portable-shrine-wars.json) |
 | Go There | 240742 | [240742-go-there.json](./240742-go-there.json) |
 | Go to Heck | 214154 | [214154-go-to-heck.json](./214154-go-to-heck.json) |
