@@ -1081,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bardella and the Curse of Silence | 399167 | [399167-bardella-and-the-curse-of-silence.json](./399167-bardella-and-the-curse-of-silence.json) |
 | Bardic: Quest for Love | 270100 | [270100-bardic-quest-for-love.json](./270100-bardic-quest-for-love.json) |
 | Bardo | 109727 | [109727-bardo.json](./109727-bardo.json) |
+| Bardysh: Kromeford no Juunin | 167075 | [167075-bardysh-kromeford-no-juunin.json](./167075-bardysh-kromeford-no-juunin.json) |
 | Bare Butt Boxing | 197269 | [197269-bare-butt-boxing.json](./197269-bare-butt-boxing.json) |
 | Bare Knuckle III | 151541 | [151541-bare-knuckle-iii.json](./151541-bare-knuckle-iii.json) |
 | Bare Knuckle Sandwich | 259046 | [259046-bare-knuckle-sandwich.json](./259046-bare-knuckle-sandwich.json) |
@@ -3012,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Nose and the Witchdoctor | 233993 | [233993-big-nose-and-the-witchdoctor.json](./233993-big-nose-and-the-witchdoctor.json) |
 | Big Nose Freaks Out | 48105 | [48105-big-nose-freaks-out.json](./48105-big-nose-freaks-out.json) |
 | Big Ol' Bass 2 | 43921 | [43921-big-ol-bass-2.json](./43921-big-ol-bass-2.json) |
+| Big Pharma: Special Edition | 167042 | [167042-big-pharma-special-edition.json](./167042-big-pharma-special-edition.json) |
 | Big Red Hood: Halloween | 126894 | [126894-big-red-hood-halloween.json](./126894-big-red-hood-halloween.json) |
 | Big Rigs: Over the Road Racing | 7557 | [7557-big-rigs-over-the-road-racing.json](./7557-big-rigs-over-the-road-racing.json) |
 | Big Rumble Boxing: Creed Champions | 137129 | [137129-big-rumble-boxing-creed-champions.json](./137129-big-rumble-boxing-creed-champions.json) |
@@ -4003,6 +4005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleakwood | 304574 | [304574-bleakwood.json](./304574-bleakwood.json) |
 | Bleb | 346792 | [346792-bleb.json](./346792-bleb.json) |
 | Bleed | 9706 | [9706-bleed.json](./9706-bleed.json) |
+| Bleed + Bleed 2: Limited Edition | 167059 | [167059-bleed-bleed-2-limited-edition.json](./167059-bleed-bleed-2-limited-edition.json) |
 | Bleed Complete Bundle | 118854 | [118854-bleed-complete-bundle.json](./118854-bleed-complete-bundle.json) |
 | Bleed Runner | 276237 | [276237-bleed-runner.json](./276237-bleed-runner.json) |
 | Bleed: Deluxe Edition | 118954 | [118954-bleed-deluxe-edition.json](./118954-bleed-deluxe-edition.json) |
@@ -4671,11 +4674,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Reflection Ray | 396234 | [396234-blue-reflection-ray.json](./396234-blue-reflection-ray.json) |
 | Blue Reflection Sun | 396235 | [396235-blue-reflection-sun.json](./396235-blue-reflection-sun.json) |
 | Blue Reflection: Final Fantasy XV Costumes | 396396 | [396396-blue-reflection-final-fantasy-xv-costumes.json](./396396-blue-reflection-final-fantasy-xv-costumes.json) |
+| Blue Reflection: Premium Box | 167079 | [167079-blue-reflection-premium-box.json](./167079-blue-reflection-premium-box.json) |
 | Blue Reflection: Second Light | 396237 | [396237-blue-reflection-second-light.json](./396237-blue-reflection-second-light.json) |
 | Blue Reflection: Second Light - Premium Box | 155073 | [155073-blue-reflection-second-light-premium-box.json](./155073-blue-reflection-second-light-premium-box.json) |
 | Blue Reflection: Second Light - Special Collection Box | 155072 | [155072-blue-reflection-second-light-special-collection-box.json](./155072-blue-reflection-second-light-special-collection-box.json) |
 | Blue Revolver | 24928 | [24928-blue-revolver.json](./24928-blue-revolver.json) |
 | Blue Ribbon Darts | 159275 | [159275-blue-ribbon-darts.json](./159275-blue-ribbon-darts.json) |
+| Blue Rider: Collector's Edition | 167046 | [167046-blue-rider-collectors-edition.json](./167046-blue-rider-collectors-edition.json) |
 | Blue Ridge Hunting | 265390 | [265390-blue-ridge-hunting.json](./265390-blue-ridge-hunting.json) |
 | Blue Sango | 263595 | [263595-blue-sango.json](./263595-blue-sango.json) |
 | Blue Skies | 63858 | [63858-blue-skies.json](./63858-blue-skies.json) |
@@ -5029,6 +5034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Cat Run | 317860 | [317860-bomber-cat-run.json](./317860-bomber-cat-run.json) |
 | Bomber Command | 221687 | [221687-bomber-command.json](./221687-bomber-command.json) |
 | Bomber Crew: American Edition | 116147 | [116147-bomber-crew-american-edition.json](./116147-bomber-crew-american-edition.json) |
+| Bomber Crew: Complete Edition | 167048 | [167048-bomber-crew-complete-edition.json](./167048-bomber-crew-complete-edition.json) |
 | Bomber Crew: Deluxe Edition | 118956 | [118956-bomber-crew-deluxe-edition.json](./118956-bomber-crew-deluxe-edition.json) |
 | Bomber Crew: Skin Pack | 265253 | [265253-bomber-crew-skin-pack.json](./265253-bomber-crew-skin-pack.json) |
 | Bomber Dudes | 169373 | [169373-bomber-dudes.json](./169373-bomber-dudes.json) |
