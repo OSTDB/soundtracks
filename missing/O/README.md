@@ -2296,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outter Carrier | 327382 | [327382-outter-carrier.json](./327382-outter-carrier.json) |
 | Outtrigger | 39605 | [39605-outtrigger.json](./39605-outtrigger.json) |
 | Outward 2 | 291446 | [291446-outward-2.json](./291446-outward-2.json) |
+| Outward Adventurer Bundle | 169212 | [169212-outward-adventurer-bundle.json](./169212-outward-adventurer-bundle.json) |
 | Outwars | 57676 | [57676-outwars.json](./57676-outwars.json) |
 | OutWave | 207341 | [207341-outwave.json](./207341-outwave.json) |
 | Outway | 245942 | [245942-outway.json](./245942-outway.json) |
