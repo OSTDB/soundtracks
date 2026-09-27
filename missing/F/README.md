@@ -599,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: Gone Fission | 347166 | [347166-fallout-76-gone-fission.json](./347166-fallout-76-gone-fission.json) |
 | Fallout 76: Infestations | 405074 | [405074-fallout-76-infestations.json](./405074-fallout-76-infestations.json) |
 | Fallout 76: Milepost Zero | 314486 | [314486-fallout-76-milepost-zero.json](./314486-fallout-76-milepost-zero.json) |
+| Fallout 76: Nuclear Winter | 132140 | [132140-fallout-76-nuclear-winter.json](./132140-fallout-76-nuclear-winter.json) |
 | Fallout 76: Platinum Edition | 111060 | [111060-fallout-76-platinum-edition.json](./111060-fallout-76-platinum-edition.json) |
 | Fallout 76: Raiders Content Bundle | 136384 | [136384-fallout-76-raiders-content-bundle.json](./136384-fallout-76-raiders-content-bundle.json) |
 | Fallout 76: S.P.E.C.I.A.L. Edition | 109485 | [109485-fallout-76-s-p-e-c-i-a-l-edition.json](./109485-fallout-76-s-p-e-c-i-a-l-edition.json) |
@@ -1206,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farrealm: The Prince of Winds | 120427 | [120427-farrealm-the-prince-of-winds.json](./120427-farrealm-the-prince-of-winds.json) |
 | Farseer's Domain | 144898 | [144898-farseers-domain.json](./144898-farseers-domain.json) |
 | Farside | 103179 | [103179-farside.json](./103179-farside.json) |
+| Farstar: Exodus | 132132 | [132132-farstar-exodus.json](./132132-farstar-exodus.json) |
 | Fart Game | 321575 | [321575-fart-game.json](./321575-fart-game.json) |
 | Fart Hotel | 243967 | [243967-fart-hotel.json](./243967-fart-hotel.json) |
 | Fart King | 338558 | [338558-fart-king.json](./338558-fart-king.json) |
@@ -1651,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feria 3000 | 391057 | [391057-feria-3000.json](./391057-feria-3000.json) |
 | Feria d'Arles | 126394 | [126394-feria-darles.json](./126394-feria-darles.json) |
 | Fermion: Mirai kara no Houmonsha | 387532 | [387532-fermion-mirai-kara-no-houmonsha.json](./387532-fermion-mirai-kara-no-houmonsha.json) |
+| Fern Flower | 132104 | [132104-fern-flower.json](./132104-fern-flower.json) |
 | Fern Flower | 200694 | [200694-fern-flower.json](./200694-fern-flower.json) |
 | Fern Light | 301247 | [301247-fern-light.json](./301247-fern-light.json) |
 | Fern Wardrobe | 381226 | [381226-fern-wardrobe.json](./381226-fern-wardrobe.json) |
