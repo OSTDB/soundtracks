@@ -584,6 +584,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Match: Solitaire Seasons - Collector's Edition | 309503 | [309503-jewel-match-solitaire-seasons-collectors-edition.json](./309503-jewel-match-solitaire-seasons-collectors-edition.json) |
 | Jewel of Clementia | 248668 | [248668-jewel-of-clementia.json](./248668-jewel-of-clementia.json) |
 | Jewel of Kuru | 158087 | [158087-jewel-of-kuru.json](./158087-jewel-of-kuru.json) |
+| Jewel of Live | 151629 | [151629-jewel-of-live.json](./151629-jewel-of-live.json) |
+| Jewel of Live II | 151630 | [151630-jewel-of-live-ii.json](./151630-jewel-of-live-ii.json) |
 | Jewel Pet: Cafe de Mahou no Cooking! | 60547 | [60547-jewel-pet-cafe-de-mahou-no-cooking.json](./60547-jewel-pet-cafe-de-mahou-no-cooking.json) |
 | Jewel Pet: Mahou de Oshare ni Dance * Deco! | 60543 | [60543-jewel-pet-mahou-de-oshare-ni-dance-deco.json](./60543-jewel-pet-mahou-de-oshare-ni-dance-deco.json) |
 | Jewel Pet: Mahou no Rhythm de Ieie! | 60546 | [60546-jewel-pet-mahou-no-rhythm-de-ieie.json](./60546-jewel-pet-mahou-no-rhythm-de-ieie.json) |
@@ -1017,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joker Show: Horror Escape | 258503 | [258503-joker-show-horror-escape.json](./258503-joker-show-horror-escape.json) |
 | Jolly 3: Chapter 1 | 184507 | [184507-jolly-3-chapter-1.json](./184507-jolly-3-chapter-1.json) |
 | Jolly 3: Chapter 2 | 184508 | [184508-jolly-3-chapter-2.json](./184508-jolly-3-chapter-2.json) |
+| Jolly Bunny's Adventure | 151592 | [151592-jolly-bunnys-adventure.json](./151592-jolly-bunnys-adventure.json) |
 | Jolly Chimp Champ | 291587 | [291587-jolly-chimp-champ.json](./291587-jolly-chimp-champ.json) |
 | Jolly Jam | 56432 | [56432-jolly-jam.json](./56432-jolly-jam.json) |
 | Jolly Join | 58754 | [58754-jolly-join.json](./58754-jolly-join.json) |
@@ -1539,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jury Trial | 160157 | [160157-jury-trial.json](./160157-jury-trial.json) |
 | Jusou: Gakkou no Kaidan | 308906 | [308906-jusou-gakkou-no-kaidan.json](./308906-jusou-gakkou-no-kaidan.json) |
 | Just 1 Minute! Memory Test with Masterpieces | 316273 | [316273-just-1-minute-memory-test-with-masterpieces.json](./316273-just-1-minute-memory-test-with-masterpieces.json) |
+| Just 15 minutes | 151594 | [151594-just-15-minutes.json](./151594-just-15-minutes.json) |
 | Just a Cute Capybara Puzzle | 295284 | [295284-just-a-cute-capybara-puzzle.json](./295284-just-a-cute-capybara-puzzle.json) |
 | Just A Dream | 304894 | [304894-just-a-dream.json](./304894-just-a-dream.json) |
 | Just A Dream | 65788 | [65788-just-a-dream.json](./65788-just-a-dream.json) |
