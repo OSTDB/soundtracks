@@ -2770,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Picture | 206346 | [206346-the-big-picture.json](./206346-the-big-picture.json) |
 | The Big Red Adventure | 12404 | [12404-the-big-red-adventure.json](./12404-the-big-red-adventure.json) |
 | The Big Robot Project | 146089 | [146089-the-big-robot-project.json](./146089-the-big-robot-project.json) |
+| The Big Simulation Box 3: Best of Simulations | 136373 | [136373-the-big-simulation-box-3-best-of-simulations.json](./136373-the-big-simulation-box-3-best-of-simulations.json) |
 | The Big Three | 102130 | [102130-the-big-three.json](./102130-the-big-three.json) |
 | The Big Wall | 221292 | [221292-the-big-wall.json](./221292-the-big-wall.json) |
 | The Big Wave | 135018 | [135018-the-big-wave.json](./135018-the-big-wave.json) |
@@ -3183,6 +3184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Comfort Zone | 177417 | [177417-the-comfort-zone.json](./177417-the-comfort-zone.json) |
 | The Commander of Steel | 262063 | [262063-the-commander-of-steel.json](./262063-the-commander-of-steel.json) |
 | The Companion | 143121 | [143121-the-companion.json](./143121-the-companion.json) |
+| The Complete Emergency | 136375 | [136375-the-complete-emergency.json](./136375-the-complete-emergency.json) |
 | The Complete Universal Military Simulator | 137480 | [137480-the-complete-universal-military-simulator.json](./137480-the-complete-universal-military-simulator.json) |
 | The Complex | 119178 | [119178-the-complex.json](./119178-the-complex.json) |
 | The Complex IV | 286003 | [286003-the-complex-iv.json](./286003-the-complex-iv.json) |
@@ -3403,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Dungeon | 196291 | [196291-the-dark-dungeon.json](./196291-the-dark-dungeon.json) |
 | The Dark Eye Bundle | 218463 | [218463-the-dark-eye-bundle.json](./218463-the-dark-eye-bundle.json) |
 | The Dark Eye Bundle | 275896 | [275896-the-dark-eye-bundle.json](./275896-the-dark-eye-bundle.json) |
+| The Dark Eye: Book of Heroes - Collector's Edition | 136376 | [136376-the-dark-eye-book-of-heroes-collectors-edition.json](./136376-the-dark-eye-book-of-heroes-collectors-edition.json) |
 | The Dark Eye: Chains of Satinav | 7146 | [7146-the-dark-eye-chains-of-satinav.json](./7146-the-dark-eye-chains-of-satinav.json) |
 | The Dark Eye: Memoria | 7168 | [7168-the-dark-eye-memoria.json](./7168-the-dark-eye-memoria.json) |
 | The Dark Fables of Aesop | 254454 | [254454-the-dark-fables-of-aesop.json](./254454-the-dark-fables-of-aesop.json) |
@@ -3738,6 +3741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: High Isle | 195342 | [195342-the-elder-scrolls-online-high-isle.json](./195342-the-elder-scrolls-online-high-isle.json) |
 | The Elder Scrolls Online: Lost Depths | 237338 | [237338-the-elder-scrolls-online-lost-depths.json](./237338-the-elder-scrolls-online-lost-depths.json) |
 | The Elder Scrolls Online: Markarth | 237336 | [237336-the-elder-scrolls-online-markarth.json](./237336-the-elder-scrolls-online-markarth.json) |
+| The Elder Scrolls Online: Morrowind - Collector's Edition | 136339 | [136339-the-elder-scrolls-online-morrowind-collectors-edition.json](./136339-the-elder-scrolls-online-morrowind-collectors-edition.json) |
 | The Elder Scrolls Online: Season One - Return of the Thieves Guild | 405082 | [405082-the-elder-scrolls-online-season-one-return-of-the-thieves-guild.json](./405082-the-elder-scrolls-online-season-one-return-of-the-thieves-guild.json) |
 | The Elder Scrolls Online: Stonethorn | 135827 | [135827-the-elder-scrolls-online-stonethorn.json](./135827-the-elder-scrolls-online-stonethorn.json) |
 | The Elder Scrolls Online: Summerset - Collector's Editions | 96024 | [96024-the-elder-scrolls-online-summerset-collectors-editions.json](./96024-the-elder-scrolls-online-summerset-collectors-editions.json) |
@@ -5345,6 +5349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Breath of the Wild - Islands Expansion | 250324 | [250324-the-legend-of-zelda-breath-of-the-wild-islands-expansion.json](./250324-the-legend-of-zelda-breath-of-the-wild-islands-expansion.json) |
 | The Legend of Zelda: Breath of the Wild - Limited Edition | 50598 | [50598-the-legend-of-zelda-breath-of-the-wild-limited-edition.json](./50598-the-legend-of-zelda-breath-of-the-wild-limited-edition.json) |
 | The Legend of Zelda: Breath of the Wild - Nintendo Switch 2 Edition | 338072 | [338072-the-legend-of-zelda-breath-of-the-wild-nintendo-switch-2-edition.json](./338072-the-legend-of-zelda-breath-of-the-wild-nintendo-switch-2-edition.json) |
+| The Legend of Zelda: Breath of the Wild - Special Edition | 136337 | [136337-the-legend-of-zelda-breath-of-the-wild-special-edition.json](./136337-the-legend-of-zelda-breath-of-the-wild-special-edition.json) |
 | The Legend of Zelda: Breath of the Wild - Starter Edition | 216236 | [216236-the-legend-of-zelda-breath-of-the-wild-starter-edition.json](./216236-the-legend-of-zelda-breath-of-the-wild-starter-edition.json) |
 | The Legend of Zelda: Breath of the Wild - The Champions' Ballad | 41826 | [41826-the-legend-of-zelda-breath-of-the-wild-the-champions-ballad.json](./41826-the-legend-of-zelda-breath-of-the-wild-the-champions-ballad.json) |
 | The Legend of Zelda: Breath of the Wild and The Legend of Zelda: Breath of the Wild Expansion Pass Bundle | 237895 | [237895-the-legend-of-zelda-breath-of-the-wild-and-the-legend-of-zelda-breath-of-the-wild-expansion-pass-bundle.json](./237895-the-legend-of-zelda-breath-of-the-wild-and-the-legend-of-zelda-breath-of-the-wild-expansion-pass-bundle.json) |
@@ -5363,6 +5368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Journey of a Day | 269848 | [269848-the-legend-of-zelda-journey-of-a-day.json](./269848-the-legend-of-zelda-journey-of-a-day.json) |
 | The Legend of Zelda: Just Beginning | 324079 | [324079-the-legend-of-zelda-just-beginning.json](./324079-the-legend-of-zelda-just-beginning.json) |
 | The Legend of Zelda: Link's Awakening | 1028 | [1028-the-legend-of-zelda-links-awakening.json](./1028-the-legend-of-zelda-links-awakening.json) |
+| The Legend of Zelda: Link's Awakening - Dreamer Edition | 136334 | [136334-the-legend-of-zelda-links-awakening-dreamer-edition.json](./136334-the-legend-of-zelda-links-awakening-dreamer-edition.json) |
 | The Legend of Zelda: Link's Awakening DX | 1027 | [1027-the-legend-of-zelda-links-awakening-dx.json](./1027-the-legend-of-zelda-links-awakening-dx.json) |
 | The Legend of Zelda: Link's Awakening Redux | 219081 | [219081-the-legend-of-zelda-links-awakening-redux.json](./219081-the-legend-of-zelda-links-awakening-redux.json) |
 | The Legend of Zelda: Link's Shadow | 269867 | [269867-the-legend-of-zelda-links-shadow.json](./269867-the-legend-of-zelda-links-shadow.json) |
@@ -6983,6 +6989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Extreme Violence | 259250 | [259250-the-sims-4-extreme-violence.json](./259250-the-sims-4-extreme-violence.json) |
 | The Sims 4: Fitness Stuff | 121027 | [121027-the-sims-4-fitness-stuff.json](./121027-the-sims-4-fitness-stuff.json) |
 | The Sims 4: For Rent | 275084 | [275084-the-sims-4-for-rent.json](./275084-the-sims-4-for-rent.json) |
+| The Sims 4: Fun Outside Bundle | 136330 | [136330-the-sims-4-fun-outside-bundle.json](./136330-the-sims-4-fun-outside-bundle.json) |
 | The Sims 4: Get to Work | 13143 | [13143-the-sims-4-get-to-work.json](./13143-the-sims-4-get-to-work.json) |
 | The Sims 4: Get Together | 13144 | [13144-the-sims-4-get-together.json](./13144-the-sims-4-get-together.json) |
 | The Sims 4: Golden Years Kit | 350998 | [350998-the-sims-4-golden-years-kit.json](./350998-the-sims-4-golden-years-kit.json) |
