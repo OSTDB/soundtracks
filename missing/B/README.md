@@ -6013,6 +6013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breach in Space | 245820 | [245820-breach-in-space.json](./245820-breach-in-space.json) |
 | Breach of Contract Reloaded | 89947 | [89947-breach-of-contract-reloaded.json](./89947-breach-of-contract-reloaded.json) |
 | Breach Point | 118823 | [118823-breach-point.json](./118823-breach-point.json) |
+| Breach: Veil Demon DLC | 170327 | [170327-breach-veil-demon-dlc.json](./170327-breach-veil-demon-dlc.json) |
 | Bread | 178027 | [178027-bread.json](./178027-bread.json) |
 | Bread Barbershop Differences | 219819 | [219819-bread-barbershop-differences.json](./219819-bread-barbershop-differences.json) |
 | Bread Fish Clicker | 306637 | [306637-bread-fish-clicker.json](./306637-bread-fish-clicker.json) |
@@ -6959,6 +6960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bungmyeong | 145640 | [145640-bungmyeong.json](./145640-bungmyeong.json) |
 | Bungo to Alchemist | 314458 | [314458-bungo-to-alchemist.json](./314458-bungo-to-alchemist.json) |
 | Bunk.Town | 185446 | [185446-bunk-town.json](./185446-bunk-town.json) |
+| Bunker | 170332 | [170332-bunker.json](./170332-bunker.json) |
 | Bunker | 22780 | [22780-bunker.json](./22780-bunker.json) |
 | Bunker 22 | 203892 | [203892-bunker-22.json](./203892-bunker-22.json) |
 | Bunker 2322 | 196263 | [196263-bunker-2322.json](./196263-bunker-2322.json) |
