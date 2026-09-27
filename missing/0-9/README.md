@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1x1 | 262086 | [262086-1x1.json](./262086-1x1.json) |
 | 2 Bit Operative | 197119 | [197119-2-bit-operative.json](./197119-2-bit-operative.json) |
 | 2 Days to Vegas | 27751 | [27751-2-days-to-vegas.json](./27751-2-days-to-vegas.json) |
+| 2 Disney Games: Disney Sports Skateboarding + Disney Sports Football | 147310 | [147310-2-disney-games-disney-sports-skateboarding-disney-sports-football.json](./147310-2-disney-games-disney-sports-skateboarding-disney-sports-football.json) |
 | 2 Fast 4 Gnomz | 8618 | [8618-2-fast-4-gnomz.json](./8618-2-fast-4-gnomz.json) |
 | 2 Fast 4 You | 25700 | [25700-2-fast-4-you.json](./25700-2-fast-4-you.json) |
 | 2 Foxes and the Puzzling Forest | 185095 | [185095-2-foxes-and-the-puzzling-forest.json](./185095-2-foxes-and-the-puzzling-forest.json) |
@@ -1075,6 +1076,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Sexy Sins | 127921 | [127921-7-sexy-sins.json](./127921-7-sexy-sins.json) |
 | 7 Sins: Lost in Labyrinth | 236243 | [236243-7-sins-lost-in-labyrinth.json](./236243-7-sins-lost-in-labyrinth.json) |
 | 7 Soccer: a sci-fi soccer tale | 88178 | [88178-7-soccer-a-sci-fi-soccer-tale.json](./88178-7-soccer-a-sci-fi-soccer-tale.json) |
+| 7 Souls | 147320 | [147320-7-souls.json](./147320-7-souls.json) |
+| 7 Stories | 147319 | [147319-7-stories.json](./147319-7-stories.json) |
 | 7 Wonders | 89128 | [89128-7-wonders.json](./89128-7-wonders.json) |
 | 7 Years War | 157003 | [157003-7-years-war.json](./157003-7-years-war.json) |
 | 7 Zwerge: Das Brettspiel | 84284 | [84284-7-zwerge-das-brettspiel.json](./84284-7-zwerge-das-brettspiel.json) |
