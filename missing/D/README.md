@@ -566,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Deception: Chapter 2 | 168826 | [168826-dark-deception-chapter-2.json](./168826-dark-deception-chapter-2.json) |
 | Dark Deception: Chapter 3 | 168827 | [168827-dark-deception-chapter-3.json](./168827-dark-deception-chapter-3.json) |
 | Dark Deception: Chapter 4 | 168829 | [168829-dark-deception-chapter-4.json](./168829-dark-deception-chapter-4.json) |
+| Dark Deception: Complete Edition | 169206 | [169206-dark-deception-complete-edition.json](./169206-dark-deception-complete-edition.json) |
 | Dark Deception: Monsters & Mortals - House of Ashes | 292864 | [292864-dark-deception-monsters-and-mortals-house-of-ashes.json](./292864-dark-deception-monsters-and-mortals-house-of-ashes.json) |
 | Dark Deception: Monsters & Mortals - The Coma 2: Vicious Sisters | 292869 | [292869-dark-deception-monsters-and-mortals-the-coma-2-vicious-sisters.json](./292869-dark-deception-monsters-and-mortals-the-coma-2-vicious-sisters.json) |
 | Dark Decline | 269271 | [269271-dark-decline.json](./269271-dark-decline.json) |
@@ -7604,6 +7605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light 2: Stay Human - Collector's Edition | 150146 | [150146-dying-light-2-stay-human-collectors-edition.json](./150146-dying-light-2-stay-human-collectors-edition.json) |
 | Dying Light 2: Stay Human - Reloaded Edition | 322800 | [322800-dying-light-2-stay-human-reloaded-edition.json](./322800-dying-light-2-stay-human-reloaded-edition.json) |
 | Dying Light 2: Stay Human - The Walking Dead Bundle | 259068 | [259068-dying-light-2-stay-human-the-walking-dead-bundle.json](./259068-dying-light-2-stay-human-the-walking-dead-bundle.json) |
+| Dying Light 2: Stay Human - Ultimate Edition | 169196 | [169196-dying-light-2-stay-human-ultimate-edition.json](./169196-dying-light-2-stay-human-ultimate-edition.json) |
 | Dying Light: Definitive Edition | 205006 | [205006-dying-light-definitive-edition.json](./205006-dying-light-definitive-edition.json) |
 | Dying Light: Dieselpunk Bundle | 224128 | [224128-dying-light-dieselpunk-bundle.json](./224128-dying-light-dieselpunk-bundle.json) |
 | Dying Light: Enhanced Edition | 248317 | [248317-dying-light-enhanced-edition.json](./248317-dying-light-enhanced-edition.json) |
