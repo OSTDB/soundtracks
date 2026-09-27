@@ -1881,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AK-xolotl: Wars | 336705 | [336705-ak-xolotl-wars.json](./336705-ak-xolotl-wars.json) |
 | Aka | 159823 | [159823-aka.json](./159823-aka.json) |
 | Aka Manto | 121558 | [121558-aka-manto.json](./121558-aka-manto.json) |
+| Aka Ninja VR | 151087 | [151087-aka-ninja-vr.json](./151087-aka-ninja-vr.json) |
 | Aka no Sekai | 151528 | [151528-aka-no-sekai.json](./151528-aka-no-sekai.json) |
 | Akagawa Jirou no Yuurei Ressha | 48606 | [48606-akagawa-jirou-no-yuurei-ressha.json](./48606-akagawa-jirou-no-yuurei-ressha.json) |
 | Akagi: Touhaiden | 254431 | [254431-akagi-touhaiden.json](./254431-akagi-touhaiden.json) |
@@ -2060,6 +2061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemist Adventure | 137444 | [137444-alchemist-adventure.json](./137444-alchemist-adventure.json) |
 | Alchemist Chronicles | 405574 | [405574-alchemist-chronicles.json](./405574-alchemist-chronicles.json) |
 | Alchemist code | 75134 | [75134-alchemist-code.json](./75134-alchemist-code.json) |
+| Alchemist of Pipiforest | 151092 | [151092-alchemist-of-pipiforest.json](./151092-alchemist-of-pipiforest.json) |
 | Alchemist of War | 187202 | [187202-alchemist-of-war.json](./187202-alchemist-of-war.json) |
 | Alchemist Shop Simulator | 312149 | [312149-alchemist-shop-simulator.json](./312149-alchemist-shop-simulator.json) |
 | Alchemist Tris's Desire | 211417 | [211417-alchemist-triss-desire.json](./211417-alchemist-triss-desire.json) |
@@ -2118,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alegraz | 391895 | [391895-alegraz.json](./391895-alegraz.json) |
 | Alehouse Tavern Simulator | 334489 | [334489-alehouse-tavern-simulator.json](./334489-alehouse-tavern-simulator.json) |
 | Alekhine's Gun | 15691 | [15691-alekhines-gun.json](./15691-alekhines-gun.json) |
+| Alekon | 151066 | [151066-alekon.json](./151066-alekon.json) |
 | Aleon's Nightmare | 211408 | [211408-aleons-nightmare.json](./211408-aleons-nightmare.json) |
 | Aleon's Nightmare 2 | 239663 | [239663-aleons-nightmare-2.json](./239663-aleons-nightmare-2.json) |
 | Aleph | 217851 | [217851-aleph.json](./217851-aleph.json) |
@@ -3886,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1701 A.D.: Gold Edition | 180265 | [180265-anno-1701-a-d-gold-edition.json](./180265-anno-1701-a-d-gold-edition.json) |
 | Anno 1701: Limited Edition | 180266 | [180266-anno-1701-limited-edition.json](./180266-anno-1701-limited-edition.json) |
 | Anno 1800: Aesthetic Artisans Bundle | 317365 | [317365-anno-1800-aesthetic-artisans-bundle.json](./317365-anno-1800-aesthetic-artisans-bundle.json) |
+| Anno 1800: Bright Harvest | 151058 | [151058-anno-1800-bright-harvest.json](./151058-anno-1800-bright-harvest.json) |
 | Anno 1800: Complete Edition Year 3 | 146123 | [146123-anno-1800-complete-edition-year-3.json](./146123-anno-1800-complete-edition-year-3.json) |
 | Anno 1800: Complete Edition Year 4 | 197663 | [197663-anno-1800-complete-edition-year-4.json](./197663-anno-1800-complete-edition-year-4.json) |
 | Anno 1800: Cosmetic Pack Bundle | 227937 | [227937-anno-1800-cosmetic-pack-bundle.json](./227937-anno-1800-cosmetic-pack-bundle.json) |
@@ -3897,6 +3901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: Gold Edition Year 3 | 146136 | [146136-anno-1800-gold-edition-year-3.json](./146136-anno-1800-gold-edition-year-3.json) |
 | Anno 1800: Gold Edition Year 4 | 197662 | [197662-anno-1800-gold-edition-year-4.json](./197662-anno-1800-gold-edition-year-4.json) |
 | Anno 1800: Industrial Immersion Bundle | 317367 | [317367-anno-1800-industrial-immersion-bundle.json](./317367-anno-1800-industrial-immersion-bundle.json) |
+| Anno 1800: Land of Lions | 151061 | [151061-anno-1800-land-of-lions.json](./151061-anno-1800-land-of-lions.json) |
 | Anno 1800: New World Rising | 197351 | [197351-anno-1800-new-world-rising.json](./197351-anno-1800-new-world-rising.json) |
 | Anno 1800: Old Town Pack | 227938 | [227938-anno-1800-old-town-pack.json](./227938-anno-1800-old-town-pack.json) |
 | Anno 1800: Seeds of Change | 197349 | [197349-anno-1800-seeds-of-change.json](./197349-anno-1800-seeds-of-change.json) |
@@ -4105,6 +4110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti-TuringTest | 371914 | [371914-anti-turingtest.json](./371914-anti-turingtest.json) |
 | AntiAir | 304199 | [304199-antiair.json](./304199-antiair.json) |
 | Antiban | 302664 | [302664-antiban.json](./302664-antiban.json) |
+| Antibody | 151081 | [151081-antibody.json](./151081-antibody.json) |
 | Antichamber | 2064 | [2064-antichamber.json](./2064-antichamber.json) |
 | Antichromatic | 112323 | [112323-antichromatic.json](./112323-antichromatic.json) |
 | Anticipating Murder | 316768 | [316768-anticipating-murder.json](./316768-anticipating-murder.json) |
