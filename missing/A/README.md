@@ -3451,6 +3451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel of Death | 269285 | [269285-angel-of-death.json](./269285-angel-of-death.json) |
 | Angel Poring | 74326 | [74326-angel-poring.json](./74326-angel-poring.json) |
 | Angel Present | 267405 | [267405-angel-present.json](./267405-angel-present.json) |
+| Angel Sex Pet | 158038 | [158038-angel-sex-pet.json](./158038-angel-sex-pet.json) |
 | Angel Spirit | 293088 | [293088-angel-spirit.json](./293088-angel-spirit.json) |
 | Angel Symphony | 251051 | [251051-angel-symphony.json](./251051-angel-symphony.json) |
 | Angel Tears | 169444 | [169444-angel-tears.json](./169444-angel-tears.json) |
