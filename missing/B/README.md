@@ -2821,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Dreams | 192681 | [192681-beyond-dreams.json](./192681-beyond-dreams.json) |
 | Beyond El Dorado | 58841 | [58841-beyond-el-dorado.json](./58841-beyond-el-dorado.json) |
 | Beyond Enemy Lines: Covert Operations | 115467 | [115467-beyond-enemy-lines-covert-operations.json](./115467-beyond-enemy-lines-covert-operations.json) |
+| Beyond Enemy Lines: Essentials | 147869 | [147869-beyond-enemy-lines-essentials.json](./147869-beyond-enemy-lines-essentials.json) |
 | Beyond Enemy Lines: Operation Arctic Hawk | 115599 | [115599-beyond-enemy-lines-operation-arctic-hawk.json](./115599-beyond-enemy-lines-operation-arctic-hawk.json) |
 | Beyond Enemy Lines: Remastered Edition | 132608 | [132608-beyond-enemy-lines-remastered-edition.json](./132608-beyond-enemy-lines-remastered-edition.json) |
 | Beyond Fighting 3 | 56150 | [56150-beyond-fighting-3.json](./56150-beyond-fighting-3.json) |
