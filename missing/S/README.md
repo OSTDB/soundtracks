@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad But Ded | 185527 | [185527-sad-but-ded.json](./185527-sad-but-ded.json) |
 | Sad Ghouls | 194655 | [194655-sad-ghouls.json](./194655-sad-ghouls.json) |
 | Sad RPG | 124135 | [124135-sad-rpg.json](./124135-sad-rpg.json) |
+| Sad Satan | 136346 | [136346-sad-satan.json](./136346-sad-satan.json) |
 | Sad Virus Asia | 403181 | [403181-sad-virus-asia.json](./403181-sad-virus-asia.json) |
 | Sad Virus Darkland | 412510 | [412510-sad-virus-darkland.json](./412510-sad-virus-darkland.json) |
 | Sad Virus Foodland | 367389 | [367389-sad-virus-foodland.json](./367389-sad-virus-foodland.json) |
@@ -463,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salt 2: Shores of Gold | 151169 | [151169-salt-2-shores-of-gold.json](./151169-salt-2-shores-of-gold.json) |
 | Salt and Sacrifice | 152065 | [152065-salt-and-sacrifice.json](./152065-salt-and-sacrifice.json) |
 | Salt and Sails | 153921 | [153921-salt-and-sails.json](./153921-salt-and-sails.json) |
+| Salt and Sanctuary: Drowned Tome Edition | 136349 | [136349-salt-and-sanctuary-drowned-tome-edition.json](./136349-salt-and-sanctuary-drowned-tome-edition.json) |
 | SALT: Super Awesome Laser Tag | 379869 | [379869-salt-super-awesome-laser-tag.json](./379869-salt-super-awesome-laser-tag.json) |
 | Salted | 372537 | [372537-salted.json](./372537-salted.json) |
 | Salthe | 248139 | [248139-salthe.json](./248139-salthe.json) |
@@ -2321,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senpie | 374048 | [374048-senpie.json](./374048-senpie.json) |
 | Senran Kagura | 102788 | [102788-senran-kagura.json](./102788-senran-kagura.json) |
 | Senran Kagura Bon Appétit!: Full Course | 26008 | [26008-senran-kagura-bon-appetit-full-course.json](./26008-senran-kagura-bon-appetit-full-course.json) |
+| Senran Kagura Burst Re:Newal - At the Seams Edition | 136354 | [136354-senran-kagura-burst-re-newal-at-the-seams-edition.json](./136354-senran-kagura-burst-re-newal-at-the-seams-edition.json) |
 | Senran Kagura Burst Re:Newal - Miyabi Character and Campaign | 248315 | [248315-senran-kagura-burst-re-newal-miyabi-character-and-campaign.json](./248315-senran-kagura-burst-re-newal-miyabi-character-and-campaign.json) |
 | Senran Kagura Burst Re:Newal - Yumi Character and Campaign | 248311 | [248311-senran-kagura-burst-re-newal-yumi-character-and-campaign.json](./248311-senran-kagura-burst-re-newal-yumi-character-and-campaign.json) |
 | Senran Kagura Reflexions | 28129 | [28129-senran-kagura-reflexions.json](./28129-senran-kagura-reflexions.json) |
@@ -11059,6 +11062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stegosaurs | 185028 | [185028-stegosaurs.json](./185028-stegosaurs.json) |
 | Steinkraft | 320162 | [320162-steinkraft.json](./320162-steinkraft.json) |
 | Steins;Gate Double Pack | 141877 | [141877-steins-gate-double-pack.json](./141877-steins-gate-double-pack.json) |
+| Steins;Gate Elite: Limited Edition | 136329 | [136329-steins-gate-elite-limited-edition.json](./136329-steins-gate-elite-limited-edition.json) |
 | Steins;Gate Re:Boot | 320972 | [320972-steins-gate-re-boot.json](./320972-steins-gate-re-boot.json) |
 | Steins;Gate x Sanrio Characters: Kaikou Souguu - Goldig Party | 194285 | [194285-steins-gate-x-sanrio-characters-kaikou-souguu-goldig-party.json](./194285-steins-gate-x-sanrio-characters-kaikou-souguu-goldig-party.json) |
 | Steins;Gate: Divergencies Assort | 113475 | [113475-steins-gate-divergencies-assort.json](./113475-steins-gate-divergencies-assort.json) |
@@ -13928,6 +13932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Sackboy Moveset | 395026 | [395026-super-smash-bros-ultimate-sackboy-moveset.json](./395026-super-smash-bros-ultimate-sackboy-moveset.json) |
 | Super Smash Bros. Ultimate: Shy Guy Moveset | 395032 | [395032-super-smash-bros-ultimate-shy-guy-moveset.json](./395032-super-smash-bros-ultimate-shy-guy-moveset.json) |
 | Super Smash Bros. Ultimate: Silver Moveset | 268014 | [268014-super-smash-bros-ultimate-silver-moveset.json](./268014-super-smash-bros-ultimate-silver-moveset.json) |
+| Super Smash Bros. Ultimate: Special Edition | 136326 | [136326-super-smash-bros-ultimate-special-edition.json](./136326-super-smash-bros-ultimate-special-edition.json) |
 | Super Smash Bros. Ultimate: Spirit Board Challenge Pack 3 | 342877 | [342877-super-smash-bros-ultimate-spirit-board-challenge-pack-3.json](./342877-super-smash-bros-ultimate-spirit-board-challenge-pack-3.json) |
 | Super Smash Bros. Ultimate: Spirit Board Challenge Pack 4 | 342876 | [342876-super-smash-bros-ultimate-spirit-board-challenge-pack-4.json](./342876-super-smash-bros-ultimate-spirit-board-challenge-pack-4.json) |
 | Super Smash Bros. Ultimate: Susie Moveset | 395025 | [395025-super-smash-bros-ultimate-susie-moveset.json](./395025-super-smash-bros-ultimate-susie-moveset.json) |
