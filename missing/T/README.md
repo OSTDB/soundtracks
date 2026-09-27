@@ -4370,6 +4370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Haunted Graveyard | 110343 | [110343-the-haunted-graveyard.json](./110343-the-haunted-graveyard.json) |
 | The Haunted Hospice | 259285 | [259285-the-haunted-hospice.json](./259285-the-haunted-hospice.json) |
 | The Haunted House | 314061 | [314061-the-haunted-house.json](./314061-the-haunted-house.json) |
+| The Haunted House of Doom | 161693 | [161693-the-haunted-house-of-doom.json](./161693-the-haunted-house-of-doom.json) |
 | The Haunted House: Dark Island | 392259 | [392259-the-haunted-house-dark-island.json](./392259-the-haunted-house-dark-island.json) |
 | The Haunted Song | 229056 | [229056-the-haunted-song.json](./229056-the-haunted-song.json) |
 | The Haunted: Hells Reach - The Island | 193226 | [193226-the-haunted-hells-reach-the-island.json](./193226-the-haunted-hells-reach-the-island.json) |
@@ -7299,6 +7300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terrible Old Man: Collector's Edition | 156100 | [156100-the-terrible-old-man-collectors-edition.json](./156100-the-terrible-old-man-collectors-edition.json) |
 | The Terror At Freddy's | 338912 | [338912-the-terror-at-freddys.json](./338912-the-terror-at-freddys.json) |
 | The Terrors of Trantoss | 232557 | [232557-the-terrors-of-trantoss.json](./232557-the-terrors-of-trantoss.json) |
+| The test of beauty | 161645 | [161645-the-test-of-beauty.json](./161645-the-test-of-beauty.json) |
 | The Test: Hypothesis Rising | 132660 | [132660-the-test-hypothesis-rising.json](./132660-the-test-hypothesis-rising.json) |
 | The Test: Reimagined | 389115 | [389115-the-test-reimagined.json](./389115-the-test-reimagined.json) |
 | The Testament of Sherlock Holmes | 6164 | [6164-the-testament-of-sherlock-holmes.json](./6164-the-testament-of-sherlock-holmes.json) |
@@ -8011,6 +8013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of the Candy Girl | 224538 | [224538-the-world-of-the-candy-girl.json](./224538-the-world-of-the-candy-girl.json) |
 | The World of War II: Frontlines of History | 283233 | [283233-the-world-of-war-ii-frontlines-of-history.json](./283233-the-world-of-war-ii-frontlines-of-history.json) |
 | The World to Reverse. | 125983 | [125983-the-world-to-reverse.json](./125983-the-world-to-reverse.json) |
+| The World We Saved | 161646 | [161646-the-world-we-saved.json](./161646-the-world-we-saved.json) |
 | The World's Hardest Game | 141086 | [141086-the-worlds-hardest-game.json](./141086-the-worlds-hardest-game.json) |
 | The World's Hardest Game 2 | 224510 | [224510-the-worlds-hardest-game-2.json](./224510-the-worlds-hardest-game-2.json) |
 | The World's Hardest Game 3D | 169757 | [169757-the-worlds-hardest-game-3d.json](./169757-the-worlds-hardest-game-3d.json) |
@@ -8758,6 +8761,41 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger & Bunny: Hero's Day | 63842 | [63842-tiger-and-bunny-heros-day.json](./63842-tiger-and-bunny-heros-day.json) |
 | Tiger Casino & Slot Game | 373625 | [373625-tiger-casino-and-slot-game.json](./373625-tiger-casino-and-slot-game.json) |
 | Tiger Eye Part I: Curse of the Riddle Box | 206789 | [206789-tiger-eye-part-i-curse-of-the-riddle-box.json](./206789-tiger-eye-part-i-curse-of-the-riddle-box.json) |
+| Tiger Fighter 1931: MP001 | 161690 | [161690-tiger-fighter-1931-mp001.json](./161690-tiger-fighter-1931-mp001.json) |
+| Tiger Fighter 1931: MP002 | 161682 | [161682-tiger-fighter-1931-mp002.json](./161682-tiger-fighter-1931-mp002.json) |
+| Tiger Fighter 1931: MP003 | 161648 | [161648-tiger-fighter-1931-mp003.json](./161648-tiger-fighter-1931-mp003.json) |
+| Tiger Fighter 1931: MP004 | 161674 | [161674-tiger-fighter-1931-mp004.json](./161674-tiger-fighter-1931-mp004.json) |
+| Tiger Fighter 1931: MP005 | 161649 | [161649-tiger-fighter-1931-mp005.json](./161649-tiger-fighter-1931-mp005.json) |
+| Tiger Fighter 1931: MP006 | 161660 | [161660-tiger-fighter-1931-mp006.json](./161660-tiger-fighter-1931-mp006.json) |
+| Tiger Fighter 1931: MP007 | 161656 | [161656-tiger-fighter-1931-mp007.json](./161656-tiger-fighter-1931-mp007.json) |
+| Tiger Fighter 1931: MP008 | 161680 | [161680-tiger-fighter-1931-mp008.json](./161680-tiger-fighter-1931-mp008.json) |
+| Tiger Fighter 1931: MP009 | 161670 | [161670-tiger-fighter-1931-mp009.json](./161670-tiger-fighter-1931-mp009.json) |
+| Tiger Fighter 1931: MP010 | 161668 | [161668-tiger-fighter-1931-mp010.json](./161668-tiger-fighter-1931-mp010.json) |
+| Tiger Fighter 1931: MP011 | 161657 | [161657-tiger-fighter-1931-mp011.json](./161657-tiger-fighter-1931-mp011.json) |
+| Tiger Fighter 1931: MP012 | 161659 | [161659-tiger-fighter-1931-mp012.json](./161659-tiger-fighter-1931-mp012.json) |
+| Tiger Fighter 1931: MP013 | 161681 | [161681-tiger-fighter-1931-mp013.json](./161681-tiger-fighter-1931-mp013.json) |
+| Tiger Fighter 1931: MP014 | 161679 | [161679-tiger-fighter-1931-mp014.json](./161679-tiger-fighter-1931-mp014.json) |
+| Tiger Fighter 1931: MP015 | 161658 | [161658-tiger-fighter-1931-mp015.json](./161658-tiger-fighter-1931-mp015.json) |
+| Tiger Fighter 1931: MP016 | 161672 | [161672-tiger-fighter-1931-mp016.json](./161672-tiger-fighter-1931-mp016.json) |
+| Tiger Fighter 1931: MP017 | 161664 | [161664-tiger-fighter-1931-mp017.json](./161664-tiger-fighter-1931-mp017.json) |
+| Tiger Fighter 1931: MP018 | 161686 | [161686-tiger-fighter-1931-mp018.json](./161686-tiger-fighter-1931-mp018.json) |
+| Tiger Fighter 1931: MP019 | 161673 | [161673-tiger-fighter-1931-mp019.json](./161673-tiger-fighter-1931-mp019.json) |
+| Tiger Fighter 1931: MP020 | 161684 | [161684-tiger-fighter-1931-mp020.json](./161684-tiger-fighter-1931-mp020.json) |
+| Tiger Fighter 1931: MP021 | 161653 | [161653-tiger-fighter-1931-mp021.json](./161653-tiger-fighter-1931-mp021.json) |
+| Tiger Fighter 1931: MP022 | 161677 | [161677-tiger-fighter-1931-mp022.json](./161677-tiger-fighter-1931-mp022.json) |
+| Tiger Fighter 1931: MP023 | 161687 | [161687-tiger-fighter-1931-mp023.json](./161687-tiger-fighter-1931-mp023.json) |
+| Tiger Fighter 1931: MP024 | 161675 | [161675-tiger-fighter-1931-mp024.json](./161675-tiger-fighter-1931-mp024.json) |
+| Tiger Fighter 1931: MP025 | 161661 | [161661-tiger-fighter-1931-mp025.json](./161661-tiger-fighter-1931-mp025.json) |
+| Tiger Fighter 1931: MP026 | 161663 | [161663-tiger-fighter-1931-mp026.json](./161663-tiger-fighter-1931-mp026.json) |
+| Tiger Fighter 1931: MP027 | 161683 | [161683-tiger-fighter-1931-mp027.json](./161683-tiger-fighter-1931-mp027.json) |
+| Tiger Fighter 1931: MP028 | 161665 | [161665-tiger-fighter-1931-mp028.json](./161665-tiger-fighter-1931-mp028.json) |
+| Tiger Fighter 1931: MP029 | 161650 | [161650-tiger-fighter-1931-mp029.json](./161650-tiger-fighter-1931-mp029.json) |
+| Tiger Fighter 1931: MP030 | 161685 | [161685-tiger-fighter-1931-mp030.json](./161685-tiger-fighter-1931-mp030.json) |
+| Tiger Fighter 1931: MP031 | 161689 | [161689-tiger-fighter-1931-mp031.json](./161689-tiger-fighter-1931-mp031.json) |
+| Tiger Fighter 1931: MP032 | 161676 | [161676-tiger-fighter-1931-mp032.json](./161676-tiger-fighter-1931-mp032.json) |
+| Tiger Fighter 1931: MP033 | 161666 | [161666-tiger-fighter-1931-mp033.json](./161666-tiger-fighter-1931-mp033.json) |
+| Tiger Fighter 1931: MP034 | 161651 | [161651-tiger-fighter-1931-mp034.json](./161651-tiger-fighter-1931-mp034.json) |
+| Tiger Fighter 1931: MP035 | 161654 | [161654-tiger-fighter-1931-mp035.json](./161654-tiger-fighter-1931-mp035.json) |
 | Tiger Fighter 1931: MP061 | 173757 | [173757-tiger-fighter-1931-mp061.json](./173757-tiger-fighter-1931-mp061.json) |
 | Tiger Fighter 1931: MP062 | 173742 | [173742-tiger-fighter-1931-mp062.json](./173742-tiger-fighter-1931-mp062.json) |
 | Tiger Fighter 1931: MP065 | 173746 | [173746-tiger-fighter-1931-mp065.json](./173746-tiger-fighter-1931-mp065.json) |
@@ -8775,6 +8813,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Fighter 1931: MP094 | 173747 | [173747-tiger-fighter-1931-mp094.json](./173747-tiger-fighter-1931-mp094.json) |
 | Tiger Fighter 1931: MP099 | 173745 | [173745-tiger-fighter-1931-mp099.json](./173745-tiger-fighter-1931-mp099.json) |
 | Tiger Fighter 1931: Sunset | 121476 | [121476-tiger-fighter-1931-sunset.json](./121476-tiger-fighter-1931-sunset.json) |
+| Tiger Fighter 1931: Sunset MP001 | 161692 | [161692-tiger-fighter-1931-sunset-mp001.json](./161692-tiger-fighter-1931-sunset-mp001.json) |
+| Tiger Fighter 1931: Sunset MP002 | 161688 | [161688-tiger-fighter-1931-sunset-mp002.json](./161688-tiger-fighter-1931-sunset-mp002.json) |
+| Tiger Fighter 1931: Sunset MP003 | 161669 | [161669-tiger-fighter-1931-sunset-mp003.json](./161669-tiger-fighter-1931-sunset-mp003.json) |
+| Tiger Fighter 1931: Sunset MP004 | 161691 | [161691-tiger-fighter-1931-sunset-mp004.json](./161691-tiger-fighter-1931-sunset-mp004.json) |
+| Tiger Fighter 1931: Sunset MP005 | 161667 | [161667-tiger-fighter-1931-sunset-mp005.json](./161667-tiger-fighter-1931-sunset-mp005.json) |
+| Tiger Fighter 1931: Sunset MP006 | 161655 | [161655-tiger-fighter-1931-sunset-mp006.json](./161655-tiger-fighter-1931-sunset-mp006.json) |
+| Tiger Fighter 1931: Sunset MP007 | 161678 | [161678-tiger-fighter-1931-sunset-mp007.json](./161678-tiger-fighter-1931-sunset-mp007.json) |
+| Tiger Fighter 1931: Sunset MP008 | 161662 | [161662-tiger-fighter-1931-sunset-mp008.json](./161662-tiger-fighter-1931-sunset-mp008.json) |
+| Tiger Fighter 1931: Sunset MP009 | 161652 | [161652-tiger-fighter-1931-sunset-mp009.json](./161652-tiger-fighter-1931-sunset-mp009.json) |
+| Tiger Fighter 1931: Sunset MP010 | 161671 | [161671-tiger-fighter-1931-sunset-mp010.json](./161671-tiger-fighter-1931-sunset-mp010.json) |
 | Tiger Fighter 1931: Sunset MP021 | 189567 | [189567-tiger-fighter-1931-sunset-mp021.json](./189567-tiger-fighter-1931-sunset-mp021.json) |
 | Tiger Fighter 1931: Sunset MP022 | 189568 | [189568-tiger-fighter-1931-sunset-mp022.json](./189568-tiger-fighter-1931-sunset-mp022.json) |
 | Tiger Fighter 1931: Sunset MP024 | 189557 | [189557-tiger-fighter-1931-sunset-mp024.json](./189557-tiger-fighter-1931-sunset-mp024.json) |
