@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Flight: Future Battles | 263236 | [263236-paper-flight-future-battles.json](./263236-paper-flight-future-battles.json) |
 | Paper Flights | 235224 | [235224-paper-flights.json](./235224-paper-flights.json) |
 | Paper Galaxy | 64129 | [64129-paper-galaxy.json](./64129-paper-galaxy.json) |
+| Paper Glider | 144878 | [144878-paper-glider.json](./144878-paper-glider.json) |
 | Paper Hero Manager | 279109 | [279109-paper-hero-manager.json](./279109-paper-hero-manager.json) |
 | Paper Heroes | 174743 | [174743-paper-heroes.json](./174743-paper-heroes.json) |
 | Paper io 2 | 263544 | [263544-paper-io-2.json](./263544-paper-io-2.json) |
@@ -2311,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharos | 340568 | [340568-pharos.json](./340568-pharos.json) |
 | Phase | 377172 | [377172-phase.json](./377172-phase.json) |
 | Phase | 72078 | [72078-phase.json](./72078-phase.json) |
+| Phase 10 Online | 144843 | [144843-phase-10-online.json](./144843-phase-10-online.json) |
 | Phase Cross | 347787 | [347787-phase-cross.json](./347787-phase-cross.json) |
 | Phase Edge | 53458 | [53458-phase-edge.json](./53458-phase-edge.json) |
 | Phase Line: Raider Assault | 239667 | [239667-phase-line-raider-assault.json](./239667-phase-line-raider-assault.json) |
