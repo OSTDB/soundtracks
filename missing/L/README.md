@@ -1545,6 +1545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Learn Japanese! Kanji Sudoku | 306440 | [306440-lets-learn-japanese-kanji-sudoku.json](./306440-lets-learn-japanese-kanji-sudoku.json) |
 | Let's Learn Korean! Hangul | 367521 | [367521-lets-learn-korean-hangul.json](./367521-lets-learn-korean-hangul.json) |
 | Let's Learn Korean! Vocabulary | 367522 | [367522-lets-learn-korean-vocabulary.json](./367522-lets-learn-korean-vocabulary.json) |
+| Let's Learn Shogi | 168643 | [168643-lets-learn-shogi.json](./168643-lets-learn-shogi.json) |
 | Let's Learn Xaad Kil | 303627 | [303627-lets-learn-xaad-kil.json](./303627-lets-learn-xaad-kil.json) |
 | Let's Mahjong | 388356 | [388356-lets-mahjong.json](./388356-lets-mahjong.json) |
 | Let's Meat Adam 2 | 180134 | [180134-lets-meat-adam-2.json](./180134-lets-meat-adam-2.json) |
@@ -1929,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light & Shadow | 226425 | [226425-light-and-shadow.json](./226425-light-and-shadow.json) |
 | Light A Way | 80873 | [80873-light-a-way.json](./80873-light-a-way.json) |
 | Light and Dance VR | 29904 | [29904-light-and-dance-vr.json](./29904-light-and-dance-vr.json) |
+| Light and Embers | 168660 | [168660-light-and-embers.json](./168660-light-and-embers.json) |
 | Light and Shadow: Schatten über Empyria | 295902 | [295902-light-and-shadow-schatten-uber-empyria.json](./295902-light-and-shadow-schatten-uber-empyria.json) |
 | Light and Shadows: Pocket Islands | 265751 | [265751-light-and-shadows-pocket-islands.json](./265751-light-and-shadows-pocket-islands.json) |
 | Light and Sneak | 373745 | [373745-light-and-sneak.json](./373745-light-and-sneak.json) |
