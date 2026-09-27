@@ -7303,6 +7303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Liberator | 203809 | [203809-dungeon-liberator.json](./203809-dungeon-liberator.json) |
 | Dungeon Limbus | 142280 | [142280-dungeon-limbus.json](./142280-dungeon-limbus.json) |
 | Dungeon Link | 56140 | [56140-dungeon-link.json](./56140-dungeon-link.json) |
+| Dungeon Looter | 155002 | [155002-dungeon-looter.json](./155002-dungeon-looter.json) |
 | Dungeon Lord | 134610 | [134610-dungeon-lord.json](./134610-dungeon-lord.json) |
 | Dungeon Lords MMXII | 138038 | [138038-dungeon-lords-mmxii.json](./138038-dungeon-lords-mmxii.json) |
 | Dungeon Lords: Collector's Edition | 138039 | [138039-dungeon-lords-collectors-edition.json](./138039-dungeon-lords-collectors-edition.json) |
