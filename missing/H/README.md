@@ -1475,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven On Jupiter | 327384 | [327384-heaven-on-jupiter.json](./327384-heaven-on-jupiter.json) |
 | Heaven Over It | 304029 | [304029-heaven-over-it.json](./304029-heaven-over-it.json) |
 | Heaven Slash | 139372 | [139372-heaven-slash.json](./139372-heaven-slash.json) |
+| Heaven's Bazar: Online | 154997 | [154997-heavens-bazar-online.json](./154997-heavens-bazar-online.json) |
 | Heaven's Door | 231057 | [231057-heavens-door.json](./231057-heavens-door.json) |
 | Heaven's Glaive | 387362 | [387362-heavens-glaive.json](./387362-heavens-glaive.json) |
 | Heaven's Grave | 121473 | [121473-heavens-grave.json](./121473-heavens-grave.json) |
@@ -2102,6 +2103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Lust | 256923 | [256923-hentai-lust.json](./256923-hentai-lust.json) |
 | Hentai MagicalGirl | 237403 | [237403-hentai-magicalgirl.json](./237403-hentai-magicalgirl.json) |
 | Hentai Maid Club | 149429 | [149429-hentai-maid-club.json](./149429-hentai-maid-club.json) |
+| Hentai Match 3 | 155000 | [155000-hentai-match-3.json](./155000-hentai-match-3.json) |
 | Hentai MatureCat | 243162 | [243162-hentai-maturecat.json](./243162-hentai-maturecat.json) |
 | Hentai Maya | 265572 | [265572-hentai-maya.json](./265572-hentai-maya.json) |
 | Hentai Memorama | 112775 | [112775-hentai-memorama.json](./112775-hentai-memorama.json) |
