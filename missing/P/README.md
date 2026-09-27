@@ -2659,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross: Lord of the Nazarick | 120899 | [120899-picross-lord-of-the-nazarick.json](./120899-picross-lord-of-the-nazarick.json) |
 | Picross.io | 126640 | [126640-picross-io.json](./126640-picross-io.json) |
 | Picscape | 339347 | [339347-picscape.json](./339347-picscape.json) |
+| Pictassembler | 127178 | [127178-pictassembler.json](./127178-pictassembler.json) |
 | Picterra | 305957 | [305957-picterra.json](./305957-picterra.json) |
 | Pictlogica Final Fantasy: Nearly Equal | 343426 | [343426-pictlogica-final-fantasy-nearly-equal.json](./343426-pictlogica-final-fantasy-nearly-equal.json) |
 | PictoImage | 84824 | [84824-pictoimage.json](./84824-pictoimage.json) |
@@ -5021,6 +5022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyemisokos | 205572 | [205572-polyemisokos.json](./205572-polyemisokos.json) |
 | Polyfield WW2 | 102148 | [102148-polyfield-ww2.json](./102148-polyfield-ww2.json) |
 | PolyFight | 316278 | [316278-polyfight.json](./316278-polyfight.json) |
+| Polyfuru feat. Marinasu β | 127179 | [127179-polyfuru-feat-marinasu.json](./127179-polyfuru-feat-marinasu.json) |
 | Polygeddon: Survive | 248035 | [248035-polygeddon-survive.json](./248035-polygeddon-survive.json) |
 | Polyglot Language Learning Quiz | 370760 | [370760-polyglot-language-learning-quiz.json](./370760-polyglot-language-learning-quiz.json) |
 | Polygon | 130203 | [130203-polygon.json](./130203-polygon.json) |
@@ -5460,6 +5462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pot Farm - Grass Roots | 39215 | [39215-pot-farm-grass-roots.json](./39215-pot-farm-grass-roots.json) |
 | Pot Farmer | 235972 | [235972-pot-farmer.json](./235972-pot-farmer.json) |
 | Potat | 372535 | [372535-potat.json](./372535-potat.json) |
+| Potata: Chapter One | 127148 | [127148-potata-chapter-one.json](./127148-potata-chapter-one.json) |
 | Potato | 314306 | [314306-potato.json](./314306-potato.json) |
 | Potato Lagoon | 178087 | [178087-potato-lagoon.json](./178087-potato-lagoon.json) |
 | Potato Mash! | 238593 | [238593-potato-mash.json](./238593-potato-mash.json) |
