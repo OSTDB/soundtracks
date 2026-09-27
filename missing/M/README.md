@@ -682,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Valkyrie Lyristia | 153949 | [153949-magical-valkyrie-lyristia.json](./153949-magical-valkyrie-lyristia.json) |
 | Magical Zunou Power!! DS | 70411 | [70411-magical-zunou-power-ds.json](./70411-magical-zunou-power-ds.json) |
 | Magicalic Sky High: Soratobu Houki ni Omoi wo Nosete | 194554 | [194554-magicalic-sky-high-soratobu-houki-ni-omoi-wo-nosete.json](./194554-magicalic-sky-high-soratobu-houki-ni-omoi-wo-nosete.json) |
+| Magicami | 150593 | [150593-magicami.json](./150593-magicami.json) |
 | MagiCarnage | 211730 | [211730-magicarnage.json](./211730-magicarnage.json) |
 | MagiCats Builder: Infinite Pack | 170312 | [170312-magicats-builder-infinite-pack.json](./170312-magicats-builder-infinite-pack.json) |
 | Magician | 94209 | [94209-magician.json](./94209-magician.json) |
@@ -2419,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matou no Houkai: The Hero of Babel | 64352 | [64352-matou-no-houkai-the-hero-of-babel.json](./64352-matou-no-houkai-the-hero-of-babel.json) |
 | Matricon: Monopoly | 230531 | [230531-matricon-monopoly.json](./230531-matricon-monopoly.json) |
 | Matrix Bullet | 266766 | [266766-matrix-bullet.json](./266766-matrix-bullet.json) |
+| Matryona no Yuube | 150556 | [150556-matryona-no-yuube.json](./150556-matryona-no-yuube.json) |
 | Matsudaira's Myoshu: A Sengoku Village Simulator | 291470 | [291470-matsudairas-myoshu-a-sengoku-village-simulator.json](./291470-matsudairas-myoshu-a-sengoku-village-simulator.json) |
 | Matsukata Hiroki no Super Trawling | 37930 | [37930-matsukata-hiroki-no-super-trawling.json](./37930-matsukata-hiroki-no-super-trawling.json) |
 | Matsukeke Burst! | 288297 | [288297-matsukeke-burst.json](./288297-matsukeke-burst.json) |
@@ -4637,6 +4639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miffed | 180821 | [180821-miffed.json](./180821-miffed.json) |
 | MiG Alley | 789 | [789-mig-alley.json](./789-mig-alley.json) |
 | MiG-29 Fulcrum | 229931 | [229931-mig-29-fulcrum.json](./229931-mig-29-fulcrum.json) |
+| Migawari Shoujo | 150571 | [150571-migawari-shoujo.json](./150571-migawari-shoujo.json) |
 | Might & Magic: Clash of Heroes | 1889 | [1889-might-and-magic-clash-of-heroes.json](./1889-might-and-magic-clash-of-heroes.json) |
 | Might & Magic: Duel of Champions - Forgotten Wars | 52586 | [52586-might-and-magic-duel-of-champions-forgotten-wars.json](./52586-might-and-magic-duel-of-champions-forgotten-wars.json) |
 | Might & Magic: Elemental Guardians | 70707 | [70707-might-and-magic-elemental-guardians.json](./70707-might-and-magic-elemental-guardians.json) |
