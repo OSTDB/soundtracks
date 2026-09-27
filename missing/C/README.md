@@ -7943,6 +7943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubio | 381131 | [381131-cubio.json](./381131-cubio.json) |
 | Cubion | 75050 | [75050-cubion.json](./75050-cubion.json) |
 | Cubiques | 83541 | [83541-cubiques.json](./83541-cubiques.json) |
+| Cubiquity | 124721 | [124721-cubiquity.json](./124721-cubiquity.json) |
 | Cubis | 251044 | [251044-cubis.json](./251044-cubis.json) |
 | Cubis Creatures | 253017 | [253017-cubis-creatures.json](./253017-cubis-creatures.json) |
 | Cubis Kingdoms | 74403 | [74403-cubis-kingdoms.json](./74403-cubis-kingdoms.json) |
