@@ -420,6 +420,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Pirates | 237639 | [237639-war-pirates.json](./237639-war-pirates.json) |
 | War Plan Orange: Dreadnoughts in the Pacific 1922 - 1930 | 215078 | [215078-war-plan-orange-dreadnoughts-in-the-pacific-1922-1930.json](./215078-war-plan-orange-dreadnoughts-in-the-pacific-1922-1930.json) |
 | War Platform | 112752 | [112752-war-platform.json](./112752-war-platform.json) |
+| War Platform: US Aircraft Carrier | 170857 | [170857-war-platform-us-aircraft-carrier.json](./170857-war-platform-us-aircraft-carrier.json) |
+| War Platform: VR Air Force Golden - Enhanced Edition | 170858 | [170858-war-platform-vr-air-force-golden-enhanced-edition.json](./170858-war-platform-vr-air-force-golden-enhanced-edition.json) |
 | War Rats: The Rat em Up | 326211 | [326211-war-rats-the-rat-em-up.json](./326211-war-rats-the-rat-em-up.json) |
 | War Remains | 124265 | [124265-war-remains.json](./124265-war-remains.json) |
 | War Robots Shooting Simulator | 270181 | [270181-war-robots-shooting-simulator.json](./270181-war-robots-shooting-simulator.json) |
@@ -2396,6 +2398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winky Trap | 131582 | [131582-winky-trap.json](./131582-winky-trap.json) |
 | Winner | 130946 | [130946-winner.json](./130946-winner.json) |
 | Winner In Life | 338363 | [338363-winner-in-life.json](./338363-winner-in-life.json) |
+| Winner IV | 170845 | [170845-winner-iv.json](./170845-winner-iv.json) |
 | Winner vs. Loser | 182455 | [182455-winner-vs-loser.json](./182455-winner-vs-loser.json) |
 | Winner's Circle | 269662 | [269662-winners-circle.json](./269662-winners-circle.json) |
 | Winnie the Pooh: First Steps | 273880 | [273880-winnie-the-pooh-first-steps.json](./273880-winnie-the-pooh-first-steps.json) |
