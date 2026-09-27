@@ -2151,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gluck | 258180 | [258180-gluck.json](./258180-gluck.json) |
 | Glück Auf | 90598 | [90598-gluck-auf.json](./90598-gluck-auf.json) |
 | Glue Blocks | 382469 | [382469-glue-blocks.json](./382469-glue-blocks.json) |
+| Gluf | 141080 | [141080-gluf.json](./141080-gluf.json) |
 | Gluk'Oza Action | 54053 | [54053-glukoza-action.json](./54053-glukoza-action.json) |
 | Glukhovo | 270184 | [270184-glukhovo.json](./270184-glukhovo.json) |
 | Glusiverse | 304599 | [304599-glusiverse.json](./304599-glusiverse.json) |
@@ -2948,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goonya Monster: Battle Pass - Eternal Pass + Infinity Cookie | 301019 | [301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json](./301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json) |
 | Goooool! | 312142 | [312142-goooool.json](./312142-goooool.json) |
 | Goop God | 180036 | [180036-goop-god.json](./180036-goop-god.json) |
+| Goop Loop | 141073 | [141073-goop-loop.json](./141073-goop-loop.json) |
 | Goop Snake | 364564 | [364564-goop-snake.json](./364564-goop-snake.json) |
 | GoopW | 274019 | [274019-goopw.json](./274019-goopw.json) |
 | Goos Hunt | 337182 | [337182-goos-hunt.json](./337182-goos-hunt.json) |
@@ -4509,6 +4511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunner 3 | 259821 | [259821-gunner-3.json](./259821-gunner-3.json) |
 | Gunners Heart | 54072 | [54072-gunners-heart.json](./54072-gunners-heart.json) |
 | Gunnheim | 20207 | [20207-gunnheim.json](./20207-gunnheim.json) |
+| Gunnhildr | 141072 | [141072-gunnhildr.json](./141072-gunnhildr.json) |
 | Gunnm Martian Memory | 23152 | [23152-gunnm-martian-memory.json](./23152-gunnm-martian-memory.json) |
 | GunnRunner | 117063 | [117063-gunnrunner.json](./117063-gunnrunner.json) |
 | GunnVR | 29908 | [29908-gunnvr.json](./29908-gunnvr.json) |
