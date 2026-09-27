@@ -1968,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Nursery | 277430 | [277430-nightmare-nursery.json](./277430-nightmare-nursery.json) |
 | Nightmare of Decay | 195478 | [195478-nightmare-of-decay.json](./195478-nightmare-of-decay.json) |
 | Nightmare Of SilkenCore: Train Hell | 333570 | [333570-nightmare-of-silkencore-train-hell.json](./333570-nightmare-of-silkencore-train-hell.json) |
+| Nightmare of the Snow | 150559 | [150559-nightmare-of-the-snow.json](./150559-nightmare-of-the-snow.json) |
 | Nightmare on the Pacific | 216238 | [216238-nightmare-on-the-pacific.json](./216238-nightmare-on-the-pacific.json) |
 | Nightmare Operator | 303003 | [303003-nightmare-operator.json](./303003-nightmare-operator.json) |
 | Nightmare Reaper: Multiplayer Update | 369777 | [369777-nightmare-reaper-multiplayer-update.json](./369777-nightmare-reaper-multiplayer-update.json) |
@@ -2388,6 +2389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nixxsz Maids Blazing | 292303 | [292303-nixxsz-maids-blazing.json](./292303-nixxsz-maids-blazing.json) |
 | Nixy and the Seeds of Doom | 363459 | [363459-nixy-and-the-seeds-of-doom.json](./363459-nixy-and-the-seeds-of-doom.json) |
 | Njuma | 287740 | [287740-njuma.json](./287740-njuma.json) |
+| Nkodice | 150587 | [150587-nkodice.json](./150587-nkodice.json) |
 | Nl | 178434 | [178434-nl.json](./178434-nl.json) |
 | NLdle | 342051 | [342051-nldle.json](./342051-nldle.json) |
 | NLL Lacrosse 2010 | 66705 | [66705-nll-lacrosse-2010.json](./66705-nll-lacrosse-2010.json) |
