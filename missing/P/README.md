@@ -1290,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinders | 134450 | [134450-pathfinders.json](./134450-pathfinders.json) |
 | Pathless Maze TD | 352293 | [352293-pathless-maze-td.json](./352293-pathless-maze-td.json) |
 | Pathless Woods | 172705 | [172705-pathless-woods.json](./172705-pathless-woods.json) |
+| Pathmaker | 170316 | [170316-pathmaker.json](./170316-pathmaker.json) |
 | PathoBlasta VS | 276188 | [276188-pathoblasta-vs.json](./276188-pathoblasta-vs.json) |
 | Pathogen | 213588 | [213588-pathogen.json](./213588-pathogen.json) |
 | Pathogen-X | 143064 | [143064-pathogen-x.json](./143064-pathogen-x.json) |
@@ -1851,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Cells Project | 278388 | [278388-perfect-cells-project.json](./278388-perfect-cells-project.json) |
 | Perfect Choro Q | 63794 | [63794-perfect-choro-q.json](./63794-perfect-choro-q.json) |
 | Perfect Circle: Stand Alone | 346650 | [346650-perfect-circle-stand-alone.json](./346650-perfect-circle-stand-alone.json) |
+| Perfect Crime: Collector's Death | 170288 | [170288-perfect-crime-collectors-death.json](./170288-perfect-crime-collectors-death.json) |
 | Perfect Dark | 1463 | [1463-perfect-dark.json](./1463-perfect-dark.json) |
 | Perfect Dark | 1464 | [1464-perfect-dark.json](./1464-perfect-dark.json) |
 | Perfect Dark | 1466 | [1466-perfect-dark.json](./1466-perfect-dark.json) |
@@ -3638,6 +3640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Place & Learn 19×19 Mental Math | 409550 | [409550-place-and-learn-19-19-mental-math.json](./409550-place-and-learn-19-19-mental-math.json) |
 | Place Icebergs Apart | 318190 | [318190-place-icebergs-apart.json](./318190-place-icebergs-apart.json) |
 | Placebo Love | 150074 | [150074-placebo-love.json](./150074-placebo-love.json) |
+| Placefront | 170322 | [170322-placefront.json](./170322-placefront.json) |
 | Placeless | 291755 | [291755-placeless.json](./291755-placeless.json) |
 | Placid Plastic Deck: A Quiet Quest | 320718 | [320718-placid-plastic-deck-a-quiet-quest.json](./320718-placid-plastic-deck-a-quiet-quest.json) |
 | Placid Plastic Duck VR | 338550 | [338550-placid-plastic-duck-vr.json](./338550-placid-plastic-duck-vr.json) |
@@ -6133,6 +6136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Soldier | 153928 | [153928-professional-soldier.json](./153928-professional-soldier.json) |
 | Professor Bubbles | 280790 | [280790-professor-bubbles.json](./280790-professor-bubbles.json) |
 | Professor Chuckenhope | 109682 | [109682-professor-chuckenhope.json](./109682-professor-chuckenhope.json) |
+| Professor Crackbrain: And the Awakening of the Weredog | 170308 | [170308-professor-crackbrain-and-the-awakening-of-the-weredog.json](./170308-professor-crackbrain-and-the-awakening-of-the-weredog.json) |
 | Professor Doctor Jetpack | 301268 | [301268-professor-doctor-jetpack.json](./301268-professor-doctor-jetpack.json) |
 | Professor Fizzwizzle | 78943 | [78943-professor-fizzwizzle.json](./78943-professor-fizzwizzle.json) |
 | Professor Fizzwizzle and the Molten Mystery | 16175 | [16175-professor-fizzwizzle-and-the-molten-mystery.json](./16175-professor-fizzwizzle-and-the-molten-mystery.json) |
