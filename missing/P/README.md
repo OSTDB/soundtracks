@@ -3744,6 +3744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PizzaMaker | 362821 | [362821-pizzamaker.json](./362821-pizzamaker.json) |
 | Pizzapocalypse 2 | 379971 | [379971-pizzapocalypse-2.json](./379971-pizzapocalypse-2.json) |
 | Pizzarian | 36010 | [36010-pizzarian.json](./36010-pizzarian.json) |
+| Pizzaro Project Deep Dish | 133319 | [133319-pizzaro-project-deep-dish.json](./133319-pizzaro-project-deep-dish.json) |
 | Pizzeria | 314402 | [314402-pizzeria.json](./314402-pizzeria.json) |
 | Pizzeria of Peril | 260790 | [260790-pizzeria-of-peril.json](./260790-pizzeria-of-peril.json) |
 | Pizzicato Polka: Ensa Genya | 108833 | [108833-pizzicato-polka-ensa-genya.json](./108833-pizzicato-polka-ensa-genya.json) |
@@ -4184,6 +4185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plobania 47/B | 400286 | [400286-plobania-47-b.json](./400286-plobania-47-b.json) |
 | Ploid | 159682 | [159682-ploid.json](./159682-ploid.json) |
 | Ploid Saga | 132628 | [132628-ploid-saga.json](./132628-ploid-saga.json) |
+| Plokoth | 133315 | [133315-plokoth.json](./133315-plokoth.json) |
 | Plong | 258190 | [258190-plong.json](./258190-plong.json) |
 | Ploppy Pairs | 197245 | [197245-ploppy-pairs.json](./197245-ploppy-pairs.json) |
 | Plot Armor | 123422 | [123422-plot-armor.json](./123422-plot-armor.json) |
@@ -7664,6 +7666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Px Art | 369573 | [369573-px-art.json](./369573-px-art.json) |
 | PxBeats | 256540 | [256540-pxbeats.json](./256540-pxbeats.json) |
 | PXL Play | 232393 | [232393-pxl-play.json](./232393-pxl-play.json) |
+| Pxl-Ship | 133359 | [133359-pxl-ship.json](./133359-pxl-ship.json) |
 | Pyhare | 338279 | [338279-pyhare.json](./338279-pyhare.json) |
 | Pyjamarama | 23060 | [23060-pyjamarama.json](./23060-pyjamarama.json) |
 | Pyl | 126013 | [126013-pyl.json](./126013-pyl.json) |
