@@ -1375,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Supremacy | 102191 | [102191-realms-of-supremacy.json](./102191-realms-of-supremacy.json) |
 | Realms of the Haunting | 844 | [844-realms-of-the-haunting.json](./844-realms-of-the-haunting.json) |
 | Realms of Wilorth | 250871 | [250871-realms-of-wilorth.json](./250871-realms-of-wilorth.json) |
+| Realms VR | 164241 | [164241-realms-vr.json](./164241-realms-vr.json) |
 | Realmstone | 118980 | [118980-realmstone.json](./118980-realmstone.json) |
 | realMyst | 16198 | [16198-realmyst.json](./16198-realmyst.json) |
 | RealPlay Golf | 21365 | [21365-realplay-golf.json](./21365-realplay-golf.json) |
