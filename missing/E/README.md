@@ -2339,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esper Girls | 265925 | [265925-esper-girls.json](./265925-esper-girls.json) |
 | Esper: Make You Live Again | 114991 | [114991-esper-make-you-live-again.json](./114991-esper-make-you-live-again.json) |
 | Espial | 23932 | [23932-espial.json](./23932-espial.json) |
+| Espiocracy | 153913 | [153913-espiocracy.json](./153913-espiocracy.json) |
 | Espionage | 13646 | [13646-espionage.json](./13646-espionage.json) |
 | Espionage | 285027 | [285027-espionage.json](./285027-espionage.json) |
 | Espionage Island | 13645 | [13645-espionage-island.json](./13645-espionage-island.json) |
