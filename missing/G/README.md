@@ -1683,6 +1683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostwire | 91724 | [91724-ghostwire.json](./91724-ghostwire.json) |
 | Ghostwire Tokyo: Spider's Thread | 246125 | [246125-ghostwire-tokyo-spiders-thread.json](./246125-ghostwire-tokyo-spiders-thread.json) |
 | Ghostwire: Tokyo - Deluxe Edition | 192309 | [192309-ghostwire-tokyo-deluxe-edition.json](./192309-ghostwire-tokyo-deluxe-edition.json) |
+| Ghosty | 156049 | [156049-ghosty.json](./156049-ghosty.json) |
 | Ghosty Party | 232532 | [232532-ghosty-party.json](./232532-ghosty-party.json) |
 | Ghoul | 95860 | [95860-ghoul.json](./95860-ghoul.json) |
 | Ghoul Britannia: Land of Hope and Gorey | 116979 | [116979-ghoul-britannia-land-of-hope-and-gorey.json](./116979-ghoul-britannia-land-of-hope-and-gorey.json) |
