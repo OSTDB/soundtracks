@@ -3590,6 +3590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorabilia | 177412 | [177412-memorabilia.json](./177412-memorabilia.json) |
 | Memorel Restoration Project | 380525 | [380525-memorel-restoration-project.json](./380525-memorel-restoration-project.json) |
 | Memori | 251579 | [251579-memori.json](./251579-memori.json) |
+| Memoria | 132732 | [132732-memoria.json](./132732-memoria.json) |
 | Memoria | 191172 | [191172-memoria.json](./191172-memoria.json) |
 | Memoria | 196556 | [196556-memoria.json](./196556-memoria.json) |
 | Memoria Project | 193969 | [193969-memoria-project.json](./193969-memoria-project.json) |
@@ -6767,6 +6768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument Valley: Panoramic Edition | 203331 | [203331-monument-valley-panoramic-edition.json](./203331-monument-valley-panoramic-edition.json) |
 | Monument Valley+ | 145466 | [145466-monument-valley.json](./145466-monument-valley.json) |
 | Monument: Ultimate Edition | 317249 | [317249-monument-ultimate-edition.json](./317249-monument-ultimate-edition.json) |
+| Monuments Flipper | 132741 | [132741-monuments-flipper.json](./132741-monuments-flipper.json) |
 | Monuments of Mars 2 | 300404 | [300404-monuments-of-mars-2.json](./300404-monuments-of-mars-2.json) |
 | Moo & Move | 316805 | [316805-moo-and-move.json](./316805-moo-and-move.json) |
 | Moo & Move: Extra Grazing Grounds | 328251 | [328251-moo-and-move-extra-grazing-grounds.json](./328251-moo-and-move-extra-grazing-grounds.json) |
