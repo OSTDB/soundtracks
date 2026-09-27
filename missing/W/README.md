@@ -1083,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wavey the Rocket | 112513 | [112513-wavey-the-rocket.json](./112513-wavey-the-rocket.json) |
 | Waving Around | 347174 | [347174-waving-around.json](./347174-waving-around.json) |
 | Wawa Neko no Shima | 206175 | [206175-wawa-neko-no-shima.json](./206175-wawa-neko-no-shima.json) |
+| Wawa United | 150598 | [150598-wawa-united.json](./150598-wawa-united.json) |
 | Wax Museum | 187454 | [187454-wax-museum.json](./187454-wax-museum.json) |
 | Way Back Home | 127742 | [127742-way-back-home.json](./127742-way-back-home.json) |
 | Way Down | 187511 | [187511-way-down.json](./187511-way-down.json) |
