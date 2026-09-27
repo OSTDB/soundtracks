@@ -3756,6 +3756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Markarth | 237336 | [237336-the-elder-scrolls-online-markarth.json](./237336-the-elder-scrolls-online-markarth.json) |
 | The Elder Scrolls Online: Morrowind - Collector's Edition | 136339 | [136339-the-elder-scrolls-online-morrowind-collectors-edition.json](./136339-the-elder-scrolls-online-morrowind-collectors-edition.json) |
 | The Elder Scrolls Online: Season One - Return of the Thieves Guild | 405082 | [405082-the-elder-scrolls-online-season-one-return-of-the-thieves-guild.json](./405082-the-elder-scrolls-online-season-one-return-of-the-thieves-guild.json) |
+| The Elder Scrolls Online: Shadows of the Hist | 128476 | [128476-the-elder-scrolls-online-shadows-of-the-hist.json](./128476-the-elder-scrolls-online-shadows-of-the-hist.json) |
 | The Elder Scrolls Online: Stonethorn | 135827 | [135827-the-elder-scrolls-online-stonethorn.json](./135827-the-elder-scrolls-online-stonethorn.json) |
 | The Elder Scrolls Online: Summerset - Collector's Editions | 96024 | [96024-the-elder-scrolls-online-summerset-collectors-editions.json](./96024-the-elder-scrolls-online-summerset-collectors-editions.json) |
 | The Elder Scrolls Online: Waking Flame | 180615 | [180615-the-elder-scrolls-online-waking-flame.json](./180615-the-elder-scrolls-online-waking-flame.json) |
@@ -7336,6 +7337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sun and Moon | 17811 | [17811-the-sun-and-moon.json](./17811-the-sun-and-moon.json) |
 | The Sun at Night | 9049 | [9049-the-sun-at-night.json](./9049-the-sun-at-night.json) |
 | The Sun Crosswords: Volume 1 & 2 | 118165 | [118165-the-sun-crosswords-volume-1-and-2.json](./118165-the-sun-crosswords-volume-1-and-2.json) |
+| The Sun Does Not Exist | 128543 | [128543-the-sun-does-not-exist.json](./128543-the-sun-does-not-exist.json) |
 | The Sun Never Sets | 38962 | [38962-the-sun-never-sets.json](./38962-the-sun-never-sets.json) |
 | The Sun Will Rise | 31833 | [31833-the-sun-will-rise.json](./31833-the-sun-will-rise.json) |
 | The Sun: Evaluation | 174761 | [174761-the-sun-evaluation.json](./174761-the-sun-evaluation.json) |
@@ -13944,6 +13946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle Rush | 122368 | [122368-turtle-rush.json](./122368-turtle-rush.json) |
 | Turtle Ship | 38554 | [38554-turtle-ship.json](./38554-turtle-ship.json) |
 | Turtle Tale | 79280 | [79280-turtle-tale.json](./79280-turtle-tale.json) |
+| Turtle VR | 128448 | [128448-turtle-vr.json](./128448-turtle-vr.json) |
 | Turtle Wax | 317430 | [317430-turtle-wax.json](./317430-turtle-wax.json) |
 | Turtle WoW: Mysteries of Azeroth | 253071 | [253071-turtle-wow-mysteries-of-azeroth.json](./253071-turtle-wow-mysteries-of-azeroth.json) |
 | Turtle: Voidrunner | 74355 | [74355-turtle-voidrunner.json](./74355-turtle-voidrunner.json) |
