@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game About Games | 162844 | [162844-game-about-games.json](./162844-game-about-games.json) |
 | Game About Jetpack Fly | 320537 | [320537-game-about-jetpack-fly.json](./320537-game-about-jetpack-fly.json) |
 | Game After School | 233446 | [233446-game-after-school.json](./233446-game-after-school.json) |
+| Game Box Série Corridas | 130839 | [130839-game-box-serie-corridas.json](./130839-game-box-serie-corridas.json) |
 | Game Box Série Esportes Radicais | 96505 | [96505-game-box-serie-esportes-radicais.json](./96505-game-box-serie-esportes-radicais.json) |
 | Game Boy Camera Memory | 328594 | [328594-game-boy-camera-memory.json](./328594-game-boy-camera-memory.json) |
 | Game Boy Camera: Gold Zelda Edition | 228549 | [228549-game-boy-camera-gold-zelda-edition.json](./228549-game-boy-camera-gold-zelda-edition.json) |
@@ -1969,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator of sparta | 173275 | [173275-gladiator-of-sparta.json](./173275-gladiator-of-sparta.json) |
 | Gladiator Rising 2 | 297578 | [297578-gladiator-rising-2.json](./297578-gladiator-rising-2.json) |
 | Gladiator School | 284329 | [284329-gladiator-school.json](./284329-gladiator-school.json) |
+| Gladiator X | 130795 | [130795-gladiator-x.json](./130795-gladiator-x.json) |
 | Gladiator: Blades of Fury | 115586 | [115586-gladiator-blades-of-fury.json](./115586-gladiator-blades-of-fury.json) |
 | Gladiator: Road to the Colosseum | 120836 | [120836-gladiator-road-to-the-colosseum.json](./120836-gladiator-road-to-the-colosseum.json) |
 | Gladiator's Arena | 236530 | [236530-gladiators-arena.json](./236530-gladiators-arena.json) |
