@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadence Cuties | 245791 | [245791-cadence-cuties.json](./245791-cadence-cuties.json) |
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Melody Pack | 235331 | [235331-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-melody-pack.json](./235331-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-melody-pack.json) |
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Octavo's Ode | 235330 | [235330-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-octavos-ode.json](./235330-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-octavos-ode.json) |
+| Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Season Pass | 141742 | [141742-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-season-pass.json](./141742-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-season-pass.json) |
 | Cadenza: Havana Nights | 188030 | [188030-cadenza-havana-nights.json](./188030-cadenza-havana-nights.json) |
 | Cadenza: Music, Betrayal and Death - Collector's Edition | 36465 | [36465-cadenza-music-betrayal-and-death-collectors-edition.json](./36465-cadenza-music-betrayal-and-death-collectors-edition.json) |
 | Cadenza: The Kiss of Death | 88811 | [88811-cadenza-the-kiss-of-death.json](./88811-cadenza-the-kiss-of-death.json) |
@@ -1287,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castaway Coconuts | 307916 | [307916-castaway-coconuts.json](./307916-castaway-coconuts.json) |
 | Castaway Diary: Portal to the Unknown Isles | 398422 | [398422-castaway-diary-portal-to-the-unknown-isles.json](./398422-castaway-diary-portal-to-the-unknown-isles.json) |
 | Castaway Hand | 326195 | [326195-castaway-hand.json](./326195-castaway-hand.json) |
+| Castaway II: Isle of the Titans | 141759 | [141759-castaway-ii-isle-of-the-titans.json](./141759-castaway-ii-isle-of-the-titans.json) |
 | Castaway on a Weird Island | 174198 | [174198-castaway-on-a-weird-island.json](./174198-castaway-on-a-weird-island.json) |
 | Castaway Paradise | 36279 | [36279-castaway-paradise.json](./36279-castaway-paradise.json) |
 | Castaway Samurai | 319127 | [319127-castaway-samurai.json](./319127-castaway-samurai.json) |
@@ -1791,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats & Cups | 360002 | [360002-cats-and-cups.json](./360002-cats-and-cups.json) |
 | Cats & Dice | 319342 | [319342-cats-and-dice.json](./319342-cats-and-dice.json) |
 | Cats & Soup | 174818 | [174818-cats-and-soup.json](./174818-cats-and-soup.json) |
+| Cats Academy | 141766 | [141766-cats-academy.json](./141766-cats-academy.json) |
 | Cats and Food 4: New Year | 169775 | [169775-cats-and-food-4-new-year.json](./169775-cats-and-food-4-new-year.json) |
 | Cats and Jigsaws | 188124 | [188124-cats-and-jigsaws.json](./188124-cats-and-jigsaws.json) |
 | Cats and Seek: Dino Park | 284413 | [284413-cats-and-seek-dino-park.json](./284413-cats-and-seek-dino-park.json) |
@@ -2219,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challange of the Five Realms | 46576 | [46576-challange-of-the-five-realms.json](./46576-challange-of-the-five-realms.json) |
 | Challenge 100 | 359419 | [359419-challenge-100.json](./359419-challenge-100.json) |
 | Challenge Dream Cat | 179997 | [179997-challenge-dream-cat.json](./179997-challenge-dream-cat.json) |
+| Challenge from Kiyoshi | 141772 | [141772-challenge-from-kiyoshi.json](./141772-challenge-from-kiyoshi.json) |
 | Challenge of the Dragon | 48294 | [48294-challenge-of-the-dragon.json](./48294-challenge-of-the-dragon.json) |
 | Challenge of the Tentacle | 217872 | [217872-challenge-of-the-tentacle.json](./217872-challenge-of-the-tentacle.json) |
 | Challenge Party | 149518 | [149518-challenge-party.json](./149518-challenge-party.json) |
@@ -8435,6 +8439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberSeas | 324716 | [324716-cyberseas.json](./324716-cyberseas.json) |
 | Cybersecurity Ethics Scavenger Hunt | 257397 | [257397-cybersecurity-ethics-scavenger-hunt.json](./257397-cybersecurity-ethics-scavenger-hunt.json) |
 | Cybersex: Lust Story | 295356 | [295356-cybersex-lust-story.json](./295356-cybersex-lust-story.json) |
+| Cybershow | 141762 | [141762-cybershow.json](./141762-cybershow.json) |
 | Cyberside Picnic | 252249 | [252249-cyberside-picnic.json](./252249-cyberside-picnic.json) |
 | CyberSkyscrUpper | 265770 | [265770-cyberskyscrupper.json](./265770-cyberskyscrupper.json) |
 | Cybersonic Strike | 258538 | [258538-cybersonic-strike.json](./258538-cybersonic-strike.json) |
