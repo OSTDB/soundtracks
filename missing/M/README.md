@@ -4998,6 +4998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MineFinitum | 186276 | [186276-minefinitum.json](./186276-minefinitum.json) |
 | MineGeon: Space Mining Dungeon | 227369 | [227369-minegeon-space-mining-dungeon.json](./227369-minegeon-space-mining-dungeon.json) |
 | Mineirinho Director's Cut | 127099 | [127099-mineirinho-directors-cut.json](./127099-mineirinho-directors-cut.json) |
+| Mineirinho Director's Cut: Mineirinho Hoversurf DC | 171927 | [171927-mineirinho-directors-cut-mineirinho-hoversurf-dc.json](./171927-mineirinho-directors-cut-mineirinho-hoversurf-dc.json) |
 | Minelvaton Saga: Ragon no Fukkatsu | 48687 | [48687-minelvaton-saga-ragon-no-fukkatsu.json](./48687-minelvaton-saga-ragon-no-fukkatsu.json) |
 | Minemadness | 201155 | [201155-minemadness.json](./201155-minemadness.json) |
 | Minemaze | 196281 | [196281-minemaze.json](./196281-minemaze.json) |
