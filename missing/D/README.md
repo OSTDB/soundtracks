@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.C. Re:tune | 327964 | [327964-d-c-re-tune.json](./327964-d-c-re-tune.json) |
 | D.C. S#*!storm | 86547 | [86547-d-c-s-storm.json](./86547-d-c-s-storm.json) |
 | D.C.4: Da Capo 4 - Fortunate Departures | 207920 | [207920-d-c-4-da-capo-4-fortunate-departures.json](./207920-d-c-4-da-capo-4-fortunate-departures.json) |
+| D.C.4: Da Capo 4 - Limited Edition | 167044 | [167044-d-c-4-da-capo-4-limited-edition.json](./167044-d-c-4-da-capo-4-limited-edition.json) |
 | D.C.5 to 4: Luminous Memories | 408137 | [408137-d-c-5-to-4-luminous-memories.json](./408137-d-c-5-to-4-luminous-memories.json) |
 | D.C.5 to 4: Luminous Memories - Deluxe Limited Edition | 408140 | [408140-d-c-5-to-4-luminous-memories-deluxe-limited-edition.json](./408140-d-c-5-to-4-luminous-memories-deluxe-limited-edition.json) |
 | D.C.5 to 4: Luminous Memories - First Press Edition | 408139 | [408139-d-c-5-to-4-luminous-memories-first-press-edition.json](./408139-d-c-5-to-4-luminous-memories-first-press-edition.json) |
@@ -392,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa Hope Recreation | 304341 | [304341-danganronpa-hope-recreation.json](./304341-danganronpa-hope-recreation.json) |
 | Danganronpa Mauve | 304336 | [304336-danganronpa-mauve.json](./304336-danganronpa-mauve.json) |
 | Danganronpa V3: Killing Harmony - Anniversary Edition | 152401 | [152401-danganronpa-v3-killing-harmony-anniversary-edition.json](./152401-danganronpa-v3-killing-harmony-anniversary-edition.json) |
+| Danganronpa V3: Killing Harmony - Limited Edition | 167053 | [167053-danganronpa-v3-killing-harmony-limited-edition.json](./167053-danganronpa-v3-killing-harmony-limited-edition.json) |
 | Danganronpa V3: Killing Harmony Demo Ver. | 282660 | [282660-danganronpa-v3-killing-harmony-demo-ver.json](./282660-danganronpa-v3-killing-harmony-demo-ver.json) |
 | Danganronpa Weeping Rebellion | 304345 | [304345-danganronpa-weeping-rebellion.json](./304345-danganronpa-weeping-rebellion.json) |
 | Danganronpa: Abandoned Lights | 304348 | [304348-danganronpa-abandoned-lights.json](./304348-danganronpa-abandoned-lights.json) |
@@ -509,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darius Cozmic Collection Arcade | 147940 | [147940-darius-cozmic-collection-arcade.json](./147940-darius-cozmic-collection-arcade.json) |
 | Darius Cozmic Collection: Consumer Edition | 218594 | [218594-darius-cozmic-collection-consumer-edition.json](./218594-darius-cozmic-collection-consumer-edition.json) |
 | Darius Cozmic Revelation | 139992 | [139992-darius-cozmic-revelation.json](./139992-darius-cozmic-revelation.json) |
+| Darius Cozmic Revelation: Special Limited Edition | 167082 | [167082-darius-cozmic-revelation-special-limited-edition.json](./167082-darius-cozmic-revelation-special-limited-edition.json) |
 | Darius Maker | 294786 | [294786-darius-maker.json](./294786-darius-maker.json) |
 | Darius the Mailman | 294799 | [294799-darius-the-mailman.json](./294799-darius-the-mailman.json) |
 | Darius: Cozmic Revelation - Collector's Edition | 139993 | [139993-darius-cozmic-revelation-collectors-edition.json](./139993-darius-cozmic-revelation-collectors-edition.json) |
@@ -1438,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive New Project | 389426 | [389426-dead-or-alive-new-project.json](./389426-dead-or-alive-new-project.json) |
 | Dead or Alive Xtreme 3 Fortune: Collector's Edition | 166233 | [166233-dead-or-alive-xtreme-3-fortune-collectors-edition.json](./166233-dead-or-alive-xtreme-3-fortune-collectors-edition.json) |
 | Dead or Alive Xtreme 3: Fortune - VR Paradise | 26930 | [26930-dead-or-alive-xtreme-3-fortune-vr-paradise.json](./26930-dead-or-alive-xtreme-3-fortune-vr-paradise.json) |
+| Dead or Alive Xtreme 3: Saikyou Package | 167033 | [167033-dead-or-alive-xtreme-3-saikyou-package.json](./167033-dead-or-alive-xtreme-3-saikyou-package.json) |
 | Dead or Alive Xtreme: Venus Vacation | 68297 | [68297-dead-or-alive-xtreme-venus-vacation.json](./68297-dead-or-alive-xtreme-venus-vacation.json) |
 | Dead or Alive: Code Chronos | 205644 | [205644-dead-or-alive-code-chronos.json](./205644-dead-or-alive-code-chronos.json) |
 | Dead or Alive: Dimensions | 1396 | [1396-dead-or-alive-dimensions.json](./1396-dead-or-alive-dimensions.json) |
@@ -3619,6 +3623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimenseum | 396376 | [396376-dimenseum.json](./396376-dimenseum.json) |
 | Dimension Defenders | 405570 | [405570-dimension-defenders.json](./405570-dimension-defenders.json) |
 | Dimension Drive | 27327 | [27327-dimension-drive.json](./27327-dimension-drive.json) |
+| Dimension Drive: Limited Edition | 167045 | [167045-dimension-drive-limited-edition.json](./167045-dimension-drive-limited-edition.json) |
 | Dimension M | 213969 | [213969-dimension-m.json](./213969-dimension-m.json) |
 | Dimension of Monster Girls | 89608 | [89608-dimension-of-monster-girls.json](./89608-dimension-of-monster-girls.json) |
 | Dimension of the Boomed | 251546 | [251546-dimension-of-the-boomed.json](./251546-dimension-of-the-boomed.json) |
@@ -3984,6 +3989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 1 Complete: Limited Edition | 201055 | [201055-disgaea-1-complete-limited-edition.json](./201055-disgaea-1-complete-limited-edition.json) |
 | Disgaea 2: Dark Hero Days | 21851 | [21851-disgaea-2-dark-hero-days.json](./21851-disgaea-2-dark-hero-days.json) |
 | Disgaea 4 Complete+: A Promise of Sardines Edition | 205262 | [205262-disgaea-4-complete-a-promise-of-sardines-edition.json](./205262-disgaea-4-complete-a-promise-of-sardines-edition.json) |
+| Disgaea 5: Alliance of Vengeance - Limited Edition | 167058 | [167058-disgaea-5-alliance-of-vengeance-limited-edition.json](./167058-disgaea-5-alliance-of-vengeance-limited-edition.json) |
 | Disgaea 6 Complete | 191497 | [191497-disgaea-6-complete.json](./191497-disgaea-6-complete.json) |
 | Disgaea 7: Glasses Costumes Set | 268541 | [268541-disgaea-7-glasses-costumes-set.json](./268541-disgaea-7-glasses-costumes-set.json) |
 | Disgaea 7: Vows of the Virtueless | 214530 | [214530-disgaea-7-vows-of-the-virtueless.json](./214530-disgaea-7-vows-of-the-virtueless.json) |
