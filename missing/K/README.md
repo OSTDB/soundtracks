@@ -1102,6 +1102,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Floor: Calamity | 51176 | [51176-killing-floor-calamity.json](./51176-killing-floor-calamity.json) |
 | Killing Floor: Double Feature | 116387 | [116387-killing-floor-double-feature.json](./116387-killing-floor-double-feature.json) |
 | Killing Floor: PostMortem Character Pack | 161759 | [161759-killing-floor-postmortem-character-pack.json](./161759-killing-floor-postmortem-character-pack.json) |
+| Killing Floor: Steampunk Character Pack | 162709 | [162709-killing-floor-steampunk-character-pack.json](./162709-killing-floor-steampunk-character-pack.json) |
+| Killing Floor: Steampunk Character Pack 2 | 162711 | [162711-killing-floor-steampunk-character-pack-2.json](./162711-killing-floor-steampunk-character-pack-2.json) |
 | Killing Kiss | 191905 | [191905-killing-kiss.json](./191905-killing-kiss.json) |
 | Killing Machine | 355234 | [355234-killing-machine.json](./355234-killing-machine.json) |
 | Killing Machine Loves Slime Prince | 300694 | [300694-killing-machine-loves-slime-prince.json](./300694-killing-machine-loves-slime-prince.json) |
