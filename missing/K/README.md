@@ -2071,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kolkhoz: The Red Wedge | 109755 | [109755-kolkhoz-the-red-wedge.json](./109755-kolkhoz-the-red-wedge.json) |
 | Kollectomaniac | 332635 | [332635-kollectomaniac.json](./332635-kollectomaniac.json) |
 | Kollywood: The Game | 340030 | [340030-kollywood-the-game.json](./340030-kollywood-the-game.json) |
+| Kolo | 169771 | [169771-kolo.json](./169771-kolo.json) |
 | Kolobok Piramida | 266283 | [266283-kolobok-piramida.json](./266283-kolobok-piramida.json) |
 | Koloni | 244252 | [244252-koloni.json](./244252-koloni.json) |
 | Kolt Penny's Symmetris | 296387 | [296387-kolt-pennys-symmetris.json](./296387-kolt-pennys-symmetris.json) |
