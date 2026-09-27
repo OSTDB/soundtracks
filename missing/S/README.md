@@ -2018,6 +2018,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek & Dread Online | 292853 | [292853-seek-and-dread-online.json](./292853-seek-and-dread-online.json) |
 | Seek & Snipe | 267106 | [267106-seek-and-snipe.json](./267106-seek-and-snipe.json) |
 | Seek Girl | 114277 | [114277-seek-girl.json](./114277-seek-girl.json) |
+| Seek Girl V | 171393 | [171393-seek-girl-v.json](./171393-seek-girl-v.json) |
+| Seek Girl Ⅵ | 171394 | [171394-seek-girl-vi.json](./171394-seek-girl-vi.json) |
+| Seek Girl VII | 171392 | [171392-seek-girl-vii.json](./171392-seek-girl-vii.json) |
 | Seek Girl: Charming Girl | 171014 | [171014-seek-girl-charming-girl.json](./171014-seek-girl-charming-girl.json) |
 | Seek Magician | 144924 | [144924-seek-magician.json](./144924-seek-magician.json) |
 | Seek the Resources | 246365 | [246365-seek-the-resources.json](./246365-seek-the-resources.json) |
@@ -2175,6 +2178,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selene's Labyrinth | 184389 | [184389-selenes-labyrinth.json](./184389-selenes-labyrinth.json) |
 | Selene's Nightmare | 153850 | [153850-selenes-nightmare.json](./153850-selenes-nightmare.json) |
 | Selene's Unbearable Night | 258414 | [258414-selenes-unbearable-night.json](./258414-selenes-unbearable-night.json) |
+| Selenon Rising: Episode 2 | 171367 | [171367-selenon-rising-episode-2.json](./171367-selenon-rising-episode-2.json) |
+| Selenon Rising: Episode 3 | 171368 | [171368-selenon-rising-episode-3.json](./171368-selenon-rising-episode-3.json) |
 | Selenwald | 190988 | [190988-selenwald.json](./190988-selenwald.json) |
 | Self | 118430 | [118430-self.json](./118430-self.json) |
 | Self Defense Kinda... | 258468 | [258468-self-defense-kinda.json](./258468-self-defense-kinda.json) |
@@ -2908,6 +2913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowrite | 403712 | [403712-shadowrite.json](./403712-shadowrite.json) |
 | Shadowrun | 7643 | [7643-shadowrun.json](./7643-shadowrun.json) |
 | Shadowrun Chronicles: Boston Lockdown - Missions | 193178 | [193178-shadowrun-chronicles-boston-lockdown-missions.json](./193178-shadowrun-chronicles-boston-lockdown-missions.json) |
+| Shadowrun Chronicles: Infected - Missions | 171365 | [171365-shadowrun-chronicles-infected-missions.json](./171365-shadowrun-chronicles-infected-missions.json) |
 | Shadowrun: Dragonfall | 22652 | [22652-shadowrun-dragonfall.json](./22652-shadowrun-dragonfall.json) |
 | Shadowrun: Dragonfall - Director's Cut | 8864 | [8864-shadowrun-dragonfall-directors-cut.json](./8864-shadowrun-dragonfall-directors-cut.json) |
 | Shadowrun: Hong Kong | 11772 | [11772-shadowrun-hong-kong.json](./11772-shadowrun-hong-kong.json) |
@@ -3511,6 +3517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shine Post: Be Your Idol! | 217964 | [217964-shine-post-be-your-idol.json](./217964-shine-post-be-your-idol.json) |
 | Shine Within | 168334 | [168334-shine-within.json](./168334-shine-within.json) |
 | Shine: Journey of Light | 132017 | [132017-shine-journey-of-light.json](./132017-shine-journey-of-light.json) |
+| Shine's Adventures 0: Zombies Reload | 171408 | [171408-shines-adventures-0-zombies-reload.json](./171408-shines-adventures-0-zombies-reload.json) |
 | Shine's Adventures 2 (Zombie Attack) | 120372 | [120372-shines-adventures-2-zombie-attack.json](./120372-shines-adventures-2-zombie-attack.json) |
 | Shine's Adventures 5: World of Box | 127318 | [127318-shines-adventures-5-world-of-box.json](./127318-shines-adventures-5-world-of-box.json) |
 | ShineG Has Nightmares | 68675 | [68675-shineg-has-nightmares.json](./68675-shineg-has-nightmares.json) |
@@ -8312,6 +8319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Stranger | 252730 | [252730-space-stranger.json](./252730-space-stranger.json) |
 | Space Strider | 275093 | [275093-space-strider.json](./275093-space-strider.json) |
 | Space Subtraction | 310971 | [310971-space-subtraction.json](./310971-space-subtraction.json) |
+| Space Survival | 171402 | [171402-space-survival.json](./171402-space-survival.json) |
 | Space Survival | 183863 | [183863-space-survival.json](./183863-space-survival.json) |
 | Space Survival | 32932 | [32932-space-survival.json](./32932-space-survival.json) |
 | Space Survivor | 245334 | [245334-space-survivor.json](./245334-space-survivor.json) |
@@ -13051,6 +13059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lode Runner II | 48676 | [48676-super-lode-runner-ii.json](./48676-super-lode-runner-ii.json) |
 | Super Lone Survivor | 140603 | [140603-super-lone-survivor.json](./140603-super-lone-survivor.json) |
 | Super Long Boy | 251022 | [251022-super-long-boy.json](./251022-super-long-boy.json) |
+| Super Lucky's Tale: Gilly Island | 171369 | [171369-super-luckys-tale-gilly-island.json](./171369-super-luckys-tale-gilly-island.json) |
 | Super Luigi Bros. | 198471 | [198471-super-luigi-bros.json](./198471-super-luigi-bros.json) |
 | Super Luigi Land Wii | 294783 | [294783-super-luigi-land-wii.json](./294783-super-luigi-land-wii.json) |
 | Super Luigi Odyssey | 282683 | [282683-super-luigi-odyssey.json](./282683-super-luigi-odyssey.json) |
