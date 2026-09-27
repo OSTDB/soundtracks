@@ -6200,6 +6200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Phantom Slayer | 71212 | [71212-the-phantom-slayer.json](./71212-the-phantom-slayer.json) |
 | The Phantom Thief Stina and 30 Jewels | 85438 | [85438-the-phantom-thief-stina-and-30-jewels.json](./85438-the-phantom-thief-stina-and-30-jewels.json) |
 | The Phantom's Revenge | 25135 | [25135-the-phantoms-revenge.json](./25135-the-phantoms-revenge.json) |
+| The Phenomenon of Edgar Allan Poe 1/2 | 155465 | [155465-the-phenomenon-of-edgar-allan-poe-1-2.json](./155465-the-phenomenon-of-edgar-allan-poe-1-2.json) |
 | The Philistine Ploy | 293705 | [293705-the-philistine-ploy.json](./293705-the-philistine-ploy.json) |
 | The Phoenix | 188414 | [188414-the-phoenix.json](./188414-the-phoenix.json) |
 | The Photo of God | 341467 | [341467-the-photo-of-god.json](./341467-the-photo-of-god.json) |
@@ -9324,6 +9325,31 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Break the Fog MP098 | 160823 | [160823-tiger-tank-59-i-break-the-fog-mp098.json](./160823-tiger-tank-59-i-break-the-fog-mp098.json) |
 | Tiger Tank 59 I: Break the Fog MP099 | 160338 | [160338-tiger-tank-59-i-break-the-fog-mp099.json](./160338-tiger-tank-59-i-break-the-fog-mp099.json) |
 | Tiger Tank 59 I: Break the Fog MP100 | 160829 | [160829-tiger-tank-59-i-break-the-fog-mp100.json](./160829-tiger-tank-59-i-break-the-fog-mp100.json) |
+| Tiger Tank 59 I: Mission Pack 001 | 155526 | [155526-tiger-tank-59-i-mission-pack-001.json](./155526-tiger-tank-59-i-mission-pack-001.json) |
+| Tiger Tank 59 I: Mission Pack 002 | 155537 | [155537-tiger-tank-59-i-mission-pack-002.json](./155537-tiger-tank-59-i-mission-pack-002.json) |
+| Tiger Tank 59 I: Mission Pack 003 | 155525 | [155525-tiger-tank-59-i-mission-pack-003.json](./155525-tiger-tank-59-i-mission-pack-003.json) |
+| Tiger Tank 59 I: Mission Pack 004 | 155536 | [155536-tiger-tank-59-i-mission-pack-004.json](./155536-tiger-tank-59-i-mission-pack-004.json) |
+| Tiger Tank 59 I: Mission Pack 005 | 155532 | [155532-tiger-tank-59-i-mission-pack-005.json](./155532-tiger-tank-59-i-mission-pack-005.json) |
+| Tiger Tank 59 I: Mission Pack 006 | 155520 | [155520-tiger-tank-59-i-mission-pack-006.json](./155520-tiger-tank-59-i-mission-pack-006.json) |
+| Tiger Tank 59 I: Mission Pack 007 | 155531 | [155531-tiger-tank-59-i-mission-pack-007.json](./155531-tiger-tank-59-i-mission-pack-007.json) |
+| Tiger Tank 59 I: Mission Pack 008 | 155541 | [155541-tiger-tank-59-i-mission-pack-008.json](./155541-tiger-tank-59-i-mission-pack-008.json) |
+| Tiger Tank 59 I: Mission Pack 009 | 155528 | [155528-tiger-tank-59-i-mission-pack-009.json](./155528-tiger-tank-59-i-mission-pack-009.json) |
+| Tiger Tank 59 I: Mission Pack 010 | 155534 | [155534-tiger-tank-59-i-mission-pack-010.json](./155534-tiger-tank-59-i-mission-pack-010.json) |
+| Tiger Tank 59 I: Mission Pack 011 | 155539 | [155539-tiger-tank-59-i-mission-pack-011.json](./155539-tiger-tank-59-i-mission-pack-011.json) |
+| Tiger Tank 59 I: Mission Pack 012 | 155523 | [155523-tiger-tank-59-i-mission-pack-012.json](./155523-tiger-tank-59-i-mission-pack-012.json) |
+| Tiger Tank 59 I: Mission Pack 013 | 155521 | [155521-tiger-tank-59-i-mission-pack-013.json](./155521-tiger-tank-59-i-mission-pack-013.json) |
+| Tiger Tank 59 I: Mission Pack 014 | 155522 | [155522-tiger-tank-59-i-mission-pack-014.json](./155522-tiger-tank-59-i-mission-pack-014.json) |
+| Tiger Tank 59 I: Mission Pack 015 | 155524 | [155524-tiger-tank-59-i-mission-pack-015.json](./155524-tiger-tank-59-i-mission-pack-015.json) |
+| Tiger Tank 59 I: Mission Pack 016 | 155527 | [155527-tiger-tank-59-i-mission-pack-016.json](./155527-tiger-tank-59-i-mission-pack-016.json) |
+| Tiger Tank 59 I: Mission Pack 017 | 155529 | [155529-tiger-tank-59-i-mission-pack-017.json](./155529-tiger-tank-59-i-mission-pack-017.json) |
+| Tiger Tank 59 I: Mission Pack 018 | 155530 | [155530-tiger-tank-59-i-mission-pack-018.json](./155530-tiger-tank-59-i-mission-pack-018.json) |
+| Tiger Tank 59 I: Mission Pack 019 | 155542 | [155542-tiger-tank-59-i-mission-pack-019.json](./155542-tiger-tank-59-i-mission-pack-019.json) |
+| Tiger Tank 59 I: Mission Pack 020 | 155540 | [155540-tiger-tank-59-i-mission-pack-020.json](./155540-tiger-tank-59-i-mission-pack-020.json) |
+| Tiger Tank 59 I: Mission Pack 021 | 155535 | [155535-tiger-tank-59-i-mission-pack-021.json](./155535-tiger-tank-59-i-mission-pack-021.json) |
+| Tiger Tank 59 I: Mission Pack 022 | 155538 | [155538-tiger-tank-59-i-mission-pack-022.json](./155538-tiger-tank-59-i-mission-pack-022.json) |
+| Tiger Tank 59 I: Mission Pack 023 | 155544 | [155544-tiger-tank-59-i-mission-pack-023.json](./155544-tiger-tank-59-i-mission-pack-023.json) |
+| Tiger Tank 59 I: Mission Pack 024 | 155543 | [155543-tiger-tank-59-i-mission-pack-024.json](./155543-tiger-tank-59-i-mission-pack-024.json) |
+| Tiger Tank 59 I: Mission Pack 025 | 155533 | [155533-tiger-tank-59-i-mission-pack-025.json](./155533-tiger-tank-59-i-mission-pack-025.json) |
 | Tiger Tank 59 I: Mission Pack 027 | 160333 | [160333-tiger-tank-59-i-mission-pack-027.json](./160333-tiger-tank-59-i-mission-pack-027.json) |
 | Tiger Tank 59 I: Mission Pack 029 | 160351 | [160351-tiger-tank-59-i-mission-pack-029.json](./160351-tiger-tank-59-i-mission-pack-029.json) |
 | Tiger Tank 59 I: Mission Pack 030 | 161143 | [161143-tiger-tank-59-i-mission-pack-030.json](./161143-tiger-tank-59-i-mission-pack-030.json) |
