@@ -3398,6 +3398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meikyuu Ryuuki | 284319 | [284319-meikyuu-ryuuki.json](./284319-meikyuu-ryuuki.json) |
 | Meikyuu Xross Blood | 25664 | [25664-meikyuu-xross-blood.json](./25664-meikyuu-xross-blood.json) |
 | Meimetsu | 355209 | [355209-meimetsu.json](./355209-meimetsu.json) |
+| Mèimó de Màoxiǎn Shēnghuó | 164277 | [164277-meimo-de-maoxian-shenghuo.json](./164277-meimo-de-maoxian-shenghuo.json) |
 | Meine Eigene Traumstadt | 337719 | [337719-meine-eigene-traumstadt.json](./337719-meine-eigene-traumstadt.json) |
 | Meine Tierarztpraxis in Australien | 77635 | [77635-meine-tierarztpraxis-in-australien.json](./77635-meine-tierarztpraxis-in-australien.json) |
 | Meine Tierarztpraxis: SOS am Ozean | 204688 | [204688-meine-tierarztpraxis-sos-am-ozean.json](./204688-meine-tierarztpraxis-sos-am-ozean.json) |
@@ -3430,6 +3431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melancholy Love | 139483 | [139483-melancholy-love.json](./139483-melancholy-love.json) |
 | Melbits POD | 138236 | [138236-melbits-pod.json](./138236-melbits-pod.json) |
 | Melbourne: Route 96 | 334189 | [334189-melbourne-route-96.json](./334189-melbourne-route-96.json) |
+| Meldev Power Boat Racing | 164274 | [164274-meldev-power-boat-racing.json](./164274-meldev-power-boat-racing.json) |
 | Meli | 381846 | [381846-meli.json](./381846-meli.json) |
 | Melissa K. and the Heart of Gold: Collector's Edition | 36235 | [36235-melissa-k-and-the-heart-of-gold-collectors-edition.json](./36235-melissa-k-and-the-heart-of-gold-collectors-edition.json) |
 | Melkis: Spend With You the Sweet Days Like Fairy Tales | 222241 | [222241-melkis-spend-with-you-the-sweet-days-like-fairy-tales.json](./222241-melkis-spend-with-you-the-sweet-days-like-fairy-tales.json) |
@@ -3892,6 +3894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaball: Red Astro Pack | 293418 | [293418-metaball-red-astro-pack.json](./293418-metaball-red-astro-pack.json) |
 | Metaball: Space Guide Pack | 409071 | [409071-metaball-space-guide-pack.json](./409071-metaball-space-guide-pack.json) |
 | Metabolis | 237277 | [237277-metabolis.json](./237277-metabolis.json) |
+| Metachromium | 164239 | [164239-metachromium.json](./164239-metachromium.json) |
 | MetaCity M | 220334 | [220334-metacity-m.json](./220334-metacity-m.json) |
 | Metacity Patrol | 339796 | [339796-metacity-patrol.json](./339796-metacity-patrol.json) |
 | MetaDOS | 199923 | [199923-metados.json](./199923-metados.json) |
@@ -5828,6 +5831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobmania | 211807 | [211807-mobmania.json](./211807-mobmania.json) |
 | Mobo Greenhouse Garden | 256903 | [256903-mobo-greenhouse-garden.json](./256903-mobo-greenhouse-garden.json) |
 | Mobo Hide and Seek | 200128 | [200128-mobo-hide-and-seek.json](./200128-mobo-hide-and-seek.json) |
+| Mobocratic | 164279 | [164279-mobocratic.json](./164279-mobocratic.json) |
 | Mobs 'N Monsters | 321379 | [321379-mobs-n-monsters.json](./321379-mobs-n-monsters.json) |
 | Mobsmash.io | 125981 | [125981-mobsmash-io.json](./125981-mobsmash-io.json) |
 | Mobu | 404826 | [404826-mobu.json](./404826-mobu.json) |
@@ -7926,6 +7930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musket & Pike: Seven Years War | 132004 | [132004-musket-and-pike-seven-years-war.json](./132004-musket-and-pike-seven-years-war.json) |
 | Musketeer | 365793 | [365793-musketeer.json](./365793-musketeer.json) |
 | Musketeer Growth | 208967 | [208967-musketeer-growth.json](./208967-musketeer-growth.json) |
+| Musketeer of the hell | 164281 | [164281-musketeer-of-the-hell.json](./164281-musketeer-of-the-hell.json) |
 | MuSquare | 61315 | [61315-musquare.json](./61315-musquare.json) |
 | Must Be Feng Shui | 380659 | [380659-must-be-feng-shui.json](./380659-must-be-feng-shui.json) |
 | Must Deliver | 60241 | [60241-must-deliver.json](./60241-must-deliver.json) |
@@ -8462,6 +8467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sticker Room | 383969 | [383969-my-sticker-room.json](./383969-my-sticker-room.json) |
 | My Stop Smoking Coach with Allen Carr | 70638 | [70638-my-stop-smoking-coach-with-allen-carr.json](./70638-my-stop-smoking-coach-with-allen-carr.json) |
 | My Strange Girlfriends | 248926 | [248926-my-strange-girlfriends.json](./248926-my-strange-girlfriends.json) |
+| My Strong Horse | 164256 | [164256-my-strong-horse.json](./164256-my-strong-horse.json) |
 | My Strongest Girlfriend | 316651 | [316651-my-strongest-girlfriend.json](./316651-my-strongest-girlfriend.json) |
 | My Sudoku | 321960 | [321960-my-sudoku.json](./321960-my-sudoku.json) |
 | My Sudoku: Classic 4x4 Easy 10 | 321961 | [321961-my-sudoku-classic-4x4-easy-10.json](./321961-my-sudoku-classic-4x4-easy-10.json) |
