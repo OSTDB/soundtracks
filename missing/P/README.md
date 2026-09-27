@@ -595,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Corps 2: Axis Operations - 1939 | 155048 | [155048-panzer-corps-2-axis-operations-1939.json](./155048-panzer-corps-2-axis-operations-1939.json) |
 | Panzer Corps 2: Axis Operations - 1940 | 155050 | [155050-panzer-corps-2-axis-operations-1940.json](./155050-panzer-corps-2-axis-operations-1940.json) |
 | Panzer Corps 2: Axis Operations - 1941 | 155081 | [155081-panzer-corps-2-axis-operations-1941.json](./155081-panzer-corps-2-axis-operations-1941.json) |
+| Panzer Corps 2: Axis Operations - 1942 | 159689 | [159689-panzer-corps-2-axis-operations-1942.json](./159689-panzer-corps-2-axis-operations-1942.json) |
 | Panzer Corps 2: Axis Operations - 1944 | 220620 | [220620-panzer-corps-2-axis-operations-1944.json](./220620-panzer-corps-2-axis-operations-1944.json) |
 | Panzer Corps 2: Axis Operations - 1945 | 248896 | [248896-panzer-corps-2-axis-operations-1945.json](./248896-panzer-corps-2-axis-operations-1945.json) |
 | Panzer Corps 2: Axis Operations - Spanish Civil War | 155049 | [155049-panzer-corps-2-axis-operations-spanish-civil-war.json](./155049-panzer-corps-2-axis-operations-spanish-civil-war.json) |
@@ -1516,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pc Building Empire | 357424 | [357424-pc-building-empire.json](./357424-pc-building-empire.json) |
 | PC Building Nightmare | 389603 | [389603-pc-building-nightmare.json](./389603-pc-building-nightmare.json) |
 | PC Building Simulator: Deadstick Case | 124783 | [124783-pc-building-simulator-deadstick-case.json](./124783-pc-building-simulator-deadstick-case.json) |
+| PC Building Simulator: Fractal Workshop | 159688 | [159688-pc-building-simulator-fractal-workshop.json](./159688-pc-building-simulator-fractal-workshop.json) |
 | PC Building Simulator: Good Company Case | 124811 | [124811-pc-building-simulator-good-company-case.json](./124811-pc-building-simulator-good-company-case.json) |
 | PC Building Simulator: IT Expansion | 250032 | [250032-pc-building-simulator-it-expansion.json](./250032-pc-building-simulator-it-expansion.json) |
 | PC Creator: PC Building Simulator | 186329 | [186329-pc-creator-pc-building-simulator.json](./186329-pc-creator-pc-building-simulator.json) |
@@ -2353,6 +2355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Point: Corrupted Horizons | 171628 | [171628-phoenix-point-corrupted-horizons.json](./171628-phoenix-point-corrupted-horizons.json) |
 | Phoenix Point: Festering Skies | 149592 | [149592-phoenix-point-festering-skies.json](./149592-phoenix-point-festering-skies.json) |
 | Phoenix Point: Legacy of the Ancients | 149585 | [149585-phoenix-point-legacy-of-the-ancients.json](./149585-phoenix-point-legacy-of-the-ancients.json) |
+| Phoenix Point: Year One Edition - Festering Skies | 159694 | [159694-phoenix-point-year-one-edition-festering-skies.json](./159694-phoenix-point-year-one-edition-festering-skies.json) |
 | Phoenix Reborn Games Big Christmas bundle | 331484 | [331484-phoenix-reborn-games-big-christmas-bundle.json](./331484-phoenix-reborn-games-big-christmas-bundle.json) |
 | Phoenix Springs | 223363 | [223363-phoenix-springs.json](./223363-phoenix-springs.json) |
 | Phoenix Strike | 129743 | [129743-phoenix-strike.json](./129743-phoenix-strike.json) |
@@ -4101,6 +4104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plink Game | 239187 | [239187-plink-game.json](./239187-plink-game.json) |
 | Plinko Panic! | 189203 | [189203-plinko-panic.json](./189203-plinko-panic.json) |
 | Plobania 47/B | 400286 | [400286-plobania-47-b.json](./400286-plobania-47-b.json) |
+| Ploid | 159682 | [159682-ploid.json](./159682-ploid.json) |
 | Ploid Saga | 132628 | [132628-ploid-saga.json](./132628-ploid-saga.json) |
 | Plong | 258190 | [258190-plong.json](./258190-plong.json) |
 | Ploppy Pairs | 197245 | [197245-ploppy-pairs.json](./197245-ploppy-pairs.json) |
