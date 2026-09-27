@@ -2088,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet World | 411146 | [411146-pet-world.json](./411146-pet-world.json) |
 | Pet'n'Run | 325833 | [325833-petnrun.json](./325833-petnrun.json) |
 | Petadachi | 225876 | [225876-petadachi.json](./225876-petadachi.json) |
+| Petal Crash | 139293 | [139293-petal-crash.json](./139293-petal-crash.json) |
 | Petals of the Star Curtain | 153331 | [153331-petals-of-the-star-curtain.json](./153331-petals-of-the-star-curtain.json) |
 | Pétanque 2026 | 401828 | [401828-petanque-2026.json](./401828-petanque-2026.json) |
 | Pétanque Master | 93518 | [93518-petanque-master.json](./93518-petanque-master.json) |
@@ -4672,6 +4673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Recordkeepers | 376582 | [376582-pokemon-recordkeepers.json](./376582-pokemon-recordkeepers.json) |
 | Pokémon Red Full Color | 213036 | [213036-pokemon-red-full-color.json](./213036-pokemon-red-full-color.json) |
 | Pokémon Refined Gold | 226210 | [226210-pokemon-refined-gold.json](./226210-pokemon-refined-gold.json) |
+| Pokémon Rejuvenation | 139328 | [139328-pokemon-rejuvenation.json](./139328-pokemon-rejuvenation.json) |
 | Pokemon Reloaded | 343908 | [343908-pokemon-reloaded.json](./343908-pokemon-reloaded.json) |
 | Pokémon Revelation | 226211 | [226211-pokemon-revelation.json](./226211-pokemon-revelation.json) |
 | Pokémon Revolution Online | 129561 | [129561-pokemon-revolution-online.json](./129561-pokemon-revolution-online.json) |
@@ -5050,6 +5052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ponon! Deluxe | 263576 | [263576-ponon-deluxe.json](./263576-ponon-deluxe.json) |
 | PonPonTown | 372986 | [372986-ponpontown.json](./372986-ponpontown.json) |
 | Ponpu | 132777 | [132777-ponpu.json](./132777-ponpu.json) |
+| Pontefract | 139317 | [139317-pontefract.json](./139317-pontefract.json) |
 | Pony Card Match HD | 96740 | [96740-pony-card-match-hd.json](./96740-pony-card-match-hd.json) |
 | Pony Craft | 205661 | [205661-pony-craft.json](./205661-pony-craft.json) |
 | Pony Doctor | 101973 | [101973-pony-doctor.json](./101973-pony-doctor.json) |
