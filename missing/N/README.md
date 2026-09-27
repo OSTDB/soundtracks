@@ -2378,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nippon Suugaku Kentei Kyoukai Kounin: Suuken DS - Otona ga Tokenai!? Kodomo no Sansuu | 269615 | [269615-nippon-suugaku-kentei-kyoukai-kounin-suuken-ds-otona-ga-tokenai-kodomo-no-sansuu.json](./269615-nippon-suugaku-kentei-kyoukai-kounin-suuken-ds-otona-ga-tokenai-kodomo-no-sansuu.json) |
 | Nira | 126207 | [126207-nira.json](./126207-nira.json) |
 | NIRA Intense Import Drag Racing | 62225 | [62225-nira-intense-import-drag-racing.json](./62225-nira-intense-import-drag-racing.json) |
+| Nira Oni | 122929 | [122929-nira-oni.json](./122929-nira-oni.json) |
 | Niravasi | 206735 | [206735-niravasi.json](./206735-niravasi.json) |
 | Niraya of | 309326 | [309326-niraya-of.json](./309326-niraya-of.json) |
 | Nirih | 348325 | [348325-nirih.json](./348325-nirih.json) |
