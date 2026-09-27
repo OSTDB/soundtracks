@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gang of Four | 127053 | [127053-gang-of-four.json](./127053-gang-of-four.json) |
 | Gangnam City Deluxe | 242207 | [242207-gangnam-city-deluxe.json](./242207-gangnam-city-deluxe.json) |
 | Gangs of Asia | 360068 | [360068-gangs-of-asia.json](./360068-gangs-of-asia.json) |
+| Gangs of Rikton | 167592 | [167592-gangs-of-rikton.json](./167592-gangs-of-rikton.json) |
 | Gangs on New York | 345581 | [345581-gangs-on-new-york.json](./345581-gangs-on-new-york.json) |
 | Gangs Town Story | 197333 | [197333-gangs-town-story.json](./197333-gangs-town-story.json) |
 | Gangsta Bean | 234931 | [234931-gangsta-bean.json](./234931-gangsta-bean.json) |
@@ -2087,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory Hold | 151117 | [151117-glory-hold.json](./151117-glory-hold.json) |
 | Glory Hounds | 210700 | [210700-glory-hounds.json](./210700-glory-hounds.json) |
 | Glory of Generals | 84508 | [84508-glory-of-generals.json](./84508-glory-of-generals.json) |
+| Glory of the Colosseum | 167576 | [167576-glory-of-the-colosseum.json](./167576-glory-of-the-colosseum.json) |
 | Glory of the Survivor | 200134 | [200134-glory-of-the-survivor.json](./200134-glory-of-the-survivor.json) |
 | Glory of War | 209664 | [209664-glory-of-war.json](./209664-glory-of-war.json) |
 | Glory On Pluto | 336126 | [336126-glory-on-pluto.json](./336126-glory-on-pluto.json) |
