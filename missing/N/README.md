@@ -927,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis Z | 287211 | [287211-nemesis-z.json](./287211-nemesis-z.json) |
 | Nemesis: The Final Challenge | 262391 | [262391-nemesis-the-final-challenge.json](./262391-nemesis-the-final-challenge.json) |
 | Nemesis: The Final Challenge | 262392 | [262392-nemesis-the-final-challenge.json](./262392-nemesis-the-final-challenge.json) |
+| Nemezis: Mysterious Journey III - Deluxe Edition | 159692 | [159692-nemezis-mysterious-journey-iii-deluxe-edition.json](./159692-nemezis-mysterious-journey-iii-deluxe-edition.json) |
 | Nemo | 303778 | [303778-nemo.json](./303778-nemo.json) |
 | Nemo is going to School | 264105 | [264105-nemo-is-going-to-school.json](./264105-nemo-is-going-to-school.json) |
 | Nemo: Puzzle Pack II | 303779 | [303779-nemo-puzzle-pack-ii.json](./303779-nemo-puzzle-pack-ii.json) |
