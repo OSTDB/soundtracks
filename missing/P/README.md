@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paleo Pines: Spooktacular DLC | 360598 | [360598-paleo-pines-spooktacular-dlc.json](./360598-paleo-pines-spooktacular-dlc.json) |
 | Paleo Pines: Trick or Treat DLC | 360597 | [360597-paleo-pines-trick-or-treat-dlc.json](./360597-paleo-pines-trick-or-treat-dlc.json) |
 | Paleo: Rising Town | 139820 | [139820-paleo-rising-town.json](./139820-paleo-rising-town.json) |
+| Paleon | 148991 | [148991-paleon.json](./148991-paleon.json) |
 | Paletta | 133822 | [133822-paletta.json](./133822-paletta.json) |
 | Palette | 62668 | [62668-palette.json](./62668-palette.json) |
 | Palette Swap | 163993 | [163993-palette-swap.json](./163993-palette-swap.json) |
@@ -1026,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Park Ranger Simulator | 314460 | [314460-park-ranger-simulator.json](./314460-park-ranger-simulator.json) |
 | Park Ranger: Lost in the Woods | 223423 | [223423-park-ranger-lost-in-the-woods.json](./223423-park-ranger-lost-in-the-woods.json) |
 | Park Rangers of the Undead | 162843 | [162843-park-rangers-of-the-undead.json](./162843-park-rangers-of-the-undead.json) |
+| Park Story | 148947 | [148947-park-story.json](./148947-park-story.json) |
 | Park the Car | 166711 | [166711-park-the-car.json](./166711-park-the-car.json) |
 | Park the Retro Car | 309498 | [309498-park-the-retro-car.json](./309498-park-the-retro-car.json) |
 | Park Up Car | 268972 | [268972-park-up-car.json](./268972-park-up-car.json) |
@@ -3181,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates Crew | 176297 | [176297-pirates-crew.json](./176297-pirates-crew.json) |
 | Pirates CSG Online | 20643 | [20643-pirates-csg-online.json](./20643-pirates-csg-online.json) |
 | Pirates Deck | 35643 | [35643-pirates-deck.json](./35643-pirates-deck.json) |
+| Pirates Girls | 148971 | [148971-pirates-girls.json](./148971-pirates-girls.json) |
 | Pirates Golden Quest | 300854 | [300854-pirates-golden-quest.json](./300854-pirates-golden-quest.json) |
 | Pirates Kingdom | 323170 | [323170-pirates-kingdom.json](./323170-pirates-kingdom.json) |
 | Pirates Odyssey | 270122 | [270122-pirates-odyssey.json](./270122-pirates-odyssey.json) |
@@ -3858,6 +3861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Life | 258433 | [258433-planetary-life.json](./258433-planetary-life.json) |
 | Planetary Parfait | 293139 | [293139-planetary-parfait.json](./293139-planetary-parfait.json) |
 | Planetary Settlers | 101340 | [101340-planetary-settlers.json](./101340-planetary-settlers.json) |
+| Planetation | 148978 | [148978-planetation.json](./148978-planetation.json) |
 | Planetbase | 13200 | [13200-planetbase.json](./13200-planetbase.json) |
 | PlanetCon | 114780 | [114780-planetcon.json](./114780-planetcon.json) |
 | PlanetDrop: A Tiny Space Adventure | 180011 | [180011-planetdrop-a-tiny-space-adventure.json](./180011-planetdrop-a-tiny-space-adventure.json) |
@@ -6986,6 +6990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pugovki | 177051 | [177051-pugovki.json](./177051-pugovki.json) |
 | PUIQ: Demons | 298053 | [298053-puiq-demons.json](./298053-puiq-demons.json) |
 | Pulang Insanity: Director's Cut | 117769 | [117769-pulang-insanity-directors-cut.json](./117769-pulang-insanity-directors-cut.json) |
+| Pull | 148954 | [148954-pull.json](./148954-pull.json) |
 | Pull Ball | 114361 | [114361-pull-ball.json](./114361-pull-ball.json) |
 | Pull Him Up: Pull the Pin Out | 227952 | [227952-pull-him-up-pull-the-pin-out.json](./227952-pull-him-up-pull-the-pin-out.json) |
 | Pull My Finger | 416656 | [416656-pull-my-finger.json](./416656-pull-my-finger.json) |
@@ -7225,6 +7230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purry & Panther: Lost in Helsinki | 304646 | [304646-purry-and-panther-lost-in-helsinki.json](./304646-purry-and-panther-lost-in-helsinki.json) |
 | Pursuing Susie | 84534 | [84534-pursuing-susie.json](./84534-pursuing-susie.json) |
 | Pursuit of Power 2 | 30866 | [30866-pursuit-of-power-2.json](./30866-pursuit-of-power-2.json) |
+| Pursuit of Redemption | 148979 | [148979-pursuit-of-redemption.json](./148979-pursuit-of-redemption.json) |
 | Purumui Purumui | 143677 | [143677-purumui-purumui.json](./143677-purumui-purumui.json) |
 | Pururun! Shizuku-chan: Asonde Tanoshiku Nouryoku Up | 327618 | [327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json](./327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json) |
 | Push | 55799 | [55799-push.json](./55799-push.json) |
