@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kami Mahou | 188509 | [188509-kami-mahou.json](./188509-kami-mahou.json) |
 | Kami Naru Kimi To | 56772 | [56772-kami-naru-kimi-to.json](./56772-kami-naru-kimi-to.json) |
 | Kami no Me no Aeon: Zenpen | 341326 | [341326-kami-no-me-no-aeon-zenpen.json](./341326-kami-no-me-no-aeon-zenpen.json) |
+| Kami no Rhapsody | 144875 | [144875-kami-no-rhapsody.json](./144875-kami-no-rhapsody.json) |
 | Kami Quest: Enter the Imagynasium | 361762 | [361762-kami-quest-enter-the-imagynasium.json](./361762-kami-quest-enter-the-imagynasium.json) |
 | Kami-sama no Shippo: Etogami-sama-tachi no Ongaeshi | 194608 | [194608-kami-sama-no-shippo-etogami-sama-tachi-no-ongaeshi.json](./194608-kami-sama-no-shippo-etogami-sama-tachi-no-ongaeshi.json) |
 | Kami-sama no you na Kimi he | 146781 | [146781-kami-sama-no-you-na-kimi-he.json](./146781-kami-sama-no-you-na-kimi-he.json) |
