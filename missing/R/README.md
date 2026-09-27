@@ -2288,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Requeue | 183972 | [183972-requeue.json](./183972-requeue.json) |
 | Requia Online | 175329 | [175329-requia-online.json](./175329-requia-online.json) |
 | Requie-mu | 292859 | [292859-requie-mu.json](./292859-requie-mu.json) |
+| Requiem | 141085 | [141085-requiem.json](./141085-requiem.json) |
 | Requiem | 377166 | [377166-requiem.json](./377166-requiem.json) |
 | Requiem Hurts | 22404 | [22404-requiem-hurts.json](./22404-requiem-hurts.json) |
 | Requiem Hurts: Rainy Escape | 22405 | [22405-requiem-hurts-rainy-escape.json](./22405-requiem-hurts-rainy-escape.json) |
@@ -3738,6 +3739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robicon | 373764 | [373764-robicon.json](./373764-robicon.json) |
 | Robin & Orchid | 60013 | [60013-robin-and-orchid.json](./60013-robin-and-orchid.json) |
 | Robin Hood: Sherwood Defenders | 330262 | [330262-robin-hood-sherwood-defenders.json](./330262-robin-hood-sherwood-defenders.json) |
+| Robin Hood: The Siege | 141092 | [141092-robin-hood-the-siege.json](./141092-robin-hood-the-siege.json) |
 | Robin Hood's Quest | 43558 | [43558-robin-hoods-quest.json](./43558-robin-hoods-quest.json) |
 | Robin Lloyd no Bouken | 62988 | [62988-robin-lloyd-no-bouken.json](./62988-robin-lloyd-no-bouken.json) |
 | Robin Morningwood Adventure: A Gay RPG | 156097 | [156097-robin-morningwood-adventure-a-gay-rpg.json](./156097-robin-morningwood-adventure-a-gay-rpg.json) |
@@ -4586,6 +4588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romeo | 71527 | [71527-romeo.json](./71527-romeo.json) |
 | Romeo & Juliet | 145667 | [145667-romeo-and-juliet.json](./145667-romeo-and-juliet.json) |
 | Romeo vs. Juliet: All Series Pack | 59447 | [59447-romeo-vs-juliet-all-series-pack.json](./59447-romeo-vs-juliet-all-series-pack.json) |
+| Romeow & Julicat | 141109 | [141109-romeow-and-julicat.json](./141109-romeow-and-julicat.json) |
 | Romero's Aftermath | 26714 | [26714-romeros-aftermath.json](./26714-romeros-aftermath.json) |
 | Romestead | 336150 | [336150-romestead.json](./336150-romestead.json) |
 | Romgadr | 259291 | [259291-romgadr.json](./259291-romgadr.json) |
@@ -5213,6 +5216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run for Cheese | 174356 | [174356-run-for-cheese.json](./174356-run-for-cheese.json) |
 | Run For Cover | 117655 | [117655-run-for-cover.json](./117655-run-for-cover.json) |
 | Run for Love | 180747 | [180747-run-for-love.json](./180747-run-for-love.json) |
+| Run for Money Tousouchuu | 141123 | [141123-run-for-money-tousouchuu.json](./141123-run-for-money-tousouchuu.json) |
 | Run Forrest Run | 305912 | [305912-run-forrest-run.json](./305912-run-forrest-run.json) |
 | Run Foxy, Run! | 224543 | [224543-run-foxy-run.json](./224543-run-foxy-run.json) |
 | Run from Bubol Horror | 359990 | [359990-run-from-bubol-horror.json](./359990-run-from-bubol-horror.json) |
