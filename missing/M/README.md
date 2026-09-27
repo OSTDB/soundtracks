@@ -3638,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Menacer | 45599 | [45599-menacer.json](./45599-menacer.json) |
 | Menacetide | 386238 | [386238-menacetide.json](./386238-menacetide.json) |
 | Menage a Trois | 297552 | [297552-menage-a-trois.json](./297552-menage-a-trois.json) |
+| Menagerie I: Exoptable Money | 169179 | [169179-menagerie-i-exoptable-money.json](./169179-menagerie-i-exoptable-money.json) |
 | Menagerie I: Exoptable Money | 223664 | [223664-menagerie-i-exoptable-money.json](./223664-menagerie-i-exoptable-money.json) |
 | Menagerie II: Presentable Liberty | 50154 | [50154-menagerie-ii-presentable-liberty.json](./50154-menagerie-ii-presentable-liberty.json) |
 | Menara: Grass Land | 282732 | [282732-menara-grass-land.json](./282732-menara-grass-land.json) |
