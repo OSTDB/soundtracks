@@ -774,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3030 | 262985 | [262985-3030.json](./262985-3030.json) |
 | 3030 Deathwar Redux | 32952 | [32952-3030-deathwar-redux.json](./32952-3030-deathwar-redux.json) |
 | 3059 | 300002 | [300002-3059.json](./300002-3059.json) |
+| 30th Anniversary of Pac-Man | 133878 | [133878-30th-anniversary-of-pac-man.json](./133878-30th-anniversary-of-pac-man.json) |
 | 30XX: Feline Fury | 318700 | [318700-30xx-feline-fury.json](./318700-30xx-feline-fury.json) |
 | 31 Pixels Later | 315648 | [315648-31-pixels-later.json](./315648-31-pixels-later.json) |
 | 31 Unmarked Games | 179524 | [179524-31-unmarked-games.json](./179524-31-unmarked-games.json) |
@@ -874,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Rally Racing | 175178 | [175178-3d-rally-racing.json](./175178-3d-rally-racing.json) |
 | 3D Recon | 57651 | [57651-3d-recon.json](./57651-3d-recon.json) |
 | 3D Retro Dungeon Puzzle Challenge | 100567 | [100567-3d-retro-dungeon-puzzle-challenge.json](./100567-3d-retro-dungeon-puzzle-challenge.json) |
+| 3D Rollercoaster Rush | 133916 | [133916-3d-rollercoaster-rush.json](./133916-3d-rollercoaster-rush.json) |
 | 3D Shooting Tsukuuru | 60581 | [60581-3d-shooting-tsukuuru.json](./60581-3d-shooting-tsukuuru.json) |
 | 3D Snake . io | 100864 | [100864-3d-snake-io.json](./100864-3d-snake-io.json) |
 | 3D Sonic the Hedgehog | 84656 | [84656-3d-sonic-the-hedgehog.json](./84656-3d-sonic-the-hedgehog.json) |
