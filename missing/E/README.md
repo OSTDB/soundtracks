@@ -683,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eien no Filena | 15899 | [15899-eien-no-filena.json](./15899-eien-no-filena.json) |
 | Eien no Miyako | 372564 | [372564-eien-no-miyako.json](./372564-eien-no-miyako.json) |
 | Eiga Sumikko Gurashi: Aoi Tsukiyo no Mahou no Ko - Game de Asobou! Eiga no Sekai | 171550 | [171550-eiga-sumikko-gurashi-aoi-tsukiyo-no-mahou-no-ko-game-de-asobou-eiga-no-sekai.json](./171550-eiga-sumikko-gurashi-aoi-tsukiyo-no-mahou-no-ko-game-de-asobou-eiga-no-sekai.json) |
+| Eiga Sumikko Gurashi: Tobidasu Ehon to Himitsu no Ko - Game de Asobou! Ehon no Sekai | 136961 | [136961-eiga-sumikko-gurashi-tobidasu-ehon-to-himitsu-no-ko-game-de-asobou-ehon-no-sekai.json](./136961-eiga-sumikko-gurashi-tobidasu-ehon-to-himitsu-no-ko-game-de-asobou-ehon-no-sekai.json) |
 | Eigen Space | 192427 | [192427-eigen-space.json](./192427-eigen-space.json) |
 | EigenGauge | 283771 | [283771-eigengauge.json](./283771-eigengauge.json) |
 | Eigenstate | 176470 | [176470-eigenstate.json](./176470-eigenstate.json) |
@@ -1061,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ellsydia | 378416 | [378416-ellsydia.json](./378416-ellsydia.json) |
 | Elm Knight: A Living Body Armor | 91762 | [91762-elm-knight-a-living-body-armor.json](./91762-elm-knight-a-living-body-armor.json) |
 | Elmin | 345588 | [345588-elmin.json](./345588-elmin.json) |
+| Elminage Gothic 3D Remix: Ulm Zakir to Yami no Gishiki | 136933 | [136933-elminage-gothic-3d-remix-ulm-zakir-to-yami-no-gishiki.json](./136933-elminage-gothic-3d-remix-ulm-zakir-to-yami-no-gishiki.json) |
 | Elminage Original | 21033 | [21033-elminage-original.json](./21033-elminage-original.json) |
 | Elmo Through the Looking-Glass | 333203 | [333203-elmo-through-the-looking-glass.json](./333203-elmo-through-the-looking-glass.json) |
 | Elmo's Deep Sea Adventure | 71511 | [71511-elmos-deep-sea-adventure.json](./71511-elmos-deep-sea-adventure.json) |
