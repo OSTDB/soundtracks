@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora's Box | 76200 | [76200-pandoras-box.json](./76200-pandoras-box.json) |
 | Pandora's Doom: Apocalypse Hotline | 333602 | [333602-pandoras-doom-apocalypse-hotline.json](./333602-pandoras-doom-apocalypse-hotline.json) |
 | Pandora's Sack | 406685 | [406685-pandoras-sack.json](./406685-pandoras-sack.json) |
+| Pandoria | 148465 | [148465-pandoria.json](./148465-pandoria.json) |
 | Pandrax | 118194 | [118194-pandrax.json](./118194-pandrax.json) |
 | Panel Attack | 167702 | [167702-panel-attack.json](./167702-panel-attack.json) |
 | Panel de Pon | 150107 | [150107-panel-de-pon.json](./150107-panel-de-pon.json) |
@@ -2605,6 +2606,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross Fairytale | 102879 | [102879-picross-fairytale.json](./102879-picross-fairytale.json) |
 | Picross Floof | 116104 | [116104-picross-floof.json](./116104-picross-floof.json) |
 | Picross for a Cause | 139253 | [139253-picross-for-a-cause.json](./139253-picross-for-a-cause.json) |
+| Picross NP Vol. 2 | 148421 | [148421-picross-np-vol-2.json](./148421-picross-np-vol-2.json) |
+| Picross NP Vol. 3 | 148428 | [148428-picross-np-vol-3.json](./148428-picross-np-vol-3.json) |
+| Picross NP Vol. 4 | 148430 | [148430-picross-np-vol-4.json](./148430-picross-np-vol-4.json) |
+| Picross NP Vol. 5 | 148431 | [148431-picross-np-vol-5.json](./148431-picross-np-vol-5.json) |
+| Picross NP Vol. 6 | 148432 | [148432-picross-np-vol-6.json](./148432-picross-np-vol-6.json) |
+| Picross NP Vol. 7 | 148433 | [148433-picross-np-vol-7.json](./148433-picross-np-vol-7.json) |
+| Picross NP Vol. 8 | 148434 | [148434-picross-np-vol-8.json](./148434-picross-np-vol-8.json) |
 | Picross S Capcom Classics Edition | 378164 | [378164-picross-s-capcom-classics-edition.json](./378164-picross-s-capcom-classics-edition.json) |
 | Picross S Doraemon & F Characters Edition | 335349 | [335349-picross-s-doraemon-and-f-characters-edition.json](./335349-picross-s-doraemon-and-f-characters-edition.json) |
 | Picross S Konami Antiques Edition | 395594 | [395594-picross-s-konami-antiques-edition.json](./395594-picross-s-konami-antiques-edition.json) |
@@ -3071,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pioneers of Pagonia | 237457 | [237457-pioneers-of-pagonia.json](./237457-pioneers-of-pagonia.json) |
 | Pioneers of the Coast | 341575 | [341575-pioneers-of-the-coast.json](./341575-pioneers-of-the-coast.json) |
 | Pioneerz | 129219 | [129219-pioneerz.json](./129219-pioneerz.json) |
+| Pioner | 148454 | [148454-pioner.json](./148454-pioner.json) |
 | Piozila 2 : Animal Adventures | 269066 | [269066-piozila-2-animal-adventures.json](./269066-piozila-2-animal-adventures.json) |
 | Pip 5 | 221132 | [221132-pip-5.json](./221132-pip-5.json) |
 | Pip L | 226685 | [226685-pip-l.json](./226685-pip-l.json) |
@@ -4150,6 +4159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pluk van de Petteflet | 269556 | [269556-pluk-van-de-petteflet.json](./269556-pluk-van-de-petteflet.json) |
 | Plum Bun Reformatted | 190063 | [190063-plum-bun-reformatted.json](./190063-plum-bun-reformatted.json) |
 | Plum Road Tea Dream | 361293 | [361293-plum-road-tea-dream.json](./361293-plum-road-tea-dream.json) |
+| Plumber | 148446 | [148446-plumber.json](./148446-plumber.json) |
 | Plumber | 246358 | [246358-plumber.json](./246358-plumber.json) |
 | Plumber 3D | 336908 | [336908-plumber-3d.json](./336908-plumber-3d.json) |
 | Plumber Game: Water Pipe Line Connecting | 96002 | [96002-plumber-game-water-pipe-line-connecting.json](./96002-plumber-game-water-pipe-line-connecting.json) |
@@ -5197,6 +5207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopSlinger vol. 2: Loveless | 319397 | [319397-popslinger-vol-2-loveless.json](./319397-popslinger-vol-2-loveless.json) |
 | Popstars | 92843 | [92843-popstars.json](./92843-popstars.json) |
 | Poptile | 214620 | [214620-poptile.json](./214620-poptile.json) |
+| Poptropica | 148445 | [148445-poptropica.json](./148445-poptropica.json) |
 | Poptropica Worlds | 103523 | [103523-poptropica-worlds.json](./103523-poptropica-worlds.json) |
 | Popucom x Arknights Collab Outfit Pack | 378876 | [378876-popucom-x-arknights-collab-outfit-pack.json](./378876-popucom-x-arknights-collab-outfit-pack.json) |
 | Popucom: Too Many Clothes Pack | 378875 | [378875-popucom-too-many-clothes-pack.json](./378875-popucom-too-many-clothes-pack.json) |
