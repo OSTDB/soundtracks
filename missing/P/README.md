@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palace of Nemrac | 261283 | [261283-palace-of-nemrac.json](./261283-palace-of-nemrac.json) |
 | Palace of Poetry | 386862 | [386862-palace-of-poetry.json](./386862-palace-of-poetry.json) |
 | Palace of Woe | 134683 | [134683-palace-of-woe.json](./134683-palace-of-woe.json) |
+| Paladin Dream | 154995 | [154995-paladin-dream.json](./154995-paladin-dream.json) |
 | Paladin II | 70354 | [70354-paladin-ii.json](./70354-paladin-ii.json) |
 | Paladin's Legacy | 356866 | [356866-paladins-legacy.json](./356866-paladins-legacy.json) |
 | Paladin's Oath | 190739 | [190739-paladins-oath.json](./190739-paladins-oath.json) |
