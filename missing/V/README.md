@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyria Chronicles 4: A Captainless Squad | 238635 | [238635-valkyria-chronicles-4-a-captainless-squad.json](./238635-valkyria-chronicles-4-a-captainless-squad.json) |
 | Valkyria Chronicles 4: Advance Ops | 304734 | [304734-valkyria-chronicles-4-advance-ops.json](./304734-valkyria-chronicles-4-advance-ops.json) |
 | Valkyria Chronicles 4: Expert Level Skirmishes | 304755 | [304755-valkyria-chronicles-4-expert-level-skirmishes.json](./304755-valkyria-chronicles-4-expert-level-skirmishes.json) |
+| Valkyria Chronicles 4: Launch Edition | 136324 | [136324-valkyria-chronicles-4-launch-edition.json](./136324-valkyria-chronicles-4-launch-edition.json) |
 | Valkyria Chronicles 4: Memoirs From Battle Edition | 132179 | [132179-valkyria-chronicles-4-memoirs-from-battle-edition.json](./132179-valkyria-chronicles-4-memoirs-from-battle-edition.json) |
 | Valkyria Chronicles Bundle | 138811 | [138811-valkyria-chronicles-bundle.json](./138811-valkyria-chronicles-bundle.json) |
 | Valkyria Chronicles: Challenge of the Edy Detachment | 138837 | [138837-valkyria-chronicles-challenge-of-the-edy-detachment.json](./138837-valkyria-chronicles-challenge-of-the-edy-detachment.json) |
