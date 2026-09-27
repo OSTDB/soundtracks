@@ -7346,6 +7346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossed Paths: Connected Worlds - At First Sight | 180105 | [180105-crossed-paths-connected-worlds-at-first-sight.json](./180105-crossed-paths-connected-worlds-at-first-sight.json) |
 | Crossed Swords | 39642 | [39642-crossed-swords.json](./39642-crossed-swords.json) |
 | Crossedland | 207501 | [207501-crossedland.json](./207501-crossedland.json) |
+| Crosser | 121550 | [121550-crosser.json](./121550-crosser.json) |
 | CrossFire | 138120 | [138120-crossfire.json](./138120-crossfire.json) |
 | CrossFire | 267638 | [267638-crossfire.json](./267638-crossfire.json) |
 | Crossfire 2 | 76994 | [76994-crossfire-2.json](./76994-crossfire-2.json) |
