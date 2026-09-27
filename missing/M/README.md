@@ -749,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnir Saga Part 1 | 263227 | [263227-magnir-saga-part-1.json](./263227-magnir-saga-part-1.json) |
 | Magnitude: Sigma | 366213 | [366213-magnitude-sigma.json](./366213-magnitude-sigma.json) |
 | Magnolia | 141031 | [141031-magnolia.json](./141031-magnolia.json) |
+| Magnum Quest | 166527 | [166527-magnum-quest.json](./166527-magnum-quest.json) |
 | Magnus Imago | 188683 | [188683-magnus-imago.json](./188683-magnus-imago.json) |
 | Magnus Kingdom of Chess | 103897 | [103897-magnus-kingdom-of-chess.json](./103897-magnus-kingdom-of-chess.json) |
 | Mago | 120365 | [120365-mago.json](./120365-mago.json) |
@@ -7437,6 +7438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Hibbl | 156661 | [156661-mr-hibbl.json](./156661-mr-hibbl.json) |
 | Mr. Hoob! | 372695 | [372695-mr-hoob.json](./372695-mr-hoob.json) |
 | Mr. Joshua Carrot | 128354 | [128354-mr-joshua-carrot.json](./128354-mr-joshua-carrot.json) |
+| Mr. Krabs Tax Evasion | 166526 | [166526-mr-krabs-tax-evasion.json](./166526-mr-krabs-tax-evasion.json) |
 | Mr. Krasnoludek, Teach Me Your Magic Spells | 169879 | [169879-mr-krasnoludek-teach-me-your-magic-spells.json](./169879-mr-krasnoludek-teach-me-your-magic-spells.json) |
 | Mr. Krussy Requires Souls of the Damned | 177491 | [177491-mr-krussy-requires-souls-of-the-damned.json](./177491-mr-krussy-requires-souls-of-the-damned.json) |
 | Mr. Luma's Cooking Adventure | 234335 | [234335-mr-lumas-cooking-adventure.json](./234335-mr-lumas-cooking-adventure.json) |
@@ -8548,6 +8550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Valiant Purpose | 278384 | [278384-my-valiant-purpose.json](./278384-my-valiant-purpose.json) |
 | My Very Hungry Caterpillar | 321784 | [321784-my-very-hungry-caterpillar.json](./321784-my-very-hungry-caterpillar.json) |
 | My Very Own Lair | 158563 | [158563-my-very-own-lair.json](./158563-my-very-own-lair.json) |
+| My Village Life | 166506 | [166506-my-village-life.json](./166506-my-village-life.json) |
 | My Vineyard | 92440 | [92440-my-vineyard.json](./92440-my-vineyard.json) |
 | My Virtual Friend | 330534 | [330534-my-virtual-friend.json](./330534-my-virtual-friend.json) |
 | My Virtual Pet Louie the Pug | 250019 | [250019-my-virtual-pet-louie-the-pug.json](./250019-my-virtual-pet-louie-the-pug.json) |
