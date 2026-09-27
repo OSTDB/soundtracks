@@ -3092,6 +3092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Clockwork Man 2 | 88744 | [88744-the-clockwork-man-2.json](./88744-the-clockwork-man-2.json) |
 | The Closed Circle | 226313 | [226313-the-closed-circle.json](./226313-the-closed-circle.json) |
 | The Closure | 249767 | [249767-the-closure.json](./249767-the-closure.json) |
+| The Clot Thickens | 156578 | [156578-the-clot-thickens.json](./156578-the-clot-thickens.json) |
 | The Clotted Island | 128591 | [128591-the-clotted-island.json](./128591-the-clotted-island.json) |
 | The Cloudberry Abyss | 402998 | [402998-the-cloudberry-abyss.json](./402998-the-cloudberry-abyss.json) |
 | The Clown | 260975 | [260975-the-clown.json](./260975-the-clown.json) |
@@ -6651,6 +6652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Search Master: Metal Gear Solid Edition | 270390 | [270390-the-search-master-metal-gear-solid-edition.json](./270390-the-search-master-metal-gear-solid-edition.json) |
 | The Searcher Wild West Adventure | 105373 | [105373-the-searcher-wild-west-adventure.json](./105373-the-searcher-wild-west-adventure.json) |
 | The Season of the Warlock | 180132 | [180132-the-season-of-the-warlock.json](./180132-the-season-of-the-warlock.json) |
+| The Seasons Collection: Spring | 156576 | [156576-the-seasons-collection-spring.json](./156576-the-seasons-collection-spring.json) |
 | The Second Chance Strip Club | 392926 | [392926-the-second-chance-strip-club.json](./392926-the-second-chance-strip-club.json) |
 | The Second Circle | 333107 | [333107-the-second-circle.json](./333107-the-second-circle.json) |
 | The Second Kids' World Almanac Adventure | 71531 | [71531-the-second-kids-world-almanac-adventure.json](./71531-the-second-kids-world-almanac-adventure.json) |
@@ -8032,6 +8034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Nifty Craft | 256263 | [256263-the-world-of-nifty-craft.json](./256263-the-world-of-nifty-craft.json) |
 | The World of the Candy Girl | 224538 | [224538-the-world-of-the-candy-girl.json](./224538-the-world-of-the-candy-girl.json) |
 | The World of War II: Frontlines of History | 283233 | [283233-the-world-of-war-ii-frontlines-of-history.json](./283233-the-world-of-war-ii-frontlines-of-history.json) |
+| The World of Xian | 156556 | [156556-the-world-of-xian.json](./156556-the-world-of-xian.json) |
 | The World to Reverse. | 125983 | [125983-the-world-to-reverse.json](./125983-the-world-to-reverse.json) |
 | The World We Saved | 161646 | [161646-the-world-we-saved.json](./161646-the-world-we-saved.json) |
 | The World's Hardest Game | 141086 | [141086-the-worlds-hardest-game.json](./141086-the-worlds-hardest-game.json) |
@@ -11789,15 +11792,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 2: Hauptstrecke München - Augsburg Route Add-On | 156504 | [156504-train-sim-world-2-hauptstrecke-munchen-augsburg-route-add-on.json](./156504-train-sim-world-2-hauptstrecke-munchen-augsburg-route-add-on.json) |
 | Train Sim World 2: Hauptstrecke Rhein-Ruhr: Duisburg - Bochum Route Add-On | 156498 | [156498-train-sim-world-2-hauptstrecke-rhein-ruhr-duisburg-bochum-route-add-on.json](./156498-train-sim-world-2-hauptstrecke-rhein-ruhr-duisburg-bochum-route-add-on.json) |
 | Train Sim World 2: Horseshoe Curve: Altoona - Johnstown & South Fork Route | 196039 | [196039-train-sim-world-2-horseshoe-curve-altoona-johnstown-and-south-fork-route.json](./196039-train-sim-world-2-horseshoe-curve-altoona-johnstown-and-south-fork-route.json) |
+| Train Sim World 2: Isle of Wight - Ryde: Shanklin Route | 156493 | [156493-train-sim-world-2-isle-of-wight-ryde-shanklin-route.json](./156493-train-sim-world-2-isle-of-wight-ryde-shanklin-route.json) |
 | Train Sim World 2: LGV Méditerranée: Marseille - Avignon Route Add-On | 156496 | [156496-train-sim-world-2-lgv-mediterranee-marseille-avignon-route-add-on.json](./156496-train-sim-world-2-lgv-mediterranee-marseille-avignon-route-add-on.json) |
 | Train Sim World 2: LIRR M3 EMU Loco | 168738 | [168738-train-sim-world-2-lirr-m3-emu-loco.json](./168738-train-sim-world-2-lirr-m3-emu-loco.json) |
 | Train Sim World 2: Long Island Rail Road: New York - Hicksville | 227327 | [227327-train-sim-world-2-long-island-rail-road-new-york-hicksville.json](./227327-train-sim-world-2-long-island-rail-road-new-york-hicksville.json) |
+| Train Sim World 2: Long Island Rail Road: New York - Hicksville Route Add-On | 156492 | [156492-train-sim-world-2-long-island-rail-road-new-york-hicksville-route-add-on.json](./156492-train-sim-world-2-long-island-rail-road-new-york-hicksville-route-add-on.json) |
 | Train Sim World 2: Main Spessart Bahn | 227326 | [227326-train-sim-world-2-main-spessart-bahn.json](./227326-train-sim-world-2-main-spessart-bahn.json) |
 | Train Sim World 2: Main Spessart Bahn: Aschaffenburg - Gemünden Route Add-On | 156501 | [156501-train-sim-world-2-main-spessart-bahn-aschaffenburg-gemunden-route-add-on.json](./156501-train-sim-world-2-main-spessart-bahn-aschaffenburg-gemunden-route-add-on.json) |
 | Train Sim World 2: New Journeys CSX SD40 | 227325 | [227325-train-sim-world-2-new-journeys-csx-sd40.json](./227325-train-sim-world-2-new-journeys-csx-sd40.json) |
 | Train Sim World 2: Northern Trans-Pennine: Manchester - Leeds Route Add-On | 156497 | [156497-train-sim-world-2-northern-trans-pennine-manchester-leeds-route-add-on.json](./156497-train-sim-world-2-northern-trans-pennine-manchester-leeds-route-add-on.json) |
+| Train Sim World 2: Peninsula Corridor: San Francisco - San Jose Route Add-On | 156495 | [156495-train-sim-world-2-peninsula-corridor-san-francisco-san-jose-route-add-on.json](./156495-train-sim-world-2-peninsula-corridor-san-francisco-san-jose-route-add-on.json) |
 | Train Sim World 2: Rapid Transit Route Add-On | 156508 | [156508-train-sim-world-2-rapid-transit-route-add-on.json](./156508-train-sim-world-2-rapid-transit-route-add-on.json) |
 | Train Sim World 2: Rhein-Ruhr Osten: Wuppertal - Hagen Route Add-On | 156499 | [156499-train-sim-world-2-rhein-ruhr-osten-wuppertal-hagen-route-add-on.json](./156499-train-sim-world-2-rhein-ruhr-osten-wuppertal-hagen-route-add-on.json) |
+| Train Sim World 2: Ruhr-Sieg Nord: Hagen - Finnentrop Route Add-On | 156494 | [156494-train-sim-world-2-ruhr-sieg-nord-hagen-finnentrop-route-add-on.json](./156494-train-sim-world-2-ruhr-sieg-nord-hagen-finnentrop-route-add-on.json) |
 | Train Sim World 2: Rush Hour | 156505 | [156505-train-sim-world-2-rush-hour.json](./156505-train-sim-world-2-rush-hour.json) |
 | Train Sim World 2: S-Bahn Zentralschweiz - Luzern: Sursee Route | 195777 | [195777-train-sim-world-2-s-bahn-zentralschweiz-luzern-sursee-route.json](./195777-train-sim-world-2-s-bahn-zentralschweiz-luzern-sursee-route.json) |
 | Train Sim World 2: Southeastern BR Class 465 EMU Add-On | 156513 | [156513-train-sim-world-2-southeastern-br-class-465-emu-add-on.json](./156513-train-sim-world-2-southeastern-br-class-465-emu-add-on.json) |
@@ -13274,6 +13281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump Collection 2: Bottom Up Teki Sekai Isshuu no Tabi | 82136 | [82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json](./82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json) |
 | Trump Collection GB | 82137 | [82137-trump-collection-gb.json](./82137-trump-collection-gb.json) |
 | Trump Jigsaw | 339283 | [339283-trump-jigsaw.json](./339283-trump-jigsaw.json) |
+| Trump Loves Waifus | 156562 | [156562-trump-loves-waifus.json](./156562-trump-loves-waifus.json) |
 | Trump Simulator 2025 | 334305 | [334305-trump-simulator-2025.json](./334305-trump-simulator-2025.json) |
 | Trump vs Biden: Infinity war | 141035 | [141035-trump-vs-biden-infinity-war.json](./141035-trump-vs-biden-infinity-war.json) |
 | Trump vs Harris Clicker | 369646 | [369646-trump-vs-harris-clicker.json](./369646-trump-vs-harris-clicker.json) |
