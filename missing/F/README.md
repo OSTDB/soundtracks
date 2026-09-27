@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Down | 40791 | [40791-fall-down.json](./40791-fall-down.json) |
 | Fall Down | 95432 | [95432-fall-down.json](./95432-fall-down.json) |
 | Fall From Eden | 340053 | [340053-fall-from-eden.json](./340053-fall-from-eden.json) |
+| Fall Gummies | 146796 | [146796-fall-gummies.json](./146796-fall-gummies.json) |
 | Fall Guys World | 213892 | [213892-fall-guys-world.json](./213892-fall-guys-world.json) |
 | Fall Guys: Avian Angler Pack | 243797 | [243797-fall-guys-avian-angler-pack.json](./243797-fall-guys-avian-angler-pack.json) |
 | Fall Guys: Crow Pack | 243681 | [243681-fall-guys-crow-pack.json](./243681-fall-guys-crow-pack.json) |
@@ -569,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Kwadrats | 179203 | [179203-falling-kwadrats.json](./179203-falling-kwadrats.json) |
 | Falling Limbs | 258006 | [258006-falling-limbs.json](./258006-falling-limbs.json) |
 | Falling Out | 125402 | [125402-falling-out.json](./125402-falling-out.json) |
+| Falling Sand! | 146811 | [146811-falling-sand.json](./146811-falling-sand.json) |
 | Falling Sky | 82888 | [82888-falling-sky.json](./82888-falling-sky.json) |
 | Falling Stars | 359397 | [359397-falling-stars.json](./359397-falling-stars.json) |
 | Falling Up | 134678 | [134678-falling-up.json](./134678-falling-up.json) |
@@ -2100,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII G-Bike | 7398 | [7398-final-fantasy-vii-g-bike.json](./7398-final-fantasy-vii-g-bike.json) |
 | Final Fantasy VII Remake: Digital Deluxe Edition | 119576 | [119576-final-fantasy-vii-remake-digital-deluxe-edition.json](./119576-final-fantasy-vii-remake-digital-deluxe-edition.json) |
 | Final Fantasy VII: Regenesis | 394328 | [394328-final-fantasy-vii-regenesis.json](./394328-final-fantasy-vii-regenesis.json) |
+| Final Fantasy X International | 146774 | [146774-final-fantasy-x-international.json](./146774-final-fantasy-x-international.json) |
 | Final Fantasy X-2 International + Last Mission | 146852 | [146852-final-fantasy-x-2-international-last-mission.json](./146852-final-fantasy-x-2-international-last-mission.json) |
 | Final Fantasy X-2: International | 247548 | [247548-final-fantasy-x-2-international.json](./247548-final-fantasy-x-2-international.json) |
 | Final Fantasy X-2: Last Mission | 247245 | [247245-final-fantasy-x-2-last-mission.json](./247245-final-fantasy-x-2-last-mission.json) |
