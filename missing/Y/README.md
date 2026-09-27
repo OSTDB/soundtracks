@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuna: Sugar Hearts and Love - New Love | 169963 | [169963-yuna-sugar-hearts-and-love-new-love.json](./169963-yuna-sugar-hearts-and-love-new-love.json) |
 | Yunak | 330541 | [330541-yunak.json](./330541-yunak.json) |
 | Yunashi no Yume | 330298 | [330298-yunashi-no-yume.json](./330298-yunashi-no-yume.json) |
+| Yúndiān | 129644 | [129644-yundian.json](./129644-yundian.json) |
 | Yúnduān zhī Yuē | 164280 | [164280-yunduan-zhi-yue.json](./164280-yunduan-zhi-yue.json) |
 | Yúnhuāng Xiāoyáozhuàn | 399741 | [399741-yunhuang-xiaoyaozhuan.json](./399741-yunhuang-xiaoyaozhuan.json) |
 | Yunoha na Spring!: Cherishing Time | 135855 | [135855-yunoha-na-spring-cherishing-time.json](./135855-yunoha-na-spring-cherishing-time.json) |
