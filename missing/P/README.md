@@ -1050,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Pro: Top-Down Challenge | 334081 | [334081-parking-pro-top-down-challenge.json](./334081-parking-pro-top-down-challenge.json) |
 | Parking Problem | 397068 | [397068-parking-problem.json](./397068-parking-problem.json) |
 | Parking Simulator | 188094 | [188094-parking-simulator.json](./188094-parking-simulator.json) |
+| Parking Slide | 163748 | [163748-parking-slide.json](./163748-parking-slide.json) |
 | Parking Ticket Mayhem | 391221 | [391221-parking-ticket-mayhem.json](./391221-parking-ticket-mayhem.json) |
 | Parking Tycoon | 252144 | [252144-parking-tycoon.json](./252144-parking-tycoon.json) |
 | Parking Tycoon 2: Business Simulator | 373728 | [373728-parking-tycoon-2-business-simulator.json](./373728-parking-tycoon-2-business-simulator.json) |
@@ -5198,6 +5199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portentum | 412401 | [412401-portentum.json](./412401-portentum.json) |
 | Porter | 196807 | [196807-porter.json](./196807-porter.json) |
 | Porter | 229060 | [229060-porter.json](./229060-porter.json) |
+| Porter in the Castle | 163758 | [163758-porter-in-the-castle.json](./163758-porter-in-the-castle.json) |
 | Porter's Cafe | 359411 | [359411-porters-cafe.json](./359411-porters-cafe.json) |
 | Porterminus | 265954 | [265954-porterminus.json](./265954-porterminus.json) |
 | Portile | 322360 | [322360-portile.json](./322360-portile.json) |
