@@ -207,6 +207,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisenryaku Map Collection | 381851 | [381851-daisenryaku-map-collection.json](./381851-daisenryaku-map-collection.json) |
 | Daisenryaku VII | 361318 | [361318-daisenryaku-vii.json](./361318-daisenryaku-vii.json) |
 | Daisenryaku VII DX | 361319 | [361319-daisenryaku-vii-dx.json](./361319-daisenryaku-vii-dx.json) |
+| Daisenryaku: Master Combat | 166548 | [166548-daisenryaku-master-combat.json](./166548-daisenryaku-master-combat.json) |
+| Daisenryaku: Players's Spirit | 166549 | [166549-daisenryaku-playerss-spirit.json](./166549-daisenryaku-playerss-spirit.json) |
 | Daisia | 74739 | [74739-daisia.json](./74739-daisia.json) |
 | Daisy Chain | 298311 | [298311-daisy-chain.json](./298311-daisy-chain.json) |
 | Daisy Flies to the Moon | 160237 | [160237-daisy-flies-to-the-moon.json](./160237-daisy-flies-to-the-moon.json) |
@@ -3103,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Device | 150165 | [150165-device.json](./150165-device.json) |
 | Device 0101 | 294844 | [294844-device-0101.json](./294844-device-0101.json) |
 | Device 6 | 6279 | [6279-device-6.json](./6279-device-6.json) |
+| Devicereign | 166500 | [166500-devicereign.json](./166500-devicereign.json) |
 | Devidicon | 400459 | [400459-devidicon.json](./400459-devidicon.json) |
 | Devil Below | 293171 | [293171-devil-below.json](./293171-devil-below.json) |
 | Devil Cult Party | 305794 | [305794-devil-cult-party.json](./305794-devil-cult-party.json) |
