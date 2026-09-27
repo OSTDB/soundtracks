@@ -2405,6 +2405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron & Blood: Warriors of Ravenloft | 20608 | [20608-iron-and-blood-warriors-of-ravenloft.json](./20608-iron-and-blood-warriors-of-ravenloft.json) |
 | Iron & Rust: Complete Edition | 183985 | [183985-iron-and-rust-complete-edition.json](./183985-iron-and-rust-complete-edition.json) |
 | Iron Aces: Heroes of WWII | 210024 | [210024-iron-aces-heroes-of-wwii.json](./210024-iron-aces-heroes-of-wwii.json) |
+| Iron Age | 173054 | [173054-iron-age.json](./173054-iron-age.json) |
 | Iron Age | 192943 | [192943-iron-age.json](./192943-iron-age.json) |
 | Iron Armada | 29711 | [29711-iron-armada.json](./29711-iron-armada.json) |
 | Iron Armor Storm | 252220 | [252220-iron-armor-storm.json](./252220-iron-armor-storm.json) |
@@ -2911,6 +2912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iz | 292515 | [292515-iz.json](./292515-iz.json) |
 | Iz and Auggie: Escape from Dimension Q | 64378 | [64378-iz-and-auggie-escape-from-dimension-q.json](./64378-iz-and-auggie-escape-from-dimension-q.json) |
 | Izakaya Rush | 415886 | [415886-izakaya-rush.json](./415886-izakaya-rush.json) |
+| Izanami | 173065 | [173065-izanami.json](./173065-izanami.json) |
 | Izanami | 294262 | [294262-izanami.json](./294262-izanami.json) |
 | Izanami's Dream Battle | 30822 | [30822-izanamis-dream-battle.json](./30822-izanamis-dream-battle.json) |
 | Izeriya | 32938 | [32938-izeriya.json](./32938-izeriya.json) |
