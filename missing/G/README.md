@@ -3961,6 +3961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grom: Terror in Tibet | 73767 | [73767-grom-terror-in-tibet.json](./73767-grom-terror-in-tibet.json) |
 | Grommet Chod | 410325 | [410325-grommet-chod.json](./410325-grommet-chod.json) |
 | Grompula | 107674 | [107674-grompula.json](./107674-grompula.json) |
+| Gronions | 135762 | [135762-gronions.json](./135762-gronions.json) |
 | Gronk Want Rock | 249502 | [249502-gronk-want-rock.json](./249502-gronk-want-rock.json) |
 | Grood | 90116 | [90116-grood.json](./90116-grood.json) |
 | Groomer | 115695 | [115695-groomer.json](./115695-groomer.json) |
