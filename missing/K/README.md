@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kali | 176269 | [176269-kali.json](./176269-kali.json) |
 | Kali's Legion | 373543 | [373543-kalis-legion.json](./373543-kalis-legion.json) |
 | Kalia | 334138 | [334138-kalia.json](./334138-kalia.json) |
+| Kalidazkoph | 135794 | [135794-kalidazkoph.json](./135794-kalidazkoph.json) |
 | Kalimat Karash | 314637 | [314637-kalimat-karash.json](./314637-kalimat-karash.json) |
 | Kalimba: The Dark Void - Solo | 170377 | [170377-kalimba-the-dark-void-solo.json](./170377-kalimba-the-dark-void-solo.json) |
 | Kalis Car Game | 277004 | [277004-kalis-car-game.json](./277004-kalis-car-game.json) |
