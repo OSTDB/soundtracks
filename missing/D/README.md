@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danju | 410238 | [410238-danju.json](./410238-danju.json) |
 | Dank Tomb | 177330 | [177330-dank-tomb.json](./177330-dank-tomb.json) |
 | Dankenstoned’s Bongster’s Gram Smoker’s Stankula | 403188 | [403188-dankenstoned-s-bongster-s-gram-smoker-s-stankula.json](./403188-dankenstoned-s-bongster-s-gram-smoker-s-stankula.json) |
+| Danko and the Mystery of the Jungle | 129658 | [129658-danko-and-the-mystery-of-the-jungle.json](./129658-danko-and-the-mystery-of-the-jungle.json) |
 | Danko and treasure map | 29990 | [29990-danko-and-treasure-map.json](./29990-danko-and-treasure-map.json) |
 | DanLab's Golf | 315825 | [315825-danlabs-golf.json](./315825-danlabs-golf.json) |
 | DanMachi Battle Chronicle | 263485 | [263485-danmachi-battle-chronicle.json](./263485-danmachi-battle-chronicle.json) |
@@ -654,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark is the Void | 276848 | [276848-dark-is-the-void.json](./276848-dark-is-the-void.json) |
 | Dark Island | 147961 | [147961-dark-island.json](./147961-dark-island.json) |
 | Dark Island: Faded Memories | 415312 | [415312-dark-island-faded-memories.json](./415312-dark-island-faded-memories.json) |
+| Dark Judgement | 129642 | [129642-dark-judgement.json](./129642-dark-judgement.json) |
 | Dark Jump: Endless Ascent | 339365 | [339365-dark-jump-endless-ascent.json](./339365-dark-jump-endless-ascent.json) |
 | Dark Law: Meaning of Death | 15898 | [15898-dark-law-meaning-of-death.json](./15898-dark-law-meaning-of-death.json) |
 | Dark Laws | 279134 | [279134-dark-laws.json](./279134-dark-laws.json) |
@@ -736,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Romance: The Swan Sonata - Collector's Edition | 110345 | [110345-dark-romance-the-swan-sonata-collectors-edition.json](./110345-dark-romance-the-swan-sonata-collectors-edition.json) |
 | Dark Romance: The Swan Sonata HD | 88812 | [88812-dark-romance-the-swan-sonata-hd.json](./88812-dark-romance-the-swan-sonata-hd.json) |
 | Dark Romance: Vampire Origins - Collector's Edition | 209716 | [209716-dark-romance-vampire-origins-collectors-edition.json](./209716-dark-romance-vampire-origins-collectors-edition.json) |
+| Dark Room | 129640 | [129640-dark-room.json](./129640-dark-room.json) |
 | Dark Room | 356630 | [356630-dark-room.json](./356630-dark-room.json) |
 | Dark Rooms | 240346 | [240346-dark-rooms.json](./240346-dark-rooms.json) |
 | Dark Rose Valkyrie: Limited Edition | 167148 | [167148-dark-rose-valkyrie-limited-edition.json](./167148-dark-rose-valkyrie-limited-edition.json) |
@@ -3545,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Totenmaske | 184105 | [184105-die-totenmaske.json](./184105-die-totenmaske.json) |
 | Die Türme von Hanoi | 93349 | [93349-die-turme-von-hanoi.json](./93349-die-turme-von-hanoi.json) |
 | Die ultimative Brettspiele-Sammlung: Die beliebtesten Brettspiele für die ganze Familie | 337723 | [337723-die-ultimative-brettspiele-sammlung-die-beliebtesten-brettspiele-fur-die-ganze-familie.json](./337723-die-ultimative-brettspiele-sammlung-die-beliebtesten-brettspiele-fur-die-ganze-familie.json) |
+| Die Wolf | 129635 | [129635-die-wolf.json](./129635-die-wolf.json) |
 | Die-Rise | 245277 | [245277-die-rise.json](./245277-die-rise.json) |
 | Die, A.I. | 191183 | [191183-die-a-i.json](./191183-die-a-i.json) |
 | Die, Pablo! | 270119 | [270119-die-pablo.json](./270119-die-pablo.json) |
@@ -5501,6 +5505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon: Nobita to Fukkatsu no Hoshi | 91772 | [91772-doraemon-nobita-to-fukkatsu-no-hoshi.json](./91772-doraemon-nobita-to-fukkatsu-no-hoshi.json) |
 | Doraemon: Nobita's Resident Evil 2 | 238417 | [238417-doraemon-nobitas-resident-evil-2.json](./238417-doraemon-nobitas-resident-evil-2.json) |
 | Doraemon: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai | 60545 | [60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json](./60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json) |
+| Doraijin | 129674 | [129674-doraijin.json](./129674-doraijin.json) |
 | DoraKone | 116849 | [116849-dorakone.json](./116849-dorakone.json) |
 | Dorasyeoda | 278528 | [278528-dorasyeoda.json](./278528-dorasyeoda.json) |
 | Dorc | 415087 | [415087-dorc.json](./415087-dorc.json) |
@@ -6765,6 +6770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DriftHub | 256007 | [256007-drifthub.json](./256007-drifthub.json) |
 | Driftin.io | 126024 | [126024-driftin-io.json](./126024-driftin-io.json) |
 | Drifting Cloud | 99577 | [99577-drifting-cloud.json](./99577-drifting-cloud.json) |
+| Drifting in Space | 129680 | [129680-drifting-in-space.json](./129680-drifting-in-space.json) |
 | Driftkhana | 197345 | [197345-driftkhana.json](./197345-driftkhana.json) |
 | Driftland: The Magic Revival | 69455 | [69455-driftland-the-magic-revival.json](./69455-driftland-the-magic-revival.json) |
 | Drifto: Infinite Touge | 305914 | [305914-drifto-infinite-touge.json](./305914-drifto-infinite-touge.json) |
