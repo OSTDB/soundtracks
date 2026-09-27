@@ -2282,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match It! | 173186 | [173186-match-it.json](./173186-match-it.json) |
 | Match Kill Survive | 309679 | [309679-match-kill-survive.json](./309679-match-kill-survive.json) |
 | Match Manor | 269094 | [269094-match-manor.json](./269094-match-manor.json) |
+| Match Match Mania! | 148969 | [148969-match-match-mania.json](./148969-match-match-mania.json) |
 | Match Morphosis | 381618 | [381618-match-morphosis.json](./381618-match-morphosis.json) |
 | Match Pair 3D Puzzle | 243638 | [243638-match-pair-3d-puzzle.json](./243638-match-pair-3d-puzzle.json) |
 | Match Point | 324904 | [324904-match-point.json](./324904-match-point.json) |
@@ -4537,6 +4538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroVolts Surge | 16263 | [16263-microvolts-surge.json](./16263-microvolts-surge.json) |
 | Microwave Story | 311060 | [311060-microwave-story.json](./311060-microwave-story.json) |
 | Midas | 338837 | [338837-midas.json](./338837-midas.json) |
+| Midautumn | 148943 | [148943-midautumn.json](./148943-midautumn.json) |
 | Middle Ages: Peasants & Knights | 304662 | [304662-middle-ages-peasants-and-knights.json](./304662-middle-ages-peasants-and-knights.json) |
 | Middle Kingdom | 356658 | [356658-middle-kingdom.json](./356658-middle-kingdom.json) |
 | Middle Manager of Justice | 9133 | [9133-middle-manager-of-justice.json](./9133-middle-manager-of-justice.json) |
@@ -5415,6 +5417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minutescape | 327969 | [327969-minutescape.json](./327969-minutescape.json) |
 | Mio no Mystery Adventure | 137627 | [137627-mio-no-mystery-adventure.json](./137627-mio-no-mystery-adventure.json) |
 | Mion and the Cursed Killer Hamster | 224576 | [224576-mion-and-the-cursed-killer-hamster.json](./224576-mion-and-the-cursed-killer-hamster.json) |
+| Mir | 148952 | [148952-mir.json](./148952-mir.json) |
 | Mir | 363939 | [363939-mir.json](./363939-mir.json) |
 | Mira and the Mysteries of Alchemy | 168222 | [168222-mira-and-the-mysteries-of-alchemy.json](./168222-mira-and-the-mysteries-of-alchemy.json) |
 | Mira: A Bird's Flight | 208462 | [208462-mira-a-birds-flight.json](./208462-mira-a-birds-flight.json) |
@@ -7395,6 +7398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Knight: A hero's rising | 315628 | [315628-mouse-knight-a-heros-rising.json](./315628-mouse-knight-a-heros-rising.json) |
 | Mouse Maze - Top Brain Puzzle | 89274 | [89274-mouse-maze-top-brain-puzzle.json](./89274-mouse-maze-top-brain-puzzle.json) |
 | Mouse Mind: Secrets of Pharaon | 73808 | [73808-mouse-mind-secrets-of-pharaon.json](./73808-mouse-mind-secrets-of-pharaon.json) |
+| Mouse Painting Master | 148985 | [148985-mouse-painting-master.json](./148985-mouse-painting-master.json) |
 | Mouse People | 207409 | [207409-mouse-people.json](./207409-mouse-people.json) |
 | Mouse Trap | 248053 | [248053-mouse-trap.json](./248053-mouse-trap.json) |
 | Mouse Trap Hotel | 49037 | [49037-mouse-trap-hotel.json](./49037-mouse-trap-hotel.json) |
