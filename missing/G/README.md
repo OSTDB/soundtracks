@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-LOC R360 | 363983 | [363983-g-loc-r360.json](./363983-g-loc-r360.json) |
 | G-LOC R360 | 363984 | [363984-g-loc-r360.json](./363984-g-loc-r360.json) |
 | G-man Invasion | 222304 | [222304-g-man-invasion.json](./222304-g-man-invasion.json) |
+| G-Mode Archives 03: Kururin Cafe | 137538 | [137538-g-mode-archives-03-kururin-cafe.json](./137538-g-mode-archives-03-kururin-cafe.json) |
 | G-Mode Archives 06: Shijou Saikyou Miyamoto Julia | 137617 | [137617-g-mode-archives-06-shijou-saikyou-miyamoto-julia.json](./137617-g-mode-archives-06-shijou-saikyou-miyamoto-julia.json) |
 | G-Mode Archives 08: Pucchin Puzzle | 137678 | [137678-g-mode-archives-08-pucchin-puzzle.json](./137678-g-mode-archives-08-pucchin-puzzle.json) |
 | G-Mode Archives 09: Flyhight Cloudia II | 137593 | [137593-g-mode-archives-09-flyhight-cloudia-ii.json](./137593-g-mode-archives-09-flyhight-cloudia-ii.json) |
@@ -573,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Over, Daisy! Deluxe | 139260 | [139260-game-over-daisy-deluxe.json](./139260-game-over-daisy-deluxe.json) |
 | Game Over: A Musical RPG?? | 207767 | [207767-game-over-a-musical-rpg.json](./207767-game-over-a-musical-rpg.json) |
 | Game Over! | 380539 | [380539-game-over.json](./380539-game-over.json) |
+| Game Pack CD: 37 VGA Games Volume 2 | 137574 | [137574-game-pack-cd-37-vga-games-volume-2.json](./137574-game-pack-cd-37-vga-games-volume-2.json) |
 | Game Party 3 | 76982 | [76982-game-party-3.json](./76982-game-party-3.json) |
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
 | Game Set and Match 2 | 41001 | [41001-game-set-and-match-2.json](./41001-game-set-and-match-2.json) |
@@ -1401,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geri's Chess | 50864 | [50864-geris-chess.json](./50864-geris-chess.json) |
 | Germ Blasters | 353910 | [353910-germ-blasters.json](./353910-germ-blasters.json) |
 | Germ Crazy | 94669 | [94669-germ-crazy.json](./94669-germ-crazy.json) |
+| Germ Warfare | 137537 | [137537-germ-warfare.json](./137537-germ-warfare.json) |
 | German 101 | 93543 | [93543-german-101.json](./93543-german-101.json) |
 | Gërman Boy | 331889 | [331889-german-boy.json](./331889-german-boy.json) |
 | German Road Racer Pro | 100731 | [100731-german-road-racer-pro.json](./100731-german-road-racer-pro.json) |
@@ -1930,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls' Frontline: The Lunasia Covenant | 400303 | [400303-girls-frontline-the-lunasia-covenant.json](./400303-girls-frontline-the-lunasia-covenant.json) |
 | Girls' Last Tour: Book Burning Simulator | 150558 | [150558-girls-last-tour-book-burning-simulator.json](./150558-girls-last-tour-book-burning-simulator.json) |
 | Girls' RPG: Cinderella Life | 92477 | [92477-girls-rpg-cinderella-life.json](./92477-girls-rpg-cinderella-life.json) |
+| Girp | 137545 | [137545-girp.json](./137545-girp.json) |
 | GiseiHero | 149096 | [149096-giseihero.json](./149096-giseihero.json) |
 | Gish | 8384 | [8384-gish.json](./8384-gish.json) |
 | Git Gud | 330269 | [330269-git-gud.json](./330269-git-gud.json) |
