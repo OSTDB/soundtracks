@@ -2939,6 +2939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinami Holic | 387661 | [387661-chinami-holic.json](./387661-chinami-holic.json) |
 | Chinatown | 272012 | [272012-chinatown.json](./272012-chinatown.json) |
 | Chinatown Detective Agency | 125715 | [125715-chinatown-detective-agency.json](./125715-chinatown-detective-agency.json) |
+| Chinbu's Adventure: Ice World | 171940 | [171940-chinbus-adventure-ice-world.json](./171940-chinbus-adventure-ice-world.json) |
 | Chinese Ancient Poetry Matching Game | 274576 | [274576-chinese-ancient-poetry-matching-game.json](./274576-chinese-ancient-poetry-matching-game.json) |
 | Chinese Characters | 223507 | [223507-chinese-characters.json](./223507-chinese-characters.json) |
 | Chinese Checkers | 100228 | [100228-chinese-checkers.json](./100228-chinese-checkers.json) |
