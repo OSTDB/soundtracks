@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Your Beast VR | 360781 | [360781-i-am-your-beast-vr.json](./360781-i-am-your-beast-vr.json) |
 | I Am Your Beast: Cold Sweat Update | 335994 | [335994-i-am-your-beast-cold-sweat-update.json](./335994-i-am-your-beast-cold-sweat-update.json) |
 | I Am Your Beast: Support Group Update | 334704 | [334704-i-am-your-beast-support-group-update.json](./334704-i-am-your-beast-support-group-update.json) |
+| I Am: A Story of Awakenings | 154993 | [154993-i-am-a-story-of-awakenings.json](./154993-i-am-a-story-of-awakenings.json) |
 | I Ask The Cube Where To Go | 290481 | [290481-i-ask-the-cube-where-to-go.json](./290481-i-ask-the-cube-where-to-go.json) |
 | I Ball II: Quest for the Past | 70351 | [70351-i-ball-ii-quest-for-the-past.json](./70351-i-ball-ii-quest-for-the-past.json) |
 | I Believe in Capybara Supremacy! | 250992 | [250992-i-believe-in-capybara-supremacy.json](./250992-i-believe-in-capybara-supremacy.json) |
@@ -1940,6 +1941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside Trader: The Authentic Stock Trading Game | 94246 | [94246-inside-trader-the-authentic-stock-trading-game.json](./94246-inside-trader-the-authentic-stock-trading-game.json) |
 | Inside Us | 236846 | [236846-inside-us.json](./236846-inside-us.json) |
 | Insider Tales: The Stolen Venus 2 | 202114 | [202114-insider-tales-the-stolen-venus-2.json](./202114-insider-tales-the-stolen-venus-2.json) |
+| Insiders | 155024 | [155024-insiders.json](./155024-insiders.json) |
 | Insight | 302670 | [302670-insight.json](./302670-insight.json) |
 | InSight | 302955 | [302955-insight.json](./302955-insight.json) |
 | Insomnia | 238747 | [238747-insomnia.json](./238747-insomnia.json) |
