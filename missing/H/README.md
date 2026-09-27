@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuoki: Edo Blossoms | 74563 | [74563-hakuoki-edo-blossoms.json](./74563-hakuoki-edo-blossoms.json) |
 | Hakuoki: Kyoto Winds - Deluxe Edition | 243920 | [243920-hakuoki-kyoto-winds-deluxe-edition.json](./243920-hakuoki-kyoto-winds-deluxe-edition.json) |
 | Hakuoki: Kyoto Winds - Winds Treasure Box | 168905 | [168905-hakuoki-kyoto-winds-winds-treasure-box.json](./168905-hakuoki-kyoto-winds-winds-treasure-box.json) |
+| Hakuoki: Shinsengumi Kitan | 127171 | [127171-hakuoki-shinsengumi-kitan.json](./127171-hakuoki-shinsengumi-kitan.json) |
 | Hakuoki: Stories of the Shinsengumi | 44565 | [44565-hakuoki-stories-of-the-shinsengumi.json](./44565-hakuoki-stories-of-the-shinsengumi.json) |
 | Hakuoki: Warriors of the Shinsengumi | 44525 | [44525-hakuoki-warriors-of-the-shinsengumi.json](./44525-hakuoki-warriors-of-the-shinsengumi.json) |
 | Hakuouki Shinkai Ginsei no Shou Genteiban | 136882 | [136882-hakuouki-shinkai-ginsei-no-shou-genteiban.json](./136882-hakuouki-shinkai-ginsei-no-shou-genteiban.json) |
@@ -3345,6 +3346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hippo Hop | 415168 | [415168-hippo-hop.json](./415168-hippo-hop.json) |
 | Hippo Teeth | 41422 | [41422-hippo-teeth.json](./41422-hippo-teeth.json) |
 | Hippo: Little Red Riding Hood | 233007 | [233007-hippo-little-red-riding-hood.json](./233007-hippo-little-red-riding-hood.json) |
+| Hippoboar Rancher | 127177 | [127177-hippoboar-rancher.json](./127177-hippoboar-rancher.json) |
 | Hippodrome | 39680 | [39680-hippodrome.json](./39680-hippodrome.json) |
 | Hippy Girls | 243062 | [243062-hippy-girls.json](./243062-hippy-girls.json) |
 | Hippy Skate | 183353 | [183353-hippy-skate.json](./183353-hippy-skate.json) |
