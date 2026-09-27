@@ -5780,6 +5780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slotter Mania P: Tetsuya Shinjuku vs Ueno | 62738 | [62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json](./62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json) |
 | Slotter Up Core 7: Dekitou da! Street Fighter II | 55060 | [55060-slotter-up-core-7-dekitou-da-street-fighter-ii.json](./55060-slotter-up-core-7-dekitou-da-street-fighter-ii.json) |
 | Slottso Party | 79574 | [79574-slottso-party.json](./79574-slottso-party.json) |
+| Slow and Steady | 157486 | [157486-slow-and-steady.json](./157486-slow-and-steady.json) |
 | Slow Burn | 313870 | [313870-slow-burn.json](./313870-slow-burn.json) |
 | Slow Down | 180673 | [180673-slow-down.json](./180673-slow-down.json) |
 | Slow Rise | 267066 | [267066-slow-rise.json](./267066-slow-rise.json) |
@@ -8620,6 +8621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spattle Cats | 115045 | [115045-spattle-cats.json](./115045-spattle-cats.json) |
 | Spava | 276819 | [276819-spava.json](./276819-spava.json) |
 | Spawn | 49969 | [49969-spawn.json](./49969-spawn.json) |
+| Spawn Kings | 157494 | [157494-spawn-kings.json](./157494-spawn-kings.json) |
 | Spawn Master | 260244 | [260244-spawn-master.json](./260244-spawn-master.json) |
 | Spawn of Evil | 45310 | [45310-spawn-of-evil.json](./45310-spawn-of-evil.json) |
 | Spawn Runner | 238991 | [238991-spawn-runner.json](./238991-spawn-runner.json) |
@@ -12097,6 +12099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subsurface Circular | 54780 | [54780-subsurface-circular.json](./54780-subsurface-circular.json) |
 | Subtension | 239670 | [239670-subtension.json](./239670-subtension.json) |
 | Subtera Puzlo | 300803 | [300803-subtera-puzlo.json](./300803-subtera-puzlo.json) |
+| SubterAlien Rescue | 157504 | [157504-subteralien-rescue.json](./157504-subteralien-rescue.json) |
 | Subterrain: Mines of Titan | 155497 | [155497-subterrain-mines-of-titan.json](./155497-subterrain-mines-of-titan.json) |
 | Subterranea | 55205 | [55205-subterranea.json](./55205-subterranea.json) |
 | Subterranean Detectives Orin and Satori | 185591 | [185591-subterranean-detectives-orin-and-satori.json](./185591-subterranean-detectives-orin-and-satori.json) |
