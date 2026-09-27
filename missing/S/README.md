@@ -2008,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sedap! A Culinary Adventure | 273429 | [273429-sedap-a-culinary-adventure.json](./273429-sedap-a-culinary-adventure.json) |
 | Sedecktion | 297213 | [297213-sedecktion.json](./297213-sedecktion.json) |
 | Sedomairi | 159706 | [159706-sedomairi.json](./159706-sedomairi.json) |
+| Seduce Me the Otome: Episode Series | 145559 | [145559-seduce-me-the-otome-episode-series.json](./145559-seduce-me-the-otome-episode-series.json) |
 | Seduce Me: The Complete Story | 134665 | [134665-seduce-me-the-complete-story.json](./134665-seduce-me-the-complete-story.json) |
 | Seduce, Breed, Conquer | 376448 | [376448-seduce-breed-conquer.json](./376448-seduce-breed-conquer.json) |
 | Seduced in the Sleepless City | 220877 | [220877-seduced-in-the-sleepless-city.json](./220877-seduced-in-the-sleepless-city.json) |
@@ -2457,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam: GOG Collection | 205226 | [205226-serious-sam-gog-collection.json](./205226-serious-sam-gog-collection.json) |
 | Serious Sam: Portals | 299202 | [299202-serious-sam-portals.json](./299202-serious-sam-portals.json) |
 | Serious Sam: Siberian Mayhem | 187112 | [187112-serious-sam-siberian-mayhem.json](./187112-serious-sam-siberian-mayhem.json) |
+| Serious Sam: The Retro Encounter | 145554 | [145554-serious-sam-the-retro-encounter.json](./145554-serious-sam-the-retro-encounter.json) |
 | Serious Sam: The Second Encounter | 858 | [858-serious-sam-the-second-encounter.json](./858-serious-sam-the-second-encounter.json) |
 | Serious Sam: Tormental | 116987 | [116987-serious-sam-tormental.json](./116987-serious-sam-tormental.json) |
 | Serious Solitaire | 84236 | [84236-serious-solitaire.json](./84236-serious-solitaire.json) |
@@ -2746,6 +2748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SGS We The People | 388972 | [388972-sgs-we-the-people.json](./388972-sgs-we-the-people.json) |
 | Sha Beast Dressage | 371269 | [371269-sha-beast-dressage.json](./371269-sha-beast-dressage.json) |
 | Shaberu! DS Cooking Navi | 345570 | [345570-shaberu-ds-cooking-navi.json](./345570-shaberu-ds-cooking-navi.json) |
+| Shachibato! President, It's Time for Battle! Maju Wars | 145520 | [145520-shachibato-president-its-time-for-battle-maju-wars.json](./145520-shachibato-president-its-time-for-battle-maju-wars.json) |
 | Shachou Eiyuuden: The Eagle Shooting Heroes | 78343 | [78343-shachou-eiyuuden-the-eagle-shooting-heroes.json](./78343-shachou-eiyuuden-the-eagle-shooting-heroes.json) |
 | Shackled | 148354 | [148354-shackled.json](./148354-shackled.json) |
 | Shad'O | 80331 | [80331-shado.json](./80331-shado.json) |
@@ -10968,6 +10971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Revolt | 353476 | [353476-steel-revolt.json](./353476-steel-revolt.json) |
 | Steel Rivals | 34766 | [34766-steel-rivals.json](./34766-steel-rivals.json) |
 | Steel Runner | 175179 | [175179-steel-runner.json](./175179-steel-runner.json) |
+| Steel Salvo | 145545 | [145545-steel-salvo.json](./145545-steel-salvo.json) |
 | Steel Sand Mars Chronicles: Survival Simulator | 294834 | [294834-steel-sand-mars-chronicles-survival-simulator.json](./294834-steel-sand-mars-chronicles-survival-simulator.json) |
 | Steel Shell | 192809 | [192809-steel-shell.json](./192809-steel-shell.json) |
 | Steel Skirmish: Reloaded | 379347 | [379347-steel-skirmish-reloaded.json](./379347-steel-skirmish-reloaded.json) |
