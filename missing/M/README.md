@@ -2397,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maths Challenge | 104482 | [104482-maths-challenge.json](./104482-maths-challenge.json) |
 | Maths Circus Act 6 | 76592 | [76592-maths-circus-act-6.json](./76592-maths-circus-act-6.json) |
 | Maths Planets | 105932 | [105932-maths-planets.json](./105932-maths-planets.json) |
+| Maths Play: Have Fun with Numbers! | 159043 | [159043-maths-play-have-fun-with-numbers.json](./159043-maths-play-have-fun-with-numbers.json) |
 | Mathville | 387698 | [387698-mathville.json](./387698-mathville.json) |
 | Mato Anomalies | 212050 | [212050-mato-anomalies.json](./212050-mato-anomalies.json) |
 | Mato Anomalies: Day One Edition | 228732 | [228732-mato-anomalies-day-one-edition.json](./228732-mato-anomalies-day-one-edition.json) |
@@ -4063,6 +4064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetaShooter | 211673 | [211673-metashooter.json](./211673-metashooter.json) |
 | Metathrone | 173771 | [173771-metathrone.json](./173771-metathrone.json) |
 | MetaTron | 33213 | [33213-metatron.json](./33213-metatron.json) |
+| Metavaxx | 159052 | [159052-metavaxx.json](./159052-metavaxx.json) |
 | Metaverse Keeper | 111984 | [111984-metaverse-keeper.json](./111984-metaverse-keeper.json) |
 | Metawork: Antique Shop Simulator | 366330 | [366330-metawork-antique-shop-simulator.json](./366330-metawork-antique-shop-simulator.json) |
 | Metawork: Hotel Simulator | 243395 | [243395-metawork-hotel-simulator.json](./243395-metawork-hotel-simulator.json) |
@@ -5431,6 +5433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misadventure In Little Lon | 125425 | [125425-misadventure-in-little-lon.json](./125425-misadventure-in-little-lon.json) |
 | Misadventures of Laura Silver - Chapter II | 121771 | [121771-misadventures-of-laura-silver-chapter-ii.json](./121771-misadventures-of-laura-silver-chapter-ii.json) |
 | Misao: Definitive Edition | 74567 | [74567-misao-definitive-edition.json](./74567-misao-definitive-edition.json) |
+| Misc. | 159079 | [159079-misc.json](./159079-misc.json) |
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Asha Edition | 225040 | [225040-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-asha-edition.json](./225040-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-asha-edition.json) |
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Clara Edition | 232996 | [232996-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-clara-edition.json](./232996-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-clara-edition.json) |
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Janice Edition | 225042 | [225042-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-janice-edition.json](./225042-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-janice-edition.json) |
@@ -7175,6 +7178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto-Crash + | 41565 | [41565-moto-crash.json](./41565-moto-crash.json) |
 | Motobug the Badnik in Sonic the Hedgehog | 201831 | [201831-motobug-the-badnik-in-sonic-the-hedgehog.json](./201831-motobug-the-badnik-in-sonic-the-hedgehog.json) |
 | Motocon | 395189 | [395189-motocon.json](./395189-motocon.json) |
+| Motocross | 159094 | [159094-motocross.json](./159094-motocross.json) |
 | Motocross | 72336 | [72336-motocross.json](./72336-motocross.json) |
 | Motocross Madness | 10260 | [10260-motocross-madness.json](./10260-motocross-madness.json) |
 | Motocross Maniacs 2 | 49891 | [49891-motocross-maniacs-2.json](./49891-motocross-maniacs-2.json) |
