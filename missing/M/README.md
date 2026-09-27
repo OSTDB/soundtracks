@@ -1511,6 +1511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Luigi's Delightful Adventure | 307725 | [307725-mario-and-luigis-delightful-adventure.json](./307725-mario-and-luigis-delightful-adventure.json) |
 | Mario & Sonic | 324089 | [324089-mario-and-sonic.json](./324089-mario-and-sonic.json) |
 | Mario & Sonic at The Olympic Winter Games Pyeongchang 2018 | 313303 | [313303-mario-and-sonic-at-the-olympic-winter-games-pyeongchang-2018.json](./313303-mario-and-sonic-at-the-olympic-winter-games-pyeongchang-2018.json) |
+| Mario & Sonic at the Rio 2016 Olympic Games | 132111 | [132111-mario-and-sonic-at-the-rio-2016-olympic-games.json](./132111-mario-and-sonic-at-the-rio-2016-olympic-games.json) |
 | Mario & Sonic at the Sochi 2014 Olympic Winter Games | 3990 | [3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json](./3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json) |
 | Mario + Rabbids Kingdom Battle: Donkey Kong Adventure | 103317 | [103317-mario-rabbids-kingdom-battle-donkey-kong-adventure.json](./103317-mario-rabbids-kingdom-battle-donkey-kong-adventure.json) |
 | Mario + Rabbids Kingdom Battle: Ultra Challenge Pack | 237938 | [237938-mario-rabbids-kingdom-battle-ultra-challenge-pack.json](./237938-mario-rabbids-kingdom-battle-ultra-challenge-pack.json) |
@@ -3520,6 +3521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melon Bounce | 366250 | [366250-melon-bounce.json](./366250-melon-bounce.json) |
 | Melon Clicker | 330261 | [330261-melon-clicker.json](./330261-melon-clicker.json) |
 | Melon Dusk | 196238 | [196238-melon-dusk.json](./196238-melon-dusk.json) |
+| Melon Journey | 132112 | [132112-melon-journey.json](./132112-melon-journey.json) |
 | Melon Journey Pocket | 244794 | [244794-melon-journey-pocket.json](./244794-melon-journey-pocket.json) |
 | Melon Madness | 288765 | [288765-melon-madness.json](./288765-melon-madness.json) |
 | Melon on a Mission | 416071 | [416071-melon-on-a-mission.json](./416071-melon-on-a-mission.json) |
@@ -7547,6 +7549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MP2: Yoshi Valley | 283774 | [283774-mp2-yoshi-valley.json](./283774-mp2-yoshi-valley.json) |
 | MP5 | 201242 | [201242-mp5.json](./201242-mp5.json) |
 | Mpirimpa | 341339 | [341339-mpirimpa.json](./341339-mpirimpa.json) |
+| Mr Anchry's Day of Twilight | 132076 | [132076-mr-anchrys-day-of-twilight.json](./132076-mr-anchrys-day-of-twilight.json) |
 | Mr Anchry's Divine Intervention | 124271 | [124271-mr-anchrys-divine-intervention.json](./124271-mr-anchrys-divine-intervention.json) |
 | Mr Bea Boy Kart Dash Race | 247206 | [247206-mr-bea-boy-kart-dash-race.json](./247206-mr-bea-boy-kart-dash-race.json) |
 | Mr Bean | 299837 | [299837-mr-bean.json](./299837-mr-bean.json) |
