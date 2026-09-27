@@ -1011,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Candy | 175368 | [175368-make-candy.json](./175368-make-candy.json) |
 | Make Capybara Happy | 335248 | [335248-make-capybara-happy.json](./335248-make-capybara-happy.json) |
 | Make Friends | 381118 | [381118-make-friends.json](./381118-make-friends.json) |
+| Make Haste! | 141771 | [141771-make-haste.json](./141771-make-haste.json) |
 | Make Her Real | 414407 | [414407-make-her-real.json](./414407-make-her-real.json) |
 | Make It as an Artist | 29834 | [29834-make-it-as-an-artist.json](./29834-make-it-as-an-artist.json) |
 | Make It Count | 311621 | [311621-make-it-count.json](./311621-make-it-count.json) |
@@ -1138,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mambo Wave | 142261 | [142261-mambo-wave.json](./142261-mambo-wave.json) |
 | Mamegoma 2: Uchi no Ko ga Ichiban! | 241032 | [241032-mamegoma-2-uchi-no-ko-ga-ichiban.json](./241032-mamegoma-2-uchi-no-ko-ga-ichiban.json) |
 | Mamegoma 3: Kawaii ga Ippai! | 241043 | [241043-mamegoma-3-kawaii-ga-ippai.json](./241043-mamegoma-3-kawaii-ga-ippai.json) |
+| Mameshiba | 141729 | [141729-mameshiba.json](./141729-mameshiba.json) |
 | Mami no Doki-doki Tiro Finale | 56758 | [56758-mami-no-doki-doki-tiro-finale.json](./56758-mami-no-doki-doki-tiro-finale.json) |
 | Mami no Doki-doki Tiro Finale | 56759 | [56759-mami-no-doki-doki-tiro-finale.json](./56759-mami-no-doki-doki-tiro-finale.json) |
 | Mamiya | 145621 | [145621-mamiya.json](./145621-mamiya.json) |
@@ -2754,6 +2756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Commander Gold | 51238 | [51238-mech-commander-gold.json](./51238-mech-commander-gold.json) |
 | Mech Farmer | 150696 | [150696-mech-farmer.json](./150696-mech-farmer.json) |
 | Mech Fortress | 360058 | [360058-mech-fortress.json](./360058-mech-fortress.json) |
+| Mech Frontier: Kinkyuu Shirei! Wakusei Shigen wo Kakuho se yo | 141734 | [141734-mech-frontier-kinkyuu-shirei-wakusei-shigen-wo-kakuho-se-yo.json](./141734-mech-frontier-kinkyuu-shirei-wakusei-shigen-wo-kakuho-se-yo.json) |
 | Mech Gun | 180579 | [180579-mech-gun.json](./180579-mech-gun.json) |
 | Mech in the City | 365779 | [365779-mech-in-the-city.json](./365779-mech-in-the-city.json) |
 | Mech Invasion: Combat Robots | 193885 | [193885-mech-invasion-combat-robots.json](./193885-mech-invasion-combat-robots.json) |
@@ -5574,6 +5577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Intelligence | 153912 | [153912-miss-intelligence.json](./153912-miss-intelligence.json) |
 | Miss It! | 283707 | [283707-miss-it.json](./283707-miss-it.json) |
 | Miss Kawaii 2 | 222941 | [222941-miss-kawaii-2.json](./222941-miss-kawaii-2.json) |
+| Miss Management | 141760 | [141760-miss-management.json](./141760-miss-management.json) |
 | Miss Mantis | 307288 | [307288-miss-mantis.json](./307288-miss-mantis.json) |
 | Miss Moonlight | 305354 | [305354-miss-moonlight.json](./305354-miss-moonlight.json) |
 | Miss Neko | 127915 | [127915-miss-neko.json](./127915-miss-neko.json) |
@@ -7497,6 +7501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moxie Girlz | 92466 | [92466-moxie-girlz.json](./92466-moxie-girlz.json) |
 | Moyashibito DX | 233211 | [233211-moyashibito-dx.json](./233211-moyashibito-dx.json) |
 | Mozarella Hills | 291766 | [291766-mozarella-hills.json](./291766-mozarella-hills.json) |
+| Mozart Requiem | 141726 | [141726-mozart-requiem.json](./141726-mozart-requiem.json) |
 | Mozzle | 175414 | [175414-mozzle.json](./175414-mozzle.json) |
 | MP2: Bill Nye's Science Lab | 283777 | [283777-mp2-bill-nyes-science-lab.json](./283777-mp2-bill-nyes-science-lab.json) |
 | MP2: Blue Koopa Land | 283779 | [283779-mp2-blue-koopa-land.json](./283779-mp2-blue-koopa-land.json) |
