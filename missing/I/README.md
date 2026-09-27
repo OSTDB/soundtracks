@@ -1525,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infected: Outpost | 276267 | [276267-infected-outpost.json](./276267-infected-outpost.json) |
 | Infected: Super Soldier Project | 270088 | [270088-infected-super-soldier-project.json](./270088-infected-super-soldier-project.json) |
 | Infected: The Twin Vaccine | 62424 | [62424-infected-the-twin-vaccine.json](./62424-infected-the-twin-vaccine.json) |
+| Infection | 129082 | [129082-infection.json](./129082-infection.json) |
 | Infection | 142474 | [142474-infection.json](./142474-infection.json) |
 | Infection Bio War | 343978 | [343978-infection-bio-war.json](./343978-infection-bio-war.json) |
 | Infection Crisis: Fight For Life | 270134 | [270134-infection-crisis-fight-for-life.json](./270134-infection-crisis-fight-for-life.json) |
