@@ -2930,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Resistance: Morning of the Dead | 55183 | [55183-evil-resistance-morning-of-the-dead.json](./55183-evil-resistance-morning-of-the-dead.json) |
 | Evil Returns | 299768 | [299768-evil-returns.json](./299768-evil-returns.json) |
 | Evil Robot Traffic Jam HD | 34407 | [34407-evil-robot-traffic-jam-hd.json](./34407-evil-robot-traffic-jam-hd.json) |
+| Evil Robots | 121556 | [121556-evil-robots.json](./121556-evil-robots.json) |
 | Evil Robots From N1M | 31844 | [31844-evil-robots-from-n1m.json](./31844-evil-robots-from-n1m.json) |
 | Evil Snowmen 2 | 265140 | [265140-evil-snowmen-2.json](./265140-evil-snowmen-2.json) |
 | Evil Soul | 165709 | [165709-evil-soul.json](./165709-evil-soul.json) |
@@ -3378,6 +3379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Speed Bundle: Go! Fish Go! Adrenaline Rush, Jet Ski Rush | 196823 | [196823-extreme-speed-bundle-go-fish-go-adrenaline-rush-jet-ski-rush.json](./196823-extreme-speed-bundle-go-fish-go-adrenaline-rush-jet-ski-rush.json) |
 | Extreme Sports with the Berenstain Bears | 49932 | [49932-extreme-sports-with-the-berenstain-bears.json](./49932-extreme-sports-with-the-berenstain-bears.json) |
 | Extreme Sprint 3010 | 66948 | [66948-extreme-sprint-3010.json](./66948-extreme-sprint-3010.json) |
+| Extreme Tactical Executioners | 121549 | [121549-extreme-tactical-executioners.json](./121549-extreme-tactical-executioners.json) |
 | Extreme Tag! | 240793 | [240793-extreme-tag.json](./240793-extreme-tag.json) |
 | Extreme Tux Racer | 51248 | [51248-extreme-tux-racer.json](./51248-extreme-tux-racer.json) |
 | Extreme: Rise of the Triad | 9980 | [9980-extreme-rise-of-the-triad.json](./9980-extreme-rise-of-the-triad.json) |
