@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T.W. Burgess Presents: Pylons | 169877 | [169877-t-w-burgess-presents-pylons.json](./169877-t-w-burgess-presents-pylons.json) |
 | T1wre3: Noname | 329161 | [329161-t1wre3-noname.json](./329161-t1wre3-noname.json) |
 | T2048 | 304335 | [304335-t2048.json](./304335-t2048.json) |
+| T2SD | 131461 | [131461-t2sd.json](./131461-t2sd.json) |
 | T3 - Take the Turn | 109728 | [109728-t3-take-the-turn.json](./109728-t3-take-the-turn.json) |
 | T3D: Genesis | 213357 | [213357-t3d-genesis.json](./213357-t3d-genesis.json) |
 | T90 Tank Battle Simulator in VR | 193186 | [193186-t90-tank-battle-simulator-in-vr.json](./193186-t90-tank-battle-simulator-in-vr.json) |
@@ -1760,6 +1761,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenka Touitsu SSB: Scenario - Ryuuko Aiutsu | 283849 | [283849-tenka-touitsu-ssb-scenario-ryuuko-aiutsu.json](./283849-tenka-touitsu-ssb-scenario-ryuuko-aiutsu.json) |
 | Tenka Touitsu: SSB | 278496 | [278496-tenka-touitsu-ssb.json](./278496-tenka-touitsu-ssb.json) |
 | Tenko's Magical Sword Quest | 194991 | [194991-tenkos-magical-sword-quest.json](./194991-tenkos-magical-sword-quest.json) |
+| Tennis | 131451 | [131451-tennis.json](./131451-tennis.json) |
+| Tennis | 131485 | [131485-tennis.json](./131485-tennis.json) |
 | Tennis | 131513 | [131513-tennis.json](./131513-tennis.json) |
 | Tennis | 131517 | [131517-tennis.json](./131517-tennis.json) |
 | Tennis | 131530 | [131530-tennis.json](./131530-tennis.json) |
@@ -2112,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetrigram | 195489 | [195489-tetrigram.json](./195489-tetrigram.json) |
 | Tetriller | 84247 | [84247-tetriller.json](./84247-tetriller.json) |
 | TetriMatch | 339273 | [339273-tetrimatch.json](./339273-tetrimatch.json) |
+| Tetris | 131503 | [131503-tetris.json](./131503-tetris.json) |
 | Tetris | 133912 | [133912-tetris.json](./133912-tetris.json) |
 | Tetris | 180279 | [180279-tetris.json](./180279-tetris.json) |
 | Tetris | 185669 | [185669-tetris.json](./185669-tetris.json) |
@@ -7927,6 +7931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: Onslaught - Survivors Edition | 139842 | [139842-the-walking-dead-onslaught-survivors-edition.json](./139842-the-walking-dead-onslaught-survivors-edition.json) |
 | The Walking Dead: Onslaught - The Golden Weapons Deluxe Pack | 139956 | [139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json](./139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json) |
 | The Walking Dead: Our World | 55177 | [55177-the-walking-dead-our-world.json](./55177-the-walking-dead-our-world.json) |
+| The Walking Dead: Pinball | 131502 | [131502-the-walking-dead-pinball.json](./131502-the-walking-dead-pinball.json) |
 | The Walking Dead: Saints & Sinners - Ch 2: Retribution | 198232 | [198232-the-walking-dead-saints-and-sinners-ch-2-retribution.json](./198232-the-walking-dead-saints-and-sinners-ch-2-retribution.json) |
 | The Walking Dead: Saints & Sinners - The Complete Edition | 139865 | [139865-the-walking-dead-saints-and-sinners-the-complete-edition.json](./139865-the-walking-dead-saints-and-sinners-the-complete-edition.json) |
 | The Walking Dead: Season One - Episode 3: Long Road Ahead | 114942 | [114942-the-walking-dead-season-one-episode-3-long-road-ahead.json](./114942-the-walking-dead-season-one-episode-3-long-road-ahead.json) |
@@ -10210,6 +10215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tisuland | 382747 | [382747-tisuland.json](./382747-tisuland.json) |
 | Tit Tap Tingle | 135801 | [135801-tit-tap-tingle.json](./135801-tit-tap-tingle.json) |
 | Titan | 159107 | [159107-titan.json](./159107-titan.json) |
+| Titan (working title) | 131476 | [131476-titan-working-title.json](./131476-titan-working-title.json) |
 | Titan A.E. | 198944 | [198944-titan-a-e.json](./198944-titan-a-e.json) |
 | Titan Attack: Wall Defense FPS | 175716 | [175716-titan-attack-wall-defense-fps.json](./175716-titan-attack-wall-defense-fps.json) |
 | Titan Attacks! | 11460 | [11460-titan-attacks.json](./11460-titan-attacks.json) |
@@ -11700,6 +11706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToWhere? | 387006 | [387006-towhere.json](./387006-towhere.json) |
 | Towing Race | 239045 | [239045-towing-race.json](./239045-towing-race.json) |
 | Towing Simulator | 9451 | [9451-towing-simulator.json](./9451-towing-simulator.json) |
+| Town (Working Title) | 131455 | [131455-town-working-title.json](./131455-town-working-title.json) |
 | Town Doubt | 55470 | [55470-town-doubt.json](./55470-town-doubt.json) |
 | Town Hall Toaster | 71463 | [71463-town-hall-toaster.json](./71463-town-hall-toaster.json) |
 | Town of Destruction | 192184 | [192184-town-of-destruction.json](./192184-town-of-destruction.json) |
@@ -13281,6 +13288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Video Game Trivia Deluxe | 74339 | [74339-trivia-vault-video-game-trivia-deluxe.json](./74339-trivia-vault-video-game-trivia-deluxe.json) |
 | Trivial Pursuit | 12970 | [12970-trivial-pursuit.json](./12970-trivial-pursuit.json) |
 | Trivial Pursuit 2: A New Beginning | 69824 | [69824-trivial-pursuit-2-a-new-beginning.json](./69824-trivial-pursuit-2-a-new-beginning.json) |
+| Trivial Pursuit Arcade | 131504 | [131504-trivial-pursuit-arcade.json](./131504-trivial-pursuit-arcade.json) |
 | Trivial Pursuit Online | 355006 | [355006-trivial-pursuit-online.json](./355006-trivial-pursuit-online.json) |
 | Trivial Pursuit Tap | 108957 | [108957-trivial-pursuit-tap.json](./108957-trivial-pursuit-tap.json) |
 | Trivial Pursuit: Bring on the 90's Edition | 206661 | [206661-trivial-pursuit-bring-on-the-90s-edition.json](./206661-trivial-pursuit-bring-on-the-90s-edition.json) |
