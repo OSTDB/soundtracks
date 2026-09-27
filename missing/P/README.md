@@ -3661,6 +3661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixie Plates: Royal Edition | 411835 | [411835-pixie-plates-royal-edition.json](./411835-pixie-plates-royal-edition.json) |
 | Pixie Plates: Royal Gardens DLC | 399804 | [399804-pixie-plates-royal-gardens-dlc.json](./399804-pixie-plates-royal-gardens-dlc.json) |
 | Pixie Plates: Shimmering Slopes DLC | 399805 | [399805-pixie-plates-shimmering-slopes-dlc.json](./399805-pixie-plates-shimmering-slopes-dlc.json) |
+| Pixie the Microdot | 142365 | [142365-pixie-the-microdot.json](./142365-pixie-the-microdot.json) |
 | Pixiel: Dreadwager | 277424 | [277424-pixiel-dreadwager.json](./277424-pixiel-dreadwager.json) |
 | Pixiescape | 217389 | [217389-pixiescape.json](./217389-pixiescape.json) |
 | PixlCross | 58765 | [58765-pixlcross.json](./58765-pixlcross.json) |
