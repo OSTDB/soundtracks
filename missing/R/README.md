@@ -4149,6 +4149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocksmith: Foo Fighters - Song Pack | 226934 | [226934-rocksmith-foo-fighters-song-pack.json](./226934-rocksmith-foo-fighters-song-pack.json) |
 | Rocksmith: Queen 5-Song Pack | 226933 | [226933-rocksmith-queen-5-song-pack.json](./226933-rocksmith-queen-5-song-pack.json) |
 | Rocksmith: Rush 5-Song Pack | 226932 | [226932-rocksmith-rush-5-song-pack.json](./226932-rocksmith-rush-5-song-pack.json) |
+| Rocksmith+ | 152197 | [152197-rocksmith.json](./152197-rocksmith.json) |
 | Rockstar Alien Killers | 102796 | [102796-rockstar-alien-killers.json](./102796-rockstar-alien-killers.json) |
 | Rockstar DressUp | 104596 | [104596-rockstar-dressup.json](./104596-rockstar-dressup.json) |
 | Rockstar Games Collection: Edition 1 | 41587 | [41587-rockstar-games-collection-edition-1.json](./41587-rockstar-games-collection-edition-1.json) |
