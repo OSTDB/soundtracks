@@ -931,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe and the Gun | 147329 | [147329-joe-and-the-gun.json](./147329-joe-and-the-gun.json) |
 | Joe Biden For The PS2 2: Re-elected | 268202 | [268202-joe-biden-for-the-ps2-2-re-elected.json](./268202-joe-biden-for-the-ps2-2-re-elected.json) |
 | Joe Biden: Escape From MAGA | 263790 | [263790-joe-biden-escape-from-maga.json](./263790-joe-biden-escape-from-maga.json) |
+| Joe Blunt Up In Smoke | 123507 | [123507-joe-blunt-up-in-smoke.json](./123507-joe-blunt-up-in-smoke.json) |
 | Joe Danger: Special Edition | 24235 | [24235-joe-danger-special-edition.json](./24235-joe-danger-special-edition.json) |
 | Joe Dungeon | 236206 | [236206-joe-dungeon.json](./236206-joe-dungeon.json) |
 | Joe Gunn | 77385 | [77385-joe-gunn.json](./77385-joe-gunn.json) |
