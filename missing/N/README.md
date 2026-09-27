@@ -2244,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Raiden | 181787 | [181787-ninja-raiden.json](./181787-ninja-raiden.json) |
 | Ninja Remix 16 | 59986 | [59986-ninja-remix-16.json](./59986-ninja-remix-16.json) |
 | Ninja Rinseout | 323358 | [323358-ninja-rinseout.json](./323358-ninja-rinseout.json) |
+| Ninja Run | 129083 | [129083-ninja-run.json](./129083-ninja-run.json) |
 | Ninja Run | 210750 | [210750-ninja-run.json](./210750-ninja-run.json) |
 | Ninja Runner | 233234 | [233234-ninja-runner.json](./233234-ninja-runner.json) |
 | Ninja Savior | 268496 | [268496-ninja-savior.json](./268496-ninja-savior.json) |
