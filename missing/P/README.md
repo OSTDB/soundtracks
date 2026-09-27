@@ -2483,6 +2483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Physio Fun Balance Training | 84828 | [84828-physio-fun-balance-training.json](./84828-physio-fun-balance-training.json) |
 | Physiofun: Pelvic Floor Training | 84827 | [84827-physiofun-pelvic-floor-training.json](./84827-physiofun-pelvic-floor-training.json) |
 | Phytomancer | 175886 | [175886-phytomancer.json](./175886-phytomancer.json) |
+| PhyxBox | 127873 | [127873-phyxbox.json](./127873-phyxbox.json) |
 | Pi in the Sky | 354647 | [354647-pi-in-the-sky.json](./354647-pi-in-the-sky.json) |
 | Pi Story | 93987 | [93987-pi-story.json](./93987-pi-story.json) |
 | Pi-Balled | 354646 | [354646-pi-balled.json](./354646-pi-balled.json) |
@@ -6016,6 +6017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Maker 4 Portable | 205640 | [205640-princess-maker-4-portable.json](./205640-princess-maker-4-portable.json) |
 | Princess Maker Refine | 27317 | [27317-princess-maker-refine.json](./27317-princess-maker-refine.json) |
 | Princess Maker: Children of Revelation | 316082 | [316082-princess-maker-children-of-revelation.json](./316082-princess-maker-children-of-revelation.json) |
+| Princess Maker: Faery Tales Come True | 127847 | [127847-princess-maker-faery-tales-come-true.json](./127847-princess-maker-faery-tales-come-true.json) |
 | Princess Miyumi and The Necro's Dungeon | 183570 | [183570-princess-miyumi-and-the-necros-dungeon.json](./183570-princess-miyumi-and-the-necros-dungeon.json) |
 | Princess Nightmare | 72674 | [72674-princess-nightmare.json](./72674-princess-nightmare.json) |
 | Princess of Mekana | 245816 | [245816-princess-of-mekana.json](./245816-princess-of-mekana.json) |
@@ -7038,6 +7040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pub Games | 399605 | [399605-pub-games.json](./399605-pub-games.json) |
 | Pub Mania | 325247 | [325247-pub-mania.json](./325247-pub-mania.json) |
 | Pub Sim | 311277 | [311277-pub-sim.json](./311277-pub-sim.json) |
+| Pub Simulator | 127863 | [127863-pub-simulator.json](./127863-pub-simulator.json) |
 | Pub Toilet Simulator 25 | 339798 | [339798-pub-toilet-simulator-25.json](./339798-pub-toilet-simulator-25.json) |
 | Pubes | 406284 | [406284-pubes.json](./406284-pubes.json) |
 | PUBG Lite | 124036 | [124036-pubg-lite.json](./124036-pubg-lite.json) |
