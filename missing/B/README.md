@@ -3410,6 +3410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birth Order | 61071 | [61071-birth-order.json](./61071-birth-order.json) |
 | Birthday Boy | 399612 | [399612-birthday-boy.json](./399612-birthday-boy.json) |
 | Birthdays the Beginning: Digital Limited Edition | 52628 | [52628-birthdays-the-beginning-digital-limited-edition.json](./52628-birthdays-the-beginning-digital-limited-edition.json) |
+| Birthright | 156029 | [156029-birthright.json](./156029-birthright.json) |
 | Birthright Cataclysm: Overture | 171595 | [171595-birthright-cataclysm-overture.json](./171595-birthright-cataclysm-overture.json) |
 | Birushana: Winds of Fate | 401103 | [401103-birushana-winds-of-fate.json](./401103-birushana-winds-of-fate.json) |
 | Birushana: Winds of Fate - Deluxe Edition | 401109 | [401109-birushana-winds-of-fate-deluxe-edition.json](./401109-birushana-winds-of-fate-deluxe-edition.json) |
@@ -3609,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Goat | 355193 | [355193-black-goat.json](./355193-black-goat.json) |
 | Black Gold | 136436 | [136436-black-gold.json](./136436-black-gold.json) |
 | Black Gold | 14609 | [14609-black-gold.json](./14609-black-gold.json) |
+| Black Gold | 156052 | [156052-black-gold.json](./156052-black-gold.json) |
 | Black Gold Online | 63338 | [63338-black-gold-online.json](./63338-black-gold-online.json) |
 | Black Hangman | 112122 | [112122-black-hangman.json](./112122-black-hangman.json) |
 | Black Hawk | 25711 | [25711-black-hawk.json](./25711-black-hawk.json) |
