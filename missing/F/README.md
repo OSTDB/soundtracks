@@ -826,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Illness | 339115 | [339115-fantasy-illness.json](./339115-fantasy-illness.json) |
 | Fantasy Inn Simulator | 157127 | [157127-fantasy-inn-simulator.json](./157127-fantasy-inn-simulator.json) |
 | Fantasy Item Company | 216158 | [216158-fantasy-item-company.json](./216158-fantasy-item-company.json) |
+| Fantasy Jigsaw Puzzle 5 | 174118 | [174118-fantasy-jigsaw-puzzle-5.json](./174118-fantasy-jigsaw-puzzle-5.json) |
 | Fantasy Jigsaw Puzzles: Dragons | 236825 | [236825-fantasy-jigsaw-puzzles-dragons.json](./236825-fantasy-jigsaw-puzzles-dragons.json) |
 | Fantasy Jigsaw Puzzles: Dwarves | 235467 | [235467-fantasy-jigsaw-puzzles-dwarves.json](./235467-fantasy-jigsaw-puzzles-dwarves.json) |
 | Fantasy Jigsaw Puzzles: Lost Empires | 296423 | [296423-fantasy-jigsaw-puzzles-lost-empires.json](./296423-fantasy-jigsaw-puzzles-lost-empires.json) |
@@ -1013,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Dungeons | 158135 | [158135-farm-dungeons.json](./158135-farm-dungeons.json) |
 | Farm Expert 2016: Farm Machines Pack | 263190 | [263190-farm-expert-2016-farm-machines-pack.json](./263190-farm-expert-2016-farm-machines-pack.json) |
 | Farm Expert 2017 | 25105 | [25105-farm-expert-2017.json](./25105-farm-expert-2017.json) |
+| Farm Expert 2017: Hard Terrain | 174133 | [174133-farm-expert-2017-hard-terrain.json](./174133-farm-expert-2017-hard-terrain.json) |
 | Farm Expert 2019 | 112334 | [112334-farm-expert-2019.json](./112334-farm-expert-2019.json) |
 | Farm Factory Simulator | 406934 | [406934-farm-factory-simulator.json](./406934-farm-factory-simulator.json) |
 | Farm For A Wife | 217281 | [217281-farm-for-a-wife.json](./217281-farm-for-a-wife.json) |
