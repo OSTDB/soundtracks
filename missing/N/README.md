@@ -648,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neanderthal Man | 13742 | [13742-neanderthal-man.json](./13742-neanderthal-man.json) |
 | Neanderthallica | 236401 | [236401-neanderthallica.json](./236401-neanderthallica.json) |
 | Near Bird | 113700 | [113700-near-bird.json](./113700-near-bird.json) |
+| Near Deadline | 158510 | [158510-near-deadline.json](./158510-near-deadline.json) |
 | Near Mint | 315626 | [315626-near-mint.json](./315626-near-mint.json) |
 | Near Mint | 399599 | [399599-near-mint.json](./399599-near-mint.json) |
 | Near Site | 189042 | [189042-near-site.json](./189042-near-site.json) |
@@ -2158,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Games | 360175 | [360175-ninja-games.json](./360175-ninja-games.json) |
 | Ninja Gardening Simulator | 281531 | [281531-ninja-gardening-simulator.json](./281531-ninja-gardening-simulator.json) |
 | Ninja Gear | 322583 | [322583-ninja-gear.json](./322583-ninja-gear.json) |
+| Ninja Girl | 158543 | [158543-ninja-girl.json](./158543-ninja-girl.json) |
 | Ninja Girl and the Mysterious Army of Urban Legend Monsters! ~Hunt of the Headless Horseman~ | 119562 | [119562-ninja-girl-and-the-mysterious-army-of-urban-legend-monsters-hunt-of-the-headless-horseman.json](./119562-ninja-girl-and-the-mysterious-army-of-urban-legend-monsters-hunt-of-the-headless-horseman.json) |
 | Ninja Girls: Kunoichi Puzzle | 315840 | [315840-ninja-girls-kunoichi-puzzle.json](./315840-ninja-girls-kunoichi-puzzle.json) |
 | Ninja Glove | 338937 | [338937-ninja-glove.json](./338937-ninja-glove.json) |
@@ -2360,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niva | 97303 | [97303-niva.json](./97303-niva.json) |
 | Nivalis Nights | 203301 | [203301-nivalis-nights.json](./203301-nivalis-nights.json) |
 | Nivoz Running Canned | 244249 | [244249-nivoz-running-canned.json](./244249-nivoz-running-canned.json) |
+| Nix Umbra | 158504 | [158504-nix-umbra.json](./158504-nix-umbra.json) |
 | Nixie | 267690 | [267690-nixie.json](./267690-nixie.json) |
 | Nixxsz Maids Blazing | 292303 | [292303-nixxsz-maids-blazing.json](./292303-nixxsz-maids-blazing.json) |
 | Nixy and the Seeds of Doom | 363459 | [363459-nixy-and-the-seeds-of-doom.json](./363459-nixy-and-the-seeds-of-doom.json) |
