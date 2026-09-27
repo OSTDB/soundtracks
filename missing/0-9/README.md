@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | @Card SD Gundam Gaiden | 130888 | [130888-card-sd-gundam-gaiden.json](./130888-card-sd-gundam-gaiden.json) |
 | *N Sync: Get to the Show | 94742 | [94742-n-sync-get-to-the-show.json](./94742-n-sync-get-to-the-show.json) |
 | //Todo: today | 112283 | [112283-todo-today.json](./112283-todo-today.json) |
+| /Connection Haunted | 147872 | [147872-connection-haunted.json](./147872-connection-haunted.json) |
 | & in the War I Find You | 178584 | [178584-and-in-the-war-i-find-you.json](./178584-and-in-the-war-i-find-you.json) |
 | #1 Pastime Bundle | 192408 | [192408-1-pastime-bundle.json](./192408-1-pastime-bundle.json) |
 | #7-J5Z: The Driftwood Experiment | 343447 | [343447-7-j5z-the-driftwood-experiment.json](./343447-7-j5z-the-driftwood-experiment.json) |
@@ -822,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Mine Storm | 41982 | [41982-3d-mine-storm.json](./41982-3d-mine-storm.json) |
 | 3D Minesweeper | 384102 | [384102-3d-minesweeper.json](./384102-3d-minesweeper.json) |
 | 3D MiniGolf | 143059 | [143059-3d-minigolf.json](./143059-3d-minigolf.json) |
+| 3D MiniGolf | 147887 | [147887-3d-minigolf.json](./147887-3d-minigolf.json) |
 | 3D Morpion | 324513 | [324513-3d-morpion.json](./324513-3d-morpion.json) |
 | 3D Munchy | 15577 | [15577-3d-munchy.json](./15577-3d-munchy.json) |
 | 3D Next Puzzle | 357971 | [357971-3d-next-puzzle.json](./357971-3d-next-puzzle.json) |
