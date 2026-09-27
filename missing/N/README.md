@@ -2432,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Heroes: Naomi Hook | 355548 | [355548-no-more-heroes-naomi-hook.json](./355548-no-more-heroes-naomi-hook.json) |
 | No More Heroes: Red Zone Edition | 116373 | [116373-no-more-heroes-red-zone-edition.json](./116373-no-more-heroes-red-zone-edition.json) |
 | No More Inputs | 164913 | [164913-no-more-inputs.json](./164913-no-more-inputs.json) |
+| No More Rainbows | 168672 | [168672-no-more-rainbows.json](./168672-no-more-rainbows.json) |
 | No More Shopping | 334867 | [334867-no-more-shopping.json](./334867-no-more-shopping.json) |
 | No More Slimes!! | 414600 | [414600-no-more-slimes.json](./414600-no-more-slimes.json) |
 | No Offence, But | 126581 | [126581-no-offence-but.json](./126581-no-offence-but.json) |
