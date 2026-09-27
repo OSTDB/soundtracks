@@ -1287,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path to Valhalla | 113733 | [113733-path-to-valhalla.json](./113733-path-to-valhalla.json) |
 | Path to Warband | 215692 | [215692-path-to-warband.json](./215692-path-to-warband.json) |
 | Path Weaver | 296644 | [296644-path-weaver.json](./296644-path-weaver.json) |
+| Path: Through the Forest | 151598 | [151598-path-through-the-forest.json](./151598-path-through-the-forest.json) |
 | Pathfinder | 282100 | [282100-pathfinder.json](./282100-pathfinder.json) |
 | Pathfinder Adventures | 36611 | [36611-pathfinder-adventures.json](./36611-pathfinder-adventures.json) |
 | Pathfinder Puzzle | 158182 | [158182-pathfinder-puzzle.json](./158182-pathfinder-puzzle.json) |
@@ -3260,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piworld | 318224 | [318224-piworld.json](./318224-piworld.json) |
 | Pix Arts Masters Tennis | 335083 | [335083-pix-arts-masters-tennis.json](./335083-pix-arts-masters-tennis.json) |
 | Pix Hop | 183359 | [183359-pix-hop.json](./183359-pix-hop.json) |
+| Pix Jungle Adventures | 151602 | [151602-pix-jungle-adventures.json](./151602-pix-jungle-adventures.json) |
 | Pix! - Virtual Pet Widget Game | 97137 | [97137-pix-virtual-pet-widget-game.json](./97137-pix-virtual-pet-widget-game.json) |
 | Pix3D | 84819 | [84819-pix3d.json](./84819-pix3d.json) |
 | Pixadom | 317582 | [317582-pixadom.json](./317582-pixadom.json) |
@@ -7347,6 +7349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Box | 166072 | [166072-puzzle-box.json](./166072-puzzle-box.json) |
 | Puzzle Box | 27037 | [27037-puzzle-box.json](./27037-puzzle-box.json) |
 | Puzzle Box - Classic Puzzles All in One | 103908 | [103908-puzzle-box-classic-puzzles-all-in-one.json](./103908-puzzle-box-classic-puzzles-all-in-one.json) |
+| Puzzle Box 3 in 1 | 151600 | [151600-puzzle-box-3-in-1.json](./151600-puzzle-box-3-in-1.json) |
 | Puzzle Box Maker | 84795 | [84795-puzzle-box-maker.json](./84795-puzzle-box-maker.json) |
 | Puzzle Box Palace | 144124 | [144124-puzzle-box-palace.json](./144124-puzzle-box-palace.json) |
 | Puzzle Box-Puzzles All In One | 104608 | [104608-puzzle-box-puzzles-all-in-one.json](./104608-puzzle-box-puzzles-all-in-one.json) |
