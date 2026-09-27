@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zabugorie: The Fairy Planet | 57638 | [57638-zabugorie-the-fairy-planet.json](./57638-zabugorie-the-fairy-planet.json) |
 | Zac's Batting Academy | 234595 | [234595-zacs-batting-academy.json](./234595-zacs-batting-academy.json) |
 | Zaccaria Pinball | 33463 | [33463-zaccaria-pinball.json](./33463-zaccaria-pinball.json) |
+| Zaccaria Pinball: 40 Retro Tables | 158496 | [158496-zaccaria-pinball-40-retro-tables.json](./158496-zaccaria-pinball-40-retro-tables.json) |
 | Zaccaria Pinball: Blackbelt Deluxe Pinball Table | 349924 | [349924-zaccaria-pinball-blackbelt-deluxe-pinball-table.json](./349924-zaccaria-pinball-blackbelt-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Clown Deluxe Pinball Table | 349914 | [349914-zaccaria-pinball-clown-deluxe-pinball-table.json](./349914-zaccaria-pinball-clown-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Deluxe Table Pack 2 | 411006 | [411006-zaccaria-pinball-deluxe-table-pack-2.json](./411006-zaccaria-pinball-deluxe-table-pack-2.json) |
@@ -500,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoda's Revenge: StarTropics II | 48062 | [48062-zodas-revenge-startropics-ii.json](./48062-zodas-revenge-startropics-ii.json) |
 | Zodi Bingo | 88165 | [88165-zodi-bingo.json](./88165-zodi-bingo.json) |
 | Zodiac | 146103 | [146103-zodiac.json](./146103-zodiac.json) |
+| Zodiac DX | 158514 | [158514-zodiac-dx.json](./158514-zodiac-dx.json) |
 | Zodiac Faeries Astrology Adventure | 102818 | [102818-zodiac-faeries-astrology-adventure.json](./102818-zodiac-faeries-astrology-adventure.json) |
 | Zodiac Fantasy 2 | 220142 | [220142-zodiac-fantasy-2.json](./220142-zodiac-fantasy-2.json) |
 | Zodiac Hentai: Hellish Memory | 220736 | [220736-zodiac-hentai-hellish-memory.json](./220736-zodiac-hentai-hellish-memory.json) |
