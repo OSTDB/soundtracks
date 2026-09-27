@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Hime 4 | 286539 | [286539-sakura-hime-4.json](./286539-sakura-hime-4.json) |
 | Sakura Isekai Adventure 2 | 301886 | [301886-sakura-isekai-adventure-2.json](./301886-sakura-isekai-adventure-2.json) |
 | Sakura Knight 2 | 137622 | [137622-sakura-knight-2.json](./137622-sakura-knight-2.json) |
+| Sakura Knight 3 | 171945 | [171945-sakura-knight-3.json](./171945-sakura-knight-3.json) |
 | Sakura Machizaka Stories Vol. 1 | 77946 | [77946-sakura-machizaka-stories-vol-1.json](./77946-sakura-machizaka-stories-vol-1.json) |
 | Sakura Mau Otome no Rondo | 339138 | [339138-sakura-mau-otome-no-rondo.json](./339138-sakura-mau-otome-no-rondo.json) |
 | Sakura MMO 2 | 113123 | [113123-sakura-mmo-2.json](./113123-sakura-mmo-2.json) |
@@ -2869,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Wrangler | 180613 | [180613-shadow-wrangler.json](./180613-shadow-wrangler.json) |
 | Shadow X Dash: Ring Collector | 104461 | [104461-shadow-x-dash-ring-collector.json](./104461-shadow-x-dash-ring-collector.json) |
 | Shadow: Treachery Cannot Be Tolerated | 90309 | [90309-shadow-treachery-cannot-be-tolerated.json](./90309-shadow-treachery-cannot-be-tolerated.json) |
+| Shadow: Treachery Cannot Be Tolerated - Episode 2: Retaliation | 171950 | [171950-shadow-treachery-cannot-be-tolerated-episode-2-retaliation.json](./171950-shadow-treachery-cannot-be-tolerated-episode-2-retaliation.json) |
 | Shadow's Bullet | 191871 | [191871-shadows-bullet.json](./191871-shadows-bullet.json) |
 | Shadow's Descent | 321530 | [321530-shadows-descent.json](./321530-shadows-descent.json) |
 | Shadow's Edge | 82154 | [82154-shadows-edge.json](./82154-shadows-edge.json) |
@@ -4876,6 +4878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixteen | 193213 | [193213-sixteen.json](./193213-sixteen.json) |
 | Sixteen Undead | 340368 | [340368-sixteen-undead.json](./340368-sixteen-undead.json) |
 | Sixth Night | 129710 | [129710-sixth-night.json](./129710-sixth-night.json) |
+| Sixtieth Kilometer: Eightieth Kilometer | 171910 | [171910-sixtieth-kilometer-eightieth-kilometer.json](./171910-sixtieth-kilometer-eightieth-kilometer.json) |
 | Sixty Jumps to Ceres | 258479 | [258479-sixty-jumps-to-ceres.json](./258479-sixty-jumps-to-ceres.json) |
 | Sixty Words by Powgi | 206719 | [206719-sixty-words-by-powgi.json](./206719-sixty-words-by-powgi.json) |
 | Size Matters! | 331709 | [331709-size-matters.json](./331709-size-matters.json) |
@@ -5587,6 +5590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Match Adventure | 363056 | [363056-slime-match-adventure.json](./363056-slime-match-adventure.json) |
 | Slime Musume ha Ningen to Tomodachi ni Naritai you da | 308910 | [308910-slime-musume-ha-ningen-to-tomodachi-ni-naritai-you-da.json](./308910-slime-musume-ha-ningen-to-tomodachi-ni-naritai-you-da.json) |
 | Slime on Hole | 185619 | [185619-slime-on-hole.json](./185619-slime-on-hole.json) |
+| Slime Pandemic TD | 171932 | [171932-slime-pandemic-td.json](./171932-slime-pandemic-td.json) |
 | Slime Pizza | 90360 | [90360-slime-pizza.json](./90360-slime-pizza.json) |
 | Slime Quest | 110173 | [110173-slime-quest.json](./110173-slime-quest.json) |
 | Slime Quest | 248145 | [248145-slime-quest.json](./248145-slime-quest.json) |
@@ -6710,6 +6714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Rally | 262469 | [262469-solar-rally.json](./262469-solar-rally.json) |
 | Solar Revival | 193892 | [193892-solar-revival.json](./193892-solar-revival.json) |
 | Solar Rogue | 133421 | [133421-solar-rogue.json](./133421-solar-rogue.json) |
+| Solar Sails | 171937 | [171937-solar-sails.json](./171937-solar-sails.json) |
 | Solar Savage | 347891 | [347891-solar-savage.json](./347891-solar-savage.json) |
 | Solar Striker | 48940 | [48940-solar-striker.json](./48940-solar-striker.json) |
 | Solar Struggle | 17984 | [17984-solar-struggle.json](./17984-solar-struggle.json) |
@@ -10917,6 +10922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Version 1.0 | 252671 | [252671-stellar-version-1-0.json](./252671-stellar-version-1-0.json) |
 | Stellar War | 173260 | [173260-stellar-war.json](./173260-stellar-war.json) |
 | Stellar Warfare | 143701 | [143701-stellar-warfare.json](./143701-stellar-warfare.json) |
+| Stellar Warrior: Master Levels | 171929 | [171929-stellar-warrior-master-levels.json](./171929-stellar-warrior-master-levels.json) |
 | Stellar-Fire | 14515 | [14515-stellar-fire.json](./14515-stellar-fire.json) |
 | Stellar!: Infinity defense | 299453 | [299453-stellar-infinity-defense.json](./299453-stellar-infinity-defense.json) |
 | StellarEchoes: Terrain Explorer | 264619 | [264619-stellarechoes-terrain-explorer.json](./264619-stellarechoes-terrain-explorer.json) |
@@ -12022,6 +12028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Rider - Train Rush | 106567 | [106567-subway-rider-train-rush.json](./106567-subway-rider-train-rush.json) |
 | Subway Simulator | 87982 | [87982-subway-simulator.json](./87982-subway-simulator.json) |
 | Subway Simulator 10: New York Edition | 91348 | [91348-subway-simulator-10-new-york-edition.json](./91348-subway-simulator-10-new-york-edition.json) |
+| Subway Simulator: Moscow Train | 171903 | [171903-subway-simulator-moscow-train.json](./171903-subway-simulator-moscow-train.json) |
 | Subway Surfers | 251589 | [251589-subway-surfers.json](./251589-subway-surfers.json) |
 | Subway Surfers 2018 - Pet vs Police | 103450 | [103450-subway-surfers-2018-pet-vs-police.json](./103450-subway-surfers-2018-pet-vs-police.json) |
 | Subway Surfers Blast | 247170 | [247170-subway-surfers-blast.json](./247170-subway-surfers-blast.json) |
@@ -12892,6 +12899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hoops 2 | 378784 | [378784-super-hoops-2.json](./378784-super-hoops-2.json) |
 | Super Horoscope Kanji Version | 112158 | [112158-super-horoscope-kanji-version.json](./112158-super-horoscope-kanji-version.json) |
 | Super Hot Pellet Muncher 2000 | 178613 | [178613-super-hot-pellet-muncher-2000.json](./178613-super-hot-pellet-muncher-2000.json) |
+| Super Huey 1 & 2 Airdrop | 171909 | [171909-super-huey-1-and-2-airdrop.json](./171909-super-huey-1-and-2-airdrop.json) |
 | Super Huggie Bros | 272806 | [272806-super-huggie-bros.json](./272806-super-huggie-bros.json) |
 | Super Hunchback | 157211 | [157211-super-hunchback.json](./157211-super-hunchback.json) |
 | Super Icarus | 291599 | [291599-super-icarus.json](./291599-super-icarus.json) |
@@ -13351,6 +13359,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Meat Boy: Ultra Edition | 20620 | [20620-super-meat-boy-ultra-edition.json](./20620-super-meat-boy-ultra-edition.json) |
 | Super Meat Shooter: Happy Meat Winter | 172116 | [172116-super-meat-shooter-happy-meat-winter.json](./172116-super-meat-shooter-happy-meat-winter.json) |
 | Super Mecha Lifter 4000 | 363916 | [363916-super-mecha-lifter-4000.json](./363916-super-mecha-lifter-4000.json) |
+| Super Mega Baseball 2: El Viejo Stadium | 171906 | [171906-super-mega-baseball-2-el-viejo-stadium.json](./171906-super-mega-baseball-2-el-viejo-stadium.json) |
+| Super Mega Baseball 2: Red Rock Park | 171907 | [171907-super-mega-baseball-2-red-rock-park.json](./171907-super-mega-baseball-2-red-rock-park.json) |
 | Super Mega Baseball 4: Castillo Arena Stadium | 266742 | [266742-super-mega-baseball-4-castillo-arena-stadium.json](./266742-super-mega-baseball-4-castillo-arena-stadium.json) |
 | Super Mega Hentai Collection! | 215248 | [215248-super-mega-hentai-collection.json](./215248-super-mega-hentai-collection.json) |
 | Super Mega Lucky Box | 234599 | [234599-super-mega-lucky-box.json](./234599-super-mega-lucky-box.json) |
@@ -14042,6 +14052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Ruler Global Outbreak | 296999 | [296999-supreme-ruler-global-outbreak.json](./296999-supreme-ruler-global-outbreak.json) |
 | Supreme Ruler The Great War Remastered | 277933 | [277933-supreme-ruler-the-great-war-remastered.json](./277933-supreme-ruler-the-great-war-remastered.json) |
 | Supreme Ruler The Great War Remastered DLC | 277931 | [277931-supreme-ruler-the-great-war-remastered-dlc.json](./277931-supreme-ruler-the-great-war-remastered-dlc.json) |
+| Supreme Ruler Ultimate: Trump Rising | 171958 | [171958-supreme-ruler-ultimate-trump-rising.json](./171958-supreme-ruler-ultimate-trump-rising.json) |
 | Supreme Snowboarding | 9277 | [9277-supreme-snowboarding.json](./9277-supreme-snowboarding.json) |
 | Supreme Summoner | 257101 | [257101-supreme-summoner.json](./257101-supreme-summoner.json) |
 | Supreme Warrior | 298560 | [298560-supreme-warrior.json](./298560-supreme-warrior.json) |
