@@ -1947,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellvivors | 217317 | [217317-hellvivors.json](./217317-hellvivors.json) |
 | Hellwomb | 150138 | [150138-hellwomb.json](./150138-hellwomb.json) |
 | Hellworld! | 173183 | [173183-hellworld.json](./173183-hellworld.json) |
+| Helm Realm | 126497 | [126497-helm-realm.json](./126497-helm-realm.json) |
 | HelmetFire | 351265 | [351265-helmetfire.json](./351265-helmetfire.json) |
 | HelmetRoyale.io | 125991 | [125991-helmetroyale-io.json](./125991-helmetroyale-io.json) |
 | Helmscape | 221116 | [221116-helmscape.json](./221116-helmscape.json) |
