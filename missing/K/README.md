@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalling Kingdom | 130731 | [130731-kalling-kingdom.json](./130731-kalling-kingdom.json) |
 | Kalma | 349470 | [349470-kalma.json](./349470-kalma.json) |
 | Kalpa | 170466 | [170466-kalpa.json](./170466-kalpa.json) |
+| Kalpa of Universe: Mobile | 145542 | [145542-kalpa-of-universe-mobile.json](./145542-kalpa-of-universe-mobile.json) |
 | Kalpa: Cosmic Symphony | 292295 | [292295-kalpa-cosmic-symphony.json](./292295-kalpa-cosmic-symphony.json) |
 | Kalpa: Cosmic Symphony - Camellia Pack | 397712 | [397712-kalpa-cosmic-symphony-camellia-pack.json](./397712-kalpa-cosmic-symphony-camellia-pack.json) |
 | Kalpa: Cosmic Symphony - Cosmic Edition | 411101 | [411101-kalpa-cosmic-symphony-cosmic-edition.json](./411101-kalpa-cosmic-symphony-cosmic-edition.json) |
