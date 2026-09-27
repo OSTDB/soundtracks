@@ -1338,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PathPix Edge | 108498 | [108498-pathpix-edge.json](./108498-pathpix-edge.json) |
 | Paths of Fight: Samurai | 249845 | [249845-paths-of-fight-samurai.json](./249845-paths-of-fight-samurai.json) |
 | Paths Taken | 119039 | [119039-paths-taken.json](./119039-paths-taken.json) |
+| Pathseeker | 129639 | [129639-pathseeker.json](./129639-pathseeker.json) |
 | Pathstorm | 71512 | [71512-pathstorm.json](./71512-pathstorm.json) |
 | Pathway | 133975 | [133975-pathway.json](./133975-pathway.json) |
 | Patience | 321609 | [321609-patience.json](./321609-patience.json) |
@@ -4938,6 +4939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Political Punchers: 2024 Arena | 293701 | [293701-political-punchers-2024-arena.json](./293701-political-punchers-2024-arena.json) |
 | Politically Yours | 23798 | [23798-politically-yours.json](./23798-politically-yours.json) |
 | PolitiCats | 57365 | [57365-politicats.json](./57365-politicats.json) |
+| Politicking | 129689 | [129689-politicking.json](./129689-politicking.json) |
 | Politics The Game | 304903 | [304903-politics-the-game.json](./304903-politics-the-game.json) |
 | Politiks | 391176 | [391176-politiks.json](./391176-politiks.json) |
 | Politon | 259099 | [259099-politon.json](./259099-politon.json) |
@@ -5410,6 +5412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Hero | 239923 | [239923-post-hero.json](./239923-post-hero.json) |
 | Post Impact | 395188 | [395188-post-impact.json](./395188-post-impact.json) |
 | Post Memory | 318530 | [318530-post-memory.json](./318530-post-memory.json) |
+| Post Scriptum CTG: Collectible Token Game | 129676 | [129676-post-scriptum-ctg-collectible-token-game.json](./129676-post-scriptum-ctg-collectible-token-game.json) |
 | Post Solis | 199102 | [199102-post-solis.json](./199102-post-solis.json) |
 | Post Soviet Strike: Chernobyl Legacy | 294161 | [294161-post-soviet-strike-chernobyl-legacy.json](./294161-post-soviet-strike-chernobyl-legacy.json) |
 | Post-apocalyptic Old man | 283236 | [283236-post-apocalyptic-old-man.json](./283236-post-apocalyptic-old-man.json) |
