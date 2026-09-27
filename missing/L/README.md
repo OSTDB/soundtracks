@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Epoch: Twilight Fox | 286563 | [286563-last-epoch-twilight-fox.json](./286563-last-epoch-twilight-fox.json) |
 | Last Equinox: Winds of Change | 255388 | [255388-last-equinox-winds-of-change.json](./255388-last-equinox-winds-of-change.json) |
 | Last Fishing: Monster Clash | 220208 | [220208-last-fishing-monster-clash.json](./220208-last-fishing-monster-clash.json) |
+| Last Floor | 130242 | [130242-last-floor.json](./130242-last-floor.json) |
 | Last Floor | 400252 | [400252-last-floor.json](./400252-last-floor.json) |
 | Last Fort Night Craft Survival Battle Royale | 95843 | [95843-last-fort-night-craft-survival-battle-royale.json](./95843-last-fort-night-craft-survival-battle-royale.json) |
 | Last Fortress: Underground | 219164 | [219164-last-fortress-underground.json](./219164-last-fortress-underground.json) |
