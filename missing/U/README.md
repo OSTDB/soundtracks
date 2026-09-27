@@ -1139,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unoklive vs. Zuck | 182459 | [182459-unoklive-vs-zuck.json](./182459-unoklive-vs-zuck.json) |
 | Unolingo | 288195 | [288195-unolingo.json](./288195-unolingo.json) |
 | Unou Kaihatsu Series 10 Nontan to Issho Wai-wai Nippon | 303759 | [303759-unou-kaihatsu-series-10-nontan-to-issho-wai-wai-nippon.json](./303759-unou-kaihatsu-series-10-nontan-to-issho-wai-wai-nippon.json) |
+| Unou no Tatsujin: Machigai Sagashi Museum | 146795 | [146795-unou-no-tatsujin-machigai-sagashi-museum.json](./146795-unou-no-tatsujin-machigai-sagashi-museum.json) |
 | Unova Nights | 410358 | [410358-unova-nights.json](./410358-unova-nights.json) |
 | Unpacking | 115843 | [115843-unpacking.json](./115843-unpacking.json) |
 | Unpan | 338808 | [338808-unpan.json](./338808-unpan.json) |
