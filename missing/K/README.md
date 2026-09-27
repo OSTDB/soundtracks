@@ -2253,6 +2253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kota's New Journey | 327999 | [327999-kotas-new-journey.json](./327999-kotas-new-journey.json) |
 | Koten Tsumego Shuu: Shijin no Maki | 384658 | [384658-koten-tsumego-shuu-shijin-no-maki.json](./384658-koten-tsumego-shuu-shijin-no-maki.json) |
 | Kotobuki Grand Prix | 133823 | [133823-kotobuki-grand-prix.json](./133823-kotobuki-grand-prix.json) |
+| Kotodama Diary | 152193 | [152193-kotodama-diary.json](./152193-kotodama-diary.json) |
 | Kotoko's a Little Weird | 290687 | [290687-kotokos-a-little-weird.json](./290687-kotokos-a-little-weird.json) |
 | Kotomasho: I Can't Believe This Neet Guy Turned Into a Magical Girl! | 203532 | [203532-kotomasho-i-cant-believe-this-neet-guy-turned-into-a-magical-girl.json](./203532-kotomasho-i-cant-believe-this-neet-guy-turned-into-a-magical-girl.json) |
 | Kotori no Tsubasa | 405511 | [405511-kotori-no-tsubasa.json](./405511-kotori-no-tsubasa.json) |
@@ -2326,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krazy Ivan | 20604 | [20604-krazy-ivan.json](./20604-krazy-ivan.json) |
 | Krazy Kart Racing | 67688 | [67688-krazy-kart-racing.json](./67688-krazy-kart-racing.json) |
 | Krazy Kart! | 310968 | [310968-krazy-kart.json](./310968-krazy-kart.json) |
+| KreatureKind | 152194 | [152194-kreaturekind.json](./152194-kreaturekind.json) |
 | Kredolis | 151143 | [151143-kredolis.json](./151143-kredolis.json) |
 | Kreed | 95498 | [95498-kreed.json](./95498-kreed.json) |
 | Kreed: Battle for Savitar | 69822 | [69822-kreed-battle-for-savitar.json](./69822-kreed-battle-for-savitar.json) |
