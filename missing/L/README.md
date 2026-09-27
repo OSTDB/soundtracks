@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labor Rights Funeral in Ukraine | 379962 | [379962-labor-rights-funeral-in-ukraine.json](./379962-labor-rights-funeral-in-ukraine.json) |
 | Laboratory X-29 | 258550 | [258550-laboratory-x-29.json](./258550-laboratory-x-29.json) |
 | LabRat | 139925 | [139925-labrat.json](./139925-labrat.json) |
+| LabTrainingVR: Personal Protective - Equipment Edition | 174091 | [174091-labtrainingvr-personal-protective-equipment-edition.json](./174091-labtrainingvr-personal-protective-equipment-edition.json) |
 | Labublas: Battle Royale Shooter | 359987 | [359987-labublas-battle-royale-shooter.json](./359987-labublas-battle-royale-shooter.json) |
 | Labubu Games | 363968 | [363968-labubu-games.json](./363968-labubu-games.json) |
 | LabWatch | 272261 | [272261-labwatch.json](./272261-labwatch.json) |
