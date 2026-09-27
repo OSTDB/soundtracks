@@ -3667,6 +3667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Life: Eurasia | 269553 | [269553-animal-life-eurasia.json](./269553-animal-life-eurasia.json) |
 | Animal Life: North America | 269554 | [269554-animal-life-north-america.json](./269554-animal-life-north-america.json) |
 | Animal Magnetism: Pochi no Daisuki | 214434 | [214434-animal-magnetism-pochi-no-daisuki.json](./214434-animal-magnetism-pochi-no-daisuki.json) |
+| Animal Memory | 151591 | [151591-animal-memory.json](./151591-animal-memory.json) |
 | Animal Notes | 119707 | [119707-animal-notes.json](./119707-animal-notes.json) |
 | Animal Pairs: Matching & Concentration Game for Toddlers & Kids | 147938 | [147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json](./147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json) |
 | Animal Pattern | 335352 | [335352-animal-pattern.json](./335352-animal-pattern.json) |
@@ -3838,6 +3839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animorphs: Shattered Reality | 43927 | [43927-animorphs-shattered-reality.json](./43927-animorphs-shattered-reality.json) |
 | Animosity's Duel | 133800 | [133800-animositys-duel.json](./133800-animositys-duel.json) |
 | AnimuJump | 238628 | [238628-animujump.json](./238628-animujump.json) |
+| Animus: Revenant | 151601 | [151601-animus-revenant.json](./151601-animus-revenant.json) |
 | Aniquilation | 132152 | [132152-aniquilation.json](./132152-aniquilation.json) |
 | Anise Flowers | 185129 | [185129-anise-flowers.json](./185129-anise-flowers.json) |
 | Anita's Camp | 310539 | [310539-anitas-camp.json](./310539-anitas-camp.json) |
@@ -3984,6 +3986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Door | 284403 | [284403-another-door.json](./284403-another-door.json) |
 | Another Dungeon Game | 217274 | [217274-another-dungeon-game.json](./217274-another-dungeon-game.json) |
 | Another Earth | 276852 | [276852-another-earth.json](./276852-another-earth.json) |
+| Another Eye | 151613 | [151613-another-eye.json](./151613-another-eye.json) |
 | Another Farm Roguelike | 214201 | [214201-another-farm-roguelike.json](./214201-another-farm-roguelike.json) |
 | Another Game About Clicking | 348859 | [348859-another-game-about-clicking.json](./348859-another-game-about-clicking.json) |
 | Another Hardcore Game | 110995 | [110995-another-hardcore-game.json](./110995-another-hardcore-game.json) |
@@ -4541,6 +4544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arazok's Tomb | 14264 | [14264-arazoks-tomb.json](./14264-arazoks-tomb.json) |
 | ARB: Anomalous Research Bureau - Museum | 402499 | [402499-arb-anomalous-research-bureau-museum.json](./402499-arb-anomalous-research-bureau-museum.json) |
 | Arbalester | 39621 | [39621-arbalester.json](./39621-arbalester.json) |
+| Arbeit Man in another world | 151610 | [151610-arbeit-man-in-another-world.json](./151610-arbeit-man-in-another-world.json) |
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
 | Arborea: Magnicidio en la Corte | 316835 | [316835-arborea-magnicidio-en-la-corte.json](./316835-arborea-magnicidio-en-la-corte.json) |
 | Arboria | 126432 | [126432-arboria.json](./126432-arboria.json) |
@@ -5503,6 +5507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifact Hunter | 156036 | [156036-artifact-hunter.json](./156036-artifact-hunter.json) |
 | Artifact Run | 384534 | [384534-artifact-run.json](./384534-artifact-run.json) |
 | Artifact Seekers | 366306 | [366306-artifact-seekers.json](./366306-artifact-seekers.json) |
+| Artifacting | 151608 | [151608-artifacting.json](./151608-artifacting.json) |
 | Artifacto | 180103 | [180103-artifacto.json](./180103-artifacto.json) |
 | Artifacts and Antiquity | 223385 | [223385-artifacts-and-antiquity.json](./223385-artifacts-and-antiquity.json) |
 | Artifacts of Eternity | 337617 | [337617-artifacts-of-eternity.json](./337617-artifacts-of-eternity.json) |
@@ -6853,6 +6858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aveyond 3: Orbs of Magic - Chapter 4: The Darkthrop Prophecy | 10015 | [10015-aveyond-3-orbs-of-magic-chapter-4-the-darkthrop-prophecy.json](./10015-aveyond-3-orbs-of-magic-chapter-4-the-darkthrop-prophecy.json) |
 | Avia Corporation | 240756 | [240756-avia-corporation.json](./240756-avia-corporation.json) |
 | Avian | 177440 | [177440-avian.json](./177440-avian.json) |
+| Aviano | 151626 | [151626-aviano.json](./151626-aviano.json) |
 | Aviãozinho do tráfico 1: despacito 5 quem ler é arrombado 2 | 341879 | [341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json](./341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json) |
 | Aviãozinho do tráfico 2: 3D resenha de pasta base de cocaína com Sorrizo Ronaldo | 341880 | [341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json](./341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json) |
 | Aviary Attorney | 15710 | [15710-aviary-attorney.json](./15710-aviary-attorney.json) |
