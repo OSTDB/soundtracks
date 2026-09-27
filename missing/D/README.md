@@ -3863,6 +3863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Direction! Level Up! | 306359 | [306359-direction-level-up.json](./306359-direction-level-up.json) |
 | Directional Isolation VR | 135710 | [135710-directional-isolation-vr.json](./135710-directional-isolation-vr.json) |
 | DirectionDungeon! | 179200 | [179200-directiondungeon.json](./179200-directiondungeon.json) |
+| Directive Nine | 157481 | [157481-directive-nine.json](./157481-directive-nine.json) |
 | Director Manager Total | 344940 | [344940-director-manager-total.json](./344940-director-manager-total.json) |
 | Direland | 396883 | [396883-direland.json](./396883-direland.json) |
 | Dirge | 145680 | [145680-dirge.json](./145680-dirge.json) |
@@ -4895,6 +4896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don Dim Dum | 248899 | [248899-don-dim-dum.json](./248899-don-dim-dum.json) |
 | Don Doko Don 2 | 48696 | [48696-don-doko-don-2.json](./48696-don-doko-don-2.json) |
 | Don Duality | 234640 | [234640-don-duality.json](./234640-don-duality.json) |
+| Don Flatus: Poop Hunter | 157478 | [157478-don-flatus-poop-hunter.json](./157478-don-flatus-poop-hunter.json) |
 | Don Juan | 13602 | [13602-don-juan.json](./13602-don-juan.json) |
 | Don King Boxing | 21289 | [21289-don-king-boxing.json](./21289-don-king-boxing.json) |
 | Don King Presents: Prizefighter | 6970 | [6970-don-king-presents-prizefighter.json](./6970-don-king-presents-prizefighter.json) |
@@ -6659,6 +6661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driv3r | 194978 | [194978-driv3r.json](./194978-driv3r.json) |
 | Drive | 366908 | [366908-drive.json](./366908-drive.json) |
 | Drive 'n' Park | 132025 | [132025-drive-n-park.json](./132025-drive-n-park.json) |
+| Drive 21 | 157501 | [157501-drive-21.json](./157501-drive-21.json) |
 | Drive 4 Survival | 139390 | [139390-drive-4-survival.json](./139390-drive-4-survival.json) |
 | Drive Ahead! Carcade | 321142 | [321142-drive-ahead-carcade.json](./321142-drive-ahead-carcade.json) |
 | Drive Beyond Horizons | 290959 | [290959-drive-beyond-horizons.json](./290959-drive-beyond-horizons.json) |
