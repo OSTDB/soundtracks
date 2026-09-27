@@ -4357,6 +4357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster Tycoon Joyride | 99460 | [99460-rollercoaster-tycoon-joyride.json](./99460-rollercoaster-tycoon-joyride.json) |
 | RollerCoaster Tycoon on Nintendo Switch | 95855 | [95855-rollercoaster-tycoon-on-nintendo-switch.json](./95855-rollercoaster-tycoon-on-nintendo-switch.json) |
 | RollerCoaster Tycoon: Deluxe | 36444 | [36444-rollercoaster-tycoon-deluxe.json](./36444-rollercoaster-tycoon-deluxe.json) |
+| RollerCoaster VR Universe | 160153 | [160153-rollercoaster-vr-universe.json](./160153-rollercoaster-vr-universe.json) |
 | Rollercoaster World | 85842 | [85842-rollercoaster-world.json](./85842-rollercoaster-world.json) |
 | Rollercoaster World 2 | 230305 | [230305-rollercoaster-world-2.json](./230305-rollercoaster-world-2.json) |
 | RollerForce | 31935 | [31935-rollerforce.json](./31935-rollerforce.json) |
