@@ -956,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eleusis | 16666 | [16666-eleusis.json](./16666-eleusis.json) |
 | Eleutheria | 177344 | [177344-eleutheria.json](./177344-eleutheria.json) |
 | Elevate | 312715 | [312715-elevate.json](./312715-elevate.json) |
+| Elevated | 155027 | [155027-elevated.json](./155027-elevated.json) |
 | Elevatium: Puzzle of Atlantis | 185436 | [185436-elevatium-puzzle-of-atlantis.json](./185436-elevatium-puzzle-of-atlantis.json) |
 | Elevator | 390275 | [390275-elevator.json](./390275-elevator.json) |
 | Elevator Action | 276516 | [276516-elevator-action.json](./276516-elevator-action.json) |
@@ -1145,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emberdrift | 290952 | [290952-emberdrift.json](./290952-emberdrift.json) |
 | Emberfly | 336013 | [336013-emberfly.json](./336013-emberfly.json) |
 | Emberglade | 415895 | [415895-emberglade.json](./415895-emberglade.json) |
+| Emberglass | 154983 | [154983-emberglass.json](./154983-emberglass.json) |
 | Emberheart | 129760 | [129760-emberheart.json](./129760-emberheart.json) |
 | Emberhold | 379876 | [379876-emberhold.json](./379876-emberhold.json) |
 | Emberlight | 118207 | [118207-emberlight.json](./118207-emberlight.json) |
