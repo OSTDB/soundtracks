@@ -999,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoBalls2 | 83560 | [83560-neoballs2.json](./83560-neoballs2.json) |
 | Neocense | 157060 | [157060-neocense.json](./157060-neocense.json) |
 | NeoCoins | 362268 | [362268-neocoins.json](./362268-neocoins.json) |
+| NeoCube | 148418 | [148418-neocube.json](./148418-neocube.json) |
 | NeoCube | 55482 | [55482-neocube.json](./55482-neocube.json) |
 | Neodash | 148497 | [148497-neodash.json](./148497-neodash.json) |
 | Neodori Infinity | 330285 | [330285-neodori-infinity.json](./330285-neodori-infinity.json) |
