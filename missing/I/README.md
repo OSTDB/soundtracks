@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Here, I Won't Disappear. I Am Here, I Won't... | 329547 | [329547-i-am-here-i-wont-disappear-i-am-here-i-wont.json](./329547-i-am-here-i-wont-disappear-i-am-here-i-wont.json) |
 | I Am Human! | 161173 | [161173-i-am-human.json](./161173-i-am-human.json) |
 | I Am Immortal Here | 337826 | [337826-i-am-immortal-here.json](./337826-i-am-immortal-here.json) |
+| I Am Innocent | 138129 | [138129-i-am-innocent.json](./138129-i-am-innocent.json) |
 | I am Jesus | 57681 | [57681-i-am-jesus.json](./57681-i-am-jesus.json) |
 | I am Jesus Christ: Christ's Revenge | 240732 | [240732-i-am-jesus-christ-christs-revenge.json](./240732-i-am-jesus-christ-christs-revenge.json) |
 | I Am Kilt | 291247 | [291247-i-am-kilt.json](./291247-i-am-kilt.json) |
@@ -837,6 +838,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ignis Universia: Eternal Sisters Saga DX | 144213 | [144213-ignis-universia-eternal-sisters-saga-dx.json](./144213-ignis-universia-eternal-sisters-saga-dx.json) |
 | Ignisia | 328239 | [328239-ignisia.json](./328239-ignisia.json) |
 | Ignistone | 248000 | [248000-ignistone.json](./248000-ignistone.json) |
+| Ignite | 138125 | [138125-ignite.json](./138125-ignite.json) |
+| Ignite: Dying Flame | 138126 | [138126-ignite-dying-flame.json](./138126-ignite-dying-flame.json) |
 | Ignitement | 407440 | [407440-ignitement.json](./407440-ignitement.json) |
 | Ignition | 180309 | [180309-ignition.json](./180309-ignition.json) |
 | Ignition Arena | 314896 | [314896-ignition-arena.json](./314896-ignition-arena.json) |
