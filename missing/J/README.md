@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jellyx | 120164 | [120164-jellyx.json](./120164-jellyx.json) |
 | Jen Saves Ben | 223704 | [223704-jen-saves-ben.json](./223704-jen-saves-ben.json) |
 | Jendo: Origins | 161323 | [161323-jendo-origins.json](./161323-jendo-origins.json) |
+| Jenesis | 141115 | [141115-jenesis.json](./141115-jenesis.json) |
 | Jenni's Dong has got it Goin' On: The Jenni Trilogy | 226854 | [226854-jennis-dong-has-got-it-goin-on-the-jenni-trilogy.json](./226854-jennis-dong-has-got-it-goin-on-the-jenni-trilogy.json) |
 | Jennifer | 141256 | [141256-jennifer.json](./141256-jennifer.json) |
 | Jennifer Capriati Tennis | 46205 | [46205-jennifer-capriati-tennis.json](./46205-jennifer-capriati-tennis.json) |
@@ -596,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Pet: Cafe de Mahou no Cooking! | 60547 | [60547-jewel-pet-cafe-de-mahou-no-cooking.json](./60547-jewel-pet-cafe-de-mahou-no-cooking.json) |
 | Jewel Pet: Mahou de Oshare ni Dance * Deco! | 60543 | [60543-jewel-pet-mahou-de-oshare-ni-dance-deco.json](./60543-jewel-pet-mahou-de-oshare-ni-dance-deco.json) |
 | Jewel Pet: Mahou no Rhythm de Ieie! | 60546 | [60546-jewel-pet-mahou-no-rhythm-de-ieie.json](./60546-jewel-pet-mahou-no-rhythm-de-ieie.json) |
+| Jewel Pets: Magic Rhythm de Yeah! | 141124 | [141124-jewel-pets-magic-rhythm-de-yeah.json](./141124-jewel-pets-magic-rhythm-de-yeah.json) |
 | Jewel Queen: Puzzle & Magic | 212485 | [212485-jewel-queen-puzzle-and-magic.json](./212485-jewel-queen-puzzle-and-magic.json) |
 | Jewel Quest | 196845 | [196845-jewel-quest.json](./196845-jewel-quest.json) |
 | Jewel Quest 4 Heritage | 85215 | [85215-jewel-quest-4-heritage.json](./85215-jewel-quest-4-heritage.json) |
