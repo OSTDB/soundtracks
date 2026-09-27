@@ -1546,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed the Ducks | 177541 | [177541-feed-the-ducks.json](./177541-feed-the-ducks.json) |
 | Feed the Feed | 396888 | [396888-feed-the-feed.json](./396888-feed-the-feed.json) |
 | Feed the Giants | 403207 | [403207-feed-the-giants.json](./403207-feed-the-giants.json) |
+| Feed the Horsebear | 130236 | [130236-feed-the-horsebear.json](./130236-feed-the-horsebear.json) |
 | Feed the Pets | 109717 | [109717-feed-the-pets.json](./109717-feed-the-pets.json) |
 | Feed the Pets: Fall Animals | 192373 | [192373-feed-the-pets-fall-animals.json](./192373-feed-the-pets-fall-animals.json) |
 | Feed the Pig | 75522 | [75522-feed-the-pig.json](./75522-feed-the-pig.json) |
@@ -1674,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferret Frenzy | 381734 | [381734-ferret-frenzy.json](./381734-ferret-frenzy.json) |
 | Ferret Monogatari: Watashi no Okini Iri | 65512 | [65512-ferret-monogatari-watashi-no-okini-iri.json](./65512-ferret-monogatari-watashi-no-okini-iri.json) |
 | Ferric Oxide | 299845 | [299845-ferric-oxide.json](./299845-ferric-oxide.json) |
+| Ferroplasma | 130265 | [130265-ferroplasma.json](./130265-ferroplasma.json) |
 | FerroSlug | 218727 | [218727-ferroslug.json](./218727-ferroslug.json) |
 | Ferrule Instincts | 211952 | [211952-ferrule-instincts.json](./211952-ferrule-instincts.json) |
 | Ferrum | 406729 | [406729-ferrum.json](./406729-ferrum.json) |
@@ -4613,6 +4615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPS Robot Attack Minigame | 371303 | [371303-fps-robot-attack-minigame.json](./371303-fps-robot-attack-minigame.json) |
 | FPS Shooting Master | 102748 | [102748-fps-shooting-master.json](./102748-fps-shooting-master.json) |
 | FPS Trainer | 94177 | [94177-fps-trainer.json](./94177-fps-trainer.json) |
+| FPS Training | 130278 | [130278-fps-training.json](./130278-fps-training.json) |
 | FPS War 2 | 240880 | [240880-fps-war-2.json](./240880-fps-war-2.json) |
 | FPS80 | 305340 | [305340-fps80.json](./305340-fps80.json) |
 | FPScore | 142971 | [142971-fpscore.json](./142971-fpscore.json) |
@@ -4926,6 +4929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frenzy Freak Fantasy | 370198 | [370198-frenzy-freak-fantasy.json](./370198-frenzy-freak-fantasy.json) |
 | Frenzy Plants | 122187 | [122187-frenzy-plants.json](./122187-frenzy-plants.json) |
 | Frequency Dissonance | 199120 | [199120-frequency-dissonance.json](./199120-frequency-dissonance.json) |
+| Frequency Sync | 130241 | [130241-frequency-sync.json](./130241-frequency-sync.json) |
 | Fresh Merchandise | 136366 | [136366-fresh-merchandise.json](./136366-fresh-merchandise.json) |
 | Fresh Milk For Mars | 295838 | [295838-fresh-milk-for-mars.json](./295838-fresh-milk-for-mars.json) |
 | Fresh Tracks Snowboarding | 344907 | [344907-fresh-tracks-snowboarding.json](./344907-fresh-tracks-snowboarding.json) |
@@ -5700,6 +5704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furries & Scalies & Bears OH MY!: The Bear | 171041 | [171041-furries-and-scalies-and-bears-oh-my-the-bear.json](./171041-furries-and-scalies-and-bears-oh-my-the-bear.json) |
 | Furries & Scalies & Bears Oh My!: Ultimate Edition | 185114 | [185114-furries-and-scalies-and-bears-oh-my-ultimate-edition.json](./185114-furries-and-scalies-and-bears-oh-my-ultimate-edition.json) |
 | Furries & Scalies & Scarecrows Oh My! | 321525 | [321525-furries-and-scalies-and-scarecrows-oh-my.json](./321525-furries-and-scalies-and-scarecrows-oh-my.json) |
+| Furries & Scalies: Super Scary Halloween Spooky Times | 130284 | [130284-furries-and-scalies-super-scary-halloween-spooky-times.json](./130284-furries-and-scalies-super-scary-halloween-spooky-times.json) |
 | Furries & Scalies: Super Scary Halloween Spooky Times Part II - Richard III's Tiny Terrors | 226186 | [226186-furries-and-scalies-super-scary-halloween-spooky-times-part-ii-richard-iiis-tiny-terrors.json](./226186-furries-and-scalies-super-scary-halloween-spooky-times-part-ii-richard-iiis-tiny-terrors.json) |
 | Furrifighters: Prequel I | 369553 | [369553-furrifighters-prequel-i.json](./369553-furrifighters-prequel-i.json) |
 | Furry Adventure Club and the Holy Grail | 312742 | [312742-furry-adventure-club-and-the-holy-grail.json](./312742-furry-adventure-club-and-the-holy-grail.json) |
