@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magerealm: Rise of Chaos | 12874 | [12874-magerealm-rise-of-chaos.json](./12874-magerealm-rise-of-chaos.json) |
 | Mageroom | 176872 | [176872-mageroom.json](./176872-mageroom.json) |
 | MageRun | 192361 | [192361-magerun.json](./192361-magerun.json) |
+| Mages | 170844 | [170844-mages.json](./170844-mages.json) |
 | Mages of Osmea | 312199 | [312199-mages-of-osmea.json](./312199-mages-of-osmea.json) |
 | MageTrain | 338350 | [338350-magetrain.json](./338350-magetrain.json) |
 | MagFighter | 295354 | [295354-magfighter.json](./295354-magfighter.json) |
@@ -6131,6 +6132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Island 2 Special Edition: LeChuck's Revenge | 66 | [66-monkey-island-2-special-edition-lechucks-revenge.json](./66-monkey-island-2-special-edition-lechucks-revenge.json) |
 | Monkey Island Special Edition Collection | 43036 | [43036-monkey-island-special-edition-collection.json](./43036-monkey-island-special-edition-collection.json) |
 | Monkey King vs Transformers | 156160 | [156160-monkey-king-vs-transformers.json](./156160-monkey-king-vs-transformers.json) |
+| Monkey King: Hero Is Back - Mind Palace | 170859 | [170859-monkey-king-hero-is-back-mind-palace.json](./170859-monkey-king-hero-is-back-mind-palace.json) |
 | Monkey Knife Fight | 354407 | [354407-monkey-knife-fight.json](./354407-monkey-knife-fight.json) |
 | Monkey Labour | 65435 | [65435-monkey-labour.json](./65435-monkey-labour.json) |
 | Monkey Lander | 241474 | [241474-monkey-lander.json](./241474-monkey-lander.json) |
