@@ -2808,6 +2808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fista Retro Horror Pack | 309323 | [309323-fista-retro-horror-pack.json](./309323-fista-retro-horror-pack.json) |
 | Fistagon | 264065 | [264065-fistagon.json](./264065-fistagon.json) |
 | Fister.Fun | 386434 | [386434-fister-fun.json](./386434-fister-fun.json) |
+| Fistful of Nothing | 150591 | [150591-fistful-of-nothing.json](./150591-fistful-of-nothing.json) |
 | Fisticuffs: An Arcade Boxing Game | 240193 | [240193-fisticuffs-an-arcade-boxing-game.json](./240193-fisticuffs-an-arcade-boxing-game.json) |
 | Fists of Invokers | 199500 | [199500-fists-of-invokers.json](./199500-fists-of-invokers.json) |
 | Fists of Stone | 219786 | [219786-fists-of-stone.json](./219786-fists-of-stone.json) |
