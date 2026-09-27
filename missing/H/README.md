@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halfway | 178445 | [178445-halfway.json](./178445-halfway.json) |
 | Halfway | 377170 | [377170-halfway.json](./377170-halfway.json) |
 | Halfway | 8800 | [8800-halfway.json](./8800-halfway.json) |
+| Hall of the Art Thieves | 122271 | [122271-hall-of-the-art-thieves.json](./122271-hall-of-the-art-thieves.json) |
 | Hall of the Dwarf King | 339375 | [339375-hall-of-the-dwarf-king.json](./339375-hall-of-the-dwarf-king.json) |
 | Halley's Big Catch | 417530 | [417530-halleys-big-catch.json](./417530-halleys-big-catch.json) |
 | Halley's Dream | 169372 | [169372-halleys-dream.json](./169372-halleys-dream.json) |
@@ -1062,6 +1063,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: VR Future Live 2nd Stage | 120801 | [120801-hatsune-miku-vr-future-live-2nd-stage.json](./120801-hatsune-miku-vr-future-live-2nd-stage.json) |
 | Hatsune Miku: VR Future Live 3rd Stage | 120802 | [120802-hatsune-miku-vr-future-live-3rd-stage.json](./120802-hatsune-miku-vr-future-live-3rd-stage.json) |
 | Hatsune no Naisho!! | 247480 | [247480-hatsune-no-naisho.json](./247480-hatsune-no-naisho.json) |
+| Hatsuyuki Sakura | 122287 | [122287-hatsuyuki-sakura.json](./122287-hatsuyuki-sakura.json) |
+| Hatsuyuki Sakura | 122289 | [122289-hatsuyuki-sakura.json](./122289-hatsuyuki-sakura.json) |
+| Hatsuyuki Sakura: First Press Limited Edition | 122288 | [122288-hatsuyuki-sakura-first-press-limited-edition.json](./122288-hatsuyuki-sakura-first-press-limited-edition.json) |
 | Hatsuyuki Sakura: White Graduation | 259616 | [259616-hatsuyuki-sakura-white-graduation.json](./259616-hatsuyuki-sakura-white-graduation.json) |
 | Hattrick | 138665 | [138665-hattrick.json](./138665-hattrick.json) |
 | Hattrick | 270408 | [270408-hattrick.json](./270408-hattrick.json) |
@@ -4560,6 +4564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hound: Automaton | 320145 | [320145-hound-automaton.json](./320145-hound-automaton.json) |
 | Hour Night | 178083 | [178083-hour-night.json](./178083-hour-night.json) |
 | Hour of the Snake | 117042 | [117042-hour-of-the-snake.json](./117042-hour-of-the-snake.json) |
+| Hourglass | 122270 | [122270-hourglass.json](./122270-hourglass.json) |
 | Hourglass of Summer | 73005 | [73005-hourglass-of-summer.json](./73005-hourglass-of-summer.json) |
 | House | 140372 | [140372-house.json](./140372-house.json) |
 | House 2 | 267094 | [267094-house-2.json](./267094-house-2.json) |
