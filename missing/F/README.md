@@ -4209,6 +4209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fork of Damocles | 177028 | [177028-fork-of-damocles.json](./177028-fork-of-damocles.json) |
 | Fork of the Crimson Soul | 369051 | [369051-fork-of-the-crimson-soul.json](./369051-fork-of-the-crimson-soul.json) |
 | Fork Road | 303067 | [303067-fork-road.json](./303067-fork-road.json) |
+| Forking Hell | 133906 | [133906-forking-hell.json](./133906-forking-hell.json) |
 | Forklift & Box | 164262 | [164262-forklift-and-box.json](./164262-forklift-and-box.json) |
 | Forklift 2024: The Simulation | 251016 | [251016-forklift-2024-the-simulation.json](./251016-forklift-2024-the-simulation.json) |
 | Forklift 2025 Simulator | 368147 | [368147-forklift-2025-simulator.json](./368147-forklift-2025-simulator.json) |
