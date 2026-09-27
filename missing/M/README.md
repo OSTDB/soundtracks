@@ -5198,6 +5198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Island: Aroma | 192371 | [192371-mini-island-aroma.json](./192371-mini-island-aroma.json) |
 | Mini Island: Autumn | 166601 | [166601-mini-island-autumn.json](./166601-mini-island-autumn.json) |
 | Mini Jumper | 163990 | [163990-mini-jumper.json](./163990-mini-jumper.json) |
+| Mini Kart Racing | 154356 | [154356-mini-kart-racing.json](./154356-mini-kart-racing.json) |
 | Mini Leap | 209707 | [209707-mini-leap.json](./209707-mini-leap.json) |
 | Mini Lucy | 403705 | [403705-mini-lucy.json](./403705-mini-lucy.json) |
 | Mini Magic Match | 393810 | [393810-mini-magic-match.json](./393810-mini-magic-match.json) |
@@ -6997,6 +6998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 1: Shang Tsung | 265938 | [265938-mortal-kombat-1-shang-tsung.json](./265938-mortal-kombat-1-shang-tsung.json) |
 | Mortal Kombat 1: T-1000 | 312340 | [312340-mortal-kombat-1-t-1000.json](./312340-mortal-kombat-1-t-1000.json) |
 | Mortal Kombat 1: Takahashi Takeda | 266223 | [266223-mortal-kombat-1-takahashi-takeda.json](./266223-mortal-kombat-1-takahashi-takeda.json) |
+| Mortal Kombat 1+2+3 | 154416 | [154416-mortal-kombat-1-2-3.json](./154416-mortal-kombat-1-2-3.json) |
 | Mortal Kombat 11: Aftermath Kollection | 133955 | [133955-mortal-kombat-11-aftermath-kollection.json](./133955-mortal-kombat-11-aftermath-kollection.json) |
 | Mortal Kombat 11: DC Elseworlds Skin Pack | 298557 | [298557-mortal-kombat-11-dc-elseworlds-skin-pack.json](./298557-mortal-kombat-11-dc-elseworlds-skin-pack.json) |
 | Mortal Kombat 11: Double Feature Skin Pack | 305856 | [305856-mortal-kombat-11-double-feature-skin-pack.json](./305856-mortal-kombat-11-double-feature-skin-pack.json) |
