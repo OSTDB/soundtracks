@@ -3491,6 +3491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shijou Saikyou No Deshi Kenichi: Gekitou! Ragnarok Hachikengou | 64664 | [64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json](./64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json) |
 | Shikakui Atama wo Maru Kusuru: Mainichi Minna no Challenge-hen | 409001 | [409001-shikakui-atama-wo-maru-kusuru-mainichi-minna-no-challenge-hen.json](./409001-shikakui-atama-wo-maru-kusuru-mainichi-minna-no-challenge-hen.json) |
 | Shikhondo: Youkai Rampage | 283772 | [283772-shikhondo-youkai-rampage.json](./283772-shikhondo-youkai-rampage.json) |
+| Shiki no Kyouken: Kanna Zekkei | 147339 | [147339-shiki-no-kyouken-kanna-zekkei.json](./147339-shiki-no-kyouken-kanna-zekkei.json) |
 | Shiki Oni no Koku: Chuugoku-hen - Dainishou | 240303 | [240303-shiki-oni-no-koku-chuugoku-hen-dainishou.json](./240303-shiki-oni-no-koku-chuugoku-hen-dainishou.json) |
 | Shiki Oni no Koku: Chuugoku-hen - Daisanshou | 240304 | [240304-shiki-oni-no-koku-chuugoku-hen-daisanshou.json](./240304-shiki-oni-no-koku-chuugoku-hen-daisanshou.json) |
 | Shiki Oni no Koku: Chuugoku-hen - Daiyonshou | 240305 | [240305-shiki-oni-no-koku-chuugoku-hen-daiyonshou.json](./240305-shiki-oni-no-koku-chuugoku-hen-daiyonshou.json) |
@@ -5491,6 +5492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaycation Paradise | 200679 | [200679-slaycation-paradise.json](./200679-slaycation-paradise.json) |
 | Slayer | 252230 | [252230-slayer.json](./252230-slayer.json) |
 | Slayer | 260130 | [260130-slayer.json](./260130-slayer.json) |
+| Slayer Cat | 147362 | [147362-slayer-cat.json](./147362-slayer-cat.json) |
 | Slayer Legend | 226766 | [226766-slayer-legend.json](./226766-slayer-legend.json) |
 | Slayer Shock | 24646 | [24646-slayer-shock.json](./24646-slayer-shock.json) |
 | Slayers Royal 2 | 72660 | [72660-slayers-royal-2.json](./72660-slayers-royal-2.json) |
@@ -10212,6 +10214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek​ x World of Warships: Commander Sela | 332621 | [332621-star-trek-x-world-of-warships-commander-sela.json](./332621-star-trek-x-world-of-warships-commander-sela.json) |
 | Star Trek​ x World of Warships: Commander Spock | 332622 | [332622-star-trek-x-world-of-warships-commander-spock.json](./332622-star-trek-x-world-of-warships-commander-spock.json) |
 | Star Trek: 20Q | 320400 | [320400-star-trek-20q.json](./320400-star-trek-20q.json) |
+| Star Trek: 25th Anniversary | 147343 | [147343-star-trek-25th-anniversary.json](./147343-star-trek-25th-anniversary.json) |
 | Star Trek: 25th Anniversary | 2231 | [2231-star-trek-25th-anniversary.json](./2231-star-trek-25th-anniversary.json) |
 | Star Trek: Alien Domain | 23645 | [23645-star-trek-alien-domain.json](./23645-star-trek-alien-domain.json) |
 | Star Trek: Borg | 70345 | [70345-star-trek-borg.json](./70345-star-trek-borg.json) |
