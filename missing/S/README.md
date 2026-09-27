@@ -633,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samus Goes to the Fridge to Get a Glass of Milk II | 226403 | [226403-samus-goes-to-the-fridge-to-get-a-glass-of-milk-ii.json](./226403-samus-goes-to-the-fridge-to-get-a-glass-of-milk-ii.json) |
 | Samuza | 287215 | [287215-samuza.json](./287215-samuza.json) |
 | San Andreas Multiplayer | 199038 | [199038-san-andreas-multiplayer.json](./199038-san-andreas-multiplayer.json) |
+| San Diablos | 156995 | [156995-san-diablos.json](./156995-san-diablos.json) |
 | San Francisco Rush 2049 | 249133 | [249133-san-francisco-rush-2049.json](./249133-san-francisco-rush-2049.json) |
 | San Francisco Rush 2049 | 3596 | [3596-san-francisco-rush-2049.json](./3596-san-francisco-rush-2049.json) |
 | San Francisco Rush: Extreme Racing | 264854 | [264854-san-francisco-rush-extreme-racing.json](./264854-san-francisco-rush-extreme-racing.json) |
@@ -10768,6 +10769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Mayor | 60756 | [60756-stay-mayor.json](./60756-stay-mayor.json) |
 | Stay Out | 63813 | [63813-stay-out.json](./63813-stay-out.json) |
 | Stay Safe | 96481 | [96481-stay-safe.json](./96481-stay-safe.json) |
+| Stay Safe 2020 | 156977 | [156977-stay-safe-2020.json](./156977-stay-safe-2020.json) |
 | Stay Sane | 294253 | [294253-stay-sane.json](./294253-stay-sane.json) |
 | Stay Woke Etheral Edition | 75499 | [75499-stay-woke-etheral-edition.json](./75499-stay-woke-etheral-edition.json) |
 | Stay? | 184073 | [184073-stay.json](./184073-stay.json) |
