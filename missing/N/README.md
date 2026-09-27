@@ -1976,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Shift | 321774 | [321774-nightmare-shift.json](./321774-nightmare-shift.json) |
 | Nightmare Side: The Game | 273448 | [273448-nightmare-side-the-game.json](./273448-nightmare-side-the-game.json) |
 | Nightmare Simulator | 343337 | [343337-nightmare-simulator.json](./343337-nightmare-simulator.json) |
+| Nightmare Simulator 2 Rebirth | 148967 | [148967-nightmare-simulator-2-rebirth.json](./148967-nightmare-simulator-2-rebirth.json) |
 | Nightmare Slash | 204374 | [204374-nightmare-slash.json](./204374-nightmare-slash.json) |
 | Nightmare Temptation Academy | 144117 | [144117-nightmare-temptation-academy.json](./144117-nightmare-temptation-academy.json) |
 | Nightmare Within | 311615 | [311615-nightmare-within.json](./311615-nightmare-within.json) |
