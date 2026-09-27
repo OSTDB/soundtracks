@@ -3013,8 +3013,32 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 2: Rising Sun Bikes Pack | 226951 | [226951-ride-2-rising-sun-bikes-pack.json](./226951-ride-2-rising-sun-bikes-pack.json) |
 | Ride 2: Special Edition | 53507 | [53507-ride-2-special-edition.json](./53507-ride-2-special-edition.json) |
 | Ride 3 | 103497 | [103497-ride-3.json](./103497-ride-3.json) |
+| Ride 3: 2-Strokes Pack | 165975 | [165975-ride-3-2-strokes-pack.json](./165975-ride-3-2-strokes-pack.json) |
+| Ride 3: Back to Basic Pack | 165969 | [165969-ride-3-back-to-basic-pack.json](./165969-ride-3-back-to-basic-pack.json) |
+| Ride 3: Best of 2018 Pack 1 | 165977 | [165977-ride-3-best-of-2018-pack-1.json](./165977-ride-3-best-of-2018-pack-1.json) |
+| Ride 3: Best of 2018 Pack 2 | 165983 | [165983-ride-3-best-of-2018-pack-2.json](./165983-ride-3-best-of-2018-pack-2.json) |
+| Ride 3: Free Pack 1 | 165982 | [165982-ride-3-free-pack-1.json](./165982-ride-3-free-pack-1.json) |
+| Ride 3: Free Pack 10 | 165979 | [165979-ride-3-free-pack-10.json](./165979-ride-3-free-pack-10.json) |
+| Ride 3: Free Pack 11 | 165973 | [165973-ride-3-free-pack-11.json](./165973-ride-3-free-pack-11.json) |
+| Ride 3: Free Pack 12 | 165967 | [165967-ride-3-free-pack-12.json](./165967-ride-3-free-pack-12.json) |
+| Ride 3: Free Pack 2 | 165974 | [165974-ride-3-free-pack-2.json](./165974-ride-3-free-pack-2.json) |
+| Ride 3: Free Pack 3 | 165968 | [165968-ride-3-free-pack-3.json](./165968-ride-3-free-pack-3.json) |
+| Ride 3: Free Pack 4 | 165971 | [165971-ride-3-free-pack-4.json](./165971-ride-3-free-pack-4.json) |
+| Ride 3: Free Pack 5 | 165981 | [165981-ride-3-free-pack-5.json](./165981-ride-3-free-pack-5.json) |
+| Ride 3: Free Pack 6 | 165986 | [165986-ride-3-free-pack-6.json](./165986-ride-3-free-pack-6.json) |
+| Ride 3: Free Pack 7 | 165966 | [165966-ride-3-free-pack-7.json](./165966-ride-3-free-pack-7.json) |
+| Ride 3: Free Pack 8 | 165984 | [165984-ride-3-free-pack-8.json](./165984-ride-3-free-pack-8.json) |
+| Ride 3: Free Pack 9 | 165965 | [165965-ride-3-free-pack-9.json](./165965-ride-3-free-pack-9.json) |
+| Ride 3: Japan Pack | 165972 | [165972-ride-3-japan-pack.json](./165972-ride-3-japan-pack.json) |
 | Ride 3: Limited Models Pack | 156106 | [156106-ride-3-limited-models-pack.json](./156106-ride-3-limited-models-pack.json) |
+| Ride 3: Racing Pack | 165980 | [165980-ride-3-racing-pack.json](./165980-ride-3-racing-pack.json) |
+| Ride 3: Sport Bikes Pack | 165970 | [165970-ride-3-sport-bikes-pack.json](./165970-ride-3-sport-bikes-pack.json) |
+| Ride 3: Street Racing Pack | 165976 | [165976-ride-3-street-racing-pack.json](./165976-ride-3-street-racing-pack.json) |
+| Ride 3: Supercustom Pack | 165978 | [165978-ride-3-supercustom-pack.json](./165978-ride-3-supercustom-pack.json) |
+| Ride 3: Top Performance Pack | 165985 | [165985-ride-3-top-performance-pack.json](./165985-ride-3-top-performance-pack.json) |
+| Ride 4: Bonus Pack 13 | 165987 | [165987-ride-4-bonus-pack-13.json](./165987-ride-4-bonus-pack-13.json) |
 | Ride 4: Bonus Pack 14 | 190708 | [190708-ride-4-bonus-pack-14.json](./190708-ride-4-bonus-pack-14.json) |
+| Ride 4: Italian Style Pack 2 | 165988 | [165988-ride-4-italian-style-pack-2.json](./165988-ride-4-italian-style-pack-2.json) |
 | Ride 4: Naked Japan Style | 190706 | [190706-ride-4-naked-japan-style.json](./190706-ride-4-naked-japan-style.json) |
 | Ride 4: Special Edition | 173171 | [173171-ride-4-special-edition.json](./173171-ride-4-special-edition.json) |
 | Ride 5: Born to Race Pack | 288213 | [288213-ride-5-born-to-race-pack.json](./288213-ride-5-born-to-race-pack.json) |
