@@ -267,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Infinite Warfare - Absolution | 44149 | [44149-call-of-duty-infinite-warfare-absolution.json](./44149-call-of-duty-infinite-warfare-absolution.json) |
 | Call of Duty: Infinite Warfare - Continuum | 28063 | [28063-call-of-duty-infinite-warfare-continuum.json](./28063-call-of-duty-infinite-warfare-continuum.json) |
 | Call of Duty: Infinite Warfare - Legacy Edition | 42896 | [42896-call-of-duty-infinite-warfare-legacy-edition.json](./42896-call-of-duty-infinite-warfare-legacy-edition.json) |
+| Call of Duty: Modern Warfare - Precision Edition | 136342 | [136342-call-of-duty-modern-warfare-precision-edition.json](./136342-call-of-duty-modern-warfare-precision-edition.json) |
 | Call of Duty: Modern Warfare - Season Five | 136976 | [136976-call-of-duty-modern-warfare-season-five.json](./136976-call-of-duty-modern-warfare-season-five.json) |
 | Call of Duty: Modern Warfare - Season Four | 135220 | [135220-call-of-duty-modern-warfare-season-four.json](./135220-call-of-duty-modern-warfare-season-four.json) |
 | Call of Duty: Modern Warfare - Season Six | 140977 | [140977-call-of-duty-modern-warfare-season-six.json](./140977-call-of-duty-modern-warfare-season-six.json) |
@@ -1767,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catherine Ragnor and the Legend of the Flying Dutchman | 189113 | [189113-catherine-ragnor-and-the-legend-of-the-flying-dutchman.json](./189113-catherine-ragnor-and-the-legend-of-the-flying-dutchman.json) |
 | Catherine: Full Body - Dynamite Full Body Box | 136282 | [136282-catherine-full-body-dynamite-full-body-box.json](./136282-catherine-full-body-dynamite-full-body-box.json) |
 | Catherine: Full Body - Heart's Desire Premium Edition | 72067 | [72067-catherine-full-body-hearts-desire-premium-edition.json](./72067-catherine-full-body-hearts-desire-premium-edition.json) |
+| Catherine: Full Body - Launch Edition | 136327 | [136327-catherine-full-body-launch-edition.json](./136327-catherine-full-body-launch-edition.json) |
 | Cathode Ray Tube Amusement Device | 11321 | [11321-cathode-ray-tube-amusement-device.json](./11321-cathode-ray-tube-amusement-device.json) |
 | Cathode-ray Tube Amusement Device Simulator | 340018 | [340018-cathode-ray-tube-amusement-device-simulator.json](./340018-cathode-ray-tube-amusement-device-simulator.json) |
 | Cathode's Journey | 232029 | [232029-cathodes-journey.json](./232029-cathodes-journey.json) |
@@ -5591,6 +5593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator 2 | 87338 | [87338-construction-simulator-2.json](./87338-construction-simulator-2.json) |
 | Construction Simulator 2+3 | 139934 | [139934-construction-simulator-2-3.json](./139934-construction-simulator-2-3.json) |
 | Construction Simulator 2014 | 86891 | [86891-construction-simulator-2014.json](./86891-construction-simulator-2014.json) |
+| Construction Simulator 2015: Deluxe Edition | 136372 | [136372-construction-simulator-2015-deluxe-edition.json](./136372-construction-simulator-2015-deluxe-edition.json) |
 | Construction Simulator 2015: Liebherr 150 EC-B | 168916 | [168916-construction-simulator-2015-liebherr-150-ec-b.json](./168916-construction-simulator-2015-liebherr-150-ec-b.json) |
 | Construction Simulator 2015: Liebherr A 918 | 168922 | [168922-construction-simulator-2015-liebherr-a-918.json](./168922-construction-simulator-2015-liebherr-a-918.json) |
 | Construction Simulator 2015: Liebherr HTM 1204 ZA | 168920 | [168920-construction-simulator-2015-liebherr-htm-1204-za.json](./168920-construction-simulator-2015-liebherr-htm-1204-za.json) |
