@@ -1562,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Sweetstop | 253884 | [253884-next-sweetstop.json](./253884-next-sweetstop.json) |
 | Next Up Hero | 45026 | [45026-next-up-hero.json](./45026-next-up-hero.json) |
 | Nextbots In The Backrooms | 265729 | [265729-nextbots-in-the-backrooms.json](./265729-nextbots-in-the-backrooms.json) |
+| Nextgen Sandbox | 124710 | [124710-nextgen-sandbox.json](./124710-nextgen-sandbox.json) |
 | NextRev: Care Manager Shiken | 179482 | [179482-nextrev-care-manager-shiken.json](./179482-nextrev-care-manager-shiken.json) |
 | NextRev: Eibunpou Tettei Tokkun | 64944 | [64944-nextrev-eibunpou-tettei-tokkun.json](./64944-nextrev-eibunpou-tettei-tokkun.json) |
 | NextRev: Eiken | 179523 | [179523-nextrev-eiken.json](./179523-nextrev-eiken.json) |
