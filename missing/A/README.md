@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Slug's Dream | 238589 | [238589-a-slugs-dream.json](./238589-a-slugs-dream.json) |
 | A Small Encounter | 350624 | [350624-a-small-encounter.json](./350624-a-small-encounter.json) |
 | A Small Journey | 228998 | [228998-a-small-journey.json](./228998-a-small-journey.json) |
+| A Small Talk at the Back of Beyond | 123478 | [123478-a-small-talk-at-the-back-of-beyond.json](./123478-a-small-talk-at-the-back-of-beyond.json) |
 | A Smattering of Songs | 315627 | [315627-a-smattering-of-songs.json](./315627-a-smattering-of-songs.json) |
 | A Smithing Game | 405058 | [405058-a-smithing-game.json](./405058-a-smithing-game.json) |
 | A Smoker's Story | 312731 | [312731-a-smokers-story.json](./312731-a-smokers-story.json) |
