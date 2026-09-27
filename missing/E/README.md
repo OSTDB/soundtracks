@@ -492,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden's Prison | 350517 | [350517-edens-prison.json](./350517-edens-prison.json) |
 | Edenbound | 295813 | [295813-edenbound.json](./295813-edenbound.json) |
 | Edengate: The Edge of Life | 217918 | [217918-edengate-the-edge-of-life.json](./217918-edengate-the-edge-of-life.json) |
+| Edengrall | 129102 | [129102-edengrall.json](./129102-edengrall.json) |
 | Edens Zero Deluxe Edition | 336887 | [336887-edens-zero-deluxe-edition.json](./336887-edens-zero-deluxe-edition.json) |
 | Edens Zero: Pocket Galaxy | 174888 | [174888-edens-zero-pocket-galaxy.json](./174888-edens-zero-pocket-galaxy.json) |
 | Edentopia | 245882 | [245882-edentopia.json](./245882-edentopia.json) |
