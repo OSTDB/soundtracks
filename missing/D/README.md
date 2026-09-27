@@ -1216,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days with My Lonely Teacher | 346666 | [346666-days-with-my-lonely-teacher.json](./346666-days-with-my-lonely-teacher.json) |
 | Days With Ollie | 294689 | [294689-days-with-ollie.json](./294689-days-with-ollie.json) |
 | Days Without Incident | 374727 | [374727-days-without-incident.json](./374727-days-without-incident.json) |
+| Dayscream | 139872 | [139872-dayscream.json](./139872-dayscream.json) |
 | Dayshift at Freddy's | 198465 | [198465-dayshift-at-freddys.json](./198465-dayshift-at-freddys.json) |
 | Dayshift at Freddy's 3 | 216206 | [216206-dayshift-at-freddys-3.json](./216206-dayshift-at-freddys-3.json) |
 | Daytona Championship USA | 57333 | [57333-daytona-championship-usa.json](./57333-daytona-championship-usa.json) |
