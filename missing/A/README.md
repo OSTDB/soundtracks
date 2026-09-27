@@ -1951,6 +1951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akhenaten: Rule as Pharaoh | 75027 | [75027-akhenaten-rule-as-pharaoh.json](./75027-akhenaten-rule-as-pharaoh.json) |
 | Akhra: The Treasures | 244715 | [244715-akhra-the-treasures.json](./244715-akhra-the-treasures.json) |
 | Aki to Tsukasa no Fushigi no Kabe | 41341 | [41341-aki-to-tsukasa-no-fushigi-no-kabe.json](./41341-aki-to-tsukasa-no-fushigi-no-kabe.json) |
+| Aki: Mahjong Solitaire | 146191 | [146191-aki-mahjong-solitaire.json](./146191-aki-mahjong-solitaire.json) |
 | Akiba Alive Urban Legend of Akihabara in Near Future | 382464 | [382464-akiba-alive-urban-legend-of-akihabara-in-near-future.json](./382464-akiba-alive-urban-legend-of-akihabara-in-near-future.json) |
 | Akiba's Beat | 19465 | [19465-akibas-beat.json](./19465-akibas-beat.json) |
 | Akiba's Trip: Undead & Undressed | 7268 | [7268-akibas-trip-undead-and-undressed.json](./7268-akibas-trip-undead-and-undressed.json) |
@@ -2313,6 +2314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Dead | 229715 | [229715-alien-dead.json](./229715-alien-dead.json) |
 | Alien Decimation | 211164 | [211164-alien-decimation.json](./211164-alien-decimation.json) |
 | Alien Defense Unit | 216464 | [216464-alien-defense-unit.json](./216464-alien-defense-unit.json) |
+| Alien Destroyer | 146183 | [146183-alien-destroyer.json](./146183-alien-destroyer.json) |
 | Alien Disaster | 135272 | [135272-alien-disaster.json](./135272-alien-disaster.json) |
 | Alien Disco Safari | 63846 | [63846-alien-disco-safari.json](./63846-alien-disco-safari.json) |
 | Alien Dogfight | 38942 | [38942-alien-dogfight.json](./38942-alien-dogfight.json) |
@@ -3052,6 +3054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America: Expansion Pack | 166693 | [166693-america-expansion-pack.json](./166693-america-expansion-pack.json) |
 | America's Army | 597 | [597-americas-army.json](./597-americas-army.json) |
 | America's Army 3 | 15798 | [15798-americas-army-3.json](./15798-americas-army-3.json) |
+| America's Greatest Arcade Hits 3D | 146195 | [146195-americas-greatest-arcade-hits-3d.json](./146195-americas-greatest-arcade-hits-3d.json) |
 | America's Greatest Game Shows: Wheel of Fortune & Jeopardy! | 112182 | [112182-americas-greatest-game-shows-wheel-of-fortune-and-jeopardy.json](./112182-americas-greatest-game-shows-wheel-of-fortune-and-jeopardy.json) |
 | America's Greatest Solitaire Games | 206114 | [206114-americas-greatest-solitaire-games.json](./206114-americas-greatest-solitaire-games.json) |
 | America's Most Eligible: Book 1 | 313691 | [313691-americas-most-eligible-book-1.json](./313691-americas-most-eligible-book-1.json) |
