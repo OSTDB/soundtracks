@@ -914,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarian | 376532 | [376532-barbarian.json](./376532-barbarian.json) |
 | Barbarian | 3793 | [3793-barbarian.json](./3793-barbarian.json) |
 | Barbarian Brawl | 10021 | [10021-barbarian-brawl.json](./10021-barbarian-brawl.json) |
+| Barbarian Legend | 153902 | [153902-barbarian-legend.json](./153902-barbarian-legend.json) |
 | Barbarian Simulator | 157718 | [157718-barbarian-simulator.json](./157718-barbarian-simulator.json) |
 | Barbarian Trash | 110827 | [110827-barbarian-trash.json](./110827-barbarian-trash.json) |
 | Barbarians & Beasts | 277971 | [277971-barbarians-and-beasts.json](./277971-barbarians-and-beasts.json) |
@@ -1199,6 +1200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bart Bash | 350404 | [350404-bart-bash.json](./350404-bart-bash.json) |
 | Bart Bird | 26935 | [26935-bart-bird.json](./26935-bart-bird.json) |
 | Bart's Nightmare Redux | 219272 | [219272-barts-nightmare-redux.json](./219272-barts-nightmare-redux.json) |
+| Bartender Hustle | 153899 | [153899-bartender-hustle.json](./153899-bartender-hustle.json) |
 | Bartenders | 244205 | [244205-bartenders.json](./244205-bartenders.json) |
 | Bartholomew.exe | 358899 | [358899-bartholomew-exe.json](./358899-bartholomew-exe.json) |
 | Bartolomeu Odyssey | 248891 | [248891-bartolomeu-odyssey.json](./248891-bartolomeu-odyssey.json) |
@@ -4010,6 +4012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazin' Aces | 61107 | [61107-blazin-aces.json](./61107-blazin-aces.json) |
 | Blazing 8s | 254426 | [254426-blazing-8s.json](./254426-blazing-8s.json) |
 | Blazing Angels: Squadrons of WWII | 3124 | [3124-blazing-angels-squadrons-of-wwii.json](./3124-blazing-angels-squadrons-of-wwii.json) |
+| Blazing Aries | 153904 | [153904-blazing-aries.json](./153904-blazing-aries.json) |
 | Blazing Dragon | 258502 | [258502-blazing-dragon.json](./258502-blazing-dragon.json) |
 | Blazing Dragon Slayer · Divine Weapon Awakening | 358508 | [358508-blazing-dragon-slayer-divine-weapon-awakening.json](./358508-blazing-dragon-slayer-divine-weapon-awakening.json) |
 | Blazing Dragons | 45514 | [45514-blazing-dragons.json](./45514-blazing-dragons.json) |
@@ -4304,6 +4307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockBuster | 68647 | [68647-blockbuster.json](./68647-blockbuster.json) |
 | Blockbuster Inc. | 189965 | [189965-blockbuster-inc.json](./189965-blockbuster-inc.json) |
 | Blockbuster World Video Game Championship II | 210600 | [210600-blockbuster-world-video-game-championship-ii.json](./210600-blockbuster-world-video-game-championship-ii.json) |
+| Blockbusters | 153814 | [153814-blockbusters.json](./153814-blockbusters.json) |
 | Blockchain Brawlers | 225754 | [225754-blockchain-brawlers.json](./225754-blockchain-brawlers.json) |
 | Blockdown | 157204 | [157204-blockdown.json](./157204-blockdown.json) |
 | Blocked Up | 183897 | [183897-blocked-up.json](./183897-blocked-up.json) |
