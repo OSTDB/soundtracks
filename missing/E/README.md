@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.T.: The Extra-Terrestrial and the Cosmic Garden | 49936 | [49936-e-t-the-extra-terrestrial-and-the-cosmic-garden.json](./49936-e-t-the-extra-terrestrial-and-the-cosmic-garden.json) |
 | E.T.: The Green Planet | 64395 | [64395-e-t-the-green-planet.json](./64395-e-t-the-green-planet.json) |
 | E.V.O.: Search for Eden | 6979 | [6979-e-v-o-search-for-eden.json](./6979-e-v-o-search-for-eden.json) |
+| E.x.p.l.o.r.: A New World | 148962 | [148962-e-x-p-l-o-r-a-new-world.json](./148962-e-x-p-l-o-r-a-new-world.json) |
 | E's Laf | 135884 | [135884-es-laf.json](./135884-es-laf.json) |
 | E's Laf++ | 135903 | [135903-es-laf.json](./135903-es-laf.json) |
 | E'tude Prologue: Yureugoku Kokoro no Katachi | 204482 | [204482-etude-prologue-yureugoku-kokoro-no-katachi.json](./204482-etude-prologue-yureugoku-kokoro-no-katachi.json) |
@@ -2400,6 +2401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Estigma | 142497 | [142497-estigma.json](./142497-estigma.json) |
 | Estium Online | 417541 | [417541-estium-online.json](./417541-estium-online.json) |
 | Estra | 13711 | [13711-estra.json](./13711-estra.json) |
+| EstradaBus HD | 148951 | [148951-estradabus-hd.json](./148951-estradabus-hd.json) |
 | Estranged | 313832 | [313832-estranged.json](./313832-estranged.json) |
 | ESWAT: Cyber Police | 39869 | [39869-eswat-cyber-police.json](./39869-eswat-cyber-police.json) |
 | Esylium MMORPG | 250885 | [250885-esylium-mmorpg.json](./250885-esylium-mmorpg.json) |
