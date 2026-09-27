@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | T H E YV | 127979 | [127979-t-h-e-yv.json](./127979-t-h-e-yv.json) |
 | T kara Hajimaru Monogatari | 172737 | [172737-t-kara-hajimaru-monogatari.json](./172737-t-kara-hajimaru-monogatari.json) |
+| T-Bird | 122967 | [122967-t-bird.json](./122967-t-bird.json) |
 | T-Dragon Quest 2: Mazoku no Daichi | 325651 | [325651-t-dragon-quest-2-mazoku-no-daichi.json](./325651-t-dragon-quest-2-mazoku-no-daichi.json) |
 | T-Dragon Quest: Joshou Yuusha no Mezame | 325650 | [325650-t-dragon-quest-joshou-yuusha-no-mezame.json](./325650-t-dragon-quest-joshou-yuusha-no-mezame.json) |
 | T-Kara Puzzles | 34208 | [34208-t-kara-puzzles.json](./34208-t-kara-puzzles.json) |
@@ -233,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taijitu: A Game About Balance | 167289 | [167289-taijitu-a-game-about-balance.json](./167289-taijitu-a-game-about-balance.json) |
 | Taika | 306425 | [306425-taika.json](./306425-taika.json) |
 | Taiker | 26547 | [26547-taiker.json](./26547-taiker.json) |
+| Taiketsu Rumi-Zu! | 122944 | [122944-taiketsu-rumi-zu.json](./122944-taiketsu-rumi-zu.json) |
 | Taiko Drum Master | 37148 | [37148-taiko-drum-master.json](./37148-taiko-drum-master.json) |
 | Taiko Frenzy | 276824 | [276824-taiko-frenzy.json](./276824-taiko-frenzy.json) |
 | Taiko no Tatsujin 13 | 294220 | [294220-taiko-no-tatsujin-13.json](./294220-taiko-no-tatsujin-13.json) |
@@ -1138,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Targhan | 10849 | [10849-targhan.json](./10849-targhan.json) |
 | Tarisland | 254235 | [254235-tarisland.json](./254235-tarisland.json) |
 | Tarisland: Season 1 - Blight Dragon Elegy | 314403 | [314403-tarisland-season-1-blight-dragon-elegy.json](./314403-tarisland-season-1-blight-dragon-elegy.json) |
+| Tarkus and the Crystal of Fear | 122954 | [122954-tarkus-and-the-crystal-of-fear.json](./122954-tarkus-and-the-crystal-of-fear.json) |
 | Tarnsman's Projectile Hell | 262435 | [262435-tarnsmans-projectile-hell.json](./262435-tarnsmans-projectile-hell.json) |
 | Taro | 126637 | [126637-taro.json](./126637-taro.json) |
 | Taro Is Back | 415094 | [415094-taro-is-back.json](./415094-taro-is-back.json) |
@@ -7137,6 +7140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slowpoke Shack | 329150 | [329150-the-slowpoke-shack.json](./329150-the-slowpoke-shack.json) |
 | The Slug | 51732 | [51732-the-slug.json](./51732-the-slug.json) |
 | The Slush Force | 235691 | [235691-the-slush-force.json](./235691-the-slush-force.json) |
+| The Sly Fox | 122948 | [122948-the-sly-fox.json](./122948-the-sly-fox.json) |
 | The Small Christmas Game | 178580 | [178580-the-small-christmas-game.json](./178580-the-small-christmas-game.json) |
 | The Smash Cars Tournament | 195145 | [195145-the-smash-cars-tournament.json](./195145-the-smash-cars-tournament.json) |
 | The Smelly Mystery | 71809 | [71809-the-smelly-mystery.json](./71809-the-smelly-mystery.json) |
