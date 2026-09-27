@@ -1167,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Escape: Allied Spies | 123435 | [123435-adventure-escape-allied-spies.json](./123435-adventure-escape-allied-spies.json) |
 | Adventure Escape: Asylum | 123440 | [123440-adventure-escape-asylum.json](./123440-adventure-escape-asylum.json) |
 | Adventure Escape: Cult Mystery | 123437 | [123437-adventure-escape-cult-mystery.json](./123437-adventure-escape-cult-mystery.json) |
+| Adventure Escape: Dark Ruins | 120262 | [120262-adventure-escape-dark-ruins.json](./120262-adventure-escape-dark-ruins.json) |
 | Adventure Escape: Framed for Murder | 123441 | [123441-adventure-escape-framed-for-murder.json](./123441-adventure-escape-framed-for-murder.json) |
 | Adventure Escape: Hidden Ruins | 123444 | [123444-adventure-escape-hidden-ruins.json](./123444-adventure-escape-hidden-ruins.json) |
 | Adventure Escape: Midnight Carnival | 123442 | [123442-adventure-escape-midnight-carnival.json](./123442-adventure-escape-midnight-carnival.json) |
@@ -1693,6 +1694,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aikode | 255658 | [255658-aikode.json](./255658-aikode.json) |
 | Aikokuryuu no Memoria | 257455 | [257455-aikokuryuu-no-memoria.json](./257455-aikokuryuu-no-memoria.json) |
 | Ailin: Traps and Treasures | 210576 | [210576-ailin-traps-and-treasures.json](./210576-ailin-traps-and-treasures.json) |
+| Ailment | 120310 | [120310-ailment.json](./120310-ailment.json) |
+| Ailment: Endurance | 120311 | [120311-ailment-endurance.json](./120311-ailment-endurance.json) |
 | Ailse of Shadows | 410227 | [410227-ailse-of-shadows.json](./410227-ailse-of-shadows.json) |
 | Ailuri | 189192 | [189192-ailuri.json](./189192-ailuri.json) |
 | Aim & Shoot | 358841 | [358841-aim-and-shoot.json](./358841-aim-and-shoot.json) |
@@ -4457,6 +4460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo Justice: Turnabout Substitution | 143498 | [143498-apollo-justice-turnabout-substitution.json](./143498-apollo-justice-turnabout-substitution.json) |
 | Apollo LM | 174288 | [174288-apollo-lm.json](./174288-apollo-lm.json) |
 | Apollo Lunar Mission | 158571 | [158571-apollo-lunar-mission.json](./158571-apollo-lunar-mission.json) |
+| Apollo X | 120292 | [120292-apollo-x.json](./120292-apollo-x.json) |
 | Apollo's Palace | 186601 | [186601-apollos-palace.json](./186601-apollos-palace.json) |
 | Apollo4x | 26978 | [26978-apollo4x.json](./26978-apollo4x.json) |
 | Apology Video | 406316 | [406316-apology-video.json](./406316-apology-video.json) |
@@ -4877,6 +4881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Legends: Sega Genesis | 202799 | [202799-arcade-legends-sega-genesis.json](./202799-arcade-legends-sega-genesis.json) |
 | Arcade Legends: Sega Genesis Volume 2 | 202802 | [202802-arcade-legends-sega-genesis-volume-2.json](./202802-arcade-legends-sega-genesis-volume-2.json) |
 | Arcade Legends: Sega Genesis Volume 3 - Super Sonic Gold | 202261 | [202261-arcade-legends-sega-genesis-volume-3-super-sonic-gold.json](./202261-arcade-legends-sega-genesis-volume-3-super-sonic-gold.json) |
+| Arcade Love: Plus Pengo! | 120285 | [120285-arcade-love-plus-pengo.json](./120285-arcade-love-plus-pengo.json) |
 | Arcade Machine: Clown Hunt | 232991 | [232991-arcade-machine-clown-hunt.json](./232991-arcade-machine-clown-hunt.json) |
 | Arcade Maniac | 178965 | [178965-arcade-maniac.json](./178965-arcade-maniac.json) |
 | Arcade Master | 202866 | [202866-arcade-master.json](./202866-arcade-master.json) |
