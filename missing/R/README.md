@@ -2976,6 +2976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricochet | 209166 | [209166-ricochet.json](./209166-ricochet.json) |
 | Ricochet | 368008 | [368008-ricochet.json](./368008-ricochet.json) |
 | Ricochet Blur | 226453 | [226453-ricochet-blur.json](./226453-ricochet-blur.json) |
+| Ricochet Bounce | 152816 | [152816-ricochet-bounce.json](./152816-ricochet-bounce.json) |
 | Ricochet Kills 2 | 235241 | [235241-ricochet-kills-2.json](./235241-ricochet-kills-2.json) |
 | Ricochet Raven | 370668 | [370668-ricochet-raven.json](./370668-ricochet-raven.json) |
 | Ricochet Rodeo | 223419 | [223419-ricochet-rodeo.json](./223419-ricochet-rodeo.json) |
@@ -3370,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Mavros | 149541 | [149541-rise-of-mavros.json](./149541-rise-of-mavros.json) |
 | Rise of Nations | 848 | [848-rise-of-nations.json](./848-rise-of-nations.json) |
 | Rise of Nosferacula | 179516 | [179516-rise-of-nosferacula.json](./179516-rise-of-nosferacula.json) |
+| Rise of Peles | 152794 | [152794-rise-of-peles.json](./152794-rise-of-peles.json) |
 | Rise of Piracy | 154973 | [154973-rise-of-piracy.json](./154973-rise-of-piracy.json) |
 | Rise of Queendom | 255119 | [255119-rise-of-queendom.json](./255119-rise-of-queendom.json) |
 | Rise of Rana | 362359 | [362359-rise-of-rana.json](./362359-rise-of-rana.json) |
@@ -3430,6 +3432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Mist | 191815 | [191815-rising-mist.json](./191815-rising-mist.json) |
 | Rising Noracam | 151649 | [151649-rising-noracam.json](./151649-rising-noracam.json) |
 | Rising Snake | 123567 | [123567-rising-snake.json](./123567-rising-snake.json) |
+| Rising Spire | 152795 | [152795-rising-spire.json](./152795-rising-spire.json) |
 | Rising Star: The Horse Game | 220707 | [220707-rising-star-the-horse-game.json](./220707-rising-star-the-horse-game.json) |
 | Rising Storm 2: Vietnam | 18166 | [18166-rising-storm-2-vietnam.json](./18166-rising-storm-2-vietnam.json) |
 | Rising Sun | 850 | [850-rising-sun.json](./850-rising-sun.json) |
