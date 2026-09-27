@@ -1502,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newer: Holiday Special | 132849 | [132849-newer-holiday-special.json](./132849-newer-holiday-special.json) |
 | Newer: Summer Sun | 132847 | [132847-newer-summer-sun.json](./132847-newer-summer-sun.json) |
 | Newfound Courage | 107924 | [107924-newfound-courage.json](./107924-newfound-courage.json) |
+| Newfound Courage: Winter's Fair | 151063 | [151063-newfound-courage-winters-fair.json](./151063-newfound-courage-winters-fair.json) |
 | Newgothic Movement 1 | 186762 | [186762-newgothic-movement-1.json](./186762-newgothic-movement-1.json) |
 | Newgothic Movement 2 | 275571 | [275571-newgothic-movement-2.json](./275571-newgothic-movement-2.json) |
 | Newgrounds Rumble | 92467 | [92467-newgrounds-rumble.json](./92467-newgrounds-rumble.json) |
@@ -2971,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notmycar | 85834 | [85834-notmycar.json](./85834-notmycar.json) |
 | Notoris: The Goblin War | 191174 | [191174-notoris-the-goblin-war.json](./191174-notoris-the-goblin-war.json) |
 | Notpron | 202394 | [202394-notpron.json](./202394-notpron.json) |
+| Notre-Dame de Paris: Journey Back in Time | 151074 | [151074-notre-dame-de-paris-journey-back-in-time.json](./151074-notre-dame-de-paris-journey-back-in-time.json) |
 | Notrium | 35751 | [35751-notrium.json](./35751-notrium.json) |
 | Nótt & Dagr | 135039 | [135039-nott-and-dagr.json](./135039-nott-and-dagr.json) |
 | Notyet | 57352 | [57352-notyet.json](./57352-notyet.json) |
