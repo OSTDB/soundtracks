@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacrifice Your Friends | 121552 | [121552-sacrifice-your-friends.json](./121552-sacrifice-your-friends.json) |
 | Sacrifices | 330126 | [330126-sacrifices.json](./330126-sacrifices.json) |
 | Sacrifices Must Be Made | 182849 | [182849-sacrifices-must-be-made.json](./182849-sacrifices-must-be-made.json) |
+| Sacrifights | 120907 | [120907-sacrifights.json](./120907-sacrifights.json) |
 | SacriFire | 152268 | [152268-sacrifire.json](./152268-sacrifire.json) |
 | SacriFrogos | 390009 | [390009-sacrifrogos.json](./390009-sacrifrogos.json) |
 | Sacrilege | 61634 | [61634-sacrilege.json](./61634-sacrilege.json) |
@@ -3354,6 +3355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She's a Bit Sluggish | 179109 | [179109-shes-a-bit-sluggish.json](./179109-shes-a-bit-sluggish.json) |
 | She's My Vampire | 205816 | [205816-shes-my-vampire.json](./205816-shes-my-vampire.json) |
 | She's Outta This World | 179487 | [179487-shes-outta-this-world.json](./179487-shes-outta-this-world.json) |
+| Sheaf - Together EP | 120769 | [120769-sheaf-together-ep.json](./120769-sheaf-together-ep.json) |
 | Shechu de Fubao | 255624 | [255624-shechu-de-fubao.json](./255624-shechu-de-fubao.json) |
 | Shed | 406191 | [406191-shed.json](./406191-shed.json) |
 | Shed | 91728 | [91728-shed.json](./91728-shed.json) |
@@ -4842,6 +4844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinful Discharge | 268459 | [268459-sinful-discharge.json](./268459-sinful-discharge.json) |
 | Sing 4: The Hits Edition | 50602 | [50602-sing-4-the-hits-edition.json](./50602-sing-4-the-hits-edition.json) |
 | Singalongsong | 302932 | [302932-singalongsong.json](./302932-singalongsong.json) |
+| Singaria | 120762 | [120762-singaria.json](./120762-singaria.json) |
 | SingFever: Your Sing Game | 365871 | [365871-singfever-your-sing-game.json](./365871-singfever-your-sing-game.json) |
 | Singing Easter Eggs | 293217 | [293217-singing-easter-eggs.json](./293217-singing-easter-eggs.json) |
 | Singing Horses | 293218 | [293218-singing-horses.json](./293218-singing-horses.json) |
@@ -7764,6 +7767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SONpc | 330874 | [330874-sonpc.json](./330874-sonpc.json) |
 | Sons of Eye Championship | 132006 | [132006-sons-of-eye-championship.json](./132006-sons-of-eye-championship.json) |
 | Sons of Odin | 346570 | [346570-sons-of-odin.json](./346570-sons-of-odin.json) |
+| Sons of Ra | 120889 | [120889-sons-of-ra.json](./120889-sons-of-ra.json) |
 | Sons of Saturn | 256546 | [256546-sons-of-saturn.json](./256546-sons-of-saturn.json) |
 | Sons of Sol | 56446 | [56446-sons-of-sol.json](./56446-sons-of-sol.json) |
 | Sons Of The Dream Forest | 315283 | [315283-sons-of-the-dream-forest.json](./315283-sons-of-the-dream-forest.json) |
@@ -8029,6 +8033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souls of Shadow | 320557 | [320557-souls-of-shadow.json](./320557-souls-of-shadow.json) |
 | Souls Survivors | 272930 | [272930-souls-survivors.json](./272930-souls-survivors.json) |
 | Souls Unguarded | 129686 | [129686-souls-unguarded.json](./129686-souls-unguarded.json) |
+| Soulscape | 120764 | [120764-soulscape.json](./120764-soulscape.json) |
 | Soulscape | 300823 | [300823-soulscape.json](./300823-soulscape.json) |
 | Soulscape | 377565 | [377565-soulscape.json](./377565-soulscape.json) |
 | SoulSide | 190703 | [190703-soulside.json](./190703-soulside.json) |
