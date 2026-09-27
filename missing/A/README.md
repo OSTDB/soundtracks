@@ -4217,6 +4217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends Mobile: Prime Time | 211297 | [211297-apex-legends-mobile-prime-time.json](./211297-apex-legends-mobile-prime-time.json) |
 | Apex Legends Showdown | 396542 | [396542-apex-legends-showdown.json](./396542-apex-legends-showdown.json) |
 | Apex Legends: Arsenal | 249282 | [249282-apex-legends-arsenal.json](./249282-apex-legends-arsenal.json) |
+| Apex Legends: Bangalore Edition | 170286 | [170286-apex-legends-bangalore-edition.json](./170286-apex-legends-bangalore-edition.json) |
 | Apex Legends: Defiance | 188649 | [188649-apex-legends-defiance.json](./188649-apex-legends-defiance.json) |
 | Apex Legends: Eclipse | 223471 | [223471-apex-legends-eclipse.json](./223471-apex-legends-eclipse.json) |
 | Apex Legends: Emergence | 159117 | [159117-apex-legends-emergence.json](./159117-apex-legends-emergence.json) |
@@ -5618,9 +5619,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of Sombtir | 275883 | [275883-ashes-of-sombtir.json](./275883-ashes-of-sombtir.json) |
 | Ashes of the Singularity: Escalation - Core Worlds | 186880 | [186880-ashes-of-the-singularity-escalation-core-worlds.json](./186880-ashes-of-the-singularity-escalation-core-worlds.json) |
 | Ashes of the Singularity: Escalation - Gauntlet | 124815 | [124815-ashes-of-the-singularity-escalation-gauntlet.json](./124815-ashes-of-the-singularity-escalation-gauntlet.json) |
+| Ashes of the Singularity: Escalation - Gauntlet | 170302 | [170302-ashes-of-the-singularity-escalation-gauntlet.json](./170302-ashes-of-the-singularity-escalation-gauntlet.json) |
 | Ashes of the Singularity: Escalation - Hunter / Prey | 167315 | [167315-ashes-of-the-singularity-escalation-hunter-prey.json](./167315-ashes-of-the-singularity-escalation-hunter-prey.json) |
 | Ashes of the Singularity: Escalation - Hunter/Prey | 155086 | [155086-ashes-of-the-singularity-escalation-hunter-prey.json](./155086-ashes-of-the-singularity-escalation-hunter-prey.json) |
+| Ashes of the Singularity: Escalation - Juggernaut | 170301 | [170301-ashes-of-the-singularity-escalation-juggernaut.json](./170301-ashes-of-the-singularity-escalation-juggernaut.json) |
 | Ashes of the Singularity: Escalation - Oblivion | 124828 | [124828-ashes-of-the-singularity-escalation-oblivion.json](./124828-ashes-of-the-singularity-escalation-oblivion.json) |
+| Ashes of the Singularity: Escalation - Oblivion | 170299 | [170299-ashes-of-the-singularity-escalation-oblivion.json](./170299-ashes-of-the-singularity-escalation-oblivion.json) |
+| Ashes of the Singularity: Escalation - Secret Missions | 170300 | [170300-ashes-of-the-singularity-escalation-secret-missions.json](./170300-ashes-of-the-singularity-escalation-secret-missions.json) |
+| Ashes of the Singularity: Escalation - Turtle Wars | 170298 | [170298-ashes-of-the-singularity-escalation-turtle-wars.json](./170298-ashes-of-the-singularity-escalation-turtle-wars.json) |
 | Ashes of the Singularity: Escalation Gold | 52605 | [52605-ashes-of-the-singularity-escalation-gold.json](./52605-ashes-of-the-singularity-escalation-gold.json) |
 | Ashes of War | 369665 | [369665-ashes-of-war.json](./369665-ashes-of-war.json) |
 | Ashes of Xun | 377678 | [377678-ashes-of-xun.json](./377678-ashes-of-xun.json) |
