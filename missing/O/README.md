@@ -147,6 +147,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obstacles | 186172 | [186172-obstacles.json](./186172-obstacles.json) |
 | Obstacles Race | 288356 | [288356-obstacles-race.json](./288356-obstacles-race.json) |
 | Obversion | 120388 | [120388-obversion.json](./120388-obversion.json) |
+| Ocarina of Time Redux | 172478 | [172478-ocarina-of-time-redux.json](./172478-ocarina-of-time-redux.json) |
+| Ocarina of Time: Master Quest Redux | 172480 | [172480-ocarina-of-time-master-quest-redux.json](./172480-ocarina-of-time-master-quest-redux.json) |
 | Occidental Heroes | 388012 | [388012-occidental-heroes.json](./388012-occidental-heroes.json) |
 | Occult | 153954 | [153954-occult.json](./153954-occult.json) |
 | Occult Chambers | 235186 | [235186-occult-chambers.json](./235186-occult-chambers.json) |
@@ -1579,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orange Man Smash! | 412432 | [412432-orange-man-smash.json](./412432-orange-man-smash.json) |
 | Orange Ocean | 396412 | [396412-orange-ocean.json](./396412-orange-ocean.json) |
 | Orange Roulette | 320338 | [320338-orange-roulette.json](./320338-orange-roulette.json) |
+| Orange Salvifique | 172513 | [172513-orange-salvifique.json](./172513-orange-salvifique.json) |
 | Orange Santa | 151131 | [151131-orange-santa.json](./151131-orange-santa.json) |
 | Orange Season | 34231 | [34231-orange-season.json](./34231-orange-season.json) |
 | Oranges | 270716 | [270716-oranges.json](./270716-oranges.json) |
