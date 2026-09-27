@@ -2604,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bad Gravedigger | 104073 | [104073-the-bad-gravedigger.json](./104073-the-bad-gravedigger.json) |
 | The Bad Kids | 211152 | [211152-the-bad-kids.json](./211152-the-bad-kids.json) |
 | The Bad Son | 192888 | [192888-the-bad-son.json](./192888-the-bad-son.json) |
+| The Bad, The Worse & Djanky | 155009 | [155009-the-bad-the-worse-and-djanky.json](./155009-the-bad-the-worse-and-djanky.json) |
 | The Baker of Shireton | 59683 | [59683-the-baker-of-shireton.json](./59683-the-baker-of-shireton.json) |
 | The Bakerville Case | 217383 | [217383-the-bakerville-case.json](./217383-the-bakerville-case.json) |
 | The Bakery Tales | 328475 | [328475-the-bakery-tales.json](./328475-the-bakery-tales.json) |
@@ -11055,6 +11056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer II - Lokhir Fellheart | 167625 | [167625-total-war-warhammer-ii-lokhir-fellheart.json](./167625-total-war-warhammer-ii-lokhir-fellheart.json) |
 | Total War: Warhammer II - Repanse de Lyonesse | 167628 | [167628-total-war-warhammer-ii-repanse-de-lyonesse.json](./167628-total-war-warhammer-ii-repanse-de-lyonesse.json) |
 | Total War: Warhammer II - The Hunter & The Beast | 167627 | [167627-total-war-warhammer-ii-the-hunter-and-the-beast.json](./167627-total-war-warhammer-ii-the-hunter-and-the-beast.json) |
+| Total War: Warhammer II - The Silence & The Fury | 154996 | [154996-total-war-warhammer-ii-the-silence-and-the-fury.json](./154996-total-war-warhammer-ii-the-silence-and-the-fury.json) |
 | Total War: Warhammer II - The Twisted & The Twilight | 167626 | [167626-total-war-warhammer-ii-the-twisted-and-the-twilight.json](./167626-total-war-warhammer-ii-the-twisted-and-the-twilight.json) |
 | Total War: Warhammer II - The Warden & The Paunch | 167629 | [167629-total-war-warhammer-ii-the-warden-and-the-paunch.json](./167629-total-war-warhammer-ii-the-warden-and-the-paunch.json) |
 | Total War: Warhammer II - Thorek Ironbrow | 157543 | [157543-total-war-warhammer-ii-thorek-ironbrow.json](./157543-total-war-warhammer-ii-thorek-ironbrow.json) |
