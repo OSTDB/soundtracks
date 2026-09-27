@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu Hayami no American Kids: Eigo de Bikkuri | 293911 | [293911-yu-hayami-no-american-kids-eigo-de-bikkuri.json](./293911-yu-hayami-no-american-kids-eigo-de-bikkuri.json) |
 | Yu Hayami no American Kids: Eigo de Talk | 293913 | [293913-yu-hayami-no-american-kids-eigo-de-talk.json](./293913-yu-hayami-no-american-kids-eigo-de-talk.json) |
 | Yu Hayami no American Kids: Eigo de Tango | 293910 | [293910-yu-hayami-no-american-kids-eigo-de-tango.json](./293910-yu-hayami-no-american-kids-eigo-de-tango.json) |
+| Yu Shen Qian Kun | 123506 | [123506-yu-shen-qian-kun.json](./123506-yu-shen-qian-kun.json) |
 | Yu Suzuki Game Works Vol. 1 | 56453 | [56453-yu-suzuki-game-works-vol-1.json](./56453-yu-suzuki-game-works-vol-1.json) |
 | Yu Yu Hakusho: Dark Martial Arts Club | 208940 | [208940-yu-yu-hakusho-dark-martial-arts-club.json](./208940-yu-yu-hakusho-dark-martial-arts-club.json) |
 | Yu Yu Hakusho: Ghost Files - Dark Tournament | 43525 | [43525-yu-yu-hakusho-ghost-files-dark-tournament.json](./43525-yu-yu-hakusho-ghost-files-dark-tournament.json) |
