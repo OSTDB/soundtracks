@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamura: Kamigami to Chigiri Shisha | 292095 | [292095-kamura-kamigami-to-chigiri-shisha.json](./292095-kamura-kamigami-to-chigiri-shisha.json) |
 | Kana | 303607 | [303607-kana.json](./303607-kana.json) |
 | Kana No Mado | 364728 | [364728-kana-no-mado.json](./364728-kana-no-mado.json) |
+| Kana Quest | 126495 | [126495-kana-quest.json](./126495-kana-quest.json) |
 | Kana Seito Defense | 324293 | [324293-kana-seito-defense.json](./324293-kana-seito-defense.json) |
 | Kana: Imouto | 56771 | [56771-kana-imouto.json](./56771-kana-imouto.json) |
 | Kanako Enomoto Junk Brain Diagnosis | 209450 | [209450-kanako-enomoto-junk-brain-diagnosis.json](./209450-kanako-enomoto-junk-brain-diagnosis.json) |
@@ -424,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kari Gurashi Ren'ai | 97347 | [97347-kari-gurashi-renai.json](./97347-kari-gurashi-renai.json) |
 | Karian Cross | 40212 | [40212-karian-cross.json](./40212-karian-cross.json) |
 | Karjala | 303606 | [303606-karjala.json](./303606-karjala.json) |
+| Karl Boom | 126519 | [126519-karl-boom.json](./126519-karl-boom.json) |
 | Karl Marx and the Ring of Communism | 217367 | [217367-karl-marx-and-the-ring-of-communism.json](./217367-karl-marx-and-the-ring-of-communism.json) |
 | Karl's Tiny Adventure | 58505 | [58505-karls-tiny-adventure.json](./58505-karls-tiny-adventure.json) |
 | Karless | 400867 | [400867-karless.json](./400867-karless.json) |
