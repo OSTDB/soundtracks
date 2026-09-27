@@ -1398,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lek gjemsel med Mummitrollet | 404209 | [404209-lek-gjemsel-med-mummitrollet.json](./404209-lek-gjemsel-med-mummitrollet.json) |
 | Lekano World Online | 330856 | [330856-lekano-world-online.json](./330856-lekano-world-online.json) |
 | Leksi | 361909 | [361909-leksi.json](./361909-leksi.json) |
+| Lelie Navigation! | 156057 | [156057-lelie-navigation.json](./156057-lelie-navigation.json) |
 | Lem-Amaze! | 126570 | [126570-lem-amaze.json](./126570-lem-amaze.json) |
 | Lema Sabachthani | 323721 | [323721-lema-sabachthani.json](./323721-lema-sabachthani.json) |
 | Lemegeton | 402262 | [402262-lemegeton.json](./402262-lemegeton.json) |
@@ -3339,6 +3340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Dream: Darkness | 240799 | [240799-lost-dream-darkness.json](./240799-lost-dream-darkness.json) |
 | Lost Dutchman's Gold | 25133 | [25133-lost-dutchmans-gold.json](./25133-lost-dutchmans-gold.json) |
 | Lost Echo | 39007 | [39007-lost-echo.json](./39007-lost-echo.json) |
+| Lost Ed | 156062 | [156062-lost-ed.json](./156062-lost-ed.json) |
 | Lost Eden | 2167 | [2167-lost-eden.json](./2167-lost-eden.json) |
 | Lost Egg 2: Be Together | 148559 | [148559-lost-egg-2-be-together.json](./148559-lost-egg-2-be-together.json) |
 | Lost Egg 3: The Final | 229966 | [229966-lost-egg-3-the-final.json](./229966-lost-egg-3-the-final.json) |
@@ -3364,6 +3366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Girl In Mirror | 259820 | [259820-lost-girl-in-mirror.json](./259820-lost-girl-in-mirror.json) |
 | Lost girl's [diary] | 33473 | [33473-lost-girls-diary.json](./33473-lost-girls-diary.json) |
 | Lost God | 24939 | [24939-lost-god.json](./24939-lost-god.json) |
+| Lost Gold | 156065 | [156065-lost-gold.json](./156065-lost-gold.json) |
 | Lost Grimoires 2: Shard of Mystery | 29961 | [29961-lost-grimoires-2-shard-of-mystery.json](./29961-lost-grimoires-2-shard-of-mystery.json) |
 | Lost Hammer | 221754 | [221754-lost-hammer.json](./221754-lost-hammer.json) |
 | Lost Harem | 173823 | [173823-lost-harem.json](./173823-lost-harem.json) |
