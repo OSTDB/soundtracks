@@ -4162,6 +4162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClickDragType | 320170 | [320170-clickdragtype.json](./320170-clickdragtype.json) |
 | Clickenzee | 84270 | [84270-clickenzee.json](./84270-clickenzee.json) |
 | Clicker Achievements: The Impossible Challenge | 103808 | [103808-clicker-achievements-the-impossible-challenge.json](./103808-clicker-achievements-the-impossible-challenge.json) |
+| Clicker Age | 129655 | [129655-clicker-age.json](./129655-clicker-age.json) |
 | Clicker Astro Planet | 386870 | [386870-clicker-astro-planet.json](./386870-clicker-astro-planet.json) |
 | Clicker Climber: Pachinko | 373755 | [373755-clicker-climber-pachinko.json](./373755-clicker-climber-pachinko.json) |
 | Clicker Conquest | 331989 | [331989-clicker-conquest.json](./331989-clicker-conquest.json) |
