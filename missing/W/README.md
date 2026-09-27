@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WeddingRun | 234001 | [234001-weddingrun.json](./234001-weddingrun.json) |
 | Weddle | 202801 | [202801-weddle.json](./202801-weddle.json) |
 | Wednesdays | 333946 | [333946-wednesdays.json](./333946-wednesdays.json) |
+| Wee Trains | 120293 | [120293-wee-trains.json](./120293-wee-trains.json) |
 | Weed & Greed | 348940 | [348940-weed-and-greed.json](./348940-weed-and-greed.json) |
 | Weed Bakery | 374631 | [374631-weed-bakery.json](./374631-weed-bakery.json) |
 | Weed Farmer | 200201 | [200201-weed-farmer.json](./200201-weed-farmer.json) |
@@ -1602,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What the Golf? It's Snowtime | 264344 | [264344-what-the-golf-its-snowtime.json](./264344-what-the-golf-its-snowtime.json) |
 | What the Golf? Sporty Sports! | 135804 | [135804-what-the-golf-sporty-sports.json](./135804-what-the-golf-sporty-sports.json) |
 | What The Hack! | 351278 | [351278-what-the-hack.json](./351278-what-the-hack.json) |
+| What the hen! | 120244 | [120244-what-the-hen.json](./120244-what-the-hen.json) |
 | What the Pho: restaurant startup stories | 132799 | [132799-what-the-pho-restaurant-startup-stories.json](./132799-what-the-pho-restaurant-startup-stories.json) |
 | What the Stars Forgot | 375983 | [375983-what-the-stars-forgot.json](./375983-what-the-stars-forgot.json) |
 | What Trash? | 158684 | [158684-what-trash.json](./158684-what-trash.json) |
@@ -1789,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the Fuck is Richard? | 62777 | [62777-where-the-fuck-is-richard.json](./62777-where-the-fuck-is-richard.json) |
 | Where the Music Dies | 277344 | [277344-where-the-music-dies.json](./277344-where-the-music-dies.json) |
 | Where the Redwood Ends | 416808 | [416808-where-the-redwood-ends.json](./416808-where-the-redwood-ends.json) |
+| Where the river dies | 120250 | [120250-where-the-river-dies.json](./120250-where-the-river-dies.json) |
 | Where the Seeds Fall | 416123 | [416123-where-the-seeds-fall.json](./416123-where-the-seeds-fall.json) |
 | Where the Stars Brought Us | 201549 | [201549-where-the-stars-brought-us.json](./201549-where-the-stars-brought-us.json) |
 | Where the Wild Things Are | 5278 | [5278-where-the-wild-things-are.json](./5278-where-the-wild-things-are.json) |
