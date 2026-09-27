@@ -2695,6 +2695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meal: Mystery Escape Room | 311828 | [311828-meal-mystery-escape-room.json](./311828-meal-mystery-escape-room.json) |
 | Mealmates | 151009 | [151009-mealmates.json](./151009-mealmates.json) |
 | Mean Beans | 236289 | [236289-mean-beans.json](./236289-mean-beans.json) |
+| Mean Girls | 150035 | [150035-mean-girls.json](./150035-mean-girls.json) |
 | Meander | 108986 | [108986-meander.json](./108986-meander.json) |
 | Meander Land | 265703 | [265703-meander-land.json](./265703-meander-land.json) |
 | Méandres | 257430 | [257430-meandres.json](./257430-meandres.json) |
@@ -6804,6 +6805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Pale | 404436 | [404436-moonlight-pale.json](./404436-moonlight-pale.json) |
 | Moonlight Princess | 145566 | [145566-moonlight-princess.json](./145566-moonlight-princess.json) |
 | Moonlight Rabbits | 302366 | [302366-moonlight-rabbits.json](./302366-moonlight-rabbits.json) |
+| Moonlight Sculptor | 150009 | [150009-moonlight-sculptor.json](./150009-moonlight-sculptor.json) |
 | Moonlight Sonata | 185447 | [185447-moonlight-sonata.json](./185447-moonlight-sonata.json) |
 | Moonlight Syndrome | 65450 | [65450-moonlight-syndrome.json](./65450-moonlight-syndrome.json) |
 | Moonlight Walks | 51178 | [51178-moonlight-walks.json](./51178-moonlight-walks.json) |
