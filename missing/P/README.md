@@ -3035,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pingo Puzzle Poker | 51167 | [51167-pingo-puzzle-poker.json](./51167-pingo-puzzle-poker.json) |
 | Pingolf | 318601 | [318601-pingolf.json](./318601-pingolf.json) |
 | PingPong Kings VR | 89256 | [89256-pingpong-kings-vr.json](./89256-pingpong-kings-vr.json) |
+| Pingus | 146207 | [146207-pingus.json](./146207-pingus.json) |
 | Pingwinek Kelvin | 142495 | [142495-pingwinek-kelvin.json](./142495-pingwinek-kelvin.json) |
 | Pink 2048 | 211737 | [211737-pink-2048.json](./211737-pink-2048.json) |
 | Pink Dot Blue Dot | 84822 | [84822-pink-dot-blue-dot.json](./84822-pink-dot-blue-dot.json) |
@@ -4764,6 +4765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Master | 167586 | [167586-poker-master.json](./167586-poker-master.json) |
 | Poker Patience | 83481 | [83481-poker-patience.json](./83481-poker-patience.json) |
 | Poker Pop! | 209145 | [209145-poker-pop.json](./209145-poker-pop.json) |
+| Poker Pretty Girls Battle: Fantasy World Edition | 146175 | [146175-poker-pretty-girls-battle-fantasy-world-edition.json](./146175-poker-pretty-girls-battle-fantasy-world-edition.json) |
 | Poker Pretty Girls Battle: Texas Hold'em | 34324 | [34324-poker-pretty-girls-battle-texas-holdem.json](./34324-poker-pretty-girls-battle-texas-holdem.json) |
 | Poker Squ♠res | 81285 | [81285-poker-squ-res.json](./81285-poker-squ-res.json) |
 | Poker Squares | 131523 | [131523-poker-squares.json](./131523-poker-squares.json) |
@@ -5141,6 +5143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Town | 26561 | [26561-pop-town.json](./26561-pop-town.json) |
 | Pop Up Computer | 285034 | [285034-pop-up-computer.json](./285034-pop-up-computer.json) |
 | Pop-a-Chick | 232043 | [232043-pop-a-chick.json](./232043-pop-a-chick.json) |
+| Pop-Pop | 146186 | [146186-pop-pop.json](./146186-pop-pop.json) |
 | Pop-up Fox | 101471 | [101471-pop-up-fox.json](./101471-pop-up-fox.json) |
 | Pop-Up Pilgrims | 90094 | [90094-pop-up-pilgrims.json](./90094-pop-up-pilgrims.json) |
 | Pop! Slots | 370752 | [370752-pop-slots.json](./370752-pop-slots.json) |
