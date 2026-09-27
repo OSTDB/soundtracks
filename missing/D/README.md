@@ -1202,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dayshift at Freddy's 3 | 216206 | [216206-dayshift-at-freddys-3.json](./216206-dayshift-at-freddys-3.json) |
 | Daytona Championship USA | 57333 | [57333-daytona-championship-usa.json](./57333-daytona-championship-usa.json) |
 | DayZ | 2117 | [2117-dayz.json](./2117-dayz.json) |
+| DayZ: Livonia Edition | 164803 | [164803-dayz-livonia-edition.json](./164803-dayz-livonia-edition.json) |
 | Dazzeloids | 64351 | [64351-dazzeloids.json](./64351-dazzeloids.json) |
 | DBall | 339368 | [339368-dball.json](./339368-dball.json) |
 | DC Battle Arena | 137600 | [137600-dc-battle-arena.json](./137600-dc-battle-arena.json) |
@@ -1321,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Silent Hill Edition | 139976 | [139976-dead-by-daylight-silent-hill-edition.json](./139976-dead-by-daylight-silent-hill-edition.json) |
 | Dead by Daylight: Spark of Madness Chapter | 76223 | [76223-dead-by-daylight-spark-of-madness-chapter.json](./76223-dead-by-daylight-spark-of-madness-chapter.json) |
 | Dead by Daylight: Stranger Things - Jonathan Byers | 358410 | [358410-dead-by-daylight-stranger-things-jonathan-byers.json](./358410-dead-by-daylight-stranger-things-jonathan-byers.json) |
+| Dead by Daylight: Stranger Things Edition | 164813 | [164813-dead-by-daylight-stranger-things-edition.json](./164813-dead-by-daylight-stranger-things-edition.json) |
 | Dead by Daylight: The Halloween Chapter | 76221 | [76221-dead-by-daylight-the-halloween-chapter.json](./76221-dead-by-daylight-the-halloween-chapter.json) |
 | Dead by Daylight: The Last Breath Chapter | 76220 | [76220-dead-by-daylight-the-last-breath-chapter.json](./76220-dead-by-daylight-the-last-breath-chapter.json) |
 | Dead by Daylight: The Walking Dead | 358407 | [358407-dead-by-daylight-the-walking-dead.json](./358407-dead-by-daylight-the-walking-dead.json) |
@@ -3084,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex: Invisible War | 42 | [42-deus-ex-invisible-war.json](./42-deus-ex-invisible-war.json) |
 | Deus Ex: Mankind Divided - Assault Pack | 374695 | [374695-deus-ex-mankind-divided-assault-pack.json](./374695-deus-ex-mankind-divided-assault-pack.json) |
 | Deus Ex: Mankind Divided - Day One Edition | 46024 | [46024-deus-ex-mankind-divided-day-one-edition.json](./46024-deus-ex-mankind-divided-day-one-edition.json) |
+| Deus Ex: Mankind Divided - Digital Deluxe Edition | 164802 | [164802-deus-ex-mankind-divided-digital-deluxe-edition.json](./164802-deus-ex-mankind-divided-digital-deluxe-edition.json) |
 | Deus Ex: Mankind Divided - Tactical Pack | 374696 | [374696-deus-ex-mankind-divided-tactical-pack.json](./374696-deus-ex-mankind-divided-tactical-pack.json) |
 | Deus Ex: Revision | 23974 | [23974-deus-ex-revision.json](./23974-deus-ex-revision.json) |
 | Deus Ex: The Conspiracy | 347125 | [347125-deus-ex-the-conspiracy.json](./347125-deus-ex-the-conspiracy.json) |
@@ -3857,6 +3860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt 5: Limited Edition | 139955 | [139955-dirt-5-limited-edition.json](./139955-dirt-5-limited-edition.json) |
 | Dirt 5: Super Size Content Pack | 170823 | [170823-dirt-5-super-size-content-pack.json](./170823-dirt-5-super-size-content-pack.json) |
 | Dirt 5: Wild Spirits Content Pack | 292027 | [292027-dirt-5-wild-spirits-content-pack.json](./292027-dirt-5-wild-spirits-content-pack.json) |
+| Dirt 5: Year One Edition | 164796 | [164796-dirt-5-year-one-edition.json](./164796-dirt-5-year-one-edition.json) |
 | Dirt And Flo | 278691 | [278691-dirt-and-flo.json](./278691-dirt-and-flo.json) |
 | Dirt Bicycle Rider Simulator | 259816 | [259816-dirt-bicycle-rider-simulator.json](./259816-dirt-bicycle-rider-simulator.json) |
 | Dirt Bike Motocross Stunts | 387009 | [387009-dirt-bike-motocross-stunts.json](./387009-dirt-bike-motocross-stunts.json) |
@@ -5865,6 +5869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse 2 - Super Pack 4 | 168746 | [168746-dragon-ball-xenoverse-2-super-pack-4.json](./168746-dragon-ball-xenoverse-2-super-pack-4.json) |
 | Dragon Ball: Xenoverse 2 - Super Pass | 117656 | [117656-dragon-ball-xenoverse-2-super-pass.json](./117656-dragon-ball-xenoverse-2-super-pass.json) |
 | Dragon Ball: Xenoverse 2 - Ultra Pack 1 | 168742 | [168742-dragon-ball-xenoverse-2-ultra-pack-1.json](./168742-dragon-ball-xenoverse-2-ultra-pack-1.json) |
+| Dragon Ball: Xenoverse 2 - Ultra Pack Set | 164822 | [164822-dragon-ball-xenoverse-2-ultra-pack-set.json](./164822-dragon-ball-xenoverse-2-ultra-pack-set.json) |
 | Dragon Ball: Xenoverse 2: Special Edition | 271831 | [271831-dragon-ball-xenoverse-2-special-edition.json](./271831-dragon-ball-xenoverse-2-special-edition.json) |
 | Dragon Ball: Xenoverse 3 | 387020 | [387020-dragon-ball-xenoverse-3.json](./387020-dragon-ball-xenoverse-3.json) |
 | Dragon Banner | 130162 | [130162-dragon-banner.json](./130162-dragon-banner.json) |
