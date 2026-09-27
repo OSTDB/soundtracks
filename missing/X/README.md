@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XenovaderS | 133355 | [133355-xenovaders.json](./133355-xenovaders.json) |
 | Xenowar | 70390 | [70390-xenowar.json](./70390-xenowar.json) |
 | XenoWorld: The Rondeau of Astra | 236951 | [236951-xenoworld-the-rondeau-of-astra.json](./236951-xenoworld-the-rondeau-of-astra.json) |
+| Xenrai | 122960 | [122960-xenrai.json](./122960-xenrai.json) |
 | Xentripetal Force | 121466 | [121466-xentripetal-force.json](./121466-xentripetal-force.json) |
 | Xeodrifter | 8506 | [8506-xeodrifter.json](./8506-xeodrifter.json) |
 | XeonMass | 256217 | [256217-xeonmass.json](./256217-xeonmass.json) |
