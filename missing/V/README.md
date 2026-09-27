@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vain Empires | 216334 | [216334-vain-empires.json](./216334-vain-empires.json) |
 | Vain Riser | 150532 | [150532-vain-riser.json](./150532-vain-riser.json) |
 | Vain Uprising | 331322 | [331322-vain-uprising.json](./331322-vain-uprising.json) |
+| VainPlanet | 129074 | [129074-vainplanet.json](./129074-vainplanet.json) |
 | Vajont VR | 221141 | [221141-vajont-vr.json](./221141-vajont-vr.json) |
 | Val d'Isère Ski Park Manager | 64920 | [64920-val-disere-ski-park-manager.json](./64920-val-disere-ski-park-manager.json) |
 | Val d'Isère Ski Park Manager: Edition 2003 | 64919 | [64919-val-disere-ski-park-manager-edition-2003.json](./64919-val-disere-ski-park-manager-edition-2003.json) |
@@ -903,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigor: The Last King Of DayZ | 301571 | [301571-vigor-the-last-king-of-dayz.json](./301571-vigor-the-last-king-of-dayz.json) |
 | Vigour | 283216 | [283216-vigour.json](./283216-vigour.json) |
 | Vigtafl | 185036 | [185036-vigtafl.json](./185036-vigtafl.json) |
+| VII | 129121 | [129121-vii.json](./129121-vii.json) |
 | Viki Spotter: Around The World | 89962 | [89962-viki-spotter-around-the-world.json](./89962-viki-spotter-around-the-world.json) |
 | Viki Spotter: Camping | 105366 | [105366-viki-spotter-camping.json](./105366-viki-spotter-camping.json) |
 | Viki Spotter: School | 89609 | [89609-viki-spotter-school.json](./89609-viki-spotter-school.json) |
