@@ -1343,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up for Grabs | 268025 | [268025-up-for-grabs.json](./268025-up-for-grabs.json) |
 | Up or Fall | 343243 | [343243-up-or-fall.json](./343243-up-or-fall.json) |
 | Up or Out | 105317 | [105317-up-or-out.json](./105317-up-or-out.json) |
+| Up Periscope | 138104 | [138104-up-periscope.json](./138104-up-periscope.json) |
 | Up Periscope! | 37160 | [37160-up-periscope.json](./37160-up-periscope.json) |
 | Up Shot | 315658 | [315658-up-shot.json](./315658-up-shot.json) |
 | Up Square | 272875 | [272875-up-square.json](./272875-up-square.json) |
