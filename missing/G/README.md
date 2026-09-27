@@ -3441,6 +3441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graviteam Tactics: Mius Front - The Day of the Olifant | 155491 | [155491-graviteam-tactics-mius-front-the-day-of-the-olifant.json](./155491-graviteam-tactics-mius-front-the-day-of-the-olifant.json) |
 | Graviteam Tactics: Mius Front - Tielieketi Incident | 155479 | [155479-graviteam-tactics-mius-front-tielieketi-incident.json](./155479-graviteam-tactics-mius-front-tielieketi-incident.json) |
 | Graviteam Tactics: Mius Front - Typhoon Rising | 155489 | [155489-graviteam-tactics-mius-front-typhoon-rising.json](./155489-graviteam-tactics-mius-front-typhoon-rising.json) |
+| Graviteam Tactics: Mius Front - Under the Cruel Star | 151059 | [151059-graviteam-tactics-mius-front-under-the-cruel-star.json](./151059-graviteam-tactics-mius-front-under-the-cruel-star.json) |
 | Graviteam Tactics: Operation Star | 17038 | [17038-graviteam-tactics-operation-star.json](./17038-graviteam-tactics-operation-star.json) |
 | Graviteam Tactics: Operation Star - Krasnaya Polyana 1943 | 155495 | [155495-graviteam-tactics-operation-star-krasnaya-polyana-1943.json](./155495-graviteam-tactics-operation-star-krasnaya-polyana-1943.json) |
 | Graviteam Tactics: Operation Star - Operation Hooper | 155493 | [155493-graviteam-tactics-operation-star-operation-hooper.json](./155493-graviteam-tactics-operation-star-operation-hooper.json) |
