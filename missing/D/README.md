@@ -5239,6 +5239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dontrel Dolphin 2 | 305838 | [305838-dontrel-dolphin-2.json](./305838-dontrel-dolphin-2.json) |
 | Donut 80 | 201052 | [201052-donut-80.json](./201052-donut-80.json) |
 | Donut Arena | 190137 | [190137-donut-arena.json](./190137-donut-arena.json) |
+| Donut Boi | 130268 | [130268-donut-boi.json](./130268-donut-boi.json) |
 | Donut Break 2: Head to Head | 214516 | [214516-donut-break-2-head-to-head.json](./214516-donut-break-2-head-to-head.json) |
 | Donut County | 55080 | [55080-donut-county.json](./55080-donut-county.json) |
 | Donut Crabs | 206715 | [206715-donut-crabs.json](./206715-donut-crabs.json) |
@@ -5819,6 +5820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DraBot | 401475 | [401475-drabot.json](./401475-drabot.json) |
 | Drac's Night Out | 48643 | [48643-dracs-night-out.json](./48643-dracs-night-out.json) |
 | Drachen Zor | 94011 | [94011-drachen-zor.json](./94011-drachen-zor.json) |
+| Draco | 130248 | [130248-draco.json](./130248-draco.json) |
 | Draco | 151163 | [151163-draco.json](./151163-draco.json) |
 | Draco Dux | 33069 | [33069-draco-dux.json](./33069-draco-dux.json) |
 | Draco Space X | 151620 | [151620-draco-space-x.json](./151620-draco-space-x.json) |
@@ -7263,6 +7265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumb AF | 351806 | [351806-dumb-af.json](./351806-dumb-af.json) |
 | Dumb Castle | 289304 | [289304-dumb-castle.json](./289304-dumb-castle.json) |
 | Dumb Chicken 2: One Way Out | 32895 | [32895-dumb-chicken-2-one-way-out.json](./32895-dumb-chicken-2-one-way-out.json) |
+| Dumb Fight | 130257 | [130257-dumb-fight.json](./130257-dumb-fight.json) |
 | Dumb Little Creatures | 109683 | [109683-dumb-little-creatures.json](./109683-dumb-little-creatures.json) |
 | Dumb Little Robots | 197150 | [197150-dumb-little-robots.json](./197150-dumb-little-robots.json) |
 | Dumb Roguelike-like RPG | 164517 | [164517-dumb-roguelike-like-rpg.json](./164517-dumb-roguelike-like-rpg.json) |
@@ -7423,6 +7426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Explorer: Warriors of the Ancient Arts | 20274 | [20274-dungeon-explorer-warriors-of-the-ancient-arts.json](./20274-dungeon-explorer-warriors-of-the-ancient-arts.json) |
 | Dungeon Explorers | 385857 | [385857-dungeon-explorers.json](./385857-dungeon-explorers.json) |
 | Dungeon Forge | 373181 | [373181-dungeon-forge.json](./373181-dungeon-forge.json) |
+| Dungeon Frontier | 130294 | [130294-dungeon-frontier.json](./130294-dungeon-frontier.json) |
 | Dungeon Full Dive: True Supporter Dice | 305780 | [305780-dungeon-full-dive-true-supporter-dice.json](./305780-dungeon-full-dive-true-supporter-dice.json) |
 | Dungeon Gambit Boy | 89666 | [89666-dungeon-gambit-boy.json](./89666-dungeon-gambit-boy.json) |
 | Dungeon Girl Scouts | 210693 | [210693-dungeon-girl-scouts.json](./210693-dungeon-girl-scouts.json) |
