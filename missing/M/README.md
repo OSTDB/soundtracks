@@ -3474,6 +3474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MEIOU and Taxes | 294450 | [294450-meiou-and-taxes.json](./294450-meiou-and-taxes.json) |
 | MeiQi 2022 | 190735 | [190735-meiqi-2022.json](./190735-meiqi-2022.json) |
 | MeiQi 2023 | 224646 | [224646-meiqi-2023.json](./224646-meiqi-2023.json) |
+| Meiro | 126508 | [126508-meiro.json](./126508-meiro.json) |
 | Meiro Master | 197253 | [197253-meiro-master.json](./197253-meiro-master.json) |
 | Měishàonián Mèng Gōngchǎng 3: Chóngshēng | 116981 | [116981-meishaonian-meng-gongchang-3-chongsheng.json](./116981-meishaonian-meng-gongchang-3-chongsheng.json) |
 | Meister | 113670 | [113670-meister.json](./113670-meister.json) |
@@ -6112,6 +6113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mofumofu Sensen | 205013 | [205013-mofumofu-sensen.json](./205013-mofumofu-sensen.json) |
 | Mogeko Castle | 213382 | [213382-mogeko-castle.json](./213382-mogeko-castle.json) |
 | Mogeko Castle | 61296 | [61296-mogeko-castle.json](./61296-mogeko-castle.json) |
+| Mogh | 126526 | [126526-mogh.json](./126526-mogh.json) |
 | MoghVR | 160136 | [160136-moghvr.json](./160136-moghvr.json) |
 | Mogo Invasion | 48004 | [48004-mogo-invasion.json](./48004-mogo-invasion.json) |
 | Moguchan | 38584 | [38584-moguchan.json](./38584-moguchan.json) |
