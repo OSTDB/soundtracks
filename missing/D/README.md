@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D+Vine[Luv] | 283302 | [283302-d-vine-luv.json](./283302-d-vine-luv.json) |
 | D1 Grand Prix | 20551 | [20551-d1-grand-prix.json](./20551-d1-grand-prix.json) |
 | D2 | 36736 | [36736-d2.json](./36736-d2.json) |
+| D2048 | 125915 | [125915-d2048.json](./125915-d2048.json) |
 | D3ad Hand | 315098 | [315098-d3ad-hand.json](./315098-d3ad-hand.json) |
 | D3d Inside | 126659 | [126659-d3d-inside.json](./126659-d3d-inside.json) |
 | D3L3T3.exe | 264331 | [264331-d3l3t3-exe.json](./264331-d3l3t3-exe.json) |
@@ -586,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Communion | 314283 | [314283-dark-communion.json](./314283-dark-communion.json) |
 | Dark Confrontation Chapter 1 | 337679 | [337679-dark-confrontation-chapter-1.json](./337679-dark-confrontation-chapter-1.json) |
 | Dark Continent: Mist | 304167 | [304167-dark-continent-mist.json](./304167-dark-continent-mist.json) |
+| Dark Cube | 125906 | [125906-dark-cube.json](./125906-dark-cube.json) |
 | Dark Day Afternoon | 140598 | [140598-dark-day-afternoon.json](./140598-dark-day-afternoon.json) |
 | Dark Days of Horror | 102181 | [102181-dark-days-of-horror.json](./102181-dark-days-of-horror.json) |
 | Dark Days: Zombie Survival | 197372 | [197372-dark-days-zombie-survival.json](./197372-dark-days-zombie-survival.json) |
@@ -869,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkman | 12037 | [12037-darkman.json](./12037-darkman.json) |
 | Darkman | 365688 | [365688-darkman.json](./365688-darkman.json) |
 | DarkMaus | 18335 | [18335-darkmaus.json](./18335-darkmaus.json) |
+| Darkmists | 125920 | [125920-darkmists.json](./125920-darkmists.json) |
 | Darkmoor Hold | 356660 | [356660-darkmoor-hold.json](./356660-darkmoor-hold.json) |
 | Darkmoor Manor | 102791 | [102791-darkmoor-manor.json](./102791-darkmoor-manor.json) |
 | Darkness | 145589 | [145589-darkness.json](./145589-darkness.json) |
@@ -1036,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date A Live: Rinne Utopia - Limited Edition | 85857 | [85857-date-a-live-rinne-utopia-limited-edition.json](./85857-date-a-live-rinne-utopia-limited-edition.json) |
 | Date A Live: Rio Reincarnation | 87742 | [87742-date-a-live-rio-reincarnation.json](./87742-date-a-live-rio-reincarnation.json) |
 | Date A Live: Rio Reincarnation HD - Limited Edition | 96104 | [96104-date-a-live-rio-reincarnation-hd-limited-edition.json](./96104-date-a-live-rio-reincarnation-hd-limited-edition.json) |
+| Date A Live: Spirit Pledge | 125935 | [125935-date-a-live-spirit-pledge.json](./125935-date-a-live-spirit-pledge.json) |
 | Date Banger | 326191 | [326191-date-banger.json](./326191-date-banger.json) |
 | Date Night | 179077 | [179077-date-night.json](./179077-date-night.json) |
 | Date Night Bowling | 137109 | [137109-date-night-bowling.json](./137109-date-night-bowling.json) |
@@ -6185,6 +6189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Riders | 411136 | [411136-dragon-riders.json](./411136-dragon-riders.json) |
 | Dragon Roll | 184124 | [184124-dragon-roll.json](./184124-dragon-roll.json) |
 | Dragon Roller Coaster VR | 114331 | [114331-dragon-roller-coaster-vr.json](./114331-dragon-roller-coaster-vr.json) |
+| Dragon RPG: Dragon Village M | 125895 | [125895-dragon-rpg-dragon-village-m.json](./125895-dragon-rpg-dragon-village-m.json) |
 | Dragon Ruins II | 328277 | [328277-dragon-ruins-ii.json](./328277-dragon-ruins-ii.json) |
 | Dragon Ruins II: Aftermath | 356739 | [356739-dragon-ruins-ii-aftermath.json](./356739-dragon-ruins-ii-aftermath.json) |
 | Dragon Run Classic | 218553 | [218553-dragon-run-classic.json](./218553-dragon-run-classic.json) |
@@ -6542,6 +6547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Peak | 390781 | [390781-dream-peak.json](./390781-dream-peak.json) |
 | Dream Piano Tiles 2018 | 107665 | [107665-dream-piano-tiles-2018.json](./107665-dream-piano-tiles-2018.json) |
 | Dream Ploy Will | 242672 | [242672-dream-ploy-will.json](./242672-dream-ploy-will.json) |
+| Dream Racer V1 | 125907 | [125907-dream-racer-v1.json](./125907-dream-racer-v1.json) |
 | Dream Seed | 257069 | [257069-dream-seed.json](./257069-dream-seed.json) |
 | Dream Sequences | 202247 | [202247-dream-sequences.json](./202247-dream-sequences.json) |
 | Dream Shogi 4K | 391863 | [391863-dream-shogi-4k.json](./391863-dream-shogi-4k.json) |
