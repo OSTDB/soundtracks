@@ -7171,6 +7171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of Horror - Episode 5 | 135158 | [135158-song-of-horror-episode-5.json](./135158-song-of-horror-episode-5.json) |
 | Song of Horror Episodes 2-5 | 135160 | [135160-song-of-horror-episodes-2-5.json](./135160-song-of-horror-episodes-2-5.json) |
 | Song of Horror: Deluxe Edition | 146789 | [146789-song-of-horror-deluxe-edition.json](./146789-song-of-horror-deluxe-edition.json) |
+| Song of Horror: Episode 2 | 135149 | [135149-song-of-horror-episode-2.json](./135149-song-of-horror-episode-2.json) |
 | Song of Iron | 132756 | [132756-song-of-iron.json](./132756-song-of-iron.json) |
 | Song of Knightroid | 413933 | [413933-song-of-knightroid.json](./413933-song-of-knightroid.json) |
 | Song of Pan | 38990 | [38990-song-of-pan.json](./38990-song-of-pan.json) |
@@ -10228,6 +10229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Scum | 292533 | [292533-star-scum.json](./292533-star-scum.json) |
 | Star Sentinel Tactics | 67329 | [67329-star-sentinel-tactics.json](./67329-star-sentinel-tactics.json) |
 | Star Sentry | 292129 | [292129-star-sentry.json](./292129-star-sentry.json) |
+| Star Shaman | 135111 | [135111-star-shaman.json](./135111-star-shaman.json) |
 | Star Shift Origins | 163193 | [163193-star-shift-origins.json](./163193-star-shift-origins.json) |
 | Star Sign | 217309 | [217309-star-sign.json](./217309-star-sign.json) |
 | Star Sign | 377304 | [377304-star-sign.json](./377304-star-sign.json) |
@@ -13304,7 +13306,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lone Survivor | 140603 | [140603-super-lone-survivor.json](./140603-super-lone-survivor.json) |
 | Super Long Boy | 251022 | [251022-super-long-boy.json](./251022-super-long-boy.json) |
 | Super Lucky's Tale: Gilly Island | 171369 | [171369-super-luckys-tale-gilly-island.json](./171369-super-luckys-tale-gilly-island.json) |
+| Super Luigi and the Golden Shrooms | 135128 | [135128-super-luigi-and-the-golden-shrooms.json](./135128-super-luigi-and-the-golden-shrooms.json) |
 | Super Luigi Bros. | 198471 | [198471-super-luigi-bros.json](./198471-super-luigi-bros.json) |
+| Super Luigi Dreams | 135129 | [135129-super-luigi-dreams.json](./135129-super-luigi-dreams.json) |
 | Super Luigi Land Wii | 294783 | [294783-super-luigi-land-wii.json](./294783-super-luigi-land-wii.json) |
 | Super Luigi Odyssey | 282683 | [282683-super-luigi-odyssey.json](./282683-super-luigi-odyssey.json) |
 | Super Luigi Trick or Treat | 314278 | [314278-super-luigi-trick-or-treat.json](./314278-super-luigi-trick-or-treat.json) |
@@ -13412,6 +13416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario and the Cursed Castles | 135216 | [135216-super-mario-and-the-cursed-castles.json](./135216-super-mario-and-the-cursed-castles.json) |
 | Super Mario and the Marvel Adventure | 135178 | [135178-super-mario-and-the-marvel-adventure.json](./135178-super-mario-and-the-marvel-adventure.json) |
 | Super Mario and the Monstrous Manor | 280824 | [280824-super-mario-and-the-monstrous-manor.json](./280824-super-mario-and-the-monstrous-manor.json) |
+| Super Mario and the Sacred Bells | 135131 | [135131-super-mario-and-the-sacred-bells.json](./135131-super-mario-and-the-sacred-bells.json) |
 | Super Mario and the Space Base | 356293 | [356293-super-mario-and-the-space-base.json](./356293-super-mario-and-the-space-base.json) |
 | Super Mario Apocalypse | 210596 | [210596-super-mario-apocalypse.json](./210596-super-mario-apocalypse.json) |
 | Super Mario Apocalypse | 210597 | [210597-super-mario-apocalypse.json](./210597-super-mario-apocalypse.json) |
@@ -13427,6 +13432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros: Merry Mountain Christmas Adventure - SMW Christmas Edition V3.0 | 229679 | [229679-super-mario-bros-merry-mountain-christmas-adventure-smw-christmas-edition-v3-0.json](./229679-super-mario-bros-merry-mountain-christmas-adventure-smw-christmas-edition-v3-0.json) |
 | Super Mario Bros: Revenge of Bowser | 250056 | [250056-super-mario-bros-revenge-of-bowser.json](./250056-super-mario-bros-revenge-of-bowser.json) |
 | Super Mario Bros. | 206934 | [206934-super-mario-bros.json](./206934-super-mario-bros.json) |
+| Super Mario Bros. & The Midas Machine | 135098 | [135098-super-mario-bros-and-the-midas-machine.json](./135098-super-mario-bros-and-the-midas-machine.json) |
 | Super Mario Bros. + | 307664 | [307664-super-mario-bros.json](./307664-super-mario-bros.json) |
 | Super Mario Bros. + | 316417 | [316417-super-mario-bros.json](./316417-super-mario-bros.json) |
 | Super Mario Bros. 2 | 222098 | [222098-super-mario-bros-2.json](./222098-super-mario-bros-2.json) |
@@ -13440,6 +13446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. 5 | 318552 | [318552-super-mario-bros-5.json](./318552-super-mario-bros-5.json) |
 | Super Mario Bros. 64 | 135232 | [135232-super-mario-bros-64.json](./135232-super-mario-bros-64.json) |
 | Super Mario Bros. 64 | 150101 | [150101-super-mario-bros-64.json](./150101-super-mario-bros-64.json) |
+| Super Mario Bros. All-Star Quest | 135132 | [135132-super-mario-bros-all-star-quest.json](./135132-super-mario-bros-all-star-quest.json) |
 | Super Mario Bros. Crossover | 8734 | [8734-super-mario-bros-crossover.json](./8734-super-mario-bros-crossover.json) |
 | Super Mario Bros. Deluxe | 49877 | [49877-super-mario-bros-deluxe.json](./49877-super-mario-bros-deluxe.json) |
 | Super Mario Bros. Dimensions | 134074 | [134074-super-mario-bros-dimensions.json](./134074-super-mario-bros-dimensions.json) |
@@ -13528,11 +13535,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Panic | 331984 | [331984-super-mario-panic.json](./331984-super-mario-panic.json) |
 | Super Mario Party | 103339 | [103339-super-mario-party.json](./103339-super-mario-party.json) |
 | Super Mario Party Jamboree: Nintendo Switch 2 Edition + Jamboree TV | 338071 | [338071-super-mario-party-jamboree-nintendo-switch-2-edition-jamboree-tv.json](./338071-super-mario-party-jamboree-nintendo-switch-2-edition-jamboree-tv.json) |
+| Super Mario Pearls of Wisdom | 135095 | [135095-super-mario-pearls-of-wisdom.json](./135095-super-mario-pearls-of-wisdom.json) |
 | Super Mario Place | 273893 | [273893-super-mario-place.json](./273893-super-mario-place.json) |
 | Super Mario Prostate Exam | 323900 | [323900-super-mario-prostate-exam.json](./323900-super-mario-prostate-exam.json) |
 | Super Mario Rampage! | 334881 | [334881-super-mario-rampage.json](./334881-super-mario-rampage.json) |
 | Super Mario RPG 2 | 231474 | [231474-super-mario-rpg-2.json](./231474-super-mario-rpg-2.json) |
 | Super Mario RPG: Armageddon | 215071 | [215071-super-mario-rpg-armageddon.json](./215071-super-mario-rpg-armageddon.json) |
+| Super Mario RPG: Legend of the Five Pendants | 135134 | [135134-super-mario-rpg-legend-of-the-five-pendants.json](./135134-super-mario-rpg-legend-of-the-five-pendants.json) |
 | Super Mario RPG: Legend of the Seven Stars | 5418 | [5418-super-mario-rpg-legend-of-the-seven-stars.json](./5418-super-mario-rpg-legend-of-the-seven-stars.json) |
 | Super Mario RPG: The Seven Sages | 175832 | [175832-super-mario-rpg-the-seven-sages.json](./175832-super-mario-rpg-the-seven-sages.json) |
 | Super Mario RPG: The Starlite Worlds | 175887 | [175887-super-mario-rpg-the-starlite-worlds.json](./175887-super-mario-rpg-the-starlite-worlds.json) |
@@ -13546,6 +13555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Storm I | 324681 | [324681-super-mario-storm-i.json](./324681-super-mario-storm-i.json) |
 | Super Mario Story | 313110 | [313110-super-mario-story.json](./313110-super-mario-story.json) |
 | Super Mario Subpop | 320159 | [320159-super-mario-subpop.json](./320159-super-mario-subpop.json) |
+| Super Mario Sunburn | 135148 | [135148-super-mario-sunburn.json](./135148-super-mario-sunburn.json) |
 | Super Mario Sunshine 64 | 159263 | [159263-super-mario-sunshine-64.json](./159263-super-mario-sunshine-64.json) |
 | Super Mario Sunshine Arcade 2 | 213038 | [213038-super-mario-sunshine-arcade-2.json](./213038-super-mario-sunshine-arcade-2.json) |
 | Super Mario Sunshine in Super Mario 64 | 235173 | [235173-super-mario-sunshine-in-super-mario-64.json](./235173-super-mario-sunshine-in-super-mario-64.json) |
@@ -14232,6 +14242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermodel Gail McKenna | 254502 | [254502-supermodel-gail-mckenna.json](./254502-supermodel-gail-mckenna.json) |
 | SuperMoose | 30757 | [30757-supermoose.json](./30757-supermoose.json) |
 | Supermoves: World of Parkour | 280450 | [280450-supermoves-world-of-parkour.json](./280450-supermoves-world-of-parkour.json) |
+| Supernatural | 135124 | [135124-supernatural.json](./135124-supernatural.json) |
 | Supernatural | 303936 | [303936-supernatural.json](./303936-supernatural.json) |
 | Supernatural Squad | 333395 | [333395-supernatural-squad.json](./333395-supernatural-squad.json) |
 | Supernatural Story | 129714 | [129714-supernatural-story.json](./129714-supernatural-story.json) |
