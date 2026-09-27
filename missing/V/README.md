@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Villain Project | 225638 | [225638-villain-project.json](./225638-villain-project.json) |
 | Villainous | 319976 | [319976-villainous.json](./319976-villainous.json) |
 | Villains Corp. | 252136 | [252136-villains-corp.json](./252136-villains-corp.json) |
+| Villnoire | 143562 | [143562-villnoire.json](./143562-villnoire.json) |
 | Vilmonic | 33104 | [33104-vilmonic.json](./33104-vilmonic.json) |
 | Vilomah | 215672 | [215672-vilomah.json](./215672-vilomah.json) |
 | Vilovejets | 413657 | [413657-vilovejets.json](./413657-vilovejets.json) |
