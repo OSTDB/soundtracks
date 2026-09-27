@@ -1066,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save: Teaser - Before the Dawn | 313463 | [313463-save-teaser-before-the-dawn.json](./313463-save-teaser-before-the-dawn.json) |
 | Saveseeker | 356279 | [356279-saveseeker.json](./356279-saveseeker.json) |
 | Saviner | 383524 | [383524-saviner.json](./383524-saviner.json) |
+| Saving Animals | 148983 | [148983-saving-animals.json](./148983-saving-animals.json) |
 | Saving Astral | 285510 | [285510-saving-astral.json](./285510-saving-astral.json) |
 | Saving Bumblebrook | 410461 | [410461-saving-bumblebrook.json](./410461-saving-bumblebrook.json) |
 | Saving Clicklandia | 295017 | [295017-saving-clicklandia.json](./295017-saving-clicklandia.json) |
@@ -1087,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saviour of the Wasteland | 258959 | [258959-saviour-of-the-wasteland.json](./258959-saviour-of-the-wasteland.json) |
 | Savvy | 410904 | [410904-savvy.json](./410904-savvy.json) |
 | Saw Counter | 347112 | [347112-saw-counter.json](./347112-saw-counter.json) |
+| Saw Hell | 148960 | [148960-saw-hell.json](./148960-saw-hell.json) |
 | Saw II: Flesh & Blood | 7177 | [7177-saw-ii-flesh-and-blood.json](./7177-saw-ii-flesh-and-blood.json) |
 | Saw Lab | 290692 | [290692-saw-lab.json](./290692-saw-lab.json) |
 | Sawblader | 365854 | [365854-sawblader.json](./365854-sawblader.json) |
@@ -3373,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelter of Sursur 2 | 350606 | [350606-shelter-of-sursur-2.json](./350606-shelter-of-sursur-2.json) |
 | Sheltered 2 | 152285 | [152285-sheltered-2.json](./152285-sheltered-2.json) |
 | Sheltered Double Pack | 186885 | [186885-sheltered-double-pack.json](./186885-sheltered-double-pack.json) |
+| Sheltering With You | 148944 | [148944-sheltering-with-you.json](./148944-sheltering-with-you.json) |
 | Shelves and Sorcery: Tidy Up the Enchanted Shop | 411566 | [411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json](./411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json) |
 | Shenanigans | 216736 | [216736-shenanigans.json](./216736-shenanigans.json) |
 | Shenaniganza | 304561 | [304561-shenaniganza.json](./304561-shenaniganza.json) |
@@ -14917,6 +14920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Smash | 244385 | [244385-sword-smash.json](./244385-sword-smash.json) |
 | Sword World PC | 240492 | [240492-sword-world-pc.json](./240492-sword-world-pc.json) |
 | Sword World SFC 2: Inishie no Kyojin Densetsu | 37801 | [37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json](./37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json) |
+| Sword x Hime | 148961 | [148961-sword-x-hime.json](./148961-sword-x-hime.json) |
 | Sword: Depths of the Void | 216193 | [216193-sword-depths-of-the-void.json](./216193-sword-depths-of-the-void.json) |
 | Sword&Magic | 226153 | [226153-sword-and-magic.json](./226153-sword-and-magic.json) |
 | Swordash | 259564 | [259564-swordash.json](./259564-swordash.json) |
