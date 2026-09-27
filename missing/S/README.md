@@ -3727,6 +3727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SHiRO 011 | 97028 | [97028-shiro-011.json](./97028-shiro-011.json) |
 | Shiro Enkai | 379873 | [379873-shiro-enkai.json](./379873-shiro-enkai.json) |
 | Shiro Neko Tennis | 216216 | [216216-shiro-neko-tennis.json](./216216-shiro-neko-tennis.json) |
+| Shiro no Noroi | 150573 | [150573-shiro-no-noroi.json](./150573-shiro-no-noroi.json) |
 | Shiro Project | 138171 | [138171-shiro-project.json](./138171-shiro-project.json) |
 | Shiro Project: Re Castle Defense | 133386 | [133386-shiro-project-re-castle-defense.json](./133386-shiro-project-re-castle-defense.json) |
 | Shiro to Kuro no Alice for Nintendo Switch | 200458 | [200458-shiro-to-kuro-no-alice-for-nintendo-switch.json](./200458-shiro-to-kuro-no-alice-for-nintendo-switch.json) |
@@ -4152,6 +4153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuugoku no Seventh Heim | 221259 | [221259-shuugoku-no-seventh-heim.json](./221259-shuugoku-no-seventh-heim.json) |
 | Shuumatsu no Sugoshikata: The world is drawing to an W/end | 326047 | [326047-shuumatsu-no-sugoshikata-the-world-is-drawing-to-an-w-end.json](./326047-shuumatsu-no-sugoshikata-the-world-is-drawing-to-an-w-end.json) |
 | Shuusou Gyoku | 123608 | [123608-shuusou-gyoku.json](./123608-shuusou-gyoku.json) |
+| Shuutai Headless | 150575 | [150575-shuutai-headless.json](./150575-shuutai-headless.json) |
 | Shuwa no Mori | 254483 | [254483-shuwa-no-mori.json](./254483-shuwa-no-mori.json) |
 | Shuwa Shuwa Guin! | 383940 | [383940-shuwa-shuwa-guin.json](./383940-shuwa-shuwa-guin.json) |
 | ShuXian Chronicles: Idle Ascension | 358471 | [358471-shuxian-chronicles-idle-ascension.json](./358471-shuxian-chronicles-idle-ascension.json) |
@@ -8044,6 +8046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Badminton VR | 29853 | [29853-space-badminton-vr.json](./29853-space-badminton-vr.json) |
 | Space Baller | 133431 | [133431-space-baller.json](./133431-space-baller.json) |
 | Space Ballet | 25758 | [25758-space-ballet.json](./25758-space-ballet.json) |
+| Space Bandit | 150577 | [150577-space-bandit.json](./150577-space-bandit.json) |
 | Space Bar | 411582 | [411582-space-bar.json](./411582-space-bar.json) |
 | Space Bar at the End of the Galaxy | 171005 | [171005-space-bar-at-the-end-of-the-galaxy.json](./171005-space-bar-at-the-end-of-the-galaxy.json) |
 | Space Battalion Alpha | 186194 | [186194-space-battalion-alpha.json](./186194-space-battalion-alpha.json) |
@@ -10087,6 +10090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Pilot | 72613 | [72613-star-pilot.json](./72613-star-pilot.json) |
 | Star Pixie | 153938 | [153938-star-pixie.json](./153938-star-pixie.json) |
 | Star Platinum | 234564 | [234564-star-platinum.json](./234564-star-platinum.json) |
+| Star Point Explorer | 150563 | [150563-star-point-explorer.json](./150563-star-point-explorer.json) |
 | Star Post | 47253 | [47253-star-post.json](./47253-star-post.json) |
 | Star Prince Dress up game | 184061 | [184061-star-prince-dress-up-game.json](./184061-star-prince-dress-up-game.json) |
 | Star Quest | 249861 | [249861-star-quest.json](./249861-star-quest.json) |
@@ -15049,6 +15053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synduality: Echo of Ada - Deluxe Edition | 317828 | [317828-synduality-echo-of-ada-deluxe-edition.json](./317828-synduality-echo-of-ada-deluxe-edition.json) |
 | Synduality: Echo of Ada - Ultimate Edition | 317829 | [317829-synduality-echo-of-ada-ultimate-edition.json](./317829-synduality-echo-of-ada-ultimate-edition.json) |
 | Synergia: Sunrise | 253393 | [253393-synergia-sunrise.json](./253393-synergia-sunrise.json) |
+| Synergism | 150569 | [150569-synergism.json](./150569-synergism.json) |
 | Synergy of Serra | 255644 | [255644-synergy-of-serra.json](./255644-synergy-of-serra.json) |
 | Synergy Strike | 373204 | [373204-synergy-strike.json](./373204-synergy-strike.json) |
 | Synesthesia | 337105 | [337105-synesthesia.json](./337105-synesthesia.json) |
