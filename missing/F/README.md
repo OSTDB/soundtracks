@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Guys: Stunning Sealife Pack | 243664 | [243664-fall-guys-stunning-sealife-pack.json](./243664-fall-guys-stunning-sealife-pack.json) |
 | Fall Guys: Ultimate Knockout - Season 5 | 159046 | [159046-fall-guys-ultimate-knockout-season-5.json](./159046-fall-guys-ultimate-knockout-season-5.json) |
 | Fall Guys: Wildfire Pack | 243683 | [243683-fall-guys-wildfire-pack.json](./243683-fall-guys-wildfire-pack.json) |
+| Fall In Love - My Billionaire Boss | 120870 | [120870-fall-in-love-my-billionaire-boss.json](./120870-fall-in-love-my-billionaire-boss.json) |
 | Fall Jo! | 232047 | [232047-fall-jo.json](./232047-fall-jo.json) |
 | Fall Ninja | 268450 | [268450-fall-ninja.json](./268450-fall-ninja.json) |
 | Fall of Gods | 240763 | [240763-fall-of-gods.json](./240763-fall-of-gods.json) |
@@ -434,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falldown 3D | 254497 | [254497-falldown-3d.json](./254497-falldown-3d.json) |
 | Fallen | 171594 | [171594-fallen.json](./171594-fallen.json) |
 | Fallen Angel: Hell Survival | 258185 | [258185-fallen-angel-hell-survival.json](./258185-fallen-angel-hell-survival.json) |
+| Fallen Angel: The War in Heaven | 120883 | [120883-fallen-angel-the-war-in-heaven.json](./120883-fallen-angel-the-war-in-heaven.json) |
 | Fallen Angels | 275733 | [275733-fallen-angels.json](./275733-fallen-angels.json) |
 | Fallen Beast (Project Ora) | 105748 | [105748-fallen-beast-project-ora.json](./105748-fallen-beast-project-ora.json) |
 | Fallen Bird | 101337 | [101337-fallen-bird.json](./101337-fallen-bird.json) |
