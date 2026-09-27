@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Moon for the Sky | 9974 | [9974-a-moon-for-the-sky.json](./9974-a-moon-for-the-sky.json) |
 | A Moth Argent | 135835 | [135835-a-moth-argent.json](./135835-a-moth-argent.json) |
 | A Murder of Crows | 261846 | [261846-a-murder-of-crows.json](./261846-a-murder-of-crows.json) |
+| A Museum of Self & Space | 148950 | [148950-a-museum-of-self-and-space.json](./148950-a-museum-of-self-and-space.json) |
 | A Musical Story: Digital Deluxe Edition | 193735 | [193735-a-musical-story-digital-deluxe-edition.json](./193735-a-musical-story-digital-deluxe-edition.json) |
 | A Mystic Journey With: Aria | 392957 | [392957-a-mystic-journey-with-aria.json](./392957-a-mystic-journey-with-aria.json) |
 | A Mystic Journey With: Nova | 392947 | [392947-a-mystic-journey-with-nova.json](./392947-a-mystic-journey-with-nova.json) |
@@ -1480,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of History II | 188228 | [188228-age-of-history-ii.json](./188228-age-of-history-ii.json) |
 | Age of History II: Definitive Edition | 399162 | [399162-age-of-history-ii-definitive-edition.json](./399162-age-of-history-ii-definitive-edition.json) |
 | Age of Jura | 169803 | [169803-age-of-jura.json](./169803-age-of-jura.json) |
+| Age of Legion | 148968 | [148968-age-of-legion.json](./148968-age-of-legion.json) |
 | Age of Mythology: Tale of the Dragon | 13186 | [13186-age-of-mythology-tale-of-the-dragon.json](./13186-age-of-mythology-tale-of-the-dragon.json) |
 | Age of Reforging: The Freelands | 171364 | [171364-age-of-reforging-the-freelands.json](./171364-age-of-reforging-the-freelands.json) |
 | Age of Sokoban | 152157 | [152157-age-of-sokoban.json](./152157-age-of-sokoban.json) |
@@ -2663,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allrams Höjdarspel | 383025 | [383025-allrams-hojdarspel.json](./383025-allrams-hojdarspel.json) |
 | Allumeria | 362894 | [362894-allumeria.json](./362894-allumeria.json) |
 | Alluna and Brie | 117033 | [117033-alluna-and-brie.json](./117033-alluna-and-brie.json) |
+| Allura: The Three Realms | 148970 | [148970-allura-the-three-realms.json](./148970-allura-the-three-realms.json) |
 | Alma | 80915 | [80915-alma.json](./80915-alma.json) |
 | Almanaque Recreio | 227215 | [227215-almanaque-recreio.json](./227215-almanaque-recreio.json) |
 | Almari | 167076 | [167076-almari.json](./167076-almari.json) |
@@ -3449,6 +3452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andromeda Six: Team Time with Oppo | 256361 | [256361-andromeda-six-team-time-with-oppo.json](./256361-andromeda-six-team-time-with-oppo.json) |
 | Andromeda Survivors | 219677 | [219677-andromeda-survivors.json](./219677-andromeda-survivors.json) |
 | Andromeda Zombies Colonies | 233221 | [233221-andromeda-zombies-colonies.json](./233221-andromeda-zombies-colonies.json) |
+| Andromeda: Rebirth of Humanity | 148973 | [148973-andromeda-rebirth-of-humanity.json](./148973-andromeda-rebirth-of-humanity.json) |
 | Andromis | 377085 | [377085-andromis.json](./377085-andromis.json) |
 | Andromium | 94740 | [94740-andromium.json](./94740-andromium.json) |
 | Andy Blast vs. The Forces of Evil | 291772 | [291772-andy-blast-vs-the-forces-of-evil.json](./291772-andy-blast-vs-the-forces-of-evil.json) |
@@ -4457,6 +4461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua TV | 80908 | [80908-aqua-tv.json](./80908-aqua-tv.json) |
 | Aquablast | 14262 | [14262-aquablast.json](./14262-aquablast.json) |
 | AquaBlitz: Alien Racer | 298689 | [298689-aquablitz-alien-racer.json](./298689-aquablitz-alien-racer.json) |
+| Aquacity | 148956 | [148956-aquacity.json](./148956-aquacity.json) |
 | Aquaculture Land: Fish Farming Simulation | 111859 | [111859-aquaculture-land-fish-farming-simulation.json](./111859-aquaculture-land-fish-farming-simulation.json) |
 | Aquaculture Simulator | 413032 | [413032-aquaculture-simulator.json](./413032-aquaculture-simulator.json) |
 | AquaDark | 322136 | [322136-aquadark.json](./322136-aquadark.json) |
@@ -4925,6 +4930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archeland | 206221 | [206221-archeland.json](./206221-archeland.json) |
 | Archen Broom Game | 402366 | [402366-archen-broom-game.json](./402366-archen-broom-game.json) |
 | Archenemy: Lunafall | 216472 | [216472-archenemy-lunafall.json](./216472-archenemy-lunafall.json) |
+| Archeologist Simulator | 148988 | [148988-archeologist-simulator.json](./148988-archeologist-simulator.json) |
 | Archeon CD-i Quiz | 217996 | [217996-archeon-cd-i-quiz.json](./217996-archeon-cd-i-quiz.json) |
 | Archer boy | 158076 | [158076-archer-boy.json](./158076-archer-boy.json) |
 | Archer Guardian VR : The Chapter Zero | 30770 | [30770-archer-guardian-vr-the-chapter-zero.json](./30770-archer-guardian-vr-the-chapter-zero.json) |
