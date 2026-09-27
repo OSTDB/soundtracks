@@ -1308,8 +1308,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Backrooms Anomaly | 348462 | [348462-dead-by-backrooms-anomaly.json](./348462-dead-by-backrooms-anomaly.json) |
 | Dead by Daylight: A Binding of Kin Chapter | 168867 | [168867-dead-by-daylight-a-binding-of-kin-chapter.json](./168867-dead-by-daylight-a-binding-of-kin-chapter.json) |
 | Dead by Daylight: A Lullaby for the Dark Chapter | 76224 | [76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json](./76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json) |
+| Dead by Daylight: All-Kill Chapter | 154346 | [154346-dead-by-daylight-all-kill-chapter.json](./154346-dead-by-daylight-all-kill-chapter.json) |
 | Dead by Daylight: Castlevania Chapter | 300809 | [300809-dead-by-daylight-castlevania-chapter.json](./300809-dead-by-daylight-castlevania-chapter.json) |
 | Dead by Daylight: Chucky Chapter | 278424 | [278424-dead-by-daylight-chucky-chapter.json](./278424-dead-by-daylight-chucky-chapter.json) |
+| Dead by Daylight: Descend Beyond Chapter | 154345 | [154345-dead-by-daylight-descend-beyond-chapter.json](./154345-dead-by-daylight-descend-beyond-chapter.json) |
 | Dead by Daylight: Dungeons & Dragons | 300798 | [300798-dead-by-daylight-dungeons-and-dragons.json](./300798-dead-by-daylight-dungeons-and-dragons.json) |
 | Dead by Daylight: Five Nights at Freddy's | 350030 | [350030-dead-by-daylight-five-nights-at-freddys.json](./350030-dead-by-daylight-five-nights-at-freddys.json) |
 | Dead by Daylight: Gold Edition | 282124 | [282124-dead-by-daylight-gold-edition.json](./282124-dead-by-daylight-gold-edition.json) |
@@ -1574,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadfall Adventures: Deluxe Edition | 52868 | [52868-deadfall-adventures-deluxe-edition.json](./52868-deadfall-adventures-deluxe-edition.json) |
 | Deadfall Adventures: Heart of Atlantis | 52182 | [52182-deadfall-adventures-heart-of-atlantis.json](./52182-deadfall-adventures-heart-of-atlantis.json) |
 | Deadfall Tropics | 99644 | [99644-deadfall-tropics.json](./99644-deadfall-tropics.json) |
+| DeadFright | 154429 | [154429-deadfright.json](./154429-deadfright.json) |
 | Deadhikers | 385565 | [385565-deadhikers.json](./385565-deadhikers.json) |
 | Deadhunt | 33709 | [33709-deadhunt.json](./33709-deadhunt.json) |
 | Deadland 4000 | 194427 | [194427-deadland-4000.json](./194427-deadland-4000.json) |
@@ -2094,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sea Marble Pop | 146901 | [146901-deep-sea-marble-pop.json](./146901-deep-sea-marble-pop.json) |
 | Deep Sea Puzzle | 382453 | [382453-deep-sea-puzzle.json](./382453-deep-sea-puzzle.json) |
 | Deep Sea Valentine | 143485 | [143485-deep-sea-valentine.json](./143485-deep-sea-valentine.json) |
+| Deep Sky Derelicts: Station Life | 154419 | [154419-deep-sky-derelicts-station-life.json](./154419-deep-sky-derelicts-station-life.json) |
 | Deep Sleep | 185125 | [185125-deep-sleep.json](./185125-deep-sleep.json) |
 | Deep Snow Delivery | 320396 | [320396-deep-snow-delivery.json](./320396-deep-snow-delivery.json) |
 | Deep Soup | 406707 | [406707-deep-soup.json](./406707-deep-soup.json) |
@@ -5005,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Stand Out | 90134 | [90134-dont-stand-out.json](./90134-dont-stand-out.json) |
 | Don't Stare | 153936 | [153936-dont-stare.json](./153936-dont-stare.json) |
 | Don't Starve Elsewhere | 397822 | [397822-dont-starve-elsewhere.json](./397822-dont-starve-elsewhere.json) |
+| Don't Starve: Console Edition | 154347 | [154347-dont-starve-console-edition.json](./154347-dont-starve-console-edition.json) |
 | Don't Starve: Pocket Edition | 86925 | [86925-dont-starve-pocket-edition.json](./86925-dont-starve-pocket-edition.json) |
 | Don't Stop Corocco | 151663 | [151663-dont-stop-corocco.json](./151663-dont-stop-corocco.json) |
 | Don't Stop You'll Die | 211794 | [211794-dont-stop-youll-die.json](./211794-dont-stop-youll-die.json) |
@@ -6308,6 +6313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadrun | 295805 | [295805-dreadrun.json](./295805-dreadrun.json) |
 | Dreadshot | 292520 | [292520-dreadshot.json](./292520-dreadshot.json) |
 | Dreadsite Survival | 288370 | [288370-dreadsite-survival.json](./288370-dreadsite-survival.json) |
+| Dreadstone: The Immortal Prisoner | 154351 | [154351-dreadstone-the-immortal-prisoner.json](./154351-dreadstone-the-immortal-prisoner.json) |
 | Dreadtome | 349884 | [349884-dreadtome.json](./349884-dreadtome.json) |
 | Dreadway | 321577 | [321577-dreadway.json](./321577-dreadway.json) |
 | DreadWood | 184110 | [184110-dreadwood.json](./184110-dreadwood.json) |
@@ -7067,6 +7073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duelant | 311456 | [311456-duelant.json](./311456-duelant.json) |
 | Dueling Dragons | 183566 | [183566-dueling-dragons.json](./183566-dueling-dragons.json) |
 | Dueling Drums | 341466 | [341466-dueling-drums.json](./341466-dueling-drums.json) |
+| Duelist | 154349 | [154349-duelist.json](./154349-duelist.json) |
 | Duelite | 303496 | [303496-duelite.json](./303496-duelite.json) |
 | Duels Kings | 227834 | [227834-duels-kings.json](./227834-duels-kings.json) |
 | DuelVox | 155574 | [155574-duelvox.json](./155574-duelvox.json) |
