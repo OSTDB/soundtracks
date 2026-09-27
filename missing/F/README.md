@@ -1437,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fava Beans | 252212 | [252212-fava-beans.json](./252212-fava-beans.json) |
 | Favela Defender | 347229 | [347229-favela-defender.json](./347229-favela-defender.json) |
 | Favillesco Episode 1: Genuflected on Io | 313853 | [313853-favillesco-episode-1-genuflected-on-io.json](./313853-favillesco-episode-1-genuflected-on-io.json) |
+| Favo!+ | 126527 | [126527-favo.json](./126527-favo.json) |
 | Favor | 301373 | [301373-favor.json](./301373-favor.json) |
 | Favorite Dear | 63532 | [63532-favorite-dear.json](./63532-favorite-dear.json) |
 | Favorite Dear: Enkan no Monogatari | 63530 | [63530-favorite-dear-enkan-no-monogatari.json](./63530-favorite-dear-enkan-no-monogatari.json) |
@@ -2610,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firework Survivor | 283843 | [283843-firework-survivor.json](./283843-firework-survivor.json) |
 | Firework Syndrome | 310756 | [310756-firework-syndrome.json](./310756-firework-syndrome.json) |
 | Fireworks Extravaganza | 57611 | [57611-fireworks-extravaganza.json](./57611-fireworks-extravaganza.json) |
+| Fireworks Mania | 126512 | [126512-fireworks-mania.json](./126512-fireworks-mania.json) |
 | Fireworks Simulator: Realistic | 169400 | [169400-fireworks-simulator-realistic.json](./169400-fireworks-simulator-realistic.json) |
 | Firezone | 74397 | [74397-firezone.json](./74397-firezone.json) |
 | Firmament Wars | 104042 | [104042-firmament-wars.json](./104042-firmament-wars.json) |
@@ -4939,6 +4941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frenzy Freak Fantasy | 370198 | [370198-frenzy-freak-fantasy.json](./370198-frenzy-freak-fantasy.json) |
 | Frenzy Plants | 122187 | [122187-frenzy-plants.json](./122187-frenzy-plants.json) |
 | Frequency Dissonance | 199120 | [199120-frequency-dissonance.json](./199120-frequency-dissonance.json) |
+| Frequency Garden | 126522 | [126522-frequency-garden.json](./126522-frequency-garden.json) |
 | Frequency Sync | 130241 | [130241-frequency-sync.json](./130241-frequency-sync.json) |
 | Fresh Merchandise | 136366 | [136366-fresh-merchandise.json](./136366-fresh-merchandise.json) |
 | Fresh Milk For Mars | 295838 | [295838-fresh-milk-for-mars.json](./295838-fresh-milk-for-mars.json) |
