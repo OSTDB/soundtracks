@@ -3703,6 +3703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PL4no-B | 340583 | [340583-pl4no-b.json](./340583-pl4no-b.json) |
 | Placards | 84815 | [84815-placards.json](./84815-placards.json) |
 | Place & Learn 19×19 Mental Math | 409550 | [409550-place-and-learn-19-19-mental-math.json](./409550-place-and-learn-19-19-mental-math.json) |
+| Place for Hero | 153907 | [153907-place-for-hero.json](./153907-place-for-hero.json) |
 | Place Icebergs Apart | 318190 | [318190-place-icebergs-apart.json](./318190-place-icebergs-apart.json) |
 | Placebo Love | 150074 | [150074-placebo-love.json](./150074-placebo-love.json) |
 | Placefront | 170322 | [170322-placefront.json](./170322-placefront.json) |
