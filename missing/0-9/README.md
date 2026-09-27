@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3on3 FreeStyle: Battle Pass 2023 Autumn Bundle Part 1 | 269049 | [269049-3on3-freestyle-battle-pass-2023-autumn-bundle-part-1.json](./269049-3on3-freestyle-battle-pass-2023-autumn-bundle-part-1.json) |
 | 3on3 FreeStyle: Battle Pass 2023 Autumn Bundle Part 2 | 276857 | [276857-3on3-freestyle-battle-pass-2023-autumn-bundle-part-2.json](./276857-3on3-freestyle-battle-pass-2023-autumn-bundle-part-2.json) |
 | 3on3 FreeStyle: Battle Pass 2023 Autumn Part 2 | 276858 | [276858-3on3-freestyle-battle-pass-2023-autumn-part-2.json](./276858-3on3-freestyle-battle-pass-2023-autumn-part-2.json) |
+| 3on3 FreeStyle: Rebound | 135748 | [135748-3on3-freestyle-rebound.json](./135748-3on3-freestyle-rebound.json) |
 | 3rd Degree | 45948 | [45948-3rd-degree.json](./45948-3rd-degree.json) |
 | 3rd World Farmer | 56460 | [56460-3rd-world-farmer.json](./56460-3rd-world-farmer.json) |
 | 3Souls | 26407 | [26407-3souls.json](./26407-3souls.json) |
@@ -1146,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Ball Pool | 293238 | [293238-8-ball-pool.json](./293238-8-ball-pool.json) |
 | 8-Bit Adventures 2 | 74653 | [74653-8-bit-adventures-2.json](./74653-8-bit-adventures-2.json) |
 | 8-Bit Armies: Arena | 27333 | [27333-8-bit-armies-arena.json](./27333-8-bit-armies-arena.json) |
+| 8-Bit Attack | 135766 | [135766-8-bit-attack.json](./135766-8-bit-attack.json) |
 | 8-Bit Buccaneer | 176808 | [176808-8-bit-buccaneer.json](./176808-8-bit-buccaneer.json) |
 | 8-Bit Complete Collection | 52540 | [52540-8-bit-complete-collection.json](./52540-8-bit-complete-collection.json) |
 | 8-Bit Farm | 56729 | [56729-8-bit-farm.json](./56729-8-bit-farm.json) |
