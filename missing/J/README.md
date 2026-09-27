@@ -445,6 +445,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jennifer's Lustful Journey | 340771 | [340771-jennifers-lustful-journey.json](./340771-jennifers-lustful-journey.json) |
 | Jenny's Fish Shop | 177044 | [177044-jennys-fish-shop.json](./177044-jennys-fish-shop.json) |
 | Jeonsa Ryan | 145590 | [145590-jeonsa-ryan.json](./145590-jeonsa-ryan.json) |
+| Jeopardy! | 131471 | [131471-jeopardy.json](./131471-jeopardy.json) |
+| Jeopardy! | 131472 | [131472-jeopardy.json](./131472-jeopardy.json) |
 | Jeopardy! | 131547 | [131547-jeopardy.json](./131547-jeopardy.json) |
 | Jeopardy! | 146802 | [146802-jeopardy.json](./146802-jeopardy.json) |
 | Jeopardy! | 220095 | [220095-jeopardy.json](./220095-jeopardy.json) |
