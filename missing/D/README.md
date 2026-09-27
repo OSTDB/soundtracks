@@ -2984,6 +2984,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Lightfall - Season of the Deep | 250021 | [250021-destiny-2-lightfall-season-of-the-deep.json](./250021-destiny-2-lightfall-season-of-the-deep.json) |
 | Destiny 2: Limited Edition | 132151 | [132151-destiny-2-limited-edition.json](./132151-destiny-2-limited-edition.json) |
 | Destiny 2: Season of the Splicer Silver Bundle | 147893 | [147893-destiny-2-season-of-the-splicer-silver-bundle.json](./147893-destiny-2-season-of-the-splicer-silver-bundle.json) |
+| Destiny 2: Shadowkeep - Season of Arrivals | 135150 | [135150-destiny-2-shadowkeep-season-of-arrivals.json](./135150-destiny-2-shadowkeep-season-of-arrivals.json) |
+| Destiny 2: Shadowkeep - Season of the Worthy | 135147 | [135147-destiny-2-shadowkeep-season-of-the-worthy.json](./135147-destiny-2-shadowkeep-season-of-the-worthy.json) |
 | Destiny 2: The Witch Queen - Season of the Seraph | 228435 | [228435-destiny-2-the-witch-queen-season-of-the-seraph.json](./228435-destiny-2-the-witch-queen-season-of-the-seraph.json) |
 | Destiny 2: Warmind | 97258 | [97258-destiny-2-warmind.json](./97258-destiny-2-warmind.json) |
 | Destiny Chaser | 114413 | [114413-destiny-chaser.json](./114413-destiny-chaser.json) |
