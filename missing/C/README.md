@@ -2270,6 +2270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Rally | 250300 | [250300-championship-rally.json](./250300-championship-rally.json) |
 | Championship Rugby Manager | 71223 | [71223-championship-rugby-manager.json](./71223-championship-rugby-manager.json) |
 | Championship Soccer | 46882 | [46882-championship-soccer.json](./46882-championship-soccer.json) |
+| Championship Soccer '94 | 165410 | [165410-championship-soccer-94.json](./165410-championship-soccer-94.json) |
 | Championship Wrestling | 13827 | [13827-championship-wrestling.json](./13827-championship-wrestling.json) |
 | Championship Wrestling Promoter | 199124 | [199124-championship-wrestling-promoter.json](./199124-championship-wrestling-promoter.json) |
 | ChampionsTCG | 273920 | [273920-championstcg.json](./273920-championstcg.json) |
@@ -7210,6 +7211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossover Collab | 379890 | [379890-crossover-collab.json](./379890-crossover-collab.json) |
 | CrossOver: Roll For Initiative | 202861 | [202861-crossover-roll-for-initiative.json](./202861-crossover-roll-for-initiative.json) |
 | Crossovers by Powgi | 117488 | [117488-crossovers-by-powgi.json](./117488-crossovers-by-powgi.json) |
+| CrossPlanet | 165433 | [165433-crossplanet.json](./165433-crossplanet.json) |
 | Crossroad Crisis | 43739 | [43739-crossroad-crisis.json](./43739-crossroad-crisis.json) |
 | Crossroad of Worlds: Cursed Letters - Collector's Edition | 257434 | [257434-crossroad-of-worlds-cursed-letters-collectors-edition.json](./257434-crossroad-of-worlds-cursed-letters-collectors-edition.json) |
 | Crossroad of Worlds: Magic Stars | 417711 | [417711-crossroad-of-worlds-magic-stars.json](./417711-crossroad-of-worlds-magic-stars.json) |
@@ -7259,6 +7261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowded Dungeon Crawler | 182993 | [182993-crowded-dungeon-crawler.json](./182993-crowded-dungeon-crawler.json) |
 | Crowded Mysteries 2: Winter Romance | 320334 | [320334-crowded-mysteries-2-winter-romance.json](./320334-crowded-mysteries-2-winter-romance.json) |
 | Crowfall | 1126 | [1126-crowfall.json](./1126-crowfall.json) |
+| CrowKart | 165443 | [165443-crowkart.json](./165443-crowkart.json) |
 | Crown | 12415 | [12415-crown.json](./12415-crown.json) |
 | Crown | 146111 | [146111-crown.json](./146111-crown.json) |
 | Crown & Cauldron | 184921 | [184921-crown-and-cauldron.json](./184921-crown-and-cauldron.json) |
@@ -7673,6 +7676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Way | 75902 | [75902-cube-way.json](./75902-cube-way.json) |
 | Cube World | 195215 | [195215-cube-world.json](./195215-cube-world.json) |
 | Cube Zoid | 176466 | [176466-cube-zoid.json](./176466-cube-zoid.json) |
+| Cube-e 2 | 165415 | [165415-cube-e-2.json](./165415-cube-e-2.json) |
 | Cube: Gardens of Zen | 69210 | [69210-cube-gardens-of-zen.json](./69210-cube-gardens-of-zen.json) |
 | Cube's Kaizo World | 338841 | [338841-cubes-kaizo-world.json](./338841-cubes-kaizo-world.json) |
 | Cube's Kaizo World 2 | 338842 | [338842-cubes-kaizo-world-2.json](./338842-cubes-kaizo-world-2.json) |
