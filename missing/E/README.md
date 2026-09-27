@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth's Last Defense | 182535 | [182535-earths-last-defense.json](./182535-earths-last-defense.json) |
 | Earthborne | 303054 | [303054-earthborne.json](./303054-earthborne.json) |
 | EarthBound 3 | 323282 | [323282-earthbound-3.json](./323282-earthbound-3.json) |
+| EarthBound 64 | 133324 | [133324-earthbound-64.json](./133324-earthbound-64.json) |
 | EarthBound 64 Experience | 238206 | [238206-earthbound-64-experience.json](./238206-earthbound-64-experience.json) |
 | EarthBound Beginnings | 11191 | [11191-earthbound-beginnings.json](./11191-earthbound-beginnings.json) |
 | EarthBound Dimensions | 311281 | [311281-earthbound-dimensions.json](./311281-earthbound-dimensions.json) |
