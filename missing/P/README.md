@@ -5351,6 +5351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Apo Tycoon | 347883 | [347883-post-apo-tycoon.json](./347883-post-apo-tycoon.json) |
 | Post Apocalypse | 130355 | [130355-post-apocalypse.json](./130355-post-apocalypse.json) |
 | Post Apocalyptic Mayhem | 16229 | [16229-post-apocalyptic-mayhem.json](./16229-post-apocalyptic-mayhem.json) |
+| Post Cards | 142994 | [142994-post-cards.json](./142994-post-cards.json) |
 | Post Ghost | 307717 | [307717-post-ghost.json](./307717-post-ghost.json) |
 | Post Hero | 239923 | [239923-post-hero.json](./239923-post-hero.json) |
 | Post Impact | 395188 | [395188-post-impact.json](./395188-post-impact.json) |
@@ -7290,6 +7291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push The Squares | 262076 | [262076-push-the-squares.json](./262076-push-the-squares.json) |
 | Push to Win | 352394 | [352394-push-to-win.json](./352394-push-to-win.json) |
 | Push-Up T-Rex | 243709 | [243709-push-up-t-rex.json](./243709-push-up-t-rex.json) |
+| Push: Griefing Made Legal | 142935 | [142935-push-griefing-made-legal.json](./142935-push-griefing-made-legal.json) |
 | Push:Block | 118951 | [118951-push-block.json](./118951-push-block.json) |
 | Push'n Pull | 361740 | [361740-pushn-pull.json](./361740-pushn-pull.json) |
 | Pushamo | 152281 | [152281-pushamo.json](./152281-pushamo.json) |
