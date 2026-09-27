@@ -4200,6 +4200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Memories | 324493 | [324493-forgotten-memories.json](./324493-forgotten-memories.json) |
 | Forgotten Memories | 326204 | [326204-forgotten-memories.json](./326204-forgotten-memories.json) |
 | Forgotten Memories: Definitive Edition | 207858 | [207858-forgotten-memories-definitive-edition.json](./207858-forgotten-memories-definitive-edition.json) |
+| Forgotten Passages | 127164 | [127164-forgotten-passages.json](./127164-forgotten-passages.json) |
 | Forgotten Places: Regained Castle | 81630 | [81630-forgotten-places-regained-castle.json](./81630-forgotten-places-regained-castle.json) |
 | Forgotten Playland: Party Edition | 392803 | [392803-forgotten-playland-party-edition.json](./392803-forgotten-playland-party-edition.json) |
 | Forgotten Possessions | 392775 | [392775-forgotten-possessions.json](./392775-forgotten-possessions.json) |
