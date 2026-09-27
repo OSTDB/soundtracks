@@ -2445,6 +2445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Spidy: Between a Rock and a Hard Place | 9966 | [9966-alien-spidy-between-a-rock-and-a-hard-place.json](./9966-alien-spidy-between-a-rock-and-a-hard-place.json) |
 | Alien Spidy: Easy Breezy | 9967 | [9967-alien-spidy-easy-breezy.json](./9967-alien-spidy-easy-breezy.json) |
 | Alien Storm | 9969 | [9969-alien-storm.json](./9969-alien-storm.json) |
+| Alien street battle | 129675 | [129675-alien-street-battle.json](./129675-alien-street-battle.json) |
 | Alien Strike | 76228 | [76228-alien-strike.json](./76228-alien-strike.json) |
 | Alien Survivors: To Starship Resurrection | 300768 | [300768-alien-survivors-to-starship-resurrection.json](./300768-alien-survivors-to-starship-resurrection.json) |
 | Alien Swarm | 7598 | [7598-alien-swarm.json](./7598-alien-swarm.json) |
@@ -3352,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Ordinary Sonic ROM Hack | 129178 | [129178-an-ordinary-sonic-rom-hack.json](./129178-an-ordinary-sonic-rom-hack.json) |
 | An Un-epic story: The adventure of Enki and Tiny Freddie | 174093 | [174093-an-un-epic-story-the-adventure-of-enki-and-tiny-freddie.json](./174093-an-un-epic-story-the-adventure-of-enki-and-tiny-freddie.json) |
 | An Unnamed Jumping Game | 321750 | [321750-an-unnamed-jumping-game.json](./321750-an-unnamed-jumping-game.json) |
+| An Update is Pending | 129651 | [129651-an-update-is-pending.json](./129651-an-update-is-pending.json) |
 | Ana'Adventure | 357430 | [357430-anaadventure.json](./357430-anaadventure.json) |
 | Anachroma | 211404 | [211404-anachroma.json](./211404-anachroma.json) |
 | Anachron | 377084 | [377084-anachron.json](./377084-anachron.json) |
@@ -3841,6 +3843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animdle | 337097 | [337097-animdle.json](./337097-animdle.json) |
 | Anime and Your Life | 111778 | [111778-anime-and-your-life.json](./111778-anime-and-your-life.json) |
 | Anime Artist | 280177 | [280177-anime-artist.json](./280177-anime-artist.json) |
+| Anime Artist 2: Lovely Danya | 129685 | [129685-anime-artist-2-lovely-danya.json](./129685-anime-artist-2-lovely-danya.json) |
 | Anime Artist 3: Harem | 158160 | [158160-anime-artist-3-harem.json](./158160-anime-artist-3-harem.json) |
 | Anime Beauty Girl Puzzle: Love Game History Adventure | 252699 | [252699-anime-beauty-girl-puzzle-love-game-history-adventure.json](./252699-anime-beauty-girl-puzzle-love-game-history-adventure.json) |
 | Anime Bowling Babes | 24997 | [24997-anime-bowling-babes.json](./24997-anime-bowling-babes.json) |
@@ -6134,6 +6137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids... But Roguelite | 168640 | [168640-asteroids-but-roguelite.json](./168640-asteroids-but-roguelite.json) |
 | Asteroids++ | 178978 | [178978-asteroids.json](./178978-asteroids.json) |
 | AsteroidsHD | 18174 | [18174-asteroidshd.json](./18174-asteroidshd.json) |
+| Asterook | 129654 | [129654-asterook.json](./129654-asterook.json) |
 | Asteros | 304681 | [304681-asteros.json](./304681-asteros.json) |
 | Asthenia | 381637 | [381637-asthenia.json](./381637-asthenia.json) |
 | Astlibra Gaiden: The Cave of Phantom Mist | 395862 | [395862-astlibra-gaiden-the-cave-of-phantom-mist.json](./395862-astlibra-gaiden-the-cave-of-phantom-mist.json) |
@@ -6141,6 +6145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aston Villa Club Football | 267891 | [267891-aston-villa-club-football.json](./267891-aston-villa-club-football.json) |
 | Aston Villa Club Football 2005 | 267895 | [267895-aston-villa-club-football-2005.json](./267895-aston-villa-club-football-2005.json) |
 | Astonia 3 | 57661 | [57661-astonia-3.json](./57661-astonia-3.json) |
+| Astonia: The Return of Yendor | 129670 | [129670-astonia-the-return-of-yendor.json](./129670-astonia-the-return-of-yendor.json) |
 | Astonishia VS | 61577 | [61577-astonishia-vs.json](./61577-astonishia-vs.json) |
 | Astonishing Baseball 20 | 133470 | [133470-astonishing-baseball-20.json](./133470-astonishing-baseball-20.json) |
 | Astonishing Baseball 2019 | 119695 | [119695-astonishing-baseball-2019.json](./119695-astonishing-baseball-2019.json) |
