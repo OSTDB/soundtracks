@@ -2656,6 +2656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Trouble on Tribuda Island | 236281 | [236281-little-trouble-on-tribuda-island.json](./236281-little-trouble-on-tribuda-island.json) |
 | Little Troubles in Spooky Town | 416076 | [416076-little-troubles-in-spooky-town.json](./416076-little-troubles-in-spooky-town.json) |
 | Little Trus Man | 62412 | [62412-little-trus-man.json](./62412-little-trus-man.json) |
+| Little Vampire | 132718 | [132718-little-vampire.json](./132718-little-vampire.json) |
 | Little Walker | 33388 | [33388-little-walker.json](./33388-little-walker.json) |
 | Little Warlings | 181763 | [181763-little-warlings.json](./181763-little-warlings.json) |
 | Little Weasel | 309485 | [309485-little-weasel.json](./309485-little-weasel.json) |
