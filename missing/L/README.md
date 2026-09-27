@@ -4265,11 +4265,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxury House Renovation | 114960 | [114960-luxury-house-renovation.json](./114960-luxury-house-renovation.json) |
 | Lǜyěxiānzōng | 320152 | [320152-luyexianzong.json](./320152-luyexianzong.json) |
 | LV99: Final Fortress | 140592 | [140592-lv99-final-fortress.json](./140592-lv99-final-fortress.json) |
+| LVL99: AxeRage | 125917 | [125917-lvl99-axerage.json](./125917-lvl99-axerage.json) |
 | LXD: Red Honey | 305877 | [305877-lxd-red-honey.json](./305877-lxd-red-honey.json) |
 | Lyantei | 114993 | [114993-lyantei.json](./114993-lyantei.json) |
 | Lyca | 332032 | [332032-lyca.json](./332032-lyca.json) |
 | Lycah | 51739 | [51739-lycah.json](./51739-lycah.json) |
 | Lycanthorn III | 239592 | [239592-lycanthorn-iii.json](./239592-lycanthorn-iii.json) |
+| Lychnis | 125923 | [125923-lychnis.json](./125923-lychnis.json) |
 | Lycoris;Lastwords | 319732 | [319732-lycoris-lastwords.json](./319732-lycoris-lastwords.json) |
 | Lydia: Sweet Dreams | 33409 | [33409-lydia-sweet-dreams.json](./33409-lydia-sweet-dreams.json) |
 | Lydia's Labyrinth | 318537 | [318537-lydias-labyrinth.json](./318537-lydias-labyrinth.json) |
