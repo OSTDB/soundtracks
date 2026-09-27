@@ -3262,6 +3262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lose Control | 178632 | [178632-lose-control.json](./178632-lose-control.json) |
 | Lose Grace Tale | 358478 | [358478-lose-grace-tale.json](./358478-lose-grace-tale.json) |
 | Lose Your Head | 179125 | [179125-lose-your-head.json](./179125-lose-your-head.json) |
+| Lose Your Head Deluxe Bundle | 164810 | [164810-lose-your-head-deluxe-bundle.json](./164810-lose-your-head-deluxe-bundle.json) |
 | Lose Your Marbles | 362334 | [362334-lose-your-marbles.json](./362334-lose-your-marbles.json) |
 | Lose Your Marbles | 70330 | [70330-lose-your-marbles.json](./70330-lose-your-marbles.json) |
 | Lose/Lose | 201150 | [201150-lose-lose.json](./201150-lose-lose.json) |
