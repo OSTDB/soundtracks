@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Tsuku: Is the order a Heart? | 204711 | [204711-cafe-tsuku-is-the-order-a-heart.json](./204711-cafe-tsuku-is-the-order-a-heart.json) |
 | Cafe Venus Flytrap | 247458 | [247458-cafe-venus-flytrap.json](./247458-cafe-venus-flytrap.json) |
 | Cafeland: Restaurant Cooking | 233478 | [233478-cafeland-restaurant-cooking.json](./233478-cafeland-restaurant-cooking.json) |
+| Cafeland: World Kitchen | 120253 | [120253-cafeland-world-kitchen.json](./120253-cafeland-world-kitchen.json) |
 | Cafeteria Nipponica | 22323 | [22323-cafeteria-nipponica.json](./22323-cafeteria-nipponica.json) |
 | Cafeworld | 177027 | [177027-cafeworld.json](./177027-cafeworld.json) |
 | Cage Fight | 257406 | [257406-cage-fight.json](./257406-cage-fight.json) |
@@ -150,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cage-Face: Case 2 - The Sewer | 193432 | [193432-cage-face-case-2-the-sewer.json](./193432-cage-face-case-2-the-sewer.json) |
 | Cagebreak | 60568 | [60568-cagebreak.json](./60568-cagebreak.json) |
 | Caged Bird Don't Fly Caught in a Wire Sing Like a Good Canary Come When Called | 122335 | [122335-caged-bird-dont-fly-caught-in-a-wire-sing-like-a-good-canary-come-when-called.json](./122335-caged-bird-dont-fly-caught-in-a-wire-sing-like-a-good-canary-come-when-called.json) |
+| Caged Garden Cock Robin | 120259 | [120259-caged-garden-cock-robin.json](./120259-caged-garden-cock-robin.json) |
 | Cages: Hidden Worlds | 406114 | [406114-cages-hidden-worlds.json](./406114-cages-hidden-worlds.json) |
 | Cahier de Vacances pour Adultes | 269673 | [269673-cahier-de-vacances-pour-adultes.json](./269673-cahier-de-vacances-pour-adultes.json) |
 | Cahier de Vacances pour Adultes 2 | 269674 | [269674-cahier-de-vacances-pour-adultes-2.json](./269674-cahier-de-vacances-pour-adultes-2.json) |
@@ -6815,6 +6817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Car | 94263 | [94263-crazy-car.json](./94263-crazy-car.json) |
 | Crazy Cars | 12550 | [12550-crazy-cars.json](./12550-crazy-cars.json) |
 | Crazy Cars: Hit the Road | 62976 | [62976-crazy-cars-hit-the-road.json](./62976-crazy-cars-hit-the-road.json) |
+| Crazy Cart: Ultimate Drift | 120289 | [120289-crazy-cart-ultimate-drift.json](./120289-crazy-cart-ultimate-drift.json) |
 | Crazy Cauldron | 176968 | [176968-crazy-cauldron.json](./176968-crazy-cauldron.json) |
 | Crazy Caveman | 41016 | [41016-crazy-caveman.json](./41016-crazy-caveman.json) |
 | Crazy Chain: Elpis no Kusari | 392427 | [392427-crazy-chain-elpis-no-kusari.json](./392427-crazy-chain-elpis-no-kusari.json) |
