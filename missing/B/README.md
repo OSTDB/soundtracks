@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon to the Moon 2 | 316083 | [316083-balloon-to-the-moon-2.json](./316083-balloon-to-the-moon-2.json) |
 | Balloonacy 2 | 97324 | [97324-balloonacy-2.json](./97324-balloonacy-2.json) |
 | Balloonacy! | 39043 | [39043-balloonacy.json](./39043-balloonacy.json) |
+| Balloonrain | 130836 | [130836-balloonrain.json](./130836-balloonrain.json) |
 | Balloons | 257936 | [257936-balloons.json](./257936-balloons.json) |
 | Balloons Jump | 107110 | [107110-balloons-jump.json](./107110-balloons-jump.json) |
 | Balloony | 290439 | [290439-balloony.json](./290439-balloony.json) |
@@ -1360,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baskhead | 32254 | [32254-baskhead.json](./32254-baskhead.json) |
 | Baskin-Robbins: Enter the Flavour-Verse | 257334 | [257334-baskin-robbins-enter-the-flavour-verse.json](./257334-baskin-robbins-enter-the-flavour-verse.json) |
 | Baspetball | 346584 | [346584-baspetball.json](./346584-baspetball.json) |
+| Bass Avenger | 130845 | [130845-bass-avenger.json](./130845-bass-avenger.json) |
 | Bass Cat: Learn to Read Music | 90382 | [90382-bass-cat-learn-to-read-music.json](./90382-bass-cat-learn-to-read-music.json) |
 | Bass Defense | 309538 | [309538-bass-defense.json](./309538-bass-defense.json) |
 | Bass Fisherman | 298859 | [298859-bass-fisherman.json](./298859-bass-fisherman.json) |
@@ -3813,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacklight: Tango Down | 8481 | [8481-blacklight-tango-down.json](./8481-blacklight-tango-down.json) |
 | Blacklist Mafia | 293098 | [293098-blacklist-mafia.json](./293098-blacklist-mafia.json) |
 | Blacklode | 416674 | [416674-blacklode.json](./416674-blacklode.json) |
+| Blackmoor 2: The Traitor King | 130791 | [130791-blackmoor-2-the-traitor-king.json](./130791-blackmoor-2-the-traitor-king.json) |
 | Blackout | 148342 | [148342-blackout.json](./148342-blackout.json) |
 | Blackout | 162428 | [162428-blackout.json](./162428-blackout.json) |
 | Blackout | 221817 | [221817-blackout.json](./221817-blackout.json) |
@@ -4816,6 +4819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue's Clues: Preschool | 23776 | [23776-blues-clues-preschool.json](./23776-blues-clues-preschool.json) |
 | Blue's Journey | 39653 | [39653-blues-journey.json](./39653-blues-journey.json) |
 | Blue's Room: Coloring With Blue | 220077 | [220077-blues-room-coloring-with-blue.json](./220077-blues-room-coloring-with-blue.json) |
+| Blue* | 130819 | [130819-blue.json](./130819-blue.json) |
 | BlueAge | 312890 | [312890-blueage.json](./312890-blueage.json) |
 | Blueberry Garden | 9983 | [9983-blueberry-garden.json](./9983-blueberry-garden.json) |
 | Blueberry Weather | 353869 | [353869-blueberry-weather.json](./353869-blueberry-weather.json) |
@@ -6229,6 +6233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakfast Bar Tycoon: Ultimate Edition | 298569 | [298569-breakfast-bar-tycoon-ultimate-edition.json](./298569-breakfast-bar-tycoon-ultimate-edition.json) |
 | Breakfast Cooking Mania | 28855 | [28855-breakfast-cooking-mania.json](./28855-breakfast-cooking-mania.json) |
 | Breakforcist | 27678 | [27678-breakforcist.json](./27678-breakforcist.json) |
+| Breakfree | 130847 | [130847-breakfree.json](./130847-breakfree.json) |
 | BreakFree Escape From the Mine | 101968 | [101968-breakfree-escape-from-the-mine.json](./101968-breakfree-escape-from-the-mine.json) |
 | Breaking Box: Walk | 264147 | [264147-breaking-box-walk.json](./264147-breaking-box-walk.json) |
 | Breaking Bricks | 333680 | [333680-breaking-bricks.json](./333680-breaking-bricks.json) |
