@@ -819,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkBind | 197330 | [197330-darkbind.json](./197330-darkbind.json) |
 | Darkblade Ascent | 249201 | [249201-darkblade-ascent.json](./249201-darkblade-ascent.json) |
 | DarkBlood: Reverse | 348868 | [348868-darkblood-reverse.json](./348868-darkblood-reverse.json) |
+| Darkbolt | 132712 | [132712-darkbolt.json](./132712-darkbolt.json) |
 | Darkchaser: Battletide | 296660 | [296660-darkchaser-battletide.json](./296660-darkchaser-battletide.json) |
 | DarkCoating | 163397 | [163397-darkcoating.json](./163397-darkcoating.json) |
 | Darkdire | 112954 | [112954-darkdire.json](./112954-darkdire.json) |
@@ -2220,6 +2221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend the Bits TD | 203957 | [203957-defend-the-bits-td.json](./203957-defend-the-bits-td.json) |
 | Defend the Cake Tower Defense | 175173 | [175173-defend-the-cake-tower-defense.json](./175173-defend-the-cake-tower-defense.json) |
 | Defend the Castle | 381735 | [381735-defend-the-castle.json](./381735-defend-the-castle.json) |
+| Defend the Circle | 132691 | [132691-defend-the-circle.json](./132691-defend-the-circle.json) |
 | Defend the Fort | 173267 | [173267-defend-the-fort.json](./173267-defend-the-fort.json) |
 | Defend the Keep | 118091 | [118091-defend-the-keep.json](./118091-defend-the-keep.json) |
 | Defend the Rook | 152300 | [152300-defend-the-rook.json](./152300-defend-the-rook.json) |
@@ -6106,6 +6108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Princess Anastasia | 195619 | [195619-dragon-princess-anastasia.json](./195619-dragon-princess-anastasia.json) |
 | Dragon Princess: Meikyuu no Madoushi | 67256 | [67256-dragon-princess-meikyuu-no-madoushi.json](./67256-dragon-princess-meikyuu-no-madoushi.json) |
 | Dragon Puncher | 332997 | [332997-dragon-puncher.json](./332997-dragon-puncher.json) |
+| Dragon puzzle | 132733 | [132733-dragon-puzzle.json](./132733-dragon-puzzle.json) |
 | Dragon Quest 25th Anniversary Collection | 136885 | [136885-dragon-quest-25th-anniversary-collection.json](./136885-dragon-quest-25th-anniversary-collection.json) |
 | Dragon Quest Builders | 24069 | [24069-dragon-quest-builders.json](./24069-dragon-quest-builders.json) |
 | Dragon Quest Builders 2 | 54548 | [54548-dragon-quest-builders-2.json](./54548-dragon-quest-builders-2.json) |
@@ -6632,6 +6635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamscaper | 116166 | [116166-dreamscaper.json](./116166-dreamscaper.json) |
 | Dreamscapes: The Sandman - Collector's Edition | 356189 | [356189-dreamscapes-the-sandman-collectors-edition.json](./356189-dreamscapes-the-sandman-collectors-edition.json) |
 | DreamScript | 158050 | [158050-dreamscript.json](./158050-dreamscript.json) |
+| Dreamshard | 132750 | [132750-dreamshard.json](./132750-dreamshard.json) |
 | DreamSleuth: hidden object adventure quest lite | 88311 | [88311-dreamsleuth-hidden-object-adventure-quest-lite.json](./88311-dreamsleuth-hidden-object-adventure-quest-lite.json) |
 | Dreamspace | 323342 | [323342-dreamspace.json](./323342-dreamspace.json) |
 | Dreamspaces | 181682 | [181682-dreamspaces.json](./181682-dreamspaces.json) |
