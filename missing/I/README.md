@@ -1751,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injustice 2: Red Hood | 165037 | [165037-injustice-2-red-hood.json](./165037-injustice-2-red-hood.json) |
 | Injustice 2: Reverse Flash | 323387 | [323387-injustice-2-reverse-flash.json](./323387-injustice-2-reverse-flash.json) |
 | Injustice 2: Starfire | 165038 | [165038-injustice-2-starfire.json](./165038-injustice-2-starfire.json) |
+| Injustice 2: Sub-Zero | 164818 | [164818-injustice-2-sub-zero.json](./164818-injustice-2-sub-zero.json) |
 | Injustice 2: The Atom | 165044 | [165044-injustice-2-the-atom.json](./165044-injustice-2-the-atom.json) |
 | Injustice 3 | 139807 | [139807-injustice-3.json](./139807-injustice-3.json) |
 | Injustice Arcade | 212781 | [212781-injustice-arcade.json](./212781-injustice-arcade.json) |
