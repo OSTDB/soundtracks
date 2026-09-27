@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fancy! | 237069 | [237069-fancy.json](./237069-fancy.json) |
 | Fandominion | 259646 | [259646-fandominion.json](./259646-fandominion.json) |
 | Fāngkuài Liánméng | 114161 | [114161-fangkuai-lianmeng.json](./114161-fangkuai-lianmeng.json) |
+| Fangs | 172477 | [172477-fangs.json](./172477-fangs.json) |
 | Fangs and Friends | 176436 | [176436-fangs-and-friends.json](./176436-fangs-and-friends.json) |
 | Fangs: The Saga of Wolf Blood | 221965 | [221965-fangs-the-saga-of-wolf-blood.json](./221965-fangs-the-saga-of-wolf-blood.json) |
 | Fangtopia | 349380 | [349380-fangtopia.json](./349380-fangtopia.json) |
@@ -1524,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feevo HD | 232546 | [232546-feevo-hd.json](./232546-feevo-hd.json) |
 | Fei Duanmu VS Kobayashi | 87955 | [87955-fei-duanmu-vs-kobayashi.json](./87955-fei-duanmu-vs-kobayashi.json) |
 | Fei Tian | 86105 | [86105-fei-tian.json](./86105-fei-tian.json) |
+| Feign | 172516 | [172516-feign.json](./172516-feign.json) |
 | Feisty Fauna | 193345 | [193345-feisty-fauna.json](./193345-feisty-fauna.json) |
 | Fèitǔ Báixuěgōngzhǔ | 348855 | [348855-feitu-baixuegongzhu.json](./348855-feitu-baixuegongzhu.json) |
 | Feitu Huiguniang | 348846 | [348846-feitu-huiguniang.json](./348846-feitu-huiguniang.json) |
@@ -2755,6 +2757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fist Food | 285557 | [285557-fist-food.json](./285557-fist-food.json) |
 | Fist Hell | 318602 | [318602-fist-hell.json](./318602-fist-hell.json) |
 | Fist of Awesome | 17501 | [17501-fist-of-awesome.json](./17501-fist-of-awesome.json) |
+| Fist of the North Star | 172517 | [172517-fist-of-the-north-star.json](./172517-fist-of-the-north-star.json) |
 | Fist of the North Star Legends Revive | 120171 | [120171-fist-of-the-north-star-legends-revive.json](./120171-fist-of-the-north-star-legends-revive.json) |
 | Fist of the North Star: Ken's Rage 2 | 5313 | [5313-fist-of-the-north-star-kens-rage-2.json](./5313-fist-of-the-north-star-kens-rage-2.json) |
 | Fist of the North Star: Lost Paradise - Premium Edition | 212335 | [212335-fist-of-the-north-star-lost-paradise-premium-edition.json](./212335-fist-of-the-north-star-lost-paradise-premium-edition.json) |
