@@ -6491,6 +6491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brush Roller | 48658 | [48658-brush-roller.json](./48658-brush-roller.json) |
 | BrushHammer Miniature Painter | 406170 | [406170-brushhammer-miniature-painter.json](./406170-brushhammer-miniature-painter.json) |
 | Brut@l | 14759 | [14759-brut-l.json](./14759-brut-l.json) |
+| Brutal 2urvive Bundle | 164786 | [164786-brutal-2urvive-bundle.json](./164786-brutal-2urvive-bundle.json) |
 | Brutal Age: Horde Invasion | 86935 | [86935-brutal-age-horde-invasion.json](./86935-brutal-age-horde-invasion.json) |
 | Brutal Doom | 126295 | [126295-brutal-doom.json](./126295-brutal-doom.json) |
 | Brutal Doom 64 | 25583 | [25583-brutal-doom-64.json](./25583-brutal-doom-64.json) |
@@ -7306,6 +7307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butt Naked & Big Guns | 158208 | [158208-butt-naked-and-big-guns.json](./158208-butt-naked-and-big-guns.json) |
 | Butt Sniffin Pugs | 25645 | [25645-butt-sniffin-pugs.json](./25645-butt-sniffin-pugs.json) |
 | Butter & Friends Babysitter Sim | 75148 | [75148-butter-and-friends-babysitter-sim.json](./75148-butter-and-friends-babysitter-sim.json) |
+| Butterflies Bundle | 164787 | [164787-butterflies-bundle.json](./164787-butterflies-bundle.json) |
 | Butterflies: Episode 1 - Rudies | 134666 | [134666-butterflies-episode-1-rudies.json](./134666-butterflies-episode-1-rudies.json) |
 | ButterFlight | 98934 | [98934-butterflight.json](./98934-butterflight.json) |
 | Butterflowers | 186180 | [186180-butterflowers.json](./186180-butterflowers.json) |
