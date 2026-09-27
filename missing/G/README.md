@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Civilizations III: Revenge of the Snathi DLC | 163375 | [163375-galactic-civilizations-iii-revenge-of-the-snathi-dlc.json](./163375-galactic-civilizations-iii-revenge-of-the-snathi-dlc.json) |
 | Galactic Civilizations III: Rise of the Terrans | 19610 | [19610-galactic-civilizations-iii-rise-of-the-terrans.json](./19610-galactic-civilizations-iii-rise-of-the-terrans.json) |
 | Galactic Civilizations III: Rise of the Terrans DLC | 163370 | [163370-galactic-civilizations-iii-rise-of-the-terrans-dlc.json](./163370-galactic-civilizations-iii-rise-of-the-terrans-dlc.json) |
+| Galactic Civilizations III: Ultimate Edition | 159691 | [159691-galactic-civilizations-iii-ultimate-edition.json](./159691-galactic-civilizations-iii-ultimate-edition.json) |
 | Galactic Civilizations III: Villains of Star Control - Origins | 163382 | [163382-galactic-civilizations-iii-villains-of-star-control-origins.json](./163382-galactic-civilizations-iii-villains-of-star-control-origins.json) |
 | Galactic Civilizations III: Worlds in Crisis | 155080 | [155080-galactic-civilizations-iii-worlds-in-crisis.json](./155080-galactic-civilizations-iii-worlds-in-crisis.json) |
 | Galactic Civilizations III: Worlds in Crisis DLC | 163381 | [163381-galactic-civilizations-iii-worlds-in-crisis-dlc.json](./163381-galactic-civilizations-iii-worlds-in-crisis-dlc.json) |
