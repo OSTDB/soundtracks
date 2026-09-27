@@ -4328,6 +4328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollick N' Roll | 339645 | [339645-rollick-n-roll.json](./339645-rollick-n-roll.json) |
 | Rollie | 143073 | [143073-rollie.json](./143073-rollie.json) |
 | Rollimals | 385828 | [385828-rollimals.json](./385828-rollimals.json) |
+| Rollin' Rascal | 169232 | [169232-rollin-rascal.json](./169232-rollin-rascal.json) |
 | Rollin' Rascals | 68935 | [68935-rollin-rascals.json](./68935-rollin-rascals.json) |
 | Rolling | 6017 | [6017-rolling.json](./6017-rolling.json) |
 | Rolling Ball | 345116 | [345116-rolling-ball.json](./345116-rolling-ball.json) |
