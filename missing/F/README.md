@@ -4574,6 +4574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPS Trainer | 94177 | [94177-fps-trainer.json](./94177-fps-trainer.json) |
 | FPS War 2 | 240880 | [240880-fps-war-2.json](./240880-fps-war-2.json) |
 | FPS80 | 305340 | [305340-fps80.json](./305340-fps80.json) |
+| FPScore | 142971 | [142971-fpscore.json](./142971-fpscore.json) |
 | FPV Air 2: Bando Freestyler | 172099 | [172099-fpv-air-2-bando-freestyler.json](./172099-fpv-air-2-bando-freestyler.json) |
 | FPV Battleground | 340243 | [340243-fpv-battleground.json](./340243-fpv-battleground.json) |
 | FPV Freerider Recharged | 90412 | [90412-fpv-freerider-recharged.json](./90412-fpv-freerider-recharged.json) |
