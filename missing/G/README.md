@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaga: Destination Earth | 12895 | [12895-galaga-destination-earth.json](./12895-galaga-destination-earth.json) |
 | Galaga: Destination Earth | 281474 | [281474-galaga-destination-earth.json](./281474-galaga-destination-earth.json) |
 | Galagan's Island: Reprymian Rising | 21297 | [21297-galagans-island-reprymian-rising.json](./21297-galagans-island-reprymian-rising.json) |
+| Galagan's Island: Reprymian Rising - Metagalactic Monstrosities | 171934 | [171934-galagans-island-reprymian-rising-metagalactic-monstrosities.json](./171934-galagans-island-reprymian-rising-metagalactic-monstrosities.json) |
 | Galagi Shooter | 197342 | [197342-galagi-shooter.json](./197342-galagi-shooter.json) |
 | Galahad | 46595 | [46595-galahad.json](./46595-galahad.json) |
 | Galak Zed | 116874 | [116874-galak-zed.json](./116874-galak-zed.json) |
@@ -4474,6 +4475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns'n'Glory Heroes | 68958 | [68958-gunsnglory-heroes.json](./68958-gunsnglory-heroes.json) |
 | Guns'n'Glory Zombies | 296073 | [296073-gunsnglory-zombies.json](./296073-gunsnglory-zombies.json) |
 | Gunscape | 17010 | [17010-gunscape.json](./17010-gunscape.json) |
+| Gunscape: Seismic | 171921 | [171921-gunscape-seismic.json](./171921-gunscape-seismic.json) |
 | Gunship | 133964 | [133964-gunship.json](./133964-gunship.json) |
 | Gunship | 244760 | [244760-gunship.json](./244760-gunship.json) |
 | Gunship | 261208 | [261208-gunship.json](./261208-gunship.json) |
