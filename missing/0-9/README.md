@@ -1101,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Bit Fighters | 233495 | [233495-8-bit-fighters.json](./233495-8-bit-fighters.json) |
 | 8 Bit Son-of-a-Bitch | 186235 | [186235-8-bit-son-of-a-bitch.json](./186235-8-bit-son-of-a-bitch.json) |
 | 8 Legs to Love | 181252 | [181252-8-legs-to-love.json](./181252-8-legs-to-love.json) |
+| 8 Links | 173075 | [173075-8-links.json](./173075-8-links.json) |
 | 8 Yous+ | 334089 | [334089-8-yous.json](./334089-8-yous.json) |
 | 8-Ball Pool | 293238 | [293238-8-ball-pool.json](./293238-8-ball-pool.json) |
 | 8-Bit Adventures 2 | 74653 | [74653-8-bit-adventures-2.json](./74653-8-bit-adventures-2.json) |
