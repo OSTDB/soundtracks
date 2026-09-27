@@ -1832,6 +1832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liero Xtreme | 72080 | [72080-liero-xtreme.json](./72080-liero-xtreme.json) |
 | Lies as a Starting Point | 258507 | [258507-lies-as-a-starting-point.json](./258507-lies-as-a-starting-point.json) |
 | Lies of Astaroth | 57975 | [57975-lies-of-astaroth.json](./57975-lies-of-astaroth.json) |
+| Lies Under Ice | 148989 | [148989-lies-under-ice.json](./148989-lies-under-ice.json) |
 | Liese in the City of Trials | 358928 | [358928-liese-in-the-city-of-trials.json](./358928-liese-in-the-city-of-trials.json) |
 | Lieve Oma | 27648 | [27648-lieve-oma.json](./27648-lieve-oma.json) |
 | Lièyàn Chuánqí | 154348 | [154348-lieyan-chuanqi.json](./154348-lieyan-chuanqi.json) |
@@ -3173,6 +3174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Loot Goblin | 316778 | [316778-loot-loot-goblin.json](./316778-loot-loot-goblin.json) |
 | Loot or Die | 31403 | [31403-loot-or-die.json](./31403-loot-or-die.json) |
 | Loot Scoot | 386702 | [386702-loot-scoot.json](./386702-loot-scoot.json) |
+| Loot Slider | 148955 | [148955-loot-slider.json](./148955-loot-slider.json) |
 | Loot Survivor | 392485 | [392485-loot-survivor.json](./392485-loot-survivor.json) |
 | Loot Survivors | 413098 | [413098-loot-survivors.json](./413098-loot-survivors.json) |
 | Loot Train | 166154 | [166154-loot-train.json](./166154-loot-train.json) |
@@ -3520,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Tribe | 309517 | [309517-lost-tribe.json](./309517-lost-tribe.json) |
 | Lost Twins 2 | 173308 | [173308-lost-twins-2.json](./173308-lost-twins-2.json) |
 | Lost Verses | 323523 | [323523-lost-verses.json](./323523-lost-verses.json) |
+| Lost Voice | 148948 | [148948-lost-voice.json](./148948-lost-voice.json) |
 | Lost Wage Rampage | 108989 | [108989-lost-wage-rampage.json](./108989-lost-wage-rampage.json) |
 | Lost Wiki: Kozlovka | 374721 | [374721-lost-wiki-kozlovka.json](./374721-lost-wiki-kozlovka.json) |
 | Lost Wish: In the Desperate World | 195482 | [195482-lost-wish-in-the-desperate-world.json](./195482-lost-wish-in-the-desperate-world.json) |
