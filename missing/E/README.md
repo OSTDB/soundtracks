@@ -3363,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyePet Adventures | 52215 | [52215-eyepet-adventures.json](./52215-eyepet-adventures.json) |
 | EyePet: Move Edition | 52214 | [52214-eyepet-move-edition.json](./52214-eyepet-move-edition.json) |
 | Eyepuppet Company | 358514 | [358514-eyepuppet-company.json](./358514-eyepuppet-company.json) |
+| EyeRoll | 153321 | [153321-eyeroll.json](./153321-eyeroll.json) |
 | Eyes | 299142 | [299142-eyes.json](./299142-eyes.json) |
 | Eyes Behind | 351257 | [351257-eyes-behind.json](./351257-eyes-behind.json) |
 | Eyes First: Double Up | 210742 | [210742-eyes-first-double-up.json](./210742-eyes-first-double-up.json) |
