@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Spirit | 188518 | [188518-fallen-spirit.json](./188518-fallen-spirit.json) |
 | Fallen Star | 322177 | [322177-fallen-star.json](./322177-fallen-star.json) |
 | Fallen Threats | 110170 | [110170-fallen-threats.json](./110170-fallen-threats.json) |
+| Fallen, the last light | 164267 | [164267-fallen-the-last-light.json](./164267-fallen-the-last-light.json) |
 | Fallen: Town of Heritage and Makina the Blazing Hair | 82831 | [82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json](./82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json) |
 | Fallen's Challenge | 285467 | [285467-fallens-challenge.json](./285467-fallens-challenge.json) |
 | FallenCore | 75101 | [75101-fallencore.json](./75101-fallencore.json) |
@@ -4131,6 +4132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fork of Damocles | 177028 | [177028-fork-of-damocles.json](./177028-fork-of-damocles.json) |
 | Fork of the Crimson Soul | 369051 | [369051-fork-of-the-crimson-soul.json](./369051-fork-of-the-crimson-soul.json) |
 | Fork Road | 303067 | [303067-fork-road.json](./303067-fork-road.json) |
+| Forklift & Box | 164262 | [164262-forklift-and-box.json](./164262-forklift-and-box.json) |
 | Forklift 2024: The Simulation | 251016 | [251016-forklift-2024-the-simulation.json](./251016-forklift-2024-the-simulation.json) |
 | Forklift 2025 Simulator | 368147 | [368147-forklift-2025-simulator.json](./368147-forklift-2025-simulator.json) |
 | Forklift Extreme | 207892 | [207892-forklift-extreme.json](./207892-forklift-extreme.json) |
@@ -4217,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Ones | 288353 | [288353-forsaken-ones.json](./288353-forsaken-ones.json) |
 | Forsaken Ones | 360008 | [360008-forsaken-ones.json](./360008-forsaken-ones.json) |
 | Forsaken Overlook | 256823 | [256823-forsaken-overlook.json](./256823-forsaken-overlook.json) |
+| Forsaken Portals | 164258 | [164258-forsaken-portals.json](./164258-forsaken-portals.json) |
 | Forsaken Shadows | 306419 | [306419-forsaken-shadows.json](./306419-forsaken-shadows.json) |
 | Forsaken Struggle | 372139 | [372139-forsaken-struggle.json](./372139-forsaken-struggle.json) |
 | Forsaken Universe | 166771 | [166771-forsaken-universe.json](./166771-forsaken-universe.json) |
