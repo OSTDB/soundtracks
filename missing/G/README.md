@@ -4128,6 +4128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of the Wall | 396884 | [396884-guardians-of-the-wall.json](./396884-guardians-of-the-wall.json) |
 | Guardians of the Wild Sky | 347896 | [347896-guardians-of-the-wild-sky.json](./347896-guardians-of-the-wild-sky.json) |
 | Guardians of Victoria | 34882 | [34882-guardians-of-victoria.json](./34882-guardians-of-victoria.json) |
+| Guardians: Royal Journey | 155003 | [155003-guardians-royal-journey.json](./155003-guardians-royal-journey.json) |
 | Guarding Goddess | 207331 | [207331-guarding-goddess.json](./207331-guarding-goddess.json) |
 | Guards of the Gate | 90168 | [90168-guards-of-the-gate.json](./90168-guards-of-the-gate.json) |
 | Guards!: Vanguard Supporter Pack | 289322 | [289322-guards-vanguard-supporter-pack.json](./289322-guards-vanguard-supporter-pack.json) |
