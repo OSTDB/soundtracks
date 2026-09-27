@@ -2310,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outside: Stray Cat | 185453 | [185453-outside-stray-cat.json](./185453-outside-stray-cat.json) |
 | Outsider | 201773 | [201773-outsider.json](./201773-outsider.json) |
 | OutSider | 297462 | [297462-outsider.json](./297462-outsider.json) |
+| Outsider: After Life | 155547 | [155547-outsider-after-life.json](./155547-outsider-after-life.json) |
 | Outsiders | 391871 | [391871-outsiders.json](./391871-outsiders.json) |
 | Outsp4ce | 172176 | [172176-outsp4ce.json](./172176-outsp4ce.json) |
 | Outspace | 332263 | [332263-outspace.json](./332263-outspace.json) |
