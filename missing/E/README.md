@@ -1908,6 +1908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epstein 2 | 315091 | [315091-epstein-2.json](./315091-epstein-2.json) |
 | Epyka | 327930 | [327930-epyka.json](./327930-epyka.json) |
 | EQ Survival Manual | 406819 | [406819-eq-survival-manual.json](./406819-eq-survival-manual.json) |
+| Equaboreal 12.21 | 133903 | [133903-equaboreal-12-21.json](./133903-equaboreal-12-21.json) |
 | Equadle | 363029 | [363029-equadle.json](./363029-equadle.json) |
 | Equalizer | 55498 | [55498-equalizer.json](./55498-equalizer.json) |
 | Equestria | 128563 | [128563-equestria.json](./128563-equestria.json) |
@@ -2619,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV: Dharma Content Pack | 227342 | [227342-europa-universalis-iv-dharma-content-pack.json](./227342-europa-universalis-iv-dharma-content-pack.json) |
 | Europa Universalis IV: Domination | 240892 | [240892-europa-universalis-iv-domination.json](./240892-europa-universalis-iv-domination.json) |
 | Europa Universalis IV: El Dorado Content Pack | 227343 | [227343-europa-universalis-iv-el-dorado-content-pack.json](./227343-europa-universalis-iv-el-dorado-content-pack.json) |
+| Europa Universalis IV: Emperor | 133911 | [133911-europa-universalis-iv-emperor.json](./133911-europa-universalis-iv-emperor.json) |
 | Europa Universalis IV: Emperor Content Pack | 227344 | [227344-europa-universalis-iv-emperor-content-pack.json](./227344-europa-universalis-iv-emperor-content-pack.json) |
 | Europa Universalis IV: Golden Century - Immersion Pack | 169310 | [169310-europa-universalis-iv-golden-century-immersion-pack.json](./169310-europa-universalis-iv-golden-century-immersion-pack.json) |
 | Europa Universalis IV: Leviathan | 149954 | [149954-europa-universalis-iv-leviathan.json](./149954-europa-universalis-iv-leviathan.json) |
