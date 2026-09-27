@@ -602,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olber's Paradox | 392816 | [392816-olbers-paradox.json](./392816-olbers-paradox.json) |
 | Old Coin Pusher Gaiden | 411143 | [411143-old-coin-pusher-gaiden.json](./411143-old-coin-pusher-gaiden.json) |
 | Old Edge I | 117706 | [117706-old-edge-i.json](./117706-old-edge-i.json) |
+| Old Evil | 151110 | [151110-old-evil.json](./151110-old-evil.json) |
 | Old Friend | 30092 | [30092-old-friend.json](./30092-old-friend.json) |
 | Old Friends Dog Game | 159311 | [159311-old-friends-dog-game.json](./159311-old-friends-dog-game.json) |
 | Old Future: Post-Apocalyptic Times | 196882 | [196882-old-future-post-apocalyptic-times.json](./196882-old-future-post-apocalyptic-times.json) |
