@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Forest | 387527 | [387527-a-forest.json](./387527-a-forest.json) |
 | A Forest Tale: Porasy | 330330 | [330330-a-forest-tale-porasy.json](./330330-a-forest-tale-porasy.json) |
 | A Forever Solitude | 211396 | [211396-a-forever-solitude.json](./211396-a-forever-solitude.json) |
+| A Fox and His Robot | 150611 | [150611-a-fox-and-his-robot.json](./150611-a-fox-and-his-robot.json) |
 | A Fox Tale | 142477 | [142477-a-fox-tale.json](./142477-a-fox-tale.json) |
 | A Fragment of Her | 60215 | [60215-a-fragment-of-her.json](./60215-a-fragment-of-her.json) |
 | A Frantic Santa Situation | 239623 | [239623-a-frantic-santa-situation.json](./239623-a-frantic-santa-situation.json) |
@@ -382,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Simple Shooter | 179578 | [179578-a-simple-shooter.json](./179578-a-simple-shooter.json) |
 | A Simple Square | 236226 | [236226-a-simple-square.json](./236226-a-simple-square.json) |
 | A Sirius Game | 34694 | [34694-a-sirius-game.json](./34694-a-sirius-game.json) |
+| A Sky Full of Stars Interstellar Focus | 150590 | [150590-a-sky-full-of-stars-interstellar-focus.json](./150590-a-sky-full-of-stars-interstellar-focus.json) |
 | A Slime and a Civil War | 236502 | [236502-a-slime-and-a-civil-war.json](./236502-a-slime-and-a-civil-war.json) |
 | A Slit of Joy | 195076 | [195076-a-slit-of-joy.json](./195076-a-slit-of-joy.json) |
 | A Sloth For Both Seasons | 165504 | [165504-a-sloth-for-both-seasons.json](./165504-a-sloth-for-both-seasons.json) |
@@ -901,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across | 30823 | [30823-across.json](./30823-across.json) |
 | Across Icaria | 337794 | [337794-across-icaria.json](./337794-across-icaria.json) |
 | Across Kiloparsecs | 259022 | [259022-across-kiloparsecs.json](./259022-across-kiloparsecs.json) |
+| Across the demon realm | 150546 | [150546-across-the-demon-realm.json](./150546-across-the-demon-realm.json) |
 | Across the Galaxy: Stellar Dominator | 171500 | [171500-across-the-galaxy-stellar-dominator.json](./171500-across-the-galaxy-stellar-dominator.json) |
 | Across the Obelisk | 143000 | [143000-across-the-obelisk.json](./143000-across-the-obelisk.json) |
 | Across the Obelisk: Bernard, the Alchemist | 357777 | [357777-across-the-obelisk-bernard-the-alchemist.json](./357777-across-the-obelisk-bernard-the-alchemist.json) |
@@ -1037,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ADOM: Ancient Domains of Mystery | 36159 | [36159-adom-ancient-domains-of-mystery.json](./36159-adom-ancient-domains-of-mystery.json) |
 | Adonis | 200708 | [200708-adonis.json](./200708-adonis.json) |
 | Adonis: Escape from Urania | 261816 | [261816-adonis-escape-from-urania.json](./261816-adonis-escape-from-urania.json) |
+| Adorable Witch | 150585 | [150585-adorable-witch.json](./150585-adorable-witch.json) |
 | Adorable Witch 5: Lingering | 235850 | [235850-adorable-witch-5-lingering.json](./235850-adorable-witch-5-lingering.json) |
 | Adorate | 362874 | [362874-adorate.json](./362874-adorate.json) |
 | Adorimon: Arena of Ancients | 283891 | [283891-adorimon-arena-of-ancients.json](./283891-adorimon-arena-of-ancients.json) |
@@ -1075,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Dungeons & Dragons: Pool of Radiance | 8732 | [8732-advanced-dungeons-and-dragons-pool-of-radiance.json](./8732-advanced-dungeons-and-dragons-pool-of-radiance.json) |
 | Advanced Dungeons & Dragons: Secret of the Silver Blades | 12760 | [12760-advanced-dungeons-and-dragons-secret-of-the-silver-blades.json](./12760-advanced-dungeons-and-dragons-secret-of-the-silver-blades.json) |
 | Advanced Gaming Platform: Epica | 34557 | [34557-advanced-gaming-platform-epica.json](./34557-advanced-gaming-platform-epica.json) |
+| Advanced Intelligence Surveillance Agency | 150651 | [150651-advanced-intelligence-surveillance-agency.json](./150651-advanced-intelligence-surveillance-agency.json) |
 | Advanced Kick Challenge | 379477 | [379477-advanced-kick-challenge.json](./379477-advanced-kick-challenge.json) |
 | Advanced Pasta Cooking Simulator | 215766 | [215766-advanced-pasta-cooking-simulator.json](./215766-advanced-pasta-cooking-simulator.json) |
 | Advanced PET: Battle Chip - Counter 2 | 352964 | [352964-advanced-pet-battle-chip-counter-2.json](./352964-advanced-pet-battle-chip-counter-2.json) |
@@ -1387,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterlife Reverie | 337799 | [337799-afterlife-reverie.json](./337799-afterlife-reverie.json) |
 | Afterlife VR | 146139 | [146139-afterlife-vr.json](./146139-afterlife-vr.json) |
 | Afterlife: Rickard's Quest | 306641 | [306641-afterlife-rickards-quest.json](./306641-afterlife-rickards-quest.json) |
+| Afterlife: The Second Dimension | 150554 | [150554-afterlife-the-second-dimension.json](./150554-afterlife-the-second-dimension.json) |
 | Afterlight | 396206 | [396206-afterlight.json](./396206-afterlight.json) |
 | Afterlight Catacombs | 320931 | [320931-afterlight-catacombs.json](./320931-afterlight-catacombs.json) |
 | Aftermath | 183600 | [183600-aftermath.json](./183600-aftermath.json) |
@@ -1927,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akda | 81676 | [81676-akda.json](./81676-akda.json) |
 | Ake no Yosuga: Twilight Loop | 402477 | [402477-ake-no-yosuga-twilight-loop.json](./402477-ake-no-yosuga-twilight-loop.json) |
 | Akechi to Iu Otoko: A Danshaku-tei Satsujin Jiken | 340395 | [340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json](./340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json) |
+| Akemi-tan | 150550 | [150550-akemi-tan.json](./150550-akemi-tan.json) |
 | Akeno's Veil | 343874 | [343874-akenos-veil.json](./343874-akenos-veil.json) |
 | Aker Fern | 143726 | [143726-aker-fern.json](./143726-aker-fern.json) |
 | Aker Fern: Rdzeń Szatrisa - The Shatris Core. | 248671 | [248671-aker-fern-rdzen-szatrisa-the-shatris-core.json](./248671-aker-fern-rdzen-szatrisa-the-shatris-core.json) |
@@ -7097,6 +7104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure Hue | 336553 | [336553-azure-hue.json](./336553-azure-hue.json) |
 | Azure Influx | 322397 | [322397-azure-influx.json](./322397-azure-influx.json) |
 | Azure Orphanage | 249212 | [249212-azure-orphanage.json](./249212-azure-orphanage.json) |
+| Azure Sheep | 150595 | [150595-azure-sheep.json](./150595-azure-sheep.json) |
 | Azure Striker Gunvolt | 10373 | [10373-azure-striker-gunvolt.json](./10373-azure-striker-gunvolt.json) |
 | Azure Striker Gunvolt 2 | 18197 | [18197-azure-striker-gunvolt-2.json](./18197-azure-striker-gunvolt-2.json) |
 | Azure Striker Gunvolt 3: Ex Image Pulses - Nova and Desna pack | 265595 | [265595-azure-striker-gunvolt-3-ex-image-pulses-nova-and-desna-pack.json](./265595-azure-striker-gunvolt-3-ex-image-pulses-nova-and-desna-pack.json) |
