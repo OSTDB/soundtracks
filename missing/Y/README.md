@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yin-Yang Ping-Pong | 309883 | [309883-yin-yang-ping-pong.json](./309883-yin-yang-ping-pong.json) |
 | Yin-Yang Ping-Pong: Supporter Pack | 312029 | [312029-yin-yang-ping-pong-supporter-pack.json](./312029-yin-yang-ping-pong-supporter-pack.json) |
 | Yīngxióng Tánshuō X: Guīlái | 156641 | [156641-yingxiong-tanshuo-x-guilai.json](./156641-yingxiong-tanshuo-x-guilai.json) |
+| Yīngyǔ Shā | 164237 | [164237-yingyu-sha.json](./164237-yingyu-sha.json) |
 | Yingzinue: Donghei | 188926 | [188926-yingzinue-donghei.json](./188926-yingzinue-donghei.json) |
 | Yissa Deep Realms | 75776 | [75776-yissa-deep-realms.json](./75776-yissa-deep-realms.json) |
 | YiYi | 368018 | [368018-yiyi.json](./368018-yiyi.json) |
@@ -784,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuna: Sugar Hearts and Love - New Love | 169963 | [169963-yuna-sugar-hearts-and-love-new-love.json](./169963-yuna-sugar-hearts-and-love-new-love.json) |
 | Yunak | 330541 | [330541-yunak.json](./330541-yunak.json) |
 | Yunashi no Yume | 330298 | [330298-yunashi-no-yume.json](./330298-yunashi-no-yume.json) |
+| Yúnduān zhī Yuē | 164280 | [164280-yunduan-zhi-yue.json](./164280-yunduan-zhi-yue.json) |
 | Yúnhuāng Xiāoyáozhuàn | 399741 | [399741-yunhuang-xiaoyaozhuan.json](./399741-yunhuang-xiaoyaozhuan.json) |
 | Yunoha na Spring!: Cherishing Time | 135855 | [135855-yunoha-na-spring-cherishing-time.json](./135855-yunoha-na-spring-cherishing-time.json) |
 | Yunoha na Spring!: Mellow Times for Nintendo Switch | 136836 | [136836-yunoha-na-spring-mellow-times-for-nintendo-switch.json](./136836-yunoha-na-spring-mellow-times-for-nintendo-switch.json) |
