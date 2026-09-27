@@ -1726,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch the Wally - Hide & Seek | 108247 | [108247-catch-the-wally-hide-and-seek.json](./108247-catch-the-wally-hide-and-seek.json) |
 | Catch the Witch | 417503 | [417503-catch-the-witch.json](./417503-catch-the-witch.json) |
 | Catch Them If You Can | 215368 | [215368-catch-them-if-you-can.json](./215368-catch-them-if-you-can.json) |
+| Catch Your Kitty | 129122 | [129122-catch-your-kitty.json](./129122-catch-your-kitty.json) |
 | Catch'em | 302138 | [302138-catchem.json](./302138-catchem.json) |
 | Catcha | 327398 | [327398-catcha.json](./327398-catcha.json) |
 | Catcha Catcha Aliens! | 61630 | [61630-catcha-catcha-aliens.json](./61630-catcha-catcha-aliens.json) |
@@ -2334,6 +2335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Changer Seven | 240757 | [240757-changer-seven.json](./240757-changer-seven.json) |
 | Changes | 152903 | [152903-changes.json](./152903-changes.json) |
 | changeType() | 201128 | [201128-changetype.json](./201128-changetype.json) |
+| Chánggē Xíng | 129094 | [129094-changge-xing.json](./129094-changge-xing.json) |
 | Channel 64 | 395048 | [395048-channel-64.json](./395048-channel-64.json) |
 | Channel 7 | 240313 | [240313-channel-7.json](./240313-channel-7.json) |
 | Channel 83 | 185440 | [185440-channel-83.json](./185440-channel-83.json) |
@@ -3008,6 +3010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinatown Detective Agency | 125715 | [125715-chinatown-detective-agency.json](./125715-chinatown-detective-agency.json) |
 | Chinbu's Adventure: Ice World | 171940 | [171940-chinbus-adventure-ice-world.json](./171940-chinbus-adventure-ice-world.json) |
 | Chinese Ancient Poetry Matching Game | 274576 | [274576-chinese-ancient-poetry-matching-game.json](./274576-chinese-ancient-poetry-matching-game.json) |
+| Chinese Brush Simulator | 129077 | [129077-chinese-brush-simulator.json](./129077-chinese-brush-simulator.json) |
 | Chinese Characters | 223507 | [223507-chinese-characters.json](./223507-chinese-characters.json) |
 | Chinese Checkers | 100228 | [100228-chinese-checkers.json](./100228-chinese-checkers.json) |
 | Chinese Checkers Deluxe | 67983 | [67983-chinese-checkers-deluxe.json](./67983-chinese-checkers-deluxe.json) |
@@ -3595,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circadial | 328645 | [328645-circadial.json](./328645-circadial.json) |
 | Circadian City | 116815 | [116815-circadian-city.json](./116815-circadian-city.json) |
 | CircL | 185080 | [185080-circl.json](./185080-circl.json) |
+| Circle | 129066 | [129066-circle.json](./129066-circle.json) |
 | Circle | 289387 | [289387-circle.json](./289387-circle.json) |
 | Circle Breakout | 128577 | [128577-circle-breakout.json](./128577-circle-breakout.json) |
 | Circle Empires | 104937 | [104937-circle-empires.json](./104937-circle-empires.json) |
@@ -6589,6 +6593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CragEx-5 | 346125 | [346125-cragex-5.json](./346125-cragex-5.json) |
 | Craggenrock | 207498 | [207498-craggenrock.json](./207498-craggenrock.json) |
 | Craggfall | 415157 | [415157-craggfall.json](./415157-craggfall.json) |
+| Cragls | 129095 | [129095-cragls.json](./129095-cragls.json) |
 | Cragne Manor | 138146 | [138146-cragne-manor.json](./138146-cragne-manor.json) |
 | Craig's Cave | 412549 | [412549-craigs-cave.json](./412549-craigs-cave.json) |
 | CraMagear | 226833 | [226833-cramagear.json](./226833-cramagear.json) |
@@ -7838,6 +7843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Runner | 72964 | [72964-cube-runner.json](./72964-cube-runner.json) |
 | Cube Rush | 112340 | [112340-cube-rush.json](./112340-cube-rush.json) |
 | Cube School | 408905 | [408905-cube-school.json](./408905-cube-school.json) |
+| Cube Smash | 129087 | [129087-cube-smash.json](./129087-cube-smash.json) |
 | Cube Snake | 318968 | [318968-cube-snake.json](./318968-cube-snake.json) |
 | Cube Snap 2 | 86882 | [86882-cube-snap-2.json](./86882-cube-snap-2.json) |
 | Cube Space | 163195 | [163195-cube-space.json](./163195-cube-space.json) |
