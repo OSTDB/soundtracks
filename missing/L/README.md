@@ -1571,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Go Camping | 220143 | [220143-lets-go-camping.json](./220143-lets-go-camping.json) |
 | Let's Go Home! | 296451 | [296451-lets-go-home.json](./296451-lets-go-home.json) |
 | Let's Go Jungle!: Lost on the Island of Spice | 69304 | [69304-lets-go-jungle-lost-on-the-island-of-spice.json](./69304-lets-go-jungle-lost-on-the-island-of-spice.json) |
+| Let's Go Read: An Island Adventure | 122277 | [122277-lets-go-read-an-island-adventure.json](./122277-lets-go-read-an-island-adventure.json) |
 | Let's Go Thingio!: Re:Thingio Side A | 323753 | [323753-lets-go-thingio-re-thingio-side-a.json](./323753-lets-go-thingio-re-thingio-side-a.json) |
 | Let's Go To The Circus | 299150 | [299150-lets-go-to-the-circus.json](./299150-lets-go-to-the-circus.json) |
 | Let's Go! My Harem Farm | 278149 | [278149-lets-go-my-harem-farm.json](./278149-lets-go-my-harem-farm.json) |
@@ -2758,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Livets Hopp | 277381 | [277381-livets-hopp.json](./277381-livets-hopp.json) |
 | Liveza: Death of the Earth | 32960 | [32960-liveza-death-of-the-earth.json](./32960-liveza-death-of-the-earth.json) |
 | Livid Meadow | 271209 | [271209-livid-meadow.json](./271209-livid-meadow.json) |
+| Living Books: D.W. the Picky Eater | 122276 | [122276-living-books-d-w-the-picky-eater.json](./122276-living-books-d-w-the-picky-eater.json) |
 | Living Books: Dr. Seuss's ABC | 134447 | [134447-living-books-dr-seusss-abc.json](./134447-living-books-dr-seusss-abc.json) |
 | Living Books: Harry and the Haunted House | 70079 | [70079-living-books-harry-and-the-haunted-house.json](./70079-living-books-harry-and-the-haunted-house.json) |
 | Living Books: Little Monster at School | 45917 | [45917-living-books-little-monster-at-school.json](./45917-living-books-little-monster-at-school.json) |
