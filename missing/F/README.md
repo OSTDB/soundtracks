@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Away Train | 150527 | [150527-far-away-train.json](./150527-far-away-train.json) |
 | Far Cry 3: High Tides | 284318 | [284318-far-cry-3-high-tides.json](./284318-far-cry-3-high-tides.json) |
 | Far Cry 3: Wish You Were Here Edition | 51544 | [51544-far-cry-3-wish-you-were-here-edition.json](./51544-far-cry-3-wish-you-were-here-edition.json) |
+| Far Cry 4 + Far Cry: Primal Bundle | 164801 | [164801-far-cry-4-far-cry-primal-bundle.json](./164801-far-cry-4-far-cry-primal-bundle.json) |
 | Far Cry 4: Hurk Deluxe Pack | 109553 | [109553-far-cry-4-hurk-deluxe-pack.json](./109553-far-cry-4-hurk-deluxe-pack.json) |
 | Far Cry 4: Kyrat Edition | 41616 | [41616-far-cry-4-kyrat-edition.json](./41616-far-cry-4-kyrat-edition.json) |
 | Far Cry 4: Steelbook Edition | 51531 | [51531-far-cry-4-steelbook-edition.json](./51531-far-cry-4-steelbook-edition.json) |
@@ -940,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 6: Lost Between Worlds | 228591 | [228591-far-cry-6-lost-between-worlds.json](./228591-far-cry-6-lost-between-worlds.json) |
 | Far Cry 6: Ultimate Edition | 136404 | [136404-far-cry-6-ultimate-edition.json](./136404-far-cry-6-ultimate-edition.json) |
 | Far Cry Anthology Bundle | 188049 | [188049-far-cry-anthology-bundle.json](./188049-far-cry-anthology-bundle.json) |
+| Far Cry Insanity Bundle | 164798 | [164798-far-cry-insanity-bundle.json](./164798-far-cry-insanity-bundle.json) |
 | Far Cry Instincts: Evolution | 22584 | [22584-far-cry-instincts-evolution.json](./22584-far-cry-instincts-evolution.json) |
 | Far Cry Primal: Collector's Edition | 41617 | [41617-far-cry-primal-collectors-edition.json](./41617-far-cry-primal-collectors-edition.json) |
 | Far Cry Primal: Deluxe Edition | 44543 | [44543-far-cry-primal-deluxe-edition.json](./44543-far-cry-primal-deluxe-edition.json) |
