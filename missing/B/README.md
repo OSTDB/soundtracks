@@ -348,6 +348,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Dream | 329075 | [329075-bad-dream.json](./329075-bad-dream.json) |
 | Bad Dream: Afterlife | 372663 | [372663-bad-dream-afterlife.json](./372663-bad-dream-afterlife.json) |
 | Bad Dream: Bridge | 133931 | [133931-bad-dream-bridge.json](./133931-bad-dream-bridge.json) |
+| Bad Dream: Butcher | 133925 | [133925-bad-dream-butcher.json](./133925-bad-dream-butcher.json) |
+| Bad Dream: Cyclops | 133928 | [133928-bad-dream-cyclops.json](./133928-bad-dream-cyclops.json) |
+| Bad Dream: Graveyard | 133926 | [133926-bad-dream-graveyard.json](./133926-bad-dream-graveyard.json) |
+| Bad Dream: Hospital | 133927 | [133927-bad-dream-hospital.json](./133927-bad-dream-hospital.json) |
+| Bad Dream: Memories | 133929 | [133929-bad-dream-memories.json](./133929-bad-dream-memories.json) |
 | Bad Dream: Purgatory | 244724 | [244724-bad-dream-purgatory.json](./244724-bad-dream-purgatory.json) |
 | Bad Dream: Series | 179624 | [179624-bad-dream-series.json](./179624-bad-dream-series.json) |
 | Bad Dreams | 69571 | [69571-bad-dreams.json](./69571-bad-dreams.json) |
@@ -7261,6 +7266,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burned One | 365157 | [365157-burned-one.json](./365157-burned-one.json) |
 | Burned Out | 317456 | [317456-burned-out.json](./317456-burned-out.json) |
 | Burnin' Rubber | 172601 | [172601-burnin-rubber.json](./172601-burnin-rubber.json) |
+| Burnin' Rubber 3 | 133876 | [133876-burnin-rubber-3.json](./133876-burnin-rubber-3.json) |
+| Burnin' Rubber 4 | 133877 | [133877-burnin-rubber-4.json](./133877-burnin-rubber-4.json) |
 | Burnin' Rubber 6 | 320749 | [320749-burnin-rubber-6.json](./320749-burnin-rubber-6.json) |
 | Burnin' Rubber Shift | 237965 | [237965-burnin-rubber-shift.json](./237965-burnin-rubber-shift.json) |
 | Burninate the Barnyard | 231613 | [231613-burninate-the-barnyard.json](./231613-burninate-the-barnyard.json) |
