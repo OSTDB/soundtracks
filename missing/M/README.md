@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Bullets | 33262 | [33262-mad-bullets.json](./33262-mad-bullets.json) |
 | Mad Bus | 156101 | [156101-mad-bus.json](./156101-mad-bus.json) |
 | Mad Cars | 94261 | [94261-mad-cars.json](./94261-mad-cars.json) |
+| Mad Cat's World | 120910 | [120910-mad-cats-world.json](./120910-mad-cats-world.json) |
 | Mad Cop 3 | 175371 | [175371-mad-cop-3.json](./175371-mad-cop-3.json) |
 | Mad Crash Racing | 234323 | [234323-mad-crash-racing.json](./234323-mad-crash-racing.json) |
 | Mad Crown | 81054 | [81054-mad-crown.json](./81054-mad-crown.json) |
@@ -4267,6 +4268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metropolitan Mayhem | 270667 | [270667-metropolitan-mayhem.json](./270667-metropolitan-mayhem.json) |
 | MetroSim: The Subway Simulator | 277598 | [277598-metrosim-the-subway-simulator.json](./277598-metrosim-the-subway-simulator.json) |
 | Metu Caligine | 169765 | [169765-metu-caligine.json](./169765-metu-caligine.json) |
+| Meu mundo | 120919 | [120919-meu-mundo.json](./120919-meu-mundo.json) |
 | Meu Primeiro Laptop da Xuxa | 255339 | [255339-meu-primeiro-laptop-da-xuxa.json](./255339-meu-primeiro-laptop-da-xuxa.json) |
 | Mevo and the Grooveriders | 7963 | [7963-mevo-and-the-grooveriders.json](./7963-mevo-and-the-grooveriders.json) |
 | Mew Mew Chamber for Steam | 90543 | [90543-mew-mew-chamber-for-steam.json](./90543-mew-mew-chamber-for-steam.json) |
@@ -7238,6 +7240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaique Neko Waifus 2 | 167808 | [167808-mosaique-neko-waifus-2.json](./167808-mosaique-neko-waifus-2.json) |
 | Mosaique Neko Waifus 4 | 167809 | [167809-mosaique-neko-waifus-4.json](./167809-mosaique-neko-waifus-4.json) |
 | Mosaique Neko Waifus 5 | 221206 | [221206-mosaique-neko-waifus-5.json](./221206-mosaique-neko-waifus-5.json) |
+| Moscow Rush | 120765 | [120765-moscow-rush.json](./120765-moscow-rush.json) |
 | Moscow to Berlin: Red Siege | 20541 | [20541-moscow-to-berlin-red-siege.json](./20541-moscow-to-berlin-red-siege.json) |
 | Moses: Old Testament Adventure #1 | 100018 | [100018-moses-old-testament-adventure-1.json](./100018-moses-old-testament-adventure-1.json) |
 | Mosh Lift | 283798 | [283798-mosh-lift.json](./283798-mosh-lift.json) |
@@ -7589,6 +7592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MP2: Petropolis (Block Party) | 283775 | [283775-mp2-petropolis-block-party.json](./283775-mp2-petropolis-block-party.json) |
 | MP2: Yoshi Valley | 283774 | [283774-mp2-yoshi-valley.json](./283774-mp2-yoshi-valley.json) |
 | MP5 | 201242 | [201242-mp5.json](./201242-mp5.json) |
+| MPaliens | 120913 | [120913-mpaliens.json](./120913-mpaliens.json) |
 | Mpirimpa | 341339 | [341339-mpirimpa.json](./341339-mpirimpa.json) |
 | Mr Anchry's Day of Twilight | 132076 | [132076-mr-anchrys-day-of-twilight.json](./132076-mr-anchrys-day-of-twilight.json) |
 | Mr Anchry's Divine Intervention | 124271 | [124271-mr-anchrys-divine-intervention.json](./124271-mr-anchrys-divine-intervention.json) |
