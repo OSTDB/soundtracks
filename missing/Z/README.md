@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zagan Must Be Rescued | 163907 | [163907-zagan-must-be-rescued.json](./163907-zagan-must-be-rescued.json) |
 | Zagerrrr | 176366 | [176366-zagerrrr.json](./176366-zagerrrr.json) |
 | Zahak | 287676 | [287676-zahak.json](./287676-zahak.json) |
+| Zahhak | 164245 | [164245-zahhak.json](./164245-zahhak.json) |
 | Zahmahrel | 365773 | [365773-zahmahrel.json](./365773-zahmahrel.json) |
 | Zaidan Houjin Nippon Kanji Nouryoku Kentei Kyoukai Kyouryoku: Kanken DS Training | 123032 | [123032-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kyouryoku-kanken-ds-training.json](./123032-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kyouryoku-kanken-ds-training.json) |
 | Zaitaku Touhyou System: Spat4-Wide | 37749 | [37749-zaitaku-touhyou-system-spat4-wide.json](./37749-zaitaku-touhyou-system-spat4-wide.json) |
