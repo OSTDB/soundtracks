@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronic Shop Simulator | 344354 | [344354-electronic-shop-simulator.json](./344354-electronic-shop-simulator.json) |
 | Electronic Super Joy 2 | 120745 | [120745-electronic-super-joy-2.json](./120745-electronic-super-joy-2.json) |
 | Electronic Super Joy 2: Groove Wizard's Tower | 171488 | [171488-electronic-super-joy-2-groove-wizards-tower.json](./171488-electronic-super-joy-2-groove-wizards-tower.json) |
+| Electronic Super Joy: Bonus Content Pack! | 156066 | [156066-electronic-super-joy-bonus-content-pack.json](./156066-electronic-super-joy-bonus-content-pack.json) |
 | Electronic Super Joy: Groove City | 17402 | [17402-electronic-super-joy-groove-city.json](./17402-electronic-super-joy-groove-city.json) |
 | Electronic Talking Super Computer | 374709 | [374709-electronic-talking-super-computer.json](./374709-electronic-talking-super-computer.json) |
 | Electronic Uno | 233989 | [233989-electronic-uno.json](./233989-electronic-uno.json) |
