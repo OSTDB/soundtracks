@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race with Ryan: Road Trip - Deluxe Edition | 141036 | [141036-race-with-ryan-road-trip-deluxe-edition.json](./141036-race-with-ryan-road-trip-deluxe-edition.json) |
 | Race With Ryan: Surprise Track Pack | 197661 | [197661-race-with-ryan-surprise-track-pack.json](./197661-race-with-ryan-surprise-track-pack.json) |
 | Race: Rocket Arena Car Extreme | 226724 | [226724-race-rocket-arena-car-extreme.json](./226724-race-rocket-arena-car-extreme.json) |
+| Race: Total Toon Race | 153328 | [153328-race-total-toon-race.json](./153328-race-total-toon-race.json) |
 | Race.a.bit | 36114 | [36114-race-a-bit.json](./36114-race-a-bit.json) |
 | Race07 | 50162 | [50162-race07.json](./50162-race07.json) |
 | Raceborn | 311638 | [311638-raceborn.json](./311638-raceborn.json) |
