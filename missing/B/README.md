@@ -4226,6 +4226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Breakerz | 250413 | [250413-block-breakerz.json](./250413-block-breakerz.json) |
 | Block Buster | 138046 | [138046-block-buster.json](./138046-block-buster.json) |
 | Block Buster | 138047 | [138047-block-buster.json](./138047-block-buster.json) |
+| Block Buster | 152222 | [152222-block-buster.json](./152222-block-buster.json) |
 | Block Buster | 270766 | [270766-block-buster.json](./270766-block-buster.json) |
 | Block Buster | 38585 | [38585-block-buster.json](./38585-block-buster.json) |
 | Block Busters: Local Party | 172171 | [172171-block-busters-local-party.json](./172171-block-busters-local-party.json) |
@@ -6514,6 +6515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothers Conflict: Passion Pink | 45990 | [45990-brothers-conflict-passion-pink.json](./45990-brothers-conflict-passion-pink.json) |
 | Brothers in Arms 3: Sons of War | 19263 | [19263-brothers-in-arms-3-sons-of-war.json](./19263-brothers-in-arms-3-sons-of-war.json) |
 | Brothers in Arms DS | 21422 | [21422-brothers-in-arms-ds.json](./21422-brothers-in-arms-ds.json) |
+| Brothers in Arms: Art of War | 152213 | [152213-brothers-in-arms-art-of-war.json](./152213-brothers-in-arms-art-of-war.json) |
 | Brothers in Arms: Hell's Highway | 618 | [618-brothers-in-arms-hells-highway.json](./618-brothers-in-arms-hells-highway.json) |
 | Brothers In Duty: Space Brawl | 390775 | [390775-brothers-in-duty-space-brawl.json](./390775-brothers-in-duty-space-brawl.json) |
 | Brothers in Hell | 250875 | [250875-brothers-in-hell.json](./250875-brothers-in-hell.json) |
