@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Dice | 252134 | [252134-zombie-dice.json](./252134-zombie-dice.json) |
 | Zombie Disaster Drill | 376765 | [376765-zombie-disaster-drill.json](./376765-zombie-disaster-drill.json) |
 | Zombie Drift | 149521 | [149521-zombie-drift.json](./149521-zombie-drift.json) |
+| Zombie Driver: Immortal Edition | 120268 | [120268-zombie-driver-immortal-edition.json](./120268-zombie-driver-immortal-edition.json) |
 | Zombie Driver: Ultimate Edition | 20229 | [20229-zombie-driver-ultimate-edition.json](./20229-zombie-driver-ultimate-edition.json) |
 | Zombie Dungeon | 158051 | [158051-zombie-dungeon.json](./158051-zombie-dungeon.json) |
 | Zombie Dungeon Breaker | 205011 | [205011-zombie-dungeon-breaker.json](./205011-zombie-dungeon-breaker.json) |
