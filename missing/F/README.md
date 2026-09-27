@@ -1703,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feudal Friends | 239587 | [239587-feudal-friends.json](./239587-feudal-friends.json) |
 | Feudalism | 234914 | [234914-feudalism.json](./234914-feudalism.json) |
 | Feudalism II | 234915 | [234915-feudalism-ii.json](./234915-feudalism-ii.json) |
+| Fever Cabin | 128439 | [128439-fever-cabin.json](./128439-fever-cabin.json) |
 | Fever Frenzy | 209420 | [209420-fever-frenzy.json](./209420-fever-frenzy.json) |
 | Few Nights More | 147351 | [147351-few-nights-more.json](./147351-few-nights-more.json) |
 | Fey | 388975 | [388975-fey.json](./388975-fey.json) |
@@ -2589,6 +2590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firestriker | 42553 | [42553-firestriker.json](./42553-firestriker.json) |
 | Fireteam Rogue | 42244 | [42244-fireteam-rogue.json](./42244-fireteam-rogue.json) |
 | Firetrack | 38926 | [38926-firetrack.json](./38926-firetrack.json) |
+| FireTry | 128450 | [128450-firetry.json](./128450-firetry.json) |
 | FireTry: Capture the Flag | 167850 | [167850-firetry-capture-the-flag.json](./167850-firetry-capture-the-flag.json) |
 | Firewall | 230955 | [230955-firewall.json](./230955-firewall.json) |
 | Firewall Ultra | 215777 | [215777-firewall-ultra.json](./215777-firewall-ultra.json) |
@@ -4251,6 +4253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formation Soccer 95: della Serie A | 65179 | [65179-formation-soccer-95-della-serie-a.json](./65179-formation-soccer-95-della-serie-a.json) |
 | Formation Soccer: Human Cup '90 | 42046 | [42046-formation-soccer-human-cup-90.json](./42046-formation-soccer-human-cup-90.json) |
 | Formation Z | 37190 | [37190-formation-z.json](./37190-formation-z.json) |
+| Former Future | 128452 | [128452-former-future.json](./128452-former-future.json) |
 | Formic Fortress | 405590 | [405590-formic-fortress.json](./405590-formic-fortress.json) |
 | Formino | 175411 | [175411-formino.json](./175411-formino.json) |
 | Formless Adventure | 44232 | [44232-formless-adventure.json](./44232-formless-adventure.json) |
