@@ -2045,6 +2045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Personal Space | 163204 | [163204-our-personal-space.json](./163204-our-personal-space.json) |
 | Our Place | 179155 | [179155-our-place.json](./179155-our-place.json) |
 | Our Private Homeroom | 239204 | [239204-our-private-homeroom.json](./239204-our-private-homeroom.json) |
+| Our Red String | 150023 | [150023-our-red-string.json](./150023-our-red-string.json) |
 | Our Story in Spring | 254471 | [254471-our-story-in-spring.json](./254471-our-story-in-spring.json) |
 | Our Summer Crush | 327990 | [327990-our-summer-crush.json](./327990-our-summer-crush.json) |
 | Our Summer Festival 2 | 352266 | [352266-our-summer-festival-2.json](./352266-our-summer-festival-2.json) |
