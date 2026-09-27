@@ -2472,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charon's Sabbath | 280904 | [280904-charons-sabbath.json](./280904-charons-sabbath.json) |
 | Charon's Staircase | 201775 | [201775-charons-staircase.json](./201775-charons-staircase.json) |
 | Charon's Staircase: Digital Deluxe Edition | 250417 | [250417-charons-staircase-digital-deluxe-edition.json](./250417-charons-staircase-digital-deluxe-edition.json) |
+| Charrua Soccer | 134546 | [134546-charrua-soccer.json](./134546-charrua-soccer.json) |
 | Charrua Soccer: Mirror Edition | 280344 | [280344-charrua-soccer-mirror-edition.json](./280344-charrua-soccer-mirror-edition.json) |
 | Charrua Soccer: Pro Edition | 277310 | [277310-charrua-soccer-pro-edition.json](./277310-charrua-soccer-pro-edition.json) |
 | Chart Weaver | 382892 | [382892-chart-weaver.json](./382892-chart-weaver.json) |
