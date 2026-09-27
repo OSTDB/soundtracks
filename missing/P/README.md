@@ -1305,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder: Abomination Vaults | 280311 | [280311-pathfinder-abomination-vaults.json](./280311-pathfinder-abomination-vaults.json) |
 | Pathfinder: Gallowspire Survivors | 252859 | [252859-pathfinder-gallowspire-survivors.json](./252859-pathfinder-gallowspire-survivors.json) |
 | Pathfinder: Kingmaker - Enhanced Plus Edition | 154530 | [154530-pathfinder-kingmaker-enhanced-plus-edition.json](./154530-pathfinder-kingmaker-enhanced-plus-edition.json) |
+| Pathfinder: Kingmaker - Royal Ascension | 134569 | [134569-pathfinder-kingmaker-royal-ascension.json](./134569-pathfinder-kingmaker-royal-ascension.json) |
 | Pathfinder: Kingmaker - Varnhold's Lot | 115540 | [115540-pathfinder-kingmaker-varnholds-lot.json](./115540-pathfinder-kingmaker-varnholds-lot.json) |
 | Pathfinder: Wrath of the Righteous - Game of the Year Edition | 331855 | [331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json](./331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json) |
 | Pathfinder: Wrath of the Righteous - Limited Edition | 206675 | [206675-pathfinder-wrath-of-the-righteous-limited-edition.json](./206675-pathfinder-wrath-of-the-righteous-limited-edition.json) |
@@ -1975,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persha and the Magic Labyrinth: Arabian Nyaights | 264901 | [264901-persha-and-the-magic-labyrinth-arabian-nyaights.json](./264901-persha-and-the-magic-labyrinth-arabian-nyaights.json) |
 | Persha and the Magic Puzzle: Arabian Nyaights | 235210 | [235210-persha-and-the-magic-puzzle-arabian-nyaights.json](./235210-persha-and-the-magic-puzzle-arabian-nyaights.json) |
 | Persian Gulf Inferno | 72329 | [72329-persian-gulf-inferno.json](./72329-persian-gulf-inferno.json) |
+| Persian Nights 2: The Moonlight Veil | 134557 | [134557-persian-nights-2-the-moonlight-veil.json](./134557-persian-nights-2-the-moonlight-veil.json) |
 | Persian: The Great Lamp Heist | 51505 | [51505-persian-the-great-lamp-heist.json](./51505-persian-the-great-lamp-heist.json) |
 | Persist | 223681 | [223681-persist.json](./223681-persist.json) |
 | Persnippety | 305942 | [305942-persnippety.json](./305942-persnippety.json) |
