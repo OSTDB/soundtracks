@@ -4058,6 +4058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun Witch | 140451 | [140451-shotgun-witch.json](./140451-shotgun-witch.json) |
 | Shothop | 396417 | [396417-shothop.json](./396417-shothop.json) |
 | Shotz.io | 125848 | [125848-shotz-io.json](./125848-shotz-io.json) |
+| Shòu'ěr Gōnglüè TFK Faculty | 119641 | [119641-shouer-gonglue-tfk-faculty.json](./119641-shouer-gonglue-tfk-faculty.json) |
 | Shougakusei no Uchi ni Oboetai Eitango | 260693 | [260693-shougakusei-no-uchi-ni-oboetai-eitango.json](./260693-shougakusei-no-uchi-ni-oboetai-eitango.json) |
 | Shougi ga Tsuyokunaru: Gekisashi - Jouseki Doujou | 269528 | [269528-shougi-ga-tsuyokunaru-gekisashi-jouseki-doujou.json](./269528-shougi-ga-tsuyokunaru-gekisashi-jouseki-doujou.json) |
 | Shoujo Activity | 194606 | [194606-shoujo-activity.json](./194606-shoujo-activity.json) |
@@ -13870,6 +13871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Penguin Ball & Chain | 343433 | [343433-super-penguin-ball-and-chain.json](./343433-super-penguin-ball-and-chain.json) |
 | Super Picture Cross | 272913 | [272913-super-picture-cross.json](./272913-super-picture-cross.json) |
 | Super Pig | 120989 | [120989-super-pig.json](./120989-super-pig.json) |
+| Super Pig X | 119623 | [119623-super-pig-x.json](./119623-super-pig-x.json) |
 | Super Pika Land | 50554 | [50554-super-pika-land.json](./50554-super-pika-land.json) |
 | Super Pika Land Ultra: Chocolate Version | 223022 | [223022-super-pika-land-ultra-chocolate-version.json](./223022-super-pika-land-ultra-chocolate-version.json) |
 | Super Pinball | 64353 | [64353-super-pinball.json](./64353-super-pinball.json) |
