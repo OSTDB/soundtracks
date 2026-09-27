@@ -5732,6 +5732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drachen Zor | 94011 | [94011-drachen-zor.json](./94011-drachen-zor.json) |
 | Draco | 151163 | [151163-draco.json](./151163-draco.json) |
 | Draco Dux | 33069 | [33069-draco-dux.json](./33069-draco-dux.json) |
+| Draco Space X | 151620 | [151620-draco-space-x.json](./151620-draco-space-x.json) |
 | Draco's Misfortune | 110990 | [110990-dracos-misfortune.json](./110990-dracos-misfortune.json) |
 | DracoFighter | 207527 | [207527-dracofighter.json](./207527-dracofighter.json) |
 | Draconic Date | 324889 | [324889-draconic-date.json](./324889-draconic-date.json) |
@@ -6371,6 +6372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Doctor | 401819 | [401819-dream-doctor.json](./401819-dream-doctor.json) |
 | Dream Doll Dimension | 201762 | [201762-dream-doll-dimension.json](./201762-dream-doll-dimension.json) |
 | Dream Doll House - Decorating Game | 100868 | [100868-dream-doll-house-decorating-game.json](./100868-dream-doll-house-decorating-game.json) |
+| Dream Drifters | 151625 | [151625-dream-drifters.json](./151625-dream-drifters.json) |
 | Dream Eater | 374056 | [374056-dream-eater.json](./374056-dream-eater.json) |
 | Dream Eater | 410960 | [410960-dream-eater.json](./410960-dream-eater.json) |
 | Dream Eaters.exe | 344353 | [344353-dream-eaters-exe.json](./344353-dream-eaters-exe.json) |
