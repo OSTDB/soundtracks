@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mackle Story Remake | 407462 | [407462-mackle-story-remake.json](./407462-mackle-story-remake.json) |
 | MacMan And The Caber Eater | 314495 | [314495-macman-and-the-caber-eater.json](./314495-macman-and-the-caber-eater.json) |
 | MacMan And The Great Escape | 314496 | [314496-macman-and-the-great-escape.json](./314496-macman-and-the-great-escape.json) |
+| Macro golf | 169772 | [169772-macro-golf.json](./169772-macro-golf.json) |
 | Macrocosm | 200180 | [200180-macrocosm.json](./200180-macrocosm.json) |
 | Macross - Eternal Love Song | 41994 | [41994-macross-eternal-love-song.json](./41994-macross-eternal-love-song.json) |
 | Macross 30: Voices across the Galaxy | 79292 | [79292-macross-30-voices-across-the-galaxy.json](./79292-macross-30-voices-across-the-galaxy.json) |
@@ -3331,6 +3332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megapolis | 196320 | [196320-megapolis.json](./196320-megapolis.json) |
 | Megaquarium: Invertebrilliant Collection | 392780 | [392780-megaquarium-invertebrilliant-collection.json](./392780-megaquarium-invertebrilliant-collection.json) |
 | MegaRace 3 | 46634 | [46634-megarace-3.json](./46634-megarace-3.json) |
+| MegaRamp | 169789 | [169789-megaramp.json](./169789-megaramp.json) |
 | Megaspectre | 70361 | [70361-megaspectre.json](./70361-megaspectre.json) |
 | Megatack | 38576 | [38576-megatack.json](./38576-megatack.json) |
 | Megaton Musashi W: V Navigator "Dragon" | 301016 | [301016-megaton-musashi-w-v-navigator-dragon.json](./301016-megaton-musashi-w-v-navigator-dragon.json) |
@@ -4154,6 +4156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metropolismania 4 | 178560 | [178560-metropolismania-4.json](./178560-metropolismania-4.json) |
 | Metropolitan Mayhem | 270667 | [270667-metropolitan-mayhem.json](./270667-metropolitan-mayhem.json) |
 | MetroSim: The Subway Simulator | 277598 | [277598-metrosim-the-subway-simulator.json](./277598-metrosim-the-subway-simulator.json) |
+| Metu Caligine | 169765 | [169765-metu-caligine.json](./169765-metu-caligine.json) |
 | Meu Primeiro Laptop da Xuxa | 255339 | [255339-meu-primeiro-laptop-da-xuxa.json](./255339-meu-primeiro-laptop-da-xuxa.json) |
 | Mevo and the Grooveriders | 7963 | [7963-mevo-and-the-grooveriders.json](./7963-mevo-and-the-grooveriders.json) |
 | Mew Mew Chamber for Steam | 90543 | [90543-mew-mew-chamber-for-steam.json](./90543-mew-mew-chamber-for-steam.json) |
@@ -4818,6 +4821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Medley | 209509 | [209509-mind-medley.json](./209509-mind-medley.json) |
 | Mind Muscle VR | 150531 | [150531-mind-muscle-vr.json](./150531-mind-muscle-vr.json) |
 | Mind Over Matter | 209508 | [209508-mind-over-matter.json](./209508-mind-over-matter.json) |
+| Mind Over Melee Radio | 169768 | [169768-mind-over-melee-radio.json](./169768-mind-over-melee-radio.json) |
 | Mind Over Monarchy | 347339 | [347339-mind-over-monarchy.json](./347339-mind-over-monarchy.json) |
 | Mind Palace | 307594 | [307594-mind-palace.json](./307594-mind-palace.json) |
 | Mind Puzzle 2023 | 265200 | [265200-mind-puzzle-2023.json](./265200-mind-puzzle-2023.json) |
@@ -7828,6 +7832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushiking: King of the Beetles | 80223 | [80223-mushiking-king-of-the-beetles.json](./80223-mushiking-king-of-the-beetles.json) |
 | Mushiverse: Online Boardgame | 309446 | [309446-mushiverse-online-boardgame.json](./309446-mushiverse-online-boardgame.json) |
 | Mushroom Card RPG | 219818 | [219818-mushroom-card-rpg.json](./219818-mushroom-card-rpg.json) |
+| Mushroom Challenge | 169755 | [169755-mushroom-challenge.json](./169755-mushroom-challenge.json) |
 | Mushroom Doom | 389747 | [389747-mushroom-doom.json](./389747-mushroom-doom.json) |
 | Mushroom Forest | 382881 | [382881-mushroom-forest.json](./382881-mushroom-forest.json) |
 | Mushroom Heaven | 202807 | [202807-mushroom-heaven.json](./202807-mushroom-heaven.json) |
