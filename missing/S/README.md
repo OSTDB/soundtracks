@@ -6354,6 +6354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snooker Fever: Premium Edition | 333722 | [333722-snooker-fever-premium-edition.json](./333722-snooker-fever-premium-edition.json) |
 | Snooker Fever: Upgrade Edition | 399828 | [399828-snooker-fever-upgrade-edition.json](./399828-snooker-fever-upgrade-edition.json) |
 | Snooker Live Pro | 38948 | [38948-snooker-live-pro.json](./38948-snooker-live-pro.json) |
+| Snooker Loopy Pro | 159646 | [159646-snooker-loopy-pro.json](./159646-snooker-loopy-pro.json) |
 | Snooker Nation Championship | 33123 | [33123-snooker-nation-championship.json](./33123-snooker-nation-championship.json) |
 | Snooker Stars | 121613 | [121613-snooker-stars.json](./121613-snooker-stars.json) |
 | Snoop Dogg Boxing | 224503 | [224503-snoop-dogg-boxing.json](./224503-snoop-dogg-boxing.json) |
@@ -7983,6 +7984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space | 213452 | [213452-space.json](./213452-space.json) |
 | Space - The Return Of The Pixxelfrazzer | 34883 | [34883-space-the-return-of-the-pixxelfrazzer.json](./34883-space-the-return-of-the-pixxelfrazzer.json) |
 | Space 2: Breakthrough Gaming Arcade | 145669 | [145669-space-2-breakthrough-gaming-arcade.json](./145669-space-2-breakthrough-gaming-arcade.json) |
+| Space Abyss | 159642 | [159642-space-abyss.json](./159642-space-abyss.json) |
 | Space Ace | 100161 | [100161-space-ace.json](./100161-space-ace.json) |
 | Space Ace | 363032 | [363032-space-ace.json](./363032-space-ace.json) |
 | Space Adventure | 100187 | [100187-space-adventure.json](./100187-space-adventure.json) |
