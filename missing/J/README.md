@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jax: History Repeats Itself | 275725 | [275725-jax-history-repeats-itself.json](./275725-jax-history-repeats-itself.json) |
 | Jaxon the Thief | 120823 | [120823-jaxon-the-thief.json](./120823-jaxon-the-thief.json) |
 | Jaxx Blorgin's UFO Jam | 391306 | [391306-jaxx-blorgins-ufo-jam.json](./391306-jaxx-blorgins-ufo-jam.json) |
+| Jay's Walkin' | 156554 | [156554-jays-walkin.json](./156554-jays-walkin.json) |
 | Jayce | 177500 | [177500-jayce.json](./177500-jayce.json) |
 | Jazz and Faust | 127331 | [127331-jazz-and-faust.json](./127331-jazz-and-faust.json) |
 | Jazz It Up | 177994 | [177994-jazz-it-up.json](./177994-jazz-it-up.json) |
@@ -865,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiǔzhōu Jiàn Gē | 367405 | [367405-jiuzhou-jian-ge.json](./367405-jiuzhou-jian-ge.json) |
 | Jive Blocks | 222993 | [222993-jive-blocks.json](./222993-jive-blocks.json) |
 | Jiwa: The Damned Soul | 327169 | [327169-jiwa-the-damned-soul.json](./327169-jiwa-the-damned-soul.json) |
+| Jíxiàn Qiúshēng | 156566 | [156566-jixian-qiusheng.json](./156566-jixian-qiusheng.json) |
 | Jīxiè Xīnghé | 119592 | [119592-jixie-xinghe.json](./119592-jixie-xinghe.json) |
 | Jixo 2: Summer Dreams - Collector's Edition | 362854 | [362854-jixo-2-summer-dreams-collectors-edition.json](./362854-jixo-2-summer-dreams-collectors-edition.json) |
 | Jixo 3: Hidden Horizons - Collector's Edition | 362853 | [362853-jixo-3-hidden-horizons-collectors-edition.json](./362853-jixo-3-hidden-horizons-collectors-edition.json) |
