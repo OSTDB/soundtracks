@@ -8580,6 +8580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Variance Authority | 337641 | [337641-space-variance-authority.json](./337641-space-variance-authority.json) |
 | Space Varments | 194302 | [194302-space-varments.json](./194302-space-varments.json) |
 | Space Viking Raiders | 74469 | [74469-space-viking-raiders.json](./74469-space-viking-raiders.json) |
+| Space Viking Raiders VR | 123485 | [123485-space-viking-raiders-vr.json](./123485-space-viking-raiders-vr.json) |
 | Space Vikings | 261551 | [261551-space-vikings.json](./261551-space-vikings.json) |
 | Space Virus Escape | 363044 | [363044-space-virus-escape.json](./363044-space-virus-escape.json) |
 | Space Voyage: The Puzzle Game | 220668 | [220668-space-voyage-the-puzzle-game.json](./220668-space-voyage-the-puzzle-game.json) |
@@ -15102,6 +15103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Berserk: Guts' Rage | 28840 | [28840-sword-of-the-berserk-guts-rage.json](./28840-sword-of-the-berserk-guts-rage.json) |
 | Sword of the Necromancer: Resurrection | 290642 | [290642-sword-of-the-necromancer-resurrection.json](./290642-sword-of-the-necromancer-resurrection.json) |
 | Sword of the Necromancer: Ultra Collector's Edition | 148543 | [148543-sword-of-the-necromancer-ultra-collectors-edition.json](./148543-sword-of-the-necromancer-ultra-collectors-edition.json) |
+| Sword of the Slayer | 123524 | [123524-sword-of-the-slayer.json](./123524-sword-of-the-slayer.json) |
 | Sword of the Spirit | 243123 | [243123-sword-of-the-spirit.json](./243123-sword-of-the-spirit.json) |
 | Sword of the Stars: Argos Naval Yard | 10936 | [10936-sword-of-the-stars-argos-naval-yard.json](./10936-sword-of-the-stars-argos-naval-yard.json) |
 | Sword of the Stars: The Pit - Mind Games | 10950 | [10950-sword-of-the-stars-the-pit-mind-games.json](./10950-sword-of-the-stars-the-pit-mind-games.json) |
@@ -15351,6 +15353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthwave Ascension | 265117 | [265117-synthwave-ascension.json](./265117-synthwave-ascension.json) |
 | Synthwave Driver | 344387 | [344387-synthwave-driver.json](./344387-synthwave-driver.json) |
 | Synthwave Hop | 172198 | [172198-synthwave-hop.json](./172198-synthwave-hop.json) |
+| Synzzball | 123499 | [123499-synzzball.json](./123499-synzzball.json) |
 | Syobon Action 2 HD | 365136 | [365136-syobon-action-2-hd.json](./365136-syobon-action-2-hd.json) |
 | Syobon Action HD | 365135 | [365135-syobon-action-hd.json](./365135-syobon-action-hd.json) |
 | Syobon Action NES Edition | 198474 | [198474-syobon-action-nes-edition.json](./198474-syobon-action-nes-edition.json) |
