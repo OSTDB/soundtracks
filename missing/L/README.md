@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Alive | 37363 | [37363-last-alive.json](./37363-last-alive.json) |
 | Last Answer | 30062 | [30062-last-answer.json](./30062-last-answer.json) |
 | Last Antagonist | 361885 | [361885-last-antagonist.json](./361885-last-antagonist.json) |
+| Last Arrows | 123535 | [123535-last-arrows.json](./123535-last-arrows.json) |
 | Last Battalion | 20127 | [20127-last-battalion.json](./20127-last-battalion.json) |
 | Last Bible III | 38354 | [38354-last-bible-iii.json](./38354-last-bible-iii.json) |
 | Last Bloody Snack | 256553 | [256553-last-bloody-snack.json](./256553-last-bloody-snack.json) |
@@ -940,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LeapFrog: Text & Learn | 327425 | [327425-leapfrog-text-and-learn.json](./327425-leapfrog-text-and-learn.json) |
 | LeapLand Adventures | 230275 | [230275-leapland-adventures.json](./230275-leapland-adventures.json) |
 | Leapo Faith | 321568 | [321568-leapo-faith.json](./321568-leapo-faith.json) |
+| Leapoid | 123493 | [123493-leapoid.json](./123493-leapoid.json) |
 | LeapSchool Math | 208323 | [208323-leapschool-math.json](./208323-leapschool-math.json) |
 | LeapSchool Reading | 208324 | [208324-leapschool-reading.json](./208324-leapschool-reading.json) |
 | Learn & Discover Home | 326588 | [326588-learn-and-discover-home.json](./326588-learn-and-discover-home.json) |
@@ -2062,6 +2064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightbot: Programming Puzzles | 88528 | [88528-lightbot-programming-puzzles.json](./88528-lightbot-programming-puzzles.json) |
 | Lightbox | 153861 | [153861-lightbox.json](./153861-lightbox.json) |
 | LightCells | 368582 | [368582-lightcells.json](./368582-lightcells.json) |
+| Lighted Knights | 123525 | [123525-lighted-knights.json](./123525-lighted-knights.json) |
 | Lighten Up | 223407 | [223407-lighten-up.json](./223407-lighten-up.json) |
 | Lightening Force: Quest for the Darkstar | 46273 | [46273-lightening-force-quest-for-the-darkstar.json](./46273-lightening-force-quest-for-the-darkstar.json) |
 | Lighter | 114394 | [114394-lighter.json](./114394-lighter.json) |
@@ -2091,6 +2094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightning Link | 386224 | [386224-lightning-link.json](./386224-lightning-link.json) |
 | Lightning Plan | 246344 | [246344-lightning-plan.json](./246344-lightning-plan.json) |
 | Lightning Returns: Final Fantasy XIII | 2449 | [2449-lightning-returns-final-fantasy-xiii.json](./2449-lightning-returns-final-fantasy-xiii.json) |
+| Lightning Wings II | 123482 | [123482-lightning-wings-ii.json](./123482-lightning-wings-ii.json) |
 | Lightning: D-Day | 47984 | [47984-lightning-d-day.json](./47984-lightning-d-day.json) |
 | Lighton | 148895 | [148895-lighton.json](./148895-lighton.json) |
 | Lightopus | 22316 | [22316-lightopus.json](./22316-lightopus.json) |
@@ -3363,6 +3367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost and Flounder | 108985 | [108985-lost-and-flounder.json](./108985-lost-and-flounder.json) |
 | Lost and Found Co. | 224629 | [224629-lost-and-found-co.json](./224629-lost-and-found-co.json) |
 | Lost and Hound | 116833 | [116833-lost-and-hound.json](./116833-lost-and-hound.json) |
+| Lost Artifacts: Frozen Queen | 123484 | [123484-lost-artifacts-frozen-queen.json](./123484-lost-artifacts-frozen-queen.json) |
 | Lost Ascension | 260099 | [260099-lost-ascension.json](./260099-lost-ascension.json) |
 | Lost Assassin | 157574 | [157574-lost-assassin.json](./157574-lost-assassin.json) |
 | Lost at Sea | 209139 | [209139-lost-at-sea.json](./209139-lost-at-sea.json) |
