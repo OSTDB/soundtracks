@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-kai Watch Dance: Just Dance Special Edition | 59946 | [59946-yo-kai-watch-dance-just-dance-special-edition.json](./59946-yo-kai-watch-dance-just-dance-special-edition.json) |
 | Yo-Kai Watch Wibble Wobble: The Great Detective Nekomata | 397922 | [397922-yo-kai-watch-wibble-wobble-the-great-detective-nekomata.json](./397922-yo-kai-watch-wibble-wobble-the-great-detective-nekomata.json) |
 | Yo! Ninjia | 234321 | [234321-yo-ninjia.json](./234321-yo-ninjia.json) |
+| Yo! Noid 2: Game of a Year Edition | 133918 | [133918-yo-noid-2-game-of-a-year-edition.json](./133918-yo-noid-2-game-of-a-year-edition.json) |
 | Yo' Bro | 42023 | [42023-yo-bro.json](./42023-yo-bro.json) |
 | Yoake Mae yori Ruri Iro na | 60801 | [60801-yoake-mae-yori-ruri-iro-na.json](./60801-yoake-mae-yori-ruri-iro-na.json) |
 | Yoake no Mariko | 65455 | [65455-yoake-no-mariko.json](./65455-yoake-no-mariko.json) |
