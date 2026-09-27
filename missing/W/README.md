@@ -2254,6 +2254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will Hero | 92116 | [92116-will-hero.json](./92116-will-hero.json) |
 | Will it Crush? | 102785 | [102785-will-it-crush.json](./102785-will-it-crush.json) |
 | Will it Crush? | 90034 | [90034-will-it-crush.json](./90034-will-it-crush.json) |
+| Will It Ever End? | 143572 | [143572-will-it-ever-end.json](./143572-will-it-ever-end.json) |
 | Will There Bee Another? | 225740 | [225740-will-there-bee-another.json](./225740-will-there-bee-another.json) |
 | Will This Bitter Night Bring Change? | 204466 | [204466-will-this-bitter-night-bring-change.json](./204466-will-this-bitter-night-bring-change.json) |
 | Will Walker | 147377 | [147377-will-walker.json](./147377-will-walker.json) |
@@ -3024,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodland Isle | 265103 | [265103-woodland-isle.json](./265103-woodland-isle.json) |
 | Woodland Rebels | 385604 | [385604-woodland-rebels.json](./385604-woodland-rebels.json) |
 | Woodlands National Park | 312546 | [312546-woodlands-national-park.json](./312546-woodlands-national-park.json) |
+| Woodle Deluxe | 143631 | [143631-woodle-deluxe.json](./143631-woodle-deluxe.json) |
 | Woodle Tree 2: Deluxe | 120186 | [120186-woodle-tree-2-deluxe.json](./120186-woodle-tree-2-deluxe.json) |
 | Woodle Tree 2: Deluxe Plus | 194438 | [194438-woodle-tree-2-deluxe-plus.json](./194438-woodle-tree-2-deluxe-plus.json) |
 | Woodle Tree Adventures | 15325 | [15325-woodle-tree-adventures.json](./15325-woodle-tree-adventures.json) |
@@ -3700,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Would You Still Love Me if I Was a Worm? | 372585 | [372585-would-you-still-love-me-if-i-was-a-worm.json](./372585-would-you-still-love-me-if-i-was-a-worm.json) |
 | Would You Still Love Me? | 335321 | [335321-would-you-still-love-me.json](./335321-would-you-still-love-me.json) |
 | Wound Man | 273385 | [273385-wound-man.json](./273385-wound-man.json) |
+| Wound of the West | 143582 | [143582-wound-of-the-west.json](./143582-wound-of-the-west.json) |
 | Wounded: The Beginning | 114560 | [114560-wounded-the-beginning.json](./114560-wounded-the-beginning.json) |
 | Wounds 4 Hard Medication | 181291 | [181291-wounds-4-hard-medication.json](./181291-wounds-4-hard-medication.json) |
 | Wove | 369024 | [369024-wove.json](./369024-wove.json) |
