@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pajama Sam Vol. 1 | 154442 | [154442-pajama-sam-vol-1.json](./154442-pajama-sam-vol-1.json) |
 | Pajama Sam Vol. 2 | 154440 | [154440-pajama-sam-vol-2.json](./154440-pajama-sam-vol-2.json) |
 | Pakacuda | 83264 | [83264-pakacuda.json](./83264-pakacuda.json) |
+| Pakicetus | 126516 | [126516-pakicetus.json](./126516-pakicetus.json) |
 | Pakka Pets Village | 230212 | [230212-pakka-pets-village.json](./230212-pakka-pets-village.json) |
 | Pakku Pony | 374671 | [374671-pakku-pony.json](./374671-pakku-pony.json) |
 | Pako | 9568 | [9568-pako.json](./9568-pako.json) |
@@ -3632,6 +3633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelarium | 117853 | [117853-pixelarium.json](./117853-pixelarium.json) |
 | PixelBot Extreme! | 96229 | [96229-pixelbot-extreme.json](./96229-pixelbot-extreme.json) |
 | PixelCraft Game | 100929 | [100929-pixelcraft-game.json](./100929-pixelcraft-game.json) |
+| PixelCraft VR | 126542 | [126542-pixelcraft-vr.json](./126542-pixelcraft-vr.json) |
 | Pixelegend | 346615 | [346615-pixelegend.json](./346615-pixelegend.json) |
 | Pixelfence | 128982 | [128982-pixelfence.json](./128982-pixelfence.json) |
 | PixelGround | 191848 | [191848-pixelground.json](./191848-pixelground.json) |
@@ -4217,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ploppy Pairs | 197245 | [197245-ploppy-pairs.json](./197245-ploppy-pairs.json) |
 | Plot Armor | 123422 | [123422-plot-armor.json](./123422-plot-armor.json) |
 | Plot Hole | 238455 | [238455-plot-hole.json](./238455-plot-hole.json) |
+| Plot of the Druid | 126533 | [126533-plot-of-the-druid.json](./126533-plot-of-the-druid.json) |
 | Plot Twist | 329649 | [329649-plot-twist.json](./329649-plot-twist.json) |
 | Plotting | 12196 | [12196-plotting.json](./12196-plotting.json) |
 | Plowing | 276190 | [276190-plowing.json](./276190-plowing.json) |
