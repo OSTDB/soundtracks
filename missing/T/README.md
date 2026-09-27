@@ -5114,6 +5114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Memory of a Burning Thought | 335655 | [335655-the-last-memory-of-a-burning-thought.json](./335655-the-last-memory-of-a-burning-thought.json) |
 | The Last Mission | 298633 | [298633-the-last-mission.json](./298633-the-last-mission.json) |
 | The Last Mission | 55078 | [55078-the-last-mission.json](./55078-the-last-mission.json) |
+| The Last Monsters | 132735 | [132735-the-last-monsters.json](./132735-the-last-monsters.json) |
 | The Last Mothership | 390765 | [390765-the-last-mothership.json](./390765-the-last-mothership.json) |
 | The Last Night | 18285 | [18285-the-last-night.json](./18285-the-last-night.json) |
 | The Last Ninja | 8400 | [8400-the-last-ninja.json](./8400-the-last-ninja.json) |
@@ -6222,6 +6223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paige Files | 255635 | [255635-the-paige-files.json](./255635-the-paige-files.json) |
 | The Painscreek Killings | 68682 | [68682-the-painscreek-killings.json](./68682-the-painscreek-killings.json) |
 | The Paint Gunner | 187211 | [187211-the-paint-gunner.json](./187211-the-paint-gunner.json) |
+| The Painted Forest | 132705 | [132705-the-painted-forest.json](./132705-the-painted-forest.json) |
 | The Painting | 319557 | [319557-the-painting.json](./319557-the-painting.json) |
 | The Palace on the Hill | 153430 | [153430-the-palace-on-the-hill.json](./153430-the-palace-on-the-hill.json) |
 | The Pale Man | 232547 | [232547-the-pale-man.json](./232547-the-pale-man.json) |
@@ -6350,6 +6352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Political Process | 127113 | [127113-the-political-process.json](./127113-the-political-process.json) |
 | The Pong P | 219177 | [219177-the-pong-p.json](./219177-the-pong-p.json) |
 | The Pools | 333740 | [333740-the-pools.json](./333740-the-pools.json) |
+| The Pope: Power & Sin | 132697 | [132697-the-pope-power-and-sin.json](./132697-the-pope-power-and-sin.json) |
 | The Posthumous Investigation | 255719 | [255719-the-posthumous-investigation.json](./255719-the-posthumous-investigation.json) |
 | The Postman Only Dies Once | 71245 | [71245-the-postman-only-dies-once.json](./71245-the-postman-only-dies-once.json) |
 | The Potion Master | 232549 | [232549-the-potion-master.json](./232549-the-potion-master.json) |
@@ -11725,6 +11728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Townsmen: A Kingdom Rebuilt - The Seaside Empire | 155067 | [155067-townsmen-a-kingdom-rebuilt-the-seaside-empire.json](./155067-townsmen-a-kingdom-rebuilt-the-seaside-empire.json) |
 | Townville, the Show | 132178 | [132178-townville-the-show.json](./132178-townville-the-show.json) |
 | TowOrbs | 413726 | [413726-toworbs.json](./413726-toworbs.json) |
+| Toxastra | 132699 | [132699-toxastra.json](./132699-toxastra.json) |
 | Toxic 2 | 97685 | [97685-toxic-2.json](./97685-toxic-2.json) |
 | Toxic Bubbles | 23730 | [23730-toxic-bubbles.json](./23730-toxic-bubbles.json) |
 | Toxic Bunny | 145523 | [145523-toxic-bunny.json](./145523-toxic-bunny.json) |
