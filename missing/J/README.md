@@ -1445,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junk Sec | 394901 | [394901-junk-sec.json](./394901-junk-sec.json) |
 | Junk Shop Telescope | 145475 | [145475-junk-shop-telescope.json](./145475-junk-shop-telescope.json) |
 | Junk Survivor | 246075 | [246075-junk-survivor.json](./246075-junk-survivor.json) |
+| Junk: The Legend of Junichi Kato | 164235 | [164235-junk-the-legend-of-junichi-kato.json](./164235-junk-the-legend-of-junichi-kato.json) |
 | Junkcity Factory Simulator | 326397 | [326397-junkcity-factory-simulator.json](./326397-junkcity-factory-simulator.json) |
 | Junkineering | 320866 | [320866-junkineering.json](./320866-junkineering.json) |
 | Junklands | 284897 | [284897-junklands.json](./284897-junklands.json) |
