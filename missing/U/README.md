@@ -1476,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Use Holy Water! | 243961 | [243961-use-holy-water.json](./243961-use-holy-water.json) |
 | Use Your Brainz Edu | 395718 | [395718-use-your-brainz-edu.json](./395718-use-your-brainz-edu.json) |
 | Use Your Mind | 241470 | [241470-use-your-mind.json](./241470-use-your-mind.json) |
+| Use Your Outside Voice, Richie Tozier! | 157520 | [157520-use-your-outside-voice-richie-tozier.json](./157520-use-your-outside-voice-richie-tozier.json) |
 | Useless Box | 109608 | [109608-useless-box.json](./109608-useless-box.json) |
 | Useless Box: The Game | 126615 | [126615-useless-box-the-game.json](./126615-useless-box-the-game.json) |
 | Useless Demon Lord | 264351 | [264351-useless-demon-lord.json](./264351-useless-demon-lord.json) |
