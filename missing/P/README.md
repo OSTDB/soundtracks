@@ -834,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Lost: First Contact | 59975 | [59975-paradise-lost-first-contact.json](./59975-paradise-lost-first-contact.json) |
 | Paradise Lost: FPS Cosmic Horror Game | 69441 | [69441-paradise-lost-fps-cosmic-horror-game.json](./69441-paradise-lost-fps-cosmic-horror-game.json) |
 | Paradise Lust 2 | 253369 | [253369-paradise-lust-2.json](./253369-paradise-lust-2.json) |
+| Paradise Marsh | 173042 | [173042-paradise-marsh.json](./173042-paradise-marsh.json) |
 | Paradise of Freedom | 332539 | [332539-paradise-of-freedom.json](./332539-paradise-of-freedom.json) |
 | Paradise Shooting 2!! | 311808 | [311808-paradise-shooting-2.json](./311808-paradise-shooting-2.json) |
 | Paradise Sickness | 270769 | [270769-paradise-sickness.json](./270769-paradise-sickness.json) |
@@ -2201,6 +2202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Astronaut Lucid VR | 122340 | [122340-phantom-astronaut-lucid-vr.json](./122340-phantom-astronaut-lucid-vr.json) |
 | Phantom Asylum VR | 333651 | [333651-phantom-asylum-vr.json](./333651-phantom-asylum-vr.json) |
 | Phantom Blade 0 | 250618 | [250618-phantom-blade-0.json](./250618-phantom-blade-0.json) |
+| Phantom Blade: Executioners | 173080 | [173080-phantom-blade-executioners.json](./173080-phantom-blade-executioners.json) |
 | Phantom Bound | 293626 | [293626-phantom-bound.json](./293626-phantom-bound.json) |
 | Phantom Brave PC: Digital Chroma Edition | 53457 | [53457-phantom-brave-pc-digital-chroma-edition.json](./53457-phantom-brave-pc-digital-chroma-edition.json) |
 | Phantom Brave: The Hermuda Triangle Remastered | 144246 | [144246-phantom-brave-the-hermuda-triangle-remastered.json](./144246-phantom-brave-the-hermuda-triangle-remastered.json) |
@@ -4676,6 +4678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Bear Game | 234574 | [234574-polar-bear-game.json](./234574-polar-bear-game.json) |
 | Polar Bear in Space! | 250934 | [250934-polar-bear-in-space.json](./250934-polar-bear-in-space.json) |
 | Polar Bowler 1st Frame | 294452 | [294452-polar-bowler-1st-frame.json](./294452-polar-bowler-1st-frame.json) |
+| Polar Explorer Simulator | 173061 | [173061-polar-explorer-simulator.json](./173061-polar-explorer-simulator.json) |
 | Polar Panic | 21768 | [21768-polar-panic.json](./21768-polar-panic.json) |
 | Polar Panic | 275603 | [275603-polar-panic.json](./275603-polar-panic.json) |
 | Polar Paradise | 216342 | [216342-polar-paradise.json](./216342-polar-paradise.json) |
@@ -4790,6 +4793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Parkour | 215699 | [215699-poly-parkour.json](./215699-poly-parkour.json) |
 | Poly Party | 158664 | [158664-poly-party.json](./158664-poly-party.json) |
 | Poly Puzzle: Dinosaurs | 221133 | [221133-poly-puzzle-dinosaurs.json](./221133-poly-puzzle-dinosaurs.json) |
+| Poly Puzzle: Furries 2 | 173069 | [173069-poly-puzzle-furries-2.json](./173069-poly-puzzle-furries-2.json) |
 | Poly Racing | 173290 | [173290-poly-racing.json](./173290-poly-racing.json) |
 | Poly S.A.E. | 185541 | [185541-poly-s-a-e.json](./185541-poly-s-a-e.json) |
 | Poly Shooting Simulator | 277886 | [277886-poly-shooting-simulator.json](./277886-poly-shooting-simulator.json) |
@@ -5703,6 +5707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Rage II | 167154 | [167154-primal-rage-ii.json](./167154-primal-rage-ii.json) |
 | Primal Roar: Jurassic Dinosaur Era | 220652 | [220652-primal-roar-jurassic-dinosaur-era.json](./220652-primal-roar-jurassic-dinosaur-era.json) |
 | Primal Survivors | 224627 | [224627-primal-survivors.json](./224627-primal-survivors.json) |
+| Primal Threat | 173048 | [173048-primal-threat.json](./173048-primal-threat.json) |
 | Primals.io | 80884 | [80884-primals-io.json](./80884-primals-io.json) |
 | Primavera Lihbor | 295538 | [295538-primavera-lihbor.json](./295538-primavera-lihbor.json) |
 | Prime | 291783 | [291783-prime.json](./291783-prime.json) |
@@ -7201,6 +7206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Adventures: Forest Animals | 328490 | [328490-puzzle-adventures-forest-animals.json](./328490-puzzle-adventures-forest-animals.json) |
 | Puzzle Arcade | 74420 | [74420-puzzle-arcade.json](./74420-puzzle-arcade.json) |
 | Puzzle Arena Toshinden | 44824 | [44824-puzzle-arena-toshinden.json](./44824-puzzle-arena-toshinden.json) |
+| Puzzle Art: Dogs | 173043 | [173043-puzzle-art-dogs.json](./173043-puzzle-art-dogs.json) |
 | Puzzle Art: Horses | 191207 | [191207-puzzle-art-horses.json](./191207-puzzle-art-horses.json) |
 | Puzzle Art: Primates | 189963 | [189963-puzzle-art-primates.json](./189963-puzzle-art-primates.json) |
 | Puzzle Art: Rodents | 191208 | [191208-puzzle-art-rodents.json](./191208-puzzle-art-rodents.json) |
