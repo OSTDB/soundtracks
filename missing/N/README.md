@@ -2586,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noble Fates | 183602 | [183602-noble-fates.json](./183602-noble-fates.json) |
 | Noble Knight | 263191 | [263191-noble-knight.json](./263191-noble-knight.json) |
 | Noble Steed | 379039 | [379039-noble-steed.json](./379039-noble-steed.json) |
+| Noble's Land | 137542 | [137542-nobles-land.json](./137542-nobles-land.json) |
 | Noble's Life: Kingdom Reborn | 173301 | [173301-nobles-life-kingdom-reborn.json](./173301-nobles-life-kingdom-reborn.json) |
 | NobleEscape | 149953 | [149953-nobleescape.json](./149953-nobleescape.json) |
 | Noblesse Oblige: Legacy of the Sorcerer Kings | 265577 | [265577-noblesse-oblige-legacy-of-the-sorcerer-kings.json](./265577-noblesse-oblige-legacy-of-the-sorcerer-kings.json) |
