@@ -1511,6 +1511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WetBread | 222934 | [222934-wetbread.json](./222934-wetbread.json) |
 | Wetpants | 121471 | [121471-wetpants.json](./121471-wetpants.json) |
 | Wetrix | 3637 | [3637-wetrix.json](./3637-wetrix.json) |
+| Wetten Dass..? | 122283 | [122283-wetten-dass.json](./122283-wetten-dass.json) |
 | Wetter | 371477 | [371477-wetter.json](./371477-wetter.json) |
 | Wettop | 358871 | [358871-wettop.json](./358871-wettop.json) |
 | Wetware | 142259 | [142259-wetware.json](./142259-wetware.json) |
