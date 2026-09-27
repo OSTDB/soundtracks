@@ -1241,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weather Lord: Hidden Realm | 46872 | [46872-weather-lord-hidden-realm.json](./46872-weather-lord-hidden-realm.json) |
 | Weather Lord: In Search of the Shaman | 46873 | [46873-weather-lord-in-search-of-the-shaman.json](./46873-weather-lord-in-search-of-the-shaman.json) |
 | Weather Report | 362919 | [362919-weather-report.json](./362919-weather-report.json) |
+| Weatherworn: The Adventure of Pap & Pup | 157526 | [157526-weatherworn-the-adventure-of-pap-and-pup.json](./157526-weatherworn-the-adventure-of-pap-and-pup.json) |
 | Weave | 108823 | [108823-weave.json](./108823-weave.json) |
 | Weave the Line - Puzzle games | 108278 | [108278-weave-the-line-puzzle-games.json](./108278-weave-the-line-puzzle-games.json) |
 | Weaveborn Heroes | 323517 | [323517-weaveborn-heroes.json](./323517-weaveborn-heroes.json) |
@@ -1419,6 +1420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wénzìyù | 115626 | [115626-wenziyu.json](./115626-wenziyu.json) |
 | Wer weiß denn sowas?: Das 3. Spiel | 315657 | [315657-wer-wei-denn-sowas-das-3-spiel.json](./315657-wer-wei-denn-sowas-das-3-spiel.json) |
 | Were House | 178553 | [178553-were-house.json](./178553-were-house.json) |
+| Were.Wolf | 157523 | [157523-were-wolf.json](./157523-were-wolf.json) |
 | Werewolf Party | 301378 | [301378-werewolf-party.json](./301378-werewolf-party.json) |
 | Werewolf Pinball | 105930 | [105930-werewolf-pinball.json](./105930-werewolf-pinball.json) |
 | Werewolf: The Apocalypse - Earthblood Champion of Gaia Pack | 149967 | [149967-werewolf-the-apocalypse-earthblood-champion-of-gaia-pack.json](./149967-werewolf-the-apocalypse-earthblood-champion-of-gaia-pack.json) |
@@ -2171,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Wolf | 81013 | [81013-wild-wolf.json](./81013-wild-wolf.json) |
 | Wild Wolf Simulator 3D | 200662 | [200662-wild-wolf-simulator-3d.json](./200662-wild-wolf-simulator-3d.json) |
 | Wild Wood | 141688 | [141688-wild-wood.json](./141688-wild-wood.json) |
+| Wild Workshop | 157490 | [157490-wild-workshop.json](./157490-wild-workshop.json) |
 | Wild world | 150629 | [150629-wild-world.json](./150629-wild-world.json) |
 | Wildagotchi: Virtual Pet | 261344 | [261344-wildagotchi-virtual-pet.json](./261344-wildagotchi-virtual-pet.json) |
 | Wildagotchi: Virtual Pet - Deluxe Edition | 277304 | [277304-wildagotchi-virtual-pet-deluxe-edition.json](./277304-wildagotchi-virtual-pet-deluxe-edition.json) |
@@ -2686,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wittengrad Is No More | 386254 | [386254-wittengrad-is-no-more.json](./386254-wittengrad-is-no-more.json) |
 | Wittle Defender | 358978 | [358978-wittle-defender.json](./358978-wittle-defender.json) |
 | Wixoss | 56135 | [56135-wixoss.json](./56135-wixoss.json) |
+| Wiz | 157517 | [157517-wiz.json](./157517-wiz.json) |
 | Wiz | 162406 | [162406-wiz.json](./162406-wiz.json) |
 | Wiz Khalifa's Weed Farm | 56168 | [56168-wiz-khalifas-weed-farm.json](./56168-wiz-khalifas-weed-farm.json) |
 | Wiz Party | 194294 | [194294-wiz-party.json](./194294-wiz-party.json) |
