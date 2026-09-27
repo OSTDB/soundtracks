@@ -1631,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Legends | 144805 | [144805-battle-legends.json](./144805-battle-legends.json) |
 | Battle Legends Arena | 196573 | [196573-battle-legends-arena.json](./196573-battle-legends-arena.json) |
 | Battle Line the Rise of War | 358285 | [358285-battle-line-the-rise-of-war.json](./358285-battle-line-the-rise-of-war.json) |
+| Battle Mage : Card Caster | 127166 | [127166-battle-mage-card-caster.json](./127166-battle-mage-card-caster.json) |
 | Battle Mages | 17427 | [17427-battle-mages.json](./17427-battle-mages.json) |
 | Battle Magi | 402899 | [402899-battle-magi.json](./402899-battle-magi.json) |
 | Battle Mania Daiginjou | 45734 | [45734-battle-mania-daiginjou.json](./45734-battle-mania-daiginjou.json) |
@@ -2112,6 +2113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear vs. Wolf Jigsaw Puzzle: Expansion Pack 3 | 357868 | [357868-bear-vs-wolf-jigsaw-puzzle-expansion-pack-3.json](./357868-bear-vs-wolf-jigsaw-puzzle-expansion-pack-3.json) |
 | Bear vs. Wolf Jigsaw Puzzle: Expansion Pack 4 | 357869 | [357869-bear-vs-wolf-jigsaw-puzzle-expansion-pack-4.json](./357869-bear-vs-wolf-jigsaw-puzzle-expansion-pack-4.json) |
 | Bear vs. Wolf Jigsaw Puzzle: Expansion Pack 5 | 357870 | [357870-bear-vs-wolf-jigsaw-puzzle-expansion-pack-5.json](./357870-bear-vs-wolf-jigsaw-puzzle-expansion-pack-5.json) |
+| Bear With Me: Episode 3 | 127137 | [127137-bear-with-me-episode-3.json](./127137-bear-with-me-episode-3.json) |
 | Bear With Me: The Complete Collection | 116990 | [116990-bear-with-me-the-complete-collection.json](./116990-bear-with-me-the-complete-collection.json) |
 | Bear With Me: The Lost Robots | 117105 | [117105-bear-with-me-the-lost-robots.json](./117105-bear-with-me-the-lost-robots.json) |
 | Bear, Vodka, Balalaika: Cyberpunk | 168768 | [168768-bear-vodka-balalaika-cyberpunk.json](./168768-bear-vodka-balalaika-cyberpunk.json) |
@@ -2307,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania IIDX 17 Sirius | 66644 | [66644-beatmania-iidx-17-sirius.json](./66644-beatmania-iidx-17-sirius.json) |
 | Beatmania IIDX 20 Tricoro | 61664 | [61664-beatmania-iidx-20-tricoro.json](./61664-beatmania-iidx-20-tricoro.json) |
 | Beatmania IIDX 26 Rootage | 112148 | [112148-beatmania-iidx-26-rootage.json](./112148-beatmania-iidx-26-rootage.json) |
+| Beatmania IIDX 27 Heroic Verse | 127142 | [127142-beatmania-iidx-27-heroic-verse.json](./127142-beatmania-iidx-27-heroic-verse.json) |
 | Beatmania IIDX 2nd style | 94021 | [94021-beatmania-iidx-2nd-style.json](./94021-beatmania-iidx-2nd-style.json) |
 | Beatmania IIDX 31 Epolis | 258714 | [258714-beatmania-iidx-31-epolis.json](./258714-beatmania-iidx-31-epolis.json) |
 | Beatmania IIDX 32 Pinky Crush | 310590 | [310590-beatmania-iidx-32-pinky-crush.json](./310590-beatmania-iidx-32-pinky-crush.json) |
@@ -2622,10 +2625,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Vengeance of Vilgax | 206736 | [206736-ben-10-vengeance-of-vilgax.json](./206736-ben-10-vengeance-of-vilgax.json) |
 | Ben and Holly: Big Star Fun | 109009 | [109009-ben-and-holly-big-star-fun.json](./109009-ben-and-holly-big-star-fun.json) |
 | Ben Bero Beh | 40265 | [40265-ben-bero-beh.json](./40265-ben-bero-beh.json) |
+| Ben Jordan: Paranormal Investigator | 127124 | [127124-ben-jordan-paranormal-investigator.json](./127124-ben-jordan-paranormal-investigator.json) |
 | Ben Jordan: Paranormal Investigator - Case 1: In Search of the Skunk-Ape | 78058 | [78058-ben-jordan-paranormal-investigator-case-1-in-search-of-the-skunk-ape.json](./78058-ben-jordan-paranormal-investigator-case-1-in-search-of-the-skunk-ape.json) |
 | Ben Jordan: Paranormal Investigator - Case 2: The Lost Galleon of the Salton Sea | 71216 | [71216-ben-jordan-paranormal-investigator-case-2-the-lost-galleon-of-the-salton-sea.json](./71216-ben-jordan-paranormal-investigator-case-2-the-lost-galleon-of-the-salton-sea.json) |
 | Ben Jordan: Paranormal Investigator - Case 4: Horror at Number 50 | 70981 | [70981-ben-jordan-paranormal-investigator-case-4-horror-at-number-50.json](./70981-ben-jordan-paranormal-investigator-case-4-horror-at-number-50.json) |
 | Ben Jordan: Paranormal Investigator - Case 6: Scourge of the Sea People | 73276 | [73276-ben-jordan-paranormal-investigator-case-6-scourge-of-the-sea-people.json](./73276-ben-jordan-paranormal-investigator-case-6-scourge-of-the-sea-people.json) |
+| Ben Jordan: Paranormal Investigator - Case 8: Relics of the Past | 127125 | [127125-ben-jordan-paranormal-investigator-case-8-relics-of-the-past.json](./127125-ben-jordan-paranormal-investigator-case-8-relics-of-the-past.json) |
 | Ben Pixel 10: Raging Fist | 193864 | [193864-ben-pixel-10-raging-fist.json](./193864-ben-pixel-10-raging-fist.json) |
 | Ben Tennyson: Ace Attorney | 308534 | [308534-ben-tennyson-ace-attorney.json](./308534-ben-tennyson-ace-attorney.json) |
 | Ben the Binder | 378303 | [378303-ben-the-binder.json](./378303-ben-the-binder.json) |
@@ -3992,6 +3997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Radius | 360660 | [360660-blast-radius.json](./360660-blast-radius.json) |
 | Blast Royale | 231621 | [231621-blast-royale.json](./231621-blast-royale.json) |
 | Blast the Past | 110144 | [110144-blast-the-past.json](./110144-blast-the-past.json) |
+| Blast Thru | 127141 | [127141-blast-thru.json](./127141-blast-thru.json) |
 | Blast Valley: Flip the Gun | 96015 | [96015-blast-valley-flip-the-gun.json](./96015-blast-valley-flip-the-gun.json) |
 | Blast X | 97819 | [97819-blast-x.json](./97819-blast-x.json) |
 | Blast-a-Bug! | 324338 | [324338-blast-a-bug.json](./324338-blast-a-bug.json) |
