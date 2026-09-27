@@ -934,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe vs. The Wall | 264308 | [264308-joe-vs-the-wall.json](./264308-joe-vs-the-wall.json) |
 | Joe Wander and the Enigmatic Adventures | 222929 | [222929-joe-wander-and-the-enigmatic-adventures.json](./222929-joe-wander-and-the-enigmatic-adventures.json) |
 | Joe's Diner | 35859 | [35859-joes-diner.json](./35859-joes-diner.json) |
+| Joe's Fists | 129086 | [129086-joes-fists.json](./129086-joes-fists.json) |
 | Joel's Bizarre Pokéventure | 374586 | [374586-joels-bizarre-pokeventure.json](./374586-joels-bizarre-pokeventure.json) |
 | Joexian's Basics In Bowling And Video Making | 389993 | [389993-joexians-basics-in-bowling-and-video-making.json](./389993-joexians-basics-in-bowling-and-video-making.json) |
 | Joey and Penguin's 2 Player Adventure | 216181 | [216181-joey-and-penguins-2-player-adventure.json](./216181-joey-and-penguins-2-player-adventure.json) |
@@ -1404,8 +1405,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart Math for Second Graders | 129147 | [129147-jumpstart-math-for-second-graders.json](./129147-jumpstart-math-for-second-graders.json) |
 | JumpStart Phonics | 358412 | [358412-jumpstart-phonics.json](./358412-jumpstart-phonics.json) |
 | JumpStart Pre-K | 407433 | [407433-jumpstart-pre-k.json](./407433-jumpstart-pre-k.json) |
+| JumpStart Preschool | 129104 | [129104-jumpstart-preschool.json](./129104-jumpstart-preschool.json) |
 | JumpStart Preschool | 315521 | [315521-jumpstart-preschool.json](./315521-jumpstart-preschool.json) |
 | JumpStart Reading for Second Graders | 144929 | [144929-jumpstart-reading-for-second-graders.json](./144929-jumpstart-reading-for-second-graders.json) |
+| JumpStart Toddlers | 129111 | [129111-jumpstart-toddlers.json](./129111-jumpstart-toddlers.json) |
 | JumpStart: Dino Adventure Field Trip | 49923 | [49923-jumpstart-dino-adventure-field-trip.json](./49923-jumpstart-dino-adventure-field-trip.json) |
 | Jumpster | 94219 | [94219-jumpster.json](./94219-jumpster.json) |
 | Jumpwad | 228063 | [228063-jumpwad.json](./228063-jumpwad.json) |
