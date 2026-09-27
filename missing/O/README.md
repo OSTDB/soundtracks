@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ochige Designer Tsukutte Pon! | 128361 | [128361-ochige-designer-tsukutte-pon.json](./128361-ochige-designer-tsukutte-pon.json) |
 | Ochre | 400963 | [400963-ochre.json](./400963-ochre.json) |
 | Oco | 125845 | [125845-oco.json](./125845-oco.json) |
+| Ocolast | 158027 | [158027-ocolast.json](./158027-ocolast.json) |
 | Ocon | 329061 | [329061-ocon.json](./329061-ocon.json) |
 | Ocopoco | 175397 | [175397-ocopoco.json](./175397-ocopoco.json) |
 | Ocraft | 256236 | [256236-ocraft.json](./256236-ocraft.json) |
