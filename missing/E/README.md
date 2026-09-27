@@ -1028,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elithian Races Mod | 280270 | [280270-elithian-races-mod.json](./280270-elithian-races-mod.json) |
 | Elitserien 96 | 45560 | [45560-elitserien-96.json](./45560-elitserien-96.json) |
 | Elixir | 145607 | [145607-elixir.json](./145607-elixir.json) |
+| Elixir of Life | 151098 | [151098-elixir-of-life.json](./151098-elixir-of-life.json) |
 | Elixirs | 274561 | [274561-elixirs.json](./274561-elixirs.json) |
 | Eliza | 345129 | [345129-eliza.json](./345129-eliza.json) |
 | Eliza | 92919 | [92919-eliza.json](./92919-eliza.json) |
@@ -2260,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape to School | 192804 | [192804-escape-to-school.json](./192804-escape-to-school.json) |
 | Escape to Sidious | 157500 | [157500-escape-to-sidious.json](./157500-escape-to-sidious.json) |
 | Escape to the Ocean | 231061 | [231061-escape-to-the-ocean.json](./231061-escape-to-the-ocean.json) |
+| Escape Together | 151068 | [151068-escape-together.json](./151068-escape-together.json) |
 | Escape Velocity | 377579 | [377579-escape-velocity.json](./377579-escape-velocity.json) |
 | Escape Velocity Nova | 50144 | [50144-escape-velocity-nova.json](./50144-escape-velocity-nova.json) |
 | Escape War | 153960 | [153960-escape-war.json](./153960-escape-war.json) |
@@ -2551,6 +2553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eurgava: Tomb of Senza | 116122 | [116122-eurgava-tomb-of-senza.json](./116122-eurgava-tomb-of-senza.json) |
 | Eurit | 42246 | [42246-eurit.json](./42246-eurit.json) |
 | Euro Club Manager 2003-04 | 94706 | [94706-euro-club-manager-2003-04.json](./94706-euro-club-manager-2003-04.json) |
+| Euro Fishing: The Moat | 151065 | [151065-euro-fishing-the-moat.json](./151065-euro-fishing-the-moat.json) |
 | Euro Fishing: Urban Edition | 52979 | [52979-euro-fishing-urban-edition.json](./52979-euro-fishing-urban-edition.json) |
 | Euro Rally Champion | 43298 | [43298-euro-rally-champion.json](./43298-euro-rally-champion.json) |
 | Euro Train Simulator | 202231 | [202231-euro-train-simulator.json](./202231-euro-train-simulator.json) |
