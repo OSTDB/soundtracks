@@ -3042,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Creatures | 288338 | [288338-nuclear-creatures.json](./288338-nuclear-creatures.json) |
 | Nuclear Dawn | 5055 | [5055-nuclear-dawn.json](./5055-nuclear-dawn.json) |
 | Nuclear Day | 223996 | [223996-nuclear-day.json](./223996-nuclear-day.json) |
+| Nuclear Drifter | 173068 | [173068-nuclear-drifter.json](./173068-nuclear-drifter.json) |
 | Nuclear Embargo | 31182 | [31182-nuclear-embargo.json](./31182-nuclear-embargo.json) |
 | Nuclear Empire | 203296 | [203296-nuclear-empire.json](./203296-nuclear-empire.json) |
 | Nuclear Engineer Tycoon | 414331 | [414331-nuclear-engineer-tycoon.json](./414331-nuclear-engineer-tycoon.json) |
