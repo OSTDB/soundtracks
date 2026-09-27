@@ -2875,6 +2875,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piñata | 32885 | [32885-pinata.json](./32885-pinata.json) |
 | Piñata Attack | 129014 | [129014-pinata-attack.json](./129014-pinata-attack.json) |
 | Pinata Hunter | 267387 | [267387-pinata-hunter.json](./267387-pinata-hunter.json) |
+| Pinball | 131467 | [131467-pinball.json](./131467-pinball.json) |
+| Pinball | 131482 | [131482-pinball.json](./131482-pinball.json) |
+| Pinball | 131483 | [131483-pinball.json](./131483-pinball.json) |
 | Pinball | 131514 | [131514-pinball.json](./131514-pinball.json) |
 | Pinball | 131522 | [131522-pinball.json](./131522-pinball.json) |
 | Pinball | 44636 | [44636-pinball.json](./44636-pinball.json) |
@@ -2911,6 +2914,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Dungeon | 177562 | [177562-pinball-dungeon.json](./177562-pinball-dungeon.json) |
 | Pinball Fantasies Deluxe | 78624 | [78624-pinball-fantasies-deluxe.json](./78624-pinball-fantasies-deluxe.json) |
 | Pinball Fish | 246357 | [246357-pinball-fish.json](./246357-pinball-fish.json) |
+| Pinball for the CD-i | 131493 | [131493-pinball-for-the-cd-i.json](./131493-pinball-for-the-cd-i.json) |
+| Pinball for the TRS-80 CoCo. | 131468 | [131468-pinball-for-the-trs-80-coco.json](./131468-pinball-for-the-trs-80-coco.json) |
 | Pinball Freedom | 196317 | [196317-pinball-freedom.json](./196317-pinball-freedom.json) |
 | Pinball Fun | 43245 | [43245-pinball-fun.json](./43245-pinball-fun.json) |
 | Pinball FX | 185795 | [185795-pinball-fx.json](./185795-pinball-fx.json) |
@@ -4615,6 +4620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Fushigi no Dungeon: Mezase! Hikari no Boukendan | 103513 | [103513-pokemon-fushigi-no-dungeon-mezase-hikari-no-boukendan.json](./103513-pokemon-fushigi-no-dungeon-mezase-hikari-no-boukendan.json) |
 | Pokémon Fushigi no Dungeon: Susume! Honoo no Boukendan | 103511 | [103511-pokemon-fushigi-no-dungeon-susume-honoo-no-boukendan.json](./103511-pokemon-fushigi-no-dungeon-susume-honoo-no-boukendan.json) |
 | Pokémon Fuso's Meteor | 359983 | [359983-pokemon-fusos-meteor.json](./359983-pokemon-fusos-meteor.json) |
+| Pokémon Ga-Olé | 131487 | [131487-pokemon-ga-ole.json](./131487-pokemon-ga-ole.json) |
 | Pokémon Gadir | 232692 | [232692-pokemon-gadir.json](./232692-pokemon-gadir.json) |
 | Pokémon Gaia Version | 136997 | [136997-pokemon-gaia-version.json](./136997-pokemon-gaia-version.json) |
 | Pokémon Gamma Emerald | 342762 | [342762-pokemon-gamma-emerald.json](./342762-pokemon-gamma-emerald.json) |
@@ -4753,6 +4759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Trading Card Game Pocket: Secluded Springs | 363547 | [363547-pokemon-trading-card-game-pocket-secluded-springs.json](./363547-pokemon-trading-card-game-pocket-secluded-springs.json) |
 | Pokémon Trading Card Game Pocket: Triumphant Light | 333937 | [333937-pokemon-trading-card-game-pocket-triumphant-light.json](./333937-pokemon-trading-card-game-pocket-triumphant-light.json) |
 | Pokémon Trading Card Game: Neo | 239604 | [239604-pokemon-trading-card-game-neo.json](./239604-pokemon-trading-card-game-neo.json) |
+| Pokémon Tretta | 131497 | [131497-pokemon-tretta.json](./131497-pokemon-tretta.json) |
 | Pokemon Twilight: Lunar | 323903 | [323903-pokemon-twilight-lunar.json](./323903-pokemon-twilight-lunar.json) |
 | Pokemon Twilight: Solar | 323904 | [323904-pokemon-twilight-solar.json](./323904-pokemon-twilight-solar.json) |
 | Pokémon Ultra Moon | 36793 | [36793-pokemon-ultra-moon.json](./36793-pokemon-ultra-moon.json) |
@@ -6378,6 +6385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project 13: Nightwatch | 295338 | [295338-project-13-nightwatch.json](./295338-project-13-nightwatch.json) |
 | Project 13: Nightwatch - Canteen | 310382 | [310382-project-13-nightwatch-canteen.json](./310382-project-13-nightwatch-canteen.json) |
 | Project 13: Taxidermy Trails | 288192 | [288192-project-13-taxidermy-trails.json](./288192-project-13-taxidermy-trails.json) |
+| Project 1v1 (working title) | 131448 | [131448-project-1v1-working-title.json](./131448-project-1v1-working-title.json) |
 | Project 2/3 | 322933 | [322933-project-2-3.json](./322933-project-2-3.json) |
 | Project 44: Enlightenment | 220657 | [220657-project-44-enlightenment.json](./220657-project-44-enlightenment.json) |
 | Project 83113 | 22267 | [22267-project-83113.json](./22267-project-83113.json) |
@@ -6406,6 +6414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Bad Apple's AP400 | 411112 | [411112-project-bad-apples-ap400.json](./411112-project-bad-apples-ap400.json) |
 | Project Bard | 174680 | [174680-project-bard.json](./174680-project-bard.json) |
 | Project Battle | 37378 | [37378-project-battle.json](./37378-project-battle.json) |
+| Project Battle (working title) | 131440 | [131440-project-battle-working-title.json](./131440-project-battle-working-title.json) |
 | Project Battlefield | 342655 | [342655-project-battlefield.json](./342655-project-battlefield.json) |
 | Project Bengal | 341555 | [341555-project-bengal.json](./341555-project-bengal.json) |
 | Project BlockchainZ | 180313 | [180313-project-blockchainz.json](./180313-project-blockchainz.json) |
@@ -6519,6 +6528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Hospital | 75855 | [75855-project-hospital.json](./75855-project-hospital.json) |
 | Project Hovercraft | 32181 | [32181-project-hovercraft.json](./32181-project-hovercraft.json) |
 | Project I | 274579 | [274579-project-i.json](./274579-project-i.json) |
+| Project I.G.I. Origins (working title) | 131435 | [131435-project-i-g-i-origins-working-title.json](./131435-project-i-g-i-origins-working-title.json) |
 | Project Ictos | 286057 | [286057-project-ictos.json](./286057-project-ictos.json) |
 | Project II: Final Fantasy IV | 379344 | [379344-project-ii-final-fantasy-iv.json](./379344-project-ii-final-fantasy-iv.json) |
 | Project Impulse | 203304 | [203304-project-impulse.json](./203304-project-impulse.json) |
@@ -6627,6 +6637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Shore | 103516 | [103516-project-shore.json](./103516-project-shore.json) |
 | Project Silverfish | 298641 | [298641-project-silverfish.json](./298641-project-silverfish.json) |
 | Project SJHG | 320519 | [320519-project-sjhg.json](./320519-project-sjhg.json) |
+| Project SkyBlade (Working title) | 131475 | [131475-project-skyblade-working-title.json](./131475-project-skyblade-working-title.json) |
 | Project Slippi | 319004 | [319004-project-slippi.json](./319004-project-slippi.json) |
 | Project Solaris | 325449 | [325449-project-solaris.json](./325449-project-solaris.json) |
 | Project Spaghetti | 60002 | [60002-project-spaghetti.json](./60002-project-spaghetti.json) |
