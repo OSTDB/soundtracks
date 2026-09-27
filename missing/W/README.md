@@ -2768,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry Squared | 149567 | [149567-wizardry-squared.json](./149567-wizardry-squared.json) |
 | Wizardry Twin Pack | 125955 | [125955-wizardry-twin-pack.json](./125955-wizardry-twin-pack.json) |
 | Wizardry V: Heart of the Maelstrom | 10495 | [10495-wizardry-v-heart-of-the-maelstrom.json](./10495-wizardry-v-heart-of-the-maelstrom.json) |
+| Wizardry Variants: Daphne | 150013 | [150013-wizardry-variants-daphne.json](./150013-wizardry-variants-daphne.json) |
 | Wizardry: Boukyaku no Isan | 245027 | [245027-wizardry-boukyaku-no-isan.json](./245027-wizardry-boukyaku-no-isan.json) |
 | Wizardry: High School Exam | 272881 | [272881-wizardry-high-school-exam.json](./272881-wizardry-high-school-exam.json) |
 | Wizardry: Inochi no Kusabi | 85870 | [85870-wizardry-inochi-no-kusabi.json](./85870-wizardry-inochi-no-kusabi.json) |
