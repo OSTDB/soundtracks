@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari Simulator: Lion | 88154 | [88154-safari-simulator-lion.json](./88154-safari-simulator-lion.json) |
 | Safari Zone | 158564 | [158564-safari-zone.json](./158564-safari-zone.json) |
 | Safari: I-Evolution | 239635 | [239635-safari-i-evolution.json](./239635-safari-i-evolution.json) |
+| Safe Climbing | 127831 | [127831-safe-climbing.json](./127831-safe-climbing.json) |
 | Safe Cracker | 340547 | [340547-safe-cracker.json](./340547-safe-cracker.json) |
 | Safe Harbor | 181131 | [181131-safe-harbor.json](./181131-safe-harbor.json) |
 | Safe House | 392132 | [392132-safe-house.json](./392132-safe-house.json) |
@@ -3428,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shénqǐ Shénluò | 152760 | [152760-shenqi-shenluo.json](./152760-shenqi-shenluo.json) |
 | Shēnyuān | 165700 | [165700-shenyuan.json](./165700-shenyuan.json) |
 | Shenzhen Solitaire | 30085 | [30085-shenzhen-solitaire.json](./30085-shenzhen-solitaire.json) |
+| Sheol | 127871 | [127871-sheol.json](./127871-sheol.json) |
 | Sheol no Mori: Tasogare no Majuuzukai | 381108 | [381108-sheol-no-mori-tasogare-no-majuuzukai.json](./381108-sheol-no-mori-tasogare-no-majuuzukai.json) |
 | Shepherd | 192319 | [192319-shepherd.json](./192319-shepherd.json) |
 | Shepherd Knight | 372123 | [372123-shepherd-knight.json](./372123-shepherd-knight.json) |
@@ -4795,6 +4797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin Slayers: Pharmacist | 155061 | [155061-sin-slayers-pharmacist.json](./155061-sin-slayers-pharmacist.json) |
 | Sin Slayers: Reign of The 8th | 291758 | [291758-sin-slayers-reign-of-the-8th.json](./291758-sin-slayers-reign-of-the-8th.json) |
 | Sin Survivor | 151138 | [151138-sin-survivor.json](./151138-sin-survivor.json) |
+| Sin VR | 127834 | [127834-sin-vr.json](./127834-sin-vr.json) |
 | Sin-Cay | 162433 | [162433-sin-cay.json](./162433-sin-cay.json) |
 | SiN: Wages of Sin | 8717 | [8717-sin-wages-of-sin.json](./8717-sin-wages-of-sin.json) |
 | Sin.exe | 345483 | [345483-sin-exe.json](./345483-sin-exe.json) |
@@ -7029,6 +7032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Royale | 400988 | [400988-solitaire-royale.json](./400988-solitaire-royale.json) |
 | Solitaire Royale | 400989 | [400989-solitaire-royale.json](./400989-solitaire-royale.json) |
 | Solitaire Royale | 400990 | [400990-solitaire-royale.json](./400990-solitaire-royale.json) |
+| Solitaire Showdown | 127889 | [127889-solitaire-showdown.json](./127889-solitaire-showdown.json) |
 | Solitaire Stories | 180280 | [180280-solitaire-stories.json](./180280-solitaire-stories.json) |
 | Solitaire Story 3 | 205024 | [205024-solitaire-story-3.json](./205024-solitaire-story-3.json) |
 | Solitaire Superstars | 96764 | [96764-solitaire-superstars.json](./96764-solitaire-superstars.json) |
@@ -10811,6 +10815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Escape | 57113 | [57113-starship-escape.json](./57113-starship-escape.json) |
 | Starship EVO | 138009 | [138009-starship-evo.json](./138009-starship-evo.json) |
 | Starship Home | 293377 | [293377-starship-home.json](./293377-starship-home.json) |
+| Starship Inspector | 127867 | [127867-starship-inspector.json](./127867-starship-inspector.json) |
 | Starship Saboteur Prototype | 133249 | [133249-starship-saboteur-prototype.json](./133249-starship-saboteur-prototype.json) |
 | Starship Showdown: Galactic Grand Prix | 283223 | [283223-starship-showdown-galactic-grand-prix.json](./283223-starship-showdown-galactic-grand-prix.json) |
 | Starship Theory | 36962 | [36962-starship-theory.json](./36962-starship-theory.json) |
@@ -12235,6 +12240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subliminal Region | 168132 | [168132-subliminal-region.json](./168132-subliminal-region.json) |
 | Sublimity | 292528 | [292528-sublimity.json](./292528-sublimity.json) |
 | Subluminal | 189942 | [189942-subluminal.json](./189942-subluminal.json) |
+| Submachine 1: the Basement | 127877 | [127877-submachine-1-the-basement.json](./127877-submachine-1-the-basement.json) |
 | Submachine 10: The Exit | 260768 | [260768-submachine-10-the-exit.json](./260768-submachine-10-the-exit.json) |
 | Submachine 6: The Edge | 260728 | [260728-submachine-6-the-edge.json](./260728-submachine-6-the-edge.json) |
 | Submachine 7: The Core | 260741 | [260741-submachine-7-the-core.json](./260741-submachine-7-the-core.json) |
