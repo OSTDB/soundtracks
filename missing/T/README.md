@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tardiness Girl | 360198 | [360198-tardiness-girl.json](./360198-tardiness-girl.json) |
 | Tardis Tennis | 235322 | [235322-tardis-tennis.json](./235322-tardis-tennis.json) |
 | Tardy | 90143 | [90143-tardy.json](./90143-tardy.json) |
+| Tarek | 149491 | [149491-tarek.json](./149491-tarek.json) |
 | Target | 190705 | [190705-target.json](./190705-target.json) |
 | Target | 250424 | [250424-target.json](./250424-target.json) |
 | Target | 88186 | [88186-target.json](./88186-target.json) |
@@ -3993,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Backrooms | 211663 | [211663-the-first-backrooms.json](./211663-the-first-backrooms.json) |
 | The First Berserker: Khazan - Deluxe Edition | 338028 | [338028-the-first-berserker-khazan-deluxe-edition.json](./338028-the-first-berserker-khazan-deluxe-edition.json) |
 | The First Berserker: Khazan - Deluxe Edition Upgrade | 338029 | [338029-the-first-berserker-khazan-deluxe-edition-upgrade.json](./338029-the-first-berserker-khazan-deluxe-edition-upgrade.json) |
+| The First Confrontation | 149484 | [149484-the-first-confrontation.json](./149484-the-first-confrontation.json) |
 | The First Descendant: Season 1 | 314481 | [314481-the-first-descendant-season-1.json](./314481-the-first-descendant-season-1.json) |
 | The First Descendant: Season 4 | 408829 | [408829-the-first-descendant-season-4.json](./408829-the-first-descendant-season-4.json) |
 | The First Funky Fighter | 63295 | [63295-the-first-funky-fighter.json](./63295-the-first-funky-fighter.json) |
@@ -4355,6 +4357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Growth Project | 26614 | [26614-the-growth-project.json](./26614-the-growth-project.json) |
 | The Grugs: Origins | 262969 | [262969-the-grugs-origins.json](./262969-the-grugs-origins.json) |
 | The Guardhouse | 271321 | [271321-the-guardhouse.json](./271321-the-guardhouse.json) |
+| The Guardian | 149495 | [149495-the-guardian.json](./149495-the-guardian.json) |
 | The Guardian and the Dreamer | 318801 | [318801-the-guardian-and-the-dreamer.json](./318801-the-guardian-and-the-dreamer.json) |
 | The Guardians of the Secret Garden | 349305 | [349305-the-guardians-of-the-secret-garden.json](./349305-the-guardians-of-the-secret-garden.json) |
 | The Guest: Home Alone | 394171 | [394171-the-guest-home-alone.json](./394171-the-guest-home-alone.json) |
@@ -4443,6 +4446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hellblade Bundle | 317402 | [317402-the-hellblade-bundle.json](./317402-the-hellblade-bundle.json) |
 | The Hellbrand | 190728 | [190728-the-hellbrand.json](./190728-the-hellbrand.json) |
 | The Hellchemist | 240800 | [240800-the-hellchemist.json](./240800-the-hellchemist.json) |
+| The Help Desk | 149493 | [149493-the-help-desk.json](./149493-the-help-desk.json) |
 | The Helper | 224643 | [224643-the-helper.json](./224643-the-helper.json) |
 | The Henchmen | 220674 | [220674-the-henchmen.json](./220674-the-henchmen.json) |
 | The Hepatica Spring | 190222 | [190222-the-hepatica-spring.json](./190222-the-hepatica-spring.json) |
@@ -12705,6 +12709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Trivia | 305901 | [305901-travel-trivia.json](./305901-travel-trivia.json) |
 | Travel With Dinosaurs | 351710 | [351710-travel-with-dinosaurs.json](./351710-travel-with-dinosaurs.json) |
 | Traveler Lost | 367031 | [367031-traveler-lost.json](./367031-traveler-lost.json) |
+| Traveler of Artcaster | 149508 | [149508-traveler-of-artcaster.json](./149508-traveler-of-artcaster.json) |
 | Traveler: Set Sail | 273351 | [273351-traveler-set-sail.json](./273351-traveler-set-sail.json) |
 | Traveler's Bastion | 234936 | [234936-travelers-bastion.json](./234936-travelers-bastion.json) |
 | Traveler's Bastion: Spirit Guardians Expansion | 241506 | [241506-travelers-bastion-spirit-guardians-expansion.json](./241506-travelers-bastion-spirit-guardians-expansion.json) |
@@ -13163,6 +13168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trollboarder | 85458 | [85458-trollboarder.json](./85458-trollboarder.json) |
 | Trolley Folly | 248327 | [248327-trolley-folly.json](./248327-trolley-folly.json) |
 | Trolley Problem | 179589 | [179589-trolley-problem.json](./179589-trolley-problem.json) |
+| Trolley Simulator | 149494 | [149494-trolley-simulator.json](./149494-trolley-simulator.json) |
 | Trollface Launch | 234908 | [234908-trollface-launch.json](./234908-trollface-launch.json) |
 | Trollhunters: Defenders of Arcadia | 133921 | [133921-trollhunters-defenders-of-arcadia.json](./133921-trollhunters-defenders-of-arcadia.json) |
 | Trollin el Corredor | 288350 | [288350-trollin-el-corredor.json](./288350-trollin-el-corredor.json) |
@@ -13914,6 +13920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twins of the Pasture | 43130 | [43130-twins-of-the-pasture.json](./43130-twins-of-the-pasture.json) |
 | Twins or Tens | 394557 | [394557-twins-or-tens.json](./394557-twins-or-tens.json) |
 | Twinsen's Little Big Adventure Remastered 2 | 241953 | [241953-twinsens-little-big-adventure-remastered-2.json](./241953-twinsens-little-big-adventure-remastered-2.json) |
+| Twinstick Arcade | 149464 | [149464-twinstick-arcade.json](./149464-twinstick-arcade.json) |
 | TwinWorld: Land of Vision | 72099 | [72099-twinworld-land-of-vision.json](./72099-twinworld-land-of-vision.json) |
 | Twirly Treats | 405721 | [405721-twirly-treats.json](./405721-twirly-treats.json) |
 | Twist & Turn | 255960 | [255960-twist-and-turn.json](./255960-twist-and-turn.json) |
