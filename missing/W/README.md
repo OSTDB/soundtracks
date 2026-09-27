@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderlust | 336914 | [336914-wanderlust.json](./336914-wanderlust.json) |
 | Wanderlust | 81181 | [81181-wanderlust.json](./81181-wanderlust.json) |
 | WanderLust | 169295 | [169295-wanderlust.json](./169295-wanderlust.json) |
+| Wanderlust Travel Stories | 120902 | [120902-wanderlust-travel-stories.json](./120902-wanderlust-travel-stories.json) |
 | Wanderlust: The Bermuda Secret | 187947 | [187947-wanderlust-the-bermuda-secret.json](./187947-wanderlust-the-bermuda-secret.json) |
 | Wanderlust: The Magnificent Journey | 346600 | [346600-wanderlust-the-magnificent-journey.json](./346600-wanderlust-the-magnificent-journey.json) |
 | Wandness | 298158 | [298158-wandness.json](./298158-wandness.json) |
@@ -368,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War For the Seas | 194454 | [194454-war-for-the-seas.json](./194454-war-for-the-seas.json) |
 | War General: Multiplayer Rank | 254172 | [254172-war-general-multiplayer-rank.json](./254172-war-general-multiplayer-rank.json) |
 | War Ghost | 121695 | [121695-war-ghost.json](./121695-war-ghost.json) |
+| War Girl | 120779 | [120779-war-girl.json](./120779-war-girl.json) |
 | War Gods | 3628 | [3628-war-gods.json](./3628-war-gods.json) |
 | War Identity | 139454 | [139454-war-identity.json](./139454-war-identity.json) |
 | War In Heaven | 216487 | [216487-war-in-heaven.json](./216487-war-in-heaven.json) |
@@ -1172,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Gum | 374054 | [374054-we-are-gum.json](./374054-we-are-gum.json) |
 | We Are Illuminati | 120333 | [120333-we-are-illuminati.json](./120333-we-are-illuminati.json) |
 | We Are Infinity | 283744 | [283744-we-are-infinity.json](./283744-we-are-infinity.json) |
+| We are Legion: Rome | 120916 | [120916-we-are-legion-rome.json](./120916-we-are-legion-rome.json) |
 | We Are Live | 157034 | [157034-we-are-live.json](./157034-we-are-live.json) |
 | We Are Out of Food, Milton. | 250323 | [250323-we-are-out-of-food-milton.json](./250323-we-are-out-of-food-milton.json) |
 | We Are Prophet | 400864 | [400864-we-are-prophet.json](./400864-we-are-prophet.json) |
@@ -2669,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WitchCraft TD | 220718 | [220718-witchcraft-td.json](./220718-witchcraft-td.json) |
 | Witchcraft U | 155652 | [155652-witchcraft-u.json](./155652-witchcraft-u.json) |
 | Witchcraft: Pandoras Box | 127248 | [127248-witchcraft-pandoras-box.json](./127248-witchcraft-pandoras-box.json) |
+| Witchcrafty | 120920 | [120920-witchcrafty.json](./120920-witchcrafty.json) |
 | Witches & Woodlands | 275595 | [275595-witches-and-woodlands.json](./275595-witches-and-woodlands.json) |
 | Witches Legacy: Slumbering Darkness & Dark Throne | 201824 | [201824-witches-legacy-slumbering-darkness-and-dark-throne.json](./201824-witches-legacy-slumbering-darkness-and-dark-throne.json) |
 | Witches Weed | 268497 | [268497-witches-weed.json](./268497-witches-weed.json) |
