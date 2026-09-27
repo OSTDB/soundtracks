@@ -837,7 +837,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Vanilla Syndrome | 91933 | [91933-mahjong-vanilla-syndrome.json](./91933-mahjong-vanilla-syndrome.json) |
 | Mahjong Venice Mystery Puzzle | 87715 | [87715-mahjong-venice-mystery-puzzle.json](./87715-mahjong-venice-mystery-puzzle.json) |
 | Mahjong VR | 61605 | [61605-mahjong-vr.json](./61605-mahjong-vr.json) |
+| Mahjong World | 145551 | [145551-mahjong-world.json](./145551-mahjong-world.json) |
 | Mahjong World Contest | 25545 | [25545-mahjong-world-contest.json](./25545-mahjong-world-contest.json) |
+| Mahjong World W | 145550 | [145550-mahjong-world-w.json](./145550-mahjong-world-w.json) |
 | Mahjong Xiāoxiāolè | 117683 | [117683-mahjong-xiaoxiaole.json](./117683-mahjong-xiaoxiaole.json) |
 | Mahjong: Magic Casual Puzzle | 200461 | [200461-mahjong-magic-casual-puzzle.json](./200461-mahjong-magic-casual-puzzle.json) |
 | Mahjong: Wolf's Stories | 177045 | [177045-mahjong-wolfs-stories.json](./177045-mahjong-wolfs-stories.json) |
@@ -5802,6 +5804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB 2K10 DS | 21157 | [21157-mlb-2k10-ds.json](./21157-mlb-2k10-ds.json) |
 | MLB 9 Innings | 304051 | [304051-mlb-9-innings.json](./304051-mlb-9-innings.json) |
 | MLB 9 Innings 16 | 57364 | [57364-mlb-9-innings-16.json](./57364-mlb-9-innings-16.json) |
+| MLB 9 Innings 21 | 145538 | [145538-mlb-9-innings-21.json](./145538-mlb-9-innings-21.json) |
 | MLB 9 Innings 23 | 243137 | [243137-mlb-9-innings-23.json](./243137-mlb-9-innings-23.json) |
 | MLB 98 | 28190 | [28190-mlb-98.json](./28190-mlb-98.json) |
 | MLB 99 | 28191 | [28191-mlb-99.json](./28191-mlb-99.json) |
