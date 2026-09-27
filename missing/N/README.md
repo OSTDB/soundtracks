@@ -2725,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noise City Osaka | 140020 | [140020-noise-city-osaka.json](./140020-noise-city-osaka.json) |
 | Noise Hunters | 158141 | [158141-noise-hunters.json](./158141-noise-hunters.json) |
 | Noise Snke | 183538 | [183538-noise-snke.json](./183538-noise-snke.json) |
+| Noise1 | 134525 | [134525-noise1.json](./134525-noise1.json) |
 | Noisetube | 117481 | [117481-noisetube.json](./117481-noisetube.json) |
 | Noisz Re: Collection G | 270796 | [270796-noisz-re-collection-g.json](./270796-noisz-re-collection-g.json) |
 | Noisz: DM Ashura Level Pack | 317032 | [317032-noisz-dm-ashura-level-pack.json](./317032-noisz-dm-ashura-level-pack.json) |
