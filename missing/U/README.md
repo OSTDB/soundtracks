@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uligo: A Slime's Hike | 200429 | [200429-uligo-a-slimes-hike.json](./200429-uligo-a-slimes-hike.json) |
 | Ulitsa Dimitrova | 175881 | [175881-ulitsa-dimitrova.json](./175881-ulitsa-dimitrova.json) |
 | Ultakia | 352735 | [352735-ultakia.json](./352735-ultakia.json) |
+| Ultikill | 149476 | [149476-ultikill.json](./149476-ultikill.json) |
 | Ultim@te Race Pro | 131542 | [131542-ultim-te-race-pro.json](./131542-ultim-te-race-pro.json) |
 | Ultima | 7414 | [7414-ultima.json](./7414-ultima.json) |
 | Ultima Adventum | 149602 | [149602-ultima-adventum.json](./149602-ultima-adventum.json) |
@@ -1052,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Memoirs: The Rental | 249840 | [249840-unknown-memoirs-the-rental.json](./249840-unknown-memoirs-the-rental.json) |
 | Unknown Pain: Hardcore | 96694 | [96694-unknown-pain-hardcore.json](./96694-unknown-pain-hardcore.json) |
 | Unknown Place | 287226 | [287226-unknown-place.json](./287226-unknown-place.json) |
+| Unknown Planet | 149470 | [149470-unknown-planet.json](./149470-unknown-planet.json) |
 | Unknown Presence | 274508 | [274508-unknown-presence.json](./274508-unknown-presence.json) |
 | Unknown Project | 269120 | [269120-unknown-project.json](./269120-unknown-project.json) |
 | Unknown Region | 160178 | [160178-unknown-region.json](./160178-unknown-region.json) |
