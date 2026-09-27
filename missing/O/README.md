@@ -2166,6 +2166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: The New Nightmare - Revisited | 261358 | [261358-outbreak-the-new-nightmare-revisited.json](./261358-outbreak-the-new-nightmare-revisited.json) |
 | Outbreak: The Nightmare Chronicles | 90135 | [90135-outbreak-the-nightmare-chronicles.json](./90135-outbreak-the-nightmare-chronicles.json) |
 | Outbreak: The Nightmare Chronicles - Chapter 2 | 168843 | [168843-outbreak-the-nightmare-chronicles-chapter-2.json](./168843-outbreak-the-nightmare-chronicles-chapter-2.json) |
+| Outbreak: The Nightmare Chronicles - Chapter 3 | 168688 | [168688-outbreak-the-nightmare-chronicles-chapter-3.json](./168688-outbreak-the-nightmare-chronicles-chapter-3.json) |
 | Outbreak: The Nightmare Chronicles - Chapter 4 | 168853 | [168853-outbreak-the-nightmare-chronicles-chapter-4.json](./168853-outbreak-the-nightmare-chronicles-chapter-4.json) |
 | Outbreak: The Nightmare Chronicles - Reinvestigated | 261362 | [261362-outbreak-the-nightmare-chronicles-reinvestigated.json](./261362-outbreak-the-nightmare-chronicles-reinvestigated.json) |
 | Outbreak: Urban Jungle Collection | 331418 | [331418-outbreak-urban-jungle-collection.json](./331418-outbreak-urban-jungle-collection.json) |
