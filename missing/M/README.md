@@ -659,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Jewelry | 48670 | [48670-magical-jewelry.json](./48670-magical-jewelry.json) |
 | Magical Kids Doropie | 48333 | [48333-magical-kids-doropie.json](./48333-magical-kids-doropie.json) |
 | Magical Literary Heroine Natsuki Saves The Literature Club! | 334273 | [334273-magical-literary-heroine-natsuki-saves-the-literature-club.json](./334273-magical-literary-heroine-natsuki-saves-the-literature-club.json) |
+| Magical Makeover | 139311 | [139311-magical-makeover.json](./139311-magical-makeover.json) |
 | Magical Merge: Fairy Adventure | 309501 | [309501-magical-merge-fairy-adventure.json](./309501-magical-merge-fairy-adventure.json) |
 | Magical MILFs | 136257 | [136257-magical-milfs.json](./136257-magical-milfs.json) |
 | Magical Monstergirls Academy | 276251 | [276251-magical-monstergirls-academy.json](./276251-magical-monstergirls-academy.json) |
@@ -3841,6 +3842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Gardens | 227368 | [227368-merge-gardens.json](./227368-merge-gardens.json) |
 | Merge Girls | 212490 | [212490-merge-girls.json](./212490-merge-girls.json) |
 | Merge Jelly | 208935 | [208935-merge-jelly.json](./208935-merge-jelly.json) |
+| Merge Magic! | 139297 | [139297-merge-magic.json](./139297-merge-magic.json) |
 | Merge Mansion | 196866 | [196866-merge-mansion.json](./196866-merge-mansion.json) |
 | Merge Marbles | 309337 | [309337-merge-marbles.json](./309337-merge-marbles.json) |
 | Merge Match March | 361798 | [361798-merge-match-march.json](./361798-merge-match-march.json) |
@@ -7444,6 +7446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Wants Cheese | 261308 | [261308-mouse-wants-cheese.json](./261308-mouse-wants-cheese.json) |
 | Mouse Work | 339137 | [339137-mouse-work.json](./339137-mouse-work.json) |
 | MouseBot: Escape from CatLab | 157532 | [157532-mousebot-escape-from-catlab.json](./157532-mousebot-escape-from-catlab.json) |
+| Mousebound | 139290 | [139290-mousebound.json](./139290-mousebound.json) |
 | Mousegun | 326723 | [326723-mousegun.json](./326723-mousegun.json) |
 | Mousehole Bookshop | 286607 | [286607-mousehole-bookshop.json](./286607-mousehole-bookshop.json) |
 | Mouselash | 320407 | [320407-mouselash.json](./320407-mouselash.json) |
