@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Labours of Hercules III: Girl Power | 35494 | [35494-12-labours-of-hercules-iii-girl-power.json](./35494-12-labours-of-hercules-iii-girl-power.json) |
 | 12 Labours of Hercules IV: Mother Nature | 26601 | [26601-12-labours-of-hercules-iv-mother-nature.json](./26601-12-labours-of-hercules-iv-mother-nature.json) |
 | 12 Labours of Hercules IV: Mother Nature - Collector's Edition | 338895 | [338895-12-labours-of-hercules-iv-mother-nature-collectors-edition.json](./338895-12-labours-of-hercules-iv-mother-nature-collectors-edition.json) |
+| 12 Labours of Hercules IX: A Hero's Moonwalk | 125358 | [125358-12-labours-of-hercules-ix-a-heros-moonwalk.json](./125358-12-labours-of-hercules-ix-a-heros-moonwalk.json) |
 | 12 Labours of Hercules IX: A Hero's Moonwalk - Collector's Edition | 338900 | [338900-12-labours-of-hercules-ix-a-heros-moonwalk-collectors-edition.json](./338900-12-labours-of-hercules-ix-a-heros-moonwalk-collectors-edition.json) |
 | 12 Labours of Hercules V: Kids of Hellas - Collector's Edition | 338896 | [338896-12-labours-of-hercules-v-kids-of-hellas-collectors-edition.json](./338896-12-labours-of-hercules-v-kids-of-hellas-collectors-edition.json) |
 | 12 Labours of Hercules VI: Race for Olympus - Collectors Edition | 338897 | [338897-12-labours-of-hercules-vi-race-for-olympus-collectors-edition.json](./338897-12-labours-of-hercules-vi-race-for-olympus-collectors-edition.json) |
@@ -1157,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Bit Space | 135100 | [135100-8-bit-space.json](./135100-8-bit-space.json) |
 | 8 Legs to Love | 181252 | [181252-8-legs-to-love.json](./181252-8-legs-to-love.json) |
 | 8 Links | 173075 | [173075-8-links.json](./173075-8-links.json) |
+| 8 To Glory | 125321 | [125321-8-to-glory.json](./125321-8-to-glory.json) |
 | 8 Yous+ | 334089 | [334089-8-yous.json](./334089-8-yous.json) |
 | 8-Ball Pool | 293238 | [293238-8-ball-pool.json](./293238-8-ball-pool.json) |
 | 8-Bit Adventures 2 | 74653 | [74653-8-bit-adventures-2.json](./74653-8-bit-adventures-2.json) |
