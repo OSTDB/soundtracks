@@ -2815,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goo Saga: HD Edition | 31941 | [31941-goo-saga-hd-edition.json](./31941-goo-saga-hd-edition.json) |
 | Goob Wants an Android Girlfriend | 390244 | [390244-goob-wants-an-android-girlfriend.json](./390244-goob-wants-an-android-girlfriend.json) |
 | Gooba Ball | 300696 | [300696-gooba-ball.json](./300696-gooba-ball.json) |
+| GooBall | 146187 | [146187-gooball.json](./146187-gooball.json) |
 | Goober Arena | 320378 | [320378-goober-arena.json](./320378-goober-arena.json) |
 | Gooch Grundy's X-Decathlon | 73797 | [73797-gooch-grundys-x-decathlon.json](./73797-gooch-grundys-x-decathlon.json) |
 | GooCubelets 2 | 34249 | [34249-goocubelets-2.json](./34249-goocubelets-2.json) |
