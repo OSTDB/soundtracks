@@ -903,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unhappy Hour | 197106 | [197106-unhappy-hour.json](./197106-unhappy-hour.json) |
 | Unhatched | 144113 | [144113-unhatched.json](./144113-unhatched.json) |
 | Unheard: The Lethal Script | 228720 | [228720-unheard-the-lethal-script.json](./228720-unheard-the-lethal-script.json) |
+| Unherd | 143590 | [143590-unherd.json](./143590-unherd.json) |
 | Unheroic Misfits | 286068 | [286068-unheroic-misfits.json](./286068-unheroic-misfits.json) |
 | Unhinged | 144979 | [144979-unhinged.json](./144979-unhinged.json) |
 | Unhinged 2 | 245864 | [245864-unhinged-2.json](./245864-unhinged-2.json) |
