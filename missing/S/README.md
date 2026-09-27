@@ -1849,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Archives | 294476 | [294476-secret-archives.json](./294476-secret-archives.json) |
 | Secret Backrooms | 204094 | [204094-secret-backrooms.json](./204094-secret-backrooms.json) |
 | Secret Backrooms 2 | 250865 | [250865-secret-backrooms-2.json](./250865-secret-backrooms-2.json) |
+| Secret Base | 172530 | [172530-secret-base.json](./172530-secret-base.json) |
 | Secret Blade | 245852 | [245852-secret-blade.json](./245852-secret-blade.json) |
 | Secret Bottle | 246479 | [246479-secret-bottle.json](./246479-secret-bottle.json) |
 | Secret Cat Forest | 206930 | [206930-secret-cat-forest.json](./206930-secret-cat-forest.json) |
@@ -5446,6 +5447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SleepingPills | 383515 | [383515-sleepingpills.json](./383515-sleepingpills.json) |
 | Sleepless Cinderella: Party | 298884 | [298884-sleepless-cinderella-party.json](./298884-sleepless-cinderella-party.json) |
 | Sleepless in the Sapphire City | 299864 | [299864-sleepless-in-the-sapphire-city.json](./299864-sleepless-in-the-sapphire-city.json) |
+| Sleepless Night | 172485 | [172485-sleepless-night.json](./172485-sleepless-night.json) |
 | Sleepover | 113709 | [113709-sleepover.json](./113709-sleepover.json) |
 | Sleepover | 401631 | [401631-sleepover.json](./401631-sleepover.json) |
 | Sleepover: Rewake | 374808 | [374808-sleepover-rewake.json](./374808-sleepover-rewake.json) |
@@ -8048,6 +8050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fantasy Zone | 42007 | [42007-space-fantasy-zone.json](./42007-space-fantasy-zone.json) |
 | Space Farmers 2 | 169870 | [169870-space-farmers-2.json](./169870-space-farmers-2.json) |
 | Space Fat: To the Core | 155655 | [155655-space-fat-to-the-core.json](./155655-space-fat-to-the-core.json) |
+| Space Fighter | 172531 | [172531-space-fighter.json](./172531-space-fighter.json) |
 | Space Filler | 338013 | [338013-space-filler.json](./338013-space-filler.json) |
 | Space Firebird | 22432 | [22432-space-firebird.json](./22432-space-firebird.json) |
 | Space Fishermen | 64948 | [64948-space-fishermen.json](./64948-space-fishermen.json) |
@@ -8508,6 +8511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparkle Snapshots | 67332 | [67332-sparkle-snapshots.json](./67332-sparkle-snapshots.json) |
 | Sparkle Unleashed | 20953 | [20953-sparkle-unleashed.json](./20953-sparkle-unleashed.json) |
 | SparkleWand Puzzle | 239056 | [239056-sparklewand-puzzle.json](./239056-sparklewand-puzzle.json) |
+| Sparkling Corner | 172521 | [172521-sparkling-corner.json](./172521-sparkling-corner.json) |
 | Sparkling Feather | 46612 | [46612-sparkling-feather.json](./46612-sparkling-feather.json) |
 | SparkMutts | 211214 | [211214-sparkmutts.json](./211214-sparkmutts.json) |
 | Sparkour | 34852 | [34852-sparkour.json](./34852-sparkour.json) |
@@ -9561,6 +9565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad Conflicts | 174906 | [174906-squad-conflicts.json](./174906-squad-conflicts.json) |
 | SquadBlast | 202686 | [202686-squadblast.json](./202686-squadblast.json) |
 | Squadika | 401693 | [401693-squadika.json](./401693-squadika.json) |
+| Squadron | 172523 | [172523-squadron.json](./172523-squadron.json) |
 | Squally | 111118 | [111118-squally.json](./111118-squally.json) |
 | Squarcat | 124056 | [124056-squarcat.json](./124056-squarcat.json) |
 | Square | 195626 | [195626-square.json](./195626-square.json) |
@@ -13108,6 +13113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64: Rogue Chaos Edition Version 2.0 | 413054 | [413054-super-mario-64-rogue-chaos-edition-version-2-0.json](./413054-super-mario-64-rogue-chaos-edition-version-2-0.json) |
 | Super Mario 64: Royal Legacy - Definitive Edition | 314021 | [314021-super-mario-64-royal-legacy-definitive-edition.json](./314021-super-mario-64-royal-legacy-definitive-edition.json) |
 | Super Mario 64: Shadow Edition | 194313 | [194313-super-mario-64-shadow-edition.json](./194313-super-mario-64-shadow-edition.json) |
+| Super Mario 64: Shindou Improvement | 172481 | [172481-super-mario-64-shindou-improvement.json](./172481-super-mario-64-shindou-improvement.json) |
 | Super Mario 64: Star Revenge | 132839 | [132839-super-mario-64-star-revenge.json](./132839-super-mario-64-star-revenge.json) |
 | Super Mario 64: Star Revenge Redone | 132840 | [132840-super-mario-64-star-revenge-redone.json](./132840-super-mario-64-star-revenge-redone.json) |
 | Super Mario 64: The Missing Stars | 135176 | [135176-super-mario-64-the-missing-stars.json](./135176-super-mario-64-the-missing-stars.json) |
@@ -13177,6 +13183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Deluxe | 49877 | [49877-super-mario-bros-deluxe.json](./49877-super-mario-bros-deluxe.json) |
 | Super Mario Bros. Dimensions | 134074 | [134074-super-mario-bros-dimensions.json](./134074-super-mario-bros-dimensions.json) |
 | Super Mario Bros. Funk Mix Deluxe | 203389 | [203389-super-mario-bros-funk-mix-deluxe.json](./203389-super-mario-bros-funk-mix-deluxe.json) |
+| Super Mario Bros. Game Watch | 172502 | [172502-super-mario-bros-game-watch.json](./172502-super-mario-bros-game-watch.json) |
 | Super Mario Bros. in Crazy Castle | 323826 | [323826-super-mario-bros-in-crazy-castle.json](./323826-super-mario-bros-in-crazy-castle.json) |
 | Super Mario Bros. MM | 322779 | [322779-super-mario-bros-mm.json](./322779-super-mario-bros-mm.json) |
 | Super Mario Bros. Peach's Adventure | 142383 | [142383-super-mario-bros-peachs-adventure.json](./142383-super-mario-bros-peachs-adventure.json) |
@@ -13458,6 +13465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Orb Bros. | 142396 | [142396-super-orb-bros.json](./142396-super-orb-bros.json) |
 | Super Orbit | 344563 | [344563-super-orbit.json](./344563-super-orbit.json) |
 | Super Orbital Mega Drift II | 339477 | [339477-super-orbital-mega-drift-ii.json](./339477-super-orbital-mega-drift-ii.json) |
+| Super Otamatone | 172524 | [172524-super-otamatone.json](./172524-super-otamatone.json) |
 | Super Over! | 244799 | [244799-super-over.json](./244799-super-over.json) |
 | Super Pac-Man | 239191 | [239191-super-pac-man.json](./239191-super-pac-man.json) |
 | Super Pachinko | 46663 | [46663-super-pachinko.json](./46663-super-pachinko.json) |
@@ -13802,6 +13810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Turbo Demon Busters! | 74860 | [74860-super-turbo-demon-busters.json](./74860-super-turbo-demon-busters.json) |
 | Super Turbo Sudoku | 110960 | [110960-super-turbo-sudoku.json](./110960-super-turbo-sudoku.json) |
 | Super Turrican | 191878 | [191878-super-turrican.json](./191878-super-turrican.json) |
+| Super Turrican: Director's Cut | 172518 | [172518-super-turrican-directors-cut.json](./172518-super-turrican-directors-cut.json) |
 | Super Tutor: Spelling | 59376 | [59376-super-tutor-spelling.json](./59376-super-tutor-spelling.json) |
 | Super Tux Party | 184420 | [184420-super-tux-party.json](./184420-super-tux-party.json) |
 | Super Tyrone Land | 142464 | [142464-super-tyrone-land.json](./142464-super-tyrone-land.json) |
@@ -13861,6 +13870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superbike Racing | 54415 | [54415-superbike-racing.json](./54415-superbike-racing.json) |
 | Superboss of the Turnabout | 308537 | [308537-superboss-of-the-turnabout.json](./308537-superboss-of-the-turnabout.json) |
 | Superbot Arena | 257979 | [257979-superbot-arena.json](./257979-superbot-arena.json) |
+| Superbowl | 172527 | [172527-superbowl.json](./172527-superbowl.json) |
 | Superbowl | 61912 | [61912-superbowl.json](./61912-superbowl.json) |
 | SuperBoys: The Big Fight | 58851 | [58851-superboys-the-big-fight.json](./58851-superboys-the-big-fight.json) |
 | Superbrothers: Sword & Sworcery EP | 2991 | [2991-superbrothers-sword-and-sworcery-ep.json](./2991-superbrothers-sword-and-sworcery-ep.json) |
