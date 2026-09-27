@@ -810,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elden Ring: Shadow of the Erdtree Edition | 287975 | [287975-elden-ring-shadow-of-the-erdtree-edition.json](./287975-elden-ring-shadow-of-the-erdtree-edition.json) |
 | Elder Sign: Omens | 16729 | [16729-elder-sign-omens.json](./16729-elder-sign-omens.json) |
 | Elder Trial | 236370 | [236370-elder-trial.json](./236370-elder-trial.json) |
+| Elder Village | 123490 | [123490-elder-village.json](./123490-elder-village.json) |
 | Elder's Grace: Rise of the Mobley | 248667 | [248667-elders-grace-rise-of-the-mobley.json](./248667-elders-grace-rise-of-the-mobley.json) |
 | Elder's Grace: Unchained | 266309 | [266309-elders-grace-unchained.json](./266309-elders-grace-unchained.json) |
 | Elderborn: Metal AF Edition | 154951 | [154951-elderborn-metal-af-edition.json](./154951-elderborn-metal-af-edition.json) |
