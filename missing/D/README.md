@@ -5770,6 +5770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Seuss': The Cat in the Hat | 5814 | [5814-dr-seuss-the-cat-in-the-hat.json](./5814-dr-seuss-the-cat-in-the-hat.json) |
 | Dr. Signal's Strange Machine | 194415 | [194415-dr-signals-strange-machine.json](./194415-dr-signals-strange-machine.json) |
 | Dr. Slump | 44828 | [44828-dr-slump.json](./44828-dr-slump.json) |
+| Dr. Slump: Arale-chan | 138108 | [138108-dr-slump-arale-chan.json](./138108-dr-slump-arale-chan.json) |
 | Dr. Stanley's House I | 141091 | [141091-dr-stanleys-house-i.json](./141091-dr-stanleys-house-i.json) |
 | Dr. Stone Battle Craft | 278451 | [278451-dr-stone-battle-craft.json](./278451-dr-stone-battle-craft.json) |
 | Dr. Tacocat | 120362 | [120362-dr-tacocat.json](./120362-dr-tacocat.json) |
