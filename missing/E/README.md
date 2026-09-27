@@ -1658,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enhanced Militarized Zone | 362474 | [362474-enhanced-militarized-zone.json](./362474-enhanced-militarized-zone.json) |
 | Enherjar Synergy | 159880 | [159880-enherjar-synergy.json](./159880-enherjar-synergy.json) |
 | Enherjar Synergy: Aplankhan & Sioykos | 192156 | [192156-enherjar-synergy-aplankhan-and-sioykos.json](./192156-enherjar-synergy-aplankhan-and-sioykos.json) |
+| Enigma | 127886 | [127886-enigma.json](./127886-enigma.json) |
 | Enigma | 241344 | [241344-enigma.json](./241344-enigma.json) |
 | Enigma Da Parda | 335881 | [335881-enigma-da-parda.json](./335881-enigma-da-parda.json) |
 | Enigma do Labirinto | 232455 | [232455-enigma-do-labirinto.json](./232455-enigma-do-labirinto.json) |
@@ -2021,6 +2022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erozld | 236216 | [236216-erozld.json](./236216-erozld.json) |
 | Erraldoi 2000 | 183989 | [183989-erraldoi-2000.json](./183989-erraldoi-2000.json) |
 | Errand | 57092 | [57092-errand.json](./57092-errand.json) |
+| Errand Boy | 127883 | [127883-errand-boy.json](./127883-errand-boy.json) |
 | Errant: Hunter's Soul | 200748 | [200748-errant-hunters-soul.json](./200748-errant-hunters-soul.json) |
 | Errante | 185559 | [185559-errante.json](./185559-errante.json) |
 | Errasaga | 381599 | [381599-errasaga.json](./381599-errasaga.json) |
@@ -2046,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eSail | 89648 | [89648-esail.json](./89648-esail.json) |
 | Esau's World | 294150 | [294150-esaus-world.json](./294150-esaus-world.json) |
 | Esc | 177419 | [177419-esc.json](./177419-esc.json) |
+| ESC | 127884 | [127884-esc.json](./127884-esc.json) |
 | ESC Ape | 185557 | [185557-esc-ape.json](./185557-esc-ape.json) |
 | Esc-8-bit | 114369 | [114369-esc-8-bit.json](./114369-esc-8-bit.json) |
 | Esc/ape | 374142 | [374142-esc-ape.json](./374142-esc-ape.json) |
