@@ -2458,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overseer: Field Trials | 315127 | [315127-overseer-field-trials.json](./315127-overseer-field-trials.json) |
 | Overserved: Food Fighters! | 398995 | [398995-overserved-food-fighters.json](./398995-overserved-food-fighters.json) |
 | Overshift | 196856 | [196856-overshift.json](./196856-overshift.json) |
+| Overslept | 141727 | [141727-overslept.json](./141727-overslept.json) |
 | OverSoul | 109067 | [109067-oversoul.json](./109067-oversoul.json) |
 | Overtake | 94193 | [94193-overtake.json](./94193-overtake.json) |
 | OverTheCloud_Global | 117100 | [117100-overthecloud-global.json](./117100-overthecloud-global.json) |
