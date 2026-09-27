@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 11: Aerosoft - Airport Wilmington | 162800 | [162800-x-plane-11-aerosoft-airport-wilmington.json](./162800-x-plane-11-aerosoft-airport-wilmington.json) |
 | X-Plane 11: Aerosoft - Airport Zurich V2 | 162781 | [162781-x-plane-11-aerosoft-airport-zurich-v2.json](./162781-x-plane-11-aerosoft-airport-zurich-v2.json) |
 | X-Plane 11: Aerosoft - KTNP: Airport Twentynine Palms | 162785 | [162785-x-plane-11-aerosoft-ktnp-airport-twentynine-palms.json](./162785-x-plane-11-aerosoft-ktnp-airport-twentynine-palms.json) |
+| X-Plane 11: Aerosoft - Society Islands XP: Bora Bora & Leeward Islands | 174137 | [174137-x-plane-11-aerosoft-society-islands-xp-bora-bora-and-leeward-islands.json](./174137-x-plane-11-aerosoft-society-islands-xp-bora-bora-and-leeward-islands.json) |
 | X-Plane 11: Aerosoft - Society Islands XP: Tahiti & Windward Islands | 289892 | [289892-x-plane-11-aerosoft-society-islands-xp-tahiti-and-windward-islands.json](./289892-x-plane-11-aerosoft-society-islands-xp-tahiti-and-windward-islands.json) |
 | X-Plane 11: Aerosoft - Tromsø XP | 238471 | [238471-x-plane-11-aerosoft-troms-xp.json](./238471-x-plane-11-aerosoft-troms-xp.json) |
 | X-Plane 11: Aerosoft Airport Bergamo | 162793 | [162793-x-plane-11-aerosoft-airport-bergamo.json](./162793-x-plane-11-aerosoft-airport-bergamo.json) |
