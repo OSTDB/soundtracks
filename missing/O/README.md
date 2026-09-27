@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ojo Por Ojo | 301893 | [301893-ojo-por-ojo.json](./301893-ojo-por-ojo.json) |
 | Ojou-sama Express | 270746 | [270746-ojou-sama-express.json](./270746-ojou-sama-express.json) |
 | Ojou-sama no Hanbun wa Renai de Dekiteimasu! | 328216 | [328216-ojou-sama-no-hanbun-wa-renai-de-dekiteimasu.json](./328216-ojou-sama-no-hanbun-wa-renai-de-dekiteimasu.json) |
+| Ojou-sama to Himitsu no Otome | 132100 | [132100-ojou-sama-to-himitsu-no-otome.json](./132100-ojou-sama-to-himitsu-no-otome.json) |
 | Ojousama Sousamou | 70400 | [70400-ojousama-sousamou.json](./70400-ojousama-sousamou.json) |
 | Ok/Normal | 101635 | [101635-ok-normal.json](./101635-ok-normal.json) |
 | Okada Toshio no Itsumade mo Debu to Omounayo | 70633 | [70633-okada-toshio-no-itsumade-mo-debu-to-omounayo.json](./70633-okada-toshio-no-itsumade-mo-debu-to-omounayo.json) |
@@ -1200,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Turkey, Two Turkeys | 332244 | [332244-one-turkey-two-turkeys.json](./332244-one-turkey-two-turkeys.json) |
 | One Two Boat Racing | 209407 | [209407-one-two-boat-racing.json](./209407-one-two-boat-racing.json) |
 | One Vacancy | 184039 | [184039-one-vacancy.json](./184039-one-vacancy.json) |
+| One Vision | 132144 | [132144-one-vision.json](./132144-one-vision.json) |
 | One Way Flight | 33002 | [33002-one-way-flight.json](./33002-one-way-flight.json) |
 | One Way Heroics Plus | 147990 | [147990-one-way-heroics-plus.json](./147990-one-way-heroics-plus.json) |
 | One Way Home | 244491 | [244491-one-way-home.json](./244491-one-way-home.json) |
@@ -1822,7 +1824,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orisinal: Morning Sunshine | 194618 | [194618-orisinal-morning-sunshine.json](./194618-orisinal-morning-sunshine.json) |
 | Orisries | 314635 | [314635-orisries.json](./314635-orisries.json) |
 | Orix! | 102384 | [102384-orix.json](./102384-orix.json) |
+| Orixo | 132118 | [132118-orixo.json](./132118-orixo.json) |
 | Orixo Hex | 232165 | [232165-orixo-hex.json](./232165-orixo-hex.json) |
+| Orixo Wormhole | 132119 | [132119-orixo-wormhole.json](./132119-orixo-wormhole.json) |
 | Ork Manager: Coal & Top hats | 125400 | [125400-ork-manager-coal-and-top-hats.json](./125400-ork-manager-coal-and-top-hats.json) |
 | Orkicidium | 183516 | [183516-orkicidium.json](./183516-orkicidium.json) |
 | Orla Frøsnapper | 172596 | [172596-orla-fr-snapper.json](./172596-orla-fr-snapper.json) |
