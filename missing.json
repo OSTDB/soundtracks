@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T16:48:26.111Z",
-  "total_missing": 131376,
+  "generated_at": "2026-09-27T17:03:24.828Z",
+  "total_missing": 131426,
   "games": [
     {
       "igdb_id": 186066,
@@ -5721,6 +5721,11 @@
       "igdb_id": 21414,
       "game_name": "8-Bit Hordes",
       "file": "missing/0-9/21414-8-bit-hordes.json"
+    },
+    {
+      "igdb_id": 136343,
+      "game_name": "8-Bit Panda",
+      "file": "missing/0-9/136343-8-bit-panda.json"
     },
     {
       "igdb_id": 255180,
@@ -13956,6 +13961,11 @@
       "igdb_id": 393803,
       "game_name": "Agony Increment",
       "file": "missing/A/393803-agony-increment.json"
+    },
+    {
+      "igdb_id": 136415,
+      "game_name": "Agony of a Dying MMO",
+      "file": "missing/A/136415-agony-of-a-dying-mmo.json"
     },
     {
       "igdb_id": 211419,
@@ -51073,6 +51083,11 @@
       "file": "missing/B/144189-battledudes-io.json"
     },
     {
+      "igdb_id": 136365,
+      "game_name": "Battlefield 1: Revolution and Titanfall 2: Ultimate Edition Bundle",
+      "file": "missing/B/136365-battlefield-1-revolution-and-titanfall-2-ultimate-edition-bundle.json"
+    },
+    {
       "igdb_id": 76190,
       "game_name": "Battlefield 1: Turning Tides",
       "file": "missing/B/76190-battlefield-1-turning-tides.json"
@@ -52446,6 +52461,11 @@
       "igdb_id": 14293,
       "game_name": "Beambender",
       "file": "missing/B/14293-beambender.json"
+    },
+    {
+      "igdb_id": 136374,
+      "game_name": "Beamdog Ultimate Collector's Pack",
+      "file": "missing/B/136374-beamdog-ultimate-collectors-pack.json"
     },
     {
       "igdb_id": 338198,
@@ -56756,6 +56776,11 @@
       "igdb_id": 337459,
       "game_name": "Bibi Bunny",
       "file": "missing/B/337459-bibi-bunny.json"
+    },
+    {
+      "igdb_id": 136370,
+      "game_name": "Bibi und Tina auf dem Martinshof",
+      "file": "missing/B/136370-bibi-und-tina-auf-dem-martinshof.json"
     },
     {
       "igdb_id": 299818,
@@ -81028,6 +81053,11 @@
       "file": "missing/C/42896-call-of-duty-infinite-warfare-legacy-edition.json"
     },
     {
+      "igdb_id": 136342,
+      "game_name": "Call of Duty: Modern Warfare - Precision Edition",
+      "file": "missing/C/136342-call-of-duty-modern-warfare-precision-edition.json"
+    },
+    {
       "igdb_id": 136976,
       "game_name": "Call of Duty: Modern Warfare - Season Five",
       "file": "missing/C/136976-call-of-duty-modern-warfare-season-five.json"
@@ -88526,6 +88556,11 @@
       "igdb_id": 72067,
       "game_name": "Catherine: Full Body - Heart's Desire Premium Edition",
       "file": "missing/C/72067-catherine-full-body-hearts-desire-premium-edition.json"
+    },
+    {
+      "igdb_id": 136327,
+      "game_name": "Catherine: Full Body - Launch Edition",
+      "file": "missing/C/136327-catherine-full-body-launch-edition.json"
     },
     {
       "igdb_id": 11321,
@@ -107646,6 +107681,11 @@
       "igdb_id": 86891,
       "game_name": "Construction Simulator 2014",
       "file": "missing/C/86891-construction-simulator-2014.json"
+    },
+    {
+      "igdb_id": 136372,
+      "game_name": "Construction Simulator 2015: Deluxe Edition",
+      "file": "missing/C/136372-construction-simulator-2015-deluxe-edition.json"
     },
     {
       "igdb_id": 168916,
@@ -129273,6 +129313,11 @@
       "file": "missing/D/274723-dead-cells-netflix-edition.json"
     },
     {
+      "igdb_id": 136322,
+      "game_name": "Dead Cells: Prisoner's Edition",
+      "file": "missing/D/136322-dead-cells-prisoners-edition.json"
+    },
+    {
       "igdb_id": 387498,
       "game_name": "Dead Cells: Return to Castlevania - Signature Edition",
       "file": "missing/D/387498-dead-cells-return-to-castlevania-signature-edition.json"
@@ -139913,6 +139958,11 @@
       "file": "missing/D/291073-die-drei-freunde-von-der-reitschule.json"
     },
     {
+      "igdb_id": 136371,
+      "game_name": "Die Drei??? Kids: Jagd auf Das Phantom",
+      "file": "missing/D/136371-die-drei-kids-jagd-auf-das-phantom.json"
+    },
+    {
       "igdb_id": 302665,
       "game_name": "Die drei???: Plan der Chamäleonbande",
       "file": "missing/D/302665-die-drei-plan-der-chamaleonbande.json"
@@ -143981,6 +144031,11 @@
       "igdb_id": 386253,
       "game_name": "Dissidia Final Fantasy NT: Special Steelbook Edition",
       "file": "missing/D/386253-dissidia-final-fantasy-nt-special-steelbook-edition.json"
+    },
+    {
+      "igdb_id": 136333,
+      "game_name": "Dissidia Final Fantasy NT: Steelbook Brawler Edition",
+      "file": "missing/D/136333-dissidia-final-fantasy-nt-steelbook-brawler-edition.json"
     },
     {
       "igdb_id": 106533,
@@ -182003,6 +182058,11 @@
       "file": "missing/F/410450-fallout-5.json"
     },
     {
+      "igdb_id": 136361,
+      "game_name": "Fallout 76 Raiders & Settlers Content Bundle",
+      "file": "missing/F/136361-fallout-76-raiders-and-settlers-content-bundle.json"
+    },
+    {
       "igdb_id": 252834,
       "game_name": "Fallout 76: Atlantic City",
       "file": "missing/F/252834-fallout-76-atlantic-city.json"
@@ -188068,6 +188128,11 @@
       "file": "missing/F/240243-fifa-2001-major-league-soccer.json"
     },
     {
+      "igdb_id": 136335,
+      "game_name": "FIFA 21: Legacy Edition",
+      "file": "missing/F/136335-fifa-21-legacy-edition.json"
+    },
+    {
       "igdb_id": 240455,
       "game_name": "FIFA 22",
       "file": "missing/F/240455-fifa-22.json"
@@ -189633,6 +189698,11 @@
       "file": "missing/F/7398-final-fantasy-vii-g-bike.json"
     },
     {
+      "igdb_id": 136353,
+      "game_name": "Final Fantasy VII Remake: 1st Class Edition",
+      "file": "missing/F/136353-final-fantasy-vii-remake-1st-class-edition.json"
+    },
+    {
       "igdb_id": 119576,
       "game_name": "Final Fantasy VII Remake: Digital Deluxe Edition",
       "file": "missing/F/119576-final-fantasy-vii-remake-digital-deluxe-edition.json"
@@ -189716,6 +189786,11 @@
       "igdb_id": 402,
       "game_name": "Final Fantasy XI: Wings of the Goddess",
       "file": "missing/F/402-final-fantasy-xi-wings-of-the-goddess.json"
+    },
+    {
+      "igdb_id": 136364,
+      "game_name": "Final Fantasy XII: The Zodiac Age - Collector's Edition",
+      "file": "missing/F/136364-final-fantasy-xii-the-zodiac-age-collectors-edition.json"
     },
     {
       "igdb_id": 294213,
@@ -191103,6 +191178,11 @@
       "file": "missing/F/380529-fire-emblem-8r.json"
     },
     {
+      "igdb_id": 136336,
+      "game_name": "Fire Emblem Echoes: Shadows of Valentia - Limited Edition",
+      "file": "missing/F/136336-fire-emblem-echoes-shadows-of-valentia-limited-edition.json"
+    },
+    {
       "igdb_id": 26841,
       "game_name": "Fire Emblem Heroes",
       "file": "missing/F/26841-fire-emblem-heroes.json"
@@ -191296,6 +191376,11 @@
       "igdb_id": 293729,
       "game_name": "Fire Emblem: Three Houses - Expansion Pass",
       "file": "missing/F/293729-fire-emblem-three-houses-expansion-pass.json"
+    },
+    {
+      "igdb_id": 136363,
+      "game_name": "Fire Emblem: Three Houses - Seasons of Warfare Edition",
+      "file": "missing/F/136363-fire-emblem-three-houses-seasons-of-warfare-edition.json"
     },
     {
       "igdb_id": 293730,
@@ -203583,6 +203668,11 @@
       "file": "missing/F/199120-frequency-dissonance.json"
     },
     {
+      "igdb_id": 136366,
+      "game_name": "Fresh Merchandise",
+      "file": "missing/F/136366-fresh-merchandise.json"
+    },
+    {
       "igdb_id": 295838,
       "game_name": "Fresh Milk For Mars",
       "file": "missing/F/295838-fresh-milk-for-mars.json"
@@ -215773,6 +215863,11 @@
       "file": "missing/G/393510-gestures-towards-divinity.json"
     },
     {
+      "igdb_id": 136369,
+      "game_name": "Gestüt: Ein Leben für die Pferde",
+      "file": "missing/G/136369-gestut-ein-leben-fur-die-pferde.json"
+    },
+    {
       "igdb_id": 166516,
       "game_name": "Gesuido",
       "file": "missing/G/166516-gesuido.json"
@@ -216046,6 +216141,11 @@
       "igdb_id": 180124,
       "game_name": "Get_the_Key",
       "file": "missing/G/180124-get-the-key.json"
+    },
+    {
+      "igdb_id": 136351,
+      "game_name": "Get-'em-All Bundle",
+      "file": "missing/G/136351-get-em-all-bundle.json"
     },
     {
       "igdb_id": 49603,
@@ -222156,6 +222256,11 @@
       "igdb_id": 172677,
       "game_name": "GoldfishFlap",
       "file": "missing/G/172677-goldfishflap.json"
+    },
+    {
+      "igdb_id": 136368,
+      "game_name": "Goldgräber Simulator",
+      "file": "missing/G/136368-goldgraber-simulator.json"
     },
     {
       "igdb_id": 248324,
@@ -230216,6 +230321,11 @@
       "igdb_id": 9741,
       "game_name": "Guitar Hero Live",
       "file": "missing/G/9741-guitar-hero-live.json"
+    },
+    {
+      "igdb_id": 136352,
+      "game_name": "Guitar Hero Live: Supreme Party Edition",
+      "file": "missing/G/136352-guitar-hero-live-supreme-party-edition.json"
     },
     {
       "igdb_id": 187448,
@@ -289546,6 +289656,11 @@
       "igdb_id": 335285,
       "game_name": "Kingdom Loop",
       "file": "missing/K/335285-kingdom-loop.json"
+    },
+    {
+      "igdb_id": 136344,
+      "game_name": "Kingdom Majestic",
+      "file": "missing/K/136344-kingdom-majestic.json"
     },
     {
       "igdb_id": 292320,
@@ -370858,6 +370973,21 @@
       "file": "missing/N/154454-ni-no-kuni-ii-revenant-kingdom-adventure-pack.json"
     },
     {
+      "igdb_id": 136358,
+      "game_name": "Ni no Kuni II: Revenant Kingdom - Collector's Edition",
+      "file": "missing/N/136358-ni-no-kuni-ii-revenant-kingdom-collectors-edition.json"
+    },
+    {
+      "igdb_id": 136325,
+      "game_name": "Ni no Kuni II: Revenant Kingdom - Day One Edition",
+      "file": "missing/N/136325-ni-no-kuni-ii-revenant-kingdom-day-one-edition.json"
+    },
+    {
+      "igdb_id": 136328,
+      "game_name": "Ni no Kuni II: Revenant Kingdom - Premium Edition",
+      "file": "missing/N/136328-ni-no-kuni-ii-revenant-kingdom-premium-edition.json"
+    },
+    {
       "igdb_id": 115646,
       "game_name": "Ni no Kuni II: Revenant Kingdom - Tale of a Timeless Tome",
       "file": "missing/N/115646-ni-no-kuni-ii-revenant-kingdom-tale-of-a-timeless-tome.json"
@@ -380221,6 +380351,11 @@
       "igdb_id": 230394,
       "game_name": "Octonauts",
       "file": "missing/O/230394-octonauts.json"
+    },
+    {
+      "igdb_id": 136350,
+      "game_name": "Octopath Traveler: Wayfarer's Edition",
+      "file": "missing/O/136350-octopath-traveler-wayfarers-edition.json"
     },
     {
       "igdb_id": 94202,
@@ -401963,6 +402098,11 @@
       "file": "missing/P/405088-persona-6.json"
     },
     {
+      "igdb_id": 136347,
+      "game_name": "Persona Q2: New Cinema Labyrinth - Showtime Premium Edition",
+      "file": "missing/P/136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json"
+    },
+    {
       "igdb_id": 79947,
       "game_name": "Personal Arcade Volume One",
       "file": "missing/P/79947-personal-arcade-volume-one.json"
@@ -411683,6 +411823,11 @@
       "file": "missing/P/343926-plants-vs-zombies-delturbia.json"
     },
     {
+      "igdb_id": 136356,
+      "game_name": "Plants vs. Zombies: Battle for Neighborville - Deluxe Edition",
+      "file": "missing/P/136356-plants-vs-zombies-battle-for-neighborville-deluxe-edition.json"
+    },
+    {
       "igdb_id": 272801,
       "game_name": "Plants vs. Zombies: Cubed",
       "file": "missing/P/272801-plants-vs-zombies-cubed.json"
@@ -419691,6 +419836,11 @@
       "igdb_id": 167790,
       "game_name": "Power Rangers: Battle for the Grid - Lord Zedd",
       "file": "missing/P/167790-power-rangers-battle-for-the-grid-lord-zedd.json"
+    },
+    {
+      "igdb_id": 136360,
+      "game_name": "Power Rangers: Battle for the Grid - Ranger Edition",
+      "file": "missing/P/136360-power-rangers-battle-for-the-grid-ranger-edition.json"
     },
     {
       "igdb_id": 167789,
@@ -435141,6 +435291,11 @@
       "igdb_id": 46211,
       "game_name": "Raiden Trad",
       "file": "missing/R/46211-raiden-trad.json"
+    },
+    {
+      "igdb_id": 136319,
+      "game_name": "Raiden V: Director's Cut - Limited Edition",
+      "file": "missing/R/136319-raiden-v-directors-cut-limited-edition.json"
     },
     {
       "igdb_id": 319597,
@@ -461758,6 +461913,11 @@
       "file": "missing/S/124135-sad-rpg.json"
     },
     {
+      "igdb_id": 136346,
+      "game_name": "Sad Satan",
+      "file": "missing/S/136346-sad-satan.json"
+    },
+    {
       "igdb_id": 403181,
       "game_name": "Sad Virus Asia",
       "file": "missing/S/403181-sad-virus-asia.json"
@@ -463276,6 +463436,11 @@
       "igdb_id": 153921,
       "game_name": "Salt and Sails",
       "file": "missing/S/153921-salt-and-sails.json"
+    },
+    {
+      "igdb_id": 136349,
+      "game_name": "Salt and Sanctuary: Drowned Tome Edition",
+      "file": "missing/S/136349-salt-and-sanctuary-drowned-tome-edition.json"
     },
     {
       "igdb_id": 379869,
@@ -472566,6 +472731,11 @@
       "igdb_id": 26008,
       "game_name": "Senran Kagura Bon Appétit!: Full Course",
       "file": "missing/S/26008-senran-kagura-bon-appetit-full-course.json"
+    },
+    {
+      "igdb_id": 136354,
+      "game_name": "Senran Kagura Burst Re:Newal - At the Seams Edition",
+      "file": "missing/S/136354-senran-kagura-burst-re-newal-at-the-seams-edition.json"
     },
     {
       "igdb_id": 248315,
@@ -516268,6 +516438,11 @@
       "file": "missing/S/141877-steins-gate-double-pack.json"
     },
     {
+      "igdb_id": 136329,
+      "game_name": "Steins;Gate Elite: Limited Edition",
+      "file": "missing/S/136329-steins-gate-elite-limited-edition.json"
+    },
+    {
       "igdb_id": 320972,
       "game_name": "Steins;Gate Re:Boot",
       "file": "missing/S/320972-steins-gate-re-boot.json"
@@ -530611,6 +530786,11 @@
       "igdb_id": 268014,
       "game_name": "Super Smash Bros. Ultimate: Silver Moveset",
       "file": "missing/S/268014-super-smash-bros-ultimate-silver-moveset.json"
+    },
+    {
+      "igdb_id": 136326,
+      "game_name": "Super Smash Bros. Ultimate: Special Edition",
+      "file": "missing/S/136326-super-smash-bros-ultimate-special-edition.json"
     },
     {
       "igdb_id": 342877,
@@ -551223,6 +551403,11 @@
       "file": "missing/T/146089-the-big-robot-project.json"
     },
     {
+      "igdb_id": 136373,
+      "game_name": "The Big Simulation Box 3: Best of Simulations",
+      "file": "missing/T/136373-the-big-simulation-box-3-best-of-simulations.json"
+    },
+    {
       "igdb_id": 102130,
       "game_name": "The Big Three",
       "file": "missing/T/102130-the-big-three.json"
@@ -553288,6 +553473,11 @@
       "file": "missing/T/143121-the-companion.json"
     },
     {
+      "igdb_id": 136375,
+      "game_name": "The Complete Emergency",
+      "file": "missing/T/136375-the-complete-emergency.json"
+    },
+    {
       "igdb_id": 137480,
       "game_name": "The Complete Universal Military Simulator",
       "file": "missing/T/137480-the-complete-universal-military-simulator.json"
@@ -554386,6 +554576,11 @@
       "igdb_id": 275896,
       "game_name": "The Dark Eye Bundle",
       "file": "missing/T/275896-the-dark-eye-bundle.json"
+    },
+    {
+      "igdb_id": 136376,
+      "game_name": "The Dark Eye: Book of Heroes - Collector's Edition",
+      "file": "missing/T/136376-the-dark-eye-book-of-heroes-collectors-edition.json"
     },
     {
       "igdb_id": 7146,
@@ -556061,6 +556256,11 @@
       "igdb_id": 237336,
       "game_name": "The Elder Scrolls Online: Markarth",
       "file": "missing/T/237336-the-elder-scrolls-online-markarth.json"
+    },
+    {
+      "igdb_id": 136339,
+      "game_name": "The Elder Scrolls Online: Morrowind - Collector's Edition",
+      "file": "missing/T/136339-the-elder-scrolls-online-morrowind-collectors-edition.json"
     },
     {
       "igdb_id": 405082,
@@ -564098,6 +564298,11 @@
       "file": "missing/T/338072-the-legend-of-zelda-breath-of-the-wild-nintendo-switch-2-edition.json"
     },
     {
+      "igdb_id": 136337,
+      "game_name": "The Legend of Zelda: Breath of the Wild - Special Edition",
+      "file": "missing/T/136337-the-legend-of-zelda-breath-of-the-wild-special-edition.json"
+    },
+    {
       "igdb_id": 216236,
       "game_name": "The Legend of Zelda: Breath of the Wild - Starter Edition",
       "file": "missing/T/216236-the-legend-of-zelda-breath-of-the-wild-starter-edition.json"
@@ -564186,6 +564391,11 @@
       "igdb_id": 1028,
       "game_name": "The Legend of Zelda: Link's Awakening",
       "file": "missing/T/1028-the-legend-of-zelda-links-awakening.json"
+    },
+    {
+      "igdb_id": 136334,
+      "game_name": "The Legend of Zelda: Link's Awakening - Dreamer Edition",
+      "file": "missing/T/136334-the-legend-of-zelda-links-awakening-dreamer-edition.json"
     },
     {
       "igdb_id": 1027,
@@ -572286,6 +572496,11 @@
       "igdb_id": 275084,
       "game_name": "The Sims 4: For Rent",
       "file": "missing/T/275084-the-sims-4-for-rent.json"
+    },
+    {
+      "igdb_id": 136330,
+      "game_name": "The Sims 4: Fun Outside Bundle",
+      "file": "missing/T/136330-the-sims-4-fun-outside-bundle.json"
     },
     {
       "igdb_id": 13143,
@@ -612443,6 +612658,11 @@
       "file": "missing/U/283766-undertale-chara-boss-fight.json"
     },
     {
+      "igdb_id": 136341,
+      "game_name": "Undertale: Collector's Edition",
+      "file": "missing/U/136341-undertale-collectors-edition.json"
+    },
+    {
       "igdb_id": 136869,
       "game_name": "Undertale: Disbelief",
       "file": "missing/U/136869-undertale-disbelief.json"
@@ -617371,6 +617591,11 @@
       "igdb_id": 304755,
       "game_name": "Valkyria Chronicles 4: Expert Level Skirmishes",
       "file": "missing/V/304755-valkyria-chronicles-4-expert-level-skirmishes.json"
+    },
+    {
+      "igdb_id": 136324,
+      "game_name": "Valkyria Chronicles 4: Launch Edition",
+      "file": "missing/V/136324-valkyria-chronicles-4-launch-edition.json"
     },
     {
       "igdb_id": 132179,
@@ -642318,6 +642543,11 @@
       "file": "missing/W/193762-world-of-simulators-bundle.json"
     },
     {
+      "igdb_id": 136355,
+      "game_name": "World of Simulators: Ultimate Edition",
+      "file": "missing/W/136355-world-of-simulators-ultimate-edition.json"
+    },
+    {
       "igdb_id": 327363,
       "game_name": "World of Slavic Glasses",
       "file": "missing/W/327363-world-of-slavic-glasses.json"
@@ -642583,6 +642813,11 @@
       "file": "missing/W/417650-world-of-warcraft-forever.json"
     },
     {
+      "igdb_id": 136338,
+      "game_name": "World of Warcraft: Legion - Collector's Edition",
+      "file": "missing/W/136338-world-of-warcraft-legion-collectors-edition.json"
+    },
+    {
       "igdb_id": 411703,
       "game_name": "World of Warcraft: Midnight - Curse of Ula'tek",
       "file": "missing/W/411703-world-of-warcraft-midnight-curse-of-ulatek.json"
@@ -642591,6 +642826,11 @@
       "igdb_id": 1332,
       "game_name": "World of Warcraft: Mists of Pandaria",
       "file": "missing/W/1332-world-of-warcraft-mists-of-pandaria.json"
+    },
+    {
+      "igdb_id": 136348,
+      "game_name": "World of Warcraft: Mists of Pandaria - Collector's Edition",
+      "file": "missing/W/136348-world-of-warcraft-mists-of-pandaria-collectors-edition.json"
     },
     {
       "igdb_id": 322151,
@@ -644746,6 +644986,11 @@
       "igdb_id": 168351,
       "game_name": "WWE 2K17: NXT Enhancement Pack",
       "file": "missing/W/168351-wwe-2k17-nxt-enhancement-pack.json"
+    },
+    {
+      "igdb_id": 136359,
+      "game_name": "WWE 2K19: Deluxe Edition",
+      "file": "missing/W/136359-wwe-2k19-deluxe-edition.json"
     },
     {
       "igdb_id": 121437,
@@ -648701,6 +648946,11 @@
       "igdb_id": 77356,
       "game_name": "Yo-kai Sangokushi: Kunitori Wars",
       "file": "missing/Y/77356-yo-kai-sangokushi-kunitori-wars.json"
+    },
+    {
+      "igdb_id": 136357,
+      "game_name": "Yo-Kai Watch 1 for Nintendo Switch",
+      "file": "missing/Y/136357-yo-kai-watch-1-for-nintendo-switch.json"
     },
     {
       "igdb_id": 308252,
