@@ -3175,6 +3175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coma 3: Bloodlines - Overaction Skin | 401670 | [401670-the-coma-3-bloodlines-overaction-skin.json](./401670-the-coma-3-bloodlines-overaction-skin.json) |
 | The Coma 3: Bloodlines - Overly Attractive Teacher Skin | 401681 | [401681-the-coma-3-bloodlines-overly-attractive-teacher-skin.json](./401681-the-coma-3-bloodlines-overly-attractive-teacher-skin.json) |
 | The Coma: Back to School Bundle | 154967 | [154967-the-coma-back-to-school-bundle.json](./154967-the-coma-back-to-school-bundle.json) |
+| The Coma: Double Cut | 136930 | [136930-the-coma-double-cut.json](./136930-the-coma-double-cut.json) |
 | The Coma: Recut - Limited Edition | 166241 | [166241-the-coma-recut-limited-edition.json](./166241-the-coma-recut-limited-edition.json) |
 | The Coma: Triple Threat Bundle | 338010 | [338010-the-coma-triple-threat-bundle.json](./338010-the-coma-triple-threat-bundle.json) |
 | The Combatribes | 337198 | [337198-the-combatribes.json](./337198-the-combatribes.json) |
@@ -10448,6 +10449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToHeart | 303230 | [303230-toheart.json](./303230-toheart.json) |
 | ToHeart2 | 132039 | [132039-toheart2.json](./132039-toheart2.json) |
 | ToHeart2: AnotherDays | 242474 | [242474-toheart2-anotherdays.json](./242474-toheart2-anotherdays.json) |
+| Tohoku Daigaku Karei Igaku Kenkyuusho: Kawashima Ryuuta Kyouju Kanshuu - Mono Sugoku Nou wo Kitaeru 5-Funkan no Oni Training | 136956 | [136956-tohoku-daigaku-karei-igaku-kenkyuusho-kawashima-ryuuta-kyouju-kanshuu-mono-sugoku-nou-wo-kitaeru-5-funkan-no-oni-training.json](./136956-tohoku-daigaku-karei-igaku-kenkyuusho-kawashima-ryuuta-kyouju-kanshuu-mono-sugoku-nou-wo-kitaeru-5-funkan-no-oni-training.json) |
 | Tohotopia | 391609 | [391609-tohotopia.json](./391609-tohotopia.json) |
 | Tohu-Teka | 120159 | [120159-tohu-teka.json](./120159-tohu-teka.json) |
 | Toi Acid Game | 47525 | [47525-toi-acid-game.json](./47525-toi-acid-game.json) |
@@ -10626,6 +10628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege: Operation Brutal Swarm | 217522 | [217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json](./217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Neon Dawn | 141194 | [141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json](./141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Red Crow | 25641 | [25641-tom-clancys-rainbow-six-siege-operation-red-crow.json](./25641-tom-clancys-rainbow-six-siege-operation-red-crow.json) |
+| Tom Clancy's Rainbow Six Siege: Operation Shadow Legacy | 136978 | [136978-tom-clancys-rainbow-six-siege-operation-shadow-legacy.json](./136978-tom-clancys-rainbow-six-siege-operation-shadow-legacy.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Steel Wave | 135157 | [135157-tom-clancys-rainbow-six-siege-operation-steel-wave.json](./135157-tom-clancys-rainbow-six-siege-operation-steel-wave.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Vector Glare | 217521 | [217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json](./217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Void Edge | 135155 | [135155-tom-clancys-rainbow-six-siege-operation-void-edge.json](./135155-tom-clancys-rainbow-six-siege-operation-void-edge.json) |
@@ -10997,6 +11000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tor Eternum | 148496 | [148496-tor-eternum.json](./148496-tor-eternum.json) |
 | Tora | 114381 | [114381-tora.json](./114381-tora.json) |
 | Toraware no Palm | 97297 | [97297-toraware-no-palm.json](./97297-toraware-no-palm.json) |
+| Toraware no Palm: Deluxe Edition | 136967 | [136967-toraware-no-palm-deluxe-edition.json](./136967-toraware-no-palm-deluxe-edition.json) |
 | Toraware no Palm: Refrain | 109603 | [109603-toraware-no-palm-refrain.json](./109603-toraware-no-palm-refrain.json) |
 | Toraware no Palm: Refrain - Deluxe Edition | 136843 | [136843-toraware-no-palm-refrain-deluxe-edition.json](./136843-toraware-no-palm-refrain-deluxe-edition.json) |
 | Torawase: The Girl in the Mirror | 397911 | [397911-torawase-the-girl-in-the-mirror.json](./397911-torawase-the-girl-in-the-mirror.json) |
@@ -11814,6 +11818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrackMania United Forever | 2451 | [2451-trackmania-united-forever.json](./2451-trackmania-united-forever.json) |
 | TrackRacing Online | 98396 | [98396-trackracing-online.json](./98396-trackracing-online.json) |
 | Tracks n' Turrets | 272899 | [272899-tracks-n-turrets.json](./272899-tracks-n-turrets.json) |
+| Tracks of Thought | 136982 | [136982-tracks-of-thought.json](./136982-tracks-of-thought.json) |
 | Tracks of Triumph: Good Old Times | 29886 | [29886-tracks-of-triumph-good-old-times.json](./29886-tracks-of-triumph-good-old-times.json) |
 | Tracks: The Train Set Game | 39748 | [39748-tracks-the-train-set-game.json](./39748-tracks-the-train-set-game.json) |
 | Tracktopia | 333628 | [333628-tracktopia.json](./333628-tracktopia.json) |
