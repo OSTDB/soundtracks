@@ -3026,6 +3026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Wolf: World War 2 | 142264 | [142264-lone-wolf-world-war-2.json](./142264-lone-wolf-world-war-2.json) |
 | lone.AI | 295404 | [295404-lone-ai.json](./295404-lone-ai.json) |
 | Loneliest Depths | 300391 | [300391-loneliest-depths.json](./300391-loneliest-depths.json) |
+| Loneliness | 139344 | [139344-loneliness.json](./139344-loneliness.json) |
 | Loneliness Butterfly | 314074 | [314074-loneliness-butterfly.json](./314074-loneliness-butterfly.json) |
 | Lonely | 229677 | [229677-lonely.json](./229677-lonely.json) |
 | Lonely Catgirl is the Purrfect Pussy | 156629 | [156629-lonely-catgirl-is-the-purrfect-pussy.json](./156629-lonely-catgirl-is-the-purrfect-pussy.json) |
@@ -3063,6 +3064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Hun Shi Ke | 90619 | [90619-long-hun-shi-ke.json](./90619-long-hun-shi-ke.json) |
 | Long in the Tooth | 376130 | [376130-long-in-the-tooth.json](./376130-long-in-the-tooth.json) |
 | Long Journey | 200571 | [200571-long-journey.json](./200571-long-journey.json) |
+| Long Journey of Life | 139299 | [139299-long-journey-of-life.json](./139299-long-journey-of-life.json) |
 | Long Jump | 247049 | [247049-long-jump.json](./247049-long-jump.json) |
 | Long Legged Larry | 247445 | [247445-long-legged-larry.json](./247445-long-legged-larry.json) |
 | Long Live Caesar | 166717 | [166717-long-live-caesar.json](./166717-long-live-caesar.json) |
