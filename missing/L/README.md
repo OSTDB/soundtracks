@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Days of Spring 2: Deluxe Edition | 53264 | [53264-last-days-of-spring-2-deluxe-edition.json](./53264-last-days-of-spring-2-deluxe-edition.json) |
 | Last Days of Spring Visual Novel | 34322 | [34322-last-days-of-spring-visual-novel.json](./34322-last-days-of-spring-visual-novel.json) |
 | Last Defender | 310562 | [310562-last-defender.json](./310562-last-defender.json) |
+| Last Defenders | 173045 | [173045-last-defenders.json](./173045-last-defenders.json) |
 | Last Dolls | 382318 | [382318-last-dolls.json](./382318-last-dolls.json) |
 | Last Dream: Complete Edition | 53265 | [53265-last-dream-complete-edition.json](./53265-last-dream-complete-edition.json) |
 | Last Dream: World Unknown | 33378 | [33378-last-dream-world-unknown.json](./33378-last-dream-world-unknown.json) |
