@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Planet | 297013 | [297013-idol-planet.json](./297013-idol-planet.json) |
 | Idol Project | 283713 | [283713-idol-project.json](./283713-idol-project.json) |
 | Idol Project 2 | 283714 | [283714-idol-project-2.json](./283714-idol-project-2.json) |
+| Idol Queens Production | 168674 | [168674-idol-queens-production.json](./168674-idol-queens-production.json) |
 | Idol Shooter | 267960 | [267960-idol-shooter.json](./267960-idol-shooter.json) |
 | Idol Showdown | 243747 | [243747-idol-showdown.json](./243747-idol-showdown.json) |
 | Idol Tantei You&My | 246105 | [246105-idol-tantei-you-and-my.json](./246105-idol-tantei-you-and-my.json) |
