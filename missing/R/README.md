@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raven Squad: Operation Hidden Dagger | 7156 | [7156-raven-squad-operation-hidden-dagger.json](./7156-raven-squad-operation-hidden-dagger.json) |
 | Raven's Cry | 7686 | [7686-ravens-cry.json](./7686-ravens-cry.json) |
 | Raven's Hike | 164982 | [164982-ravens-hike.json](./164982-ravens-hike.json) |
+| Raven's Point | 156569 | [156569-ravens-point.json](./156569-ravens-point.json) |
 | Ravenbound | 214852 | [214852-ravenbound.json](./214852-ravenbound.json) |
 | Ravenbound: Hammers of Ávalt | 255152 | [255152-ravenbound-hammers-of-avalt.json](./255152-ravenbound-hammers-of-avalt.json) |
 | Ravenclaw Common Room VR | 406721 | [406721-ravenclaw-common-room-vr.json](./406721-ravenclaw-common-room-vr.json) |
@@ -4611,6 +4612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Football: Royale Lands | 368558 | [368558-room-football-royale-lands.json](./368558-room-football-royale-lands.json) |
 | Room Football: Wetlands | 339282 | [339282-room-football-wetlands.json](./339282-room-football-wetlands.json) |
 | Room For One! | 367478 | [367478-room-for-one.json](./367478-room-for-one.json) |
+| Room No. 9 | 156575 | [156575-room-no-9.json](./156575-room-no-9.json) |
 | Room of 1000 Snakes | 62436 | [62436-room-of-1000-snakes.json](./62436-room-of-1000-snakes.json) |
 | Room of Doom | 18533 | [18533-room-of-doom.json](./18533-room-of-doom.json) |
 | Room of Halloween | 229153 | [229153-room-of-halloween.json](./229153-room-of-halloween.json) |
