@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gate of Nightmares | 174644 | [174644-gate-of-nightmares.json](./174644-gate-of-nightmares.json) |
 | Gate of Providence | 181925 | [181925-gate-of-providence.json](./181925-gate-of-providence.json) |
 | Gate of Souls | 253308 | [253308-gate-of-souls.json](./253308-gate-of-souls.json) |
+| Gate Six: Cyber Persona | 122921 | [122921-gate-six-cyber-persona.json](./122921-gate-six-cyber-persona.json) |
 | Gate to Die | 412500 | [412500-gate-to-die.json](./412500-gate-to-die.json) |
 | Gate Warfare | 367602 | [367602-gate-warfare.json](./367602-gate-warfare.json) |
 | Gate World | 46649 | [46649-gate-world.json](./46649-gate-world.json) |
@@ -1769,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gift of Life: Key of Solomon | 88228 | [88228-gift-of-life-key-of-solomon.json](./88228-gift-of-life-key-of-solomon.json) |
 | Gift Quest: Christmas Edition | 255643 | [255643-gift-quest-christmas-edition.json](./255643-gift-quest-christmas-edition.json) |
 | Gift Quest: Valentine's Day | 255655 | [255655-gift-quest-valentines-day.json](./255655-gift-quest-valentines-day.json) |
+| Gift Scavenger | 122962 | [122962-gift-scavenger.json](./122962-gift-scavenger.json) |
 | Gift Shop Factory | 159360 | [159360-gift-shop-factory.json](./159360-gift-shop-factory.json) |
 | Gift to Humanity | 75163 | [75163-gift-to-humanity.json](./75163-gift-to-humanity.json) |
 | Gift Wrapped | 272556 | [272556-gift-wrapped.json](./272556-gift-wrapped.json) |
