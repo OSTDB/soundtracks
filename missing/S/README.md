@@ -4384,6 +4384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Shark | 404429 | [404429-silent-shark.json](./404429-silent-shark.json) |
 | Silent Slayer: Vault of the Vampire | 251562 | [251562-silent-slayer-vault-of-the-vampire.json](./251562-silent-slayer-vault-of-the-vampire.json) |
 | Silent Sonata | 284483 | [284483-silent-sonata.json](./284483-silent-sonata.json) |
+| Silent Space | 156588 | [156588-silent-space.json](./156588-silent-space.json) |
 | Silent space VR | 75765 | [75765-silent-space-vr.json](./75765-silent-space-vr.json) |
 | Silent Spirits | 383363 | [383363-silent-spirits.json](./383363-silent-spirits.json) |
 | Silent Steel | 73827 | [73827-silent-steel.json](./73827-silent-steel.json) |
@@ -9150,6 +9151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiriki: Tiny Island | 404860 | [404860-spiriki-tiny-island.json](./404860-spiriki-tiny-island.json) |
 | Spirit & Stone | 216875 | [216875-spirit-and-stone.json](./216875-spirit-and-stone.json) |
 | Spirit and Katana | 191190 | [191190-spirit-and-katana.json](./191190-spirit-and-katana.json) |
+| Spirit Bounce | 156587 | [156587-spirit-bounce.json](./156587-spirit-bounce.json) |
 | Spirit Catcher 93' | 383357 | [383357-spirit-catcher-93.json](./383357-spirit-catcher-93.json) |
 | Spirit Charm | 215660 | [215660-spirit-charm.json](./215660-spirit-charm.json) |
 | Spirit City: Lofi Sessions | 263016 | [263016-spirit-city-lofi-sessions.json](./263016-spirit-city-lofi-sessions.json) |
@@ -9669,6 +9671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Jump | 106377 | [106377-square-jump.json](./106377-square-jump.json) |
 | Square n Fair | 29862 | [29862-square-n-fair.json](./29862-square-n-fair.json) |
 | Square of Joy | 312733 | [312733-square-of-joy.json](./312733-square-of-joy.json) |
+| Square Off | 156557 | [156557-square-off.json](./156557-square-off.json) |
 | Square Rounds | 219687 | [219687-square-rounds.json](./219687-square-rounds.json) |
 | Square Route | 98997 | [98997-square-route.json](./98997-square-route.json) |
 | Square Runner | 198238 | [198238-square-runner.json](./198238-square-runner.json) |
@@ -9744,6 +9747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrel with a Gun: Pride Month Update | 370901 | [370901-squirrel-with-a-gun-pride-month-update.json](./370901-squirrel-with-a-gun-pride-month-update.json) |
 | Squirreled Away | 314650 | [314650-squirreled-away.json](./314650-squirreled-away.json) |
 | Squirreled Away | 326713 | [326713-squirreled-away.json](./326713-squirreled-away.json) |
+| Squirrelmageddon! | 156548 | [156548-squirrelmageddon.json](./156548-squirrelmageddon.json) |
 | Squirrels Gone Nuts | 290551 | [290551-squirrels-gone-nuts.json](./290551-squirrels-gone-nuts.json) |
 | Squirreltopia | 36132 | [36132-squirreltopia.json](./36132-squirreltopia.json) |
 | Squish | 342865 | [342865-squish.json](./342865-squish.json) |
@@ -12279,6 +12283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suez Canal Simulator | 149409 | [149409-suez-canal-simulator.json](./149409-suez-canal-simulator.json) |
 | Suffer | 110650 | [110650-suffer.json](./110650-suffer.json) |
 | Suffer 2 | 211689 | [211689-suffer-2.json](./211689-suffer-2.json) |
+| Suffering | 156560 | [156560-suffering.json](./156560-suffering.json) |
 | Sufficiency | 262922 | [262922-sufficiency.json](./262922-sufficiency.json) |
 | Suffocation | 295871 | [295871-suffocation.json](./295871-suffocation.json) |
 | SUGA: Survival Game | 376470 | [376470-suga-survival-game.json](./376470-suga-survival-game.json) |
