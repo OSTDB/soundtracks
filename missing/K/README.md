@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalanoro | 398583 | [398583-kalanoro.json](./398583-kalanoro.json) |
 | Kalasta | 303608 | [303608-kalasta.json](./303608-kalasta.json) |
 | Kaleido Stella | 113745 | [113745-kaleido-stella.json](./113745-kaleido-stella.json) |
+| Kaleidocraft | 156572 | [156572-kaleidocraft.json](./156572-kaleidocraft.json) |
 | Kaleidoscope | 406303 | [406303-kaleidoscope.json](./406303-kaleidoscope.json) |
 | Kaleidoscope Chateau | 238722 | [238722-kaleidoscope-chateau.json](./238722-kaleidoscope-chateau.json) |
 | Kaleidoscope of Phantasm Prison 2 | 320772 | [320772-kaleidoscope-of-phantasm-prison-2.json](./320772-kaleidoscope-of-phantasm-prison-2.json) |
@@ -2189,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kor | 183561 | [183561-kor.json](./183561-kor.json) |
 | Kore ga Pro Yakyuu '89 | 42037 | [42037-kore-ga-pro-yakyuu-89.json](./42037-kore-ga-pro-yakyuu-89.json) |
 | Korea: Forgotten Conflict | 24186 | [24186-korea-forgotten-conflict.json](./24186-korea-forgotten-conflict.json) |
+| Korean Adventures in Russia | 156547 | [156547-korean-adventures-in-russia.json](./156547-korean-adventures-in-russia.json) |
 | Korean Dominatrixes Are the Best | 385706 | [385706-korean-dominatrixes-are-the-best.json](./385706-korean-dominatrixes-are-the-best.json) |
 | Korean Drone Flying Tour Baegun Lake | 353994 | [353994-korean-drone-flying-tour-baegun-lake.json](./353994-korean-drone-flying-tour-baegun-lake.json) |
 | Korean Drone Flying Tour Baekje Military Museum | 411817 | [411817-korean-drone-flying-tour-baekje-military-museum.json](./411817-korean-drone-flying-tour-baekje-military-museum.json) |
