@@ -1795,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red's Revenge | 273980 | [273980-reds-revenge.json](./273980-reds-revenge.json) |
 | Redacted | 212214 | [212214-redacted.json](./212214-redacted.json) |
 | Redacted by the Sadistic Princess from Another World?! | 402250 | [402250-redacted-by-the-sadistic-princess-from-another-world.json](./402250-redacted-by-the-sadistic-princess-from-another-world.json) |
+| Redacted Life | 124679 | [124679-redacted-life.json](./124679-redacted-life.json) |
 | Redacted: Genome | 287196 | [287196-redacted-genome.json](./287196-redacted-genome.json) |
 | Redactem | 27470 | [27470-redactem.json](./27470-redactem.json) |
 | Redaction | 223399 | [223399-redaction.json](./223399-redaction.json) |
@@ -1960,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflections of Life: Spindle of Fate | 244479 | [244479-reflections-of-life-spindle-of-fate.json](./244479-reflections-of-life-spindle-of-fate.json) |
 | Reflections of Life: The Shattered Timeline - Collector's Edition | 307752 | [307752-reflections-of-life-the-shattered-timeline-collectors-edition.json](./307752-reflections-of-life-the-shattered-timeline-collectors-edition.json) |
 | Reflections of Life: Utopia - Collector's Edition | 132632 | [132632-reflections-of-life-utopia-collectors-edition.json](./132632-reflections-of-life-utopia-collectors-edition.json) |
+| Reflections on the River | 124681 | [124681-reflections-on-the-river.json](./124681-reflections-on-the-river.json) |
 | Reflections Path | 211951 | [211951-reflections-path.json](./211951-reflections-path.json) |
 | Reflections: Dreams and Reality | 115625 | [115625-reflections-dreams-and-reality.json](./115625-reflections-dreams-and-reality.json) |
 | Reflector Satellites | 317411 | [317411-reflector-satellites.json](./317411-reflector-satellites.json) |
@@ -2994,6 +2996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ribbit Up: Frog Climber | 348989 | [348989-ribbit-up-frog-climber.json](./348989-ribbit-up-frog-climber.json) |
 | Ribbits | 341867 | [341867-ribbits.json](./341867-ribbits.json) |
 | Ribbits | 384081 | [384081-ribbits.json](./384081-ribbits.json) |
+| Ribbon of Green | 124672 | [124672-ribbon-of-green.json](./124672-ribbon-of-green.json) |
 | Ribby Rocket | 149599 | [149599-ribby-rocket.json](./149599-ribby-rocket.json) |
 | Rica Mode | 401121 | [401121-rica-mode.json](./401121-rica-mode.json) |
 | Rice & Rest | 346581 | [346581-rice-and-rest.json](./346581-rice-and-rest.json) |
@@ -3663,6 +3666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road 96: Mile 0 - Full Journey Bundle | 243799 | [243799-road-96-mile-0-full-journey-bundle.json](./243799-road-96-mile-0-full-journey-bundle.json) |
 | Road 96: Mile 0 - Stronger Together Bundle | 243802 | [243802-road-96-mile-0-stronger-together-bundle.json](./243802-road-96-mile-0-stronger-together-bundle.json) |
 | Road Avenger | 93049 | [93049-road-avenger.json](./93049-road-avenger.json) |
+| Road Block | 124709 | [124709-road-block.json](./124709-road-block.json) |
 | Road Cafe Simulator | 351028 | [351028-road-cafe-simulator.json](./351028-road-cafe-simulator.json) |
 | Road Champs: BXS Stunt Biking | 49907 | [49907-road-champs-bxs-stunt-biking.json](./49907-road-champs-bxs-stunt-biking.json) |
 | Road Chase | 105894 | [105894-road-chase.json](./105894-road-chase.json) |
