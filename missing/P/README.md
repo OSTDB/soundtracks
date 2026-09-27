@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandemic | 147934 | [147934-pandemic.json](./147934-pandemic.json) |
 | Pandemic Express: Zombie Escape | 110294 | [110294-pandemic-express-zombie-escape.json](./110294-pandemic-express-zombie-escape.json) |
 | Pandemic Heart | 165010 | [165010-pandemic-heart.json](./165010-pandemic-heart.json) |
+| Pandemic Isolation | 151076 | [151076-pandemic-isolation.json](./151076-pandemic-isolation.json) |
 | Pandemic of the Forgotten Virus | 185593 | [185593-pandemic-of-the-forgotten-virus.json](./185593-pandemic-of-the-forgotten-virus.json) |
 | Pandemic Train | 149918 | [149918-pandemic-train.json](./149918-pandemic-train.json) |
 | Pandemic: The Board Game | 69425 | [69425-pandemic-the-board-game.json](./69425-pandemic-the-board-game.json) |
@@ -817,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parachute 22 | 205098 | [205098-parachute-22.json](./205098-parachute-22.json) |
 | Parachute Ninja | 232671 | [232671-parachute-ninja.json](./232671-parachute-ninja.json) |
 | Paracom | 384535 | [384535-paracom.json](./384535-paracom.json) |
+| Paradaice | 151083 | [151083-paradaice.json](./151083-paradaice.json) |
 | Paradigm Island | 285976 | [285976-paradigm-island.json](./285976-paradigm-island.json) |
 | Paradigm Overhaul | 291762 | [291762-paradigm-overhaul.json](./291762-paradigm-overhaul.json) |
 | Paradigm: Reboot | 193887 | [193887-paradigm-reboot.json](./193887-paradigm-reboot.json) |
@@ -1112,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Particle | 309496 | [309496-particle.json](./309496-particle.json) |
 | Particle Fleet: Emergence | 24821 | [24821-particle-fleet-emergence.json](./24821-particle-fleet-emergence.json) |
 | Particles | 262696 | [262696-particles.json](./262696-particles.json) |
+| Particubes | 151086 | [151086-particubes.json](./151086-particubes.json) |
 | Particulate | 127244 | [127244-particulate.json](./127244-particulate.json) |
 | Particulitix | 390515 | [390515-particulitix.json](./390515-particulitix.json) |
 | Partisans 1941 | 117497 | [117497-partisans-1941.json](./117497-partisans-1941.json) |
@@ -3659,6 +3662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Delivery in a Storm | 319185 | [319185-pizza-delivery-in-a-storm.json](./319185-pizza-delivery-in-a-storm.json) |
 | Pizza Delivery: A Short Thriller | 305364 | [305364-pizza-delivery-a-short-thriller.json](./305364-pizza-delivery-a-short-thriller.json) |
 | Pizza Delivery: Zebaxx | 276189 | [276189-pizza-delivery-zebaxx.json](./276189-pizza-delivery-zebaxx.json) |
+| Pizza Empire | 151104 | [151104-pizza-empire.json](./151104-pizza-empire.json) |
 | Pizza Empire! | 172048 | [172048-pizza-empire.json](./172048-pizza-empire.json) |
 | Pizza Fighter Deluxe | 90391 | [90391-pizza-fighter-deluxe.json](./90391-pizza-fighter-deluxe.json) |
 | Pizza Fun | 218551 | [218551-pizza-fun.json](./218551-pizza-fun.json) |
@@ -5596,6 +5600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PQ: The Party Quiz Game | 94250 | [94250-pq-the-party-quiz-game.json](./94250-pq-the-party-quiz-game.json) |
 | PQ2: Practical Intelligence Quotient 2 | 44506 | [44506-pq2-practical-intelligence-quotient-2.json](./44506-pq2-practical-intelligence-quotient-2.json) |
 | Practical Pinball | 367477 | [367477-practical-pinball.json](./367477-practical-pinball.json) |
+| Practical Shooting Simulator | 151105 | [151105-practical-shooting-simulator.json](./151105-practical-shooting-simulator.json) |
 | Praetorians HD Remaster | 119382 | [119382-praetorians-hd-remaster.json](./119382-praetorians-hd-remaster.json) |
 | Praey for the Gods | 14378 | [14378-praey-for-the-gods.json](./14378-praey-for-the-gods.json) |
 | Pragma Twice | 347714 | [347714-pragma-twice.json](./347714-pragma-twice.json) |
@@ -6580,6 +6585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Winter Mobile | 199947 | [199947-project-winter-mobile.json](./199947-project-winter-mobile.json) |
 | Project Winter: Blackout | 164817 | [164817-project-winter-blackout.json](./164817-project-winter-blackout.json) |
 | Project Worth: Forgather | 211812 | [211812-project-worth-forgather.json](./211812-project-worth-forgather.json) |
+| Project Wunderwaffe | 151085 | [151085-project-wunderwaffe.json](./151085-project-wunderwaffe.json) |
 | Project X | 377577 | [377577-project-x.json](./377577-project-x.json) |
 | Project X Zone: Limited Edition | 89877 | [89877-project-x-zone-limited-edition.json](./89877-project-x-zone-limited-edition.json) |
 | Project X: Love Potion Disaster | 218729 | [218729-project-x-love-potion-disaster.json](./218729-project-x-love-potion-disaster.json) |
@@ -6830,6 +6836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psionic Sentry: Infinite | 276191 | [276191-psionic-sentry-infinite.json](./276191-psionic-sentry-infinite.json) |
 | PSN Protector | 320978 | [320978-psn-protector.json](./320978-psn-protector.json) |
 | Psst... I Have a Secret | 179043 | [179043-psst-i-have-a-secret.json](./179043-psst-i-have-a-secret.json) |
+| PSweet | 151078 | [151078-psweet.json](./151078-psweet.json) |
 | PSXFunkin: Lullaby Mod | 404438 | [404438-psxfunkin-lullaby-mod.json](./404438-psxfunkin-lullaby-mod.json) |
 | PSXFunkin: Mind Games | 404437 | [404437-psxfunkin-mind-games.json](./404437-psxfunkin-mind-games.json) |
 | PSXFunkin' | 279587 | [279587-psxfunkin.json](./279587-psxfunkin.json) |
