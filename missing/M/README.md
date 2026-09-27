@@ -2774,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechaBlight | 390625 | [390625-mechablight.json](./390625-mechablight.json) |
 | Mechachain | 276738 | [276738-mechachain.json](./276738-mechachain.json) |
 | Mechafare | 393125 | [393125-mechafare.json](./393125-mechafare.json) |
+| Mechajammer | 152269 | [152269-mechajammer.json](./152269-mechajammer.json) |
 | Mechamice | 377276 | [377276-mechamice.json](./377276-mechamice.json) |
 | Mechaneer Resta's Grand Adventure | 236785 | [236785-mechaneer-restas-grand-adventure.json](./236785-mechaneer-restas-grand-adventure.json) |
 | Mechanic 8230: Deluxe Edition | 252700 | [252700-mechanic-8230-deluxe-edition.json](./252700-mechanic-8230-deluxe-edition.json) |
@@ -4121,6 +4122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meticulous | 237085 | [237085-meticulous.json](./237085-meticulous.json) |
 | Meticulous: Meet All Your Needs | 215614 | [215614-meticulous-meet-all-your-needs.json](./215614-meticulous-meet-all-your-needs.json) |
 | Metin2 | 3119 | [3119-metin2.json](./3119-metin2.json) |
+| MetioTower | 152254 | [152254-metiotower.json](./152254-metiotower.json) |
 | Metori | 107864 | [107864-metori.json](./107864-metori.json) |
 | Metric Racer | 133427 | [133427-metric-racer.json](./133427-metric-racer.json) |
 | MetrixVR | 124142 | [124142-metrixvr.json](./124142-metrixvr.json) |
@@ -5406,6 +5408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mir | 363939 | [363939-mir.json](./363939-mir.json) |
 | Mira and the Mysteries of Alchemy | 168222 | [168222-mira-and-the-mysteries-of-alchemy.json](./168222-mira-and-the-mysteries-of-alchemy.json) |
 | Mira: A Bird's Flight | 208462 | [208462-mira-a-birds-flight.json](./208462-mira-a-birds-flight.json) |
+| Mira's Brush | 152217 | [152217-miras-brush.json](./152217-miras-brush.json) |
 | Mira's Journal | 370918 | [370918-miras-journal.json](./370918-miras-journal.json) |
 | Mira's Mirage Mirror | 361691 | [361691-miras-mirage-mirror.json](./361691-miras-mirage-mirror.json) |
 | Miracle Casino Paradise | 37926 | [37926-miracle-casino-paradise.json](./37926-miracle-casino-paradise.json) |
