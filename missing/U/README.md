@@ -645,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undefeated | 36179 | [36179-undefeated.json](./36179-undefeated.json) |
 | Undefined | 111026 | [111026-undefined.json](./111026-undefined.json) |
 | Undemon | 182363 | [182363-undemon.json](./182363-undemon.json) |
+| Under Construction: Summer City | 167582 | [167582-under-construction-summer-city.json](./167582-under-construction-summer-city.json) |
 | Under Contract | 219533 | [219533-under-contract.json](./219533-under-contract.json) |
 | Under Control | 176795 | [176795-under-control.json](./176795-under-control.json) |
 | Under Control | 21325 | [21325-under-control.json](./21325-under-control.json) |
