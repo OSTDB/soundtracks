@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jian Po | 119700 | [119700-jian-po.json](./119700-jian-po.json) |
 | Jian Wang 3: Heavy Plate | 76953 | [76953-jian-wang-3-heavy-plate.json](./76953-jian-wang-3-heavy-plate.json) |
 | Jiàndào Xiānyǔ | 147387 | [147387-jiandao-xianyu.json](./147387-jiandao-xianyu.json) |
+| Jiang Yao Shen Bing | 158502 | [158502-jiang-yao-shen-bing.json](./158502-jiang-yao-shen-bing.json) |
 | Jianghu Chronicles | 303591 | [303591-jianghu-chronicles.json](./303591-jianghu-chronicles.json) |
 | Jiangshi x Daoshi | 135880 | [135880-jiangshi-x-daoshi.json](./135880-jiangshi-x-daoshi.json) |
 | Jiànxí Sǐshén | 374622 | [374622-jianxi-sishen.json](./374622-jianxi-sishen.json) |
