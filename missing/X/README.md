@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XDefiant | 159029 | [159029-xdefiant.json](./159029-xdefiant.json) |
 | xDx Ball Shooter | 186050 | [186050-xdx-ball-shooter.json](./186050-xdx-ball-shooter.json) |
 | Xearz | 215658 | [215658-xearz.json](./215658-xearz.json) |
+| Xecuter | 133346 | [133346-xecuter.json](./133346-xecuter.json) |
 | Xecutor | 55021 | [55021-xecutor.json](./55021-xecutor.json) |
 | XeGrader | 352364 | [352364-xegrader.json](./352364-xegrader.json) |
 | XeGrader Plus | 388057 | [388057-xegrader-plus.json](./388057-xegrader-plus.json) |
@@ -289,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenosphere | 301956 | [301956-xenosphere.json](./301956-xenosphere.json) |
 | XenoTown | 192884 | [192884-xenotown.json](./192884-xenotown.json) |
 | XenoTrigger | 183336 | [183336-xenotrigger.json](./183336-xenotrigger.json) |
+| XenovaderS | 133355 | [133355-xenovaders.json](./133355-xenovaders.json) |
 | Xenowar | 70390 | [70390-xenowar.json](./70390-xenowar.json) |
 | XenoWorld: The Rondeau of Astra | 236951 | [236951-xenoworld-the-rondeau-of-astra.json](./236951-xenoworld-the-rondeau-of-astra.json) |
 | Xentripetal Force | 121466 | [121466-xentripetal-force.json](./121466-xentripetal-force.json) |
