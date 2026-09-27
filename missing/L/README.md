@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lapse: A Forgotten Future | 77471 | [77471-lapse-a-forgotten-future.json](./77471-lapse-a-forgotten-future.json) |
 | Lapsi | 120337 | [120337-lapsi.json](./120337-lapsi.json) |
 | Lapso | 126618 | [126618-lapso.json](./126618-lapso.json) |
+| Lapso: Nimbo | 135793 | [135793-lapso-nimbo.json](./135793-lapso-nimbo.json) |
 | Laptick | 56741 | [56741-laptick.json](./56741-laptick.json) |
 | Laptick 2 | 56742 | [56742-laptick-2.json](./56742-laptick-2.json) |
 | Laptop Tycoon | 186603 | [186603-laptop-tycoon.json](./186603-laptop-tycoon.json) |
@@ -704,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Launch & Loot | 340902 | [340902-launch-and-loot.json](./340902-launch-and-loot.json) |
 | Launch & Merge : Hexa Puzzle | 100014 | [100014-launch-and-merge-hexa-puzzle.json](./100014-launch-and-merge-hexa-puzzle.json) |
 | Launch Ball | 369744 | [369744-launch-ball.json](./369744-launch-ball.json) |
+| Launch Break | 135788 | [135788-launch-break.json](./135788-launch-break.json) |
 | Launch Dude | 339285 | [339285-launch-dude.json](./339285-launch-dude.json) |
 | Launch The Baby | 246413 | [246413-launch-the-baby.json](./246413-launch-the-baby.json) |
 | Launcher | 358923 | [358923-launcher.json](./358923-launcher.json) |
@@ -3298,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loren the Amazon Princess | 16480 | [16480-loren-the-amazon-princess.json](./16480-loren-the-amazon-princess.json) |
 | Loren the Amazon Princess: The Castle Of N'Mar | 171634 | [171634-loren-the-amazon-princess-the-castle-of-nmar.json](./171634-loren-the-amazon-princess-the-castle-of-nmar.json) |
 | Lorenzo the Runner | 274040 | [274040-lorenzo-the-runner.json](./274040-lorenzo-the-runner.json) |
+| Lorera | 135769 | [135769-lorera.json](./135769-lorera.json) |
 | Lorerim | 383387 | [383387-lorerim.json](./383387-lorerim.json) |
 | Lorethem | 201557 | [201557-lorethem.json](./201557-lorethem.json) |
 | Lorn Vale | 305172 | [305172-lorn-vale.json](./305172-lorn-vale.json) |
