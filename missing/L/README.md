@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Mushrooms: Small Mode - Mini Mushroom Mayhem | 324488 | [324488-land-of-mushrooms-small-mode-mini-mushroom-mayhem.json](./324488-land-of-mushrooms-small-mode-mini-mushroom-mayhem.json) |
 | Land of Mushrooms: Sweet Classic Mushrooms - Skin Set | 324427 | [324427-land-of-mushrooms-sweet-classic-mushrooms-skin-set.json](./324427-land-of-mushrooms-sweet-classic-mushrooms-skin-set.json) |
 | Land of Mushrooms: The Front Yard - Background | 324475 | [324475-land-of-mushrooms-the-front-yard-background.json](./324475-land-of-mushrooms-the-front-yard-background.json) |
+| Land of Ngoto | 125360 | [125360-land-of-ngoto.json](./125360-land-of-ngoto.json) |
 | Land of Nod | 208439 | [208439-land-of-nod.json](./208439-land-of-nod.json) |
 | Land of Puzzles: Elven Princess | 109767 | [109767-land-of-puzzles-elven-princess.json](./109767-land-of-puzzles-elven-princess.json) |
 | Land of Runes | 175801 | [175801-land-of-runes.json](./175801-land-of-runes.json) |
@@ -1389,6 +1390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Star Wars: The Skywalker Saga - The Mandalorian: Season 1 - Character Pack | 201137 | [201137-lego-star-wars-the-skywalker-saga-the-mandalorian-season-1-character-pack.json](./201137-lego-star-wars-the-skywalker-saga-the-mandalorian-season-1-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - The Mandalorian: Season 2 - Character Pack | 201139 | [201139-lego-star-wars-the-skywalker-saga-the-mandalorian-season-2-character-pack.json](./201139-lego-star-wars-the-skywalker-saga-the-mandalorian-season-2-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - Trooper Pack | 201140 | [201140-lego-star-wars-the-skywalker-saga-trooper-pack.json](./201140-lego-star-wars-the-skywalker-saga-trooper-pack.json) |
+| LEGO Studios Backlot | 125320 | [125320-lego-studios-backlot.json](./125320-lego-studios-backlot.json) |
 | LEGO Stunt Rally | 4112 | [4112-lego-stunt-rally.json](./4112-lego-stunt-rally.json) |
 | LEGO Super Heroes: Thor | 228414 | [228414-lego-super-heroes-thor.json](./228414-lego-super-heroes-thor.json) |
 | LEGO Super Mario Goal | 328610 | [328610-lego-super-mario-goal.json](./328610-lego-super-mario-goal.json) |
