@@ -4728,6 +4728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Omen Operation | 76237 | [76237-blue-omen-operation.json](./76237-blue-omen-operation.json) |
 | Blue Portals | 219156 | [219156-blue-portals.json](./219156-blue-portals.json) |
 | Blue Powder Grey Smoke | 362429 | [362429-blue-powder-grey-smoke.json](./362429-blue-powder-grey-smoke.json) |
+| Blue Rabbit | 149975 | [149975-blue-rabbit.json](./149975-blue-rabbit.json) |
 | Blue rabbit a world of shapes and lost colors | 195263 | [195263-blue-rabbit-a-world-of-shapes-and-lost-colors.json](./195263-blue-rabbit-a-world-of-shapes-and-lost-colors.json) |
 | Blue Reflection | 396236 | [396236-blue-reflection.json](./396236-blue-reflection.json) |
 | Blue Reflection Quartet | 396199 | [396199-blue-reflection-quartet.json](./396199-blue-reflection-quartet.json) |
