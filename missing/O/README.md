@@ -963,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oncoming Death Steam Edition | 36377 | [36377-oncoming-death-steam-edition.json](./36377-oncoming-death-steam-edition.json) |
 | OncPangTzu Man | 116341 | [116341-oncpangtzu-man.json](./116341-oncpangtzu-man.json) |
 | Ondal | 345022 | [345022-ondal.json](./345022-ondal.json) |
+| Ondeki | 148410 | [148410-ondeki.json](./148410-ondeki.json) |
 | One | 78060 | [78060-one.json](./78060-one.json) |
 | One Bear Army | 272275 | [272275-one-bear-army.json](./272275-one-bear-army.json) |
 | One Beat Min | 222827 | [222827-one-beat-min.json](./222827-one-beat-min.json) |
@@ -1061,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Gate: Companion#2 DLC | 289329 | [289329-one-more-gate-companion-2-dlc.json](./289329-one-more-gate-companion-2-dlc.json) |
 | One More Gate: Companion#3 DLC | 289330 | [289330-one-more-gate-companion-3-dlc.json](./289330-one-more-gate-companion-3-dlc.json) |
 | One More Gem | 374167 | [374167-one-more-gem.json](./374167-one-more-gem.json) |
+| One More Island | 148453 | [148453-one-more-island.json](./148453-one-more-island.json) |
 | One More Jump | 260108 | [260108-one-more-jump.json](./260108-one-more-jump.json) |
 | One More Line | 35584 | [35584-one-more-line.json](./35584-one-more-line.json) |
 | One More Night | 292296 | [292296-one-more-night.json](./292296-one-more-night.json) |
@@ -1199,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Way to Die: Steam Edition | 90613 | [90613-one-way-to-die-steam-edition.json](./90613-one-way-to-die-steam-edition.json) |
 | One Way Trip | 23280 | [23280-one-way-trip.json](./23280-one-way-trip.json) |
 | One Wee Robot | 392277 | [392277-one-wee-robot.json](./392277-one-wee-robot.json) |
+| One Week At Pan | 148416 | [148416-one-week-at-pan.json](./148416-one-week-at-pan.json) |
 | One Week By Car | 209675 | [209675-one-week-by-car.json](./209675-one-week-by-car.json) |
 | One Week With The Mafia | 273435 | [273435-one-week-with-the-mafia.json](./273435-one-week-with-the-mafia.json) |
 | One Week With You | 191128 | [191128-one-week-with-you.json](./191128-one-week-with-you.json) |
