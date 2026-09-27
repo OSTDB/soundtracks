@@ -2961,6 +2961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Not: Zunou Taikyuu Game | 222266 | [222266-not-not-zunou-taikyuu-game.json](./222266-not-not-zunou-taikyuu-game.json) |
 | Not Only Nine | 243672 | [243672-not-only-nine.json](./243672-not-only-nine.json) |
 | Not Our Home 2 | 156649 | [156649-not-our-home-2.json](./156649-not-our-home-2.json) |
+| Not Pacman | 135091 | [135091-not-pacman.json](./135091-not-pacman.json) |
 | Not Pinball | 175734 | [175734-not-pinball.json](./175734-not-pinball.json) |
 | Not Quite Dead | 414336 | [414336-not-quite-dead.json](./414336-not-quite-dead.json) |
 | Not So Middle Ages | 98775 | [98775-not-so-middle-ages.json](./98775-not-so-middle-ages.json) |
