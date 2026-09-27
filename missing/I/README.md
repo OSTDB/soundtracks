@@ -2476,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironblood | 402498 | [402498-ironblood.json](./402498-ironblood.json) |
 | IronBorn | 109585 | [109585-ironborn.json](./109585-ironborn.json) |
 | Ironborne | 391038 | [391038-ironborne.json](./391038-ironborne.json) |
+| Ironcast: The Stirling Pack | 170296 | [170296-ironcast-the-stirling-pack.json](./170296-ironcast-the-stirling-pack.json) |
 | Ironclads 2: Caroline Islands War 1885 | 51941 | [51941-ironclads-2-caroline-islands-war-1885.json](./51941-ironclads-2-caroline-islands-war-1885.json) |
 | Ironclads Anthology | 50855 | [50855-ironclads-anthology.json](./50855-ironclads-anthology.json) |
 | Irondrive | 409778 | [409778-irondrive.json](./409778-irondrive.json) |
