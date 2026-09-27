@@ -2955,6 +2955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Note of Janus | 211158 | [211158-note-of-janus.json](./211158-note-of-janus.json) |
 | Note to Self | 70376 | [70376-note-to-self.json](./70376-note-to-self.json) |
 | NoteBlaster | 260766 | [260766-noteblaster.json](./260766-noteblaster.json) |
+| Notebook Artillery | 149485 | [149485-notebook-artillery.json](./149485-notebook-artillery.json) |
 | Notebook Entries Vol.1 | 215623 | [215623-notebook-entries-vol-1.json](./215623-notebook-entries-vol-1.json) |
 | Notebook Ninja Fights | 144751 | [144751-notebook-ninja-fights.json](./144751-notebook-ninja-fights.json) |
 | Notebook Workshop | 406205 | [406205-notebook-workshop.json](./406205-notebook-workshop.json) |
