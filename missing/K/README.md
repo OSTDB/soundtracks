@@ -2297,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koushien 3 | 37952 | [37952-koushien-3.json](./37952-koushien-3.json) |
 | Koushien V | 58512 | [58512-koushien-v.json](./58512-koushien-v.json) |
 | Koushien: Konpeki no Sora | 58509 | [58509-koushien-konpeki-no-sora.json](./58509-koushien-konpeki-no-sora.json) |
+| Kousoku Kaitenzushi | 138702 | [138702-kousoku-kaitenzushi.json](./138702-kousoku-kaitenzushi.json) |
 | Kousoku Shikou Shogi-ou | 37950 | [37950-kousoku-shikou-shogi-ou.json](./37950-kousoku-shikou-shogi-ou.json) |
 | Koutarichou Jin'youtan: Mayoigo no Shou | 219166 | [219166-koutarichou-jinyoutan-mayoigo-no-shou.json](./219166-koutarichou-jinyoutan-mayoigo-no-shou.json) |
 | Koutetsu no Kishi | 37949 | [37949-koutetsu-no-kishi.json](./37949-koutetsu-no-kishi.json) |
