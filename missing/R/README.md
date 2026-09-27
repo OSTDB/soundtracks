@@ -1573,6 +1573,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Archer | 150143 | [150143-red-archer.json](./150143-red-archer.json) |
 | Red Babe | 93342 | [93342-red-babe.json](./93342-red-babe.json) |
 | Red Ball | 55917 | [55917-red-ball.json](./55917-red-ball.json) |
+| Red Ball 2 | 166520 | [166520-red-ball-2.json](./166520-red-ball-2.json) |
+| Red Ball 3 | 166522 | [166522-red-ball-3.json](./166522-red-ball-3.json) |
 | Red Ball 4 | 88924 | [88924-red-ball-4.json](./88924-red-ball-4.json) |
 | Red Ball Adventure 3D | 102778 | [102778-red-ball-adventure-3d.json](./102778-red-ball-adventure-3d.json) |
 | Red Ball Escape | 150633 | [150633-red-ball-escape.json](./150633-red-ball-escape.json) |
