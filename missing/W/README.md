@@ -3714,6 +3714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreckfest: American All-Stars Car Pack | 223692 | [223692-wreckfest-american-all-stars-car-pack.json](./223692-wreckfest-american-all-stars-car-pack.json) |
 | Wreckfest: Backwoods Bangers Car Pack | 223693 | [223693-wreckfest-backwoods-bangers-car-pack.json](./223693-wreckfest-backwoods-bangers-car-pack.json) |
 | Wreckfest: Banger Racing Car Pack | 223694 | [223694-wreckfest-banger-racing-car-pack.json](./223694-wreckfest-banger-racing-car-pack.json) |
+| Wreckfest: Complete Edition | 164788 | [164788-wreckfest-complete-edition.json](./164788-wreckfest-complete-edition.json) |
 | Wreckfest: Getaway Car Pack | 223699 | [223699-wreckfest-getaway-car-pack.json](./223699-wreckfest-getaway-car-pack.json) |
 | Wreckfest: Goofy Roofs Pack | 223695 | [223695-wreckfest-goofy-roofs-pack.json](./223695-wreckfest-goofy-roofs-pack.json) |
 | Wreckfest: Modified Monsters Car Pack | 223696 | [223696-wreckfest-modified-monsters-car-pack.json](./223696-wreckfest-modified-monsters-car-pack.json) |
