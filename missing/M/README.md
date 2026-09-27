@@ -1189,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana Valley | 211189 | [211189-mana-valley.json](./211189-mana-valley.json) |
 | Mana's Manual | 248884 | [248884-manas-manual.json](./248884-manas-manual.json) |
 | Manacle | 238453 | [238453-manacle.json](./238453-manacle.json) |
+| Manacrest Online | 133310 | [133310-manacrest-online.json](./133310-manacrest-online.json) |
 | Manafall | 244186 | [244186-manafall.json](./244186-manafall.json) |
 | Manaforge | 129730 | [129730-manaforge.json](./129730-manaforge.json) |
 | Managate | 392150 | [392150-managate.json](./392150-managate.json) |
@@ -4133,6 +4134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor | 127321 | [127321-meteor.json](./127321-meteor.json) |
 | Meteor Blaster | 97913 | [97913-meteor-blaster.json](./97913-meteor-blaster.json) |
 | Meteor Blasters | 199093 | [199093-meteor-blasters.json](./199093-meteor-blasters.json) |
+| Meteor Clash | 133325 | [133325-meteor-clash.json](./133325-meteor-clash.json) |
 | Meteor Crush VR | 31901 | [31901-meteor-crush-vr.json](./31901-meteor-crush-vr.json) |
 | Meteor Destroyer | 178963 | [178963-meteor-destroyer.json](./178963-meteor-destroyer.json) |
 | Meteor Down! | 250880 | [250880-meteor-down.json](./250880-meteor-down.json) |
@@ -4752,6 +4754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mikan Muzou | 150055 | [150055-mikan-muzou.json](./150055-mikan-muzou.json) |
 | Mikane's Hand | 406686 | [406686-mikanes-hand.json](./406686-mikanes-hand.json) |
 | Mikazuki: Hoshimeguri no Uta | 331890 | [331890-mikazuki-hoshimeguri-no-uta.json](./331890-mikazuki-hoshimeguri-no-uta.json) |
+| Mike & Tyler | 133348 | [133348-mike-and-tyler.json](./133348-mike-and-tyler.json) |
 | Mike and the Zombies | 243676 | [243676-mike-and-the-zombies.json](./243676-mike-and-the-zombies.json) |
 | Mike Builds a Shelter | 174793 | [174793-mike-builds-a-shelter.json](./174793-mike-builds-a-shelter.json) |
 | Mike Goes on Hike | 110125 | [110125-mike-goes-on-hike.json](./110125-mike-goes-on-hike.json) |
@@ -7086,6 +7089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 11: Double Feature Skin Pack | 305856 | [305856-mortal-kombat-11-double-feature-skin-pack.json](./305856-mortal-kombat-11-double-feature-skin-pack.json) |
 | Mortal Kombat 11: Fujin | 139439 | [139439-mortal-kombat-11-fujin.json](./139439-mortal-kombat-11-fujin.json) |
 | Mortal Kombat 11: Kollector's Edition | 136267 | [136267-mortal-kombat-11-kollectors-edition.json](./136267-mortal-kombat-11-kollectors-edition.json) |
+| Mortal Kombat 11: Kombat Pack | 133278 | [133278-mortal-kombat-11-kombat-pack.json](./133278-mortal-kombat-11-kombat-pack.json) |
 | Mortal Kombat 11: Kombat Pack 2 | 139445 | [139445-mortal-kombat-11-kombat-pack-2.json](./139445-mortal-kombat-11-kombat-pack-2.json) |
 | Mortal Kombat 11: Mileena | 139442 | [139442-mortal-kombat-11-mileena.json](./139442-mortal-kombat-11-mileena.json) |
 | Mortal Kombat 11: Rain | 139443 | [139443-mortal-kombat-11-rain.json](./139443-mortal-kombat-11-rain.json) |
@@ -8616,6 +8620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sexy Fairies | 415161 | [415161-my-sexy-fairies.json](./415161-my-sexy-fairies.json) |
 | My Sexy Neighbor | 291061 | [291061-my-sexy-neighbor.json](./291061-my-sexy-neighbor.json) |
 | My Sexy Waitress | 155548 | [155548-my-sexy-waitress.json](./155548-my-sexy-waitress.json) |
+| My Shadow | 133337 | [133337-my-shadow.json](./133337-my-shadow.json) |
 | My Shadow | 289432 | [289432-my-shadow.json](./289432-my-shadow.json) |
 | My Shelf | 87882 | [87882-my-shelf.json](./87882-my-shelf.json) |
 | My Shelter | 348449 | [348449-my-shelter.json](./348449-my-shelter.json) |
