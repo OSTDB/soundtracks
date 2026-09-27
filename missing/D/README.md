@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Rose Valkyrie: Limited Edition | 167148 | [167148-dark-rose-valkyrie-limited-edition.json](./167148-dark-rose-valkyrie-limited-edition.json) |
 | Dark Rose Valkyrie: Limited Edition Famitsu DX Pack | 167147 | [167147-dark-rose-valkyrie-limited-edition-famitsu-dx-pack.json](./167147-dark-rose-valkyrie-limited-edition-famitsu-dx-pack.json) |
 | Dark Rune | 239755 | [239755-dark-rune.json](./239755-dark-rune.json) |
+| Dark Runner | 153346 | [153346-dark-runner.json](./153346-dark-runner.json) |
 | Dark Sanctum | 290909 | [290909-dark-sanctum.json](./290909-dark-sanctum.json) |
 | Dark Sauce | 113693 | [113693-dark-sauce.json](./113693-dark-sauce.json) |
 | Dark Sceptre | 12990 | [12990-dark-sceptre.json](./12990-dark-sceptre.json) |
@@ -6620,6 +6621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Max Pro | 99408 | [99408-drift-max-pro.json](./99408-drift-max-pro.json) |
 | Drift Out | 39674 | [39674-drift-out.json](./39674-drift-out.json) |
 | Drift Out '94 - The Hard Order | 39826 | [39826-drift-out-94-the-hard-order.json](./39826-drift-out-94-the-hard-order.json) |
+| Drift Phonk 666 | 153325 | [153325-drift-phonk-666.json](./153325-drift-phonk-666.json) |
 | Drift Reign | 245834 | [245834-drift-reign.json](./245834-drift-reign.json) |
 | Drift Ride | 196557 | [196557-drift-ride.json](./196557-drift-ride.json) |
 | Drift Runners | 287157 | [287157-drift-runners.json](./287157-drift-runners.json) |
