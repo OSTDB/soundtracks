@@ -331,6 +331,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Praise: The Original | 209001 | [209001-dance-praise-the-original.json](./209001-dance-praise-the-original.json) |
 | Dance School Stories | 89824 | [89824-dance-school-stories.json](./89824-dance-school-stories.json) |
 | Dance to the Finish | 178595 | [178595-dance-to-the-finish.json](./178595-dance-to-the-finish.json) |
+| Dance with Devils | 132088 | [132088-dance-with-devils.json](./132088-dance-with-devils.json) |
+| Dance with Devils My Carol | 132089 | [132089-dance-with-devils-my-carol.json](./132089-dance-with-devils-my-carol.json) |
 | Dance with the Devil | 181766 | [181766-dance-with-the-devil.json](./181766-dance-with-the-devil.json) |
 | Dance With Zombies | 127319 | [127319-dance-with-zombies.json](./127319-dance-with-zombies.json) |
 | Dance: UK | 95455 | [95455-dance-uk.json](./95455-dance-uk.json) |
@@ -3164,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex: Mankind Divided - Digital Deluxe Edition | 164802 | [164802-deus-ex-mankind-divided-digital-deluxe-edition.json](./164802-deus-ex-mankind-divided-digital-deluxe-edition.json) |
 | Deus Ex: Mankind Divided - Tactical Pack | 374696 | [374696-deus-ex-mankind-divided-tactical-pack.json](./374696-deus-ex-mankind-divided-tactical-pack.json) |
 | Deus Ex: Revision | 23974 | [23974-deus-ex-revision.json](./23974-deus-ex-revision.json) |
+| Deus Ex: Special Limited Edition | 132079 | [132079-deus-ex-special-limited-edition.json](./132079-deus-ex-special-limited-edition.json) |
 | Deus Ex: The Conspiracy | 347125 | [347125-deus-ex-the-conspiracy.json](./347125-deus-ex-the-conspiracy.json) |
 | Deus Ex: Transcended | 276277 | [276277-deus-ex-transcended.json](./276277-deus-ex-transcended.json) |
 | Deus Ex: Zodiac | 230249 | [230249-deus-ex-zodiac.json](./230249-deus-ex-zodiac.json) |
@@ -4090,6 +4093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discworld | 8291 | [8291-discworld.json](./8291-discworld.json) |
 | Discworld II: Mortality Bytes! | 8292 | [8292-discworld-ii-mortality-bytes.json](./8292-discworld-ii-mortality-bytes.json) |
 | Discworld Noir | 8293 | [8293-discworld-noir.json](./8293-discworld-noir.json) |
+| Discworld: Limited Edition | 132078 | [132078-discworld-limited-edition.json](./132078-discworld-limited-edition.json) |
 | Disdain | 215077 | [215077-disdain.json](./215077-disdain.json) |
 | Disdoored | 102093 | [102093-disdoored.json](./102093-disdoored.json) |
 | Disease Infected: Plague | 187976 | [187976-disease-infected-plague.json](./187976-disease-infected-plague.json) |
@@ -4439,6 +4443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divinity Hunting | 269033 | [269033-divinity-hunting.json](./269033-divinity-hunting.json) |
 | Divinity Vassals | 389709 | [389709-divinity-vassals.json](./389709-divinity-vassals.json) |
 | Divinity: Original Sin - The Source Saga | 133908 | [133908-divinity-original-sin-the-source-saga.json](./133908-divinity-original-sin-the-source-saga.json) |
+| Divinoids | 132077 | [132077-divinoids.json](./132077-divinoids.json) |
 | Divinus Vanitas | 215921 | [215921-divinus-vanitas.json](./215921-divinus-vanitas.json) |
 | Dìwáng Chāiqiān Bàn | 367485 | [367485-diwang-chaiqian-ban.json](./367485-diwang-chaiqian-ban.json) |
 | DIY Fashion Star - Design Hacks Clothing Game | 104486 | [104486-diy-fashion-star-design-hacks-clothing-game.json](./104486-diy-fashion-star-design-hacks-clothing-game.json) |
