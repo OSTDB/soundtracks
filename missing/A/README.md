@@ -1837,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airlift | 15591 | [15591-airlift.json](./15591-airlift.json) |
 | Airline | 15592 | [15592-airline.json](./15592-airline.json) |
 | Airline | 319565 | [319565-airline.json](./319565-airline.json) |
+| Airline 69 II: Krasser's Revenge | 134571 | [134571-airline-69-ii-krassers-revenge.json](./134571-airline-69-ii-krassers-revenge.json) |
 | Airline Commander | 106592 | [106592-airline-commander.json](./106592-airline-commander.json) |
 | Airline Commander: A Real Flight Experience | 106598 | [106598-airline-commander-a-real-flight-experience.json](./106598-airline-commander-a-real-flight-experience.json) |
 | Airline Empire: Stewardess Simulator | 370786 | [370786-airline-empire-stewardess-simulator.json](./370786-airline-empire-stewardess-simulator.json) |
@@ -2440,11 +2441,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Tower | 259543 | [259543-alien-tower.json](./259543-alien-tower.json) |
 | Alien Town Invasion | 223398 | [223398-alien-town-invasion.json](./223398-alien-town-invasion.json) |
 | Alien Tribe 2 | 97309 | [97309-alien-tribe-2.json](./97309-alien-tribe-2.json) |
+| Alien Vendetta | 134559 | [134559-alien-vendetta.json](./134559-alien-vendetta.json) |
 | Alien Virus | 147371 | [147371-alien-virus.json](./147371-alien-virus.json) |
 | Alien War Girl | 111072 | [111072-alien-war-girl.json](./111072-alien-war-girl.json) |
 | Alien Weapon Test Grounds | 310209 | [310209-alien-weapon-test-grounds.json](./310209-alien-weapon-test-grounds.json) |
 | Alien Worlds | 93075 | [93075-alien-worlds.json](./93075-alien-worlds.json) |
 | Alien Worms Invasion | 89657 | [89657-alien-worms-invasion.json](./89657-alien-worms-invasion.json) |
+| Alien X | 134562 | [134562-alien-x.json](./134562-alien-x.json) |
 | Alien X | 171579 | [171579-alien-x.json](./171579-alien-x.json) |
 | Alien Xenoblaster | 209133 | [209133-alien-xenoblaster.json](./209133-alien-xenoblaster.json) |
 | Alien: Isolation - Corporate Lockdown | 15459 | [15459-alien-isolation-corporate-lockdown.json](./15459-alien-isolation-corporate-lockdown.json) |
@@ -2855,6 +2858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alter A.I.L.A. Genesis | 308425 | [308425-alter-a-i-l-a-genesis.json](./308425-alter-a-i-l-a-genesis.json) |
 | Alter Age | 310513 | [310513-alter-age.json](./310513-alter-age.json) |
 | Alter Cosmos | 103539 | [103539-alter-cosmos.json](./103539-alter-cosmos.json) |
+| Alter Ego | 134505 | [134505-alter-ego.json](./134505-alter-ego.json) |
 | Alter Ego | 270396 | [270396-alter-ego.json](./270396-alter-ego.json) |
 | Alter Ego | 305386 | [305386-alter-ego.json](./305386-alter-ego.json) |
 | Alter Ego Complex | 174307 | [174307-alter-ego-complex.json](./174307-alter-ego-complex.json) |
@@ -5142,6 +5146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | aReaker Water | 74068 | [74068-areaker-water.json](./74068-areaker-water.json) |
 | Areas | 269056 | [269056-areas.json](./269056-areas.json) |
 | Areena 4 | 317423 | [317423-areena-4.json](./317423-areena-4.json) |
+| Areena 5 | 134570 | [134570-areena-5.json](./134570-areena-5.json) |
 | Arelite Core: Horse Armor | 156140 | [156140-arelite-core-horse-armor.json](./156140-arelite-core-horse-armor.json) |
 | Arena | 14599 | [14599-arena.json](./14599-arena.json) |
 | Arena | 266878 | [266878-arena.json](./266878-arena.json) |
@@ -5200,6 +5205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arex | 55886 | [55886-arex.json](./55886-arex.json) |
 | Argentum Online | 176876 | [176876-argentum-online.json](./176876-argentum-online.json) |
 | Argentum Online | 93135 | [93135-argentum-online.json](./93135-argentum-online.json) |
+| Argh-P-G | 134515 | [134515-argh-p-g.json](./134515-argh-p-g.json) |
 | Argh! | 235835 | [235835-argh.json](./235835-argh.json) |
 | Argh! Earthlings! | 175435 | [175435-argh-earthlings.json](./175435-argh-earthlings.json) |
 | Arghh, There's a Killer Chasing Me! | 188114 | [188114-arghh-theres-a-killer-chasing-me.json](./188114-arghh-theres-a-killer-chasing-me.json) |
@@ -5823,6 +5829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asian Dynamite | 39645 | [39645-asian-dynamite.json](./39645-asian-dynamite.json) |
 | Asian Mahjong | 164270 | [164270-asian-mahjong.json](./164270-asian-mahjong.json) |
 | Asian Truck Simulator | 214165 | [214165-asian-truck-simulator.json](./214165-asian-truck-simulator.json) |
+| Asicaso | 134558 | [134558-asicaso.json](./134558-asicaso.json) |
 | Ask Gear Re:Boost | 325447 | [325447-ask-gear-re-boost.json](./325447-ask-gear-re-boost.json) |
 | Ask her out | 287096 | [287096-ask-her-out.json](./287096-ask-her-out.json) |
 | Ask Her Out | 181881 | [181881-ask-her-out.json](./181881-ask-her-out.json) |
