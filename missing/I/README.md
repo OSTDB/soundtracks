@@ -1826,6 +1826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink. | 169442 | [169442-ink.json](./169442-ink.json) |
 | Inka Aventura: Saga de Pachakutiq | 285558 | [285558-inka-aventura-saga-de-pachakutiq.json](./285558-inka-aventura-saga-de-pachakutiq.json) |
 | Inkafe | 372116 | [372116-inkafe.json](./372116-inkafe.json) |
+| Inkanians | 134520 | [134520-inkanians.json](./134520-inkanians.json) |
 | Inkay's Topsy-Turvey World | 57382 | [57382-inkays-topsy-turvey-world.json](./57382-inkays-topsy-turvey-world.json) |
 | Inkblood | 380440 | [380440-inkblood.json](./380440-inkblood.json) |
 | Inken | 394555 | [394555-inken.json](./394555-inken.json) |
