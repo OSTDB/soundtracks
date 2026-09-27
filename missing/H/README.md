@@ -5009,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huntin' Adventure | 210054 | [210054-huntin-adventure.json](./210054-huntin-adventure.json) |
 | Hunting Arcade | 210055 | [210055-hunting-arcade.json](./210055-hunting-arcade.json) |
 | Hunting fields of Jackals | 114966 | [114966-hunting-fields-of-jackals.json](./114966-hunting-fields-of-jackals.json) |
+| Hunting Moon | 168150 | [168150-hunting-moon.json](./168150-hunting-moon.json) |
 | Hunting Moon vol.2 | 165022 | [165022-hunting-moon-vol-2.json](./165022-hunting-moon-vol-2.json) |
 | Hunting Pro Simulator | 407553 | [407553-hunting-pro-simulator.json](./407553-hunting-pro-simulator.json) |
 | Hunting Seas | 312169 | [312169-hunting-seas.json](./312169-hunting-seas.json) |
