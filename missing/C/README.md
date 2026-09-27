@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cal | 123082 | [123082-cal.json](./123082-cal.json) |
 | Cal II | 77989 | [77989-cal-ii.json](./77989-cal-ii.json) |
 | Cal Ripken Jr. Baseball | 46230 | [46230-cal-ripken-jr-baseball.json](./46230-cal-ripken-jr-baseball.json) |
+| Calamari Clash | 127844 | [127844-calamari-clash.json](./127844-calamari-clash.json) |
 | Calamity | 364103 | [364103-calamity.json](./364103-calamity.json) |
 | Calamity Angels: Special Delivery - Digital Deluxe Edition | 391861 | [391861-calamity-angels-special-delivery-digital-deluxe-edition.json](./391861-calamity-angels-special-delivery-digital-deluxe-edition.json) |
 | Calamity Annie | 72689 | [72689-calamity-annie.json](./72689-calamity-annie.json) |
@@ -1914,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave of the Skinwalker | 358856 | [358856-cave-of-the-skinwalker.json](./358856-cave-of-the-skinwalker.json) |
 | Cave of the Word Wizard | 144879 | [144879-cave-of-the-word-wizard.json](./144879-cave-of-the-word-wizard.json) |
 | Cave of Treats | 408803 | [408803-cave-of-treats.json](./408803-cave-of-treats.json) |
+| Cave Quest | 127874 | [127874-cave-quest.json](./127874-cave-quest.json) |
 | Cave Quest 2 | 157484 | [157484-cave-quest-2.json](./157484-cave-quest-2.json) |
 | Cave Quest 3 | 217275 | [217275-cave-quest-3.json](./217275-cave-quest-3.json) |
 | Cave Ranger | 239619 | [239619-cave-ranger.json](./239619-cave-ranger.json) |
@@ -4337,6 +4339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudbuilt: Defiance | 171497 | [171497-cloudbuilt-defiance.json](./171497-cloudbuilt-defiance.json) |
 | CloudCity VR | 50518 | [50518-cloudcity-vr.json](./50518-cloudcity-vr.json) |
 | Cloudheim | 330328 | [330328-cloudheim.json](./330328-cloudheim.json) |
+| Cloudlands 2 | 127857 | [127857-cloudlands-2.json](./127857-cloudlands-2.json) |
 | Cloudlings | 404925 | [404925-cloudlings.json](./404925-cloudlings.json) |
 | CloudNovel Breakdown!! | 397227 | [397227-cloudnovel-breakdown.json](./397227-cloudnovel-breakdown.json) |
 | Cloudpaws | 403694 | [403694-cloudpaws.json](./403694-cloudpaws.json) |
@@ -6203,6 +6206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmophage | 148552 | [148552-cosmophage.json](./148552-cosmophage.json) |
 | CosmoPirates | 258553 | [258553-cosmopirates.json](./258553-cosmopirates.json) |
 | Cosmorbit | 384537 | [384537-cosmorbit.json](./384537-cosmorbit.json) |
+| Cosmos | 127861 | [127861-cosmos.json](./127861-cosmos.json) |
 | Cosmos | 76611 | [76611-cosmos.json](./76611-cosmos.json) |
 | Cosmos Bit | 182231 | [182231-cosmos-bit.json](./182231-cosmos-bit.json) |
 | Cosmos Club | 270747 | [270747-cosmos-club.json](./270747-cosmos-club.json) |
@@ -7170,6 +7174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis Point: Extinction | 140581 | [140581-crisis-point-extinction.json](./140581-crisis-point-extinction.json) |
 | Crisis Survivor | 244222 | [244222-crisis-survivor.json](./244222-crisis-survivor.json) |
 | Crisis Theory | 144243 | [144243-crisis-theory.json](./144243-crisis-theory.json) |
+| Crisis VRigade 2 | 127862 | [127862-crisis-vrigade-2.json](./127862-crisis-vrigade-2.json) |
 | Crisis: The Third Way | 382220 | [382220-crisis-the-third-way.json](./382220-crisis-the-third-way.json) |
 | Crisis/Divider | 305153 | [305153-crisis-divider.json](./305153-crisis-divider.json) |
 | Crisp's Charging Challenge | 214051 | [214051-crisps-charging-challenge.json](./214051-crisps-charging-challenge.json) |
@@ -7564,6 +7569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crux: The Great Outdoors | 200161 | [200161-crux-the-great-outdoors.json](./200161-crux-the-great-outdoors.json) |
 | Cruxade | 212246 | [212246-cruxade.json](./212246-cruxade.json) |
 | Cruzcredo: Become a Legend! | 332272 | [332272-cruzcredo-become-a-legend.json](./332272-cruzcredo-become-a-legend.json) |
+| CRW : Metal Jacket | 127833 | [127833-crw-metal-jacket.json](./127833-crw-metal-jacket.json) |
 | CRW: Counter Revolution War | 61554 | [61554-crw-counter-revolution-war.json](./61554-crw-counter-revolution-war.json) |
 | Cry of Athena | 158506 | [158506-cry-of-athena.json](./158506-cry-of-athena.json) |
 | Cry of Fear | 3084 | [3084-cry-of-fear.json](./3084-cry-of-fear.json) |
