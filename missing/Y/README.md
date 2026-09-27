@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yamasa Digi World 4 | 61323 | [61323-yamasa-digi-world-4.json](./61323-yamasa-digi-world-4.json) |
 | Yamasa Digi World SP | 61324 | [61324-yamasa-digi-world-sp.json](./61324-yamasa-digi-world-sp.json) |
 | Yamasa Digi World: Tetra Master | 61326 | [61326-yamasa-digi-world-tetra-master.json](./61326-yamasa-digi-world-tetra-master.json) |
+| Yamasen-Chan's Hermit Home Designer | 142336 | [142336-yamasen-chans-hermit-home-designer.json](./142336-yamasen-chans-hermit-home-designer.json) |
 | Yami Fuku Natsu: Teito Monogatari Futatabi | 147956 | [147956-yami-fuku-natsu-teito-monogatari-futatabi.json](./147956-yami-fuku-natsu-teito-monogatari-futatabi.json) |
 | Yami Mura | 392945 | [392945-yami-mura.json](./392945-yami-mura.json) |
 | Yami no Ketsuzoku: Kanketsu-hen | 386392 | [386392-yami-no-ketsuzoku-kanketsu-hen.json](./386392-yami-no-ketsuzoku-kanketsu-hen.json) |
@@ -132,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yashi - Sand Driver | 411675 | [411675-yashi-sand-driver.json](./411675-yashi-sand-driver.json) |
 | Yasogaya Murder Cases | 238597 | [238597-yasogaya-murder-cases.json](./238597-yasogaya-murder-cases.json) |
 | Yasuda Fire & Marine: Safety Rally | 48863 | [48863-yasuda-fire-and-marine-safety-rally.json](./48863-yasuda-fire-and-marine-safety-rally.json) |
+| Yasuhati | 142349 | [142349-yasuhati.json](./142349-yasuhati.json) |
 | Yasuke Simulator | 333626 | [333626-yasuke-simulator.json](./333626-yasuke-simulator.json) |
 | Yasuke: A Lost Descendant | 222915 | [222915-yasuke-a-lost-descendant.json](./222915-yasuke-a-lost-descendant.json) |
 | Yasumeru | 202344 | [202344-yasumeru.json](./202344-yasumeru.json) |
