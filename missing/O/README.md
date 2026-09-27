@@ -2296,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OutRage: Fight Fest | 262662 | [262662-outrage-fight-fest.json](./262662-outrage-fight-fest.json) |
 | Outranked | 220617 | [220617-outranked.json](./220617-outranked.json) |
 | Outriders: Complete Edition | 286513 | [286513-outriders-complete-edition.json](./286513-outriders-complete-edition.json) |
+| Outriders: Day One Edition | 139917 | [139917-outriders-day-one-edition.json](./139917-outriders-day-one-edition.json) |
 | Outright | 149086 | [149086-outright.json](./149086-outright.json) |
 | OutRoad Fury | 304663 | [304663-outroad-fury.json](./304663-outroad-fury.json) |
 | Outrun | 325048 | [325048-outrun.json](./325048-outrun.json) |
@@ -2450,6 +2451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overpowered 2: Crux of Fate | 393627 | [393627-overpowered-2-crux-of-fate.json](./393627-overpowered-2-crux-of-fate.json) |
 | OverRapid | 75133 | [75133-overrapid.json](./75133-overrapid.json) |
 | Override 2: Super Mech League | 137296 | [137296-override-2-super-mech-league.json](./137296-override-2-super-mech-league.json) |
+| Override 2: Super Mech League - Ultraman Deluxe Edition | 139888 | [139888-override-2-super-mech-league-ultraman-deluxe-edition.json](./139888-override-2-super-mech-league-ultraman-deluxe-edition.json) |
 | Override: Mech City Brawl | 105028 | [105028-override-mech-city-brawl.json](./105028-override-mech-city-brawl.json) |
 | Override: Mech City Brawl - Super Charged Mega Edition | 118568 | [118568-override-mech-city-brawl-super-charged-mega-edition.json](./118568-override-mech-city-brawl-super-charged-mega-edition.json) |
 | Overrider | 236375 | [236375-overrider.json](./236375-overrider.json) |
