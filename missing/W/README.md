@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Survivors | 338553 | [338553-waifu-survivors.json](./338553-waifu-survivors.json) |
 | Waifu Uncovered | 375431 | [375431-waifu-uncovered.json](./375431-waifu-uncovered.json) |
 | Waifu vs. Evil | 154372 | [154372-waifu-vs-evil.json](./154372-waifu-vs-evil.json) |
+| Waifu Wars Online | 119642 | [119642-waifu-wars-online.json](./119642-waifu-wars-online.json) |
 | Waifu Wars Splash | 183560 | [183560-waifu-wars-splash.json](./183560-waifu-wars-splash.json) |
 | Waifu's Spooky Space Station | 143651 | [143651-waifus-spooky-space-station.json](./143651-waifus-spooky-space-station.json) |
 | Waifusitter | 338554 | [338554-waifusitter.json](./338554-waifusitter.json) |
@@ -1979,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Witch | 346108 | [346108-white-witch.json](./346108-white-witch.json) |
 | White Wolf: Treasure Hunter | 243612 | [243612-white-wolf-treasure-hunter.json](./243612-white-wolf-treasure-hunter.json) |
 | White Wolf: Treasure Hunter 2 | 273382 | [273382-white-wolf-treasure-hunter-2.json](./273382-white-wolf-treasure-hunter-2.json) |
+| WhiteBird | 119670 | [119670-whitebird.json](./119670-whitebird.json) |
 | WhiteJill | 355572 | [355572-whitejill.json](./355572-whitejill.json) |
 | Whitematter | 365895 | [365895-whitematter.json](./365895-whitematter.json) |
 | Whiteout | 181385 | [181385-whiteout.json](./181385-whiteout.json) |
