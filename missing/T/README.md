@@ -5683,6 +5683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maker Way | 392267 | [392267-the-maker-way.json](./392267-the-maker-way.json) |
 | The Making of a Prophet | 214524 | [214524-the-making-of-a-prophet.json](./214524-the-making-of-a-prophet.json) |
 | The Making of Karateka | 256293 | [256293-the-making-of-karateka.json](./256293-the-making-of-karateka.json) |
+| The Makings of a Lady: Purity Yours to Defile | 147891 | [147891-the-makings-of-a-lady-purity-yours-to-defile.json](./147891-the-makings-of-a-lady-purity-yours-to-defile.json) |
 | The Mall Explodes! | 412999 | [412999-the-mall-explodes.json](./412999-the-mall-explodes.json) |
 | The Mammoth: A Cave Painting | 75768 | [75768-the-mammoth-a-cave-painting.json](./75768-the-mammoth-a-cave-painting.json) |
 | The Man Called Merc | 55045 | [55045-the-man-called-merc.json](./55045-the-man-called-merc.json) |
@@ -13309,6 +13310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Life: Gansu | 170814 | [170814-truck-life-gansu.json](./170814-truck-life-gansu.json) |
 | Truck Life: Hainan | 170815 | [170815-truck-life-hainan.json](./170815-truck-life-hainan.json) |
 | Truck Life: TaiWan | 170816 | [170816-truck-life-taiwan.json](./170816-truck-life-taiwan.json) |
+| Truck Mechanic Simulator | 147848 | [147848-truck-mechanic-simulator.json](./147848-truck-mechanic-simulator.json) |
 | Truck Mechanic Simulator 2015 | 36188 | [36188-truck-mechanic-simulator-2015.json](./36188-truck-mechanic-simulator-2015.json) |
 | Truck Mechanic: Dangerous Paths | 134668 | [134668-truck-mechanic-dangerous-paths.json](./134668-truck-mechanic-dangerous-paths.json) |
 | Truck Mondai | 244351 | [244351-truck-mondai.json](./244351-truck-mondai.json) |
@@ -14058,6 +14060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twordle | 200060 | [200060-twordle.json](./200060-twordle.json) |
 | Twosheep.io | 274721 | [274721-twosheep-io.json](./274721-twosheep-io.json) |
 | TXXX | 232706 | [232706-txxx.json](./232706-txxx.json) |
+| TY the Tasmanian Tiger 2: Bush Rescue HD | 147845 | [147845-ty-the-tasmanian-tiger-2-bush-rescue-hd.json](./147845-ty-the-tasmanian-tiger-2-bush-rescue-hd.json) |
 | Ty the Tasmanian Tiger 4: Gunyip! | 307671 | [307671-ty-the-tasmanian-tiger-4-gunyip.json](./307671-ty-the-tasmanian-tiger-4-gunyip.json) |
 | Tyalband | 276310 | [276310-tyalband.json](./276310-tyalband.json) |
 | Tybot Invasion: The Typing Runner | 151568 | [151568-tybot-invasion-the-typing-runner.json](./151568-tybot-invasion-the-typing-runner.json) |
