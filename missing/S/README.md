@@ -2071,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek & Dread Online | 292853 | [292853-seek-and-dread-online.json](./292853-seek-and-dread-online.json) |
 | Seek & Snipe | 267106 | [267106-seek-and-snipe.json](./267106-seek-and-snipe.json) |
 | Seek Girl | 114277 | [114277-seek-girl.json](./114277-seek-girl.json) |
+| Seek Girl 2 | 130249 | [130249-seek-girl-2.json](./130249-seek-girl-2.json) |
 | Seek Girl V | 171393 | [171393-seek-girl-v.json](./171393-seek-girl-v.json) |
 | Seek Girl Ⅵ | 171394 | [171394-seek-girl-vi.json](./171394-seek-girl-vi.json) |
 | Seek Girl VII | 171392 | [171392-seek-girl-vii.json](./171392-seek-girl-vii.json) |
@@ -3257,6 +3258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharpe Investigations: Death on the Seine | 10822 | [10822-sharpe-investigations-death-on-the-seine.json](./10822-sharpe-investigations-death-on-the-seine.json) |
 | Sharper Minds: Brain Games | 255724 | [255724-sharper-minds-brain-games.json](./255724-sharper-minds-brain-games.json) |
 | Sharpshoot | 292154 | [292154-sharpshoot.json](./292154-sharpshoot.json) |
+| Sharpshooter Plus | 130285 | [130285-sharpshooter-plus.json](./130285-sharpshooter-plus.json) |
 | SharpShooter3D | 103189 | [103189-sharpshooter3d.json](./103189-sharpshooter3d.json) |
 | SharpShooter3D | 336568 | [336568-sharpshooter3d.json](./336568-sharpshooter3d.json) |
 | Shashingo: Learn Japanese with Photography - Additional Camera Filters | 298044 | [298044-shashingo-learn-japanese-with-photography-additional-camera-filters.json](./298044-shashingo-learn-japanese-with-photography-additional-camera-filters.json) |
@@ -5136,6 +5138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Hunt | 40796 | [40796-ski-hunt.json](./40796-ski-hunt.json) |
 | Ski Jump International v2 | 342080 | [342080-ski-jump-international-v2.json](./342080-ski-jump-international-v2.json) |
 | Ski Jump International v3 | 186727 | [186727-ski-jump-international-v3.json](./186727-ski-jump-international-v3.json) |
+| Ski Jumping Pro VR | 130291 | [130291-ski-jumping-pro-vr.json](./130291-ski-jumping-pro-vr.json) |
 | Ski Jumping PVP | 259082 | [259082-ski-jumping-pvp.json](./259082-ski-jumping-pvp.json) |
 | Ski Race | 64365 | [64365-ski-race.json](./64365-ski-race.json) |
 | Ski Racing 2005 | 54362 | [54362-ski-racing-2005.json](./54362-ski-racing-2005.json) |
@@ -6598,6 +6601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner: Mack Dual Pack | 397797 | [397797-snowrunner-mack-dual-pack.json](./397797-snowrunner-mack-dual-pack.json) |
 | SnowRunner: Mercedes-Benz Trucks Dual Pack 1 | 397801 | [397801-snowrunner-mercedes-benz-trucks-dual-pack-1.json](./397801-snowrunner-mercedes-benz-trucks-dual-pack-1.json) |
 | SnowRunner: Pathfinders Vinyl Wrap Pack | 397799 | [397799-snowrunner-pathfinders-vinyl-wrap-pack.json](./397799-snowrunner-pathfinders-vinyl-wrap-pack.json) |
+| SnowRunner: Premium Edition | 130266 | [130266-snowrunner-premium-edition.json](./130266-snowrunner-premium-edition.json) |
 | SnowRunner: Rezvani Hercules | 221694 | [221694-snowrunner-rezvani-hercules.json](./221694-snowrunner-rezvani-hercules.json) |
 | SnowRunner: Rezvani Tank | 361882 | [361882-snowrunner-rezvani-tank.json](./361882-snowrunner-rezvani-tank.json) |
 | SnowRunner: Save the Day Vinyl Wrap Pack | 230830 | [230830-snowrunner-save-the-day-vinyl-wrap-pack.json](./230830-snowrunner-save-the-day-vinyl-wrap-pack.json) |
@@ -8448,6 +8452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rangers: Quest | 25617 | [25617-space-rangers-quest.json](./25617-space-rangers-quest.json) |
 | Space raven quest - Tiny planet | 120965 | [120965-space-raven-quest-tiny-planet.json](./120965-space-raven-quest-tiny-planet.json) |
 | Space Rebellion | 66930 | [66930-space-rebellion.json](./66930-space-rebellion.json) |
+| Space Redemption | 130254 | [130254-space-redemption.json](./130254-space-redemption.json) |
 | Space Reign | 173047 | [173047-space-reign.json](./173047-space-reign.json) |
 | Space Rescue: Code Pink | 169417 | [169417-space-rescue-code-pink.json](./169417-space-rescue-code-pink.json) |
 | Space Restaurant | 337722 | [337722-space-restaurant.json](./337722-space-restaurant.json) |
@@ -11541,6 +11546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormovik: Soviet Attack Fighter SU-25 | 79594 | [79594-stormovik-soviet-attack-fighter-su-25.json](./79594-stormovik-soviet-attack-fighter-su-25.json) |
 | StormRend | 184563 | [184563-stormrend.json](./184563-stormrend.json) |
 | Stormrise | 7197 | [7197-stormrise.json](./7197-stormrise.json) |
+| Storms | 130259 | [130259-storms.json](./130259-storms.json) |
 | Storms of Shambhala | 72363 | [72363-storms-of-shambhala.json](./72363-storms-of-shambhala.json) |
 | Stormtrooper | 15379 | [15379-stormtrooper.json](./15379-stormtrooper.json) |
 | Stormwinds | 210284 | [210284-stormwinds.json](./210284-stormwinds.json) |
@@ -12229,6 +12235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submachine: Future Loop Foundation | 19296 | [19296-submachine-future-loop-foundation.json](./19296-submachine-future-loop-foundation.json) |
 | Submarine | 346083 | [346083-submarine.json](./346083-submarine.json) |
 | Submarine Adventure | 133233 | [133233-submarine-adventure.json](./133233-submarine-adventure.json) |
+| Submarine Commander | 130269 | [130269-submarine-commander.json](./130269-submarine-commander.json) |
 | Submarine Dash | 56762 | [56762-submarine-dash.json](./56762-submarine-dash.json) |
 | Submarine Fury | 73802 | [73802-submarine-fury.json](./73802-submarine-fury.json) |
 | Submarine Samurai | 183556 | [183556-submarine-samurai.json](./183556-submarine-samurai.json) |
@@ -12666,6 +12673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoner's Sky | 295562 | [295562-summoners-sky.json](./295562-summoners-sky.json) |
 | Summoners Era: Arena of Heroes | 193888 | [193888-summoners-era-arena-of-heroes.json](./193888-summoners-era-arena-of-heroes.json) |
 | Summoners Glory | 141128 | [141128-summoners-glory.json](./141128-summoners-glory.json) |
+| Summoners Mist | 130246 | [130246-summoners-mist.json](./130246-summoners-mist.json) |
 | Summoners War: Chronicles - Adventure Starter Package | 274988 | [274988-summoners-war-chronicles-adventure-starter-package.json](./274988-summoners-war-chronicles-adventure-starter-package.json) |
 | Summoners War: Chronicles - Adventure Support Package | 274987 | [274987-summoners-war-chronicles-adventure-support-package.json](./274987-summoners-war-chronicles-adventure-support-package.json) |
 | Summoners War: Lost Centuria | 115479 | [115479-summoners-war-lost-centuria.json](./115479-summoners-war-lost-centuria.json) |
