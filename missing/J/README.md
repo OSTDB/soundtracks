@@ -1514,6 +1514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World Evolution 3: Deluxe Edition | 406704 | [406704-jurassic-world-evolution-3-deluxe-edition.json](./406704-jurassic-world-evolution-3-deluxe-edition.json) |
 | Jurassic World Evolution: Return to Jurassic Park | 140515 | [140515-jurassic-world-evolution-return-to-jurassic-park.json](./140515-jurassic-world-evolution-return-to-jurassic-park.json) |
 | Jurassic World VRSE | 315071 | [315071-jurassic-world-vrse.json](./315071-jurassic-world-vrse.json) |
+| Jurassic World: Aftermath - Part 2 | 165398 | [165398-jurassic-world-aftermath-part-2.json](./165398-jurassic-world-aftermath-part-2.json) |
 | Jurassic World: Camp Cretaceous - Escape the Enclosure | 148378 | [148378-jurassic-world-camp-cretaceous-escape-the-enclosure.json](./148378-jurassic-world-camp-cretaceous-escape-the-enclosure.json) |
 | Jurassic World: Camp Cretaceous - Gyrosphere Minigame | 148379 | [148379-jurassic-world-camp-cretaceous-gyrosphere-minigame.json](./148379-jurassic-world-camp-cretaceous-gyrosphere-minigame.json) |
 | Jurassic World: Camp Cretaceous - Zipline Minigame | 148380 | [148380-jurassic-world-camp-cretaceous-zipline-minigame.json](./148380-jurassic-world-camp-cretaceous-zipline-minigame.json) |
