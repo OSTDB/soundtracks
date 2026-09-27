@@ -756,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Janshi Suchi-Pai III Remix | 98808 | [98808-idol-janshi-suchi-pai-iii-remix.json](./98808-idol-janshi-suchi-pai-iii-remix.json) |
 | Idol Janshi Suchie-Pai III | 76610 | [76610-idol-janshi-suchie-pai-iii.json](./76610-idol-janshi-suchie-pai-iii.json) |
 | Idol Janshi Suchie-Pai IV Portable | 379905 | [379905-idol-janshi-suchie-pai-iv-portable.json](./379905-idol-janshi-suchie-pai-iv-portable.json) |
+| Idol Janshi Suchie-Pai Limited | 166550 | [166550-idol-janshi-suchie-pai-limited.json](./166550-idol-janshi-suchie-pai-limited.json) |
 | Idol Janshi Suchie-Pai Mecha Genteiban: Hatsubai 5 Shuunen (Toku) Package | 85821 | [85821-idol-janshi-suchie-pai-mecha-genteiban-hatsubai-5-shuunen-toku-package.json](./85821-idol-janshi-suchie-pai-mecha-genteiban-hatsubai-5-shuunen-toku-package.json) |
 | Idol Janshi Suchie-Pai: Milky no Yabou | 299296 | [299296-idol-janshi-suchie-pai-milky-no-yabou.json](./299296-idol-janshi-suchie-pai-milky-no-yabou.json) |
 | Idol Kingdom | 405517 | [405517-idol-kingdom.json](./405517-idol-kingdom.json) |
