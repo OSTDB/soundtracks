@@ -2872,6 +2872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bound of Time | 316084 | [316084-the-bound-of-time.json](./316084-the-bound-of-time.json) |
 | The Boundary Condition | 219549 | [219549-the-boundary-condition.json](./219549-the-boundary-condition.json) |
 | The Bounty | 86113 | [86113-the-bounty.json](./86113-the-bounty.json) |
+| The Bounty Hunter | 145558 | [145558-the-bounty-hunter.json](./145558-the-bounty-hunter.json) |
 | The Bounty V2 | 75832 | [75832-the-bounty-v2.json](./75832-the-bounty-v2.json) |
 | The Bowling Tournament | 277418 | [277418-the-bowling-tournament.json](./277418-the-bowling-tournament.json) |
 | The Bowyage | 265208 | [265208-the-bowyage.json](./265208-the-bowyage.json) |
@@ -5468,6 +5469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Mermaid: Visual Harmony | 274449 | [274449-the-little-mermaid-visual-harmony.json](./274449-the-little-mermaid-visual-harmony.json) |
 | The Little Mermaid: Wonder Puzzles | 314881 | [314881-the-little-mermaid-wonder-puzzles.json](./314881-the-little-mermaid-wonder-puzzles.json) |
 | The Little Mermaid's Friend | 252386 | [252386-the-little-mermaids-friend.json](./252386-the-little-mermaids-friend.json) |
+| The Little Red Lie | 145541 | [145541-the-little-red-lie.json](./145541-the-little-red-lie.json) |
 | The Little Slime | 83536 | [83536-the-little-slime.json](./83536-the-little-slime.json) |
 | The Little Tales of Alexandria | 304757 | [304757-the-little-tales-of-alexandria.json](./304757-the-little-tales-of-alexandria.json) |
 | The Little Tomb: The Maholova Club and the Search for a Dead Body | 325103 | [325103-the-little-tomb-the-maholova-club-and-the-search-for-a-dead-body.json](./325103-the-little-tomb-the-maholova-club-and-the-search-for-a-dead-body.json) |
@@ -10120,7 +10122,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TiQal | 21354 | [21354-tiqal.json](./21354-tiqal.json) |
 | Tir et But: Edition Champions du Monde | 130778 | [130778-tir-et-but-edition-champions-du-monde.json](./130778-tir-et-but-edition-champions-du-monde.json) |
 | Tir-nan-óg II: The Sign of Chaos | 145465 | [145465-tir-nan-og-ii-the-sign-of-chaos.json](./145465-tir-nan-og-ii-the-sign-of-chaos.json) |
+| Tir-nan-óg III | 145553 | [145553-tir-nan-og-iii.json](./145553-tir-nan-og-iii.json) |
+| Tir-nan-óg IV | 145555 | [145555-tir-nan-og-iv.json](./145555-tir-nan-og-iv.json) |
 | Tir-nan-óg: Descendants of Danaan | 145464 | [145464-tir-nan-og-descendants-of-danaan.json](./145464-tir-nan-og-descendants-of-danaan.json) |
+| Tir-nan-óg: The Forbidden Tower | 145552 | [145552-tir-nan-og-the-forbidden-tower.json](./145552-tir-nan-og-the-forbidden-tower.json) |
+| Tir-nan-óg: Yuukyuu no Jin | 145556 | [145556-tir-nan-og-yuukyuu-no-jin.json](./145556-tir-nan-og-yuukyuu-no-jin.json) |
 | Tire Boy | 347680 | [347680-tire-boy.json](./347680-tire-boy.json) |
 | Tired of Being the Hero | 353294 | [353294-tired-of-being-the-hero.json](./353294-tired-of-being-the-hero.json) |
 | Tiredspace | 225717 | [225717-tiredspace.json](./225717-tiredspace.json) |
@@ -11642,6 +11648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TowOrbs | 413726 | [413726-toworbs.json](./413726-toworbs.json) |
 | Toxic 2 | 97685 | [97685-toxic-2.json](./97685-toxic-2.json) |
 | Toxic Bubbles | 23730 | [23730-toxic-bubbles.json](./23730-toxic-bubbles.json) |
+| Toxic Bunny | 145523 | [145523-toxic-bunny.json](./145523-toxic-bunny.json) |
 | Toxic Crusaders | 8022 | [8022-toxic-crusaders.json](./8022-toxic-crusaders.json) |
 | Toxic Terror: Episode 2 - The Lich's Lair | 170391 | [170391-toxic-terror-episode-2-the-lichs-lair.json](./170391-toxic-terror-episode-2-the-lichs-lair.json) |
 | Toxic Therapy | 306420 | [306420-toxic-therapy.json](./306420-toxic-therapy.json) |
