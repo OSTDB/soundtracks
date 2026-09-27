@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JM Neto Game Dev 06 Games | 332029 | [332029-jm-neto-game-dev-06-games.json](./332029-jm-neto-game-dev-06-games.json) |
 | JMPR | 164969 | [164969-jmpr.json](./164969-jmpr.json) |
 | JNKBombers | 80605 | [80605-jnkbombers.json](./80605-jnkbombers.json) |
+| JNKPlat 2018 | 125324 | [125324-jnkplat-2018.json](./125324-jnkplat-2018.json) |
 | JNZ: Nightmare Girls | 340773 | [340773-jnz-nightmare-girls.json](./340773-jnz-nightmare-girls.json) |
 | Jo-Jo Fighter | 182366 | [182366-jo-jo-fighter.json](./182366-jo-jo-fighter.json) |
 | Jo's Dream: Organic Coffee | 123638 | [123638-jos-dream-organic-coffee.json](./123638-jos-dream-organic-coffee.json) |
@@ -1210,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judgment Day: Pacific Assault | 340777 | [340777-judgment-day-pacific-assault.json](./340777-judgment-day-pacific-assault.json) |
 | Judgment: Apocalypse Survival Simulation | 33153 | [33153-judgment-apocalypse-survival-simulation.json](./33153-judgment-apocalypse-survival-simulation.json) |
 | Judie no Atelier: Gramnad no Renkinjutsushi | 26514 | [26514-judie-no-atelier-gramnad-no-renkinjutsushi.json](./26514-judie-no-atelier-gramnad-no-renkinjutsushi.json) |
+| Judies | 125363 | [125363-judies.json](./125363-judies.json) |
 | Jug | 67670 | [67670-jug.json](./67670-jug.json) |
 | Juggernaut | 341138 | [341138-juggernaut.json](./341138-juggernaut.json) |
 | Juggle | 246463 | [246463-juggle.json](./246463-juggle.json) |
