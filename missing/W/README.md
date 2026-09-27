@@ -3402,6 +3402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Sea Battle | 59962 | [59962-world-of-sea-battle.json](./59962-world-of-sea-battle.json) |
 | World of Shells | 329653 | [329653-world-of-shells.json](./329653-world-of-shells.json) |
 | World of Simulators Bundle | 193762 | [193762-world-of-simulators-bundle.json](./193762-world-of-simulators-bundle.json) |
+| World of Simulators: Ultimate Edition | 136355 | [136355-world-of-simulators-ultimate-edition.json](./136355-world-of-simulators-ultimate-edition.json) |
 | World of Slavic Glasses | 327363 | [327363-world-of-slavic-glasses.json](./327363-world-of-slavic-glasses.json) |
 | World of Slime | 415114 | [415114-world-of-slime.json](./415114-world-of-slime.json) |
 | World of Solitaire | 139966 | [139966-world-of-solitaire.json](./139966-world-of-solitaire.json) |
@@ -3455,8 +3456,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: Cataclysm - Collector's Edition | 136266 | [136266-world-of-warcraft-cataclysm-collectors-edition.json](./136266-world-of-warcraft-cataclysm-collectors-edition.json) |
 | World of Warcraft: Collector's Edition | 136994 | [136994-world-of-warcraft-collectors-edition.json](./136994-world-of-warcraft-collectors-edition.json) |
 | World of Warcraft: Forever | 417650 | [417650-world-of-warcraft-forever.json](./417650-world-of-warcraft-forever.json) |
+| World of Warcraft: Legion - Collector's Edition | 136338 | [136338-world-of-warcraft-legion-collectors-edition.json](./136338-world-of-warcraft-legion-collectors-edition.json) |
 | World of Warcraft: Midnight - Curse of Ula'tek | 411703 | [411703-world-of-warcraft-midnight-curse-of-ulatek.json](./411703-world-of-warcraft-midnight-curse-of-ulatek.json) |
 | World of Warcraft: Mists of Pandaria | 1332 | [1332-world-of-warcraft-mists-of-pandaria.json](./1332-world-of-warcraft-mists-of-pandaria.json) |
+| World of Warcraft: Mists of Pandaria - Collector's Edition | 136348 | [136348-world-of-warcraft-mists-of-pandaria-collectors-edition.json](./136348-world-of-warcraft-mists-of-pandaria-collectors-edition.json) |
 | World of Warcraft: Mists of Pandaria Classic | 322151 | [322151-world-of-warcraft-mists-of-pandaria-classic.json](./322151-world-of-warcraft-mists-of-pandaria-classic.json) |
 | World of Warcraft: Shadowlands - Chains of Domination | 363919 | [363919-world-of-warcraft-shadowlands-chains-of-domination.json](./363919-world-of-warcraft-shadowlands-chains-of-domination.json) |
 | World of Warcraft: Shadowlands - Collector's Edition | 136998 | [136998-world-of-warcraft-shadowlands-collectors-edition.json](./136998-world-of-warcraft-shadowlands-collectors-edition.json) |
@@ -3888,6 +3891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K17: New Moves Pack | 168354 | [168354-wwe-2k17-new-moves-pack.json](./168354-wwe-2k17-new-moves-pack.json) |
 | WWE 2K17: Nxt Edition | 205827 | [205827-wwe-2k17-nxt-edition.json](./205827-wwe-2k17-nxt-edition.json) |
 | WWE 2K17: NXT Enhancement Pack | 168351 | [168351-wwe-2k17-nxt-enhancement-pack.json](./168351-wwe-2k17-nxt-enhancement-pack.json) |
+| WWE 2K19: Deluxe Edition | 136359 | [136359-wwe-2k19-deluxe-edition.json](./136359-wwe-2k19-deluxe-edition.json) |
 | WWE 2K20: Deluxe Edition | 121437 | [121437-wwe-2k20-deluxe-edition.json](./121437-wwe-2k20-deluxe-edition.json) |
 | WWE 2K20: SmackDown! 20th Anniversary Edition | 136276 | [136276-wwe-2k20-smackdown-20th-anniversary-edition.json](./136276-wwe-2k20-smackdown-20th-anniversary-edition.json) |
 | WWE 2K21 | 132815 | [132815-wwe-2k21.json](./132815-wwe-2k21.json) |
