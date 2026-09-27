@@ -3935,6 +3935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honu | 369079 | [369079-honu.json](./369079-honu.json) |
 | Honyarara Magic | 98446 | [98446-honyarara-magic.json](./98446-honyarara-magic.json) |
 | Hood Story: Kaito Yamazaki | 216717 | [216717-hood-story-kaito-yamazaki.json](./216717-hood-story-kaito-yamazaki.json) |
+| Hood: Outlaws & Legends - Year 1 Edition | 169193 | [169193-hood-outlaws-and-legends-year-1-edition.json](./169193-hood-outlaws-and-legends-year-1-edition.json) |
 | Hoodies Squad: Alcoholypse | 298115 | [298115-hoodies-squad-alcoholypse.json](./298115-hoodies-squad-alcoholypse.json) |
 | Hoodoo Voodoo | 13879 | [13879-hoodoo-voodoo.json](./13879-hoodoo-voodoo.json) |
 | Hoodsters | 259536 | [259536-hoodsters.json](./259536-hoodsters.json) |
@@ -4350,6 +4351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed 2: Turbocharged - Manga Free Pack | 277831 | [277831-hot-wheels-unleashed-2-turbocharged-manga-free-pack.json](./277831-hot-wheels-unleashed-2-turbocharged-manga-free-pack.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Pure Fire Edition | 252165 | [252165-hot-wheels-unleashed-2-turbocharged-pure-fire-edition.json](./252165-hot-wheels-unleashed-2-turbocharged-pure-fire-edition.json) |
 | Hot Wheels Unleashed 2: Twin Mill (Unleashed Edition) | 271777 | [271777-hot-wheels-unleashed-2-twin-mill-unleashed-edition.json](./271777-hot-wheels-unleashed-2-twin-mill-unleashed-edition.json) |
+| Hot Wheels Unleashed: Collector's Edition | 169204 | [169204-hot-wheels-unleashed-collectors-edition.json](./169204-hot-wheels-unleashed-collectors-edition.json) |
 | Hot Wheels Unleashed: Corvette Stingray Convertible 2014 | 195769 | [195769-hot-wheels-unleashed-corvette-stingray-convertible-2014.json](./195769-hot-wheels-unleashed-corvette-stingray-convertible-2014.json) |
 | Hot Wheels Unleashed: Day One Edition | 146134 | [146134-hot-wheels-unleashed-day-one-edition.json](./146134-hot-wheels-unleashed-day-one-edition.json) |
 | Hot Wheels Unleashed: DC Super Heroes Racing Season | 195766 | [195766-hot-wheels-unleashed-dc-super-heroes-racing-season.json](./195766-hot-wheels-unleashed-dc-super-heroes-racing-season.json) |
@@ -4357,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed: McLaren Senna | 195768 | [195768-hot-wheels-unleashed-mclaren-senna.json](./195768-hot-wheels-unleashed-mclaren-senna.json) |
 | Hot Wheels Unleashed: Night Burner | 195767 | [195767-hot-wheels-unleashed-night-burner.json](./195767-hot-wheels-unleashed-night-burner.json) |
 | Hot Wheels Unleashed: Street Fighter Vega | 195770 | [195770-hot-wheels-unleashed-street-fighter-vega.json](./195770-hot-wheels-unleashed-street-fighter-vega.json) |
+| Hot Wheels Unleashed: Ultimate Stunt Edition | 169205 | [169205-hot-wheels-unleashed-ultimate-stunt-edition.json](./169205-hot-wheels-unleashed-ultimate-stunt-edition.json) |
 | Hot Wheels World Race | 243147 | [243147-hot-wheels-world-race.json](./243147-hot-wheels-world-race.json) |
 | Hot Wheels: Bash Arena | 70992 | [70992-hot-wheels-bash-arena.json](./70992-hot-wheels-bash-arena.json) |
 | Hot Wheels: Crash! | 74090 | [74090-hot-wheels-crash.json](./74090-hot-wheels-crash.json) |
@@ -4827,6 +4830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humankind: Cultures of Oceania Pack | 264004 | [264004-humankind-cultures-of-oceania-pack.json](./264004-humankind-cultures-of-oceania-pack.json) |
 | Humankind: Day One Edition | 139935 | [139935-humankind-day-one-edition.json](./139935-humankind-day-one-edition.json) |
 | Humankind: Definitive Edition | 283778 | [283778-humankind-definitive-edition.json](./283778-humankind-definitive-edition.json) |
+| Humankind: Deluxe Edition | 169173 | [169173-humankind-deluxe-edition.json](./169173-humankind-deluxe-edition.json) |
 | Humanoid | 263788 | [263788-humanoid.json](./263788-humanoid.json) |
 | Humanoid | 393495 | [393495-humanoid.json](./393495-humanoid.json) |
 | Humanoid 47 | 128599 | [128599-humanoid-47.json](./128599-humanoid-47.json) |
