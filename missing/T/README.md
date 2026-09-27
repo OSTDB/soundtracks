@@ -3358,6 +3358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Silent Marshes | 213327 | [213327-the-curse-of-silent-marshes.json](./213327-the-curse-of-silent-marshes.json) |
 | The Curse of Stuzhiy | 413876 | [413876-the-curse-of-stuzhiy.json](./413876-the-curse-of-stuzhiy.json) |
 | The Curse of Tencond | 225576 | [225576-the-curse-of-tencond.json](./225576-the-curse-of-tencond.json) |
+| The Curse of the Dead | 129668 | [129668-the-curse-of-the-dead.json](./129668-the-curse-of-the-dead.json) |
 | The Curse of the Egyptian Pyramid: Remaster Edition | 278698 | [278698-the-curse-of-the-egyptian-pyramid-remaster-edition.json](./278698-the-curse-of-the-egyptian-pyramid-remaster-edition.json) |
 | The Curse of the Werewolves | 17705 | [17705-the-curse-of-the-werewolves.json](./17705-the-curse-of-the-werewolves.json) |
 | The Curse of Trasmoz | 135307 | [135307-the-curse-of-trasmoz.json](./135307-the-curse-of-trasmoz.json) |
@@ -3613,6 +3614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Divine Speaker: The Sun and the Moon | 199563 | [199563-the-divine-speaker-the-sun-and-the-moon.json](./199563-the-divine-speaker-the-sun-and-the-moon.json) |
 | The Diving Bell | 391881 | [391881-the-diving-bell.json](./391881-the-diving-bell.json) |
 | The Division 2: Warlords of New York - Year 5 Season 1: Broken Wings | 276774 | [276774-the-division-2-warlords-of-new-york-year-5-season-1-broken-wings.json](./276774-the-division-2-warlords-of-new-york-year-5-season-1-broken-wings.json) |
+| The DOCS: Department of Creatures | 129648 | [129648-the-docs-department-of-creatures.json](./129648-the-docs-department-of-creatures.json) |
 | The Document of Metal Gear Solid 2 | 139343 | [139343-the-document-of-metal-gear-solid-2.json](./139343-the-document-of-metal-gear-solid-2.json) |
 | The Dog Quiz | 223149 | [223149-the-dog-quiz.json](./223149-the-dog-quiz.json) |
 | The Dog Run | 114410 | [114410-the-dog-run.json](./114410-the-dog-run.json) |
@@ -6249,6 +6251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Parallax Effect | 28811 | [28811-the-parallax-effect.json](./28811-the-parallax-effect.json) |
 | The Parallel Worlds | 271302 | [271302-the-parallel-worlds.json](./271302-the-parallel-worlds.json) |
 | The Parcel | 236257 | [236257-the-parcel.json](./236257-the-parcel.json) |
+| The Parenting Simulator | 129684 | [129684-the-parenting-simulator.json](./129684-the-parenting-simulator.json) |
 | The Paribneur Combination | 189138 | [189138-the-paribneur-combination.json](./189138-the-paribneur-combination.json) |
 | The Parish | 320549 | [320549-the-parish.json](./320549-the-parish.json) |
 | The Park | 11649 | [11649-the-park.json](./11649-the-park.json) |
@@ -7858,6 +7861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vaults of Minos | 213311 | [213311-the-vaults-of-minos.json](./213311-the-vaults-of-minos.json) |
 | The Veiled Ones | 318799 | [318799-the-veiled-ones.json](./318799-the-veiled-ones.json) |
 | The Vengeance Of Lady Witch | 250964 | [250964-the-vengeance-of-lady-witch.json](./250964-the-vengeance-of-lady-witch.json) |
+| The Vertigo lite | 129665 | [129665-the-vertigo-lite.json](./129665-the-vertigo-lite.json) |
 | The Very Big Cave Adventure | 26477 | [26477-the-very-big-cave-adventure.json](./26477-the-very-big-cave-adventure.json) |
 | The Very Idle Game | 310750 | [310750-the-very-idle-game.json](./310750-the-very-idle-game.json) |
 | The very last farm | 185020 | [185020-the-very-last-farm.json](./185020-the-very-last-farm.json) |
@@ -13108,6 +13112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribes: Vengeance | 923 | [923-tribes-vengeance.json](./923-tribes-vengeance.json) |
 | Tribio puzzle: Strategic Spot | 253022 | [253022-tribio-puzzle-strategic-spot.json](./253022-tribio-puzzle-strategic-spot.json) |
 | Triblock | 158032 | [158032-triblock.json](./158032-triblock.json) |
+| Tribloos | 129634 | [129634-tribloos.json](./129634-tribloos.json) |
 | Tribloos 3 | 104685 | [104685-tribloos-3.json](./104685-tribloos-3.json) |
 | Tribond | 206075 | [206075-tribond.json](./206075-tribond.json) |
 | Triboo | 85455 | [85455-triboo.json](./85455-triboo.json) |
