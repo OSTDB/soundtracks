@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hades 2 | 134619 | [134619-hades-2.json](./134619-hades-2.json) |
 | Hades Nebula | 13867 | [13867-hades-nebula.json](./13867-hades-nebula.json) |
 | Hadr | 139355 | [139355-hadr.json](./139355-hadr.json) |
+| Hadrian's Villa Reborn: Stadium Garden | 167609 | [167609-hadrians-villa-reborn-stadium-garden.json](./167609-hadrians-villa-reborn-stadium-garden.json) |
 | Hadur | 342638 | [342638-hadur.json](./342638-hadur.json) |
 | HAE Stack | 400502 | [400502-hae-stack.json](./400502-hae-stack.json) |
 | Haegemonia: The Solon Heritage | 17299 | [17299-haegemonia-the-solon-heritage.json](./17299-haegemonia-the-solon-heritage.json) |
@@ -3853,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honeycomb Beat | 20685 | [20685-honeycomb-beat.json](./20685-honeycomb-beat.json) |
 | Honeycomb Hotel | 366228 | [366228-honeycomb-hotel.json](./366228-honeycomb-hotel.json) |
 | Honeycomb Hotel ZEN | 96056 | [96056-honeycomb-hotel-zen.json](./96056-honeycomb-hotel-zen.json) |
+| HoneyLand | 167597 | [167597-honeyland.json](./167597-honeyland.json) |
 | Honeypot | 215785 | [215785-honeypot.json](./215785-honeypot.json) |
 | HoneySun | 260407 | [260407-honeysun.json](./260407-honeysun.json) |
 | HoneyWorks Premium Live | 144101 | [144101-honeyworks-premium-live.json](./144101-honeyworks-premium-live.json) |
@@ -4016,6 +4018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope Deferred | 337992 | [337992-hope-deferred.json](./337992-hope-deferred.json) |
 | Hope for City | 122163 | [122163-hope-for-city.json](./122163-hope-for-city.json) |
 | Hope for Village | 116813 | [116813-hope-for-village.json](./116813-hope-for-village.json) |
+| Hope For Winter | 167584 | [167584-hope-for-winter.json](./167584-hope-for-winter.json) |
 | Hope in Hell | 34277 | [34277-hope-in-hell.json](./34277-hope-in-hell.json) |
 | Hope in the City | 347898 | [347898-hope-in-the-city.json](./347898-hope-in-the-city.json) |
 | Hope Lake | 32445 | [32445-hope-lake.json](./32445-hope-lake.json) |
