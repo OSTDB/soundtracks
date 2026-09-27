@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Survival | 212487 | [212487-zombie-survival.json](./212487-zombie-survival.json) |
 | Zombie Survival | 231077 | [231077-zombie-survival.json](./231077-zombie-survival.json) |
 | Zombie Survival 3D | 409578 | [409578-zombie-survival-3d.json](./409578-zombie-survival-3d.json) |
+| Zombie Survival Online | 157491 | [157491-zombie-survival-online.json](./157491-zombie-survival-online.json) |
 | Zombie Survival: The Walking Pandemic | 300830 | [300830-zombie-survival-the-walking-pandemic.json](./300830-zombie-survival-the-walking-pandemic.json) |
 | Zombie Survivor | 360682 | [360682-zombie-survivor.json](./360682-zombie-survivor.json) |
 | Zombie Sweeper | 99580 | [99580-zombie-sweeper.json](./99580-zombie-sweeper.json) |
