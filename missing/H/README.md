@@ -4488,6 +4488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Flipper 2: Special Edition | 282056 | [282056-house-flipper-2-special-edition.json](./282056-house-flipper-2-special-edition.json) |
 | House Flipper Simulator | 174666 | [174666-house-flipper-simulator.json](./174666-house-flipper-simulator.json) |
 | House Flipper VR | 129209 | [129209-house-flipper-vr.json](./129209-house-flipper-vr.json) |
+| House Flipper: Apocalypse | 165990 | [165990-house-flipper-apocalypse.json](./165990-house-flipper-apocalypse.json) |
 | House Flipper: Cyberpunk | 171638 | [171638-house-flipper-cyberpunk.json](./171638-house-flipper-cyberpunk.json) |
 | House Flipper: Dine Out | 289332 | [289332-house-flipper-dine-out.json](./289332-house-flipper-dine-out.json) |
 | House Flipper: Farm | 200725 | [200725-house-flipper-farm.json](./200725-house-flipper-farm.json) |
