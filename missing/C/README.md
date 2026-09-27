@@ -1068,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnage in Space: Crucible | 201573 | [201573-carnage-in-space-crucible.json](./201573-carnage-in-space-crucible.json) |
 | Carnage Kart X | 318977 | [318977-carnage-kart-x.json](./318977-carnage-kart-x.json) |
 | Carnage Offering | 189964 | [189964-carnage-offering.json](./189964-carnage-offering.json) |
+| Carnage: Battle Arena | 133895 | [133895-carnage-battle-arena.json](./133895-carnage-battle-arena.json) |
 | Carnal | 163743 | [163743-carnal.json](./163743-carnal.json) |
 | Carnal Sins: Malum Incarnatum + Carne Vescens | 329693 | [329693-carnal-sins-malum-incarnatum-carne-vescens.json](./329693-carnal-sins-malum-incarnatum-carne-vescens.json) |
 | Carnasis | 360007 | [360007-carnasis.json](./360007-carnasis.json) |
@@ -3493,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chukcha v Bolshom Gorode | 403576 | [403576-chukcha-v-bolshom-gorode.json](./403576-chukcha-v-bolshom-gorode.json) |
 | Chukgwi | 369102 | [369102-chukgwi.json](./369102-chukgwi.json) |
 | Chulip | 20657 | [20657-chulip.json](./20657-chulip.json) |
+| Chumbo.Zone | 133899 | [133899-chumbo-zone.json](./133899-chumbo-zone.json) |
 | Chungo's Gauntlet | 256900 | [256900-chungos-gauntlet.json](./256900-chungos-gauntlet.json) |
 | Chungus Rampage in Big Forest | 143068 | [143068-chungus-rampage-in-big-forest.json](./143068-chungus-rampage-in-big-forest.json) |
 | Chunithm Luminous | 281381 | [281381-chunithm-luminous.json](./281381-chunithm-luminous.json) |
@@ -4088,6 +4090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clear Vision 2 HD | 388410 | [388410-clear-vision-2-hd.json](./388410-clear-vision-2-hd.json) |
 | Clear Vision 4 | 174814 | [174814-clear-vision-4.json](./174814-clear-vision-4.json) |
 | Clear Vision Elite | 272793 | [272793-clear-vision-elite.json](./272793-clear-vision-elite.json) |
+| Clear: Atarashii Kaze no Fuku Oka de | 133909 | [133909-clear-atarashii-kaze-no-fuku-oka-de.json](./133909-clear-atarashii-kaze-no-fuku-oka-de.json) |
 | Clearing Blade | 326248 | [326248-clearing-blade.json](./326248-clearing-blade.json) |
 | Clearwater | 270718 | [270718-clearwater.json](./270718-clearwater.json) |
 | Cleaving Caliber EX | 362435 | [362435-cleaving-caliber-ex.json](./362435-cleaving-caliber-ex.json) |
@@ -6542,6 +6545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft the World | 14554 | [14554-craft-the-world.json](./14554-craft-the-world.json) |
 | Craft the World: Heart of Evil | 154959 | [154959-craft-the-world-heart-of-evil.json](./154959-craft-the-world-heart-of-evil.json) |
 | Craft The World: Invasion | 286536 | [286536-craft-the-world-invasion.json](./286536-craft-the-world-invasion.json) |
+| Craft the World: Lonely Mountain | 133892 | [133892-craft-the-world-lonely-mountain.json](./133892-craft-the-world-lonely-mountain.json) |
 | Craft the World: Pocket Edition | 87877 | [87877-craft-the-world-pocket-edition.json](./87877-craft-the-world-pocket-edition.json) |
 | Craft Tower | 224213 | [224213-craft-tower.json](./224213-craft-tower.json) |
 | Craft Warriors | 99109 | [99109-craft-warriors.json](./99109-craft-warriors.json) |
@@ -7726,6 +7730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthulhu Realms | 32510 | [32510-cthulhu-realms.json](./32510-cthulhu-realms.json) |
 | Cthulhu Saves Christmas | 124286 | [124286-cthulhu-saves-christmas.json](./124286-cthulhu-saves-christmas.json) |
 | Cthulhu Saves the World | 8427 | [8427-cthulhu-saves-the-world.json](./8427-cthulhu-saves-the-world.json) |
+| Cthulhu Saves the World: Super Hyper Enhanced Championship Edition Alpha Diamond DX Plus Alpha FES HD – Premium Enhanced Game of the Year Collector’s Edition (without Avatars!) | 133889 | [133889-cthulhu-saves-the-world-super-hyper-enhanced-championship-edition-alpha-diamond-dx-plus-alpha-fes-hd-premium-enhanced-game-of-the-year-collector-s-edition-without-avatars.json](./133889-cthulhu-saves-the-world-super-hyper-enhanced-championship-edition-alpha-diamond-dx-plus-alpha-fes-hd-premium-enhanced-game-of-the-year-collector-s-edition-without-avatars.json) |
 | Cthulhu Tower | 266750 | [266750-cthulhu-tower.json](./266750-cthulhu-tower.json) |
 | Cthulhu: An Unspeakable Mod | 221668 | [221668-cthulhu-an-unspeakable-mod.json](./221668-cthulhu-an-unspeakable-mod.json) |
 | Cthulhu: Frozen Nightmare | 135269 | [135269-cthulhu-frozen-nightmare.json](./135269-cthulhu-frozen-nightmare.json) |
