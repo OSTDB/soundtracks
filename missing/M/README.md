@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Miner 2 | 318982 | [318982-mad-miner-2.json](./318982-mad-miner-2.json) |
 | Mad Moles | 58753 | [58753-mad-moles.json](./58753-mad-moles.json) |
 | Mad Murder's Mystery Pie Shop | 196891 | [196891-mad-murders-mystery-pie-shop.json](./196891-mad-murders-mystery-pie-shop.json) |
+| Mad Mustache | 152789 | [152789-mad-mustache.json](./152789-mad-mustache.json) |
 | Mad Muzzles | 41925 | [41925-mad-muzzles.json](./41925-mad-muzzles.json) |
 | Mad News | 265973 | [265973-mad-news.json](./265973-mad-news.json) |
 | Mad Nords: Probably an Epic Quest | 34327 | [34327-mad-nords-probably-an-epic-quest.json](./34327-mad-nords-probably-an-epic-quest.json) |
@@ -2426,6 +2427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matt Sandorf: Journey to Endless Entertainment | 258187 | [258187-matt-sandorf-journey-to-endless-entertainment.json](./258187-matt-sandorf-journey-to-endless-entertainment.json) |
 | Matter | 299869 | [299869-matter.json](./299869-matter.json) |
 | Matter | 80601 | [80601-matter.json](./80601-matter.json) |
+| Matthew: Last Journey | 152808 | [152808-matthew-last-journey.json](./152808-matthew-last-journey.json) |
 | Matthias Sammer Soccer | 49101 | [49101-matthias-sammer-soccer.json](./49101-matthias-sammer-soccer.json) |
 | Matts & the Metamagicians | 181684 | [181684-matts-and-the-metamagicians.json](./181684-matts-and-the-metamagicians.json) |
 | Matts Project Z Endless | 149581 | [149581-matts-project-z-endless.json](./149581-matts-project-z-endless.json) |
@@ -7536,6 +7538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Golf | 57050 | [57050-mr-golf.json](./57050-mr-golf.json) |
 | Mr. Hibbl | 156661 | [156661-mr-hibbl.json](./156661-mr-hibbl.json) |
 | Mr. Hoob! | 372695 | [372695-mr-hoob.json](./372695-mr-hoob.json) |
+| Mr. Hopp's Playhouse 2 | 152818 | [152818-mr-hopps-playhouse-2.json](./152818-mr-hopps-playhouse-2.json) |
 | Mr. Joshua Carrot | 128354 | [128354-mr-joshua-carrot.json](./128354-mr-joshua-carrot.json) |
 | Mr. Krabs Tax Evasion | 166526 | [166526-mr-krabs-tax-evasion.json](./166526-mr-krabs-tax-evasion.json) |
 | Mr. Krasnoludek, Teach Me Your Magic Spells | 169879 | [169879-mr-krasnoludek-teach-me-your-magic-spells.json](./169879-mr-krasnoludek-teach-me-your-magic-spells.json) |
