@@ -3240,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himehibi: Princess Days | 218382 | [218382-himehibi-princess-days.json](./218382-himehibi-princess-days.json) |
 | Himehibi: Princess Days Portable | 218381 | [218381-himehibi-princess-days-portable.json](./218381-himehibi-princess-days-portable.json) |
 | Himei Dam | 324703 | [324703-himei-dam.json](./324703-himei-dam.json) |
+| Himeko Maid | 158037 | [158037-himeko-maid.json](./158037-himeko-maid.json) |
 | Himemiya-san ha Kamaitai | 195095 | [195095-himemiya-san-ha-kamaitai.json](./195095-himemiya-san-ha-kamaitai.json) |
 | Himemiya-san wa Kamaitai: Limited Edition | 205264 | [205264-himemiya-san-wa-kamaitai-limited-edition.json](./205264-himemiya-san-wa-kamaitai-limited-edition.json) |
 | Himeshikibu | 40196 | [40196-himeshikibu.json](./40196-himeshikibu.json) |
