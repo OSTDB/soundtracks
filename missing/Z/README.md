@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zball IV | 153316 | [153316-zball-iv.json](./153316-zball-iv.json) |
 | Zball VI | 158574 | [158574-zball-vi.json](./158574-zball-vi.json) |
 | Zbuki Zoo Strategic Comedy | 265259 | [265259-zbuki-zoo-strategic-comedy.json](./265259-zbuki-zoo-strategic-comedy.json) |
+| ZCrew | 141739 | [141739-zcrew.json](./141739-zcrew.json) |
 | Zday Survival Simulator | 202840 | [202840-zday-survival-simulator.json](./202840-zday-survival-simulator.json) |
 | ZDog Hotel Hero Z | 305849 | [305849-zdog-hotel-hero-z.json](./305849-zdog-hotel-hero-z.json) |
 | ZDoom Adventures! | 252215 | [252215-zdoom-adventures.json](./252215-zdoom-adventures.json) |
