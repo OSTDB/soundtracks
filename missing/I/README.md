@@ -1866,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Input | 227792 | [227792-input.json](./227792-input.json) |
 | Input | 391075 | [391075-input.json](./391075-input.json) |
 | Input Chaos | 215926 | [215926-input-chaos.json](./215926-input-chaos.json) |
+| Input6 | 157074 | [157074-input6.json](./157074-input6.json) |
 | Inquiry Counsel | 389985 | [389985-inquiry-counsel.json](./389985-inquiry-counsel.json) |
 | Inquiry for Justice | 241404 | [241404-inquiry-for-justice.json](./241404-inquiry-for-justice.json) |
 | Inquisition | 69840 | [69840-inquisition.json](./69840-inquisition.json) |
