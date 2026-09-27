@@ -1788,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen | 267651 | [267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json](./267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json) |
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen 2 | 267652 | [267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json](./267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json) |
 | Gimme Five | 56468 | [56468-gimme-five.json](./56468-gimme-five.json) |
+| Gimmick in the Chaos Dimension | 144880 | [144880-gimmick-in-the-chaos-dimension.json](./144880-gimmick-in-the-chaos-dimension.json) |
 | Gimmick: Exact Mix | 206146 | [206146-gimmick-exact-mix.json](./206146-gimmick-exact-mix.json) |
 | Gimmick! 2 | 306562 | [306562-gimmick-2.json](./306562-gimmick-2.json) |
 | Gimmick! Special Edition | 213752 | [213752-gimmick-special-edition.json](./213752-gimmick-special-edition.json) |
@@ -1955,6 +1956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator's Arena | 236530 | [236530-gladiators-arena.json](./236530-gladiators-arena.json) |
 | Gladiatorial Conquest: Battle Arena of Legends | 283266 | [283266-gladiatorial-conquest-battle-arena-of-legends.json](./283266-gladiatorial-conquest-battle-arena-of-legends.json) |
 | Gladiators Tale | 248001 | [248001-gladiators-tale.json](./248001-gladiators-tale.json) |
+| Gladio and Glory | 144881 | [144881-gladio-and-glory.json](./144881-gladio-and-glory.json) |
 | Gladio Mori | 278415 | [278415-gladio-mori.json](./278415-gladio-mori.json) |
 | Gladom: The 2D MOBA in Pixel Art | 121469 | [121469-gladom-the-2d-moba-in-pixel-art.json](./121469-gladom-the-2d-moba-in-pixel-art.json) |
 | Glais Gawizt | 266765 | [266765-glais-gawizt.json](./266765-glais-gawizt.json) |
