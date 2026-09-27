@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hai-Shin 2 | 290992 | [290992-hai-shin-2.json](./290992-hai-shin-2.json) |
 | Hǎidǐ Xúnbǎo | 110136 | [110136-haidi-xunbao.json](./110136-haidi-xunbao.json) |
 | Haiki | 141134 | [141134-haiki.json](./141134-haiki.json) |
+| Haikyu!! Tsunage! Itadaki no Keshiki!! | 136931 | [136931-haikyu-tsunage-itadaki-no-keshiki.json](./136931-haikyu-tsunage-itadaki-no-keshiki.json) |
 | Haikyuu!! Donpisha Match!! | 196599 | [196599-haikyuu-donpisha-match.json](./196599-haikyuu-donpisha-match.json) |
 | Hail Britannia | 340408 | [340408-hail-britannia.json](./340408-hail-britannia.json) |
 | Hail to the Chimp | 7005 | [7005-hail-to-the-chimp.json](./7005-hail-to-the-chimp.json) |
@@ -796,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore Dirt Bike | 87720 | [87720-hardcore-dirt-bike.json](./87720-hardcore-dirt-bike.json) |
 | Hardcore Dirt Bike 2 | 97918 | [97918-hardcore-dirt-bike-2.json](./97918-hardcore-dirt-bike-2.json) |
 | Hardcore Leveling Warrior | 382444 | [382444-hardcore-leveling-warrior.json](./382444-hardcore-leveling-warrior.json) |
+| Hardcore Mecha: Fighter Edition | 136927 | [136927-hardcore-mecha-fighter-edition.json](./136927-hardcore-mecha-fighter-edition.json) |
 | Hardcore Mecha: Graeme | 168211 | [168211-hardcore-mecha-graeme.json](./168211-hardcore-mecha-graeme.json) |
 | Hardcore Mecha: Shepherd Jaeger | 168212 | [168212-hardcore-mecha-shepherd-jaeger.json](./168212-hardcore-mecha-shepherd-jaeger.json) |
 | Hardcore Parkour | 119765 | [119765-hardcore-parkour.json](./119765-hardcore-parkour.json) |
