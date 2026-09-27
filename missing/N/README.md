@@ -1592,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nezha Crossing the Sea | 311592 | [311592-nezha-crossing-the-sea.json](./311592-nezha-crossing-the-sea.json) |
 | Nezha Legend | 334308 | [334308-nezha-legend.json](./334308-nezha-legend.json) |
 | Nezumi Man | 276480 | [276480-nezumi-man.json](./276480-nezumi-man.json) |
+| NFL '95 | 127140 | [127140-nfl-95.json](./127140-nfl-95.json) |
 | NFL 2 Minute Drill | 130949 | [130949-nfl-2-minute-drill.json](./130949-nfl-2-minute-drill.json) |
 | NFL Blitz | 249135 | [249135-nfl-blitz.json](./249135-nfl-blitz.json) |
 | NFL Blitz 2000 | 249126 | [249126-nfl-blitz-2000.json](./249126-nfl-blitz-2000.json) |
@@ -3117,6 +3118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NS Kakuro | 91105 | [91105-ns-kakuro.json](./91105-ns-kakuro.json) |
 | NSFW: Not a Simulator for Working | 25606 | [25606-nsfw-not-a-simulator-for-working.json](./25606-nsfw-not-a-simulator-for-working.json) |
 | NSR: Night Street Racing | 397954 | [397954-nsr-night-street-racing.json](./397954-nsr-night-street-racing.json) |
+| nStations | 127115 | [127115-nstations.json](./127115-nstations.json) |
 | NSYNC: Get to the Show | 49955 | [49955-nsync-get-to-the-show.json](./49955-nsync-get-to-the-show.json) |
 | Nth Dimension[al] Hiking | 327183 | [327183-nth-dimension-al-hiking.json](./327183-nth-dimension-al-hiking.json) |
 | Nth^0: Infinity Reborn | 129799 | [129799-nth-0-infinity-reborn.json](./129799-nth-0-infinity-reborn.json) |
