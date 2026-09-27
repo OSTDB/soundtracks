@@ -1938,6 +1938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erepublik | 63258 | [63258-erepublik.json](./63258-erepublik.json) |
 | Eret Link | 229385 | [229385-eret-link.json](./229385-eret-link.json) |
 | Ergenekon | 378430 | [378430-ergenekon.json](./378430-ergenekon.json) |
+| Ergo | 152799 | [152799-ergo.json](./152799-ergo.json) |
 | Eri | 116282 | [116282-eri.json](./116282-eri.json) |
 | Eric and the Floaters | 45324 | [45324-eric-and-the-floaters.json](./45324-eric-and-the-floaters.json) |
 | Eric the Unready | 12426 | [12426-eric-the-unready.json](./12426-eric-the-unready.json) |
