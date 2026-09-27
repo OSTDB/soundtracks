@@ -142,6 +142,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaizo Mario Galaxy 2 | 294765 | [294765-kaizo-mario-galaxy-2.json](./294765-kaizo-mario-galaxy-2.json) |
 | Kaizo Mario Galaxy: Rebalanced | 262668 | [262668-kaizo-mario-galaxy-rebalanced.json](./262668-kaizo-mario-galaxy-rebalanced.json) |
 | Kaizo Mario World | 132654 | [132654-kaizo-mario-world.json](./132654-kaizo-mario-world.json) |
+| Kaizo Mario World 2 | 132716 | [132716-kaizo-mario-world-2.json](./132716-kaizo-mario-world-2.json) |
+| Kaizo Mario World 3 | 132721 | [132721-kaizo-mario-world-3.json](./132721-kaizo-mario-world-3.json) |
 | Kaizo Nikki | 229648 | [229648-kaizo-nikki.json](./229648-kaizo-nikki.json) |
 | Kaizoku Sentai Gokaiger: Atsumete Henshin! 35 Sentai | 63580 | [63580-kaizoku-sentai-gokaiger-atsumete-henshin-35-sentai.json](./63580-kaizoku-sentai-gokaiger-atsumete-henshin-35-sentai.json) |
 | Kaizou Choujin Schbibinman | 42052 | [42052-kaizou-choujin-schbibinman.json](./42052-kaizou-choujin-schbibinman.json) |
@@ -1061,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill to Survive | 235167 | [235167-kill-to-survive.json](./235167-kill-to-survive.json) |
 | Kill your Darlings | 352718 | [352718-kill-your-darlings.json](./352718-kill-your-darlings.json) |
 | Kill Your Heart | 337624 | [337624-kill-your-heart.json](./337624-kill-your-heart.json) |
+| Kill Yourself | 132690 | [132690-kill-yourself.json](./132690-kill-yourself.json) |
 | Kill.Switch | 248588 | [248588-kill-switch.json](./248588-kill-switch.json) |
 | Kill/Cure: Beautiful Vice | 307688 | [307688-kill-cure-beautiful-vice.json](./307688-kill-cure-beautiful-vice.json) |
 | Killa | 264603 | [264603-killa.json](./264603-killa.json) |
