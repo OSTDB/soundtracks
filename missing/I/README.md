@@ -1752,6 +1752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infocus: Extreme Bike | 175294 | [175294-infocus-extreme-bike.json](./175294-infocus-extreme-bike.json) |
 | Infodroid | 28857 | [28857-infodroid.json](./28857-infodroid.json) |
 | Infogrind | 401000 | [401000-infogrind.json](./401000-infogrind.json) |
+| Informal Detective | 119661 | [119661-informal-detective.json](./119661-informal-detective.json) |
 | Informaticus | 343876 | [343876-informaticus.json](./343876-informaticus.json) |
 | Informe Zenteno | 322947 | [322947-informe-zenteno.json](./322947-informe-zenteno.json) |
 | Infra: Underground | 255360 | [255360-infra-underground.json](./255360-infra-underground.json) |
@@ -2676,6 +2677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island | 260380 | [260380-island.json](./260380-island.json) |
 | Island | 346060 | [346060-island.json](./346060-island.json) |
 | Island | 58194 | [58194-island.json](./58194-island.json) |
+| Island 1979 | 119667 | [119667-island-1979.json](./119667-island-1979.json) |
 | Island Assault | 195609 | [195609-island-assault.json](./195609-island-assault.json) |
 | Island Bender | 234346 | [234346-island-bender.json](./234346-island-bender.json) |
 | Island Casino | 262406 | [262406-island-casino.json](./262406-island-casino.json) |
