@@ -1518,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Weapon | 20397 | [20397-heavy-weapon.json](./20397-heavy-weapon.json) |
 | Heavy Weapon Deluxe | 27812 | [27812-heavy-weapon-deluxe.json](./27812-heavy-weapon-deluxe.json) |
 | Heavy Works | 213482 | [213482-heavy-works.json](./213482-heavy-works.json) |
+| Heavyweight Champ | 172525 | [172525-heavyweight-champ.json](./172525-heavyweight-champ.json) |
 | Heavyweight Champ | 39678 | [39678-heavyweight-champ.json](./39678-heavyweight-champ.json) |
 | Heavyweight Thunder | 69875 | [69875-heavyweight-thunder.json](./69875-heavyweight-thunder.json) |
 | Heavyweight Transport Simulator 3 | 53183 | [53183-heavyweight-transport-simulator-3.json](./53183-heavyweight-transport-simulator-3.json) |
