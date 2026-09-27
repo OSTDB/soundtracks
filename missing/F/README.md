@@ -1963,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting breakthrough | 287779 | [287779-fighting-breakthrough.json](./287779-fighting-breakthrough.json) |
 | Fighting Clans | 130224 | [130224-fighting-clans.json](./130224-fighting-clans.json) |
 | Fighting EX Layer | 41828 | [41828-fighting-ex-layer.json](./41828-fighting-ex-layer.json) |
+| Fighting Ex Layer -a | 125333 | [125333-fighting-ex-layer-a.json](./125333-fighting-ex-layer-a.json) |
 | Fighting Eyes | 45307 | [45307-fighting-eyes.json](./45307-fighting-eyes.json) |
 | Fighting Fantasy Classics | 102159 | [102159-fighting-fantasy-classics.json](./102159-fighting-fantasy-classics.json) |
 | Fighting Fantasy Classics Vol. 1 | 389081 | [389081-fighting-fantasy-classics-vol-1.json](./389081-fighting-fantasy-classics-vol-1.json) |
