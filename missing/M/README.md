@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maelstrom | 207802 | [207802-maelstrom.json](./207802-maelstrom.json) |
 | Maelstrom: The Battle for Earth Begins | 10134 | [10134-maelstrom-the-battle-for-earth-begins.json](./10134-maelstrom-the-battle-for-earth-begins.json) |
 | Maelstrom: The Battle for Earth Begins Enhanced | 385595 | [385595-maelstrom-the-battle-for-earth-begins-enhanced.json](./385595-maelstrom-the-battle-for-earth-begins-enhanced.json) |
+| Maenovan | 168123 | [168123-maenovan.json](./168123-maenovan.json) |
 | Maerl Bay | 248578 | [248578-maerl-bay.json](./248578-maerl-bay.json) |
 | Maestria | 207841 | [207841-maestria.json](./207841-maestria.json) |
 | Maestro | 306924 | [306924-maestro.json](./306924-maestro.json) |
@@ -5307,6 +5308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minsho | 294805 | [294805-minsho.json](./294805-minsho.json) |
 | Minskies | 115631 | [115631-minskies.json](./115631-minskies.json) |
 | Mint Dodgers | 320165 | [320165-mint-dodgers.json](./320165-mint-dodgers.json) |
+| Mint Muse Sound Flare | 168126 | [168126-mint-muse-sound-flare.json](./168126-mint-muse-sound-flare.json) |
 | Mint Works | 159818 | [159818-mint-works.json](./159818-mint-works.json) |
 | Mint's Hints 3 | 328008 | [328008-mints-hints-3.json](./328008-mints-hints-3.json) |
 | Mintroid | 188619 | [188619-mintroid.json](./188619-mintroid.json) |
@@ -8287,6 +8289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Life: Pet Vet | 220875 | [220875-my-life-pet-vet.json](./220875-my-life-pet-vet.json) |
 | My Life: Riding Stables 3 | 221690 | [221690-my-life-riding-stables-3.json](./221690-my-life-riding-stables-3.json) |
 | My Lil Afterlife | 347757 | [347757-my-lil-afterlife.json](./347757-my-lil-afterlife.json) |
+| My Lil Horror | 168168 | [168168-my-lil-horror.json](./168168-my-lil-horror.json) |
 | My Lil' Donut | 31971 | [31971-my-lil-donut.json](./31971-my-lil-donut.json) |
 | My Little Animal Boy | 279673 | [279673-my-little-animal-boy.json](./279673-my-little-animal-boy.json) |
 | My Little Cafe Nightmare | 348334 | [348334-my-little-cafe-nightmare.json](./348334-my-little-cafe-nightmare.json) |
