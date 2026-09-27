@@ -1601,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peach Clicker | 312761 | [312761-peach-clicker.json](./312761-peach-clicker.json) |
 | Peach Territory | 378438 | [378438-peach-territory.json](./378438-peach-territory.json) |
 | Peach Up | 338831 | [338831-peach-up.json](./338831-peach-up.json) |
+| Peach Up 2-Gou | 122931 | [122931-peach-up-2-gou.json](./122931-peach-up-2-gou.json) |
 | Peach's Christmas Invitation | 135215 | [135215-peachs-christmas-invitation.json](./135215-peachs-christmas-invitation.json) |
 | Peachboy Legend | 78941 | [78941-peachboy-legend.json](./78941-peachboy-legend.json) |
 | Peachleaf Valley: Seeds of Love | 152935 | [152935-peachleaf-valley-seeds-of-love.json](./152935-peachleaf-valley-seeds-of-love.json) |
@@ -7368,6 +7369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrfect Stall | 371958 | [371958-purrfect-stall.json](./371958-purrfect-stall.json) |
 | Purrfect Tanks: The Yarnpocalypse | 391064 | [391064-purrfect-tanks-the-yarnpocalypse.json](./391064-purrfect-tanks-the-yarnpocalypse.json) |
 | Purrfectly Ever After | 150041 | [150041-purrfectly-ever-after.json](./150041-purrfectly-ever-after.json) |
+| Purrkour | 122925 | [122925-purrkour.json](./122925-purrkour.json) |
 | Purrplate | 372987 | [372987-purrplate.json](./372987-purrplate.json) |
 | Purrrfect Love | 204066 | [204066-purrrfect-love.json](./204066-purrrfect-love.json) |
 | Purrrification | 365161 | [365161-purrrification.json](./365161-purrrification.json) |
