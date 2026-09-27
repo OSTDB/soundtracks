@@ -1507,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinnikuman: Kinniku-sei Oui Soudatsusen | 41324 | [41324-kinnikuman-kinniku-sei-oui-soudatsusen.json](./41324-kinnikuman-kinniku-sei-oui-soudatsusen.json) |
 | Kinnikuman: Sakuretsu! Muscle Power | 346022 | [346022-kinnikuman-sakuretsu-muscle-power.json](./346022-kinnikuman-sakuretsu-muscle-power.json) |
 | Kinnikuman: Taiketsu Akuma Choujin | 346033 | [346033-kinnikuman-taiketsu-akuma-choujin.json](./346033-kinnikuman-taiketsu-akuma-choujin.json) |
+| Kino no Tabi II: The Beautiful World | 141757 | [141757-kino-no-tabi-ii-the-beautiful-world.json](./141757-kino-no-tabi-ii-the-beautiful-world.json) |
 | KinoCon! Defend My Sweet Home! | 204396 | [204396-kinocon-defend-my-sweet-home.json](./204396-kinocon-defend-my-sweet-home.json) |
 | Kinoko | 138584 | [138584-kinoko.json](./138584-kinoko.json) |
 | Kinoko-nun | 379907 | [379907-kinoko-nun.json](./379907-kinoko-nun.json) |
