@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kata | 57094 | [57094-kata.json](./57094-kata.json) |
 | Katachi Shin Hakken! Rittai Picross 2 | 222535 | [222535-katachi-shin-hakken-rittai-picross-2.json](./222535-katachi-shin-hakken-rittai-picross-2.json) |
 | Katakis | 12652 | [12652-katakis.json](./12652-katakis.json) |
+| Katakoi Contrast: Collection of Branch | 136974 | [136974-katakoi-contrast-collection-of-branch.json](./136974-katakoi-contrast-collection-of-branch.json) |
 | Katakoi Contrast: Way of Parting Vol.1 | 116380 | [116380-katakoi-contrast-way-of-parting-vol-1.json](./116380-katakoi-contrast-way-of-parting-vol-1.json) |
 | Katakoi Contrast: Way of Parting Vol.2 | 240475 | [240475-katakoi-contrast-way-of-parting-vol-2.json](./240475-katakoi-contrast-way-of-parting-vol-2.json) |
 | Katakoi Contrast: Way of Parting Vol.3 | 240477 | [240477-katakoi-contrast-way-of-parting-vol-3.json](./240477-katakoi-contrast-way-of-parting-vol-3.json) |
@@ -2068,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi Mekuri Clover Mini Fandisk | 399195 | [399195-koi-mekuri-clover-mini-fandisk.json](./399195-koi-mekuri-clover-mini-fandisk.json) |
 | Koi Mekuri Clover: Itsuka no Kimi he, Yakusoku no Ashita wo | 399190 | [399190-koi-mekuri-clover-itsuka-no-kimi-he-yakusoku-no-ashita-wo.json](./399190-koi-mekuri-clover-itsuka-no-kimi-he-yakusoku-no-ashita-wo.json) |
 | Koi Musubi | 30780 | [30780-koi-musubi.json](./30780-koi-musubi.json) |
+| Koi no Hanasaku Hyakkaen | 136929 | [136929-koi-no-hanasaku-hyakkaen.json](./136929-koi-no-hanasaku-hyakkaen.json) |
 | Koi No Hotrock | 40230 | [40230-koi-no-hotrock.json](./40230-koi-no-hotrock.json) |
 | Koi no Tsuzuki wa Honeymoon de | 238412 | [238412-koi-no-tsuzuki-wa-honeymoon-de.json](./238412-koi-no-tsuzuki-wa-honeymoon-de.json) |
 | Koi Shiyo? | 194535 | [194535-koi-shiyo.json](./194535-koi-shiyo.json) |
