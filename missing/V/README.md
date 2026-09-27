@@ -1377,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void: Edge of Existence | 235847 | [235847-void-edge-of-existence.json](./235847-void-edge-of-existence.json) |
 | Void: Icarus | 365254 | [365254-void-icarus.json](./365254-void-icarus.json) |
 | void.Resign | 130329 | [130329-void-resign.json](./130329-void-resign.json) |
+| Void's Ballad | 163734 | [163734-voids-ballad.json](./163734-voids-ballad.json) |
 | Void's Rage | 381274 | [381274-voids-rage.json](./381274-voids-rage.json) |
 | Void/Breaker | 339626 | [339626-void-breaker.json](./339626-void-breaker.json) |
 | Voidblade | 392912 | [392912-voidblade.json](./392912-voidblade.json) |
@@ -1589,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Laser Harp | 30761 | [30761-vr-laser-harp.json](./30761-vr-laser-harp.json) |
 | VR Laser Puzzle | 96685 | [96685-vr-laser-puzzle.json](./96685-vr-laser-puzzle.json) |
 | VR Masturbate | 384634 | [384634-vr-masturbate.json](./384634-vr-masturbate.json) |
+| VR Military Reporter in Middle East (with tanks & helicopters) | 163737 | [163737-vr-military-reporter-in-middle-east-with-tanks-and-helicopters.json](./163737-vr-military-reporter-in-middle-east-with-tanks-and-helicopters.json) |
 | VR Mini Bowling | 81115 | [81115-vr-mini-bowling.json](./81115-vr-mini-bowling.json) |
 | VR Mini Golf | 138609 | [138609-vr-mini-golf.json](./138609-vr-mini-golf.json) |
 | VR Monster Awakens | 30176 | [30176-vr-monster-awakens.json](./30176-vr-monster-awakens.json) |
