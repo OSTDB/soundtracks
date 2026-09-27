@@ -1707,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order 13 | 329109 | [329109-order-13.json](./329109-order-13.json) |
 | Order 13 VR | 402889 | [402889-order-13-vr.json](./402889-order-13-vr.json) |
 | Order Automatica | 213444 | [213444-order-automatica.json](./213444-order-automatica.json) |
+| Order from Caos | 139340 | [139340-order-from-caos.json](./139340-order-from-caos.json) |
 | Order matters | 26486 | [26486-order-matters.json](./26486-order-matters.json) |
 | Order of Battle: Allies Defiant | 154565 | [154565-order-of-battle-allies-defiant.json](./154565-order-of-battle-allies-defiant.json) |
 | Order of Battle: Allies Victorious | 220614 | [220614-order-of-battle-allies-victorious.json](./220614-order-of-battle-allies-victorious.json) |
@@ -2498,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwhelmed | 260712 | [260712-overwhelmed.json](./260712-overwhelmed.json) |
 | OverWing | 337291 | [337291-overwing.json](./337291-overwing.json) |
 | Overworked | 408180 | [408180-overworked.json](./408180-overworked.json) |
+| Overworld | 139291 | [139291-overworld.json](./139291-overworld.json) |
 | Overwritten: Defeat the Net | 224630 | [224630-overwritten-defeat-the-net.json](./224630-overwritten-defeat-the-net.json) |
 | Oviraptor Hazard | 361343 | [361343-oviraptor-hazard.json](./361343-oviraptor-hazard.json) |
 | Ovis Loop | 236916 | [236916-ovis-loop.json](./236916-ovis-loop.json) |
