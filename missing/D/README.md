@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Das Rätsel in Ägypten | 81399 | [81399-das-ratsel-in-agypten.json](./81399-das-ratsel-in-agypten.json) |
 | Das Teufelswad | 301970 | [301970-das-teufelswad.json](./301970-das-teufelswad.json) |
 | Das Tier | 141155 | [141155-das-tier.json](./141155-das-tier.json) |
+| Das Überleben: Dem Großen Sprung | 172488 | [172488-das-uberleben-dem-gro-en-sprung.json](./172488-das-uberleben-dem-gro-en-sprung.json) |
 | Dasaku | 137041 | [137041-dasaku.json](./137041-dasaku.json) |
 | Dash & Roll | 285981 | [285981-dash-and-roll.json](./285981-dash-and-roll.json) |
 | Dash & Swing | 245845 | [245845-dash-and-swing.json](./245845-dash-and-swing.json) |
@@ -5031,6 +5032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Country Returns HD: Version 1.1.0 | 386852 | [386852-donkey-kong-country-returns-hd-version-1-1-0.json](./386852-donkey-kong-country-returns-hd-version-1-1-0.json) |
 | Donkey Kong Country: Barrel Maze | 231637 | [231637-donkey-kong-country-barrel-maze.json](./231637-donkey-kong-country-barrel-maze.json) |
 | Donkey Kong Country: Pacifist Mode | 361715 | [361715-donkey-kong-country-pacifist-mode.json](./361715-donkey-kong-country-pacifist-mode.json) |
+| Donkey Kong Country: The Trilogy | 172504 | [172504-donkey-kong-country-the-trilogy.json](./172504-donkey-kong-country-the-trilogy.json) |
 | Donkey Kong Craze | 191268 | [191268-donkey-kong-craze.json](./191268-donkey-kong-craze.json) |
 | Donkey Kong Heardle | 203817 | [203817-donkey-kong-heardle.json](./203817-donkey-kong-heardle.json) |
 | Donkey Kong II | 112423 | [112423-donkey-kong-ii.json](./112423-donkey-kong-ii.json) |
@@ -5399,6 +5401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dotty | 265692 | [265692-dotty.json](./265692-dotty.json) |
 | Dotzz | 26536 | [26536-dotzz.json](./26536-dotzz.json) |
 | Double Axle | 39870 | [39870-double-axle.json](./39870-double-axle.json) |
+| Double Block | 172533 | [172533-double-block.json](./172533-double-block.json) |
 | Double Bloob | 62680 | [62680-double-bloob.json](./62680-double-bloob.json) |
 | Double Breakout | 57325 | [57325-double-breakout.json](./57325-double-breakout.json) |
 | Double Bubble Blaster Madness VR | 112989 | [112989-double-bubble-blaster-madness-vr.json](./112989-double-bubble-blaster-madness-vr.json) |
