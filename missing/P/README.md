@@ -603,13 +603,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Attack/Red Baron | 95381 | [95381-panzer-attack-red-baron.json](./95381-panzer-attack-red-baron.json) |
 | Panzer Battles | 17997 | [17997-panzer-battles.json](./17997-panzer-battles.json) |
 | Panzer Campaigns Budapest '45 | 206791 | [206791-panzer-campaigns-budapest-45.json](./206791-panzer-campaigns-budapest-45.json) |
+| Panzer Campaigns: Bulge '44 Gold | 124728 | [124728-panzer-campaigns-bulge-44-gold.json](./124728-panzer-campaigns-bulge-44-gold.json) |
 | Panzer Campaigns: El Alamein '42 Gold | 124733 | [124733-panzer-campaigns-el-alamein-42-gold.json](./124733-panzer-campaigns-el-alamein-42-gold.json) |
+| Panzer Campaigns: France '40 Gold | 124717 | [124717-panzer-campaigns-france-40-gold.json](./124717-panzer-campaigns-france-40-gold.json) |
 | Panzer Campaigns: Japan '45 | 124730 | [124730-panzer-campaigns-japan-45.json](./124730-panzer-campaigns-japan-45.json) |
 | Panzer Campaigns: Japan '46 | 131998 | [131998-panzer-campaigns-japan-46.json](./131998-panzer-campaigns-japan-46.json) |
+| Panzer Campaigns: Kharkov '42 Gold | 124714 | [124714-panzer-campaigns-kharkov-42-gold.json](./124714-panzer-campaigns-kharkov-42-gold.json) |
 | Panzer Campaigns: Market-Garden '44 Gold | 124729 | [124729-panzer-campaigns-market-garden-44-gold.json](./124729-panzer-campaigns-market-garden-44-gold.json) |
+| Panzer Campaigns: Normandy '44 Gold | 124727 | [124727-panzer-campaigns-normandy-44-gold.json](./124727-panzer-campaigns-normandy-44-gold.json) |
 | Panzer Campaigns: Rumyantsev '43 | 226408 | [226408-panzer-campaigns-rumyantsev-43.json](./226408-panzer-campaigns-rumyantsev-43.json) |
 | Panzer Campaigns: Salerno '43 Gold | 124735 | [124735-panzer-campaigns-salerno-43-gold.json](./124735-panzer-campaigns-salerno-43-gold.json) |
+| Panzer Campaigns: Sealion '40 Gold | 124716 | [124716-panzer-campaigns-sealion-40-gold.json](./124716-panzer-campaigns-sealion-40-gold.json) |
 | Panzer Campaigns: Sicily '43 Gold | 124732 | [124732-panzer-campaigns-sicily-43-gold.json](./124732-panzer-campaigns-sicily-43-gold.json) |
+| Panzer Campaigns: Smolensk '41 Gold | 124715 | [124715-panzer-campaigns-smolensk-41-gold.json](./124715-panzer-campaigns-smolensk-41-gold.json) |
+| Panzer Campaigns: Stalingrad '42 Gold | 124713 | [124713-panzer-campaigns-stalingrad-42-gold.json](./124713-panzer-campaigns-stalingrad-42-gold.json) |
 | Panzer Campaigns: Tobruk '41 Gold | 124731 | [124731-panzer-campaigns-tobruk-41-gold.json](./124731-panzer-campaigns-tobruk-41-gold.json) |
 | Panzer Campaigns: Tunisia '43 Gold | 124734 | [124734-panzer-campaigns-tunisia-43-gold.json](./124734-panzer-campaigns-tunisia-43-gold.json) |
 | Panzer Corps 2: Axis Operations - 1939 | 155048 | [155048-panzer-corps-2-axis-operations-1939.json](./155048-panzer-corps-2-axis-operations-1939.json) |
@@ -3955,6 +3962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetone | 184990 | [184990-planetone.json](./184990-planetone.json) |
 | Planets 2048 | 375443 | [375443-planets-2048.json](./375443-planets-2048.json) |
 | Planets 3 | 137026 | [137026-planets-3.json](./137026-planets-3.json) |
+| Planets: The life of normalcy has ended! | 124678 | [124678-planets-the-life-of-normalcy-has-ended.json](./124678-planets-the-life-of-normalcy-has-ended.json) |
 | Planetship | 36098 | [36098-planetship.json](./36098-planetship.json) |
 | Planetside | 299854 | [299854-planetside.json](./299854-planetside.json) |
 | PlanetSide 2 | 1265 | [1265-planetside-2.json](./1265-planetside-2.json) |
@@ -5240,6 +5248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n music 7 | 78976 | [78976-popn-music-7.json](./78976-popn-music-7.json) |
 | Pop'n music 8 | 78972 | [78972-popn-music-8.json](./78972-popn-music-8.json) |
 | Pop'n music 9 | 78973 | [78973-popn-music-9.json](./78973-popn-music-9.json) |
+| Pop'n Music éclale | 124691 | [124691-popn-music-eclale.json](./124691-popn-music-eclale.json) |
 | Pop'n Music GB: Animation Melody | 209619 | [209619-popn-music-gb-animation-melody.json](./209619-popn-music-gb-animation-melody.json) |
 | Pop'n Music Iroha | 79935 | [79935-popn-music-iroha.json](./79935-popn-music-iroha.json) |
 | Pop'n Music Lapistoria | 79936 | [79936-popn-music-lapistoria.json](./79936-popn-music-lapistoria.json) |
