@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO2 Extraterrestrials: Shadows over Earth | 65459 | [65459-ufo2-extraterrestrials-shadows-over-earth.json](./65459-ufo2-extraterrestrials-shadows-over-earth.json) |
 | UFObia | 217240 | [217240-ufobia.json](./217240-ufobia.json) |
 | Ufophilia | 368145 | [368145-ufophilia.json](./368145-ufophilia.json) |
+| UfoPilot: The Phadt Menace - Steam Edition | 162707 | [162707-ufopilot-the-phadt-menace-steam-edition.json](./162707-ufopilot-the-phadt-menace-steam-edition.json) |
 | UFOs Love Cows | 60513 | [60513-ufos-love-cows.json](./60513-ufos-love-cows.json) |
 | Ufouria: The Saga 2 | 274086 | [274086-ufouria-the-saga-2.json](./274086-ufouria-the-saga-2.json) |
 | UFS League | 207883 | [207883-ufs-league.json](./207883-ufs-league.json) |
