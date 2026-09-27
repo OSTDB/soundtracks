@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Man: Destruction X | 44848 | [44848-action-man-destruction-x.json](./44848-action-man-destruction-x.json) |
 | Action News Heroes | 51614 | [51614-action-news-heroes.json](./51614-action-news-heroes.json) |
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
+| Action Pack I Prince of Persia: Revelations & Prince of Persia: Rival Swords | 159110 | [159110-action-pack-i-prince-of-persia-revelations-and-prince-of-persia-rival-swords.json](./159110-action-pack-i-prince-of-persia-revelations-and-prince-of-persia-rival-swords.json) |
 | Action Puzzle: Prism Land | 266272 | [266272-action-puzzle-prism-land.json](./266272-action-puzzle-prism-land.json) |
 | Action Quake 2 | 221842 | [221842-action-quake-2.json](./221842-action-quake-2.json) |
 | Action Quest | 24858 | [24858-action-quest.json](./24858-action-quest.json) |
@@ -3163,6 +3164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amok | 33454 | [33454-amok.json](./33454-amok.json) |
 | Amok | 95404 | [95404-amok.json](./95404-amok.json) |
 | Among Ashes | 258510 | [258510-among-ashes.json](./258510-among-ashes.json) |
+| Among Dots | 159063 | [159063-among-dots.json](./159063-among-dots.json) |
 | Among Ripples: Shallow Waters | 133793 | [133793-among-ripples-shallow-waters.json](./133793-among-ripples-shallow-waters.json) |
 | Among School Girls | 165006 | [165006-among-school-girls.json](./165006-among-school-girls.json) |
 | Among Stars | 211405 | [211405-among-stars.json](./211405-among-stars.json) |
@@ -4513,6 +4515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arashi | 183332 | [183332-arashi.json](./183332-arashi.json) |
 | Arashi Gaiden | 307254 | [307254-arashi-gaiden.json](./307254-arashi-gaiden.json) |
 | Arashi no Yoru ni | 269645 | [269645-arashi-no-yoru-ni.json](./269645-arashi-no-yoru-ni.json) |
+| Arashi: Castles of Sin | 159109 | [159109-arashi-castles-of-sin.json](./159109-arashi-castles-of-sin.json) |
 | Arasuji de Kitaeru: Hayamimi no Susume DS | 269647 | [269647-arasuji-de-kitaeru-hayamimi-no-susume-ds.json](./269647-arasuji-de-kitaeru-hayamimi-no-susume-ds.json) |
 | Arasuji de Oboeru Sokudoku no Susume DS | 269646 | [269646-arasuji-de-oboeru-sokudoku-no-susume-ds.json](./269646-arasuji-de-oboeru-sokudoku-no-susume-ds.json) |
 | Arazok's Tomb | 14264 | [14264-arazoks-tomb.json](./14264-arazoks-tomb.json) |
