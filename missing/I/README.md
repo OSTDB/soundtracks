@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Oh, So Busy...:A Week with Yoshimi | 143527 | [143527-im-oh-so-busy-a-week-with-yoshimi.json](./143527-im-oh-so-busy-a-week-with-yoshimi.json) |
 | I'm on Cirno Duty | 206931 | [206931-im-on-cirno-duty.json](./206931-im-on-cirno-duty.json) |
 | I'm on Merrymaking Watch | 237948 | [237948-im-on-merrymaking-watch.json](./237948-im-on-merrymaking-watch.json) |
+| I'm on Observation Duty 3 | 141126 | [141126-im-on-observation-duty-3.json](./141126-im-on-observation-duty-3.json) |
 | I'm on Observation Duty 4 | 184481 | [184481-im-on-observation-duty-4.json](./184481-im-on-observation-duty-4.json) |
 | I'm on Observation Duty 6 | 254443 | [254443-im-on-observation-duty-6.json](./254443-im-on-observation-duty-6.json) |
 | I'm on Sorority Duty | 372672 | [372672-im-on-sorority-duty.json](./372672-im-on-sorority-duty.json) |
