@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Spot It + Exit Station 7 + Find Room 96 + HighScore Anomaly Shop +HighScore Anomaly Underground | 319775 | [319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json](./319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json) |
 | Santa's Workshop | 343787 | [343787-santas-workshop.json](./343787-santas-workshop.json) |
 | Santa's Workshop Challenge: The North Pole Gift Adventure | 283241 | [283241-santas-workshop-challenge-the-north-pole-gift-adventure.json](./283241-santas-workshop-challenge-the-north-pole-gift-adventure.json) |
+| Santa's Workshop: Unhinged | 128550 | [128550-santas-workshop-unhinged.json](./128550-santas-workshop-unhinged.json) |
 | Santa's World | 277577 | [277577-santas-world.json](./277577-santas-world.json) |
 | Santa's Xmas Adventure | 138194 | [138194-santas-xmas-adventure.json](./138194-santas-xmas-adventure.json) |
 | SantaCraft | 141733 | [141733-santacraft.json](./141733-santacraft.json) |
@@ -3537,6 +3538,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shikoku Kororozashi Deluxe: Sake Jidori Udon Senki | 163760 | [163760-shikoku-kororozashi-deluxe-sake-jidori-udon-senki.json](./163760-shikoku-kororozashi-deluxe-sake-jidori-udon-senki.json) |
 | Shikoutei no Michi he | 223963 | [223963-shikoutei-no-michi-he.json](./223963-shikoutei-no-michi-he.json) |
 | Shil | 400483 | [400483-shil.json](./400483-shil.json) |
+| Shíliù Zhāng Mahjong | 128548 | [128548-shiliu-zhang-mahjong.json](./128548-shiliu-zhang-mahjong.json) |
+| Shíliù Zhāng Mahjong II | 128549 | [128549-shiliu-zhang-mahjong-ii.json](./128549-shiliu-zhang-mahjong-ii.json) |
 | Shimai no Omoide | 283824 | [283824-shimai-no-omoide.json](./283824-shimai-no-omoide.json) |
 | Shimajiro no Eigo Activity Ehon: ABC Park de Asobou! | 327617 | [327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json](./327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json) |
 | Shime Houmeichou | 415071 | [415071-shime-houmeichou.json](./415071-shime-houmeichou.json) |
@@ -4823,6 +4826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Single-handedly Challenge Ultimate World | 329095 | [329095-single-handedly-challenge-ultimate-world.json](./329095-single-handedly-challenge-ultimate-world.json) |
 | Single's Inferno: Choices | 342743 | [342743-singles-inferno-choices.json](./342743-singles-inferno-choices.json) |
 | Singmetosleep | 392762 | [392762-singmetosleep.json](./392762-singmetosleep.json) |
+| SingSpace | 128458 | [128458-singspace.json](./128458-singspace.json) |
 | SingStar | 15180 | [15180-singstar.json](./15180-singstar.json) |
 | Singstar Aprés-Ski Party | 136394 | [136394-singstar-apres-ski-party.json](./136394-singstar-apres-ski-party.json) |
 | SingStar Bollywood | 20769 | [20769-singstar-bollywood.json](./20769-singstar-bollywood.json) |
@@ -7916,6 +7920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul of the Ultimate Nation | 51196 | [51196-soul-of-the-ultimate-nation.json](./51196-soul-of-the-ultimate-nation.json) |
 | Soul of War: Legions | 263992 | [263992-soul-of-war-legions.json](./263992-soul-of-war-legions.json) |
 | Soul Passage | 236542 | [236542-soul-passage.json](./236542-soul-passage.json) |
+| Soul Reaper | 128464 | [128464-soul-reaper.json](./128464-soul-reaper.json) |
 | Soul Recursion | 172183 | [172183-soul-recursion.json](./172183-soul-recursion.json) |
 | Soul Redemption | 369065 | [369065-soul-redemption.json](./369065-soul-redemption.json) |
 | Soul Ride | 70976 | [70976-soul-ride.json](./70976-soul-ride.json) |
