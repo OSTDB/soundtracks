@@ -3027,6 +3027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nourish | 279709 | [279709-nourish.json](./279709-nourish.json) |
 | Nous | 142387 | [142387-nous.json](./142387-nous.json) |
 | Nous | 231094 | [231094-nous.json](./231094-nous.json) |
+| NOVA 1492 | 126543 | [126543-nova-1492.json](./126543-nova-1492.json) |
 | Nova 2001 | 38563 | [38563-nova-2001.json](./38563-nova-2001.json) |
 | Nova 9: The Return of Gir Draxon | 14516 | [14516-nova-9-the-return-of-gir-draxon.json](./14516-nova-9-the-return-of-gir-draxon.json) |
 | Nova Antarctica | 213605 | [213605-nova-antarctica.json](./213605-nova-antarctica.json) |
