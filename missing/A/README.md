@@ -1728,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air | 270403 | [270403-air.json](./270403-air.json) |
 | Air Attack | 171370 | [171370-air-attack.json](./171370-air-attack.json) |
 | Air Attack 2 | 266740 | [266740-air-attack-2.json](./266740-air-attack-2.json) |
+| Air Attack 3.0, Aerial Firefighting Game | 127851 | [127851-air-attack-3-0-aerial-firefighting-game.json](./127851-air-attack-3-0-aerial-firefighting-game.json) |
 | Air Attack 3D: Sky War | 223960 | [223960-air-attack-3d-sky-war.json](./223960-air-attack-3d-sky-war.json) |
 | Air Ball 2 | 146818 | [146818-air-ball-2.json](./146818-air-ball-2.json) |
 | Air Battle Chess | 197361 | [197361-air-battle-chess.json](./197361-air-battle-chess.json) |
@@ -3796,6 +3797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Up! | 121703 | [121703-animal-up.json](./121703-animal-up.json) |
 | Animal Village Rescue | 232170 | [232170-animal-village-rescue.json](./232170-animal-village-rescue.json) |
 | Animal Voyage: Island Adventure | 38901 | [38901-animal-voyage-island-adventure.json](./38901-animal-voyage-island-adventure.json) |
+| Animal Warfare Battle Simulator | 127872 | [127872-animal-warfare-battle-simulator.json](./127872-animal-warfare-battle-simulator.json) |
 | Animal Wars | 270138 | [270138-animal-wars.json](./270138-animal-wars.json) |
 | Animal Water Pang! | 314857 | [314857-animal-water-pang.json](./314857-animal-water-pang.json) |
 | Animal Way | 295552 | [295552-animal-way.json](./295552-animal-way.json) |
@@ -7129,6 +7131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axia | 46637 | [46637-axia.json](./46637-axia.json) |
 | Axial Disc 2 | 217408 | [217408-axial-disc-2.json](./217408-axial-disc-2.json) |
 | Axie Infinity | 109024 | [109024-axie-infinity.json](./109024-axie-infinity.json) |
+| Axiel | 127827 | [127827-axiel.json](./127827-axiel.json) |
 | Axilon: Legend of artifacts | 118842 | [118842-axilon-legend-of-artifacts.json](./118842-axilon-legend-of-artifacts.json) |
 | Axiom | 234347 | [234347-axiom.json](./234347-axiom.json) |
 | Axiom Alternative | 158589 | [158589-axiom-alternative.json](./158589-axiom-alternative.json) |
