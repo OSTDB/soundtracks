@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker II: The Doomsday Papers | 12133 | [12133-hacker-ii-the-doomsday-papers.json](./12133-hacker-ii-the-doomsday-papers.json) |
 | Hacker the Beginning | 234585 | [234585-hacker-the-beginning.json](./234585-hacker-the-beginning.json) |
 | Hacker's Adventure | 142244 | [142244-hackers-adventure.json](./142244-hackers-adventure.json) |
+| Hackerwars.io | 139874 | [139874-hackerwars-io.json](./139874-hackerwars-io.json) |
 | Hacking for Hermann | 199369 | [199369-hacking-for-hermann.json](./199369-hacking-for-hermann.json) |
 | Hacking Into Erebus | 412415 | [412415-hacking-into-erebus.json](./412415-hacking-into-erebus.json) |
 | Hacking Simulator | 256363 | [256363-hacking-simulator.json](./256363-hacking-simulator.json) |
@@ -1727,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell on Ice | 180686 | [180686-hell-on-ice.json](./180686-hell-on-ice.json) |
 | Hell Revealations | 275570 | [275570-hell-revealations.json](./275570-hell-revealations.json) |
 | Hell Revealed | 138759 | [138759-hell-revealed.json](./138759-hell-revealed.json) |
+| Hell Revealed II | 139895 | [139895-hell-revealed-ii.json](./139895-hell-revealed-ii.json) |
 | Hell Road VR | 143019 | [143019-hell-road-vr.json](./143019-hell-road-vr.json) |
 | Hell Runner | 229202 | [229202-hell-runner.json](./229202-hell-runner.json) |
 | Hell Shooter | 368654 | [368654-hell-shooter.json](./368654-hell-shooter.json) |
