@@ -787,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omizu no Hanamichi | 257113 | [257113-omizu-no-hanamichi.json](./257113-omizu-no-hanamichi.json) |
 | Ommatophilia | 288833 | [288833-ommatophilia.json](./288833-ommatophilia.json) |
 | Omni | 118164 | [118164-omni.json](./118164-omni.json) |
+| Omni Axes | 122935 | [122935-omni-axes.json](./122935-omni-axes.json) |
 | Omni Blade | 312023 | [312023-omni-blade.json](./312023-omni-blade.json) |
 | Omni Kitty | 391070 | [391070-omni-kitty.json](./391070-omni-kitty.json) |
 | Omni Magic! | 221736 | [221736-omni-magic.json](./221736-omni-magic.json) |
