@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Dungeon | 192418 | [192418-underground-dungeon.json](./192418-underground-dungeon.json) |
 | Underground Fortress | 308360 | [308360-underground-fortress.json](./308360-underground-fortress.json) |
 | Underground Life | 172676 | [172676-underground-life.json](./172676-underground-life.json) |
+| Underground Miner | 129673 | [129673-underground-miner.json](./129673-underground-miner.json) |
 | Underground Nomads | 369094 | [369094-underground-nomads.json](./369094-underground-nomads.json) |
 | Underground Prisoner | 310178 | [310178-underground-prisoner.json](./310178-underground-prisoner.json) |
 | Underground Security Inc | 367984 | [367984-underground-security-inc.json](./367984-underground-security-inc.json) |
