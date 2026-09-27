@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K19: The Prelude | 110326 | [110326-nba-2k19-the-prelude.json](./110326-nba-2k19-the-prelude.json) |
 | NBA 2K2 | 4029 | [4029-nba-2k2.json](./4029-nba-2k2.json) |
 | NBA 2K20 | 114285 | [114285-nba-2k20.json](./114285-nba-2k20.json) |
+| NBA 2K21: Mamba Forever - Legendary Edition | 146184 | [146184-nba-2k21-mamba-forever-legendary-edition.json](./146184-nba-2k21-mamba-forever-legendary-edition.json) |
 | NBA 2K21: Mamba Forever Edition | 136398 | [136398-nba-2k21-mamba-forever-edition.json](./136398-nba-2k21-mamba-forever-edition.json) |
 | NBA 2K22: Cross-Gen Digital Bundle | 158592 | [158592-nba-2k22-cross-gen-digital-bundle.json](./158592-nba-2k22-cross-gen-digital-bundle.json) |
 | NBA 2K22: NBA 75th Anniversary Edition | 158594 | [158594-nba-2k22-nba-75th-anniversary-edition.json](./158594-nba-2k22-nba-75th-anniversary-edition.json) |
