@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painted Heart | 151581 | [151581-painted-heart.json](./151581-painted-heart.json) |
 | Painted Kingdoms | 392796 | [392796-painted-kingdoms.json](./392796-painted-kingdoms.json) |
 | Painted Legend | 31896 | [31896-painted-legend.json](./31896-painted-legend.json) |
+| Painted Tomb | 125925 | [125925-painted-tomb.json](./125925-painted-tomb.json) |
 | Painter | 262091 | [262091-painter.json](./262091-painter.json) |
 | Painter Man!! | 342623 | [342623-painter-man.json](./342623-painter-man.json) |
 | Painter's Pets | 189951 | [189951-painters-pets.json](./189951-painters-pets.json) |
@@ -575,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panomap | 253875 | [253875-panomap.json](./253875-panomap.json) |
 | Panoptia | 270959 | [270959-panoptia.json](./270959-panoptia.json) |
 | Panopticon | 371242 | [371242-panopticon.json](./371242-panopticon.json) |
+| Panorama | 125901 | [125901-panorama.json](./125901-panorama.json) |
 | Panpu-ja | 254778 | [254778-panpu-ja.json](./254778-panpu-ja.json) |
 | Panspermia: Horror Myson Mansion | 232526 | [232526-panspermia-horror-myson-mansion.json](./232526-panspermia-horror-myson-mansion.json) |
 | Panta Rhei | 204090 | [204090-panta-rhei.json](./204090-panta-rhei.json) |
@@ -1190,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party, Darling? | 187210 | [187210-party-darling.json](./187210-party-darling.json) |
 | Partygoer! | 329035 | [329035-partygoer.json](./329035-partygoer.json) |
 | Pasajeros | 192426 | [192426-pasajeros.json](./192426-pasajeros.json) |
+| Pascal's Wager | 125912 | [125912-pascals-wager.json](./125912-pascals-wager.json) |
 | Pasha Planet: Reborn | 234186 | [234186-pasha-planet-reborn.json](./234186-pasha-planet-reborn.json) |
 | Pashah to Henshin: Beauty Academy | 327622 | [327622-pashah-to-henshin-beauty-academy.json](./327622-pashah-to-henshin-beauty-academy.json) |
 | Pashtet | 113705 | [113705-pashtet.json](./113705-pashtet.json) |
@@ -2403,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Point: Festering Skies | 149592 | [149592-phoenix-point-festering-skies.json](./149592-phoenix-point-festering-skies.json) |
 | Phoenix Point: Legacy of the Ancients | 149585 | [149585-phoenix-point-legacy-of-the-ancients.json](./149585-phoenix-point-legacy-of-the-ancients.json) |
 | Phoenix Point: Year One Edition - Festering Skies | 159694 | [159694-phoenix-point-year-one-edition-festering-skies.json](./159694-phoenix-point-year-one-edition-festering-skies.json) |
+| Phoenix R/C Pro Simulator v5.5 | 125934 | [125934-phoenix-r-c-pro-simulator-v5-5.json](./125934-phoenix-r-c-pro-simulator-v5-5.json) |
 | Phoenix Reborn Games Big Christmas bundle | 331484 | [331484-phoenix-reborn-games-big-christmas-bundle.json](./331484-phoenix-reborn-games-big-christmas-bundle.json) |
 | Phoenix Springs | 223363 | [223363-phoenix-springs.json](./223363-phoenix-springs.json) |
 | Phoenix Strike | 129743 | [129743-phoenix-strike.json](./129743-phoenix-strike.json) |
@@ -2754,6 +2758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigsaw: Human Abattoir | 272381 | [272381-pigsaw-human-abattoir.json](./272381-pigsaw-human-abattoir.json) |
 | Pigskin Punter! | 234336 | [234336-pigskin-punter.json](./234336-pigskin-punter.json) |
 | Pih | 375457 | [375457-pih.json](./375457-pih.json) |
+| PiiSim | 125931 | [125931-piisim.json](./125931-piisim.json) |
 | Pik's Epic Kirby Sprite Comics: Teh Game 2 | 246666 | [246666-piks-epic-kirby-sprite-comics-teh-game-2.json](./246666-piks-epic-kirby-sprite-comics-teh-game-2.json) |
 | Pika Pika Nurse Monogatari: Shounika ha Itsumo Oosawagi | 136932 | [136932-pika-pika-nurse-monogatari-shounika-ha-itsumo-oosawagi.json](./136932-pika-pika-nurse-monogatari-shounika-ha-itsumo-oosawagi.json) |
 | Pikabuu: Stop! | 357230 | [357230-pikabuu-stop.json](./357230-pikabuu-stop.json) |
@@ -6305,6 +6310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu Spirits 2013 | 63903 | [63903-pro-yakyuu-spirits-2013.json](./63903-pro-yakyuu-spirits-2013.json) |
 | Pro Yakyuu Spirits 2019 | 109606 | [109606-pro-yakyuu-spirits-2019.json](./109606-pro-yakyuu-spirits-2019.json) |
 | Pro Yakyuu Spirits 3 | 91726 | [91726-pro-yakyuu-spirits-3.json](./91726-pro-yakyuu-spirits-3.json) |
+| Pro Yakyuu Team de Asobou Net! | 125932 | [125932-pro-yakyuu-team-de-asobou-net.json](./125932-pro-yakyuu-team-de-asobou-net.json) |
 | Pro Yakyuu Team wo Tsukurou! | 69269 | [69269-pro-yakyuu-team-wo-tsukurou.json](./69269-pro-yakyuu-team-wo-tsukurou.json) |
 | Pro Yakyuu Team wo Tsukurou! 2 | 69271 | [69271-pro-yakyuu-team-wo-tsukurou-2.json](./69271-pro-yakyuu-team-wo-tsukurou-2.json) |
 | Pro Yakyuu Virtual Stadium: Professional Baseball | 268523 | [268523-pro-yakyuu-virtual-stadium-professional-baseball.json](./268523-pro-yakyuu-virtual-stadium-professional-baseball.json) |
@@ -6477,6 +6483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Chemistry | 132116 | [132116-project-chemistry.json](./132116-project-chemistry.json) |
 | Project Cobalt | 366310 | [366310-project-cobalt.json](./366310-project-cobalt.json) |
 | Project Colored Mountains | 264095 | [264095-project-colored-mountains.json](./264095-project-colored-mountains.json) |
+| Project Combat | 125922 | [125922-project-combat.json](./125922-project-combat.json) |
 | Project Confrontation | 57051 | [57051-project-confrontation.json](./57051-project-confrontation.json) |
 | Project Coreward | 275721 | [275721-project-coreward.json](./275721-project-coreward.json) |
 | Project Corner | 407549 | [407549-project-corner.json](./407549-project-corner.json) |
