@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T08:33:23.148Z",
-  "total_missing": 129726,
+  "generated_at": "2026-09-27T08:48:09.486Z",
+  "total_missing": 129776,
   "games": [
     {
       "igdb_id": 186066,
@@ -26638,6 +26638,11 @@
       "file": "missing/A/155519-antonball-deluxe-better-than-nothing.json"
     },
     {
+      "igdb_id": 155546,
+      "game_name": "Antonball Deluxe: Fixed Gold Evil Baby Paul (Shiny)",
+      "file": "missing/A/155546-antonball-deluxe-fixed-gold-evil-baby-paul-shiny.json"
+    },
+    {
       "igdb_id": 201752,
       "game_name": "Antonblast",
       "file": "missing/A/201752-antonblast.json"
@@ -48861,6 +48866,11 @@
       "igdb_id": 166160,
       "game_name": "Battle Balls",
       "file": "missing/B/166160-battle-balls.json"
+    },
+    {
+      "igdb_id": 155551,
+      "game_name": "Battle Bands: Rock & Roll Deckbuilder",
+      "file": "missing/B/155551-battle-bands-rock-and-roll-deckbuilder.json"
     },
     {
       "igdb_id": 291239,
@@ -169068,6 +169078,11 @@
       "file": "missing/E/210575-equestrian-the-game.json"
     },
     {
+      "igdb_id": 155464,
+      "game_name": "Equestrian Training",
+      "file": "missing/E/155464-equestrian-training.json"
+    },
+    {
       "igdb_id": 170999,
       "game_name": "Equilibrium",
       "file": "missing/E/170999-equilibrium.json"
@@ -182951,6 +182966,11 @@
       "igdb_id": 117567,
       "game_name": "Fat Dude Simulator",
       "file": "missing/F/117567-fat-dude-simulator.json"
+    },
+    {
+      "igdb_id": 155545,
+      "game_name": "Fat Fritz 2.0 SE",
+      "file": "missing/F/155545-fat-fritz-2-0-se.json"
     },
     {
       "igdb_id": 410970,
@@ -264141,6 +264161,11 @@
       "igdb_id": 316072,
       "game_name": "Infinos Exa",
       "file": "missing/I/316072-infinos-exa.json"
+    },
+    {
+      "igdb_id": 155462,
+      "game_name": "Inflatable doll",
+      "file": "missing/I/155462-inflatable-doll.json"
     },
     {
       "igdb_id": 177494,
@@ -346058,6 +346083,11 @@
       "file": "missing/M/214198-monsters-the-hunter-of-darkness.json"
     },
     {
+      "igdb_id": 155550,
+      "game_name": "Monsters' Den: Godfall - Protectorate Operations",
+      "file": "missing/M/155550-monsters-den-godfall-protectorate-operations.json"
+    },
+    {
       "igdb_id": 250870,
       "game_name": "Monsters' Gambits",
       "file": "missing/M/250870-monsters-gambits.json"
@@ -355463,6 +355493,11 @@
       "file": "missing/M/291061-my-sexy-neighbor.json"
     },
     {
+      "igdb_id": 155548,
+      "game_name": "My Sexy Waitress",
+      "file": "missing/M/155548-my-sexy-waitress.json"
+    },
+    {
       "igdb_id": 289432,
       "game_name": "My Shadow",
       "file": "missing/M/289432-my-shadow.json"
@@ -360128,9 +360163,64 @@
       "file": "missing/N/182537-navs-endless-nightmare.json"
     },
     {
+      "igdb_id": 155560,
+      "game_name": "Naval Action: Admiralty Connection",
+      "file": "missing/N/155560-naval-action-admiralty-connection.json"
+    },
+    {
+      "igdb_id": 155562,
+      "game_name": "Naval Action: Hercules",
+      "file": "missing/N/155562-naval-action-hercules.json"
+    },
+    {
+      "igdb_id": 155559,
+      "game_name": "Naval Action: HMS Victory 1765",
+      "file": "missing/N/155559-naval-action-hms-victory-1765.json"
+    },
+    {
+      "igdb_id": 155557,
+      "game_name": "Naval Action: L'Hermione",
+      "file": "missing/N/155557-naval-action-lhermione.json"
+    },
+    {
+      "igdb_id": 155555,
+      "game_name": "Naval Action: Le Requin",
+      "file": "missing/N/155555-naval-action-le-requin.json"
+    },
+    {
+      "igdb_id": 155558,
+      "game_name": "Naval Action: Leopard",
+      "file": "missing/N/155558-naval-action-leopard.json"
+    },
+    {
+      "igdb_id": 155561,
+      "game_name": "Naval Action: Painter",
+      "file": "missing/N/155561-naval-action-painter.json"
+    },
+    {
+      "igdb_id": 155563,
+      "game_name": "Naval Action: Prolific Forger",
+      "file": "missing/N/155563-naval-action-prolific-forger.json"
+    },
+    {
+      "igdb_id": 155564,
+      "game_name": "Naval Action: Rättvisan",
+      "file": "missing/N/155564-naval-action-rattvisan.json"
+    },
+    {
+      "igdb_id": 155556,
+      "game_name": "Naval Action: Redoutable",
+      "file": "missing/N/155556-naval-action-redoutable.json"
+    },
+    {
       "igdb_id": 249722,
       "game_name": "Naval Action: Rotterdam",
       "file": "missing/N/249722-naval-action-rotterdam.json"
+    },
+    {
+      "igdb_id": 155565,
+      "game_name": "Naval Action: Trincomalee",
+      "file": "missing/N/155565-naval-action-trincomalee.json"
     },
     {
       "igdb_id": 224533,
@@ -385791,6 +385881,11 @@
       "igdb_id": 297462,
       "game_name": "OutSider",
       "file": "missing/O/297462-outsider.json"
+    },
+    {
+      "igdb_id": 155547,
+      "game_name": "Outsider: After Life",
+      "file": "missing/O/155547-outsider-after-life.json"
     },
     {
       "igdb_id": 391871,
@@ -423801,6 +423896,11 @@
       "igdb_id": 291615,
       "game_name": "Puzzle Garage",
       "file": "missing/P/291615-puzzle-garage.json"
+    },
+    {
+      "igdb_id": 155463,
+      "game_name": "Puzzle Girl",
+      "file": "missing/P/155463-puzzle-girl.json"
     },
     {
       "igdb_id": 163913,
@@ -466683,6 +466783,16 @@
       "file": "missing/S/395844-sensory-overload.json"
     },
     {
+      "igdb_id": 155554,
+      "game_name": "Sensual Adventures: Episode 5",
+      "file": "missing/S/155554-sensual-adventures-episode-5.json"
+    },
+    {
+      "igdb_id": 155553,
+      "game_name": "Sensual Adventures: Episode 6",
+      "file": "missing/S/155553-sensual-adventures-episode-6.json"
+    },
+    {
       "igdb_id": 245856,
       "game_name": "Sensual Adventures: Episode 7",
       "file": "missing/S/245856-sensual-adventures-episode-7.json"
@@ -466696,6 +466806,11 @@
       "igdb_id": 277842,
       "game_name": "Sensual Adventures: Episode 9",
       "file": "missing/S/277842-sensual-adventures-episode-9.json"
+    },
+    {
+      "igdb_id": 155552,
+      "game_name": "Sensual Adventures: The Game",
+      "file": "missing/S/155552-sensual-adventures-the-game.json"
     },
     {
       "igdb_id": 80941,
@@ -561738,6 +561853,11 @@
       "file": "missing/T/25135-the-phantoms-revenge.json"
     },
     {
+      "igdb_id": 155465,
+      "game_name": "The Phenomenon of Edgar Allan Poe 1/2",
+      "file": "missing/T/155465-the-phenomenon-of-edgar-allan-poe-1-2.json"
+    },
+    {
       "igdb_id": 293705,
       "game_name": "The Philistine Ploy",
       "file": "missing/T/293705-the-philistine-ploy.json"
@@ -577356,6 +577476,131 @@
       "igdb_id": 160829,
       "game_name": "Tiger Tank 59 I: Break the Fog MP100",
       "file": "missing/T/160829-tiger-tank-59-i-break-the-fog-mp100.json"
+    },
+    {
+      "igdb_id": 155526,
+      "game_name": "Tiger Tank 59 I: Mission Pack 001",
+      "file": "missing/T/155526-tiger-tank-59-i-mission-pack-001.json"
+    },
+    {
+      "igdb_id": 155537,
+      "game_name": "Tiger Tank 59 I: Mission Pack 002",
+      "file": "missing/T/155537-tiger-tank-59-i-mission-pack-002.json"
+    },
+    {
+      "igdb_id": 155525,
+      "game_name": "Tiger Tank 59 I: Mission Pack 003",
+      "file": "missing/T/155525-tiger-tank-59-i-mission-pack-003.json"
+    },
+    {
+      "igdb_id": 155536,
+      "game_name": "Tiger Tank 59 I: Mission Pack 004",
+      "file": "missing/T/155536-tiger-tank-59-i-mission-pack-004.json"
+    },
+    {
+      "igdb_id": 155532,
+      "game_name": "Tiger Tank 59 I: Mission Pack 005",
+      "file": "missing/T/155532-tiger-tank-59-i-mission-pack-005.json"
+    },
+    {
+      "igdb_id": 155520,
+      "game_name": "Tiger Tank 59 I: Mission Pack 006",
+      "file": "missing/T/155520-tiger-tank-59-i-mission-pack-006.json"
+    },
+    {
+      "igdb_id": 155531,
+      "game_name": "Tiger Tank 59 I: Mission Pack 007",
+      "file": "missing/T/155531-tiger-tank-59-i-mission-pack-007.json"
+    },
+    {
+      "igdb_id": 155541,
+      "game_name": "Tiger Tank 59 I: Mission Pack 008",
+      "file": "missing/T/155541-tiger-tank-59-i-mission-pack-008.json"
+    },
+    {
+      "igdb_id": 155528,
+      "game_name": "Tiger Tank 59 I: Mission Pack 009",
+      "file": "missing/T/155528-tiger-tank-59-i-mission-pack-009.json"
+    },
+    {
+      "igdb_id": 155534,
+      "game_name": "Tiger Tank 59 I: Mission Pack 010",
+      "file": "missing/T/155534-tiger-tank-59-i-mission-pack-010.json"
+    },
+    {
+      "igdb_id": 155539,
+      "game_name": "Tiger Tank 59 I: Mission Pack 011",
+      "file": "missing/T/155539-tiger-tank-59-i-mission-pack-011.json"
+    },
+    {
+      "igdb_id": 155523,
+      "game_name": "Tiger Tank 59 I: Mission Pack 012",
+      "file": "missing/T/155523-tiger-tank-59-i-mission-pack-012.json"
+    },
+    {
+      "igdb_id": 155521,
+      "game_name": "Tiger Tank 59 I: Mission Pack 013",
+      "file": "missing/T/155521-tiger-tank-59-i-mission-pack-013.json"
+    },
+    {
+      "igdb_id": 155522,
+      "game_name": "Tiger Tank 59 I: Mission Pack 014",
+      "file": "missing/T/155522-tiger-tank-59-i-mission-pack-014.json"
+    },
+    {
+      "igdb_id": 155524,
+      "game_name": "Tiger Tank 59 I: Mission Pack 015",
+      "file": "missing/T/155524-tiger-tank-59-i-mission-pack-015.json"
+    },
+    {
+      "igdb_id": 155527,
+      "game_name": "Tiger Tank 59 I: Mission Pack 016",
+      "file": "missing/T/155527-tiger-tank-59-i-mission-pack-016.json"
+    },
+    {
+      "igdb_id": 155529,
+      "game_name": "Tiger Tank 59 I: Mission Pack 017",
+      "file": "missing/T/155529-tiger-tank-59-i-mission-pack-017.json"
+    },
+    {
+      "igdb_id": 155530,
+      "game_name": "Tiger Tank 59 I: Mission Pack 018",
+      "file": "missing/T/155530-tiger-tank-59-i-mission-pack-018.json"
+    },
+    {
+      "igdb_id": 155542,
+      "game_name": "Tiger Tank 59 I: Mission Pack 019",
+      "file": "missing/T/155542-tiger-tank-59-i-mission-pack-019.json"
+    },
+    {
+      "igdb_id": 155540,
+      "game_name": "Tiger Tank 59 I: Mission Pack 020",
+      "file": "missing/T/155540-tiger-tank-59-i-mission-pack-020.json"
+    },
+    {
+      "igdb_id": 155535,
+      "game_name": "Tiger Tank 59 I: Mission Pack 021",
+      "file": "missing/T/155535-tiger-tank-59-i-mission-pack-021.json"
+    },
+    {
+      "igdb_id": 155538,
+      "game_name": "Tiger Tank 59 I: Mission Pack 022",
+      "file": "missing/T/155538-tiger-tank-59-i-mission-pack-022.json"
+    },
+    {
+      "igdb_id": 155544,
+      "game_name": "Tiger Tank 59 I: Mission Pack 023",
+      "file": "missing/T/155544-tiger-tank-59-i-mission-pack-023.json"
+    },
+    {
+      "igdb_id": 155543,
+      "game_name": "Tiger Tank 59 I: Mission Pack 024",
+      "file": "missing/T/155543-tiger-tank-59-i-mission-pack-024.json"
+    },
+    {
+      "igdb_id": 155533,
+      "game_name": "Tiger Tank 59 I: Mission Pack 025",
+      "file": "missing/T/155533-tiger-tank-59-i-mission-pack-025.json"
     },
     {
       "igdb_id": 160333,
@@ -645701,6 +645946,11 @@
       "igdb_id": 237390,
       "game_name": "Zhiel's Mystery",
       "file": "missing/Z/237390-zhiels-mystery.json"
+    },
+    {
+      "igdb_id": 155549,
+      "game_name": "Zhījiāng Wǎngshì",
+      "file": "missing/Z/155549-zhijiang-wangshi.json"
     },
     {
       "igdb_id": 369570,
