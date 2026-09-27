@@ -4180,6 +4180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guidus | 220202 | [220202-guidus.json](./220202-guidus.json) |
 | Guild & Gals | 346258 | [346258-guild-and-gals.json](./346258-guild-and-gals.json) |
 | Guild Commander | 36097 | [36097-guild-commander.json](./36097-guild-commander.json) |
+| Guild Hall Adventures | 152803 | [152803-guild-hall-adventures.json](./152803-guild-hall-adventures.json) |
 | Guild Masters | 110317 | [110317-guild-masters.json](./110317-guild-masters.json) |
 | Guild of Darksteel | 137461 | [137461-guild-of-darksteel.json](./137461-guild-of-darksteel.json) |
 | Guild of Dungeoneering: Deluxe Edition | 54075 | [54075-guild-of-dungeoneering-deluxe-edition.json](./54075-guild-of-dungeoneering-deluxe-edition.json) |
