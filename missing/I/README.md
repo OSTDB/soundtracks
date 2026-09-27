@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icefishing v | 215101 | [215101-icefishing-v.json](./215101-icefishing-v.json) |
 | IceLine | 221129 | [221129-iceline.json](./221129-iceline.json) |
 | Iceman: Digital PlayStage | 180837 | [180837-iceman-digital-playstage.json](./180837-iceman-digital-playstage.json) |
+| Iceroyds! | 126502 | [126502-iceroyds.json](./126502-iceroyds.json) |
 | Icesolation | 116121 | [116121-icesolation.json](./116121-icesolation.json) |
 | Icewind Dale | 753 | [753-icewind-dale.json](./753-icewind-dale.json) |
 | Icewind Dale II: Collector's Edition | 232152 | [232152-icewind-dale-ii-collectors-edition.json](./232152-icewind-dale-ii-collectors-edition.json) |
