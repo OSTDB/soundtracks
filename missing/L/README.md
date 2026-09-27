@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaderboard | 15246 | [15246-leaderboard.json](./15246-leaderboard.json) |
 | Leadersheep | 183509 | [183509-leadersheep.json](./183509-leadersheep.json) |
 | Leading Company | 46004 | [46004-leading-company.json](./46004-leading-company.json) |
+| Leading Lap MPV | 138701 | [138701-leading-lap-mpv.json](./138701-leading-lap-mpv.json) |
 | Leadlight | 330903 | [330903-leadlight.json](./330903-leadlight.json) |
 | Leaf | 116865 | [116865-leaf.json](./116865-leaf.json) |
 | Leaf Blower Man: This Game Blows! | 244199 | [244199-leaf-blower-man-this-game-blows.json](./244199-leaf-blower-man-this-game-blows.json) |
