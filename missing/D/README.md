@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance It! | 317853 | [317853-dance-it.json](./317853-dance-it.json) |
 | Dance Magic | 34720 | [34720-dance-magic.json](./34720-dance-magic.json) |
 | Dance Mania | 330184 | [330184-dance-mania.json](./330184-dance-mania.json) |
+| Dance Mat Typing | 141118 | [141118-dance-mat-typing.json](./141118-dance-mat-typing.json) |
 | Dance of Cards | 210594 | [210594-dance-of-cards.json](./210594-dance-of-cards.json) |
 | Dance of Cubes | 170552 | [170552-dance-of-cubes.json](./170552-dance-of-cubes.json) |
 | Dance Of Death | 266887 | [266887-dance-of-death.json](./266887-dance-of-death.json) |
@@ -3990,6 +3991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Saga Extra Edition: The Tower of Muda | 238086 | [238086-disc-saga-extra-edition-the-tower-of-muda.json](./238086-disc-saga-extra-edition-the-tower-of-muda.json) |
 | Disc Saga: Burning Sword! | 238082 | [238082-disc-saga-burning-sword.json](./238082-disc-saga-burning-sword.json) |
 | Disc Saga: Iraisha wa Monster? | 238087 | [238087-disc-saga-iraisha-wa-monster.json](./238087-disc-saga-iraisha-wa-monster.json) |
+| Disc Space | 141087 | [141087-disc-space.json](./141087-disc-space.json) |
 | Disc Station #12 | 266479 | [266479-disc-station-12.json](./266479-disc-station-12.json) |
 | Disc Station 98 #2 | 336602 | [336602-disc-station-98-2.json](./336602-disc-station-98-2.json) |
 | Disc Station MSX #09 | 266482 | [266482-disc-station-msx-09.json](./266482-disc-station-msx-09.json) |
@@ -4565,6 +4567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Docking Doom | 271991 | [271991-docking-doom.json](./271991-docking-doom.json) |
 | Dockside Dreams: Fish & Cook Simulator | 373015 | [373015-dockside-dreams-fish-and-cook-simulator.json](./373015-dockside-dreams-fish-and-cook-simulator.json) |
 | Docomodake Boing! | 72973 | [72973-docomodake-boing.json](./72973-docomodake-boing.json) |
+| Doctor Bunny | 141127 | [141127-doctor-bunny.json](./141127-doctor-bunny.json) |
 | Doctor Fizzwizzle's Animal Rescue | 50634 | [50634-doctor-fizzwizzles-animal-rescue.json](./50634-doctor-fizzwizzles-animal-rescue.json) |
 | Doctor Galaxy | 416826 | [416826-doctor-galaxy.json](./416826-doctor-galaxy.json) |
 | Doctor Gallagher's Residence | 374842 | [374842-doctor-gallaghers-residence.json](./374842-doctor-gallaghers-residence.json) |
@@ -5754,6 +5757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Seuss': The Cat in the Hat | 5814 | [5814-dr-seuss-the-cat-in-the-hat.json](./5814-dr-seuss-the-cat-in-the-hat.json) |
 | Dr. Signal's Strange Machine | 194415 | [194415-dr-signals-strange-machine.json](./194415-dr-signals-strange-machine.json) |
 | Dr. Slump | 44828 | [44828-dr-slump.json](./44828-dr-slump.json) |
+| Dr. Stanley's House I | 141091 | [141091-dr-stanleys-house-i.json](./141091-dr-stanleys-house-i.json) |
 | Dr. Stone Battle Craft | 278451 | [278451-dr-stone-battle-craft.json](./278451-dr-stone-battle-craft.json) |
 | Dr. Tacocat | 120362 | [120362-dr-tacocat.json](./120362-dr-tacocat.json) |
 | Dr. Trolley's Problem | 117072 | [117072-dr-trolleys-problem.json](./117072-dr-trolleys-problem.json) |
@@ -5920,6 +5924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Pack | 333616 | [333616-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-pack.json](./333616-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-pack.json) |
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Part 1 | 333617 | [333617-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-1.json](./333617-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-1.json) |
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Part 2 | 333618 | [333618-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-2.json](./333618-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-2.json) |
+| Dragon Ball Z: Kakarot - Season Pass | 141113 | [141113-dragon-ball-z-kakarot-season-pass.json](./141113-dragon-ball-z-kakarot-season-pass.json) |
 | Dragon Ball Z: Kakarot - Ultimate Edition | 136271 | [136271-dragon-ball-z-kakarot-ultimate-edition.json](./136271-dragon-ball-z-kakarot-ultimate-edition.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Goku's Next Journey | 288303 | [288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json](./288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Legendary Edition | 232992 | [232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json](./232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json) |
@@ -6263,6 +6268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drain Runner | 210885 | [210885-drain-runner.json](./210885-drain-runner.json) |
 | Drains | 62662 | [62662-drains.json](./62662-drains.json) |
 | DrainSim | 303490 | [303490-drainsim.json](./303490-drainsim.json) |
+| Draíocht | 141076 | [141076-draiocht.json](./141076-draiocht.json) |
 | Drak | 168390 | [168390-drak.json](./168390-drak.json) |
 | Drak(c)ula | 298682 | [298682-drak-c-ula.json](./298682-drak-c-ula.json) |
 | Drakan: Order of the Flame | 7576 | [7576-drakan-order-of-the-flame.json](./7576-drakan-order-of-the-flame.json) |
@@ -7636,6 +7642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Durka Simulator | 236402 | [236402-durka-simulator.json](./236402-durka-simulator.json) |
 | Duru: About Mole Rats and Depression | 138724 | [138724-duru-about-mole-rats-and-depression.json](./138724-duru-about-mole-rats-and-depression.json) |
 | Dūshì Kǒngbù Gùshì | 116312 | [116312-dushi-kongbu-gushi.json](./116312-dushi-kongbu-gushi.json) |
+| Dúshlán | 141077 | [141077-dushlan.json](./141077-dushlan.json) |
 | Dusk '82 | 152265 | [152265-dusk-82.json](./152265-dusk-82.json) |
 | Dusk 12: Deadly Zone | 17738 | [17738-dusk-12-deadly-zone.json](./17738-dusk-12-deadly-zone.json) |
 | Dusk Golem's Anthology of Horror | 124193 | [124193-dusk-golems-anthology-of-horror.json](./124193-dusk-golems-anthology-of-horror.json) |
