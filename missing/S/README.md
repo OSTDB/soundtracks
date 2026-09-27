@@ -4161,6 +4161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuttlecock-H | 344464 | [344464-shuttlecock-h.json](./344464-shuttlecock-h.json) |
 | Shuuchaku Gakuen | 335668 | [335668-shuuchaku-gakuen.json](./335668-shuuchaku-gakuen.json) |
 | Shuugoku no Seventh Heim | 221259 | [221259-shuugoku-no-seventh-heim.json](./221259-shuugoku-no-seventh-heim.json) |
+| Shuujin he no Pert-em-Hru | 146169 | [146169-shuujin-he-no-pert-em-hru.json](./146169-shuujin-he-no-pert-em-hru.json) |
 | Shuumatsu no Sugoshikata: The world is drawing to an W/end | 326047 | [326047-shuumatsu-no-sugoshikata-the-world-is-drawing-to-an-w-end.json](./326047-shuumatsu-no-sugoshikata-the-world-is-drawing-to-an-w-end.json) |
 | Shuusou Gyoku | 123608 | [123608-shuusou-gyoku.json](./123608-shuusou-gyoku.json) |
 | Shuutai Headless | 150575 | [150575-shuutai-headless.json](./150575-shuutai-headless.json) |
@@ -5073,6 +5074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketchbook Squad | 397778 | [397778-sketchbook-squad.json](./397778-sketchbook-squad.json) |
 | Sketchcross | 52824 | [52824-sketchcross.json](./52824-sketchcross.json) |
 | Sketchfab VR | 32920 | [32920-sketchfab-vr.json](./32920-sketchfab-vr.json) |
+| SketchFighter 4000 Alpha | 146190 | [146190-sketchfighter-4000-alpha.json](./146190-sketchfighter-4000-alpha.json) |
 | Sketchful.io | 122975 | [122975-sketchful-io.json](./122975-sketchful-io.json) |
 | Sketchy | 54461 | [54461-sketchy.json](./54461-sketchy.json) |
 | Sketchy 2 | 54460 | [54460-sketchy-2.json](./54460-sketchy-2.json) |
@@ -5780,6 +5782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slither Realm | 388946 | [388946-slither-realm.json](./388946-slither-realm.json) |
 | Slither Snake IO 2018 | 101372 | [101372-slither-snake-io-2018.json](./101372-slither-snake-io-2018.json) |
 | Slither.io | 239311 | [239311-slither-io.json](./239311-slither-io.json) |
+| Slithereens | 146177 | [146177-slithereens.json](./146177-slithereens.json) |
 | Slitherin' | 176363 | [176363-slitherin.json](./176363-slitherin.json) |
 | Slitherine's Legion | 200109 | [200109-slitherines-legion.json](./200109-slitherines-legion.json) |
 | Slitherise | 318967 | [318967-slitherise.json](./318967-slitherise.json) |
@@ -8481,6 +8484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space War: Infinity | 118608 | [118608-space-war-infinity.json](./118608-space-war-infinity.json) |
 | Space War: Protect the Moon | 110289 | [110289-space-war-protect-the-moon.json](./110289-space-war-protect-the-moon.json) |
 | Space Warlord Baby Trading Simulator | 380432 | [380432-space-warlord-baby-trading-simulator.json](./380432-space-warlord-baby-trading-simulator.json) |
+| Space Warrior | 146220 | [146220-space-warrior.json](./146220-space-warrior.json) |
 | Space Wars | 125377 | [125377-space-wars.json](./125377-space-wars.json) |
 | Space Wars | 187507 | [187507-space-wars.json](./187507-space-wars.json) |
 | Space Wars | 19372 | [19372-space-wars.json](./19372-space-wars.json) |
@@ -13028,6 +13032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Gerball | 89179 | [89179-super-gerball.json](./89179-super-gerball.json) |
 | Super Gerry | 113641 | [113641-super-gerry.json](./113641-super-gerry.json) |
 | Super Ghouls'n Ghosts Restoration | 247446 | [247446-super-ghoulsn-ghosts-restoration.json](./247446-super-ghoulsn-ghosts-restoration.json) |
+| Super Glitch Dash | 146221 | [146221-super-glitch-dash.json](./146221-super-glitch-dash.json) |
 | Super Glovekid | 317352 | [317352-super-glovekid.json](./317352-super-glovekid.json) |
 | Super Goal! | 76999 | [76999-super-goal.json](./76999-super-goal.json) |
 | Super Gobang | 152782 | [152782-super-gobang.json](./152782-super-gobang.json) |
@@ -13984,6 +13989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tower Rush | 50849 | [50849-super-tower-rush.json](./50849-super-tower-rush.json) |
 | Super Toxicboy | 130165 | [130165-super-toxicboy.json](./130165-super-toxicboy.json) |
 | Super Toy Cars 1 & 2 Bundle | 208579 | [208579-super-toy-cars-1-and-2-bundle.json](./208579-super-toy-cars-1-and-2-bundle.json) |
+| Super Toy Cars 2: Ultimate Racing | 146179 | [146179-super-toy-cars-2-ultimate-racing.json](./146179-super-toy-cars-2-ultimate-racing.json) |
 | Super Toy Cars Collection | 204083 | [204083-super-toy-cars-collection.json](./204083-super-toy-cars-collection.json) |
 | Super Toy Cars Offroad | 173959 | [173959-super-toy-cars-offroad.json](./173959-super-toy-cars-offroad.json) |
 | Super Trailblazers | 339475 | [339475-super-trailblazers.json](./339475-super-trailblazers.json) |
