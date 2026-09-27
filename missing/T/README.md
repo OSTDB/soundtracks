@@ -1535,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken: Dark Resurrection | 389439 | [389439-tekken-dark-resurrection.json](./389439-tekken-dark-resurrection.json) |
 | Tekkyuuman | 73245 | [73245-tekkyuuman.json](./73245-tekkyuuman.json) |
 | Tekla | 218586 | [218586-tekla.json](./218586-tekla.json) |
+| Tekling 2: Overdrive | 170314 | [170314-tekling-2-overdrive.json](./170314-tekling-2-overdrive.json) |
 | TeknoKinetica | 316625 | [316625-teknokinetica.json](./316625-teknokinetica.json) |
 | Teko | 378262 | [378262-teko.json](./378262-teko.json) |
 | Tekoha: A Tale Among the Stars | 237343 | [237343-tekoha-a-tale-among-the-stars.json](./237343-tekoha-a-tale-among-the-stars.json) |
@@ -2965,6 +2966,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Catalyst Acolyte Tower Defense | 311150 | [311150-the-catalyst-acolyte-tower-defense.json](./311150-the-catalyst-acolyte-tower-defense.json) |
 | The Catch: Carp & Coarse - Collector's Edition | 141891 | [141891-the-catch-carp-and-coarse-collectors-edition.json](./141891-the-catch-carp-and-coarse-collectors-edition.json) |
 | The Catch: Carp & Coarse - Deluxe Edition | 233014 | [233014-the-catch-carp-and-coarse-deluxe-edition.json](./233014-the-catch-carp-and-coarse-deluxe-edition.json) |
+| The Catch: Carp & Coarse Fishing - Jezioro Bestii | 170326 | [170326-the-catch-carp-and-coarse-fishing-jezioro-bestii.json](./170326-the-catch-carp-and-coarse-fishing-jezioro-bestii.json) |
+| The Catch: Carp & Coarse Fishing - Lake Beasts Equipment Pack | 170325 | [170325-the-catch-carp-and-coarse-fishing-lake-beasts-equipment-pack.json](./170325-the-catch-carp-and-coarse-fishing-lake-beasts-equipment-pack.json) |
 | The Catch! | 262074 | [262074-the-catch.json](./262074-the-catch.json) |
 | The Cats of Ulthar | 182557 | [182557-the-cats-of-ulthar.json](./182557-the-cats-of-ulthar.json) |
 | The Cave | 2175 | [2175-the-cave.json](./2175-the-cave.json) |
