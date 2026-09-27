@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T09:33:26.268Z",
-  "total_missing": 129926,
+  "generated_at": "2026-09-27T09:48:21.996Z",
+  "total_missing": 129976,
   "games": [
     {
       "igdb_id": 186066,
@@ -28403,6 +28403,11 @@
       "file": "missing/A/373612-aquaville.json"
     },
     {
+      "igdb_id": 153334,
+      "game_name": "Aquillanto",
+      "file": "missing/A/153334-aquillanto.json"
+    },
+    {
       "igdb_id": 293095,
       "game_name": "Aquis",
       "file": "missing/A/293095-aquis.json"
@@ -47491,6 +47496,11 @@
       "igdb_id": 208909,
       "game_name": "Base Defense!",
       "file": "missing/B/208909-base-defense.json"
+    },
+    {
+      "igdb_id": 153323,
+      "game_name": "Base Jump",
+      "file": "missing/B/153323-base-jump.json"
     },
     {
       "igdb_id": 199114,
@@ -72098,6 +72108,11 @@
       "file": "missing/B/200048-breakbeat-alley.json"
     },
     {
+      "igdb_id": 153330,
+      "game_name": "BreakBlast",
+      "file": "missing/B/153330-breakblast.json"
+    },
+    {
       "igdb_id": 175825,
       "game_name": "Breaker",
       "file": "missing/B/175825-breaker.json"
@@ -78226,6 +78241,11 @@
       "igdb_id": 186180,
       "game_name": "Butterflowers",
       "file": "missing/B/186180-butterflowers.json"
+    },
+    {
+      "igdb_id": 153340,
+      "game_name": "Butterfly 3: Funny Twins",
+      "file": "missing/B/153340-butterfly-3-funny-twins.json"
     },
     {
       "igdb_id": 381148,
@@ -89348,6 +89368,11 @@
       "file": "missing/C/96651-ceress-and-orea.json"
     },
     {
+      "igdb_id": 153337,
+      "game_name": "Cerevrum",
+      "file": "missing/C/153337-cerevrum.json"
+    },
+    {
       "igdb_id": 176382,
       "game_name": "Cerkio",
       "file": "missing/C/176382-cerkio.json"
@@ -98136,6 +98161,11 @@
       "igdb_id": 382912,
       "game_name": "Clash of Vikings",
       "file": "missing/C/382912-clash-of-vikings.json"
+    },
+    {
+      "igdb_id": 153333,
+      "game_name": "Clash of Warlords",
+      "file": "missing/C/153333-clash-of-warlords.json"
     },
     {
       "igdb_id": 56428,
@@ -120318,6 +120348,11 @@
       "file": "missing/C/264679-cyberpigeon.json"
     },
     {
+      "igdb_id": 153343,
+      "game_name": "Cyberplug",
+      "file": "missing/C/153343-cyberplug.json"
+    },
+    {
       "igdb_id": 158691,
       "game_name": "Cyberpunch",
       "file": "missing/C/158691-cyberpunch.json"
@@ -124576,6 +124611,11 @@
       "igdb_id": 239755,
       "game_name": "Dark Rune",
       "file": "missing/D/239755-dark-rune.json"
+    },
+    {
+      "igdb_id": 153346,
+      "game_name": "Dark Runner",
+      "file": "missing/D/153346-dark-runner.json"
     },
     {
       "igdb_id": 290909,
@@ -154053,6 +154093,11 @@
       "file": "missing/D/39826-drift-out-94-the-hard-order.json"
     },
     {
+      "igdb_id": 153325,
+      "game_name": "Drift Phonk 666",
+      "file": "missing/D/153325-drift-phonk-666.json"
+    },
+    {
       "igdb_id": 245834,
       "game_name": "Drift Reign",
       "file": "missing/D/245834-drift-reign.json"
@@ -176688,6 +176733,11 @@
       "file": "missing/E/358514-eyepuppet-company.json"
     },
     {
+      "igdb_id": 153321,
+      "game_name": "EyeRoll",
+      "file": "missing/E/153321-eyeroll.json"
+    },
+    {
       "igdb_id": 299142,
       "game_name": "Eyes",
       "file": "missing/E/299142-eyes.json"
@@ -191833,6 +191883,11 @@
       "file": "missing/F/232946-flaming-thunderer.json"
     },
     {
+      "igdb_id": 153319,
+      "game_name": "Flaming/Million",
+      "file": "missing/F/153319-flaming-million.json"
+    },
+    {
       "igdb_id": 229635,
       "game_name": "Flamingo Quest",
       "file": "missing/F/229635-flamingo-quest.json"
@@ -205706,6 +205761,11 @@
       "igdb_id": 203846,
       "game_name": "Futsuma Shoujo Charlotte",
       "file": "missing/F/203846-futsuma-shoujo-charlotte.json"
+    },
+    {
+      "igdb_id": 153324,
+      "game_name": "Futuclass Chemistry VR",
+      "file": "missing/F/153324-futuclass-chemistry-vr.json"
     },
     {
       "igdb_id": 170492,
@@ -221263,6 +221323,11 @@
       "file": "missing/G/350616-goudall.json"
     },
     {
+      "igdb_id": 153336,
+      "game_name": "Gǒudàn Shénmàoxiǎn: Hěn Shǎ Hěn Tiānzhēn",
+      "file": "missing/G/153336-goudan-shenmaoxian-hen-sha-hen-tianzhen.json"
+    },
+    {
       "igdb_id": 333077,
       "game_name": "Goudou Manif",
       "file": "missing/G/333077-goudou-manif.json"
@@ -232923,6 +232988,11 @@
       "file": "missing/H/273979-happy-world.json"
     },
     {
+      "igdb_id": 153341,
+      "game_name": "Happy Z-Day",
+      "file": "missing/H/153341-happy-z-day.json"
+    },
+    {
       "igdb_id": 193937,
       "game_name": "Happy Zone",
       "file": "missing/H/193937-happy-zone.json"
@@ -242711,6 +242781,11 @@
       "igdb_id": 313472,
       "game_name": "Hexcodle",
       "file": "missing/H/313472-hexcodle.json"
+    },
+    {
+      "igdb_id": 153342,
+      "game_name": "Hexcraft: Harlequin Fair",
+      "file": "missing/H/153342-hexcraft-harlequin-fair.json"
     },
     {
       "igdb_id": 413606,
@@ -273066,6 +273141,11 @@
       "igdb_id": 286508,
       "game_name": "Jerry McPartlin: Rebel with a Cause",
       "file": "missing/J/286508-jerry-mcpartlin-rebel-with-a-cause.json"
+    },
+    {
+      "igdb_id": 153339,
+      "game_name": "Jerry Wanker and the Quest to get Laid",
+      "file": "missing/J/153339-jerry-wanker-and-the-quest-to-get-laid.json"
     },
     {
       "igdb_id": 46256,
@@ -303708,6 +303788,11 @@
       "file": "missing/L/117774-link-the-animals.json"
     },
     {
+      "igdb_id": 153317,
+      "game_name": "Link Wars",
+      "file": "missing/L/153317-link-wars.json"
+    },
+    {
       "igdb_id": 8532,
       "game_name": "Link: The Faces of Evil",
       "file": "missing/L/8532-link-the-faces-of-evil.json"
@@ -304821,6 +304906,11 @@
       "igdb_id": 81331,
       "game_name": "Little Magic",
       "file": "missing/L/81331-little-magic.json"
+    },
+    {
+      "igdb_id": 153332,
+      "game_name": "Little Martian",
+      "file": "missing/L/153332-little-martian.json"
     },
     {
       "igdb_id": 106984,
@@ -314273,6 +314363,11 @@
       "file": "missing/M/41408-mad-stalker-full-metal-force.json"
     },
     {
+      "igdb_id": 153327,
+      "game_name": "Mad Taxi",
+      "file": "missing/M/153327-mad-taxi.json"
+    },
+    {
       "igdb_id": 294135,
       "game_name": "Mad Valley",
       "file": "missing/M/294135-mad-valley.json"
@@ -315236,6 +315331,11 @@
       "igdb_id": 295279,
       "game_name": "Mage Hunt: Spellshifter",
       "file": "missing/M/295279-mage-hunt-spellshifter.json"
+    },
+    {
+      "igdb_id": 153315,
+      "game_name": "Mage Hunters",
+      "file": "missing/M/153315-mage-hunters.json"
     },
     {
       "igdb_id": 20576,
@@ -324133,6 +324233,11 @@
       "file": "missing/M/81419-master-of-meteor-blades.json"
     },
     {
+      "igdb_id": 153318,
+      "game_name": "Master of Miracles",
+      "file": "missing/M/153318-master-of-miracles.json"
+    },
+    {
       "igdb_id": 387005,
       "game_name": "Master of Monsters",
       "file": "missing/M/387005-master-of-monsters.json"
@@ -332743,6 +332848,11 @@
       "file": "missing/M/350403-mesorift-survival.json"
     },
     {
+      "igdb_id": 153329,
+      "game_name": "Mess Adventures",
+      "file": "missing/M/153329-mess-adventures.json"
+    },
+    {
       "igdb_id": 187819,
       "game_name": "Mess Adventures 2",
       "file": "missing/M/187819-mess-adventures-2.json"
@@ -340411,6 +340521,11 @@
       "igdb_id": 222544,
       "game_name": "Miracle Tunes! Game de Tune Up! Da Pun!",
       "file": "missing/M/222544-miracle-tunes-game-de-tune-up-da-pun.json"
+    },
+    {
+      "igdb_id": 153345,
+      "game_name": "Miracle Warrior of Mountains and Seas",
+      "file": "missing/M/153345-miracle-warrior-of-mountains-and-seas.json"
     },
     {
       "igdb_id": 47526,
@@ -394313,6 +394428,11 @@
       "file": "missing/P/302432-pavement-pummel.json"
     },
     {
+      "igdb_id": 153322,
+      "game_name": "Pavlov's House",
+      "file": "missing/P/153322-pavlovs-house.json"
+    },
+    {
       "igdb_id": 116378,
       "game_name": "Pavor",
       "file": "missing/P/116378-pavor.json"
@@ -395916,6 +396036,11 @@
       "igdb_id": 400478,
       "game_name": "Pemkie Island",
       "file": "missing/P/400478-pemkie-island.json"
+    },
+    {
+      "igdb_id": 153320,
+      "game_name": "Pemsa",
+      "file": "missing/P/153320-pemsa.json"
     },
     {
       "igdb_id": 147799,
@@ -397841,6 +397966,11 @@
       "igdb_id": 225876,
       "game_name": "Petadachi",
       "file": "missing/P/225876-petadachi.json"
+    },
+    {
+      "igdb_id": 153331,
+      "game_name": "Petals of the Star Curtain",
+      "file": "missing/P/153331-petals-of-the-star-curtain.json"
     },
     {
       "igdb_id": 401828,
@@ -426508,6 +426638,11 @@
       "file": "missing/Q/247994-quantum-of-soul.json"
     },
     {
+      "igdb_id": 153338,
+      "game_name": "Quantum Paradox",
+      "file": "missing/Q/153338-quantum-paradox.json"
+    },
+    {
       "igdb_id": 252766,
       "game_name": "Quantum Phantom Basketball",
       "file": "missing/Q/252766-quantum-phantom-basketball.json"
@@ -428976,6 +429111,11 @@
       "igdb_id": 226724,
       "game_name": "Race: Rocket Arena Car Extreme",
       "file": "missing/R/226724-race-rocket-arena-car-extreme.json"
+    },
+    {
+      "igdb_id": 153328,
+      "game_name": "Race: Total Toon Race",
+      "file": "missing/R/153328-race-total-toon-race.json"
     },
     {
       "igdb_id": 36114,
@@ -476401,6 +476541,11 @@
       "igdb_id": 341475,
       "game_name": "Shutterbuds",
       "file": "missing/S/341475-shutterbuds.json"
+    },
+    {
+      "igdb_id": 153326,
+      "game_name": "Shuttle Commander",
+      "file": "missing/S/153326-shuttle-commander.json"
     },
     {
       "igdb_id": 213931,
@@ -532608,6 +532753,11 @@
       "file": "missing/T/220861-tahoe-dragon-the-beginning.json"
     },
     {
+      "igdb_id": 153347,
+      "game_name": "Taiga",
+      "file": "missing/T/153347-taiga.json"
+    },
+    {
       "igdb_id": 199514,
       "game_name": "Taiga",
       "file": "missing/T/199514-taiga.json"
@@ -552966,6 +553116,11 @@
       "igdb_id": 213595,
       "game_name": "The Great Dick Invasion",
       "file": "missing/T/213595-the-great-dick-invasion.json"
+    },
+    {
+      "igdb_id": 153335,
+      "game_name": "The Great Empire: Relic of Egypt",
+      "file": "missing/T/153335-the-great-empire-relic-of-egypt.json"
     },
     {
       "igdb_id": 336566,
@@ -589778,6 +589933,11 @@
       "file": "missing/T/403575-toypunk.json"
     },
     {
+      "igdb_id": 153314,
+      "game_name": "Toys & Physics",
+      "file": "missing/T/153314-toys-and-physics.json"
+    },
+    {
       "igdb_id": 82822,
       "game_name": "Toys Dream",
       "file": "missing/T/82822-toys-dream.json"
@@ -592818,6 +592978,11 @@
       "file": "missing/T/153280-trainz-railroad-simulator-2019-canadian-rocky-mountains-rogers-pass.json"
     },
     {
+      "igdb_id": 153251,
+      "game_name": "Trainz Railroad Simulator 2019: Canadian Rocky Mountains Ottertail to Castle Jct",
+      "file": "missing/T/153251-trainz-railroad-simulator-2019-canadian-rocky-mountains-ottertail-to-castle-jct.json"
+    },
+    {
       "igdb_id": 153288,
       "game_name": "Trainz Railroad Simulator 2019: Canadian Rocky Mountains Viktor Lake to Ross Peak and Glacier",
       "file": "missing/T/153288-trainz-railroad-simulator-2019-canadian-rocky-mountains-viktor-lake-to-ross-peak-and-glacier.json"
@@ -592958,6 +593123,16 @@
       "file": "missing/T/227284-trainz-railroad-simulator-2019-dr-db-dbmtrue-dbmu748-pack.json"
     },
     {
+      "igdb_id": 153250,
+      "game_name": "Trainz Railroad Simulator 2019: EMD GP50 - Burlington Northern (Phase I)",
+      "file": "missing/T/153250-trainz-railroad-simulator-2019-emd-gp50-burlington-northern-phase-i.json"
+    },
+    {
+      "igdb_id": 153249,
+      "game_name": "Trainz Railroad Simulator 2019: EMD GP50 - FRISCO",
+      "file": "missing/T/153249-trainz-railroad-simulator-2019-emd-gp50-frisco.json"
+    },
+    {
       "igdb_id": 153266,
       "game_name": "Trainz Railroad Simulator 2019: EMD SD40-2 - Maersk",
       "file": "missing/T/153266-trainz-railroad-simulator-2019-emd-sd40-2-maersk.json"
@@ -592966,6 +593141,11 @@
       "igdb_id": 167780,
       "game_name": "Trainz Railroad Simulator 2019: ETR 1000 - Frecciarossa",
       "file": "missing/T/167780-trainz-railroad-simulator-2019-etr-1000-frecciarossa.json"
+    },
+    {
+      "igdb_id": 153247,
+      "game_name": "Trainz Railroad Simulator 2019: Fall Harvest Nebraska",
+      "file": "missing/T/153247-trainz-railroad-simulator-2019-fall-harvest-nebraska.json"
     },
     {
       "igdb_id": 162702,
@@ -592991,6 +593171,11 @@
       "igdb_id": 162701,
       "game_name": "Trainz Railroad Simulator 2019: L&N M1 2-8-4 Big Emma",
       "file": "missing/T/162701-trainz-railroad-simulator-2019-l-and-n-m1-2-8-4-big-emma.json"
+    },
+    {
+      "igdb_id": 153252,
+      "game_name": "Trainz Railroad Simulator 2019: Lafond Regional Railway",
+      "file": "missing/T/153252-trainz-railroad-simulator-2019-lafond-regional-railway.json"
     },
     {
       "igdb_id": 153272,
@@ -593216,6 +593401,11 @@
       "igdb_id": 190707,
       "game_name": "Trainz Railroad Simulator 2019: VR Healesville 1913-1920 TRS19",
       "file": "missing/T/190707-trainz-railroad-simulator-2019-vr-healesville-1913-1920-trs19.json"
+    },
+    {
+      "igdb_id": 153248,
+      "game_name": "Trainz Railroad Simulator 2019: ZecRail V499 Blue & Gold and Christmas 2019",
+      "file": "missing/T/153248-trainz-railroad-simulator-2019-zecrail-v499-blue-and-gold-and-christmas-2019.json"
     },
     {
       "igdb_id": 195792,
@@ -593558,6 +593748,16 @@
       "file": "missing/T/162688-trainz-a-new-era-ns-sd60e-6963-gorail.json"
     },
     {
+      "igdb_id": 153307,
+      "game_name": "Trainz: A New Era - Route: Appen",
+      "file": "missing/T/153307-trainz-a-new-era-route-appen.json"
+    },
+    {
+      "igdb_id": 153303,
+      "game_name": "Trainz: A New Era - Route: Balezino Mosti",
+      "file": "missing/T/153303-trainz-a-new-era-route-balezino-mosti.json"
+    },
+    {
       "igdb_id": 153302,
       "game_name": "Trainz: A New Era - Route: Bea-Dawe Model Railway",
       "file": "missing/T/153302-trainz-a-new-era-route-bea-dawe-model-railway.json"
@@ -593566,6 +593766,11 @@
       "igdb_id": 153294,
       "game_name": "Trainz: A New Era - Route: Beavermouth to Ottertail",
       "file": "missing/T/153294-trainz-a-new-era-route-beavermouth-to-ottertail.json"
+    },
+    {
+      "igdb_id": 153310,
+      "game_name": "Trainz: A New Era - Route: Belarusian Woodland",
+      "file": "missing/T/153310-trainz-a-new-era-route-belarusian-woodland.json"
     },
     {
       "igdb_id": 153296,
@@ -593578,9 +593783,24 @@
       "file": "missing/T/153293-trainz-a-new-era-route-canadian-rocky-mountains-columbia-river-basin.json"
     },
     {
+      "igdb_id": 153308,
+      "game_name": "Trainz: A New Era - Route: Chiyoda Branch Line",
+      "file": "missing/T/153308-trainz-a-new-era-route-chiyoda-branch-line.json"
+    },
+    {
+      "igdb_id": 153312,
+      "game_name": "Trainz: A New Era - Route: Coal Country",
+      "file": "missing/T/153312-trainz-a-new-era-route-coal-country.json"
+    },
+    {
       "igdb_id": 153295,
       "game_name": "Trainz: A New Era - Route: Cornish Mainline & Branches",
       "file": "missing/T/153295-trainz-a-new-era-route-cornish-mainline-and-branches.json"
+    },
+    {
+      "igdb_id": 153305,
+      "game_name": "Trainz: A New Era - Route: Fall Harvest Nebraska",
+      "file": "missing/T/153305-trainz-a-new-era-route-fall-harvest-nebraska.json"
     },
     {
       "igdb_id": 153298,
@@ -593593,14 +593813,39 @@
       "file": "missing/T/153297-trainz-a-new-era-route-japan-model-trainz.json"
     },
     {
+      "igdb_id": 153311,
+      "game_name": "Trainz: A New Era - Route: Legacy of the Burlington Northern II",
+      "file": "missing/T/153311-trainz-a-new-era-route-legacy-of-the-burlington-northern-ii.json"
+    },
+    {
+      "igdb_id": 153304,
+      "game_name": "Trainz: A New Era - Route: Midwestern Branch",
+      "file": "missing/T/153304-trainz-a-new-era-route-midwestern-branch.json"
+    },
+    {
       "igdb_id": 153301,
       "game_name": "Trainz: A New Era - Route: Mojave Sub Division",
       "file": "missing/T/153301-trainz-a-new-era-route-mojave-sub-division.json"
     },
     {
+      "igdb_id": 153309,
+      "game_name": "Trainz: A New Era - Route: Niddertalbahn",
+      "file": "missing/T/153309-trainz-a-new-era-route-niddertalbahn.json"
+    },
+    {
+      "igdb_id": 153306,
+      "game_name": "Trainz: A New Era - Route: Port Zyd & Fulazturn Railroad",
+      "file": "missing/T/153306-trainz-a-new-era-route-port-zyd-and-fulazturn-railroad.json"
+    },
+    {
       "igdb_id": 153299,
       "game_name": "Trainz: A New Era - Route: Rostovsky Uzel",
       "file": "missing/T/153299-trainz-a-new-era-route-rostovsky-uzel.json"
+    },
+    {
+      "igdb_id": 153313,
+      "game_name": "Trainz: A New Era - Route: Settle and Carlisle",
+      "file": "missing/T/153313-trainz-a-new-era-route-settle-and-carlisle.json"
     },
     {
       "igdb_id": 153300,
@@ -645291,6 +645536,11 @@
       "igdb_id": 149519,
       "game_name": "Zball II",
       "file": "missing/Z/149519-zball-ii.json"
+    },
+    {
+      "igdb_id": 153316,
+      "game_name": "Zball IV",
+      "file": "missing/Z/153316-zball-iv.json"
     },
     {
       "igdb_id": 158574,
