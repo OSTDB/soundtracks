@@ -2542,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maya's Mission | 388755 | [388755-mayas-mission.json](./388755-mayas-mission.json) |
 | Mayak | 378419 | [378419-mayak.json](./378419-mayak.json) |
 | Mayan Mishap | 256820 | [256820-mayan-mishap.json](./256820-mayan-mishap.json) |
+| Mayan Prophecies Collection | 144872 | [144872-mayan-prophecies-collection.json](./144872-mayan-prophecies-collection.json) |
 | Mayan Prophecies: Blood Moon - Collector's Edition | 88199 | [88199-mayan-prophecies-blood-moon-collectors-edition.json](./88199-mayan-prophecies-blood-moon-collectors-edition.json) |
 | Mayan Reynolds | 260664 | [260664-mayan-reynolds.json](./260664-mayan-reynolds.json) |
 | Maybe I Can | 153957 | [153957-maybe-i-can.json](./153957-maybe-i-can.json) |
@@ -3277,6 +3278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megachud | 349946 | [349946-megachud.json](./349946-megachud.json) |
 | Megacobra vs. Sharkbat | 368563 | [368563-megacobra-vs-sharkbat.json](./368563-megacobra-vs-sharkbat.json) |
 | Megacop | 117663 | [117663-megacop.json](./117663-megacop.json) |
+| Megacraft Hentai Edition | 144886 | [144886-megacraft-hentai-edition.json](./144886-megacraft-hentai-edition.json) |
 | Megacraft Hentai Survival | 149428 | [149428-megacraft-hentai-survival.json](./149428-megacraft-hentai-survival.json) |
 | MegaCryptoPolis | 182339 | [182339-megacryptopolis.json](./182339-megacryptopolis.json) |
 | Megadeka | 344474 | [344474-megadeka.json](./344474-megadeka.json) |
