@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narcissus | 335682 | [335682-narcissus.json](./335682-narcissus.json) |
 | Narco Express | 353399 | [353399-narco-express.json](./353399-narco-express.json) |
 | Narco Terror | 16446 | [16446-narco-terror.json](./16446-narco-terror.json) |
+| Narco Tycoon | 153896 | [153896-narco-tycoon.json](./153896-narco-tycoon.json) |
 | NarcoGuerra | 50217 | [50217-narcoguerra.json](./50217-narcoguerra.json) |
 | Narcolepsy | 91415 | [91415-narcolepsy.json](./91415-narcolepsy.json) |
 | Narcos: Rise of the Cartels | 112409 | [112409-narcos-rise-of-the-cartels.json](./112409-narcos-rise-of-the-cartels.json) |
@@ -1376,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Ganymede | 266783 | [266783-new-ganymede.json](./266783-new-ganymede.json) |
 | New Ghostbusters II | 3658 | [3658-new-ghostbusters-ii.json](./3658-new-ghostbusters-ii.json) |
 | New Gundam Breaker: Gunpla Figure Premium Edition | 167159 | [167159-new-gundam-breaker-gunpla-figure-premium-edition.json](./167159-new-gundam-breaker-gunpla-figure-premium-edition.json) |
+| New Home: Medieval Village | 153903 | [153903-new-home-medieval-village.json](./153903-new-home-medieval-village.json) |
 | New Homestead | 159721 | [159721-new-homestead.json](./159721-new-homestead.json) |
 | New Hope | 304058 | [304058-new-hope.json](./304058-new-hope.json) |
 | New Hyu Stone | 60549 | [60549-new-hyu-stone.json](./60549-new-hyu-stone.json) |
