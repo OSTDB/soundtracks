@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T03:18:20.474Z",
-  "total_missing": 128676,
+  "generated_at": "2026-09-27T03:33:18.951Z",
+  "total_missing": 128726,
   "games": [
     {
       "igdb_id": 186066,
@@ -20851,6 +20851,11 @@
       "igdb_id": 329936,
       "game_name": "Ambuuu",
       "file": "missing/A/329936-ambuuu.json"
+    },
+    {
+      "igdb_id": 166524,
+      "game_name": "Ame Koi",
+      "file": "missing/A/166524-ame-koi.json"
     },
     {
       "igdb_id": 301601,
@@ -121038,6 +121043,16 @@
       "file": "missing/D/361319-daisenryaku-vii-dx.json"
     },
     {
+      "igdb_id": 166548,
+      "game_name": "Daisenryaku: Master Combat",
+      "file": "missing/D/166548-daisenryaku-master-combat.json"
+    },
+    {
+      "igdb_id": 166549,
+      "game_name": "Daisenryaku: Players's Spirit",
+      "file": "missing/D/166549-daisenryaku-playerss-spirit.json"
+    },
+    {
       "igdb_id": 74739,
       "game_name": "Daisia",
       "file": "missing/D/74739-daisia.json"
@@ -135516,6 +135531,11 @@
       "igdb_id": 6279,
       "game_name": "Device 6",
       "file": "missing/D/6279-device-6.json"
+    },
+    {
+      "igdb_id": 166500,
+      "game_name": "Devicereign",
+      "file": "missing/D/166500-devicereign.json"
     },
     {
       "igdb_id": 400459,
@@ -188248,6 +188268,11 @@
       "file": "missing/F/125206-first-kiss-story-ii.json"
     },
     {
+      "igdb_id": 166515,
+      "game_name": "First Land",
+      "file": "missing/F/166515-first-land.json"
+    },
+    {
       "igdb_id": 191155,
       "game_name": "First Light",
       "file": "missing/F/191155-first-light.json"
@@ -203603,6 +203628,11 @@
       "file": "missing/F/149049-furs-of-fury.json"
     },
     {
+      "igdb_id": 166499,
+      "game_name": "Fursan al-Aqsa: The Knights of the Al-Aqsa Mosque",
+      "file": "missing/F/166499-fursan-al-aqsa-the-knights-of-the-al-aqsa-mosque.json"
+    },
+    {
       "igdb_id": 368127,
       "game_name": "FurstDate: A Furry Dating Simulator",
       "file": "missing/F/368127-furstdate-a-furry-dating-simulator.json"
@@ -209508,6 +209538,11 @@
       "file": "missing/G/303242-geg-2-nazad-v-budushchee.json"
     },
     {
+      "igdb_id": 166545,
+      "game_name": "GeGeGe no Kitaro",
+      "file": "missing/G/166545-gegege-no-kitaro.json"
+    },
+    {
       "igdb_id": 64106,
       "game_name": "GeGeGe no Kitaro: Fukkatsu! Tenma Daiou",
       "file": "missing/G/64106-gegege-no-kitaro-fukkatsu-tenma-daiou.json"
@@ -211546,6 +211581,11 @@
       "igdb_id": 393510,
       "game_name": "Gestures Towards Divinity",
       "file": "missing/G/393510-gestures-towards-divinity.json"
+    },
+    {
+      "igdb_id": 166516,
+      "game_name": "Gesuido",
+      "file": "missing/G/166516-gesuido.json"
     },
     {
       "igdb_id": 188527,
@@ -232123,6 +232163,11 @@
       "file": "missing/H/328987-harry-potter-quidditch-champions-deluxe-pack.json"
     },
     {
+      "igdb_id": 166523,
+      "game_name": "Harry Potter: Quidditch World Cup",
+      "file": "missing/H/166523-harry-potter-quidditch-world-cup.json"
+    },
+    {
       "igdb_id": 225622,
       "game_name": "Harry Styles Heardle",
       "file": "missing/H/225622-harry-styles-heardle.json"
@@ -249973,9 +250018,19 @@
       "file": "missing/H/117029-houma-hunter-lime-dai-03-wa.json"
     },
     {
+      "igdb_id": 166539,
+      "game_name": "Houma Hunter Lime with Paint Maker",
+      "file": "missing/H/166539-houma-hunter-lime-with-paint-maker.json"
+    },
+    {
       "igdb_id": 117026,
       "game_name": "Houma Hunter Lime: Special Collection Vol. 1",
       "file": "missing/H/117026-houma-hunter-lime-special-collection-vol-1.json"
+    },
+    {
+      "igdb_id": 166538,
+      "game_name": "Houma Hunter Lime: Special Collection Vol.2",
+      "file": "missing/H/166538-houma-hunter-lime-special-collection-vol-2.json"
     },
     {
       "igdb_id": 30316,
@@ -257926,6 +257981,11 @@
       "igdb_id": 379905,
       "game_name": "Idol Janshi Suchie-Pai IV Portable",
       "file": "missing/I/379905-idol-janshi-suchie-pai-iv-portable.json"
+    },
+    {
+      "igdb_id": 166550,
+      "game_name": "Idol Janshi Suchie-Pai Limited",
+      "file": "missing/I/166550-idol-janshi-suchie-pai-limited.json"
     },
     {
       "igdb_id": 85821,
@@ -277528,6 +277588,11 @@
       "file": "missing/K/60248-kaeru-batake-de-tsukamaete-natsu-chigira-sansen.json"
     },
     {
+      "igdb_id": 166514,
+      "game_name": "Kaeru no Ehon: Adventure for The Lost Memories",
+      "file": "missing/K/166514-kaeru-no-ehon-adventure-for-the-lost-memories.json"
+    },
+    {
       "igdb_id": 49078,
       "game_name": "Kaeru no Tame ni Kane wa Naru",
       "file": "missing/K/49078-kaeru-no-tame-ni-kane-wa-naru.json"
@@ -280513,9 +280578,54 @@
       "file": "missing/K/37965-keiba-eight-special-2.json"
     },
     {
+      "igdb_id": 166531,
+      "game_name": "Keiba Eito '98 Akyfuyu",
+      "file": "missing/K/166531-keiba-eito-98-akyfuyu.json"
+    },
+    {
+      "igdb_id": 166530,
+      "game_name": "Keiba Eito '98 Haru Natsu",
+      "file": "missing/K/166530-keiba-eito-98-haru-natsu.json"
+    },
+    {
+      "igdb_id": 166532,
+      "game_name": "Keiba Eito '99 - Haru Natsu",
+      "file": "missing/K/166532-keiba-eito-99-haru-natsu.json"
+    },
+    {
+      "igdb_id": 166529,
+      "game_name": "Keiba Saisho no Housoku '95",
+      "file": "missing/K/166529-keiba-saisho-no-housoku-95.json"
+    },
+    {
+      "igdb_id": 166533,
+      "game_name": "Keiba Saisho no Housoku '96 vol.1",
+      "file": "missing/K/166533-keiba-saisho-no-housoku-96-vol-1.json"
+    },
+    {
+      "igdb_id": 166534,
+      "game_name": "Keiba Saisho no Housoku '96 vol.2: G-I Road",
+      "file": "missing/K/166534-keiba-saisho-no-housoku-96-vol-2-g-i-road.json"
+    },
+    {
+      "igdb_id": 166535,
+      "game_name": "Keiba Saisho no Housoku '97 vol.1",
+      "file": "missing/K/166535-keiba-saisho-no-housoku-97-vol-1.json"
+    },
+    {
       "igdb_id": 268508,
       "game_name": "Keiba Saishou no Housoku",
       "file": "missing/K/268508-keiba-saishou-no-housoku.json"
+    },
+    {
+      "igdb_id": 166536,
+      "game_name": "Keiba Saishou no Housoku '97 Vol. 2: To Hit!",
+      "file": "missing/K/166536-keiba-saishou-no-housoku-97-vol-2-to-hit.json"
+    },
+    {
+      "igdb_id": 166537,
+      "game_name": "Keiba Saishou no Housoku '99 Aki Fuyu",
+      "file": "missing/K/166537-keiba-saishou-no-housoku-99-aki-fuyu.json"
     },
     {
       "igdb_id": 37970,
@@ -283391,6 +283501,16 @@
       "igdb_id": 31590,
       "game_name": "King of Booze: Drinking Game",
       "file": "missing/K/31590-king-of-booze-drinking-game.json"
+    },
+    {
+      "igdb_id": 166543,
+      "game_name": "King of Bowling",
+      "file": "missing/K/166543-king-of-bowling.json"
+    },
+    {
+      "igdb_id": 166544,
+      "game_name": "King of Bowling 2: Professional-hen",
+      "file": "missing/K/166544-king-of-bowling-2-professional-hen.json"
     },
     {
       "igdb_id": 348317,
@@ -287221,6 +287341,11 @@
       "igdb_id": 402892,
       "game_name": "KochiKame: Ryo-san's Billion-yen Beat",
       "file": "missing/K/402892-kochikame-ryo-sans-billion-yen-beat.json"
+    },
+    {
+      "igdb_id": 166505,
+      "game_name": "Kochira Katsushika-ku Kameari Kouen Mae Hashutsujo: Nakagawa Land Dai-race! no Maki",
+      "file": "missing/K/166505-kochira-katsushika-ku-kameari-kouen-mae-hashutsujo-nakagawa-land-dai-race-no-maki.json"
     },
     {
       "igdb_id": 152912,
@@ -314811,6 +314936,11 @@
       "igdb_id": 141031,
       "game_name": "Magnolia",
       "file": "missing/M/141031-magnolia.json"
+    },
+    {
+      "igdb_id": 166527,
+      "game_name": "Magnum Quest",
+      "file": "missing/M/166527-magnum-quest.json"
     },
     {
       "igdb_id": 188683,
@@ -348253,6 +348383,11 @@
       "file": "missing/M/128354-mr-joshua-carrot.json"
     },
     {
+      "igdb_id": 166526,
+      "game_name": "Mr. Krabs Tax Evasion",
+      "file": "missing/M/166526-mr-krabs-tax-evasion.json"
+    },
+    {
       "igdb_id": 169879,
       "game_name": "Mr. Krasnoludek, Teach Me Your Magic Spells",
       "file": "missing/M/169879-mr-krasnoludek-teach-me-your-magic-spells.json"
@@ -353806,6 +353941,11 @@
       "igdb_id": 158563,
       "game_name": "My Very Own Lair",
       "file": "missing/M/158563-my-very-own-lair.json"
+    },
+    {
+      "igdb_id": 166506,
+      "game_name": "My Village Life",
+      "file": "missing/M/166506-my-village-life.json"
     },
     {
       "igdb_id": 92440,
@@ -359886,6 +360026,11 @@
       "igdb_id": 367033,
       "game_name": "Neko Waifu",
       "file": "missing/N/367033-neko-waifu.json"
+    },
+    {
+      "igdb_id": 166503,
+      "game_name": "Neko Yume",
+      "file": "missing/N/166503-neko-yume.json"
     },
     {
       "igdb_id": 128364,
@@ -365971,6 +366116,11 @@
       "igdb_id": 346018,
       "game_name": "Ningen Tower Battle",
       "file": "missing/N/346018-ningen-tower-battle.json"
+    },
+    {
+      "igdb_id": 166551,
+      "game_name": "Ningyo no Rakuin",
+      "file": "missing/N/166551-ningyo-no-rakuin.json"
     },
     {
       "igdb_id": 255112,
@@ -373491,6 +373641,11 @@
       "igdb_id": 188614,
       "game_name": "Of Life and Land",
       "file": "missing/O/188614-of-life-and-land.json"
+    },
+    {
+      "igdb_id": 166509,
+      "game_name": "Of Light & Shadow",
+      "file": "missing/O/166509-of-light-and-shadow.json"
     },
     {
       "igdb_id": 380680,
@@ -386236,6 +386391,11 @@
       "igdb_id": 393801,
       "game_name": "Pal-Mon",
       "file": "missing/P/393801-pal-mon.json"
+    },
+    {
+      "igdb_id": 166517,
+      "game_name": "PAL: Shinken Densetsu",
+      "file": "missing/P/166517-pal-shinken-densetsu.json"
     },
     {
       "igdb_id": 328017,
@@ -405011,6 +405171,16 @@
       "igdb_id": 40188,
       "game_name": "Pochi and Nyaa",
       "file": "missing/P/40188-pochi-and-nyaa.json"
+    },
+    {
+      "igdb_id": 166553,
+      "game_name": "Pocke-Kano: Shizuka Houjouin",
+      "file": "missing/P/166553-pocke-kano-shizuka-houjouin.json"
+    },
+    {
+      "igdb_id": 166552,
+      "game_name": "Pocke-Kano: Yumi Aida",
+      "file": "missing/P/166552-pocke-kano-yumi-aida.json"
     },
     {
       "igdb_id": 245423,
@@ -432368,6 +432538,16 @@
       "file": "missing/R/55917-red-ball.json"
     },
     {
+      "igdb_id": 166520,
+      "game_name": "Red Ball 2",
+      "file": "missing/R/166520-red-ball-2.json"
+    },
+    {
+      "igdb_id": 166522,
+      "game_name": "Red Ball 3",
+      "file": "missing/R/166522-red-ball-3.json"
+    },
+    {
       "igdb_id": 88924,
       "game_name": "Red Ball 4",
       "file": "missing/R/88924-red-ball-4.json"
@@ -453293,6 +453473,11 @@
       "file": "missing/S/139221-saint-seiya-rising-cosmo.json"
     },
     {
+      "igdb_id": 166519,
+      "game_name": "Saint Seiya: Ultimate Cosmo",
+      "file": "missing/S/166519-saint-seiya-ultimate-cosmo.json"
+    },
+    {
       "igdb_id": 46199,
       "game_name": "Saint Sword",
       "file": "missing/S/46199-saint-sword.json"
@@ -463458,6 +463643,16 @@
       "file": "missing/S/34388-sentou-gakuen-revival.json"
     },
     {
+      "igdb_id": 166547,
+      "game_name": "Sentou Kokka Kai Improved",
+      "file": "missing/S/166547-sentou-kokka-kai-improved.json"
+    },
+    {
+      "igdb_id": 166546,
+      "game_name": "Sentou Kokka: Air Land Battle",
+      "file": "missing/S/166546-sentou-kokka-air-land-battle.json"
+    },
+    {
       "igdb_id": 18281,
       "game_name": "Sentree",
       "file": "missing/S/18281-sentree.json"
@@ -473458,6 +473653,11 @@
       "file": "missing/S/214432-silent-mobius-case-titanic.json"
     },
     {
+      "igdb_id": 166498,
+      "game_name": "Silent Mobius: Genei no Datenshi",
+      "file": "missing/S/166498-silent-mobius-genei-no-datenshi.json"
+    },
+    {
       "igdb_id": 110391,
       "game_name": "Silent Night",
       "file": "missing/S/110391-silent-night.json"
@@ -480993,6 +481193,11 @@
       "file": "missing/S/208956-small-rockets-mahjongg.json"
     },
     {
+      "igdb_id": 166528,
+      "game_name": "Small Soldiers",
+      "file": "missing/S/166528-small-soldiers.json"
+    },
+    {
       "igdb_id": 71671,
       "game_name": "Small Soldiers",
       "file": "missing/S/71671-small-soldiers.json"
@@ -486838,6 +487043,11 @@
       "file": "missing/S/332441-somnis-rumble-rush.json"
     },
     {
+      "igdb_id": 166502,
+      "game_name": "Somnium",
+      "file": "missing/S/166502-somnium.json"
+    },
+    {
       "igdb_id": 201329,
       "game_name": "Somnium",
       "file": "missing/S/201329-somnium.json"
@@ -491256,6 +491466,11 @@
       "igdb_id": 326788,
       "game_name": "Souten Koihime: Shigen no Ou",
       "file": "missing/S/326788-souten-koihime-shigen-no-ou.json"
+    },
+    {
+      "igdb_id": 166501,
+      "game_name": "Souten no Shiroki Kami no Kura: Great Peak",
+      "file": "missing/S/166501-souten-no-shiroki-kami-no-kura-great-peak.json"
     },
     {
       "igdb_id": 329136,
@@ -509676,6 +509891,11 @@
       "igdb_id": 271475,
       "game_name": "Street Drag Racing: Car Simulator",
       "file": "missing/S/271475-street-drag-racing-car-simulator.json"
+    },
+    {
+      "igdb_id": 166497,
+      "game_name": "Street Dreams",
+      "file": "missing/S/166497-street-dreams.json"
     },
     {
       "igdb_id": 245373,
@@ -569158,6 +569378,11 @@
       "file": "missing/T/61023-thoroughbred-breeder-sekai-seiha-hen.json"
     },
     {
+      "igdb_id": 166541,
+      "game_name": "Thoroughbred Tatsu no Eikan: The Victorious Thoroughbreds",
+      "file": "missing/T/166541-thoroughbred-tatsu-no-eikan-the-victorious-thoroughbreds.json"
+    },
+    {
       "igdb_id": 29937,
       "game_name": "Those Damn Aliens VR",
       "file": "missing/T/29937-those-damn-aliens-vr.json"
@@ -609113,9 +609338,29 @@
       "file": "missing/V/108850-virtual-kyoutei.json"
     },
     {
+      "igdb_id": 166510,
+      "game_name": "Virtual Kyoutei '98",
+      "file": "missing/V/166510-virtual-kyoutei-98.json"
+    },
+    {
+      "igdb_id": 166511,
+      "game_name": "Virtual Kyoutei '99",
+      "file": "missing/V/166511-virtual-kyoutei-99.json"
+    },
+    {
       "igdb_id": 108851,
       "game_name": "Virtual Kyoutei 2",
       "file": "missing/V/108851-virtual-kyoutei-2.json"
+    },
+    {
+      "igdb_id": 166512,
+      "game_name": "Virtual Kyoutei 2000",
+      "file": "missing/V/166512-virtual-kyoutei-2000.json"
+    },
+    {
+      "igdb_id": 166513,
+      "game_name": "Virtual Kyoutei 21",
+      "file": "missing/V/166513-virtual-kyoutei-21.json"
     },
     {
       "igdb_id": 201263,
@@ -634251,6 +634496,11 @@
       "igdb_id": 186902,
       "game_name": "Yaga: Roots of Evil",
       "file": "missing/Y/186902-yaga-roots-of-evil.json"
+    },
+    {
+      "igdb_id": 166496,
+      "game_name": "Yagami Hiroki no Game-Taste: Munasawagi no Yokan",
+      "file": "missing/Y/166496-yagami-hiroki-no-game-taste-munasawagi-no-yokan.json"
     },
     {
       "igdb_id": 228069,
