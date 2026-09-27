@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yappy Bird | 412508 | [412508-yappy-bird.json](./412508-yappy-bird.json) |
 | Yard of the Dead | 268765 | [268765-yard-of-the-dead.json](./268765-yard-of-the-dead.json) |
 | Yard Resistance | 322162 | [322162-yard-resistance.json](./322162-yard-resistance.json) |
+| Yardlings | 133342 | [133342-yardlings.json](./133342-yardlings.json) |
 | Yareba de Kiru! The Micro Step: Gijutsu de Oboeru Eitango | 124151 | [124151-yareba-de-kiru-the-micro-step-gijutsu-de-oboeru-eitango.json](./124151-yareba-de-kiru-the-micro-step-gijutsu-de-oboeru-eitango.json) |
 | YARG | 144814 | [144814-yarg.json](./144814-yarg.json) |
 | YARG | 245335 | [245335-yarg.json](./245335-yarg.json) |
