@@ -2872,6 +2872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northgard: Hræsvelg, Clan of the Eagle | 218693 | [218693-northgard-hr-svelg-clan-of-the-eagle.json](./218693-northgard-hr-svelg-clan-of-the-eagle.json) |
 | Northgard: Kernev, Clan of the Stoat | 263604 | [263604-northgard-kernev-clan-of-the-stoat.json](./263604-northgard-kernev-clan-of-the-stoat.json) |
 | Northgard: Ratatoskr, Clan of the Squirrel | 159702 | [159702-northgard-ratatoskr-clan-of-the-squirrel.json](./159702-northgard-ratatoskr-clan-of-the-squirrel.json) |
+| Northgard: The Viking Age Edition | 145535 | [145535-northgard-the-viking-age-edition.json](./145535-northgard-the-viking-age-edition.json) |
 | Northmark: Hour of the Wolf | 17532 | [17532-northmark-hour-of-the-wolf.json](./17532-northmark-hour-of-the-wolf.json) |
 | NorthStar | 55207 | [55207-northstar.json](./55207-northstar.json) |
 | Northwest Fur Trader | 387691 | [387691-northwest-fur-trader.json](./387691-northwest-fur-trader.json) |
