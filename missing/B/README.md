@@ -536,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldur's Gate: Dark Alliance | 243015 | [243015-baldurs-gate-dark-alliance.json](./243015-baldurs-gate-dark-alliance.json) |
 | Baldur's Gate: Dark Alliance | 83 | [83-baldurs-gate-dark-alliance.json](./83-baldurs-gate-dark-alliance.json) |
 | Baldur's Gate: Dark Alliance II | 210699 | [210699-baldurs-gate-dark-alliance-ii.json](./210699-baldurs-gate-dark-alliance-ii.json) |
+| Baldur's Gate: Enhanced Edition - Deluxe Edition | 169219 | [169219-baldurs-gate-enhanced-edition-deluxe-edition.json](./169219-baldurs-gate-enhanced-edition-deluxe-edition.json) |
 | Baldur's Gate: Siege of Dragonspear - Collector's Edition | 21813 | [21813-baldurs-gate-siege-of-dragonspear-collectors-edition.json](./21813-baldurs-gate-siege-of-dragonspear-collectors-edition.json) |
 | Baldur's Gate: Siege of Dragonspear - Digital Deluxe Edition | 52617 | [52617-baldurs-gate-siege-of-dragonspear-digital-deluxe-edition.json](./52617-baldurs-gate-siege-of-dragonspear-digital-deluxe-edition.json) |
 | Baldur's Gate: The Complete Saga | 52616 | [52616-baldurs-gate-the-complete-saga.json](./52616-baldurs-gate-the-complete-saga.json) |
@@ -1768,6 +1769,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 2: Armored Fury | 3814 | [3814-battlefield-2-armored-fury.json](./3814-battlefield-2-armored-fury.json) |
 | Battlefield 2: Complete Collection | 41885 | [41885-battlefield-2-complete-collection.json](./41885-battlefield-2-complete-collection.json) |
 | Battlefield 2: Special Forces | 347 | [347-battlefield-2-special-forces.json](./347-battlefield-2-special-forces.json) |
+| Battlefield 2042: Gold Edition | 169199 | [169199-battlefield-2042-gold-edition.json](./169199-battlefield-2042-gold-edition.json) |
+| Battlefield 2042: Ultimate Edition | 169198 | [169198-battlefield-2042-ultimate-edition.json](./169198-battlefield-2042-ultimate-edition.json) |
 | Battlefield 2042: Year 1 Pass | 293915 | [293915-battlefield-2042-year-1-pass.json](./293915-battlefield-2042-year-1-pass.json) |
 | Battlefield 3 | 273136 | [273136-battlefield-3.json](./273136-battlefield-3.json) |
 | Battlefield 3: Aftershock | 23916 | [23916-battlefield-3-aftershock.json](./23916-battlefield-3-aftershock.json) |
@@ -6112,6 +6115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BreakThrough | 391866 | [391866-breakthrough.json](./391866-breakthrough.json) |
 | Breakthrough in the Ardennes | 25618 | [25618-breakthrough-in-the-ardennes.json](./25618-breakthrough-in-the-ardennes.json) |
 | BreakThru | 13437 | [13437-breakthru.json](./13437-breakthru.json) |
+| Breakthru in 3D | 169228 | [169228-breakthru-in-3d.json](./169228-breakthru-in-3d.json) |
 | BreakThru! | 7800 | [7800-breakthru.json](./7800-breakthru.json) |
 | Breaktory | 183552 | [183552-breaktory.json](./183552-breaktory.json) |
 | Breakup Squad | 243103 | [243103-breakup-squad.json](./243103-breakup-squad.json) |
