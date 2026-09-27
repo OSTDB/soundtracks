@@ -4469,6 +4469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GundeadliGne | 16233 | [16233-gundeadligne.json](./16233-gundeadligne.json) |
 | GunDeck 100 | 270070 | [270070-gundeck-100.json](./270070-gundeck-100.json) |
 | Gundemonium | 365664 | [365664-gundemonium.json](./365664-gundemonium.json) |
+| Gundemonium Collection | 138096 | [138096-gundemonium-collection.json](./138096-gundemonium-collection.json) |
 | Gundemoniums | 187858 | [187858-gundemoniums.json](./187858-gundemoniums.json) |
 | Gundertale | 336351 | [336351-gundertale.json](./336351-gundertale.json) |
 | Gundham's Calamitous Quest for Coochie | 227212 | [227212-gundhams-calamitous-quest-for-coochie.json](./227212-gundhams-calamitous-quest-for-coochie.json) |
