@@ -920,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Space Ranger | 15578 | [15578-3d-space-ranger.json](./15578-3d-space-ranger.json) |
 | 3D Star Fighter | 279697 | [279697-3d-star-fighter.json](./279697-3d-star-fighter.json) |
 | 3D Stereo Studio | 80505 | [80505-3d-stereo-studio.json](./80505-3d-stereo-studio.json) |
+| 3D Stock Car Championship | 73294 | [73294-3d-stock-car-championship.json](./73294-3d-stock-car-championship.json) |
 | 3D Super Chess | 96073 | [96073-3d-super-chess.json](./96073-3d-super-chess.json) |
 | 3D Tan | 257374 | [257374-3d-tan.json](./257374-3d-tan.json) |
 | 3D Tanx | 93378 | [93378-3d-tanx.json](./93378-3d-tanx.json) |
@@ -950,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3SwitcheD | 9934 | [9934-3switched.json](./9934-3switched.json) |
 | 3x3 | 312887 | [312887-3x3.json](./312887-3x3.json) |
 | 3x3 Eyes: Seima Kourin-den | 15886 | [15886-3x3-eyes-seima-kourin-den.json](./15886-3x3-eyes-seima-kourin-den.json) |
+| 3x3 Eyes: Tenrin-ou Genmu | 73304 | [73304-3x3-eyes-tenrin-ou-genmu.json](./73304-3x3-eyes-tenrin-ou-genmu.json) |
 | 3x3 mini-Shogi | 117119 | [117119-3x3-mini-shogi.json](./117119-3x3-mini-shogi.json) |
 | 3X3 Puzzle | 249269 | [249269-3x3-puzzle.json](./249269-3x3-puzzle.json) |
 | 3x3: Take Two | 312889 | [312889-3x3-take-two.json](./312889-3x3-take-two.json) |
@@ -1018,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 48 Pieces | 109036 | [109036-48-pieces.json](./109036-48-pieces.json) |
 | 49 Squares | 253448 | [253448-49-squares.json](./253448-49-squares.json) |
 | 4A Flyer | 377833 | [377833-4a-flyer.json](./377833-4a-flyer.json) |
+| 4D Sports Tennis | 73308 | [73308-4d-sports-tennis.json](./73308-4d-sports-tennis.json) |
 | 4Fools1 | 349958 | [349958-4fools1.json](./349958-4fools1.json) |
 | 4in1: Bomb Disposer/Armour Force/Black Forest Tale/2nd Space | 77296 | [77296-4in1-bomb-disposer-armour-force-black-forest-tale-2nd-space.json](./77296-4in1-bomb-disposer-armour-force-black-forest-tale-2nd-space.json) |
 | 4Islands | 124190 | [124190-4islands.json](./124190-4islands.json) |
