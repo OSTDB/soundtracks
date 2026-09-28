@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kandume Monsters | 228571 | [228571-kandume-monsters.json](./228571-kandume-monsters.json) |
 | Kandume Monsters Parfait | 228572 | [228572-kandume-monsters-parfait.json](./228572-kandume-monsters-parfait.json) |
 | Kane & Lynch Collection | 53243 | [53243-kane-and-lynch-collection.json](./53243-kane-and-lynch-collection.json) |
+| Kane & Lynch: Dead Men | 76714 | [76714-kane-and-lynch-dead-men.json](./76714-kane-and-lynch-dead-men.json) |
 | Kanenone Dynatic: Green Green | 294727 | [294727-kanenone-dynatic-green-green.json](./294727-kanenone-dynatic-green-green.json) |
 | Kang | 396587 | [396587-kang.json](./396587-kang.json) |
 | Kang Fu | 37109 | [37109-kang-fu.json](./37109-kang-fu.json) |
