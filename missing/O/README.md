@@ -1535,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Blood | 137566 | [137566-operation-blood.json](./137566-operation-blood.json) |
 | Operation Bodycam | 316848 | [316848-operation-bodycam.json](./316848-operation-bodycam.json) |
 | Operation Breakout | 30839 | [30839-operation-breakout.json](./30839-operation-breakout.json) |
+| Operation Cobra | 85598 | [85598-operation-cobra.json](./85598-operation-cobra.json) |
 | Operation Covid-19 | 149027 | [149027-operation-covid-19.json](./149027-operation-covid-19.json) |
 | Operation Crimson | 412272 | [412272-operation-crimson.json](./412272-operation-crimson.json) |
 | Operation CrossCounter | 94755 | [94755-operation-crosscounter.json](./94755-operation-crosscounter.json) |
@@ -1689,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbion | 370331 | [370331-orbion.json](./370331-orbion.json) |
 | Orbisia | 197129 | [197129-orbisia.json](./197129-orbisia.json) |
 | Orbit | 315019 | [315019-orbit.json](./315019-orbit.json) |
+| Orbit | 85597 | [85597-orbit.json](./85597-orbit.json) |
 | Orbit Angler | 297586 | [297586-orbit-angler.json](./297586-orbit-angler.json) |
 | Orbit Drop | 120339 | [120339-orbit-drop.json](./120339-orbit-drop.json) |
 | Orbit One | 405604 | [405604-orbit-one.json](./405604-orbit-one.json) |
