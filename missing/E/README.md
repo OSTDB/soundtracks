@@ -1261,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency in Space | 310744 | [310744-emergency-in-space.json](./310744-emergency-in-space.json) |
 | Emergency Lüdenscheid | 346128 | [346128-emergency-ludenscheid.json](./346128-emergency-ludenscheid.json) |
 | Emergency Robot Simulator | 102183 | [102183-emergency-robot-simulator.json](./102183-emergency-robot-simulator.json) |
+| Emergency Room | 73861 | [73861-emergency-room.json](./73861-emergency-room.json) |
 | Emergency Room 3 | 73315 | [73315-emergency-room-3.json](./73315-emergency-room-3.json) |
 | Emergency Room Simulator | 253606 | [253606-emergency-room-simulator.json](./253606-emergency-room-simulator.json) |
 | Emergency Room: Code Blue | 201269 | [201269-emergency-room-code-blue.json](./201269-emergency-room-code-blue.json) |
