@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecoco de Fight! | 342129 | [342129-ecoco-de-fight.json](./342129-ecoco-de-fight.json) |
 | EcoDriver | 233527 | [233527-ecodriver.json](./233527-ecodriver.json) |
 | EcoL tactics | 112312 | [112312-ecol-tactics.json](./112312-ecol-tactics.json) |
+| ECON | 112470 | [112470-econ.json](./112470-econ.json) |
 | Econia: Crypto Idle Tycoon! | 232376 | [232376-econia-crypto-idle-tycoon.json](./232376-econia-crypto-idle-tycoon.json) |
 | Economic War | 202701 | [202701-economic-war.json](./202701-economic-war.json) |
 | Economy Bundle | 193740 | [193740-economy-bundle.json](./193740-economy-bundle.json) |
@@ -1223,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerge | 342631 | [342631-emerge.json](./342631-emerge.json) |
 | Emerge: Cities of the Apocalypse | 33136 | [33136-emerge-cities-of-the-apocalypse.json](./33136-emerge-cities-of-the-apocalypse.json) |
 | Emergence | 130878 | [130878-emergence.json](./130878-emergence.json) |
+| Emergency 2 | 112482 | [112482-emergency-2.json](./112482-emergency-2.json) |
 | Emergency 2013 | 2979 | [2979-emergency-2013.json](./2979-emergency-2013.json) |
 | Emergency 2014 | 52960 | [52960-emergency-2014.json](./52960-emergency-2014.json) |
 | Emergency 3 | 46457 | [46457-emergency-3.json](./46457-emergency-3.json) |
@@ -1790,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entropy: Zero | 127887 | [127887-entropy-zero.json](./127887-entropy-zero.json) |
 | Entropy: Zero 2 | 188671 | [188671-entropy-zero-2.json](./188671-entropy-zero-2.json) |
 | Entwined Challenge | 174226 | [174226-entwined-challenge.json](./174226-entwined-challenge.json) |
+| Entwined: The Perfect Murder | 112489 | [112489-entwined-the-perfect-murder.json](./112489-entwined-the-perfect-murder.json) |
 | EnvironmentZ | 374724 | [374724-environmentz.json](./374724-environmentz.json) |
 | Envoy | 33413 | [33413-envoy.json](./33413-envoy.json) |
 | Envoy 2 | 33367 | [33367-envoy-2.json](./33367-envoy-2.json) |
@@ -3310,6 +3313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explosive Dungeon | 179127 | [179127-explosive-dungeon.json](./179127-explosive-dungeon.json) |
 | Explosive Fighter Patton | 11449 | [11449-explosive-fighter-patton.json](./11449-explosive-fighter-patton.json) |
 | Explosive Odds | 345473 | [345473-explosive-odds.json](./345473-explosive-odds.json) |
+| Explosive Pursuit | 112487 | [112487-explosive-pursuit.json](./112487-explosive-pursuit.json) |
 | Explosive Racing | 44854 | [44854-explosive-racing.json](./44854-explosive-racing.json) |
 | Explosive Shooting Star Beetle | 311809 | [311809-explosive-shooting-star-beetle.json](./311809-explosive-shooting-star-beetle.json) |
 | Explosive Track | 226672 | [226672-explosive-track.json](./226672-explosive-track.json) |
