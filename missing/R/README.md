@@ -2434,6 +2434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team: Phantom Crisis - Collector's Edition | 417512 | [417512-rescue-team-phantom-crisis-collectors-edition.json](./417512-rescue-team-phantom-crisis-collectors-edition.json) |
 | Rescue the Hostages: Misaligned Fate | 405719 | [405719-rescue-the-hostages-misaligned-fate.json](./405719-rescue-the-hostages-misaligned-fate.json) |
 | Rescue Zone | 138616 | [138616-rescue-zone.json](./138616-rescue-zone.json) |
+| Rescue: Heroes in Action | 76718 | [76718-rescue-heroes-in-action.json](./76718-rescue-heroes-in-action.json) |
 | Rescue! Dropkick on my Devil | 283239 | [283239-rescue-dropkick-on-my-devil.json](./283239-rescue-dropkick-on-my-devil.json) |
 | Research Station | 273140 | [273140-research-station.json](./273140-research-station.json) |
 | Research Story | 168637 | [168637-research-story.json](./168637-research-story.json) |
@@ -2666,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Jam 1 | 271217 | [271217-retro-jam-1.json](./271217-retro-jam-1.json) |
 | Retro Kart | 234205 | [234205-retro-kart.json](./234205-retro-kart.json) |
 | Retro League Racing | 296530 | [296530-retro-league-racing.json](./296530-retro-league-racing.json) |
+| Retro Miami | 76505 | [76505-retro-miami.json](./76505-retro-miami.json) |
 | Retro One | 78092 | [78092-retro-one.json](./78092-retro-one.json) |
 | Retro Otrop | 400288 | [400288-retro-otrop.json](./400288-retro-otrop.json) |
 | Retro Pocket | 21005 | [21005-retro-pocket.json](./21005-retro-pocket.json) |
@@ -4232,6 +4234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RocketBoy! | 400454 | [400454-rocketboy.json](./400454-rocketboy.json) |
 | RocketCup | 311074 | [311074-rocketcup.json](./311074-rocketcup.json) |
 | Rocketeer | 211953 | [211953-rocketeer.json](./211953-rocketeer.json) |
+| RocketGirl | 76709 | [76709-rocketgirl.json](./76709-rocketgirl.json) |
 | Rocketmen: Axis of Evil | 20273 | [20273-rocketmen-axis-of-evil.json](./20273-rocketmen-axis-of-evil.json) |
 | Rocketmen: It Came from Uranus | 41588 | [41588-rocketmen-it-came-from-uranus.json](./41588-rocketmen-it-came-from-uranus.json) |
 | RocketPods | 127975 | [127975-rocketpods.json](./127975-rocketpods.json) |
