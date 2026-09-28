@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lapistasia | 377675 | [377675-lapistasia.json](./377675-lapistasia.json) |
 | Laplace | 109651 | [109651-laplace.json](./109651-laplace.json) |
 | Laplace M | 126047 | [126047-laplace-m.json](./126047-laplace-m.json) |
+| Laplace no Ma | 81469 | [81469-laplace-no-ma.json](./81469-laplace-no-ma.json) |
 | Lappelduvide | 304639 | [304639-lappelduvide.json](./304639-lappelduvide.json) |
 | Lapse | 111699 | [111699-lapse.json](./111699-lapse.json) |
 | Lapse: A Forgotten Future | 77471 | [77471-lapse-a-forgotten-future.json](./77471-lapse-a-forgotten-future.json) |
@@ -1074,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leganda | 188675 | [188675-leganda.json](./188675-leganda.json) |
 | Legena: Union Tides | 34449 | [34449-legena-union-tides.json](./34449-legena-union-tides.json) |
 | Legend | 197955 | [197955-legend.json](./197955-legend.json) |
+| Legend | 81187 | [81187-legend.json](./81187-legend.json) |
 | Legend - The Four Crystals of Trazere | 37131 | [37131-legend-the-four-crystals-of-trazere.json](./37131-legend-the-four-crystals-of-trazere.json) |
 | Legend 64 | 261297 | [261297-legend-64.json](./261297-legend-64.json) |
 | Legend Creatures 2 | 257382 | [257382-legend-creatures-2.json](./257382-legend-creatures-2.json) |
@@ -1285,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion Saga III | 385746 | [385746-legion-saga-iii.json](./385746-legion-saga-iii.json) |
 | Legion Was Here | 347168 | [347168-legion-was-here.json](./347168-legion-was-here.json) |
 | Legion: Dead Metal | 249214 | [249214-legion-dead-metal.json](./249214-legion-dead-metal.json) |
+| Legionnaire | 81453 | [81453-legionnaire.json](./81453-legionnaire.json) |
 | Legions of Chaos | 220180 | [220180-legions-of-chaos.json](./220180-legions-of-chaos.json) |
 | Legions of Dawn | 124722 | [124722-legions-of-dawn.json](./124722-legions-of-dawn.json) |
 | Legions of Death | 37085 | [37085-legions-of-death.json](./37085-legions-of-death.json) |
