@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Game Tutorial | 365277 | [365277-video-game-tutorial.json](./365277-video-game-tutorial.json) |
 | Video Hustler | 38557 | [38557-video-hustler.json](./38557-video-hustler.json) |
 | Video Jam | 206063 | [206063-video-jam.json](./206063-video-jam.json) |
+| Video Olimpic | 69341 | [69341-video-olimpic.json](./69341-video-olimpic.json) |
 | Video Pinball | 46877 | [46877-video-pinball.json](./46877-video-pinball.json) |
 | Video Poker | 246382 | [246382-video-poker.json](./246382-video-poker.json) |
 | Video Poker | 272552 | [272552-video-poker.json](./272552-video-poker.json) |
