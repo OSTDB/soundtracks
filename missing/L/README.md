@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawnmower Maniac | 385874 | [385874-lawnmower-maniac.json](./385874-lawnmower-maniac.json) |
 | LawnMower: Mortal Race | 219284 | [219284-lawnmower-mortal-race.json](./219284-lawnmower-mortal-race.json) |
 | Lawnpocalypse | 379370 | [379370-lawnpocalypse.json](./379370-lawnpocalypse.json) |
+| Laws of Machine | 96865 | [96865-laws-of-machine.json](./96865-laws-of-machine.json) |
 | Laxius Force | 50802 | [50802-laxius-force.json](./50802-laxius-force.json) |
 | Laxius Power II | 72040 | [72040-laxius-power-ii.json](./72040-laxius-power-ii.json) |
 | Laxius Soul | 287223 | [287223-laxius-soul.json](./287223-laxius-soul.json) |
@@ -3059,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logo Quiz Fever | 103661 | [103661-logo-quiz-fever.json](./103661-logo-quiz-fever.json) |
 | Logos Panic: Goaisatu | 37942 | [37942-logos-panic-goaisatu.json](./37942-logos-panic-goaisatu.json) |
 | Logos Quiz | 254425 | [254425-logos-quiz.json](./254425-logos-quiz.json) |
+| Logout | 96856 | [96856-logout.json](./96856-logout.json) |
 | Lohotronshchik: Crazy Loto | 280887 | [280887-lohotronshchik-crazy-loto.json](./280887-lohotronshchik-crazy-loto.json) |
 | Loihtija | 176518 | [176518-loihtija.json](./176518-loihtija.json) |
 | Lokapala | 224018 | [224018-lokapala.json](./224018-lokapala.json) |
@@ -4342,6 +4344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lutra's Monologue | 186274 | [186274-lutras-monologue.json](./186274-lutras-monologue.json) |
 | Lutte | 97508 | [97508-lutte.json](./97508-lutte.json) |
 | Lux | 329071 | [329071-lux.json](./329071-lux.json) |
+| Lux DLX 3 - Map Conquest Game | 96895 | [96895-lux-dlx-3-map-conquest-game.json](./96895-lux-dlx-3-map-conquest-game.json) |
 | Lux Ex: Cyber Initiation | 214190 | [214190-lux-ex-cyber-initiation.json](./214190-lux-ex-cyber-initiation.json) |
 | Lux Sine | 149030 | [149030-lux-sine.json](./149030-lux-sine.json) |
 | Lux: Dream.Girl | 280928 | [280928-lux-dream-girl.json](./280928-lux-dream-girl.json) |
