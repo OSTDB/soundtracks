@@ -2403,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensha SP | 222290 | [222290-sensha-sp.json](./222290-sensha-sp.json) |
 | Sensible Blood Rugby | 175879 | [175879-sensible-blood-rugby.json](./175879-sensible-blood-rugby.json) |
 | Sensible Blood Rugby Sevens | 122181 | [122181-sensible-blood-rugby-sevens.json](./122181-sensible-blood-rugby-sevens.json) |
+| Sensible Soccer '98 | 94361 | [94361-sensible-soccer-98.json](./94361-sensible-soccer-98.json) |
 | Sensible Soccer 2006 | 20535 | [20535-sensible-soccer-2006.json](./20535-sensible-soccer-2006.json) |
 | Sensible Soccer: European Champions | 165408 | [165408-sensible-soccer-european-champions.json](./165408-sensible-soccer-european-champions.json) |
 | Sensible Soccer: European Club Edition | 79250 | [79250-sensible-soccer-european-club-edition.json](./79250-sensible-soccer-european-club-edition.json) |
@@ -4884,6 +4885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulator: Parking Lot | 323510 | [323510-simulator-parking-lot.json](./323510-simulator-parking-lot.json) |
 | Simuliator Sidieniia Na Kryshie | 163858 | [163858-simuliator-sidieniia-na-kryshie.json](./163858-simuliator-sidieniia-na-kryshie.json) |
 | SimuLove! vol. 1 | 309438 | [309438-simulove-vol-1.json](./309438-simulove-vol-1.json) |
+| SimuSex | 94335 | [94335-simusex.json](./94335-simusex.json) |
 | SiN | 1045 | [1045-sin.json](./1045-sin.json) |
 | Sin Breaker Rig | 238736 | [238736-sin-breaker-rig.json](./238736-sin-breaker-rig.json) |
 | Sin Cards: Welcome to the Netherworld | 337084 | [337084-sin-cards-welcome-to-the-netherworld.json](./337084-sin-cards-welcome-to-the-netherworld.json) |
@@ -6407,6 +6409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake II | 10141 | [10141-snake-ii.json](./10141-snake-ii.json) |
 | Snake in the Cube | 158070 | [158070-snake-in-the-cube.json](./158070-snake-in-the-cube.json) |
 | Snake Infinity Lite | 26680 | [26680-snake-infinity-lite.json](./26680-snake-infinity-lite.json) |
+| Snake It | 94325 | [94325-snake-it.json](./94325-snake-it.json) |
 | Snake It 'Til You Make It | 153833 | [153833-snake-it-til-you-make-it.json](./153833-snake-it-til-you-make-it.json) |
 | Snake Jump | 259579 | [259579-snake-jump.json](./259579-snake-jump.json) |
 | Snake Man's Adventure | 158066 | [158066-snake-mans-adventure.json](./158066-snake-mans-adventure.json) |
@@ -9131,6 +9134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedrunnerz | 257438 | [257438-speedrunnerz.json](./257438-speedrunnerz.json) |
 | Speedster's Collection | 283210 | [283210-speedsters-collection.json](./283210-speedsters-collection.json) |
 | Speedtickers | 365898 | [365898-speedtickers.json](./365898-speedtickers.json) |
+| Speedway | 94328 | [94328-speedway.json](./94328-speedway.json) |
 | Speedway Blast | 23868 | [23868-speedway-blast.json](./23868-speedway-blast.json) |
 | Speedway Challenge 2022 | 203562 | [203562-speedway-challenge-2022.json](./203562-speedway-challenge-2022.json) |
 | Speedway Challenge 2024 | 292550 | [292550-speedway-challenge-2024.json](./292550-speedway-challenge-2024.json) |
@@ -10399,6 +10403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Iliad | 329676 | [329676-star-iliad.json](./329676-star-iliad.json) |
 | Star Impact | 117035 | [117035-star-impact.json](./117035-star-impact.json) |
 | Star in the Hollow | 217302 | [217302-star-in-the-hollow.json](./217302-star-in-the-hollow.json) |
+| Star Ixiom | 94357 | [94357-star-ixiom.json](./94357-star-ixiom.json) |
 | Star Jolt | 127960 | [127960-star-jolt.json](./127960-star-jolt.json) |
 | Star Knight | 46756 | [46756-star-knight.json](./46756-star-knight.json) |
 | Star League Baseball | 307766 | [307766-star-league-baseball.json](./307766-star-league-baseball.json) |
