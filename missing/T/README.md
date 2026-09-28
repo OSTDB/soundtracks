@@ -2541,6 +2541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ant Bully | 206163 | [206163-the-ant-bully.json](./206163-the-ant-bully.json) |
 | The Antarctic Sphere | 217414 | [217414-the-antarctic-sphere.json](./217414-the-antarctic-sphere.json) |
 | The Antaresian Spacepond | 267994 | [267994-the-antaresian-spacepond.json](./267994-the-antaresian-spacepond.json) |
+| The Anthurium | 115767 | [115767-the-anthurium.json](./115767-the-anthurium.json) |
 | The Anti-Gravity Machine | 359420 | [359420-the-anti-gravity-machine.json](./359420-the-anti-gravity-machine.json) |
 | The Anything Gallery | 177029 | [177029-the-anything-gallery.json](./177029-the-anything-gallery.json) |
 | The Apartment 57 | 327867 | [327867-the-apartment-57.json](./327867-the-apartment-57.json) |
@@ -7788,6 +7789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trials of Beadie | 204106 | [204106-the-trials-of-beadie.json](./204106-the-trials-of-beadie.json) |
 | The Trials of Goodbye | 312876 | [312876-the-trials-of-goodbye.json](./312876-the-trials-of-goodbye.json) |
 | The Trials of Olympus 2: Wrath of the Gods | 114357 | [114357-the-trials-of-olympus-2-wrath-of-the-gods.json](./114357-the-trials-of-olympus-2-wrath-of-the-gods.json) |
+| The Trials of Olympus III: King of the World | 115794 | [115794-the-trials-of-olympus-iii-king-of-the-world.json](./115794-the-trials-of-olympus-iii-king-of-the-world.json) |
 | The Trials: Chapter Two | 400372 | [400372-the-trials-chapter-two.json](./400372-the-trials-chapter-two.json) |
 | The Triathron | 48326 | [48326-the-triathron.json](./48326-the-triathron.json) |
 | The Tribloos 3 | 105746 | [105746-the-tribloos-3.json](./105746-the-tribloos-3.json) |
@@ -13315,6 +13317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trine Bundle | 142369 | [142369-trine-bundle.json](./142369-trine-bundle.json) |
 | Trine Series 1-3 | 125319 | [125319-trine-series-1-3.json](./125319-trine-series-1-3.json) |
 | Trine Trilogy | 118939 | [118939-trine-trilogy.json](./118939-trine-trilogy.json) |
+| Trine: Ultimate Collection | 115766 | [115766-trine-ultimate-collection.json](./115766-trine-ultimate-collection.json) |
 | Tringo | 49344 | [49344-tringo.json](./49344-tringo.json) |
 | Trinity | 2952 | [2952-trinity.json](./2952-trinity.json) |
 | Trinity Archetype | 169756 | [169756-trinity-archetype.json](./169756-trinity-archetype.json) |
