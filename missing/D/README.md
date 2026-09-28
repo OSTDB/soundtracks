@@ -5616,6 +5616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorasyeoda | 278528 | [278528-dorasyeoda.json](./278528-dorasyeoda.json) |
 | Dorc | 415087 | [415087-dorc.json](./415087-dorc.json) |
 | Dord | 223668 | [223668-dord.json](./223668-dord.json) |
+| Dorei Iinchou: Haramase Choukyou | 97481 | [97481-dorei-iinchou-haramase-choukyou.json](./97481-dorei-iinchou-haramase-choukyou.json) |
 | Dorei Toushi Battle Slave | 66651 | [66651-dorei-toushi-battle-slave.json](./66651-dorei-toushi-battle-slave.json) |
 | Dorei Toushi F: Battle Slave Fantasia | 66649 | [66649-dorei-toushi-f-battle-slave-fantasia.json](./66649-dorei-toushi-f-battle-slave-fantasia.json) |
 | DoReMi Fantasy: Milon's DokiDoki Adventure | 15908 | [15908-doremi-fantasy-milons-dokidoki-adventure.json](./15908-doremi-fantasy-milons-dokidoki-adventure.json) |
@@ -6396,7 +6397,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonfire | 5671 | [5671-dragonfire.json](./5671-dragonfire.json) |
 | DragonFishing | 70392 | [70392-dragonfishing.json](./70392-dragonfishing.json) |
 | Dragonfist | 92448 | [92448-dragonfist.json](./92448-dragonfist.json) |
+| Dragonfly | 97469 | [97469-dragonfly.json](./97469-dragonfly.json) |
 | Dragonfly Chronicles | 105133 | [105133-dragonfly-chronicles.json](./105133-dragonfly-chronicles.json) |
+| Dragonfly II | 97467 | [97467-dragonfly-ii.json](./97467-dragonfly-ii.json) |
 | DragonHeart | 80824 | [80824-dragonheart.json](./80824-dragonheart.json) |
 | Dragonia | 124242 | [124242-dragonia.json](./124242-dragonia.json) |
 | Dragonium Adventure | 226673 | [226673-dragonium-adventure.json](./226673-dragonium-adventure.json) |
