@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailor Moon RevengeX | 279589 | [279589-sailor-moon-revengex.json](./279589-sailor-moon-revengex.json) |
 | Sailor Moon S: Kotaete Moon Call! | 230284 | [230284-sailor-moon-s-kotaete-moon-call.json](./230284-sailor-moon-s-kotaete-moon-call.json) |
 | Sailor Zombie: AKB48 Arcade Edition | 360054 | [360054-sailor-zombie-akb48-arcade-edition.json](./360054-sailor-zombie-akb48-arcade-edition.json) |
+| Sailor's Grave: the Curse of the Cook | 118279 | [118279-sailors-grave-the-curse-of-the-cook.json](./118279-sailors-grave-the-curse-of-the-cook.json) |
 | Sailor's Stories Solitaire | 196881 | [196881-sailors-stories-solitaire.json](./196881-sailors-stories-solitaire.json) |
 | Sailwind | 180225 | [180225-sailwind.json](./180225-sailwind.json) |
 | Saily Seas | 297507 | [297507-saily-seas.json](./297507-saily-seas.json) |
@@ -473,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salt and Sacrifice | 152065 | [152065-salt-and-sacrifice.json](./152065-salt-and-sacrifice.json) |
 | Salt and Sails | 153921 | [153921-salt-and-sails.json](./153921-salt-and-sails.json) |
 | Salt and Sanctuary: Drowned Tome Edition | 136349 | [136349-salt-and-sanctuary-drowned-tome-edition.json](./136349-salt-and-sanctuary-drowned-tome-edition.json) |
+| Salt the Earth | 118298 | [118298-salt-the-earth.json](./118298-salt-the-earth.json) |
 | SALT: Super Awesome Laser Tag | 379869 | [379869-salt-super-awesome-laser-tag.json](./379869-salt-super-awesome-laser-tag.json) |
 | Salted | 372537 | [372537-salted.json](./372537-salted.json) |
 | Salthe | 248139 | [248139-salthe.json](./248139-salthe.json) |
@@ -1429,6 +1431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorpion Garrison | 280227 | [280227-scorpion-garrison.json](./280227-scorpion-garrison.json) |
 | Scorpion Overdrive | 193464 | [193464-scorpion-overdrive.json](./193464-scorpion-overdrive.json) |
 | Scorpion's Curse | 295376 | [295376-scorpions-curse.json](./295376-scorpions-curse.json) |
+| Scotch Broom | 118448 | [118448-scotch-broom.json](./118448-scotch-broom.json) |
 | Scotland Yard | 209023 | [209023-scotland-yard.json](./209023-scotland-yard.json) |
 | Scotland Yard Interactive | 46567 | [46567-scotland-yard-interactive.json](./46567-scotland-yard-interactive.json) |
 | Scotland Yard: Hunting Mr. X | 22269 | [22269-scotland-yard-hunting-mr-x.json](./22269-scotland-yard-hunting-mr-x.json) |
@@ -7994,6 +7997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Worker Rush | 193850 | [193850-soul-worker-rush.json](./193850-soul-worker-rush.json) |
 | Soul's Spectrum | 232974 | [232974-souls-spectrum.json](./232974-souls-spectrum.json) |
 | Soul's Spectrum: Awakening | 267110 | [267110-souls-spectrum-awakening.json](./267110-souls-spectrum-awakening.json) |
+| Soulash | 118457 | [118457-soulash.json](./118457-soulash.json) |
 | Soulash 2 | 249194 | [249194-soulash-2.json](./249194-soulash-2.json) |
 | Soulblade: Dawnbreaker | 380003 | [380003-soulblade-dawnbreaker.json](./380003-soulblade-dawnbreaker.json) |
 | Soulblaze | 325674 | [325674-soulblaze.json](./325674-soulblaze.json) |
@@ -9157,6 +9161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spherix | 285514 | [285514-spherix.json](./285514-spherix.json) |
 | Spheroid | 100149 | [100149-spheroid.json](./100149-spheroid.json) |
 | Spheroid | 34535 | [34535-spheroid.json](./34535-spheroid.json) |
+| Spherythm | 118456 | [118456-spherythm.json](./118456-spherythm.json) |
 | Sphinx and the Cursed Mummy | 210438 | [210438-sphinx-and-the-cursed-mummy.json](./210438-sphinx-and-the-cursed-mummy.json) |
 | Sphinx Lowering | 229819 | [229819-sphinx-lowering.json](./229819-sphinx-lowering.json) |
 | Sphinx: Riddles of the Nile | 289377 | [289377-sphinx-riddles-of-the-nile.json](./289377-sphinx-riddles-of-the-nile.json) |
@@ -12663,6 +12668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumigami | 334171 | [334171-sumigami.json](./334171-sumigami.json) |
 | Sumiii | 219585 | [219585-sumiii.json](./219585-sumiii.json) |
 | SumiKen: Ink Blade Samurai | 208951 | [208951-sumiken-ink-blade-samurai.json](./208951-sumiken-ink-blade-samurai.json) |
+| Sumikko Gurashi: Gakkou Seikatsu Hajimerun Desu | 118269 | [118269-sumikko-gurashi-gakkou-seikatsu-hajimerun-desu.json](./118269-sumikko-gurashi-gakkou-seikatsu-hajimerun-desu.json) |
 | Sumikko Gurashi: Sumikko Park he Youkoso | 55138 | [55138-sumikko-gurashi-sumikko-park-he-youkoso.json](./55138-sumikko-gurashi-sumikko-park-he-youkoso.json) |
 | Sumikkogurashi the Movie Block Puzzle Game | 213635 | [213635-sumikkogurashi-the-movie-block-puzzle-game.json](./213635-sumikkogurashi-the-movie-block-puzzle-game.json) |
 | SuMine | 118163 | [118163-sumine.json](./118163-sumine.json) |
