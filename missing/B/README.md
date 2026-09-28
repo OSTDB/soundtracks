@@ -2480,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beepertron | 84239 | [84239-beepertron.json](./84239-beepertron.json) |
 | Beer & Plunder | 320868 | [320868-beer-and-plunder.json](./320868-beer-and-plunder.json) |
 | Beer Bar | 111867 | [111867-beer-bar.json](./111867-beer-bar.json) |
+| Beer Belly Burt's Brew Biz | 93167 | [93167-beer-belly-burts-brew-biz.json](./93167-beer-belly-burts-brew-biz.json) |
 | Beer Break | 199391 | [199391-beer-break.json](./199391-beer-break.json) |
 | Beer Pong : Trickshot | 90694 | [90694-beer-pong-trickshot.json](./90694-beer-pong-trickshot.json) |
 | Beer Pong League | 111342 | [111342-beer-pong-league.json](./111342-beer-pong-league.json) |
@@ -7734,6 +7735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Byoutai Seiri DS: Image Dekiru! Shikkan, Shoujou to Care | 269672 | [269672-byoutai-seiri-ds-image-dekiru-shikkan-shoujou-to-care.json](./269672-byoutai-seiri-ds-image-dekiru-shikkan-shoujou-to-care.json) |
 | Bypass | 382884 | [382884-bypass.json](./382884-bypass.json) |
 | Bystander | 75827 | [75827-bystander.json](./75827-bystander.json) |
+| Byte Bitten | 93183 | [93183-byte-bitten.json](./93183-byte-bitten.json) |
 | Byte Fyte: Multiplayer | 226276 | [226276-byte-fyte-multiplayer.json](./226276-byte-fyte-multiplayer.json) |
 | Byte Lynx | 203889 | [203889-byte-lynx.json](./203889-byte-lynx.json) |
 | Byte Rider | 234011 | [234011-byte-rider.json](./234011-byte-rider.json) |
