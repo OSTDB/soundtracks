@@ -6802,6 +6802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Offroad Fury Pro | 8274 | [8274-atv-offroad-fury-pro.json](./8274-atv-offroad-fury-pro.json) |
 | ATV Offroad Fury: Blazin' Trails | 8272 | [8272-atv-offroad-fury-blazin-trails.json](./8272-atv-offroad-fury-blazin-trails.json) |
 | ATV Pure | 99978 | [99978-atv-pure.json](./99978-atv-pure.json) |
+| ATV Quad Bike Simulator 2018: Bike Taxi Games | 103666 | [103666-atv-quad-bike-simulator-2018-bike-taxi-games.json](./103666-atv-quad-bike-simulator-2018-bike-taxi-games.json) |
 | ATV Quad Frenzy | 69810 | [69810-atv-quad-frenzy.json](./69810-atv-quad-frenzy.json) |
 | ATV Quad Power Racing | 248615 | [248615-atv-quad-power-racing.json](./248615-atv-quad-power-racing.json) |
 | ATV Quad Power Racing | 4142 | [4142-atv-quad-power-racing.json](./4142-atv-quad-power-racing.json) |
