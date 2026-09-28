@@ -1741,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Shoot: Slimes | 219651 | [219651-just-shoot-slimes.json](./219651-just-shoot-slimes.json) |
 | Just Sign! | 207297 | [207297-just-sign.json](./207297-just-sign.json) |
 | Just Sing | 23386 | [23386-just-sing.json](./23386-just-sing.json) |
+| Just Sing! | 81460 | [81460-just-sing.json](./81460-just-sing.json) |
 | Just Sing! Christmas Vol. 3 | 65489 | [65489-just-sing-christmas-vol-3.json](./65489-just-sing-christmas-vol-3.json) |
 | Just Skill Shooter | 250465 | [250465-just-skill-shooter.json](./250465-just-skill-shooter.json) |
 | Just Skill Shooter 3: 2D Edition | 295890 | [295890-just-skill-shooter-3-2d-edition.json](./295890-just-skill-shooter-3-2d-edition.json) |
