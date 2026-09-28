@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.C. III PS: Da Coda III - Plus Story | 259595 | [259595-d-c-iii-ps-da-coda-iii-plus-story.json](./259595-d-c-iii-ps-da-coda-iii-plus-story.json) |
 | D.C. Re:tune | 327964 | [327964-d-c-re-tune.json](./327964-d-c-re-tune.json) |
 | D.C. S#*!storm | 86547 | [86547-d-c-s-storm.json](./86547-d-c-s-storm.json) |
+| D.C.: Da Capo | 84314 | [84314-d-c-da-capo.json](./84314-d-c-da-capo.json) |
 | D.C.4: Da Capo 4 | 136926 | [136926-d-c-4-da-capo-4.json](./136926-d-c-4-da-capo-4.json) |
 | D.C.4: Da Capo 4 - Fortunate Departures | 207920 | [207920-d-c-4-da-capo-4-fortunate-departures.json](./207920-d-c-4-da-capo-4-fortunate-departures.json) |
 | D.C.4: Da Capo 4 - Limited Edition | 167044 | [167044-d-c-4-da-capo-4-limited-edition.json](./167044-d-c-4-da-capo-4-limited-edition.json) |
