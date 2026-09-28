@@ -4740,6 +4740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Humans | 37273 | [37273-the-humans.json](./37273-the-humans.json) |
 | The Humans 2: Jurassic Levels | 39032 | [39032-the-humans-2-jurassic-levels.json](./39032-the-humans-2-jurassic-levels.json) |
 | The Humans Collection | 103199 | [103199-the-humans-collection.json](./103199-the-humans-collection.json) |
+| The Humans: Meet the Ancestors | 78749 | [78749-the-humans-meet-the-ancestors.json](./78749-the-humans-meet-the-ancestors.json) |
 | The Hundred Line: Last Defense Academy - Digital Deluxe Edition | 338007 | [338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json](./338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json) |
 | The Hundred Line: Last Defense Academy - Nintendo Switch Version with Sleeve | 385732 | [385732-the-hundred-line-last-defense-academy-nintendo-switch-version-with-sleeve.json](./385732-the-hundred-line-last-defense-academy-nintendo-switch-version-with-sleeve.json) |
 | The Hundred Year Kingdom | 151737 | [151737-the-hundred-year-kingdom.json](./151737-the-hundred-year-kingdom.json) |
@@ -5494,6 +5495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of the War Axe | 190129 | [190129-the-legend-of-the-war-axe.json](./190129-the-legend-of-the-war-axe.json) |
 | The Legend of White Whale | 243945 | [243945-the-legend-of-white-whale.json](./243945-the-legend-of-white-whale.json) |
 | The Legend of Xanadu | 73824 | [73824-the-legend-of-xanadu.json](./73824-the-legend-of-xanadu.json) |
+| The Legend of Xanadu II | 78738 | [78738-the-legend-of-xanadu-ii.json](./78738-the-legend-of-xanadu-ii.json) |
 | The Legend of You | 390139 | [390139-the-legend-of-you.json](./390139-the-legend-of-you.json) |
 | The Legend of Zelda Game Watch | 172501 | [172501-the-legend-of-zelda-game-watch.json](./172501-the-legend-of-zelda-game-watch.json) |
 | The Legend of Zelda Ocarina of Time 3D: First Edition | 89904 | [89904-the-legend-of-zelda-ocarina-of-time-3d-first-edition.json](./89904-the-legend-of-zelda-ocarina-of-time-3d-first-edition.json) |
@@ -6502,6 +6504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pirates of Dark Water | 8104 | [8104-the-pirates-of-dark-water.json](./8104-the-pirates-of-dark-water.json) |
 | The Piratescape | 176451 | [176451-the-piratescape.json](./176451-the-piratescape.json) |
 | The Pit | 213417 | [213417-the-pit.json](./213417-the-pit.json) |
+| The Pit | 78596 | [78596-the-pit.json](./78596-the-pit.json) |
 | The Pit and the Pendulum | 32957 | [32957-the-pit-and-the-pendulum.json](./32957-the-pit-and-the-pendulum.json) |
 | The Pit Arcade | 255015 | [255015-the-pit-arcade.json](./255015-the-pit-arcade.json) |
 | The Pixel has You | 327198 | [327198-the-pixel-has-you.json](./327198-the-pixel-has-you.json) |
@@ -8011,6 +8014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unfinished Swan | 8352 | [8352-the-unfinished-swan.json](./8352-the-unfinished-swan.json) |
 | The Unfound Soul | 231403 | [231403-the-unfound-soul.json](./231403-the-unfound-soul.json) |
 | The Ungrateful Son | 340593 | [340593-the-ungrateful-son.json](./340593-the-ungrateful-son.json) |
+| The Unholy Society | 78751 | [78751-the-unholy-society.json](./78751-the-unholy-society.json) |
 | The Unicated | 327388 | [327388-the-unicated.json](./327388-the-unicated.json) |
 | The Unicorn Princess | 124157 | [124157-the-unicorn-princess.json](./124157-the-unicorn-princess.json) |
 | The Uninvited 2: Let Nothing You Dismay | 370106 | [370106-the-uninvited-2-let-nothing-you-dismay.json](./370106-the-uninvited-2-let-nothing-you-dismay.json) |
@@ -11634,6 +11638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Racing Nitro | 42843 | [42843-touch-racing-nitro.json](./42843-touch-racing-nitro.json) |
 | Touch Rummy HD | 96539 | [96539-touch-rummy-hd.json](./96539-touch-rummy-hd.json) |
 | Touch Selections | 57058 | [57058-touch-selections.json](./57058-touch-selections.json) |
+| Touch Solitaire | 78757 | [78757-touch-solitaire.json](./78757-touch-solitaire.json) |
 | Touch Some Grass | 195146 | [195146-touch-some-grass.json](./195146-touch-some-grass.json) |
 | Touch the Devil VR | 93720 | [93720-touch-the-devil-vr.json](./93720-touch-the-devil-vr.json) |
 | Touch the Floor | 151155 | [151155-touch-the-floor.json](./151155-touch-the-floor.json) |
