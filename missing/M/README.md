@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Cave | 141105 | [141105-machine-cave.json](./141105-machine-cave.json) |
 | Machine Challenger | 301254 | [301254-machine-challenger.json](./301254-machine-challenger.json) |
 | Machine Craft: Scrap Survival | 361793 | [361793-machine-craft-scrap-survival.json](./361793-machine-craft-scrap-survival.json) |
+| Machine Crisis | 76711 | [76711-machine-crisis.json](./76711-machine-crisis.json) |
 | Machine Gun Knight | 387025 | [387025-machine-gun-knight.json](./387025-machine-gun-knight.json) |
 | Machine Gun Mages | 221751 | [221751-machine-gun-mages.json](./221751-machine-gun-mages.json) |
 | Machine Heart | 248897 | [248897-machine-heart.json](./248897-machine-heart.json) |
