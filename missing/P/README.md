@@ -606,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pantsylvania | 64373 | [64373-pantsylvania.json](./64373-pantsylvania.json) |
 | Pantufa the Cat | 318632 | [318632-pantufa-the-cat.json](./318632-pantufa-the-cat.json) |
 | Pantufa the Cat: Extended Edition | 318631 | [318631-pantufa-the-cat-extended-edition.json](./318631-pantufa-the-cat-extended-edition.json) |
+| Panty Raider: From Here to Immaturity | 81476 | [81476-panty-raider-from-here-to-immaturity.json](./81476-panty-raider-from-here-to-immaturity.json) |
 | Panty Slide | 113153 | [113153-panty-slide.json](./113153-panty-slide.json) |
 | Panty&Demons | 184479 | [184479-panty-and-demons.json](./184479-panty-and-demons.json) |
 | Panzar | 15740 | [15740-panzar.json](./15740-panzar.json) |
@@ -1150,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parse-O-Rhythm | 305940 | [305940-parse-o-rhythm.json](./305940-parse-o-rhythm.json) |
 | Parsec | 18563 | [18563-parsec.json](./18563-parsec.json) |
 | Parsec | 341593 | [341593-parsec.json](./341593-parsec.json) |
+| Parsec Frontiers | 81196 | [81196-parsec-frontiers.json](./81196-parsec-frontiers.json) |
 | Parsec Lost in Space | 255972 | [255972-parsec-lost-in-space.json](./255972-parsec-lost-in-space.json) |
 | Parseword | 394540 | [394540-parseword.json](./394540-parseword.json) |
 | Parsnip | 96108 | [96108-parsnip.json](./96108-parsnip.json) |
@@ -4494,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocketon Peak | 181686 | [181686-pocketon-peak.json](./181686-pocketon-peak.json) |
 | PocketSports Football HD | 64684 | [64684-pocketsports-football-hd.json](./64684-pocketsports-football-hd.json) |
 | PocketWarwick | 64345 | [64345-pocketwarwick.json](./64345-pocketwarwick.json) |
+| Pockey | 81177 | [81177-pockey.json](./81177-pockey.json) |
 | Pocky & Rocky with Becky | 1537 | [1537-pocky-and-rocky-with-becky.json](./1537-pocky-and-rocky-with-becky.json) |
 | Poco's Maze Adventure | 319190 | [319190-pocos-maze-adventure.json](./319190-pocos-maze-adventure.json) |
 | Pocohontos | 225732 | [225732-pocohontos.json](./225732-pocohontos.json) |
@@ -6301,6 +6304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisonela DX | 284494 | [284494-prisonela-dx.json](./284494-prisonela-dx.json) |
 | Prisonela MD | 367939 | [367939-prisonela-md.json](./367939-prisonela-md.json) |
 | Prisoner | 44170 | [44170-prisoner.json](./44170-prisoner.json) |
+| Prisoner | 81185 | [81185-prisoner.json](./81185-prisoner.json) |
 | Prisoner 17 | 150044 | [150044-prisoner-17.json](./150044-prisoner-17.json) |
 | Prisoner Breaker | 372485 | [372485-prisoner-breaker.json](./372485-prisoner-breaker.json) |
 | Prisoners | 285470 | [285470-prisoners.json](./285470-prisoners.json) |
@@ -7621,6 +7625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putty Squad | 39021 | [39021-putty-squad.json](./39021-putty-squad.json) |
 | Putty Squad | 85584 | [85584-putty-squad.json](./85584-putty-squad.json) |
 | Puyo Pop | 23455 | [23455-puyo-pop.json](./23455-puyo-pop.json) |
+| Puyo Pop | 81459 | [81459-puyo-pop.json](./81459-puyo-pop.json) |
 | Puyo Puyo | 146876 | [146876-puyo-puyo.json](./146876-puyo-puyo.json) |
 | Puyo Puyo | 249773 | [249773-puyo-puyo.json](./249773-puyo-puyo.json) |
 | Puyo Puyo 2 | 84798 | [84798-puyo-puyo-2.json](./84798-puyo-puyo-2.json) |
