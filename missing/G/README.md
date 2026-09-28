@@ -2248,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gluttony | 353979 | [353979-gluttony.json](./353979-gluttony.json) |
 | Gluua | 235698 | [235698-gluua.json](./235698-gluua.json) |
 | Glyde the Dragon | 217234 | [217234-glyde-the-dragon.json](./217234-glyde-the-dragon.json) |
+| Glyder | 66754 | [66754-glyder.json](./66754-glyder.json) |
 | Glyder: Adventure Worlds | 66110 | [66110-glyder-adventure-worlds.json](./66110-glyder-adventure-worlds.json) |
 | Glyph | 208294 | [208294-glyph.json](./208294-glyph.json) |
 | Glyph | 243075 | [243075-glyph.json](./243075-glyph.json) |
