@@ -2794,6 +2794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the Stars: Survivor | 334886 | [334886-alone-in-the-stars-survivor.json](./334886-alone-in-the-stars-survivor.json) |
 | Alone on Mars | 165544 | [165544-alone-on-mars.json](./165544-alone-on-mars.json) |
 | Alone To Melt | 365753 | [365753-alone-to-melt.json](./365753-alone-to-melt.json) |
+| Alone With a Bunch of Robots | 115158 | [115158-alone-with-a-bunch-of-robots.json](./115158-alone-with-a-bunch-of-robots.json) |
 | Alone With You | 8635 | [8635-alone-with-you.json](./8635-alone-with-you.json) |
 | Alone Without Her | 19380 | [19380-alone-without-her.json](./19380-alone-without-her.json) |
 | Alone: Cold Winter | 239202 | [239202-alone-cold-winter.json](./239202-alone-cold-winter.json) |
@@ -5288,6 +5289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argonauts Agency: Chair of Hephaestus | 188084 | [188084-argonauts-agency-chair-of-hephaestus.json](./188084-argonauts-agency-chair-of-hephaestus.json) |
 | Argonauts Agency: Chair of Hephaestus - Collector's Edition | 357335 | [357335-argonauts-agency-chair-of-hephaestus-collectors-edition.json](./357335-argonauts-agency-chair-of-hephaestus-collectors-edition.json) |
 | Argonauts Agency: Glove of Midas - Collector's Edition | 357336 | [357336-argonauts-agency-glove-of-midas-collectors-edition.json](./357336-argonauts-agency-glove-of-midas-collectors-edition.json) |
+| Argonauts Agency: Golden Fleece | 115133 | [115133-argonauts-agency-golden-fleece.json](./115133-argonauts-agency-golden-fleece.json) |
 | Argonauts Agency: Missing Daughter | 187206 | [187206-argonauts-agency-missing-daughter.json](./187206-argonauts-agency-missing-daughter.json) |
 | Argonauts Agency: Missing Daughter - Collector's Edition | 357419 | [357419-argonauts-agency-missing-daughter-collectors-edition.json](./357419-argonauts-agency-missing-daughter-collectors-edition.json) |
 | Argonauts Agency: Pandora's Box | 117094 | [117094-argonauts-agency-pandoras-box.json](./117094-argonauts-agency-pandoras-box.json) |
@@ -5687,6 +5689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifacts of Eternity | 337617 | [337617-artifacts-of-eternity.json](./337617-artifacts-of-eternity.json) |
 | Artifacts of Eyru | 207507 | [207507-artifacts-of-eyru.json](./207507-artifacts-of-eyru.json) |
 | Artifice: War Tactics | 224748 | [224748-artifice-war-tactics.json](./224748-artifice-war-tactics.json) |
+| Artificial | 115126 | [115126-artificial.json](./115126-artificial.json) |
 | Artificial | 235361 | [235361-artificial.json](./235361-artificial.json) |
 | Artificial Academy | 22471 | [22471-artificial-academy.json](./22471-artificial-academy.json) |
 | Artificial Defense | 33511 | [33511-artificial-defense.json](./33511-artificial-defense.json) |
@@ -5697,6 +5700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Girl 3 Plus | 22465 | [22465-artificial-girl-3-plus.json](./22465-artificial-girl-3-plus.json) |
 | Artificial Life Simulator | 287719 | [287719-artificial-life-simulator.json](./287719-artificial-life-simulator.json) |
 | Artificial Superintelligence | 174353 | [174353-artificial-superintelligence.json](./174353-artificial-superintelligence.json) |
+| Artificiality | 115144 | [115144-artificiality.json](./115144-artificiality.json) |
 | Artika.1 | 74317 | [74317-artika-1.json](./74317-artika-1.json) |
 | Artillerists | 26687 | [26687-artillerists.json](./26687-artillerists.json) |
 | ArtilleRoyalty | 374681 | [374681-artilleroyalty.json](./374681-artilleroyalty.json) |
