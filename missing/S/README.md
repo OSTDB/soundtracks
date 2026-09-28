@@ -6592,6 +6592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snolf: Tournament Edition | 201808 | [201808-snolf-tournament-edition.json](./201808-snolf-tournament-edition.json) |
 | Snood | 246388 | [246388-snood.json](./246388-snood.json) |
 | Snood 2: On Vacation | 19107 | [19107-snood-2-on-vacation.json](./19107-snood-2-on-vacation.json) |
+| Snood Adventure | 99174 | [99174-snood-adventure.json](./99174-snood-adventure.json) |
 | Snood Poppers | 137656 | [137656-snood-poppers.json](./137656-snood-poppers.json) |
 | Snood Slide | 138016 | [138016-snood-slide.json](./138016-snood-slide.json) |
 | Snood Towers | 246389 | [246389-snood-towers.json](./246389-snood-towers.json) |
@@ -6684,6 +6685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowbird Solitaire | 354998 | [354998-snowbird-solitaire.json](./354998-snowbird-solitaire.json) |
 | Snowblind Aces | 216239 | [216239-snowblind-aces.json](./216239-snowblind-aces.json) |
 | Snowboard Champion | 280844 | [280844-snowboard-champion.json](./280844-snowboard-champion.json) |
+| Snowboard Freestyle Skiing | 99190 | [99190-snowboard-freestyle-skiing.json](./99190-snowboard-freestyle-skiing.json) |
 | Snowboard Heaven | 70664 | [70664-snowboard-heaven.json](./70664-snowboard-heaven.json) |
 | Snowboard Kids Plus | 72103 | [72103-snowboard-kids-plus.json](./72103-snowboard-kids-plus.json) |
 | Snowboard Legends | 322988 | [322988-snowboard-legends.json](./322988-snowboard-legends.json) |
@@ -11598,6 +11600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Alive DS | 270389 | [270389-still-alive-ds.json](./270389-still-alive-ds.json) |
 | Still Alive: Hollowed Horizon | 355075 | [355075-still-alive-hollowed-horizon.json](./355075-still-alive-hollowed-horizon.json) |
 | Still Dark at Dawn | 111028 | [111028-still-dark-at-dawn.json](./111028-still-dark-at-dawn.json) |
+| Still Here... Flight Adventure | 99178 | [99178-still-here-flight-adventure.json](./99178-still-here-flight-adventure.json) |
 | Still Heroes | 197963 | [197963-still-heroes.json](./197963-still-heroes.json) |
 | Still House | 366887 | [366887-still-house.json](./366887-still-house.json) |
 | Still It Runs | 350527 | [350527-still-it-runs.json](./350527-still-it-runs.json) |
@@ -11706,6 +11709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop Thief | 301438 | [301438-stop-thief.json](./301438-stop-thief.json) |
 | Stop Those Aliens! | 277567 | [277567-stop-those-aliens.json](./277567-stop-those-aliens.json) |
 | Stop, Pawssport Check | 311138 | [311138-stop-pawssport-check.json](./311138-stop-pawssport-check.json) |
+| Stop! Dictator Kim Jong-un | 99161 | [99161-stop-dictator-kim-jong-un.json](./99161-stop-dictator-kim-jong-un.json) |
 | Stop! Don’t Die In Australia | 290936 | [290936-stop-don-t-die-in-australia.json](./290936-stop-don-t-die-in-australia.json) |
 | Stop! Fill-in-the-Blank Word Game | 217979 | [217979-stop-fill-in-the-blank-word-game.json](./217979-stop-fill-in-the-blank-word-game.json) |
 | Stop10 | 292156 | [292156-stop10.json](./292156-stop10.json) |
