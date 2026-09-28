@@ -2882,6 +2882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alt-Frequencies | 115650 | [115650-alt-frequencies.json](./115650-alt-frequencies.json) |
 | Alt254 | 135287 | [135287-alt254.json](./135287-alt254.json) |
 | Altair | 38550 | [38550-altair.json](./38550-altair.json) |
+| Altair Assault | 117138 | [117138-altair-assault.json](./117138-altair-assault.json) |
 | Altair Breaker | 208682 | [208682-altair-breaker.json](./208682-altair-breaker.json) |
 | Altar | 337820 | [337820-altar.json](./337820-altar.json) |
 | Altar of Evil | 269116 | [269116-altar-of-evil.json](./269116-altar-of-evil.json) |
@@ -4017,6 +4018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: Complete Edition Year 3 | 146123 | [146123-anno-1800-complete-edition-year-3.json](./146123-anno-1800-complete-edition-year-3.json) |
 | Anno 1800: Complete Edition Year 4 | 197663 | [197663-anno-1800-complete-edition-year-4.json](./197663-anno-1800-complete-edition-year-4.json) |
 | Anno 1800: Cosmetic Pack Bundle | 227937 | [227937-anno-1800-cosmetic-pack-bundle.json](./227937-anno-1800-cosmetic-pack-bundle.json) |
+| Anno 1800: Deluxe Edition | 117155 | [117155-anno-1800-deluxe-edition.json](./117155-anno-1800-deluxe-edition.json) |
 | Anno 1800: Docklands | 151113 | [151113-anno-1800-docklands.json](./151113-anno-1800-docklands.json) |
 | Anno 1800: Dragon Garden Pack | 232405 | [232405-anno-1800-dragon-garden-pack.json](./232405-anno-1800-dragon-garden-pack.json) |
 | Anno 1800: Efficiency Masters Bundle | 317368 | [317368-anno-1800-efficiency-masters-bundle.json](./317368-anno-1800-efficiency-masters-bundle.json) |
@@ -4951,6 +4953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcaduis | 164984 | [164984-arcaduis.json](./164984-arcaduis.json) |
 | Arcaea | 147946 | [147946-arcaea.json](./147946-arcaea.json) |
 | Arcaea | 27997 | [27997-arcaea.json](./27997-arcaea.json) |
+| Arcalast: The world that ends and the fruit of the diva | 117151 | [117151-arcalast-the-world-that-ends-and-the-fruit-of-the-diva.json](./117151-arcalast-the-world-that-ends-and-the-fruit-of-the-diva.json) |
 | Arcana | 3652 | [3652-arcana.json](./3652-arcana.json) |
 | Arcana | 67701 | [67701-arcana.json](./67701-arcana.json) |
 | Arcana Academy | 367968 | [367968-arcana-academy.json](./367968-arcana-academy.json) |
@@ -5552,6 +5555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arobynn: Below The Surface | 248893 | [248893-arobynn-below-the-surface.json](./248893-arobynn-below-the-surface.json) |
 | Aroma | 226231 | [226231-aroma.json](./226231-aroma.json) |
 | Aroma Button | 380110 | [380110-aroma-button.json](./380110-aroma-button.json) |
+| Aron's Adventure | 117147 | [117147-arons-adventure.json](./117147-arons-adventure.json) |
 | Aron's Adventure: Magic Reborn | 277355 | [277355-arons-adventure-magic-reborn.json](./277355-arons-adventure-magic-reborn.json) |
 | Aron's Gift | 96100 | [96100-arons-gift.json](./96100-arons-gift.json) |
 | Around the Block | 390791 | [390791-around-the-block.json](./390791-around-the-block.json) |
