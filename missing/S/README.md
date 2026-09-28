@@ -8004,6 +8004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort It! | 268528 | [268528-sort-it.json](./268528-sort-it.json) |
 | Sort of Justice: Chapter 1 | 335991 | [335991-sort-of-justice-chapter-1.json](./335991-sort-of-justice-chapter-1.json) |
 | Sort the Cube | 106392 | [106392-sort-the-cube.json](./106392-sort-the-cube.json) |
+| Sort the Socks | 87624 | [87624-sort-the-socks.json](./87624-sort-the-socks.json) |
 | Sort Them Ducks | 412357 | [412357-sort-them-ducks.json](./412357-sort-them-ducks.json) |
 | Sorted | 392265 | [392265-sorted.json](./392265-sorted.json) |
 | Sorted! | 219586 | [219586-sorted.json](./219586-sorted.json) |
@@ -9373,6 +9374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Riders: Battle for Arachna | 316801 | [316801-spider-riders-battle-for-arachna.json](./316801-spider-riders-battle-for-arachna.json) |
 | Spider Roulette | 386694 | [386694-spider-roulette.json](./386694-spider-roulette.json) |
 | Spider Shooting Bee | 119793 | [119793-spider-shooting-bee.json](./119793-spider-shooting-bee.json) |
+| Spider Solitaire 2018 | 87636 | [87636-spider-solitaire-2018.json](./87636-spider-solitaire-2018.json) |
 | Spider Solitaire 2022 | 217792 | [217792-spider-solitaire-2022.json](./217792-spider-solitaire-2022.json) |
 | Spider Solitaire F | 109493 | [109493-spider-solitaire-f.json](./109493-spider-solitaire-f.json) |
 | Spider Solitaire Pro! | 89182 | [89182-spider-solitaire-pro.json](./89182-spider-solitaire-pro.json) |
@@ -11160,6 +11162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State Your Business | 336620 | [336620-state-your-business.json](./336620-state-your-business.json) |
 | State Z | 406836 | [406836-state-z.json](./406836-state-z.json) |
 | Statecraft | 365852 | [365852-statecraft.json](./365852-statecraft.json) |
+| States Map Tutor | 87542 | [87542-states-map-tutor.json](./87542-states-map-tutor.json) |
 | States, Firms, and Households | 33122 | [33122-states-firms-and-households.json](./33122-states-firms-and-households.json) |
 | Static | 333637 | [333637-static.json](./333637-static.json) |
 | Static | 94914 | [94914-static.json](./94914-static.json) |
@@ -15213,6 +15216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Office | 212191 | [212191-sweet-office.json](./212191-sweet-office.json) |
 | Sweet Pensiveness Christmas | 176257 | [176257-sweet-pensiveness-christmas.json](./176257-sweet-pensiveness-christmas.json) |
 | Sweet Pet | 392913 | [392913-sweet-pet.json](./392913-sweet-pet.json) |
+| Sweet Princess Prom Night | 87613 | [87613-sweet-princess-prom-night.json](./87613-sweet-princess-prom-night.json) |
 | Sweet Racing Girl | 339445 | [339445-sweet-racing-girl.json](./339445-sweet-racing-girl.json) |
 | Sweet Restaurant | 368561 | [368561-sweet-restaurant.json](./368561-sweet-restaurant.json) |
 | Sweet Revenge | 310549 | [310549-sweet-revenge.json](./310549-sweet-revenge.json) |
