@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby's Town | 299835 | [299835-babys-town.json](./299835-babys-town.json) |
 | Babylon 2055 Pinball | 33113 | [33113-babylon-2055-pinball.json](./33113-babylon-2055-pinball.json) |
 | Babylon 5 | 218435 | [218435-babylon-5.json](./218435-babylon-5.json) |
+| Babylon 5: I've Found Her - Danger and Opportunity | 78731 | [78731-babylon-5-ive-found-her-danger-and-opportunity.json](./78731-babylon-5-ive-found-her-danger-and-opportunity.json) |
 | Babylon X | 307136 | [307136-babylon-x.json](./307136-babylon-x.json) |
 | BabyRace | 255122 | [255122-babyrace.json](./255122-babyrace.json) |
 | Babysitter Simulator | 203902 | [203902-babysitter-simulator.json](./203902-babysitter-simulator.json) |
@@ -1216,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrack | 83919 | [83919-barrack.json](./83919-barrack.json) |
 | Barrage | 146228 | [146228-barrage.json](./146228-barrage.json) |
 | Barrage | 196818 | [196818-barrage.json](./196818-barrage.json) |
+| Barrage | 78603 | [78603-barrage.json](./78603-barrage.json) |
 | Barrage Fantasia | 144356 | [144356-barrage-fantasia.json](./144356-barrage-fantasia.json) |
 | Barrage Girl | 100754 | [100754-barrage-girl.json](./100754-barrage-girl.json) |
 | Barrage Musical: Basic Danmaku Tutorial | 127463 | [127463-barrage-musical-basic-danmaku-tutorial.json](./127463-barrage-musical-basic-danmaku-tutorial.json) |
@@ -1706,6 +1708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Brains | 129646 | [129646-battle-of-brains.json](./129646-battle-of-brains.json) |
 | Battle of Britain | 82058 | [82058-battle-of-britain.json](./82058-battle-of-britain.json) |
 | Battle of Decay: Survival | 217015 | [217015-battle-of-decay-survival.json](./217015-battle-of-decay-survival.json) |
+| Battle of Destiny | 78601 | [78601-battle-of-destiny.json](./78601-battle-of-destiny.json) |
 | Battle of Dry Lake 24 | 26910 | [26910-battle-of-dry-lake-24.json](./26910-battle-of-dry-lake-24.json) |
 | Battle of Elemental | 376544 | [376544-battle-of-elemental.json](./376544-battle-of-elemental.json) |
 | Battle of Elemental Burst | 222259 | [222259-battle-of-elemental-burst.json](./222259-battle-of-elemental-burst.json) |
@@ -5825,6 +5828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Dash | 280837 | [280837-boulder-dash.json](./280837-boulder-dash.json) |
 | Boulder Dash | 280838 | [280838-boulder-dash.json](./280838-boulder-dash.json) |
 | Boulder Dash | 283712 | [283712-boulder-dash.json](./283712-boulder-dash.json) |
+| Boulder Dash EX | 78733 | [78733-boulder-dash-ex.json](./78733-boulder-dash-ex.json) |
 | Boulder Dash: 30th Anniversary | 25569 | [25569-boulder-dash-30th-anniversary.json](./25569-boulder-dash-30th-anniversary.json) |
 | Boulder Dash: 40th Anniversary | 316942 | [316942-boulder-dash-40th-anniversary.json](./316942-boulder-dash-40th-anniversary.json) |
 | Boulder Match 4 | 66673 | [66673-boulder-match-4.json](./66673-boulder-match-4.json) |
@@ -6471,6 +6475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking Wheel | 30857 | [30857-breaking-wheel.json](./30857-breaking-wheel.json) |
 | Breakline | 147279 | [147279-breakline.json](./147279-breakline.json) |
 | BreakLoop | 383953 | [383953-breakloop.json](./383953-breakloop.json) |
+| Breakneck | 78593 | [78593-breakneck.json](./78593-breakneck.json) |
 | Breakout 2000 | 40816 | [40816-breakout-2000.json](./40816-breakout-2000.json) |
 | Breakout 3 | 319572 | [319572-breakout-3.json](./319572-breakout-3.json) |
 | Breakout 3000 | 73293 | [73293-breakout-3000.json](./73293-breakout-3000.json) |
