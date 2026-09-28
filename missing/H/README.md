@@ -1521,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeatStroke | 194629 | [194629-heatstroke.json](./194629-heatstroke.json) |
 | Heatwave | 169894 | [169894-heatwave.json](./169894-heatwave.json) |
 | Heave Ho + Heave Ho 2 Bundle | 412952 | [412952-heave-ho-heave-ho-2-bundle.json](./412952-heave-ho-heave-ho-2-bundle.json) |
+| Heaven | 78071 | [78071-heaven.json](./78071-heaven.json) |
 | Heaven & Hell | 113031 | [113031-heaven-and-hell.json](./113031-heaven-and-hell.json) |
 | Heaven & Hell 2 | 114375 | [114375-heaven-and-hell-2.json](./114375-heaven-and-hell-2.json) |
 | Heaven And Hell: The Last War | 111713 | [111713-heaven-and-hell-the-last-war.json](./111713-heaven-and-hell-the-last-war.json) |
@@ -2866,11 +2867,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi-Fi Rush: Teamplay Costume Pack | 275615 | [275615-hi-fi-rush-teamplay-costume-pack.json](./275615-hi-fi-rush-teamplay-costume-pack.json) |
 | Hi-Fi Rush: Traditional Garb Costume Pack | 255966 | [255966-hi-fi-rush-traditional-garb-costume-pack.json](./255966-hi-fi-rush-traditional-garb-costume-pack.json) |
 | Hi-Flyer | 91362 | [91362-hi-flyer.json](./91362-hi-flyer.json) |
+| Hi-iro no Kakera | 77914 | [77914-hi-iro-no-kakera.json](./77914-hi-iro-no-kakera.json) |
 | Hi-iro no Kakera Aizou-ban: Akane-iro no Tsuioku | 45287 | [45287-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku.json](./45287-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku.json) |
 | Hi-iro no Kakera Aizou-ban: Akane-iro no Tsuioku - Limited Edition | 254439 | [254439-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku-limited-edition.json](./254439-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku-limited-edition.json) |
 | Hi-Res Brazil | 406093 | [406093-hi-res-brazil.json](./406093-hi-res-brazil.json) |
 | Hi-Res Cribbage | 66708 | [66708-hi-res-cribbage.json](./66708-hi-res-cribbage.json) |
 | Hi-Tech Hell 2 | 269115 | [269115-hi-tech-hell-2.json](./269115-hi-tech-hell-2.json) |
+| Hi-Ten Bomberman | 77942 | [77942-hi-ten-bomberman.json](./77942-hi-ten-bomberman.json) |
 | Hi-way | 18201 | [18201-hi-way.json](./18201-hi-way.json) |
 | Hibachi Hero | 395015 | [395015-hibachi-hero.json](./395015-hibachi-hero.json) |
 | Hibernation | 339638 | [339638-hibernation.json](./339638-hibernation.json) |
