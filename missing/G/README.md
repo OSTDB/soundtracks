@@ -1308,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genso Chronicles | 286881 | [286881-genso-chronicles.json](./286881-genso-chronicles.json) |
 | Genso Flood Front | 214768 | [214768-genso-flood-front.json](./214768-genso-flood-front.json) |
 | Genso Manège | 306084 | [306084-genso-manege.json](./306084-genso-manege.json) |
+| Genso Skydrift Reborn | 114541 | [114541-genso-skydrift-reborn.json](./114541-genso-skydrift-reborn.json) |
 | Gensokyo Odyssey | 192364 | [192364-gensokyo-odyssey.json](./192364-gensokyo-odyssey.json) |
 | Gensokyo Rolling Force | 105313 | [105313-gensokyo-rolling-force.json](./105313-gensokyo-rolling-force.json) |
 | Gensokyo: Presumption of Guilt - Pansies Before Dawn | 311149 | [311149-gensokyo-presumption-of-guilt-pansies-before-dawn.json](./311149-gensokyo-presumption-of-guilt-pansies-before-dawn.json) |
@@ -2758,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Adventures! | 181717 | [181717-golf-adventures.json](./181717-golf-adventures.json) |
 | Golf Around! | 126509 | [126509-golf-around.json](./126509-golf-around.json) |
 | Golf Ba Multimedia Shinchaku: Susono Country Club Hen | 254428 | [254428-golf-ba-multimedia-shinchaku-susono-country-club-hen.json](./254428-golf-ba-multimedia-shinchaku-susono-country-club-hen.json) |
+| Golf Blitz | 114534 | [114534-golf-blitz.json](./114534-golf-blitz.json) |
 | Golf Card Game | 104485 | [104485-golf-card-game.json](./104485-golf-card-game.json) |
 | Golf Cart Race | 105919 | [105919-golf-cart-race.json](./105919-golf-cart-race.json) |
 | Golf Clash | 56902 | [56902-golf-clash.json](./56902-golf-clash.json) |
@@ -3382,6 +3384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graphomata | 288878 | [288878-graphomata.json](./288878-graphomata.json) |
 | GraphSpacer | 68637 | [68637-graphspacer.json](./68637-graphspacer.json) |
 | GraphSpacer Black | 80243 | [80243-graphspacer-black.json](./80243-graphspacer-black.json) |
+| Grapple Bear | 114538 | [114538-grapple-bear.json](./114538-grapple-bear.json) |
 | Grapple Boy | 62425 | [62425-grapple-boy.json](./62425-grapple-boy.json) |
 | Grapple Cars | 253300 | [253300-grapple-cars.json](./253300-grapple-cars.json) |
 | Grapple Dogs Collection | 331408 | [331408-grapple-dogs-collection.json](./331408-grapple-dogs-collection.json) |
