@@ -6983,6 +6983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secrets We Grow | 362483 | [362483-the-secrets-we-grow.json](./362483-the-secrets-we-grow.json) |
 | The Seduction of Shaqeera VR | 344438 | [344438-the-seduction-of-shaqeera-vr.json](./344438-the-seduction-of-shaqeera-vr.json) |
 | The SeethingSwarm Collection | 385848 | [385848-the-seethingswarm-collection.json](./385848-the-seethingswarm-collection.json) |
+| The Seller | 84956 | [84956-the-seller.json](./84956-the-seller.json) |
 | The Senpai | 230521 | [230521-the-senpai.json](./230521-the-senpai.json) |
 | The Sensha | 59418 | [59418-the-sensha.json](./59418-the-sensha.json) |
 | The Sentinel | 265158 | [265158-the-sentinel.json](./265158-the-sentinel.json) |
@@ -7446,6 +7447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stone of Madness | 138097 | [138097-the-stone-of-madness.json](./138097-the-stone-of-madness.json) |
 | The Stone of Sisyphus | 24902 | [24902-the-stone-of-sisyphus.json](./24902-the-stone-of-sisyphus.json) |
 | The Stone Ship | 408790 | [408790-the-stone-ship.json](./408790-the-stone-ship.json) |
+| The Stonecutter | 84955 | [84955-the-stonecutter.json](./84955-the-stonecutter.json) |
 | The Stones | 371482 | [371482-the-stones.json](./371482-the-stones.json) |
 | The Stonks Market | 146698 | [146698-the-stonks-market.json](./146698-the-stonks-market.json) |
 | The Stories of Scheherazade | 112327 | [112327-the-stories-of-scheherazade.json](./112327-the-stories-of-scheherazade.json) |
@@ -8051,6 +8053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vertigo lite | 129665 | [129665-the-vertigo-lite.json](./129665-the-vertigo-lite.json) |
 | The Very Big Cave Adventure | 26477 | [26477-the-very-big-cave-adventure.json](./26477-the-very-big-cave-adventure.json) |
 | The Very Hungry Caterpillar: Play & Explore | 101072 | [101072-the-very-hungry-caterpillar-play-and-explore.json](./101072-the-very-hungry-caterpillar-play-and-explore.json) |
+| The Very Hungry Caterpillar's ABCs | 84954 | [84954-the-very-hungry-caterpillars-abcs.json](./84954-the-very-hungry-caterpillars-abcs.json) |
 | The Very Idle Game | 310750 | [310750-the-very-idle-game.json](./310750-the-very-idle-game.json) |
 | The very last farm | 185020 | [185020-the-very-last-farm.json](./185020-the-very-last-farm.json) |
 | The very long walk | 77655 | [77655-the-very-long-walk.json](./77655-the-very-long-walk.json) |
@@ -8088,6 +8091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Voice in the Void | 48005 | [48005-the-voice-in-the-void.json](./48005-the-voice-in-the-void.json) |
 | The Voice Inside | 115486 | [115486-the-voice-inside.json](./115486-the-voice-inside.json) |
 | The Voice of Germany: Das offizielle Videospiel! | 332829 | [332829-the-voice-of-germany-das-offizielle-videospiel.json](./332829-the-voice-of-germany-das-offizielle-videospiel.json) |
+| The Voice: I Want You | 84953 | [84953-the-voice-i-want-you.json](./84953-the-voice-i-want-you.json) |
 | The Voice: La Plus Belle Voix | 268433 | [268433-the-voice-la-plus-belle-voix.json](./268433-the-voice-la-plus-belle-voix.json) |
 | The Voices Games 2D Collection | 208590 | [208590-the-voices-games-2d-collection.json](./208590-the-voices-games-2d-collection.json) |
 | The Void | 3273 | [3273-the-void.json](./3273-the-void.json) |
@@ -8961,6 +8965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrunt XL | 111483 | [111483-thrunt-xl.json](./111483-thrunt-xl.json) |
 | Thrunt! | 134682 | [134682-thrunt.json](./134682-thrunt.json) |
 | Thrushbriar Hall | 111031 | [111031-thrushbriar-hall.json](./111031-thrushbriar-hall.json) |
+| ThruSpace | 84952 | [84952-thruspace.json](./84952-thruspace.json) |
 | Thrust | 12967 | [12967-thrust.json](./12967-thrust.json) |
 | Thrust & Shoot: Flight School | 51554 | [51554-thrust-and-shoot-flight-school.json](./51554-thrust-and-shoot-flight-school.json) |
 | Thrust Issues | 382329 | [382329-thrust-issues.json](./382329-thrust-issues.json) |
@@ -10321,6 +10326,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Football | 191182 | [191182-tiny-football.json](./191182-tiny-football.json) |
 | Tiny Fortress | 409645 | [409645-tiny-fortress.json](./409645-tiny-fortress.json) |
 | Tiny Fragments | 142360 | [142360-tiny-fragments.json](./142360-tiny-fragments.json) |
+| Tiny Galaxy | 84951 | [84951-tiny-galaxy.json](./84951-tiny-galaxy.json) |
+| Tiny Games: Knights & Dragons | 84950 | [84950-tiny-games-knights-and-dragons.json](./84950-tiny-games-knights-and-dragons.json) |
 | Tiny Garden | 300390 | [300390-tiny-garden.json](./300390-tiny-garden.json) |
 | Tiny Gems Bundle | 292617 | [292617-tiny-gems-bundle.json](./292617-tiny-gems-bundle.json) |
 | Tiny Goalie | 233081 | [233081-tiny-goalie.json](./233081-tiny-goalie.json) |
@@ -10498,6 +10505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titans of Steel: Warring Suns | 69841 | [69841-titans-of-steel-warring-suns.json](./69841-titans-of-steel-warring-suns.json) |
 | Titans of the Past | 340565 | [340565-titans-of-the-past.json](./340565-titans-of-the-past.json) |
 | Titans Pinball | 124093 | [124093-titans-pinball.json](./124093-titans-pinball.json) |
+| Titans Tower | 84949 | [84949-titans-tower.json](./84949-titans-tower.json) |
 | Titans: Dawn of Tribes | 109056 | [109056-titans-dawn-of-tribes.json](./109056-titans-dawn-of-tribes.json) |
 | Titenic | 10841 | [10841-titenic.json](./10841-titenic.json) |
 | Titeuf: Le Film | 268430 | [268430-titeuf-le-film.json](./268430-titeuf-le-film.json) |
@@ -11215,6 +11223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Puzzle Island | 233083 | [233083-toon-puzzle-island.json](./233083-toon-puzzle-island.json) |
 | Toon Puzzle Quest | 108480 | [108480-toon-puzzle-quest.json](./108480-toon-puzzle-quest.json) |
 | Toon Roads: Race & Drift | 288315 | [288315-toon-roads-race-and-drift.json](./288315-toon-roads-race-and-drift.json) |
+| Toon Tanks | 84947 | [84947-toon-tanks.json](./84947-toon-tanks.json) |
 | Toon War | 86238 | [86238-toon-war.json](./86238-toon-war.json) |
 | Toon Wars: Tank Battles | 87898 | [87898-toon-wars-tank-battles.json](./87898-toon-wars-tank-battles.json) |
 | Toon-Doku | 20700 | [20700-toon-doku.json](./20700-toon-doku.json) |
@@ -11266,6 +11275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gun: Hornet's Nest | 22912 | [22912-top-gun-hornets-nest.json](./22912-top-gun-hornets-nest.json) |
 | Top Gun: Wingman Edition | 206750 | [206750-top-gun-wingman-edition.json](./206750-top-gun-wingman-edition.json) |
 | Top Management II | 37785 | [37785-top-management-ii.json](./37785-top-management-ii.json) |
+| Top Model 3D | 84948 | [84948-top-model-3d.json](./84948-top-model-3d.json) |
 | Top Race | 236832 | [236832-top-race.json](./236832-top-race.json) |
 | Top Run | 129126 | [129126-top-run.json](./129126-top-run.json) |
 | Top Runner | 172532 | [172532-top-runner.json](./172532-top-runner.json) |
@@ -11293,6 +11303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topografie Nederland | 86027 | [86027-topografie-nederland.json](./86027-topografie-nederland.json) |
 | Topography | 142229 | [142229-topography.json](./142229-topography.json) |
 | Topolino amico delle guardie | 246664 | [246664-topolino-amico-delle-guardie.json](./246664-topolino-amico-delle-guardie.json) |
+| Topoloco | 84946 | [84946-topoloco.json](./84946-topoloco.json) |
 | Topper Carrier | 152830 | [152830-topper-carrier.json](./152830-topper-carrier.json) |
 | Toppl. | 174219 | [174219-toppl.json](./174219-toppl.json) |
 | Topple | 93973 | [93973-topple.json](./93973-topple.json) |
@@ -13062,6 +13073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapmania | 151152 | [151152-trapmania.json](./151152-trapmania.json) |
 | Trapnoid 2 | 109743 | [109743-trapnoid-2.json](./109743-trapnoid-2.json) |
 | Trapped | 305360 | [305360-trapped.json](./305360-trapped.json) |
+| Trapped 2 | 84296 | [84296-trapped-2.json](./84296-trapped-2.json) |
 | Trapped 2: Pirates | 311648 | [311648-trapped-2-pirates.json](./311648-trapped-2-pirates.json) |
 | Trapped Beast | 339106 | [339106-trapped-beast.json](./339106-trapped-beast.json) |
 | Trapped Dead: Lockdown | 17508 | [17508-trapped-dead-lockdown.json](./17508-trapped-dead-lockdown.json) |
