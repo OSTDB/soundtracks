@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abberbury | 111212 | [111212-abberbury.json](./111212-abberbury.json) |
 | Abbie's Farm | 147459 | [147459-abbies-farm.json](./147459-abbies-farm.json) |
 | Abbigale and the Monster | 51177 | [51177-abbigale-and-the-monster.json](./51177-abbigale-and-the-monster.json) |
+| Abbot's Book | 92095 | [92095-abbots-book.json](./92095-abbots-book.json) |
 | Abby Héroes en apuros | 316790 | [316790-abby-heroes-en-apuros.json](./316790-abby-heroes-en-apuros.json) |
 | Abby Monkey Musical Puzzle Games | 96753 | [96753-abby-monkey-musical-puzzle-games.json](./96753-abby-monkey-musical-puzzle-games.json) |
 | ABC Memory Match | 99415 | [99415-abc-memory-match.json](./99415-abc-memory-match.json) |
@@ -4060,6 +4061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anna: The Series Test | 156645 | [156645-anna-the-series-test.json](./156645-anna-the-series-test.json) |
 | Anna's Gram | 94252 | [94252-annas-gram.json](./94252-annas-gram.json) |
 | Anna's Quest | 11367 | [11367-annas-quest.json](./11367-annas-quest.json) |
+| Annabel | 92055 | [92055-annabel.json](./92055-annabel.json) |
 | Annabel Gray | 15596 | [15596-annabel-gray.json](./15596-annabel-gray.json) |
 | Annapurna Interactive Deluxe Limited Edition | 138780 | [138780-annapurna-interactive-deluxe-limited-edition.json](./138780-annapurna-interactive-deluxe-limited-edition.json) |
 | Anne's Zombie Odyssey | 328574 | [328574-annes-zombie-odyssey.json](./328574-annes-zombie-odyssey.json) |
