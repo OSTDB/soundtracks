@@ -7650,6 +7650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzz LR | 150632 | [150632-puzz-lr.json](./150632-puzz-lr.json) |
 | Puzz'l | 229803 | [229803-puzzl.json](./229803-puzzl.json) |
 | Puzzel Nite | 140397 | [140397-puzzel-nite.json](./140397-puzzel-nite.json) |
+| Puzzelate | 78745 | [78745-puzzelate.json](./78745-puzzelate.json) |
 | Puzzgun | 98684 | [98684-puzzgun.json](./98684-puzzgun.json) |
 | Puzzl9 | 178650 | [178650-puzzl9.json](./178650-puzzl9.json) |
 | Puzzle & Action: Treasure Hunt | 123590 | [123590-puzzle-and-action-treasure-hunt.json](./123590-puzzle-and-action-treasure-hunt.json) |
