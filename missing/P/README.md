@@ -3875,6 +3875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet After Us | 195613 | [195613-planet-after-us.json](./195613-planet-after-us.json) |
 | Planet Alcatraz 2 | 34779 | [34779-planet-alcatraz-2.json](./34779-planet-alcatraz-2.json) |
 | Planet Alpha | 28070 | [28070-planet-alpha.json](./28070-planet-alpha.json) |
+| Planet Ancrya Chronicles | 105557 | [105557-planet-ancrya-chronicles.json](./105557-planet-ancrya-chronicles.json) |
 | Planet Assault | 89936 | [89936-planet-assault.json](./89936-planet-assault.json) |
 | Planet B24 | 154374 | [154374-planet-b24.json](./154374-planet-b24.json) |
 | Planet Ballet | 179051 | [179051-planet-ballet.json](./179051-planet-ballet.json) |
@@ -5341,6 +5342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poppin' Donuts | 157215 | [157215-poppin-donuts.json](./157215-poppin-donuts.json) |
 | Poppit! Party | 354993 | [354993-poppit-party.json](./354993-poppit-party.json) |
 | Poppit! Sprint | 366445 | [366445-poppit-sprint.json](./366445-poppit-sprint.json) |
+| Poppix | 105535 | [105535-poppix.json](./105535-poppix.json) |
 | Poppy Birds | 267955 | [267955-poppy-birds.json](./267955-poppy-birds.json) |
 | Poppy It! Playtime | 281420 | [281420-poppy-it-playtime.json](./281420-poppy-it-playtime.json) |
 | Poppy Kart | 13884 | [13884-poppy-kart.json](./13884-poppy-kart.json) |
@@ -5958,6 +5960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Safe Airlines | 125480 | [125480-pretty-safe-airlines.json](./125480-pretty-safe-airlines.json) |
 | Pretty Soldier Sailor Moon S | 316798 | [316798-pretty-soldier-sailor-moon-s.json](./316798-pretty-soldier-sailor-moon-s.json) |
 | Pretty Visitors | 229791 | [229791-pretty-visitors.json](./229791-pretty-visitors.json) |
+| Pretz'l Land | 105554 | [105554-pretzl-land.json](./105554-pretzl-land.json) |
 | Previous Tenant | 152208 | [152208-previous-tenant.json](./152208-previous-tenant.json) |
 | Prey 2 | 525 | [525-prey-2.json](./525-prey-2.json) |
 | Prey of the Night | 325626 | [325626-prey-of-the-night.json](./325626-prey-of-the-night.json) |
