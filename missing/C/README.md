@@ -2358,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Rugby Manager | 71223 | [71223-championship-rugby-manager.json](./71223-championship-rugby-manager.json) |
 | Championship Soccer | 46882 | [46882-championship-soccer.json](./46882-championship-soccer.json) |
 | Championship Soccer '94 | 165410 | [165410-championship-soccer-94.json](./165410-championship-soccer-94.json) |
+| Championship Soccer 2004 | 91562 | [91562-championship-soccer-2004.json](./91562-championship-soccer-2004.json) |
 | Championship Wrestling | 13827 | [13827-championship-wrestling.json](./13827-championship-wrestling.json) |
 | Championship Wrestling Promoter | 199124 | [199124-championship-wrestling-promoter.json](./199124-championship-wrestling-promoter.json) |
 | ChampionsTCG | 273920 | [273920-championstcg.json](./273920-championstcg.json) |
@@ -3256,6 +3257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choppa: Rescue Rivals | 127077 | [127077-choppa-rescue-rivals.json](./127077-choppa-rescue-rivals.json) |
 | Chopped Up | 388368 | [388368-chopped-up.json](./388368-chopped-up.json) |
 | Chopper Attack | 3428 | [3428-chopper-attack.json](./3428-chopper-attack.json) |
+| Chopper Battle | 91527 | [91527-chopper-battle.json](./91527-chopper-battle.json) |
 | Chopper Battle New Horizon | 75767 | [75767-chopper-battle-new-horizon.json](./75767-chopper-battle-new-horizon.json) |
 | Chopper Commando | 78716 | [78716-chopper-commando.json](./78716-chopper-commando.json) |
 | Chopper Hunt | 25671 | [25671-chopper-hunt.json](./25671-chopper-hunt.json) |
@@ -5473,6 +5475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compression | 345664 | [345664-compression.json](./345664-compression.json) |
 | Compromised | 79596 | [79596-compromised.json](./79596-compromised.json) |
 | Compu-Tron x3000 | 338291 | [338291-compu-tron-x3000.json](./338291-compu-tron-x3000.json) |
+| CompuChess | 91563 | [91563-compuchess.json](./91563-compuchess.json) |
 | Compulsive | 250661 | [250661-compulsive.json](./250661-compulsive.json) |
 | Computer Baseball | 245531 | [245531-computer-baseball.json](./245531-computer-baseball.json) |
 | Computer Baseball | 245532 | [245532-computer-baseball.json](./245532-computer-baseball.json) |
