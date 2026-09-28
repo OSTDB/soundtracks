@@ -3955,6 +3955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Yourself With a Rifle | 336531 | [336531-shoot-yourself-with-a-rifle.json](./336531-shoot-yourself-with-a-rifle.json) |
 | Shoot-No-Shoot | 107805 | [107805-shoot-no-shoot.json](./107805-shoot-no-shoot.json) |
 | Shoot! VR | 230948 | [230948-shoot-vr.json](./230948-shoot-vr.json) |
+| Shoot'n'Scroll 3D | 109875 | [109875-shootnscroll-3d.json](./109875-shootnscroll-3d.json) |
 | Shooter Game | 107871 | [107871-shooter-game.json](./107871-shooter-game.json) |
 | Shooter of the Arcana | 319948 | [319948-shooter-of-the-arcana.json](./319948-shooter-of-the-arcana.json) |
 | Shooter: Space Shot | 72976 | [72976-shooter-space-shot.json](./72976-shooter-space-shot.json) |
@@ -6801,6 +6802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Manager 2015 | 35594 | [35594-soccer-manager-2015.json](./35594-soccer-manager-2015.json) |
 | Soccer Manager 2016 | 34335 | [34335-soccer-manager-2016.json](./34335-soccer-manager-2016.json) |
 | Soccer Manager 2017 | 31824 | [31824-soccer-manager-2017.json](./31824-soccer-manager-2017.json) |
+| Soccer Manager Crypto | 109908 | [109908-soccer-manager-crypto.json](./109908-soccer-manager-crypto.json) |
 | Soccer Moves | 241059 | [241059-soccer-moves.json](./241059-soccer-moves.json) |
 | Soccer Penalty Kick | 391354 | [391354-soccer-penalty-kick.json](./391354-soccer-penalty-kick.json) |
 | Soccer Physics | 101579 | [101579-soccer-physics.json](./101579-soccer-physics.json) |
@@ -8243,6 +8245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space and Lazers | 324320 | [324320-space-and-lazers.json](./324320-space-and-lazers.json) |
 | Space Angel Boin Boin! | 97832 | [97832-space-angel-boin-boin.json](./97832-space-angel-boin-boin.json) |
 | Space Arcade | 237374 | [237374-space-arcade.json](./237374-space-arcade.json) |
+| Space Ashes | 109899 | [109899-space-ashes.json](./109899-space-ashes.json) |
 | Space Attack | 38573 | [38573-space-attack.json](./38573-space-attack.json) |
 | Space Badminton VR | 29853 | [29853-space-badminton-vr.json](./29853-space-badminton-vr.json) |
 | Space Baller | 133431 | [133431-space-baller.json](./133431-space-baller.json) |
@@ -8648,6 +8651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Tower Defense | 377585 | [377585-space-tower-defense.json](./377585-space-tower-defense.json) |
 | Space Trader | 9469 | [9469-space-trader.json](./9469-space-trader.json) |
 | Space Trail Fireworks | 304858 | [304858-space-trail-fireworks.json](./304858-space-trail-fireworks.json) |
+| Space Transfer | 109887 | [109887-space-transfer.json](./109887-space-transfer.json) |
 | Space Transport Tycoon | 152737 | [152737-space-transport-tycoon.json](./152737-space-transport-tycoon.json) |
 | Space Trash Scavenger | 211215 | [211215-space-trash-scavenger.json](./211215-space-trash-scavenger.json) |
 | Space Travel | 11303 | [11303-space-travel.json](./11303-space-travel.json) |
@@ -8714,6 +8718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceColorsRunner | 123446 | [123446-spacecolorsrunner.json](./123446-spacecolorsrunner.json) |
 | SpaceCorp: 2025-2300AD | 352297 | [352297-spacecorp-2025-2300ad.json](./352297-spacecorp-2025-2300ad.json) |
 | Spacecraft Tactics | 274038 | [274038-spacecraft-tactics.json](./274038-spacecraft-tactics.json) |
+| Spacecraft War | 109879 | [109879-spacecraft-war.json](./109879-spacecraft-war.json) |
 | SpaceCrooks: The End of Time | 216883 | [216883-spacecrooks-the-end-of-time.json](./216883-spacecrooks-the-end-of-time.json) |
 | Spaced Out | 296360 | [296360-spaced-out.json](./296360-spaced-out.json) |
 | SpaceEngine | 7585 | [7585-spaceengine.json](./7585-spaceengine.json) |
@@ -10145,6 +10150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stale Nation | 235762 | [235762-stale-nation.json](./235762-stale-nation.json) |
 | Stalin vs. Martians | 8543 | [8543-stalin-vs-martians.json](./8543-stalin-vs-martians.json) |
 | Stalin vs. Martians 4 | 117736 | [117736-stalin-vs-martians-4.json](./117736-stalin-vs-martians-4.json) |
+| Stalingrad Abatis | 109888 | [109888-stalingrad-abatis.json](./109888-stalingrad-abatis.json) |
 | Stalk the Giant | 249788 | [249788-stalk-the-giant.json](./249788-stalk-the-giant.json) |
 | Stalked | 163313 | [163313-stalked.json](./163313-stalked.json) |
 | Stalker Defender Bunker 3D | 89238 | [89238-stalker-defender-bunker-3d.json](./89238-stalker-defender-bunker-3d.json) |
@@ -11729,6 +11735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Seasons: Pioneers of Olive Town - Panda Costume | 366267 | [366267-story-of-seasons-pioneers-of-olive-town-panda-costume.json](./366267-story-of-seasons-pioneers-of-olive-town-panda-costume.json) |
 | Story of Seasons: Project Experiences | 250920 | [250920-story-of-seasons-project-experiences.json](./250920-story-of-seasons-project-experiences.json) |
 | Story of Seasons: Project You can Play with Everyone | 250921 | [250921-story-of-seasons-project-you-can-play-with-everyone.json](./250921-story-of-seasons-project-you-can-play-with-everyone.json) |
+| Story of the Green Dragon | 109869 | [109869-story-of-the-green-dragon.json](./109869-story-of-the-green-dragon.json) |
 | Story of the Survivor: The Escape | 156154 | [156154-story-of-the-survivor-the-escape.json](./156154-story-of-the-survivor-the-escape.json) |
 | Story of You: The Allied Kingdoms | 193477 | [193477-story-of-you-the-allied-kingdoms.json](./193477-story-of-you-the-allied-kingdoms.json) |
 | Story Teller | 119693 | [119693-story-teller.json](./119693-story-teller.json) |
