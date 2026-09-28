@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Goat Billy | 159826 | [159826-baby-goat-billy.json](./159826-baby-goat-billy.json) |
 | Baby Hands | 68834 | [68834-baby-hands.json](./68834-baby-hands.json) |
 | Baby Hazel Easter Fun | 89710 | [89710-baby-hazel-easter-fun.json](./89710-baby-hazel-easter-fun.json) |
+| Baby Hazel Hand Fracture | 106767 | [106767-baby-hazel-hand-fracture.json](./106767-baby-hazel-hand-fracture.json) |
 | Baby Kaizo World | 145478 | [145478-baby-kaizo-world.json](./145478-baby-kaizo-world.json) |
 | Baby Killer | 117733 | [117733-baby-killer.json](./117733-baby-killer.json) |
 | Baby Kings | 373753 | [373753-baby-kings.json](./373753-baby-kings.json) |
@@ -2830,6 +2831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Better to Upload | 183429 | [183429-better-to-upload.json](./183429-better-to-upload.json) |
 | Better Tomorrows | 180829 | [180829-better-tomorrows.json](./180829-better-tomorrows.json) |
 | Better With A Friend | 301255 | [301255-better-with-a-friend.json](./301255-better-with-a-friend.json) |
+| BetterEd Element Master | 106754 | [106754-bettered-element-master.json](./106754-bettered-element-master.json) |
 | BetterVR | 386425 | [386425-bettervr.json](./386425-bettervr.json) |
 | Betty & Earl | 163977 | [163977-betty-and-earl.json](./163977-betty-and-earl.json) |
 | Betty Bad | 23449 | [23449-betty-bad.json](./23449-betty-bad.json) |
@@ -3332,6 +3334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Pop | 101516 | [101516-bingo-pop.json](./101516-bingo-pop.json) |
 | Bingo Roulette | 404213 | [404213-bingo-roulette.json](./404213-bingo-roulette.json) |
 | Bingo: Pet Rescue | 258965 | [258965-bingo-pet-rescue.json](./258965-bingo-pet-rescue.json) |
+| Bingo!!! | 106757 | [106757-bingo.json](./106757-bingo.json) |
 | Biniax | 93357 | [93357-biniax.json](./93357-biniax.json) |
 | Biniku no Kaori: Bangai Hen | 237405 | [237405-biniku-no-kaori-bangai-hen.json](./237405-biniku-no-kaori-bangai-hen.json) |
 | Binky show | 123512 | [123512-binky-show.json](./123512-binky-show.json) |
@@ -4486,6 +4489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Rugby | 58198 | [58198-blocky-rugby.json](./58198-blocky-rugby.json) |
 | Blocky San Andreas Police 2018 | 102753 | [102753-blocky-san-andreas-police-2018.json](./102753-blocky-san-andreas-police-2018.json) |
 | Blocky Soccer | 58205 | [58205-blocky-soccer.json](./58205-blocky-soccer.json) |
+| Blocky Space Puzzle | 106733 | [106733-blocky-space-puzzle.json](./106733-blocky-space-puzzle.json) |
 | Blockz VS Ballz | 111013 | [111013-blockz-vs-ballz.json](./111013-blockz-vs-ballz.json) |
 | Blocus | 313263 | [313263-blocus.json](./313263-blocus.json) |
 | Blofeld X | 269108 | [269108-blofeld-x.json](./269108-blofeld-x.json) |
@@ -6969,6 +6973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddy Shell | 328071 | [328071-buddy-shell.json](./328071-buddy-shell.json) |
 | Buddy Shell 2 | 328070 | [328070-buddy-shell-2.json](./328070-buddy-shell-2.json) |
 | Buddy Simulator 1984 | 132333 | [132333-buddy-simulator-1984.json](./132333-buddy-simulator-1984.json) |
+| Buddy Toss | 106736 | [106736-buddy-toss.json](./106736-buddy-toss.json) |
 | Buddy, No! | 234191 | [234191-buddy-no.json](./234191-buddy-no.json) |
 | Budget Backrooms | 266290 | [266290-budget-backrooms.json](./266290-budget-backrooms.json) |
 | Budget Rate Stigmata | 362855 | [362855-budget-rate-stigmata.json](./362855-budget-rate-stigmata.json) |
