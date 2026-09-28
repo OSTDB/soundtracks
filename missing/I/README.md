@@ -1186,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Flappy | 87896 | [87896-impossible-flappy.json](./87896-impossible-flappy.json) |
 | Impossible Geometry | 34358 | [34358-impossible-geometry.json](./34358-impossible-geometry.json) |
 | Impossible Golf: Worldwide Fantasy Tour | 210083 | [210083-impossible-golf-worldwide-fantasy-tour.json](./210083-impossible-golf-worldwide-fantasy-tour.json) |
+| Impossible Jumpy Quest | 95574 | [95574-impossible-jumpy-quest.json](./95574-impossible-jumpy-quest.json) |
 | Impossible Maze | 135898 | [135898-impossible-maze.json](./135898-impossible-maze.json) |
 | Impossible Mission | 210090 | [210090-impossible-mission.json](./210090-impossible-mission.json) |
 | Impossible Mission 2025 | 37107 | [37107-impossible-mission-2025.json](./37107-impossible-mission-2025.json) |
@@ -1876,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkremental | 397793 | [397793-inkremental.json](./397793-inkremental.json) |
 | Inkression | 303583 | [303583-inkression.json](./303583-inkression.json) |
 | Inkronos | 345014 | [345014-inkronos.json](./345014-inkronos.json) |
+| InkSplosion | 95608 | [95608-inksplosion.json](./95608-inksplosion.json) |
 | Inkub | 85192 | [85192-inkub.json](./85192-inkub.json) |
 | Inkubus Sukkubus: She of a Thousand Names | 244342 | [244342-inkubus-sukkubus-she-of-a-thousand-names.json](./244342-inkubus-sukkubus-she-of-a-thousand-names.json) |
 | Inkulinati: Supporter Bundle | 336135 | [336135-inkulinati-supporter-bundle.json](./336135-inkulinati-supporter-bundle.json) |
