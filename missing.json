@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T23:48:32.339Z",
-  "total_missing": 132818,
+  "generated_at": "2026-09-28T00:03:41.153Z",
+  "total_missing": 132868,
   "games": [
     {
       "igdb_id": 186066,
@@ -10073,6 +10073,11 @@
       "file": "missing/A/6467-ac-dc-live-rock-band-track-pack.json"
     },
     {
+      "igdb_id": 118916,
+      "game_name": "ACA Neo Geo: Art of Fighting 3",
+      "file": "missing/A/118916-aca-neo-geo-art-of-fighting-3.json"
+    },
+    {
       "igdb_id": 90518,
       "game_name": "ACA Neo Geo: Blazing Star",
       "file": "missing/A/90518-aca-neo-geo-blazing-star.json"
@@ -10611,6 +10616,11 @@
       "igdb_id": 35650,
       "game_name": "Aces of the Luftwaffe",
       "file": "missing/A/35650-aces-of-the-luftwaffe.json"
+    },
+    {
+      "igdb_id": 119084,
+      "game_name": "Aces of the Luftwaffe: Squadron - Extended Edition",
+      "file": "missing/A/119084-aces-of-the-luftwaffe-squadron-extended-edition.json"
     },
     {
       "igdb_id": 12385,
@@ -30158,6 +30168,11 @@
       "file": "missing/A/99567-arcade-archives-ikki.json"
     },
     {
+      "igdb_id": 119087,
+      "game_name": "Arcade Archives: Image Fight",
+      "file": "missing/A/119087-arcade-archives-image-fight.json"
+    },
+    {
       "igdb_id": 99544,
       "game_name": "Arcade Archives: Kid's Horehore Daisakusen",
       "file": "missing/A/99544-arcade-archives-kids-horehore-daisakusen.json"
@@ -31901,6 +31916,11 @@
       "igdb_id": 28783,
       "game_name": "Arctic Adventure: Episodes",
       "file": "missing/A/28783-arctic-adventure-episodes.json"
+    },
+    {
+      "igdb_id": 118931,
+      "game_name": "Arctic Adventures: Polar's Puzzles",
+      "file": "missing/A/118931-arctic-adventures-polars-puzzles.json"
     },
     {
       "igdb_id": 98987,
@@ -36073,6 +36093,11 @@
       "file": "missing/A/89872-assassins-creed-iv-black-flag-buccaneer-edition.json"
     },
     {
+      "igdb_id": 118927,
+      "game_name": "Assassin's Creed IV: Black Flag - Deluxe Edition",
+      "file": "missing/A/118927-assassins-creed-iv-black-flag-deluxe-edition.json"
+    },
+    {
       "igdb_id": 100553,
       "game_name": "Assassin's Creed IV: Black Flag - Jackdaw Edition",
       "file": "missing/A/100553-assassins-creed-iv-black-flag-jackdaw-edition.json"
@@ -38701,6 +38726,11 @@
       "igdb_id": 238050,
       "game_name": "Atelier Lulua: The Scion of Arland - Additional Character: Totori",
       "file": "missing/A/238050-atelier-lulua-the-scion-of-arland-additional-character-totori.json"
+    },
+    {
+      "igdb_id": 118934,
+      "game_name": "Atelier Lulua: The Scion of Arland - Digital Deluxe Edition",
+      "file": "missing/A/118934-atelier-lulua-the-scion-of-arland-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 171395,
@@ -70053,6 +70083,11 @@
       "file": "missing/B/191852-booze-master.json"
     },
     {
+      "igdb_id": 119092,
+      "game_name": "Booze Masters: Freezing Moonshine",
+      "file": "missing/B/119092-booze-masters-freezing-moonshine.json"
+    },
+    {
       "igdb_id": 266821,
       "game_name": "Booze Masters: Freezing Moonshine",
       "file": "missing/B/266821-booze-masters-freezing-moonshine.json"
@@ -73666,6 +73701,11 @@
       "igdb_id": 201288,
       "game_name": "Brawlin' Sailor",
       "file": "missing/B/201288-brawlin-sailor.json"
+    },
+    {
+      "igdb_id": 119077,
+      "game_name": "Brawlout: Deluxe Edition",
+      "file": "missing/B/119077-brawlout-deluxe-edition.json"
     },
     {
       "igdb_id": 276252,
@@ -78808,6 +78848,11 @@
       "file": "missing/B/320340-bunny-clicker.json"
     },
     {
+      "igdb_id": 118933,
+      "game_name": "Bunny Dodge",
+      "file": "missing/B/118933-bunny-dodge.json"
+    },
+    {
       "igdb_id": 306528,
       "game_name": "Bunny E-shop",
       "file": "missing/B/306528-bunny-e-shop.json"
@@ -81958,6 +82003,11 @@
       "file": "missing/C/22636-call-of-duty-black-ops-annihilation.json"
     },
     {
+      "igdb_id": 118925,
+      "game_name": "Call of Duty: Black Ops - Gold Edition",
+      "file": "missing/C/118925-call-of-duty-black-ops-gold-edition.json"
+    },
+    {
       "igdb_id": 324925,
       "game_name": "Call of Duty: Black Ops 6 - Season 1",
       "file": "missing/C/324925-call-of-duty-black-ops-6-season-1.json"
@@ -82066,6 +82116,11 @@
       "igdb_id": 28063,
       "game_name": "Call of Duty: Infinite Warfare - Continuum",
       "file": "missing/C/28063-call-of-duty-infinite-warfare-continuum.json"
+    },
+    {
+      "igdb_id": 118910,
+      "game_name": "Call of Duty: Infinite Warfare - Digital Deluxe Edition",
+      "file": "missing/C/118910-call-of-duty-infinite-warfare-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 42896,
@@ -85136,6 +85191,11 @@
       "igdb_id": 278167,
       "game_name": "Card Fuse",
       "file": "missing/C/278167-card-fuse.json"
+    },
+    {
+      "igdb_id": 118917,
+      "game_name": "Card Game Bundle Vol.1",
+      "file": "missing/C/118917-card-game-bundle-vol-1.json"
     },
     {
       "igdb_id": 104032,
@@ -92293,6 +92353,11 @@
       "file": "missing/C/14840-championship-manager-2008.json"
     },
     {
+      "igdb_id": 118918,
+      "game_name": "Championship Manager 2010 Express",
+      "file": "missing/C/118918-championship-manager-2010-express.json"
+    },
+    {
       "igdb_id": 628,
       "game_name": "Championship Manager: Season 03/04",
       "file": "missing/C/628-championship-manager-season-03-04.json"
@@ -99381,6 +99446,11 @@
       "igdb_id": 257084,
       "game_name": "Cities: Skylines - Piano Tunes Radio",
       "file": "missing/C/257084-cities-skylines-piano-tunes-radio.json"
+    },
+    {
+      "igdb_id": 119080,
+      "game_name": "Cities: Skylines - Premium Edition 2",
+      "file": "missing/C/119080-cities-skylines-premium-edition-2.json"
     },
     {
       "igdb_id": 393462,
@@ -128413,6 +128483,11 @@
       "file": "missing/D/216196-darksiders-ii-limited-edition.json"
     },
     {
+      "igdb_id": 119079,
+      "game_name": "Darksiders III: Blades & Whip Edition",
+      "file": "missing/D/119079-darksiders-iii-blades-and-whip-edition.json"
+    },
+    {
       "igdb_id": 45985,
       "game_name": "Darksiders III: Collector's Edition",
       "file": "missing/D/45985-darksiders-iii-collectors-edition.json"
@@ -131126,6 +131201,11 @@
       "igdb_id": 336368,
       "game_name": "Dead Land 2 VR",
       "file": "missing/D/336368-dead-land-2-vr.json"
+    },
+    {
+      "igdb_id": 118911,
+      "game_name": "Dead Land VR",
+      "file": "missing/D/118911-dead-land-vr.json"
     },
     {
       "igdb_id": 398423,
@@ -172523,6 +172603,11 @@
       "file": "missing/E/105110-enter-the-flesh-again.json"
     },
     {
+      "igdb_id": 118942,
+      "game_name": "Enter the Gungeon: A Farewell to Arms",
+      "file": "missing/E/118942-enter-the-gungeon-a-farewell-to-arms.json"
+    },
+    {
       "igdb_id": 346574,
       "game_name": "Enter the Nemesis: Blood Portal",
       "file": "missing/E/346574-enter-the-nemesis-blood-portal.json"
@@ -178043,6 +178128,11 @@
       "file": "missing/E/28187-everybodys-golf.json"
     },
     {
+      "igdb_id": 118935,
+      "game_name": "Everybody's Golf VR: Digital Deluxe Edition",
+      "file": "missing/E/118935-everybodys-golf-vr-digital-deluxe-edition.json"
+    },
+    {
       "igdb_id": 7405,
       "game_name": "Everybody's Gone to the Rapture",
       "file": "missing/E/7405-everybodys-gone-to-the-rapture.json"
@@ -183221,6 +183311,11 @@
       "igdb_id": 195085,
       "game_name": "Fall of Jake Paul Hop World",
       "file": "missing/F/195085-fall-of-jake-paul-hop-world.json"
+    },
+    {
+      "igdb_id": 119076,
+      "game_name": "Fall of Light: Deluxe Edition",
+      "file": "missing/F/119076-fall-of-light-deluxe-edition.json"
     },
     {
       "igdb_id": 56480,
@@ -193633,6 +193728,11 @@
       "file": "missing/F/45534-fire-pro-wrestling-gaiden.json"
     },
     {
+      "igdb_id": 118928,
+      "game_name": "Fire Pro Wrestling World: Deluxe Edition",
+      "file": "missing/F/118928-fire-pro-wrestling-world-deluxe-edition.json"
+    },
+    {
       "igdb_id": 170445,
       "game_name": "Fire Pro Wrestling World: Entrance Craft",
       "file": "missing/F/170445-fire-pro-wrestling-world-entrance-craft.json"
@@ -202851,6 +202951,11 @@
       "igdb_id": 47202,
       "game_name": "Fort Apocalypse II",
       "file": "missing/F/47202-fort-apocalypse-ii.json"
+    },
+    {
+      "igdb_id": 118932,
+      "game_name": "Fort Commander II: Counterattack",
+      "file": "missing/F/118932-fort-commander-ii-counterattack.json"
     },
     {
       "igdb_id": 209563,
@@ -223361,6 +223466,11 @@
       "igdb_id": 44664,
       "game_name": "God of War: Ascension - Special Edition",
       "file": "missing/G/44664-god-of-war-ascension-special-edition.json"
+    },
+    {
+      "igdb_id": 118907,
+      "game_name": "God of War: Ascension - Ultimate Edition",
+      "file": "missing/G/118907-god-of-war-ascension-ultimate-edition.json"
     },
     {
       "igdb_id": 21233,
@@ -246423,6 +246533,11 @@
       "file": "missing/H/48619-heracles-no-eikou-ii-titan-no-metsubou.json"
     },
     {
+      "igdb_id": 119090,
+      "game_name": "Herakles and The Princess of Troy",
+      "file": "missing/H/119090-herakles-and-the-princess-of-troy.json"
+    },
+    {
       "igdb_id": 211276,
       "game_name": "Herald of Havoc",
       "file": "missing/H/211276-herald-of-havoc.json"
@@ -252336,6 +252451,11 @@
       "igdb_id": 223458,
       "game_name": "Hive Spy Remi: Mind Control Madness",
       "file": "missing/H/223458-hive-spy-remi-mind-control-madness.json"
+    },
+    {
+      "igdb_id": 118912,
+      "game_name": "Hive Sweeper",
+      "file": "missing/H/118912-hive-sweeper.json"
     },
     {
       "igdb_id": 124254,
@@ -285068,6 +285188,11 @@
       "file": "missing/J/201031-just-cause-4-day-one-edition.json"
     },
     {
+      "igdb_id": 118919,
+      "game_name": "Just Cause 4: Los Demonios",
+      "file": "missing/J/118919-just-cause-4-los-demonios.json"
+    },
+    {
       "igdb_id": 53245,
       "game_name": "Just Cause Collection",
       "file": "missing/J/53245-just-cause-collection.json"
@@ -295601,6 +295726,11 @@
       "igdb_id": 261320,
       "game_name": "Knighty Knight",
       "file": "missing/K/261320-knighty-knight.json"
+    },
+    {
+      "igdb_id": 118920,
+      "game_name": "Knighty Night",
+      "file": "missing/K/118920-knighty-night.json"
     },
     {
       "igdb_id": 119027,
@@ -309973,6 +310103,11 @@
       "file": "missing/L/31956-lilys-epic-quest.json"
     },
     {
+      "igdb_id": 118937,
+      "game_name": "Lily's Epic Quest for Lost Gems",
+      "file": "missing/L/118937-lilys-epic-quest-for-lost-gems.json"
+    },
+    {
       "igdb_id": 129160,
       "game_name": "Lily's Garden",
       "file": "missing/L/129160-lilys-garden.json"
@@ -324058,6 +324193,11 @@
       "file": "missing/M/321759-magicka-2-upgrade-pack.json"
     },
     {
+      "igdb_id": 118926,
+      "game_name": "Magicka 2: Special Edition",
+      "file": "missing/M/118926-magicka-2-special-edition.json"
+    },
+    {
       "igdb_id": 321758,
       "game_name": "Magicka 2: Three Cardinals Robe Pack",
       "file": "missing/M/321758-magicka-2-three-cardinals-robe-pack.json"
@@ -335238,6 +335378,11 @@
       "file": "missing/M/383479-mediaevi.json"
     },
     {
+      "igdb_id": 118915,
+      "game_name": "Mediatonic Combo!",
+      "file": "missing/M/118915-mediatonic-combo.json"
+    },
+    {
       "igdb_id": 355237,
       "game_name": "Mediator",
       "file": "missing/M/355237-mediator.json"
@@ -340771,6 +340916,11 @@
       "igdb_id": 20196,
       "game_name": "Metal Gear Solid: The Legacy Collection",
       "file": "missing/M/20196-metal-gear-solid-the-legacy-collection.json"
+    },
+    {
+      "igdb_id": 119085,
+      "game_name": "Metal Gear Survive: Digital Deluxe Edition",
+      "file": "missing/M/119085-metal-gear-survive-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 5600,
@@ -350016,6 +350166,11 @@
       "igdb_id": 196590,
       "game_name": "MLB Tap Sports Baseball 2022",
       "file": "missing/M/196590-mlb-tap-sports-baseball-2022.json"
+    },
+    {
+      "igdb_id": 118909,
+      "game_name": "MLB The Show 18: Digital Deluxe Edition",
+      "file": "missing/M/118909-mlb-the-show-18-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 119070,
@@ -359611,6 +359766,11 @@
       "igdb_id": 331948,
       "game_name": "Mu Old Times",
       "file": "missing/M/331948-mu-old-times.json"
+    },
+    {
+      "igdb_id": 118923,
+      "game_name": "Mu Origin 2",
+      "file": "missing/M/118923-mu-origin-2.json"
     },
     {
       "igdb_id": 188380,
@@ -384466,6 +384626,11 @@
       "igdb_id": 204518,
       "game_name": "Oddada",
       "file": "missing/O/204518-oddada.json"
+    },
+    {
+      "igdb_id": 119089,
+      "game_name": "OddBallers",
+      "file": "missing/O/119089-oddballers.json"
     },
     {
       "igdb_id": 78013,
@@ -415398,6 +415563,11 @@
       "file": "missing/P/173162-planet-coaster-deluxe-rides-collection.json"
     },
     {
+      "igdb_id": 118924,
+      "game_name": "Planet Coaster: Ghostbusters",
+      "file": "missing/P/118924-planet-coaster-ghostbusters.json"
+    },
+    {
       "igdb_id": 168239,
       "game_name": "Planet Coaster: Knight Rider K.I.T.T. Construction Kit",
       "file": "missing/P/168239-planet-coaster-knight-rider-k-i-t-t-construction-kit.json"
@@ -442173,6 +442343,11 @@
       "file": "missing/R/186766-raskopnik-the-trench-warrior.json"
     },
     {
+      "igdb_id": 118914,
+      "game_name": "Rasmus Klump i Pingonesien",
+      "file": "missing/R/118914-rasmus-klump-i-pingonesien.json"
+    },
+    {
       "igdb_id": 91454,
       "game_name": "Rasmus Klump som landpost",
       "file": "missing/R/91454-rasmus-klump-som-landpost.json"
@@ -457793,6 +457968,11 @@
       "file": "missing/R/23224-rock-boshers-dx-directors-cut.json"
     },
     {
+      "igdb_id": 119082,
+      "game_name": "Rock Boshers DX: Ultra Bundle",
+      "file": "missing/R/119082-rock-boshers-dx-ultra-bundle.json"
+    },
+    {
       "igdb_id": 141856,
       "game_name": "Rock Bottom",
       "file": "missing/R/141856-rock-bottom.json"
@@ -457856,6 +458036,11 @@
       "igdb_id": 270219,
       "game_name": "Rock n' Roll Racing Hack v16",
       "file": "missing/R/270219-rock-n-roll-racing-hack-v16.json"
+    },
+    {
+      "igdb_id": 118905,
+      "game_name": "Rock of Ages 2: Complete Bundle",
+      "file": "missing/R/118905-rock-of-ages-2-complete-bundle.json"
     },
     {
       "igdb_id": 121714,
@@ -484648,6 +484833,11 @@
       "file": "missing/S/211751-shiny-man-adventures.json"
     },
     {
+      "igdb_id": 118929,
+      "game_name": "Shiny: Deluxe Edition",
+      "file": "missing/S/118929-shiny-deluxe-edition.json"
+    },
+    {
       "igdb_id": 186908,
       "game_name": "Shinya Ichizoku: The Battle for Hokkaido's Delicious Foods",
       "file": "missing/S/186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json"
@@ -497633,6 +497823,11 @@
       "file": "missing/S/110801-snake-vs-snake.json"
     },
     {
+      "igdb_id": 118913,
+      "game_name": "Snake Warriors: Training",
+      "file": "missing/S/118913-snake-warriors-training.json"
+    },
+    {
       "igdb_id": 133868,
       "game_name": "Snake Xenzia",
       "file": "missing/S/133868-snake-xenzia.json"
@@ -501576,6 +501771,11 @@
       "igdb_id": 177936,
       "game_name": "Solo Records",
       "file": "missing/S/177936-solo-records.json"
+    },
+    {
+      "igdb_id": 118936,
+      "game_name": "Solo_Poker",
+      "file": "missing/S/118936-solo-poker.json"
     },
     {
       "igdb_id": 329378,
@@ -519013,6 +519213,11 @@
       "file": "missing/S/20815-stardrone-extreme.json"
     },
     {
+      "igdb_id": 118930,
+      "game_name": "StarDrone VR",
+      "file": "missing/S/118930-stardrone-vr.json"
+    },
+    {
       "igdb_id": 105983,
       "game_name": "StarDroneVR",
       "file": "missing/S/105983-stardronevr.json"
@@ -521656,6 +521861,11 @@
       "igdb_id": 179658,
       "game_name": "Steel Ranger",
       "file": "missing/S/179658-steel-ranger.json"
+    },
+    {
+      "igdb_id": 119083,
+      "game_name": "Steel Rats: Deluxe Edition",
+      "file": "missing/S/119083-steel-rats-deluxe-edition.json"
     },
     {
       "igdb_id": 353476,
@@ -562008,6 +562218,11 @@
       "file": "missing/T/306481-the-elder-scrolls-online-deluxe-collection-gold-road.json"
     },
     {
+      "igdb_id": 118908,
+      "game_name": "The Elder Scrolls Online: Elsweyr - Collector's Edition",
+      "file": "missing/T/118908-the-elder-scrolls-online-elsweyr-collectors-edition.json"
+    },
+    {
       "igdb_id": 361156,
       "game_name": "The Elder Scrolls Online: Feast of Shadows",
       "file": "missing/T/361156-the-elder-scrolls-online-feast-of-shadows.json"
@@ -581131,6 +581346,11 @@
       "igdb_id": 145618,
       "game_name": "The Tour of Duty",
       "file": "missing/T/145618-the-tour-of-duty.json"
+    },
+    {
+      "igdb_id": 119088,
+      "game_name": "The Tourist Trap",
+      "file": "missing/T/119088-the-tourist-trap.json"
     },
     {
       "igdb_id": 121748,
@@ -609623,6 +609843,11 @@
       "file": "missing/T/125319-trine-series-1-3.json"
     },
     {
+      "igdb_id": 118939,
+      "game_name": "Trine Trilogy",
+      "file": "missing/T/118939-trine-trilogy.json"
+    },
+    {
       "igdb_id": 49344,
       "game_name": "Tringo",
       "file": "missing/T/49344-tringo.json"
@@ -623813,6 +624038,11 @@
       "file": "missing/V/31978-valentino-rossi-the-game-compact.json"
     },
     {
+      "igdb_id": 118943,
+      "game_name": "Valentino Rossi: The Game - Digital Deluxe",
+      "file": "missing/V/118943-valentino-rossi-the-game-digital-deluxe.json"
+    },
+    {
       "igdb_id": 167849,
       "game_name": "Valentino Rossi: The Game - MotoGP Legendary Bikes",
       "file": "missing/V/167849-valentino-rossi-the-game-motogp-legendary-bikes.json"
@@ -623821,6 +624051,11 @@
       "igdb_id": 168360,
       "game_name": "Valentino Rossi: The Game - Real Events: 2015 MotoGP Season",
       "file": "missing/V/168360-valentino-rossi-the-game-real-events-2015-motogp-season.json"
+    },
+    {
+      "igdb_id": 118940,
+      "game_name": "Valentino Rossi: The Game - Special Edition",
+      "file": "missing/V/118940-valentino-rossi-the-game-special-edition.json"
     },
     {
       "igdb_id": 104038,
@@ -632868,6 +633103,11 @@
       "file": "missing/W/301564-wales-interactive-publisher-bundle.json"
     },
     {
+      "igdb_id": 119086,
+      "game_name": "Wales Interactive VR Bundle",
+      "file": "missing/W/119086-wales-interactive-vr-bundle.json"
+    },
+    {
       "igdb_id": 389599,
       "game_name": "Walfie's Nonograms",
       "file": "missing/W/389599-walfies-nonograms.json"
@@ -636431,6 +636671,11 @@
       "igdb_id": 93746,
       "game_name": "Warriors Orochi 4",
       "file": "missing/W/93746-warriors-orochi-4.json"
+    },
+    {
+      "igdb_id": 118941,
+      "game_name": "Warriors Orochi 4: Deluxe Edition",
+      "file": "missing/W/118941-warriors-orochi-4-deluxe-edition.json"
     },
     {
       "igdb_id": 237975,
@@ -651631,6 +651876,11 @@
       "igdb_id": 124120,
       "game_name": "Wuppo: Definitive Edition",
       "file": "missing/W/124120-wuppo-definitive-edition.json"
+    },
+    {
+      "igdb_id": 118903,
+      "game_name": "Wuppo: Super Deluxe Edition",
+      "file": "missing/W/118903-wuppo-super-deluxe-edition.json"
     },
     {
       "igdb_id": 58230,
