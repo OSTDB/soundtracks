@@ -1029,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Balloon Mania | 147467 | [147467-water-balloon-mania.json](./147467-water-balloon-mania.json) |
 | Water balls | 39847 | [39847-water-balls.json](./39847-water-balls.json) |
 | Water Bears VR | 34719 | [34719-water-bears-vr.json](./34719-water-bears-vr.json) |
+| Water Bugs | 73218 | [73218-water-bugs.json](./73218-water-bugs.json) |
 | Water Castle | 268473 | [268473-water-castle.json](./268473-water-castle.json) |
 | Water City | 268472 | [268472-water-city.json](./268472-water-city.json) |
 | Water Clock | 106620 | [106620-water-clock.json](./106620-water-clock.json) |
@@ -1618,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Lies Between | 199118 | [199118-what-lies-between.json](./199118-what-lies-between.json) |
 | What Lies in the Multiverse: Deluxe Edition | 193736 | [193736-what-lies-in-the-multiverse-deluxe-edition.json](./193736-what-lies-in-the-multiverse-deluxe-edition.json) |
 | What Lies Under | 235699 | [235699-what-lies-under.json](./235699-what-lies-under.json) |
+| What Linus Bruckman Sees When His Eyes Are Closed | 73346 | [73346-what-linus-bruckman-sees-when-his-eyes-are-closed.json](./73346-what-linus-bruckman-sees-when-his-eyes-are-closed.json) |
 | What Lives Below | 143490 | [143490-what-lives-below.json](./143490-what-lives-below.json) |
 | What Must Be Done | 309132 | [309132-what-must-be-done.json](./309132-what-must-be-done.json) |
 | What Now? | 183534 | [183534-what-now.json](./183534-what-now.json) |
@@ -3299,6 +3301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Wow Around the World | 87298 | [87298-word-wow-around-the-world.json](./87298-word-wow-around-the-world.json) |
 | Word Wow Big City | 87127 | [87127-word-wow-big-city.json](./87127-word-wow-big-city.json) |
 | Word Wreck | 241329 | [241329-word-wreck.json](./241329-word-wreck.json) |
+| Word Yo! | 73355 | [73355-word-yo.json](./73355-word-yo.json) |
 | Word Zapper | 46884 | [46884-word-zapper.json](./46884-word-zapper.json) |
 | Word Zip - Free Word Games | 105972 | [105972-word-zip-free-word-games.json](./105972-word-zip-free-word-games.json) |
 | Word95 | 382459 | [382459-word95.json](./382459-word95.json) |
