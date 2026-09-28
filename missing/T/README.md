@@ -1065,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Radiation | 66156 | [66156-tap-tap-radiation.json](./66156-tap-tap-radiation.json) |
 | Tap Tap Reloaded | 280223 | [280223-tap-tap-reloaded.json](./280223-tap-tap-reloaded.json) |
 | Tap Tap Revenge | 68955 | [68955-tap-tap-revenge.json](./68955-tap-tap-revenge.json) |
+| Tap Tap Revenge 2 | 92642 | [92642-tap-tap-revenge-2.json](./92642-tap-tap-revenge-2.json) |
 | Tap Tap Revenge 3 | 67263 | [67263-tap-tap-revenge-3.json](./67263-tap-tap-revenge-3.json) |
 | Tap Tap Revenge: Metallica | 66049 | [66049-tap-tap-revenge-metallica.json](./66049-tap-tap-revenge-metallica.json) |
 | Tap Tap Trillionaire: Invest! | 261353 | [261353-tap-tap-trillionaire-invest.json](./261353-tap-tap-trillionaire-invest.json) |
@@ -1409,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech Executive Tycoon | 17036 | [17036-tech-executive-tycoon.json](./17036-tech-executive-tycoon.json) |
 | Tech Invaders TD | 219568 | [219568-tech-invaders-td.json](./219568-tech-invaders-td.json) |
 | Tech Warriors Giga Fighters | 218015 | [218015-tech-warriors-giga-fighters.json](./218015-tech-warriors-giga-fighters.json) |
+| Tech48 | 92628 | [92628-tech48.json](./92628-tech48.json) |
 | Techblox | 144900 | [144900-techblox.json](./144900-techblox.json) |
 | Techium Eclipse | 183508 | [183508-techium-eclipse.json](./183508-techium-eclipse.json) |
 | TechMate Chess | 327801 | [327801-techmate-chess.json](./327801-techmate-chess.json) |
