@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbears: Bedtime City | 237498 | [237498-warbears-bedtime-city.json](./237498-warbears-bedtime-city.json) |
 | WarBirds II | 72094 | [72094-warbirds-ii.json](./72094-warbirds-ii.json) |
 | WarBirds III | 71557 | [71557-warbirds-iii.json](./71557-warbirds-iii.json) |
+| Warbirds of WWII | 68094 | [68094-warbirds-of-wwii.json](./68094-warbirds-of-wwii.json) |
 | Warbit | 33433 | [33433-warbit.json](./33433-warbit.json) |
 | Warbit Union | 184385 | [184385-warbit-union.json](./184385-warbit-union.json) |
 | Warbits+ | 245923 | [245923-warbits.json](./245923-warbits.json) |
@@ -2030,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Witch | 346108 | [346108-white-witch.json](./346108-white-witch.json) |
 | White Wolf: Treasure Hunter | 243612 | [243612-white-wolf-treasure-hunter.json](./243612-white-wolf-treasure-hunter.json) |
 | White Wolf: Treasure Hunter 2 | 273382 | [273382-white-wolf-treasure-hunter-2.json](./273382-white-wolf-treasure-hunter-2.json) |
+| White-Water Domo | 68060 | [68060-white-water-domo.json](./68060-white-water-domo.json) |
 | WhiteBird | 119670 | [119670-whitebird.json](./119670-whitebird.json) |
 | WhiteJill | 355572 | [355572-whitejill.json](./355572-whitejill.json) |
 | Whitematter | 365895 | [365895-whitematter.json](./365895-whitematter.json) |
@@ -3399,6 +3401,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Workshop Blooming in the Field & the Dark Dragon | 82901 | [82901-workshop-blooming-in-the-field-and-the-dark-dragon.json](./82901-workshop-blooming-in-the-field-and-the-dark-dragon.json) |
 | Workshop Invaders: Bouncy | 108990 | [108990-workshop-invaders-bouncy.json](./108990-workshop-invaders-bouncy.json) |
 | World Advanced Daisenryaku: Sakusen File | 60803 | [60803-world-advanced-daisenryaku-sakusen-file.json](./60803-world-advanced-daisenryaku-sakusen-file.json) |
+| World Airports | 68057 | [68057-world-airports.json](./68057-world-airports.json) |
+| World Airports | 68069 | [68069-world-airports.json](./68069-world-airports.json) |
+| World Airports 2 | 68068 | [68068-world-airports-2.json](./68068-world-airports-2.json) |
 | World Apart | 98546 | [98546-world-apart.json](./98546-world-apart.json) |
 | World At War 85 Digital | 216481 | [216481-world-at-war-85-digital.json](./216481-world-at-war-85-digital.json) |
 | World at War: Nazi Zombies Remastered | 299137 | [299137-world-at-war-nazi-zombies-remastered.json](./299137-world-at-war-nazi-zombies-remastered.json) |
