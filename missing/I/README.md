@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice path | 184394 | [184394-ice-path.json](./184394-ice-path.json) |
 | Ice Pops & Popsicles | 102607 | [102607-ice-pops-and-popsicles.json](./102607-ice-pops-and-popsicles.json) |
 | Ice Princess Crystals | 353998 | [353998-ice-princess-crystals.json](./353998-ice-princess-crystals.json) |
+| Ice Princess Mermaid: Girl Makeup & Dress Up Games | 100320 | [100320-ice-princess-mermaid-girl-makeup-and-dress-up-games.json](./100320-ice-princess-mermaid-girl-makeup-and-dress-up-games.json) |
 | Ice Queen Prom Salon: Princess Makeover Girls Game | 91117 | [91117-ice-queen-prom-salon-princess-makeover-girls-game.json](./91117-ice-queen-prom-salon-princess-makeover-girls-game.json) |
 | Ice Queen Wedding Salon: Frost Bridal Game | 86832 | [86832-ice-queen-wedding-salon-frost-bridal-game.json](./86832-ice-queen-wedding-salon-frost-bridal-game.json) |
 | Ice Rage | 56929 | [56929-ice-rage.json](./56929-ice-rage.json) |
