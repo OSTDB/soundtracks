@@ -5262,6 +5262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurdles | 192295 | [192295-hurdles.json](./192295-hurdles.json) |
 | Hurlements | 174634 | [174634-hurlements.json](./174634-hurlements.json) |
 | Hurling Herman | 392252 | [392252-hurling-herman.json](./392252-hurling-herman.json) |
+| Hurrican | 94360 | [94360-hurrican.json](./94360-hurrican.json) |
 | Hurricane | 25928 | [25928-hurricane.json](./25928-hurricane.json) |
 | Hurricane chase | 120775 | [120775-hurricane-chase.json](./120775-hurricane-chase.json) |
 | Hurricane Ship Ghost | 104833 | [104833-hurricane-ship-ghost.json](./104833-hurricane-ship-ghost.json) |
