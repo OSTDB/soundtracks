@@ -4040,6 +4040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diortem | 300797 | [300797-diortem.json](./300797-diortem.json) |
 | Dioxide | 403807 | [403807-dioxide.json](./403807-dioxide.json) |
 | Dipets | 327300 | [327300-dipets.json](./327300-dipets.json) |
+| Diplomacy | 92082 | [92082-diplomacy.json](./92082-diplomacy.json) |
 | Diplomacy is Not an Option | 132334 | [132334-diplomacy-is-not-an-option.json](./132334-diplomacy-is-not-an-option.json) |
 | Diplomacy is Not an Option: Fog of War | 415090 | [415090-diplomacy-is-not-an-option-fog-of-war.json](./415090-diplomacy-is-not-an-option-fog-of-war.json) |
 | Dipod: The Foot Legacy | 146831 | [146831-dipod-the-foot-legacy.json](./146831-dipod-the-foot-legacy.json) |
@@ -5262,6 +5263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donald Trump's Real Estate Tycoon | 25706 | [25706-donald-trumps-real-estate-tycoon.json](./25706-donald-trumps-real-estate-tycoon.json) |
 | Donald VS Martians | 113504 | [113504-donald-vs-martians.json](./113504-donald-vs-martians.json) |
 | Donald's Alphabet Chase | 57631 | [57631-donalds-alphabet-chase.json](./57631-donalds-alphabet-chase.json) |
+| Donchan ga Kyu | 92051 | [92051-donchan-ga-kyu.json](./92051-donchan-ga-kyu.json) |
 | Donchan Puzzle Hanabi de Dohn Advance | 49585 | [49585-donchan-puzzle-hanabi-de-dohn-advance.json](./49585-donchan-puzzle-hanabi-de-dohn-advance.json) |
 | Dondgynns Auv Ye Wyrdd | 307769 | [307769-dondgynns-auv-ye-wyrdd.json](./307769-dondgynns-auv-ye-wyrdd.json) |
 | Dong Dong Never Die: Judgment Day | 310532 | [310532-dong-dong-never-die-judgment-day.json](./310532-dong-dong-never-die-judgment-day.json) |
@@ -7263,6 +7265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duality | 305337 | [305337-duality.json](./305337-duality.json) |
 | Duality Paradox | 385566 | [385566-duality-paradox.json](./385566-duality-paradox.json) |
 | Duality Shift | 373109 | [373109-duality-shift.json](./373109-duality-shift.json) |
+| Duality ZF | 92062 | [92062-duality-zf.json](./92062-duality-zf.json) |
 | DualPenSports | 25179 | [25179-dualpensports.json](./25179-dualpensports.json) |
 | DualVerse86 | 373175 | [373175-dualverse86.json](./373175-dualverse86.json) |
 | Duàndāo Kè | 166674 | [166674-duandao-ke.json](./166674-duandao-ke.json) |
