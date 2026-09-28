@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Wyrm Slayer Nova Skin & Feat Pack | 313710 | [313710-idle-champions-wyrm-slayer-nova-skin-and-feat-pack.json](./313710-idle-champions-wyrm-slayer-nova-skin-and-feat-pack.json) |
 | Idle Champions: Wyrm Slayer Selise Skin & Feat Pack | 306076 | [306076-idle-champions-wyrm-slayer-selise-skin-and-feat-pack.json](./306076-idle-champions-wyrm-slayer-selise-skin-and-feat-pack.json) |
 | Idle Champions: Yuan-ti Glitch Havilar Skin & Feat Pack | 313701 | [313701-idle-champions-yuan-ti-glitch-havilar-skin-and-feat-pack.json](./313701-idle-champions-yuan-ti-glitch-havilar-skin-and-feat-pack.json) |
+| Idle Chess Story | 117793 | [117793-idle-chess-story.json](./117793-idle-chess-story.json) |
 | Idle Cinema Empire | 231937 | [231937-idle-cinema-empire.json](./231937-idle-cinema-empire.json) |
 | Idle Cinema Tycoon | 369567 | [369567-idle-cinema-tycoon.json](./369567-idle-cinema-tycoon.json) |
 | Idle Colony | 299782 | [299782-idle-colony.json](./299782-idle-colony.json) |
@@ -666,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Game Tycoon | 233628 | [233628-idle-game-tycoon.json](./233628-idle-game-tycoon.json) |
 | Idle Gem Quest | 224562 | [224562-idle-gem-quest.json](./224562-idle-gem-quest.json) |
 | Idle Geometry Defense | 373735 | [373735-idle-geometry-defense.json](./373735-idle-geometry-defense.json) |
+| Idle Guardians | 117816 | [117816-idle-guardians.json](./117816-idle-guardians.json) |
 | Idle Hacker | 406185 | [406185-idle-hacker.json](./406185-idle-hacker.json) |
 | Idle Hamburgers Save the World | 224215 | [224215-idle-hamburgers-save-the-world.json](./224215-idle-hamburgers-save-the-world.json) |
 | Idle Heist | 101368 | [101368-idle-heist.json](./101368-idle-heist.json) |
@@ -2027,6 +2029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InstaTok Tycoon | 301837 | [301837-instatok-tycoon.json](./301837-instatok-tycoon.json) |
 | Instead; Ghost Suburb | 280911 | [280911-instead-ghost-suburb.json](./280911-instead-ghost-suburb.json) |
 | Instinct | 286509 | [286509-instinct.json](./286509-instinct.json) |
+| Instinct Rush | 117821 | [117821-instinct-rush.json](./117821-instinct-rush.json) |
 | Instinct: Survival | 118000 | [118000-instinct-survival.json](./118000-instinct-survival.json) |
 | Instinction | 143565 | [143565-instinction.json](./143565-instinction.json) |
 | Instruments of Chaos Starring Young Indiana Jones | 73006 | [73006-instruments-of-chaos-starring-young-indiana-jones.json](./73006-instruments-of-chaos-starring-young-indiana-jones.json) |
