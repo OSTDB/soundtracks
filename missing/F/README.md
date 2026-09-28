@@ -2293,6 +2293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Remedy | 236778 | [236778-final-remedy.json](./236778-final-remedy.json) |
 | Final Rites | 405685 | [405685-final-rites.json](./405685-final-rites.json) |
 | Final Round | 398954 | [398954-final-round.json](./398954-final-round.json) |
+| Final Saga | 66763 | [66763-final-saga.json](./66763-final-saga.json) |
 | Final Sanctuary | 326993 | [326993-final-sanctuary.json](./326993-final-sanctuary.json) |
 | Final Shot | 175704 | [175704-final-shot.json](./175704-final-shot.json) |
 | Final Shot | 177554 | [177554-final-shot.json](./177554-final-shot.json) |
@@ -5090,6 +5091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | French with Rayman | 193346 | [193346-french-with-rayman.json](./193346-french-with-rayman.json) |
 | FrenQuest | 307604 | [307604-frenquest.json](./307604-frenquest.json) |
 | FrenVania | 143047 | [143047-frenvania.json](./143047-frenvania.json) |
+| Frenzic | 66739 | [66739-frenzic.json](./66739-frenzic.json) |
 | Frenzic: Overtime | 152926 | [152926-frenzic-overtime.json](./152926-frenzic-overtime.json) |
 | Frenzy | 13717 | [13717-frenzy.json](./13717-frenzy.json) |
 | Frenzy Blood | 287183 | [287183-frenzy-blood.json](./287183-frenzy-blood.json) |
