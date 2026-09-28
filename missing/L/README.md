@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Antagonist | 361885 | [361885-last-antagonist.json](./361885-last-antagonist.json) |
 | Last Arrows | 123535 | [123535-last-arrows.json](./123535-last-arrows.json) |
 | Last Battalion | 20127 | [20127-last-battalion.json](./20127-last-battalion.json) |
+| Last Battleground: Survival | 77422 | [77422-last-battleground-survival.json](./77422-last-battleground-survival.json) |
 | Last Bible III | 38354 | [38354-last-bible-iii.json](./38354-last-bible-iii.json) |
 | Last Bloody Snack | 256553 | [256553-last-bloody-snack.json](./256553-last-bloody-snack.json) |
 | Last Blossom | 148337 | [148337-last-blossom.json](./148337-last-blossom.json) |
@@ -761,6 +762,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lava Rolling Kid | 75053 | [75053-lava-rolling-kid.json](./75053-lava-rolling-kid.json) |
 | Lava Runner | 184899 | [184899-lava-runner.json](./184899-lava-runner.json) |
 | Lava-Runners | 331680 | [331680-lava-runners.json](./331680-lava-runners.json) |
+| LavaCat | 77413 | [77413-lavacat.json](./77413-lavacat.json) |
+| LavaCat Fly | 77415 | [77415-lavacat-fly.json](./77415-lavacat-fly.json) |
+| LavaCat Jump | 77414 | [77414-lavacat-jump.json](./77414-lavacat-jump.json) |
+| LavaCat Minigame Trilogy | 77417 | [77417-lavacat-minigame-trilogy.json](./77417-lavacat-minigame-trilogy.json) |
+| LavaCat Run | 77416 | [77416-lavacat-run.json](./77416-lavacat-run.json) |
 | Lavalads | 402268 | [402268-lavalads.json](./402268-lavalads.json) |
 | Lavapools | 25000 | [25000-lavapools.json](./25000-lavapools.json) |
 | Lavender | 186625 | [186625-lavender.json](./186625-lavender.json) |
@@ -1706,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Encounter | 297477 | [297477-lethal-encounter.json](./297477-lethal-encounter.json) |
 | Lethal Enforcers | 4501 | [4501-lethal-enforcers.json](./4501-lethal-enforcers.json) |
 | Lethal Enforcers 3 | 5399 | [5399-lethal-enforcers-3.json](./5399-lethal-enforcers-3.json) |
+| Lethal Enforcers I & II | 77250 | [77250-lethal-enforcers-i-and-ii.json](./77250-lethal-enforcers-i-and-ii.json) |
 | Lethal Infiltration: Ghost Reconnaissance | 296932 | [296932-lethal-infiltration-ghost-reconnaissance.json](./296932-lethal-infiltration-ghost-reconnaissance.json) |
 | Lethal Laser | 55489 | [55489-lethal-laser.json](./55489-lethal-laser.json) |
 | Lethal Lava Land | 308231 | [308231-lethal-lava-land.json](./308231-lethal-lava-land.json) |
