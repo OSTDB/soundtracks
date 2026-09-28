@@ -1973,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlestations: Midway | 4223 | [4223-battlestations-midway.json](./4223-battlestations-midway.json) |
 | Battlestations: Pacific | 4222 | [4222-battlestations-pacific.json](./4222-battlestations-pacific.json) |
 | BattleStick | 34635 | [34635-battlestick.json](./34635-battlestick.json) |
+| BattleStones | 90851 | [90851-battlestones.json](./90851-battlestones.json) |
 | BattleSweeper | 92617 | [92617-battlesweeper.json](./92617-battlesweeper.json) |
 | BattleTabs | 140591 | [140591-battletabs.json](./140591-battletabs.json) |
 | Battletank: L.O.B.A. | 52635 | [52635-battletank-l-o-b-a.json](./52635-battletank-l-o-b-a.json) |
@@ -2756,6 +2757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berenstein Bears: On Their Own, and You on Your Own | 46563 | [46563-berenstein-bears-on-their-own-and-you-on-your-own.json](./46563-berenstein-bears-on-their-own-and-you-on-your-own.json) |
 | Bergen Bridge Advanced Play | 101506 | [101506-bergen-bridge-advanced-play.json](./101506-bergen-bridge-advanced-play.json) |
 | Bergen Bridge Beginner 1 | 86721 | [86721-bergen-bridge-beginner-1.json](./86721-bergen-bridge-beginner-1.json) |
+| Bergen Bridge Expert | 90842 | [90842-bergen-bridge-expert.json](./90842-bergen-bridge-expert.json) |
 | Bergen Bridge Intermediate 1 | 95562 | [95562-bergen-bridge-intermediate-1.json](./95562-bergen-bridge-intermediate-1.json) |
 | Bergentruck 201X | 359045 | [359045-bergentruck-201x.json](./359045-bergentruck-201x.json) |
 | Berkeley's Maid: Remake Edition | 298059 | [298059-berkeleys-maid-remake-edition.json](./298059-berkeleys-maid-remake-edition.json) |
@@ -3880,6 +3882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackbox | 328240 | [328240-blackbox.json](./328240-blackbox.json) |
 | Blackbox | 37056 | [37056-blackbox.json](./37056-blackbox.json) |
 | BlackBox | 130951 | [130951-blackbox.json](./130951-blackbox.json) |
+| Blackbox by TRT World | 90832 | [90832-blackbox-by-trt-world.json](./90832-blackbox-by-trt-world.json) |
 | Blackbox: Infamous Puzzles | 101543 | [101543-blackbox-infamous-puzzles.json](./101543-blackbox-infamous-puzzles.json) |
 | Blackened | 270699 | [270699-blackened.json](./270699-blackened.json) |
 | BlackFaith | 100572 | [100572-blackfaith.json](./100572-blackfaith.json) |
@@ -4644,6 +4647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Midnight Blossom | 258221 | [258221-blood-midnight-blossom.json](./258221-blood-midnight-blossom.json) |
 | Blood Money | 11968 | [11968-blood-money.json](./11968-blood-money.json) |
 | Blood Money | 411673 | [411673-blood-money.json](./411673-blood-money.json) |
+| Blood Moon: The Last Stand | 90815 | [90815-blood-moon-the-last-stand.json](./90815-blood-moon-the-last-stand.json) |
 | Blood Night | 326976 | [326976-blood-night.json](./326976-blood-night.json) |
 | Blood nor Water | 109503 | [109503-blood-nor-water.json](./109503-blood-nor-water.json) |
 | Blood Oath | 350061 | [350061-blood-oath.json](./350061-blood-oath.json) |
@@ -6147,6 +6151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainstorm Series: Treasure Chase | 130389 | [130389-brainstorm-series-treasure-chase.json](./130389-brainstorm-series-treasure-chase.json) |
 | Brainstorm: The Game Show | 71485 | [71485-brainstorm-the-game-show.json](./71485-brainstorm-the-game-show.json) |
 | BrainTaire | 261521 | [261521-braintaire.json](./261521-braintaire.json) |
+| Brainy Mouse | 90844 | [90844-brainy-mouse.json](./90844-brainy-mouse.json) |
 | BrainZ Defender | 304879 | [304879-brainz-defender.json](./304879-brainz-defender.json) |
 | Brainzzz | 342247 | [342247-brainzzz.json](./342247-brainzzz.json) |
 | Braise | 332996 | [332996-braise.json](./332996-braise.json) |
