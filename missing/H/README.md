@@ -2593,6 +2593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of the Dark | 194999 | [194999-heroes-of-the-dark.json](./194999-heroes-of-the-dark.json) |
 | Heroes of the Galaxy | 195162 | [195162-heroes-of-the-galaxy.json](./195162-heroes-of-the-galaxy.json) |
 | Heroes of the Obelisk | 62761 | [62761-heroes-of-the-obelisk.json](./62761-heroes-of-the-obelisk.json) |
+| Heroes of the Offworld Arena | 102371 | [102371-heroes-of-the-offworld-arena.json](./102371-heroes-of-the-offworld-arena.json) |
 | Heroes of the Pacific | 5861 | [5861-heroes-of-the-pacific.json](./5861-heroes-of-the-pacific.json) |
 | Heroes of the Three Kingdoms 2 | 143499 | [143499-heroes-of-the-three-kingdoms-2.json](./143499-heroes-of-the-three-kingdoms-2.json) |
 | Heroes of the Three Kingdoms 3 | 143504 | [143504-heroes-of-the-three-kingdoms-3.json](./143504-heroes-of-the-three-kingdoms-3.json) |
