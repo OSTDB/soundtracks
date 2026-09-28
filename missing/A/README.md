@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Good Cat and The Graduate Life | 312671 | [312671-a-good-cat-and-the-graduate-life.json](./312671-a-good-cat-and-the-graduate-life.json) |
 | A Good Field | 337800 | [337800-a-good-field.json](./337800-a-good-field.json) |
 | A Good Librarian Like a Good Shepherd | 106621 | [106621-a-good-librarian-like-a-good-shepherd.json](./106621-a-good-librarian-like-a-good-shepherd.json) |
+| A Gracewind Tale: Do You Copy? | 97468 | [97468-a-gracewind-tale-do-you-copy.json](./97468-a-gracewind-tale-do-you-copy.json) |
 | A Grande Bagunça Espacial: The Big Space Mess | 90459 | [90459-a-grande-bagunca-espacial-the-big-space-mess.json](./90459-a-grande-bagunca-espacial-the-big-space-mess.json) |
 | A Great Day at the Races | 45946 | [45946-a-great-day-at-the-races.json](./45946-a-great-day-at-the-races.json) |
 | A Guard Walks Into a Tavern | 148906 | [148906-a-guard-walks-into-a-tavern.json](./148906-a-guard-walks-into-a-tavern.json) |
