@@ -682,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Magician | 192380 | [192380-dark-magician.json](./192380-dark-magician.json) |
 | Dark Mass | 336164 | [336164-dark-mass.json](./336164-dark-mass.json) |
 | Dark Maze | 148912 | [148912-dark-maze.json](./148912-dark-maze.json) |
+| Dark Maze 2 | 102393 | [102393-dark-maze-2.json](./102393-dark-maze-2.json) |
 | Dark Messiah of Might and Magic | 2369 | [2369-dark-messiah-of-might-and-magic.json](./2369-dark-messiah-of-might-and-magic.json) |
 | Dark Messiah of Might and Magic: Elements | 78210 | [78210-dark-messiah-of-might-and-magic-elements.json](./78210-dark-messiah-of-might-and-magic-elements.json) |
 | Dark Mine | 233440 | [233440-dark-mine.json](./233440-dark-mine.json) |
@@ -2073,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decompose With Me | 408160 | [408160-decompose-with-me.json](./408160-decompose-with-me.json) |
 | Decomposition | 339791 | [339791-decomposition.json](./339791-decomposition.json) |
 | Deconstruction Lab | 111228 | [111228-deconstruction-lab.json](./111228-deconstruction-lab.json) |
+| Deconstuctor | 102367 | [102367-deconstuctor.json](./102367-deconstuctor.json) |
 | Decontamination | 335879 | [335879-decontamination.json](./335879-decontamination.json) |
 | Decor Dream | 305845 | [305845-decor-dream.json](./305845-decor-dream.json) |
 | Decoration Rush | 324991 | [324991-decoration-rush.json](./324991-decoration-rush.json) |
@@ -2343,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Definitely Real Football | 177014 | [177014-definitely-real-football.json](./177014-definitely-real-football.json) |
 | Definitely Sneaky But Not Sneaky | 113182 | [113182-definitely-sneaky-but-not-sneaky.json](./113182-definitely-sneaky-but-not-sneaky.json) |
 | Deflect Boy | 290942 | [290942-deflect-boy.json](./290942-deflect-boy.json) |
+| Deflection Dimension | 102353 | [102353-deflection-dimension.json](./102353-deflection-dimension.json) |
 | Deflector | 179190 | [179190-deflector.json](./179190-deflector.json) |
 | Deflector | 93563 | [93563-deflector.json](./93563-deflector.json) |
 | Deflex | 92476 | [92476-deflex.json](./92476-deflex.json) |
@@ -3062,6 +3065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Is Dice | 368043 | [368043-destiny-is-dice.json](./368043-destiny-is-dice.json) |
 | Destiny Island | 158686 | [158686-destiny-island.json](./158686-destiny-island.json) |
 | Destiny Maiden | 270649 | [270649-destiny-maiden.json](./270649-destiny-maiden.json) |
+| Destiny of a Wizard 2: Beyond the Vale | 102390 | [102390-destiny-of-a-wizard-2-beyond-the-vale.json](./102390-destiny-of-a-wizard-2-beyond-the-vale.json) |
 | Destiny of Altrais | 103427 | [103427-destiny-of-altrais.json](./103427-destiny-of-altrais.json) |
 | Destiny of an Emperor | 48064 | [48064-destiny-of-an-emperor.json](./48064-destiny-of-an-emperor.json) |
 | Destiny of Heroes | 303008 | [303008-destiny-of-heroes.json](./303008-destiny-of-heroes.json) |
