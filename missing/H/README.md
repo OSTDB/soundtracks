@@ -427,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammer & Potion | 215351 | [215351-hammer-and-potion.json](./215351-hammer-and-potion.json) |
 | Hammer 2 | 74595 | [74595-hammer-2.json](./74595-hammer-2.json) |
 | Hammer Away | 40181 | [40181-hammer-away.json](./40181-hammer-away.json) |
+| Hammer Boy | 70460 | [70460-hammer-boy.json](./70460-hammer-boy.json) |
 | Hammer Bros | 264666 | [264666-hammer-bros.json](./264666-hammer-bros.json) |
 | Hammer climber - Hard Get Over | 105944 | [105944-hammer-climber-hard-get-over.json](./105944-hammer-climber-hard-get-over.json) |
 | Hammer Dongers | 140483 | [140483-hammer-dongers.json](./140483-hammer-dongers.json) |
@@ -1303,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Bangerz | 265761 | [265761-head-bangerz.json](./265761-head-bangerz.json) |
 | Head Boxing | 90785 | [90785-head-boxing.json](./90785-head-boxing.json) |
 | Head Bumper: Editcraft | 164428 | [164428-head-bumper-editcraft.json](./164428-head-bumper-editcraft.json) |
+| Head Coach v3 | 70477 | [70477-head-coach-v3.json](./70477-head-coach-v3.json) |
 | Head Games | 152351 | [152351-head-games.json](./152351-head-games.json) |
 | Head Games and Tank Battle Retro | 238047 | [238047-head-games-and-tank-battle-retro.json](./238047-head-games-and-tank-battle-retro.json) |
 | Head Mode | 178948 | [178948-head-mode.json](./178948-head-mode.json) |
