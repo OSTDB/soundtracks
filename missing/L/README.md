@@ -2448,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liong: the Lost Amulets | 144209 | [144209-liong-the-lost-amulets.json](./144209-liong-the-lost-amulets.json) |
 | Lionheart | 25687 | [25687-lionheart.json](./25687-lionheart.json) |
 | Lionheart | 82018 | [82018-lionheart.json](./82018-lionheart.json) |
+| Lionheart: Dark Moon | 75209 | [75209-lionheart-dark-moon.json](./75209-lionheart-dark-moon.json) |
 | Lionhearts | 398560 | [398560-lionhearts.json](./398560-lionhearts.json) |
 | Lionkiller | 138256 | [138256-lionkiller.json](./138256-lionkiller.json) |
 | LIP! Lewd Idol Project Vol. 2: Hot Springs and Beach Episodes | 254576 | [254576-lip-lewd-idol-project-vol-2-hot-springs-and-beach-episodes.json](./254576-lip-lewd-idol-project-vol-2-hot-springs-and-beach-episodes.json) |
@@ -2862,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liwertown: Rebirth | 267453 | [267453-liwertown-rebirth.json](./267453-liwertown-rebirth.json) |
 | Lix | 97896 | [97896-lix.json](./97896-lix.json) |
 | Liyf | 275349 | [275349-liyf.json](./275349-liyf.json) |
+| Liyla and the Shadows of War | 74505 | [74505-liyla-and-the-shadows-of-war.json](./74505-liyla-and-the-shadows-of-war.json) |
 | Liz and Rose's Alchemy Factory | 337806 | [337806-liz-and-roses-alchemy-factory.json](./337806-liz-and-roses-alchemy-factory.json) |
 | Liz Art Gallery | 413168 | [413168-liz-art-gallery.json](./413168-liz-art-gallery.json) |
 | Liz: Before the Plague | 94874 | [94874-liz-before-the-plague.json](./94874-liz-before-the-plague.json) |
@@ -3075,11 +3077,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistical 2: USA - Nevada | 115076 | [115076-logistical-2-usa-nevada.json](./115076-logistical-2-usa-nevada.json) |
 | Logistical 2: Vampires - Bundle | 168347 | [168347-logistical-2-vampires-bundle.json](./168347-logistical-2-vampires-bundle.json) |
 | Logistical 3: Portugal | 350074 | [350074-logistical-3-portugal.json](./350074-logistical-3-portugal.json) |
+| Logistical: Brazil | 74485 | [74485-logistical-brazil.json](./74485-logistical-brazil.json) |
 | Logistical: Earth | 51582 | [51582-logistical-earth.json](./51582-logistical-earth.json) |
 | Logistical: Europe | 53278 | [53278-logistical-europe.json](./53278-logistical-europe.json) |
 | Logistical: North America | 53279 | [53279-logistical-north-america.json](./53279-logistical-north-america.json) |
+| Logistical: Russia | 74489 | [74489-logistical-russia.json](./74489-logistical-russia.json) |
+| Logistical: South Africa | 74486 | [74486-logistical-south-africa.json](./74486-logistical-south-africa.json) |
+| Logistical: Switzerland | 74487 | [74487-logistical-switzerland.json](./74487-logistical-switzerland.json) |
 | Logistical: The Lot | 53280 | [53280-logistical-the-lot.json](./53280-logistical-the-lot.json) |
 | Logistical: United Kingdom | 53281 | [53281-logistical-united-kingdom.json](./53281-logistical-united-kingdom.json) |
+| Logistical: USA - Wisconsin | 74488 | [74488-logistical-usa-wisconsin.json](./74488-logistical-usa-wisconsin.json) |
 | Logistics Central | 271720 | [271720-logistics-central.json](./271720-logistics-central.json) |
 | Logistics Inc | 183877 | [183877-logistics-inc.json](./183877-logistics-inc.json) |
 | Logistics Simulator | 161346 | [161346-logistics-simulator.json](./161346-logistics-simulator.json) |
@@ -3090,6 +3097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logos Panic: Goaisatu | 37942 | [37942-logos-panic-goaisatu.json](./37942-logos-panic-goaisatu.json) |
 | Logos Quiz | 254425 | [254425-logos-quiz.json](./254425-logos-quiz.json) |
 | Logout | 96856 | [96856-logout.json](./96856-logout.json) |
+| Logres: Japanese RPG | 75222 | [75222-logres-japanese-rpg.json](./75222-logres-japanese-rpg.json) |
 | Lohotronshchik: Crazy Loto | 280887 | [280887-lohotronshchik-crazy-loto.json](./280887-lohotronshchik-crazy-loto.json) |
 | Loihtija | 176518 | [176518-loihtija.json](./176518-loihtija.json) |
 | Lokapala | 224018 | [224018-lokapala.json](./224018-lokapala.json) |
