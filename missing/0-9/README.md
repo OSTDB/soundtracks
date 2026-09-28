@@ -917,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3on3 FreeStyle: Battle Pass 2023 Autumn Part 2 | 276858 | [276858-3on3-freestyle-battle-pass-2023-autumn-part-2.json](./276858-3on3-freestyle-battle-pass-2023-autumn-part-2.json) |
 | 3on3 FreeStyle: Rebound | 135748 | [135748-3on3-freestyle-rebound.json](./135748-3on3-freestyle-rebound.json) |
 | 3rd Degree | 45948 | [45948-3rd-degree.json](./45948-3rd-degree.json) |
+| 3rd Invasion: Zombies vs. Steel | 114555 | [114555-3rd-invasion-zombies-vs-steel.json](./114555-3rd-invasion-zombies-vs-steel.json) |
 | 3rd World Farmer | 56460 | [56460-3rd-world-farmer.json](./56460-3rd-world-farmer.json) |
 | 3Souls | 26407 | [26407-3souls.json](./26407-3souls.json) |
 | 3SwitcheD | 9934 | [9934-3switched.json](./9934-3switched.json) |
@@ -1278,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Āsh | 408828 | [408828-ash.json](./408828-ash.json) |
 | Édgimon | 287729 | [287729-edgimon.json](./287729-edgimon.json) |
 | Élan | 203825 | [203825-elan.json](./203825-elan.json) |
+| Élan Vital | 114545 | [114545-elan-vital.json](./114545-elan-vital.json) |
 | Été | 118265 | [118265-ete.json](./118265-ete.json) |
 | ​Gooseball Playdate: Plus Slingshot / Spars | 271699 | [271699-gooseball-playdate-plus-slingshot-spars.json](./271699-gooseball-playdate-plus-slingshot-spars.json) |
 | Łowca Głów | 98944 | [98944-owca-g-ow.json](./98944-owca-g-ow.json) |
