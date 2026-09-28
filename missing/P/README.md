@@ -2900,6 +2900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikuniku: Collector's Edition | 154528 | [154528-pikuniku-collectors-edition.json](./154528-pikuniku-collectors-edition.json) |
 | Pilapa Boom | 186325 | [186325-pilapa-boom.json](./186325-pilapa-boom.json) |
 | Pilapila | 296109 | [296109-pilapila.json](./296109-pilapila.json) |
+| Pile of Cards | 71014 | [71014-pile-of-cards.json](./71014-pile-of-cards.json) |
 | Pile the Box | 246476 | [246476-pile-the-box.json](./246476-pile-the-box.json) |
 | Pile Up! Bakery | 66657 | [66657-pile-up-bakery.json](./66657-pile-up-bakery.json) |
 | Pilfer | 388710 | [388710-pilfer.json](./388710-pilfer.json) |
@@ -6005,6 +6006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | President | 93038 | [93038-president.json](./93038-president.json) |
 | President 47 | 318435 | [318435-president-47.json](./318435-president-47.json) |
 | President card game | 99377 | [99377-president-card-game.json](./99377-president-card-game.json) |
+| President Forever | 71061 | [71061-president-forever.json](./71061-president-forever.json) |
 | President of Steel | 382882 | [382882-president-of-steel.json](./382882-president-of-steel.json) |
 | President Pig | 100726 | [100726-president-pig.json](./100726-president-pig.json) |
 | President Rocket Game | 189937 | [189937-president-rocket-game.json](./189937-president-rocket-game.json) |
@@ -6694,6 +6696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Eagle | 112960 | [112960-project-eagle.json](./112960-project-eagle.json) |
 | Project Eagle | 344958 | [344958-project-eagle.json](./344958-project-eagle.json) |
 | Project Earth | 180790 | [180790-project-earth.json](./180790-project-earth.json) |
+| Project Earth: Starmageddon | 71055 | [71055-project-earth-starmageddon.json](./71055-project-earth-starmageddon.json) |
 | Project EBHack | 331360 | [331360-project-ebhack.json](./331360-project-ebhack.json) |
 | Project Eclipse | 403580 | [403580-project-eclipse.json](./403580-project-eclipse.json) |
 | Project Eden | 109209 | [109209-project-eden.json](./109209-project-eden.json) |
@@ -6713,6 +6716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Fist | 84806 | [84806-project-fist.json](./84806-project-fist.json) |
 | Project Freedom | 315023 | [315023-project-freedom.json](./315023-project-freedom.json) |
 | Project Frontier | 286067 | [286067-project-frontier.json](./286067-project-frontier.json) |
+| Project Gaiaray | 71022 | [71022-project-gaiaray.json](./71022-project-gaiaray.json) |
 | Project Genesis | 114409 | [114409-project-genesis.json](./114409-project-genesis.json) |
 | Project Genom | 24907 | [24907-project-genom.json](./24907-project-genom.json) |
 | Project Genom: Gold Avalon Pack | 225569 | [225569-project-genom-gold-avalon-pack.json](./225569-project-genom-gold-avalon-pack.json) |
@@ -7321,6 +7325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pugovki | 177051 | [177051-pugovki.json](./177051-pugovki.json) |
 | PUIQ: Demons | 298053 | [298053-puiq-demons.json](./298053-puiq-demons.json) |
 | PukePuke Demon | 103636 | [103636-pukepuke-demon.json](./103636-pukepuke-demon.json) |
+| Pukunpa: Joshikousei No Houkago | 71023 | [71023-pukunpa-joshikousei-no-houkago.json](./71023-pukunpa-joshikousei-no-houkago.json) |
 | Pulang Insanity: Director's Cut | 117769 | [117769-pulang-insanity-directors-cut.json](./117769-pulang-insanity-directors-cut.json) |
 | Pull | 148954 | [148954-pull.json](./148954-pull.json) |
 | Pull Ball | 114361 | [114361-pull-ball.json](./114361-pull-ball.json) |
