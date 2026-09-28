@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katekyou Hitman Reborn! DS: Flame Rumble XX - Kessen! Real 6 Chouka | 64381 | [64381-katekyou-hitman-reborn-ds-flame-rumble-xx-kessen-real-6-chouka.json](./64381-katekyou-hitman-reborn-ds-flame-rumble-xx-kessen-real-6-chouka.json) |
 | Katekyou Hitman Reborn!: Nerae!? Ring x Vongola Trainers | 305271 | [305271-katekyou-hitman-reborn-nerae-ring-x-vongola-trainers.json](./305271-katekyou-hitman-reborn-nerae-ring-x-vongola-trainers.json) |
 | Katekyou Hitman Reborn!: Ore ga Boss! Saikyou Family Taisen | 269823 | [269823-katekyou-hitman-reborn-ore-ga-boss-saikyou-family-taisen.json](./269823-katekyou-hitman-reborn-ore-ga-boss-saikyou-family-taisen.json) |
+| Katharsis Project | 117624 | [117624-katharsis-project.json](./117624-katharsis-project.json) |
 | Katharsis: The second act | 82366 | [82366-katharsis-the-second-act.json](./82366-katharsis-the-second-act.json) |
 | Kathy Rain 2: Soothsayer | 322691 | [322691-kathy-rain-2-soothsayer.json](./322691-kathy-rain-2-soothsayer.json) |
 | Katin Svět | 223679 | [223679-katin-svet.json](./223679-katin-svet.json) |
