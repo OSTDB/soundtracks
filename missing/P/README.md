@@ -6934,6 +6934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protodroid Delta | 133170 | [133170-protodroid-delta.json](./133170-protodroid-delta.json) |
 | ProtoDungeon: Episode I | 181879 | [181879-protodungeon-episode-i.json](./181879-protodungeon-episode-i.json) |
 | ProtoDungeon: Episode II | 405620 | [405620-protodungeon-episode-ii.json](./405620-protodungeon-episode-ii.json) |
+| ProtoDungeon: Episode III | 117646 | [117646-protodungeon-episode-iii.json](./117646-protodungeon-episode-iii.json) |
 | Protoform | 107113 | [107113-protoform.json](./107113-protoform.json) |
 | Protogenisis | 118824 | [118824-protogenisis.json](./118824-protogenisis.json) |
 | Protolife | 89973 | [89973-protolife.json](./89973-protolife.json) |
