@@ -1621,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferno Quest: Journey Through the Lava Cavern | 248021 | [248021-inferno-quest-journey-through-the-lava-cavern.json](./248021-inferno-quest-journey-through-the-lava-cavern.json) |
 | Inferno: Beyond the 7th Circle | 150583 | [150583-inferno-beyond-the-7th-circle.json](./150583-inferno-beyond-the-7th-circle.json) |
 | Inferno: Deathfield | 82051 | [82051-inferno-deathfield.json](./82051-inferno-deathfield.json) |
+| Inferno: The Odyssey Continues | 70324 | [70324-inferno-the-odyssey-continues.json](./70324-inferno-the-odyssey-continues.json) |
 | Inferno’s Embrace | 298902 | [298902-inferno-s-embrace.json](./298902-inferno-s-embrace.json) |
 | Infernovasion | 269663 | [269663-infernovasion.json](./269663-infernovasion.json) |
 | Infernum Bound | 337094 | [337094-infernum-bound.json](./337094-infernum-bound.json) |
@@ -1930,6 +1931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inner Seasons | 258964 | [258964-inner-seasons.json](./258964-inner-seasons.json) |
 | Inner silence | 29869 | [29869-inner-silence.json](./29869-inner-silence.json) |
 | Inner Voice | 358966 | [358966-inner-voice.json](./358966-inner-voice.json) |
+| Inner Worlds | 70482 | [70482-inner-worlds.json](./70482-inner-worlds.json) |
 | Innerchild VR | 332607 | [332607-innerchild-vr.json](./332607-innerchild-vr.json) |
 | InnerCube | 35879 | [35879-innercube.json](./35879-innercube.json) |
 | Innergy | 81398 | [81398-innergy.json](./81398-innergy.json) |
