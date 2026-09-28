@@ -3165,6 +3165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word | 369619 | [369619-word.json](./369619-word.json) |
 | Word Ace | 61032 | [61032-word-ace.json](./61032-word-ace.json) |
 | Word Across | 104481 | [104481-word-across.json](./104481-word-across.json) |
+| Word Addict: Word Puzzle Games | 90786 | [90786-word-addict-word-puzzle-games.json](./90786-word-addict-word-puzzle-games.json) |
 | Word After Word | 134653 | [134653-word-after-word.json](./134653-word-after-word.json) |
 | Word Attack | 220720 | [220720-word-attack.json](./220720-word-attack.json) |
 | Word Avalanche | 108644 | [108644-word-avalanche.json](./108644-word-avalanche.json) |
