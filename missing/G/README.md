@@ -1069,6 +1069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekitotsu! Saikyou Pro Yakyuu Dream Battle | 220303 | [220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json](./220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json) |
 | Gekitou Burning Pro Wrestling | 42593 | [42593-gekitou-burning-pro-wrestling.json](./42593-gekitou-burning-pro-wrestling.json) |
 | Gekka Ryouran Romance | 212736 | [212736-gekka-ryouran-romance.json](./212736-gekka-ryouran-romance.json) |
+| Gekkeiju Online | 84306 | [84306-gekkeiju-online.json](./84306-gekkeiju-online.json) |
 | Gekko and Luna Girl's Moths | 359430 | [359430-gekko-and-luna-girls-moths.json](./359430-gekko-and-luna-girls-moths.json) |
 | Gekko's Super Strength | 359431 | [359431-gekkos-super-strength.json](./359431-gekkos-super-strength.json) |
 | Gekkou no Carnevale | 137102 | [137102-gekkou-no-carnevale.json](./137102-gekkou-no-carnevale.json) |
@@ -2568,6 +2569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godmode Epochs | 252688 | [252688-godmode-epochs.json](./252688-godmode-epochs.json) |
 | Godmorgon: Spooky Ride | 187227 | [187227-godmorgon-spooky-ride.json](./187227-godmorgon-spooky-ride.json) |
 | Gododo | 148902 | [148902-gododo.json](./148902-gododo.json) |
+| GodPey | 84328 | [84328-godpey.json](./84328-godpey.json) |
 | Godproof | 357429 | [357429-godproof.json](./357429-godproof.json) |
 | Godrop | 292290 | [292290-godrop.json](./292290-godrop.json) |
 | Gods | 142458 | [142458-gods.json](./142458-gods.json) |
@@ -4376,6 +4378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilt | 345521 | [345521-guilt.json](./345521-guilt.json) |
 | Guilty | 215389 | [215389-guilty.json](./215389-guilty.json) |
 | Guilty | 7839 | [7839-guilty.json](./7839-guilty.json) |
+| Guilty Bastards | 84299 | [84299-guilty-bastards.json](./84299-guilty-bastards.json) |
 | Guilty Cradle | 395239 | [395239-guilty-cradle.json](./395239-guilty-cradle.json) |
 | Guilty Crown | 208919 | [208919-guilty-crown.json](./208919-guilty-crown.json) |
 | Guilty Crown: Lost Christmas | 80569 | [80569-guilty-crown-lost-christmas.json](./80569-guilty-crown-lost-christmas.json) |
