@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karoshi Mario | 275323 | [275323-karoshi-mario.json](./275323-karoshi-mario.json) |
 | Karpar | 214750 | [214750-karpar.json](./214750-karpar.json) |
 | Karpatia: Order of the Comet | 257983 | [257983-karpatia-order-of-the-comet.json](./257983-karpatia-order-of-the-comet.json) |
+| Karsus | 60620 | [60620-karsus.json](./60620-karsus.json) |
 | Kart Bros | 347246 | [347246-kart-bros.json](./347246-kart-bros.json) |
 | Kart Chaser: The Boost VR | 29686 | [29686-kart-chaser-the-boost-vr.json](./29686-kart-chaser-the-boost-vr.json) |
 | Kart Crazy Race Simulator Game | 264118 | [264118-kart-crazy-race-simulator-game.json](./264118-kart-crazy-race-simulator-game.json) |
@@ -1597,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinnikuman Nisei: Dream Tag Match | 37365 | [37365-kinnikuman-nisei-dream-tag-match.json](./37365-kinnikuman-nisei-dream-tag-match.json) |
 | Kinnikuman: Colosseum Deathmatch | 71803 | [71803-kinnikuman-colosseum-deathmatch.json](./71803-kinnikuman-colosseum-deathmatch.json) |
 | Kinnikuman: Kinniku-sei Oui Soudatsusen | 41324 | [41324-kinnikuman-kinniku-sei-oui-soudatsusen.json](./41324-kinnikuman-kinniku-sei-oui-soudatsusen.json) |
+| Kinnikuman: Muscle Shot | 60595 | [60595-kinnikuman-muscle-shot.json](./60595-kinnikuman-muscle-shot.json) |
 | Kinnikuman: Sakuretsu! Muscle Power | 346022 | [346022-kinnikuman-sakuretsu-muscle-power.json](./346022-kinnikuman-sakuretsu-muscle-power.json) |
 | Kinnikuman: Taiketsu Akuma Choujin | 346033 | [346033-kinnikuman-taiketsu-akuma-choujin.json](./346033-kinnikuman-taiketsu-akuma-choujin.json) |
 | Kino no Tabi II: The Beautiful World | 141757 | [141757-kino-no-tabi-ii-the-beautiful-world.json](./141757-kino-no-tabi-ii-the-beautiful-world.json) |
@@ -2110,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Know more Thai | 214754 | [214754-know-more-thai.json](./214754-know-more-thai.json) |
 | Know That Flag! | 351006 | [351006-know-that-flag.json](./351006-know-that-flag.json) |
 | Know What I Meme | 254442 | [254442-know-what-i-meme.json](./254442-know-what-i-meme.json) |
+| Know Your Friends | 60627 | [60627-know-your-friends.json](./60627-know-your-friends.json) |
 | Know Your Limits | 272248 | [272248-know-your-limits.json](./272248-know-your-limits.json) |
 | Knowledge | 410931 | [410931-knowledge.json](./410931-knowledge.json) |
 | Knowledge Fever | 245863 | [245863-knowledge-fever.json](./245863-knowledge-fever.json) |
