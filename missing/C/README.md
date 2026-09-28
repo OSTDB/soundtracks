@@ -6356,6 +6356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmology of Kyoto | 46577 | [46577-cosmology-of-kyoto.json](./46577-cosmology-of-kyoto.json) |
 | Cosmonaut | 228342 | [228342-cosmonaut.json](./228342-cosmonaut.json) |
 | Cosmonious High | 194955 | [194955-cosmonious-high.json](./194955-cosmonious-high.json) |
+| Cosmonuts | 86200 | [86200-cosmonuts.json](./86200-cosmonuts.json) |
 | Cosmophage | 148552 | [148552-cosmophage.json](./148552-cosmophage.json) |
 | CosmoPirates | 258553 | [258553-cosmopirates.json](./258553-cosmopirates.json) |
 | Cosmorbit | 384537 | [384537-cosmorbit.json](./384537-cosmorbit.json) |
