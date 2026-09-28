@@ -1373,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Adventure All-Stars | 294795 | [294795-new-adventure-all-stars.json](./294795-new-adventure-all-stars.json) |
 | New Adventure Island | 28521 | [28521-new-adventure-island.json](./28521-new-adventure-island.json) |
 | NEW Again Beauty | 106596 | [106596-new-again-beauty.json](./106596-new-again-beauty.json) |
+| New Age | 117628 | [117628-new-age.json](./117628-new-age.json) |
 | New Age of Machine Warfare | 252663 | [252663-new-age-of-machine-warfare.json](./252663-new-age-of-machine-warfare.json) |
 | New Atelier Rorona: The Alchemist of Arland | 82105 | [82105-new-atelier-rorona-the-alchemist-of-arland.json](./82105-new-atelier-rorona-the-alchemist-of-arland.json) |
 | New Athens | 179148 | [179148-new-athens.json](./179148-new-athens.json) |
@@ -1488,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Yankee 6: In Pharaoh's Court | 117096 | [117096-new-yankee-6-in-pharaohs-court.json](./117096-new-yankee-6-in-pharaohs-court.json) |
 | New Yankee in King Arthur's Court | 32989 | [32989-new-yankee-in-king-arthurs-court.json](./32989-new-yankee-in-king-arthurs-court.json) |
 | New Yankee in King Arthur's Court 2 | 31855 | [31855-new-yankee-in-king-arthurs-court-2.json](./31855-new-yankee-in-king-arthurs-court-2.json) |
+| New Yankee in King Arthur's Court 4 | 117825 | [117825-new-yankee-in-king-arthurs-court-4.json](./117825-new-yankee-in-king-arthurs-court-4.json) |
 | New Yankee in King Arthur's Court 5 | 118260 | [118260-new-yankee-in-king-arthurs-court-5.json](./118260-new-yankee-in-king-arthurs-court-5.json) |
 | New Yankee in Santa's Service | 32990 | [32990-new-yankee-in-santas-service.json](./32990-new-yankee-in-santas-service.json) |
 | New Yankee: Jelly Chaos - Collector's Edition | 417515 | [417515-new-yankee-jelly-chaos-collectors-edition.json](./417515-new-yankee-jelly-chaos-collectors-edition.json) |
@@ -2996,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Pacman | 135091 | [135091-not-pacman.json](./135091-not-pacman.json) |
 | Not Pinball | 175734 | [175734-not-pinball.json](./175734-not-pinball.json) |
 | Not Quite Dead | 414336 | [414336-not-quite-dead.json](./414336-not-quite-dead.json) |
+| Not So Heart | 117801 | [117801-not-so-heart.json](./117801-not-so-heart.json) |
 | Not So Middle Ages | 98775 | [98775-not-so-middle-ages.json](./98775-not-so-middle-ages.json) |
 | Not Sonic Flash | 330525 | [330525-not-sonic-flash.json](./330525-not-sonic-flash.json) |
 | Not Spooky: But Good Enough For Me | 197117 | [197117-not-spooky-but-good-enough-for-me.json](./197117-not-spooky-but-good-enough-for-me.json) |
