@@ -3285,6 +3285,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Train | 166154 | [166154-loot-train.json](./166154-loot-train.json) |
 | Loot Tycoon | 379479 | [379479-loot-tycoon.json](./379479-loot-tycoon.json) |
 | Loot, Luck & Levels | 213481 | [213481-loot-luck-and-levels.json](./213481-loot-luck-and-levels.json) |
+| Loot: Action-Packed Bundle | 99750 | [99750-loot-action-packed-bundle.json](./99750-loot-action-packed-bundle.json) |
+| Loot: Games & Themes Ultimate Holiday Bundle | 99760 | [99760-loot-games-and-themes-ultimate-holiday-bundle.json](./99760-loot-games-and-themes-ultimate-holiday-bundle.json) |
+| Loot: Strategy-Packed Bundle | 99759 | [99759-loot-strategy-packed-bundle.json](./99759-loot-strategy-packed-bundle.json) |
+| Loot: Ultimate Games & Themes Bundle | 99749 | [99749-loot-ultimate-games-and-themes-bundle.json](./99749-loot-ultimate-games-and-themes-bundle.json) |
 | Lootale Slash | 398330 | [398330-lootale-slash.json](./398330-lootale-slash.json) |
 | Lootbag Tactics | 409527 | [409527-lootbag-tactics.json](./409527-lootbag-tactics.json) |
 | Lootbane | 370125 | [370125-lootbane.json](./370125-lootbane.json) |
@@ -4344,6 +4348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxsor: Nights Over Egypt | 400338 | [400338-luxsor-nights-over-egypt.json](./400338-luxsor-nights-over-egypt.json) |
 | Luxuria Superbia | 10630 | [10630-luxuria-superbia.json](./10630-luxuria-superbia.json) |
 | Luxuriant | 356714 | [356714-luxuriant.json](./356714-luxuriant.json) |
+| Luxury Fun Triple Scoop | 99808 | [99808-luxury-fun-triple-scoop.json](./99808-luxury-fun-triple-scoop.json) |
 | Luxury Garden Bundle | 227855 | [227855-luxury-garden-bundle.json](./227855-luxury-garden-bundle.json) |
 | Luxury Hotel Emporium | 34787 | [34787-luxury-hotel-emporium.json](./34787-luxury-hotel-emporium.json) |
 | Luxury House Renovation | 114960 | [114960-luxury-house-renovation.json](./114960-luxury-house-renovation.json) |
