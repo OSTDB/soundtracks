@@ -4006,6 +4006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimwar | 343915 | [343915-grimwar.json](./343915-grimwar.json) |
 | Grimwild Horror | 319169 | [319169-grimwild-horror.json](./319169-grimwild-horror.json) |
 | Grin Bandana | 54475 | [54475-grin-bandana.json](./54475-grin-bandana.json) |
+| Grinbo | 91554 | [91554-grinbo.json](./91554-grinbo.json) |
 | Grind Hockey | 269330 | [269330-grind-hockey.json](./269330-grind-hockey.json) |
 | Grind Mindset | 368578 | [368578-grind-mindset.json](./368578-grind-mindset.json) |
 | Grind Stormer | 293645 | [293645-grind-stormer.json](./293645-grind-stormer.json) |
@@ -4282,6 +4283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guarrd the Rum | 176800 | [176800-guarrd-the-rum.json](./176800-guarrd-the-rum.json) |
 | Gubble | 170382 | [170382-gubble.json](./170382-gubble.json) |
 | Gubble 2 | 93338 | [93338-gubble-2.json](./93338-gubble-2.json) |
+| Gubble Buggy Racer | 91544 | [91544-gubble-buggy-racer.json](./91544-gubble-buggy-racer.json) |
 | Gude! Jump n Run | 160179 | [160179-gude-jump-n-run.json](./160179-gude-jump-n-run.json) |
 | Gudetama Tap! | 102118 | [102118-gudetama-tap.json](./102118-gudetama-tap.json) |
 | Gudetama: Okawari Ikagassuka | 57711 | [57711-gudetama-okawari-ikagassuka.json](./57711-gudetama-okawari-ikagassuka.json) |
