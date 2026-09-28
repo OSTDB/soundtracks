@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit's Quest | 142342 | [142342-rabbits-quest.json](./142342-rabbits-quest.json) |
 | RabbitJack's Casino | 67960 | [67960-rabbitjacks-casino.json](./67960-rabbitjacks-casino.json) |
 | Rabby in the Land of Sweets | 165646 | [165646-rabby-in-the-land-of-sweets.json](./165646-rabby-in-the-land-of-sweets.json) |
+| Rabi Laby | 85580 | [85580-rabi-laby.json](./85580-rabi-laby.json) |
 | Rabi Laby 2 | 84834 | [84834-rabi-laby-2.json](./84834-rabi-laby-2.json) |
 | Rabi Laby 3 | 84833 | [84833-rabi-laby-3.json](./84833-rabi-laby-3.json) |
 | Rabi to Navi no Daibouken | 206179 | [206179-rabi-to-navi-no-daibouken.json](./206179-rabi-to-navi-no-daibouken.json) |
@@ -1952,6 +1953,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Fishing 3D Paradise | 84832 | [84832-reel-fishing-3d-paradise.json](./84832-reel-fishing-3d-paradise.json) |
 | Reel Fishing 3D Paradise Mini | 84831 | [84831-reel-fishing-3d-paradise-mini.json](./84831-reel-fishing-3d-paradise-mini.json) |
 | Reel Fishing Challenge | 67964 | [67964-reel-fishing-challenge.json](./67964-reel-fishing-challenge.json) |
+| Reel Fishing Challenge II | 85573 | [85573-reel-fishing-challenge-ii.json](./85573-reel-fishing-challenge-ii.json) |
+| Reel Fishing: Ocean Challenge | 85574 | [85574-reel-fishing-ocean-challenge.json](./85574-reel-fishing-ocean-challenge.json) |
 | Reel Gold | 263473 | [263473-reel-gold.json](./263473-reel-gold.json) |
 | Reel it! Ocean Fishing | 362350 | [362350-reel-it-ocean-fishing.json](./362350-reel-it-ocean-fishing.json) |
 | Reel Talk: A Thoughtful Fishcussion | 408172 | [408172-reel-talk-a-thoughtful-fishcussion.json](./408172-reel-talk-a-thoughtful-fishcussion.json) |
