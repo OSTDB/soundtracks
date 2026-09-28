@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landscapes | 90390 | [90390-landscapes.json](./90390-landscapes.json) |
 | Landshay: Event Night | 186348 | [186348-landshay-event-night.json](./186348-landshay-event-night.json) |
 | Lane Drifter | 365901 | [365901-lane-drifter.json](./365901-lane-drifter.json) |
+| Lane Mastodon vs. the Blubbermen | 59855 | [59855-lane-mastodon-vs-the-blubbermen.json](./59855-lane-mastodon-vs-the-blubbermen.json) |
 | Lane of the Eternal Night | 406207 | [406207-lane-of-the-eternal-night.json](./406207-lane-of-the-eternal-night.json) |
 | Lane Splitter | 233227 | [233227-lane-splitter.json](./233227-lane-splitter.json) |
 | Lanescape | 203570 | [203570-lanescape.json](./203570-lanescape.json) |
@@ -1781,6 +1782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lettergreep | 45918 | [45918-lettergreep.json](./45918-lettergreep.json) |
 | LetterMeister | 173802 | [173802-lettermeister.json](./173802-lettermeister.json) |
 | Letterorites | 58460 | [58460-letterorites.json](./58460-letterorites.json) |
+| Letterpad | 60076 | [60076-letterpad.json](./60076-letterpad.json) |
 | Letters | 314307 | [314307-letters.json](./314307-letters.json) |
 | Letters & Legends | 292319 | [292319-letters-and-legends.json](./292319-letters-and-legends.json) |
 | Letters From a Rainy Day: Oceans and Lace | 152812 | [152812-letters-from-a-rainy-day-oceans-and-lace.json](./152812-letters-from-a-rainy-day-oceans-and-lace.json) |
@@ -2702,6 +2704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Panda's Candy Shop | 231932 | [231932-little-pandas-candy-shop.json](./231932-little-pandas-candy-shop.json) |
 | Little Panda's Jewel Quest | 103662 | [103662-little-pandas-jewel-quest.json](./103662-little-pandas-jewel-quest.json) |
 | Little Panda's Restaurant | 239916 | [239916-little-pandas-restaurant.json](./239916-little-pandas-restaurant.json) |
+| Little Party | 59910 | [59910-little-party.json](./59910-little-party.json) |
 | Little Party Legends | 156976 | [156976-little-party-legends.json](./156976-little-party-legends.json) |
 | Little People | 57039 | [57039-little-people.json](./57039-little-people.json) |
 | Little Petsville Desktop | 401641 | [401641-little-petsville-desktop.json](./401641-little-petsville-desktop.json) |
