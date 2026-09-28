@@ -1737,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten-chan Party! | 108264 | [108264-ten-chan-party.json](./108264-ten-chan-party.json) |
 | Ten++ | 374132 | [374132-ten.json](./374132-ten.json) |
 | Tenable | 133791 | [133791-tenable.json](./133791-tenable.json) |
+| Tenacious | 111202 | [111202-tenacious.json](./111202-tenacious.json) |
 | Tenancy | 413893 | [413893-tenancy.json](./413893-tenancy.json) |
 | Tenants | 129152 | [129152-tenants.json](./129152-tenants.json) |
 | Tenchi Muyo! Ryo-Ohki FX | 123079 | [123079-tenchi-muyo-ryo-ohki-fx.json](./123079-tenchi-muyo-ryo-ohki-fx.json) |
@@ -2449,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Snacky | 225104 | [225104-the-adventures-of-snacky.json](./225104-the-adventures-of-snacky.json) |
 | The Adventures of Square | 18284 | [18284-the-adventures-of-square.json](./18284-the-adventures-of-square.json) |
 | The Adventures of Star Saver | 7745 | [7745-the-adventures-of-star-saver.json](./7745-the-adventures-of-star-saver.json) |
+| The Adventures of Team Australia | 111171 | [111171-the-adventures-of-team-australia.json](./111171-the-adventures-of-team-australia.json) |
 | The Adventures of The Black Hawk | 274575 | [274575-the-adventures-of-the-black-hawk.json](./274575-the-adventures-of-the-black-hawk.json) |
 | The Adventures of Tintin: Prisoners of the Sun | 249145 | [249145-the-adventures-of-tintin-prisoners-of-the-sun.json](./249145-the-adventures-of-tintin-prisoners-of-the-sun.json) |
 | The Adventures of Tintin: Prisoners of the Sun | 42588 | [42588-the-adventures-of-tintin-prisoners-of-the-sun.json](./42588-the-adventures-of-tintin-prisoners-of-the-sun.json) |
@@ -2538,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Anomaly | 271300 | [271300-the-anomaly.json](./271300-the-anomaly.json) |
 | The Anomaly 2: Water | 271301 | [271301-the-anomaly-2-water.json](./271301-the-anomaly-2-water.json) |
 | The Anomaly 3: Tower | 280893 | [280893-the-anomaly-3-tower.json](./280893-the-anomaly-3-tower.json) |
+| The Anomaly Demo | 111208 | [111208-the-anomaly-demo.json](./111208-the-anomaly-demo.json) |
 | The Anomaly Experiment | 342048 | [342048-the-anomaly-experiment.json](./342048-the-anomaly-experiment.json) |
 | The Anomaly Project | 312378 | [312378-the-anomaly-project.json](./312378-the-anomaly-project.json) |
 | The Another World | 386889 | [386889-the-another-world.json](./386889-the-another-world.json) |
@@ -4557,6 +4560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Helper | 224643 | [224643-the-helper.json](./224643-the-helper.json) |
 | The Henchmen | 220674 | [220674-the-henchmen.json](./220674-the-henchmen.json) |
 | The Hepatica Spring | 190222 | [190222-the-hepatica-spring.json](./190222-the-hepatica-spring.json) |
+| The Hermit | 111221 | [111221-the-hermit.json](./111221-the-hermit.json) |
 | The Hermit's Secret | 25131 | [25131-the-hermits-secret.json](./25131-the-hermits-secret.json) |
 | The Hero gives up!... Wait, What!? | 265582 | [265582-the-hero-gives-up-wait-what.json](./265582-the-hero-gives-up-wait-what.json) |
 | The Hero of Bangaona | 173067 | [173067-the-hero-of-bangaona.json](./173067-the-hero-of-bangaona.json) |
@@ -11288,6 +11292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Pinball 25: 3D Tables | 206745 | [206745-total-pinball-25-3d-tables.json](./206745-total-pinball-25-3d-tables.json) |
 | Total Reload | 248661 | [248661-total-reload.json](./248661-total-reload.json) |
 | Total Rendition | 172522 | [172522-total-rendition.json](./172522-total-rendition.json) |
+| TotAL RPG (Tower of the Ancient Legion) | 111168 | [111168-total-rpg-tower-of-the-ancient-legion.json](./111168-total-rpg-tower-of-the-ancient-legion.json) |
 | Total Rush | 289939 | [289939-total-rush.json](./289939-total-rush.json) |
 | Total Ski Jump | 122159 | [122159-total-ski-jump.json](./122159-total-ski-jump.json) |
 | Total Soccer Manager | 49343 | [49343-total-soccer-manager.json](./49343-total-soccer-manager.json) |
@@ -11930,6 +11935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Tinker Simulator | 150000 | [150000-toy-tinker-simulator.json](./150000-toy-tinker-simulator.json) |
 | Toy Voyage | 349391 | [349391-toy-voyage.json](./349391-toy-voyage.json) |
 | Toy Wars Invasion | 9449 | [9449-toy-wars-invasion.json](./9449-toy-wars-invasion.json) |
+| Toy-War: The Beginning | 111192 | [111192-toy-war-the-beginning.json](./111192-toy-war-the-beginning.json) |
 | Toy's Brawl | 340947 | [340947-toys-brawl.json](./340947-toys-brawl.json) |
 | Toya | 404934 | [404934-toya.json](./404934-toya.json) |
 | Toybit Quest | 104039 | [104039-toybit-quest.json](./104039-toybit-quest.json) |
