@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KFC: Match Out the Yummies | 378157 | [378157-kfc-match-out-the-yummies.json](./378157-kfc-match-out-the-yummies.json) |
 | KFZ | 219663 | [219663-kfz.json](./219663-kfz.json) |
 | Khan: Myth of the Wind | 145603 | [145603-khan-myth-of-the-wind.json](./145603-khan-myth-of-the-wind.json) |
+| Khaos Wind | 111894 | [111894-khaos-wind.json](./111894-khaos-wind.json) |
 | Khara the Game | 108830 | [108830-khara-the-game.json](./108830-khara-the-game.json) |
 | Khatyrka: Prelude | 229967 | [229967-khatyrka-prelude.json](./229967-khatyrka-prelude.json) |
 | Khemia | 136460 | [136460-khemia.json](./136460-khemia.json) |
@@ -2307,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kot-rybolov | 367945 | [367945-kot-rybolov.json](./367945-kot-rybolov.json) |
 | Kota's New Journey | 327999 | [327999-kotas-new-journey.json](./327999-kotas-new-journey.json) |
 | Koten Tsumego Shuu: Shijin no Maki | 384658 | [384658-koten-tsumego-shuu-shijin-no-maki.json](./384658-koten-tsumego-shuu-shijin-no-maki.json) |
+| KóterGame | 111856 | [111856-kotergame.json](./111856-kotergame.json) |
 | Kotoba no Puzzle: Mojipittan Encore | 122292 | [122292-kotoba-no-puzzle-mojipittan-encore.json](./122292-kotoba-no-puzzle-mojipittan-encore.json) |
 | Kotobuki Grand Prix | 133823 | [133823-kotobuki-grand-prix.json](./133823-kotobuki-grand-prix.json) |
 | Kotodama Diary | 152193 | [152193-kotodama-diary.json](./152193-kotodama-diary.json) |
