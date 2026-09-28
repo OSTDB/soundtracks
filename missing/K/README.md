@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick the Buddy: Forever | 331673 | [331673-kick-the-buddy-forever.json](./331673-kick-the-buddy-forever.json) |
 | Kick the Buddy: Remastered | 212447 | [212447-kick-the-buddy-remastered.json](./212447-kick-the-buddy-remastered.json) |
 | Kick the Puppet | 112486 | [112486-kick-the-puppet.json](./112486-kick-the-puppet.json) |
+| Kick the Sumo-Smash the Buddy | 106084 | [106084-kick-the-sumo-smash-the-buddy.json](./106084-kick-the-sumo-smash-the-buddy.json) |
 | Kick Them All | 312204 | [312204-kick-them-all.json](./312204-kick-them-all.json) |
 | Kick Them Out!!! | 103194 | [103194-kick-them-out.json](./103194-kick-them-out.json) |
 | Kick Your Astronaut | 187233 | [187233-kick-your-astronaut.json](./187233-kick-your-astronaut.json) |
@@ -1234,6 +1235,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinduo 2: Frostbite | 263043 | [263043-kinduo-2-frostbite.json](./263043-kinduo-2-frostbite.json) |
 | Kinect Fun Labs | 22939 | [22939-kinect-fun-labs.json](./22939-kinect-fun-labs.json) |
 | Kinect Fun Labs: Air Band | 329731 | [329731-kinect-fun-labs-air-band.json](./329731-kinect-fun-labs-air-band.json) |
+| Kinect Fun Labs: Avatar Kinect | 106088 | [106088-kinect-fun-labs-avatar-kinect.json](./106088-kinect-fun-labs-avatar-kinect.json) |
+| Kinect Fun Labs: Battle Stuff | 106089 | [106089-kinect-fun-labs-battle-stuff.json](./106089-kinect-fun-labs-battle-stuff.json) |
+| Kinect Fun Labs: Bobble Head | 106087 | [106087-kinect-fun-labs-bobble-head.json](./106087-kinect-fun-labs-bobble-head.json) |
+| Kinect Fun Labs: Build A Buddy | 106090 | [106090-kinect-fun-labs-build-a-buddy.json](./106090-kinect-fun-labs-build-a-buddy.json) |
 | Kinect Fun Labs: I Am Super! | 329734 | [329734-kinect-fun-labs-i-am-super.json](./329734-kinect-fun-labs-i-am-super.json) |
 | Kinect Fun Labs: Junk Fu | 179598 | [179598-kinect-fun-labs-junk-fu.json](./179598-kinect-fun-labs-junk-fu.json) |
 | Kinect Fun Labs: Kinect Googly Eyes | 329729 | [329729-kinect-fun-labs-kinect-googly-eyes.json](./329729-kinect-fun-labs-kinect-googly-eyes.json) |
@@ -1244,6 +1249,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinect PlayFit | 64925 | [64925-kinect-playfit.json](./64925-kinect-playfit.json) |
 | Kinect Sesame Street TV | 20235 | [20235-kinect-sesame-street-tv.json](./20235-kinect-sesame-street-tv.json) |
 | Kinect Sports | 17478 | [17478-kinect-sports.json](./17478-kinect-sports.json) |
+| Kinect Sports Gems: 10 Frame Bowling | 106094 | [106094-kinect-sports-gems-10-frame-bowling.json](./106094-kinect-sports-gems-10-frame-bowling.json) |
+| Kinect Sports Gems: 3 Point Contest | 106092 | [106092-kinect-sports-gems-3-point-contest.json](./106092-kinect-sports-gems-3-point-contest.json) |
+| Kinect Sports Gems: Boxing Fight | 106093 | [106093-kinect-sports-gems-boxing-fight.json](./106093-kinect-sports-gems-boxing-fight.json) |
 | Kinect Sports: Season Two - Midnight Mountain | 20658 | [20658-kinect-sports-season-two-midnight-mountain.json](./20658-kinect-sports-season-two-midnight-mountain.json) |
 | Kinect Star Wars | 8560 | [8560-kinect-star-wars.json](./8560-kinect-star-wars.json) |
 | Kinectimals | 2755 | [2755-kinectimals.json](./2755-kinectimals.json) |
@@ -1483,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms of Lost Valleys | 311126 | [311126-kingdoms-of-lost-valleys.json](./311126-kingdoms-of-lost-valleys.json) |
 | Kingdoms of Marazia: Classic | 107199 | [107199-kingdoms-of-marazia-classic.json](./107199-kingdoms-of-marazia-classic.json) |
 | Kingdoms of Merge & Magic | 231926 | [231926-kingdoms-of-merge-and-magic.json](./231926-kingdoms-of-merge-and-magic.json) |
+| Kingdoms of the Dump | 106105 | [106105-kingdoms-of-the-dump.json](./106105-kingdoms-of-the-dump.json) |
 | Kingdoms: Merge & Build | 291982 | [291982-kingdoms-merge-and-build.json](./291982-kingdoms-merge-and-build.json) |
 | Kingdoms: The Crown | 100212 | [100212-kingdoms-the-crown.json](./100212-kingdoms-the-crown.json) |
 | KingdomScape | 329104 | [329104-kingdomscape.json](./329104-kingdomscape.json) |
