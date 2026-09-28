@@ -3417,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gratuitous Space Battles: The Swarm | 164343 | [164343-gratuitous-space-battles-the-swarm.json](./164343-gratuitous-space-battles-the-swarm.json) |
 | Gratuitous Space Battles: The Tribe | 164338 | [164338-gratuitous-space-battles-the-tribe.json](./164338-gratuitous-space-battles-the-tribe.json) |
 | Gratuitous Tank Battles | 16334 | [16334-gratuitous-tank-battles.json](./16334-gratuitous-tank-battles.json) |
+| Gratuitous Zombie Cannon | 113184 | [113184-gratuitous-zombie-cannon.json](./113184-gratuitous-zombie-cannon.json) |
 | Gräuel | 276837 | [276837-grauel.json](./276837-grauel.json) |
 | Grauen no Torikago: Kapitel 2 - Torikago | 318050 | [318050-grauen-no-torikago-kapitel-2-torikago.json](./318050-grauen-no-torikago-kapitel-2-torikago.json) |
 | Grauen no Torikago: Kapitel 3 - Kansei | 318051 | [318051-grauen-no-torikago-kapitel-3-kansei.json](./318051-grauen-no-torikago-kapitel-3-kansei.json) |
@@ -3659,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed School Test | 231606 | [231606-greed-school-test.json](./231606-greed-school-test.json) |
 | Greed's Grub | 349365 | [349365-greeds-grub.json](./349365-greeds-grub.json) |
 | Greedventory | 204507 | [204507-greedventory.json](./204507-greedventory.json) |
+| Greedy Crush | 113171 | [113171-greedy-crush.json](./113171-greedy-crush.json) |
 | Greedy Dungeon | 153395 | [153395-greedy-dungeon.json](./153395-greedy-dungeon.json) |
 | Greedy Dungeons | 86521 | [86521-greedy-dungeons.json](./86521-greedy-dungeons.json) |
 | Greedy Frog | 55120 | [55120-greedy-frog.json](./55120-greedy-frog.json) |
