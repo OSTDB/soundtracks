@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Moto Bike Simulator | 283221 | [283221-ultimate-moto-bike-simulator.json](./283221-ultimate-moto-bike-simulator.json) |
 | Ultimate MotoCross 4 | 227948 | [227948-ultimate-motocross-4.json](./227948-ultimate-motocross-4.json) |
 | Ultimate Motorcycle Simulator | 100826 | [100826-ultimate-motorcycle-simulator.json](./100826-ultimate-motorcycle-simulator.json) |
+| Ultimate Mutant Warrior 3D | 104267 | [104267-ultimate-mutant-warrior-3d.json](./104267-ultimate-mutant-warrior-3d.json) |
 | Ultimate Neural Network | 168657 | [168657-ultimate-neural-network.json](./168657-ultimate-neural-network.json) |
 | Ultimate Ninja: Ninja King | 99410 | [99410-ultimate-ninja-ninja-king.json](./99410-ultimate-ninja-ninja-king.json) |
 | Ultimate Ocean Simulator | 86890 | [86890-ultimate-ocean-simulator.json](./86890-ultimate-ocean-simulator.json) |
