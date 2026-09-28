@@ -1433,6 +1433,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ura Jinsei Enjoi! Tamagotchi Plus | 229953 | [229953-ura-jinsei-enjoi-tamagotchi-plus.json](./229953-ura-jinsei-enjoi-tamagotchi-plus.json) |
 | Ura no Ura | 76596 | [76596-ura-no-ura.json](./76596-ura-no-ura.json) |
 | Uraankhians Dygyn: The Beginning | 314904 | [314904-uraankhians-dygyn-the-beginning.json](./314904-uraankhians-dygyn-the-beginning.json) |
+| URagnarok | 98042 | [98042-uragnarok.json](./98042-uragnarok.json) |
+| URagnarok 2 | 98022 | [98022-uragnarok-2.json](./98022-uragnarok-2.json) |
 | Urania | 313835 | [313835-urania.json](./313835-urania.json) |
 | Urania's Cloak | 144200 | [144200-uranias-cloak.json](./144200-uranias-cloak.json) |
 | Urânio 235 | 256281 | [256281-uranio-235.json](./256281-uranio-235.json) |
