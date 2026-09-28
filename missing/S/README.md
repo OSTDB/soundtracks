@@ -1575,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scream and Steel: Horror Story Shooter | 284493 | [284493-scream-and-steel-horror-story-shooter.json](./284493-scream-and-steel-horror-story-shooter.json) |
 | Scream Collector | 74450 | [74450-scream-collector.json](./74450-scream-collector.json) |
 | Scream Hero | 194000 | [194000-scream-hero.json](./194000-scream-hero.json) |
+| Scream of the Viking 2 | 113871 | [113871-scream-of-the-viking-2.json](./113871-scream-of-the-viking-2.json) |
 | Scream of the Viking 3 | 117074 | [117074-scream-of-the-viking-3.json](./117074-scream-of-the-viking-3.json) |
 | Scream or Die | 277435 | [277435-scream-or-die.json](./277435-scream-or-die.json) |
 | Scream or Die: Virtual Circus | 280305 | [280305-scream-or-die-virtual-circus.json](./280305-scream-or-die-virtual-circus.json) |
@@ -3750,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiosai no Serenade: Episode 2 | 396562 | [396562-shiosai-no-serenade-episode-2.json](./396562-shiosai-no-serenade-episode-2.json) |
 | Shiosai no Serenade: Episode 3 | 396564 | [396564-shiosai-no-serenade-episode-3.json](./396564-shiosai-no-serenade-episode-3.json) |
 | Ship Adventure | 179185 | [179185-ship-adventure.json](./179185-ship-adventure.json) |
+| Ship Fight | 113864 | [113864-ship-fight.json](./113864-ship-fight.json) |
 | Ship Fight! | 372129 | [372129-ship-fight.json](./372129-ship-fight.json) |
 | Ship Graveyard Simulator 2: Warships DLC | 277940 | [277940-ship-graveyard-simulator-2-warships-dlc.json](./277940-ship-graveyard-simulator-2-warships-dlc.json) |
 | Ship Graveyard Simulator 3 | 397763 | [397763-ship-graveyard-simulator-3.json](./397763-ship-graveyard-simulator-3.json) |
@@ -5195,6 +5197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Bunny | 193713 | [193713-ski-bunny.json](./193713-ski-bunny.json) |
 | Ski Crazed | 138595 | [138595-ski-crazed.json](./138595-ski-crazed.json) |
 | Ski Doom VR | 167579 | [167579-ski-doom-vr.json](./167579-ski-doom-vr.json) |
+| Ski Drive: Biathlon | 113855 | [113855-ski-drive-biathlon.json](./113855-ski-drive-biathlon.json) |
 | Ski Girl Superstar | 88799 | [88799-ski-girl-superstar.json](./88799-ski-girl-superstar.json) |
 | Ski Hunt | 40796 | [40796-ski-hunt.json](./40796-ski-hunt.json) |
 | Ski Jump International v2 | 342080 | [342080-ski-jump-international-v2.json](./342080-ski-jump-international-v2.json) |
@@ -6366,6 +6369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnakeByte | 193470 | [193470-snakebyte.json](./193470-snakebyte.json) |
 | Snakeez | 69021 | [69021-snakeez.json](./69021-snakeez.json) |
 | Snakehaus | 274496 | [274496-snakehaus.json](./274496-snakehaus.json) |
+| Snakelike | 113874 | [113874-snakelike.json](./113874-snakelike.json) |
 | SnakeLogic | 104674 | [104674-snakelogic.json](./104674-snakelogic.json) |
 | Snakenoid | 84875 | [84875-snakenoid.json](./84875-snakenoid.json) |
 | Snakenoid Deluxe | 84874 | [84874-snakenoid-deluxe.json](./84874-snakenoid-deluxe.json) |
@@ -7256,6 +7260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Son of the Mask | 265638 | [265638-son-of-the-mask.json](./265638-son-of-the-mask.json) |
 | Sonafleki | 393153 | [393153-sonafleki.json](./393153-sonafleki.json) |
 | Sonak | 356648 | [356648-sonak.json](./356648-sonak.json) |
+| Sonar Beat | 113841 | [113841-sonar-beat.json](./113841-sonar-beat.json) |
 | Sonata Theory | 155028 | [155028-sonata-theory.json](./155028-sonata-theory.json) |
 | Sonder: Lights of Little Tokyo | 219589 | [219589-sonder-lights-of-little-tokyo.json](./219589-sonder-lights-of-little-tokyo.json) |
 | Song Animals | 116101 | [116101-song-animals.json](./116101-song-animals.json) |
@@ -8692,6 +8697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceflight Simulator | 188384 | [188384-spaceflight-simulator.json](./188384-spaceflight-simulator.json) |
 | Spaceforce Constellations | 16846 | [16846-spaceforce-constellations.json](./16846-spaceforce-constellations.json) |
 | Spaceforce: Captains | 20783 | [20783-spaceforce-captains.json](./20783-spaceforce-captains.json) |
+| SpaceFrog VR | 113844 | [113844-spacefrog-vr.json](./113844-spacefrog-vr.json) |
 | SpaceFront | 275713 | [275713-spacefront.json](./275713-spacefront.json) |
 | Spacegirl | 147367 | [147367-spacegirl.json](./147367-spacegirl.json) |
 | Spacegirl 2038 | 159836 | [159836-spacegirl-2038.json](./159836-spacegirl-2038.json) |
@@ -15096,6 +15102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swiss Alps Jigsaw Puzzles | 158529 | [158529-swiss-alps-jigsaw-puzzles.json](./158529-swiss-alps-jigsaw-puzzles.json) |
 | Swiss Family Robinson | 7732 | [7732-swiss-family-robinson.json](./7732-swiss-family-robinson.json) |
 | Switch 'N' Shoot | 32171 | [32171-switch-n-shoot.json](./32171-switch-n-shoot.json) |
+| Switch & Ditch | 113872 | [113872-switch-and-ditch.json](./113872-switch-and-ditch.json) |
 | Switch Blasters | 402902 | [402902-switch-blasters.json](./402902-switch-blasters.json) |
 | Switch Colors+ | 187984 | [187984-switch-colors.json](./187984-switch-colors.json) |
 | Switch Dash Game | 262069 | [262069-switch-dash-game.json](./262069-switch-dash-game.json) |
