@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Fury: Extreme Racing | 174848 | [174848-rally-fury-extreme-racing.json](./174848-rally-fury-extreme-racing.json) |
 | Rally Fusion: Race of Champions | 5998 | [5998-rally-fusion-race-of-champions.json](./5998-rally-fusion-race-of-champions.json) |
 | Rally King | 408922 | [408922-rally-king.json](./408922-rally-king.json) |
+| Rally Legends | 104787 | [104787-rally-legends.json](./104787-rally-legends.json) |
 | Rally Master Pro | 91897 | [91897-rally-master-pro.json](./91897-rally-master-pro.json) |
 | Rally Mechanic Simulator: Chaya Alexis | 359576 | [359576-rally-mechanic-simulator-chaya-alexis.json](./359576-rally-mechanic-simulator-chaya-alexis.json) |
 | Rally Mechanic Simulator: Chaya Falcon Mk1 | 359577 | [359577-rally-mechanic-simulator-chaya-falcon-mk1.json](./359577-rally-mechanic-simulator-chaya-falcon-mk1.json) |
