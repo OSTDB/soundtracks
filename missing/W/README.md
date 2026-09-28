@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakugumi: Monochrome Puzzle | 85479 | [85479-wakugumi-monochrome-puzzle.json](./85479-wakugumi-monochrome-puzzle.json) |
 | Wakusei | 301428 | [301428-wakusei.json](./301428-wakusei.json) |
 | Wakusei Koukitai Little Cats | 71029 | [71029-wakusei-koukitai-little-cats.json](./71029-wakusei-koukitai-little-cats.json) |
+| Walaber's Trampoline | 69936 | [69936-walabers-trampoline.json](./69936-walabers-trampoline.json) |
 | Walden Horde | 159746 | [159746-walden-horde.json](./159746-walden-horde.json) |
 | Waldo: In the Heart of the City | 381285 | [381285-waldo-in-the-heart-of-the-city.json](./381285-waldo-in-the-heart-of-the-city.json) |
 | Wales Interactive Publisher Bundle | 301564 | [301564-wales-interactive-publisher-bundle.json](./301564-wales-interactive-publisher-bundle.json) |
@@ -1732,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When a Man Lose His Job | 147874 | [147874-when-a-man-lose-his-job.json](./147874-when-a-man-lose-his-job.json) |
 | When A Mimosa Blooms | 98021 | [98021-when-a-mimosa-blooms.json](./98021-when-a-mimosa-blooms.json) |
 | When Bricks Fly | 224534 | [224534-when-bricks-fly.json](./224534-when-bricks-fly.json) |
+| When Clones Attack! | 69945 | [69945-when-clones-attack.json](./69945-when-clones-attack.json) |
 | When Day Breaks | 216346 | [216346-when-day-breaks.json](./216346-when-day-breaks.json) |
 | When Dreams Wake | 398342 | [398342-when-dreams-wake.json](./398342-when-dreams-wake.json) |
 | When Eyes Close | 360745 | [360745-when-eyes-close.json](./360745-when-eyes-close.json) |
@@ -2384,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willy Crash Mini | 225627 | [225627-willy-crash-mini.json](./225627-willy-crash-mini.json) |
 | Willy Jetman: Astromonkey's Revenge - Sweeper's Edition | 139831 | [139831-willy-jetman-astromonkeys-revenge-sweepers-edition.json](./139831-willy-jetman-astromonkeys-revenge-sweepers-edition.json) |
 | Willy Morgan and the Curse of Bone Town | 133429 | [133429-willy-morgan-and-the-curse-of-bone-town.json](./133429-willy-morgan-and-the-curse-of-bone-town.json) |
+| Willy the Worm | 69897 | [69897-willy-the-worm.json](./69897-willy-the-worm.json) |
 | Willy's Adventure | 375458 | [375458-willys-adventure.json](./375458-willys-adventure.json) |
 | Willy's Wonderland: The Game | 287697 | [287697-willys-wonderland-the-game.json](./287697-willys-wonderland-the-game.json) |
 | Wilmot Works It Out | 314431 | [314431-wilmot-works-it-out.json](./314431-wilmot-works-it-out.json) |
@@ -3158,6 +3161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodventure: Mahjong Connect | 238980 | [238980-woodventure-mahjong-connect.json](./238980-woodventure-mahjong-connect.json) |
 | Woodville Chronicles | 415962 | [415962-woodville-chronicles.json](./415962-woodville-chronicles.json) |
 | Woodwork Simulator | 120932 | [120932-woodwork-simulator.json](./120932-woodwork-simulator.json) |
+| Woody Pop | 69917 | [69917-woody-pop.json](./69917-woody-pop.json) |
 | Woody Woodpecker and Friends Volume 2 | 268527 | [268527-woody-woodpecker-and-friends-volume-2.json](./268527-woody-woodpecker-and-friends-volume-2.json) |
 | Woody Woodpecker in Crazy Castle 5 | 8012 | [8012-woody-woodpecker-in-crazy-castle-5.json](./8012-woody-woodpecker-in-crazy-castle-5.json) |
 | Woody Woodpecker in Waterfools | 135894 | [135894-woody-woodpecker-in-waterfools.json](./135894-woody-woodpecker-in-waterfools.json) |
@@ -3891,6 +3895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath of the Arcane Realms | 387377 | [387377-wrath-of-the-arcane-realms.json](./387377-wrath-of-the-arcane-realms.json) |
 | Wrath of the Demon | 12832 | [12832-wrath-of-the-demon.json](./12832-wrath-of-the-demon.json) |
 | Wrath of the Goliaths: Dinosaurs | 108634 | [108634-wrath-of-the-goliaths-dinosaurs.json](./108634-wrath-of-the-goliaths-dinosaurs.json) |
+| Wrath of the Sea King | 69905 | [69905-wrath-of-the-sea-king.json](./69905-wrath-of-the-sea-king.json) |
 | Wrath: Aeon of Ruin VR - Brutal Edition | 313772 | [313772-wrath-aeon-of-ruin-vr-brutal-edition.json](./313772-wrath-aeon-of-ruin-vr-brutal-edition.json) |
 | WRC 10: Deluxe Edition | 169202 | [169202-wrc-10-deluxe-edition.json](./169202-wrc-10-deluxe-edition.json) |
 | WRC 2: FIA World Rally Championship | 9393 | [9393-wrc-2-fia-world-rally-championship.json](./9393-wrc-2-fia-world-rally-championship.json) |
