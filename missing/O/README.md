@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octorabbit | 181319 | [181319-octorabbit.json](./181319-octorabbit.json) |
 | Octov | 25754 | [25754-octov.json](./25754-octov.json) |
 | Oculant | 275717 | [275717-oculant.json](./275717-oculant.json) |
+| Oculto | 111231 | [111231-oculto.json](./111231-oculto.json) |
 | Oculus Arcade | 213949 | [213949-oculus-arcade.json](./213949-oculus-arcade.json) |
 | Oculus Malus | 269664 | [269664-oculus-malus.json](./269664-oculus-malus.json) |
 | Oculux | 157126 | [157126-oculux.json](./157126-oculux.json) |
