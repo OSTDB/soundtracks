@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Pro Soccer Club wo Tsukurou! 7: Euro + | 65012 | [65012-j-league-pro-soccer-club-wo-tsukurou-7-euro.json](./65012-j-league-pro-soccer-club-wo-tsukurou-7-euro.json) |
 | J.League Pro Soccer Club wo Tsukurou! 8: Euro + | 62765 | [62765-j-league-pro-soccer-club-wo-tsukurou-8-euro.json](./62765-j-league-pro-soccer-club-wo-tsukurou-8-euro.json) |
 | J.League Soccer Dream Eleven | 45274 | [45274-j-league-soccer-dream-eleven.json](./45274-j-league-soccer-dream-eleven.json) |
+| J.League Soccer Ole! Supporters | 64484 | [64484-j-league-soccer-ole-supporters.json](./64484-j-league-soccer-ole-supporters.json) |
 | J.League Soccer Prime Goal 3 | 220831 | [220831-j-league-soccer-prime-goal-3.json](./220831-j-league-soccer-prime-goal-3.json) |
 | J.League Soccer: Prime Goal | 38330 | [38330-j-league-soccer-prime-goal.json](./38330-j-league-soccer-prime-goal.json) |
 | J.League Soccer: Prime Goal 2 | 38329 | [38329-j-league-soccer-prime-goal-2.json](./38329-j-league-soccer-prime-goal-2.json) |
@@ -471,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeopardy! | 220095 | [220095-jeopardy.json](./220095-jeopardy.json) |
 | Jeopardy! | 28472 | [28472-jeopardy.json](./28472-jeopardy.json) |
 | Jeopardy! | 297599 | [297599-jeopardy.json](./297599-jeopardy.json) |
+| Jeopardy! | 64476 | [64476-jeopardy.json](./64476-jeopardy.json) |
 | Jeopardy! | 78592 | [78592-jeopardy.json](./78592-jeopardy.json) |
 | Jeopardy! 2nd Edition | 43911 | [43911-jeopardy-2nd-edition.json](./43911-jeopardy-2nd-edition.json) |
 | Jeopardy! PlayShow | 140551 | [140551-jeopardy-playshow.json](./140551-jeopardy-playshow.json) |
