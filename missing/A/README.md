@@ -3141,6 +3141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amateur Surgeon 2 | 182501 | [182501-amateur-surgeon-2.json](./182501-amateur-surgeon-2.json) |
 | Amateur Surgeon 4: Re-Generations | 57116 | [57116-amateur-surgeon-4-re-generations.json](./57116-amateur-surgeon-4-re-generations.json) |
 | Amateur Surgeon Hospital | 304207 | [304207-amateur-surgeon-hospital.json](./304207-amateur-surgeon-hospital.json) |
+| Amatsu Misora ni! Kumo no Hatate ni | 62263 | [62263-amatsu-misora-ni-kumo-no-hatate-ni.json](./62263-amatsu-misora-ni-kumo-no-hatate-ni.json) |
 | Amatsu Sora ni Saku | 309672 | [309672-amatsu-sora-ni-saku.json](./309672-amatsu-sora-ni-saku.json) |
 | Amaya's Lost Soul | 213982 | [213982-amayas-lost-soul.json](./213982-amayas-lost-soul.json) |
 | Amayakashi na Kanojo: Boseiteki na Ayakashi Musume to Ama Ero Seikatsu Hajimemasu | 194578 | [194578-amayakashi-na-kanojo-boseiteki-na-ayakashi-musume-to-ama-ero-seikatsu-hajimemasu.json](./194578-amayakashi-na-kanojo-boseiteki-na-ayakashi-musume-to-ama-ero-seikatsu-hajimemasu.json) |
@@ -3425,6 +3426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amnesia: A Coward's Debt | 352198 | [352198-amnesia-a-cowards-debt.json](./352198-amnesia-a-cowards-debt.json) |
 | Amnesia: Day One Edition Dual Pack | 196820 | [196820-amnesia-day-one-edition-dual-pack.json](./196820-amnesia-day-one-edition-dual-pack.json) |
 | Amnios | 14254 | [14254-amnios.json](./14254-amnios.json) |
+| Amnork | 62239 | [62239-amnork.json](./62239-amnork.json) |
 | Amo | 293087 | [293087-amo.json](./293087-amo.json) |
 | Amoeboid | 233213 | [233213-amoeboid.json](./233213-amoeboid.json) |
 | Amogus TD 2: Defense of the Sus | 254757 | [254757-amogus-td-2-defense-of-the-sus.json](./254757-amogus-td-2-defense-of-the-sus.json) |
@@ -3475,6 +3477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amsterdam Taxi Madness | 73746 | [73746-amsterdam-taxi-madness.json](./73746-amsterdam-taxi-madness.json) |
 | Amstrad Eterno X | 376589 | [376589-amstrad-eterno-x.json](./376589-amstrad-eterno-x.json) |
 | Amstrad Shuffle Card Games | 60234 | [60234-amstrad-shuffle-card-games.json](./60234-amstrad-shuffle-card-games.json) |
+| Amtrack | 62249 | [62249-amtrack.json](./62249-amtrack.json) |
 | Amulet | 291515 | [291515-amulet.json](./291515-amulet.json) |
 | Amulet of Lovar | 245957 | [245957-amulet-of-lovar.json](./245957-amulet-of-lovar.json) |
 | Amulet of Time: Shadow of La Rochelle | 169858 | [169858-amulet-of-time-shadow-of-la-rochelle.json](./169858-amulet-of-time-shadow-of-la-rochelle.json) |
@@ -5202,6 +5205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Waters | 152824 | [152824-arcane-waters.json](./152824-arcane-waters.json) |
 | Arcane Worlds | 16923 | [16923-arcane-worlds.json](./16923-arcane-worlds.json) |
 | Arcane: League of Legends - Ready to unlock the world of Arcane? | 324100 | [324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json](./324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json) |
+| Arcane: The Armor Collector | 62270 | [62270-arcane-the-armor-collector.json](./62270-arcane-the-armor-collector.json) |
 | Arcane's Watch | 264155 | [264155-arcanes-watch.json](./264155-arcanes-watch.json) |
 | Arcaneering: Beyond Automation | 356681 | [356681-arcaneering-beyond-automation.json](./356681-arcaneering-beyond-automation.json) |
 | Arcania: Fall of Setarrif | 8331 | [8331-arcania-fall-of-setarrif.json](./8331-arcania-fall-of-setarrif.json) |
@@ -5209,6 +5213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcanight | 25760 | [25760-arcanight.json](./25760-arcanight.json) |
 | Arcanion: Tale of Magi | 149026 | [149026-arcanion-tale-of-magi.json](./149026-arcanion-tale-of-magi.json) |
 | Arcanist Revival | 110181 | [110181-arcanist-revival.json](./110181-arcanist-revival.json) |
+| Arcanists | 62268 | [62268-arcanists.json](./62268-arcanists.json) |
 | Arcanists 2 | 245802 | [245802-arcanists-2.json](./245802-arcanists-2.json) |
 | Arcanoid Breakout | 147468 | [147468-arcanoid-breakout.json](./147468-arcanoid-breakout.json) |
 | Arcanora | 272789 | [272789-arcanora.json](./272789-arcanora.json) |
@@ -6984,6 +6989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Quad Frenzy | 69810 | [69810-atv-quad-frenzy.json](./69810-atv-quad-frenzy.json) |
 | ATV Quad Power Racing | 248615 | [248615-atv-quad-power-racing.json](./248615-atv-quad-power-racing.json) |
 | ATV Quad Power Racing | 4142 | [4142-atv-quad-power-racing.json](./4142-atv-quad-power-racing.json) |
+| ATV Racers | 62261 | [62261-atv-racers.json](./62261-atv-racers.json) |
 | ATV Thunder Ridge Riders | 49369 | [49369-atv-thunder-ridge-riders.json](./49369-atv-thunder-ridge-riders.json) |
 | Atypian | 369046 | [369046-atypian.json](./369046-atypian.json) |
 | Au Sable | 125855 | [125855-au-sable.json](./125855-au-sable.json) |
