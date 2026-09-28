@@ -2237,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Pottery: Suzhou Garden | 199600 | [199600-master-of-pottery-suzhou-garden.json](./199600-master-of-pottery-suzhou-garden.json) |
 | Master of Puppets | 235690 | [235690-master-of-puppets.json](./235690-master-of-puppets.json) |
 | Master of Rogues - The Seven Artifacts | 107847 | [107847-master-of-rogues-the-seven-artifacts.json](./107847-master-of-rogues-the-seven-artifacts.json) |
+| Master of Secrets: Dark Europe | 113860 | [113860-master-of-secrets-dark-europe.json](./113860-master-of-secrets-dark-europe.json) |
 | Master of Shotgun Camper | 311625 | [311625-master-of-shotgun-camper.json](./311625-master-of-shotgun-camper.json) |
 | Master of Ski | 226728 | [226728-master-of-ski.json](./226728-master-of-ski.json) |
 | Master of Skills | 193862 | [193862-master-of-skills.json](./193862-master-of-skills.json) |
@@ -6012,6 +6013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Shin Gihren No Yabou | 56746 | [56746-mobile-suit-gundam-shin-gihren-no-yabou.json](./56746-mobile-suit-gundam-shin-gihren-no-yabou.json) |
 | Mobile Suit Gundam: The One Year War | 43240 | [43240-mobile-suit-gundam-the-one-year-war.json](./43240-mobile-suit-gundam-the-one-year-war.json) |
 | Mobile Tomodachi | 143671 | [143671-mobile-tomodachi.json](./143671-mobile-tomodachi.json) |
+| Mobile Wars X | 113875 | [113875-mobile-wars-x.json](./113875-mobile-wars-x.json) |
 | Mobile Wars X: Ultimate Simulation Battle | 252197 | [252197-mobile-wars-x-ultimate-simulation-battle.json](./252197-mobile-wars-x-ultimate-simulation-battle.json) |
 | Mobiles Tycoon | 304584 | [304584-mobiles-tycoon.json](./304584-mobiles-tycoon.json) |
 | Mobiloid | 64104 | [64104-mobiloid.json](./64104-mobiloid.json) |
@@ -6091,6 +6093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modular | 348442 | [348442-modular.json](./348442-modular.json) |
 | Module | 372651 | [372651-module.json](./372651-module.json) |
 | Moduwar | 109753 | [109753-moduwar.json](./109753-moduwar.json) |
+| Moe | 113853 | [113853-moe.json](./113853-moe.json) |
 | MOE Emo Girls Multiplayer | 300373 | [300373-moe-emo-girls-multiplayer.json](./300373-moe-emo-girls-multiplayer.json) |
 | Moe Hypnotist: Share Dreams With You | 113658 | [113658-moe-hypnotist-share-dreams-with-you.json](./113658-moe-hypnotist-share-dreams-with-you.json) |
 | Moe Jigsaw | 90253 | [90253-moe-jigsaw.json](./90253-moe-jigsaw.json) |
