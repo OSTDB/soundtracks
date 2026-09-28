@@ -3791,6 +3791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Riot 4WD | 39946 | [39946-road-riot-4wd.json](./39946-road-riot-4wd.json) |
 | Road Riot Combat Racing | 344930 | [344930-road-riot-combat-racing.json](./344930-road-riot-combat-racing.json) |
 | Road Runner | 282628 | [282628-road-runner.json](./282628-road-runner.json) |
+| Road Runner and Wile E. Coyote | 71438 | [71438-road-runner-and-wile-e-coyote.json](./71438-road-runner-and-wile-e-coyote.json) |
 | Road Spirits | 41998 | [41998-road-spirits.json](./41998-road-spirits.json) |
 | Road Stones | 223409 | [223409-road-stones.json](./223409-road-stones.json) |
 | Road to Adventure! | 143747 | [143747-road-to-adventure.json](./143747-road-to-adventure.json) |
@@ -4381,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rodent Rampage | 393127 | [393127-rodent-rampage.json](./393127-rodent-rampage.json) |
 | Rodent Retribution | 275707 | [275707-rodent-retribution.json](./275707-rodent-retribution.json) |
 | Rodent Rumble | 272943 | [272943-rodent-rumble.json](./272943-rodent-rumble.json) |
+| Rodeo | 71559 | [71559-rodeo.json](./71559-rodeo.json) |
 | Rodeo Clown | 319554 | [319554-rodeo-clown.json](./319554-rodeo-clown.json) |
 | Rodeo Judge | 57068 | [57068-rodeo-judge.json](./57068-rodeo-judge.json) |
 | Rodgerbints: Romance and Scandal in High Society | 328488 | [328488-rodgerbints-romance-and-scandal-in-high-society.json](./328488-rodgerbints-romance-and-scandal-in-high-society.json) |
