@@ -1666,6 +1666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heist Kitty: Cats Go a Stray | 231485 | [231485-heist-kitty-cats-go-a-stray.json](./231485-heist-kitty-cats-go-a-stray.json) |
 | Heist Royale | 344532 | [344532-heist-royale.json](./344532-heist-royale.json) |
 | Heist Simulator | 159135 | [159135-heist-simulator.json](./159135-heist-simulator.json) |
+| Heist: The Score | 61135 | [61135-heist-the-score.json](./61135-heist-the-score.json) |
 | HeistGeist | 211182 | [211182-heistgeist.json](./211182-heistgeist.json) |
 | Heisting | 294241 | [294241-heisting.json](./294241-heisting.json) |
 | Heisting: Arsenal | 294847 | [294847-heisting-arsenal.json](./294847-heisting-arsenal.json) |
@@ -3529,6 +3530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiromichi Oniisan no Oyako Taisou Navi | 220581 | [220581-hiromichi-oniisan-no-oyako-taisou-navi.json](./220581-hiromichi-oniisan-no-oyako-taisou-navi.json) |
 | Hiryu no Ken Collection | 397224 | [397224-hiryu-no-ken-collection.json](./397224-hiryu-no-ken-collection.json) |
 | Hiryuu no Ken II: Dragon no Tsubasa | 64447 | [64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json](./64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json) |
+| Hiryuu no Ken III: Go-nin no Ryuu Senshi | 61161 | [61161-hiryuu-no-ken-iii-go-nin-no-ryuu-senshi.json](./61161-hiryuu-no-ken-iii-go-nin-no-ryuu-senshi.json) |
 | Hiryuu no Ken Special: Fighting Wars | 63936 | [63936-hiryuu-no-ken-special-fighting-wars.json](./63936-hiryuu-no-ken-special-fighting-wars.json) |
 | His Dark Majesty | 362473 | [362473-his-dark-majesty.json](./362473-his-dark-majesty.json) |
 | His Majesty's Ship Impetuous | 55838 | [55838-his-majestys-ship-impetuous.json](./55838-his-majestys-ship-impetuous.json) |
