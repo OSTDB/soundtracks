@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to Hearth | 273358 | [273358-back-to-hearth.json](./273358-back-to-hearth.json) |
 | Back to Home | 220350 | [220350-back-to-home.json](./220350-back-to-home.json) |
 | Back to Home | 258558 | [258558-back-to-home.json](./258558-back-to-home.json) |
+| Back to Nature | 84980 | [84980-back-to-nature.json](./84980-back-to-nature.json) |
 | Back To School | 278739 | [278739-back-to-school.json](./278739-back-to-school.json) |
 | Back To School | 379991 | [379991-back-to-school.json](./379991-back-to-school.json) |
 | Back to the Collis | 244708 | [244708-back-to-the-collis.json](./244708-back-to-the-collis.json) |
@@ -2609,6 +2610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bella | 260939 | [260939-bella.json](./260939-bella.json) |
 | Bella II | 260938 | [260938-bella-ii.json](./260938-bella-ii.json) |
 | Bella Sara | 269570 | [269570-bella-sara.json](./269570-bella-sara.json) |
+| Bella Sara 2: The Magic of Drasilmare | 84987 | [84987-bella-sara-2-the-magic-of-drasilmare.json](./84987-bella-sara-2-the-magic-of-drasilmare.json) |
 | Bella-Anna's Head | 376554 | [376554-bella-annas-head.json](./376554-bella-annas-head.json) |
 | Belladonna | 9246 | [9246-belladonna.json](./9246-belladonna.json) |
 | Belladonna's Flight | 255344 | [255344-belladonnas-flight.json](./255344-belladonnas-flight.json) |
@@ -2815,13 +2817,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Elf | 169783 | [169783-best-elf.json](./169783-best-elf.json) |
 | Best Fiends Forever | 57363 | [57363-best-fiends-forever.json](./57363-best-fiends-forever.json) |
 | Best Friends Forever | 183442 | [183442-best-friends-forever.json](./183442-best-friends-forever.json) |
+| Best Friends: My Horse 3D | 84983 | [84983-best-friends-my-horse-3d.json](./84983-best-friends-my-horse-3d.json) |
 | Best Garden | 135238 | [135238-best-garden.json](./135238-best-garden.json) |
 | Best Hero | 377573 | [377573-best-hero.json](./377573-best-hero.json) |
 | Best in the West | 127023 | [127023-best-in-the-west.json](./127023-best-in-the-west.json) |
 | Best Life Simulator | 110562 | [110562-best-life-simulator.json](./110562-best-life-simulator.json) |
 | Best Mayor | 329070 | [329070-best-mayor.json](./329070-best-mayor.json) |
 | Best of Arcade Games DS | 197897 | [197897-best-of-arcade-games-ds.json](./197897-best-of-arcade-games-ds.json) |
+| Best of Arcade Games: Air Hockey | 84984 | [84984-best-of-arcade-games-air-hockey.json](./84984-best-of-arcade-games-air-hockey.json) |
+| Best of Arcade Games: Brick Breaker | 84986 | [84986-best-of-arcade-games-brick-breaker.json](./84986-best-of-arcade-games-brick-breaker.json) |
+| Best of Arcade Games: Bubble Buster | 84985 | [84985-best-of-arcade-games-bubble-buster.json](./84985-best-of-arcade-games-bubble-buster.json) |
+| Best of Arcade Games: Tetraminos | 84982 | [84982-best-of-arcade-games-tetraminos.json](./84982-best-of-arcade-games-tetraminos.json) |
 | Best of Best | 39583 | [39583-best-of-best.json](./39583-best-of-best.json) |
+| Best of Board Games: Chess | 84981 | [84981-best-of-board-games-chess.json](./84981-best-of-board-games-chess.json) |
 | Best of British: Summer Sports | 246930 | [246930-best-of-british-summer-sports.json](./246930-best-of-british-summer-sports.json) |
 | Best of Klei 2025 | 52630 | [52630-best-of-klei-2025.json](./52630-best-of-klei-2025.json) |
 | Best of Mahjong | 85509 | [85509-best-of-mahjong.json](./85509-best-of-mahjong.json) |
@@ -3365,11 +3373,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Bugglebee Presents: Home Alone | 362426 | [362426-bingo-bugglebee-presents-home-alone.json](./362426-bingo-bugglebee-presents-home-alone.json) |
 | Bingo Caller Machine | 88150 | [88150-bingo-caller-machine.json](./88150-bingo-caller-machine.json) |
 | Bingo Christmas: Holiday Bingo | 88213 | [88213-bingo-christmas-holiday-bingo.json](./88213-bingo-christmas-holiday-bingo.json) |
+| Bingo Collection | 84989 | [84989-bingo-collection.json](./84989-bingo-collection.json) |
 | Bingo de NouTore: BinTore | 222526 | [222526-bingo-de-noutore-bintore.json](./222526-bingo-de-noutore-bintore.json) |
 | Bingo For Kids | 102597 | [102597-bingo-for-kids.json](./102597-bingo-for-kids.json) |
 | Bingo Infinity | 96082 | [96082-bingo-infinity.json](./96082-bingo-infinity.json) |
 | Bingo Luau | 366407 | [366407-bingo-luau.json](./366407-bingo-luau.json) |
 | Bingo Master | 206140 | [206140-bingo-master.json](./206140-bingo-master.json) |
+| Bingo Party Deluxe | 84988 | [84988-bingo-party-deluxe.json](./84988-bingo-party-deluxe.json) |
 | Bingo Pets Mania: Cat Craze | 105525 | [105525-bingo-pets-mania-cat-craze.json](./105525-bingo-pets-mania-cat-craze.json) |
 | Bingo Pinball Gameroom | 260154 | [260154-bingo-pinball-gameroom.json](./260154-bingo-pinball-gameroom.json) |
 | Bingo Pinball Gameroom: Agogo | 265167 | [265167-bingo-pinball-gameroom-agogo.json](./265167-bingo-pinball-gameroom-agogo.json) |
