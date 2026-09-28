@@ -2774,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Guys: Fantasy | 277903 | [277903-golf-guys-fantasy.json](./277903-golf-guys-fantasy.json) |
 | Golf Guys: Party | 277902 | [277902-golf-guys-party.json](./277902-golf-guys-party.json) |
 | Golf Guys: Space | 277901 | [277901-golf-guys-space.json](./277901-golf-guys-space.json) |
+| Golf in Paper | 117115 | [117115-golf-in-paper.json](./117115-golf-in-paper.json) |
 | Golf is Hard | 237963 | [237963-golf-is-hard.json](./237963-golf-is-hard.json) |
 | Golf Island | 58211 | [58211-golf-island.json](./58211-golf-island.json) |
 | Golf Keeper | 130954 | [130954-golf-keeper.json](./130954-golf-keeper.json) |
@@ -4426,6 +4427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Brothers | 31674 | [31674-gun-brothers.json](./31674-gun-brothers.json) |
 | Gun Builder Elite HD | 351036 | [351036-gun-builder-elite-hd.json](./351036-gun-builder-elite-hd.json) |
 | Gun Building 3 | 351042 | [351042-gun-building-3.json](./351042-gun-building-3.json) |
+| Gun Chain | 117135 | [117135-gun-chain.json](./117135-gun-chain.json) |
 | Gun Commando | 52221 | [52221-gun-commando.json](./52221-gun-commando.json) |
 | Gun Crazy | 110093 | [110093-gun-crazy.json](./110093-gun-crazy.json) |
 | Gun Done | 32888 | [32888-gun-done.json](./32888-gun-done.json) |
