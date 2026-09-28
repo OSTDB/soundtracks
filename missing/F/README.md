@@ -2512,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Fighter | 246332 | [246332-fire-fighter.json](./246332-fire-fighter.json) |
 | Fire Fighter | 246395 | [246395-fire-fighter.json](./246395-fire-fighter.json) |
 | Fire Flight | 76661 | [76661-fire-flight.json](./76661-fire-flight.json) |
+| Fire Flinger | 103656 | [103656-fire-flinger.json](./103656-fire-flinger.json) |
 | Fire Flush | 107220 | [107220-fire-flush.json](./107220-fire-flush.json) |
 | Fire Fly | 23855 | [23855-fire-fly.json](./23855-fire-fly.json) |
 | Fire Fly | 277588 | [277588-fire-fly.json](./277588-fire-fly.json) |
@@ -4931,6 +4932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free-Energy | 180576 | [180576-free-energy.json](./180576-free-energy.json) |
 | Free.ksPeak | 285999 | [285999-free-kspeak.json](./285999-free-kspeak.json) |
 | Freebie | 32400 | [32400-freebie.json](./32400-freebie.json) |
+| Freebot : Battle for FreeWeb | 103640 | [103640-freebot-battle-for-freeweb.json](./103640-freebot-battle-for-freeweb.json) |
 | FreeCell | 383490 | [383490-freecell.json](./383490-freecell.json) |
 | FreeCell Solitaire Classic Card Game | 340247 | [340247-freecell-solitaire-classic-card-game.json](./340247-freecell-solitaire-classic-card-game.json) |
 | Freedom | 271995 | [271995-freedom.json](./271995-freedom.json) |
@@ -5421,6 +5423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Memories | 129226 | [129226-frozen-memories.json](./129226-frozen-memories.json) |
 | Frozen Shelter | 247623 | [247623-frozen-shelter.json](./247623-frozen-shelter.json) |
 | Frozen Ship | 330831 | [330831-frozen-ship.json](./330831-frozen-ship.json) |
+| Frozen Soul | 103649 | [103649-frozen-soul.json](./103649-frozen-soul.json) |
 | Frozen State | 16935 | [16935-frozen-state.json](./16935-frozen-state.json) |
 | Frozen Sword: Countermark RE | 216474 | [216474-frozen-sword-countermark-re.json](./216474-frozen-sword-countermark-re.json) |
 | Frozen Synapse | 259532 | [259532-frozen-synapse.json](./259532-frozen-synapse.json) |
