@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.E.E.P.: Battle of Jove | 139485 | [139485-d-e-e-p-battle-of-jove.json](./139485-d-e-e-p-battle-of-jove.json) |
 | D.E.V Bloodline | 213479 | [213479-d-e-v-bloodline.json](./213479-d-e-v-bloodline.json) |
 | D.F.R.: The Light | 75801 | [75801-d-f-r-the-light.json](./75801-d-f-r-the-light.json) |
+| D.F.R.: The Light VR | 100353 | [100353-d-f-r-the-light-vr.json](./100353-d-f-r-the-light-vr.json) |
 | D.H.M. | 224649 | [224649-d-h-m.json](./224649-d-h-m.json) |
 | D.H.Trouble Guy | 117067 | [117067-d-h-trouble-guy.json](./117067-d-h-trouble-guy.json) |
 | D.H.Zombie Zone | 117693 | [117693-d-h-zombie-zone.json](./117693-d-h-zombie-zone.json) |
@@ -3078,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Spire | 356899 | [356899-destiny-spire.json](./356899-destiny-spire.json) |
 | Destiny Star Girlfriend 3 | 305275 | [305275-destiny-star-girlfriend-3.json](./305275-destiny-star-girlfriend-3.json) |
 | Destiny Star Girlfriend 3 | 315039 | [315039-destiny-star-girlfriend-3.json](./315039-destiny-star-girlfriend-3.json) |
+| Destiny Warfare: Sci-Fi FPS | 100366 | [100366-destiny-warfare-sci-fi-fps.json](./100366-destiny-warfare-sci-fi-fps.json) |
 | Destiny: Rising | 319758 | [319758-destiny-rising.json](./319758-destiny-rising.json) |
 | Destiny: The Dark Below | 19920 | [19920-destiny-the-dark-below.json](./19920-destiny-the-dark-below.json) |
 | Destiny's Divide | 160170 | [160170-destinys-divide.json](./160170-destinys-divide.json) |
@@ -3177,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Patch | 257958 | [257958-detective-patch.json](./257958-detective-patch.json) |
 | Detective Puz | 133907 | [133907-detective-puz.json](./133907-detective-puz.json) |
 | Detective R & Prophet J | 402369 | [402369-detective-r-and-prophet-j.json](./402369-detective-r-and-prophet-j.json) |
+| Detective Riddles: Sherlock's Heritage 2 | 100347 | [100347-detective-riddles-sherlocks-heritage-2.json](./100347-detective-riddles-sherlocks-heritage-2.json) |
 | Detective Rosie Morgan: Death at a Dinner Party | 236827 | [236827-detective-rosie-morgan-death-at-a-dinner-party.json](./236827-detective-rosie-morgan-death-at-a-dinner-party.json) |
 | Detective S | 159089 | [159089-detective-s.json](./159089-detective-s.json) |
 | Detective School Club | 304597 | [304597-detective-school-club.json](./304597-detective-school-club.json) |
@@ -3831,6 +3834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensity | 16152 | [16152-dimensity.json](./16152-dimensity.json) |
 | Dimeo's Jukebox | 143033 | [143033-dimeos-jukebox.json](./143033-dimeos-jukebox.json) |
 | Dimhaven: The Lost Source | 253578 | [253578-dimhaven-the-lost-source.json](./253578-dimhaven-the-lost-source.json) |
+| Diminutive | 100309 | [100309-diminutive.json](./100309-diminutive.json) |
 | Dimlight Cafe | 183443 | [183443-dimlight-cafe.json](./183443-dimlight-cafe.json) |
 | Dimlight Dungeon | 276835 | [276835-dimlight-dungeon.json](./276835-dimlight-dungeon.json) |
 | Dimraeth | 249202 | [249202-dimraeth.json](./249202-dimraeth.json) |
@@ -3865,6 +3869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinner Bell | 60005 | [60005-dinner-bell.json](./60005-dinner-bell.json) |
 | Dinner Etiquette VR | 160138 | [160138-dinner-etiquette-vr.json](./160138-dinner-etiquette-vr.json) |
 | Dinner for Pigeons | 168385 | [168385-dinner-for-pigeons.json](./168385-dinner-for-pigeons.json) |
+| Dino | 100355 | [100355-dino.json](./100355-dino.json) |
 | Dino | 267359 | [267359-dino.json](./267359-dino.json) |
 | Dino | 272361 | [272361-dino.json](./272361-dino.json) |
 | Dino & Chill | 339938 | [339938-dino-and-chill.json](./339938-dino-and-chill.json) |
@@ -5806,6 +5811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down With Hell: Crystal | 385863 | [385863-down-with-hell-crystal.json](./385863-down-with-hell-crystal.json) |
 | Downbreak | 95578 | [95578-downbreak.json](./95578-downbreak.json) |
 | Downer Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Yonpaku Itsuka no Tabi | 396931 | [396931-downer-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-yonpaku-itsuka-no-tabi.json](./396931-downer-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-yonpaku-itsuka-no-tabi.json) |
+| Downfall | 100346 | [100346-downfall.json](./100346-downfall.json) |
 | DownFall BattleGrounds | 159099 | [159099-downfall-battlegrounds.json](./159099-downfall-battlegrounds.json) |
 | Downfall Hearts | 258487 | [258487-downfall-hearts.json](./258487-downfall-hearts.json) |
 | Downfall MMORPG | 351043 | [351043-downfall-mmorpg.json](./351043-downfall-mmorpg.json) |
@@ -6543,6 +6549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream 64 | 244999 | [244999-dream-64.json](./244999-dream-64.json) |
 | Dream Addict | 303491 | [303491-dream-addict.json](./303491-dream-addict.json) |
 | Dream Adventure | 264068 | [264068-dream-adventure.json](./264068-dream-adventure.json) |
+| Dream Angling | 100319 | [100319-dream-angling.json](./100319-dream-angling.json) |
 | Dream Animal | 376759 | [376759-dream-animal.json](./376759-dream-animal.json) |
 | Dream Big 2 | 156992 | [156992-dream-big-2.json](./156992-dream-big-2.json) |
 | Dream Boundary | 347715 | [347715-dream-boundary.json](./347715-dream-boundary.json) |
@@ -6829,6 +6836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dribble Skillz | 231635 | [231635-dribble-skillz.json](./231635-dribble-skillz.json) |
 | Drift 'N' Thrift | 311663 | [311663-drift-n-thrift.json](./311663-drift-n-thrift.json) |
 | Drift 19 | 47161 | [47161-drift-19.json](./47161-drift-19.json) |
+| Drift 4000 | 100352 | [100352-drift-4000.json](./100352-drift-4000.json) |
 | Drift Alone | 126631 | [126631-drift-alone.json](./126631-drift-alone.json) |
 | Drift Apocalypse | 296091 | [296091-drift-apocalypse.json](./296091-drift-apocalypse.json) |
 | Drift Boss | 145531 | [145531-drift-boss.json](./145531-drift-boss.json) |
