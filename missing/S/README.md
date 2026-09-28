@@ -5152,6 +5152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skater Girl Ice Skating | 103866 | [103866-skater-girl-ice-skating.json](./103866-skater-girl-ice-skating.json) |
 | Skater XL | 113175 | [113175-skater-xl.json](./113175-skater-xl.json) |
 | Skater XL: Tampa Pro 2022 Gear Pack For Charity | 225094 | [225094-skater-xl-tampa-pro-2022-gear-pack-for-charity.json](./225094-skater-xl-tampa-pro-2022-gear-pack-for-charity.json) |
+| Skater: Let's Skate | 106096 | [106096-skater-lets-skate.json](./106096-skater-lets-skate.json) |
 | SkateRide | 180776 | [180776-skateride.json](./180776-skateride.json) |
 | Skator Gator | 139871 | [139871-skator-gator.json](./139871-skator-gator.json) |
 | Skator Gator 3D | 217239 | [217239-skator-gator-3d.json](./217239-skator-gator-3d.json) |
@@ -11616,6 +11617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Age Meteor Rush | 337981 | [337981-stone-age-meteor-rush.json](./337981-stone-age-meteor-rush.json) |
 | Stone Age Taxi | 146897 | [146897-stone-age-taxi.json](./146897-stone-age-taxi.json) |
 | Stone Age: The Board Game | 89702 | [89702-stone-age-the-board-game.json](./89702-stone-age-the-board-game.json) |
+| Stone Arena | 106098 | [106098-stone-arena.json](./106098-stone-arena.json) |
 | Stone Ball | 39587 | [39587-stone-ball.json](./39587-stone-ball.json) |
 | Stone Breaker | 226757 | [226757-stone-breaker.json](./226757-stone-breaker.json) |
 | Stone Cold Sexy | 182999 | [182999-stone-cold-sexy.json](./182999-stone-cold-sexy.json) |
@@ -14698,6 +14700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Nexus | 266784 | [266784-survival-nexus.json](./266784-survival-nexus.json) |
 | Survival of Primitive | 214021 | [214021-survival-of-primitive.json](./214021-survival-of-primitive.json) |
 | Survival on a Deserted Island | 265134 | [265134-survival-on-a-deserted-island.json](./265134-survival-on-a-deserted-island.json) |
+| Survival on Raft in the Ocean | 106126 | [106126-survival-on-raft-in-the-ocean.json](./106126-survival-on-raft-in-the-ocean.json) |
 | Survival Overgrowth | 106729 | [106729-survival-overgrowth.json](./106729-survival-overgrowth.json) |
 | Survival Prototype X | 302354 | [302354-survival-prototype-x.json](./302354-survival-prototype-x.json) |
 | Survival Raft Simulator: Lost at Sea | 282142 | [282142-survival-raft-simulator-lost-at-sea.json](./282142-survival-raft-simulator-lost-at-sea.json) |
@@ -15034,6 +15037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Farm | 392907 | [392907-sweet-farm.json](./392907-sweet-farm.json) |
 | Sweet Fruitcake | 118974 | [118974-sweet-fruitcake.json](./118974-sweet-fruitcake.json) |
 | Sweet Fruits from the Magical Tree | 185104 | [185104-sweet-fruits-from-the-magical-tree.json](./185104-sweet-fruits-from-the-magical-tree.json) |
+| Sweet Girl Adventure 2 | 106151 | [106151-sweet-girl-adventure-2.json](./106151-sweet-girl-adventure-2.json) |
 | Sweet Girl Gurumelo | 258992 | [258992-sweet-girl-gurumelo.json](./258992-sweet-girl-gurumelo.json) |
 | Sweet Girls Collection | 352294 | [352294-sweet-girls-collection.json](./352294-sweet-girls-collection.json) |
 | Sweet Glassirl | 339462 | [339462-sweet-glassirl.json](./339462-sweet-glassirl.json) |
