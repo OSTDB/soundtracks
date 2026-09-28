@@ -2897,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wo Long: Fallen Dynasty - Battle of Zhongyuan | 251547 | [251547-wo-long-fallen-dynasty-battle-of-zhongyuan.json](./251547-wo-long-fallen-dynasty-battle-of-zhongyuan.json) |
 | Wo Long: Fallen Dynasty - Complete Edition | 285776 | [285776-wo-long-fallen-dynasty-complete-edition.json](./285776-wo-long-fallen-dynasty-complete-edition.json) |
 | Wo Long: Fallen Dynasty - Steelbook Launch Edition | 225774 | [225774-wo-long-fallen-dynasty-steelbook-launch-edition.json](./225774-wo-long-fallen-dynasty-steelbook-launch-edition.json) |
+| Woah Vicky | 96281 | [96281-woah-vicky.json](./96281-woah-vicky.json) |
 | Woahler Coaster! | 373513 | [373513-woahler-coaster.json](./373513-woahler-coaster.json) |
 | Wobbl | 192963 | [192963-wobbl.json](./192963-wobbl.json) |
 | Wobble | 246374 | [246374-wobble.json](./246374-wobble.json) |
