@@ -3931,6 +3931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuppo: Definitive Edition | 124120 | [124120-wuppo-definitive-edition.json](./124120-wuppo-definitive-edition.json) |
 | Wuppo: Super Deluxe Edition | 118903 | [118903-wuppo-super-deluxe-edition.json](./118903-wuppo-super-deluxe-edition.json) |
 | Wurd Torn | 58230 | [58230-wurd-torn.json](./58230-wurd-torn.json) |
+| Wurdle | 105533 | [105533-wurdle.json](./105533-wurdle.json) |
 | Wurdweb | 165047 | [165047-wurdweb.json](./165047-wurdweb.json) |
 | Wurmus | 181389 | [181389-wurmus.json](./181389-wurmus.json) |
 | Wurst and Glory | 415115 | [415115-wurst-and-glory.json](./415115-wurst-and-glory.json) |
