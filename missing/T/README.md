@@ -2894,6 +2894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blight RPG | 112127 | [112127-the-blight-rpg.json](./112127-the-blight-rpg.json) |
 | The Blind Griffin | 57899 | [57899-the-blind-griffin.json](./57899-the-blind-griffin.json) |
 | The Blind of the New World | 150049 | [150049-the-blind-of-the-new-world.json](./150049-the-blind-of-the-new-world.json) |
+| The Blob | 94341 | [94341-the-blob.json](./94341-the-blob.json) |
 | The Blobjob | 261797 | [261797-the-blobjob.json](./261797-the-blobjob.json) |
 | The Blobs Fight | 99196 | [99196-the-blobs-fight.json](./99196-the-blobs-fight.json) |
 | The Block | 204712 | [204712-the-block.json](./204712-the-block.json) |
@@ -4069,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fast Journey | 276309 | [276309-the-fast-journey.json](./276309-the-fast-journey.json) |
 | The Fate of Baldr | 211209 | [211209-the-fate-of-baldr.json](./211209-the-fate-of-baldr.json) |
 | The Fate of the Pharaoh | 100188 | [100188-the-fate-of-the-pharaoh.json](./100188-the-fate-of-the-pharaoh.json) |
+| The Fear | 94356 | [94356-the-fear.json](./94356-the-fear.json) |
 | The Fear 2: Creepy Scream House | 96745 | [96745-the-fear-2-creepy-scream-house.json](./96745-the-fear-2-creepy-scream-house.json) |
 | The Fear Island | 153866 | [153866-the-fear-island.json](./153866-the-fear-island.json) |
 | The Feast | 228727 | [228727-the-feast.json](./228727-the-feast.json) |
@@ -10601,6 +10603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TO: Crossfire | 272321 | [272321-to-crossfire.json](./272321-to-crossfire.json) |
 | To:ri | 317222 | [317222-to-ri.json](./317222-to-ri.json) |
 | TO4: Tactical Operations | 74784 | [74784-to4-tactical-operations.json](./74784-to4-tactical-operations.json) |
+| Toad | 94345 | [94345-toad.json](./94345-toad.json) |
 | Toad in SMB1 | 198470 | [198470-toad-in-smb1.json](./198470-toad-in-smb1.json) |
 | Toad Line | 89701 | [89701-toad-line.json](./89701-toad-line.json) |
 | Toad on Fire | 139482 | [139482-toad-on-fire.json](./139482-toad-on-fire.json) |
@@ -11386,6 +11389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Extreme Wrestling 2016 | 27681 | [27681-total-extreme-wrestling-2016.json](./27681-total-extreme-wrestling-2016.json) |
 | Total Extreme Wrestling 2020 | 134545 | [134545-total-extreme-wrestling-2020.json](./134545-total-extreme-wrestling-2020.json) |
 | Total Football | 46184 | [46184-total-football.json](./46184-total-football.json) |
+| Total Football Management | 94320 | [94320-total-football-management.json](./94320-total-football-management.json) |
 | Total Football Online | 406683 | [406683-total-football-online.json](./406683-total-football-online.json) |
 | Total Incremental Battle | 390134 | [390134-total-incremental-battle.json](./390134-total-incremental-battle.json) |
 | Total Miner | 77339 | [77339-total-miner.json](./77339-total-miner.json) |
@@ -12128,6 +12132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trade Mania 2 | 255047 | [255047-trade-mania-2.json](./255047-trade-mania-2.json) |
 | Trade Post Forest | 258986 | [258986-trade-post-forest.json](./258986-trade-post-forest.json) |
 | Trade Sails | 200718 | [200718-trade-sails.json](./200718-trade-sails.json) |
+| Trader 2 | 94318 | [94318-trader-2.json](./94318-trader-2.json) |
 | Trader Life Simulator | 143666 | [143666-trader-life-simulator.json](./143666-trader-life-simulator.json) |
 | Trader of the Night | 219258 | [219258-trader-of-the-night.json](./219258-trader-of-the-night.json) |
 | Traders Life Simulator | 390101 | [390101-traders-life-simulator.json](./390101-traders-life-simulator.json) |
@@ -13032,6 +13037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traps in Space | 142482 | [142482-traps-in-space.json](./142482-traps-in-space.json) |
 | Traption Bakery | 142436 | [142436-traption-bakery.json](./142436-traption-bakery.json) |
 | Trapventure | 334318 | [334318-trapventure.json](./334318-trapventure.json) |
+| Trash | 94319 | [94319-trash.json](./94319-trash.json) |
 | Trash Bandits | 125430 | [125430-trash-bandits.json](./125430-trash-bandits.json) |
 | Trash Collector Simulator: Survive Edition | 351029 | [351029-trash-collector-simulator-survive-edition.json](./351029-trash-collector-simulator-survive-edition.json) |
 | Trash defense | 114397 | [114397-trash-defense.json](./114397-trash-defense.json) |
@@ -13379,6 +13385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick or Alice | 251191 | [251191-trick-or-alice.json](./251191-trick-or-alice.json) |
 | Trick or Beat | 404236 | [404236-trick-or-beat.json](./404236-trick-or-beat.json) |
 | Trick or Treat | 197386 | [197386-trick-or-treat.json](./197386-trick-or-treat.json) |
+| Trick or Treat | 94358 | [94358-trick-or-treat.json](./94358-trick-or-treat.json) |
 | Trick or Treat Halloween Solitaire | 386125 | [386125-trick-or-treat-halloween-solitaire.json](./386125-trick-or-treat-halloween-solitaire.json) |
 | Trick Solitaire | 337265 | [337265-trick-solitaire.json](./337265-trick-solitaire.json) |
 | Trick the Ninjalinos | 359438 | [359438-trick-the-ninjalinos.json](./359438-trick-the-ninjalinos.json) |
@@ -14267,6 +14274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twenty | 59389 | [59389-twenty.json](./59389-twenty.json) |
 | Twenty One | 395559 | [395559-twenty-one.json](./395559-twenty-one.json) |
 | Twenty Six | 346662 | [346662-twenty-six.json](./346662-twenty-six.json) |
+| Twenty Wargame Classics | 94367 | [94367-twenty-wargame-classics.json](./94367-twenty-wargame-classics.json) |
 | Twerk it Girl! | 238510 | [238510-twerk-it-girl.json](./238510-twerk-it-girl.json) |
 | Twerps | 24935 | [24935-twerps.json](./24935-twerps.json) |
 | Twhols | 377717 | [377717-twhols.json](./377717-twhols.json) |
