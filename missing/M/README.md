@@ -1214,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man in gravity | 156539 | [156539-man-in-gravity.json](./156539-man-in-gravity.json) |
 | Man Made | 312768 | [312768-man-made.json](./312768-man-made.json) |
 | Man O' War: Corsair - Warhammer Naval Battles | 25058 | [25058-man-o-war-corsair-warhammer-naval-battles.json](./25058-man-o-war-corsair-warhammer-naval-battles.json) |
+| Man of Law \| Judge simulator | 81165 | [81165-man-of-law-judge-simulator.json](./81165-man-of-law-judge-simulator.json) |
 | Man of Steel | 63305 | [63305-man-of-steel.json](./63305-man-of-steel.json) |
 | Man of Sterling Quality | 192432 | [192432-man-of-sterling-quality.json](./192432-man-of-sterling-quality.json) |
 | Man of the World | 156074 | [156074-man-of-the-world.json](./156074-man-of-the-world.json) |
@@ -8630,6 +8631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Garage | 162411 | [162411-my-garage.json](./162411-my-garage.json) |
 | My Garbage Cat Wakes Me Up At 3AM Every Day | 128556 | [128556-my-garbage-cat-wakes-me-up-at-3am-every-day.json](./128556-my-garbage-cat-wakes-me-up-at-3am-every-day.json) |
 | My Ghost Pet Is Zhong Kui | 309362 | [309362-my-ghost-pet-is-zhong-kui.json](./309362-my-ghost-pet-is-zhong-kui.json) |
+| My Girlfriend | 81184 | [81184-my-girlfriend.json](./81184-my-girlfriend.json) |
 | My Girlfriend is a Mermaid!? Refine | 188642 | [188642-my-girlfriend-is-a-mermaid-refine.json](./188642-my-girlfriend-is-a-mermaid-refine.json) |
 | My Girlfriend is a Mermaid!? Refine: Limited Edition | 188645 | [188645-my-girlfriend-is-a-mermaid-refine-limited-edition.json](./188645-my-girlfriend-is-a-mermaid-refine-limited-edition.json) |
 | My Girlfriend is a Musician | 195171 | [195171-my-girlfriend-is-a-musician.json](./195171-my-girlfriend-is-a-musician.json) |
