@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race the Nags | 93379 | [93379-race-the-nags.json](./93379-race-the-nags.json) |
 | Race the Sun | 7876 | [7876-race-the-sun.json](./7876-race-the-sun.json) |
 | Race the Sun: Sunrise | 77651 | [77651-race-the-sun-sunrise.json](./77651-race-the-sun-sunrise.json) |
+| Race the Traffic Moto | 105540 | [105540-race-the-traffic-moto.json](./105540-race-the-traffic-moto.json) |
 | Race Time | 347696 | [347696-race-time.json](./347696-race-time.json) |
 | Race Time! | 245015 | [245015-race-time.json](./245015-race-time.json) |
 | Race to Kyiv | 392804 | [392804-race-to-kyiv.json](./392804-race-to-kyiv.json) |
@@ -1335,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Truck Simulator 2022 | 219283 | [219283-real-truck-simulator-2022.json](./219283-real-truck-simulator-2022.json) |
 | Real Truck Simulator USA Car Games: Premium Millionaire Bundle | 328989 | [328989-real-truck-simulator-usa-car-games-premium-millionaire-bundle.json](./328989-real-truck-simulator-usa-car-games-premium-millionaire-bundle.json) |
 | Real Warfare 1242 | 9856 | [9856-real-warfare-1242.json](./9856-real-warfare-1242.json) |
+| Real Winners | 105547 | [105547-real-winners.json](./105547-real-winners.json) |
 | Real Winners: Victoryball | 109659 | [109659-real-winners-victoryball.json](./109659-real-winners-victoryball.json) |
 | Real World | 275637 | [275637-real-world.json](./275637-real-world.json) |
 | Real World 2 | 275638 | [275638-real-world-2.json](./275638-real-world-2.json) |
