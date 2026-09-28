@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiant Defense | 17442 | [17442-radiant-defense.json](./17442-radiant-defense.json) |
 | Radiant Exodus | 293741 | [293741-radiant-exodus.json](./293741-radiant-exodus.json) |
 | Radiant Flux: Hyperfractal 4.0 | 233009 | [233009-radiant-flux-hyperfractal-4-0.json](./233009-radiant-flux-hyperfractal-4-0.json) |
+| Radiant HD | 90793 | [90793-radiant-hd.json](./90793-radiant-hd.json) |
 | Radiant Melodia | 86582 | [86582-radiant-melodia.json](./86582-radiant-melodia.json) |
 | Radiant Princess: Poni Ceres | 331115 | [331115-radiant-princess-poni-ceres.json](./331115-radiant-princess-poni-ceres.json) |
 | Radiant Reckoning: Subterranean Odyssey | 254766 | [254766-radiant-reckoning-subterranean-odyssey.json](./254766-radiant-reckoning-subterranean-odyssey.json) |
@@ -2128,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relax Fly | 149019 | [149019-relax-fly.json](./149019-relax-fly.json) |
 | Relax Industry | 343808 | [343808-relax-industry.json](./343808-relax-industry.json) |
 | Relax It's Aqua | 149544 | [149544-relax-its-aqua.json](./149544-relax-its-aqua.json) |
+| Relaxicon | 90833 | [90833-relaxicon.json](./90833-relaxicon.json) |
 | Relaxing Art Bundle | 231052 | [231052-relaxing-art-bundle.json](./231052-relaxing-art-bundle.json) |
 | Relaxing Farm: Merge Tales | 348805 | [348805-relaxing-farm-merge-tales.json](./348805-relaxing-farm-merge-tales.json) |
 | Relaxing Fishing | 350509 | [350509-relaxing-fishing.json](./350509-relaxing-fishing.json) |
