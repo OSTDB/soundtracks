@@ -6695,6 +6695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Town - Ice Village World | 108477 | [108477-snow-town-ice-village-world.json](./108477-snow-town-ice-village-world.json) |
 | Snow Vale | 220599 | [220599-snow-vale.json](./220599-snow-vale.json) |
 | Snow War | 211160 | [211160-snow-war.json](./211160-snow-war.json) |
+| Snow Wave | 91551 | [91551-snow-wave.json](./91551-snow-wave.json) |
 | Snow White and the Seven Dwarfs | 77396 | [77396-snow-white-and-the-seven-dwarfs.json](./77396-snow-white-and-the-seven-dwarfs.json) |
 | Snow World | 176972 | [176972-snow-world.json](./176972-snow-world.json) |
 | Snow! | 180771 | [180771-snow.json](./180771-snow.json) |
@@ -7936,6 +7937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sora Tobu Henry | 231506 | [231506-sora-tobu-henry.json](./231506-sora-tobu-henry.json) |
 | Sora: Blue Sky Edition | 54386 | [54386-sora-blue-sky-edition.json](./54386-sora-blue-sky-edition.json) |
 | Sora: Songs of the Stone | 403724 | [403724-sora-songs-of-the-stone.json](./403724-sora-songs-of-the-stone.json) |
+| Sorades - Die Befreiung | 91547 | [91547-sorades-die-befreiung.json](./91547-sorades-die-befreiung.json) |
 | Soraja Towers | 300721 | [300721-soraja-towers.json](./300721-soraja-towers.json) |
 | Sorbetta: Gravely in Debt | 129733 | [129733-sorbetta-gravely-in-debt.json](./129733-sorbetta-gravely-in-debt.json) |
 | Sorcerer | 23856 | [23856-sorcerer.json](./23856-sorcerer.json) |
@@ -8889,6 +8891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceWorms | 114200 | [114200-spaceworms.json](./114200-spaceworms.json) |
 | SpaceWrestler XL | 128610 | [128610-spacewrestler-xl.json](./128610-spacewrestler-xl.json) |
 | Spacey Vade | 158153 | [158153-spacey-vade.json](./158153-spacey-vade.json) |
+| Spacy Shuffle Puck | 91520 | [91520-spacy-shuffle-puck.json](./91520-spacy-shuffle-puck.json) |
 | Spades HD | 355000 | [355000-spades-hd.json](./355000-spades-hd.json) |
 | Spades Pro | 86691 | [86691-spades-pro.json](./86691-spades-pro.json) |
 | Spades+ | 279708 | [279708-spades.json](./279708-spades.json) |
@@ -9075,6 +9078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speechbound: A Language RPG | 265593 | [265593-speechbound-a-language-rpg.json](./265593-speechbound-a-language-rpg.json) |
 | Speechless | 166736 | [166736-speechless.json](./166736-speechless.json) |
 | Speed | 261245 | [261245-speed.json](./261245-speed.json) |
+| Speed | 91537 | [91537-speed.json](./91537-speed.json) |
 | Speed & Precision Collection | 328484 | [328484-speed-and-precision-collection.json](./328484-speed-and-precision-collection.json) |
 | Speed 3: Grand Prix | 139877 | [139877-speed-3-grand-prix.json](./139877-speed-3-grand-prix.json) |
 | Speed Bike Racing | 250657 | [250657-speed-bike-racing.json](./250657-speed-bike-racing.json) |
@@ -9442,6 +9446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spike City | 100558 | [100558-spike-city.json](./100558-spike-city.json) |
 | Spike Hoppin' | 41984 | [41984-spike-hoppin.json](./41984-spike-hoppin.json) |
 | Spike Match | 369748 | [369748-spike-match.json](./369748-spike-match.json) |
+| Spike the Hedgehog | 91555 | [91555-spike-the-hedgehog.json](./91555-spike-the-hedgehog.json) |
 | Spike Volleyball | 112846 | [112846-spike-volleyball.json](./112846-spike-volleyball.json) |
 | Spikeout: Battle Street | 6056 | [6056-spikeout-battle-street.json](./6056-spikeout-battle-street.json) |
 | SpikeOut: Final Edition | 319157 | [319157-spikeout-final-edition.json](./319157-spikeout-final-edition.json) |
@@ -11702,6 +11707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stolen Mushrooms | 268224 | [268224-stolen-mushrooms.json](./268224-stolen-mushrooms.json) |
 | Stolen Recovery | 133373 | [133373-stolen-recovery.json](./133373-stolen-recovery.json) |
 | Stolen Steel VR | 29568 | [29568-stolen-steel-vr.json](./29568-stolen-steel-vr.json) |
+| Stomp | 91539 | [91539-stomp.json](./91539-stomp.json) |
 | Stomper | 182990 | [182990-stomper.json](./182990-stomper.json) |
 | Stomper | 313867 | [313867-stomper.json](./313867-stomper.json) |
 | Stomping Grounds | 275711 | [275711-stomping-grounds.json](./275711-stomping-grounds.json) |
