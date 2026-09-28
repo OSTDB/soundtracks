@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I, For One, Welcome Our New Lady Knight Overlords! | 178506 | [178506-i-for-one-welcome-our-new-lady-knight-overlords.json](./178506-i-for-one-welcome-our-new-lady-knight-overlords.json) |
 | I.C.O. | 178660 | [178660-i-c-o.json](./178660-i-c-o.json) |
 | I.C.U.P.S. | 30212 | [30212-i-c-u-p-s.json](./30212-i-c-u-p-s.json) |
+| I.Cartel | 115798 | [115798-i-cartel.json](./115798-i-cartel.json) |
 | I.G.I. Origins | 125281 | [125281-i-g-i-origins.json](./125281-i-g-i-origins.json) |
 | I.G.I.-2: Covert Strike | 8559 | [8559-i-g-i-2-covert-strike.json](./8559-i-g-i-2-covert-strike.json) |
 | I.H.A.S | 224773 | [224773-i-h-a-s.json](./224773-i-h-a-s.json) |
