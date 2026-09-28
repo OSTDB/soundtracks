@@ -2249,6 +2249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Text Tiles | 46564 | [46564-text-tiles.json](./46564-text-tiles.json) |
 | Text Wall | 339272 | [339272-text-wall.json](./339272-text-wall.json) |
 | Text Your Life | 339270 | [339270-text-your-life.json](./339270-text-your-life.json) |
+| Text Zedventure | 91533 | [91533-text-zedventure.json](./91533-text-zedventure.json) |
 | Text: Russia | 160233 | [160233-text-russia.json](./160233-text-russia.json) |
 | Texthoth Ludo: Arcanum Senki | 107631 | [107631-texthoth-ludo-arcanum-senki.json](./107631-texthoth-ludo-arcanum-senki.json) |
 | Textiling | 182904 | [182904-textiling.json](./182904-textiling.json) |
@@ -3248,6 +3249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Colored Moth | 184070 | [184070-the-colored-moth.json](./184070-the-colored-moth.json) |
 | The Colorful Biplane | 377719 | [377719-the-colorful-biplane.json](./377719-the-colorful-biplane.json) |
 | The Colors of Love: Re-Colored | 410442 | [410442-the-colors-of-love-re-colored.json](./410442-the-colors-of-love-re-colored.json) |
+| The Colors of the Artifacts | 91528 | [91528-the-colors-of-the-artifacts.json](./91528-the-colors-of-the-artifacts.json) |
 | The Colossus Is Coming: The Interactive Experience | 180287 | [180287-the-colossus-is-coming-the-interactive-experience.json](./180287-the-colossus-is-coming-the-interactive-experience.json) |
 | The Colour Beyond: A Zeroth Kind | 409590 | [409590-the-colour-beyond-a-zeroth-kind.json](./409590-the-colour-beyond-a-zeroth-kind.json) |
 | The Coma 2: Vicious Sisters | 121617 | [121617-the-coma-2-vicious-sisters.json](./121617-the-coma-2-vicious-sisters.json) |
@@ -4192,6 +4194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flowers of Robert Mapplethorpe | 141004 | [141004-the-flowers-of-robert-mapplethorpe.json](./141004-the-flowers-of-robert-mapplethorpe.json) |
 | The Flowertest | 341003 | [341003-the-flowertest.json](./341003-the-flowertest.json) |
 | The Flute | 233094 | [233094-the-flute.json](./233094-the-flute.json) |
+| The Flying Baron | 91525 | [91525-the-flying-baron.json](./91525-the-flying-baron.json) |
 | The Flying Feathers | 247768 | [247768-the-flying-feathers.json](./247768-the-flying-feathers.json) |
 | The Flying Hamster | 42825 | [42825-the-flying-hamster.json](./42825-the-flying-hamster.json) |
 | The Flying Jet | 366223 | [366223-the-flying-jet.json](./366223-the-flying-jet.json) |
