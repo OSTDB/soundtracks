@@ -3622,6 +3622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Planet 3 | 1916 | [1916-lost-planet-3.json](./1916-lost-planet-3.json) |
 | Lost Planet: Extreme Condition | 1913 | [1913-lost-planet-extreme-condition.json](./1913-lost-planet-extreme-condition.json) |
 | Lost Player | 185103 | [185103-lost-player.json](./185103-lost-player.json) |
+| Lost Portal CCG | 87592 | [87592-lost-portal-ccg.json](./87592-lost-portal-ccg.json) |
 | Lost Princess | 266775 | [266775-lost-princess.json](./266775-lost-princess.json) |
 | Lost Prototype | 356643 | [356643-lost-prototype.json](./356643-lost-prototype.json) |
 | Lost Pyramid | 236818 | [236818-lost-pyramid.json](./236818-lost-pyramid.json) |
