@@ -1451,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatec's Out | 132274 | [132274-fatecs-out.json](./132274-fatecs-out.json) |
 | Fated | 184069 | [184069-fated.json](./184069-fated.json) |
 | Fated Era | 114514 | [114514-fated-era.json](./114514-fated-era.json) |
+| Fated Haven | 61724 | [61724-fated-haven.json](./61724-fated-haven.json) |
 | Fated Kingdom | 97111 | [97111-fated-kingdom.json](./97111-fated-kingdom.json) |
 | Fateful Destiny | 323504 | [323504-fateful-destiny.json](./323504-fateful-destiny.json) |
 | Fateline | 121003 | [121003-fateline.json](./121003-fateline.json) |
@@ -2971,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fit Fantasy | 144268 | [144268-fit-fantasy.json](./144268-fit-fantasy.json) |
 | Fit For A King | 121200 | [121200-fit-for-a-king.json](./121200-fit-for-a-king.json) |
 | Fit In | 113055 | [113055-fit-in.json](./113055-fit-in.json) |
+| Fit Music for Wii U | 61696 | [61696-fit-music-for-wii-u.json](./61696-fit-music-for-wii-u.json) |
 | Fit My Cat | 284930 | [284930-fit-my-cat.json](./284930-fit-my-cat.json) |
 | Fit My Dog: Dog's Puzzle Pack 1 | 316230 | [316230-fit-my-dog-dogs-puzzle-pack-1.json](./316230-fit-my-dog-dogs-puzzle-pack-1.json) |
 | Fit My Dog: Dog's Puzzle Pack 2 | 316229 | [316229-fit-my-dog-dogs-puzzle-pack-2.json](./316229-fit-my-dog-dogs-puzzle-pack-2.json) |
@@ -3319,6 +3321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleshport | 173261 | [173261-fleshport.json](./173261-fleshport.json) |
 | FleurBirdShoot | 192931 | [192931-fleurbirdshoot.json](./192931-fleurbirdshoot.json) |
 | Flewn | 18087 | [18087-flewn.json](./18087-flewn.json) |
+| Flex | 61727 | [61727-flex.json](./61727-flex.json) |
 | Flex City | 358973 | [358973-flex-city.json](./358973-flex-city.json) |
 | Flex hooks | 147889 | [147889-flex-hooks.json](./147889-flex-hooks.json) |
 | Flexibility and Girls | 147979 | [147979-flexibility-and-girls.json](./147979-flexibility-and-girls.json) |
@@ -5518,6 +5521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froyo Taxi | 271171 | [271171-froyo-taxi.json](./271171-froyo-taxi.json) |
 | Frozen | 206151 | [206151-frozen.json](./206151-frozen.json) |
 | Frozen | 230377 | [230377-frozen.json](./230377-frozen.json) |
+| Frozen Bubble | 61702 | [61702-frozen-bubble.json](./61702-frozen-bubble.json) |
 | Frozen Cortex | 16521 | [16521-frozen-cortex.json](./16521-frozen-cortex.json) |
 | Frozen Drift Race | 30185 | [30185-frozen-drift-race.json](./30185-frozen-drift-race.json) |
 | Frozen Feathers | 362266 | [362266-frozen-feathers.json](./362266-frozen-feathers.json) |
