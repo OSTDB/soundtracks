@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Jinguji Saburo Series No. 20: Naki Ko no Shouzou | 347271 | [347271-tantei-jinguji-saburo-series-no-20-naki-ko-no-shouzou.json](./347271-tantei-jinguji-saburo-series-no-20-naki-ko-no-shouzou.json) |
 | Tantei Jinguji Saburo Series No. 21: Oni-hime-den | 347272 | [347272-tantei-jinguji-saburo-series-no-21-oni-hime-den.json](./347272-tantei-jinguji-saburo-series-no-21-oni-hime-den.json) |
 | Tantei Jinguji Saburo: Fukushuu no Rondo | 151624 | [151624-tantei-jinguji-saburo-fukushuu-no-rondo.json](./151624-tantei-jinguji-saburo-fukushuu-no-rondo.json) |
+| Tantei Jinguji Saburo: Kadan no Itte & Nazono-Jikenbo | 67367 | [67367-tantei-jinguji-saburo-kadan-no-itte-and-nazono-jikenbo.json](./67367-tantei-jinguji-saburo-kadan-no-itte-and-nazono-jikenbo.json) |
 | Tantei Jinguji Saburo: Kiken na Futari - Kouhen | 41414 | [41414-tantei-jinguji-saburo-kiken-na-futari-kouhen.json](./41414-tantei-jinguji-saburo-kiken-na-futari-kouhen.json) |
 | Tantei Jinguji Saburo: Kiken na Futari - Zenpen | 41413 | [41413-tantei-jinguji-saburo-kiken-na-futari-zenpen.json](./41413-tantei-jinguji-saburo-kiken-na-futari-zenpen.json) |
 | Tantei Jinguji Saburo: Rensa Suru Noroi & Nazono-Jikenbo | 347328 | [347328-tantei-jinguji-saburo-rensa-suru-noroi-and-nazono-jikenbo.json](./347328-tantei-jinguji-saburo-rensa-suru-noroi-and-nazono-jikenbo.json) |
@@ -10865,6 +10866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokigeon | 398399 | [398399-tokigeon.json](./398399-tokigeon.json) |
 | Tokimeki Card Paradise: Koi no Royal Straight Flush | 310969 | [310969-tokimeki-card-paradise-koi-no-royal-straight-flush.json](./310969-tokimeki-card-paradise-koi-no-royal-straight-flush.json) |
 | Tokimeki Memorial | 72984 | [72984-tokimeki-memorial.json](./72984-tokimeki-memorial.json) |
+| Tokimeki Memorial 4 | 67379 | [67379-tokimeki-memorial-4.json](./67379-tokimeki-memorial-4.json) |
 | Tokimeki Memorial Girl's Side | 72670 | [72670-tokimeki-memorial-girls-side.json](./72670-tokimeki-memorial-girls-side.json) |
 | Tokimeki Memorial Girl's Side Triple Pack | 109045 | [109045-tokimeki-memorial-girls-side-triple-pack.json](./109045-tokimeki-memorial-girls-side-triple-pack.json) |
 | Tokimeki Memorial Girl's Side: 1st Love | 124096 | [124096-tokimeki-memorial-girls-side-1st-love.json](./124096-tokimeki-memorial-girls-side-1st-love.json) |
@@ -13728,6 +13730,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tristone | 112314 | [112314-tristone.json](./112314-tristone.json) |
 | Triton Survival | 114566 | [114566-triton-survival.json](./114566-triton-survival.json) |
 | Tritorn | 150027 | [150027-tritorn.json](./150027-tritorn.json) |
+| Tritorn Final | 67395 | [67395-tritorn-final.json](./67395-tritorn-final.json) |
+| Tritorn II: Road of Darkness | 67399 | [67399-tritorn-ii-road-of-darkness.json](./67399-tritorn-ii-road-of-darkness.json) |
 | TriTryst | 79189 | [79189-tritryst.json](./79189-tritryst.json) |
 | Triumph | 184041 | [184041-triumph.json](./184041-triumph.json) |
 | Triuno Ascend | 398334 | [398334-triuno-ascend.json](./398334-triuno-ascend.json) |
