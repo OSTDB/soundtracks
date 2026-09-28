@@ -6653,6 +6653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Catchers | 164448 | [164448-dream-catchers.json](./164448-dream-catchers.json) |
 | Dream Celestial Body | 274524 | [274524-dream-celestial-body.json](./274524-dream-celestial-body.json) |
 | Dream Chamber | 27332 | [27332-dream-chamber.json](./27332-dream-chamber.json) |
+| Dream Channel | 75929 | [75929-dream-channel.json](./75929-dream-channel.json) |
 | Dream Channel Zero | 250289 | [250289-dream-channel-zero.json](./250289-dream-channel-zero.json) |
 | Dream Chaser | 257074 | [257074-dream-chaser.json](./257074-dream-chaser.json) |
 | Dream Chronicles 2: The Eternal Maze | 50502 | [50502-dream-chronicles-2-the-eternal-maze.json](./50502-dream-chronicles-2-the-eternal-maze.json) |
