@@ -5457,6 +5457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Korra: A New Era Begins | 7996 | [7996-the-legend-of-korra-a-new-era-begins.json](./7996-the-legend-of-korra-a-new-era-begins.json) |
 | The Legend of Legacy | 11317 | [11317-the-legend-of-legacy.json](./11317-the-legend-of-legacy.json) |
 | The Legend of Legacy: HD Remastered | 268421 | [268421-the-legend-of-legacy-hd-remastered.json](./268421-the-legend-of-legacy-hd-remastered.json) |
+| The Legend of Lobodestroyo vs. La Liga de Los Villanos | 79199 | [79199-the-legend-of-lobodestroyo-vs-la-liga-de-los-villanos.json](./79199-the-legend-of-lobodestroyo-vs-la-liga-de-los-villanos.json) |
 | The Legend of Lumina | 302360 | [302360-the-legend-of-lumina.json](./302360-the-legend-of-lumina.json) |
 | The Legend of Maya | 78324 | [78324-the-legend-of-maya.json](./78324-the-legend-of-maya.json) |
 | The Legend of Mir 2 | 51204 | [51204-the-legend-of-mir-2.json](./51204-the-legend-of-mir-2.json) |
@@ -7313,6 +7314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs Bakery | 248647 | [248647-the-smurfs-bakery.json](./248647-the-smurfs-bakery.json) |
 | The Smurfs Collection | 75142 | [75142-the-smurfs-collection.json](./75142-the-smurfs-collection.json) |
 | The Smurfs Dreams: Cosmic Costume | 316238 | [316238-the-smurfs-dreams-cosmic-costume.json](./316238-the-smurfs-dreams-cosmic-costume.json) |
+| The Smurfs Party Pack | 79212 | [79212-the-smurfs-party-pack.json](./79212-the-smurfs-party-pack.json) |
 | The Smurfs Travel the World | 287148 | [287148-the-smurfs-travel-the-world.json](./287148-the-smurfs-travel-the-world.json) |
 | The Smurfs Travel the World | 287150 | [287150-the-smurfs-travel-the-world.json](./287150-the-smurfs-travel-the-world.json) |
 | The Smurfs: Colorful Stories | 275888 | [275888-the-smurfs-colorful-stories.json](./275888-the-smurfs-colorful-stories.json) |
@@ -11877,6 +11879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towelket: One More Time 2 (Karaage Tanpopo) | 146883 | [146883-towelket-one-more-time-2-karaage-tanpopo.json](./146883-towelket-one-more-time-2-karaage-tanpopo.json) |
 | Towelket: One More Time 5 - Gaugau's Bride | 147250 | [147250-towelket-one-more-time-5-gaugaus-bride.json](./147250-towelket-one-more-time-5-gaugaus-bride.json) |
 | Tower | 315714 | [315714-tower.json](./315714-tower.json) |
+| Tower 22 | 79383 | [79383-tower-22.json](./79383-tower-22.json) |
 | Tower and Guardian | 54466 | [54466-tower-and-guardian.json](./54466-tower-and-guardian.json) |
 | Tower Attack | 352301 | [352301-tower-attack.json](./352301-tower-attack.json) |
 | Tower Bloxx | 9452 | [9452-tower-bloxx.json](./9452-tower-bloxx.json) |
@@ -13638,6 +13641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tristone | 112314 | [112314-tristone.json](./112314-tristone.json) |
 | Triton Survival | 114566 | [114566-triton-survival.json](./114566-triton-survival.json) |
 | Tritorn | 150027 | [150027-tritorn.json](./150027-tritorn.json) |
+| TriTryst | 79189 | [79189-tritryst.json](./79189-tritryst.json) |
 | Triumph | 184041 | [184041-triumph.json](./184041-triumph.json) |
 | Triuno Ascend | 398334 | [398334-triuno-ascend.json](./398334-triuno-ascend.json) |
 | Triversal | 143605 | [143605-triversal.json](./143605-triversal.json) |
@@ -13950,6 +13954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try Again | 219526 | [219526-try-again.json](./219526-try-again.json) |
 | Try Again | 249388 | [249388-try-again.json](./249388-try-again.json) |
 | Try Dying | 319713 | [319713-try-dying.json](./319713-try-dying.json) |
+| Try Not to Fart | 79371 | [79371-try-not-to-fart.json](./79371-try-not-to-fart.json) |
 | Try Not to Laugh | 102754 | [102754-try-not-to-laugh.json](./102754-try-not-to-laugh.json) |
 | Try to Escape! | 258434 | [258434-try-to-escape.json](./258434-try-to-escape.json) |
 | Try to Reach 10 | 130732 | [130732-try-to-reach-10.json](./130732-try-to-reach-10.json) |
@@ -14055,6 +14060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsundere Simulator 2 | 221389 | [221389-tsundere-simulator-2.json](./221389-tsundere-simulator-2.json) |
 | Tsuneko Apple | 318235 | [318235-tsuneko-apple.json](./318235-tsuneko-apple.json) |
 | Tsuppari Concert | 385724 | [385724-tsuppari-concert.json](./385724-tsuppari-concert.json) |
+| Tsuppari Oozumou | 79226 | [79226-tsuppari-oozumou.json](./79226-tsuppari-oozumou.json) |
 | Tsuppari Oozumou: Risshin Shusse-hen | 37780 | [37780-tsuppari-oozumou-risshin-shusse-hen.json](./37780-tsuppari-oozumou-risshin-shusse-hen.json) |
 | Tsurezure Nikki | 163362 | [163362-tsurezure-nikki.json](./163362-tsurezure-nikki.json) |
 | Tsuri Kichi Sanpei: Blue Marlin-hen | 48875 | [48875-tsuri-kichi-sanpei-blue-marlin-hen.json](./48875-tsuri-kichi-sanpei-blue-marlin-hen.json) |
