@@ -424,10 +424,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zettavolt Trigger | 108051 | [108051-zettavolt-trigger.json](./108051-zettavolt-trigger.json) |
 | Zetton's One Trillion Degree Derby | 395895 | [395895-zettons-one-trillion-degree-derby.json](./395895-zettons-one-trillion-degree-derby.json) |
 | Zeus + Poseidon | 90554 | [90554-zeus-poseidon.json](./90554-zeus-poseidon.json) |
+| Zeus II: Carnage Heart | 66187 | [66187-zeus-ii-carnage-heart.json](./66187-zeus-ii-carnage-heart.json) |
 | Zeus Quest Remastered | 147435 | [147435-zeus-quest-remastered.json](./147435-zeus-quest-remastered.json) |
 | Zeus Quest Remastered | 32893 | [32893-zeus-quest-remastered.json](./32893-zeus-quest-remastered.json) |
 | Zeus vs Monsters: Math Game for Kids | 33492 | [33492-zeus-vs-monsters-math-game-for-kids.json](./33492-zeus-vs-monsters-math-game-for-kids.json) |
 | Zeus vs. Monsters | 87540 | [87540-zeus-vs-monsters.json](./87540-zeus-vs-monsters.json) |
+| Zeus: Carnage Heart Second | 66186 | [66186-zeus-carnage-heart-second.json](./66186-zeus-carnage-heart-second.json) |
 | Zeus: Master of Olympus | 958 | [958-zeus-master-of-olympus.json](./958-zeus-master-of-olympus.json) |
 | Zewels | 250433 | [250433-zewels.json](./250433-zewels.json) |
 | Zezenia Online | 32195 | [32195-zezenia-online.json](./32195-zezenia-online.json) |
