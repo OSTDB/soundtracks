@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Shikaku | 138675 | [138675-mahjong-shikaku.json](./138675-mahjong-shikaku.json) |
 | Mahjong Solitaire | 232382 | [232382-mahjong-solitaire.json](./232382-mahjong-solitaire.json) |
 | Mahjong Solitaire | 80453 | [80453-mahjong-solitaire.json](./80453-mahjong-solitaire.json) |
+| Mahjong Solitaire Epic | 88426 | [88426-mahjong-solitaire-epic.json](./88426-mahjong-solitaire-epic.json) |
 | Mahjong Solitaire Refresh | 114173 | [114173-mahjong-solitaire-refresh.json](./114173-mahjong-solitaire-refresh.json) |
 | Mahjong Solitaire Refresh: Ex Panels | 170928 | [170928-mahjong-solitaire-refresh-ex-panels.json](./170928-mahjong-solitaire-refresh-ex-panels.json) |
 | Mahjong Taikai II | 37936 | [37936-mahjong-taikai-ii.json](./37936-mahjong-taikai-ii.json) |
@@ -5332,6 +5333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper But the First Tile is Always a Mine | 327378 | [327378-minesweeper-but-the-first-tile-is-always-a-mine.json](./327378-minesweeper-but-the-first-tile-is-always-a-mine.json) |
 | Minesweeper Challenge | 96705 | [96705-minesweeper-challenge.json](./96705-minesweeper-challenge.json) |
 | Minesweeper Collector 2 | 275090 | [275090-minesweeper-collector-2.json](./275090-minesweeper-collector-2.json) |
+| Minesweeper Deluxe | 88430 | [88430-minesweeper-deluxe.json](./88430-minesweeper-deluxe.json) |
 | Minesweeper Flags | 74419 | [74419-minesweeper-flags.json](./74419-minesweeper-flags.json) |
 | Minesweeper Go | 395231 | [395231-minesweeper-go.json](./395231-minesweeper-go.json) |
 | Minesweeper Infinite | 291454 | [291454-minesweeper-infinite.json](./291454-minesweeper-infinite.json) |
@@ -7561,6 +7563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorbike | 35923 | [35923-motorbike.json](./35923-motorbike.json) |
 | Motorbike Clicker | 337625 | [337625-motorbike-clicker.json](./337625-motorbike-clicker.json) |
 | Motorbike Racing | 217965 | [217965-motorbike-racing.json](./217965-motorbike-racing.json) |
+| Motorbike Racing | 88493 | [88493-motorbike-racing.json](./88493-motorbike-racing.json) |
 | Motorbike Racing Triple Pack | 149047 | [149047-motorbike-racing-triple-pack.json](./149047-motorbike-racing-triple-pack.json) |
 | Motorbikes Pro 2025: Discovery Edition | 399822 | [399822-motorbikes-pro-2025-discovery-edition.json](./399822-motorbikes-pro-2025-discovery-edition.json) |
 | Motorbikes Pro 2025: Value Edition | 396921 | [396921-motorbikes-pro-2025-value-edition.json](./396921-motorbikes-pro-2025-value-edition.json) |
@@ -9122,6 +9125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Island: Missing Amy | 367614 | [367614-mystery-island-missing-amy.json](./367614-mystery-island-missing-amy.json) |
 | Mystery Legends: Phantom of the Opera - Collector’s Edition | 239602 | [239602-mystery-legends-phantom-of-the-opera-collector-s-edition.json](./239602-mystery-legends-phantom-of-the-opera-collector-s-edition.json) |
 | Mystery Loss | 57029 | [57029-mystery-loss.json](./57029-mystery-loss.json) |
+| Mystery Manor | 88456 | [88456-mystery-manor.json](./88456-mystery-manor.json) |
 | Mystery Mansion | 353879 | [353879-mystery-mansion.json](./353879-mystery-mansion.json) |
 | Mystery Master: Felony! | 73291 | [73291-mystery-master-felony.json](./73291-mystery-master-felony.json) |
 | Mystery Masters: Carnival of Crime - Collector's Edition | 201820 | [201820-mystery-masters-carnival-of-crime-collectors-edition.json](./201820-mystery-masters-carnival-of-crime-collectors-edition.json) |
