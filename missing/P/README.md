@@ -2304,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Brave: The Lost Hero - The Rat Who Demons Fear | 332523 | [332523-phantom-brave-the-lost-hero-the-rat-who-demons-fear.json](./332523-phantom-brave-the-lost-hero-the-rat-who-demons-fear.json) |
 | Phantom Brave: The Lost Hero - The Wandering Pirate | 332524 | [332524-phantom-brave-the-lost-hero-the-wandering-pirate.json](./332524-phantom-brave-the-lost-hero-the-wandering-pirate.json) |
 | Phantom Breaker | 7130 | [7130-phantom-breaker.json](./7130-phantom-breaker.json) |
+| Phantom breaker battle grounds over drive | 99779 | [99779-phantom-breaker-battle-grounds-over-drive.json](./99779-phantom-breaker-battle-grounds-over-drive.json) |
 | Phantom Breaker: Battle Grounds Ultimate | 319268 | [319268-phantom-breaker-battle-grounds-ultimate.json](./319268-phantom-breaker-battle-grounds-ultimate.json) |
 | Phantom Brigade | 69488 | [69488-phantom-brigade.json](./69488-phantom-brigade.json) |
 | Phantom City | 317826 | [317826-phantom-city.json](./317826-phantom-city.json) |
@@ -6189,6 +6190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Architect: Mobile | 174886 | [174886-prison-architect-mobile.json](./174886-prison-architect-mobile.json) |
 | Prison Architect: Nintendo Switch Edition | 222532 | [222532-prison-architect-nintendo-switch-edition.json](./222532-prison-architect-nintendo-switch-edition.json) |
 | Prison Architect: Nintendo Switch Edition - Bundle | 222502 | [222502-prison-architect-nintendo-switch-edition-bundle.json](./222502-prison-architect-nintendo-switch-edition-bundle.json) |
+| Prison Architect: PlayStation 4 Edition | 99758 | [99758-prison-architect-playstation-4-edition.json](./99758-prison-architect-playstation-4-edition.json) |
 | Prison Architect: Psych Ward - Warden's Edition | 148526 | [148526-prison-architect-psych-ward-wardens-edition.json](./148526-prison-architect-psych-ward-wardens-edition.json) |
 | Prison Architect: Second Chances | 148519 | [148519-prison-architect-second-chances.json](./148519-prison-architect-second-chances.json) |
 | Prison Architect: Total Lockdown Bundle | 164789 | [164789-prison-architect-total-lockdown-bundle.json](./164789-prison-architect-total-lockdown-bundle.json) |
@@ -7015,6 +7017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prototype | 119662 | [119662-prototype.json](./119662-prototype.json) |
 | Prototype Blocks | 191244 | [191244-prototype-blocks.json](./191244-prototype-blocks.json) |
 | Prototype Blocks 2 | 193429 | [193429-prototype-blocks-2.json](./193429-prototype-blocks-2.json) |
+| Prototype Franchise Pack | 99787 | [99787-prototype-franchise-pack.json](./99787-prototype-franchise-pack.json) |
 | Prototype Jam 3 | 271192 | [271192-prototype-jam-3.json](./271192-prototype-jam-3.json) |
 | Prototype Mansion - Used No Cover | 77443 | [77443-prototype-mansion-used-no-cover.json](./77443-prototype-mansion-used-no-cover.json) |
 | Prototype Mint B | 332403 | [332403-prototype-mint-b.json](./332403-prototype-mint-b.json) |
