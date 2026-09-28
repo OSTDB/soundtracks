@@ -199,6 +199,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RaceRoom Racing Experience: DTM Experience 2014 | 168152 | [168152-raceroom-racing-experience-dtm-experience-2014.json](./168152-raceroom-racing-experience-dtm-experience-2014.json) |
 | RaceRoom Racing Experience: Nurburgring Legends | 53167 | [53167-raceroom-racing-experience-nurburgring-legends.json](./53167-raceroom-racing-experience-nurburgring-legends.json) |
 | Racers Islands | 233229 | [233229-racers-islands.json](./233229-racers-islands.json) |
+| Racers' Islands: Crazy Arenas | 69336 | [69336-racers-islands-crazy-arenas.json](./69336-racers-islands-crazy-arenas.json) |
+| Racers' Islands: Crazy Racers | 69337 | [69337-racers-islands-crazy-racers.json](./69337-racers-islands-crazy-racers.json) |
 | RaceTrap | 287213 | [287213-racetrap.json](./287213-racetrap.json) |
 | Raceway | 245416 | [245416-raceway.json](./245416-raceway.json) |
 | Raceway: Drag & Stock Racing | 168316 | [168316-raceway-drag-and-stock-racing.json](./168316-raceway-drag-and-stock-racing.json) |
