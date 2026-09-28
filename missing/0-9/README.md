@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Foxes and the Puzzling Forest | 185095 | [185095-2-foxes-and-the-puzzling-forest.json](./185095-2-foxes-and-the-puzzling-forest.json) |
 | 2 Game Pack I Haunted Hotel: Eclipse & Haunted Hotel: Ancient Bane | 201816 | [201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json](./201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json) |
 | 2 Games In 1 Double Pack I Hot Wheels: World Race + Hot Wheels: Velocity X | 82101 | [82101-2-games-in-1-double-pack-i-hot-wheels-world-race-hot-wheels-velocity-x.json](./82101-2-games-in-1-double-pack-i-hot-wheels-world-race-hot-wheels-velocity-x.json) |
+| 2 Games In 1 Double Pack: Finding Nemo + Monsters, Inc. | 78697 | [78697-2-games-in-1-double-pack-finding-nemo-monsters-inc.json](./78697-2-games-in-1-double-pack-finding-nemo-monsters-inc.json) |
 | 2 Games in 1 Double Pack: Power Rangers Ninja Storm + Power Rangers Time Force | 86044 | [86044-2-games-in-1-double-pack-power-rangers-ninja-storm-power-rangers-time-force.json](./86044-2-games-in-1-double-pack-power-rangers-ninja-storm-power-rangers-time-force.json) |
 | 2 Games in 1 Double Pack: Scooby-Doo and the Cyber Chase + Scooby-Doo! Mystery Mayhem | 84265 | [84265-2-games-in-1-double-pack-scooby-doo-and-the-cyber-chase-scooby-doo-mystery-mayhem.json](./84265-2-games-in-1-double-pack-scooby-doo-and-the-cyber-chase-scooby-doo-mystery-mayhem.json) |
 | 2 Games in 1 I Finding Nemo + Finding Nemo: The Continuing Adventures | 130301 | [130301-2-games-in-1-i-finding-nemo-finding-nemo-the-continuing-adventures.json](./130301-2-games-in-1-i-finding-nemo-finding-nemo-the-continuing-adventures.json) |
@@ -691,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 24 Puzzle | 357972 | [357972-24-puzzle.json](./357972-24-puzzle.json) |
 | 24 Solar Terms | 158663 | [158663-24-solar-terms.json](./158663-24-solar-terms.json) |
 | 24: Special Ops | 91747 | [91747-24-special-ops.json](./91747-24-special-ops.json) |
+| 24/7 Solitaire | 78758 | [78758-24-7-solitaire.json](./78758-24-7-solitaire.json) |
 | 240p Test Suite | 292078 | [292078-240p-test-suite.json](./292078-240p-test-suite.json) |
 | 24H Stories: The Blackout | 276706 | [276706-24h-stories-the-blackout.json](./276706-24h-stories-the-blackout.json) |
 | 24H Stories: The Cabin In The Forest | 308942 | [308942-24h-stories-the-cabin-in-the-forest.json](./308942-24h-stories-the-cabin-in-the-forest.json) |
@@ -779,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-D Tank Zone | 15579 | [15579-3-d-tank-zone.json](./15579-3-d-tank-zone.json) |
 | 3-D Tic-Tac-Toe | 80892 | [80892-3-d-tic-tac-toe.json](./80892-3-d-tic-tac-toe.json) |
 | 3-D Ultra Pinball: Thrillride | 49881 | [49881-3-d-ultra-pinball-thrillride.json](./49881-3-d-ultra-pinball-thrillride.json) |
+| 3-D Vector Pong | 78746 | [78746-3-d-vector-pong.json](./78746-3-d-vector-pong.json) |
 | 3-D Zapper | 268566 | [268566-3-d-zapper.json](./268566-3-d-zapper.json) |
 | 3-in-1 Animated Jigsaws Bundle | 399632 | [399632-3-in-1-animated-jigsaws-bundle.json](./399632-3-in-1-animated-jigsaws-bundle.json) |
 | 3-in-1 Christmas Collection | 331411 | [331411-3-in-1-christmas-collection.json](./331411-3-in-1-christmas-collection.json) |
