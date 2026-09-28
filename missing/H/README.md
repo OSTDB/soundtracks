@@ -1846,6 +1846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellfire | 319022 | [319022-hellfire.json](./319022-hellfire.json) |
 | Hellfire | 321796 | [321796-hellfire.json](./321796-hellfire.json) |
 | Hellfire | 370763 | [370763-hellfire.json](./370763-hellfire.json) |
+| Hellfire Attack | 71587 | [71587-hellfire-attack.json](./71587-hellfire-attack.json) |
 | Hellfire Poncho | 283754 | [283754-hellfire-poncho.json](./283754-hellfire-poncho.json) |
 | Hellfire Saga | 234906 | [234906-hellfire-saga.json](./234906-hellfire-saga.json) |
 | HellFire: The Summoning | 27690 | [27690-hellfire-the-summoning.json](./27690-hellfire-the-summoning.json) |
@@ -2991,6 +2992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Nature | 372017 | [372017-hidden-nature.json](./372017-hidden-nature.json) |
 | Hidden Nightmares | 260379 | [260379-hidden-nightmares.json](./260379-hidden-nightmares.json) |
 | Hidden Object - 12 in 1 bundle | 90581 | [90581-hidden-object-12-in-1-bundle.json](./90581-hidden-object-12-in-1-bundle.json) |
+| Hidden Object - Home Makeover | 71572 | [71572-hidden-object-home-makeover.json](./71572-hidden-object-home-makeover.json) |
 | Hidden Object - Sweet Home | 72403 | [72403-hidden-object-sweet-home.json](./72403-hidden-object-sweet-home.json) |
 | Hidden Object - Unwrap the Secrets of the Lost Candy World! Seek & Find Hunt Game | 71207 | [71207-hidden-object-unwrap-the-secrets-of-the-lost-candy-world-seek-and-find-hunt-game.json](./71207-hidden-object-unwrap-the-secrets-of-the-lost-candy-world-seek-and-find-hunt-game.json) |
 | Hidden Object 6-in-1 bundle | 90590 | [90590-hidden-object-6-in-1-bundle.json](./90590-hidden-object-6-in-1-bundle.json) |
