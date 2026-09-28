@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio Commander | 107875 | [107875-radio-commander.json](./107875-radio-commander.json) |
 | Radio Commander: Battle of Britain ’40 | 418701 | [418701-radio-commander-battle-of-britain-40.json](./418701-radio-commander-battle-of-britain-40.json) |
 | Radio Commander: Complete Edition | 154538 | [154538-radio-commander-complete-edition.json](./154538-radio-commander-complete-edition.json) |
+| Radio Controlled Racer | 93155 | [93155-radio-controlled-racer.json](./93155-radio-controlled-racer.json) |
 | Radio Decay | 404937 | [404937-radio-decay.json](./404937-radio-decay.json) |
 | Radio Exurbia | 249439 | [249439-radio-exurbia.json](./249439-radio-exurbia.json) |
 | Radio Fall | 202811 | [202811-radio-fall.json](./202811-radio-fall.json) |
