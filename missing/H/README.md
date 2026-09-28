@@ -2792,6 +2792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexteria | 153889 | [153889-hexteria.json](./153889-hexteria.json) |
 | Hexterminate | 133411 | [133411-hexterminate.json](./133411-hexterminate.json) |
 | Hexters | 81393 | [81393-hexters.json](./81393-hexters.json) |
+| HexTrains | 102953 | [102953-hextrains.json](./102953-hextrains.json) |
 | Hextris | 183898 | [183898-hextris.json](./183898-hextris.json) |
 | HextriX | 105912 | [105912-hextrix.json](./105912-hextrix.json) |
 | Hexual Deflection | 308552 | [308552-hexual-deflection.json](./308552-hexual-deflection.json) |
@@ -4060,6 +4061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honoo no Toukyuuji: Dodge Danpei | 272812 | [272812-honoo-no-toukyuuji-dodge-danpei.json](./272812-honoo-no-toukyuuji-dodge-danpei.json) |
 | Honoo no Toukyuuji: Dodge Danpei | 42053 | [42053-honoo-no-toukyuuji-dodge-danpei.json](./42053-honoo-no-toukyuuji-dodge-danpei.json) |
 | Honor Battle | 303565 | [303565-honor-battle.json](./303565-honor-battle.json) |
+| Honor Cry: Aftermath | 102946 | [102946-honor-cry-aftermath.json](./102946-honor-cry-aftermath.json) |
 | Honor in Vengeance | 66108 | [66108-honor-in-vengeance.json](./66108-honor-in-vengeance.json) |
 | Honor of Heirs | 193876 | [193876-honor-of-heirs.json](./193876-honor-of-heirs.json) |
 | Honor of Kings: World | 180147 | [180147-honor-of-kings-world.json](./180147-honor-of-kings-world.json) |
@@ -4878,6 +4880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huang Zhu Qian Kun | 308872 | [308872-huang-zhu-qian-kun.json](./308872-huang-zhu-qian-kun.json) |
 | Huāngdǎo Qiúshēng | 123555 | [123555-huangdao-qiusheng.json](./123555-huangdao-qiusheng.json) |
 | Huànrèn Lù | 158155 | [158155-huanren-lu.json](./158155-huanren-lu.json) |
+| Huànshì Qíngyuán | 102971 | [102971-huanshi-qingyuan.json](./102971-huanshi-qingyuan.json) |
 | Huanu Poems | 339119 | [339119-huanu-poems.json](./339119-huanu-poems.json) |
 | Huànxiǎng Xiū Zhēn | 375424 | [375424-huanxiang-xiu-zhen.json](./375424-huanxiang-xiu-zhen.json) |
 | Huaxia: Warring States | 314435 | [314435-huaxia-warring-states.json](./314435-huaxia-warring-states.json) |
