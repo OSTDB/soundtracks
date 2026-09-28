@@ -3957,6 +3957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Surf: The Last Wave | 158672 | [158672-planet-surf-the-last-wave.json](./158672-planet-surf-the-last-wave.json) |
 | Planet Surfer | 221145 | [221145-planet-surfer.json](./221145-planet-surfer.json) |
 | Planet TD | 195265 | [195265-planet-td.json](./195265-planet-td.json) |
+| Planet Unknown Runner | 102331 | [102331-planet-unknown-runner.json](./102331-planet-unknown-runner.json) |
 | Planet Valley | 260647 | [260647-planet-valley.json](./260647-planet-valley.json) |
 | Planet Wars | 207855 | [207855-planet-wars.json](./207855-planet-wars.json) |
 | Planet Waves | 177001 | [177001-planet-waves.json](./177001-planet-waves.json) |
@@ -4332,6 +4333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plutonia 4: Back to Your Hole | 260952 | [260952-plutonia-4-back-to-your-hole.json](./260952-plutonia-4-back-to-your-hole.json) |
 | Plutonia 7: Going to the Hell | 260953 | [260953-plutonia-7-going-to-the-hell.json](./260953-plutonia-7-going-to-the-hell.json) |
 | Plutonia: Revisited Community Project | 138167 | [138167-plutonia-revisited-community-project.json](./138167-plutonia-revisited-community-project.json) |
+| Plutonium Pirates | 102363 | [102363-plutonium-pirates.json](./102363-plutonium-pirates.json) |
 | Plutonium T6 Multiplayer | 315118 | [315118-plutonium-t6-multiplayer.json](./315118-plutonium-t6-multiplayer.json) |
 | Ply | 178950 | [178950-ply.json](./178950-ply.json) |
 | PMC: Net Zero | 377277 | [377277-pmc-net-zero.json](./377277-pmc-net-zero.json) |
@@ -6220,6 +6222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Run and Gun | 33672 | [33672-prison-run-and-gun.json](./33672-prison-run-and-gun.json) |
 | Prison Survival: Architect of Crime Simulator | 259052 | [259052-prison-survival-architect-of-crime-simulator.json](./259052-prison-survival-architect-of-crime-simulator.json) |
 | Prison Survival: Inmate Life Simulator | 317437 | [317437-prison-survival-inmate-life-simulator.json](./317437-prison-survival-inmate-life-simulator.json) |
+| Prison Test | 102369 | [102369-prison-test.json](./102369-prison-test.json) |
 | Prison Tycoon 4: Supermax | 14882 | [14882-prison-tycoon-4-supermax.json](./14882-prison-tycoon-4-supermax.json) |
 | Prison Tycoon: Alcatraz | 14883 | [14883-prison-tycoon-alcatraz.json](./14883-prison-tycoon-alcatraz.json) |
 | Prison Tycoon: Under New Management | 152405 | [152405-prison-tycoon-under-new-management.json](./152405-prison-tycoon-under-new-management.json) |
