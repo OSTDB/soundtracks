@@ -2369,6 +2369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NinjaThea 2 | 341479 | [341479-ninjathea-2.json](./341479-ninjathea-2.json) |
 | Ninjatown | 2825 | [2825-ninjatown.json](./2825-ninjatown.json) |
 | Ninjatown: Trees of Doom! | 21755 | [21755-ninjatown-trees-of-doom.json](./21755-ninjatown-trees-of-doom.json) |
+| NinJump Dash | 60073 | [60073-ninjump-dash.json](./60073-ninjump-dash.json) |
 | NinJump Rush | 220828 | [220828-ninjump-rush.json](./220828-ninjump-rush.json) |
 | Ninki Seiyuu no Tsukurikata: Limited Edition | 167153 | [167153-ninki-seiyuu-no-tsukurikata-limited-edition.json](./167153-ninki-seiyuu-no-tsukurikata-limited-edition.json) |
 | Ninku | 248111 | [248111-ninku.json](./248111-ninku.json) |
@@ -2703,6 +2704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobu Jump | 383934 | [383934-nobu-jump.json](./383934-nobu-jump.json) |
 | Nobunaga Mahjong | 133794 | [133794-nobunaga-mahjong.json](./133794-nobunaga-mahjong.json) |
 | Nobunaga no Yabou | 131537 | [131537-nobunaga-no-yabou.json](./131537-nobunaga-no-yabou.json) |
+| Nobunaga no Yabou 2 | 60088 | [60088-nobunaga-no-yabou-2.json](./60088-nobunaga-no-yabou-2.json) |
 | Nobunaga no Yabou 201X | 61101 | [61101-nobunaga-no-yabou-201x.json](./61101-nobunaga-no-yabou-201x.json) |
 | Nobunaga no Yabou DS 2 | 59379 | [59379-nobunaga-no-yabou-ds-2.json](./59379-nobunaga-no-yabou-ds-2.json) |
 | Nobunaga no Yabou: Bushou Fuuunroku | 307153 | [307153-nobunaga-no-yabou-bushou-fuuunroku.json](./307153-nobunaga-no-yabou-bushou-fuuunroku.json) |
