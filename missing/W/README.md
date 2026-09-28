@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walden Horde | 159746 | [159746-walden-horde.json](./159746-walden-horde.json) |
 | Waldo: In the Heart of the City | 381285 | [381285-waldo-in-the-heart-of-the-city.json](./381285-waldo-in-the-heart-of-the-city.json) |
 | Wales Interactive Publisher Bundle | 301564 | [301564-wales-interactive-publisher-bundle.json](./301564-wales-interactive-publisher-bundle.json) |
+| Wales Interactive VR Bundle | 119086 | [119086-wales-interactive-vr-bundle.json](./119086-wales-interactive-vr-bundle.json) |
 | Walfie's Nonograms | 389599 | [389599-walfies-nonograms.json](./389599-walfies-nonograms.json) |
 | Waligie 3: On Mars | 318032 | [318032-waligie-3-on-mars.json](./318032-waligie-3-on-mars.json) |
 | Walk Home | 183069 | [183069-walk-home.json](./183069-walk-home.json) |
@@ -860,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors Orochi | 7242 | [7242-warriors-orochi.json](./7242-warriors-orochi.json) |
 | Warriors Orochi 3 | 5324 | [5324-warriors-orochi-3.json](./5324-warriors-orochi-3.json) |
 | Warriors Orochi 4 | 93746 | [93746-warriors-orochi-4.json](./93746-warriors-orochi-4.json) |
+| Warriors Orochi 4: Deluxe Edition | 118941 | [118941-warriors-orochi-4-deluxe-edition.json](./118941-warriors-orochi-4-deluxe-edition.json) |
 | Warriors Orochi 4: Scenario Pack | 237975 | [237975-warriors-orochi-4-scenario-pack.json](./237975-warriors-orochi-4-scenario-pack.json) |
 | Warriors Orochi 4: Scenario Pack 1 | 252804 | [252804-warriors-orochi-4-scenario-pack-1.json](./252804-warriors-orochi-4-scenario-pack-1.json) |
 | Warriors Waifus Mahjong | 336559 | [336559-warriors-waifus-mahjong.json](./336559-warriors-waifus-mahjong.json) |
@@ -3900,6 +3902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wunderverse | 106359 | [106359-wunderverse.json](./106359-wunderverse.json) |
 | Wunkfall | 413887 | [413887-wunkfall.json](./413887-wunkfall.json) |
 | Wuppo: Definitive Edition | 124120 | [124120-wuppo-definitive-edition.json](./124120-wuppo-definitive-edition.json) |
+| Wuppo: Super Deluxe Edition | 118903 | [118903-wuppo-super-deluxe-edition.json](./118903-wuppo-super-deluxe-edition.json) |
 | Wurd Torn | 58230 | [58230-wurd-torn.json](./58230-wurd-torn.json) |
 | Wurdweb | 165047 | [165047-wurdweb.json](./165047-wurdweb.json) |
 | Wurmus | 181389 | [181389-wurmus.json](./181389-wurmus.json) |
