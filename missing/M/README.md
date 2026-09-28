@@ -5633,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Insideout | 331882 | [331882-mirror-insideout.json](./331882-mirror-insideout.json) |
 | Mirror Land | 197631 | [197631-mirror-land.json](./197631-mirror-land.json) |
 | Mirror Land | 91986 | [91986-mirror-land.json](./91986-mirror-land.json) |
+| Mirror Layers | 98557 | [98557-mirror-layers.json](./98557-mirror-layers.json) |
 | Mirror Match | 363965 | [363965-mirror-match.json](./363965-mirror-match.json) |
 | Mirror Mirror | 340938 | [340938-mirror-mirror.json](./340938-mirror-mirror.json) |
 | Mirror Mysteries | 17204 | [17204-mirror-mysteries.json](./17204-mirror-mysteries.json) |
@@ -6581,6 +6582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Forest | 383949 | [383949-monster-forest.json](./383949-monster-forest.json) |
 | Monster Fruit Academy | 187864 | [187864-monster-fruit-academy.json](./187864-monster-fruit-academy.json) |
 | Monster Galaxy | 197943 | [197943-monster-galaxy.json](./197943-monster-galaxy.json) |
+| Monster Galaxy: The Zodiac Islands | 98577 | [98577-monster-galaxy-the-zodiac-islands.json](./98577-monster-galaxy-the-zodiac-islands.json) |
 | Monster Gals: Voyage | 373100 | [373100-monster-gals-voyage.json](./373100-monster-gals-voyage.json) |
 | Monster Girl 2 | 237291 | [237291-monster-girl-2.json](./237291-monster-girl-2.json) |
 | Monster Girl Clinic | 412305 | [412305-monster-girl-clinic.json](./412305-monster-girl-clinic.json) |
@@ -7550,6 +7552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motto Shiritai Kodai Egypt | 276471 | [276471-motto-shiritai-kodai-egypt.json](./276471-motto-shiritai-kodai-egypt.json) |
 | Motto Shiritai Nippon no Meijou | 261369 | [261369-motto-shiritai-nippon-no-meijou.json](./261369-motto-shiritai-nippon-no-meijou.json) |
 | Motto! SoniComi | 93600 | [93600-motto-sonicomi.json](./93600-motto-sonicomi.json) |
+| Motto! Stitch! DS: Rhythm de Rakugaki Daisakusen | 98569 | [98569-motto-stitch-ds-rhythm-de-rakugaki-daisakusen.json](./98569-motto-stitch-ds-rhythm-de-rakugaki-daisakusen.json) |
 | Motto!? Fushigi no Gensoukyou Plus: The Dungeon of Dreams and Magic | 206938 | [206938-motto-fushigi-no-gensoukyou-plus-the-dungeon-of-dreams-and-magic.json](./206938-motto-fushigi-no-gensoukyou-plus-the-dungeon-of-dreams-and-magic.json) |
 | Motto!? Fushigi no Gensoukyou Prologue: Chijou kara no Kyoui | 206939 | [206939-motto-fushigi-no-gensoukyou-prologue-chijou-kara-no-kyoui.json](./206939-motto-fushigi-no-gensoukyou-prologue-chijou-kara-no-kyoui.json) |
 | Motto!? Fushigi no Gensoukyou: Under the Moonlight | 206935 | [206935-motto-fushigi-no-gensoukyou-under-the-moonlight.json](./206935-motto-fushigi-no-gensoukyou-under-the-moonlight.json) |
