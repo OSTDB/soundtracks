@@ -3466,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anarchy: Wolf's Law - Summer Adventure | 226222 | [226222-anarchy-wolfs-law-summer-adventure.json](./226222-anarchy-wolfs-law-summer-adventure.json) |
 | AnarchyField: Infinite Euphoric Level Destruction | 273639 | [273639-anarchyfield-infinite-euphoric-level-destruction.json](./273639-anarchyfield-infinite-euphoric-level-destruction.json) |
 | Anarcute | 20471 | [20471-anarcute.json](./20471-anarcute.json) |
+| Anark.io | 95592 | [95592-anark-io.json](./95592-anark-io.json) |
 | Anasozas: Another Surreal World | 379449 | [379449-anasozas-another-surreal-world.json](./379449-anasozas-another-surreal-world.json) |
 | Anastasia | 208394 | [208394-anastasia.json](./208394-anastasia.json) |
 | Anastasia to 7-nin no Himegami: Inmon no Rakuin | 108978 | [108978-anastasia-to-7-nin-no-himegami-inmon-no-rakuin.json](./108978-anastasia-to-7-nin-no-himegami-inmon-no-rakuin.json) |
@@ -4157,6 +4158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Attack: Woudrichem War | 270685 | [270685-another-attack-woudrichem-war.json](./270685-another-attack-woudrichem-war.json) |
 | Another Big Base Attacked | 270694 | [270694-another-big-base-attacked.json](./270694-another-big-base-attacked.json) |
 | Another Boss Battle Test | 214716 | [214716-another-boss-battle-test.json](./214716-another-boss-battle-test.json) |
+| Another Brick in Space | 95601 | [95601-another-brick-in-space.json](./95601-another-brick-in-space.json) |
 | Another Case Solved | 38915 | [38915-another-case-solved.json](./38915-another-case-solved.json) |
 | Another Century's Episode | 9566 | [9566-another-centurys-episode.json](./9566-another-centurys-episode.json) |
 | Another Century's Episode: R | 7270 | [7270-another-centurys-episode-r.json](./7270-another-centurys-episode-r.json) |
@@ -5713,6 +5715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Solitaire | 347884 | [347884-art-of-solitaire.json](./347884-art-of-solitaire.json) |
 | Art of Stunt | 286095 | [286095-art-of-stunt.json](./286095-art-of-stunt.json) |
 | Art of the Rail | 153400 | [153400-art-of-the-rail.json](./153400-art-of-the-rail.json) |
+| Art of War 3: Global Conflict | 95558 | [95558-art-of-war-3-global-conflict.json](./95558-art-of-war-3-global-conflict.json) |
 | Art Puzzle | 354421 | [354421-art-puzzle.json](./354421-art-puzzle.json) |
 | Art Sqool | 110421 | [110421-art-sqool.json](./110421-art-sqool.json) |
 | Art Strikers | 316070 | [316070-art-strikers.json](./316070-art-strikers.json) |
