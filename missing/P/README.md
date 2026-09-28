@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Trail | 142561 | [142561-paper-trail.json](./142561-paper-trail.json) |
 | Paper Train | 63251 | [63251-paper-train.json](./63251-paper-train.json) |
 | Paper Train: Traffic | 18172 | [18172-paper-train-traffic.json](./18172-paper-train-traffic.json) |
+| Paper Valley | 102920 | [102920-paper-valley.json](./102920-paper-valley.json) |
 | Paper Wars: Cannon Fodder Devastated | 88328 | [88328-paper-wars-cannon-fodder-devastated.json](./88328-paper-wars-cannon-fodder-devastated.json) |
 | Paper World Escape | 315685 | [315685-paper-world-escape.json](./315685-paper-world-escape.json) |
 | Paper World Escape 2 | 315686 | [315686-paper-world-escape-2.json](./315686-paper-world-escape-2.json) |
@@ -7515,6 +7516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putin Life | 130049 | [130049-putin-life.json](./130049-putin-life.json) |
 | Putin takes taxes | 86569 | [86569-putin-takes-taxes.json](./86569-putin-takes-taxes.json) |
 | Putin, Boobs and Trump | 96940 | [96940-putin-boobs-and-trump.json](./96940-putin-boobs-and-trump.json) |
+| Putinization | 102919 | [102919-putinization.json](./102919-putinization.json) |
 | Putrefaction | 26533 | [26533-putrefaction.json](./26533-putrefaction.json) |
 | Putrefaction 2: Rumble in the Hometown | 68797 | [68797-putrefaction-2-rumble-in-the-hometown.json](./68797-putrefaction-2-rumble-in-the-hometown.json) |
 | Putrefier | 256824 | [256824-putrefier.json](./256824-putrefier.json) |
