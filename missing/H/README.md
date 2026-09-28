@@ -1323,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headlines from the Deep | 177312 | [177312-headlines-from-the-deep.json](./177312-headlines-from-the-deep.json) |
 | Headlong Hunt | 152226 | [152226-headlong-hunt.json](./152226-headlong-hunt.json) |
 | Headmaster: The Lost Lessons | 174186 | [174186-headmaster-the-lost-lessons.json](./174186-headmaster-the-lost-lessons.json) |
+| HeadOn! | 93729 | [93729-headon.json](./93729-headon.json) |
 | Headpat Special Taskforce | 400320 | [400320-headpat-special-taskforce.json](./400320-headpat-special-taskforce.json) |
 | Headpunk: The Comic-Style Battle Chaos | 192699 | [192699-headpunk-the-comic-style-battle-chaos.json](./192699-headpunk-the-comic-style-battle-chaos.json) |
 | Headquarters: World War II - Ardennes | 324926 | [324926-headquarters-world-war-ii-ardennes.json](./324926-headquarters-world-war-ii-ardennes.json) |
