@@ -2348,6 +2348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goalie Madness | 226712 | [226712-goalie-madness.json](./226712-goalie-madness.json) |
 | Goalie VR | 67936 | [67936-goalie-vr.json](./67936-goalie-vr.json) |
 | Goalienator | 148461 | [148461-goalienator.json](./148461-goalienator.json) |
+| Goalkeeper VR Challenge | 112499 | [112499-goalkeeper-vr-challenge.json](./112499-goalkeeper-vr-challenge.json) |
 | GoalkeepVr | 29946 | [29946-goalkeepvr.json](./29946-goalkeepvr.json) |
 | goalunited PRO | 29778 | [29778-goalunited-pro.json](./29778-goalunited-pro.json) |
 | Goat Detective Supah Star | 115453 | [115453-goat-detective-supah-star.json](./115453-goat-detective-supah-star.json) |
