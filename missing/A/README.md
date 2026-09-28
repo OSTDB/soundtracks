@@ -456,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tithe in Blood | 304683 | [304683-a-tithe-in-blood.json](./304683-a-tithe-in-blood.json) |
 | A Tofu Tail | 58803 | [58803-a-tofu-tail.json](./58803-a-tofu-tail.json) |
 | A Tome in the Attic | 363975 | [363975-a-tome-in-the-attic.json](./363975-a-tome-in-the-attic.json) |
+| A Top-Down Job: Blood Gain | 109866 | [109866-a-top-down-job-blood-gain.json](./109866-a-top-down-job-blood-gain.json) |
 | A Total War Saga: Troy | 122649 | [122649-a-total-war-saga-troy.json](./122649-a-total-war-saga-troy.json) |
 | A Total War Saga: Troy - Heroic Edition | 169185 | [169185-a-total-war-saga-troy-heroic-edition.json](./169185-a-total-war-saga-troy-heroic-edition.json) |
 | A Total War Saga: Troy - Limited Edition | 139940 | [139940-a-total-war-saga-troy-limited-edition.json](./139940-a-total-war-saga-troy-limited-edition.json) |
@@ -1248,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure4+ | 305199 | [305199-adventure4.json](./305199-adventure4.json) |
 | Adventurer | 391046 | [391046-adventurer.json](./391046-adventurer.json) |
 | Adventurer Flower | 232935 | [232935-adventurer-flower.json](./232935-adventurer-flower.json) |
+| Adventurer Guild | 109882 | [109882-adventurer-guild.json](./109882-adventurer-guild.json) |
 | Adventurers Shop | 386860 | [386860-adventurers-shop.json](./386860-adventurers-shop.json) |
 | Adventures at the North Pole | 203865 | [203865-adventures-at-the-north-pole.json](./203865-adventures-at-the-north-pole.json) |
 | Adventures in Anglonia | 276708 | [276708-adventures-in-anglonia.json](./276708-adventures-in-anglonia.json) |
@@ -2153,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchademy | 186612 | [186612-alchademy.json](./186612-alchademy.json) |
 | Alchem It | 211268 | [211268-alchem-it.json](./211268-alchem-it.json) |
 | Alchemia | 117032 | [117032-alchemia.json](./117032-alchemia.json) |
+| Alchemia Story | 109917 | [109917-alchemia-story.json](./109917-alchemia-story.json) |
 | Alchemic Cutie | 107171 | [107171-alchemic-cutie.json](./107171-alchemic-cutie.json) |
 | Alchemic Maze | 82492 | [82492-alchemic-maze.json](./82492-alchemic-maze.json) |
 | Alchemica | 369739 | [369739-alchemica.json](./369739-alchemica.json) |
@@ -6316,6 +6319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Bouncer | 103472 | [103472-astro-bouncer.json](./103472-astro-bouncer.json) |
 | Astro Boy Dash | 58274 | [58274-astro-boy-dash.json](./58274-astro-boy-dash.json) |
 | Astro Boy Flight! | 58276 | [58276-astro-boy-flight.json](./58276-astro-boy-flight.json) |
+| Astro Boy: Brick Breaker | 109916 | [109916-astro-boy-brick-breaker.json](./109916-astro-boy-brick-breaker.json) |
 | Astro Boy: Omega Factor | 6310 | [6310-astro-boy-omega-factor.json](./6310-astro-boy-omega-factor.json) |
 | Astro Boy: The Video Game | 4682 | [4682-astro-boy-the-video-game.json](./4682-astro-boy-the-video-game.json) |
 | Astro Burn | 350037 | [350037-astro-burn.json](./350037-astro-burn.json) |
@@ -6381,6 +6385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrohazard Solutions Ltd. | 75772 | [75772-astrohazard-solutions-ltd.json](./75772-astrohazard-solutions-ltd.json) |
 | Astroidle | 336115 | [336115-astroidle.json](./336115-astroidle.json) |
 | Astrojunk | 415320 | [415320-astrojunk.json](./415320-astrojunk.json) |
+| Astrokings | 109915 | [109915-astrokings.json](./109915-astrokings.json) |
 | Astroloco: Worst Contact | 9987 | [9987-astroloco-worst-contact.json](./9987-astroloco-worst-contact.json) |
 | Astrologer | 130963 | [130963-astrologer.json](./130963-astrologer.json) |
 | Astrology DS: The Stars in Your Hands | 315632 | [315632-astrology-ds-the-stars-in-your-hands.json](./315632-astrology-ds-the-stars-in-your-hands.json) |
@@ -6767,6 +6772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attorney Online | 290388 | [290388-attorney-online.json](./290388-attorney-online.json) |
 | Attouteki Yuugi: Mugen Souls Z | 44589 | [44589-attouteki-yuugi-mugen-souls-z.json](./44589-attouteki-yuugi-mugen-souls-z.json) |
 | Attract Fragments 5 | 119747 | [119747-attract-fragments-5.json](./119747-attract-fragments-5.json) |
+| Attractorache | 109904 | [109904-attractorache.json](./109904-attractorache.json) |
 | Attrax | 349381 | [349381-attrax.json](./349381-attrax.json) |
 | Attrition | 378197 | [378197-attrition.json](./378197-attrition.json) |
 | Atum | 128624 | [128624-atum.json](./128624-atum.json) |
