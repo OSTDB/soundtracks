@@ -921,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3SwitcheD | 9934 | [9934-3switched.json](./9934-3switched.json) |
 | 3x3 | 312887 | [312887-3x3.json](./312887-3x3.json) |
 | 3x3 Eyes: Seima Kourin-den | 15886 | [15886-3x3-eyes-seima-kourin-den.json](./15886-3x3-eyes-seima-kourin-den.json) |
+| 3x3 mini-Shogi | 117119 | [117119-3x3-mini-shogi.json](./117119-3x3-mini-shogi.json) |
 | 3X3 Puzzle | 249269 | [249269-3x3-puzzle.json](./249269-3x3-puzzle.json) |
 | 3x3: Take Two | 312889 | [312889-3x3-take-two.json](./312889-3x3-take-two.json) |
 | 4 Colors Classic Multiplayer | 202767 | [202767-4-colors-classic-multiplayer.json](./202767-4-colors-classic-multiplayer.json) |
@@ -948,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Seasons of Doom | 262309 | [262309-4-seasons-of-doom.json](./262309-4-seasons-of-doom.json) |
 | 4 Soccer Simulators | 250292 | [250292-4-soccer-simulators.json](./250292-4-soccer-simulators.json) |
 | 4 Spiele 1 Diskette | 130283 | [130283-4-spiele-1-diskette.json](./130283-4-spiele-1-diskette.json) |
+| 4 Stones | 117177 | [117177-4-stones.json](./117177-4-stones.json) |
 | 4 The Elements | 212898 | [212898-4-the-elements.json](./212898-4-the-elements.json) |
 | 4 Wheel Drive | 245297 | [245297-4-wheel-drive.json](./245297-4-wheel-drive.json) |
 | 4 Wheel Madness | 326748 | [326748-4-wheel-madness.json](./326748-4-wheel-madness.json) |
@@ -1056,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5D Chess With Multiverse Time Travel Chatting | 411803 | [411803-5d-chess-with-multiverse-time-travel-chatting.json](./411803-5d-chess-with-multiverse-time-travel-chatting.json) |
 | 5D Diplomacy with Multiverse Time Travel | 330835 | [330835-5d-diplomacy-with-multiverse-time-travel.json](./330835-5d-diplomacy-with-multiverse-time-travel.json) |
 | 5G VR Football | 191163 | [191163-5g-vr-football.json](./191163-5g-vr-football.json) |
+| 5Leaps (Space Tower Defense) | 117126 | [117126-5leaps-space-tower-defense.json](./117126-5leaps-space-tower-defense.json) |
 | 5omeday | 308954 | [308954-5omeday.json](./308954-5omeday.json) |
 | 5Street | 23640 | [23640-5street.json](./23640-5street.json) |
 | 5th Cataclysm | 334322 | [334322-5th-cataclysm.json](./334322-5th-cataclysm.json) |
