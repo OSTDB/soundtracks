@@ -2500,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overlewd | 253343 | [253343-overlewd.json](./253343-overlewd.json) |
 | Overlight | 62971 | [62971-overlight.json](./62971-overlight.json) |
 | Overload Playable Teaser | 90591 | [90591-overload-playable-teaser.json](./90591-overload-playable-teaser.json) |
+| Overlook Trail | 93732 | [93732-overlook-trail.json](./93732-overlook-trail.json) |
 | Overlook: Local multiplayer game up to 16 players | 78112 | [78112-overlook-local-multiplayer-game-up-to-16-players.json](./78112-overlook-local-multiplayer-game-up-to-16-players.json) |
 | Overloop | 75025 | [75025-overloop.json](./75025-overloop.json) |
 | Overlooting | 334898 | [334898-overlooting.json](./334898-overlooting.json) |
