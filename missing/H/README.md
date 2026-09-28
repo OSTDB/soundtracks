@@ -2675,6 +2675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex | 72028 | [72028-hex.json](./72028-hex.json) |
 | Hex & Agon | 144351 | [144351-hex-and-agon.json](./144351-hex-and-agon.json) |
 | Hex and Chill | 335365 | [335365-hex-and-chill.json](./335365-hex-and-chill.json) |
+| Hex Blocks Puzzle | 101754 | [101754-hex-blocks-puzzle.json](./101754-hex-blocks-puzzle.json) |
 | Hex For Hire | 182925 | [182925-hex-for-hire.json](./182925-hex-for-hire.json) |
 | Hex Gambit | 70704 | [70704-hex-gambit.json](./70704-hex-gambit.json) |
 | Hex Mahjong 3D | 200133 | [200133-hex-mahjong-3d.json](./200133-hex-mahjong-3d.json) |
@@ -3883,6 +3884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Safety Hotline: Seasonal Worker | 317001 | [317001-home-safety-hotline-seasonal-worker.json](./317001-home-safety-hotline-seasonal-worker.json) |
 | Home Simulator | 292169 | [292169-home-simulator.json](./292169-home-simulator.json) |
 | Home Snatch | 311791 | [311791-home-snatch.json](./311791-home-snatch.json) |
+| Home Story: 1971 | 101747 | [101747-home-story-1971.json](./101747-home-story-1971.json) |
 | Home Street: Dream House Sim | 90555 | [90555-home-street-dream-house-sim.json](./90555-home-street-dream-house-sim.json) |
 | Home Sweet Home | 346116 | [346116-home-sweet-home.json](./346116-home-sweet-home.json) |
 | Home Sweet Home | 346758 | [346758-home-sweet-home.json](./346758-home-sweet-home.json) |
