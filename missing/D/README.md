@@ -4876,6 +4876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogz: Fashion | 49403 | [49403-dogz-fashion.json](./49403-dogz-fashion.json) |
 | Dohyo Dreams: Rise to Yokozuna | 381604 | [381604-dohyo-dreams-rise-to-yokozuna.json](./381604-dohyo-dreams-rise-to-yokozuna.json) |
 | Dojagi: The Korean Pottery | 112371 | [112371-dojagi-the-korean-pottery.json](./112371-dojagi-the-korean-pottery.json) |
+| Dojini | 108041 | [108041-dojini.json](./108041-dojini.json) |
 | Dojo Assault | 249847 | [249847-dojo-assault.json](./249847-dojo-assault.json) |
 | Dojo Corridor | 147350 | [147350-dojo-corridor.json](./147350-dojo-corridor.json) |
 | Doka 2 Trade | 126439 | [126439-doka-2-trade.json](./126439-doka-2-trade.json) |
@@ -7139,6 +7140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dry Sorrow | 271783 | [271783-dry-sorrow.json](./271783-dry-sorrow.json) |
 | Drybreed | 180715 | [180715-drybreed.json](./180715-drybreed.json) |
 | Drying Paint Simulator VR | 129003 | [129003-drying-paint-simulator-vr.json](./129003-drying-paint-simulator-vr.json) |
+| Drymir Cave under Richmordnom | 108032 | [108032-drymir-cave-under-richmordnom.json](./108032-drymir-cave-under-richmordnom.json) |
 | Drynk: Board and Drinking Game | 180146 | [180146-drynk-board-and-drinking-game.json](./180146-drynk-board-and-drinking-game.json) |
 | DS Bimoji Training | 306436 | [306436-ds-bimoji-training.json](./306436-ds-bimoji-training.json) |
 | DS de Classic Kiite Mimasenka | 269551 | [269551-ds-de-classic-kiite-mimasenka.json](./269551-ds-de-classic-kiite-mimasenka.json) |
