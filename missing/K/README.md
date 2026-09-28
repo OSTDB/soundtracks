@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kengohazard 2 | 118418 | [118418-kengohazard-2.json](./118418-kengohazard-2.json) |
 | Kenja no Ishi | 373029 | [373029-kenja-no-ishi.json](./373029-kenja-no-ishi.json) |
 | Kenka Bancho | 91387 | [91387-kenka-bancho.json](./91387-kenka-bancho.json) |
+| Kenka Bancho 4: Ichinen Sensou | 81473 | [81473-kenka-bancho-4-ichinen-sensou.json](./81473-kenka-bancho-4-ichinen-sensou.json) |
 | Kenka Banchou Otome 2nd Rumble!! | 109571 | [109571-kenka-banchou-otome-2nd-rumble.json](./109571-kenka-banchou-otome-2nd-rumble.json) |
 | Kenka Banchou Otome: Kanzen Muketsu no My Honey | 54743 | [54743-kenka-banchou-otome-kanzen-muketsu-no-my-honey.json](./54743-kenka-banchou-otome-kanzen-muketsu-no-my-honey.json) |
 | Kenka ga Tsuyokute Cool de Tsuyoki no Furyou Kanojo ga Yowai Boku o Kabatte Kegasaremasu | 82481 | [82481-kenka-ga-tsuyokute-cool-de-tsuyoki-no-furyou-kanojo-ga-yowai-boku-o-kabatte-kegasaremasu.json](./82481-kenka-ga-tsuyokute-cool-de-tsuyoki-no-furyou-kanojo-ga-yowai-boku-o-kabatte-kegasaremasu.json) |
