@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Robot | 394229 | [394229-paper-robot.json](./394229-paper-robot.json) |
 | Paper Shakespeare: Loves Labor(s) Lost | 102158 | [102158-paper-shakespeare-loves-labor-s-lost.json](./102158-paper-shakespeare-loves-labor-s-lost.json) |
 | Paper Shakespeare: Stick Julius Caesar (With a Dagger) - War on Xmas | 156179 | [156179-paper-shakespeare-stick-julius-caesar-with-a-dagger-war-on-xmas.json](./156179-paper-shakespeare-stick-julius-caesar-with-a-dagger-war-on-xmas.json) |
+| Paper Shakespeare: The Legend of Rainbow Hollow | 118256 | [118256-paper-shakespeare-the-legend-of-rainbow-hollow.json](./118256-paper-shakespeare-the-legend-of-rainbow-hollow.json) |
 | Paper Shakespeare: To Date or Not to Date? 2 | 127208 | [127208-paper-shakespeare-to-date-or-not-to-date-2.json](./127208-paper-shakespeare-to-date-or-not-to-date-2.json) |
 | Paper Shakespeare: Very Naked Hamlet | 171577 | [171577-paper-shakespeare-very-naked-hamlet.json](./171577-paper-shakespeare-very-naked-hamlet.json) |
 | Paper Snakes | 196808 | [196808-paper-snakes.json](./196808-paper-snakes.json) |
@@ -5050,6 +5051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyfield WW2 | 102148 | [102148-polyfield-ww2.json](./102148-polyfield-ww2.json) |
 | PolyFight | 316278 | [316278-polyfight.json](./316278-polyfight.json) |
 | Polyfuru feat. Marinasu β | 127179 | [127179-polyfuru-feat-marinasu.json](./127179-polyfuru-feat-marinasu.json) |
+| Polyfuru feat. Miya Kamino | 118290 | [118290-polyfuru-feat-miya-kamino.json](./118290-polyfuru-feat-miya-kamino.json) |
 | Polygeddon: Survive | 248035 | [248035-polygeddon-survive.json](./248035-polygeddon-survive.json) |
 | Polyglot Language Learning Quiz | 370760 | [370760-polyglot-language-learning-quiz.json](./370760-polyglot-language-learning-quiz.json) |
 | Polygon | 130203 | [130203-polygon.json](./130203-polygon.json) |
@@ -5099,6 +5101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pompeii | 40774 | [40774-pompeii.json](./40774-pompeii.json) |
 | Pompeii: The Legacy | 315511 | [315511-pompeii-the-legacy.json](./315511-pompeii-the-legacy.json) |
 | Pompom | 173842 | [173842-pompom.json](./173842-pompom.json) |
+| Pon Para and the Great Southern Labyrinth | 118259 | [118259-pon-para-and-the-great-southern-labyrinth.json](./118259-pon-para-and-the-great-southern-labyrinth.json) |
 | Pon Para and the Great Southern Labyrinth: Love and Shadows | 156067 | [156067-pon-para-and-the-great-southern-labyrinth-love-and-shadows.json](./156067-pon-para-and-the-great-southern-labyrinth-love-and-shadows.json) |
 | PoN!: The Armadillo Island | 227789 | [227789-pon-the-armadillo-island.json](./227789-pon-the-armadillo-island.json) |
 | Ponchorado | 391593 | [391593-ponchorado.json](./391593-ponchorado.json) |
@@ -5450,6 +5453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Apocalyptic Mayhem | 16229 | [16229-post-apocalyptic-mayhem.json](./16229-post-apocalyptic-mayhem.json) |
 | Post Cards | 142994 | [142994-post-cards.json](./142994-post-cards.json) |
 | Post Ghost | 307717 | [307717-post-ghost.json](./307717-post-ghost.json) |
+| Post Hello | 118449 | [118449-post-hello.json](./118449-post-hello.json) |
 | Post Hero | 239923 | [239923-post-hero.json](./239923-post-hero.json) |
 | Post Impact | 395188 | [395188-post-impact.json](./395188-post-impact.json) |
 | Post Memory | 318530 | [318530-post-memory.json](./318530-post-memory.json) |
