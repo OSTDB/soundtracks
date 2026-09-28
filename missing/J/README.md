@@ -1223,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ju-on: The Grudge | 4945 | [4945-ju-on-the-grudge.json](./4945-ju-on-the-grudge.json) |
 | Juanito Arcade Mayhem | 36629 | [36629-juanito-arcade-mayhem.json](./36629-juanito-arcade-mayhem.json) |
 | Jubeat Clan | 125280 | [125280-jubeat-clan.json](./125280-jubeat-clan.json) |
+| Jubeat Knit | 92070 | [92070-jubeat-knit.json](./92070-jubeat-knit.json) |
 | Jubeat Plus | 76996 | [76996-jubeat-plus.json](./76996-jubeat-plus.json) |
 | Jubeat Prop | 268568 | [268568-jubeat-prop.json](./268568-jubeat-prop.json) |
 | Jubeat Ripples | 91903 | [91903-jubeat-ripples.json](./91903-jubeat-ripples.json) |
@@ -1288,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumanji: The Curse Returns - Welcome to the Jungle | 210870 | [210870-jumanji-the-curse-returns-welcome-to-the-jungle.json](./210870-jumanji-the-curse-returns-welcome-to-the-jungle.json) |
 | Jumara | 393498 | [393498-jumara.json](./393498-jumara.json) |
 | Jumble Blocks | 58507 | [58507-jumble-blocks.json](./58507-jumble-blocks.json) |
+| Jumble Madness | 92053 | [92053-jumble-madness.json](./92053-jumble-madness.json) |
 | Jumbled Manifesto | 176252 | [176252-jumbled-manifesto.json](./176252-jumbled-manifesto.json) |
 | Jumbline 2 | 86729 | [86729-jumbline-2.json](./86729-jumbline-2.json) |
 | Jumbo Pumbo | 341471 | [341471-jumbo-pumbo.json](./341471-jumbo-pumbo.json) |
@@ -1530,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junk: The Legend of Junichi Kato | 164235 | [164235-junk-the-legend-of-junichi-kato.json](./164235-junk-the-legend-of-junichi-kato.json) |
 | Junkcity Factory Simulator | 326397 | [326397-junkcity-factory-simulator.json](./326397-junkcity-factory-simulator.json) |
 | Junkineering | 320866 | [320866-junkineering.json](./320866-junkineering.json) |
+| Junkland Jam | 92097 | [92097-junkland-jam.json](./92097-junkland-jam.json) |
 | Junklands | 284897 | [284897-junklands.json](./284897-junklands.json) |
 | Junkman Simulator | 153971 | [153971-junkman-simulator.json](./153971-junkman-simulator.json) |
 | JunkMetal | 283818 | [283818-junkmetal.json](./283818-junkmetal.json) |
