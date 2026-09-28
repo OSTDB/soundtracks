@@ -2020,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Performous | 63242 | [63242-performous.json](./63242-performous.json) |
 | Perfume Atelier | 366944 | [366944-perfume-atelier.json](./366944-perfume-atelier.json) |
 | Perhaps When We Dream | 114945 | [114945-perhaps-when-we-dream.json](./114945-perhaps-when-we-dream.json) |
+| Peria Chronicles | 61692 | [61692-peria-chronicles.json](./61692-peria-chronicles.json) |
 | Perigee | 83950 | [83950-perigee.json](./83950-perigee.json) |
 | Peril | 177036 | [177036-peril.json](./177036-peril.json) |
 | Peril | 197786 | [197786-peril.json](./197786-peril.json) |
@@ -3567,6 +3568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Manager: Football 2021 | 256230 | [256230-pixel-manager-football-2021.json](./256230-pixel-manager-football-2021.json) |
 | Pixel Miner | 333639 | [333639-pixel-miner.json](./333639-pixel-miner.json) |
 | Pixel Ninja | 160163 | [160163-pixel-ninja.json](./160163-pixel-ninja.json) |
+| Pixel Noir | 61721 | [61721-pixel-noir.json](./61721-pixel-noir.json) |
 | Pixel of War | 294424 | [294424-pixel-of-war.json](./294424-pixel-of-war.json) |
 | Pixel Origin | 104654 | [104654-pixel-origin.json](./104654-pixel-origin.json) |
 | Pixel Paint | 84818 | [84818-pixel-paint.json](./84818-pixel-paint.json) |
@@ -5006,6 +5008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Pretty Girls Battle: Texas Hold'em | 34324 | [34324-poker-pretty-girls-battle-texas-holdem.json](./34324-poker-pretty-girls-battle-texas-holdem.json) |
 | Poker Squ♠res | 81285 | [81285-poker-squ-res.json](./81285-poker-squ-res.json) |
 | Poker Squares | 131523 | [131523-poker-squares.json](./131523-poker-squares.json) |
+| Poker Superstars: Invitational Tournament | 61699 | [61699-poker-superstars-invitational-tournament.json](./61699-poker-superstars-invitational-tournament.json) |
 | Poker Supreme: Las Vegas | 174099 | [174099-poker-supreme-las-vegas.json](./174099-poker-supreme-las-vegas.json) |
 | Poker TD | 390103 | [390103-poker-td.json](./390103-poker-td.json) |
 | Poker Train | 320148 | [320148-poker-train.json](./320148-poker-train.json) |
@@ -6810,6 +6813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Labyrinth | 236515 | [236515-project-labyrinth.json](./236515-project-labyrinth.json) |
 | Project Landsword | 331140 | [331140-project-landsword.json](./331140-project-landsword.json) |
 | Project Lazarus | 205275 | [205275-project-lazarus.json](./205275-project-lazarus.json) |
+| Project Legion | 61731 | [61731-project-legion.json](./61731-project-legion.json) |
 | Project Life is RPG | 250919 | [250919-project-life-is-rpg.json](./250919-project-life-is-rpg.json) |
 | Project Light | 84804 | [84804-project-light.json](./84804-project-light.json) |
 | Project Lilith | 396240 | [396240-project-lilith.json](./396240-project-lilith.json) |
