@@ -5837,6 +5837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mandate | 61567 | [61567-the-mandate.json](./61567-the-mandate.json) |
 | The Manhole: New and Enhanced | 73310 | [73310-the-manhole-new-and-enhanced.json](./73310-the-manhole-new-and-enhanced.json) |
 | The Mannequin | 179740 | [179740-the-mannequin.json](./179740-the-mannequin.json) |
+| The Mansion | 106145 | [106145-the-mansion.json](./106145-the-mansion.json) |
 | The Mansion | 159683 | [159683-the-mansion.json](./159683-the-mansion.json) |
 | The Mansion of Hidden Souls | 45522 | [45522-the-mansion-of-hidden-souls.json](./45522-the-mansion-of-hidden-souls.json) |
 | The Mansion of The Macabre | 328470 | [328470-the-mansion-of-the-macabre.json](./328470-the-mansion-of-the-macabre.json) |
@@ -7442,6 +7443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Super Mario Bros. Super Literature Club! | 294438 | [294438-the-super-mario-bros-super-literature-club.json](./294438-the-super-mario-bros-super-literature-club.json) |
 | The Super Mario Bros. Super Show: Mario's Greatest Movie Moments - Quiz Game | 325094 | [325094-the-super-mario-bros-super-show-marios-greatest-movie-moments-quiz-game.json](./325094-the-super-mario-bros-super-show-marios-greatest-movie-moments-quiz-game.json) |
 | The Super Mario Bros. Super Show! 64 | 135268 | [135268-the-super-mario-bros-super-show-64.json](./135268-the-super-mario-bros-super-show-64.json) |
+| The Super Patriotic Dating Simulator | 106117 | [106117-the-super-patriotic-dating-simulator.json](./106117-the-super-patriotic-dating-simulator.json) |
 | The Super Robot Bros | 313134 | [313134-the-super-robot-bros.json](./313134-the-super-robot-bros.json) |
 | The Super Spy | 46838 | [46838-the-super-spy.json](./46838-the-super-spy.json) |
 | The Superfluous | 31953 | [31953-the-superfluous.json](./31953-the-superfluous.json) |
@@ -13470,6 +13472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Night | 41955 | [41955-trivia-night.json](./41955-trivia-night.json) |
 | Trivia Party | 195270 | [195270-trivia-party.json](./195270-trivia-party.json) |
 | Trivia Quest | 256860 | [256860-trivia-quest.json](./256860-trivia-quest.json) |
+| Trivia Quiz: All about everything! | 106156 | [106156-trivia-quiz-all-about-everything.json](./106156-trivia-quiz-all-about-everything.json) |
 | Trivia Replacement Questions | 87219 | [87219-trivia-replacement-questions.json](./87219-trivia-replacement-questions.json) |
 | Trivia Tricks | 140534 | [140534-trivia-tricks.json](./140534-trivia-tricks.json) |
 | Trivia Vault Olympics Trivia | 88201 | [88201-trivia-vault-olympics-trivia.json](./88201-trivia-vault-olympics-trivia.json) |
@@ -14110,6 +14113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turret | 130200 | [130200-turret.json](./130200-turret.json) |
 | Turret Defense King | 317362 | [317362-turret-defense-king.json](./317362-turret-defense-king.json) |
 | Turret Jumper 2 | 183350 | [183350-turret-jumper-2.json](./183350-turret-jumper-2.json) |
+| Turret Tech | 106155 | [106155-turret-tech.json](./106155-turret-tech.json) |
 | TurretCraft | 34272 | [34272-turretcraft.json](./34272-turretcraft.json) |
 | TurretGirls | 347243 | [347243-turretgirls.json](./347243-turretgirls.json) |
 | Turrican 3 | 12803 | [12803-turrican-3.json](./12803-turrican-3.json) |
