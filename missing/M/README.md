@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Trap | 115717 | [115717-mahjong-trap.json](./115717-mahjong-trap.json) |
 | Mahjong Triple Wars Gaiden | 91934 | [91934-mahjong-triple-wars-gaiden.json](./91934-mahjong-triple-wars-gaiden.json) |
 | Mahjong Vanilla Syndrome | 91933 | [91933-mahjong-vanilla-syndrome.json](./91933-mahjong-vanilla-syndrome.json) |
+| Mahjong Venice Mystery Classic | 99179 | [99179-mahjong-venice-mystery-classic.json](./99179-mahjong-venice-mystery-classic.json) |
 | Mahjong Venice Mystery Puzzle | 87715 | [87715-mahjong-venice-mystery-puzzle.json](./87715-mahjong-venice-mystery-puzzle.json) |
 | Mahjong VR | 61605 | [61605-mahjong-vr.json](./61605-mahjong-vr.json) |
 | Mahjong World | 145551 | [145551-mahjong-world.json](./145551-mahjong-world.json) |
@@ -1079,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make your Adventure | 135011 | [135011-make-your-adventure.json](./135011-make-your-adventure.json) |
 | Make Your Kingdom | 112781 | [112781-make-your-kingdom.json](./112781-make-your-kingdom.json) |
 | Make Your Move | 348322 | [348322-make-your-move.json](./348322-make-your-move.json) |
+| Make Zombies Great Again | 99149 | [99149-make-zombies-great-again.json](./99149-make-zombies-great-again.json) |
 | MakeNumber | 94243 | [94243-makenumber.json](./94243-makenumber.json) |
 | Makeover Madness | 210050 | [210050-makeover-madness.json](./210050-makeover-madness.json) |
 | MakerKing | 153379 | [153379-makerking.json](./153379-makerking.json) |
@@ -2339,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match 3 Revolution | 34498 | [34498-match-3-revolution.json](./34498-match-3-revolution.json) |
 | Match 3x3 Collection | 93972 | [93972-match-3x3-collection.json](./93972-match-3x3-collection.json) |
 | Match App! | 347340 | [347340-match-app.json](./347340-match-app.json) |
+| Match Connect Challenge | 99150 | [99150-match-connect-challenge.json](./99150-match-connect-challenge.json) |
 | Match Day & International Match Day | 403172 | [403172-match-day-and-international-match-day.json](./403172-match-day-and-international-match-day.json) |
 | Match Gems Evolved | 101969 | [101969-match-gems-evolved.json](./101969-match-gems-evolved.json) |
 | Match Hit: Puzzle Fighter | 273884 | [273884-match-hit-puzzle-fighter.json](./273884-match-hit-puzzle-fighter.json) |
@@ -2358,6 +2361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Quest: Numbers | 345676 | [345676-match-quest-numbers.json](./345676-match-quest-numbers.json) |
 | Match Shot Chimera | 349290 | [349290-match-shot-chimera.json](./349290-match-shot-chimera.json) |
 | Match the Deck | 197771 | [197771-match-the-deck.json](./197771-match-the-deck.json) |
+| Match Three Fun | 99144 | [99144-match-three-fun.json](./99144-match-three-fun.json) |
 | Match Tree | 282693 | [282693-match-tree.json](./282693-match-tree.json) |
 | Match Up | 81405 | [81405-match-up.json](./81405-match-up.json) |
 | Match Ventures 2 | 234628 | [234628-match-ventures-2.json](./234628-match-ventures-2.json) |
@@ -3002,6 +3006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Cop - Adam and Eva | 101751 | [101751-medieval-cop-adam-and-eva.json](./101751-medieval-cop-adam-and-eva.json) |
 | Medieval Defence | 235997 | [235997-medieval-defence.json](./235997-medieval-defence.json) |
 | Medieval Defenders HD | 175286 | [175286-medieval-defenders-hd.json](./175286-medieval-defenders-hd.json) |
+| Medieval Defenders Saga | 99143 | [99143-medieval-defenders-saga.json](./99143-medieval-defenders-saga.json) |
 | Medieval Delivery | 263519 | [263519-medieval-delivery.json](./263519-medieval-delivery.json) |
 | Medieval Dungeon | 230952 | [230952-medieval-dungeon.json](./230952-medieval-dungeon.json) |
 | Medieval Dynasty: Echoes of Nature | 366852 | [366852-medieval-dynasty-echoes-of-nature.json](./366852-medieval-dynasty-echoes-of-nature.json) |
@@ -4128,6 +4133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Saga | 20521 | [20521-metal-saga.json](./20521-metal-saga.json) |
 | Metal Saga: The Ark of Wastes | 75851 | [75851-metal-saga-the-ark-of-wastes.json](./75851-metal-saga-the-ark-of-wastes.json) |
 | Metal Savior | 342272 | [342272-metal-savior.json](./342272-metal-savior.json) |
+| Metal Shell: Neon Pulse | 99163 | [99163-metal-shell-neon-pulse.json](./99163-metal-shell-neon-pulse.json) |
 | Metal Shock Game | 211206 | [211206-metal-shock-game.json](./211206-metal-shock-game.json) |
 | Metal Slader Glory 2 | 297474 | [297474-metal-slader-glory-2.json](./297474-metal-slader-glory-2.json) |
 | Metal Slug 1st & 2nd Mission Double Pack | 173779 | [173779-metal-slug-1st-and-2nd-mission-double-pack.json](./173779-metal-slug-1st-and-2nd-mission-double-pack.json) |
@@ -5837,6 +5843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistfall | 239042 | [239042-mistfall.json](./239042-mistfall.json) |
 | Mistful Crimson Morning | 341911 | [341911-mistful-crimson-morning.json](./341911-mistful-crimson-morning.json) |
 | Mistia - The Kingdom of Krasten | 140464 | [140464-mistia-the-kingdom-of-krasten.json](./140464-mistia-the-kingdom-of-krasten.json) |
+| Misticheskii Ostrov | 99185 | [99185-misticheskii-ostrov.json](./99185-misticheskii-ostrov.json) |
 | Mistletoe Hotel | 323731 | [323731-mistletoe-hotel.json](./323731-mistletoe-hotel.json) |
 | Mistress Marigold's Home Improvement | 369774 | [369774-mistress-marigolds-home-improvement.json](./369774-mistress-marigolds-home-improvement.json) |
 | Mistress of Maids | 86510 | [86510-mistress-of-maids.json](./86510-mistress-of-maids.json) |
@@ -6964,6 +6971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon64 | 339946 | [339946-moon64.json](./339946-moon64.json) |
 | Moonatees | 29161 | [29161-moonatees.json](./29161-moonatees.json) |
 | Moonbase | 94230 | [94230-moonbase.json](./94230-moonbase.json) |
+| Moonbeeps: Fireflies | 99177 | [99177-moonbeeps-fireflies.json](./99177-moonbeeps-fireflies.json) |
 | Moonblood | 257418 | [257418-moonblood.json](./257418-moonblood.json) |
 | Mooncat's Trio | 308976 | [308976-mooncats-trio.json](./308976-mooncats-trio.json) |
 | Moonchild | 36180 | [36180-moonchild.json](./36180-moonchild.json) |
@@ -7809,6 +7817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Presidents | 208027 | [208027-mr-presidents.json](./208027-mr-presidents.json) |
 | Mr. Prospector Horiate-kun | 270148 | [270148-mr-prospector-horiate-kun.json](./270148-mr-prospector-horiate-kun.json) |
 | Mr. Pumpkin 2: Kowloon Walled City | 126666 | [126666-mr-pumpkin-2-kowloon-walled-city.json](./126666-mr-pumpkin-2-kowloon-walled-city.json) |
+| Mr. Pumpkin Adventure HD | 99172 | [99172-mr-pumpkin-adventure-hd.json](./99172-mr-pumpkin-adventure-hd.json) |
 | Mr. Pumpkin Series Bundle | 173799 | [173799-mr-pumpkin-series-bundle.json](./173799-mr-pumpkin-series-bundle.json) |
 | Mr. Rental: The Video Game | 326592 | [326592-mr-rental-the-video-game.json](./326592-mr-rental-the-video-game.json) |
 | Mr. Rescue | 51222 | [51222-mr-rescue.json](./51222-mr-rescue.json) |
