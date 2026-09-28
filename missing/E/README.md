@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ed, Edd n Eddy: Scam of the Century | 2817 | [2817-ed-edd-n-eddy-scam-of-the-century.json](./2817-ed-edd-n-eddy-scam-of-the-century.json) |
 | Ed, Edd n Eddy: The Mis-Edventures | 2722 | [2722-ed-edd-n-eddy-the-mis-edventures.json](./2722-ed-edd-n-eddy-the-mis-edventures.json) |
 | Ed, Edd n Eddy's Candy Machine Deluxe | 196798 | [196798-ed-edd-n-eddys-candy-machine-deluxe.json](./196798-ed-edd-n-eddys-candy-machine-deluxe.json) |
+| Edd the Duck! | 79981 | [79981-edd-the-duck.json](./79981-edd-the-duck.json) |
 | Edda Café | 144115 | [144115-edda-cafe.json](./144115-edda-cafe.json) |
 | Edda Physics 1 | 389084 | [389084-edda-physics-1.json](./389084-edda-physics-1.json) |
 | Eddie Hill in the Curse of the Skull Medallion | 146167 | [146167-eddie-hill-in-the-curse-of-the-skull-medallion.json](./146167-eddie-hill-in-the-curse-of-the-skull-medallion.json) |
@@ -1032,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfie | 304867 | [304867-elfie.json](./304867-elfie.json) |
 | Elfin National Park | 341877 | [341877-elfin-national-park.json](./341877-elfin-national-park.json) |
 | Elfland | 246394 | [246394-elfland.json](./246394-elfland.json) |
+| ElfLand | 79982 | [79982-elfland.json](./79982-elfland.json) |
 | Elfland Reloaded: Volume 2 | 303238 | [303238-elfland-reloaded-volume-2.json](./303238-elfland-reloaded-volume-2.json) |
 | Elflock | 326797 | [326797-elflock.json](./326797-elflock.json) |
 | Elfmania | 12062 | [12062-elfmania.json](./12062-elfmania.json) |
