@@ -3961,6 +3961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Finder | 362299 | [362299-planet-finder.json](./362299-planet-finder.json) |
 | Planet Flipper | 394893 | [394893-planet-flipper.json](./394893-planet-flipper.json) |
 | Planet G | 209972 | [209972-planet-g.json](./209972-planet-g.json) |
+| Planet Guardian VR | 76519 | [76519-planet-guardian-vr.json](./76519-planet-guardian-vr.json) |
 | Planet Gula | 145557 | [145557-planet-gula.json](./145557-planet-gula.json) |
 | Planet Harriers | 72972 | [72972-planet-harriers.json](./72972-planet-harriers.json) |
 | Planet Hop | 158082 | [158082-planet-hop.json](./158082-planet-hop.json) |
