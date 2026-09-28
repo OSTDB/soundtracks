@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Secrets Mystery Files | 399627 | [399627-dark-secrets-mystery-files.json](./399627-dark-secrets-mystery-files.json) |
 | Dark Seeker | 151698 | [151698-dark-seeker.json](./151698-dark-seeker.json) |
 | Dark Sentinel | 391739 | [391739-dark-sentinel.json](./391739-dark-sentinel.json) |
+| Dark Shiny | 115754 | [115754-dark-shiny.json](./115754-dark-shiny.json) |
 | Dark Shrine | 230916 | [230916-dark-shrine.json](./230916-dark-shrine.json) |
 | Dark Side of Fate | 155083 | [155083-dark-side-of-fate.json](./155083-dark-side-of-fate.json) |
 | Dark Side of War | 150599 | [150599-dark-side-of-war.json](./150599-dark-side-of-war.json) |
@@ -898,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Within 2: The Dark Lineage - Director's Cut Edition | 36298 | [36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json](./36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json) |
 | DarkOrbit: Reloaded | 23808 | [23808-darkorbit-reloaded.json](./23808-darkorbit-reloaded.json) |
 | Darkout | 10108 | [10108-darkout.json](./10108-darkout.json) |
+| DarkPrison | 115760 | [115760-darkprison.json](./115760-darkprison.json) |
 | Darkrite: The Blight of Love | 386449 | [386449-darkrite-the-blight-of-love.json](./386449-darkrite-the-blight-of-love.json) |
 | Darkroom 2 | 75769 | [75769-darkroom-2.json](./75769-darkroom-2.json) |
 | Darkscrolls | 137648 | [137648-darkscrolls.json](./137648-darkscrolls.json) |
@@ -1027,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Man | 310187 | [310187-data-man.json](./310187-data-man.json) |
 | Data mining | 106584 | [106584-data-mining.json](./106584-data-mining.json) |
 | Data mining 2 | 110974 | [110974-data-mining-2.json](./110974-data-mining-2.json) |
+| Data mining 6 | 115125 | [115125-data-mining-6.json](./115125-data-mining-6.json) |
 | Data Mutations | 108981 | [108981-data-mutations.json](./108981-data-mutations.json) |
 | Data Restored | 383944 | [383944-data-restored.json](./383944-data-restored.json) |
 | Data Strafer | 390239 | [390239-data-strafer.json](./390239-data-strafer.json) |
@@ -4841,6 +4844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogs++ | 180814 | [180814-dogs.json](./180814-dogs.json) |
 | Dogsbody | 13600 | [13600-dogsbody.json](./13600-dogsbody.json) |
 | DogStation | 59441 | [59441-dogstation.json](./59441-dogstation.json) |
+| Dogtown Barkery | 115756 | [115756-dogtown-barkery.json](./115756-dogtown-barkery.json) |
 | Dogu the Adventurer | 253457 | [253457-dogu-the-adventurer.json](./253457-dogu-the-adventurer.json) |
 | Dogville | 272032 | [272032-dogville.json](./272032-dogville.json) |
 | Dogwalk | 348639 | [348639-dogwalk.json](./348639-dogwalk.json) |
@@ -7947,6 +7951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Soccer 2004 Final | 61335 | [61335-dynamite-soccer-2004-final.json](./61335-dynamite-soccer-2004-final.json) |
 | Dynamite Soccer 98 | 61337 | [61337-dynamite-soccer-98.json](./61337-dynamite-soccer-98.json) |
 | Dynamo Frank | 413035 | [413035-dynamo-frank.json](./413035-dynamo-frank.json) |
+| Dynast.io | 115762 | [115762-dynast-io.json](./115762-dynast-io.json) |
 | Dynasty | 278441 | [278441-dynasty.json](./278441-dynasty.json) |
 | Dynasty Feud | 27080 | [27080-dynasty-feud.json](./27080-dynasty-feud.json) |
 | Dynasty Feud: The Night Party | 171406 | [171406-dynasty-feud-the-night-party.json](./171406-dynasty-feud-the-night-party.json) |
