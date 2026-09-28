@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saddle Up: Time to Ride | 64114 | [64114-saddle-up-time-to-ride.json](./64114-saddle-up-time-to-ride.json) |
 | Sadhana | 364598 | [364598-sadhana.json](./364598-sadhana.json) |
 | Sadko | 397674 | [397674-sadko.json](./397674-sadko.json) |
+| Sadness & Solitude | 61149 | [61149-sadness-and-solitude.json](./61149-sadness-and-solitude.json) |
 | Sadness of Valor | 159070 | [159070-sadness-of-valor.json](./159070-sadness-of-valor.json) |
 | Sadoubu (Tea Ceremony Club) | 82946 | [82946-sadoubu-tea-ceremony-club.json](./82946-sadoubu-tea-ceremony-club.json) |
 | Sae | 276177 | [276177-sae.json](./276177-sae.json) |
@@ -2953,6 +2954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Fang | 342273 | [342273-shadow-fang.json](./342273-shadow-fang.json) |
 | Shadow Fate | 191264 | [191264-shadow-fate.json](./191264-shadow-fate.json) |
 | Shadow Fear: Chapter 0 | 168856 | [168856-shadow-fear-chapter-0.json](./168856-shadow-fear-chapter-0.json) |
+| Shadow Fight | 61158 | [61158-shadow-fight.json](./61158-shadow-fight.json) |
 | Shadow Fight 2 | 39244 | [39244-shadow-fight-2.json](./39244-shadow-fight-2.json) |
 | Shadow Fight 2: Special Edition | 68463 | [68463-shadow-fight-2-special-edition.json](./68463-shadow-fight-2-special-edition.json) |
 | Shadow Fight: Arena | 219604 | [219604-shadow-fight-arena.json](./219604-shadow-fight-arena.json) |
@@ -8421,6 +8423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souzou Cliff | 181400 | [181400-souzou-cliff.json](./181400-souzou-cliff.json) |
 | Souzou no Memoria | 396936 | [396936-souzou-no-memoria.json](./396936-souzou-no-memoria.json) |
 | Soverain: An Eternal Legend | 377176 | [377176-soverain-an-eternal-legend.json](./377176-soverain-an-eternal-legend.json) |
+| Sovereign | 61128 | [61128-sovereign.json](./61128-sovereign.json) |
 | Sovereign Brain Empire | 333072 | [333072-sovereign-brain-empire.json](./333072-sovereign-brain-empire.json) |
 | Sovereign Elect | 290506 | [290506-sovereign-elect.json](./290506-sovereign-elect.json) |
 | Sovereign Reign | 276171 | [276171-sovereign-reign.json](./276171-sovereign-reign.json) |
@@ -8810,6 +8813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Robinson | 111807 | [111807-space-robinson.json](./111807-space-robinson.json) |
 | Space Robot | 46895 | [46895-space-robot.json](./46895-space-robot.json) |
 | Space Rocket | 81601 | [81601-space-rocket.json](./81601-space-rocket.json) |
+| Space Rocket Adventurers | 61155 | [61155-space-rocket-adventurers.json](./61155-space-rocket-adventurers.json) |
 | Space Rockets: Spaceship Rocket Simulator | 232180 | [232180-space-rockets-spaceship-rocket-simulator.json](./232180-space-rockets-spaceship-rocket-simulator.json) |
 | Space Rocks! | 277829 | [277829-space-rocks.json](./277829-space-rocks.json) |
 | Space Run | 202768 | [202768-space-run.json](./202768-space-run.json) |
@@ -12430,6 +12434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Gotham City | 272015 | [272015-streets-of-gotham-city.json](./272015-streets-of-gotham-city.json) |
 | Streets of Handbags | 317835 | [317835-streets-of-handbags.json](./317835-streets-of-handbags.json) |
 | Streets of Kamurocho | 140046 | [140046-streets-of-kamurocho.json](./140046-streets-of-kamurocho.json) |
+| Streets of London | 61168 | [61168-streets-of-london.json](./61168-streets-of-london.json) |
 | Streets of Rage | 1652 | [1652-streets-of-rage.json](./1652-streets-of-rage.json) |
 | Streets of Rage | 198650 | [198650-streets-of-rage.json](./198650-streets-of-rage.json) |
 | Streets of Rage 2 | 203318 | [203318-streets-of-rage-2.json](./203318-streets-of-rage-2.json) |
@@ -13696,6 +13701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Haste | 363020 | [363020-super-haste.json](./363020-super-haste.json) |
 | Super Haste | 409791 | [409791-super-haste.json](./409791-super-haste.json) |
 | Super Head Esploder X | 87263 | [87263-super-head-esploder-x.json](./87263-super-head-esploder-x.json) |
+| Super Heavy Sword | 61134 | [61134-super-heavy-sword.json](./61134-super-heavy-sword.json) |
 | Super Helpful Man | 105288 | [105288-super-helpful-man.json](./105288-super-helpful-man.json) |
 | Super Hentai Racers | 208629 | [208629-super-hentai-racers.json](./208629-super-hentai-racers.json) |
 | Super Hero Boy: A Platform Adventure | 248281 | [248281-super-hero-boy-a-platform-adventure.json](./248281-super-hero-boy-a-platform-adventure.json) |
