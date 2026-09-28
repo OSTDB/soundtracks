@@ -1667,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Room: The Flintstones | 279674 | [279674-vr-room-the-flintstones.json](./279674-vr-room-the-flintstones.json) |
 | VR Run | 224546 | [224546-vr-run.json](./224546-vr-run.json) |
 | VR Sailing | 338561 | [338561-vr-sailing.json](./338561-vr-sailing.json) |
+| VR Sand | 115150 | [115150-vr-sand.json](./115150-vr-sand.json) |
 | VR Secretary: Ailey Edition | 338560 | [338560-vr-secretary-ailey-edition.json](./338560-vr-secretary-ailey-edition.json) |
 | VR Shark | 156988 | [156988-vr-shark.json](./156988-vr-shark.json) |
 | VR Shooter Guns | 32867 | [32867-vr-shooter-guns.json](./32867-vr-shooter-guns.json) |
