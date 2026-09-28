@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last | 356627 | [356627-last.json](./356627-last.json) |
 | Last $50 | 400954 | [400954-last-50.json](./400954-last-50.json) |
 | Last 4 Survive: The Outbreak | 287158 | [287158-last-4-survive-the-outbreak.json](./287158-last-4-survive-the-outbreak.json) |
+| Last Alive | 104823 | [104823-last-alive.json](./104823-last-alive.json) |
 | Last Alive | 37363 | [37363-last-alive.json](./37363-last-alive.json) |
 | Last Answer | 30062 | [30062-last-answer.json](./30062-last-answer.json) |
 | Last Antagonist | 361885 | [361885-last-antagonist.json](./361885-last-antagonist.json) |
@@ -3558,6 +3559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lands: Stories of the First Brotherhood | 290430 | [290430-lost-lands-stories-of-the-first-brotherhood.json](./290430-lost-lands-stories-of-the-first-brotherhood.json) |
 | Lost Lands: The Four Horsemen | 35164 | [35164-lost-lands-the-four-horsemen.json](./35164-lost-lands-the-four-horsemen.json) |
 | Lost Lands: The Wanderer | 28654 | [28654-lost-lands-the-wanderer.json](./28654-lost-lands-the-wanderer.json) |
+| Lost Legend | 104822 | [104822-lost-legend.json](./104822-lost-legend.json) |
 | Lost Legions | 304719 | [304719-lost-legions.json](./304719-lost-legions.json) |
 | Lost Life: Origins | 207758 | [207758-lost-life-origins.json](./207758-lost-life-origins.json) |
 | Lost Light | 210887 | [210887-lost-light.json](./210887-lost-light.json) |
@@ -3615,6 +3617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Surreal Hell | 244751 | [244751-lost-surreal-hell.json](./244751-lost-surreal-hell.json) |
 | Lost Sword | 353867 | [353867-lost-sword.json](./353867-lost-sword.json) |
 | Lost Tales: Karai Vosa | 376134 | [376134-lost-tales-karai-vosa.json](./376134-lost-tales-karai-vosa.json) |
+| Lost Tales: The Castle Escape | 104809 | [104809-lost-tales-the-castle-escape.json](./104809-lost-tales-the-castle-escape.json) |
 | Lost Tenet | 260213 | [260213-lost-tenet.json](./260213-lost-tenet.json) |
 | Lost The Lights | 288270 | [288270-lost-the-lights.json](./288270-lost-the-lights.json) |
 | Lost Toys | 62996 | [62996-lost-toys.json](./62996-lost-toys.json) |
