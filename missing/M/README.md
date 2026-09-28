@@ -3514,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megazone 23: Aoi Garland | 7366 | [7366-megazone-23-aoi-garland.json](./7366-megazone-23-aoi-garland.json) |
 | Megdan | 298549 | [298549-megdan.json](./298549-megdan.json) |
 | Megis Adventure | 312670 | [312670-megis-adventure.json](./312670-megis-adventure.json) |
+| Megumichan Ijiwaru? Soretomo Kawaigaru? | 98041 | [98041-megumichan-ijiwaru-soretomo-kawaigaru.json](./98041-megumichan-ijiwaru-soretomo-kawaigaru.json) |
 | Megurine Luka no Jikenbo | 264358 | [264358-megurine-luka-no-jikenbo.json](./264358-megurine-luka-no-jikenbo.json) |
 | Mei Paranormies 2 | 410236 | [410236-mei-paranormies-2.json](./410236-mei-paranormies-2.json) |
 | Mei Qi: Season 6 | 170375 | [170375-mei-qi-season-6.json](./170375-mei-qi-season-6.json) |
@@ -5111,6 +5112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine From Here | 352845 | [352845-mine-from-here.json](./352845-mine-from-here.json) |
 | Mine Hunter | 231918 | [231918-mine-hunter.json](./231918-mine-hunter.json) |
 | Mine Memory | 278412 | [278412-mine-memory.json](./278412-mine-memory.json) |
+| Mine Nueeper Ninin ga Shinobuden | 98028 | [98028-mine-nueeper-ninin-ga-shinobuden.json](./98028-mine-nueeper-ninin-ga-shinobuden.json) |
 | Mine of My Mind | 389970 | [389970-mine-of-my-mind.json](./389970-mine-of-my-mind.json) |
 | Mine of Sight | 101763 | [101763-mine-of-sight.json](./101763-mine-of-sight.json) |
 | Mine Puzzle Pieces of Flower Garden World | 379027 | [379027-mine-puzzle-pieces-of-flower-garden-world.json](./379027-mine-puzzle-pieces-of-flower-garden-world.json) |
@@ -5879,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mitsu x Mitsu Drops: Love x Love Honey Life | 203262 | [203262-mitsu-x-mitsu-drops-love-x-love-honey-life.json](./203262-mitsu-x-mitsu-drops-love-x-love-honey-life.json) |
 | Mitsubachi Gakuen | 107646 | [107646-mitsubachi-gakuen.json](./107646-mitsubachi-gakuen.json) |
 | Mitsuge! Megami-sama | 329951 | [329951-mitsuge-megami-sama.json](./329951-mitsuge-megami-sama.json) |
+| Mitsukikuzushi | 98020 | [98020-mitsukikuzushi.json](./98020-mitsukikuzushi.json) |
 | Mitsume ga Tooru | 202919 | [202919-mitsume-ga-tooru.json](./202919-mitsume-ga-tooru.json) |
 | Mitsume ga Tooru | 48666 | [48666-mitsume-ga-tooru.json](./48666-mitsume-ga-tooru.json) |
 | Mitsumete Knight | 92966 | [92966-mitsumete-knight.json](./92966-mitsumete-knight.json) |
@@ -8808,6 +8811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Slow Life with the Princess Knight and Her Devoted Handmaiden | 270974 | [270974-my-slow-life-with-the-princess-knight-and-her-devoted-handmaiden.json](./270974-my-slow-life-with-the-princess-knight-and-her-devoted-handmaiden.json) |
 | My So-called Future Girlfriend | 112750 | [112750-my-so-called-future-girlfriend.json](./112750-my-so-called-future-girlfriend.json) |
 | My Soldiers | 186852 | [186852-my-soldiers.json](./186852-my-soldiers.json) |
+| My Son Will Be My Boyfriend From Today. | 98011 | [98011-my-son-will-be-my-boyfriend-from-today.json](./98011-my-son-will-be-my-boyfriend-from-today.json) |
 | My Soul Forever | 226177 | [226177-my-soul-forever.json](./226177-my-soul-forever.json) |
 | My Soul Trapped in a WIN98 PC | 274196 | [274196-my-soul-trapped-in-a-win98-pc.json](./274196-my-soul-trapped-in-a-win98-pc.json) |
 | My Spa Resort | 296077 | [296077-my-spa-resort.json](./296077-my-spa-resort.json) |
