@@ -1296,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head AS Code Original Version | 143720 | [143720-head-as-code-original-version.json](./143720-head-as-code-original-version.json) |
 | Head Ball 2 | 99141 | [99141-head-ball-2.json](./99141-head-ball-2.json) |
 | Head Bangerz | 265761 | [265761-head-bangerz.json](./265761-head-bangerz.json) |
+| Head Boxing | 90785 | [90785-head-boxing.json](./90785-head-boxing.json) |
 | Head Bumper: Editcraft | 164428 | [164428-head-bumper-editcraft.json](./164428-head-bumper-editcraft.json) |
 | Head Games | 152351 | [152351-head-games.json](./152351-head-games.json) |
 | Head Games and Tank Battle Retro | 238047 | [238047-head-games-and-tank-battle-retro.json](./238047-head-games-and-tank-battle-retro.json) |
@@ -3057,6 +3058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects: Cartoon Fantasy | 170557 | [170557-hidden-objects-cartoon-fantasy.json](./170557-hidden-objects-cartoon-fantasy.json) |
 | Hidden Objects: Chambord Castle Adventures | 103534 | [103534-hidden-objects-chambord-castle-adventures.json](./103534-hidden-objects-chambord-castle-adventures.json) |
 | Hidden Objects: Coastal Hill Mystery | 115182 | [115182-hidden-objects-coastal-hill-mystery.json](./115182-hidden-objects-coastal-hill-mystery.json) |
+| Hidden Objects: London - My Paradise: My Kitchen | 90802 | [90802-hidden-objects-london-my-paradise-my-kitchen.json](./90802-hidden-objects-london-my-paradise-my-kitchen.json) |
 | Hidden Objects: Messy Kitchen | 233218 | [233218-hidden-objects-messy-kitchen.json](./233218-hidden-objects-messy-kitchen.json) |
 | Hidden Objects: Mystery Tree House - Dog Adventure: Find the Evidence Story | 101970 | [101970-hidden-objects-mystery-tree-house-dog-adventure-find-the-evidence-story.json](./101970-hidden-objects-mystery-tree-house-dog-adventure-find-the-evidence-story.json) |
 | Hidden Objects: Romantic Love - Castle: Scary Mystery Ghost - The Secret Forest | 88266 | [88266-hidden-objects-romantic-love-castle-scary-mystery-ghost-the-secret-forest.json](./88266-hidden-objects-romantic-love-castle-scary-mystery-ghost-the-secret-forest.json) |
@@ -4852,6 +4854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Make a Floating City | 116114 | [116114-how-to-make-a-floating-city.json](./116114-how-to-make-a-floating-city.json) |
 | How to Make an Atomic Bomb in Your Garden | 391727 | [391727-how-to-make-an-atomic-bomb-in-your-garden.json](./391727-how-to-make-an-atomic-bomb-in-your-garden.json) |
 | How to Make Slime: DIY Jelly Toy Play Fun | 96975 | [96975-how-to-make-slime-diy-jelly-toy-play-fun.json](./96975-how-to-make-slime-diy-jelly-toy-play-fun.json) |
+| How to Make Slime: DIY Slime Making for Kids | 90838 | [90838-how-to-make-slime-diy-slime-making-for-kids.json](./90838-how-to-make-slime-diy-slime-making-for-kids.json) |
 | How to Melt a Maiden's Heart | 326280 | [326280-how-to-melt-a-maidens-heart.json](./326280-how-to-melt-a-maidens-heart.json) |
 | How to Raise a Wolf Girl | 122825 | [122825-how-to-raise-a-wolf-girl.json](./122825-how-to-raise-a-wolf-girl.json) |
 | How to Say Goodbye | 126445 | [126445-how-to-say-goodbye.json](./126445-how-to-say-goodbye.json) |
