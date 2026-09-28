@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off and Pacing | 112147 | [112147-off-and-pacing.json](./112147-off-and-pacing.json) |
 | Off Base | 271461 | [271461-off-base.json](./271461-off-base.json) |
 | Off Day | 178501 | [178501-off-day.json](./178501-off-day.json) |
+| Off Grid | 96266 | [96266-off-grid.json](./96266-off-grid.json) |
 | Off Grids | 272255 | [272255-off-grids.json](./272255-off-grids.json) |
 | Off Road | 327579 | [327579-off-road.json](./327579-off-road.json) |
 | Off Road Stars | 372693 | [372693-off-road-stars.json](./372693-off-road-stars.json) |
@@ -1223,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Two Boat Racing | 209407 | [209407-one-two-boat-racing.json](./209407-one-two-boat-racing.json) |
 | One Vacancy | 184039 | [184039-one-vacancy.json](./184039-one-vacancy.json) |
 | One Vision | 132144 | [132144-one-vision.json](./132144-one-vision.json) |
+| One Watcher | 96243 | [96243-one-watcher.json](./96243-one-watcher.json) |
 | One Way Flight | 33002 | [33002-one-way-flight.json](./33002-one-way-flight.json) |
 | One Way Heroics Plus | 147990 | [147990-one-way-heroics-plus.json](./147990-one-way-heroics-plus.json) |
 | One Way Home | 244491 | [244491-one-way-home.json](./244491-one-way-home.json) |
@@ -2336,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outnumbered | 201566 | [201566-outnumbered.json](./201566-outnumbered.json) |
 | Outnumbered | 239904 | [239904-outnumbered.json](./239904-outnumbered.json) |
 | Outnumbered | 55869 | [55869-outnumbered.json](./55869-outnumbered.json) |
+| OutOfColors | 96237 | [96237-outofcolors.json](./96237-outofcolors.json) |
 | Outpath | 229007 | [229007-outpath.json](./229007-outpath.json) |
 | Outpath: First Journey | 236761 | [236761-outpath-first-journey.json](./236761-outpath-first-journey.json) |
 | Outpost | 100123 | [100123-outpost.json](./100123-outpost.json) |
