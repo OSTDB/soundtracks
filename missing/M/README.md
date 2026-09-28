@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 97 | 243264 | [243264-madden-nfl-97.json](./243264-madden-nfl-97.json) |
 | Madden NFL 97 | 243265 | [243265-madden-nfl-97.json](./243265-madden-nfl-97.json) |
 | Madden NFL Football | 6845 | [6845-madden-nfl-football.json](./6845-madden-nfl-football.json) |
+| Madden NFL Football | 80472 | [80472-madden-nfl-football.json](./80472-madden-nfl-football.json) |
 | Madden NFL Mobile | 39182 | [39182-madden-nfl-mobile.json](./39182-madden-nfl-mobile.json) |
 | Maddmadd | 381607 | [381607-maddmadd.json](./381607-maddmadd.json) |
 | Made For | 343241 | [343241-made-for.json](./343241-made-for.json) |
@@ -3724,6 +3725,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories Off | 288774 | [288774-memories-off.json](./288774-memories-off.json) |
 | Memories Off #5: Togireta Film | 288770 | [288770-memories-off-5-togireta-film.json](./288770-memories-off-5-togireta-film.json) |
 | Memories Off 2nd | 288775 | [288775-memories-off-2nd.json](./288775-memories-off-2nd.json) |
+| Memories Off 6 Complete | 80463 | [80463-memories-off-6-complete.json](./80463-memories-off-6-complete.json) |
+| Memories Off 6: Next Relation | 80464 | [80464-memories-off-6-next-relation.json](./80464-memories-off-6-next-relation.json) |
 | Memories Off 6: T-wave | 288772 | [288772-memories-off-6-t-wave.json](./288772-memories-off-6-t-wave.json) |
 | Memories Off 6: T-wave | 7068 | [7068-memories-off-6-t-wave.json](./7068-memories-off-6-t-wave.json) |
 | Memories Off Pure | 43974 | [43974-memories-off-pure.json](./43974-memories-off-pure.json) |
@@ -6939,6 +6942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MontanaBlack Kylo's Rescue | 174274 | [174274-montanablack-kylos-rescue.json](./174274-montanablack-kylos-rescue.json) |
 | Monte Carlo | 40385 | [40385-monte-carlo.json](./40385-monte-carlo.json) |
 | Monterey Jack | 347217 | [347217-monterey-jack.json](./347217-monterey-jack.json) |
+| Montessori Music | 80465 | [80465-montessori-music.json](./80465-montessori-music.json) |
 | Montevisoft | 28198 | [28198-montevisoft.json](./28198-montevisoft.json) |
 | Montezuma Puzzle | 91341 | [91341-montezuma-puzzle.json](./91341-montezuma-puzzle.json) |
 | Montezuma's Quest | 146738 | [146738-montezumas-quest.json](./146738-montezumas-quest.json) |
