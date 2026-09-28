@@ -1367,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wéko The Mask Gatherer | 270724 | [270724-weko-the-mask-gatherer.json](./270724-weko-the-mask-gatherer.json) |
 | Welcome | 368669 | [368669-welcome.json](./368669-welcome.json) |
 | Welcome | 92277 | [92277-welcome.json](./92277-welcome.json) |
+| Welcome Above | 111225 | [111225-welcome-above.json](./111225-welcome-above.json) |
 | Welcome Back | 153992 | [153992-welcome-back.json](./153992-welcome-back.json) |
 | Welcome Demon | 397666 | [397666-welcome-demon.json](./397666-welcome-demon.json) |
 | Welcome Googoo | 330889 | [330889-welcome-googoo.json](./330889-welcome-googoo.json) |
