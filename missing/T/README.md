@@ -2521,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Spider-Man 2 | 196243 | [196243-the-amazing-spider-man-2.json](./196243-the-amazing-spider-man-2.json) |
 | The Amazing Spider-Man 2 | 4755 | [4755-the-amazing-spider-man-2.json](./4755-the-amazing-spider-man-2.json) |
 | The Amazing Spider-Man 2 | 83901 | [83901-the-amazing-spider-man-2.json](./83901-the-amazing-spider-man-2.json) |
+| The Amazing Spider-Man Franchise Pack | 99796 | [99796-the-amazing-spider-man-franchise-pack.json](./99796-the-amazing-spider-man-franchise-pack.json) |
 | The Amazing Spider-Man in the Villain Round-Up | 220113 | [220113-the-amazing-spider-man-in-the-villain-round-up.json](./220113-the-amazing-spider-man-in-the-villain-round-up.json) |
 | The Amazing Spider-Man: Countdown to Doom | 230280 | [230280-the-amazing-spider-man-countdown-to-doom.json](./230280-the-amazing-spider-man-countdown-to-doom.json) |
 | The Amazing World of Gumball Mini Games | 352173 | [352173-the-amazing-world-of-gumball-mini-games.json](./352173-the-amazing-world-of-gumball-mini-games.json) |
@@ -3210,6 +3211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cobalt Palace | 271457 | [271457-the-cobalt-palace.json](./271457-the-cobalt-palace.json) |
 | The Code Zone Retro Pack | 198521 | [198521-the-code-zone-retro-pack.json](./198521-the-code-zone-retro-pack.json) |
 | The Code: Room Escape | 101502 | [101502-the-code-room-escape.json](./101502-the-code-room-escape.json) |
+| The Codemasters 'Full Tilt' Racing Bundle | 99761 | [99761-the-codemasters-full-tilt-racing-bundle.json](./99761-the-codemasters-full-tilt-racing-bundle.json) |
 | The CodFather | 360658 | [360658-the-codfather.json](./360658-the-codfather.json) |
 | The Coffee Shop Collision | 337699 | [337699-the-coffee-shop-collision.json](./337699-the-coffee-shop-collision.json) |
 | The Cold Case | 302140 | [302140-the-cold-case.json](./302140-the-cold-case.json) |
@@ -4457,6 +4459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Mushroom Hunt | 114321 | [114321-the-great-mushroom-hunt.json](./114321-the-great-mushroom-hunt.json) |
 | The Great Ocean | 199519 | [199519-the-great-ocean.json](./199519-the-great-ocean.json) |
 | The Great Race | 55835 | [55835-the-great-race.json](./55835-the-great-race.json) |
+| The Great Race | 99775 | [99775-the-great-race.json](./99775-the-great-race.json) |
 | The Great Rebellion | 290012 | [290012-the-great-rebellion.json](./290012-the-great-rebellion.json) |
 | The Great Smog | 244752 | [244752-the-great-smog.json](./244752-the-great-smog.json) |
 | The Great Song | 179170 | [179170-the-great-song.json](./179170-the-great-song.json) |
@@ -4484,6 +4487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grim Outpost | 271323 | [271323-the-grim-outpost.json](./271323-the-grim-outpost.json) |
 | The Grinch | 15487 | [15487-the-grinch.json](./15487-the-grinch.json) |
 | The Grinding of Teeth | 271852 | [271852-the-grinding-of-teeth.json](./271852-the-grinding-of-teeth.json) |
+| The Grip Games PS Vita Collection | 99795 | [99795-the-grip-games-ps-vita-collection.json](./99795-the-grip-games-ps-vita-collection.json) |
 | The Grizzled: Armistice Digital | 215744 | [215744-the-grizzled-armistice-digital.json](./215744-the-grizzled-armistice-digital.json) |
 | The Ground Division | 139398 | [139398-the-ground-division.json](./139398-the-ground-division.json) |
 | The Grounding | 140506 | [140506-the-grounding.json](./140506-the-grounding.json) |
@@ -5814,6 +5818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mageseeker: A League of Legends Story - Deluxe Edition | 241042 | [241042-the-mageseeker-a-league-of-legends-story-deluxe-edition.json](./241042-the-mageseeker-a-league-of-legends-story-deluxe-edition.json) |
 | The Magic Candle | 235346 | [235346-the-magic-candle.json](./235346-the-magic-candle.json) |
 | The Magic Candle III | 70948 | [70948-the-magic-candle-iii.json](./70948-the-magic-candle-iii.json) |
+| The Magic Circle: Gold Edition | 99755 | [99755-the-magic-circle-gold-edition.json](./99755-the-magic-circle-gold-edition.json) |
 | The Magic Garden | 320545 | [320545-the-magic-garden.json](./320545-the-magic-garden.json) |
 | The Magic Land | 182450 | [182450-the-magic-land.json](./182450-the-magic-land.json) |
 | The Magic of Scheherazade | 48078 | [48078-the-magic-of-scheherazade.json](./48078-the-magic-of-scheherazade.json) |
@@ -7547,6 +7552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tear | 115005 | [115005-the-tear.json](./115005-the-tear.json) |
 | The Teeth | 210650 | [210650-the-teeth.json](./210650-the-teeth.json) |
 | The Teletransport Smurf | 135833 | [135833-the-teletransport-smurf.json](./135833-the-teletransport-smurf.json) |
+| The Telltale Games Collection | 99799 | [99799-the-telltale-games-collection.json](./99799-the-telltale-games-collection.json) |
 | The Telwynium | 179663 | [179663-the-telwynium.json](./179663-the-telwynium.json) |
 | The Telwynium | 404830 | [404830-the-telwynium.json](./404830-the-telwynium.json) |
 | The Temple | 292549 | [292549-the-temple.json](./292549-the-temple.json) |
@@ -12867,6 +12873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers | 241501 | [241501-transformers.json](./241501-transformers.json) |
 | Transformers Age of Extinction | 38969 | [38969-transformers-age-of-extinction.json](./38969-transformers-age-of-extinction.json) |
 | Transformers Beyond Reality | 215213 | [215213-transformers-beyond-reality.json](./215213-transformers-beyond-reality.json) |
+| Transformers Franchise Pack | 99794 | [99794-transformers-franchise-pack.json](./99794-transformers-franchise-pack.json) |
 | Transformers G1 Awakening | 315069 | [315069-transformers-g1-awakening.json](./315069-transformers-g1-awakening.json) |
 | Transformers Generation 2 | 198946 | [198946-transformers-generation-2.json](./198946-transformers-generation-2.json) |
 | Transformers Rescue Bots: Race to the Rescue | 137611 | [137611-transformers-rescue-bots-race-to-the-rescue.json](./137611-transformers-rescue-bots-race-to-the-rescue.json) |
