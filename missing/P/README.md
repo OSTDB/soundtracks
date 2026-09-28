@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddle Cats | 411573 | [411573-paddle-cats.json](./411573-paddle-cats.json) |
 | Paddle Combat | 164441 | [164441-paddle-combat.json](./164441-paddle-combat.json) |
 | Paddle Fall | 115454 | [115454-paddle-fall.json](./115454-paddle-fall.json) |
+| Paddle Master VR | 75202 | [75202-paddle-master-vr.json](./75202-paddle-master-vr.json) |
 | Paddle Momentum | 413904 | [413904-paddle-momentum.json](./413904-paddle-momentum.json) |
 | Paddle Together | 366244 | [366244-paddle-together.json](./366244-paddle-together.json) |
 | Paddler | 403650 | [403650-paddler.json](./403650-paddler.json) |
@@ -1581,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pazuru | 85595 | [85595-pazuru.json](./85595-pazuru.json) |
 | Pazuru in Airou | 65177 | [65177-pazuru-in-airou.json](./65177-pazuru-in-airou.json) |
 | PB Makes Lunch | 177411 | [177411-pb-makes-lunch.json](./177411-pb-makes-lunch.json) |
+| PBA Bowling | 75210 | [75210-pba-bowling.json](./75210-pba-bowling.json) |
 | PBA Bowling 2 | 94674 | [94674-pba-bowling-2.json](./94674-pba-bowling-2.json) |
 | PBA Pro Bowling 2027 | 416842 | [416842-pba-pro-bowling-2027.json](./416842-pba-pro-bowling-2027.json) |
 | PBA Tour Bowling II | 210011 | [210011-pba-tour-bowling-ii.json](./210011-pba-tour-bowling-ii.json) |
@@ -2106,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perspectives: Aleppo-Helsinki | 75160 | [75160-perspectives-aleppo-helsinki.json](./75160-perspectives-aleppo-helsinki.json) |
 | Perspectives: Paradise | 115007 | [115007-perspectives-paradise.json](./115007-perspectives-paradise.json) |
 | Perspectre | 395692 | [395692-perspectre.json](./395692-perspectre.json) |
+| Perspectrip | 75206 | [75206-perspectrip.json](./75206-perspectrip.json) |
 | Perspectrum | 106613 | [106613-perspectrum.json](./106613-perspectrum.json) |
 | Pertinence | 33181 | [33181-pertinence.json](./33181-pertinence.json) |
 | Perverts Society | 110357 | [110357-perverts-society.json](./110357-perverts-society.json) |
@@ -2277,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Tour Pro: Classic Courses Volume 1 | 209980 | [209980-pga-tour-pro-classic-courses-volume-1.json](./209980-pga-tour-pro-classic-courses-volume-1.json) |
 | Ph0b0s | 207521 | [207521-ph0b0s.json](./207521-ph0b0s.json) |
 | Phá Kén: Khúc Điêu Linh | 318783 | [318783-pha-ken-khuc-ieu-linh.json](./318783-pha-ken-khuc-ieu-linh.json) |
+| Phalanstery | 74286 | [74286-phalanstery.json](./74286-phalanstery.json) |
 | Phantaruk | 20788 | [20788-phantaruk.json](./20788-phantaruk.json) |
 | Phantasia | 192152 | [192152-phantasia.json](./192152-phantasia.json) |
 | Phantasie Memorial Set | 279038 | [279038-phantasie-memorial-set.json](./279038-phantasie-memorial-set.json) |
