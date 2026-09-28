@@ -3739,6 +3739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dukes of Hazzard: Racing for Home | 144950 | [144950-the-dukes-of-hazzard-racing-for-home.json](./144950-the-dukes-of-hazzard-racing-for-home.json) |
 | The Dukes of Hazzard: Racing for Home | 49889 | [49889-the-dukes-of-hazzard-racing-for-home.json](./49889-the-dukes-of-hazzard-racing-for-home.json) |
 | The Dukes of Hazzard: Return of the General Lee | 5818 | [5818-the-dukes-of-hazzard-return-of-the-general-lee.json](./5818-the-dukes-of-hazzard-return-of-the-general-lee.json) |
+| The Duller | 102925 | [102925-the-duller.json](./102925-the-duller.json) |
 | The Dungeon | 272892 | [272892-the-dungeon.json](./272892-the-dungeon.json) |
 | The Dungeon | 301974 | [301974-the-dungeon.json](./301974-the-dungeon.json) |
 | The Dungeon Beneath | 139354 | [139354-the-dungeon-beneath.json](./139354-the-dungeon-beneath.json) |
@@ -4054,6 +4055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Feast | 228727 | [228727-the-feast.json](./228727-the-feast.json) |
 | The Feast of Madness: A Night of Drowning in Forbidden Temptation | 308876 | [308876-the-feast-of-madness-a-night-of-drowning-in-forbidden-temptation.json](./308876-the-feast-of-madness-a-night-of-drowning-in-forbidden-temptation.json) |
 | The FED | 200016 | [200016-the-fed.json](./200016-the-fed.json) |
+| The Federal Rescue | 102967 | [102967-the-federal-rescue.json](./102967-the-federal-rescue.json) |
 | The Feeble Files | 12428 | [12428-the-feeble-files.json](./12428-the-feeble-files.json) |
 | The Feral Child | 112304 | [112304-the-feral-child.json](./112304-the-feral-child.json) |
 | The Ferry | 319378 | [319378-the-ferry.json](./319378-the-ferry.json) |
@@ -5754,6 +5756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Sheep | 238528 | [238528-the-lost-sheep.json](./238528-the-lost-sheep.json) |
 | The Lost Ship | 61102 | [61102-the-lost-ship.json](./61102-the-lost-ship.json) |
 | The Lost Shrine: Escape Room | 149606 | [149606-the-lost-shrine-escape-room.json](./149606-the-lost-shrine-escape-room.json) |
+| The Lost Sky | 102928 | [102928-the-lost-sky.json](./102928-the-lost-sky.json) |
 | The Lost Skywhales | 182976 | [182976-the-lost-skywhales.json](./182976-the-lost-skywhales.json) |
 | The Lost Son | 261886 | [261886-the-lost-son.json](./261886-the-lost-son.json) |
 | The Lost Strings | 121449 | [121449-the-lost-strings.json](./121449-the-lost-strings.json) |
@@ -5997,6 +6000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monster Breeder | 126558 | [126558-the-monster-breeder.json](./126558-the-monster-breeder.json) |
 | The Monster War | 289980 | [289980-the-monster-war.json](./289980-the-monster-war.json) |
 | The Monster Within | 174346 | [174346-the-monster-within.json](./174346-the-monster-within.json) |
+| The Monsters' History Book | 102976 | [102976-the-monsters-history-book.json](./102976-the-monsters-history-book.json) |
 | The Monstrous Frontier | 187403 | [187403-the-monstrous-frontier.json](./187403-the-monstrous-frontier.json) |
 | The Monstrous Horror Show | 213421 | [213421-the-monstrous-horror-show.json](./213421-the-monstrous-horror-show.json) |
 | The Month After | 302440 | [302440-the-month-after.json](./302440-the-month-after.json) |
@@ -6389,6 +6393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Perfect Specimen | 243620 | [243620-the-perfect-specimen.json](./243620-the-perfect-specimen.json) |
 | The Perfect Tower II | 149572 | [149572-the-perfect-tower-ii.json](./149572-the-perfect-tower-ii.json) |
 | The Perfect Tree | 89697 | [89697-the-perfect-tree.json](./89697-the-perfect-tree.json) |
+| The Perfect Unit | 102933 | [102933-the-perfect-unit.json](./102933-the-perfect-unit.json) |
 | The Perfectionist | 110537 | [110537-the-perfectionist.json](./110537-the-perfectionist.json) |
 | The Perils of Willy | 62218 | [62218-the-perils-of-willy.json](./62218-the-perils-of-willy.json) |
 | The Permanent Residence: Souls Kept | 324671 | [324671-the-permanent-residence-souls-kept.json](./324671-the-permanent-residence-souls-kept.json) |
@@ -8861,6 +8866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Manor | 406320 | [406320-through-the-manor.json](./406320-through-the-manor.json) |
 | Through the Mist and Sky | 102179 | [102179-through-the-mist-and-sky.json](./102179-through-the-mist-and-sky.json) |
 | Through the Nest | 374131 | [374131-through-the-nest.json](./374131-through-the-nest.json) |
+| Through the Tomb | 102957 | [102957-through-the-tomb.json](./102957-through-the-tomb.json) |
 | Through the Trap Door | 54718 | [54718-through-the-trap-door.json](./54718-through-the-trap-door.json) |
 | Through the Wall | 339294 | [339294-through-the-wall.json](./339294-through-the-wall.json) |
 | Through the Woods: Collector's Edition | 51920 | [51920-through-the-woods-collectors-edition.json](./51920-through-the-woods-collectors-edition.json) |
@@ -11344,6 +11350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Rendition | 172522 | [172522-total-rendition.json](./172522-total-rendition.json) |
 | TotAL RPG (Tower of the Ancient Legion) | 111168 | [111168-total-rpg-tower-of-the-ancient-legion.json](./111168-total-rpg-tower-of-the-ancient-legion.json) |
 | Total Rush | 289939 | [289939-total-rush.json](./289939-total-rush.json) |
+| Total Singu | 102954 | [102954-total-singu.json](./102954-total-singu.json) |
 | Total Ski Jump | 122159 | [122159-total-ski-jump.json](./122159-total-ski-jump.json) |
 | Total Soccer Manager | 49343 | [49343-total-soccer-manager.json](./49343-total-soccer-manager.json) |
 | Total Tank Simulator | 75252 | [75252-total-tank-simulator.json](./75252-total-tank-simulator.json) |
