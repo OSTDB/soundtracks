@@ -955,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantom Feast | 112928 | [112928-fantom-feast.json](./112928-fantom-feast.json) |
 | Fantomas | 313250 | [313250-fantomas.json](./313250-fantomas.json) |
 | FantômeRapport: Intermezzo | 406101 | [406101-fantomerapport-intermezzo.json](./406101-fantomerapport-intermezzo.json) |
+| FanTris | 108072 | [108072-fantris.json](./108072-fantris.json) |
 | Fap & Cum: Simulator | 368131 | [368131-fap-and-cum-simulator.json](./368131-fap-and-cum-simulator.json) |
 | Fap Queen | 110145 | [110145-fap-queen.json](./110145-fap-queen.json) |
 | Fap Titans | 98475 | [98475-fap-titans.json](./98475-fap-titans.json) |
@@ -4862,6 +4863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fred Fuches Around | 397693 | [397693-fred-fuches-around.json](./397693-fred-fuches-around.json) |
 | Fred Johnson's: Mech Simulator | 326429 | [326429-fred-johnsons-mech-simulator.json](./326429-fred-johnsons-mech-simulator.json) |
 | Fred Penner's Company Coming | 209566 | [209566-fred-penners-company-coming.json](./209566-fred-penners-company-coming.json) |
+| Fred the Fraud | 108028 | [108028-fred-the-fraud.json](./108028-fred-the-fraud.json) |
 | Fred the Movie: Figglehorn Fling | 320943 | [320943-fred-the-movie-figglehorn-fling.json](./320943-fred-the-movie-figglehorn-fling.json) |
 | Fred Versus | 200044 | [200044-fred-versus.json](./200044-fred-versus.json) |
 | Fred's Cereal Company | 253950 | [253950-freds-cereal-company.json](./253950-freds-cereal-company.json) |
