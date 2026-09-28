@@ -5808,6 +5808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Cars | 186178 | [186178-bouncy-cars.json](./186178-bouncy-cars.json) |
 | Bouncy Cat | 158169 | [158169-bouncy-cat.json](./158169-bouncy-cat.json) |
 | Bouncy Chicken | 306529 | [306529-bouncy-chicken.json](./306529-bouncy-chicken.json) |
+| Bouncy Egg | 96287 | [96287-bouncy-egg.json](./96287-bouncy-egg.json) |
 | Bouncy Goal | 242219 | [242219-bouncy-goal.json](./242219-bouncy-goal.json) |
 | Bouncy Kingdoms | 397768 | [397768-bouncy-kingdoms.json](./397768-bouncy-kingdoms.json) |
 | Bouncy Smash | 89184 | [89184-bouncy-smash.json](./89184-bouncy-smash.json) |
