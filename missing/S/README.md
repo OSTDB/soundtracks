@@ -8459,6 +8459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Farmers 2 | 169870 | [169870-space-farmers-2.json](./169870-space-farmers-2.json) |
 | Space Fat: To the Core | 155655 | [155655-space-fat-to-the-core.json](./155655-space-fat-to-the-core.json) |
 | Space Fighter | 172531 | [172531-space-fighter.json](./172531-space-fighter.json) |
+| Space Fighters | 89396 | [89396-space-fighters.json](./89396-space-fighters.json) |
 | Space Filler | 338013 | [338013-space-filler.json](./338013-space-filler.json) |
 | Space Firebird | 22432 | [22432-space-firebird.json](./22432-space-firebird.json) |
 | Space Fishermen | 64948 | [64948-space-fishermen.json](./64948-space-fishermen.json) |
@@ -10900,6 +10901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starmaker Story | 337187 | [337187-starmaker-story.json](./337187-starmaker-story.json) |
 | Starman in space | 88240 | [88240-starman-in-space.json](./88240-starman-in-space.json) |
 | Starman: Tale of Light | 104681 | [104681-starman-tale-of-light.json](./104681-starman-tale-of-light.json) |
+| Starman's VR Experience | 89365 | [89365-starmans-vr-experience.json](./89365-starmans-vr-experience.json) |
 | Starmasons | 388419 | [388419-starmasons.json](./388419-starmasons.json) |
 | Starminer | 280353 | [280353-starminer.json](./280353-starminer.json) |
 | Starmount | 327323 | [327323-starmount.json](./327323-starmount.json) |
@@ -14933,6 +14935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor Heroes | 313222 | [313222-survivor-heroes.json](./313222-survivor-heroes.json) |
 | Survivor Idle Run | 248124 | [248124-survivor-idle-run.json](./248124-survivor-idle-run.json) |
 | Survivor in Summer | 108059 | [108059-survivor-in-summer.json](./108059-survivor-in-summer.json) |
+| Survivor Island | 89419 | [89419-survivor-island.json](./89419-survivor-island.json) |
 | Survivor Master-Sifu | 293152 | [293152-survivor-master-sifu.json](./293152-survivor-master-sifu.json) |
 | Survivor of the Journey | 210892 | [210892-survivor-of-the-journey.json](./210892-survivor-of-the-journey.json) |
 | Survivor Squad: Gauntlets | 36186 | [36186-survivor-squad-gauntlets.json](./36186-survivor-squad-gauntlets.json) |
