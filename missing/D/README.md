@@ -1202,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day Zero | 330904 | [330904-day-zero.json](./330904-day-zero.json) |
 | Day Zero | 360201 | [360201-day-zero.json](./360201-day-zero.json) |
 | Daybreak | 217245 | [217245-daybreak.json](./217245-daybreak.json) |
+| Daybreak Legends: Origin | 101069 | [101069-daybreak-legends-origin.json](./101069-daybreak-legends-origin.json) |
 | Daybreakers | 259062 | [259062-daybreakers.json](./259062-daybreakers.json) |
 | Daycare Descent | 256909 | [256909-daycare-descent.json](./256909-daycare-descent.json) |
 | DayD: Through Time | 105300 | [105300-dayd-through-time.json](./105300-dayd-through-time.json) |
@@ -3060,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Chaser | 114413 | [114413-destiny-chaser.json](./114413-destiny-chaser.json) |
 | Destiny Code | 358379 | [358379-destiny-code.json](./358379-destiny-code.json) |
 | Destiny Connect: Tick-Tock Travelers | 112082 | [112082-destiny-connect-tick-tock-travelers.json](./112082-destiny-connect-tick-tock-travelers.json) |
+| Destiny Contract | 101081 | [101081-destiny-contract.json](./101081-destiny-contract.json) |
 | Destiny Duel | 236546 | [236546-destiny-duel.json](./236546-destiny-duel.json) |
 | Destiny Fails Us: A New Life | 134516 | [134516-destiny-fails-us-a-new-life.json](./134516-destiny-fails-us-a-new-life.json) |
 | Destiny Fantasia | 197756 | [197756-destiny-fantasia.json](./197756-destiny-fantasia.json) |
@@ -6813,6 +6815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dresden Files Cooperative Card Game: Wardens Attack | 170489 | [170489-dresden-files-cooperative-card-game-wardens-attack.json](./170489-dresden-files-cooperative-card-game-wardens-attack.json) |
 | Dresden Files Cooperative Card Game: Winter Schemes | 266503 | [266503-dresden-files-cooperative-card-game-winter-schemes.json](./266503-dresden-files-cooperative-card-game-winter-schemes.json) |
 | Dress | 94748 | [94748-dress.json](./94748-dress.json) |
+| Dress Me | 101049 | [101049-dress-me.json](./101049-dress-me.json) |
 | Dress Up Bear | 96029 | [96029-dress-up-bear.json](./96029-dress-up-bear.json) |
 | Dress-up | 103672 | [103672-dress-up.json](./103672-dress-up.json) |
 | Dress-Up With Helene: Deluxe! | 358860 | [358860-dress-up-with-helene-deluxe.json](./358860-dress-up-with-helene-deluxe.json) |
