@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: Reach - Defiant Map Pack | 176905 | [176905-halo-reach-defiant-map-pack.json](./176905-halo-reach-defiant-map-pack.json) |
 | Halo: Reach - Legendary Edition | 43954 | [43954-halo-reach-legendary-edition.json](./43954-halo-reach-legendary-edition.json) |
 | Halo: Reach - Noble Map Pack | 176906 | [176906-halo-reach-noble-map-pack.json](./176906-halo-reach-noble-map-pack.json) |
+| Halo: Recruit | 72766 | [72766-halo-recruit.json](./72766-halo-recruit.json) |
 | Halo: The Master Chief Collection Season 1 - Noble | 205048 | [205048-halo-the-master-chief-collection-season-1-noble.json](./205048-halo-the-master-chief-collection-season-1-noble.json) |
 | Halo: The Master Chief Collection Season 2 - Spark | 205049 | [205049-halo-the-master-chief-collection-season-2-spark.json](./205049-halo-the-master-chief-collection-season-2-spark.json) |
 | Halo: The Master Chief Collection Season 3 - Recon | 205055 | [205055-halo-the-master-chief-collection-season-3-recon.json](./205055-halo-the-master-chief-collection-season-3-recon.json) |
@@ -3477,6 +3478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiouden: Mamono-tachi to no Chikai | 60499 | [60499-hiouden-mamono-tachi-to-no-chikai.json](./60499-hiouden-mamono-tachi-to-no-chikai.json) |
 | Hip Hop & Street Dance School | 87868 | [87868-hip-hop-and-street-dance-school.json](./87868-hip-hop-and-street-dance-school.json) |
 | Hip Hop King: Rytmik Edition | 65460 | [65460-hip-hop-king-rytmik-edition.json](./65460-hip-hop-king-rytmik-edition.json) |
+| Hiper Tronic | 72146 | [72146-hiper-tronic.json](./72146-hiper-tronic.json) |
 | Hippo | 79822 | [79822-hippo.json](./79822-hippo.json) |
 | Hippo Doctor: Hospital Laboratory | 105946 | [105946-hippo-doctor-hospital-laboratory.json](./105946-hippo-doctor-hospital-laboratory.json) |
 | Hippo Eating Banana | 220835 | [220835-hippo-eating-banana.json](./220835-hippo-eating-banana.json) |
@@ -3784,6 +3786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holfraine | 132157 | [132157-holfraine.json](./132157-holfraine.json) |
 | HolgiMan | 94213 | [94213-holgiman.json](./94213-holgiman.json) |
 | Holi-Zone 97 | 323269 | [323269-holi-zone-97.json](./323269-holi-zone-97.json) |
+| Holic Online | 72772 | [72772-holic-online.json](./72772-holic-online.json) |
 | Holiday After Special | 310965 | [310965-holiday-after-special.json](./310965-holiday-after-special.json) |
 | Holiday Bonus Gold | 29929 | [29929-holiday-bonus-gold.json](./29929-holiday-bonus-gold.json) |
 | Holiday Express | 54088 | [54088-holiday-express.json](./54088-holiday-express.json) |
