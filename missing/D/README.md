@@ -1851,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Flush | 140622 | [140622-death-flush.json](./140622-death-flush.json) |
 | Death Forest: Seikin | 385186 | [385186-death-forest-seikin.json](./385186-death-forest-seikin.json) |
 | Death From Above: Complete Edition | 336140 | [336140-death-from-above-complete-edition.json](./336140-death-from-above-complete-edition.json) |
+| Death from Unknown: Survival | 93710 | [93710-death-from-unknown-survival.json](./93710-death-from-unknown-survival.json) |
 | Death Game | 206153 | [206153-death-game.json](./206153-death-game.json) |
 | Death Game Hotel | 251554 | [251554-death-game-hotel.json](./251554-death-game-hotel.json) |
 | Death Hall | 116377 | [116377-death-hall.json](./116377-death-hall.json) |
@@ -2997,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desolate Realms | 276847 | [276847-desolate-realms.json](./276847-desolate-realms.json) |
 | Desolate Sands | 109697 | [109697-desolate-sands.json](./109697-desolate-sands.json) |
 | Desolate Wastes: Vendor Chronicles | 30314 | [30314-desolate-wastes-vendor-chronicles.json](./30314-desolate-wastes-vendor-chronicles.json) |
+| Desolate: Clone Catastrophe | 93730 | [93730-desolate-clone-catastrophe.json](./93730-desolate-clone-catastrophe.json) |
 | Desolated District | 253356 | [253356-desolated-district.json](./253356-desolated-district.json) |
 | Desolation | 284364 | [284364-desolation.json](./284364-desolation.json) |
 | Desolation Escape | 315672 | [315672-desolation-escape.json](./315672-desolation-escape.json) |
@@ -3782,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Paint: Paintball 2 | 67950 | [67950-digital-paint-paintball-2.json](./67950-digital-paint-paintball-2.json) |
 | Digital Paintball Redux | 117785 | [117785-digital-paintball-redux.json](./117785-digital-paintball-redux.json) |
 | Digital Processing | 400284 | [400284-digital-processing.json](./400284-digital-processing.json) |
+| Digital Runner | 93725 | [93725-digital-runner.json](./93725-digital-runner.json) |
 | Digital Spacecade | 28181 | [28181-digital-spacecade.json](./28181-digital-spacecade.json) |
 | Digital Survivor | 411728 | [411728-digital-survivor.json](./411728-digital-survivor.json) |
 | Digital Virus | 236008 | [236008-digital-virus.json](./236008-digital-virus.json) |
@@ -6757,6 +6760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamless: The Madness from the Sea | 146846 | [146846-dreamless-the-madness-from-the-sea.json](./146846-dreamless-the-madness-from-the-sea.json) |
 | Dreamlight | 151025 | [151025-dreamlight.json](./151025-dreamlight.json) |
 | Dreamlords: The Reawakening | 21460 | [21460-dreamlords-the-reawakening.json](./21460-dreamlords-the-reawakening.json) |
+| Dreamly | 93706 | [93706-dreamly.json](./93706-dreamly.json) |
 | Dreamo VR | 123494 | [123494-dreamo-vr.json](./123494-dreamo-vr.json) |
 | Dreampainters | 360005 | [360005-dreampainters.json](./360005-dreampainters.json) |
 | DreamPark Tycoon | 63012 | [63012-dreampark-tycoon.json](./63012-dreampark-tycoon.json) |
