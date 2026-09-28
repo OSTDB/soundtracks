@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U-Sing: Girls Night | 83639 | [83639-u-sing-girls-night.json](./83639-u-sing-girls-night.json) |
 | U-Sing: Johnny Hallyday | 83638 | [83638-u-sing-johnny-hallyday.json](./83638-u-sing-johnny-hallyday.json) |
 | U.A.S | 323196 | [323196-u-a-s.json](./323196-u-a-s.json) |
+| U.B. Funkeys | 66744 | [66744-u-b-funkeys.json](./66744-u-b-funkeys.json) |
 | U.F.O: Unfortunately Fortunate Organisms | 29630 | [29630-u-f-o-unfortunately-fortunate-organisms.json](./29630-u-f-o-unfortunately-fortunate-organisms.json) |
 | U.F.O. K.O. Tower Defense | 152907 | [152907-u-f-o-k-o-tower-defense.json](./152907-u-f-o-k-o-tower-defense.json) |
 | U.F.O.M.O. | 184084 | [184084-u-f-o-m-o.json](./184084-u-f-o-m-o.json) |
