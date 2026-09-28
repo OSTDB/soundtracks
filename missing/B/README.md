@@ -5483,6 +5483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booty Hunt | 112289 | [112289-booty-hunt.json](./112289-booty-hunt.json) |
 | Bootybuns 2 | 127925 | [127925-bootybuns-2.json](./127925-bootybuns-2.json) |
 | Booze Master | 191852 | [191852-booze-master.json](./191852-booze-master.json) |
+| Booze Masters: Freezing Moonshine | 119092 | [119092-booze-masters-freezing-moonshine.json](./119092-booze-masters-freezing-moonshine.json) |
 | Booze Masters: Freezing Moonshine | 266821 | [266821-booze-masters-freezing-moonshine.json](./266821-booze-masters-freezing-moonshine.json) |
 | Bop It! Tetris | 229069 | [229069-bop-it-tetris.json](./229069-bop-it-tetris.json) |
 | Bop'n Rumble | 47219 | [47219-bopn-rumble.json](./47219-bopn-rumble.json) |
@@ -6206,6 +6207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawlhalla: Summer Championship 2018 Pack | 342627 | [342627-brawlhalla-summer-championship-2018-pack.json](./342627-brawlhalla-summer-championship-2018-pack.json) |
 | Brawlhalla: Winter Championship 2018 Pack | 342625 | [342625-brawlhalla-winter-championship-2018-pack.json](./342625-brawlhalla-winter-championship-2018-pack.json) |
 | Brawlin' Sailor | 201288 | [201288-brawlin-sailor.json](./201288-brawlin-sailor.json) |
+| Brawlout: Deluxe Edition | 119077 | [119077-brawlout-deluxe-edition.json](./119077-brawlout-deluxe-edition.json) |
 | Brawlygon | 276252 | [276252-brawlygon.json](./276252-brawlygon.json) |
 | Brayan Odleys Numbers | 74377 | [74377-brayan-odleys-numbers.json](./74377-brayan-odleys-numbers.json) |
 | Brazen Blaze | 265663 | [265663-brazen-blaze.json](./265663-brazen-blaze.json) |
@@ -7234,6 +7236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Bunker | 312160 | [312160-bunny-bunker.json](./312160-bunny-bunker.json) |
 | Bunny Business | 184887 | [184887-bunny-business.json](./184887-bunny-business.json) |
 | Bunny Clicker | 320340 | [320340-bunny-clicker.json](./320340-bunny-clicker.json) |
+| Bunny Dodge | 118933 | [118933-bunny-dodge.json](./118933-bunny-dodge.json) |
 | Bunny E-shop | 306528 | [306528-bunny-e-shop.json](./306528-bunny-e-shop.json) |
 | Bunny Eureka | 221162 | [221162-bunny-eureka.json](./221162-bunny-eureka.json) |
 | Bunny Factory | 149451 | [149451-bunny-factory.json](./149451-bunny-factory.json) |
