@@ -3726,6 +3726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiny Sisters | 336596 | [336596-shiny-sisters.json](./336596-shiny-sisters.json) |
 | Shiny Summer | 164897 | [164897-shiny-summer.json](./164897-shiny-summer.json) |
 | Shiny-Man-Adventures | 211751 | [211751-shiny-man-adventures.json](./211751-shiny-man-adventures.json) |
+| Shiny: Deluxe Edition | 118929 | [118929-shiny-deluxe-edition.json](./118929-shiny-deluxe-edition.json) |
 | Shinya Ichizoku: The Battle for Hokkaido's Delicious Foods | 186908 | [186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json](./186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json) |
 | Shinyaku Boushi Sekai | 396208 | [396208-shinyaku-boushi-sekai.json](./396208-shinyaku-boushi-sekai.json) |
 | Shinzen Hollow | 292512 | [292512-shinzen-hollow.json](./292512-shinzen-hollow.json) |
@@ -6323,6 +6324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Roy | 210642 | [210642-snake-roy.json](./210642-snake-roy.json) |
 | Snake Vs Colours | 108446 | [108446-snake-vs-colours.json](./108446-snake-vs-colours.json) |
 | Snake vs Snake | 110801 | [110801-snake-vs-snake.json](./110801-snake-vs-snake.json) |
+| Snake Warriors: Training | 118913 | [118913-snake-warriors-training.json](./118913-snake-warriors-training.json) |
 | Snake Xenzia | 133868 | [133868-snake-xenzia.json](./133868-snake-xenzia.json) |
 | Snake Xenzia | 133872 | [133872-snake-xenzia.json](./133872-snake-xenzia.json) |
 | Snake-A-Roid | 377840 | [377840-snake-a-roid.json](./377840-snake-a-roid.json) |
@@ -7112,6 +7114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solo Leveling: Arise Overdrive | 349302 | [349302-solo-leveling-arise-overdrive.json](./349302-solo-leveling-arise-overdrive.json) |
 | Solo Noble | 175374 | [175374-solo-noble.json](./175374-solo-noble.json) |
 | Solo Records | 177936 | [177936-solo-records.json](./177936-solo-records.json) |
+| Solo_Poker | 118936 | [118936-solo-poker.json](./118936-solo-poker.json) |
 | Solomania | 329378 | [329378-solomania.json](./329378-solomania.json) |
 | Solomon Division | 216891 | [216891-solomon-division.json](./216891-solomon-division.json) |
 | Solomon Islander Dominatrixes Are the Best | 385707 | [385707-solomon-islander-dominatrixes-are-the-best.json](./385707-solomon-islander-dominatrixes-are-the-best.json) |
@@ -10597,6 +10600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardom Warriors: LaSalle Ishii's Childs Quest | 340027 | [340027-stardom-warriors-lasalle-ishiis-childs-quest.json](./340027-stardom-warriors-lasalle-ishiis-childs-quest.json) |
 | StarDrive 2 | 13660 | [13660-stardrive-2.json](./13660-stardrive-2.json) |
 | StarDrone Extreme | 20815 | [20815-stardrone-extreme.json](./20815-stardrone-extreme.json) |
+| StarDrone VR | 118930 | [118930-stardrone-vr.json](./118930-stardrone-vr.json) |
 | StarDroneVR | 105983 | [105983-stardronevr.json](./105983-stardronevr.json) |
 | Stardrytch | 172136 | [172136-stardrytch.json](./172136-stardrytch.json) |
 | Starduino | 228389 | [228389-starduino.json](./228389-starduino.json) |
@@ -11126,6 +11130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Rain | 34833 | [34833-steel-rain.json](./34833-steel-rain.json) |
 | Steel Rampart | 245951 | [245951-steel-rampart.json](./245951-steel-rampart.json) |
 | Steel Ranger | 179658 | [179658-steel-ranger.json](./179658-steel-ranger.json) |
+| Steel Rats: Deluxe Edition | 119083 | [119083-steel-rats-deluxe-edition.json](./119083-steel-rats-deluxe-edition.json) |
 | Steel Revolt | 353476 | [353476-steel-revolt.json](./353476-steel-revolt.json) |
 | Steel Rivals | 34766 | [34766-steel-rivals.json](./34766-steel-rivals.json) |
 | Steel Runner | 175179 | [175179-steel-runner.json](./175179-steel-runner.json) |
