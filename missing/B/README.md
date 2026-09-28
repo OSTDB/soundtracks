@@ -4776,6 +4776,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood, Fuel, Ammo & Speed | 265406 | [265406-blood-fuel-ammo-and-speed.json](./265406-blood-fuel-ammo-and-speed.json) |
 | Blood: One Unit Whole Blood | 36299 | [36299-blood-one-unit-whole-blood.json](./36299-blood-one-unit-whole-blood.json) |
 | Blood: Refreshed Supply - Death Wish | 394316 | [394316-blood-refreshed-supply-death-wish.json](./394316-blood-refreshed-supply-death-wish.json) |
+| Blood: The Last Vampire - First Volume | 65028 | [65028-blood-the-last-vampire-first-volume.json](./65028-blood-the-last-vampire-first-volume.json) |
+| Blood: The Last Vampire - Last Volume | 65026 | [65026-blood-the-last-vampire-last-volume.json](./65026-blood-the-last-vampire-last-volume.json) |
 | Blood+ | 286589 | [286589-blood.json](./286589-blood.json) |
 | Blood=Bullets | 320565 | [320565-blood-bullets.json](./320565-blood-bullets.json) |
 | Bloodball | 396427 | [396427-bloodball.json](./396427-bloodball.json) |
@@ -6260,6 +6262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brandish 2: The Planet Buster | 381268 | [381268-brandish-2-the-planet-buster.json](./381268-brandish-2-the-planet-buster.json) |
 | Brandish 2: The Planet Buster | 42212 | [42212-brandish-2-the-planet-buster.json](./42212-brandish-2-the-planet-buster.json) |
 | Brandnew Boy | 38975 | [38975-brandnew-boy.json](./38975-brandnew-boy.json) |
+| Branmarker | 65035 | [65035-branmarker.json](./65035-branmarker.json) |
 | Branmarker 2 | 64977 | [64977-branmarker-2.json](./64977-branmarker-2.json) |
 | BRap Boy | 39880 | [39880-brap-boy.json](./39880-brap-boy.json) |
 | Bras | 353918 | [353918-bras.json](./353918-bras.json) |
