@@ -1552,6 +1552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings Age | 62717 | [62717-kings-age.json](./62717-kings-age.json) |
 | Kings and Catapults | 215647 | [215647-kings-and-catapults.json](./215647-kings-and-catapults.json) |
 | Kings and Generals: A Divided Loyalty | 60249 | [60249-kings-and-generals-a-divided-loyalty.json](./60249-kings-and-generals-a-divided-loyalty.json) |
+| Kings and Legends | 62791 | [62791-kings-and-legends.json](./62791-kings-and-legends.json) |
 | Kings and Pigs | 152937 | [152937-kings-and-pigs.json](./152937-kings-and-pigs.json) |
 | Kings Era | 98012 | [98012-kings-era.json](./98012-kings-era.json) |
 | Kings Hero 2 | 175359 | [175359-kings-hero-2.json](./175359-kings-hero-2.json) |
@@ -2127,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knuffi | 295900 | [295900-knuffi.json](./295900-knuffi.json) |
 | Knytt Classic | 412975 | [412975-knytt-classic.json](./412975-knytt-classic.json) |
 | KO Chaos | 285456 | [285456-ko-chaos.json](./285456-ko-chaos.json) |
+| KO Punch | 62795 | [62795-ko-punch.json](./62795-ko-punch.json) |
 | Koala Rush | 187841 | [187841-koala-rush.json](./187841-koala-rush.json) |
 | Koala Sling | 268020 | [268020-koala-sling.json](./268020-koala-sling.json) |
 | Kobayakawa-san is a Souls-like | 413066 | [413066-kobayakawa-san-is-a-souls-like.json](./413066-kobayakawa-san-is-a-souls-like.json) |
