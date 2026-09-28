@@ -1857,6 +1857,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's Waldo in Hollywood | 205124 | [205124-wheres-waldo-in-hollywood.json](./205124-wheres-waldo-in-hollywood.json) |
 | Where's Waldo? Exploring Geography | 201790 | [201790-wheres-waldo-exploring-geography.json](./201790-wheres-waldo-exploring-geography.json) |
 | Where's Waldo? for the Windows Phone | 131539 | [131539-wheres-waldo-for-the-windows-phone.json](./131539-wheres-waldo-for-the-windows-phone.json) |
+| Where's Wally? Fantastic Journey 2 | 84943 | [84943-wheres-wally-fantastic-journey-2.json](./84943-wheres-wally-fantastic-journey-2.json) |
+| Where's Wally? Fantastic Journey 3 | 84944 | [84944-wheres-wally-fantastic-journey-3.json](./84944-wheres-wally-fantastic-journey-3.json) |
 | Where's Wally? Travel Pack 1 | 85483 | [85483-wheres-wally-travel-pack-1.json](./85483-wheres-wally-travel-pack-1.json) |
 | Where's Wally? Travel Pack 2 | 85485 | [85485-wheres-wally-travel-pack-2.json](./85485-wheres-wally-travel-pack-2.json) |
 | Where's Wally? Travel Pack 3 | 85484 | [85484-wheres-wally-travel-pack-3.json](./85484-wheres-wally-travel-pack-3.json) |
@@ -3164,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wooo | 260979 | [260979-wooo.json](./260979-wooo.json) |
 | Wooo 2 | 260978 | [260978-wooo-2.json](./260978-wooo-2.json) |
 | Wor Games | 335847 | [335847-wor-games.json](./335847-wor-games.json) |
+| Worcle Worlds | 84965 | [84965-worcle-worlds.json](./84965-worcle-worlds.json) |
 | Word | 369619 | [369619-word.json](./369619-word.json) |
 | Word Ace | 61032 | [61032-word-ace.json](./61032-word-ace.json) |
 | Word Across | 104481 | [104481-word-across.json](./104481-word-across.json) |
@@ -3231,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Scramble | 87551 | [87551-word-scramble.json](./87551-word-scramble.json) |
 | Word Search - Puzzle Game For Kids | 108507 | [108507-word-search-puzzle-game-for-kids.json](./108507-word-search-puzzle-game-for-kids.json) |
 | Word Search & Learn | 233741 | [233741-word-search-and-learn.json](./233741-word-search-and-learn.json) |
+| Word Search 10K | 84964 | [84964-word-search-10k.json](./84964-word-search-10k.json) |
 | Word Search by Powgi | 138113 | [138113-word-search-by-powgi.json](./138113-word-search-by-powgi.json) |
 | Word Search Coffee Break | 415952 | [415952-word-search-coffee-break.json](./415952-word-search-coffee-break.json) |
 | Word Search Daily HD | 355011 | [355011-word-search-daily-hd.json](./355011-word-search-daily-hd.json) |
@@ -3241,6 +3245,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search Puzzle: Find the Words! | 262323 | [262323-word-search-puzzle-find-the-words.json](./262323-word-search-puzzle-find-the-words.json) |
 | Word Search: Classic Game | 323326 | [323326-word-search-classic-game.json](./323326-word-search-classic-game.json) |
 | Word Search: World's Biggest | 240182 | [240182-word-search-worlds-biggest.json](./240182-word-search-worlds-biggest.json) |
+| Word Searcher 2 | 84963 | [84963-word-searcher-2.json](./84963-word-searcher-2.json) |
+| Word Searcher 3 | 84962 | [84962-word-searcher-3.json](./84962-word-searcher-3.json) |
+| Word Searcher 4 | 84939 | [84939-word-searcher-4.json](./84939-word-searcher-4.json) |
 | Word Seek English Unlimited | 103874 | [103874-word-seek-english-unlimited.json](./103874-word-seek-english-unlimited.json) |
 | Word Shop - Brain Puzzle Games | 101487 | [101487-word-shop-brain-puzzle-games.json](./101487-word-shop-brain-puzzle-games.json) |
 | Word Shuffle | 108263 | [108263-word-shuffle.json](./108263-word-shuffle.json) |
@@ -3269,6 +3276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Whiz | 93345 | [93345-word-whiz.json](./93345-word-whiz.json) |
 | Word Whomp HD | 318610 | [318610-word-whomp-hd.json](./318610-word-whomp-hd.json) |
 | Word Wise | 157723 | [157723-word-wise.json](./157723-word-wise.json) |
+| Word Wizard 3D | 84937 | [84937-word-wizard-3d.json](./84937-word-wizard-3d.json) |
 | Word Worm | 229344 | [229344-word-worm.json](./229344-word-worm.json) |
 | Word Worm | 361732 | [361732-word-worm.json](./361732-word-worm.json) |
 | Word Worth | 101083 | [101083-word-worth.json](./101083-word-worth.json) |
@@ -3333,6 +3341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordspionage | 175391 | [175391-wordspionage.json](./175391-wordspionage.json) |
 | WordSpiral | 227777 | [227777-wordspiral.json](./227777-wordspiral.json) |
 | Wordsplash! | 28814 | [28814-wordsplash.json](./28814-wordsplash.json) |
+| WordsUp! Academy | 84961 | [84961-wordsup-academy.json](./84961-wordsup-academy.json) |
 | Wordsweeper by Powgi | 121643 | [121643-wordsweeper-by-powgi.json](./121643-wordsweeper-by-powgi.json) |
 | WordTrip: Word Swipe Puzzles | 98795 | [98795-wordtrip-word-swipe-puzzles.json](./98795-wordtrip-word-swipe-puzzles.json) |
 | WordWhizzle Connect | 86799 | [86799-wordwhizzle-connect.json](./86799-wordwhizzle-connect.json) |
@@ -3352,6 +3361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worker 42 | 320172 | [320172-worker-42.json](./320172-worker-42.json) |
 | Worker Riot | 203554 | [203554-worker-riot.json](./203554-worker-riot.json) |
 | Workhorse | 357861 | [357861-workhorse.json](./357861-workhorse.json) |
+| Working Dawgs: Rivet Retriever | 84936 | [84936-working-dawgs-rivet-retriever.json](./84936-working-dawgs-rivet-retriever.json) |
 | Working Days | 408762 | [408762-working-days.json](./408762-working-days.json) |
 | Working Woman Barbie | 144856 | [144856-working-woman-barbie.json](./144856-working-woman-barbie.json) |
 | Working95 | 412562 | [412562-working95.json](./412562-working95.json) |
@@ -3706,6 +3716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worldless | 214709 | [214709-worldless.json](./214709-worldless.json) |
 | WorldNeverland: Black Modern Wedding Outfit Set | 301018 | [301018-worldneverland-black-modern-wedding-outfit-set.json](./301018-worldneverland-black-modern-wedding-outfit-set.json) |
 | WorldNeverland: Chocolate Donut Fair | 287173 | [287173-worldneverland-chocolate-donut-fair.json](./287173-worldneverland-chocolate-donut-fair.json) |
+| WorldNeverland: Elnea Kingdom | 84960 | [84960-worldneverland-elnea-kingdom.json](./84960-worldneverland-elnea-kingdom.json) |
 | WorldNeverland: Elnea Kingdom - Ancestral Garb Set: Berry | 316264 | [316264-worldneverland-elnea-kingdom-ancestral-garb-set-berry.json](./316264-worldneverland-elnea-kingdom-ancestral-garb-set-berry.json) |
 | WorldNeverland: Elnea Kingdom - Floral Town-Wear Set: Brown | 324423 | [324423-worldneverland-elnea-kingdom-floral-town-wear-set-brown.json](./324423-worldneverland-elnea-kingdom-floral-town-wear-set-brown.json) |
 | WorldNeverland: Elnea Kingdom - Floral Town-Wear Set: Twilight | 317960 | [317960-worldneverland-elnea-kingdom-floral-town-wear-set-twilight.json](./317960-worldneverland-elnea-kingdom-floral-town-wear-set-twilight.json) |
