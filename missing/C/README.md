@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casey Noir and Carved Pumpkin's Latte | 353967 | [353967-casey-noir-and-carved-pumpkins-latte.json](./353967-casey-noir-and-carved-pumpkins-latte.json) |
 | Casey Powell Lacrosse 18 | 96477 | [96477-casey-powell-lacrosse-18.json](./96477-casey-powell-lacrosse-18.json) |
 | Cash Cleaner Simulator | 297943 | [297943-cash-cleaner-simulator.json](./297943-cash-cleaner-simulator.json) |
+| Cash Cow: Anniversary Edition | 90837 | [90837-cash-cow-anniversary-edition.json](./90837-cash-cow-anniversary-edition.json) |
 | Cash Dash | 384544 | [384544-cash-dash.json](./384544-cash-dash.json) |
 | Cash Guns Chaos DLX | 85865 | [85865-cash-guns-chaos-dlx.json](./85865-cash-guns-chaos-dlx.json) |
 | Cash Horse - Match 3 Puzzle Adventure | 141793 | [141793-cash-horse-match-3-puzzle-adventure.json](./141793-cash-horse-match-3-puzzle-adventure.json) |
@@ -2780,6 +2781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Pills | 203931 | [203931-chess-pills.json](./203931-chess-pills.json) |
 | Chess Plus+ | 86901 | [86901-chess-plus.json](./86901-chess-plus.json) |
 | Chess Prime 3D Pro | 86834 | [86834-chess-prime-3d-pro.json](./86834-chess-prime-3d-pro.json) |
+| Chess Pro with Coach - Learn,Play & Online Friends | 90792 | [90792-chess-pro-with-coach-learn-play-and-online-friends.json](./90792-chess-pro-with-coach-learn-play-and-online-friends.json) |
 | Chess Puzzle Adventure | 174290 | [174290-chess-puzzle-adventure.json](./174290-chess-puzzle-adventure.json) |
 | Chess Puzzles | 103644 | [103644-chess-puzzles.json](./103644-chess-puzzles.json) |
 | Chess Puzzles: 100 by Emma | 163412 | [163412-chess-puzzles-100-by-emma.json](./163412-chess-puzzles-100-by-emma.json) |
@@ -4099,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Solitaire | 88321 | [88321-classic-solitaire.json](./88321-classic-solitaire.json) |
 | Classic Sudoku | 126741 | [126741-classic-sudoku.json](./126741-classic-sudoku.json) |
 | Classic Sudoku | 206973 | [206973-classic-sudoku.json](./206973-classic-sudoku.json) |
+| Classic Table Tennis | 90848 | [90848-classic-table-tennis.json](./90848-classic-table-tennis.json) |
 | Classic Train Simulator | 202684 | [202684-classic-train-simulator.json](./202684-classic-train-simulator.json) |
 | Classic Trivia | 87062 | [87062-classic-trivia.json](./87062-classic-trivia.json) |
 | Classic Us | 393463 | [393463-classic-us.json](./393463-classic-us.json) |
@@ -7455,6 +7458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross the Red Line | 113859 | [113859-cross-the-red-line.json](./113859-cross-the-red-line.json) |
 | Cross the Road | 186057 | [186057-cross-the-road.json](./186057-cross-the-road.json) |
 | Cross The World | 383627 | [383627-cross-the-world.json](./383627-cross-the-world.json) |
+| Cross-Stitch Puzzle | 90822 | [90822-cross-stitch-puzzle.json](./90822-cross-stitch-puzzle.json) |
 | Crossbar Kevin | 246961 | [246961-crossbar-kevin.json](./246961-crossbar-kevin.json) |
 | Crossbars | 353963 | [353963-crossbars.json](./353963-crossbars.json) |
 | crossbeats REV. | 126033 | [126033-crossbeats-rev.json](./126033-crossbeats-rev.json) |
