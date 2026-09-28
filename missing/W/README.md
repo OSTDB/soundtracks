@@ -2565,6 +2565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Sports 2011: Go for Gold | 27645 | [27645-winter-sports-2011-go-for-gold.json](./27645-winter-sports-2011-go-for-gold.json) |
 | Winter Sports Games: 4K Edition | 192326 | [192326-winter-sports-games-4k-edition.json](./192326-winter-sports-games-4k-edition.json) |
 | Winter Sports: The Ultimate Challenge | 5284 | [5284-winter-sports-the-ultimate-challenge.json](./5284-winter-sports-the-ultimate-challenge.json) |
+| Winter Spring | 82187 | [82187-winter-spring.json](./82187-winter-spring.json) |
 | Winter Stars | 20155 | [20155-winter-stars.json](./20155-winter-stars.json) |
 | Winter Stealth | 247765 | [247765-winter-stealth.json](./247765-winter-stealth.json) |
 | Winter Survival Simulator | 309661 | [309661-winter-survival-simulator.json](./309661-winter-survival-simulator.json) |
@@ -3597,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Wimmelbild | 92610 | [92610-world-of-wimmelbild.json](./92610-world-of-wimmelbild.json) |
 | World of Wimmelbild Gold | 92503 | [92503-world-of-wimmelbild-gold.json](./92503-world-of-wimmelbild-gold.json) |
 | World of Wizard: The Mirror Kingdom | 57355 | [57355-world-of-wizard-the-mirror-kingdom.json](./57355-world-of-wizard-the-mirror-kingdom.json) |
+| World of Wizards | 82030 | [82030-world-of-wizards.json](./82030-world-of-wizards.json) |
 | World of Wonder | 147396 | [147396-world-of-wonder.json](./147396-world-of-wonder.json) |
 | World of Zoo | 5287 | [5287-world-of-zoo.json](./5287-world-of-zoo.json) |
 | World on Fire | 117171 | [117171-world-on-fire.json](./117171-world-on-fire.json) |
