@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubok. | 150160 | [150160-ubok.json](./150160-ubok.json) |
 | UBRocks | 90683 | [90683-ubrocks.json](./90683-ubrocks.json) |
 | Ubu | 356618 | [356618-ubu.json](./356618-ubu.json) |
+| Ubusuna | 61174 | [61174-ubusuna.json](./61174-ubusuna.json) |
 | UBV Volley 2011 | 87225 | [87225-ubv-volley-2011.json](./87225-ubv-volley-2011.json) |
 | UC Love | 238218 | [238218-uc-love.json](./238218-uc-love.json) |
 | Uchi No Heya! | 403050 | [403050-uchi-no-heya.json](./403050-uchi-no-heya.json) |
