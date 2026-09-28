@@ -4125,6 +4125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Tris | 229064 | [229064-rock-tris.json](./229064-rock-tris.json) |
 | Rock UFO | 267331 | [267331-rock-ufo.json](./267331-rock-ufo.json) |
 | Rock Wrecker | 207780 | [207780-rock-wrecker.json](./207780-rock-wrecker.json) |
+| Rock-Muba | 82021 | [82021-rock-muba.json](./82021-rock-muba.json) |
 | Rock-n-Rogue A Boo Bunny Plague Adventure | 33605 | [33605-rock-n-rogue-a-boo-bunny-plague-adventure.json](./33605-rock-n-rogue-a-boo-bunny-plague-adventure.json) |
 | Rock-Slide | 94350 | [94350-rock-slide.json](./94350-rock-slide.json) |
 | Rock, Ken, Bo | 28807 | [28807-rock-ken-bo.json](./28807-rock-ken-bo.json) |
