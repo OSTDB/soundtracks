@@ -6092,6 +6092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prezzemolo in un Viaggio da Sogno | 305292 | [305292-prezzemolo-in-un-viaggio-da-sogno.json](./305292-prezzemolo-in-un-viaggio-da-sogno.json) |
 | Prezzemolo in una Giornata da Incubo | 93026 | [93026-prezzemolo-in-una-giornata-da-incubo.json](./93026-prezzemolo-in-una-giornata-da-incubo.json) |
 | Prezzies | 270071 | [270071-prezzies.json](./270071-prezzies.json) |
+| Pri Pri: Primitive Princess! | 66205 | [66205-pri-pri-primitive-princess.json](./66205-pri-pri-primitive-princess.json) |
 | Price for Freedom: Avarice | 234035 | [234035-price-for-freedom-avarice.json](./234035-price-for-freedom-avarice.json) |
 | Price for Freedom: Gold and Sand | 295345 | [295345-price-for-freedom-gold-and-sand.json](./295345-price-for-freedom-gold-and-sand.json) |
 | Price of Power | 291069 | [291069-price-of-power.json](./291069-price-of-power.json) |
@@ -7443,6 +7444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Lunch: Foodtruck Fighter | 364698 | [364698-punch-lunch-foodtruck-fighter.json](./364698-punch-lunch-foodtruck-fighter.json) |
 | Punch Max | 302471 | [302471-punch-max.json](./302471-punch-max.json) |
 | Punch Monk | 331513 | [331513-punch-monk.json](./331513-punch-monk.json) |
+| Punch the Monkey! Game Edition | 66201 | [66201-punch-the-monkey-game-edition.json](./66201-punch-the-monkey-game-edition.json) |
 | Punch the Rats | 104102 | [104102-punch-the-rats.json](./104102-punch-the-rats.json) |
 | Punch the Stool John | 172510 | [172510-punch-the-stool-john.json](./172510-punch-the-stool-john.json) |
 | Punch The Undead | 291519 | [291519-punch-the-undead.json](./291519-punch-the-undead.json) |
