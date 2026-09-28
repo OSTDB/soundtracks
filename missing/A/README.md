@@ -2967,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Roid | 47558 | [47558-alpha-roid.json](./47558-alpha-roid.json) |
 | Alpha Runner 2 | 369206 | [369206-alpha-runner-2.json](./369206-alpha-runner-2.json) |
 | Alpha Sea | 147448 | [147448-alpha-sea.json](./147448-alpha-sea.json) |
+| Alpha Shield | 59837 | [59837-alpha-shield.json](./59837-alpha-shield.json) |
 | Alpha Spectrum | 400493 | [400493-alpha-spectrum.json](./400493-alpha-spectrum.json) |
 | Alpha Squadron | 358921 | [358921-alpha-squadron.json](./358921-alpha-squadron.json) |
 | Alpha Squirrel | 183517 | [183517-alpha-squirrel.json](./183517-alpha-squirrel.json) |
@@ -3605,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Battle: The Aztecs | 326753 | [326753-ancient-battle-the-aztecs.json](./326753-ancient-battle-the-aztecs.json) |
 | Ancient Beast | 132866 | [132866-ancient-beast.json](./132866-ancient-beast.json) |
 | Ancient Cities | 79134 | [79134-ancient-cities.json](./79134-ancient-cities.json) |
+| Ancient Code VR | 59867 | [59867-ancient-code-vr.json](./59867-ancient-code-vr.json) |
 | Ancient Conquest: The Golden Fleece | 7713 | [7713-ancient-conquest-the-golden-fleece.json](./7713-ancient-conquest-the-golden-fleece.json) |
 | Ancient Cultivatrix | 290502 | [290502-ancient-cultivatrix.json](./290502-ancient-cultivatrix.json) |
 | Ancient Cultures: Tikal's Realm | 216466 | [216466-ancient-cultures-tikals-realm.json](./216466-ancient-cultures-tikals-realm.json) |
@@ -4672,6 +4674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apostasy | 104063 | [104063-apostasy.json](./104063-apostasy.json) |
 | Apostate | 240760 | [240760-apostate.json](./240760-apostate.json) |
 | Apoth | 238509 | [238509-apoth.json](./238509-apoth.json) |
+| Apothecarium: The Renaissance of Evil | 59907 | [59907-apothecarium-the-renaissance-of-evil.json](./59907-apothecarium-the-renaissance-of-evil.json) |
 | Apothecurse | 334175 | [334175-apothecurse.json](./334175-apothecurse.json) |
 | Apotheker | 141880 | [141880-apotheker.json](./141880-apotheker.json) |
 | Apotheon | 9016 | [9016-apotheon.json](./9016-apotheon.json) |
@@ -5186,6 +5189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Eyes | 156982 | [156982-arcane-eyes.json](./156982-arcane-eyes.json) |
 | Arcane Fate | 224099 | [224099-arcane-fate.json](./224099-arcane-fate.json) |
 | Arcane Fighters | 272790 | [272790-arcane-fighters.json](./272790-arcane-fighters.json) |
+| Arcane Legends | 60078 | [60078-arcane-legends.json](./60078-arcane-legends.json) |
 | Arcane Maelstrom | 29765 | [29765-arcane-maelstrom.json](./29765-arcane-maelstrom.json) |
 | Arcane Mayhem | 388424 | [388424-arcane-mayhem.json](./388424-arcane-mayhem.json) |
 | Arcane Overdrive | 370895 | [370895-arcane-overdrive.json](./370895-arcane-overdrive.json) |
@@ -7060,6 +7064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auro: A Monster-Bumping Adventure | 33099 | [33099-auro-a-monster-bumping-adventure.json](./33099-auro-a-monster-bumping-adventure.json) |
 | Aurora | 170459 | [170459-aurora.json](./170459-aurora.json) |
 | Aurora | 387688 | [387688-aurora.json](./387688-aurora.json) |
+| Aurora 4x | 60045 | [60045-aurora-4x.json](./60045-aurora-4x.json) |
 | Aurora Dusk: Steam Age | 34581 | [34581-aurora-dusk-steam-age.json](./34581-aurora-dusk-steam-age.json) |
 | Aurora Feint II: Tower Puzzles | 67694 | [67694-aurora-feint-ii-tower-puzzles.json](./67694-aurora-feint-ii-tower-puzzles.json) |
 | Aurora Memoria: Philosophical Data Session 2093 | 75146 | [75146-aurora-memoria-philosophical-data-session-2093.json](./75146-aurora-memoria-philosophical-data-session-2093.json) |
