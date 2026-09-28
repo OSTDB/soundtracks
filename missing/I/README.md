@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I-N-K | 229665 | [229665-i-n-k.json](./229665-i-n-k.json) |
 | I-Ninja 2 | 307672 | [307672-i-ninja-2.json](./307672-i-ninja-2.json) |
 | I-War | 40820 | [40820-i-war.json](./40820-i-war.json) |
+| I・S・U | 96236 | [96236-i-s-u.json](./96236-i-s-u.json) |
 | I, Ball II | 38927 | [38927-i-ball-ii.json](./38927-i-ball-ii.json) |
 | I, Chatbot: Aisylum | 290511 | [290511-i-chatbot-aisylum.json](./290511-i-chatbot-aisylum.json) |
 | I, For One, Welcome Our New Lady Knight Overlords! | 178506 | [178506-i-for-one-welcome-our-new-lady-knight-overlords.json](./178506-i-for-one-welcome-our-new-lady-knight-overlords.json) |
@@ -842,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iF/A-18E Carrier Strike Fighter | 78014 | [78014-if-a-18e-carrier-strike-fighter.json](./78014-if-a-18e-carrier-strike-fighter.json) |
 | iFarkle | 104658 | [104658-ifarkle.json](./104658-ifarkle.json) |
 | Iffermoon | 167145 | [167145-iffermoon.json](./167145-iffermoon.json) |
+| Iffy Institute | 96238 | [96238-iffy-institute.json](./96238-iffy-institute.json) |
 | iFighter 1945 | 91940 | [91940-ifighter-1945.json](./91940-ifighter-1945.json) |
 | Ifu | 302488 | [302488-ifu.json](./302488-ifu.json) |
 | IFU | 274774 | [274774-ifu.json](./274774-ifu.json) |
@@ -1524,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inevitable | 179067 | [179067-inevitable.json](./179067-inevitable.json) |
 | Inevitable Light | 287219 | [287219-inevitable-light.json](./287219-inevitable-light.json) |
 | Inexistence | 18957 | [18957-inexistence.json](./18957-inexistence.json) |
+| Inexplicable Geeks: Dawn of Just Us | 96279 | [96279-inexplicable-geeks-dawn-of-just-us.json](./96279-inexplicable-geeks-dawn-of-just-us.json) |
 | Inexplicable Geeks: RestoreTheMillerCut | 253924 | [253924-inexplicable-geeks-restorethemillercut.json](./253924-inexplicable-geeks-restorethemillercut.json) |
 | Infamous 18 | 378396 | [378396-infamous-18.json](./378396-infamous-18.json) |
 | Infamous Keepers | 398591 | [398591-infamous-keepers.json](./398591-infamous-keepers.json) |
