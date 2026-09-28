@@ -1039,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joint Venture | 410221 | [410221-joint-venture.json](./410221-joint-venture.json) |
 | Joint War | 210706 | [210706-joint-war.json](./210706-joint-war.json) |
 | Joinz | 68927 | [68927-joinz.json](./68927-joinz.json) |
+| Jojo no Kimyou na Bouken | 80625 | [80625-jojo-no-kimyou-na-bouken.json](./80625-jojo-no-kimyou-na-bouken.json) |
 | JoJo no Kimyou na Bouken | 221257 | [221257-jojo-no-kimyou-na-bouken.json](./221257-jojo-no-kimyou-na-bouken.json) |
 | JoJo no Kimyou na Bouken: Ougon no Kaze | 43465 | [43465-jojo-no-kimyou-na-bouken-ougon-no-kaze.json](./43465-jojo-no-kimyou-na-bouken-ougon-no-kaze.json) |
 | JoJo Siwa: Worldwide Party | 218722 | [218722-jojo-siwa-worldwide-party.json](./218722-jojo-siwa-worldwide-party.json) |
