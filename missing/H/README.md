@@ -4883,6 +4883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Raise a Wolf Girl | 122825 | [122825-how-to-raise-a-wolf-girl.json](./122825-how-to-raise-a-wolf-girl.json) |
 | How to Say Goodbye | 126445 | [126445-how-to-say-goodbye.json](./126445-how-to-say-goodbye.json) |
 | How to Sovle Rubiks Cube in 30 seconds | 103669 | [103669-how-to-sovle-rubiks-cube-in-30-seconds.json](./103669-how-to-sovle-rubiks-cube-in-30-seconds.json) |
+| How to Spend Holidays | 82989 | [82989-how-to-spend-holidays.json](./82989-how-to-spend-holidays.json) |
 | How to Survive 2: Dead Dynamite | 169929 | [169929-how-to-survive-2-dead-dynamite.json](./169929-how-to-survive-2-dead-dynamite.json) |
 | How to Survive 2: Kovac's Ultimate Edition | 53194 | [53194-how-to-survive-2-kovacs-ultimate-edition.json](./53194-how-to-survive-2-kovacs-ultimate-edition.json) |
 | How to Survive the Night shift | 295870 | [295870-how-to-survive-the-night-shift.json](./295870-how-to-survive-the-night-shift.json) |
@@ -5539,6 +5540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnaborea | 396243 | [396243-hypnaborea.json](./396243-hypnaborea.json) |
 | Hypnagogia: Boundless Dreams | 159865 | [159865-hypnagogia-boundless-dreams.json](./159865-hypnagogia-boundless-dreams.json) |
 | Hypno's Lullaby | 140537 | [140537-hypnos-lullaby.json](./140537-hypnos-lullaby.json) |
+| HypnoCuck: The Arrogant Rich Bitch Till She Falls | 82761 | [82761-hypnocuck-the-arrogant-rich-bitch-till-she-falls.json](./82761-hypnocuck-the-arrogant-rich-bitch-till-she-falls.json) |
 | HypnoFamily Game | 109198 | [109198-hypnofamily-game.json](./109198-hypnofamily-game.json) |
 | Hypnofantasis | 276228 | [276228-hypnofantasis.json](./276228-hypnofantasis.json) |
 | HypnoQuest: Do as you please with MC Power | 82779 | [82779-hypnoquest-do-as-you-please-with-mc-power.json](./82779-hypnoquest-do-as-you-please-with-mc-power.json) |
