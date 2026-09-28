@@ -5893,6 +5893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doubutsu no Mori+: Super Mario Bros | 360585 | [360585-doubutsu-no-mori-super-mario-bros.json](./360585-doubutsu-no-mori-super-mario-bros.json) |
 | Doubutsu-tachi no Mori | 150572 | [150572-doubutsu-tachi-no-mori.json](./150572-doubutsu-tachi-no-mori.json) |
 | Douche Bag | 51735 | [51735-douche-bag.json](./51735-douche-bag.json) |
+| Douche Defender | 63362 | [63362-douche-defender.json](./63362-douche-defender.json) |
 | DoudingMan | 264015 | [264015-doudingman.json](./264015-doudingman.json) |
 | DoudingMan: Expansion Packs | 288899 | [288899-doudingman-expansion-packs.json](./288899-doudingman-expansion-packs.json) |
 | Dòudìzhǔ VR | 89423 | [89423-doudizhu-vr.json](./89423-doudizhu-vr.json) |
@@ -6198,6 +6199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Xenoverse and Dragon Ball Xenoverse 2 Double Pack | 141765 | [141765-dragon-ball-xenoverse-and-dragon-ball-xenoverse-2-double-pack.json](./141765-dragon-ball-xenoverse-and-dragon-ball-xenoverse-2-double-pack.json) |
 | Dragon Ball Z | 220086 | [220086-dragon-ball-z.json](./220086-dragon-ball-z.json) |
 | Dragon Ball Z 5 | 242098 | [242098-dragon-ball-z-5.json](./242098-dragon-ball-z-5.json) |
+| Dragon Ball Z Gaiden: Shin Saiya-jin Zetsumetsu Keikaku - Uchou-hen | 63360 | [63360-dragon-ball-z-gaiden-shin-saiya-jin-zetsumetsu-keikaku-uchou-hen.json](./63360-dragon-ball-z-gaiden-shin-saiya-jin-zetsumetsu-keikaku-uchou-hen.json) |
 | Dragon Ball Z II: Gekishin Frieza!! | 48682 | [48682-dragon-ball-z-ii-gekishin-frieza.json](./48682-dragon-ball-z-ii-gekishin-frieza.json) |
 | Dragon Ball Z III: Ressen Jinzou Ningen | 48680 | [48680-dragon-ball-z-iii-ressen-jinzou-ningen.json](./48680-dragon-ball-z-iii-ressen-jinzou-ningen.json) |
 | Dragon Ball Z Life | 328039 | [328039-dragon-ball-z-life.json](./328039-dragon-ball-z-life.json) |
@@ -8163,6 +8165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Reign | 355560 | [355560-dying-reign.json](./355560-dying-reign.json) |
 | Dying: Reborn | 27569 | [27569-dying-reborn.json](./27569-dying-reborn.json) |
 | Dying: Reborn + Dying: Reborn VR Bundle | 217861 | [217861-dying-reborn-dying-reborn-vr-bundle.json](./217861-dying-reborn-dying-reborn-vr-bundle.json) |
+| Dying: Sinner Escape | 63361 | [63361-dying-sinner-escape.json](./63361-dying-sinner-escape.json) |
 | Dylan Dog: Horror Luna Park | 70970 | [70970-dylan-dog-horror-luna-park.json](./70970-dylan-dog-horror-luna-park.json) |
 | Dylan Dog: Le Notti della Luna Piena | 72140 | [72140-dylan-dog-le-notti-della-luna-piena.json](./72140-dylan-dog-le-notti-della-luna-piena.json) |
 | Dylan Dog: Through the Looking Glass | 12422 | [12422-dylan-dog-through-the-looking-glass.json](./12422-dylan-dog-through-the-looking-glass.json) |
