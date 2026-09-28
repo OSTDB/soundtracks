@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Forever | 169866 | [169866-danger-forever.json](./169866-danger-forever.json) |
 | Danger Horizon | 329178 | [329178-danger-horizon.json](./329178-danger-horizon.json) |
 | Danger in Body | 247982 | [247982-danger-in-body.json](./247982-danger-in-body.json) |
+| Danger Mouse: The Danger Games | 85557 | [85557-danger-mouse-the-danger-games.json](./85557-danger-mouse-the-danger-games.json) |
 | Danger Ramps | 282005 | [282005-danger-ramps.json](./282005-danger-ramps.json) |
 | Danger Street | 304126 | [304126-danger-street.json](./304126-danger-street.json) |
 | Danger Wall! | 52843 | [52843-danger-wall.json](./52843-danger-wall.json) |
@@ -958,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darts Fever | 328548 | [328548-darts-fever.json](./328548-darts-fever.json) |
 | Darts Fever: Deluxe Edition | 333720 | [333720-darts-fever-deluxe-edition.json](./333720-darts-fever-deluxe-edition.json) |
 | Darts Frenzy | 280785 | [280785-darts-frenzy.json](./280785-darts-frenzy.json) |
+| Darts Up | 85556 | [85556-darts-up.json](./85556-darts-up.json) |
 | Daruino | 185536 | [185536-daruino.json](./185536-daruino.json) |
 | Darumeshi Sports Store | 230306 | [230306-darumeshi-sports-store.json](./230306-darumeshi-sports-store.json) |
 | Darwin | 309853 | [309853-darwin.json](./309853-darwin.json) |
@@ -2341,6 +2343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense of Kyrath | 406310 | [406310-defense-of-kyrath.json](./406310-defense-of-kyrath.json) |
 | Defense of Nations | 268505 | [268505-defense-of-nations.json](./268505-defense-of-nations.json) |
 | Defense of the Ass | 141837 | [141837-defense-of-the-ass.json](./141837-defense-of-the-ass.json) |
+| Defense of the Middle Kingdom | 85568 | [85568-defense-of-the-middle-kingdom.json](./85568-defense-of-the-middle-kingdom.json) |
 | Defense Technica | 10178 | [10178-defense-technica.json](./10178-defense-technica.json) |
 | Defense Tower Simulator | 152775 | [152775-defense-tower-simulator.json](./152775-defense-tower-simulator.json) |
 | Defense Zone 2 | 17303 | [17303-defense-zone-2.json](./17303-defense-zone-2.json) |
@@ -2424,6 +2427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delaware St. John: Volume 1 - The Curse of Midnight Manor / Volume 2: The Town with No Name | 93050 | [93050-delaware-st-john-volume-1-the-curse-of-midnight-manor-volume-2-the-town-with-no-name.json](./93050-delaware-st-john-volume-1-the-curse-of-midnight-manor-volume-2-the-town-with-no-name.json) |
 | Delay | 90643 | [90643-delay.json](./90643-delay.json) |
 | DelayedSun | 127239 | [127239-delayedsun.json](./127239-delayedsun.json) |
+| Delbo | 85567 | [85567-delbo.json](./85567-delbo.json) |
 | Delearnia: Fractions of Hope | 253351 | [253351-delearnia-fractions-of-hope.json](./253351-delearnia-fractions-of-hope.json) |
 | Delegati Genesis | 203956 | [203956-delegati-genesis.json](./203956-delegati-genesis.json) |
 | Deleted | 264654 | [264654-deleted.json](./264654-deleted.json) |
@@ -2685,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonborg Mining Co | 367391 | [367391-demonborg-mining-co.json](./367391-demonborg-mining-co.json) |
 | DemonCountdown | 272250 | [272250-demoncountdown.json](./272250-demoncountdown.json) |
 | DemonCrawl: Arena Plus | 172150 | [172150-demoncrawl-arena-plus.json](./172150-demoncrawl-arena-plus.json) |
+| Demongeon | 85566 | [85566-demongeon.json](./85566-demongeon.json) |
 | Demoniac TV | 291524 | [291524-demoniac-tv.json](./291524-demoniac-tv.json) |
 | Demonic Bundle | 192305 | [192305-demonic-bundle.json](./192305-demonic-bundle.json) |
 | Demonic Crusade | 298896 | [298896-demonic-crusade.json](./298896-demonic-crusade.json) |
@@ -2847,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Life: Ranch & Race | 415104 | [415104-derby-life-ranch-and-race.json](./415104-derby-life-ranch-and-race.json) |
 | Derby Quest: Horse Manager HD | 246429 | [246429-derby-quest-horse-manager-hd.json](./246429-derby-quest-horse-manager-hd.json) |
 | Derby Stallion | 137021 | [137021-derby-stallion.json](./137021-derby-stallion.json) |
+| Derby Stallion (Tentative Title) | 85565 | [85565-derby-stallion-tentative-title.json](./85565-derby-stallion-tentative-title.json) |
 | Derby Stallion 04 | 123048 | [123048-derby-stallion-04.json](./123048-derby-stallion-04.json) |
 | Derby Stallion 2 | 405468 | [405468-derby-stallion-2.json](./405468-derby-stallion-2.json) |
 | Derby Stallion 96 Taiou: Shuboba Data | 234888 | [234888-derby-stallion-96-taiou-shuboba-data.json](./234888-derby-stallion-96-taiou-shuboba-data.json) |
@@ -3873,6 +3879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DineInn | 343434 | [343434-dineinn.json](./343434-dineinn.json) |
 | Diner Bros | 97040 | [97040-diner-bros.json](./97040-diner-bros.json) |
 | Diner Bros: Sushi Bros | 169300 | [169300-diner-bros-sushi-bros.json](./169300-diner-bros-sushi-bros.json) |
+| Diner Dash | 85564 | [85564-diner-dash.json](./85564-diner-dash.json) |
 | Diner Dash 2: Restaurant Rescue | 78690 | [78690-diner-dash-2-restaurant-rescue.json](./78690-diner-dash-2-restaurant-rescue.json) |
 | Diner Dash Mobile | 104663 | [104663-diner-dash-mobile.json](./104663-diner-dash-mobile.json) |
 | Diner Dash: Family Style | 366420 | [366420-diner-dash-family-style.json](./366420-diner-dash-family-style.json) |
@@ -3961,6 +3968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino SpeedBoat | 341024 | [341024-dino-speedboat.json](./341024-dino-speedboat.json) |
 | Dino Stalker | 22065 | [22065-dino-stalker.json](./22065-dino-stalker.json) |
 | Dino Storm | 92597 | [92597-dino-storm.json](./92597-dino-storm.json) |
+| Dino Strike | 85563 | [85563-dino-strike.json](./85563-dino-strike.json) |
 | Dino Surf | 239895 | [239895-dino-surf.json](./239895-dino-surf.json) |
 | Dino Tamers | 146333 | [146333-dino-tamers.json](./146333-dino-tamers.json) |
 | Dino Tribe: New Era | 309366 | [309366-dino-tribe-new-era.json](./309366-dino-tribe-new-era.json) |
@@ -5430,6 +5438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Hunt: Halloween Rush | 320331 | [320331-doodle-hunt-halloween-rush.json](./320331-doodle-hunt-halloween-rush.json) |
 | Doodle Jump HD | 90809 | [90809-doodle-jump-hd.json](./90809-doodle-jump-hd.json) |
 | Doodle Jump HD: Insanely Good! | 104106 | [104106-doodle-jump-hd-insanely-good.json](./104106-doodle-jump-hd-insanely-good.json) |
+| Doodle Jump Journey | 85571 | [85571-doodle-jump-journey.json](./85571-doodle-jump-journey.json) |
 | Doodle Kingdom | 27243 | [27243-doodle-kingdom.json](./27243-doodle-kingdom.json) |
 | Doodle Mafia: Crime City | 146741 | [146741-doodle-mafia-crime-city.json](./146741-doodle-mafia-crime-city.json) |
 | Doodle Sprint! | 134445 | [134445-doodle-sprint.json](./134445-doodle-sprint.json) |
@@ -5556,6 +5565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomy in the Roomy | 342884 | [342884-doomy-in-the-roomy.json](./342884-doomy-in-the-roomy.json) |
 | Doon Snake | 87218 | [87218-doon-snake.json](./87218-doon-snake.json) |
 | Doons | 306464 | [306464-doons.json](./306464-doons.json) |
+| Dooors | 85575 | [85575-dooors.json](./85575-dooors.json) |
 | Dooors 3 | 383640 | [383640-dooors-3.json](./383640-dooors-3.json) |
 | Dooors VR | 29947 | [29947-dooors-vr.json](./29947-dooors-vr.json) |
 | Door | 103457 | [103457-door.json](./103457-door.json) |
