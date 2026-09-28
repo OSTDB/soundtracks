@@ -6885,6 +6885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutalist | 308250 | [308250-brutalist.json](./308250-brutalist.json) |
 | Brutalistick VR | 277017 | [277017-brutalistick-vr.json](./277017-brutalistick-vr.json) |
 | Brute | 33279 | [33279-brute.json](./33279-brute.json) |
+| Brute Force | 80634 | [80634-brute-force.json](./80634-brute-force.json) |
 | Brute Horse | 314627 | [314627-brute-horse.json](./314627-brute-horse.json) |
 | Brutic | 280228 | [280228-brutic.json](./280228-brutic.json) |
 | Brutus | 178041 | [178041-brutus.json](./178041-brutus.json) |
