@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A New Adventure: FaYoh 2 | 131374 | [131374-a-new-adventure-fayoh-2.json](./131374-a-new-adventure-fayoh-2.json) |
 | A New Don | 183433 | [183433-a-new-don.json](./183433-a-new-don.json) |
 | A New Leaf: Memories | 167583 | [167583-a-new-leaf-memories.json](./167583-a-new-leaf-memories.json) |
+| A New Reckoning | 61707 | [61707-a-new-reckoning.json](./61707-a-new-reckoning.json) |
 | A Night at Sea | 228996 | [228996-a-night-at-sea.json](./228996-a-night-at-sea.json) |
 | A Night Before the Deadline | 145625 | [145625-a-night-before-the-deadline.json](./145625-a-night-before-the-deadline.json) |
 | A Night in Vanet Manor | 147243 | [147243-a-night-in-vanet-manor.json](./147243-a-night-in-vanet-manor.json) |
@@ -1332,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Ruby Rabbit | 211702 | [211702-adventures-of-ruby-rabbit.json](./211702-adventures-of-ruby-rabbit.json) |
 | Adventures of Samuel: The Worst Game Ever Made | 196160 | [196160-adventures-of-samuel-the-worst-game-ever-made.json](./196160-adventures-of-samuel-the-worst-game-ever-made.json) |
 | Adventures of Tara | 393119 | [393119-adventures-of-tara.json](./393119-adventures-of-tara.json) |
+| Adventures of the Beardsman | 61695 | [61695-adventures-of-the-beardsman.json](./61695-adventures-of-the-beardsman.json) |
 | Adventures of The Carrot Captain | 152853 | [152853-adventures-of-the-carrot-captain.json](./152853-adventures-of-the-carrot-captain.json) |
 | Adventures of the Cat Leopold | 53166 | [53166-adventures-of-the-cat-leopold.json](./53166-adventures-of-the-cat-leopold.json) |
 | Adventures of the Old Testament: The Bible Video Game | 211395 | [211395-adventures-of-the-old-testament-the-bible-video-game.json](./211395-adventures-of-the-old-testament-the-bible-video-game.json) |
@@ -5346,6 +5348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcticfox | 14517 | [14517-arcticfox.json](./14517-arcticfox.json) |
 | Arcticmind | 182268 | [182268-arcticmind.json](./182268-arcticmind.json) |
 | Arctis | 334663 | [334663-arctis.json](./334663-arctis.json) |
+| Arcturus Proving Grounds | 61711 | [61711-arcturus-proving-grounds.json](./61711-arcturus-proving-grounds.json) |
 | Arcus Chroma | 133786 | [133786-arcus-chroma.json](./133786-arcus-chroma.json) |
 | Arcus III | 98263 | [98263-arcus-iii.json](./98263-arcus-iii.json) |
 | Arcuz | 161152 | [161152-arcuz.json](./161152-arcuz.json) |
