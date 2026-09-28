@@ -2271,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Fetch! | 85166 | [85166-go-fetch.json](./85166-go-fetch.json) |
 | Go Fetch! 2 | 84548 | [84548-go-fetch-2.json](./84548-go-fetch-2.json) |
 | Go Fight Fantastic! | 127364 | [127364-go-fight-fantastic.json](./127364-go-fight-fantastic.json) |
+| Go Fish! | 106750 | [106750-go-fish.json](./106750-go-fish.json) |
 | Go Fish! | 40717 | [40717-go-fish.json](./40717-go-fish.json) |
 | Go Go Ackman | 83923 | [83923-go-go-ackman.json](./83923-go-go-ackman.json) |
 | Go Go Jump!! | 244221 | [244221-go-go-jump.json](./244221-go-go-jump.json) |
@@ -3127,6 +3128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gourmet | 314492 | [314492-gourmet.json](./314492-gourmet.json) |
 | Gourmet | 93359 | [93359-gourmet.json](./93359-gourmet.json) |
 | Gourmet Chef | 67336 | [67336-gourmet-chef.json](./67336-gourmet-chef.json) |
+| Gourmet Chef Challenge: Around the World | 106731 | [106731-gourmet-chef-challenge-around-the-world.json](./106731-gourmet-chef-challenge-around-the-world.json) |
 | Gourmet Race | 271261 | [271261-gourmet-race.json](./271261-gourmet-race.json) |
 | Gourmet Warriors | 42592 | [42592-gourmet-warriors.json](./42592-gourmet-warriors.json) |
 | GoVenture Entrepreneur | 203840 | [203840-goventure-entrepreneur.json](./203840-goventure-entrepreneur.json) |
@@ -3686,6 +3688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GreedyCraft | 204701 | [204701-greedycraft.json](./204701-greedycraft.json) |
 | Greek Kitchen Frenzy: Dionysus - Collector's Edition | 337249 | [337249-greek-kitchen-frenzy-dionysus-collectors-edition.json](./337249-greek-kitchen-frenzy-dionysus-collectors-edition.json) |
 | Greek Letters and Alphabet 2 | 99394 | [99394-greek-letters-and-alphabet-2.json](./99394-greek-letters-and-alphabet-2.json) |
+| Green | 106762 | [106762-green.json](./106762-green.json) |
 | Green | 106971 | [106971-green.json](./106971-green.json) |
 | Green | 133321 | [133321-green.json](./133321-green.json) |
 | Green Breach | 416833 | [416833-green-breach.json](./416833-green-breach.json) |
@@ -3866,6 +3869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grievous Survivors | 235680 | [235680-grievous-survivors.json](./235680-grievous-survivors.json) |
 | Griffin | 353993 | [353993-griffin.json](./353993-griffin.json) |
 | Griffin Card | 182847 | [182847-griffin-card.json](./182847-griffin-card.json) |
+| Griffin Simulator | 106778 | [106778-griffin-simulator.json](./106778-griffin-simulator.json) |
 | Griftlands: Nintendo Switch Edition | 140501 | [140501-griftlands-nintendo-switch-edition.json](./140501-griftlands-nintendo-switch-edition.json) |
 | Grigala Runner | 110140 | [110140-grigala-runner.json](./110140-grigala-runner.json) |
 | Grill-Off with Ultra Hand! | 50696 | [50696-grill-off-with-ultra-hand.json](./50696-grill-off-with-ultra-hand.json) |
