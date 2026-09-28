@@ -1858,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 6 Season 4 | 410995 | [410995-battlefield-6-season-4.json](./410995-battlefield-6-season-4.json) |
 | Battlefield Armor | 105359 | [105359-battlefield-armor.json](./105359-battlefield-armor.json) |
 | Battlefield Hardline: Criminal Activity | 18023 | [18023-battlefield-hardline-criminal-activity.json](./18023-battlefield-hardline-criminal-activity.json) |
+| Battlefield Hardline: Deluxe Edition | 99791 | [99791-battlefield-hardline-deluxe-edition.json](./99791-battlefield-hardline-deluxe-edition.json) |
 | Battlefield Hardline: Getaway | 18025 | [18025-battlefield-hardline-getaway.json](./18025-battlefield-hardline-getaway.json) |
 | Battlefield Hardline: Robbery | 18024 | [18024-battlefield-hardline-robbery.json](./18024-battlefield-hardline-robbery.json) |
 | Battlefield Hardline: Ultimate Edition | 52638 | [52638-battlefield-hardline-ultimate-edition.json](./52638-battlefield-hardline-ultimate-edition.json) |
@@ -1915,6 +1916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlerite Royale | 107022 | [107022-battlerite-royale.json](./107022-battlerite-royale.json) |
 | Battlerite Royale: All Champions Pack | 168365 | [168365-battlerite-royale-all-champions-pack.json](./168365-battlerite-royale-all-champions-pack.json) |
 | Battlers of Ekrasys | 339948 | [339948-battlers-of-ekrasys.json](./339948-battlers-of-ekrasys.json) |
+| Battles Ages | 99754 | [99754-battles-ages.json](./99754-battles-ages.json) |
 | Battles For Spain | 120869 | [120869-battles-for-spain.json](./120869-battles-for-spain.json) |
 | Battles Game | 370135 | [370135-battles-game.json](./370135-battles-game.json) |
 | Battles in Normandy | 611 | [611-battles-in-normandy.json](./611-battles-in-normandy.json) |
@@ -5384,6 +5386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bongo Loves the Bible | 146262 | [146262-bongo-loves-the-bible.json](./146262-bongo-loves-the-bible.json) |
 | Bongo Quest | 190472 | [190472-bongo-quest.json](./190472-bongo-quest.json) |
 | Bongo's Bash | 69589 | [69589-bongos-bash.json](./69589-bongos-bash.json) |
+| BongoTrip | 99770 | [99770-bongotrip.json](./99770-bongotrip.json) |
 | Bonhomme 7 Heures | 151617 | [151617-bonhomme-7-heures.json](./151617-bonhomme-7-heures.json) |
 | Bonito Days | 175817 | [175817-bonito-days.json](./175817-bonito-days.json) |
 | Bonjin: An Ordinary Man | 349869 | [349869-bonjin-an-ordinary-man.json](./349869-bonjin-an-ordinary-man.json) |
