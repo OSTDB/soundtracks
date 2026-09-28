@@ -464,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Fight | 284997 | [284997-dangerous-fight.json](./284997-dangerous-fight.json) |
 | Dangerous Fists | 219673 | [219673-dangerous-fists.json](./219673-dangerous-fists.json) |
 | Dangerous Golf | 18985 | [18985-dangerous-golf.json](./18985-dangerous-golf.json) |
+| Dangerous Ground | 111219 | [111219-dangerous-ground.json](./111219-dangerous-ground.json) |
 | Dangerous Ivan | 262462 | [262462-dangerous-ivan.json](./262462-dangerous-ivan.json) |
 | Dangerous Land | 303096 | [303096-dangerous-land.json](./303096-dangerous-land.json) |
 | Dangerous Line | 327827 | [327827-dangerous-line.json](./327827-dangerous-line.json) |
@@ -2066,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decommissioner | 186252 | [186252-decommissioner.json](./186252-decommissioner.json) |
 | Decompose With Me | 408160 | [408160-decompose-with-me.json](./408160-decompose-with-me.json) |
 | Decomposition | 339791 | [339791-decomposition.json](./339791-decomposition.json) |
+| Deconstruction Lab | 111228 | [111228-deconstruction-lab.json](./111228-deconstruction-lab.json) |
 | Decontamination | 335879 | [335879-decontamination.json](./335879-decontamination.json) |
 | Decor Dream | 305845 | [305845-decor-dream.json](./305845-decor-dream.json) |
 | Decoration Rush | 324991 | [324991-decoration-rush.json](./324991-decoration-rush.json) |
@@ -3244,6 +3246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Engine: Ignition | 150601 | [150601-devil-engine-ignition.json](./150601-devil-engine-ignition.json) |
 | Devil Fish | 39633 | [39633-devil-fish.json](./39633-devil-fish.json) |
 | Devil Gate | 403692 | [403692-devil-gate.json](./403692-devil-gate.json) |
+| Devil Girl Needs Massages | 111183 | [111183-devil-girl-needs-massages.json](./111183-devil-girl-needs-massages.json) |
 | Devil In My House | 311781 | [311781-devil-in-my-house.json](./311781-devil-in-my-house.json) |
 | Devil in the Details | 103959 | [103959-devil-in-the-details.json](./103959-devil-in-the-details.json) |
 | Devil in the Pines | 67598 | [67598-devil-in-the-pines.json](./67598-devil-in-the-pines.json) |
