@@ -2832,6 +2832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hey! Stop! | 40735 | [40735-hey-stop.json](./40735-hey-stop.json) |
 | Heyawake by Nikoli | 84522 | [84522-heyawake-by-nikoli.json](./84522-heyawake-by-nikoli.json) |
 | HeyBot! HeyboHeybo! HeyBoTournament! | 135165 | [135165-heybot-heyboheybo-heybotournament.json](./135165-heybot-heyboheybo-heybotournament.json) |
+| Heyday | 91541 | [91541-heyday.json](./91541-heyday.json) |
 | HgmGame Horse | 357851 | [357851-hgmgame-horse.json](./357851-hgmgame-horse.json) |
 | hhGregg's Quest for Coupons | 125942 | [125942-hhgreggs-quest-for-coupons.json](./125942-hhgreggs-quest-for-coupons.json) |
 | HHHalloween | 289471 | [289471-hhhalloween.json](./289471-hhhalloween.json) |
@@ -4225,6 +4226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopfall | 370126 | [370126-hopfall.json](./370126-hopfall.json) |
 | Hopkins FBI | 93389 | [93389-hopkins-fbi.json](./93389-hopkins-fbi.json) |
 | Hoplichess | 156013 | [156013-hoplichess.json](./156013-hoplichess.json) |
+| Hopmon | 91546 | [91546-hopmon.json](./91546-hopmon.json) |
 | Hoppa | 129574 | [129574-hoppa.json](./129574-hoppa.json) |
 | Hoppe Chan: Punitto Shibotte Daibouken! | 222538 | [222538-hoppe-chan-punitto-shibotte-daibouken.json](./222538-hoppe-chan-punitto-shibotte-daibouken.json) |
 | Hoppe-chan Minna de Odekake! Waku-waku Hoppe Land!! | 222296 | [222296-hoppe-chan-minna-de-odekake-waku-waku-hoppe-land.json](./222296-hoppe-chan-minna-de-odekake-waku-waku-hoppe-land.json) |
