@@ -982,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Bundle | 164791 | [164791-paranormal-bundle.json](./164791-paranormal-bundle.json) |
 | Paranormal Capture Investigation | 276187 | [276187-paranormal-capture-investigation.json](./276187-paranormal-capture-investigation.json) |
 | Paranormal Entities | 177402 | [177402-paranormal-entities.json](./177402-paranormal-entities.json) |
+| Paranormal Escape | 69380 | [69380-paranormal-escape.json](./69380-paranormal-escape.json) |
 | Paranormal Files: Chaos Weekend | 416704 | [416704-paranormal-files-chaos-weekend.json](./416704-paranormal-files-chaos-weekend.json) |
 | Paranormal Files: Fatal Flaw - Collector's Edition | 355018 | [355018-paranormal-files-fatal-flaw-collectors-edition.json](./355018-paranormal-files-fatal-flaw-collectors-edition.json) |
 | Paranormal Files: Fellow Traveler | 143017 | [143017-paranormal-files-fellow-traveler.json](./143017-paranormal-files-fellow-traveler.json) |
@@ -2322,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Online 2: Vivienne Pack | 225862 | [225862-phantasy-star-online-2-vivienne-pack.json](./225862-phantasy-star-online-2-vivienne-pack.json) |
 | Phantasy Star Online Episode I & II | 9890 | [9890-phantasy-star-online-episode-i-and-ii.json](./9890-phantasy-star-online-episode-i-and-ii.json) |
 | Phantasy Star Universe: Ambition of the Illuminus | 21501 | [21501-phantasy-star-universe-ambition-of-the-illuminus.json](./21501-phantasy-star-universe-ambition-of-the-illuminus.json) |
+| Phantasy Star Zero Mini | 69330 | [69330-phantasy-star-zero-mini.json](./69330-phantasy-star-zero-mini.json) |
 | Phantasy Star: Fukkoku-ban | 45529 | [45529-phantasy-star-fukkoku-ban.json](./45529-phantasy-star-fukkoku-ban.json) |
 | Phantasy Star... 20 Years Past | 313784 | [313784-phantasy-star-20-years-past.json](./313784-phantasy-star-20-years-past.json) |
 | PhantazmA | 125429 | [125429-phantazma.json](./125429-phantazma.json) |
@@ -3209,6 +3211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pintorino | 386399 | [386399-pintorino.json](./386399-pintorino.json) |
 | Pinup | 403142 | [403142-pinup.json](./403142-pinup.json) |
 | PinWar | 93632 | [93632-pinwar.json](./93632-pinwar.json) |
+| Piofiore no Banshou | 69342 | [69342-piofiore-no-banshou.json](./69342-piofiore-no-banshou.json) |
 | Piofiore: Episodio 1926 | 136944 | [136944-piofiore-episodio-1926.json](./136944-piofiore-episodio-1926.json) |
 | Piofiore: Episodio 1926 Limited Edition | 223129 | [223129-piofiore-episodio-1926-limited-edition.json](./223129-piofiore-episodio-1926-limited-edition.json) |
 | Pioneer | 337737 | [337737-pioneer.json](./337737-pioneer.json) |
@@ -6439,6 +6442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Gymnast Simulator + Brawl Chess | 219051 | [219051-pro-gymnast-simulator-brawl-chess.json](./219051-pro-gymnast-simulator-brawl-chess.json) |
 | Pro Gymnast Simulator + Clumsy Rush | 218456 | [218456-pro-gymnast-simulator-clumsy-rush.json](./218456-pro-gymnast-simulator-clumsy-rush.json) |
 | Pro Gymnast Simulator + Cyber Protocol | 218501 | [218501-pro-gymnast-simulator-cyber-protocol.json](./218501-pro-gymnast-simulator-cyber-protocol.json) |
+| Pro Hockey | 69368 | [69368-pro-hockey.json](./69368-pro-hockey.json) |
 | Pro Mahjong Kiwame | 138094 | [138094-pro-mahjong-kiwame.json](./138094-pro-mahjong-kiwame.json) |
 | Pro Mahjong Kiwame 64 | 97880 | [97880-pro-mahjong-kiwame-64.json](./97880-pro-mahjong-kiwame-64.json) |
 | Pro Mahjong Kiwame D | 97874 | [97874-pro-mahjong-kiwame-d.json](./97874-pro-mahjong-kiwame-d.json) |
