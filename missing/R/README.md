@@ -814,6 +814,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Dice: Go | 239620 | [239620-random-dice-go.json](./239620-random-dice-go.json) |
 | Random Dungeon | 260725 | [260725-random-dungeon.json](./260725-random-dungeon.json) |
 | Random Dungeon Game | 333018 | [333018-random-dungeon-game.json](./333018-random-dungeon-game.json) |
+| Random Heroes | 59895 | [59895-random-heroes.json](./59895-random-heroes.json) |
+| Random Heroes 2 | 59892 | [59892-random-heroes-2.json](./59892-random-heroes-2.json) |
+| Random Heroes 3 | 59893 | [59893-random-heroes-3.json](./59893-random-heroes-3.json) |
 | Random Number God | 184625 | [184625-random-number-god.json](./184625-random-number-god.json) |
 | Random Platformer | 169785 | [169785-random-platformer.json](./169785-random-platformer.json) |
 | Random Quest : First Person RPG | 103505 | [103505-random-quest-first-person-rpg.json](./103505-random-quest-first-person-rpg.json) |
@@ -1007,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenwood Academy: A Wizard101 Story | 298165 | [298165-ravenwood-academy-a-wizard101-story.json](./298165-ravenwood-academy-a-wizard101-story.json) |
 | Ravenwood Acres | 268981 | [268981-ravenwood-acres.json](./268981-ravenwood-acres.json) |
 | Ravenwood Drive | 311626 | [311626-ravenwood-drive.json](./311626-ravenwood-drive.json) |
+| Ravenwood Horror | 59916 | [59916-ravenwood-horror.json](./59916-ravenwood-horror.json) |
 | Raver Champions | 129589 | [129589-raver-champions.json](./129589-raver-champions.json) |
 | Ravesta Racing | 127752 | [127752-ravesta-racing.json](./127752-ravesta-racing.json) |
 | Raving Mad | 93004 | [93004-raving-mad.json](./93004-raving-mad.json) |
@@ -1188,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Aktor | 383382 | [383382-re-aktor.json](./383382-re-aktor.json) |
 | Re:Award | 171460 | [171460-re-award.json](./171460-re-award.json) |
 | Re:Bf | 193405 | [193405-re-bf.json](./193405-re-bf.json) |
+| Re:birth Colony -Lost Azurite- | 60049 | [60049-re-birth-colony-lost-azurite.json](./60049-re-birth-colony-lost-azurite.json) |
 | Re:bound | 229012 | [229012-re-bound.json](./229012-re-bound.json) |
 | Re:Bounding | 107668 | [107668-re-bounding.json](./107668-re-bounding.json) |
 | Re:Call | 364068 | [364068-re-call.json](./364068-re-call.json) |
@@ -1667,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red and the Whispering Woods | 181357 | [181357-red-and-the-whispering-woods.json](./181357-red-and-the-whispering-woods.json) |
 | Red and White | 154018 | [154018-red-and-white.json](./154018-red-and-white.json) |
 | Red Archer | 150143 | [150143-red-archer.json](./150143-red-archer.json) |
+| Red Ash | 60043 | [60043-red-ash.json](./60043-red-ash.json) |
 | Red Babe | 93342 | [93342-red-babe.json](./93342-red-babe.json) |
 | Red Ball | 55917 | [55917-red-ball.json](./55917-red-ball.json) |
 | Red Ball 2 | 166520 | [166520-red-ball-2.json](./166520-red-ball-2.json) |
@@ -3890,6 +3896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robbery Bob | 19501 | [19501-robbery-bob.json](./19501-robbery-bob.json) |
 | Robbery Day | 334206 | [334206-robbery-day.json](./334206-robbery-day.json) |
 | Robbery Madness: Thief Games | 219782 | [219782-robbery-madness-thief-games.json](./219782-robbery-madness-thief-games.json) |
+| Robbo | 60071 | [60071-robbo.json](./60071-robbo.json) |
 | Robby's Day Out | 181850 | [181850-robbys-day-out.json](./181850-robbys-day-out.json) |
 | Robert D. Anderson & the Legacy of Cthulhu | 20772 | [20772-robert-d-anderson-and-the-legacy-of-cthulhu.json](./20772-robert-d-anderson-and-the-legacy-of-cthulhu.json) |
 | Robert on Earth | 303044 | [303044-robert-on-earth.json](./303044-robert-on-earth.json) |
@@ -3905,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin Morningwood Adventure: A Gay RPG | 156097 | [156097-robin-morningwood-adventure-a-gay-rpg.json](./156097-robin-morningwood-adventure-a-gay-rpg.json) |
 | Robin of Loxley the Legend of Sherwood | 74517 | [74517-robin-of-loxley-the-legend-of-sherwood.json](./74517-robin-of-loxley-the-legend-of-sherwood.json) |
 | Robin of Sherwood: The Touchstones of Rhiannon | 73825 | [73825-robin-of-sherwood-the-touchstones-of-rhiannon.json](./73825-robin-of-sherwood-the-touchstones-of-rhiannon.json) |
+| Robin to the Rescue | 60058 | [60058-robin-to-the-rescue.json](./60058-robin-to-the-rescue.json) |
 | Robin's Quest: A Legend Born | 17223 | [17223-robins-quest-a-legend-born.json](./17223-robins-quest-a-legend-born.json) |
 | Robina Hood's Monster Hunt | 360567 | [360567-robina-hoods-monster-hunt.json](./360567-robina-hoods-monster-hunt.json) |
 | RobinBobin | 138220 | [138220-robinbobin.json](./138220-robinbobin.json) |
@@ -5818,6 +5826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rytmos | 158197 | [158197-rytmos.json](./158197-rytmos.json) |
 | Ryu ga Gotoku 1&2 HD Edition | 26603 | [26603-ryu-ga-gotoku-1-and-2-hd-edition.json](./26603-ryu-ga-gotoku-1-and-2-hd-edition.json) |
 | Ryu Jin | 40253 | [40253-ryu-jin.json](./40253-ryu-jin.json) |
+| Ryuki Densyo: Dragoon | 60064 | [60064-ryuki-densyo-dragoon.json](./60064-ryuki-densyo-dragoon.json) |
 | Ryuu ga Gotoku Kenzan! | 7442 | [7442-ryuu-ga-gotoku-kenzan.json](./7442-ryuu-ga-gotoku-kenzan.json) |
 | Ryuuko no Ken 2 | 38347 | [38347-ryuuko-no-ken-2.json](./38347-ryuuko-no-ken-2.json) |
 | Ryuuko No Ken Gaiden | 75517 | [75517-ryuuko-no-ken-gaiden.json](./75517-ryuuko-no-ken-gaiden.json) |
