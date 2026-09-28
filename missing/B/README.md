@@ -189,6 +189,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backbeat and Hexagroove: Music Strategy Bundle | 242074 | [242074-backbeat-and-hexagroove-music-strategy-bundle.json](./242074-backbeat-and-hexagroove-music-strategy-bundle.json) |
 | Backbone: Artifact Edition | 159697 | [159697-backbone-artifact-edition.json](./159697-backbone-artifact-edition.json) |
 | Backbreaker Vengeance | 22942 | [22942-backbreaker-vengeance.json](./22942-backbreaker-vengeance.json) |
+| BackDoor- Door 1 | 101761 | [101761-backdoor-door-1.json](./101761-backdoor-door-1.json) |
+| BackDoor- Door 2 | 101760 | [101760-backdoor-door-2.json](./101760-backdoor-door-2.json) |
 | Backdraft | 255080 | [255080-backdraft.json](./255080-backdraft.json) |
 | Backfire | 28865 | [28865-backfire.json](./28865-backfire.json) |
 | Backfire Brigade | 370137 | [370137-backfire-brigade.json](./370137-backfire-brigade.json) |
@@ -414,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad-Boon Strikes Back | 341706 | [341706-bad-boon-strikes-back.json](./341706-bad-boon-strikes-back.json) |
 | Bada Space Station | 146355 | [146355-bada-space-station.json](./146355-bada-space-station.json) |
 | Badaboom | 233203 | [233203-badaboom.json](./233203-badaboom.json) |
+| Badge Emperor | 101732 | [101732-badge-emperor.json](./101732-badge-emperor.json) |
 | Badger Brawl | 177016 | [177016-badger-brawl.json](./177016-badger-brawl.json) |
 | BadLads | 131597 | [131597-badlads.json](./131597-badlads.json) |
 | Badland Brawl | 77663 | [77663-badland-brawl.json](./77663-badland-brawl.json) |
@@ -2106,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beaconfall | 411001 | [411001-beaconfall.json](./411001-beaconfall.json) |
 | Bead | 90636 | [90636-bead.json](./90636-bead.json) |
 | Beads of orange glass | 205106 | [205106-beads-of-orange-glass.json](./205106-beads-of-orange-glass.json) |
+| Beam Ball | 101731 | [101731-beam-ball.json](./101731-beam-ball.json) |
 | Beam Breakers | 24082 | [24082-beam-breakers.json](./24082-beam-breakers.json) |
 | Beam Cat | 224666 | [224666-beam-cat.json](./224666-beam-cat.json) |
 | Beam Driver | 360048 | [360048-beam-driver.json](./360048-beam-driver.json) |
@@ -4502,6 +4506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky San Andreas Police 2018 | 102753 | [102753-blocky-san-andreas-police-2018.json](./102753-blocky-san-andreas-police-2018.json) |
 | Blocky Soccer | 58205 | [58205-blocky-soccer.json](./58205-blocky-soccer.json) |
 | Blocky Space Puzzle | 106733 | [106733-blocky-space-puzzle.json](./106733-blocky-space-puzzle.json) |
+| Blocky XMas | 101769 | [101769-blocky-xmas.json](./101769-blocky-xmas.json) |
 | Blockz VS Ballz | 111013 | [111013-blockz-vs-ballz.json](./111013-blockz-vs-ballz.json) |
 | Blocus | 313263 | [313263-blocus.json](./313263-blocus.json) |
 | Blofeld X | 269108 | [269108-blofeld-x.json](./269108-blofeld-x.json) |
@@ -7568,6 +7573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust-A-Move Pocket | 43977 | [43977-bust-a-move-pocket.json](./43977-bust-a-move-pocket.json) |
 | Bustafellows | 114536 | [114536-bustafellows.json](./114536-bustafellows.json) |
 | Bustafellows: Collector's Edition | 147251 | [147251-bustafellows-collectors-edition.json](./147251-bustafellows-collectors-edition.json) |
+| Busted Brakes | 101750 | [101750-busted-brakes.json](./101750-busted-brakes.json) |
 | Buster Baxter: Lung Defender | 305863 | [305863-buster-baxter-lung-defender.json](./305863-buster-baxter-lung-defender.json) |
 | Buster Block | 47552 | [47552-buster-block.json](./47552-buster-block.json) |
 | Buster Bros. | 6823 | [6823-buster-bros.json](./6823-buster-bros.json) |
