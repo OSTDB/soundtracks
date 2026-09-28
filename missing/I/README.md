@@ -2561,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Ascension | 110777 | [110777-iron-ascension.json](./110777-iron-ascension.json) |
 | Iron Assault | 142247 | [142247-iron-assault.json](./142247-iron-assault.json) |
 | Iron Ball Ride | 174184 | [174184-iron-ball-ride.json](./174184-iron-ball-ride.json) |
+| Iron Blood | 68722 | [68722-iron-blood.json](./68722-iron-blood.json) |
 | Iron Bramble | 401010 | [401010-iron-bramble.json](./401010-iron-bramble.json) |
 | Iron Cauldron: Guess the Colorblock | 340762 | [340762-iron-cauldron-guess-the-colorblock.json](./340762-iron-cauldron-guess-the-colorblock.json) |
 | Iron Convoy | 330859 | [330859-iron-convoy.json](./330859-iron-convoy.json) |
