@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bacchikoi!: Expansion Pack | 224494 | [224494-bacchikoi-expansion-pack.json](./224494-bacchikoi-expansion-pack.json) |
 | Bacchus | 121626 | [121626-bacchus.json](./121626-bacchus.json) |
 | Bachelairs | 331357 | [331357-bachelairs.json](./331357-bachelairs.json) |
+| Bachelor Party/Gigolo | 79966 | [79966-bachelor-party-gigolo.json](./79966-bachelor-party-gigolo.json) |
 | Bachelorette Party | 313834 | [313834-bachelorette-party.json](./313834-bachelorette-party.json) |
 | Back | 309502 | [309502-back.json](./309502-back.json) |
 | Back & Forth 2 | 263586 | [263586-back-and-forth-2.json](./263586-back-and-forth-2.json) |
