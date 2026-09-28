@@ -4349,6 +4349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game About People | 187839 | [187839-the-game-about-people.json](./187839-the-game-about-people.json) |
 | The Game Creation Recipe | 178449 | [178449-the-game-creation-recipe.json](./178449-the-game-creation-recipe.json) |
 | The Game Has Started | 387007 | [387007-the-game-has-started.json](./387007-the-game-has-started.json) |
+| The Game Maker | 64485 | [64485-the-game-maker.json](./64485-the-game-maker.json) |
 | The Game of Bionic Goat | 339099 | [339099-the-game-of-bionic-goat.json](./339099-the-game-of-bionic-goat.json) |
 | The Game Of Death | 276156 | [276156-the-game-of-death.json](./276156-the-game-of-death.json) |
 | The Game of Life | 106271 | [106271-the-game-of-life.json](./106271-the-game-of-life.json) |
@@ -10648,6 +10649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tlicolity Eyes: Twinkle Showtime | 240522 | [240522-tlicolity-eyes-twinkle-showtime.json](./240522-tlicolity-eyes-twinkle-showtime.json) |
 | TMNT | 146283 | [146283-tmnt.json](./146283-tmnt.json) |
 | TMNT | 3817 | [3817-tmnt.json](./3817-tmnt.json) |
+| TMNT: Ninja Adventures | 64469 | [64469-tmnt-ninja-adventures.json](./64469-tmnt-ninja-adventures.json) |
 | TMNT: The Power of 4 | 146241 | [146241-tmnt-the-power-of-4.json](./146241-tmnt-the-power-of-4.json) |
 | TNA vs. ROH | 256926 | [256926-tna-vs-roh.json](./256926-tna-vs-roh.json) |
 | TNA Wrestling | 81239 | [81239-tna-wrestling.json](./81239-tna-wrestling.json) |
