@@ -617,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 Trials to Heaven | 416104 | [416104-20-trials-to-heaven.json](./416104-20-trials-to-heaven.json) |
 | 20 Useless Apps | 243962 | [243962-20-useless-apps.json](./243962-20-useless-apps.json) |
 | 20 Words // 20 Seconds | 280751 | [280751-20-words-20-seconds.json](./280751-20-words-20-seconds.json) |
+| 20,000 Leagues Above the Clouds | 61726 | [61726-20-000-leagues-above-the-clouds.json](./61726-20-000-leagues-above-the-clouds.json) |
 | 20,000 Leagues Under the Sea: Extended Edition | 382906 | [382906-20-000-leagues-under-the-sea-extended-edition.json](./382906-20-000-leagues-under-the-sea-extended-edition.json) |
 | 20.000 Leagues Under the Sea: Captain Nemo | 93764 | [93764-20-000-leagues-under-the-sea-captain-nemo.json](./93764-20-000-leagues-under-the-sea-captain-nemo.json) |
 | 20.8 Percent | 58476 | [58476-20-8-percent.json](./58476-20-8-percent.json) |
