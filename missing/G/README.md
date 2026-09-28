@@ -2156,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glove Pilot | 380537 | [380537-glove-pilot.json](./380537-glove-pilot.json) |
 | Glover | 193728 | [193728-glover.json](./193728-glover.json) |
 | Glover | 193729 | [193729-glover.json](./193729-glover.json) |
+| Glow Ball : Bouncy wall | 118283 | [118283-glow-ball-bouncy-wall.json](./118283-glow-ball-bouncy-wall.json) |
 | Glow Ball: Not a Billiard Puzzle Game | 100582 | [100582-glow-ball-not-a-billiard-puzzle-game.json](./100582-glow-ball-not-a-billiard-puzzle-game.json) |
 | Glow Chess | 106583 | [106583-glow-chess.json](./106583-glow-chess.json) |
 | Glow Hockey | 103694 | [103694-glow-hockey.json](./103694-glow-hockey.json) |
