@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12am | 212754 | [212754-12am.json](./212754-12am.json) |
 | 12nin no Onna Kyoushi | 98423 | [98423-12nin-no-onna-kyoushi.json](./98423-12nin-no-onna-kyoushi.json) |
 | 12nin no Onna Kyoushi Re-Innovation -In- | 98419 | [98419-12nin-no-onna-kyoushi-re-innovation-in.json](./98419-12nin-no-onna-kyoushi-re-innovation-in.json) |
+| 13 Cycles | 102927 | [102927-13-cycles.json](./102927-13-cycles.json) |
 | 13 Jellyfish | 176793 | [176793-13-jellyfish.json](./176793-13-jellyfish.json) |
 | 13 Laurel Road | 177834 | [177834-13-laurel-road.json](./177834-13-laurel-road.json) |
 | 13 Letters | 98416 | [98416-13-letters.json](./98416-13-letters.json) |
@@ -851,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Game Pack | 266189 | [266189-3d-game-pack.json](./266189-3d-game-pack.json) |
 | 3D Gear | 234587 | [234587-3d-gear.json](./234587-3d-gear.json) |
 | 3D Genesis | 268558 | [268558-3d-genesis.json](./268558-3d-genesis.json) |
+| 3D Gravity Rocket | 102974 | [102974-3d-gravity-rocket.json](./102974-3d-gravity-rocket.json) |
 | 3D Gunner | 128551 | [128551-3d-gunner.json](./128551-3d-gunner.json) |
 | 3D Hentai Chess | 149424 | [149424-3d-hentai-chess.json](./149424-3d-hentai-chess.json) |
 | 3D Hopper | 327387 | [327387-3d-hopper.json](./327387-3d-hopper.json) |
