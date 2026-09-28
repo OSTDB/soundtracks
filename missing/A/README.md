@@ -2319,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Algos United: Live! | 336627 | [336627-algos-united-live.json](./336627-algos-united-live.json) |
 | Algotica Iterations | 113253 | [113253-algotica-iterations.json](./113253-algotica-iterations.json) |
 | Ali Baba | 76196 | [76196-ali-baba.json](./76196-ali-baba.json) |
+| Ali-Baba | 84339 | [84339-ali-baba.json](./84339-ali-baba.json) |
 | Alia's Carnival! Sacrament | 14857 | [14857-alias-carnival-sacrament.json](./14857-alias-carnival-sacrament.json) |
 | Alia's Carnival! Sacrament Plus | 113194 | [113194-alias-carnival-sacrament-plus.json](./113194-alias-carnival-sacrament-plus.json) |
 | Alian | 288751 | [288751-alian.json](./288751-alian.json) |
@@ -2557,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens In Chains | 233616 | [233616-aliens-in-chains.json](./233616-aliens-in-chains.json) |
 | Aliens Invaded Our Planet | 103642 | [103642-aliens-invaded-our-planet.json](./103642-aliens-invaded-our-planet.json) |
 | Aliens Like Milk | 200186 | [200186-aliens-like-milk.json](./200186-aliens-like-milk.json) |
+| Aliens RPG | 84303 | [84303-aliens-rpg.json](./84303-aliens-rpg.json) |
 | Aliens Tower Defense | 248037 | [248037-aliens-tower-defense.json](./248037-aliens-tower-defense.json) |
 | Aliens versus Humans: Missions | 235153 | [235153-aliens-versus-humans-missions.json](./235153-aliens-versus-humans-missions.json) |
 | Aliens versus Predator | 9979 | [9979-aliens-versus-predator.json](./9979-aliens-versus-predator.json) |
@@ -3659,6 +3661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Poring | 74326 | [74326-angel-poring.json](./74326-angel-poring.json) |
 | Angel Precario | 90132 | [90132-angel-precario.json](./90132-angel-precario.json) |
 | Angel Present | 267405 | [267405-angel-present.json](./267405-angel-present.json) |
+| Angel Senki | 84334 | [84334-angel-senki.json](./84334-angel-senki.json) |
 | Angel Sex Pet | 158038 | [158038-angel-sex-pet.json](./158038-angel-sex-pet.json) |
 | Angel Spirit | 293088 | [293088-angel-spirit.json](./293088-angel-spirit.json) |
 | Angel Symphony | 251051 | [251051-angel-symphony.json](./251051-angel-symphony.json) |
@@ -6219,6 +6222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astæria | 134670 | [134670-ast-ria.json](./134670-ast-ria.json) |
 | Astalo | 147879 | [147879-astalo.json](./147879-astalo.json) |
 | Astalon: Tears of the Earth | 80885 | [80885-astalon-tears-of-the-earth.json](./80885-astalon-tears-of-the-earth.json) |
+| AStar | 84300 | [84300-astar.json](./84300-astar.json) |
 | Astar Solis | 366396 | [366396-astar-solis.json](./366396-astar-solis.json) |
 | Astate: La Malédiction des Templiers | 14271 | [14271-astate-la-malediction-des-templiers.json](./14271-astate-la-malediction-des-templiers.json) |
 | Asteion Nights | 87559 | [87559-asteion-nights.json](./87559-asteion-nights.json) |
