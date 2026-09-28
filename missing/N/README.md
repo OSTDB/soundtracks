@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Napoleon: Total War - Imperial Eagle Pack | 82110 | [82110-napoleon-total-war-imperial-eagle-pack.json](./82110-napoleon-total-war-imperial-eagle-pack.json) |
 | Napoleon: Total War - The Peninsular Campaign | 82109 | [82109-napoleon-total-war-the-peninsular-campaign.json](./82109-napoleon-total-war-the-peninsular-campaign.json) |
 | Napoleon's Campaigns | 21362 | [21362-napoleons-campaigns.json](./21362-napoleons-campaigns.json) |
+| Napoleon's Campaigns II | 65045 | [65045-napoleons-campaigns-ii.json](./65045-napoleons-campaigns-ii.json) |
 | Napoleonic Battles: The Final Struggle | 182272 | [182272-napoleonic-battles-the-final-struggle.json](./182272-napoleonic-battles-the-final-struggle.json) |
 | Napple Tale: Arsia in Daydream | 28152 | [28152-napple-tale-arsia-in-daydream.json](./28152-napple-tale-arsia-in-daydream.json) |
 | Nara: Facing Fire | 210086 | [210086-nara-facing-fire.json](./210086-nara-facing-fire.json) |
@@ -2254,6 +2255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden 3 | 7122 | [7122-ninja-gaiden-3.json](./7122-ninja-gaiden-3.json) |
 | Ninja Gaiden 3: Razor's Edge | 5317 | [5317-ninja-gaiden-3-razors-edge.json](./5317-ninja-gaiden-3-razors-edge.json) |
 | Ninja Gaiden 3DS | 269572 | [269572-ninja-gaiden-3ds.json](./269572-ninja-gaiden-3ds.json) |
+| Ninja Gaiden Clans | 65046 | [65046-ninja-gaiden-clans.json](./65046-ninja-gaiden-clans.json) |
 | Ninja Gaiden II | 198838 | [198838-ninja-gaiden-ii.json](./198838-ninja-gaiden-ii.json) |
 | Ninja Gaiden II: The Dark Sword of Chaos | 240143 | [240143-ninja-gaiden-ii-the-dark-sword-of-chaos.json](./240143-ninja-gaiden-ii-the-dark-sword-of-chaos.json) |
 | Ninja Gaiden III: The Ancient Ship of Doom | 17249 | [17249-ninja-gaiden-iii-the-ancient-ship-of-doom.json](./17249-ninja-gaiden-iii-the-ancient-ship-of-doom.json) |
@@ -2437,6 +2439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niplheim's Hunter - Branded Azel | 112834 | [112834-niplheims-hunter-branded-azel.json](./112834-niplheims-hunter-branded-azel.json) |
 | Niplob Adventure | 225726 | [225726-niplob-adventure.json](./225726-niplob-adventure.json) |
 | Nippets | 326613 | [326613-nippets.json](./326613-nippets.json) |
+| Nippon Daihyou Team: Eikou no Eleven | 65031 | [65031-nippon-daihyou-team-eikou-no-eleven.json](./65031-nippon-daihyou-team-eikou-no-eleven.json) |
 | Nippon Marathon | 87673 | [87673-nippon-marathon.json](./87673-nippon-marathon.json) |
 | Nippon Pro Mahjong: Renmei Kounin Motto 20-bai! Mahjgong ga Tsuyoku naru Houhou - Hatsu Chuukyuu-sha-hen | 125913 | [125913-nippon-pro-mahjong-renmei-kounin-motto-20-bai-mahjgong-ga-tsuyoku-naru-houhou-hatsu-chuukyuu-sha-hen.json](./125913-nippon-pro-mahjong-renmei-kounin-motto-20-bai-mahjgong-ga-tsuyoku-naru-houhou-hatsu-chuukyuu-sha-hen.json) |
 | Nippon Suugaku Kentei Kyoukai Kounin: Suuken DS - Otona ga Tokenai!? Kodomo no Sansuu | 269615 | [269615-nippon-suugaku-kentei-kyoukai-kounin-suuken-ds-otona-ga-tokenai-kodomo-no-sansuu.json](./269615-nippon-suugaku-kentei-kyoukai-kounin-suuken-ds-otona-ga-tokenai-kodomo-no-sansuu.json) |
