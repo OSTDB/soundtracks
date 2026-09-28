@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamo | 121465 | [121465-lamo.json](./121465-lamo.json) |
 | Lamp of Aladdin | 23922 | [23922-lamp-of-aladdin.json](./23922-lamp-of-aladdin.json) |
 | Lamplight City | 79999 | [79999-lamplight-city.json](./79999-lamplight-city.json) |
+| Lamplight Station | 76682 | [76682-lamplight-station.json](./76682-lamplight-station.json) |
 | LampMan | 317421 | [317421-lampman.json](./317421-lampman.json) |
 | Lamprey | 277380 | [277380-lamprey.json](./277380-lamprey.json) |
 | Lampy | 276236 | [276236-lampy.json](./276236-lampy.json) |
