@@ -1416,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onslaught | 69201 | [69201-onslaught.json](./69201-onslaught.json) |
 | OnSlaught | 163293 | [163293-onslaught.json](./163293-onslaught.json) |
 | Onslaught on the Solar Frontier | 306369 | [306369-onslaught-on-the-solar-frontier.json](./306369-onslaught-on-the-solar-frontier.json) |
+| Onslaught VR | 90813 | [90813-onslaught-vr.json](./90813-onslaught-vr.json) |
 | Onslaught! Arena | 65778 | [65778-onslaught-arena.json](./65778-onslaught-arena.json) |
 | OnSpace | 111076 | [111076-onspace.json](./111076-onspace.json) |
 | Ontranto | 277955 | [277955-ontranto.json](./277955-ontranto.json) |
@@ -2395,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outside: Stray Cat | 185453 | [185453-outside-stray-cat.json](./185453-outside-stray-cat.json) |
 | Outsider | 201773 | [201773-outsider.json](./201773-outsider.json) |
 | OutSider | 297462 | [297462-outsider.json](./297462-outsider.json) |
+| Outsider Strategist | 90829 | [90829-outsider-strategist.json](./90829-outsider-strategist.json) |
 | Outsider: After Life | 155547 | [155547-outsider-after-life.json](./155547-outsider-after-life.json) |
 | Outsiders | 391871 | [391871-outsiders.json](./391871-outsiders.json) |
 | Outsp4ce | 172176 | [172176-outsp4ce.json](./172176-outsp4ce.json) |
