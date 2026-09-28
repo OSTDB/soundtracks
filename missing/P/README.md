@@ -530,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora's Sack | 406685 | [406685-pandoras-sack.json](./406685-pandoras-sack.json) |
 | Pandoria | 148465 | [148465-pandoria.json](./148465-pandoria.json) |
 | Pandrax | 118194 | [118194-pandrax.json](./118194-pandrax.json) |
+| Panekit: Infinitive Crafting Toy Case | 60596 | [60596-panekit-infinitive-crafting-toy-case.json](./60596-panekit-infinitive-crafting-toy-case.json) |
 | Panel Attack | 167702 | [167702-panel-attack.json](./167702-panel-attack.json) |
 | Panel de Pon | 150107 | [150107-panel-de-pon.json](./150107-panel-de-pon.json) |
 | Panel de Pon | 84157 | [84157-panel-de-pon.json](./84157-panel-de-pon.json) |
@@ -3306,6 +3307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Coast Escape 3 | 315642 | [315642-pirate-coast-escape-3.json](./315642-pirate-coast-escape-3.json) |
 | Pirate Coast Escape 4 | 315644 | [315644-pirate-coast-escape-4.json](./315644-pirate-coast-escape-4.json) |
 | Pirate Code | 62727 | [62727-pirate-code.json](./62727-pirate-code.json) |
+| Pirate Coin Dozer | 60624 | [60624-pirate-coin-dozer.json](./60624-pirate-coin-dozer.json) |
 | Pirate Cove Simulator | 326381 | [326381-pirate-cove-simulator.json](./326381-pirate-cove-simulator.json) |
 | Pirate Dawn | 62414 | [62414-pirate-dawn.json](./62414-pirate-dawn.json) |
 | Pirate Defender | 176805 | [176805-pirate-defender.json](./176805-pirate-defender.json) |
@@ -6536,6 +6538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu Greatest Nine 97 | 231611 | [231611-pro-yakyuu-greatest-nine-97.json](./231611-pro-yakyuu-greatest-nine-97.json) |
 | Pro Yakyuu Spirits 2012 | 44575 | [44575-pro-yakyuu-spirits-2012.json](./44575-pro-yakyuu-spirits-2012.json) |
 | Pro Yakyuu Spirits 2013 | 63903 | [63903-pro-yakyuu-spirits-2013.json](./63903-pro-yakyuu-spirits-2013.json) |
+| Pro Yakyuu Spirits 2015 | 60625 | [60625-pro-yakyuu-spirits-2015.json](./60625-pro-yakyuu-spirits-2015.json) |
 | Pro Yakyuu Spirits 2019 | 109606 | [109606-pro-yakyuu-spirits-2019.json](./109606-pro-yakyuu-spirits-2019.json) |
 | Pro Yakyuu Spirits 3 | 91726 | [91726-pro-yakyuu-spirits-3.json](./91726-pro-yakyuu-spirits-3.json) |
 | Pro Yakyuu Team de Asobou Net! | 125932 | [125932-pro-yakyuu-team-de-asobou-net.json](./125932-pro-yakyuu-team-de-asobou-net.json) |
