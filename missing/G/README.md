@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.G Series: The Spiky Blowfish!! | 84562 | [84562-g-g-series-the-spiky-blowfish.json](./84562-g-g-series-the-spiky-blowfish.json) |
 | G.G Series: Vector | 84561 | [84561-g-g-series-vector.json](./84561-g-g-series-vector.json) |
 | G.G Series: Vertex | 84560 | [84560-g-g-series-vertex.json](./84560-g-g-series-vertex.json) |
+| G.G. Series: Shin Hero Ouga | 67370 | [67370-g-g-series-shin-hero-ouga.json](./67370-g-g-series-shin-hero-ouga.json) |
 | G.H.O.S.T. Chronicles: Phantom of the Faire | 209598 | [209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json](./209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json) |
 | G.I. Joe: A Real American Hero | 218433 | [218433-g-i-joe-a-real-american-hero.json](./218433-g-i-joe-a-real-american-hero.json) |
 | G.I. Joe: Hawk | 218426 | [218426-g-i-joe-hawk.json](./218426-g-i-joe-hawk.json) |
@@ -1919,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Gunner | 277317 | [277317-girl-gunner.json](./277317-girl-gunner.json) |
 | Girl in Darkness | 394126 | [394126-girl-in-darkness.json](./394126-girl-in-darkness.json) |
 | Girl in the B.L | 303787 | [303787-girl-in-the-b-l.json](./303787-girl-in-the-b-l.json) |
+| Girl Jack | 67380 | [67380-girl-jack.json](./67380-girl-jack.json) |
 | Girl Jigsaw 2 | 154365 | [154365-girl-jigsaw-2.json](./154365-girl-jigsaw-2.json) |
 | Girl Like A Dreaming Two in a Restless Night | 391854 | [391854-girl-like-a-dreaming-two-in-a-restless-night.json](./391854-girl-like-a-dreaming-two-in-a-restless-night.json) |
 | Girl Like A Dreaming: Flowering Sacrifice | 284490 | [284490-girl-like-a-dreaming-flowering-sacrifice.json](./284490-girl-like-a-dreaming-flowering-sacrifice.json) |
