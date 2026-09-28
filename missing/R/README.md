@@ -3599,6 +3599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritual | 123401 | [123401-ritual.json](./123401-ritual.json) |
 | Ritual | 302707 | [302707-ritual.json](./302707-ritual.json) |
 | Ritual of Raven | 281390 | [281390-ritual-of-raven.json](./281390-ritual-of-raven.json) |
+| Ritual of the Moon | 113185 | [113185-ritual-of-the-moon.json](./113185-ritual-of-the-moon.json) |
 | Ritual Static | 397655 | [397655-ritual-static.json](./397655-ritual-static.json) |
 | Ritual Tournament | 190107 | [190107-ritual-tournament.json](./190107-ritual-tournament.json) |
 | Ritual: Path of Darkness | 265574 | [265574-ritual-path-of-darkness.json](./265574-ritual-path-of-darkness.json) |
@@ -3899,6 +3900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robosaurus | 264318 | [264318-robosaurus.json](./264318-robosaurus.json) |
 | RoboSk8r | 180687 | [180687-robosk8r.json](./180687-robosk8r.json) |
 | RoboSkate | 139437 | [139437-roboskate.json](./139437-roboskate.json) |
+| RoboSnakes: Core Wars Legacy | 113160 | [113160-robosnakes-core-wars-legacy.json](./113160-robosnakes-core-wars-legacy.json) |
 | Robosnow | 166630 | [166630-robosnow.json](./166630-robosnow.json) |
 | Robospital | 265096 | [265096-robospital.json](./265096-robospital.json) |
 | RoboSport | 73231 | [73231-robosport.json](./73231-robosport.json) |
