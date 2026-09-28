@@ -823,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tides | 158696 | [158696-dark-tides.json](./158696-dark-tides.json) |
 | Dark Tower | 26475 | [26475-dark-tower.json](./26475-dark-tower.json) |
 | Dark Tower | 29182 | [29182-dark-tower.json](./29182-dark-tower.json) |
+| Dark Town : Invisible Danger | 75015 | [75015-dark-town-invisible-danger.json](./75015-dark-town-invisible-danger.json) |
 | Dark Town Secrets: Lost Lulu - Collector's Edition | 389078 | [389078-dark-town-secrets-lost-lulu-collectors-edition.json](./389078-dark-town-secrets-lost-lulu-collectors-edition.json) |
 | Dark Train | 25298 | [25298-dark-train.json](./25298-dark-train.json) |
 | Dark Traveller | 241952 | [241952-dark-traveller.json](./241952-dark-traveller.json) |
@@ -1982,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathgarden: Bloodharvest | 119923 | [119923-deathgarden-bloodharvest.json](./119923-deathgarden-bloodharvest.json) |
 | Deathgasm | 352381 | [352381-deathgasm.json](./352381-deathgasm.json) |
 | DeathGearX | 312728 | [312728-deathgearx.json](./312728-deathgearx.json) |
+| Deathlands | 74513 | [74513-deathlands.json](./74513-deathlands.json) |
 | Deathless | 140360 | [140360-deathless.json](./140360-deathless.json) |
 | Deathlike: Awakening | 30089 | [30089-deathlike-awakening.json](./30089-deathlike-awakening.json) |
 | Deathloop + Ghostwire: Tokyo Bundle | 281406 | [281406-deathloop-ghostwire-tokyo-bundle.json](./281406-deathloop-ghostwire-tokyo-bundle.json) |
@@ -1991,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathly Dangerous | 244338 | [244338-deathly-dangerous.json](./244338-deathly-dangerous.json) |
 | Deathly Stillness | 166619 | [166619-deathly-stillness.json](./166619-deathly-stillness.json) |
 | Deathly Storm: The Edge of Life | 88184 | [88184-deathly-storm-the-edge-of-life.json](./88184-deathly-storm-the-edge-of-life.json) |
+| Deathly Survival | 74509 | [74509-deathly-survival.json](./74509-deathly-survival.json) |
 | DeathMatch | 117685 | [117685-deathmatch.json](./117685-deathmatch.json) |
 | Deathmatch Classic | 9073 | [9073-deathmatch-classic.json](./9073-deathmatch-classic.json) |
 | Deathmatch Club | 130740 | [130740-deathmatch-club.json](./130740-deathmatch-club.json) |
@@ -3695,6 +3698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Differences | 233617 | [233617-differences.json](./233617-differences.json) |
 | Differences Master | 392930 | [392930-differences-master.json](./392930-differences-master.json) |
 | Different Strokes | 213030 | [213030-different-strokes.json](./213030-different-strokes.json) |
+| Differently Fast | 74519 | [74519-differently-fast.json](./74519-differently-fast.json) |
 | Difficult times | 327826 | [327826-difficult-times.json](./327826-difficult-times.json) |
 | Diffraction | 207247 | [207247-diffraction.json](./207247-diffraction.json) |
 | Diffusion | 316771 | [316771-diffusion.json](./316771-diffusion.json) |
@@ -4513,6 +4517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distressed | 320932 | [320932-distressed.json](./320932-distressed.json) |
 | Distribution Center | 262306 | [262306-distribution-center.json](./262306-distribution-center.json) |
 | Distributor Simulator | 237285 | [237285-distributor-simulator.json](./237285-distributor-simulator.json) |
+| District 7 | 74282 | [74282-district-7.json](./74282-district-7.json) |
 | District 99 | 160259 | [160259-district-99.json](./160259-district-99.json) |
 | District Panic | 295387 | [295387-district-panic.json](./295387-district-panic.json) |
 | District Steel | 28912 | [28912-district-steel.json](./28912-district-steel.json) |
@@ -4949,6 +4954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogs Cyberpuzzle | 203949 | [203949-dogs-cyberpuzzle.json](./203949-dogs-cyberpuzzle.json) |
 | Dogs of the Dark | 265678 | [265678-dogs-of-the-dark.json](./265678-dogs-of-the-dark.json) |
 | Dogs of Wallstreet | 197925 | [197925-dogs-of-wallstreet.json](./197925-dogs-of-wallstreet.json) |
+| Dogs of War | 74307 | [74307-dogs-of-war.json](./74307-dogs-of-war.json) |
 | Dogs of War Online | 15391 | [15391-dogs-of-war-online.json](./15391-dogs-of-war-online.json) |
 | Dogs Organized Neatly | 154011 | [154011-dogs-organized-neatly.json](./154011-dogs-organized-neatly.json) |
 | Dogs++ | 180814 | [180814-dogs.json](./180814-dogs.json) |
@@ -5280,6 +5286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Take It Personally, Babe, It Just Ain't Your Story | 66033 | [66033-dont-take-it-personally-babe-it-just-aint-your-story.json](./66033-dont-take-it-personally-babe-it-just-aint-your-story.json) |
 | Don't Take It Personally, I Just Don't Like You | 246924 | [246924-dont-take-it-personally-i-just-dont-like-you.json](./246924-dont-take-it-personally-i-just-dont-like-you.json) |
 | Don't Take Me Away | 329074 | [329074-dont-take-me-away.json](./329074-dont-take-me-away.json) |
+| Don't Take This Risk | 75223 | [75223-dont-take-this-risk.json](./75223-dont-take-this-risk.json) |
 | Don't Tap the White Tile | 57324 | [57324-dont-tap-the-white-tile.json](./57324-dont-tap-the-white-tile.json) |
 | Don't Tell My Wife | 396197 | [396197-dont-tell-my-wife.json](./396197-dont-tell-my-wife.json) |
 | Don't Touch Lava | 215038 | [215038-dont-touch-lava.json](./215038-dont-touch-lava.json) |
@@ -6625,6 +6632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadline: Net Quota | 345686 | [345686-dreadline-net-quota.json](./345686-dreadline-net-quota.json) |
 | DreadMoon | 272379 | [272379-dreadmoon.json](./272379-dreadmoon.json) |
 | Dreadnaughts | 55178 | [55178-dreadnaughts.json](./55178-dreadnaughts.json) |
+| Dreadnought Sol | 75022 | [75022-dreadnought-sol.json](./75022-dreadnought-sol.json) |
 | Dreadnought Tartarus | 383481 | [383481-dreadnought-tartarus.json](./383481-dreadnought-tartarus.json) |
 | Dreadnut | 390805 | [390805-dreadnut.json](./390805-dreadnut.json) |
 | DreadOut | 11712 | [11712-dreadout.json](./11712-dreadout.json) |
