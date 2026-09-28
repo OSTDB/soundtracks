@@ -2437,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dekaron M | 165416 | [165416-dekaron-m.json](./165416-dekaron-m.json) |
 | Dekisugi Tingle Pack | 100169 | [100169-dekisugi-tingle-pack.json](./100169-dekisugi-tingle-pack.json) |
 | Dekoboko Densetsu: Hashiru Wagamanma | 145674 | [145674-dekoboko-densetsu-hashiru-wagamanma.json](./145674-dekoboko-densetsu-hashiru-wagamanma.json) |
+| Dekorating Blues | 73332 | [73332-dekorating-blues.json](./73332-dekorating-blues.json) |
 | Delares | 154383 | [154383-delares.json](./154383-delares.json) |
 | Delaware St. John: Volume 1 - The Curse of Midnight Manor / Volume 2: The Town with No Name | 93050 | [93050-delaware-st-john-volume-1-the-curse-of-midnight-manor-volume-2-the-town-with-no-name.json](./93050-delaware-st-john-volume-1-the-curse-of-midnight-manor-volume-2-the-town-with-no-name.json) |
 | Delay | 90643 | [90643-delay.json](./90643-delay.json) |
@@ -3175,6 +3176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detail Hunter | 322982 | [322982-detail-hunter.json](./322982-detail-hunter.json) |
 | DeTails | 355129 | [355129-details.json](./355129-details.json) |
 | Detained: Too Good for School | 152148 | [152148-detained-too-good-for-school.json](./152148-detained-too-good-for-school.json) |
+| Detana TwinBee Yahho! Deluxe Pack | 73358 | [73358-detana-twinbee-yahho-deluxe-pack.json](./73358-detana-twinbee-yahho-deluxe-pack.json) |
 | Detana!! TwinBee | 202103 | [202103-detana-twinbee.json](./202103-detana-twinbee.json) |
 | Detana!! TwinBee | 202104 | [202104-detana-twinbee.json](./202104-detana-twinbee.json) |
 | DeTechtive 2112 | 295333 | [295333-detechtive-2112.json](./295333-detechtive-2112.json) |
@@ -5835,6 +5837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Smash Ninja | 246083 | [246083-double-smash-ninja.json](./246083-double-smash-ninja.json) |
 | Double Switch | 5375 | [5375-double-switch.json](./5375-double-switch.json) |
 | Double Switch: 25th Anniversary Edition | 111152 | [111152-double-switch-25th-anniversary-edition.json](./111152-double-switch-25th-anniversary-edition.json) |
+| Double Talk: Sports Edition | 73360 | [73360-double-talk-sports-edition.json](./73360-double-talk-sports-edition.json) |
 | Double Trouble | 215928 | [215928-double-trouble.json](./215928-double-trouble.json) |
 | Double Trouble | 267470 | [267470-double-trouble.json](./267470-double-trouble.json) |
 | Double View | 250432 | [250432-double-view.json](./250432-double-view.json) |
@@ -6386,6 +6389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Slayer | 80519 | [80519-dragon-slayer.json](./80519-dragon-slayer.json) |
 | Dragon Slayer and The Leaf Town | 348966 | [348966-dragon-slayer-and-the-leaf-town.json](./348966-dragon-slayer-and-the-leaf-town.json) |
 | Dragon Slayer Chronicle | 112155 | [112155-dragon-slayer-chronicle.json](./112155-dragon-slayer-chronicle.json) |
+| Dragon Slayer Gaiden: Nemuri no Oukan | 73347 | [73347-dragon-slayer-gaiden-nemuri-no-oukan.json](./73347-dragon-slayer-gaiden-nemuri-no-oukan.json) |
 | Dragon Slayer I | 344961 | [344961-dragon-slayer-i.json](./344961-dragon-slayer-i.json) |
 | Dragon Slayers | 123012 | [123012-dragon-slayers.json](./123012-dragon-slayers.json) |
 | Dragon Snack: From Ice to Ember | 399624 | [399624-dragon-snack-from-ice-to-ember.json](./399624-dragon-snack-from-ice-to-ember.json) |
@@ -7301,6 +7305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DT Racer Refueled | 68306 | [68306-dt-racer-refueled.json](./68306-dt-racer-refueled.json) |
 | DT: Lords of Genomes | 65523 | [65523-dt-lords-of-genomes.json](./65523-dt-lords-of-genomes.json) |
 | DTET | 341123 | [341123-dtet.json](./341123-dtet.json) |
+| DTM Race Driver: Director's Cut | 73371 | [73371-dtm-race-driver-directors-cut.json](./73371-dtm-race-driver-directors-cut.json) |
 | DTXMania | 123018 | [123018-dtxmania.json](./123018-dtxmania.json) |
 | DTXMania AL | 123015 | [123015-dtxmania-al.json](./123015-dtxmania-al.json) |
 | DTXMania GR | 123016 | [123016-dtxmania-gr.json](./123016-dtxmania-gr.json) |
