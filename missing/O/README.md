@@ -1168,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Romance Dawn | 6851 | [6851-one-piece-romance-dawn.json](./6851-one-piece-romance-dawn.json) |
 | One Piece: Starboard | 300799 | [300799-one-piece-starboard.json](./300799-one-piece-starboard.json) |
 | One Piece: Unlimited Cruise SP2 | 79261 | [79261-one-piece-unlimited-cruise-sp2.json](./79261-one-piece-unlimited-cruise-sp2.json) |
+| One Piece: Unlimited World Red - Prestige Edition | 99804 | [99804-one-piece-unlimited-world-red-prestige-edition.json](./99804-one-piece-unlimited-world-red-prestige-edition.json) |
 | One Piece: World Seeker Episode Pass | 152911 | [152911-one-piece-world-seeker-episode-pass.json](./152911-one-piece-world-seeker-episode-pass.json) |
 | One Punch | 151657 | [151657-one-punch.json](./151657-one-punch.json) |
 | One Punch Man | 175711 | [175711-one-punch-man.json](./175711-one-punch-man.json) |
@@ -1804,6 +1805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Organ Failure | 383385 | [383385-organ-failure.json](./383385-organ-failure.json) |
 | Organ of Eden | 263002 | [263002-organ-of-eden.json](./263002-organ-of-eden.json) |
 | Organ Quarter Pre-Alpha Demo | 30909 | [30909-organ-quarter-pre-alpha-demo.json](./30909-organ-quarter-pre-alpha-demo.json) |
+| Organ Trail: Complete Edition | 99765 | [99765-organ-trail-complete-edition.json](./99765-organ-trail-complete-edition.json) |
 | Organ Trail: Director's Cut | 6859 | [6859-organ-trail-directors-cut.json](./6859-organ-trail-directors-cut.json) |
 | Organic Burger Simulator | 344554 | [344554-organic-burger-simulator.json](./344554-organic-burger-simulator.json) |
 | Organic Dissociation | 271298 | [271298-organic-dissociation.json](./271298-organic-dissociation.json) |
