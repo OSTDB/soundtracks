@@ -11517,6 +11517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steep Town | 262305 | [262305-steep-town.json](./262305-steep-town.json) |
 | Steep: X Games Pack | 251643 | [251643-steep-x-games-pack.json](./251643-steep-x-games-pack.json) |
 | Steeplejack | 383968 | [383968-steeplejack.json](./383968-steeplejack.json) |
+| Steer Madness | 66745 | [66745-steer-madness.json](./66745-steer-madness.json) |
 | Steezelpunk | 391722 | [391722-steezelpunk.json](./391722-steezelpunk.json) |
 | Stefanos Sizzilin Pizza Pie | 103481 | [103481-stefanos-sizzilin-pizza-pie.json](./103481-stefanos-sizzilin-pizza-pie.json) |
 | Stefanos Sizzlin Pizza Pie | 180042 | [180042-stefanos-sizzlin-pizza-pie.json](./180042-stefanos-sizzlin-pizza-pie.json) |
@@ -11648,6 +11649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StepByStep | 371906 | [371906-stepbystep.json](./371906-stepbystep.json) |
 | Stephen King's F13 | 74412 | [74412-stephen-kings-f13.json](./74412-stephen-kings-f13.json) |
 | Stephen King's F13 | 92828 | [92828-stephen-kings-f13.json](./92828-stephen-kings-f13.json) |
+| Stepping Selection | 66741 | [66741-stepping-selection.json](./66741-stepping-selection.json) |
 | Steppy Pants | 57944 | [57944-steppy-pants.json](./57944-steppy-pants.json) |
 | Steptile | 287097 | [287097-steptile.json](./287097-steptile.json) |
 | StepX | 67915 | [67915-stepx.json](./67915-stepx.json) |
