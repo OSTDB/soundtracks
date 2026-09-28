@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.D.K | 170986 | [170986-b-d-k.json](./170986-b-d-k.json) |
 | B.I.D. | 390619 | [390619-b-i-d.json](./390619-b-i-d.json) |
 | B.I.N.D. | 212907 | [212907-b-i-n-d.json](./212907-b-i-n-d.json) |
+| B.I.T | 99182 | [99182-b-i-t.json](./99182-b-i-t.json) |
 | B.M.G 19: Bike Messenger Go! | 115707 | [115707-b-m-g-19-bike-messenger-go.json](./115707-b-m-g-19-bike-messenger-go.json) |
 | B.O.B.2 | 303812 | [303812-b-o-b-2.json](./303812-b-o-b-2.json) |
 | B.O.D.A.: Send the Plant Home | 183967 | [183967-b-o-d-a-send-the-plant-home.json](./183967-b-o-d-a-send-the-plant-home.json) |
@@ -1363,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Challenge | 14498 | [14498-basketball-challenge.json](./14498-basketball-challenge.json) |
 | Basketball Court VR | 32166 | [32166-basketball-court-vr.json](./32166-basketball-court-vr.json) |
 | Basketball Dunk Tournament | 197336 | [197336-basketball-dunk-tournament.json](./197336-basketball-dunk-tournament.json) |
+| Basketball Dynasty Manager 16 | 99175 | [99175-basketball-dynasty-manager-16.json](./99175-basketball-dynasty-manager-16.json) |
 | Basketball Grand Slam 2024 | 269089 | [269089-basketball-grand-slam-2024.json](./269089-basketball-grand-slam-2024.json) |
 | Basketball Hero | 109174 | [109174-basketball-hero.json](./109174-basketball-hero.json) |
 | Basketball Hero VR | 102198 | [102198-basketball-hero-vr.json](./102198-basketball-hero-vr.json) |
@@ -4817,6 +4819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blossom | 178530 | [178530-blossom.json](./178530-blossom.json) |
 | Blossom | 290469 | [290469-blossom.json](./290469-blossom.json) |
 | Blossom | 388708 | [388708-blossom.json](./388708-blossom.json) |
+| Blossom Blast Saga | 99140 | [99140-blossom-blast-saga.json](./99140-blossom-blast-saga.json) |
 | Blossom Breeze | 347356 | [347356-blossom-breeze.json](./347356-blossom-breeze.json) |
 | Blossoms of Eternity | 339815 | [339815-blossoms-of-eternity.json](./339815-blossoms-of-eternity.json) |
 | Blow Away | 244885 | [244885-blow-away.json](./244885-blow-away.json) |
@@ -6321,6 +6324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Free | 304334 | [304334-break-free.json](./304334-break-free.json) |
 | Break In | 70097 | [70097-break-in.json](./70097-break-in.json) |
 | Break Into Zatwor | 27775 | [27775-break-into-zatwor.json](./27775-break-into-zatwor.json) |
+| Break It Out | 99194 | [99194-break-it-out.json](./99194-break-it-out.json) |
 | Break Limit | 91945 | [91945-break-limit.json](./91945-break-limit.json) |
 | Break Liner | 57346 | [57346-break-liner.json](./57346-break-liner.json) |
 | Break my body | 120771 | [120771-break-my-body.json](./120771-break-my-body.json) |
