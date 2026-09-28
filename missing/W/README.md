@@ -2795,6 +2795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Pool | 386287 | [386287-wizard-pool.json](./386287-wizard-pool.json) |
 | Wizard Pulse | 304573 | [304573-wizard-pulse.json](./304573-wizard-pulse.json) |
 | Wizard School Dropout | 416860 | [416860-wizard-school-dropout.json](./416860-wizard-school-dropout.json) |
+| Wizard Slime | 113173 | [113173-wizard-slime.json](./113173-wizard-slime.json) |
 | Wizard Soup | 408812 | [408812-wizard-soup.json](./408812-wizard-soup.json) |
 | Wizard Tournament | 304012 | [304012-wizard-tournament.json](./304012-wizard-tournament.json) |
 | Wizard Vs Zombie | 88783 | [88783-wizard-vs-zombie.json](./88783-wizard-vs-zombie.json) |
