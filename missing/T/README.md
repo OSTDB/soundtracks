@@ -3139,6 +3139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Child Of Slendrina | 323911 | [323911-the-child-of-slendrina.json](./323911-the-child-of-slendrina.json) |
 | The Chilling Moment You Realize It: Creepy Meaning Psychological Test | 410366 | [410366-the-chilling-moment-you-realize-it-creepy-meaning-psychological-test.json](./410366-the-chilling-moment-you-realize-it-creepy-meaning-psychological-test.json) |
 | The Chinese Room | 26699 | [26699-the-chinese-room.json](./26699-the-chinese-room.json) |
+| The Choco Of Dunkers 2003 | 97488 | [97488-the-choco-of-dunkers-2003.json](./97488-the-choco-of-dunkers-2003.json) |
 | The Choicer Voicer | 307223 | [307223-the-choicer-voicer.json](./307223-the-choicer-voicer.json) |
 | The Choices Of Priori | 412546 | [412546-the-choices-of-priori.json](./412546-the-choices-of-priori.json) |
 | The Choreographist | 140564 | [140564-the-choreographist.json](./140564-the-choreographist.json) |
@@ -10258,6 +10259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Dino | 343257 | [343257-tiny-dino.json](./343257-tiny-dino.json) |
 | Tiny Divide | 325631 | [325631-tiny-divide.json](./325631-tiny-divide.json) |
 | Tiny Dragon Story | 247583 | [247583-tiny-dragon-story.json](./247583-tiny-dragon-story.json) |
+| Tiny Dragons | 97491 | [97491-tiny-dragons.json](./97491-tiny-dragons.json) |
 | Tiny Dream Home | 358313 | [358313-tiny-dream-home.json](./358313-tiny-dream-home.json) |
 | Tiny Duck Hunt 3D | 333170 | [333170-tiny-duck-hunt-3d.json](./333170-tiny-duck-hunt-3d.json) |
 | Tiny Eden | 346609 | [346609-tiny-eden.json](./346609-tiny-eden.json) |
@@ -10628,6 +10630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobe's Vertical Adventure | 249141 | [249141-tobes-vertical-adventure.json](./249141-tobes-vertical-adventure.json) |
 | Toberu yo! Honoka-chan | 405509 | [405509-toberu-yo-honoka-chan.json](./405509-toberu-yo-honoka-chan.json) |
 | Tobia's Animal Farm | 301965 | [301965-tobias-animal-farm.json](./301965-tobias-animal-farm.json) |
+| Tobimarisa | 97511 | [97511-tobimarisa.json](./97511-tobimarisa.json) |
 | Tobitaro | 391152 | [391152-tobitaro.json](./391152-tobitaro.json) |
 | Tobla: Divine Path | 279132 | [279132-tobla-divine-path.json](./279132-tobla-divine-path.json) |
 | Toblo | 93989 | [93989-toblo.json](./93989-toblo.json) |
