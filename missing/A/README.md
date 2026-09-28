@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssus Deep Under | 309322 | [309322-abyssus-deep-under.json](./309322-abyssus-deep-under.json) |
 | Abysswalkers | 260646 | [260646-abysswalkers.json](./260646-abysswalkers.json) |
 | AC/DC Live: Rock Band - Track Pack | 6467 | [6467-ac-dc-live-rock-band-track-pack.json](./6467-ac-dc-live-rock-band-track-pack.json) |
+| ACA Neo Geo: Art of Fighting 3 | 118916 | [118916-aca-neo-geo-art-of-fighting-3.json](./118916-aca-neo-geo-art-of-fighting-3.json) |
 | ACA Neo Geo: Blazing Star | 90518 | [90518-aca-neo-geo-blazing-star.json](./90518-aca-neo-geo-blazing-star.json) |
 | ACA Neo Geo: Burning Fight | 85538 | [85538-aca-neo-geo-burning-fight.json](./85538-aca-neo-geo-burning-fight.json) |
 | ACA Neo Geo: Nam-1975 | 28409 | [28409-aca-neo-geo-nam-1975.json](./28409-aca-neo-geo-nam-1975.json) |
@@ -874,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces of the Air | 43938 | [43938-aces-of-the-air.json](./43938-aces-of-the-air.json) |
 | Aces of the Deep | 12384 | [12384-aces-of-the-deep.json](./12384-aces-of-the-deep.json) |
 | Aces of the Luftwaffe | 35650 | [35650-aces-of-the-luftwaffe.json](./35650-aces-of-the-luftwaffe.json) |
+| Aces of the Luftwaffe: Squadron - Extended Edition | 119084 | [119084-aces-of-the-luftwaffe-squadron-extended-edition.json](./119084-aces-of-the-luftwaffe-squadron-extended-edition.json) |
 | Aces of the Pacific | 12385 | [12385-aces-of-the-pacific.json](./12385-aces-of-the-pacific.json) |
 | Aces of War | 45294 | [45294-aces-of-war.json](./45294-aces-of-war.json) |
 | Aces Over Airfields | 379462 | [379462-aces-over-airfields.json](./379462-aces-over-airfields.json) |
@@ -4773,6 +4775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Hyper Sports | 126493 | [126493-arcade-archives-hyper-sports.json](./126493-arcade-archives-hyper-sports.json) |
 | Arcade Archives: Ice Climber | 68333 | [68333-arcade-archives-ice-climber.json](./68333-arcade-archives-ice-climber.json) |
 | Arcade Archives: Ikki | 99567 | [99567-arcade-archives-ikki.json](./99567-arcade-archives-ikki.json) |
+| Arcade Archives: Image Fight | 119087 | [119087-arcade-archives-image-fight.json](./119087-arcade-archives-image-fight.json) |
 | Arcade Archives: Kid's Horehore Daisakusen | 99544 | [99544-arcade-archives-kids-horehore-daisakusen.json](./99544-arcade-archives-kids-horehore-daisakusen.json) |
 | Arcade Archives: King & Balloon | 257326 | [257326-arcade-archives-king-and-balloon.json](./257326-arcade-archives-king-and-balloon.json) |
 | Arcade Archives: Knuckle Heads | 314877 | [314877-arcade-archives-knuckle-heads.json](./314877-arcade-archives-knuckle-heads.json) |
@@ -5122,6 +5125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic | 56479 | [56479-arctic.json](./56479-arctic.json) |
 | Arctic Adventure | 8488 | [8488-arctic-adventure.json](./8488-arctic-adventure.json) |
 | Arctic Adventure: Episodes | 28783 | [28783-arctic-adventure-episodes.json](./28783-arctic-adventure-episodes.json) |
+| Arctic Adventures: Polar's Puzzles | 118931 | [118931-arctic-adventures-polars-puzzles.json](./118931-arctic-adventures-polars-puzzles.json) |
 | Arctic Cave | 98987 | [98987-arctic-cave.json](./98987-arctic-cave.json) |
 | Arctic Combat | 63888 | [63888-arctic-combat.json](./63888-arctic-combat.json) |
 | Arctic Digger TCG Collection | 358873 | [358873-arctic-digger-tcg-collection.json](./358873-arctic-digger-tcg-collection.json) |
@@ -5954,6 +5958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed III: The Battle Hardened Pack | 151548 | [151548-assassins-creed-iii-the-battle-hardened-pack.json](./151548-assassins-creed-iii-the-battle-hardened-pack.json) |
 | Assassin's Creed IV Black Flag: Aveline | 26095 | [26095-assassins-creed-iv-black-flag-aveline.json](./26095-assassins-creed-iv-black-flag-aveline.json) |
 | Assassin's Creed IV: Black Flag - Buccaneer Edition | 89872 | [89872-assassins-creed-iv-black-flag-buccaneer-edition.json](./89872-assassins-creed-iv-black-flag-buccaneer-edition.json) |
+| Assassin's Creed IV: Black Flag - Deluxe Edition | 118927 | [118927-assassins-creed-iv-black-flag-deluxe-edition.json](./118927-assassins-creed-iv-black-flag-deluxe-edition.json) |
 | Assassin's Creed IV: Black Flag - Jackdaw Edition | 100553 | [100553-assassins-creed-iv-black-flag-jackdaw-edition.json](./100553-assassins-creed-iv-black-flag-jackdaw-edition.json) |
 | Assassin's Creed Jade | 216319 | [216319-assassins-creed-jade.json](./216319-assassins-creed-jade.json) |
 | Assassin's Creed Legendary Collection | 164778 | [164778-assassins-creed-legendary-collection.json](./164778-assassins-creed-legendary-collection.json) |
@@ -6480,6 +6485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Lilie Plus: The Alchemist of Salburg 3 | 43516 | [43516-atelier-lilie-plus-the-alchemist-of-salburg-3.json](./43516-atelier-lilie-plus-the-alchemist-of-salburg-3.json) |
 | Atelier Lulua: The Scion of Arland - Additional Character: Meruru | 238049 | [238049-atelier-lulua-the-scion-of-arland-additional-character-meruru.json](./238049-atelier-lulua-the-scion-of-arland-additional-character-meruru.json) |
 | Atelier Lulua: The Scion of Arland - Additional Character: Totori | 238050 | [238050-atelier-lulua-the-scion-of-arland-additional-character-totori.json](./238050-atelier-lulua-the-scion-of-arland-additional-character-totori.json) |
+| Atelier Lulua: The Scion of Arland - Digital Deluxe Edition | 118934 | [118934-atelier-lulua-the-scion-of-arland-digital-deluxe-edition.json](./118934-atelier-lulua-the-scion-of-arland-digital-deluxe-edition.json) |
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - Great Adventures in New Worlds Vol. 1 | 171395 | [171395-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-great-adventures-in-new-worlds-vol-1.json](./171395-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-great-adventures-in-new-worlds-vol-1.json) |
 | Atelier Marie | 329384 | [329384-atelier-marie.json](./329384-atelier-marie.json) |
 | Atelier Marie & Elie: The Alchemist of Salburg | 329357 | [329357-atelier-marie-and-elie-the-alchemist-of-salburg.json](./329357-atelier-marie-and-elie-the-alchemist-of-salburg.json) |
