@@ -1615,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opia | 322946 | [322946-opia.json](./322946-opia.json) |
 | Oplitak | 155982 | [155982-oplitak.json](./155982-oplitak.json) |
 | Oppai Academy Big, Bouncy, Booby Babes! | 147454 | [147454-oppai-academy-big-bouncy-booby-babes.json](./147454-oppai-academy-big-bouncy-booby-babes.json) |
+| Oppai Heart: Kanojo wa Kedamono Hatsujouki!? | 77934 | [77934-oppai-heart-kanojo-wa-kedamono-hatsujouki.json](./77934-oppai-heart-kanojo-wa-kedamono-hatsujouki.json) |
 | Oppai Muse | 203383 | [203383-oppai-muse.json](./203383-oppai-muse.json) |
 | Oppai Oppai Orbs | 341683 | [341683-oppai-oppai-orbs.json](./341683-oppai-oppai-orbs.json) |
 | Oppai Puzzle | 335440 | [335440-oppai-puzzle.json](./335440-oppai-puzzle.json) |
