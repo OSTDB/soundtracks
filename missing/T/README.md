@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Top Racing: World Tour | 18978 | [18978-table-top-racing-world-tour.json](./18978-table-top-racing-world-tour.json) |
 | TableSoccer | 339092 | [339092-tablesoccer.json](./339092-tablesoccer.json) |
 | Tabletop Baseball | 412396 | [412396-tabletop-baseball.json](./412396-tabletop-baseball.json) |
+| Tabletop Dice | 108617 | [108617-tabletop-dice.json](./108617-tabletop-dice.json) |
 | Tabletop Gallery | 85419 | [85419-tabletop-gallery.json](./85419-tabletop-gallery.json) |
 | Tabletop Simulator: Down in Flames - Locked-On | 161264 | [161264-tabletop-simulator-down-in-flames-locked-on.json](./161264-tabletop-simulator-down-in-flames-locked-on.json) |
 | Tabletop Simulator: Draco Magi | 161270 | [161270-tabletop-simulator-draco-magi.json](./161270-tabletop-simulator-draco-magi.json) |
@@ -5913,6 +5914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Metronomicon: Slay the Dance Floor - Indie Game Challenge Pack 1 | 224485 | [224485-the-metronomicon-slay-the-dance-floor-indie-game-challenge-pack-1.json](./224485-the-metronomicon-slay-the-dance-floor-indie-game-challenge-pack-1.json) |
 | The Metronomicon: Slay the Dance Floor - The End Records Challenge Pack | 225580 | [225580-the-metronomicon-slay-the-dance-floor-the-end-records-challenge-pack.json](./225580-the-metronomicon-slay-the-dance-floor-the-end-records-challenge-pack.json) |
 | The Miami Horror | 176347 | [176347-the-miami-horror.json](./176347-the-miami-horror.json) |
+| The Mice of Riddle Place - The Mystery of Mrs. Wirth | 108605 | [108605-the-mice-of-riddle-place-the-mystery-of-mrs-wirth.json](./108605-the-mice-of-riddle-place-the-mystery-of-mrs-wirth.json) |
 | The Mice Plight | 259008 | [259008-the-mice-plight.json](./259008-the-mice-plight.json) |
 | The Midnight Bakery | 135875 | [135875-the-midnight-bakery.json](./135875-the-midnight-bakery.json) |
 | The Midnight Lapse: Reborn | 26984 | [26984-the-midnight-lapse-reborn.json](./26984-the-midnight-lapse-reborn.json) |
@@ -9949,6 +9951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Assassin | 344383 | [344383-time-assassin.json](./344383-time-assassin.json) |
 | Time Attack! RPG | 152382 | [152382-time-attack-rpg.json](./152382-time-attack-rpg.json) |
 | Time Avarice | 295267 | [295267-time-avarice.json](./295267-time-avarice.json) |
+| Time Barbarian Extreme!! | 108639 | [108639-time-barbarian-extreme.json](./108639-time-barbarian-extreme.json) |
 | Time Break 2121 | 121464 | [121464-time-break-2121.json](./121464-time-break-2121.json) |
 | Time Breaking: Dino Breach | 386427 | [386427-time-breaking-dino-breach.json](./386427-time-breaking-dino-breach.json) |
 | Time Climber | 276726 | [276726-time-climber.json](./276726-time-climber.json) |
@@ -11097,6 +11100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toontown Online | 25326 | [25326-toontown-online.json](./25326-toontown-online.json) |
 | Toontown Rewritten: Clear Coasts | 373635 | [373635-toontown-rewritten-clear-coasts.json](./373635-toontown-rewritten-clear-coasts.json) |
 | Toontown: The Grindworks | 333930 | [333930-toontown-the-grindworks.json](./333930-toontown-the-grindworks.json) |
+| Toot's Race | 108593 | [108593-toots-race.json](./108593-toots-race.json) |
 | Tooth Fairy Horse | 250454 | [250454-tooth-fairy-horse.json](./250454-tooth-fairy-horse.json) |
 | Toothy History | 160221 | [160221-toothy-history.json](./160221-toothy-history.json) |
 | Tootsie Pop | 273896 | [273896-tootsie-pop.json](./273896-tootsie-pop.json) |
@@ -12848,6 +12852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transit | 365113 | [365113-transit.json](./365113-transit.json) |
 | Transit King Tycoon | 140399 | [140399-transit-king-tycoon.json](./140399-transit-king-tycoon.json) |
 | TransMemory | 318802 | [318802-transmemory.json](./318802-transmemory.json) |
+| Transmission | 108606 | [108606-transmission.json](./108606-transmission.json) |
 | Transmission From Start to End | 308900 | [308900-transmission-from-start-to-end.json](./308900-transmission-from-start-to-end.json) |
 | Transmissions | 213412 | [213412-transmissions.json](./213412-transmissions.json) |
 | Transmorpher 3 | 101937 | [101937-transmorpher-3.json](./101937-transmorpher-3.json) |
