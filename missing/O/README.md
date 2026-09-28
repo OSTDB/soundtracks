@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OffRoad | 85839 | [85839-offroad.json](./85839-offroad.json) |
 | Offroad Arcade | 389981 | [389981-offroad-arcade.json](./389981-offroad-arcade.json) |
 | Offroad Delivery Service | 216979 | [216979-offroad-delivery-service.json](./216979-offroad-delivery-service.json) |
+| OffRoad Drive Desert | 90087 | [90087-offroad-drive-desert.json](./90087-offroad-drive-desert.json) |
 | Offroad Driving Simulator 4x4: Trucks & SUV Trophy | 147933 | [147933-offroad-driving-simulator-4x4-trucks-and-suv-trophy.json](./147933-offroad-driving-simulator-4x4-trucks-and-suv-trophy.json) |
 | Offroad Extreme! | 66935 | [66935-offroad-extreme.json](./66935-offroad-extreme.json) |
 | Offroad Moto Bike | 232464 | [232464-offroad-moto-bike.json](./232464-offroad-moto-bike.json) |
@@ -1724,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbo | 292822 | [292822-orbo.json](./292822-orbo.json) |
 | Orbo's Exodus | 314907 | [314907-orbos-exodus.json](./314907-orbos-exodus.json) |
 | Orbo's Odyssey | 260493 | [260493-orbos-odyssey.json](./260493-orbos-odyssey.json) |
+| Orbos | 90123 | [90123-orbos.json](./90123-orbos.json) |
 | OrbQuest: The Search for Seven Wards | 140450 | [140450-orbquest-the-search-for-seven-wards.json](./140450-orbquest-the-search-for-seven-wards.json) |
 | Orbs Match | 88157 | [88157-orbs-match.json](./88157-orbs-match.json) |
 | Orbs Orbs Orbs | 342160 | [342160-orbs-orbs-orbs.json](./342160-orbs-orbs-orbs.json) |
@@ -2591,6 +2593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owl Bounce | 378912 | [378912-owl-bounce.json](./378912-owl-bounce.json) |
 | Owl Glider Adventure | 359432 | [359432-owl-glider-adventure.json](./359432-owl-glider-adventure.json) |
 | Owl Observatory | 278717 | [278717-owl-observatory.json](./278717-owl-observatory.json) |
+| Owl Simulator | 90086 | [90086-owl-simulator.json](./90086-owl-simulator.json) |
 | Owl Watch | 111254 | [111254-owl-watch.json](./111254-owl-watch.json) |
 | Owlbears | 387518 | [387518-owlbears.json](./387518-owlbears.json) |
 | Owlboy: Limited Edition | 68672 | [68672-owlboy-limited-edition.json](./68672-owlboy-limited-edition.json) |
