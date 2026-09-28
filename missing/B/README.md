@@ -1883,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield REDSEC | 371393 | [371393-battlefield-redsec.json](./371393-battlefield-redsec.json) |
 | Battlefield: Bad Company 2 - Specact Kit Upgrade | 27654 | [27654-battlefield-bad-company-2-specact-kit-upgrade.json](./27654-battlefield-bad-company-2-specact-kit-upgrade.json) |
 | Battlefield: Bad Company 2 Vietnam | 607 | [607-battlefield-bad-company-2-vietnam.json](./607-battlefield-bad-company-2-vietnam.json) |
+| Battlefleet Commander | 91552 | [91552-battlefleet-commander.json](./91552-battlefleet-commander.json) |
 | Battlefleet Gothic: Armada - Complete Edition | 154950 | [154950-battlefleet-gothic-armada-complete-edition.json](./154950-battlefleet-gothic-armada-complete-edition.json) |
 | Battlefleet Gothic: Armada - Deluxe Edition | 186341 | [186341-battlefleet-gothic-armada-deluxe-edition.json](./186341-battlefleet-gothic-armada-deluxe-edition.json) |
 | Battlefleet Gothic: Armada - Space Marines | 52637 | [52637-battlefleet-gothic-armada-space-marines.json](./52637-battlefleet-gothic-armada-space-marines.json) |
@@ -2793,6 +2794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berzerk Ball 2 | 75505 | [75505-berzerk-ball-2.json](./75505-berzerk-ball-2.json) |
 | Berzerk: Enhanced Edition | 280756 | [280756-berzerk-enhanced-edition.json](./280756-berzerk-enhanced-edition.json) |
 | Berzerk: Recharged | 270485 | [270485-berzerk-recharged.json](./270485-berzerk-recharged.json) |
+| Besiedelte Welten: Das alte Ägypten | 91559 | [91559-besiedelte-welten-das-alte-agypten.json](./91559-besiedelte-welten-das-alte-agypten.json) |
 | Besiege: The Broken Beyond | 389128 | [389128-besiege-the-broken-beyond.json](./389128-besiege-the-broken-beyond.json) |
 | Besitupia: Mediator | 297534 | [297534-besitupia-mediator.json](./297534-besitupia-mediator.json) |
 | Besmirch | 343449 | [343449-besmirch.json](./343449-besmirch.json) |
@@ -3147,6 +3149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Journey to Home | 34803 | [34803-big-journey-to-home.json](./34803-big-journey-to-home.json) |
 | Big Kahuna Reef | 615 | [615-big-kahuna-reef.json](./615-big-kahuna-reef.json) |
 | Big Kahuna Reef 2: Chain Reaction | 205122 | [205122-big-kahuna-reef-2-chain-reaction.json](./205122-big-kahuna-reef-2-chain-reaction.json) |
+| Big Kahuna Words | 91556 | [91556-big-kahuna-words.json](./91556-big-kahuna-words.json) |
 | Big Karnak | 39614 | [39614-big-karnak.json](./39614-big-karnak.json) |
 | Big Klondike: Classic Solitaire | 168335 | [168335-big-klondike-classic-solitaire.json](./168335-big-klondike-classic-solitaire.json) |
 | Big Klondike: FreeCell Solitaire | 289855 | [289855-big-klondike-freecell-solitaire.json](./289855-big-klondike-freecell-solitaire.json) |
@@ -5308,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BomberFun | 92978 | [92978-bomberfun.json](./92978-bomberfun.json) |
 | Bombergeddon | 129745 | [129745-bombergeddon.json](./129745-bombergeddon.json) |
 | BomberHit | 303066 | [303066-bomberhit.json](./303066-bomberhit.json) |
+| Bomberic 2 | 91561 | [91561-bomberic-2.json](./91561-bomberic-2.json) |
 | Bomberland | 179150 | [179150-bomberland.json](./179150-bomberland.json) |
 | Bomberman | 162426 | [162426-bomberman.json](./162426-bomberman.json) |
 | Bomberman | 287647 | [287647-bomberman.json](./287647-bomberman.json) |
@@ -7142,6 +7146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build and Play 3D: Rockets, Helicopters, Submarines and More | 109214 | [109214-build-and-play-3d-rockets-helicopters-submarines-and-more.json](./109214-build-and-play-3d-rockets-helicopters-submarines-and-more.json) |
 | Build Bridges | 87992 | [87992-build-bridges.json](./87992-build-bridges.json) |
 | Build buildings | 105316 | [105316-build-buildings.json](./105316-build-buildings.json) |
+| Build City | 91553 | [91553-build-city.json](./91553-build-city.json) |
 | Build For Sale Simulator | 273377 | [273377-build-for-sale-simulator.json](./273377-build-for-sale-simulator.json) |
 | Build It | 108620 | [108620-build-it.json](./108620-build-it.json) |
 | Build It: Miami Beach Resort | 341017 | [341017-build-it-miami-beach-resort.json](./341017-build-it-miami-beach-resort.json) |
@@ -7493,6 +7498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Knight | 117702 | [117702-burning-knight.json](./117702-burning-knight.json) |
 | Burning Love | 287082 | [287082-burning-love.json](./287082-burning-love.json) |
 | Burning Monkey Casino | 352743 | [352743-burning-monkey-casino.json](./352743-burning-monkey-casino.json) |
+| Burning Monkey Solitaire 3 | 91560 | [91560-burning-monkey-solitaire-3.json](./91560-burning-monkey-solitaire-3.json) |
 | Burning Mountain and Sea | 150681 | [150681-burning-mountain-and-sea.json](./150681-burning-mountain-and-sea.json) |
 | Burning Out | 113043 | [113043-burning-out.json](./113043-burning-out.json) |
 | Burning Questions | 302494 | [302494-burning-questions.json](./302494-burning-questions.json) |
