@@ -3584,6 +3584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birola World | 267903 | [267903-birola-world.json](./267903-birola-world.json) |
 | Birth of Rome: Alea Jacta Est | 62138 | [62138-birth-of-rome-alea-jacta-est.json](./62138-birth-of-rome-alea-jacta-est.json) |
 | Birth of Shadows | 34490 | [34490-birth-of-shadows.json](./34490-birth-of-shadows.json) |
+| Birth of Spring | 82172 | [82172-birth-of-spring.json](./82172-birth-of-spring.json) |
 | Birth Order | 61071 | [61071-birth-order.json](./61071-birth-order.json) |
 | Birthday Boy | 399612 | [399612-birthday-boy.json](./399612-birthday-boy.json) |
 | Birthdays the Beginning: Digital Limited Edition | 52628 | [52628-birthdays-the-beginning-digital-limited-edition.json](./52628-birthdays-the-beginning-digital-limited-edition.json) |
