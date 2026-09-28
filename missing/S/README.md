@@ -5224,6 +5224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Jump International v3 | 186727 | [186727-ski-jump-international-v3.json](./186727-ski-jump-international-v3.json) |
 | Ski Jumping Pro VR | 130291 | [130291-ski-jumping-pro-vr.json](./130291-ski-jumping-pro-vr.json) |
 | Ski Jumping PVP | 259082 | [259082-ski-jumping-pvp.json](./259082-ski-jumping-pvp.json) |
+| Ski on Neon HD | 108599 | [108599-ski-on-neon-hd.json](./108599-ski-on-neon-hd.json) |
 | Ski Race | 64365 | [64365-ski-race.json](./64365-ski-race.json) |
 | Ski Racing 2005 | 54362 | [54362-ski-racing-2005.json](./54362-ski-racing-2005.json) |
 | Ski Resort Mogul | 54363 | [54363-ski-resort-mogul.json](./54363-ski-resort-mogul.json) |
@@ -6107,6 +6108,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Kid's: Gameclub | 124050 | [124050-smart-kids-gameclub.json](./124050-smart-kids-gameclub.json) |
 | Smart Kid's: Party Fun Pack | 124059 | [124059-smart-kids-party-fun-pack.json](./124059-smart-kids-party-fun-pack.json) |
 | Smart Moves Bundle | 218459 | [218459-smart-moves-bundle.json](./218459-smart-moves-bundle.json) |
+| Smart Preschool Baby Shapes and Colors by Learning Games for Toddlers | 108597 | [108597-smart-preschool-baby-shapes-and-colors-by-learning-games-for-toddlers.json](./108597-smart-preschool-baby-shapes-and-colors-by-learning-games-for-toddlers.json) |
+| Smart Preschool Learning Games for Toddlers by Monkey Puzzle Game | 108596 | [108596-smart-preschool-learning-games-for-toddlers-by-monkey-puzzle-game.json](./108596-smart-preschool-learning-games-for-toddlers-by-monkey-puzzle-game.json) |
 | Smart Puzzles Collection | 140398 | [140398-smart-puzzles-collection.json](./140398-smart-puzzles-collection.json) |
 | Smart Technology | 230266 | [230266-smart-technology.json](./230266-smart-technology.json) |
 | Smart Technology 2 | 230267 | [230267-smart-technology-2.json](./230267-smart-technology-2.json) |
@@ -6371,6 +6374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Plissken's Escape | 67295 | [67295-snake-plisskens-escape.json](./67295-snake-plisskens-escape.json) |
 | Snake Princess | 350536 | [350536-snake-princess.json](./350536-snake-princess.json) |
 | Snake Quest | 261517 | [261517-snake-quest.json](./261517-snake-quest.json) |
+| Snake Rampage - Snake Simulator | 108619 | [108619-snake-rampage-snake-simulator.json](./108619-snake-rampage-snake-simulator.json) |
 | Snake Real World | 133874 | [133874-snake-real-world.json](./133874-snake-real-world.json) |
 | Snake Roy | 210642 | [210642-snake-roy.json](./210642-snake-roy.json) |
 | Snake Vs Colours | 108446 | [108446-snake-vs-colours.json](./108446-snake-vs-colours.json) |
@@ -10329,6 +10333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Maidens Chronicle: Definitive Edition | 169368 | [169368-star-maidens-chronicle-definitive-edition.json](./169368-star-maidens-chronicle-definitive-edition.json) |
 | Star Man | 403783 | [403783-star-man.json](./403783-star-man.json) |
 | Star Man 2: Reupgraded | 333958 | [333958-star-man-2-reupgraded.json](./333958-star-man-2-reupgraded.json) |
+| Star Mania | 108600 | [108600-star-mania.json](./108600-star-mania.json) |
 | Star Matter | 148524 | [148524-star-matter.json](./148524-star-matter.json) |
 | Star Melody: Yumemi Dreamer | 172717 | [172717-star-melody-yumemi-dreamer.json](./172717-star-melody-yumemi-dreamer.json) |
 | Star Melody: Yumemi Dreamer - Chapter 10 | 195782 | [195782-star-melody-yumemi-dreamer-chapter-10.json](./195782-star-melody-yumemi-dreamer-chapter-10.json) |
@@ -11466,6 +11471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Arc Hero Fight | 235234 | [235234-stickman-arc-hero-fight.json](./235234-stickman-arc-hero-fight.json) |
 | Stickman Archer Fight | 86932 | [86932-stickman-archer-fight.json](./86932-stickman-archer-fight.json) |
 | Stickman Archers: Archery Rampage | 101575 | [101575-stickman-archers-archery-rampage.json](./101575-stickman-archers-archery-rampage.json) |
+| Stickman Base Jumper | 108645 | [108645-stickman-base-jumper.json](./108645-stickman-base-jumper.json) |
 | Stickman Battle War | 231893 | [231893-stickman-battle-war.json](./231893-stickman-battle-war.json) |
 | Stickman Battlefields | 39226 | [39226-stickman-battlefields.json](./39226-stickman-battlefields.json) |
 | Stickman Bike: Pro Ride | 378403 | [378403-stickman-bike-pro-ride.json](./378403-stickman-bike-pro-ride.json) |
@@ -11481,6 +11487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman League | 127194 | [127194-stickman-league.json](./127194-stickman-league.json) |
 | Stickman Legends | 323197 | [323197-stickman-legends.json](./323197-stickman-legends.json) |
 | Stickman Monster Battle 3D | 401561 | [401561-stickman-monster-battle-3d.json](./401561-stickman-monster-battle-3d.json) |
+| Stickman Ninja Warriors | 108603 | [108603-stickman-ninja-warriors.json](./108603-stickman-ninja-warriors.json) |
 | Stickman Odyssey | 329578 | [329578-stickman-odyssey.json](./329578-stickman-odyssey.json) |
 | Stickman Party | 323378 | [323378-stickman-party.json](./323378-stickman-party.json) |
 | Stickman Physics Battle Arena | 391757 | [391757-stickman-physics-battle-arena.json](./391757-stickman-physics-battle-arena.json) |
@@ -15356,6 +15363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symbol | 229930 | [229930-symbol.json](./229930-symbol.json) |
 | symeCu8e | 90620 | [90620-symecu8e.json](./90620-symecu8e.json) |
 | Symmetrain | 123074 | [123074-symmetrain.json](./123074-symmetrain.json) |
+| SymmetryPad - Doodle in Relax | 108601 | [108601-symmetrypad-doodle-in-relax.json](./108601-symmetrypad-doodle-in-relax.json) |
 | Symmodance | 263756 | [263756-symmodance.json](./263756-symmodance.json) |
 | Sympathia | 277608 | [277608-sympathia.json](./277608-sympathia.json) |
 | Symphoni | 334890 | [334890-symphoni.json](./334890-symphoni.json) |
