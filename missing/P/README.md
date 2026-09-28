@@ -5394,6 +5394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Runner | 49954 | [49954-portal-runner.json](./49954-portal-runner.json) |
 | Portal Shot Gun Teleport | 290436 | [290436-portal-shot-gun-teleport.json](./290436-portal-shot-gun-teleport.json) |
 | Portal Together | 410208 | [410208-portal-together.json](./410208-portal-together.json) |
+| Portal Touch | 115783 | [115783-portal-touch.json](./115783-portal-touch.json) |
 | Portal Unity | 219160 | [219160-portal-unity.json](./219160-portal-unity.json) |
 | Portal Versus | 229179 | [229179-portal-versus.json](./229179-portal-versus.json) |
 | Portal Walker | 59954 | [59954-portal-walker.json](./59954-portal-walker.json) |
