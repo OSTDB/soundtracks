@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yasuke Simulator | 333626 | [333626-yasuke-simulator.json](./333626-yasuke-simulator.json) |
 | Yasuke: A Lost Descendant | 222915 | [222915-yasuke-a-lost-descendant.json](./222915-yasuke-a-lost-descendant.json) |
 | Yasumeru | 202344 | [202344-yasumeru.json](./202344-yasumeru.json) |
+| Yatagarasu | 80617 | [80617-yatagarasu.json](./80617-yatagarasu.json) |
 | Yatagarasu Enter the Eastward | 282127 | [282127-yatagarasu-enter-the-eastward.json](./282127-yatagarasu-enter-the-eastward.json) |
 | Yatsu Hakamura | 191868 | [191868-yatsu-hakamura.json](./191868-yatsu-hakamura.json) |
 | Yatterman DS 2: Bikkuri Dokkiri Animal Daibouken | 124150 | [124150-yatterman-ds-2-bikkuri-dokkiri-animal-daibouken.json](./124150-yatterman-ds-2-bikkuri-dokkiri-animal-daibouken.json) |
