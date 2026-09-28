@@ -2739,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve Online: Revenant | 329685 | [329685-eve-online-revenant.json](./329685-eve-online-revenant.json) |
 | Eve Online: Zenith - Quadrant 3 | 329917 | [329917-eve-online-zenith-quadrant-3.json](./329917-eve-online-zenith-quadrant-3.json) |
 | EVE Vanguard | 277846 | [277846-eve-vanguard.json](./277846-eve-vanguard.json) |
+| Eve: Echoes | 111187 | [111187-eve-echoes.json](./111187-eve-echoes.json) |
 | Eve: Galaxy Conquest | 317843 | [317843-eve-galaxy-conquest.json](./317843-eve-galaxy-conquest.json) |
 | Evel Knievel Evel-ution | 23533 | [23533-evel-knievel-evel-ution.json](./23533-evel-knievel-evel-ution.json) |
 | Even in Arcadia | 135022 | [135022-even-in-arcadia.json](./135022-even-in-arcadia.json) |
