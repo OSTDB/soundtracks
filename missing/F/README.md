@@ -711,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Feud & Friends | 86099 | [86099-family-feud-and-friends.json](./86099-family-feud-and-friends.json) |
 | Family Feud Cartridge #1 | 203238 | [203238-family-feud-cartridge-1.json](./203238-family-feud-cartridge-1.json) |
 | Family Feud Cartridge #2 | 203239 | [203239-family-feud-cartridge-2.json](./203239-family-feud-cartridge-2.json) |
+| Family Feud HD | 90067 | [90067-family-feud-hd.json](./90067-family-feud-hd.json) |
 | Family Feud: 2010 Edition | 324085 | [324085-family-feud-2010-edition.json](./324085-family-feud-2010-edition.json) |
 | Family Feud: 2012 Edition | 6678 | [6678-family-feud-2012-edition.json](./6678-family-feud-2012-edition.json) |
 | Family Feud: Battle of the Sexes | 358962 | [358962-family-feud-battle-of-the-sexes.json](./358962-family-feud-battle-of-the-sexes.json) |
@@ -947,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Wars | 7332 | [7332-fantasy-wars.json](./7332-fantasy-wars.json) |
 | Fantasy World | 68687 | [68687-fantasy-world.json](./68687-fantasy-world.json) |
 | Fantasy World Online Tycoon | 132209 | [132209-fantasy-world-online-tycoon.json](./132209-fantasy-world-online-tycoon.json) |
+| Fantasy World: A Land Torn Asunder | 90069 | [90069-fantasy-world-a-land-torn-asunder.json](./90069-fantasy-world-a-land-torn-asunder.json) |
 | Fantasy Zone | 202914 | [202914-fantasy-zone.json](./202914-fantasy-zone.json) |
 | Fantasy Zone | 206230 | [206230-fantasy-zone.json](./206230-fantasy-zone.json) |
 | Fantasy Zone | 206231 | [206231-fantasy-zone.json](./206231-fantasy-zone.json) |
@@ -4683,6 +4685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox and Shadow | 320556 | [320556-fox-and-shadow.json](./320556-fox-and-shadow.json) |
 | Fox Detective | 97912 | [97912-fox-detective.json](./97912-fox-detective.json) |
 | Fox Girl Taming | 239318 | [239318-fox-girl-taming.json](./239318-fox-girl-taming.json) |
+| Fox Hime | 90144 | [90144-fox-hime.json](./90144-fox-hime.json) |
 | Fox Hime Zero | 102325 | [102325-fox-hime-zero.json](./102325-fox-hime-zero.json) |
 | Fox Hunt Arena | 279686 | [279686-fox-hunt-arena.json](./279686-fox-hunt-arena.json) |
 | Fox n Forests | 21961 | [21961-fox-n-forests.json](./21961-fox-n-forests.json) |
@@ -4943,6 +4946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frederic: Evil Strikes Back | 9845 | [9845-frederic-evil-strikes-back.json](./9845-frederic-evil-strikes-back.json) |
 | Frederic: Resurrection of Music - Director's Cut | 33261 | [33261-frederic-resurrection-of-music-directors-cut.json](./33261-frederic-resurrection-of-music-directors-cut.json) |
 | Free Afternoon | 185445 | [185445-free-afternoon.json](./185445-free-afternoon.json) |
+| Free At Last | 90126 | [90126-free-at-last.json](./90126-free-at-last.json) |
 | Free Balling | 32263 | [32263-free-balling.json](./32263-free-balling.json) |
 | Free Bees | 224245 | [224245-free-bees.json](./224245-free-bees.json) |
 | Free Birds: Baby Turkey Trouble | 227825 | [227825-free-birds-baby-turkey-trouble.json](./227825-free-birds-baby-turkey-trouble.json) |
