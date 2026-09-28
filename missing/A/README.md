@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Few Days With: The Fairies | 392953 | [392953-a-few-days-with-the-fairies.json](./392953-a-few-days-with-the-fairies.json) |
 | A Few Days With: Valentina | 337797 | [337797-a-few-days-with-valentina.json](./337797-a-few-days-with-valentina.json) |
 | A Few Minutes of Glory | 216159 | [216159-a-few-minutes-of-glory.json](./216159-a-few-minutes-of-glory.json) |
+| A Finality with Sheji | 113852 | [113852-a-finality-with-sheji.json](./113852-a-finality-with-sheji.json) |
 | A Firefighter's Boxing Matches | 179136 | [179136-a-firefighters-boxing-matches.json](./179136-a-firefighters-boxing-matches.json) |
 | A Firm Handshake | 176349 | [176349-a-firm-handshake.json](./176349-a-firm-handshake.json) |
 | A Flappy Bird in Real Life | 111077 | [111077-a-flappy-bird-in-real-life.json](./111077-a-flappy-bird-in-real-life.json) |
@@ -769,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Art of Fighting 3 | 118916 | [118916-aca-neo-geo-art-of-fighting-3.json](./118916-aca-neo-geo-art-of-fighting-3.json) |
 | ACA Neo Geo: Blazing Star | 90518 | [90518-aca-neo-geo-blazing-star.json](./90518-aca-neo-geo-blazing-star.json) |
 | ACA Neo Geo: Burning Fight | 85538 | [85538-aca-neo-geo-burning-fight.json](./85538-aca-neo-geo-burning-fight.json) |
+| ACA Neo Geo: Kizuna Encounter | 113906 | [113906-aca-neo-geo-kizuna-encounter.json](./113906-aca-neo-geo-kizuna-encounter.json) |
 | ACA Neo Geo: Nam-1975 | 28409 | [28409-aca-neo-geo-nam-1975.json](./28409-aca-neo-geo-nam-1975.json) |
 | ACA Neo Geo: Ninja Master's | 114147 | [114147-aca-neo-geo-ninja-masters.json](./114147-aca-neo-geo-ninja-masters.json) |
 | ACA Neo Geo: Puzzle Bobble | 113438 | [113438-aca-neo-geo-puzzle-bobble.json](./113438-aca-neo-geo-puzzle-bobble.json) |
@@ -5621,6 +5623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arson | 223660 | [223660-arson.json](./223660-arson.json) |
 | Arson & Plunder: Unleashed | 36323 | [36323-arson-and-plunder-unleashed.json](./36323-arson-and-plunder-unleashed.json) |
 | Arson and Plunder | 9985 | [9985-arson-and-plunder.json](./9985-arson-and-plunder.json) |
+| Arsonist | 113858 | [113858-arsonist.json](./113858-arsonist.json) |
 | Arsonist Heaven | 208334 | [208334-arsonist-heaven.json](./208334-arsonist-heaven.json) |
 | Arsonist Heaven Remastered | 238440 | [238440-arsonist-heaven-remastered.json](./238440-arsonist-heaven-remastered.json) |
 | ArsonVille | 25729 | [25729-arsonville.json](./25729-arsonville.json) |
