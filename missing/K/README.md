@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K37-D | 130966 | [130966-k37-d.json](./130966-k37-d.json) |
 | Ka-52 Team Alligator | 78646 | [78646-ka-52-team-alligator.json](./78646-ka-52-team-alligator.json) |
 | Ka-Blooey | 42660 | [42660-ka-blooey.json](./42660-ka-blooey.json) |
+| Ka'Roo | 79382 | [79382-karoo.json](./79382-karoo.json) |
 | Kaal Yoddha | 332445 | [332445-kaal-yoddha.json](./332445-kaal-yoddha.json) |
 | Kaapelipeli: The Cable Game | 138260 | [138260-kaapelipeli-the-cable-game.json](./138260-kaapelipeli-the-cable-game.json) |
 | Kabaneri of the Iron Fortress: Ran - Hajimaru Michiato | 89983 | [89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json](./89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json) |
@@ -981,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidnappers | 301610 | [301610-kidnappers.json](./301610-kidnappers.json) |
 | Kidney Stone Clicker | 369630 | [369630-kidney-stone-clicker.json](./369630-kidney-stone-clicker.json) |
 | Kido Keisatstsu Patlabor: Griffon-hen | 75897 | [75897-kido-keisatstsu-patlabor-griffon-hen.json](./75897-kido-keisatstsu-patlabor-griffon-hen.json) |
+| Kidou Gekidan Haro Ichiza: Gundam Mahjong + Z: Sara ni Deki Ruyouni Nattana! | 79185 | [79185-kidou-gekidan-haro-ichiza-gundam-mahjong-z-sara-ni-deki-ruyouni-nattana.json](./79185-kidou-gekidan-haro-ichiza-gundam-mahjong-z-sara-ni-deki-ruyouni-nattana.json) |
 | Kidou Senshi Gundam Seed | 37371 | [37371-kidou-senshi-gundam-seed.json](./37371-kidou-senshi-gundam-seed.json) |
 | Kidou Senshi Gundam Vol. 1 Side7 | 37370 | [37370-kidou-senshi-gundam-vol-1-side7.json](./37370-kidou-senshi-gundam-vol-1-side7.json) |
 | Kidou Senshi Gundam Vol. 2 Jaburo | 37369 | [37369-kidou-senshi-gundam-vol-2-jaburo.json](./37369-kidou-senshi-gundam-vol-2-jaburo.json) |
@@ -1413,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Quest IV: The Perils of Rosella Retold | 230506 | [230506-kings-quest-iv-the-perils-of-rosella-retold.json](./230506-kings-quest-iv-the-perils-of-rosella-retold.json) |
 | King's Quest V: Absence Makes the Heart Go Yonder! | 2238 | [2238-kings-quest-v-absence-makes-the-heart-go-yonder.json](./2238-kings-quest-v-absence-makes-the-heart-go-yonder.json) |
 | King's Quest: Chapter 5 - The Good Knight | 28065 | [28065-kings-quest-chapter-5-the-good-knight.json](./28065-kings-quest-chapter-5-the-good-knight.json) |
+| King's Raid | 79372 | [79372-kings-raid.json](./79372-kings-raid.json) |
 | King's Recycle | 244737 | [244737-kings-recycle.json](./244737-kings-recycle.json) |
 | King's Son | 255694 | [255694-kings-son.json](./255694-kings-son.json) |
 | King's Table: Hnefatafl | 379892 | [379892-kings-table-hnefatafl.json](./379892-kings-table-hnefatafl.json) |
