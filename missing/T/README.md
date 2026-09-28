@@ -1565,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teikoku Sensenki | 204483 | [204483-teikoku-sensenki.json](./204483-teikoku-sensenki.json) |
 | Teisatsu | 196248 | [196248-teisatsu.json](./196248-teisatsu.json) |
 | Teisoukannen Zero: Yariman Kazoku to Hame Kurui Natsuyasumi | 82956 | [82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json](./82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json) |
+| Tek-Kids Flash-Ops: Mission - Sky Fortress | 69940 | [69940-tek-kids-flash-ops-mission-sky-fortress.json](./69940-tek-kids-flash-ops-mission-sky-fortress.json) |
 | Teki Paki | 175805 | [175805-teki-paki.json](./175805-teki-paki.json) |
 | Tekichuu Keiba Juku | 37791 | [37791-tekichuu-keiba-juku.json](./37791-tekichuu-keiba-juku.json) |
 | Tekkai Jousai no Haika | 398975 | [398975-tekkai-jousai-no-haika.json](./398975-tekkai-jousai-no-haika.json) |
@@ -4359,6 +4360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game We All Have to Play | 129011 | [129011-the-game-we-all-have-to-play.json](./129011-the-game-we-all-have-to-play.json) |
 | The Game: The Game | 393488 | [393488-the-game-the-game.json](./393488-the-game-the-game.json) |
 | The Games '92: España | 96508 | [96508-the-games-92-espana.json](./96508-the-games-92-espana.json) |
+| The Games People Play: Gin, Cribbage, Checkers, and Backgammon | 69927 | [69927-the-games-people-play-gin-cribbage-checkers-and-backgammon.json](./69927-the-games-people-play-gin-cribbage-checkers-and-backgammon.json) |
 | The Gang | 284446 | [284446-the-gang.json](./284446-the-gang.json) |
 | The Gannet | 202968 | [202968-the-gannet.json](./202968-the-gannet.json) |
 | The Gap | 151120 | [151120-the-gap.json](./151120-the-gap.json) |
@@ -5167,6 +5169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kobolds Left Behind | 201701 | [201701-the-kobolds-left-behind.json](./201701-the-kobolds-left-behind.json) |
 | The Kore Gang: Outvasion from Inner Earth | 72687 | [72687-the-kore-gang-outvasion-from-inner-earth.json](./72687-the-kore-gang-outvasion-from-inner-earth.json) |
 | The Kore Gang: Outvasion From Inner Space | 21071 | [21071-the-kore-gang-outvasion-from-inner-space.json](./21071-the-kore-gang-outvasion-from-inner-space.json) |
+| The Koshan Conspiracy | 69926 | [69926-the-koshan-conspiracy.json](./69926-the-koshan-conspiracy.json) |
 | The Kotchei | 298718 | [298718-the-kotchei.json](./298718-the-kotchei.json) |
 | The Krampus | 289995 | [289995-the-krampus.json](./289995-the-krampus.json) |
 | The Krilling: Scare Feast! | 298146 | [298146-the-krilling-scare-feast.json](./298146-the-krilling-scare-feast.json) |
@@ -8450,6 +8453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Worlds Best Board Games | 51208 | [51208-the-worlds-best-board-games.json](./51208-the-worlds-best-board-games.json) |
 | The Worm | 34419 | [34419-the-worm.json](./34419-the-worm.json) |
 | The Worm Room | 139263 | [139263-the-worm-room.json](./139263-the-worm-room.json) |
+| The Worst-Case Scenario Survival Trivia Challenge | 69914 | [69914-the-worst-case-scenario-survival-trivia-challenge.json](./69914-the-worst-case-scenario-survival-trivia-challenge.json) |
 | The Wrath of the Goose King | 286051 | [286051-the-wrath-of-the-goose-king.json](./286051-the-wrath-of-the-goose-king.json) |
 | The Wreck That Should Not Be | 403016 | [403016-the-wreck-that-should-not-be.json](./403016-the-wreck-that-should-not-be.json) |
 | The Wrestling Code | 159104 | [159104-the-wrestling-code.json](./159104-the-wrestling-code.json) |
@@ -8844,6 +8848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Little Piggy | 181391 | [181391-this-little-piggy.json](./181391-this-little-piggy.json) |
 | This Little Piggy | 185521 | [185521-this-little-piggy.json](./185521-this-little-piggy.json) |
 | This Magical Girl is a B*tch | 270370 | [270370-this-magical-girl-is-a-b-tch.json](./270370-this-magical-girl-is-a-b-tch.json) |
+| This Means War! | 69931 | [69931-this-means-war.json](./69931-this-means-war.json) |
 | This Morning I Decided to Die | 258695 | [258695-this-morning-i-decided-to-die.json](./258695-this-morning-i-decided-to-die.json) |
 | This Next Time | 197272 | [197272-this-next-time.json](./197272-this-next-time.json) |
 | This Onion | 271243 | [271243-this-onion.json](./271243-this-onion.json) |
@@ -10246,6 +10251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Warriors | 10859 | [10859-time-warriors.json](./10859-time-warriors.json) |
 | Time Wiza | 364675 | [364675-time-wiza.json](./364675-time-wiza.json) |
 | Time Zone | 14574 | [14574-time-zone.json](./14574-time-zone.json) |
+| Time-Gate | 69937 | [69937-time-gate.json](./69937-time-gate.json) |
 | Time's Prison | 318423 | [318423-times-prison.json](./318423-times-prison.json) |
 | Time's Up in Tiny Town | 190471 | [190471-times-up-in-tiny-town.json](./190471-times-up-in-tiny-town.json) |
 | Timeball | 7791 | [7791-timeball.json](./7791-timeball.json) |
@@ -11267,6 +11273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Stewart's All-American Racing: Texas Motor Speedway Dirt Track | 167851 | [167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json](./167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json) |
 | Tony Stewart's Sprint Car Racing | 129734 | [129734-tony-stewarts-sprint-car-racing.json](./129734-tony-stewarts-sprint-car-racing.json) |
 | Tony the Mole | 363012 | [363012-tony-the-mole.json](./363012-tony-the-mole.json) |
+| Tony Tough 2: A Rake's Progress | 69904 | [69904-tony-tough-2-a-rakes-progress.json](./69904-tony-tough-2-a-rakes-progress.json) |
 | Tony Tough and the Night of Roasted Moths | 10792 | [10792-tony-tough-and-the-night-of-roasted-moths.json](./10792-tony-tough-and-the-night-of-roasted-moths.json) |
 | Tony's Crispy Crisps | 361745 | [361745-tonys-crispy-crisps.json](./361745-tonys-crispy-crisps.json) |
 | Tonzurakko | 66630 | [66630-tonzurakko.json](./66630-tonzurakko.json) |
@@ -12267,6 +12274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrackMania Turbo | 11172 | [11172-trackmania-turbo.json](./11172-trackmania-turbo.json) |
 | TrackMania United | 9908 | [9908-trackmania-united.json](./9908-trackmania-united.json) |
 | TrackMania United Forever | 2451 | [2451-trackmania-united-forever.json](./2451-trackmania-united-forever.json) |
+| TrackMania: Power Up! | 69906 | [69906-trackmania-power-up.json](./69906-trackmania-power-up.json) |
 | TrackRacing Online | 98396 | [98396-trackracing-online.json](./98396-trackracing-online.json) |
 | Tracks n' Turrets | 272899 | [272899-tracks-n-turrets.json](./272899-tracks-n-turrets.json) |
 | Tracks of Thought | 136982 | [136982-tracks-of-thought.json](./136982-tracks-of-thought.json) |
