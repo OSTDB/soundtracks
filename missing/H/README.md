@@ -2581,6 +2581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Arcana | 211759 | [211759-heroes-of-arcana.json](./211759-heroes-of-arcana.json) |
 | Heroes of Book & Paper | 199506 | [199506-heroes-of-book-and-paper.json](./199506-heroes-of-book-and-paper.json) |
 | Heroes of Camelot | 7449 | [7449-heroes-of-camelot.json](./7449-heroes-of-camelot.json) |
+| Heroes of Destiny | 63384 | [63384-heroes-of-destiny.json](./63384-heroes-of-destiny.json) |
 | Heroes of Dragon Age | 22258 | [22258-heroes-of-dragon-age.json](./22258-heroes-of-dragon-age.json) |
 | Heroes of Drakerealm | 235485 | [235485-heroes-of-drakerealm.json](./235485-heroes-of-drakerealm.json) |
 | Heroes of Egypt: The Curse of Sethos | 191119 | [191119-heroes-of-egypt-the-curse-of-sethos.json](./191119-heroes-of-egypt-the-curse-of-sethos.json) |
@@ -2651,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of War | 227471 | [227471-heroes-of-war.json](./227471-heroes-of-war.json) |
 | Heroes of Warland | 112141 | [112141-heroes-of-warland.json](./112141-heroes-of-warland.json) |
 | Heroes of Zaruban | 159652 | [159652-heroes-of-zaruban.json](./159652-heroes-of-zaruban.json) |
+| Heroes of Zulula | 63381 | [63381-heroes-of-zulula.json](./63381-heroes-of-zulula.json) |
 | Heroes Origins | 266205 | [266205-heroes-origins.json](./266205-heroes-origins.json) |
 | Heroes Phantasia | 65495 | [65495-heroes-phantasia.json](./65495-heroes-phantasia.json) |
 | Heroes Ravage | 114433 | [114433-heroes-ravage.json](./114433-heroes-ravage.json) |
