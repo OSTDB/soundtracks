@@ -1355,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Your Youth | 250453 | [250453-in-your-youth.json](./250453-in-your-youth.json) |
 | In-Flight Pac-Man | 205614 | [205614-in-flight-pac-man.json](./205614-in-flight-pac-man.json) |
 | In-Flight Tetris | 145631 | [145631-in-flight-tetris.json](./145631-in-flight-tetris.json) |
+| Ina Koi! Oinari-sama to Motemote no Tatari | 68120 | [68120-ina-koi-oinari-sama-to-motemote-no-tatari.json](./68120-ina-koi-oinari-sama-to-motemote-no-tatari.json) |
 | Inamina | 273895 | [273895-inamina.json](./273895-inamina.json) |
 | Inamorata | 299865 | [299865-inamorata.json](./299865-inamorata.json) |
 | Inanis | 192178 | [192178-inanis.json](./192178-inanis.json) |
