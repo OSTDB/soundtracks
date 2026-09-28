@@ -1734,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Square | 147349 | [147349-infinity-square.json](./147349-infinity-square.json) |
 | Infinity Strash: Dragon Quest - The Adventure of Dai | 137928 | [137928-infinity-strash-dragon-quest-the-adventure-of-dai.json](./137928-infinity-strash-dragon-quest-the-adventure-of-dai.json) |
 | Infinity Strash: Dragon Quest - The Adventure of Dai: Digital Deluxe Edition | 262330 | [262330-infinity-strash-dragon-quest-the-adventure-of-dai-digital-deluxe-edition.json](./262330-infinity-strash-dragon-quest-the-adventure-of-dai-digital-deluxe-edition.json) |
+| Infinity Tank Battle | 107389 | [107389-infinity-tank-battle.json](./107389-infinity-tank-battle.json) |
 | Infinity Tempest | 163207 | [163207-infinity-tempest.json](./163207-infinity-tempest.json) |
 | Infinity Toss | 239629 | [239629-infinity-toss.json](./239629-infinity-toss.json) |
 | Infinity Tower | 357845 | [357845-infinity-tower.json](./357845-infinity-tower.json) |
@@ -2940,6 +2941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itsuka, Kasanariau Ashita he: Sayuri-hen | 203819 | [203819-itsuka-kasanariau-ashita-he-sayuri-hen.json](./203819-itsuka-kasanariau-ashita-he-sayuri-hen.json) |
 | Itsuka, Kasanariau Ashita he: Shirou-hen | 203822 | [203822-itsuka-kasanariau-ashita-he-shirou-hen.json](./203822-itsuka-kasanariau-ashita-he-shirou-hen.json) |
 | Itsuka, Todoku, Ano Sora ni.: You no Michi to Hi no Tasogare to | 372571 | [372571-itsuka-todoku-ano-sora-ni-you-no-michi-to-hi-no-tasogare-to.json](./372571-itsuka-todoku-ano-sora-ni-you-no-michi-to-hi-no-tasogare-to.json) |
+| Itsy Blitzy | 107391 | [107391-itsy-blitzy.json](./107391-itsy-blitzy.json) |
 | Ittle Dew 2 | 11598 | [11598-ittle-dew-2.json](./11598-ittle-dew-2.json) |
 | Ittle Dew 2+ | 75286 | [75286-ittle-dew-2.json](./75286-ittle-dew-2.json) |
 | Ittle Dew no Densetsu: Ushinawareta Reta Shima to Nazo no Shiro | 222317 | [222317-ittle-dew-no-densetsu-ushinawareta-reta-shima-to-nazo-no-shiro.json](./222317-ittle-dew-no-densetsu-ushinawareta-reta-shima-to-nazo-no-shiro.json) |
