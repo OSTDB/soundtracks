@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madara Saga: Youchien Senki Madara | 57072 | [57072-madara-saga-youchien-senki-madara.json](./57072-madara-saga-youchien-senki-madara.json) |
 | Madball | 198484 | [198484-madball.json](./198484-madball.json) |
 | Madballs Arcade | 98925 | [98925-madballs-arcade.json](./98925-madballs-arcade.json) |
+| Madcap Castle | 74288 | [74288-madcap-castle.json](./74288-madcap-castle.json) |
 | Madcap Grotto | 330290 | [330290-madcap-grotto.json](./330290-madcap-grotto.json) |
 | Madcap Mosaic | 212746 | [212746-madcap-mosaic.json](./212746-madcap-mosaic.json) |
 | Madcap's Plane | 367621 | [367621-madcaps-plane.json](./367621-madcaps-plane.json) |
@@ -3075,6 +3076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Masters Collection | 131581 | [131581-medieval-masters-collection.json](./131581-medieval-masters-collection.json) |
 | Medieval Match Master | 323307 | [323307-medieval-match-master.json](./323307-medieval-match-master.json) |
 | Medieval Mayhem | 40716 | [40716-medieval-mayhem.json](./40716-medieval-mayhem.json) |
+| Medieval Mayhem | 75009 | [75009-medieval-mayhem.json](./75009-medieval-mayhem.json) |
 | Medieval Nightt: Part 1 | 311804 | [311804-medieval-nightt-part-1.json](./311804-medieval-nightt-part-1.json) |
 | Medieval Questionnaire | 288816 | [288816-medieval-questionnaire.json](./288816-medieval-questionnaire.json) |
 | Medieval Real Estate | 81773 | [81773-medieval-real-estate.json](./81773-medieval-real-estate.json) |
@@ -4031,6 +4033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Tail | 302132 | [302132-mermaid-tail.json](./302132-mermaid-tail.json) |
 | Mermaidio 3 | 229077 | [229077-mermaidio-3.json](./229077-mermaidio-3.json) |
 | Mermeows - Chill Cat Mermaids | 371459 | [371459-mermeows-chill-cat-mermaids.json](./371459-mermeows-chill-cat-mermaids.json) |
+| Merper VR | 75013 | [75013-merper-vr.json](./75013-merper-vr.json) |
 | Merriam-Webster Spell Jam | 69287 | [69287-merriam-webster-spell-jam.json](./69287-merriam-webster-spell-jam.json) |
 | Merrily Perilly | 104028 | [104028-merrily-perilly.json](./104028-merrily-perilly.json) |
 | Merry Christmas: Snowball Bubble | 187495 | [187495-merry-christmas-snowball-bubble.json](./187495-merry-christmas-snowball-bubble.json) |
@@ -5416,6 +5419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf Worlds | 245799 | [245799-mini-golf-worlds.json](./245799-mini-golf-worlds.json) |
 | Mini Golf Worlds VR | 186810 | [186810-mini-golf-worlds-vr.json](./186810-mini-golf-worlds-vr.json) |
 | Mini Guns | 55846 | [55846-mini-guns.json](./55846-mini-guns.json) |
+| Mini Hockey Champ! | 74502 | [74502-mini-hockey-champ.json](./74502-mini-hockey-champ.json) |
 | Mini Hockey VR | 55478 | [55478-mini-hockey-vr.json](./55478-mini-hockey-vr.json) |
 | Mini Island Challenge Bundle | 147426 | [147426-mini-island-challenge-bundle.json](./147426-mini-island-challenge-bundle.json) |
 | Mini Island: Aroma | 192371 | [192371-mini-island-aroma.json](./192371-mini-island-aroma.json) |
@@ -7166,6 +7170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhuhn: The Good, The Egg, and The Ugly Mobile | 282546 | [282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json](./282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json) |
 | Moose Boarders | 327381 | [327381-moose-boarders.json](./327381-moose-boarders.json) |
 | Moose In Canada | 239196 | [239196-moose-in-canada.json](./239196-moose-in-canada.json) |
+| Moose Invasion | 75002 | [75002-moose-invasion.json](./75002-moose-invasion.json) |
 | Mooselutions | 264662 | [264662-mooselutions.json](./264662-mooselutions.json) |
 | Mooshie's Kitchen 2 | 273983 | [273983-mooshies-kitchen-2.json](./273983-mooshies-kitchen-2.json) |
 | Mooshie's Kitchen 3 | 273984 | [273984-mooshies-kitchen-3.json](./273984-mooshies-kitchen-3.json) |
@@ -7209,6 +7214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Sundaes! | 256790 | [256790-more-sundaes.json](./256790-more-sundaes.json) |
 | More Sushi! | 366433 | [366433-more-sushi.json](./366433-more-sushi.json) |
 | More Than Human | 278531 | [278531-more-than-human.json](./278531-more-than-human.json) |
+| More Than Just Chess | 75008 | [75008-more-than-just-chess.json](./75008-more-than-just-chess.json) |
 | More than u no | 182841 | [182841-more-than-u-no.json](./182841-more-than-u-no.json) |
 | More Than Words | 361720 | [361720-more-than-words.json](./361720-more-than-words.json) |
 | More Zombies | 234905 | [234905-more-zombies.json](./234905-more-zombies.json) |
@@ -8685,6 +8691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero Academia: All's Justice - The Worldwide Star Card | 414450 | [414450-my-hero-academia-alls-justice-the-worldwide-star-card.json](./414450-my-hero-academia-alls-justice-the-worldwide-star-card.json) |
 | My Hero Academia: All's Justice - Ultimate Edition | 414451 | [414451-my-hero-academia-alls-justice-ultimate-edition.json](./414451-my-hero-academia-alls-justice-ultimate-edition.json) |
 | My Hero Academia: Heart of Heroes | 174672 | [174672-my-hero-academia-heart-of-heroes.json](./174672-my-hero-academia-heart-of-heroes.json) |
+| My Hero Academia: Smash Tap | 74300 | [74300-my-hero-academia-smash-tap.json](./74300-my-hero-academia-smash-tap.json) |
 | My Hero Academia: The Strongest Hero | 146301 | [146301-my-hero-academia-the-strongest-hero.json](./146301-my-hero-academia-the-strongest-hero.json) |
 | My Hero and the King | 63265 | [63265-my-hero-and-the-king.json](./63265-my-hero-and-the-king.json) |
 | My Hero One's Justice 2: Cheerleader Costumes Bundle | 259811 | [259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json](./259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json) |
@@ -9225,6 +9232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Solving! BrainQuiz | 283278 | [283278-mystery-solving-brainquiz.json](./283278-mystery-solving-brainquiz.json) |
 | Mystery Tales: Her Own Eyes HD - A Hidden Object Mystery (Full) | 90065 | [90065-mystery-tales-her-own-eyes-hd-a-hidden-object-mystery-full.json](./90065-mystery-tales-her-own-eyes-hd-a-hidden-object-mystery-full.json) |
 | Mystery Tales: Master of Puppets | 187948 | [187948-mystery-tales-master-of-puppets.json](./187948-mystery-tales-master-of-puppets.json) |
+| Mystery Tales: The Twilight World - Collector's Edition | 74994 | [74994-mystery-tales-the-twilight-world-collectors-edition.json](./74994-mystery-tales-the-twilight-world-collectors-edition.json) |
 | Mystery Tiles Premium | 100958 | [100958-mystery-tiles-premium.json](./100958-mystery-tiles-premium.json) |
 | Mystery Tower | 48589 | [48589-mystery-tower.json](./48589-mystery-tower.json) |
 | Mystery Town - Fun Seek and Find Hidden Object Puzzles | 104122 | [104122-mystery-town-fun-seek-and-find-hidden-object-puzzles.json](./104122-mystery-town-fun-seek-and-find-hidden-object-puzzles.json) |
@@ -9392,6 +9400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myths of the World: Of Fiends and Fairies - Collector's Edition | 102943 | [102943-myths-of-the-world-of-fiends-and-fairies-collectors-edition.json](./102943-myths-of-the-world-of-fiends-and-fairies-collectors-edition.json) |
 | Myths of the World: Of Fiends and Fairies HD | 106644 | [106644-myths-of-the-world-of-fiends-and-fairies-hd.json](./106644-myths-of-the-world-of-fiends-and-fairies-hd.json) |
 | Myths of the World: Spirit Wolf - Collector's Edition | 83555 | [83555-myths-of-the-world-spirit-wolf-collectors-edition.json](./83555-myths-of-the-world-spirit-wolf-collectors-edition.json) |
+| Myths of the World: The Black Sun | 74308 | [74308-myths-of-the-world-the-black-sun.json](./74308-myths-of-the-world-the-black-sun.json) |
 | Mythscroll | 342041 | [342041-mythscroll.json](./342041-mythscroll.json) |
 | Mythstal: Shadow of the Sun | 268996 | [268996-mythstal-shadow-of-the-sun.json](./268996-mythstal-shadow-of-the-sun.json) |
 | MythWalker | 322747 | [322747-mythwalker.json](./322747-mythwalker.json) |
