@@ -1365,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manyland | 35940 | [35940-manyland.json](./35940-manyland.json) |
 | Manzaka | 288757 | [288757-manzaka.json](./288757-manzaka.json) |
 | Mao Tan | 137606 | [137606-mao-tan.json](./137606-mao-tan.json) |
+| Maoh Maker the Future with You | 97505 | [97505-maoh-maker-the-future-with-you.json](./97505-maoh-maker-the-future-with-you.json) |
 | Maokatsu!: Maou to Yuusha no Idol Seikatsu | 402495 | [402495-maokatsu-maou-to-yuusha-no-idol-seikatsu.json](./402495-maokatsu-maou-to-yuusha-no-idol-seikatsu.json) |
 | MaoMaoMao | 392300 | [392300-maomaomao.json](./392300-maomaomao.json) |
 | Maoten | 194576 | [194576-maoten.json](./194576-maoten.json) |
@@ -3566,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meli | 381846 | [381846-meli.json](./381846-meli.json) |
 | Melissa K. and the Heart of Gold: Collector's Edition | 36235 | [36235-melissa-k-and-the-heart-of-gold-collectors-edition.json](./36235-melissa-k-and-the-heart-of-gold-collectors-edition.json) |
 | Melkis: Spend With You the Sweet Days Like Fairy Tales | 222241 | [222241-melkis-spend-with-you-the-sweet-days-like-fairy-tales.json](./222241-melkis-spend-with-you-the-sweet-days-like-fairy-tales.json) |
+| Mell Kiss | 97471 | [97471-mell-kiss.json](./97471-mell-kiss.json) |
 | Mell Kiss: Limited Edition | 201049 | [201049-mell-kiss-limited-edition.json](./201049-mell-kiss-limited-edition.json) |
 | Melli's Retro Land | 270414 | [270414-mellis-retro-land.json](./270414-mellis-retro-land.json) |
 | Mello | 188917 | [188917-mello.json](./188917-mello.json) |
@@ -4025,6 +4027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Messy Up | 263771 | [263771-messy-up.json](./263771-messy-up.json) |
 | Mestres da Pangada | 307683 | [307683-mestres-da-pangada.json](./307683-mestres-da-pangada.json) |
 | Mesudoku | 400866 | [400866-mesudoku.json](./400866-mesudoku.json) |
+| Mesuinu Moon | 97510 | [97510-mesuinu-moon.json](./97510-mesuinu-moon.json) |
 | Met Rage | 122970 | [122970-met-rage.json](./122970-met-rage.json) |
 | Meta Form | 198485 | [198485-meta-form.json](./198485-meta-form.json) |
 | Meta Fox | 39689 | [39689-meta-fox.json](./39689-meta-fox.json) |
@@ -6312,6 +6315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momogical | 181683 | [181683-momogical.json](./181683-momogical.json) |
 | Momoiro Zousan | 295039 | [295039-momoiro-zousan.json](./295039-momoiro-zousan.json) |
 | Momoka | 333192 | [333192-momoka.json](./333192-momoka.json) |
+| Momokan | 97490 | [97490-momokan.json](./97490-momokan.json) |
 | Momoko 120% | 38583 | [38583-momoko-120.json](./38583-momoko-120.json) |
 | Momolu and Friends | 166678 | [166678-momolu-and-friends.json](./166678-momolu-and-friends.json) |
 | Momon: Relic Seekers | 273455 | [273455-momon-relic-seekers.json](./273455-momon-relic-seekers.json) |
@@ -9213,6 +9217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystik Belle: Enchanted Edition | 187501 | [187501-mystik-belle-enchanted-edition.json](./187501-mystik-belle-enchanted-edition.json) |
 | Mystillion | 245910 | [245910-mystillion.json](./245910-mystillion.json) |
 | Mystina: Remaster Online | 403159 | [403159-mystina-remaster-online.json](./403159-mystina-remaster-online.json) |
+| Mystragedy | 97475 | [97475-mystragedy.json](./97475-mystragedy.json) |
 | MyStylist | 68303 | [68303-mystylist.json](./68303-mystylist.json) |
 | MyTavern | 295328 | [295328-mytavern.json](./295328-mytavern.json) |
 | Myth | 12186 | [12186-myth.json](./12186-myth.json) |
