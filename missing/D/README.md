@@ -2644,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Turf: Neon Splash | 197868 | [197868-demon-turf-neon-splash.json](./197868-demon-turf-neon-splash.json) |
 | Demon Turf: The Tower | 280851 | [280851-demon-turf-the-tower.json](./280851-demon-turf-the-tower.json) |
 | Demon Waltz | 398594 | [398594-demon-waltz.json](./398594-demon-waltz.json) |
+| Demon War: Idle Rebellion | 101765 | [101765-demon-war-idle-rebellion.json](./101765-demon-war-idle-rebellion.json) |
 | Demon With a Candy Crisis | 391329 | [391329-demon-with-a-candy-crisis.json](./391329-demon-with-a-candy-crisis.json) |
 | Demon Wolf Simulator | 102779 | [102779-demon-wolf-simulator.json](./102779-demon-wolf-simulator.json) |
 | Demon World Survival | 195201 | [195201-demon-world-survival.json](./195201-demon-world-survival.json) |
@@ -3773,6 +3774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digitalter | 285019 | [285019-digitalter.json](./285019-digitalter.json) |
 | Digits | 245928 | [245928-digits.json](./245928-digits.json) |
 | Digits Jigsaw Puzzle - Numbers and Operations | 100749 | [100749-digits-jigsaw-puzzle-numbers-and-operations.json](./100749-digits-jigsaw-puzzle-numbers-and-operations.json) |
+| Digitwars - The Grigits | 101766 | [101766-digitwars-the-grigits.json](./101766-digitwars-the-grigits.json) |
 | Dignacia | 253454 | [253454-dignacia.json](./253454-dignacia.json) |
 | DigRun | 197777 | [197777-digrun.json](./197777-digrun.json) |
 | Digs03 | 271303 | [271303-digs03.json](./271303-digs03.json) |
