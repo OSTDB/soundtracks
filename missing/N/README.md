@@ -2146,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nil Admirari no Tenbin: Twin Pack | 200560 | [200560-nil-admirari-no-tenbin-twin-pack.json](./200560-nil-admirari-no-tenbin-twin-pack.json) |
 | Nil-Ninjahtic: Ronin | 33435 | [33435-nil-ninjahtic-ronin.json](./33435-nil-ninjahtic-ronin.json) |
 | Nildigo | 347788 | [347788-nildigo.json](./347788-nildigo.json) |
+| Nile: An Ancient Egyptian Quest | 71042 | [71042-nile-an-ancient-egyptian-quest.json](./71042-nile-an-ancient-egyptian-quest.json) |
 | Nilia | 146898 | [146898-nilia.json](./146898-nilia.json) |
 | Nils Holgerssons wunderbare Reise | 325680 | [325680-nils-holgerssons-wunderbare-reise.json](./325680-nils-holgerssons-wunderbare-reise.json) |
 | Nilspace | 150102 | [150102-nilspace.json](./150102-nilspace.json) |
@@ -2942,6 +2943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Normal Super Mario Bros. 3 | 279721 | [279721-normal-super-mario-bros-3.json](./279721-normal-super-mario-bros-3.json) |
 | NormalTanks | 66658 | [66658-normaltanks.json](./66658-normaltanks.json) |
 | Norman | 60590 | [60590-norman.json](./60590-norman.json) |
+| Norman Cooks in "Search for the Don" | 71056 | [71056-norman-cooks-in-search-for-the-don.json](./71056-norman-cooks-in-search-for-the-don.json) |
 | Norn9: Last Era - Limited Edition | 249735 | [249735-norn9-last-era-limited-edition.json](./249735-norn9-last-era-limited-edition.json) |
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
 | Noroi Kago: The Grduged Domain - The Birth of Kitaro: The Mystery of GeGeGe Costume - Kitaro's father and Mizuki | 355202 | [355202-noroi-kago-the-grduged-domain-the-birth-of-kitaro-the-mystery-of-gegege-costume-kitaros-father-and-mizuki.json](./355202-noroi-kago-the-grduged-domain-the-birth-of-kitaro-the-mystery-of-gegege-costume-kitaros-father-and-mizuki.json) |
