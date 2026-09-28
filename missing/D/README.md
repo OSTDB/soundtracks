@@ -7070,6 +7070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Dead: The Cabin | 238999 | [238999-drop-dead-the-cabin.json](./238999-drop-dead-the-cabin.json) |
 | Drop Duchy | 317865 | [317865-drop-duchy.json](./317865-drop-duchy.json) |
 | Drop Flip | 96538 | [96538-drop-flip.json](./96538-drop-flip.json) |
+| Drop Flip Seasons | 96284 | [96284-drop-flip-seasons.json](./96284-drop-flip-seasons.json) |
 | Drop Loot | 411029 | [411029-drop-loot.json](./411029-drop-loot.json) |
 | Drop Pane: Not Only Match-3 | 290480 | [290480-drop-pane-not-only-match-3.json](./290480-drop-pane-not-only-match-3.json) |
 | Drop Pop | 386981 | [386981-drop-pop.json](./386981-drop-pop.json) |
