@@ -1443,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Super Mario Goal | 328610 | [328610-lego-super-mario-goal.json](./328610-lego-super-mario-goal.json) |
 | LEGO Super Mario Jigsaw Puzzle | 328607 | [328607-lego-super-mario-jigsaw-puzzle.json](./328607-lego-super-mario-jigsaw-puzzle.json) |
 | LEGO Supersonic RC | 250613 | [250613-lego-supersonic-rc.json](./250613-lego-supersonic-rc.json) |
+| LEGO Technic Cybermaster | 70479 | [70479-lego-technic-cybermaster.json](./70479-lego-technic-cybermaster.json) |
 | LEGO The Hobbit: Side Quest Character Pack | 168771 | [168771-lego-the-hobbit-side-quest-character-pack.json](./168771-lego-the-hobbit-side-quest-character-pack.json) |
 | LEGO The Hobbit: The Battle Pack | 168773 | [168773-lego-the-hobbit-the-battle-pack.json](./168773-lego-the-hobbit-the-battle-pack.json) |
 | LEGO The Hobbit: The Big Little Character Pack | 168772 | [168772-lego-the-hobbit-the-big-little-character-pack.json](./168772-lego-the-hobbit-the-big-little-character-pack.json) |
@@ -1606,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Dance | 78337 | [78337-lets-dance.json](./78337-lets-dance.json) |
 | Let's Draw | 29849 | [29849-lets-draw.json](./29849-lets-draw.json) |
 | Let's Eat! Seaside Cafe | 33465 | [33465-lets-eat-seaside-cafe.json](./33465-lets-eat-seaside-cafe.json) |
+| Let's Explore the Airport | 70323 | [70323-lets-explore-the-airport.json](./70323-lets-explore-the-airport.json) |
 | Let's Fight!! Nokachan | 381117 | [381117-lets-fight-nokachan.json](./381117-lets-fight-nokachan.json) |
 | Let's Find a Way | 51496 | [51496-lets-find-a-way.json](./51496-lets-find-a-way.json) |
 | Let's Fish! Hooked On | 21022 | [21022-lets-fish-hooked-on.json](./21022-lets-fish-hooked-on.json) |
@@ -1879,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberation Army | 364590 | [364590-liberation-army.json](./364590-liberation-army.json) |
 | Liberation Army Plus | 364593 | [364593-liberation-army-plus.json](./364593-liberation-army-plus.json) |
 | Liberation Circuit | 185085 | [185085-liberation-circuit.json](./185085-liberation-circuit.json) |
+| Liberation Day | 70461 | [70461-liberation-day.json](./70461-liberation-day.json) |
 | Liberation Maiden: SIN | 52548 | [52548-liberation-maiden-sin.json](./52548-liberation-maiden-sin.json) |
 | Liberator | 159066 | [159066-liberator.json](./159066-liberator.json) |
 | Liberators' Chronicles | 266779 | [266779-liberators-chronicles.json](./266779-liberators-chronicles.json) |
@@ -2659,6 +2662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Mouse's Encyclopedia + Comic Coloring Book: Complete Edition | 212784 | [212784-little-mouses-encyclopedia-comic-coloring-book-complete-edition.json](./212784-little-mouses-encyclopedia-comic-coloring-book-complete-edition.json) |
 | Little Mouse's Encyclopedia + Under Leaves | 188099 | [188099-little-mouses-encyclopedia-under-leaves.json](./188099-little-mouses-encyclopedia-under-leaves.json) |
 | Little Mouse's Encyclopedia: Complete Edition | 241398 | [241398-little-mouses-encyclopedia-complete-edition.json](./241398-little-mouses-encyclopedia-complete-edition.json) |
+| Little My Maid | 70480 | [70480-little-my-maid.json](./70480-little-my-maid.json) |
 | Little Nemo and the Guardians of Slumberland | 204380 | [204380-little-nemo-and-the-guardians-of-slumberland.json](./204380-little-nemo-and-the-guardians-of-slumberland.json) |
 | Little Nemo and the Nightmare Fiends | 208309 | [208309-little-nemo-and-the-nightmare-fiends.json](./208309-little-nemo-and-the-nightmare-fiends.json) |
 | Little Nemo the Clown | 213609 | [213609-little-nemo-the-clown.json](./213609-little-nemo-the-clown.json) |
