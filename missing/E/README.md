@@ -2294,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Party | 278419 | [278419-escape-party.json](./278419-escape-party.json) |
 | Escape Protocol: Hospital | 369754 | [369754-escape-protocol-hospital.json](./369754-escape-protocol-hospital.json) |
 | Escape Quest 8:Peace Keeper | 99171 | [99171-escape-quest-8-peace-keeper.json](./99171-escape-quest-8-peace-keeper.json) |
+| Escape Room | 76510 | [76510-escape-room.json](./76510-escape-room.json) |
 | Escape Room | 90637 | [90637-escape-room.json](./90637-escape-room.json) |
 | Escape Room Collection C1 | 295536 | [295536-escape-room-collection-c1.json](./295536-escape-room-collection-c1.json) |
 | Escape Room Killer: Moon, flowers and the Creepy Ghost | 328530 | [328530-escape-room-killer-moon-flowers-and-the-creepy-ghost.json](./328530-escape-room-killer-moon-flowers-and-the-creepy-ghost.json) |
@@ -3134,6 +3135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exceed Gear | 298676 | [298676-exceed-gear.json](./298676-exceed-gear.json) |
 | eXceed Gun Bullet Children | 9290 | [9290-exceed-gun-bullet-children.json](./9290-exceed-gun-bullet-children.json) |
 | Excellent | 373738 | [373738-excellent.json](./373738-excellent.json) |
+| Excellent Expectations | 76520 | [76520-excellent-expectations.json](./76520-excellent-expectations.json) |
 | Excellent Game | 374274 | [374274-excellent-game.json](./374274-excellent-game.json) |
 | Excelsior | 39852 | [39852-excelsior.json](./39852-excelsior.json) |
 | Exception; | 129166 | [129166-exception.json](./129166-exception.json) |
