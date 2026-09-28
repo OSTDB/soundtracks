@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider Kabuto | 91886 | [91886-kamen-rider-kabuto.json](./91886-kamen-rider-kabuto.json) |
 | Kamen Rider Kuuga | 43863 | [43863-kamen-rider-kuuga.json](./43863-kamen-rider-kuuga.json) |
 | Kamen Rider V3 | 43862 | [43862-kamen-rider-v3.json](./43862-kamen-rider-v3.json) |
+| Kamen Rider: Battride War | 63358 | [63358-kamen-rider-battride-war.json](./63358-kamen-rider-battride-war.json) |
 | Kamen Rider: Battride War II | 62184 | [62184-kamen-rider-battride-war-ii.json](./62184-kamen-rider-battride-war-ii.json) |
 | Kamen Rider: Memory of Heroez | 137453 | [137453-kamen-rider-memory-of-heroez.json](./137453-kamen-rider-memory-of-heroez.json) |
 | Kamen Rider: Seigi no Keifu | 61914 | [61914-kamen-rider-seigi-no-keifu.json](./61914-kamen-rider-seigi-no-keifu.json) |
