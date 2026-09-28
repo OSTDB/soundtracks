@@ -1174,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars 2 | 230555 | [230555-cars-2.json](./230555-cars-2.json) |
 | Cars 2 Racing Beena: Mezase! World Champion! | 125323 | [125323-cars-2-racing-beena-mezase-world-champion.json](./125323-cars-2-racing-beena-mezase-world-champion.json) |
 | Cars 3: Driven to Win | 28075 | [28075-cars-3-driven-to-win.json](./28075-cars-3-driven-to-win.json) |
+| Cars and Trucks: preschool toddler learning games, learn shapes & colors | 90140 | [90140-cars-and-trucks-preschool-toddler-learning-games-learn-shapes-and-colors.json](./90140-cars-and-trucks-preschool-toddler-learning-games-learn-shapes-and-colors.json) |
 | Cars Mater-National Championship | 281854 | [281854-cars-mater-national-championship.json](./281854-cars-mater-national-championship.json) |
 | Cars Mater-National Championship | 4748 | [4748-cars-mater-national-championship.json](./4748-cars-mater-national-championship.json) |
 | Cars Toon: Tokyo Mater | 230550 | [230550-cars-toon-tokyo-mater.json](./230550-cars-toon-tokyo-mater.json) |
@@ -1611,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Jigsaw Puzzle Games: Expansion Pack 9 | 241322 | [241322-cat-jigsaw-puzzle-games-expansion-pack-9.json](./241322-cat-jigsaw-puzzle-games-expansion-pack-9.json) |
 | Cat Jumper | 175792 | [175792-cat-jumper.json](./175792-cat-jumper.json) |
 | Cat Killer | 249176 | [249176-cat-killer.json](./249176-cat-killer.json) |
+| Cat Knights | 90096 | [90096-cat-knights.json](./90096-cat-knights.json) |
 | Cat Lady: The Card Game | 129839 | [129839-cat-lady-the-card-game.json](./129839-cat-lady-the-card-game.json) |
 | Cat Legend | 274554 | [274554-cat-legend.json](./274554-cat-legend.json) |
 | Cat Life | 230525 | [230525-cat-life.json](./230525-cat-life.json) |
@@ -2501,6 +2503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chariot: Royal Gadget Pack | 252764 | [252764-chariot-royal-gadget-pack.json](./252764-chariot-royal-gadget-pack.json) |
 | Charles: The Full Story | 281991 | [281991-charles-the-full-story.json](./281991-charles-the-full-story.json) |
 | Charley's Day | 218979 | [218979-charleys-day.json](./218979-charleys-day.json) |
+| Charlie & Lola: My Little Town | 90085 | [90085-charlie-and-lola-my-little-town.json](./90085-charlie-and-lola-my-little-town.json) |
 | Charlie and The Chocolate Factory DVD Games | 343343 | [343343-charlie-and-the-chocolate-factory-dvd-games.json](./343343-charlie-and-the-chocolate-factory-dvd-games.json) |
 | Charlie Foxtrot & The Galaxy of Tomorrow | 166692 | [166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json](./166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json) |
 | Charlie from the swamp | 152781 | [152781-charlie-from-the-swamp.json](./152781-charlie-from-the-swamp.json) |
@@ -7569,6 +7572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossword Safari: Word Hunt | 108630 | [108630-crossword-safari-word-hunt.json](./108630-crossword-safari-word-hunt.json) |
 | Crosswords | 89675 | [89675-crosswords.json](./89675-crosswords.json) |
 | Crosswords Classic | 97301 | [97301-crosswords-classic.json](./97301-crosswords-classic.json) |
+| Crosswords With Friends | 90063 | [90063-crosswords-with-friends.json](./90063-crosswords-with-friends.json) |
 | Crossy Crash | 98779 | [98779-crossy-crash.json](./98779-crossy-crash.json) |
 | Crossy Road Arcade | 228422 | [228422-crossy-road-arcade.json](./228422-crossy-road-arcade.json) |
 | Crossy Word | 393779 | [393779-crossy-word.json](./393779-crossy-word.json) |
