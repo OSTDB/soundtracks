@@ -3116,6 +3116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exatron Quest 2 | 44201 | [44201-exatron-quest-2.json](./44201-exatron-quest-2.json) |
 | Excaliba | 13844 | [13844-excaliba.json](./13844-excaliba.json) |
 | Excalibur 2555 A.D. | 15514 | [15514-excalibur-2555-a-d.json](./15514-excalibur-2555-a-d.json) |
+| Excalibur Mobile | 86204 | [86204-excalibur-mobile.json](./86204-excalibur-mobile.json) |
 | Excalibur's Swordstone Idle Forge | 265105 | [265105-excaliburs-swordstone-idle-forge.json](./265105-excaliburs-swordstone-idle-forge.json) |
 | Excaliburian!! | 186153 | [186153-excaliburian.json](./186153-excaliburian.json) |
 | Excavate Diamond | 228111 | [228111-excavate-diamond.json](./228111-excavate-diamond.json) |
