@@ -779,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magna Braban: Henreki no Yuusha | 38374 | [38374-magna-braban-henreki-no-yuusha.json](./38374-magna-braban-henreki-no-yuusha.json) |
 | Magna Driver | 181759 | [181759-magna-driver.json](./181759-magna-driver.json) |
 | Magna Fortuna | 171590 | [171590-magna-fortuna.json](./171590-magna-fortuna.json) |
+| Magna Mundi | 65047 | [65047-magna-mundi.json](./65047-magna-mundi.json) |
 | Magna Regna | 211926 | [211926-magna-regna.json](./211926-magna-regna.json) |
 | Magnat | 365757 | [365757-magnat.json](./365757-magnat.json) |
 | Magnate: Robot Idle Tycoon | 268449 | [268449-magnate-robot-idle-tycoon.json](./268449-magnate-robot-idle-tycoon.json) |
@@ -3839,6 +3840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men at Work! 2: Hunter Academy he Youkoso | 112298 | [112298-men-at-work-2-hunter-academy-he-youkoso.json](./112298-men-at-work-2-hunter-academy-he-youkoso.json) |
 | Men in Black | 270678 | [270678-men-in-black.json](./270678-men-in-black.json) |
 | Men in Black 2: The Series | 49912 | [49912-men-in-black-2-the-series.json](./49912-men-in-black-2-the-series.json) |
+| Men in Black 3 | 65003 | [65003-men-in-black-3.json](./65003-men-in-black-3.json) |
 | Men in Black II: Alien Escape | 4003 | [4003-men-in-black-ii-alien-escape.json](./4003-men-in-black-ii-alien-escape.json) |
 | Men in Black: Most Wanted | 380570 | [380570-men-in-black-most-wanted.json](./380570-men-in-black-most-wanted.json) |
 | Men in Black: The Game | 12898 | [12898-men-in-black-the-game.json](./12898-men-in-black-the-game.json) |
@@ -4378,6 +4380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Origins | 224478 | [224478-metroid-origins.json](./224478-metroid-origins.json) |
 | Metroid: Rechoose | 318019 | [318019-metroid-rechoose.json](./318019-metroid-rechoose.json) |
 | Metroid: Recovery | 323875 | [323875-metroid-recovery.json](./323875-metroid-recovery.json) |
+| Metroid: Rogue Dawn | 65036 | [65036-metroid-rogue-dawn.json](./65036-metroid-rogue-dawn.json) |
 | Metroid: Samus Returns | 37140 | [37140-metroid-samus-returns.json](./37140-metroid-samus-returns.json) |
 | Metroid: Super Zero Mission | 42205 | [42205-metroid-super-zero-mission.json](./42205-metroid-super-zero-mission.json) |
 | Metroid: Takeover | 255384 | [255384-metroid-takeover.json](./255384-metroid-takeover.json) |
