@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoinho in the Garden of Fools | 217922 | [217922-zoinho-in-the-garden-of-fools.json](./217922-zoinho-in-the-garden-of-fools.json) |
 | Zok Zok Heroes | 65766 | [65766-zok-zok-heroes.json](./65766-zok-zok-heroes.json) |
 | Zoku Mikagura Shoujo Tanteidan: Kanketsuhen | 60574 | [60574-zoku-mikagura-shoujo-tanteidan-kanketsuhen.json](./60574-zoku-mikagura-shoujo-tanteidan-kanketsuhen.json) |
+| Zoku Ougon no Haka: Sphinx no Nazo - Golden Grave II | 67361 | [67361-zoku-ougon-no-haka-sphinx-no-nazo-golden-grave-ii.json](./67361-zoku-ougon-no-haka-sphinx-no-nazo-golden-grave-ii.json) |
 | Zoku Sono Higurashi vs Touhou Universe 2 | 135659 | [135659-zoku-sono-higurashi-vs-touhou-universe-2.json](./135659-zoku-sono-higurashi-vs-touhou-universe-2.json) |
 | Zolana: Girl Galactic | 404943 | [404943-zolana-girl-galactic.json](./404943-zolana-girl-galactic.json) |
 | Zolaris | 153454 | [153454-zolaris.json](./153454-zolaris.json) |
