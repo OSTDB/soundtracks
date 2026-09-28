@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GameOn! | 348239 | [348239-gameon.json](./348239-gameon.json) |
 | GamePack 2 | 122308 | [122308-gamepack-2.json](./122308-gamepack-2.json) |
 | GamePigeon | 229787 | [229787-gamepigeon.json](./229787-gamepigeon.json) |
+| GamePoint Bingo | 78761 | [78761-gamepoint-bingo.json](./78761-gamepoint-bingo.json) |
 | Gamer 2 | 124608 | [124608-gamer-2.json](./124608-gamer-2.json) |
 | Gamer Cafe | 233451 | [233451-gamer-cafe.json](./233451-gamer-cafe.json) |
 | Gamer Den | 177928 | [177928-gamer-den.json](./177928-gamer-den.json) |
