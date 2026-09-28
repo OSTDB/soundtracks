@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick It | 94198 | [94198-kick-it.json](./94198-kick-it.json) |
 | Kick it, Bunny! | 143109 | [143109-kick-it-bunny.json](./143109-kick-it-bunny.json) |
 | Kick Off | 15240 | [15240-kick-off.json](./15240-kick-off.json) |
+| Kick Off 2: Giants of Europe | 80644 | [80644-kick-off-2-giants-of-europe.json](./80644-kick-off-2-giants-of-europe.json) |
 | Kick Off 2: Return to Europe | 71478 | [71478-kick-off-2-return-to-europe.json](./71478-kick-off-2-return-to-europe.json) |
 | Kick Off 96 | 94330 | [94330-kick-off-96.json](./94330-kick-off-96.json) |
 | Kick the Boss's Ass | 301977 | [301977-kick-the-bosss-ass.json](./301977-kick-the-bosss-ass.json) |
