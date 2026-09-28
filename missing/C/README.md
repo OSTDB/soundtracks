@@ -1546,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Astro Phi | 314672 | [314672-cat-astro-phi.json](./314672-cat-astro-phi.json) |
 | Cat Bait | 310418 | [310418-cat-bait.json](./310418-cat-bait.json) |
 | Cat Ball: Gravity Maze | 273375 | [273375-cat-ball-gravity-maze.json](./273375-cat-ball-gravity-maze.json) |
+| Cat Beauty Salon | 93701 | [93701-cat-beauty-salon.json](./93701-cat-beauty-salon.json) |
 | Cat Bird | 112137 | [112137-cat-bird.json](./112137-cat-bird.json) |
 | Cat Box Paradox | 185679 | [185679-cat-box-paradox.json](./185679-cat-box-paradox.json) |
 | Cat Break | 225587 | [225587-cat-break.json](./225587-cat-break.json) |
@@ -6999,6 +7000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Machines VR | 111042 | [111042-crazy-machines-vr.json](./111042-crazy-machines-vr.json) |
 | Crazy Machines: Golden Gears | 16865 | [16865-crazy-machines-golden-gears.json](./16865-crazy-machines-golden-gears.json) |
 | Crazy Market | 62750 | [62750-crazy-market.json](./62750-crazy-market.json) |
+| Crazy Maze | 93750 | [93750-crazy-maze.json](./93750-crazy-maze.json) |
 | Crazy Miner | 299841 | [299841-crazy-miner.json](./299841-crazy-miner.json) |
 | Crazy Mob | 61603 | [61603-crazy-mob.json](./61603-crazy-mob.json) |
 | Crazy module | 284986 | [284986-crazy-module.json](./284986-crazy-module.json) |
@@ -7782,6 +7784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypto Is Dead | 159138 | [159138-crypto-is-dead.json](./159138-crypto-is-dead.json) |
 | Crypto Miner Tycoon Simulator | 191122 | [191122-crypto-miner-tycoon-simulator.json](./191122-crypto-miner-tycoon-simulator.json) |
 | Crypto Mining | 358295 | [358295-crypto-mining.json](./358295-crypto-mining.json) |
+| Crypto Quest | 93743 | [93743-crypto-quest.json](./93743-crypto-quest.json) |
 | Crypto Royale | 225730 | [225730-crypto-royale.json](./225730-crypto-royale.json) |
 | Crypto Rush | 338260 | [338260-crypto-rush.json](./338260-crypto-rush.json) |
 | Crypto-Fascist | 364561 | [364561-crypto-fascist.json](./364561-crypto-fascist.json) |
