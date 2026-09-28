@@ -3186,6 +3186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipe Inspector: Plumbocalypse | 336534 | [336534-pipe-inspector-plumbocalypse.json](./336534-pipe-inspector-plumbocalypse.json) |
 | Pipe It Puzzle Challenge | 167610 | [167610-pipe-it-puzzle-challenge.json](./167610-pipe-it-puzzle-challenge.json) |
 | Pipe Line Puzzle | 268572 | [268572-pipe-line-puzzle.json](./268572-pipe-line-puzzle.json) |
+| Pipe Lord | 100323 | [100323-pipe-lord.json](./100323-pipe-lord.json) |
 | Pipe Mania | 21682 | [21682-pipe-mania.json](./21682-pipe-mania.json) |
 | Pipe Push Paradise | 72519 | [72519-pipe-push-paradise.json](./72519-pipe-push-paradise.json) |
 | Pipe Puzzle | 68929 | [68929-pipe-puzzle.json](./68929-pipe-puzzle.json) |
@@ -5037,6 +5038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poltergeist Watcher | 298661 | [298661-poltergeist-watcher.json](./298661-poltergeist-watcher.json) |
 | Poltergeist: A Pixelated Horror | 17855 | [17855-poltergeist-a-pixelated-horror.json](./17855-poltergeist-a-pixelated-horror.json) |
 | Polterquest | 345027 | [345027-polterquest.json](./345027-polterquest.json) |
+| Poly Art: Coloring Puzzle Game | 100322 | [100322-poly-art-coloring-puzzle-game.json](./100322-poly-art-coloring-puzzle-game.json) |
 | Poly Backrooms | 262906 | [262906-poly-backrooms.json](./262906-poly-backrooms.json) |
 | Poly Bridge 2 | 132002 | [132002-poly-bridge-2.json](./132002-poly-bridge-2.json) |
 | Poly Bridge 3 | 243400 | [243400-poly-bridge-3.json](./243400-poly-bridge-3.json) |
@@ -5194,6 +5196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony Ride with Obstacles | 378409 | [378409-pony-ride-with-obstacles.json](./378409-pony-ride-with-obstacles.json) |
 | Pony Run: Magic Trails | 378408 | [378408-pony-run-magic-trails.json](./378408-pony-run-magic-trails.json) |
 | Pony Sisters Baby Horse Care | 108261 | [108261-pony-sisters-baby-horse-care.json](./108261-pony-sisters-baby-horse-care.json) |
+| Pony Sisters Hair Salon 2 | 100335 | [100335-pony-sisters-hair-salon-2.json](./100335-pony-sisters-hair-salon-2.json) |
 | Pony Sisters Pet Hospital | 101584 | [101584-pony-sisters-pet-hospital.json](./101584-pony-sisters-pet-hospital.json) |
 | Pony Snow Run | 96704 | [96704-pony-snow-run.json](./96704-pony-snow-run.json) |
 | Pony vs. Pony | 379982 | [379982-pony-vs-pony.json](./379982-pony-vs-pony.json) |
