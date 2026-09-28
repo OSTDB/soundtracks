@@ -3360,6 +3360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American University Life | 105752 | [105752-american-university-life.json](./105752-american-university-life.json) |
 | American VR Coasters | 44218 | [44218-american-vr-coasters.json](./44218-american-vr-coasters.json) |
 | American Zombie: Election Year | 130325 | [130325-american-zombie-election-year.json](./130325-american-zombie-election-year.json) |
+| Americana Dawn | 65007 | [65007-americana-dawn.json](./65007-americana-dawn.json) |
 | Americas Greatest Games | 206113 | [206113-americas-greatest-games.json](./206113-americas-greatest-games.json) |
 | Americas Tower Simulator | 224756 | [224756-americas-tower-simulator.json](./224756-americas-tower-simulator.json) |
 | Amerzone: The Explorer's Legacy | 11091 | [11091-amerzone-the-explorers-legacy.json](./11091-amerzone-the-explorers-legacy.json) |
@@ -4423,6 +4424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antiquarium | 287645 | [287645-antiquarium.json](./287645-antiquarium.json) |
 | Antique Backgammon | 399621 | [399621-antique-backgammon.json](./399621-antique-backgammon.json) |
 | Antique Restorer | 236801 | [236801-antique-restorer.json](./236801-antique-restorer.json) |
+| Antique Shop | 65011 | [65011-antique-shop.json](./65011-antique-shop.json) |
 | Antiquia Lost | 39009 | [39009-antiquia-lost.json](./39009-antiquia-lost.json) |
 | Antireal | 272833 | [272833-antireal.json](./272833-antireal.json) |
 | Antiriad | 45331 | [45331-antiriad.json](./45331-antiriad.json) |
@@ -6104,6 +6106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asian Mahjong | 164270 | [164270-asian-mahjong.json](./164270-asian-mahjong.json) |
 | Asian Truck Simulator | 214165 | [214165-asian-truck-simulator.json](./214165-asian-truck-simulator.json) |
 | Asicaso | 134558 | [134558-asicaso.json](./134558-asicaso.json) |
+| Ask Angela | 65019 | [65019-ask-angela.json](./65019-ask-angela.json) |
 | Ask Gear Re:Boost | 325447 | [325447-ask-gear-re-boost.json](./325447-ask-gear-re-boost.json) |
 | Ask her out | 287096 | [287096-ask-her-out.json](./287096-ask-her-out.json) |
 | Ask Her Out | 181881 | [181881-ask-her-out.json](./181881-ask-her-out.json) |
