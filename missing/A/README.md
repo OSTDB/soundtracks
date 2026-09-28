@@ -2923,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpine Crawler World | 174342 | [174342-alpine-crawler-world.json](./174342-alpine-crawler-world.json) |
 | Alpine Racer 3 | 68269 | [68269-alpine-racer-3.json](./68269-alpine-racer-3.json) |
 | Alpine Sky | 352793 | [352793-alpine-sky.json](./352793-alpine-sky.json) |
+| Alpine Trail | 87608 | [87608-alpine-trail.json](./87608-alpine-trail.json) |
 | Alpine Train 3D | 90709 | [90709-alpine-train-3d.json](./90709-alpine-train-3d.json) |
 | Alpine Zone | 321491 | [321491-alpine-zone.json](./321491-alpine-zone.json) |
 | Alpine: The Simulation Game | 165383 | [165383-alpine-the-simulation-game.json](./165383-alpine-the-simulation-game.json) |
@@ -6213,6 +6214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astalon: Tears of the Earth | 80885 | [80885-astalon-tears-of-the-earth.json](./80885-astalon-tears-of-the-earth.json) |
 | Astar Solis | 366396 | [366396-astar-solis.json](./366396-astar-solis.json) |
 | Astate: La Malédiction des Templiers | 14271 | [14271-astate-la-malediction-des-templiers.json](./14271-astate-la-malediction-des-templiers.json) |
+| Asteion Nights | 87559 | [87559-asteion-nights.json](./87559-asteion-nights.json) |
 | Astellia | 113957 | [113957-astellia.json](./113957-astellia.json) |
 | Aster Force | 195114 | [195114-aster-force.json](./195114-aster-force.json) |
 | Aster Initiative | 274035 | [274035-aster-initiative.json](./274035-aster-initiative.json) |
