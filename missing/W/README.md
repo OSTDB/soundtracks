@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors of the Lost Empire | 42839 | [42839-warriors-of-the-lost-empire.json](./42839-warriors-of-the-lost-empire.json) |
 | Warriors of the Nile Series Bundle | 230802 | [230802-warriors-of-the-nile-series-bundle.json](./230802-warriors-of-the-nile-series-bundle.json) |
 | Warriors of the Sword | 402525 | [402525-warriors-of-the-sword.json](./402525-warriors-of-the-sword.json) |
+| Warriors of Titus | 93749 | [93749-warriors-of-titus.json](./93749-warriors-of-titus.json) |
 | Warriors of Vilvatikta | 31628 | [31628-warriors-of-vilvatikta.json](./31628-warriors-of-vilvatikta.json) |
 | Warriors Orochi | 7242 | [7242-warriors-orochi.json](./7242-warriors-orochi.json) |
 | Warriors Orochi 3 | 5324 | [5324-warriors-orochi-3.json](./5324-warriors-orochi-3.json) |
@@ -1406,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to IKSPQ | 271310 | [271310-welcome-to-ikspq.json](./271310-welcome-to-ikspq.json) |
 | Welcome to Jane's Story in the World of Project: Summer Ice | 208621 | [208621-welcome-to-janes-story-in-the-world-of-project-summer-ice.json](./208621-welcome-to-janes-story-in-the-world-of-project-summer-ice.json) |
 | Welcome to Levy | 238730 | [238730-welcome-to-levy.json](./238730-welcome-to-levy.json) |
+| Welcome to Light Fields | 93700 | [93700-welcome-to-light-fields.json](./93700-welcome-to-light-fields.json) |
 | Welcome to Lightford | 273391 | [273391-welcome-to-lightford.json](./273391-welcome-to-lightford.json) |
 | Welcome to Moreytown | 28650 | [28650-welcome-to-moreytown.json](./28650-welcome-to-moreytown.json) |
 | Welcome to My Cave | 260652 | [260652-welcome-to-my-cave.json](./260652-welcome-to-my-cave.json) |
