@@ -981,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash and Fire | 155668 | [155668-dash-and-fire.json](./155668-dash-and-fire.json) |
 | Dash and Slash | 199587 | [199587-dash-and-slash.json](./199587-dash-and-slash.json) |
 | Dash Arena | 271694 | [271694-dash-arena.json](./271694-dash-arena.json) |
+| Dash Blitz | 90079 | [90079-dash-blitz.json](./90079-dash-blitz.json) |
 | Dash Connect 2 | 368577 | [368577-dash-connect-2.json](./368577-dash-connect-2.json) |
 | Dash Dash Delivery | 160264 | [160264-dash-dash-delivery.json](./160264-dash-dash-delivery.json) |
 | Dash For Your Life | 257911 | [257911-dash-for-your-life.json](./257911-dash-for-your-life.json) |
@@ -6476,6 +6477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drake | 134654 | [134654-drake.json](./134654-drake.json) |
 | Drake Hollow | 125630 | [125630-drake-hollow.json](./125630-drake-hollow.json) |
 | Drake's Tower | 89229 | [89229-drakes-tower.json](./89229-drakes-tower.json) |
+| Drakeling Labs | 90130 | [90130-drakeling-labs.json](./90130-drakeling-labs.json) |
 | Draken's Shrine | 257918 | [257918-drakens-shrine.json](./257918-drakens-shrine.json) |
 | Drakengard 2 | 11663 | [11663-drakengard-2.json](./11663-drakengard-2.json) |
 | Drakens Värld | 139804 | [139804-drakens-varld.json](./139804-drakens-varld.json) |
