@@ -2389,6 +2389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goats on a Bridge | 10367 | [10367-goats-on-a-bridge.json](./10367-goats-on-a-bridge.json) |
 | Gob Johnson's Downhill Marmalade | 333169 | [333169-gob-johnsons-downhill-marmalade.json](./333169-gob-johnsons-downhill-marmalade.json) |
 | Gob! | 257447 | [257447-gob.json](./257447-gob.json) |
+| Goban | 95567 | [95567-goban.json](./95567-goban.json) |
 | GoBangTetris | 192437 | [192437-gobangtetris.json](./192437-gobangtetris.json) |
 | Gobble | 394530 | [394530-gobble.json](./394530-gobble.json) |
 | Gobblemen | 152346 | [152346-gobblemen.json](./152346-gobblemen.json) |
