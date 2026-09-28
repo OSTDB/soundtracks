@@ -930,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banzai Mario World | 132855 | [132855-banzai-mario-world.json](./132855-banzai-mario-world.json) |
 | Banzai Pecan: The Last Hope For the Young Century | 35947 | [35947-banzai-pecan-the-last-hope-for-the-young-century.json](./35947-banzai-pecan-the-last-hope-for-the-young-century.json) |
 | Bao | 167577 | [167577-bao.json](./167577-bao.json) |
+| Baobabs Mausoleum Ep. 2 1313 Barnabas Dead End Drive | 81164 | [81164-baobabs-mausoleum-ep-2-1313-barnabas-dead-end-drive.json](./81164-baobabs-mausoleum-ep-2-1313-barnabas-dead-end-drive.json) |
 | Baoxiao Chuji | 306642 | [306642-baoxiao-chuji.json](./306642-baoxiao-chuji.json) |
 | Baoxiao Duobiqiu | 97353 | [97353-baoxiao-duobiqiu.json](./97353-baoxiao-duobiqiu.json) |
 | Bàoxiào Sānguó | 92605 | [92605-baoxiao-sanguo.json](./92605-baoxiao-sanguo.json) |
@@ -2375,6 +2376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania GB | 91769 | [91769-beatmania-gb.json](./91769-beatmania-gb.json) |
 | Beatmania GB2 Gotcha Mix | 92604 | [92604-beatmania-gb2-gotcha-mix.json](./92604-beatmania-gb2-gotcha-mix.json) |
 | Beatmania IIDX 17 Sirius | 66644 | [66644-beatmania-iidx-17-sirius.json](./66644-beatmania-iidx-17-sirius.json) |
+| Beatmania IIDX 19 Lincle | 81478 | [81478-beatmania-iidx-19-lincle.json](./81478-beatmania-iidx-19-lincle.json) |
 | Beatmania IIDX 20 Tricoro | 61664 | [61664-beatmania-iidx-20-tricoro.json](./61664-beatmania-iidx-20-tricoro.json) |
 | Beatmania IIDX 26 Rootage | 112148 | [112148-beatmania-iidx-26-rootage.json](./112148-beatmania-iidx-26-rootage.json) |
 | Beatmania IIDX 27 Heroic Verse | 127142 | [127142-beatmania-iidx-27-heroic-verse.json](./127142-beatmania-iidx-27-heroic-verse.json) |
@@ -3054,6 +3056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibi Blocksberg: Big Broom Race 4 | 375406 | [375406-bibi-blocksberg-big-broom-race-4.json](./375406-bibi-blocksberg-big-broom-race-4.json) |
 | Bibi Blocksberg: Der Magische Hexenkreis | 199069 | [199069-bibi-blocksberg-der-magische-hexenkreis.json](./199069-bibi-blocksberg-der-magische-hexenkreis.json) |
 | Bibi Blocksberg: Der verhexte Schloss-Schatz | 148498 | [148498-bibi-blocksberg-der-verhexte-schloss-schatz.json](./148498-bibi-blocksberg-der-verhexte-schloss-schatz.json) |
+| Bibi Blocksberg: Im Bann der Hexenkugel | 81452 | [81452-bibi-blocksberg-im-bann-der-hexenkugel.json](./81452-bibi-blocksberg-im-bann-der-hexenkugel.json) |
 | Bibi Bunny | 337459 | [337459-bibi-bunny.json](./337459-bibi-bunny.json) |
 | Bibi und Tina auf dem Martinshof | 136370 | [136370-bibi-und-tina-auf-dem-martinshof.json](./136370-bibi-und-tina-auf-dem-martinshof.json) |
 | Bibi und Tina: Fohlen "Felix" in Gefahr | 86210 | [86210-bibi-und-tina-fohlen-felix-in-gefahr.json](./86210-bibi-und-tina-fohlen-felix-in-gefahr.json) |
