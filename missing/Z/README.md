@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zest to Fantasy | 257655 | [257655-zest-to-fantasy.json](./257655-zest-to-fantasy.json) |
 | Zest Treasure Hunting | 342640 | [342640-zest-treasure-hunting.json](./342640-zest-treasure-hunting.json) |
 | Zet Zillions | 280184 | [280184-zet-zillions.json](./280184-zet-zillions.json) |
+| Zeta Complex | 117164 | [117164-zeta-complex.json](./117164-zeta-complex.json) |
 | Zeta Fighters | 9922 | [9922-zeta-fighters.json](./9922-zeta-fighters.json) |
 | Zeta Flyff | 121479 | [121479-zeta-flyff.json](./121479-zeta-flyff.json) |
 | Zeta Force | 326965 | [326965-zeta-force.json](./326965-zeta-force.json) |
