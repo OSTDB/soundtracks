@@ -1546,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Secret Storm | 3143 | [3143-operation-secret-storm.json](./3143-operation-secret-storm.json) |
 | Operation Sexy Sudoku | 187207 | [187207-operation-sexy-sudoku.json](./187207-operation-sexy-sudoku.json) |
 | Operation Siege | 235716 | [235716-operation-siege.json](./235716-operation-siege.json) |
+| Operation Snowman | 112473 | [112473-operation-snowman.json](./112473-operation-snowman.json) |
 | Operation Steel | 151732 | [151732-operation-steel.json](./151732-operation-steel.json) |
 | Operation Stutter | 406888 | [406888-operation-stutter.json](./406888-operation-stutter.json) |
 | Operation Swat | 29656 | [29656-operation-swat.json](./29656-operation-swat.json) |
@@ -1820,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origens: Story Mode 2 | 375449 | [375449-origens-story-mode-2.json](./375449-origens-story-mode-2.json) |
 | Origin | 126648 | [126648-origin.json](./126648-origin.json) |
 | Origin Hunt | 180772 | [180772-origin-hunt.json](./180772-origin-hunt.json) |
+| Origin of Decay | 112498 | [112498-origin-of-decay.json](./112498-origin-of-decay.json) |
 | Origin Space | 52281 | [52281-origin-space.json](./52281-origin-space.json) |
 | Original Frisbee Disc Sports: Ultimate & Golf | 21449 | [21449-original-frisbee-disc-sports-ultimate-and-golf.json](./21449-original-frisbee-disc-sports-ultimate-and-golf.json) |
 | Original Journey | 40968 | [40968-original-journey.json](./40968-original-journey.json) |
