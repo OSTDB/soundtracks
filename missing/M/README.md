@@ -3961,6 +3961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merry Snowballs | 27016 | [27016-merry-snowballs.json](./27016-merry-snowballs.json) |
 | Merto's Part | 168644 | [168644-mertos-part.json](./168644-mertos-part.json) |
 | Meru Purana | 125421 | [125421-meru-purana.json](./125421-meru-purana.json) |
+| Merv Liberation | 112495 | [112495-merv-liberation.json](./112495-merv-liberation.json) |
 | Mervils: A VR Adventure | 27385 | [27385-mervils-a-vr-adventure.json](./27385-mervils-a-vr-adventure.json) |
 | Mesa | 233214 | [233214-mesa.json](./233214-mesa.json) |
 | Mesa | 252098 | [252098-mesa.json](./252098-mesa.json) |
@@ -6426,6 +6427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monologue: Winter melancholy | 278145 | [278145-monologue-winter-melancholy.json](./278145-monologue-winter-melancholy.json) |
 | Monomagia Cantabile | 214539 | [214539-monomagia-cantabile.json](./214539-monomagia-cantabile.json) |
 | Monomals | 175809 | [175809-monomals.json](./175809-monomals.json) |
+| Monomyth | 112491 | [112491-monomyth.json](./112491-monomyth.json) |
 | Mononc's Adventures | 368659 | [368659-mononcs-adventures.json](./368659-mononcs-adventures.json) |
 | Mononobe no Futo to Muttsu no Shiren | 206958 | [206958-mononobe-no-futo-to-muttsu-no-shiren.json](./206958-mononobe-no-futo-to-muttsu-no-shiren.json) |
 | Mononoke no Kuni | 270069 | [270069-mononoke-no-kuni.json](./270069-mononoke-no-kuni.json) |
