@@ -1068,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | University Life Visual Novel | 371921 | [371921-university-life-visual-novel.json](./371921-university-life-visual-novel.json) |
 | Univocity | 339916 | [339916-univocity.json](./339916-univocity.json) |
 | Unizone's Underswap: Distrust Sans | 330365 | [330365-unizones-underswap-distrust-sans.json](./330365-unizones-underswap-distrust-sans.json) |
+| Unjou no Fairy Tale | 97466 | [97466-unjou-no-fairy-tale.json](./97466-unjou-no-fairy-tale.json) |
 | Unkillable Robots | 306342 | [306342-unkillable-robots.json](./306342-unkillable-robots.json) |
 | Unkilled | 28821 | [28821-unkilled.json](./28821-unkilled.json) |
 | Unknown | 210888 | [210888-unknown.json](./210888-unknown.json) |
