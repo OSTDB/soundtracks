@@ -620,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned: Discovery Island | 272811 | [272811-abandoned-discovery-island.json](./272811-abandoned-discovery-island.json) |
 | Abarenbou Tengu | 215127 | [215127-abarenbou-tengu.json](./215127-abarenbou-tengu.json) |
 | Abathor: Collector's Edition | 284479 | [284479-abathor-collectors-edition.json](./284479-abathor-collectors-edition.json) |
+| Abberbury | 111212 | [111212-abberbury.json](./111212-abberbury.json) |
 | Abbie's Farm | 147459 | [147459-abbies-farm.json](./147459-abbies-farm.json) |
 | Abbigale and the Monster | 51177 | [51177-abbigale-and-the-monster.json](./51177-abbigale-and-the-monster.json) |
 | Abby Héroes en apuros | 316790 | [316790-abby-heroes-en-apuros.json](./316790-abby-heroes-en-apuros.json) |
@@ -2617,6 +2618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Elite Wrestling: Fight Forever - World War Joe | 301010 | [301010-all-elite-wrestling-fight-forever-world-war-joe.json](./301010-all-elite-wrestling-fight-forever-world-war-joe.json) |
 | All Evil Night 2 | 118809 | [118809-all-evil-night-2.json](./118809-all-evil-night-2.json) |
 | All For Nought: Tic Tac Toe | 155662 | [155662-all-for-nought-tic-tac-toe.json](./155662-all-for-nought-tic-tac-toe.json) |
+| All For One | 111201 | [111201-all-for-one.json](./111201-all-for-one.json) |
 | All Goblin | 243108 | [243108-all-goblin.json](./243108-all-goblin.json) |
 | All Good Things | 63812 | [63812-all-good-things.json](./63812-all-good-things.json) |
 | All Grown Up Krazy Karts | 321770 | [321770-all-grown-up-krazy-karts.json](./321770-all-grown-up-krazy-karts.json) |
@@ -3717,6 +3719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Fugu | 144993 | [144993-angry-fugu.json](./144993-angry-fugu.json) |
 | Angry Girl | 120821 | [120821-angry-girl.json](./120821-angry-girl.json) |
 | Angry Gran Global Assault | 240921 | [240921-angry-gran-global-assault.json](./240921-angry-gran-global-assault.json) |
+| Angry King | 111220 | [111220-angry-king.json](./111220-angry-king.json) |
 | Angry Mountain Gods | 183440 | [183440-angry-mountain-gods.json](./183440-angry-mountain-gods.json) |
 | Angry Peppa | 320890 | [320890-angry-peppa.json](./320890-angry-peppa.json) |
 | Angry Pigs | 194980 | [194980-angry-pigs.json](./194980-angry-pigs.json) |
