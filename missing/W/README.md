@@ -3436,6 +3436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Of Modern Warfare | 89190 | [89190-world-of-modern-warfare.json](./89190-world-of-modern-warfare.json) |
 | World of Motors 2 | 220722 | [220722-world-of-motors-2.json](./220722-world-of-motors-2.json) |
 | World of Movies: Puzzle Game Challenge | 328463 | [328463-world-of-movies-puzzle-game-challenge.json](./328463-world-of-movies-puzzle-game-challenge.json) |
+| World of Myths | 112493 | [112493-world-of-myths.json](./112493-world-of-myths.json) |
 | World of One | 39012 | [39012-world-of-one.json](./39012-world-of-one.json) |
 | World of Outlaws: Dirt Racing | 213356 | [213356-world-of-outlaws-dirt-racing.json](./213356-world-of-outlaws-dirt-racing.json) |
 | World of Outlaws: Dirt Racing 2023 - Ultimate Edition | 261877 | [261877-world-of-outlaws-dirt-racing-2023-ultimate-edition.json](./261877-world-of-outlaws-dirt-racing-2023-ultimate-edition.json) |
