@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker II: The Doomsday Papers | 12133 | [12133-hacker-ii-the-doomsday-papers.json](./12133-hacker-ii-the-doomsday-papers.json) |
 | Hacker the Beginning | 234585 | [234585-hacker-the-beginning.json](./234585-hacker-the-beginning.json) |
 | Hacker's Adventure | 142244 | [142244-hackers-adventure.json](./142244-hackers-adventure.json) |
+| Hackers | 80455 | [80455-hackers.json](./80455-hackers.json) |
 | Hackerwars.io | 139874 | [139874-hackerwars-io.json](./139874-hackerwars-io.json) |
 | Hacking for Hermann | 199369 | [199369-hacking-for-hermann.json](./199369-hacking-for-hermann.json) |
 | Hacking Into Erebus | 412415 | [412415-hacking-into-erebus.json](./412415-hacking-into-erebus.json) |
@@ -2031,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henka Twist Caper | 52237 | [52237-henka-twist-caper.json](./52237-henka-twist-caper.json) |
 | HenPri | 322740 | [322740-henpri.json](./322740-henpri.json) |
 | Henri | 222521 | [222521-henri.json](./222521-henri.json) |
+| Henry | 80642 | [80642-henry.json](./80642-henry.json) |
 | Henry Stickmin: Escaping the Prison | 140712 | [140712-henry-stickmin-escaping-the-prison.json](./140712-henry-stickmin-escaping-the-prison.json) |
 | Henry Stickmin: Fleeing the Complex | 145664 | [145664-henry-stickmin-fleeing-the-complex.json](./145664-henry-stickmin-fleeing-the-complex.json) |
 | Henry, What Have You Done? | 180751 | [180751-henry-what-have-you-done.json](./180751-henry-what-have-you-done.json) |
@@ -4814,6 +4816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hovercraft Race 3D | 26691 | [26691-hovercraft-race-3d.json](./26691-hovercraft-race-3d.json) |
 | Hovercraft Racing | 192836 | [192836-hovercraft-racing.json](./192836-hovercraft-racing.json) |
 | Hovercraft: Build Fly Retry | 105896 | [105896-hovercraft-build-fly-retry.json](./105896-hovercraft-build-fly-retry.json) |
+| Hoverforce | 80643 | [80643-hoverforce.json](./80643-hoverforce.json) |
 | HoverGrease 2 | 330535 | [330535-hovergrease-2.json](./330535-hovergrease-2.json) |
 | Hoverise Rebellion | 204412 | [204412-hoverise-rebellion.json](./204412-hoverise-rebellion.json) |
 | HoverRace | 84292 | [84292-hoverrace.json](./84292-hoverrace.json) |
