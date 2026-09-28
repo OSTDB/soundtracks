@@ -1360,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aesthetic | 325102 | [325102-aesthetic.json](./325102-aesthetic.json) |
 | Aestik | 218138 | [218138-aestik.json](./218138-aestik.json) |
 | AeternoBlade II: Infinity | 285602 | [285602-aeternoblade-ii-infinity.json](./285602-aeternoblade-ii-infinity.json) |
+| Aether Drift | 108046 | [108046-aether-drift.json](./108046-aether-drift.json) |
 | Aether Effect | 357787 | [357787-aether-effect.json](./357787-aether-effect.json) |
 | Aether Hexxen: Death-Space Requiem Act1 | 379571 | [379571-aether-hexxen-death-space-requiem-act1.json](./379571-aether-hexxen-death-space-requiem-act1.json) |
 | Aether Rush | 379568 | [379568-aether-rush.json](./379568-aether-rush.json) |
