@@ -1818,6 +1818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initia: Elemental Arena | 32942 | [32942-initia-elemental-arena.json](./32942-initia-elemental-arena.json) |
 | Initial 2: New Stage | 107414 | [107414-initial-2-new-stage.json](./107414-initial-2-new-stage.json) |
 | Initial D Arcade Stage 2 | 201776 | [201776-initial-d-arcade-stage-2.json](./201776-initial-d-arcade-stage-2.json) |
+| Initial D Arcade Stage 6 AA | 80479 | [80479-initial-d-arcade-stage-6-aa.json](./80479-initial-d-arcade-stage-6-aa.json) |
 | Initial D Extreme Stage | 7354 | [7354-initial-d-extreme-stage.json](./7354-initial-d-extreme-stage.json) |
 | Initial D: Perfect Shift Online | 85193 | [85193-initial-d-perfect-shift-online.json](./85193-initial-d-perfect-shift-online.json) |
 | Initial D: Street Stage | 45992 | [45992-initial-d-street-stage.json](./45992-initial-d-street-stage.json) |
@@ -2004,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insert Rich Family Name | 247601 | [247601-insert-rich-family-name.json](./247601-insert-rich-family-name.json) |
 | Insertion | 274187 | [274187-insertion.json](./274187-insertion.json) |
 | Inside | 266747 | [266747-inside.json](./266747-inside.json) |
+| Inside | 80481 | [80481-inside.json](./80481-inside.json) |
 | Inside Explorer | 148966 | [148966-inside-explorer.json](./148966-inside-explorer.json) |
 | Inside Intruder | 329564 | [329564-inside-intruder.json](./329564-inside-intruder.json) |
 | Inside Lacrosse's CL2010 | 91420 | [91420-inside-lacrosses-cl2010.json](./91420-inside-lacrosses-cl2010.json) |
