@@ -1448,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Meadows | 291222 | [291222-marble-meadows.json](./291222-marble-meadows.json) |
 | Marble Mechanics | 302526 | [302526-marble-mechanics.json](./302526-marble-mechanics.json) |
 | Marble Mill | 414603 | [414603-marble-mill.json](./414603-marble-mill.json) |
+| Marble Mixer for iPad | 96265 | [96265-marble-mixer-for-ipad.json](./96265-marble-mixer-for-ipad.json) |
 | Marble Monster | 253025 | [253025-marble-monster.json](./253025-marble-monster.json) |
 | Marble Mountain | 19028 | [19028-marble-mountain.json](./19028-marble-mountain.json) |
 | Marble Muse Arcade | 147242 | [147242-marble-muse-arcade.json](./147242-marble-muse-arcade.json) |
@@ -5954,6 +5955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB 2K10 DS | 21157 | [21157-mlb-2k10-ds.json](./21157-mlb-2k10-ds.json) |
 | MLB 9 Innings | 304051 | [304051-mlb-9-innings.json](./304051-mlb-9-innings.json) |
 | MLB 9 Innings 16 | 57364 | [57364-mlb-9-innings-16.json](./57364-mlb-9-innings-16.json) |
+| MLB 9 Innings 18 | 96267 | [96267-mlb-9-innings-18.json](./96267-mlb-9-innings-18.json) |
 | MLB 9 Innings 21 | 145538 | [145538-mlb-9-innings-21.json](./145538-mlb-9-innings-21.json) |
 | MLB 9 Innings 23 | 243137 | [243137-mlb-9-innings-23.json](./243137-mlb-9-innings-23.json) |
 | MLB 98 | 28190 | [28190-mlb-98.json](./28190-mlb-98.json) |
