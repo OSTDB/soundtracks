@@ -1352,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inbound | 86531 | [86531-inbound.json](./86531-inbound.json) |
 | Inbox Unbox | 160239 | [160239-inbox-unbox.json](./160239-inbox-unbox.json) |
 | INC | 22331 | [22331-inc.json](./22331-inc.json) |
+| Inca Gold | 97501 | [97501-inca-gold.json](./97501-inca-gold.json) |
 | Inca II | 45925 | [45925-inca-ii.json](./45925-inca-ii.json) |
 | Incandescent 2 | 113713 | [113713-incandescent-2.json](./113713-incandescent-2.json) |
 | Incantation | 44454 | [44454-incantation.json](./44454-incantation.json) |
