@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kacau | 390811 | [390811-kacau.json](./390811-kacau.json) |
 | Kachou Shima Kousaku: Super Business Adventure | 37969 | [37969-kachou-shima-kousaku-super-business-adventure.json](./37969-kachou-shima-kousaku-super-business-adventure.json) |
 | Kacipbara | 393159 | [393159-kacipbara.json](./393159-kacipbara.json) |
+| Kadath | 114553 | [114553-kadath.json](./114553-kadath.json) |
 | Kader Mühürleri | 86127 | [86127-kader-muhurleri.json](./86127-kader-muhurleri.json) |
 | Kadin the Soul Eater | 303601 | [303601-kadin-the-soul-eater.json](./303601-kadin-the-soul-eater.json) |
 | Kado Hunter | 303600 | [303600-kado-hunter.json](./303600-kado-hunter.json) |
@@ -103,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju Wars + Legend of Keepers: Monsters & Demons Bundle | 287111 | [287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json](./287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json) |
 | Kaiju-A-GoGo | 36155 | [36155-kaiju-a-gogo.json](./36155-kaiju-a-gogo.json) |
 | Kaiju-A-GoGo: Grey Goop | 159650 | [159650-kaiju-a-gogo-grey-goop.json](./159650-kaiju-a-gogo-grey-goop.json) |
+| Kaijuu Kitan Oboro: Jyuuya Kuuko Mangekyou | 114546 | [114546-kaijuu-kitan-oboro-jyuuya-kuuko-mangekyou.json](./114546-kaijuu-kitan-oboro-jyuuya-kuuko-mangekyou.json) |
 | Kaiketsu Yanchamaru | 40216 | [40216-kaiketsu-yanchamaru.json](./40216-kaiketsu-yanchamaru.json) |
 | Kaiketsu Yanchamaru 3: Taiketsu! Zouringen | 66050 | [66050-kaiketsu-yanchamaru-3-taiketsu-zouringen.json](./66050-kaiketsu-yanchamaru-3-taiketsu-zouringen.json) |
 | Kaiki Gensou Yumemonogatari: Kaijuu Kitan Ouja-den | 110137 | [110137-kaiki-gensou-yumemonogatari-kaijuu-kitan-ouja-den.json](./110137-kaiki-gensou-yumemonogatari-kaijuu-kitan-ouja-den.json) |
