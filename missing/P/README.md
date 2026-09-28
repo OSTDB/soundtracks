@@ -530,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pang.date | 205097 | [205097-pang-date.json](./205097-pang-date.json) |
 | Panga's Kaizo Kindergarten (For Dummies) | 145479 | [145479-pangas-kaizo-kindergarten-for-dummies.json](./145479-pangas-kaizo-kindergarten-for-dummies.json) |
 | Pangea 1/2 | 325660 | [325660-pangea-1-2.json](./325660-pangea-1-2.json) |
+| Pangea Arcade | 96286 | [96286-pangea-arcade.json](./96286-pangea-arcade.json) |
 | Pangemic | 30818 | [30818-pangemic.json](./30818-pangemic.json) |
 | Pango and friends | 89705 | [89705-pango-and-friends.json](./89705-pango-and-friends.json) |
 | Pango Blocks | 87889 | [87889-pango-blocks.json](./87889-pango-blocks.json) |
@@ -1262,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Password | 135304 | [135304-password.json](./135304-password.json) |
 | Password Manager | 401499 | [401499-password-manager.json](./401499-password-manager.json) |
 | Past Apparitions | 383499 | [383499-past-apparitions.json](./383499-past-apparitions.json) |
+| Past Due | 96232 | [96232-past-due.json](./96232-past-due.json) |
 | Past Fate | 123029 | [123029-past-fate.json](./123029-past-fate.json) |
 | Past Memories | 266830 | [266830-past-memories.json](./266830-past-memories.json) |
 | Past Synergy | 195079 | [195079-past-synergy.json](./195079-past-synergy.json) |
@@ -3957,6 +3959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Romance Boys: Conquer the Zodiac Horoscope | 376761 | [376761-planet-romance-boys-conquer-the-zodiac-horoscope.json](./376761-planet-romance-boys-conquer-the-zodiac-horoscope.json) |
 | Planet Romance Girls: Conquer the Zodiac Horoscope | 378862 | [378862-planet-romance-girls-conquer-the-zodiac-horoscope.json](./378862-planet-romance-girls-conquer-the-zodiac-horoscope.json) |
 | Planet Royale | 292556 | [292556-planet-royale.json](./292556-planet-royale.json) |
+| Planet Runners | 96258 | [96258-planet-runners.json](./96258-planet-runners.json) |
 | Planet Soccer | 57688 | [57688-planet-soccer.json](./57688-planet-soccer.json) |
 | Planet Squirrel | 106743 | [106743-planet-squirrel.json](./106743-planet-squirrel.json) |
 | Planet Stronghold | 8982 | [8982-planet-stronghold.json](./8982-planet-stronghold.json) |
@@ -4380,6 +4383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Color Billiard | 137631 | [137631-pocket-color-billiard.json](./137631-pocket-color-billiard.json) |
 | Pocket Cowboy | 175437 | [175437-pocket-cowboy.json](./175437-pocket-cowboy.json) |
 | Pocket Crystal League | 202258 | [202258-pocket-crystal-league.json](./202258-pocket-crystal-league.json) |
+| Pocket Dogfights | 96224 | [96224-pocket-dogfights.json](./96224-pocket-dogfights.json) |
 | Pocket Family GB | 180201 | [180201-pocket-family-gb.json](./180201-pocket-family-gb.json) |
 | Pocket Family GB2 | 180202 | [180202-pocket-family-gb2.json](./180202-pocket-family-gb2.json) |
 | Pocket Farm | 232176 | [232176-pocket-farm.json](./232176-pocket-farm.json) |
@@ -4952,6 +4956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Pathways | 295386 | [295386-polar-pathways.json](./295386-polar-pathways.json) |
 | Polar Payne | 216341 | [216341-polar-payne.json](./216341-polar-payne.json) |
 | Polar Penguin | 239731 | [239731-polar-penguin.json](./239731-polar-penguin.json) |
+| Polar Rollout | 96256 | [96256-polar-rollout.json](./96256-polar-rollout.json) |
 | Polaria | 374601 | [374601-polaria.json](./374601-polaria.json) |
 | Polaris | 380125 | [380125-polaris.json](./380125-polaris.json) |
 | Polarity Switch | 176342 | [176342-polarity-switch.json](./176342-polarity-switch.json) |
@@ -5223,6 +5228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Adventure | 191221 | [191221-pool-adventure.json](./191221-pool-adventure.json) |
 | Pool Ball Battle Royale | 235679 | [235679-pool-ball-battle-royale.json](./235679-pool-ball-battle-royale.json) |
 | Pool Break 3D Billiards 8 Ball, 9 Ball, Snooker | 100147 | [100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json](./100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json) |
+| Pool Break Pro 3D Billiards | 96292 | [96292-pool-break-pro-3d-billiards.json](./96292-pool-break-pro-3d-billiards.json) |
 | Pool Club kara no Dasshutsu | 358493 | [358493-pool-club-kara-no-dasshutsu.json](./358493-pool-club-kara-no-dasshutsu.json) |
 | Pool Elite | 103180 | [103180-pool-elite.json](./103180-pool-elite.json) |
 | Pool Fever: Prime Edition | 332513 | [332513-pool-fever-prime-edition.json](./332513-pool-fever-prime-edition.json) |
