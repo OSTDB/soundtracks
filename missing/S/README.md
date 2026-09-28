@@ -2859,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow and Darkness | 301286 | [301286-shadow-and-darkness.json](./301286-shadow-and-darkness.json) |
 | Shadow and Flame | 319741 | [319741-shadow-and-flame.json](./319741-shadow-and-flame.json) |
 | Shadow Archer Special | 214452 | [214452-shadow-archer-special.json](./214452-shadow-archer-special.json) |
+| Shadow Archery | 96276 | [96276-shadow-archery.json](./96276-shadow-archery.json) |
 | Shadow Arena | 125357 | [125357-shadow-arena.json](./125357-shadow-arena.json) |
 | Shadow Asylum | 180610 | [180610-shadow-asylum.json](./180610-shadow-asylum.json) |
 | Shadow Basketball | 145576 | [145576-shadow-basketball.json](./145576-shadow-basketball.json) |
@@ -6660,6 +6661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Jewels Puzzle | 87134 | [87134-snow-jewels-puzzle.json](./87134-snow-jewels-puzzle.json) |
 | Snow Kids | 135888 | [135888-snow-kids.json](./135888-snow-kids.json) |
 | Snow Madness | 224201 | [224201-snow-madness.json](./224201-snow-madness.json) |
+| Snow Magic Piano Tiles | 96222 | [96222-snow-magic-piano-tiles.json](./96222-snow-magic-piano-tiles.json) |
 | Snow Memoria: Wasureenu Omoi | 77675 | [77675-snow-memoria-wasureenu-omoi.json](./77675-snow-memoria-wasureenu-omoi.json) |
 | Snow Moon Flower | 235748 | [235748-snow-moon-flower.json](./235748-snow-moon-flower.json) |
 | Snow Moto Racing | 63837 | [63837-snow-moto-racing.json](./63837-snow-moto-racing.json) |
@@ -8803,6 +8805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceHack: Eden | 346245 | [346245-spacehack-eden.json](./346245-spacehack-eden.json) |
 | SpaceInvasion | 196275 | [196275-spaceinvasion.json](./196275-spaceinvasion.json) |
 | Spacejump | 250598 | [250598-spacejump.json](./250598-spacejump.json) |
+| Spaceketball | 96225 | [96225-spaceketball.json](./96225-spaceketball.json) |
 | Spacelair | 114444 | [114444-spacelair.json](./114444-spacelair.json) |
 | Spaceland: Cooperative | 170524 | [170524-spaceland-cooperative.json](./170524-spaceland-cooperative.json) |
 | Spaceland: Frontier | 195785 | [195785-spaceland-frontier.json](./195785-spaceland-frontier.json) |
@@ -8923,6 +8926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartacus Legends | 2326 | [2326-spartacus-legends.json](./2326-spartacus-legends.json) |
 | Spartacus: Blood and Sand | 66648 | [66648-spartacus-blood-and-sand.json](./66648-spartacus-blood-and-sand.json) |
 | Spartaga | 51853 | [51853-spartaga.json](./51853-spartaga.json) |
+| Spartan Runner | 96223 | [96223-spartan-runner.json](./96223-spartan-runner.json) |
 | Spartan Wars | 256253 | [256253-spartan-wars.json](./256253-spartan-wars.json) |
 | Spartan Wars: Blood and Fire | 323185 | [323185-spartan-wars-blood-and-fire.json](./323185-spartan-wars-blood-and-fire.json) |
 | Spartan X | 214467 | [214467-spartan-x.json](./214467-spartan-x.json) |
