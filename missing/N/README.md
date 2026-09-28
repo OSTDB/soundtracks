@@ -1027,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoGeo Online Collection Complete Box: Joukan | 381224 | [381224-neogeo-online-collection-complete-box-joukan.json](./381224-neogeo-online-collection-complete-box-joukan.json) |
 | Neogeo Pocket Color Selection Vol. 2: Steelbook Bundle | 284482 | [284482-neogeo-pocket-color-selection-vol-2-steelbook-bundle.json](./284482-neogeo-pocket-color-selection-vol-2-steelbook-bundle.json) |
 | Neogeo Pocket Color Selection Vol.2 | 225497 | [225497-neogeo-pocket-color-selection-vol-2.json](./225497-neogeo-pocket-color-selection-vol-2.json) |
+| NeoGeometry | 113176 | [113176-neogeometry.json](./113176-neogeometry.json) |
 | Neokaiju | 153996 | [153996-neokaiju.json](./153996-neokaiju.json) |
 | NeoLemmix | 189200 | [189200-neolemmix.json](./189200-neolemmix.json) |
 | Neolithic Brave Man | 118409 | [118409-neolithic-brave-man.json](./118409-neolithic-brave-man.json) |
@@ -2528,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Heroes: Naomi Hook | 355548 | [355548-no-more-heroes-naomi-hook.json](./355548-no-more-heroes-naomi-hook.json) |
 | No More Heroes: Red Zone Edition | 116373 | [116373-no-more-heroes-red-zone-edition.json](./116373-no-more-heroes-red-zone-edition.json) |
 | No More Inputs | 164913 | [164913-no-more-inputs.json](./164913-no-more-inputs.json) |
+| No More Pop Music - Annihilation | 113145 | [113145-no-more-pop-music-annihilation.json](./113145-no-more-pop-music-annihilation.json) |
 | No More Rainbows | 168672 | [168672-no-more-rainbows.json](./168672-no-more-rainbows.json) |
 | No More Shopping | 334867 | [334867-no-more-shopping.json](./334867-no-more-shopping.json) |
 | No More Slimes!! | 414600 | [414600-no-more-slimes.json](./414600-no-more-slimes.json) |
