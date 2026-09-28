@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: The Last Blade 2 | 90517 | [90517-aca-neo-geo-the-last-blade-2.json](./90517-aca-neo-geo-the-last-blade-2.json) |
 | ACA Neo Geo: The Super Spy | 105122 | [105122-aca-neo-geo-the-super-spy.json](./105122-aca-neo-geo-the-super-spy.json) |
 | ACA Neo Geo: Twinkle Star Sprites | 113209 | [113209-aca-neo-geo-twinkle-star-sprites.json](./113209-aca-neo-geo-twinkle-star-sprites.json) |
+| ACA Neo Geo: World Heroes | 76578 | [76578-aca-neo-geo-world-heroes.json](./76578-aca-neo-geo-world-heroes.json) |
 | ACA NeoGeo Selection Vol. 1 | 319735 | [319735-aca-neogeo-selection-vol-1.json](./319735-aca-neogeo-selection-vol-1.json) |
 | ACA NeoGeo Selection Vol. 2 | 319733 | [319733-aca-neogeo-selection-vol-2.json](./319733-aca-neogeo-selection-vol-2.json) |
 | ACA NeoGeo Selection Vol. 4 | 342071 | [342071-aca-neogeo-selection-vol-4.json](./342071-aca-neogeo-selection-vol-4.json) |
@@ -841,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accurate Tag | 379461 | [379461-accurate-tag.json](./379461-accurate-tag.json) |
 | AccuRC 2 | 90621 | [90621-accurc-2.json](./90621-accurc-2.json) |
 | Accursed | 203864 | [203864-accursed.json](./203864-accursed.json) |
+| Accuwar | 76632 | [76632-accuwar.json](./76632-accuwar.json) |
 | Ace | 249277 | [249277-ace.json](./249277-ace.json) |
 | ACE | 13282 | [13282-ace.json](./13282-ace.json) |
 | ACE | 329181 | [329181-ace.json](./329181-ace.json) |
@@ -1015,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Quake 2 | 221842 | [221842-action-quake-2.json](./221842-action-quake-2.json) |
 | Action Quest | 24858 | [24858-action-quest.json](./24858-action-quest.json) |
 | Action Reactor | 119558 | [119558-action-reactor.json](./119558-action-reactor.json) |
+| Action Rush | 76518 | [76518-action-rush.json](./76518-action-rush.json) |
 | Action Stations! | 12387 | [12387-action-stations.json](./12387-action-stations.json) |
 | Action Study Runner | 379472 | [379472-action-study-runner.json](./379472-action-study-runner.json) |
 | Action-Strategy Baseball | 72966 | [72966-action-strategy-baseball.json](./72966-action-strategy-baseball.json) |
@@ -1058,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
 | Ad Wars | 96242 | [96242-ad-wars.json](./96242-ad-wars.json) |
 | Ada Towers | 83493 | [83493-ada-towers.json](./83493-ada-towers.json) |
+| ADAC: The Simulation | 76623 | [76623-adac-the-simulation.json](./76623-adac-the-simulation.json) |
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
 | Adam & Eve | 204500 | [204500-adam-and-eve.json](./204500-adam-and-eve.json) |
 | Adam and Eve: Crossy River | 233509 | [233509-adam-and-eve-crossy-river.json](./233509-adam-and-eve-crossy-river.json) |
@@ -1084,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Addy: Do You Speak English? | 269541 | [269541-addy-do-you-speak-english.json](./269541-addy-do-you-speak-english.json) |
 | Adebana Sacrament: Seinaru Miwaza to Akuryoutsuki no Shoujo-tachi | 77948 | [77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json](./77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json) |
 | Adelamyth: Casual Idle RPG | 223932 | [223932-adelamyth-casual-idle-rpg.json](./223932-adelamyth-casual-idle-rpg.json) |
+| Adelantado Trilogy: Book Two | 76652 | [76652-adelantado-trilogy-book-two.json](./76652-adelantado-trilogy-book-two.json) |
 | Aden | 224770 | [224770-aden.json](./224770-aden.json) |
 | Adequately Ever After | 337795 | [337795-adequately-ever-after.json](./337795-adequately-ever-after.json) |
 | ADG Episode | 270696 | [270696-adg-episode.json](./270696-adg-episode.json) |
@@ -1107,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adibou: Je lis, je calcule 6-7 ans | 242529 | [242529-adibou-je-lis-je-calcule-6-7-ans.json](./242529-adibou-je-lis-je-calcule-6-7-ans.json) |
 | Adit 11 | 379557 | [379557-adit-11.json](./379557-adit-11.json) |
 | Adiverboz | 379558 | [379558-adiverboz.json](./379558-adiverboz.json) |
+| Adj | 76620 | [76620-adj.json](./76620-adj.json) |
 | ADK Damashii | 79572 | [79572-adk-damashii.json](./79572-adk-damashii.json) |
 | ADK World | 61322 | [61322-adk-world.json](./61322-adk-world.json) |
 | Adlib | 112303 | [112303-adlib.json](./112303-adlib.json) |
@@ -1822,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Conflicts: Secret Wars - Ultimate Edition | 27783 | [27783-air-conflicts-secret-wars-ultimate-edition.json](./27783-air-conflicts-secret-wars-ultimate-edition.json) |
 | Air Conflicts: Vietnam Ultimate Edition | 44546 | [44546-air-conflicts-vietnam-ultimate-edition.json](./44546-air-conflicts-vietnam-ultimate-edition.json) |
 | Air Control | 13160 | [13160-air-control.json](./13160-air-control.json) |
+| Air Dash | 76691 | [76691-air-dash.json](./76691-air-dash.json) |
 | Air Defence | 250902 | [250902-air-defence.json](./250902-air-defence.json) |
 | Air Delivery | 285591 | [285591-air-delivery.json](./285591-air-delivery.json) |
 | Air Force Commander | 14231 | [14231-air-force-commander.json](./14231-air-force-commander.json) |
@@ -5020,6 +5027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Legends: Sega Genesis | 202799 | [202799-arcade-legends-sega-genesis.json](./202799-arcade-legends-sega-genesis.json) |
 | Arcade Legends: Sega Genesis Volume 2 | 202802 | [202802-arcade-legends-sega-genesis-volume-2.json](./202802-arcade-legends-sega-genesis-volume-2.json) |
 | Arcade Legends: Sega Genesis Volume 3 - Super Sonic Gold | 202261 | [202261-arcade-legends-sega-genesis-volume-3-super-sonic-gold.json](./202261-arcade-legends-sega-genesis-volume-3-super-sonic-gold.json) |
+| Arcade Lines | 76713 | [76713-arcade-lines.json](./76713-arcade-lines.json) |
 | Arcade Love: Plus Pengo! | 120285 | [120285-arcade-love-plus-pengo.json](./120285-arcade-love-plus-pengo.json) |
 | Arcade Machine: Clown Hunt | 232991 | [232991-arcade-machine-clown-hunt.json](./232991-arcade-machine-clown-hunt.json) |
 | Arcade Maniac | 178965 | [178965-arcade-maniac.json](./178965-arcade-maniac.json) |
