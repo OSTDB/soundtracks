@@ -8124,6 +8124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Untamed | 193893 | [193893-the-untamed.json](./193893-the-untamed.json) |
 | The Untethered Void | 312176 | [312176-the-untethered-void.json](./312176-the-untethered-void.json) |
 | The Untitled Tower | 334500 | [334500-the-untitled-tower.json](./334500-the-untitled-tower.json) |
+| The Untouchable | 62285 | [62285-the-untouchable.json](./62285-the-untouchable.json) |
 | The Untouchable Man | 302391 | [302391-the-untouchable-man.json](./302391-the-untouchable-man.json) |
 | The Untouchables | 12807 | [12807-the-untouchables.json](./12807-the-untouchables.json) |
 | The Unwoven Unicorn | 410367 | [410367-the-unwoven-unicorn.json](./410367-the-unwoven-unicorn.json) |
