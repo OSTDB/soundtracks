@@ -427,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camping Builder | 192838 | [192838-camping-builder.json](./192838-camping-builder.json) |
 | Camping Simulator: The Squad | 150072 | [150072-camping-simulator-the-squad.json](./150072-camping-simulator-the-squad.json) |
 | Camping Tycoon | 62979 | [62979-camping-tycoon.json](./62979-camping-tycoon.json) |
+| Camping with girls | 106154 | [106154-camping-with-girls.json](./106154-camping-with-girls.json) |
 | Campire of Oasis: The Story | 397659 | [397659-campire-of-oasis-the-story.json](./397659-campire-of-oasis-the-story.json) |
 | Camplandia | 249872 | [249872-camplandia.json](./249872-camplandia.json) |
 | CampNight | 223502 | [223502-campnight.json](./223502-campnight.json) |
@@ -842,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Sales Simulator 2026 | 401111 | [401111-car-sales-simulator-2026.json](./401111-car-sales-simulator-2026.json) |
 | Car Scrapyard Simulator | 217267 | [217267-car-scrapyard-simulator.json](./217267-car-scrapyard-simulator.json) |
 | Car Screw Escape | 377268 | [377268-car-screw-escape.json](./377268-car-screw-escape.json) |
+| Car Showroom: Luxury Sports Auto Racing Simulator | 106124 | [106124-car-showroom-luxury-sports-auto-racing-simulator.json](./106124-car-showroom-luxury-sports-auto-racing-simulator.json) |
 | Car Simulator 2015 | 83216 | [83216-car-simulator-2015.json](./83216-car-simulator-2015.json) |
 | Car Simulator: Car Games 3D | 266260 | [266260-car-simulator-car-games-3d.json](./266260-car-simulator-car-games-3d.json) |
 | Car Soccer World Cup | 120825 | [120825-car-soccer-world-cup.json](./120825-car-soccer-world-cup.json) |
@@ -868,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caravana 2000 | 400367 | [400367-caravana-2000.json](./400367-caravana-2000.json) |
 | Carbage | 130766 | [130766-carbage.json](./130766-carbage.json) |
 | Carbon Battle Royale | 143717 | [143717-carbon-battle-royale.json](./143717-carbon-battle-royale.json) |
+| Carbon Warfare | 106128 | [106128-carbon-warfare.json](./106128-carbon-warfare.json) |
 | Carbonflesh | 224641 | [224641-carbonflesh.json](./224641-carbonflesh.json) |
 | Carbox | 317997 | [317997-carbox.json](./317997-carbox.json) |
 | Carcassonne: The Official Board Game - Inns & Cathedrals | 171018 | [171018-carcassonne-the-official-board-game-inns-and-cathedrals.json](./171018-carcassonne-the-official-board-game-inns-and-cathedrals.json) |
@@ -6256,6 +6259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Police Galivan | 28825 | [28825-cosmo-police-galivan.json](./28825-cosmo-police-galivan.json) |
 | Cosmo Race | 196335 | [196335-cosmo-race.json](./196335-cosmo-race.json) |
 | Cosmo Ranger: S.O.L. AD 2000 | 72068 | [72068-cosmo-ranger-s-o-l-ad-2000.json](./72068-cosmo-ranger-s-o-l-ad-2000.json) |
+| Cosmo Run | 106100 | [106100-cosmo-run.json](./106100-cosmo-run.json) |
 | Cosmo Solitaire | 295922 | [295922-cosmo-solitaire.json](./295922-cosmo-solitaire.json) |
 | Cosmo Solitaire 2 | 337254 | [337254-cosmo-solitaire-2.json](./337254-cosmo-solitaire-2.json) |
 | Cosmo Vulpes | 216194 | [216194-cosmo-vulpes.json](./216194-cosmo-vulpes.json) |
@@ -6740,6 +6744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Commando | 21136 | [21136-crash-commando.json](./21136-crash-commando.json) |
 | Crash Course | 172528 | [172528-crash-course.json](./172528-crash-course.json) |
 | Crash Course | 380094 | [380094-crash-course.json](./380094-crash-course.json) |
+| Crash Course Go! | 106099 | [106099-crash-course-go.json](./106099-crash-course-go.json) |
 | Crash Drive 2 | 35904 | [35904-crash-drive-2.json](./35904-crash-drive-2.json) |
 | Crash Drive 3 | 153824 | [153824-crash-drive-3.json](./153824-crash-drive-3.json) |
 | Crash Dummy | 35855 | [35855-crash-dummy.json](./35855-crash-dummy.json) |
