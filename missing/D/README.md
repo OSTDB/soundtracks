@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkside | 60515 | [60515-darkside.json](./60515-darkside.json) |
 | Darkside | 78657 | [78657-darkside.json](./78657-darkside.json) |
 | Darksiders II: Limited Edition | 216196 | [216196-darksiders-ii-limited-edition.json](./216196-darksiders-ii-limited-edition.json) |
+| Darksiders III: Blades & Whip Edition | 119079 | [119079-darksiders-iii-blades-and-whip-edition.json](./119079-darksiders-iii-blades-and-whip-edition.json) |
 | Darksiders III: Collector's Edition | 45985 | [45985-darksiders-iii-collectors-edition.json](./45985-darksiders-iii-collectors-edition.json) |
 | Darksiders III: The Crucible | 115645 | [115645-darksiders-iii-the-crucible.json](./115645-darksiders-iii-the-crucible.json) |
 | Darksiders: Warmastered Edition | 25081 | [25081-darksiders-warmastered-edition.json](./25081-darksiders-warmastered-edition.json) |
@@ -1447,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Island: Game of the Year Edition | 47400 | [47400-dead-island-game-of-the-year-edition.json](./47400-dead-island-game-of-the-year-edition.json) |
 | Dead Lab | 223661 | [223661-dead-lab.json](./223661-dead-lab.json) |
 | Dead Land 2 VR | 336368 | [336368-dead-land-2-vr.json](./336368-dead-land-2-vr.json) |
+| Dead Land VR | 118911 | [118911-dead-land-vr.json](./118911-dead-land-vr.json) |
 | Dead Lasso: Temple Of Shadows | 398423 | [398423-dead-lasso-temple-of-shadows.json](./398423-dead-lasso-temple-of-shadows.json) |
 | Dead Letter Dept. | 157024 | [157024-dead-letter-dept.json](./157024-dead-letter-dept.json) |
 | Dead Like Ants | 216240 | [216240-dead-like-ants.json](./216240-dead-like-ants.json) |
