@@ -881,6 +881,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Igo Shinan | 63890 | [63890-igo-shinan.json](./63890-igo-shinan.json) |
 | Igo Time Trial: Shikatsu Daihyakka | 268504 | [268504-igo-time-trial-shikatsu-daihyakka.json](./268504-igo-time-trial-shikatsu-daihyakka.json) |
 | Igo-Shinan '91 | 92295 | [92295-igo-shinan-91.json](./92295-igo-shinan-91.json) |
+| Igo-Shinan '92 | 63392 | [63392-igo-shinan-92.json](./63392-igo-shinan-92.json) |
+| Igo-Shinan '93 | 63389 | [63389-igo-shinan-93.json](./63389-igo-shinan-93.json) |
+| Igo-Shinan '94 | 63391 | [63391-igo-shinan-94.json](./63391-igo-shinan-94.json) |
 | Igo: Kyuu Roban Taikyoku | 41367 | [41367-igo-kyuu-roban-taikyoku.json](./41367-igo-kyuu-roban-taikyoku.json) |
 | Igor | 94894 | [94894-igor.json](./94894-igor.json) |
 | Igor: The Game | 21269 | [21269-igor-the-game.json](./21269-igor-the-game.json) |
@@ -2218,6 +2221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Cricket Captain III | 63325 | [63325-international-cricket-captain-iii.json](./63325-international-cricket-captain-iii.json) |
 | International Match Day | 397918 | [397918-international-match-day.json](./397918-international-match-day.json) |
 | International Pool Championship | 92472 | [92472-international-pool-championship.json](./92472-international-pool-championship.json) |
+| International Racing Squirrels | 63366 | [63366-international-racing-squirrels.json](./63366-international-racing-squirrels.json) |
 | International Rally | 49908 | [49908-international-rally.json](./49908-international-rally.json) |
 | International Rally Championship | 50210 | [50210-international-rally-championship.json](./50210-international-rally-championship.json) |
 | International Rugby Challenge | 73281 | [73281-international-rugby-challenge.json](./73281-international-rugby-challenge.json) |
@@ -2524,6 +2528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IQ Test | 85623 | [85623-iq-test.json](./85623-iq-test.json) |
 | IQ Wars | 89171 | [89171-iq-wars.json](./89171-iq-wars.json) |
 | Ir/rational Investigator | 110316 | [110316-ir-rational-investigator.json](./110316-ir-rational-investigator.json) |
+| Ir/rational Redux | 63377 | [63377-ir-rational-redux.json](./63377-ir-rational-redux.json) |
 | iRagdoll | 90672 | [90672-iragdoll.json](./90672-iragdoll.json) |
 | Iragon | 115664 | [115664-iragon.json](./115664-iragon.json) |
 | Irang | 304637 | [304637-irang.json](./304637-irang.json) |
