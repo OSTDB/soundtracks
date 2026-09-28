@@ -1072,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Little Ghost | 279733 | [279733-one-little-ghost.json](./279733-one-little-ghost.json) |
 | One Man and His Droid | 12958 | [12958-one-man-and-his-droid.json](./12958-one-man-and-his-droid.json) |
 | One Man Army | 65462 | [65462-one-man-army.json](./65462-one-man-army.json) |
+| One Man Army VR | 89397 | [89397-one-man-army-vr.json](./89397-one-man-army-vr.json) |
 | One Man's Shit: An Interactive Trash Adventure | 128638 | [128638-one-mans-shit-an-interactive-trash-adventure.json](./128638-one-mans-shit-an-interactive-trash-adventure.json) |
 | One Man's Trash | 343353 | [343353-one-mans-trash.json](./343353-one-mans-trash.json) |
 | One Man's War | 226716 | [226716-one-mans-war.json](./226716-one-mans-war.json) |
