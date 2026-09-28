@@ -3643,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Addiction | 277573 | [277573-bit-addiction.json](./277573-bit-addiction.json) |
 | Bit Boy!! Arcade | 62852 | [62852-bit-boy-arcade.json](./62852-bit-boy-arcade.json) |
 | Bit Buddy | 379871 | [379871-bit-buddy.json](./379871-bit-buddy.json) |
+| Bit Bullet | 75014 | [75014-bit-bullet.json](./75014-bit-bullet.json) |
 | Bit City | 174681 | [174681-bit-city.json](./174681-bit-city.json) |
 | Bit Dancer | 351611 | [351611-bit-dancer.json](./351611-bit-dancer.json) |
 | Bit Evolution | 35966 | [35966-bit-evolution.json](./35966-bit-evolution.json) |
@@ -6442,6 +6443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break the Game | 74983 | [74983-break-the-game.json](./74983-break-the-game.json) |
 | Break The Line | 296500 | [296500-break-the-line.json](./296500-break-the-line.json) |
 | Break The Night | 417529 | [417529-break-the-night.json](./417529-break-the-night.json) |
+| Break the Targets | 75226 | [75226-break-the-targets.json](./75226-break-the-targets.json) |
 | Break the Tower | 394878 | [394878-break-the-tower.json](./394878-break-the-tower.json) |
 | Break the Web | 130196 | [130196-break-the-web.json](./130196-break-the-web.json) |
 | Break through 50 | 148468 | [148468-break-through-50.json](./148468-break-through-50.json) |
