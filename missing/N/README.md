@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natural Corde | 351267 | [351267-natural-corde.json](./351267-natural-corde.json) |
 | Natural Craft | 277570 | [277570-natural-craft.json](./277570-natural-craft.json) |
 | Natural Disasters | 211716 | [211716-natural-disasters.json](./211716-natural-disasters.json) |
+| Natural Fawn killers | 77401 | [77401-natural-fawn-killers.json](./77401-natural-fawn-killers.json) |
 | Natural Pressures | 265670 | [265670-natural-pressures.json](./265670-natural-pressures.json) |
 | Natural Selection 2 | 1335 | [1335-natural-selection-2.json](./1335-natural-selection-2.json) |
 | Natural Unintelligence: Zueirama 2 | 345042 | [345042-natural-unintelligence-zueirama-2.json](./345042-natural-unintelligence-zueirama-2.json) |
