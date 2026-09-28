@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Epoch: Twilight Fox | 286563 | [286563-last-epoch-twilight-fox.json](./286563-last-epoch-twilight-fox.json) |
 | Last Equinox: Winds of Change | 255388 | [255388-last-equinox-winds-of-change.json](./255388-last-equinox-winds-of-change.json) |
 | Last Fishing: Monster Clash | 220208 | [220208-last-fishing-monster-clash.json](./220208-last-fishing-monster-clash.json) |
+| Last Flight | 72599 | [72599-last-flight.json](./72599-last-flight.json) |
 | Last Floor | 130242 | [130242-last-floor.json](./130242-last-floor.json) |
 | Last Floor | 400252 | [400252-last-floor.json](./400252-last-floor.json) |
 | Last Fort Night Craft Survival Battle Royale | 95843 | [95843-last-fort-night-craft-survival-battle-royale.json](./95843-last-fort-night-craft-survival-battle-royale.json) |
@@ -1659,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play! Oink Games: Nine Tiles | 241310 | [241310-lets-play-oink-games-nine-tiles.json](./241310-lets-play-oink-games-nine-tiles.json) |
 | Let's Play! Oink Games: Rafter Five | 275559 | [275559-lets-play-oink-games-rafter-five.json](./275559-lets-play-oink-games-rafter-five.json) |
 | Let's Quip | 61896 | [61896-lets-quip.json](./61896-lets-quip.json) |
+| Let's Ride! Championship Dreams | 72136 | [72136-lets-ride-championship-dreams.json](./72136-lets-ride-championship-dreams.json) |
 | Let's Ride! Silver Buckle Stables | 43522 | [43522-lets-ride-silver-buckle-stables.json](./43522-lets-ride-silver-buckle-stables.json) |
 | Let's Ride!: Dreamer | 49396 | [49396-lets-ride-dreamer.json](./49396-lets-ride-dreamer.json) |
 | Let's Ride!: Sunshine Stables | 49395 | [49395-lets-ride-sunshine-stables.json](./49395-lets-ride-sunshine-stables.json) |
@@ -2880,6 +2882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizard Slayer | 405618 | [405618-lizard-slayer.json](./405618-lizard-slayer.json) |
 | Lizard Survival Duo | 369728 | [369728-lizard-survival-duo.json](./369728-lizard-survival-duo.json) |
 | Lizard Tower: The Abyss | 283751 | [283751-lizard-tower-the-abyss.json](./283751-lizard-tower-the-abyss.json) |
+| Lizardmen | 72178 | [72178-lizardmen.json](./72178-lizardmen.json) |
 | Lizardquest-Alien waters | 115035 | [115035-lizardquest-alien-waters.json](./115035-lizardquest-alien-waters.json) |
 | Lizards Must Die | 264773 | [264773-lizards-must-die.json](./264773-lizards-must-die.json) |
 | Lizards Must Die 2 | 311584 | [311584-lizards-must-die-2.json](./311584-lizards-must-die-2.json) |
@@ -3968,6 +3971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovers of Aether | 117041 | [117041-lovers-of-aether.json](./117041-lovers-of-aether.json) |
 | LoveSoTea | 250279 | [250279-lovesotea.json](./250279-lovesotea.json) |
 | Lovin House | 153845 | [153845-lovin-house.json](./153845-lovin-house.json) |
+| Loving Deads: The House of the Dead EX | 72769 | [72769-loving-deads-the-house-of-the-dead-ex.json](./72769-loving-deads-the-house-of-the-dead-ex.json) |
 | Loving You Fully | 159873 | [159873-loving-you-fully.json](./159873-loving-you-fully.json) |
 | Loving Zurine | 83222 | [83222-loving-zurine.json](./83222-loving-zurine.json) |
 | Lovish | 319894 | [319894-lovish.json](./319894-lovish.json) |
