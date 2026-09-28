@@ -1239,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaction | 152347 | [152347-reaction.json](./152347-reaction.json) |
 | Reaction Game: Hit the Color! | 56764 | [56764-reaction-game-hit-the-color.json](./56764-reaction-game-hit-the-color.json) |
 | Reaction Quake 3 | 200651 | [200651-reaction-quake-3.json](./200651-reaction-quake-3.json) |
+| Reaction: Block Buster | 61132 | [61132-reaction-block-buster.json](./61132-reaction-block-buster.json) |
 | Reactor | 18545 | [18545-reactor.json](./18545-reactor.json) |
 | Reactor 09 | 123596 | [123596-reactor-09.json](./123596-reactor-09.json) |
 | Reactor Tech 2 | 163975 | [163975-reactor-tech-2.json](./163975-reactor-tech-2.json) |
@@ -1904,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reditus: Ashes of Heremus | 230535 | [230535-reditus-ashes-of-heremus.json](./230535-reditus-ashes-of-heremus.json) |
 | Redjack: Revenge of the Brethren | 18297 | [18297-redjack-revenge-of-the-brethren.json](./18297-redjack-revenge-of-the-brethren.json) |
 | RedLantern | 392943 | [392943-redlantern.json](./392943-redlantern.json) |
+| RedLightCenter | 61176 | [61176-redlightcenter.json](./61176-redlightcenter.json) |
 | Redline | 321136 | [321136-redline.json](./321136-redline.json) |
 | RedLine | 272244 | [272244-redline.json](./272244-redline.json) |
 | Redline F-1 Racer | 239898 | [239898-redline-f-1-racer.json](./239898-redline-f-1-racer.json) |
@@ -2069,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regular Show: Battle of the Behemoths | 185661 | [185661-regular-show-battle-of-the-behemoths.json](./185661-regular-show-battle-of-the-behemoths.json) |
 | Regular Show: Fist Punch | 185663 | [185663-regular-show-fist-punch.json](./185663-regular-show-fist-punch.json) |
 | Regular Show: Galaxy Escape | 120291 | [120291-regular-show-galaxy-escape.json](./120291-regular-show-galaxy-escape.json) |
+| Regular Show: Ghost Toasters | 61142 | [61142-regular-show-ghost-toasters.json](./61142-regular-show-ghost-toasters.json) |
 | Regular Show: Mordecai and Rigby in 8-Bit Land | 6869 | [6869-regular-show-mordecai-and-rigby-in-8-bit-land.json](./6869-regular-show-mordecai-and-rigby-in-8-bit-land.json) |
 | Regular Show: Paint War | 185662 | [185662-regular-show-paint-war.json](./185662-regular-show-paint-war.json) |
 | Regular Toad Game | 135125 | [135125-regular-toad-game.json](./135125-regular-toad-game.json) |
@@ -3167,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddles of the Owls Kingdom | 105370 | [105370-riddles-of-the-owls-kingdom.json](./105370-riddles-of-the-owls-kingdom.json) |
 | Riddles with Sir Connery | 314497 | [314497-riddles-with-sir-connery.json](./314497-riddles-with-sir-connery.json) |
 | RiddleWood | 392274 | [392274-riddlewood.json](./392274-riddlewood.json) |
+| Ride 'Em Rigby: Regular Show | 61140 | [61140-ride-em-rigby-regular-show.json](./61140-ride-em-rigby-regular-show.json) |
 | Ride 2: 2017 Top Bikes Pack | 226961 | [226961-ride-2-2017-top-bikes-pack.json](./226961-ride-2-2017-top-bikes-pack.json) |
 | Ride 2: Aprilia and Suzuki Bonus Pack | 226962 | [226962-ride-2-aprilia-and-suzuki-bonus-pack.json](./226962-ride-2-aprilia-and-suzuki-bonus-pack.json) |
 | Ride 2: Collector Bikes Pack | 226963 | [226963-ride-2-collector-bikes-pack.json](./226963-ride-2-collector-bikes-pack.json) |
