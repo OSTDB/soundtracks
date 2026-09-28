@@ -5410,6 +5410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Page Sports: Baseball '94 | 68960 | [68960-front-page-sports-baseball-94.json](./68960-front-page-sports-baseball-94.json) |
 | Front Page Sports: Baseball Pro '96 Season | 81468 | [81468-front-page-sports-baseball-pro-96-season.json](./81468-front-page-sports-baseball-pro-96-season.json) |
 | Front Page Sports: Baseball Pro '98 | 100133 | [100133-front-page-sports-baseball-pro-98.json](./100133-front-page-sports-baseball-pro-98.json) |
+| Front Page Sports: Golf | 71046 | [71046-front-page-sports-golf.json](./71046-front-page-sports-golf.json) |
 | Front Page Sports: Trophy Bass 2 - Northern Lakes | 68963 | [68963-front-page-sports-trophy-bass-2-northern-lakes.json](./68963-front-page-sports-trophy-bass-2-northern-lakes.json) |
 | Front Page Sports: Trophy Rivers | 69872 | [69872-front-page-sports-trophy-rivers.json](./69872-front-page-sports-trophy-rivers.json) |
 | Frontal Attack | 116157 | [116157-frontal-attack.json](./116157-frontal-attack.json) |
