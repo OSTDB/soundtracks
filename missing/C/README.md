@@ -1130,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier Deck | 40566 | [40566-carrier-deck.json](./40566-carrier-deck.json) |
 | Carrier Joe 2 | 207845 | [207845-carrier-joe-2.json](./207845-carrier-joe-2.json) |
 | Carrier Landings | 87163 | [87163-carrier-landings.json](./87163-carrier-landings.json) |
+| Carrier Trail | 113901 | [113901-carrier-trail.json](./113901-carrier-trail.json) |
 | Carrier Wing Ypsilon | 392439 | [392439-carrier-wing-ypsilon.json](./392439-carrier-wing-ypsilon.json) |
 | Carriers at War | 71213 | [71213-carriers-at-war.json](./71213-carriers-at-war.json) |
 | Carriers at War 1941-1945: Fleet Carrier Operations in the Pacific | 25615 | [25615-carriers-at-war-1941-1945-fleet-carrier-operations-in-the-pacific.json](./25615-carriers-at-war-1941-1945-fleet-carrier-operations-in-the-pacific.json) |
@@ -2624,6 +2625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef | 247482 | [247482-chef.json](./247482-chef.json) |
 | Chef Boyardee Can Simulator | 242507 | [242507-chef-boyardee-can-simulator.json](./242507-chef-boyardee-can-simulator.json) |
 | Chef Capybara | 253996 | [253996-chef-capybara.json](./253996-chef-capybara.json) |
+| Chef Curry | 113849 | [113849-chef-curry.json](./113849-chef-curry.json) |
 | Chef Life: A Restaurant Simulator | 191698 | [191698-chef-life-a-restaurant-simulator.json](./191698-chef-life-a-restaurant-simulator.json) |
 | Chef Life: A Restaurant Simulator - Al Forno Pack | 242489 | [242489-chef-life-a-restaurant-simulator-al-forno-pack.json](./242489-chef-life-a-restaurant-simulator-al-forno-pack.json) |
 | Chef Life: A Restaurant Simulator - Tokyo Delight | 295348 | [295348-chef-life-a-restaurant-simulator-tokyo-delight.json](./295348-chef-life-a-restaurant-simulator-tokyo-delight.json) |
@@ -3396,6 +3398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromarena | 188666 | [188666-chromarena.json](./188666-chromarena.json) |
 | Chromata | 256308 | [256308-chromata.json](./256308-chromata.json) |
 | Chromatic | 200719 | [200719-chromatic.json](./200719-chromatic.json) |
+| Chromatic Aberration | 113843 | [113843-chromatic-aberration.json](./113843-chromatic-aberration.json) |
 | Chromatic Battles | 388354 | [388354-chromatic-battles.json](./388354-chromatic-battles.json) |
 | Chromatic Fantasia EX | 98442 | [98442-chromatic-fantasia-ex.json](./98442-chromatic-fantasia-ex.json) |
 | Chromatic Labyrinth | 167603 | [167603-chromatic-labyrinth.json](./167603-chromatic-labyrinth.json) |
@@ -5495,6 +5498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confessions at Candlewood Lake | 174113 | [174113-confessions-at-candlewood-lake.json](./174113-confessions-at-candlewood-lake.json) |
 | Confettied | 412395 | [412395-confettied.json](./412395-confettied.json) |
 | Confidential Mission | 305954 | [305954-confidential-mission.json](./305954-confidential-mission.json) |
+| Config Wars | 113854 | [113854-config-wars.json](./113854-config-wars.json) |
 | Confined | 304138 | [304138-confined.json](./304138-confined.json) |
 | Confined Space | 415101 | [415101-confined-space.json](./415101-confined-space.json) |
 | Confined: Leaving OKB-134 | 291489 | [291489-confined-leaving-okb-134.json](./291489-confined-leaving-okb-134.json) |
@@ -6386,6 +6390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coupling | 357425 | [357425-coupling.json](./357425-coupling.json) |
 | Courage | 207519 | [207519-courage.json](./207519-courage.json) |
 | Courage | 25768 | [25768-courage.json](./25768-courage.json) |
+| Courage for a Kiss | 113886 | [113886-courage-for-a-kiss.json](./113886-courage-for-a-kiss.json) |
 | Courage Saw Game | 385598 | [385598-courage-saw-game.json](./385598-courage-saw-game.json) |
 | Courage the Cowardly Dog: Creep TV | 186279 | [186279-courage-the-cowardly-dog-creep-tv.json](./186279-courage-the-cowardly-dog-creep-tv.json) |
 | Courage the Cowardly Dog: Hell Bound Hound | 142356 | [142356-courage-the-cowardly-dog-hell-bound-hound.json](./142356-courage-the-cowardly-dog-hell-bound-hound.json) |
@@ -7343,6 +7348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross the Ages: Trading Card Game | 217807 | [217807-cross-the-ages-trading-card-game.json](./217807-cross-the-ages-trading-card-game.json) |
 | Cross The Boundaries | 334182 | [334182-cross-the-boundaries.json](./334182-cross-the-boundaries.json) |
 | Cross the Maze World | 290471 | [290471-cross-the-maze-world.json](./290471-cross-the-maze-world.json) |
+| Cross the Red Line | 113859 | [113859-cross-the-red-line.json](./113859-cross-the-red-line.json) |
 | Cross the Road | 186057 | [186057-cross-the-road.json](./186057-cross-the-road.json) |
 | Cross The World | 383627 | [383627-cross-the-world.json](./383627-cross-the-world.json) |
 | Crossbar Kevin | 246961 | [246961-crossbar-kevin.json](./246961-crossbar-kevin.json) |
