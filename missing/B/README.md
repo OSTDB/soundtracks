@@ -987,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie Storymaker | 144332 | [144332-barbie-storymaker.json](./144332-barbie-storymaker.json) |
 | Barbie: Explorer | 3314 | [3314-barbie-explorer.json](./3314-barbie-explorer.json) |
 | Barbie: Fairytopia | 273990 | [273990-barbie-fairytopia.json](./273990-barbie-fairytopia.json) |
+| Barbie: Fun & Fashion Dogs | 117136 | [117136-barbie-fun-and-fashion-dogs.json](./117136-barbie-fun-and-fashion-dogs.json) |
 | Barbie: Gotta Have Games | 43884 | [43884-barbie-gotta-have-games.json](./43884-barbie-gotta-have-games.json) |
 | Barbie: Horse Ride & Rescue | 398424 | [398424-barbie-horse-ride-and-rescue.json](./398424-barbie-horse-ride-and-rescue.json) |
 | Barbie: Let's Baby-Sit Baby Krissy | 293192 | [293192-barbie-lets-baby-sit-baby-krissy.json](./293192-barbie-lets-baby-sit-baby-krissy.json) |
@@ -3593,6 +3594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitmap Bureau Collection | 287089 | [287089-bitmap-bureau-collection.json](./287089-bitmap-bureau-collection.json) |
 | Bitmap Bureau Collection: Deluxe Edition | 294814 | [294814-bitmap-bureau-collection-deluxe-edition.json](./294814-bitmap-bureau-collection-deluxe-edition.json) |
 | Bitmates | 228413 | [228413-bitmates.json](./228413-bitmates.json) |
+| Bitmoji Party | 117161 | [117161-bitmoji-party.json](./117161-bitmoji-party.json) |
 | Bitpunky | 149473 | [149473-bitpunky.json](./149473-bitpunky.json) |
 | BitRay2 | 31724 | [31724-bitray2.json](./31724-bitray2.json) |
 | BitRick's Venture | 333173 | [333173-bitricks-venture.json](./333173-bitricks-venture.json) |
