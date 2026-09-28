@@ -4120,6 +4120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash: Robot Detective - Complete Edition | 236218 | [236218-clash-robot-detective-complete-edition.json](./236218-clash-robot-detective-complete-edition.json) |
 | Clasherball | 306514 | [306514-clasherball.json](./306514-clasherball.json) |
 | ClashofHunter | 130794 | [130794-clashofhunter.json](./130794-clashofhunter.json) |
+| Class of Heroes 3 | 65563 | [65563-class-of-heroes-3.json](./65563-class-of-heroes-3.json) |
 | Class Trip Crush | 238411 | [238411-class-trip-crush.json](./238411-class-trip-crush.json) |
 | Class4 (working title) | 131466 | [131466-class4-working-title.json](./131466-class4-working-title.json) |
 | Classic Adventures: The Great Gatsby | 417686 | [417686-classic-adventures-the-great-gatsby.json](./417686-classic-adventures-the-great-gatsby.json) |
@@ -5041,6 +5042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color DJ | 265418 | [265418-color-dj.json](./265418-color-dj.json) |
 | Color Dodge | 311053 | [311053-color-dodge.json](./311053-color-dodge.json) |
 | Color Dots Connect | 148569 | [148569-color-dots-connect.json](./148569-color-dots-connect.json) |
+| Color Dots! | 65572 | [65572-color-dots.json](./65572-color-dots.json) |
 | Color Fan | 315059 | [315059-color-fan.json](./315059-color-fan.json) |
 | Color Fear | 296656 | [296656-color-fear.json](./296656-color-fear.json) |
 | Color Fusion Fever | 278165 | [278165-color-fusion-fever.json](./278165-color-fusion-fever.json) |
@@ -6234,6 +6236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corporate 0 | 411123 | [411123-corporate-0.json](./411123-corporate-0.json) |
 | Corporate Hell | 391617 | [391617-corporate-hell.json](./391617-corporate-hell.json) |
 | Corporate Lockdown | 250005 | [250005-corporate-lockdown.json](./250005-corporate-lockdown.json) |
+| Corporate Raider: The Pirate of Wall St. | 65571 | [65571-corporate-raider-the-pirate-of-wall-st.json](./65571-corporate-raider-the-pirate-of-wall-st.json) |
 | Corporation | 57696 | [57696-corporation.json](./57696-corporation.json) |
 | Corporation Liberty | 379030 | [379030-corporation-liberty.json](./379030-corporation-liberty.json) |
 | Corporation Master | 55889 | [55889-corporation-master.json](./55889-corporation-master.json) |
@@ -6941,6 +6944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash The Car Death Race | 364074 | [364074-crash-the-car-death-race.json](./364074-crash-the-car-death-race.json) |
 | Crash the Comet | 102595 | [102595-crash-the-comet.json](./102595-crash-the-comet.json) |
 | Crash the Game | 129703 | [129703-crash-the-game.json](./129703-crash-the-game.json) |
+| Crash Time 3D | 65544 | [65544-crash-time-3d.json](./65544-crash-time-3d.json) |
 | Crash Time 4: The Syndicate | 19973 | [19973-crash-time-4-the-syndicate.json](./19973-crash-time-4-the-syndicate.json) |
 | Crash Time: Undercover | 226834 | [226834-crash-time-undercover.json](./226834-crash-time-undercover.json) |
 | Crash Twinsanity | 210234 | [210234-crash-twinsanity.json](./210234-crash-twinsanity.json) |
