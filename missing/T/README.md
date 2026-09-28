@@ -2262,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tezzel: The Tilemaker's Tale | 344923 | [344923-tezzel-the-tilemakers-tale.json](./344923-tezzel-the-tilemakers-tale.json) |
 | TFX | 44874 | [44874-tfx.json](./44874-tfx.json) |
 | TG Motocross 3 | 222858 | [222858-tg-motocross-3.json](./222858-tg-motocross-3.json) |
+| Th!nk Logic Trainer | 92057 | [92057-th-nk-logic-trainer.json](./92057-th-nk-logic-trainer.json) |
 | th!nk Logic Trainer: Kids | 81392 | [81392-th-nk-logic-trainer-kids.json](./81392-th-nk-logic-trainer-kids.json) |
 | Thailand Bus Simulator | 384617 | [384617-thailand-bus-simulator.json](./384617-thailand-bus-simulator.json) |
 | Thalamus: The Hits 2 | 137468 | [137468-thalamus-the-hits-2.json](./137468-thalamus-the-hits-2.json) |
@@ -10796,6 +10797,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Highway Battle | 20797 | [20797-tokyo-highway-battle.json](./20797-tokyo-highway-battle.json) |
 | Tokyo Hosto | 35767 | [35767-tokyo-hosto.json](./35767-tokyo-hosto.json) |
 | Tokyo Hotel | 379964 | [379964-tokyo-hotel.json](./379964-tokyo-hotel.json) |
+| Tokyo Joshikou Seifuku o Nuida Zukan: Part 1 | 92075 | [92075-tokyo-joshikou-seifuku-o-nuida-zukan-part-1.json](./92075-tokyo-joshikou-seifuku-o-nuida-zukan-part-1.json) |
+| Tokyo Joshikou Seifuku o Nuida Zukan: Part 2 | 92076 | [92076-tokyo-joshikou-seifuku-o-nuida-zukan-part-2.json](./92076-tokyo-joshikou-seifuku-o-nuida-zukan-part-2.json) |
+| Tokyo Joshikou Seifuku o Nuida Zukan: Part 3 | 92077 | [92077-tokyo-joshikou-seifuku-o-nuida-zukan-part-3.json](./92077-tokyo-joshikou-seifuku-o-nuida-zukan-part-3.json) |
 | Tokyo Kowloon | 77679 | [77679-tokyo-kowloon.json](./77679-tokyo-kowloon.json) |
 | Tokyo Love Hustle | 239872 | [239872-tokyo-love-hustle.json](./239872-tokyo-love-hustle.json) |
 | Tokyo Majin Gakuen | 91924 | [91924-tokyo-majin-gakuen.json](./91924-tokyo-majin-gakuen.json) |
@@ -12557,6 +12561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrainTastic | 272900 | [272900-traintastic.json](./272900-traintastic.json) |
 | Trainwatch | 355613 | [355613-trainwatch.json](./355613-trainwatch.json) |
 | Trainwreck | 327325 | [327325-trainwreck.json](./327325-trainwreck.json) |
+| Trainyard | 92061 | [92061-trainyard.json](./92061-trainyard.json) |
 | Trainyard Express | 261861 | [261861-trainyard-express.json](./261861-trainyard-express.json) |
 | Trainz | 920 | [920-trainz.json](./920-trainz.json) |
 | Trainz 2019: [TL] Rainsville - Danville | 325026 | [325026-trainz-2019-tl-rainsville-danville.json](./325026-trainz-2019-tl-rainsville-danville.json) |
