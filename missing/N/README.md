@@ -1368,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neversong: Collector's Edition | 139840 | [139840-neversong-collectors-edition.json](./139840-neversong-collectors-edition.json) |
 | NeverSynth | 225878 | [225878-neversynth.json](./225878-neversynth.json) |
 | Nevertales: Hidden Doorway - Collector's Edition | 416617 | [416617-nevertales-hidden-doorway-collectors-edition.json](./416617-nevertales-hidden-doorway-collectors-edition.json) |
+| Nevertales: Legends - Collector's Edition | 76513 | [76513-nevertales-legends-collectors-edition.json](./76513-nevertales-legends-collectors-edition.json) |
 | Nevertales: Smoke and Mirrors HD | 108459 | [108459-nevertales-smoke-and-mirrors-hd.json](./108459-nevertales-smoke-and-mirrors-hd.json) |
 | Nevertales: The Abomination | 187941 | [187941-nevertales-the-abomination.json](./187941-nevertales-the-abomination.json) |
 | Neverwards | 342159 | [342159-neverwards.json](./342159-neverwards.json) |
@@ -1748,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nice Shot! The Gun Golfing Game | 110942 | [110942-nice-shot-the-gun-golfing-game.json](./110942-nice-shot-the-gun-golfing-game.json) |
 | Nice to NO you | 139240 | [139240-nice-to-no-you.json](./139240-nice-to-no-you.json) |
 | Nice Try! | 129229 | [129229-nice-try.json](./129229-nice-try.json) |
+| Nice Way | 76689 | [76689-nice-way.json](./76689-nice-way.json) |
 | Niche: Breed and Evolve | 174298 | [174298-niche-breed-and-evolve.json](./174298-niche-breed-and-evolve.json) |
 | Nick | 29921 | [29921-nick.json](./29921-nick.json) |
 | Nick Bounty: A Case of the Crabs | 219150 | [219150-nick-bounty-a-case-of-the-crabs.json](./219150-nick-bounty-a-case-of-the-crabs.json) |
@@ -2766,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nodes | 203250 | [203250-nodes.json](./203250-nodes.json) |
 | Nodes of Yesod | 23059 | [23059-nodes-of-yesod.json](./23059-nodes-of-yesod.json) |
 | Nodevious | 181163 | [181163-nodevious.json](./181163-nodevious.json) |
+| Nodge Pre-Alpha | 76697 | [76697-nodge-pre-alpha.json](./76697-nodge-pre-alpha.json) |
 | Nodrog's Fortress | 182463 | [182463-nodrogs-fortress.json](./182463-nodrogs-fortress.json) |
 | Nodwar | 378906 | [378906-nodwar.json](./378906-nodwar.json) |
 | Noel the Mortal Fate S1-7 | 102484 | [102484-noel-the-mortal-fate-s1-7.json](./102484-noel-the-mortal-fate-s1-7.json) |
