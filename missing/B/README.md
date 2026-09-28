@@ -2968,6 +2968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Chess | 232379 | [232379-beyond-chess.json](./232379-beyond-chess.json) |
 | Beyond Citadel | 322842 | [322842-beyond-citadel.json](./322842-beyond-citadel.json) |
 | Beyond Clouds | 74479 | [74479-beyond-clouds.json](./74479-beyond-clouds.json) |
+| Beyond Columns | 70450 | [70450-beyond-columns.json](./70450-beyond-columns.json) |
 | Beyond Crimson Stars | 128966 | [128966-beyond-crimson-stars.json](./128966-beyond-crimson-stars.json) |
 | Beyond Dawn | 158531 | [158531-beyond-dawn.json](./158531-beyond-dawn.json) |
 | Beyond Despair | 26724 | [26724-beyond-despair.json](./26724-beyond-despair.json) |
