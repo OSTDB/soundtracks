@@ -352,6 +352,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance with the Devil | 181766 | [181766-dance-with-the-devil.json](./181766-dance-with-the-devil.json) |
 | Dance With Zombies | 127319 | [127319-dance-with-zombies.json](./127319-dance-with-zombies.json) |
 | Dance: UK | 95455 | [95455-dance-uk.json](./95455-dance-uk.json) |
+| Dance: UK eXtra TraX | 62840 | [62840-dance-uk-extra-trax.json](./62840-dance-uk-extra-trax.json) |
+| Dance: UK XL Party | 62838 | [62838-dance-uk-xl-party.json](./62838-dance-uk-xl-party.json) |
 | Dance! Dance! Dance! | 132806 | [132806-dance-dance-dance.json](./132806-dance-dance-dance.json) |
 | Dance! Dance! Dance! | 339794 | [339794-dance-dance-dance.json](./339794-dance-dance-dance.json) |
 | Dance! It's Your Stage | 209000 | [209000-dance-its-your-stage.json](./209000-dance-its-your-stage.json) |
@@ -384,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Stage EuroMix 2 | 144894 | [144894-dancing-stage-euromix-2.json](./144894-dancing-stage-euromix-2.json) |
 | Dancing Stage featuring Dreams Come True | 69572 | [69572-dancing-stage-featuring-dreams-come-true.json](./69572-dancing-stage-featuring-dreams-come-true.json) |
 | Dancing Stage featuring True Kiss Destination | 132805 | [132805-dancing-stage-featuring-true-kiss-destination.json](./132805-dancing-stage-featuring-true-kiss-destination.json) |
+| Dancing Stage Max | 62839 | [62839-dancing-stage-max.json](./62839-dancing-stage-max.json) |
 | Dancing Stage MegaMix | 225750 | [225750-dancing-stage-megamix.json](./225750-dancing-stage-megamix.json) |
 | Dancing Stage Party Edition | 68981 | [68981-dancing-stage-party-edition.json](./68981-dancing-stage-party-edition.json) |
 | Dancing Stage Universe | 6956 | [6956-dancing-stage-universe.json](./6956-dancing-stage-universe.json) |
@@ -650,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Engines | 398416 | [398416-dark-engines.json](./398416-dark-engines.json) |
 | Dark Era | 311596 | [311596-dark-era.json](./311596-dark-era.json) |
 | Dark Escape | 222868 | [222868-dark-escape.json](./222868-dark-escape.json) |
+| Dark Escape 4D | 62800 | [62800-dark-escape-4d.json](./62800-dark-escape-4d.json) |
 | Dark Eyed Angels | 260222 | [260222-dark-eyed-angels.json](./260222-dark-eyed-angels.json) |
 | Dark Eyes | 145629 | [145629-dark-eyes.json](./145629-dark-eyes.json) |
 | Dark Eyes: Millennium 2000 | 145632 | [145632-dark-eyes-millennium-2000.json](./145632-dark-eyes-millennium-2000.json) |
@@ -1140,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dave the Diver: Potion Craft | 314279 | [314279-dave-the-diver-potion-craft.json](./314279-dave-the-diver-potion-craft.json) |
 | Dave Winfield's Batter Up! | 111897 | [111897-dave-winfields-batter-up.json](./111897-dave-winfields-batter-up.json) |
 | Dave-Man | 126517 | [126517-dave-man.json](./126517-dave-man.json) |
+| Davey Jones TD | 62810 | [62810-davey-jones-td.json](./62810-davey-jones-td.json) |
 | David & Keithan: The Haunted Lighthouse | 310579 | [310579-david-and-keithan-the-haunted-lighthouse.json](./310579-david-and-keithan-the-haunted-lighthouse.json) |
 | David Douillet Judo | 57609 | [57609-david-douillet-judo.json](./57609-david-douillet-judo.json) |
 | David Leadbetter's Greens | 71545 | [71545-david-leadbetters-greens.json](./71545-david-leadbetters-greens.json) |
@@ -5814,6 +5819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dealers | 403675 | [403675-double-dealers.json](./403675-double-dealers.json) |
 | Double Death | 33426 | [33426-double-death.json](./33426-double-death.json) |
 | Double Dodgers | 133820 | [133820-double-dodgers.json](./133820-double-dodgers.json) |
+| Double Doodle | 62797 | [62797-double-doodle.json](./62797-double-doodle.json) |
 | Double Down | 368149 | [368149-double-down.json](./368149-double-down.json) |
 | Double Dragon | 175799 | [175799-double-dragon.json](./175799-double-dragon.json) |
 | Double Dragon | 200154 | [200154-double-dragon.json](./200154-double-dragon.json) |
@@ -8238,6 +8244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dysarmia | 304896 | [304896-dysarmia.json](./304896-dysarmia.json) |
 | Dyschronia: Chronos Alternate - Dual Edition | 273637 | [273637-dyschronia-chronos-alternate-dual-edition.json](./273637-dyschronia-chronos-alternate-dual-edition.json) |
 | Dyscourse | 16504 | [16504-dyscourse.json](./16504-dyscourse.json) |
+| Dysis | 62817 | [62817-dysis.json](./62817-dysis.json) |
 | Dysmantle | 113998 | [113998-dysmantle.json](./113998-dysmantle.json) |
 | Dysmantle: Doomsday | 240771 | [240771-dysmantle-doomsday.json](./240771-dysmantle-doomsday.json) |
 | Dysmantle: Underworld | 207258 | [207258-dysmantle-underworld.json](./207258-dysmantle-underworld.json) |
