@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capital Simulator | 148483 | [148483-capital-simulator.json](./148483-capital-simulator.json) |
 | Capitalism II | 921 | [921-capitalism-ii.json](./921-capitalism-ii.json) |
 | Capitalist Misadventures | 358290 | [358290-capitalist-misadventures.json](./358290-capitalist-misadventures.json) |
+| Capitals | 60074 | [60074-capitals.json](./60074-capitals.json) |
 | Capitals Quizzer: Countries Mode | 257440 | [257440-capitals-quizzer-countries-mode.json](./257440-capitals-quizzer-countries-mode.json) |
 | Capitals Quizzer: Currency Mode | 257461 | [257461-capitals-quizzer-currency-mode.json](./257461-capitals-quizzer-currency-mode.json) |
 | Capitals Quizzer: Globe Mode | 296525 | [296525-capitals-quizzer-globe-mode.json](./296525-capitals-quizzer-globe-mode.json) |
@@ -2010,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavedude | 397940 | [397940-cavedude.json](./397940-cavedude.json) |
 | CaveFiction | 216789 | [216789-cavefiction.json](./216789-cavefiction.json) |
 | Cavegirl Adventures | 163992 | [163992-cavegirl-adventures.json](./163992-cavegirl-adventures.json) |
+| Cavehook | 59840 | [59840-cavehook.json](./59840-cavehook.json) |
 | CaveIn: Miner Rescue Team | 68639 | [68639-cavein-miner-rescue-team.json](./68639-cavein-miner-rescue-team.json) |
 | Cavelon | 40971 | [40971-cavelon.json](./40971-cavelon.json) |
 | Cavelon II | 74071 | [74071-cavelon-ii.json](./74071-cavelon-ii.json) |
@@ -2761,6 +2763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernaja Metka | 37048 | [37048-chernaja-metka.json](./37048-chernaja-metka.json) |
 | Chernobots | 373748 | [373748-chernobots.json](./373748-chernobots.json) |
 | Chernobyl | 228687 | [228687-chernobyl.json](./228687-chernobyl.json) |
+| Chernobyl | 59891 | [59891-chernobyl.json](./59891-chernobyl.json) |
 | Chernobyl 1986 | 120929 | [120929-chernobyl-1986.json](./120929-chernobyl-1986.json) |
 | Chernobyl Commando | 9796 | [9796-chernobyl-commando.json](./9796-chernobyl-commando.json) |
 | Chernobyl VR Project | 20092 | [20092-chernobyl-vr-project.json](./20092-chernobyl-vr-project.json) |
@@ -3965,6 +3968,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Robots | 169804 | [169804-city-of-robots.json](./169804-city-of-robots.json) |
 | City of Rott: Streets of Rott | 29766 | [29766-city-of-rott-streets-of-rott.json](./29766-city-of-rott-streets-of-rott.json) |
 | City of Scrap | 183575 | [183575-city-of-scrap.json](./183575-city-of-scrap.json) |
+| City of Secrets | 60065 | [60065-city-of-secrets.json](./60065-city-of-secrets.json) |
+| City of Secrets 2 | 60062 | [60062-city-of-secrets-2.json](./60062-city-of-secrets-2.json) |
 | City of Secrets 2: Episode 1 | 146872 | [146872-city-of-secrets-2-episode-1.json](./146872-city-of-secrets-2-episode-1.json) |
 | City of sky | 88013 | [88013-city-of-sky.json](./88013-city-of-sky.json) |
 | City of Steam | 63546 | [63546-city-of-steam.json](./63546-city-of-steam.json) |
@@ -4493,6 +4498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Chamber | 10096 | [10096-cloud-chamber.json](./10096-cloud-chamber.json) |
 | Cloud Chasers | 23657 | [23657-cloud-chasers.json](./23657-cloud-chasers.json) |
 | Cloud Climber | 142314 | [142314-cloud-climber.json](./142314-cloud-climber.json) |
+| Cloud Critters | 59906 | [59906-cloud-critters.json](./59906-cloud-critters.json) |
 | Cloud Escape | 183612 | [183612-cloud-escape.json](./183612-cloud-escape.json) |
 | Cloud Grove | 59934 | [59934-cloud-grove.json](./59934-cloud-grove.json) |
 | Cloud Heart | 211822 | [211822-cloud-heart.json](./211822-cloud-heart.json) |
@@ -5506,6 +5512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commie Block | 390246 | [390246-commie-block.json](./390246-commie-block.json) |
 | Commissar's Contrapasso | 126018 | [126018-commissars-contrapasso.json](./126018-commissars-contrapasso.json) |
 | Committed: Mystery at Shady Pines - Premium Edition | 417687 | [417687-committed-mystery-at-shady-pines-premium-edition.json](./417687-committed-mystery-at-shady-pines-premium-edition.json) |
+| Common Ground | 60070 | [60070-common-ground.json](./60070-common-ground.json) |
 | Common Hanzi Quiz: Simplified Chinese | 101360 | [101360-common-hanzi-quiz-simplified-chinese.json](./101360-common-hanzi-quiz-simplified-chinese.json) |
 | Common Loot | 400254 | [400254-common-loot.json](./400254-common-loot.json) |
 | Commonplace | 205594 | [205594-commonplace.json](./205594-commonplace.json) |
@@ -5640,6 +5647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ConcernedApe's Haunted Chocolatier | 178101 | [178101-concernedapes-haunted-chocolatier.json](./178101-concernedapes-haunted-chocolatier.json) |
 | Concert | 247542 | [247542-concert.json](./247542-concert.json) |
 | Concerto Gate | 94709 | [94709-concerto-gate.json](./94709-concerto-gate.json) |
+| Concerto Note | 60053 | [60053-concerto-note.json](./60053-concerto-note.json) |
 | Concerto on White: Cajon Story - Pykamia Music Pack Vol.1 | 388966 | [388966-concerto-on-white-cajon-story-pykamia-music-pack-vol-1.json](./388966-concerto-on-white-cajon-story-pykamia-music-pack-vol-1.json) |
 | Concerto on White: Cajon Story - Pykamia Music Pack Vol.2 | 388969 | [388969-concerto-on-white-cajon-story-pykamia-music-pack-vol-2.json](./388969-concerto-on-white-cajon-story-pykamia-music-pack-vol-2.json) |
 | Concerto on White: Cajon Story - Touhou Project Music Pack | 388970 | [388970-concerto-on-white-cajon-story-touhou-project-music-pack.json](./388970-concerto-on-white-cajon-story-touhou-project-music-pack.json) |
@@ -5773,6 +5781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquered Kingdoms | 69804 | [69804-conquered-kingdoms.json](./69804-conquered-kingdoms.json) |
 | Conquering Everest | 262399 | [262399-conquering-everest.json](./262399-conquering-everest.json) |
 | Conquering the Queen | 127965 | [127965-conquering-the-queen.json](./127965-conquering-the-queen.json) |
+| Conquering Worlds | 59903 | [59903-conquering-worlds.json](./59903-conquering-worlds.json) |
 | Conqueror 940 AD | 144985 | [144985-conqueror-940-ad.json](./144985-conqueror-940-ad.json) |
 | Conqueror's Blade: Battle Pass - Dragonrise | 297098 | [297098-conquerors-blade-battle-pass-dragonrise.json](./297098-conquerors-blade-battle-pass-dragonrise.json) |
 | Conqueror's Blade: Colosseum | 217526 | [217526-conquerors-blade-colosseum.json](./217526-conquerors-blade-colosseum.json) |
@@ -6381,6 +6390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Fantasy Collection | 269306 | [269306-cosmic-fantasy-collection.json](./269306-cosmic-fantasy-collection.json) |
 | Cosmic Fantasy: Bouken Shounen Yuu | 42005 | [42005-cosmic-fantasy-bouken-shounen-yuu.json](./42005-cosmic-fantasy-bouken-shounen-yuu.json) |
 | Cosmic Fear | 340029 | [340029-cosmic-fear.json](./340029-cosmic-fear.json) |
+| Cosmic Fire Birds | 60038 | [60038-cosmic-fire-birds.json](./60038-cosmic-fire-birds.json) |
 | Cosmic Gravity | 106755 | [106755-cosmic-gravity.json](./106755-cosmic-gravity.json) |
 | Cosmic Gunslinger: Alien Outlaws | 274572 | [274572-cosmic-gunslinger-alien-outlaws.json](./274572-cosmic-gunslinger-alien-outlaws.json) |
 | Cosmic High Schooler | 358510 | [358510-cosmic-high-schooler.json](./358510-cosmic-high-schooler.json) |
@@ -7146,6 +7156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Machines: Golden Gears | 16865 | [16865-crazy-machines-golden-gears.json](./16865-crazy-machines-golden-gears.json) |
 | Crazy Market | 62750 | [62750-crazy-market.json](./62750-crazy-market.json) |
 | Crazy Maze | 93750 | [93750-crazy-maze.json](./93750-crazy-maze.json) |
+| Crazy Mazey | 59902 | [59902-crazy-mazey.json](./59902-crazy-mazey.json) |
 | Crazy Miner | 299841 | [299841-crazy-miner.json](./299841-crazy-miner.json) |
 | Crazy Mob | 61603 | [61603-crazy-mob.json](./61603-crazy-mob.json) |
 | Crazy module | 284986 | [284986-crazy-module.json](./284986-crazy-module.json) |
