@@ -4636,6 +4636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood & Dungeon | 292545 | [292545-blood-and-dungeon.json](./292545-blood-and-dungeon.json) |
 | Blood & Glory: Immortals | 137572 | [137572-blood-and-glory-immortals.json](./137572-blood-and-glory-immortals.json) |
 | Blood & Gold: Caribbean! - The Zombiest Adventures | 124837 | [124837-blood-and-gold-caribbean-the-zombiest-adventures.json](./124837-blood-and-gold-caribbean-the-zombiest-adventures.json) |
+| Blood & Lace: A Gothic Novel | 69924 | [69924-blood-and-lace-a-gothic-novel.json](./69924-blood-and-lace-a-gothic-novel.json) |
 | Blood & Lust | 338256 | [338256-blood-and-lust.json](./338256-blood-and-lust.json) |
 | Blood Ancestors | 68712 | [68712-blood-ancestors.json](./68712-blood-ancestors.json) |
 | Blood Ancestors: Open Alpha | 100573 | [100573-blood-ancestors-open-alpha.json](./100573-blood-ancestors-open-alpha.json) |
@@ -7688,6 +7689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Business Empire Tycoon | 309489 | [309489-business-empire-tycoon.json](./309489-business-empire-tycoon.json) |
 | Business Empire: RichMan | 280220 | [280220-business-empire-richman.json](./280220-business-empire-richman.json) |
 | Business Magnate | 112754 | [112754-business-magnate.json](./112754-business-magnate.json) |
+| Business Man 2000 | 69933 | [69933-business-man-2000.json](./69933-business-man-2000.json) |
 | Business Management | 400853 | [400853-business-management.json](./400853-business-management.json) |
 | Business Ryoku Kentei DS | 70410 | [70410-business-ryoku-kentei-ds.json](./70410-business-ryoku-kentei-ds.json) |
 | Business Superstar Idle Tycoon | 262346 | [262346-business-superstar-idle-tycoon.json](./262346-business-superstar-idle-tycoon.json) |
