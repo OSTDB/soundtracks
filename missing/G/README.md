@@ -1120,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemology | 85167 | [85167-gemology.json](./85167-gemology.json) |
 | Gemporium | 330563 | [330563-gemporium.json](./330563-gemporium.json) |
 | Gems and Knight | 274450 | [274450-gems-and-knight.json](./274450-gems-and-knight.json) |
+| Gems Frontier | 98550 | [98550-gems-frontier.json](./98550-gems-frontier.json) |
 | Gems of Destiny: Magic Rescue | 416696 | [416696-gems-of-destiny-magic-rescue.json](./416696-gems-of-destiny-magic-rescue.json) |
 | Gems of Fate: the Charmed King | 133426 | [133426-gems-of-fate-the-charmed-king.json](./133426-gems-of-fate-the-charmed-king.json) |
 | Gems of Magic: Double Pack | 242051 | [242051-gems-of-magic-double-pack.json](./242051-gems-of-magic-double-pack.json) |
@@ -3187,6 +3188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graffiti Groovin' | 228465 | [228465-graffiti-groovin.json](./228465-graffiti-groovin.json) |
 | Graffiti Kingdom | 11358 | [11358-graffiti-kingdom.json](./11358-graffiti-kingdom.json) |
 | Graffiti Simulator | 326418 | [326418-graffiti-simulator.json](./326418-graffiti-simulator.json) |
+| Graffiti Smash | 98559 | [98559-graffiti-smash.json](./98559-graffiti-smash.json) |
 | GraFi | 117476 | [117476-grafi.json](./117476-grafi.json) |
 | GraFi 2 | 119013 | [119013-grafi-2.json](./119013-grafi-2.json) |
 | GraFi Christmas | 126556 | [126556-grafi-christmas.json](./126556-grafi-christmas.json) |
@@ -3797,6 +3799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grepr | 185556 | [185556-grepr.json](./185556-grepr.json) |
 | Greta Sees Ghosts! | 348348 | [348348-greta-sees-ghosts.json](./348348-greta-sees-ghosts.json) |
 | Gretel & Hansel | 383030 | [383030-gretel-and-hansel.json](./383030-gretel-and-hansel.json) |
+| Gretel & Hansel 2 | 98576 | [98576-gretel-and-hansel-2.json](./98576-gretel-and-hansel-2.json) |
 | Gretel: The Lost Tale | 323501 | [323501-gretel-the-lost-tale.json](./323501-gretel-the-lost-tale.json) |
 | Gretel's Honesty | 330894 | [330894-gretels-honesty.json](./330894-gretels-honesty.json) |
 | Gretzky NHL 2005 | 24162 | [24162-gretzky-nhl-2005.json](./24162-gretzky-nhl-2005.json) |
@@ -4555,6 +4558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Breaker 4: Story Mission DLC 5 - Beyond Borders | 361235 | [361235-gundam-breaker-4-story-mission-dlc-5-beyond-borders.json](./361235-gundam-breaker-4-story-mission-dlc-5-beyond-borders.json) |
 | Gundam Conquest | 223958 | [223958-gundam-conquest.json](./223958-gundam-conquest.json) |
 | Gundam Fights for Human Rights | 183567 | [183567-gundam-fights-for-human-rights.json](./183567-gundam-fights-for-human-rights.json) |
+| Gundam Heroes | 98560 | [98560-gundam-heroes.json](./98560-gundam-heroes.json) |
 | Gundam Online Wars | 79279 | [79279-gundam-online-wars.json](./79279-gundam-online-wars.json) |
 | Gundam Robot | 47534 | [47534-gundam-robot.json](./47534-gundam-robot.json) |
 | Gundam Spirits | 226760 | [226760-gundam-spirits.json](./226760-gundam-spirits.json) |
