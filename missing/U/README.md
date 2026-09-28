@@ -17,7 +17,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U-jin: Janjuu Gakuen 2 | 37752 | [37752-u-jin-janjuu-gakuen-2.json](./37752-u-jin-janjuu-gakuen-2.json) |
 | U-Ropa | 89214 | [89214-u-ropa.json](./89214-u-ropa.json) |
 | U-Sing | 50600 | [50600-u-sing.json](./50600-u-sing.json) |
+| U-Sing 2 | 83635 | [83635-u-sing-2.json](./83635-u-sing-2.json) |
 | U-Sing 2: Australian Edition | 268431 | [268431-u-sing-2-australian-edition.json](./268431-u-sing-2-australian-edition.json) |
+| U-Sing: Girls Night | 83639 | [83639-u-sing-girls-night.json](./83639-u-sing-girls-night.json) |
+| U-Sing: Johnny Hallyday | 83638 | [83638-u-sing-johnny-hallyday.json](./83638-u-sing-johnny-hallyday.json) |
 | U.A.S | 323196 | [323196-u-a-s.json](./323196-u-a-s.json) |
 | U.F.O: Unfortunately Fortunate Organisms | 29630 | [29630-u-f-o-unfortunately-fortunate-organisms.json](./29630-u-f-o-unfortunately-fortunate-organisms.json) |
 | U.F.O. K.O. Tower Defense | 152907 | [152907-u-f-o-k-o-tower-defense.json](./152907-u-f-o-k-o-tower-defense.json) |
