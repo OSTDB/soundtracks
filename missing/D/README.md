@@ -4352,6 +4352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Hercules Action Game | 9814 | [9814-disneys-hercules-action-game.json](./9814-disneys-hercules-action-game.json) |
 | Disney's Hercules: Animated Storybook | 139313 | [139313-disneys-hercules-animated-storybook.json](./139313-disneys-hercules-animated-storybook.json) |
 | Disney's Hot Shots: Timon and Pumbaa's Jungle Pinball | 109480 | [109480-disneys-hot-shots-timon-and-pumbaas-jungle-pinball.json](./109480-disneys-hot-shots-timon-and-pumbaas-jungle-pinball.json) |
+| Disney's Lilo & Stitch: Hawaiian Adventure | 98558 | [98558-disneys-lilo-and-stitch-hawaiian-adventure.json](./98558-disneys-lilo-and-stitch-hawaiian-adventure.json) |
 | Disney's Magic Artist Studio | 51281 | [51281-disneys-magic-artist-studio.json](./51281-disneys-magic-artist-studio.json) |
 | Disney's Magical Quest 2 Starring Mickey & Minnie | 188634 | [188634-disneys-magical-quest-2-starring-mickey-and-minnie.json](./188634-disneys-magical-quest-2-starring-mickey-and-minnie.json) |
 | Disney's Mahjongg | 142431 | [142431-disneys-mahjongg.json](./142431-disneys-mahjongg.json) |
