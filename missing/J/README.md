@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jellitito | 340770 | [340770-jellitito.json](./340770-jellitito.json) |
 | Jelly Allstars | 64134 | [64134-jelly-allstars.json](./64134-jelly-allstars.json) |
 | Jelly Battle | 237305 | [237305-jelly-battle.json](./237305-jelly-battle.json) |
+| Jelly Blocks | 117165 | [117165-jelly-blocks.json](./117165-jelly-blocks.json) |
 | Jelly Boy | 365693 | [365693-jelly-boy.json](./365693-jelly-boy.json) |
 | Jelly Boy 2 | 38364 | [38364-jelly-boy-2.json](./38364-jelly-boy-2.json) |
 | Jelly Bubble | 359055 | [359055-jelly-bubble.json](./359055-jelly-bubble.json) |
@@ -1189,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joyville 2 | 305751 | [305751-joyville-2.json](./305751-joyville-2.json) |
 | JPDE: Sonata of Fire | 178042 | [178042-jpde-sonata-of-fire.json](./178042-jpde-sonata-of-fire.json) |
 | JQ: chemistry | 96633 | [96633-jq-chemistry.json](./96633-jq-chemistry.json) |
+| JQ: cosmos | 117116 | [117116-jq-cosmos.json](./117116-jq-cosmos.json) |
 | JR East Train Simulator | 215093 | [215093-jr-east-train-simulator.json](./215093-jr-east-train-simulator.json) |
 | JR EAST Train Simulator: Keiyo Line (Soga to Tokyo) E233-5000 Series | 254786 | [254786-jr-east-train-simulator-keiyo-line-soga-to-tokyo-e233-5000-series.json](./254786-jr-east-train-simulator-keiyo-line-soga-to-tokyo-e233-5000-series.json) |
 | JR East Train Simulator: Koumi Line (Kobuchizawa to Komoro) Kiha E200 series | 289465 | [289465-jr-east-train-simulator-koumi-line-kobuchizawa-to-komoro-kiha-e200-series.json](./289465-jr-east-train-simulator-koumi-line-kobuchizawa-to-komoro-kiha-e200-series.json) |
