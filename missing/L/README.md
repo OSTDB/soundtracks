@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of Galleria: The Moon Society - Great Hat Quest | 232467 | [232467-labyrinth-of-galleria-the-moon-society-great-hat-quest.json](./232467-labyrinth-of-galleria-the-moon-society-great-hat-quest.json) |
 | Labyrinth of Light | 236796 | [236796-labyrinth-of-light.json](./236796-labyrinth-of-light.json) |
 | Labyrinth of Rage | 262966 | [262966-labyrinth-of-rage.json](./262966-labyrinth-of-rage.json) |
+| Labyrinth of the Witch | 118268 | [118268-labyrinth-of-the-witch.json](./118268-labyrinth-of-the-witch.json) |
 | Labyrinth of the Witch DX | 217538 | [217538-labyrinth-of-the-witch-dx.json](./217538-labyrinth-of-the-witch-dx.json) |
 | Labyrinth of Touhou | 63855 | [63855-labyrinth-of-touhou.json](./63855-labyrinth-of-touhou.json) |
 | Labyrinth of Touhou 2 | 63005 | [63005-labyrinth-of-touhou-2.json](./63005-labyrinth-of-touhou-2.json) |
@@ -3121,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Star | 131618 | [131618-long-star.json](./131618-long-star.json) |
 | Long Time No See | 143477 | [143477-long-time-no-see.json](./143477-long-time-no-see.json) |
 | Long Yard Run | 311052 | [311052-long-yard-run.json](./311052-long-yard-run.json) |
+| Long Z-Night | 118446 | [118446-long-z-night.json](./118446-long-z-night.json) |
 | Lóng zhī Gǔ: Huáijiù Fú | 398574 | [398574-long-zhi-gu-huaijiu-fu.json](./398574-long-zhi-gu-huaijiu-fu.json) |
 | Longboard Stunts and Tricks | 99618 | [99618-longboard-stunts-and-tricks.json](./99618-longboard-stunts-and-tricks.json) |
 | Longbow Anthology | 70358 | [70358-longbow-anthology.json](./70358-longbow-anthology.json) |
