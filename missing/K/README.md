@@ -838,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Key: Maze of Illusions | 191545 | [191545-key-maze-of-illusions.json](./191545-key-maze-of-illusions.json) |
 | Keyboard Creations! | 41569 | [41569-keyboard-creations.json](./41569-keyboard-creations.json) |
 | Keyboard Crush | 320983 | [320983-keyboard-crush.json](./320983-keyboard-crush.json) |
+| KeyBoard Guitar Master | 95594 | [95594-keyboard-guitar-master.json](./95594-keyboard-guitar-master.json) |
 | Keyboard Kommander | 125418 | [125418-keyboard-kommander.json](./125418-keyboard-kommander.json) |
 | Keyboard Party | 363036 | [363036-keyboard-party.json](./363036-keyboard-party.json) |
 | Keyboard Simulator | 360575 | [360575-keyboard-simulator.json](./360575-keyboard-simulator.json) |
@@ -1105,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Aces Volleyball | 352226 | [352226-killer-aces-volleyball.json](./352226-killer-aces-volleyball.json) |
 | Killer and Strawberry Plus | 172750 | [172750-killer-and-strawberry-plus.json](./172750-killer-and-strawberry-plus.json) |
 | Killer Auto | 134417 | [134417-killer-auto.json](./134417-killer-auto.json) |
+| Killer Backflip 5 | 95599 | [95599-killer-backflip-5.json](./95599-killer-backflip-5.json) |
 | Killer Backflip 999 | 103474 | [103474-killer-backflip-999.json](./103474-killer-backflip-999.json) |
 | Killer Bean Unleashed | 262652 | [262652-killer-bean-unleashed.json](./262652-killer-bean-unleashed.json) |
 | Killer Dog | 135814 | [135814-killer-dog.json](./135814-killer-dog.json) |
