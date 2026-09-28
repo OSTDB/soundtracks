@@ -1109,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malice & Greed | 143568 | [143568-malice-and-greed.json](./143568-malice-and-greed.json) |
 | MaliceWave | 274768 | [274768-malicewave.json](./274768-malicewave.json) |
 | Malicious | 26582 | [26582-malicious.json](./26582-malicious.json) |
+| Malicious Payload | 114509 | [114509-malicious-payload.json](./114509-malicious-payload.json) |
 | Maliki: Poison Of The Past | 292846 | [292846-maliki-poison-of-the-past.json](./292846-maliki-poison-of-the-past.json) |
 | Malin Kundang: an Indonesian Folklore | 330546 | [330546-malin-kundang-an-indonesian-folklore.json](./330546-malin-kundang-an-indonesian-folklore.json) |
 | Maline | 342141 | [342141-maline.json](./342141-maline.json) |
@@ -7631,6 +7632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Bean: Around the World | 112140 | [112140-mr-bean-around-the-world.json](./112140-mr-bean-around-the-world.json) |
 | Mr Bean: Flying Teddy | 112139 | [112139-mr-bean-flying-teddy.json](./112139-mr-bean-flying-teddy.json) |
 | Mr Blaster | 41942 | [41942-mr-blaster.json](./41942-mr-blaster.json) |
+| Mr Boom's Firework Factory | 114504 | [114504-mr-booms-firework-factory.json](./114504-mr-booms-firework-factory.json) |
 | Mr Burt | 102824 | [102824-mr-burt.json](./102824-mr-burt.json) |
 | Mr Chin | 409760 | [409760-mr-chin.json](./409760-mr-chin.json) |
 | Mr Crab | 57146 | [57146-mr-crab.json](./57146-mr-crab.json) |
@@ -8003,6 +8005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder by Moonlight 2: Crimson Night | 193501 | [193501-murder-by-moonlight-2-crimson-night.json](./193501-murder-by-moonlight-2-crimson-night.json) |
 | Murder by Numbers | 123902 | [123902-murder-by-numbers.json](./123902-murder-by-numbers.json) |
 | Murder Castle | 405716 | [405716-murder-castle.json](./405716-murder-castle.json) |
+| Murder Detective: Jack the Ripper | 114535 | [114535-murder-detective-jack-the-ripper.json](./114535-murder-detective-jack-the-ripper.json) |
 | Murder Diaries | 153948 | [153948-murder-diaries.json](./153948-murder-diaries.json) |
 | Murder Diaries: Ankara | 88185 | [88185-murder-diaries-ankara.json](./88185-murder-diaries-ankara.json) |
 | Murder Hornets | 164967 | [164967-murder-hornets.json](./164967-murder-hornets.json) |
@@ -8294,6 +8297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Aquarium | 367972 | [367972-my-aquarium.json](./367972-my-aquarium.json) |
 | My Aquarium | 52598 | [52598-my-aquarium.json](./52598-my-aquarium.json) |
 | My Arcade | 371305 | [371305-my-arcade.json](./371305-my-arcade.json) |
+| My Arctic Farm 2018 | 114523 | [114523-my-arctic-farm-2018.json](./114523-my-arctic-farm-2018.json) |
 | My Array is Too Sacred to Be Useful!? | 194595 | [194595-my-array-is-too-sacred-to-be-useful.json](./194595-my-array-is-too-sacred-to-be-useful.json) |
 | My Assassin High School | 208284 | [208284-my-assassin-high-school.json](./208284-my-assassin-high-school.json) |
 | My Baby 3 & Friends | 48041 | [48041-my-baby-3-and-friends.json](./48041-my-baby-3-and-friends.json) |
