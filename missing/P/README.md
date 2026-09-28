@@ -1451,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawapuro Adventures | 396373 | [396373-pawapuro-adventures.json](./396373-pawapuro-adventures.json) |
 | Pawapuro Stadium | 63285 | [63285-pawapuro-stadium.json](./63285-pawapuro-stadium.json) |
 | Pawapuro-kun Pocket 12 | 229923 | [229923-pawapuro-kun-pocket-12.json](./229923-pawapuro-kun-pocket-12.json) |
+| Pawapuro-kun Pocket 4 | 79833 | [79833-pawapuro-kun-pocket-4.json](./79833-pawapuro-kun-pocket-4.json) |
 | Pawapuro-kun Pocket 6 | 237346 | [237346-pawapuro-kun-pocket-6.json](./237346-pawapuro-kun-pocket-6.json) |
 | Pawapuro-kun Pocket 7 | 237347 | [237347-pawapuro-kun-pocket-7.json](./237347-pawapuro-kun-pocket-7.json) |
 | Pawapuro-kun Pocket R | 152368 | [152368-pawapuro-kun-pocket-r.json](./152368-pawapuro-kun-pocket-r.json) |
@@ -2541,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Physics Balls | 101107 | [101107-physics-balls.json](./101107-physics-balls.json) |
 | Physics World | 158144 | [158144-physics-world.json](./158144-physics-world.json) |
 | Physics! Fun | 297236 | [297236-physics-fun.json](./297236-physics-fun.json) |
+| Physicus: Save the World with Science! | 79825 | [79825-physicus-save-the-world-with-science.json](./79825-physicus-save-the-world-with-science.json) |
 | Physint | 285050 | [285050-physint.json](./285050-physint.json) |
 | Physio Fun Balance Training | 84828 | [84828-physio-fun-balance-training.json](./84828-physio-fun-balance-training.json) |
 | Physiofun: Pelvic Floor Training | 84827 | [84827-physiofun-pelvic-floor-training.json](./84827-physiofun-pelvic-floor-training.json) |
@@ -4302,6 +4304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleonexia | 246119 | [246119-pleonexia.json](./246119-pleonexia.json) |
 | Plerbtonia | 320174 | [320174-plerbtonia.json](./320174-plerbtonia.json) |
 | Pleroma | 135687 | [135687-pleroma.json](./135687-pleroma.json) |
+| Pleurghburg: Dark Ages | 79805 | [79805-pleurghburg-dark-ages.json](./79805-pleurghburg-dark-ages.json) |
 | Plexar | 84322 | [84322-plexar.json](./84322-plexar.json) |
 | Plicplic | 261324 | [261324-plicplic.json](./261324-plicplic.json) |
 | Plinbo | 372560 | [372560-plinbo.json](./372560-plinbo.json) |
@@ -5711,6 +5714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power F1 | 93180 | [93180-power-f1.json](./93180-power-f1.json) |
 | Power Factory Featuring C+C Music Factory | 5420 | [5420-power-factory-featuring-c-c-music-factory.json](./5420-power-factory-featuring-c-c-music-factory.json) |
 | Power Fantasy | 258465 | [258465-power-fantasy.json](./258465-power-fantasy.json) |
+| Power Fighters | 79832 | [79832-power-fighters.json](./79832-power-fighters.json) |
 | Power For Young Inventors | 330363 | [330363-power-for-young-inventors.json](./330363-power-for-young-inventors.json) |
 | Power Gig: Rise of the SixString | 7135 | [7135-power-gig-rise-of-the-sixstring.json](./7135-power-gig-rise-of-the-sixstring.json) |
 | Power Grounds | 197774 | [197774-power-grounds.json](./197774-power-grounds.json) |
