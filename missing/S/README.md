@@ -3801,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinseiki Evangelion: Typing E-Keikaku | 61671 | [61671-shinseiki-evangelion-typing-e-keikaku.json](./61671-shinseiki-evangelion-typing-e-keikaku.json) |
 | Shinseiki GPX Cyber Formula Sin Drei Plus | 112516 | [112516-shinseiki-gpx-cyber-formula-sin-drei-plus.json](./112516-shinseiki-gpx-cyber-formula-sin-drei-plus.json) |
 | Shinsen Renki | 163232 | [163232-shinsen-renki.json](./163232-shinsen-renki.json) |
+| Shinsen-den | 77406 | [77406-shinsen-den.json](./77406-shinsen-den.json) |
 | Shinsetsu Mahou Shoujo | 131589 | [131589-shinsetsu-mahou-shoujo.json](./131589-shinsetsu-mahou-shoujo.json) |
 | Shinsetsu Shiawase Usagi F: Yuujou Yori mo Aiyoku | 277859 | [277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json](./277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json) |
 | Shinshou Ikemen Ooku | 239014 | [239014-shinshou-ikemen-ooku.json](./239014-shinshou-ikemen-ooku.json) |
@@ -4145,6 +4146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shot Online: Golf Battle | 233119 | [233119-shot-online-golf-battle.json](./233119-shot-online-golf-battle.json) |
 | Shot Supreme | 253856 | [253856-shot-supreme.json](./253856-shot-supreme.json) |
 | Shot the Body | 126572 | [126572-shot-the-body.json](./126572-shot-the-body.json) |
+| Shot.io | 77424 | [77424-shot-io.json](./77424-shot-io.json) |
 | Shota Kare! | 242518 | [242518-shota-kare.json](./242518-shota-kare.json) |
 | Shotdogs | 210096 | [210096-shotdogs.json](./210096-shotdogs.json) |
 | Shotengai 10 | 287716 | [287716-shotengai-10.json](./287716-shotengai-10.json) |
@@ -4749,6 +4751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon the Sorcerer | 459 | [459-simon-the-sorcerer.json](./459-simon-the-sorcerer.json) |
 | Simon the Sorcerer 5: Who'd Even Want Contact?! | 463 | [463-simon-the-sorcerer-5-whod-even-want-contact.json](./463-simon-the-sorcerer-5-whod-even-want-contact.json) |
 | Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe | 460 | [460-simon-the-sorcerer-ii-the-lion-the-wizard-and-the-wardrobe.json](./460-simon-the-sorcerer-ii-the-lion-the-wizard-and-the-wardrobe.json) |
+| Simon the Sorcerer's Puzzle Pack | 77254 | [77254-simon-the-sorcerers-puzzle-pack.json](./77254-simon-the-sorcerers-puzzle-pack.json) |
 | Simon: The Memory Game | 227848 | [227848-simon-the-memory-game.json](./227848-simon-the-memory-game.json) |
 | Simon's Cat Dash | 87001 | [87001-simons-cat-dash.json](./87001-simons-cat-dash.json) |
 | Simon's Cat in Cat Chat | 200122 | [200122-simons-cat-in-cat-chat.json](./200122-simons-cat-in-cat-chat.json) |
@@ -6697,6 +6700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Battle Princess Sayuki | 191180 | [191180-snow-battle-princess-sayuki.json](./191180-snow-battle-princess-sayuki.json) |
 | Snow Beast Chess | 355203 | [355203-snow-beast-chess.json](./355203-snow-beast-chess.json) |
 | Snow Blocks 2 | 272929 | [272929-snow-blocks-2.json](./272929-snow-blocks-2.json) |
+| Snow Bound Land | 77419 | [77419-snow-bound-land.json](./77419-snow-bound-land.json) |
 | Snow Break | 94210 | [94210-snow-break.json](./94210-snow-break.json) |
 | Snow Bros. 2: With New Elves | 39842 | [39842-snow-bros-2-with-new-elves.json](./39842-snow-bros-2-with-new-elves.json) |
 | Snow Bros. Classic | 345107 | [345107-snow-bros-classic.json](./345107-snow-bros-classic.json) |
@@ -8801,6 +8805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Treasure Hunters | 372489 | [372489-space-treasure-hunters.json](./372489-space-treasure-hunters.json) |
 | Space Treasure Hunters part 2 | 372491 | [372491-space-treasure-hunters-part-2.json](./372491-space-treasure-hunters-part-2.json) |
 | Space Treat Deluxe | 40752 | [40752-space-treat-deluxe.json](./40752-space-treat-deluxe.json) |
+| Space Trek | 77243 | [77243-space-trek.json](./77243-space-trek.json) |
 | Space Trouble | 47542 | [47542-space-trouble.json](./47542-space-trouble.json) |
 | Space Trucker | 212234 | [212234-space-trucker.json](./212234-space-trucker.json) |
 | Space Turbo | 201008 | [201008-space-turbo.json](./201008-space-turbo.json) |
@@ -9069,6 +9074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Force 2: Tale of the Truthful Pledge | 78634 | [78634-special-force-2-tale-of-the-truthful-pledge.json](./78634-special-force-2-tale-of-the-truthful-pledge.json) |
 | Special Force VR | 50535 | [50535-special-force-vr.json](./50535-special-force-vr.json) |
 | Special Force VR: Infinity War | 116492 | [116492-special-force-vr-infinity-war.json](./116492-special-force-vr-infinity-war.json) |
+| Special Forces | 77269 | [77269-special-forces.json](./77269-special-forces.json) |
 | Special Forces Group 3 | 245043 | [245043-special-forces-group-3.json](./245043-special-forces-group-3.json) |
 | Special Forces Pack | 100208 | [100208-special-forces-pack.json](./100208-special-forces-pack.json) |
 | Special Forces Strike: Tactical Swat Shooter | 290426 | [290426-special-forces-strike-tactical-swat-shooter.json](./290426-special-forces-strike-tactical-swat-shooter.json) |
