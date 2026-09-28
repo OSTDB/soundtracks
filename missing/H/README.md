@@ -5060,6 +5060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunsvotti | 392167 | [392167-hunsvotti.json](./392167-hunsvotti.json) |
 | Hunt | 147908 | [147908-hunt.json](./147908-hunt.json) |
 | Hunt | 95447 | [95447-hunt.json](./95447-hunt.json) |
+| Hunt 'n Sneak | 111193 | [111193-hunt-n-sneak.json](./111193-hunt-n-sneak.json) |
 | Hunt and Fight | 291223 | [291223-hunt-and-fight.json](./291223-hunt-and-fight.json) |
 | Hunt Arena: Fire Battle Royale | 260710 | [260710-hunt-arena-fire-battle-royale.json](./260710-hunt-arena-fire-battle-royale.json) |
 | Hunt Asylum Together | 406702 | [406702-hunt-asylum-together.json](./406702-hunt-asylum-together.json) |
