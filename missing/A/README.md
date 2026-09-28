@@ -2973,6 +2973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AltLife | 331148 | [331148-altlife.json](./331148-altlife.json) |
 | Alto | 403811 | [403811-alto.json](./403811-alto.json) |
 | Alto Trek | 232414 | [232414-alto-trek.json](./232414-alto-trek.json) |
+| Alto: Ingyaku Meikyu no Himemiko | 98030 | [98030-alto-ingyaku-meikyu-no-himemiko.json](./98030-alto-ingyaku-meikyu-no-himemiko.json) |
 | Alto's Adventure | 18130 | [18130-altos-adventure.json](./18130-altos-adventure.json) |
 | Alto's Odyssey | 26428 | [26428-altos-odyssey.json](./26428-altos-odyssey.json) |
 | Altruism | 147451 | [147451-altruism.json](./147451-altruism.json) |
@@ -7353,6 +7354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aztec Tower | 114332 | [114332-aztec-tower.json](./114332-aztec-tower.json) |
 | Aztlán Codex: El códice de los ancestros | 304684 | [304684-aztlan-codex-el-codice-de-los-ancestros.json](./304684-aztlan-codex-el-codice-de-los-ancestros.json) |
 | Aztlan Uncovered | 201308 | [201308-aztlan-uncovered.json](./201308-aztlan-uncovered.json) |
+| Azu Quiz Daioh | 98059 | [98059-azu-quiz-daioh.json](./98059-azu-quiz-daioh.json) |
 | Azu-Beach | 140485 | [140485-azu-beach.json](./140485-azu-beach.json) |
 | AzuFight: Taisen Shiyo | 222541 | [222541-azufight-taisen-shiyo.json](./222541-azufight-taisen-shiyo.json) |
 | Azul Baronis | 331992 | [331992-azul-baronis.json](./331992-azul-baronis.json) |
