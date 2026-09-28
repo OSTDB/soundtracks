@@ -3405,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromahertz | 211739 | [211739-chromahertz.json](./211739-chromahertz.json) |
 | Chromancer | 63008 | [63008-chromancer.json](./63008-chromancer.json) |
 | Chromarena | 188666 | [188666-chromarena.json](./188666-chromarena.json) |
+| ChromaSquares | 107427 | [107427-chromasquares.json](./107427-chromasquares.json) |
 | Chromata | 256308 | [256308-chromata.json](./256308-chromata.json) |
 | Chromatic | 200719 | [200719-chromatic.json](./200719-chromatic.json) |
 | Chromatic Aberration | 113843 | [113843-chromatic-aberration.json](./113843-chromatic-aberration.json) |
@@ -3929,6 +3930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civil War II | 17527 | [17527-civil-war-ii.json](./17527-civil-war-ii.json) |
 | Civil War II: The Bloody Road South | 172111 | [172111-civil-war-ii-the-bloody-road-south.json](./172111-civil-war-ii-the-bloody-road-south.json) |
 | Civil War Strategy | 271790 | [271790-civil-war-strategy.json](./271790-civil-war-strategy.json) |
+| Civil War: 1863 Gold | 107390 | [107390-civil-war-1863-gold.json](./107390-civil-war-1863-gold.json) |
 | Civil War: 1865 | 28795 | [28795-civil-war-1865.json](./28795-civil-war-1865.json) |
 | Civil War: Bull Run 1861 | 51549 | [51549-civil-war-bull-run-1861.json](./51549-civil-war-bull-run-1861.json) |
 | Civil War: Gettysburg | 55501 | [55501-civil-war-gettysburg.json](./55501-civil-war-gettysburg.json) |
@@ -4896,6 +4898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color by Numbers - Christmas | 111174 | [111174-color-by-numbers-christmas.json](./111174-color-by-numbers-christmas.json) |
 | Color by Numbers - Christmas + | 87178 | [87178-color-by-numbers-christmas.json](./87178-color-by-numbers-christmas.json) |
 | Color by Numbers - Halloween + | 100009 | [100009-color-by-numbers-halloween.json](./100009-color-by-numbers-halloween.json) |
+| Color Cannons+ | 107383 | [107383-color-cannons.json](./107383-color-cannons.json) |
 | Color Chain | 111488 | [111488-color-chain.json](./111488-color-chain.json) |
 | Color Cingdom | 334788 | [334788-color-cingdom.json](./334788-color-cingdom.json) |
 | Color Clash | 93980 | [93980-color-clash.json](./93980-color-clash.json) |
