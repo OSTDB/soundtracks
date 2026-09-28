@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackplot | 346774 | [346774-jackplot.json](./346774-jackplot.json) |
 | Jackpoison | 361689 | [361689-jackpoison.json](./361689-jackpoison.json) |
 | Jackpot | 246954 | [246954-jackpot.json](./246954-jackpot.json) |
+| Jackpot | 84321 | [84321-jackpot.json](./84321-jackpot.json) |
 | Jackpot 777 | 85201 | [85201-jackpot-777.json](./85201-jackpot-777.json) |
 | Jackpot Crash Course | 374296 | [374296-jackpot-crash-course.json](./374296-jackpot-crash-course.json) |
 | Jackpot Slots | 323151 | [323151-jackpot-slots.json](./323151-jackpot-slots.json) |
@@ -559,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jets'n'Guns Gold | 30372 | [30372-jetsnguns-gold.json](./30372-jetsnguns-gold.json) |
 | Jets'n'Guns: Complete Collection | 284484 | [284484-jetsnguns-complete-collection.json](./284484-jetsnguns-complete-collection.json) |
 | Jetscout: Mystery of Valunians | 174211 | [174211-jetscout-mystery-of-valunians.json](./174211-jetscout-mystery-of-valunians.json) |
+| Jetset | 84327 | [84327-jetset.json](./84327-jetset.json) |
 | Jetstrike | 37108 | [37108-jetstrike.json](./37108-jetstrike.json) |
 | Jett Rider | 260657 | [260657-jett-rider.json](./260657-jett-rider.json) |
 | Jett Rider Mini H.E.R.O. | 398965 | [398965-jett-rider-mini-h-e-r-o.json](./398965-jett-rider-mini-h-e-r-o.json) |
