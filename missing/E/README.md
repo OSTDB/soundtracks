@@ -1044,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eliminato | 102826 | [102826-eliminato.json](./102826-eliminato.json) |
 | Eliminator | 12063 | [12063-eliminator.json](./12063-eliminator.json) |
 | Eliminator | 354648 | [354648-eliminator.json](./354648-eliminator.json) |
+| Eliminator | 81465 | [81465-eliminator.json](./81465-eliminator.json) |
 | Elios VR | 171922 | [171922-elios-vr.json](./171922-elios-vr.json) |
 | Eliosi's Hunt | 32277 | [32277-eliosis-hunt.json](./32277-eliosis-hunt.json) |
 | EliosM: Red Battlefield | 174802 | [174802-eliosm-red-battlefield.json](./174802-eliosm-red-battlefield.json) |
