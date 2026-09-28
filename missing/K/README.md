@@ -1289,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Bugs | 348317 | [348317-king-of-bugs.json](./348317-king-of-bugs.json) |
 | King of Conquerors | 211175 | [211175-king-of-conquerors.json](./211175-king-of-conquerors.json) |
 | King of Cooking | 151158 | [151158-king-of-cooking.json](./151158-king-of-cooking.json) |
+| King of Dead | 106735 | [106735-king-of-dead.json](./106735-king-of-dead.json) |
 | King of Defense 2: Epic TD | 227512 | [227512-king-of-defense-2-epic-td.json](./227512-king-of-defense-2-epic-td.json) |
 | King of Defense: Merge TD | 239046 | [239046-king-of-defense-merge-td.json](./239046-king-of-defense-merge-td.json) |
 | King of Dirt | 29574 | [29574-king-of-dirt.json](./29574-king-of-dirt.json) |
