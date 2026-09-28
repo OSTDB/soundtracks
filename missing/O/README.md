@@ -1328,8 +1328,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oni Ama: Watashi ni Amaete, Onii-chan | 145052 | [145052-oni-ama-watashi-ni-amaete-onii-chan.json](./145052-oni-ama-watashi-ni-amaete-onii-chan.json) |
 | Oni Asobi | 151529 | [151529-oni-asobi.json](./151529-oni-asobi.json) |
 | Oni Fight | 335428 | [335428-oni-fight.json](./335428-oni-fight.json) |
+| Oni II: Innin Densetsu | 63371 | [63371-oni-ii-innin-densetsu.json](./63371-oni-ii-innin-densetsu.json) |
+| Oni III: Kuro no Hakaishin | 63372 | [63372-oni-iii-kuro-no-hakaishin.json](./63372-oni-iii-kuro-no-hakaishin.json) |
+| Oni IV: Kishin no Ketsuzoku | 63370 | [63370-oni-iv-kishin-no-ketsuzoku.json](./63370-oni-iv-kishin-no-ketsuzoku.json) |
 | Oni no Moribito | 355201 | [355201-oni-no-moribito.json](./355201-oni-no-moribito.json) |
 | Oni Oneesan | 253887 | [253887-oni-oneesan.json](./253887-oni-oneesan.json) |
+| Oni V: Innin no Tsugumono | 63369 | [63369-oni-v-innin-no-tsugumono.json](./63369-oni-v-innin-no-tsugumono.json) |
 | Oni: Road to be the Mightiest Oni | 194944 | [194944-oni-road-to-be-the-mightiest-oni.json](./194944-oni-road-to-be-the-mightiest-oni.json) |
 | Onigami | 184562 | [184562-onigami.json](./184562-onigami.json) |
 | Onigashima: Awakening | 406103 | [406103-onigashima-awakening.json](./406103-onigashima-awakening.json) |
