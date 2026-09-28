@@ -1534,6 +1534,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | URU: Complete Chronicles | 16202 | [16202-uru-complete-chronicles.json](./16202-uru-complete-chronicles.json) |
 | Ururun Quest: Koiyuuki | 203392 | [203392-ururun-quest-koiyuuki.json](./203392-ururun-quest-koiyuuki.json) |
 | Urusei Yatsura: Endless Summer | 72697 | [72697-urusei-yatsura-endless-summer.json](./72697-urusei-yatsura-endless-summer.json) |
+| Urusei Yatsura: Koi no Survival Party | 66194 | [66194-urusei-yatsura-koi-no-survival-party.json](./66194-urusei-yatsura-koi-no-survival-party.json) |
+| Urusei Yatsura: Miss Tomobiki wo Sagase! | 66195 | [66195-urusei-yatsura-miss-tomobiki-wo-sagase.json](./66195-urusei-yatsura-miss-tomobiki-wo-sagase.json) |
+| Urusei Yatsura: Stay With You | 66196 | [66196-urusei-yatsura-stay-with-you.json](./66196-urusei-yatsura-stay-with-you.json) |
 | Uruz: Return of the Er Kishi | 122162 | [122162-uruz-return-of-the-er-kishi.json](./122162-uruz-return-of-the-er-kishi.json) |
 | Us & Them | 17118 | [17118-us-and-them.json](./17118-us-and-them.json) |
 | US AAF Mustang | 39857 | [39857-us-aaf-mustang.json](./39857-us-aaf-mustang.json) |
