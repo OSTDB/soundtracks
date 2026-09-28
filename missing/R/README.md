@@ -1991,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflectron | 42048 | [42048-reflectron.json](./42048-reflectron.json) |
 | Reflex | 86345 | [86345-reflex.json](./86345-reflex.json) |
 | Reflex Master: Sight | 342729 | [342729-reflex-master-sight.json](./342729-reflex-master-sight.json) |
+| Reflex Strike - Reaction Time Counter | 101050 | [101050-reflex-strike-reaction-time-counter.json](./101050-reflex-strike-reaction-time-counter.json) |
 | Reflex Unit AR | 197758 | [197758-reflex-unit-ar.json](./197758-reflex-unit-ar.json) |
 | Reflex Unit: Strike Ops | 304653 | [304653-reflex-unit-strike-ops.json](./304653-reflex-unit-strike-ops.json) |
 | Reflexia Prototype ver. | 224749 | [224749-reflexia-prototype-ver.json](./224749-reflexia-prototype-ver.json) |
