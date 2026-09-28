@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeus Quest Remastered | 147435 | [147435-zeus-quest-remastered.json](./147435-zeus-quest-remastered.json) |
 | Zeus Quest Remastered | 32893 | [32893-zeus-quest-remastered.json](./32893-zeus-quest-remastered.json) |
 | Zeus vs Monsters: Math Game for Kids | 33492 | [33492-zeus-vs-monsters-math-game-for-kids.json](./33492-zeus-vs-monsters-math-game-for-kids.json) |
+| Zeus vs. Monsters | 87540 | [87540-zeus-vs-monsters.json](./87540-zeus-vs-monsters.json) |
 | Zeus: Master of Olympus | 958 | [958-zeus-master-of-olympus.json](./958-zeus-master-of-olympus.json) |
 | Zewels | 250433 | [250433-zewels.json](./250433-zewels.json) |
 | Zezenia Online | 32195 | [32195-zezenia-online.json](./32195-zezenia-online.json) |
@@ -577,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombeo and Vampireta | 399696 | [399696-zombeo-and-vampireta.json](./399696-zombeo-and-vampireta.json) |
 | Zombi Rockstar | 245844 | [245844-zombi-rockstar.json](./245844-zombi-rockstar.json) |
 | Zombidle | 70384 | [70384-zombidle.json](./70384-zombidle.json) |
+| Zombie 2018 | 87634 | [87634-zombie-2018.json](./87634-zombie-2018.json) |
 | Zombie Accountant | 66159 | [66159-zombie-accountant.json](./66159-zombie-accountant.json) |
 | Zombie Age | 220739 | [220739-zombie-age.json](./220739-zombie-age.json) |
 | Zombie Age 2 | 347872 | [347872-zombie-age-2.json](./347872-zombie-age-2.json) |
