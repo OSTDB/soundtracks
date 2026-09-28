@@ -1781,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Yeah! Pocket Inferno | 78672 | [78672-hell-yeah-pocket-inferno.json](./78672-hell-yeah-pocket-inferno.json) |
 | Hell Yeah! Virtual Rabbit: Missions | 174135 | [174135-hell-yeah-virtual-rabbit-missions.json](./174135-hell-yeah-virtual-rabbit-missions.json) |
 | Hell-o | 301963 | [301963-hell-o.json](./301963-hell-o.json) |
+| Hell, the Dungeon Again! | 96259 | [96259-hell-the-dungeon-again.json](./96259-hell-the-dungeon-again.json) |
 | Hell's Bell | 295861 | [295861-hells-bell.json](./295861-hells-bell.json) |
 | Hell's Cooking Joy | 339107 | [339107-hells-cooking-joy.json](./339107-hells-cooking-joy.json) |
 | Hell's Descent | 318764 | [318764-hells-descent.json](./318764-hells-descent.json) |
@@ -4763,6 +4764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Shooting Defence | 265151 | [265151-hover-shooting-defence.json](./265151-hover-shooting-defence.json) |
 | Hover Skate VR | 30167 | [30167-hover-skate-vr.json](./30167-hover-skate-vr.json) |
 | Hover Strike | 40812 | [40812-hover-strike.json](./40812-hover-strike.json) |
+| Hover X Souls | 96226 | [96226-hover-x-souls.json](./96226-hover-x-souls.json) |
 | Hoverbear | 296909 | [296909-hoverbear.json](./296909-hoverbear.json) |
 | Hoverboard Hero | 237381 | [237381-hoverboard-hero.json](./237381-hoverboard-hero.json) |
 | Hovercab Station | 262994 | [262994-hovercab-station.json](./262994-hovercab-station.json) |
