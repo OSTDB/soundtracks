@@ -1114,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waxworks: Curse of the Ancestors | 126548 | [126548-waxworks-curse-of-the-ancestors.json](./126548-waxworks-curse-of-the-ancestors.json) |
 | Way Back Home | 127742 | [127742-way-back-home.json](./127742-way-back-home.json) |
 | Way Down | 187511 | [187511-way-down.json](./187511-way-down.json) |
+| Way Home | 95624 | [95624-way-home.json](./95624-way-home.json) |
 | Way in the stars | 156593 | [156593-way-in-the-stars.json](./156593-way-in-the-stars.json) |
 | Way In The Stars: The Threat | 235721 | [235721-way-in-the-stars-the-threat.json](./235721-way-in-the-stars-the-threat.json) |
 | Way of Hero | 29722 | [29722-way-of-hero.json](./29722-way-of-hero.json) |
@@ -2070,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Win a Banana Hoard? | 328606 | [328606-who-wants-to-win-a-banana-hoard.json](./328606-who-wants-to-win-a-banana-hoard.json) |
 | Who's at the Door? | 347265 | [347265-whos-at-the-door.json](./347265-whos-at-the-door.json) |
 | Who's Fat Lou? | 205805 | [205805-whos-fat-lou.json](./205805-whos-fat-lou.json) |
+| Who's in the Box? | 95625 | [95625-whos-in-the-box.json](./95625-whos-in-the-box.json) |
 | Who's Next? | 293613 | [293613-whos-next.json](./293613-whos-next.json) |
 | Who's the Boss | 297803 | [297803-whos-the-boss.json](./297803-whos-the-boss.json) |
 | Who's the Celeb? | 233071 | [233071-whos-the-celeb.json](./233071-whos-the-celeb.json) |
