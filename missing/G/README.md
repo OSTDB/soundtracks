@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Civilizations IV: Warlords | 277002 | [277002-galactic-civilizations-iv-warlords.json](./277002-galactic-civilizations-iv-warlords.json) |
 | Galactic Command Echo Squad SE | 17156 | [17156-galactic-command-echo-squad-se.json](./17156-galactic-command-echo-squad-se.json) |
 | Galactic Commandos | 250014 | [250014-galactic-commandos.json](./250014-galactic-commandos.json) |
+| Galactic Conquest | 94918 | [94918-galactic-conquest.json](./94918-galactic-conquest.json) |
 | Galactic Core: The Lost Fleet | 30100 | [30100-galactic-core-the-lost-fleet.json](./30100-galactic-core-the-lost-fleet.json) |
 | Galactic Dating: Harem in Space Station | 292635 | [292635-galactic-dating-harem-in-space-station.json](./292635-galactic-dating-harem-in-space-station.json) |
 | Galactic Defender | 261338 | [261338-galactic-defender.json](./261338-galactic-defender.json) |
@@ -3860,6 +3861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Griddle | 373739 | [373739-griddle.json](./373739-griddle.json) |
 | Griddler | 242208 | [242208-griddler.json](./242208-griddler.json) |
 | Griddlers Plus | 227824 | [227824-griddlers-plus.json](./227824-griddlers-plus.json) |
+| Griddlers Victorian Picnic | 94878 | [94878-griddlers-victorian-picnic.json](./94878-griddlers-victorian-picnic.json) |
 | Griddy | 213318 | [213318-griddy.json](./213318-griddy.json) |
 | GridEnergy | 416665 | [416665-gridenergy.json](./416665-gridenergy.json) |
 | Gridfall | 373119 | [373119-gridfall.json](./373119-gridfall.json) |
