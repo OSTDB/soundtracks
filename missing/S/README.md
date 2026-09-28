@@ -4412,6 +4412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege Saga | 77633 | [77633-siege-saga.json](./77633-siege-saga.json) |
 | Siege Showdown | 270072 | [270072-siege-showdown.json](./270072-siege-showdown.json) |
 | Siegecraft TD | 39212 | [39212-siegecraft-td.json](./39212-siegecraft-td.json) |
+| SiegeVR | 90784 | [90784-siegevr.json](./90784-siegevr.json) |
 | Siegius | 319986 | [319986-siegius.json](./319986-siegius.json) |
 | Sienna | 51221 | [51221-sienna.json](./51221-sienna.json) |
 | Sierra Championship Boxing | 73238 | [73238-sierra-championship-boxing.json](./73238-sierra-championship-boxing.json) |
@@ -5563,6 +5564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyscraper | 125335 | [125335-skyscraper.json](./125335-skyscraper.json) |
 | Skyscraper | 267990 | [267990-skyscraper.json](./267990-skyscraper.json) |
 | Skyscraper | 9422 | [9422-skyscraper.json](./9422-skyscraper.json) |
+| Skyscraper Climb VR | 90824 | [90824-skyscraper-climb-vr.json](./90824-skyscraper-climb-vr.json) |
 | Skyscraper Jump | 199392 | [199392-skyscraper-jump.json](./199392-skyscraper-jump.json) |
 | Skyscraper Simulator | 9421 | [9421-skyscraper-simulator.json](./9421-skyscraper-simulator.json) |
 | SkyShard | 362918 | [362918-skyshard.json](./362918-skyshard.json) |
@@ -8411,6 +8413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Crisis | 167782 | [167782-space-crisis.json](./167782-space-crisis.json) |
 | Space Cruise | 114170 | [114170-space-cruise.json](./114170-space-cruise.json) |
 | Space Crusade: The Voyage Beyond | 73855 | [73855-space-crusade-the-voyage-beyond.json](./73855-space-crusade-the-voyage-beyond.json) |
+| Space Dance | 90818 | [90818-space-dance.json](./90818-space-dance.json) |
 | Space Danger: G.O.N. | 185599 | [185599-space-danger-g-o-n.json](./185599-space-danger-g-o-n.json) |
 | Space Dash: Earth Defender | 58769 | [58769-space-dash-earth-defender.json](./58769-space-dash-earth-defender.json) |
 | Space Dave! | 27526 | [27526-space-dave.json](./27526-space-dave.json) |
@@ -9168,6 +9171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedy 500 | 303110 | [303110-speedy-500.json](./303110-speedy-500.json) |
 | Speedy Biker Xtreme | 257366 | [257366-speedy-biker-xtreme.json](./257366-speedy-biker-xtreme.json) |
 | Speedy Golf | 174340 | [174340-speedy-golf.json](./174340-speedy-golf.json) |
+| Speedy Golf | 90843 | [90843-speedy-golf.json](./90843-speedy-golf.json) |
 | Speedy Gonzales | 8077 | [8077-speedy-gonzales.json](./8077-speedy-gonzales.json) |
 | Speedy Gonzales: Aztec Adventure | 49970 | [49970-speedy-gonzales-aztec-adventure.json](./49970-speedy-gonzales-aztec-adventure.json) |
 | Speedy Rush | 174908 | [174908-speedy-rush.json](./174908-speedy-rush.json) |
@@ -10766,6 +10770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbrew Station: Station Mascot 'Pip' Unit | 374090 | [374090-starbrew-station-station-mascot-pip-unit.json](./374090-starbrew-station-station-mascot-pip-unit.json) |
 | Starbrew Station: Symbiotic Sprout Unit | 374089 | [374089-starbrew-station-symbiotic-sprout-unit.json](./374089-starbrew-station-symbiotic-sprout-unit.json) |
 | Starbrew Station: The Galactic Tycoon Unit | 374092 | [374092-starbrew-station-the-galactic-tycoon-unit.json](./374092-starbrew-station-the-galactic-tycoon-unit.json) |
+| Starbucket | 90854 | [90854-starbucket.json](./90854-starbucket.json) |
 | Starbucks | 378167 | [378167-starbucks.json](./378167-starbucks.json) |
 | Starburst Fever Night | 390669 | [390669-starburst-fever-night.json](./390669-starburst-fever-night.json) |
 | Starbust | 181378 | [181378-starbust.json](./181378-starbust.json) |
@@ -11758,6 +11763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonks-9800: Stock Market Simulator | 167271 | [167271-stonks-9800-stock-market-simulator.json](./167271-stonks-9800-stock-market-simulator.json) |
 | Stop | 135700 | [135700-stop.json](./135700-stop.json) |
 | Stop and Go | 93567 | [93567-stop-and-go.json](./93567-stop-and-go.json) |
+| Stop and Go! HD | 90806 | [90806-stop-and-go-hd.json](./90806-stop-and-go-hd.json) |
 | Stop and Smell the Flowers | 399164 | [399164-stop-and-smell-the-flowers.json](./399164-stop-and-smell-the-flowers.json) |
 | Stop Burying Me Alive, Beautiful! | 270154 | [270154-stop-burying-me-alive-beautiful.json](./270154-stop-burying-me-alive-beautiful.json) |
 | Stop Online: Battle of Words | 34353 | [34353-stop-online-battle-of-words.json](./34353-stop-online-battle-of-words.json) |
@@ -13297,6 +13303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Chuck Norris Bros | 294428 | [294428-super-chuck-norris-bros.json](./294428-super-chuck-norris-bros.json) |
 | Super Chuckie Egg | 96709 | [96709-super-chuckie-egg.json](./96709-super-chuckie-egg.json) |
 | Super City | 399730 | [399730-super-city.json](./399730-super-city.json) |
+| Super City: Special Edition | 90808 | [90808-super-city-special-edition.json](./90808-super-city-special-edition.json) |
 | Super Citycon: City Builder | 232541 | [232541-super-citycon-city-builder.json](./232541-super-citycon-city-builder.json) |
 | Super Clash Crossover | 120413 | [120413-super-clash-crossover.json](./120413-super-clash-crossover.json) |
 | Super Climb Up | 123400 | [123400-super-climb-up.json](./123400-super-climb-up.json) |
