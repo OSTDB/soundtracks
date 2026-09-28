@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Wild | 152376 | [152376-tales-of-wild.json](./152376-tales-of-wild.json) |
 | Tales of Wind Online | 379438 | [379438-tales-of-wind-online.json](./379438-tales-of-wind-online.json) |
 | Tales of Wind: Radiant Rebirth | 334888 | [334888-tales-of-wind-radiant-rebirth.json](./334888-tales-of-wind-radiant-rebirth.json) |
+| Tales of Winds: Tomb of the Sol Empire | 74484 | [74484-tales-of-winds-tomb-of-the-sol-empire.json](./74484-tales-of-winds-tomb-of-the-sol-empire.json) |
 | Tales of Windy Land | 66046 | [66046-tales-of-windy-land.json](./66046-tales-of-windy-land.json) |
 | Tales of Xillia | 1212 | [1212-tales-of-xillia.json](./1212-tales-of-xillia.json) |
 | Tales of Xillia Remastered: Super Growth Support Herb Set | 375173 | [375173-tales-of-xillia-remastered-super-growth-support-herb-set.json](./375173-tales-of-xillia-remastered-super-growth-support-herb-set.json) |
@@ -1717,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of the Lizardmen 2 | 142487 | [142487-temple-of-the-lizardmen-2.json](./142487-temple-of-the-lizardmen-2.json) |
 | Temple of the Lost | 107410 | [107410-temple-of-the-lost.json](./107410-temple-of-the-lost.json) |
 | Temple of the Thousand-Faced Moon | 271312 | [271312-temple-of-the-thousand-faced-moon.json](./271312-temple-of-the-thousand-faced-moon.json) |
+| Temple Raid | 74503 | [74503-temple-raid.json](./74503-temple-raid.json) |
 | Temple Roll | 256231 | [256231-temple-roll.json](./256231-temple-roll.json) |
 | Temple Run 2 | 336388 | [336388-temple-run-2.json](./336388-temple-run-2.json) |
 | Temple Run: Oz | 63613 | [63613-temple-run-oz.json](./63613-temple-run-oz.json) |
@@ -2187,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris 2 + BomBliss | 78699 | [78699-tetris-2-bombliss.json](./78699-tetris-2-bombliss.json) |
 | Tetris 99: Big Block DLC | 133960 | [133960-tetris-99-big-block-dlc.json](./133960-tetris-99-big-block-dlc.json) |
 | Tetris Arcade in a Tin | 234079 | [234079-tetris-arcade-in-a-tin.json](./234079-tetris-arcade-in-a-tin.json) |
+| Tetris Battle Fusion | 74305 | [74305-tetris-battle-fusion.json](./74305-tetris-battle-fusion.json) |
 | Tetris Battle Gaiden | 38371 | [38371-tetris-battle-gaiden.json](./38371-tetris-battle-gaiden.json) |
 | Tetris Block Puzzle | 309098 | [309098-tetris-block-puzzle.json](./309098-tetris-block-puzzle.json) |
 | Tetris City | 330701 | [330701-tetris-city.json](./330701-tetris-city.json) |
@@ -5057,6 +5060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Keyboard | 264029 | [264029-the-keyboard.json](./264029-the-keyboard.json) |
 | The Kharzov Effect | 322134 | [322134-the-kharzov-effect.json](./322134-the-kharzov-effect.json) |
 | The Kill Zone | 235827 | [235827-the-kill-zone.json](./235827-the-kill-zone.json) |
+| The Killbox: Arena Combat | 74293 | [74293-the-killbox-arena-combat.json](./74293-the-killbox-arena-combat.json) |
 | The Killbox: Arena Combat US | 86976 | [86976-the-killbox-arena-combat-us.json](./86976-the-killbox-arena-combat-us.json) |
 | The Kindeman Remedy | 244499 | [244499-the-kindeman-remedy.json](./244499-the-kindeman-remedy.json) |
 | The King & I: Coming Out of Your Shell | 141824 | [141824-the-king-and-i-coming-out-of-your-shell.json](./141824-the-king-and-i-coming-out-of-your-shell.json) |
@@ -11592,6 +11596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Reliable Delivery Service: Atari Attire | 381600 | [381600-totally-reliable-delivery-service-atari-attire.json](./381600-totally-reliable-delivery-service-atari-attire.json) |
 | Totally Reliable Delivery Service: Deluxe Edition | 192292 | [192292-totally-reliable-delivery-service-deluxe-edition.json](./192292-totally-reliable-delivery-service-deluxe-edition.json) |
 | Totally Reliable Delivery Service: Dress Code | 308576 | [308576-totally-reliable-delivery-service-dress-code.json](./308576-totally-reliable-delivery-service-dress-code.json) |
+| Totally Smashed | 74304 | [74304-totally-smashed.json](./74304-totally-smashed.json) |
 | Totally Spies! | 8021 | [8021-totally-spies.json](./8021-totally-spies.json) |
 | Totally Spies! 4: Around the World | 304040 | [304040-totally-spies-4-around-the-world.json](./304040-totally-spies-4-around-the-world.json) |
 | Totally Spies! Cyber Mission | 302511 | [302511-totally-spies-cyber-mission.json](./302511-totally-spies-cyber-mission.json) |
@@ -13753,6 +13758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron: Deadly Discs | 5710 | [5710-tron-deadly-discs.json](./5710-tron-deadly-discs.json) |
 | Tron: Identity | 216277 | [216277-tron-identity.json](./216277-tron-identity.json) |
 | Tron: Solar Sailer | 5698 | [5698-tron-solar-sailer.json](./5698-tron-solar-sailer.json) |
+| Trooper 1 | 74292 | [74292-trooper-1.json](./74292-trooper-1.json) |
 | Trophies | 286064 | [286064-trophies.json](./286064-trophies.json) |
 | Trophy | 143070 | [143070-trophy.json](./143070-trophy.json) |
 | Trophy Hunt | 275129 | [275129-trophy-hunt.json](./275129-trophy-hunt.json) |
