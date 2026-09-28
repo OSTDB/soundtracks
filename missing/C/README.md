@@ -4541,6 +4541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coalhero | 154396 | [154396-coalhero.json](./154396-coalhero.json) |
 | Coarse Blade | 332236 | [332236-coarse-blade.json](./332236-coarse-blade.json) |
 | Coast Defender | 269038 | [269038-coast-defender.json](./269038-coast-defender.json) |
+| Coast Guard: Beach Rescue Team | 96908 | [96908-coast-guard-beach-rescue-team.json](./96908-coast-guard-beach-rescue-team.json) |
 | Coast team | 118438 | [118438-coast-team.json](./118438-coast-team.json) |
 | Coastal Kingdoms | 304711 | [304711-coastal-kingdoms.json](./304711-coastal-kingdoms.json) |
 | Coastal Kitchen Simulator | 347721 | [347721-coastal-kitchen-simulator.json](./347721-coastal-kitchen-simulator.json) |
