@@ -1055,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jolly Laughter | 191563 | [191563-jolly-laughter.json](./191563-jolly-laughter.json) |
 | Jolly Match 3 MR | 380576 | [380576-jolly-match-3-mr.json](./380576-jolly-match-3-mr.json) |
 | Jolly Putt: Mini Golf & Arcade | 258705 | [258705-jolly-putt-mini-golf-and-arcade.json](./258705-jolly-putt-mini-golf-and-arcade.json) |
+| Jolly Riot | 113903 | [113903-jolly-riot.json](./113903-jolly-riot.json) |
 | Jolly Roger | 176828 | [176828-jolly-roger.json](./176828-jolly-roger.json) |
 | Jolly Rogers Pirates Rumble | 291530 | [291530-jolly-rogers-pirates-rumble.json](./291530-jolly-rogers-pirates-rumble.json) |
 | Jolly's Hardcore Mod | 269866 | [269866-jollys-hardcore-mod.json](./269866-jollys-hardcore-mod.json) |
