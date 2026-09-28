@@ -1042,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Kain: Soul Reaver 2 Remastered | 324084 | [324084-legacy-of-kain-soul-reaver-2-remastered.json](./324084-legacy-of-kain-soul-reaver-2-remastered.json) |
 | Legacy of Kain: Soul Reaver Remastered | 324083 | [324083-legacy-of-kain-soul-reaver-remastered.json](./324083-legacy-of-kain-soul-reaver-remastered.json) |
 | Legacy of Kalevala | 304120 | [304120-legacy-of-kalevala.json](./304120-legacy-of-kalevala.json) |
+| Legacy of Lina | 110521 | [110521-legacy-of-lina.json](./110521-legacy-of-lina.json) |
 | Legacy of Rust | 313118 | [313118-legacy-of-rust.json](./313118-legacy-of-rust.json) |
 | Legacy of Sin: Ill-Boding | 301243 | [301243-legacy-of-sin-ill-boding.json](./301243-legacy-of-sin-ill-boding.json) |
 | Legacy of Solitaire 3D | 252713 | [252713-legacy-of-solitaire-3d.json](./252713-legacy-of-solitaire-3d.json) |
@@ -3052,6 +3053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lollipop Chainsaw RePop: Nintendo Switch 2 Edition | 401101 | [401101-lollipop-chainsaw-repop-nintendo-switch-2-edition.json](./401101-lollipop-chainsaw-repop-nintendo-switch-2-edition.json) |
 | LolliPop: The Best Indie Game | 149496 | [149496-lollipop-the-best-indie-game.json](./149496-lollipop-the-best-indie-game.json) |
 | Lollipop! | 159882 | [159882-lollipop.json](./159882-lollipop.json) |
+| Lolly Pang VR | 110523 | [110523-lolly-pang-vr.json](./110523-lolly-pang-vr.json) |
 | Lollypop | 9762 | [9762-lollypop.json](./9762-lollypop.json) |
 | LolShot.io | 202776 | [202776-lolshot-io.json](./202776-lolshot-io.json) |
 | Lomo Overgrow | 398346 | [398346-lomo-overgrow.json](./398346-lomo-overgrow.json) |
