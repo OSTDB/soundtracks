@@ -3103,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amakano | 374832 | [374832-amakano.json](./374832-amakano.json) |
 | Amakano: Second Season | 128405 | [128405-amakano-second-season.json](./128405-amakano-second-season.json) |
 | Amakano+ | 128378 | [128378-amakano.json](./128378-amakano.json) |
+| Amakuchi! Dairoujou | 67368 | [67368-amakuchi-dairoujou.json](./67368-amakuchi-dairoujou.json) |
 | Amalgam | 396419 | [396419-amalgam.json](./396419-amalgam.json) |
 | Amalgoom | 346646 | [346646-amalgoom.json](./346646-amalgoom.json) |
 | Amalgun | 347764 | [347764-amalgun.json](./347764-amalgun.json) |
@@ -3563,6 +3564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anata wa Watashi no Danna-sama | 163233 | [163233-anata-wa-watashi-no-danna-sama.json](./163233-anata-wa-watashi-no-danna-sama.json) |
 | Anathema | 54688 | [54688-anathema.json](./54688-anathema.json) |
 | Anatidae | 149472 | [149472-anatidae.json](./149472-anatidae.json) |
+| Anaza Aku Yatsu: Another World | 67353 | [67353-anaza-aku-yatsu-another-world.json](./67353-anaza-aku-yatsu-another-world.json) |
 | Anaza: Kaleidoscope Special | 47537 | [47537-anaza-kaleidoscope-special.json](./47537-anaza-kaleidoscope-special.json) |
 | Anbar | 387545 | [387545-anbar.json](./387545-anbar.json) |
 | Ancestor's Legacy: Conqueror's Edition | 202221 | [202221-ancestors-legacy-conquerors-edition.json](./202221-ancestors-legacy-conquerors-edition.json) |
@@ -3715,6 +3717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Garden | 393606 | [393606-angel-garden.json](./393606-angel-garden.json) |
 | Angel Gate | 242241 | [242241-angel-gate.json](./242241-angel-gate.json) |
 | Angel Guardian | 312161 | [312161-angel-guardian.json](./312161-angel-guardian.json) |
+| Angel Hearts | 67342 | [67342-angel-hearts.json](./67342-angel-hearts.json) |
 | Angel Hua Yin | 339843 | [339843-angel-hua-yin.json](./339843-angel-hua-yin.json) |
 | Angel in Danger | 61072 | [61072-angel-in-danger.json](./61072-angel-in-danger.json) |
 | Angel in Inferno | 402316 | [402316-angel-in-inferno.json](./402316-angel-in-inferno.json) |
@@ -6945,6 +6948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack the Light! | 22555 | [22555-attack-the-light.json](./22555-attack-the-light.json) |
 | Attack: Helicopter Simulator 2020 | 171077 | [171077-attack-helicopter-simulator-2020.json](./171077-attack-helicopter-simulator-2020.json) |
 | Attack! | 356281 | [356281-attack.json](./356281-attack.json) |
+| Attack!! Hiroko-Chan | 67372 | [67372-attack-hiroko-chan.json](./67372-attack-hiroko-chan.json) |
 | Attic | 157148 | [157148-attic.json](./157148-attic.json) |
 | Attic Antiquities | 413162 | [413162-attic-antiquities.json](./413162-attic-antiquities.json) |
 | Attorney of the Arcane | 241048 | [241048-attorney-of-the-arcane.json](./241048-attorney-of-the-arcane.json) |
