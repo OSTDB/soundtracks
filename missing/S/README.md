@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailing | 38928 | [38928-sailing.json](./38928-sailing.json) |
 | Sailing Alone: Aftermath | 312708 | [312708-sailing-alone-aftermath.json](./312708-sailing-alone-aftermath.json) |
 | Sailing the Winds & New Tanks | 375160 | [375160-sailing-the-winds-and-new-tanks.json](./375160-sailing-the-winds-and-new-tanks.json) |
+| Sailor Fuku Bijin Tsuma Senshi Aheahe Moon | 82979 | [82979-sailor-fuku-bijin-tsuma-senshi-aheahe-moon.json](./82979-sailor-fuku-bijin-tsuma-senshi-aheahe-moon.json) |
 | Sailor Fuku Bishoujo Zukan Vol. 1 | 41389 | [41389-sailor-fuku-bishoujo-zukan-vol-1.json](./41389-sailor-fuku-bishoujo-zukan-vol-1.json) |
 | Sailor Fuku Bishoujo Zukan Vol. 2 | 41388 | [41388-sailor-fuku-bishoujo-zukan-vol-2.json](./41388-sailor-fuku-bishoujo-zukan-vol-2.json) |
 | Sailor Fuku Bishoujo Zukan Vol. 3 | 41387 | [41387-sailor-fuku-bishoujo-zukan-vol-3.json](./41387-sailor-fuku-bishoujo-zukan-vol-3.json) |
@@ -2793,6 +2794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sextris | 185629 | [185629-sextris.json](./185629-sextris.json) |
 | Sexts | 234750 | [234750-sexts.json](./234750-sexts.json) |
 | Sexual Girl | 367626 | [367626-sexual-girl.json](./367626-sexual-girl.json) |
+| Sexual Life with Shikigami | 82990 | [82990-sexual-life-with-shikigami.json](./82990-sexual-life-with-shikigami.json) |
 | Sexual Nudity | 140575 | [140575-sexual-nudity.json](./140575-sexual-nudity.json) |
 | Sexual Slave Ayaka | 82840 | [82840-sexual-slave-ayaka.json](./82840-sexual-slave-ayaka.json) |
 | Sexual Summer | 226182 | [226182-sexual-summer.json](./226182-sexual-summer.json) |
@@ -3802,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiny: Deluxe Edition | 118929 | [118929-shiny-deluxe-edition.json](./118929-shiny-deluxe-edition.json) |
 | Shinya Ichizoku: The Battle for Hokkaido's Delicious Foods | 186908 | [186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json](./186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json) |
 | Shinyaku Boushi Sekai | 396208 | [396208-shinyaku-boushi-sekai.json](./396208-shinyaku-boushi-sekai.json) |
+| Shinyuu no Haha Kumiko: Ana no Ichi kara Haramase Kata made Subete Kanojo ga Oshiete Kureta | 83000 | [83000-shinyuu-no-haha-kumiko-ana-no-ichi-kara-haramase-kata-made-subete-kanojo-ga-oshiete-kureta.json](./83000-shinyuu-no-haha-kumiko-ana-no-ichi-kara-haramase-kata-made-subete-kanojo-ga-oshiete-kureta.json) |
 | Shinzen Hollow | 292512 | [292512-shinzen-hollow.json](./292512-shinzen-hollow.json) |
 | Shion no Ou: The Flowers of Hard Blood | 122896 | [122896-shion-no-ou-the-flowers-of-hard-blood.json](./122896-shion-no-ou-the-flowers-of-hard-blood.json) |
 | Shiori no Kotoha: Dark Reflections | 186841 | [186841-shiori-no-kotoha-dark-reflections.json](./186841-shiori-no-kotoha-dark-reflections.json) |
@@ -3884,6 +3887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shirogane no Cal to Soukuu no Joou | 408266 | [408266-shirogane-no-cal-to-soukuu-no-joou.json](./408266-shirogane-no-cal-to-soukuu-no-joou.json) |
 | Shirogane no Cal to Soukuu no Joou Genteiban | 408268 | [408268-shirogane-no-cal-to-soukuu-no-joou-genteiban.json](./408268-shirogane-no-cal-to-soukuu-no-joou-genteiban.json) |
 | Shirogane x Spirits | 216352 | [216352-shirogane-x-spirits.json](./216352-shirogane-x-spirits.json) |
+| ShiroKuro Iede Gyaru: Tomete Kuretara Nandemo Suru yo | 82999 | [82999-shirokuro-iede-gyaru-tomete-kuretara-nandemo-suru-yo.json](./82999-shirokuro-iede-gyaru-tomete-kuretara-nandemo-suru-yo.json) |
 | Shirokuro: Shikijoushou no Osananajimi wo Sewa suru koto ni natta, Kanojo ni naisho de | 323855 | [323855-shirokuro-shikijoushou-no-osananajimi-wo-sewa-suru-koto-ni-natta-kanojo-ni-naisho-de.json](./323855-shirokuro-shikijoushou-no-osananajimi-wo-sewa-suru-koto-ni-natta-kanojo-ni-naisho-de.json) |
 | Shirotsume Souwa Bangai-hen: Tsunakawa-sanchi no Christmas | 376706 | [376706-shirotsume-souwa-bangai-hen-tsunakawa-sanchi-no-christmas.json](./376706-shirotsume-souwa-bangai-hen-tsunakawa-sanchi-no-christmas.json) |
 | Shirushi | 202364 | [202364-shirushi.json](./202364-shirushi.json) |
@@ -10208,6 +10212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | St. Maria Village | 295315 | [295315-st-maria-village.json](./295315-st-maria-village.json) |
 | St. Nick | 42198 | [42198-st-nick.json](./42198-st-nick.json) |
 | St. Nick's: Dash Away All! | 184931 | [184931-st-nicks-dash-away-all.json](./184931-st-nicks-dash-away-all.json) |
+| St. Yariman's Little Black Book: Complete | 82980 | [82980-st-yarimans-little-black-book-complete.json](./82980-st-yarimans-little-black-book-complete.json) |
 | Stab | 264620 | [264620-stab.json](./264620-stab.json) |
 | Stab It VR.com | 310022 | [310022-stab-it-vr-com.json](./310022-stab-it-vr-com.json) |
 | Stabby Cats | 159734 | [159734-stabby-cats.json](./159734-stabby-cats.json) |
