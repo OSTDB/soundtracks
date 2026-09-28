@@ -5112,6 +5112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinsations 2: Modern Gods | 332432 | [332432-sinsations-2-modern-gods.json](./332432-sinsations-2-modern-gods.json) |
 | SinsFromGod | 139422 | [139422-sinsfromgod.json](./139422-sinsfromgod.json) |
 | Sint Nicolaas | 122964 | [122964-sint-nicolaas.json](./122964-sint-nicolaas.json) |
+| Sintel: The Game | 61722 | [61722-sintel-the-game.json](./61722-sintel-the-game.json) |
 | Sintesoft 2.0 | 343319 | [343319-sintesoft-2-0.json](./343319-sintesoft-2-0.json) |
 | Sinthetic | 192805 | [192805-sinthetic.json](./192805-sinthetic.json) |
 | Sintropia | 337161 | [337161-sintropia.json](./337161-sintropia.json) |
@@ -6323,6 +6324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Reversi | 167287 | [167287-smash-reversi.json](./167287-smash-reversi.json) |
 | Smash Rush | 127183 | [127183-smash-rush.json](./127183-smash-rush.json) |
 | Smash Table Tennis | 84880 | [84880-smash-table-tennis.json](./84880-smash-table-tennis.json) |
+| Smash Team | 61735 | [61735-smash-team.json](./61735-smash-team.json) |
 | Smash Therapy | 220598 | [220598-smash-therapy.json](./220598-smash-therapy.json) |
 | Smash Track Drifters | 143634 | [143634-smash-track-drifters.json](./143634-smash-track-drifters.json) |
 | Smash Up: Pretty Pretty | 172147 | [172147-smash-up-pretty-pretty.json](./172147-smash-up-pretty-pretty.json) |
@@ -8251,6 +8253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Stalker | 235736 | [235736-soul-stalker.json](./235736-soul-stalker.json) |
 | Soul Survivor | 147413 | [147413-soul-survivor.json](./147413-soul-survivor.json) |
 | Soul Survivor | 329001 | [329001-soul-survivor.json](./329001-soul-survivor.json) |
+| Soul Survivor | 61706 | [61706-soul-survivor.json](./61706-soul-survivor.json) |
 | Soul Symphony | 196878 | [196878-soul-symphony.json](./196878-soul-symphony.json) |
 | Soul Thief: A Wizard's Lizard 2 | 58771 | [58771-soul-thief-a-wizards-lizard-2.json](./58771-soul-thief-a-wizards-lizard-2.json) |
 | Soul Tolerance | 211757 | [211757-soul-tolerance.json](./211757-soul-tolerance.json) |
@@ -8377,6 +8380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sousei no Onmyouji | 122890 | [122890-sousei-no-onmyouji.json](./122890-sousei-no-onmyouji.json) |
 | Souseishi, Arui wa Doukoku no Mokushiroku: Incarnation Erased from History | 242485 | [242485-souseishi-arui-wa-doukoku-no-mokushiroku-incarnation-erased-from-history.json](./242485-souseishi-arui-wa-doukoku-no-mokushiroku-incarnation-erased-from-history.json) |
 | Soushuu Senshinkan Gakuen Bansenjin | 137082 | [137082-soushuu-senshinkan-gakuen-bansenjin.json](./137082-soushuu-senshinkan-gakuen-bansenjin.json) |
+| Soushuu Senshinkan Gakuen Hachimyoujin | 61685 | [61685-soushuu-senshinkan-gakuen-hachimyoujin.json](./61685-soushuu-senshinkan-gakuen-hachimyoujin.json) |
 | Souten Koihime: Dawn of Sovereignty | 411657 | [411657-souten-koihime-dawn-of-sovereignty.json](./411657-souten-koihime-dawn-of-sovereignty.json) |
 | Souten Koihime: Shigen no Ou | 326788 | [326788-souten-koihime-shigen-no-ou.json](./326788-souten-koihime-shigen-no-ou.json) |
 | Souten no Shiroki Kami no Kura: Great Peak | 166501 | [166501-souten-no-shiroki-kami-no-kura-great-peak.json](./166501-souten-no-shiroki-kami-no-kura-great-peak.json) |
