@@ -1033,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gebub's Adventure | 31869 | [31869-gebubs-adventure.json](./31869-gebubs-adventure.json) |
 | Gecko Blaster | 43256 | [43256-gecko-blaster.json](./43256-gecko-blaster.json) |
 | Geckos & Deckos | 379367 | [379367-geckos-and-deckos.json](./379367-geckos-and-deckos.json) |
+| Gector | 96220 | [96220-gector.json](./96220-gector.json) |
 | Gedaria: Fairytale Forest | 207781 | [207781-gedaria-fairytale-forest.json](./207781-gedaria-fairytale-forest.json) |
 | Gedda Cake | 180286 | [180286-gedda-cake.json](./180286-gedda-cake.json) |
 | Gee Bee Air Rally | 12115 | [12115-gee-bee-air-rally.json](./12115-gee-bee-air-rally.json) |
@@ -4754,6 +4755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guru-guru Garakutas | 228556 | [228556-guru-guru-garakutas.json](./228556-guru-guru-garakutas.json) |
 | Guru-guru Town Hanamaru-kun | 281538 | [281538-guru-guru-town-hanamaru-kun.json](./281538-guru-guru-town-hanamaru-kun.json) |
 | Gurugedara | 61620 | [61620-gurugedara.json](./61620-gurugedara.json) |
+| Guruguru Animals | 96268 | [96268-guruguru-animals.json](./96268-guruguru-animals.json) |
 | Gururin World | 286633 | [286633-gururin-world.json](./286633-gururin-world.json) |
 | Gusano Go | 183860 | [183860-gusano-go.json](./183860-gusano-go.json) |
 | Gust | 221130 | [221130-gust.json](./221130-gust.json) |
