@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthquake Escape | 193229 | [193229-earthquake-escape.json](./193229-earthquake-escape.json) |
 | Earthrise | 20554 | [20554-earthrise.json](./20554-earthrise.json) |
 | Earthrise | 73274 | [73274-earthrise.json](./73274-earthrise.json) |
+| Earthshine | 117799 | [117799-earthshine.json](./117799-earthshine.json) |
 | Earthtia Saga: Larthur's Legend | 242223 | [242223-earthtia-saga-larthurs-legend.json](./242223-earthtia-saga-larthurs-legend.json) |
 | Earthworm Jim | 3480 | [3480-earthworm-jim.json](./3480-earthworm-jim.json) |
 | Earthworm Jim 1 & 2: The Whole Can 'O Worms | 125989 | [125989-earthworm-jim-1-and-2-the-whole-can-o-worms.json](./125989-earthworm-jim-1-and-2-the-whole-can-o-worms.json) |
@@ -1555,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Suburbia | 255700 | [255700-endless-suburbia.json](./255700-endless-suburbia.json) |
 | Endless Surf | 187827 | [187827-endless-surf.json](./187827-endless-surf.json) |
 | Endless Thief: a Furry Stealth Adventure | 201567 | [201567-endless-thief-a-furry-stealth-adventure.json](./201567-endless-thief-a-furry-stealth-adventure.json) |
+| Endless Turns | 117807 | [117807-endless-turns.json](./117807-endless-turns.json) |
 | Endless TV Tycoon | 352855 | [352855-endless-tv-tycoon.json](./352855-endless-tv-tycoon.json) |
 | Endless Vine | 374798 | [374798-endless-vine.json](./374798-endless-vine.json) |
 | Endless Void | 148894 | [148894-endless-void.json](./148894-endless-void.json) |
@@ -3233,6 +3235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expand | 18474 | [18474-expand.json](./18474-expand.json) |
 | Expand & Exterminate: Terrytorial Disputes - Endless Base Defense | 367935 | [367935-expand-and-exterminate-terrytorial-disputes-endless-base-defense.json](./367935-expand-and-exterminate-terrytorial-disputes-endless-base-defense.json) |
 | Expander | 34256 | [34256-expander.json](./34256-expander.json) |
+| ExpanSim | 117640 | [117640-expansim.json](./117640-expansim.json) |
 | Expansion | 120397 | [120397-expansion.json](./120397-expansion.json) |
 | Expedia Cenote Experience | 109626 | [109626-expedia-cenote-experience.json](./109626-expedia-cenote-experience.json) |
 | Expediente Ñ | 322368 | [322368-expediente-n.json](./322368-expediente-n.json) |
