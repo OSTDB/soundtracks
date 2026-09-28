@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.I. Joe: Hawk | 218426 | [218426-g-i-joe-hawk.json](./218426-g-i-joe-hawk.json) |
 | G.I. Joe: Operation Blackout - Digital Deluxe | 173160 | [173160-g-i-joe-operation-blackout-digital-deluxe.json](./173160-g-i-joe-operation-blackout-digital-deluxe.json) |
 | G.I. Joe: Snake Eyes | 218427 | [218427-g-i-joe-snake-eyes.json](./218427-g-i-joe-snake-eyes.json) |
+| G.I. joe: Special Ops | 81200 | [81200-g-i-joe-special-ops.json](./81200-g-i-joe-special-ops.json) |
 | G.I. Joe: The Atlantis Factor | 8166 | [8166-g-i-joe-the-atlantis-factor.json](./8166-g-i-joe-the-atlantis-factor.json) |
 | G.I. Joe: War on Cobra | 138573 | [138573-g-i-joe-war-on-cobra.json](./138573-g-i-joe-war-on-cobra.json) |
 | G.O.H - The God of Highschool | 137442 | [137442-g-o-h-the-god-of-highschool.json](./137442-g-o-h-the-god-of-highschool.json) |
@@ -957,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauntlet | 330890 | [330890-gauntlet.json](./330890-gauntlet.json) |
 | Gauntlet | 381045 | [381045-gauntlet.json](./381045-gauntlet.json) |
 | Gauntlet | 7294 | [7294-gauntlet.json](./7294-gauntlet.json) |
+| Gauntlet | 81204 | [81204-gauntlet.json](./81204-gauntlet.json) |
 | Gauntlet Arcade Version | 45533 | [45533-gauntlet-arcade-version.json](./45533-gauntlet-arcade-version.json) |
 | Gauntlet Dark Legacy | 3927 | [3927-gauntlet-dark-legacy.json](./3927-gauntlet-dark-legacy.json) |
 | Gauntlet II | 307077 | [307077-gauntlet-ii.json](./307077-gauntlet-ii.json) |
@@ -1615,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost in the Shell | 8336 | [8336-ghost-in-the-shell.json](./8336-ghost-in-the-shell.json) |
 | Ghost in the Shell GBC | 400490 | [400490-ghost-in-the-shell-gbc.json](./400490-ghost-in-the-shell-gbc.json) |
 | Ghost in the Shell: Arise - Stealth Hounds | 52005 | [52005-ghost-in-the-shell-arise-stealth-hounds.json](./52005-ghost-in-the-shell-arise-stealth-hounds.json) |
+| Ghost in the Shell: Stand Alone Complex | 81448 | [81448-ghost-in-the-shell-stand-alone-complex.json](./81448-ghost-in-the-shell-stand-alone-complex.json) |
 | Ghost in the Shell: Stand Alone Complex - First Assault Online | 35255 | [35255-ghost-in-the-shell-stand-alone-complex-first-assault-online.json](./35255-ghost-in-the-shell-stand-alone-complex-first-assault-online.json) |
 | Ghost Jumper: Red Hoodie | 315280 | [315280-ghost-jumper-red-hoodie.json](./315280-ghost-jumper-red-hoodie.json) |
 | Ghost Keeper | 312187 | [312187-ghost-keeper.json](./312187-ghost-keeper.json) |
