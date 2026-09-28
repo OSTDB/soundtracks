@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuoki Shinkai: Ginsei no Shou | 136838 | [136838-hakuoki-shinkai-ginsei-no-shou.json](./136838-hakuoki-shinkai-ginsei-no-shou.json) |
 | Hakuoki SSL: Sweet School Life for Nintendo Switch | 243921 | [243921-hakuoki-ssl-sweet-school-life-for-nintendo-switch.json](./243921-hakuoki-ssl-sweet-school-life-for-nintendo-switch.json) |
 | Hakuoki Yuugiroku Taishitachi no Daienkai | 124016 | [124016-hakuoki-yuugiroku-taishitachi-no-daienkai.json](./124016-hakuoki-yuugiroku-taishitachi-no-daienkai.json) |
+| Hakuoki: Chronicles of Wind and Blossom | 101066 | [101066-hakuoki-chronicles-of-wind-and-blossom.json](./101066-hakuoki-chronicles-of-wind-and-blossom.json) |
 | Hakuoki: Demon of the Fleeting Blossom | 17272 | [17272-hakuoki-demon-of-the-fleeting-blossom.json](./17272-hakuoki-demon-of-the-fleeting-blossom.json) |
 | Hakuoki: Edo Blossoms | 74563 | [74563-hakuoki-edo-blossoms.json](./74563-hakuoki-edo-blossoms.json) |
 | Hakuoki: Kyoto Winds - Deluxe Edition | 243920 | [243920-hakuoki-kyoto-winds-deluxe-edition.json](./243920-hakuoki-kyoto-winds-deluxe-edition.json) |
@@ -1852,6 +1853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Cruel World | 272839 | [272839-hello-cruel-world.json](./272839-hello-cruel-world.json) |
 | Hello Duck | 408154 | [408154-hello-duck.json](./408154-hello-duck.json) |
 | Hello Emoji: Drawing to Solve Puzzles | 229798 | [229798-hello-emoji-drawing-to-solve-puzzles.json](./229798-hello-emoji-drawing-to-solve-puzzles.json) |
+| Hello Games Neighbor | 101101 | [101101-hello-games-neighbor.json](./101101-hello-games-neighbor.json) |
 | Hello Girl | 257343 | [257343-hello-girl.json](./257343-hello-girl.json) |
 | Hello Ground | 185016 | [185016-hello-ground.json](./185016-hello-ground.json) |
 | Hello Guest | 140605 | [140605-hello-guest.json](./140605-hello-guest.json) |
@@ -1922,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Princess | 242679 | [242679-hello-princess.json](./242679-hello-princess.json) |
 | Hello Puppets: Midnight Show | 159805 | [159805-hello-puppets-midnight-show.json](./159805-hello-puppets-midnight-show.json) |
 | Hello Racoon Neighbor | 102723 | [102723-hello-racoon-neighbor.json](./102723-hello-racoon-neighbor.json) |
+| Hello Shrek. Stinky Neighbor 3D | 101091 | [101091-hello-shrek-stinky-neighbor-3d.json](./101091-hello-shrek-stinky-neighbor-3d.json) |
 | Hello Space | 348342 | [348342-hello-space.json](./348342-hello-space.json) |
 | Hello Stars | 103166 | [103166-hello-stars.json](./103166-hello-stars.json) |
 | Hello Sunshine | 335658 | [335658-hello-sunshine.json](./335658-hello-sunshine.json) |
