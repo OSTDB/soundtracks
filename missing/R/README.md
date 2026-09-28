@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Go | 262380 | [262380-racing-go.json](./262380-racing-go.json) |
 | Racing Heroes | 197338 | [197338-racing-heroes.json](./197338-racing-heroes.json) |
 | Racing in Car | 86989 | [86989-racing-in-car.json](./86989-racing-in-car.json) |
+| Racing in Car 2 | 100326 | [100326-racing-in-car-2.json](./100326-racing-in-car-2.json) |
 | Racing Juke | 151097 | [151097-racing-juke.json](./151097-racing-juke.json) |
 | Racing Karts | 186913 | [186913-racing-karts.json](./186913-racing-karts.json) |
 | Racing Legends | 174214 | [174214-racing-legends.json](./174214-racing-legends.json) |
@@ -854,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapala's Fishing Frenzy | 50605 | [50605-rapalas-fishing-frenzy.json](./50605-rapalas-fishing-frenzy.json) |
 | Raphael | 194281 | [194281-raphael.json](./194281-raphael.json) |
 | RaphaelGer's Plane | 229973 | [229973-raphaelgers-plane.json](./229973-raphaelgers-plane.json) |
+| Rapid | 100305 | [100305-rapid.json](./100305-rapid.json) |
 | Rapid Angel | 65771 | [65771-rapid-angel.json](./65771-rapid-angel.json) |
 | Rapid Ascent | 413663 | [413663-rapid-ascent.json](./413663-rapid-ascent.json) |
 | Rapid Assault | 62137 | [62137-rapid-assault.json](./62137-rapid-assault.json) |
@@ -1323,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Racing 2 | 11652 | [11652-real-racing-2.json](./11652-real-racing-2.json) |
 | Real Racing GTI | 343794 | [343794-real-racing-gti.json](./343794-real-racing-gti.json) |
 | Real Rally | 240493 | [240493-real-rally.json](./240493-real-rally.json) |
+| Real Rash Flying Copter | 100328 | [100328-real-rash-flying-copter.json](./100328-real-rash-flying-copter.json) |
 | Real Robots Final Attack | 68026 | [68026-real-robots-final-attack.json](./68026-real-robots-final-attack.json) |
 | Real Scary | 117864 | [117864-real-scary.json](./117864-real-scary.json) |
 | Real Shot VR | 98477 | [98477-real-shot-vr.json](./98477-real-shot-vr.json) |
@@ -5327,6 +5330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run away 2 | 100598 | [100598-run-away-2.json](./100598-run-away-2.json) |
 | Run Away SkyDancer | 307726 | [307726-run-away-skydancer.json](./307726-run-away-skydancer.json) |
 | Run Away With Me, Empress! | 225270 | [225270-run-away-with-me-empress.json](./225270-run-away-with-me-empress.json) |
+| Run Ball: Jump on Helix Road | 100321 | [100321-run-ball-jump-on-helix-road.json](./100321-run-ball-jump-on-helix-road.json) |
 | Run Bird Run | 344926 | [344926-run-bird-run.json](./344926-run-bird-run.json) |
 | Run Box Run | 222399 | [222399-run-box-run.json](./222399-run-box-run.json) |
 | Run Buddy | 274211 | [274211-run-buddy.json](./274211-run-buddy.json) |
