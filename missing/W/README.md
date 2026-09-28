@@ -2280,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WildestDreams | 109204 | [109204-wildestdreams.json](./109204-wildestdreams.json) |
 | Wildfire | 263518 | [263518-wildfire.json](./263518-wildfire.json) |
 | Wildfire | 33813 | [33813-wildfire.json](./33813-wildfire.json) |
+| Wildfire | 94915 | [94915-wildfire.json](./94915-wildfire.json) |
 | Wildflower: From the Embers | 178095 | [178095-wildflower-from-the-embers.json](./178095-wildflower-from-the-embers.json) |
 | WildFront | 274474 | [274474-wildfront.json](./274474-wildfront.json) |
 | Wildheart Gourmet | 356753 | [356753-wildheart-gourmet.json](./356753-wildheart-gourmet.json) |
@@ -2437,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windy Meadow: A Roadwarden Tale | 243774 | [243774-windy-meadow-a-roadwarden-tale.json](./243774-windy-meadow-a-roadwarden-tale.json) |
 | Windy Mystletainn | 284344 | [284344-windy-mystletainn.json](./284344-windy-mystletainn.json) |
 | Windy Waltz | 248682 | [248682-windy-waltz.json](./248682-windy-waltz.json) |
+| Windy x Windam | 94899 | [94899-windy-x-windam.json](./94899-windy-x-windam.json) |
 | WinFish 3 - Fly Fishing | 129767 | [129767-winfish-3-fly-fishing.json](./129767-winfish-3-fly-fishing.json) |
 | Wing Breakers | 180305 | [180305-wing-breakers.json](./180305-wing-breakers.json) |
 | Wing Chun: Pak Sung Bo Legends | 165702 | [165702-wing-chun-pak-sung-bo-legends.json](./165702-wing-chun-pak-sung-bo-legends.json) |
@@ -2622,6 +2624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wise in the Heights | 358330 | [358330-wise-in-the-heights.json](./358330-wise-in-the-heights.json) |
 | Wiseguys | 123538 | [123538-wiseguys.json](./123538-wiseguys.json) |
 | Wish | 196225 | [196225-wish.json](./196225-wish.json) |
+| Wish - Israfil Saga | 94897 | [94897-wish-israfil-saga.json](./94897-wish-israfil-saga.json) |
 | Wish of Abyss Dungeon | 195143 | [195143-wish-of-abyss-dungeon.json](./195143-wish-of-abyss-dungeon.json) |
 | Wish Of Hers | 385744 | [385744-wish-of-hers.json](./385744-wish-of-hers.json) |
 | Wish on this Flower | 360611 | [360611-wish-on-this-flower.json](./360611-wish-on-this-flower.json) |
@@ -3760,6 +3763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Reloaded: Time Attack Pack | 164381 | [164381-worms-reloaded-time-attack-pack.json](./164381-worms-reloaded-time-attack-pack.json) |
 | Worms Revolution | 9334 | [9334-worms-revolution.json](./9334-worms-revolution.json) |
 | Worms Revolution: Customization Pack | 225085 | [225085-worms-revolution-customization-pack.json](./225085-worms-revolution-customization-pack.json) |
+| Worms Revolution: Deluxe Edition | 94889 | [94889-worms-revolution-deluxe-edition.json](./94889-worms-revolution-deluxe-edition.json) |
 | Worms Rumble: Action All-Stars Pack | 261333 | [261333-worms-rumble-action-all-stars-pack.json](./261333-worms-rumble-action-all-stars-pack.json) |
 | Worms Rumble: Bank Heist Double Pack | 225086 | [225086-worms-rumble-bank-heist-double-pack.json](./225086-worms-rumble-bank-heist-double-pack.json) |
 | Worms Rumble: Captain & Shark Double Pack | 225087 | [225087-worms-rumble-captain-and-shark-double-pack.json](./225087-worms-rumble-captain-and-shark-double-pack.json) |
