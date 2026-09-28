@@ -2034,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glenwich Idle MMO | 397790 | [397790-glenwich-idle-mmo.json](./397790-glenwich-idle-mmo.json) |
 | Gleylancer & Gynoug Combo Pack | 286566 | [286566-gleylancer-and-gynoug-combo-pack.json](./286566-gleylancer-and-gynoug-combo-pack.json) |
 | Gli Animotosi e la Macchina Motante | 213625 | [213625-gli-animotosi-e-la-macchina-motante.json](./213625-gli-animotosi-e-la-macchina-motante.json) |
+| Glide Scramble Mechanic Star Shooting | 98045 | [98045-glide-scramble-mechanic-star-shooting.json](./98045-glide-scramble-mechanic-star-shooting.json) |
 | Glider Rider | 13002 | [13002-glider-rider.json](./13002-glider-rider.json) |
 | Glider Simulator | 326413 | [326413-glider-simulator.json](./326413-glider-simulator.json) |
 | Glider: Collect'n Kill | 94537 | [94537-glider-collectn-kill.json](./94537-glider-collectn-kill.json) |
@@ -4499,6 +4500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Priest | 116354 | [116354-gun-priest.json](./116354-gun-priest.json) |
 | Gun Quest | 382475 | [382475-gun-quest.json](./382475-gun-quest.json) |
 | Gun Raiders | 145040 | [145040-gun-raiders.json](./145040-gun-raiders.json) |
+| Gun Raze | 98023 | [98023-gun-raze.json](./98023-gun-raze.json) |
 | Gun Reflex VR | 326222 | [326222-gun-reflex-vr.json](./326222-gun-reflex-vr.json) |
 | Gun Repair Shop | 386436 | [386436-gun-repair-shop.json](./386436-gun-repair-shop.json) |
 | Gun Restoration Shop Simulator | 410317 | [410317-gun-restoration-shop-simulator.json](./410317-gun-restoration-shop-simulator.json) |
