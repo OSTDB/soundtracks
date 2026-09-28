@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keepers Of The Lost Arts | 285465 | [285465-keepers-of-the-lost-arts.json](./285465-keepers-of-the-lost-arts.json) |
 | Keeping It Shrimple | 236544 | [236544-keeping-it-shrimple.json](./236544-keeping-it-shrimple.json) |
 | Keepsake | 17243 | [17243-keepsake.json](./17243-keepsake.json) |
+| KeepShopkeeping | 108053 | [108053-keepshopkeeping.json](./108053-keepshopkeeping.json) |
 | KeepShopkeeping 2 | 119628 | [119628-keepshopkeeping-2.json](./119628-keepshopkeeping-2.json) |
 | KeepUp Survival | 143688 | [143688-keepup-survival.json](./143688-keepup-survival.json) |
 | Keepy Up | 400344 | [400344-keepy-up.json](./400344-keepy-up.json) |
@@ -1720,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitt.Io | 168650 | [168650-kitt-io.json](./168650-kitt-io.json) |
 | Kitten Adventure: Ultimate Meow! | 217869 | [217869-kitten-adventure-ultimate-meow.json](./217869-kitten-adventure-ultimate-meow.json) |
 | Kitten Adventures in City Park | 44165 | [44165-kitten-adventures-in-city-park.json](./44165-kitten-adventures-in-city-park.json) |
+| Kitten and Food: Adventure Park | 108022 | [108022-kitten-and-food-adventure-park.json](./108022-kitten-and-food-adventure-park.json) |
 | Kitten Burst | 201690 | [201690-kitten-burst.json](./201690-kitten-burst.json) |
 | Kitten Coliseum | 388230 | [388230-kitten-coliseum.json](./388230-kitten-coliseum.json) |
 | Kitten Kaboodle | 40236 | [40236-kitten-kaboodle.json](./40236-kitten-kaboodle.json) |
@@ -2011,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockbots | 212291 | [212291-knockbots.json](./212291-knockbots.json) |
 | KnockDown | 158040 | [158040-knockdown.json](./158040-knockdown.json) |
 | Knockin | 77015 | [77015-knockin.json](./77015-knockin.json) |
+| Knocking on her door | 108068 | [108068-knocking-on-her-door.json](./108068-knocking-on-her-door.json) |
 | Knocking Up My Nympho Neighbors | 235828 | [235828-knocking-up-my-nympho-neighbors.json](./235828-knocking-up-my-nympho-neighbors.json) |
 | Knockout 2: Wrath of the Karen | 244756 | [244756-knockout-2-wrath-of-the-karen.json](./244756-knockout-2-wrath-of-the-karen.json) |
 | Knockout Bowling VR | 129695 | [129695-knockout-bowling-vr.json](./129695-knockout-bowling-vr.json) |
