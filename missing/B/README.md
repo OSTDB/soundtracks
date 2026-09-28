@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance of Kingdoms | 66144 | [66144-balance-of-kingdoms.json](./66144-balance-of-kingdoms.json) |
 | Balance of Power | 183072 | [183072-balance-of-power.json](./183072-balance-of-power.json) |
 | Balance of Power: The 1990 Edition | 14608 | [14608-balance-of-power-the-1990-edition.json](./14608-balance-of-power-the-1990-edition.json) |
+| Balance of Soccer | 102377 | [102377-balance-of-soccer.json](./102377-balance-of-soccer.json) |
 | Balance of the Planet | 50499 | [50499-balance-of-the-planet.json](./50499-balance-of-the-planet.json) |
 | Balance the Beam | 58218 | [58218-balance-the-beam.json](./58218-balance-the-beam.json) |
 | Balance: Umbilical Wake | 410977 | [410977-balance-umbilical-wake.json](./410977-balance-umbilical-wake.json) |
@@ -2050,6 +2051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BE Witches | 157163 | [157163-be-witches.json](./157163-be-witches.json) |
 | Be You 2 | 135757 | [135757-be-you-2.json](./135757-be-you-2.json) |
 | Be Yourself | 318234 | [318234-be-yourself.json](./318234-be-yourself.json) |
+| BE-A Walker | 102386 | [102386-be-a-walker.json](./102386-be-a-walker.json) |
 | Beach anime day | 130238 | [130238-beach-anime-day.json](./130238-beach-anime-day.json) |
 | Beach Bar Simulator | 347355 | [347355-beach-bar-simulator.json](./347355-beach-bar-simulator.json) |
 | Beach Bass | 334210 | [334210-beach-bass.json](./334210-beach-bass.json) |
@@ -2855,6 +2857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between Two Castles | 125068 | [125068-between-two-castles.json](./125068-between-two-castles.json) |
 | Between Two Worlds | 352826 | [352826-between-two-worlds.json](./352826-between-two-worlds.json) |
 | Between Worlds | 181388 | [181388-between-worlds.json](./181388-between-worlds.json) |
+| Betweenside | 102357 | [102357-betweenside.json](./102357-betweenside.json) |
 | Bevel's Painting | 121030 | [121030-bevels-painting.json](./121030-bevels-painting.json) |
 | Beverly Hills Cop | 77002 | [77002-beverly-hills-cop.json](./77002-beverly-hills-cop.json) |
 | Beverly Hills Models | 201264 | [201264-beverly-hills-models.json](./201264-beverly-hills-models.json) |
@@ -4416,6 +4419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block x3 | 253013 | [253013-block-x3.json](./253013-block-x3.json) |
 | Block Yard | 175823 | [175823-block-yard.json](./175823-block-yard.json) |
 | Block_Up | 265408 | [265408-block-up.json](./265408-block-up.json) |
+| Block-a-Pix Color | 102329 | [102329-block-a-pix-color.json](./102329-block-a-pix-color.json) |
 | Block-O-Mania | 57090 | [57090-block-o-mania.json](./57090-block-o-mania.json) |
 | Block;Shift | 293103 | [293103-block-shift.json](./293103-block-shift.json) |
 | Block! Hexa Puzzle | 88914 | [88914-block-hexa-puzzle.json](./88914-block-hexa-puzzle.json) |
@@ -4827,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blu-Dude In The Quest for Chocolate Milk | 312164 | [312164-blu-dude-in-the-quest-for-chocolate-milk.json](./312164-blu-dude-in-the-quest-for-chocolate-milk.json) |
 | Blub | 274497 | [274497-blub.json](./274497-blub.json) |
 | Blubber | 312582 | [312582-blubber.json](./312582-blubber.json) |
+| BlubBlub: Quest of the Blob | 102338 | [102338-blubblub-quest-of-the-blob.json](./102338-blubblub-quest-of-the-blob.json) |
 | Blue Angelo | 18253 | [18253-blue-angelo.json](./18253-blue-angelo.json) |
 | Blue Angelo: Angels from the Shrine | 66051 | [66051-blue-angelo-angels-from-the-shrine.json](./66051-blue-angelo-angels-from-the-shrine.json) |
 | Blue Bird's Song | 275346 | [275346-blue-birds-song.json](./275346-blue-birds-song.json) |
