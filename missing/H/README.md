@@ -5062,11 +5062,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huggy: Love and Rescue | 276861 | [276861-huggy-love-and-rescue.json](./276861-huggy-love-and-rescue.json) |
 | Hugh's Dream | 135797 | [135797-hughs-dream.json](./135797-hughs-dream.json) |
 | Huglings | 388756 | [388756-huglings.json](./388756-huglings.json) |
+| Hugo 2 1/2 | 64504 | [64504-hugo-2-1-2.json](./64504-hugo-2-1-2.json) |
 | Hugo and the Animals of the Ocean | 286610 | [286610-hugo-and-the-animals-of-the-ocean.json](./286610-hugo-and-the-animals-of-the-ocean.json) |
 | Hugo Gold | 265969 | [265969-hugo-gold.json](./265969-hugo-gold.json) |
 | Hugo III, Jungle of Doom! | 8883 | [8883-hugo-iii-jungle-of-doom.json](./8883-hugo-iii-jungle-of-doom.json) |
 | Hugo in Space | 78983 | [78983-hugo-in-space.json](./78983-hugo-in-space.json) |
 | Hugo på nye Eventyr | 300687 | [300687-hugo-pa-nye-eventyr.json](./300687-hugo-pa-nye-eventyr.json) |
+| Hugo Safari | 64500 | [64500-hugo-safari.json](./64500-hugo-safari.json) |
+| Hugo Troll Race | 64496 | [64496-hugo-troll-race.json](./64496-hugo-troll-race.json) |
 | Hugo: Black Diamond Fever | 23556 | [23556-hugo-black-diamond-fever.json](./23556-hugo-black-diamond-fever.json) |
 | Hugo: Bukkazoom | 165052 | [165052-hugo-bukkazoom.json](./165052-hugo-bukkazoom.json) |
 | Hugo: De Første Tegn | 301394 | [301394-hugo-de-f-rste-tegn.json](./301394-hugo-de-f-rste-tegn.json) |
@@ -5075,6 +5078,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo: Jungle Island 2 | 286615 | [286615-hugo-jungle-island-2.json](./286615-hugo-jungle-island-2.json) |
 | Hugo: Magic in the Trollwoods | 48023 | [48023-hugo-magic-in-the-trollwoods.json](./48023-hugo-magic-in-the-trollwoods.json) |
 | Hugo: På Nye Eventyr | 11760 | [11760-hugo-pa-nye-eventyr.json](./11760-hugo-pa-nye-eventyr.json) |
+| Hugo: På Nye Eventyr - Del 2 | 64506 | [64506-hugo-pa-nye-eventyr-del-2.json](./64506-hugo-pa-nye-eventyr-del-2.json) |
+| Hugo: Retro Mania | 64498 | [64498-hugo-retro-mania.json](./64498-hugo-retro-mania.json) |
 | Hugo: Smakkaball | 210614 | [210614-hugo-smakkaball.json](./210614-hugo-smakkaball.json) |
 | Hugo: The Bewitched Rollercoaster | 286609 | [286609-hugo-the-bewitched-rollercoaster.json](./286609-hugo-the-bewitched-rollercoaster.json) |
 | Hugo: The Evil Mirror | 6438 | [6438-hugo-the-evil-mirror.json](./6438-hugo-the-evil-mirror.json) |
