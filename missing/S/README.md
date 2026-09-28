@@ -312,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint | 94739 | [94739-saint.json](./94739-saint.json) |
 | Saint Dragon | 12207 | [12207-saint-dragon.json](./12207-saint-dragon.json) |
 | Saint Emiliana | 132743 | [132743-saint-emiliana.json](./132743-saint-emiliana.json) |
+| Saint Estella Gakuin no Shichi-nin no Majo | 77937 | [77937-saint-estella-gakuin-no-shichi-nin-no-majo.json](./77937-saint-estella-gakuin-no-shichi-nin-no-majo.json) |
 | Saint George's Tavern | 388731 | [388731-saint-georges-tavern.json](./388731-saint-georges-tavern.json) |
 | Saint Goddess | 368660 | [368660-saint-goddess.json](./368660-saint-goddess.json) |
 | Saint Kotar: Digital Deluxe Edition | 246621 | [246621-saint-kotar-digital-deluxe-edition.json](./246621-saint-kotar-digital-deluxe-edition.json) |
@@ -1341,6 +1342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Girl/Zombie Hunter | 41827 | [41827-school-girl-zombie-hunter.json](./41827-school-girl-zombie-hunter.json) |
 | School Grounds | 112738 | [112738-school-grounds.json](./112738-school-grounds.json) |
 | School Guard | 385866 | [385866-school-guard.json](./385866-school-guard.json) |
+| School Heaven: Love Ero Harem - Momoiro Typhoon | 77924 | [77924-school-heaven-love-ero-harem-momoiro-typhoon.json](./77924-school-heaven-love-ero-harem-momoiro-typhoon.json) |
 | School Hero | 279113 | [279113-school-hero.json](./279113-school-hero.json) |
 | School House Shuffle | 206654 | [206654-school-house-shuffle.json](./206654-school-house-shuffle.json) |
 | School Idol QT Cool | 127933 | [127933-school-idol-qt-cool.json](./127933-school-idol-qt-cool.json) |
@@ -3581,6 +3583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shibui Coliseum | 120985 | [120985-shibui-coliseum.json](./120985-shibui-coliseum.json) |
 | Shibuya Grandmaster | 133825 | [133825-shibuya-grandmaster.json](./133825-shibuya-grandmaster.json) |
 | Shibuya Scramble Stories | 351642 | [351642-shibuya-scramble-stories.json](./351642-shibuya-scramble-stories.json) |
+| Shichi-nin no Online Gamers Offline | 78095 | [78095-shichi-nin-no-online-gamers-offline.json](./78095-shichi-nin-no-online-gamers-offline.json) |
 | Shichisei Toushin Guyferd: Crown Kaimetsu Sakusen | 229700 | [229700-shichisei-toushin-guyferd-crown-kaimetsu-sakusen.json](./229700-shichisei-toushin-guyferd-crown-kaimetsu-sakusen.json) |
 | Shichu Suimei Pitagraph | 222821 | [222821-shichu-suimei-pitagraph.json](./222821-shichu-suimei-pitagraph.json) |
 | Shield Arena | 412958 | [412958-shield-arena.json](./412958-shield-arena.json) |
@@ -3847,6 +3850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Simulator Extremes: Ocean Cruise Ship | 10827 | [10827-ship-simulator-extremes-ocean-cruise-ship.json](./10827-ship-simulator-extremes-ocean-cruise-ship.json) |
 | Ship Simulator Extremes: Offshore Vessel | 10828 | [10828-ship-simulator-extremes-offshore-vessel.json](./10828-ship-simulator-extremes-offshore-vessel.json) |
 | Ship Simulator Extremes: Sigita Pack | 10829 | [10829-ship-simulator-extremes-sigita-pack.json](./10829-ship-simulator-extremes-sigita-pack.json) |
+| Ship Simulator Professional | 78080 | [78080-ship-simulator-professional.json](./78080-ship-simulator-professional.json) |
 | Ship Simulator Realistic | 173056 | [173056-ship-simulator-realistic.json](./173056-ship-simulator-realistic.json) |
 | Ship Simulator: Maritime Search and Rescue | 27185 | [27185-ship-simulator-maritime-search-and-rescue.json](./27185-ship-simulator-maritime-search-and-rescue.json) |
 | Ship Surveyor Through the Ages: VR | 170324 | [170324-ship-surveyor-through-the-ages-vr.json](./170324-ship-surveyor-through-the-ages-vr.json) |
@@ -3894,6 +3898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiro: Midori | 208578 | [208578-shiro-midori.json](./208578-shiro-midori.json) |
 | Shirogane no Cal to Soukuu no Joou | 408266 | [408266-shirogane-no-cal-to-soukuu-no-joou.json](./408266-shirogane-no-cal-to-soukuu-no-joou.json) |
 | Shirogane no Cal to Soukuu no Joou Genteiban | 408268 | [408268-shirogane-no-cal-to-soukuu-no-joou-genteiban.json](./408268-shirogane-no-cal-to-soukuu-no-joou-genteiban.json) |
+| Shirogane no Torikago: The Angels with Strange Wings | 77921 | [77921-shirogane-no-torikago-the-angels-with-strange-wings.json](./77921-shirogane-no-torikago-the-angels-with-strange-wings.json) |
 | Shirogane x Spirits | 216352 | [216352-shirogane-x-spirits.json](./216352-shirogane-x-spirits.json) |
 | ShiroKuro Iede Gyaru: Tomete Kuretara Nandemo Suru yo | 82999 | [82999-shirokuro-iede-gyaru-tomete-kuretara-nandemo-suru-yo.json](./82999-shirokuro-iede-gyaru-tomete-kuretara-nandemo-suru-yo.json) |
 | Shirokuro: Shikijoushou no Osananajimi wo Sewa suru koto ni natta, Kanojo ni naisho de | 323855 | [323855-shirokuro-shikijoushou-no-osananajimi-wo-sewa-suru-koto-ni-natta-kanojo-ni-naisho-de.json](./323855-shirokuro-shikijoushou-no-osananajimi-wo-sewa-suru-koto-ni-natta-kanojo-ni-naisho-de.json) |
