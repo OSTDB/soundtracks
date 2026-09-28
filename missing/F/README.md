@@ -3832,6 +3832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fold the World | 348800 | [348800-fold-the-world.json](./348800-fold-the-world.json) |
 | Folder Dungeon | 267357 | [267357-folder-dungeon.json](./267357-folder-dungeon.json) |
 | Folding Maze | 195700 | [195700-folding-maze.json](./195700-folding-maze.json) |
+| Foldit | 92609 | [92609-foldit.json](./92609-foldit.json) |
 | Foldy's OS Quest | 335865 | [335865-foldys-os-quest.json](./335865-foldys-os-quest.json) |
 | Foliage vs. Undead | 330828 | [330828-foliage-vs-undead.json](./330828-foliage-vs-undead.json) |
 | Folie Fatale: Kousaku Fanaticism | 364513 | [364513-folie-fatale-kousaku-fanaticism.json](./364513-folie-fatale-kousaku-fanaticism.json) |
