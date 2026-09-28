@@ -778,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kens Labyrinth | 46651 | [46651-kens-labyrinth.json](./46651-kens-labyrinth.json) |
 | Kensei: Sacred Fist | 36746 | [36746-kensei-sacred-fist.json](./36746-kensei-sacred-fist.json) |
 | Kenshin Dragon Quest: Yomigaerishi Densetsu no Tsurugi | 267376 | [267376-kenshin-dragon-quest-yomigaerishi-densetsu-no-tsurugi.json](./267376-kenshin-dragon-quest-yomigaerishi-densetsu-no-tsurugi.json) |
+| Kenshuui Tendou Dokuta | 92634 | [92634-kenshuui-tendou-dokuta.json](./92634-kenshuui-tendou-dokuta.json) |
 | Kentilla | 26465 | [26465-kentilla.json](./26465-kentilla.json) |
 | Kentoushi Gladiator Begins | 42871 | [42871-kentoushi-gladiator-begins.json](./42871-kentoushi-gladiator-begins.json) |
 | Kentris | 93343 | [93343-kentris.json](./93343-kentris.json) |
@@ -872,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KFC The Hard Way | 98551 | [98551-kfc-the-hard-way.json](./98551-kfc-the-hard-way.json) |
 | KFC: Match Out the Yummies | 378157 | [378157-kfc-match-out-the-yummies.json](./378157-kfc-match-out-the-yummies.json) |
 | KFZ | 219663 | [219663-kfz.json](./219663-kfz.json) |
+| KGB Super Spy | 92633 | [92633-kgb-super-spy.json](./92633-kgb-super-spy.json) |
 | Khan: Myth of the Wind | 145603 | [145603-khan-myth-of-the-wind.json](./145603-khan-myth-of-the-wind.json) |
 | Khaos Wind | 111894 | [111894-khaos-wind.json](./111894-khaos-wind.json) |
 | Khara the Game | 108830 | [108830-khara-the-game.json](./108830-khara-the-game.json) |
