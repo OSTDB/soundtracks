@@ -2867,6 +2867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyblade x Evobattle: Digital Beybooster Vol. 2 | 378878 | [378878-beyblade-x-evobattle-digital-beybooster-vol-2.json](./378878-beyblade-x-evobattle-digital-beybooster-vol-2.json) |
 | Beyblade x Evobattle: Digital Beybooster Vol. 3 | 378879 | [378879-beyblade-x-evobattle-digital-beybooster-vol-3.json](./378879-beyblade-x-evobattle-digital-beybooster-vol-3.json) |
 | Beyblade: Metal Fusion Cyber Pegasus | 48033 | [48033-beyblade-metal-fusion-cyber-pegasus.json](./48033-beyblade-metal-fusion-cyber-pegasus.json) |
+| Beyond | 111191 | [111191-beyond.json](./111191-beyond.json) |
 | Beyond | 131452 | [131452-beyond.json](./131452-beyond.json) |
 | Beyond | 222887 | [222887-beyond.json](./222887-beyond.json) |
 | Beyond | 294256 | [294256-beyond.json](./294256-beyond.json) |
@@ -4416,6 +4417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockbuster World Video Game Championship II | 210600 | [210600-blockbuster-world-video-game-championship-ii.json](./210600-blockbuster-world-video-game-championship-ii.json) |
 | Blockbusters | 153814 | [153814-blockbusters.json](./153814-blockbusters.json) |
 | Blockchain Brawlers | 225754 | [225754-blockchain-brawlers.json](./225754-blockchain-brawlers.json) |
+| BlockDoc | 111172 | [111172-blockdoc.json](./111172-blockdoc.json) |
 | Blockdown | 157204 | [157204-blockdown.json](./157204-blockdown.json) |
 | Blocked Up | 183897 | [183897-blocked-up.json](./183897-blocked-up.json) |
 | Blocked Zona | 200565 | [200565-blocked-zona.json](./200565-blocked-zona.json) |
@@ -5277,6 +5279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombing Wonderful | 228712 | [228712-bombing-wonderful.json](./228712-bombing-wonderful.json) |
 | Bombing!!: A Graffiti Sandbox | 144933 | [144933-bombing-a-graffiti-sandbox.json](./144933-bombing-a-graffiti-sandbox.json) |
 | Bombini | 129579 | [129579-bombini.json](./129579-bombini.json) |
+| Bombman | 111190 | [111190-bombman.json](./111190-bombman.json) |
 | Bombo | 293252 | [293252-bombo.json](./293252-bombo.json) |
 | Bombo Rumble | 239683 | [239683-bombo-rumble.json](./239683-bombo-rumble.json) |
 | Bomboban | 386102 | [386102-bomboban.json](./386102-bomboban.json) |
