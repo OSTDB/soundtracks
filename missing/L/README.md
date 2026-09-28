@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lakitu's Great Adventure | 217842 | [217842-lakitus-great-adventure.json](./217842-lakitus-great-adventure.json) |
 | Lala Hentai 2 | 375970 | [375970-lala-hentai-2.json](./375970-lala-hentai-2.json) |
 | Lala the Magical | 48298 | [48298-lala-the-magical.json](./48298-lala-the-magical.json) |
+| Lalaloopsy: Sew Magical! Sew Cute! | 113888 | [113888-lalaloopsy-sew-magical-sew-cute.json](./113888-lalaloopsy-sew-magical-sew-cute.json) |
 | Lama Drama FPS | 122370 | [122370-lama-drama-fps.json](./122370-lama-drama-fps.json) |
 | Lamb Chop & Friends | 198796 | [198796-lamb-chop-and-friends.json](./198796-lamb-chop-and-friends.json) |
 | Lamb to the Slaughter | 323553 | [323553-lamb-to-the-slaughter.json](./323553-lamb-to-the-slaughter.json) |
@@ -1562,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Cook | 98445 | [98445-lets-cook.json](./98445-lets-cook.json) |
 | Let's Cook Together | 133455 | [133455-lets-cook-together.json](./133455-lets-cook-together.json) |
 | Let's Cook Together 2 | 203251 | [203251-lets-cook-together-2.json](./203251-lets-cook-together-2.json) |
+| Let's Create! Pottery VR | 113887 | [113887-lets-create-pottery-vr.json](./113887-lets-create-pottery-vr.json) |
 | Let's Dance | 78337 | [78337-lets-dance.json](./78337-lets-dance.json) |
 | Let's Draw | 29849 | [29849-lets-draw.json](./29849-lets-draw.json) |
 | Let's Eat! Seaside Cafe | 33465 | [33465-lets-eat-seaside-cafe.json](./33465-lets-eat-seaside-cafe.json) |
@@ -4209,6 +4211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunatic Rave 2 | 79901 | [79901-lunatic-rave-2.json](./79901-lunatic-rave-2.json) |
 | Lunch Box | 221734 | [221734-lunch-box.json](./221734-lunch-box.json) |
 | Lunch Box Ready | 212458 | [212458-lunch-box-ready.json](./212458-lunch-box-ready.json) |
+| Lunch Break | 113892 | [113892-lunch-break.json](./113892-lunch-break.json) |
 | Lunch Lord: The Doom of Black Philip | 184634 | [184634-lunch-lord-the-doom-of-black-philip.json](./184634-lunch-lord-the-doom-of-black-philip.json) |
 | Lunch Rush HD | 87903 | [87903-lunch-rush-hd.json](./87903-lunch-rush-hd.json) |
 | Lunch Truck Tycoon 2 | 44220 | [44220-lunch-truck-tycoon-2.json](./44220-lunch-truck-tycoon-2.json) |
