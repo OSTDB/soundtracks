@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.A Cup Football | 93372 | [93372-f-a-cup-football.json](./93372-f-a-cup-football.json) |
 | F.A.G.E.N. | 413041 | [413041-f-a-g-e-n.json](./413041-f-a-g-e-n.json) |
 | F.E.A.R. 3 | 514 | [514-f-e-a-r-3.json](./514-f-e-a-r-3.json) |
+| F.E.A.R. Combat | 77261 | [77261-f-e-a-r-combat.json](./77261-f-e-a-r-combat.json) |
 | F.E.A.R. Extraction Point | 518 | [518-f-e-a-r-extraction-point.json](./518-f-e-a-r-extraction-point.json) |
 | F.E.A.R. Files | 5640 | [5640-f-e-a-r-files.json](./5640-f-e-a-r-files.json) |
 | F.E.A.R.: Complete Pack | 323910 | [323910-f-e-a-r-complete-pack.json](./323910-f-e-a-r-complete-pack.json) |
