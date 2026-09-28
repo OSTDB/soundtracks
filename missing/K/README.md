@@ -1708,6 +1708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss Ato | 147429 | [147429-kiss-ato.json](./147429-kiss-ato.json) |
 | Kiss Ato | 148357 | [148357-kiss-ato.json](./148357-kiss-ato.json) |
 | Kiss Bell | 147806 | [147806-kiss-bell.json](./147806-kiss-bell.json) |
+| Kiss Bell | 61688 | [61688-kiss-bell.json](./61688-kiss-bell.json) |
 | Kiss Effect | 235477 | [235477-kiss-effect.json](./235477-kiss-effect.json) |
 | Kiss in Hell | 298298 | [298298-kiss-in-hell.json](./298298-kiss-in-hell.json) |
 | Kiss Kara Hajimaru Gyaru no Koi: Kurumi no Uwasa to Honto no Kimochi | 186229 | [186229-kiss-kara-hajimaru-gyaru-no-koi-kurumi-no-uwasa-to-honto-no-kimochi.json](./186229-kiss-kara-hajimaru-gyaru-no-koi-kurumi-no-uwasa-to-honto-no-kimochi.json) |
