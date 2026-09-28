@@ -1133,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall Together | 400213 | [400213-mall-together.json](./400213-mall-together.json) |
 | Mall Town | 119629 | [119629-mall-town.json](./119629-mall-town.json) |
 | Mall Tycoon | 23450 | [23450-mall-tycoon.json](./23450-mall-tycoon.json) |
+| Mall Tycoon - Billionaires Club Game | 106773 | [106773-mall-tycoon-billionaires-club-game.json](./106773-mall-tycoon-billionaires-club-game.json) |
 | Malleus Maleficarum | 373104 | [373104-malleus-maleficarum.json](./373104-malleus-maleficarum.json) |
 | Malleus Maleficarum: The Witch of San Ignacio | 318794 | [318794-malleus-maleficarum-the-witch-of-san-ignacio.json](./318794-malleus-maleficarum-the-witch-of-san-ignacio.json) |
 | Malody V | 190191 | [190191-malody-v.json](./190191-malody-v.json) |
@@ -6326,6 +6327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monaco Grand Prix | 3413 | [3413-monaco-grand-prix.json](./3413-monaco-grand-prix.json) |
 | Monaco Master | 268495 | [268495-monaco-master.json](./268495-monaco-master.json) |
 | Monarch: Medieval Remastered | 117134 | [117134-monarch-medieval-remastered.json](./117134-monarch-medieval-remastered.json) |
+| Monarch: The Butterfly King | 106734 | [106734-monarch-the-butterfly-king.json](./106734-monarch-the-butterfly-king.json) |
 | Monarch: The Tainted Kingdom | 410962 | [410962-monarch-the-tainted-kingdom.json](./410962-monarch-the-tainted-kingdom.json) |
 | Monari Station | 395567 | [395567-monari-station.json](./395567-monari-station.json) |
 | Monark: Limited Edition Box | 152340 | [152340-monark-limited-edition-box.json](./152340-monark-limited-edition-box.json) |
@@ -7396,6 +7398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rally Racing VR | 288785 | [288785-moto-rally-racing-vr.json](./288785-moto-rally-racing-vr.json) |
 | Moto Rider Go: Highway Traffic | 104640 | [104640-moto-rider-go-highway-traffic.json](./104640-moto-rider-go-highway-traffic.json) |
 | Moto Roader II | 37708 | [37708-moto-roader-ii.json](./37708-moto-roader-ii.json) |
+| Moto Runner 3D | 106780 | [106780-moto-runner-3d.json](./106780-moto-runner-3d.json) |
 | Moto Rush GT | 115751 | [115751-moto-rush-gt.json](./115751-moto-rush-gt.json) |
 | Moto Rush GT: Advanced Edition | 315871 | [315871-moto-rush-gt-advanced-edition.json](./315871-moto-rush-gt-advanced-edition.json) |
 | Moto Rush GT: Back To School Edition | 263541 | [263541-moto-rush-gt-back-to-school-edition.json](./263541-moto-rush-gt-back-to-school-edition.json) |
@@ -8423,6 +8426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dinner with André | 227785 | [227785-my-dinner-with-andre.json](./227785-my-dinner-with-andre.json) |
 | My Dino | 111888 | [111888-my-dino.json](./111888-my-dino.json) |
 | My Direct Damag 7 Trillion | 318422 | [318422-my-direct-damag-7-trillion.json](./318422-my-direct-damag-7-trillion.json) |
+| My DIY Slime PlayTime | 106732 | [106732-my-diy-slime-playtime.json](./106732-my-diy-slime-playtime.json) |
 | My Dog! | 310018 | [310018-my-dog.json](./310018-my-dog.json) |
 | My Dolphin | 67254 | [67254-my-dolphin.json](./67254-my-dolphin.json) |
 | My Dolphin Show | 86773 | [86773-my-dolphin-show.json](./86773-my-dolphin-show.json) |
