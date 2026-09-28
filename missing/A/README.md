@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Alchemical Potion | 158555 | [158555-absolute-alchemical-potion.json](./158555-absolute-alchemical-potion.json) |
 | Absolute Backgammon | 100605 | [100605-absolute-backgammon.json](./100605-absolute-backgammon.json) |
 | Absolute Blue | 71466 | [71466-absolute-blue.json](./71466-absolute-blue.json) |
+| Absolute Doppelkopf | 79215 | [79215-absolute-doppelkopf.json](./79215-absolute-doppelkopf.json) |
 | Absolute Duo | 92286 | [92286-absolute-duo.json](./92286-absolute-duo.json) |
 | Absolute Fall | 119004 | [119004-absolute-fall.json](./119004-absolute-fall.json) |
 | Absolute Matter | 219697 | [219697-absolute-matter.json](./219697-absolute-matter.json) |
@@ -945,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acid Reflux | 274437 | [274437-acid-reflux.json](./274437-acid-reflux.json) |
 | Acid Spy | 102877 | [102877-acid-spy.json](./102877-acid-spy.json) |
 | Acid Worship | 271740 | [271740-acid-worship.json](./271740-acid-worship.json) |
+| Ack-Ack Attack! | 79318 | [79318-ack-ack-attack.json](./79318-ack-ack-attack.json) |
 | ACM 1918 | 129795 | [129795-acm-1918.json](./129795-acm-1918.json) |
 | Acno's Energizer | 326749 | [326749-acnos-energizer.json](./326749-acnos-energizer.json) |
 | Aconitum | 379468 | [379468-aconitum.json](./379468-aconitum.json) |
