@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Balls-Rolling Ahead Go | 86776 | [86776-dancing-balls-rolling-ahead-go.json](./86776-dancing-balls-rolling-ahead-go.json) |
 | Dancing Ballz: Magic Dance Line Tiles Game | 105993 | [105993-dancing-ballz-magic-dance-line-tiles-game.json](./105993-dancing-ballz-magic-dance-line-tiles-game.json) |
 | Dancing Cats | 332805 | [332805-dancing-cats.json](./332805-dancing-cats.json) |
+| Dancing Craze for Mac | 90836 | [90836-dancing-craze-for-mac.json](./90836-dancing-craze-for-mac.json) |
 | Dancing Cube | 192837 | [192837-dancing-cube.json](./192837-dancing-cube.json) |
 | Dancing Dreamer | 148566 | [148566-dancing-dreamer.json](./148566-dancing-dreamer.json) |
 | Dancing Hair: Music Race 3D | 212455 | [212455-dancing-hair-music-race-3d.json](./212455-dancing-hair-music-race-3d.json) |
@@ -5273,6 +5274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DongBeiZhiXia | 230782 | [230782-dongbeizhixia.json](./230782-dongbeizhixia.json) |
 | Dōngfāng de Chuánshuō zhī Fēngyìn Dǎo | 163214 | [163214-dongfang-de-chuanshuo-zhi-fengyin-dao.json](./163214-dongfang-de-chuanshuo-zhi-fengyin-dao.json) |
 | Dōngfāng Jiànjī zài Xīfāng Lǚxíng de Gùshì | 157212 | [157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json](./157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json) |
+| Dongo Adventure | 90826 | [90826-dongo-adventure.json](./90826-dongo-adventure.json) |
 | Donkee's Adventure | 401638 | [401638-donkees-adventure.json](./401638-donkees-adventure.json) |
 | Donkey BoM | 398315 | [398315-donkey-bom.json](./398315-donkey-bom.json) |
 | Donkey Gorilla | 267992 | [267992-donkey-gorilla.json](./267992-donkey-gorilla.json) |
@@ -5415,6 +5417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Harmony Idle Merge | 303487 | [303487-doodle-harmony-idle-merge.json](./303487-doodle-harmony-idle-merge.json) |
 | Doodle Hex | 21475 | [21475-doodle-hex.json](./21475-doodle-hex.json) |
 | Doodle Hunt: Halloween Rush | 320331 | [320331-doodle-hunt-halloween-rush.json](./320331-doodle-hunt-halloween-rush.json) |
+| Doodle Jump HD | 90809 | [90809-doodle-jump-hd.json](./90809-doodle-jump-hd.json) |
 | Doodle Jump HD: Insanely Good! | 104106 | [104106-doodle-jump-hd-insanely-good.json](./104106-doodle-jump-hd-insanely-good.json) |
 | Doodle Kingdom | 27243 | [27243-doodle-kingdom.json](./27243-doodle-kingdom.json) |
 | Doodle Mafia: Crime City | 146741 | [146741-doodle-mafia-crime-city.json](./146741-doodle-mafia-crime-city.json) |
