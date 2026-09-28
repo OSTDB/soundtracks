@@ -2120,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary X | 249247 | [249247-mary-x.json](./249247-mary-x.json) |
 | Mary-Kate and Ashley: Girls Night Out | 49391 | [49391-mary-kate-and-ashley-girls-night-out.json](./49391-mary-kate-and-ashley-girls-night-out.json) |
 | Mary-Kate and Ashley: Winners Circle | 49966 | [49966-mary-kate-and-ashley-winners-circle.json](./49966-mary-kate-and-ashley-winners-circle.json) |
+| Mary's Adventure | 82758 | [82758-marys-adventure.json](./82758-marys-adventure.json) |
 | Mary's Arcade: Service Pack | 288832 | [288832-marys-arcade-service-pack.json](./288832-marys-arcade-service-pack.json) |
 | Mary's Quest | 385338 | [385338-marys-quest.json](./385338-marys-quest.json) |
 | MaryPark St. | 138666 | [138666-marypark-st.json](./138666-marypark-st.json) |
@@ -4422,6 +4423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miasma Caves | 95179 | [95179-miasma-caves.json](./95179-miasma-caves.json) |
 | Miazma or the Devil's Stone | 99012 | [99012-miazma-or-the-devils-stone.json](./99012-miazma-or-the-devils-stone.json) |
 | Mibibli's Quest | 33229 | [33229-mibiblis-quest.json](./33229-mibiblis-quest.json) |
+| Miboujin Nikki: Akogare no Ano Hito to Hitotsu Yane no Shita | 82972 | [82972-miboujin-nikki-akogare-no-ano-hito-to-hitotsu-yane-no-shita.json](./82972-miboujin-nikki-akogare-no-ano-hito-to-hitotsu-yane-no-shita.json) |
 | Miburi and Teburi | 230271 | [230271-miburi-and-teburi.json](./230271-miburi-and-teburi.json) |
 | Mica: Apoptosis | 177515 | [177515-mica-apoptosis.json](./177515-mica-apoptosis.json) |
 | Michael Andretti's World GP | 48279 | [48279-michael-andrettis-world-gp.json](./48279-michael-andrettis-world-gp.json) |
@@ -4897,6 +4899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mikeneko Holmes: Ghost Panic | 37360 | [37360-mikeneko-holmes-ghost-panic.json](./37360-mikeneko-holmes-ghost-panic.json) |
 | Mikey Boots | 140610 | [140610-mikey-boots.json](./140610-mikey-boots.json) |
 | Mikie: High School Graffiti | 84164 | [84164-mikie-high-school-graffiti.json](./84164-mikie-high-school-graffiti.json) |
+| Miko Kanna Noukin Taimaki | 82738 | [82738-miko-kanna-noukin-taimaki.json](./82738-miko-kanna-noukin-taimaki.json) |
 | Miko Monogatari! | 222277 | [222277-miko-monogatari.json](./222277-miko-monogatari.json) |
 | Mikoshi | 191200 | [191200-mikoshi.json](./191200-mikoshi.json) |
 | Mikrocosmos | 232944 | [232944-mikrocosmos.json](./232944-mikrocosmos.json) |
@@ -5704,6 +5707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misa! | 88801 | [88801-misa.json](./88801-misa.json) |
 | Misadventure In Little Lon | 125425 | [125425-misadventure-in-little-lon.json](./125425-misadventure-in-little-lon.json) |
 | Misadventures of Laura Silver - Chapter II | 121771 | [121771-misadventures-of-laura-silver-chapter-ii.json](./121771-misadventures-of-laura-silver-chapter-ii.json) |
+| Misako 37-sai: Doutei Daigakusei x Futsuu no Shufu | 82998 | [82998-misako-37-sai-doutei-daigakusei-x-futsuu-no-shufu.json](./82998-misako-37-sai-doutei-daigakusei-x-futsuu-no-shufu.json) |
 | Misao: Definitive Edition | 74567 | [74567-misao-definitive-edition.json](./74567-misao-definitive-edition.json) |
 | Misc. | 159079 | [159079-misc.json](./159079-misc.json) |
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Asha Edition | 225040 | [225040-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-asha-edition.json](./225040-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-asha-edition.json) |
@@ -6640,6 +6644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Galaxy | 197943 | [197943-monster-galaxy.json](./197943-monster-galaxy.json) |
 | Monster Galaxy: The Zodiac Islands | 98577 | [98577-monster-galaxy-the-zodiac-islands.json](./98577-monster-galaxy-the-zodiac-islands.json) |
 | Monster Gals: Voyage | 373100 | [373100-monster-gals-voyage.json](./373100-monster-gals-voyage.json) |
+| Monster Girl * Fusion | 82764 | [82764-monster-girl-fusion.json](./82764-monster-girl-fusion.json) |
 | Monster Girl 2 | 237291 | [237291-monster-girl-2.json](./237291-monster-girl-2.json) |
 | Monster Girl Clinic | 412305 | [412305-monster-girl-clinic.json](./412305-monster-girl-clinic.json) |
 | Monster Girl Dreams | 138832 | [138832-monster-girl-dreams.json](./138832-monster-girl-dreams.json) |
