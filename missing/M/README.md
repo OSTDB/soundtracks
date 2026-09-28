@@ -916,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaidGardener | 253904 | [253904-maidgardener.json](./253904-maidgardener.json) |
 | Maidnight | 373733 | [373733-maidnight.json](./373733-maidnight.json) |
 | Maigo no Koneko-chan | 276472 | [276472-maigo-no-koneko-chan.json](./276472-maigo-no-koneko-chan.json) |
+| Maihon: The Impossible Jewel Stacking Puzzle Game | 116462 | [116462-maihon-the-impossible-jewel-stacking-puzzle-game.json](./116462-maihon-the-impossible-jewel-stacking-puzzle-game.json) |
 | Maikuro: Ore ga Watashi de Boku ga Atashi de | 417607 | [417607-maikuro-ore-ga-watashi-de-boku-ga-atashi-de.json](./417607-maikuro-ore-ga-watashi-de-boku-ga-atashi-de.json) |
 | Mail Mole + Expansions Bundle | 238186 | [238186-mail-mole-expansions-bundle.json](./238186-mail-mole-expansions-bundle.json) |
 | Mail Mole: 'Xpress Deliveries | 238444 | [238444-mail-mole-xpress-deliveries.json](./238444-mail-mole-xpress-deliveries.json) |
@@ -1450,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marcella Moon: Killer at the Cove | 264024 | [264024-marcella-moon-killer-at-the-cove.json](./264024-marcella-moon-killer-at-the-cove.json) |
 | Marcella Moon: The Phantom of Harvest Grove | 373762 | [373762-marcella-moon-the-phantom-of-harvest-grove.json](./373762-marcella-moon-the-phantom-of-harvest-grove.json) |
 | March of Giants | 363900 | [363900-march-of-giants.json](./363900-march-of-giants.json) |
+| March of History | 116432 | [116432-march-of-history.json](./116432-march-of-history.json) |
 | March of the Living | 18901 | [18901-march-of-the-living.json](./18901-march-of-the-living.json) |
 | March of the Penguins | 20648 | [20648-march-of-the-penguins.json](./20648-march-of-the-penguins.json) |
 | March of War: StormSiege | 170494 | [170494-march-of-war-stormsiege.json](./170494-march-of-war-stormsiege.json) |
@@ -6230,6 +6232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mommy-Goddess of Unconditional Love ~Wow, You Sure Gave It Your All Out There!~ | 353289 | [353289-mommy-goddess-of-unconditional-love-wow-you-sure-gave-it-your-all-out-there.json](./353289-mommy-goddess-of-unconditional-love-wow-you-sure-gave-it-your-all-out-there.json) |
 | Momo Bunny: Cash Me or Crash Me!! | 369117 | [369117-momo-bunny-cash-me-or-crash-me.json](./369117-momo-bunny-cash-me-or-crash-me.json) |
 | Momo Horror Story | 239574 | [239574-momo-horror-story.json](./239574-momo-horror-story.json) |
+| Momo Ichigo | 116421 | [116421-momo-ichigo.json](./116421-momo-ichigo.json) |
 | Momo Mother Bird: Final Story | 209483 | [209483-momo-mother-bird-final-story.json](./209483-momo-mother-bird-final-story.json) |
 | Momo.exe 2 | 110175 | [110175-momo-exe-2.json](./110175-momo-exe-2.json) |
 | Momo's Conflict | 207526 | [207526-momos-conflict.json](./207526-momos-conflict.json) |
@@ -7547,6 +7550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move 78 | 157207 | [157207-move-78.json](./157207-move-78.json) |
 | Move Ball to Green | 291518 | [291518-move-ball-to-green.json](./291518-move-ball-to-green.json) |
 | Move Blocks | 285454 | [285454-move-blocks.json](./285454-move-blocks.json) |
+| Move Egg in Time | 116448 | [116448-move-egg-in-time.json](./116448-move-egg-in-time.json) |
 | Move Fitness | 22937 | [22937-move-fitness.json](./22937-move-fitness.json) |
 | Move Fun | 246396 | [246396-move-fun.json](./246396-move-fun.json) |
 | Move Mind Benders | 20818 | [20818-move-mind-benders.json](./20818-move-mind-benders.json) |
@@ -7832,6 +7836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mu: Dark Epoch | 323723 | [323723-mu-dark-epoch.json](./323723-mu-dark-epoch.json) |
 | Muay Thai | 349887 | [349887-muay-thai.json](./349887-muay-thai.json) |
 | Muchacho Bean | 293638 | [293638-muchacho-bean.json](./293638-muchacho-bean.json) |
+| Mucho Party | 116442 | [116442-mucho-party.json](./116442-mucho-party.json) |
 | Mud and Blood | 153415 | [153415-mud-and-blood.json](./153415-mud-and-blood.json) |
 | Mudbird | 335272 | [335272-mudbird.json](./335272-mudbird.json) |
 | Mudborne | 242538 | [242538-mudborne.json](./242538-mudborne.json) |
@@ -8042,6 +8047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder on the Island | 116871 | [116871-murder-on-the-island.json](./116871-murder-on-the-island.json) |
 | Murder on the Marine Express | 151690 | [151690-murder-on-the-marine-express.json](./151690-murder-on-the-marine-express.json) |
 | Murder on the Spaceship Altair | 312330 | [312330-murder-on-the-spaceship-altair.json](./312330-murder-on-the-spaceship-altair.json) |
+| Murder on the Suburbia 2 | 116446 | [116446-murder-on-the-suburbia-2.json](./116446-murder-on-the-suburbia-2.json) |
 | Murder on the Zinderneuf | 23929 | [23929-murder-on-the-zinderneuf.json](./23929-murder-on-the-zinderneuf.json) |
 | Murder Reservation | 129205 | [129205-murder-reservation.json](./129205-murder-reservation.json) |
 | Murder Strip | 399011 | [399011-murder-strip.json](./399011-murder-strip.json) |
