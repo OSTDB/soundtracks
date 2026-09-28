@@ -2533,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Aid Portable | 204389 | [204389-little-aid-portable.json](./204389-little-aid-portable.json) |
 | Little Airplane 3D for kids: learn colors, numbers | 101495 | [101495-little-airplane-3d-for-kids-learn-colors-numbers.json](./101495-little-airplane-3d-for-kids-learn-colors-numbers.json) |
 | Little Alchemy | 38911 | [38911-little-alchemy.json](./38911-little-alchemy.json) |
+| Little Alchemy 2 | 68111 | [68111-little-alchemy-2.json](./68111-little-alchemy-2.json) |
 | Little Amazon | 356196 | [356196-little-amazon.json](./356196-little-amazon.json) |
 | Little Artist - Drawing and Coloring Book | 104598 | [104598-little-artist-drawing-and-coloring-book.json](./104598-little-artist-drawing-and-coloring-book.json) |
 | Little Astronaut | 199133 | [199133-little-astronaut.json](./199133-little-astronaut.json) |
@@ -2955,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Local Network | 178019 | [178019-local-network.json](./178019-local-network.json) |
 | Local Paper Small Town | 195181 | [195181-local-paper-small-town.json](./195181-local-paper-small-town.json) |
 | Local Zombies | 389712 | [389712-local-zombies.json](./389712-local-zombies.json) |
+| Localhost | 68110 | [68110-localhost.json](./68110-localhost.json) |
 | Locator: The Search for Abigail Lidari | 257990 | [257990-locator-the-search-for-abigail-lidari.json](./257990-locator-the-search-for-abigail-lidari.json) |
 | Loch Ness | 182506 | [182506-loch-ness.json](./182506-loch-ness.json) |
 | Lock | 68655 | [68655-lock.json](./68655-lock.json) |
