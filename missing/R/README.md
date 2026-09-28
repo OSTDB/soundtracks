@@ -976,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravage Fist | 417716 | [417716-ravage-fist.json](./417716-ravage-fist.json) |
 | Ravage Road | 228458 | [228458-ravage-road.json](./228458-ravage-road.json) |
 | Rave Gazebo | 275723 | [275723-rave-gazebo.json](./275723-rave-gazebo.json) |
+| Rave: Ultimate Battle | 63349 | [63349-rave-ultimate-battle.json](./63349-rave-ultimate-battle.json) |
 | Ravelle: Last Draw | 387011 | [387011-ravelle-last-draw.json](./387011-ravelle-last-draw.json) |
 | Raven Gold | 329065 | [329065-raven-gold.json](./329065-raven-gold.json) |
 | Raven Quest | 133198 | [133198-raven-quest.json](./133198-raven-quest.json) |
@@ -3464,6 +3465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riot Control | 269119 | [269119-riot-control.json](./269119-riot-control.json) |
 | Riot of Willy | 266807 | [266807-riot-of-willy.json](./266807-riot-of-willy.json) |
 | Riot Operator | 156120 | [156120-riot-operator.json](./156120-riot-operator.json) |
+| Riot Police | 63379 | [63379-riot-police.json](./63379-riot-police.json) |
 | Riot Ride | 317987 | [317987-riot-ride.json](./317987-riot-ride.json) |
 | Riot Riders | 414548 | [414548-riot-riders.json](./414548-riot-riders.json) |
 | Rioters 2025 | 147328 | [147328-rioters-2025.json](./147328-rioters-2025.json) |
@@ -3661,6 +3663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rite as Rain | 249851 | [249851-rite-as-rain.json](./249851-rite-as-rain.json) |
 | Rite of Eris | 295392 | [295392-rite-of-eris.json](./295392-rite-of-eris.json) |
 | Rite of Ilk | 55066 | [55066-rite-of-ilk.json](./55066-rite-of-ilk.json) |
+| Rite of Passage: Child of the Forest | 63375 | [63375-rite-of-passage-child-of-the-forest.json](./63375-rite-of-passage-child-of-the-forest.json) |
 | Rite of Passage: Heart of the Storm | 104117 | [104117-rite-of-passage-heart-of-the-storm.json](./104117-rite-of-passage-heart-of-the-storm.json) |
 | Rite of Passage: Heart of the Storm - Collector's Edition | 194636 | [194636-rite-of-passage-heart-of-the-storm-collectors-edition.json](./194636-rite-of-passage-heart-of-the-storm-collectors-edition.json) |
 | Rite of Passage: Hide and Seek | 98377 | [98377-rite-of-passage-hide-and-seek.json](./98377-rite-of-passage-hide-and-seek.json) |
@@ -5119,6 +5122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Detective: Incident at Ashford | 355553 | [355553-royal-detective-incident-at-ashford.json](./355553-royal-detective-incident-at-ashford.json) |
 | Royal Dice: Random Defense | 174810 | [174810-royal-dice-random-defense.json](./174810-royal-dice-random-defense.json) |
 | Royal Dungeon | 205605 | [205605-royal-dungeon.json](./205605-royal-dungeon.json) |
+| Royal Envoy 2 | 63401 | [63401-royal-envoy-2.json](./63401-royal-envoy-2.json) |
 | Royal Envoy 2: Collector's Edition | 201855 | [201855-royal-envoy-2-collectors-edition.json](./201855-royal-envoy-2-collectors-edition.json) |
 | Royal Envoy 3: Collector's Edition | 132804 | [132804-royal-envoy-3-collectors-edition.json](./132804-royal-envoy-3-collectors-edition.json) |
 | Royal Escape | 71203 | [71203-royal-escape.json](./71203-royal-escape.json) |
