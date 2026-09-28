@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About My Cat | 303749 | [303749-a-game-about-my-cat.json](./303749-a-game-about-my-cat.json) |
 | A Game of Concentration | 40723 | [40723-a-game-of-concentration.json](./40723-a-game-of-concentration.json) |
 | A Game of Dwarves: Star Dwarves | 171034 | [171034-a-game-of-dwarves-star-dwarves.json](./171034-a-game-of-dwarves-star-dwarves.json) |
+| A Game of Tennis | 92621 | [92621-a-game-of-tennis.json](./92621-a-game-of-tennis.json) |
 | A Game That Rhymes With Grug | 351703 | [351703-a-game-that-rhymes-with-grug.json](./351703-a-game-that-rhymes-with-grug.json) |
 | A Game With a Kitty | 74789 | [74789-a-game-with-a-kitty.json](./74789-a-game-with-a-kitty.json) |
 | A Game's Tale | 298889 | [298889-a-games-tale.json](./298889-a-games-tale.json) |
@@ -712,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Matter | 219697 | [219697-absolute-matter.json](./219697-absolute-matter.json) |
 | Absolute Pinball | 12376 | [12376-absolute-pinball.json](./12376-absolute-pinball.json) |
 | Absolute Talent | 227209 | [227209-absolute-talent.json](./227209-absolute-talent.json) |
+| Absolute X | 92602 | [92602-absolute-x.json](./92602-absolute-x.json) |
 | Absolute: Asse raus! | 92288 | [92288-absolute-asse-raus.json](./92288-absolute-asse-raus.json) |
 | Absolute: Blazing Infinity | 78616 | [78616-absolute-blazing-infinity.json](./78616-absolute-blazing-infinity.json) |
 | Absolutely Nothing Good | 414420 | [414420-absolutely-nothing-good.json](./414420-absolutely-nothing-good.json) |
