@@ -4069,6 +4069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies: GOTY Edition | 20546 | [20546-plants-vs-zombies-goty-edition.json](./20546-plants-vs-zombies-goty-edition.json) |
 | Plants vs. Zombies: Original Edition | 310568 | [310568-plants-vs-zombies-original-edition.json](./310568-plants-vs-zombies-original-edition.json) |
 | Plants vs. Zombies: Replanted | 358529 | [358529-plants-vs-zombies-replanted.json](./358529-plants-vs-zombies-replanted.json) |
+| Planum | 96890 | [96890-planum.json](./96890-planum.json) |
 | Plaqueman | 229928 | [229928-plaqueman.json](./229928-plaqueman.json) |
 | Plarail Yume Ga Ippai! | 270150 | [270150-plarail-yume-ga-ippai.json](./270150-plarail-yume-ga-ippai.json) |
 | Plasma Attack | 158650 | [158650-plasma-attack.json](./158650-plasma-attack.json) |
@@ -4983,6 +4984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Enforcement VR : 1-K-27 | 97014 | [97014-police-enforcement-vr-1-k-27.json](./97014-police-enforcement-vr-1-k-27.json) |
 | Police on Duty | 209656 | [209656-police-on-duty.json](./209656-police-on-duty.json) |
 | Police on Duty 2 | 295773 | [295773-police-on-duty-2.json](./295773-police-on-duty-2.json) |
+| Police Patrol | 96900 | [96900-police-patrol.json](./96900-police-patrol.json) |
 | Police Patrol SImulator | 383394 | [383394-police-patrol-simulator.json](./383394-police-patrol-simulator.json) |
 | Police Precinct: Online | 197850 | [197850-police-precinct-online.json](./197850-police-precinct-online.json) |
 | Police Quest Collection | 32278 | [32278-police-quest-collection.json](./32278-police-quest-collection.json) |
