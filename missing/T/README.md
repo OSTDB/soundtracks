@@ -2884,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blue Chamber | 247540 | [247540-the-blue-chamber.json](./247540-the-blue-chamber.json) |
 | The Blue Katana | 185122 | [185122-the-blue-katana.json](./185122-the-blue-katana.json) |
 | The Blue Marlin | 48104 | [48104-the-blue-marlin.json](./48104-the-blue-marlin.json) |
+| The Blue Zula VR Concert Series | 110500 | [110500-the-blue-zula-vr-concert-series.json](./110500-the-blue-zula-vr-concert-series.json) |
 | The Blue-diamond Damsel in Distress | 336386 | [336386-the-blue-diamond-damsel-in-distress.json](./336386-the-blue-diamond-damsel-in-distress.json) |
 | The Bluecoats: North vs South - Limited Edition | 139929 | [139929-the-bluecoats-north-vs-south-limited-edition.json](./139929-the-bluecoats-north-vs-south-limited-edition.json) |
 | The Blueness of a Wound | 129062 | [129062-the-blueness-of-a-wound.json](./129062-the-blueness-of-a-wound.json) |
@@ -6361,6 +6362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Perfect Specimen | 243620 | [243620-the-perfect-specimen.json](./243620-the-perfect-specimen.json) |
 | The Perfect Tower II | 149572 | [149572-the-perfect-tower-ii.json](./149572-the-perfect-tower-ii.json) |
 | The Perfect Tree | 89697 | [89697-the-perfect-tree.json](./89697-the-perfect-tree.json) |
+| The Perfectionist | 110537 | [110537-the-perfectionist.json](./110537-the-perfectionist.json) |
 | The Perils of Willy | 62218 | [62218-the-perils-of-willy.json](./62218-the-perils-of-willy.json) |
 | The Permanent Residence: Souls Kept | 324671 | [324671-the-permanent-residence-souls-kept.json](./324671-the-permanent-residence-souls-kept.json) |
 | The Perplexing Orb | 85439 | [85439-the-perplexing-orb.json](./85439-the-perplexing-orb.json) |
@@ -8412,6 +8414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theme Park Roller Coaster | 43273 | [43273-theme-park-roller-coaster.json](./43273-theme-park-roller-coaster.json) |
 | Theme Park Worker | 114964 | [114964-theme-park-worker.json](./114964-theme-park-worker.json) |
 | Themely | 393788 | [393788-themely.json](./393788-themely.json) |
+| TheMemory | 110540 | [110540-thememory.json](./110540-thememory.json) |
 | Themes of Dark and Light | 153864 | [153864-themes-of-dark-and-light.json](./153864-themes-of-dark-and-light.json) |
 | Themis | 327856 | [327856-themis.json](./327856-themis.json) |
 | TheMist | 116335 | [116335-themist.json](./116335-themist.json) |
@@ -13322,6 +13325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger Tennis | 255698 | [255698-trigger-tennis.json](./255698-trigger-tennis.json) |
 | Trigger Witch | 119365 | [119365-trigger-witch.json](./119365-trigger-witch.json) |
 | Triggered | 87988 | [87988-triggered.json](./87988-triggered.json) |
+| Triggered: Assault | 110493 | [110493-triggered-assault.json](./110493-triggered-assault.json) |
 | TriggerHeart Exelica Enhanced | 326579 | [326579-triggerheart-exelica-enhanced.json](./326579-triggerheart-exelica-enhanced.json) |
 | TriggerHeart Exelica Enhanced | 348965 | [348965-triggerheart-exelica-enhanced.json](./348965-triggerheart-exelica-enhanced.json) |
 | Triggering Simulator | 129110 | [129110-triggering-simulator.json](./129110-triggering-simulator.json) |
