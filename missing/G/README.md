@@ -4449,6 +4449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gummy Jump 2 | 321496 | [321496-gummy-jump-2.json](./321496-gummy-jump-2.json) |
 | Gummy Nightmares | 305743 | [305743-gummy-nightmares.json](./305743-gummy-nightmares.json) |
 | Gummy Slide | 251236 | [251236-gummy-slide.json](./251236-gummy-slide.json) |
+| Gummy World | 101056 | [101056-gummy-world.json](./101056-gummy-world.json) |
 | Gumnaam | 215353 | [215353-gumnaam.json](./215353-gumnaam.json) |
 | Gump Jump | 209647 | [209647-gump-jump.json](./209647-gump-jump.json) |
 | Gump Runner | 29183 | [29183-gump-runner.json](./29183-gump-runner.json) |
