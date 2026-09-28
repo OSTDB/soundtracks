@@ -1587,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World Evolution 2: Park Managers' Collection Pack | 308278 | [308278-jurassic-world-evolution-2-park-managers-collection-pack.json](./308278-jurassic-world-evolution-2-park-managers-collection-pack.json) |
 | Jurassic World Evolution 3: Deluxe Edition | 406704 | [406704-jurassic-world-evolution-3-deluxe-edition.json](./406704-jurassic-world-evolution-3-deluxe-edition.json) |
 | Jurassic World Evolution: Return to Jurassic Park | 140515 | [140515-jurassic-world-evolution-return-to-jurassic-park.json](./140515-jurassic-world-evolution-return-to-jurassic-park.json) |
+| Jurassic World Revealed | 104259 | [104259-jurassic-world-revealed.json](./104259-jurassic-world-revealed.json) |
 | Jurassic World VRSE | 315071 | [315071-jurassic-world-vrse.json](./315071-jurassic-world-vrse.json) |
 | Jurassic World: Aftermath - Part 2 | 165398 | [165398-jurassic-world-aftermath-part-2.json](./165398-jurassic-world-aftermath-part-2.json) |
 | Jurassic World: Camp Cretaceous - Escape the Enclosure | 148378 | [148378-jurassic-world-camp-cretaceous-escape-the-enclosure.json](./148378-jurassic-world-camp-cretaceous-escape-the-enclosure.json) |
