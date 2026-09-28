@@ -2868,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lo-Fi Golf | 360684 | [360684-lo-fi-golf.json](./360684-lo-fi-golf.json) |
 | Lo-Fi Haiku: Coffee and Chill | 287166 | [287166-lo-fi-haiku-coffee-and-chill.json](./287166-lo-fi-haiku-coffee-and-chill.json) |
 | Lo-Friction | 369199 | [369199-lo-friction.json](./369199-lo-friction.json) |
+| LO-OP | 104220 | [104220-lo-op.json](./104220-lo-op.json) |
 | Lo-Rez | 285054 | [285054-lo-rez.json](./285054-lo-rez.json) |
 | Load Roll Die | 172734 | [172734-load-roll-die.json](./172734-load-roll-die.json) |
 | Loaded | 18682 | [18682-loaded.json](./18682-loaded.json) |
