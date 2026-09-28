@@ -1162,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Gigant Battle! | 47818 | [47818-one-piece-gigant-battle.json](./47818-one-piece-gigant-battle.json) |
 | One Piece: Grand Adventure | 4053 | [4053-one-piece-grand-adventure.json](./4053-one-piece-grand-adventure.json) |
 | One Piece: Ocean's Dream! | 75750 | [75750-one-piece-oceans-dream.json](./75750-one-piece-oceans-dream.json) |
+| One Piece: Pirate Warriors + One Piece: Pirate Warriors 2 | 81477 | [81477-one-piece-pirate-warriors-one-piece-pirate-warriors-2.json](./81477-one-piece-pirate-warriors-one-piece-pirate-warriors-2.json) |
 | One Piece: Pirate Warriors 3 - DLC Pack 1 | 171049 | [171049-one-piece-pirate-warriors-3-dlc-pack-1.json](./171049-one-piece-pirate-warriors-3-dlc-pack-1.json) |
 | One Piece: Pirate Warriors 3 - DLC Pack 2 | 171052 | [171052-one-piece-pirate-warriors-3-dlc-pack-2.json](./171052-one-piece-pirate-warriors-3-dlc-pack-2.json) |
 | One Piece: Pirate Warriors 4 - Additional Episodes Pack | 266741 | [266741-one-piece-pirate-warriors-4-additional-episodes-pack.json](./266741-one-piece-pirate-warriors-4-additional-episodes-pack.json) |
@@ -2151,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Winding Road | 301408 | [301408-our-winding-road.json](./301408-our-winding-road.json) |
 | Our Wonderland | 403157 | [403157-our-wonderland.json](./403157-our-wonderland.json) |
 | Our Worlds | 130877 | [130877-our-worlds.json](./130877-our-worlds.json) |
+| Ouran High School Host Club | 81475 | [81475-ouran-high-school-host-club.json](./81475-ouran-high-school-host-club.json) |
 | Ouroboros | 230408 | [230408-ouroboros.json](./230408-ouroboros.json) |
 | Ouroboros Saiaku.exe: Crazy for you | 358363 | [358363-ouroboros-saiaku-exe-crazy-for-you.json](./358363-ouroboros-saiaku-exe-crazy-for-you.json) |
 | Ouroboros Solitaire | 405689 | [405689-ouroboros-solitaire.json](./405689-ouroboros-solitaire.json) |
