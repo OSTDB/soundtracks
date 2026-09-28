@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Hope | 81780 | [81780-last-hope.json](./81780-last-hope.json) |
 | Last Hope 3: Sniper Zombie War | 208931 | [208931-last-hope-3-sniper-zombie-war.json](./208931-last-hope-3-sniper-zombie-war.json) |
 | Last Hope on Earth | 145586 | [145586-last-hope-on-earth.json](./145586-last-hope-on-earth.json) |
+| Last Hope Z - VR | 117822 | [117822-last-hope-z-vr.json](./117822-last-hope-z-vr.json) |
 | Last Hopeless | 255991 | [255991-last-hopeless.json](./255991-last-hopeless.json) |
 | Last Hour | 192175 | [192175-last-hour.json](./192175-last-hour.json) |
 | Last Idea | 115448 | [115448-last-idea.json](./115448-last-idea.json) |
@@ -2933,6 +2934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loco Bonobo | 192871 | [192871-loco-bonobo.json](./192871-loco-bonobo.json) |
 | Loco Motive | 141805 | [141805-loco-motive.json](./141805-loco-motive.json) |
 | LOCO Online | 361771 | [361771-loco-online.json](./361771-loco-online.json) |
+| Loco Parentis | 117810 | [117810-loco-parentis.json](./117810-loco-parentis.json) |
 | Loco-Coconuts | 246495 | [246495-loco-coconuts.json](./246495-loco-coconuts.json) |
 | Loco-Motion | 5681 | [5681-loco-motion.json](./5681-loco-motion.json) |
 | Loco-Sort | 272265 | [272265-loco-sort.json](./272265-loco-sort.json) |
@@ -3090,6 +3092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely People Potion Shop | 152279 | [152279-lonely-people-potion-shop.json](./152279-lonely-people-potion-shop.json) |
 | Lonely Planet | 374174 | [374174-lonely-planet.json](./374174-lonely-planet.json) |
 | Lonely shooter | 111680 | [111680-lonely-shooter.json](./111680-lonely-shooter.json) |
+| Lonely Skies | 117811 | [117811-lonely-skies.json](./117811-lonely-skies.json) |
 | Lonely Sun | 25266 | [25266-lonely-sun.json](./25266-lonely-sun.json) |
 | Lonely Things | 181887 | [181887-lonely-things.json](./181887-lonely-things.json) |
 | Lonely Tribes | 192372 | [192372-lonely-tribes.json](./192372-lonely-tribes.json) |
