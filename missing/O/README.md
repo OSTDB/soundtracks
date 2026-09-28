@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Outbreak Savior | 333155 | [333155-office-outbreak-savior.json](./333155-office-outbreak-savior.json) |
 | Office Overloaded | 317580 | [317580-office-overloaded.json](./317580-office-overloaded.json) |
 | Office Point Rescue | 159051 | [159051-office-point-rescue.json](./159051-office-point-rescue.json) |
+| Office Race | 102951 | [102951-office-race.json](./102951-office-race.json) |
 | Office Racer | 213045 | [213045-office-racer.json](./213045-office-racer.json) |
 | Office Rivals | 332266 | [332266-office-rivals.json](./332266-office-rivals.json) |
 | Office Romance | 215090 | [215090-office-romance.json](./215090-office-romance.json) |
