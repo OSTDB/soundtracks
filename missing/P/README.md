@@ -1287,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Past Memories | 266830 | [266830-past-memories.json](./266830-past-memories.json) |
 | Past Synergy | 195079 | [195079-past-synergy.json](./195079-past-synergy.json) |
 | Pasta Master | 160263 | [160263-pasta-master.json](./160263-pasta-master.json) |
+| Pastel Chime Continue | 68121 | [68121-pastel-chime-continue.json](./68121-pastel-chime-continue.json) |
 | Pastel Friends | 338542 | [338542-pastel-friends.json](./338542-pastel-friends.json) |
 | Pastel Island | 268444 | [268444-pastel-island.json](./268444-pastel-island.json) |
 | Pastel Lime | 210633 | [210633-pastel-lime.json](./210633-pastel-lime.json) |
@@ -2256,6 +2257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petz Hamsterz Bunch | 210000 | [210000-petz-hamsterz-bunch.json](./210000-petz-hamsterz-bunch.json) |
 | Petz Horseshoe Ranch | 209999 | [209999-petz-horseshoe-ranch.json](./209999-petz-horseshoe-ranch.json) |
 | Petz Horsez Family | 209998 | [209998-petz-horsez-family.json](./209998-petz-horsez-family.json) |
+| Petz Pony Beauty Pageant | 68078 | [68078-petz-pony-beauty-pageant.json](./68078-petz-pony-beauty-pageant.json) |
 | Petz Puppyz and Kittenz | 209990 | [209990-petz-puppyz-and-kittenz.json](./209990-petz-puppyz-and-kittenz.json) |
 | Petz Vet | 209989 | [209989-petz-vet.json](./209989-petz-vet.json) |
 | Petz: Catz 5 | 23770 | [23770-petz-catz-5.json](./23770-petz-catz-5.json) |
@@ -5907,6 +5909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prank Call | 165423 | [165423-prank-call.json](./165423-prank-call.json) |
 | Prank Heart | 287754 | [287754-prank-heart.json](./287754-prank-heart.json) |
 | Prank Masters | 108030 | [108030-prank-masters.json](./108030-prank-masters.json) |
+| Prank Your Neighbor | 68076 | [68076-prank-your-neighbor.json](./68076-prank-your-neighbor.json) |
 | Pranksters: Treasure of the Indians | 322570 | [322570-pranksters-treasure-of-the-indians.json](./322570-pranksters-treasure-of-the-indians.json) |
 | Pranksterz: From Russia With Love | 23195 | [23195-pranksterz-from-russia-with-love.json](./23195-pranksterz-from-russia-with-love.json) |
 | Prawngeon | 266234 | [266234-prawngeon.json](./266234-prawngeon.json) |
@@ -6513,6 +6516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu: Greatest Nine 98 | 275140 | [275140-pro-yakyuu-greatest-nine-98.json](./275140-pro-yakyuu-greatest-nine-98.json) |
 | Pro Zombie Soccer AE | 90347 | [90347-pro-zombie-soccer-ae.json](./90347-pro-zombie-soccer-ae.json) |
 | Pro-Mahjong Kiwame Next | 97873 | [97873-pro-mahjong-kiwame-next.json](./97873-pro-mahjong-kiwame-next.json) |
+| Pro-Putt Domo | 68059 | [68059-pro-putt-domo.json](./68059-pro-putt-domo.json) |
 | Probability 0 | 16739 | [16739-probability-0.json](./16739-probability-0.json) |
 | Probably Nothing | 367054 | [367054-probably-nothing.json](./367054-probably-nothing.json) |
 | Probationary Girlfriend | 266319 | [266319-probationary-girlfriend.json](./266319-probationary-girlfriend.json) |
@@ -6752,6 +6756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Heartbeat | 130920 | [130920-project-heartbeat.json](./130920-project-heartbeat.json) |
 | Project Hedra | 53481 | [53481-project-hedra.json](./53481-project-hedra.json) |
 | Project Helix | 317608 | [317608-project-helix.json](./317608-project-helix.json) |
+| Project Heroes | 68092 | [68092-project-heroes.json](./68092-project-heroes.json) |
 | Project Highrise: Las Vegas | 51884 | [51884-project-highrise-las-vegas.json](./51884-project-highrise-las-vegas.json) |
 | Project Highrise: London Life | 124801 | [124801-project-highrise-london-life.json](./124801-project-highrise-london-life.json) |
 | Project Highrise: Miami Malls | 51883 | [51883-project-highrise-miami-malls.json](./51883-project-highrise-miami-malls.json) |
