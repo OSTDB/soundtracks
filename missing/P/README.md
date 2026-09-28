@@ -3914,6 +3914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PK Scramble | 93521 | [93521-pk-scramble.json](./93521-pk-scramble.json) |
 | PK War | 367610 | [367610-pk-war.json](./367610-pk-war.json) |
 | Pk2022 | 188505 | [188505-pk2022.json](./188505-pk2022.json) |
+| PKR Let's Play | 62804 | [62804-pkr-lets-play.json](./62804-pkr-lets-play.json) |
 | Pl¢tfarmer | 307036 | [307036-pl-tfarmer.json](./307036-pl-tfarmer.json) |
 | PL4no-B | 340583 | [340583-pl4no-b.json](./340583-pl4no-b.json) |
 | Placards | 84815 | [84815-placards.json](./84815-placards.json) |
@@ -7185,6 +7186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proxima | 406840 | [406840-proxima.json](./406840-proxima.json) |
 | Proximate | 282108 | [282108-proximate.json](./282108-proximate.json) |
 | Proxy Adventure: Simulation Room | 346748 | [346748-proxy-adventure-simulation-room.json](./346748-proxy-adventure-simulation-room.json) |
+| Proxy Blade | 62825 | [62825-proxy-blade.json](./62825-proxy-blade.json) |
 | Proze: Enlightenment | 116132 | [116132-proze-enlightenment.json](./116132-proze-enlightenment.json) |
 | Prší | 99579 | [99579-prsi.json](./99579-prsi.json) |
 | PRTs | 176277 | [176277-prts.json](./176277-prts.json) |
