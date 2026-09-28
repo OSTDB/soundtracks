@@ -2152,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokoro Ultimate | 199352 | [199352-kokoro-ultimate.json](./199352-kokoro-ultimate.json) |
 | Kokoro: Baka-Monogatari | 150134 | [150134-kokoro-baka-monogatari.json](./150134-kokoro-baka-monogatari.json) |
 | Kokoro's Gensokyo Journey: The Lost Masks | 207773 | [207773-kokoros-gensokyo-journey-the-lost-masks.json](./207773-kokoros-gensokyo-journey-the-lost-masks.json) |
+| Kokorogawari | 107409 | [107409-kokorogawari.json](./107409-kokorogawari.json) |
 | Kokorogawari: Mini Quiz Game | 169944 | [169944-kokorogawari-mini-quiz-game.json](./169944-kokorogawari-mini-quiz-game.json) |
 | Kokoronull | 304558 | [304558-kokoronull.json](./304558-kokoronull.json) |
 | Kokorowa Onigiri Delivery | 206338 | [206338-kokorowa-onigiri-delivery.json](./206338-kokorowa-onigiri-delivery.json) |
