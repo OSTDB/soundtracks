@@ -1152,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bare Butt Boxing | 197269 | [197269-bare-butt-boxing.json](./197269-bare-butt-boxing.json) |
 | Bare Knuckle III | 151541 | [151541-bare-knuckle-iii.json](./151541-bare-knuckle-iii.json) |
 | Bare Knuckle Sandwich | 259046 | [259046-bare-knuckle-sandwich.json](./259046-bare-knuckle-sandwich.json) |
+| Bare Metal | 76688 | [76688-bare-metal.json](./76688-bare-metal.json) |
 | Barely Afloat | 123579 | [123579-barely-afloat.json](./123579-barely-afloat.json) |
 | Barely Floating | 138214 | [138214-barely-floating.json](./138214-barely-floating.json) |
 | Barezu ni Ikiru! | 212465 | [212465-barezu-ni-ikiru.json](./212465-barezu-ni-ikiru.json) |
@@ -6044,6 +6045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoxBoxBoy! | 19598 | [19598-boxboxboy.json](./19598-boxboxboy.json) |
 | Boxcars | 318425 | [318425-boxcars.json](./318425-boxcars.json) |
 | Boxcorp Employee Training | 179137 | [179137-boxcorp-employee-training.json](./179137-boxcorp-employee-training.json) |
+| Boxed In | 76687 | [76687-boxed-in.json](./76687-boxed-in.json) |
 | Boxed In | 95394 | [95394-boxed-in.json](./95394-boxed-in.json) |
 | Boxed Up! | 386837 | [386837-boxed-up.json](./386837-boxed-up.json) |
 | Boxer | 13699 | [13699-boxer.json](./13699-boxer.json) |
@@ -7810,6 +7812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Byflvgvr | 306686 | [306686-byflvgvr.json](./306686-byflvgvr.json) |
 | Bygg båtar med Mulle Meck: Specialversion | 319813 | [319813-bygg-batar-med-mulle-meck-specialversion.json](./319813-bygg-batar-med-mulle-meck-specialversion.json) |
 | Bygone Dreams | 149522 | [149522-bygone-dreams.json](./149522-bygone-dreams.json) |
+| Bygone Worlds: Drama at the Odeion | 76521 | [76521-bygone-worlds-drama-at-the-odeion.json](./76521-bygone-worlds-drama-at-the-odeion.json) |
 | Bygone Worlds: Jerusalem | 74446 | [74446-bygone-worlds-jerusalem.json](./74446-bygone-worlds-jerusalem.json) |
 | Bylina: Lure of the Sorceress | 298720 | [298720-bylina-lure-of-the-sorceress.json](./298720-bylina-lure-of-the-sorceress.json) |
 | ByLo | 234721 | [234721-bylo.json](./234721-bylo.json) |
