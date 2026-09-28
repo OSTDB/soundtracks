@@ -634,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venture’s Gauntlet VR: Multiplayer Update | 306960 | [306960-venture-s-gauntlet-vr-multiplayer-update.json](./306960-venture-s-gauntlet-vr-multiplayer-update.json) |
 | VentureVerse: Legend of Ulora | 108623 | [108623-ventureverse-legend-of-ulora.json](./108623-ventureverse-legend-of-ulora.json) |
 | Venturous in the Footsteps of the Fallen | 269565 | [269565-venturous-in-the-footsteps-of-the-fallen.json](./269565-venturous-in-the-footsteps-of-the-fallen.json) |
+| Venus & Braves: Majo to Megami to Horobi no Yogen | 84319 | [84319-venus-and-braves-majo-to-megami-to-horobi-no-yogen.json](./84319-venus-and-braves-majo-to-megami-to-horobi-no-yogen.json) |
 | Venus Flytraps | 234593 | [234593-venus-flytraps.json](./234593-venus-flytraps.json) |
 | Venus in Furs: Sensual Pleasure | 215674 | [215674-venus-in-furs-sensual-pleasure.json](./215674-venus-in-furs-sensual-pleasure.json) |
 | Venus in Transit | 395581 | [395581-venus-in-transit.json](./395581-venus-in-transit.json) |
@@ -1046,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viorate no Atelier: Gramnad no Renkinjutsushi 2 | 26515 | [26515-viorate-no-atelier-gramnad-no-renkinjutsushi-2.json](./26515-viorate-no-atelier-gramnad-no-renkinjutsushi-2.json) |
 | Vip Em Up - The action movies stars beat em up Ep.0 ( beta ) | 114348 | [114348-vip-em-up-the-action-movies-stars-beat-em-up-ep-0-beta.json](./114348-vip-em-up-the-action-movies-stars-beat-em-up-ep-0-beta.json) |
 | VIP Rebels | 154376 | [154376-vip-rebels.json](./154376-vip-rebels.json) |
+| VIP Spades | 84289 | [84289-vip-spades.json](./84289-vip-spades.json) |
 | Viper | 12901 | [12901-viper.json](./12901-viper.json) |
 | Viper Thunderground | 355099 | [355099-viper-thunderground.json](./355099-viper-thunderground.json) |
 | ViperTen16 | 313497 | [313497-viperten16.json](./313497-viperten16.json) |
