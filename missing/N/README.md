@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo: The World Ends with You x Field Walk RPG | 362436 | [362436-neo-the-world-ends-with-you-x-field-walk-rpg.json](./362436-neo-the-world-ends-with-you-x-field-walk-rpg.json) |
 | Neo's Land | 61632 | [61632-neos-land.json](./61632-neos-land.json) |
 | NeoBalls2 | 83560 | [83560-neoballs2.json](./83560-neoballs2.json) |
+| NeoCandy | 109900 | [109900-neocandy.json](./109900-neocandy.json) |
 | Neocense | 157060 | [157060-neocense.json](./157060-neocense.json) |
 | NeoCoins | 362268 | [362268-neocoins.json](./362268-neocoins.json) |
 | NeoCube | 148418 | [148418-neocube.json](./148418-neocube.json) |
