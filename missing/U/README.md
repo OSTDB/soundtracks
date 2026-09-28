@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Realistic Mine | 416820 | [416820-ultra-realistic-mine.json](./416820-ultra-realistic-mine.json) |
 | Ultra Rhythm | 227876 | [227876-ultra-rhythm.json](./227876-ultra-rhythm.json) |
 | Ultra SCSIcide | 40732 | [40732-ultra-scsicide.json](./40732-ultra-scsicide.json) |
+| Ultra Seven: Chikyuu Bouei Sakusen | 63959 | [63959-ultra-seven-chikyuu-bouei-sakusen.json](./63959-ultra-seven-chikyuu-bouei-sakusen.json) |
 | Ultra Street Fighter IV: 2014 Challengers Horror Pack | 225145 | [225145-ultra-street-fighter-iv-2014-challengers-horror-pack.json](./225145-ultra-street-fighter-iv-2014-challengers-horror-pack.json) |
 | Ultra Street Fighter IV: 2014 Challengers Vacation Pack | 225146 | [225146-ultra-street-fighter-iv-2014-challengers-vacation-pack.json](./225146-ultra-street-fighter-iv-2014-challengers-vacation-pack.json) |
 | Ultra Street Fighter IV: 2014 Challengers Wild Pack | 225147 | [225147-ultra-street-fighter-iv-2014-challengers-wild-pack.json](./225147-ultra-street-fighter-iv-2014-challengers-wild-pack.json) |
@@ -446,8 +447,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman Fighting Evolution 2 | 72608 | [72608-ultraman-fighting-evolution-2.json](./72608-ultraman-fighting-evolution-2.json) |
 | Ultraman Fighting Evolution 3 | 72605 | [72605-ultraman-fighting-evolution-3.json](./72605-ultraman-fighting-evolution-3.json) |
 | Ultraman Nexus | 66390 | [66390-ultraman-nexus.json](./66390-ultraman-nexus.json) |
+| Ultraman: Alphabet TV he Youkoso | 63951 | [63951-ultraman-alphabet-tv-he-youkoso.json](./63951-ultraman-alphabet-tv-he-youkoso.json) |
+| Ultraman: Hiragana Daisakusen | 63950 | [63950-ultraman-hiragana-daisakusen.json](./63950-ultraman-hiragana-daisakusen.json) |
 | Ultraman: Kaijuu Daikessen | 385839 | [385839-ultraman-kaijuu-daikessen.json](./385839-ultraman-kaijuu-daikessen.json) |
 | Ultraman: Kaijuu Teikoku no Gyakushuu | 41333 | [41333-ultraman-kaijuu-teikoku-no-gyakushuu.json](./41333-ultraman-kaijuu-teikoku-no-gyakushuu.json) |
+| Ultraman: Oide yo! Ultra Youchien | 63947 | [63947-ultraman-oide-yo-ultra-youchien.json](./63947-ultraman-oide-yo-ultra-youchien.json) |
+| Ultraman: Suuji de Asobou Ultra Land | 63940 | [63940-ultraman-suuji-de-asobou-ultra-land.json](./63940-ultraman-suuji-de-asobou-ultra-land.json) |
+| Ultraman: Ultraman Chinou UP Dai Sakusen | 63941 | [63941-ultraman-ultraman-chinou-up-dai-sakusen.json](./63941-ultraman-ultraman-chinou-up-dai-sakusen.json) |
 | Ultramarine: The Retro Game | 400450 | [400450-ultramarine-the-retro-game.json](./400450-ultramarine-the-retro-game.json) |
 | Ultranatural | 337447 | [337447-ultranatural.json](./337447-ultranatural.json) |
 | Ultranium 5 | 99988 | [99988-ultranium-5.json](./99988-ultranium-5.json) |
@@ -1132,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlich | 315711 | [315711-unlich.json](./315711-unlich.json) |
 | Unlife | 151127 | [151127-unlife.json](./151127-unlife.json) |
 | Unlikely Heroes | 80882 | [80882-unlikely-heroes.json](./80882-unlikely-heroes.json) |
+| Unlikely Suspects | 63916 | [63916-unlikely-suspects.json](./63916-unlikely-suspects.json) |
 | Unlimited | 268217 | [268217-unlimited.json](./268217-unlimited.json) |
 | Unlimited Adventures | 71492 | [71492-unlimited-adventures.json](./71492-unlimited-adventures.json) |
 | Unlimited Checkers | 71442 | [71442-unlimited-checkers.json](./71442-unlimited-checkers.json) |
