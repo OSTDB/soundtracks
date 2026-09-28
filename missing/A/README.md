@@ -2598,6 +2598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alive | 282657 | [282657-alive.json](./282657-alive.json) |
 | Alive | 287661 | [287661-alive.json](./287661-alive.json) |
 | Alive 4-ever Returns | 94758 | [94758-alive-4-ever-returns.json](./94758-alive-4-ever-returns.json) |
+| Alive! Jigsaw | 94344 | [94344-alive-jigsaw.json](./94344-alive-jigsaw.json) |
 | Alive? Dead? | 105514 | [105514-alive-dead.json](./105514-alive-dead.json) |
 | Aliya | 278728 | [278728-aliya.json](./278728-aliya.json) |
 | Aliya's Awakening: Dooge 2042 | 341887 | [341887-aliyas-awakening-dooge-2042.json](./341887-aliyas-awakening-dooge-2042.json) |
