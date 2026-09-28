@@ -2024,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regular Toad Game | 135125 | [135125-regular-toad-game.json](./135125-regular-toad-game.json) |
 | Regulus: The Advent | 373720 | [373720-regulus-the-advent.json](./373720-regulus-the-advent.json) |
 | Rehaunted | 410924 | [410924-rehaunted.json](./410924-rehaunted.json) |
+| Rehtona | 113857 | [113857-rehtona.json](./113857-rehtona.json) |
 | Reigen Doushi | 215135 | [215135-reigen-doushi.json](./215135-reigen-doushi.json) |
 | Reign and Ruin | 211662 | [211662-reign-and-ruin.json](./211662-reign-and-ruin.json) |
 | Reign Down | 280348 | [280348-reign-down.json](./280348-reign-down.json) |
@@ -3001,6 +3002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RhythmSnake | 123497 | [123497-rhythmsnake.json](./123497-rhythmsnake.json) |
 | RhythmStar | 230522 | [230522-rhythmstar.json](./230522-rhythmstar.json) |
 | Rhythmy | 116315 | [116315-rhythmy.json](./116315-rhythmy.json) |
+| Rhyup | 113899 | [113899-rhyup.json](./113899-rhyup.json) |
 | Ri Ri Ye Ye | 150515 | [150515-ri-ri-ye-ye.json](./150515-ri-ri-ye-ye.json) |
 | Ria's Hook | 95213 | [95213-rias-hook.json](./95213-rias-hook.json) |
 | Riaaf the Spider | 44114 | [44114-riaaf-the-spider.json](./44114-riaaf-the-spider.json) |
@@ -5345,6 +5347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run to Infinity: Impossible Mode | 230778 | [230778-run-to-infinity-impossible-mode.json](./230778-run-to-infinity-impossible-mode.json) |
 | Run to Nowhere | 206705 | [206705-run-to-nowhere.json](./206705-run-to-nowhere.json) |
 | Run Tom Hanks Run | 307294 | [307294-run-tom-hanks-run.json](./307294-run-tom-hanks-run.json) |
+| Run, chicken, run! | 113885 | [113885-run-chicken-run.json](./113885-run-chicken-run.json) |
 | Run, Doodleguy! | 211293 | [211293-run-doodleguy.json](./211293-run-doodleguy.json) |
 | Run, Poo, Run! | 388967 | [388967-run-poo-run.json](./388967-run-poo-run.json) |
 | Run, Veggies! | 358878 | [358878-run-veggies.json](./358878-run-veggies.json) |
