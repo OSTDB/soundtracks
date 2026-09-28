@@ -1622,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Cause 4 | 103261 | [103261-just-cause-4.json](./103261-just-cause-4.json) |
 | Just Cause 4: Dare Devils of Destruction | 117492 | [117492-just-cause-4-dare-devils-of-destruction.json](./117492-just-cause-4-dare-devils-of-destruction.json) |
 | Just Cause 4: Day One Edition | 201031 | [201031-just-cause-4-day-one-edition.json](./201031-just-cause-4-day-one-edition.json) |
+| Just Cause 4: Los Demonios | 118919 | [118919-just-cause-4-los-demonios.json](./118919-just-cause-4-los-demonios.json) |
 | Just Cause Collection | 53245 | [53245-just-cause-collection.json](./53245-just-cause-collection.json) |
 | Just Cause Collection Bundle | 384104 | [384104-just-cause-collection-bundle.json](./384104-just-cause-collection-bundle.json) |
 | Just Climb | 286011 | [286011-just-climb.json](./286011-just-climb.json) |
