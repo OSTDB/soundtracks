@@ -833,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark War: Survival | 329651 | [329651-dark-war-survival.json](./329651-dark-war-survival.json) |
 | Dark Watching: Chapter 1 | 383633 | [383633-dark-watching-chapter-1.json](./383633-dark-watching-chapter-1.json) |
 | Dark Wave | 104480 | [104480-dark-wave.json](./104480-dark-wave.json) |
+| Dark Wind: War on Wheels | 78069 | [78069-dark-wind-war-on-wheels.json](./78069-dark-wind-war-on-wheels.json) |
 | Dark Wish | 99011 | [99011-dark-wish.json](./99011-dark-wish.json) |
 | Dark Witch Music Episode: Rudymical | 28520 | [28520-dark-witch-music-episode-rudymical.json](./28520-dark-witch-music-episode-rudymical.json) |
 | Dark Witch Music Episode: Rudymical | 323918 | [323918-dark-witch-music-episode-rudymical.json](./323918-dark-witch-music-episode-rudymical.json) |
