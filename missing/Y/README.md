@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuletide Legends: Frozen Hearts | 415949 | [415949-yuletide-legends-frozen-hearts.json](./415949-yuletide-legends-frozen-hearts.json) |
 | Yuletide Regicide | 381113 | [381113-yuletide-regicide.json](./381113-yuletide-regicide.json) |
 | Yulhyul Kangho | 145569 | [145569-yulhyul-kangho.json](./145569-yulhyul-kangho.json) |
+| Yùlóng zài Tiān: Pínghéng Guózhàn Bǎn | 118295 | [118295-yulong-zai-tian-pingheng-guozhan-ban.json](./118295-yulong-zai-tian-pingheng-guozhan-ban.json) |
 | Yum Collector | 192287 | [192287-yum-collector.json](./192287-yum-collector.json) |
 | Yum Yum Line | 147266 | [147266-yum-yum-line.json](./147266-yum-yum-line.json) |
 | Yum Yum! Dating Show | 204456 | [204456-yum-yum-dating-show.json](./204456-yum-yum-dating-show.json) |
