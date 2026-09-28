@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Eat Paintings When Guards Aren't Looking | 394506 | [394506-i-eat-paintings-when-guards-arent-looking.json](./394506-i-eat-paintings-when-guards-arent-looking.json) |
 | I Expect You to Die 2 | 152218 | [152218-i-expect-you-to-die-2.json](./152218-i-expect-you-to-die-2.json) |
 | I Expect You to Die: Home Sweet Home | 223146 | [223146-i-expect-you-to-die-home-sweet-home.json](./223146-i-expect-you-to-die-home-sweet-home.json) |
+| I face the darkness | 113141 | [113141-i-face-the-darkness.json](./113141-i-face-the-darkness.json) |
 | I Feel Fantastic | 217834 | [217834-i-feel-fantastic.json](./217834-i-feel-fantastic.json) |
 | I Fell in Love with the Mentally Unstable Depressed Goth on Campus | 410903 | [410903-i-fell-in-love-with-the-mentally-unstable-depressed-goth-on-campus.json](./410903-i-fell-in-love-with-the-mentally-unstable-depressed-goth-on-campus.json) |
 | I Fetch Rocks | 153351 | [153351-i-fetch-rocks.json](./153351-i-fetch-rocks.json) |
