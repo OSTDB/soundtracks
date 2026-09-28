@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bald Man Climbs Up | 260988 | [260988-bald-man-climbs-up.json](./260988-bald-man-climbs-up.json) |
 | Baldi's Basics 1 Year Birthday Bash! | 176497 | [176497-baldis-basics-1-year-birthday-bash.json](./176497-baldis-basics-1-year-birthday-bash.json) |
 | Baldi's Basics: Encounter Doors | 353384 | [353384-baldis-basics-encounter-doors.json](./353384-baldis-basics-encounter-doors.json) |
+| Baldies | 90071 | [90071-baldies.json](./90071-baldies.json) |
 | Baldis Basics 2: High School | 105781 | [105781-baldis-basics-2-high-school.json](./105781-baldis-basics-2-high-school.json) |
 | Baldis Basics Calculator Sim | 106637 | [106637-baldis-basics-calculator-sim.json](./106637-baldis-basics-calculator-sim.json) |
 | Baldo: The Guardian Owls - The Three Fairies Edition | 200682 | [200682-baldo-the-guardian-owls-the-three-fairies-edition.json](./200682-baldo-the-guardian-owls-the-three-fairies-edition.json) |
@@ -1715,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Goldfish Scooping | 380121 | [380121-battle-of-goldfish-scooping.json](./380121-battle-of-goldfish-scooping.json) |
 | Battle of Guang | 358489 | [358489-battle-of-guang.json](./358489-battle-of-guang.json) |
 | Battle of Heroes 3 | 196877 | [196877-battle-of-heroes-3.json](./196877-battle-of-heroes-3.json) |
+| Battle of Keys | 90152 | [90152-battle-of-keys.json](./90152-battle-of-keys.json) |
 | Battle of Kingdom | 7772 | [7772-battle-of-kingdom.json](./7772-battle-of-kingdom.json) |
 | Battle of Kings | 101591 | [101591-battle-of-kings.json](./101591-battle-of-kings.json) |
 | Battle of Luzon 1945 | 103530 | [103530-battle-of-luzon-1945.json](./103530-battle-of-luzon-1945.json) |
@@ -4951,6 +4953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Wyrm | 331956 | [331956-blue-wyrm.json](./331956-blue-wyrm.json) |
 | Blue-Sky-Blue(s): Sora o Mau Tsubasa | 318594 | [318594-blue-sky-blue-s-sora-o-mau-tsubasa.json](./318594-blue-sky-blue-s-sora-o-mau-tsubasa.json) |
 | Blue: Store | 339452 | [339452-blue-store.json](./339452-blue-store.json) |
+| Blue. | 90131 | [90131-blue.json](./90131-blue.json) |
 | Blue's Birthday | 229070 | [229070-blues-birthday.json](./229070-blues-birthday.json) |
 | Blue's Clues Kindergarten | 7973 | [7973-blues-clues-kindergarten.json](./7973-blues-clues-kindergarten.json) |
 | Blue's Clues: Blue's Alphabet Book | 49911 | [49911-blues-clues-blues-alphabet-book.json](./49911-blues-clues-blues-alphabet-book.json) |
@@ -5177,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boing! | 95472 | [95472-boing.json](./95472-boing.json) |
 | Boing! Docomodake DS | 21473 | [21473-boing-docomodake-ds.json](./21473-boing-docomodake-ds.json) |
 | Boinihi: The Ki Codex | 172188 | [172188-boinihi-the-ki-codex.json](./172188-boinihi-the-ki-codex.json) |
+| Boink Zoink Hoink | 90100 | [90100-boink-zoink-hoink.json](./90100-boink-zoink-hoink.json) |
 | Bok-Bok: A Chicken Dating Sim | 148930 | [148930-bok-bok-a-chicken-dating-sim.json](./148930-bok-bok-a-chicken-dating-sim.json) |
 | BoKe Travelog | 292128 | [292128-boke-travelog.json](./292128-boke-travelog.json) |
 | Bokehme | 201761 | [201761-bokehme.json](./201761-bokehme.json) |
