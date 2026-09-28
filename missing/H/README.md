@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Wheels 2 | 95839 | [95839-happy-wheels-2.json](./95839-happy-wheels-2.json) |
 | Happy Wonderland Solitaire | 276200 | [276200-happy-wonderland-solitaire.json](./276200-happy-wonderland-solitaire.json) |
 | Happy Words | 117051 | [117051-happy-words.json](./117051-happy-words.json) |
+| Happy World | 118445 | [118445-happy-world.json](./118445-happy-world.json) |
 | Happy World | 273979 | [273979-happy-world.json](./273979-happy-world.json) |
 | Happy Z-Day | 153341 | [153341-happy-z-day.json](./153341-happy-z-day.json) |
 | Happy Zone | 193937 | [193937-happy-zone.json](./193937-happy-zone.json) |
@@ -992,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvester Tractor Farming Simulator Game | 174866 | [174866-harvester-tractor-farming-simulator-game.json](./174866-harvester-tractor-farming-simulator-game.json) |
 | Harvester vs. Zombies | 409751 | [409751-harvester-vs-zombies.json](./409751-harvester-vs-zombies.json) |
 | Hasamu | 40176 | [40176-hasamu.json](./40176-hasamu.json) |
+| Hasbro Family Fun Pack - Conquest Edition | 118454 | [118454-hasbro-family-fun-pack-conquest-edition.json](./118454-hasbro-family-fun-pack-conquest-edition.json) |
 | Hasbro Family Game Night 2 | 50606 | [50606-hasbro-family-game-night-2.json](./50606-hasbro-family-game-night-2.json) |
 | Hasbro Family Game Night 3 | 47434 | [47434-hasbro-family-game-night-3.json](./47434-hasbro-family-game-night-3.json) |
 | Hasbro Family Game Night: Volume 2 | 23253 | [23253-hasbro-family-game-night-volume-2.json](./23253-hasbro-family-game-night-volume-2.json) |
@@ -2350,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hercules | 95425 | [95425-hercules.json](./95425-hercules.json) |
 | Hercules V: Platinum Edition | 255765 | [255765-hercules-v-platinum-edition.json](./255765-hercules-v-platinum-edition.json) |
 | Hercules: The Legendary Journeys | 186028 | [186028-hercules-the-legendary-journeys.json](./186028-hercules-the-legendary-journeys.json) |
+| Herd is Coming | 118300 | [118300-herd-is-coming.json](./118300-herd-is-coming.json) |
 | Herd!!! | 234004 | [234004-herd.json](./234004-herd.json) |
 | Herdyn, Wanna be MaN | 154575 | [154575-herdyn-wanna-be-man.json](./154575-herdyn-wanna-be-man.json) |
 | Here | 396372 | [396372-here.json](./396372-here.json) |
