@@ -5841,6 +5841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mix-A-Max | 230929 | [230929-mix-a-max.json](./230929-mix-a-max.json) |
 | Mix-Sign: Girl with 3 Signs | 127845 | [127845-mix-sign-girl-with-3-signs.json](./127845-mix-sign-girl-with-3-signs.json) |
 | MixCD | 408070 | [408070-mixcd.json](./408070-mixcd.json) |
+| Mixed Estate | 111229 | [111229-mixed-estate.json](./111229-mixed-estate.json) |
 | Mixed Feelings 2: Elysium | 266913 | [266913-mixed-feelings-2-elysium.json](./266913-mixed-feelings-2-elysium.json) |
 | Mixed Guns | 216737 | [216737-mixed-guns.json](./216737-mixed-guns.json) |
 | Mixed Unit Tactics | 252983 | [252983-mixed-unit-tactics.json](./252983-mixed-unit-tactics.json) |
@@ -7652,6 +7653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Giggle 2 | 143043 | [143043-mr-giggle-2.json](./143043-mr-giggle-2.json) |
 | Mr Gun | 98848 | [98848-mr-gun.json](./98848-mr-gun.json) |
 | Mr Henry and his Magical Hat | 58508 | [58508-mr-henry-and-his-magical-hat.json](./58508-mr-henry-and-his-magical-hat.json) |
+| Mr Husky | 111210 | [111210-mr-husky.json](./111210-mr-husky.json) |
 | Mr Jack Pocket | 175410 | [175410-mr-jack-pocket.json](./175410-mr-jack-pocket.json) |
 | Mr Jorries! | 157136 | [157136-mr-jorries.json](./157136-mr-jorries.json) |
 | Mr Jump World | 217804 | [217804-mr-jump-world.json](./217804-mr-jump-world.json) |
