@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisy's Garden | 336605 | [336605-daisys-garden.json](./336605-daisys-garden.json) |
 | DaisyPop | 230230 | [230230-daisypop.json](./230230-daisypop.json) |
 | Daito Giken Koushiki Pachi-Slot Simulator: Hihouden - Ossu! Banchou: Yoshimune DS | 269571 | [269571-daito-giken-koushiki-pachi-slot-simulator-hihouden-ossu-banchou-yoshimune-ds.json](./269571-daito-giken-koushiki-pachi-slot-simulator-hihouden-ossu-banchou-yoshimune-ds.json) |
+| Daito Giken Koushiki Pachislot Simulator: 24- Twenty-Four | 65550 | [65550-daito-giken-koushiki-pachislot-simulator-24-twenty-four.json](./65550-daito-giken-koushiki-pachislot-simulator-24-twenty-four.json) |
 | Daitoride | 93512 | [93512-daitoride.json](./93512-daitoride.json) |
 | Daitoshokan no Hitsujikai: Dreaming Sheep | 125812 | [125812-daitoshokan-no-hitsujikai-dreaming-sheep.json](./125812-daitoshokan-no-hitsujikai-dreaming-sheep.json) |
 | Daiva Story 6: Imperial of Nirsartia | 65666 | [65666-daiva-story-6-imperial-of-nirsartia.json](./65666-daiva-story-6-imperial-of-nirsartia.json) |
@@ -698,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Mass | 336164 | [336164-dark-mass.json](./336164-dark-mass.json) |
 | Dark Maze | 148912 | [148912-dark-maze.json](./148912-dark-maze.json) |
 | Dark Maze 2 | 102393 | [102393-dark-maze-2.json](./102393-dark-maze-2.json) |
+| Dark Meadow: The Pact | 65599 | [65599-dark-meadow-the-pact.json](./65599-dark-meadow-the-pact.json) |
 | Dark Messiah of Might and Magic | 2369 | [2369-dark-messiah-of-might-and-magic.json](./2369-dark-messiah-of-might-and-magic.json) |
 | Dark Messiah of Might and Magic: Elements | 78210 | [78210-dark-messiah-of-might-and-magic-elements.json](./78210-dark-messiah-of-might-and-magic-elements.json) |
 | Dark Mine | 233440 | [233440-dark-mine.json](./233440-dark-mine.json) |
@@ -1800,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Boys: Fast Break! | 334860 | [334860-dear-boys-fast-break.json](./334860-dear-boys-fast-break.json) |
 | Dear Brother | 158562 | [158562-dear-brother.json](./158562-dear-brother.json) |
 | Dear Camy | 400479 | [400479-dear-camy.json](./400479-dear-camy.json) |
+| Dear Daniel no Sweet Adventure: Kitty-chan wo Sagashite | 65598 | [65598-dear-daniel-no-sweet-adventure-kitty-chan-wo-sagashite.json](./65598-dear-daniel-no-sweet-adventure-kitty-chan-wo-sagashite.json) |
 | Dear Delusion | 201574 | [201574-dear-delusion.json](./201574-dear-delusion.json) |
 | Dear Devere | 139324 | [139324-dear-devere.json](./139324-dear-devere.json) |
 | Dear Diary | 297233 | [297233-dear-diary.json](./297233-dear-diary.json) |
@@ -3195,6 +3198,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detana TwinBee Yahho! Deluxe Pack | 73358 | [73358-detana-twinbee-yahho-deluxe-pack.json](./73358-detana-twinbee-yahho-deluxe-pack.json) |
 | Detana!! TwinBee | 202103 | [202103-detana-twinbee.json](./202103-detana-twinbee.json) |
 | Detana!! TwinBee | 202104 | [202104-detana-twinbee.json](./202104-detana-twinbee.json) |
+| Detanabi Pro Yakyuu | 65591 | [65591-detanabi-pro-yakyuu.json](./65591-detanabi-pro-yakyuu.json) |
+| Detanabi Pro Yakyuu 2 | 65590 | [65590-detanabi-pro-yakyuu-2.json](./65590-detanabi-pro-yakyuu-2.json) |
 | DeTechtive 2112 | 295333 | [295333-detechtive-2112.json](./295333-detechtive-2112.json) |
 | Detect Occult | 183064 | [183064-detect-occult.json](./183064-detect-occult.json) |
 | Detective | 379886 | [379886-detective.json](./379886-detective.json) |
@@ -3951,6 +3956,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Battle: Jungle Adventure | 235166 | [235166-dino-battle-jungle-adventure.json](./235166-dino-battle-jungle-adventure.json) |
 | Dino Breeder | 64981 | [64981-dino-breeder.json](./64981-dino-breeder.json) |
 | Dino Breeder 2 | 63853 | [63853-dino-breeder-2.json](./63853-dino-breeder-2.json) |
+| Dino Breeder 3: Gaia Fukkatsu | 65585 | [65585-dino-breeder-3-gaia-fukkatsu.json](./65585-dino-breeder-3-gaia-fukkatsu.json) |
+| Dino Breeder 4 | 65587 | [65587-dino-breeder-4.json](./65587-dino-breeder-4.json) |
 | Dino Bros | 371323 | [371323-dino-bros.json](./371323-dino-bros.json) |
 | Dino Chomp | 351695 | [351695-dino-chomp.json](./351695-dino-chomp.json) |
 | Dino City | 42202 | [42202-dino-city.json](./42202-dino-city.json) |
@@ -4071,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur World | 140470 | [140470-dinosaur-world.json](./140470-dinosaur-world.json) |
 | Dinosaur World | 276205 | [276205-dinosaur-world.json](./276205-dinosaur-world.json) |
 | Dinosaur Zookeeper | 318233 | [318233-dinosaur-zookeeper.json](./318233-dinosaur-zookeeper.json) |
+| Dinosaur'us | 65584 | [65584-dinosaurus.json](./65584-dinosaurus.json) |
 | Dinosaurily | 242511 | [242511-dinosaurily.json](./242511-dinosaurily.json) |
 | Dinosaurium | 395865 | [395865-dinosaurium.json](./395865-dinosaurium.json) |
 | Dinosaurs - Connect the Dots and Add Colors | 86725 | [86725-dinosaurs-connect-the-dots-and-add-colors.json](./86725-dinosaurs-connect-the-dots-and-add-colors.json) |
@@ -4409,6 +4417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Atlantis: The Lost Empire | 248625 | [248625-disneys-atlantis-the-lost-empire.json](./248625-disneys-atlantis-the-lost-empire.json) |
 | Disney's Atlantis: The Lost Empire | 9056 | [9056-disneys-atlantis-the-lost-empire.json](./9056-disneys-atlantis-the-lost-empire.json) |
 | Disney's Atlantis: The Lost Empire - Trial by Fire | 78004 | [78004-disneys-atlantis-the-lost-empire-trial-by-fire.json](./78004-disneys-atlantis-the-lost-empire-trial-by-fire.json) |
+| Disney's Beauty and the Beast: A Board Game Adventure | 65583 | [65583-disneys-beauty-and-the-beast-a-board-game-adventure.json](./65583-disneys-beauty-and-the-beast-a-board-game-adventure.json) |
 | Disney's Beauty and the Beast: Magical Ballroom | 57919 | [57919-disneys-beauty-and-the-beast-magical-ballroom.json](./57919-disneys-beauty-and-the-beast-magical-ballroom.json) |
 | Disney's Bonkers: Wax Up! | 57622 | [57622-disneys-bonkers-wax-up.json](./57622-disneys-bonkers-wax-up.json) |
 | Disney's Brother Bear | 248637 | [248637-disneys-brother-bear.json](./248637-disneys-brother-bear.json) |
@@ -5004,6 +5013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokapon | 79598 | [79598-dokapon.json](./79598-dokapon.json) |
 | Dokapon Kingdom: Connect | 234349 | [234349-dokapon-kingdom-connect.json](./234349-dokapon-kingdom-connect.json) |
 | Dokapon! Ikari no Tetsuken | 81411 | [81411-dokapon-ikari-no-tetsuken.json](./81411-dokapon-ikari-no-tetsuken.json) |
+| Dokapon?! Millennium Quest | 65546 | [65546-dokapon-millennium-quest.json](./65546-dokapon-millennium-quest.json) |
 | Doki Doki A Slice Of Life | 333928 | [333928-doki-doki-a-slice-of-life.json](./333928-doki-doki-a-slice-of-life.json) |
 | Doki Doki A Summer's Requiem | 361806 | [361806-doki-doki-a-summers-requiem.json](./361806-doki-doki-a-summers-requiem.json) |
 | Doki Doki Ace Attorney | 314043 | [314043-doki-doki-ace-attorney.json](./314043-doki-doki-ace-attorney.json) |
@@ -6638,6 +6648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawn: The Painted Tower | 11234 | [11234-drawn-the-painted-tower.json](./11234-drawn-the-painted-tower.json) |
 | Drawngeon: Dungeons of Ink and Paper | 113810 | [113810-drawngeon-dungeons-of-ink-and-paper.json](./113810-drawngeon-dungeons-of-ink-and-paper.json) |
 | Drawquarium | 374055 | [374055-drawquarium.json](./374055-drawquarium.json) |
+| Drawsome Sketch Quest | 65548 | [65548-drawsome-sketch-quest.json](./65548-drawsome-sketch-quest.json) |
 | drawwars.io | 389104 | [389104-drawwars-io.json](./389104-drawwars-io.json) |
 | DRazor | 156084 | [156084-drazor.json](./156084-drazor.json) |
 | Dread | 130910 | [130910-dread.json](./130910-dread.json) |
