@@ -1512,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReBounce | 66368 | [66368-rebounce.json](./66368-rebounce.json) |
 | Rebound Ball | 127222 | [127222-rebound-ball.json](./127222-rebound-ball.json) |
 | Rebound Balls | 240210 | [240210-rebound-balls.json](./240210-rebound-balls.json) |
+| Rebound Dodgeball Evolved | 117181 | [117181-rebound-dodgeball-evolved.json](./117181-rebound-dodgeball-evolved.json) |
 | Rebound Raver | 147363 | [147363-rebound-raver.json](./147363-rebound-raver.json) |
 | Rebound Rivals | 311120 | [311120-rebound-rivals.json](./311120-rebound-rivals.json) |
 | RebreatheR | 373203 | [373203-rebreather.json](./373203-rebreather.json) |
@@ -3812,6 +3813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Army | 46786 | [46786-robo-army.json](./46786-robo-army.json) |
 | Robo Boop | 89970 | [89970-robo-boop.json](./89970-robo-boop.json) |
 | Robo Go | 165715 | [165715-robo-go.json](./165715-robo-go.json) |
+| Robo Miner 2 | 117175 | [117175-robo-miner-2.json](./117175-robo-miner-2.json) |
 | Robo Oh | 158159 | [158159-robo-oh.json](./158159-robo-oh.json) |
 | Robo Panic | 307599 | [307599-robo-panic.json](./307599-robo-panic.json) |
 | Robo Pose | 296354 | [296354-robo-pose.json](./296354-robo-pose.json) |
