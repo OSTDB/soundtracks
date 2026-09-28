@@ -1575,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payrates | 405522 | [405522-payrates.json](./405522-payrates.json) |
 | Paze Knight Ellen and the Dungeon Town Sodom | 244482 | [244482-paze-knight-ellen-and-the-dungeon-town-sodom.json](./244482-paze-knight-ellen-and-the-dungeon-town-sodom.json) |
 | PazuDora Gold | 120866 | [120866-pazudora-gold.json](./120866-pazudora-gold.json) |
+| Pazuru | 85595 | [85595-pazuru.json](./85595-pazuru.json) |
 | Pazuru in Airou | 65177 | [65177-pazuru-in-airou.json](./65177-pazuru-in-airou.json) |
 | PB Makes Lunch | 177411 | [177411-pb-makes-lunch.json](./177411-pb-makes-lunch.json) |
 | PBA Bowling 2 | 94674 | [94674-pba-bowling-2.json](./94674-pba-bowling-2.json) |
@@ -1719,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peg Champ | 411111 | [411111-peg-champ.json](./411111-peg-champ.json) |
 | Peg Solitaire | 171493 | [171493-peg-solitaire.json](./171493-peg-solitaire.json) |
 | Peg Solitaire | 57062 | [57062-peg-solitaire.json](./57062-peg-solitaire.json) |
+| Peg Solitaire | 85594 | [85594-peg-solitaire.json](./85594-peg-solitaire.json) |
 | Peg Solitaire Pro | 391343 | [391343-peg-solitaire-pro.json](./391343-peg-solitaire-pro.json) |
 | Pega Game | 333614 | [333614-pega-game.json](./333614-pega-game.json) |
 | Pegafuerte el Terrible | 249479 | [249479-pegafuerte-el-terrible.json](./249479-pegafuerte-el-terrible.json) |
@@ -2882,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilfer | 388710 | [388710-pilfer.json](./388710-pilfer.json) |
 | Pilgrim | 229788 | [229788-pilgrim.json](./229788-pilgrim.json) |
 | Pilgrim | 301813 | [301813-pilgrim.json](./301813-pilgrim.json) |
+| Pilgrim | 85593 | [85593-pilgrim.json](./85593-pilgrim.json) |
 | Pilgrim Adventures Complete | 53459 | [53459-pilgrim-adventures-complete.json](./53459-pilgrim-adventures-complete.json) |
 | Pilgrim of Darkness | 346145 | [346145-pilgrim-of-darkness.json](./346145-pilgrim-of-darkness.json) |
 | Pilgrim: Faith as a Weapon | 71229 | [71229-pilgrim-faith-as-a-weapon.json](./71229-pilgrim-faith-as-a-weapon.json) |
@@ -3514,6 +3517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel of War | 294424 | [294424-pixel-of-war.json](./294424-pixel-of-war.json) |
 | Pixel Origin | 104654 | [104654-pixel-origin.json](./104654-pixel-origin.json) |
 | Pixel Paint | 84818 | [84818-pixel-paint.json](./84818-pixel-paint.json) |
+| Pixel Paint | 85592 | [85592-pixel-paint.json](./85592-pixel-paint.json) |
 | Pixel Paint - Coloring games | 108520 | [108520-pixel-paint-coloring-games.json](./108520-pixel-paint-coloring-games.json) |
 | Pixel Paint 2: Complete Edition | 277909 | [277909-pixel-paint-2-complete-edition.json](./277909-pixel-paint-2-complete-edition.json) |
 | Pixel Paint 2: Definitive Edition | 275031 | [275031-pixel-paint-2-definitive-edition.json](./275031-pixel-paint-2-definitive-edition.json) |
@@ -5917,6 +5921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prehistoric Warcraft | 235703 | [235703-prehistoric-warcraft.json](./235703-prehistoric-warcraft.json) |
 | Prehistorik | 10717 | [10717-prehistorik.json](./10717-prehistorik.json) |
 | Prehistorik Man | 159266 | [159266-prehistorik-man.json](./159266-prehistorik-man.json) |
+| Prehistorik Man | 85589 | [85589-prehistorik-man.json](./85589-prehistorik-man.json) |
 | Prelogate | 36151 | [36151-prelogate.json](./36151-prelogate.json) |
 | Prelude Gardens | 395576 | [395576-prelude-gardens.json](./395576-prelude-gardens.json) |
 | Premier Action | 70915 | [70915-premier-action.json](./70915-premier-action.json) |
@@ -6485,6 +6490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Procyon | 16884 | [16884-procyon.json](./16884-procyon.json) |
 | Procyon | 218130 | [218130-procyon.json](./218130-procyon.json) |
 | Prodigal | 304099 | [304099-prodigal.json](./304099-prodigal.json) |
+| Prodigy | 85588 | [85588-prodigy.json](./85588-prodigy.json) |
 | Prodigy Racing | 311287 | [311287-prodigy-racing.json](./311287-prodigy-racing.json) |
 | Prodigy Tactics | 77360 | [77360-prodigy-tactics.json](./77360-prodigy-tactics.json) |
 | Prodoomer | 201234 | [201234-prodoomer.json](./201234-prodoomer.json) |
@@ -6737,6 +6743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Mansion | 317605 | [317605-project-mansion.json](./317605-project-mansion.json) |
 | Project Martians | 165698 | [165698-project-martians.json](./165698-project-martians.json) |
 | Project Maze | 68586 | [68586-project-maze.json](./68586-project-maze.json) |
+| Project Mekuru | 85587 | [85587-project-mekuru.json](./85587-project-mekuru.json) |
 | Project Mercenaria | 367390 | [367390-project-mercenaria.json](./367390-project-mercenaria.json) |
 | Project Michael: The Halloween Nightmare | 272804 | [272804-project-michael-the-halloween-nightmare.json](./272804-project-michael-the-halloween-nightmare.json) |
 | Project Microchip | 392269 | [392269-project-microchip.json](./392269-project-microchip.json) |
@@ -7606,6 +7613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putty | 39022 | [39022-putty.json](./39022-putty.json) |
 | Putty Pals | 32866 | [32866-putty-pals.json](./32866-putty-pals.json) |
 | Putty Squad | 39021 | [39021-putty-squad.json](./39021-putty-squad.json) |
+| Putty Squad | 85584 | [85584-putty-squad.json](./85584-putty-squad.json) |
 | Puyo Pop | 23455 | [23455-puyo-pop.json](./23455-puyo-pop.json) |
 | Puyo Puyo | 146876 | [146876-puyo-puyo.json](./146876-puyo-puyo.json) |
 | Puyo Puyo | 249773 | [249773-puyo-puyo.json](./249773-puyo-puyo.json) |
@@ -7749,6 +7757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Mate DS: Crossword Mate | 306451 | [306451-puzzle-mate-ds-crossword-mate.json](./306451-puzzle-mate-ds-crossword-mate.json) |
 | Puzzle Mate DS: Nanpure Mate | 306449 | [306449-puzzle-mate-ds-nanpure-mate.json](./306449-puzzle-mate-ds-nanpure-mate.json) |
 | Puzzle Mate DS: Oekaki Mate | 306448 | [306448-puzzle-mate-ds-oekaki-mate.json](./306448-puzzle-mate-ds-oekaki-mate.json) |
+| Puzzle Monkeys | 85583 | [85583-puzzle-monkeys.json](./85583-puzzle-monkeys.json) |
 | Puzzle Myth | 93374 | [93374-puzzle-myth.json](./93374-puzzle-myth.json) |
 | Puzzle Nebula | 32165 | [32165-puzzle-nebula.json](./32165-puzzle-nebula.json) |
 | Puzzle Nintama Rantarou GB | 97863 | [97863-puzzle-nintama-rantarou-gb.json](./97863-puzzle-nintama-rantarou-gb.json) |
@@ -7925,6 +7934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid: Challenge of the Pharaoh's Dream | 266201 | [266201-pyramid-challenge-of-the-pharaohs-dream.json](./266201-pyramid-challenge-of-the-pharaohs-dream.json) |
 | Pyramida | 136491 | [136491-pyramida.json](./136491-pyramida.json) |
 | Pyramidion | 377261 | [377261-pyramidion.json](./377261-pyramidion.json) |
+| Pyramids 2 | 85582 | [85582-pyramids-2.json](./85582-pyramids-2.json) |
 | Pyramids and Aliens: Escape Room | 295019 | [295019-pyramids-and-aliens-escape-room.json](./295019-pyramids-and-aliens-escape-room.json) |
 | PyramidValley: Reborn | 353395 | [353395-pyramidvalley-reborn.json](./353395-pyramidvalley-reborn.json) |
 | Pyramis | 397668 | [397668-pyramis.json](./397668-pyramis.json) |
