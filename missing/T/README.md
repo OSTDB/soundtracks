@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Riders | 61065 | [61065-tank-riders.json](./61065-tank-riders.json) |
 | Tank rush | 102151 | [102151-tank-rush.json](./102151-tank-rush.json) |
 | Tank Side Story | 156075 | [156075-tank-side-story.json](./156075-tank-side-story.json) |
+| Tank Souls | 107387 | [107387-tank-souls.json](./107387-tank-souls.json) |
 | Tank Squad: Battle Hero | 233087 | [233087-tank-squad-battle-hero.json](./233087-tank-squad-battle-hero.json) |
 | Tank Stars | 104105 | [104105-tank-stars.json](./104105-tank-stars.json) |
 | Tank Storage | 258448 | [258448-tank-storage.json](./258448-tank-storage.json) |
@@ -1691,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of the Faceless Minotaur Who Sees the Burning Light | 128616 | [128616-temple-of-the-faceless-minotaur-who-sees-the-burning-light.json](./128616-temple-of-the-faceless-minotaur-who-sees-the-burning-light.json) |
 | Temple of the Lizardmen | 142486 | [142486-temple-of-the-lizardmen.json](./142486-temple-of-the-lizardmen.json) |
 | Temple of the Lizardmen 2 | 142487 | [142487-temple-of-the-lizardmen-2.json](./142487-temple-of-the-lizardmen-2.json) |
+| Temple of the Lost | 107410 | [107410-temple-of-the-lost.json](./107410-temple-of-the-lost.json) |
 | Temple of the Thousand-Faced Moon | 271312 | [271312-temple-of-the-thousand-faced-moon.json](./271312-temple-of-the-thousand-faced-moon.json) |
 | Temple Roll | 256231 | [256231-temple-roll.json](./256231-temple-roll.json) |
 | Temple Run 2 | 336388 | [336388-temple-run-2.json](./336388-temple-run-2.json) |
@@ -2405,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Bunny and Pig | 265127 | [265127-the-adventures-of-bunny-and-pig.json](./265127-the-adventures-of-bunny-and-pig.json) |
 | The Adventures of Busy Billy | 206207 | [206207-the-adventures-of-busy-billy.json](./206207-the-adventures-of-busy-billy.json) |
 | The Adventures of Capitano Navarro | 51512 | [51512-the-adventures-of-capitano-navarro.json](./51512-the-adventures-of-capitano-navarro.json) |
+| The Adventures of Captain Potato | 107396 | [107396-the-adventures-of-captain-potato.json](./107396-the-adventures-of-captain-potato.json) |
 | The Adventures of Clive McMulligan on Planet Zeta Four | 94774 | [94774-the-adventures-of-clive-mcmulligan-on-planet-zeta-four.json](./94774-the-adventures-of-clive-mcmulligan-on-planet-zeta-four.json) |
 | The Adventures of Crackhead Jack: Overdose Edition | 141156 | [141156-the-adventures-of-crackhead-jack-overdose-edition.json](./141156-the-adventures-of-crackhead-jack-overdose-edition.json) |
 | The Adventures of Darwin | 20371 | [20371-the-adventures-of-darwin.json](./20371-the-adventures-of-darwin.json) |
@@ -4382,6 +4385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Goonies | 41375 | [41375-the-goonies.json](./41375-the-goonies.json) |
 | The Goonies: The Fan Game | 326990 | [326990-the-goonies-the-fan-game.json](./326990-the-goonies-the-fan-game.json) |
 | The Goose Tale | 290004 | [290004-the-goose-tale.json](./290004-the-goose-tale.json) |
+| The Goracle | 107394 | [107394-the-goracle.json](./107394-the-goracle.json) |
 | The Gorcs' Forge | 158573 | [158573-the-gorcs-forge.json](./158573-the-gorcs-forge.json) |
 | The Gorge | 322392 | [322392-the-gorge.json](./322392-the-gorge.json) |
 | The Goto Family's: The Island Murder Case | 150112 | [150112-the-goto-familys-the-island-murder-case.json](./150112-the-goto-familys-the-island-murder-case.json) |
@@ -5094,6 +5098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land of Stuff | 386294 | [386294-the-land-of-stuff.json](./386294-the-land-of-stuff.json) |
 | The Land of the Magnates | 289865 | [289865-the-land-of-the-magnates.json](./289865-the-land-of-the-magnates.json) |
 | The Land of the Scurvy Dog | 176447 | [176447-the-land-of-the-scurvy-dog.json](./176447-the-land-of-the-scurvy-dog.json) |
+| The Land of the Seazogs | 107372 | [107372-the-land-of-the-seazogs.json](./107372-the-land-of-the-seazogs.json) |
 | The Land: Elf no Mori | 302963 | [302963-the-land-elf-no-mori.json](./302963-the-land-elf-no-mori.json) |
 | The Lands of Hyberian | 289996 | [289996-the-lands-of-hyberian.json](./289996-the-lands-of-hyberian.json) |
 | The Language of Love | 118052 | [118052-the-language-of-love.json](./118052-the-language-of-love.json) |
@@ -8755,6 +8760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdom: The Journey | 166618 | [166618-three-kingdom-the-journey.json](./166618-three-kingdom-the-journey.json) |
 | Three Kingdom: Zhang Jiao Revival | 374060 | [374060-three-kingdom-zhang-jiao-revival.json](./374060-three-kingdom-zhang-jiao-revival.json) |
 | Three Kingdoms | 355205 | [355205-three-kingdoms.json](./355205-three-kingdoms.json) |
+| Three Kingdoms 2019 | 107421 | [107421-three-kingdoms-2019.json](./107421-three-kingdoms-2019.json) |
 | Three Kingdoms 2025 | 368017 | [368017-three-kingdoms-2025.json](./368017-three-kingdoms-2025.json) |
 | Three Kingdoms 21 | 149094 | [149094-three-kingdoms-21.json](./149094-three-kingdoms-21.json) |
 | Three Kingdoms Front | 339098 | [339098-three-kingdoms-front.json](./339098-three-kingdoms-front.json) |
@@ -11048,6 +11054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony La Russa Baseball 2 | 95465 | [95465-tony-la-russa-baseball-2.json](./95465-tony-la-russa-baseball-2.json) |
 | Tony La Russa's Ultimate Baseball | 95470 | [95470-tony-la-russas-ultimate-baseball.json](./95470-tony-la-russas-ultimate-baseball.json) |
 | Tony Meola's Sidekicks Soccer | 42540 | [42540-tony-meolas-sidekicks-soccer.json](./42540-tony-meolas-sidekicks-soccer.json) |
+| Tony Slopes | 107371 | [107371-tony-slopes.json](./107371-tony-slopes.json) |
 | Tony Stewart Racing | 362901 | [362901-tony-stewart-racing.json](./362901-tony-stewart-racing.json) |
 | Tony Stewart's All American Racing Bundle | 141785 | [141785-tony-stewarts-all-american-racing-bundle.json](./141785-tony-stewarts-all-american-racing-bundle.json) |
 | Tony Stewart's All-American Racing | 139980 | [139980-tony-stewarts-all-american-racing.json](./139980-tony-stewarts-all-american-racing.json) |
