@@ -4230,6 +4230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovering the Dinosaurs | 105755 | [105755-discovering-the-dinosaurs.json](./105755-discovering-the-dinosaurs.json) |
 | Discovery Freelancer | 111445 | [111445-discovery-freelancer.json](./111445-discovery-freelancer.json) |
 | Discovery Islands | 399706 | [399706-discovery-islands.json](./399706-discovery-islands.json) |
+| Discovery Kids: Dolphin Discovery | 72755 | [72755-discovery-kids-dolphin-discovery.json](./72755-discovery-kids-dolphin-discovery.json) |
 | Discovery Kids: Kitten Corner | 72957 | [72957-discovery-kids-kitten-corner.json](./72957-discovery-kids-kitten-corner.json) |
 | Discovery Kids: Pony Paradise | 69273 | [69273-discovery-kids-pony-paradise.json](./69273-discovery-kids-pony-paradise.json) |
 | Discovery Kids: Spider Quest | 67308 | [67308-discovery-kids-spider-quest.json](./67308-discovery-kids-spider-quest.json) |
@@ -5948,6 +5949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr Smart Space Encyclopedia | 242046 | [242046-dr-smart-space-encyclopedia.json](./242046-dr-smart-space-encyclopedia.json) |
 | Dr. Bon Bon Puzzle | 229346 | [229346-dr-bon-bon-puzzle.json](./229346-dr-bon-bon-puzzle.json) |
 | Dr. Brain Thinking Games IQ Adventures | 72726 | [72726-dr-brain-thinking-games-iq-adventures.json](./72726-dr-brain-thinking-games-iq-adventures.json) |
+| Dr. Brain Thinking Games: Puzzle Madness | 72141 | [72141-dr-brain-thinking-games-puzzle-madness.json](./72141-dr-brain-thinking-games-puzzle-madness.json) |
 | Dr. Bulbaceous | 34806 | [34806-dr-bulbaceous.json](./34806-dr-bulbaceous.json) |
 | Dr. Calgory's Lab: a 3D steampunk puzzle adventure game | 88312 | [88312-dr-calgorys-lab-a-3d-steampunk-puzzle-adventure-game.json](./88312-dr-calgorys-lab-a-3d-steampunk-puzzle-adventure-game.json) |
 | Dr. Chaos: Shadows of Mars | 268760 | [268760-dr-chaos-shadows-of-mars.json](./268760-dr-chaos-shadows-of-mars.json) |
@@ -6129,6 +6131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball 3: Goku-den | 48679 | [48679-dragon-ball-3-goku-den.json](./48679-dragon-ball-3-goku-den.json) |
 | Dragon Ball Budokai AF | 180246 | [180246-dragon-ball-budokai-af.json](./180246-dragon-ball-budokai-af.json) |
 | Dragon Ball Devolution | 159246 | [159246-dragon-ball-devolution.json](./159246-dragon-ball-devolution.json) |
+| Dragon Ball Extreme Fusion Pack | 72764 | [72764-dragon-ball-extreme-fusion-pack.json](./72764-dragon-ball-extreme-fusion-pack.json) |
 | Dragon Ball FighterZ | 36911 | [36911-dragon-ball-fighterz.json](./36911-dragon-ball-fighterz.json) |
 | Dragon Ball FighterZ and Dragon Ball Xenoverse 2 Double Pack | 144760 | [144760-dragon-ball-fighterz-and-dragon-ball-xenoverse-2-double-pack.json](./144760-dragon-ball-fighterz-and-dragon-ball-xenoverse-2-double-pack.json) |
 | Dragon Ball FighterZ: Commentator Voice Pack | 366823 | [366823-dragon-ball-fighterz-commentator-voice-pack.json](./366823-dragon-ball-fighterz-commentator-voice-pack.json) |
@@ -6531,6 +6534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DrainSim | 303490 | [303490-drainsim.json](./303490-drainsim.json) |
 | Draíocht | 141076 | [141076-draiocht.json](./141076-draiocht.json) |
 | Drak | 168390 | [168390-drak.json](./168390-drak.json) |
+| Drak | 72148 | [72148-drak.json](./72148-drak.json) |
 | Drak(c)ula | 298682 | [298682-drak-c-ula.json](./298682-drak-c-ula.json) |
 | Drakan: Order of the Flame | 7576 | [7576-drakan-order-of-the-flame.json](./7576-drakan-order-of-the-flame.json) |
 | Drake | 134654 | [134654-drake.json](./134654-drake.json) |
@@ -7207,6 +7211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drug Lord 2 | 71473 | [71473-drug-lord-2.json](./71473-drug-lord-2.json) |
 | Drug Lords | 193228 | [193228-drug-lords.json](./193228-drug-lords.json) |
 | Drug Prince & Narcotic Girl for Nintendo Switch | 255630 | [255630-drug-prince-and-narcotic-girl-for-nintendo-switch.json](./255630-drug-prince-and-narcotic-girl-for-nintendo-switch.json) |
+| Drug Wars: A Game Based on the New York Drug Market | 72172 | [72172-drug-wars-a-game-based-on-the-new-york-drug-market.json](./72172-drug-wars-a-game-based-on-the-new-york-drug-market.json) |
 | Drug Watch | 130838 | [130838-drug-watch.json](./130838-drug-watch.json) |
 | Drugs and Crime Idle | 153426 | [153426-drugs-and-crime-idle.json](./153426-drugs-and-crime-idle.json) |
 | Drugs to Bee | 103447 | [103447-drugs-to-bee.json](./103447-drugs-to-bee.json) |
@@ -7348,6 +7353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dub Dash | 19977 | [19977-dub-dash.json](./19977-dub-dash.json) |
 | Dubai Builder | 272247 | [272247-dubai-builder.json](./272247-dubai-builder.json) |
 | Dubbed | 416687 | [416687-dubbed.json](./416687-dubbed.json) |
+| Dubbelmoral | 72606 | [72606-dubbelmoral.json](./72606-dubbelmoral.json) |
 | Dubbing Time | 156623 | [156623-dubbing-time.json](./156623-dubbing-time.json) |
 | Dubium | 182352 | [182352-dubium.json](./182352-dubium.json) |
 | Dubstep Abasralsa | 102407 | [102407-dubstep-abasralsa.json](./102407-dubstep-abasralsa.json) |
@@ -8105,6 +8111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying: Reborn | 27569 | [27569-dying-reborn.json](./27569-dying-reborn.json) |
 | Dying: Reborn + Dying: Reborn VR Bundle | 217861 | [217861-dying-reborn-dying-reborn-vr-bundle.json](./217861-dying-reborn-dying-reborn-vr-bundle.json) |
 | Dylan Dog: Horror Luna Park | 70970 | [70970-dylan-dog-horror-luna-park.json](./70970-dylan-dog-horror-luna-park.json) |
+| Dylan Dog: Le Notti della Luna Piena | 72140 | [72140-dylan-dog-le-notti-della-luna-piena.json](./72140-dylan-dog-le-notti-della-luna-piena.json) |
 | Dylan Dog: Through the Looking Glass | 12422 | [12422-dylan-dog-through-the-looking-glass.json](./12422-dylan-dog-through-the-looking-glass.json) |
 | Dymension | 191262 | [191262-dymension.json](./191262-dymension.json) |
 | Dyna Blade | 271260 | [271260-dyna-blade.json](./271260-dyna-blade.json) |
