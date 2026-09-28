@@ -1101,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dave | 111682 | [111682-dave.json](./111682-dave.json) |
 | Dave a Nice Guy | 365263 | [365263-dave-a-nice-guy.json](./365263-dave-a-nice-guy.json) |
 | Dave Goes Nutz! | 11389 | [11389-dave-goes-nutz.json](./11389-dave-goes-nutz.json) |
+| Dave in Danger | 94884 | [94884-dave-in-danger.json](./94884-dave-in-danger.json) |
 | Dave Mirra Freestyle BMX 2 | 3871 | [3871-dave-mirra-freestyle-bmx-2.json](./3871-dave-mirra-freestyle-bmx-2.json) |
 | Dave Mirra Freestyle BMX: Maximum Remix | 84166 | [84166-dave-mirra-freestyle-bmx-maximum-remix.json](./84166-dave-mirra-freestyle-bmx-maximum-remix.json) |
 | Dave the Bird | 244367 | [244367-dave-the-bird.json](./244367-dave-the-bird.json) |
