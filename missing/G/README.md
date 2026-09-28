@@ -2475,6 +2475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of War Trilogy | 44653 | [44653-god-of-war-trilogy.json](./44653-god-of-war-trilogy.json) |
 | God of War Trilogy Remake | 389441 | [389441-god-of-war-trilogy-remake.json](./389441-god-of-war-trilogy-remake.json) |
 | God of War: Ascension - Special Edition | 44664 | [44664-god-of-war-ascension-special-edition.json](./44664-god-of-war-ascension-special-edition.json) |
+| God of War: Ascension - Ultimate Edition | 118907 | [118907-god-of-war-ascension-ultimate-edition.json](./118907-god-of-war-ascension-ultimate-edition.json) |
 | God of War: Betrayal | 21233 | [21233-god-of-war-betrayal.json](./21233-god-of-war-betrayal.json) |
 | God of War: Limited Edition | 115067 | [115067-god-of-war-limited-edition.json](./115067-god-of-war-limited-edition.json) |
 | God Opens the Door | 177405 | [177405-god-opens-the-door.json](./177405-god-opens-the-door.json) |
