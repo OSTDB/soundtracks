@@ -2390,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharos | 340568 | [340568-pharos.json](./340568-pharos.json) |
 | Phase | 377172 | [377172-phase.json](./377172-phase.json) |
 | Phase | 72078 | [72078-phase.json](./72078-phase.json) |
+| Phase 10 Dice | 83455 | [83455-phase-10-dice.json](./83455-phase-10-dice.json) |
 | Phase 10 Online | 144843 | [144843-phase-10-online.json](./144843-phase-10-online.json) |
 | Phase Cross | 347787 | [347787-phase-cross.json](./347787-phase-cross.json) |
 | Phase Edge | 53458 | [53458-phase-edge.json](./53458-phase-edge.json) |
@@ -3456,6 +3457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Descent | 264587 | [264587-pixel-descent.json](./264587-pixel-descent.json) |
 | Pixel Drawing | 335442 | [335442-pixel-drawing.json](./335442-pixel-drawing.json) |
 | Pixel drawing block | 216208 | [216208-pixel-drawing-block.json](./216208-pixel-drawing-block.json) |
+| Pixel Drift | 83613 | [83613-pixel-drift.json](./83613-pixel-drift.json) |
 | Pixel Drifters | 234320 | [234320-pixel-drifters.json](./234320-pixel-drifters.json) |
 | Pixel Driver | 185656 | [185656-pixel-driver.json](./185656-pixel-driver.json) |
 | Pixel Dungeon | 9795 | [9795-pixel-dungeon.json](./9795-pixel-dungeon.json) |
@@ -5884,6 +5886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Precipice | 111937 | [111937-precipice.json](./111937-precipice.json) |
 | Precipice Pain | 308245 | [308245-precipice-pain.json](./308245-precipice-pain.json) |
 | Precipitous | 279073 | [279073-precipitous.json](./279073-precipitous.json) |
+| Precision Archery: Competitive | 83608 | [83608-precision-archery-competitive.json](./83608-precision-archery-competitive.json) |
 | Precision Platform Bundle | 331487 | [331487-precision-platform-bundle.json](./331487-precision-platform-bundle.json) |
 | Precision Point VR | 270949 | [270949-precision-point-vr.json](./270949-precision-point-vr.json) |
 | PreCure All Stars: Zenin Shuugou - Let's Dance! | 56462 | [56462-precure-all-stars-zenin-shuugou-lets-dance.json](./56462-precure-all-stars-zenin-shuugou-lets-dance.json) |
