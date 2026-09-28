@@ -4242,6 +4242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Jump | 304638 | [304638-blind-jump.json](./304638-blind-jump.json) |
 | Blind Love | 30009 | [30009-blind-love.json](./30009-blind-love.json) |
 | Blind Men | 44176 | [44176-blind-men.json](./44176-blind-men.json) |
+| Blind Mind | 96877 | [96877-blind-mind.json](./96877-blind-mind.json) |
 | Blind Monk's Society | 201765 | [201765-blind-monks-society.json](./201765-blind-monks-society.json) |
 | Blind People Simulator | 57612 | [57612-blind-people-simulator.json](./57612-blind-people-simulator.json) |
 | Blind Quest: The Frost Demon | 167264 | [167264-blind-quest-the-frost-demon.json](./167264-blind-quest-the-frost-demon.json) |
@@ -4262,6 +4263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blinding Lite | 302370 | [302370-blinding-lite.json](./302370-blinding-lite.json) |
 | Blinding Oversight | 253592 | [253592-blinding-oversight.json](./253592-blinding-oversight.json) |
 | Blinding Silence | 92270 | [92270-blinding-silence.json](./92270-blinding-silence.json) |
+| BlindMaze | 96906 | [96906-blindmaze.json](./96906-blindmaze.json) |
 | BlindOak Prow | 112497 | [112497-blindoak-prow.json](./112497-blindoak-prow.json) |
 | Blindscape | 26644 | [26644-blindscape.json](./26644-blindscape.json) |
 | BlindSide | 64386 | [64386-blindside.json](./64386-blindside.json) |
@@ -5894,6 +5896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Fever: Power Edition | 399811 | [399811-bowling-fever-power-edition.json](./399811-bowling-fever-power-edition.json) |
 | Bowling Islands | 234616 | [234616-bowling-islands.json](./234616-bowling-islands.json) |
 | Bowling Party | 58257 | [58257-bowling-party.json](./58257-bowling-party.json) |
+| Bowling Street | 96913 | [96913-bowling-street.json](./96913-bowling-street.json) |
 | Bowling X | 68642 | [68642-bowling-x.json](./68642-bowling-x.json) |
 | Bowling! / Basketball! | 80209 | [80209-bowling-basketball.json](./80209-bowling-basketball.json) |
 | Bowls | 14337 | [14337-bowls.json](./14337-bowls.json) |
@@ -6737,6 +6740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothel Secrets | 280329 | [280329-brothel-secrets.json](./280329-brothel-secrets.json) |
 | BrothelManager | 18109 | [18109-brothelmanager.json](./18109-brothelmanager.json) |
 | Brother | 340545 | [340545-brother.json](./340545-brother.json) |
+| Brother Perro | 96867 | [96867-brother-perro.json](./96867-brother-perro.json) |
 | Brother Wings | 29912 | [29912-brother-wings.json](./29912-brother-wings.json) |
 | Brotherhood | 275114 | [275114-brotherhood.json](./275114-brotherhood.json) |
 | Brotherhood of Pain | 388937 | [388937-brotherhood-of-pain.json](./388937-brotherhood-of-pain.json) |
