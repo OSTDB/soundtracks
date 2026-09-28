@@ -1337,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Stars | 273094 | [273094-baseball-stars.json](./273094-baseball-stars.json) |
 | Baseball Stars II | 48296 | [48296-baseball-stars-ii.json](./48296-baseball-stars-ii.json) |
 | Baseball Stars Professional | 39595 | [39595-baseball-stars-professional.json](./39595-baseball-stars-professional.json) |
+| Baseball Superstars 2011 | 66207 | [66207-baseball-superstars-2011.json](./66207-baseball-superstars-2011.json) |
 | Baseball Superstars 2024 | 318399 | [318399-baseball-superstars-2024.json](./318399-baseball-superstars-2024.json) |
 | Baseball with Heads | 246974 | [246974-baseball-with-heads.json](./246974-baseball-with-heads.json) |
 | Baseball-e | 170006 | [170006-baseball-e.json](./170006-baseball-e.json) |
