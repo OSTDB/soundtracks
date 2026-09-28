@@ -1883,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenshi-tachi no Gogo III: Bangai-hen | 270791 | [270791-tenshi-tachi-no-gogo-iii-bangai-hen.json](./270791-tenshi-tachi-no-gogo-iii-bangai-hen.json) |
 | Tenshi-tachi no Gogo Special 2 | 271709 | [271709-tenshi-tachi-no-gogo-special-2.json](./271709-tenshi-tachi-no-gogo-special-2.json) |
 | Tenshi-tachi no Gogo V: Nerawareta Tenshi | 271708 | [271708-tenshi-tachi-no-gogo-v-nerawareta-tenshi.json](./271708-tenshi-tachi-no-gogo-v-nerawareta-tenshi.json) |
+| Tenshitsuki no Shoujo | 80471 | [80471-tenshitsuki-no-shoujo.json](./80471-tenshitsuki-no-shoujo.json) |
 | Tenshoku Maou | 381693 | [381693-tenshoku-maou.json](./381693-tenshoku-maou.json) |
 | Tenshou Gakuen Gensouroku | 71807 | [71807-tenshou-gakuen-gensouroku.json](./71807-tenshou-gakuen-gensouroku.json) |
 | Tension | 93966 | [93966-tension.json](./93966-tension.json) |
@@ -12083,6 +12084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Blast | 54986 | [54986-toy-blast.json](./54986-toy-blast.json) |
 | Toy Bot Diaries | 69260 | [69260-toy-bot-diaries.json](./69260-toy-bot-diaries.json) |
 | Toy Bot Diaries 2 | 79909 | [79909-toy-bot-diaries-2.json](./79909-toy-bot-diaries-2.json) |
+| Toy Bot Mini Missions | 80622 | [80622-toy-bot-mini-missions.json](./80622-toy-bot-mini-missions.json) |
 | Toy Box | 325235 | [325235-toy-box.json](./325235-toy-box.json) |
 | Toy Car Extreme Racing: RC Driver Simulator | 309082 | [309082-toy-car-extreme-racing-rc-driver-simulator.json](./309082-toy-car-extreme-racing-rc-driver-simulator.json) |
 | Toy Car Race | 391353 | [391353-toy-car-race.json](./391353-toy-car-race.json) |
