@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dare | 130352 | [130352-dare.json](./130352-dare.json) |
 | Dare Demo Shodan ni Nareru Igo Kyoushitsu | 283758 | [283758-dare-demo-shodan-ni-nareru-igo-kyoushitsu.json](./283758-dare-demo-shodan-ni-nareru-igo-kyoushitsu.json) |
 | Dare Devil Derby 3D | 43916 | [43916-dare-devil-derby-3d.json](./43916-dare-devil-derby-3d.json) |
+| Dare mo ga Kanojo o Neratteru. | 82976 | [82976-dare-mo-ga-kanojo-o-neratteru.json](./82976-dare-mo-ga-kanojo-o-neratteru.json) |
 | Dare to Fly | 52184 | [52184-dare-to-fly.json](./52184-dare-to-fly.json) |
 | Dare to Lucid Dream | 332416 | [332416-dare-to-lucid-dream.json](./332416-dare-to-lucid-dream.json) |
 | Daredemo Asobi Taizen | 137069 | [137069-daredemo-asobi-taizen.json](./137069-daredemo-asobi-taizen.json) |
@@ -3320,6 +3321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Ninja Fight: Kungfu combat | 255058 | [255058-devil-ninja-fight-kungfu-combat.json](./255058-devil-ninja-fight-kungfu-combat.json) |
 | Devil of the Mirror | 182987 | [182987-devil-of-the-mirror.json](./182987-devil-of-the-mirror.json) |
 | Devil Piece | 174645 | [174645-devil-piece.json](./174645-devil-piece.json) |
+| Devil Seed | 82748 | [82748-devil-seed.json](./82748-devil-seed.json) |
 | Devil Should Die | 190950 | [190950-devil-should-die.json](./190950-devil-should-die.json) |
 | Devil Slayer | 171461 | [171461-devil-slayer.json](./171461-devil-slayer.json) |
 | Devil Spire Falls | 341018 | [341018-devil-spire-falls.json](./341018-devil-spire-falls.json) |
