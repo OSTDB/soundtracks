@@ -1187,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cart Fury: Championship Racing | 78637 | [78637-cart-fury-championship-racing.json](./78637-cart-fury-championship-racing.json) |
 | Cart Panic! OS: E-Commerce Tycoon | 402494 | [402494-cart-panic-os-e-commerce-tycoon.json](./402494-cart-panic-os-e-commerce-tycoon.json) |
 | Cart Precision Racing | 627 | [627-cart-precision-racing.json](./627-cart-precision-racing.json) |
+| Cart Racing | 93163 | [93163-cart-racing.json](./93163-cart-racing.json) |
 | Cartagra: First Press Limited Edition | 388046 | [388046-cartagra-first-press-limited-edition.json](./388046-cartagra-first-press-limited-edition.json) |
 | Cartagra: Tsuki Kurui no Yamai - Rebirth FHD Size Edition | 150033 | [150033-cartagra-tsuki-kurui-no-yamai-rebirth-fhd-size-edition.json](./150033-cartagra-tsuki-kurui-no-yamai-rebirth-fhd-size-edition.json) |
 | Cartapli: Fold Quest | 386834 | [386834-cartapli-fold-quest.json](./386834-cartapli-fold-quest.json) |
@@ -1819,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catify VR | 104799 | [104799-catify-vr.json](./104799-catify-vr.json) |
 | Catjong 3: Purrl of the East | 393825 | [393825-catjong-3-purrl-of-the-east.json](./393825-catjong-3-purrl-of-the-east.json) |
 | Catlateral Damage: VR | 170315 | [170315-catlateral-damage-vr.json](./170315-catlateral-damage-vr.json) |
+| Catloaf 2600 | 93154 | [93154-catloaf-2600.json](./93154-catloaf-2600.json) |
 | Catloons | 240204 | [240204-catloons.json](./240204-catloons.json) |
 | Catly | 325592 | [325592-catly.json](./325592-catly.json) |
 | Catmageddon | 152882 | [152882-catmageddon.json](./152882-catmageddon.json) |
@@ -2344,6 +2346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager 2 | 37133 | [37133-championship-manager-2.json](./37133-championship-manager-2.json) |
 | Championship Manager 2008 | 14840 | [14840-championship-manager-2008.json](./14840-championship-manager-2008.json) |
 | Championship Manager 2010 Express | 118918 | [118918-championship-manager-2010-express.json](./118918-championship-manager-2010-express.json) |
+| Championship Manager 3 | 93149 | [93149-championship-manager-3.json](./93149-championship-manager-3.json) |
 | Championship Manager: Season 03/04 | 628 | [628-championship-manager-season-03-04.json](./628-championship-manager-season-03-04.json) |
 | Championship Manager: Season 97/98 | 50125 | [50125-championship-manager-season-97-98.json](./50125-championship-manager-season-97-98.json) |
 | Championship Motocross 2001 featuring Ricky Carmichael | 76978 | [76978-championship-motocross-2001-featuring-ricky-carmichael.json](./76978-championship-motocross-2001-featuring-ricky-carmichael.json) |
@@ -3947,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ciudad Anómala de Buenos Aires | 271206 | [271206-ciudad-anomala-de-buenos-aires.json](./271206-ciudad-anomala-de-buenos-aires.json) |
 | Ciudad del Mar | 186045 | [186045-ciudad-del-mar.json](./186045-ciudad-del-mar.json) |
 | Ciudad Empresarial | 274750 | [274750-ciudad-empresarial.json](./274750-ciudad-empresarial.json) |
+| Ciuffy | 93169 | [93169-ciuffy.json](./93169-ciuffy.json) |
 | CivCity: Rome | 3083 | [3083-civcity-rome.json](./3083-civcity-rome.json) |
 | CivClicker | 207384 | [207384-civclicker.json](./207384-civclicker.json) |
 | CivCraft - Legends of Ellaria | 47273 | [47273-civcraft-legends-of-ellaria.json](./47273-civcraft-legends-of-ellaria.json) |
@@ -5716,6 +5720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construct: Escape the System | 27904 | [27904-construct-escape-the-system.json](./27904-construct-escape-the-system.json) |
 | Construct.AI | 172128 | [172128-construct-ai.json](./172128-construct-ai.json) |
 | Construct&Conquer: The Levant in the 12th Century | 291056 | [291056-construct-and-conquer-the-levant-in-the-12th-century.json](./291056-construct-and-conquer-the-levant-in-the-12th-century.json) |
+| Construction Bob in the Bouncing Factory | 93158 | [93158-construction-bob-in-the-bouncing-factory.json](./93158-construction-bob-in-the-bouncing-factory.json) |
 | Construction Charlie | 108081 | [108081-construction-charlie.json](./108081-construction-charlie.json) |
 | Construction Crew | 391899 | [391899-construction-crew.json](./391899-construction-crew.json) |
 | Construction Machine Simulator 2023: Hard Truck Work Job | 259233 | [259233-construction-machine-simulator-2023-hard-truck-work-job.json](./259233-construction-machine-simulator-2023-hard-truck-work-job.json) |
@@ -8195,6 +8200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cunt Wars | 140570 | [140570-cunt-wars.json](./140570-cunt-wars.json) |
 | Cup and Counter: Coffee Shop Simulator | 392774 | [392774-cup-and-counter-coffee-shop-simulator.json](./392774-cup-and-counter-coffee-shop-simulator.json) |
 | Cup Heroes: Beginner Merge Bundle | 414455 | [414455-cup-heroes-beginner-merge-bundle.json](./414455-cup-heroes-beginner-merge-bundle.json) |
+| Cup Manager | 93170 | [93170-cup-manager.json](./93170-cup-manager.json) |
 | Cup of Ethanol | 249281 | [249281-cup-of-ethanol.json](./249281-cup-of-ethanol.json) |
 | Cupcake Baker | 87719 | [87719-cupcake-baker.json](./87719-cupcake-baker.json) |
 | Cupcake Clicker 4 | 231381 | [231381-cupcake-clicker-4.json](./231381-cupcake-clicker-4.json) |
