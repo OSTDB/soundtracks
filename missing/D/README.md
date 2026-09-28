@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daitoshokan no Hitsujikai: Dreaming Sheep | 125812 | [125812-daitoshokan-no-hitsujikai-dreaming-sheep.json](./125812-daitoshokan-no-hitsujikai-dreaming-sheep.json) |
 | Daiva Story 6: Imperial of Nirsartia | 65666 | [65666-daiva-story-6-imperial-of-nirsartia.json](./65666-daiva-story-6-imperial-of-nirsartia.json) |
 | Daiz | 239901 | [239901-daiz.json](./239901-daiz.json) |
+| Daka Dara | 115790 | [115790-daka-dara.json](./115790-daka-dara.json) |
 | Dakar '97 | 123056 | [123056-dakar-97.json](./123056-dakar-97.json) |
 | Dakar 18: Day One Edition | 110333 | [110333-dakar-18-day-one-edition.json](./110333-dakar-18-day-one-edition.json) |
 | Dakar Desert Rally: Audi RS Q e-tron Hybrid Car | 220597 | [220597-dakar-desert-rally-audi-rs-q-e-tron-hybrid-car.json](./220597-dakar-desert-rally-audi-rs-q-e-tron-hybrid-car.json) |
