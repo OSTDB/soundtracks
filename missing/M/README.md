@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.S. Salmon | 211236 | [211236-m-s-salmon.json](./211236-m-s-salmon.json) |
 | M.Stain | 147298 | [147298-m-stain.json](./147298-m-stain.json) |
 | M.U.D. Rally | 233244 | [233244-m-u-d-rally.json](./233244-m-u-d-rally.json) |
+| M.U.S.E. | 61136 | [61136-m-u-s-e.json](./61136-m-u-s-e.json) |
 | M.V.P. | 197957 | [197957-m-v-p.json](./197957-m-v-p.json) |
 | M*A*S*H | 22734 | [22734-m-a-s-h.json](./22734-m-a-s-h.json) |
 | M&M's Blast! | 49330 | [49330-m-and-ms-blast.json](./49330-m-and-ms-blast.json) |
@@ -6910,6 +6911,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Prom: XXL | 132997 | [132997-monster-prom-xxl.json](./132997-monster-prom-xxl.json) |
 | Monster Pub | 100561 | [100561-monster-pub.json](./100561-monster-pub.json) |
 | Monster Puzzle | 130827 | [130827-monster-puzzle.json](./130827-monster-puzzle.json) |
+| Monster Race 2 | 61172 | [61172-monster-race-2.json](./61172-monster-race-2.json) |
+| Monster Race Okawari | 61173 | [61173-monster-race-okawari.json](./61173-monster-race-okawari.json) |
 | Monster Racers | 72742 | [72742-monster-racers.json](./72742-monster-racers.json) |
 | Monster Radar | 94189 | [94189-monster-radar.json](./94189-monster-radar.json) |
 | Monster Rancher | 4104 | [4104-monster-rancher.json](./4104-monster-rancher.json) |
@@ -8900,6 +8903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Mistress | 221202 | [221202-my-mistress.json](./221202-my-mistress.json) |
 | My Mistress Lu Bu | 253892 | [253892-my-mistress-lu-bu.json](./253892-my-mistress-lu-bu.json) |
 | My Monster | 318391 | [318391-my-monster.json](./318391-my-monster.json) |
+| My Monster Rancher | 61129 | [61129-my-monster-rancher.json](./61129-my-monster-rancher.json) |
 | My Moon Mart | 212467 | [212467-my-moon-mart.json](./212467-my-moon-mart.json) |
 | My Moorhen | 282549 | [282549-my-moorhen.json](./282549-my-moorhen.json) |
 | My Motel | 247987 | [247987-my-motel.json](./247987-my-motel.json) |
