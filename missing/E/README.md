@@ -2043,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eric's All-in-1 Solitaire | 86728 | [86728-erics-all-in-1-solitaire.json](./86728-erics-all-in-1-solitaire.json) |
 | Erich Sann | 227248 | [227248-erich-sann.json](./227248-erich-sann.json) |
 | Eridu | 180684 | [180684-eridu.json](./180684-eridu.json) |
+| Erie | 63380 | [63380-erie.json](./63380-erie.json) |
 | Eriguns | 202844 | [202844-eriguns.json](./202844-eriguns.json) |
 | Erik: Phantom of the Opera | 55082 | [55082-erik-phantom-of-the-opera.json](./55082-erik-phantom-of-the-opera.json) |
 | Erika America | 351008 | [351008-erika-america.json](./351008-erika-america.json) |
@@ -3046,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evilmun Family 2.0 | 264051 | [264051-evilmun-family-2-0.json](./264051-evilmun-family-2-0.json) |
 | Evilmun Family: Season 4 Spark | 198508 | [198508-evilmun-family-season-4-spark.json](./198508-evilmun-family-season-4-spark.json) |
 | Evilmun Family: Season 5 water renewal Part 1 | 230533 | [230533-evilmun-family-season-5-water-renewal-part-1.json](./230533-evilmun-family-season-5-water-renewal-part-1.json) |
+| Evilot | 63386 | [63386-evilot.json](./63386-evilot.json) |
 | Eviltech: Soul of Megawad | 261823 | [261823-eviltech-soul-of-megawad.json](./261823-eviltech-soul-of-megawad.json) |
 | EvilTrap | 297067 | [297067-eviltrap.json](./297067-eviltrap.json) |
 | Eviron's Chronicles | 161378 | [161378-evirons-chronicles.json](./161378-evirons-chronicles.json) |
