@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad Virus Shitcoin | 387494 | [387494-sad-virus-shitcoin.json](./387494-sad-virus-shitcoin.json) |
 | Sad Virus Town | 365877 | [365877-sad-virus-town.json](./365877-sad-virus-town.json) |
 | Sadboy | 113682 | [113682-sadboy.json](./113682-sadboy.json) |
+| Saddies: Attack!! | 60610 | [60610-saddies-attack.json](./60610-saddies-attack.json) |
 | Saddle Up: Time to Ride | 64114 | [64114-saddle-up-time-to-ride.json](./64114-saddle-up-time-to-ride.json) |
 | Sadhana | 364598 | [364598-sadhana.json](./364598-sadhana.json) |
 | Sadko | 397674 | [397674-sadko.json](./397674-sadko.json) |
@@ -2686,6 +2687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven days with the Ghost | 110935 | [110935-seven-days-with-the-ghost.json](./110935-seven-days-with-the-ghost.json) |
 | Seven Deadly Sins | 269851 | [269851-seven-deadly-sins.json](./269851-seven-deadly-sins.json) |
 | Seven Doorways | 209632 | [209632-seven-doorways.json](./209632-seven-doorways.json) |
+| Seven Dragon Saga | 60626 | [60626-seven-dragon-saga.json](./60626-seven-dragon-saga.json) |
 | Seven Hearts | 351108 | [351108-seven-hearts.json](./351108-seven-hearts.json) |
 | Seven Kingdoms: Ancient Adversaries | 33303 | [33303-seven-kingdoms-ancient-adversaries.json](./33303-seven-kingdoms-ancient-adversaries.json) |
 | Seven Kingdoms: Conquest | 8942 | [8942-seven-kingdoms-conquest.json](./8942-seven-kingdoms-conquest.json) |
@@ -3190,6 +3192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shady Business | 195198 | [195198-shady-business.json](./195198-shady-business.json) |
 | Shady Business | 408028 | [408028-shady-business.json](./408028-shady-business.json) |
 | Shady Wars | 260764 | [260764-shady-wars.json](./260764-shady-wars.json) |
+| Shady's Poopong: 22nd Anniversary Edition | 60618 | [60618-shadys-poopong-22nd-anniversary-edition.json](./60618-shadys-poopong-22nd-anniversary-edition.json) |
 | Shady's Stone Smash | 63567 | [63567-shadys-stone-smash.json](./63567-shadys-stone-smash.json) |
 | Shafted | 211692 | [211692-shafted.json](./211692-shafted.json) |
 | Shafted | 358931 | [358931-shafted.json](./358931-shafted.json) |
@@ -6998,6 +7001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Rally | 210079 | [210079-soccer-rally.json](./210079-soccer-rally.json) |
 | Soccer RPG: Become the coach for the national team! | 94259 | [94259-soccer-rpg-become-the-coach-for-the-national-team.json](./94259-soccer-rpg-become-the-coach-for-the-national-team.json) |
 | Soccer Showdown 3 | 233735 | [233735-soccer-showdown-3.json](./233735-soccer-showdown-3.json) |
+| Soccer Spirits | 60597 | [60597-soccer-spirits.json](./60597-soccer-spirits.json) |
 | Soccer Squad | 291486 | [291486-soccer-squad.json](./291486-soccer-squad.json) |
 | Soccer Star 23 Top Leagues | 239037 | [239037-soccer-star-23-top-leagues.json](./239037-soccer-star-23-top-leagues.json) |
 | Soccer Star Manager | 108467 | [108467-soccer-star-manager.json](./108467-soccer-star-manager.json) |
@@ -8703,6 +8707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Is Limited | 184374 | [184374-space-is-limited.json](./184374-space-is-limited.json) |
 | Space is Red | 128573 | [128573-space-is-red.json](./128573-space-is-red.json) |
 | Space Is Red | 379341 | [379341-space-is-red.json](./379341-space-is-red.json) |
+| Space Jack | 60598 | [60598-space-jack.json](./60598-space-jack.json) |
 | Space Jam: A New Legacy - Full Court Pinball | 227827 | [227827-space-jam-a-new-legacy-full-court-pinball.json](./227827-space-jam-a-new-legacy-full-court-pinball.json) |
 | Space Jammers | 27651 | [27651-space-jammers.json](./27651-space-jammers.json) |
 | Space Jelly | 297479 | [297479-space-jelly.json](./297479-space-jelly.json) |
@@ -13398,6 +13403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Auto Racing | 245581 | [245581-super-auto-racing.json](./245581-super-auto-racing.json) |
 | Super Auto Salon: Custom Car Contest | 133782 | [133782-super-auto-salon-custom-car-contest.json](./133782-super-auto-salon-custom-car-contest.json) |
 | Super Awesome Quest | 59075 | [59075-super-awesome-quest.json](./59075-super-awesome-quest.json) |
+| Super B-Daman: Fighting Phoenix | 60594 | [60594-super-b-daman-fighting-phoenix.json](./60594-super-b-daman-fighting-phoenix.json) |
 | Super B-Dino's adventures | 101386 | [101386-super-b-dinos-adventures.json](./101386-super-b-dinos-adventures.json) |
 | Super Baby | 97678 | [97678-super-baby.json](./97678-super-baby.json) |
 | Super Bad Hero | 296504 | [296504-super-bad-hero.json](./296504-super-bad-hero.json) |
