@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat This | 299468 | [299468-eat-this.json](./299468-eat-this.json) |
 | Eat Your Fucking Soup | 239774 | [239774-eat-your-fucking-soup.json](./239774-eat-your-fucking-soup.json) |
 | Eat Your Vegetables! | 265754 | [265754-eat-your-vegetables.json](./265754-eat-your-vegetables.json) |
+| Eat Your Words | 104798 | [104798-eat-your-words.json](./104798-eat-your-words.json) |
 | Eat, Sleep, Bet, Repeat | 68167 | [68167-eat-sleep-bet-repeat.json](./68167-eat-sleep-bet-repeat.json) |
 | Eat: The Revolution | 76637 | [76637-eat-the-revolution.json](./76637-eat-the-revolution.json) |
 | Eaten by Darkness | 235747 | [235747-eaten-by-darkness.json](./235747-eaten-by-darkness.json) |
@@ -2967,6 +2968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Snowmen 2 | 265140 | [265140-evil-snowmen-2.json](./265140-evil-snowmen-2.json) |
 | Evil Soul | 165709 | [165709-evil-soul.json](./165709-evil-soul.json) |
 | Evil Spirits | 55182 | [55182-evil-spirits.json](./55182-evil-spirits.json) |
+| Evil Spring: Student Holidays | 104825 | [104825-evil-spring-student-holidays.json](./104825-evil-spring-student-holidays.json) |
 | Evil Spring: Student Hollidays | 180044 | [180044-evil-spring-student-hollidays.json](./180044-evil-spring-student-hollidays.json) |
 | Evil Superhero Simulator | 364054 | [364054-evil-superhero-simulator.json](./364054-evil-superhero-simulator.json) |
 | Evil Superhero VR: Superhero Simulator | 370884 | [370884-evil-superhero-vr-superhero-simulator.json](./370884-evil-superhero-vr-superhero-simulator.json) |
@@ -3324,6 +3326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explosion | 200466 | [200466-explosion.json](./200466-explosion.json) |
 | Explosionade DX | 146797 | [146797-explosionade-dx.json](./146797-explosionade-dx.json) |
 | Explosive Breaker | 39650 | [39650-explosive-breaker.json](./39650-explosive-breaker.json) |
+| Explosive Dinosaurs | 104792 | [104792-explosive-dinosaurs.json](./104792-explosive-dinosaurs.json) |
 | Explosive Dungeon | 179127 | [179127-explosive-dungeon.json](./179127-explosive-dungeon.json) |
 | Explosive Fighter Patton | 11449 | [11449-explosive-fighter-patton.json](./11449-explosive-fighter-patton.json) |
 | Explosive Odds | 345473 | [345473-explosive-odds.json](./345473-explosive-odds.json) |
