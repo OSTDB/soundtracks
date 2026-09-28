@@ -2344,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat the Boss 2 | 86786 | [86786-beat-the-boss-2.json](./86786-beat-the-boss-2.json) |
 | Beat The Boss Game | 331699 | [331699-beat-the-boss-game.json](./331699-beat-the-boss-game.json) |
 | Beat the Clock | 196261 | [196261-beat-the-clock.json](./196261-beat-the-clock.json) |
+| Beat the House | 71041 | [71041-beat-the-house.json](./71041-beat-the-house.json) |
 | Beat the House 2 | 71503 | [71503-beat-the-house-2.json](./71503-beat-the-house-2.json) |
 | Beat the Machine: Rebooted | 135767 | [135767-beat-the-machine-rebooted.json](./135767-beat-the-machine-rebooted.json) |
 | Beat the Markets | 348262 | [348262-beat-the-markets.json](./348262-beat-the-markets.json) |
@@ -3841,6 +3842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Jack | 366927 | [366927-black-jack.json](./366927-black-jack.json) |
 | Black Jack Story | 99029 | [99029-black-jack-story.json](./99029-black-jack-story.json) |
 | Black Jacket | 372112 | [372112-black-jacket.json](./372112-black-jacket.json) |
+| Black Knight: Marine Strike Fighter | 71051 | [71051-black-knight-marine-strike-fighter.json](./71051-black-knight-marine-strike-fighter.json) |
 | Black Lake | 410926 | [410926-black-lake.json](./410926-black-lake.json) |
 | Black Lamp | 11964 | [11964-black-lamp.json](./11964-black-lamp.json) |
 | Black Lazar | 187390 | [187390-black-lazar.json](./187390-black-lazar.json) |
@@ -7020,6 +7022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bust Extreme | 239341 | [239341-bubble-bust-extreme.json](./239341-bubble-bust-extreme.json) |
 | Bubble Cadence | 398360 | [398360-bubble-cadence.json](./398360-bubble-cadence.json) |
 | Bubble Cloud: Spinning Bubbles | 86774 | [86774-bubble-cloud-spinning-bubbles.json](./86774-bubble-cloud-spinning-bubbles.json) |
+| Bubble Crack | 71048 | [71048-bubble-crack.json](./71048-bubble-crack.json) |
 | Bubble Crackle | 87321 | [87321-bubble-crackle.json](./87321-bubble-crackle.json) |
 | Bubble Diving | 183341 | [183341-bubble-diving.json](./183341-bubble-diving.json) |
 | Bubble Dreams 3D | 330724 | [330724-bubble-dreams-3d.json](./330724-bubble-dreams-3d.json) |
