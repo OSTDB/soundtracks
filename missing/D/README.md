@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance to the Finish | 178595 | [178595-dance-to-the-finish.json](./178595-dance-to-the-finish.json) |
 | Dance with Devils | 132088 | [132088-dance-with-devils.json](./132088-dance-with-devils.json) |
 | Dance with Devils My Carol | 132089 | [132089-dance-with-devils-my-carol.json](./132089-dance-with-devils-my-carol.json) |
+| Dance With Memes | 102952 | [102952-dance-with-memes.json](./102952-dance-with-memes.json) |
 | Dance with the Devil | 181766 | [181766-dance-with-the-devil.json](./181766-dance-with-the-devil.json) |
 | Dance With Zombies | 127319 | [127319-dance-with-zombies.json](./127319-dance-with-zombies.json) |
 | Dance: UK | 95455 | [95455-dance-uk.json](./95455-dance-uk.json) |
@@ -2557,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolish & Build 2018 | 90102 | [90102-demolish-and-build-2018.json](./90102-demolish-and-build-2018.json) |
 | Demolition | 125341 | [125341-demolition.json](./125341-demolition.json) |
 | Demolition | 308335 | [308335-demolition.json](./308335-demolition.json) |
+| Demolition Ball | 102930 | [102930-demolition-ball.json](./102930-demolition-ball.json) |
 | Demolition Company | 344435 | [344435-demolition-company.json](./344435-demolition-company.json) |
 | Demolition Company: Gold Edition | 23397 | [23397-demolition-company-gold-edition.json](./23397-demolition-company-gold-edition.json) |
 | Demolition Crew | 119568 | [119568-demolition-crew.json](./119568-demolition-crew.json) |
