@@ -2962,6 +2962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Castle Wolfenstein | 307296 | [307296-beyond-castle-wolfenstein.json](./307296-beyond-castle-wolfenstein.json) |
 | Beyond Chess | 232379 | [232379-beyond-chess.json](./232379-beyond-chess.json) |
 | Beyond Citadel | 322842 | [322842-beyond-citadel.json](./322842-beyond-citadel.json) |
+| Beyond Clouds | 74479 | [74479-beyond-clouds.json](./74479-beyond-clouds.json) |
 | Beyond Crimson Stars | 128966 | [128966-beyond-crimson-stars.json](./128966-beyond-crimson-stars.json) |
 | Beyond Dawn | 158531 | [158531-beyond-dawn.json](./158531-beyond-dawn.json) |
 | Beyond Despair | 26724 | [26724-beyond-despair.json](./26724-beyond-despair.json) |
@@ -5577,6 +5578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Bits | 108040 | [108040-boom-bits.json](./108040-boom-bits.json) |
 | Boom Blaster | 100891 | [100891-boom-blaster.json](./100891-boom-blaster.json) |
 | Boom Boom Volleyball | 263470 | [263470-boom-boom-volleyball.json](./263470-boom-boom-volleyball.json) |
+| Boom Box Blue! | 74496 | [74496-boom-box-blue.json](./74496-boom-box-blue.json) |
 | Boom Buddy | 368491 | [368491-boom-buddy.json](./368491-boom-buddy.json) |
 | Boom Dojo | 148917 | [148917-boom-dojo.json](./148917-boom-dojo.json) |
 | Boom Faster | 157198 | [157198-boom-faster.json](./157198-boom-faster.json) |
@@ -5913,6 +5915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bound in Time | 199602 | [199602-bound-in-time.json](./199602-bound-in-time.json) |
 | Bound of the Skies | 38976 | [38976-bound-of-the-skies.json](./38976-bound-of-the-skies.json) |
 | Bound to Defend | 410267 | [410267-bound-to-defend.json](./410267-bound-to-defend.json) |
+| Bound to Light | 74494 | [74494-bound-to-light.json](./74494-bound-to-light.json) |
 | Boundary | 22395 | [22395-boundary.json](./22395-boundary.json) |
 | Boundary Gate: Daughter of Kingdom | 45949 | [45949-boundary-gate-daughter-of-kingdom.json](./45949-boundary-gate-daughter-of-kingdom.json) |
 | Boundary Master | 311268 | [311268-boundary-master.json](./311268-boundary-master.json) |
