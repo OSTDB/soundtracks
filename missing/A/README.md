@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Guardian's Wish | 225564 | [225564-a-guardians-wish.json](./225564-a-guardians-wish.json) |
 | A Guidebook of Babel | 149085 | [149085-a-guidebook-of-babel.json](./149085-a-guidebook-of-babel.json) |
 | A Gunshot in Room 37 | 311660 | [311660-a-gunshot-in-room-37.json](./311660-a-gunshot-in-room-37.json) |
+| A Gypsy's Tale: The Tower of Secrets | 109193 | [109193-a-gypsys-tale-the-tower-of-secrets.json](./109193-a-gypsys-tale-the-tower-of-secrets.json) |
 | A Hand in the Darkness | 28800 | [28800-a-hand-in-the-darkness.json](./28800-a-hand-in-the-darkness.json) |
 | A Handful of Keflings | 83948 | [83948-a-handful-of-keflings.json](./83948-a-handful-of-keflings.json) |
 | A Handful of Lewd Games | 337801 | [337801-a-handful-of-lewd-games.json](./337801-a-handful-of-lewd-games.json) |
@@ -237,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Legend of Wisdom | 232962 | [232962-a-legend-of-wisdom.json](./232962-a-legend-of-wisdom.json) |
 | A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
 | A Life of Logic | 256243 | [256243-a-life-of-logic.json](./256243-a-life-of-logic.json) |
+| A Light Inside | 109173 | [109173-a-light-inside.json](./109173-a-light-inside.json) |
 | A Light Jog | 315018 | [315018-a-light-jog.json](./315018-a-light-jog.json) |
 | A Lighthouse Tale | 410433 | [410433-a-lighthouse-tale.json](./410433-a-lighthouse-tale.json) |
 | A Line in the Sand | 12440 | [12440-a-line-in-the-sand.json](./12440-a-line-in-the-sand.json) |
@@ -6358,9 +6360,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Wars | 250337 | [250337-astro-wars.json](./250337-astro-wars.json) |
 | Astro Wars | 47284 | [47284-astro-wars.json](./47284-astro-wars.json) |
 | Astro Zip VR | 157563 | [157563-astro-zip-vr.json](./157563-astro-zip-vr.json) |
+| Astro-Blast | 109192 | [109192-astro-blast.json](./109192-astro-blast.json) |
 | Astro-Dodge | 25156 | [25156-astro-dodge.json](./25156-astro-dodge.json) |
 | Astro-g | 133366 | [133366-astro-g.json](./133366-astro-g.json) |
 | Astro: The Beginning | 118431 | [118431-astro-the-beginning.json](./118431-astro-the-beginning.json) |
+| Astroball | 109211 | [109211-astroball.json](./109211-astroball.json) |
 | Astroball | 338170 | [338170-astroball.json](./338170-astroball.json) |
 | Astrobarian | 366849 | [366849-astrobarian.json](./366849-astrobarian.json) |
 | Astrobatics | 270640 | [270640-astrobatics.json](./270640-astrobatics.json) |
@@ -7170,6 +7174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awaysis | 348231 | [348231-awaysis.json](./348231-awaysis.json) |
 | Awe of Despair | 75811 | [75811-awe-of-despair.json](./75811-awe-of-despair.json) |
 | Awesome Animated Monster Maker | 115070 | [115070-awesome-animated-monster-maker.json](./115070-awesome-animated-monster-maker.json) |
+| Awesome Animated Monster Maker: Ultra Edition | 109179 | [109179-awesome-animated-monster-maker-ultra-edition.json](./109179-awesome-animated-monster-maker-ultra-edition.json) |
 | Awesome Asteroids | 239291 | [239291-awesome-asteroids.json](./239291-awesome-asteroids.json) |
 | Awesome Cat Puzzle | 200439 | [200439-awesome-cat-puzzle.json](./200439-awesome-cat-puzzle.json) |
 | Awesome Devil | 220207 | [220207-awesome-devil.json](./220207-awesome-devil.json) |
