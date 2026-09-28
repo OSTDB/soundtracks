@@ -704,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare Neo Poke-Kun | 43970 | [43970-ganbare-neo-poke-kun.json](./43970-ganbare-neo-poke-kun.json) |
 | Ganbare Untenshi!! | 380675 | [380675-ganbare-untenshi.json](./380675-ganbare-untenshi.json) |
 | Ganbare! Dodge Fighters | 49610 | [49610-ganbare-dodge-fighters.json](./49610-ganbare-dodge-fighters.json) |
+| Ganbatte | 77402 | [77402-ganbatte.json](./77402-ganbatte.json) |
 | Gancho Bond | 372673 | [372673-gancho-bond.json](./372673-gancho-bond.json) |
 | Gang Blast | 283265 | [283265-gang-blast.json](./283265-gang-blast.json) |
 | Gang Man | 279066 | [279066-gang-man.json](./279066-gang-man.json) |
@@ -802,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Souls | 409750 | [409750-garden-souls.json](./409750-garden-souls.json) |
 | Garden Tails | 215156 | [215156-garden-tails.json](./215156-garden-tails.json) |
 | Garden Variety Body Horror | 110153 | [110153-garden-variety-body-horror.json](./110153-garden-variety-body-horror.json) |
+| Garden War | 77270 | [77270-garden-war.json](./77270-garden-war.json) |
 | Garden Warfare: Crab Invasion | 337632 | [337632-garden-warfare-crab-invasion.json](./337632-garden-warfare-crab-invasion.json) |
 | Garden Weeder | 246334 | [246334-garden-weeder.json](./246334-garden-weeder.json) |
 | Garden Work Simulator 2026 | 396547 | [396547-garden-work-simulator-2026.json](./396547-garden-work-simulator-2026.json) |
@@ -2618,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godwalker | 260240 | [260240-godwalker.json](./260240-godwalker.json) |
 | Godzilla | 75888 | [75888-godzilla.json](./75888-godzilla.json) |
 | Godzilla | 75892 | [75892-godzilla.json](./75892-godzilla.json) |
+| Godzilla | 77247 | [77247-godzilla.json](./77247-godzilla.json) |
 | Godzilla | 7744 | [7744-godzilla.json](./7744-godzilla.json) |
 | Godzilla Creepypasta | 143491 | [143491-godzilla-creepypasta.json](./143491-godzilla-creepypasta.json) |
 | Godzilla Defense Force | 119058 | [119058-godzilla-defense-force.json](./119058-godzilla-defense-force.json) |
@@ -4469,6 +4472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Praise: Solid Rock | 72638 | [72638-guitar-praise-solid-rock.json](./72638-guitar-praise-solid-rock.json) |
 | Guitar Praise: Stryper | 240172 | [240172-guitar-praise-stryper.json](./240172-guitar-praise-stryper.json) |
 | Guitar Star | 267958 | [267958-guitar-star.json](./267958-guitar-star.json) |
+| Guitar Tuner 360 | 77410 | [77410-guitar-tuner-360.json](./77410-guitar-tuner-360.json) |
 | GuitarFreaks 3rdMix | 97122 | [97122-guitarfreaks-3rdmix.json](./97122-guitarfreaks-3rdmix.json) |
 | GuitarFreaks 3rdMix & DrumMania 2ndMix | 104591 | [104591-guitarfreaks-3rdmix-and-drummania-2ndmix.json](./104591-guitarfreaks-3rdmix-and-drummania-2ndmix.json) |
 | GuitarFreaks 4thMix | 97120 | [97120-guitarfreaks-4thmix.json](./97120-guitarfreaks-4thmix.json) |
