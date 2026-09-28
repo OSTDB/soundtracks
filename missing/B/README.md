@@ -1679,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Mages | 17427 | [17427-battle-mages.json](./17427-battle-mages.json) |
 | Battle Magi | 402899 | [402899-battle-magi.json](./402899-battle-magi.json) |
 | Battle Mania Daiginjou | 45734 | [45734-battle-mania-daiginjou.json](./45734-battle-mania-daiginjou.json) |
+| Battle Master | 86222 | [86222-battle-master.json](./86222-battle-master.json) |
 | Battle Masters | 176871 | [176871-battle-masters.json](./176871-battle-masters.json) |
 | Battle Mine Sweeper | 144136 | [144136-battle-mine-sweeper.json](./144136-battle-mine-sweeper.json) |
 | Battle Minesweeper Online | 300772 | [300772-battle-minesweeper-online.json](./300772-battle-minesweeper-online.json) |
@@ -3040,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibi Blocksberg: Der verhexte Schloss-Schatz | 148498 | [148498-bibi-blocksberg-der-verhexte-schloss-schatz.json](./148498-bibi-blocksberg-der-verhexte-schloss-schatz.json) |
 | Bibi Bunny | 337459 | [337459-bibi-bunny.json](./337459-bibi-bunny.json) |
 | Bibi und Tina auf dem Martinshof | 136370 | [136370-bibi-und-tina-auf-dem-martinshof.json](./136370-bibi-und-tina-auf-dem-martinshof.json) |
+| Bibi und Tina: Fohlen "Felix" in Gefahr | 86210 | [86210-bibi-und-tina-fohlen-felix-in-gefahr.json](./86210-bibi-und-tina-fohlen-felix-in-gefahr.json) |
 | Bible Master | 299818 | [299818-bible-master.json](./299818-bible-master.json) |
 | Bible Master 2: The Chaos of Aglia | 299819 | [299819-bible-master-2-the-chaos-of-aglia.json](./299819-bible-master-2-the-chaos-of-aglia.json) |
 | Bible Puzzle | 319723 | [319723-bible-puzzle.json](./319723-bible-puzzle.json) |
@@ -7502,6 +7504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burned One | 365157 | [365157-burned-one.json](./365157-burned-one.json) |
 | Burned Out | 317456 | [317456-burned-out.json](./317456-burned-out.json) |
 | Burnin' Rubber | 172601 | [172601-burnin-rubber.json](./172601-burnin-rubber.json) |
+| Burnin' Rubber | 86208 | [86208-burnin-rubber.json](./86208-burnin-rubber.json) |
 | Burnin' Rubber 3 | 133876 | [133876-burnin-rubber-3.json](./133876-burnin-rubber-3.json) |
 | Burnin' Rubber 4 | 133877 | [133877-burnin-rubber-4.json](./133877-burnin-rubber-4.json) |
 | Burnin' Rubber 6 | 320749 | [320749-burnin-rubber-6.json](./320749-burnin-rubber-6.json) |
