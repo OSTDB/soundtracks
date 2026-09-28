@@ -3332,6 +3332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitch Black: A Dusklight Story | 213338 | [213338-pitch-black-a-dusklight-story.json](./213338-pitch-black-a-dusklight-story.json) |
 | Pitch Deck | 204733 | [204733-pitch-deck.json](./204733-pitch-deck.json) |
 | Pitch Patter | 273657 | [273657-pitch-patter.json](./273657-pitch-patter.json) |
+| Pitch Perfect Ear Training | 104839 | [104839-pitch-perfect-ear-training.json](./104839-pitch-perfect-ear-training.json) |
 | Pitch Shift | 180676 | [180676-pitch-shift.json](./180676-pitch-shift.json) |
 | Pitch-Hit | 57710 | [57710-pitch-hit.json](./57710-pitch-hit.json) |
 | Pitch-Hit: Baseball | 31347 | [31347-pitch-hit-baseball.json](./31347-pitch-hit-baseball.json) |
