@@ -9378,6 +9378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiders in the Bath | 256223 | [256223-spiders-in-the-bath.json](./256223-spiders-in-the-bath.json) |
 | Spidertronic | 302479 | [302479-spidertronic.json](./302479-spidertronic.json) |
 | Spidey & His Amazing Friends | 230277 | [230277-spidey-and-his-amazing-friends.json](./230277-spidey-and-his-amazing-friends.json) |
+| Spidle Tridle | 101730 | [101730-spidle-tridle.json](./101730-spidle-tridle.json) |
 | Spidle Tridle | 334166 | [334166-spidle-tridle.json](./334166-spidle-tridle.json) |
 | Spielbahn | 266311 | [266311-spielbahn.json](./266311-spielbahn.json) |
 | Spies & Soldiers | 132796 | [132796-spies-and-soldiers.json](./132796-spies-and-soldiers.json) |
@@ -10678,6 +10679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star*Burst | 174301 | [174301-star-burst.json](./174301-star-burst.json) |
 | Staraway | 349377 | [349377-staraway.json](./349377-staraway.json) |
 | Starazius | 122423 | [122423-starazius.json](./122423-starazius.json) |
+| Starback: Planetdestroyer Redux | 101724 | [101724-starback-planetdestroyer-redux.json](./101724-starback-planetdestroyer-redux.json) |
 | Starbase Hyperion | 282149 | [282149-starbase-hyperion.json](./282149-starbase-hyperion.json) |
 | Starbirds | 73292 | [73292-starbirds.json](./73292-starbirds.json) |
 | Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
@@ -11375,6 +11377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Settlers | 272276 | [272276-stellar-settlers.json](./272276-stellar-settlers.json) |
 | Stellar Shipyard | 388717 | [388717-stellar-shipyard.json](./388717-stellar-shipyard.json) |
 | Stellar Smooch | 60758 | [60758-stellar-smooch.json](./60758-stellar-smooch.json) |
+| Stellar Squad | 101738 | [101738-stellar-squad.json](./101738-stellar-squad.json) |
 | Stellar Tactics | 26293 | [26293-stellar-tactics.json](./26293-stellar-tactics.json) |
 | Stellar Terminus | 318178 | [318178-stellar-terminus.json](./318178-stellar-terminus.json) |
 | Stellar Valkyrie | 165072 | [165072-stellar-valkyrie.json](./165072-stellar-valkyrie.json) |
@@ -12243,6 +12246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strimpland | 395698 | [395698-strimpland.json](./395698-strimpland.json) |
 | String Rush | 173236 | [173236-string-rush.json](./173236-string-rush.json) |
 | String Theory | 294149 | [294149-string-theory.json](./294149-string-theory.json) |
+| String Theory 2 | 101740 | [101740-string-theory-2.json](./101740-string-theory-2.json) |
 | String Tyrant | 135701 | [135701-string-tyrant.json](./135701-string-tyrant.json) |
 | String.io | 108445 | [108445-string-io.json](./108445-string-io.json) |
 | Strings of Light | 180601 | [180601-strings-of-light.json](./180601-strings-of-light.json) |
@@ -15263,6 +15267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword and Plow | 305346 | [305346-sword-and-plow.json](./305346-sword-and-plow.json) |
 | Sword and Shield Idle | 296993 | [296993-sword-and-shield-idle.json](./296993-sword-and-shield-idle.json) |
 | Sword and Spirit | 158175 | [158175-sword-and-spirit.json](./158175-sword-and-spirit.json) |
+| Sword and Spoon | 101746 | [101746-sword-and-spoon.json](./101746-sword-and-spoon.json) |
 | Sword Art Online Arcade: Deep Explorer | 110791 | [110791-sword-art-online-arcade-deep-explorer.json](./110791-sword-art-online-arcade-deep-explorer.json) |
 | Sword Art Online VR: Lovely Honey Days | 102088 | [102088-sword-art-online-vr-lovely-honey-days.json](./102088-sword-art-online-vr-lovely-honey-days.json) |
 | Sword Art Online: Alicization Lycoris - Deluxe Edition | 166157 | [166157-sword-art-online-alicization-lycoris-deluxe-edition.json](./166157-sword-art-online-alicization-lycoris-deluxe-edition.json) |
