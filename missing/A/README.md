@@ -3127,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amber Time Pocket | 226220 | [226220-amber-time-pocket.json](./226220-amber-time-pocket.json) |
 | Amber: Journeys Beyond | 12390 | [12390-amber-journeys-beyond.json](./12390-amber-journeys-beyond.json) |
 | Amber's Airline: 7 Wonders | 116726 | [116726-ambers-airline-7-wonders.json](./116726-ambers-airline-7-wonders.json) |
+| AmberCity | 101062 | [101062-ambercity.json](./101062-ambercity.json) |
 | Ambermoon.net | 217853 | [217853-ambermoon-net.json](./217853-ambermoon-net.json) |
 | Amberspire | 325713 | [325713-amberspire.json](./325713-amberspire.json) |
 | Ambien | 254122 | [254122-ambien.json](./254122-ambien.json) |
@@ -4736,6 +4737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arazok's Tomb | 14264 | [14264-arazoks-tomb.json](./14264-arazoks-tomb.json) |
 | ARB: Anomalous Research Bureau - Museum | 402499 | [402499-arb-anomalous-research-bureau-museum.json](./402499-arb-anomalous-research-bureau-museum.json) |
 | Arbalester | 39621 | [39621-arbalester.json](./39621-arbalester.json) |
+| Arbe10: Base 10 | 101096 | [101096-arbe10-base-10.json](./101096-arbe10-base-10.json) |
 | Arbeit Man in another world | 151610 | [151610-arbeit-man-in-another-world.json](./151610-arbeit-man-in-another-world.json) |
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
 | Arborea: Magnicidio en la Corte | 316835 | [316835-arborea-magnicidio-en-la-corte.json](./316835-arborea-magnicidio-en-la-corte.json) |
@@ -6013,6 +6015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin of Monsters 2: Spacenator | 404810 | [404810-assassin-of-monsters-2-spacenator.json](./404810-assassin-of-monsters-2-spacenator.json) |
 | Assassin Of Spider | 384680 | [384680-assassin-of-spider.json](./384680-assassin-of-spider.json) |
 | Assassin Of Spider 2: 2099 | 404811 | [404811-assassin-of-spider-2-2099.json](./404811-assassin-of-spider-2-2099.json) |
+| Assassin vs. Mummies: Match 3 | 101047 | [101047-assassin-vs-mummies-match-3.json](./101047-assassin-vs-mummies-match-3.json) |
 | Assassin War Sniper Shooting | 274452 | [274452-assassin-war-sniper-shooting.json](./274452-assassin-war-sniper-shooting.json) |
 | Assassin: Special Edition | 14601 | [14601-assassin-special-edition.json](./14601-assassin-special-edition.json) |
 | Assassin's Alliance | 304680 | [304680-assassins-alliance.json](./304680-assassins-alliance.json) |
