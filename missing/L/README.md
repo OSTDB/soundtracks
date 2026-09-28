@@ -2355,6 +2355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Points: Challenge your coordination | 232055 | [232055-line-points-challenge-your-coordination.json](./232055-line-points-challenge-your-coordination.json) |
 | Line Rider | 28810 | [28810-line-rider.json](./28810-line-rider.json) |
 | Line Runner 2 | 90401 | [90401-line-runner-2.json](./90401-line-runner-2.json) |
+| Line Space Wars | 69360 | [69360-line-space-wars.json](./69360-line-space-wars.json) |
 | Line Up: Dots! | 243098 | [243098-line-up-dots.json](./243098-line-up-dots.json) |
 | Line Up! | 380661 | [380661-line-up.json](./380661-line-up.json) |
 | Line Wobbler | 219119 | [219119-line-wobbler.json](./219119-line-wobbler.json) |
