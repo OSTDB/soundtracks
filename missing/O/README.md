@@ -2103,6 +2103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ouchi Mainichi Tamagotchi | 77629 | [77629-ouchi-mainichi-tamagotchi.json](./77629-ouchi-mainichi-tamagotchi.json) |
 | Ouchi Otofuda | 206371 | [206371-ouchi-otofuda.json](./206371-ouchi-otofuda.json) |
 | Oudbiao's World | 258477 | [258477-oudbiaos-world.json](./258477-oudbiaos-world.json) |
+| Ougon no Kizuna | 72603 | [72603-ougon-no-kizuna.json](./72603-ougon-no-kizuna.json) |
 | Ouija | 155997 | [155997-ouija.json](./155997-ouija.json) |
 | Ouija Rumours | 190989 | [190989-ouija-rumours.json](./190989-ouija-rumours.json) |
 | Ouji-sama Lv1 | 204398 | [204398-ouji-sama-lv1.json](./204398-ouji-sama-lv1.json) |
@@ -2134,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Great Revolution! | 180133 | [180133-our-great-revolution.json](./180133-our-great-revolution.json) |
 | Our Hero! Last | 211174 | [211174-our-hero-last.json](./211174-our-hero-last.json) |
 | Our Home | 207806 | [207806-our-home.json](./207806-our-home.json) |
+| Our House | 72784 | [72784-our-house.json](./72784-our-house.json) |
 | Our Lady of Sorrow | 215035 | [215035-our-lady-of-sorrow.json](./215035-our-lady-of-sorrow.json) |
 | Our Last Dayz | 249711 | [249711-our-last-dayz.json](./249711-our-last-dayz.json) |
 | Our Life on Water | 276186 | [276186-our-life-on-water.json](./276186-our-life-on-water.json) |
