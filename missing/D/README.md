@@ -2440,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dekorating Blues | 73332 | [73332-dekorating-blues.json](./73332-dekorating-blues.json) |
 | Delares | 154383 | [154383-delares.json](./154383-delares.json) |
 | Delaware St. John: Volume 1 - The Curse of Midnight Manor / Volume 2: The Town with No Name | 93050 | [93050-delaware-st-john-volume-1-the-curse-of-midnight-manor-volume-2-the-town-with-no-name.json](./93050-delaware-st-john-volume-1-the-curse-of-midnight-manor-volume-2-the-town-with-no-name.json) |
+| Delaware St. John: Volume 2 - The Town with No Name | 71043 | [71043-delaware-st-john-volume-2-the-town-with-no-name.json](./71043-delaware-st-john-volume-2-the-town-with-no-name.json) |
 | Delay | 90643 | [90643-delay.json](./90643-delay.json) |
 | DelayedSun | 127239 | [127239-delayedsun.json](./127239-delayedsun.json) |
 | Delbo | 85567 | [85567-delbo.json](./85567-delbo.json) |
@@ -4149,6 +4150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dis Assemble | 183977 | [183977-dis-assemble.json](./183977-dis-assemble.json) |
 | Dis Pontibus 2 | 203950 | [203950-dis-pontibus-2.json](./203950-dis-pontibus-2.json) |
 | Disappearance of the Literature Club | 333611 | [333611-disappearance-of-the-literature-club.json](./333611-disappearance-of-the-literature-club.json) |
+| Disappearance Time | 71012 | [71012-disappearance-time.json](./71012-disappearance-time.json) |
 | Disaster | 186809 | [186809-disaster.json](./186809-disaster.json) |
 | Disaster Area | 236283 | [236283-disaster-area.json](./236283-disaster-area.json) |
 | Disaster Band | 229138 | [229138-disaster-band.json](./229138-disaster-band.json) |
