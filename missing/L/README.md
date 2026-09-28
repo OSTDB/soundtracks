@@ -3896,6 +3896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love, Sam | 118986 | [118986-love-sam.json](./118986-love-sam.json) |
 | Love: A Puzzle Box Filled with Stories | 139280 | [139280-love-a-puzzle-box-filled-with-stories.json](./139280-love-a-puzzle-box-filled-with-stories.json) |
 | Love's Eternal Wishes | 298898 | [298898-loves-eternal-wishes.json](./298898-loves-eternal-wishes.json) |
+| Love's Fiery Imbroglio | 73372 | [73372-loves-fiery-imbroglio.json](./73372-loves-fiery-imbroglio.json) |
 | Love's Hella Punk | 239868 | [239868-loves-hella-punk.json](./239868-loves-hella-punk.json) |
 | Love's Power Mahjong | 192312 | [192312-loves-power-mahjong.json](./192312-loves-power-mahjong.json) |
 | Love+ | 80609 | [80609-love.json](./80609-love.json) |
