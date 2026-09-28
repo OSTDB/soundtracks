@@ -1537,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat a Photo | 406937 | [406937-cat-a-photo.json](./406937-cat-a-photo.json) |
 | Cat Adventure 2 | 195799 | [195799-cat-adventure-2.json](./195799-cat-adventure-2.json) |
 | Cat and Can | 226299 | [226299-cat-and-can.json](./226299-cat-and-can.json) |
+| Cat and Dog Adventure | 95564 | [95564-cat-and-dog-adventure.json](./95564-cat-and-dog-adventure.json) |
 | Cat and Ghostly Road | 114073 | [114073-cat-and-ghostly-road.json](./114073-cat-and-ghostly-road.json) |
 | Cat and Shadow and Death's Four Friends | 374070 | [374070-cat-and-shadow-and-deaths-four-friends.json](./374070-cat-and-shadow-and-deaths-four-friends.json) |
 | Cat Apartment | 264135 | [264135-cat-apartment.json](./264135-cat-apartment.json) |
@@ -4170,6 +4171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clear Mosaic | 253990 | [253990-clear-mosaic.json](./253990-clear-mosaic.json) |
 | Clear The Coast | 270692 | [270692-clear-the-coast.json](./270692-clear-the-coast.json) |
 | Clear the Lot | 224082 | [224082-clear-the-lot.json](./224082-clear-the-lot.json) |
+| Clear Vision | 95568 | [95568-clear-vision.json](./95568-clear-vision.json) |
 | Clear Vision 2 HD | 388410 | [388410-clear-vision-2-hd.json](./388410-clear-vision-2-hd.json) |
 | Clear Vision 4 | 174814 | [174814-clear-vision-4.json](./174814-clear-vision-4.json) |
 | Clear Vision Elite | 272793 | [272793-clear-vision-elite.json](./272793-clear-vision-elite.json) |
@@ -6288,6 +6290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo 02 | 165690 | [165690-cosmo-02.json](./165690-cosmo-02.json) |
 | Cosmo and Yuuko: A Space Adventure | 178958 | [178958-cosmo-and-yuuko-a-space-adventure.json](./178958-cosmo-and-yuuko-a-space-adventure.json) |
 | Cosmo Cargo | 394499 | [394499-cosmo-cargo.json](./394499-cosmo-cargo.json) |
+| Cosmo Duel | 95576 | [95576-cosmo-duel.json](./95576-cosmo-duel.json) |
 | Cosmo Fighter II | 112162 | [112162-cosmo-fighter-ii.json](./112162-cosmo-fighter-ii.json) |
 | Cosmo Flight | 346052 | [346052-cosmo-flight.json](./346052-cosmo-flight.json) |
 | Cosmo Gang the Video | 39644 | [39644-cosmo-gang-the-video.json](./39644-cosmo-gang-the-video.json) |
@@ -7009,6 +7012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Rails | 179481 | [179481-crazy-rails.json](./179481-crazy-rails.json) |
 | Crazy Roads | 399693 | [399693-crazy-roads.json](./399693-crazy-roads.json) |
 | Crazy School: Schulverweis! | 327219 | [327219-crazy-school-schulverweis.json](./327219-crazy-school-schulverweis.json) |
+| Crazy Science: Long Run | 95628 | [95628-crazy-science-long-run.json](./95628-crazy-science-long-run.json) |
 | Crazy Seahorses | 241348 | [241348-crazy-seahorses.json](./241348-crazy-seahorses.json) |
 | Crazy Shipping | 324080 | [324080-crazy-shipping.json](./324080-crazy-shipping.json) |
 | Crazy Shooters 2 | 204475 | [204475-crazy-shooters-2.json](./204475-crazy-shooters-2.json) |
@@ -8070,6 +8074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubis Kingdoms | 74403 | [74403-cubis-kingdoms.json](./74403-cubis-kingdoms.json) |
 | Cubiscape | 207824 | [207824-cubiscape.json](./207824-cubiscape.json) |
 | Cubiscape 2: First Expansion Pack | 169308 | [169308-cubiscape-2-first-expansion-pack.json](./169308-cubiscape-2-first-expansion-pack.json) |
+| Cubism | 95591 | [95591-cubism.json](./95591-cubism.json) |
 | Cubit | 204472 | [204472-cubit.json](./204472-cubit.json) |
 | Cubit | 204473 | [204473-cubit.json](./204473-cubit.json) |
 | Cubium Dreams | 33381 | [33381-cubium-dreams.json](./33381-cubium-dreams.json) |
