@@ -481,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Route: Supporter Bundle | 336134 | [336134-rail-route-supporter-bundle.json](./336134-rail-route-supporter-bundle.json) |
 | Rail Route: The Story of Jozic | 199127 | [199127-rail-route-the-story-of-jozic.json](./199127-rail-route-the-story-of-jozic.json) |
 | Rail Theory | 28773 | [28773-rail-theory.json](./28773-rail-theory.json) |
+| Rail Wars! | 86197 | [86197-rail-wars.json](./86197-rail-wars.json) |
 | Rail&Write | 184416 | [184416-rail-and-write.json](./184416-rail-and-write.json) |
 | Railbreak: 90s Throwback Collection | 335102 | [335102-railbreak-90s-throwback-collection.json](./335102-railbreak-90s-throwback-collection.json) |
 | Railbreak: Arcade Onslaught Collection | 331405 | [331405-railbreak-arcade-onslaught-collection.json](./331405-railbreak-arcade-onslaught-collection.json) |
@@ -2086,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reincarnator | 391887 | [391887-reincarnator.json](./391887-reincarnator.json) |
 | Reindeer Rescue | 68708 | [68708-reindeer-rescue.json](./68708-reindeer-rescue.json) |
 | Reindeer Story | 211798 | [211798-reindeer-story.json](./211798-reindeer-story.json) |
+| Reine des Fleurs | 86190 | [86190-reine-des-fleurs.json](./86190-reine-des-fleurs.json) |
 | Reiner Knizia's Medici HD | 103540 | [103540-reiner-knizias-medici-hd.json](./103540-reiner-knizias-medici-hd.json) |
 | Reiner Knizia's Money | 200050 | [200050-reiner-knizias-money.json](./200050-reiner-knizias-money.json) |
 | ReinPhazer | 137459 | [137459-reinphazer.json](./137459-reinphazer.json) |
@@ -3824,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roam | 63893 | [63893-roam.json](./63893-roam.json) |
 | Roaming Backrooms | 265156 | [265156-roaming-backrooms.json](./265156-roaming-backrooms.json) |
 | Roaming through the Rivers | 214731 | [214731-roaming-through-the-rivers.json](./214731-roaming-through-the-rivers.json) |
+| Roanoke | 86233 | [86233-roanoke.json](./86233-roanoke.json) |
 | Roar | 179078 | [179078-roar.json](./179078-roar.json) |
 | Roar of Revenge | 167595 | [167595-roar-of-revenge.json](./167595-roar-of-revenge.json) |
 | Roar Rampage | 374282 | [374282-roar-rampage.json](./374282-roar-rampage.json) |
@@ -4009,6 +4012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot vs Birds Zombies | 34782 | [34782-robot-vs-birds-zombies.json](./34782-robot-vs-birds-zombies.json) |
 | Robot Wants It All | 108325 | [108325-robot-wants-it-all.json](./108325-robot-wants-it-all.json) |
 | Robot Warfare | 109205 | [109205-robot-warfare.json](./109205-robot-warfare.json) |
+| Robot Wars | 86212 | [86212-robot-wars.json](./86212-robot-wars.json) |
 | Robot Wars: Extreme Destruction | 6014 | [6014-robot-wars-extreme-destruction.json](./6014-robot-wars-extreme-destruction.json) |
 | Robot Wars: Extreme Destruction | 78623 | [78623-robot-wars-extreme-destruction.json](./78623-robot-wars-extreme-destruction.json) |
 | Robot Zombies | 180595 | [180595-robot-zombies.json](./180595-robot-zombies.json) |
@@ -4064,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock 'N Racing Bundle Grand Prix & Rally | 147793 | [147793-rock-n-racing-bundle-grand-prix-and-rally.json](./147793-rock-n-racing-bundle-grand-prix-and-rally.json) |
 | Rock 'N Racing Bundle Off Road & Grand Prix | 147797 | [147797-rock-n-racing-bundle-off-road-and-grand-prix.json](./147797-rock-n-racing-bundle-off-road-and-grand-prix.json) |
 | Rock 'N Racing Bundle Off Road & Rally | 147798 | [147798-rock-n-racing-bundle-off-road-and-rally.json](./147798-rock-n-racing-bundle-off-road-and-rally.json) |
+| Rock 'N Racing Off Road | 86249 | [86249-rock-n-racing-off-road.json](./86249-rock-n-racing-off-road.json) |
 | Rock 'N Roll | 90647 | [90647-rock-n-roll.json](./90647-rock-n-roll.json) |
 | Rock 'N' Roll Defense | 33583 | [33583-rock-n-roll-defense.json](./33583-rock-n-roll-defense.json) |
 | Rock 'n' Roll Will Never Die! | 199358 | [199358-rock-n-roll-will-never-die.json](./199358-rock-n-roll-will-never-die.json) |
