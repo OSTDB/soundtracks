@@ -632,6 +632,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Campaigns: Stalingrad '42 Gold | 124713 | [124713-panzer-campaigns-stalingrad-42-gold.json](./124713-panzer-campaigns-stalingrad-42-gold.json) |
 | Panzer Campaigns: Tobruk '41 Gold | 124731 | [124731-panzer-campaigns-tobruk-41-gold.json](./124731-panzer-campaigns-tobruk-41-gold.json) |
 | Panzer Campaigns: Tunisia '43 Gold | 124734 | [124734-panzer-campaigns-tunisia-43-gold.json](./124734-panzer-campaigns-tunisia-43-gold.json) |
+| Panzer Command: Kharkov | 72745 | [72745-panzer-command-kharkov.json](./72745-panzer-command-kharkov.json) |
+| Panzer Command: Operation Winter Storm | 72744 | [72744-panzer-command-operation-winter-storm.json](./72744-panzer-command-operation-winter-storm.json) |
 | Panzer Corps 2: Axis Operations - 1939 | 155048 | [155048-panzer-corps-2-axis-operations-1939.json](./155048-panzer-corps-2-axis-operations-1939.json) |
 | Panzer Corps 2: Axis Operations - 1940 | 155050 | [155050-panzer-corps-2-axis-operations-1940.json](./155050-panzer-corps-2-axis-operations-1940.json) |
 | Panzer Corps 2: Axis Operations - 1941 | 155081 | [155081-panzer-corps-2-axis-operations-1941.json](./155081-panzer-corps-2-axis-operations-1941.json) |
@@ -926,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paragon Pioneers 2: Isle of Magicians | 322742 | [322742-paragon-pioneers-2-isle-of-magicians.json](./322742-paragon-pioneers-2-isle-of-magicians.json) |
 | Paragon Pioneers 2: Turn the Orc Table | 310050 | [310050-paragon-pioneers-2-turn-the-orc-table.json](./310050-paragon-pioneers-2-turn-the-orc-table.json) |
 | Paragon Sex A Doll | 356065 | [356065-paragon-sex-a-doll.json](./356065-paragon-sex-a-doll.json) |
+| Paragraph 78 | 72749 | [72749-paragraph-78.json](./72749-paragraph-78.json) |
 | Parahcuy | 321493 | [321493-parahcuy.json](./321493-parahcuy.json) |
 | Paraido | 265781 | [265781-paraido.json](./265781-paraido.json) |
 | Parallax | 271743 | [271743-parallax.json](./271743-parallax.json) |
@@ -3157,6 +3160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pingolf | 318601 | [318601-pingolf.json](./318601-pingolf.json) |
 | PingPong Kings VR | 89256 | [89256-pingpong-kings-vr.json](./89256-pingpong-kings-vr.json) |
 | Pingu and Friends | 130803 | [130803-pingu-and-friends.json](./130803-pingu-and-friends.json) |
+| Pingu no Waku-waku Carnival | 72786 | [72786-pingu-no-waku-waku-carnival.json](./72786-pingu-no-waku-waku-carnival.json) |
 | Pingus | 146207 | [146207-pingus.json](./146207-pingus.json) |
 | Pingwinek Kelvin | 142495 | [142495-pingwinek-kelvin.json](./142495-pingwinek-kelvin.json) |
 | Pink 2048 | 211737 | [211737-pink-2048.json](./211737-pink-2048.json) |
@@ -5340,6 +5344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop & Chips | 83213 | [83213-pop-and-chips.json](./83213-pop-and-chips.json) |
 | Pop and Chicks | 253364 | [253364-pop-and-chicks.json](./253364-pop-and-chicks.json) |
 | Pop Ball | 246360 | [246360-pop-ball.json](./246360-pop-ball.json) |
+| Pop Cutie! Street Fashion Simulation | 72743 | [72743-pop-cutie-street-fashion-simulation.json](./72743-pop-cutie-street-fashion-simulation.json) |
 | Pop DS | 326190 | [326190-pop-ds.json](./326190-pop-ds.json) |
 | Pop Float a-way | 414579 | [414579-pop-float-a-way.json](./414579-pop-float-a-way.json) |
 | Pop Frenzy! | 108983 | [108983-pop-frenzy.json](./108983-pop-frenzy.json) |
@@ -6625,6 +6630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Battle | 37378 | [37378-project-battle.json](./37378-project-battle.json) |
 | Project Battle (working title) | 131440 | [131440-project-battle-working-title.json](./131440-project-battle-working-title.json) |
 | Project Battlefield | 342655 | [342655-project-battlefield.json](./342655-project-battlefield.json) |
+| Project Beauty | 72777 | [72777-project-beauty.json](./72777-project-beauty.json) |
 | Project Bengal | 341555 | [341555-project-bengal.json](./341555-project-bengal.json) |
 | Project BlockchainZ | 180313 | [180313-project-blockchainz.json](./180313-project-blockchainz.json) |
 | Project Blur | 372086 | [372086-project-blur.json](./372086-project-blur.json) |
