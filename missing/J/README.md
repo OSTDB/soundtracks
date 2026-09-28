@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jampack: Volume 14 | 43314 | [43314-jampack-volume-14.json](./43314-jampack-volume-14.json) |
 | Jampack: Volume 15 | 43317 | [43317-jampack-volume-15.json](./43317-jampack-volume-15.json) |
 | JamParty: Remixed | 78636 | [78636-jamparty-remixed.json](./78636-jamparty-remixed.json) |
+| Jamping | 102342 | [102342-jamping.json](./102342-jamping.json) |
 | Jams | 340765 | [340765-jams.json](./340765-jams.json) |
 | Jamster Allstars | 333561 | [333561-jamster-allstars.json](./333561-jamster-allstars.json) |
 | Jan Friend | 84230 | [84230-jan-friend.json](./84230-jan-friend.json) |
