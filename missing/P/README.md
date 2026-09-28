@@ -844,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Par 1 Golf 5 | 197667 | [197667-par-1-golf-5.json](./197667-par-1-golf-5.json) |
 | Par 1 Golf 7 | 174296 | [174296-par-1-golf-7.json](./174296-par-1-golf-7.json) |
 | Par 1 Golf 8 | 197790 | [197790-par-1-golf-8.json](./197790-par-1-golf-8.json) |
+| Par Golf | 92101 | [92101-par-golf.json](./92101-par-golf.json) |
 | Para-Lax | 211144 | [211144-para-lax.json](./211144-para-lax.json) |
 | Para-sol | 309651 | [309651-para-sol.json](./309651-para-sol.json) |
 | Para//ax | 186170 | [186170-para-ax.json](./186170-para-ax.json) |
@@ -1862,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PentaZorg | 278143 | [278143-pentazorg.json](./278143-pentazorg.json) |
 | Penthos | 178070 | [178070-penthos.json](./178070-penthos.json) |
 | Penthouse Interactive: Virtual Photo Shoot Vol. 1 | 254498 | [254498-penthouse-interactive-virtual-photo-shoot-vol-1.json](./254498-penthouse-interactive-virtual-photo-shoot-vol-1.json) |
+| Pentium | 92073 | [92073-pentium.json](./92073-pentium.json) |
 | Pentomino | 202422 | [202422-pentomino.json](./202422-pentomino.json) |
 | Pentominovich | 207847 | [207847-pentominovich.json](./207847-pentominovich.json) |
 | Penumbra | 177550 | [177550-penumbra.json](./177550-penumbra.json) |
@@ -2706,6 +2708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picscape | 339347 | [339347-picscape.json](./339347-picscape.json) |
 | Pictassembler | 127178 | [127178-pictassembler.json](./127178-pictassembler.json) |
 | Picterra | 305957 | [305957-picterra.json](./305957-picterra.json) |
+| Pictionary | 92052 | [92052-pictionary.json](./92052-pictionary.json) |
 | Pictlogica Final Fantasy: Nearly Equal | 343426 | [343426-pictlogica-final-fantasy-nearly-equal.json](./343426-pictlogica-final-fantasy-nearly-equal.json) |
 | PictoImage | 84824 | [84824-pictoimage.json](./84824-pictoimage.json) |
 | PictoParty | 58457 | [58457-pictoparty.json](./58457-pictoparty.json) |
