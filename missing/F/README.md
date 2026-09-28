@@ -1596,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed Me More Brains | 410907 | [410907-feed-me-more-brains.json](./410907-feed-me-more-brains.json) |
 | Feed Me Oil 2 | 39207 | [39207-feed-me-oil-2.json](./39207-feed-me-oil-2.json) |
 | Feed Me Oil 2: Liquid Puzzle Adventure | 108499 | [108499-feed-me-oil-2-liquid-puzzle-adventure.json](./108499-feed-me-oil-2-liquid-puzzle-adventure.json) |
+| Feed My Alien | 60629 | [60629-feed-my-alien.json](./60629-feed-my-alien.json) |
 | Feed the AI | 398585 | [398585-feed-the-ai.json](./398585-feed-the-ai.json) |
 | Feed the Animals | 75916 | [75916-feed-the-animals.json](./75916-feed-the-animals.json) |
 | Feed The Beast | 292539 | [292539-feed-the-beast.json](./292539-feed-the-beast.json) |
@@ -2184,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy IX Remake | 309656 | [309656-final-fantasy-ix-remake.json](./309656-final-fantasy-ix-remake.json) |
 | Final Fantasy IX: Alternate Fantasy | 360108 | [360108-final-fantasy-ix-alternate-fantasy.json](./360108-final-fantasy-ix-alternate-fantasy.json) |
 | Final Fantasy Legend II | 403 | [403-final-fantasy-legend-ii.json](./403-final-fantasy-legend-ii.json) |
+| Final Fantasy Legends: Toki no Suisho | 60600 | [60600-final-fantasy-legends-toki-no-suisho.json](./60600-final-fantasy-legends-toki-no-suisho.json) |
 | Final Fantasy Origins | 417 | [417-final-fantasy-origins.json](./417-final-fantasy-origins.json) |
 | Final Fantasy Redux | 219282 | [219282-final-fantasy-redux.json](./219282-final-fantasy-redux.json) |
 | Final Fantasy Renaissance | 298558 | [298558-final-fantasy-renaissance.json](./298558-final-fantasy-renaissance.json) |
