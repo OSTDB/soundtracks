@@ -583,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Rune Stone | 333367 | [333367-magic-rune-stone.json](./333367-magic-rune-stone.json) |
 | Magic School Bus Lands on Mars | 74082 | [74082-magic-school-bus-lands-on-mars.json](./74082-magic-school-bus-lands-on-mars.json) |
 | Magic School Bus Volcano Adventure | 69818 | [69818-magic-school-bus-volcano-adventure.json](./69818-magic-school-bus-volcano-adventure.json) |
+| Magic School Bus Whales and Dolphins | 71579 | [71579-magic-school-bus-whales-and-dolphins.json](./71579-magic-school-bus-whales-and-dolphins.json) |
 | Magic Scroll | 278543 | [278543-magic-scroll.json](./278543-magic-scroll.json) |
 | Magic Sheep | 380397 | [380397-magic-sheep.json](./380397-magic-sheep.json) |
 | Magic Shot | 18235 | [18235-magic-shot.json](./18235-magic-shot.json) |
@@ -3010,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot 7: Kabuto Version | 138121 | [138121-medarot-7-kabuto-version.json](./138121-medarot-7-kabuto-version.json) |
 | Medarot 8: Kabuto Version | 138117 | [138117-medarot-8-kabuto-version.json](./138117-medarot-8-kabuto-version.json) |
 | Medarot 9 Kabuto/Kuwagata | 59661 | [59661-medarot-9-kabuto-kuwagata.json](./59661-medarot-9-kabuto-kuwagata.json) |
+| Medarot Classics | 71577 | [71577-medarot-classics.json](./71577-medarot-classics.json) |
 | Medarot Classics Kabuto Version | 136957 | [136957-medarot-classics-kabuto-version.json](./136957-medarot-classics-kabuto-version.json) |
 | Medarot Classics Kuwagata Version | 136953 | [136953-medarot-classics-kuwagata-version.json](./136953-medarot-classics-kuwagata-version.json) |
 | Medarot Classics Plus Kabuto Version | 136832 | [136832-medarot-classics-plus-kabuto-version.json](./136832-medarot-classics-plus-kabuto-version.json) |
@@ -3747,6 +3749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories Off: Festa | 37361 | [37361-memories-off-festa.json](./37361-memories-off-festa.json) |
 | Memories Off: Historia - Vol. 1 | 140386 | [140386-memories-off-historia-vol-1.json](./140386-memories-off-historia-vol-1.json) |
 | Memories Off: Historia - Volume 2 | 140387 | [140387-memories-off-historia-volume-2.json](./140387-memories-off-historia-volume-2.json) |
+| Memories Off: Innocent Fille | 71590 | [71590-memories-off-innocent-fille.json](./71590-memories-off-innocent-fille.json) |
 | Memories Off: Sorekara | 288771 | [288771-memories-off-sorekara.json](./288771-memories-off-sorekara.json) |
 | Memories Off: Yubikiri no Kioku | 288769 | [288769-memories-off-yubikiri-no-kioku.json](./288769-memories-off-yubikiri-no-kioku.json) |
 | Memories Off: Yubikiri no Kioku - Futari no Fuuryuuan | 413656 | [413656-memories-off-yubikiri-no-kioku-futari-no-fuuryuuan.json](./413656-memories-off-yubikiri-no-kioku-futari-no-fuuryuuan.json) |
@@ -5593,6 +5596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minky | 246979 | [246979-minky.json](./246979-minky.json) |
 | Minky Momo no Panic Ball | 310519 | [310519-minky-momo-no-panic-ball.json](./310519-minky-momo-no-panic-ball.json) |
 | MinMe | 241050 | [241050-minme.json](./241050-minme.json) |
+| Minna de Asobo: Shanghai DS 2 | 71570 | [71570-minna-de-asobo-shanghai-ds-2.json](./71570-minna-de-asobo-shanghai-ds-2.json) |
 | Minna de Nanpure | 55939 | [55939-minna-de-nanpure.json](./55939-minna-de-nanpure.json) |
 | Minna de Noujiru! Warumono Nage-houdai! Ningen Medal Game | 358495 | [358495-minna-de-noujiru-warumono-nage-houdai-ningen-medal-game.json](./358495-minna-de-noujiru-warumono-nage-houdai-ningen-medal-game.json) |
 | Minna de Shitendo DS: Hanshichi Yuumon & Ango & Ago Juurou & Hatamoto Taikutsu Otoko | 269589 | [269589-minna-de-shitendo-ds-hanshichi-yuumon-and-ango-and-ago-juurou-and-hatamoto-taikutsu-otoko.json](./269589-minna-de-shitendo-ds-hanshichi-yuumon-and-ango-and-ago-juurou-and-hatamoto-taikutsu-otoko.json) |
@@ -8020,6 +8024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MTB DirtCross | 298860 | [298860-mtb-dirtcross.json](./298860-mtb-dirtcross.json) |
 | MTF: Moth To a Flame | 379980 | [379980-mtf-moth-to-a-flame.json](./379980-mtf-moth-to-a-flame.json) |
 | Mtn Chaos | 257963 | [257963-mtn-chaos.json](./257963-mtn-chaos.json) |
+| MTP Target | 71566 | [71566-mtp-target.json](./71566-mtp-target.json) |
 | MTV Remote Control | 18019 | [18019-mtv-remote-control.json](./18019-mtv-remote-control.json) |
 | MTV Sports: Pure Ride | 306635 | [306635-mtv-sports-pure-ride.json](./306635-mtv-sports-pure-ride.json) |
 | MTV Sports: Pure Ride | 49960 | [49960-mtv-sports-pure-ride.json](./49960-mtv-sports-pure-ride.json) |
