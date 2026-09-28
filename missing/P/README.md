@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Mondrian | 174791 | [174791-pac-mondrian.json](./174791-pac-mondrian.json) |
 | Pac-Motos | 203273 | [203273-pac-motos.json](./203273-pac-motos.json) |
 | Pac-Panic | 46572 | [46572-pac-panic.json](./46572-pac-panic.json) |
+| Pac-Slot | 64458 | [64458-pac-slot.json](./64458-pac-slot.json) |
 | Pac-Snec | 393131 | [393131-pac-snec.json](./393131-pac-snec.json) |
 | Pac's Revenge | 337997 | [337997-pacs-revenge.json](./337997-pacs-revenge.json) |
 | Paca Paca Passion Special | 329386 | [329386-paca-paca-passion-special.json](./329386-paca-paca-passion-special.json) |
@@ -259,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pagan Hope | 132713 | [132713-pagan-hope.json](./132713-pagan-hope.json) |
 | Pagan: Absent Gods | 111835 | [111835-pagan-absent-gods.json](./111835-pagan-absent-gods.json) |
 | Pagans Must Die | 116853 | [116853-pagans-must-die.json](./116853-pagans-must-die.json) |
+| Page Chronica | 64462 | [64462-page-chronica.json](./64462-page-chronica.json) |
 | Pageant | 184045 | [184045-pageant.json](./184045-pageant.json) |
 | Paging Dr. Floppy! | 230793 | [230793-paging-dr-floppy.json](./230793-paging-dr-floppy.json) |
 | Pagui | 124178 | [124178-pagui.json](./124178-pagui.json) |
@@ -3125,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Sniper | 344963 | [344963-pinball-sniper.json](./344963-pinball-sniper.json) |
 | Pinball Spectacular | 61308 | [61308-pinball-spectacular.json](./61308-pinball-spectacular.json) |
 | Pinball Strike Arcade Rampage | 377720 | [377720-pinball-strike-arcade-rampage.json](./377720-pinball-strike-arcade-rampage.json) |
+| Pinball Tycoon | 64477 | [64477-pinball-tycoon.json](./64477-pinball-tycoon.json) |
 | Pinball Wicked | 43121 | [43121-pinball-wicked.json](./43121-pinball-wicked.json) |
 | Pinball Wizard | 12959 | [12959-pinball-wizard.json](./12959-pinball-wizard.json) |
 | Pinball World | 51887 | [51887-pinball-world.json](./51887-pinball-world.json) |
@@ -3204,6 +3207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinkie | 77426 | [77426-pinkie.json](./77426-pinkie.json) |
 | Pinky and the Brain: The Master Plan | 49360 | [49360-pinky-and-the-brain-the-master-plan.json](./49360-pinky-and-the-brain-the-master-plan.json) |
 | Pinky Promise Manifesto | 176440 | [176440-pinky-promise-manifesto.json](./176440-pinky-promise-manifesto.json) |
+| Pinky Spots Leg Massage | 64467 | [64467-pinky-spots-leg-massage.json](./64467-pinky-spots-leg-massage.json) |
 | Pinky Xmas | 340207 | [340207-pinky-xmas.json](./340207-pinky-xmas.json) |
 | Pinnacle of Darkness | 274202 | [274202-pinnacle-of-darkness.json](./274202-pinnacle-of-darkness.json) |
 | Pinnacle Point | 291463 | [291463-pinnacle-point.json](./291463-pinnacle-point.json) |
@@ -3760,10 +3764,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelegend | 346615 | [346615-pixelegend.json](./346615-pixelegend.json) |
 | Pixelfence | 128982 | [128982-pixelfence.json](./128982-pixelfence.json) |
 | PixelGround | 191848 | [191848-pixelground.json](./191848-pixelground.json) |
+| Pixeline and the Jungle Treasure | 64502 | [64502-pixeline-and-the-jungle-treasure.json](./64502-pixeline-and-the-jungle-treasure.json) |
+| Pixeline Skolebøger: Dansk | 64501 | [64501-pixeline-skoleb-ger-dansk.json](./64501-pixeline-skoleb-ger-dansk.json) |
 | Pixeline: for Fulde Sejl | 147880 | [147880-pixeline-for-fulde-sejl.json](./147880-pixeline-for-fulde-sejl.json) |
 | Pixeline: fuld af Fis og Ballade | 147881 | [147881-pixeline-fuld-af-fis-og-ballade.json](./147881-pixeline-fuld-af-fis-og-ballade.json) |
 | Pixeline: i Sommerhuset | 147877 | [147877-pixeline-i-sommerhuset.json](./147877-pixeline-i-sommerhuset.json) |
 | Pixeline: og Kong Gulerod | 147882 | [147882-pixeline-og-kong-gulerod.json](./147882-pixeline-og-kong-gulerod.json) |
+| Pixeline: Star Hotel | 64503 | [64503-pixeline-star-hotel.json](./64503-pixeline-star-hotel.json) |
 | Pixeline: Syng, Leg og Lær | 143751 | [143751-pixeline-syng-leg-og-l-r.json](./143751-pixeline-syng-leg-og-l-r.json) |
 | Pixelite | 308558 | [308558-pixelite.json](./308558-pixelite.json) |
 | PixelJunk Eden 2 | 131872 | [131872-pixeljunk-eden-2.json](./131872-pixeljunk-eden-2.json) |
@@ -5417,6 +5424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n Music Iroha | 79935 | [79935-popn-music-iroha.json](./79935-popn-music-iroha.json) |
 | Pop'n Music Lapistoria | 79936 | [79936-popn-music-lapistoria.json](./79936-popn-music-lapistoria.json) |
 | Pop'n Music Portable | 67314 | [67314-popn-music-portable.json](./67314-popn-music-portable.json) |
+| Pop'n Music Portable 2 | 64472 | [64472-popn-music-portable-2.json](./64472-popn-music-portable-2.json) |
 | Pop'n Music Sengoku Retsuden | 67315 | [67315-popn-music-sengoku-retsuden.json](./67315-popn-music-sengoku-retsuden.json) |
 | Pop'n Music the Movie | 67316 | [67316-popn-music-the-movie.json](./67316-popn-music-the-movie.json) |
 | pop'n music: Tune Street | 98811 | [98811-popn-music-tune-street.json](./98811-popn-music-tune-street.json) |
