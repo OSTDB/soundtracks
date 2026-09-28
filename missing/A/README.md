@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Samurai Shodown V Special | 117520 | [117520-aca-neo-geo-samurai-shodown-v-special.json](./117520-aca-neo-geo-samurai-shodown-v-special.json) |
 | ACA Neo Geo: Sengoku 3 | 104269 | [104269-aca-neo-geo-sengoku-3.json](./104269-aca-neo-geo-sengoku-3.json) |
 | ACA Neo Geo: Stakes Winner | 99167 | [99167-aca-neo-geo-stakes-winner.json](./99167-aca-neo-geo-stakes-winner.json) |
+| ACA Neo Geo: Super Baseball 2020 | 85561 | [85561-aca-neo-geo-super-baseball-2020.json](./85561-aca-neo-geo-super-baseball-2020.json) |
 | ACA Neo Geo: The King of Fighters '98 | 88907 | [88907-aca-neo-geo-the-king-of-fighters-98.json](./88907-aca-neo-geo-the-king-of-fighters-98.json) |
 | ACA Neo Geo: The King of Fighters 2003 | 115445 | [115445-aca-neo-geo-the-king-of-fighters-2003.json](./115445-aca-neo-geo-the-king-of-fighters-2003.json) |
 | ACA Neo Geo: The Last Blade 2 | 90517 | [90517-aca-neo-geo-the-last-blade-2.json](./90517-aca-neo-geo-the-last-blade-2.json) |
