@@ -2677,6 +2677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firework | 399603 | [399603-firework.json](./399603-firework.json) |
 | Firework Survivor | 283843 | [283843-firework-survivor.json](./283843-firework-survivor.json) |
 | Firework Syndrome | 310756 | [310756-firework-syndrome.json](./310756-firework-syndrome.json) |
+| Fireworks | 78085 | [78085-fireworks.json](./78085-fireworks.json) |
 | Fireworks Extravaganza | 57611 | [57611-fireworks-extravaganza.json](./57611-fireworks-extravaganza.json) |
 | Fireworks Mania | 126512 | [126512-fireworks-mania.json](./126512-fireworks-mania.json) |
 | Fireworks Simulator: Realistic | 169400 | [169400-fireworks-simulator-realistic.json](./169400-fireworks-simulator-realistic.json) |
@@ -3342,6 +3343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Commander 2 | 73854 | [73854-flight-commander-2.json](./73854-flight-commander-2.json) |
 | Flight Control HD | 15064 | [15064-flight-control-hd.json](./15064-flight-control-hd.json) |
 | Flight Date | 403710 | [403710-flight-date.json](./403710-flight-date.json) |
+| Flight Deck 5 | 78093 | [78093-flight-deck-5.json](./78093-flight-deck-5.json) |
 | Flight Fight 2s | 89699 | [89699-flight-fight-2s.json](./89699-flight-fight-2s.json) |
 | Flight Light Plus | 96504 | [96504-flight-light-plus.json](./96504-flight-light-plus.json) |
 | Flight Masters: The Horizon Chase | 322121 | [322121-flight-masters-the-horizon-chase.json](./322121-flight-masters-the-horizon-chase.json) |
@@ -4640,6 +4642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foto Babes | 114556 | [114556-foto-babes.json](./114556-foto-babes.json) |
 | Foto Boy: A New Job | 290932 | [290932-foto-boy-a-new-job.json](./290932-foto-boy-a-new-job.json) |
 | Foto Face: The Face Stealer Strikes | 67286 | [67286-foto-face-the-face-stealer-strikes.json](./67286-foto-face-the-face-stealer-strikes.json) |
+| Foto Frenzy | 78070 | [78070-foto-frenzy.json](./78070-foto-frenzy.json) |
 | Foturians: Myth and Reality | 399697 | [399697-foturians-myth-and-reality.json](./399697-foturians-myth-and-reality.json) |
 | Foul Play | 5895 | [5895-foul-play.json](./5895-foul-play.json) |
 | Foul Play - Mystery at Awkward Manor | 127783 | [127783-foul-play-mystery-at-awkward-manor.json](./127783-foul-play-mystery-at-awkward-manor.json) |
@@ -5834,6 +5837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furby Island | 233987 | [233987-furby-island.json](./233987-furby-island.json) |
 | Furcadia | 18343 | [18343-furcadia.json](./18343-furcadia.json) |
 | Furcadia: The Second Dreaming | 300875 | [300875-furcadia-the-second-dreaming.json](./300875-furcadia-the-second-dreaming.json) |
+| Fureraba: Friend to Lover - Mini Fandisk | 77936 | [77936-fureraba-friend-to-lover-mini-fandisk.json](./77936-fureraba-friend-to-lover-mini-fandisk.json) |
 | Furi | 17026 | [17026-furi.json](./17026-furi.json) |
 | Furi: Onnamusha | 200436 | [200436-furi-onnamusha.json](./200436-furi-onnamusha.json) |
 | Furikake Spacey | 216461 | [216461-furikake-spacey.json](./216461-furikake-spacey.json) |
