@@ -1769,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Levantar La Botella | 364512 | [364512-levantar-la-botella.json](./364512-levantar-la-botella.json) |
 | Level | 326614 | [326614-level.json](./326614-level.json) |
 | Level 5 | 94001 | [94001-level-5.json](./94001-level-5.json) |
+| Level Crossing | 92088 | [92088-level-crossing.json](./92088-level-crossing.json) |
 | Level Devil | 279687 | [279687-level-devil.json](./279687-level-devil.json) |
 | Level Down | 133828 | [133828-level-down.json](./133828-level-down.json) |
 | Level Squared | 82890 | [82890-level-squared.json](./82890-level-squared.json) |
