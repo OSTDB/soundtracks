@@ -2273,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain: The Lost Footprints | 127795 | [127795-chain-the-lost-footprints.json](./127795-chain-the-lost-footprints.json) |
 | ChainBeet | 292615 | [292615-chainbeet.json](./292615-chainbeet.json) |
 | Chainbound | 384797 | [384797-chainbound.json](./384797-chainbound.json) |
+| ChainDive | 66743 | [66743-chaindive.json](./66743-chaindive.json) |
 | Chained | 309352 | [309352-chained.json](./309352-chained.json) |
 | Chained 2 Violence | 346691 | [346691-chained-2-violence.json](./346691-chained-2-violence.json) |
 | Chained Horror Experiences | 258980 | [258980-chained-horror-experiences.json](./258980-chained-horror-experiences.json) |
@@ -3240,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice of Life: Wild Islands | 253576 | [253576-choice-of-life-wild-islands.json](./253576-choice-of-life-wild-islands.json) |
 | Choice of Magics | 107060 | [107060-choice-of-magics.json](./107060-choice-of-magics.json) |
 | Choice of Rebels: Stormwright | 253383 | [253383-choice-of-rebels-stormwright.json](./253383-choice-of-rebels-stormwright.json) |
+| Choice of the Dragon | 66762 | [66762-choice-of-the-dragon.json](./66762-choice-of-the-dragon.json) |
 | Choice of the Vampire: St. Louis, Unreal City | 169935 | [169935-choice-of-the-vampire-st-louis-unreal-city.json](./169935-choice-of-the-vampire-st-louis-unreal-city.json) |
 | Choice of Zombies | 48012 | [48012-choice-of-zombies.json](./48012-choice-of-zombies.json) |
 | Choice or Fate | 114404 | [114404-choice-or-fate.json](./114404-choice-or-fate.json) |
@@ -7079,6 +7081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Frog Racer | 248686 | [248686-crazy-frog-racer.json](./248686-crazy-frog-racer.json) |
 | Crazy Frog: Axel F Piano Tiles | 95870 | [95870-crazy-frog-axel-f-piano-tiles.json](./95870-crazy-frog-axel-f-piano-tiles.json) |
 | Crazy Fun Ball | 172151 | [172151-crazy-fun-ball.json](./172151-crazy-fun-ball.json) |
+| Crazy Gobbler | 66728 | [66728-crazy-gobbler.json](./66728-crazy-gobbler.json) |
 | Crazy Goose Simulator | 288304 | [288304-crazy-goose-simulator.json](./288304-crazy-goose-simulator.json) |
 | Crazy Guy | 238061 | [238061-crazy-guy.json](./238061-crazy-guy.json) |
 | Crazy Halloween | 310554 | [310554-crazy-halloween.json](./310554-crazy-halloween.json) |
@@ -8489,6 +8492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custer's Revenge | 8529 | [8529-custers-revenge.json](./8529-custers-revenge.json) |
 | Custer's Revenge in Gensoukyou | 98448 | [98448-custers-revenge-in-gensoukyou.json](./98448-custers-revenge-in-gensoukyou.json) |
 | Custodial | 179742 | [179742-custodial.json](./179742-custodial.json) |
+| Custom Beat Battle: Draglade 2 | 66783 | [66783-custom-beat-battle-draglade-2.json](./66783-custom-beat-battle-draglade-2.json) |
 | Custom Maid 3D | 191694 | [191694-custom-maid-3d.json](./191694-custom-maid-3d.json) |
 | Custom Mario Maker | 294782 | [294782-custom-mario-maker.json](./294782-custom-mario-maker.json) |
 | Custom Mech Wars: EDF Collab Edition | 268007 | [268007-custom-mech-wars-edf-collab-edition.json](./268007-custom-mech-wars-edf-collab-edition.json) |
