@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daddy Long Legs | 89289 | [89289-daddy-long-legs.json](./89289-daddy-long-legs.json) |
 | Daddy Moto Racing | 255063 | [255063-daddy-moto-racing.json](./255063-daddy-moto-racing.json) |
 | Daddy Was A Thief | 103150 | [103150-daddy-was-a-thief.json](./103150-daddy-was-a-thief.json) |
+| Daddy's gone a-hunting | 76517 | [76517-daddys-gone-a-hunting.json](./76517-daddys-gone-a-hunting.json) |
 | Dadi Kingdom | 416622 | [416622-dadi-kingdom.json](./416622-dadi-kingdom.json) |
 | Dadish | 134427 | [134427-dadish.json](./134427-dadish.json) |
 | Dadish 3 | 199111 | [199111-dadish-3.json](./199111-dadish-3.json) |
@@ -633,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Drive | 95620 | [95620-dark-drive.json](./95620-dark-drive.json) |
 | Dark Earth | 410975 | [410975-dark-earth.json](./410975-dark-earth.json) |
 | Dark Echo | 293776 | [293776-dark-echo.json](./293776-dark-echo.json) |
+| Dark Eclipse | 76515 | [76515-dark-eclipse.json](./76515-dark-eclipse.json) |
 | Dark Eden Umbra | 359526 | [359526-dark-eden-umbra.json](./359526-dark-eden-umbra.json) |
 | Dark Egg | 213974 | [213974-dark-egg.json](./213974-dark-egg.json) |
 | Dark Elf | 51570 | [51570-dark-elf.json](./51570-dark-elf.json) |
@@ -1262,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days of Discord | 59654 | [59654-days-of-discord.json](./59654-days-of-discord.json) |
 | Days Of My Life | 270190 | [270190-days-of-my-life.json](./270190-days-of-my-life.json) |
 | Days of Oblivion | 69805 | [69805-days-of-oblivion.json](./69805-days-of-oblivion.json) |
+| Days of Purgatory | 76706 | [76706-days-of-purgatory.json](./76706-days-of-purgatory.json) |
 | Days of Reckoning: Last Battle | 402898 | [402898-days-of-reckoning-last-battle.json](./402898-days-of-reckoning-last-battle.json) |
 | Days of Saturn | 326062 | [326062-days-of-saturn.json](./326062-days-of-saturn.json) |
 | Days of the Divine | 243955 | [243955-days-of-the-divine.json](./243955-days-of-the-divine.json) |
@@ -6308,6 +6311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Prana | 200178 | [200178-dragon-prana.json](./200178-dragon-prana.json) |
 | Dragon Princess Anastasia | 195619 | [195619-dragon-princess-anastasia.json](./195619-dragon-princess-anastasia.json) |
 | Dragon Princess: Meikyuu no Madoushi | 67256 | [67256-dragon-princess-meikyuu-no-madoushi.json](./67256-dragon-princess-meikyuu-no-madoushi.json) |
+| Dragon Project | 76712 | [76712-dragon-project.json](./76712-dragon-project.json) |
 | Dragon Puncher | 332997 | [332997-dragon-puncher.json](./332997-dragon-puncher.json) |
 | Dragon puzzle | 132733 | [132733-dragon-puzzle.json](./132733-dragon-puzzle.json) |
 | Dragon Quest 25th Anniversary Collection | 136885 | [136885-dragon-quest-25th-anniversary-collection.json](./136885-dragon-quest-25th-anniversary-collection.json) |
