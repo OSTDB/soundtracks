@@ -3838,6 +3838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eggsperts | 373560 | [373560-the-eggsperts.json](./373560-the-eggsperts.json) |
 | The Eidolon | 12950 | [12950-the-eidolon.json](./12950-the-eidolon.json) |
 | The Eigengrau Menagerie | 90480 | [90480-the-eigengrau-menagerie.json](./90480-the-eigengrau-menagerie.json) |
+| The Eire Raising Adventures of Seamus O'Mally | 73860 | [73860-the-eire-raising-adventures-of-seamus-omally.json](./73860-the-eire-raising-adventures-of-seamus-omally.json) |
 | The Elder Fight | 175722 | [175722-the-elder-fight.json](./175722-the-elder-fight.json) |
 | The Elder Reality | 271486 | [271486-the-elder-reality.json](./271486-the-elder-reality.json) |
 | The Elder Scrolls Adventures: Redguard | 55 | [55-the-elder-scrolls-adventures-redguard.json](./55-the-elder-scrolls-adventures-redguard.json) |
@@ -5619,6 +5620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Leviathan's Fantasy: Samurai and Onmyoji | 298175 | [298175-the-leviathans-fantasy-samurai-and-onmyoji.json](./298175-the-leviathans-fantasy-samurai-and-onmyoji.json) |
 | The Lewd Deal | 375971 | [375971-the-lewd-deal.json](./375971-the-lewd-deal.json) |
 | The Liar's Tavern | 322981 | [322981-the-liars-tavern.json](./322981-the-liars-tavern.json) |
+| The Liberation of Kuwait | 73740 | [73740-the-liberation-of-kuwait.json](./73740-the-liberation-of-kuwait.json) |
 | The Librarian: Special Edition | 241360 | [241360-the-librarian-special-edition.json](./241360-the-librarian-special-edition.json) |
 | The Library of Babble | 121620 | [121620-the-library-of-babble.json](./121620-the-library-of-babble.json) |
 | The Lies We Tell Ourselves | 221135 | [221135-the-lies-we-tell-ourselves.json](./221135-the-lies-we-tell-ourselves.json) |
@@ -5936,6 +5938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mansion | 159683 | [159683-the-mansion.json](./159683-the-mansion.json) |
 | The Mansion of Hidden Souls | 45522 | [45522-the-mansion-of-hidden-souls.json](./45522-the-mansion-of-hidden-souls.json) |
 | The Mansion of The Macabre | 328470 | [328470-the-mansion-of-the-macabre.json](./328470-the-mansion-of-the-macabre.json) |
+| The Many Faces of Go | 73868 | [73868-the-many-faces-of-go.json](./73868-the-many-faces-of-go.json) |
 | The Many Misfortunes of Kyran Pierre Cadenza the First | 211764 | [211764-the-many-misfortunes-of-kyran-pierre-cadenza-the-first.json](./211764-the-many-misfortunes-of-kyran-pierre-cadenza-the-first.json) |
 | The Many Pieces of Mr. Coo | 142959 | [142959-the-many-pieces-of-mr-coo.json](./142959-the-many-pieces-of-mr-coo.json) |
 | The Many Pieces of Mr. Coo: Coollector Edition | 247195 | [247195-the-many-pieces-of-mr-coo-coollector-edition.json](./247195-the-many-pieces-of-mr-coo-coollector-edition.json) |
@@ -6750,6 +6753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Lantern | 116413 | [116413-the-red-lantern.json](./116413-the-red-lantern.json) |
 | The Red Line | 269104 | [269104-the-red-line.json](./269104-the-red-line.json) |
 | The Red Moon | 105320 | [105320-the-red-moon.json](./105320-the-red-moon.json) |
+| The Red Odyssey | 73864 | [73864-the-red-odyssey.json](./73864-the-red-odyssey.json) |
 | The Red One: Occultation | 408734 | [408734-the-red-one-occultation.json](./408734-the-red-one-occultation.json) |
 | The Red Prison | 117802 | [117802-the-red-prison.json](./117802-the-red-prison.json) |
 | The Red Sea | 202335 | [202335-the-red-sea.json](./202335-the-red-sea.json) |
@@ -11948,6 +11952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Druaga: Tower of Defender | 76964 | [76964-tower-of-druaga-tower-of-defender.json](./76964-tower-of-druaga-tower-of-defender.json) |
 | Tower of Eglathia | 35702 | [35702-tower-of-eglathia.json](./35702-tower-of-eglathia.json) |
 | Tower of Evil | 25731 | [25731-tower-of-evil.json](./25731-tower-of-evil.json) |
+| Tower of Fear | 73743 | [73743-tower-of-fear.json](./73743-tower-of-fear.json) |
 | Tower of Fortune | 130751 | [130751-tower-of-fortune.json](./130751-tower-of-fortune.json) |
 | Tower of God M: The Great Journey | 188404 | [188404-tower-of-god-m-the-great-journey.json](./188404-tower-of-god-m-the-great-journey.json) |
 | Tower of God: Great Journey | 231889 | [231889-tower-of-god-great-journey.json](./231889-tower-of-god-great-journey.json) |
@@ -14204,6 +14209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel Town | 106380 | [106380-tunnel-town.json](./106380-tunnel-town.json) |
 | Tunnel View | 180699 | [180699-tunnel-view.json](./180699-tunnel-view.json) |
 | Tunnel Vision | 273873 | [273873-tunnel-vision.json](./273873-tunnel-vision.json) |
+| Tunnels & Trolls: Crusaders of Khazan | 73874 | [73874-tunnels-and-trolls-crusaders-of-khazan.json](./73874-tunnels-and-trolls-crusaders-of-khazan.json) |
 | Tunnels of Armageddon | 71808 | [71808-tunnels-of-armageddon.json](./71808-tunnels-of-armageddon.json) |
 | Tunnels of Fahad | 74765 | [74765-tunnels-of-fahad.json](./74765-tunnels-of-fahad.json) |
 | Tunnels of Terror! | 260986 | [260986-tunnels-of-terror.json](./260986-tunnels-of-terror.json) |
