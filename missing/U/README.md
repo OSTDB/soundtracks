@@ -923,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unguided Order | 379032 | [379032-unguided-order.json](./379032-unguided-order.json) |
 | Ungus | 229659 | [229659-ungus.json](./229659-ungus.json) |
 | Unhallowed | 256834 | [256834-unhallowed.json](./256834-unhallowed.json) |
+| Unhallowed: The Cabin | 96235 | [96235-unhallowed-the-cabin.json](./96235-unhallowed-the-cabin.json) |
 | Unhappening | 397909 | [397909-unhappening.json](./397909-unhappening.json) |
 | Unhappy Hour | 197106 | [197106-unhappy-hour.json](./197106-unhappy-hour.json) |
 | Unhatched | 144113 | [144113-unhatched.json](./144113-unhatched.json) |
