@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangokushi Eiketsuden | 327954 | [327954-sangokushi-eiketsuden.json](./327954-sangokushi-eiketsuden.json) |
 | Sangokushi Game Boy-ban | 349837 | [349837-sangokushi-game-boy-ban.json](./349837-sangokushi-game-boy-ban.json) |
 | Sangokushi II: Haou no Tairiku | 48861 | [48861-sangokushi-ii-haou-no-tairiku.json](./48861-sangokushi-ii-haou-no-tairiku.json) |
+| Sangokushi Returns | 97459 | [97459-sangokushi-returns.json](./97459-sangokushi-returns.json) |
 | Sangokushi Tactics | 341156 | [341156-sangokushi-tactics.json](./341156-sangokushi-tactics.json) |
 | Sangokushi Taisen | 27624 | [27624-sangokushi-taisen.json](./27624-sangokushi-taisen.json) |
 | Sangokushi Taisen 3 War Begins | 64974 | [64974-sangokushi-taisen-3-war-begins.json](./64974-sangokushi-taisen-3-war-begins.json) |
@@ -1974,6 +1975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Neighbor: Welcome Pack | 305854 | [305854-secret-neighbor-welcome-pack.json](./305854-secret-neighbor-welcome-pack.json) |
 | Secret of Dungeon | 158515 | [158515-secret-of-dungeon.json](./158515-secret-of-dungeon.json) |
 | Secret of Evangelion | 61670 | [61670-secret-of-evangelion.json](./61670-secret-of-evangelion.json) |
+| Secret of Harrow Manor | 97497 | [97497-secret-of-harrow-manor.json](./97497-secret-of-harrow-manor.json) |
 | Secret of Harrow Manor 2 | 164877 | [164877-secret-of-harrow-manor-2.json](./164877-secret-of-harrow-manor-2.json) |
 | Secret of Lost Pyramid | 103876 | [103876-secret-of-lost-pyramid.json](./103876-secret-of-lost-pyramid.json) |
 | Secret of Mana | 3216 | [3216-secret-of-mana.json](./3216-secret-of-mana.json) |
@@ -2506,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seres Universalis: Three Kingdoms | 372109 | [372109-seres-universalis-three-kingdoms.json](./372109-seres-universalis-three-kingdoms.json) |
 | Serflings | 210632 | [210632-serflings.json](./210632-serflings.json) |
 | Serguei's Destiny | 74041 | [74041-sergueis-destiny.json](./74041-sergueis-destiny.json) |
+| Serial Assault: The Memory of the Summer. | 97478 | [97478-serial-assault-the-memory-of-the-summer.json](./97478-serial-assault-the-memory-of-the-summer.json) |
 | Serial Cleaner | 19450 | [19450-serial-cleaner.json](./19450-serial-cleaner.json) |
 | Serial Cleaner: Blood & Confetti | 336529 | [336529-serial-cleaner-blood-and-confetti.json](./336529-serial-cleaner-blood-and-confetti.json) |
 | Serial Cleaners: Dino Park | 249301 | [249301-serial-cleaners-dino-park.json](./249301-serial-cleaners-dino-park.json) |
@@ -3022,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowbane: Throne of Oblivion | 66366 | [66366-shadowbane-throne-of-oblivion.json](./66366-shadowbane-throne-of-oblivion.json) |
 | Shadowblade Knight Symphony | 313154 | [313154-shadowblade-knight-symphony.json](./313154-shadowblade-knight-symphony.json) |
 | Shadowblade Odyssey | 259513 | [259513-shadowblade-odyssey.json](./259513-shadowblade-odyssey.json) |
+| Shadowblood | 97477 | [97477-shadowblood.json](./97477-shadowblood.json) |
 | Shadowbound | 374076 | [374076-shadowbound.json](./374076-shadowbound.json) |
 | Shadowcaster | 268461 | [268461-shadowcaster.json](./268461-shadowcaster.json) |
 | Shadowcrawl | 80971 | [80971-shadowcrawl.json](./80971-shadowcrawl.json) |
@@ -7978,6 +7982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOS Defense | 108455 | [108455-sos-defense.json](./108455-sos-defense.json) |
 | SOS OPS!: Guns n' Ops | 297553 | [297553-sos-ops-guns-n-ops.json](./297553-sos-ops-guns-n-ops.json) |
 | SOS Zombie: Survival | 276170 | [276170-sos-zombie-survival.json](./276170-sos-zombie-survival.json) |
+| SOS-Jan | 97504 | [97504-sos-jan.json](./97504-sos-jan.json) |
 | SOS: Save Our Ship | 373184 | [373184-sos-save-our-ship.json](./373184-sos-save-our-ship.json) |
 | Soshite Bokura ha... And He Said | 145449 | [145449-soshite-bokura-ha-and-he-said.json](./145449-soshite-bokura-ha-and-he-said.json) |
 | Soshite Kono Sora ni Kirameku Kimi no Uta | 221827 | [221827-soshite-kono-sora-ni-kirameku-kimi-no-uta.json](./221827-soshite-kono-sora-ni-kirameku-kimi-no-uta.json) |
@@ -9548,6 +9553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiritual Soul 2 | 275633 | [275633-spiritual-soul-2.json](./275633-spiritual-soul-2.json) |
 | Spiritually Unemployed | 375832 | [375832-spiritually-unemployed.json](./375832-spiritually-unemployed.json) |
 | Spiritus | 200017 | [200017-spiritus.json](./200017-spiritus.json) |
+| Spirou: The Robot Invasion | 97487 | [97487-spirou-the-robot-invasion.json](./97487-spirou-the-robot-invasion.json) |
 | Spirulena Interceptor | 291231 | [291231-spirulena-interceptor.json](./291231-spirulena-interceptor.json) |
 | Spish | 169421 | [169421-spish.json](./169421-spish.json) |
 | Spiteful Lovers in a Perfect World | 308539 | [308539-spiteful-lovers-in-a-perfect-world.json](./308539-spiteful-lovers-in-a-perfect-world.json) |
@@ -10589,6 +10595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Outlaws: Special Edition | 299474 | [299474-star-wars-outlaws-special-edition.json](./299474-star-wars-outlaws-special-edition.json) |
 | Star Wars Outlaws: Ultimate Edition | 299475 | [299475-star-wars-outlaws-ultimate-edition.json](./299475-star-wars-outlaws-ultimate-edition.json) |
 | Star Wars Pinball Season 1 Bundle | 99757 | [99757-star-wars-pinball-season-1-bundle.json](./99757-star-wars-pinball-season-1-bundle.json) |
+| Star Wars Rebels: Chopper Chase | 97498 | [97498-star-wars-rebels-chopper-chase.json](./97498-star-wars-rebels-chopper-chase.json) |
 | Star Wars: Battle of the Sith Lords | 75088 | [75088-star-wars-battle-of-the-sith-lords.json](./75088-star-wars-battle-of-the-sith-lords.json) |
 | Star Wars: Battle Pod | 75086 | [75086-star-wars-battle-pod.json](./75086-star-wars-battle-pod.json) |
 | Star Wars: Battlefront - Elite Squadron | 192925 | [192925-star-wars-battlefront-elite-squadron.json](./192925-star-wars-battlefront-elite-squadron.json) |
@@ -11447,6 +11454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StepX | 67915 | [67915-stepx.json](./67915-stepx.json) |
 | Steredenn | 14146 | [14146-steredenn.json](./14146-steredenn.json) |
 | Stereo Aereo | 31143 | [31143-stereo-aereo.json](./31143-stereo-aereo.json) |
+| Stereo Life | 97479 | [97479-stereo-life.json](./97479-stereo-life.json) |
 | StereoPaint | 192425 | [192425-stereopaint.json](./192425-stereopaint.json) |
 | Stereophyta | 185004 | [185004-stereophyta.json](./185004-stereophyta.json) |
 | Stern Pinball Arcade | 30288 | [30288-stern-pinball-arcade.json](./30288-stern-pinball-arcade.json) |
@@ -12561,6 +12569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Girl Story | 192443 | [192443-succubus-girl-story.json](./192443-succubus-girl-story.json) |
 | Succubus Imprisoned | 83258 | [83258-succubus-imprisoned.json](./83258-succubus-imprisoned.json) |
 | Succubus Puttel | 385845 | [385845-succubus-puttel.json](./385845-succubus-puttel.json) |
+| Succubus Quest | 97486 | [97486-succubus-quest.json](./97486-succubus-quest.json) |
 | Succubus Rem | 74452 | [74452-succubus-rem.json](./74452-succubus-rem.json) |
 | Succubus Runa and the Erotic Dungeon | 192693 | [192693-succubus-runa-and-the-erotic-dungeon.json](./192693-succubus-runa-and-the-erotic-dungeon.json) |
 | Succubus Sessions: Mami Mamiya's Sweet Slice of Hell | 371233 | [371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json](./371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json) |
@@ -14942,6 +14951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzu to Mari no Bouken: The Ghost of Friend | 206176 | [206176-suzu-to-mari-no-bouken-the-ghost-of-friend.json](./206176-suzu-to-mari-no-bouken-the-ghost-of-friend.json) |
 | Suzume: Match 3 Puzzle | 255336 | [255336-suzume-match-3-puzzle.json](./255336-suzume-match-3-puzzle.json) |
 | Suzumiya Haruhi no Gekidou | 69295 | [69295-suzumiya-haruhi-no-gekidou.json](./69295-suzumiya-haruhi-no-gekidou.json) |
+| Suzumiya Haruhi no Houi | 97503 | [97503-suzumiya-haruhi-no-houi.json](./97503-suzumiya-haruhi-no-houi.json) |
 | Suzumiya Haruhi no Tomadoi | 72709 | [72709-suzumiya-haruhi-no-tomadoi.json](./72709-suzumiya-haruhi-no-tomadoi.json) |
 | Suzy Burger | 151609 | [151609-suzy-burger.json](./151609-suzy-burger.json) |
 | Suzy Cube | 103247 | [103247-suzy-cube.json](./103247-suzy-cube.json) |
