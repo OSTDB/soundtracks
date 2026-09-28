@@ -5365,6 +5365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Chicken, Run! | 370795 | [370795-run-chicken-run.json](./370795-run-chicken-run.json) |
 | Run Crabby Run | 54462 | [54462-run-crabby-run.json](./54462-run-crabby-run.json) |
 | Run Die Jump | 153357 | [153357-run-die-jump.json](./153357-run-die-jump.json) |
+| Run Dorothy Run | 89380 | [89380-run-dorothy-run.json](./89380-run-dorothy-run.json) |
 | Run Elephant Run | 280847 | [280847-run-elephant-run.json](./280847-run-elephant-run.json) |
 | Run Fairy | 111014 | [111014-run-fairy.json](./111014-run-fairy.json) |
 | Run Fire | 258504 | [258504-run-fire.json](./258504-run-fire.json) |
