@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R is for Rachel | 197134 | [197134-r-is-for-rachel.json](./197134-r-is-for-rachel.json) |
 | R no Shosai | 93531 | [93531-r-no-shosai.json](./93531-r-no-shosai.json) |
 | R Place Guesser | 198339 | [198339-r-place-guesser.json](./198339-r-place-guesser.json) |
+| R_sin | 117787 | [117787-r-sin.json](./117787-r-sin.json) |
 | R-Ack | 260101 | [260101-r-ack.json](./260101-r-ack.json) |
 | R-Beta | 225617 | [225617-r-beta.json](./225617-r-beta.json) |
 | R-Coil | 68792 | [68792-r-coil.json](./68792-r-coil.json) |
@@ -1959,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflections of Life: Call of the Ancestors - Collector's Edition | 362827 | [362827-reflections-of-life-call-of-the-ancestors-collectors-edition.json](./362827-reflections-of-life-call-of-the-ancestors-collectors-edition.json) |
 | Reflections of Life: Dark Architect - Collector's Edition | 53498 | [53498-reflections-of-life-dark-architect-collectors-edition.json](./53498-reflections-of-life-dark-architect-collectors-edition.json) |
 | Reflections of Life: Dream Box - Collector's Edition | 362833 | [362833-reflections-of-life-dream-box-collectors-edition.json](./362833-reflections-of-life-dream-box-collectors-edition.json) |
+| Reflections of Life: Equilibrium - Collector's Edition | 117813 | [117813-reflections-of-life-equilibrium-collectors-edition.json](./117813-reflections-of-life-equilibrium-collectors-edition.json) |
 | Reflections of Life: Hearts Taken - Collector's Edition | 362830 | [362830-reflections-of-life-hearts-taken-collectors-edition.json](./362830-reflections-of-life-hearts-taken-collectors-edition.json) |
 | Reflections of Life: In Screams and Sorrow - Collector's Edition | 358853 | [358853-reflections-of-life-in-screams-and-sorrow-collectors-edition.json](./358853-reflections-of-life-in-screams-and-sorrow-collectors-edition.json) |
 | Reflections of Life: Meridiem | 187946 | [187946-reflections-of-life-meridiem.json](./187946-reflections-of-life-meridiem.json) |
@@ -3300,6 +3302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Righteous Kill | 209161 | [209161-righteous-kill.json](./209161-righteous-kill.json) |
 | Rightfully, Beary Arms | 197126 | [197126-rightfully-beary-arms.json](./197126-rightfully-beary-arms.json) |
 | Rights of Progression | 229921 | [229921-rights-of-progression.json](./229921-rights-of-progression.json) |
+| Rigid Chess | 117792 | [117792-rigid-chess.json](./117792-rigid-chess.json) |
 | Rigid Force Redux | 134368 | [134368-rigid-force-redux.json](./134368-rigid-force-redux.json) |
 | Rigid Memory | 205107 | [205107-rigid-memory.json](./205107-rigid-memory.json) |
 | Riglord Saga 2 | 73838 | [73838-riglord-saga-2.json](./73838-riglord-saga-2.json) |
@@ -5294,6 +5297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run It Back | 364672 | [364672-run-it-back.json](./364672-run-it-back.json) |
 | Run Jojo Siwa | 95848 | [95848-run-jojo-siwa.json](./95848-run-jojo-siwa.json) |
 | Run Jump Die Repeat | 47230 | [47230-run-jump-die-repeat.json](./47230-run-jump-die-repeat.json) |
+| Run Jump Rabbit Turtle | 117789 | [117789-run-jump-rabbit-turtle.json](./117789-run-jump-rabbit-turtle.json) |
 | Run Legends | 250438 | [250438-run-legends.json](./250438-run-legends.json) |
 | Run Like Hell! | 61642 | [61642-run-like-hell.json](./61642-run-like-hell.json) |
 | Run Like Hell! Treasure Bundle | 118155 | [118155-run-like-hell-treasure-bundle.json](./118155-run-like-hell-treasure-bundle.json) |
