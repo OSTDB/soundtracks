@@ -2471,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Director's Cut | 317968 | [317968-resident-evil-directors-cut.json](./317968-resident-evil-directors-cut.json) |
 | Resident Evil: Director's Cut Dual Shock Ver. | 145007 | [145007-resident-evil-directors-cut-dual-shock-ver.json](./145007-resident-evil-directors-cut-dual-shock-ver.json) |
 | Resident Evil: During the Storm | 216349 | [216349-resident-evil-during-the-storm.json](./216349-resident-evil-during-the-storm.json) |
+| Resident Evil: Franchise Pack | 99798 | [99798-resident-evil-franchise-pack.json](./99798-resident-evil-franchise-pack.json) |
 | Resident Evil: Grim Beginnings | 298036 | [298036-resident-evil-grim-beginnings.json](./298036-resident-evil-grim-beginnings.json) |
 | Resident Evil: Mortal Night | 185684 | [185684-resident-evil-mortal-night.json](./185684-resident-evil-mortal-night.json) |
 | Resident Evil: Operation Raccoon City - Echo Six Expansion Pack 1 | 143001 | [143001-resident-evil-operation-raccoon-city-echo-six-expansion-pack-1.json](./143001-resident-evil-operation-raccoon-city-echo-six-expansion-pack-1.json) |
@@ -4529,6 +4530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollbot | 351031 | [351031-rollbot.json](./351031-rollbot.json) |
 | Rollcage | 8332 | [8332-rollcage.json](./8332-rollcage.json) |
 | Rolldown | 228366 | [228366-rolldown.json](./228366-rolldown.json) |
+| Roller | 99776 | [99776-roller.json](./99776-roller.json) |
 | Roller Angels | 84847 | [84847-roller-angels.json](./84847-roller-angels.json) |
 | Roller Ball 6 | 196287 | [196287-roller-ball-6.json](./196287-roller-ball-6.json) |
 | Roller Champions | 119158 | [119158-roller-champions.json](./119158-roller-champions.json) |
