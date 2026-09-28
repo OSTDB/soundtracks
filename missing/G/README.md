@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaia Attack 4 | 64962 | [64962-gaia-attack-4.json](./64962-gaia-attack-4.json) |
 | Gaia Crusaders | 39550 | [39550-gaia-crusaders.json](./39550-gaia-crusaders.json) |
 | Gaia Eternal | 56175 | [56175-gaia-eternal.json](./56175-gaia-eternal.json) |
+| Gaia Master Duel Card Attacks | 79384 | [79384-gaia-master-duel-card-attacks.json](./79384-gaia-master-duel-card-attacks.json) |
 | Gaia Online | 125884 | [125884-gaia-online.json](./125884-gaia-online.json) |
 | Gaia Saver: Hero Saidai no Sakusen | 42239 | [42239-gaia-saver-hero-saidai-no-sakusen.json](./42239-gaia-saver-hero-saidai-no-sakusen.json) |
 | Gaia Trek | 248039 | [248039-gaia-trek.json](./248039-gaia-trek.json) |
@@ -3797,6 +3798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GreenChess | 87293 | [87293-greenchess.json](./87293-greenchess.json) |
 | Greendog: The Beached Surfer Dude! | 45792 | [45792-greendog-the-beached-surfer-dude.json](./45792-greendog-the-beached-surfer-dude.json) |
 | Greener Grass Awaits | 266490 | [266490-greener-grass-awaits.json](./266490-greener-grass-awaits.json) |
+| GreenFace | 79361 | [79361-greenface.json](./79361-greenface.json) |
 | Greenfeet Haven | 291781 | [291781-greenfeet-haven.json](./291781-greenfeet-haven.json) |
 | Greenfield | 269002 | [269002-greenfield.json](./269002-greenfield.json) |
 | Greenfield Valley | 391054 | [391054-greenfield-valley.json](./391054-greenfield-valley.json) |
