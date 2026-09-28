@@ -3834,6 +3834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiren the Wanderer: The Tower of Fortune and the Dice of Fate | 19460 | [19460-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json](./19460-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json) |
 | Shiren The Wanderer: The Tower of Fortune and the Dice of Fate - Eternal Wanderer Edition | 42676 | [42676-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate-eternal-wanderer-edition.json](./42676-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate-eternal-wanderer-edition.json) |
 | Shirime 2: The Genesis of Butt-Eye | 253854 | [253854-shirime-2-the-genesis-of-butt-eye.json](./253854-shirime-2-the-genesis-of-butt-eye.json) |
+| Shirina | 103638 | [103638-shirina.json](./103638-shirina.json) |
 | Shiritsu Berubara Gakuen: Versailles no Bara Re*imagination | 136943 | [136943-shiritsu-berubara-gakuen-versailles-no-bara-re-imagination.json](./136943-shiritsu-berubara-gakuen-versailles-no-bara-re-imagination.json) |
 | Shirley Muldowney's Top Fuel Challenge | 69542 | [69542-shirley-muldowneys-top-fuel-challenge.json](./69542-shirley-muldowneys-top-fuel-challenge.json) |
 | Shiro | 220333 | [220333-shiro.json](./220333-shiro.json) |
@@ -4436,6 +4437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigmatica | 276487 | [276487-sigmatica.json](./276487-sigmatica.json) |
 | Sign Craft: Simulator | 273426 | [273426-sign-craft-simulator.json](./273426-sign-craft-simulator.json) |
 | Sign It | 413186 | [413186-sign-it.json](./413186-sign-it.json) |
+| Sign Me ABCs | 103659 | [103659-sign-me-abcs.json](./103659-sign-me-abcs.json) |
 | Sign of the Sun | 69878 | [69878-sign-of-the-sun.json](./69878-sign-of-the-sun.json) |
 | Sign of Torment | 257348 | [257348-sign-of-torment.json](./257348-sign-of-torment.json) |
 | Sign Off | 364705 | [364705-sign-off.json](./364705-sign-off.json) |
@@ -5516,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylight | 83929 | [83929-skylight.json](./83929-skylight.json) |
 | Skyline Blade | 248058 | [248058-skyline-blade.json](./248058-skyline-blade.json) |
 | Skyline Bowling: Complete Edition | 333724 | [333724-skyline-bowling-complete-edition.json](./333724-skyline-bowling-complete-edition.json) |
+| Skyline Drift Simulator 2 | 103652 | [103652-skyline-drift-simulator-2.json](./103652-skyline-drift-simulator-2.json) |
 | Skyline Skaters | 6029 | [6029-skyline-skaters.json](./6029-skyline-skaters.json) |
 | Skyline Sprinters | 263058 | [263058-skyline-sprinters.json](./263058-skyline-sprinters.json) |
 | Skylost | 201710 | [201710-skylost.json](./201710-skylost.json) |
@@ -8759,6 +8762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceEx Commander | 157530 | [157530-spaceex-commander.json](./157530-spaceex-commander.json) |
 | SpaceExcavators | 108304 | [108304-spaceexcavators.json](./108304-spaceexcavators.json) |
 | SpaceExile | 106422 | [106422-spaceexile.json](./106422-spaceexile.json) |
+| Spacefarers! | 103675 | [103675-spacefarers.json](./103675-spacefarers.json) |
 | SpaceFire Fury | 329079 | [329079-spacefire-fury.json](./329079-spacefire-fury.json) |
 | Spaceflight Simulator | 188384 | [188384-spaceflight-simulator.json](./188384-spaceflight-simulator.json) |
 | Spaceforce Constellations | 16846 | [16846-spaceforce-constellations.json](./16846-spaceforce-constellations.json) |
