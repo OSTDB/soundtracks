@@ -995,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Jigsaw Puzzles: Fun Games for Girls & Boys | 232383 | [232383-kids-jigsaw-puzzles-fun-games-for-girls-and-boys.json](./232383-kids-jigsaw-puzzles-fun-games-for-girls-and-boys.json) |
 | Kids Learn Animal Words | 97915 | [97915-kids-learn-animal-words.json](./97915-kids-learn-animal-words.json) |
 | Kids Learn to Sort | 246973 | [246973-kids-learn-to-sort.json](./246973-kids-learn-to-sort.json) |
+| Kids Musical Instrument Connect the Dots Puzzles - learn the ABC numbers shapes and for toddlers | 92089 | [92089-kids-musical-instrument-connect-the-dots-puzzles-learn-the-abc-numbers-shapes-and-for-toddlers.json](./92089-kids-musical-instrument-connect-the-dots-puzzles-learn-the-abc-numbers-shapes-and-for-toddlers.json) |
 | Kids of Karendow | 157052 | [157052-kids-of-karendow.json](./157052-kids-of-karendow.json) |
 | Kids on Keys | 97482 | [97482-kids-on-keys.json](./97482-kids-on-keys.json) |
 | Kids Preschool Puzzles | 323152 | [323152-kids-preschool-puzzles.json](./323152-kids-preschool-puzzles.json) |
@@ -1035,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiki's Adventure | 125462 | [125462-kikis-adventure.json](./125462-kikis-adventure.json) |
 | Kiki's Vacation | 192195 | [192195-kikis-vacation.json](./192195-kikis-vacation.json) |
 | KikiMimi2 | 123511 | [123511-kikimimi2.json](./123511-kikimimi2.json) |
+| Kiko: The Last Totem | 92080 | [92080-kiko-the-last-totem.json](./92080-kiko-the-last-totem.json) |
 | Kiko's Apple Adventure | 336635 | [336635-kikos-apple-adventure.json](./336635-kikos-apple-adventure.json) |
 | Kikokugai | 232662 | [232662-kikokugai.json](./232662-kikokugai.json) |
 | Kikou Seiki Unitron | 43969 | [43969-kikou-seiki-unitron.json](./43969-kikou-seiki-unitron.json) |
@@ -2342,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kosmobreak | 285518 | [285518-kosmobreak.json](./285518-kosmobreak.json) |
 | Kosmonavtes: Academy Escape | 163752 | [163752-kosmonavtes-academy-escape.json](./163752-kosmonavtes-academy-escape.json) |
 | Kosmonavtes: Escape Reality | 155983 | [155983-kosmonavtes-escape-reality.json](./155983-kosmonavtes-escape-reality.json) |
+| Kosmopolska | 92100 | [92100-kosmopolska.json](./92100-kosmopolska.json) |
 | Kosmos: The Discovery of Nature | 276194 | [276194-kosmos-the-discovery-of-nature.json](./276194-kosmos-the-discovery-of-nature.json) |
 | Kosmosis | 382345 | [382345-kosmosis.json](./382345-kosmosis.json) |
 | KosmoSquad | 154561 | [154561-kosmosquad.json](./154561-kosmosquad.json) |
