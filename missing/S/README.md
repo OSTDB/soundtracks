@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S-Copter | 76653 | [76653-s-copter.json](./76653-s-copter.json) |
 | S. Cargo | 275916 | [275916-s-cargo.json](./275916-s-cargo.json) |
 | S.A.B.A.H. (Sun As Biased As Harmony) | 264596 | [264596-s-a-b-a-h-sun-as-biased-as-harmony.json](./264596-s-a-b-a-h-sun-as-biased-as-harmony.json) |
+| S.A.I.A awaknening: a Robothorium visual novel | 111851 | [111851-s-a-i-a-awaknening-a-robothorium-visual-novel.json](./111851-s-a-i-a-awaknening-a-robothorium-visual-novel.json) |
 | S.A.N.D.Y.: Beach Cleaner | 406300 | [406300-s-a-n-d-y-beach-cleaner.json](./406300-s-a-n-d-y-beach-cleaner.json) |
 | S.C. Out | 150073 | [150073-s-c-out.json](./150073-s-c-out.json) |
 | S.C.A: Sexually Customized Android in This Renewing World | 82800 | [82800-s-c-a-sexually-customized-android-in-this-renewing-world.json](./82800-s-c-a-sexually-customized-android-in-this-renewing-world.json) |
@@ -3605,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Mahjong Tenka Fubu | 188085 | [188085-shin-mahjong-tenka-fubu.json](./188085-shin-mahjong-tenka-fubu.json) |
 | Shin Maou Golvellius | 125814 | [125814-shin-maou-golvellius.json](./125814-shin-maou-golvellius.json) |
 | Shin Maru Goukaku: Shikaku Dasshu! IT Passport Shiken, Kihon Jouhou Gijutsusha Shiken, Ouyou Jouhou Gijutsusha Shiken | 269614 | [269614-shin-maru-goukaku-shikaku-dasshu-it-passport-shiken-kihon-jouhou-gijutsusha-shiken-ouyou-jouhou-gijutsusha-shiken.json](./269614-shin-maru-goukaku-shikaku-dasshu-it-passport-shiken-kihon-jouhou-gijutsusha-shiken-ouyou-jouhou-gijutsusha-shiken.json) |
+| Shin Master of Monsters Final EX | 111904 | [111904-shin-master-of-monsters-final-ex.json](./111904-shin-master-of-monsters-final-ex.json) |
 | Shin Megami Tensei Devil Summoner: Raidou Kuzunoha vs. The Soulless Army | 20640 | [20640-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army.json](./20640-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army.json) |
 | Shin Megami Tensei if... | 270672 | [270672-shin-megami-tensei-if.json](./270672-shin-megami-tensei-if.json) |
 | Shin Megami Tensei II | 252800 | [252800-shin-megami-tensei-ii.json](./252800-shin-megami-tensei-ii.json) |
@@ -4929,6 +4931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinistar Unleashed | 20377 | [20377-sinistar-unleashed.json](./20377-sinistar-unleashed.json) |
 | Sinister | 253335 | [253335-sinister.json](./253335-sinister.json) |
 | Sinister Adventures Bundle | 199624 | [199624-sinister-adventures-bundle.json](./199624-sinister-adventures-bundle.json) |
+| Sinister Assistant | 111906 | [111906-sinister-assistant.json](./111906-sinister-assistant.json) |
 | Sinister City | 17898 | [17898-sinister-city.json](./17898-sinister-city.json) |
 | Sinister Entity | 221125 | [221125-sinister-entity.json](./221125-sinister-entity.json) |
 | Sinister Fate | 38992 | [38992-sinister-fate.json](./38992-sinister-fate.json) |
@@ -5237,6 +5240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skidmarks | 65506 | [65506-skidmarks.json](./65506-skidmarks.json) |
 | Skies Above | 272931 | [272931-skies-above.json](./272931-skies-above.json) |
 | Skies Above the Great War | 244876 | [244876-skies-above-the-great-war.json](./244876-skies-above-the-great-war.json) |
+| Skies of Chaos | 111844 | [111844-skies-of-chaos.json](./111844-skies-of-chaos.json) |
 | Skies of Glory | 62446 | [62446-skies-of-glory.json](./62446-skies-of-glory.json) |
 | SkifY | 75075 | [75075-skify.json](./75075-skify.json) |
 | Skiing | 55104 | [55104-skiing.json](./55104-skiing.json) |
@@ -7058,6 +7062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Antics Ultimate | 208876 | [208876-solitaire-antics-ultimate.json](./208876-solitaire-antics-ultimate.json) |
 | Solitaire Antics Ultimate Plus | 54388 | [54388-solitaire-antics-ultimate-plus.json](./54388-solitaire-antics-ultimate-plus.json) |
 | Solitaire Battle | 353365 | [353365-solitaire-battle.json](./353365-solitaire-battle.json) |
+| Solitaire Battle Royal | 111907 | [111907-solitaire-battle-royal.json](./111907-solitaire-battle-royal.json) |
 | Solitaire Bliss Collection | 117176 | [117176-solitaire-bliss-collection.json](./117176-solitaire-bliss-collection.json) |
 | Solitaire Card Deck Game '23 | 231896 | [231896-solitaire-card-deck-game-23.json](./231896-solitaire-card-deck-game-23.json) |
 | Solitaire Card Games | 147883 | [147883-solitaire-card-games.json](./147883-solitaire-card-games.json) |
@@ -10645,6 +10650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcraft: Stellar Forces | 135274 | [135274-starcraft-stellar-forces.json](./135274-starcraft-stellar-forces.json) |
 | StarCraft: Stratospace | 135273 | [135273-starcraft-stratospace.json](./135273-starcraft-stratospace.json) |
 | Starcrest Saga | 394368 | [394368-starcrest-saga.json](./394368-starcrest-saga.json) |
+| Starcross Arena | 111901 | [111901-starcross-arena.json](./111901-starcross-arena.json) |
 | StarCrossed | 28770 | [28770-starcrossed.json](./28770-starcrossed.json) |
 | Starcult. Night: Twisted Age | 402990 | [402990-starcult-night-twisted-age.json](./402990-starcult-night-twisted-age.json) |
 | Stardeus | 139453 | [139453-stardeus.json](./139453-stardeus.json) |
@@ -10993,6 +10999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stasis: Deluxe Edition | 51894 | [51894-stasis-deluxe-edition.json](./51894-stasis-deluxe-edition.json) |
 | State of Decay 2: Curveball Update | 266858 | [266858-state-of-decay-2-curveball-update.json](./266858-state-of-decay-2-curveball-update.json) |
 | State of Decay 2: Daybreak Pack | 194647 | [194647-state-of-decay-2-daybreak-pack.json](./194647-state-of-decay-2-daybreak-pack.json) |
+| State of Decay: Breakdown | 111845 | [111845-state-of-decay-breakdown.json](./111845-state-of-decay-breakdown.json) |
 | State of Mind | 20123 | [20123-state-of-mind.json](./20123-state-of-mind.json) |
 | State of Survival | 133783 | [133783-state-of-survival.json](./133783-state-of-survival.json) |
 | State of War | 94231 | [94231-state-of-war.json](./94231-state-of-war.json) |
@@ -13461,6 +13468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kart Mini Car Race | 283227 | [283227-super-kart-mini-car-race.json](./283227-super-kart-mini-car-race.json) |
 | Super Kart Racer | 267954 | [267954-super-kart-racer.json](./267954-super-kart-racer.json) |
 | Super Karts | 50614 | [50614-super-karts.json](./50614-super-karts.json) |
+| Super Keepy Ups | 111852 | [111852-super-keepy-ups.json](./111852-super-keepy-ups.json) |
 | Super Kenney | 209683 | [209683-super-kenney.json](./209683-super-kenney.json) |
 | Super Kick-Off | 45797 | [45797-super-kick-off.json](./45797-super-kick-off.json) |
 | Super Kickers League | 115435 | [115435-super-kickers-league.json](./115435-super-kickers-league.json) |
