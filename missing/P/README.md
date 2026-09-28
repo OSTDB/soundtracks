@@ -4163,6 +4163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plarail Yume Ga Ippai! | 270150 | [270150-plarail-yume-ga-ippai.json](./270150-plarail-yume-ga-ippai.json) |
 | Plasma Attack | 158650 | [158650-plasma-attack.json](./158650-plasma-attack.json) |
 | Plasma Ball | 294223 | [294223-plasma-ball.json](./294223-plasma-ball.json) |
+| Plasma Sky | 61137 | [61137-plasma-sky.json](./61137-plasma-sky.json) |
 | Plasma Sword: Nightmare of Bilstein | 14679 | [14679-plasma-sword-nightmare-of-bilstein.json](./14679-plasma-sword-nightmare-of-bilstein.json) |
 | Plasma Warrior | 94562 | [94562-plasma-warrior.json](./94562-plasma-warrior.json) |
 | Plasmaborne | 413592 | [413592-plasmaborne.json](./413592-plasmaborne.json) |
