@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OneBit Jetpack | 292054 | [292054-onebit-jetpack.json](./292054-onebit-jetpack.json) |
 | Onechanbara Z: Kagura With NoNoNo! | 116359 | [116359-onechanbara-z-kagura-with-nonono.json](./116359-onechanbara-z-kagura-with-nonono.json) |
 | OneDayOne | 341505 | [341505-onedayone.json](./341505-onedayone.json) |
+| Onee-chan wa Kushizashikou!? Atashi no Kui de Tsuranuite Ageru | 97463 | [97463-onee-chan-wa-kushizashikou-atashi-no-kui-de-tsuranuite-ageru.json](./97463-onee-chan-wa-kushizashikou-atashi-no-kui-de-tsuranuite-ageru.json) |
 | Onee-san ga Tabetai no ha Kimi no... | 251617 | [251617-onee-san-ga-tabetai-no-ha-kimi-no.json](./251617-onee-san-ga-tabetai-no-ha-kimi-no.json) |
 | Onee-san ni Makasenasai! Ryoubo to Joushi no Yawaraka Oppai ni Hasamarete | 108869 | [108869-onee-san-ni-makasenasai-ryoubo-to-joushi-no-yawaraka-oppai-ni-hasamarete.json](./108869-onee-san-ni-makasenasai-ryoubo-to-joushi-no-yawaraka-oppai-ni-hasamarete.json) |
 | Onefog Xonix | 98974 | [98974-onefog-xonix.json](./98974-onefog-xonix.json) |
@@ -1788,10 +1789,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore ni Hatarakette Iwaretemo Tori | 60197 | [60197-ore-ni-hatarakette-iwaretemo-tori.json](./60197-ore-ni-hatarakette-iwaretemo-tori.json) |
 | Ore no Dungeon | 58165 | [58165-ore-no-dungeon.json](./58165-ore-no-dungeon.json) |
 | Ore no Imouto Maker EX: Imouto to Koi Shiyo? Portable | 197947 | [197947-ore-no-imouto-maker-ex-imouto-to-koi-shiyo-portable.json](./197947-ore-no-imouto-maker-ex-imouto-to-koi-shiyo-portable.json) |
+| Ore no Kanojo ga Gachi Hentai Sugiru | 97480 | [97480-ore-no-kanojo-ga-gachi-hentai-sugiru.json](./97480-ore-no-kanojo-ga-gachi-hentai-sugiru.json) |
 | Ore no Ryouri | 44880 | [44880-ore-no-ryouri.json](./44880-ore-no-ryouri.json) |
 | Ore no Shita de Agake | 205643 | [205643-ore-no-shita-de-agake.json](./205643-ore-no-shita-de-agake.json) |
 | Ore no Yacht: Ganbare Nippon Challenge | 378439 | [378439-ore-no-yacht-ganbare-nippon-challenge.json](./378439-ore-no-yacht-ganbare-nippon-challenge.json) |
 | Ore no Yome VR | 304892 | [304892-ore-no-yome-vr.json](./304892-ore-no-yome-vr.json) |
+| Ore o Hoshigaru Futari no Haha | 97464 | [97464-ore-o-hoshigaru-futari-no-haha.json](./97464-ore-o-hoshigaru-futari-no-haha.json) |
 | Ore to Omae ga Ai ni Tsuite Kataru dake | 337727 | [337727-ore-to-omae-ga-ai-ni-tsuite-kataru-dake.json](./337727-ore-to-omae-ga-ai-ni-tsuite-kataru-dake.json) |
 | ORE x TRACTOR | 401823 | [401823-ore-x-tractor.json](./401823-ore-x-tractor.json) |
 | Ore'n: Battle Meme Chronicle | 303221 | [303221-oren-battle-meme-chronicle.json](./303221-oren-battle-meme-chronicle.json) |
@@ -1963,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osyaberi! Horijyo! Gekihori: Anna Holinski Saves the Universe, Alright?! | 222425 | [222425-osyaberi-horijyo-gekihori-anna-holinski-saves-the-universe-alright.json](./222425-osyaberi-horijyo-gekihori-anna-holinski-saves-the-universe-alright.json) |
 | Osyaberi! Puzzle Chigatan: Spot the Differences with Everyone | 147824 | [147824-osyaberi-puzzle-chigatan-spot-the-differences-with-everyone.json](./147824-osyaberi-puzzle-chigatan-spot-the-differences-with-everyone.json) |
 | Otaku Miracles | 333067 | [333067-otaku-miracles.json](./333067-otaku-miracles.json) |
+| Otaku no Omocha in Acolyte | 97489 | [97489-otaku-no-omocha-in-acolyte.json](./97489-otaku-no-omocha-in-acolyte.json) |
 | Otaku Puzzle | 367624 | [367624-otaku-puzzle.json](./367624-otaku-puzzle.json) |
 | Otaku's Adventure: The World Just Keeps Turning | 299119 | [299119-otakus-adventure-the-world-just-keeps-turning.json](./299119-otakus-adventure-the-world-just-keeps-turning.json) |
 | Otaku's Challenge | 367628 | [367628-otakus-challenge.json](./367628-otakus-challenge.json) |
