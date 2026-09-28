@@ -1246,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days Gone By | 127102 | [127102-days-gone-by.json](./127102-days-gone-by.json) |
 | Days Gone: Special Edition | 117508 | [117508-days-gone-special-edition.json](./117508-days-gone-special-edition.json) |
 | Days Like A Nightmare | 285451 | [285451-days-like-a-nightmare.json](./285451-days-like-a-nightmare.json) |
+| Days of a Princess | 89381 | [89381-days-of-a-princess.json](./89381-days-of-a-princess.json) |
 | Days of Despair | 217246 | [217246-days-of-despair.json](./217246-days-of-despair.json) |
 | Days of Discord | 59654 | [59654-days-of-discord.json](./59654-days-of-discord.json) |
 | Days Of My Life | 270190 | [270190-days-of-my-life.json](./270190-days-of-my-life.json) |
@@ -2637,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Party | 197847 | [197847-demon-party.json](./197847-demon-party.json) |
 | Demon Path: Tower of Armagor | 215904 | [215904-demon-path-tower-of-armagor.json](./215904-demon-path-tower-of-armagor.json) |
 | DeMon Researcher | 361797 | [361797-demon-researcher.json](./361797-demon-researcher.json) |
+| Demon robot runner | 89369 | [89369-demon-robot-runner.json](./89369-demon-robot-runner.json) |
 | Demon RPG | 299451 | [299451-demon-rpg.json](./299451-demon-rpg.json) |
 | Demon Scrolls | 249716 | [249716-demon-scrolls.json](./249716-demon-scrolls.json) |
 | Demon Seed | 218135 | [218135-demon-seed.json](./218135-demon-seed.json) |
@@ -4521,6 +4523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divided | 94762 | [94762-divided.json](./94762-divided.json) |
 | Divided Ground: Middle East Conflict 1948-1973 | 24111 | [24111-divided-ground-middle-east-conflict-1948-1973.json](./24111-divided-ground-middle-east-conflict-1948-1973.json) |
 | Divided Kingdoms | 158206 | [158206-divided-kingdoms.json](./158206-divided-kingdoms.json) |
+| Divided: Soul Theft | 89370 | [89370-divided-soul-theft.json](./89370-divided-soul-theft.json) |
 | Divilethion | 176299 | [176299-divilethion.json](./176299-divilethion.json) |
 | Divilixa | 149456 | [149456-divilixa.json](./149456-divilixa.json) |
 | Divination | 339102 | [339102-divination.json](./339102-divination.json) |
@@ -5801,6 +5804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Douche Bag | 51735 | [51735-douche-bag.json](./51735-douche-bag.json) |
 | DoudingMan | 264015 | [264015-doudingman.json](./264015-doudingman.json) |
 | DoudingMan: Expansion Packs | 288899 | [288899-doudingman-expansion-packs.json](./288899-doudingman-expansion-packs.json) |
+| Dòudìzhǔ VR | 89423 | [89423-doudizhu-vr.json](./89423-doudizhu-vr.json) |
 | Doug Huggem | 294809 | [294809-doug-huggem.json](./294809-doug-huggem.json) |
 | Doug's Nightmare | 236397 | [236397-dougs-nightmare.json](./236397-dougs-nightmare.json) |
 | Douga de Kiku Ano Kyoku no Rhythm Game | 301980 | [301980-douga-de-kiku-ano-kyoku-no-rhythm-game.json](./301980-douga-de-kiku-ano-kyoku-no-rhythm-game.json) |
