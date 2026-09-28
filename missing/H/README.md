@@ -2564,6 +2564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Normandie: US Rangers | 172010 | [172010-heroes-of-normandie-us-rangers.json](./172010-heroes-of-normandie-us-rangers.json) |
 | Heroes of Order & Chaos | 39181 | [39181-heroes-of-order-and-chaos.json](./39181-heroes-of-order-and-chaos.json) |
 | Heroes of Paragon | 37394 | [37394-heroes-of-paragon.json](./37394-heroes-of-paragon.json) |
+| Heroes of Pure Land | 115801 | [115801-heroes-of-pure-land.json](./115801-heroes-of-pure-land.json) |
 | Heroes of Rome 3: The Brotherhood | 236221 | [236221-heroes-of-rome-3-the-brotherhood.json](./236221-heroes-of-rome-3-the-brotherhood.json) |
 | Heroes of Rome: Dangerous Roads | 195722 | [195722-heroes-of-rome-dangerous-roads.json](./195722-heroes-of-rome-dangerous-roads.json) |
 | Heroes of Row | 265607 | [265607-heroes-of-row.json](./265607-heroes-of-row.json) |
@@ -3372,6 +3373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hippy Skate | 183353 | [183353-hippy-skate.json](./183353-hippy-skate.json) |
 | Hippy's Quest | 78362 | [78362-hippys-quest.json](./78362-hippys-quest.json) |
 | Hipster Cafe | 99649 | [99649-hipster-cafe.json](./99649-hipster-cafe.json) |
+| HiQ Ace | 115771 | [115771-hiq-ace.json](./115771-hiq-ace.json) |
 | Hira Hira Hihiru | 221418 | [221418-hira-hira-hihiru.json](./221418-hira-hira-hihiru.json) |
 | Hiraeth | 280264 | [280264-hiraeth.json](./280264-hiraeth.json) |
 | Hiraeth | 291584 | [291584-hiraeth.json](./291584-hiraeth.json) |
@@ -4165,6 +4167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopscotch | 262430 | [262430-hopscotch.json](./262430-hopscotch.json) |
 | Hopscotch | 68689 | [68689-hopscotch.json](./68689-hopscotch.json) |
 | Hopshot | 331129 | [331129-hopshot.json](./331129-hopshot.json) |
+| HopSquash! | 115806 | [115806-hopsquash.json](./115806-hopsquash.json) |
 | Hoptale | 369762 | [369762-hoptale.json](./369762-hoptale.json) |
 | Hopward | 372475 | [372475-hopward.json](./372475-hopward.json) |
 | Hopy-ONE | 93037 | [93037-hopy-one.json](./93037-hopy-one.json) |
@@ -4932,6 +4935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Parking Simulator | 363063 | [363063-human-parking-simulator.json](./363063-human-parking-simulator.json) |
 | Human Resource | 295319 | [295319-human-resource.json](./295319-human-resource.json) |
 | Human Resource Machine Deluxe | 136844 | [136844-human-resource-machine-deluxe.json](./136844-human-resource-machine-deluxe.json) |
+| Human Rights | 115792 | [115792-human-rights.json](./115792-human-rights.json) |
 | Human Rocket Person | 111700 | [111700-human-rocket-person.json](./111700-human-rocket-person.json) |
 | Human Save Plan | 234577 | [234577-human-save-plan.json](./234577-human-save-plan.json) |
 | Human Upgrade Labs | 298114 | [298114-human-upgrade-labs.json](./298114-human-upgrade-labs.json) |
