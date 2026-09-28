@@ -894,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Chevo Lurker: Achievement Exodus | 72483 | [72483-achievement-chevo-lurker-achievement-exodus.json](./72483-achievement-chevo-lurker-achievement-exodus.json) |
 | Achievement Clicker 2020 | 104084 | [104084-achievement-clicker-2020.json](./104084-achievement-clicker-2020.json) |
 | Achievement Collector: Cat | 107682 | [107682-achievement-collector-cat.json](./107682-achievement-collector-cat.json) |
+| Achievement Collector: Space | 110522 | [110522-achievement-collector-space.json](./110522-achievement-collector-space.json) |
 | Achievement Creator | 103757 | [103757-achievement-creator.json](./103757-achievement-creator.json) |
 | Achievement Dummy | 110387 | [110387-achievement-dummy.json](./110387-achievement-dummy.json) |
 | Achievement Hunter: Alien | 334767 | [334767-achievement-hunter-alien.json](./334767-achievement-hunter-alien.json) |
@@ -3729,6 +3730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Squirrel | 164233 | [164233-angry-squirrel.json](./164233-angry-squirrel.json) |
 | Angry stone | 296533 | [296533-angry-stone.json](./296533-angry-stone.json) |
 | Angry Troll | 122210 | [122210-angry-troll.json](./122210-angry-troll.json) |
+| Angry Troll Simulator 2018 | 110510 | [110510-angry-troll-simulator-2018.json](./110510-angry-troll-simulator-2018.json) |
 | Angry Universe VR | 297066 | [297066-angry-universe-vr.json](./297066-angry-universe-vr.json) |
 | Angry World War 2 | 234070 | [234070-angry-world-war-2.json](./234070-angry-world-war-2.json) |
 | Angry Zombies | 88844 | [88844-angry-zombies.json](./88844-angry-zombies.json) |
@@ -3898,6 +3900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Artist | 280177 | [280177-anime-artist.json](./280177-anime-artist.json) |
 | Anime Artist 2: Lovely Danya | 129685 | [129685-anime-artist-2-lovely-danya.json](./129685-anime-artist-2-lovely-danya.json) |
 | Anime Artist 3: Harem | 158160 | [158160-anime-artist-3-harem.json](./158160-anime-artist-3-harem.json) |
+| Anime Babes: Solitaire | 110515 | [110515-anime-babes-solitaire.json](./110515-anime-babes-solitaire.json) |
 | Anime Beauty Girl Puzzle: Love Game History Adventure | 252699 | [252699-anime-beauty-girl-puzzle-love-game-history-adventure.json](./252699-anime-beauty-girl-puzzle-love-game-history-adventure.json) |
 | Anime Bowling Babes | 24997 | [24997-anime-bowling-babes.json](./24997-anime-bowling-babes.json) |
 | Anime Bubble Pop | 75812 | [75812-anime-bubble-pop.json](./75812-anime-bubble-pop.json) |
