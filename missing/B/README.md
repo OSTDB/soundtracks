@@ -1223,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrage Musical: Basic Danmaku Tutorial | 127463 | [127463-barrage-musical-basic-danmaku-tutorial.json](./127463-barrage-musical-basic-danmaku-tutorial.json) |
 | Barrage Populaire | 308966 | [308966-barrage-populaire.json](./308966-barrage-populaire.json) |
 | Barraka | 301891 | [301891-barraka.json](./301891-barraka.json) |
+| Barravento: O Mestre da Capoeira | 78075 | [78075-barravento-o-mestre-da-capoeira.json](./78075-barravento-o-mestre-da-capoeira.json) |
 | Barrel Blast | 172186 | [172186-barrel-blast.json](./172186-barrel-blast.json) |
 | Barrel Boot Camp | 100571 | [100571-barrel-boot-camp.json](./100571-barrel-boot-camp.json) |
 | Barrel Full of Monkeys | 223496 | [223496-barrel-full-of-monkeys.json](./223496-barrel-full-of-monkeys.json) |
@@ -2476,6 +2477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bedtime Horror Stories | 220647 | [220647-bedtime-horror-stories.json](./220647-bedtime-horror-stories.json) |
 | Bedtime Stories | 371963 | [371963-bedtime-stories.json](./371963-bedtime-stories.json) |
 | Bedtime Story: Saint | 338208 | [338208-bedtime-story-saint.json](./338208-bedtime-story-saint.json) |
+| Bee | 78084 | [78084-bee.json](./78084-bee.json) |
 | Bee Farming | 175281 | [175281-bee-farming.json](./175281-bee-farming.json) |
 | Bee Fighting | 247014 | [247014-bee-fighting.json](./247014-bee-fighting.json) |
 | Bee Flowers | 330941 | [330941-bee-flowers.json](./330941-bee-flowers.json) |
