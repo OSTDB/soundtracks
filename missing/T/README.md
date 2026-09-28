@@ -3870,6 +3870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Entente: Battlefields WW1 | 9829 | [9829-the-entente-battlefields-ww1.json](./9829-the-entente-battlefields-ww1.json) |
 | The Entertainer | 395864 | [395864-the-entertainer.json](./395864-the-entertainer.json) |
 | The Entertainment | 128622 | [128622-the-entertainment.json](./128622-the-entertainment.json) |
+| The Enthralling Realms: An Alchemist's Tale | 114544 | [114544-the-enthralling-realms-an-alchemists-tale.json](./114544-the-enthralling-realms-an-alchemists-tale.json) |
 | The Entity | 101331 | [101331-the-entity.json](./101331-the-entity.json) |
 | The Envolution of Wandaland | 254137 | [254137-the-envolution-of-wandaland.json](./254137-the-envolution-of-wandaland.json) |
 | The Epic | 153869 | [153869-the-epic.json](./153869-the-epic.json) |
@@ -3933,6 +3934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Exorcist's Story | 224628 | [224628-the-exorcists-story.json](./224628-the-exorcists-story.json) |
 | The Expanse: A Telltale Series | 185239 | [185239-the-expanse-a-telltale-series.json](./185239-the-expanse-a-telltale-series.json) |
 | The Expanse: Osiris Reborn | 347869 | [347869-the-expanse-osiris-reborn.json](./347869-the-expanse-osiris-reborn.json) |
+| The Expedition | 114562 | [114562-the-expedition.json](./114562-the-expedition.json) |
 | The Expendabros | 9786 | [9786-the-expendabros.json](./9786-the-expendabros.json) |
 | The Experiment | 255699 | [255699-the-experiment.json](./255699-the-experiment.json) |
 | The Experiment: Escape Room | 111875 | [111875-the-experiment-escape-room.json](./111875-the-experiment-escape-room.json) |
@@ -11112,6 +11114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Spin | 5234 | [5234-top-spin.json](./5234-top-spin.json) |
 | Top Street Soccer | 102209 | [102209-top-street-soccer.json](./102209-top-street-soccer.json) |
 | Top Striker | 78967 | [78967-top-striker.json](./78967-top-striker.json) |
+| Top Torch | 114506 | [114506-top-torch.json](./114506-top-torch.json) |
 | Top Troops! | 228123 | [228123-top-troops.json](./228123-top-troops.json) |
 | Top Truck Driver | 156642 | [156642-top-truck-driver.json](./156642-top-truck-driver.json) |
 | Top Truck Free | 131352 | [131352-top-truck-free.json](./131352-top-truck-free.json) |
@@ -13396,6 +13399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tristan: Curse of The Frog | 404964 | [404964-tristan-curse-of-the-frog.json](./404964-tristan-curse-of-the-frog.json) |
 | Tristia Doki-doki Operation | 408142 | [408142-tristia-doki-doki-operation.json](./408142-tristia-doki-doki-operation.json) |
 | Tristone | 112314 | [112314-tristone.json](./112314-tristone.json) |
+| Triton Survival | 114566 | [114566-triton-survival.json](./114566-triton-survival.json) |
 | Tritorn | 150027 | [150027-tritorn.json](./150027-tritorn.json) |
 | Triumph | 184041 | [184041-triumph.json](./184041-triumph.json) |
 | Triuno Ascend | 398334 | [398334-triuno-ascend.json](./398334-triuno-ascend.json) |
