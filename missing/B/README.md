@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang Bang Ball | 40268 | [40268-bang-bang-ball.json](./40268-bang-bang-ball.json) |
 | Bang Bang Fruit 2 | 74373 | [74373-bang-bang-fruit-2.json](./74373-bang-bang-fruit-2.json) |
 | Bang Bang Girls: Moe Panic | 376757 | [376757-bang-bang-girls-moe-panic.json](./376757-bang-bang-girls-moe-panic.json) |
+| Bang Bang Homeroom | 82736 | [82736-bang-bang-homeroom.json](./82736-bang-bang-homeroom.json) |
 | Bang Bang Land | 241519 | [241519-bang-bang-land.json](./241519-bang-bang-land.json) |
 | Bang Bang Pull Pull | 329020 | [329020-bang-bang-pull-pull.json](./329020-bang-bang-pull-pull.json) |
 | Bang Bang Racing | 15286 | [15286-bang-bang-racing.json](./15286-bang-bang-racing.json) |
@@ -1650,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Fortress Defence | 200114 | [200114-battle-fortress-defence.json](./200114-battle-fortress-defence.json) |
 | Battle Frenzy | 5361 | [5361-battle-frenzy.json](./5361-battle-frenzy.json) |
 | Battle Frenzy Collection | 328570 | [328570-battle-frenzy-collection.json](./328570-battle-frenzy-collection.json) |
+| Battle Fuck with Succubi | 82964 | [82964-battle-fuck-with-succubi.json](./82964-battle-fuck-with-succubi.json) |
 | Battle Gear | 223441 | [223441-battle-gear.json](./223441-battle-gear.json) |
 | Battle Gear | 286626 | [286626-battle-gear.json](./286626-battle-gear.json) |
 | Battle Gear 2 | 286627 | [286627-battle-gear-2.json](./286627-battle-gear-2.json) |
@@ -2265,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Down: Fists of Vengeance | 5745 | [5745-beat-down-fists-of-vengeance.json](./5745-beat-down-fists-of-vengeance.json) |
 | Beat Dungeon | 180596 | [180596-beat-dungeon.json](./180596-beat-dungeon.json) |
 | Beat Feet | 369635 | [369635-beat-feet.json](./369635-beat-feet.json) |
+| Beat Fever: Music Tap Rhythm Game | 82995 | [82995-beat-fever-music-tap-rhythm-game.json](./82995-beat-fever-music-tap-rhythm-game.json) |
 | Beat Hopper | 96049 | [96049-beat-hopper.json](./96049-beat-hopper.json) |
 | Beat It!: Christmas Edition | 68649 | [68649-beat-it-christmas-edition.json](./68649-beat-it-christmas-edition.json) |
 | Beat Me! Puppetonia Tournament | 156515 | [156515-beat-me-puppetonia-tournament.json](./156515-beat-me-puppetonia-tournament.json) |
@@ -2489,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeeCells HD | 175180 | [175180-beecells-hd.json](./175180-beecells-hd.json) |
 | BeeCells XL | 90393 | [90393-beecells-xl.json](./90393-beecells-xl.json) |
 | Beeder's Big Adventure | 417526 | [417526-beeders-big-adventure.json](./417526-beeders-big-adventure.json) |
+| Beeeeeeeam | 82765 | [82765-beeeeeeeam.json](./82765-beeeeeeeam.json) |
 | Beef Street | 343425 | [343425-beef-street.json](./343425-beef-street.json) |
 | BeeFender | 89267 | [89267-beefender.json](./89267-beefender.json) |
 | Beeftown Beatdown | 238769 | [238769-beeftown-beatdown.json](./238769-beeftown-beatdown.json) |
@@ -7688,6 +7692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | But That Was [Yesterday] | 203353 | [203353-but-that-was-yesterday.json](./203353-but-that-was-yesterday.json) |
 | But You Seem Fine | 120267 | [120267-but-you-seem-fine.json](./120267-but-you-seem-fine.json) |
 | Buta | 204413 | [204413-buta.json](./204413-buta.json) |
+| Buta Hime-sama | 82971 | [82971-buta-hime-sama.json](./82971-buta-hime-sama.json) |
 | Butanooo! Simulator | 303805 | [303805-butanooo-simulator.json](./303805-butanooo-simulator.json) |
 | Butch: Hard Guy | 293250 | [293250-butch-hard-guy.json](./293250-butch-hard-guy.json) |
 | Butcher Life Simulator | 391582 | [391582-butcher-life-simulator.json](./391582-butcher-life-simulator.json) |
