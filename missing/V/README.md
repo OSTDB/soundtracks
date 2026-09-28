@@ -1474,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volcanic Blocks | 146918 | [146918-volcanic-blocks.json](./146918-volcanic-blocks.json) |
 | Volcanic Field 2 | 85477 | [85477-volcanic-field-2.json](./85477-volcanic-field-2.json) |
 | Volcanic Planet | 297242 | [297242-volcanic-planet.json](./297242-volcanic-planet.json) |
+| Volcano Eruption | 103635 | [103635-volcano-eruption.json](./103635-volcano-eruption.json) |
 | Volcano Snek | 185604 | [185604-volcano-snek.json](./185604-volcano-snek.json) |
 | Volcano! Mount Saint Helens | 209438 | [209438-volcano-mount-saint-helens.json](./209438-volcano-mount-saint-helens.json) |
 | Volcanoids | 109117 | [109117-volcanoids.json](./109117-volcanoids.json) |
