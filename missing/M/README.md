@@ -1996,6 +1996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martial Arts: God of War | 294271 | [294271-martial-arts-god-of-war.json](./294271-martial-arts-god-of-war.json) |
 | Martial Champion | 39544 | [39544-martial-champion.json](./39544-martial-champion.json) |
 | Martial Fire | 232440 | [232440-martial-fire.json](./232440-martial-fire.json) |
+| Martial Heroes | 68119 | [68119-martial-heroes.json](./68119-martial-heroes.json) |
 | Martian Escape | 191117 | [191117-martian-escape.json](./191117-martian-escape.json) |
 | Martian Potato | 157041 | [157041-martian-potato.json](./157041-martian-potato.json) |
 | Martian Space Blaster | 186261 | [186261-martian-space-blaster.json](./186261-martian-space-blaster.json) |
@@ -4389,6 +4390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metropolis Crimes | 67686 | [67686-metropolis-crimes.json](./67686-metropolis-crimes.json) |
 | Metropolis Origins | 183871 | [183871-metropolis-origins.json](./183871-metropolis-origins.json) |
 | Metropolismania | 26661 | [26661-metropolismania.json](./26661-metropolismania.json) |
+| Metropolismania 2 | 68118 | [68118-metropolismania-2.json](./68118-metropolismania-2.json) |
 | Metropolismania 4 | 178560 | [178560-metropolismania-4.json](./178560-metropolismania-4.json) |
 | Metropolitan Mayhem | 270667 | [270667-metropolitan-mayhem.json](./270667-metropolitan-mayhem.json) |
 | MetroSim: The Subway Simulator | 277598 | [277598-metrosim-the-subway-simulator.json](./277598-metrosim-the-subway-simulator.json) |
@@ -4706,6 +4708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator X: Steam Edition - WWI Fighters | 161876 | [161876-microsoft-flight-simulator-x-steam-edition-wwi-fighters.json](./161876-microsoft-flight-simulator-x-steam-edition-wwi-fighters.json) |
 | Microsoft Flight Simulator X: Steam Edition - Zurich Airport | 161850 | [161850-microsoft-flight-simulator-x-steam-edition-zurich-airport.json](./161850-microsoft-flight-simulator-x-steam-edition-zurich-airport.json) |
 | Microsoft Flight Simulator X: Steam Edition: Farm Strips Vol 3 - South West England & Wales | 158014 | [158014-microsoft-flight-simulator-x-steam-edition-farm-strips-vol-3-south-west-england-and-wales.json](./158014-microsoft-flight-simulator-x-steam-edition-farm-strips-vol-3-south-west-england-and-wales.json) |
+| Microsoft Flight Simulator X: World Airports 3 - North America | 68095 | [68095-microsoft-flight-simulator-x-world-airports-3-north-america.json](./68095-microsoft-flight-simulator-x-world-airports-3-north-america.json) |
 | Microsoft Flight Simulator: 40th Anniversary Edition | 293926 | [293926-microsoft-flight-simulator-40th-anniversary-edition.json](./293926-microsoft-flight-simulator-40th-anniversary-edition.json) |
 | Microsoft Flight Simulator: Deluxe 40th Anniversary Edition | 293928 | [293928-microsoft-flight-simulator-deluxe-40th-anniversary-edition.json](./293928-microsoft-flight-simulator-deluxe-40th-anniversary-edition.json) |
 | Microsoft Flight Simulator: Deluxe Edition | 139959 | [139959-microsoft-flight-simulator-deluxe-edition.json](./139959-microsoft-flight-simulator-deluxe-edition.json) |
@@ -6154,6 +6157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Battle Operation Code Fairy | 178045 | [178045-mobile-suit-gundam-battle-operation-code-fairy.json](./178045-mobile-suit-gundam-battle-operation-code-fairy.json) |
 | Mobile Suit Gundam: Battle Operation Code Fairy - Vol. 2 | 182243 | [182243-mobile-suit-gundam-battle-operation-code-fairy-vol-2.json](./182243-mobile-suit-gundam-battle-operation-code-fairy-vol-2.json) |
 | Mobile Suit Gundam: Battle Operation Code Fairy - Vol. 3 | 182244 | [182244-mobile-suit-gundam-battle-operation-code-fairy-vol-3.json](./182244-mobile-suit-gundam-battle-operation-code-fairy-vol-3.json) |
+| Mobile Suit Gundam: Bonds of the Battlefield | 68079 | [68079-mobile-suit-gundam-bonds-of-the-battlefield.json](./68079-mobile-suit-gundam-bonds-of-the-battlefield.json) |
 | Mobile Suit Gundam: Climax U.C. | 68012 | [68012-mobile-suit-gundam-climax-u-c.json](./68012-mobile-suit-gundam-climax-u-c.json) |
 | Mobile Suit Gundam: Desert Operation | 242522 | [242522-mobile-suit-gundam-desert-operation.json](./242522-mobile-suit-gundam-desert-operation.json) |
 | Mobile Suit Gundam: Extreme Versus 2 - Infinite Boost | 355089 | [355089-mobile-suit-gundam-extreme-versus-2-infinite-boost.json](./355089-mobile-suit-gundam-extreme-versus-2-infinite-boost.json) |
@@ -6618,6 +6622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly Tycoon | 197249 | [197249-monopoly-tycoon.json](./197249-monopoly-tycoon.json) |
 | Monopoly: Build A Lot | 210123 | [210123-monopoly-build-a-lot.json](./210123-monopoly-build-a-lot.json) |
 | Monopoly: Here & Now Worldwide Edition | 84305 | [84305-monopoly-here-and-now-worldwide-edition.json](./84305-monopoly-here-and-now-worldwide-edition.json) |
+| Monopoly: SpongeBob SquarePants Edition | 68109 | [68109-monopoly-spongebob-squarepants-edition.json](./68109-monopoly-spongebob-squarepants-edition.json) |
 | Monopong | 232374 | [232374-monopong.json](./232374-monopong.json) |
 | Monoquous 2 | 326212 | [326212-monoquous-2.json](./326212-monoquous-2.json) |
 | Monorail Stories | 137051 | [137051-monorail-stories.json](./137051-monorail-stories.json) |
@@ -8743,6 +8748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero One's Justice: Mission - O.F.A Deku Shoot Style | 168254 | [168254-my-hero-ones-justice-mission-o-f-a-deku-shoot-style.json](./168254-my-hero-ones-justice-mission-o-f-a-deku-shoot-style.json) |
 | My Hero One's Justice: Playable Character - Inasa Yoarashi | 168255 | [168255-my-hero-ones-justice-playable-character-inasa-yoarashi.json](./168255-my-hero-ones-justice-playable-character-inasa-yoarashi.json) |
 | My Hero One's Justice: Playable Character - Pro Hero Endeavor | 168252 | [168252-my-hero-ones-justice-playable-character-pro-hero-endeavor.json](./168252-my-hero-ones-justice-playable-character-pro-hero-endeavor.json) |
+| My Hero: Astronaut | 68093 | [68093-my-hero-astronaut.json](./68093-my-hero-astronaut.json) |
 | My Hero: Doctor | 206773 | [206773-my-hero-doctor.json](./206773-my-hero-doctor.json) |
 | My Hero: Tiny Ninja | 232544 | [232544-my-hero-tiny-ninja.json](./232544-my-hero-tiny-ninja.json) |
 | My Heroes: SEA | 142426 | [142426-my-heroes-sea.json](./142426-my-heroes-sea.json) |
