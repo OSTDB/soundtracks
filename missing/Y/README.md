@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yappy Bird | 412508 | [412508-yappy-bird.json](./412508-yappy-bird.json) |
 | Yard of the Dead | 268765 | [268765-yard-of-the-dead.json](./268765-yard-of-the-dead.json) |
 | Yard Resistance | 322162 | [322162-yard-resistance.json](./322162-yard-resistance.json) |
+| Yard Sale Hidden Treasures: Sunnyville | 66733 | [66733-yard-sale-hidden-treasures-sunnyville.json](./66733-yard-sale-hidden-treasures-sunnyville.json) |
 | Yardlings | 133342 | [133342-yardlings.json](./133342-yardlings.json) |
 | Yareba de Kiru! The Micro Step: Gijutsu de Oboeru Eitango | 124151 | [124151-yareba-de-kiru-the-micro-step-gijutsu-de-oboeru-eitango.json](./124151-yareba-de-kiru-the-micro-step-gijutsu-de-oboeru-eitango.json) |
 | YARG | 144814 | [144814-yarg.json](./144814-yarg.json) |
@@ -307,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoga tte! Oku-sama | 157547 | [157547-yoga-tte-oku-sama.json](./157547-yoga-tte-oku-sama.json) |
 | Yoga Wii | 19655 | [19655-yoga-wii.json](./19655-yoga-wii.json) |
 | Yogho Yogho spel | 78953 | [78953-yogho-yogho-spel.json](./78953-yogho-yogho-spel.json) |
+| Yogi Bear & Friends: The Greed Monster | 66737 | [66737-yogi-bear-and-friends-the-greed-monster.json](./66737-yogi-bear-and-friends-the-greed-monster.json) |
 | Yogi Bear: Great Balloon Blast | 49900 | [49900-yogi-bear-great-balloon-blast.json](./49900-yogi-bear-great-balloon-blast.json) |
 | Yogi's Great Escape | 12833 | [12833-yogis-great-escape.json](./12833-yogis-great-escape.json) |
 | Yogoe Hunter | 320178 | [320178-yogoe-hunter.json](./320178-yogoe-hunter.json) |
@@ -687,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu Yu Hakusho: Ghost Files - Dark Tournament | 43525 | [43525-yu-yu-hakusho-ghost-files-dark-tournament.json](./43525-yu-yu-hakusho-ghost-files-dark-tournament.json) |
 | Yu-Gi-Oh GX: The Beginning of Destiny | 21680 | [21680-yu-gi-oh-gx-the-beginning-of-destiny.json](./21680-yu-gi-oh-gx-the-beginning-of-destiny.json) |
 | Yu-Gi-Oh PokéDuel | 270787 | [270787-yu-gi-oh-pokeduel.json](./270787-yu-gi-oh-pokeduel.json) |
+| Yu-Gi-Oh! 5D's Decade Duels | 66774 | [66774-yu-gi-oh-5ds-decade-duels.json](./66774-yu-gi-oh-5ds-decade-duels.json) |
 | Yu-Gi-Oh! 5D's Tag Force 5 | 42854 | [42854-yu-gi-oh-5ds-tag-force-5.json](./42854-yu-gi-oh-5ds-tag-force-5.json) |
 | Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia | 47841 | [47841-yu-gi-oh-5ds-world-championship-2010-reverse-of-arcadia.json](./47841-yu-gi-oh-5ds-world-championship-2010-reverse-of-arcadia.json) |
 | Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus | 47801 | [47801-yu-gi-oh-5ds-world-championship-2011-over-the-nexus.json](./47801-yu-gi-oh-5ds-world-championship-2011-over-the-nexus.json) |
