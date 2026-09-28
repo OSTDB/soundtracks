@@ -2770,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revelation | 263510 | [263510-revelation.json](./263510-revelation.json) |
 | Revelation of Decay | 301606 | [301606-revelation-of-decay.json](./301606-revelation-of-decay.json) |
 | Revelation One Trivia Quiz Game | 99374 | [99374-revelation-one-trivia-quiz-game.json](./99374-revelation-one-trivia-quiz-game.json) |
+| Revelation Trestan | 110507 | [110507-revelation-trestan.json](./110507-revelation-trestan.json) |
 | Revelations 2012 | 16279 | [16279-revelations-2012.json](./16279-revelations-2012.json) |
 | Revella | 344368 | [344368-revella.json](./344368-revella.json) |
 | Revenant | 307755 | [307755-revenant.json](./307755-revenant.json) |
