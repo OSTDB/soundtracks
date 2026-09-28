@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Ghost | 121695 | [121695-war-ghost.json](./121695-war-ghost.json) |
 | War Girl | 120779 | [120779-war-girl.json](./120779-war-girl.json) |
 | War Gods | 3628 | [3628-war-gods.json](./3628-war-gods.json) |
+| War Hunter | 96903 | [96903-war-hunter.json](./96903-war-hunter.json) |
 | War Identity | 139454 | [139454-war-identity.json](./139454-war-identity.json) |
 | War In Heaven | 216487 | [216487-war-in-heaven.json](./216487-war-in-heaven.json) |
 | War in Russia | 24916 | [24916-war-in-russia.json](./24916-war-in-russia.json) |
