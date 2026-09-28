@@ -2349,6 +2349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Oann | 335368 | [335368-find-oann.json](./335368-find-oann.json) |
 | Find Objects | 163203 | [163203-find-objects.json](./163203-find-objects.json) |
 | Find Pairs | 246490 | [246490-find-pairs.json](./246490-find-pairs.json) |
+| Find Pixel | 74998 | [74998-find-pixel.json](./74998-find-pixel.json) |
 | Find Room 96 | 291457 | [291457-find-room-96.json](./291457-find-room-96.json) |
 | Find someone else | 95237 | [95237-find-someone-else.json](./95237-find-someone-else.json) |
 | Find Sort Match | 358351 | [358351-find-sort-match.json](./358351-find-sort-match.json) |
@@ -4823,6 +4824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragmented Mind | 169477 | [169477-fragmented-mind.json](./169477-fragmented-mind.json) |
 | Fragments | 142384 | [142384-fragments.json](./142384-fragments.json) |
 | Fragments | 381037 | [381037-fragments.json](./381037-fragments.json) |
+| Fragments | 74490 | [74490-fragments.json](./74490-fragments.json) |
 | Fragments of Dread: Late Lines FM | 390228 | [390228-fragments-of-dread-late-lines-fm.json](./390228-fragments-of-dread-late-lines-fm.json) |
 | Fragments of Fear | 406703 | [406703-fragments-of-fear.json](./406703-fragments-of-fear.json) |
 | Fragments of Him | 12518 | [12518-fragments-of-him.json](./12518-fragments-of-him.json) |
