@@ -1063,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterjacked! | 362330 | [362330-waterjacked.json](./362330-waterjacked.json) |
 | Waterloo | 12821 | [12821-waterloo.json](./12821-waterloo.json) |
 | Waterloo | 328018 | [328018-waterloo.json](./328018-waterloo.json) |
+| Waterloo: Napoleon's Last Battle | 71611 | [71611-waterloo-napoleons-last-battle.json](./71611-waterloo-napoleons-last-battle.json) |
 | WaterMeasure | 344542 | [344542-watermeasure.json](./344542-watermeasure.json) |
 | Watermelon | 338390 | [338390-watermelon.json](./338390-watermelon.json) |
 | Watermelon (with a Broken Head) Game | 334307 | [334307-watermelon-with-a-broken-head-game.json](./334307-watermelon-with-a-broken-head-game.json) |
@@ -4092,6 +4093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWF Superstars 2 | 49054 | [49054-wwf-superstars-2.json](./49054-wwf-superstars-2.json) |
 | WWF WrestleMania: The Arcade Game | 4546 | [4546-wwf-wrestlemania-the-arcade-game.json](./4546-wwf-wrestlemania-the-arcade-game.json) |
 | WWF: Super Wrestlemania | 45566 | [45566-wwf-super-wrestlemania.json](./45566-wwf-super-wrestlemania.json) |
+| WWI Medic | 71605 | [71605-wwi-medic.json](./71605-wwi-medic.json) |
 | WWI: Aces of the Sky | 9392 | [9392-wwi-aces-of-the-sky.json](./9392-wwi-aces-of-the-sky.json) |
 | WWI: The First DogFighters | 179130 | [179130-wwi-the-first-dogfighters.json](./179130-wwi-the-first-dogfighters.json) |
 | WWI: The Great War | 71540 | [71540-wwi-the-great-war.json](./71540-wwi-the-great-war.json) |
