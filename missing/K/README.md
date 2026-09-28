@@ -1952,6 +1952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Throde | 157071 | [157071-knight-throde.json](./157071-knight-throde.json) |
 | Knight Without Sword | 263587 | [263587-knight-without-sword.json](./263587-knight-without-sword.json) |
 | Knight-Blade: Howling of Kerberos | 324886 | [324886-knight-blade-howling-of-kerberos.json](./324886-knight-blade-howling-of-kerberos.json) |
+| Knight's Apprentice, Memorick's Adventures | 70469 | [70469-knights-apprentice-memoricks-adventures.json](./70469-knights-apprentice-memoricks-adventures.json) |
 | Knight's Castle | 213341 | [213341-knights-castle.json](./213341-knights-castle.json) |
 | Knight's Chance | 75478 | [75478-knights-chance.json](./75478-knights-chance.json) |
 | Knight's Destiny | 149037 | [149037-knights-destiny.json](./149037-knights-destiny.json) |
@@ -2233,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Komako | 165051 | [165051-komako.json](./165051-komako.json) |
 | Komayama Kiri ha Zenbu Yari ni Iku | 404250 | [404250-komayama-kiri-ha-zenbu-yari-ni-iku.json](./404250-komayama-kiri-ha-zenbu-yari-ni-iku.json) |
 | Kombat Hamster | 309880 | [309880-kombat-hamster.json](./309880-kombat-hamster.json) |
+| Kombat Kars | 70446 | [70446-kombat-kars.json](./70446-kombat-kars.json) |
 | Kombate Mexicano Elexiones | 261555 | [261555-kombate-mexicano-elexiones.json](./261555-kombate-mexicano-elexiones.json) |
 | Kombinera | 194249 | [194249-kombinera.json](./194249-kombinera.json) |
 | Komeiji Satori no Jousou Kyouiku | 187240 | [187240-komeiji-satori-no-jousou-kyouiku.json](./187240-komeiji-satori-no-jousou-kyouiku.json) |
