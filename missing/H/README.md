@@ -4461,6 +4461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Sauna | 368110 | [368110-hot-sauna.json](./368110-hot-sauna.json) |
 | Hot Shot | 317877 | [317877-hot-shot.json](./317877-hot-shot.json) |
 | Hot Shot Burn | 121036 | [121036-hot-shot-burn.json](./121036-hot-shot-burn.json) |
+| Hot Shot Challenge - Online | 103627 | [103627-hot-shot-challenge-online.json](./103627-hot-shot-challenge-online.json) |
 | Hot Shot Monkey | 349931 | [349931-hot-shot-monkey.json](./349931-hot-shot-monkey.json) |
 | Hot Shots Golf 2 | 232407 | [232407-hot-shots-golf-2.json](./232407-hot-shots-golf-2.json) |
 | Hot Shots Golf 3 | 23459 | [23459-hot-shots-golf-3.json](./23459-hot-shots-golf-3.json) |
@@ -4795,6 +4796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Melt a Maiden's Heart | 326280 | [326280-how-to-melt-a-maidens-heart.json](./326280-how-to-melt-a-maidens-heart.json) |
 | How to Raise a Wolf Girl | 122825 | [122825-how-to-raise-a-wolf-girl.json](./122825-how-to-raise-a-wolf-girl.json) |
 | How to Say Goodbye | 126445 | [126445-how-to-say-goodbye.json](./126445-how-to-say-goodbye.json) |
+| How to Sovle Rubiks Cube in 30 seconds | 103669 | [103669-how-to-sovle-rubiks-cube-in-30-seconds.json](./103669-how-to-sovle-rubiks-cube-in-30-seconds.json) |
 | How to Survive 2: Dead Dynamite | 169929 | [169929-how-to-survive-2-dead-dynamite.json](./169929-how-to-survive-2-dead-dynamite.json) |
 | How to Survive 2: Kovac's Ultimate Edition | 53194 | [53194-how-to-survive-2-kovacs-ultimate-edition.json](./53194-how-to-survive-2-kovacs-ultimate-edition.json) |
 | How to Survive the Night shift | 295870 | [295870-how-to-survive-the-night-shift.json](./295870-how-to-survive-the-night-shift.json) |
@@ -5126,6 +5128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter and Tavern | 374664 | [374664-hunter-and-tavern.json](./374664-hunter-and-tavern.json) |
 | Hunter Assassin | 130293 | [130293-hunter-assassin.json](./130293-hunter-assassin.json) |
 | Hunter Beat | 296650 | [296650-hunter-beat.json](./296650-hunter-beat.json) |
+| Hunter Brick Ball | 103643 | [103643-hunter-brick-ball.json](./103643-hunter-brick-ball.json) |
 | Hunter Chronicles: Tara and Vyn | 303560 | [303560-hunter-chronicles-tara-and-vyn.json](./303560-hunter-chronicles-tara-and-vyn.json) |
 | Hunter Desert Simulator: Sniper Rifle | 409533 | [409533-hunter-desert-simulator-sniper-rifle.json](./409533-hunter-desert-simulator-sniper-rifle.json) |
 | Hunter Girls | 259065 | [259065-hunter-girls.json](./259065-hunter-girls.json) |
