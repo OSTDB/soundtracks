@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Blaster 3 | 335470 | [335470-cannon-blaster-3.json](./335470-cannon-blaster-3.json) |
 | Cannon Canines | 190216 | [190216-cannon-canines.json](./190216-cannon-canines.json) |
 | Cannon Father | 134600 | [134600-cannon-father.json](./134600-cannon-father.json) |
+| Cannon Fire | 83602 | [83602-cannon-fire.json](./83602-cannon-fire.json) |
 | Cannon Flight | 57112 | [57112-cannon-flight.json](./57112-cannon-flight.json) |
 | Cannon Fodder | 229022 | [229022-cannon-fodder.json](./229022-cannon-fodder.json) |
 | Cannon Guys | 334859 | [334859-cannon-guys.json](./334859-cannon-guys.json) |
@@ -5517,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Store Simulator | 382744 | [382744-computer-store-simulator.json](./382744-computer-store-simulator.json) |
 | Computer the Golf | 112164 | [112164-computer-the-golf.json](./112164-computer-the-golf.json) |
 | Computer Virus Simulator | 218133 | [218133-computer-virus-simulator.json](./218133-computer-virus-simulator.json) |
+| Computer Word Search | 83459 | [83459-computer-word-search.json](./83459-computer-word-search.json) |
 | Computer, Open That Door! | 181382 | [181382-computer-open-that-door.json](./181382-computer-open-that-door.json) |
 | ComputerCraft | 232659 | [232659-computercraft.json](./232659-computercraft.json) |
 | Computerfriend | 215231 | [215231-computerfriend.json](./215231-computerfriend.json) |
@@ -8712,6 +8714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberSkyscrUpper | 265770 | [265770-cyberskyscrupper.json](./265770-cyberskyscrupper.json) |
 | Cybersonic Strike | 258538 | [258538-cybersonic-strike.json](./258538-cybersonic-strike.json) |
 | Cybersoul: Cosmic Resonance | 385864 | [385864-cybersoul-cosmic-resonance.json](./385864-cybersoul-cosmic-resonance.json) |
+| CyberSpace Crossword Puzzle | 83450 | [83450-cyberspace-crossword-puzzle.json](./83450-cyberspace-crossword-puzzle.json) |
 | Cyberspace VR | 160145 | [160145-cyberspace-vr.json](./160145-cyberspace-vr.json) |
 | Cybersphere | 228696 | [228696-cybersphere.json](./228696-cybersphere.json) |
 | CyberStorm 2: Corporate Wars | 11028 | [11028-cyberstorm-2-corporate-wars.json](./11028-cyberstorm-2-corporate-wars.json) |
