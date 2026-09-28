@@ -1277,6 +1277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavernia | 391212 | [391212-tavernia.json](./391212-tavernia.json) |
 | Tavernier | 31587 | [31587-tavernier.json](./31587-tavernier.json) |
 | Tavu | 276823 | [276823-tavu.json](./276823-tavu.json) |
+| Tax Dodge | 60638 | [60638-tax-dodge.json](./60638-tax-dodge.json) |
 | Tax Evasion | 265147 | [265147-tax-evasion.json](./265147-tax-evasion.json) |
 | Tax Return | 390679 | [390679-tax-return.json](./390679-tax-return.json) |
 | Tax-Force | 265631 | [265631-tax-force.json](./265631-tax-force.json) |
@@ -3012,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bounty | 86113 | [86113-the-bounty.json](./86113-the-bounty.json) |
 | The Bounty Hunter | 145558 | [145558-the-bounty-hunter.json](./145558-the-bounty-hunter.json) |
 | The Bounty V2 | 75832 | [75832-the-bounty-v2.json](./75832-the-bounty-v2.json) |
+| The Bow | 60602 | [60602-the-bow.json](./60602-the-bow.json) |
 | The Bowling Tournament | 277418 | [277418-the-bowling-tournament.json](./277418-the-bowling-tournament.json) |
 | The Bowyage | 265208 | [265208-the-bowyage.json](./265208-the-bowyage.json) |
 | The Box Game | 203550 | [203550-the-box-game.json](./203550-the-box-game.json) |
@@ -10934,6 +10936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo 24-Ku | 165063 | [165063-tokyo-24-ku.json](./165063-tokyo-24-ku.json) |
 | Tokyo 42 | 18930 | [18930-tokyo-42.json](./18930-tokyo-42.json) |
 | Tokyo 42: Smaceshi's Castles | 172109 | [172109-tokyo-42-smaceshis-castles.json](./172109-tokyo-42-smaceshis-castles.json) |
+| Tokyo 7th Sisters | 60623 | [60623-tokyo-7th-sisters.json](./60623-tokyo-7th-sisters.json) |
 | Tokyo Alice | 135270 | [135270-tokyo-alice.json](./135270-tokyo-alice.json) |
 | Tokyo Beat Down | 20703 | [20703-tokyo-beat-down.json](./20703-tokyo-beat-down.json) |
 | Tokyo Chronos | 101059 | [101059-tokyo-chronos.json](./101059-tokyo-chronos.json) |
@@ -10976,6 +10979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Mirage Sessions #FE: 3 Support Quest Set | 333630 | [333630-tokyo-mirage-sessions-fe-3-support-quest-set.json](./333630-tokyo-mirage-sessions-fe-3-support-quest-set.json) |
 | Tokyo Mono Hara Shi: Karasu no Mori Gakuen Kitan | 67287 | [67287-tokyo-mono-hara-shi-karasu-no-mori-gakuen-kitan.json](./67287-tokyo-mono-hara-shi-karasu-no-mori-gakuen-kitan.json) |
 | Tokyo Nampa Street | 66132 | [66132-tokyo-nampa-street.json](./66132-tokyo-nampa-street.json) |
+| Tokyo Necro | 60484 | [60484-tokyo-necro.json](./60484-tokyo-necro.json) |
 | Tokyo Pachi-Slot Adventure | 48877 | [48877-tokyo-pachi-slot-adventure.json](./48877-tokyo-pachi-slot-adventure.json) |
 | Tokyo Revengers Pazuribe! | 254572 | [254572-tokyo-revengers-pazuribe.json](./254572-tokyo-revengers-pazuribe.json) |
 | Tokyo Road Race | 43303 | [43303-tokyo-road-race.json](./43303-tokyo-road-race.json) |
@@ -11726,6 +11730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totsugeki! Pappara-tai | 282680 | [282680-totsugeki-pappara-tai.json](./282680-totsugeki-pappara-tai.json) |
 | Tottemo E Mahjong | 256902 | [256902-tottemo-e-mahjong.json](./256902-tottemo-e-mahjong.json) |
 | Tottemo E Mahjong Plus | 62115 | [62115-tottemo-e-mahjong-plus.json](./62115-tottemo-e-mahjong-plus.json) |
+| Tottemo! Lucky Man: Lucky Cookie Minna Daisuki!! | 60632 | [60632-tottemo-lucky-man-lucky-cookie-minna-daisuki.json](./60632-tottemo-lucky-man-lucky-cookie-minna-daisuki.json) |
 | Tottemo! Luckyman: Lucky Cookie Roulette de Totsugeki | 37783 | [37783-tottemo-luckyman-lucky-cookie-roulette-de-totsugeki.json](./37783-tottemo-luckyman-lucky-cookie-roulette-de-totsugeki.json) |
 | Tottenham Hotspur Club Football 2005 | 267897 | [267897-tottenham-hotspur-club-football-2005.json](./267897-tottenham-hotspur-club-football-2005.json) |
 | Totto's Magic Soup | 353293 | [353293-tottos-magic-soup.json](./353293-tottos-magic-soup.json) |
@@ -11777,6 +11782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touge Challenge | 161344 | [161344-touge-challenge.json](./161344-touge-challenge.json) |
 | Touge King: The Spirits 2 | 66100 | [66100-touge-king-the-spirits-2.json](./66100-touge-king-the-spirits-2.json) |
 | Touge Max 2 | 66099 | [66099-touge-max-2.json](./66099-touge-max-2.json) |
+| Touge R | 60621 | [60621-touge-r.json](./60621-touge-r.json) |
 | Tougen Anki: Crimson Inferno | 396591 | [396591-tougen-anki-crimson-inferno.json](./396591-tougen-anki-crimson-inferno.json) |
 | Tough Story: Big Hell | 54457 | [54457-tough-story-big-hell.json](./54457-tough-story-big-hell.json) |
 | Tough Turf | 40259 | [40259-tough-turf.json](./40259-tough-turf.json) |
