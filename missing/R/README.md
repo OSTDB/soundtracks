@@ -5111,6 +5111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Birkdale Championship Golf | 93341 | [93341-royal-birkdale-championship-golf.json](./93341-royal-birkdale-championship-golf.json) |
 | Royal Blade | 95879 | [95879-royal-blade.json](./95879-royal-blade.json) |
 | Royal Block | 269309 | [269309-royal-block.json](./269309-royal-block.json) |
+| Royal Blood II | 65594 | [65594-royal-blood-ii.json](./65594-royal-blood-ii.json) |
 | Royal Booty Quest | 111692 | [111692-royal-booty-quest.json](./111692-royal-booty-quest.json) |
 | Royal Casino: Video Poker | 80926 | [80926-royal-casino-video-poker.json](./80926-royal-casino-video-poker.json) |
 | Royal Chaos: Enter a Dreamlike Kingdom of Romance | 105883 | [105883-royal-chaos-enter-a-dreamlike-kingdom-of-romance.json](./105883-royal-chaos-enter-a-dreamlike-kingdom-of-romance.json) |
@@ -5672,6 +5673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian bank - card game | 106568 | [106568-russian-bank-card-game.json](./106568-russian-bank-card-game.json) |
 | Russian Car Driver | 30142 | [30142-russian-car-driver.json](./30142-russian-car-driver.json) |
 | Russian Car Driver: UAZ Hunter | 255752 | [255752-russian-car-driver-uaz-hunter.json](./255752-russian-car-driver-uaz-hunter.json) |
+| Russian Dancing Men | 65597 | [65597-russian-dancing-men.json](./65597-russian-dancing-men.json) |
 | Russian Driver | 197376 | [197376-russian-driver.json](./197376-russian-driver.json) |
 | Russian Drunken Boxers | 158697 | [158697-russian-drunken-boxers.json](./158697-russian-drunken-boxers.json) |
 | Russian Fight Simulator | 263767 | [263767-russian-fight-simulator.json](./263767-russian-fight-simulator.json) |
