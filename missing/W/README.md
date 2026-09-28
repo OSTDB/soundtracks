@@ -1110,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wavetale | 165309 | [165309-wavetale.json](./165309-wavetale.json) |
 | Wavey the Rocket | 112513 | [112513-wavey-the-rocket.json](./112513-wavey-the-rocket.json) |
 | Waving Around | 347174 | [347174-waving-around.json](./347174-waving-around.json) |
+| Wavy trip | 89364 | [89364-wavy-trip.json](./89364-wavy-trip.json) |
 | Wawa Neko no Shima | 206175 | [206175-wawa-neko-no-shima.json](./206175-wawa-neko-no-shima.json) |
 | Wawa United | 150598 | [150598-wawa-united.json](./150598-wawa-united.json) |
 | Wax Museum | 187454 | [187454-wax-museum.json](./187454-wax-museum.json) |
