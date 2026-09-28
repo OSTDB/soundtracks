@@ -895,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Monarch | 119627 | [119627-fantasy-monarch.json](./119627-fantasy-monarch.json) |
 | Fantasy Monster Hunt | 346683 | [346683-fantasy-monster-hunt.json](./346683-fantasy-monster-hunt.json) |
 | Fantasy Mosaics | 57350 | [57350-fantasy-mosaics.json](./57350-fantasy-mosaics.json) |
+| Fantasy Mosaics 13: Unexpected Visitor | 95579 | [95579-fantasy-mosaics-13-unexpected-visitor.json](./95579-fantasy-mosaics-13-unexpected-visitor.json) |
 | Fantasy Mosaics 2 | 100733 | [100733-fantasy-mosaics-2.json](./100733-fantasy-mosaics-2.json) |
 | Fantasy Mosaics 29: Alien Planet | 103898 | [103898-fantasy-mosaics-29-alien-planet.json](./103898-fantasy-mosaics-29-alien-planet.json) |
 | Fantasy Mosaics 3: Distant Worlds | 100735 | [100735-fantasy-mosaics-3-distant-worlds.json](./100735-fantasy-mosaics-3-distant-worlds.json) |
@@ -3843,6 +3844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Follow the Darkness | 151572 | [151572-follow-the-darkness.json](./151572-follow-the-darkness.json) |
 | Follow the Leader | 264035 | [264035-follow-the-leader.json](./264035-follow-the-leader.json) |
 | Follow the Rules | 273952 | [273952-follow-the-rules.json](./273952-follow-the-rules.json) |
+| Follow the Sound by Horse Reader | 95631 | [95631-follow-the-sound-by-horse-reader.json](./95631-follow-the-sound-by-horse-reader.json) |
 | Follow the White Rabbit VR | 122178 | [122178-follow-the-white-rabbit-vr.json](./122178-follow-the-white-rabbit-vr.json) |
 | Follow Us | 383027 | [383027-follow-us.json](./383027-follow-us.json) |
 | Follow You | 218129 | [218129-follow-you.json](./218129-follow-you.json) |
@@ -5745,6 +5747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Physics | 85162 | [85162-funky-physics.json](./85162-funky-physics.json) |
 | Funky Punch | 64687 | [64687-funky-punch.json](./64687-funky-punch.json) |
 | Funnels and Buckets | 46644 | [46644-funnels-and-buckets.json](./46644-funnels-and-buckets.json) |
+| Funny Balloon | 95633 | [95633-funny-balloon.json](./95633-funny-balloon.json) |
 | Funny Bird | 247538 | [247538-funny-bird.json](./247538-funny-bird.json) |
 | Funny Card | 193495 | [193495-funny-card.json](./193495-funny-card.json) |
 | Funny Cards | 82138 | [82138-funny-cards.json](./82138-funny-cards.json) |
