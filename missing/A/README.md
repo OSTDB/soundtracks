@@ -3525,6 +3525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anagrammatic | 323710 | [323710-anagrammatic.json](./323710-anagrammatic.json) |
 | Anagramme Duel | 96037 | [96037-anagramme-duel.json](./96037-anagramme-duel.json) |
 | Anagrams | 169360 | [169360-anagrams.json](./169360-anagrams.json) |
+| Analemma | 68767 | [68767-analemma.json](./68767-analemma.json) |
 | Analistica Academy | 89937 | [89937-analistica-academy.json](./89937-analistica-academy.json) |
 | Analog Party Sim | 160246 | [160246-analog-party-sim.json](./160246-analog-party-sim.json) |
 | Anamorphine | 27873 | [27873-anamorphine.json](./27873-anamorphine.json) |
@@ -3987,6 +3988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animalia Memories | 341141 | [341141-animalia-memories.json](./341141-animalia-memories.json) |
 | Animalia Survival | 167832 | [167832-animalia-survival.json](./167832-animalia-survival.json) |
 | Animalia Survival: Haloween Pack | 263051 | [263051-animalia-survival-haloween-pack.json](./263051-animalia-survival-haloween-pack.json) |
+| Animalia: The Quiz Game | 68752 | [68752-animalia-the-quiz-game.json](./68752-animalia-the-quiz-game.json) |
 | Animallica | 43361 | [43361-animallica.json](./43361-animallica.json) |
 | Animaloid Girl | 263199 | [263199-animaloid-girl.json](./263199-animaloid-girl.json) |
 | Animalon: Epic Monsters Battle | 355120 | [355120-animalon-epic-monsters-battle.json](./355120-animalon-epic-monsters-battle.json) |
@@ -4110,6 +4112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animesports: Party Basketball! | 348431 | [348431-animesports-party-basketball.json](./348431-animesports-party-basketball.json) |
 | Animetic Story Game 1: Cardcaptor Sakura | 132867 | [132867-animetic-story-game-1-cardcaptor-sakura.json](./132867-animetic-story-game-1-cardcaptor-sakura.json) |
 | Animo Stars Arena | 243064 | [243064-animo-stars-arena.json](./243064-animo-stars-arena.json) |
+| Animorphs: Know the Secret | 68723 | [68723-animorphs-know-the-secret.json](./68723-animorphs-know-the-secret.json) |
 | Animorphs: Shattered Reality | 43927 | [43927-animorphs-shattered-reality.json](./43927-animorphs-shattered-reality.json) |
 | Animosity's Duel | 133800 | [133800-animositys-duel.json](./133800-animositys-duel.json) |
 | AnimuJump | 238628 | [238628-animujump.json](./238628-animujump.json) |
@@ -6583,6 +6586,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrophidia | 409682 | [409682-astrophidia.json](./409682-astrophidia.json) |
 | Astropods: Starside Glaze | 316076 | [316076-astropods-starside-glaze.json](./316076-astropods-starside-glaze.json) |
 | AstroRunner | 272858 | [272858-astrorunner.json](./272858-astrorunner.json) |
+| AstroShift | 68763 | [68763-astroshift.json](./68763-astroshift.json) |
+| AstroSurf | 68772 | [68772-astrosurf.json](./68772-astrosurf.json) |
 | AstroSurfer | 178985 | [178985-astrosurfer.json](./178985-astrosurfer.json) |
 | Astroswarm | 276701 | [276701-astroswarm.json](./276701-astroswarm.json) |
 | Astrosweeper Mini | 205105 | [205105-astrosweeper-mini.json](./205105-astrosweeper-mini.json) |
