@@ -1434,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumps VR | 156041 | [156041-jumps-vr.json](./156041-jumps-vr.json) |
 | Jumpscare to Live | 374715 | [374715-jumpscare-to-live.json](./374715-jumpscare-to-live.json) |
 | JumpSky | 74472 | [74472-jumpsky.json](./74472-jumpsky.json) |
+| JumpStart 1st Grade | 94349 | [94349-jumpstart-1st-grade.json](./94349-jumpstart-1st-grade.json) |
 | JumpStart 1st Grade Reading | 286668 | [286668-jumpstart-1st-grade-reading.json](./286668-jumpstart-1st-grade-reading.json) |
 | JumpStart 3D Virtual World: Trouble in Town | 200191 | [200191-jumpstart-3d-virtual-world-trouble-in-town.json](./200191-jumpstart-3d-virtual-world-trouble-in-town.json) |
 | JumpStart Adventures 4th Grade: Haunted Island | 129146 | [129146-jumpstart-adventures-4th-grade-haunted-island.json](./129146-jumpstart-adventures-4th-grade-haunted-island.json) |
