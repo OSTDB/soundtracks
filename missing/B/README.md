@@ -4443,6 +4443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockhead | 14323 | [14323-blockhead.json](./14323-blockhead.json) |
 | Blockhead II | 14324 | [14324-blockhead-ii.json](./14324-blockhead-ii.json) |
 | Blockies VR | 193204 | [193204-blockies-vr.json](./193204-blockies-vr.json) |
+| Blockiverse: Camouflage | 106144 | [106144-blockiverse-camouflage.json](./106144-blockiverse-camouflage.json) |
 | Blockman 1988 | 225722 | [225722-blockman-1988.json](./225722-blockman-1988.json) |
 | Blockman 1989 | 186646 | [186646-blockman-1989.json](./186646-blockman-1989.json) |
 | Blockman Returns | 56427 | [56427-blockman-returns.json](./56427-blockman-returns.json) |
