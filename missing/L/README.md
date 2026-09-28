@@ -1197,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Aethereus | 10509 | [10509-legends-of-aethereus.json](./10509-legends-of-aethereus.json) |
 | Legends of Amberland II: The Song of Trees | 220604 | [220604-legends-of-amberland-ii-the-song-of-trees.json](./220604-legends-of-amberland-ii-the-song-of-trees.json) |
 | Legends of Amberland III: The Crimson Tower | 355038 | [355038-legends-of-amberland-iii-the-crimson-tower.json](./355038-legends-of-amberland-iii-the-crimson-tower.json) |
+| Legends of Andor: The King's Secret | 114540 | [114540-legends-of-andor-the-kings-secret.json](./114540-legends-of-andor-the-kings-secret.json) |
 | Legends of Aria Eternal | 361910 | [361910-legends-of-aria-eternal.json](./361910-legends-of-aria-eternal.json) |
 | Legends of Atlantis: Exodus Premium | 174337 | [174337-legends-of-atlantis-exodus-premium.json](./174337-legends-of-atlantis-exodus-premium.json) |
 | Legends of Azulgar | 32013 | [32013-legends-of-azulgar.json](./32013-legends-of-azulgar.json) |
@@ -3775,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Stitch | 412297 | [412297-love-stitch.json](./412297-love-stitch.json) |
 | Love Stories: Sex and the Furry Titty | 165031 | [165031-love-stories-sex-and-the-furry-titty.json](./165031-love-stories-sex-and-the-furry-titty.json) |
 | Love Story | 259509 | [259509-love-story.json](./259509-love-story.json) |
+| Love Story of Sparrow | 114531 | [114531-love-story-of-sparrow.json](./114531-love-story-of-sparrow.json) |
 | Love Story: Choices Girl Games | 107010 | [107010-love-story-choices-girl-games.json](./107010-love-story-choices-girl-games.json) |
 | Love Story: The Way Home | 102187 | [102187-love-story-the-way-home.json](./102187-love-story-the-way-home.json) |
 | Love Sucks: Night One | 156516 | [156516-love-sucks-night-one.json](./156516-love-sucks-night-one.json) |
