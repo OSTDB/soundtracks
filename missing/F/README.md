@@ -3063,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flairtender | 29635 | [29635-flairtender.json](./29635-flairtender.json) |
 | Flaiser | 183449 | [183449-flaiser.json](./183449-flaiser.json) |
 | Flake: The Legend of Snowblind | 287195 | [287195-flake-the-legend-of-snowblind.json](./287195-flake-the-legend-of-snowblind.json) |
+| Flaky Bakery | 117790 | [117790-flaky-bakery.json](./117790-flaky-bakery.json) |
 | Flaky Love | 310039 | [310039-flaky-love.json](./310039-flaky-love.json) |
 | Flamango | 180034 | [180034-flamango.json](./180034-flamango.json) |
 | Flambo's Inferno | 196164 | [196164-flambos-inferno.json](./196164-flambos-inferno.json) |
@@ -3362,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipper & Unboxing House 2-in-1 | 414442 | [414442-flipper-and-unboxing-house-2-in-1.json](./414442-flipper-and-unboxing-house-2-in-1.json) |
 | Flipper Critters | 20693 | [20693-flipper-critters.json](./20693-flipper-critters.json) |
 | Flipper Hazard 5 | 55442 | [55442-flipper-hazard-5.json](./55442-flipper-hazard-5.json) |
+| Flipper Mechanic | 117798 | [117798-flipper-mechanic.json](./117798-flipper-mechanic.json) |
 | Flipper Mechanic Simulator | 244789 | [244789-flipper-mechanic-simulator.json](./244789-flipper-mechanic-simulator.json) |
 | Flipper Volcano | 138134 | [138134-flipper-volcano.json](./138134-flipper-volcano.json) |
 | Flippin Misfits | 212809 | [212809-flippin-misfits.json](./212809-flippin-misfits.json) |
@@ -5409,6 +5411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Catcher | 397067 | [397067-fruit-catcher.json](./397067-fruit-catcher.json) |
 | Fruit Clicker | 150646 | [150646-fruit-clicker.json](./150646-fruit-clicker.json) |
 | Fruit Cocktail | 257669 | [257669-fruit-cocktail.json](./257669-fruit-cocktail.json) |
+| Fruit Crawler | 117791 | [117791-fruit-crawler.json](./117791-fruit-crawler.json) |
 | Fruit Fall | 246333 | [246333-fruit-fall.json](./246333-fruit-fall.json) |
 | Fruit Farmer | 199603 | [199603-fruit-farmer.json](./199603-fruit-farmer.json) |
 | Fruit Fusion | 60254 | [60254-fruit-fusion.json](./60254-fruit-fusion.json) |
