@@ -2294,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renegade X: Black Dawn | 51290 | [51290-renegade-x-black-dawn.json](./51290-renegade-x-black-dawn.json) |
 | Renegade: Arena Shooter | 150679 | [150679-renegade-arena-shooter.json](./150679-renegade-arena-shooter.json) |
 | Renegade: The Battle for Jacob's Star | 69562 | [69562-renegade-the-battle-for-jacobs-star.json](./69562-renegade-the-battle-for-jacobs-star.json) |
+| Renex III | 73884 | [73884-renex-iii.json](./73884-renex-iii.json) |
 | Renfield | 82885 | [82885-renfield.json](./82885-renfield.json) |
 | Renga in Four Parts | 138150 | [138150-renga-in-four-parts.json](./138150-renga-in-four-parts.json) |
 | Rengoku | 325284 | [325284-rengoku.json](./325284-rengoku.json) |
@@ -3857,6 +3858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rob Blanc II: Planet of the Pasteurised Pestilence | 171552 | [171552-rob-blanc-ii-planet-of-the-pasteurised-pestilence.json](./171552-rob-blanc-ii-planet-of-the-pasteurised-pestilence.json) |
 | Rob Blanc III: The Temporal Terrorists | 171553 | [171553-rob-blanc-iii-the-temporal-terrorists.json](./171553-rob-blanc-iii-the-temporal-terrorists.json) |
 | Rob'n Run | 183029 | [183029-robn-run.json](./183029-robn-run.json) |
+| Robbbot | 73877 | [73877-robbbot.json](./73877-robbbot.json) |
 | Robbed Money | 147384 | [147384-robbed-money.json](./147384-robbed-money.json) |
 | Robber | 254535 | [254535-robber.json](./254535-robber.json) |
 | Robber | 385579 | [385579-robber.json](./385579-robber.json) |
