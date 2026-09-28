@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xearz | 215658 | [215658-xearz.json](./215658-xearz.json) |
 | Xecuter | 133346 | [133346-xecuter.json](./133346-xecuter.json) |
 | Xecutor | 55021 | [55021-xecutor.json](./55021-xecutor.json) |
+| Xediss | 67359 | [67359-xediss.json](./67359-xediss.json) |
 | XeGrader | 352364 | [352364-xegrader.json](./352364-xegrader.json) |
 | XeGrader Plus | 388057 | [388057-xegrader-plus.json](./388057-xegrader-plus.json) |
 | Xel: Breaking Time | 246632 | [246632-xel-breaking-time.json](./246632-xel-breaking-time.json) |
