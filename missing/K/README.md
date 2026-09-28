@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider Battle Rush | 304337 | [304337-kamen-rider-battle-rush.json](./304337-kamen-rider-battle-rush.json) |
 | Kamen Rider Battle: Ganbaride | 83930 | [83930-kamen-rider-battle-ganbaride.json](./83930-kamen-rider-battle-ganbaride.json) |
 | Kamen Rider Black: Hissatsu Rider Kick | 385754 | [385754-kamen-rider-black-hissatsu-rider-kick.json](./385754-kamen-rider-black-hissatsu-rider-kick.json) |
+| Kamen Rider City Wars | 68105 | [68105-kamen-rider-city-wars.json](./68105-kamen-rider-city-wars.json) |
 | Kamen Rider Club: Gekitotsu Shocker Land | 48691 | [48691-kamen-rider-club-gekitotsu-shocker-land.json](./48691-kamen-rider-club-gekitotsu-shocker-land.json) |
 | Kamen Rider Decade | 321523 | [321523-kamen-rider-decade.json](./321523-kamen-rider-decade.json) |
 | Kamen Rider Kabuto | 91886 | [91886-kamen-rider-kabuto.json](./91886-kamen-rider-kabuto.json) |
@@ -1460,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts Rebirth | 349294 | [349294-kingdom-hearts-rebirth.json](./349294-kingdom-hearts-rebirth.json) |
 | Kingdom Hearts Tamagotchi | 229938 | [229938-kingdom-hearts-tamagotchi.json](./229938-kingdom-hearts-tamagotchi.json) |
 | Kingdom Heroes | 389713 | [389713-kingdom-heroes.json](./389713-kingdom-heroes.json) |
+| Kingdom Heroes 2 | 68091 | [68091-kingdom-heroes-2.json](./68091-kingdom-heroes-2.json) |
 | Kingdom Heroes 8 | 143523 | [143523-kingdom-heroes-8.json](./143523-kingdom-heroes-8.json) |
 | Kingdom Heroes M | 368685 | [368685-kingdom-heroes-m.json](./368685-kingdom-heroes-m.json) |
 | Kingdom Idle Heart | 272872 | [272872-kingdom-idle-heart.json](./272872-kingdom-idle-heart.json) |
@@ -2377,7 +2379,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kota's New Journey | 327999 | [327999-kotas-new-journey.json](./327999-kotas-new-journey.json) |
 | Koten Tsumego Shuu: Shijin no Maki | 384658 | [384658-koten-tsumego-shuu-shijin-no-maki.json](./384658-koten-tsumego-shuu-shijin-no-maki.json) |
 | KóterGame | 111856 | [111856-kotergame.json](./111856-kotergame.json) |
+| Kotoba no Puzzle Mojipittan Daijiten | 68082 | [68082-kotoba-no-puzzle-mojipittan-daijiten.json](./68082-kotoba-no-puzzle-mojipittan-daijiten.json) |
+| Kotoba no Puzzle Mojipittan Wii | 68081 | [68081-kotoba-no-puzzle-mojipittan-wii.json](./68081-kotoba-no-puzzle-mojipittan-wii.json) |
+| Kotoba no Puzzle: Mojipittan DS | 68083 | [68083-kotoba-no-puzzle-mojipittan-ds.json](./68083-kotoba-no-puzzle-mojipittan-ds.json) |
 | Kotoba no Puzzle: Mojipittan Encore | 122292 | [122292-kotoba-no-puzzle-mojipittan-encore.json](./122292-kotoba-no-puzzle-mojipittan-encore.json) |
+| Kotoba no Puzzle: Mojipittan Wii Deluxe | 68080 | [68080-kotoba-no-puzzle-mojipittan-wii-deluxe.json](./68080-kotoba-no-puzzle-mojipittan-wii-deluxe.json) |
 | Kotobuki Grand Prix | 133823 | [133823-kotobuki-grand-prix.json](./133823-kotobuki-grand-prix.json) |
 | Kotodama Diary | 152193 | [152193-kotodama-diary.json](./152193-kotodama-diary.json) |
 | Kotoko's a Little Weird | 290687 | [290687-kotokos-a-little-weird.json](./290687-kotokos-a-little-weird.json) |
