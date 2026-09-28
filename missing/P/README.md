@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PachiSlot Aruze Kingdom - Ward of Lights | 75509 | [75509-pachislot-aruze-kingdom-ward-of-lights.json](./75509-pachislot-aruze-kingdom-ward-of-lights.json) |
 | Pachislot Ring: Noroi no 7-Kakan | 60808 | [60808-pachislot-ring-noroi-no-7-kakan.json](./60808-pachislot-ring-noroi-no-7-kakan.json) |
 | Pachislot Sengoku Musou | 64358 | [64358-pachislot-sengoku-musou.json](./64358-pachislot-sengoku-musou.json) |
+| Pachitte Chonmage | 109190 | [109190-pachitte-chonmage.json](./109190-pachitte-chonmage.json) |
 | Pachitte Chonmage Tatsujin 5: CR Kamen Rider | 61913 | [61913-pachitte-chonmage-tatsujin-5-cr-kamen-rider.json](./61913-pachitte-chonmage-tatsujin-5-cr-kamen-rider.json) |
 | Pacif Warriors 2 | 43538 | [43538-pacif-warriors-2.json](./43538-pacif-warriors-2.json) |
 | Pacific Drive: We Have Liftoff Customization Pack | 285546 | [285546-pacific-drive-we-have-liftoff-customization-pack.json](./285546-pacific-drive-we-have-liftoff-customization-pack.json) |
@@ -605,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzar: Forged By Chaos | 102572 | [102572-panzar-forged-by-chaos.json](./102572-panzar-forged-by-chaos.json) |
 | Panzer Attack/Red Baron | 95381 | [95381-panzer-attack-red-baron.json](./95381-panzer-attack-red-baron.json) |
 | Panzer Battles | 17997 | [17997-panzer-battles.json](./17997-panzer-battles.json) |
+| Panzer Campaign VII: Kursk '43 | 109182 | [109182-panzer-campaign-vii-kursk-43.json](./109182-panzer-campaign-vii-kursk-43.json) |
 | Panzer Campaigns Budapest '45 | 206791 | [206791-panzer-campaigns-budapest-45.json](./206791-panzer-campaigns-budapest-45.json) |
 | Panzer Campaigns: Bulge '44 Gold | 124728 | [124728-panzer-campaigns-bulge-44-gold.json](./124728-panzer-campaigns-bulge-44-gold.json) |
 | Panzer Campaigns: El Alamein '42 Gold | 124733 | [124733-panzer-campaigns-el-alamein-42-gold.json](./124733-panzer-campaigns-el-alamein-42-gold.json) |
@@ -6570,6 +6572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Earth | 180790 | [180790-project-earth.json](./180790-project-earth.json) |
 | Project EBHack | 331360 | [331360-project-ebhack.json](./331360-project-ebhack.json) |
 | Project Eclipse | 403580 | [403580-project-eclipse.json](./403580-project-eclipse.json) |
+| Project Eden | 109209 | [109209-project-eden.json](./109209-project-eden.json) |
 | Project Einherjar | 198356 | [198356-project-einherjar.json](./198356-project-einherjar.json) |
 | Project Entertainment System | 156533 | [156533-project-entertainment-system.json](./156533-project-entertainment-system.json) |
 | Project Entropy | 269086 | [269086-project-entropy.json](./269086-project-entropy.json) |
