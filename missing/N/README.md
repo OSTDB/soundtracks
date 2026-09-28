@@ -1050,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Bash | 301804 | [301804-neon-bash.json](./301804-neon-bash.json) |
 | Neon Beat Rider | 163739 | [163739-neon-beat-rider.json](./163739-neon-beat-rider.json) |
 | Neon Beats | 197652 | [197652-neon-beats.json](./197652-neon-beats.json) |
+| Neon Blocks 87 | 90814 | [90814-neon-blocks-87.json](./90814-neon-blocks-87.json) |
 | Neon Blood | 223443 | [223443-neon-blood.json](./223443-neon-blood.json) |
 | Neon Blood: Limited Edition | 323889 | [323889-neon-blood-limited-edition.json](./323889-neon-blood-limited-edition.json) |
 | Neon Boost | 117682 | [117682-neon-boost.json](./117682-neon-boost.json) |
