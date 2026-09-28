@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairune 2 | 57297 | [57297-fairune-2.json](./57297-fairune-2.json) |
 | Fairune: Fragment Isles | 276195 | [276195-fairune-fragment-isles.json](./276195-fairune-fragment-isles.json) |
 | Fairvalley VR | 116401 | [116401-fairvalley-vr.json](./116401-fairvalley-vr.json) |
+| Fairway Solitaire | 94903 | [94903-fairway-solitaire.json](./94903-fairway-solitaire.json) |
 | Fairway to Hell | 310032 | [310032-fairway-to-hell.json](./310032-fairway-to-hell.json) |
 | Fairy | 94681 | [94681-fairy.json](./94681-fairy.json) |
 | Fairy 2 | 216800 | [216800-fairy-2.json](./216800-fairy-2.json) |
@@ -345,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairyland: Power Dice | 103473 | [103473-fairyland-power-dice.json](./103473-fairyland-power-dice.json) |
 | Fairyside | 223480 | [223480-fairyside.json](./223480-fairyside.json) |
 | Fairytale | 47246 | [47246-fairytale.json](./47246-fairytale.json) |
+| Fairytale | 94902 | [94902-fairytale.json](./94902-fairytale.json) |
 | Fairytale Fights | 6991 | [6991-fairytale-fights.json](./6991-fairytale-fights.json) |
 | Fairytale Furnishing | 295560 | [295560-fairytale-furnishing.json](./295560-fairytale-furnishing.json) |
 | Fairytale Mosaics: Beauty and the Beast 2 | 99574 | [99574-fairytale-mosaics-beauty-and-the-beast-2.json](./99574-fairytale-mosaics-beauty-and-the-beast-2.json) |
@@ -2059,6 +2061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill & Cross: Pirate Riddles 3 | 213014 | [213014-fill-and-cross-pirate-riddles-3.json](./213014-fill-and-cross-pirate-riddles-3.json) |
 | Fill and Cross: Magic Journey | 159654 | [159654-fill-and-cross-magic-journey.json](./159654-fill-and-cross-magic-journey.json) |
 | Fill and Cross: Trick or Treat | 163987 | [163987-fill-and-cross-trick-or-treat.json](./163987-fill-and-cross-trick-or-treat.json) |
+| Fill and Cross: Trick or Treat 3! | 94877 | [94877-fill-and-cross-trick-or-treat-3.json](./94877-fill-and-cross-trick-or-treat-3.json) |
 | Fill and Cross. Pirate Riddles | 100348 | [100348-fill-and-cross-pirate-riddles.json](./100348-fill-and-cross-pirate-riddles.json) |
 | Fill in the Holes | 205027 | [205027-fill-in-the-holes.json](./205027-fill-in-the-holes.json) |
 | Fill Missing Letters | 187977 | [187977-fill-missing-letters.json](./187977-fill-missing-letters.json) |
@@ -5707,6 +5710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funeral Song for the Elemental Lords | 313260 | [313260-funeral-song-for-the-elemental-lords.json](./313260-funeral-song-for-the-elemental-lords.json) |
 | Funeral Toll | 272837 | [272837-funeral-toll.json](./272837-funeral-toll.json) |
 | Funfair Billionaire | 334493 | [334493-funfair-billionaire.json](./334493-funfair-billionaire.json) |
+| Funfair Party | 94861 | [94861-funfair-party.json](./94861-funfair-party.json) |
 | Funfair Party Games | 85163 | [85163-funfair-party-games.json](./85163-funfair-party-games.json) |
 | Funfair Ride Simulator 3: Ride Pack 2 | 162273 | [162273-funfair-ride-simulator-3-ride-pack-2.json](./162273-funfair-ride-simulator-3-ride-pack-2.json) |
 | Funfair Ride Simulator 3: Ride Pack 3 | 162272 | [162272-funfair-ride-simulator-3-ride-pack-3.json](./162272-funfair-ride-simulator-3-ride-pack-3.json) |
