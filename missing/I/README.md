@@ -2959,6 +2959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itoshi Kokoro | 330845 | [330845-itoshi-kokoro.json](./330845-itoshi-kokoro.json) |
 | Itouke no Urawaza DS | 79599 | [79599-itouke-no-urawaza-ds.json](./79599-itouke-no-urawaza-ds.json) |
 | iTownGamePlay UNIVERSE | 90652 | [90652-itowngameplay-universe.json](./90652-itowngameplay-universe.json) |
+| iTraffic Light | 88454 | [88454-itraffic-light.json](./88454-itraffic-light.json) |
 | Itrill | 260769 | [260769-itrill.json](./260769-itrill.json) |
 | Itro: In the Right Order | 59668 | [59668-itro-in-the-right-order.json](./59668-itro-in-the-right-order.json) |
 | ITRP: Aero Star | 236857 | [236857-itrp-aero-star.json](./236857-itrp-aero-star.json) |
