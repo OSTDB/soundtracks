@@ -2000,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insomnia: A Sleepless Journey | 294810 | [294810-insomnia-a-sleepless-journey.json](./294810-insomnia-a-sleepless-journey.json) |
 | Insomnia: Chapter One | 374258 | [374258-insomnia-chapter-one.json](./374258-insomnia-chapter-one.json) |
 | Insomnia: Theater in the Head | 216657 | [216657-insomnia-theater-in-the-head.json](./216657-insomnia-theater-in-the-head.json) |
+| Insomnis | 113861 | [113861-insomnis.json](./113861-insomnis.json) |
 | Insomnis: Enhanced Edition | 198395 | [198395-insomnis-enhanced-edition.json](./198395-insomnis-enhanced-edition.json) |
 | Inspace 2980 | 109645 | [109645-inspace-2980.json](./109645-inspace-2980.json) |
 | Inspector Douglas's Diary | 316634 | [316634-inspector-douglass-diary.json](./316634-inspector-douglass-diary.json) |
