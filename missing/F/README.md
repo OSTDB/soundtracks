@@ -1382,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Gaming | 417494 | [417494-fatal-gaming.json](./417494-fatal-gaming.json) |
 | Fatal Gem VR | 30863 | [30863-fatal-gem-vr.json](./30863-fatal-gem-vr.json) |
 | Fatal Heritage | 75150 | [75150-fatal-heritage.json](./75150-fatal-heritage.json) |
+| Fatal Inertia EX | 80458 | [80458-fatal-inertia-ex.json](./80458-fatal-inertia-ex.json) |
 | Fatal Labyrinth | 4496 | [4496-fatal-labyrinth.json](./4496-fatal-labyrinth.json) |
 | Fatal Seduction | 63871 | [63871-fatal-seduction.json](./63871-fatal-seduction.json) |
 | Fatal Slash | 390785 | [390785-fatal-slash.json](./390785-fatal-slash.json) |
@@ -2120,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Duel 2: Deathmatch arena | 73775 | [73775-final-duel-2-deathmatch-arena.json](./73775-final-duel-2-deathmatch-arena.json) |
 | Final Dusk | 36046 | [36046-final-dusk.json](./36046-final-dusk.json) |
 | Final Echo | 348802 | [348802-final-echo.json](./348802-final-echo.json) |
+| Final Exam | 80480 | [80480-final-exam.json](./80480-final-exam.json) |
 | Final Factory | 236524 | [236524-final-factory.json](./236524-final-factory.json) |
 | Final Failure | 93629 | [93629-final-failure.json](./93629-final-failure.json) |
 | Final Fall | 341702 | [341702-final-fall.json](./341702-final-fall.json) |
@@ -4150,6 +4152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forces of Ether | 312137 | [312137-forces-of-ether.json](./312137-forces-of-ether.json) |
 | Ford Bold Moves Street Racing | 43384 | [43384-ford-bold-moves-street-racing.json](./43384-ford-bold-moves-street-racing.json) |
 | Ford Mustang: The Legend Lives | 43306 | [43306-ford-mustang-the-legend-lives.json](./43306-ford-mustang-the-legend-lives.json) |
+| Ford Simulator III | 80646 | [80646-ford-simulator-iii.json](./80646-ford-simulator-iii.json) |
 | Ford vs. Chevy | 5838 | [5838-ford-vs-chevy.json](./5838-ford-vs-chevy.json) |
 | Forebears | 211934 | [211934-forebears.json](./211934-forebears.json) |
 | Forecast Death | 382758 | [382758-forecast-death.json](./382758-forecast-death.json) |
@@ -5946,6 +5949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi no Daibouken: Cirno Kenzan! | 142878 | [142878-fushigi-no-daibouken-cirno-kenzan.json](./142878-fushigi-no-daibouken-cirno-kenzan.json) |
 | Fushigi no Daibouken: Cirno Kenzan! 2 | 142894 | [142894-fushigi-no-daibouken-cirno-kenzan-2.json](./142894-fushigi-no-daibouken-cirno-kenzan-2.json) |
 | Fushigi no Dungeon 2: Fuurai no Shiren | 103496 | [103496-fushigi-no-dungeon-2-fuurai-no-shiren.json](./103496-fushigi-no-dungeon-2-fuurai-no-shiren.json) |
+| Fushigi no Dungeon: Fuurai no Shiren 3 Portable | 80618 | [80618-fushigi-no-dungeon-fuurai-no-shiren-3-portable.json](./80618-fushigi-no-dungeon-fuurai-no-shiren-3-portable.json) |
 | Fushigi no Dungeon: Fuurai no Shiren 4 Plus - Kami no Hitomi to Akuma no Heso | 103507 | [103507-fushigi-no-dungeon-fuurai-no-shiren-4-plus-kami-no-hitomi-to-akuma-no-heso.json](./103507-fushigi-no-dungeon-fuurai-no-shiren-4-plus-kami-no-hitomi-to-akuma-no-heso.json) |
 | Fushigi no Dungeon: Fuurai no Shiren DS2 - Sabaku no Majou | 103508 | [103508-fushigi-no-dungeon-fuurai-no-shiren-ds2-sabaku-no-majou.json](./103508-fushigi-no-dungeon-fuurai-no-shiren-ds2-sabaku-no-majou.json) |
 | Fushigi no Dungeon: Fuurai no Shiren Gaiden - Onna Kenshi Asuka Kenzan! | 80485 | [80485-fushigi-no-dungeon-fuurai-no-shiren-gaiden-onna-kenshi-asuka-kenzan.json](./80485-fushigi-no-dungeon-fuurai-no-shiren-gaiden-onna-kenshi-asuka-kenzan.json) |
