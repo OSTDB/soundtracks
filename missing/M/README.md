@@ -5449,6 +5449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Wheels | 83591 | [83591-mini-wheels.json](./83591-mini-wheels.json) |
 | Mini Words | 125710 | [125710-mini-words.json](./125710-mini-words.json) |
 | Mini Z Racers Turbo | 31902 | [31902-mini-z-racers-turbo.json](./31902-mini-z-racers-turbo.json) |
+| Mini Zag | 84341 | [84341-mini-zag.json](./84341-mini-zag.json) |
 | Mini-Game Greatest Hits | 230390 | [230390-mini-game-greatest-hits.json](./230390-mini-game-greatest-hits.json) |
 | Mini-Level Megawad | 269654 | [269654-mini-level-megawad.json](./269654-mini-level-megawad.json) |
 | Mini-Market Simulator VR | 309377 | [309377-mini-market-simulator-vr.json](./309377-mini-market-simulator-vr.json) |
@@ -6557,6 +6558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly Sudoku | 292005 | [292005-monopoly-sudoku.json](./292005-monopoly-sudoku.json) |
 | Monopoly Tycoon | 197249 | [197249-monopoly-tycoon.json](./197249-monopoly-tycoon.json) |
 | Monopoly: Build A Lot | 210123 | [210123-monopoly-build-a-lot.json](./210123-monopoly-build-a-lot.json) |
+| Monopoly: Here & Now Worldwide Edition | 84305 | [84305-monopoly-here-and-now-worldwide-edition.json](./84305-monopoly-here-and-now-worldwide-edition.json) |
 | Monopong | 232374 | [232374-monopong.json](./232374-monopong.json) |
 | Monoquous 2 | 326212 | [326212-monoquous-2.json](./326212-monoquous-2.json) |
 | Monorail Stories | 137051 | [137051-monorail-stories.json](./137051-monorail-stories.json) |
@@ -6992,6 +6994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Eater | 59659 | [59659-moon-eater.json](./59659-moon-eater.json) |
 | Moon Fall | 122381 | [122381-moon-fall.json](./122381-moon-fall.json) |
 | Moon Farming | 161352 | [161352-moon-farming.json](./161352-moon-farming.json) |
+| Moon Flight | 84340 | [84340-moon-flight.json](./84340-moon-flight.json) |
 | Moon Ghost | 310525 | [310525-moon-ghost.json](./310525-moon-ghost.json) |
 | Moon Intern | 63547 | [63547-moon-intern.json](./63547-moon-intern.json) |
 | Moon is Not the Limit | 243674 | [243674-moon-is-not-the-limit.json](./243674-moon-is-not-the-limit.json) |
@@ -8550,6 +8553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dream is to Be a Model, Not a Maid! | 212806 | [212806-my-dream-is-to-be-a-model-not-a-maid.json](./212806-my-dream-is-to-be-a-model-not-a-maid.json) |
 | My Dream Job: Babysitter | 206768 | [206768-my-dream-job-babysitter.json](./206768-my-dream-job-babysitter.json) |
 | My Dream Job: How I Survived Job Hunting in Animation | 178684 | [178684-my-dream-job-how-i-survived-job-hunting-in-animation.json](./178684-my-dream-job-how-i-survived-job-hunting-in-animation.json) |
+| My Dress-Up | 84331 | [84331-my-dress-up.json](./84331-my-dress-up.json) |
 | My Earth | 258489 | [258489-my-earth.json](./258489-my-earth.json) |
 | My Eerie Lair | 373749 | [373749-my-eerie-lair.json](./373749-my-eerie-lair.json) |
 | My Eggduck | 403183 | [403183-my-eggduck.json](./403183-my-eggduck.json) |
