@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zippy Froger | 246376 | [246376-zippy-froger.json](./246376-zippy-froger.json) |
 | Zippy Race | 322775 | [322775-zippy-race.json](./322775-zippy-race.json) |
 | Zippy Zombi | 73813 | [73813-zippy-zombi.json](./73813-zippy-zombi.json) |
+| Ziria | 106091 | [106091-ziria.json](./106091-ziria.json) |
 | Zissi's Island | 31644 | [31644-zissis-island.json](./31644-zissis-island.json) |
 | ZJ the Ball Challenge: Level 1C | 214512 | [214512-zj-the-ball-challenge-level-1c.json](./214512-zj-the-ball-challenge-level-1c.json) |
 | ZJ the Ball Challenge: Level 2C | 214511 | [214511-zj-the-ball-challenge-level-2c.json](./214511-zj-the-ball-challenge-level-2c.json) |
@@ -853,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zomborg | 75006 | [75006-zomborg.json](./75006-zomborg.json) |
 | Zombotron | 77488 | [77488-zombotron.json](./77488-zombotron.json) |
 | Zombotron Re-Boot | 275690 | [275690-zombotron-re-boot.json](./275690-zombotron-re-boot.json) |
+| Zombow | 106131 | [106131-zombow.json](./106131-zombow.json) |
 | Zombreak: The Last Escape | 250970 | [250970-zombreak-the-last-escape.json](./250970-zombreak-the-last-escape.json) |
 | Zombs.io | 76570 | [76570-zombs-io.json](./76570-zombs-io.json) |
 | Zombusters | 50804 | [50804-zombusters.json](./50804-zombusters.json) |
