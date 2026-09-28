@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Museum+ | 182246 | [182246-pac-man-museum.json](./182246-pac-man-museum.json) |
 | Pac-Man S | 64683 | [64683-pac-man-s.json](./64683-pac-man-s.json) |
 | Pac-Man Social | 64682 | [64682-pac-man-social.json](./64682-pac-man-social.json) |
+| Pac-Man VR | 65001 | [65001-pac-man-vr.json](./65001-pac-man-vr.json) |
 | Pac-Man World | 6530 | [6530-pac-man-world.json](./6530-pac-man-world.json) |
 | Pac-Man World | 84190 | [84190-pac-man-world.json](./84190-pac-man-world.json) |
 | Pac-Man World 2 | 134428 | [134428-pac-man-world-2.json](./134428-pac-man-world-2.json) |
@@ -4501,6 +4502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket no Naka no Doraemon | 37357 | [37357-pocket-no-naka-no-doraemon.json](./37357-pocket-no-naka-no-doraemon.json) |
 | Pocket of Horror | 344566 | [344566-pocket-of-horror.json](./344566-pocket-of-horror.json) |
 | Pocket Pioneers | 152388 | [152388-pocket-pioneers.json](./152388-pocket-pioneers.json) |
+| Pocket Planes | 65017 | [65017-pocket-planes.json](./65017-pocket-planes.json) |
 | Pocket Plants | 149595 | [149595-pocket-plants.json](./149595-pocket-plants.json) |
 | Pocket Plants | 265949 | [265949-pocket-plants.json](./265949-pocket-plants.json) |
 | Pocket Player: Bubble Bobble | 245544 | [245544-pocket-player-bubble-bobble.json](./245544-pocket-player-bubble-bobble.json) |
@@ -6465,6 +6467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Mahjong Kiwame | 138094 | [138094-pro-mahjong-kiwame.json](./138094-pro-mahjong-kiwame.json) |
 | Pro Mahjong Kiwame 64 | 97880 | [97880-pro-mahjong-kiwame-64.json](./97880-pro-mahjong-kiwame-64.json) |
 | Pro Mahjong Kiwame D | 97874 | [97874-pro-mahjong-kiwame-d.json](./97874-pro-mahjong-kiwame-d.json) |
+| Pro Mahjong Kiwame GB | 65033 | [65033-pro-mahjong-kiwame-gb.json](./65033-pro-mahjong-kiwame-gb.json) |
 | Pro Mahjong Kiwame GB II | 97878 | [97878-pro-mahjong-kiwame-gb-ii.json](./97878-pro-mahjong-kiwame-gb-ii.json) |
 | Pro Mahjong Kiwame Plus | 97879 | [97879-pro-mahjong-kiwame-plus.json](./97879-pro-mahjong-kiwame-plus.json) |
 | Pro Mahjong Kiwame Plus II | 97877 | [97877-pro-mahjong-kiwame-plus-ii.json](./97877-pro-mahjong-kiwame-plus-ii.json) |
