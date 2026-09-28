@@ -1436,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Shikigami 2 | 4149 | [4149-castle-shikigami-2.json](./4149-castle-shikigami-2.json) |
 | Castle Solitaire | 370338 | [370338-castle-solitaire.json](./370338-castle-solitaire.json) |
 | Castle Story | 3238 | [3238-castle-story.json](./3238-castle-story.json) |
+| Castle Story | 79809 | [79809-castle-story.json](./79809-castle-story.json) |
 | Castle survival | 158047 | [158047-castle-survival.json](./158047-castle-survival.json) |
 | Castle Terroretra | 217868 | [217868-castle-terroretra.json](./217868-castle-terroretra.json) |
 | Castle Terroretra In Space | 217870 | [217870-castle-terroretra-in-space.json](./217870-castle-terroretra-in-space.json) |
@@ -2174,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centipede & Battlezone | 64399 | [64399-centipede-and-battlezone.json](./64399-centipede-and-battlezone.json) |
 | Centipede & Millipede | 74408 | [74408-centipede-and-millipede.json](./74408-centipede-and-millipede.json) |
 | Centipede X | 356282 | [356282-centipede-x.json](./356282-centipede-x.json) |
+| Centipede/Breakout/Warlords | 79816 | [79816-centipede-breakout-warlords.json](./79816-centipede-breakout-warlords.json) |
 | Centipulp | 230787 | [230787-centipulp.json](./230787-centipulp.json) |
 | Cento | 281985 | [281985-cento.json](./281985-cento.json) |
 | Central De Fantasmas: Los Huéspedes De Mortimer | 260102 | [260102-central-de-fantasmas-los-huespedes-de-mortimer.json](./260102-central-de-fantasmas-los-huespedes-de-mortimer.json) |
@@ -5374,6 +5376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command Ops 2: Westwall Vol. 7 | 170399 | [170399-command-ops-2-westwall-vol-7.json](./170399-command-ops-2-westwall-vol-7.json) |
 | Command Ops: Battles for Greece | 74324 | [74324-command-ops-battles-for-greece.json](./74324-command-ops-battles-for-greece.json) |
 | Command-Ω Omega | 357814 | [357814-command-omega.json](./357814-command-omega.json) |
+| Command: Modern Air / Naval Operations | 79974 | [79974-command-modern-air-naval-operations.json](./79974-command-modern-air-naval-operations.json) |
 | Command: Modern Air / Naval Operations WOTY | 36237 | [36237-command-modern-air-naval-operations-woty.json](./36237-command-modern-air-naval-operations-woty.json) |
 | Command: Modern Operations - Chains of War | 167870 | [167870-command-modern-operations-chains-of-war.json](./167870-command-modern-operations-chains-of-war.json) |
 | Command: Modern Operations - Shifting Sands | 167866 | [167866-command-modern-operations-shifting-sands.json](./167866-command-modern-operations-shifting-sands.json) |
@@ -7318,6 +7321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Connect Origin | 238521 | [238521-crimson-connect-origin.json](./238521-crimson-connect-origin.json) |
 | Crimson Defense | 95226 | [95226-crimson-defense.json](./95226-crimson-defense.json) |
 | Crimson Desert: Charting the Unknown | 416102 | [416102-crimson-desert-charting-the-unknown.json](./416102-crimson-desert-charting-the-unknown.json) |
+| Crimson Dragon Side Story | 79815 | [79815-crimson-dragon-side-story.json](./79815-crimson-dragon-side-story.json) |
 | Crimson Faith | 376477 | [376477-crimson-faith.json](./376477-crimson-faith.json) |
 | Crimson Frontier | 335864 | [335864-crimson-frontier.json](./335864-crimson-frontier.json) |
 | Crimson Furnace | 381626 | [381626-crimson-furnace.json](./381626-crimson-furnace.json) |
