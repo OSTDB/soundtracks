@@ -1851,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellfire Attack | 71587 | [71587-hellfire-attack.json](./71587-hellfire-attack.json) |
 | Hellfire Poncho | 283754 | [283754-hellfire-poncho.json](./283754-hellfire-poncho.json) |
 | Hellfire Saga | 234906 | [234906-hellfire-saga.json](./234906-hellfire-saga.json) |
+| Hellfire Zone | 68755 | [68755-hellfire-zone.json](./68755-hellfire-zone.json) |
 | HellFire: The Summoning | 27690 | [27690-hellfire-the-summoning.json](./27690-hellfire-the-summoning.json) |
 | HellFurnace | 237951 | [237951-hellfurnace.json](./237951-hellfurnace.json) |
 | Hellgate | 125403 | [125403-hellgate.json](./125403-hellgate.json) |
