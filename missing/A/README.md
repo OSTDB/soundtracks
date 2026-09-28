@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abducting Mjolnir | 180759 | [180759-abducting-mjolnir.json](./180759-abducting-mjolnir.json) |
 | Abduction Episode 1: Her Name Was Sarah | 32170 | [32170-abduction-episode-1-her-name-was-sarah.json](./32170-abduction-episode-1-her-name-was-sarah.json) |
 | Abduction Escape | 337117 | [337117-abduction-escape.json](./337117-abduction-escape.json) |
+| Abduction Prologue: The Story Of Jonathan Blake | 82096 | [82096-abduction-prologue-the-story-of-jonathan-blake.json](./82096-abduction-prologue-the-story-of-jonathan-blake.json) |
 | Abe VR | 33117 | [33117-abe-vr.json](./33117-abe-vr.json) |
 | Abenteuer Landtag 2 | 135093 | [135093-abenteuer-landtag-2.json](./135093-abenteuer-landtag-2.json) |
 | Abermore | 191621 | [191621-abermore.json](./191621-abermore.json) |
@@ -1023,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Activision | 220071 | [220071-activision.json](./220071-activision.json) |
 | Activision Anthology | 301430 | [301430-activision-anthology.json](./301430-activision-anthology.json) |
 | Activision Anthology: Remix Edition | 45979 | [45979-activision-anthology-remix-edition.json](./45979-activision-anthology-remix-edition.json) |
+| Activision's Commodore 64 15 Pack | 82061 | [82061-activisions-commodore-64-15-pack.json](./82061-activisions-commodore-64-15-pack.json) |
 | Actor Tycoon 2 | 142235 | [142235-actor-tycoon-2.json](./142235-actor-tycoon-2.json) |
 | Actorle | 320912 | [320912-actorle.json](./320912-actorle.json) |
 | ActRaiser | 6468 | [6468-actraiser.json](./6468-actraiser.json) |
@@ -2430,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Breed 3D 2: The Killing Grounds | 14240 | [14240-alien-breed-3d-2-the-killing-grounds.json](./14240-alien-breed-3d-2-the-killing-grounds.json) |
 | Alien Breed II: The Horror Continues | 14241 | [14241-alien-breed-ii-the-horror-continues.json](./14241-alien-breed-ii-the-horror-continues.json) |
 | Alien Breed Special Edition / Qwak | 82505 | [82505-alien-breed-special-edition-qwak.json](./82505-alien-breed-special-edition-qwak.json) |
+| Alien Bubble Destroyer | 81998 | [81998-alien-bubble-destroyer.json](./81998-alien-bubble-destroyer.json) |
 | Alien Cabal | 62149 | [62149-alien-cabal.json](./62149-alien-cabal.json) |
 | Alien Cartographer | 374594 | [374594-alien-cartographer.json](./374594-alien-cartographer.json) |
 | Alien Caseno | 26571 | [26571-alien-caseno.json](./26571-alien-caseno.json) |
@@ -3898,6 +3901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Sanctuary | 203882 | [203882-animal-sanctuary.json](./203882-animal-sanctuary.json) |
 | Animal School 1st Grade Games | 241356 | [241356-animal-school-1st-grade-games.json](./241356-animal-school-1st-grade-games.json) |
 | Animal School Simulator | 297646 | [297646-animal-school-simulator.json](./297646-animal-school-simulator.json) |
+| Animal Seasons | 82179 | [82179-animal-seasons.json](./82179-animal-seasons.json) |
 | Animal Shelter Simulator | 130134 | [130134-animal-shelter-simulator.json](./130134-animal-shelter-simulator.json) |
 | Animal Shelter Simulator: Horse Shelter DLC | 232523 | [232523-animal-shelter-simulator-horse-shelter-dlc.json](./232523-animal-shelter-simulator-horse-shelter-dlc.json) |
 | Animal Shelter Simulator: Puppies & Kittens | 209661 | [209661-animal-shelter-simulator-puppies-and-kittens.json](./209661-animal-shelter-simulator-puppies-and-kittens.json) |
@@ -5766,6 +5770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Style: Precipice | 69261 | [69261-art-style-precipice.json](./69261-art-style-precipice.json) |
 | Art Style: Zengage | 69293 | [69293-art-style-zengage.json](./69293-art-style-zengage.json) |
 | Art Together | 347165 | [347165-art-together.json](./347165-art-together.json) |
+| Art World | 82186 | [82186-art-world.json](./82186-art-world.json) |
 | Art-O-Ween: Night at the Gallery | 236811 | [236811-art-o-ween-night-at-the-gallery.json](./236811-art-o-ween-night-at-the-gallery.json) |
 | Art-Therapy: Jigsaw Puzzle | 357873 | [357873-art-therapy-jigsaw-puzzle.json](./357873-art-therapy-jigsaw-puzzle.json) |
 | Art-Therapy: Portraits | 389119 | [389119-art-therapy-portraits.json](./389119-art-therapy-portraits.json) |
@@ -7067,6 +7072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AutoParts Simulator | 346163 | [346163-autoparts-simulator.json](./346163-autoparts-simulator.json) |
 | Autos | 197392 | [197392-autos.json](./197392-autos.json) |
 | AutoSim 2 | 235860 | [235860-autosim-2.json](./235860-autosim-2.json) |
+| Autumn Garden | 82181 | [82181-autumn-garden.json](./82181-autumn-garden.json) |
 | Autumn Hike | 257431 | [257431-autumn-hike.json](./257431-autumn-hike.json) |
 | Autumn Isle | 362352 | [362352-autumn-isle.json](./362352-autumn-isle.json) |
 | Autumn Leaves | 109731 | [109731-autumn-leaves.json](./109731-autumn-leaves.json) |
