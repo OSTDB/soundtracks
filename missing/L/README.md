@@ -3116,6 +3116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonewolf | 113977 | [113977-lonewolf.json](./113977-lonewolf.json) |
 | Long | 249755 | [249755-long.json](./249755-long.json) |
 | Long | 292006 | [292006-long.json](./292006-long.json) |
+| Long Arm of the Law | 111863 | [111863-long-arm-of-the-law.json](./111863-long-arm-of-the-law.json) |
 | Long Boy: Escape Game | 199907 | [199907-long-boy-escape-game.json](./199907-long-boy-escape-game.json) |
 | Long Count | 126622 | [126622-long-count.json](./126622-long-count.json) |
 | Long Dives | 413166 | [413166-long-dives.json](./413166-long-dives.json) |
