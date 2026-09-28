@@ -3044,6 +3044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of the World | 256901 | [256901-children-of-the-world.json](./256901-children-of-the-world.json) |
 | Children's Garden | 323505 | [323505-childrens-garden.json](./323505-childrens-garden.json) |
 | Children's Jigsaw Puzzles: Beautifully Illustrated - Expansion Pack | 225859 | [225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json](./225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json) |
+| Chilie Peppers | 82004 | [82004-chilie-peppers.json](./82004-chilie-peppers.json) |
 | Chill | 79608 | [79608-chill.json](./79608-chill.json) |
 | Chill Fishing | 337457 | [337457-chill-fishing.json](./337457-chill-fishing.json) |
 | Chill of Death's: Breath | 269280 | [269280-chill-of-deaths-breath.json](./269280-chill-of-deaths-breath.json) |
@@ -3391,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Night Archery | 77667 | [77667-christmas-night-archery.json](./77667-christmas-night-archery.json) |
 | Christmas Otome | 125412 | [125412-christmas-otome.json](./125412-christmas-otome.json) |
 | Christmas Patchwork Frozen | 286522 | [286522-christmas-patchwork-frozen.json](./286522-christmas-patchwork-frozen.json) |
+| Christmas Prayers | 82167 | [82167-christmas-prayers.json](./82167-christmas-prayers.json) |
 | Christmas Present | 285567 | [285567-christmas-present.json](./285567-christmas-present.json) |
 | Christmas Puzzle 3 | 76672 | [76672-christmas-puzzle-3.json](./76672-christmas-puzzle-3.json) |
 | Christmas Puzzle 4 | 279001 | [279001-christmas-puzzle-4.json](./279001-christmas-puzzle-4.json) |
@@ -4556,6 +4558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutch | 16049 | [16049-clutch.json](./16049-clutch.json) |
 | Clutch Hitter | 369246 | [369246-clutch-hitter.json](./369246-clutch-hitter.json) |
 | Clutter 18: Joe's Ultimate Challenge - Collector's Edition | 369562 | [369562-clutter-18-joes-ultimate-challenge-collectors-edition.json](./369562-clutter-18-joes-ultimate-challenge-collectors-edition.json) |
+| Clutter Craze | 82188 | [82188-clutter-craze.json](./82188-clutter-craze.json) |
 | Clutter III : Who Is The Void? | 318199 | [318199-clutter-iii-who-is-the-void.json](./318199-clutter-iii-who-is-the-void.json) |
 | Clutter Puzzle Magazine Vol. 15 No. 1: Collector's Edition | 281999 | [281999-clutter-puzzle-magazine-vol-15-no-1-collectors-edition.json](./281999-clutter-puzzle-magazine-vol-15-no-1-collectors-edition.json) |
 | Clutter Puzzle Magazine: Vol. 16 No. 2 - Collector's Edition | 298695 | [298695-clutter-puzzle-magazine-vol-16-no-2-collectors-edition.json](./298695-clutter-puzzle-magazine-vol-16-no-2-collectors-edition.json) |
@@ -6636,6 +6639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Night | 295784 | [295784-cozy-night.json](./295784-cozy-night.json) |
 | Cozy Night | 337709 | [337709-cozy-night.json](./337709-cozy-night.json) |
 | Cozy Offroad Simulator Together | 405571 | [405571-cozy-offroad-simulator-together.json](./405571-cozy-offroad-simulator-together.json) |
+| Cozy Places | 82176 | [82176-cozy-places.json](./82176-cozy-places.json) |
 | Cozy Room Decorator | 269688 | [269688-cozy-room-decorator.json](./269688-cozy-room-decorator.json) |
 | Cozy Sanctuary | 337692 | [337692-cozy-sanctuary.json](./337692-cozy-sanctuary.json) |
 | Cozy Solitaire | 339330 | [339330-cozy-solitaire.json](./339330-cozy-solitaire.json) |
