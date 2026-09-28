@@ -957,6 +957,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3rd World Farmer | 56460 | [56460-3rd-world-farmer.json](./56460-3rd-world-farmer.json) |
 | 3Souls | 26407 | [26407-3souls.json](./26407-3souls.json) |
 | 3SwitcheD | 9934 | [9934-3switched.json](./9934-3switched.json) |
+| 3T Games Compilation 1 | 60615 | [60615-3t-games-compilation-1.json](./60615-3t-games-compilation-1.json) |
+| 3T Games Compilation 2 | 60616 | [60616-3t-games-compilation-2.json](./60616-3t-games-compilation-2.json) |
+| 3T Games Compilation 3 | 60614 | [60614-3t-games-compilation-3.json](./60614-3t-games-compilation-3.json) |
+| 3T Games Compilation 4 | 60613 | [60613-3t-games-compilation-4.json](./60613-3t-games-compilation-4.json) |
 | 3x3 | 312887 | [312887-3x3.json](./312887-3x3.json) |
 | 3x3 Eyes: Seima Kourin-den | 15886 | [15886-3x3-eyes-seima-kourin-den.json](./15886-3x3-eyes-seima-kourin-den.json) |
 | 3x3 Eyes: Tenrin-ou Genmu | 73304 | [73304-3x3-eyes-tenrin-ou-genmu.json](./73304-3x3-eyes-tenrin-ou-genmu.json) |
