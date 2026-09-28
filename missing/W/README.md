@@ -2755,6 +2755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Within Whispers: The Fall | 61652 | [61652-within-whispers-the-fall.json](./61652-within-whispers-the-fall.json) |
 | Within: Hannah's Journey | 304011 | [304011-within-hannahs-journey.json](./304011-within-hannahs-journey.json) |
 | Without a Dawn | 333551 | [333551-without-a-dawn.json](./333551-without-a-dawn.json) |
+| Without A Roof (W.A.R.) | 108637 | [108637-without-a-roof-w-a-r.json](./108637-without-a-roof-w-a-r.json) |
 | Without Escape | 270394 | [270394-without-escape.json](./270394-without-escape.json) |
 | Without kidney | 215652 | [215652-without-kidney.json](./215652-without-kidney.json) |
 | Without My Arms | 141176 | [141176-without-my-arms.json](./141176-without-my-arms.json) |
@@ -3140,6 +3141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Across | 104481 | [104481-word-across.json](./104481-word-across.json) |
 | Word After Word | 134653 | [134653-word-after-word.json](./134653-word-after-word.json) |
 | Word Attack | 220720 | [220720-word-attack.json](./220720-word-attack.json) |
+| Word Avalanche | 108644 | [108644-word-avalanche.json](./108644-word-avalanche.json) |
 | Word Beach: Word Games for Fun | 87733 | [87733-word-beach-word-games-for-fun.json](./87733-word-beach-word-games-for-fun.json) |
 | Word Bird Supreme | 415954 | [415954-word-bird-supreme.json](./415954-word-bird-supreme.json) |
 | Word Blitz | 371332 | [371332-word-blitz.json](./371332-word-blitz.json) |
@@ -3805,6 +3807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath of Psychobos | 349944 | [349944-wrath-of-psychobos.json](./349944-wrath-of-psychobos.json) |
 | Wrath of the Arcane Realms | 387377 | [387377-wrath-of-the-arcane-realms.json](./387377-wrath-of-the-arcane-realms.json) |
 | Wrath of the Demon | 12832 | [12832-wrath-of-the-demon.json](./12832-wrath-of-the-demon.json) |
+| Wrath of the Goliaths: Dinosaurs | 108634 | [108634-wrath-of-the-goliaths-dinosaurs.json](./108634-wrath-of-the-goliaths-dinosaurs.json) |
 | Wrath: Aeon of Ruin VR - Brutal Edition | 313772 | [313772-wrath-aeon-of-ruin-vr-brutal-edition.json](./313772-wrath-aeon-of-ruin-vr-brutal-edition.json) |
 | WRC 10: Deluxe Edition | 169202 | [169202-wrc-10-deluxe-edition.json](./169202-wrc-10-deluxe-edition.json) |
 | WRC 2: FIA World Rally Championship | 9393 | [9393-wrc-2-fia-world-rally-championship.json](./9393-wrc-2-fia-world-rally-championship.json) |
