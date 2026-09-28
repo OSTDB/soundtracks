@@ -1093,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Heroes: Eternal Arena | 151200 | [151200-legend-of-heroes-eternal-arena.json](./151200-legend-of-heroes-eternal-arena.json) |
 | Legend of Heroes: Three Kingdoms | 333603 | [333603-legend-of-heroes-three-kingdoms.json](./333603-legend-of-heroes-three-kingdoms.json) |
 | Legend of Hiraq | 348450 | [348450-legend-of-hiraq.json](./348450-legend-of-hiraq.json) |
+| Legend of Junior | 112521 | [112521-legend-of-junior.json](./112521-legend-of-junior.json) |
 | Legend of Kay | 3219 | [3219-legend-of-kay.json](./3219-legend-of-kay.json) |
 | Legend of Keepers Collection | 222226 | [222226-legend-of-keepers-collection.json](./222226-legend-of-keepers-collection.json) |
 | Legend of Keepers: Feed the Troll | 188528 | [188528-legend-of-keepers-feed-the-troll.json](./188528-legend-of-keepers-feed-the-troll.json) |
@@ -3418,6 +3419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost City of Vampires | 113169 | [113169-lost-city-of-vampires.json](./113169-lost-city-of-vampires.json) |
 | Lost Civilization 2 | 262991 | [262991-lost-civilization-2.json](./262991-lost-civilization-2.json) |
 | Lost Colony | 250422 | [250422-lost-colony.json](./250422-lost-colony.json) |
+| Lost Colors | 112520 | [112520-lost-colors.json](./112520-lost-colors.json) |
 | Lost Continent | 191553 | [191553-lost-continent.json](./191553-lost-continent.json) |
 | Lost Cosmonaut | 33402 | [33402-lost-cosmonaut.json](./33402-lost-cosmonaut.json) |
 | Lost Crab​ | 417663 | [417663-lost-crab.json](./417663-lost-crab.json) |
