@@ -2543,12 +2543,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlotte | 95227 | [95227-charlotte.json](./95227-charlotte.json) |
 | Charlotte's Web | 248748 | [248748-charlottes-web.json](./248748-charlottes-web.json) |
 | Charlotte's Web | 248749 | [248749-charlottes-web.json](./248749-charlottes-web.json) |
+| Charlotte's Web: Wilbur and Friends | 71015 | [71015-charlottes-web-wilbur-and-friends.json](./71015-charlottes-web-wilbur-and-friends.json) |
 | Charm | 232657 | [232657-charm.json](./232657-charm.json) |
 | Charm & Clue 2 | 417505 | [417505-charm-and-clue-2.json](./417505-charm-and-clue-2.json) |
 | Charm & Clue: Collector's Edition | 417506 | [417506-charm-and-clue-collectors-edition.json](./417506-charm-and-clue-collectors-edition.json) |
 | Charm of War | 86013 | [86013-charm-of-war.json](./86013-charm-of-war.json) |
 | Charm Studies | 243409 | [243409-charm-studies.json](./243409-charm-studies.json) |
 | Charm Studies | 400215 | [400215-charm-studies.json](./400215-charm-studies.json) |
+| Charm Tale | 71052 | [71052-charm-tale.json](./71052-charm-tale.json) |
 | Charm Tale 2: Mermaid Lagoon | 111626 | [111626-charm-tale-2-mermaid-lagoon.json](./111626-charm-tale-2-mermaid-lagoon.json) |
 | Charmareians | 203932 | [203932-charmareians.json](./203932-charmareians.json) |
 | Charming Hearts | 302345 | [302345-charming-hearts.json](./302345-charming-hearts.json) |
@@ -3311,6 +3313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choro Q | 69796 | [69796-choro-q.json](./69796-choro-q.json) |
 | Choro Q 3 | 97364 | [97364-choro-q-3.json](./97364-choro-q-3.json) |
 | Choro Q HG 3 | 196257 | [196257-choro-q-hg-3.json](./196257-choro-q-hg-3.json) |
+| Choro Q Marine: Q-Boat | 71033 | [71033-choro-q-marine-q-boat.json](./71033-choro-q-marine-q-boat.json) |
 | Choro Q Works | 97363 | [97363-choro-q-works.json](./97363-choro-q-works.json) |
 | Chorus | 133305 | [133305-chorus.json](./133305-chorus.json) |
 | Chosen | 384064 | [384064-chosen.json](./384064-chosen.json) |
@@ -6611,6 +6614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid19: Toilet Paper Run | 285531 | [285531-covid19-toilet-paper-run.json](./285531-covid19-toilet-paper-run.json) |
 | Cow Catcher | 124594 | [124594-cow-catcher.json](./124594-cow-catcher.json) |
 | Cow Project 1986 | 401643 | [401643-cow-project-1986.json](./401643-cow-project-1986.json) |
+| Cow V: The Great Egg Quest | 71060 | [71060-cow-v-the-great-egg-quest.json](./71060-cow-v-the-great-egg-quest.json) |
 | Coward | 132664 | [132664-coward.json](./132664-coward.json) |
 | Cowardice | 199512 | [199512-cowardice.json](./199512-cowardice.json) |
 | Cowbots and Aliens | 31595 | [31595-cowbots-and-aliens.json](./31595-cowbots-and-aliens.json) |
@@ -7041,6 +7045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Dessert Maker | 98928 | [98928-crazy-dessert-maker.json](./98928-crazy-dessert-maker.json) |
 | Crazy Dreamz: Best Of | 90076 | [90076-crazy-dreamz-best-of.json](./90076-crazy-dreamz-best-of.json) |
 | Crazy Driller | 175259 | [175259-crazy-driller.json](./175259-crazy-driller.json) |
+| Crazy Economy Craft | 71047 | [71047-crazy-economy-craft.json](./71047-crazy-economy-craft.json) |
 | Crazy Eights | 70353 | [70353-crazy-eights.json](./70353-crazy-eights.json) |
 | Crazy Er-Bert | 354650 | [354650-crazy-er-bert.json](./354650-crazy-er-bert.json) |
 | Crazy Estate | 200042 | [200042-crazy-estate.json](./200042-crazy-estate.json) |
