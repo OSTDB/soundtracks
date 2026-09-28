@@ -2731,6 +2731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish | 314298 | [314298-fish.json](./314298-fish.json) |
 | Fish | 382202 | [382202-fish.json](./382202-fish.json) |
 | Fish 'n Ships | 349472 | [349472-fish-n-ships.json](./349472-fish-n-ships.json) |
+| Fish & Trip | 97492 | [97492-fish-and-trip.json](./97492-fish-and-trip.json) |
 | Fish and Groove | 151101 | [151101-fish-and-groove.json](./151101-fish-and-groove.json) |
 | Fish Bone | 226156 | [226156-fish-bone.json](./226156-fish-bone.json) |
 | Fish Catcher | 105374 | [105374-fish-catcher.json](./105374-fish-catcher.json) |
@@ -4638,6 +4639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Seasons - A fan-created Avatar Game | 143730 | [143730-four-seasons-a-fan-created-avatar-game.json](./143730-four-seasons-a-fan-created-avatar-game.json) |
 | Four Second Forever | 302121 | [302121-four-second-forever.json](./302121-four-second-forever.json) |
 | Four Second Frenzy | 196796 | [196796-four-second-frenzy.json](./196796-four-second-frenzy.json) |
+| Four Smash Hits from Hewson | 97465 | [97465-four-smash-hits-from-hewson.json](./97465-four-smash-hits-from-hewson.json) |
 | Four Trax | 46864 | [46864-four-trax.json](./46864-four-trax.json) |
 | Four Ways | 129702 | [129702-four-ways.json](./129702-four-ways.json) |
 | Four Ways: Block Puzzle | 131554 | [131554-four-ways-block-puzzle.json](./131554-four-ways-block-puzzle.json) |
