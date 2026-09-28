@@ -1172,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Unlimited Cruise SP2 | 79261 | [79261-one-piece-unlimited-cruise-sp2.json](./79261-one-piece-unlimited-cruise-sp2.json) |
 | One Piece: Unlimited World Red - Prestige Edition | 99804 | [99804-one-piece-unlimited-world-red-prestige-edition.json](./99804-one-piece-unlimited-world-red-prestige-edition.json) |
 | One Piece: World Seeker Episode Pass | 152911 | [152911-one-piece-world-seeker-episode-pass.json](./152911-one-piece-world-seeker-episode-pass.json) |
+| One Ping Only | 95610 | [95610-one-ping-only.json](./95610-one-ping-only.json) |
 | One Punch | 151657 | [151657-one-punch.json](./151657-one-punch.json) |
 | One Punch Man | 175711 | [175711-one-punch-man.json](./175711-one-punch-man.json) |
 | One Punch Man: A Hero Nobody Knows DLC Pack 1 - Suiryu | 134062 | [134062-one-punch-man-a-hero-nobody-knows-dlc-pack-1-suiryu.json](./134062-one-punch-man-a-hero-nobody-knows-dlc-pack-1-suiryu.json) |
