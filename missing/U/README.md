@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.S. Navy Fighters | 79890 | [79890-u-s-navy-fighters.json](./79890-u-s-navy-fighters.json) |
 | U.S.A. Football | 93576 | [93576-u-s-a-football.json](./93576-u-s-a-football.json) |
 | U.S.G. A New Beginning | 216332 | [216332-u-s-g-a-new-beginning.json](./216332-u-s-g-a-new-beginning.json) |
+| U.S.S. Stinger | 93177 | [93177-u-s-s-stinger.json](./93177-u-s-s-stinger.json) |
 | U.V.S. Nirmana | 400475 | [400475-u-v-s-nirmana.json](./400475-u-v-s-nirmana.json) |
 | U96 | 207513 | [207513-u96.json](./207513-u96.json) |
 | UAC Invasion: The Supply Depot | 256868 | [256868-uac-invasion-the-supply-depot.json](./256868-uac-invasion-the-supply-depot.json) |
@@ -409,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Vortek | 40822 | [40822-ultra-vortek.json](./40822-ultra-vortek.json) |
 | Ultra Vortex | 78986 | [78986-ultra-vortex.json](./78986-ultra-vortex.json) |
 | Ultra Zultra | 175199 | [175199-ultra-zultra.json](./175199-ultra-zultra.json) |
+| Ultra-Quiz | 93145 | [93145-ultra-quiz.json](./93145-ultra-quiz.json) |
 | Ultra0 | 391033 | [391033-ultra0.json](./391033-ultra0.json) |
 | Ultrabox | 267943 | [267943-ultrabox.json](./267943-ultrabox.json) |
 | Ultrabox No. 2 | 267942 | [267942-ultrabox-no-2.json](./267942-ultrabox-no-2.json) |
