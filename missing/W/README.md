@@ -3196,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Feud | 131583 | [131583-word-feud.json](./131583-word-feud.json) |
 | Word Finder - Word Connect | 96742 | [96742-word-finder-word-connect.json](./96742-word-finder-word-connect.json) |
 | Word Game | 161224 | [161224-word-game.json](./161224-word-game.json) |
+| Word Game | 88428 | [88428-word-game.json](./88428-word-game.json) |
 | Word Games - Order letters and create words | 96070 | [96070-word-games-order-letters-and-create-words.json](./96070-word-games-order-letters-and-create-words.json) |
 | Word Guru - Puzzle Word Game | 89233 | [89233-word-guru-puzzle-word-game.json](./89233-word-guru-puzzle-word-game.json) |
 | Word Jumblerama Blitz | 89575 | [89575-word-jumblerama-blitz.json](./89575-word-jumblerama-blitz.json) |
@@ -3215,6 +3216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Party | 85494 | [85494-word-party.json](./85494-word-party.json) |
 | Word Path - Word Puzzle Game | 105762 | [105762-word-path-word-puzzle-game.json](./105762-word-path-word-puzzle-game.json) |
 | Word Puttz | 361232 | [361232-word-puttz.json](./361232-word-puttz.json) |
+| Word Puzzle Quiz | 88436 | [88436-word-puzzle-quiz.json](./88436-word-puzzle-quiz.json) |
 | Word Quest Fantasy | 385067 | [385067-word-quest-fantasy.json](./385067-word-quest-fantasy.json) |
 | Word Quest Space | 378773 | [378773-word-quest-space.json](./378773-word-quest-space.json) |
 | Word Quest: Horror | 402932 | [402932-word-quest-horror.json](./402932-word-quest-horror.json) |
