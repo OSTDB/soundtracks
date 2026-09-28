@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Igo Time Trial: Shikatsu Daihyakka | 268504 | [268504-igo-time-trial-shikatsu-daihyakka.json](./268504-igo-time-trial-shikatsu-daihyakka.json) |
 | Igo-Shinan '91 | 92295 | [92295-igo-shinan-91.json](./92295-igo-shinan-91.json) |
 | Igo: Kyuu Roban Taikyoku | 41367 | [41367-igo-kyuu-roban-taikyoku.json](./41367-igo-kyuu-roban-taikyoku.json) |
+| Igor | 94894 | [94894-igor.json](./94894-igor.json) |
 | Igor: The Game | 21269 | [21269-igor-the-game.json](./21269-igor-the-game.json) |
 | iGP Manager | 59353 | [59353-igp-manager.json](./59353-igp-manager.json) |
 | IGPX: Immortal Grand Prix | 20563 | [20563-igpx-immortal-grand-prix.json](./20563-igpx-immortal-grand-prix.json) |
