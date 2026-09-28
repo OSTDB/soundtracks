@@ -1317,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Roulette Royal | 166682 | [166682-casino-roulette-royal.json](./166682-casino-roulette-royal.json) |
 | Casino Simulator | 295316 | [295316-casino-simulator.json](./295316-casino-simulator.json) |
 | Casino World | 303087 | [303087-casino-world.json](./303087-casino-world.json) |
+| Casino! | 68727 | [68727-casino.json](./68727-casino.json) |
 | Casinolife Poker | 139239 | [139239-casinolife-poker.json](./139239-casinolife-poker.json) |
 | Casinopia: The Blackjack | 71246 | [71246-casinopia-the-blackjack.json](./71246-casinopia-the-blackjack.json) |
 | CasinoRPG | 82057 | [82057-casinorpg.json](./82057-casinorpg.json) |
@@ -2372,6 +2373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Lode Runner | 6091 | [6091-championship-lode-runner.json](./6091-championship-lode-runner.json) |
 | Championship Manager '93 | 11306 | [11306-championship-manager-93.json](./11306-championship-manager-93.json) |
 | Championship Manager 2 | 37133 | [37133-championship-manager-2.json](./37133-championship-manager-2.json) |
+| Championship Manager 2: Scandinavian Leagues | 68737 | [68737-championship-manager-2-scandinavian-leagues.json](./68737-championship-manager-2-scandinavian-leagues.json) |
 | Championship Manager 2008 | 14840 | [14840-championship-manager-2008.json](./14840-championship-manager-2008.json) |
 | Championship Manager 2010 Express | 118918 | [118918-championship-manager-2010-express.json](./118918-championship-manager-2010-express.json) |
 | Championship Manager 3 | 93149 | [93149-championship-manager-3.json](./93149-championship-manager-3.json) |
@@ -7148,6 +7150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Taxi: World Tour | 279633 | [279633-crazy-taxi-world-tour.json](./279633-crazy-taxi-world-tour.json) |
 | Crazy Teacher of Math in School Education Learning | 303259 | [303259-crazy-teacher-of-math-in-school-education-learning.json](./303259-crazy-teacher-of-math-in-school-education-learning.json) |
 | Crazy the Hedgehog | 129182 | [129182-crazy-the-hedgehog.json](./129182-crazy-the-hedgehog.json) |
+| Crazy Toad | 68754 | [68754-crazy-toad.json](./68754-crazy-toad.json) |
 | Crazy Tracer | 13707 | [13707-crazy-tracer.json](./13707-crazy-tracer.json) |
 | Crazy Vacation | 310553 | [310553-crazy-vacation.json](./310553-crazy-vacation.json) |
 | Crazy Valet | 40719 | [40719-crazy-valet.json](./40719-crazy-valet.json) |
@@ -8249,6 +8252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culinary Cooking Master Simulator | 300860 | [300860-culinary-cooking-master-simulator.json](./300860-culinary-cooking-master-simulator.json) |
 | Culinary Survivors | 264676 | [264676-culinary-survivors.json](./264676-culinary-survivors.json) |
 | Culino | 174221 | [174221-culino.json](./174221-culino.json) |
+| Cult | 68774 | [68774-cult.json](./68774-cult.json) |
 | Cult 2112 | 119553 | [119553-cult-2112.json](./119553-cult-2112.json) |
 | Cult Adorable | 276779 | [276779-cult-adorable.json](./276779-cult-adorable.json) |
 | Cult Game | 362875 | [362875-cult-game.json](./362875-cult-game.json) |
@@ -8391,6 +8395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse That Magic Cat! | 142236 | [142236-curse-that-magic-cat.json](./142236-curse-that-magic-cat.json) |
 | Curse the Cursor | 369028 | [369028-curse-the-cursor.json](./369028-curse-the-cursor.json) |
 | Curse Words | 370775 | [370775-curse-words.json](./370775-curse-words.json) |
+| Curse You! Red Baron | 68738 | [68738-curse-you-red-baron.json](./68738-curse-you-red-baron.json) |
 | Curseball | 205648 | [205648-curseball.json](./205648-curseball.json) |
 | Cursebound | 380101 | [380101-cursebound.json](./380101-cursebound.json) |
 | Cursebreakers | 416810 | [416810-cursebreakers.json](./416810-cursebreakers.json) |
