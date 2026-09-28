@@ -715,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Alchemical Potion | 158555 | [158555-absolute-alchemical-potion.json](./158555-absolute-alchemical-potion.json) |
 | Absolute Backgammon | 100605 | [100605-absolute-backgammon.json](./100605-absolute-backgammon.json) |
 | Absolute Blue | 71466 | [71466-absolute-blue.json](./71466-absolute-blue.json) |
+| Absolute Chess | 74418 | [74418-absolute-chess.json](./74418-absolute-chess.json) |
 | Absolute Doppelkopf | 79215 | [79215-absolute-doppelkopf.json](./79215-absolute-doppelkopf.json) |
 | Absolute Duo | 92286 | [92286-absolute-duo.json](./92286-absolute-duo.json) |
 | Absolute Fall | 119004 | [119004-absolute-fall.json](./119004-absolute-fall.json) |
@@ -729,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolutely Perfect Specimen | 257098 | [257098-absolutely-perfect-specimen.json](./257098-absolutely-perfect-specimen.json) |
 | Absolution of the Dead | 345661 | [345661-absolution-of-the-dead.json](./345661-absolution-of-the-dead.json) |
 | Absolver: Deluxe Edition | 52555 | [52555-absolver-deluxe-edition.json](./52555-absolver-deluxe-edition.json) |
+| Absolver: Special Reserve edition | 74318 | [74318-absolver-special-reserve-edition.json](./74318-absolver-special-reserve-edition.json) |
 | Absorb | 219698 | [219698-absorb.json](./219698-absorb.json) |
 | Absorb Reality Collection | 52554 | [52554-absorb-reality-collection.json](./52554-absorb-reality-collection.json) |
 | Abstacked | 79911 | [79911-abstacked.json](./79911-abstacked.json) |
@@ -1345,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeon Tempus | 365283 | [365283-aeon-tempus.json](./365283-aeon-tempus.json) |
 | Aeon Wars Rogue | 223483 | [223483-aeon-wars-rogue.json](./223483-aeon-wars-rogue.json) |
 | Aeon's End: The Depths | 148507 | [148507-aeons-end-the-depths.json](./148507-aeons-end-the-depths.json) |
+| Aequitas Orbis | 75064 | [75064-aequitas-orbis.json](./75064-aequitas-orbis.json) |
 | Aera Flying Heroes | 337796 | [337796-aera-flying-heroes.json](./337796-aera-flying-heroes.json) |
 | Aerea | 27794 | [27794-aerea.json](./27794-aerea.json) |
 | Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
@@ -3164,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Studly Strikes | 235152 | [235152-amazing-studly-strikes.json](./235152-amazing-studly-strikes.json) |
 | Amazing Superhero Squad | 159862 | [159862-amazing-superhero-squad.json](./159862-amazing-superhero-squad.json) |
 | AMazing TD | 130181 | [130181-amazing-td.json](./130181-amazing-td.json) |
+| Amazing Tetris | 74306 | [74306-amazing-tetris.json](./74306-amazing-tetris.json) |
 | Amazing Thailand VR Experience | 48003 | [48003-amazing-thailand-vr-experience.json](./48003-amazing-thailand-vr-experience.json) |
 | Amazing Trip to Europe | 241300 | [241300-amazing-trip-to-europe.json](./241300-amazing-trip-to-europe.json) |
 | Amazing Vacation: Chicago | 337253 | [337253-amazing-vacation-chicago.json](./337253-amazing-vacation-chicago.json) |
@@ -6066,6 +6070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aska | 230569 | [230569-aska.json](./230569-aska.json) |
 | Aske | 165008 | [165008-aske.json](./165008-aske.json) |
 | Askisi Gamma | 271718 | [271718-askisi-gamma.json](./271718-askisi-gamma.json) |
+| Askutron Quiz Show | 74498 | [74498-askutron-quiz-show.json](./74498-askutron-quiz-show.json) |
 | Asleep | 201310 | [201310-asleep.json](./201310-asleep.json) |
 | Asleep in the Deep | 337102 | [337102-asleep-in-the-deep.json](./337102-asleep-in-the-deep.json) |
 | Asleep: Act 1 | 209702 | [209702-asleep-act-1.json](./209702-asleep-act-1.json) |
