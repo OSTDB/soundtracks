@@ -2307,6 +2307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Farm | 274486 | [274486-escape-the-farm.json](./274486-escape-the-farm.json) |
 | Escape the Floor | 329011 | [329011-escape-the-floor.json](./329011-escape-the-floor.json) |
 | Escape The Forest | 301828 | [301828-escape-the-forest.json](./301828-escape-the-forest.json) |
+| Escape the Grid VR | 102350 | [102350-escape-the-grid-vr.json](./102350-escape-the-grid-vr.json) |
 | Escape the Loop | 30183 | [30183-escape-the-loop.json](./30183-escape-the-loop.json) |
 | Escape the Mad Empire | 217233 | [217233-escape-the-mad-empire.json](./217233-escape-the-mad-empire.json) |
 | Escape the Marine Lab | 406693 | [406693-escape-the-marine-lab.json](./406693-escape-the-marine-lab.json) |
