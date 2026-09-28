@@ -749,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magiclean | 391321 | [391321-magiclean.json](./391321-magiclean.json) |
 | Magicliment | 261260 | [261260-magicliment.json](./261260-magicliment.json) |
 | Magicmaker | 8865 | [8865-magicmaker.json](./8865-magicmaker.json) |
+| Magicoal | 62260 | [62260-magicoal.json](./62260-magicoal.json) |
 | Magicolor TD | 280173 | [280173-magicolor-td.json](./280173-magicolor-td.json) |
 | MagiCraze | 151720 | [151720-magicraze.json](./151720-magicraze.json) |
 | MagicShop2 | 253903 | [253903-magicshop2.json](./253903-magicshop2.json) |
@@ -1235,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man of Steel | 63305 | [63305-man-of-steel.json](./63305-man-of-steel.json) |
 | Man of Sterling Quality | 192432 | [192432-man-of-sterling-quality.json](./192432-man-of-sterling-quality.json) |
 | Man of the World | 156074 | [156074-man-of-the-world.json](./156074-man-of-the-world.json) |
+| Man of War | 62287 | [62287-man-of-war.json](./62287-man-of-war.json) |
 | Man of War II: Chains of Command | 73835 | [73835-man-of-war-ii-chains-of-command.json](./73835-man-of-war-ii-chains-of-command.json) |
 | Man Sa Yarbah Al Malyoon | 301363 | [301363-man-sa-yarbah-al-malyoon.json](./301363-man-sa-yarbah-al-malyoon.json) |
 | Man vs Machine | 150062 | [150062-man-vs-machine.json](./150062-man-vs-machine.json) |
@@ -2861,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meat Veterans | 258561 | [258561-meat-veterans.json](./258561-meat-veterans.json) |
 | Meat Without Master | 349839 | [349839-meat-without-master.json](./349839-meat-without-master.json) |
 | Meatball | 156613 | [156613-meatball.json](./156613-meatball.json) |
+| Meatballphobia | 62286 | [62286-meatballphobia.json](./62286-meatballphobia.json) |
 | Meatballs Farm | 381281 | [381281-meatballs-farm.json](./381281-meatballs-farm.json) |
 | Meatdoll Dressup | 408924 | [408924-meatdoll-dressup.json](./408924-meatdoll-dressup.json) |
 | Meatgrinder | 285507 | [285507-meatgrinder.json](./285507-meatgrinder.json) |
@@ -4577,6 +4580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Action Pack | 86036 | [86036-microsoft-action-pack.json](./86036-microsoft-action-pack.json) |
 | Microsoft Arcade | 94214 | [94214-microsoft-arcade.json](./94214-microsoft-arcade.json) |
 | Microsoft Baseball 2001 | 74046 | [74046-microsoft-baseball-2001.json](./74046-microsoft-baseball-2001.json) |
+| Microsoft Baseball 3D 1998 Edition | 62275 | [62275-microsoft-baseball-3d-1998-edition.json](./62275-microsoft-baseball-3d-1998-edition.json) |
 | Microsoft Bingo | 62463 | [62463-microsoft-bingo.json](./62463-microsoft-bingo.json) |
 | Microsoft Blackboard | 209517 | [209517-microsoft-blackboard.json](./209517-microsoft-blackboard.json) |
 | Microsoft Casino | 96510 | [96510-microsoft-casino.json](./96510-microsoft-casino.json) |
@@ -4726,6 +4730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator: World Update 18 | 314484 | [314484-microsoft-flight-simulator-world-update-18.json](./314484-microsoft-flight-simulator-world-update-18.json) |
 | Microsoft Garden Pond | 209516 | [209516-microsoft-garden-pond.json](./209516-microsoft-garden-pond.json) |
 | Microsoft Golf 1998 Edition | 77008 | [77008-microsoft-golf-1998-edition.json](./77008-microsoft-golf-1998-edition.json) |
+| Microsoft Golf 1999 Edition | 62240 | [62240-microsoft-golf-1999-edition.json](./62240-microsoft-golf-1999-edition.json) |
 | Microsoft International Soccer 2000 | 72170 | [72170-microsoft-international-soccer-2000.json](./72170-microsoft-international-soccer-2000.json) |
 | Microsoft Pinball Arcade | 249159 | [249159-microsoft-pinball-arcade.json](./249159-microsoft-pinball-arcade.json) |
 | Microsoft Return of Arcade | 22620 | [22620-microsoft-return-of-arcade.json](./22620-microsoft-return-of-arcade.json) |
