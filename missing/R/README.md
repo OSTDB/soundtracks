@@ -1106,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayne the Rogue | 256768 | [256768-rayne-the-rogue.json](./256768-rayne-the-rogue.json) |
 | RaynGames | 355087 | [355087-rayngames.json](./355087-rayngames.json) |
 | RayStorm | 45089 | [45089-raystorm.json](./45089-raystorm.json) |
+| Rayxanber | 92647 | [92647-rayxanber.json](./92647-rayxanber.json) |
 | Rayze | 176902 | [176902-rayze.json](./176902-rayze.json) |
 | Raze 2070 | 151193 | [151193-raze-2070.json](./151193-raze-2070.json) |
 | Raze: Dungeon Arena | 52010 | [52010-raze-dungeon-arena.json](./52010-raze-dungeon-arena.json) |
@@ -4514,6 +4515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolan's Curse | 49023 | [49023-rolans-curse.json](./49023-rolans-curse.json) |
 | Rolan's Curse 2 | 49022 | [49022-rolans-curse-2.json](./49022-rolans-curse-2.json) |
 | Rolando | 23029 | [23029-rolando.json](./23029-rolando.json) |
+| Rolando 3 | 92640 | [92640-rolando-3.json](./92640-rolando-3.json) |
 | Rolando the Majestic | 201569 | [201569-rolando-the-majestic.json](./201569-rolando-the-majestic.json) |
 | Rolando: Deluxe Edition | 236539 | [236539-rolando-deluxe-edition.json](./236539-rolando-deluxe-edition.json) |
 | Rolando: Royal Edition | 116152 | [116152-rolando-royal-edition.json](./116152-rolando-royal-edition.json) |
