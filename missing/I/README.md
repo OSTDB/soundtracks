@@ -2764,6 +2764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of Rein | 207397 | [207397-isle-of-rein.json](./207397-isle-of-rein.json) |
 | Isle of Reveries | 311611 | [311611-isle-of-reveries.json](./311611-isle-of-reveries.json) |
 | Isle of Swaps | 237304 | [237304-isle-of-swaps.json](./237304-isle-of-swaps.json) |
+| Isle TD | 109195 | [109195-isle-td.json](./109195-isle-td.json) |
 | Isle Vacation | 401124 | [401124-isle-vacation.json](./401124-isle-vacation.json) |
 | Isles Above | 337082 | [337082-isles-above.json](./337082-isles-above.json) |
 | Isles of Etherion | 187874 | [187874-isles-of-etherion.json](./187874-isles-of-etherion.json) |
