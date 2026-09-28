@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rambling with my friend | 183367 | [183367-rambling-with-my-friend.json](./183367-rambling-with-my-friend.json) |
 | Ramblings | 204678 | [204678-ramblings.json](./204678-ramblings.json) |
 | Rambo | 48210 | [48210-rambo.json](./48210-rambo.json) |
+| Rambo | 94890 | [94890-rambo.json](./94890-rambo.json) |
 | Rambo: First Blood Part II | 12963 | [12963-rambo-first-blood-part-ii.json](./12963-rambo-first-blood-part-ii.json) |
 | Rambo: First Blood Part II | 39127 | [39127-rambo-first-blood-part-ii.json](./39127-rambo-first-blood-part-ii.json) |
 | Rambunny | 127009 | [127009-rambunny.json](./127009-rambunny.json) |
@@ -1437,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms VR | 164241 | [164241-realms-vr.json](./164241-realms-vr.json) |
 | Realmstone | 118980 | [118980-realmstone.json](./118980-realmstone.json) |
 | realMyst | 16198 | [16198-realmyst.json](./16198-realmyst.json) |
+| Realmz | 94900 | [94900-realmz.json](./94900-realmz.json) |
 | RealPlay Golf | 21365 | [21365-realplay-golf.json](./21365-realplay-golf.json) |
 | RealPlay Pool | 21366 | [21366-realplay-pool.json](./21366-realplay-pool.json) |
 | RealPlay Racing | 21368 | [21368-realplay-racing.json](./21368-realplay-racing.json) |
@@ -5369,6 +5371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Legends | 250438 | [250438-run-legends.json](./250438-run-legends.json) |
 | Run Like Hell! | 61642 | [61642-run-like-hell.json](./61642-run-like-hell.json) |
 | Run Like Hell! Treasure Bundle | 118155 | [118155-run-like-hell-treasure-bundle.json](./118155-run-like-hell-treasure-bundle.json) |
+| Run Mr. Bunny | 94879 | [94879-run-mr-bunny.json](./94879-run-mr-bunny.json) |
 | Run N' Gun | 195737 | [195737-run-n-gun.json](./195737-run-n-gun.json) |
 | Run Naked Woman Run | 112737 | [112737-run-naked-woman-run.json](./112737-run-naked-woman-run.json) |
 | Run Ninja Run | 190074 | [190074-run-ninja-run.json](./190074-run-ninja-run.json) |
