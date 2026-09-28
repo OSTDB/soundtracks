@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Adventures: Park Ranger 14 | 216854 | [216854-vacation-adventures-park-ranger-14.json](./216854-vacation-adventures-park-ranger-14.json) |
 | Vacation Adventures: Park Ranger 16 - Collectors Edition | 311108 | [311108-vacation-adventures-park-ranger-16-collectors-edition.json](./311108-vacation-adventures-park-ranger-16-collectors-edition.json) |
 | Vacation Adventures: Park Ranger 2 | 85465 | [85465-vacation-adventures-park-ranger-2.json](./85465-vacation-adventures-park-ranger-2.json) |
+| Vacation Adventures: Park Ranger 4 | 88460 | [88460-vacation-adventures-park-ranger-4.json](./88460-vacation-adventures-park-ranger-4.json) |
 | Vacation Adventures: Park Ranger 7 | 168682 | [168682-vacation-adventures-park-ranger-7.json](./168682-vacation-adventures-park-ranger-7.json) |
 | Vacation Isle Beach Party | 50601 | [50601-vacation-isle-beach-party.json](./50601-vacation-isle-beach-party.json) |
 | Vacation Paradise: Florida - Collector's Edition | 254785 | [254785-vacation-paradise-florida-collectors-edition.json](./254785-vacation-paradise-florida-collectors-edition.json) |
