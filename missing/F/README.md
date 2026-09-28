@@ -4406,6 +4406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Commander II: Counterattack | 118932 | [118932-fort-commander-ii-counterattack.json](./118932-fort-commander-ii-counterattack.json) |
 | Fort Commander: King's Gambit | 209563 | [209563-fort-commander-kings-gambit.json](./209563-fort-commander-kings-gambit.json) |
 | Fort Craft | 160226 | [160226-fort-craft.json](./160226-fort-craft.json) |
+| Fort Defense, Fort Defense North Menace & DayD Tower Rush | 99792 | [99792-fort-defense-fort-defense-north-menace-and-dayd-tower-rush.json](./99792-fort-defense-fort-defense-north-menace-and-dayd-tower-rush.json) |
 | Fort Driant | 271753 | [271753-fort-driant.json](./271753-fort-driant.json) |
 | Fort Flow | 207408 | [207408-fort-flow.json](./207408-fort-flow.json) |
 | Fort Loop | 183015 | [183015-fort-loop.json](./183015-fort-loop.json) |
