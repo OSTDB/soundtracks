@@ -1435,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFK Champions | 193866 | [193866-afk-champions.json](./193866-afk-champions.json) |
 | AFK Dungeon | 266256 | [266256-afk-dungeon.json](./266256-afk-dungeon.json) |
 | AFL Challenge | 68302 | [68302-afl-challenge.json](./68302-afl-challenge.json) |
+| AFL Premiership 2005 | 73847 | [73847-afl-premiership-2005.json](./73847-afl-premiership-2005.json) |
 | Afloat | 120829 | [120829-afloat.json](./120829-afloat.json) |
 | Afo | 78330 | [78330-afo.json](./78330-afo.json) |
 | Afraid of the Night | 148489 | [148489-afraid-of-the-night.json](./148489-afraid-of-the-night.json) |
@@ -3181,6 +3182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazon Odyssey | 75111 | [75111-amazon-odyssey.json](./75111-amazon-odyssey.json) |
 | Amazon Quest | 245785 | [245785-amazon-quest.json](./245785-amazon-quest.json) |
 | Amazon Rush | 89271 | [89271-amazon-rush.json](./89271-amazon-rush.json) |
+| Amazon Skulls | 73735 | [73735-amazon-skulls.json](./73735-amazon-skulls.json) |
 | Amazon Warrior | 342053 | [342053-amazon-warrior.json](./342053-amazon-warrior.json) |
 | Amazona Adventure | 279593 | [279593-amazona-adventure.json](./279593-amazona-adventure.json) |
 | Ambar's Fate | 173807 | [173807-ambars-fate.json](./173807-ambars-fate.json) |
@@ -3438,6 +3440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ampsball | 398443 | [398443-ampsball.json](./398443-ampsball.json) |
 | AMseven | 336390 | [336390-amseven.json](./336390-amseven.json) |
 | Amshay | 199383 | [199383-amshay.json](./199383-amshay.json) |
+| Amsterdam Taxi Madness | 73746 | [73746-amsterdam-taxi-madness.json](./73746-amsterdam-taxi-madness.json) |
 | Amstrad Eterno X | 376589 | [376589-amstrad-eterno-x.json](./376589-amstrad-eterno-x.json) |
 | Amstrad Shuffle Card Games | 60234 | [60234-amstrad-shuffle-card-games.json](./60234-amstrad-shuffle-card-games.json) |
 | Amulet | 291515 | [291515-amulet.json](./291515-amulet.json) |
@@ -4424,6 +4427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anura | 347364 | [347364-anura.json](./347364-anura.json) |
 | Anuto TD | 207846 | [207846-anuto-td.json](./207846-anuto-td.json) |
 | Anvil | 226234 | [226234-anvil.json](./226234-anvil.json) |
+| Anvil Awareness | 73875 | [73875-anvil-awareness.json](./73875-anvil-awareness.json) |
 | Anvil Empires | 243273 | [243273-anvil-empires.json](./243273-anvil-empires.json) |
 | Anvil Life | 212235 | [212235-anvil-life.json](./212235-anvil-life.json) |
 | Anvil Survivors | 396403 | [396403-anvil-survivors.json](./396403-anvil-survivors.json) |
@@ -6419,6 +6423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Shipwright | 193198 | [193198-astral-shipwright.json](./193198-astral-shipwright.json) |
 | Astral Stairways | 142993 | [142993-astral-stairways.json](./142993-astral-stairways.json) |
 | Astral Terra | 16882 | [16882-astral-terra.json](./16882-astral-terra.json) |
+| Astral Tournament | 73863 | [73863-astral-tournament.json](./73863-astral-tournament.json) |
 | Astral Traveler | 51973 | [51973-astral-traveler.json](./51973-astral-traveler.json) |
 | Astral Zone | 380451 | [380451-astral-zone.json](./380451-astral-zone.json) |
 | AstralAir no Shiroki Towa Finale: Shiroki Hoshi no Yume | 137105 | [137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json](./137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json) |
@@ -6756,6 +6761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantis III: The New World | 11095 | [11095-atlantis-iii-the-new-world.json](./11095-atlantis-iii-the-new-world.json) |
 | Atlantis no Puzzle | 230250 | [230250-atlantis-no-puzzle.json](./230250-atlantis-no-puzzle.json) |
 | Atlantis Odyssey | 320345 | [320345-atlantis-odyssey.json](./320345-atlantis-odyssey.json) |
+| Atlantis Quest | 73744 | [73744-atlantis-quest.json](./73744-atlantis-quest.json) |
 | Atlantis-6 | 147472 | [147472-atlantis-6.json](./147472-atlantis-6.json) |
 | Atlantis: The Last Resort | 45947 | [45947-atlantis-the-last-resort.json](./45947-atlantis-the-last-resort.json) |
 | Atlantis: The Lost Empire - The Lost Games | 132153 | [132153-atlantis-the-lost-empire-the-lost-games.json](./132153-atlantis-the-lost-empire-the-lost-games.json) |
