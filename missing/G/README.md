@@ -4806,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunstar Heroes: Treasure Box | 22745 | [22745-gunstar-heroes-treasure-box.json](./22745-gunstar-heroes-treasure-box.json) |
 | GunStar's Gambit | 340405 | [340405-gunstars-gambit.json](./340405-gunstars-gambit.json) |
 | Gunstars | 209467 | [209467-gunstars.json](./209467-gunstars.json) |
+| Gunstringer: Dead Man Running | 63918 | [63918-gunstringer-dead-man-running.json](./63918-gunstringer-dead-man-running.json) |
 | Gunswitch | 306373 | [306373-gunswitch.json](./306373-gunswitch.json) |
 | Guntastic | 113024 | [113024-guntastic.json](./113024-guntastic.json) |
 | Gunter Abstrauer | 322771 | [322771-gunter-abstrauer.json](./322771-gunter-abstrauer.json) |
