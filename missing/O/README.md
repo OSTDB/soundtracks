@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Tycoon 2 | 219261 | [219261-oil-tycoon-2.json](./219261-oil-tycoon-2.json) |
 | Oil Wars | 129069 | [129069-oil-wars.json](./129069-oil-wars.json) |
 | Oiled | 101361 | [101361-oiled.json](./101361-oiled.json) |
+| Oiligarchy | 101735 | [101735-oiligarchy.json](./101735-oiligarchy.json) |
 | Oily Tower | 386982 | [386982-oily-tower.json](./386982-oily-tower.json) |
 | Oink Royale | 185600 | [185600-oink-royale.json](./185600-oink-royale.json) |
 | Oir | 76219 | [76219-oir.json](./76219-oir.json) |
