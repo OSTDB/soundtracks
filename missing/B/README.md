@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backstage Pass | 234907 | [234907-backstage-pass.json](./234907-backstage-pass.json) |
 | Backstage: Murdered Sleep | 297777 | [297777-backstage-murdered-sleep.json](./297777-backstage-murdered-sleep.json) |
 | Backstory | 406102 | [406102-backstory.json](./406102-backstory.json) |
+| Backstreet Billiards | 94359 | [94359-backstreet-billiards.json](./94359-backstreet-billiards.json) |
 | Backward Poiesis | 297776 | [297776-backward-poiesis.json](./297776-backward-poiesis.json) |
 | Backwards | 179176 | [179176-backwards.json](./179176-backwards.json) |
 | Backwards Mario World | 215150 | [215150-backwards-mario-world.json](./215150-backwards-mario-world.json) |
@@ -3447,6 +3448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biosupremacy | 29793 | [29793-biosupremacy.json](./29793-biosupremacy.json) |
 | BioSwarm | 297472 | [297472-bioswarm.json](./297472-bioswarm.json) |
 | BioSynth: Rising | 336892 | [336892-biosynth-rising.json](./336892-biosynth-rising.json) |
+| Biosys | 94327 | [94327-biosys.json](./94327-biosys.json) |
 | Biota | 151161 | [151161-biota.json](./151161-biota.json) |
 | Biotech Samurai | 161385 | [161385-biotech-samurai.json](./161385-biotech-samurai.json) |
 | Biotomata | 381685 | [381685-biotomata.json](./381685-biotomata.json) |
@@ -5309,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Hardball | 45295 | [45295-bomberman-hardball.json](./45295-bomberman-hardball.json) |
 | Bomberman II: The Revenge | 134538 | [134538-bomberman-ii-the-revenge.json](./134538-bomberman-ii-the-revenge.json) |
 | Bomberman Kart | 43535 | [43535-bomberman-kart.json](./43535-bomberman-kart.json) |
+| Bomberman Kart DX | 94366 | [94366-bomberman-kart-dx.json](./94366-bomberman-kart-dx.json) |
 | Bomberman Land | 21613 | [21613-bomberman-land.json](./21613-bomberman-land.json) |
 | Bomberman Land | 77674 | [77674-bomberman-land.json](./77674-bomberman-land.json) |
 | Bomberman Land 3 | 64947 | [64947-bomberman-land-3.json](./64947-bomberman-land-3.json) |
