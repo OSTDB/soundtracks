@@ -3370,6 +3370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NumWorlds | 335846 | [335846-numworlds.json](./335846-numworlds.json) |
 | NumX | 341491 | [341491-numx.json](./341491-numx.json) |
 | Nun Attack | 38956 | [38956-nun-attack.json](./38956-nun-attack.json) |
+| Nun Attack Origins: Yuki's Silent Quest | 61139 | [61139-nun-attack-origins-yukis-silent-quest.json](./61139-nun-attack-origins-yukis-silent-quest.json) |
 | Nun Attack: Run & Gun | 38993 | [38993-nun-attack-run-and-gun.json](./38993-nun-attack-run-and-gun.json) |
 | Nun&Gun | 278386 | [278386-nun-and-gun.json](./278386-nun-and-gun.json) |
 | Nunchuck Charlie: A Love Story | 286611 | [286611-nunchuck-charlie-a-love-story.json](./286611-nunchuck-charlie-a-love-story.json) |
