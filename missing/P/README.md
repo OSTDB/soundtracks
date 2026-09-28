@@ -3295,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Burning Sea | 21283 | [21283-pirates-of-the-burning-sea.json](./21283-pirates-of-the-burning-sea.json) |
 | Pirates of the Caribbean: Dead Man's Chest | 194266 | [194266-pirates-of-the-caribbean-dead-mans-chest.json](./194266-pirates-of-the-caribbean-dead-mans-chest.json) |
 | Pirates of the Caribbean: Dead Man's Chest | 20542 | [20542-pirates-of-the-caribbean-dead-mans-chest.json](./20542-pirates-of-the-caribbean-dead-mans-chest.json) |
+| Pirates of the Caribbean: Tides of War | 97500 | [97500-pirates-of-the-caribbean-tides-of-war.json](./97500-pirates-of-the-caribbean-tides-of-war.json) |
 | Pirates on Target | 187536 | [187536-pirates-on-target.json](./187536-pirates-on-target.json) |
 | Pirates Outlaws 2: Heritage | 320892 | [320892-pirates-outlaws-2-heritage.json](./320892-pirates-outlaws-2-heritage.json) |
 | Pirates Overboard | 185533 | [185533-pirates-overboard.json](./185533-pirates-overboard.json) |
@@ -4968,6 +4969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polgar: Magic Detective | 191175 | [191175-polgar-magic-detective.json](./191175-polgar-magic-detective.json) |
 | Police & Gang | 385740 | [385740-police-and-gang.json](./385740-police-and-gang.json) |
 | Police 911 | 77016 | [77016-police-911.json](./77016-police-911.json) |
+| Police 911 2 | 97483 | [97483-police-911-2.json](./97483-police-911-2.json) |
 | Police Air Transporter | 104226 | [104226-police-air-transporter.json](./104226-police-air-transporter.json) |
 | Police Atv Offroad | 309872 | [309872-police-atv-offroad.json](./309872-police-atv-offroad.json) |
 | Police Blazel | 98018 | [98018-police-blazel.json](./98018-police-blazel.json) |
@@ -5332,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popcorn Fever | 308348 | [308348-popcorn-fever.json](./308348-popcorn-fever.json) |
 | Popcorn Popstars | 359519 | [359519-popcorn-popstars.json](./359519-popcorn-popstars.json) |
 | Popcorn! | 312727 | [312727-popcorn.json](./312727-popcorn.json) |
+| Popcorn! | 97472 | [97472-popcorn.json](./97472-popcorn.json) |
 | Pope Simulator | 133205 | [133205-pope-simulator.json](./133205-pope-simulator.json) |
 | Popeye | 232703 | [232703-popeye.json](./232703-popeye.json) |
 | Popeye | 266839 | [266839-popeye.json](./266839-popeye.json) |
@@ -6312,6 +6315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prizma Puzzle Classic | 378184 | [378184-prizma-puzzle-classic.json](./378184-prizma-puzzle-classic.json) |
 | Pro 123 My Little Funny Animals Connect the Dots | 102616 | [102616-pro-123-my-little-funny-animals-connect-the-dots.json](./102616-pro-123-my-little-funny-animals-connect-the-dots.json) |
 | Pro Baccarat | 351003 | [351003-pro-baccarat.json](./351003-pro-baccarat.json) |
+| Pro Backgammon | 97484 | [97484-pro-backgammon.json](./97484-pro-backgammon.json) |
 | Pro Balance | 178611 | [178611-pro-balance.json](./178611-pro-balance.json) |
 | Pro Basketball Manager 2019 | 111574 | [111574-pro-basketball-manager-2019.json](./111574-pro-basketball-manager-2019.json) |
 | Pro Basketball Manager 2022 | 182397 | [182397-pro-basketball-manager-2022.json](./182397-pro-basketball-manager-2022.json) |
