@@ -2528,6 +2528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overkill | 196561 | [196561-overkill.json](./196561-overkill.json) |
 | Overkill | 272013 | [272013-overkill.json](./272013-overkill.json) |
 | Overkill | 95402 | [95402-overkill.json](./95402-overkill.json) |
+| Overkill 3 | 69373 | [69373-overkill-3.json](./69373-overkill-3.json) |
 | Overkill VR | 25946 | [25946-overkill-vr.json](./25946-overkill-vr.json) |
 | Overkings | 218398 | [218398-overkings.json](./218398-overkings.json) |
 | Overknight Dungeon | 223980 | [223980-overknight-dungeon.json](./223980-overknight-dungeon.json) |
