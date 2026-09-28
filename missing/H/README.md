@@ -1455,6 +1455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartreasure 2: Underground | 175946 | [175946-heartreasure-2-underground.json](./175946-heartreasure-2-underground.json) |
 | Heartrender | 258725 | [258725-heartrender.json](./258725-heartrender.json) |
 | Hearts & Hexes | 191906 | [191906-hearts-and-hexes.json](./191906-hearts-and-hexes.json) |
+| Hearts by Dodofox | 100334 | [100334-hearts-by-dodofox.json](./100334-hearts-by-dodofox.json) |
 | Hearts by Webfoot | 108286 | [108286-hearts-by-webfoot.json](./108286-hearts-by-webfoot.json) |
 | Hearts Cards | 86724 | [86724-hearts-cards.json](./86724-hearts-cards.json) |
 | Hearts in Orbit: When Stars Align | 295860 | [295860-hearts-in-orbit-when-stars-align.json](./295860-hearts-in-orbit-when-stars-align.json) |
@@ -3880,6 +3881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Quest | 227242 | [227242-home-quest.json](./227242-home-quest.json) |
 | Home Renovate 'N Sale | 105789 | [105789-home-renovate-n-sale.json](./105789-home-renovate-n-sale.json) |
 | Home Rescue Clean And Restore Collector's Edition | 399642 | [399642-home-rescue-clean-and-restore-collectors-edition.json](./399642-home-rescue-clean-and-restore-collectors-edition.json) |
+| Home Run Derby VR | 100337 | [100337-home-run-derby-vr.json](./100337-home-run-derby-vr.json) |
 | Home Run High | 109008 | [109008-home-run-high.json](./109008-home-run-high.json) |
 | Home Run King | 242809 | [242809-home-run-king.json](./242809-home-run-king.json) |
 | Home Run Stars | 20236 | [20236-home-run-stars.json](./20236-home-run-stars.json) |
