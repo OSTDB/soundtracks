@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N.O.V.A. Legacy | 39004 | [39004-n-o-v-a-legacy.json](./39004-n-o-v-a-legacy.json) |
 | N.Y.Zombies 2 | 86907 | [86907-n-y-zombies-2.json](./86907-n-y-zombies-2.json) |
 | N+ | 8749 | [8749-n.json](./8749-n.json) |
+| N++: Ultimate Edition | 81203 | [81203-n-ultimate-edition.json](./81203-n-ultimate-edition.json) |
 | N+1: New Life For Unemployed Youth! | 290518 | [290518-n-1-new-life-for-unemployed-youth.json](./290518-n-1-new-life-for-unemployed-youth.json) |
 | N0-Exit | 31987 | [31987-n0-exit.json](./31987-n0-exit.json) |
 | N00b's Guide | 404956 | [404956-n00bs-guide.json](./404956-n00bs-guide.json) |
