@@ -1011,12 +1011,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ray | 298639 | [298639-ray.json](./298639-ray.json) |
 | Ray And Cooper | 310584 | [310584-ray-and-cooper.json](./310584-ray-and-cooper.json) |
 | Ray Attack | 148470 | [148470-ray-attack.json](./148470-ray-attack.json) |
+| Ray Blade | 98027 | [98027-ray-blade.json](./98027-ray-blade.json) |
+| Ray Breaker | 98047 | [98047-ray-breaker.json](./98047-ray-breaker.json) |
 | Ray Eager | 126593 | [126593-ray-eager.json](./126593-ray-eager.json) |
 | Ray Gigant | 11743 | [11743-ray-gigant.json](./11743-ray-gigant.json) |
 | Ray Mohawk 2: Ray Wreaks Havoc! | 259660 | [259660-ray-mohawk-2-ray-wreaks-havoc.json](./259660-ray-mohawk-2-ray-wreaks-havoc.json) |
 | Ray Mohawk's Manic Monday | 259659 | [259659-ray-mohawks-manic-monday.json](./259659-ray-mohawks-manic-monday.json) |
 | Ray of Light | 105384 | [105384-ray-of-light.json](./105384-ray-of-light.json) |
 | Ray Scramble | 97670 | [97670-ray-scramble.json](./97670-ray-scramble.json) |
+| Ray Shootiner | 98044 | [98044-ray-shootiner.json](./98044-ray-shootiner.json) |
 | Ray the Flying Squirrel in Sonic the Hedgehog | 198536 | [198536-ray-the-flying-squirrel-in-sonic-the-hedgehog.json](./198536-ray-the-flying-squirrel-in-sonic-the-hedgehog.json) |
 | Ray-Gun | 64969 | [64969-ray-gun.json](./64969-ray-gun.json) |
 | Ray-Hound | 78702 | [78702-ray-hound.json](./78702-ray-hound.json) |
@@ -3389,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ringling Bros. and Barnum & Bailey Circus | 67320 | [67320-ringling-bros-and-barnum-and-bailey-circus.json](./67320-ringling-bros-and-barnum-and-bailey-circus.json) |
 | Ringling Bros. and Barnum & Bailey: Circus Friends - Asian Elephants | 209163 | [209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json](./209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json) |
 | Ringlorn Saga Gaiden | 240753 | [240753-ringlorn-saga-gaiden.json](./240753-ringlorn-saga-gaiden.json) |
+| Ringo Sour | 98032 | [98032-ringo-sour.json](./98032-ringo-sour.json) |
 | Ringo's Roundup | 292278 | [292278-ringos-roundup.json](./292278-ringos-roundup.json) |
 | Ringognir 3 | 68336 | [68336-ringognir-3.json](./68336-ringognir-3.json) |
 | RingoWord | 241335 | [241335-ringoword.json](./241335-ringoword.json) |
