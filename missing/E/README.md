@@ -1970,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equestrian Simulator: Saddle Royale | 137576 | [137576-equestrian-simulator-saddle-royale.json](./137576-equestrian-simulator-saddle-royale.json) |
 | Equestrian the Game | 210575 | [210575-equestrian-the-game.json](./210575-equestrian-the-game.json) |
 | Equestrian Training | 155464 | [155464-equestrian-training.json](./155464-equestrian-training.json) |
+| Equilibria | 80447 | [80447-equilibria.json](./80447-equilibria.json) |
 | Equilibrium | 170999 | [170999-equilibrium.json](./170999-equilibrium.json) |
 | Equilibrium 2018 | 103153 | [103153-equilibrium-2018.json](./103153-equilibrium-2018.json) |
 | Equilibrium 3D | 102212 | [102212-equilibrium-3d.json](./102212-equilibrium-3d.json) |
@@ -2438,6 +2439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esper Dream | 47243 | [47243-esper-dream.json](./47243-esper-dream.json) |
 | Esper Girls | 265925 | [265925-esper-girls.json](./265925-esper-girls.json) |
 | Esper: Make You Live Again | 114991 | [114991-esper-make-you-live-again.json](./114991-esper-make-you-live-again.json) |
+| Espgaluda II: Black Label | 80457 | [80457-espgaluda-ii-black-label.json](./80457-espgaluda-ii-black-label.json) |
 | Espial | 23932 | [23932-espial.json](./23932-espial.json) |
 | Espiocracy | 153913 | [153913-espiocracy.json](./153913-espiocracy.json) |
 | Espionage | 13646 | [13646-espionage.json](./13646-espionage.json) |
@@ -3457,6 +3459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Roads USA | 16962 | [16962-extreme-roads-usa.json](./16962-extreme-roads-usa.json) |
 | Extreme Skate Boarder 3D | 87635 | [87635-extreme-skate-boarder-3d.json](./87635-extreme-skate-boarder-3d.json) |
 | Extreme Skater | 200200 | [200200-extreme-skater.json](./200200-extreme-skater.json) |
+| Extreme Skill | 80466 | [80466-extreme-skill.json](./80466-extreme-skill.json) |
 | Extreme Snowboard | 228110 | [228110-extreme-snowboard.json](./228110-extreme-snowboard.json) |
 | Extreme Social Distancing | 163761 | [163761-extreme-social-distancing.json](./163761-extreme-social-distancing.json) |
 | Extreme Speed Bundle: Go! Fish Go! Adrenaline Rush, Jet Ski Rush | 196823 | [196823-extreme-speed-bundle-go-fish-go-adrenaline-rush-jet-ski-rush.json](./196823-extreme-speed-bundle-go-fish-go-adrenaline-rush-jet-ski-rush.json) |
