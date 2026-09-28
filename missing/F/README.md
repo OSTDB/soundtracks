@@ -4221,6 +4221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forging Ahead | 244740 | [244740-forging-ahead.json](./244740-forging-ahead.json) |
 | Forging Glory | 132814 | [132814-forging-glory.json](./132814-forging-glory.json) |
 | Forging History Saga: The big bang | 182842 | [182842-forging-history-saga-the-big-bang.json](./182842-forging-history-saga-the-big-bang.json) |
+| Forgive Me My Henchmen | 106097 | [106097-forgive-me-my-henchmen.json](./106097-forgive-me-my-henchmen.json) |
 | Forgiveness | 111471 | [111471-forgiveness.json](./111471-forgiveness.json) |
 | Forgiveness | 291580 | [291580-forgiveness.json](./291580-forgiveness.json) |
 | Forgiveness RPG: The First Chapter - Part Three | 297539 | [297539-forgiveness-rpg-the-first-chapter-part-three.json](./297539-forgiveness-rpg-the-first-chapter-part-three.json) |
