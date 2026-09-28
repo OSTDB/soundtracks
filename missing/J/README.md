@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Tactics Soccer | 3522 | [3522-j-league-tactics-soccer.json](./3522-j-league-tactics-soccer.json) |
 | J.League Virtual Stadium | 268500 | [268500-j-league-virtual-stadium.json](./268500-j-league-virtual-stadium.json) |
 | J.League Virtual Stadium '95 | 37200 | [37200-j-league-virtual-stadium-95.json](./37200-j-league-virtual-stadium-95.json) |
+| J.R.R. Tolkien's Riders of Rohan | 78742 | [78742-j-r-r-tolkiens-riders-of-rohan.json](./78742-j-r-r-tolkiens-riders-of-rohan.json) |
 | J.R.R. Tolkien's The Lord of the Rings, Vol. I | 137042 | [137042-j-r-r-tolkiens-the-lord-of-the-rings-vol-i.json](./137042-j-r-r-tolkiens-the-lord-of-the-rings-vol-i.json) |
 | J'ai Trouvé! Le Manoir Hanté | 140600 | [140600-jai-trouve-le-manoir-hante.json](./140600-jai-trouve-le-manoir-hante.json) |
 | J'apprends L'Anglais CP-CM1 | 147347 | [147347-japprends-langlais-cp-cm1.json](./147347-japprends-langlais-cp-cm1.json) |
@@ -460,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeopardy! | 220095 | [220095-jeopardy.json](./220095-jeopardy.json) |
 | Jeopardy! | 28472 | [28472-jeopardy.json](./28472-jeopardy.json) |
 | Jeopardy! | 297599 | [297599-jeopardy.json](./297599-jeopardy.json) |
+| Jeopardy! | 78592 | [78592-jeopardy.json](./78592-jeopardy.json) |
 | Jeopardy! 2nd Edition | 43911 | [43911-jeopardy-2nd-edition.json](./43911-jeopardy-2nd-edition.json) |
 | Jeopardy! PlayShow | 140551 | [140551-jeopardy-playshow.json](./140551-jeopardy-playshow.json) |
 | Jeopardy! Sports Edition | 48977 | [48977-jeopardy-sports-edition.json](./48977-jeopardy-sports-edition.json) |
@@ -817,13 +819,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Pro Yakyuu: Basic-ban '98 | 37207 | [37207-jikkyou-pawafuru-pro-yakyuu-basic-ban-98.json](./37207-jikkyou-pawafuru-pro-yakyuu-basic-ban-98.json) |
 | Jikkyou Pawafuru Puroyakyu '95 | 63563 | [63563-jikkyou-pawafuru-puroyakyu-95.json](./63563-jikkyou-pawafuru-puroyakyu-95.json) |
 | Jikkyou Pawafuru Puroyakyu '99: Kaimaku-ban | 138738 | [138738-jikkyou-pawafuru-puroyakyu-99-kaimaku-ban.json](./138738-jikkyou-pawafuru-puroyakyu-99-kaimaku-ban.json) |
+| Jikkyou Pawafuru Puroyakyu 13 | 78581 | [78581-jikkyou-pawafuru-puroyakyu-13.json](./78581-jikkyou-pawafuru-puroyakyu-13.json) |
 | Jikkyou Pawafuru Puroyakyu 14 | 69203 | [69203-jikkyou-pawafuru-puroyakyu-14.json](./69203-jikkyou-pawafuru-puroyakyu-14.json) |
 | Jikkyou Pawafuru Puroyakyu 15 | 69204 | [69204-jikkyou-pawafuru-puroyakyu-15.json](./69204-jikkyou-pawafuru-puroyakyu-15.json) |
 | Jikkyou Pawafuru Puroyakyu 2010 | 45286 | [45286-jikkyou-pawafuru-puroyakyu-2010.json](./45286-jikkyou-pawafuru-puroyakyu-2010.json) |
 | Jikkyou Pawafuru Puroyakyu 2011 | 124695 | [124695-jikkyou-pawafuru-puroyakyu-2011.json](./124695-jikkyou-pawafuru-puroyakyu-2011.json) |
 | Jikkyou Pawafuru Puroyakyu 2011 | 45285 | [45285-jikkyou-pawafuru-puroyakyu-2011.json](./45285-jikkyou-pawafuru-puroyakyu-2011.json) |
+| Jikkyou Pawafuru Puroyakyu 2011: Kettei-ban | 78580 | [78580-jikkyou-pawafuru-puroyakyu-2011-kettei-ban.json](./78580-jikkyou-pawafuru-puroyakyu-2011-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 2012 | 44584 | [44584-jikkyou-pawafuru-puroyakyu-2012.json](./44584-jikkyou-pawafuru-puroyakyu-2012.json) |
 | Jikkyou Pawafuru Puroyakyu 2012: Kettei-ban | 44583 | [44583-jikkyou-pawafuru-puroyakyu-2012-kettei-ban.json](./44583-jikkyou-pawafuru-puroyakyu-2012-kettei-ban.json) |
+| Jikkyou Pawafuru Puroyakyu 2014 | 78583 | [78583-jikkyou-pawafuru-puroyakyu-2014.json](./78583-jikkyou-pawafuru-puroyakyu-2014.json) |
+| Jikkyou Pawafuru Puroyakyu 2016 | 78582 | [78582-jikkyou-pawafuru-puroyakyu-2016.json](./78582-jikkyou-pawafuru-puroyakyu-2016.json) |
 | Jikkyou Pawafuru Puroyakyu 3 | 42642 | [42642-jikkyou-pawafuru-puroyakyu-3.json](./42642-jikkyou-pawafuru-puroyakyu-3.json) |
 | Jikkyou Pawafuru Puroyakyu 5 | 3526 | [3526-jikkyou-pawafuru-puroyakyu-5.json](./3526-jikkyou-pawafuru-puroyakyu-5.json) |
 | Jikkyou Pawafuru Puroyakyu Wii | 229183 | [229183-jikkyou-pawafuru-puroyakyu-wii.json](./229183-jikkyou-pawafuru-puroyakyu-wii.json) |
