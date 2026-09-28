@@ -3970,6 +3970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robots and Planets | 347361 | [347361-robots-and-planets.json](./347361-robots-and-planets.json) |
 | Robots at Midnight | 276180 | [276180-robots-at-midnight.json](./276180-robots-at-midnight.json) |
 | Robots Coop | 174736 | [174736-robots-coop.json](./174736-robots-coop.json) |
+| Robots Go Home! | 116452 | [116452-robots-go-home.json](./116452-robots-go-home.json) |
 | Robots Love Ice Cream | 62997 | [62997-robots-love-ice-cream.json](./62997-robots-love-ice-cream.json) |
 | Robots Runner | 259528 | [259528-robots-runner.json](./259528-robots-runner.json) |
 | Robots under attack! | 129608 | [129608-robots-under-attack.json](./129608-robots-under-attack.json) |
@@ -4494,6 +4495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Jammer | 40420 | [40420-roller-jammer.json](./40420-roller-jammer.json) |
 | Roller Riot | 132703 | [132703-roller-riot.json](./132703-roller-riot.json) |
 | Roller Rush | 209008 | [209008-roller-rush.json](./209008-roller-rush.json) |
+| Roller Splat! | 116420 | [116420-roller-splat.json](./116420-roller-splat.json) |
 | Roller Stars | 149017 | [149017-roller-stars.json](./149017-roller-stars.json) |
 | Roller-Skating | 328498 | [328498-roller-skating.json](./328498-roller-skating.json) |
 | Rollerball | 298843 | [298843-rollerball.json](./298843-rollerball.json) |
