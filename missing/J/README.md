@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetpack Squad | 122284 | [122284-jetpack-squad.json](./122284-jetpack-squad.json) |
 | Jetpack Warrior VR | 107684 | [107684-jetpack-warrior-vr.json](./107684-jetpack-warrior-vr.json) |
 | Jetpackin' Heat++ | 161347 | [161347-jetpackin-heat.json](./161347-jetpackin-heat.json) |
+| JetPilot | 93138 | [93138-jetpilot.json](./93138-jetpilot.json) |
 | JetPilot GoNow Demo | 136233 | [136233-jetpilot-gonow-demo.json](./136233-jetpilot-gonow-demo.json) |
 | jetPin | 141166 | [141166-jetpin.json](./141166-jetpin.json) |
 | Jetrats Defense | 233750 | [233750-jetrats-defense.json](./233750-jetrats-defense.json) |
