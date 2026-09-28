@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cut Above: Mow & Grow | 379572 | [379572-a-cut-above-mow-and-grow.json](./379572-a-cut-above-mow-and-grow.json) |
 | A Cyberpunk's Dream of 2077 | 228992 | [228992-a-cyberpunks-dream-of-2077.json](./228992-a-cyberpunks-dream-of-2077.json) |
 | A Dance of Fire and Ice - Neo Cosmos | 203226 | [203226-a-dance-of-fire-and-ice-neo-cosmos.json](./203226-a-dance-of-fire-and-ice-neo-cosmos.json) |
+| A Dark and Deadly Path | 73278 | [73278-a-dark-and-deadly-path.json](./73278-a-dark-and-deadly-path.json) |
 | A Dark Forest | 319186 | [319186-a-dark-forest.json](./319186-a-dark-forest.json) |
 | A Dark Ice Saga: The Rescue | 158223 | [158223-a-dark-ice-saga-the-rescue.json](./158223-a-dark-ice-saga-the-rescue.json) |
 | A Dark Place | 301587 | [301587-a-dark-place.json](./301587-a-dark-place.json) |
@@ -1005,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Card Football | 109662 | [109662-action-card-football.json](./109662-action-card-football.json) |
 | Action Doom | 55134 | [55134-action-doom.json](./55134-action-doom.json) |
 | Action Fighter | 11885 | [11885-action-fighter.json](./11885-action-fighter.json) |
+| Action Force II: International Heroes | 73255 | [73255-action-force-ii-international-heroes.json](./73255-action-force-ii-international-heroes.json) |
 | Action Fubuki | 288744 | [288744-action-fubuki.json](./288744-action-fubuki.json) |
 | Action Game Maker | 344533 | [344533-action-game-maker.json](./344533-action-game-maker.json) |
 | Action Half-Life | 221840 | [221840-action-half-life.json](./221840-action-half-life.json) |
@@ -1068,6 +1070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adam & Eve | 204500 | [204500-adam-and-eve.json](./204500-adam-and-eve.json) |
 | Adam and Eve: Crossy River | 233509 | [233509-adam-and-eve-crossy-river.json](./233509-adam-and-eve-crossy-river.json) |
 | Adam and Eve: The Game - Chapter 1 | 33513 | [33513-adam-and-eve-the-game-chapter-1.json](./33513-adam-and-eve-the-game-chapter-1.json) |
+| Adam Blaster: Atomic Enforcer | 73362 | [73362-adam-blaster-atomic-enforcer.json](./73362-adam-blaster-atomic-enforcer.json) |
 | Adam's Venture: Origins | 16298 | [16298-adams-venture-origins.json](./16298-adams-venture-origins.json) |
 | Adamantine Cruelty | 271248 | [271248-adamantine-cruelty.json](./271248-adamantine-cruelty.json) |
 | Adanath | 219701 | [219701-adanath.json](./219701-adanath.json) |
@@ -1237,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure In Vegas: Slot Machine | 84974 | [84974-adventure-in-vegas-slot-machine.json](./84974-adventure-in-vegas-slot-machine.json) |
 | Adventure in XX City 2: Finding BB | 314411 | [314411-adventure-in-xx-city-2-finding-bb.json](./314411-adventure-in-xx-city-2-finding-bb.json) |
 | Adventure Inlay: Safari Edition | 52550 | [52550-adventure-inlay-safari-edition.json](./52550-adventure-inlay-safari-edition.json) |
+| Adventure Interpreter | 73272 | [73272-adventure-interpreter.json](./73272-adventure-interpreter.json) |
 | Adventure Island II | 6471 | [6471-adventure-island-ii.json](./6471-adventure-island-ii.json) |
 | Adventure Kitty: Drill Buster | 265665 | [265665-adventure-kitty-drill-buster.json](./265665-adventure-kitty-drill-buster.json) |
 | Adventure Light | 149534 | [149534-adventure-light.json](./149534-adventure-light.json) |
@@ -1655,6 +1659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aggressive Inline | 3783 | [3783-aggressive-inline.json](./3783-aggressive-inline.json) |
 | Aggressor | 13241 | [13241-aggressor.json](./13241-aggressor.json) |
 | Aggressors of Dark Kombat | 39336 | [39336-aggressors-of-dark-kombat.json](./39336-aggressors-of-dark-kombat.json) |
+| Agharta: The Hollow Earth | 73280 | [73280-agharta-the-hollow-earth.json](./73280-agharta-the-hollow-earth.json) |
 | Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
 | Agile Firefighter | 207912 | [207912-agile-firefighter.json](./207912-agile-firefighter.json) |
 | AGIS | 239647 | [239647-agis.json](./239647-agis.json) |
@@ -6781,6 +6786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atmocity | 90077 | [90077-atmocity.json](./90077-atmocity.json) |
 | Atmoids | 92833 | [92833-atmoids.json](./92833-atmoids.json) |
 | Atmos | 398400 | [398400-atmos.json](./398400-atmos.json) |
+| Atmosfear: The Third Dimension | 73340 | [73340-atmosfear-the-third-dimension.json](./73340-atmosfear-the-third-dimension.json) |
 | Atmosphir | 70682 | [70682-atmosphir.json](./70682-atmosphir.json) |
 | ATNRPG | 387687 | [387687-atnrpg.json](./387687-atnrpg.json) |
 | Atoll: The Last Ghost | 186644 | [186644-atoll-the-last-ghost.json](./186644-atoll-the-last-ghost.json) |
