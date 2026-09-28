@@ -1141,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapsonic Top | 108873 | [108873-tapsonic-top.json](./108873-tapsonic-top.json) |
 | TapTap Heroes | 96264 | [96264-taptap-heroes.json](./96264-taptap-heroes.json) |
 | TapTapBadger | 262353 | [262353-taptapbadger.json](./262353-taptapbadger.json) |
+| TaptapTaptapTaptapTap | 66764 | [66764-taptaptaptaptaptaptap.json](./66764-taptaptaptaptaptaptap.json) |
 | Taptiles | 79856 | [79856-taptiles.json](./79856-taptiles.json) |
 | Taptron 1999 | 372992 | [372992-taptron-1999.json](./372992-taptron-1999.json) |
 | Tapybara | 311250 | [311250-tapybara.json](./311250-tapybara.json) |
@@ -1184,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarot Mystery | 37793 | [37793-tarot-mystery.json](./37793-tarot-mystery.json) |
 | Tarot Spell | 390271 | [390271-tarot-spell.json](./390271-tarot-spell.json) |
 | Tarot Uranai | 254587 | [254587-tarot-uranai.json](./254587-tarot-uranai.json) |
+| Tarr Chronicles | 66757 | [66757-tarr-chronicles.json](./66757-tarr-chronicles.json) |
 | Tartapolis | 120954 | [120954-tartapolis.json](./120954-tartapolis.json) |
 | Tartaros | 320403 | [320403-tartaros.json](./320403-tartaros.json) |
 | Tartarus | 256845 | [256845-tartarus.json](./256845-tartarus.json) |
@@ -5922,6 +5924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic Roundabout | 268201 | [268201-the-magic-roundabout.json](./268201-the-magic-roundabout.json) |
 | The Magic School Bus Explores in the Age of Dinosaurs | 70456 | [70456-the-magic-school-bus-explores-in-the-age-of-dinosaurs.json](./70456-the-magic-school-bus-explores-in-the-age-of-dinosaurs.json) |
 | The Magic School Bus Explores the Ocean | 138253 | [138253-the-magic-school-bus-explores-the-ocean.json](./138253-the-magic-school-bus-explores-the-ocean.json) |
+| The Magic School Bus Explores the Rainforest | 66752 | [66752-the-magic-school-bus-explores-the-rainforest.json](./66752-the-magic-school-bus-explores-the-rainforest.json) |
 | The Magic School Bus Explores the Solar System | 67659 | [67659-the-magic-school-bus-explores-the-solar-system.json](./67659-the-magic-school-bus-explores-the-solar-system.json) |
 | The Magic School Bus: Dino Shuffle | 230388 | [230388-the-magic-school-bus-dino-shuffle.json](./230388-the-magic-school-bus-dino-shuffle.json) |
 | The Magic School Bus: Dinosaurs | 230387 | [230387-the-magic-school-bus-dinosaurs.json](./230387-the-magic-school-bus-dinosaurs.json) |
@@ -6815,6 +6818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reshaping of Googol 1B: The Tower | 299157 | [299157-the-reshaping-of-googol-1b-the-tower.json](./299157-the-reshaping-of-googol-1b-the-tower.json) |
 | The Resident | 366283 | [366283-the-resident.json](./366283-the-resident.json) |
 | The Residents: Freak Show | 74045 | [74045-the-residents-freak-show.json](./74045-the-residents-freak-show.json) |
+| The Residents' Bad Day on the Midway | 66760 | [66760-the-residents-bad-day-on-the-midway.json](./66760-the-residents-bad-day-on-the-midway.json) |
 | The Resistance | 75764 | [75764-the-resistance.json](./75764-the-resistance.json) |
 | The Resonance Initiative | 405691 | [405691-the-resonance-initiative.json](./405691-the-resonance-initiative.json) |
 | The Resonant | 289971 | [289971-the-resonant.json](./289971-the-resonant.json) |
@@ -9053,6 +9057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrust Legend | 158151 | [158151-thrust-legend.json](./158151-thrust-legend.json) |
 | Thrust Master Deluxe | 258220 | [258220-thrust-master-deluxe.json](./258220-thrust-master-deluxe.json) |
 | Thrust Me Bro | 383654 | [383654-thrust-me-bro.json](./383654-thrust-me-bro.json) |
+| Thrust Platinum | 66784 | [66784-thrust-platinum.json](./66784-thrust-platinum.json) |
 | ThrustMe Too | 333373 | [333373-thrustme-too.json](./333373-thrustme-too.json) |
 | ThrustWorks | 156010 | [156010-thrustworks.json](./156010-thrustworks.json) |
 | Thrusty Ship | 113660 | [113660-thrusty-ship.json](./113660-thrusty-ship.json) |
@@ -9066,6 +9071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThumBeat: Button Basher Edition | 196136 | [196136-thumbeat-button-basher-edition.json](./196136-thumbeat-button-basher-edition.json) |
 | Thumblemania | 348346 | [348346-thumblemania.json](./348346-thumblemania.json) |
 | Thumbling | 289947 | [289947-thumbling.json](./289947-thumbling.json) |
+| Thumpies | 66730 | [66730-thumpies.json](./66730-thumpies.json) |
 | Thumps & Blows | 348327 | [348327-thumps-and-blows.json](./348327-thumps-and-blows.json) |
 | Thunder Alley | 49340 | [49340-thunder-alley.json](./49340-thunder-alley.json) |
 | Thunder and Line-ing | 389707 | [389707-thunder-and-line-ing.json](./389707-thunder-and-line-ing.json) |
@@ -11721,10 +11727,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch the Floor | 151155 | [151155-touch-the-floor.json](./151155-touch-the-floor.json) |
 | Touch to Fate: Occult Romance | 255171 | [255171-touch-to-fate-occult-romance.json](./255171-touch-to-fate-occult-romance.json) |
 | Touch Your Eyes | 275695 | [275695-touch-your-eyes.json](./275695-touch-your-eyes.json) |
+| Touch: Man to Man | 66773 | [66773-touch-man-to-man.json](./66773-touch-man-to-man.json) |
 | Touchdown | 346102 | [346102-touchdown.json](./346102-touchdown.json) |
 | Touchdown Pinball | 129804 | [129804-touchdown-pinball.json](./129804-touchdown-pinball.json) |
 | TouchDown Rush | 235151 | [235151-touchdown-rush.json](./235151-touchdown-rush.json) |
 | TouchFish | 137011 | [137011-touchfish.json](./137011-touchfish.json) |
+| Touchgrind | 66732 | [66732-touchgrind.json](./66732-touchgrind.json) |
 | Touchgrind BMX | 86849 | [86849-touchgrind-bmx.json](./86849-touchgrind-bmx.json) |
 | Touchgrind BMX | 88294 | [88294-touchgrind-bmx.json](./88294-touchgrind-bmx.json) |
 | Touching Grass Simulator | 348985 | [348985-touching-grass-simulator.json](./348985-touching-grass-simulator.json) |
