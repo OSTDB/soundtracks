@@ -4334,6 +4334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobkin Blaster | 158699 | [158699-blobkin-blaster.json](./158699-blobkin-blaster.json) |
 | Blobl.io | 316086 | [316086-blobl-io.json](./316086-blobl-io.json) |
 | Bloble.io | 126022 | [126022-bloble-io.json](./126022-bloble-io.json) |
+| Blobs: A puzzle game | 101048 | [101048-blobs-a-puzzle-game.json](./101048-blobs-a-puzzle-game.json) |
 | Blobster | 93580 | [93580-blobster.json](./93580-blobster.json) |
 | Blobtown | 346759 | [346759-blobtown.json](./346759-blobtown.json) |
 | Blobufo | 219299 | [219299-blobufo.json](./219299-blobufo.json) |
@@ -4477,6 +4478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks of Nature | 216754 | [216754-blocks-of-nature.json](./216754-blocks-of-nature.json) |
 | Blocks Racing | 255060 | [255060-blocks-racing.json](./255060-blocks-racing.json) |
 | Blocks Stacking | 153352 | [153352-blocks-stacking.json](./153352-blocks-stacking.json) |
+| Blocks: New Tangram Puzzles | 101070 | [101070-blocks-new-tangram-puzzles.json](./101070-blocks-new-tangram-puzzles.json) |
 | Blocks! | 207281 | [207281-blocks.json](./207281-blocks.json) |
 | Blocks! | 295521 | [295521-blocks.json](./295521-blocks.json) |
 | Blockshock | 83482 | [83482-blockshock.json](./83482-blockshock.json) |
