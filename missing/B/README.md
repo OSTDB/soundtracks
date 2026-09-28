@@ -5232,6 +5232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombarika | 101962 | [101962-bombarika.json](./101962-bombarika.json) |
 | Bombarium | 179129 | [179129-bombarium.json](./179129-bombarium.json) |
 | Bombastic | 308253 | [308253-bombastic.json](./308253-bombastic.json) |
+| Bombastic! | 103655 | [103655-bombastic.json](./103655-bombastic.json) |
 | Bombball | 301584 | [301584-bombball.json](./301584-bombball.json) |
 | Bombcapsule | 280287 | [280287-bombcapsule.json](./280287-bombcapsule.json) |
 | BombDodger - | 99973 | [99973-bombdodger.json](./99973-bombdodger.json) |
@@ -5872,6 +5873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BowMage | 32267 | [32267-bowmage.json](./32267-bowmage.json) |
 | Bowman | 357273 | [357273-bowman.json](./357273-bowman.json) |
 | Bowman 2 | 192329 | [192329-bowman-2.json](./192329-bowman-2.json) |
+| Bowman VS Zombies | 103625 | [103625-bowman-vs-zombies.json](./103625-bowman-vs-zombies.json) |
 | Bowmasters | 71911 | [71911-bowmasters.json](./71911-bowmasters.json) |
 | Bowmen | 129731 | [129731-bowmen.json](./129731-bowmen.json) |
 | Bowmen | 277383 | [277383-bowmen.json](./277383-bowmen.json) |
@@ -6260,6 +6262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawlhalla: Winter Championship 2018 Pack | 342625 | [342625-brawlhalla-winter-championship-2018-pack.json](./342625-brawlhalla-winter-championship-2018-pack.json) |
 | Brawlin' Sailor | 201288 | [201288-brawlin-sailor.json](./201288-brawlin-sailor.json) |
 | Brawlout: Deluxe Edition | 119077 | [119077-brawlout-deluxe-edition.json](./119077-brawlout-deluxe-edition.json) |
+| BrawlQuest | 103637 | [103637-brawlquest.json](./103637-brawlquest.json) |
 | Brawlygon | 276252 | [276252-brawlygon.json](./276252-brawlygon.json) |
 | Brayan Odleys Numbers | 74377 | [74377-brayan-odleys-numbers.json](./74377-brayan-odleys-numbers.json) |
 | Brazen Blaze | 265663 | [265663-brazen-blaze.json](./265663-brazen-blaze.json) |
