@@ -2501,6 +2501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nkodice | 150587 | [150587-nkodice.json](./150587-nkodice.json) |
 | Nl | 178434 | [178434-nl.json](./178434-nl.json) |
 | NLdle | 342051 | [342051-nldle.json](./342051-nldle.json) |
+| NLL 11 | 62793 | [62793-nll-11.json](./62793-nll-11.json) |
 | NLL Lacrosse 2010 | 66705 | [66705-nll-lacrosse-2010.json](./66705-nll-lacrosse-2010.json) |
 | NMDC | 199584 | [199584-nmdc.json](./199584-nmdc.json) |
 | No Afraid Of Battle | 341481 | [341481-no-afraid-of-battle.json](./341481-no-afraid-of-battle.json) |
@@ -2538,6 +2539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Gods, Only Ducks | 415902 | [415902-no-gods-only-ducks.json](./415902-no-gods-only-ducks.json) |
 | No Gravity: The Plague Of Mind | 42846 | [42846-no-gravity-the-plague-of-mind.json](./42846-no-gravity-the-plague-of-mind.json) |
 | No Greater Glory: The American Civil War | 72017 | [72017-no-greater-glory-the-american-civil-war.json](./72017-no-greater-glory-the-american-civil-war.json) |
+| No Heroes | 62814 | [62814-no-heroes.json](./62814-no-heroes.json) |
 | No Heroes Allowed! | 234732 | [234732-no-heroes-allowed.json](./234732-no-heroes-allowed.json) |
 | No Heroes Allowed! | 67381 | [67381-no-heroes-allowed.json](./67381-no-heroes-allowed.json) |
 | No Horizon | 109572 | [109572-no-horizon.json](./109572-no-horizon.json) |
