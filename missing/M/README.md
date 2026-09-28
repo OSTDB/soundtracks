@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maestria | 207841 | [207841-maestria.json](./207841-maestria.json) |
 | Maestro | 306924 | [306924-maestro.json](./306924-maestro.json) |
 | Maestro Mario | 328592 | [328592-maestro-mario.json](./328592-maestro-mario.json) |
+| Maestro: Music from the Void - Collector's Edition | 104804 | [104804-maestro-music-from-the-void-collectors-edition.json](./104804-maestro-music-from-the-void-collectors-edition.json) |
 | Maestro! Jump in Music | 22980 | [22980-maestro-jump-in-music.json](./22980-maestro-jump-in-music.json) |
 | Mǎfǎ Chuánqí | 159812 | [159812-mafa-chuanqi.json](./159812-mafa-chuanqi.json) |
 | Mafalda: Jugando con Números y Palabras | 167760 | [167760-mafalda-jugando-con-numeros-y-palabras.json](./167760-mafalda-jugando-con-numeros-y-palabras.json) |
@@ -2657,6 +2658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Bandit | 43177 | [43177-maze-bandit.json](./43177-maze-bandit.json) |
 | Maze City: A Cyberpunk Lost and Found Centre | 217241 | [217241-maze-city-a-cyberpunk-lost-and-found-centre.json](./217241-maze-city-a-cyberpunk-lost-and-found-centre.json) |
 | Maze Company | 326093 | [326093-maze-company.json](./326093-maze-company.json) |
+| Maze Crusher | 104827 | [104827-maze-crusher.json](./104827-maze-crusher.json) |
 | Maze Death Race | 319586 | [319586-maze-death-race.json](./319586-maze-death-race.json) |
 | Maze Defenders | 255734 | [255734-maze-defenders.json](./255734-maze-defenders.json) |
 | Maze Escape | 345524 | [345524-maze-escape.json](./345524-maze-escape.json) |
@@ -5394,6 +5396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minibuilder | 352182 | [352182-minibuilder.json](./352182-minibuilder.json) |
 | Minibus Simulator Vietnam | 384616 | [384616-minibus-simulator-vietnam.json](./384616-minibus-simulator-vietnam.json) |
 | MiniCar Extreme: Car Driving Racing (Truck, Suv, Sedan, Cars) | 242665 | [242665-minicar-extreme-car-driving-racing-truck-suv-sedan-cars.json](./242665-minicar-extreme-car-driving-racing-truck-suv-sedan-cars.json) |
+| MiniCar Race | 104840 | [104840-minicar-race.json](./104840-minicar-race.json) |
 | Miniconomy | 108966 | [108966-miniconomy.json](./108966-miniconomy.json) |
 | MiniCraft Adventure | 96777 | [96777-minicraft-adventure.json](./96777-minicraft-adventure.json) |
 | Minidinos | 369729 | [369729-minidinos.json](./369729-minidinos.json) |
