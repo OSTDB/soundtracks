@@ -3392,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amogus TD 2: Defense of the Sus | 254757 | [254757-amogus-td-2-defense-of-the-sus.json](./254757-amogus-td-2-defense-of-the-sus.json) |
 | Amok | 33454 | [33454-amok.json](./33454-amok.json) |
 | Amok | 95404 | [95404-amok.json](./95404-amok.json) |
+| Amon | 75934 | [75934-amon.json](./75934-amon.json) |
 | Among Ashes | 258510 | [258510-among-ashes.json](./258510-among-ashes.json) |
 | Among Dots | 159063 | [159063-among-dots.json](./159063-among-dots.json) |
 | Among Ripples 2 | 119637 | [119637-among-ripples-2.json](./119637-among-ripples-2.json) |
