@@ -1488,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Yankee 6: In Pharaoh's Court | 117096 | [117096-new-yankee-6-in-pharaohs-court.json](./117096-new-yankee-6-in-pharaohs-court.json) |
 | New Yankee in King Arthur's Court | 32989 | [32989-new-yankee-in-king-arthurs-court.json](./32989-new-yankee-in-king-arthurs-court.json) |
 | New Yankee in King Arthur's Court 2 | 31855 | [31855-new-yankee-in-king-arthurs-court-2.json](./31855-new-yankee-in-king-arthurs-court-2.json) |
+| New Yankee in King Arthur's Court 5 | 118260 | [118260-new-yankee-in-king-arthurs-court-5.json](./118260-new-yankee-in-king-arthurs-court-5.json) |
 | New Yankee in Santa's Service | 32990 | [32990-new-yankee-in-santas-service.json](./32990-new-yankee-in-santas-service.json) |
 | New Yankee: Jelly Chaos - Collector's Edition | 417515 | [417515-new-yankee-jelly-chaos-collectors-edition.json](./417515-new-yankee-jelly-chaos-collectors-edition.json) |
 | New Yankee: Karma Tales | 235833 | [235833-new-yankee-karma-tales.json](./235833-new-yankee-karma-tales.json) |
