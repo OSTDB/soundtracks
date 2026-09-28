@@ -628,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venture Valley | 148946 | [148946-venture-valley.json](./148946-venture-valley.json) |
 | Venture Within | 199395 | [199395-venture-within.json](./199395-venture-within.json) |
 | Venture’s Gauntlet VR: Multiplayer Update | 306960 | [306960-venture-s-gauntlet-vr-multiplayer-update.json](./306960-venture-s-gauntlet-vr-multiplayer-update.json) |
+| VentureVerse: Legend of Ulora | 108623 | [108623-ventureverse-legend-of-ulora.json](./108623-ventureverse-legend-of-ulora.json) |
 | Venturous in the Footsteps of the Fallen | 269565 | [269565-venturous-in-the-footsteps-of-the-fallen.json](./269565-venturous-in-the-footsteps-of-the-fallen.json) |
 | Venus Flytraps | 234593 | [234593-venus-flytraps.json](./234593-venus-flytraps.json) |
 | Venus in Furs: Sensual Pleasure | 215674 | [215674-venus-in-furs-sensual-pleasure.json](./215674-venus-in-furs-sensual-pleasure.json) |
@@ -1119,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Families American Dad: Police Family Games | 99419 | [99419-virtual-families-american-dad-police-family-games.json](./99419-virtual-families-american-dad-police-family-games.json) |
 | Virtual Families Cook Off: Chapter 2 - Farm Life | 248660 | [248660-virtual-families-cook-off-chapter-2-farm-life.json](./248660-virtual-families-cook-off-chapter-2-farm-life.json) |
 | Virtual Families: Cook Off | 219278 | [219278-virtual-families-cook-off.json](./219278-virtual-families-cook-off.json) |
+| Virtual Family: Happy Mom Care | 108613 | [108613-virtual-family-happy-mom-care.json](./108613-virtual-family-happy-mom-care.json) |
 | Virtual Fighting Championship | 103360 | [103360-virtual-fighting-championship.json](./103360-virtual-fighting-championship.json) |
 | Virtual Fishing | 50597 | [50597-virtual-fishing.json](./50597-virtual-fishing.json) |
 | Virtual girl save virtual boy | 282016 | [282016-virtual-girl-save-virtual-boy.json](./282016-virtual-girl-save-virtual-boy.json) |
