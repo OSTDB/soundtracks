@@ -2570,6 +2570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resurviv.biz: Battle Royale | 373642 | [373642-resurviv-biz-battle-royale.json](./373642-resurviv-biz-battle-royale.json) |
 | Resver | 392273 | [392273-resver.json](./392273-resver.json) |
 | Resync | 241489 | [241489-resync.json](./241489-resync.json) |
+| Resynth | 107388 | [107388-resynth.json](./107388-resynth.json) |
 | Retail Rivals | 402476 | [402476-retail-rivals.json](./402476-retail-rivals.json) |
 | Retail Royale | 151096 | [151096-retail-royale.json](./151096-retail-royale.json) |
 | Retale | 307749 | [307749-retale.json](./307749-retale.json) |
@@ -3848,6 +3849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Rob | 286597 | [286597-robo-rob.json](./286597-robo-rob.json) |
 | Robo Rumble | 154436 | [154436-robo-rumble.json](./154436-robo-rumble.json) |
 | Robo Runner | 186157 | [186157-robo-runner.json](./186157-robo-runner.json) |
+| Robo Runners | 107377 | [107377-robo-runners.json](./107377-robo-runners.json) |
 | Robo Rush | 273430 | [273430-robo-rush.json](./273430-robo-rush.json) |
 | Robo Wars | 196316 | [196316-robo-wars.json](./196316-robo-wars.json) |
 | Robo Wrestle 2001 | 40422 | [40422-robo-wrestle-2001.json](./40422-robo-wrestle-2001.json) |
@@ -4111,6 +4113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Frog | 277949 | [277949-rocket-frog.json](./277949-rocket-frog.json) |
 | Rocket Fruit | 144778 | [144778-rocket-fruit.json](./144778-rocket-fruit.json) |
 | Rocket Hat | 329397 | [329397-rocket-hat.json](./329397-rocket-hat.json) |
+| Rocket Hippo! | 107392 | [107392-rocket-hippo.json](./107392-rocket-hippo.json) |
 | Rocket Horizon | 256928 | [256928-rocket-horizon.json](./256928-rocket-horizon.json) |
 | Rocket Inc | 223426 | [223426-rocket-inc.json](./223426-rocket-inc.json) |
 | Rocket Jockey | 50137 | [50137-rocket-jockey.json](./50137-rocket-jockey.json) |
