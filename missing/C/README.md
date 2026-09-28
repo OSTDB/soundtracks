@@ -4561,6 +4561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Adventure | 179182 | [179182-code-adventure.json](./179182-code-adventure.json) |
 | Code Adventures | 108271 | [108271-code-adventures.json](./108271-code-adventures.json) |
 | Code angel | 153943 | [153943-code-angel.json](./153943-code-angel.json) |
+| Code Brown | 111178 | [111178-code-brown.json](./111178-code-brown.json) |
 | Code Bunny | 183988 | [183988-code-bunny.json](./183988-code-bunny.json) |
 | Code Carbon | 24857 | [24857-code-carbon.json](./24857-code-carbon.json) |
 | Code Correction | 155466 | [155466-code-correction.json](./155466-code-correction.json) |
@@ -4880,6 +4881,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Blocks - Relax Puzzle | 130854 | [130854-color-blocks-relax-puzzle.json](./130854-color-blocks-relax-puzzle.json) |
 | Color Breakers | 151018 | [151018-color-breakers.json](./151018-color-breakers.json) |
 | Color Bump 3D | 305840 | [305840-color-bump-3d.json](./305840-color-bump-3d.json) |
+| Color by Numbers - Animals | 111173 | [111173-color-by-numbers-animals.json](./111173-color-by-numbers-animals.json) |
+| Color by Numbers - Christmas | 111174 | [111174-color-by-numbers-christmas.json](./111174-color-by-numbers-christmas.json) |
 | Color by Numbers - Christmas + | 87178 | [87178-color-by-numbers-christmas.json](./87178-color-by-numbers-christmas.json) |
 | Color by Numbers - Halloween + | 100009 | [100009-color-by-numbers-halloween.json](./100009-color-by-numbers-halloween.json) |
 | Color Chain | 111488 | [111488-color-chain.json](./111488-color-chain.json) |
@@ -5800,6 +5803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contre Jour HD | 101959 | [101959-contre-jour-hd.json](./101959-contre-jour-hd.json) |
 | Contrition | 179748 | [179748-contrition.json](./179748-contrition.json) |
 | Control Craft 2 | 33560 | [33560-control-craft-2.json](./33560-control-craft-2.json) |
+| Control Freak | 111233 | [111233-control-freak.json](./111233-control-freak.json) |
 | Control Room Alpha | 207816 | [207816-control-room-alpha.json](./207816-control-room-alpha.json) |
 | Control Season Pass | 122314 | [122314-control-season-pass.json](./122314-control-season-pass.json) |
 | Control the Ball | 312198 | [312198-control-the-ball.json](./312198-control-the-ball.json) |
