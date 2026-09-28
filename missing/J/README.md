@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Set Willy: Online | 92850 | [92850-jet-set-willy-online.json](./92850-jet-set-willy-online.json) |
 | Jet Ski Driving | 231943 | [231943-jet-ski-driving.json](./231943-jet-ski-driving.json) |
 | Jet Trains | 174200 | [174200-jet-trains.json](./174200-jet-trains.json) |
+| Jet-Getters | 61715 | [61715-jet-getters.json](./61715-jet-getters.json) |
 | JetBall Arena | 113697 | [113697-jetball-arena.json](./113697-jetball-arena.json) |
 | Jetborne Racing | 150003 | [150003-jetborne-racing.json](./150003-jetborne-racing.json) |
 | Jetboy | 119775 | [119775-jetboy.json](./119775-jetboy.json) |
