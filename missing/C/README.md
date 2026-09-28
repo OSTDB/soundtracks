@@ -1551,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Clinic Simulator: Vet Hospital | 364075 | [364075-cat-clinic-simulator-vet-hospital.json](./364075-cat-clinic-simulator-vet-hospital.json) |
 | Cat Dance | 178007 | [178007-cat-dance.json](./178007-cat-dance.json) |
 | Cat Dash Go | 236232 | [236232-cat-dash-go.json](./236232-cat-dash-go.json) |
+| Cat Demon Island | 109903 | [109903-cat-demon-island.json](./109903-cat-demon-island.json) |
 | Cat Designer Mocha | 152192 | [152192-cat-designer-mocha.json](./152192-cat-designer-mocha.json) |
 | Cat Detective Albert Wilde | 191800 | [191800-cat-detective-albert-wilde.json](./191800-cat-detective-albert-wilde.json) |
 | Cat Doctor: For Loyal Servants | 396880 | [396880-cat-doctor-for-loyal-servants.json](./396880-cat-doctor-for-loyal-servants.json) |
@@ -1774,6 +1775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caterra | 224079 | [224079-caterra.json](./224079-caterra.json) |
 | Caterva: Outsider Dreams | 412535 | [412535-caterva-outsider-dreams.json](./412535-caterva-outsider-dreams.json) |
 | Caterzillar | 82950 | [82950-caterzillar.json](./82950-caterzillar.json) |
+| Catfender | 109871 | [109871-catfender.json](./109871-catfender.json) |
 | Catfighter, In the Lands of Sinners | 374059 | [374059-catfighter-in-the-lands-of-sinners.json](./374059-catfighter-in-the-lands-of-sinners.json) |
 | Catfishing Cuties | 181854 | [181854-catfishing-cuties.json](./181854-catfishing-cuties.json) |
 | Catgirl | 344943 | [344943-catgirl.json](./344943-catgirl.json) |
@@ -2414,6 +2416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Overlords | 629 | [629-chaos-overlords.json](./629-chaos-overlords.json) |
 | Chaos Party | 139410 | [139410-chaos-party.json](./139410-chaos-party.json) |
 | Chaos Reborn | 13222 | [13222-chaos-reborn.json](./13222-chaos-reborn.json) |
+| Chaos Reborn: Adventures | 109913 | [109913-chaos-reborn-adventures.json](./109913-chaos-reborn-adventures.json) |
 | Chaos Ride | 60522 | [60522-chaos-ride.json](./60522-chaos-ride.json) |
 | Chaos Rings | 38898 | [38898-chaos-rings.json](./38898-chaos-rings.json) |
 | Chaos Rings II | 38896 | [38896-chaos-rings-ii.json](./38896-chaos-rings-ii.json) |
@@ -3487,6 +3490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronomina | 185620 | [185620-chronomina.json](./185620-chronomina.json) |
 | Chronominion Idler | 347358 | [347358-chronominion-idler.json](./347358-chronominion-idler.json) |
 | Chronomon | 244487 | [244487-chronomon.json](./244487-chronomon.json) |
+| Chronon | 109896 | [109896-chronon.json](./109896-chronon.json) |
 | Chronophobia | 122341 | [122341-chronophobia.json](./122341-chronophobia.json) |
 | Chronophoto | 237530 | [237530-chronophoto.json](./237530-chronophoto.json) |
 | Chronos | 18974 | [18974-chronos.json](./18974-chronos.json) |
