@@ -905,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warsim: The Realm of Aslona | 43148 | [43148-warsim-the-realm-of-aslona.json](./43148-warsim-the-realm-of-aslona.json) |
 | Warsino | 232539 | [232539-warsino.json](./232539-warsino.json) |
 | Warsong | 3196 | [3196-warsong.json](./3196-warsong.json) |
+| Warsoup | 78606 | [78606-warsoup.json](./78606-warsoup.json) |
 | Warspace | 151093 | [151093-warspace.json](./151093-warspace.json) |
 | Warspace | 242065 | [242065-warspace.json](./242065-warspace.json) |
 | Warspace 2 | 158652 | [158652-warspace-2.json](./158652-warspace-2.json) |
@@ -2533,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post 10 2024 | 294217 | [294217-winning-post-10-2024.json](./294217-winning-post-10-2024.json) |
 | Winning Post 2 | 37767 | [37767-winning-post-2.json](./37767-winning-post-2.json) |
 | Winning Post 2: Program '96 | 79807 | [79807-winning-post-2-program-96.json](./79807-winning-post-2-program-96.json) |
+| Winning Post 4 | 78744 | [78744-winning-post-4.json](./78744-winning-post-4.json) |
 | Winning Post 7 2010 | 194007 | [194007-winning-post-7-2010.json](./194007-winning-post-7-2010.json) |
 | Winning Post 7 Maximum 2008 | 5283 | [5283-winning-post-7-maximum-2008.json](./5283-winning-post-7-maximum-2008.json) |
 | Winning Post 8 2015 | 60780 | [60780-winning-post-8-2015.json](./60780-winning-post-8-2015.json) |
