@@ -5377,6 +5377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Avenue | 408757 | [408757-rumble-avenue.json](./408757-rumble-avenue.json) |
 | Rumble Box | 71498 | [71498-rumble-box.json](./71498-rumble-box.json) |
 | Rumble City | 60213 | [60213-rumble-city.json](./60213-rumble-city.json) |
+| Rumble Fighter | 67352 | [67352-rumble-fighter.json](./67352-rumble-fighter.json) |
 | Rumble Heroes | 242203 | [242203-rumble-heroes.json](./242203-rumble-heroes.json) |
 | Rumble League | 126042 | [126042-rumble-league.json](./126042-rumble-league.json) |
 | Rumble Racing | 43280 | [43280-rumble-racing.json](./43280-rumble-racing.json) |
