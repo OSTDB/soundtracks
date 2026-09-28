@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cambell’s Oddity Box | 387368 | [387368-cambell-s-oddity-box.json](./387368-cambell-s-oddity-box.json) |
 | Cambo: Webbed Fist | 307126 | [307126-cambo-webbed-fist.json](./307126-cambo-webbed-fist.json) |
 | Cambria | 344349 | [344349-cambria.json](./344349-cambria.json) |
+| Cambria Sword: Life of Wonder | 105541 | [105541-cambria-sword-life-of-wonder.json](./105541-cambria-sword-life-of-wonder.json) |
 | Cambrian Crawl | 404981 | [404981-cambrian-crawl.json](./404981-cambrian-crawl.json) |
 | Cambrian Dawn | 226280 | [226280-cambrian-dawn.json](./226280-cambrian-dawn.json) |
 | Camega | 202808 | [202808-camega.json](./202808-camega.json) |
@@ -2114,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CellTD | 183879 | [183879-celltd.json](./183879-celltd.json) |
 | Cellular Harvest: Purple | 152276 | [152276-cellular-harvest-purple.json](./152276-cellular-harvest-purple.json) |
 | Cellular Survival | 296346 | [296346-cellular-survival.json](./296346-cellular-survival.json) |
+| Cellyon: Boss Confrontation | 105558 | [105558-cellyon-boss-confrontation.json](./105558-cellyon-boss-confrontation.json) |
 | Cellyon: Boss Maker | 322717 | [322717-cellyon-boss-maker.json](./322717-cellyon-boss-maker.json) |
 | Celted | 176478 | [176478-celted.json](./176478-celted.json) |
 | Celtic Carnage | 58821 | [58821-celtic-carnage.json](./58821-celtic-carnage.json) |
@@ -4408,6 +4410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudy & Stormy: Pawtastic Adventure | 333911 | [333911-cloudy-and-stormy-pawtastic-adventure.json](./333911-cloudy-and-stormy-pawtastic-adventure.json) |
 | Cloudy Days | 236949 | [236949-cloudy-days.json](./236949-cloudy-days.json) |
 | Cloudy with a Chance of Kittens | 345140 | [345140-cloudy-with-a-chance-of-kittens.json](./345140-cloudy-with-a-chance-of-kittens.json) |
+| Clout | 105528 | [105528-clout.json](./105528-clout.json) |
 | Clouzy! | 136984 | [136984-clouzy.json](./136984-clouzy.json) |
 | Clover Cuby | 267340 | [267340-clover-cuby.json](./267340-clover-cuby.json) |
 | Clover Day's Plus | 254554 | [254554-clover-days-plus.json](./254554-clover-days-plus.json) |
@@ -4454,6 +4457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cludbugz's Twisted Magic | 51969 | [51969-cludbugzs-twisted-magic.json](./51969-cludbugzs-twisted-magic.json) |
 | Clue | 206977 | [206977-clue.json](./206977-clue.json) |
 | Clue Kaguya-sama: Love is War | 262363 | [262363-clue-kaguya-sama-love-is-war.json](./262363-clue-kaguya-sama-love-is-war.json) |
+| Clue Solver | 105532 | [105532-clue-solver.json](./105532-clue-solver.json) |
 | Clue: Classic Mystery Game | 88928 | [88928-clue-classic-mystery-game.json](./88928-clue-classic-mystery-game.json) |
 | Clue: Murder By Death | 267439 | [267439-clue-murder-by-death.json](./267439-clue-murder-by-death.json) |
 | Clue: Secrets & Spies | 366414 | [366414-clue-secrets-and-spies.json](./366414-clue-secrets-and-spies.json) |
@@ -4898,6 +4902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Blocks - Relax Puzzle | 130854 | [130854-color-blocks-relax-puzzle.json](./130854-color-blocks-relax-puzzle.json) |
 | Color Breakers | 151018 | [151018-color-breakers.json](./151018-color-breakers.json) |
 | Color Bump 3D | 305840 | [305840-color-bump-3d.json](./305840-color-bump-3d.json) |
+| Color by Number: New Coloring Book | 105504 | [105504-color-by-number-new-coloring-book.json](./105504-color-by-number-new-coloring-book.json) |
 | Color by Numbers - Animals | 111173 | [111173-color-by-numbers-animals.json](./111173-color-by-numbers-animals.json) |
 | Color by Numbers - Christmas | 111174 | [111174-color-by-numbers-christmas.json](./111174-color-by-numbers-christmas.json) |
 | Color by Numbers - Christmas + | 87178 | [87178-color-by-numbers-christmas.json](./87178-color-by-numbers-christmas.json) |
@@ -4923,6 +4928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color FX Solitaire | 245538 | [245538-color-fx-solitaire.json](./245538-color-fx-solitaire.json) |
 | Color FX Space Invaders | 245534 | [245534-color-fx-space-invaders.json](./245534-color-fx-space-invaders.json) |
 | Color Hero | 116358 | [116358-color-hero.json](./116358-color-hero.json) |
+| Color Hockey | 105510 | [105510-color-hockey.json](./105510-color-hockey.json) |
 | Color Island: Pixel Art | 280221 | [280221-color-island-pixel-art.json](./280221-color-island-pixel-art.json) |
 | Color Lab | 192973 | [192973-color-lab.json](./192973-color-lab.json) |
 | Color Lines | 50119 | [50119-color-lines.json](./50119-color-lines.json) |
@@ -6982,6 +6988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Squares: Milk River Run | 365889 | [365889-crazy-squares-milk-river-run.json](./365889-crazy-squares-milk-river-run.json) |
 | Crazy Steam Bros 2 | 35640 | [35640-crazy-steam-bros-2.json](./35640-crazy-steam-bros-2.json) |
 | Crazy Stone Deep Learning | 208915 | [208915-crazy-stone-deep-learning.json](./208915-crazy-stone-deep-learning.json) |
+| Crazy Street Traffic Race | 105520 | [105520-crazy-street-traffic-race.json](./105520-crazy-street-traffic-race.json) |
 | Crazy Stunt Driver: Extreme Racing Simulator | 300859 | [300859-crazy-stunt-driver-extreme-racing-simulator.json](./300859-crazy-stunt-driver-extreme-racing-simulator.json) |
 | Crazy Tap Chef | 108610 | [108610-crazy-tap-chef.json](./108610-crazy-tap-chef.json) |
 | Crazy Tapper + | 175343 | [175343-crazy-tapper.json](./175343-crazy-tapper.json) |
@@ -8670,6 +8677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyndefense Remastered | 382289 | [382289-cyndefense-remastered.json](./382289-cyndefense-remastered.json) |
 | Cynoroid Gaiden | 150167 | [150167-cynoroid-gaiden.json](./150167-cynoroid-gaiden.json) |
 | Cynostone | 252248 | [252248-cynostone.json](./252248-cynostone.json) |
+| Cynosure | 105553 | [105553-cynosure.json](./105553-cynosure.json) |
 | Cynthia: Hidden in the Moonshadow | 190984 | [190984-cynthia-hidden-in-the-moonshadow.json](./190984-cynthia-hidden-in-the-moonshadow.json) |
 | Cynthia: Hidden in the Moonshadow - Accessory Pack #1 | 313787 | [313787-cynthia-hidden-in-the-moonshadow-accessory-pack-1.json](./313787-cynthia-hidden-in-the-moonshadow-accessory-pack-1.json) |
 | Cynthia: Hidden in the Moonshadow - Accessory Pack #2 | 313788 | [313788-cynthia-hidden-in-the-moonshadow-accessory-pack-2.json](./313788-cynthia-hidden-in-the-moonshadow-accessory-pack-2.json) |
