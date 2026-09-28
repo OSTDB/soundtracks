@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magerealm: Rise of Chaos | 12874 | [12874-magerealm-rise-of-chaos.json](./12874-magerealm-rise-of-chaos.json) |
 | Mageroom | 176872 | [176872-mageroom.json](./176872-mageroom.json) |
 | MageRun | 192361 | [192361-magerun.json](./192361-magerun.json) |
+| Mages | 115780 | [115780-mages.json](./115780-mages.json) |
 | Mages | 170844 | [170844-mages.json](./170844-mages.json) |
 | Mages of Osmea | 312199 | [312199-mages-of-osmea.json](./312199-mages-of-osmea.json) |
 | MageTrain | 338350 | [338350-magetrain.json](./338350-magetrain.json) |
@@ -763,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic Monopole Mayhem | 181137 | [181137-magnetic-monopole-mayhem.json](./181137-magnetic-monopole-mayhem.json) |
 | Magnetic Projectiles | 211668 | [211668-magnetic-projectiles.json](./211668-magnetic-projectiles.json) |
 | Magnetic Pull | 118324 | [118324-magnetic-pull.json](./118324-magnetic-pull.json) |
+| Magnetized Knight | 115795 | [115795-magnetized-knight.json](./115795-magnetized-knight.json) |
 | Magnetoresistive | 180597 | [180597-magnetoresistive.json](./180597-magnetoresistive.json) |
 | Magnets | 366911 | [366911-magnets.json](./366911-magnets.json) |
 | Magnia | 123530 | [123530-magnia.json](./123530-magnia.json) |
@@ -6631,6 +6633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Maker III: Hikari no Majutsushi | 37922 | [37922-monster-maker-iii-hikari-no-majutsushi.json](./37922-monster-maker-iii-hikari-no-majutsushi.json) |
 | Monster Maker Kids | 37921 | [37921-monster-maker-kids.json](./37921-monster-maker-kids.json) |
 | Monster Maker: Yami no Ryuukishi | 63878 | [63878-monster-maker-yami-no-ryuukishi.json](./63878-monster-maker-yami-no-ryuukishi.json) |
+| Monster Manor | 115779 | [115779-monster-manor.json](./115779-monster-manor.json) |
 | Monster Match | 179504 | [179504-monster-match.json](./179504-monster-match.json) |
 | Monster Maulers | 39541 | [39541-monster-maulers.json](./39541-monster-maulers.json) |
 | Monster Mayhem | 351608 | [351608-monster-mayhem.json](./351608-monster-mayhem.json) |
