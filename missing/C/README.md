@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C14 Dating | 33280 | [33280-c14-dating.json](./33280-c14-dating.json) |
 | C15: Horror | 121001 | [121001-c15-horror.json](./121001-c15-horror.json) |
 | C17 | 253346 | [253346-c17.json](./253346-c17.json) |
+| C2H6O | 69384 | [69384-c2h6o.json](./69384-c2h6o.json) |
 | C5 Clive | 86025 | [86025-c5-clive.json](./86025-c5-clive.json) |
 | C64 & Amiga Classix Remakes Sixpack | 94773 | [94773-c64-and-amiga-classix-remakes-sixpack.json](./94773-c64-and-amiga-classix-remakes-sixpack.json) |
 | C64 & Amiga Classix Remakes Sixpack 3 | 120817 | [120817-c64-and-amiga-classix-remakes-sixpack-3.json](./120817-c64-and-amiga-classix-remakes-sixpack-3.json) |
@@ -2166,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cemetery Warrior 3 | 29991 | [29991-cemetery-warrior-3.json](./29991-cemetery-warrior-3.json) |
 | Cendovia Uprising | 346664 | [346664-cendovia-uprising.json](./346664-cendovia-uprising.json) |
 | Cendric | 81045 | [81045-cendric.json](./81045-cendric.json) |
+| Cendrillon palikA | 69347 | [69347-cendrillon-palika.json](./69347-cendrillon-palika.json) |
 | Censored Files | 208458 | [208458-censored-files.json](./208458-censored-files.json) |
 | Centauri Dark | 275655 | [275655-centauri-dark.json](./275655-centauri-dark.json) |
 | Centauri Dominion | 164986 | [164986-centauri-dominion.json](./164986-centauri-dominion.json) |
@@ -2438,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Ascension | 327852 | [327852-chaos-ascension.json](./327852-chaos-ascension.json) |
 | Chaos Awakens | 232656 | [232656-chaos-awakens.json](./232656-chaos-awakens.json) |
 | Chaos Battle | 57063 | [57063-chaos-battle.json](./57063-chaos-battle.json) |
+| Chaos Battle League | 69350 | [69350-chaos-battle-league.json](./69350-chaos-battle-league.json) |
 | Chaos Brave Village | 298693 | [298693-chaos-brave-village.json](./298693-chaos-brave-village.json) |
 | Chaos Breaker | 76597 | [76597-chaos-breaker.json](./76597-chaos-breaker.json) |
 | Chaos Caster | 314990 | [314990-chaos-caster.json](./314990-chaos-caster.json) |
@@ -4906,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collapsing HD | 175289 | [175289-collapsing-hd.json](./175289-collapsing-hd.json) |
 | Collapsus | 99413 | [99413-collapsus.json](./99413-collapsus.json) |
 | Collar x Malice: The V-Day Incident! | 384664 | [384664-collar-x-malice-the-v-day-incident.json](./384664-collar-x-malice-the-v-day-incident.json) |
+| Collar x Malice: Unlimited | 69344 | [69344-collar-x-malice-unlimited.json](./69344-collar-x-malice-unlimited.json) |
 | Collared | 133984 | [133984-collared.json](./133984-collared.json) |
 | Collateral | 380080 | [380080-collateral.json](./380080-collateral.json) |
 | Collateral Dungeon | 290958 | [290958-collateral-dungeon.json](./290958-collateral-dungeon.json) |
@@ -7312,6 +7316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Busters | 48320 | [48320-crime-busters.json](./48320-crime-busters.json) |
 | Crime Cities | 7872 | [7872-crime-cities.json](./7872-crime-cities.json) |
 | Crime Coast - Mob versus Mafia | 87665 | [87665-crime-coast-mob-versus-mafia.json](./87665-crime-coast-mob-versus-mafia.json) |
+| Crime Coast: Gangster's Paradise | 69379 | [69379-crime-coast-gangsters-paradise.json](./69379-crime-coast-gangsters-paradise.json) |
 | Crime Code | 96022 | [96022-crime-code.json](./96022-crime-code.json) |
 | Crime Corporation | 174829 | [174829-crime-corporation.json](./174829-crime-corporation.json) |
 | Crime District | 165699 | [165699-crime-district.json](./165699-crime-district.json) |
