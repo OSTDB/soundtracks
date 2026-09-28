@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Project Diva Mega Mix - 10th Anniversary Collection | 136283 | [136283-hatsune-miku-project-diva-mega-mix-10th-anniversary-collection.json](./136283-hatsune-miku-project-diva-mega-mix-10th-anniversary-collection.json) |
 | Hatsune Miku: Roller Skating Music | 199044 | [199044-hatsune-miku-roller-skating-music.json](./199044-hatsune-miku-roller-skating-music.json) |
 | Hatsune Miku: Tap Wonder | 138178 | [138178-hatsune-miku-tap-wonder.json](./138178-hatsune-miku-tap-wonder.json) |
+| Hatsune Miku: VR Future Live | 99752 | [99752-hatsune-miku-vr-future-live.json](./99752-hatsune-miku-vr-future-live.json) |
 | Hatsune Miku: VR Future Live 2nd Stage | 120801 | [120801-hatsune-miku-vr-future-live-2nd-stage.json](./120801-hatsune-miku-vr-future-live-2nd-stage.json) |
 | Hatsune Miku: VR Future Live 3rd Stage | 120802 | [120802-hatsune-miku-vr-future-live-3rd-stage.json](./120802-hatsune-miku-vr-future-live-3rd-stage.json) |
 | Hatsune no Naisho!! | 247480 | [247480-hatsune-no-naisho.json](./247480-hatsune-no-naisho.json) |
