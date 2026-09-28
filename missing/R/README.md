@@ -4517,6 +4517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogun Arena | 165046 | [165046-rogun-arena.json](./165046-rogun-arena.json) |
 | Rogunky | 333376 | [333376-rogunky.json](./333376-rogunky.json) |
 | Rohan II | 371876 | [371876-rohan-ii.json](./371876-rohan-ii.json) |
+| Rohan: Blood Feud | 79227 | [79227-rohan-blood-feud.json](./79227-rohan-blood-feud.json) |
 | Rohga: Armor Force | 40260 | [40260-rohga-armor-force.json](./40260-rohga-armor-force.json) |
 | Rohgah Armor Force | 94756 | [94756-rohgah-armor-force.json](./94756-rohgah-armor-force.json) |
 | Roid Chimp | 366297 | [366297-roid-chimp.json](./366297-roid-chimp.json) |
