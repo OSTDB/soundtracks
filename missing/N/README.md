@@ -3384,6 +3384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyctoban | 252204 | [252204-nyctoban.json](./252204-nyctoban.json) |
 | Nyctophilia | 34424 | [34424-nyctophilia.json](./34424-nyctophilia.json) |
 | Nyctophobia: Fear the Dark | 285444 | [285444-nyctophobia-fear-the-dark.json](./285444-nyctophobia-fear-the-dark.json) |
+| Nyet | 94355 | [94355-nyet.json](./94355-nyet.json) |
 | Nyheim | 30113 | [30113-nyheim.json](./30113-nyheim.json) |
 | Nyjah Huston: #Skatelife | 105907 | [105907-nyjah-huston-skatelife.json](./105907-nyjah-huston-skatelife.json) |
 | Nykra | 102195 | [102195-nykra.json](./102195-nykra.json) |
