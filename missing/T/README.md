@@ -2222,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texas Hold'Em | 246381 | [246381-texas-holdem.json](./246381-texas-holdem.json) |
 | Texas Hold'em Poker DS | 208344 | [208344-texas-holdem-poker-ds.json](./208344-texas-holdem-poker-ds.json) |
 | Texas Solitaire Cube | 125938 | [125938-texas-solitaire-cube.json](./125938-texas-solitaire-cube.json) |
+| Texas Wildcatter Experience | 106753 | [106753-texas-wildcatter-experience.json](./106753-texas-wildcatter-experience.json) |
 | Texplore | 383946 | [383946-texplore.json](./383946-texplore.json) |
 | Text | 110635 | [110635-text.json](./110635-text.json) |
 | Text Adventure Engine | 295361 | [295361-text-adventure-engine.json](./295361-text-adventure-engine.json) |
@@ -2802,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bible Game | 225574 | [225574-the-bible-game.json](./225574-the-bible-game.json) |
 | The Bibleman Videogame Adventure: A Fight for Faith | 206659 | [206659-the-bibleman-videogame-adventure-a-fight-for-faith.json](./206659-the-bibleman-videogame-adventure-a-fight-for-faith.json) |
 | The Big Bang Theory Game | 325084 | [325084-the-big-bang-theory-game.json](./325084-the-big-bang-theory-game.json) |
+| The Big Capitalist 3 | 106758 | [106758-the-big-capitalist-3.json](./106758-the-big-capitalist-3.json) |
 | The Big Catch | 217819 | [217819-the-big-catch.json](./217819-the-big-catch.json) |
 | The Big City | 270702 | [270702-the-big-city.json](./270702-the-big-city.json) |
 | The Big Con | 121767 | [121767-the-big-con.json](./121767-the-big-con.json) |
@@ -4999,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters EX: Neo Blood | 49170 | [49170-the-king-of-fighters-ex-neo-blood.json](./49170-the-king-of-fighters-ex-neo-blood.json) |
 | The King of Fighters EX2: Howling Blood | 49169 | [49169-the-king-of-fighters-ex2-howling-blood.json](./49169-the-king-of-fighters-ex2-howling-blood.json) |
 | The King of Fighters Extreme | 47572 | [47572-the-king-of-fighters-extreme.json](./47572-the-king-of-fighters-extreme.json) |
+| The King of Fighters GO | 106763 | [106763-the-king-of-fighters-go.json](./106763-the-king-of-fighters-go.json) |
 | The King of Fighters Online | 76968 | [76968-the-king-of-fighters-online.json](./76968-the-king-of-fighters-online.json) |
 | The King of Fighters XIII Climax | 348461 | [348461-the-king-of-fighters-xiii-climax.json](./348461-the-king-of-fighters-xiii-climax.json) |
 | The King of Fighters XIII: Galaxy Edition | 126461 | [126461-the-king-of-fighters-xiii-galaxy-edition.json](./126461-the-king-of-fighters-xiii-galaxy-edition.json) |
@@ -6909,6 +6912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sentinel Remake | 212230 | [212230-the-sentinel-remake.json](./212230-the-sentinel-remake.json) |
 | The Sentinels | 395897 | [395897-the-sentinels.json](./395897-the-sentinels.json) |
 | The Sequence | 33425 | [33425-the-sequence.json](./33425-the-sequence.json) |
+| The Sequence 2 | 106766 | [106766-the-sequence-2.json](./106766-the-sequence-2.json) |
 | The Serf's Tale | 72640 | [72640-the-serfs-tale.json](./72640-the-serfs-tale.json) |
 | The Serial Adventures of Dick Jack BB! | 176441 | [176441-the-serial-adventures-of-dick-jack-bb.json](./176441-the-serial-adventures-of-dick-jack-bb.json) |
 | The Serpent | 234184 | [234184-the-serpent.json](./234184-the-serpent.json) |
@@ -8978,6 +8982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic Tac | 362822 | [362822-tic-tac.json](./362822-tic-tac.json) |
 | Tic Tac Math Algebra | 109020 | [109020-tic-tac-math-algebra.json](./109020-tic-tac-math-algebra.json) |
 | Tic Tac Rogue | 376103 | [376103-tic-tac-rogue.json](./376103-tic-tac-rogue.json) |
+| Tic Tac Toe 3D 2014 HD | 106744 | [106744-tic-tac-toe-3d-2014-hd.json](./106744-tic-tac-toe-3d-2014-hd.json) |
 | Tic Tac Toe Battle Royale | 180712 | [180712-tic-tac-toe-battle-royale.json](./180712-tic-tac-toe-battle-royale.json) |
 | Tic Tac Toe World | 387339 | [387339-tic-tac-toe-world.json](./387339-tic-tac-toe-world.json) |
 | Tic Tac Toe World Championship HD | 87291 | [87291-tic-tac-toe-world-championship-hd.json](./87291-tic-tac-toe-world-championship-hd.json) |
@@ -14132,6 +14137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtles | 346135 | [346135-turtles.json](./346135-turtles.json) |
 | Turtles! | 194455 | [194455-turtles.json](./194455-turtles.json) |
 | TurtleSkate | 398572 | [398572-turtleskate.json](./398572-turtleskate.json) |
+| Tuscany Hotel | 106759 | [106759-tuscany-hotel.json](./106759-tuscany-hotel.json) |
 | Tut's Tomb | 282107 | [282107-tuts-tomb.json](./282107-tuts-tomb.json) |
 | Tutankham | 385836 | [385836-tutankham.json](./385836-tutankham.json) |
 | Tutelary | 246371 | [246371-tutelary.json](./246371-tutelary.json) |
