@@ -3343,6 +3343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crazed Chicken | 71000 | [71000-the-crazed-chicken.json](./71000-the-crazed-chicken.json) |
 | The Crazy Journalist | 199056 | [199056-the-crazy-journalist.json](./199056-the-crazy-journalist.json) |
 | The Creation of a Self | 149033 | [149033-the-creation-of-a-self.json](./149033-the-creation-of-a-self.json) |
+| The Creativest Love Doll | 82747 | [82747-the-creativest-love-doll.json](./82747-the-creativest-love-doll.json) |
 | The Creator | 347359 | [347359-the-creator.json](./347359-the-creator.json) |
 | The Creature | 120783 | [120783-the-creature.json](./120783-the-creature.json) |
 | The Creature Mafia | 415162 | [415162-the-creature-mafia.json](./415162-the-creature-mafia.json) |
@@ -4812,6 +4813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The InBetween | 305935 | [305935-the-inbetween.json](./305935-the-inbetween.json) |
 | The Incident | 266825 | [266825-the-incident.json](./266825-the-incident.json) |
 | The Incident | 385300 | [385300-the-incident.json](./385300-the-incident.json) |
+| The Incomplete "Wish" 01. saidohirakareruhakono | 82766 | [82766-the-incomplete-wish-01-saidohirakareruhakono.json](./82766-the-incomplete-wish-01-saidohirakareruhakono.json) |
 | The Incomplete Lunar: First Night | 284331 | [284331-the-incomplete-lunar-first-night.json](./284331-the-incomplete-lunar-first-night.json) |
 | The Incredible Adventures of Van Helsing II | 6074 | [6074-the-incredible-adventures-of-van-helsing-ii.json](./6074-the-incredible-adventures-of-van-helsing-ii.json) |
 | The Incredible Adventures of Van Helsing II: Complete Pack | 223550 | [223550-the-incredible-adventures-of-van-helsing-ii-complete-pack.json](./223550-the-incredible-adventures-of-van-helsing-ii-complete-pack.json) |
@@ -11126,6 +11128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonari no Princess Rolfee! | 70402 | [70402-tonari-no-princess-rolfee.json](./70402-tonari-no-princess-rolfee.json) |
 | Tonarino | 400960 | [400960-tonarino.json](./400960-tonarino.json) |
 | Tondeke Perman | 385570 | [385570-tondeke-perman.json](./385570-tondeke-perman.json) |
+| Tone Sphere | 82740 | [82740-tone-sphere.json](./82740-tone-sphere.json) |
 | Tonetaker VR | 123510 | [123510-tonetaker-vr.json](./123510-tonetaker-vr.json) |
 | Tong Create Thorns | 358513 | [358513-tong-create-thorns.json](./358513-tong-create-thorns.json) |
 | Tongari Boushi to Mahou no Machi | 109053 | [109053-tongari-boushi-to-mahou-no-machi.json](./109053-tongari-boushi-to-mahou-no-machi.json) |
@@ -12596,6 +12599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Training Hero | 239917 | [239917-training-hero.json](./239917-training-hero.json) |
 | Training Lab | 156004 | [156004-training-lab.json](./156004-training-lab.json) |
 | Training Mode | 180276 | [180276-training-mode.json](./180276-training-mode.json) |
+| Training Vice Principal: Square Headed & Chaste Woman Disciplined into Slut | 82991 | [82991-training-vice-principal-square-headed-and-chaste-woman-disciplined-into-slut.json](./82991-training-vice-principal-square-headed-and-chaste-woman-disciplined-into-slut.json) |
 | TrainingPeaks Virtual | 328624 | [328624-trainingpeaks-virtual.json](./328624-trainingpeaks-virtual.json) |
 | Trainpunk Run | 95201 | [95201-trainpunk-run.json](./95201-trainpunk-run.json) |
 | Trains | 95443 | [95443-trains.json](./95443-trains.json) |
@@ -14010,6 +14014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukumonogatari | 66115 | [66115-tsukumonogatari.json](./66115-tsukumonogatari.json) |
 | Tsukutori | 395001 | [395001-tsukutori.json](./395001-tsukutori.json) |
 | Tsukutte Utau: Saru Band | 230300 | [230300-tsukutte-utau-saru-band.json](./230300-tsukutte-utau-saru-band.json) |
+| Tsuma ga Kirei ni Natta Wake | 82977 | [82977-tsuma-ga-kirei-ni-natta-wake.json](./82977-tsuma-ga-kirei-ni-natta-wake.json) |
 | Tsumera | 268456 | [268456-tsumera.json](./268456-tsumera.json) |
 | Tsumiki: The Infernal Tower | 124107 | [124107-tsumiki-the-infernal-tower.json](./124107-tsumiki-the-infernal-tower.json) |
 | Tsumikui: Sen no Noroi, Sen no Inori | 222867 | [222867-tsumikui-sen-no-noroi-sen-no-inori.json](./222867-tsumikui-sen-no-noroi-sen-no-inori.json) |
