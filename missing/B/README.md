@@ -1173,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barnicle | 344380 | [344380-barnicle.json](./344380-barnicle.json) |
 | Barnstormer | 92849 | [92849-barnstormer.json](./92849-barnstormer.json) |
 | Barnstormers: Determined to Win | 241304 | [241304-barnstormers-determined-to-win.json](./241304-barnstormers-determined-to-win.json) |
+| Barnyard Blaster Lite | 100327 | [100327-barnyard-blaster-lite.json](./100327-barnyard-blaster-lite.json) |
 | Barnyard Games For Kids | 96737 | [96737-barnyard-games-for-kids.json](./96737-barnyard-games-for-kids.json) |
 | Baro Kart | 259009 | [259009-baro-kart.json](./259009-baro-kart.json) |
 | Barold | 220135 | [220135-barold.json](./220135-barold.json) |
@@ -3195,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biggest Stream Hover Racing | 193320 | [193320-biggest-stream-hover-racing.json](./193320-biggest-stream-hover-racing.json) |
 | Bighead Runner | 102379 | [102379-bighead-runner.json](./102379-bighead-runner.json) |
 | Bigroom Escape | 151727 | [151727-bigroom-escape.json](./151727-bigroom-escape.json) |
+| Bigwigs: 2 Minute Brawl | 100312 | [100312-bigwigs-2-minute-brawl.json](./100312-bigwigs-2-minute-brawl.json) |
 | Biida-Bash | 372471 | [372471-biida-bash.json](./372471-biida-bash.json) |
 | Bike Arena | 236266 | [236266-bike-arena.json](./236266-bike-arena.json) |
 | Bike Banditz | 216262 | [216262-bike-banditz.json](./216262-bike-banditz.json) |
@@ -6177,6 +6179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Legacy | 296379 | [296379-brave-legacy.json](./296379-brave-legacy.json) |
 | Brave Meow World | 318061 | [318061-brave-meow-world.json](./318061-brave-meow-world.json) |
 | Brave Mouse Cartographer Trilogy | 139476 | [139476-brave-mouse-cartographer-trilogy.json](./139476-brave-mouse-cartographer-trilogy.json) |
+| Brave Neptunia: Hero Edition | 100356 | [100356-brave-neptunia-hero-edition.json](./100356-brave-neptunia-hero-edition.json) |
 | Brave Nine | 112120 | [112120-brave-nine.json](./112120-brave-nine.json) |
 | Brave Odyssea | 26976 | [26976-brave-odyssea.json](./26976-brave-odyssea.json) |
 | Brave Path | 48002 | [48002-brave-path.json](./48002-brave-path.json) |
@@ -6487,6 +6490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick: One Block at a Time | 416120 | [416120-brick-one-block-at-a-time.json](./416120-brick-one-block-at-a-time.json) |
 | Brick[BrickSmash]Smash | 128596 | [128596-brick-bricksmash-smash.json](./128596-brick-bricksmash-smash.json) |
 | Brickade | 371899 | [371899-brickade.json](./371899-brickade.json) |
+| BrickArena | 100345 | [100345-brickarena.json](./100345-brickarena.json) |
 | BrickBounce | 273381 | [273381-brickbounce.json](./273381-brickbounce.json) |
 | BrickForce | 18991 | [18991-brickforce.json](./18991-brickforce.json) |
 | Brickhaven | 273380 | [273380-brickhaven.json](./273380-brickhaven.json) |
