@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FactoryX | 271986 | [271986-factoryx.json](./271986-factoryx.json) |
 | Factotum 90 | 21317 | [21317-factotum-90.json](./21317-factotum-90.json) |
 | Fade Into Darkness | 63841 | [63841-fade-into-darkness.json](./63841-fade-into-darkness.json) |
+| Fade Out | 118292 | [118292-fade-out.json](./118292-fade-out.json) |
 | Fade: A Ghost Story | 307742 | [307742-fade-a-ghost-story.json](./307742-fade-a-ghost-story.json) |
 | Faded | 290525 | [290525-faded.json](./290525-faded.json) |
 | Faded Grey | 166729 | [166729-faded-grey.json](./166729-faded-grey.json) |
