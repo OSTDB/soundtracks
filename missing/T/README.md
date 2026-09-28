@@ -4640,6 +4640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hopebringer | 151114 | [151114-the-hopebringer.json](./151114-the-hopebringer.json) |
 | The Hopeless Few | 389974 | [389974-the-hopeless-few.json](./389974-the-hopeless-few.json) |
 | The Horizon | 138184 | [138184-the-horizon.json](./138184-the-horizon.json) |
+| The Horny Maid and the Daughter are Futanari | 98038 | [98038-the-horny-maid-and-the-daughter-are-futanari.json](./98038-the-horny-maid-and-the-daughter-are-futanari.json) |
 | The Horrible Inside | 297817 | [297817-the-horrible-inside.json](./297817-the-horrible-inside.json) |
 | The Horror at Highrook | 295380 | [295380-the-horror-at-highrook.json](./295380-the-horror-at-highrook.json) |
 | The Horror of Oz | 208440 | [208440-the-horror-of-oz.json](./208440-the-horror-of-oz.json) |
@@ -8939,6 +8940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Chase | 83503 | [83503-thunder-chase.json](./83503-thunder-chase.json) |
 | Thunder Cross | 46772 | [46772-thunder-cross.json](./46772-thunder-cross.json) |
 | Thunder Dragon 2 | 40247 | [40247-thunder-dragon-2.json](./40247-thunder-dragon-2.json) |
+| Thunder Five | 98050 | [98050-thunder-five.json](./98050-thunder-five.json) |
 | Thunder Force | 55055 | [55055-thunder-force.json](./55055-thunder-force.json) |
 | Thunder Force IV | 254613 | [254613-thunder-force-iv.json](./254613-thunder-force-iv.json) |
 | Thunder Force V: Perfect System | 43913 | [43913-thunder-force-v-perfect-system.json](./43913-thunder-force-v-perfect-system.json) |
@@ -11035,6 +11037,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomoyasu Hotei: Stolen Song | 44823 | [44823-tomoyasu-hotei-stolen-song.json](./44823-tomoyasu-hotei-stolen-song.json) |
 | Tomoyo After: It's a Wonderful Life | 7218 | [7218-tomoyo-after-its-a-wonderful-life.json](./7218-tomoyo-after-its-a-wonderful-life.json) |
 | Tomoyo After: It's a Wonderful Life - CS Edition | 134567 | [134567-tomoyo-after-its-a-wonderful-life-cs-edition.json](./134567-tomoyo-after-its-a-wonderful-life-cs-edition.json) |
+| Tomoyo Venture Episode 1 | 98033 | [98033-tomoyo-venture-episode-1.json](./98033-tomoyo-venture-episode-1.json) |
+| Tomoyo Venture Episode 2 | 98034 | [98034-tomoyo-venture-episode-2.json](./98034-tomoyo-venture-episode-2.json) |
 | Tomscape | 129570 | [129570-tomscape.json](./129570-tomscape.json) |
 | Tomte Trouble | 333661 | [333661-tomte-trouble.json](./333661-tomte-trouble.json) |
 | TomTom Adventures | 82851 | [82851-tomtom-adventures.json](./82851-tomtom-adventures.json) |
@@ -11045,6 +11049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonari ni Kanojo no Iru Shiawase: In First Snow With Her - Premium Edition | 385851 | [385851-tonari-ni-kanojo-no-iru-shiawase-in-first-snow-with-her-premium-edition.json](./385851-tonari-ni-kanojo-no-iru-shiawase-in-first-snow-with-her-premium-edition.json) |
 | Tonari ni Kanojo no Iru Shiawase: Winter Guest | 142444 | [142444-tonari-ni-kanojo-no-iru-shiawase-winter-guest.json](./142444-tonari-ni-kanojo-no-iru-shiawase-winter-guest.json) |
 | Tonari ni Kanojo no Iru Shiawase: Winter Guest - Limited Edition | 212314 | [212314-tonari-ni-kanojo-no-iru-shiawase-winter-guest-limited-edition.json](./212314-tonari-ni-kanojo-no-iru-shiawase-winter-guest-limited-edition.json) |
+| Tonari no My Teacher | 98017 | [98017-tonari-no-my-teacher.json](./98017-tonari-no-my-teacher.json) |
 | Tonari no Princess Rolfee! | 70402 | [70402-tonari-no-princess-rolfee.json](./70402-tonari-no-princess-rolfee.json) |
 | Tonarino | 400960 | [400960-tonarino.json](./400960-tonarino.json) |
 | Tondeke Perman | 385570 | [385570-tondeke-perman.json](./385570-tondeke-perman.json) |
