@@ -2934,6 +2934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Defense | 181398 | [181398-chicken-defense.json](./181398-chicken-defense.json) |
 | Chicken Done | 273374 | [273374-chicken-done.json](./273374-chicken-done.json) |
 | Chicken Fall | 202648 | [202648-chicken-fall.json](./202648-chicken-fall.json) |
+| Chicken Farm 2K17 | 75924 | [75924-chicken-farm-2k17.json](./75924-chicken-farm-2k17.json) |
 | Chicken Fight | 238625 | [238625-chicken-fight.json](./238625-chicken-fight.json) |
 | Chicken Flight | 354426 | [354426-chicken-flight.json](./354426-chicken-flight.json) |
 | Chicken Fraction | 94687 | [94687-chicken-fraction.json](./94687-chicken-fraction.json) |
@@ -3506,6 +3507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Albian 2: The Wizbury School of Magic | 339644 | [339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json](./339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json) |
 | Chronicles of Albian: The Magic Convention | 232567 | [232567-chronicles-of-albian-the-magic-convention.json](./232567-chronicles-of-albian-the-magic-convention.json) |
 | Chronicles of Arcadia | 123541 | [123541-chronicles-of-arcadia.json](./123541-chronicles-of-arcadia.json) |
+| Chronicles of cyberpunk | 75931 | [75931-chronicles-of-cyberpunk.json](./75931-chronicles-of-cyberpunk.json) |
 | Chronicles of Cyberpunk: Deep Sleep | 155499 | [155499-chronicles-of-cyberpunk-deep-sleep.json](./155499-chronicles-of-cyberpunk-deep-sleep.json) |
 | Chronicles of Elyria | 58484 | [58484-chronicles-of-elyria.json](./58484-chronicles-of-elyria.json) |
 | Chronicles Of Errodean | 247740 | [247740-chronicles-of-errodean.json](./247740-chronicles-of-errodean.json) |
@@ -4617,6 +4619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobra | 12945 | [12945-cobra.json](./12945-cobra.json) |
 | Cobra | 74748 | [74748-cobra.json](./74748-cobra.json) |
 | Cobra Kai 2: Dojos Rising Nemesis Pack | 263194 | [263194-cobra-kai-2-dojos-rising-nemesis-pack.json](./263194-cobra-kai-2-dojos-rising-nemesis-pack.json) |
+| Cobra: Galaxy Nights | 75736 | [75736-cobra-galaxy-nights.json](./75736-cobra-galaxy-nights.json) |
 | Cobra: Kokuryuu Ou no Densetsu | 74749 | [74749-cobra-kokuryuu-ou-no-densetsu.json](./74749-cobra-kokuryuu-ou-no-densetsu.json) |
 | Coca-Cola Lawnmower | 329722 | [329722-coca-cola-lawnmower.json](./329722-coca-cola-lawnmower.json) |
 | Cocaine McBain | 185007 | [185007-cocaine-mcbain.json](./185007-cocaine-mcbain.json) |
