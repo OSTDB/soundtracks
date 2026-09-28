@@ -1340,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Soccer 94 | 12065 | [12065-empire-soccer-94.json](./12065-empire-soccer-94.json) |
 | Empire Warriors TD | 104587 | [104587-empire-warriors-td.json](./104587-empire-warriors-td.json) |
 | Empire Water Works | 407594 | [407594-empire-water-works.json](./407594-empire-water-works.json) |
+| Empire Z | 106738 | [106738-empire-z.json](./106738-empire-z.json) |
 | Empire: Total War - Elite Units of America | 82084 | [82084-empire-total-war-elite-units-of-america.json](./82084-empire-total-war-elite-units-of-america.json) |
 | Empire: Total War - Elite Units of the East | 82083 | [82083-empire-total-war-elite-units-of-the-east.json](./82083-empire-total-war-elite-units-of-the-east.json) |
 | Empire: Total War - Elite Units of the West | 82086 | [82086-empire-total-war-elite-units-of-the-west.json](./82086-empire-total-war-elite-units-of-the-west.json) |
