@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T07:18:29.095Z",
-  "total_missing": 134318,
+  "generated_at": "2026-09-28T07:33:25.541Z",
+  "total_missing": 134368,
   "games": [
     {
       "igdb_id": 186066,
@@ -15228,6 +15228,11 @@
       "file": "missing/A/118198-air-conflicts-double-pack.json"
     },
     {
+      "igdb_id": 99768,
+      "game_name": "Air Conflicts: Pacific Carriers - PlayStation 4 Edition",
+      "file": "missing/A/99768-air-conflicts-pacific-carriers-playstation-4-edition.json"
+    },
+    {
       "igdb_id": 3830,
       "game_name": "Air Conflicts: Secret Wars",
       "file": "missing/A/3830-air-conflicts-secret-wars.json"
@@ -17006,6 +17011,11 @@
       "igdb_id": 52591,
       "game_name": "Alawar Adventure Collection",
       "file": "missing/A/52591-alawar-adventure-collection.json"
+    },
+    {
+      "igdb_id": 99790,
+      "game_name": "Alawar Hidden Realms Bundle",
+      "file": "missing/A/99790-alawar-hidden-realms-bundle.json"
     },
     {
       "igdb_id": 135919,
@@ -30578,6 +30588,11 @@
       "file": "missing/A/287109-arcade-archives-master-of-weapon.json"
     },
     {
+      "igdb_id": 99793,
+      "game_name": "Arcade Archives: Mat Mania Exciting Hour",
+      "file": "missing/A/99793-arcade-archives-mat-mania-exciting-hour.json"
+    },
+    {
       "igdb_id": 249490,
       "game_name": "Arcade Archives: Mazinger Z",
       "file": "missing/A/249490-arcade-archives-mazinger-z.json"
@@ -30596,6 +30611,11 @@
       "igdb_id": 375404,
       "game_name": "Arcade Archives: Midnight Landing",
       "file": "missing/A/375404-arcade-archives-midnight-landing.json"
+    },
+    {
+      "igdb_id": 99763,
+      "game_name": "Arcade Archives: Mr. Goemon",
+      "file": "missing/A/99763-arcade-archives-mr-goemon.json"
     },
     {
       "igdb_id": 121427,
@@ -30656,6 +30676,11 @@
       "igdb_id": 147936,
       "game_name": "Arcade Archives: Radical Radial",
       "file": "missing/A/147936-arcade-archives-radical-radial.json"
+    },
+    {
+      "igdb_id": 99783,
+      "game_name": "Arcade Archives: Raiders5",
+      "file": "missing/A/99783-arcade-archives-raiders5.json"
     },
     {
       "igdb_id": 300731,
@@ -30781,6 +30806,11 @@
       "igdb_id": 313224,
       "game_name": "Arcade Archives: Tecmo Stackers",
       "file": "missing/A/313224-arcade-archives-tecmo-stackers.json"
+    },
+    {
+      "igdb_id": 99786,
+      "game_name": "Arcade Archives: Terra Cresta",
+      "file": "missing/A/99786-arcade-archives-terra-cresta.json"
     },
     {
       "igdb_id": 251538,
@@ -33711,6 +33741,11 @@
       "igdb_id": 84152,
       "game_name": "Armageddon Riders",
       "file": "missing/A/84152-armageddon-riders.json"
+    },
+    {
+      "igdb_id": 99803,
+      "game_name": "Armageddon Riders + Planets Under Attack Bundle",
+      "file": "missing/A/99803-armageddon-riders-planets-under-attack-bundle.json"
     },
     {
       "igdb_id": 201231,
@@ -52478,6 +52513,11 @@
       "file": "missing/B/18023-battlefield-hardline-criminal-activity.json"
     },
     {
+      "igdb_id": 99791,
+      "game_name": "Battlefield Hardline: Deluxe Edition",
+      "file": "missing/B/99791-battlefield-hardline-deluxe-edition.json"
+    },
+    {
       "igdb_id": 18025,
       "game_name": "Battlefield Hardline: Getaway",
       "file": "missing/B/18025-battlefield-hardline-getaway.json"
@@ -52761,6 +52801,11 @@
       "igdb_id": 339948,
       "game_name": "Battlers of Ekrasys",
       "file": "missing/B/339948-battlers-of-ekrasys.json"
+    },
+    {
+      "igdb_id": 99754,
+      "game_name": "Battles Ages",
+      "file": "missing/B/99754-battles-ages.json"
     },
     {
       "igdb_id": 120869,
@@ -70108,6 +70153,11 @@
       "file": "missing/B/69589-bongos-bash.json"
     },
     {
+      "igdb_id": 99770,
+      "game_name": "BongoTrip",
+      "file": "missing/B/99770-bongotrip.json"
+    },
+    {
       "igdb_id": 151617,
       "game_name": "Bonhomme 7 Heures",
       "file": "missing/B/151617-bonhomme-7-heures.json"
@@ -82936,6 +82986,11 @@
       "igdb_id": 201043,
       "game_name": "Call of Duty: Advanced Warfare - Dubbed Edition",
       "file": "missing/C/201043-call-of-duty-advanced-warfare-dubbed-edition.json"
+    },
+    {
+      "igdb_id": 99788,
+      "game_name": "Call of Duty: Advanced Warfare - Gold Edition",
+      "file": "missing/C/99788-call-of-duty-advanced-warfare-gold-edition.json"
     },
     {
       "igdb_id": 343819,
@@ -96101,6 +96156,11 @@
       "igdb_id": 94716,
       "game_name": "Chicken",
       "file": "missing/C/94716-chicken.json"
+    },
+    {
+      "igdb_id": 99769,
+      "game_name": "Chicken ~Boiled Egg~",
+      "file": "missing/C/99769-chicken-boiled-egg.json"
     },
     {
       "igdb_id": 218699,
@@ -110918,6 +110978,11 @@
       "file": "missing/C/383509-contrast.json"
     },
     {
+      "igdb_id": 99782,
+      "game_name": "Contrasted",
+      "file": "missing/C/99782-contrasted.json"
+    },
+    {
       "igdb_id": 93578,
       "game_name": "Contre Jour",
       "file": "missing/C/93578-contre-jour.json"
@@ -111656,6 +111721,11 @@
       "igdb_id": 270143,
       "game_name": "CoolPaintr VR: Voxel",
       "file": "missing/C/270143-coolpaintr-vr-voxel.json"
+    },
+    {
+      "igdb_id": 99771,
+      "game_name": "CoolPaintrVR",
+      "file": "missing/C/99771-coolpaintrvr.json"
     },
     {
       "igdb_id": 266835,
@@ -123323,6 +123393,21 @@
       "file": "missing/C/383951-cururu-whispers-of-the-forest.json"
     },
     {
+      "igdb_id": 99807,
+      "game_name": "Curve Digital PS4 Mega Bundle",
+      "file": "missing/C/99807-curve-digital-ps4-mega-bundle.json"
+    },
+    {
+      "igdb_id": 99806,
+      "game_name": "Curve Digital Triple Features - Action Pack",
+      "file": "missing/C/99806-curve-digital-triple-features-action-pack.json"
+    },
+    {
+      "igdb_id": 99805,
+      "game_name": "Curve Digital Triple Features - Adventure Pack",
+      "file": "missing/C/99805-curve-digital-triple-features-adventure-pack.json"
+    },
+    {
       "igdb_id": 63259,
       "game_name": "Curve Fever",
       "file": "missing/C/63259-curve-fever.json"
@@ -132661,6 +132746,11 @@
       "igdb_id": 47400,
       "game_name": "Dead Island: Game of the Year Edition",
       "file": "missing/D/47400-dead-island-game-of-the-year-edition.json"
+    },
+    {
+      "igdb_id": 99809,
+      "game_name": "Dead Island: Riptide - Complete Edition",
+      "file": "missing/D/99809-dead-island-riptide-complete-edition.json"
     },
     {
       "igdb_id": 223661,
@@ -151343,6 +151433,11 @@
       "file": "missing/D/397822-dont-starve-elsewhere.json"
     },
     {
+      "igdb_id": 99751,
+      "game_name": "Don't Starve Together: Console Edition",
+      "file": "missing/D/99751-dont-starve-together-console-edition.json"
+    },
+    {
       "igdb_id": 154347,
       "game_name": "Don't Starve: Console Edition",
       "file": "missing/D/154347-dont-starve-console-edition.json"
@@ -155886,6 +155981,11 @@
       "igdb_id": 269071,
       "game_name": "Dragon Ball: Xenoverse - Season Pass",
       "file": "missing/D/269071-dragon-ball-xenoverse-season-pass.json"
+    },
+    {
+      "igdb_id": 99784,
+      "game_name": "Dragon Ball: Xenoverse + GT Pack 1 Bundle",
+      "file": "missing/D/99784-dragon-ball-xenoverse-gt-pack-1-bundle.json"
     },
     {
       "igdb_id": 223592,
@@ -180928,6 +181028,11 @@
       "file": "missing/E/309691-evolve-mecha-squad.json"
     },
     {
+      "igdb_id": 99767,
+      "game_name": "Evolve: Ultimate Edition",
+      "file": "missing/E/99767-evolve-ultimate-edition.json"
+    },
+    {
       "igdb_id": 60256,
       "game_name": "Evolve! Lite",
       "file": "missing/E/60256-evolve-lite.json"
@@ -205236,6 +205341,11 @@
       "igdb_id": 160226,
       "game_name": "Fort Craft",
       "file": "missing/F/160226-fort-craft.json"
+    },
+    {
+      "igdb_id": 99792,
+      "game_name": "Fort Defense, Fort Defense North Menace & DayD Tower Rush",
+      "file": "missing/F/99792-fort-defense-fort-defense-north-menace-and-dayd-tower-rush.json"
     },
     {
       "igdb_id": 271753,
@@ -230078,6 +230188,11 @@
       "file": "missing/G/398950-grand-theft-auto-online-the-diamond-casino-heist.json"
     },
     {
+      "igdb_id": 99753,
+      "game_name": "Grand Theft Auto PS Vita Collection",
+      "file": "missing/G/99753-grand-theft-auto-ps-vita-collection.json"
+    },
+    {
       "igdb_id": 134709,
       "game_name": "Grand Theft Auto V",
       "file": "missing/G/134709-grand-theft-auto-v.json"
@@ -242801,6 +242916,11 @@
       "igdb_id": 138178,
       "game_name": "Hatsune Miku: Tap Wonder",
       "file": "missing/H/138178-hatsune-miku-tap-wonder.json"
+    },
+    {
+      "igdb_id": 99752,
+      "game_name": "Hatsune Miku: VR Future Live",
+      "file": "missing/H/99752-hatsune-miku-vr-future-live.json"
     },
     {
       "igdb_id": 120801,
@@ -275053,6 +275173,11 @@
       "file": "missing/I/406801-instant-family-fun-bundle.json"
     },
     {
+      "igdb_id": 99766,
+      "game_name": "Instant Indie Collection: Vol. 2",
+      "file": "missing/I/99766-instant-indie-collection-vol-2.json"
+    },
+    {
       "igdb_id": 269299,
       "game_name": "Instant Sports Summer + Winter",
       "file": "missing/I/269299-instant-sports-summer-winter.json"
@@ -282781,6 +282906,11 @@
       "igdb_id": 223397,
       "game_name": "Jetpack Guy",
       "file": "missing/J/223397-jetpack-guy.json"
+    },
+    {
+      "igdb_id": 99802,
+      "game_name": "Jetpack Joyride Deluxe",
+      "file": "missing/J/99802-jetpack-joyride-deluxe.json"
     },
     {
       "igdb_id": 238204,
@@ -318813,6 +318943,26 @@
       "file": "missing/L/213481-loot-luck-and-levels.json"
     },
     {
+      "igdb_id": 99750,
+      "game_name": "Loot: Action-Packed Bundle",
+      "file": "missing/L/99750-loot-action-packed-bundle.json"
+    },
+    {
+      "igdb_id": 99760,
+      "game_name": "Loot: Games & Themes Ultimate Holiday Bundle",
+      "file": "missing/L/99760-loot-games-and-themes-ultimate-holiday-bundle.json"
+    },
+    {
+      "igdb_id": 99759,
+      "game_name": "Loot: Strategy-Packed Bundle",
+      "file": "missing/L/99759-loot-strategy-packed-bundle.json"
+    },
+    {
+      "igdb_id": 99749,
+      "game_name": "Loot: Ultimate Games & Themes Bundle",
+      "file": "missing/L/99749-loot-ultimate-games-and-themes-bundle.json"
+    },
+    {
       "igdb_id": 398330,
       "game_name": "Lootale Slash",
       "file": "missing/L/398330-lootale-slash.json"
@@ -324111,6 +324261,11 @@
       "igdb_id": 356714,
       "game_name": "Luxuriant",
       "file": "missing/L/356714-luxuriant.json"
+    },
+    {
+      "igdb_id": 99808,
+      "game_name": "Luxury Fun Triple Scoop",
+      "file": "missing/L/99808-luxury-fun-triple-scoop.json"
     },
     {
       "igdb_id": 227855,
@@ -393423,6 +393578,11 @@
       "file": "missing/O/79261-one-piece-unlimited-cruise-sp2.json"
     },
     {
+      "igdb_id": 99804,
+      "game_name": "One Piece: Unlimited World Red - Prestige Edition",
+      "file": "missing/O/99804-one-piece-unlimited-world-red-prestige-edition.json"
+    },
+    {
       "igdb_id": 152911,
       "game_name": "One Piece: World Seeker Episode Pass",
       "file": "missing/O/152911-one-piece-world-seeker-episode-pass.json"
@@ -396601,6 +396761,11 @@
       "igdb_id": 30909,
       "game_name": "Organ Quarter Pre-Alpha Demo",
       "file": "missing/O/30909-organ-quarter-pre-alpha-demo.json"
+    },
+    {
+      "igdb_id": 99765,
+      "game_name": "Organ Trail: Complete Edition",
+      "file": "missing/O/99765-organ-trail-complete-edition.json"
     },
     {
       "igdb_id": 6859,
@@ -412141,6 +412306,11 @@
       "igdb_id": 7130,
       "game_name": "Phantom Breaker",
       "file": "missing/P/7130-phantom-breaker.json"
+    },
+    {
+      "igdb_id": 99779,
+      "game_name": "Phantom breaker battle grounds over drive",
+      "file": "missing/P/99779-phantom-breaker-battle-grounds-over-drive.json"
     },
     {
       "igdb_id": 319268,
@@ -431568,6 +431738,11 @@
       "file": "missing/P/222502-prison-architect-nintendo-switch-edition-bundle.json"
     },
     {
+      "igdb_id": 99758,
+      "game_name": "Prison Architect: PlayStation 4 Edition",
+      "file": "missing/P/99758-prison-architect-playstation-4-edition.json"
+    },
+    {
       "igdb_id": 148526,
       "game_name": "Prison Architect: Psych Ward - Warden's Edition",
       "file": "missing/P/148526-prison-architect-psych-ward-wardens-edition.json"
@@ -435696,6 +435871,11 @@
       "igdb_id": 193429,
       "game_name": "Prototype Blocks 2",
       "file": "missing/P/193429-prototype-blocks-2.json"
+    },
+    {
+      "igdb_id": 99787,
+      "game_name": "Prototype Franchise Pack",
+      "file": "missing/P/99787-prototype-franchise-pack.json"
     },
     {
       "igdb_id": 271192,
@@ -455088,6 +455268,11 @@
       "file": "missing/R/216349-resident-evil-during-the-storm.json"
     },
     {
+      "igdb_id": 99798,
+      "game_name": "Resident Evil: Franchise Pack",
+      "file": "missing/R/99798-resident-evil-franchise-pack.json"
+    },
+    {
       "igdb_id": 298036,
       "game_name": "Resident Evil: Grim Beginnings",
       "file": "missing/R/298036-resident-evil-grim-beginnings.json"
@@ -465376,6 +465561,11 @@
       "igdb_id": 228366,
       "game_name": "Rolldown",
       "file": "missing/R/228366-rolldown.json"
+    },
+    {
+      "igdb_id": 99776,
+      "game_name": "Roller",
+      "file": "missing/R/99776-roller.json"
     },
     {
       "igdb_id": 84847,
@@ -513313,6 +513503,11 @@
       "file": "missing/S/290505-space-drop.json"
     },
     {
+      "igdb_id": 99773,
+      "game_name": "Space Drop",
+      "file": "missing/S/99773-space-drop.json"
+    },
+    {
       "igdb_id": 199658,
       "game_name": "Space Ducks: The Great Escape",
       "file": "missing/S/199658-space-ducks-the-great-escape.json"
@@ -524263,6 +524458,11 @@
       "file": "missing/S/299475-star-wars-outlaws-ultimate-edition.json"
     },
     {
+      "igdb_id": 99757,
+      "game_name": "Star Wars Pinball Season 1 Bundle",
+      "file": "missing/S/99757-star-wars-pinball-season-1-bundle.json"
+    },
+    {
       "igdb_id": 75088,
       "game_name": "Star Wars: Battle of the Sith Lords",
       "file": "missing/S/75088-star-wars-battle-of-the-sith-lords.json"
@@ -524626,6 +524826,11 @@
       "igdb_id": 219022,
       "game_name": "Star Wars: The Return of the Jedi",
       "file": "missing/S/219022-star-wars-the-return-of-the-jedi.json"
+    },
+    {
+      "igdb_id": 99756,
+      "game_name": "Star Wars: Throwback Pack",
+      "file": "missing/S/99756-star-wars-throwback-pack.json"
     },
     {
       "igdb_id": 167,
@@ -546888,6 +547093,11 @@
       "file": "missing/S/165027-sweet-love.json"
     },
     {
+      "igdb_id": 99774,
+      "game_name": "Sweet Magic Madness",
+      "file": "missing/S/99774-sweet-magic-madness.json"
+    },
+    {
       "igdb_id": 339453,
       "game_name": "Sweet Massage",
       "file": "missing/S/339453-sweet-massage.json"
@@ -562068,6 +562278,11 @@
       "file": "missing/T/83901-the-amazing-spider-man-2.json"
     },
     {
+      "igdb_id": 99796,
+      "game_name": "The Amazing Spider-Man Franchise Pack",
+      "file": "missing/T/99796-the-amazing-spider-man-franchise-pack.json"
+    },
+    {
       "igdb_id": 220113,
       "game_name": "The Amazing Spider-Man in the Villain Round-Up",
       "file": "missing/T/220113-the-amazing-spider-man-in-the-villain-round-up.json"
@@ -565511,6 +565726,11 @@
       "igdb_id": 101502,
       "game_name": "The Code: Room Escape",
       "file": "missing/T/101502-the-code-room-escape.json"
+    },
+    {
+      "igdb_id": 99761,
+      "game_name": "The Codemasters 'Full Tilt' Racing Bundle",
+      "file": "missing/T/99761-the-codemasters-full-tilt-racing-bundle.json"
     },
     {
       "igdb_id": 360658,
@@ -571748,6 +571968,11 @@
       "file": "missing/T/55835-the-great-race.json"
     },
     {
+      "igdb_id": 99775,
+      "game_name": "The Great Race",
+      "file": "missing/T/99775-the-great-race.json"
+    },
+    {
       "igdb_id": 290012,
       "game_name": "The Great Rebellion",
       "file": "missing/T/290012-the-great-rebellion.json"
@@ -571881,6 +572106,11 @@
       "igdb_id": 271852,
       "game_name": "The Grinding of Teeth",
       "file": "missing/T/271852-the-grinding-of-teeth.json"
+    },
+    {
+      "igdb_id": 99795,
+      "game_name": "The Grip Games PS Vita Collection",
+      "file": "missing/T/99795-the-grip-games-ps-vita-collection.json"
     },
     {
       "igdb_id": 215744,
@@ -578531,6 +578761,11 @@
       "igdb_id": 70948,
       "game_name": "The Magic Candle III",
       "file": "missing/T/70948-the-magic-candle-iii.json"
+    },
+    {
+      "igdb_id": 99755,
+      "game_name": "The Magic Circle: Gold Edition",
+      "file": "missing/T/99755-the-magic-circle-gold-edition.json"
     },
     {
       "igdb_id": 320545,
@@ -587196,6 +587431,11 @@
       "igdb_id": 135833,
       "game_name": "The Teletransport Smurf",
       "file": "missing/T/135833-the-teletransport-smurf.json"
+    },
+    {
+      "igdb_id": 99799,
+      "game_name": "The Telltale Games Collection",
+      "file": "missing/T/99799-the-telltale-games-collection.json"
     },
     {
       "igdb_id": 179663,
@@ -613796,6 +614036,11 @@
       "igdb_id": 215213,
       "game_name": "Transformers Beyond Reality",
       "file": "missing/T/215213-transformers-beyond-reality.json"
+    },
+    {
+      "igdb_id": 99794,
+      "game_name": "Transformers Franchise Pack",
+      "file": "missing/T/99794-transformers-franchise-pack.json"
     },
     {
       "igdb_id": 315069,
@@ -666531,6 +666776,11 @@
       "igdb_id": 199903,
       "game_name": "Z.O.N.A: Shadow of Limansk Redux",
       "file": "missing/Z/199903-z-o-n-a-shadow-of-limansk-redux.json"
+    },
+    {
+      "igdb_id": 99772,
+      "game_name": "Z.W!",
+      "file": "missing/Z/99772-z-w.json"
     },
     {
       "igdb_id": 30782,
