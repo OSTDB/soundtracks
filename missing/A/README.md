@@ -1131,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advance Wars | 236813 | [236813-advance-wars.json](./236813-advance-wars.json) |
 | Advance Wars 2: Black Hole Rising | 236815 | [236815-advance-wars-2-black-hole-rising.json](./236815-advance-wars-2-black-hole-rising.json) |
 | Advance, Fish! | 379476 | [379476-advance-fish.json](./379476-advance-fish.json) |
+| Advanced Circuits | 84973 | [84973-advanced-circuits.json](./84973-advanced-circuits.json) |
 | Advanced Daisenryaku 2001 | 60805 | [60805-advanced-daisenryaku-2001.json](./60805-advanced-daisenryaku-2001.json) |
 | Advanced Daisenryaku 2001 Power Up Kit | 413920 | [413920-advanced-daisenryaku-2001-power-up-kit.json](./413920-advanced-daisenryaku-2001-power-up-kit.json) |
 | Advanced Daisenryaku 2001 with Power Up Kit | 413923 | [413923-advanced-daisenryaku-2001-with-power-up-kit.json](./413923-advanced-daisenryaku-2001-with-power-up-kit.json) |
@@ -1211,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure II | 305183 | [305183-adventure-ii.json](./305183-adventure-ii.json) |
 | Adventure In Aellion | 117691 | [117691-adventure-in-aellion.json](./117691-adventure-in-aellion.json) |
 | Adventure in My Head | 192945 | [192945-adventure-in-my-head.json](./192945-adventure-in-my-head.json) |
+| Adventure In Vegas: Slot Machine | 84974 | [84974-adventure-in-vegas-slot-machine.json](./84974-adventure-in-vegas-slot-machine.json) |
 | Adventure in XX City 2: Finding BB | 314411 | [314411-adventure-in-xx-city-2-finding-bb.json](./314411-adventure-in-xx-city-2-finding-bb.json) |
 | Adventure Inlay: Safari Edition | 52550 | [52550-adventure-inlay-safari-edition.json](./52550-adventure-inlay-safari-edition.json) |
 | Adventure Island II | 6471 | [6471-adventure-island-ii.json](./6471-adventure-island-ii.json) |
@@ -5510,6 +5512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armageddon | 45337 | [45337-armageddon.json](./45337-armageddon.json) |
 | Armageddon 2 | 271199 | [271199-armageddon-2.json](./271199-armageddon-2.json) |
 | Armageddon Margaret | 317021 | [317021-armageddon-margaret.json](./317021-armageddon-margaret.json) |
+| Armageddon Operation Dragon | 84978 | [84978-armageddon-operation-dragon.json](./84978-armageddon-operation-dragon.json) |
 | Armageddon Riders | 84152 | [84152-armageddon-riders.json](./84152-armageddon-riders.json) |
 | Armageddon Riders + Planets Under Attack Bundle | 99803 | [99803-armageddon-riders-planets-under-attack-bundle.json](./99803-armageddon-riders-planets-under-attack-bundle.json) |
 | ArmageDoom | 201231 | [201231-armagedoom.json](./201231-armagedoom.json) |
@@ -5804,6 +5807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artillery Cats | 102926 | [102926-artillery-cats.json](./102926-artillery-cats.json) |
 | Artillery Duel | 12241 | [12241-artillery-duel.json](./12241-artillery-duel.json) |
 | Artillery Royale | 145532 | [145532-artillery-royale.json](./145532-artillery-royale.json) |
+| Artillery: Knights vs. Orcs | 84975 | [84975-artillery-knights-vs-orcs.json](./84975-artillery-knights-vs-orcs.json) |
 | Artisan | 190096 | [190096-artisan.json](./190096-artisan.json) |
 | Artisan Story | 260215 | [260215-artisan-story.json](./260215-artisan-story.json) |
 | Artist Colony | 23284 | [23284-artist-colony.json](./23284-artist-colony.json) |
@@ -7071,6 +7075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AV Pachinko | 242089 | [242089-av-pachinko.json](./242089-av-pachinko.json) |
 | Ava | 119569 | [119569-ava.json](./119569-ava.json) |
 | AVA | 367997 | [367997-ava.json](./367997-ava.json) |
+| Ava and Avior Save the Earth | 84979 | [84979-ava-and-avior-save-the-earth.json](./84979-ava-and-avior-save-the-earth.json) |
 | Ava and the Half-World | 303268 | [303268-ava-and-the-half-world.json](./303268-ava-and-the-half-world.json) |
 | Ava's Adventure | 258693 | [258693-avas-adventure.json](./258693-avas-adventure.json) |
 | Ava's Variations | 384670 | [384670-avas-variations.json](./384670-avas-variations.json) |
