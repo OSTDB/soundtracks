@@ -1636,6 +1636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Inside?? | 149467 | [149467-whats-inside.json](./149467-whats-inside.json) |
 | What's Michael? | 91763 | [91763-whats-michael.json](./91763-whats-michael.json) |
 | What's Missing? | 204981 | [204981-whats-missing.json](./204981-whats-missing.json) |
+| What's My Gender? | 102349 | [102349-whats-my-gender.json](./102349-whats-my-gender.json) |
 | What's on Agenda | 302508 | [302508-whats-on-agenda.json](./302508-whats-on-agenda.json) |
 | What's Outside | 278729 | [278729-whats-outside.json](./278729-whats-outside.json) |
 | What's Shenmue? | 93595 | [93595-whats-shenmue.json](./93595-whats-shenmue.json) |
@@ -3871,6 +3872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestle Story | 244509 | [244509-wrestle-story.json](./244509-wrestle-story.json) |
 | Wrestledunk Sports | 153361 | [153361-wrestledunk-sports.json](./153361-wrestledunk-sports.json) |
 | Wrestler Rush | 302419 | [302419-wrestler-rush.json](./302419-wrestler-rush.json) |
+| Wrestlers Without Boundaries | 102356 | [102356-wrestlers-without-boundaries.json](./102356-wrestlers-without-boundaries.json) |
 | Wrestling Empire | 142449 | [142449-wrestling-empire.json](./142449-wrestling-empire.json) |
 | Wrestling Empire Forever | 270163 | [270163-wrestling-empire-forever.json](./270163-wrestling-empire-forever.json) |
 | Wrestling Revolution 2D | 76990 | [76990-wrestling-revolution-2d.json](./76990-wrestling-revolution-2d.json) |
