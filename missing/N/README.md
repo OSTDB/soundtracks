@@ -1577,6 +1577,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newspaper Puzzle Challenge: Sudoku Edition | 210035 | [210035-newspaper-puzzle-challenge-sudoku-edition.json](./210035-newspaper-puzzle-challenge-sudoku-edition.json) |
 | Newsun | 324519 | [324519-newsun.json](./324519-newsun.json) |
 | Newton Going Home | 187388 | [187388-newton-going-home.json](./187388-newton-going-home.json) |
+| Newton Museum - Kyouryuu Nendaiki Zenpen | 63961 | [63961-newton-museum-kyouryuu-nendaiki-zenpen.json](./63961-newton-museum-kyouryuu-nendaiki-zenpen.json) |
+| Newton Museum: Kyouryuu Nendaiki Kouhen | 63960 | [63960-newton-museum-kyouryuu-nendaiki-kouhen.json](./63960-newton-museum-kyouryuu-nendaiki-kouhen.json) |
 | Newton's Axiom | 178975 | [178975-newtons-axiom.json](./178975-newtons-axiom.json) |
 | Newton's House of Forces | 163948 | [163948-newtons-house-of-forces.json](./163948-newtons-house-of-forces.json) |
 | Newton's Promise | 388246 | [388246-newtons-promise.json](./388246-newtons-promise.json) |
@@ -2388,6 +2390,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintama Rantarou GB | 138095 | [138095-nintama-rantarou-gb.json](./138095-nintama-rantarou-gb.json) |
 | Nintama Rantarou GB: E-awase Challenge Puzzle | 97862 | [97862-nintama-rantarou-gb-e-awase-challenge-puzzle.json](./97862-nintama-rantarou-gb-e-awase-challenge-puzzle.json) |
 | Nintama Rantarou Mugen no Tsubo Daibousou no Dan | 227251 | [227251-nintama-rantarou-mugen-no-tsubo-daibousou-no-dan.json](./227251-nintama-rantarou-mugen-no-tsubo-daibousou-no-dan.json) |
+| Nintama Rantarou: Gungun Nobiru Chinou-hen | 63943 | [63943-nintama-rantarou-gungun-nobiru-chinou-hen.json](./63943-nintama-rantarou-gungun-nobiru-chinou-hen.json) |
+| Nintama Rantarou: Hajimete Oboeru Chishiki-hen | 63937 | [63937-nintama-rantarou-hajimete-oboeru-chishiki-hen.json](./63937-nintama-rantarou-hajimete-oboeru-chishiki-hen.json) |
 | Nintendo 3DS Sound: Soccer | 250320 | [250320-nintendo-3ds-sound-soccer.json](./250320-nintendo-3ds-sound-soccer.json) |
 | Nintendo Adventure Books 3: Monster Mix-Up | 270387 | [270387-nintendo-adventure-books-3-monster-mix-up.json](./270387-nintendo-adventure-books-3-monster-mix-up.json) |
 | Nintendo Campus Challenge 1991 | 94180 | [94180-nintendo-campus-challenge-1991.json](./94180-nintendo-campus-challenge-1991.json) |
@@ -2940,6 +2944,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norfolk Warriors | 116127 | [116127-norfolk-warriors.json](./116127-norfolk-warriors.json) |
 | Nori Danshi!! | 295929 | [295929-nori-danshi.json](./295929-nori-danshi.json) |
 | Norilsk | 95602 | [95602-norilsk.json](./95602-norilsk.json) |
+| Norimono Banzai!!: Densha Daishuugou!! | 63956 | [63956-norimono-banzai-densha-daishuugou.json](./63956-norimono-banzai-densha-daishuugou.json) |
+| Norimono Banzai!!: Kuruma Daishuugou!! | 63957 | [63957-norimono-banzai-kuruma-daishuugou.json](./63957-norimono-banzai-kuruma-daishuugou.json) |
 | Norm Koger's: The Operational Art of War III | 69928 | [69928-norm-kogers-the-operational-art-of-war-iii.json](./69928-norm-kogers-the-operational-art-of-war-iii.json) |
 | Norma | 330252 | [330252-norma.json](./330252-norma.json) |
 | Normal Adult Human Person | 216173 | [216173-normal-adult-human-person.json](./216173-normal-adult-human-person.json) |
