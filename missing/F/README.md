@@ -4228,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever Lost: Episode 1 SD | 101071 | [101071-forever-lost-episode-1-sd.json](./101071-forever-lost-episode-1-sd.json) |
 | Forever Lost: Episode 2 SD | 100336 | [100336-forever-lost-episode-2-sd.json](./100336-forever-lost-episode-2-sd.json) |
 | Forever Quester | 243957 | [243957-forever-quester.json](./243957-forever-quester.json) |
+| Forever Space | 89366 | [89366-forever-space.json](./89366-forever-space.json) |
 | Forever Time | 342751 | [342751-forever-time.json](./342751-forever-time.json) |
 | Forever War | 119011 | [119011-forever-war.json](./119011-forever-war.json) |
 | Forever With You | 381033 | [381033-forever-with-you.json](./381033-forever-with-you.json) |
@@ -5919,6 +5920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FuryDough | 300675 | [300675-furydough.json](./300675-furydough.json) |
 | FuryFury | 234910 | [234910-furyfury.json](./234910-furyfury.json) |
 | Fuse | 381030 | [381030-fuse.json](./381030-fuse.json) |
+| Fuse Balls | 89416 | [89416-fuse-balls.json](./89416-fuse-balls.json) |
 | Fuse The Bomb | 329088 | [329088-fuse-the-bomb.json](./329088-fuse-the-bomb.json) |
 | Fuser: VIP Edition | 139827 | [139827-fuser-vip-edition.json](./139827-fuser-vip-edition.json) |
 | FuSha: Overnight Stay | 366292 | [366292-fusha-overnight-stay.json](./366292-fusha-overnight-stay.json) |
