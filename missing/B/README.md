@@ -4045,6 +4045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster | 38540 | [38540-blaster.json](./38540-blaster.json) |
 | Blaster Bunny + | 135014 | [135014-blaster-bunny.json](./135014-blaster-bunny.json) |
 | Blaster Cop | 68759 | [68759-blaster-cop.json](./68759-blaster-cop.json) |
+| Blaster Lilo | 113868 | [113868-blaster-lilo.json](./113868-blaster-lilo.json) |
 | Blaster Master Zero 2: Kanna Raising Simulator | 168165 | [168165-blaster-master-zero-2-kanna-raising-simulator.json](./168165-blaster-master-zero-2-kanna-raising-simulator.json) |
 | Blaster Master Zero II | 116416 | [116416-blaster-master-zero-ii.json](./116416-blaster-master-zero-ii.json) |
 | Blaster Master: Enemy Below | 49840 | [49840-blaster-master-enemy-below.json](./49840-blaster-master-enemy-below.json) |
@@ -4550,6 +4551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood II: The Chosen - The Nightmare Levels | 95451 | [95451-blood-ii-the-chosen-the-nightmare-levels.json](./95451-blood-ii-the-chosen-the-nightmare-levels.json) |
 | Blood in Baldur's Gate | 274016 | [274016-blood-in-baldurs-gate.json](./274016-blood-in-baldurs-gate.json) |
 | Blood in the Panopticon | 395552 | [395552-blood-in-the-panopticon.json](./395552-blood-in-the-panopticon.json) |
+| Blood Island | 113898 | [113898-blood-island.json](./113898-blood-island.json) |
 | Blood Island | 227916 | [227916-blood-island.json](./227916-blood-island.json) |
 | Blood Kiss | 146247 | [146247-blood-kiss.json](./146247-blood-kiss.json) |
 | Blood Knights | 8421 | [8421-blood-knights.json](./8421-blood-knights.json) |
