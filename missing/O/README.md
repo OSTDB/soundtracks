@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off the Record: The Final Interview Collector's Edition | 102186 | [102186-off-the-record-the-final-interview-collectors-edition.json](./102186-off-the-record-the-final-interview-collectors-edition.json) |
 | Off the Record: The Italian Affair | 98408 | [98408-off-the-record-the-italian-affair.json](./98408-off-the-record-the-italian-affair.json) |
 | Off the Record: The Linden Shades | 98410 | [98410-off-the-record-the-linden-shades.json](./98410-off-the-record-the-linden-shades.json) |
+| Off the Road | 106749 | [106749-off-the-road.json](./106749-off-the-road.json) |
 | Off the Shelf! | 339649 | [339649-off-the-shelf.json](./339649-off-the-shelf.json) |
 | Off the Table | 174327 | [174327-off-the-table.json](./174327-off-the-table.json) |
 | Off the Text | 372680 | [372680-off-the-text.json](./372680-off-the-text.json) |
