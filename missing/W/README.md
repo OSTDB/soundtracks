@@ -1497,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Alien Train | 308361 | [308361-west-alien-train.json](./308361-west-alien-train.json) |
 | West Falls | 131562 | [131562-west-falls.json](./131562-west-falls.json) |
 | West Fantasy | 220750 | [220750-west-fantasy.json](./220750-west-fantasy.json) |
+| West Front | 72145 | [72145-west-front.json](./72145-west-front.json) |
 | West Game | 199076 | [199076-west-game.json](./199076-west-game.json) |
 | West Hunt: Halloween Pack2 | 273670 | [273670-west-hunt-halloween-pack2.json](./273670-west-hunt-halloween-pack2.json) |
 | West Journey | 338384 | [338384-west-journey.json](./338384-west-journey.json) |
@@ -3461,6 +3462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Heroes Anthology | 20993 | [20993-world-heroes-anthology.json](./20993-world-heroes-anthology.json) |
 | World Heroes Perfect | 46779 | [46779-world-heroes-perfect.json](./46779-world-heroes-perfect.json) |
 | World Heroes Supreme Justice Extra | 358960 | [358960-world-heroes-supreme-justice-extra.json](./358960-world-heroes-supreme-justice-extra.json) |
+| World History Quiz: Cavemen to Democracy | 72180 | [72180-world-history-quiz-cavemen-to-democracy.json](./72180-world-history-quiz-cavemen-to-democracy.json) |
 | World in Conflict: Soviet Assault | 9338 | [9338-world-in-conflict-soviet-assault.json](./9338-world-in-conflict-soviet-assault.json) |
 | World is Lava | 376713 | [376713-world-is-lava.json](./376713-world-is-lava.json) |
 | World Karate Championship | 79620 | [79620-world-karate-championship.json](./79620-world-karate-championship.json) |
@@ -4100,6 +4102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWII Tanks Battle: World War 2 Heroes Troopers Machines Sim | 274520 | [274520-wwii-tanks-battle-world-war-2-heroes-troopers-machines-sim.json](./274520-wwii-tanks-battle-world-war-2-heroes-troopers-machines-sim.json) |
 | WWII Tanks: Battlefield | 195634 | [195634-wwii-tanks-battlefield.json](./195634-wwii-tanks-battlefield.json) |
 | WWII Tanks: Forgotten Battles | 215657 | [215657-wwii-tanks-forgotten-battles.json](./215657-wwii-tanks-forgotten-battles.json) |
+| WWII: 1946 | 72154 | [72154-wwii-1946.json](./72154-wwii-1946.json) |
 | WWII: Battle Over Europe | 144311 | [144311-wwii-battle-over-europe.json](./144311-wwii-battle-over-europe.json) |
 | WWII: Battle Over the Pacific | 9391 | [9391-wwii-battle-over-the-pacific.json](./9391-wwii-battle-over-the-pacific.json) |
 | WWII: Battles of the South Pacific | 98945 | [98945-wwii-battles-of-the-south-pacific.json](./98945-wwii-battles-of-the-south-pacific.json) |
