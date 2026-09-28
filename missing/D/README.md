@@ -2872,6 +2872,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Day | 356288 | [356288-derby-day.json](./356288-derby-day.json) |
 | Derby Heroines: Run, Bet, Win! | 412502 | [412502-derby-heroines-run-bet-win.json](./412502-derby-heroines-run-bet-win.json) |
 | Derby Life: Ranch & Race | 415104 | [415104-derby-life-ranch-and-race.json](./415104-derby-life-ranch-and-race.json) |
+| Derby Owners Club 2 | 68102 | [68102-derby-owners-club-2.json](./68102-derby-owners-club-2.json) |
+| Derby Owners Club 2000 | 68117 | [68117-derby-owners-club-2000.json](./68117-derby-owners-club-2000.json) |
+| Derby Owners Club: World Edition-EX | 68103 | [68103-derby-owners-club-world-edition-ex.json](./68103-derby-owners-club-world-edition-ex.json) |
 | Derby Quest: Horse Manager HD | 246429 | [246429-derby-quest-horse-manager-hd.json](./246429-derby-quest-horse-manager-hd.json) |
 | Derby Stallion | 137021 | [137021-derby-stallion.json](./137021-derby-stallion.json) |
 | Derby Stallion (Tentative Title) | 85565 | [85565-derby-stallion-tentative-title.json](./85565-derby-stallion-tentative-title.json) |
@@ -4532,6 +4535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | District Panic | 295387 | [295387-district-panic.json](./295387-district-panic.json) |
 | District Steel | 28912 | [28912-district-steel.json](./28912-district-steel.json) |
 | District VR | 285560 | [285560-district-vr.json](./285560-district-vr.json) |
+| District Wars | 68090 | [68090-district-wars.json](./68090-district-wars.json) |
 | District: Evolution | 328550 | [328550-district-evolution.json](./328550-district-evolution.json) |
 | DistroCards | 392807 | [392807-distrocards.json](./392807-distrocards.json) |
 | Disturbed 2 | 28904 | [28904-disturbed-2.json](./28904-disturbed-2.json) |
