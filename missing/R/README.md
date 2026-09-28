@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Playground Sandbox | 392261 | [392261-ragdoll-playground-sandbox.json](./392261-ragdoll-playground-sandbox.json) |
 | Ragdoll Rumble | 318990 | [318990-ragdoll-rumble.json](./318990-ragdoll-rumble.json) |
 | Ragdoll Toss | 179124 | [179124-ragdoll-toss.json](./179124-ragdoll-toss.json) |
+| RagDollJoe | 115788 | [115788-ragdolljoe.json](./115788-ragdolljoe.json) |
 | Ragdolls Playground: The Sandbox | 188908 | [188908-ragdolls-playground-the-sandbox.json](./188908-ragdolls-playground-the-sandbox.json) |
 | Rage 2 | 101211 | [101211-rage-2.json](./101211-rage-2.json) |
 | Rage District: Humanity Armageddon | 406800 | [406800-rage-district-humanity-armageddon.json](./406800-rage-district-humanity-armageddon.json) |
