@@ -4596,6 +4596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Coaster 3D | 88492 | [88492-roller-coaster-3d.json](./88492-roller-coaster-3d.json) |
 | Roller Coaster Apocalypse VR | 96876 | [96876-roller-coaster-apocalypse-vr.json](./96876-roller-coaster-apocalypse-vr.json) |
 | Roller Coaster Factory | 209003 | [209003-roller-coaster-factory.json](./209003-roller-coaster-factory.json) |
+| Roller Coaster Factory 2 | 69943 | [69943-roller-coaster-factory-2.json](./69943-roller-coaster-factory-2.json) |
 | Roller Coaster Factory 3 | 209004 | [209004-roller-coaster-factory-3.json](./209004-roller-coaster-factory-3.json) |
 | Roller Coaster Funfare | 94009 | [94009-roller-coaster-funfare.json](./94009-roller-coaster-funfare.json) |
 | Roller Coaster Mania | 144896 | [144896-roller-coaster-mania.json](./144896-roller-coaster-mania.json) |
