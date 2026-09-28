@@ -885,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rashlander | 116832 | [116832-rashlander.json](./116832-rashlander.json) |
 | Rashomon of Shinjuku | 225314 | [225314-rashomon-of-shinjuku.json](./225314-rashomon-of-shinjuku.json) |
 | Raskopnik: The Trench Warrior | 186766 | [186766-raskopnik-the-trench-warrior.json](./186766-raskopnik-the-trench-warrior.json) |
+| Rasmus Klump i Pingonesien | 118914 | [118914-rasmus-klump-i-pingonesien.json](./118914-rasmus-klump-i-pingonesien.json) |
 | Rasmus Klump som landpost | 91454 | [91454-rasmus-klump-som-landpost.json](./91454-rasmus-klump-som-landpost.json) |
 | Rasmus Klump: Fnullers Isbod | 286120 | [286120-rasmus-klump-fnullers-isbod.json](./286120-rasmus-klump-fnullers-isbod.json) |
 | Rasmus Klump: Holder Fødselsdag | 286118 | [286118-rasmus-klump-holder-f-dselsdag.json](./286118-rasmus-klump-holder-f-dselsdag.json) |
@@ -4009,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band VR | 26988 | [26988-rock-band-vr.json](./26988-rock-band-vr.json) |
 | Rock Band: Metal Track Pack | 67778 | [67778-rock-band-metal-track-pack.json](./67778-rock-band-metal-track-pack.json) |
 | Rock Boshers DX: Director's Cut | 23224 | [23224-rock-boshers-dx-directors-cut.json](./23224-rock-boshers-dx-directors-cut.json) |
+| Rock Boshers DX: Ultra Bundle | 119082 | [119082-rock-boshers-dx-ultra-bundle.json](./119082-rock-boshers-dx-ultra-bundle.json) |
 | Rock Bottom | 141856 | [141856-rock-bottom.json](./141856-rock-bottom.json) |
 | Rock Bottom | 304339 | [304339-rock-bottom.json](./304339-rock-bottom.json) |
 | Rock Climber | 40421 | [40421-rock-climber.json](./40421-rock-climber.json) |
@@ -4022,6 +4024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Life: The Rock Simulator - Rock Pack #2 | 286527 | [286527-rock-life-the-rock-simulator-rock-pack-2.json](./286527-rock-life-the-rock-simulator-rock-pack-2.json) |
 | Rock Life: The Rock Simulator - Rock Pack #3 | 302941 | [302941-rock-life-the-rock-simulator-rock-pack-3.json](./302941-rock-life-the-rock-simulator-rock-pack-3.json) |
 | Rock n' Roll Racing Hack v16 | 270219 | [270219-rock-n-roll-racing-hack-v16.json](./270219-rock-n-roll-racing-hack-v16.json) |
+| Rock of Ages 2: Complete Bundle | 118905 | [118905-rock-of-ages-2-complete-bundle.json](./118905-rock-of-ages-2-complete-bundle.json) |
 | Rock of Ages 3: Make & Break | 121714 | [121714-rock-of-ages-3-make-and-break.json](./121714-rock-of-ages-3-make-and-break.json) |
 | Rock of Destruction! | 104114 | [104114-rock-of-destruction.json](./104114-rock-of-destruction.json) |
 | Rock of the Dead | 7163 | [7163-rock-of-the-dead.json](./7163-rock-of-the-dead.json) |
