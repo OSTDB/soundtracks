@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zì Xī Cú Dōng | 163846 | [163846-zi-xi-cu-dong.json](./163846-zi-xi-cu-dong.json) |
 | Zi´s Mansion | 418744 | [418744-zi-s-mansion.json](./418744-zi-s-mansion.json) |
 | Ziba | 22360 | [22360-ziba.json](./22360-ziba.json) |
+| Zibbs: Alien Survival | 113842 | [113842-zibbs-alien-survival.json](./113842-zibbs-alien-survival.json) |
 | Zidane: Football Generation 2002 | 49351 | [49351-zidane-football-generation-2002.json](./49351-zidane-football-generation-2002.json) |
 | Zig | 96695 | [96695-zig.json](./96695-zig.json) |
 | Zig Zag Game | 88216 | [88216-zig-zag-game.json](./88216-zig-zag-game.json) |
