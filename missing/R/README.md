@@ -2965,6 +2965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reynatis: Deluxe Edition | 288187 | [288187-reynatis-deluxe-edition.json](./288187-reynatis-deluxe-edition.json) |
 | Reytrieve Odyssey | 347682 | [347682-reytrieve-odyssey.json](./347682-reytrieve-odyssey.json) |
 | Rez | 11244 | [11244-rez.json](./11244-rez.json) |
+| Rez HD | 84308 | [84308-rez-hd.json](./84308-rez-hd.json) |
 | Rez Infinite | 19746 | [19746-rez-infinite.json](./19746-rez-infinite.json) |
 | Rezel Cross | 64955 | [64955-rezel-cross.json](./64955-rezel-cross.json) |
 | Rezident Evil: It Is Escape | 260137 | [260137-rezident-evil-it-is-escape.json](./260137-rezident-evil-it-is-escape.json) |
@@ -4264,6 +4265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman No Constancy | 48027 | [48027-rockman-no-constancy.json](./48027-rockman-no-constancy.json) |
 | Rockman No Constancy: Hard Mode | 269870 | [269870-rockman-no-constancy-hard-mode.json](./269870-rockman-no-constancy-hard-mode.json) |
 | Rockman Online | 66610 | [66610-rockman-online.json](./66610-rockman-online.json) |
+| Rockman Strategy | 84307 | [84307-rockman-strategy.json](./84307-rockman-strategy.json) |
 | Rockman The Puzzle Battle | 290956 | [290956-rockman-the-puzzle-battle.json](./290956-rockman-the-puzzle-battle.json) |
 | RockMan VII: Showdown of Destiny! | 42550 | [42550-rockman-vii-showdown-of-destiny.json](./42550-rockman-vii-showdown-of-destiny.json) |
 | Rockman X: New Year 2023 | 282079 | [282079-rockman-x-new-year-2023.json](./282079-rockman-x-new-year-2023.json) |
@@ -5119,6 +5121,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royelles - Gaming For Girls | 255629 | [255629-royelles-gaming-for-girls.json](./255629-royelles-gaming-for-girls.json) |
 | Rozalin and the Palace of Flowers | 150669 | [150669-rozalin-and-the-palace-of-flowers.json](./150669-rozalin-and-the-palace-of-flowers.json) |
 | Rozen Maiden AliBat: Record of Rozen War | 124736 | [124736-rozen-maiden-alibat-record-of-rozen-war.json](./124736-rozen-maiden-alibat-record-of-rozen-war.json) |
+| Rozen Maiden: Duellwalzer | 84311 | [84311-rozen-maiden-duellwalzer.json](./84311-rozen-maiden-duellwalzer.json) |
+| Rozen Maiden: Gebetgarten | 84310 | [84310-rozen-maiden-gebetgarten.json](./84310-rozen-maiden-gebetgarten.json) |
 | Rozen Maiden: Wechseln Sie Welt ab | 86091 | [86091-rozen-maiden-wechseln-sie-welt-ab.json](./86091-rozen-maiden-wechseln-sie-welt-ab.json) |
 | RozenDiadem | 213909 | [213909-rozendiadem.json](./213909-rozendiadem.json) |
 | RPaints | 91727 | [91727-rpaints.json](./91727-rpaints.json) |
