@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oik 5: DLC | 171626 | [171626-oik-5-dlc.json](./171626-oik-5-dlc.json) |
 | Oik Memory | 81155 | [81155-oik-memory.json](./81155-oik-memory.json) |
 | Oik Memory 3 | 114976 | [114976-oik-memory-3.json](./114976-oik-memory-3.json) |
+| Oik Reloaded | 115809 | [115809-oik-reloaded.json](./115809-oik-reloaded.json) |
 | Oika | 120848 | [120848-oika.json](./120848-oika.json) |
 | Oil Baron | 366254 | [366254-oil-baron.json](./366254-oil-baron.json) |
 | Oil Drill | 22364 | [22364-oil-drill.json](./22364-oil-drill.json) |
@@ -1485,6 +1486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenHV | 184413 | [184413-openhv.json](./184413-openhv.json) |
 | Opening Night | 68975 | [68975-opening-night.json](./68975-opening-night.json) |
 | Opening Night at the Großen Schauspielhaus: Berlin 1927 | 171409 | [171409-opening-night-at-the-gro-en-schauspielhaus-berlin-1927.json](./171409-opening-night-at-the-gro-en-schauspielhaus-berlin-1927.json) |
+| Opening Weekend - Varmint Season | 115778 | [115778-opening-weekend-varmint-season.json](./115778-opening-weekend-varmint-season.json) |
 | Opening Weekend: Bear Season | 208993 | [208993-opening-weekend-bear-season.json](./208993-opening-weekend-bear-season.json) |
 | Opening Weekend: Big Cat Season | 208992 | [208992-opening-weekend-big-cat-season.json](./208992-opening-weekend-big-cat-season.json) |
 | OpenLoco | 138233 | [138233-openloco.json](./138233-openloco.json) |
@@ -1931,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osterity | 308276 | [308276-osterity.json](./308276-osterity.json) |
 | Osteya: Adventures | 102096 | [102096-osteya-adventures.json](./102096-osteya-adventures.json) |
 | Ostrich Farm | 277329 | [277329-ostrich-farm.json](./277329-ostrich-farm.json) |
+| Ostrofa | 115784 | [115784-ostrofa.json](./115784-ostrofa.json) |
 | Ostron | 78989 | [78989-ostron.json](./78989-ostron.json) |
 | Osu! | 3012 | [3012-osu.json](./3012-osu.json) |
 | Osu!! Karate Bu | 38382 | [38382-osu-karate-bu.json](./38382-osu-karate-bu.json) |
