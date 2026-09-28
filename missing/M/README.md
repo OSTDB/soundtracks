@@ -934,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid of Venia | 374803 | [374803-maid-of-venia.json](./374803-maid-of-venia.json) |
 | Maid PizzaHub | 201252 | [201252-maid-pizzahub.json](./201252-maid-pizzahub.json) |
 | Maid Survivors: Little Angels | 298032 | [298032-maid-survivors-little-angels.json](./298032-maid-survivors-little-angels.json) |
+| Maid to Maze: Anata no Soba ni | 77919 | [77919-maid-to-maze-anata-no-soba-ni.json](./77919-maid-to-maze-anata-no-soba-ni.json) |
 | Maid-Sama Cafe: Anime Boys Services in Cute Outfits | 396434 | [396434-maid-sama-cafe-anime-boys-services-in-cute-outfits.json](./396434-maid-sama-cafe-anime-boys-services-in-cute-outfits.json) |
 | Maid-Sama Cafe: Anime Girls Services in Cute Outfits | 396913 | [396913-maid-sama-cafe-anime-girls-services-in-cute-outfits.json](./396913-maid-sama-cafe-anime-girls-services-in-cute-outfits.json) |
 | Maid-san Crisis: The Elegant Region Power | 210562 | [210562-maid-san-crisis-the-elegant-region-power.json](./210562-maid-san-crisis-the-elegant-region-power.json) |
@@ -974,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MainFrames | 313809 | [313809-mainframes.json](./313809-mainframes.json) |
 | MainGuns | 56478 | [56478-mainguns.json](./56478-mainguns.json) |
 | Mainichi | 144226 | [144226-mainichi.json](./144226-mainichi.json) |
+| Mainichi Kedamono!! Love Ero Momoiro School Life | 77925 | [77925-mainichi-kedamono-love-ero-momoiro-school-life.json](./77925-mainichi-kedamono-love-ero-momoiro-school-life.json) |
 | Mainichi Kotsu-kotsu Ore Tower | 395856 | [395856-mainichi-kotsu-kotsu-ore-tower.json](./395856-mainichi-kotsu-kotsu-ore-tower.json) |
 | Mainichi no Mimikaki | 227954 | [227954-mainichi-no-mimikaki.json](./227954-mainichi-no-mimikaki.json) |
 | Mainichi Suteki! Hello Kitty no Life Kit | 3690 | [3690-mainichi-suteki-hello-kitty-no-life-kit.json](./3690-mainichi-suteki-hello-kitty-no-life-kit.json) |
@@ -4245,6 +4247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetaphOrder | 180680 | [180680-metaphorder.json](./180680-metaphorder.json) |
 | Metaphysical Abyss | 296979 | [296979-metaphysical-abyss.json](./296979-metaphysical-abyss.json) |
 | Metapilot | 209476 | [209476-metapilot.json](./209476-metapilot.json) |
+| Metaplace | 78077 | [78077-metaplace.json](./78077-metaplace.json) |
 | Metarun | 234754 | [234754-metarun.json](./234754-metarun.json) |
 | MetaShooter | 211673 | [211673-metashooter.json](./211673-metashooter.json) |
 | Metathrone | 173771 | [173771-metathrone.json](./173771-metathrone.json) |
@@ -9003,6 +9006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Type! | 266829 | [266829-my-type.json](./266829-my-type.json) |
 | My U.S. Trucking Skills | 316855 | [316855-my-u-s-trucking-skills.json](./316855-my-u-s-trucking-skills.json) |
 | My Uncle Merlin | 76236 | [76236-my-uncle-merlin.json](./76236-my-uncle-merlin.json) |
+| My Uncle Merlin: A Tale of Wizards in Space | 77918 | [77918-my-uncle-merlin-a-tale-of-wizards-in-space.json](./77918-my-uncle-merlin-a-tale-of-wizards-in-space.json) |
 | My Uncle's Garden | 229776 | [229776-my-uncles-garden.json](./229776-my-uncles-garden.json) |
 | My Universe: Cooking Star Restaurant | 139863 | [139863-my-universe-cooking-star-restaurant.json](./139863-my-universe-cooking-star-restaurant.json) |
 | My Universe: Fashion Boutique | 139215 | [139215-my-universe-fashion-boutique.json](./139215-my-universe-fashion-boutique.json) |
