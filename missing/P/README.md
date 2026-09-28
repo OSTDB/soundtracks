@@ -842,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Para//ax | 186170 | [186170-para-ax.json](./186170-para-ax.json) |
 | Para//Llax | 413226 | [413226-para-llax.json](./413226-para-llax.json) |
 | Parables of the Set Apart: The Pursuit of Wisdom | 387530 | [387530-parables-of-the-set-apart-the-pursuit-of-wisdom.json](./387530-parables-of-the-set-apart-the-pursuit-of-wisdom.json) |
+| Paracelsus no Maken | 112517 | [112517-paracelsus-no-maken.json](./112517-paracelsus-no-maken.json) |
 | Parachute 22 | 205098 | [205098-parachute-22.json](./205098-parachute-22.json) |
 | Parachute Ninja | 232671 | [232671-parachute-ninja.json](./232671-parachute-ninja.json) |
 | Paracom | 384535 | [384535-paracom.json](./384535-paracom.json) |
