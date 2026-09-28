@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Dash | 332559 | [332559-danger-dash.json](./332559-danger-dash.json) |
 | Danger Drone | 278550 | [278550-danger-drone.json](./278550-danger-drone.json) |
 | Danger Forever | 169866 | [169866-danger-forever.json](./169866-danger-forever.json) |
+| Danger Freak | 66777 | [66777-danger-freak.json](./66777-danger-freak.json) |
 | Danger Horizon | 329178 | [329178-danger-horizon.json](./329178-danger-horizon.json) |
 | Danger in Body | 247982 | [247982-danger-in-body.json](./247982-danger-in-body.json) |
 | Danger Mouse: The Danger Games | 85557 | [85557-danger-mouse-the-danger-games.json](./85557-danger-mouse-the-danger-games.json) |
@@ -1158,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Andromeda: Subterfuge | 172120 | [172120-dawn-of-andromeda-subterfuge.json](./172120-dawn-of-andromeda-subterfuge.json) |
 | Dawn of Defense | 310733 | [310733-dawn-of-defense.json](./310733-dawn-of-defense.json) |
 | Dawn of Defiance | 305290 | [305290-dawn-of-defiance.json](./305290-dawn-of-defiance.json) |
+| Dawn of Discovery: The Harbor | 66759 | [66759-dawn-of-discovery-the-harbor.json](./66759-dawn-of-discovery-the-harbor.json) |
 | Dawn of Dreams | 229716 | [229716-dawn-of-dreams.json](./229716-dawn-of-dreams.json) |
 | Dawn of Dynasty | 163439 | [163439-dawn-of-dynasty.json](./163439-dawn-of-dynasty.json) |
 | Dawn of Gray | 288791 | [288791-dawn-of-gray.json](./288791-dawn-of-gray.json) |
@@ -1548,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 6: Energy Up! Training Wear Set | 225904 | [225904-dead-or-alive-6-energy-up-training-wear-set.json](./225904-dead-or-alive-6-energy-up-training-wear-set.json) |
 | Dead or Alive 6: Nyotengu | 341667 | [341667-dead-or-alive-6-nyotengu.json](./341667-dead-or-alive-6-nyotengu.json) |
 | Dead or Alive New Project | 389426 | [389426-dead-or-alive-new-project.json](./389426-dead-or-alive-new-project.json) |
+| Dead or Alive Online | 66770 | [66770-dead-or-alive-online.json](./66770-dead-or-alive-online.json) |
 | Dead or Alive Xtreme 3 Fortune: Collector's Edition | 166233 | [166233-dead-or-alive-xtreme-3-fortune-collectors-edition.json](./166233-dead-or-alive-xtreme-3-fortune-collectors-edition.json) |
 | Dead or Alive Xtreme 3: Fortune - VR Paradise | 26930 | [26930-dead-or-alive-xtreme-3-fortune-vr-paradise.json](./26930-dead-or-alive-xtreme-3-fortune-vr-paradise.json) |
 | Dead or Alive Xtreme 3: Saikyou Package | 167033 | [167033-dead-or-alive-xtreme-3-saikyou-package.json](./167033-dead-or-alive-xtreme-3-saikyou-package.json) |
@@ -2118,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decoration Rush | 324991 | [324991-decoration-rush.json](./324991-decoration-rush.json) |
 | Decurion | 285012 | [285012-decurion.json](./285012-decurion.json) |
 | Decurse: A New Magic Farming Game | 254159 | [254159-decurse-a-new-magic-farming-game.json](./254159-decurse-a-new-magic-farming-game.json) |
+| Decwar | 66735 | [66735-decwar.json](./66735-decwar.json) |
 | Ded | 30073 | [30073-ded.json](./30073-ded.json) |
 | Ded Inside | 120776 | [120776-ded-inside.json](./120776-ded-inside.json) |
 | Dedalium | 199418 | [199418-dedalium.json](./199418-dedalium.json) |
@@ -2811,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Departure!! Shipping Freighter | 299483 | [299483-departure-shipping-freighter.json](./299483-departure-shipping-freighter.json) |
 | Dependium | 411617 | [411617-dependium.json](./411617-dependium.json) |
 | Depersonalization | 205111 | [205111-depersonalization.json](./205111-depersonalization.json) |
+| Depict | 66761 | [66761-depict.json](./66761-depict.json) |
 | Depict the City | 212462 | [212462-depict-the-city.json](./212462-depict-the-city.json) |
 | Depict1 | 186635 | [186635-depict1.json](./186635-depict1.json) |
 | Depixtion: Halloween Edition | 336909 | [336909-depixtion-halloween-edition.json](./336909-depixtion-halloween-edition.json) |
@@ -5208,6 +5213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Chat With Strangers | 26739 | [26739-dont-chat-with-strangers.json](./26739-dont-chat-with-strangers.json) |
 | Don't Choke | 180754 | [180754-dont-choke.json](./180754-dont-choke.json) |
 | Don't Click The Flower | 394317 | [394317-dont-click-the-flower.json](./394317-dont-click-the-flower.json) |
+| Don't Cock It Up | 66768 | [66768-dont-cock-it-up.json](./66768-dont-cock-it-up.json) |
 | Don't Crash: The Political Game | 159863 | [159863-dont-crash-the-political-game.json](./159863-dont-crash-the-political-game.json) |
 | Don't Cut Your Hand 2 | 158729 | [158729-dont-cut-your-hand-2.json](./158729-dont-cut-your-hand-2.json) |
 | Don't Die | 151570 | [151570-dont-die.json](./151570-dont-die.json) |
@@ -5708,6 +5714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai | 60545 | [60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json](./60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json) |
 | Doraijin | 129674 | [129674-doraijin.json](./129674-doraijin.json) |
 | DoraKone | 116849 | [116849-dorakone.json](./116849-dorakone.json) |
+| Dorapan | 66753 | [66753-dorapan.json](./66753-dorapan.json) |
 | Dorasyeoda | 278528 | [278528-dorasyeoda.json](./278528-dorasyeoda.json) |
 | Dorc | 415087 | [415087-dorc.json](./415087-dorc.json) |
 | Dord | 223668 | [223668-dord.json](./223668-dord.json) |
@@ -6299,6 +6306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Guardians | 389958 | [389958-dragon-guardians.json](./389958-dragon-guardians.json) |
 | Dragon Heroes Tactics | 175709 | [175709-dragon-heroes-tactics.json](./175709-dragon-heroes-tactics.json) |
 | Dragon Hills 2 | 89540 | [89540-dragon-hills-2.json](./89540-dragon-hills-2.json) |
+| Dragon History | 66746 | [66746-dragon-history.json](./66746-dragon-history.json) |
 | Dragon Hop | 272396 | [272396-dragon-hop.json](./272396-dragon-hop.json) |
 | Dragon Hunt | 69236 | [69236-dragon-hunt.json](./69236-dragon-hunt.json) |
 | Dragon Hunter : Sniper Choice | 90664 | [90664-dragon-hunter-sniper-choice.json](./90664-dragon-hunter-sniper-choice.json) |
