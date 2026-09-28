@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xarq: The Zimmerman Trenches | 31185 | [31185-xarq-the-zimmerman-trenches.json](./31185-xarq-the-zimmerman-trenches.json) |
 | XaviX Baseball | 131489 | [131489-xavix-baseball.json](./131489-xavix-baseball.json) |
 | Xavix Bowling | 267372 | [267372-xavix-bowling.json](./267372-xavix-bowling.json) |
+| XBall Champion | 86232 | [86232-xball-champion.json](./86232-xball-champion.json) |
 | XBlaze Lost: Memories | 11637 | [11637-xblaze-lost-memories.json](./11637-xblaze-lost-memories.json) |
 | Xbox Party Mansion | 339813 | [339813-xbox-party-mansion.json](./339813-xbox-party-mansion.json) |
 | XCavalypse | 33412 | [33412-xcavalypse.json](./33412-xcavalypse.json) |
