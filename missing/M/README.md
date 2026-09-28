@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Dex 2 | 227917 | [227917-mad-dex-2.json](./227917-mad-dex-2.json) |
 | Mad Experiments 2: Escape Room | 195600 | [195600-mad-experiments-2-escape-room.json](./195600-mad-experiments-2-escape-room.json) |
 | Mad Experiments 2: Premium Pack | 263048 | [263048-mad-experiments-2-premium-pack.json](./263048-mad-experiments-2-premium-pack.json) |
+| Mad Factory | 107405 | [107405-mad-factory.json](./107405-mad-factory.json) |
 | Mad Fighter | 133199 | [133199-mad-fighter.json](./133199-mad-fighter.json) |
 | Mad Finger Marathon | 233209 | [233209-mad-finger-marathon.json](./233209-mad-finger-marathon.json) |
 | Mad Games Tycoon | 13172 | [13172-mad-games-tycoon.json](./13172-mad-games-tycoon.json) |
@@ -180,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Quad | 80906 | [80906-mad-quad.json](./80906-mad-quad.json) |
 | Mad Rat | 279741 | [279741-mad-rat.json](./279741-mad-rat.json) |
 | Mad Rat Dead | 135301 | [135301-mad-rat-dead.json](./135301-mad-rat-dead.json) |
+| Mad Restaurant People | 107398 | [107398-mad-restaurant-people.json](./107398-mad-restaurant-people.json) |
 | Mad Rider | 145025 | [145025-mad-rider.json](./145025-mad-rider.json) |
 | Mad Road: Apocalyptic Shooter Survival Killer | 251597 | [251597-mad-road-apocalyptic-shooter-survival-killer.json](./251597-mad-road-apocalyptic-shooter-survival-killer.json) |
 | Mad Rocket: Fog of War | 111758 | [111758-mad-rocket-fog-of-war.json](./111758-mad-rocket-fog-of-war.json) |
@@ -2385,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchuie | 365158 | [365158-matchuie.json](./365158-matchuie.json) |
 | MatchUp Friends: Find Pairs | 104438 | [104438-matchup-friends-find-pairs.json](./104438-matchup-friends-find-pairs.json) |
 | MatchVentures | 251818 | [251818-matchventures.json](./251818-matchventures.json) |
+| Matchville | 107362 | [107362-matchville.json](./107362-matchville.json) |
 | MatchX | 256228 | [256228-matchx.json](./256228-matchx.json) |
 | Matchy Star | 83498 | [83498-matchy-star.json](./83498-matchy-star.json) |
 | Matchy Way Tales | 365884 | [365884-matchy-way-tales.json](./365884-matchy-way-tales.json) |
@@ -4536,6 +4539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator X: Steam Edition - Farm Strips Volume 1: South East England | 161838 | [161838-microsoft-flight-simulator-x-steam-edition-farm-strips-volume-1-south-east-england.json](./161838-microsoft-flight-simulator-x-steam-edition-farm-strips-volume-1-south-east-england.json) |
 | Microsoft Flight Simulator X: Steam Edition - First Flight Airport (KFFA) | 158001 | [158001-microsoft-flight-simulator-x-steam-edition-first-flight-airport-kffa.json](./158001-microsoft-flight-simulator-x-steam-edition-first-flight-airport-kffa.json) |
 | Microsoft Flight Simulator X: Steam Edition - Flight Tales II: Adrenaline | 161865 | [161865-microsoft-flight-simulator-x-steam-edition-flight-tales-ii-adrenaline.json](./161865-microsoft-flight-simulator-x-steam-edition-flight-tales-ii-adrenaline.json) |
+| Microsoft Flight Simulator X: Steam Edition - FollowHD | 107363 | [107363-microsoft-flight-simulator-x-steam-edition-followhd.json](./107363-microsoft-flight-simulator-x-steam-edition-followhd.json) |
 | Microsoft Flight Simulator X: Steam Edition - Friday Harbor (KFHR) | 161856 | [161856-microsoft-flight-simulator-x-steam-edition-friday-harbor-kfhr.json](./161856-microsoft-flight-simulator-x-steam-edition-friday-harbor-kfhr.json) |
 | Microsoft Flight Simulator X: Steam Edition - FS Academy: In Command | 161844 | [161844-microsoft-flight-simulator-x-steam-edition-fs-academy-in-command.json](./161844-microsoft-flight-simulator-x-steam-edition-fs-academy-in-command.json) |
 | Microsoft Flight Simulator X: Steam Edition - FS Academy: On Instruments | 161834 | [161834-microsoft-flight-simulator-x-steam-edition-fs-academy-on-instruments.json](./161834-microsoft-flight-simulator-x-steam-edition-fs-academy-on-instruments.json) |
@@ -5526,6 +5530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MinuteFrontier | 144221 | [144221-minutefrontier.json](./144221-minutefrontier.json) |
 | MinuteQues‪t‬ | 144218 | [144218-minuteques-t.json](./144218-minuteques-t.json) |
 | Minutescape | 327969 | [327969-minutescape.json](./327969-minutescape.json) |
+| Mio Garden | 107422 | [107422-mio-garden.json](./107422-mio-garden.json) |
 | Mio no Mystery Adventure | 137627 | [137627-mio-no-mystery-adventure.json](./137627-mio-no-mystery-adventure.json) |
 | Mion and the Cursed Killer Hamster | 224576 | [224576-mion-and-the-cursed-killer-hamster.json](./224576-mion-and-the-cursed-killer-hamster.json) |
 | Mir | 148952 | [148952-mir.json](./148952-mir.json) |
@@ -8268,6 +8273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutiny | 256879 | [256879-mutiny.json](./256879-mutiny.json) |
 | Mutrix | 253449 | [253449-mutrix.json](./253449-mutrix.json) |
 | Mutual Assured Destruction Simulator | 326389 | [326389-mutual-assured-destruction-simulator.json](./326389-mutual-assured-destruction-simulator.json) |
+| Mutual Secret | 107386 | [107386-mutual-secret.json](./107386-mutual-secret.json) |
 | Muumit ja Taikalamppu | 178047 | [178047-muumit-ja-taikalamppu.json](./178047-muumit-ja-taikalamppu.json) |
 | Muv-Luv | 11778 | [11778-muv-luv.json](./11778-muv-luv.json) |
 | Muv-Luv VR | 33162 | [33162-muv-luv-vr.json](./33162-muv-luv-vr.json) |
