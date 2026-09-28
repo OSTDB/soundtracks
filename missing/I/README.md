@@ -834,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If Enemy: Smack! | 413078 | [413078-if-enemy-smack.json](./413078-if-enemy-smack.json) |
 | If Found, Please Return | 120347 | [120347-if-found-please-return.json](./120347-if-found-please-return.json) |
 | If I Were in a Sealed Room With a Girl, I'd Probably XXX | 93530 | [93530-if-i-were-in-a-sealed-room-with-a-girl-id-probably-xxx.json](./93530-if-i-were-in-a-sealed-room-with-a-girl-id-probably-xxx.json) |
+| If It Moves, Shoot It! | 71589 | [71589-if-it-moves-shoot-it.json](./71589-if-it-moves-shoot-it.json) |
 | If Monks Had Macs... | 366833 | [366833-if-monks-had-macs.json](./366833-if-monks-had-macs.json) |
 | If My Heart Had Wings | 196874 | [196874-if-my-heart-had-wings.json](./196874-if-my-heart-had-wings.json) |
 | If My Heart had Wings: Flight Diary - New Wings: Akari | 117522 | [117522-if-my-heart-had-wings-flight-diary-new-wings-akari.json](./117522-if-my-heart-had-wings-flight-diary-new-wings-akari.json) |
@@ -2567,6 +2568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Diamond | 236300 | [236300-iron-diamond.json](./236300-iron-diamond.json) |
 | Iron Emblem | 215765 | [215765-iron-emblem.json](./215765-iron-emblem.json) |
 | Iron Evil | 203970 | [203970-iron-evil.json](./203970-iron-evil.json) |
+| Iron Feather | 71609 | [71609-iron-feather.json](./71609-iron-feather.json) |
 | Iron Force | 343855 | [343855-iron-force.json](./343855-iron-force.json) |
 | Iron Force 2 | 243706 | [243706-iron-force-2.json](./243706-iron-force-2.json) |
 | Iron Front: Liberation 1944 - Gold Edition | 53237 | [53237-iron-front-liberation-1944-gold-edition.json](./53237-iron-front-liberation-1944-gold-edition.json) |
