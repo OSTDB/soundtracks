@@ -716,10 +716,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keibatsuu Portable | 56767 | [56767-keibatsuu-portable.json](./56767-keibatsuu-portable.json) |
 | Keibatsuu Portable 2 | 56769 | [56769-keibatsuu-portable-2.json](./56769-keibatsuu-portable-2.json) |
 | Keiji J.B. Harold no Jikenbo: Murder Club | 272022 | [272022-keiji-j-b-harold-no-jikenbo-murder-club.json](./272022-keiji-j-b-harold-no-jikenbo-murder-club.json) |
+| Keiko-chan no Himitsu | 67373 | [67373-keiko-chan-no-himitsu.json](./67373-keiko-chan-no-himitsu.json) |
 | Keine's Expanding Class! | 386435 | [386435-keines-expanding-class.json](./386435-keines-expanding-class.json) |
 | Keineged an nor | 181217 | [181217-keineged-an-nor.json](./181217-keineged-an-nor.json) |
 | Keio Flying Squadron | 12912 | [12912-keio-flying-squadron.json](./12912-keio-flying-squadron.json) |
 | Keio Flying Squadron 2 | 19417 | [19417-keio-flying-squadron-2.json](./19417-keio-flying-squadron-2.json) |
+| Keisan 100 Renda | 67369 | [67369-keisan-100-renda.json](./67369-keisan-100-renda.json) |
 | Keitai Shoujo: Koi+Hime - Koi ni Ochita Cinderella-hime | 292148 | [292148-keitai-shoujo-koi-hime-koi-ni-ochita-cinderella-hime.json](./292148-keitai-shoujo-koi-hime-koi-ni-ochita-cinderella-hime.json) |
 | Keith Courage in Alpha Zones | 42122 | [42122-keith-courage-in-alpha-zones.json](./42122-keith-courage-in-alpha-zones.json) |
 | Keith Van Eron's Pro Soccer | 15264 | [15264-keith-van-erons-pro-soccer.json](./15264-keith-van-erons-pro-soccer.json) |
@@ -2408,6 +2410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koushien 3 | 37952 | [37952-koushien-3.json](./37952-koushien-3.json) |
 | Koushien V | 58512 | [58512-koushien-v.json](./58512-koushien-v.json) |
 | Koushien: Konpeki no Sora | 58509 | [58509-koushien-konpeki-no-sora.json](./58509-koushien-konpeki-no-sora.json) |
+| Koushounin DS | 67351 | [67351-koushounin-ds.json](./67351-koushounin-ds.json) |
 | Kousoku Kaitenzushi | 138702 | [138702-kousoku-kaitenzushi.json](./138702-kousoku-kaitenzushi.json) |
 | Kousoku Shikou Shogi-ou | 37950 | [37950-kousoku-shikou-shogi-ou.json](./37950-kousoku-shikou-shogi-ou.json) |
 | Koutarichou Jin'youtan: Mayoigo no Shou | 219166 | [219166-koutarichou-jinyoutan-mayoigo-no-shou.json](./219166-koutarichou-jinyoutan-mayoigo-no-shou.json) |
@@ -2539,6 +2542,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuchisake Onna | 110496 | [110496-kuchisake-onna.json](./110496-kuchisake-onna.json) |
 | Kudamono Drop | 316780 | [316780-kudamono-drop.json](./316780-kudamono-drop.json) |
 | Kudamono Party | 288780 | [288780-kudamono-party.json](./288780-kudamono-party.json) |
+| Kudokikata Oshiemasu | 67389 | [67389-kudokikata-oshiemasu.json](./67389-kudokikata-oshiemasu.json) |
+| Kudokikata Oshiemasu Part II: Kind Gals | 67388 | [67388-kudokikata-oshiemasu-part-ii-kind-gals.json](./67388-kudokikata-oshiemasu-part-ii-kind-gals.json) |
 | Kuentame | 383377 | [383377-kuentame.json](./383377-kuentame.json) |
 | Kuento: Wasureenu Hibi ni | 97384 | [97384-kuento-wasureenu-hibi-ni.json](./97384-kuento-wasureenu-hibi-ni.json) |
 | Kugle | 276290 | [276290-kugle.json](./276290-kugle.json) |
