@@ -847,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If You Let Me In | 276760 | [276760-if-you-let-me-in.json](./276760-if-you-let-me-in.json) |
 | IF-16 Fighting Falcon | 368550 | [368550-if-16-fighting-falcon.json](./368550-if-16-fighting-falcon.json) |
 | iF-22 | 95458 | [95458-if-22.json](./95458-if-22.json) |
+| iF-22 Persian Gulf v5.0 | 62267 | [62267-if-22-persian-gulf-v5-0.json](./62267-if-22-persian-gulf-v5-0.json) |
 | iF/A-18E Carrier Strike Fighter | 78014 | [78014-if-a-18e-carrier-strike-fighter.json](./78014-if-a-18e-carrier-strike-fighter.json) |
 | iFarkle | 104658 | [104658-ifarkle.json](./104658-ifarkle.json) |
 | Iffermoon | 167145 | [167145-iffermoon.json](./167145-iffermoon.json) |
