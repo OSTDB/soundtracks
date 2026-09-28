@@ -4854,6 +4854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colin McRae: Dirt 2 | 202101 | [202101-colin-mcrae-dirt-2.json](./202101-colin-mcrae-dirt-2.json) |
 | Colin the Cleaner | 84232 | [84232-colin-the-cleaner.json](./84232-colin-the-cleaner.json) |
 | Colina: Legacy | 35181 | [35181-colina-legacy.json](./35181-colina-legacy.json) |
+| Coliseum City Bride | 82750 | [82750-coliseum-city-bride.json](./82750-coliseum-city-bride.json) |
 | Collage | 177037 | [177037-collage.json](./177037-collage.json) |
 | Collapse | 310937 | [310937-collapse.json](./310937-collapse.json) |
 | Collapse Machine | 310765 | [310765-collapse-machine.json](./310765-collapse-machine.json) |
