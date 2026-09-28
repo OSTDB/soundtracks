@@ -3615,6 +3615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melancholy Date | 245949 | [245949-melancholy-date.json](./245949-melancholy-date.json) |
 | Melancholy Love | 139483 | [139483-melancholy-love.json](./139483-melancholy-love.json) |
 | Melbits POD | 138236 | [138236-melbits-pod.json](./138236-melbits-pod.json) |
+| Melbourne Tatty | 66780 | [66780-melbourne-tatty.json](./66780-melbourne-tatty.json) |
 | Melbourne: Route 96 | 334189 | [334189-melbourne-route-96.json](./334189-melbourne-route-96.json) |
 | Meldev Power Boat Racing | 164274 | [164274-meldev-power-boat-racing.json](./164274-meldev-power-boat-racing.json) |
 | Meli | 381846 | [381846-meli.json](./381846-meli.json) |
