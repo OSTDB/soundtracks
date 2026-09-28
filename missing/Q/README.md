@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quick Brain: Number Hunt | 394562 | [394562-quick-brain-number-hunt.json](./394562-quick-brain-number-hunt.json) |
 | Quick Deduction Short Mysteries | 394558 | [394558-quick-deduction-short-mysteries.json](./394558-quick-deduction-short-mysteries.json) |
 | Quick Draw | 260150 | [260150-quick-draw.json](./260150-quick-draw.json) |
+| Quick Draw McGraw | 66738 | [66738-quick-draw-mcgraw.json](./66738-quick-draw-mcgraw.json) |
 | Quick Fill Q | 84836 | [84836-quick-fill-q.json](./84836-quick-fill-q.json) |
 | Quick Fire | 241046 | [241046-quick-fire.json](./241046-quick-fire.json) |
 | Quick Golf | 288371 | [288371-quick-golf.json](./288371-quick-golf.json) |
