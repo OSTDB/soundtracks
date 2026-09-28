@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Jump | 100740 | [100740-ball-jump.json](./100740-ball-jump.json) |
 | Ball Jumper | 272854 | [272854-ball-jumper.json](./272854-ball-jumper.json) |
 | Ball Kicker | 109640 | [109640-ball-kicker.json](./109640-ball-kicker.json) |
+| Ball laB | 89384 | [89384-ball-lab.json](./89384-ball-lab.json) |
 | Ball League | 107119 | [107119-ball-league.json](./107119-ball-league.json) |
 | Ball Match Quest | 108481 | [108481-ball-match-quest.json](./108481-ball-match-quest.json) |
 | Ball O | 262897 | [262897-ball-o.json](./262897-ball-o.json) |
@@ -685,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Fight-e | 170004 | [170004-balloon-fight-e.json](./170004-balloon-fight-e.json) |
 | Balloon Fighter | 122196 | [122196-balloon-fighter.json](./122196-balloon-fighter.json) |
 | Balloon Gun | 63847 | [63847-balloon-gun.json](./63847-balloon-gun.json) |
+| Balloon guy | 89368 | [89368-balloon-guy.json](./89368-balloon-guy.json) |
 | Balloon Jump | 152877 | [152877-balloon-jump.json](./152877-balloon-jump.json) |
 | Balloon Kid | 3682 | [3682-balloon-kid.json](./3682-balloon-kid.json) |
 | Balloon Man | 359433 | [359433-balloon-man.json](./359433-balloon-man.json) |
@@ -3088,6 +3090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Blind | 326193 | [326193-big-blind.json](./326193-big-blind.json) |
 | Big Blue | 272857 | [272857-big-blue.json](./272857-big-blue.json) |
 | Big Blue World Domination | 165518 | [165518-big-blue-world-domination.json](./165518-big-blue-world-domination.json) |
+| Big Blue: Memory | 89379 | [89379-big-blue-memory.json](./89379-big-blue-memory.json) |
 | Big Bobby Car: The Big Race | 139861 | [139861-big-bobby-car-the-big-race.json](./139861-big-bobby-car-the-big-race.json) |
 | Big Boo's Haunt | 308230 | [308230-big-boos-haunt.json](./308230-big-boos-haunt.json) |
 | Big Booty Adventures | 186312 | [186312-big-booty-adventures.json](./186312-big-booty-adventures.json) |
@@ -4040,6 +4043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blair Witch | 119298 | [119298-blair-witch.json](./119298-blair-witch.json) |
 | Blair Witch Volume 2: The Legend of Coffin Rock | 18490 | [18490-blair-witch-volume-2-the-legend-of-coffin-rock.json](./18490-blair-witch-volume-2-the-legend-of-coffin-rock.json) |
 | Blair Witch: Deluxe Edition | 154467 | [154467-blair-witch-deluxe-edition.json](./154467-blair-witch-deluxe-edition.json) |
+| Blake and Mortimer: The Curse of the Thirty Denarii | 89374 | [89374-blake-and-mortimer-the-curse-of-the-thirty-denarii.json](./89374-blake-and-mortimer-the-curse-of-the-thirty-denarii.json) |
 | Blake Stone: Planet Strike | 8490 | [8490-blake-stone-planet-strike.json](./8490-blake-stone-planet-strike.json) |
 | Blake Strongflank | 182515 | [182515-blake-strongflank.json](./182515-blake-strongflank.json) |
 | Blake Turner: Ace Attorney | 308528 | [308528-blake-turner-ace-attorney.json](./308528-blake-turner-ace-attorney.json) |
@@ -6473,6 +6477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breath of the Waters: The Angler | 410937 | [410937-breath-of-the-waters-the-angler.json](./410937-breath-of-the-waters-the-angler.json) |
 | Breath: Toiki wa Akaneiro | 269675 | [269675-breath-toiki-wa-akaneiro.json](./269675-breath-toiki-wa-akaneiro.json) |
 | Breathbound | 372447 | [372447-breathbound.json](./372447-breathbound.json) |
+| Breathe | 89392 | [89392-breathe.json](./89392-breathe.json) |
 | Breathe in | 135773 | [135773-breathe-in.json](./135773-breathe-in.json) |
 | Breathedge | 89326 | [89326-breathedge.json](./89326-breathedge.json) |
 | Breathedge 2 | 252870 | [252870-breathedge-2.json](./252870-breathedge-2.json) |
@@ -6497,6 +6502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breu: Shadow Hunt | 233634 | [233634-breu-shadow-hunt.json](./233634-breu-shadow-hunt.json) |
 | Brew & Brawl: Gnomes vs. Dwarves | 140530 | [140530-brew-and-brawl-gnomes-vs-dwarves.json](./140530-brew-and-brawl-gnomes-vs-dwarves.json) |
 | Brew & Dash | 381282 | [381282-brew-and-dash.json](./381282-brew-and-dash.json) |
+| Brew-Ha | 89386 | [89386-brew-ha.json](./89386-brew-ha.json) |
 | Brewconomy | 372656 | [372656-brewconomy.json](./372656-brewconomy.json) |
 | Brewess | 245835 | [245835-brewess.json](./245835-brewess.json) |
 | Brewgether | 406123 | [406123-brewgether.json](./406123-brewgether.json) |
