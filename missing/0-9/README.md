@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Rogues | 22347 | [22347-100-rogues.json](./22347-100-rogues.json) |
 | 100 Ruin Cats | 347756 | [347756-100-ruin-cats.json](./347756-100-ruin-cats.json) |
 | 100 Sea Cats | 315291 | [315291-100-sea-cats.json](./315291-100-sea-cats.json) |
+| 100 Seconds | 89387 | [89387-100-seconds.json](./89387-100-seconds.json) |
 | 100 Tokyo Cats: Extra Content | 274585 | [274585-100-tokyo-cats-extra-content.json](./274585-100-tokyo-cats-extra-content.json) |
 | 100 Vacas | 138729 | [138729-100-vacas.json](./138729-100-vacas.json) |
 | 100 Vampire Cats | 347754 | [347754-100-vampire-cats.json](./347754-100-vampire-cats.json) |
@@ -1007,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4Islands | 124190 | [124190-4islands.json](./124190-4islands.json) |
 | 4K Adventure | 140624 | [140624-4k-adventure.json](./140624-4k-adventure.json) |
 | 4Mecheros | 405042 | [405042-4mecheros.json](./405042-4mecheros.json) |
+| 4RC4N01D 3: Cold Space | 89410 | [89410-4rc4n01d-3-cold-space.json](./89410-4rc4n01d-3-cold-space.json) |
 | 4Spaces | 259550 | [259550-4spaces.json](./259550-4spaces.json) |
 | 4Tacos | 276274 | [276274-4tacos.json](./276274-4tacos.json) |
 | 4th Era: The RuneChild | 120320 | [120320-4th-era-the-runechild.json](./120320-4th-era-the-runechild.json) |
