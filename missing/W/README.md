@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakugumi: Monochrome Puzzle | 85479 | [85479-wakugumi-monochrome-puzzle.json](./85479-wakugumi-monochrome-puzzle.json) |
 | Wakusei | 301428 | [301428-wakusei.json](./301428-wakusei.json) |
 | Wakusei Koukitai Little Cats | 71029 | [71029-wakusei-koukitai-little-cats.json](./71029-wakusei-koukitai-little-cats.json) |
+| Wakusei Woodstock: Funky Horror Band | 62251 | [62251-wakusei-woodstock-funky-horror-band.json](./62251-wakusei-woodstock-funky-horror-band.json) |
 | Walaber's Trampoline | 69936 | [69936-walabers-trampoline.json](./69936-walabers-trampoline.json) |
 | Walden Horde | 159746 | [159746-walden-horde.json](./159746-walden-horde.json) |
 | Waldo: In the Heart of the City | 381285 | [381285-waldo-in-the-heart-of-the-city.json](./381285-waldo-in-the-heart-of-the-city.json) |
@@ -356,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War 3010: The Revolution | 38397 | [38397-war-3010-the-revolution.json](./38397-war-3010-the-revolution.json) |
 | War After | 188397 | [188397-war-after.json](./188397-war-after.json) |
 | War Agent | 207874 | [207874-war-agent.json](./207874-war-agent.json) |
+| War Along the Mohawk | 62246 | [62246-war-along-the-mohawk.json](./62246-war-along-the-mohawk.json) |
 | War and Magic | 125354 | [125354-war-and-magic.json](./125354-war-and-magic.json) |
 | War and Peace | 253332 | [253332-war-and-peace.json](./253332-war-and-peace.json) |
 | War and Politics | 374806 | [374806-war-and-politics.json](./374806-war-and-politics.json) |
