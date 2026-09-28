@@ -2492,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Shot | 399852 | [399852-god-shot.json](./399852-god-shot.json) |
 | God Simulator | 191570 | [191570-god-simulator.json](./191570-god-simulator.json) |
 | God Simulator | 31883 | [31883-god-simulator.json](./31883-god-simulator.json) |
+| God Sisters | 109161 | [109161-god-sisters.json](./109161-god-sisters.json) |
 | God Starfighter | 76956 | [76956-god-starfighter.json](./76956-god-starfighter.json) |
 | God Sword | 157497 | [157497-god-sword.json](./157497-god-sword.json) |
 | God Trials | 348421 | [348421-god-trials.json](./348421-god-trials.json) |
@@ -3439,6 +3440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GravBot | 393513 | [393513-gravbot.json](./393513-gravbot.json) |
 | Grave | 7411 | [7411-grave.json](./7411-grave.json) |
 | Grave Danger: Ultimate Edition | 84531 | [84531-grave-danger-ultimate-edition.json](./84531-grave-danger-ultimate-edition.json) |
+| Grave Days | 109167 | [109167-grave-days.json](./109167-grave-days.json) |
 | Grave Deceiver | 327332 | [327332-grave-deceiver.json](./327332-grave-deceiver.json) |
 | Grave Digger | 287145 | [287145-grave-digger.json](./287145-grave-digger.json) |
 | Grave Filler | 320185 | [320185-grave-filler.json](./320185-grave-filler.json) |
@@ -3537,6 +3539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitrex Plus | 63811 | [63811-gravitrex-plus.json](./63811-gravitrex-plus.json) |
 | Gravitrix | 365770 | [365770-gravitrix.json](./365770-gravitrix.json) |
 | Gravitronix | 21035 | [21035-gravitronix.json](./21035-gravitronix.json) |
+| Gravity | 109175 | [109175-gravity.json](./109175-gravity.json) |
 | Gravity | 177540 | [177540-gravity.json](./177540-gravity.json) |
 | Gravity | 361682 | [361682-gravity.json](./361682-gravity.json) |
 | Gravity Angels Part 2: The Betrayal | 229359 | [229359-gravity-angels-part-2-the-betrayal.json](./229359-gravity-angels-part-2-the-betrayal.json) |
@@ -3937,6 +3940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimm's Hollow | 125110 | [125110-grimms-hollow.json](./125110-grimms-hollow.json) |
 | GrimmKitchen | 326225 | [326225-grimmkitchen.json](./326225-grimmkitchen.json) |
 | Grimmlins Tale | 199374 | [199374-grimmlins-tale.json](./199374-grimmlins-tale.json) |
+| Grimms Nightmare | 109177 | [109177-grimms-nightmare.json](./109177-grimms-nightmare.json) |
 | Grimms Notes | 193846 | [193846-grimms-notes.json](./193846-grimms-notes.json) |
 | GrimmStar | 125331 | [125331-grimmstar.json](./125331-grimmstar.json) |
 | Grimoire Arena | 125328 | [125328-grimoire-arena.json](./125328-grimoire-arena.json) |
