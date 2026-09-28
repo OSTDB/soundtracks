@@ -777,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Shiny | 115754 | [115754-dark-shiny.json](./115754-dark-shiny.json) |
 | Dark Shrine | 230916 | [230916-dark-shrine.json](./230916-dark-shrine.json) |
 | Dark Side of Fate | 155083 | [155083-dark-side-of-fate.json](./155083-dark-side-of-fate.json) |
+| Dark Side of the Moon: A Sci-Fi Adventure | 68744 | [68744-dark-side-of-the-moon-a-sci-fi-adventure.json](./68744-dark-side-of-the-moon-a-sci-fi-adventure.json) |
 | Dark Side of War | 150599 | [150599-dark-side-of-war.json](./150599-dark-side-of-war.json) |
 | Dark Siege: The First Knight | 192677 | [192677-dark-siege-the-first-knight.json](./192677-dark-siege-the-first-knight.json) |
 | Dark Skies 2: Keepers of Nemansk | 296689 | [296689-dark-skies-2-keepers-of-nemansk.json](./296689-dark-skies-2-keepers-of-nemansk.json) |
@@ -2268,6 +2269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deepy | 325023 | [325023-deepy.json](./325023-deepy.json) |
 | Deer Avenger | 73851 | [73851-deer-avenger.json](./73851-deer-avenger.json) |
 | Deer Avenger 2 | 316617 | [316617-deer-avenger-2.json](./316617-deer-avenger-2.json) |
+| Deer Avenger 2: Deer in the City | 68724 | [68724-deer-avenger-2-deer-in-the-city.json](./68724-deer-avenger-2-deer-in-the-city.json) |
 | Deer Crusade | 235826 | [235826-deer-crusade.json](./235826-deer-crusade.json) |
 | Deer Drive | 47771 | [47771-deer-drive.json](./47771-deer-drive.json) |
 | Deer God | 278527 | [278527-deer-god.json](./278527-deer-god.json) |
@@ -6017,6 +6019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Slump: Arale-chan | 138108 | [138108-dr-slump-arale-chan.json](./138108-dr-slump-arale-chan.json) |
 | Dr. Stanley's House I | 141091 | [141091-dr-stanleys-house-i.json](./141091-dr-stanleys-house-i.json) |
 | Dr. Stone Battle Craft | 278451 | [278451-dr-stone-battle-craft.json](./278451-dr-stone-battle-craft.json) |
+| Dr. Stop! | 68730 | [68730-dr-stop.json](./68730-dr-stop.json) |
 | Dr. Tacocat | 120362 | [120362-dr-tacocat.json](./120362-dr-tacocat.json) |
 | Dr. Trolley's Problem | 117072 | [117072-dr-trolleys-problem.json](./117072-dr-trolleys-problem.json) |
 | Dr. Umgebung's School of Life | 128992 | [128992-dr-umgebungs-school-of-life.json](./128992-dr-umgebungs-school-of-life.json) |
