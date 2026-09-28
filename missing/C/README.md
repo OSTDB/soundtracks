@@ -2370,6 +2370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager 2008 | 14840 | [14840-championship-manager-2008.json](./14840-championship-manager-2008.json) |
 | Championship Manager 2010 Express | 118918 | [118918-championship-manager-2010-express.json](./118918-championship-manager-2010-express.json) |
 | Championship Manager 3 | 93149 | [93149-championship-manager-3.json](./93149-championship-manager-3.json) |
+| Championship Manager: End of Season Edition | 73351 | [73351-championship-manager-end-of-season-edition.json](./73351-championship-manager-end-of-season-edition.json) |
 | Championship Manager: Season 03/04 | 628 | [628-championship-manager-season-03-04.json](./628-championship-manager-season-03-04.json) |
 | Championship Manager: Season 97/98 | 50125 | [50125-championship-manager-season-97-98.json](./50125-championship-manager-season-97-98.json) |
 | Championship Motocross 2001 featuring Ricky Carmichael | 76978 | [76978-championship-motocross-2001-featuring-ricky-carmichael.json](./76978-championship-motocross-2001-featuring-ricky-carmichael.json) |
@@ -2846,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessmaster 7000 | 15880 | [15880-chessmaster-7000.json](./15880-chessmaster-7000.json) |
 | Chessmaster 8000 | 15881 | [15881-chessmaster-8000.json](./15881-chessmaster-8000.json) |
 | Chessmaster 9000 | 15882 | [15882-chessmaster-9000.json](./15882-chessmaster-9000.json) |
+| Chessmaster Challenge | 73219 | [73219-chessmaster-challenge.json](./73219-chessmaster-challenge.json) |
 | Chessmaster Live: Breaking the Lines | 345138 | [345138-chessmaster-live-breaking-the-lines.json](./345138-chessmaster-live-breaking-the-lines.json) |
 | Chessmaster Live: Calvert Chess Set | 344953 | [344953-chessmaster-live-calvert-chess-set.json](./344953-chessmaster-live-calvert-chess-set.json) |
 | Chessmaster Live: Chain Reaction | 345139 | [345139-chessmaster-live-chain-reaction.json](./345139-chessmaster-live-chain-reaction.json) |
@@ -5281,6 +5283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Space Journey | 192294 | [192294-combat-space-journey.json](./192294-combat-space-journey.json) |
 | Combat Spec Ops | 256887 | [256887-combat-spec-ops.json](./256887-combat-spec-ops.json) |
 | Combat Survivors | 402266 | [402266-combat-survivors.json](./402266-combat-survivors.json) |
+| Combat Tanks | 73367 | [73367-combat-tanks.json](./73367-combat-tanks.json) |
 | Combat Troops VR | 192180 | [192180-combat-troops-vr.json](./192180-combat-troops-vr.json) |
 | Combat Weapon | 224084 | [224084-combat-weapon.json](./224084-combat-weapon.json) |
 | Combat Wings | 138170 | [138170-combat-wings.json](./138170-combat-wings.json) |
@@ -6895,6 +6898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash of the Titans | 197929 | [197929-crash-of-the-titans.json](./197929-crash-of-the-titans.json) |
 | Crash of the Titans | 210235 | [210235-crash-of-the-titans.json](./210235-crash-of-the-titans.json) |
 | Crash Pollito | 268521 | [268521-crash-pollito.json](./268521-crash-pollito.json) |
+| Crash Presents September 1990 | 73356 | [73356-crash-presents-september-1990.json](./73356-crash-presents-september-1990.json) |
 | Crash Tag Team Racing | 1194 | [1194-crash-tag-team-racing.json](./1194-crash-tag-team-racing.json) |
 | Crash Team Racing: Retro-Fueled | 262407 | [262407-crash-team-racing-retro-fueled.json](./262407-crash-team-racing-retro-fueled.json) |
 | Crash Team Rumble | 228540 | [228540-crash-team-rumble.json](./228540-crash-team-rumble.json) |
