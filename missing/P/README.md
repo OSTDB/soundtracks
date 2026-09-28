@@ -402,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palais de Reine | 130397 | [130397-palais-de-reine.json](./130397-palais-de-reine.json) |
 | Pale Carnations | 239316 | [239316-pale-carnations.json](./239316-pale-carnations.json) |
 | Pale Coins | 253876 | [253876-pale-coins.json](./253876-pale-coins.json) |
+| Pale Man! | 113894 | [113894-pale-man.json](./113894-pale-man.json) |
 | Pale Moon Crisis | 29977 | [29977-pale-moon-crisis.json](./29977-pale-moon-crisis.json) |
 | Pale Sand, Dark Skies | 179508 | [179508-pale-sand-dark-skies.json](./179508-pale-sand-dark-skies.json) |
 | Pale Tide | 403823 | [403823-pale-tide.json](./403823-pale-tide.json) |
@@ -3827,6 +3828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plague M.D. | 140631 | [140631-plague-m-d.json](./140631-plague-m-d.json) |
 | Plague Masters | 154012 | [154012-plague-masters.json](./154012-plague-masters.json) |
 | Plague of Days | 118322 | [118322-plague-of-days.json](./118322-plague-of-days.json) |
+| Plague Squad | 113873 | [113873-plague-squad.json](./113873-plague-squad.json) |
 | Plague Universe | 246884 | [246884-plague-universe.json](./246884-plague-universe.json) |
 | Plague: London 1665 | 244733 | [244733-plague-london-1665.json](./244733-plague-london-1665.json) |
 | Plaguepunk Justice | 114516 | [114516-plaguepunk-justice.json](./114516-plaguepunk-justice.json) |
@@ -5007,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Ego | 260729 | [260729-poly-ego.json](./260729-poly-ego.json) |
 | Poly Frenzy | 373217 | [373217-poly-frenzy.json](./373217-poly-frenzy.json) |
 | Poly Gangs | 159724 | [159724-poly-gangs.json](./159724-poly-gangs.json) |
+| Poly Island | 113867 | [113867-poly-island.json](./113867-poly-island.json) |
 | Poly Jigsaw Puzzle | 105780 | [105780-poly-jigsaw-puzzle.json](./105780-poly-jigsaw-puzzle.json) |
 | Poly Jigsaw: Dogs | 248665 | [248665-poly-jigsaw-dogs.json](./248665-poly-jigsaw-dogs.json) |
 | Poly Kingdom: Siege | 270947 | [270947-poly-kingdom-siege.json](./270947-poly-kingdom-siege.json) |
