@@ -3620,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinderella Nine in August | 82121 | [82121-cinderella-nine-in-august.json](./82121-cinderella-nine-in-august.json) |
 | Cinderella Phenomenon | 30030 | [30030-cinderella-phenomenon.json](./30030-cinderella-phenomenon.json) |
 | Cinderella Phenomenon: Evermore | 156586 | [156586-cinderella-phenomenon-evermore.json](./156586-cinderella-phenomenon-evermore.json) |
+| Cinderella Princess Makeup and Dressup Salon Game | 100332 | [100332-cinderella-princess-makeup-and-dressup-salon-game.json](./100332-cinderella-princess-makeup-and-dressup-salon-game.json) |
 | Cinderella: An Interactive Fairytale | 114183 | [114183-cinderella-an-interactive-fairytale.json](./114183-cinderella-an-interactive-fairytale.json) |
 | Cinderella: Interactive Book | 260673 | [260673-cinderella-interactive-book.json](./260673-cinderella-interactive-book.json) |
 | Cinderella: Princess of the Magic Kingdom | 319787 | [319787-cinderella-princess-of-the-magic-kingdom.json](./319787-cinderella-princess-of-the-magic-kingdom.json) |
@@ -5620,6 +5621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connor | 218145 | [218145-connor.json](./218145-connor.json) |
 | ConOps21: Subversion Protocol | 403782 | [403782-conops21-subversion-protocol.json](./403782-conops21-subversion-protocol.json) |
 | Conquela | 286605 | [286605-conquela.json](./286605-conquela.json) |
+| Conquer City Wars | 100333 | [100333-conquer-city-wars.json](./100333-conquer-city-wars.json) |
 | Conquer Lands | 372464 | [372464-conquer-lands.json](./372464-conquer-lands.json) |
 | Conquer the Dungeon | 190720 | [190720-conquer-the-dungeon.json](./190720-conquer-the-dungeon.json) |
 | Conquer the Islands | 224085 | [224085-conquer-the-islands.json](./224085-conquer-the-islands.json) |
