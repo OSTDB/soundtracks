@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramen Shop Simulator | 337287 | [337287-ramen-shop-simulator.json](./337287-ramen-shop-simulator.json) |
 | Ramenbashi | 92513 | [92513-ramenbashi.json](./92513-ramenbashi.json) |
 | Ramhart | 341311 | [341311-ramhart.json](./341311-ramhart.json) |
+| Rami-chan no Ooedo Sugoroku: Keio Yuugeki-tai Gaiden | 66215 | [66215-rami-chan-no-ooedo-sugoroku-keio-yuugeki-tai-gaiden.json](./66215-rami-chan-no-ooedo-sugoroku-keio-yuugeki-tai-gaiden.json) |
 | Ramify | 31153 | [31153-ramify.json](./31153-ramify.json) |
 | Ramming Turtleship: 1592 - The Imjin War | 390000 | [390000-ramming-turtleship-1592-the-imjin-war.json](./390000-ramming-turtleship-1592-the-imjin-war.json) |
 | Rammy No Daibouken Ⅱ | 174128 | [174128-rammy-no-daibouken-ii.json](./174128-rammy-no-daibouken-ii.json) |
