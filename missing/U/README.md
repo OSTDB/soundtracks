@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima TD | 236261 | [236261-ultima-td.json](./236261-ultima-td.json) |
 | Ultima VII: Part Two - Serpent Isle | 9574 | [9574-ultima-vii-part-two-serpent-isle.json](./9574-ultima-vii-part-two-serpent-isle.json) |
 | Ultima VII: The Forge of Virtue | 71218 | [71218-ultima-vii-the-forge-of-virtue.json](./71218-ultima-vii-the-forge-of-virtue.json) |
+| Ultima Worlds Online: Origin | 72756 | [72756-ultima-worlds-online-origin.json](./72756-ultima-worlds-online-origin.json) |
 | Ultima: Escape from Mt. Drash | 24951 | [24951-ultima-escape-from-mt-drash.json](./24951-ultima-escape-from-mt-drash.json) |
 | Ultima: Exodus | 48049 | [48049-ultima-exodus.json](./48049-ultima-exodus.json) |
 | Ultima: Quest of the Avatar | 48097 | [48097-ultima-quest-of-the-avatar.json](./48097-ultima-quest-of-the-avatar.json) |
@@ -302,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Snake | 412269 | [412269-ultimate-snake.json](./412269-ultimate-snake.json) |
 | Ultimate Soccer | 237502 | [237502-ultimate-soccer.json](./237502-ultimate-soccer.json) |
 | Ultimate Soccer | 331952 | [331952-ultimate-soccer.json](./331952-ultimate-soccer.json) |
+| Ultimate Soccer Manager | 71574 | [71574-ultimate-soccer-manager.json](./71574-ultimate-soccer-manager.json) |
 | Ultimate Solitaire Collection | 270091 | [270091-ultimate-solitaire-collection.json](./270091-ultimate-solitaire-collection.json) |
 | Ultimate Space Commando | 35963 | [35963-ultimate-space-commando.json](./35963-ultimate-space-commando.json) |
 | Ultimate Sparring | 334077 | [334077-ultimate-sparring.json](./334077-ultimate-sparring.json) |
@@ -438,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman Club: Ultra Schwatch | 385840 | [385840-ultraman-club-ultra-schwatch.json](./385840-ultraman-club-ultra-schwatch.json) |
 | Ultraman Fighting Evolution | 78940 | [78940-ultraman-fighting-evolution.json](./78940-ultraman-fighting-evolution.json) |
 | Ultraman Fighting Evolution 2 | 72608 | [72608-ultraman-fighting-evolution-2.json](./72608-ultraman-fighting-evolution-2.json) |
+| Ultraman Fighting Evolution 3 | 72605 | [72605-ultraman-fighting-evolution-3.json](./72605-ultraman-fighting-evolution-3.json) |
 | Ultraman Nexus | 66390 | [66390-ultraman-nexus.json](./66390-ultraman-nexus.json) |
 | Ultraman: Kaijuu Daikessen | 385839 | [385839-ultraman-kaijuu-daikessen.json](./385839-ultraman-kaijuu-daikessen.json) |
 | Ultraman: Kaijuu Teikoku no Gyakushuu | 41333 | [41333-ultraman-kaijuu-teikoku-no-gyakushuu.json](./41333-ultraman-kaijuu-teikoku-no-gyakushuu.json) |
@@ -1125,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlikely Heroes | 80882 | [80882-unlikely-heroes.json](./80882-unlikely-heroes.json) |
 | Unlimited | 268217 | [268217-unlimited.json](./268217-unlimited.json) |
 | Unlimited Adventures | 71492 | [71492-unlimited-adventures.json](./71492-unlimited-adventures.json) |
+| Unlimited Checkers | 71442 | [71442-unlimited-checkers.json](./71442-unlimited-checkers.json) |
 | Unlimited Elevators | 94790 | [94790-unlimited-elevators.json](./94790-unlimited-elevators.json) |
 | Unlimited Farm Tycoon: Cozy Idle Farm Game | 377063 | [377063-unlimited-farm-tycoon-cozy-idle-farm-game.json](./377063-unlimited-farm-tycoon-cozy-idle-farm-game.json) |
 | Unlimited Fight Ultimate Strike | 235353 | [235353-unlimited-fight-ultimate-strike.json](./235353-unlimited-fight-ultimate-strike.json) |
