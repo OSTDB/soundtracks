@@ -3672,6 +3672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit | 413076 | [413076-bit.json](./413076-bit.json) |
 | Bit Addiction | 277573 | [277573-bit-addiction.json](./277573-bit-addiction.json) |
 | Bit Boy!! Arcade | 62852 | [62852-bit-boy-arcade.json](./62852-bit-boy-arcade.json) |
+| Bit Brawlers | 61716 | [61716-bit-brawlers.json](./61716-bit-brawlers.json) |
 | Bit Buddy | 379871 | [379871-bit-buddy.json](./379871-bit-buddy.json) |
 | Bit Bullet | 75014 | [75014-bit-bullet.json](./75014-bit-bullet.json) |
 | Bit City | 174681 | [174681-bit-city.json](./174681-bit-city.json) |
