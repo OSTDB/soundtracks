@@ -5088,6 +5088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominique Pamplemousse | 134677 | [134677-dominique-pamplemousse.json](./134677-dominique-pamplemousse.json) |
 | Domino Clicker | 295802 | [295802-domino-clicker.json](./295802-domino-clicker.json) |
 | Domino Draw | 271270 | [271270-domino-draw.json](./271270-domino-draw.json) |
+| Domino Drop | 87620 | [87620-domino-drop.json](./87620-domino-drop.json) |
 | Domino Effect | 81766 | [81766-domino-effect.json](./81766-domino-effect.json) |
 | Domino Fever | 383615 | [383615-domino-fever.json](./383615-domino-fever.json) |
 | Domino Fit | 303482 | [303482-domino-fit.json](./303482-domino-fit.json) |
