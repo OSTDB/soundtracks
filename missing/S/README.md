@@ -2323,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekai to Sekai no Mannaka de | 187532 | [187532-sekai-to-sekai-no-mannaka-de.json](./187532-sekai-to-sekai-no-mannaka-de.json) |
 | Sekibanki Head Adventure | 158520 | [158520-sekibanki-head-adventure.json](./158520-sekibanki-head-adventure.json) |
 | Sekien no Inganock ~What a Beautiful People~ Fullvoice ReBORN | 378204 | [378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json](./378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json) |
+| Sekirei: Mirai Kara no Okurimono | 65547 | [65547-sekirei-mirai-kara-no-okurimono.json](./65547-sekirei-mirai-kara-no-okurimono.json) |
 | Sekiro: Shadows Die Twice - Game of the Year Edition | 365281 | [365281-sekiro-shadows-die-twice-game-of-the-year-edition.json](./365281-sekiro-shadows-die-twice-game-of-the-year-edition.json) |
 | Sekka the Gleam | 355204 | [355204-sekka-the-gleam.json](./355204-sekka-the-gleam.json) |
 | Sekrets of the Dungeon | 149489 | [149489-sekrets-of-the-dungeon.json](./149489-sekrets-of-the-dungeon.json) |
@@ -4690,6 +4691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sillyfun Valley | 158577 | [158577-sillyfun-valley.json](./158577-sillyfun-valley.json) |
 | Silmar | 230258 | [230258-silmar.json](./230258-silmar.json) |
 | Silo | 348224 | [348224-silo.json](./348224-silo.json) |
+| Silpheed | 65578 | [65578-silpheed.json](./65578-silpheed.json) |
 | Silted Prayer | 257904 | [257904-silted-prayer.json](./257904-silted-prayer.json) |
 | Silva Saga | 48708 | [48708-silva-saga.json](./48708-silva-saga.json) |
 | SilvaGunner: Rebooted | 326957 | [326957-silvagunner-rebooted.json](./326957-silvagunner-rebooted.json) |
@@ -5021,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar Bollywood | 20769 | [20769-singstar-bollywood.json](./20769-singstar-bollywood.json) |
 | SingStar Grandes Exitos | 268750 | [268750-singstar-grandes-exitos.json](./268750-singstar-grandes-exitos.json) |
 | SingStar Intro | 268745 | [268745-singstar-intro.json](./268745-singstar-intro.json) |
+| SingStar Junior | 65564 | [65564-singstar-junior.json](./65564-singstar-junior.json) |
 | SingStar MegaHits | 268748 | [268748-singstar-megahits.json](./268748-singstar-megahits.json) |
 | SingStar Patito Feo | 268749 | [268749-singstar-patito-feo.json](./268749-singstar-patito-feo.json) |
 | SingStar Starter Pack | 268746 | [268746-singstar-starter-pack.json](./268746-singstar-starter-pack.json) |
@@ -9546,6 +9549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: Shattered Dimensions | 209975 | [209975-spider-man-shattered-dimensions.json](./209975-spider-man-shattered-dimensions.json) |
 | Spider-Man: The Sinister Six | 66383 | [66383-spider-man-the-sinister-six.json](./66383-spider-man-the-sinister-six.json) |
 | Spider-Man: The Video Game | 46761 | [46761-spider-man-the-video-game.json](./46761-spider-man-the-video-game.json) |
+| Spider-Man: Toxic City | 65592 | [65592-spider-man-toxic-city.json](./65592-spider-man-toxic-city.json) |
 | Spider-Man: Ultimate Power | 188550 | [188550-spider-man-ultimate-power.json](./188550-spider-man-ultimate-power.json) |
 | Spider-Man: Web of Shadows | 209976 | [209976-spider-man-web-of-shadows.json](./209976-spider-man-web-of-shadows.json) |
 | Spider-Man: Web of Shadows | 209977 | [209977-spider-man-web-of-shadows.json](./209977-spider-man-web-of-shadows.json) |
@@ -11504,6 +11508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Talons | 126454 | [126454-steel-talons.json](./126454-steel-talons.json) |
 | Steel Team: Academy | 148933 | [148933-steel-team-academy.json](./148933-steel-team-academy.json) |
 | Steel Thunder | 244476 | [244476-steel-thunder.json](./244476-steel-thunder.json) |
+| Steel Thunder | 65568 | [65568-steel-thunder.json](./65568-steel-thunder.json) |
 | Steel Tower Swordmaster | 211943 | [211943-steel-tower-swordmaster.json](./211943-steel-tower-swordmaster.json) |
 | Steel Wars Royale | 148368 | [148368-steel-wars-royale.json](./148368-steel-wars-royale.json) |
 | Steel Wool Studios Bundle | 240350 | [240350-steel-wool-studios-bundle.json](./240350-steel-wool-studios-bundle.json) |
