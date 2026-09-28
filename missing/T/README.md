@@ -4482,6 +4482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Coffee Caper | 338210 | [338210-the-great-coffee-caper.json](./338210-the-great-coffee-caper.json) |
 | The Great Couturier | 290013 | [290013-the-great-couturier.json](./290013-the-great-couturier.json) |
 | The Great Dick Invasion | 213595 | [213595-the-great-dick-invasion.json](./213595-the-great-dick-invasion.json) |
+| The Great Easter Egg Hunt | 79951 | [79951-the-great-easter-egg-hunt.json](./79951-the-great-easter-egg-hunt.json) |
 | The Great Empire: Relic of Egypt | 153335 | [153335-the-great-empire-relic-of-egypt.json](./153335-the-great-empire-relic-of-egypt.json) |
 | The Great Emu War of 1932 | 336566 | [336566-the-great-emu-war-of-1932.json](./336566-the-great-emu-war-of-1932.json) |
 | The Great Escape | 28852 | [28852-the-great-escape.json](./28852-the-great-escape.json) |
@@ -4780,6 +4781,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster | 281482 | [281482-the-idolmaster.json](./281482-the-idolmaster.json) |
 | The Idolmaster Heardle | 205625 | [205625-the-idolmaster-heardle.json](./205625-the-idolmaster-heardle.json) |
 | The Idolmaster Must Songs: Presented by Taiko no Tatsujin - Aka-ban | 149988 | [149988-the-idolmaster-must-songs-presented-by-taiko-no-tatsujin-aka-ban.json](./149988-the-idolmaster-must-songs-presented-by-taiko-no-tatsujin-aka-ban.json) |
+| The Idolmaster: Gravure for You! - Vol. 1 | 79980 | [79980-the-idolmaster-gravure-for-you-vol-1.json](./79980-the-idolmaster-gravure-for-you-vol-1.json) |
+| The Idolmaster: Gravure for You! Vol. 2 | 79977 | [79977-the-idolmaster-gravure-for-you-vol-2.json](./79977-the-idolmaster-gravure-for-you-vol-2.json) |
+| The Idolmaster: Gravure for You! Vol. 3 | 79979 | [79979-the-idolmaster-gravure-for-you-vol-3.json](./79979-the-idolmaster-gravure-for-you-vol-3.json) |
+| The Idolmaster: Gravure for You! Vol. 4 | 79978 | [79978-the-idolmaster-gravure-for-you-vol-4.json](./79978-the-idolmaster-gravure-for-you-vol-4.json) |
 | The Idolmaster: Gravure for You! Vol. 6 | 65224 | [65224-the-idolmaster-gravure-for-you-vol-6.json](./65224-the-idolmaster-gravure-for-you-vol-6.json) |
 | The Idolmaster: Gravure for You! Vol. 8 | 79352 | [79352-the-idolmaster-gravure-for-you-vol-8.json](./79352-the-idolmaster-gravure-for-you-vol-8.json) |
 | The Idolmaster: Million Live! Theater Days | 44154 | [44154-the-idolmaster-million-live-theater-days.json](./44154-the-idolmaster-million-live-theater-days.json) |
@@ -9983,6 +9988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tikal | 103541 | [103541-tikal.json](./103541-tikal.json) |
 | Tikal & Chaos | 331716 | [331716-tikal-and-chaos.json](./331716-tikal-and-chaos.json) |
 | Tikal Online | 414559 | [414559-tikal-online.json](./414559-tikal-online.json) |
+| Tiki Magic Mini Golf | 79961 | [79961-tiki-magic-mini-golf.json](./79961-tiki-magic-mini-golf.json) |
 | Tiki Ombo | 105914 | [105914-tiki-ombo.json](./105914-tiki-ombo.json) |
 | Tiki Resort | 92444 | [92444-tiki-resort.json](./92444-tiki-resort.json) |
 | Tiki Solitaire TriPeaks | 86965 | [86965-tiki-solitaire-tripeaks.json](./86965-tiki-solitaire-tripeaks.json) |
@@ -11179,6 +11185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Project 8 Mobile | 197321 | [197321-tony-hawks-project-8-mobile.json](./197321-tony-hawks-project-8-mobile.json) |
 | Tony Hawk's Proving Ground | 249760 | [249760-tony-hawks-proving-ground.json](./249760-tony-hawks-proving-ground.json) |
 | Tony Hawk's Proving Ground | 364482 | [364482-tony-hawks-proving-ground.json](./364482-tony-hawks-proving-ground.json) |
+| Tony Hawk's Shred Session | 79819 | [79819-tony-hawks-shred-session.json](./79819-tony-hawks-shred-session.json) |
 | Tony Hawk's Skate Jam | 112920 | [112920-tony-hawks-skate-jam.json](./112920-tony-hawks-skate-jam.json) |
 | Tony Hawk's Sonic McOrigins Plus Christmas | 279726 | [279726-tony-hawks-sonic-mcorigins-plus-christmas.json](./279726-tony-hawks-sonic-mcorigins-plus-christmas.json) |
 | Tony Hawk's Underground | 2698 | [2698-tony-hawks-underground.json](./2698-tony-hawks-underground.json) |
@@ -13710,6 +13717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron | 297488 | [297488-tron.json](./297488-tron.json) |
 | Tron | 5247 | [5247-tron.json](./5247-tron.json) |
 | Tron | 89933 | [89933-tron.json](./89933-tron.json) |
+| Tron 2.0: Killer App | 79835 | [79835-tron-2-0-killer-app.json](./79835-tron-2-0-killer-app.json) |
 | Tron 2.0: Killer App Mod | 327416 | [327416-tron-2-0-killer-app-mod.json](./327416-tron-2-0-killer-app-mod.json) |
 | Tron Run/r | 19978 | [19978-tron-run-r.json](./19978-tron-run-r.json) |
 | Tron Run/r: Deluxe Edition | 53853 | [53853-tron-run-r-deluxe-edition.json](./53853-tron-run-r-deluxe-edition.json) |
