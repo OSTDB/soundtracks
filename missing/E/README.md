@@ -1132,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elsp | 229822 | [229822-elsp.json](./229822-elsp.json) |
 | Elsword | 115692 | [115692-elsword.json](./115692-elsword.json) |
 | Elta 7 | 192684 | [192684-elta-7.json](./192684-elta-7.json) |
+| Elthlead Senshi | 92072 | [92072-elthlead-senshi.json](./92072-elthlead-senshi.json) |
 | Elumin | 295811 | [295811-elumin.json](./295811-elumin.json) |
 | Elune | 125832 | [125832-elune.json](./125832-elune.json) |
 | Elusive | 336540 | [336540-elusive.json](./336540-elusive.json) |
@@ -3459,6 +3460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exuvia | 401845 | [401845-exuvia.json](./401845-exuvia.json) |
 | Exvelten | 153857 | [153857-exvelten.json](./153857-exvelten.json) |
 | Exzeal | 32926 | [32926-exzeal.json](./32926-exzeal.json) |
+| ExZeus | 92099 | [92099-exzeus.json](./92099-exzeus.json) |
 | Exzore: The Rising | 42666 | [42666-exzore-the-rising.json](./42666-exzore-the-rising.json) |
 | Exсive A-1000 | 113714 | [113714-ex-ive-a-1000.json](./113714-ex-ive-a-1000.json) |
 | Eyad and Hala | 186182 | [186182-eyad-and-hala.json](./186182-eyad-and-hala.json) |
