@@ -617,7 +617,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Pets: Magic Rhythm de Yeah! | 141124 | [141124-jewel-pets-magic-rhythm-de-yeah.json](./141124-jewel-pets-magic-rhythm-de-yeah.json) |
 | Jewel Queen: Puzzle & Magic | 212485 | [212485-jewel-queen-puzzle-and-magic.json](./212485-jewel-queen-puzzle-and-magic.json) |
 | Jewel Quest | 196845 | [196845-jewel-quest.json](./196845-jewel-quest.json) |
+| Jewel Quest | 85622 | [85622-jewel-quest.json](./85622-jewel-quest.json) |
 | Jewel Quest 4 Heritage | 85215 | [85215-jewel-quest-4-heritage.json](./85215-jewel-quest-4-heritage.json) |
+| Jewel Quest 4: Heritage | 85621 | [85621-jewel-quest-4-heritage.json](./85621-jewel-quest-4-heritage.json) |
 | Jewel Quest Mysteries 3: The Seventh Gate | 85214 | [85214-jewel-quest-mysteries-3-the-seventh-gate.json](./85214-jewel-quest-mysteries-3-the-seventh-gate.json) |
 | Jewel Quest Mysteries IV: The Oracle of Ur | 206729 | [206729-jewel-quest-mysteries-iv-the-oracle-of-ur.json](./206729-jewel-quest-mysteries-iv-the-oracle-of-ur.json) |
 | Jewel Quest Pack | 29206 | [29206-jewel-quest-pack.json](./29206-jewel-quest-pack.json) |
