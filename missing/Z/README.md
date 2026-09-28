@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Gunship Revenant AR | 87281 | [87281-zombie-gunship-revenant-ar.json](./87281-zombie-gunship-revenant-ar.json) |
 | Zombie Harvest | 87158 | [87158-zombie-harvest.json](./87158-zombie-harvest.json) |
 | Zombie Hazard | 166776 | [166776-zombie-hazard.json](./166776-zombie-hazard.json) |
+| Zombie Head | 104836 | [104836-zombie-head.json](./104836-zombie-head.json) |
 | Zombie Hell: Infected City | 216814 | [216814-zombie-hell-infected-city.json](./216814-zombie-hell-infected-city.json) |
 | Zombie High Dive | 344004 | [344004-zombie-high-dive.json](./344004-zombie-high-dive.json) |
 | Zombie Highway | 201839 | [201839-zombie-highway.json](./201839-zombie-highway.json) |
