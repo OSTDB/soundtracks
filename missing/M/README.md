@@ -5037,6 +5037,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind In Despair | 231917 | [231917-mind-in-despair.json](./231917-mind-in-despair.json) |
 | Mind Jab | 227846 | [227846-mind-jab.json](./227846-mind-jab.json) |
 | Mind Keeper | 296974 | [296974-mind-keeper.json](./296974-mind-keeper.json) |
+| Mind Labyrinth VR Dreams | 100311 | [100311-mind-labyrinth-vr-dreams.json](./100311-mind-labyrinth-vr-dreams.json) |
+| Mind Maze | 100308 | [100308-mind-maze.json](./100308-mind-maze.json) |
 | Mind Medley | 209509 | [209509-mind-medley.json](./209509-mind-medley.json) |
 | Mind Muscle VR | 150531 | [150531-mind-muscle-vr.json](./150531-mind-muscle-vr.json) |
 | Mind Over Matter | 209508 | [209508-mind-over-matter.json](./209508-mind-over-matter.json) |
@@ -8185,6 +8187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Challenge | 169755 | [169755-mushroom-challenge.json](./169755-mushroom-challenge.json) |
 | Mushroom Doom | 389747 | [389747-mushroom-doom.json](./389747-mushroom-doom.json) |
 | Mushroom Forest | 382881 | [382881-mushroom-forest.json](./382881-mushroom-forest.json) |
+| Mushroom Guardian | 100362 | [100362-mushroom-guardian.json](./100362-mushroom-guardian.json) |
 | Mushroom Heaven | 202807 | [202807-mushroom-heaven.json](./202807-mushroom-heaven.json) |
 | Mushroom Hunt | 145673 | [145673-mushroom-hunt.json](./145673-mushroom-hunt.json) |
 | Mushroom Hunter | 190969 | [190969-mushroom-hunter.json](./190969-mushroom-hunter.json) |
