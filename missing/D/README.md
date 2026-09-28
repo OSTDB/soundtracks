@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Day | 14768 | [14768-d-day.json](./14768-d-day.json) |
 | D-Day | 27252 | [27252-d-day.json](./27252-d-day.json) |
 | D-Day VR Museum | 295790 | [295790-d-day-vr-museum.json](./295790-d-day-vr-museum.json) |
+| D-Day: America Invades | 69911 | [69911-d-day-america-invades.json](./69911-d-day-america-invades.json) |
 | D-Day: Normandy | 180210 | [180210-d-day-normandy.json](./180210-d-day-normandy.json) |
 | D-Day: The Beginning of the End | 12417 | [12417-d-day-the-beginning-of-the-end.json](./12417-d-day-the-beginning-of-the-end.json) |
 | D-Pad Hero | 163218 | [163218-d-pad-hero.json](./163218-d-pad-hero.json) |
@@ -2590,6 +2591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demigods | 34304 | [34304-demigods.json](./34304-demigods.json) |
 | Demining | 342163 | [342163-demining.json](./342163-demining.json) |
 | Demise Sanctuary | 201243 | [201243-demise-sanctuary.json](./201243-demise-sanctuary.json) |
+| Demise: The Revelation | 69922 | [69922-demise-the-revelation.json](./69922-demise-the-revelation.json) |
 | Demiurge Sacrifice | 380691 | [380691-demiurge-sacrifice.json](./380691-demiurge-sacrifice.json) |
 | Demiurges | 221110 | [221110-demiurges.json](./221110-demiurges.json) |
 | Demo Disc: Flipside Frights | 398993 | [398993-demo-disc-flipside-frights.json](./398993-demo-disc-flipside-frights.json) |
@@ -6296,6 +6298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Island Blue | 96061 | [96061-dragon-island-blue.json](./96061-dragon-island-blue.json) |
 | Dragon Joust | 142843 | [142843-dragon-joust.json](./142843-dragon-joust.json) |
 | Dragon Jump | 348264 | [348264-dragon-jump.json](./348264-dragon-jump.json) |
+| Dragon Jumper | 69898 | [69898-dragon-jumper.json](./69898-dragon-jumper.json) |
 | Dragon Jumpers | 382228 | [382228-dragon-jumpers.json](./382228-dragon-jumpers.json) |
 | Dragon Keeper 2 | 356182 | [356182-dragon-keeper-2.json](./356182-dragon-keeper-2.json) |
 | Dragon Khan | 383486 | [383486-dragon-khan.json](./383486-dragon-khan.json) |
@@ -7926,6 +7929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunidle Idle RPG | 227477 | [227477-dunidle-idle-rpg.json](./227477-dunidle-idle-rpg.json) |
 | Dunjonquest: Curse of Ra | 94549 | [94549-dunjonquest-curse-of-ra.json](./94549-dunjonquest-curse-of-ra.json) |
 | Dunjonquest: Temple of Apshai | 68778 | [68778-dunjonquest-temple-of-apshai.json](./68778-dunjonquest-temple-of-apshai.json) |
+| Dunjonquest: Upper Reaches of Apshai | 69915 | [69915-dunjonquest-upper-reaches-of-apshai.json](./69915-dunjonquest-upper-reaches-of-apshai.json) |
 | Dunjunguy | 240736 | [240736-dunjunguy.json](./240736-dunjunguy.json) |
 | Dunk Cookies | 382760 | [382760-dunk-cookies.json](./382760-dunk-cookies.json) |
 | Dunk Hit | 87360 | [87360-dunk-hit.json](./87360-dunk-hit.json) |
