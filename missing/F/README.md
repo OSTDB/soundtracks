@@ -1087,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy: Forever and Ever! | 201279 | [201279-farm-frenzy-forever-and-ever.json](./201279-farm-frenzy-forever-and-ever.json) |
 | Farm Frenzy: Heave Ho | 34629 | [34629-farm-frenzy-heave-ho.json](./34629-farm-frenzy-heave-ho.json) |
 | Farm Girl am Nil | 85883 | [85883-farm-girl-am-nil.json](./85883-farm-girl-am-nil.json) |
+| Farm Heroes Super Saga | 101079 | [101079-farm-heroes-super-saga.json](./101079-farm-heroes-super-saga.json) |
 | Farm Invaders | 285555 | [285555-farm-invaders.json](./285555-farm-invaders.json) |
 | Farm Invaders | 324319 | [324319-farm-invaders.json](./324319-farm-invaders.json) |
 | Farm Invasion USA | 61125 | [61125-farm-invasion-usa.json](./61125-farm-invasion-usa.json) |
@@ -3077,6 +3078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flag Defender! | 262656 | [262656-flag-defender.json](./262656-flag-defender.json) |
 | Flag Defense | 213012 | [213012-flag-defense.json](./213012-flag-defense.json) |
 | Flag N Frag | 33157 | [33157-flag-n-frag.json](./33157-flag-n-frag.json) |
+| Flag Solitaire + Quiz - A Brain Game | 101051 | [101051-flag-solitaire-quiz-a-brain-game.json](./101051-flag-solitaire-quiz-a-brain-game.json) |
 | Flag Trivia Quiz: Four Choices! | 378803 | [378803-flag-trivia-quiz-four-choices.json](./378803-flag-trivia-quiz-four-choices.json) |
 | Flagdashers | 289871 | [289871-flagdashers.json](./289871-flagdashers.json) |
 | Flagdoku | 333550 | [333550-flagdoku.json](./333550-flagdoku.json) |
@@ -3369,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Out! | 40799 | [40799-flip-out.json](./40799-flip-out.json) |
 | Flip Tale | 133381 | [133381-flip-tale.json](./133381-flip-tale.json) |
 | Flip the Birdie | 252711 | [252711-flip-the-birdie.json](./252711-flip-the-birdie.json) |
+| Flip the Rocket | 101102 | [101102-flip-the-rocket.json](./101102-flip-the-rocket.json) |
 | Flip Trickster | 89215 | [89215-flip-trickster.json](./89215-flip-trickster.json) |
 | Flip Trickster: Parkour Simulator | 96708 | [96708-flip-trickster-parkour-simulator.json](./96708-flip-trickster-parkour-simulator.json) |
 | Flip Trip | 233108 | [233108-flip-trip.json](./233108-flip-trip.json) |
@@ -4197,6 +4200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever Growing Garden | 62158 | [62158-forever-growing-garden.json](./62158-forever-growing-garden.json) |
 | Forever Indy | 256924 | [256924-forever-indy.json](./256924-forever-indy.json) |
 | Forever Lost in the Never Ending Museum of Still Life | 129603 | [129603-forever-lost-in-the-never-ending-museum-of-still-life.json](./129603-forever-lost-in-the-never-ending-museum-of-still-life.json) |
+| Forever Lost: Episode 1 SD | 101071 | [101071-forever-lost-episode-1-sd.json](./101071-forever-lost-episode-1-sd.json) |
 | Forever Quester | 243957 | [243957-forever-quester.json](./243957-forever-quester.json) |
 | Forever Time | 342751 | [342751-forever-time.json](./342751-forever-time.json) |
 | Forever War | 119011 | [119011-forever-war.json](./119011-forever-war.json) |
