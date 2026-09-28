@@ -668,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veridus: The Walking Nightmare | 416672 | [416672-veridus-the-walking-nightmare.json](./416672-veridus-the-walking-nightmare.json) |
 | Verisim Skies | 244899 | [244899-verisim-skies.json](./244899-verisim-skies.json) |
 | Veritas | 111443 | [111443-veritas.json](./111443-veritas.json) |
+| Veritex | 81166 | [81166-veritex.json](./81166-veritex.json) |
 | Veritus | 260627 | [260627-veritus.json](./260627-veritus.json) |
 | Veriventure | 400851 | [400851-veriventure.json](./400851-veriventure.json) |
 | Verjaded | 179512 | [179512-verjaded.json](./179512-verjaded.json) |
@@ -1643,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Dinosaur Village | 282027 | [282027-vr-dinosaur-village.json](./282027-vr-dinosaur-village.json) |
 | VR Dodgeball Trainer | 191895 | [191895-vr-dodgeball-trainer.json](./191895-vr-dodgeball-trainer.json) |
 | VR Enigma | 105130 | [105130-vr-enigma.json](./105130-vr-enigma.json) |
+| VR Escape the Puzzle Room | 81182 | [81182-vr-escape-the-puzzle-room.json](./81182-vr-escape-the-puzzle-room.json) |
 | VR Escape the space station | 31782 | [31782-vr-escape-the-space-station.json](./31782-vr-escape-the-space-station.json) |
 | VR Fantasy | 395540 | [395540-vr-fantasy.json](./395540-vr-fantasy.json) |
 | VR Fight Covid-19 | 147352 | [147352-vr-fight-covid-19.json](./147352-vr-fight-covid-19.json) |
