@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CalQ | 61569 | [61569-calq.json](./61569-calq.json) |
 | Caltron 6-in-1 | 81250 | [81250-caltron-6-in-1.json](./81250-caltron-6-in-1.json) |
 | Calvar: The Darkest Gate | 318008 | [318008-calvar-the-darkest-gate.json](./318008-calvar-the-darkest-gate.json) |
+| Calvin Tucker's Farm Animal Racing | 89420 | [89420-calvin-tuckers-farm-animal-racing.json](./89420-calvin-tuckers-farm-animal-racing.json) |
 | Calvin's Gallery | 377043 | [377043-calvins-gallery.json](./377043-calvins-gallery.json) |
 | Calvino Noir | 17713 | [17713-calvino-noir.json](./17713-calvino-noir.json) |
 | Calx | 203520 | [203520-calx.json](./203520-calx.json) |
@@ -2680,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chefrens Pyramid | 142454 | [142454-chefrens-pyramid.json](./142454-chefrens-pyramid.json) |
 | Chefware | 376535 | [376535-chefware.json](./376535-chefware.json) |
 | Chefy-Chef | 192671 | [192671-chefy-chef.json](./192671-chefy-chef.json) |
+| Cheitha | 89391 | [89391-cheitha.json](./89391-cheitha.json) |
 | Chelesste | 253995 | [253995-chelesste.json](./253995-chelesste.json) |
 | Chell's Way to Home | 219157 | [219157-chells-way-to-home.json](./219157-chells-way-to-home.json) |
 | Chelsea Club Football | 267882 | [267882-chelsea-club-football.json](./267882-chelsea-club-football.json) |
@@ -3100,6 +3102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Pope Door | 264677 | [264677-chinese-pope-door.json](./264677-chinese-pope-door.json) |
 | Chinese Souls: Hua Garden | 90614 | [90614-chinese-souls-hua-garden.json](./90614-chinese-souls-hua-garden.json) |
 | Chinese Style School | 358501 | [358501-chinese-style-school.json](./358501-chinese-style-school.json) |
+| Chinese Tomb Story | 89388 | [89388-chinese-tomb-story.json](./89388-chinese-tomb-story.json) |
 | Chinese Train Trip | 195190 | [195190-chinese-train-trip.json](./195190-chinese-train-trip.json) |
 | Chinese Tycoon | 247457 | [247457-chinese-tycoon.json](./247457-chinese-tycoon.json) |
 | Chineze | 96712 | [96712-chineze.json](./96712-chineze.json) |
@@ -5828,6 +5831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contender | 44853 | [44853-contender.json](./44853-contender.json) |
 | Contenders: Arena | 255684 | [255684-contenders-arena.json](./255684-contenders-arena.json) |
 | Content Caution: The Horror Filmmaker | 335090 | [335090-content-caution-the-horror-filmmaker.json](./335090-content-caution-the-horror-filmmaker.json) |
+| Content Creator Simulator | 89367 | [89367-content-creator-simulator.json](./89367-content-creator-simulator.json) |
 | Content Warning: Scary Filming | 337073 | [337073-content-warning-scary-filming.json](./337073-content-warning-scary-filming.json) |
 | Context Insensitive | 159044 | [159044-context-insensitive.json](./159044-context-insensitive.json) |
 | Continent of the Ninth Golden | 256337 | [256337-continent-of-the-ninth-golden.json](./256337-continent-of-the-ninth-golden.json) |
