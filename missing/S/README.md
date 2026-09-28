@@ -1866,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Season Marbles: Winter | 337627 | [337627-season-marbles-winter.json](./337627-season-marbles-winter.json) |
 | Season of Mystery: The Cherry Blossom Murders | 9326 | [9326-season-of-mystery-the-cherry-blossom-murders.json](./9326-season-of-mystery-the-cherry-blossom-murders.json) |
 | Season Ticket Baseball | 206642 | [206642-season-ticket-baseball.json](./206642-season-ticket-baseball.json) |
+| Season Up | 95603 | [95603-season-up.json](./95603-season-up.json) |
 | Seasonal Affectiveness Disorder | 260789 | [260789-seasonal-affectiveness-disorder.json](./260789-seasonal-affectiveness-disorder.json) |
 | Seasonaut | 384671 | [384671-seasonaut.json](./384671-seasonaut.json) |
 | SeasonPark | 263440 | [263440-seasonpark.json](./263440-seasonpark.json) |
@@ -7126,6 +7127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Antics Ultimate Plus | 54388 | [54388-solitaire-antics-ultimate-plus.json](./54388-solitaire-antics-ultimate-plus.json) |
 | Solitaire Battle | 353365 | [353365-solitaire-battle.json](./353365-solitaire-battle.json) |
 | Solitaire Battle Royal | 111907 | [111907-solitaire-battle-royal.json](./111907-solitaire-battle-royal.json) |
+| Solitaire Beach Season 2 | 95559 | [95559-solitaire-beach-season-2.json](./95559-solitaire-beach-season-2.json) |
 | Solitaire Bliss Collection | 117176 | [117176-solitaire-bliss-collection.json](./117176-solitaire-bliss-collection.json) |
 | Solitaire Card Deck Game '23 | 231896 | [231896-solitaire-card-deck-game-23.json](./231896-solitaire-card-deck-game-23.json) |
 | Solitaire Card Games | 147883 | [147883-solitaire-card-games.json](./147883-solitaire-card-games.json) |
@@ -11332,6 +11334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stefanos Sizzilin Pizza Pie | 103481 | [103481-stefanos-sizzilin-pizza-pie.json](./103481-stefanos-sizzilin-pizza-pie.json) |
 | Stefanos Sizzlin Pizza Pie | 180042 | [180042-stefanos-sizzlin-pizza-pie.json](./180042-stefanos-sizzlin-pizza-pie.json) |
 | Stegosaurs | 185028 | [185028-stegosaurs.json](./185028-stegosaurs.json) |
+| Stein.World | 95575 | [95575-stein-world.json](./95575-stein-world.json) |
 | Steinkraft | 320162 | [320162-steinkraft.json](./320162-steinkraft.json) |
 | Steins;Gate Double Pack | 141877 | [141877-steins-gate-double-pack.json](./141877-steins-gate-double-pack.json) |
 | Steins;Gate Elite: Limited Edition | 136329 | [136329-steins-gate-elite-limited-edition.json](./136329-steins-gate-elite-limited-edition.json) |
@@ -12495,6 +12498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submachine: Future Loop Foundation | 19296 | [19296-submachine-future-loop-foundation.json](./19296-submachine-future-loop-foundation.json) |
 | Submarine | 346083 | [346083-submarine.json](./346083-submarine.json) |
 | Submarine Adventure | 133233 | [133233-submarine-adventure.json](./133233-submarine-adventure.json) |
+| Submarine Car Diving Simulator | 95593 | [95593-submarine-car-diving-simulator.json](./95593-submarine-car-diving-simulator.json) |
 | Submarine Commander | 130269 | [130269-submarine-commander.json](./130269-submarine-commander.json) |
 | Submarine Dash | 56762 | [56762-submarine-dash.json](./56762-submarine-dash.json) |
 | Submarine Fury | 73802 | [73802-submarine-fury.json](./73802-submarine-fury.json) |
@@ -13317,6 +13321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Darts VR | 111720 | [111720-super-darts-vr.json](./111720-super-darts-vr.json) |
 | Super Dash | 302361 | [302361-super-dash.json](./302361-super-dash.json) |
 | Super Dash Ball | 286634 | [286634-super-dash-ball.json](./286634-super-dash-ball.json) |
+| Super Dashmatch | 95586 | [95586-super-dashmatch.json](./95586-super-dashmatch.json) |
 | Super Death Arena | 30126 | [30126-super-death-arena.json](./30126-super-death-arena.json) |
 | Super Demo World: The Legend Continues | 198224 | [198224-super-demo-world-the-legend-continues.json](./198224-super-demo-world-the-legend-continues.json) |
 | Super Destronaut 2: Go Duck Yourself | 84917 | [84917-super-destronaut-2-go-duck-yourself.json](./84917-super-destronaut-2-go-duck-yourself.json) |
