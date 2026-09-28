@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Mountain Massacre 2 | 270207 | [270207-candy-mountain-massacre-2.json](./270207-candy-mountain-massacre-2.json) |
 | Candy Mountain Massacre: Revenge | 331959 | [331959-candy-mountain-massacre-revenge.json](./331959-candy-mountain-massacre-revenge.json) |
 | Candy Noox | 26934 | [26934-candy-noox.json](./26934-candy-noox.json) |
+| Candy Patrol: Lollipop Defense | 108621 | [108621-candy-patrol-lollipop-defense.json](./108621-candy-patrol-lollipop-defense.json) |
 | Candy Puzzles | 328563 | [328563-candy-puzzles.json](./328563-candy-puzzles.json) |
 | Candy Rangers | 265694 | [265694-candy-rangers.json](./265694-candy-rangers.json) |
 | Candy Renovation | 301990 | [301990-candy-renovation.json](./301990-candy-renovation.json) |
@@ -4882,6 +4883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Ball | 191131 | [191131-color-ball.json](./191131-color-ball.json) |
 | Color Ball | 279063 | [279063-color-ball.json](./279063-color-ball.json) |
 | Color Ball 2018 | 100890 | [100890-color-ball-2018.json](./100890-color-ball-2018.json) |
+| Color Balls of Goo | 108618 | [108618-color-balls-of-goo.json](./108618-color-balls-of-goo.json) |
 | Color Blind: The Game | 231397 | [231397-color-blind-the-game.json](./231397-color-blind-the-game.json) |
 | Color Block Jam | 339436 | [339436-color-block-jam.json](./339436-color-block-jam.json) |
 | Color Blocks - Relax Puzzle | 130854 | [130854-color-blocks-relax-puzzle.json](./130854-color-blocks-relax-puzzle.json) |
@@ -4975,6 +4977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorfuly Ball | 321485 | [321485-colorfuly-ball.json](./321485-colorfuly-ball.json) |
 | Colorider | 213324 | [213324-colorider.json](./213324-colorider.json) |
 | Colorim | 261525 | [261525-colorim.json](./261525-colorim.json) |
+| Coloring 2 | 108638 | [108638-coloring-2.json](./108638-coloring-2.json) |
 | Coloring Animal Zoo Touch to Color Activity Coloring Book for Kids and Family Preschool Ultimate Edition | 232167 | [232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json](./232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json) |
 | Coloring Book - Halloween | 87110 | [87110-coloring-book-halloween.json](./87110-coloring-book-halloween.json) |
 | Coloring Book for Ladybug & Cat Noir | 96011 | [96011-coloring-book-for-ladybug-and-cat-noir.json](./96011-coloring-book-for-ladybug-and-cat-noir.json) |
@@ -6965,6 +6968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Steam Bros 2 | 35640 | [35640-crazy-steam-bros-2.json](./35640-crazy-steam-bros-2.json) |
 | Crazy Stone Deep Learning | 208915 | [208915-crazy-stone-deep-learning.json](./208915-crazy-stone-deep-learning.json) |
 | Crazy Stunt Driver: Extreme Racing Simulator | 300859 | [300859-crazy-stunt-driver-extreme-racing-simulator.json](./300859-crazy-stunt-driver-extreme-racing-simulator.json) |
+| Crazy Tap Chef | 108610 | [108610-crazy-tap-chef.json](./108610-crazy-tap-chef.json) |
 | Crazy Tapper + | 175343 | [175343-crazy-tapper.json](./175343-crazy-tapper.json) |
 | Crazy Taxi | 1805 | [1805-crazy-taxi.json](./1805-crazy-taxi.json) |
 | Crazy Taxi | 39191 | [39191-crazy-taxi.json](./39191-crazy-taxi.json) |
@@ -7473,6 +7477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossword Go | 303106 | [303106-crossword-go.json](./303106-crossword-go.json) |
 | Crossword Master | 381272 | [381272-crossword-master.json](./381272-crossword-master.json) |
 | Crossword Puzzle | 286096 | [286096-crossword-puzzle.json](./286096-crossword-puzzle.json) |
+| Crossword Safari: Word Hunt | 108630 | [108630-crossword-safari-word-hunt.json](./108630-crossword-safari-word-hunt.json) |
 | Crosswords | 89675 | [89675-crosswords.json](./89675-crosswords.json) |
 | Crosswords Classic | 97301 | [97301-crosswords-classic.json](./97301-crosswords-classic.json) |
 | Crossy Crash | 98779 | [98779-crossy-crash.json](./98779-crossy-crash.json) |
@@ -8320,6 +8325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut the Box | 117724 | [117724-cut-the-box.json](./117724-cut-the-box.json) |
 | Cut the Ex-Girlfriends | 102225 | [102225-cut-the-ex-girlfriends.json](./102225-cut-the-ex-girlfriends.json) |
 | Cut the Rope | 9761 | [9761-cut-the-rope.json](./9761-cut-the-rope.json) |
+| Cut the Rope 2: Om Nom's Quest | 108611 | [108611-cut-the-rope-2-om-noms-quest.json](./108611-cut-the-rope-2-om-noms-quest.json) |
 | Cut the Rope Remastered | 145634 | [145634-cut-the-rope-remastered.json](./145634-cut-the-rope-remastered.json) |
 | Cut the Rope: Blast | 183607 | [183607-cut-the-rope-blast.json](./183607-cut-the-rope-blast.json) |
 | Cut the Rope: Holiday Gift | 91951 | [91951-cut-the-rope-holiday-gift.json](./91951-cut-the-rope-holiday-gift.json) |
