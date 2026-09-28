@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rance VI Sonogo | 329187 | [329187-rance-vi-sonogo.json](./329187-rance-vi-sonogo.json) |
 | Rance VI: Collapse of Zeth | 132656 | [132656-rance-vi-collapse-of-zeth.json](./132656-rance-vi-collapse-of-zeth.json) |
 | Ranch Mayhem | 298049 | [298049-ranch-mayhem.json](./298049-ranch-mayhem.json) |
+| Ranch Planet | 104270 | [104270-ranch-planet.json](./104270-ranch-planet.json) |
 | Ranch Store Simulator | 333012 | [333012-ranch-store-simulator.json](./333012-ranch-store-simulator.json) |
 | Rancid | 124234 | [124234-rancid.json](./124234-rancid.json) |
 | Rand-O-mazE | 110359 | [110359-rand-o-maze.json](./110359-rand-o-maze.json) |
@@ -1489,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebels & Redcoats | 122394 | [122394-rebels-and-redcoats.json](./122394-rebels-and-redcoats.json) |
 | Rebels Prison Escape | 71233 | [71233-rebels-prison-escape.json](./71233-rebels-prison-escape.json) |
 | Rebels: Under the Spell of Magic - Chapter 5 | 384218 | [384218-rebels-under-the-spell-of-magic-chapter-5.json](./384218-rebels-under-the-spell-of-magic-chapter-5.json) |
+| Rebelstar II: Alien Encounter | 104242 | [104242-rebelstar-ii-alien-encounter.json](./104242-rebelstar-ii-alien-encounter.json) |
 | Rebelstar: Tactical Command | 6554 | [6554-rebelstar-tactical-command.json](./6554-rebelstar-tactical-command.json) |
 | Rebirth | 116854 | [116854-rebirth.json](./116854-rebirth.json) |
 | Rebirth | 345525 | [345525-rebirth.json](./345525-rebirth.json) |
@@ -3606,6 +3608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rite of Passage: Heart of the Storm | 104117 | [104117-rite-of-passage-heart-of-the-storm.json](./104117-rite-of-passage-heart-of-the-storm.json) |
 | Rite of Passage: Heart of the Storm - Collector's Edition | 194636 | [194636-rite-of-passage-heart-of-the-storm-collectors-edition.json](./194636-rite-of-passage-heart-of-the-storm-collectors-edition.json) |
 | Rite of Passage: Hide and Seek | 98377 | [98377-rite-of-passage-hide-and-seek.json](./98377-rite-of-passage-hide-and-seek.json) |
+| Rite of Passage: Hide and Seek HD | 104215 | [104215-rite-of-passage-hide-and-seek-hd.json](./104215-rite-of-passage-hide-and-seek-hd.json) |
 | Rite of Passage: The Lost Tides HD | 100231 | [100231-rite-of-passage-the-lost-tides-hd.json](./100231-rite-of-passage-the-lost-tides-hd.json) |
 | Rite of Titans | 220706 | [220706-rite-of-titans.json](./220706-rite-of-titans.json) |
 | Ritenuto | 353875 | [353875-ritenuto.json](./353875-ritenuto.json) |
@@ -3731,6 +3734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road of Death | 207903 | [207903-road-of-death.json](./207903-road-of-death.json) |
 | Road of Destiny | 87957 | [87957-road-of-destiny.json](./87957-road-of-destiny.json) |
 | Road of Dust and Rust | 87949 | [87949-road-of-dust-and-rust.json](./87949-road-of-dust-and-rust.json) |
+| Road Patrol Truck | 104227 | [104227-road-patrol-truck.json](./104227-road-patrol-truck.json) |
 | Road Race | 200425 | [200425-road-race.json](./200425-road-race.json) |
 | Road Racer | 297243 | [297243-road-racer.json](./297243-road-racer.json) |
 | Road Rage 3 | 43536 | [43536-road-rage-3.json](./43536-road-rage-3.json) |
@@ -4870,6 +4874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roseline | 276831 | [276831-roseline.json](./276831-roseline.json) |
 | Roses and Gems | 34359 | [34359-roses-and-gems.json](./34359-roses-and-gems.json) |
 | Roses Shoot Red, Violets Shoot Blue | 334167 | [334167-roses-shoot-red-violets-shoot-blue.json](./334167-roses-shoot-red-violets-shoot-blue.json) |
+| Roses&Heart | 104262 | [104262-roses-and-heart.json](./104262-roses-and-heart.json) |
 | Rosetta and the Well | 301989 | [301989-rosetta-and-the-well.json](./301989-rosetta-and-the-well.json) |
 | RoShamBo Arena | 34714 | [34714-roshambo-arena.json](./34714-roshambo-arena.json) |
 | RoShamBo Arena: Starter Fighter Pack | 170304 | [170304-roshambo-arena-starter-fighter-pack.json](./170304-roshambo-arena-starter-fighter-pack.json) |
@@ -4999,6 +5004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Row of Numbers | 234731 | [234731-row-of-numbers.json](./234731-row-of-numbers.json) |
 | Rowan's Battle of Britain | 73818 | [73818-rowans-battle-of-britain.json](./73818-rowans-battle-of-britain.json) |
 | RowBot Rally | 256258 | [256258-rowbot-rally.json](./256258-rowbot-rally.json) |
+| Rowdy Wrestling | 104211 | [104211-rowdy-wrestling.json](./104211-rowdy-wrestling.json) |
 | Rowtropia | 260628 | [260628-rowtropia.json](./260628-rowtropia.json) |
 | Rox II | 315507 | [315507-rox-ii.json](./315507-rox-ii.json) |
 | Roxanne | 382316 | [382316-roxanne.json](./382316-roxanne.json) |
