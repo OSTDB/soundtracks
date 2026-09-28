@@ -6512,6 +6512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragons of Elanthia | 62998 | [62998-dragons-of-elanthia.json](./62998-dragons-of-elanthia.json) |
 | Dragons of Hong Kong | 55836 | [55836-dragons-of-hong-kong.json](./55836-dragons-of-hong-kong.json) |
 | Dragons Vs Aircrafts | 101500 | [101500-dragons-vs-aircrafts.json](./101500-dragons-vs-aircrafts.json) |
+| Dragons War | 69335 | [69335-dragons-war.json](./69335-dragons-war.json) |
 | Dragons: Titan Uprising | 123626 | [123626-dragons-titan-uprising.json](./123626-dragons-titan-uprising.json) |
 | Dragonsbane | 38921 | [38921-dragonsbane.json](./38921-dragonsbane.json) |
 | Dragonscale Monastery | 260170 | [260170-dragonscale-monastery.json](./260170-dragonscale-monastery.json) |
@@ -6745,6 +6746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Management | 49608 | [49608-dream-management.json](./49608-dream-management.json) |
 | Dream Management Company | 339127 | [339127-dream-management-company.json](./339127-dream-management-company.json) |
 | Dream Master | 48611 | [48611-dream-master.json](./48611-dream-master.json) |
+| Dream Match Tennis | 69361 | [69361-dream-match-tennis.json](./69361-dream-match-tennis.json) |
 | Dream Match Tennis Pro | 109197 | [109197-dream-match-tennis-pro.json](./109197-dream-match-tennis-pro.json) |
 | Dream Match Tennis VR | 105507 | [105507-dream-match-tennis-vr.json](./105507-dream-match-tennis-vr.json) |
 | Dream Medicine | 286126 | [286126-dream-medicine.json](./286126-dream-medicine.json) |
@@ -7088,6 +7090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driver Test | 98799 | [98799-driver-test.json](./98799-driver-test.json) |
 | Driver: San Francisco | 554 | [554-driver-san-francisco.json](./554-driver-san-francisco.json) |
 | Driver's Edge | 39825 | [39825-drivers-edge.json](./39825-drivers-edge.json) |
+| Driver's Education '98 | 69331 | [69331-drivers-education-98.json](./69331-drivers-education-98.json) |
 | Driver's Work Trip | 185150 | [185150-drivers-work-trip.json](./185150-drivers-work-trip.json) |
 | Driver4VR | 152871 | [152871-driver4vr.json](./152871-driver4vr.json) |
 | Drivers Ed Portable | 70425 | [70425-drivers-ed-portable.json](./70425-drivers-ed-portable.json) |
@@ -7504,6 +7507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem Forever Collection | 335681 | [335681-duke-nukem-forever-collection.json](./335681-duke-nukem-forever-collection.json) |
 | Duke Nukem Forever: Enhanced | 297232 | [297232-duke-nukem-forever-enhanced.json](./297232-duke-nukem-forever-enhanced.json) |
 | Duke Nukem Mobile | 23557 | [23557-duke-nukem-mobile.json](./23557-duke-nukem-mobile.json) |
+| Duke Nukem Trilogy: Chain Reaction | 69326 | [69326-duke-nukem-trilogy-chain-reaction.json](./69326-duke-nukem-trilogy-chain-reaction.json) |
 | Duke Nukem Trilogy: Proving Grounds | 69263 | [69263-duke-nukem-trilogy-proving-grounds.json](./69263-duke-nukem-trilogy-proving-grounds.json) |
 | Duke Nukem Xmas 2014 | 291979 | [291979-duke-nukem-xmas-2014.json](./291979-duke-nukem-xmas-2014.json) |
 | Duke Nukem: Land of the Babes | 8504 | [8504-duke-nukem-land-of-the-babes.json](./8504-duke-nukem-land-of-the-babes.json) |
