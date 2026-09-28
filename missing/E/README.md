@@ -773,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Ne Rue | 232943 | [232943-el-ne-rue.json](./232943-el-ne-rue.json) |
 | El Notas | 414382 | [414382-el-notas.json](./414382-el-notas.json) |
 | El Panadero: The Baker | 239662 | [239662-el-panadero-the-baker.json](./239662-el-panadero-the-baker.json) |
+| El Pansas | 110530 | [110530-el-pansas.json](./110530-el-pansas.json) |
 | El Paso, Elsewhere | 151788 | [151788-el-paso-elsewhere.json](./151788-el-paso-elsewhere.json) |
 | El Paso, Nightmare | 223134 | [223134-el-paso-nightmare.json](./223134-el-paso-nightmare.json) |
 | El Remedio de Aldorf | 130290 | [130290-el-remedio-de-aldorf.json](./130290-el-remedio-de-aldorf.json) |
@@ -2292,6 +2293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Dark Tower | 260233 | [260233-escape-the-dark-tower.json](./260233-escape-the-dark-tower.json) |
 | Escape the Darkness | 95166 | [95166-escape-the-darkness.json](./95166-escape-the-darkness.json) |
 | Escape the Dynasty | 389719 | [389719-escape-the-dynasty.json](./389719-escape-the-dynasty.json) |
+| Escape the Enterprise | 110552 | [110552-escape-the-enterprise.json](./110552-escape-the-enterprise.json) |
 | Escape The Escape Rooms | 237066 | [237066-escape-the-escape-rooms.json](./237066-escape-the-escape-rooms.json) |
 | Escape The Evil | 297093 | [297093-escape-the-evil.json](./297093-escape-the-evil.json) |
 | Escape the Farm | 274486 | [274486-escape-the-farm.json](./274486-escape-the-farm.json) |
@@ -3173,6 +3175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exitium | 131457 | [131457-exitium.json](./131457-exitium.json) |
 | Exitor | 230958 | [230958-exitor.json](./230958-exitor.json) |
 | Exitrance | 417537 | [417537-exitrance.json](./417537-exitrance.json) |
+| Exive | 110551 | [110551-exive.json](./110551-exive.json) |
 | Exmortis | 196724 | [196724-exmortis.json](./196724-exmortis.json) |
 | EXO Encounter 667 | 179188 | [179188-exo-encounter-667.json](./179188-exo-encounter-667.json) |
 | Exo Exit | 18542 | [18542-exo-exit.json](./18542-exo-exit.json) |
@@ -3391,6 +3394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Offroad Racing | 320540 | [320540-extreme-offroad-racing.json](./320540-extreme-offroad-racing.json) |
 | Extreme Offroad Racing VR | 345124 | [345124-extreme-offroad-racing-vr.json](./345124-extreme-offroad-racing-vr.json) |
 | Extreme Overtake | 323528 | [323528-extreme-overtake.json](./323528-extreme-overtake.json) |
+| Extreme Painting Puzzle | 110504 | [110504-extreme-painting-puzzle.json](./110504-extreme-painting-puzzle.json) |
 | Extreme Pamplona | 139232 | [139232-extreme-pamplona.json](./139232-extreme-pamplona.json) |
 | Extreme Power Soccer | 247043 | [247043-extreme-power-soccer.json](./247043-extreme-power-soccer.json) |
 | Extreme QTE | 151747 | [151747-extreme-qte.json](./151747-extreme-qte.json) |
