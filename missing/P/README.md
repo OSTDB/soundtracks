@@ -1878,6 +1878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penumbra: Black Plague - Gold Edition | 27840 | [27840-penumbra-black-plague-gold-edition.json](./27840-penumbra-black-plague-gold-edition.json) |
 | Penumbris Doña | 325701 | [325701-penumbris-dona.json](./325701-penumbris-dona.json) |
 | Peojeul Pooh | 61672 | [61672-peojeul-pooh.json](./61672-peojeul-pooh.json) |
+| People & Places Trivia | 87562 | [87562-people-and-places-trivia.json](./87562-people-and-places-trivia.json) |
 | People Cu3ed | 108049 | [108049-people-cu3ed.json](./108049-people-cu3ed.json) |
 | People Eater | 28901 | [28901-people-eater.json](./28901-people-eater.json) |
 | People Jumping Tower | 328035 | [328035-people-jumping-tower.json](./328035-people-jumping-tower.json) |
@@ -2036,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persist | 223681 | [223681-persist.json](./223681-persist.json) |
 | Persnippety | 305942 | [305942-persnippety.json](./305942-persnippety.json) |
 | Perso | 30781 | [30781-perso.json](./30781-perso.json) |
+| Person Box Jump with Hammer | 87614 | [87614-person-box-jump-with-hammer.json](./87614-person-box-jump-with-hammer.json) |
 | Persona 2 Batsu: Infinity Mask | 138231 | [138231-persona-2-batsu-infinity-mask.json](./138231-persona-2-batsu-infinity-mask.json) |
 | Persona 2 Tsumi: Lost Memories | 138268 | [138268-persona-2-tsumi-lost-memories.json](./138268-persona-2-tsumi-lost-memories.json) |
 | Persona 2: Eternal Punishment | 230226 | [230226-persona-2-eternal-punishment.json](./230226-persona-2-eternal-punishment.json) |
@@ -2122,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Clinic Simulator | 320372 | [320372-pet-clinic-simulator.json](./320372-pet-clinic-simulator.json) |
 | Pet Crossing | 310034 | [310034-pet-crossing.json](./310034-pet-crossing.json) |
 | Pet Cube: Tower Stack | 242211 | [242211-pet-cube-tower-stack.json](./242211-pet-cube-tower-stack.json) |
+| Pet Dentist Office | 87539 | [87539-pet-dentist-office.json](./87539-pet-dentist-office.json) |
 | Pet Dog | 178682 | [178682-pet-dog.json](./178682-pet-dog.json) |
 | Pet Evolution | 174765 | [174765-pet-evolution.json](./174765-pet-evolution.json) |
 | Pet Grooming Studio | 293207 | [293207-pet-grooming-studio.json](./293207-pet-grooming-studio.json) |
@@ -2935,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pin Pong | 18155 | [18155-pin-pong.json](./18155-pin-pong.json) |
 | Pin Strike 2 | 375421 | [375421-pin-strike-2.json](./375421-pin-strike-2.json) |
 | Pin Strike 3 | 380656 | [380656-pin-strike-3.json](./380656-pin-strike-3.json) |
+| Pin Tiki Ball | 87552 | [87552-pin-tiki-ball.json](./87552-pin-tiki-ball.json) |
 | Pin To Win | 302351 | [302351-pin-to-win.json](./302351-pin-to-win.json) |
 | Pin Zhi | 304893 | [304893-pin-zhi.json](./304893-pin-zhi.json) |
 | Pin-Bowler | 92541 | [92541-pin-bowler.json](./92541-pin-bowler.json) |
@@ -6096,6 +6100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primordio | 400906 | [400906-primordio.json](./400906-primordio.json) |
 | Primrose | 229792 | [229792-primrose.json](./229792-primrose.json) |
 | Primrose | 84809 | [84809-primrose.json](./84809-primrose.json) |
+| Primus Chess | 87546 | [87546-primus-chess.json](./87546-primus-chess.json) |
 | Primus Numen | 381103 | [381103-primus-numen.json](./381103-primus-numen.json) |
 | Prin-quest | 364489 | [364489-prin-quest.json](./364489-prin-quest.json) |
 | Prince & Excalibur | 174309 | [174309-prince-and-excalibur.json](./174309-prince-and-excalibur.json) |
@@ -6419,6 +6424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Rugby Manager 2 | 67949 | [67949-pro-rugby-manager-2.json](./67949-pro-rugby-manager-2.json) |
 | Pro Series Drag Racing | 91081 | [91081-pro-series-drag-racing.json](./91081-pro-series-drag-racing.json) |
 | Pro Skateboard Simulator | 69867 | [69867-pro-skateboard-simulator.json](./69867-pro-skateboard-simulator.json) |
+| Pro Snooker & Pool 2018 | 87554 | [87554-pro-snooker-and-pool-2018.json](./87554-pro-snooker-and-pool-2018.json) |
 | PRO Soccer Challenges 2018 - World Football Stars | 95881 | [95881-pro-soccer-challenges-2018-world-football-stars.json](./95881-pro-soccer-challenges-2018-world-football-stars.json) |
 | Pro Soccer Cup 2002 | 251053 | [251053-pro-soccer-cup-2002.json](./251053-pro-soccer-cup-2002.json) |
 | Pro Soccer Online | 182202 | [182202-pro-soccer-online.json](./182202-pro-soccer-online.json) |
