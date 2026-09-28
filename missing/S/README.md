@@ -2236,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Mega Drive Portable Video Game Player: Streets of Rage Special Edition | 202782 | [202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json](./202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json) |
 | Sega Net Mahjong MJ | 130811 | [130811-sega-net-mahjong-mj.json](./130811-sega-net-mahjong-mj.json) |
 | Sega Network Taisen Mahjong MJ4 | 165395 | [165395-sega-network-taisen-mahjong-mj4.json](./165395-sega-network-taisen-mahjong-mj4.json) |
+| Sega Racing Classic | 67347 | [67347-sega-racing-classic.json](./67347-sega-racing-classic.json) |
 | Sega Rally 2 | 1572 | [1572-sega-rally-2.json](./1572-sega-rally-2.json) |
 | Sega Rally 2006 | 1573 | [1573-sega-rally-2006.json](./1573-sega-rally-2006.json) |
 | Sega Rally Championship Plus | 374706 | [374706-sega-rally-championship-plus.json](./374706-sega-rally-championship-plus.json) |
@@ -6920,7 +6921,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soaked! | 52854 | [52854-soaked.json](./52854-soaked.json) |
 | Soap | 360732 | [360732-soap.json](./360732-soap.json) |
 | Soap Killer | 399075 | [399075-soap-killer.json](./399075-soap-killer.json) |
+| Soap Land Story II: Memory | 67387 | [67387-soap-land-story-ii-memory.json](./67387-soap-land-story-ii-memory.json) |
 | Soap: Bubbles vs. microbes | 183888 | [183888-soap-bubbles-vs-microbes.json](./183888-soap-bubbles-vs-microbes.json) |
+| Soapland Story | 67386 | [67386-soapland-story.json](./67386-soapland-story.json) |
 | Soapy Tales | 392763 | [392763-soapy-tales.json](./392763-soapy-tales.json) |
 | Soar | 236803 | [236803-soar.json](./236803-soar.json) |
 | Soar | 306951 | [306951-soar.json](./306951-soar.json) |
