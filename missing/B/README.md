@@ -2012,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleTanx | 3421 | [3421-battletanx.json](./3421-battletanx.json) |
 | BattleTanx | 47686 | [47686-battletanx.json](./47686-battletanx.json) |
 | BattleTanx: Global Assault | 47685 | [47685-battletanx-global-assault.json](./47685-battletanx-global-assault.json) |
+| Battletech: Firestorm | 60622 | [60622-battletech-firestorm.json](./60622-battletech-firestorm.json) |
 | BattleTech: Flashpoint | 107258 | [107258-battletech-flashpoint.json](./107258-battletech-flashpoint.json) |
 | BattleTech: Heavy Metal | 155087 | [155087-battletech-heavy-metal.json](./155087-battletech-heavy-metal.json) |
 | Battlethorne: Reckoning | 370907 | [370907-battlethorne-reckoning.json](./370907-battlethorne-reckoning.json) |
@@ -2180,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bean Battle Brawl | 338199 | [338199-bean-battle-brawl.json](./338199-bean-battle-brawl.json) |
 | Bean Battles | 106556 | [106556-bean-battles.json](./106556-bean-battles.json) |
 | Bean Climb | 138576 | [138576-bean-climb.json](./138576-bean-climb.json) |
+| Bean Dreams | 60630 | [60630-bean-dreams.json](./60630-bean-dreams.json) |
 | Bean Story | 203904 | [203904-bean-story.json](./203904-bean-story.json) |
 | Bean There Won That | 311497 | [311497-bean-there-won-that.json](./311497-bean-there-won-that.json) |
 | Bean's Quest 2: Bean Dreams | 26919 | [26919-beans-quest-2-bean-dreams.json](./26919-beans-quest-2-bean-dreams.json) |
