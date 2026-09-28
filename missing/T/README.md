@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tail io | 284498 | [284498-tail-io.json](./284498-tail-io.json) |
 | Tail of Glory | 390513 | [390513-tail-of-glory.json](./390513-tail-of-glory.json) |
 | Tail of the Sun | 20814 | [20814-tail-of-the-sun.json](./20814-tail-of-the-sun.json) |
+| Tail Tale | 73338 | [73338-tail-tale.json](./73338-tail-tale.json) |
 | Tail-Tale | 194300 | [194300-tail-tale.json](./194300-tail-tale.json) |
 | Tailed Demon Slayer | 174824 | [174824-tailed-demon-slayer.json](./174824-tailed-demon-slayer.json) |
 | Tailgunner | 132130 | [132130-tailgunner.json](./132130-tailgunner.json) |
@@ -2686,6 +2687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Away Team: Lost Exodus | 120897 | [120897-the-away-team-lost-exodus.json](./120897-the-away-team-lost-exodus.json) |
 | The Awesome Adventures of Captain Spirit | 103283 | [103283-the-awesome-adventures-of-captain-spirit.json](./103283-the-awesome-adventures-of-captain-spirit.json) |
 | The Awesome Adventures of Victor Vector & Yondo: The Cyberplasm Formula | 72098 | [72098-the-awesome-adventures-of-victor-vector-and-yondo-the-cyberplasm-formula.json](./72098-the-awesome-adventures-of-victor-vector-and-yondo-the-cyberplasm-formula.json) |
+| The Awesome Adventures of Victor Vector & Yondo: The Last Dinosaur Egg | 73364 | [73364-the-awesome-adventures-of-victor-vector-and-yondo-the-last-dinosaur-egg.json](./73364-the-awesome-adventures-of-victor-vector-and-yondo-the-last-dinosaur-egg.json) |
 | The Axolotl Project | 60022 | [60022-the-axolotl-project.json](./60022-the-axolotl-project.json) |
 | The Aztec Ruins | 308328 | [308328-the-aztec-ruins.json](./308328-the-aztec-ruins.json) |
 | The Azure One | 402373 | [402373-the-azure-one.json](./402373-the-azure-one.json) |
@@ -3067,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Callisto Protocol: Riot Bundle | 272560 | [272560-the-callisto-protocol-riot-bundle.json](./272560-the-callisto-protocol-riot-bundle.json) |
 | The Campaign Series: Fall Weiss | 36457 | [36457-the-campaign-series-fall-weiss.json](./36457-the-campaign-series-fall-weiss.json) |
 | The Campsite | 326605 | [326605-the-campsite.json](./326605-the-campsite.json) |
+| The Canals of Mars | 73349 | [73349-the-canals-of-mars.json](./73349-the-canals-of-mars.json) |
 | The Candle | 331669 | [331669-the-candle.json](./331669-the-candle.json) |
 | The Candyman | 186729 | [186729-the-candyman.json](./186729-the-candyman.json) |
 | The Cannon Fighters | 253597 | [253597-the-cannon-fighters.json](./253597-the-cannon-fighters.json) |
@@ -6188,6 +6191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of the Buttons Family | 101971 | [101971-the-mystery-of-the-buttons-family.json](./101971-the-mystery-of-the-buttons-family.json) |
 | The Mystery of the Crystal Portal: Beyond the Horizon | 140614 | [140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json](./140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json) |
 | The Mystery of the Mary Celeste | 206229 | [206229-the-mystery-of-the-mary-celeste.json](./206229-the-mystery-of-the-mary-celeste.json) |
+| The Mystery of the Nautilus | 73345 | [73345-the-mystery-of-the-nautilus.json](./73345-the-mystery-of-the-nautilus.json) |
 | The Mystery of the Planet Venus | 307619 | [307619-the-mystery-of-the-planet-venus.json](./307619-the-mystery-of-the-planet-venus.json) |
 | The Mystery of the Village's Sacred Tree | 273662 | [273662-the-mystery-of-the-villages-sacred-tree.json](./273662-the-mystery-of-the-villages-sacred-tree.json) |
 | The Mystery of the Wicked Village | 65446 | [65446-the-mystery-of-the-wicked-village.json](./65446-the-mystery-of-the-wicked-village.json) |
@@ -8676,6 +8680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Know | 283232 | [283232-they-know.json](./283232-they-know.json) |
 | They Linger | 259588 | [259588-they-linger.json](./259588-they-linger.json) |
 | They Look Strange and Have to Die | 181233 | [181233-they-look-strange-and-have-to-die.json](./181233-they-look-strange-and-have-to-die.json) |
+| They Sold a Million II | 73335 | [73335-they-sold-a-million-ii.json](./73335-they-sold-a-million-ii.json) |
 | They Started It | 181224 | [181224-they-started-it.json](./181224-they-started-it.json) |
 | They Stop for Gas at Night | 404445 | [404445-they-stop-for-gas-at-night.json](./404445-they-stop-for-gas-at-night.json) |
 | They That Feast | 113036 | [113036-they-that-feast.json](./113036-they-that-feast.json) |
@@ -11506,6 +11511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Rush | 289939 | [289939-total-rush.json](./289939-total-rush.json) |
 | Total Singu | 102954 | [102954-total-singu.json](./102954-total-singu.json) |
 | Total Ski Jump | 122159 | [122159-total-ski-jump.json](./122159-total-ski-jump.json) |
+| Total Soccer 2000 | 73353 | [73353-total-soccer-2000.json](./73353-total-soccer-2000.json) |
 | Total Soccer Manager | 49343 | [49343-total-soccer-manager.json](./49343-total-soccer-manager.json) |
 | Total Tank Simulator | 75252 | [75252-total-tank-simulator.json](./75252-total-tank-simulator.json) |
 | Total Upheaval | 250640 | [250640-total-upheaval.json](./250640-total-upheaval.json) |
