@@ -7482,6 +7482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaics Galore 2 | 97005 | [97005-mosaics-galore-2.json](./97005-mosaics-galore-2.json) |
 | Mosaics Galore: Challenging Journey | 106143 | [106143-mosaics-galore-challenging-journey.json](./106143-mosaics-galore-challenging-journey.json) |
 | Mosaics Wall Deco | 376473 | [376473-mosaics-wall-deco.json](./376473-mosaics-wall-deco.json) |
+| Mosaique | 63393 | [63393-mosaique.json](./63393-mosaique.json) |
 | Mosaique Neko Waifus 2 | 167808 | [167808-mosaique-neko-waifus-2.json](./167808-mosaique-neko-waifus-2.json) |
 | Mosaique Neko Waifus 4 | 167809 | [167809-mosaique-neko-waifus-4.json](./167809-mosaique-neko-waifus-4.json) |
 | Mosaique Neko Waifus 5 | 221206 | [221206-mosaique-neko-waifus-5.json](./221206-mosaique-neko-waifus-5.json) |
@@ -7674,6 +7675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorcycle Racing: Hill Up Cha | 108641 | [108641-motorcycle-racing-hill-up-cha.json](./108641-motorcycle-racing-hill-up-cha.json) |
 | Motorcycle RPG | 196815 | [196815-motorcycle-rpg.json](./196815-motorcycle-rpg.json) |
 | Motorcycles: World Championship | 312113 | [312113-motorcycles-world-championship.json](./312113-motorcycles-world-championship.json) |
+| MotorGun | 63394 | [63394-motorgun.json](./63394-motorgun.json) |
 | Motorhome: Traveling North America 2 - Collector's Edition | 377671 | [377671-motorhome-traveling-north-america-2-collectors-edition.json](./377671-motorhome-traveling-north-america-2-collectors-edition.json) |
 | Motorhome: Traveling North America 3 - Collector's Edition | 377672 | [377672-motorhome-traveling-north-america-3-collectors-edition.json](./377672-motorhome-traveling-north-america-3-collectors-edition.json) |
 | MotoRodeo | 40787 | [40787-motorodeo.json](./40787-motorodeo.json) |
