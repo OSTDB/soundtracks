@@ -886,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iji | 9778 | [9778-iji.json](./9778-iji.json) |
 | Ijigen Kara no Dasshutsu: Escape from Twilight Zone | 97326 | [97326-ijigen-kara-no-dasshutsu-escape-from-twilight-zone.json](./97326-ijigen-kara-no-dasshutsu-escape-from-twilight-zone.json) |
 | IkachanDS | 339243 | [339243-ikachands.json](./339243-ikachands.json) |
+| Ikao: The lost souls | 114533 | [114533-ikao-the-lost-souls.json](./114533-ikao-the-lost-souls.json) |
 | Ikari III: The Rescue | 48054 | [48054-ikari-iii-the-rescue.json](./48054-ikari-iii-the-rescue.json) |
 | Ikari Warriors II: Victory Road | 48055 | [48055-ikari-warriors-ii-victory-road.json](./48055-ikari-warriors-ii-victory-road.json) |
 | Ikaro: Will Not Die | 273865 | [273865-ikaro-will-not-die.json](./273865-ikaro-will-not-die.json) |
