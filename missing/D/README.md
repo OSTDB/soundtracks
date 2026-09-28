@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daniel Pintado's Land of Silence | 284999 | [284999-daniel-pintados-land-of-silence.json](./284999-daniel-pintados-land-of-silence.json) |
 | Danjon ni Deai o Motomeru no wa Machigatteiru Darou ka? Orario Rhapsodia | 77627 | [77627-danjon-ni-deai-o-motomeru-no-wa-machigatteiru-darou-ka-orario-rhapsodia.json](./77627-danjon-ni-deai-o-motomeru-no-wa-machigatteiru-darou-ka-orario-rhapsodia.json) |
 | Danju | 410238 | [410238-danju.json](./410238-danju.json) |
+| Dank Prank: Dopeville | 117163 | [117163-dank-prank-dopeville.json](./117163-dank-prank-dopeville.json) |
 | Dank Tomb | 177330 | [177330-dank-tomb.json](./177330-dank-tomb.json) |
 | Dankenstoned’s Bongster’s Gram Smoker’s Stankula | 403188 | [403188-dankenstoned-s-bongster-s-gram-smoker-s-stankula.json](./403188-dankenstoned-s-bongster-s-gram-smoker-s-stankula.json) |
 | Danko and the Mystery of the Jungle | 129658 | [129658-danko-and-the-mystery-of-the-jungle.json](./129658-danko-and-the-mystery-of-the-jungle.json) |
@@ -1131,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of the Breakers | 106972 | [106972-dawn-of-the-breakers.json](./106972-dawn-of-the-breakers.json) |
 | Dawn of the Dead | 262432 | [262432-dawn-of-the-dead.json](./262432-dawn-of-the-dead.json) |
 | Dawn of the Dead | 356149 | [356149-dawn-of-the-dead.json](./356149-dawn-of-the-dead.json) |
+| Dawn of the Dragons: Ascension | 117144 | [117144-dawn-of-the-dragons-ascension.json](./117144-dawn-of-the-dragons-ascension.json) |
 | Dawn of the Immortals | 38917 | [38917-dawn-of-the-immortals.json](./38917-dawn-of-the-immortals.json) |
 | Dawn of the killer zombies | 90626 | [90626-dawn-of-the-killer-zombies.json](./90626-dawn-of-the-killer-zombies.json) |
 | Dawn of the Mexica | 143739 | [143739-dawn-of-the-mexica.json](./143739-dawn-of-the-mexica.json) |
@@ -3335,6 +3337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dezaemon BS-X Version: BS-X Shooting | 142409 | [142409-dezaemon-bs-x-version-bs-x-shooting.json](./142409-dezaemon-bs-x-version-bs-x-shooting.json) |
 | Dezaemon Kids! | 98463 | [98463-dezaemon-kids.json](./98463-dezaemon-kids.json) |
 | Dezaemon Plus | 65770 | [65770-dezaemon-plus.json](./65770-dezaemon-plus.json) |
+| Dezzan | 117118 | [117118-dezzan.json](./117118-dezzan.json) |
 | Dfiance | 323371 | [323371-dfiance.json](./323371-dfiance.json) |
 | DFP: Disappear From Polizia | 373098 | [373098-dfp-disappear-from-polizia.json](./373098-dfp-disappear-from-polizia.json) |
 | Dfragmente | 76555 | [76555-dfragmente.json](./76555-dfragmente.json) |
@@ -6848,6 +6851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drink Beer, Neglect Family | 185673 | [185673-drink-beer-neglect-family.json](./185673-drink-beer-neglect-family.json) |
 | Drink Human Beans | 274571 | [274571-drink-human-beans.json](./274571-drink-human-beans.json) |
 | Drink Inc. | 90280 | [90280-drink-inc.json](./90280-drink-inc.json) |
+| Drink More Glurp | 117180 | [117180-drink-more-glurp.json](./117180-drink-more-glurp.json) |
 | Drink Pro Tycoon | 87997 | [87997-drink-pro-tycoon.json](./87997-drink-pro-tycoon.json) |
 | Drinkbox Vita Collection | 99542 | [99542-drinkbox-vita-collection.json](./99542-drinkbox-vita-collection.json) |
 | Drinking in the Hot Spring! | 330180 | [330180-drinking-in-the-hot-spring.json](./330180-drinking-in-the-hot-spring.json) |
