@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | Y-Tiles | 58248 | [58248-y-tiles.json](./58248-y-tiles.json) |
 | Y. Village: The Visitors | 272873 | [272873-y-village-the-visitors.json](./272873-y-village-the-visitors.json) |
+| Y.A.S.G | 84935 | [84935-y-a-s-g.json](./84935-y-a-s-g.json) |
 | Y.M.C.A. | 333632 | [333632-y-m-c-a.json](./333632-y-m-c-a.json) |
 | Y2K: The Game | 84208 | [84208-y2k-the-game.json](./84208-y2k-the-game.json) |
 | Y2Kthulhu | 185072 | [185072-y2kthulhu.json](./185072-y2kthulhu.json) |
@@ -36,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yahtzee With Buddies | 88777 | [88777-yahtzee-with-buddies.json](./88777-yahtzee-with-buddies.json) |
 | Yahtzee, Parcheesi & Aggravation Collection | 92836 | [92836-yahtzee-parcheesi-and-aggravation-collection.json](./92836-yahtzee-parcheesi-and-aggravation-collection.json) |
 | Yahtzee! Wild | 355013 | [355013-yahtzee-wild.json](./355013-yahtzee-wild.json) |
+| Yakari: The Mystery of Four - Seasons | 84934 | [84934-yakari-the-mystery-of-four-seasons.json](./84934-yakari-the-mystery-of-four-seasons.json) |
 | Yakata Nightmare Project | 58780 | [58780-yakata-nightmare-project.json](./58780-yakata-nightmare-project.json) |
 | Yaken Rodem | 333543 | [333543-yaken-rodem.json](./333543-yaken-rodem.json) |
 | Yakimochi Stream | 373023 | [373023-yakimochi-stream.json](./373023-yakimochi-stream.json) |
@@ -288,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yodobongingi | 234635 | [234635-yodobongingi.json](./234635-yodobongingi.json) |
 | Yodoyabashi Oyasama Club | 254505 | [254505-yodoyabashi-oyasama-club.json](./254505-yodoyabashi-oyasama-club.json) |
 | Yog-Sothoth's Yard | 250278 | [250278-yog-sothoths-yard.json](./250278-yog-sothoths-yard.json) |
+| Yoga Master | 84958 | [84958-yoga-master.json](./84958-yoga-master.json) |
 | Yoga Master: Dreams Fantasy Bundle | 237911 | [237911-yoga-master-dreams-fantasy-bundle.json](./237911-yoga-master-dreams-fantasy-bundle.json) |
 | Yoga Master: Magic Atmosphere Bundle | 237910 | [237910-yoga-master-magic-atmosphere-bundle.json](./237910-yoga-master-magic-atmosphere-bundle.json) |
 | Yoga Master: Magic Atmosphere Pack 1 | 238447 | [238447-yoga-master-magic-atmosphere-pack-1.json](./238447-yoga-master-magic-atmosphere-pack-1.json) |
