@@ -2515,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Physical Spheres | 305519 | [305519-physical-spheres.json](./305519-physical-spheres.json) |
 | Physical Train: Chamland National Railway | 374625 | [374625-physical-train-chamland-national-railway.json](./374625-physical-train-chamland-national-railway.json) |
 | Physicality | 202361 | [202361-physicality.json](./202361-physicality.json) |
+| Physics Balls | 101107 | [101107-physics-balls.json](./101107-physics-balls.json) |
 | Physics World | 158144 | [158144-physics-world.json](./158144-physics-world.json) |
 | Physics! Fun | 297236 | [297236-physics-fun.json](./297236-physics-fun.json) |
 | Physint | 285050 | [285050-physint.json](./285050-physint.json) |
@@ -2869,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilki Filki 2 | 99987 | [99987-pilki-filki-2.json](./99987-pilki-filki-2.json) |
 | Pill Cosbi | 74359 | [74359-pill-cosbi.json](./74359-pill-cosbi.json) |
 | Pill Fight | 345017 | [345017-pill-fight.json](./345017-pill-fight.json) |
+| Pill Mania | 101074 | [101074-pill-mania.json](./101074-pill-mania.json) |
 | Pillaged Village: Humbled by Savages | 315133 | [315133-pillaged-village-humbled-by-savages.json](./315133-pillaged-village-humbled-by-savages.json) |
 | Pillar of Gods | 337077 | [337077-pillar-of-gods.json](./337077-pillar-of-gods.json) |
 | Pillar of Salt | 361729 | [361729-pillar-of-salt.json](./361729-pillar-of-salt.json) |
@@ -4428,6 +4430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Racer | 129150 | [129150-pocket-racer.json](./129150-pocket-racer.json) |
 | Pocket Races | 153834 | [153834-pocket-races.json](./153834-pocket-races.json) |
 | Pocket Ray | 227818 | [227818-pocket-ray.json](./227818-pocket-ray.json) |
+| Pocket Rogues: Ultimate | 101094 | [101094-pocket-rogues-ultimate.json](./101094-pocket-rogues-ultimate.json) |
 | Pocket Room Sanrio Characters | 334865 | [334865-pocket-room-sanrio-characters.json](./334865-pocket-room-sanrio-characters.json) |
 | Pocket Royal | 196332 | [196332-pocket-royal.json](./196332-pocket-royal.json) |
 | Pocket RPG | 61075 | [61075-pocket-rpg.json](./61075-pocket-rpg.json) |
