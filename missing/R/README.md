@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rags to Dishes | 142946 | [142946-rags-to-dishes.json](./142946-rags-to-dishes.json) |
 | Rags to Liches | 304175 | [304175-rags-to-liches.json](./304175-rags-to-liches.json) |
 | Rags to Riches | 397233 | [397233-rags-to-riches.json](./397233-rags-to-riches.json) |
+| Rags to Riches | 81174 | [81174-rags-to-riches.json](./81174-rags-to-riches.json) |
 | Ragtag Heroes | 211765 | [211765-ragtag-heroes.json](./211765-ragtag-heroes.json) |
 | Rai-Net Access Battlers | 299721 | [299721-rai-net-access-battlers.json](./299721-rai-net-access-battlers.json) |
 | Raid 2000 | 30955 | [30955-raid-2000.json](./30955-raid-2000.json) |
@@ -5235,6 +5236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RubyDung | 262083 | [262083-rubydung.json](./262083-rubydung.json) |
 | Rucida's Dream | 202328 | [202328-rucidas-dream.json](./202328-rucidas-dream.json) |
 | Ruck | 232422 | [232422-ruck.json](./232422-ruck.json) |
+| Rückblende | 81193 | [81193-ruckblende.json](./81193-ruckblende.json) |
 | Rucoy 2: Mirror World MMORPG | 231916 | [231916-rucoy-2-mirror-world-mmorpg.json](./231916-rucoy-2-mirror-world-mmorpg.json) |
 | Rucoy Online | 76572 | [76572-rucoy-online.json](./76572-rucoy-online.json) |
 | Ruction: The Golden Tablet | 32207 | [32207-ruction-the-golden-tablet.json](./32207-ruction-the-golden-tablet.json) |
