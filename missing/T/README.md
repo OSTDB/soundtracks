@@ -2075,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror Brain: Night Out | 211258 | [211258-terror-brain-night-out.json](./211258-terror-brain-night-out.json) |
 | Terror Diversion | 318013 | [318013-terror-diversion.json](./318013-terror-diversion.json) |
 | Terror for Two | 110167 | [110167-terror-for-two.json](./110167-terror-for-two.json) |
+| Terror House | 62798 | [62798-terror-house.json](./62798-terror-house.json) |
 | Terror in the Kitchen | 257897 | [257897-terror-in-the-kitchen.json](./257897-terror-in-the-kitchen.json) |
 | Terror Lab | 33391 | [33391-terror-lab.json](./33391-terror-lab.json) |
 | Terror Mansion | 283836 | [283836-terror-mansion.json](./283836-terror-mansion.json) |
@@ -2118,6 +2119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tess and the Forgotten Friend | 58766 | [58766-tess-and-the-forgotten-friend.json](./58766-tess-and-the-forgotten-friend.json) |
 | Tess Elated | 114951 | [114951-tess-elated.json](./114951-tess-elated.json) |
 | Tessa's Fate | 140583 | [140583-tessas-fate.json](./140583-tessas-fate.json) |
+| Tessallation | 62829 | [62829-tessallation.json](./62829-tessallation.json) |
 | Tessel Run | 391753 | [391753-tessel-run.json](./391753-tessel-run.json) |
 | Tessera | 333113 | [333113-tessera.json](./333113-tessera.json) |
 | Tesseract VR | 99602 | [99602-tesseract-vr.json](./99602-tesseract-vr.json) |
@@ -6360,6 +6362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Old Mill | 184040 | [184040-the-old-mill.json](./184040-the-old-mill.json) |
 | The Old Ones | 211695 | [211695-the-old-ones.json](./211695-the-old-ones.json) |
 | The Old Realms | 356162 | [356162-the-old-realms.json](./356162-the-old-realms.json) |
+| The Old Village Story | 62794 | [62794-the-old-village-story.json](./62794-the-old-village-story.json) |
 | The Old Ways | 356756 | [356756-the-old-ways.json](./356756-the-old-ways.json) |
 | The Oldest Edda | 190721 | [190721-the-oldest-edda.json](./190721-the-oldest-edda.json) |
 | The Oliver Twins Collection | 136367 | [136367-the-oliver-twins-collection.json](./136367-the-oliver-twins-collection.json) |
@@ -8126,6 +8129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unwoven Unicorn | 410367 | [410367-the-unwoven-unicorn.json](./410367-the-unwoven-unicorn.json) |
 | The Ur-Quan Masters | 46575 | [46575-the-ur-quan-masters.json](./46575-the-ur-quan-masters.json) |
 | The USB Stick Found in the Grass | 169467 | [169467-the-usb-stick-found-in-the-grass.json](./169467-the-usb-stick-found-in-the-grass.json) |
+| The Useful Dead | 62830 | [62830-the-useful-dead.json](./62830-the-useful-dead.json) |
 | The V Anomaly | 390539 | [390539-the-v-anomaly.json](./390539-the-v-anomaly.json) |
 | The Valley | 292068 | [292068-the-valley.json](./292068-the-valley.json) |
 | The Vamp | 254552 | [254552-the-vamp.json](./254552-the-vamp.json) |
@@ -10917,6 +10921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokusen! | 108996 | [108996-tokusen.json](./108996-tokusen.json) |
 | Tokusou Kidoutai J-SWAT | 54732 | [54732-tokusou-kidoutai-j-swat.json](./54732-tokusou-kidoutai-j-swat.json) |
 | Tokutenryoku Gakushuu DS: Chuugaku Junbi Tokubetsu-hen Shougakkou 4 Kyouka Youten Matome - Chuugaku eigo Sakidori | 269617 | [269617-tokutenryoku-gakushuu-ds-chuugaku-junbi-tokubetsu-hen-shougakkou-4-kyouka-youten-matome-chuugaku-eigo-sakidori.json](./269617-tokutenryoku-gakushuu-ds-chuugaku-junbi-tokubetsu-hen-shougakkou-4-kyouka-youten-matome-chuugaku-eigo-sakidori.json) |
+| Tokyo 2029 A.D | 62790 | [62790-tokyo-2029-a-d.json](./62790-tokyo-2029-a-d.json) |
 | Tokyo 23-Ku Seifuku Wars | 61572 | [61572-tokyo-23-ku-seifuku-wars.json](./61572-tokyo-23-ku-seifuku-wars.json) |
 | Tokyo 24-Ku | 165063 | [165063-tokyo-24-ku.json](./165063-tokyo-24-ku.json) |
 | Tokyo 42 | 18930 | [18930-tokyo-42.json](./18930-tokyo-42.json) |
