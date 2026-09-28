@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemon Detective Racing Zero | 135042 | [135042-daemon-detective-racing-zero.json](./135042-daemon-detective-racing-zero.json) |
 | Daemon Masquerade | 242546 | [242546-daemon-masquerade.json](./242546-daemon-masquerade.json) |
 | Daemon Summoner | 44628 | [44628-daemon-summoner.json](./44628-daemon-summoner.json) |
+| Daemon Vector | 62256 | [62256-daemon-vector.json](./62256-daemon-vector.json) |
 | Daemon X Machina: Deluxe Edition | 187824 | [187824-daemon-x-machina-deluxe-edition.json](./187824-daemon-x-machina-deluxe-edition.json) |
 | Daemon X Machina: Orbital Limited Edition | 120324 | [120324-daemon-x-machina-orbital-limited-edition.json](./120324-daemon-x-machina-orbital-limited-edition.json) |
 | Daemon X Machina: The Witcher Costume Pack | 262301 | [262301-daemon-x-machina-the-witcher-costume-pack.json](./262301-daemon-x-machina-the-witcher-costume-pack.json) |
@@ -6576,6 +6577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragoon Drop | 182845 | [182845-dragoon-drop.json](./182845-dragoon-drop.json) |
 | Dragoon Might | 39555 | [39555-dragoon-might.json](./39555-dragoon-might.json) |
 | Dragoon X Omega | 48685 | [48685-dragoon-x-omega.json](./48685-dragoon-x-omega.json) |
+| Dragoon: The Battles of Frederick the Great | 62266 | [62266-dragoon-the-battles-of-frederick-the-great.json](./62266-dragoon-the-battles-of-frederick-the-great.json) |
 | Dragot | 251821 | [251821-dragot.json](./251821-dragot.json) |
 | Drags Tavern | 315009 | [315009-drags-tavern.json](./315009-drags-tavern.json) |
 | Dragster | 46885 | [46885-dragster.json](./46885-dragster.json) |
@@ -7830,6 +7832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Reels | 187833 | [187833-dungeon-reels.json](./187833-dungeon-reels.json) |
 | Dungeon Reels Tactics | 191714 | [191714-dungeon-reels-tactics.json](./191714-dungeon-reels-tactics.json) |
 | Dungeon Renovators | 224654 | [224654-dungeon-renovators.json](./224654-dungeon-renovators.json) |
+| Dungeon Robber | 62269 | [62269-dungeon-robber.json](./62269-dungeon-robber.json) |
 | Dungeon Rollers | 184623 | [184623-dungeon-rollers.json](./184623-dungeon-rollers.json) |
 | Dungeon Route | 350066 | [350066-dungeon-route.json](./350066-dungeon-route.json) |
 | Dungeon RPG Pikudan 2 | 222324 | [222324-dungeon-rpg-pikudan-2.json](./222324-dungeon-rpg-pikudan-2.json) |
