@@ -1109,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawgs: The Revenge | 400905 | [400905-dawgs-the-revenge.json](./400905-dawgs-the-revenge.json) |
 | Dawn | 319979 | [319979-dawn.json](./319979-dawn.json) |
 | Dawn Apart | 231392 | [231392-dawn-apart.json](./231392-dawn-apart.json) |
+| Dawn Break -Origin- | 117629 | [117629-dawn-break-origin.json](./117629-dawn-break-origin.json) |
 | Dawn Car | 371258 | [371258-dawn-car.json](./371258-dawn-car.json) |
 | Dawn City | 81775 | [81775-dawn-city.json](./81775-dawn-city.json) |
 | Dawn in Arctic | 308340 | [308340-dawn-in-arctic.json](./308340-dawn-in-arctic.json) |
@@ -1378,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: The Walking Dead - Daryl Dixon | 358409 | [358409-dead-by-daylight-the-walking-dead-daryl-dixon.json](./358409-dead-by-daylight-the-walking-dead-daryl-dixon.json) |
 | Dead by Wheel: Battle Royal | 109718 | [109718-dead-by-wheel-battle-royal.json](./109718-dead-by-wheel-battle-royal.json) |
 | Dead by zero | 95996 | [95996-dead-by-zero.json](./95996-dead-by-zero.json) |
+| Dead Castle | 117625 | [117625-dead-castle.json](./117625-dead-castle.json) |
 | Dead Cells: Action Game of the Year | 122268 | [122268-dead-cells-action-game-of-the-year.json](./122268-dead-cells-action-game-of-the-year.json) |
 | Dead Cells: Everyone is Here! | 221962 | [221962-dead-cells-everyone-is-here.json](./221962-dead-cells-everyone-is-here.json) |
 | Dead Cells: Netflix Edition | 274723 | [274723-dead-cells-netflix-edition.json](./274723-dead-cells-netflix-edition.json) |
@@ -3725,6 +3727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Messiah | 229805 | [229805-digital-messiah.json](./229805-digital-messiah.json) |
 | Digital Monster: Net Driver | 294204 | [294204-digital-monster-net-driver.json](./294204-digital-monster-net-driver.json) |
 | Digital Paint: Paintball 2 | 67950 | [67950-digital-paint-paintball-2.json](./67950-digital-paint-paintball-2.json) |
+| Digital Paintball Redux | 117785 | [117785-digital-paintball-redux.json](./117785-digital-paintball-redux.json) |
 | Digital Processing | 400284 | [400284-digital-processing.json](./400284-digital-processing.json) |
 | Digital Spacecade | 28181 | [28181-digital-spacecade.json](./28181-digital-spacecade.json) |
 | Digital Survivor | 411728 | [411728-digital-survivor.json](./411728-digital-survivor.json) |
