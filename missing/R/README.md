@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenmark: Mercenaries | 63534 | [63534-ravenmark-mercenaries.json](./63534-ravenmark-mercenaries.json) |
 | Ravenmoore Psychiatric Hospital | 376463 | [376463-ravenmoore-psychiatric-hospital.json](./376463-ravenmoore-psychiatric-hospital.json) |
 | Ravenous Devils | 173033 | [173033-ravenous-devils.json](./173033-ravenous-devils.json) |
+| Ravenous Frog | 96291 | [96291-ravenous-frog.json](./96291-ravenous-frog.json) |
 | Ravenous Horde | 268980 | [268980-ravenous-horde.json](./268980-ravenous-horde.json) |
 | Ravens Battle Fields | 174849 | [174849-ravens-battle-fields.json](./174849-ravens-battle-fields.json) |
 | Ravensburger Labyrinth | 200049 | [200049-ravensburger-labyrinth.json](./200049-ravensburger-labyrinth.json) |
@@ -3049,6 +3050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rice & Rest | 346581 | [346581-rice-and-rest.json](./346581-rice-and-rest.json) |
 | Ricerca VR | 32884 | [32884-ricerca-vr.json](./32884-ricerca-vr.json) |
 | Rich City | 298112 | [298112-rich-city.json](./298112-rich-city.json) |
+| Rich Code | 96231 | [96231-rich-code.json](./96231-rich-code.json) |
 | Rich Diamond | 209167 | [209167-rich-diamond.json](./209167-rich-diamond.json) |
 | Rich Girls | 286499 | [286499-rich-girls.json](./286499-rich-girls.json) |
 | Rich Lady's Slave Role Play | 199616 | [199616-rich-ladys-slave-role-play.json](./199616-rich-ladys-slave-role-play.json) |
@@ -4358,6 +4360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Blaster | 232435 | [232435-rogue-blaster.json](./232435-rogue-blaster.json) |
 | Rogue Blight | 212912 | [212912-rogue-blight.json](./212912-rogue-blight.json) |
 | Rogue Bricks | 370898 | [370898-rogue-bricks.json](./370898-rogue-bricks.json) |
+| Rogue Buddies - Aztek Gold | 96227 | [96227-rogue-buddies-aztek-gold.json](./96227-rogue-buddies-aztek-gold.json) |
 | Rogue Carrier | 409641 | [409641-rogue-carrier.json](./409641-rogue-carrier.json) |
 | Rogue Climber | 312746 | [312746-rogue-climber.json](./312746-rogue-climber.json) |
 | Rogue Company | 122235 | [122235-rogue-company.json](./122235-rogue-company.json) |
@@ -4718,6 +4721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romero's Aftermath | 26714 | [26714-romeros-aftermath.json](./26714-romeros-aftermath.json) |
 | Romestead | 336150 | [336150-romestead.json](./336150-romestead.json) |
 | Romgadr | 259291 | [259291-romgadr.json](./259291-romgadr.json) |
+| Romi | 96285 | [96285-romi.json](./96285-romi.json) |
 | Romino's Adventure | 209717 | [209717-rominos-adventure.json](./209717-rominos-adventure.json) |
 | Rompe! | 171078 | [171078-rompe.json](./171078-rompe.json) |
 | RON 13:13 Retaliation | 71005 | [71005-ron-13-13-retaliation.json](./71005-ron-13-13-retaliation.json) |
