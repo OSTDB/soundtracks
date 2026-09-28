@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong: Magic Casual Puzzle | 200461 | [200461-mahjong-magic-casual-puzzle.json](./200461-mahjong-magic-casual-puzzle.json) |
 | Mahjong: Wolf's Stories | 177045 | [177045-mahjong-wolfs-stories.json](./177045-mahjong-wolfs-stories.json) |
 | Mahjongg Platinum Evolution Edition | 96762 | [96762-mahjongg-platinum-evolution-edition.json](./96762-mahjongg-platinum-evolution-edition.json) |
+| Mahjongg The Ultimate Collection 2 | 108027 | [108027-mahjongg-the-ultimate-collection-2.json](./108027-mahjongg-the-ultimate-collection-2.json) |
 | Mahjongger | 93002 | [93002-mahjongger.json](./93002-mahjongger.json) |
 | MahjongSchool | 158226 | [158226-mahjongschool.json](./158226-mahjongschool.json) |
 | Mahjongus: Mystery of Fortescue | 316192 | [316192-mahjongus-mystery-of-fortescue.json](./316192-mahjongus-mystery-of-fortescue.json) |
@@ -5632,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misdecayed | 375847 | [375847-misdecayed.json](./375847-misdecayed.json) |
 | Misdie: Into the Game | 351238 | [351238-misdie-into-the-game.json](./351238-misdie-into-the-game.json) |
 | Misericorde Volume Two: White Wool and Snow | 305383 | [305383-misericorde-volume-two-white-wool-and-snow.json](./305383-misericorde-volume-two-white-wool-and-snow.json) |
+| Misfit | 108062 | [108062-misfit.json](./108062-misfit.json) |
 | Misfits | 296984 | [296984-misfits.json](./296984-misfits.json) |
 | Misfolded | 109579 | [109579-misfolded.json](./109579-misfolded.json) |
 | Misfortune | 323937 | [323937-misfortune.json](./323937-misfortune.json) |
