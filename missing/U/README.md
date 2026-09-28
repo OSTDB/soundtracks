@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | University Days: Season 1 | 303060 | [303060-university-days-season-1.json](./303060-university-days-season-1.json) |
 | University Life Visual Novel | 371921 | [371921-university-life-visual-novel.json](./371921-university-life-visual-novel.json) |
 | Univocity | 339916 | [339916-univocity.json](./339916-univocity.json) |
+| UniWar | 91536 | [91536-uniwar.json](./91536-uniwar.json) |
 | Unizone's Underswap: Distrust Sans | 330365 | [330365-unizones-underswap-distrust-sans.json](./330365-unizones-underswap-distrust-sans.json) |
 | Unjou no Fairy Tale | 97466 | [97466-unjou-no-fairy-tale.json](./97466-unjou-no-fairy-tale.json) |
 | Unkillable Robots | 306342 | [306342-unkillable-robots.json](./306342-unkillable-robots.json) |
