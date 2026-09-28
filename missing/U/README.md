@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsung Heroes: The Golden Mask | 124146 | [124146-unsung-heroes-the-golden-mask.json](./124146-unsung-heroes-the-golden-mask.json) |
 | Unsung Kingdom | 137486 | [137486-unsung-kingdom.json](./137486-unsung-kingdom.json) |
 | Unsung Knight | 163811 | [163811-unsung-knight.json](./163811-unsung-knight.json) |
+| Unsung Warriors | 113881 | [113881-unsung-warriors.json](./113881-unsung-warriors.json) |
 | Unsustainable: a god job | 180842 | [180842-unsustainable-a-god-job.json](./180842-unsustainable-a-god-job.json) |
 | Untameable | 313800 | [313800-untameable.json](./313800-untameable.json) |
 | Untamed | 280233 | [280233-untamed.json](./280233-untamed.json) |
