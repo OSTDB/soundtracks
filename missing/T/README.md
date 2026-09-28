@@ -4100,6 +4100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fidelity Chessmaster 2100 | 15875 | [15875-the-fidelity-chessmaster-2100.json](./15875-the-fidelity-chessmaster-2100.json) |
 | The Fidgetts | 49000 | [49000-the-fidgetts.json](./49000-the-fidgetts.json) |
 | The Field Trip Murders | 231460 | [231460-the-field-trip-murders.json](./231460-the-field-trip-murders.json) |
+| The Fielder's Choice | 89409 | [89409-the-fielders-choice.json](./89409-the-fielders-choice.json) |
 | The Fiend's Tavern | 104077 | [104077-the-fiends-tavern.json](./104077-the-fiends-tavern.json) |
 | The Fierce Livid | 271764 | [271764-the-fierce-livid.json](./271764-the-fierce-livid.json) |
 | The Fiery Crater | 268474 | [268474-the-fiery-crater.json](./268474-the-fiery-crater.json) |
@@ -5146,6 +5147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land Forgotten | 381730 | [381730-the-land-forgotten.json](./381730-the-land-forgotten.json) |
 | The Land of Alembrume | 204983 | [204983-the-land-of-alembrume.json](./204983-the-land-of-alembrume.json) |
 | The Land of Dasthir | 30898 | [30898-the-land-of-dasthir.json](./30898-the-land-of-dasthir.json) |
+| The Land of Glass | 89402 | [89402-the-land-of-glass.json](./89402-the-land-of-glass.json) |
 | The Land of Lamia | 34838 | [34838-the-land-of-lamia.json](./34838-the-land-of-lamia.json) |
 | The Land of Morning Calm | 358888 | [358888-the-land-of-morning-calm.json](./358888-the-land-of-morning-calm.json) |
 | The Land of Rest 1 | 346608 | [346608-the-land-of-rest-1.json](./346608-the-land-of-rest-1.json) |
@@ -6273,6 +6275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Old Forest | 199588 | [199588-the-old-forest.json](./199588-the-old-forest.json) |
 | The Old House | 138760 | [138760-the-old-house.json](./138760-the-old-house.json) |
 | The Old House | 257895 | [257895-the-old-house.json](./257895-the-old-house.json) |
+| The Old Kazulka | 89371 | [89371-the-old-kazulka.json](./89371-the-old-kazulka.json) |
 | The Old Man | 135036 | [135036-the-old-man.json](./135036-the-old-man.json) |
 | The Old Man Club | 59987 | [59987-the-old-man-club.json](./59987-the-old-man-club.json) |
 | The Old Man’s Will | 390660 | [390660-the-old-man-s-will.json](./390660-the-old-man-s-will.json) |
@@ -7473,6 +7476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Struggle of Trust | 177339 | [177339-the-struggle-of-trust.json](./177339-the-struggle-of-trust.json) |
 | The Struggles of Stefan | 148975 | [148975-the-struggles-of-stefan.json](./148975-the-struggles-of-stefan.json) |
 | The Stubborn of WakGood: Afterheat | 257885 | [257885-the-stubborn-of-wakgood-afterheat.json](./257885-the-stubborn-of-wakgood-afterheat.json) |
+| The Studio | 89383 | [89383-the-studio.json](./89383-the-studio.json) |
 | The Studio 100: Play Island | 268210 | [268210-the-studio-100-play-island.json](./268210-the-studio-100-play-island.json) |
 | The Sub Shop | 308365 | [308365-the-sub-shop.json](./308365-the-sub-shop.json) |
 | The Subconscious Fear | 271809 | [271809-the-subconscious-fear.json](./271809-the-subconscious-fear.json) |
@@ -13099,6 +13103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trashmorfers | 241986 | [241986-trashmorfers.json](./241986-trashmorfers.json) |
 | Trashyard | 163192 | [163192-trashyard.json](./163192-trashyard.json) |
 | Traulian: O Ultimo General | 293900 | [293900-traulian-o-ultimo-general.json](./293900-traulian-o-ultimo-general.json) |
+| Traum | 89421 | [89421-traum.json](./89421-traum.json) |
 | Trauma | 15124 | [15124-trauma.json](./15124-trauma.json) |
 | Trauma | 180787 | [180787-trauma.json](./180787-trauma.json) |
 | Trauma | 191124 | [191124-trauma.json](./191124-trauma.json) |
