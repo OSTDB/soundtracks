@@ -3867,6 +3867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Coaster: Classic Rides Collection | 117487 | [117487-planet-coaster-classic-rides-collection.json](./117487-planet-coaster-classic-rides-collection.json) |
 | Planet Coaster: Complete the Collection | 393795 | [393795-planet-coaster-complete-the-collection.json](./393795-planet-coaster-complete-the-collection.json) |
 | Planet Coaster: Deluxe Rides Collection | 173162 | [173162-planet-coaster-deluxe-rides-collection.json](./173162-planet-coaster-deluxe-rides-collection.json) |
+| Planet Coaster: Ghostbusters | 118924 | [118924-planet-coaster-ghostbusters.json](./118924-planet-coaster-ghostbusters.json) |
 | Planet Coaster: Knight Rider K.I.T.T. Construction Kit | 168239 | [168239-planet-coaster-knight-rider-k-i-t-t-construction-kit.json](./168239-planet-coaster-knight-rider-k-i-t-t-construction-kit.json) |
 | Planet Coaster: Quick Draw Interactive Shooting Ride | 168241 | [168241-planet-coaster-quick-draw-interactive-shooting-ride.json](./168241-planet-coaster-quick-draw-interactive-shooting-ride.json) |
 | Planet Coaster: The Munsters Munster Koach Construction Kit | 168242 | [168242-planet-coaster-the-munsters-munster-koach-construction-kit.json](./168242-planet-coaster-the-munsters-munster-koach-construction-kit.json) |
