@@ -1348,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headshot Roulette | 356705 | [356705-headshot-roulette.json](./356705-headshot-roulette.json) |
 | Headspace | 385699 | [385699-headspace.json](./385699-headspace.json) |
 | Headspun: Dazed Edition | 134664 | [134664-headspun-dazed-edition.json](./134664-headspun-dazed-edition.json) |
+| HeadSquare | 75925 | [75925-headsquare.json](./75925-headsquare.json) |
 | Headwaters | 288768 | [288768-headwaters.json](./288768-headwaters.json) |
 | Heal Hitler | 169412 | [169412-heal-hitler.json](./169412-heal-hitler.json) |
 | Heal Plz | 121741 | [121741-heal-plz.json](./121741-heal-plz.json) |
