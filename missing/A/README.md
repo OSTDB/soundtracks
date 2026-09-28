@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of Beetlejuice: Skeletons in the Closet | 50826 | [50826-adventures-of-beetlejuice-skeletons-in-the-closet.json](./50826-adventures-of-beetlejuice-skeletons-in-the-closet.json) |
 | Adventures of Ben: Rabbit Run | 248002 | [248002-adventures-of-ben-rabbit-run.json](./248002-adventures-of-ben-rabbit-run.json) |
+| Adventures of Brave Bob | 100364 | [100364-adventures-of-brave-bob.json](./100364-adventures-of-brave-bob.json) |
 | Adventures of Bruce | 141228 | [141228-adventures-of-bruce.json](./141228-adventures-of-bruce.json) |
 | Adventures of DaKoo the Dragon | 214026 | [214026-adventures-of-dakoo-the-dragon.json](./214026-adventures-of-dakoo-the-dragon.json) |
 | Adventures of Deliveryman | 267481 | [267481-adventures-of-deliveryman.json](./267481-adventures-of-deliveryman.json) |
@@ -7246,6 +7247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axe Slasher | 333065 | [333065-axe-slasher.json](./333065-axe-slasher.json) |
 | Axe Throw VR | 107850 | [107850-axe-throw-vr.json](./107850-axe-throw-vr.json) |
 | AxE: Alliance Vs Empire | 125351 | [125351-axe-alliance-vs-empire.json](./125351-axe-alliance-vs-empire.json) |
+| Axe.io | 100358 | [100358-axe-io.json](./100358-axe-io.json) |
 | Axegend | 131596 | [131596-axegend.json](./131596-axegend.json) |
 | Axel City | 124767 | [124767-axel-city.json](./124767-axel-city.json) |
 | Axes and Arrows | 34355 | [34355-axes-and-arrows.json](./34355-axes-and-arrows.json) |
