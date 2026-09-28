@@ -5174,6 +5174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Galaxy | 109921 | [109921-the-last-galaxy.json](./109921-the-last-galaxy.json) |
 | The Last Game | 362294 | [362294-the-last-game.json](./362294-the-last-game.json) |
 | The Last Gift | 381102 | [381102-the-last-gift.json](./381102-the-last-gift.json) |
+| The Last Girl ~ Janna's diary of survive | 103658 | [103658-the-last-girl-jannas-diary-of-survive.json](./103658-the-last-girl-jannas-diary-of-survive.json) |
 | The Last Good Boy | 407333 | [407333-the-last-good-boy.json](./407333-the-last-good-boy.json) |
 | The Last Hair | 236219 | [236219-the-last-hair.json](./236219-the-last-hair.json) |
 | The Last Haven | 127615 | [127615-the-last-haven.json](./127615-the-last-haven.json) |
@@ -9007,6 +9008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic-Tac-Matrix | 180748 | [180748-tic-tac-matrix.json](./180748-tic-tac-matrix.json) |
 | Tic-Tac-Tanks | 195214 | [195214-tic-tac-tanks.json](./195214-tic-tac-tanks.json) |
 | Tic-Tac-Toast | 233078 | [233078-tic-tac-toast.json](./233078-tic-tac-toast.json) |
+| Tic-Tac-Toe for Kids | 103678 | [103678-tic-tac-toe-for-kids.json](./103678-tic-tac-toe-for-kids.json) |
 | Tic-Tac-Toe Star | 240187 | [240187-tic-tac-toe-star.json](./240187-tic-tac-toe-star.json) |
 | Tic-Tac-Touch: FS5 | 72628 | [72628-tic-tac-touch-fs5.json](./72628-tic-tac-touch-fs5.json) |
 | Tic-Toc-Tower | 34781 | [34781-tic-toc-tower.json](./34781-tic-toc-tower.json) |
@@ -10946,6 +10948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Underworld | 381692 | [381692-tomb-raider-underworld.json](./381692-tomb-raider-underworld.json) |
 | Tomb Raider: Underworld - Lara's Shadow | 23021 | [23021-tomb-raider-underworld-laras-shadow.json](./23021-tomb-raider-underworld-laras-shadow.json) |
 | Tomb Raider: Underworld - Limited Edition | 120162 | [120162-tomb-raider-underworld-limited-edition.json](./120162-tomb-raider-underworld-limited-edition.json) |
+| Tomb Reader: TrapLand | 103628 | [103628-tomb-reader-trapland.json](./103628-tomb-reader-trapland.json) |
 | Tomb Robber | 90655 | [90655-tomb-robber.json](./90655-tomb-robber.json) |
 | Tomb Rumble | 153408 | [153408-tomb-rumble.json](./153408-tomb-rumble.json) |
 | Tomb Rumble: Cursed Sorcerer | 170559 | [170559-tomb-rumble-cursed-sorcerer.json](./170559-tomb-rumble-cursed-sorcerer.json) |
@@ -11915,6 +11918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towne of Gringle | 319178 | [319178-towne-of-gringle.json](./319178-towne-of-gringle.json) |
 | Townframe | 199128 | [199128-townframe.json](./199128-townframe.json) |
 | Townkins | 103524 | [103524-townkins.json](./103524-townkins.json) |
+| Townkins: Wonderland Village | 103667 | [103667-townkins-wonderland-village.json](./103667-townkins-wonderland-village.json) |
 | Townlore 2.0 | 299480 | [299480-townlore-2-0.json](./299480-townlore-2-0.json) |
 | Townopolis Romopolis Megapolis Collection | 53836 | [53836-townopolis-romopolis-megapolis-collection.json](./53836-townopolis-romopolis-megapolis-collection.json) |
 | Towns and Towers | 341866 | [341866-towns-and-towers.json](./341866-towns-and-towers.json) |
@@ -12018,6 +12022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tr4pp3d | 277975 | [277975-tr4pp3d.json](./277975-tr4pp3d.json) |
 | Trabi Racer | 305348 | [305348-trabi-racer.json](./305348-trabi-racer.json) |
 | Trabi vs. Zombies: Apocalypse VR | 233073 | [233073-trabi-vs-zombies-apocalypse-vr.json](./233073-trabi-vs-zombies-apocalypse-vr.json) |
+| Trace 2 | 103654 | [103654-trace-2.json](./103654-trace-2.json) |
 | Trace Blackout: The Perfect Crime Mystery | 401119 | [401119-trace-blackout-the-perfect-crime-mystery.json](./401119-trace-blackout-the-perfect-crime-mystery.json) |
 | Trace Hunters | 279101 | [279101-trace-hunters.json](./279101-trace-hunters.json) |
 | Trace of the past | 121559 | [121559-trace-of-the-past.json](./121559-trace-of-the-past.json) |
@@ -13721,6 +13726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Disc Golf | 247586 | [247586-true-disc-golf.json](./247586-true-disc-golf.json) |
 | True Fantasy Live Online | 18106 | [18106-true-fantasy-live-online.json](./18106-true-fantasy-live-online.json) |
 | True Fear: Forsaken Souls Part 2 | 111276 | [111276-true-fear-forsaken-souls-part-2.json](./111276-true-fear-forsaken-souls-part-2.json) |
+| True Horror | 103674 | [103674-true-horror.json](./103674-true-horror.json) |
 | True Love For Her | 297042 | [297042-true-love-for-her.json](./297042-true-love-for-her.json) |
 | True Love Story 3 | 138012 | [138012-true-love-story-3.json](./138012-true-love-story-3.json) |
 | True Nightmare: Diner Loop | 413209 | [413209-true-nightmare-diner-loop.json](./413209-true-nightmare-diner-loop.json) |
