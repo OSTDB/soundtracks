@@ -1549,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Federation Quest 1: BSS Jane Seymour | 65210 | [65210-federation-quest-1-bss-jane-seymour.json](./65210-federation-quest-1-bss-jane-seymour.json) |
 | Fedora Spade: Prologue | 57678 | [57678-fedora-spade-prologue.json](./57678-fedora-spade-prologue.json) |
 | Fee Payment & Cigarettes | 406282 | [406282-fee-payment-and-cigarettes.json](./406282-fee-payment-and-cigarettes.json) |
+| Feeble Force | 105545 | [105545-feeble-force.json](./105545-feeble-force.json) |
 | Feed | 296397 | [296397-feed.json](./296397-feed.json) |
 | Feed A Titanosaur | 117069 | [117069-feed-a-titanosaur.json](./117069-feed-a-titanosaur.json) |
 | Feed and Grow: Fish | 19876 | [19876-feed-and-grow-fish.json](./19876-feed-and-grow-fish.json) |
