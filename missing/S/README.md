@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.E.A. | 161383 | [161383-s-e-a.json](./161383-s-e-a.json) |
 | S.E.U.I.S. | 24886 | [24886-s-e-u-i-s.json](./24886-s-e-u-i-s.json) |
 | S.E.X. Retreat: WellCum In! | 278381 | [278381-s-e-x-retreat-wellcum-in.json](./278381-s-e-x-retreat-wellcum-in.json) |
+| S.F.77 | 104838 | [104838-s-f-77.json](./104838-s-f-77.json) |
 | S.I.N. Unit: Ghost Investigation & Removal | 165528 | [165528-s-i-n-unit-ghost-investigation-and-removal.json](./165528-s-i-n-unit-ghost-investigation-and-removal.json) |
 | S.I.P. SE: Safety is Power | 302386 | [302386-s-i-p-se-safety-is-power.json](./302386-s-i-p-se-safety-is-power.json) |
 | S.M.A.C.K. | 225097 | [225097-s-m-a-c-k.json](./225097-s-m-a-c-k.json) |
@@ -1867,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seasons Pairs | 96030 | [96030-seasons-pairs.json](./96030-seasons-pairs.json) |
 | Seasons Turning | 374617 | [374617-seasons-turning.json](./374617-seasons-turning.json) |
 | Seasonspree | 152195 | [152195-seasonspree.json](./152195-seasonspree.json) |
+| Seat of War | 104832 | [104832-seat-of-war.json](./104832-seat-of-war.json) |
 | Seaward | 361870 | [361870-seaward.json](./361870-seaward.json) |
 | Seaway | 181901 | [181901-seaway.json](./181901-seaway.json) |
 | Seawolf | 78987 | [78987-seawolf.json](./78987-seawolf.json) |
@@ -7951,6 +7953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorting Puzzles for Kids | 104128 | [104128-sorting-puzzles-for-kids.json](./104128-sorting-puzzles-for-kids.json) |
 | SortPuz | 196340 | [196340-sortpuz.json](./196340-sortpuz.json) |
 | SOS | 72334 | [72334-sos.json](./72334-sos.json) |
+| SOS Atlas | 104796 | [104796-sos-atlas.json](./104796-sos-atlas.json) |
 | SOS Defense | 108455 | [108455-sos-defense.json](./108455-sos-defense.json) |
 | SOS OPS!: Guns n' Ops | 297553 | [297553-sos-ops-guns-n-ops.json](./297553-sos-ops-guns-n-ops.json) |
 | SOS Zombie: Survival | 276170 | [276170-sos-zombie-survival.json](./276170-sos-zombie-survival.json) |
@@ -12826,6 +12829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Lesson: Chisato Shinjo - Shichiyou no Etude | 219030 | [219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json](./219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json) |
 | Summer Meetings | 121692 | [121692-summer-meetings.json](./121692-summer-meetings.json) |
 | Summer Memories: Deluxe Edition | 186897 | [186897-summer-memories-deluxe-edition.json](./186897-summer-memories-deluxe-edition.json) |
+| Summer Memory of Bell | 104811 | [104811-summer-memory-of-bell.json](./104811-summer-memory-of-bell.json) |
 | Summer Nightmare | 293682 | [293682-summer-nightmare.json](./293682-summer-nightmare.json) |
 | Summer Nightmare | 29895 | [29895-summer-nightmare.json](./29895-summer-nightmare.json) |
 | Summer of '58 | 159221 | [159221-summer-of-58.json](./159221-summer-of-58.json) |
@@ -12845,6 +12849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Vacation | 221405 | [221405-summer-vacation.json](./221405-summer-vacation.json) |
 | Summer Village | 236513 | [236513-summer-village.json](./236513-summer-village.json) |
 | Summer With You | 195234 | [195234-summer-with-you.json](./195234-summer-with-you.json) |
+| Summer: Jigsaw Puzzles | 104841 | [104841-summer-jigsaw-puzzles.json](./104841-summer-jigsaw-puzzles.json) |
 | Summer: Life in the Countryside | 145488 | [145488-summer-life-in-the-countryside.json](./145488-summer-life-in-the-countryside.json) |
 | Summer's Gone: Season 1 | 199053 | [199053-summers-gone-season-1.json](./199053-summers-gone-season-1.json) |
 | Summerhouse | 261688 | [261688-summerhouse.json](./261688-summerhouse.json) |
@@ -14021,6 +14026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pixel Racers | 111185 | [111185-super-pixel-racers.json](./111185-super-pixel-racers.json) |
 | Super Pixelander | 124757 | [124757-super-pixelander.json](./124757-super-pixelander.json) |
 | Super Planet Life | 225101 | [225101-super-planet-life.json](./225101-super-planet-life.json) |
+| Super Plumber | 104802 | [104802-super-plumber.json](./104802-super-plumber.json) |
 | Super Pocket Tennis | 44500 | [44500-super-pocket-tennis.json](./44500-super-pocket-tennis.json) |
 | Super Pocket: Atari Edition | 327197 | [327197-super-pocket-atari-edition.json](./327197-super-pocket-atari-edition.json) |
 | Super Pole Position | 108506 | [108506-super-pole-position.json](./108506-super-pole-position.json) |
@@ -15197,6 +15203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch 'N' Shoot | 32171 | [32171-switch-n-shoot.json](./32171-switch-n-shoot.json) |
 | Switch & Ditch | 113872 | [113872-switch-and-ditch.json](./113872-switch-and-ditch.json) |
 | Switch Blasters | 402902 | [402902-switch-blasters.json](./402902-switch-blasters.json) |
+| Switch Color 2018 | 104774 | [104774-switch-color-2018.json](./104774-switch-color-2018.json) |
 | Switch Colors+ | 187984 | [187984-switch-colors.json](./187984-switch-colors.json) |
 | Switch Dash Game | 262069 | [262069-switch-dash-game.json](./262069-switch-dash-game.json) |
 | Switch Galaxy Ultra | 35517 | [35517-switch-galaxy-ultra.json](./35517-switch-galaxy-ultra.json) |
