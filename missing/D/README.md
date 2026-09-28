@@ -2818,6 +2818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depth Loop | 317854 | [317854-depth-loop.json](./317854-depth-loop.json) |
 | Depth of Extinction: Definitive Edition | 222236 | [222236-depth-of-extinction-definitive-edition.json](./222236-depth-of-extinction-definitive-edition.json) |
 | Depth Siege Atlantis | 96521 | [96521-depth-siege-atlantis.json](./96521-depth-siege-atlantis.json) |
+| Depth: Aquatic Stealth | 79194 | [79194-depth-aquatic-stealth.json](./79194-depth-aquatic-stealth.json) |
 | Depth: Digital Deluxe Edition | 52889 | [52889-depth-digital-deluxe-edition.json](./52889-depth-digital-deluxe-edition.json) |
 | Depthbound Descent | 403793 | [403793-depthbound-descent.json](./403793-depthbound-descent.json) |
 | DepthMera | 55511 | [55511-depthmera.json](./55511-depthmera.json) |
@@ -3789,6 +3790,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Circus: Obby Parkour | 276485 | [276485-digital-circus-obby-parkour.json](./276485-digital-circus-obby-parkour.json) |
 | Digital City | 260209 | [260209-digital-city.json](./260209-digital-city.json) |
 | Digital Combat Simulator: Black Shark 2 | 65434 | [65434-digital-combat-simulator-black-shark-2.json](./65434-digital-combat-simulator-black-shark-2.json) |
+| Digital Combat Simulator: Combined Arms | 79380 | [79380-digital-combat-simulator-combined-arms.json](./79380-digital-combat-simulator-combined-arms.json) |
+| Digital Combat Simulator: P-51D Mustang | 79381 | [79381-digital-combat-simulator-p-51d-mustang.json](./79381-digital-combat-simulator-p-51d-mustang.json) |
 | Digital Dance Mix Vol. 1: Namie Amuro | 96091 | [96091-digital-dance-mix-vol-1-namie-amuro.json](./96091-digital-dance-mix-vol-1-namie-amuro.json) |
 | Digital Dance Mix Vol.1 Namie Amuro | 108828 | [108828-digital-dance-mix-vol-1-namie-amuro.json](./108828-digital-dance-mix-vol-1-namie-amuro.json) |
 | Digital Defender O.R.C. | 402496 | [402496-digital-defender-o-r-c.json](./402496-digital-defender-o-r-c.json) |
@@ -5640,6 +5643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora the Explorer: Dora's Big Birthday Adventure | 50624 | [50624-dora-the-explorer-doras-big-birthday-adventure.json](./50624-dora-the-explorer-doras-big-birthday-adventure.json) |
 | Dora the Explorer: Dora's Worldwide Rescue | 230375 | [230375-dora-the-explorer-doras-worldwide-rescue.json](./230375-dora-the-explorer-doras-worldwide-rescue.json) |
 | Dora the Explorer: Lost and Found Adventure | 209124 | [209124-dora-the-explorer-lost-and-found-adventure.json](./209124-dora-the-explorer-lost-and-found-adventure.json) |
+| Dora the Explorer: Lost City Adventure | 79365 | [79365-dora-the-explorer-lost-city-adventure.json](./79365-dora-the-explorer-lost-city-adventure.json) |
 | Dora the Explorer: Nursery Rhyme Adventure | 221673 | [221673-dora-the-explorer-nursery-rhyme-adventure.json](./221673-dora-the-explorer-nursery-rhyme-adventure.json) |
 | Dora the Explorer: Super Star Adventures | 7974 | [7974-dora-the-explorer-super-star-adventures.json](./7974-dora-the-explorer-super-star-adventures.json) |
 | Dora the Explorer: Twins' Day | 275577 | [275577-dora-the-explorer-twins-day.json](./275577-dora-the-explorer-twins-day.json) |
@@ -6850,6 +6854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamspace | 323342 | [323342-dreamspace.json](./323342-dreamspace.json) |
 | Dreamspaces | 181682 | [181682-dreamspaces.json](./181682-dreamspaces.json) |
 | Dreamspring | 333372 | [333372-dreamspring.json](./333372-dreamspring.json) |
+| Dreamstars | 79192 | [79192-dreamstars.json](./79192-dreamstars.json) |
 | Dreamstate Racing | 133414 | [133414-dreamstate-racing.json](./133414-dreamstate-racing.json) |
 | Dreamstory | 379026 | [379026-dreamstory.json](./379026-dreamstory.json) |
 | Dreamstudio | 61860 | [61860-dreamstudio.json](./61860-dreamstudio.json) |
@@ -7074,6 +7079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving Zone: Japan | 174857 | [174857-driving-zone-japan.json](./174857-driving-zone-japan.json) |
 | Drivrooom | 144249 | [144249-drivrooom.json](./144249-drivrooom.json) |
 | Drizzlepath | 12265 | [12265-drizzlepath.json](./12265-drizzlepath.json) |
+| DRL | 79379 | [79379-drl.json](./79379-drl.json) |
 | DROD 4: Gunthro and the Epic Blunder | 8870 | [8870-drod-4-gunthro-and-the-epic-blunder.json](./8870-drod-4-gunthro-and-the-epic-blunder.json) |
 | Drod RPG 2 | 363048 | [363048-drod-rpg-2.json](./363048-drod-rpg-2.json) |
 | DROD: Journey to Rooted Hold | 9085 | [9085-drod-journey-to-rooted-hold.json](./9085-drod-journey-to-rooted-hold.json) |
@@ -7867,6 +7873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Paint | 351002 | [351002-dungeons-of-paint.json](./351002-dungeons-of-paint.json) |
 | Dungeons of Shalnor | 187480 | [187480-dungeons-of-shalnor.json](./187480-dungeons-of-shalnor.json) |
 | Dungeons of Sundaria | 208473 | [208473-dungeons-of-sundaria.json](./208473-dungeons-of-sundaria.json) |
+| Dungeons of Tal'Doria | 79362 | [79362-dungeons-of-taldoria.json](./79362-dungeons-of-taldoria.json) |
 | Dungeons of Voidria | 153941 | [153941-dungeons-of-voidria.json](./153941-dungeons-of-voidria.json) |
 | Dungeons, Dungeons and more... Dice? | 361724 | [361724-dungeons-dungeons-and-more-dice.json](./361724-dungeons-dungeons-and-more-dice.json) |
 | Dungeons: Game of the Year Edition | 138052 | [138052-dungeons-game-of-the-year-edition.json](./138052-dungeons-game-of-the-year-edition.json) |
