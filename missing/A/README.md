@@ -2584,6 +2584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alive | 282657 | [282657-alive.json](./282657-alive.json) |
 | Alive | 287661 | [287661-alive.json](./287661-alive.json) |
 | Alive 4-ever Returns | 94758 | [94758-alive-4-ever-returns.json](./94758-alive-4-ever-returns.json) |
+| Alive? Dead? | 105514 | [105514-alive-dead.json](./105514-alive-dead.json) |
 | Aliya | 278728 | [278728-aliya.json](./278728-aliya.json) |
 | Aliya's Awakening: Dooge 2042 | 341887 | [341887-aliyas-awakening-dooge-2042.json](./341887-aliyas-awakening-dooge-2042.json) |
 | Alizarin Tetris | 93028 | [93028-alizarin-tetris.json](./93028-alizarin-tetris.json) |
@@ -5705,6 +5706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur Yahtzee: The Curse of Hell's Cheesecake | 217857 | [217857-arthur-yahtzee-the-curse-of-hells-cheesecake.json](./217857-arthur-yahtzee-the-curse-of-hells-cheesecake.json) |
 | Arthur's 1st Grade | 70988 | [70988-arthurs-1st-grade.json](./70988-arthurs-1st-grade.json) |
 | Arthur's Absolutely Fun Day! | 49917 | [49917-arthurs-absolutely-fun-day.json](./49917-arthurs-absolutely-fun-day.json) |
+| Arthur's Nightmare | 105527 | [105527-arthurs-nightmare.json](./105527-arthurs-nightmare.json) |
 | Arthur's Pet Chase | 70918 | [70918-arthurs-pet-chase.json](./70918-arthurs-pet-chase.json) |
 | Arthur's Reading Games | 59948 | [59948-arthurs-reading-games.json](./59948-arthurs-reading-games.json) |
 | Arthur's Revenge | 141141 | [141141-arthurs-revenge.json](./141141-arthurs-revenge.json) |
