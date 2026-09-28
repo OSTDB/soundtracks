@@ -1813,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Salt | 96204 | [96204-sea-salt.json](./96204-sea-salt.json) |
 | Sea Salt City | 404240 | [404240-sea-salt-city.json](./404240-sea-salt-city.json) |
 | Sea Scenes | 219616 | [219616-sea-scenes.json](./219616-sea-scenes.json) |
+| Sea Strike | 69896 | [69896-sea-strike.json](./69896-sea-strike.json) |
 | Sea Trader: Rise of Taipan | 49386 | [49386-sea-trader-rise-of-taipan.json](./49386-sea-trader-rise-of-taipan.json) |
 | Sea War | 168633 | [168633-sea-war.json](./168633-sea-war.json) |
 | Sea Warfare: Glorious | 188024 | [188024-sea-warfare-glorious.json](./188024-sea-warfare-glorious.json) |
@@ -6145,6 +6146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sly Panda | 198514 | [198514-sly-panda.json](./198514-sly-panda.json) |
 | Sly Slime | 156697 | [156697-sly-slime.json](./156697-sly-slime.json) |
 | Sly Spy | 12852 | [12852-sly-spy.json](./12852-sly-spy.json) |
+| Slyder | 69912 | [69912-slyder.json](./69912-slyder.json) |
 | Slyder Adventures | 338548 | [338548-slyder-adventures.json](./338548-slyder-adventures.json) |
 | Slyders | 274462 | [274462-slyders.json](./274462-slyders.json) |
 | Slydris | 22271 | [22271-slydris.json](./22271-slydris.json) |
@@ -6289,6 +6291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Mobs | 51551 | [51551-smash-mobs.json](./51551-smash-mobs.json) |
 | Smash Monkeys | 142850 | [142850-smash-monkeys.json](./142850-smash-monkeys.json) |
 | Smash N' Crash | 367455 | [367455-smash-n-crash.json](./367455-smash-n-crash.json) |
+| Smash Out | 69902 | [69902-smash-out.json](./69902-smash-out.json) |
 | Smash Out! | 81175 | [81175-smash-out.json](./81175-smash-out.json) |
 | Smash Pixel Racing | 33154 | [33154-smash-pixel-racing.json](./33154-smash-pixel-racing.json) |
 | Smash Realm | 402941 | [402941-smash-realm.json](./402941-smash-realm.json) |
@@ -6347,6 +6350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SmileTris 2 | 70967 | [70967-smiletris-2.json](./70967-smiletris-2.json) |
 | SmileTris 3 | 70329 | [70329-smiletris-3.json](./70329-smiletris-3.json) |
 | SmileXCorp 3 | 236945 | [236945-smilexcorp-3.json](./236945-smilexcorp-3.json) |
+| Smiley Commandos | 69918 | [69918-smiley-commandos.json](./69918-smiley-commandos.json) |
 | Smiley Dusty | 325697 | [325697-smiley-dusty.json](./325697-smiley-dusty.json) |
 | Smiley's Revenge | 140533 | [140533-smileys-revenge.json](./140533-smileys-revenge.json) |
 | Smileys War | 234901 | [234901-smileys-war.json](./234901-smileys-war.json) |
@@ -13575,6 +13579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Farm | 43290 | [43290-super-farm.json](./43290-super-farm.json) |
 | Super Fight | 132240 | [132240-super-fight.json](./132240-super-fight.json) |
 | Super Fight | 247221 | [247221-super-fight.json](./247221-super-fight.json) |
+| Super Fighter | 69919 | [69919-super-fighter.json](./69919-super-fighter.json) |
 | Super Fighting Jam | 257686 | [257686-super-fighting-jam.json](./257686-super-fighting-jam.json) |
 | Super Filovirus Sisters! | 185451 | [185451-super-filovirus-sisters.json](./185451-super-filovirus-sisters.json) |
 | Super Final Strike | 255736 | [255736-super-final-strike.json](./255736-super-final-strike.json) |
@@ -14499,6 +14504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Solitaire: Card Game | 277890 | [277890-super-solitaire-card-game.json](./277890-super-solitaire-card-game.json) |
 | Super Solvers: Gizmos & Gadgets! | 46647 | [46647-super-solvers-gizmos-and-gadgets.json](./46647-super-solvers-gizmos-and-gadgets.json) |
 | Super Solvers: Midnight Rescue! | 46646 | [46646-super-solvers-midnight-rescue.json](./46646-super-solvers-midnight-rescue.json) |
+| Super Solvers: Spellbound! | 69941 | [69941-super-solvers-spellbound.json](./69941-super-solvers-spellbound.json) |
 | Super Solvers: Treasure Mountain! | 70340 | [70340-super-solvers-treasure-mountain.json](./70340-super-solvers-treasure-mountain.json) |
 | Super Sonday | 367601 | [367601-super-sonday.json](./367601-super-sonday.json) |
 | Super Sonic Bros. | 318026 | [318026-super-sonic-bros.json](./318026-super-sonic-bros.json) |
@@ -15418,6 +15424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swell | 262974 | [262974-swell.json](./262974-swell.json) |
 | Swelldone | 280900 | [280900-swelldone.json](./280900-swelldone.json) |
 | Swervle | 413686 | [413686-swervle.json](./413686-swervle.json) |
+| Swibble Dibble | 69913 | [69913-swibble-dibble.json](./69913-swibble-dibble.json) |
 | Swift Attack | 195481 | [195481-swift-attack.json](./195481-swift-attack.json) |
 | Swift Death | 138229 | [138229-swift-death.json](./138229-swift-death.json) |
 | Swift*Stitch | 65439 | [65439-swift-stitch.json](./65439-swift-stitch.json) |
@@ -15551,6 +15558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Girls | 64902 | [64902-sword-girls.json](./64902-sword-girls.json) |
 | Sword Hero | 346122 | [346122-sword-hero.json](./346122-sword-hero.json) |
 | Sword Maker | 191095 | [191095-sword-maker.json](./191095-sword-maker.json) |
+| Sword Master | 69900 | [69900-sword-master.json](./69900-sword-master.json) |
 | Sword n' Dragons | 275703 | [275703-sword-n-dragons.json](./275703-sword-n-dragons.json) |
 | Sword of Atlas | 188565 | [188565-sword-of-atlas.json](./188565-sword-of-atlas.json) |
 | Sword of Convallaria: For This World of Peace | 212438 | [212438-sword-of-convallaria-for-this-world-of-peace.json](./212438-sword-of-convallaria-for-this-world-of-peace.json) |
