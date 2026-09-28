@@ -2764,6 +2764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revella | 344368 | [344368-revella.json](./344368-revella.json) |
 | Revenant | 307755 | [307755-revenant.json](./307755-revenant.json) |
 | Revenant Hill | 250625 | [250625-revenant-hill.json](./250625-revenant-hill.json) |
+| Revenant in the Paradise | 114501 | [114501-revenant-in-the-paradise.json](./114501-revenant-in-the-paradise.json) |
 | Revenant Knight | 322602 | [322602-revenant-knight.json](./322602-revenant-knight.json) |
 | Revenant March | 127858 | [127858-revenant-march.json](./127858-revenant-march.json) |
 | Revenant Saga & Revenant Dogma | 196682 | [196682-revenant-saga-and-revenant-dogma.json](./196682-revenant-saga-and-revenant-dogma.json) |
@@ -2975,6 +2976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Lust Girl 2 | 249786 | [249786-rhythm-lust-girl-2.json](./249786-rhythm-lust-girl-2.json) |
 | Rhythm of Annihilation | 358373 | [358373-rhythm-of-annihilation.json](./358373-rhythm-of-annihilation.json) |
 | Rhythm of Earth | 375289 | [375289-rhythm-of-earth.json](./375289-rhythm-of-earth.json) |
+| Rhythm Overdrive | 114527 | [114527-rhythm-overdrive.json](./114527-rhythm-overdrive.json) |
 | Rhythm Producer | 275708 | [275708-rhythm-producer.json](./275708-rhythm-producer.json) |
 | Rhythm Racer | 406108 | [406108-rhythm-racer.json](./406108-rhythm-racer.json) |
 | Rhythm Realm | 248040 | [248040-rhythm-realm.json](./248040-rhythm-realm.json) |
@@ -4875,6 +4877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotem | 372546 | [372546-rotem.json](./372546-rotem.json) |
 | Roterra 4: Magical Revolution | 234605 | [234605-roterra-4-magical-revolution.json](./234605-roterra-4-magical-revolution.json) |
 | Roterra Extreme - Great Escape | 125442 | [125442-roterra-extreme-great-escape.json](./125442-roterra-extreme-great-escape.json) |
+| Roterra: Flip the Fairytale | 114537 | [114537-roterra-flip-the-fairytale.json](./114537-roterra-flip-the-fairytale.json) |
 | Rotfang: The House | 417563 | [417563-rotfang-the-house.json](./417563-rotfang-the-house.json) |
 | Rothdam! | 196865 | [196865-rothdam.json](./196865-rothdam.json) |
 | RoThings | 227951 | [227951-rothings.json](./227951-rothings.json) |
