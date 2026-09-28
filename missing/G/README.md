@@ -351,6 +351,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Angel Game Boy Advance: Moridakusan Tenshi no Full Course Okawari Jiyuu | 49562 | [49562-galaxy-angel-game-boy-advance-moridakusan-tenshi-no-full-course-okawari-jiyuu.json](./49562-galaxy-angel-game-boy-advance-moridakusan-tenshi-no-full-course-okawari-jiyuu.json) |
 | Galaxy Angel: Eternal Lovers | 79291 | [79291-galaxy-angel-eternal-lovers.json](./79291-galaxy-angel-eternal-lovers.json) |
 | Galaxy at War Online | 39173 | [39173-galaxy-at-war-online.json](./39173-galaxy-at-war-online.json) |
+| Galaxy Ball | 96882 | [96882-galaxy-ball.json](./96882-galaxy-ball.json) |
+| Galaxy Ball Defender | 96886 | [96886-galaxy-ball-defender.json](./96886-galaxy-ball-defender.json) |
 | Galaxy Ballerina | 293415 | [293415-galaxy-ballerina.json](./293415-galaxy-ballerina.json) |
 | Galaxy Blaster | 56156 | [56156-galaxy-blaster.json](./56156-galaxy-blaster.json) |
 | Galaxy Blaster Code Red | 85168 | [85168-galaxy-blaster-code-red.json](./85168-galaxy-blaster-code-red.json) |
@@ -569,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Seven | 199468 | [199468-game-of-seven.json](./199468-game-of-seven.json) |
 | Game of Small Squares | 105757 | [105757-game-of-small-squares.json](./105757-game-of-small-squares.json) |
 | Game of Sultans | 106526 | [106526-game-of-sultans.json](./106526-game-of-sultans.json) |
+| Game of The Forgotten Gods. Wake Up | 96864 | [96864-game-of-the-forgotten-gods-wake-up.json](./96864-game-of-the-forgotten-gods-wake-up.json) |
 | Game Of Thrall'an | 321365 | [321365-game-of-thrallan.json](./321365-game-of-thrallan.json) |
 | Game of Throne | 179199 | [179199-game-of-throne.json](./179199-game-of-throne.json) |
 | Game of Thrones Beyond the Wall | 120205 | [120205-game-of-thrones-beyond-the-wall.json](./120205-game-of-thrones-beyond-the-wall.json) |
@@ -3463,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Filler | 320185 | [320185-grave-filler.json](./320185-grave-filler.json) |
 | Grave Gunner | 280289 | [280289-grave-gunner.json](./280289-grave-gunner.json) |
 | Grave Man | 179694 | [179694-grave-man.json](./179694-grave-man.json) |
+| Grave Prosperity: Part 1 | 96869 | [96869-grave-prosperity-part-1.json](./96869-grave-prosperity-part-1.json) |
 | Grave Rogue | 351800 | [351800-grave-rogue.json](./351800-grave-rogue.json) |
 | Grave Shadows | 185450 | [185450-grave-shadows.json](./185450-grave-shadows.json) |
 | Grave Spirit | 230215 | [230215-grave-spirit.json](./230215-grave-spirit.json) |
