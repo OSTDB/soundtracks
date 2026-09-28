@@ -2215,6 +2215,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Monsters | 387016 | [387016-master-of-monsters.json](./387016-master-of-monsters.json) |
 | Master of Monsters | 387018 | [387018-master-of-monsters.json](./387018-master-of-monsters.json) |
 | Master of Monsters | 74049 | [74049-master-of-monsters.json](./74049-master-of-monsters.json) |
+| Master of Monsters II | 111902 | [111902-master-of-monsters-ii.json](./111902-master-of-monsters-ii.json) |
+| Master of Monsters III | 111905 | [111905-master-of-monsters-iii.json](./111905-master-of-monsters-iii.json) |
 | Master of Music | 279058 | [279058-master-of-music.json](./279058-master-of-music.json) |
 | Master of Mutations | 109716 | [109716-master-of-mutations.json](./109716-master-of-mutations.json) |
 | Master of Orion II: Battle at Antares | 68 | [68-master-of-orion-ii-battle-at-antares.json](./68-master-of-orion-ii-battle-at-antares.json) |
@@ -6330,6 +6332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Hog | 294806 | [294806-money-hog.json](./294806-money-hog.json) |
 | Money Laundering Simulator | 358344 | [358344-money-laundering-simulator.json](./358344-money-laundering-simulator.json) |
 | Money Loves Silence | 126608 | [126608-money-loves-silence.json](./126608-money-loves-silence.json) |
+| Money Maker | 111872 | [111872-money-maker.json](./111872-money-maker.json) |
 | Money Money | 38582 | [38582-money-money.json](./38582-money-money.json) |
 | Money Mouse in Full Barn House | 281535 | [281535-money-mouse-in-full-barn-house.json](./281535-money-mouse-in-full-barn-house.json) |
 | Money Parasite: Usotsuki na Onna | 225885 | [225885-money-parasite-usotsuki-na-onna.json](./225885-money-parasite-usotsuki-na-onna.json) |
@@ -6492,6 +6495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Chronicle | 56473 | [56473-monster-chronicle.json](./56473-monster-chronicle.json) |
 | Monster Clash 2 | 205591 | [205591-monster-clash-2.json](./205591-monster-clash-2.json) |
 | Monster Claws 5 | 357408 | [357408-monster-claws-5.json](./357408-monster-claws-5.json) |
+| Monster Clicker : Idle Halloween Strategy | 111862 | [111862-monster-clicker-idle-halloween-strategy.json](./111862-monster-clicker-idle-halloween-strategy.json) |
 | Monster Club | 185144 | [185144-monster-club.json](./185144-monster-club.json) |
 | Monster Collector | 143647 | [143647-monster-collector.json](./143647-monster-collector.json) |
 | Monster Commanders | 310720 | [310720-monster-commanders.json](./310720-monster-commanders.json) |
@@ -6853,6 +6857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moomin Midsummer Madness | 404859 | [404859-moomin-midsummer-madness.json](./404859-moomin-midsummer-madness.json) |
 | Moomin no Suteki na Present | 230276 | [230276-moomin-no-suteki-na-present.json](./230276-moomin-no-suteki-na-present.json) |
 | Moomin's Tale | 49859 | [49859-moomins-tale.json](./49859-moomins-tale.json) |
+| MooMoo.io | 111895 | [111895-moomoo-io.json](./111895-moomoo-io.json) |
 | Moon | 212774 | [212774-moon.json](./212774-moon.json) |
 | Moon | 242775 | [242775-moon.json](./242775-moon.json) |
 | Moon 2999 | 302939 | [302939-moon-2999.json](./302939-moon-2999.json) |
@@ -8394,6 +8399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Devilish Contract | 279670 | [279670-my-devilish-contract.json](./279670-my-devilish-contract.json) |
 | My Diamond Baby | 301416 | [301416-my-diamond-baby.json](./301416-my-diamond-baby.json) |
 | My Dinner with André | 227785 | [227785-my-dinner-with-andre.json](./227785-my-dinner-with-andre.json) |
+| My Dino | 111888 | [111888-my-dino.json](./111888-my-dino.json) |
 | My Direct Damag 7 Trillion | 318422 | [318422-my-direct-damag-7-trillion.json](./318422-my-direct-damag-7-trillion.json) |
 | My Dog! | 310018 | [310018-my-dog.json](./310018-my-dog.json) |
 | My Dolphin | 67254 | [67254-my-dolphin.json](./67254-my-dolphin.json) |
