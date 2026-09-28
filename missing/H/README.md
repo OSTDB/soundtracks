@@ -879,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harp | 145597 | [145597-harp.json](./145597-harp.json) |
 | Harp | 72346 | [72346-harp.json](./72346-harp.json) |
 | Harpoon & Battleset 2 | 92827 | [92827-harpoon-and-battleset-2.json](./92827-harpoon-and-battleset-2.json) |
+| Harpoon Cat | 104835 | [104835-harpoon-cat.json](./104835-harpoon-cat.json) |
 | Harpoon Classic | 92996 | [92996-harpoon-classic.json](./92996-harpoon-classic.json) |
 | Harpoon Classic '97 | 365063 | [365063-harpoon-classic-97.json](./365063-harpoon-classic-97.json) |
 | Harpoon II: Admiral's Edition | 73780 | [73780-harpoon-ii-admirals-edition.json](./73780-harpoon-ii-admirals-edition.json) |
@@ -2428,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Lodge | 186815 | [186815-hero-lodge.json](./186815-hero-lodge.json) |
 | Hero Mages | 197632 | [197632-hero-mages.json](./197632-hero-mages.json) |
 | Hero Mania | 211714 | [211714-hero-mania.json](./211714-hero-mania.json) |
+| Hero Masters | 104812 | [104812-hero-masters.json](./104812-hero-masters.json) |
 | Hero Must Die. Again | 127334 | [127334-hero-must-die-again.json](./127334-hero-must-die-again.json) |
 | Hero of Allacrost | 127885 | [127885-hero-of-allacrost.json](./127885-hero-of-allacrost.json) |
 | Hero of Fate | 250886 | [250886-hero-of-fate.json](./250886-hero-of-fate.json) |
@@ -5202,6 +5204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurling Herman | 392252 | [392252-hurling-herman.json](./392252-hurling-herman.json) |
 | Hurricane | 25928 | [25928-hurricane.json](./25928-hurricane.json) |
 | Hurricane chase | 120775 | [120775-hurricane-chase.json](./120775-hurricane-chase.json) |
+| Hurricane Ship Ghost | 104833 | [104833-hurricane-ship-ghost.json](./104833-hurricane-ship-ghost.json) |
 | Hurry Up Bird Hunter! | 82107 | [82107-hurry-up-bird-hunter.json](./82107-hurry-up-bird-hunter.json) |
 | Hurt Me Plenty | 20248 | [20248-hurt-me-plenty.json](./20248-hurt-me-plenty.json) |
 | Hush | 95475 | [95475-hush.json](./95475-hush.json) |
