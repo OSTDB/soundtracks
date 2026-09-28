@@ -1900,6 +1900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Market Dominion: Global Rivalry | 170987 | [170987-market-dominion-global-rivalry.json](./170987-market-dominion-global-rivalry.json) |
 | Market Dominion: Last Penny | 170988 | [170988-market-dominion-last-penny.json](./170988-market-dominion-last-penny.json) |
 | Market Hours | 399710 | [399710-market-hours.json](./399710-market-hours.json) |
+| Market Mogul | 59899 | [59899-market-mogul.json](./59899-market-mogul.json) |
 | Market Trouble | 182541 | [182541-market-trouble.json](./182541-market-trouble.json) |
 | Marki Game Collection | 260243 | [260243-marki-game-collection.json](./260243-marki-game-collection.json) |
 | Marksman Shooting | 245298 | [245298-marksman-shooting.json](./245298-marksman-shooting.json) |
@@ -2332,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MasterChef: Learn to Cook! - Fruits, Nuts & Sweets | 324480 | [324480-masterchef-learn-to-cook-fruits-nuts-and-sweets.json](./324480-masterchef-learn-to-cook-fruits-nuts-and-sweets.json) |
 | MasterChef: Learn to Cook! - Meat, Dairy & Seafood | 324481 | [324481-masterchef-learn-to-cook-meat-dairy-and-seafood.json](./324481-masterchef-learn-to-cook-meat-dairy-and-seafood.json) |
 | MasterChef: Learn to Cook! - Vegetables & Grains | 324482 | [324482-masterchef-learn-to-cook-vegetables-and-grains.json](./324482-masterchef-learn-to-cook-vegetables-and-grains.json) |
+| MasterCube | 59901 | [59901-mastercube.json](./59901-mastercube.json) |
 | Mastermind | 95406 | [95406-mastermind.json](./95406-mastermind.json) |
 | Mastermind - Cows and Bulls Free Word Game | 89711 | [89711-mastermind-cows-and-bulls-free-word-game.json](./89711-mastermind-cows-and-bulls-free-word-game.json) |
 | Masterpack for Doom II | 300701 | [300701-masterpack-for-doom-ii.json](./300701-masterpack-for-doom-ii.json) |
@@ -2539,6 +2541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maths Planets | 105932 | [105932-maths-planets.json](./105932-maths-planets.json) |
 | Maths Play: Have Fun with Numbers! | 159043 | [159043-maths-play-have-fun-with-numbers.json](./159043-maths-play-have-fun-with-numbers.json) |
 | Mathville | 387698 | [387698-mathville.json](./387698-mathville.json) |
+| Mating Zone | 59888 | [59888-mating-zone.json](./59888-mating-zone.json) |
 | Mato Anomalies | 212050 | [212050-mato-anomalies.json](./212050-mato-anomalies.json) |
 | Mato Anomalies: Day One Edition | 228732 | [228732-mato-anomalies-day-one-edition.json](./228732-mato-anomalies-day-one-edition.json) |
 | Matolek the Goat the Inventor | 334659 | [334659-matolek-the-goat-the-inventor.json](./334659-matolek-the-goat-the-inventor.json) |
@@ -4456,6 +4459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mia's Picnic | 146777 | [146777-mias-picnic.json](./146777-mias-picnic.json) |
 | Mia's Reading Adventure: The Search for Grandma's Remedy | 381688 | [381688-mias-reading-adventure-the-search-for-grandmas-remedy.json](./381688-mias-reading-adventure-the-search-for-grandmas-remedy.json) |
 | Mia's Science Adventure: Romaine's New Hat | 381689 | [381689-mias-science-adventure-romaines-new-hat.json](./381689-mias-science-adventure-romaines-new-hat.json) |
+| Miageta Sora ni Ochiteiku | 60052 | [60052-miageta-sora-ni-ochiteiku.json](./60052-miageta-sora-ni-ochiteiku.json) |
 | Miai Kekkon Shita Osanazuma ga Otoko no Ko Datta Ken | 59046 | [59046-miai-kekkon-shita-osanazuma-ga-otoko-no-ko-datta-ken.json](./59046-miai-kekkon-shita-osanazuma-ga-otoko-no-ko-datta-ken.json) |
 | Miami Horizon 2077 | 238735 | [238735-miami-horizon-2077.json](./238735-miami-horizon-2077.json) |
 | Miami Law | 20281 | [20281-miami-law.json](./20281-miami-law.json) |
@@ -4816,6 +4820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Murder Club | 312282 | [312282-midnight-murder-club.json](./312282-midnight-murder-club.json) |
 | Midnight Murder Maze | 365255 | [365255-midnight-murder-maze.json](./365255-midnight-murder-maze.json) |
 | Midnight Mysteries: Devil on the Mississippi - Collector's Edition | 89860 | [89860-midnight-mysteries-devil-on-the-mississippi-collectors-edition.json](./89860-midnight-mysteries-devil-on-the-mississippi-collectors-edition.json) |
+| Midnight Mysteries: Ghostwriting | 59874 | [59874-midnight-mysteries-ghostwriting.json](./59874-midnight-mysteries-ghostwriting.json) |
 | Midnight Mysteries: Salem Witch Trials - Collector's Edition | 94888 | [94888-midnight-mysteries-salem-witch-trials-collectors-edition.json](./94888-midnight-mysteries-salem-witch-trials-collectors-edition.json) |
 | Midnight Ohota | 156551 | [156551-midnight-ohota.json](./156551-midnight-ohota.json) |
 | Midnight on the Milky Way | 161175 | [161175-midnight-on-the-milky-way.json](./161175-midnight-on-the-milky-way.json) |
@@ -4918,6 +4923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Party | 29865 | [29865-mighty-party.json](./29865-mighty-party.json) |
 | Mighty Quest: Rogue Palace | 248635 | [248635-mighty-quest-rogue-palace.json](./248635-mighty-quest-rogue-palace.json) |
 | Mighty Rodent | 73777 | [73777-mighty-rodent.json](./73777-mighty-rodent.json) |
+| Mighty Strike Team | 59869 | [59869-mighty-strike-team.json](./59869-mighty-strike-team.json) |
 | Mighty Switch Force! Collection | 120200 | [120200-mighty-switch-force-collection.json](./120200-mighty-switch-force-collection.json) |
 | Mighty Switch Force! Hyper Drive Edition | 2176 | [2176-mighty-switch-force-hyper-drive-edition.json](./2176-mighty-switch-force-hyper-drive-edition.json) |
 | Mighty the Armadillo | 330152 | [330152-mighty-the-armadillo.json](./330152-mighty-the-armadillo.json) |
@@ -5607,6 +5613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minion Masters: Zealous Inferno | 330729 | [330729-minion-masters-zealous-inferno.json](./330729-minion-masters-zealous-inferno.json) |
 | Minion Quest: The Search for Bowser | 266891 | [266891-minion-quest-the-search-for-bowser.json](./266891-minion-quest-the-search-for-bowser.json) |
 | Minion Rumble | 338349 | [338349-minion-rumble.json](./338349-minion-rumble.json) |
+| Minions | 59896 | [59896-minions.json](./59896-minions.json) |
 | Minions of Elden | 176423 | [176423-minions-of-elden.json](./176423-minions-of-elden.json) |
 | Minions of Elden Online | 170924 | [170924-minions-of-elden-online.json](./170924-minions-of-elden-online.json) |
 | Minions, Monsters, and Madness | 30194 | [30194-minions-monsters-and-madness.json](./30194-minions-monsters-and-madness.json) |
@@ -5938,6 +5945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mist Gears | 107142 | [107142-mist-gears.json](./107142-mist-gears.json) |
 | Mist Guard | 207346 | [207346-mist-guard.json](./207346-mist-guard.json) |
 | Mist of Chaos | 7368 | [7368-mist-of-chaos.json](./7368-mist-of-chaos.json) |
+| Mist of the Dark | 60059 | [60059-mist-of-the-dark.json](./60059-mist-of-the-dark.json) |
 | Mist of the Undead | 148484 | [148484-mist-of-the-undead.json](./148484-mist-of-the-undead.json) |
 | Mist Survival | 108349 | [108349-mist-survival.json](./108349-mist-survival.json) |
 | Mist Survivor | 296982 | [296982-mist-survivor.json](./296982-mist-survivor.json) |
@@ -6525,6 +6533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Maker | 111872 | [111872-money-maker.json](./111872-money-maker.json) |
 | Money Money | 38582 | [38582-money-money.json](./38582-money-money.json) |
 | Money Mouse in Full Barn House | 281535 | [281535-money-mouse-in-full-barn-house.json](./281535-money-mouse-in-full-barn-house.json) |
+| Money Munchers | 59890 | [59890-money-munchers.json](./59890-money-munchers.json) |
 | Money Parasite: Usotsuki na Onna | 225885 | [225885-money-parasite-usotsuki-na-onna.json](./225885-money-parasite-usotsuki-na-onna.json) |
 | Money Puzzle Exchanger | 37280 | [37280-money-puzzle-exchanger.json](./37280-money-puzzle-exchanger.json) |
 | Money Run | 197138 | [197138-money-run.json](./197138-money-run.json) |
@@ -9141,6 +9150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mycelium Conquest | 401813 | [401813-mycelium-conquest.json](./401813-mycelium-conquest.json) |
 | Mycelium: The Silent Contract | 343357 | [343357-mycelium-the-silent-contract.json](./343357-mycelium-the-silent-contract.json) |
 | Mychess | 73301 | [73301-mychess.json](./73301-mychess.json) |
+| Mychess II | 59886 | [59886-mychess-ii.json](./59886-mychess-ii.json) |
 | Mycofall | 391726 | [391726-mycofall.json](./391726-mycofall.json) |
 | MyCoke | 64136 | [64136-mycoke.json](./64136-mycoke.json) |
 | Mycopsychosys | 342662 | [342662-mycopsychosys.json](./342662-mycopsychosys.json) |
@@ -9168,6 +9178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mýrdalssandur, Iceland | 130176 | [130176-myrdalssandur-iceland.json](./130176-myrdalssandur-iceland.json) |
 | Myrddin | 174361 | [174361-myrddin.json](./174361-myrddin.json) |
 | Myriad | 194299 | [194299-myriad.json](./194299-myriad.json) |
+| Myriad | 60033 | [60033-myriad.json](./60033-myriad.json) |
 | Myriad Mayhem | 258208 | [258208-myriad-mayhem.json](./258208-myriad-mayhem.json) |
 | Myriad Realms | 406296 | [406296-myriad-realms.json](./406296-myriad-realms.json) |
 | Myrm Emblem | 279784 | [279784-myrm-emblem.json](./279784-myrm-emblem.json) |
