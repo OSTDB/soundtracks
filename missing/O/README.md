@@ -2449,6 +2449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overboss | 214604 | [214604-overboss.json](./214604-overboss.json) |
 | Overcast and Light Rain | 185011 | [185011-overcast-and-light-rain.json](./185011-overcast-and-light-rain.json) |
 | Overcat | 373530 | [373530-overcat.json](./373530-overcat.json) |
+| Overclocked: The Aclockalypse | 96863 | [96863-overclocked-the-aclockalypse.json](./96863-overclocked-the-aclockalypse.json) |
 | Overcooked! 2: Surf 'n' Turf | 110575 | [110575-overcooked-2-surf-n-turf.json](./110575-overcooked-2-surf-n-turf.json) |
 | Overcooked! All You Can Eat: The Ever Peckish Rises | 182254 | [182254-overcooked-all-you-can-eat-the-ever-peckish-rises.json](./182254-overcooked-all-you-can-eat-the-ever-peckish-rises.json) |
 | Overcooked! All You Can Eat: The Overcooked Birthday Party | 182255 | [182255-overcooked-all-you-can-eat-the-overcooked-birthday-party.json](./182255-overcooked-all-you-can-eat-the-overcooked-birthday-party.json) |
