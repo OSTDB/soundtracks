@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes From Ciudadela | 387335 | [387335-echoes-from-ciudadela.json](./387335-echoes-from-ciudadela.json) |
 | Echoes from the Abyss | 309135 | [309135-echoes-from-the-abyss.json](./309135-echoes-from-the-abyss.json) |
 | Echoes Ⅱ | 303505 | [303505-echoes-ii.json](./303505-echoes-ii.json) |
+| Echoes III | 107373 | [107373-echoes-iii.json](./107373-echoes-iii.json) |
 | Echoes In Static | 395879 | [395879-echoes-in-static.json](./395879-echoes-in-static.json) |
 | Echoes in the Storm | 373216 | [373216-echoes-in-the-storm.json](./373216-echoes-in-the-storm.json) |
 | Echoes of a Turnabout: Franziska von Karma | 318768 | [318768-echoes-of-a-turnabout-franziska-von-karma.json](./318768-echoes-of-a-turnabout-franziska-von-karma.json) |
@@ -2105,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Architect VR | 121477 | [121477-escape-architect-vr.json](./121477-escape-architect-vr.json) |
 | Escape Artist | 386136 | [386136-escape-artist.json](./386136-escape-artist.json) |
 | Escape Basement | 261206 | [261206-escape-basement.json](./261206-escape-basement.json) |
+| Escape Black Orion VR | 107408 | [107408-escape-black-orion-vr.json](./107408-escape-black-orion-vr.json) |
 | Escape Block King | 402311 | [402311-escape-block-king.json](./402311-escape-block-king.json) |
 | Escape Blocks | 295269 | [295269-escape-blocks.json](./295269-escape-blocks.json) |
 | Escape Blythe Castle | 250412 | [250412-escape-blythe-castle.json](./250412-escape-blythe-castle.json) |
@@ -2876,6 +2878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everybody's Putter Golf With Toro | 66090 | [66090-everybodys-putter-golf-with-toro.json](./66090-everybodys-putter-golf-with-toro.json) |
 | Everybody's RPG: Reborn | 147318 | [147318-everybodys-rpg-reborn.json](./147318-everybodys-rpg-reborn.json) |
 | Everybody's Sad | 113672 | [113672-everybodys-sad.json](./113672-everybodys-sad.json) |
+| Everyday Baseball VR | 107415 | [107415-everyday-baseball-vr.json](./107415-everyday-baseball-vr.json) |
 | Everyday House Tamagotchi | 222427 | [222427-everyday-house-tamagotchi.json](./222427-everyday-house-tamagotchi.json) |
 | Everyday Jigsaw | 87088 | [87088-everyday-jigsaw.json](./87088-everyday-jigsaw.json) |
 | Everyday Life Fragments | 344535 | [344535-everyday-life-fragments.json](./344535-everyday-life-fragments.json) |
