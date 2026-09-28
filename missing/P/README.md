@@ -1243,6 +1243,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pass the Bomb | 67946 | [67946-pass-the-bomb.json](./67946-pass-the-bomb.json) |
 | Pass the Pigs | 18271 | [18271-pass-the-pigs.json](./18271-pass-the-pigs.json) |
 | Pass the Sphero | 200110 | [200110-pass-the-sphero.json](./200110-pass-the-sphero.json) |
+| Pass the Time | 68745 | [68745-pass-the-time.json](./68745-pass-the-time.json) |
+| Pass the Time 2 | 68746 | [68746-pass-the-time-2.json](./68746-pass-the-time-2.json) |
 | Pass Tiger Cage | 374599 | [374599-pass-tiger-cage.json](./374599-pass-tiger-cage.json) |
 | Pass Your Driving Theory Test | 69205 | [69205-pass-your-driving-theory-test.json](./69205-pass-your-driving-theory-test.json) |
 | Passage | 103641 | [103641-passage.json](./103641-passage.json) |
@@ -1391,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paths Taken | 119039 | [119039-paths-taken.json](./119039-paths-taken.json) |
 | Pathseeker | 129639 | [129639-pathseeker.json](./129639-pathseeker.json) |
 | Pathstorm | 71512 | [71512-pathstorm.json](./71512-pathstorm.json) |
+| Pathstow Mystery VR | 68753 | [68753-pathstow-mystery-vr.json](./68753-pathstow-mystery-vr.json) |
 | Pathway | 133975 | [133975-pathway.json](./133975-pathway.json) |
 | Patience | 321609 | [321609-patience.json](./321609-patience.json) |
 | Patience Balls | 392789 | [392789-patience-balls.json](./392789-patience-balls.json) |
@@ -2545,6 +2548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phrase Frenzy - Catch It! | 108598 | [108598-phrase-frenzy-catch-it.json](./108598-phrase-frenzy-catch-it.json) |
 | Phrasefight | 106115 | [106115-phrasefight.json](./106115-phrasefight.json) |
 | Phraze Craze | 307911 | [307911-phraze-craze.json](./307911-phraze-craze.json) |
+| Phraze Daze: Famous Quotes Word Game | 68742 | [68742-phraze-daze-famous-quotes-word-game.json](./68742-phraze-daze-famous-quotes-word-game.json) |
 | Phrixothrix | 245857 | [245857-phrixothrix.json](./245857-phrixothrix.json) |
 | Phucker in the Ashes | 369019 | [369019-phucker-in-the-ashes.json](./369019-phucker-in-the-ashes.json) |
 | Phucker in the Gulag | 117474 | [117474-phucker-in-the-gulag.json](./117474-phucker-in-the-gulag.json) |
@@ -4342,6 +4346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plokoth | 133315 | [133315-plokoth.json](./133315-plokoth.json) |
 | Plong | 258190 | [258190-plong.json](./258190-plong.json) |
 | Ploppy Pairs | 197245 | [197245-ploppy-pairs.json](./197245-ploppy-pairs.json) |
+| Plot | 68748 | [68748-plot.json](./68748-plot.json) |
 | Plot Armor | 123422 | [123422-plot-armor.json](./123422-plot-armor.json) |
 | Plot Hole | 238455 | [238455-plot-hole.json](./238455-plot-hole.json) |
 | Plot of the Druid | 126533 | [126533-plot-of-the-druid.json](./126533-plot-of-the-druid.json) |
@@ -7145,6 +7150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Provide Relief | 272008 | [272008-provide-relief.json](./272008-provide-relief.json) |
 | Provider | 164919 | [164919-provider.json](./164919-provider.json) |
 | Province: Suroste | 413238 | [413238-province-suroste.json](./413238-province-suroste.json) |
+| Provincies | 68728 | [68728-provincies.json](./68728-provincies.json) |
 | Provoron | 258977 | [258977-provoron.json](./258977-provoron.json) |
 | Prowler | 55085 | [55085-prowler.json](./55085-prowler.json) |
 | Proxball | 125852 | [125852-proxball.json](./125852-proxball.json) |
