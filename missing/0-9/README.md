@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #SelfCare | 106771 | [106771-selfcare.json](./106771-selfcare.json) |
 | #SelfieTennis | 34683 | [34683-selfietennis.json](./34683-selfietennis.json) |
 | #SinucaAttack | 143494 | [143494-sinucaattack.json](./143494-sinucaattack.json) |
+| #SkiJump | 82007 | [82007-skijump.json](./82007-skijump.json) |
 | #Wish travel, Super Puzzles Dream | 147423 | [147423-wish-travel-super-puzzles-dream.json](./147423-wish-travel-super-puzzles-dream.json) |
 | #womenUp, Super Puzzles Dream | 147437 | [147437-womenup-super-puzzles-dream.json](./147437-womenup-super-puzzles-dream.json) |
 | %100 | 83221 | [83221-100.json](./83221-100.json) |
@@ -555,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Games in 1: My Riding Stables 3D - Jumping for the Team + My Riding Stables 3D | 145525 | [145525-2-games-in-1-my-riding-stables-3d-jumping-for-the-team-my-riding-stables-3d.json](./145525-2-games-in-1-my-riding-stables-3d-jumping-for-the-team-my-riding-stables-3d.json) |
 | 2 Games in 1: Sonic Advance + ChuChu Rocket! | 86053 | [86053-2-games-in-1-sonic-advance-chuchu-rocket.json](./86053-2-games-in-1-sonic-advance-chuchu-rocket.json) |
 | 2 Games in 1: Sonic Pinball Party + Sonic Battle | 79839 | [79839-2-games-in-1-sonic-pinball-party-sonic-battle.json](./79839-2-games-in-1-sonic-pinball-party-sonic-battle.json) |
+| 2 Games in 1: SpongeBob SquarePants: Battle for Bikini Bottom + SpongeBob SquarePants: Supersponge | 82104 | [82104-2-games-in-1-spongebob-squarepants-battle-for-bikini-bottom-spongebob-squarepants-supersponge.json](./82104-2-games-in-1-spongebob-squarepants-battle-for-bikini-bottom-spongebob-squarepants-supersponge.json) |
 | 2 Games in 1: SpongeBob SquarePants: SuperSponge + Rugrats Go Wild! | 82100 | [82100-2-games-in-1-spongebob-squarepants-supersponge-rugrats-go-wild.json](./82100-2-games-in-1-spongebob-squarepants-supersponge-rugrats-go-wild.json) |
 | 2 Games In 1: The SpongeBob SquarePants Movie + SpongeBob SquarePants and Friends in Freeze Frame Frenzy | 86055 | [86055-2-games-in-1-the-spongebob-squarepants-movie-spongebob-squarepants-and-friends-in-freeze-frame-frenzy.json](./86055-2-games-in-1-the-spongebob-squarepants-movie-spongebob-squarepants-and-friends-in-freeze-frame-frenzy.json) |
 | 2 Games in 1!: Archer Maclean's Mercury / Mercury Meltdown | 138010 | [138010-2-games-in-1-archer-macleans-mercury-mercury-meltdown.json](./138010-2-games-in-1-archer-macleans-mercury-mercury-meltdown.json) |
@@ -571,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 in 1: Trash Punk & S.N.I.P.E.R - Hunter Scope | 328577 | [328577-2-in-1-trash-punk-and-s-n-i-p-e-r-hunter-scope.json](./328577-2-in-1-trash-punk-and-s-n-i-p-e-r-hunter-scope.json) |
 | 2 in 1: Trash Punk & Urban Flow | 328578 | [328578-2-in-1-trash-punk-and-urban-flow.json](./328578-2-in-1-trash-punk-and-urban-flow.json) |
 | 2 in 1: V-Rally 3 + Stuntman | 84266 | [84266-2-in-1-v-rally-3-stuntman.json](./84266-2-in-1-v-rally-3-stuntman.json) |
+| 2 jeux en 1 I Titeuf: Ze Gag Machine + Titeuf: Méga-Compet' | 82103 | [82103-2-jeux-en-1-i-titeuf-ze-gag-machine-titeuf-mega-compet.json](./82103-2-jeux-en-1-i-titeuf-ze-gag-machine-titeuf-mega-compet.json) |
 | 2 Late 2 Evade | 216773 | [216773-2-late-2-evade.json](./216773-2-late-2-evade.json) |
 | 2 Ninjas 1 Cup | 29898 | [29898-2-ninjas-1-cup.json](./29898-2-ninjas-1-cup.json) |
 | 2 of Me | 221177 | [221177-2-of-me.json](./221177-2-of-me.json) |
