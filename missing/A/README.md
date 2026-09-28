@@ -782,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Puzzle Bobble | 113438 | [113438-aca-neo-geo-puzzle-bobble.json](./113438-aca-neo-geo-puzzle-bobble.json) |
 | ACA Neo Geo: Samurai Shodown V Special | 117520 | [117520-aca-neo-geo-samurai-shodown-v-special.json](./117520-aca-neo-geo-samurai-shodown-v-special.json) |
 | ACA Neo Geo: Sengoku 3 | 104269 | [104269-aca-neo-geo-sengoku-3.json](./104269-aca-neo-geo-sengoku-3.json) |
+| ACA Neo Geo: Stakes Winner | 99167 | [99167-aca-neo-geo-stakes-winner.json](./99167-aca-neo-geo-stakes-winner.json) |
 | ACA Neo Geo: The King of Fighters '98 | 88907 | [88907-aca-neo-geo-the-king-of-fighters-98.json](./88907-aca-neo-geo-the-king-of-fighters-98.json) |
 | ACA Neo Geo: The King of Fighters 2003 | 115445 | [115445-aca-neo-geo-the-king-of-fighters-2003.json](./115445-aca-neo-geo-the-king-of-fighters-2003.json) |
 | ACA Neo Geo: The Last Blade 2 | 90517 | [90517-aca-neo-geo-the-last-blade-2.json](./90517-aca-neo-geo-the-last-blade-2.json) |
@@ -3103,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Penguin DX | 279579 | [279579-amazing-penguin-dx.json](./279579-amazing-penguin-dx.json) |
 | Amazing Pets Bundle | 212788 | [212788-amazing-pets-bundle.json](./212788-amazing-pets-bundle.json) |
 | Amazing Pyramids | 385293 | [385293-amazing-pyramids.json](./385293-amazing-pyramids.json) |
+| Amazing Soccer 2013 | 99146 | [99146-amazing-soccer-2013.json](./99146-amazing-soccer-2013.json) |
 | Amazing Space | 258210 | [258210-amazing-space.json](./258210-amazing-space.json) |
 | Amazing Studly Strikes | 235152 | [235152-amazing-studly-strikes.json](./235152-amazing-studly-strikes.json) |
 | Amazing Superhero Squad | 159862 | [159862-amazing-superhero-squad.json](./159862-amazing-superhero-squad.json) |
@@ -3827,6 +3829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Gem Puzzle | 297653 | [297653-animal-gem-puzzle.json](./297653-animal-gem-puzzle.json) |
 | Animal Genius | 397073 | [397073-animal-genius.json](./397073-animal-genius.json) |
 | Animal Hearts: A Card Quest | 373754 | [373754-animal-hearts-a-card-quest.json](./373754-animal-hearts-a-card-quest.json) |
+| Animal Hospital for kids | 99195 | [99195-animal-hospital-for-kids.json](./99195-animal-hospital-for-kids.json) |
 | Animal Inspector | 124753 | [124753-animal-inspector.json](./124753-animal-inspector.json) |
 | Animal Intern | 182823 | [182823-animal-intern.json](./182823-animal-intern.json) |
 | Animal Island: The Wolf’s Onslaught | 384804 | [384804-animal-island-the-wolf-s-onslaught.json](./384804-animal-island-the-wolf-s-onslaught.json) |
@@ -4784,6 +4787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Touchdown Fever | 384203 | [384203-arcade-archives-2-touchdown-fever.json](./384203-arcade-archives-2-touchdown-fever.json) |
 | Arcade Archives 2: TX-1 | 411809 | [411809-arcade-archives-2-tx-1.json](./411809-arcade-archives-2-tx-1.json) |
 | Arcade Archives 2: V'Ball | 413937 | [413937-arcade-archives-2-vball.json](./413937-arcade-archives-2-vball.json) |
+| Arcade Archives: 10-Yard Fight | 99168 | [99168-arcade-archives-10-yard-fight.json](./99168-arcade-archives-10-yard-fight.json) |
 | Arcade Archives: A-Jax | 99563 | [99563-arcade-archives-a-jax.json](./99563-arcade-archives-a-jax.json) |
 | Arcade Archives: Adventure Canoe | 392765 | [392765-arcade-archives-adventure-canoe.json](./392765-arcade-archives-adventure-canoe.json) |
 | Arcade Archives: Aero Fighters | 280360 | [280360-arcade-archives-aero-fighters.json](./280360-arcade-archives-aero-fighters.json) |
