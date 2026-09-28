@@ -2528,6 +2528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charrua Soccer | 134546 | [134546-charrua-soccer.json](./134546-charrua-soccer.json) |
 | Charrua Soccer: Mirror Edition | 280344 | [280344-charrua-soccer-mirror-edition.json](./280344-charrua-soccer-mirror-edition.json) |
 | Charrua Soccer: Pro Edition | 277310 | [277310-charrua-soccer-pro-edition.json](./277310-charrua-soccer-pro-edition.json) |
+| Chart Attack | 94340 | [94340-chart-attack.json](./94340-chart-attack.json) |
 | Chart Weaver | 382892 | [382892-chart-weaver.json](./382892-chart-weaver.json) |
 | Chart1647 | 242654 | [242654-chart1647.json](./242654-chart1647.json) |
 | Charterstone: Digital Edition | 117869 | [117869-charterstone-digital-edition.json](./117869-charterstone-digital-edition.json) |
@@ -2947,6 +2948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chickenfoot Dominoes | 108257 | [108257-chickenfoot-dominoes.json](./108257-chickenfoot-dominoes.json) |
 | Chickenhare and the Treasure of Spiking-Beard | 341670 | [341670-chickenhare-and-the-treasure-of-spiking-beard.json](./341670-chickenhare-and-the-treasure-of-spiking-beard.json) |
 | ChickenPop! | 103519 | [103519-chickenpop.json](./103519-chickenpop.json) |
+| Chickens | 94352 | [94352-chickens.json](./94352-chickens.json) |
 | Chickens Can't Fly | 22341 | [22341-chickens-cant-fly.json](./22341-chickens-cant-fly.json) |
 | Chickens Don't Fly | 361681 | [361681-chickens-dont-fly.json](./361681-chickens-dont-fly.json) |
 | Chickens in Choppers | 270401 | [270401-chickens-in-choppers.json](./270401-chickens-in-choppers.json) |
@@ -3909,6 +3911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Takeover: Fierce Animals | 309085 | [309085-city-takeover-fierce-animals.json](./309085-city-takeover-fierce-animals.json) |
 | City Takeover: Gentle Animals | 309086 | [309086-city-takeover-gentle-animals.json](./309086-city-takeover-gentle-animals.json) |
 | City Takeover: Wild Edition | 364096 | [364096-city-takeover-wild-edition.json](./364096-city-takeover-wild-edition.json) |
+| City Trader | 94368 | [94368-city-trader.json](./94368-city-trader.json) |
 | City Traffic Car Driving Parking Career Simulator | 86958 | [86958-city-traffic-car-driving-parking-career-simulator.json](./86958-city-traffic-car-driving-parking-career-simulator.json) |
 | City Transport Simulator: Bus | 359609 | [359609-city-transport-simulator-bus.json](./359609-city-transport-simulator-bus.json) |
 | City Transport Simulator: Bus DLC - Gräf/Steyr NG235 | 359611 | [359611-city-transport-simulator-bus-dlc-graf-steyr-ng235.json](./359611-city-transport-simulator-bus-dlc-graf-steyr-ng235.json) |
@@ -4347,6 +4350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clones Run | 322999 | [322999-clones-run.json](./322999-clones-run.json) |
 | Cloning Chaos | 302489 | [302489-cloning-chaos.json](./302489-cloning-chaos.json) |
 | Clonizer | 257887 | [257887-clonizer.json](./257887-clonizer.json) |
+| Clonk | 94332 | [94332-clonk.json](./94332-clonk.json) |
 | Clonk 2: Debakel | 94534 | [94534-clonk-2-debakel.json](./94534-clonk-2-debakel.json) |
 | Clonk 3: Radikal | 46580 | [46580-clonk-3-radikal.json](./46580-clonk-3-radikal.json) |
 | Clonk A.P.E. | 79332 | [79332-clonk-a-p-e.json](./79332-clonk-a-p-e.json) |
@@ -4748,6 +4752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Rush | 336594 | [336594-coin-rush.json](./336594-coin-rush.json) |
 | Coin Slots Live | 386856 | [386856-coin-slots-live.json](./386856-coin-slots-live.json) |
 | Coin Toss Rainbow Simulator | 272871 | [272871-coin-toss-rainbow-simulator.json](./272871-coin-toss-rainbow-simulator.json) |
+| Coin World | 94347 | [94347-coin-world.json](./94347-coin-world.json) |
 | Coin-Op Kingdom | 98766 | [98766-coin-op-kingdom.json](./98766-coin-op-kingdom.json) |
 | Coin$ Pusher Ltd | 408089 | [408089-coin-pusher-ltd.json](./408089-coin-pusher-ltd.json) |
 | Coinbox Hero | 294224 | [294224-coinbox-hero.json](./294224-coinbox-hero.json) |
@@ -5168,6 +5173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coma: Mortuary | 36321 | [36321-coma-mortuary.json](./36321-coma-mortuary.json) |
 | Comanche 3 | 643 | [643-comanche-3.json](./643-comanche-3.json) |
 | Comanche 4 | 4203 | [4203-comanche-4.json](./4203-comanche-4.json) |
+| Comanche CD | 94326 | [94326-comanche-cd.json](./94326-comanche-cd.json) |
 | Comanche: Maximum Overkill - Mission Disk 1 | 94240 | [94240-comanche-maximum-overkill-mission-disk-1.json](./94240-comanche-maximum-overkill-mission-disk-1.json) |
 | Comando Rio | 297097 | [297097-comando-rio.json](./297097-comando-rio.json) |
 | Comando Tracer | 138800 | [138800-comando-tracer.json](./138800-comando-tracer.json) |
