@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cactu-sama 2 | 204542 | [204542-cactu-sama-2.json](./204542-cactu-sama-2.json) |
 | Cactus Arcade | 141791 | [141791-cactus-arcade.json](./141791-cactus-arcade.json) |
 | Cactus Arcade II | 141792 | [141792-cactus-arcade-ii.json](./141792-cactus-arcade-ii.json) |
+| Cactus Canyon | 88479 | [88479-cactus-canyon.json](./88479-cactus-canyon.json) |
 | Cactus Clicker | 380667 | [380667-cactus-clicker.json](./380667-cactus-clicker.json) |
 | Cactus Cowboy 3: Fully Loaded | 152901 | [152901-cactus-cowboy-3-fully-loaded.json](./152901-cactus-cowboy-3-fully-loaded.json) |
 | Cactus Cowboy: Desert Warfare | 263233 | [263233-cactus-cowboy-desert-warfare.json](./263233-cactus-cowboy-desert-warfare.json) |
@@ -450,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You Come In? | 144235 | [144235-can-you-come-in.json](./144235-can-you-come-in.json) |
 | Can You Eat by Yourself | 76660 | [76660-can-you-eat-by-yourself.json](./76660-can-you-eat-by-yourself.json) |
 | Can You Escape | 189033 | [189033-can-you-escape.json](./189033-can-you-escape.json) |
+| Can You Escape | 88475 | [88475-can-you-escape.json](./88475-can-you-escape.json) |
 | Can You Escape Fate? A Zodiac Story | 377807 | [377807-can-you-escape-fate-a-zodiac-story.json](./377807-can-you-escape-fate-a-zodiac-story.json) |
 | Can You Escape Heartbreak? A Zodiac Story | 377809 | [377809-can-you-escape-heartbreak-a-zodiac-story.json](./377809-can-you-escape-heartbreak-a-zodiac-story.json) |
 | Can You Escape Love? A Zodiac Story | 377804 | [377804-can-you-escape-love-a-zodiac-story.json](./377804-can-you-escape-love-a-zodiac-story.json) |
@@ -2605,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check-In Chaos | 410448 | [410448-check-in-chaos.json](./410448-check-in-chaos.json) |
 | Checkered Flag | 40815 | [40815-checkered-flag.json](./40815-checkered-flag.json) |
 | Checkers | 131515 | [131515-checkers.json](./131515-checkers.json) |
+| Checkers Board Game | 88432 | [88432-checkers-board-game.json](./88432-checkers-board-game.json) |
 | Checkers Challenge | 88173 | [88173-checkers-challenge.json](./88173-checkers-challenge.json) |
 | Checkers Gold | 100162 | [100162-checkers-gold.json](./100162-checkers-gold.json) |
 | Checkers in the Park | 254436 | [254436-checkers-in-the-park.json](./254436-checkers-in-the-park.json) |
@@ -2781,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Mix | 135240 | [135240-chess-mix.json](./135240-chess-mix.json) |
 | Chess Morph: The Queen's Wormholes | 237058 | [237058-chess-morph-the-queens-wormholes.json](./237058-chess-morph-the-queens-wormholes.json) |
 | Chess of Fortune | 357216 | [357216-chess-of-fortune.json](./357216-chess-of-fortune.json) |
+| Chess Online | 88433 | [88433-chess-online.json](./88433-chess-online.json) |
 | Chess Online + | 88339 | [88339-chess-online.json](./88339-chess-online.json) |
 | Chess Peace | 401021 | [401021-chess-peace.json](./401021-chess-peace.json) |
 | Chess Pills | 203931 | [203931-chess-pills.json](./203931-chess-pills.json) |
@@ -3712,6 +3716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuit Dude | 51789 | [51789-circuit-dude.json](./51789-circuit-dude.json) |
 | Circuit Puzzle | 270402 | [270402-circuit-puzzle.json](./270402-circuit-puzzle.json) |
 | Circuit Racer | 26656 | [26656-circuit-racer.json](./26656-circuit-racer.json) |
+| Circuit Racer 2: Race and Chase | 88499 | [88499-circuit-racer-2-race-and-chase.json](./88499-circuit-racer-2-race-and-chase.json) |
 | Circuit Runner | 311634 | [311634-circuit-runner.json](./311634-circuit-runner.json) |
 | Circuit Stance | 392123 | [392123-circuit-stance.json](./392123-circuit-stance.json) |
 | Circuit USA | 281556 | [281556-circuit-usa.json](./281556-circuit-usa.json) |
@@ -3854,6 +3859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Hunter | 37718 | [37718-city-hunter.json](./37718-city-hunter.json) |
 | City Idle | 244354 | [244354-city-idle.json](./244354-city-idle.json) |
 | City Island 2: Building Sim | 103544 | [103544-city-island-2-building-sim.json](./103544-city-island-2-building-sim.json) |
+| City Island 4 | 88498 | [88498-city-island-4.json](./88498-city-island-4.json) |
 | City League Softball | 209400 | [209400-city-league-softball.json](./209400-city-league-softball.json) |
 | City Legends: The Ghost of Misty Hill - Collector's Edition | 251844 | [251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json](./251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json) |
 | City Legends: The Ghost of Misty Hill - DLC | 252238 | [252238-city-legends-the-ghost-of-misty-hill-dlc.json](./252238-city-legends-the-ghost-of-misty-hill-dlc.json) |
