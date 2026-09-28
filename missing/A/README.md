@@ -1905,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airavat | 57916 | [57916-airavat.json](./57916-airavat.json) |
 | AirBob | 295874 | [295874-airbob.json](./295874-airbob.json) |
 | Airborne Arena | 277854 | [277854-airborne-arena.json](./277854-airborne-arena.json) |
+| Airborne Assault: Conquest of the Aegean | 72759 | [72759-airborne-assault-conquest-of-the-aegean.json](./72759-airborne-assault-conquest-of-the-aegean.json) |
 | Airborne Empire | 252769 | [252769-airborne-empire.json](./252769-airborne-empire.json) |
 | Airborne Justice | 321533 | [321533-airborne-justice.json](./321533-airborne-justice.json) |
 | Airborne Kingdom | 115473 | [115473-airborne-kingdom.json](./115473-airborne-kingdom.json) |
@@ -5966,6 +5967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascribe | 235990 | [235990-ascribe.json](./235990-ascribe.json) |
 | Ascribe Imya | 382457 | [382457-ascribe-imya.json](./382457-ascribe-imya.json) |
 | ASDA Global | 82963 | [82963-asda-global.json](./82963-asda-global.json) |
+| Asda Story | 72790 | [72790-asda-story.json](./72790-asda-story.json) |
 | Asdivine Collection | 172729 | [172729-asdivine-collection.json](./172729-asdivine-collection.json) |
 | Asdivine Cross | 38982 | [38982-asdivine-cross.json](./38982-asdivine-cross.json) |
 | Asdivine Dios | 38981 | [38981-asdivine-dios.json](./38981-asdivine-dios.json) |
