@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Did it Mum! Picture Book | 48040 | [48040-i-did-it-mum-picture-book.json](./48040-i-did-it-mum-picture-book.json) |
 | I Did Not Buy This Ticket | 221165 | [221165-i-did-not-buy-this-ticket.json](./221165-i-did-not-buy-this-ticket.json) |
 | I Didn't Cheat | 324683 | [324683-i-didnt-cheat.json](./324683-i-didnt-cheat.json) |
+| I Doll U | 61171 | [61171-i-doll-u.json](./61171-i-doll-u.json) |
 | I Don't Belong | 186159 | [186159-i-dont-belong.json](./186159-i-dont-belong.json) |
 | I Don't Know How to Have Hotpot Alone | 129601 | [129601-i-dont-know-how-to-have-hotpot-alone.json](./129601-i-dont-know-how-to-have-hotpot-alone.json) |
 | I Don't Know Which Name I Should Give This Game | 159048 | [159048-i-dont-know-which-name-i-should-give-this-game.json](./159048-i-dont-know-which-name-i-should-give-this-game.json) |
@@ -2657,6 +2658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irony Curtain: From Matryoshka with Love - Revolutionary Edition | 124830 | [124830-irony-curtain-from-matryoshka-with-love-revolutionary-edition.json](./124830-irony-curtain-from-matryoshka-with-love-revolutionary-edition.json) |
 | Irori | 184067 | [184067-irori.json](./184067-irori.json) |
 | Iros | 270410 | [270410-iros.json](./270410-iros.json) |
+| Irotoridori no Sekai: World's End Rebirth | 61144 | [61144-irotoridori-no-sekai-worlds-end-rebirth.json](./61144-irotoridori-no-sekai-worlds-end-rebirth.json) |
 | Irradiant Skies | 385591 | [385591-irradiant-skies.json](./385591-irradiant-skies.json) |
 | Irradiate 235 | 359603 | [359603-irradiate-235.json](./359603-irradiate-235.json) |
 | Irrational Exuberance | 33518 | [33518-irrational-exuberance.json](./33518-irrational-exuberance.json) |
