@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Infinite Warfare - Absolution | 44149 | [44149-call-of-duty-infinite-warfare-absolution.json](./44149-call-of-duty-infinite-warfare-absolution.json) |
 | Call of Duty: Infinite Warfare - Continuum | 28063 | [28063-call-of-duty-infinite-warfare-continuum.json](./28063-call-of-duty-infinite-warfare-continuum.json) |
 | Call of Duty: Infinite Warfare - Digital Deluxe Edition | 118910 | [118910-call-of-duty-infinite-warfare-digital-deluxe-edition.json](./118910-call-of-duty-infinite-warfare-digital-deluxe-edition.json) |
+| Call of Duty: Infinite Warfare - Jackal Assault | 80632 | [80632-call-of-duty-infinite-warfare-jackal-assault.json](./80632-call-of-duty-infinite-warfare-jackal-assault.json) |
 | Call of Duty: Infinite Warfare - Legacy Edition | 42896 | [42896-call-of-duty-infinite-warfare-legacy-edition.json](./42896-call-of-duty-infinite-warfare-legacy-edition.json) |
 | Call of Duty: Modern Warfare - Precision Edition | 136342 | [136342-call-of-duty-modern-warfare-precision-edition.json](./136342-call-of-duty-modern-warfare-precision-edition.json) |
 | Call of Duty: Modern Warfare - Season Five | 136976 | [136976-call-of-duty-modern-warfare-season-five.json](./136976-call-of-duty-modern-warfare-season-five.json) |
@@ -904,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Fable Quest | 334188 | [334188-card-fable-quest.json](./334188-card-fable-quest.json) |
 | Card Fuse | 278167 | [278167-card-fuse.json](./278167-card-fuse.json) |
 | Card Game Bundle Vol.1 | 118917 | [118917-card-game-bundle-vol-1.json](./118917-card-game-bundle-vol-1.json) |
+| Card Games for Windows | 80449 | [80449-card-games-for-windows.json](./80449-card-games-for-windows.json) |
 | Card Games Mega Collection | 104032 | [104032-card-games-mega-collection.json](./104032-card-games-mega-collection.json) |
 | Card Games: Solitaire and more | 232363 | [232363-card-games-solitaire-and-more.json](./232363-card-games-solitaire-and-more.json) |
 | Card Gauntlet | 335363 | [335363-card-gauntlet.json](./335363-card-gauntlet.json) |
@@ -4637,6 +4639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocoto Alien Brick Breaker | 63857 | [63857-cocoto-alien-brick-breaker.json](./63857-cocoto-alien-brick-breaker.json) |
 | Cocoto Fishing Master | 19677 | [19677-cocoto-fishing-master.json](./19677-cocoto-fishing-master.json) |
 | Cocoto Magic Circus 2 | 61861 | [61861-cocoto-magic-circus-2.json](./61861-cocoto-magic-circus-2.json) |
+| Cocoto Tennis Master | 80476 | [80476-cocoto-tennis-master.json](./80476-cocoto-tennis-master.json) |
 | Coda | 252211 | [252211-coda.json](./252211-coda.json) |
 | Coda | 358349 | [358349-coda.json](./358349-coda.json) |
 | Code 7 | 27175 | [27175-code-7.json](./27175-code-7.json) |
@@ -6325,6 +6328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Slime Defense | 287202 | [287202-cosmic-slime-defense.json](./287202-cosmic-slime-defense.json) |
 | Cosmic Spacehead | 374682 | [374682-cosmic-spacehead.json](./374682-cosmic-spacehead.json) |
 | Cosmic Star Heroine | 27667 | [27667-cosmic-star-heroine.json](./27667-cosmic-star-heroine.json) |
+| Cosmic Storm | 80623 | [80623-cosmic-storm.json](./80623-cosmic-storm.json) |
 | Cosmic Strike: The Last Sub Sector | 205667 | [205667-cosmic-strike-the-last-sub-sector.json](./205667-cosmic-strike-the-last-sub-sector.json) |
 | Cosmic Swarm | 18535 | [18535-cosmic-swarm.json](./18535-cosmic-swarm.json) |
 | Cosmic Swarm | 380090 | [380090-cosmic-swarm.json](./380090-cosmic-swarm.json) |
