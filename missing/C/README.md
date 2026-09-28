@@ -3344,6 +3344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Massacre VR | 29952 | [29952-christmas-massacre-vr.json](./29952-christmas-massacre-vr.json) |
 | Christmas Matchup | 92963 | [92963-christmas-matchup.json](./92963-christmas-matchup.json) |
 | Christmas Morning | 187222 | [187222-christmas-morning.json](./187222-christmas-morning.json) |
+| Christmas Mosaic Puzzle | 104217 | [104217-christmas-mosaic-puzzle.json](./104217-christmas-mosaic-puzzle.json) |
 | Christmas Mutilator | 326235 | [326235-christmas-mutilator.json](./326235-christmas-mutilator.json) |
 | Christmas Night | 236804 | [236804-christmas-night.json](./236804-christmas-night.json) |
 | Christmas Night Archery | 77667 | [77667-christmas-night-archery.json](./77667-christmas-night-archery.json) |
@@ -8374,6 +8375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Cats | 163399 | [163399-cute-cats.json](./163399-cute-cats.json) |
 | Cute Cats 2 | 195170 | [195170-cute-cats-2.json](./195170-cute-cats-2.json) |
 | Cute Cats 3 | 201703 | [201703-cute-cats-3.json](./201703-cute-cats-3.json) |
+| Cute Cats Puzzles | 104221 | [104221-cute-cats-puzzles.json](./104221-cute-cats-puzzles.json) |
 | Cute Cats Slide | 277932 | [277932-cute-cats-slide.json](./277932-cute-cats-slide.json) |
 | Cute Cock Clicker | 218151 | [218151-cute-cock-clicker.json](./218151-cute-cock-clicker.json) |
 | Cute Critters Pet Kitty | 278488 | [278488-cute-critters-pet-kitty.json](./278488-cute-critters-pet-kitty.json) |
