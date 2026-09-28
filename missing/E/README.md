@@ -781,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Shaddai: Ascension of the Metatron | 6987 | [6987-el-shaddai-ascension-of-the-metatron.json](./6987-el-shaddai-ascension-of-the-metatron.json) |
 | El Silla: Arcade Edition | 114182 | [114182-el-silla-arcade-edition.json](./114182-el-silla-arcade-edition.json) |
 | El Stompo | 333925 | [333925-el-stompo.json](./333925-el-stompo.json) |
+| El Taco Diablo | 115127 | [115127-el-taco-diablo.json](./115127-el-taco-diablo.json) |
 | El Tango de la Muerte | 68838 | [68838-el-tango-de-la-muerte.json](./68838-el-tango-de-la-muerte.json) |
 | El Tigre: The Adventures of Manny Rivera | 264869 | [264869-el-tigre-the-adventures-of-manny-rivera.json](./264869-el-tigre-the-adventures-of-manny-rivera.json) |
 | El-Fish | 72089 | [72089-el-fish.json](./72089-el-fish.json) |
@@ -1598,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endure or Perish | 288223 | [288223-endure-or-perish.json](./288223-endure-or-perish.json) |
 | Enduro Racer | 37159 | [37159-enduro-racer.json](./37159-enduro-racer.json) |
 | EndZ Village | 119630 | [119630-endz-village.json](./119630-endz-village.json) |
+| Endzeit | 115145 | [115145-endzeit.json](./115145-endzeit.json) |
 | Endzeit | 243785 | [243785-endzeit.json](./243785-endzeit.json) |
 | Endzone | 13643 | [13643-endzone.json](./13643-endzone.json) |
 | Endzone: A World Apart | 126362 | [126362-endzone-a-world-apart.json](./126362-endzone-a-world-apart.json) |
@@ -1977,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erasure | 125282 | [125282-erasure.json](./125282-erasure.json) |
 | EreaDrone Simulator | 104189 | [104189-ereadrone-simulator.json](./104189-ereadrone-simulator.json) |
 | Ereban: Shadow Legacy | 204624 | [204624-ereban-shadow-legacy.json](./204624-ereban-shadow-legacy.json) |
+| Erectus the Game | 115188 | [115188-erectus-the-game.json](./115188-erectus-the-game.json) |
 | Erefia | 44212 | [44212-erefia.json](./44212-erefia.json) |
 | Eremidia: Archivist's Curse | 208588 | [208588-eremidia-archivists-curse.json](./208588-eremidia-archivists-curse.json) |
 | Erenshor | 245825 | [245825-erenshor.json](./245825-erenshor.json) |
@@ -3175,6 +3178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exo: Arena | 257473 | [257473-exo-arena.json](./257473-exo-arena.json) |
 | ExoColony: Planet Survival | 226715 | [226715-exocolony-planet-survival.json](./226715-exocolony-planet-survival.json) |
 | ExoCorps | 121018 | [121018-exocorps.json](./121018-exocorps.json) |
+| Exocraft | 115166 | [115166-exocraft.json](./115166-exocraft.json) |
 | Exodemic | 197152 | [197152-exodemic.json](./197152-exodemic.json) |
 | Exodemon | 27740 | [27740-exodemon.json](./27740-exodemon.json) |
 | Exoder | 98767 | [98767-exoder.json](./98767-exoder.json) |
