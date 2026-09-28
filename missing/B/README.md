@@ -6636,6 +6636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Rigs | 30650 | [30650-brick-rigs.json](./30650-brick-rigs.json) |
 | Brick Shot 2 | 68339 | [68339-brick-shot-2.json](./68339-brick-shot-2.json) |
 | Brick Thru | 89932 | [89932-brick-thru.json](./89932-brick-thru.json) |
+| Brick Zone | 64459 | [64459-brick-zone.json](./64459-brick-zone.json) |
 | Brick: One Block at a Time | 416120 | [416120-brick-one-block-at-a-time.json](./416120-brick-one-block-at-a-time.json) |
 | Brick[BrickSmash]Smash | 128596 | [128596-brick-bricksmash-smash.json](./128596-brick-bricksmash-smash.json) |
 | Brickade | 371899 | [371899-brickade.json](./371899-brickade.json) |
