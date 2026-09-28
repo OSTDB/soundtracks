@@ -2898,6 +2898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent 3: White Label Edition | 70336 | [70336-descent-3-white-label-edition.json](./70336-descent-3-white-label-edition.json) |
 | Descent Down Infinity | 411612 | [411612-descent-down-infinity.json](./411612-descent-down-infinity.json) |
 | Descent from Arkov's Tower | 277273 | [277273-descent-from-arkovs-tower.json](./277273-descent-from-arkovs-tower.json) |
+| Descent II: The Vertigo Series | 82175 | [82175-descent-ii-the-vertigo-series.json](./82175-descent-ii-the-vertigo-series.json) |
 | Descent into Hades | 272017 | [272017-descent-into-hades.json](./272017-descent-into-hades.json) |
 | Descent Of Lunaris | 375453 | [375453-descent-of-lunaris.json](./375453-descent-of-lunaris.json) |
 | Descent the Abyss | 303474 | [303474-descent-the-abyss.json](./303474-descent-the-abyss.json) |
@@ -7572,6 +7573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Brawl | 373095 | [373095-dungeon-brawl.json](./373095-dungeon-brawl.json) |
 | Dungeon Brewmaster | 98734 | [98734-dungeon-brewmaster.json](./98734-dungeon-brewmaster.json) |
 | Dungeon Builder S | 44199 | [44199-dungeon-builder-s.json](./44199-dungeon-builder-s.json) |
+| Dungeon Chop Chop | 82020 | [82020-dungeon-chop-chop.json](./82020-dungeon-chop-chop.json) |
 | Dungeon Clawler | 290897 | [290897-dungeon-clawler.json](./290897-dungeon-clawler.json) |
 | Dungeon Cleaner | 260667 | [260667-dungeon-cleaner.json](./260667-dungeon-cleaner.json) |
 | Dungeon Cleaning Express | 114974 | [114974-dungeon-cleaning-express.json](./114974-dungeon-cleaning-express.json) |
