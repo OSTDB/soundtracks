@@ -1556,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marine Buster | 45969 | [45969-marine-buster.json](./45969-marine-buster.json) |
 | Marine Chan | 97846 | [97846-marine-chan.json](./97846-marine-chan.json) |
 | Marine Quest | 313683 | [313683-marine-quest.json](./313683-marine-quest.json) |
+| Marine Sharpshooter | 77242 | [77242-marine-sharpshooter.json](./77242-marine-sharpshooter.json) |
 | Marine Survivors | 213970 | [213970-marine-survivors.json](./213970-marine-survivors.json) |
 | Marine Tour | 243393 | [243393-marine-tour.json](./243393-marine-tour.json) |
 | Mariner | 39690 | [39690-mariner.json](./39690-mariner.json) |
@@ -4424,6 +4425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miami Nights: Bartending in the 80s | 312138 | [312138-miami-nights-bartending-in-the-80s.json](./312138-miami-nights-bartending-in-the-80s.json) |
 | Miami Nights: Singles in the City | 21284 | [21284-miami-nights-singles-in-the-city.json](./21284-miami-nights-singles-in-the-city.json) |
 | Miami Shark | 234942 | [234942-miami-shark.json](./234942-miami-shark.json) |
+| Miami Vice | 77244 | [77244-miami-vice.json](./77244-miami-vice.json) |
 | Miamo.fun | 267368 | [267368-miamo-fun.json](./267368-miamo-fun.json) |
 | Miao and the Friendmily Journal: Miao | 183974 | [183974-miao-and-the-friendmily-journal-miao.json](./183974-miao-and-the-friendmily-journal-miao.json) |
 | Miaou Moon | 31790 | [31790-miaou-moon.json](./31790-miaou-moon.json) |
@@ -7693,6 +7695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Painting Master | 148985 | [148985-mouse-painting-master.json](./148985-mouse-painting-master.json) |
 | Mouse People | 207409 | [207409-mouse-people.json](./207409-mouse-people.json) |
 | Mouse Trap | 248053 | [248053-mouse-trap.json](./248053-mouse-trap.json) |
+| Mouse Trap / Operation / Simon | 77240 | [77240-mouse-trap-operation-simon.json](./77240-mouse-trap-operation-simon.json) |
 | Mouse Trap Hotel | 49037 | [49037-mouse-trap-hotel.json](./49037-mouse-trap-hotel.json) |
 | Mouse Trophy | 59057 | [59057-mouse-trophy.json](./59057-mouse-trophy.json) |
 | Mouse Wants Cheese | 261308 | [261308-mouse-wants-cheese.json](./261308-mouse-wants-cheese.json) |
