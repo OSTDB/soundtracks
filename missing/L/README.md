@@ -3126,6 +3126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | lone.AI | 295404 | [295404-lone-ai.json](./295404-lone-ai.json) |
 | Loneliest Depths | 300391 | [300391-loneliest-depths.json](./300391-loneliest-depths.json) |
 | Loneliness | 139344 | [139344-loneliness.json](./139344-loneliness.json) |
+| Loneliness After: Chapter 1 | 88464 | [88464-loneliness-after-chapter-1.json](./88464-loneliness-after-chapter-1.json) |
 | Loneliness Butterfly | 314074 | [314074-loneliness-butterfly.json](./314074-loneliness-butterfly.json) |
 | Lonely | 229677 | [229677-lonely.json](./229677-lonely.json) |
 | Lonely Adventure | 115183 | [115183-lonely-adventure.json](./115183-lonely-adventure.json) |
@@ -3644,6 +3645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Soul | 250888 | [250888-lost-soul.json](./250888-lost-soul.json) |
 | Lost Soul | 50115 | [50115-lost-soul.json](./50115-lost-soul.json) |
 | Lost Soul: Escape the Doom Museum | 344347 | [344347-lost-soul-escape-the-doom-museum.json](./344347-lost-soul-escape-the-doom-museum.json) |
+| Lost Souls: Timeless Fables - Collector's Edition | 88500 | [88500-lost-souls-timeless-fables-collectors-edition.json](./88500-lost-souls-timeless-fables-collectors-edition.json) |
 | Lost Station | 250866 | [250866-lost-station.json](./250866-lost-station.json) |
 | Lost Summoner Kitty | 80900 | [80900-lost-summoner-kitty.json](./80900-lost-summoner-kitty.json) |
 | Lost Sunday Comics | 192797 | [192797-lost-sunday-comics.json](./192797-lost-sunday-comics.json) |
