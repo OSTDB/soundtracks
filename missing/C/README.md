@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadenza: Havana Nights | 188030 | [188030-cadenza-havana-nights.json](./188030-cadenza-havana-nights.json) |
 | Cadenza: Music, Betrayal and Death - Collector's Edition | 36465 | [36465-cadenza-music-betrayal-and-death-collectors-edition.json](./36465-cadenza-music-betrayal-and-death-collectors-edition.json) |
 | Cadenza: The Kiss of Death | 88811 | [88811-cadenza-the-kiss-of-death.json](./88811-cadenza-the-kiss-of-death.json) |
+| Cadenza: The Kiss of Death - Collector's Edition | 76703 | [76703-cadenza-the-kiss-of-death-collectors-edition.json](./76703-cadenza-the-kiss-of-death-collectors-edition.json) |
 | Cadillac | 94896 | [94896-cadillac.json](./94896-cadillac.json) |
 | Cadillacs and Dinosaurs: The Second Cataclysm | 5367 | [5367-cadillacs-and-dinosaurs-the-second-cataclysm.json](./5367-cadillacs-and-dinosaurs-the-second-cataclysm.json) |
 | Cadmium Red | 364694 | [364694-cadmium-red.json](./364694-cadmium-red.json) |
@@ -3112,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Culinary Shop | 276221 | [276221-chinese-culinary-shop.json](./276221-chinese-culinary-shop.json) |
 | Chinese Driving Test Simulator | 189929 | [189929-chinese-driving-test-simulator.json](./189929-chinese-driving-test-simulator.json) |
 | Chinese Expeditionary Force: Assault Team | 233783 | [233783-chinese-expeditionary-force-assault-team.json](./233783-chinese-expeditionary-force-assault-team.json) |
+| Chinese inn | 76683 | [76683-chinese-inn.json](./76683-chinese-inn.json) |
 | Chinese Inn | 109200 | [109200-chinese-inn.json](./109200-chinese-inn.json) |
 | Chinese Juggler | 13830 | [13830-chinese-juggler.json](./13830-chinese-juggler.json) |
 | Chinese Karate | 15885 | [15885-chinese-karate.json](./15885-chinese-karate.json) |
@@ -6311,6 +6313,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Gunslinger: Alien Outlaws | 274572 | [274572-cosmic-gunslinger-alien-outlaws.json](./274572-cosmic-gunslinger-alien-outlaws.json) |
 | Cosmic High Schooler | 358510 | [358510-cosmic-high-schooler.json](./358510-cosmic-high-schooler.json) |
 | Cosmic Highway | 63834 | [63834-cosmic-highway.json](./63834-cosmic-highway.json) |
+| Cosmic Horizon - Icosahedron Video Game Puzzle | 76715 | [76715-cosmic-horizon-icosahedron-video-game-puzzle.json](./76715-cosmic-horizon-icosahedron-video-game-puzzle.json) |
+| Cosmic Horizon - World First 3D Game Puzzle Ever | 76717 | [76717-cosmic-horizon-world-first-3d-game-puzzle-ever.json](./76717-cosmic-horizon-world-first-3d-game-puzzle-ever.json) |
 | Cosmic Horizons: Path of the Wanderer | 278552 | [278552-cosmic-horizons-path-of-the-wanderer.json](./278552-cosmic-horizons-path-of-the-wanderer.json) |
 | Cosmic Invasion | 335844 | [335844-cosmic-invasion.json](./335844-cosmic-invasion.json) |
 | Cosmic Kitchen | 295272 | [295272-cosmic-kitchen.json](./295272-cosmic-kitchen.json) |
