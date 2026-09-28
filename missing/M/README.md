@@ -8621,6 +8621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Fair Cat: Snow | 298649 | [298649-my-fair-cat-snow.json](./298649-my-fair-cat-snow.json) |
 | My Faithful and Loyal Wife Would Never Cheat on Me | 278413 | [278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json](./278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json) |
 | My Fake Boyfriend | 299457 | [299457-my-fake-boyfriend.json](./299457-my-fake-boyfriend.json) |
+| My Fantasy Wedding | 73354 | [73354-my-fantasy-wedding.json](./73354-my-fantasy-wedding.json) |
 | My Farm | 107900 | [107900-my-farm.json](./107900-my-farm.json) |
 | My Farm | 85610 | [85610-my-farm.json](./85610-my-farm.json) |
 | My Father My Son | 188684 | [188684-my-father-my-son.json](./188684-my-father-my-son.json) |
