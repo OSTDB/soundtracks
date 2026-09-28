@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalzoon | 226450 | [226450-kalzoon.json](./226450-kalzoon.json) |
 | KaM Remake | 190698 | [190698-kam-remake.json](./190698-kam-remake.json) |
 | Kama Bullet Heritage | 51963 | [51963-kama-bullet-heritage.json](./51963-kama-bullet-heritage.json) |
+| Kama Bullet Heritage 2 | 96891 | [96891-kama-bullet-heritage-2.json](./96891-kama-bullet-heritage-2.json) |
 | Kamaeru: A Frog Refuge | 252773 | [252773-kamaeru-a-frog-refuge.json](./252773-kamaeru-a-frog-refuge.json) |
 | Kamakazzzbee | 217330 | [217330-kamakazzzbee.json](./217330-kamakazzzbee.json) |
 | Kamasutra | 335320 | [335320-kamasutra.json](./335320-kamasutra.json) |
@@ -1892,6 +1893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Club + | 146271 | [146271-knight-club.json](./146271-knight-club.json) |
 | Knight Crawler | 356886 | [356886-knight-crawler.json](./356886-knight-crawler.json) |
 | Knight Driver | 133443 | [133443-knight-driver.json](./133443-knight-driver.json) |
+| Knight Fighter | 96902 | [96902-knight-fighter.json](./96902-knight-fighter.json) |
 | Knight Foretold | 252802 | [252802-knight-foretold.json](./252802-knight-foretold.json) |
 | Knight Girl: Match 3 Puzzle | 254155 | [254155-knight-girl-match-3-puzzle.json](./254155-knight-girl-match-3-puzzle.json) |
 | Knight Guy in Low Res World: Castle Days | 306667 | [306667-knight-guy-in-low-res-world-castle-days.json](./306667-knight-guy-in-low-res-world-castle-days.json) |
@@ -2192,6 +2194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koliquest | 146243 | [146243-koliquest.json](./146243-koliquest.json) |
 | Kolkhoz: The Red Wedge | 109755 | [109755-kolkhoz-the-red-wedge.json](./109755-kolkhoz-the-red-wedge.json) |
 | Kollectomaniac | 332635 | [332635-kollectomaniac.json](./332635-kollectomaniac.json) |
+| Kollidoskop! | 96857 | [96857-kollidoskop.json](./96857-kollidoskop.json) |
 | Kollywood: The Game | 340030 | [340030-kollywood-the-game.json](./340030-kollywood-the-game.json) |
 | Kolo | 169771 | [169771-kolo.json](./169771-kolo.json) |
 | Kolobok Piramida | 266283 | [266283-kolobok-piramida.json](./266283-kolobok-piramida.json) |
