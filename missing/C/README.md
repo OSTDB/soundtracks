@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Juarez: Bound In Blood | 430 | [430-call-of-juarez-bound-in-blood.json](./430-call-of-juarez-bound-in-blood.json) |
 | Call of Myth | 153969 | [153969-call-of-myth.json](./153969-call-of-myth.json) |
 | Call of Nature: Jigsaw Puzzle | 103531 | [103531-call-of-nature-jigsaw-puzzle.json](./103531-call-of-nature-jigsaw-puzzle.json) |
+| Call of Otechestvo Donbass | 117636 | [117636-call-of-otechestvo-donbass.json](./117636-call-of-otechestvo-donbass.json) |
 | Call of Pixel: Close Quarters | 112948 | [112948-call-of-pixel-close-quarters.json](./112948-call-of-pixel-close-quarters.json) |
 | Call of Senpai: Waifu Warfare | 192379 | [192379-call-of-senpai-waifu-warfare.json](./192379-call-of-senpai-waifu-warfare.json) |
 | Call of Sentinels | 264152 | [264152-call-of-sentinels.json](./264152-call-of-sentinels.json) |
@@ -2709,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess 432 | 403662 | [403662-chess-432.json](./403662-chess-432.json) |
 | Chess Ace | 147861 | [147861-chess-ace.json](./147861-chess-ace.json) |
 | Chess and Dungeons | 186195 | [186195-chess-and-dungeons.json](./186195-chess-and-dungeons.json) |
+| Chess Arena | 117818 | [117818-chess-arena.json](./117818-chess-arena.json) |
 | Chess Arena | 373648 | [373648-chess-arena.json](./373648-chess-arena.json) |
 | Chess Boss | 175197 | [175197-chess-boss.json](./175197-chess-boss.json) |
 | Chess Brain: Dark Troops | 157156 | [157156-chess-brain-dark-troops.json](./157156-chess-brain-dark-troops.json) |
@@ -4060,6 +4062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classroom of the Elite: Merge Puzzle Special Exam | 350524 | [350524-classroom-of-the-elite-merge-puzzle-special-exam.json](./350524-classroom-of-the-elite-merge-puzzle-special-exam.json) |
 | Classy Train | 213021 | [213021-classy-train.json](./213021-classy-train.json) |
 | Clatter | 112721 | [112721-clatter.json](./112721-clatter.json) |
+| Claude Monet: The Water Lily Obsession | 117638 | [117638-claude-monet-the-water-lily-obsession.json](./117638-claude-monet-the-water-lily-obsession.json) |
 | Cláudio | 412962 | [412962-claudio.json](./412962-claudio.json) |
 | Claus Adventure | 187371 | [187371-claus-adventure.json](./187371-claus-adventure.json) |
 | Claustrophobia | 190079 | [190079-claustrophobia.json](./190079-claustrophobia.json) |
@@ -5154,6 +5157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Zone | 265594 | [265594-combat-zone.json](./265594-combat-zone.json) |
 | Combat Zone | 370794 | [370794-combat-zone.json](./370794-combat-zone.json) |
 | Combatant | 193407 | [193407-combatant.json](./193407-combatant.json) |
+| Combate Monero | 117622 | [117622-combate-monero.json](./117622-combate-monero.json) |
 | Combi Pool | 291603 | [291603-combi-pool.json](./291603-combi-pool.json) |
 | Combine Destiny | 222417 | [222417-combine-destiny.json](./222417-combine-destiny.json) |
 | Combine War Toys | 111029 | [111029-combine-war-toys.json](./111029-combine-war-toys.json) |
@@ -6930,6 +6934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Soccer | 104631 | [104631-crazy-soccer.json](./104631-crazy-soccer.json) |
 | Crazy Sonic | 352784 | [352784-crazy-sonic.json](./352784-crazy-sonic.json) |
 | Crazy Space Goat Simulator 3D - 2 | 101960 | [101960-crazy-space-goat-simulator-3d-2.json](./101960-crazy-space-goat-simulator-3d-2.json) |
+| Crazy space pirate | 117633 | [117633-crazy-space-pirate.json](./117633-crazy-space-pirate.json) |
 | Crazy Squares: Milk River Run | 365889 | [365889-crazy-squares-milk-river-run.json](./365889-crazy-squares-milk-river-run.json) |
 | Crazy Steam Bros 2 | 35640 | [35640-crazy-steam-bros-2.json](./35640-crazy-steam-bros-2.json) |
 | Crazy Stone Deep Learning | 208915 | [208915-crazy-stone-deep-learning.json](./208915-crazy-stone-deep-learning.json) |
