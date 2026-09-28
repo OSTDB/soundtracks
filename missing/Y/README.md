@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yīngxióng Tánshuō X: Guīlái | 156641 | [156641-yingxiong-tanshuo-x-guilai.json](./156641-yingxiong-tanshuo-x-guilai.json) |
 | Yīngyǔ Shā | 164237 | [164237-yingyu-sha.json](./164237-yingyu-sha.json) |
 | Yingzinue: Donghei | 188926 | [188926-yingzinue-donghei.json](./188926-yingzinue-donghei.json) |
+| Yǐnlóng Zhuán: Yǐngzōng | 74287 | [74287-yinlong-zhuan-yingzong.json](./74287-yinlong-zhuan-yingzong.json) |
 | Yissa Deep Realms | 75776 | [75776-yissa-deep-realms.json](./75776-yissa-deep-realms.json) |
 | YiYi | 368018 | [368018-yiyi.json](./368018-yiyi.json) |
 | YKnytt | 408144 | [408144-yknytt.json](./408144-yknytt.json) |
