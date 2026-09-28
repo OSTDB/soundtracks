@@ -3121,6 +3121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Bird | 339269 | [339269-flappy-bird.json](./339269-flappy-bird.json) |
 | Flappy Bird GB | 297596 | [297596-flappy-bird-gb.json](./297596-flappy-bird-gb.json) |
 | Flappy Bird Ultra | 368522 | [368522-flappy-bird-ultra.json](./368522-flappy-bird-ultra.json) |
+| Flappy Bird: The Bird Game | 108615 | [108615-flappy-bird-the-bird-game.json](./108615-flappy-bird-the-bird-game.json) |
 | Flappy Birds 2 | 268501 | [268501-flappy-birds-2.json](./268501-flappy-birds-2.json) |
 | Flappy Box | 285478 | [285478-flappy-box.json](./285478-flappy-box.json) |
 | Flappy Camel | 283767 | [283767-flappy-camel.json](./283767-flappy-camel.json) |
