@@ -1787,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caterzillar | 82950 | [82950-caterzillar.json](./82950-caterzillar.json) |
 | Catfender | 109871 | [109871-catfender.json](./109871-catfender.json) |
 | Catfighter, In the Lands of Sinners | 374059 | [374059-catfighter-in-the-lands-of-sinners.json](./374059-catfighter-in-the-lands-of-sinners.json) |
+| CatFish - gotta fish them all! | 101110 | [101110-catfish-gotta-fish-them-all.json](./101110-catfish-gotta-fish-them-all.json) |
 | Catfishing Cuties | 181854 | [181854-catfishing-cuties.json](./181854-catfishing-cuties.json) |
 | Catgirl | 344943 | [344943-catgirl.json](./344943-catgirl.json) |
 | Catgirl & Doggirl Cafe | 199057 | [199057-catgirl-and-doggirl-cafe.json](./199057-catgirl-and-doggirl-cafe.json) |
