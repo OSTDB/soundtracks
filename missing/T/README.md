@@ -1336,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Fortress Classic | 6359 | [6359-team-fortress-classic.json](./6359-team-fortress-classic.json) |
 | Team Fortress Kart | 371244 | [371244-team-fortress-kart.json](./371244-team-fortress-kart.json) |
 | Team Four Star RPG | 75043 | [75043-team-four-star-rpg.json](./75043-team-four-star-rpg.json) |
+| Team Guardian | 109923 | [109923-team-guardian.json](./109923-team-guardian.json) |
 | Team Hero Coder | 416829 | [416829-team-hero-coder.json](./416829-team-hero-coder.json) |
 | Team Hogus: GHAMEMFAIFTH OTHIYLTIM | 185659 | [185659-team-hogus-ghamemfaifth-othiyltim.json](./185659-team-hogus-ghamemfaifth-othiyltim.json) |
 | Team Innocent: The Point of No Return | 65738 | [65738-team-innocent-the-point-of-no-return.json](./65738-team-innocent-the-point-of-no-return.json) |
@@ -5152,6 +5153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Flower | 294869 | [294869-the-last-flower.json](./294869-the-last-flower.json) |
 | The last four | 216794 | [216794-the-last-four.json](./216794-the-last-four.json) |
 | The Last Front | 98707 | [98707-the-last-front.json](./98707-the-last-front.json) |
+| The Last Galaxy | 109921 | [109921-the-last-galaxy.json](./109921-the-last-galaxy.json) |
 | The Last Game | 362294 | [362294-the-last-game.json](./362294-the-last-game.json) |
 | The Last Gift | 381102 | [381102-the-last-gift.json](./381102-the-last-gift.json) |
 | The Last Good Boy | 407333 | [407333-the-last-good-boy.json](./407333-the-last-good-boy.json) |
@@ -6092,6 +6094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nations | 9172 | [9172-the-nations.json](./9172-the-nations.json) |
 | The Nations: Land of Legends | 49866 | [49866-the-nations-land-of-legends.json](./49866-the-nations-land-of-legends.json) |
 | The Necessary Evil | 415102 | [415102-the-necessary-evil.json](./415102-the-necessary-evil.json) |
+| The Necklace of Blood Part II | 109886 | [109886-the-necklace-of-blood-part-ii.json](./109886-the-necklace-of-blood-part-ii.json) |
 | The Necromancer's Castle | 82462 | [82462-the-necromancers-castle.json](./82462-the-necromancers-castle.json) |
 | The Necromancer's Tower | 297566 | [297566-the-necromancers-tower.json](./297566-the-necromancers-tower.json) |
 | The Neighbor: Escape Room | 309505 | [309505-the-neighbor-escape-room.json](./309505-the-neighbor-escape-room.json) |
@@ -6806,6 +6809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sarah Jane Adventures: Alien Alliance | 249264 | [249264-the-sarah-jane-adventures-alien-alliance.json](./249264-the-sarah-jane-adventures-alien-alliance.json) |
 | The Savage Hypnotist's Puppets | 213400 | [213400-the-savage-hypnotists-puppets.json](./213400-the-savage-hypnotists-puppets.json) |
 | The Savior of Darkload | 231874 | [231874-the-savior-of-darkload.json](./231874-the-savior-of-darkload.json) |
+| The Savior of Salem | 109919 | [109919-the-savior-of-salem.json](./109919-the-savior-of-salem.json) |
 | The Savior's Gang | 115049 | [115049-the-saviors-gang.json](./115049-the-saviors-gang.json) |
 | The Scaling | 386286 | [386286-the-scaling.json](./386286-the-scaling.json) |
 | The Scarecrow Knight | 358976 | [358976-the-scarecrow-knight.json](./358976-the-scarecrow-knight.json) |
@@ -7467,6 +7471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The T.O.T.E.: Tales of the Elements | 258214 | [258214-the-t-o-t-e-tales-of-the-elements.json](./258214-the-t-o-t-e-tales-of-the-elements.json) |
 | The Table Game | 93975 | [93975-the-table-game.json](./93975-the-table-game.json) |
 | The Tabung | 196310 | [196310-the-tabung.json](./196310-the-tabung.json) |
+| The Tactics of War | 109881 | [109881-the-tactics-of-war.json](./109881-the-tactics-of-war.json) |
 | The Tail of the Serpent | 178681 | [178681-the-tail-of-the-serpent.json](./178681-the-tail-of-the-serpent.json) |
 | The Tale of (Your Name) | 282030 | [282030-the-tale-of-your-name.json](./282030-the-tale-of-your-name.json) |
 | The Tale of Despereaux | 51163 | [51163-the-tale-of-despereaux.json](./51163-the-tale-of-despereaux.json) |
@@ -10212,6 +10217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Invaders | 92501 | [92501-tiny-invaders.json](./92501-tiny-invaders.json) |
 | Tiny Island Survival | 187809 | [187809-tiny-island-survival.json](./187809-tiny-island-survival.json) |
 | Tiny Jump | 254559 | [254559-tiny-jump.json](./254559-tiny-jump.json) |
+| Tiny Jumper | 109922 | [109922-tiny-jumper.json](./109922-tiny-jumper.json) |
 | Tiny Kingdom Builder | 315634 | [315634-tiny-kingdom-builder.json](./315634-tiny-kingdom-builder.json) |
 | Tiny Kingdoms | 311119 | [311119-tiny-kingdoms.json](./311119-tiny-kingdoms.json) |
 | Tiny Kings | 344548 | [344548-tiny-kings.json](./344548-tiny-kings.json) |
@@ -11490,6 +11496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Emblem 2 | 315051 | [315051-touhou-emblem-2.json](./315051-touhou-emblem-2.json) |
 | Touhou Eternal Spell Cards | 289936 | [289936-touhou-eternal-spell-cards.json](./289936-touhou-eternal-spell-cards.json) |
 | Touhou Fairy Knockout: One Fairy to Rule Them All | 203849 | [203849-touhou-fairy-knockout-one-fairy-to-rule-them-all.json](./203849-touhou-fairy-knockout-one-fairy-to-rule-them-all.json) |
+| Touhou Fan of Destiny | 109893 | [109893-touhou-fan-of-destiny.json](./109893-touhou-fan-of-destiny.json) |
 | Touhou Fan-made Virtual Autography | 151683 | [151683-touhou-fan-made-virtual-autography.json](./151683-touhou-fan-made-virtual-autography.json) |
 | Touhou Fantasy | 387333 | [387333-touhou-fantasy.json](./387333-touhou-fantasy.json) |
 | Touhou Fantasy Destination | 256332 | [256332-touhou-fantasy-destination.json](./256332-touhou-fantasy-destination.json) |
@@ -13644,6 +13651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Trials 2 | 175379 | [175379-truck-trials-2.json](./175379-truck-trials-2.json) |
 | Truck Truck | 157197 | [157197-truck-truck.json](./157197-truck-truck.json) |
 | Truck World: Driving School | 211709 | [211709-truck-world-driving-school.json](./211709-truck-world-driving-school.json) |
+| Truck Zombie | 109920 | [109920-truck-zombie.json](./109920-truck-zombie.json) |
 | Trucker | 25425 | [25425-trucker.json](./25425-trucker.json) |
 | Truckin' It! | 382338 | [382338-truckin-it.json](./382338-truckin-it.json) |
 | Trucking | 114961 | [114961-trucking.json](./114961-trucking.json) |
