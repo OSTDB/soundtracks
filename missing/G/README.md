@@ -451,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallop Racer 2003: A New Breed | 20145 | [20145-gallop-racer-2003-a-new-breed.json](./20145-gallop-racer-2003-a-new-breed.json) |
 | Gallop Racer 2006 | 20147 | [20147-gallop-racer-2006.json](./20147-gallop-racer-2006.json) |
 | Gallows | 95186 | [95186-gallows.json](./95186-gallows.json) |
+| Gallows Choice | 108052 | [108052-gallows-choice.json](./108052-gallows-choice.json) |
 | Galosphere | 341045 | [341045-galosphere.json](./341045-galosphere.json) |
 | GalRock Girls | 258440 | [258440-galrock-girls.json](./258440-galrock-girls.json) |
 | Gals Fighters | 75468 | [75468-gals-fighters.json](./75468-gals-fighters.json) |
@@ -3574,6 +3575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Knight | 413008 | [413008-gravity-knight.json](./413008-gravity-knight.json) |
 | Gravity Lab | 135116 | [135116-gravity-lab.json](./135116-gravity-lab.json) |
 | Gravity Lane 981 | 121601 | [121601-gravity-lane-981.json](./121601-gravity-lane-981.json) |
+| Gravity Leo | 108029 | [108029-gravity-leo.json](./108029-gravity-leo.json) |
 | Gravity Machine | 294441 | [294441-gravity-machine.json](./294441-gravity-machine.json) |
 | Gravity Mastery | 144191 | [144191-gravity-mastery.json](./144191-gravity-mastery.json) |
 | Gravity Mike | 239624 | [239624-gravity-mike.json](./239624-gravity-mike.json) |
