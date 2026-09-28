@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badger Brawl | 177016 | [177016-badger-brawl.json](./177016-badger-brawl.json) |
 | BadLads | 131597 | [131597-badlads.json](./131597-badlads.json) |
 | Badland Brawl | 77663 | [77663-badland-brawl.json](./77663-badland-brawl.json) |
+| Badland Caravan | 118296 | [118296-badland-caravan.json](./118296-badland-caravan.json) |
 | Badland Envoys | 129636 | [129636-badland-envoys.json](./129636-badland-envoys.json) |
 | Badland: Game of the Year Edition | 20042 | [20042-badland-game-of-the-year-edition.json](./20042-badland-game-of-the-year-edition.json) |
 | Badlanders | 140378 | [140378-badlanders.json](./140378-badlanders.json) |
@@ -1483,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Vengeance | 197872 | [197872-batman-vengeance.json](./197872-batman-vengeance.json) |
 | Bato Battle | 416671 | [416671-bato-battle.json](./416671-bato-battle.json) |
 | Bato: Treasures of Tibet | 339837 | [339837-bato-treasures-of-tibet.json](./339837-bato-treasures-of-tibet.json) |
+| Bats | 118285 | [118285-bats.json](./118285-bats.json) |
 | Bats & Terry | 48609 | [48609-bats-and-terry.json](./48609-bats-and-terry.json) |
 | Batsu! | 160215 | [160215-batsu.json](./160215-batsu.json) |
 | Batsugun | 292117 | [292117-batsugun.json](./292117-batsugun.json) |
@@ -2331,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beats Fever | 30173 | [30173-beats-fever.json](./30173-beats-fever.json) |
 | Beats of Fury | 127181 | [127181-beats-of-fury.json](./127181-beats-of-fury.json) |
 | Beats of Rage | 46623 | [46623-beats-of-rage.json](./46623-beats-of-rage.json) |
+| Beats Warrior: Nian | 118266 | [118266-beats-warrior-nian.json](./118266-beats-warrior-nian.json) |
 | Beats&Boss | 338202 | [338202-beats-and-boss.json](./338202-beats-and-boss.json) |
 | Beatus Creation Solitaire | 201004 | [201004-beatus-creation-solitaire.json](./201004-beatus-creation-solitaire.json) |
 | Beatworks Inc. | 386444 | [386444-beatworks-inc.json](./386444-beatworks-inc.json) |
@@ -6101,6 +6104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Fighter: Demon Revenge | 38953 | [38953-brave-fighter-demon-revenge.json](./38953-brave-fighter-demon-revenge.json) |
 | Brave Firefighters: Real Life Heroes | 68307 | [68307-brave-firefighters-real-life-heroes.json](./68307-brave-firefighters-real-life-heroes.json) |
 | Brave Frontier ReXona | 205675 | [205675-brave-frontier-rexona.json](./205675-brave-frontier-rexona.json) |
+| Brave Frontier RPG | 118459 | [118459-brave-frontier-rpg.json](./118459-brave-frontier-rpg.json) |
 | Brave Furries | 35603 | [35603-brave-furries.json](./35603-brave-furries.json) |
 | Brave Hero | 295271 | [295271-brave-hero.json](./295271-brave-hero.json) |
 | Brave Hero Yuusha EX | 111639 | [111639-brave-hero-yuusha-ex.json](./111639-brave-hero-yuusha-ex.json) |
@@ -6906,6 +6910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bucket Crusher: Complete Edition | 290440 | [290440-bucket-crusher-complete-edition.json](./290440-bucket-crusher-complete-edition.json) |
 | Bucket Crusher: Cool Kidz | 287162 | [287162-bucket-crusher-cool-kidz.json](./287162-bucket-crusher-cool-kidz.json) |
 | Bucket Crusher: Holiday Spirit | 287161 | [287161-bucket-crusher-holiday-spirit.json](./287161-bucket-crusher-holiday-spirit.json) |
+| Bucket Knight | 118262 | [118262-bucket-knight.json](./118262-bucket-knight.json) |
 | Bucket List | 22741 | [22741-bucket-list.json](./22741-bucket-list.json) |
 | Bucketneers | 176281 | [176281-bucketneers.json](./176281-bucketneers.json) |
 | Bucko | 236359 | [236359-bucko.json](./236359-bucko.json) |
@@ -7390,6 +7395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnout Drift | 116364 | [116364-burnout-drift.json](./116364-burnout-drift.json) |
 | Burnout Legends | 10916 | [10916-burnout-legends.json](./10916-burnout-legends.json) |
 | Burnout Mobile | 342038 | [342038-burnout-mobile.json](./342038-burnout-mobile.json) |
+| Burnout Paradise: Cops and Robbers | 118274 | [118274-burnout-paradise-cops-and-robbers.json](./118274-burnout-paradise-cops-and-robbers.json) |
 | Burnout Paradise: The Ultimate Box | 10067 | [10067-burnout-paradise-the-ultimate-box.json](./10067-burnout-paradise-the-ultimate-box.json) |
 | Burnout Revenge | 2626 | [2626-burnout-revenge.json](./2626-burnout-revenge.json) |
 | Burnouts | 111640 | [111640-burnouts.json](./111640-burnouts.json) |
