@@ -2715,6 +2715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Football Champ | 39672 | [39672-european-football-champ.json](./39672-european-football-champ.json) |
 | European Football Champ | 42573 | [42573-european-football-champ.json](./42573-european-football-champ.json) |
 | European Games | 100112 | [100112-european-games.json](./100112-european-games.json) |
+| European Mystery: Flowers of Death - Collector's Edition | 89408 | [89408-european-mystery-flowers-of-death-collectors-edition.json](./89408-european-mystery-flowers-of-death-collectors-edition.json) |
 | European Mystery: Scent of Desire - Collector's Edition | 29749 | [29749-european-mystery-scent-of-desire-collectors-edition.json](./29749-european-mystery-scent-of-desire-collectors-edition.json) |
 | European Mystery: The Face of Envy | 68947 | [68947-european-mystery-the-face-of-envy.json](./68947-european-mystery-the-face-of-envy.json) |
 | European Quest | 294216 | [294216-european-quest.json](./294216-european-quest.json) |
