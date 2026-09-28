@@ -2038,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Figure Fantasy | 182491 | [182491-figure-fantasy.json](./182491-figure-fantasy.json) |
 | Figure of Eight | 402927 | [402927-figure-of-eight.json](./402927-figure-of-eight.json) |
 | Figure Shop Simulator | 343263 | [343263-figure-shop-simulator.json](./343263-figure-shop-simulator.json) |
+| Figure Skater | 99187 | [99187-figure-skater.json](./99187-figure-skater.json) |
 | Figureheads | 24931 | [24931-figureheads.json](./24931-figureheads.json) |
 | Figures of Heroes | 230925 | [230925-figures-of-heroes.json](./230925-figures-of-heroes.json) |
 | Figures of Shadows | 374068 | [374068-figures-of-shadows.json](./374068-figures-of-shadows.json) |
