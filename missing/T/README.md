@@ -829,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangled Words | 374157 | [374157-tangled-words.json](./374157-tangled-words.json) |
 | Tangledeep | 38754 | [38754-tangledeep.json](./38754-tangledeep.json) |
 | Tangledeep: Dawn of Dragons | 154499 | [154499-tangledeep-dawn-of-dragons.json](./154499-tangledeep-dawn-of-dragons.json) |
+| Tangledeep: Legend of Shara | 117143 | [117143-tangledeep-legend-of-shara.json](./117143-tangledeep-legend-of-shara.json) |
 | Tanglewood | 104602 | [104602-tanglewood.json](./104602-tanglewood.json) |
 | Tango | 321121 | [321121-tango.json](./321121-tango.json) |
 | Tangol | 125945 | [125945-tangol.json](./125945-tangol.json) |
@@ -1171,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Task Force 9 | 261788 | [261788-task-force-9.json](./261788-task-force-9.json) |
 | Task Force Harrier | 40248 | [40248-task-force-harrier.json](./40248-task-force-harrier.json) |
 | Task Force Harrier EX | 46599 | [46599-task-force-harrier-ex.json](./46599-task-force-harrier-ex.json) |
+| Task Force Kampas | 117141 | [117141-task-force-kampas.json](./117141-task-force-kampas.json) |
 | Task III | 55150 | [55150-task-iii.json](./55150-task-iii.json) |
 | Task: 312 | 144861 | [144861-task-312.json](./144861-task-312.json) |
 | Tasogare | 313493 | [313493-tasogare.json](./313493-tasogare.json) |
@@ -1813,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Slam: Global Duel Arena | 244807 | [244807-tennis-slam-global-duel-arena.json](./244807-tennis-slam-global-duel-arena.json) |
 | Tennis Smash: Racketville | 382230 | [382230-tennis-smash-racketville.json](./382230-tennis-smash-racketville.json) |
 | Tennis Tourney | 172783 | [172783-tennis-tourney.json](./172783-tennis-tourney.json) |
+| Tennis Tune-Up | 117168 | [117168-tennis-tune-up.json](./117168-tennis-tune-up.json) |
 | Tennis World Tour 2 | 135576 | [135576-tennis-world-tour-2.json](./135576-tennis-world-tour-2.json) |
 | Tennis World Tour 2: Champions Pack | 167297 | [167297-tennis-world-tour-2-champions-pack.json](./167297-tennis-world-tour-2-champions-pack.json) |
 | Tennis World Tour 2: Juan Martin Del Potro & Victoria Azarenka | 161755 | [161755-tennis-world-tour-2-juan-martin-del-potro-and-victoria-azarenka.json](./161755-tennis-world-tour-2-juan-martin-del-potro-and-victoria-azarenka.json) |
@@ -2574,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Argument Solver | 289308 | [289308-the-argument-solver.json](./289308-the-argument-solver.json) |
 | The Ark | 390005 | [390005-the-ark.json](./390005-the-ark.json) |
 | The Ark Adult Game | 322715 | [322715-the-ark-adult-game.json](./322715-the-ark-adult-game.json) |
+| The Ark of Horizon | 117162 | [117162-the-ark-of-horizon.json](./117162-the-ark-of-horizon.json) |
 | The Arkane Collection | 331402 | [331402-the-arkane-collection.json](./331402-the-arkane-collection.json) |
 | The Arm Wrestling Classic | 214525 | [214525-the-arm-wrestling-classic.json](./214525-the-arm-wrestling-classic.json) |
 | The Armardisp | 260376 | [260376-the-armardisp.json](./260376-the-armardisp.json) |
@@ -3778,6 +3782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Flames of Ambition | 180622 | [180622-the-elder-scrolls-online-flames-of-ambition.json](./180622-the-elder-scrolls-online-flames-of-ambition.json) |
 | The Elder Scrolls Online: Gold Road | 283120 | [283120-the-elder-scrolls-online-gold-road.json](./283120-the-elder-scrolls-online-gold-road.json) |
 | The Elder Scrolls Online: High Isle | 195342 | [195342-the-elder-scrolls-online-high-isle.json](./195342-the-elder-scrolls-online-high-isle.json) |
+| The Elder Scrolls Online: Imperial City | 117156 | [117156-the-elder-scrolls-online-imperial-city.json](./117156-the-elder-scrolls-online-imperial-city.json) |
 | The Elder Scrolls Online: Lost Depths | 237338 | [237338-the-elder-scrolls-online-lost-depths.json](./237338-the-elder-scrolls-online-lost-depths.json) |
 | The Elder Scrolls Online: Markarth | 237336 | [237336-the-elder-scrolls-online-markarth.json](./237336-the-elder-scrolls-online-markarth.json) |
 | The Elder Scrolls Online: Morrowind - Collector's Edition | 136339 | [136339-the-elder-scrolls-online-morrowind-collectors-edition.json](./136339-the-elder-scrolls-online-morrowind-collectors-edition.json) |
@@ -4561,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The High Desert | 345134 | [345134-the-high-desert.json](./345134-the-high-desert.json) |
 | The High Tower | 373613 | [373613-the-high-tower.json](./373613-the-high-tower.json) |
 | The Higher Lower Game | 186614 | [186614-the-higher-lower-game.json](./186614-the-higher-lower-game.json) |
+| The Highscore | 117182 | [117182-the-highscore.json](./117182-the-highscore.json) |
 | The Hike | 188920 | [188920-the-hike.json](./188920-the-hike.json) |
 | The Hiker | 279102 | [279102-the-hiker.json](./279102-the-hiker.json) |
 | The Hikyou Tankentai: Choutoko Special | 124270 | [124270-the-hikyou-tankentai-choutoko-special.json](./124270-the-hikyou-tankentai-choutoko-special.json) |
@@ -7127,6 +7133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sinking City Remastered | 343363 | [343363-the-sinking-city-remastered.json](./343363-the-sinking-city-remastered.json) |
 | The Sinking City: Investigator Pack | 308567 | [308567-the-sinking-city-investigator-pack.json](./308567-the-sinking-city-investigator-pack.json) |
 | The Sinking City: Merciful Madness | 142240 | [142240-the-sinking-city-merciful-madness.json](./142240-the-sinking-city-merciful-madness.json) |
+| The Sinking City: Necronomicon Edition | 117154 | [117154-the-sinking-city-necronomicon-edition.json](./117154-the-sinking-city-necronomicon-edition.json) |
 | The Sinking City: Whisper of Darkness Pass | 208047 | [208047-the-sinking-city-whisper-of-darkness-pass.json](./208047-the-sinking-city-whisper-of-darkness-pass.json) |
 | The Sinking City: Worshippers of the Necronomicon | 142241 | [142241-the-sinking-city-worshippers-of-the-necronomicon.json](./142241-the-sinking-city-worshippers-of-the-necronomicon.json) |
 | The Sinking of the Dream Chaser | 257685 | [257685-the-sinking-of-the-dream-chaser.json](./257685-the-sinking-of-the-dream-chaser.json) |
