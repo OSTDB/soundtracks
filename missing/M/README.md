@@ -5167,6 +5167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MineCart - 3D Mine Cart Game for MineCraft | 86692 | [86692-minecart-3d-mine-cart-game-for-minecraft.json](./86692-minecart-3d-mine-cart-game-for-minecraft.json) |
 | Minecart Chase | 243094 | [243094-minecart-chase.json](./243094-minecart-chase.json) |
 | Minecart Madness | 188687 | [188687-minecart-madness.json](./188687-minecart-madness.json) |
+| MineChat Mobile | 90794 | [90794-minechat-mobile.json](./90794-minechat-mobile.json) |
 | MineClicker | 180121 | [180121-mineclicker.json](./180121-mineclicker.json) |
 | MineColony | 24095 | [24095-minecolony.json](./24095-minecolony.json) |
 | Minecraft 4k | 238607 | [238607-minecraft-4k.json](./238607-minecraft-4k.json) |
