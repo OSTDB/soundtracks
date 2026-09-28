@@ -1721,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter Factory | 230383 | [230383-letter-factory.json](./230383-letter-factory.json) |
 | Letter Factory Adventures: The Rainforest | 230385 | [230385-letter-factory-adventures-the-rainforest.json](./230385-letter-factory-adventures-the-rainforest.json) |
 | Letter Fall: Swipe Letters | 233105 | [233105-letter-fall-swipe-letters.json](./233105-letter-fall-swipe-letters.json) |
+| Letter Fridge | 103653 | [103653-letter-fridge.json](./103653-letter-fridge.json) |
 | Letter Land 2 | 97146 | [97146-letter-land-2.json](./97146-letter-land-2.json) |
 | Letter Lattice | 174190 | [174190-letter-lattice.json](./174190-letter-lattice.json) |
 | Letter League | 254445 | [254445-letter-league.json](./254445-letter-league.json) |
@@ -2640,6 +2641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little One | 399702 | [399702-little-one.json](./399702-little-one.json) |
 | Little Panda's Camping Trip | 105963 | [105963-little-pandas-camping-trip.json](./105963-little-pandas-camping-trip.json) |
 | Little Panda's Candy Shop | 231932 | [231932-little-pandas-candy-shop.json](./231932-little-pandas-candy-shop.json) |
+| Little Panda's Jewel Quest | 103662 | [103662-little-pandas-jewel-quest.json](./103662-little-pandas-jewel-quest.json) |
 | Little Panda's Restaurant | 239916 | [239916-little-pandas-restaurant.json](./239916-little-pandas-restaurant.json) |
 | Little Party Legends | 156976 | [156976-little-party-legends.json](./156976-little-party-legends.json) |
 | Little People | 57039 | [57039-little-people.json](./57039-little-people.json) |
@@ -3045,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistique | 157572 | [157572-logistique.json](./157572-logistique.json) |
 | Logix: The Missing Part | 301884 | [301884-logix-the-missing-part.json](./301884-logix-the-missing-part.json) |
 | Logo Quiz | 135126 | [135126-logo-quiz.json](./135126-logo-quiz.json) |
+| Logo Quiz Fever | 103661 | [103661-logo-quiz-fever.json](./103661-logo-quiz-fever.json) |
 | Logos Panic: Goaisatu | 37942 | [37942-logos-panic-goaisatu.json](./37942-logos-panic-goaisatu.json) |
 | Logos Quiz | 254425 | [254425-logos-quiz.json](./254425-logos-quiz.json) |
 | Lohotronshchik: Crazy Loto | 280887 | [280887-lohotronshchik-crazy-loto.json](./280887-lohotronshchik-crazy-loto.json) |
