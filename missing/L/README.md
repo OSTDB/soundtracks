@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Langrisser I & II: Limited Edition Box | 167037 | [167037-langrisser-i-and-ii-limited-edition-box.json](./167037-langrisser-i-and-ii-limited-edition-box.json) |
 | Langrisser IV | 69226 | [69226-langrisser-iv.json](./69226-langrisser-iv.json) |
 | Langrisser IV & V: Final Edition | 44862 | [44862-langrisser-iv-and-v-final-edition.json](./44862-langrisser-iv-and-v-final-edition.json) |
+| Langrisser Mobile | 106104 | [106104-langrisser-mobile.json](./106104-langrisser-mobile.json) |
 | Langrisser Re:Incarnation Tensei | 20080 | [20080-langrisser-re-incarnation-tensei.json](./20080-langrisser-re-incarnation-tensei.json) |
 | Langrisser V: The End of Legend | 78665 | [78665-langrisser-v-the-end-of-legend.json](./78665-langrisser-v-the-end-of-legend.json) |
 | Langrisser: Hikari no Matsuei | 42010 | [42010-langrisser-hikari-no-matsuei.json](./42010-langrisser-hikari-no-matsuei.json) |
