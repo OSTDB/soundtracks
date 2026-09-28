@@ -109,6 +109,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Tower 2984 | 357848 | [357848-machine-tower-2984.json](./357848-machine-tower-2984.json) |
 | Machine With a Big Gun | 103479 | [103479-machine-with-a-big-gun.json](./103479-machine-with-a-big-gun.json) |
 | Machine Yearning | 245254 | [245254-machine-yearning.json](./245254-machine-yearning.json) |
+| Machinegun Geometry | 68756 | [68756-machinegun-geometry.json](./68756-machinegun-geometry.json) |
+| Machinegun Geometry: The Right Angle | 68757 | [68757-machinegun-geometry-the-right-angle.json](./68757-machinegun-geometry-the-right-angle.json) |
 | MachineGunner2: Bullet Transcending | 365270 | [365270-machinegunner2-bullet-transcending.json](./365270-machinegunner2-bullet-transcending.json) |
 | Machines of Madness | 263032 | [263032-machines-of-madness.json](./263032-machines-of-madness.json) |
 | Machinicide | 196962 | [196962-machinicide.json](./196962-machinicide.json) |
@@ -1541,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Margrave Manor 3: The Curse of the Blacksmith's Heart | 210041 | [210041-margrave-manor-3-the-curse-of-the-blacksmiths-heart.json](./210041-margrave-manor-3-the-curse-of-the-blacksmiths-heart.json) |
 | Margrave: The Blacksmith's Daughter | 140989 | [140989-margrave-the-blacksmiths-daughter.json](./140989-margrave-the-blacksmiths-daughter.json) |
 | Margrave: The Blacksmith's Daughter Deluxe Edition | 140990 | [140990-margrave-the-blacksmiths-daughter-deluxe-edition.json](./140990-margrave-the-blacksmiths-daughter-deluxe-edition.json) |
+| Mari and the Black Tower | 68766 | [68766-mari-and-the-black-tower.json](./68766-mari-and-the-black-tower.json) |
 | Mari Is Home | 280180 | [280180-mari-is-home.json](./280180-mari-is-home.json) |
 | Mari's Magical Deliveries | 334204 | [334204-maris-magical-deliveries.json](./334204-maris-magical-deliveries.json) |
 | Mari0: Alesan99's Entities | 369211 | [369211-mari0-alesan99s-entities.json](./369211-mari0-alesan99s-entities.json) |
@@ -6962,6 +6965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters vs. Aliens | 5021 | [5021-monsters-vs-aliens.json](./5021-monsters-vs-aliens.json) |
 | Monsters, Briefcase and Road | 159831 | [159831-monsters-briefcase-and-road.json](./159831-monsters-briefcase-and-road.json) |
 | Monsters, Inc. | 86185 | [86185-monsters-inc.json](./86185-monsters-inc.json) |
+| Monsters, Inc.: Pinball Panic | 68735 | [68735-monsters-inc-pinball-panic.json](./68735-monsters-inc-pinball-panic.json) |
 | Monsters, Inc.: Wreck Room Arcade - Eight Ball Chaos | 69576 | [69576-monsters-inc-wreck-room-arcade-eight-ball-chaos.json](./69576-monsters-inc-wreck-room-arcade-eight-ball-chaos.json) |
 | Monsters: Survival | 114997 | [114997-monsters-survival.json](./114997-monsters-survival.json) |
 | Monsters: The Hunter of Darkness | 214198 | [214198-monsters-the-hunter-of-darkness.json](./214198-monsters-the-hunter-of-darkness.json) |
@@ -7905,6 +7909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Hoob! | 372695 | [372695-mr-hoob.json](./372695-mr-hoob.json) |
 | Mr. Hopp's Playhouse 2 | 152818 | [152818-mr-hopps-playhouse-2.json](./152818-mr-hopps-playhouse-2.json) |
 | Mr. Joshua Carrot | 128354 | [128354-mr-joshua-carrot.json](./128354-mr-joshua-carrot.json) |
+| Mr. Jumpington 4 | 68743 | [68743-mr-jumpington-4.json](./68743-mr-jumpington-4.json) |
 | Mr. Krabs Overdoses on Ketamine | 141101 | [141101-mr-krabs-overdoses-on-ketamine.json](./141101-mr-krabs-overdoses-on-ketamine.json) |
 | Mr. Krabs Tax Evasion | 166526 | [166526-mr-krabs-tax-evasion.json](./166526-mr-krabs-tax-evasion.json) |
 | Mr. Krasnoludek, Teach Me Your Magic Spells | 169879 | [169879-mr-krasnoludek-teach-me-your-magic-spells.json](./169879-mr-krasnoludek-teach-me-your-magic-spells.json) |
