@@ -1119,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Toy Machines | 100173 | [100173-rc-toy-machines.json](./100173-rc-toy-machines.json) |
 | RC-AirSim - RC Model Airplane Flight Simulator | 31868 | [31868-rc-airsim-rc-model-airplane-flight-simulator.json](./31868-rc-airsim-rc-model-airplane-flight-simulator.json) |
 | RC: Car Maniacs | 311130 | [311130-rc-car-maniacs.json](./311130-rc-car-maniacs.json) |
+| RCRacer VR | 112463 | [112463-rcracer-vr.json](./112463-rcracer-vr.json) |
 | RDF 1985 | 23838 | [23838-rdf-1985.json](./23838-rdf-1985.json) |
 | RDP-Files_ | 265673 | [265673-rdp-files.json](./265673-rdp-files.json) |
 | RDS: The Official Drift Videogame - Premium Cars Pack #1 | 226977 | [226977-rds-the-official-drift-videogame-premium-cars-pack-1.json](./226977-rds-the-official-drift-videogame-premium-cars-pack-1.json) |
@@ -2549,6 +2550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restricted Area | 266768 | [266768-restricted-area.json](./266768-restricted-area.json) |
 | Restricted Section | 178439 | [178439-restricted-section.json](./178439-restricted-section.json) |
 | Resttore | 285487 | [285487-resttore.json](./285487-resttore.json) |
+| Resuffer: Down the Rabbit Hole | 112504 | [112504-resuffer-down-the-rabbit-hole.json](./112504-resuffer-down-the-rabbit-hole.json) |
 | Resurface | 406681 | [406681-resurface.json](./406681-resurface.json) |
 | Resurgence: Earth United | 71193 | [71193-resurgence-earth-united.json](./71193-resurgence-earth-united.json) |
 | Resurgent | 177565 | [177565-resurgent.json](./177565-resurgent.json) |
@@ -2933,6 +2935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rg-ft | 176997 | [176997-rg-ft.json](./176997-rg-ft.json) |
 | RGB | 251216 | [251216-rgb.json](./251216-rgb.json) |
 | RGB ON Experience | 174629 | [174629-rgb-on-experience.json](./174629-rgb-on-experience.json) |
+| RGB Run | 112480 | [112480-rgb-run.json](./112480-rgb-run.json) |
 | RGB Rush | 218173 | [218173-rgb-rush.json](./218173-rgb-rush.json) |
 | RGB Simulator | 237278 | [237278-rgb-simulator.json](./237278-rgb-simulator.json) |
 | RGBverse | 29231 | [29231-rgbverse.json](./29231-rgbverse.json) |
@@ -3520,6 +3523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Army | 302925 | [302925-rising-army.json](./302925-rising-army.json) |
 | Rising Constellation | 139367 | [139367-rising-constellation.json](./139367-rising-constellation.json) |
 | Rising Dead | 265125 | [265125-rising-dead.json](./265125-rising-dead.json) |
+| Rising Fire | 112515 | [112515-rising-fire.json](./112515-rising-fire.json) |
 | Rising Heat | 319372 | [319372-rising-heat.json](./319372-rising-heat.json) |
 | Rising Hell | 108409 | [108409-rising-hell.json](./108409-rising-hell.json) |
 | Rising Islands | 19242 | [19242-rising-islands.json](./19242-rising-islands.json) |
@@ -4952,6 +4956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Route-16: R | 411158 | [411158-route-16-r.json](./411158-route-16-r.json) |
 | Routemania | 221114 | [221114-routemania.json](./221114-routemania.json) |
 | Router | 68936 | [68936-router.json](./68936-router.json) |
+| Routes | 112509 | [112509-routes.json](./112509-routes.json) |
 | RouteWhom | 394513 | [394513-routewhom.json](./394513-routewhom.json) |
 | Routine | 8948 | [8948-routine.json](./8948-routine.json) |
 | Rouvy | 319175 | [319175-rouvy.json](./319175-rouvy.json) |
