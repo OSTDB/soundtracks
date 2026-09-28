@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game About Jetpack Fly | 320537 | [320537-game-about-jetpack-fly.json](./320537-game-about-jetpack-fly.json) |
 | Game After School | 233446 | [233446-game-after-school.json](./233446-game-after-school.json) |
 | Game Box Série Corridas | 130839 | [130839-game-box-serie-corridas.json](./130839-game-box-serie-corridas.json) |
+| Game Box Série Esportes | 93173 | [93173-game-box-serie-esportes.json](./93173-game-box-serie-esportes.json) |
 | Game Box Série Esportes Radicais | 96505 | [96505-game-box-serie-esportes-radicais.json](./96505-game-box-serie-esportes-radicais.json) |
 | Game Boy Camera Memory | 328594 | [328594-game-boy-camera-memory.json](./328594-game-boy-camera-memory.json) |
 | Game Boy Camera: Gold Zelda Edition | 228549 | [228549-game-boy-camera-gold-zelda-edition.json](./228549-game-boy-camera-gold-zelda-edition.json) |
