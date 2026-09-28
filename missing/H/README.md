@@ -3517,6 +3517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit the Brakes | 178496 | [178496-hit-the-brakes.json](./178496-hit-the-brakes.json) |
 | Hit The Clock | 377708 | [377708-hit-the-clock.json](./377708-hit-the-clock.json) |
 | Hit The Dot | 282728 | [282728-hit-the-dot.json](./282728-hit-the-dot.json) |
+| Hit the Hive | 96866 | [96866-hit-the-hive.json](./96866-hit-the-hive.json) |
 | Hit the Ice | 295042 | [295042-hit-the-ice.json](./295042-hit-the-ice.json) |
 | Hit the Light: Neon Shooter | 129165 | [129165-hit-the-light-neon-shooter.json](./129165-hit-the-light-neon-shooter.json) |
 | HIT: Heroes of Incredible Tales | 79317 | [79317-hit-heroes-of-incredible-tales.json](./79317-hit-heroes-of-incredible-tales.json) |
@@ -5056,6 +5057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humans Vs Ghouls | 153372 | [153372-humans-vs-ghouls.json](./153372-humans-vs-ghouls.json) |
 | Humans vs. Monsters | 303561 | [303561-humans-vs-monsters.json](./303561-humans-vs-monsters.json) |
 | Humans vs. Vampires | 199060 | [199060-humans-vs-vampires.json](./199060-humans-vs-vampires.json) |
+| Humble Pie | 96873 | [96873-humble-pie.json](./96873-humble-pie.json) |
 | Humble Rumble | 128371 | [128371-humble-rumble.json](./128371-humble-rumble.json) |
 | Humbug | 57637 | [57637-humbug.json](./57637-humbug.json) |
 | Hume Index | 276218 | [276218-hume-index.json](./276218-hume-index.json) |
