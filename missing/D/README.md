@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damn Love | 402274 | [402274-damn-love.json](./402274-damn-love.json) |
 | Damnation | 6952 | [6952-damnation.json](./6952-damnation.json) |
 | Damnation City of Death | 35837 | [35837-damnation-city-of-death.json](./35837-damnation-city-of-death.json) |
+| Damnaze | 113870 | [113870-damnaze.json](./113870-damnaze.json) |
 | Damned 2 | 253375 | [253375-damned-2.json](./253375-damned-2.json) |
 | Damned Cold | 30775 | [30775-damned-cold.json](./30775-damned-cold.json) |
 | Damned Daniel | 111239 | [111239-damned-daniel.json](./111239-damned-daniel.json) |
@@ -3666,6 +3667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digging Day | 122920 | [122920-digging-day.json](./122920-digging-day.json) |
 | Digging Dogs | 357862 | [357862-digging-dogs.json](./357862-digging-dogs.json) |
 | Digging Down | 384532 | [384532-digging-down.json](./384532-digging-down.json) |
+| Digging Dragon | 113851 | [113851-digging-dragon.json](./113851-digging-dragon.json) |
 | Digging for Dinosaurs | 230361 | [230361-digging-for-dinosaurs.json](./230361-digging-for-dinosaurs.json) |
 | Digging for Dinosaurs | 48045 | [48045-digging-for-dinosaurs.json](./48045-digging-for-dinosaurs.json) |
 | Digging for Worms | 317443 | [317443-digging-for-worms.json](./317443-digging-for-worms.json) |
@@ -5777,6 +5779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downroll | 191161 | [191161-downroll.json](./191161-downroll.json) |
 | Downshot | 308353 | [308353-downshot.json](./308353-downshot.json) |
 | DownSouth | 391048 | [391048-downsouth.json](./391048-downsouth.json) |
+| Downstairs at Grandma's House | 113832 | [113832-downstairs-at-grandmas-house.json](./113832-downstairs-at-grandmas-house.json) |
 | Downtown | 174110 | [174110-downtown.json](./174110-downtown.json) |
 | Downtown Club | 330284 | [330284-downtown-club.json](./330284-downtown-club.json) |
 | Downtown Dodgeball Da yo: Zenin Shuugou!! | 60501 | [60501-downtown-dodgeball-da-yo-zenin-shuugou.json](./60501-downtown-dodgeball-da-yo-zenin-shuugou.json) |
