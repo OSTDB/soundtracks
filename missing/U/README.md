@@ -1140,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unless Terminalia | 399081 | [399081-unless-terminalia.json](./399081-unless-terminalia.json) |
 | Unlich | 315711 | [315711-unlich.json](./315711-unlich.json) |
 | Unlife | 151127 | [151127-unlife.json](./151127-unlife.json) |
+| Unlight | 59839 | [59839-unlight.json](./59839-unlight.json) |
 | Unlikely Heroes | 80882 | [80882-unlikely-heroes.json](./80882-unlikely-heroes.json) |
 | Unlikely Suspects | 63916 | [63916-unlikely-suspects.json](./63916-unlikely-suspects.json) |
 | Unlimited | 268217 | [268217-unlimited.json](./268217-unlimited.json) |
