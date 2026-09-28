@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PamPam Kana Students | 390547 | [390547-pampam-kana-students.json](./390547-pampam-kana-students.json) |
 | Pampas & Selene: The Maze of Demons | 261813 | [261813-pampas-and-selene-the-maze-of-demons.json](./261813-pampas-and-selene-the-maze-of-demons.json) |
 | Pan Beats | 311624 | [311624-pan-beats.json](./311624-pan-beats.json) |
+| Pan Panda | 110527 | [110527-pan-panda.json](./110527-pan-panda.json) |
 | Pan·Gaia | 244220 | [244220-pan-gaia.json](./244220-pan-gaia.json) |
 | Pan'orama | 211935 | [211935-panorama.json](./211935-panorama.json) |
 | Pana der Hejhog | 270217 | [270217-pana-der-hejhog.json](./270217-pana-der-hejhog.json) |
@@ -828,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papo World Cleaning Day | 299233 | [299233-papo-world-cleaning-day.json](./299233-papo-world-cleaning-day.json) |
 | Papo World Dinosaur Island | 299272 | [299272-papo-world-dinosaur-island.json](./299272-papo-world-dinosaur-island.json) |
 | Papo World Playground | 299239 | [299239-papo-world-playground.json](./299239-papo-world-playground.json) |
+| Papper Balls | 110539 | [110539-papper-balls.json](./110539-papper-balls.json) |
 | Paprika Trainer | 280263 | [280263-paprika-trainer.json](./280263-paprika-trainer.json) |
 | Paprium | 55107 | [55107-paprium.json](./55107-paprium.json) |
 | Papuan Dominatrixes Are the Best | 385704 | [385704-papuan-dominatrixes-are-the-best.json](./385704-papuan-dominatrixes-are-the-best.json) |
@@ -2467,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phonics-Diagraphsgame | 96535 | [96535-phonics-diagraphsgame.json](./96535-phonics-diagraphsgame.json) |
 | Phonopolis | 204549 | [204549-phonopolis.json](./204549-phonopolis.json) |
 | Phoots and the Pineapple Throne | 304015 | [304015-phoots-and-the-pineapple-throne.json](./304015-phoots-and-the-pineapple-throne.json) |
+| Photo Finish | 110533 | [110533-photo-finish.json](./110533-photo-finish.json) |
 | Photo Genic | 283709 | [283709-photo-genic.json](./283709-photo-genic.json) |
 | Photo Girls: First Session | 396435 | [396435-photo-girls-first-session.json](./396435-photo-girls-first-session.json) |
 | Photo Phantasy | 47959 | [47959-photo-phantasy.json](./47959-photo-phantasy.json) |
@@ -3637,6 +3640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Room | 393804 | [393804-pixel-room.json](./393804-pixel-room.json) |
 | Pixel Run! | 252203 | [252203-pixel-run.json](./252203-pixel-run.json) |
 | Pixel Sangokushi | 200730 | [200730-pixel-sangokushi.json](./200730-pixel-sangokushi.json) |
+| Pixel Shield | 110518 | [110518-pixel-shield.json](./110518-pixel-shield.json) |
 | Pixel Shinobi | 373089 | [373089-pixel-shinobi.json](./373089-pixel-shinobi.json) |
 | Pixel Skater | 190205 | [190205-pixel-skater.json](./190205-pixel-skater.json) |
 | Pixel Soccer | 35814 | [35814-pixel-soccer.json](./35814-pixel-soccer.json) |
@@ -3731,6 +3735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Starry Blast | 333528 | [333528-pixicharm-starry-blast.json](./333528-pixicharm-starry-blast.json) |
 | Pixicharm: TuttiRun | 353972 | [353972-pixicharm-tuttirun.json](./353972-pixicharm-tuttirun.json) |
 | Pixicharm: Vesprax | 377706 | [377706-pixicharm-vesprax.json](./377706-pixicharm-vesprax.json) |
+| Pixie Panic Garden | 110526 | [110526-pixie-panic-garden.json](./110526-pixie-panic-garden.json) |
 | Pixie Pete | 25688 | [25688-pixie-pete.json](./25688-pixie-pete.json) |
 | Pixie Plates: Ember Peaks DLC | 399803 | [399803-pixie-plates-ember-peaks-dlc.json](./399803-pixie-plates-ember-peaks-dlc.json) |
 | Pixie Plates: Royal Edition | 411835 | [411835-pixie-plates-royal-edition.json](./411835-pixie-plates-royal-edition.json) |
@@ -4494,6 +4499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poison Control: Contaminated Edition | 139913 | [139913-poison-control-contaminated-edition.json](./139913-poison-control-contaminated-edition.json) |
 | Poison Heart | 308242 | [308242-poison-heart.json](./308242-poison-heart.json) |
 | Poison Selection | 394551 | [394551-poison-selection.json](./394551-poison-selection.json) |
+| Poisoner | 110532 | [110532-poisoner.json](./110532-poisoner.json) |
 | Pokaboo | 197851 | [197851-pokaboo.json](./197851-pokaboo.json) |
 | Poké Everworld Online | 389447 | [389447-poke-everworld-online.json](./389447-poke-everworld-online.json) |
 | Poke Mission 97 | 322761 | [322761-poke-mission-97.json](./322761-poke-mission-97.json) |
@@ -7662,6 +7668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Piecer: Leaves of Autumn | 370779 | [370779-puzzle-piecer-leaves-of-autumn.json](./370779-puzzle-piecer-leaves-of-autumn.json) |
 | Puzzle Piecer: The Holiday Spirit | 380670 | [380670-puzzle-piecer-the-holiday-spirit.json](./380670-puzzle-piecer-the-holiday-spirit.json) |
 | Puzzle Pleasant | 384070 | [384070-puzzle-pleasant.json](./384070-puzzle-pleasant.json) |
+| Puzzle Plunder | 110505 | [110505-puzzle-plunder.json](./110505-puzzle-plunder.json) |
 | Puzzle Poker | 23550 | [23550-puzzle-poker.json](./23550-puzzle-poker.json) |
 | Puzzle Pop | 246361 | [246361-puzzle-pop.json](./246361-puzzle-pop.json) |
 | Puzzle Putt | 197246 | [197246-puzzle-putt.json](./197246-puzzle-putt.json) |
