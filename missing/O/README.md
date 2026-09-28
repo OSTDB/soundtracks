@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OcculThieves | 272374 | [272374-occulthieves.json](./272374-occulthieves.json) |
 | Occultist Girl Magatsuhi | 270188 | [270188-occultist-girl-magatsuhi.json](./270188-occultist-girl-magatsuhi.json) |
 | Occulto | 192948 | [192948-occulto.json](./192948-occulto.json) |
+| Occultus | 74512 | [74512-occultus.json](./74512-occultus.json) |
 | Occultus Vitae: Hidden Life | 330914 | [330914-occultus-vitae-hidden-life.json](./330914-occultus-vitae-hidden-life.json) |
 | Occupation 2.5 | 159111 | [159111-occupation-2-5.json](./159111-occupation-2-5.json) |
 | Occupied | 383029 | [383029-occupied.json](./383029-occupied.json) |
@@ -1336,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onii-chan Asobo | 111087 | [111087-onii-chan-asobo.json](./111087-onii-chan-asobo.json) |
 | Onii-chan Continue!: Secret Love With Yuri | 396239 | [396239-onii-chan-continue-secret-love-with-yuri.json](./396239-onii-chan-continue-secret-love-with-yuri.json) |
 | Oniken | 8963 | [8963-oniken.json](./8963-oniken.json) |
+| Onimod Land | 74992 | [74992-onimod-land.json](./74992-onimod-land.json) |
 | Onimusha 2: Samurai's Destiny | 11757 | [11757-onimusha-2-samurais-destiny.json](./11757-onimusha-2-samurais-destiny.json) |
 | Onimusha 2: Samurai's Destiny | 330283 | [330283-onimusha-2-samurais-destiny.json](./330283-onimusha-2-samurais-destiny.json) |
 | Onimusha Tactics | 6526 | [6526-onimusha-tactics.json](./6526-onimusha-tactics.json) |
@@ -1359,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onka | 257317 | [257317-onka.json](./257317-onka.json) |
 | Online Artillery 2 | 58748 | [58748-online-artillery-2.json](./58748-online-artillery-2.json) |
 | Online Chess Kingdoms | 93388 | [93388-online-chess-kingdoms.json](./93388-online-chess-kingdoms.json) |
+| Online Circle Pong | 75000 | [75000-online-circle-pong.json](./75000-online-circle-pong.json) |
 | Online Open World RPG | 234078 | [234078-online-open-world-rpg.json](./234078-online-open-world-rpg.json) |
 | Online Retro Tennis | 156702 | [156702-online-retro-tennis.json](./156702-online-retro-tennis.json) |
 | Online: 404 | 403155 | [403155-online-404.json](./403155-online-404.json) |
