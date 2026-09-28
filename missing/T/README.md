@@ -1175,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarvos Desolation | 345044 | [345044-tarvos-desolation.json](./345044-tarvos-desolation.json) |
 | Tarzan | 25728 | [25728-tarzan.json](./25728-tarzan.json) |
 | Tarzan | 304200 | [304200-tarzan.json](./304200-tarzan.json) |
+| Tarzan Goes Ape! | 93160 | [93160-tarzan-goes-ape.json](./93160-tarzan-goes-ape.json) |
 | Tarzan Unleashed | 120245 | [120245-tarzan-unleashed.json](./120245-tarzan-unleashed.json) |
 | Tarzan VR | 305903 | [305903-tarzan-vr.json](./305903-tarzan-vr.json) |
 | Tarzan VR: #3 The Dead of the Night | 219569 | [219569-tarzan-vr-3-the-dead-of-the-night.json](./219569-tarzan-vr-3-the-dead-of-the-night.json) |
@@ -2923,6 +2924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bog's Heart | 176963 | [176963-the-bogs-heart.json](./176963-the-bogs-heart.json) |
 | The Boggy Region | 260940 | [260940-the-boggy-region.json](./260940-the-boggy-region.json) |
 | The Bogtavern | 236259 | [236259-the-bogtavern.json](./236259-the-bogtavern.json) |
+| The Bogus Guru | 93133 | [93133-the-bogus-guru.json](./93133-the-bogus-guru.json) |
 | The Bolt Age | 165532 | [165532-the-bolt-age.json](./165532-the-bolt-age.json) |
 | The Bomb Disarmament Expert | 290985 | [290985-the-bomb-disarmament-expert.json](./290985-the-bomb-disarmament-expert.json) |
 | The Bomb Project | 124139 | [124139-the-bomb-project.json](./124139-the-bomb-project.json) |
@@ -13303,6 +13305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triachnid | 63255 | [63255-triachnid.json](./63255-triachnid.json) |
 | Triad | 304367 | [304367-triad.json](./304367-triad.json) |
 | Triad | 54692 | [54692-triad.json](./54692-triad.json) |
+| Triad Volume 1 | 93153 | [93153-triad-volume-1.json](./93153-triad-volume-1.json) |
 | Triadino | 277342 | [277342-triadino.json](./277342-triadino.json) |
 | Triage | 228341 | [228341-triage.json](./228341-triage.json) |
 | Triage | 353861 | [353861-triage.json](./353861-triage.json) |
@@ -13625,6 +13628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trollz: Hair Affair! | 49375 | [49375-trollz-hair-affair.json](./49375-trollz-hair-affair.json) |
 | Trom | 288316 | [288316-trom.json](./288316-trom.json) |
 | Troma Presents Poultrygeist | 305952 | [305952-troma-presents-poultrygeist.json](./305952-troma-presents-poultrygeist.json) |
+| Tromaball | 93143 | [93143-tromaball.json](./93143-tromaball.json) |
 | Trombone Champ | 149821 | [149821-trombone-champ.json](./149821-trombone-champ.json) |
 | Trombone Champ: Unflattened! | 313775 | [313775-trombone-champ-unflattened.json](./313775-trombone-champ-unflattened.json) |
 | Trombone Champ: Unflattened! - Undertale + Deltarune Song Pack | 360779 | [360779-trombone-champ-unflattened-undertale-deltarune-song-pack.json](./360779-trombone-champ-unflattened-undertale-deltarune-song-pack.json) |
