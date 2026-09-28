@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LDS Fun | 100939 | [100939-lds-fun.json](./100939-lds-fun.json) |
 | Le Avventure di Blue | 228418 | [228418-le-avventure-di-blue.json](./228418-le-avventure-di-blue.json) |
 | Le Avventure di Blue: Lacrima di Cristallo | 257676 | [257676-le-avventure-di-blue-lacrima-di-cristallo.json](./257676-le-avventure-di-blue-lacrima-di-cristallo.json) |
+| Le Barbare Qui Est Un Bourgeois | 97509 | [97509-le-barbare-qui-est-un-bourgeois.json](./97509-le-barbare-qui-est-un-bourgeois.json) |
 | Le Château | 244484 | [244484-le-chateau.json](./244484-le-chateau.json) |
 | Le Dernier Don | 303624 | [303624-le-dernier-don.json](./303624-le-dernier-don.json) |
 | Le Fetiche Maya | 10848 | [10848-le-fetiche-maya.json](./10848-le-fetiche-maya.json) |
@@ -4339,6 +4340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lusty God | 238763 | [238763-lusty-god.json](./238763-lusty-god.json) |
 | Lutarus | 293621 | [293621-lutarus.json](./293621-lutarus.json) |
 | Lutra's Monologue | 186274 | [186274-lutras-monologue.json](./186274-lutras-monologue.json) |
+| Lutte | 97508 | [97508-lutte.json](./97508-lutte.json) |
 | Lux | 329071 | [329071-lux.json](./329071-lux.json) |
 | Lux Ex: Cyber Initiation | 214190 | [214190-lux-ex-cyber-initiation.json](./214190-lux-ex-cyber-initiation.json) |
 | Lux Sine | 149030 | [149030-lux-sine.json](./149030-lux-sine.json) |
