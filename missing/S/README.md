@@ -1968,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of Mana | 3216 | [3216-secret-of-mana.json](./3216-secret-of-mana.json) |
 | Secret of Mana: Relocalized | 249276 | [249276-secret-of-mana-relocalized.json](./249276-secret-of-mana-relocalized.json) |
 | Secret of the Corral | 252124 | [252124-secret-of-the-corral.json](./252124-secret-of-the-corral.json) |
+| Secret of the Lost Cavern | 107393 | [107393-secret-of-the-lost-cavern.json](./107393-secret-of-the-lost-cavern.json) |
 | Secret of the Pharaohs | 41556 | [41556-secret-of-the-pharaohs.json](./41556-secret-of-the-pharaohs.json) |
 | Secret of the Royal Throne | 32913 | [32913-secret-of-the-royal-throne.json](./32913-secret-of-the-royal-throne.json) |
 | Secret of the Solstice | 307331 | [307331-secret-of-the-solstice.json](./307331-secret-of-the-solstice.json) |
@@ -2477,6 +2478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serbia '14 | 131997 | [131997-serbia-14.json](./131997-serbia-14.json) |
 | Serega Madness Pixel Adventures | 295276 | [295276-serega-madness-pixel-adventures.json](./295276-serega-madness-pixel-adventures.json) |
 | Serena | 14528 | [14528-serena.json](./14528-serena.json) |
+| Serenade of the Sirens | 107411 | [107411-serenade-of-the-sirens.json](./107411-serenade-of-the-sirens.json) |
 | Serendipalette | 383655 | [383655-serendipalette.json](./383655-serendipalette.json) |
 | Serendipity Hotel | 190218 | [190218-serendipity-hotel.json](./190218-serendipity-hotel.json) |
 | Serendipity Morning Mist: Dawn, Tobacco, Your Scent | 387003 | [387003-serendipity-morning-mist-dawn-tobacco-your-scent.json](./387003-serendipity-morning-mist-dawn-tobacco-your-scent.json) |
@@ -2626,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven of Heart | 176989 | [176989-seven-of-heart.json](./176989-seven-of-heart.json) |
 | Seven Photos | 122945 | [122945-seven-photos.json](./122945-seven-photos.json) |
 | Seven Pirates H | 192281 | [192281-seven-pirates-h.json](./192281-seven-pirates-h.json) |
+| Seven Sacrifices | 107402 | [107402-seven-sacrifices.json](./107402-seven-sacrifices.json) |
 | Seven Sins: Academic Version | 112933 | [112933-seven-sins-academic-version.json](./112933-seven-sins-academic-version.json) |
 | Seven Skies to Paradise | 219601 | [219601-seven-skies-to-paradise.json](./219601-seven-skies-to-paradise.json) |
 | Seven Stars 3D | 381261 | [381261-seven-stars-3d.json](./381261-seven-stars-3d.json) |
@@ -3303,6 +3306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharpshooter Plus | 130285 | [130285-sharpshooter-plus.json](./130285-sharpshooter-plus.json) |
 | SharpShooter3D | 103189 | [103189-sharpshooter3d.json](./103189-sharpshooter3d.json) |
 | SharpShooter3D | 336568 | [336568-sharpshooter3d.json](./336568-sharpshooter3d.json) |
+| Shàshí Qíngyīn | 107401 | [107401-shashi-qingyin.json](./107401-shashi-qingyin.json) |
 | Shashingo: Learn Japanese with Photography - Additional Camera Filters | 298044 | [298044-shashingo-learn-japanese-with-photography-additional-camera-filters.json](./298044-shashingo-learn-japanese-with-photography-additional-camera-filters.json) |
 | Shatter | 137083 | [137083-shatter.json](./137083-shatter.json) |
 | Shatter | 358281 | [358281-shatter.json](./358281-shatter.json) |
@@ -3465,6 +3469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shénhuà Zhànshì II: Shìjiè zhī Mí | 394205 | [394205-shenhua-zhanshi-ii-shijie-zhi-mi.json](./394205-shenhua-zhanshi-ii-shijie-zhi-mi.json) |
 | Shénhuà Zhànshì: Fùchóu de Qiánzòu Qǔ | 394207 | [394207-shenhua-zhanshi-fuchou-de-qianzou-qu.json](./394207-shenhua-zhanshi-fuchou-de-qianzou-qu.json) |
 | Shénmǎ Jiānghú | 114522 | [114522-shenma-jianghu.json](./114522-shenma-jianghu.json) |
+| Shénme Guǐ Ànhēi | 107382 | [107382-shenme-gui-anhei.json](./107382-shenme-gui-anhei.json) |
 | Shenmue I & II VR Mod | 413210 | [413210-shenmue-i-and-ii-vr-mod.json](./413210-shenmue-i-and-ii-vr-mod.json) |
 | Shenmue II | 1218 | [1218-shenmue-ii.json](./1218-shenmue-ii.json) |
 | Shenmue III: Battle Rally | 129191 | [129191-shenmue-iii-battle-rally.json](./129191-shenmue-iii-battle-rally.json) |
@@ -3795,6 +3800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Simulator Realistic | 173056 | [173056-ship-simulator-realistic.json](./173056-ship-simulator-realistic.json) |
 | Ship Simulator: Maritime Search and Rescue | 27185 | [27185-ship-simulator-maritime-search-and-rescue.json](./27185-ship-simulator-maritime-search-and-rescue.json) |
 | Ship Surveyor Through the Ages: VR | 170324 | [170324-ship-surveyor-through-the-ages-vr.json](./170324-ship-surveyor-through-the-ages-vr.json) |
+| Shipbreakers | 107366 | [107366-shipbreakers.json](./107366-shipbreakers.json) |
 | ShipCrafter | 371975 | [371975-shipcrafter.json](./371975-shipcrafter.json) |
 | Shiperoids | 31853 | [31853-shiperoids.json](./31853-shiperoids.json) |
 | ShipLord | 19326 | [19326-shiplord.json](./19326-shiplord.json) |
@@ -6975,6 +6981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Dreamer Nikko | 369203 | [369203-solar-dreamer-nikko.json](./369203-solar-dreamer-nikko.json) |
 | Solar Echoes: The Star Legation | 149056 | [149056-solar-echoes-the-star-legation.json](./149056-solar-echoes-the-star-legation.json) |
 | Solar Expanse | 219595 | [219595-solar-expanse.json](./219595-solar-expanse.json) |
+| Solar Explorer: New Dawn | 107399 | [107399-solar-explorer-new-dawn.json](./107399-solar-explorer-new-dawn.json) |
 | Solar Jetman: Hunt for the Golden Warpship | 7853 | [7853-solar-jetman-hunt-for-the-golden-warpship.json](./7853-solar-jetman-hunt-for-the-golden-warpship.json) |
 | Solar Kingdoms: Human Survival | 295568 | [295568-solar-kingdoms-human-survival.json](./295568-solar-kingdoms-human-survival.json) |
 | Solar Minotaur Rescue Frenzy | 66133 | [66133-solar-minotaur-rescue-frenzy.json](./66133-solar-minotaur-rescue-frenzy.json) |
@@ -7277,6 +7284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somnium | 201329 | [201329-somnium.json](./201329-somnium.json) |
 | Somnium Eleven | 191876 | [191876-somnium-eleven.json](./191876-somnium-eleven.json) |
 | Somnium Shore | 158183 | [158183-somnium-shore.json](./158183-somnium-shore.json) |
+| Somnium Space | 107400 | [107400-somnium-space.json](./107400-somnium-space.json) |
 | Somnium Space VR | 137636 | [137636-somnium-space-vr.json](./137636-somnium-space-vr.json) |
 | Somnium Tenebris | 301421 | [301421-somnium-tenebris.json](./301421-somnium-tenebris.json) |
 | Somnography | 172769 | [172769-somnography.json](./172769-somnography.json) |
@@ -8376,6 +8384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Explorers: Lunar Mission | 214477 | [214477-space-explorers-lunar-mission.json](./214477-space-explorers-lunar-mission.json) |
 | Space Extractor: Galactic Alien Insect Control Invasion | 284492 | [284492-space-extractor-galactic-alien-insect-control-invasion.json](./284492-space-extractor-galactic-alien-insect-control-invasion.json) |
 | Space Fantasy Zone | 42007 | [42007-space-fantasy-zone.json](./42007-space-fantasy-zone.json) |
+| Space Farm | 107384 | [107384-space-farm.json](./107384-space-farm.json) |
 | Space Farmers 2 | 169870 | [169870-space-farmers-2.json](./169870-space-farmers-2.json) |
 | Space Fat: To the Core | 155655 | [155655-space-fat-to-the-core.json](./155655-space-fat-to-the-core.json) |
 | Space Fighter | 172531 | [172531-space-fighter.json](./172531-space-fighter.json) |
