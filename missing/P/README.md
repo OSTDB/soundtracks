@@ -1191,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Arcade | 109436 | [109436-party-arcade.json](./109436-party-arcade.json) |
 | Party Arcade: Enhanced Edition | 330186 | [330186-party-arcade-enhanced-edition.json](./330186-party-arcade-enhanced-edition.json) |
 | Party Arena: Board Game Battler | 133801 | [133801-party-arena-board-game-battler.json](./133801-party-arena-board-game-battler.json) |
+| Party Ball | 60069 | [60069-party-ball.json](./60069-party-ball.json) |
 | Party Business | 128594 | [128594-party-business.json](./128594-party-business.json) |
 | Party Cemetery | 178594 | [178594-party-cemetery.json](./178594-party-cemetery.json) |
 | Party Champ | 388958 | [388958-party-champ.json](./388958-party-champ.json) |
@@ -1326,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patchwork Heroes | 42851 | [42851-patchwork-heroes.json](./42851-patchwork-heroes.json) |
 | Patchworkz!: X-maz! | 185696 | [185696-patchworkz-x-maz.json](./185696-patchworkz-x-maz.json) |
 | Patchworld | 316399 | [316399-patchworld.json](./316399-patchworld.json) |
+| Patent Blaster | 60079 | [60079-patent-blaster.json](./60079-patent-blaster.json) |
 | Patent9 | 90117 | [90117-patent9.json](./90117-patent9.json) |
 | Path Ball | 341590 | [341590-path-ball.json](./341590-path-ball.json) |
 | Path of Achra | 222738 | [222738-path-of-achra.json](./222738-path-of-achra.json) |
@@ -2175,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Paradise Story | 232171 | [232171-pet-paradise-story.json](./232171-pet-paradise-story.json) |
 | Pet Peaves Monsters | 232168 | [232168-pet-peaves-monsters.json](./232168-pet-peaves-monsters.json) |
 | Pet Puzzle | 119025 | [119025-pet-puzzle.json](./119025-pet-puzzle.json) |
+| Pet Rescue Saga | 60077 | [60077-pet-rescue-saga.json](./60077-pet-rescue-saga.json) |
 | Pet Rock Duty | 278994 | [278994-pet-rock-duty.json](./278994-pet-rock-duty.json) |
 | Pet Shop Simulator | 248906 | [248906-pet-shop-simulator.json](./248906-pet-shop-simulator.json) |
 | Pet Shop Snacks: Expansion Pack 1 | 237981 | [237981-pet-shop-snacks-expansion-pack-1.json](./237981-pet-shop-snacks-expansion-pack-1.json) |
@@ -2826,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pig Knight | 332619 | [332619-pig-knight.json](./332619-pig-knight.json) |
 | Pig Newton | 40403 | [40403-pig-newton.json](./40403-pig-newton.json) |
 | Pig Out: Dine Like A Swine | 66386 | [66386-pig-out-dine-like-a-swine.json](./66386-pig-out-dine-like-a-swine.json) |
+| Pig Pen | 59881 | [59881-pig-pen.json](./59881-pig-pen.json) |
 | Pig Skater Simulator | 164990 | [164990-pig-skater-simulator.json](./164990-pig-skater-simulator.json) |
 | Pig vs. Box | 366219 | [366219-pig-vs-box.json](./366219-pig-vs-box.json) |
 | Pigbert | 361766 | [361766-pigbert.json](./361766-pigbert.json) |
@@ -6532,6 +6536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu Family Stadium '88: Nendo-ban | 48304 | [48304-pro-yakyuu-family-stadium-88-nendo-ban.json](./48304-pro-yakyuu-family-stadium-88-nendo-ban.json) |
 | Pro Yakyuu Famista 2020 | 136923 | [136923-pro-yakyuu-famista-2020.json](./136923-pro-yakyuu-famista-2020.json) |
 | Pro Yakyuu Famista Evolution | 136969 | [136969-pro-yakyuu-famista-evolution.json](./136969-pro-yakyuu-famista-evolution.json) |
+| Pro Yakyuu Famista Returns | 60057 | [60057-pro-yakyuu-famista-returns.json](./60057-pro-yakyuu-famista-returns.json) |
 | Pro Yakyuu Fanstars League | 395234 | [395234-pro-yakyuu-fanstars-league.json](./395234-pro-yakyuu-fanstars-league.json) |
 | Pro Yakyuu ga Suki Da! 2017 | 194032 | [194032-pro-yakyuu-ga-suki-da-2017.json](./194032-pro-yakyuu-ga-suki-da-2017.json) |
 | Pro Yakyuu GG League | 141191 | [141191-pro-yakyuu-gg-league.json](./141191-pro-yakyuu-gg-league.json) |
@@ -7438,6 +7443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pump it Up StepP1 | 139378 | [139378-pump-it-up-stepp1.json](./139378-pump-it-up-stepp1.json) |
 | Pump It Up Zero | 316095 | [316095-pump-it-up-zero.json](./316095-pump-it-up-zero.json) |
 | Pump It Up: Exceed | 43313 | [43313-pump-it-up-exceed.json](./43313-pump-it-up-exceed.json) |
+| Pump It Up: Exceed Portable | 60087 | [60087-pump-it-up-exceed-portable.json](./60087-pump-it-up-exceed-portable.json) |
 | Pump Press | 277299 | [277299-pump-press.json](./277299-pump-press.json) |
 | Pumped BMX Flow | 174894 | [174894-pumped-bmx-flow.json](./174894-pumped-bmx-flow.json) |
 | Pumped BMX Pro | 114796 | [114796-pumped-bmx-pro.json](./114796-pumped-bmx-pro.json) |
@@ -7875,6 +7881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Piecer: Full Spectrum | 358358 | [358358-puzzle-piecer-full-spectrum.json](./358358-puzzle-piecer-full-spectrum.json) |
 | Puzzle Piecer: Leaves of Autumn | 370779 | [370779-puzzle-piecer-leaves-of-autumn.json](./370779-puzzle-piecer-leaves-of-autumn.json) |
 | Puzzle Piecer: The Holiday Spirit | 380670 | [380670-puzzle-piecer-the-holiday-spirit.json](./380670-puzzle-piecer-the-holiday-spirit.json) |
+| Puzzle Pirates: Dark Seas | 59866 | [59866-puzzle-pirates-dark-seas.json](./59866-puzzle-pirates-dark-seas.json) |
 | Puzzle Pleasant | 384070 | [384070-puzzle-pleasant.json](./384070-puzzle-pleasant.json) |
 | Puzzle Plunder | 110505 | [110505-puzzle-plunder.json](./110505-puzzle-plunder.json) |
 | Puzzle Poker | 23550 | [23550-puzzle-poker.json](./23550-puzzle-poker.json) |
