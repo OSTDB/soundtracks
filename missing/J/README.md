@@ -1116,6 +1116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jouka no Monshou | 274223 | [274223-jouka-no-monshou.json](./274223-jouka-no-monshou.json) |
 | Joulumato | 178589 | [178589-joulumato.json](./178589-joulumato.json) |
 | Joumee the Hedgehog | 75828 | [75828-joumee-the-hedgehog.json](./75828-joumee-the-hedgehog.json) |
+| Journalism class | 108047 | [108047-journalism-class.json](./108047-journalism-class.json) |
 | Journalism Class: Hot Part 3 | 109890 | [109890-journalism-class-hot-part-3.json](./109890-journalism-class-hot-part-3.json) |
 | Journalist | 186906 | [186906-journalist.json](./186906-journalist.json) |
 | Journey | 298669 | [298669-journey.json](./298669-journey.json) |
@@ -1181,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joy Match 3D | 255796 | [255796-joy-match-3d.json](./255796-joy-match-3d.json) |
 | Joy of Ping Pong | 230844 | [230844-joy-of-ping-pong.json](./230844-joy-of-ping-pong.json) |
 | Joy the Pug | 144187 | [144187-joy-the-pug.json](./144187-joy-the-pug.json) |
+| Joydoor | 108061 | [108061-joydoor.json](./108061-joydoor.json) |
 | Joyfess: Martin's Secret Recipe | 126521 | [126521-joyfess-martins-secret-recipe.json](./126521-joyfess-martins-secret-recipe.json) |
 | Joyland: Horror Adventure Quest | 233437 | [233437-joyland-horror-adventure-quest.json](./233437-joyland-horror-adventure-quest.json) |
 | Joymaker | 374284 | [374284-joymaker.json](./374284-joymaker.json) |
