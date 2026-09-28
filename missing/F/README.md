@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Façade | 11740 | [11740-facade.json](./11740-facade.json) |
 | Face | 87958 | [87958-face.json](./87958-face.json) |
 | Face 2 Face | 299730 | [299730-face-2-face.json](./299730-face-2-face.json) |
+| Face au train | 90835 | [90835-face-au-train.json](./90835-face-au-train.json) |
 | Face Down | 227968 | [227968-face-down.json](./227968-face-down.json) |
 | Face Golf | 181703 | [181703-face-golf.json](./181703-face-golf.json) |
 | Face Love: Face Designer | 334861 | [334861-face-love-face-designer.json](./334861-face-love-face-designer.json) |
@@ -185,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Facewound | 243111 | [243111-facewound.json](./243111-facewound.json) |
 | Facility | 190985 | [190985-facility.json](./190985-facility.json) |
 | Facility 079 | 291041 | [291041-facility-079.json](./291041-facility-079.json) |
+| Facility 47 | 90790 | [90790-facility-47.json](./90790-facility-47.json) |
 | Facing Demons: Chara Battle | 305263 | [305263-facing-demons-chara-battle.json](./305263-facing-demons-chara-battle.json) |
 | Facing Zombie,and 4 Walls | 285967 | [285967-facing-zombie-and-4-walls.json](./285967-facing-zombie-and-4-walls.json) |
 | Facteroids | 173306 | [173306-facteroids.json](./173306-facteroids.json) |
@@ -267,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Failure Drill | 241518 | [241518-failure-drill.json](./241518-failure-drill.json) |
 | Faily Brakes Classic | 174310 | [174310-faily-brakes-classic.json](./174310-faily-brakes-classic.json) |
 | Faily Rider | 101534 | [101534-faily-rider.json](./101534-faily-rider.json) |
+| Faily Skater | 90787 | [90787-faily-skater.json](./90787-faily-skater.json) |
 | Faily Tumbler | 90351 | [90351-faily-tumbler.json](./90351-faily-tumbler.json) |
 | Fair And Balanced | 411716 | [411716-fair-and-balanced.json](./411716-fair-and-balanced.json) |
 | Fair Deal: Las Vegas | 110129 | [110129-fair-deal-las-vegas.json](./110129-fair-deal-las-vegas.json) |
