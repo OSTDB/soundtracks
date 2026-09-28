@@ -9728,8 +9728,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits of Carter Mansion | 189053 | [189053-spirits-of-carter-mansion.json](./189053-spirits-of-carter-mansion.json) |
 | Spirits of Lunara | 383364 | [383364-spirits-of-lunara.json](./383364-spirits-of-lunara.json) |
 | Spirits of Metropolis | 54392 | [54392-spirits-of-metropolis.json](./54392-spirits-of-metropolis.json) |
+| Spirits of Mystery: Amber Maiden | 62823 | [62823-spirits-of-mystery-amber-maiden.json](./62823-spirits-of-mystery-amber-maiden.json) |
 | Spirits of Mystery: Chains of Promise - Collector's Edition | 110346 | [110346-spirits-of-mystery-chains-of-promise-collectors-edition.json](./110346-spirits-of-mystery-chains-of-promise-collectors-edition.json) |
 | Spirits of Mystery: Family Lies | 102790 | [102790-spirits-of-mystery-family-lies.json](./102790-spirits-of-mystery-family-lies.json) |
+| Spirits of Mystery: Song of the Phoenix | 62822 | [62822-spirits-of-mystery-song-of-the-phoenix.json](./62822-spirits-of-mystery-song-of-the-phoenix.json) |
+| Spirits of Mystery: The Dark Minotaur | 62824 | [62824-spirits-of-mystery-the-dark-minotaur.json](./62824-spirits-of-mystery-the-dark-minotaur.json) |
 | Spirits of Mystery: The Moon Crystal | 187959 | [187959-spirits-of-mystery-the-moon-crystal.json](./187959-spirits-of-mystery-the-moon-crystal.json) |
 | Spirits of the Silicium Forest | 237049 | [237049-spirits-of-the-silicium-forest.json](./237049-spirits-of-the-silicium-forest.json) |
 | Spirits of Xanadu | 17601 | [17601-spirits-of-xanadu.json](./17601-spirits-of-xanadu.json) |
@@ -11445,6 +11448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steamroll | 20361 | [20361-steamroll.json](./20361-steamroll.json) |
 | SteamRush | 295278 | [295278-steamrush.json](./295278-steamrush.json) |
 | Steamry | 365678 | [365678-steamry.json](./365678-steamry.json) |
+| SteamSaga: Cerulia | 62799 | [62799-steamsaga-cerulia.json](./62799-steamsaga-cerulia.json) |
 | SteamStar | 305949 | [305949-steamstar.json](./305949-steamstar.json) |
 | SteamWorld Build & Dig Bundle | 279037 | [279037-steamworld-build-and-dig-bundle.json](./279037-steamworld-build-and-dig-bundle.json) |
 | SteamWorld Dig | 5772 | [5772-steamworld-dig.json](./5772-steamworld-dig.json) |
