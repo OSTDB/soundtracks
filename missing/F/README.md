@@ -6017,6 +6017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusion Skills | 366319 | [366319-fusion-skills.json](./366319-fusion-skills.json) |
 | Fusion Wars | 19571 | [19571-fusion-wars.json](./19571-fusion-wars.json) |
 | Fusion: Genesis | 22935 | [22935-fusion-genesis.json](./22935-fusion-genesis.json) |
+| Fusion: Sentient | 65602 | [65602-fusion-sentient.json](./65602-fusion-sentient.json) |
 | Fusionfall Heroes | 302950 | [302950-fusionfall-heroes.json](./302950-fusionfall-heroes.json) |
 | FusionFall Retro | 54747 | [54747-fusionfall-retro.json](./54747-fusionfall-retro.json) |
 | Fusionist | 250945 | [250945-fusionist.json](./250945-fusionist.json) |
