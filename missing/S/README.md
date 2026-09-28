@@ -264,9 +264,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saiko no Sutoka no Shiki | 244705 | [244705-saiko-no-sutoka-no-shiki.json](./244705-saiko-no-sutoka-no-shiki.json) |
 | Saikyo no Mahjong: 100 Mannin no Tame no Mahjong Dojo | 222373 | [222373-saikyo-no-mahjong-100-mannin-no-tame-no-mahjong-dojo.json](./222373-saikyo-no-mahjong-100-mannin-no-tame-no-mahjong-dojo.json) |
 | Saikyo Robots | 251824 | [251824-saikyo-robots.json](./251824-saikyo-robots.json) |
+| Saikyou Ginsei Chess | 83453 | [83453-saikyou-ginsei-chess.json](./83453-saikyou-ginsei-chess.json) |
 | Saikyou Ginsei Gomoku Narabe | 83474 | [83474-saikyou-ginsei-gomoku-narabe.json](./83474-saikyou-ginsei-gomoku-narabe.json) |
 | Saikyou Ginsei Mahjong | 408998 | [408998-saikyou-ginsei-mahjong.json](./408998-saikyou-ginsei-mahjong.json) |
 | Saikyou Ginsei Mahjong | 83473 | [83473-saikyou-ginsei-mahjong.json](./83473-saikyou-ginsei-mahjong.json) |
+| Saikyou Ginsei Shogi | 83461 | [83461-saikyou-ginsei-shogi.json](./83461-saikyou-ginsei-shogi.json) |
+| Saikyou Ginsei Shogi 2 | 83447 | [83447-saikyou-ginsei-shogi-2.json](./83447-saikyou-ginsei-shogi-2.json) |
 | Saikyou Retsuden: Jidai Hashiru | 225658 | [225658-saikyou-retsuden-jidai-hashiru.json](./225658-saikyou-retsuden-jidai-hashiru.json) |
 | Saikyou Todai Shogi | 203548 | [203548-saikyou-todai-shogi.json](./203548-saikyou-todai-shogi.json) |
 | Saikyou Todai Shogi 2 | 203549 | [203549-saikyou-todai-shogi-2.json](./203549-saikyou-todai-shogi-2.json) |
@@ -1805,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seafox | 22416 | [22416-seafox.json](./22416-seafox.json) |
 | Seafrog | 215796 | [215796-seafrog.json](./215796-seafrog.json) |
 | Seaglass | 225763 | [225763-seaglass.json](./225763-seaglass.json) |
+| Seahaven Towers Solitaire | 83465 | [83465-seahaven-towers-solitaire.json](./83465-seahaven-towers-solitaire.json) |
 | Seal Game's | 389608 | [389608-seal-games.json](./389608-seal-games.json) |
 | Seal of Evil | 14586 | [14586-seal-of-evil.json](./14586-seal-of-evil.json) |
 | Seal of Shadows | 410237 | [410237-seal-of-shadows.json](./410237-seal-of-shadows.json) |
@@ -2276,8 +2280,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekai no Hate Made Itte Q! Chinjuu Hunter Imoto no Daibouken | 133797 | [133797-sekai-no-hate-made-itte-q-chinjuu-hunter-imoto-no-daibouken.json](./133797-sekai-no-hate-made-itte-q-chinjuu-hunter-imoto-no-daibouken.json) |
 | Sekai no Omoshiro Party Game | 408999 | [408999-sekai-no-omoshiro-party-game.json](./408999-sekai-no-omoshiro-party-game.json) |
 | Sekai no Omoshiro Party Game 2 | 409000 | [409000-sekai-no-omoshiro-party-game-2.json](./409000-sekai-no-omoshiro-party-game-2.json) |
+| Sekai Saikyou Gensei Shogi Nana | 83462 | [83462-sekai-saikyou-gensei-shogi-nana.json](./83462-sekai-saikyou-gensei-shogi-nana.json) |
 | Sekai Saikyou Ginsei Igo | 107136 | [107136-sekai-saikyou-ginsei-igo.json](./107136-sekai-saikyou-ginsei-igo.json) |
 | Sekai Saikyou Ginsei Igo 3 | 347157 | [347157-sekai-saikyou-ginsei-igo-3.json](./347157-sekai-saikyou-ginsei-igo-3.json) |
+| Sekai Saikyou Ginsei Igo 5 | 83470 | [83470-sekai-saikyou-ginsei-igo-5.json](./83470-sekai-saikyou-ginsei-igo-5.json) |
+| Sekai Saikyou Ginsei Igo 6 | 83469 | [83469-sekai-saikyou-ginsei-igo-6.json](./83469-sekai-saikyou-ginsei-igo-6.json) |
 | Sekai Saikyou Ginsei Shogi | 56158 | [56158-sekai-saikyou-ginsei-shogi.json](./56158-sekai-saikyou-ginsei-shogi.json) |
 | Sekai to Sekai no Mannaka de | 187532 | [187532-sekai-to-sekai-no-mannaka-de.json](./187532-sekai-to-sekai-no-mannaka-de.json) |
 | Sekibanki Head Adventure | 158520 | [158520-sekibanki-head-adventure.json](./158520-sekibanki-head-adventure.json) |
@@ -7012,6 +7019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SokoTerm | 379050 | [379050-sokoterm.json](./379050-sokoterm.json) |
 | Sokowand | 335261 | [335261-sokowand.json](./335261-sokowand.json) |
 | SokoWinter | 187401 | [187401-sokowinter.json](./187401-sokowinter.json) |
+| Sokudoku Master | 83468 | [83468-sokudoku-master.json](./83468-sokudoku-master.json) |
 | Sol | 258519 | [258519-sol.json](./258519-sol.json) |
 | Sol 705 | 160175 | [160175-sol-705.json](./160175-sol-705.json) |
 | Sol and the Endless Orbit | 375825 | [375825-sol-and-the-endless-orbit.json](./375825-sol-and-the-endless-orbit.json) |
@@ -11480,6 +11488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Version 1.0 | 252671 | [252671-stellar-version-1-0.json](./252671-stellar-version-1-0.json) |
 | Stellar War | 173260 | [173260-stellar-war.json](./173260-stellar-war.json) |
 | Stellar Warfare | 143701 | [143701-stellar-warfare.json](./143701-stellar-warfare.json) |
+| Stellar Warrior | 83604 | [83604-stellar-warrior.json](./83604-stellar-warrior.json) |
 | Stellar Warrior: Master Levels | 171929 | [171929-stellar-warrior-master-levels.json](./171929-stellar-warrior-master-levels.json) |
 | Stellar-Fire | 14515 | [14515-stellar-fire.json](./14515-stellar-fire.json) |
 | Stellar!: Infinity defense | 299453 | [299453-stellar-infinity-defense.json](./299453-stellar-infinity-defense.json) |
@@ -11794,6 +11803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop Slapping Tenshi! | 330364 | [330364-stop-slapping-tenshi.json](./330364-stop-slapping-tenshi.json) |
 | Stop Stress: A Day of Fury | 67253 | [67253-stop-stress-a-day-of-fury.json](./67253-stop-stress-a-day-of-fury.json) |
 | Stop the Blight | 338748 | [338748-stop-the-blight.json](./338748-stop-the-blight.json) |
+| Stop the Bus | 83464 | [83464-stop-the-bus.json](./83464-stop-the-bus.json) |
 | Stop the Press! | 381631 | [381631-stop-the-press.json](./381631-stop-the-press.json) |
 | Stop the Slimes | 273967 | [273967-stop-the-slimes.json](./273967-stop-the-slimes.json) |
 | Stop Thief | 301438 | [301438-stop-thief.json](./301438-stop-thief.json) |
