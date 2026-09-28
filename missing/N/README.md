@@ -2907,6 +2907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonstop Knight | 57367 | [57367-nonstop-knight.json](./57367-nonstop-knight.json) |
 | Nontan to Issho: Hoshi no Okurimono | 268518 | [268518-nontan-to-issho-hoshi-no-okurimono.json](./268518-nontan-to-issho-hoshi-no-okurimono.json) |
 | Nontan to Issho: Nohara de Asobo | 268519 | [268519-nontan-to-issho-nohara-de-asobo.json](./268519-nontan-to-issho-nohara-de-asobo.json) |
+| Noodle Arm Royale | 61736 | [61736-noodle-arm-royale.json](./61736-noodle-arm-royale.json) |
 | Noodle Fight | 269313 | [269313-noodle-fight.json](./269313-noodle-fight.json) |
 | Noodle Jump | 417502 | [417502-noodle-jump.json](./417502-noodle-jump.json) |
 | Noodle Party | 209680 | [209680-noodle-party.json](./209680-noodle-party.json) |
