@@ -1777,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenka Touitsu SSB: Scenario - Ryuuko Aiutsu | 283849 | [283849-tenka-touitsu-ssb-scenario-ryuuko-aiutsu.json](./283849-tenka-touitsu-ssb-scenario-ryuuko-aiutsu.json) |
 | Tenka Touitsu: SSB | 278496 | [278496-tenka-touitsu-ssb.json](./278496-tenka-touitsu-ssb.json) |
 | Tenko's Magical Sword Quest | 194991 | [194991-tenkos-magical-sword-quest.json](./194991-tenkos-magical-sword-quest.json) |
+| TenMinions | 113904 | [113904-tenminions.json](./113904-tenminions.json) |
 | Tennis | 131451 | [131451-tennis.json](./131451-tennis.json) |
 | Tennis | 131485 | [131485-tennis.json](./131485-tennis.json) |
 | Tennis | 131513 | [131513-tennis.json](./131513-tennis.json) |
@@ -5215,6 +5216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Revenant | 280881 | [280881-the-last-revenant.json](./280881-the-last-revenant.json) |
 | The Last Rocket | 64645 | [64645-the-last-rocket.json](./64645-the-last-rocket.json) |
 | The Last Rolling Hero | 80939 | [80939-the-last-rolling-hero.json](./80939-the-last-rolling-hero.json) |
+| The Last Roman Village | 113837 | [113837-the-last-roman-village.json](./113837-the-last-roman-village.json) |
 | The Last Rose | 287739 | [287739-the-last-rose.json](./287739-the-last-rose.json) |
 | The Last Run: Dead Zombie Shooter | 209142 | [209142-the-last-run-dead-zombie-shooter.json](./209142-the-last-run-dead-zombie-shooter.json) |
 | The Last Running Hero | 188011 | [188011-the-last-running-hero.json](./188011-the-last-running-hero.json) |
@@ -5253,6 +5255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sunshine | 34760 | [34760-the-last-sunshine.json](./34760-the-last-sunshine.json) |
 | The Last Sunshine: Rekindled | 150612 | [150612-the-last-sunshine-rekindled.json](./150612-the-last-sunshine-rekindled.json) |
 | The Last Survey | 139318 | [139318-the-last-survey.json](./139318-the-last-survey.json) |
+| The Last Survivor | 113878 | [113878-the-last-survivor.json](./113878-the-last-survivor.json) |
 | The Last Tale | 403004 | [403004-the-last-tale.json](./403004-the-last-tale.json) |
 | The Last Tape | 334841 | [334841-the-last-tape.json](./334841-the-last-tape.json) |
 | The Last Taxi | 132822 | [132822-the-last-taxi.json](./132822-the-last-taxi.json) |
@@ -8916,6 +8919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thy Knights of Climbalot | 109675 | [109675-thy-knights-of-climbalot.json](./109675-thy-knights-of-climbalot.json) |
 | Thyranya | 329134 | [329134-thyranya.json](./329134-thyranya.json) |
 | Thysiastery | 334695 | [334695-thysiastery.json](./334695-thysiastery.json) |
+| Tia.Sav | 113884 | [113884-tia-sav.json](./113884-tia-sav.json) |
 | Tialucy and the Underground Labyrinth | 82845 | [82845-tialucy-and-the-underground-labyrinth.json](./82845-tialucy-and-the-underground-labyrinth.json) |
 | Tiamat X | 35900 | [35900-tiamat-x.json](./35900-tiamat-x.json) |
 | Tiamat's Drink | 127198 | [127198-tiamats-drink.json](./127198-tiamats-drink.json) |
@@ -10088,6 +10092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timing X | 402370 | [402370-timing-x.json](./402370-timing-x.json) |
 | Timmy & Mousey: Endless Runner | 183331 | [183331-timmy-and-mousey-endless-runner.json](./183331-timmy-and-mousey-endless-runner.json) |
 | Timmy the Dream Hunter | 307299 | [307299-timmy-the-dream-hunter.json](./307299-timmy-the-dream-hunter.json) |
+| Timmy Time | 113890 | [113890-timmy-time.json](./113890-timmy-time.json) |
 | Timmy Types | 214540 | [214540-timmy-types.json](./214540-timmy-types.json) |
 | Timmy's Adventures | 224648 | [224648-timmys-adventures.json](./224648-timmys-adventures.json) |
 | Timmy's adventures : VerbMon | 123550 | [123550-timmys-adventures-verbmon.json](./123550-timmys-adventures-verbmon.json) |
@@ -10113,6 +10118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinier Me | 327215 | [327215-tinier-me.json](./327215-tinier-me.json) |
 | Tink: The Last Fairy | 289946 | [289946-tink-the-last-fairy.json](./289946-tink-the-last-fairy.json) |
 | Tinker | 51212 | [51212-tinker.json](./51212-tinker.json) |
+| Tinker Bell: 2 Disney Games | 113889 | [113889-tinker-bell-2-disney-games.json](./113889-tinker-bell-2-disney-games.json) |
 | Tinker Racers | 129739 | [129739-tinker-racers.json](./129739-tinker-racers.json) |
 | Tinker's Ascent | 355564 | [355564-tinkers-ascent.json](./355564-tinkers-ascent.json) |
 | Tinkerlands: A Shipwrecked Adventure | 274567 | [274567-tinkerlands-a-shipwrecked-adventure.json](./274567-tinkerlands-a-shipwrecked-adventure.json) |
@@ -13409,6 +13415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Crack Explorer | 208369 | [208369-trivia-crack-explorer.json](./208369-trivia-crack-explorer.json) |
 | Trivia Fantasy | 370767 | [370767-trivia-fantasy.json](./370767-trivia-fantasy.json) |
 | Trivia for Dummies | 187456 | [187456-trivia-for-dummies.json](./187456-trivia-for-dummies.json) |
+| Trivia Munchers Deluxe | 113908 | [113908-trivia-munchers-deluxe.json](./113908-trivia-munchers-deluxe.json) |
 | Trivia Murder Party 3 | 338920 | [338920-trivia-murder-party-3.json](./338920-trivia-murder-party-3.json) |
 | Trivia Night | 41955 | [41955-trivia-night.json](./41955-trivia-night.json) |
 | Trivia Party | 195270 | [195270-trivia-party.json](./195270-trivia-party.json) |
