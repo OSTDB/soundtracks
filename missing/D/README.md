@@ -2751,6 +2751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densha de D: Shining Stage | 137560 | [137560-densha-de-d-shining-stage.json](./137560-densha-de-d-shining-stage.json) |
 | Densha de GO! | 146907 | [146907-densha-de-go.json](./146907-densha-de-go.json) |
 | Densha de GO! 64 | 3469 | [3469-densha-de-go-64.json](./3469-densha-de-go-64.json) |
+| Densha de GO! EX | 94351 | [94351-densha-de-go-ex.json](./94351-densha-de-go-ex.json) |
 | Densha de GO! Tokubetsu-hen: Fukkatsu Shouwa no Yamanotesen | 66660 | [66660-densha-de-go-tokubetsu-hen-fukkatsu-shouwa-no-yamanotesen.json](./66660-densha-de-go-tokubetsu-hen-fukkatsu-shouwa-no-yamanotesen.json) |
 | Densha Unten Shirei! Tokaido-hen | 221739 | [221739-densha-unten-shirei-tokaido-hen.json](./221739-densha-unten-shirei-tokaido-hen.json) |
 | Densha Unten Shirei! Tokyo-wan-hen | 221738 | [221738-densha-unten-shirei-tokyo-wan-hen.json](./221738-densha-unten-shirei-tokyo-wan-hen.json) |
@@ -7297,6 +7298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Nukem: Four Feathers | 230210 | [230210-duck-nukem-four-feathers.json](./230210-duck-nukem-four-feathers.json) |
 | Duck on the Run | 174349 | [174349-duck-on-the-run.json](./174349-duck-on-the-run.json) |
 | Duck Paradox | 208209 | [208209-duck-paradox.json](./208209-duck-paradox.json) |
+| Duck Punt | 94339 | [94339-duck-punt.json](./94339-duck-punt.json) |
 | Duck Race | 142875 | [142875-duck-race.json](./142875-duck-race.json) |
 | Duck Run | 309375 | [309375-duck-run.json](./309375-duck-run.json) |
 | Duck Run | 87570 | [87570-duck-run.json](./87570-duck-run.json) |
