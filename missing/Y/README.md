@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza: Like a Dragon - Pachislot Machines | 382341 | [382341-yakuza-like-a-dragon-pachislot-machines.json](./382341-yakuza-like-a-dragon-pachislot-machines.json) |
 | Yakyosho | 201679 | [201679-yakyosho.json](./201679-yakyosho.json) |
 | Yakyuuken | 246486 | [246486-yakyuuken.json](./246486-yakyuuken.json) |
+| Yakyuukyou | 67390 | [67390-yakyuukyou.json](./67390-yakyuukyou.json) |
 | Yakzee: Remastered Edition | 308369 | [308369-yakzee-remastered-edition.json](./308369-yakzee-remastered-edition.json) |
 | Yakzee! | 308367 | [308367-yakzee.json](./308367-yakzee.json) |
 | Yama no Susume: Next Summit - Ano Yama ni, Mou Ichido | 277306 | [277306-yama-no-susume-next-summit-ano-yama-ni-mou-ichido.json](./277306-yama-no-susume-next-summit-ano-yama-ni-mou-ichido.json) |
