@@ -2576,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bejeweled Classic HD | 102591 | [102591-bejeweled-classic-hd.json](./102591-bejeweled-classic-hd.json) |
 | Bejeweled Deluxe | 220074 | [220074-bejeweled-deluxe.json](./220074-bejeweled-deluxe.json) |
 | Bejeweled Deluxe | 27819 | [27819-bejeweled-deluxe.json](./27819-bejeweled-deluxe.json) |
+| Bekkouame | 93708 | [93708-bekkouame.json](./93708-bekkouame.json) |
 | Bela Kovacs and the Trail of Blood | 299758 | [299758-bela-kovacs-and-the-trail-of-blood.json](./299758-bela-kovacs-and-the-trail-of-blood.json) |
 | Belial | 14295 | [14295-belial.json](./14295-belial.json) |
 | Belial Red | 236211 | [236211-belial-red.json](./236211-belial-red.json) |
@@ -5987,6 +5988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing | 78619 | [78619-boxing.json](./78619-boxing.json) |
 | Boxing Babes: Sexy Fight Hentai Anime Girls | 165016 | [165016-boxing-babes-sexy-fight-hentai-anime-girls.json](./165016-boxing-babes-sexy-fight-hentai-anime-girls.json) |
 | Boxing Club: Ultimate Fighting | 108469 | [108469-boxing-club-ultimate-fighting.json](./108469-boxing-club-ultimate-fighting.json) |
+| Boxing Fighter: Super Punch | 93717 | [93717-boxing-fighter-super-punch.json](./93717-boxing-fighter-super-punch.json) |
 | Boxing Fighting Def Jam NY | 196582 | [196582-boxing-fighting-def-jam-ny.json](./196582-boxing-fighting-def-jam-ny.json) |
 | Boxing Go | 293112 | [293112-boxing-go.json](./293112-boxing-go.json) |
 | Boxing Gym Story | 174339 | [174339-boxing-gym-story.json](./174339-boxing-gym-story.json) |
@@ -6309,6 +6311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brazen Blaze | 265663 | [265663-brazen-blaze.json](./265663-brazen-blaze.json) |
 | Braziball | 138587 | [138587-braziball.json](./138587-braziball.json) |
 | Brazil Fencing Club VR | 275100 | [275100-brazil-fencing-club-vr.json](./275100-brazil-fencing-club-vr.json) |
+| Brazilian Root | 93709 | [93709-brazilian-root.json](./93709-brazilian-root.json) |
 | Brazzers: The Game | 200634 | [200634-brazzers-the-game.json](./200634-brazzers-the-game.json) |
 | Breach | 135167 | [135167-breach.json](./135167-breach.json) |
 | Breach | 141779 | [141779-breach.json](./141779-breach.json) |
@@ -7490,6 +7493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Tail Banquet | 403789 | [403789-burning-tail-banquet.json](./403789-burning-tail-banquet.json) |
 | Burning Vengeance | 241520 | [241520-burning-vengeance.json](./241520-burning-vengeance.json) |
 | Burning, Crackling | 396540 | [396540-burning-crackling.json](./396540-burning-crackling.json) |
+| BurningBridges VR | 93738 | [93738-burningbridges-vr.json](./93738-burningbridges-vr.json) |
 | Burnit Quest | 195178 | [195178-burnit-quest.json](./195178-burnit-quest.json) |
 | Burnogue | 377090 | [377090-burnogue.json](./377090-burnogue.json) |
 | Burnout | 14355 | [14355-burnout.json](./14355-burnout.json) |
