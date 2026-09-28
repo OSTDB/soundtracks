@@ -7809,6 +7809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles & Chaos | 301582 | [301582-puzzles-and-chaos.json](./301582-puzzles-and-chaos.json) |
 | Puzzles & Survival | 215091 | [215091-puzzles-and-survival.json](./215091-puzzles-and-survival.json) |
 | Puzzles At Mystery Manor | 32883 | [32883-puzzles-at-mystery-manor.json](./32883-puzzles-at-mystery-manor.json) |
+| Puzzles for kids - Animal Puzzles | 93702 | [93702-puzzles-for-kids-animal-puzzles.json](./93702-puzzles-for-kids-animal-puzzles.json) |
 | Puzzles for Smart: Birds | 110978 | [110978-puzzles-for-smart-birds.json](./110978-puzzles-for-smart-birds.json) |
 | Puzzles for smart: Cats | 104017 | [104017-puzzles-for-smart-cats.json](./104017-puzzles-for-smart-cats.json) |
 | Puzzles for smart: Dogs | 107848 | [107848-puzzles-for-smart-dogs.json](./107848-puzzles-for-smart-dogs.json) |
