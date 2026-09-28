@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tag Royale | 166600 | [166600-tag-royale.json](./166600-tag-royale.json) |
 | Tag Team Wrestling | 286612 | [286612-tag-team-wrestling.json](./286612-tag-team-wrestling.json) |
 | Tag War VR | 336904 | [336904-tag-war-vr.json](./336904-tag-war-vr.json) |
+| Tag: The Power of Paint | 101055 | [101055-tag-the-power-of-paint.json](./101055-tag-the-power-of-paint.json) |
 | Tag.Io | 129726 | [129726-tag-io.json](./129726-tag-io.json) |
 | Tagalon | 362471 | [362471-tagalon.json](./362471-tagalon.json) |
 | TAGAP 4 | 321139 | [321139-tagap-4.json](./321139-tagap-4.json) |
@@ -1091,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapestry | 216327 | [216327-tapestry.json](./216327-tapestry.json) |
 | Tapeworm | 130772 | [130772-tapeworm.json](./130772-tapeworm.json) |
 | Tapeworm Disco Puzzle | 153952 | [153952-tapeworm-disco-puzzle.json](./153952-tapeworm-disco-puzzle.json) |
+| TapGame - Knife Up | 101088 | [101088-tapgame-knife-up.json](./101088-tapgame-knife-up.json) |
 | Tapgym | 261515 | [261515-tapgym.json](./261515-tapgym.json) |
 | Tapioka Panic | 259829 | [259829-tapioka-panic.json](./259829-tapioka-panic.json) |
 | TapLab | 233088 | [233088-taplab.json](./233088-taplab.json) |
@@ -7989,6 +7991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vengeance Of Lady Witch | 250964 | [250964-the-vengeance-of-lady-witch.json](./250964-the-vengeance-of-lady-witch.json) |
 | The Vertigo lite | 129665 | [129665-the-vertigo-lite.json](./129665-the-vertigo-lite.json) |
 | The Very Big Cave Adventure | 26477 | [26477-the-very-big-cave-adventure.json](./26477-the-very-big-cave-adventure.json) |
+| The Very Hungry Caterpillar: Play & Explore | 101072 | [101072-the-very-hungry-caterpillar-play-and-explore.json](./101072-the-very-hungry-caterpillar-play-and-explore.json) |
 | The Very Idle Game | 310750 | [310750-the-very-idle-game.json](./310750-the-very-idle-game.json) |
 | The very last farm | 185020 | [185020-the-very-last-farm.json](./185020-the-very-last-farm.json) |
 | The very long walk | 77655 | [77655-the-very-long-walk.json](./77655-the-very-long-walk.json) |
@@ -9376,6 +9379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Mission | 37170 | [37170-tiger-mission.json](./37170-tiger-mission.json) |
 | Tiger Rescue | 159049 | [159049-tiger-rescue.json](./159049-tiger-rescue.json) |
 | Tiger Road | 12864 | [12864-tiger-road.json](./12864-tiger-road.json) |
+| Tiger SImulator | 101053 | [101053-tiger-simulator.json](./101053-tiger-simulator.json) |
 | Tiger Simulator 3D | 96013 | [96013-tiger-simulator-3d.json](./96013-tiger-simulator-3d.json) |
 | Tiger Soldier I | 113189 | [113189-tiger-soldier-i.json](./113189-tiger-soldier-i.json) |
 | Tiger Soldier I: MP007 | 173707 | [173707-tiger-soldier-i-mp007.json](./173707-tiger-soldier-i-mp007.json) |
@@ -12025,6 +12029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toys Gun Fire Boom | 55467 | [55467-toys-gun-fire-boom.json](./55467-toys-gun-fire-boom.json) |
 | Toys Jigsaw Puzzle | 100748 | [100748-toys-jigsaw-puzzle.json](./100748-toys-jigsaw-puzzle.json) |
 | Toys Moto | 107664 | [107664-toys-moto.json](./107664-toys-moto.json) |
+| Toys Pop | 101078 | [101078-toys-pop.json](./101078-toys-pop.json) |
 | Toys vs. Monsters | 85451 | [85451-toys-vs-monsters.json](./85451-toys-vs-monsters.json) |
 | Toys: Crash Arena | 221396 | [221396-toys-crash-arena.json](./221396-toys-crash-arena.json) |
 | ToyShot VR | 112982 | [112982-toyshot-vr.json](./112982-toyshot-vr.json) |
@@ -12838,6 +12843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tralalero Tralala Wars | 351099 | [351099-tralalero-tralala-wars.json](./351099-tralalero-tralala-wars.json) |
 | Tralalero Tralala: Escape Backrooms | 367977 | [367977-tralalero-tralala-escape-backrooms.json](./367977-tralalero-tralala-escape-backrooms.json) |
 | Tralalero Tralala: Survive the Night | 352385 | [352385-tralalero-tralala-survive-the-night.json](./352385-tralalero-tralala-survive-the-night.json) |
+| Tram Simulator Duesseldorf | 101082 | [101082-tram-simulator-duesseldorf.json](./101082-tram-simulator-duesseldorf.json) |
 | Tramp | 55845 | [55845-tramp.json](./55845-tramp.json) |
 | Trampoline | 172661 | [172661-trampoline.json](./172661-trampoline.json) |
 | TramSim Munich | 165382 | [165382-tramsim-munich.json](./165382-tramsim-munich.json) |
