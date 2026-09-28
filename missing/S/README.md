@@ -2855,6 +2855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shades: Shadow Fight Roguelike | 300698 | [300698-shades-shadow-fight-roguelike.json](./300698-shades-shadow-fight-roguelike.json) |
 | Shadey's Quest | 337154 | [337154-shadeys-quest.json](./337154-shadeys-quest.json) |
 | ShadO | 10820 | [10820-shado.json](./10820-shado.json) |
+| Shadoan | 93134 | [93134-shadoan.json](./93134-shadoan.json) |
 | Shadoblitz | 345034 | [345034-shadoblitz.json](./345034-shadoblitz.json) |
 | Shadow | 180611 | [180611-shadow.json](./180611-shadow.json) |
 | Shadow | 286061 | [286061-shadow.json](./286061-shadow.json) |
@@ -4164,6 +4165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Show do Milhão Volume 3 | 122362 | [122362-show-do-milhao-volume-3.json](./122362-show-do-milhao-volume-3.json) |
 | Show do Milho Grande | 359981 | [359981-show-do-milho-grande.json](./359981-show-do-milho-grande.json) |
 | Show It 2 Me | 81216 | [81216-show-it-2-me.json](./81216-show-it-2-me.json) |
+| Show Jumping | 93178 | [93178-show-jumping.json](./93178-show-jumping.json) |
 | Show Me How To Live | 303064 | [303064-show-me-how-to-live.json](./303064-show-me-how-to-live.json) |
 | Show Me the Way | 113517 | [113517-show-me-the-way.json](./113517-show-me-the-way.json) |
 | Showa American Story | 186613 | [186613-showa-american-story.json](./186613-showa-american-story.json) |
@@ -4927,6 +4929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sing 4: The Hits Edition | 50602 | [50602-sing-4-the-hits-edition.json](./50602-sing-4-the-hits-edition.json) |
 | Singalongsong | 302932 | [302932-singalongsong.json](./302932-singalongsong.json) |
 | Singaria | 120762 | [120762-singaria.json](./120762-singaria.json) |
+| Singer Izek | 93161 | [93161-singer-izek.json](./93161-singer-izek.json) |
 | SingFever: Your Sing Game | 365871 | [365871-singfever-your-sing-game.json](./365871-singfever-your-sing-game.json) |
 | Singing Easter Eggs | 293217 | [293217-singing-easter-eggs.json](./293217-singing-easter-eggs.json) |
 | Singing Horses | 293218 | [293218-singing-horses.json](./293218-singing-horses.json) |
@@ -6701,6 +6704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowball Fight 2025 | 379038 | [379038-snowball-fight-2025.json](./379038-snowball-fight-2025.json) |
 | Snowball Fight At Christmas | 165020 | [165020-snowball-fight-at-christmas.json](./165020-snowball-fight-at-christmas.json) |
 | Snowball Go Go Go | 247208 | [247208-snowball-go-go-go.json](./247208-snowball-go-go-go.json) |
+| Snowball Run | 93156 | [93156-snowball-run.json](./93156-snowball-run.json) |
 | Snowball.io | 231898 | [231898-snowball-io.json](./231898-snowball-io.json) |
 | Snowbird Solitaire | 354998 | [354998-snowbird-solitaire.json](./354998-snowbird-solitaire.json) |
 | Snowblind Aces | 216239 | [216239-snowblind-aces.json](./216239-snowblind-aces.json) |
@@ -7251,6 +7255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solstice | 324503 | [324503-solstice.json](./324503-solstice.json) |
 | Solstice Chronicles: MIA | 27381 | [27381-solstice-chronicles-mia.json](./27381-solstice-chronicles-mia.json) |
 | Solstice: Digital Collector's Edition | 154447 | [154447-solstice-digital-collectors-edition.json](./154447-solstice-digital-collectors-edition.json) |
+| Soltys | 93179 | [93179-soltys.json](./93179-soltys.json) |
 | Soluble Dream | 259591 | [259591-soluble-dream.json](./259591-soluble-dream.json) |
 | Solune | 272359 | [272359-solune.json](./272359-solune.json) |
 | Solus | 137016 | [137016-solus.json](./137016-solus.json) |
@@ -8800,6 +8805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacecraft Tactics | 274038 | [274038-spacecraft-tactics.json](./274038-spacecraft-tactics.json) |
 | Spacecraft War | 109879 | [109879-spacecraft-war.json](./109879-spacecraft-war.json) |
 | SpaceCrooks: The End of Time | 216883 | [216883-spacecrooks-the-end-of-time.json](./216883-spacecrooks-the-end-of-time.json) |
+| Spaced | 93176 | [93176-spaced.json](./93176-spaced.json) |
 | Spaced Out | 296360 | [296360-spaced-out.json](./296360-spaced-out.json) |
 | SpaceEngine | 7585 | [7585-spaceengine.json](./7585-spaceengine.json) |
 | SpaceEx Commander | 157530 | [157530-spaceex-commander.json](./157530-spaceex-commander.json) |
@@ -9108,6 +9114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Tapping Idle RPG for Touhou | 297644 | [297644-speed-tapping-idle-rpg-for-touhou.json](./297644-speed-tapping-idle-rpg-for-touhou.json) |
 | Speed Thief | 54383 | [54383-speed-thief.json](./54383-speed-thief.json) |
 | Speed Track Racing | 225757 | [225757-speed-track-racing.json](./225757-speed-track-racing.json) |
+| Speed Trip | 93144 | [93144-speed-trip.json](./93144-speed-trip.json) |
 | Speed Tube Racer | 200202 | [200202-speed-tube-racer.json](./200202-speed-tube-racer.json) |
 | Speed Up | 105331 | [105331-speed-up.json](./105331-speed-up.json) |
 | Speed X: Extreme 3D Car Racing | 251211 | [251211-speed-x-extreme-3d-car-racing.json](./251211-speed-x-extreme-3d-car-racing.json) |
@@ -12322,6 +12329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strip Me Down: Office Worker | 392935 | [392935-strip-me-down-office-worker.json](./392935-strip-me-down-office-worker.json) |
 | Strip n Play with Valerie | 221205 | [221205-strip-n-play-with-valerie.json](./221205-strip-n-play-with-valerie.json) |
 | Strip Poker II | 78962 | [78962-strip-poker-ii.json](./78962-strip-poker-ii.json) |
+| Strip4 | 93182 | [93182-strip4.json](./93182-strip4.json) |
 | Striping Fruits | 147410 | [147410-striping-fruits.json](./147410-striping-fruits.json) |
 | Stripper Anya 2: X-MiGuFighters | 75168 | [75168-stripper-anya-2-x-migufighters.json](./75168-stripper-anya-2-x-migufighters.json) |
 | Stripper Anya: Christmas Special | 385311 | [385311-stripper-anya-christmas-special.json](./385311-stripper-anya-christmas-special.json) |
@@ -15034,6 +15042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swan's Song | 342283 | [342283-swans-song.json](./342283-swans-song.json) |
 | Swangman | 183366 | [183366-swangman.json](./183366-swangman.json) |
 | Swap | 219556 | [219556-swap.json](./219556-swap.json) |
+| Swap | 93171 | [93171-swap.json](./93171-swap.json) |
 | Swap Blocks | 44217 | [44217-swap-blocks.json](./44217-swap-blocks.json) |
 | Swap Heroes | 197242 | [197242-swap-heroes.json](./197242-swap-heroes.json) |
 | Swap Swap | 110536 | [110536-swap-swap.json](./110536-swap-swap.json) |
