@@ -3994,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimms Nightmare | 109177 | [109177-grimms-nightmare.json](./109177-grimms-nightmare.json) |
 | Grimms Notes | 193846 | [193846-grimms-notes.json](./193846-grimms-notes.json) |
 | GrimmStar | 125331 | [125331-grimmstar.json](./125331-grimmstar.json) |
+| Grimoire | 86187 | [86187-grimoire.json](./86187-grimoire.json) |
 | Grimoire Arena | 125328 | [125328-grimoire-arena.json](./125328-grimoire-arena.json) |
 | Grimoire of Gaia | 237528 | [237528-grimoire-of-gaia.json](./237528-grimoire-of-gaia.json) |
 | Grimoire Organizer | 282146 | [282146-grimoire-organizer.json](./282146-grimoire-organizer.json) |
