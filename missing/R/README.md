@@ -1558,6 +1558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebuild / Resist | 185523 | [185523-rebuild-resist.json](./185523-rebuild-resist.json) |
 | Rebuild 2 | 342030 | [342030-rebuild-2.json](./342030-rebuild-2.json) |
 | Rebuild the Wall | 289309 | [289309-rebuild-the-wall.json](./289309-rebuild-the-wall.json) |
+| Rebuild: Gangs of Deadsville | 65024 | [65024-rebuild-gangs-of-deadsville.json](./65024-rebuild-gangs-of-deadsville.json) |
 | Rebuilding Civilization | 355227 | [355227-rebuilding-civilization.json](./355227-rebuilding-civilization.json) |
 | Rebungered!! That Time I Got Reincarnated As A Bunger! | 405474 | [405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json](./405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json) |
 | Rec Room | 32617 | [32617-rec-room.json](./32617-rec-room.json) |
