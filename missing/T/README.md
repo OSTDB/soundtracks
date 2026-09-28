@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactile Wars | 76564 | [76564-tactile-wars.json](./76564-tactile-wars.json) |
 | Tactix | 379981 | [379981-tactix.json](./379981-tactix.json) |
 | Tactris | 384800 | [384800-tactris.json](./384800-tactris.json) |
+| TacWars | 94881 | [94881-tacwars.json](./94881-tacwars.json) |
 | Tad the Lost Explorer and the Emerald Tablet | 204124 | [204124-tad-the-lost-explorer-and-the-emerald-tablet.json](./204124-tad-the-lost-explorer-and-the-emerald-tablet.json) |
 | Tad the Lost Explorer and the Emerald Tablet: Craziest and Madness Edition | 250359 | [250359-tad-the-lost-explorer-and-the-emerald-tablet-craziest-and-madness-edition.json](./250359-tad-the-lost-explorer-and-the-emerald-tablet-craziest-and-madness-edition.json) |
 | Tadaima Yuusha Boshuuchuu Okawari | 37799 | [37799-tadaima-yuusha-boshuuchuu-okawari.json](./37799-tadaima-yuusha-boshuuchuu-okawari.json) |
@@ -6246,6 +6247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Odyssey: Winds of Athena | 69579 | [69579-the-odyssey-winds-of-athena.json](./69579-the-odyssey-winds-of-athena.json) |
 | The Offering | 238754 | [238754-the-offering.json](./238754-the-offering.json) |
 | The Office | 203564 | [203564-the-office.json](./203564-the-office.json) |
+| The Office | 94901 | [94901-the-office.json](./94901-the-office.json) |
 | The Office Killer | 344386 | [344386-the-office-killer.json](./344386-the-office-killer.json) |
 | The Ogi: Cycles | 280250 | [280250-the-ogi-cycles.json](./280250-the-ogi-cycles.json) |
 | The Ogre King | 410446 | [410446-the-ogre-king.json](./410446-the-ogre-king.json) |
@@ -12894,6 +12896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transarctica | 10857 | [10857-transarctica.json](./10857-transarctica.json) |
 | Transball | 47554 | [47554-transball.json](./47554-transball.json) |
 | TransBot | 29136 | [29136-transbot.json](./29136-transbot.json) |
+| Transcend | 94916 | [94916-transcend.json](./94916-transcend.json) |
 | Transcender | 140484 | [140484-transcender.json](./140484-transcender.json) |
 | Transcontinental | 328281 | [328281-transcontinental.json](./328281-transcontinental.json) |
 | Transfer of Essence | 156031 | [156031-transfer-of-essence.json](./156031-transfer-of-essence.json) |
