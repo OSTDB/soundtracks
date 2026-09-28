@@ -4920,6 +4920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Board Games Live | 86121 | [86121-board-games-live.json](./86121-board-games-live.json) |
 | Board Games VR | 74457 | [74457-board-games-vr.json](./74457-board-games-vr.json) |
 | Board of the Future | 406166 | [406166-board-of-the-future.json](./406166-board-of-the-future.json) |
+| Board Quizz Adventure | 117795 | [117795-board-quizz-adventure.json](./117795-board-quizz-adventure.json) |
 | Boardfall | 375945 | [375945-boardfall.json](./375945-boardfall.json) |
 | Boardlike | 376538 | [376538-boardlike.json](./376538-boardlike.json) |
 | Boardmancer | 395866 | [395866-boardmancer.json](./395866-boardmancer.json) |
