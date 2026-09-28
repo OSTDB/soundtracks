@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caiaque | 305264 | [305264-caiaque.json](./305264-caiaque.json) |
 | Caillou | 282059 | [282059-caillou.json](./282059-caillou.json) |
 | Caillou: Four Seasons of Fun | 137020 | [137020-caillou-four-seasons-of-fun.json](./137020-caillou-four-seasons-of-fun.json) |
+| Caillou: Magic Playhouse | 73885 | [73885-caillou-magic-playhouse.json](./73885-caillou-magic-playhouse.json) |
 | Caillou: Ready to Read | 206700 | [206700-caillou-ready-to-read.json](./206700-caillou-ready-to-read.json) |
 | Cain x Nica | 304609 | [304609-cain-x-nica.json](./304609-cain-x-nica.json) |
 | Cairn | 178665 | [178665-cairn.json](./178665-cairn.json) |
@@ -3862,6 +3863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Bus Tycoon | 89810 | [89810-city-bus-tycoon.json](./89810-city-bus-tycoon.json) |
 | City Car Driving 2.0 | 403690 | [403690-city-car-driving-2-0.json](./403690-city-car-driving-2-0.json) |
 | City Car Parking Simulator | 256336 | [256336-city-car-parking-simulator.json](./256336-city-car-parking-simulator.json) |
+| City Centurian | 73737 | [73737-city-centurian.json](./73737-city-centurian.json) |
 | City Climber | 27546 | [27546-city-climber.json](./27546-city-climber.json) |
 | City Connection | 288842 | [288842-city-connection.json](./288842-city-connection.json) |
 | City Construction Simulator | 234746 | [234746-city-construction-simulator.json](./234746-city-construction-simulator.json) |
@@ -5778,6 +5780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Bob in the Bouncing Factory | 93158 | [93158-construction-bob-in-the-bouncing-factory.json](./93158-construction-bob-in-the-bouncing-factory.json) |
 | Construction Charlie | 108081 | [108081-construction-charlie.json](./108081-construction-charlie.json) |
 | Construction Crew | 391899 | [391899-construction-crew.json](./391899-construction-crew.json) |
+| Construction Destruction | 73748 | [73748-construction-destruction.json](./73748-construction-destruction.json) |
 | Construction Machine Simulator 2023: Hard Truck Work Job | 259233 | [259233-construction-machine-simulator-2023-hard-truck-work-job.json](./259233-construction-machine-simulator-2023-hard-truck-work-job.json) |
 | Construction Machines Sim | 201141 | [201141-construction-machines-sim.json](./201141-construction-machines-sim.json) |
 | Construction Playground | 164903 | [164903-construction-playground.json](./164903-construction-playground.json) |
@@ -6106,6 +6109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cops N Robbers: Pixel Craft Gun | 400445 | [400445-cops-n-robbers-pixel-craft-gun.json](./400445-cops-n-robbers-pixel-craft-gun.json) |
 | Cops N Robbers: Prison Games 1 | 400441 | [400441-cops-n-robbers-prison-games-1.json](./400441-cops-n-robbers-prison-games-1.json) |
 | Cops N Robbers: Prison Games 2 | 400443 | [400443-cops-n-robbers-prison-games-2.json](./400443-cops-n-robbers-prison-games-2.json) |
+| Copta Snatch | 73865 | [73865-copta-snatch.json](./73865-copta-snatch.json) |
 | Copter | 291600 | [291600-copter.json](./291600-copter.json) |
 | Copter Cove | 353980 | [353980-copter-cove.json](./353980-copter-cove.json) |
 | Copycat | 255631 | [255631-copycat.json](./255631-copycat.json) |
