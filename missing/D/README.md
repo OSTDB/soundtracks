@@ -3423,6 +3423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diabolik 02: La Gemma di Salomone | 138713 | [138713-diabolik-02-la-gemma-di-salomone.json](./138713-diabolik-02-la-gemma-di-salomone.json) |
 | Diabolik Lovers Chaos Lineage | 113463 | [113463-diabolik-lovers-chaos-lineage.json](./113463-diabolik-lovers-chaos-lineage.json) |
 | Diabolik Lovers: Haunted Dark Bridal - Limited Edition | 44509 | [44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json](./44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json) |
+| Diabolika | 93159 | [93159-diabolika.json](./93159-diabolika.json) |
 | Diadem of Manstraut | 407349 | [407349-diadem-of-manstraut.json](./407349-diadem-of-manstraut.json) |
 | Diadra Empty | 17133 | [17133-diadra-empty.json](./17133-diadra-empty.json) |
 | Diagnosis -Inma no Note- | 97381 | [97381-diagnosis-inma-no-note.json](./97381-diagnosis-inma-no-note.json) |
@@ -3776,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Exorcist Case_(0); | 247429 | [247429-digital-exorcist-case-0.json](./247429-digital-exorcist-case-0.json) |
 | Digital Extreme Sport Games | 98800 | [98800-digital-extreme-sport-games.json](./98800-digital-extreme-sport-games.json) |
 | Digital Glider Airman | 143655 | [143655-digital-glider-airman.json](./143655-digital-glider-airman.json) |
+| Digital Hazard | 93162 | [93162-digital-hazard.json](./93162-digital-hazard.json) |
 | Digital Jigsaw Puzzle | 104015 | [104015-digital-jigsaw-puzzle.json](./104015-digital-jigsaw-puzzle.json) |
 | Digital Keiba Shinbun: My Trackman | 283300 | [283300-digital-keiba-shinbun-my-trackman.json](./283300-digital-keiba-shinbun-my-trackman.json) |
 | Digital Makeover | 200604 | [200604-digital-makeover.json](./200604-digital-makeover.json) |
@@ -5688,6 +5690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dots Pop : Sexy Hentai Girls | 113012 | [113012-dots-pop-sexy-hentai-girls.json](./113012-dots-pop-sexy-hentai-girls.json) |
 | Dots! | 171484 | [171484-dots.json](./171484-dots.json) |
 | DotSec | 329579 | [329579-dotsec.json](./329579-dotsec.json) |
+| Dotso | 93165 | [93165-dotso.json](./93165-dotso.json) |
 | Dotsubo-chan | 166146 | [166146-dotsubo-chan.json](./166146-dotsubo-chan.json) |
 | Dottania | 197232 | [197232-dottania.json](./197232-dottania.json) |
 | Dottie Dreads Nought | 313475 | [313475-dottie-dreads-nought.json](./313475-dottie-dreads-nought.json) |
@@ -5842,6 +5845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downhill Jam | 181303 | [181303-downhill-jam.json](./181303-downhill-jam.json) |
 | Downhill Slalom | 66952 | [66952-downhill-slalom.json](./66952-downhill-slalom.json) |
 | Downhill Snow | 143643 | [143643-downhill-snow.json](./143643-downhill-snow.json) |
+| Downland | 93146 | [93146-downland.json](./93146-downland.json) |
 | Download RAM Idle | 400222 | [400222-download-ram-idle.json](./400222-download-ram-idle.json) |
 | Download RAM Idle 2 | 400221 | [400221-download-ram-idle-2.json](./400221-download-ram-idle-2.json) |
 | Downpour Dash! | 303485 | [303485-downpour-dash.json](./303485-downpour-dash.json) |
