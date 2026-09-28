@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TaniNani | 127185 | [127185-taninani.json](./127185-taninani.json) |
 | Tanjas Sudoku | 101508 | [101508-tanjas-sudoku.json](./101508-tanjas-sudoku.json) |
 | Tanjou Debut | 41997 | [41997-tanjou-debut.json](./41997-tanjou-debut.json) |
+| Tanjoubi: Kayoizuma (Jishou) Nikki | 77939 | [77939-tanjoubi-kayoizuma-jishou-nikki.json](./77939-tanjoubi-kayoizuma-jishou-nikki.json) |
 | Tank | 247025 | [247025-tank.json](./247025-tank.json) |
 | Tank Arena: Total Operation | 326208 | [326208-tank-arena-total-operation.json](./326208-tank-arena-total-operation.json) |
 | Tank Arkade | 24849 | [24849-tank-arkade.json](./24849-tank-arkade.json) |
@@ -3982,6 +3983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The exact moment | 144790 | [144790-the-exact-moment.json](./144790-the-exact-moment.json) |
 | The Exaggerated Epoch of Edward O'Hare | 147378 | [147378-the-exaggerated-epoch-of-edward-ohare.json](./147378-the-exaggerated-epoch-of-edward-ohare.json) |
 | The eXceed Collection | 64895 | [64895-the-exceed-collection.json](./64895-the-exceed-collection.json) |
+| The Exchange Student: Episode 1 - First Day in Sweden | 77908 | [77908-the-exchange-student-episode-1-first-day-in-sweden.json](./77908-the-exchange-student-episode-1-first-day-in-sweden.json) |
 | The Exchange Student: Episode 2 - Point Club | 72024 | [72024-the-exchange-student-episode-2-point-club.json](./72024-the-exchange-student-episode-2-point-club.json) |
 | The Exclusion Zone Online | 153925 | [153925-the-exclusion-zone-online.json](./153925-the-exclusion-zone-online.json) |
 | The Executioner | 89375 | [89375-the-executioner.json](./89375-the-executioner.json) |
@@ -14047,6 +14049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukumonogatari | 66115 | [66115-tsukumonogatari.json](./66115-tsukumonogatari.json) |
 | Tsukutori | 395001 | [395001-tsukutori.json](./395001-tsukutori.json) |
 | Tsukutte Utau: Saru Band | 230300 | [230300-tsukutte-utau-saru-band.json](./230300-tsukutte-utau-saru-band.json) |
+| Tsukuyomi: Marebito no Uta | 77941 | [77941-tsukuyomi-marebito-no-uta.json](./77941-tsukuyomi-marebito-no-uta.json) |
 | Tsuma ga Kirei ni Natta Wake | 82977 | [82977-tsuma-ga-kirei-ni-natta-wake.json](./82977-tsuma-ga-kirei-ni-natta-wake.json) |
 | Tsumera | 268456 | [268456-tsumera.json](./268456-tsumera.json) |
 | Tsumiki: The Infernal Tower | 124107 | [124107-tsumiki-the-infernal-tower.json](./124107-tsumiki-the-infernal-tower.json) |
