@@ -2702,6 +2702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HesGames | 84269 | [84269-hesgames.json](./84269-hesgames.json) |
 | Hesperian Wars | 229367 | [229367-hesperian-wars.json](./229367-hesperian-wars.json) |
 | Hessian Landing | 386268 | [386268-hessian-landing.json](./386268-hessian-landing.json) |
+| Het Labyrint van Toetanchamon | 69901 | [69901-het-labyrint-van-toetanchamon.json](./69901-het-labyrint-van-toetanchamon.json) |
 | Heterodox | 147484 | [147484-heterodox.json](./147484-heterodox.json) |
 | Heterotopias: In the 1989 Future | 125911 | [125911-heterotopias-in-the-1989-future.json](./125911-heterotopias-in-the-1989-future.json) |
 | Hets | 125854 | [125854-hets.json](./125854-hets.json) |
