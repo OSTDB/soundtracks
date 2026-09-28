@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tahl: Uncover the Evil Within | 145617 | [145617-tahl-uncover-the-evil-within.json](./145617-tahl-uncover-the-evil-within.json) |
 | Tahn | 126046 | [126046-tahn.json](./126046-tahn.json) |
 | Tahoe Dragon: The Beginning | 220861 | [220861-tahoe-dragon-the-beginning.json](./220861-tahoe-dragon-the-beginning.json) |
+| Taichi Panda | 69338 | [69338-taichi-panda.json](./69338-taichi-panda.json) |
 | Taiga | 153347 | [153347-taiga.json](./153347-taiga.json) |
 | Taiga | 199514 | [199514-taiga.json](./199514-taiga.json) |
 | Taigenchi: The Eternal Eclipse | 177926 | [177926-taigenchi-the-eternal-eclipse.json](./177926-taigenchi-the-eternal-eclipse.json) |
@@ -378,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taito Arcade 3 | 393613 | [393613-taito-arcade-3.json](./393613-taito-arcade-3.json) |
 | Taito Chase H.Q. | 48629 | [48629-taito-chase-h-q.json](./48629-taito-chase-h-q.json) |
 | Taito Legends 2 | 267186 | [267186-taito-legends-2.json](./267186-taito-legends-2.json) |
+| Taito Memories | 69366 | [69366-taito-memories.json](./69366-taito-memories.json) |
 | Taito Memories Gekan | 72792 | [72792-taito-memories-gekan.json](./72792-taito-memories-gekan.json) |
 | Taito Memories II Gekan | 94711 | [94711-taito-memories-ii-gekan.json](./94711-taito-memories-ii-gekan.json) |
 | Taito Memories Joukan | 72791 | [72791-taito-memories-joukan.json](./72791-taito-memories-joukan.json) |
@@ -1776,6 +1778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenacious | 111202 | [111202-tenacious.json](./111202-tenacious.json) |
 | Tenancy | 413893 | [413893-tenancy.json](./413893-tenancy.json) |
 | Tenants | 129152 | [129152-tenants.json](./129152-tenants.json) |
+| Tenchi Muyo! Rensa Hitsuyou | 69329 | [69329-tenchi-muyo-rensa-hitsuyou.json](./69329-tenchi-muyo-rensa-hitsuyou.json) |
 | Tenchi Muyo! Ryo-Ohki FX | 123079 | [123079-tenchi-muyo-ryo-ohki-fx.json](./123079-tenchi-muyo-ryo-ohki-fx.json) |
 | Tenchi Muyo! Toko Muyo | 66384 | [66384-tenchi-muyo-toko-muyo.json](./66384-tenchi-muyo-toko-muyo.json) |
 | Tenchi wo Kurau | 287154 | [287154-tenchi-wo-kurau.json](./287154-tenchi-wo-kurau.json) |
@@ -2001,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terracosmic | 132622 | [132622-terracosmic.json](./132622-terracosmic.json) |
 | Terracotta | 271235 | [271235-terracotta.json](./271235-terracotta.json) |
 | TerraCube | 361690 | [361690-terracube.json](./361690-terracube.json) |
+| TerraFire | 69334 | [69334-terrafire.json](./69334-terrafire.json) |
 | TerraFirmaCraft+ | 297577 | [297577-terrafirmacraft.json](./297577-terrafirmacraft.json) |
 | TerraForge | 258527 | [258527-terraforge.json](./258527-terraforge.json) |
 | Terraforma | 238605 | [238605-terraforma.json](./238605-terraforma.json) |
@@ -8625,6 +8629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Is No Light | 138213 | [138213-there-is-no-light.json](./138213-there-is-no-light.json) |
 | There Is No Light 616 | 180203 | [180203-there-is-no-light-616.json](./180203-there-is-no-light-616.json) |
 | There Is No Next Stop | 391879 | [391879-there-is-no-next-stop.json](./391879-there-is-no-next-stop.json) |
+| There is No Pause Button! | 69374 | [69374-there-is-no-pause-button.json](./69374-there-is-no-pause-button.json) |
 | There Is No Turning Back! | 111004 | [111004-there-is-no-turning-back.json](./111004-there-is-no-turning-back.json) |
 | There Is Nothing Here | 179174 | [179174-there-is-nothing-here.json](./179174-there-is-nothing-here.json) |
 | There is nothing here. | 176789 | [176789-there-is-nothing-here.json](./176789-there-is-nothing-here.json) |
@@ -13414,6 +13419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tree World | 225749 | [225749-tree-world.json](./225749-tree-world.json) |
 | Tree's Love Crossing Above | 346571 | [346571-trees-love-crossing-above.json](./346571-trees-love-crossing-above.json) |
 | Treehouse Trouble | 181133 | [181133-treehouse-trouble.json](./181133-treehouse-trouble.json) |
+| Treehouse Truants | 69333 | [69333-treehouse-truants.json](./69333-treehouse-truants.json) |
 | Treekeepers | 219535 | [219535-treekeepers.json](./219535-treekeepers.json) |
 | Treepury | 303802 | [303802-treepury.json](./303802-treepury.json) |
 | TreeTale | 347347 | [347347-treetale.json](./347347-treetale.json) |
@@ -14179,6 +14185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tube Rolling | 159794 | [159794-tube-rolling.json](./159794-tube-rolling.json) |
 | Tube Warriors | 94558 | [94558-tube-warriors.json](./94558-tube-warriors.json) |
 | Tube Way Army | 80201 | [80201-tube-way-army.json](./80201-tube-way-army.json) |
+| Tube-It | 69365 | [69365-tube-it.json](./69365-tube-it.json) |
 | TubeDudeMan | 342244 | [342244-tubedudeman.json](./342244-tubedudeman.json) |
 | Tuber`s Run | 115017 | [115017-tuber-s-run.json](./115017-tuber-s-run.json) |
 | Tubetastic World Splashfest | 117491 | [117491-tubetastic-world-splashfest.json](./117491-tubetastic-world-splashfest.json) |
