@@ -3183,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit Ways | 346652 | [346652-exit-ways.json](./346652-exit-ways.json) |
 | Exit: A Biodelic Adventure | 129020 | [129020-exit-a-biodelic-adventure.json](./129020-exit-a-biodelic-adventure.json) |
 | Exit: The Curse of Ophir | 174278 | [174278-exit-the-curse-of-ophir.json](./174278-exit-the-curse-of-ophir.json) |
+| Exit/Corners | 101734 | [101734-exit-corners.json](./101734-exit-corners.json) |
 | Exit16: Byilhan Hotel | 305523 | [305523-exit16-byilhan-hotel.json](./305523-exit16-byilhan-hotel.json) |
 | Exiting the White Room | 310598 | [310598-exiting-the-white-room.json](./310598-exiting-the-white-room.json) |
 | Exitium | 131457 | [131457-exitium.json](./131457-exitium.json) |
