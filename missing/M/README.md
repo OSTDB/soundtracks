@@ -5844,6 +5844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Love | 163199 | [163199-missing-love.json](./163199-missing-love.json) |
 | Missing Memories | 257088 | [257088-missing-memories.json](./257088-missing-memories.json) |
 | Missing Mildred | 189190 | [189190-missing-mildred.json](./189190-missing-mildred.json) |
+| Missing on Lost Island | 69910 | [69910-missing-on-lost-island.json](./69910-missing-on-lost-island.json) |
 | Missing Parts 2: The Tantei Stories | 64673 | [64673-missing-parts-2-the-tantei-stories.json](./64673-missing-parts-2-the-tantei-stories.json) |
 | Missing Parts 3: The Tantei Stories | 64675 | [64675-missing-parts-3-the-tantei-stories.json](./64675-missing-parts-3-the-tantei-stories.json) |
 | Missing Parts Side A: The Tantei Stories | 64671 | [64671-missing-parts-side-a-the-tantei-stories.json](./64671-missing-parts-side-a-the-tantei-stories.json) |
@@ -7306,6 +7307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortadelo y Filemón II: Safari Callejero | 98975 | [98975-mortadelo-y-filemon-ii-safari-callejero.json](./98975-mortadelo-y-filemon-ii-safari-callejero.json) |
 | Mortadelo y Filemón: Dos Vaqueros Chapuceros | 277923 | [277923-mortadelo-y-filemon-dos-vaqueros-chapuceros.json](./277923-mortadelo-y-filemon-dos-vaqueros-chapuceros.json) |
 | Mortadelo y Filemón: El Escarabajo de Cleopatra | 78038 | [78038-mortadelo-y-filemon-el-escarabajo-de-cleopatra.json](./78038-mortadelo-y-filemon-el-escarabajo-de-cleopatra.json) |
+| Mortadelo y Filemón: El Sulfato Atómico | 69909 | [69909-mortadelo-y-filemon-el-sulfato-atomico.json](./69909-mortadelo-y-filemon-el-sulfato-atomico.json) |
 | Mortadelo y Filemón: La Banda de Corvino | 115598 | [115598-mortadelo-y-filemon-la-banda-de-corvino.json](./115598-mortadelo-y-filemon-la-banda-de-corvino.json) |
 | Mortadelo y Filemón: La Sexta Secta | 277928 | [277928-mortadelo-y-filemon-la-sexta-secta.json](./277928-mortadelo-y-filemon-la-sexta-secta.json) |
 | Mortadelo y Filemón: Operación Moscú | 77301 | [77301-mortadelo-y-filemon-operacion-moscu.json](./77301-mortadelo-y-filemon-operacion-moscu.json) |
