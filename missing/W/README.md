@@ -1445,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Well of Lost Souls | 271788 | [271788-well-of-lost-souls.json](./271788-well-of-lost-souls.json) |
 | Well to Hell | 319214 | [319214-well-to-hell.json](./319214-well-to-hell.json) |
 | Well, Fuck You Too | 352755 | [352755-well-fuck-you-too.json](./352755-well-fuck-you-too.json) |
+| Wellington's Victory | 106728 | [106728-wellingtons-victory.json](./106728-wellingtons-victory.json) |
 | Wells | 31298 | [31298-wells.json](./31298-wells.json) |
 | Wellspring: Altar of Roots | 76984 | [76984-wellspring-altar-of-roots.json](./76984-wellspring-altar-of-roots.json) |
 | Welltris | 12872 | [12872-welltris.json](./12872-welltris.json) |
@@ -3777,6 +3778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Would You Like to Run an Idol Café? 3 | 259531 | [259531-would-you-like-to-run-an-idol-cafe-3.json](./259531-would-you-like-to-run-an-idol-cafe-3.json) |
 | Would You Love Me If I Was a Snake? | 400346 | [400346-would-you-love-me-if-i-was-a-snake.json](./400346-would-you-love-me-if-i-was-a-snake.json) |
 | Would You Rather | 326718 | [326718-would-you-rather.json](./326718-would-you-rather.json) |
+| Would You Rather? For Battle Royale | 106779 | [106779-would-you-rather-for-battle-royale.json](./106779-would-you-rather-for-battle-royale.json) |
 | Would you rather?! | 90677 | [90677-would-you-rather.json](./90677-would-you-rather.json) |
 | Would You Sell Your Soul | 302418 | [302418-would-you-sell-your-soul.json](./302418-would-you-sell-your-soul.json) |
 | Would You Sell Your Soul? 2 | 303265 | [303265-would-you-sell-your-soul-2.json](./303265-would-you-sell-your-soul-2.json) |
