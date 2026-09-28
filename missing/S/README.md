@@ -1440,6 +1440,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scoot Kaboom and the Tomb of Doom | 132695 | [132695-scoot-kaboom-and-the-tomb-of-doom.json](./132695-scoot-kaboom-and-the-tomb-of-doom.json) |
 | Scooter Shooter | 40199 | [40199-scooter-shooter.json](./40199-scooter-shooter.json) |
 | Scooter Slayer | 358885 | [358885-scooter-slayer.json](./358885-scooter-slayer.json) |
+| Scooter War3z | 72160 | [72160-scooter-war3z.json](./72160-scooter-war3z.json) |
+| Scooter's Magic Castle | 72173 | [72173-scooters-magic-castle.json](./72173-scooters-magic-castle.json) |
 | Scopa | 100012 | [100012-scopa.json](./100012-scopa.json) |
 | Scopecreep | 370891 | [370891-scopecreep.json](./370891-scopecreep.json) |
 | Scopic | 132865 | [132865-scopic.json](./132865-scopic.json) |
@@ -4395,6 +4397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civil War Collection | 208996 | [208996-sid-meiers-civil-war-collection.json](./208996-sid-meiers-civil-war-collection.json) |
 | Sid Meier's Civilization II | 634 | [634-sid-meiers-civilization-ii.json](./634-sid-meiers-civilization-ii.json) |
 | Sid Meier's Civilization II: Conflicts in Civilization | 115032 | [115032-sid-meiers-civilization-ii-conflicts-in-civilization.json](./115032-sid-meiers-civilization-ii-conflicts-in-civilization.json) |
+| Sid Meier's Civilization II: Fantastic Worlds | 72019 | [72019-sid-meiers-civilization-ii-fantastic-worlds.json](./72019-sid-meiers-civilization-ii-fantastic-worlds.json) |
 | Sid Meier's Civilization III | 310 | [310-sid-meiers-civilization-iii.json](./310-sid-meiers-civilization-iii.json) |
 | Sid Meier's Civilization III: Gold Edition | 55119 | [55119-sid-meiers-civilization-iii-gold-edition.json](./55119-sid-meiers-civilization-iii-gold-edition.json) |
 | Sid Meier's Civilization Revolution | 2152 | [2152-sid-meiers-civilization-revolution.json](./2152-sid-meiers-civilization-revolution.json) |
@@ -10140,6 +10143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square & Circles | 352292 | [352292-square-and-circles.json](./352292-square-and-circles.json) |
 | Square Box | 44185 | [44185-square-box.json](./44185-square-box.json) |
 | Square Dancer | 140476 | [140476-square-dancer.json](./140476-square-dancer.json) |
+| Square Deal | 72021 | [72021-square-deal.json](./72021-square-deal.json) |
 | Square Deal: The Game of Two Dimensional Poker | 7815 | [7815-square-deal-the-game-of-two-dimensional-poker.json](./7815-square-deal-the-game-of-two-dimensional-poker.json) |
 | Square Dungeon | 180019 | [180019-square-dungeon.json](./180019-square-dungeon.json) |
 | Square Dungeon 2 | 260180 | [260180-square-dungeon-2.json](./260180-square-dungeon-2.json) |
@@ -10664,6 +10668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek Online: Agents of Yesterday | 23285 | [23285-star-trek-online-agents-of-yesterday.json](./23285-star-trek-online-agents-of-yesterday.json) |
 | Star Trek Online: Awakening | 121530 | [121530-star-trek-online-awakening.json](./121530-star-trek-online-awakening.json) |
 | Star Trek Online: Rise of Discovery | 120207 | [120207-star-trek-online-rise-of-discovery.json](./120207-star-trek-online-rise-of-discovery.json) |
+| Star Trek Pinball | 72149 | [72149-star-trek-pinball.json](./72149-star-trek-pinball.json) |
 | Star Trek Prodigy: Supernova | 202419 | [202419-star-trek-prodigy-supernova.json](./202419-star-trek-prodigy-supernova.json) |
 | Star Trek Scene It? | 216322 | [216322-star-trek-scene-it.json](./216322-star-trek-scene-it.json) |
 | Star Trek Trexels II | 108463 | [108463-star-trek-trexels-ii.json](./108463-star-trek-trexels-ii.json) |
@@ -11436,6 +11441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Manticore | 295016 | [295016-steel-manticore.json](./295016-steel-manticore.json) |
 | Steel Ocean | 34752 | [34752-steel-ocean.json](./34752-steel-ocean.json) |
 | Steel Panthers II: Modern Battles - Campaign Disk | 77314 | [77314-steel-panthers-ii-modern-battles-campaign-disk.json](./77314-steel-panthers-ii-modern-battles-campaign-disk.json) |
+| Steel Panthers: Campaign Disk | 72018 | [72018-steel-panthers-campaign-disk.json](./72018-steel-panthers-campaign-disk.json) |
 | Steel Paws | 325584 | [325584-steel-paws.json](./325584-steel-paws.json) |
 | Steel Racer | 250952 | [250952-steel-racer.json](./250952-steel-racer.json) |
 | Steel Rain | 34833 | [34833-steel-rain.json](./34833-steel-rain.json) |
@@ -12393,11 +12399,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strife: Veteran Edition | 147967 | [147967-strife-veteran-edition.json](./147967-strife-veteran-edition.json) |
 | Strike at Night | 349835 | [349835-strike-at-night.json](./349835-strike-at-night.json) |
 | Strike Back | 279097 | [279097-strike-back.json](./279097-strike-back.json) |
+| Strike Ball 2 Deluxe | 72152 | [72152-strike-ball-2-deluxe.json](./72152-strike-ball-2-deluxe.json) |
 | Strike Ball 3 | 54405 | [54405-strike-ball-3.json](./54405-strike-ball-3.json) |
 | Strike Blazinger | 57907 | [57907-strike-blazinger.json](./57907-strike-blazinger.json) |
 | Strike Bowling | 40433 | [40433-strike-bowling.json](./40433-strike-bowling.json) |
 | Strike Buster | 339656 | [339656-strike-buster.json](./339656-strike-buster.json) |
 | Strike Buster Prototype | 149010 | [149010-strike-buster-prototype.json](./149010-strike-buster-prototype.json) |
+| Strike Commander and Privateer TwinPack | 72134 | [72134-strike-commander-and-privateer-twinpack.json](./72134-strike-commander-and-privateer-twinpack.json) |
 | Strike Commander: Tactical Operations | 70914 | [70914-strike-commander-tactical-operations.json](./70914-strike-commander-tactical-operations.json) |
 | Strike Force | 46856 | [46856-strike-force.json](./46856-strike-force.json) |
 | Strike Force Harrier | 26480 | [26480-strike-force-harrier.json](./26480-strike-force-harrier.json) |
@@ -13774,6 +13782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Koopa RPG: Here Comes the Koopa Bros.! | 338834 | [338834-super-koopa-rpg-here-comes-the-koopa-bros.json](./338834-super-koopa-rpg-here-comes-the-koopa-bros.json) |
 | Super Kyuukyoku Harikiri Stadium 2 | 37815 | [37815-super-kyuukyoku-harikiri-stadium-2.json](./37815-super-kyuukyoku-harikiri-stadium-2.json) |
 | Super Laura Up | 276163 | [276163-super-laura-up.json](./276163-super-laura-up.json) |
+| Super Laydock: Mission Striker | 72144 | [72144-super-laydock-mission-striker.json](./72144-super-laydock-mission-striker.json) |
 | Super League Pro Rugby | 80239 | [80239-super-league-pro-rugby.json](./80239-super-league-pro-rugby.json) |
 | Super Ledgehop: Double Laser | 110857 | [110857-super-ledgehop-double-laser.json](./110857-super-ledgehop-double-laser.json) |
 | Super Lee World | 120950 | [120950-super-lee-world.json](./120950-super-lee-world.json) |
