@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xmas Boom | 254136 | [254136-xmas-boom.json](./254136-xmas-boom.json) |
 | Xmas Jam 2017 | 271230 | [271230-xmas-jam-2017.json](./271230-xmas-jam-2017.json) |
 | Xmas Lemmings | 213867 | [213867-xmas-lemmings.json](./213867-xmas-lemmings.json) |
+| Xmas Lemmings | 70466 | [70466-xmas-lemmings.json](./70466-xmas-lemmings.json) |
 | Xmas Presents | 393452 | [393452-xmas-presents.json](./393452-xmas-presents.json) |
 | Xmas Shooting: Scramble!! | 26594 | [26594-xmas-shooting-scramble.json](./26594-xmas-shooting-scramble.json) |
 | Xmas Survivors | 382876 | [382876-xmas-survivors.json](./382876-xmas-survivors.json) |
