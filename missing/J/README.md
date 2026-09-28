@@ -1442,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart Toddlers | 129111 | [129111-jumpstart-toddlers.json](./129111-jumpstart-toddlers.json) |
 | JumpStart: Dino Adventure Field Trip | 49923 | [49923-jumpstart-dino-adventure-field-trip.json](./49923-jumpstart-dino-adventure-field-trip.json) |
 | Jumpster | 94219 | [94219-jumpster.json](./94219-jumpster.json) |
+| JumpStream | 107374 | [107374-jumpstream.json](./107374-jumpstream.json) |
 | Jumpwad | 228063 | [228063-jumpwad.json](./228063-jumpwad.json) |
 | Jumpy 1D: Christmas Edition | 273950 | [273950-jumpy-1d-christmas-edition.json](./273950-jumpy-1d-christmas-edition.json) |
 | Jumpy Bunny | 307309 | [307309-jumpy-bunny.json](./307309-jumpy-bunny.json) |
