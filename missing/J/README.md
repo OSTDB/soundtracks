@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JNKBombers | 80605 | [80605-jnkbombers.json](./80605-jnkbombers.json) |
 | JNKPlat 2018 | 125324 | [125324-jnkplat-2018.json](./125324-jnkplat-2018.json) |
 | JNZ: Nightmare Girls | 340773 | [340773-jnz-nightmare-girls.json](./340773-jnz-nightmare-girls.json) |
+| Jo and Momo: Forest Rush | 101774 | [101774-jo-and-momo-forest-rush.json](./101774-jo-and-momo-forest-rush.json) |
 | Jo-Jo Fighter | 182366 | [182366-jo-jo-fighter.json](./182366-jo-jo-fighter.json) |
 | Jo's Dream: Organic Coffee | 123638 | [123638-jos-dream-organic-coffee.json](./123638-jos-dream-organic-coffee.json) |
 | Joan Jade and the Gates of Xibalba | 53248 | [53248-joan-jade-and-the-gates-of-xibalba.json](./53248-joan-jade-and-the-gates-of-xibalba.json) |
