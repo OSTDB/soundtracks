@@ -1613,6 +1613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recur | 325277 | [325277-recur.json](./325277-recur.json) |
 | Recursed | 32191 | [32191-recursed.json](./32191-recursed.json) |
 | Recursion | 379376 | [379376-recursion.json](./379376-recursion.json) |
+| Recursive Dragon | 103648 | [103648-recursive-dragon.json](./103648-recursive-dragon.json) |
 | Recursive Riftfall | 310725 | [310725-recursive-riftfall.json](./310725-recursive-riftfall.json) |
 | Recursive Ruin | 187389 | [187389-recursive-ruin.json](./187389-recursive-ruin.json) |
 | Recursor | 182274 | [182274-recursor.json](./182274-recursor.json) |
