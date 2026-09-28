@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Cream Uncle | 88214 | [88214-ice-cream-uncle.json](./88214-ice-cream-uncle.json) |
 | Ice Cream: Super Stacking Slot Machine | 345114 | [345114-ice-cream-super-stacking-slot-machine.json](./345114-ice-cream-super-stacking-slot-machine.json) |
 | Ice Crush 10.000 BC | 300725 | [300725-ice-crush-10-000-bc.json](./300725-ice-crush-10-000-bc.json) |
+| Ice Crystal Adventure Puzzle | 101046 | [101046-ice-crystal-adventure-puzzle.json](./101046-ice-crystal-adventure-puzzle.json) |
 | Ice Crystal Labyrinth | 82812 | [82812-ice-crystal-labyrinth.json](./82812-ice-crystal-labyrinth.json) |
 | Ice Fighter | 273472 | [273472-ice-fighter.json](./273472-ice-fighter.json) |
 | Ice Fishing Derby | 103909 | [103909-ice-fishing-derby.json](./103909-ice-fishing-derby.json) |
@@ -644,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Chess Story | 117793 | [117793-idle-chess-story.json](./117793-idle-chess-story.json) |
 | Idle Cinema Empire | 231937 | [231937-idle-cinema-empire.json](./231937-idle-cinema-empire.json) |
 | Idle Cinema Tycoon | 369567 | [369567-idle-cinema-tycoon.json](./369567-idle-cinema-tycoon.json) |
+| Idle City Empire | 101068 | [101068-idle-city-empire.json](./101068-idle-city-empire.json) |
 | Idle Colony | 299782 | [299782-idle-colony.json](./299782-idle-colony.json) |
 | Idle Colors | 402893 | [402893-idle-colors.json](./402893-idle-colors.json) |
 | Idle Cooking Emperor | 117480 | [117480-idle-cooking-emperor.json](./117480-idle-cooking-emperor.json) |
@@ -693,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle landmark! | 249175 | [249175-idle-landmark.json](./249175-idle-landmark.json) |
 | Idle Lemonade Tycoon Empire | 255802 | [255802-idle-lemonade-tycoon-empire.json](./255802-idle-lemonade-tycoon-empire.json) |
 | Idle looter | 376073 | [376073-idle-looter.json](./376073-idle-looter.json) |
+| Idle Love | 101067 | [101067-idle-love.json](./101067-idle-love.json) |
 | Idle Luca | 193999 | [193999-idle-luca.json](./193999-idle-luca.json) |
 | Idle Mafia | 245379 | [245379-idle-mafia.json](./245379-idle-mafia.json) |
 | Idle Mage Attack | 101745 | [101745-idle-mage-attack.json](./101745-idle-mage-attack.json) |
@@ -2098,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intellivision Rocks | 73321 | [73321-intellivision-rocks.json](./73321-intellivision-rocks.json) |
 | Intellivision Shark! Shark! Gen2 | 61858 | [61858-intellivision-shark-shark-gen2.json](./61858-intellivision-shark-shark-gen2.json) |
 | Intense! Miyu-chan and Teacher's Rock-Paper-Scissors Battle! | 340756 | [340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json](./340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json) |
+| Intensive Care ( Hospital Interactive Story ) | 101104 | [101104-intensive-care-hospital-interactive-story.json](./101104-intensive-care-hospital-interactive-story.json) |
 | Inter Milan Club Football | 267887 | [267887-inter-milan-club-football.json](./267887-inter-milan-club-football.json) |
 | Inter Milan Club Football 2005 | 267906 | [267906-inter-milan-club-football-2005.json](./267906-inter-milan-club-football-2005.json) |
 | Inter Solar 83 | 236231 | [236231-inter-solar-83.json](./236231-inter-solar-83.json) |
