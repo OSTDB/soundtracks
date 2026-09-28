@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taco Break | 187510 | [187510-taco-break.json](./187510-taco-break.json) |
 | Taco Break: Head to Head | 214527 | [214527-taco-break-head-to-head.json](./214527-taco-break-head-to-head.json) |
 | Taco Cat Taco | 100759 | [100759-taco-cat-taco.json](./100759-taco-cat-taco.json) |
+| Taco Gun | 99152 | [99152-taco-gun.json](./99152-taco-gun.json) |
 | Taco Joe: Endless Taco Tosser | 268451 | [268451-taco-joe-endless-taco-tosser.json](./268451-taco-joe-endless-taco-tosser.json) |
 | Taco Loco: Horror Game | 342274 | [342274-taco-loco-horror-game.json](./342274-taco-loco-horror-game.json) |
 | Taco Run | 56149 | [56149-taco-run.json](./56149-taco-run.json) |
@@ -2605,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Arkane Collection | 331402 | [331402-the-arkane-collection.json](./331402-the-arkane-collection.json) |
 | The Arm Wrestling Classic | 214525 | [214525-the-arm-wrestling-classic.json](./214525-the-arm-wrestling-classic.json) |
 | The Armardisp | 260376 | [260376-the-armardisp.json](./260376-the-armardisp.json) |
+| The Armclaw Experiment | 99166 | [99166-the-armclaw-experiment.json](./99166-the-armclaw-experiment.json) |
 | The Arrangement | 73242 | [73242-the-arrangement.json](./73242-the-arrangement.json) |
 | The Arrogant Kaiju Princess and The Detective Servant | 267060 | [267060-the-arrogant-kaiju-princess-and-the-detective-servant.json](./267060-the-arrogant-kaiju-princess-and-the-detective-servant.json) |
 | The Arrow Man | 71810 | [71810-the-arrow-man.json](./71810-the-arrow-man.json) |
@@ -2887,6 +2889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blind Griffin | 57899 | [57899-the-blind-griffin.json](./57899-the-blind-griffin.json) |
 | The Blind of the New World | 150049 | [150049-the-blind-of-the-new-world.json](./150049-the-blind-of-the-new-world.json) |
 | The Blobjob | 261797 | [261797-the-blobjob.json](./261797-the-blobjob.json) |
+| The Blobs Fight | 99196 | [99196-the-blobs-fight.json](./99196-the-blobs-fight.json) |
 | The Block | 204712 | [204712-the-block.json](./204712-the-block.json) |
 | The Blockade | 370877 | [370877-the-blockade.json](./370877-the-blockade.json) |
 | The Blockheads | 39213 | [39213-the-blockheads.json](./39213-the-blockheads.json) |
