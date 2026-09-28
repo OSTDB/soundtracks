@@ -2671,6 +2671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seum: The Drunk Side of the Moon | 104676 | [104676-seum-the-drunk-side-of-the-moon.json](./104676-seum-the-drunk-side-of-the-moon.json) |
 | Seven | 271811 | [271811-seven.json](./271811-seven.json) |
 | Seven Blasphemies | 415142 | [415142-seven-blasphemies.json](./415142-seven-blasphemies.json) |
+| Seven Boys 2 | 68104 | [68104-seven-boys-2.json](./68104-seven-boys-2.json) |
 | Seven Bullets Zombie Apocalypse | 117062 | [117062-seven-bullets-zombie-apocalypse.json](./117062-seven-bullets-zombie-apocalypse.json) |
 | Seven Cities | 188589 | [188589-seven-cities.json](./188589-seven-cities.json) |
 | Seven Days | 219619 | [219619-seven-days.json](./219619-seven-days.json) |
@@ -5181,6 +5182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six F and Six 0 | 151660 | [151660-six-f-and-six-0.json](./151660-six-f-and-six-0.json) |
 | Six Flags Fun Park | 85164 | [85164-six-flags-fun-park.json](./85164-six-flags-fun-park.json) |
 | Six Floors Under | 296659 | [296659-six-floors-under.json](./296659-six-floors-under.json) |
+| Six in One Translator | 68056 | [68056-six-in-one-translator.json](./68056-six-in-one-translator.json) |
 | Six inches deep in mud | 278466 | [278466-six-inches-deep-in-mud.json](./278466-six-inches-deep-in-mud.json) |
 | Six Match | 82156 | [82156-six-match.json](./82156-six-match.json) |
 | Six Micro Stories | 55837 | [55837-six-micro-stories.json](./55837-six-micro-stories.json) |
@@ -7378,6 +7380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sombras | 261304 | [261304-sombras.json](./261304-sombras.json) |
 | Sombras: Negative Frames | 406115 | [406115-sombras-negative-frames.json](./406115-sombras-negative-frames.json) |
 | Sombrero: Spaghetti Western Mayhem | 20758 | [20758-sombrero-spaghetti-western-mayhem.json](./20758-sombrero-spaghetti-western-mayhem.json) |
+| Sombreros | 68114 | [68114-sombreros.json](./68114-sombreros.json) |
 | Some Assembly Required | 293380 | [293380-some-assembly-required.json](./293380-some-assembly-required.json) |
 | Some Assembly Required | 343827 | [343827-some-assembly-required.json](./343827-some-assembly-required.json) |
 | Some Heroines Climb Up a Tower to Ask God Why the Game Has a Name That's So Long | 310001 | [310001-some-heroines-climb-up-a-tower-to-ask-god-why-the-game-has-a-name-thats-so-long.json](./310001-some-heroines-climb-up-a-tower-to-ask-god-why-the-game-has-a-name-thats-so-long.json) |
@@ -10282,6 +10285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squish Them All | 415148 | [415148-squish-them-all.json](./415148-squish-them-all.json) |
 | Squish'ems | 130801 | [130801-squishems.json](./130801-squishems.json) |
 | Squishies | 111451 | [111451-squishies.json](./111451-squishies.json) |
+| Squishy Tank | 68088 | [68088-squishy-tank.json](./68088-squishy-tank.json) |
 | Squishy the Suicidal Pig | 9874 | [9874-squishy-the-suicidal-pig.json](./9874-squishy-the-suicidal-pig.json) |
 | Squonker 3 | 260663 | [260663-squonker-3.json](./260663-squonker-3.json) |
 | Sqwark! A Nutty Adventure | 169478 | [169478-sqwark-a-nutty-adventure.json](./169478-sqwark-a-nutty-adventure.json) |
@@ -13378,6 +13382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Birdo 64 | 300686 | [300686-super-birdo-64.json](./300686-super-birdo-64.json) |
 | Super Bit Adventure: Paragons of Life | 87977 | [87977-super-bit-adventure-paragons-of-life.json](./87977-super-bit-adventure-paragons-of-life.json) |
 | Super Bitsy Land | 181866 | [181866-super-bitsy-land.json](./181866-super-bitsy-land.json) |
+| Super Black Bass Fishing | 68071 | [68071-super-black-bass-fishing.json](./68071-super-black-bass-fishing.json) |
 | Super Black Bass Pocket 2 | 61347 | [61347-super-black-bass-pocket-2.json](./61347-super-black-bass-pocket-2.json) |
 | Super Black Bass X2 | 61344 | [61344-super-black-bass-x2.json](./61344-super-black-bass-x2.json) |
 | Super Black Bass: Real Fight | 61345 | [61345-super-black-bass-real-fight.json](./61345-super-black-bass-real-fight.json) |
