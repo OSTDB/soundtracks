@@ -3028,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze Classic: Inverted | 104079 | [104079-amaze-classic-inverted.json](./104079-amaze-classic-inverted.json) |
 | Amaze Gears | 88087 | [88087-amaze-gears.json](./88087-amaze-gears.json) |
 | Amaze Gears 3 | 158660 | [158660-amaze-gears-3.json](./158660-amaze-gears-3.json) |
+| Amaze St.Patrick | 114548 | [114548-amaze-st-patrick.json](./114548-amaze-st-patrick.json) |
 | Amaze: Halloween | 110183 | [110183-amaze-halloween.json](./110183-amaze-halloween.json) |
 | Amaze! | 246648 | [246648-amaze.json](./246648-amaze.json) |
 | Amaze'd | 105299 | [105299-amazed.json](./105299-amazed.json) |
@@ -5048,6 +5049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArcBall 2 | 99424 | [99424-arcball-2.json](./99424-arcball-2.json) |
 | Arceon | 256836 | [256836-arceon.json](./256836-arceon.json) |
 | Arcflame Frontiers | 413099 | [413099-arcflame-frontiers.json](./413099-arcflame-frontiers.json) |
+| Arch Drift | 114543 | [114543-arch-drift.json](./114543-arch-drift.json) |
 | Arch Rivals | 215083 | [215083-arch-rivals.json](./215083-arch-rivals.json) |
 | Arch Rivals | 242784 | [242784-arch-rivals.json](./242784-arch-rivals.json) |
 | Arch Rivals | 4515 | [4515-arch-rivals.json](./4515-arch-rivals.json) |
