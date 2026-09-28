@@ -4891,6 +4891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: The Pit | 308392 | [308392-pokemon-the-pit.json](./308392-pokemon-the-pit.json) |
 | Pokémon/Grand Order | 330927 | [330927-pokemon-grand-order.json](./330927-pokemon-grand-order.json) |
 | Pokénet | 333548 | [333548-pokenet.json](./333548-pokenet.json) |
+| PokéPark: Fishing Rally DS | 94906 | [94906-pokepark-fishing-rally-ds.json](./94906-pokepark-fishing-rally-ds.json) |
 | PokeQuest VR | 201764 | [201764-pokequest-vr.json](./201764-pokequest-vr.json) |
 | Poker | 366922 | [366922-poker.json](./366922-poker.json) |
 | Poker 1 | 86065 | [86065-poker-1.json](./86065-poker-1.json) |
@@ -5291,6 +5292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Frenzy! | 108983 | [108983-pop-frenzy.json](./108983-pop-frenzy.json) |
 | Pop Fruit | 233996 | [233996-pop-fruit.json](./233996-pop-fruit.json) |
 | Pop Island | 68124 | [68124-pop-island.json](./68124-pop-island.json) |
+| Pop Islands | 94868 | [94868-pop-islands.json](./94868-pop-islands.json) |
 | Pop Journey | 220651 | [220651-pop-journey.json](./220651-pop-journey.json) |
 | Pop Logo Quiz | 105862 | [105862-pop-logo-quiz.json](./105862-pop-logo-quiz.json) |
 | Pop Moto | 249446 | [249446-pop-moto.json](./249446-pop-moto.json) |
