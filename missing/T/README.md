@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Battle: East Front 1941 | 197886 | [197886-tank-battle-east-front-1941.json](./197886-tank-battle-east-front-1941.json) |
 | Tank Battle: East Front 1943 | 175335 | [175335-tank-battle-east-front-1943.json](./175335-tank-battle-east-front-1943.json) |
 | Tank Battle: Normandy | 46849 | [46849-tank-battle-normandy.json](./46849-tank-battle-normandy.json) |
+| Tank Blazers | 113155 | [113155-tank-blazers.json](./113155-tank-blazers.json) |
 | Tank Brigade | 391599 | [391599-tank-brigade.json](./391599-tank-brigade.json) |
 | Tank Buddies | 101523 | [101523-tank-buddies.json](./101523-tank-buddies.json) |
 | Tank Bung | 110965 | [110965-tank-bung.json](./110965-tank-bung.json) |
@@ -2836,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Door | 249843 | [249843-the-black-door.json](./249843-the-black-door.json) |
 | The Black Fog | 271853 | [271853-the-black-fog.json](./271853-the-black-fog.json) |
 | The Black Iris | 143606 | [143606-the-black-iris.json](./143606-the-black-iris.json) |
+| The Black Knight | 113170 | [113170-the-black-knight.json](./113170-the-black-knight.json) |
 | The Black Knight | 249146 | [249146-the-black-knight.json](./249146-the-black-knight.json) |
 | The Black Knight | 371875 | [371875-the-black-knight.json](./371875-the-black-knight.json) |
 | The Black Lamb | 329937 | [329937-the-black-lamb.json](./329937-the-black-lamb.json) |
@@ -8738,6 +8740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms Origin | 245821 | [245821-three-kingdoms-origin.json](./245821-three-kingdoms-origin.json) |
 | Three Kingdoms VR - Jade Knight | 75820 | [75820-three-kingdoms-vr-jade-knight.json](./75820-three-kingdoms-vr-jade-knight.json) |
 | Three Kingdoms Written Words | 157538 | [157538-three-kingdoms-written-words.json](./157538-three-kingdoms-written-words.json) |
+| Three Kingdoms: Ancient Battlefield | 113172 | [113172-three-kingdoms-ancient-battlefield.json](./113172-three-kingdoms-ancient-battlefield.json) |
 | Three Kingdoms: Bond | 402358 | [402358-three-kingdoms-bond.json](./402358-three-kingdoms-bond.json) |
 | Three Kingdoms: Hero Wars | 208053 | [208053-three-kingdoms-hero-wars.json](./208053-three-kingdoms-hero-wars.json) |
 | Three Kingdoms: Legends of Heroes | 108406 | [108406-three-kingdoms-legends-of-heroes.json](./108406-three-kingdoms-legends-of-heroes.json) |
@@ -9314,6 +9317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Rescue | 159049 | [159049-tiger-rescue.json](./159049-tiger-rescue.json) |
 | Tiger Road | 12864 | [12864-tiger-road.json](./12864-tiger-road.json) |
 | Tiger Simulator 3D | 96013 | [96013-tiger-simulator-3d.json](./96013-tiger-simulator-3d.json) |
+| Tiger Soldier I | 113189 | [113189-tiger-soldier-i.json](./113189-tiger-soldier-i.json) |
 | Tiger Soldier I: MP007 | 173707 | [173707-tiger-soldier-i-mp007.json](./173707-tiger-soldier-i-mp007.json) |
 | Tiger Soldier I: MP008 | 189441 | [189441-tiger-soldier-i-mp008.json](./189441-tiger-soldier-i-mp008.json) |
 | Tiger Soldier I: MP009 | 173700 | [173700-tiger-soldier-i-mp009.json](./173700-tiger-soldier-i-mp009.json) |
