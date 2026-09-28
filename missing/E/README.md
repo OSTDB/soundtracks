@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electoral Dynasty | 276246 | [276246-electoral-dynasty.json](./276246-electoral-dynasty.json) |
 | Electra | 229640 | [229640-electra.json](./229640-electra.json) |
 | Electra | 78377 | [78377-electra.json](./78377-electra.json) |
+| Electranoid | 94324 | [94324-electranoid.json](./94324-electranoid.json) |
 | Electric Crayon 3.1: At the Zoo | 68970 | [68970-electric-crayon-3-1-at-the-zoo.json](./68970-electric-crayon-3-1-at-the-zoo.json) |
 | Electric Crayon Deluxe: Dinosaurs Are Forever | 71765 | [71765-electric-crayon-deluxe-dinosaurs-are-forever.json](./71765-electric-crayon-deluxe-dinosaurs-are-forever.json) |
 | Electric Crayon Deluxe: Teenage Mutant Hero Turtles - World Tour | 78007 | [78007-electric-crayon-deluxe-teenage-mutant-hero-turtles-world-tour.json](./78007-electric-crayon-deluxe-teenage-mutant-hero-turtles-world-tour.json) |
@@ -3327,6 +3328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploding Kittens | 88938 | [88938-exploding-kittens.json](./88938-exploding-kittens.json) |
 | Exploding Lips | 92861 | [92861-exploding-lips.json](./92861-exploding-lips.json) |
 | Explomania | 81033 | [81033-explomania.json](./81033-explomania.json) |
+| Exploration | 94317 | [94317-exploration.json](./94317-exploration.json) |
 | Explore Inc | 179030 | [179030-explore-inc.json](./179030-explore-inc.json) |
 | Explore Jam 1 | 275319 | [275319-explore-jam-1.json](./275319-explore-jam-1.json) |
 | Explore Jam 2 | 275322 | [275322-explore-jam-2.json](./275322-explore-jam-2.json) |
