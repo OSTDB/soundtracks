@@ -1458,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | German Tanteidan Marin-gumi: Maruhi Jigomar Sousa File | 41335 | [41335-german-tanteidan-marin-gumi-maruhi-jigomar-sousa-file.json](./41335-german-tanteidan-marin-gumi-maruhi-jigomar-sousa-file.json) |
 | Germany at War: Soviet Dawn | 171491 | [171491-germany-at-war-soviet-dawn.json](./171491-germany-at-war-soviet-dawn.json) |
 | Germany's Next Top Model | 82065 | [82065-germanys-next-top-model.json](./82065-germanys-next-top-model.json) |
+| Germany's Next Top Model 2011 | 65560 | [65560-germanys-next-top-model-2011.json](./65560-germanys-next-top-model-2011.json) |
 | Germany's Next Top Model: Das Offizielle Spiel zur Staffel 2009 | 86128 | [86128-germanys-next-top-model-das-offizielle-spiel-zur-staffel-2009.json](./86128-germanys-next-top-model-das-offizielle-spiel-zur-staffel-2009.json) |
 | GermCraft Deluxe | 208013 | [208013-germcraft-deluxe.json](./208013-germcraft-deluxe.json) |
 | Germinal | 202229 | [202229-germinal.json](./202229-germinal.json) |
@@ -3189,6 +3190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gǒudàn Shénmàoxiǎn: Hěn Shǎ Hěn Tiānzhēn | 153336 | [153336-goudan-shenmaoxian-hen-sha-hen-tianzhen.json](./153336-goudan-shenmaoxian-hen-sha-hen-tianzhen.json) |
 | Goudou Manif | 333077 | [333077-goudou-manif.json](./333077-goudou-manif.json) |
 | Gouketsuji Ichizoku 2: Chottodake Saikyou Densetsu | 39573 | [39573-gouketsuji-ichizoku-2-chottodake-saikyou-densetsu.json](./39573-gouketsuji-ichizoku-2-chottodake-saikyou-densetsu.json) |
+| Gouketsuji Ichizoku Matsuri Senzo Kuyou | 65593 | [65593-gouketsuji-ichizoku-matsuri-senzo-kuyou.json](./65593-gouketsuji-ichizoku-matsuri-senzo-kuyou.json) |
 | Gourds Up | 311628 | [311628-gourds-up.json](./311628-gourds-up.json) |
 | Gourgarion Incubus | 398348 | [398348-gourgarion-incubus.json](./398348-gourgarion-incubus.json) |
 | Gourmania | 50837 | [50837-gourmania.json](./50837-gourmania.json) |
