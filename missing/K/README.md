@@ -1325,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Kings | 231927 | [231927-king-of-kings.json](./231927-king-of-kings.json) |
 | King of Kinks | 195121 | [195121-king-of-kinks.json](./195121-king-of-kinks.json) |
 | King of Meat | 314255 | [314255-king-of-meat.json](./314255-king-of-meat.json) |
+| King of Peasants | 96255 | [96255-king-of-peasants.json](./96255-king-of-peasants.json) |
 | King of Producer | 301435 | [301435-king-of-producer.json](./301435-king-of-producer.json) |
 | King of Pyramid Thieves | 300867 | [300867-king-of-pyramid-thieves.json](./300867-king-of-pyramid-thieves.json) |
 | King of Queendoms | 110609 | [110609-king-of-queendoms.json](./110609-king-of-queendoms.json) |
@@ -1512,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingless Dungeon | 350041 | [350041-kingless-dungeon.json](./350041-kingless-dungeon.json) |
 | Kingmaker | 292554 | [292554-kingmaker.json](./292554-kingmaker.json) |
 | Kingmakers | 287671 | [287671-kingmakers.json](./287671-kingmakers.json) |
+| Kingpin Bowling | 96290 | [96290-kingpin-bowling.json](./96290-kingpin-bowling.json) |
 | Kingpin: Arcade Sports Bowling | 37110 | [37110-kingpin-arcade-sports-bowling.json](./37110-kingpin-arcade-sports-bowling.json) |
 | Kingpin: Reloaded | 128487 | [128487-kingpin-reloaded.json](./128487-kingpin-reloaded.json) |
 | Kings | 78364 | [78364-kings.json](./78364-kings.json) |
