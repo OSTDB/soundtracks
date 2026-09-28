@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cat's Night | 125203 | [125203-a-cats-night.json](./125203-a-cats-night.json) |
 | A Cat's Night 2: Orazio goes to town | 125204 | [125204-a-cats-night-2-orazio-goes-to-town.json](./125204-a-cats-night-2-orazio-goes-to-town.json) |
 | A Cat's Way Home | 337791 | [337791-a-cats-way-home.json](./337791-a-cats-way-home.json) |
+| A Certain Erotic Daily Scenes | 82930 | [82930-a-certain-erotic-daily-scenes.json](./82930-a-certain-erotic-daily-scenes.json) |
 | A Ch'ti Bundle | 147792 | [147792-a-chti-bundle.json](./147792-a-chti-bundle.json) |
 | A Chainsaw Across My Heart | 181155 | [181155-a-chainsaw-across-my-heart.json](./181155-a-chainsaw-across-my-heart.json) |
 | A Challenging Game About Parkour | 379464 | [379464-a-challenging-game-about-parkour.json](./379464-a-challenging-game-about-parkour.json) |
@@ -363,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Quick Journey to the Edge and Back | 177844 | [177844-a-quick-journey-to-the-edge-and-back.json](./177844-a-quick-journey-to-the-edge-and-back.json) |
 | A Quick One Before Azathoth Devours Fodrian | 271299 | [271299-a-quick-one-before-azathoth-devours-fodrian.json](./271299-a-quick-one-before-azathoth-devours-fodrian.json) |
 | A Rally of Trust | 337698 | [337698-a-rally-of-trust.json](./337698-a-rally-of-trust.json) |
+| A Rat Fell in Love with a Human Girl | 82988 | [82988-a-rat-fell-in-love-with-a-human-girl.json](./82988-a-rat-fell-in-love-with-a-human-girl.json) |
 | A Recipe for Survival | 356142 | [356142-a-recipe-for-survival.json](./356142-a-recipe-for-survival.json) |
 | A Red Boat | 229918 | [229918-a-red-boat.json](./229918-a-red-boat.json) |
 | A Regular Pinball Game | 349474 | [349474-a-regular-pinball-game.json](./349474-a-regular-pinball-game.json) |
@@ -1422,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afrika | 130826 | [130826-afrika.json](./130826-afrika.json) |
 | Afro Samurai 2: Revenge of Kuma | 20030 | [20030-afro-samurai-2-revenge-of-kuma.json](./20030-afro-samurai-2-revenge-of-kuma.json) |
 | AfroPenguin & The Forbidden Ramen | 244866 | [244866-afropenguin-and-the-forbidden-ramen.json](./244866-afropenguin-and-the-forbidden-ramen.json) |
+| After All Enema Masochist Daughter Miki | 82932 | [82932-after-all-enema-masochist-daughter-miki.json](./82932-after-all-enema-masochist-daughter-miki.json) |
 | After Burner | 113199 | [113199-after-burner.json](./113199-after-burner.json) |
 | After Burner | 365088 | [365088-after-burner.json](./365088-after-burner.json) |
 | After Burner | 365100 | [365100-after-burner.json](./365100-after-burner.json) |
@@ -1608,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Gumball: Roguelike Spy Game | 86835 | [86835-agent-gumball-roguelike-spy-game.json](./86835-agent-gumball-roguelike-spy-game.json) |
 | Agent Hugo: Hula Holiday | 43512 | [43512-agent-hugo-hula-holiday.json](./43512-agent-hugo-hula-holiday.json) |
 | Agent in Depth | 216716 | [216716-agent-in-depth.json](./216716-agent-in-depth.json) |
+| Agent Karen: Undercover Investigation of an Evil Organization | 82884 | [82884-agent-karen-undercover-investigation-of-an-evil-organization.json](./82884-agent-karen-undercover-investigation-of-an-evil-organization.json) |
 | Agent Klutz | 144910 | [144910-agent-klutz.json](./144910-agent-klutz.json) |
 | Agent Lovesdick | 225635 | [225635-agent-lovesdick.json](./225635-agent-lovesdick.json) |
 | Agent MOO: Maximum Overdeath | 66387 | [66387-agent-moo-maximum-overdeath.json](./66387-agent-moo-maximum-overdeath.json) |
@@ -1668,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Battle Royale Generator | 148364 | [148364-ai-battle-royale-generator.json](./148364-ai-battle-royale-generator.json) |
 | AI Confidential | 304595 | [304595-ai-confidential.json](./304595-ai-confidential.json) |
 | Ai Dawn | 368678 | [368678-ai-dawn.json](./368678-ai-dawn.json) |
+| AI ha Sabaku no Bara no Yume o Miru | 82936 | [82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json](./82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json) |
 | AI Hunter | 151027 | [151027-ai-hunter.json](./151027-ai-hunter.json) |
 | AI Kills All Humans | 258425 | [258425-ai-kills-all-humans.json](./258425-ai-kills-all-humans.json) |
 | Ai Kiss: Limited Edition | 167081 | [167081-ai-kiss-limited-edition.json](./167081-ai-kiss-limited-edition.json) |
@@ -1988,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airwave: I Fought the Law and the Law One | 169988 | [169988-airwave-i-fought-the-law-and-the-law-one.json](./169988-airwave-i-fought-the-law-and-the-law-one.json) |
 | AirwayEx | 215243 | [215243-airwayex.json](./215243-airwayex.json) |
 | Airwolf | 13296 | [13296-airwolf.json](./13296-airwolf.json) |
+| Aisai Nikki | 82968 | [82968-aisai-nikki.json](./82968-aisai-nikki.json) |
 | Aisle | 130832 | [130832-aisle.json](./130832-aisle.json) |
 | Aisle Survive | 410432 | [410432-aisle-survive.json](./410432-aisle-survive.json) |
 | AisleRiot Solitaire | 63236 | [63236-aisleriot-solitaire.json](./63236-aisleriot-solitaire.json) |
@@ -5913,6 +5919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asciill | 192976 | [192976-asciill.json](./192976-asciill.json) |
 | Ascribe | 235990 | [235990-ascribe.json](./235990-ascribe.json) |
 | Ascribe Imya | 382457 | [382457-ascribe-imya.json](./382457-ascribe-imya.json) |
+| ASDA Global | 82963 | [82963-asda-global.json](./82963-asda-global.json) |
 | Asdivine Collection | 172729 | [172729-asdivine-collection.json](./172729-asdivine-collection.json) |
 | Asdivine Cross | 38982 | [38982-asdivine-cross.json](./38982-asdivine-cross.json) |
 | Asdivine Dios | 38981 | [38981-asdivine-dios.json](./38981-asdivine-dios.json) |
