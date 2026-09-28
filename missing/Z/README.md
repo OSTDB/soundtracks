@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Raid: No One Survives | 195274 | [195274-zombie-raid-no-one-survives.json](./195274-zombie-raid-no-one-survives.json) |
 | Zombie Recall VR | 372645 | [372645-zombie-recall-vr.json](./372645-zombie-recall-vr.json) |
 | Zombie Road Rider | 126590 | [126590-zombie-road-rider.json](./126590-zombie-road-rider.json) |
+| Zombie Rogue | 100360 | [100360-zombie-rogue.json](./100360-zombie-rogue.json) |
 | Zombie Roguelite | 291209 | [291209-zombie-roguelite.json](./291209-zombie-roguelite.json) |
 | Zombie Rollerz: Pinball Heroes | 187855 | [187855-zombie-rollerz-pinball-heroes.json](./187855-zombie-rollerz-pinball-heroes.json) |
 | Zombie Rollerz: The Last Ship | 264066 | [264066-zombie-rollerz-the-last-ship.json](./264066-zombie-rollerz-the-last-ship.json) |
