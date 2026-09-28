@@ -2699,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze of Adventures | 81745 | [81745-maze-of-adventures.json](./81745-maze-of-adventures.json) |
 | Maze of Bears | 186321 | [186321-maze-of-bears.json](./186321-maze-of-bears.json) |
 | Maze of Doors | 414417 | [414417-maze-of-doors.json](./414417-maze-of-doors.json) |
+| Maze of Infection | 93719 | [93719-maze-of-infection.json](./93719-maze-of-infection.json) |
 | Maze of Mayhem | 329726 | [329726-maze-of-mayhem.json](./329726-maze-of-mayhem.json) |
 | Maze of Moros | 297510 | [297510-maze-of-moros.json](./297510-maze-of-moros.json) |
 | Maze of Pain | 83951 | [83951-maze-of-pain.json](./83951-maze-of-pain.json) |
@@ -3907,6 +3908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercury Meltdown Remix | 20628 | [20628-mercury-meltdown-remix.json](./20628-mercury-meltdown-remix.json) |
 | Mercury no Aoi Suna | 150125 | [150125-mercury-no-aoi-suna.json](./150125-mercury-no-aoi-suna.json) |
 | Mercury Prime | 157675 | [157675-mercury-prime.json](./157675-mercury-prime.json) |
+| Mercury Race | 93733 | [93733-mercury-race.json](./93733-mercury-race.json) |
 | Mercury Rising | 332809 | [332809-mercury-rising.json](./332809-mercury-rising.json) |
 | Mercury: Cascade into Madness | 52257 | [52257-mercury-cascade-into-madness.json](./52257-mercury-cascade-into-madness.json) |
 | Mercy Incore | 388387 | [388387-mercy-incore.json](./388387-mercy-incore.json) |
