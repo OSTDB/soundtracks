@@ -5437,6 +5437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonnie's Bookstore | 3757 | [3757-bonnies-bookstore.json](./3757-bonnies-bookstore.json) |
 | Bonsai Calendar | 142859 | [142859-bonsai-calendar.json](./142859-bonsai-calendar.json) |
 | BonVoyage! | 118785 | [118785-bonvoyage.json](./118785-bonvoyage.json) |
+| Bonx | 92059 | [92059-bonx.json](./92059-bonx.json) |
 | Bonza Planet | 354445 | [354445-bonza-planet.json](./354445-bonza-planet.json) |
 | Bonza Word Puzzle | 90678 | [90678-bonza-word-puzzle.json](./90678-bonza-word-puzzle.json) |
 | Bonzala | 269595 | [269595-bonzala.json](./269595-bonzala.json) |
@@ -7504,6 +7505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Secrets: A Bara Visual Novel | 236398 | [236398-burning-secrets-a-bara-visual-novel.json](./236398-burning-secrets-a-bara-visual-novel.json) |
 | Burning Secrets: A Bara Visual Novel | 275891 | [275891-burning-secrets-a-bara-visual-novel.json](./275891-burning-secrets-a-bara-visual-novel.json) |
 | Burning Sky | 336709 | [336709-burning-sky.json](./336709-burning-sky.json) |
+| Burning Steel: Superschiffe im Atlantik | 92067 | [92067-burning-steel-superschiffe-im-atlantik.json](./92067-burning-steel-superschiffe-im-atlantik.json) |
 | Burning Tail Banquet | 403789 | [403789-burning-tail-banquet.json](./403789-burning-tail-banquet.json) |
 | Burning Vengeance | 241520 | [241520-burning-vengeance.json](./241520-burning-vengeance.json) |
 | Burning, Crackling | 396540 | [396540-burning-crackling.json](./396540-burning-crackling.json) |
