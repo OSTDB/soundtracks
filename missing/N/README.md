@@ -910,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko's Rage | 251840 | [251840-nekos-rage.json](./251840-nekos-rage.json) |
 | Nekobabaa: Melonbooks Omake Tokubetsu-hen | 212253 | [212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json](./212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json) |
 | NekoChan Hero Collection | 210754 | [210754-nekochan-hero-collection.json](./210754-nekochan-hero-collection.json) |
+| NekoCharm | 111227 | [111227-nekocharm.json](./111227-nekocharm.json) |
 | Nekodancer | 197658 | [197658-nekodancer.json](./197658-nekodancer.json) |
 | Nekoglai Simulator | 193409 | [193409-nekoglai-simulator.json](./193409-nekoglai-simulator.json) |
 | Nekograms | 187838 | [187838-nekograms.json](./187838-nekograms.json) |
@@ -2998,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Just An Ordinary Ballerina | 60018 | [60018-not-just-an-ordinary-ballerina.json](./60018-not-just-an-ordinary-ballerina.json) |
 | Not Match | 232147 | [232147-not-match.json](./232147-not-match.json) |
 | Not Meow Purroblem | 247539 | [247539-not-meow-purroblem.json](./247539-not-meow-purroblem.json) |
+| Not my day | 111170 | [111170-not-my-day.json](./111170-not-my-day.json) |
 | Not My Hand | 391744 | [391744-not-my-hand.json](./391744-not-my-hand.json) |
 | Not My President: Level 1 | 174096 | [174096-not-my-president-level-1.json](./174096-not-my-president-level-1.json) |
 | Not My Son | 405693 | [405693-not-my-son.json](./405693-not-my-son.json) |
