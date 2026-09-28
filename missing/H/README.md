@@ -5305,10 +5305,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter of the Disowned | 156088 | [156088-hunter-of-the-disowned.json](./156088-hunter-of-the-disowned.json) |
 | Hunter Patrol | 13883 | [13883-hunter-patrol.json](./13883-hunter-patrol.json) |
 | Hunter Simulator VR: Wild Hunting | 391345 | [391345-hunter-simulator-vr-wild-hunting.json](./391345-hunter-simulator-vr-wild-hunting.json) |
+| Hunter X Hunter: Maboroshi no Greed Island | 60607 | [60607-hunter-x-hunter-maboroshi-no-greed-island.json](./60607-hunter-x-hunter-maboroshi-no-greed-island.json) |
 | Hunter x Hunter: Nen x Impact | 281740 | [281740-hunter-x-hunter-nen-x-impact.json](./281740-hunter-x-hunter-nen-x-impact.json) |
 | Hunter x Hunter: Nen x Impact - Additional Character 2 Phinks | 375152 | [375152-hunter-x-hunter-nen-x-impact-additional-character-2-phinks.json](./375152-hunter-x-hunter-nen-x-impact-additional-character-2-phinks.json) |
 | Hunter x Hunter: Nen x Impact - Additional Character 3 Shizuku | 375153 | [375153-hunter-x-hunter-nen-x-impact-additional-character-3-shizuku.json](./375153-hunter-x-hunter-nen-x-impact-additional-character-3-shizuku.json) |
 | Hunter x Hunter: Nen x Impact - Additional Character 4 Zeno | 375154 | [375154-hunter-x-hunter-nen-x-impact-additional-character-4-zeno.json](./375154-hunter-x-hunter-nen-x-impact-additional-character-4-zeno.json) |
+| Hunter X Hunter: Ubawareta Aura Stone | 60606 | [60606-hunter-x-hunter-ubawareta-aura-stone.json](./60606-hunter-x-hunter-ubawareta-aura-stone.json) |
+| Hunter X Hunter: Wonder Adventure | 60605 | [60605-hunter-x-hunter-wonder-adventure.json](./60605-hunter-x-hunter-wonder-adventure.json) |
 | Hunter x Hunter: World Hunt | 122886 | [122886-hunter-x-hunter-world-hunt.json](./122886-hunter-x-hunter-world-hunt.json) |
 | Hunter X: Begin | 171067 | [171067-hunter-x-begin.json](./171067-hunter-x-begin.json) |
 | Hunter: Avendzer Dragon | 145646 | [145646-hunter-avendzer-dragon.json](./145646-hunter-avendzer-dragon.json) |
