@@ -688,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Chaosbane - Deluxe Edition | 115064 | [115064-warhammer-chaosbane-deluxe-edition.json](./115064-warhammer-chaosbane-deluxe-edition.json) |
 | Warhammer: Chaosbane - Magnus Edition | 115065 | [115065-warhammer-chaosbane-magnus-edition.json](./115065-warhammer-chaosbane-magnus-edition.json) |
 | Warhammer: Chaosbane - Slayer Edition | 139948 | [139948-warhammer-chaosbane-slayer-edition.json](./139948-warhammer-chaosbane-slayer-edition.json) |
+| Warhammer: Doomwheel | 98025 | [98025-warhammer-doomwheel.json](./98025-warhammer-doomwheel.json) |
 | Warhammer: Mark of Chaos - Gold Edition | 154551 | [154551-warhammer-mark-of-chaos-gold-edition.json](./154551-warhammer-mark-of-chaos-gold-edition.json) |
 | Warhammer: Odyssey | 130881 | [130881-warhammer-odyssey.json](./130881-warhammer-odyssey.json) |
 | Warhammer: Shadow of the Horned Rat | 5527 | [5527-warhammer-shadow-of-the-horned-rat.json](./5527-warhammer-shadow-of-the-horned-rat.json) |
@@ -1708,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheelz2 | 90115 | [90115-wheelz2.json](./90115-wheelz2.json) |
 | Whelm | 296363 | [296363-whelm.json](./296363-whelm.json) |
 | When a Man Lose His Job | 147874 | [147874-when-a-man-lose-his-job.json](./147874-when-a-man-lose-his-job.json) |
+| When A Mimosa Blooms | 98021 | [98021-when-a-mimosa-blooms.json](./98021-when-a-mimosa-blooms.json) |
 | When Bricks Fly | 224534 | [224534-when-bricks-fly.json](./224534-when-bricks-fly.json) |
 | When Day Breaks | 216346 | [216346-when-day-breaks.json](./216346-when-day-breaks.json) |
 | When Dreams Wake | 398342 | [398342-when-dreams-wake.json](./398342-when-dreams-wake.json) |
@@ -3042,6 +3044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderful Waking World | 203873 | [203873-wonderful-waking-world.json](./203873-wonderful-waking-world.json) |
 | Wonderful Wizard Reverie | 415892 | [415892-wonderful-wizard-reverie.json](./415892-wonderful-wizard-reverie.json) |
 | Wonderful World | 124719 | [124719-wonderful-world.json](./124719-wonderful-world.json) |
+| Wonderful.Love | 98019 | [98019-wonderful-love.json](./98019-wonderful-love.json) |
 | Wonderglade | 123424 | [123424-wonderglade.json](./123424-wonderglade.json) |
 | Wonderia | 285979 | [285979-wonderia.json](./285979-wonderia.json) |
 | WonderKing | 385831 | [385831-wonderking.json](./385831-wonderking.json) |
@@ -3657,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World's Best Chess: Fritz 8 Deluxe | 93043 | [93043-worlds-best-chess-fritz-8-deluxe.json](./93043-worlds-best-chess-fritz-8-deluxe.json) |
 | World's Biggest Solitaire | 109918 | [109918-worlds-biggest-solitaire.json](./109918-worlds-biggest-solitaire.json) |
 | World's End Club | 110581 | [110581-worlds-end-club.json](./110581-worlds-end-club.json) |
+| World's End Garden | 98043 | [98043-worlds-end-garden.json](./98043-worlds-end-garden.json) |
 | World's Fair Jig Saw | 130865 | [130865-worlds-fair-jig-saw.json](./130865-worlds-fair-jig-saw.json) |
 | World's Fastest Pizza | 34599 | [34599-worlds-fastest-pizza.json](./34599-worlds-fastest-pizza.json) |
 | World's Greatest Cities Mosaics 10 | 294471 | [294471-worlds-greatest-cities-mosaics-10.json](./294471-worlds-greatest-cities-mosaics-10.json) |
