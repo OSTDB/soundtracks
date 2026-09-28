@@ -383,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | National Park Girls: Episode 3 - Daughter of Zion | 164445 | [164445-national-park-girls-episode-3-daughter-of-zion.json](./164445-national-park-girls-episode-3-daughter-of-zion.json) |
 | National Park Girls: Episode 4 - Eternal Evergreen Part 1 | 164446 | [164446-national-park-girls-episode-4-eternal-evergreen-part-1.json](./164446-national-park-girls-episode-4-eternal-evergreen-part-1.json) |
 | National Park Girls: Love Our Parks Edition | 334285 | [334285-national-park-girls-love-our-parks-edition.json](./334285-national-park-girls-love-our-parks-edition.json) |
+| National Park Legend: Bigfoot | 101109 | [101109-national-park-legend-bigfoot.json](./101109-national-park-legend-bigfoot.json) |
 | National Rugby Manager | 81005 | [81005-national-rugby-manager.json](./81005-national-rugby-manager.json) |
 | National Videogame Museum | 251545 | [251545-national-videogame-museum.json](./251545-national-videogame-museum.json) |
 | National Zombie Park | 36148 | [36148-national-zombie-park.json](./36148-national-zombie-park.json) |
