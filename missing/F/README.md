@@ -5982,6 +5982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi no Daibouken: Cirno Kenzan! | 142878 | [142878-fushigi-no-daibouken-cirno-kenzan.json](./142878-fushigi-no-daibouken-cirno-kenzan.json) |
 | Fushigi no Daibouken: Cirno Kenzan! 2 | 142894 | [142894-fushigi-no-daibouken-cirno-kenzan-2.json](./142894-fushigi-no-daibouken-cirno-kenzan-2.json) |
 | Fushigi no Dungeon 2: Fuurai no Shiren | 103496 | [103496-fushigi-no-dungeon-2-fuurai-no-shiren.json](./103496-fushigi-no-dungeon-2-fuurai-no-shiren.json) |
+| Fushigi no Dungeon: Fuurai no Shiren 2 - Oni Shuurai! Shiren-jou! | 67376 | [67376-fushigi-no-dungeon-fuurai-no-shiren-2-oni-shuurai-shiren-jou.json](./67376-fushigi-no-dungeon-fuurai-no-shiren-2-oni-shuurai-shiren-jou.json) |
 | Fushigi no Dungeon: Fuurai no Shiren 3 Portable | 80618 | [80618-fushigi-no-dungeon-fuurai-no-shiren-3-portable.json](./80618-fushigi-no-dungeon-fuurai-no-shiren-3-portable.json) |
 | Fushigi no Dungeon: Fuurai no Shiren 4 Plus - Kami no Hitomi to Akuma no Heso | 103507 | [103507-fushigi-no-dungeon-fuurai-no-shiren-4-plus-kami-no-hitomi-to-akuma-no-heso.json](./103507-fushigi-no-dungeon-fuurai-no-shiren-4-plus-kami-no-hitomi-to-akuma-no-heso.json) |
 | Fushigi no Dungeon: Fuurai no Shiren DS2 - Sabaku no Majou | 103508 | [103508-fushigi-no-dungeon-fuurai-no-shiren-ds2-sabaku-no-majou.json](./103508-fushigi-no-dungeon-fuurai-no-shiren-ds2-sabaku-no-majou.json) |
