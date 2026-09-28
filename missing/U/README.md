@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U R Hell | 271998 | [271998-u-r-hell.json](./271998-u-r-hell.json) |
 | U-Boat | 347698 | [347698-u-boat.json](./347698-u-boat.json) |
 | U-Boot - submarine game | 87713 | [87713-u-boot-submarine-game.json](./87713-u-boot-submarine-game.json) |
+| U-Boot 1945 | 102969 | [102969-u-boot-1945.json](./102969-u-boot-1945.json) |
 | U-Force Power Games | 48873 | [48873-u-force-power-games.json](./48873-u-force-power-games.json) |
 | U-jin no Furi-furi Girls | 37751 | [37751-u-jin-no-furi-furi-girls.json](./37751-u-jin-no-furi-furi-girls.json) |
 | U-jin: Janjuu Gakuen | 42210 | [42210-u-jin-janjuu-gakuen.json](./42210-u-jin-janjuu-gakuen.json) |
@@ -1363,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up All Knight | 232371 | [232371-up-all-knight.json](./232371-up-all-knight.json) |
 | Up All Night | 165064 | [165064-up-all-night.json](./165064-up-all-night.json) |
 | Up All Night: Rumination | 225305 | [225305-up-all-night-rumination.json](./225305-up-all-night-rumination.json) |
+| Up and Up | 102973 | [102973-up-and-up.json](./102973-up-and-up.json) |
 | Up Down Z | 136235 | [136235-up-down-z.json](./136235-up-down-z.json) |
 | Up for Grabs | 268025 | [268025-up-for-grabs.json](./268025-up-for-grabs.json) |
 | Up on the Rooftop | 130235 | [130235-up-on-the-rooftop.json](./130235-up-on-the-rooftop.json) |
