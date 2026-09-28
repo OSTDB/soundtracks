@@ -1190,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scamster Kombat | 366931 | [366931-scamster-kombat.json](./366931-scamster-kombat.json) |
 | Scan Alien | 238987 | [238987-scan-alien.json](./238987-scan-alien.json) |
 | Scan Hunter: Sen-nen Kaigyo wo Oe! | 56528 | [56528-scan-hunter-sen-nen-kaigyo-wo-oe.json](./56528-scan-hunter-sen-nen-kaigyo-wo-oe.json) |
+| Scandal | 65027 | [65027-scandal.json](./65027-scandal.json) |
 | Scandinavian Cottage Survival Simulator | 360000 | [360000-scandinavian-cottage-survival-simulator.json](./360000-scandinavian-cottage-survival-simulator.json) |
 | Scanline | 180810 | [180810-scanline.json](./180810-scanline.json) |
 | Scanner Force | 402269 | [402269-scanner-force.json](./402269-scanner-force.json) |
@@ -1203,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarab Shooter | 72065 | [72065-scarab-shooter.json](./72065-scarab-shooter.json) |
 | Scarab Solitaire | 209029 | [209029-scarab-solitaire.json](./209029-scarab-solitaire.json) |
 | Scarabeus | 48858 | [48858-scarabeus.json](./48858-scarabeus.json) |
+| Scarabeus: Pearls of Nile | 65037 | [65037-scarabeus-pearls-of-nile.json](./65037-scarabeus-pearls-of-nile.json) |
 | Scare: Fatal Picture | 253871 | [253871-scare-fatal-picture.json](./253871-scare-fatal-picture.json) |
 | Scarecrow vs. Big Butt Birds | 296389 | [296389-scarecrow-vs-big-butt-birds.json](./296389-scarecrow-vs-big-butt-birds.json) |
 | Scarecrow: Heart of Straw | 408146 | [408146-scarecrow-heart-of-straw.json](./408146-scarecrow-heart-of-straw.json) |
@@ -3906,6 +3908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shipwrecked 64 | 284041 | [284041-shipwrecked-64.json](./284041-shipwrecked-64.json) |
 | Shipwrecked: A Quick Automation | 360651 | [360651-shipwrecked-a-quick-automation.json](./360651-shipwrecked-a-quick-automation.json) |
 | Shipwrecked: Lost Colony | 298166 | [298166-shipwrecked-lost-colony.json](./298166-shipwrecked-lost-colony.json) |
+| Shirachuu Tankenbu | 65020 | [65020-shirachuu-tankenbu.json](./65020-shirachuu-tankenbu.json) |
 | Shiraha Kirameku Koi Shirabe | 194531 | [194531-shiraha-kirameku-koi-shirabe.json](./194531-shiraha-kirameku-koi-shirabe.json) |
 | Shirazu Yama | 196886 | [196886-shirazu-yama.json](./196886-shirazu-yama.json) |
 | Shire Scopes | 255126 | [255126-shire-scopes.json](./255126-shire-scopes.json) |
@@ -6994,6 +6997,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Superstar | 358393 | [358393-soccer-superstar.json](./358393-soccer-superstar.json) |
 | Soccer Team Manager: English and Italian Leagues | 93376 | [93376-soccer-team-manager-english-and-italian-leagues.json](./93376-soccer-team-manager-english-and-italian-leagues.json) |
 | Soccer Tsuku 2002 | 372581 | [372581-soccer-tsuku-2002.json](./372581-soccer-tsuku-2002.json) |
+| Soccer Tsuku DS: Touch and Direct | 65016 | [65016-soccer-tsuku-ds-touch-and-direct.json](./65016-soccer-tsuku-ds-touch-and-direct.json) |
+| Soccer Tsuku DS: World Challenge 2010 | 65014 | [65014-soccer-tsuku-ds-world-challenge-2010.json](./65014-soccer-tsuku-ds-world-challenge-2010.json) |
 | Soccer VR | 329004 | [329004-soccer-vr.json](./329004-soccer-vr.json) |
 | Soccer VR Football | 200169 | [200169-soccer-vr-football.json](./200169-soccer-vr-football.json) |
 | Soccer Wind Shot | 233736 | [233736-soccer-wind-shot.json](./233736-soccer-wind-shot.json) |
@@ -14543,6 +14548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Space Invaders | 12859 | [12859-super-space-invaders.json](./12859-super-space-invaders.json) |
 | Super Space Jump Man | 115628 | [115628-super-space-jump-man.json](./115628-super-space-jump-man.json) |
 | Super Space Meltdown | 34805 | [34805-super-space-meltdown.json](./34805-super-space-meltdown.json) |
+| Super Space Rubbish | 65015 | [65015-super-space-rubbish.json](./65015-super-space-rubbish.json) |
 | Super Space Serpent SE + Perpetuum: Mobile Bundle | 212789 | [212789-super-space-serpent-se-perpetuum-mobile-bundle.json](./212789-super-space-serpent-se-perpetuum-mobile-bundle.json) |
 | Super Space Serpent: Secondary Edition | 117529 | [117529-super-space-serpent-secondary-edition.json](./117529-super-space-serpent-secondary-edition.json) |
 | Super Space Shooter Arena | 127204 | [127204-super-space-shooter-arena.json](./127204-super-space-shooter-arena.json) |
@@ -14972,6 +14978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survarium: Steam Shotgun Pack | 162712 | [162712-survarium-steam-shotgun-pack.json](./162712-survarium-steam-shotgun-pack.json) |
 | Survarium: Vepr 'Molot' | 171054 | [171054-survarium-vepr-molot.json](./171054-survarium-vepr-molot.json) |
 | Surveillance | 267684 | [267684-surveillance.json](./267684-surveillance.json) |
+| Surveillance Kanshisha | 65021 | [65021-surveillance-kanshisha.json](./65021-surveillance-kanshisha.json) |
 | Surveillance Simulator | 287736 | [287736-surveillance-simulator.json](./287736-surveillance-simulator.json) |
 | Survial | 274577 | [274577-survial.json](./274577-survial.json) |
 | SurviBall | 339473 | [339473-surviball.json](./339473-surviball.json) |
@@ -15014,6 +15021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival on a Deserted Island | 265134 | [265134-survival-on-a-deserted-island.json](./265134-survival-on-a-deserted-island.json) |
 | Survival on Raft in the Ocean | 106126 | [106126-survival-on-raft-in-the-ocean.json](./106126-survival-on-raft-in-the-ocean.json) |
 | Survival Overgrowth | 106729 | [106729-survival-overgrowth.json](./106729-survival-overgrowth.json) |
+| Survival Project | 65002 | [65002-survival-project.json](./65002-survival-project.json) |
 | Survival Prototype X | 302354 | [302354-survival-prototype-x.json](./302354-survival-prototype-x.json) |
 | Survival Raft Simulator: Lost at Sea | 282142 | [282142-survival-raft-simulator-lost-at-sea.json](./282142-survival-raft-simulator-lost-at-sea.json) |
 | Survival RPG 2: The Temple Ruins | 169463 | [169463-survival-rpg-2-the-temple-ruins.json](./169463-survival-rpg-2-the-temple-ruins.json) |
