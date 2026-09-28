@@ -2412,6 +2412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chant | 125948 | [125948-chant.json](./125948-chant.json) |
 | Chant Wizard | 391309 | [391309-chant-wizard.json](./391309-chant-wizard.json) |
 | Chantelise - A Tale of Two Sisters | 12525 | [12525-chantelise-a-tale-of-two-sisters.json](./12525-chantelise-a-tale-of-two-sisters.json) |
+| Chanter: Kimi no Uta ga Todoitara | 77906 | [77906-chanter-kimi-no-uta-ga-todoitara.json](./77906-chanter-kimi-no-uta-ga-todoitara.json) |
 | Chao Adventure | 225623 | [225623-chao-adventure.json](./225623-chao-adventure.json) |
 | Chao Adventure | 331473 | [331473-chao-adventure.json](./331473-chao-adventure.json) |
 | Chao Adventure 2 | 225624 | [225624-chao-adventure-2.json](./225624-chao-adventure-2.json) |
@@ -2555,6 +2556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charrua Soccer: Mirror Edition | 280344 | [280344-charrua-soccer-mirror-edition.json](./280344-charrua-soccer-mirror-edition.json) |
 | Charrua Soccer: Pro Edition | 277310 | [277310-charrua-soccer-pro-edition.json](./277310-charrua-soccer-pro-edition.json) |
 | Chart Attack | 94340 | [94340-chart-attack.json](./94340-chart-attack.json) |
+| Chart Wars 3 | 78094 | [78094-chart-wars-3.json](./78094-chart-wars-3.json) |
 | Chart Weaver | 382892 | [382892-chart-weaver.json](./382892-chart-weaver.json) |
 | Chart1647 | 242654 | [242654-chart1647.json](./242654-chart1647.json) |
 | Charterstone: Digital Edition | 117869 | [117869-charterstone-digital-edition.json](./117869-charterstone-digital-edition.json) |
@@ -7984,6 +7986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthuloop | 381119 | [381119-cthuloop.json](./381119-cthuloop.json) |
 | Cthuloot | 235448 | [235448-cthuloot.json](./235448-cthuloot.json) |
 | CTR: St. Patrick's Day Racing | 399179 | [399179-ctr-st-patricks-day-racing.json](./399179-ctr-st-patricks-day-racing.json) |
+| Ctrl | 78068 | [78068-ctrl.json](./78068-ctrl.json) |
 | Ctrl CV | 101514 | [101514-ctrl-cv.json](./101514-ctrl-cv.json) |
 | CTRL Phreak | 169758 | [169758-ctrl-phreak.json](./169758-ctrl-phreak.json) |
 | Ctrl-U | 272863 | [272863-ctrl-u.json](./272863-ctrl-u.json) |
