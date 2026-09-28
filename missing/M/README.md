@@ -645,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Beat | 52549 | [52549-magical-beat.json](./52549-magical-beat.json) |
 | Magical Blaster | 151741 | [151741-magical-blaster.json](./151741-magical-blaster.json) |
 | Magical Boco | 313464 | [313464-magical-boco.json](./313464-magical-boco.json) |
+| Magical Broom eXtreme | 83616 | [83616-magical-broom-extreme.json](./83616-magical-broom-extreme.json) |
 | Magical Cat Adventure | 39545 | [39545-magical-cat-adventure.json](./39545-magical-cat-adventure.json) |
 | Magical Charming! | 410465 | [410465-magical-charming.json](./410465-magical-charming.json) |
 | Magical Chaser: Stardust of Dreams | 315061 | [315061-magical-chaser-stardust-of-dreams.json](./315061-magical-chaser-stardust-of-dreams.json) |
