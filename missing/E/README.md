@@ -780,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Ladrón del Tiempo | 321134 | [321134-el-ladron-del-tiempo.json](./321134-el-ladron-del-tiempo.json) |
 | El Llamero Solitario | 404453 | [404453-el-llamero-solitario.json](./404453-el-llamero-solitario.json) |
 | El Ministerio del Tiempo VR: El tiempo en tus manos | 72345 | [72345-el-ministerio-del-tiempo-vr-el-tiempo-en-tus-manos.json](./72345-el-ministerio-del-tiempo-vr-el-tiempo-en-tus-manos.json) |
+| El Ministerio del Tiempo VR: Salva el tiempo | 74294 | [74294-el-ministerio-del-tiempo-vr-salva-el-tiempo.json](./74294-el-ministerio-del-tiempo-vr-salva-el-tiempo.json) |
 | El Misterio del Nilo | 104590 | [104590-el-misterio-del-nilo.json](./104590-el-misterio-del-nilo.json) |
 | El Narco | 321170 | [321170-el-narco.json](./321170-el-narco.json) |
 | El Ne Rue | 232943 | [232943-el-ne-rue.json](./232943-el-ne-rue.json) |
@@ -2868,6 +2869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest II: Chains of Eternity | 18318 | [18318-everquest-ii-chains-of-eternity.json](./18318-everquest-ii-chains-of-eternity.json) |
 | EverQuest II: Echoes of Faydwer | 20631 | [20631-everquest-ii-echoes-of-faydwer.json](./20631-everquest-ii-echoes-of-faydwer.json) |
 | EverQuest II: Kingdom of Sky | 20490 | [20490-everquest-ii-kingdom-of-sky.json](./20490-everquest-ii-kingdom-of-sky.json) |
+| EverQuest II: Planes of Prophecy | 75212 | [75212-everquest-ii-planes-of-prophecy.json](./75212-everquest-ii-planes-of-prophecy.json) |
 | EverQuest II: Sentinel's Fate | 4208 | [4208-everquest-ii-sentinels-fate.json](./4208-everquest-ii-sentinels-fate.json) |
 | EverQuest II: The Bloodline Chronicles | 111024 | [111024-everquest-ii-the-bloodline-chronicles.json](./111024-everquest-ii-the-bloodline-chronicles.json) |
 | EverQuest II: The Fallen Dynasty | 20533 | [20533-everquest-ii-the-fallen-dynasty.json](./20533-everquest-ii-the-fallen-dynasty.json) |
@@ -2878,6 +2880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest Online Adventures | 23742 | [23742-everquest-online-adventures.json](./23742-everquest-online-adventures.json) |
 | EverQuest: Night of Shadows | 239190 | [239190-everquest-night-of-shadows.json](./239190-everquest-night-of-shadows.json) |
 | EverQuest: Omens of War | 24247 | [24247-everquest-omens-of-war.json](./24247-everquest-omens-of-war.json) |
+| EverQuest: Ring of Scale | 75211 | [75211-everquest-ring-of-scale.json](./75211-everquest-ring-of-scale.json) |
 | EverQuest: Seeds of Destruction | 69284 | [69284-everquest-seeds-of-destruction.json](./69284-everquest-seeds-of-destruction.json) |
 | EverQuest: The Broken Mirror | 13184 | [13184-everquest-the-broken-mirror.json](./13184-everquest-the-broken-mirror.json) |
 | EverQuest: The Planes of Power | 79300 | [79300-everquest-the-planes-of-power.json](./79300-everquest-the-planes-of-power.json) |
@@ -2908,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Wednesday | 387366 | [387366-every-wednesday.json](./387366-every-wednesday.json) |
 | Every Year Banjir | 254765 | [254765-every-year-banjir.json](./254765-every-year-banjir.json) |
 | Everybody 1-2-Switch | 251588 | [251588-everybody-1-2-switch.json](./251588-everybody-1-2-switch.json) |
+| Everybody Edits | 74298 | [74298-everybody-edits.json](./74298-everybody-edits.json) |
 | Everybody Got Mad | 135744 | [135744-everybody-got-mad.json](./135744-everybody-got-mad.json) |
 | Everybody Herds | 350425 | [350425-everybody-herds.json](./350425-everybody-herds.json) |
 | Everybody Loves Skeletons | 121453 | [121453-everybody-loves-skeletons.json](./121453-everybody-loves-skeletons.json) |
