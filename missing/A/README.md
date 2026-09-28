@@ -605,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aaero2 | 304670 | [304670-aaero2.json](./304670-aaero2.json) |
 | Aah Little Atlantis | 91911 | [91911-aah-little-atlantis.json](./91911-aah-little-atlantis.json) |
 | Aardwolf MUD | 228684 | [228684-aardwolf-mud.json](./228684-aardwolf-mud.json) |
+| Aargon Deluxe | 70984 | [70984-aargon-deluxe.json](./70984-aargon-deluxe.json) |
 | Aaron vs. Ruth: Battle of the Big Bats | 69280 | [69280-aaron-vs-ruth-battle-of-the-big-bats.json](./69280-aaron-vs-ruth-battle-of-the-big-bats.json) |
 | Aaron's Particle Space | 185416 | [185416-aarons-particle-space.json](./185416-aarons-particle-space.json) |
 | AAS Mos Apocalypse | 283871 | [283871-aas-mos-apocalypse.json](./283871-aas-mos-apocalypse.json) |
@@ -2355,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alfred Hitchcock: Vertigo - Limited Edition | 207386 | [207386-alfred-hitchcock-vertigo-limited-edition.json](./207386-alfred-hitchcock-vertigo-limited-edition.json) |
 | Alfred is a Bad Guy | 318611 | [318611-alfred-is-a-bad-guy.json](./318611-alfred-is-a-bad-guy.json) |
 | Alfred Pelrock | 73801 | [73801-alfred-pelrock.json](./73801-alfred-pelrock.json) |
+| Alfredo's Stupendous Surprise | 71050 | [71050-alfredos-stupendous-surprise.json](./71050-alfredos-stupendous-surprise.json) |
 | Algae | 106601 | [106601-algae.json](./106601-algae.json) |
 | Alganon | 35736 | [35736-alganon.json](./35736-alganon.json) |
 | Algatraz | 358857 | [358857-algatraz.json](./358857-algatraz.json) |
@@ -4317,6 +4319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anpanman to Asobo: AIUEO Kyoushitsu DX | 67285 | [67285-anpanman-to-asobo-aiueo-kyoushitsu-dx.json](./67285-anpanman-to-asobo-aiueo-kyoushitsu-dx.json) |
 | Anpanman to Asobo: New AIUEO Kyoushitsu | 59053 | [59053-anpanman-to-asobo-new-aiueo-kyoushitsu.json](./59053-anpanman-to-asobo-new-aiueo-kyoushitsu.json) |
 | Anpanman to Asobu: AIUEO Kyoushitsu | 67284 | [67284-anpanman-to-asobu-aiueo-kyoushitsu.json](./67284-anpanman-to-asobu-aiueo-kyoushitsu.json) |
+| Anpanman to Touch de Waku-waku Training | 71032 | [71032-anpanman-to-touch-de-waku-waku-training.json](./71032-anpanman-to-touch-de-waku-waku-training.json) |
 | Anpanman Touch de Enjoy! AIUEO Kyoushitsu for Nintendo Switch | 381265 | [381265-anpanman-touch-de-enjoy-aiueo-kyoushitsu-for-nintendo-switch.json](./381265-anpanman-touch-de-enjoy-aiueo-kyoushitsu-for-nintendo-switch.json) |
 | Anpfiff: Der RTL Fussball-Manager | 81449 | [81449-anpfiff-der-rtl-fussball-manager.json](./81449-anpfiff-der-rtl-fussball-manager.json) |
 | Anseion | 245810 | [245810-anseion.json](./245810-anseion.json) |
