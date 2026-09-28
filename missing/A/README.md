@@ -3435,6 +3435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Un-epic story: The adventure of Enki and Tiny Freddie | 174093 | [174093-an-un-epic-story-the-adventure-of-enki-and-tiny-freddie.json](./174093-an-un-epic-story-the-adventure-of-enki-and-tiny-freddie.json) |
 | An Unnamed Jumping Game | 321750 | [321750-an-unnamed-jumping-game.json](./321750-an-unnamed-jumping-game.json) |
 | An Update is Pending | 129651 | [129651-an-update-is-pending.json](./129651-an-update-is-pending.json) |
+| Ana: The Game | 93718 | [93718-ana-the-game.json](./93718-ana-the-game.json) |
 | Ana'Adventure | 357430 | [357430-anaadventure.json](./357430-anaadventure.json) |
 | Anachroma | 211404 | [211404-anachroma.json](./211404-anachroma.json) |
 | Anachron | 377084 | [377084-anachron.json](./377084-anachron.json) |
