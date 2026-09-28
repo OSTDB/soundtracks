@@ -905,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Ventura: Pet Detective - The Case of the Serial Shaver | 61643 | [61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json](./61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json) |
 | ACE: Alice Card Episode | 385869 | [385869-ace-alice-card-episode.json](./385869-ace-alice-card-episode.json) |
 | Aceball | 77272 | [77272-aceball.json](./77272-aceball.json) |
+| Acedior | 70432 | [70432-acedior.json](./70432-acedior.json) |
 | AceForce 2 | 311282 | [311282-aceforce-2.json](./311282-aceforce-2.json) |
 | Aceonline: DuelX | 95871 | [95871-aceonline-duelx.json](./95871-aceonline-duelx.json) |
 | Aces of the Air | 43938 | [43938-aces-of-the-air.json](./43938-aces-of-the-air.json) |
@@ -1014,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Game Maker | 344533 | [344533-action-game-maker.json](./344533-action-game-maker.json) |
 | Action Half-Life | 221840 | [221840-action-half-life.json](./221840-action-half-life.json) |
 | Action Henk | 14550 | [14550-action-henk.json](./14550-action-henk.json) |
+| Action in the North Atlantic | 70452 | [70452-action-in-the-north-atlantic.json](./70452-action-in-the-north-atlantic.json) |
 | Action Man A.T.O.M.: Alpha Teens on Machines | 83248 | [83248-action-man-a-t-o-m-alpha-teens-on-machines.json](./83248-action-man-a-t-o-m-alpha-teens-on-machines.json) |
 | Action Man: Destruction X | 44848 | [44848-action-man-destruction-x.json](./44848-action-man-destruction-x.json) |
 | Action News Heroes | 51614 | [51614-action-news-heroes.json](./51614-action-news-heroes.json) |
@@ -3084,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Am I the baddie? | 173287 | [173287-am-i-the-baddie.json](./173287-am-i-the-baddie.json) |
 | Ama Me (In Incisis) | 297551 | [297551-ama-me-in-incisis.json](./297551-ama-me-in-incisis.json) |
 | AMA Superbike | 94233 | [94233-ama-superbike.json](./94233-ama-superbike.json) |
+| Amadeus Revenge | 70471 | [70471-amadeus-revenge.json](./70471-amadeus-revenge.json) |
 | Amadeus: A Riddle for Thee - Episode 1: Waltz | 296491 | [296491-amadeus-a-riddle-for-thee-episode-1-waltz.json](./296491-amadeus-a-riddle-for-thee-episode-1-waltz.json) |
 | Amado | 14496 | [14496-amado.json](./14496-amado.json) |
 | Amaekata wa Kanojo Nari ni | 55880 | [55880-amaekata-wa-kanojo-nari-ni.json](./55880-amaekata-wa-kanojo-nari-ni.json) |
