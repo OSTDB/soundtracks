@@ -5032,6 +5032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millie and Molly | 179661 | [179661-millie-and-molly.json](./179661-millie-and-molly.json) |
 | Millika Village | 101749 | [101749-millika-village.json](./101749-millika-village.json) |
 | Million Arthur: Arcana Blood | 44529 | [44529-million-arthur-arcana-blood.json](./44529-million-arthur-arcana-blood.json) |
+| Million Dollar Password: 2009 Edition | 67397 | [67397-million-dollar-password-2009-edition.json](./67397-million-dollar-password-2009-edition.json) |
 | Million Dollar Quest | 175360 | [175360-million-dollar-quest.json](./175360-million-dollar-quest.json) |
 | Million Hits | 266898 | [266898-million-hits.json](./266898-million-hits.json) |
 | Million KNights Vermilion | 79270 | [79270-million-knights-vermilion.json](./79270-million-knights-vermilion.json) |
@@ -6018,6 +6019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miyaji Shachou no Pachinko Fan: Shouri Sengen 2 | 37925 | [37925-miyaji-shachou-no-pachinko-fan-shouri-sengen-2.json](./37925-miyaji-shachou-no-pachinko-fan-shouri-sengen-2.json) |
 | Miyamoto | 175328 | [175328-miyamoto.json](./175328-miyamoto.json) |
 | Miyazato San Kyoudai Naizou: Sega Golf Club | 7454 | [7454-miyazato-san-kyoudai-naizou-sega-golf-club.json](./7454-miyazato-san-kyoudai-naizou-sega-golf-club.json) |
+| Miyuki the Shoubushi | 67375 | [67375-miyuki-the-shoubushi.json](./67375-miyuki-the-shoubushi.json) |
 | Mizari Loves Company | 385056 | [385056-mizari-loves-company.json](./385056-mizari-loves-company.json) |
 | Mizu | 229701 | [229701-mizu.json](./229701-mizu.json) |
 | Mizu no Senritsu | 220576 | [220576-mizu-no-senritsu.json](./220576-mizu-no-senritsu.json) |
@@ -8543,6 +8545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Billionaire Girlfriend | 220335 | [220335-my-billionaire-girlfriend.json](./220335-my-billionaire-girlfriend.json) |
 | My Bird | 368664 | [368664-my-bird.json](./368664-my-bird.json) |
 | My Bloodsucking 9-to-5 | 397260 | [397260-my-bloodsucking-9-to-5.json](./397260-my-bloodsucking-9-to-5.json) |
+| My Body Coach | 67354 | [67354-my-body-coach.json](./67354-my-body-coach.json) |
 | My Boss Is Scaring Me | 341346 | [341346-my-boss-is-scaring-me.json](./341346-my-boss-is-scaring-me.json) |
 | My Boyfriend is a Martian | 295389 | [295389-my-boyfriend-is-a-martian.json](./295389-my-boyfriend-is-a-martian.json) |
 | My Boyfriend's a Werecat! | 169362 | [169362-my-boyfriends-a-werecat.json](./169362-my-boyfriends-a-werecat.json) |
@@ -9217,6 +9220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery House | 229793 | [229793-mystery-house.json](./229793-mystery-house.json) |
 | Mystery House | 2479 | [2479-mystery-house.json](./2479-mystery-house.json) |
 | Mystery House | 342677 | [342677-mystery-house.json](./342677-mystery-house.json) |
+| Mystery House II | 67392 | [67392-mystery-house-ii.json](./67392-mystery-house-ii.json) |
 | Mystery House: Secret Stealth | 88133 | [88133-mystery-house-secret-stealth.json](./88133-mystery-house-secret-stealth.json) |
 | Mystery in the Office | 245840 | [245840-mystery-in-the-office.json](./245840-mystery-in-the-office.json) |
 | Mystery Island II | 147865 | [147865-mystery-island-ii.json](./147865-mystery-island-ii.json) |
