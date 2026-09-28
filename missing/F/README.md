@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall of Gods | 240763 | [240763-fall-of-gods.json](./240763-fall-of-gods.json) |
 | Fall of Imiryn | 69257 | [69257-fall-of-imiryn.json](./69257-fall-of-imiryn.json) |
 | Fall of Jake Paul Hop World | 195085 | [195085-fall-of-jake-paul-hop-world.json](./195085-fall-of-jake-paul-hop-world.json) |
+| Fall of Light: Deluxe Edition | 119076 | [119076-fall-of-light-deluxe-edition.json](./119076-fall-of-light-deluxe-edition.json) |
 | Fall of Magic: Digital Edition | 56480 | [56480-fall-of-magic-digital-edition.json](./56480-fall-of-magic-digital-edition.json) |
 | Fall of Porcupine: Save the World Edition | 254153 | [254153-fall-of-porcupine-save-the-world-edition.json](./254153-fall-of-porcupine-save-the-world-edition.json) |
 | Fall of the Mist | 293684 | [293684-fall-of-the-mist.json](./293684-fall-of-the-mist.json) |
@@ -2505,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Power | 110821 | [110821-fire-power.json](./110821-fire-power.json) |
 | Fire Pro Joshi: All Star Dream Slam | 42614 | [42614-fire-pro-joshi-all-star-dream-slam.json](./42614-fire-pro-joshi-all-star-dream-slam.json) |
 | Fire Pro Wrestling Gaiden | 45534 | [45534-fire-pro-wrestling-gaiden.json](./45534-fire-pro-wrestling-gaiden.json) |
+| Fire Pro Wrestling World: Deluxe Edition | 118928 | [118928-fire-pro-wrestling-world-deluxe-edition.json](./118928-fire-pro-wrestling-world-deluxe-edition.json) |
 | Fire Pro Wrestling World: Entrance Craft | 170445 | [170445-fire-pro-wrestling-world-entrance-craft.json](./170445-fire-pro-wrestling-world-entrance-craft.json) |
 | Fire Pro Wrestling World: Fighting Road - 2017 NJPW Junior Heavyweight Championship | 170447 | [170447-fire-pro-wrestling-world-fighting-road-2017-njpw-junior-heavyweight-championship.json](./170447-fire-pro-wrestling-world-fighting-road-2017-njpw-junior-heavyweight-championship.json) |
 | Fire Pro Wrestling World: Fighting Road - Champion Road Beyond | 170444 | [170444-fire-pro-wrestling-world-fighting-road-champion-road-beyond.json](./170444-fire-pro-wrestling-world-fighting-road-champion-road-beyond.json) |
@@ -4349,6 +4351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Apache | 132816 | [132816-fort-apache.json](./132816-fort-apache.json) |
 | Fort Apocalypse | 13850 | [13850-fort-apocalypse.json](./13850-fort-apocalypse.json) |
 | Fort Apocalypse II | 47202 | [47202-fort-apocalypse-ii.json](./47202-fort-apocalypse-ii.json) |
+| Fort Commander II: Counterattack | 118932 | [118932-fort-commander-ii-counterattack.json](./118932-fort-commander-ii-counterattack.json) |
 | Fort Commander: King's Gambit | 209563 | [209563-fort-commander-kings-gambit.json](./209563-fort-commander-kings-gambit.json) |
 | Fort Craft | 160226 | [160226-fort-craft.json](./160226-fort-craft.json) |
 | Fort Driant | 271753 | [271753-fort-driant.json](./271753-fort-driant.json) |
