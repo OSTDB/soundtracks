@@ -481,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Lu Baby Bear Care 2 | 227472 | [227472-panda-lu-baby-bear-care-2.json](./227472-panda-lu-baby-bear-care-2.json) |
 | Panda Man | 115600 | [115600-panda-man.json](./115600-panda-man.json) |
 | Panda Pai Gow Poker | 209403 | [209403-panda-pai-gow-poker.json](./209403-panda-pai-gow-poker.json) |
+| Panda penguin care salon | 88424 | [88424-panda-penguin-care-salon.json](./88424-panda-penguin-care-salon.json) |
 | Panda Prince | 48891 | [48891-panda-prince.json](./48891-panda-prince.json) |
 | Panda Push | 162868 | [162868-panda-push.json](./162868-panda-push.json) |
 | Panda vs Lightning | 98796 | [98796-panda-vs-lightning.json](./98796-panda-vs-lightning.json) |
@@ -3955,6 +3956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet of Blood Thirsty Santa | 125261 | [125261-planet-of-blood-thirsty-santa.json](./125261-planet-of-blood-thirsty-santa.json) |
 | Planet of Carrots | 311254 | [311254-planet-of-carrots.json](./311254-planet-of-carrots.json) |
 | Planet of Cartmans 2 | 175902 | [175902-planet-of-cartmans-2.json](./175902-planet-of-cartmans-2.json) |
+| Planet of Cubes Survival Games | 88442 | [88442-planet-of-cubes-survival-games.json](./88442-planet-of-cubes-survival-games.json) |
 | Planet of Lana | 152071 | [152071-planet-of-lana.json](./152071-planet-of-lana.json) |
 | Planet of Lana II: Children of the Leaf | 348200 | [348200-planet-of-lana-ii-children-of-the-leaf.json](./348200-planet-of-lana-ii-children-of-the-leaf.json) |
 | Planet of the Ants | 347134 | [347134-planet-of-the-ants.json](./347134-planet-of-the-ants.json) |
@@ -4920,6 +4922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Extra | 130276 | [130276-poker-extra.json](./130276-poker-extra.json) |
 | Poker for Dummies | 64983 | [64983-poker-for-dummies.json](./64983-poker-for-dummies.json) |
 | Poker Hands | 147993 | [147993-poker-hands.json](./147993-poker-hands.json) |
+| Poker HD | 88440 | [88440-poker-hd.json](./88440-poker-hd.json) |
 | Poker Legends: Omaha Champions | 232560 | [232560-poker-legends-omaha-champions.json](./232560-poker-legends-omaha-champions.json) |
 | Poker Master | 167586 | [167586-poker-master.json](./167586-poker-master.json) |
 | Poker Patience | 83481 | [83481-poker-patience.json](./83481-poker-patience.json) |
@@ -5026,6 +5029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Station Cop Inc: Tycoon | 174884 | [174884-police-station-cop-inc-tycoon.json](./174884-police-station-cop-inc-tycoon.json) |
 | Police Stories: Zombie Case | 195756 | [195756-police-stories-zombie-case.json](./195756-police-stories-zombie-case.json) |
 | Police Tactical Training | 57657 | [57657-police-tactical-training.json](./57657-police-tactical-training.json) |
+| Police Train Prison Transport | 88420 | [88420-police-train-prison-transport.json](./88420-police-train-prison-transport.json) |
 | Police Trainer | 39838 | [39838-police-trainer.json](./39838-police-trainer.json) |
 | Police Transporter Simulator | 220650 | [220650-police-transporter-simulator.json](./220650-police-transporter-simulator.json) |
 | Police Truck | 90805 | [90805-police-truck.json](./90805-police-truck.json) |
