@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall Street Trader 2000 | 73831 | [73831-wall-street-trader-2000.json](./73831-wall-street-trader-2000.json) |
 | Wall Street Trader 98 | 64967 | [64967-wall-street-trader-98.json](./64967-wall-street-trader-98.json) |
 | Wall Street Wars: the Final Conflict! | 98788 | [98788-wall-street-wars-the-final-conflict.json](./98788-wall-street-wars-the-final-conflict.json) |
+| Wall to Wall | 115142 | [115142-wall-to-wall.json](./115142-wall-to-wall.json) |
 | Wall Town Wonders | 320625 | [320625-wall-town-wonders.json](./320625-wall-town-wonders.json) |
 | Wall World | 224705 | [224705-wall-world.json](./224705-wall-world.json) |
 | Wall-Breaking | 230838 | [230838-wall-breaking.json](./230838-wall-breaking.json) |
@@ -919,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warzone Chronicles: Virtual Warfare Shooter | 283217 | [283217-warzone-chronicles-virtual-warfare-shooter.json](./283217-warzone-chronicles-virtual-warfare-shooter.json) |
 | Warzone Chronicles: Virtual Warfare Shooter - Premium Edition | 308795 | [308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json](./308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json) |
 | WarZone Flashpoint | 112996 | [112996-warzone-flashpoint.json](./112996-warzone-flashpoint.json) |
+| Warzone World | 115186 | [115186-warzone-world.json](./115186-warzone-world.json) |
 | Warzoom | 263999 | [263999-warzoom.json](./263999-warzoom.json) |
 | Was It Worth It? | 152811 | [152811-was-it-worth-it.json](./152811-was-it-worth-it.json) |
 | Wasabi Game | 245044 | [245044-wasabi-game.json](./245044-wasabi-game.json) |
@@ -3539,6 +3541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Zoo | 5287 | [5287-world-of-zoo.json](./5287-world-of-zoo.json) |
 | World on Fire | 117171 | [117171-world-on-fire.json](./117171-world-on-fire.json) |
 | World on Paper | 307572 | [307572-world-on-paper.json](./307572-world-on-paper.json) |
+| World Peace Simulator 2019 | 115170 | [115170-world-peace-simulator-2019.json](./115170-world-peace-simulator-2019.json) |
 | World Poker Championship | 68635 | [68635-world-poker-championship.json](./68635-world-poker-championship.json) |
 | World Poker Tour | 220133 | [220133-world-poker-tour.json](./220133-world-poker-tour.json) |
 | World Poker Tour: Texas Hold 'Em | 85498 | [85498-world-poker-tour-texas-hold-em.json](./85498-world-poker-tour-texas-hold-em.json) |
@@ -3604,6 +3607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War II: Prisoner of War | 64979 | [64979-world-war-ii-prisoner-of-war.json](./64979-world-war-ii-prisoner-of-war.json) |
 | World War II: Sniper - Call to Victory | 138090 | [138090-world-war-ii-sniper-call-to-victory.json](./138090-world-war-ii-sniper-call-to-victory.json) |
 | World War II: Tank Commander | 205825 | [205825-world-war-ii-tank-commander.json](./205825-world-war-ii-tank-commander.json) |
+| World War II: TCG | 115174 | [115174-world-war-ii-tcg.json](./115174-world-war-ii-tcg.json) |
 | World War One | 21137 | [21137-world-war-one.json](./21137-world-war-one.json) |
 | World War Party: Game of Trump | 75054 | [75054-world-war-party-game-of-trump.json](./75054-world-war-party-game-of-trump.json) |
 | World War Polygon | 175693 | [175693-world-war-polygon.json](./175693-world-war-polygon.json) |
