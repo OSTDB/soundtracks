@@ -2146,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pétanque 2026 | 401828 | [401828-petanque-2026.json](./401828-petanque-2026.json) |
 | Pétanque Master | 93518 | [93518-petanque-master.json](./93518-petanque-master.json) |
 | Pétanque Master 2 | 81755 | [81755-petanque-master-2.json](./81755-petanque-master-2.json) |
+| Petanque Pro | 92622 | [92622-petanque-pro.json](./92622-petanque-pro.json) |
 | Petdise Tycoon | 242232 | [242232-petdise-tycoon.json](./242232-petdise-tycoon.json) |
 | Pete | 409638 | [409638-pete.json](./409638-pete.json) |
 | Pete Sampras Tennis 96 | 70943 | [70943-pete-sampras-tennis-96.json](./70943-pete-sampras-tennis-96.json) |
