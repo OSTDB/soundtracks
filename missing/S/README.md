@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Daddy Trump 4: Maga 2024 | 301832 | [301832-save-daddy-trump-4-maga-2024.json](./301832-save-daddy-trump-4-maga-2024.json) |
 | Save Data | 153366 | [153366-save-data.json](./153366-save-data.json) |
 | Save Farty: The Trivia Game | 142838 | [142838-save-farty-the-trivia-game.json](./142838-save-farty-the-trivia-game.json) |
+| Save Granny | 100343 | [100343-save-granny.json](./100343-save-granny.json) |
 | Save Home | 31175 | [31175-save-home.json](./31175-save-home.json) |
 | Save HomeWorld | 110370 | [110370-save-homeworld.json](./110370-save-homeworld.json) |
 | Save Humanity.exe | 405534 | [405534-save-humanity-exe.json](./405534-save-humanity-exe.json) |
@@ -5771,6 +5772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice the Ice | 75779 | [75779-slice-the-ice.json](./75779-slice-the-ice.json) |
 | Slice To Meet You | 409583 | [409583-slice-to-meet-you.json](./409583-slice-to-meet-you.json) |
 | Slice&Dice | 345526 | [345526-slice-and-dice.json](./345526-slice-and-dice.json) |
+| Slicer!! | 100324 | [100324-slicer.json](./100324-slicer.json) |
 | Slices | 105870 | [105870-slices.json](./105870-slices.json) |
 | Slick | 63260 | [63260-slick.json](./63260-slick.json) |
 | Slick Slack | 277300 | [277300-slick-slack.json](./277300-slick-slack.json) |
@@ -6841,6 +6843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Manager 2017 | 31824 | [31824-soccer-manager-2017.json](./31824-soccer-manager-2017.json) |
 | Soccer Manager Crypto | 109908 | [109908-soccer-manager-crypto.json](./109908-soccer-manager-crypto.json) |
 | Soccer Moves | 241059 | [241059-soccer-moves.json](./241059-soccer-moves.json) |
+| Soccer Nations Battle | 100368 | [100368-soccer-nations-battle.json](./100368-soccer-nations-battle.json) |
 | Soccer Penalty Kick | 391354 | [391354-soccer-penalty-kick.json](./391354-soccer-penalty-kick.json) |
 | Soccer Physics | 101579 | [101579-soccer-physics.json](./101579-soccer-physics.json) |
 | Soccer Player Simulator | 116473 | [116473-soccer-player-simulator.json](./116473-soccer-player-simulator.json) |
@@ -9127,6 +9130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speglar | 291534 | [291534-speglar.json](./291534-speglar.json) |
 | Spekel Sparks | 266237 | [266237-spekel-sparks.json](./266237-spekel-sparks.json) |
 | Spektakl: Banned Edition | 206954 | [206954-spektakl-banned-edition.json](./206954-spektakl-banned-edition.json) |
+| Spel-Ett | 100317 | [100317-spel-ett.json](./100317-spel-ett.json) |
 | SpelBrawl | 374630 | [374630-spelbrawl.json](./374630-spelbrawl.json) |
 | Spelen met Bassie & Adriaan Deel 1 | 242644 | [242644-spelen-met-bassie-and-adriaan-deel-1.json](./242644-spelen-met-bassie-and-adriaan-deel-1.json) |
 | Spelen met Bassie & Adriaan Deel 2 | 242645 | [242645-spelen-met-bassie-and-adriaan-deel-2.json](./242645-spelen-met-bassie-and-adriaan-deel-2.json) |
