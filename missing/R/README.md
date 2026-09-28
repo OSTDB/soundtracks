@@ -3395,6 +3395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rio Rex | 102223 | [102223-rio-rex.json](./102223-rio-rex.json) |
 | Rio Rise | 397904 | [397904-rio-rise.json](./397904-rio-rise.json) |
 | Rio Warzone | 150699 | [150699-rio-warzone.json](./150699-rio-warzone.json) |
+| Rio: Match 3 Party | 109178 | [109178-rio-match-3-party.json](./109178-rio-match-3-party.json) |
 | Rio: Raised In Oblivion | 152407 | [152407-rio-raised-in-oblivion.json](./152407-rio-raised-in-oblivion.json) |
 | Rionag: Survey Fleet | 253862 | [253862-rionag-survey-fleet.json](./253862-rionag-survey-fleet.json) |
 | Riot | 279702 | [279702-riot.json](./279702-riot.json) |
@@ -3969,6 +3970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Vacuum Simulator X | 130370 | [130370-robot-vacuum-simulator-x.json](./130370-robot-vacuum-simulator-x.json) |
 | Robot vs Birds Zombies | 34782 | [34782-robot-vs-birds-zombies.json](./34782-robot-vs-birds-zombies.json) |
 | Robot Wants It All | 108325 | [108325-robot-wants-it-all.json](./108325-robot-wants-it-all.json) |
+| Robot Warfare | 109205 | [109205-robot-warfare.json](./109205-robot-warfare.json) |
 | Robot Wars: Extreme Destruction | 6014 | [6014-robot-wars-extreme-destruction.json](./6014-robot-wars-extreme-destruction.json) |
 | Robot Wars: Extreme Destruction | 78623 | [78623-robot-wars-extreme-destruction.json](./78623-robot-wars-extreme-destruction.json) |
 | Robot Zombies | 180595 | [180595-robot-zombies.json](./180595-robot-zombies.json) |
