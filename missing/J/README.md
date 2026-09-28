@@ -1227,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judies | 125363 | [125363-judies.json](./125363-judies.json) |
 | Jug | 67670 | [67670-jug.json](./67670-jug.json) |
 | Juggernaut | 341138 | [341138-juggernaut.json](./341138-juggernaut.json) |
+| Juggernauts | 114503 | [114503-juggernauts.json](./114503-juggernauts.json) |
 | Juggle | 246463 | [246463-juggle.json](./246463-juggle.json) |
 | Juggle Struggle | 250659 | [250659-juggle-struggle.json](./250659-juggle-struggle.json) |
 | Juggle! | 91904 | [91904-juggle.json](./91904-juggle.json) |
