@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Desk Simulator | 265135 | [265135-paint-desk-simulator.json](./265135-paint-desk-simulator.json) |
 | Paint Gal Adventures | 388227 | [388227-paint-gal-adventures.json](./388227-paint-gal-adventures.json) |
 | Paint Hit | 102784 | [102784-paint-hit.json](./102784-paint-hit.json) |
+| Paint Hit: Color Blast | 103631 | [103631-paint-hit-color-blast.json](./103631-paint-hit-color-blast.json) |
 | Paint My Cat - Color and Play | 96045 | [96045-paint-my-cat-color-and-play.json](./96045-paint-my-cat-color-and-play.json) |
 | Paint on Paint TD | 373193 | [373193-paint-on-paint-td.json](./373193-paint-on-paint-td.json) |
 | Paint Park Plus | 119585 | [119585-paint-park-plus.json](./119585-paint-park-plus.json) |
@@ -1225,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pass the Sphero | 200110 | [200110-pass-the-sphero.json](./200110-pass-the-sphero.json) |
 | Pass Tiger Cage | 374599 | [374599-pass-tiger-cage.json](./374599-pass-tiger-cage.json) |
 | Pass Your Driving Theory Test | 69205 | [69205-pass-your-driving-theory-test.json](./69205-pass-your-driving-theory-test.json) |
+| Passage | 103641 | [103641-passage.json](./103641-passage.json) |
 | Passage | 204687 | [204687-passage.json](./204687-passage.json) |
 | Passage | 209700 | [209700-passage.json](./209700-passage.json) |
 | Passage | 36502 | [36502-passage.json](./36502-passage.json) |
@@ -5101,6 +5103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygunr | 291038 | [291038-polygunr.json](./291038-polygunr.json) |
 | Polyhop: The Skybound Islands | 278743 | [278743-polyhop-the-skybound-islands.json](./278743-polyhop-the-skybound-islands.json) |
 | Polyko's Super Jelly Bean Quest in the Sketchbook of Illusion | 130777 | [130777-polykos-super-jelly-bean-quest-in-the-sketchbook-of-illusion.json](./130777-polykos-super-jelly-bean-quest-in-the-sketchbook-of-illusion.json) |
+| Polymatic | 103624 | [103624-polymatic.json](./103624-polymatic.json) |
 | Polymega Collection Vol. 2: Karate Champ | 324512 | [324512-polymega-collection-vol-2-karate-champ.json](./324512-polymega-collection-vol-2-karate-champ.json) |
 | Polymega Collection Vol. 7: Breaker's | 339810 | [339810-polymega-collection-vol-7-breakers.json](./339810-polymega-collection-vol-7-breakers.json) |
 | Polymega Collection Vol. 8: Captain Tomaday | 339811 | [339811-polymega-collection-vol-8-captain-tomaday.json](./339811-polymega-collection-vol-8-captain-tomaday.json) |
@@ -6995,6 +6998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protory Jigen | 326078 | [326078-protory-jigen.json](./326078-protory-jigen.json) |
 | Protoshift | 34555 | [34555-protoshift.json](./34555-protoshift.json) |
 | Protoshock | 258442 | [258442-protoshock.json](./258442-protoshock.json) |
+| Protostar Drift | 103679 | [103679-protostar-drift.json](./103679-protostar-drift.json) |
 | Protostar Twilight | 294716 | [294716-protostar-twilight.json](./294716-protostar-twilight.json) |
 | Prototype | 119662 | [119662-prototype.json](./119662-prototype.json) |
 | Prototype Blocks | 191244 | [191244-prototype-blocks.json](./191244-prototype-blocks.json) |
@@ -7203,6 +7207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pug's Quest | 82954 | [82954-pugs-quest.json](./82954-pugs-quest.json) |
 | Pugovki | 177051 | [177051-pugovki.json](./177051-pugovki.json) |
 | PUIQ: Demons | 298053 | [298053-puiq-demons.json](./298053-puiq-demons.json) |
+| PukePuke Demon | 103636 | [103636-pukepuke-demon.json](./103636-pukepuke-demon.json) |
 | Pulang Insanity: Director's Cut | 117769 | [117769-pulang-insanity-directors-cut.json](./117769-pulang-insanity-directors-cut.json) |
 | Pull | 148954 | [148954-pull.json](./148954-pull.json) |
 | Pull Ball | 114361 | [114361-pull-ball.json](./114361-pull-ball.json) |
