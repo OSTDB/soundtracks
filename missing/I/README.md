@@ -1936,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innocent Critters | 238723 | [238723-innocent-critters.json](./238723-innocent-critters.json) |
 | Innocent Girl | 169369 | [169369-innocent-girl.json](./169369-innocent-girl.json) |
 | Innocent Stuck-up Girls! | 251517 | [251517-innocent-stuck-up-girls.json](./251517-innocent-stuck-up-girls.json) |
+| Innocent Tears | 73742 | [73742-innocent-tears.json](./73742-innocent-tears.json) |
 | Innocent Tour | 270756 | [270756-innocent-tour.json](./270756-innocent-tour.json) |
 | Innocent's Purgatory | 219685 | [219685-innocents-purgatory.json](./219685-innocents-purgatory.json) |
 | Innocentrea | 98015 | [98015-innocentrea.json](./98015-innocentrea.json) |
