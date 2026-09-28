@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pair Up | 359395 | [359395-pair-up.json](./359395-pair-up.json) |
 | Pairs | 91372 | [91372-pairs.json](./91372-pairs.json) |
 | Pairs & Perils | 315042 | [315042-pairs-and-perils.json](./315042-pairs-and-perils.json) |
+| Pairs and Rotors | 67394 | [67394-pairs-and-rotors.json](./67394-pairs-and-rotors.json) |
 | Paisible Après-midi au Fil des Toiles | 178023 | [178023-paisible-apres-midi-au-fil-des-toiles.json](./178023-paisible-apres-midi-au-fil-des-toiles.json) |
 | Paisible Soirée au Fil d'Étoiles | 178514 | [178514-paisible-soiree-au-fil-detoiles.json](./178514-paisible-soiree-au-fil-detoiles.json) |
 | Paitan Small Town | 159804 | [159804-paitan-small-town.json](./159804-paitan-small-town.json) |
@@ -1188,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Chaos | 213446 | [213446-party-chaos.json](./213446-party-chaos.json) |
 | Party Club | 295020 | [295020-party-club.json](./295020-party-club.json) |
 | Party Demon | 238997 | [238997-party-demon.json](./238997-party-demon.json) |
+| Party Designer | 67398 | [67398-party-designer.json](./67398-party-designer.json) |
 | Party Doodles | 241338 | [241338-party-doodles.json](./241338-party-doodles.json) |
 | Party Down | 209415 | [209415-party-down.json](./209415-party-down.json) |
 | Party Friends | 215693 | [215693-party-friends.json](./215693-party-friends.json) |
@@ -2202,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter's Apostles | 351609 | [351609-peters-apostles.json](./351609-peters-apostles.json) |
 | Peter's House | 364585 | [364585-peters-house.json](./364585-peters-house.json) |
 | Peter's Journey | 306096 | [306096-peters-journey.json](./306096-peters-journey.json) |
+| Peter's Quest: For the Love of Daphne | 67349 | [67349-peters-quest-for-the-love-of-daphne.json](./67349-peters-quest-for-the-love-of-daphne.json) |
 | Petey Pedro Unbeetable Adventure | 272237 | [272237-petey-pedro-unbeetable-adventure.json](./272237-petey-pedro-unbeetable-adventure.json) |
 | PetHotel | 101581 | [101581-pethotel.json](./101581-pethotel.json) |
 | Petit Island | 204526 | [204526-petit-island.json](./204526-petit-island.json) |
@@ -2252,6 +2255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PetWorld: Animal Shelter | 97334 | [97334-petworld-animal-shelter.json](./97334-petworld-animal-shelter.json) |
 | Petz Bunnyz Bunch | 210002 | [210002-petz-bunnyz-bunch.json](./210002-petz-bunnyz-bunch.json) |
 | Petz Dogz Family | 42888 | [42888-petz-dogz-family.json](./42888-petz-dogz-family.json) |
+| Petz Dolphinz Encounter | 67345 | [67345-petz-dolphinz-encounter.json](./67345-petz-dolphinz-encounter.json) |
 | Petz Fantasy: Moonlight Magic | 66364 | [66364-petz-fantasy-moonlight-magic.json](./66364-petz-fantasy-moonlight-magic.json) |
 | Petz Fantasy: Sunshine Magic | 47962 | [47962-petz-fantasy-sunshine-magic.json](./47962-petz-fantasy-sunshine-magic.json) |
 | Petz Hamsterz Bunch | 210000 | [210000-petz-hamsterz-bunch.json](./210000-petz-hamsterz-bunch.json) |
