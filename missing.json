@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T07:48:33.186Z",
-  "total_missing": 134418,
+  "generated_at": "2026-09-28T08:03:35.070Z",
+  "total_missing": 134468,
   "games": [
     {
       "igdb_id": 186066,
@@ -147238,6 +147238,11 @@
       "file": "missing/D/109480-disneys-hot-shots-timon-and-pumbaas-jungle-pinball.json"
     },
     {
+      "igdb_id": 98558,
+      "game_name": "Disney's Lilo & Stitch: Hawaiian Adventure",
+      "file": "missing/D/98558-disneys-lilo-and-stitch-hawaiian-adventure.json"
+    },
+    {
       "igdb_id": 51281,
       "game_name": "Disney's Magic Artist Studio",
       "file": "missing/D/51281-disneys-magic-artist-studio.json"
@@ -176536,6 +176541,11 @@
       "igdb_id": 82158,
       "game_name": "Escape From A Fairytale -Snow White-",
       "file": "missing/E/82158-escape-from-a-fairytale-snow-white.json"
+    },
+    {
+      "igdb_id": 98545,
+      "game_name": "Escape From A Ruined Hospital with a Girl Who Lost Emotion",
+      "file": "missing/E/98545-escape-from-a-ruined-hospital-with-a-girl-who-lost-emotion.json"
     },
     {
       "igdb_id": 183559,
@@ -219243,6 +219253,11 @@
       "file": "missing/G/274450-gems-and-knight.json"
     },
     {
+      "igdb_id": 98550,
+      "game_name": "Gems Frontier",
+      "file": "missing/G/98550-gems-frontier.json"
+    },
+    {
       "igdb_id": 416696,
       "game_name": "Gems of Destiny: Magic Rescue",
       "file": "missing/G/416696-gems-of-destiny-magic-rescue.json"
@@ -229583,6 +229598,11 @@
       "file": "missing/G/326418-graffiti-simulator.json"
     },
     {
+      "igdb_id": 98559,
+      "game_name": "Graffiti Smash",
+      "file": "missing/G/98559-graffiti-smash.json"
+    },
+    {
       "igdb_id": 117476,
       "game_name": "GraFi",
       "file": "missing/G/117476-grafi.json"
@@ -232631,6 +232651,11 @@
       "igdb_id": 383030,
       "game_name": "Gretel & Hansel",
       "file": "missing/G/383030-gretel-and-hansel.json"
+    },
+    {
+      "igdb_id": 98576,
+      "game_name": "Gretel & Hansel 2",
+      "file": "missing/G/98576-gretel-and-hansel-2.json"
     },
     {
       "igdb_id": 323501,
@@ -236421,6 +236446,11 @@
       "igdb_id": 183567,
       "game_name": "Gundam Fights for Human Rights",
       "file": "missing/G/183567-gundam-fights-for-human-rights.json"
+    },
+    {
+      "igdb_id": 98560,
+      "game_name": "Gundam Heroes",
+      "file": "missing/G/98560-gundam-heroes.json"
     },
     {
       "igdb_id": 79279,
@@ -245723,6 +245753,11 @@
       "file": "missing/H/336370-hegzis.json"
     },
     {
+      "igdb_id": 98552,
+      "game_name": "Hehu and the Taniwha",
+      "file": "missing/H/98552-hehu-and-the-taniwha.json"
+    },
+    {
       "igdb_id": 115173,
       "game_name": "Hei",
       "file": "missing/H/115173-hei.json"
@@ -252528,6 +252563,11 @@
       "file": "missing/H/98401-hidden-object-aliens-the-arrival.json"
     },
     {
+      "igdb_id": 98555,
+      "game_name": "Hidden Object: Ancient Mystery",
+      "file": "missing/H/98555-hidden-object-ancient-mystery.json"
+    },
+    {
       "igdb_id": 98402,
       "game_name": "Hidden Object: Angels and Fairies",
       "file": "missing/H/98402-hidden-object-angels-and-fairies.json"
@@ -252541,6 +252581,16 @@
       "igdb_id": 98400,
       "game_name": "Hidden Object: Animal Seasons",
       "file": "missing/H/98400-hidden-object-animal-seasons.json"
+    },
+    {
+      "igdb_id": 98590,
+      "game_name": "Hidden Object: Autumn Splendors",
+      "file": "missing/H/98590-hidden-object-autumn-splendors.json"
+    },
+    {
+      "igdb_id": 98554,
+      "game_name": "Hidden Object: Be My Valentine",
+      "file": "missing/H/98554-hidden-object-be-my-valentine.json"
     },
     {
       "igdb_id": 82164,
@@ -252573,6 +252623,11 @@
       "file": "missing/H/240340-hidden-object-crime-in-penthouse-special-edition.json"
     },
     {
+      "igdb_id": 98556,
+      "game_name": "Hidden Object: Cursed by Diamonds",
+      "file": "missing/H/98556-hidden-object-cursed-by-diamonds.json"
+    },
+    {
       "igdb_id": 98385,
       "game_name": "Hidden Object: Deck the Halls",
       "file": "missing/H/98385-hidden-object-deck-the-halls.json"
@@ -252598,6 +252653,11 @@
       "file": "missing/H/98386-hidden-object-elemental-guardians.json"
     },
     {
+      "igdb_id": 98583,
+      "game_name": "Hidden Object: Fairies of the Frost",
+      "file": "missing/H/98583-hidden-object-fairies-of-the-frost.json"
+    },
+    {
       "igdb_id": 98384,
       "game_name": "Hidden Object: Fairy Princess",
       "file": "missing/H/98384-hidden-object-fairy-princess.json"
@@ -252606,6 +252666,11 @@
       "igdb_id": 98388,
       "game_name": "Hidden Object: Fairy Tale",
       "file": "missing/H/98388-hidden-object-fairy-tale.json"
+    },
+    {
+      "igdb_id": 98593,
+      "game_name": "Hidden Object: Fairy Wonderland",
+      "file": "missing/H/98593-hidden-object-fairy-wonderland.json"
     },
     {
       "igdb_id": 98387,
@@ -252628,6 +252693,31 @@
       "file": "missing/H/240197-hidden-object-golden-trails-secret-of-the-princess.json"
     },
     {
+      "igdb_id": 98591,
+      "game_name": "Hidden Object: Hallows Eve",
+      "file": "missing/H/98591-hidden-object-hallows-eve.json"
+    },
+    {
+      "igdb_id": 98581,
+      "game_name": "Hidden Object: Happy Haunts",
+      "file": "missing/H/98581-hidden-object-happy-haunts.json"
+    },
+    {
+      "igdb_id": 98594,
+      "game_name": "Hidden Object: Haunted House 3",
+      "file": "missing/H/98594-hidden-object-haunted-house-3.json"
+    },
+    {
+      "igdb_id": 98592,
+      "game_name": "Hidden Object: Haunted House 4",
+      "file": "missing/H/98592-hidden-object-haunted-house-4.json"
+    },
+    {
+      "igdb_id": 98562,
+      "game_name": "Hidden Object: Haunted Museum",
+      "file": "missing/H/98562-hidden-object-haunted-museum.json"
+    },
+    {
       "igdb_id": 233248,
       "game_name": "Hidden Object: Hunter Secrets of Aztec and Mayan Tribes",
       "file": "missing/H/233248-hidden-object-hunter-secrets-of-aztec-and-mayan-tribes.json"
@@ -252641,6 +252731,11 @@
       "igdb_id": 82162,
       "game_name": "Hidden Object: Land of Dreams",
       "file": "missing/H/82162-hidden-object-land-of-dreams.json"
+    },
+    {
+      "igdb_id": 98582,
+      "game_name": "Hidden Object: Lucky Leprechaun",
+      "file": "missing/H/98582-hidden-object-lucky-leprechaun.json"
     },
     {
       "igdb_id": 71206,
@@ -252688,9 +252783,39 @@
       "file": "missing/H/218413-hidden-object-mystery-place.json"
     },
     {
+      "igdb_id": 98585,
+      "game_name": "Hidden Object: Nether Worlds",
+      "file": "missing/H/98585-hidden-object-nether-worlds.json"
+    },
+    {
+      "igdb_id": 98589,
+      "game_name": "Hidden Object: Pot O' Gold",
+      "file": "missing/H/98589-hidden-object-pot-o-gold.json"
+    },
+    {
       "igdb_id": 98389,
       "game_name": "Hidden Object: Princess Cinderella",
       "file": "missing/H/98389-hidden-object-princess-cinderella.json"
+    },
+    {
+      "igdb_id": 98578,
+      "game_name": "Hidden Object: Pumpkin Patch",
+      "file": "missing/H/98578-hidden-object-pumpkin-patch.json"
+    },
+    {
+      "igdb_id": 98568,
+      "game_name": "Hidden Object: St. Patrick's Day",
+      "file": "missing/H/98568-hidden-object-st-patricks-day.json"
+    },
+    {
+      "igdb_id": 98567,
+      "game_name": "Hidden Object: Stars & Stripes",
+      "file": "missing/H/98567-hidden-object-stars-and-stripes.json"
+    },
+    {
+      "igdb_id": 98580,
+      "game_name": "Hidden Object: Strange Places",
+      "file": "missing/H/98580-hidden-object-strange-places.json"
     },
     {
       "igdb_id": 98395,
@@ -252698,9 +252823,49 @@
       "file": "missing/H/98395-hidden-object-the-birds-from-aviary.json"
     },
     {
+      "igdb_id": 98563,
+      "game_name": "Hidden Object: The Luck of the Irish",
+      "file": "missing/H/98563-hidden-object-the-luck-of-the-irish.json"
+    },
+    {
+      "igdb_id": 98564,
+      "game_name": "Hidden Object: The Mystery of Zion",
+      "file": "missing/H/98564-hidden-object-the-mystery-of-zion.json"
+    },
+    {
+      "igdb_id": 98548,
+      "game_name": "Hidden Object: The Writer's Muse",
+      "file": "missing/H/98548-hidden-object-the-writers-muse.json"
+    },
+    {
+      "igdb_id": 98566,
+      "game_name": "Hidden Object: Thumbelina",
+      "file": "missing/H/98566-hidden-object-thumbelina.json"
+    },
+    {
+      "igdb_id": 98584,
+      "game_name": "Hidden Object: Tick Tock",
+      "file": "missing/H/98584-hidden-object-tick-tock.json"
+    },
+    {
+      "igdb_id": 98549,
+      "game_name": "Hidden Object: Travel the World",
+      "file": "missing/H/98549-hidden-object-travel-the-world.json"
+    },
+    {
       "igdb_id": 261529,
       "game_name": "Hidden Object: Travel to Future - Ancient Portals",
       "file": "missing/H/261529-hidden-object-travel-to-future-ancient-portals.json"
+    },
+    {
+      "igdb_id": 98570,
+      "game_name": "Hidden Object: Trick or Treat",
+      "file": "missing/H/98570-hidden-object-trick-or-treat.json"
+    },
+    {
+      "igdb_id": 98579,
+      "game_name": "Hidden Object: Turkey Trot",
+      "file": "missing/H/98579-hidden-object-turkey-trot.json"
     },
     {
       "igdb_id": 233224,
@@ -252711,6 +252876,21 @@
       "igdb_id": 267337,
       "game_name": "Hidden Object: Victoria & Steve Vikings Adventures",
       "file": "missing/H/267337-hidden-object-victoria-and-steve-vikings-adventures.json"
+    },
+    {
+      "igdb_id": 98571,
+      "game_name": "Hidden Object: Werewolves - The Nightwalkers",
+      "file": "missing/H/98571-hidden-object-werewolves-the-nightwalkers.json"
+    },
+    {
+      "igdb_id": 98588,
+      "game_name": "Hidden Object: Wolves",
+      "file": "missing/H/98588-hidden-object-wolves.json"
+    },
+    {
+      "igdb_id": 98547,
+      "game_name": "Hidden Object: Zodiac",
+      "file": "missing/H/98547-hidden-object-zodiac.json"
     },
     {
       "igdb_id": 320319,
@@ -293516,6 +293696,11 @@
       "igdb_id": 329100,
       "game_name": "Keziah's Realm",
       "file": "missing/K/329100-keziahs-realm.json"
+    },
+    {
+      "igdb_id": 98551,
+      "game_name": "KFC The Hard Way",
+      "file": "missing/K/98551-kfc-the-hard-way.json"
     },
     {
       "igdb_id": 378157,
@@ -352713,6 +352898,11 @@
       "file": "missing/M/91986-mirror-land.json"
     },
     {
+      "igdb_id": 98557,
+      "game_name": "Mirror Layers",
+      "file": "missing/M/98557-mirror-layers.json"
+    },
+    {
       "igdb_id": 363965,
       "game_name": "Mirror Match",
       "file": "missing/M/363965-mirror-match.json"
@@ -357451,6 +357641,11 @@
       "igdb_id": 197943,
       "game_name": "Monster Galaxy",
       "file": "missing/M/197943-monster-galaxy.json"
+    },
+    {
+      "igdb_id": 98577,
+      "game_name": "Monster Galaxy: The Zodiac Islands",
+      "file": "missing/M/98577-monster-galaxy-the-zodiac-islands.json"
     },
     {
       "igdb_id": 373100,
@@ -362296,6 +362491,11 @@
       "igdb_id": 93600,
       "game_name": "Motto! SoniComi",
       "file": "missing/M/93600-motto-sonicomi.json"
+    },
+    {
+      "igdb_id": 98569,
+      "game_name": "Motto! Stitch! DS: Rhythm de Rakugaki Daisakusen",
+      "file": "missing/M/98569-motto-stitch-ds-rhythm-de-rakugaki-daisakusen.json"
     },
     {
       "igdb_id": 206938,
@@ -433533,6 +433733,11 @@
       "file": "missing/P/322933-project-2-3.json"
     },
     {
+      "igdb_id": 98586,
+      "game_name": "Project 3 VR",
+      "file": "missing/P/98586-project-3-vr.json"
+    },
+    {
       "igdb_id": 220657,
       "game_name": "Project 44: Enlightenment",
       "file": "missing/P/220657-project-44-enlightenment.json"
@@ -435766,6 +435971,11 @@
       "igdb_id": 313343,
       "game_name": "Protect Your Gold From Barack Obama",
       "file": "missing/P/313343-protect-your-gold-from-barack-obama.json"
+    },
+    {
+      "igdb_id": 98595,
+      "game_name": "Protect Zoey from the Zombies",
+      "file": "missing/P/98595-protect-zoey-from-the-zombies.json"
     },
     {
       "igdb_id": 286036,
@@ -439921,6 +440131,11 @@
       "igdb_id": 312684,
       "game_name": "PuzzleScriptMis",
       "file": "missing/P/312684-puzzlescriptmis.json"
+    },
+    {
+      "igdb_id": 98572,
+      "game_name": "PuzzleSpin: Patterns in Nature",
+      "file": "missing/P/98572-puzzlespin-patterns-in-nature.json"
     },
     {
       "igdb_id": 120202,
@@ -486728,6 +486943,11 @@
       "file": "missing/S/51914-shadow-warrior-classic-complete.json"
     },
     {
+      "igdb_id": 98553,
+      "game_name": "Shadow Wars",
+      "file": "missing/S/98553-shadow-wars.json"
+    },
+    {
       "igdb_id": 36461,
       "game_name": "Shadow Wolf Mysteries: Curse of the Full Moon - Collector's Edition",
       "file": "missing/S/36461-shadow-wolf-mysteries-curse-of-the-full-moon-collectors-edition.json"
@@ -517793,6 +518013,11 @@
       "file": "missing/S/206122-spelling-bee.json"
     },
     {
+      "igdb_id": 98573,
+      "game_name": "Spelling Blizzard",
+      "file": "missing/S/98573-spelling-blizzard.json"
+    },
+    {
       "igdb_id": 47952,
       "game_name": "Spelling Challenges",
       "file": "missing/S/47952-spelling-challenges.json"
@@ -517801,6 +518026,11 @@
       "igdb_id": 240344,
       "game_name": "Spelling Go!",
       "file": "missing/S/240344-spelling-go.json"
+    },
+    {
+      "igdb_id": 98561,
+      "game_name": "Spelling Jungle",
+      "file": "missing/S/98561-spelling-jungle.json"
     },
     {
       "igdb_id": 127169,
@@ -552328,6 +552558,11 @@
       "file": "missing/T/90481-tale-of-wuxia.json"
     },
     {
+      "igdb_id": 98575,
+      "game_name": "Taleans Hansel and Gretel story",
+      "file": "missing/T/98575-taleans-hansel-and-gretel-story.json"
+    },
+    {
       "igdb_id": 382305,
       "game_name": "Talebuilder",
       "file": "missing/T/382305-talebuilder.json"
@@ -572181,6 +572416,11 @@
       "igdb_id": 199519,
       "game_name": "The Great Ocean",
       "file": "missing/T/199519-the-great-ocean.json"
+    },
+    {
+      "igdb_id": 98574,
+      "game_name": "The Great One Hand Challenge",
+      "file": "missing/T/98574-the-great-one-hand-challenge.json"
     },
     {
       "igdb_id": 55835,
@@ -656453,6 +656693,11 @@
       "file": "missing/W/60803-world-advanced-daisenryaku-sakusen-file.json"
     },
     {
+      "igdb_id": 98546,
+      "game_name": "World Apart",
+      "file": "missing/W/98546-world-apart.json"
+    },
+    {
       "igdb_id": 216481,
       "game_name": "World At War 85 Digital",
       "file": "missing/W/216481-world-at-war-85-digital.json"
@@ -661396,6 +661641,11 @@
       "igdb_id": 381675,
       "game_name": "Xenogen",
       "file": "missing/X/381675-xenogen.json"
+    },
+    {
+      "igdb_id": 98587,
+      "game_name": "Xenogunner",
+      "file": "missing/X/98587-xenogunner.json"
     },
     {
       "igdb_id": 191203,
