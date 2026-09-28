@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Lightshow | 290555 | [290555-laser-lightshow.json](./290555-laser-lightshow.json) |
 | Laser Lords | 45919 | [45919-laser-lords.json](./45919-laser-lords.json) |
 | Laser Panic | 330314 | [330314-laser-panic.json](./330314-laser-panic.json) |
+| Laser Party | 113166 | [113166-laser-party.json](./113166-laser-party.json) |
 | Laser Push | 176430 | [176430-laser-push.json](./176430-laser-push.json) |
 | Laser Puzzle | 270413 | [270413-laser-puzzle.json](./270413-laser-puzzle.json) |
 | Laser Quest | 296069 | [296069-laser-quest.json](./296069-laser-quest.json) |
@@ -3414,6 +3415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Circus | 175363 | [175363-lost-circus.json](./175363-lost-circus.json) |
 | Lost Cities | 37376 | [37376-lost-cities.json](./37376-lost-cities.json) |
 | Lost City | 403010 | [403010-lost-city.json](./403010-lost-city.json) |
+| Lost City of Vampires | 113169 | [113169-lost-city-of-vampires.json](./113169-lost-city-of-vampires.json) |
 | Lost Civilization 2 | 262991 | [262991-lost-civilization-2.json](./262991-lost-civilization-2.json) |
 | Lost Colony | 250422 | [250422-lost-colony.json](./250422-lost-colony.json) |
 | Lost Continent | 191553 | [191553-lost-continent.json](./191553-lost-continent.json) |
