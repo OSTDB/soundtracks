@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Times: Purrfect Shapes | 369629 | [369629-neko-times-purrfect-shapes.json](./369629-neko-times-purrfect-shapes.json) |
 | Neko Tissue | 370105 | [370105-neko-tissue.json](./370105-neko-tissue.json) |
 | Neko to Sakana | 188601 | [188601-neko-to-sakana.json](./188601-neko-to-sakana.json) |
+| Neko Tomo | 104255 | [104255-neko-tomo.json](./104255-neko-tomo.json) |
 | Neko Waifu | 367033 | [367033-neko-waifu.json](./367033-neko-waifu.json) |
 | Neko Yume | 166503 | [166503-neko-yume.json](./166503-neko-yume.json) |
 | Neko Zamurai | 128364 | [128364-neko-zamurai.json](./128364-neko-zamurai.json) |
