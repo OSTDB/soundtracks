@@ -780,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Ninja Master's | 114147 | [114147-aca-neo-geo-ninja-masters.json](./114147-aca-neo-geo-ninja-masters.json) |
 | ACA Neo Geo: Puzzle Bobble | 113438 | [113438-aca-neo-geo-puzzle-bobble.json](./113438-aca-neo-geo-puzzle-bobble.json) |
 | ACA Neo Geo: Samurai Shodown V Special | 117520 | [117520-aca-neo-geo-samurai-shodown-v-special.json](./117520-aca-neo-geo-samurai-shodown-v-special.json) |
+| ACA Neo Geo: Sengoku 3 | 104269 | [104269-aca-neo-geo-sengoku-3.json](./104269-aca-neo-geo-sengoku-3.json) |
 | ACA Neo Geo: The King of Fighters '98 | 88907 | [88907-aca-neo-geo-the-king-of-fighters-98.json](./88907-aca-neo-geo-the-king-of-fighters-98.json) |
 | ACA Neo Geo: The King of Fighters 2003 | 115445 | [115445-aca-neo-geo-the-king-of-fighters-2003.json](./115445-aca-neo-geo-the-king-of-fighters-2003.json) |
 | ACA Neo Geo: The Last Blade 2 | 90517 | [90517-aca-neo-geo-the-last-blade-2.json](./90517-aca-neo-geo-the-last-blade-2.json) |
@@ -3132,6 +3133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambitions: Birth of a President | 140568 | [140568-ambitions-birth-of-a-president.json](./140568-ambitions-birth-of-a-president.json) |
 | Ambitious Mission | 293897 | [293897-ambitious-mission.json](./293897-ambitious-mission.json) |
 | AmbivalenZ: Niritsu Haihan | 93351 | [93351-ambivalenz-niritsu-haihan.json](./93351-ambivalenz-niritsu-haihan.json) |
+| Ambrosia | 104239 | [104239-ambrosia.json](./104239-ambrosia.json) |
 | Ambrosia's | 185613 | [185613-ambrosias.json](./185613-ambrosias.json) |
 | Ambulance Away | 233474 | [233474-ambulance-away.json](./233474-ambulance-away.json) |
 | Ambulance Chauffeur Simulator | 212904 | [212904-ambulance-chauffeur-simulator.json](./212904-ambulance-chauffeur-simulator.json) |
@@ -3810,6 +3812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Farm Jigsaw Games for Toddlers, Babys and Kids | 295265 | [295265-animal-farm-jigsaw-games-for-toddlers-babys-and-kids.json](./295265-animal-farm-jigsaw-games-for-toddlers-babys-and-kids.json) |
 | Animal Farm Parking: Extended Edition | 283156 | [283156-animal-farm-parking-extended-edition.json](./283156-animal-farm-parking-extended-edition.json) |
 | Animal Football | 208375 | [208375-animal-football.json](./208375-animal-football.json) |
+| Animal Force | 104271 | [104271-animal-force.json](./104271-animal-force.json) |
 | Animal Frenzy | 256374 | [256374-animal-frenzy.json](./256374-animal-frenzy.json) |
 | Animal Friends Adventure | 117637 | [117637-animal-friends-adventure.json](./117637-animal-friends-adventure.json) |
 | Animal Gem Puzzle | 297653 | [297653-animal-gem-puzzle.json](./297653-animal-gem-puzzle.json) |
@@ -4427,6 +4430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apes.io | 240311 | [240311-apes-io.json](./240311-apes-io.json) |
 | Apewar | 241939 | [241939-apewar.json](./241939-apewar.json) |
 | Apex | 5728 | [5728-apex.json](./5728-apex.json) |
+| Apex Arena | 104237 | [104237-apex-arena.json](./104237-apex-arena.json) |
 | Apex Drift Tokyo Streets | 323305 | [323305-apex-drift-tokyo-streets.json](./323305-apex-drift-tokyo-streets.json) |
 | Apex Gun | 247038 | [247038-apex-gun.json](./247038-apex-gun.json) |
 | Apex Heroines | 267483 | [267483-apex-heroines.json](./267483-apex-heroines.json) |
@@ -6440,6 +6444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroworld | 199594 | [199594-astroworld.json](./199594-astroworld.json) |
 | Astrox Imperium | 115500 | [115500-astrox-imperium.json](./115500-astrox-imperium.json) |
 | Astrozombies | 138617 | [138617-astrozombies.json](./138617-astrozombies.json) |
+| Astrozone | 104240 | [104240-astrozone.json](./104240-astrozone.json) |
 | Astrune Academy | 303834 | [303834-astrune-academy.json](./303834-astrune-academy.json) |
 | Astyanax | 9036 | [9036-astyanax.json](./9036-astyanax.json) |
 | Asu Kano! Asu mo Kanojo to Issho! | 209141 | [209141-asu-kano-asu-mo-kanojo-to-issho.json](./209141-asu-kano-asu-mo-kanojo-to-issho.json) |
