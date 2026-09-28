@@ -909,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick Ass Commandos | 20347 | [20347-kick-ass-commandos.json](./20347-kick-ass-commandos.json) |
 | Kick Ball | 42051 | [42051-kick-ball.json](./42051-kick-ball.json) |
 | Kick Bastards | 173258 | [173258-kick-bastards.json](./173258-kick-bastards.json) |
+| Kick Bot | 71027 | [71027-kick-bot.json](./71027-kick-bot.json) |
 | Kick Bot Classic | 137089 | [137089-kick-bot-classic.json](./137089-kick-bot-classic.json) |
 | Kick Buds | 401544 | [401544-kick-buds.json](./401544-kick-buds.json) |
 | Kick Buttowski: Loco Launcho | 234895 | [234895-kick-buttowski-loco-launcho.json](./234895-kick-buttowski-loco-launcho.json) |
@@ -1210,7 +1211,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Todoke: Sodateru Omoi | 66964 | [66964-kimi-ni-todoke-sodateru-omoi.json](./66964-kimi-ni-todoke-sodateru-omoi.json) |
 | Kimi no Hitomi ni Hit Me | 82803 | [82803-kimi-no-hitomi-ni-hit-me.json](./82803-kimi-no-hitomi-ni-hit-me.json) |
 | Kimi no Mirai | 251537 | [251537-kimi-no-mirai.json](./251537-kimi-no-mirai.json) |
@@ -2309,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kooring VR Coding Adventure | 158176 | [158176-kooring-vr-coding-adventure.json](./158176-kooring-vr-coding-adventure.json) |
 | Kopernicus: Extraction | 403556 | [403556-kopernicus-extraction.json](./403556-kopernicus-extraction.json) |
 | Koppun-50 | 310214 | [310214-koppun-50.json](./310214-koppun-50.json) |
+| Kops | 71036 | [71036-kops.json](./71036-kops.json) |
 | Kor | 183561 | [183561-kor.json](./183561-kor.json) |
 | Kore ga Pro Yakyuu '89 | 42037 | [42037-kore-ga-pro-yakyuu-89.json](./42037-kore-ga-pro-yakyuu-89.json) |
 | Korea: Forgotten Conflict | 24186 | [24186-korea-forgotten-conflict.json](./24186-korea-forgotten-conflict.json) |
