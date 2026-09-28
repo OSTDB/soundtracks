@@ -4556,6 +4556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Angels | 84847 | [84847-roller-angels.json](./84847-roller-angels.json) |
 | Roller Ball 6 | 196287 | [196287-roller-ball-6.json](./196287-roller-ball-6.json) |
 | Roller Champions | 119158 | [119158-roller-champions.json](./119158-roller-champions.json) |
+| Roller Coaster 3D | 88492 | [88492-roller-coaster-3d.json](./88492-roller-coaster-3d.json) |
 | Roller Coaster Apocalypse VR | 96876 | [96876-roller-coaster-apocalypse-vr.json](./96876-roller-coaster-apocalypse-vr.json) |
 | Roller Coaster Factory | 209003 | [209003-roller-coaster-factory.json](./209003-roller-coaster-factory.json) |
 | Roller Coaster Factory 3 | 209004 | [209004-roller-coaster-factory-3.json](./209004-roller-coaster-factory-3.json) |
@@ -5338,6 +5339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumbral | 344465 | [344465-rumbral.json](./344465-rumbral.json) |
 | Rumia in the darkness | 121013 | [121013-rumia-in-the-darkness.json](./121013-rumia-in-the-darkness.json) |
 | Rummikub | 243274 | [243274-rummikub.json](./243274-rummikub.json) |
+| Rummy - classic card game | 88416 | [88416-rummy-classic-card-game.json](./88416-rummy-classic-card-game.json) |
 | Rummy 3D Premium | 118405 | [118405-rummy-3d-premium.json](./118405-rummy-3d-premium.json) |
 | Rummy Club | 223923 | [223923-rummy-club.json](./223923-rummy-club.json) |
 | Rumor Raiders | 350406 | [350406-rumor-raiders.json](./350406-rumor-raiders.json) |
