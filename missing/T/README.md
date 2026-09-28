@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tángdì zhī Huá | 394820 | [394820-tangdi-zhi-hua.json](./394820-tangdi-zhi-hua.json) |
 | Tangerine Clicker | 247212 | [247212-tangerine-clicker.json](./247212-tangerine-clicker.json) |
 | Tangerine Panic | 280213 | [280213-tangerine-panic.json](./280213-tangerine-panic.json) |
+| Tangle Bee | 70445 | [70445-tangle-bee.json](./70445-tangle-bee.json) |
 | Tangled | 230404 | [230404-tangled.json](./230404-tangled.json) |
 | Tangled | 230552 | [230552-tangled.json](./230552-tangled.json) |
 | Tangled | 376725 | [376725-tangled.json](./376725-tangled.json) |
@@ -2040,6 +2041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraTech Worlds | 252865 | [252865-terratech-worlds.json](./252865-terratech-worlds.json) |
 | TerraTech: Deluxe Edition | 51928 | [51928-terratech-deluxe-edition.json](./51928-terratech-deluxe-edition.json) |
 | Terratopia: March of The Demon King | 315631 | [315631-terratopia-march-of-the-demon-king.json](./315631-terratopia-march-of-the-demon-king.json) |
+| Terrawars: NY Invasion | 70467 | [70467-terrawars-ny-invasion.json](./70467-terrawars-ny-invasion.json) |
 | Terre Scramble! | 260427 | [260427-terre-scramble.json](./260427-terre-scramble.json) |
 | Terrela | 27672 | [27672-terrela.json](./27672-terrela.json) |
 | Terrene: An Evidence of Life Game | 169429 | [169429-terrene-an-evidence-of-life-game.json](./169429-terrene-an-evidence-of-life-game.json) |
@@ -2693,6 +2695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Away Team: Lost Exodus | 120897 | [120897-the-away-team-lost-exodus.json](./120897-the-away-team-lost-exodus.json) |
 | The Awesome Adventures of Captain Spirit | 103283 | [103283-the-awesome-adventures-of-captain-spirit.json](./103283-the-awesome-adventures-of-captain-spirit.json) |
 | The Awesome Adventures of Victor Vector & Yondo: The Cyberplasm Formula | 72098 | [72098-the-awesome-adventures-of-victor-vector-and-yondo-the-cyberplasm-formula.json](./72098-the-awesome-adventures-of-victor-vector-and-yondo-the-cyberplasm-formula.json) |
+| The Awesome Adventures of Victor Vector & Yondo: The Hypnotic Harp | 70457 | [70457-the-awesome-adventures-of-victor-vector-and-yondo-the-hypnotic-harp.json](./70457-the-awesome-adventures-of-victor-vector-and-yondo-the-hypnotic-harp.json) |
 | The Awesome Adventures of Victor Vector & Yondo: The Last Dinosaur Egg | 73364 | [73364-the-awesome-adventures-of-victor-vector-and-yondo-the-last-dinosaur-egg.json](./73364-the-awesome-adventures-of-victor-vector-and-yondo-the-last-dinosaur-egg.json) |
 | The Axolotl Project | 60022 | [60022-the-axolotl-project.json](./60022-the-axolotl-project.json) |
 | The Aztec Ruins | 308328 | [308328-the-aztec-ruins.json](./308328-the-aztec-ruins.json) |
@@ -4963,6 +4966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jellyfish Girl's Absolute Abnormal Adventure | 194656 | [194656-the-jellyfish-girls-absolute-abnormal-adventure.json](./194656-the-jellyfish-girls-absolute-abnormal-adventure.json) |
 | The JerryMaya Detective Agency | 330249 | [330249-the-jerrymaya-detective-agency.json](./330249-the-jerrymaya-detective-agency.json) |
 | The Jester's Revenge | 289993 | [289993-the-jesters-revenge.json](./289993-the-jesters-revenge.json) |
+| The Jetsons: The Computer Game | 70475 | [70475-the-jetsons-the-computer-game.json](./70475-the-jetsons-the-computer-game.json) |
 | The Jhonson Parable | 229670 | [229670-the-jhonson-parable.json](./229670-the-jhonson-parable.json) |
 | The Jiang Shi 2: Curse of Soul | 306423 | [306423-the-jiang-shi-2-curse-of-soul.json](./306423-the-jiang-shi-2-curse-of-soul.json) |
 | The Jianghu | 216790 | [216790-the-jianghu.json](./216790-the-jianghu.json) |
@@ -5908,6 +5912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic Land | 182450 | [182450-the-magic-land.json](./182450-the-magic-land.json) |
 | The Magic of Scheherazade | 48078 | [48078-the-magic-of-scheherazade.json](./48078-the-magic-of-scheherazade.json) |
 | The Magic Roundabout | 268201 | [268201-the-magic-roundabout.json](./268201-the-magic-roundabout.json) |
+| The Magic School Bus Explores in the Age of Dinosaurs | 70456 | [70456-the-magic-school-bus-explores-in-the-age-of-dinosaurs.json](./70456-the-magic-school-bus-explores-in-the-age-of-dinosaurs.json) |
 | The Magic School Bus Explores the Ocean | 138253 | [138253-the-magic-school-bus-explores-the-ocean.json](./138253-the-magic-school-bus-explores-the-ocean.json) |
 | The Magic School Bus Explores the Solar System | 67659 | [67659-the-magic-school-bus-explores-the-solar-system.json](./67659-the-magic-school-bus-explores-the-solar-system.json) |
 | The Magic School Bus: Dino Shuffle | 230388 | [230388-the-magic-school-bus-dino-shuffle.json](./230388-the-magic-school-bus-dino-shuffle.json) |
@@ -7989,6 +7994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tudors | 10986 | [10986-the-tudors.json](./10986-the-tudors.json) |
 | The Tuesday Collection | 331403 | [331403-the-tuesday-collection.json](./331403-the-tuesday-collection.json) |
 | The Tumor | 348448 | [348448-the-tumor.json](./348448-the-tumor.json) |
+| The TunnelMan | 70440 | [70440-the-tunnelman.json](./70440-the-tunnelman.json) |
 | The Tunnels | 326279 | [326279-the-tunnels.json](./326279-the-tunnels.json) |
 | The Turdler | 108301 | [108301-the-turdler.json](./108301-the-turdler.json) |
 | The Turgenev Study | 222885 | [222885-the-turgenev-study.json](./222885-the-turgenev-study.json) |
@@ -8765,6 +8771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Think Shift | 250386 | [250386-think-shift.json](./250386-think-shift.json) |
 | Think Tap Turn | 100815 | [100815-think-tap-turn.json](./100815-think-tap-turn.json) |
 | THiNK-X | 94539 | [94539-think-x.json](./94539-think-x.json) |
+| Think: Logik Trainer | 70447 | [70447-think-logik-trainer.json](./70447-think-logik-trainer.json) |
 | Think: Train Your Brain | 124092 | [124092-think-train-your-brain.json](./124092-think-train-your-brain.json) |
 | Think! | 142363 | [142363-think.json](./142363-think.json) |
 | Think! Think! Monsters | 233512 | [233512-think-think-monsters.json](./233512-think-think-monsters.json) |
@@ -10188,6 +10195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time of War | 27638 | [27638-time-of-war.json](./27638-time-of-war.json) |
 | Time on Frog Island: Prologue | 209641 | [209641-time-on-frog-island-prologue.json](./209641-time-on-frog-island-prologue.json) |
 | Time Only Knows | 208411 | [208411-time-only-knows.json](./208411-time-only-knows.json) |
+| Time Out Games | 70470 | [70470-time-out-games.json](./70470-time-out-games.json) |
 | Time Out Sports: Baseball | 57936 | [57936-time-out-sports-baseball.json](./57936-time-out-sports-baseball.json) |
 | Time Over | 368658 | [368658-time-over.json](./368658-time-over.json) |
 | Time Parallax: The Burial Vault | 262291 | [262291-time-parallax-the-burial-vault.json](./262291-time-parallax-the-burial-vault.json) |
@@ -13654,6 +13662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TriPeaks Solitaire: Card Game | 89185 | [89185-tripeaks-solitaire-card-game.json](./89185-tripeaks-solitaire-card-game.json) |
 | Tripgate | 142866 | [142866-tripgate.json](./142866-tripgate.json) |
 | Triphammer | 378920 | [378920-triphammer.json](./378920-triphammer.json) |
+| Triplane Turmoil | 70449 | [70449-triplane-turmoil.json](./70449-triplane-turmoil.json) |
 | Triplane Turmoil II | 73553 | [73553-triplane-turmoil-ii.json](./73553-triplane-turmoil-ii.json) |
 | Triple | 152146 | [152146-triple.json](./152146-triple.json) |
 | Triple | 277861 | [277861-triple.json](./277861-triple.json) |
