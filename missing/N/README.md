@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature of Dread | 403683 | [403683-nature-of-dread.json](./403683-nature-of-dread.json) |
 | Nature Park | 274729 | [274729-nature-park.json](./274729-nature-park.json) |
 | Nature Prhysm | 206374 | [206374-nature-prhysm.json](./206374-nature-prhysm.json) |
+| Nature Treks: Healing With Color | 65589 | [65589-nature-treks-healing-with-color.json](./65589-nature-treks-healing-with-color.json) |
 | Nature Treks: Together | 152817 | [152817-nature-treks-together.json](./152817-nature-treks-together.json) |
 | Nature Walk Simulator | 28199 | [28199-nature-walk-simulator.json](./28199-nature-walk-simulator.json) |
 | Nature's Element | 270972 | [270972-natures-element.json](./270972-natures-element.json) |
@@ -506,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naval Warfare Multi-shot | 344919 | [344919-naval-warfare-multi-shot.json](./344919-naval-warfare-multi-shot.json) |
 | Navalny: A Nightmare of Corrupt | 123572 | [123572-navalny-a-nightmare-of-corrupt.json](./123572-navalny-a-nightmare-of-corrupt.json) |
 | Navalny: Posledniy miting | 111016 | [111016-navalny-posledniy-miting.json](./111016-navalny-posledniy-miting.json) |
+| Navcom 6: The Persian Gulf Defense | 65569 | [65569-navcom-6-the-persian-gulf-defense.json](./65569-navcom-6-the-persian-gulf-defense.json) |
 | Navicula Meatus | 319727 | [319727-navicula-meatus.json](./319727-navicula-meatus.json) |
 | Navigating the Labyrinth | 274549 | [274549-navigating-the-labyrinth.json](./274549-navigating-the-labyrinth.json) |
 | Navigavia: Kirka's Island | 267107 | [267107-navigavia-kirkas-island.json](./267107-navigavia-kirkas-island.json) |
