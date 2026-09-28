@@ -1811,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellcats: Missions at Leyte Gulf | 337196 | [337196-hellcats-missions-at-leyte-gulf.json](./337196-hellcats-missions-at-leyte-gulf.json) |
 | Hellcrossing | 245797 | [245797-hellcrossing.json](./245797-hellcrossing.json) |
 | Hellcrown | 412367 | [412367-hellcrown.json](./412367-hellcrown.json) |
+| HellCrunch | 89400 | [89400-hellcrunch.json](./89400-hellcrunch.json) |
 | Helldivers | 14523 | [14523-helldivers.json](./14523-helldivers.json) |
 | Helldivers 2: Devoid of Liberty | 412429 | [412429-helldivers-2-devoid-of-liberty.json](./412429-helldivers-2-devoid-of-liberty.json) |
 | Helldivers 2: Omens of Tyranny | 325601 | [325601-helldivers-2-omens-of-tyranny.json](./325601-helldivers-2-omens-of-tyranny.json) |
