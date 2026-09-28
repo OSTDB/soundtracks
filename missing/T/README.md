@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taco Tom 2 | 113047 | [113047-taco-tom-2.json](./113047-taco-tom-2.json) |
 | Taco: Princess from the Moon | 166162 | [166162-taco-princess-from-the-moon.json](./166162-taco-princess-from-the-moon.json) |
 | TacTac Prologue | 198383 | [198383-tactac-prologue.json](./198383-tactac-prologue.json) |
+| Tactera | 81169 | [81169-tactera.json](./81169-tactera.json) |
 | Tacti-Cat | 265926 | [265926-tacti-cat.json](./265926-tacti-cat.json) |
 | Tactic Force | 123542 | [123542-tactic-force.json](./123542-tactic-force.json) |
 | Tactic Legends | 211157 | [211157-tactic-legends.json](./211157-tactic-legends.json) |
@@ -11517,15 +11518,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer - Jade Wizard | 81294 | [81294-total-war-warhammer-jade-wizard.json](./81294-total-war-warhammer-jade-wizard.json) |
 | Total War: Warhammer - Norsca | 53833 | [53833-total-war-warhammer-norsca.json](./53833-total-war-warhammer-norsca.json) |
 | Total War: Warhammer - Realm of the Wood Elves | 26423 | [26423-total-war-warhammer-realm-of-the-wood-elves.json](./26423-total-war-warhammer-realm-of-the-wood-elves.json) |
+| Total War: Warhammer - The King and the Warlord | 81202 | [81202-total-war-warhammer-the-king-and-the-warlord.json](./81202-total-war-warhammer-the-king-and-the-warlord.json) |
 | Total War: Warhammer - Wurrzag | 81295 | [81295-total-war-warhammer-wurrzag.json](./81295-total-war-warhammer-wurrzag.json) |
 | Total War: Warhammer 40,000 | 381245 | [381245-total-war-warhammer-40-000.json](./381245-total-war-warhammer-40-000.json) |
 | Total War: Warhammer II - Alith Anar | 167623 | [167623-total-war-warhammer-ii-alith-anar.json](./167623-total-war-warhammer-ii-alith-anar.json) |
+| Total War: Warhammer II - Blood for the Blood God II | 81192 | [81192-total-war-warhammer-ii-blood-for-the-blood-god-ii.json](./81192-total-war-warhammer-ii-blood-for-the-blood-god-ii.json) |
 | Total War: Warhammer II - Curse of the Vampire Coast | 110863 | [110863-total-war-warhammer-ii-curse-of-the-vampire-coast.json](./110863-total-war-warhammer-ii-curse-of-the-vampire-coast.json) |
 | Total War: Warhammer II - Gor-Rok | 167621 | [167621-total-war-warhammer-ii-gor-rok.json](./167621-total-war-warhammer-ii-gor-rok.json) |
 | Total War: Warhammer II - Imrik | 167620 | [167620-total-war-warhammer-ii-imrik.json](./167620-total-war-warhammer-ii-imrik.json) |
 | Total War: Warhammer II - Limited Edition | 4131 | [4131-total-war-warhammer-ii-limited-edition.json](./4131-total-war-warhammer-ii-limited-edition.json) |
 | Total War: Warhammer II - Lokhir Fellheart | 167625 | [167625-total-war-warhammer-ii-lokhir-fellheart.json](./167625-total-war-warhammer-ii-lokhir-fellheart.json) |
+| Total War: Warhammer II - Mortal Empires | 81190 | [81190-total-war-warhammer-ii-mortal-empires.json](./81190-total-war-warhammer-ii-mortal-empires.json) |
 | Total War: Warhammer II - Repanse de Lyonesse | 167628 | [167628-total-war-warhammer-ii-repanse-de-lyonesse.json](./167628-total-war-warhammer-ii-repanse-de-lyonesse.json) |
+| Total War: Warhammer II - Rise of the Tomb Kings | 81191 | [81191-total-war-warhammer-ii-rise-of-the-tomb-kings.json](./81191-total-war-warhammer-ii-rise-of-the-tomb-kings.json) |
 | Total War: Warhammer II - The Hunter & The Beast | 167627 | [167627-total-war-warhammer-ii-the-hunter-and-the-beast.json](./167627-total-war-warhammer-ii-the-hunter-and-the-beast.json) |
 | Total War: Warhammer II - The Silence & The Fury | 154996 | [154996-total-war-warhammer-ii-the-silence-and-the-fury.json](./154996-total-war-warhammer-ii-the-silence-and-the-fury.json) |
 | Total War: Warhammer II - The Twisted & The Twilight | 167626 | [167626-total-war-warhammer-ii-the-twisted-and-the-twilight.json](./167626-total-war-warhammer-ii-the-twisted-and-the-twilight.json) |
