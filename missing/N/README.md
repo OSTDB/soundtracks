@@ -1201,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptune's Pride II: Triton | 62443 | [62443-neptunes-pride-ii-triton.json](./62443-neptunes-pride-ii-triton.json) |
 | Neptune's Secret | 210039 | [210039-neptunes-secret.json](./210039-neptunes-secret.json) |
 | NeptuneGL | 83563 | [83563-neptunegl.json](./83563-neptunegl.json) |
+| Neptunia | 69908 | [69908-neptunia.json](./69908-neptunia.json) |
 | Neptunia GameMaker R:Evolution | 247467 | [247467-neptunia-gamemaker-r-evolution.json](./247467-neptunia-gamemaker-r-evolution.json) |
 | Neptunia reVerse | 139072 | [139072-neptunia-reverse.json](./139072-neptunia-reverse.json) |
 | Neptunia reVerse: Day One Edition | 142370 | [142370-neptunia-reverse-day-one-edition.json](./142370-neptunia-reverse-day-one-edition.json) |
@@ -2930,6 +2931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norfolk Warriors | 116127 | [116127-norfolk-warriors.json](./116127-norfolk-warriors.json) |
 | Nori Danshi!! | 295929 | [295929-nori-danshi.json](./295929-nori-danshi.json) |
 | Norilsk | 95602 | [95602-norilsk.json](./95602-norilsk.json) |
+| Norm Koger's: The Operational Art of War III | 69928 | [69928-norm-kogers-the-operational-art-of-war-iii.json](./69928-norm-kogers-the-operational-art-of-war-iii.json) |
 | Norma | 330252 | [330252-norma.json](./330252-norma.json) |
 | Normal Adult Human Person | 216173 | [216173-normal-adult-human-person.json](./216173-normal-adult-human-person.json) |
 | Normal Days | 329092 | [329092-normal-days.json](./329092-normal-days.json) |
