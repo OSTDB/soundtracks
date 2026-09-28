@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Two Sardines | 219564 | [219564-tale-of-two-sardines.json](./219564-tale-of-two-sardines.json) |
 | Tale of Two Sides | 309133 | [309133-tale-of-two-sides.json](./309133-tale-of-two-sides.json) |
 | Tale of Wuxia | 90481 | [90481-tale-of-wuxia.json](./90481-tale-of-wuxia.json) |
+| Taleans Hansel and Gretel story | 98575 | [98575-taleans-hansel-and-gretel-story.json](./98575-taleans-hansel-and-gretel-story.json) |
 | Talebuilder | 382305 | [382305-talebuilder.json](./382305-talebuilder.json) |
 | Talented | 260636 | [260636-talented.json](./260636-talented.json) |
 | Talentless. | 229656 | [229656-talentless.json](./229656-talentless.json) |
@@ -4461,6 +4462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Menace | 154029 | [154029-the-great-menace.json](./154029-the-great-menace.json) |
 | The Great Mushroom Hunt | 114321 | [114321-the-great-mushroom-hunt.json](./114321-the-great-mushroom-hunt.json) |
 | The Great Ocean | 199519 | [199519-the-great-ocean.json](./199519-the-great-ocean.json) |
+| The Great One Hand Challenge | 98574 | [98574-the-great-one-hand-challenge.json](./98574-the-great-one-hand-challenge.json) |
 | The Great Race | 55835 | [55835-the-great-race.json](./55835-the-great-race.json) |
 | The Great Race | 99775 | [99775-the-great-race.json](./99775-the-great-race.json) |
 | The Great Rebellion | 290012 | [290012-the-great-rebellion.json](./290012-the-great-rebellion.json) |
