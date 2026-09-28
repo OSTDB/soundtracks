@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PachiSlot Aruze Kingdom - Porcano 2 | 75508 | [75508-pachislot-aruze-kingdom-porcano-2.json](./75508-pachislot-aruze-kingdom-porcano-2.json) |
 | PachiSlot Aruze Kingdom - Ward of Lights | 75509 | [75509-pachislot-aruze-kingdom-ward-of-lights.json](./75509-pachislot-aruze-kingdom-ward-of-lights.json) |
 | Pachislot Ring: Noroi no 7-Kakan | 60808 | [60808-pachislot-ring-noroi-no-7-kakan.json](./60808-pachislot-ring-noroi-no-7-kakan.json) |
+| Pachislot Ring: Shuen no Koku | 71569 | [71569-pachislot-ring-shuen-no-koku.json](./71569-pachislot-ring-shuen-no-koku.json) |
 | Pachislot Sengoku Musou | 64358 | [64358-pachislot-sengoku-musou.json](./64358-pachislot-sengoku-musou.json) |
 | Pachitte Chonmage | 109190 | [109190-pachitte-chonmage.json](./109190-pachitte-chonmage.json) |
 | Pachitte Chonmage Tatsujin 5: CR Kamen Rider | 61913 | [61913-pachitte-chonmage-tatsujin-5-cr-kamen-rider.json](./61913-pachitte-chonmage-tatsujin-5-cr-kamen-rider.json) |
@@ -392,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palace of Nemrac | 261283 | [261283-palace-of-nemrac.json](./261283-palace-of-nemrac.json) |
 | Palace of Poetry | 386862 | [386862-palace-of-poetry.json](./386862-palace-of-poetry.json) |
 | Palace of Woe | 134683 | [134683-palace-of-woe.json](./134683-palace-of-woe.json) |
+| Paladin | 71600 | [71600-paladin.json](./71600-paladin.json) |
 | Paladin Dream | 154995 | [154995-paladin-dream.json](./154995-paladin-dream.json) |
 | Paladin Duty: Knights and Blades | 89393 | [89393-paladin-duty-knights-and-blades.json](./89393-paladin-duty-knights-and-blades.json) |
 | Paladin II | 70354 | [70354-paladin-ii.json](./70354-paladin-ii.json) |
@@ -1837,6 +1839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguins of the North | 121545 | [121545-penguins-of-the-north.json](./121545-penguins-of-the-north.json) |
 | Penguins vs. Bugs | 122402 | [122402-penguins-vs-bugs.json](./122402-penguins-vs-bugs.json) |
 | Penguins! | 147344 | [147344-penguins.json](./147344-penguins.json) |
+| Penguins' Journey | 71568 | [71568-penguins-journey.json](./71568-penguins-journey.json) |
 | Penguru | 264648 | [264648-penguru.json](./264648-penguru.json) |
 | Pengwyn | 13745 | [13745-pengwyn.json](./13745-pengwyn.json) |
 | Penis Simulator | 403024 | [403024-penis-simulator.json](./403024-penis-simulator.json) |
