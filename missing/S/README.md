@@ -3871,6 +3871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island | 268079 | [268079-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island.json](./268079-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island.json) |
 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island - Plus Pack | 323544 | [323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json](./323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json) |
 | Shiren the Wanderer: The Tower of Fortune and the Dice of Fate | 19460 | [19460-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json](./19460-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json) |
+| Shiren the Wanderer: The Tower of Fortune and the Dice of Fate | 80619 | [80619-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json](./80619-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json) |
 | Shiren The Wanderer: The Tower of Fortune and the Dice of Fate - Eternal Wanderer Edition | 42676 | [42676-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate-eternal-wanderer-edition.json](./42676-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate-eternal-wanderer-edition.json) |
 | Shirime 2: The Genesis of Butt-Eye | 253854 | [253854-shirime-2-the-genesis-of-butt-eye.json](./253854-shirime-2-the-genesis-of-butt-eye.json) |
 | Shirina | 103638 | [103638-shirina.json](./103638-shirina.json) |
@@ -5987,6 +5988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingshot Stunt Driver & Sports | 188102 | [188102-slingshot-stunt-driver-and-sports.json](./188102-slingshot-stunt-driver-and-sports.json) |
 | Slingshot Trip | 245935 | [245935-slingshot-trip.json](./245935-slingshot-trip.json) |
 | Slingshot: The Bump Challenge | 108470 | [108470-slingshot-the-bump-challenge.json](./108470-slingshot-the-bump-challenge.json) |
+| Slingstar | 80640 | [80640-slingstar.json](./80640-slingstar.json) |
 | Slink & Snatch: Tales of Thievery | 220666 | [220666-slink-and-snatch-tales-of-thievery.json](./220666-slink-and-snatch-tales-of-thievery.json) |
 | Slinki | 35633 | [35633-slinki.json](./35633-slinki.json) |
 | Slip 'n Slime | 310190 | [310190-slip-n-slime.json](./310190-slip-n-slime.json) |
@@ -8375,6 +8377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Battle: Sea Battle | 264906 | [264906-space-battle-sea-battle.json](./264906-space-battle-sea-battle.json) |
 | Space Battlecruiser | 99047 | [99047-space-battlecruiser.json](./99047-space-battlecruiser.json) |
 | Space Battlefield | 187979 | [187979-space-battlefield.json](./187979-space-battlefield.json) |
+| Space Battles | 80631 | [80631-space-battles.json](./80631-space-battles.json) |
 | Space Beam | 277882 | [277882-space-beam.json](./277882-space-beam.json) |
 | Space Beastz | 195078 | [195078-space-beastz.json](./195078-space-beastz.json) |
 | Space Beret | 30794 | [30794-space-beret.json](./30794-space-beret.json) |
@@ -9413,6 +9416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man | 363917 | [363917-spider-man.json](./363917-spider-man.json) |
 | Spider-Man | 363918 | [363918-spider-man.json](./363918-spider-man.json) |
 | Spider-Man | 4500 | [4500-spider-man.json](./4500-spider-man.json) |
+| Spider-Man | 80483 | [80483-spider-man.json](./80483-spider-man.json) |
 | Spider-Man / X-Men: Arcade's Redux | 219274 | [219274-spider-man-x-men-arcades-redux.json](./219274-spider-man-x-men-arcades-redux.json) |
 | Spider-Man & Friends: Doc Ock's Challenge | 72999 | [72999-spider-man-and-friends-doc-ocks-challenge.json](./72999-spider-man-and-friends-doc-ocks-challenge.json) |
 | Spider-Man & Friends: Secret Missions | 73001 | [73001-spider-man-and-friends-secret-missions.json](./73001-spider-man-and-friends-secret-missions.json) |
@@ -14256,6 +14260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen OG Saga: Masou Kishin II - Revelation of Evil God | 65453 | [65453-super-robot-taisen-og-saga-masou-kishin-ii-revelation-of-evil-god.json](./65453-super-robot-taisen-og-saga-masou-kishin-ii-revelation-of-evil-god.json) |
 | Super Robot Taisen OG: Dark Prison | 144283 | [144283-super-robot-taisen-og-dark-prison.json](./144283-super-robot-taisen-og-dark-prison.json) |
 | Super Robot Taisen OG: Infinite Battle | 214614 | [214614-super-robot-taisen-og-infinite-battle.json](./214614-super-robot-taisen-og-infinite-battle.json) |
+| Super Robot Taisen OG: Original Generations | 80450 | [80450-super-robot-taisen-og-original-generations.json](./80450-super-robot-taisen-og-original-generations.json) |
 | Super Robot Taisen T | 112431 | [112431-super-robot-taisen-t.json](./112431-super-robot-taisen-t.json) |
 | Super Robot Taisen T: Bonus Scenario Full Pack | 275061 | [275061-super-robot-taisen-t-bonus-scenario-full-pack.json](./275061-super-robot-taisen-t-bonus-scenario-full-pack.json) |
 | Super Robot Taisen T: Expansion Pack | 275062 | [275062-super-robot-taisen-t-expansion-pack.json](./275062-super-robot-taisen-t-expansion-pack.json) |
@@ -14757,6 +14762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Ruler 2020: Gold Edition | 51934 | [51934-supreme-ruler-2020-gold-edition.json](./51934-supreme-ruler-2020-gold-edition.json) |
 | Supreme Ruler 2030 | 219574 | [219574-supreme-ruler-2030.json](./219574-supreme-ruler-2030.json) |
 | Supreme Ruler Global Outbreak | 296999 | [296999-supreme-ruler-global-outbreak.json](./296999-supreme-ruler-global-outbreak.json) |
+| Supreme Ruler Plus | 80641 | [80641-supreme-ruler-plus.json](./80641-supreme-ruler-plus.json) |
 | Supreme Ruler The Great War Remastered | 277933 | [277933-supreme-ruler-the-great-war-remastered.json](./277933-supreme-ruler-the-great-war-remastered.json) |
 | Supreme Ruler The Great War Remastered DLC | 277931 | [277931-supreme-ruler-the-great-war-remastered-dlc.json](./277931-supreme-ruler-the-great-war-remastered-dlc.json) |
 | Supreme Ruler Ultimate: Trump Rising | 171958 | [171958-supreme-ruler-ultimate-trump-rising.json](./171958-supreme-ruler-ultimate-trump-rising.json) |
