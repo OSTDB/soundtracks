@@ -3266,6 +3266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Hotel Mania | 235162 | [235162-grand-hotel-mania.json](./235162-grand-hotel-mania.json) |
 | Grand Kingdom: Grand Edition | 89908 | [89908-grand-kingdom-grand-edition.json](./89908-grand-kingdom-grand-edition.json) |
 | Grand Kingdom: Limited Edition | 89909 | [89909-grand-kingdom-limited-edition.json](./89909-grand-kingdom-limited-edition.json) |
+| Grand Kokoro - Episode 1 | 104842 | [104842-grand-kokoro-episode-1.json](./104842-grand-kokoro-episode-1.json) |
 | Grand Larceny | 13860 | [13860-grand-larceny.json](./13860-grand-larceny.json) |
 | Grand Line Adventures | 148485 | [148485-grand-line-adventures.json](./148485-grand-line-adventures.json) |
 | Grand Lines | 231337 | [231337-grand-lines.json](./231337-grand-lines.json) |
@@ -3595,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Storm: First Mission | 329586 | [329586-gravity-storm-first-mission.json](./329586-gravity-storm-first-mission.json) |
 | Gravity Swap 64 | 202107 | [202107-gravity-swap-64.json](./202107-gravity-swap-64.json) |
 | Gravity Up | 318424 | [318424-gravity-up.json](./318424-gravity-up.json) |
+| Gravity Vector | 104791 | [104791-gravity-vector.json](./104791-gravity-vector.json) |
 | Gravity Was A Mistake | 366830 | [366830-gravity-was-a-mistake.json](./366830-gravity-was-a-mistake.json) |
 | Gravity Waves | 253371 | [253371-gravity-waves.json](./253371-gravity-waves.json) |
 | Gravity Well | 142317 | [142317-gravity-well.json](./142317-gravity-well.json) |
