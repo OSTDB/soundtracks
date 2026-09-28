@@ -6155,6 +6155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smack Studio | 169880 | [169880-smack-studio.json](./169880-smack-studio.json) |
 | Smack Talk | 377698 | [377698-smack-talk.json](./377698-smack-talk.json) |
 | Smack Wacker | 68668 | [68668-smack-wacker.json](./68668-smack-wacker.json) |
+| Smackhead | 76529 | [76529-smackhead.json](./76529-smackhead.json) |
 | Smackitball | 33036 | [33036-smackitball.json](./33036-smackitball.json) |
 | Small | 13258 | [13258-small.json](./13258-small.json) |
 | Small Arms | 18039 | [18039-small-arms.json](./18039-small-arms.json) |
@@ -8186,6 +8187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul-Ivy: C0 | 110517 | [110517-soul-ivy-c0.json](./110517-soul-ivy-c0.json) |
 | Soul's Spectrum | 232974 | [232974-souls-spectrum.json](./232974-souls-spectrum.json) |
 | Soul's Spectrum: Awakening | 267110 | [267110-souls-spectrum-awakening.json](./267110-souls-spectrum-awakening.json) |
+| Souland | 76690 | [76690-souland.json](./76690-souland.json) |
 | Soulash | 118457 | [118457-soulash.json](./118457-soulash.json) |
 | Soulash 2 | 249194 | [249194-soulash-2.json](./249194-soulash-2.json) |
 | Soulblade: Dawnbreaker | 380003 | [380003-soulblade-dawnbreaker.json](./380003-soulblade-dawnbreaker.json) |
@@ -10122,6 +10124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Head Zombies 2 - FPS Game | 99638 | [99638-square-head-zombies-2-fps-game.json](./99638-square-head-zombies-2-fps-game.json) |
 | Square It: An Electronic Game of Capture the Boxes | 217928 | [217928-square-it-an-electronic-game-of-capture-the-boxes.json](./217928-square-it-an-electronic-game-of-capture-the-boxes.json) |
 | Square Jump | 106377 | [106377-square-jump.json](./106377-square-jump.json) |
+| Square Massacre | 76526 | [76526-square-massacre.json](./76526-square-massacre.json) |
 | Square n Fair | 29862 | [29862-square-n-fair.json](./29862-square-n-fair.json) |
 | Square of Joy | 312733 | [312733-square-of-joy.json](./312733-square-of-joy.json) |
 | Square Off | 156557 | [156557-square-off.json](./156557-square-off.json) |
@@ -15068,6 +15071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushiamo | 400462 | [400462-sushiamo.json](./400462-sushiamo.json) |
 | SushiCat: Bento | 363948 | [363948-sushicat-bento.json](./363948-sushicat-bento.json) |
 | SushiCup Legend | 342618 | [342618-sushicup-legend.json](./342618-sushicup-legend.json) |
+| Sushido vs. Zombies | 76523 | [76523-sushido-vs-zombies.json](./76523-sushido-vs-zombies.json) |
 | Sushininjarobot TD | 345038 | [345038-sushininjarobot-td.json](./345038-sushininjarobot-td.json) |
 | SushiParty2 | 124238 | [124238-sushiparty2.json](./124238-sushiparty2.json) |
 | Suspect: The Run! | 235143 | [235143-suspect-the-run.json](./235143-suspect-the-run.json) |
