@@ -1408,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Whopper | 238203 | [238203-jumping-whopper.json](./238203-jumping-whopper.json) |
 | Jumping With Friends | 411120 | [411120-jumping-with-friends.json](./411120-jumping-with-friends.json) |
 | Jumping! | 209655 | [209655-jumping.json](./209655-jumping.json) |
+| JumpingBoy | 111868 | [111868-jumpingboy.json](./111868-jumpingboy.json) |
 | JumpJumpJump! | 335086 | [335086-jumpjumpjump.json](./335086-jumpjumpjump.json) |
 | Jumplats | 295889 | [295889-jumplats.json](./295889-jumplats.json) |
 | Jumplight Odyssey | 229965 | [229965-jumplight-odyssey.json](./229965-jumplight-odyssey.json) |
