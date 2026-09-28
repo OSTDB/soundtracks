@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MAAA | 112978 | [112978-maaa.json](./112978-maaa.json) |
 | Mabeop Cheonjamun DS | 124789 | [124789-mabeop-cheonjamun-ds.json](./124789-mabeop-cheonjamun-ds.json) |
 | Mabeop Cheonjamun DS 2: The Final Hanja Magic | 124788 | [124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json](./124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json) |
+| MabinoB G3 | 109188 | [109188-mabinob-g3.json](./109188-mabinob-g3.json) |
 | Mabinogi Mobile | 188377 | [188377-mabinogi-mobile.json](./188377-mabinogi-mobile.json) |
 | Maboroshi Tsukiyo | 128379 | [128379-maboroshi-tsukiyo.json](./128379-maboroshi-tsukiyo.json) |
 | Macabre no Zantou: Remnants of the Macabre | 309363 | [309363-macabre-no-zantou-remnants-of-the-macabre.json](./309363-macabre-no-zantou-remnants-of-the-macabre.json) |
@@ -427,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magia Record | 231933 | [231933-magia-record.json](./231933-magia-record.json) |
 | Magia Story | 244762 | [244762-magia-story.json](./244762-magia-story.json) |
 | Magia X: Leta | 172158 | [172158-magia-x-leta.json](./172158-magia-x-leta.json) |
+| Magiblo Plus | 109189 | [109189-magiblo-plus.json](./109189-magiblo-plus.json) |
 | Magibrick | 290521 | [290521-magibrick.json](./290521-magibrick.json) |
 | Magic & Empire | 97380 | [97380-magic-and-empire.json](./97380-magic-and-empire.json) |
 | Magic & Legend: Time Knights | 228404 | [228404-magic-and-legend-time-knights.json](./228404-magic-and-legend-time-knights.json) |
@@ -1469,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Märchen Maze | 212861 | [212861-marchen-maze.json](./212861-marchen-maze.json) |
 | Marchen Veil | 41337 | [41337-marchen-veil.json](./41337-marchen-veil.json) |
 | Marchen Veil I | 240177 | [240177-marchen-veil-i.json](./240177-marchen-veil-i.json) |
+| Marchers | 109160 | [109160-marchers.json](./109160-marchers.json) |
 | Marching Order | 330151 | [330151-marching-order.json](./330151-marching-order.json) |
 | Marching Simulator | 96516 | [96516-marching-simulator.json](./96516-marching-simulator.json) |
 | Marchland | 183457 | [183457-marchland.json](./183457-marchland.json) |
@@ -4134,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Swarm Infinity | 167680 | [167680-metal-swarm-infinity.json](./167680-metal-swarm-infinity.json) |
 | Metal Torrent | 67703 | [67703-metal-torrent.json](./67703-metal-torrent.json) |
 | Metal Walker | 49872 | [49872-metal-walker.json](./49872-metal-walker.json) |
+| Metal Wolf | 109171 | [109171-metal-wolf.json](./109171-metal-wolf.json) |
 | Metal World: Street Scraps | 201145 | [201145-metal-world-street-scraps.json](./201145-metal-world-street-scraps.json) |
 | Metal: Hellsinger | 134560 | [134560-metal-hellsinger.json](./134560-metal-hellsinger.json) |
 | Metal: Hellsinger - Complete Edition | 279779 | [279779-metal-hellsinger-complete-edition.json](./279779-metal-hellsinger-complete-edition.json) |
@@ -8667,6 +8671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Neighbour Mr.Ghost | 265591 | [265591-my-neighbour-mr-ghost.json](./265591-my-neighbour-mr-ghost.json) |
 | My Nemesis and Hero | 186849 | [186849-my-nemesis-and-hero.json](./186849-my-nemesis-and-hero.json) |
 | My New Tenant | 408305 | [408305-my-new-tenant.json](./408305-my-new-tenant.json) |
+| My Newborn Puppy | 109165 | [109165-my-newborn-puppy.json](./109165-my-newborn-puppy.json) |
 | My Newborn Santa: Grow A Christmas Baby | 256348 | [256348-my-newborn-santa-grow-a-christmas-baby.json](./256348-my-newborn-santa-grow-a-christmas-baby.json) |
 | My Newspaper | 217499 | [217499-my-newspaper.json](./217499-my-newspaper.json) |
 | My Next Life as a Bird | 274756 | [274756-my-next-life-as-a-bird.json](./274756-my-next-life-as-a-bird.json) |
