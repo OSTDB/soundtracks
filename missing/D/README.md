@@ -3628,6 +3628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Like a Hero | 153891 | [153891-die-like-a-hero.json](./153891-die-like-a-hero.json) |
 | Die O'Clock | 214161 | [214161-die-oclock.json](./214161-die-oclock.json) |
 | Die Original Moorhuhn Jagd | 83237 | [83237-die-original-moorhuhn-jagd.json](./83237-die-original-moorhuhn-jagd.json) |
+| Die Pizzeria | 91542 | [91542-die-pizzeria.json](./91542-die-pizzeria.json) |
 | Die Quelle von Naroth | 356840 | [356840-die-quelle-von-naroth.json](./356840-die-quelle-von-naroth.json) |
 | Die Reise ins All | 127916 | [127916-die-reise-ins-all.json](./127916-die-reise-ins-all.json) |
 | Die Rowdy | 299766 | [299766-die-rowdy.json](./299766-die-rowdy.json) |
@@ -3907,6 +3908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Dan: Dino Dig Site | 105897 | [105897-dino-dan-dino-dig-site.json](./105897-dino-dan-dino-dig-site.json) |
 | Dino Dana - Experiments | 95828 | [95828-dino-dana-experiments.json](./95828-dino-dana-experiments.json) |
 | Dino Dana : Dino Express | 103670 | [103670-dino-dana-dino-express.json](./103670-dino-dana-dino-express.json) |
+| Dino Dave | 91549 | [91549-dino-dave.json](./91549-dino-dave.json) |
 | Dino Dave 2 | 80542 | [80542-dino-dave-2.json](./80542-dino-dave-2.json) |
 | Dino Dave in Sokoman | 150084 | [150084-dino-dave-in-sokoman.json](./150084-dino-dave-in-sokoman.json) |
 | Dino Delivery | 121581 | [121581-dino-delivery.json](./121581-dino-delivery.json) |
