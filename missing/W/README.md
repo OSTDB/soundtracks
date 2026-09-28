@@ -3637,6 +3637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World-Wide Adventure! Collection | 222381 | [222381-world-wide-adventure-collection.json](./222381-world-wide-adventure-collection.json) |
 | World-Wide Adventure! Collection 2 | 222507 | [222507-world-wide-adventure-collection-2.json](./222507-world-wide-adventure-collection-2.json) |
 | World's Best Chess: Fritz 8 Deluxe | 93043 | [93043-worlds-best-chess-fritz-8-deluxe.json](./93043-worlds-best-chess-fritz-8-deluxe.json) |
+| World's Biggest Solitaire | 109918 | [109918-worlds-biggest-solitaire.json](./109918-worlds-biggest-solitaire.json) |
 | World's End Club | 110581 | [110581-worlds-end-club.json](./110581-worlds-end-club.json) |
 | World's Fair Jig Saw | 130865 | [130865-worlds-fair-jig-saw.json](./130865-worlds-fair-jig-saw.json) |
 | World's Fastest Pizza | 34599 | [34599-worlds-fastest-pizza.json](./34599-worlds-fastest-pizza.json) |
