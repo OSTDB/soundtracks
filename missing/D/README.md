@@ -2830,6 +2830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deputy Arsh | 329192 | [329192-deputy-arsh.json](./329192-deputy-arsh.json) |
 | Deputy Den | 346751 | [346751-deputy-den.json](./346751-deputy-den.json) |
 | Dequivsia | 326603 | [326603-dequivsia.json](./326603-dequivsia.json) |
+| DeQuoter | 83457 | [83457-dequoter.json](./83457-dequoter.json) |
 | Der Blaue Diamant: Additional mission | 213031 | [213031-der-blaue-diamant-additional-mission.json](./213031-der-blaue-diamant-additional-mission.json) |
 | Der blaue Kristall | 125956 | [125956-der-blaue-kristall.json](./125956-der-blaue-kristall.json) |
 | Der Dativ ist dem Genitiv sein Tod | 269665 | [269665-der-dativ-ist-dem-genitiv-sein-tod.json](./269665-der-dativ-ist-dem-genitiv-sein-tod.json) |
@@ -5798,6 +5799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Jump NFT | 200450 | [200450-double-jump-nft.json](./200450-double-jump-nft.json) |
 | Double K Games Store | 411667 | [411667-double-k-games-store.json](./411667-double-k-games-store.json) |
 | Double Line | 141854 | [141854-double-line.json](./141854-double-line.json) |
+| Double Match | 83458 | [83458-double-match.json](./83458-double-match.json) |
 | Double Puzzled | 243794 | [243794-double-puzzled.json](./243794-double-puzzled.json) |
 | Double Reaction! Plus | 175973 | [175973-double-reaction-plus.json](./175973-double-reaction-plus.json) |
 | Double Shoulders | 338800 | [338800-double-shoulders.json](./338800-double-shoulders.json) |
@@ -6785,6 +6787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamLand | 32173 | [32173-dreamland.json](./32173-dreamland.json) |
 | Dreamland Arcade | 310572 | [310572-dreamland-arcade.json](./310572-dreamland-arcade.json) |
 | Dreamland Confectionery | 152191 | [152191-dreamland-confectionery.json](./152191-dreamland-confectionery.json) |
+| Dreamland Defender | 83620 | [83620-dreamland-defender.json](./83620-dreamland-defender.json) |
 | Dreamland Escape | 130338 | [130338-dreamland-escape.json](./130338-dreamland-escape.json) |
 | Dreamland Farm | 317223 | [317223-dreamland-farm.json](./317223-dreamland-farm.json) |
 | Dreamland Farm: Banner | 324443 | [324443-dreamland-farm-banner.json](./324443-dreamland-farm-banner.json) |
@@ -8015,6 +8018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarves: Build and survive | 166189 | [166189-dwarves-build-and-survive.json](./166189-dwarves-build-and-survive.json) |
 | Dwarves: Glory, Death and Loot | 226680 | [226680-dwarves-glory-death-and-loot.json](./226680-dwarves-glory-death-and-loot.json) |
 | Dwarves: Idle Battles | 413753 | [413753-dwarves-idle-battles.json](./413753-dwarves-idle-battles.json) |
+| DwarVRs | 83611 | [83611-dwarvrs.json](./83611-dwarvrs.json) |
 | DweeMixed: Thwee Pack | 187477 | [187477-dweemixed-thwee-pack.json](./187477-dweemixed-thwee-pack.json) |
 | Dweep | 180148 | [180148-dweep.json](./180148-dweep.json) |
 | Dwell | 394155 | [394155-dwell.json](./394155-dwell.json) |
