@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pampas & Selene: The Maze of Demons | 261813 | [261813-pampas-and-selene-the-maze-of-demons.json](./261813-pampas-and-selene-the-maze-of-demons.json) |
 | Pan Beats | 311624 | [311624-pan-beats.json](./311624-pan-beats.json) |
 | Pan Panda | 110527 | [110527-pan-panda.json](./110527-pan-panda.json) |
+| Pan-Dimensional Conga Combat | 86253 | [86253-pan-dimensional-conga-combat.json](./86253-pan-dimensional-conga-combat.json) |
 | Pan·Gaia | 244220 | [244220-pan-gaia.json](./244220-pan-gaia.json) |
 | Pan'orama | 211935 | [211935-panorama.json](./211935-panorama.json) |
 | Pana der Hejhog | 270217 | [270217-pana-der-hejhog.json](./270217-pana-der-hejhog.json) |
@@ -3121,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Of Death: Odyssey Live | 375862 | [375862-ping-of-death-odyssey-live.json](./375862-ping-of-death-odyssey-live.json) |
 | Ping Pong | 247006 | [247006-ping-pong.json](./247006-ping-pong.json) |
 | Ping Pong | 343478 | [343478-ping-pong.json](./343478-ping-pong.json) |
+| Ping Pong | 86218 | [86218-ping-pong.json](./86218-ping-pong.json) |
 | Ping Pong 3D | 90348 | [90348-ping-pong-3d.json](./90348-ping-pong-3d.json) |
 | Ping Pong League | 32252 | [32252-ping-pong-league.json](./32252-ping-pong-league.json) |
 | Ping Pong Space | 130965 | [130965-ping-pong-space.json](./130965-ping-pong-space.json) |
