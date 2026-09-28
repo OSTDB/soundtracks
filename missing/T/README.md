@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Game | 288263 | [288263-tank-game.json](./288263-tank-game.json) |
 | Tank Game | 343332 | [343332-tank-game.json](./343332-tank-game.json) |
 | Tank Game | 69315 | [69315-tank-game.json](./69315-tank-game.json) |
+| Tank Game | 82005 | [82005-tank-game.json](./82005-tank-game.json) |
 | Tank Hero: Awesome Tank War g | 231885 | [231885-tank-hero-awesome-tank-war-g.json](./231885-tank-hero-awesome-tank-war-g.json) |
 | Tank Hero: Laser Wars | 101491 | [101491-tank-hero-laser-wars.json](./101491-tank-hero-laser-wars.json) |
 | Tank It | 233483 | [233483-tank-it.json](./233483-tank-it.json) |
@@ -6806,6 +6807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Risers | 101336 | [101336-the-risers.json](./101336-the-risers.json) |
 | The Rising | 284907 | [284907-the-rising.json](./284907-the-rising.json) |
 | The Rising of the Follower | 181700 | [181700-the-rising-of-the-follower.json](./181700-the-rising-of-the-follower.json) |
+| The Rising of the Rose Ocelot | 82000 | [82000-the-rising-of-the-rose-ocelot.json](./82000-the-rising-of-the-rose-ocelot.json) |
 | The Rite of Ammon | 177306 | [177306-the-rite-of-ammon.json](./177306-the-rite-of-ammon.json) |
 | The Ritual | 118327 | [118327-the-ritual.json](./118327-the-ritual.json) |
 | The Ritual | 184031 | [184031-the-ritual.json](./184031-the-ritual.json) |
@@ -11473,8 +11475,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War Grand Master Collection | 53814 | [53814-total-war-grand-master-collection.json](./53814-total-war-grand-master-collection.json) |
 | Total War Master Collection | 53813 | [53813-total-war-master-collection.json](./53813-total-war-master-collection.json) |
 | Total War: Attila | 8200 | [8200-total-war-attila.json](./8200-total-war-attila.json) |
+| Total War: Attila - Age of Charlemagne Campaign Pack | 82023 | [82023-total-war-attila-age-of-charlemagne-campaign-pack.json](./82023-total-war-attila-age-of-charlemagne-campaign-pack.json) |
+| Total War: Attila - Blood & Burning | 82024 | [82024-total-war-attila-blood-and-burning.json](./82024-total-war-attila-blood-and-burning.json) |
+| Total War: Attila - Celts Culture Pack | 82026 | [82026-total-war-attila-celts-culture-pack.json](./82026-total-war-attila-celts-culture-pack.json) |
 | Total War: Attila - Empires of Sand Culture Pack | 53816 | [53816-total-war-attila-empires-of-sand-culture-pack.json](./53816-total-war-attila-empires-of-sand-culture-pack.json) |
+| Total War: Attila - Longbeards Culture Pack | 82025 | [82025-total-war-attila-longbeards-culture-pack.json](./82025-total-war-attila-longbeards-culture-pack.json) |
+| Total War: Attila - Slavic Nations Culture Pack | 82022 | [82022-total-war-attila-slavic-nations-culture-pack.json](./82022-total-war-attila-slavic-nations-culture-pack.json) |
 | Total War: Attila - The Last Roman Campaign Pack | 53815 | [53815-total-war-attila-the-last-roman-campaign-pack.json](./53815-total-war-attila-the-last-roman-campaign-pack.json) |
+| Total War: Attila - Viking Forefathers Culture Pack | 82027 | [82027-total-war-attila-viking-forefathers-culture-pack.json](./82027-total-war-attila-viking-forefathers-culture-pack.json) |
 | Total War: Elysium | 121439 | [121439-total-war-elysium.json](./121439-total-war-elysium.json) |
 | Total War: New World | 356258 | [356258-total-war-new-world.json](./356258-total-war-new-world.json) |
 | Total War: Pharaoh - Dynasty Edition | 250863 | [250863-total-war-pharaoh-dynasty-edition.json](./250863-total-war-pharaoh-dynasty-edition.json) |
@@ -14222,6 +14230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turmoil | 19438 | [19438-turmoil.json](./19438-turmoil.json) |
 | Turmoil | 305530 | [305530-turmoil.json](./305530-turmoil.json) |
 | Turmoil: The Heat Is On | 124826 | [124826-turmoil-the-heat-is-on.json](./124826-turmoil-the-heat-is-on.json) |
+| Turn | 82013 | [82013-turn.json](./82013-turn.json) |
 | Turn Around Turtle: Show and Tell | 206648 | [206648-turn-around-turtle-show-and-tell.json](./206648-turn-around-turtle-show-and-tell.json) |
 | Turn Chase | 135053 | [135053-turn-chase.json](./135053-turn-chase.json) |
 | Turn it! | 371430 | [371430-turn-it.json](./371430-turn-it.json) |
