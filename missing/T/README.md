@@ -1786,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenchi Muyo! Toko Muyo | 66384 | [66384-tenchi-muyo-toko-muyo.json](./66384-tenchi-muyo-toko-muyo.json) |
 | Tenchi wo Kurau | 287154 | [287154-tenchi-wo-kurau.json](./287154-tenchi-wo-kurau.json) |
 | Tenchi wo Kurau: Sangokushi Gunyuuden | 37790 | [37790-tenchi-wo-kurau-sangokushi-gunyuuden.json](./37790-tenchi-wo-kurau-sangokushi-gunyuuden.json) |
+| Tencho no Igo | 65565 | [65565-tencho-no-igo.json](./65565-tencho-no-igo.json) |
 | Tenchu: Time Of The Assassins | 44512 | [44512-tenchu-time-of-the-assassins.json](./44512-tenchu-time-of-the-assassins.json) |
 | Tenchu: Wrath of Heaven | 6194 | [6194-tenchu-wrath-of-heaven.json](./6194-tenchu-wrath-of-heaven.json) |
 | Tender | 179112 | [179112-tender.json](./179112-tender.json) |
@@ -8897,6 +8898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas' Tales | 195614 | [195614-thomas-tales.json](./195614-thomas-tales.json) |
 | Thoom | 311069 | [311069-thoom.json](./311069-thoom.json) |
 | Thor | 95414 | [95414-thor.json](./95414-thor.json) |
+| Thor: Son of Asgard | 65601 | [65601-thor-son-of-asgard.json](./65601-thor-son-of-asgard.json) |
 | Thor: The Dark World - The Official Game | 62214 | [62214-thor-the-dark-world-the-official-game.json](./62214-thor-the-dark-world-the-official-game.json) |
 | Thor's Legacy | 298135 | [298135-thors-legacy.json](./298135-thors-legacy.json) |
 | Thorn Demon Hunter | 201596 | [201596-thorn-demon-hunter.json](./201596-thorn-demon-hunter.json) |
@@ -10837,6 +10839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Togum | 225182 | [225182-togum.json](./225182-togum.json) |
 | ToHeart | 303230 | [303230-toheart.json](./303230-toheart.json) |
 | ToHeart2 | 132039 | [132039-toheart2.json](./132039-toheart2.json) |
+| ToHeart2 DX Plus | 65567 | [65567-toheart2-dx-plus.json](./65567-toheart2-dx-plus.json) |
 | ToHeart2: AnotherDays | 242474 | [242474-toheart2-anotherdays.json](./242474-toheart2-anotherdays.json) |
 | Tohoku Daigaku Karei Igaku Kenkyuusho: Kawashima Ryuuta Kyouju Kanshuu - Mono Sugoku Nou wo Kitaeru 5-Funkan no Oni Training | 136956 | [136956-tohoku-daigaku-karei-igaku-kenkyuusho-kawashima-ryuuta-kyouju-kanshuu-mono-sugoku-nou-wo-kitaeru-5-funkan-no-oni-training.json](./136956-tohoku-daigaku-karei-igaku-kenkyuusho-kawashima-ryuuta-kyouju-kanshuu-mono-sugoku-nou-wo-kitaeru-5-funkan-no-oni-training.json) |
 | Tohotopia | 391609 | [391609-tohotopia.json](./391609-tohotopia.json) |
@@ -11507,6 +11510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tornblade | 386880 | [386880-tornblade.json](./386880-tornblade.json) |
 | Tornuktu | 191554 | [191554-tornuktu.json](./191554-tornuktu.json) |
 | Toro to Typing | 246071 | [246071-toro-to-typing.json](./246071-toro-to-typing.json) |
+| Toro! Let's Party! | 65566 | [65566-toro-lets-party.json](./65566-toro-lets-party.json) |
 | Toro's Story App: Heart Pounding Nya | 246074 | [246074-toros-story-app-heart-pounding-nya.json](./246074-toros-story-app-heart-pounding-nya.json) |
 | Toroa: Skycall | 204521 | [204521-toroa-skycall.json](./204521-toroa-skycall.json) |
 | Torpedo Alley | 314417 | [314417-torpedo-alley.json](./314417-torpedo-alley.json) |
@@ -13480,6 +13484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tri Wing | 88248 | [88248-tri-wing.json](./88248-tri-wing.json) |
 | Tri Zone | 130869 | [130869-tri-zone.json](./130869-tri-zone.json) |
 | Tri-bo | 381124 | [381124-tri-bo.json](./381124-tri-bo.json) |
+| Tri-Element | 65573 | [65573-tri-element.json](./65573-tri-element.json) |
 | Tri-Ger | 377580 | [377580-tri-ger.json](./377580-tri-ger.json) |
 | Tri-Peaks 2: Quest for the Ruby Ring | 206076 | [206076-tri-peaks-2-quest-for-the-ruby-ring.json](./206076-tri-peaks-2-quest-for-the-ruby-ring.json) |
 | Tri-Peaks Solitaire HD | 355005 | [355005-tri-peaks-solitaire-hd.json](./355005-tri-peaks-solitaire-hd.json) |
@@ -13541,6 +13546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triangle Strategy | 318779 | [318779-triangle-strategy.json](./318779-triangle-strategy.json) |
 | Triangle Strategy: Tacticians's Limited Edition | 203811 | [203811-triangle-strategy-tacticianss-limited-edition.json](./203811-triangle-strategy-tacticianss-limited-edition.json) |
 | Triangle Wing XXXX | 133461 | [133461-triangle-wing-xxxx.json](./133461-triangle-wing-xxxx.json) |
+| Triangle Wizard | 65549 | [65549-triangle-wizard.json](./65549-triangle-wizard.json) |
 | TrianGo | 130898 | [130898-triango.json](./130898-triango.json) |
 | Triangulate | 226307 | [226307-triangulate.json](./226307-triangulate.json) |
 | Triangulation | 181789 | [181789-triangulation.json](./181789-triangulation.json) |
