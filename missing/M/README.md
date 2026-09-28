@@ -2941,6 +2941,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanical Siege | 283845 | [283845-mechanical-siege.json](./283845-mechanical-siege.json) |
 | Mechanical Tralp | 278665 | [278665-mechanical-tralp.json](./278665-mechanical-tralp.json) |
 | Mechanical Violator Hakaider: Last Judgement | 66147 | [66147-mechanical-violator-hakaider-last-judgement.json](./66147-mechanical-violator-hakaider-last-judgement.json) |
+| Mechanician Alex | 60617 | [60617-mechanician-alex.json](./60617-mechanician-alex.json) |
+| Mechanician Alex 2 | 60619 | [60619-mechanician-alex-2.json](./60619-mechanician-alex-2.json) |
 | Mechanics | 254141 | [254141-mechanics.json](./254141-mechanics.json) |
 | MechAnimals | 327992 | [327992-mechanimals.json](./327992-mechanimals.json) |
 | Mechanism | 183984 | [183984-mechanism.json](./183984-mechanism.json) |
@@ -5414,6 +5416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper: The Clean One | 180245 | [180245-minesweeper-the-clean-one.json](./180245-minesweeper-the-clean-one.json) |
 | Mineswifter | 138189 | [138189-mineswifter.json](./138189-mineswifter.json) |
 | Míngjiào Fēngyún zhī Jiǔ Yīn Jiǔ Yáng | 155014 | [155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json](./155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json) |
+| Mingy Jongo | 60609 | [60609-mingy-jongo.json](./60609-mingy-jongo.json) |
 | Mìngyùn de Yǐndǎozhě: Chuánshuō Bǎoshí | 394195 | [394195-mingyun-de-yindaozhe-chuanshuo-baoshi.json](./394195-mingyun-de-yindaozhe-chuanshuo-baoshi.json) |
 | Mini AirHockey | 405473 | [405473-mini-airhockey.json](./405473-mini-airhockey.json) |
 | Mini Basketball | 194630 | [194630-mini-basketball.json](./194630-mini-basketball.json) |
@@ -6045,6 +6048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mizu no Senritsu 2: Hi no Kioku | 67305 | [67305-mizu-no-senritsu-2-hi-no-kioku.json](./67305-mizu-no-senritsu-2-hi-no-kioku.json) |
 | Mizu no Senritsu: Kyousoukyoku | 220578 | [220578-mizu-no-senritsu-kyousoukyoku.json](./220578-mizu-no-senritsu-kyousoukyoku.json) |
 | Mizuiro no Chizu | 77680 | [77680-mizuiro-no-chizu.json](./77680-mizuiro-no-chizu.json) |
+| Mizuki Shigeru no Yokai Butou-den | 60593 | [60593-mizuki-shigeru-no-yokai-butou-den.json](./60593-mizuki-shigeru-no-yokai-butou-den.json) |
 | Mizuki Shigeru no Yokai Hyakki Yakou | 37924 | [37924-mizuki-shigeru-no-yokai-hyakki-yakou.json](./37924-mizuki-shigeru-no-yokai-hyakki-yakou.json) |
 | Mizuki Shigeru no Yokai Shashinkan | 43963 | [43963-mizuki-shigeru-no-yokai-shashinkan.json](./43963-mizuki-shigeru-no-yokai-shashinkan.json) |
 | Mizz Survival | 243767 | [243767-mizz-survival.json](./243767-mizz-survival.json) |
