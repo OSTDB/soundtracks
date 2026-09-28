@@ -4642,6 +4642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Falls: Ghoul Busters | 208583 | [208583-silver-falls-ghoul-busters.json](./208583-silver-falls-ghoul-busters.json) |
 | Silver Falls: Guardians And Metal Exterminators S | 283722 | [283722-silver-falls-guardians-and-metal-exterminators-s.json](./283722-silver-falls-guardians-and-metal-exterminators-s.json) |
 | Silver Gene: The Mutia Chronicle 1 | 308414 | [308414-silver-gene-the-mutia-chronicle-1.json](./308414-silver-gene-the-mutia-chronicle-1.json) |
+| Silver Jiken | 84317 | [84317-silver-jiken.json](./84317-silver-jiken.json) |
 | Silver Jiken: 25-ku | 30220 | [30220-silver-jiken-25-ku.json](./30220-silver-jiken-25-ku.json) |
 | Silver Level Pack | 289884 | [289884-silver-level-pack.json](./289884-silver-level-pack.json) |
 | Silver Malfeasant | 345001 | [345001-silver-malfeasant.json](./345001-silver-malfeasant.json) |
@@ -4965,6 +4966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Frozen | 86080 | [86080-singstar-frozen.json](./86080-singstar-frozen.json) |
 | Singstar: La Edad de Oro del Pop Español | 135680 | [135680-singstar-la-edad-de-oro-del-pop-espanol.json](./135680-singstar-la-edad-de-oro-del-pop-espanol.json) |
 | SingStar: Morangos com Açúcar | 397942 | [397942-singstar-morangos-com-acucar.json](./397942-singstar-morangos-com-acucar.json) |
+| Singstar: Norsk på Norsk | 84316 | [84316-singstar-norsk-pa-norsk.json](./84316-singstar-norsk-pa-norsk.json) |
 | Singstar: Operación Triunfo | 135679 | [135679-singstar-operacion-triunfo.json](./135679-singstar-operacion-triunfo.json) |
 | SingStar: Polskie Hity | 268752 | [268752-singstar-polskie-hity.json](./268752-singstar-polskie-hity.json) |
 | SingStar: Polskie Hity 2 | 268753 | [268753-singstar-polskie-hity-2.json](./268753-singstar-polskie-hity-2.json) |
@@ -5020,6 +5022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sins | 183078 | [183078-sins.json](./183078-sins.json) |
 | Sins From Magdala | 213456 | [213456-sins-from-magdala.json](./213456-sins-from-magdala.json) |
 | Sins of a Solar Empire | 872 | [872-sins-of-a-solar-empire.json](./872-sins-of-a-solar-empire.json) |
+| Sins of a Solar Empire: Entrenchment | 84330 | [84330-sins-of-a-solar-empire-entrenchment.json](./84330-sins-of-a-solar-empire-entrenchment.json) |
 | Sins of a Solar Empire: Rebellion | 9924 | [9924-sins-of-a-solar-empire-rebellion.json](./9924-sins-of-a-solar-empire-rebellion.json) |
 | Sins of a Solar Empire: Rebellion - Forbidden Worlds | 10868 | [10868-sins-of-a-solar-empire-rebellion-forbidden-worlds.json](./10868-sins-of-a-solar-empire-rebellion-forbidden-worlds.json) |
 | Sins of a Solar Empire: Rebellion - Outlaw Sectors | 51908 | [51908-sins-of-a-solar-empire-rebellion-outlaw-sectors.json](./51908-sins-of-a-solar-empire-rebellion-outlaw-sectors.json) |
@@ -8541,6 +8544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Industrial Empire | 250962 | [250962-space-industrial-empire.json](./250962-space-industrial-empire.json) |
 | Space Industry | 415263 | [415263-space-industry.json](./415263-space-industry.json) |
 | Space Instegators | 40753 | [40753-space-instegators.json](./40753-space-instegators.json) |
+| Space Instigators | 84293 | [84293-space-instigators.json](./84293-space-instigators.json) |
 | Space Interceptor | 262369 | [262369-space-interceptor.json](./262369-space-interceptor.json) |
 | Space Intern | 221187 | [221187-space-intern.json](./221187-space-intern.json) |
 | Space Intruder | 245403 | [245403-space-intruder.json](./245403-space-intruder.json) |
@@ -12383,6 +12387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stroke the Hamster | 218563 | [218563-stroke-the-hamster.json](./218563-stroke-the-hamster.json) |
 | Stroke the Hedgehog | 218564 | [218564-stroke-the-hedgehog.json](./218564-stroke-the-hedgehog.json) |
 | Stroke the Tortoise | 220344 | [220344-stroke-the-tortoise.json](./220344-stroke-the-tortoise.json) |
+| Stroker | 84315 | [84315-stroker.json](./84315-stroker.json) |
 | Stroll | 216862 | [216862-stroll.json](./216862-stroll.json) |
 | Stromberg: Büro ist Krieg | 112274 | [112274-stromberg-buro-ist-krieg.json](./112274-stromberg-buro-ist-krieg.json) |
 | Strong Bad's Cool Game for Attractive People | 9463 | [9463-strong-bads-cool-game-for-attractive-people.json](./9463-strong-bads-cool-game-for-attractive-people.json) |
@@ -12611,6 +12616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suburban Commando | 73811 | [73811-suburban-commando.json](./73811-suburban-commando.json) |
 | Suburban Footy League | 272911 | [272911-suburban-footy-league.json](./272911-suburban-footy-league.json) |
 | Subverse - Celestina Unbound | 414547 | [414547-subverse-celestina-unbound.json](./414547-subverse-celestina-unbound.json) |
+| Subversion: The Official Incoming Expansion Pack | 84326 | [84326-subversion-the-official-incoming-expansion-pack.json](./84326-subversion-the-official-incoming-expansion-pack.json) |
 | Subverter | 274013 | [274013-subverter.json](./274013-subverter.json) |
 | Subwar 2050 | 39038 | [39038-subwar-2050.json](./39038-subwar-2050.json) |
 | Subwar 2050 Complete | 51935 | [51935-subwar-2050-complete.json](./51935-subwar-2050-complete.json) |
