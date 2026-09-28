@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-kai Watch 4++ | 127255 | [127255-yo-kai-watch-4.json](./127255-yo-kai-watch-4.json) |
 | Yo-kai Watch Busters 2: Hihou Densetsu Banbaraya Magnum | 136935 | [136935-yo-kai-watch-busters-2-hihou-densetsu-banbaraya-magnum.json](./136935-yo-kai-watch-busters-2-hihou-densetsu-banbaraya-magnum.json) |
 | Yo-kai Watch Dance: Just Dance Special Edition | 59946 | [59946-yo-kai-watch-dance-just-dance-special-edition.json](./59946-yo-kai-watch-dance-just-dance-special-edition.json) |
+| Yo-Kai Watch Wibble Wobble | 79191 | [79191-yo-kai-watch-wibble-wobble.json](./79191-yo-kai-watch-wibble-wobble.json) |
 | Yo-Kai Watch Wibble Wobble: The Great Detective Nekomata | 397922 | [397922-yo-kai-watch-wibble-wobble-the-great-detective-nekomata.json](./397922-yo-kai-watch-wibble-wobble-the-great-detective-nekomata.json) |
 | Yo-kai Watch World | 104254 | [104254-yo-kai-watch-world.json](./104254-yo-kai-watch-world.json) |
 | Yo! Ninjia | 234321 | [234321-yo-ninjia.json](./234321-yo-ninjia.json) |
@@ -685,8 +686,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia | 47841 | [47841-yu-gi-oh-5ds-world-championship-2010-reverse-of-arcadia.json](./47841-yu-gi-oh-5ds-world-championship-2010-reverse-of-arcadia.json) |
 | Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus | 47801 | [47801-yu-gi-oh-5ds-world-championship-2011-over-the-nexus.json](./47801-yu-gi-oh-5ds-world-championship-2011-over-the-nexus.json) |
 | Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005 | 68039 | [68039-yu-gi-oh-7-trials-to-glory-world-championship-tournament-2005.json](./68039-yu-gi-oh-7-trials-to-glory-world-championship-tournament-2005.json) |
+| Yu-Gi-Oh! BAM | 79359 | [79359-yu-gi-oh-bam.json](./79359-yu-gi-oh-bam.json) |
 | Yu-Gi-Oh! BAM Pocket | 79576 | [79576-yu-gi-oh-bam-pocket.json](./79576-yu-gi-oh-bam-pocket.json) |
 | Yu-Gi-Oh! Cross Duel | 174874 | [174874-yu-gi-oh-cross-duel.json](./174874-yu-gi-oh-cross-duel.json) |
+| Yu-Gi-Oh! Double Pack | 79360 | [79360-yu-gi-oh-double-pack.json](./79360-yu-gi-oh-double-pack.json) |
+| Yu-Gi-Oh! Duel Generation | 79358 | [79358-yu-gi-oh-duel-generation.json](./79358-yu-gi-oh-duel-generation.json) |
 | Yu-Gi-Oh! Duel Links | 27093 | [27093-yu-gi-oh-duel-links.json](./27093-yu-gi-oh-duel-links.json) |
 | Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist - Jonouchi Deck | 334709 | [334709-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-jonouchi-deck.json](./334709-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-jonouchi-deck.json) |
 | Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist - Kaiba Deck | 334708 | [334708-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-kaiba-deck.json](./334708-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-kaiba-deck.json) |
