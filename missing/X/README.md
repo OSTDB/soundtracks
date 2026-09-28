@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XR-35 | 55210 | [55210-xr-35.json](./55210-xr-35.json) |
 | XRick | 280354 | [280354-xrick.json](./280354-xrick.json) |
 | XRick | 289883 | [289883-xrick.json](./289883-xrick.json) |
+| XRY | 103650 | [103650-xry.json](./103650-xry.json) |
 | XS Airboat Racing | 43942 | [43942-xs-airboat-racing.json](./43942-xs-airboat-racing.json) |
 | XS Junior League Dodgeball | 43943 | [43943-xs-junior-league-dodgeball.json](./43943-xs-junior-league-dodgeball.json) |
 | XS Junior League Football | 43944 | [43944-xs-junior-league-football.json](./43944-xs-junior-league-football.json) |
@@ -453,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XWing Fighter | 25158 | [25158-xwing-fighter.json](./25158-xwing-fighter.json) |
 | Xwung | 77017 | [77017-xwung.json](./77017-xwung.json) |
 | XX Game: The Evolution Merge Puzzle | 411133 | [411133-xx-game-the-evolution-merge-puzzle.json](./411133-xx-game-the-evolution-merge-puzzle.json) |
+| XXX Puzzle | 103646 | [103646-xxx-puzzle.json](./103646-xxx-puzzle.json) |
 | Xxx Talent | 385865 | [385865-xxx-talent.json](./385865-xxx-talent.json) |
 | Xxx_Cyberrat_Xxx | 216818 | [216818-xxx-cyberrat-xxx.json](./216818-xxx-cyberrat-xxx.json) |
 | XxxHolic: Watanuki no Izayoi Sowa | 194567 | [194567-xxxholic-watanuki-no-izayoi-sowa.json](./194567-xxxholic-watanuki-no-izayoi-sowa.json) |
