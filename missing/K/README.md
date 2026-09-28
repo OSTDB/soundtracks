@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kafak | 390234 | [390234-kafak.json](./390234-kafak.json) |
 | Kafka's Metamorphosis | 328219 | [328219-kafkas-metamorphosis.json](./328219-kafkas-metamorphosis.json) |
 | Kafkaesque: The Nightmare Trial | 311827 | [311827-kafkaesque-the-nightmare-trial.json](./311827-kafkaesque-the-nightmare-trial.json) |
+| Kagachi-sama Onagusame Tatematsurimasu: Netorare Mura Inya Hanashi | 82973 | [82973-kagachi-sama-onagusame-tatematsurimasu-netorare-mura-inya-hanashi.json](./82973-kagachi-sama-onagusame-tatematsurimasu-netorare-mura-inya-hanashi.json) |
 | Kagami | 410415 | [410415-kagami.json](./410415-kagami.json) |
 | Kagami no Kuni no Legend | 256323 | [256323-kagami-no-kuni-no-legend.json](./256323-kagami-no-kuni-no-legend.json) |
 | Kagamihara/Justice | 222256 | [222256-kagamihara-justice.json](./222256-kagamihara-justice.json) |
@@ -340,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanojo ha Ira-ira Jirai Girl | 251613 | [251613-kanojo-ha-ira-ira-jirai-girl.json](./251613-kanojo-ha-ira-ira-jirai-girl.json) |
 | Kanojo ha Sensei no Model | 97697 | [97697-kanojo-ha-sensei-no-model.json](./97697-kanojo-ha-sensei-no-model.json) |
 | Kanojo to Ore to Koibito to. | 194609 | [194609-kanojo-to-ore-to-koibito-to.json](./194609-kanojo-to-ore-to-koibito-to.json) |
+| Kanojo wa Dare to demo Sex suru. | 82984 | [82984-kanojo-wa-dare-to-demo-sex-suru.json](./82984-kanojo-wa-dare-to-demo-sex-suru.json) |
 | Kanojo x Switch | 368113 | [368113-kanojo-x-switch.json](./368113-kanojo-x-switch.json) |
 | Kanojo xx Switch | 156614 | [156614-kanojo-xx-switch.json](./156614-kanojo-xx-switch.json) |
 | Kansensei Nightmare | 151532 | [151532-kansensei-nightmare.json](./151532-kansensei-nightmare.json) |
@@ -616,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kazue World | 328056 | [328056-kazue-world.json](./328056-kazue-world.json) |
 | Kazue World 2 | 328055 | [328055-kazue-world-2.json](./328055-kazue-world-2.json) |
 | Kazuma Kaneko's Tsukuyomi: Digital Deluxe Edition | 390532 | [390532-kazuma-kanekos-tsukuyomi-digital-deluxe-edition.json](./390532-kazuma-kanekos-tsukuyomi-digital-deluxe-edition.json) |
+| KBlocks | 82967 | [82967-kblocks.json](./82967-kblocks.json) |
 | KBRD | 251699 | [251699-kbrd.json](./251699-kbrd.json) |
 | KC Returns! II | 208374 | [208374-kc-returns-ii.json](./208374-kc-returns-ii.json) |
 | KDice | 56512 | [56512-kdice.json](./56512-kdice.json) |
@@ -1668,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiro Ramy Story: The Junior | 123582 | [123582-kiro-ramy-story-the-junior.json](./123582-kiro-ramy-story-the-junior.json) |
 | Kiru Kiru Kiru | 257913 | [257913-kiru-kiru-kiru.json](./257913-kiru-kiru-kiru.json) |
 | Kisaragi Gold Star: Nonstop Go Go!! | 272535 | [272535-kisaragi-gold-star-nonstop-go-go.json](./272535-kisaragi-gold-star-nonstop-go-go.json) |
+| Kisaragi's Dangerously Erotic Certification Exam! Resistance Is Futile | 82752 | [82752-kisaragis-dangerously-erotic-certification-exam-resistance-is-futile.json](./82752-kisaragis-dangerously-erotic-certification-exam-resistance-is-futile.json) |
 | Kisekimura | 149547 | [149547-kisekimura.json](./149547-kisekimura.json) |
 | Kisen: Seeker of Aenjan City | 390129 | [390129-kisen-seeker-of-aenjan-city.json](./390129-kisen-seeker-of-aenjan-city.json) |
 | Kishin Douji Zenki FX: Vajra Fight | 45957 | [45957-kishin-douji-zenki-fx-vajra-fight.json](./45957-kishin-douji-zenki-fx-vajra-fight.json) |
