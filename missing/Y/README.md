@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yet Another Incremental Game (But This Time About Coding) | 412965 | [412965-yet-another-incremental-game-but-this-time-about-coding.json](./412965-yet-another-incremental-game-but-this-time-about-coding.json) |
 | Yet Another Krappy Shooter | 281533 | [281533-yet-another-krappy-shooter.json](./281533-yet-another-krappy-shooter.json) |
 | Yet Another Pixel Dungeon | 129772 | [129772-yet-another-pixel-dungeon.json](./129772-yet-another-pixel-dungeon.json) |
+| Yet Another Snake Game | 111195 | [111195-yet-another-snake-game.json](./111195-yet-another-snake-game.json) |
 | Yet Another Solitaire Game | 316981 | [316981-yet-another-solitaire-game.json](./316981-yet-another-solitaire-game.json) |
 | Yet another tower defence | 110367 | [110367-yet-another-tower-defence.json](./110367-yet-another-tower-defence.json) |
 | Yet Another Vanilla SMA2 Hack | 342622 | [342622-yet-another-vanilla-sma2-hack.json](./342622-yet-another-vanilla-sma2-hack.json) |
