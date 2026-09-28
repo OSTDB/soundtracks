@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vega Conflict: Paragon Battleship Pack | 168308 | [168308-vega-conflict-paragon-battleship-pack.json](./168308-vega-conflict-paragon-battleship-pack.json) |
 | Vega Conflict: Punisher Cruiser Pack | 168314 | [168314-vega-conflict-punisher-cruiser-pack.json](./168314-vega-conflict-punisher-cruiser-pack.json) |
 | Vegangsters | 253304 | [253304-vegangsters.json](./253304-vegangsters.json) |
+| Vegas Bandit | 77909 | [77909-vegas-bandit.json](./77909-vegas-bandit.json) |
 | Vegas Casino | 79373 | [79373-vegas-casino.json](./79373-vegas-casino.json) |
 | Vegas Casino & Slots: Slottist | 364505 | [364505-vegas-casino-and-slots-slottist.json](./364505-vegas-casino-and-slots-slottist.json) |
 | Vegas Casino 2 | 66925 | [66925-vegas-casino-2.json](./66925-vegas-casino-2.json) |
@@ -663,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verdungo | 149943 | [149943-verdungo.json](./149943-verdungo.json) |
 | Vereda | 192807 | [192807-vereda.json](./192807-vereda.json) |
 | Veredilia: The Sacred Forest | 265932 | [265932-veredilia-the-sacred-forest.json](./265932-veredilia-the-sacred-forest.json) |
+| Verethragna: Seisen no Duelist | 77938 | [77938-verethragna-seisen-no-duelist.json](./77938-verethragna-seisen-no-duelist.json) |
 | Verfall | 338572 | [338572-verfall.json](./338572-verfall.json) |
 | Verge | 57348 | [57348-verge.json](./57348-verge.json) |
 | VergeWorld | 204440 | [204440-vergeworld.json](./204440-vergeworld.json) |
@@ -686,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vermillion Watch: Fleshbound | 187949 | [187949-vermillion-watch-fleshbound.json](./187949-vermillion-watch-fleshbound.json) |
 | Vermillion Watch: Order Zero | 74312 | [74312-vermillion-watch-order-zero.json](./74312-vermillion-watch-order-zero.json) |
 | Vermin | 232696 | [232696-vermin.json](./232696-vermin.json) |
+| Vermin | 78072 | [78072-vermin.json](./78072-vermin.json) |
 | Vermin Control | 334483 | [334483-vermin-control.json](./334483-vermin-control.json) |
 | Vermin God: SCP Horror Game | 235157 | [235157-vermin-god-scp-horror-game.json](./235157-vermin-god-scp-horror-game.json) |
 | Vermin Hunter | 120774 | [120774-vermin-hunter.json](./120774-vermin-hunter.json) |
