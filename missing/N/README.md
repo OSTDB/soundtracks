@@ -2189,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Break | 203559 | [203559-ninja-break.json](./203559-ninja-break.json) |
 | Ninja Break: Head to Head | 204992 | [204992-ninja-break-head-to-head.json](./204992-ninja-break-head-to-head.json) |
 | Ninja Brigade feat. Jonah Weingarten | 146101 | [146101-ninja-brigade-feat-jonah-weingarten.json](./146101-ninja-brigade-feat-jonah-weingarten.json) |
+| Ninja Bros. | 92063 | [92063-ninja-bros.json](./92063-ninja-bros.json) |
 | Ninja Bullets | 25755 | [25755-ninja-bullets.json](./25755-ninja-bullets.json) |
 | Ninja Cat Remewstered | 406931 | [406931-ninja-cat-remewstered.json](./406931-ninja-cat-remewstered.json) |
 | Ninja Cats vs Samurai Dogs | 16795 | [16795-ninja-cats-vs-samurai-dogs.json](./16795-ninja-cats-vs-samurai-dogs.json) |
