@@ -3460,6 +3460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Formula Championship | 101592 | [101592-extreme-formula-championship.json](./101592-extreme-formula-championship.json) |
 | Extreme Ghostbusters: Code Ecto-1 | 129158 | [129158-extreme-ghostbusters-code-ecto-1.json](./129158-extreme-ghostbusters-code-ecto-1.json) |
 | Extreme Go-Kart Racing | 45306 | [45306-extreme-go-kart-racing.json](./45306-extreme-go-kart-racing.json) |
+| Extreme Hangman 2 | 62255 | [62255-extreme-hangman-2.json](./62255-extreme-hangman-2.json) |
 | Extreme Hill Driver | 414387 | [414387-extreme-hill-driver.json](./414387-extreme-hill-driver.json) |
 | Extreme Jump | 312188 | [312188-extreme-jump.json](./312188-extreme-jump.json) |
 | Extreme Karts | 232545 | [232545-extreme-karts.json](./232545-extreme-karts.json) |
@@ -3492,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Tactical Executioners | 121549 | [121549-extreme-tactical-executioners.json](./121549-extreme-tactical-executioners.json) |
 | Extreme Tag! | 240793 | [240793-extreme-tag.json](./240793-extreme-tag.json) |
 | Extreme Tux Racer | 51248 | [51248-extreme-tux-racer.json](./51248-extreme-tux-racer.json) |
+| Extreme Winter Sports | 62244 | [62244-extreme-winter-sports.json](./62244-extreme-winter-sports.json) |
 | Extreme: Rise of the Triad | 9980 | [9980-extreme-rise-of-the-triad.json](./9980-extreme-rise-of-the-triad.json) |
 | ExtremeBiking | 90383 | [90383-extremebiking.json](./90383-extremebiking.json) |
 | Extremely Powerful Capybaras | 211746 | [211746-extremely-powerful-capybaras.json](./211746-extremely-powerful-capybaras.json) |
