@@ -2008,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of the Witch House | 240758 | [240758-secrets-of-the-witch-house.json](./240758-secrets-of-the-witch-house.json) |
 | Secrets of Tibet | 54354 | [54354-secrets-of-tibet.json](./54354-secrets-of-tibet.json) |
 | Secrets of Velendar Castle: Escape Room | 391066 | [391066-secrets-of-velendar-castle-escape-room.json](./391066-secrets-of-velendar-castle-escape-room.json) |
+| Secrets of War | 117632 | [117632-secrets-of-war.json](./117632-secrets-of-war.json) |
 | Secrets of Wynne | 244503 | [244503-secrets-of-wynne.json](./244503-secrets-of-wynne.json) |
 | Secrets Under Eco | 287184 | [287184-secrets-under-eco.json](./287184-secrets-under-eco.json) |
 | Sect House | 343828 | [343828-sect-house.json](./343828-sect-house.json) |
@@ -5749,6 +5750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime 3k: Demake | 322759 | [322759-slime-3k-demake.json](./322759-slime-3k-demake.json) |
 | Slime 3K: Rise Against Despot | 244377 | [244377-slime-3k-rise-against-despot.json](./244377-slime-3k-rise-against-despot.json) |
 | Slime 64 | 144114 | [144114-slime-64.json](./144114-slime-64.json) |
+| Slime Adventure 2 | 117634 | [117634-slime-adventure-2.json](./117634-slime-adventure-2.json) |
 | Slime Adventure Legacy | 121537 | [121537-slime-adventure-legacy.json](./121537-slime-adventure-legacy.json) |
 | Slime Age: Parody MMORPG Clicker | 108411 | [108411-slime-age-parody-mmorpg-clicker.json](./108411-slime-age-parody-mmorpg-clicker.json) |
 | Slime Alchemist | 265108 | [265108-slime-alchemist.json](./265108-slime-alchemist.json) |
@@ -6053,6 +6055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Frog | 246480 | [246480-smart-frog.json](./246480-smart-frog.json) |
 | Smart Frog | 358941 | [358941-smart-frog.json](./358941-smart-frog.json) |
 | Smart Games Puzzle Challenge 2 | 73256 | [73256-smart-games-puzzle-challenge-2.json](./73256-smart-games-puzzle-challenge-2.json) |
+| Smart Gecko | 117794 | [117794-smart-gecko.json](./117794-smart-gecko.json) |
 | Smart Girl's Playhouse Mini | 21011 | [21011-smart-girls-playhouse-mini.json](./21011-smart-girls-playhouse-mini.json) |
 | Smart Girl's: Magical Book Club | 124047 | [124047-smart-girls-magical-book-club.json](./124047-smart-girls-magical-book-club.json) |
 | Smart Girl's: Party Games | 124046 | [124046-smart-girls-party-games.json](./124046-smart-girls-party-games.json) |
@@ -13940,6 +13943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Real Mahjong Special: Mika, Kasumi, Shouko no Omoide yori | 138826 | [138826-super-real-mahjong-special-mika-kasumi-shouko-no-omoide-yori.json](./138826-super-real-mahjong-special-mika-kasumi-shouko-no-omoide-yori.json) |
 | Super Real Mahjong vs. | 307701 | [307701-super-real-mahjong-vs.json](./307701-super-real-mahjong-vs.json) |
 | Super Realistic Autocross | 123046 | [123046-super-realistic-autocross.json](./123046-super-realistic-autocross.json) |
+| Super Recoilfight | 117814 | [117814-super-recoilfight.json](./117814-super-recoilfight.json) |
 | Super Retro Chase | 182931 | [182931-super-retro-chase.json](./182931-super-retro-chase.json) |
 | Super Retro Platformer Collection | 242770 | [242770-super-retro-platformer-collection.json](./242770-super-retro-platformer-collection.json) |
 | Super Retro Retry | 273399 | [273399-super-retro-retry.json](./273399-super-retro-retry.json) |
