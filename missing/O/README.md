@@ -901,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Yorkshire Counties | 155108 | [155108-omsi-2-yorkshire-counties.json](./155108-omsi-2-yorkshire-counties.json) |
 | Omvorm | 109494 | [109494-omvorm.json](./109494-omvorm.json) |
 | On & Off Racing | 356302 | [356302-on-and-off-racing.json](./356302-on-and-off-racing.json) |
+| On a Rainy Day | 68731 | [68731-on-a-rainy-day.json](./68731-on-a-rainy-day.json) |
 | On a Roll | 71017 | [71017-on-a-roll.json](./71017-on-a-roll.json) |
 | On a Roll 3D: Levels 7 - 9 | 197382 | [197382-on-a-roll-3d-levels-7-9.json](./197382-on-a-roll-3d-levels-7-9.json) |
 | On a Summer Night | 263773 | [263773-on-a-summer-night.json](./263773-on-a-summer-night.json) |
