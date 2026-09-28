@@ -13325,6 +13325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dot Jump | 25960 | [25960-super-dot-jump.json](./25960-super-dot-jump.json) |
 | Super Double Dragon | 198931 | [198931-super-double-dragon.json](./198931-super-double-dragon.json) |
 | Super Double Dragon | 274439 | [274439-super-double-dragon.json](./274439-super-double-dragon.json) |
+| Super Double Impact | 98031 | [98031-super-double-impact.json](./98031-super-double-impact.json) |
 | Super Doubles Tennis | 40425 | [40425-super-doubles-tennis.json](./40425-super-doubles-tennis.json) |
 | Super Dr Corona | 277930 | [277930-super-dr-corona.json](./277930-super-dr-corona.json) |
 | Super Dragon Ball Heroes: World Mission | 111054 | [111054-super-dragon-ball-heroes-world-mission.json](./111054-super-dragon-ball-heroes-world-mission.json) |
