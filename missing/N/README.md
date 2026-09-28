@@ -1920,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Shift: Remade | 181792 | [181792-night-shift-remade.json](./181792-night-shift-remade.json) |
 | Night Signal | 119740 | [119740-night-signal.json](./119740-night-signal.json) |
 | Night Sing | 119758 | [119758-night-sing.json](./119758-night-sing.json) |
+| Night Sky | 93735 | [93735-night-sky.json](./93735-night-sky.json) |
 | Night Slashers X | 51229 | [51229-night-slashers-x.json](./51229-night-slashers-x.json) |
 | Night Slashers: Remake | 290795 | [290795-night-slashers-remake.json](./290795-night-slashers-remake.json) |
 | Night Slave | 45974 | [45974-night-slave.json](./45974-night-slave.json) |
