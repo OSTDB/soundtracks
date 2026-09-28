@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F18 Pilot Simulator | 174355 | [174355-f18-pilot-simulator.json](./174355-f18-pilot-simulator.json) |
 | F22 Air Dominance Fighter: Red Sea Operations | 59926 | [59926-f22-air-dominance-fighter-red-sea-operations.json](./59926-f22-air-dominance-fighter-red-sea-operations.json) |
 | F40 Pursuit Simulator | 47217 | [47217-f40-pursuit-simulator.json](./47217-f40-pursuit-simulator.json) |
+| F8S | 114519 | [114519-f8s.json](./114519-f8s.json) |
 | FA Manager | 44818 | [44818-fa-manager.json](./44818-fa-manager.json) |
 | FA Tetris | 250372 | [250372-fa-tetris.json](./250372-fa-tetris.json) |
 | Faaast Penguin | 314424 | [314424-faaast-penguin.json](./314424-faaast-penguin.json) |
@@ -568,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Blocks | 105389 | [105389-falling-blocks.json](./105389-falling-blocks.json) |
 | Falling Blocks | 237333 | [237333-falling-blocks.json](./237333-falling-blocks.json) |
 | Falling Bricks: Endless Smash | 390784 | [390784-falling-bricks-endless-smash.json](./390784-falling-bricks-endless-smash.json) |
+| Falling Bullets | 114550 | [114550-falling-bullets.json](./114550-falling-bullets.json) |
 | Falling Cube | 340054 | [340054-falling-cube.json](./340054-falling-cube.json) |
 | Falling Day | 270180 | [270180-falling-day.json](./270180-falling-day.json) |
 | Falling Down | 256364 | [256364-falling-down.json](./256364-falling-down.json) |
@@ -796,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Children | 49578 | [49578-fantastic-children.json](./49578-fantastic-children.json) |
 | Fantastic Contraption | 168671 | [168671-fantastic-contraption.json](./168671-fantastic-contraption.json) |
 | Fantastic Contraption Classic 1 & 2 | 169227 | [169227-fantastic-contraption-classic-1-and-2.json](./169227-fantastic-contraption-classic-1-and-2.json) |
+| Fantastic Creatures | 114528 | [114528-fantastic-creatures.json](./114528-fantastic-creatures.json) |
 | Fantastic Dizzy | 12089 | [12089-fantastic-dizzy.json](./12089-fantastic-dizzy.json) |
 | Fantastic Fetus: Prebirth | 205113 | [205113-fantastic-fetus-prebirth.json](./205113-fantastic-fetus-prebirth.json) |
 | Fantastic Fortune 2: Triple Star | 220580 | [220580-fantastic-fortune-2-triple-star.json](./220580-fantastic-fortune-2-triple-star.json) |
@@ -1411,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatebreak | 181244 | [181244-fatebreak.json](./181244-fatebreak.json) |
 | Fatec's Out | 132274 | [132274-fatecs-out.json](./132274-fatecs-out.json) |
 | Fated | 184069 | [184069-fated.json](./184069-fated.json) |
+| Fated Era | 114514 | [114514-fated-era.json](./114514-fated-era.json) |
 | Fated Kingdom | 97111 | [97111-fated-kingdom.json](./97111-fated-kingdom.json) |
 | Fateful Destiny | 323504 | [323504-fateful-destiny.json](./323504-fateful-destiny.json) |
 | Fateline | 121003 | [121003-fateline.json](./121003-fateline.json) |
@@ -2691,6 +2695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Up | 264567 | [264567-first-up.json](./264567-first-up.json) |
 | First Winter | 97027 | [97027-first-winter.json](./97027-first-winter.json) |
 | First, Breathe | 124751 | [124751-first-breathe.json](./124751-first-breathe.json) |
+| FirstPlanet | 114552 | [114552-firstplanet.json](./114552-firstplanet.json) |
 | FirstPlate | 400994 | [400994-firstplate.json](./400994-firstplate.json) |
 | Fiscal Jesters | 176509 | [176509-fiscal-jesters.json](./176509-fiscal-jesters.json) |
 | Fiscal Kombat | 167175 | [167175-fiscal-kombat.json](./167175-fiscal-kombat.json) |
@@ -4548,6 +4553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foster's Home for Imaginary Friends: Imagination Invaders | 8004 | [8004-fosters-home-for-imaginary-friends-imagination-invaders.json](./8004-fosters-home-for-imaginary-friends-imagination-invaders.json) |
 | Fostering Apocalypse | 153991 | [153991-fostering-apocalypse.json](./153991-fostering-apocalypse.json) |
 | Fostiator | 316793 | [316793-fostiator.json](./316793-fostiator.json) |
+| Foto Babes | 114556 | [114556-foto-babes.json](./114556-foto-babes.json) |
 | Foto Boy: A New Job | 290932 | [290932-foto-boy-a-new-job.json](./290932-foto-boy-a-new-job.json) |
 | Foto Face: The Face Stealer Strikes | 67286 | [67286-foto-face-the-face-stealer-strikes.json](./67286-foto-face-the-face-stealer-strikes.json) |
 | Foturians: Myth and Reality | 399697 | [399697-foturians-myth-and-reality.json](./399697-foturians-myth-and-reality.json) |
@@ -5099,6 +5105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frightened | 216161 | [216161-frightened.json](./216161-frightened.json) |
 | Frigid | 159281 | [159281-frigid.json](./159281-frigid.json) |
 | Frigid VR | 172733 | [172733-frigid-vr.json](./172733-frigid-vr.json) |
+| Frigus Inferos | 114525 | [114525-frigus-inferos.json](./114525-frigus-inferos.json) |
 | Friki | 153406 | [153406-friki.json](./153406-friki.json) |
 | Frikin the Laser Shark | 158029 | [158029-frikin-the-laser-shark.json](./158029-frikin-the-laser-shark.json) |
 | Fringes of the Empire | 34426 | [34426-fringes-of-the-empire.json](./34426-fringes-of-the-empire.json) |
@@ -5585,6 +5592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full-Scale Invasion | 287727 | [287727-full-scale-invasion.json](./287727-full-scale-invasion.json) |
 | Fullmetal Alchemist: Omoide no Sonata | 49594 | [49594-fullmetal-alchemist-omoide-no-sonata.json](./49594-fullmetal-alchemist-omoide-no-sonata.json) |
 | Fullmetal Alchemist: To the Promised Day | 62757 | [62757-fullmetal-alchemist-to-the-promised-day.json](./62757-fullmetal-alchemist-to-the-promised-day.json) |
+| Fullvoice Reborn | 114521 | [114521-fullvoice-reborn.json](./114521-fullvoice-reborn.json) |
 | Fully Automated | 384762 | [384762-fully-automated.json](./384762-fully-automated.json) |
 | Fully Automated Luxury Gay Space Communism | 69522 | [69522-fully-automated-luxury-gay-space-communism.json](./69522-fully-automated-luxury-gay-space-communism.json) |
 | Fully Dogomatic | 301289 | [301289-fully-dogomatic.json](./301289-fully-dogomatic.json) |
