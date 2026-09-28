@@ -1988,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terraria: Split Mod | 223035 | [223035-terraria-split-mod.json](./223035-terraria-split-mod.json) |
 | Terraria: The Stars Above | 223034 | [223034-terraria-the-stars-above.json](./223034-terraria-the-stars-above.json) |
 | TerrariaCraft | 300699 | [300699-terrariacraft.json](./300699-terrariacraft.json) |
+| Terrarium: Garden Idle | 116433 | [116433-terrarium-garden-idle.json](./116433-terrarium-garden-idle.json) |
 | TerraScape | 239642 | [239642-terrascape.json](./239642-terrascape.json) |
 | TerraStorm | 289314 | [289314-terrastorm.json](./289314-terrastorm.json) |
 | TerraTech Legion | 348307 | [348307-terratech-legion.json](./348307-terratech-legion.json) |
@@ -6230,6 +6231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orphanage | 236381 | [236381-the-orphanage.json](./236381-the-orphanage.json) |
 | The Orphaned House | 413212 | [413212-the-orphaned-house.json](./413212-the-orphaned-house.json) |
 | The Othello | 91958 | [91958-the-othello.json](./91958-the-othello.json) |
+| The Other Brothers | 116428 | [116428-the-other-brothers.json](./116428-the-other-brothers.json) |
 | The Other Me | 261550 | [261550-the-other-me.json](./261550-the-other-me.json) |
 | The Other Order | 384793 | [384793-the-other-order.json](./384793-the-other-order.json) |
 | The Other Side | 178673 | [178673-the-other-side.json](./178673-the-other-side.json) |
