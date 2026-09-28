@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kavinsky | 60770 | [60770-kavinsky.json](./60770-kavinsky.json) |
 | Kawaii Anime: Cute Boys Magic World | 409535 | [409535-kawaii-anime-cute-boys-magic-world.json](./409535-kawaii-anime-cute-boys-magic-world.json) |
 | Kawaii Anime: Cute Girls Magic World | 409685 | [409685-kawaii-anime-cute-girls-magic-world.json](./409685-kawaii-anime-cute-girls-magic-world.json) |
+| Kawaii Coloring Book | 104223 | [104223-kawaii-coloring-book.json](./104223-kawaii-coloring-book.json) |
 | Kawaii Deathu Desu | 120089 | [120089-kawaii-deathu-desu.json](./120089-kawaii-deathu-desu.json) |
 | Kawaii Girls | 334088 | [334088-kawaii-girls.json](./334088-kawaii-girls.json) |
 | Kawaii Girls: Busty Bear | 378810 | [378810-kawaii-girls-busty-bear.json](./378810-kawaii-girls-busty-bear.json) |
@@ -682,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keepy Uppy | 229353 | [229353-keepy-uppy.json](./229353-keepy-uppy.json) |
 | Keg Bearer | 200127 | [200127-keg-bearer.json](./200127-keg-bearer.json) |
 | Keg War | 183444 | [183444-keg-war.json](./183444-keg-war.json) |
+| Keg Wars | 104249 | [104249-keg-wars.json](./104249-keg-wars.json) |
 | Kegani Friends | 297581 | [297581-kegani-friends.json](./297581-kegani-friends.json) |
 | Keiba Eight Special | 37966 | [37966-keiba-eight-special.json](./37966-keiba-eight-special.json) |
 | Keiba Eight Special 2 | 37965 | [37965-keiba-eight-special-2.json](./37965-keiba-eight-special-2.json) |
