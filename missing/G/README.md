@@ -1550,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gex: Enter the Gecko | 248746 | [248746-gex-enter-the-gecko.json](./248746-gex-enter-the-gecko.json) |
 | Gex: Enter the Gecko | 3506 | [3506-gex-enter-the-gecko.json](./3506-gex-enter-the-gecko.json) |
 | GF Becomes SexCare Manager of Baseball Club: Cucked In Sportsmen's Sex | 98451 | [98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json](./98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json) |
+| GFL Championshop Football II | 97473 | [97473-gfl-championshop-football-ii.json](./97473-gfl-championshop-football-ii.json) |
 | GG Bundle 2015 | 25986 | [25986-gg-bundle-2015.json](./25986-gg-bundle-2015.json) |
 | GG Date Me | 178567 | [178567-gg-date-me.json](./178567-gg-date-me.json) |
 | GG Portrait: Pai-chan | 46602 | [46602-gg-portrait-pai-chan.json](./46602-gg-portrait-pai-chan.json) |
@@ -1558,6 +1559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ggg Collection: The Olivia Saga | 170852 | [170852-ggg-collection-the-olivia-saga.json](./170852-ggg-collection-the-olivia-saga.json) |
 | GGX: Great Grandma Escape | 200124 | [200124-ggx-great-grandma-escape.json](./200124-ggx-great-grandma-escape.json) |
 | Ghaib | 117767 | [117767-ghaib.json](./117767-ghaib.json) |
+| Ghana Bwana | 97474 | [97474-ghana-bwana.json](./97474-ghana-bwana.json) |
 | Gharp | 192438 | [192438-gharp.json](./192438-gharp.json) |
 | Ghastly Mask Shop | 391332 | [391332-ghastly-mask-shop.json](./391332-ghastly-mask-shop.json) |
 | Ghen War | 45526 | [45526-ghen-war.json](./45526-ghen-war.json) |
