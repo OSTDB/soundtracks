@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarth | 239298 | [239298-quarth.json](./239298-quarth.json) |
 | Quarth | 239299 | [239299-quarth.json](./239299-quarth.json) |
 | Quarth | 41771 | [41771-quarth.json](./41771-quarth.json) |
+| Quarto | 104795 | [104795-quarto.json](./104795-quarto.json) |
 | Quartz's Quest | 245036 | [245036-quartzs-quest.json](./245036-quartzs-quest.json) |
 | Quash | 137473 | [137473-quash.json](./137473-quash.json) |
 | Quaterneo | 183535 | [183535-quaterneo.json](./183535-quaterneo.json) |
