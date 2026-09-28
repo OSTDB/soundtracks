@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majora's Mask Redux | 172479 | [172479-majoras-mask-redux.json](./172479-majoras-mask-redux.json) |
 | Majorariatto Museum | 177426 | [177426-majorariatto-museum.json](./177426-majorariatto-museum.json) |
 | Majorelle Mystery | 232705 | [232705-majorelle-mystery.json](./232705-majorelle-mystery.json) |
+| Majoriko Inbikai Inbizone | 92071 | [92071-majoriko-inbikai-inbizone.json](./92071-majoriko-inbikai-inbizone.json) |
 | Majou Densetsu II: Daimashikyou Galious | 48866 | [48866-majou-densetsu-ii-daimashikyou-galious.json](./48866-majou-densetsu-ii-daimashikyou-galious.json) |
 | Majoukko Princess - Mefi's Great Strategy for Recapturing the Castle- | 292052 | [292052-majoukko-princess-mefis-great-strategy-for-recapturing-the-castle.json](./292052-majoukko-princess-mefis-great-strategy-for-recapturing-the-castle.json) |
 | Majulah | 367965 | [367965-majulah.json](./367965-majulah.json) |
@@ -4126,6 +4127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Hunter | 392783 | [392783-metal-hunter.json](./392783-metal-hunter.json) |
 | Metal Knight | 132753 | [132753-metal-knight.json](./132753-metal-knight.json) |
 | Metal Knights | 237344 | [237344-metal-knights.json](./237344-metal-knights.json) |
+| Metal Law | 92078 | [92078-metal-law.json](./92078-metal-law.json) |
 | Metal Man Reloaded | 125273 | [125273-metal-man-reloaded.json](./125273-metal-man-reloaded.json) |
 | Metal March | 228088 | [228088-metal-march.json](./228088-metal-march.json) |
 | Metal Marines | 42497 | [42497-metal-marines.json](./42497-metal-marines.json) |
@@ -8564,6 +8566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My First Trainz Set | 11019 | [11019-my-first-trainz-set.json](./11019-my-first-trainz-set.json) |
 | My Fish Farm | 212492 | [212492-my-fish-farm.json](./212492-my-fish-farm.json) |
 | My Fishing Boat | 259635 | [259635-my-fishing-boat.json](./259635-my-fishing-boat.json) |
+| My Fitness | 92049 | [92049-my-fitness.json](./92049-my-fitness.json) |
 | My Fitness Coach | 78661 | [78661-my-fitness-coach.json](./78661-my-fitness-coach.json) |
 | My Flower | 266888 | [266888-my-flower.json](./266888-my-flower.json) |
 | My Fluffy Life | 163745 | [163745-my-fluffy-life.json](./163745-my-fluffy-life.json) |
