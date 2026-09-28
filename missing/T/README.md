@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabletop Baseball | 412396 | [412396-tabletop-baseball.json](./412396-tabletop-baseball.json) |
 | Tabletop Dice | 108617 | [108617-tabletop-dice.json](./108617-tabletop-dice.json) |
 | Tabletop Gallery | 85419 | [85419-tabletop-gallery.json](./85419-tabletop-gallery.json) |
+| Tabletop idle | 101742 | [101742-tabletop-idle.json](./101742-tabletop-idle.json) |
 | Tabletop Simulator: Down in Flames - Locked-On | 161264 | [161264-tabletop-simulator-down-in-flames-locked-on.json](./161264-tabletop-simulator-down-in-flames-locked-on.json) |
 | Tabletop Simulator: Draco Magi | 161270 | [161270-tabletop-simulator-draco-magi.json](./161270-tabletop-simulator-draco-magi.json) |
 | Tabletop Simulator: Scythe | 161271 | [161271-tabletop-simulator-scythe.json](./161271-tabletop-simulator-scythe.json) |
@@ -4084,6 +4085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Battle: Adventure | 216224 | [216224-the-final-battle-adventure.json](./216224-the-final-battle-adventure.json) |
 | The Final Countdown | 277318 | [277318-the-final-countdown.json](./277318-the-final-countdown.json) |
 | The Final Days: Blood Dawn | 87959 | [87959-the-final-days-blood-dawn.json](./87959-the-final-days-blood-dawn.json) |
+| The Final Earth | 101741 | [101741-the-final-earth.json](./101741-the-final-earth.json) |
 | The Final Earth 2 | 126651 | [126651-the-final-earth-2.json](./126651-the-final-earth-2.json) |
 | The Final Exam | 318637 | [318637-the-final-exam.json](./318637-the-final-exam.json) |
 | The Final Exhibition | 245862 | [245862-the-final-exhibition.json](./245862-the-final-exhibition.json) |
@@ -11764,6 +11766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Empire Builder | 127096 | [127096-tower-empire-builder.json](./127096-tower-empire-builder.json) |
 | Tower Escape | 204105 | [204105-tower-escape.json](./204105-tower-escape.json) |
 | Tower in the Sky | 30843 | [30843-tower-in-the-sky.json](./30843-tower-in-the-sky.json) |
+| Tower Keepers | 101736 | [101736-tower-keepers.json](./101736-tower-keepers.json) |
 | Tower Knight | 298628 | [298628-tower-knight.json](./298628-tower-knight.json) |
 | Tower Lord: Sword Loop Saga | 176267 | [176267-tower-lord-sword-loop-saga.json](./176267-tower-lord-sword-loop-saga.json) |
 | Tower Monster Rush | 309504 | [309504-tower-monster-rush.json](./309504-tower-monster-rush.json) |
