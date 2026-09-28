@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane's Combat Simulations: Advanced Tactical Fighters - Nato Fighters | 71211 | [71211-janes-combat-simulations-advanced-tactical-fighters-nato-fighters.json](./71211-janes-combat-simulations-advanced-tactical-fighters-nato-fighters.json) |
 | Jane's Combat Simulations: Attack Pack | 78022 | [78022-janes-combat-simulations-attack-pack.json](./78022-janes-combat-simulations-attack-pack.json) |
 | Jane's Combat Simulations: Israeli Air Force | 72071 | [72071-janes-combat-simulations-israeli-air-force.json](./72071-janes-combat-simulations-israeli-air-force.json) |
+| Jane's Combat Simulations: Longbow Gold | 73363 | [73363-janes-combat-simulations-longbow-gold.json](./73363-janes-combat-simulations-longbow-gold.json) |
 | Jane's F/A-18 | 687 | [687-janes-f-a-18.json](./687-janes-f-a-18.json) |
 | Jane's Hotel | 20549 | [20549-janes-hotel.json](./20549-janes-hotel.json) |
 | Jane's Hotel | 210009 | [210009-janes-hotel.json](./210009-janes-hotel.json) |
@@ -1342,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Force: Character Pack 8 - Grimmjow Jaegerjaquez | 167778 | [167778-jump-force-character-pack-8-grimmjow-jaegerjaquez.json](./167778-jump-force-character-pack-8-grimmjow-jaegerjaquez.json) |
 | Jump Force: Character Pack 9 - Trafalgar Law | 167776 | [167776-jump-force-character-pack-9-trafalgar-law.json](./167776-jump-force-character-pack-9-trafalgar-law.json) |
 | Jump Frog | 246343 | [246343-jump-frog.json](./246343-jump-frog.json) |
+| Jump Generation | 74995 | [74995-jump-generation.json](./74995-jump-generation.json) |
 | Jump Greed | 363563 | [363563-jump-greed.json](./363563-jump-greed.json) |
 | Jump Hero II: Jinsei wa Jabuun | 137620 | [137620-jump-hero-ii-jinsei-wa-jabuun.json](./137620-jump-hero-ii-jinsei-wa-jabuun.json) |
 | Jump Heroes | 290726 | [290726-jump-heroes.json](./290726-jump-heroes.json) |
