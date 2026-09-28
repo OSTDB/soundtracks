@@ -3002,6 +3002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodbye, New World | 282642 | [282642-goodbye-new-world.json](./282642-goodbye-new-world.json) |
 | Goodbye.Monster | 323716 | [323716-goodbye-monster.json](./323716-goodbye-monster.json) |
 | Goodfolks | 61704 | [61704-goodfolks.json](./61704-goodfolks.json) |
+| Goodgame Empire | 70902 | [70902-goodgame-empire.json](./70902-goodgame-empire.json) |
 | GoodGod | 355080 | [355080-goodgod.json](./355080-goodgod.json) |
 | Goodness Gracious | 98230 | [98230-goodness-gracious.json](./98230-goodness-gracious.json) |
 | Goodness Rakes | 231607 | [231607-goodness-rakes.json](./231607-goodness-rakes.json) |
@@ -3168,6 +3169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotogra | 387357 | [387357-gotogra.json](./387357-gotogra.json) |
 | Gotouchi Kentei DS | 124018 | [124018-gotouchi-kentei-ds.json](./124018-gotouchi-kentei-ds.json) |
 | Gotouchi Tetsudou for Nintendo Switch | 136963 | [136963-gotouchi-tetsudou-for-nintendo-switch.json](./136963-gotouchi-tetsudou-for-nintendo-switch.json) |
+| Gotouchi Tetsudou: Gotouchi Chara to Nihon Zenkoku no Tabi | 71016 | [71016-gotouchi-tetsudou-gotouchi-chara-to-nihon-zenkoku-no-tabi.json](./71016-gotouchi-tetsudou-gotouchi-chara-to-nihon-zenkoku-no-tabi.json) |
 | Gotta Get Home | 231299 | [231299-gotta-get-home.json](./231299-gotta-get-home.json) |
 | Gotta Protectors: Amazon's Running Diet | 195502 | [195502-gotta-protectors-amazons-running-diet.json](./195502-gotta-protectors-amazons-running-diet.json) |
 | Gotta Protectors: Cart of Darkness | 196318 | [196318-gotta-protectors-cart-of-darkness.json](./196318-gotta-protectors-cart-of-darkness.json) |
