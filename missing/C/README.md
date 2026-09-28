@@ -1755,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch the Wally - Hide & Seek | 108247 | [108247-catch-the-wally-hide-and-seek.json](./108247-catch-the-wally-hide-and-seek.json) |
 | Catch the Witch | 417503 | [417503-catch-the-witch.json](./417503-catch-the-witch.json) |
 | Catch Them If You Can | 215368 | [215368-catch-them-if-you-can.json](./215368-catch-them-if-you-can.json) |
+| Catch You: 1 to 10 Player Stickman Hunting Game | 103660 | [103660-catch-you-1-to-10-player-stickman-hunting-game.json](./103660-catch-you-1-to-10-player-stickman-hunting-game.json) |
 | Catch Your Kitty | 129122 | [129122-catch-your-kitty.json](./129122-catch-your-kitty.json) |
 | Catch'em | 302138 | [302138-catchem.json](./302138-catchem.json) |
 | Catcha | 327398 | [327398-catcha.json](./327398-catcha.json) |
@@ -2706,6 +2707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cherry Bomb | 285589 | [285589-cherry-bomb.json](./285589-cherry-bomb.json) |
 | Cherry Cough Syrup | 374809 | [374809-cherry-cough-syrup.json](./374809-cherry-cough-syrup.json) |
 | Cherry Girls vs. Zombie Carnage: Brutal Anime Kawaii | 399619 | [399619-cherry-girls-vs-zombie-carnage-brutal-anime-kawaii.json](./399619-cherry-girls-vs-zombie-carnage-brutal-anime-kawaii.json) |
+| Cherry in the Sky | 103623 | [103623-cherry-in-the-sky.json](./103623-cherry-in-the-sky.json) |
 | Cherry Island | 126552 | [126552-cherry-island.json](./126552-cherry-island.json) |
 | Cherry Kisses | 198466 | [198466-cherry-kisses.json](./198466-cherry-kisses.json) |
 | Cherry Rescue! | 181852 | [181852-cherry-rescue.json](./181852-cherry-rescue.json) |
@@ -4900,6 +4902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Ball | 279063 | [279063-color-ball.json](./279063-color-ball.json) |
 | Color Ball 2018 | 100890 | [100890-color-ball-2018.json](./100890-color-ball-2018.json) |
 | Color Balls of Goo | 108618 | [108618-color-balls-of-goo.json](./108618-color-balls-of-goo.json) |
+| Color Bikes Road Rush | 103663 | [103663-color-bikes-road-rush.json](./103663-color-bikes-road-rush.json) |
 | Color Blind: The Game | 231397 | [231397-color-blind-the-game.json](./231397-color-blind-the-game.json) |
 | Color Block Jam | 339436 | [339436-color-block-jam.json](./339436-color-block-jam.json) |
 | Color Blocks - Relax Puzzle | 130854 | [130854-color-blocks-relax-puzzle.json](./130854-color-blocks-relax-puzzle.json) |
@@ -4921,6 +4924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Cube | 172053 | [172053-color-cube.json](./172053-color-cube.json) |
 | Color Cube Spin | 28845 | [28845-color-cube-spin.json](./28845-color-cube-spin.json) |
 | Color Dark Castle | 334678 | [334678-color-dark-castle.json](./334678-color-dark-castle.json) |
+| Color Defense | 103671 | [103671-color-defense.json](./103671-color-defense.json) |
 | Color DJ | 265418 | [265418-color-dj.json](./265418-color-dj.json) |
 | Color Dodge | 311053 | [311053-color-dodge.json](./311053-color-dodge.json) |
 | Color Dots Connect | 148569 | [148569-color-dots-connect.json](./148569-color-dots-connect.json) |
@@ -6190,6 +6194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Castaway | 380084 | [380084-cosmic-castaway.json](./380084-cosmic-castaway.json) |
 | Cosmic Cat | 361677 | [361677-cosmic-cat.json](./361677-cosmic-cat.json) |
 | Cosmic Challenge Racing | 196336 | [196336-cosmic-challenge-racing.json](./196336-cosmic-challenge-racing.json) |
+| Cosmic Chicken | 103657 | [103657-cosmic-chicken.json](./103657-cosmic-chicken.json) |
 | Cosmic Cleaner | 380083 | [380083-cosmic-cleaner.json](./380083-cosmic-cleaner.json) |
 | Cosmic Collapse | 275327 | [275327-cosmic-collapse.json](./275327-cosmic-collapse.json) |
 | Cosmic Commando | 60518 | [60518-cosmic-commando.json](./60518-cosmic-commando.json) |
