@@ -2541,6 +2541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Magic: Keeper | 171013 | [171013-eternal-magic-keeper.json](./171013-eternal-magic-keeper.json) |
 | Eternal Man: Jump | 99605 | [99605-eternal-man-jump.json](./99605-eternal-man-jump.json) |
 | Eternal Man: Mountain | 95194 | [95194-eternal-man-mountain.json](./95194-eternal-man-mountain.json) |
+| Eternal Man: Village | 90817 | [90817-eternal-man-village.json](./90817-eternal-man-village.json) |
 | Eternal Mansion | 323743 | [323743-eternal-mansion.json](./323743-eternal-mansion.json) |
 | Eternal Night | 192710 | [192710-eternal-night.json](./192710-eternal-night.json) |
 | Eternal Night Glory | 326253 | [326253-eternal-night-glory.json](./326253-eternal-night-glory.json) |
