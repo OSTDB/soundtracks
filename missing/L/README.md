@@ -1258,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Mathmatica 2: Under the Shadow of Certainty | 193417 | [193417-legends-of-mathmatica-2-under-the-shadow-of-certainty.json](./193417-legends-of-mathmatica-2-under-the-shadow-of-certainty.json) |
 | Legends of Might and Magic | 9836 | [9836-legends-of-might-and-magic.json](./9836-legends-of-might-and-magic.json) |
 | Legends of Murder Collection | 173181 | [173181-legends-of-murder-collection.json](./173181-legends-of-murder-collection.json) |
+| Legends of Murder II: Grey Haven | 68736 | [68736-legends-of-murder-ii-grey-haven.json](./68736-legends-of-murder-ii-grey-haven.json) |
 | Legends of Norrath | 51219 | [51219-legends-of-norrath.json](./51219-legends-of-norrath.json) |
 | Legends of Norrath: Ethernauts | 209412 | [209412-legends-of-norrath-ethernauts.json](./209412-legends-of-norrath-ethernauts.json) |
 | Legends of Norrath: Forsworn | 209409 | [209409-legends-of-norrath-forsworn.json](./209409-legends-of-norrath-forsworn.json) |
@@ -2432,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links 2001 | 770 | [770-links-2001.json](./770-links-2001.json) |
 | Links E6: Course Pack 1 | 153464 | [153464-links-e6-course-pack-1.json](./153464-links-e6-course-pack-1.json) |
 | Links E6: Course Pack 3 | 153465 | [153465-links-e6-course-pack-3.json](./153465-links-e6-course-pack-3.json) |
+| Links Extreme | 68777 | [68777-links-extreme.json](./68777-links-extreme.json) |
 | Links LS 1999 | 772 | [772-links-ls-1999.json](./772-links-ls-1999.json) |
 | Links LS: 1998 Edition | 771 | [771-links-ls-1998-edition.json](./771-links-ls-1998-edition.json) |
 | Links: Championship Course - Bountiful Golf Course | 77910 | [77910-links-championship-course-bountiful-golf-course.json](./77910-links-championship-course-bountiful-golf-course.json) |
