@@ -5904,6 +5904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Content Warning: Scary Filming | 337073 | [337073-content-warning-scary-filming.json](./337073-content-warning-scary-filming.json) |
 | Context Insensitive | 159044 | [159044-context-insensitive.json](./159044-context-insensitive.json) |
 | Continent of the Ninth Golden | 256337 | [256337-continent-of-the-ninth-golden.json](./256337-continent-of-the-ninth-golden.json) |
+| Continental | 67396 | [67396-continental.json](./67396-continental.json) |
 | Continental Cafe | 52830 | [52830-continental-cafe.json](./52830-continental-cafe.json) |
 | Continental Drift | 135834 | [135834-continental-drift.json](./135834-continental-drift.json) |
 | Contingency Plan | 336632 | [336632-contingency-plan.json](./336632-contingency-plan.json) |
@@ -7707,6 +7708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown of Greed | 216725 | [216725-crown-of-greed.json](./216725-crown-of-greed.json) |
 | Crown of Hispania | 403203 | [403203-crown-of-hispania.json](./403203-crown-of-hispania.json) |
 | Crown of Light | 249846 | [249846-crown-of-light.json](./249846-crown-of-light.json) |
+| Crown of Mardan | 67360 | [67360-crown-of-mardan.json](./67360-crown-of-mardan.json) |
 | Crown of Pain | 192880 | [192880-crown-of-pain.json](./192880-crown-of-pain.json) |
 | Crown of Silence | 385220 | [385220-crown-of-silence.json](./385220-crown-of-silence.json) |
 | Crown of the Empire: Collector's Edition | 273342 | [273342-crown-of-the-empire-collectors-edition.json](./273342-crown-of-the-empire-collectors-edition.json) |
