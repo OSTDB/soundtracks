@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyboard Warrior Simulator | 351711 | [351711-keyboard-warrior-simulator.json](./351711-keyboard-warrior-simulator.json) |
 | Keyboard Warrior Stickman: Typing Beat Em Up | 413773 | [413773-keyboard-warrior-stickman-typing-beat-em-up.json](./413773-keyboard-warrior-stickman-typing-beat-em-up.json) |
 | Keyboard Warrior: Dreamstate | 209714 | [209714-keyboard-warrior-dreamstate.json](./209714-keyboard-warrior-dreamstate.json) |
+| Keyboardmania: Yamaha Edition | 69378 | [69378-keyboardmania-yamaha-edition.json](./69378-keyboardmania-yamaha-edition.json) |
 | Keybort | 389700 | [389700-keybort.json](./389700-keybort.json) |
 | Keychain | 305294 | [305294-keychain.json](./305294-keychain.json) |
 | Keyclash | 386420 | [386420-keyclash.json](./386420-keyclash.json) |
