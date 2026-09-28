@@ -2376,6 +2376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Fern | 239659 | [239659-finding-fern.json](./239659-finding-fern.json) |
 | Finding Frankie 2 | 404932 | [404932-finding-frankie-2.json](./404932-finding-frankie-2.json) |
 | Finding Hannah | 237954 | [237954-finding-hannah.json](./237954-finding-hannah.json) |
+| Finding Heart | 109911 | [109911-finding-heart.json](./109911-finding-heart.json) |
 | Finding Light | 110390 | [110390-finding-light.json](./110390-finding-light.json) |
 | Finding Mosey | 214158 | [214158-finding-mosey.json](./214158-finding-mosey.json) |
 | Finding Nemo: Nemo's Ocean Discoveries | 85838 | [85838-finding-nemo-nemos-ocean-discoveries.json](./85838-finding-nemo-nemos-ocean-discoveries.json) |
@@ -3693,6 +3694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Frags World Tour | 156070 | [156070-flying-frags-world-tour.json](./156070-flying-frags-world-tour.json) |
 | Flying Frogs | 209462 | [209462-flying-frogs.json](./209462-flying-frogs.json) |
 | Flying Frogs | 301991 | [301991-flying-frogs.json](./301991-flying-frogs.json) |
+| Flying Fu | 109912 | [109912-flying-fu.json](./109912-flying-fu.json) |
 | Flying Guys | 361741 | [361741-flying-guys.json](./361741-flying-guys.json) |
 | Flying Hamster HD | 52220 | [52220-flying-hamster-hd.json](./52220-flying-hamster-hd.json) |
 | Flying Hero VR | 164504 | [164504-flying-hero-vr.json](./164504-flying-hero-vr.json) |
