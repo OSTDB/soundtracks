@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic City Detective: Wings of Revenge - Collector's Edition | 188023 | [188023-magic-city-detective-wings-of-revenge-collectors-edition.json](./188023-magic-city-detective-wings-of-revenge-collectors-edition.json) |
 | Magic Clouds | 117057 | [117057-magic-clouds.json](./117057-magic-clouds.json) |
 | Magic Code | 187863 | [187863-magic-code.json](./187863-magic-code.json) |
+| Magic Combat VR | 115181 | [115181-magic-combat-vr.json](./115181-magic-combat-vr.json) |
 | Magic Crayon | 57649 | [57649-magic-crayon.json](./57649-magic-crayon.json) |
 | Magic Crystals | 192810 | [192810-magic-crystals.json](./192810-magic-crystals.json) |
 | Magic Cube | 48622 | [48622-magic-cube.json](./48622-magic-cube.json) |
@@ -496,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic gravity | 76636 | [76636-magic-gravity.json](./76636-magic-gravity.json) |
 | Magic Griddlers | 156671 | [156671-magic-griddlers.json](./156671-magic-griddlers.json) |
 | Magic Griddlers 2 | 101555 | [101555-magic-griddlers-2.json](./101555-magic-griddlers-2.json) |
+| Magic Gun | 115171 | [115171-magic-gun.json](./115171-magic-gun.json) |
 | Magic Heart | 114996 | [114996-magic-heart.json](./114996-magic-heart.json) |
 | Magic Hero Incremental | 386446 | [386446-magic-hero-incremental.json](./386446-magic-hero-incremental.json) |
 | Magic Heroes | 120261 | [120261-magic-heroes.json](./120261-magic-heroes.json) |
@@ -2655,6 +2657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Maid | 287656 | [287656-maze-maid.json](./287656-maze-maid.json) |
 | Maze Master | 94010 | [94010-maze-master.json](./94010-maze-master.json) |
 | Maze Masters | 148913 | [148913-maze-masters.json](./148913-maze-masters.json) |
+| Maze Ninja | 115141 | [115141-maze-ninja.json](./115141-maze-ninja.json) |
 | Maze of Acheron | 172098 | [172098-maze-of-acheron.json](./172098-maze-of-acheron.json) |
 | Maze of Adventures | 81745 | [81745-maze-of-adventures.json](./81745-maze-of-adventures.json) |
 | Maze of Bears | 186321 | [186321-maze-of-bears.json](./186321-maze-of-bears.json) |
@@ -4618,6 +4621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microwave Story | 311060 | [311060-microwave-story.json](./311060-microwave-story.json) |
 | Midas | 338837 | [338837-midas.json](./338837-midas.json) |
 | Midautumn | 148943 | [148943-midautumn.json](./148943-midautumn.json) |
+| Middle Ages Hero | 115147 | [115147-middle-ages-hero.json](./115147-middle-ages-hero.json) |
 | Middle Ages: Peasants & Knights | 304662 | [304662-middle-ages-peasants-and-knights.json](./304662-middle-ages-peasants-and-knights.json) |
 | Middle Kingdom | 356658 | [356658-middle-kingdom.json](./356658-middle-kingdom.json) |
 | Middle Manager of Justice | 9133 | [9133-middle-manager-of-justice.json](./9133-middle-manager-of-justice.json) |
@@ -6487,6 +6491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Desert | 233458 | [233458-monster-desert.json](./233458-monster-desert.json) |
 | Monster Dungeon | 192666 | [192666-monster-dungeon.json](./192666-monster-dungeon.json) |
 | Monster Dunk | 130333 | [130333-monster-dunk.json](./130333-monster-dunk.json) |
+| Monster Dynamite | 115752 | [115752-monster-dynamite.json](./115752-monster-dynamite.json) |
 | Monster Eggs | 69197 | [69197-monster-eggs.json](./69197-monster-eggs.json) |
 | Monster Elevator | 319188 | [319188-monster-elevator.json](./319188-monster-elevator.json) |
 | Monster Energy Supercross 25: The Official Video Game | 336380 | [336380-monster-energy-supercross-25-the-official-video-game.json](./336380-monster-energy-supercross-25-the-official-video-game.json) |
@@ -7361,6 +7366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rally Racing VR | 288785 | [288785-moto-rally-racing-vr.json](./288785-moto-rally-racing-vr.json) |
 | Moto Rider Go: Highway Traffic | 104640 | [104640-moto-rider-go-highway-traffic.json](./104640-moto-rider-go-highway-traffic.json) |
 | Moto Roader II | 37708 | [37708-moto-roader-ii.json](./37708-moto-roader-ii.json) |
+| Moto Rush GT | 115751 | [115751-moto-rush-gt.json](./115751-moto-rush-gt.json) |
 | Moto Rush GT: Advanced Edition | 315871 | [315871-moto-rush-gt-advanced-edition.json](./315871-moto-rush-gt-advanced-edition.json) |
 | Moto Rush GT: Back To School Edition | 263541 | [263541-moto-rush-gt-back-to-school-edition.json](./263541-moto-rush-gt-back-to-school-edition.json) |
 | Moto Rush GT: Comprehensive Edition | 399823 | [399823-moto-rush-gt-comprehensive-edition.json](./399823-moto-rush-gt-comprehensive-edition.json) |
@@ -8141,6 +8147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Club Manager | 126616 | [126616-music-club-manager.json](./126616-music-club-manager.json) |
 | Music Drive | 273994 | [273994-music-drive.json](./273994-music-drive.json) |
 | Music Drive: Chase the Beat | 351004 | [351004-music-drive-chase-the-beat.json](./351004-music-drive-chase-the-beat.json) |
+| Music Escape | 115137 | [115137-music-escape.json](./115137-music-escape.json) |
 | Music GunGun! | 64963 | [64963-music-gungun.json](./64963-music-gungun.json) |
 | Music in Motion | 265745 | [265745-music-in-motion.json](./265745-music-in-motion.json) |
 | Music Intro Pro 68K | 265972 | [265972-music-intro-pro-68k.json](./265972-music-intro-pro-68k.json) |
