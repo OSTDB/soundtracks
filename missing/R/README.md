@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RagDollJoe | 115788 | [115788-ragdolljoe.json](./115788-ragdolljoe.json) |
 | Ragdolls Playground: The Sandbox | 188908 | [188908-ragdolls-playground-the-sandbox.json](./188908-ragdolls-playground-the-sandbox.json) |
 | Rage 2 | 101211 | [101211-rage-2.json](./101211-rage-2.json) |
+| Rage Disco | 75218 | [75218-rage-disco.json](./75218-rage-disco.json) |
 | Rage District: Humanity Armageddon | 406800 | [406800-rage-district-humanity-armageddon.json](./406800-rage-district-humanity-armageddon.json) |
 | Rage Effect | 321508 | [321508-rage-effect.json](./321508-rage-effect.json) |
 | Rage Fishing | 373656 | [373656-rage-fishing.json](./373656-rage-fishing.json) |
@@ -3107,6 +3108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Richup.io | 141249 | [141249-richup-io.json](./141249-richup-io.json) |
 | Rick and Josh adventures | 195620 | [195620-rick-and-josh-adventures.json](./195620-rick-and-josh-adventures.json) |
 | Rick and Morty Game | 307573 | [307573-rick-and-morty-game.json](./307573-rick-and-morty-game.json) |
+| Rick and Morty Presents: Jerry's Game | 74299 | [74299-rick-and-morty-presents-jerrys-game.json](./74299-rick-and-morty-presents-jerrys-game.json) |
 | Rick and Morty: Virtual Rick-ality | 20459 | [20459-rick-and-morty-virtual-rick-ality.json](./20459-rick-and-morty-virtual-rick-ality.json) |
 | Rick Dangerous 2 | 12203 | [12203-rick-dangerous-2.json](./12203-rick-dangerous-2.json) |
 | Rick Ribbit in Ark Noodle's Math Challenge | 62688 | [62688-rick-ribbit-in-ark-noodles-math-challenge.json](./62688-rick-ribbit-in-ark-noodles-math-challenge.json) |
@@ -3576,6 +3578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risen Dragons | 53514 | [53514-risen-dragons.json](./53514-risen-dragons.json) |
 | Risiko Chess | 274556 | [274556-risiko-chess.json](./274556-risiko-chess.json) |
 | Risimon | 315709 | [315709-risimon.json](./315709-risimon.json) |
+| Rising Angels: Fates Allegiance | 75215 | [75215-rising-angels-fates-allegiance.json](./75215-rising-angels-fates-allegiance.json) |
 | Rising Army | 302925 | [302925-rising-army.json](./302925-rising-army.json) |
 | Rising Constellation | 139367 | [139367-rising-constellation.json](./139367-rising-constellation.json) |
 | Rising Dead | 265125 | [265125-rising-dead.json](./265125-rising-dead.json) |
@@ -3875,6 +3878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin Hood's Quest | 43558 | [43558-robin-hoods-quest.json](./43558-robin-hoods-quest.json) |
 | Robin Lloyd no Bouken | 62988 | [62988-robin-lloyd-no-bouken.json](./62988-robin-lloyd-no-bouken.json) |
 | Robin Morningwood Adventure: A Gay RPG | 156097 | [156097-robin-morningwood-adventure-a-gay-rpg.json](./156097-robin-morningwood-adventure-a-gay-rpg.json) |
+| Robin of Loxley the Legend of Sherwood | 74517 | [74517-robin-of-loxley-the-legend-of-sherwood.json](./74517-robin-of-loxley-the-legend-of-sherwood.json) |
 | Robin of Sherwood: The Touchstones of Rhiannon | 73825 | [73825-robin-of-sherwood-the-touchstones-of-rhiannon.json](./73825-robin-of-sherwood-the-touchstones-of-rhiannon.json) |
 | Robin's Quest: A Legend Born | 17223 | [17223-robins-quest-a-legend-born.json](./17223-robins-quest-a-legend-born.json) |
 | Robina Hood's Monster Hunt | 360567 | [360567-robina-hoods-monster-hunt.json](./360567-robina-hoods-monster-hunt.json) |
