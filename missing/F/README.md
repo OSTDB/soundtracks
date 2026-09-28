@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1-2004 Racing | 138694 | [138694-f1-2004-racing.json](./138694-f1-2004-racing.json) |
 | F1: World Championship Edition | 12083 | [12083-f1-world-championship-edition.json](./12083-f1-world-championship-edition.json) |
 | F15 Flight Simulator VR | 107129 | [107129-f15-flight-simulator-vr.json](./107129-f15-flight-simulator-vr.json) |
+| F18 Carrier Landing | 87598 | [87598-f18-carrier-landing.json](./87598-f18-carrier-landing.json) |
 | F18 Pilot Simulator | 174355 | [174355-f18-pilot-simulator.json](./174355-f18-pilot-simulator.json) |
 | F22 Air Dominance Fighter: Red Sea Operations | 59926 | [59926-f22-air-dominance-fighter-red-sea-operations.json](./59926-f22-air-dominance-fighter-red-sea-operations.json) |
 | F40 Pursuit Simulator | 47217 | [47217-f40-pursuit-simulator.json](./47217-f40-pursuit-simulator.json) |
