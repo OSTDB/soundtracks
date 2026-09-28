@@ -1184,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of the dead | 243675 | [243675-day-of-the-dead.json](./243675-day-of-the-dead.json) |
 | Day of the Dead: Solitaire Collection | 161362 | [161362-day-of-the-dead-solitaire-collection.json](./161362-day-of-the-dead-solitaire-collection.json) |
 | Day of the Dimetrodon | 168382 | [168382-day-of-the-dimetrodon.json](./168382-day-of-the-dimetrodon.json) |
+| Day of the Infected | 112510 | [112510-day-of-the-infected.json](./112510-day-of-the-infected.json) |
 | Day of the Rising Dead | 349885 | [349885-day-of-the-rising-dead.json](./349885-day-of-the-rising-dead.json) |
 | Day of the Shell | 215537 | [215537-day-of-the-shell.json](./215537-day-of-the-shell.json) |
 | Day of the Toys | 264077 | [264077-day-of-the-toys.json](./264077-day-of-the-toys.json) |
@@ -2246,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Def Leppard: Let's Rock It! | 254164 | [254164-def-leppard-lets-rock-it.json](./254164-def-leppard-lets-rock-it.json) |
 | Defaction | 178537 | [178537-defaction.json](./178537-defaction.json) |
 | Defeat Me | 321507 | [321507-defeat-me.json](./321507-defeat-me.json) |
+| Defeat the Beat | 112485 | [112485-defeat-the-beat.json](./112485-defeat-the-beat.json) |
 | Defeated Girl | 219038 | [219038-defeated-girl.json](./219038-defeated-girl.json) |
 | Defect | 21928 | [21928-defect.json](./21928-defect.json) |
 | Defence Agent Gaya | 82906 | [82906-defence-agent-gaya.json](./82906-defence-agent-gaya.json) |
@@ -3425,6 +3427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diǎnchū Gè Sānguó | 413033 | [413033-dianchu-ge-sanguo.json](./413033-dianchu-ge-sanguo.json) |
 | Diapause | 374597 | [374597-diapause.json](./374597-diapause.json) |
 | Diaper Dash | 16069 | [16069-diaper-dash.json](./16069-diaper-dash.json) |
+| Diaperquest 2055 | 112464 | [112464-diaperquest-2055.json](./112464-diaperquest-2055.json) |
 | Diarrhea Don | 159891 | [159891-diarrhea-don.json](./159891-diarrhea-don.json) |
 | Diary Girl | 67992 | [67992-diary-girl.json](./67992-diary-girl.json) |
 | Diary of a Step-Sister | 239880 | [239880-diary-of-a-step-sister.json](./239880-diary-of-a-step-sister.json) |
@@ -5176,6 +5179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Touch Me Twice! | 116455 | [116455-dont-touch-me-twice.json](./116455-dont-touch-me-twice.json) |
 | Don't Touch My Phone | 286084 | [286084-dont-touch-my-phone.json](./286084-dont-touch-my-phone.json) |
 | Don't Touch My Teddy Bear | 62772 | [62772-dont-touch-my-teddy-bear.json](./62772-dont-touch-my-teddy-bear.json) |
+| Don't Touch My Virgin | 112505 | [112505-dont-touch-my-virgin.json](./112505-dont-touch-my-virgin.json) |
 | Don't Touch Red!! | 246970 | [246970-dont-touch-red.json](./246970-dont-touch-red.json) |
 | Don't Touch the Island | 232025 | [232025-dont-touch-the-island.json](./232025-dont-touch-the-island.json) |
 | Don't Touch the Purple | 272386 | [272386-dont-touch-the-purple.json](./272386-dont-touch-the-purple.json) |
