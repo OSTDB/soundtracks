@@ -1258,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manaulyn | 296971 | [296971-manaulyn.json](./296971-manaulyn.json) |
 | Manbomber | 283749 | [283749-manbomber.json](./283749-manbomber.json) |
 | Mancala Snails | 321617 | [321617-mancala-snails.json](./321617-mancala-snails.json) |
+| Manchester United | 72167 | [72167-manchester-united.json](./72167-manchester-united.json) |
 | Manchester United Club Football | 52013 | [52013-manchester-united-club-football.json](./52013-manchester-united-club-football.json) |
 | Mancy | 381611 | [381611-mancy.json](./381611-mancy.json) |
 | Manda no Yume | 201780 | [201780-manda-no-yume.json](./201780-manda-no-yume.json) |
@@ -3092,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Steve | 108253 | [108253-medieval-steve.json](./108253-medieval-steve.json) |
 | Medieval Tales Solitaire | 236254 | [236254-medieval-tales-solitaire.json](./236254-medieval-tales-solitaire.json) |
 | Medieval Warrior Simulator | 215616 | [215616-medieval-warrior-simulator.json](./215616-medieval-warrior-simulator.json) |
+| Medieval Warriors | 72139 | [72139-medieval-warriors.json](./72139-medieval-warriors.json) |
 | Medieval Wars | 165697 | [165697-medieval-wars.json](./165697-medieval-wars.json) |
 | Medieval: Defense & Conquest | 255792 | [255792-medieval-defense-and-conquest.json](./255792-medieval-defense-and-conquest.json) |
 | Medieval: Idle Prayer | 364603 | [364603-medieval-idle-prayer.json](./364603-medieval-idle-prayer.json) |
@@ -3841,6 +3843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Menagerie I: Exoptable Money | 223664 | [223664-menagerie-i-exoptable-money.json](./223664-menagerie-i-exoptable-money.json) |
 | Menagerie II: Presentable Liberty | 50154 | [50154-menagerie-ii-presentable-liberty.json](./50154-menagerie-ii-presentable-liberty.json) |
 | Menara: Grass Land | 282732 | [282732-menara-grass-land.json](./282732-menara-grass-land.json) |
+| Menateus | 72168 | [72168-menateus.json](./72168-menateus.json) |
 | Mencabrona | 299724 | [299724-mencabrona.json](./299724-mencabrona.json) |
 | Mend Arcade Battle | 169959 | [169959-mend-arcade-battle.json](./169959-mend-arcade-battle.json) |
 | Mendacium | 273466 | [273466-mendacium.json](./273466-mendacium.json) |
@@ -4703,6 +4706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator: World Update 18 | 314484 | [314484-microsoft-flight-simulator-world-update-18.json](./314484-microsoft-flight-simulator-world-update-18.json) |
 | Microsoft Garden Pond | 209516 | [209516-microsoft-garden-pond.json](./209516-microsoft-garden-pond.json) |
 | Microsoft Golf 1998 Edition | 77008 | [77008-microsoft-golf-1998-edition.json](./77008-microsoft-golf-1998-edition.json) |
+| Microsoft International Soccer 2000 | 72170 | [72170-microsoft-international-soccer-2000.json](./72170-microsoft-international-soccer-2000.json) |
 | Microsoft Pinball Arcade | 249159 | [249159-microsoft-pinball-arcade.json](./249159-microsoft-pinball-arcade.json) |
 | Microsoft Return of Arcade | 22620 | [22620-microsoft-return-of-arcade.json](./22620-microsoft-return-of-arcade.json) |
 | Microsoft Revenge of Arcade | 84228 | [84228-microsoft-revenge-of-arcade.json](./84228-microsoft-revenge-of-arcade.json) |
@@ -6146,6 +6150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Extreme vs. Maxiboost - On | 128773 | [128773-mobile-suit-gundam-extreme-vs-maxiboost-on.json](./128773-mobile-suit-gundam-extreme-vs-maxiboost-on.json) |
 | Mobile Suit Gundam: Extreme Vs.2 XBoost | 196283 | [196283-mobile-suit-gundam-extreme-vs-2-xboost.json](./196283-mobile-suit-gundam-extreme-vs-2-xboost.json) |
 | Mobile Suit Gundam: Giren no Yabou - Axis No Kyoui V | 56743 | [56743-mobile-suit-gundam-giren-no-yabou-axis-no-kyoui-v.json](./56743-mobile-suit-gundam-giren-no-yabou-axis-no-kyoui-v.json) |
+| Mobile Suit Gundam: Gundam vs. Gundam | 72783 | [72783-mobile-suit-gundam-gundam-vs-gundam.json](./72783-mobile-suit-gundam-gundam-vs-gundam.json) |
 | Mobile Suit Gundam: Lost War Chronicles | 66609 | [66609-mobile-suit-gundam-lost-war-chronicles.json](./66609-mobile-suit-gundam-lost-war-chronicles.json) |
 | Mobile Suit Gundam: One Year War | 66612 | [66612-mobile-suit-gundam-one-year-war.json](./66612-mobile-suit-gundam-one-year-war.json) |
 | Mobile Suit Gundam: Operation - Troy | 7074 | [7074-mobile-suit-gundam-operation-troy.json](./7074-mobile-suit-gundam-operation-troy.json) |
@@ -6381,6 +6386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momentum | 199918 | [199918-momentum.json](./199918-momentum.json) |
 | Momibosu | 151726 | [151726-momibosu.json](./151726-momibosu.json) |
 | Mominesweeper | 224005 | [224005-mominesweeper.json](./224005-mominesweeper.json) |
+| Momma Can I Mow the Lawn? | 72602 | [72602-momma-can-i-mow-the-lawn.json](./72602-momma-can-i-mow-the-lawn.json) |
 | Mommy Don't Hurt Me Mommy Don't Hurt Me Mommy Don't Hurt Me | 398327 | [398327-mommy-dont-hurt-me-mommy-dont-hurt-me-mommy-dont-hurt-me.json](./398327-mommy-dont-hurt-me-mommy-dont-hurt-me-mommy-dont-hurt-me.json) |
 | Mommy-Goddess of Unconditional Love ~Wow, You Sure Gave It Your All Out There!~ | 353289 | [353289-mommy-goddess-of-unconditional-love-wow-you-sure-gave-it-your-all-out-there.json](./353289-mommy-goddess-of-unconditional-love-wow-you-sure-gave-it-your-all-out-there.json) |
 | Momo Bunny: Cash Me or Crash Me!! | 369117 | [369117-momo-bunny-cash-me-or-crash-me.json](./369117-momo-bunny-cash-me-or-crash-me.json) |
@@ -6858,6 +6864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Prom: XXL | 132997 | [132997-monster-prom-xxl.json](./132997-monster-prom-xxl.json) |
 | Monster Pub | 100561 | [100561-monster-pub.json](./100561-monster-pub.json) |
 | Monster Puzzle | 130827 | [130827-monster-puzzle.json](./130827-monster-puzzle.json) |
+| Monster Racers | 72742 | [72742-monster-racers.json](./72742-monster-racers.json) |
 | Monster Radar | 94189 | [94189-monster-radar.json](./94189-monster-radar.json) |
 | Monster Rancher | 4104 | [4104-monster-rancher.json](./4104-monster-rancher.json) |
 | Monster Rancher Battle Card GB | 104241 | [104241-monster-rancher-battle-card-gb.json](./104241-monster-rancher-battle-card-gb.json) |
@@ -9370,6 +9377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MythBusters: The First Experiment | 199095 | [199095-mythbusters-the-first-experiment.json](./199095-mythbusters-the-first-experiment.json) |
 | Mythfall | 304752 | [304752-mythfall.json](./304752-mythfall.json) |
 | Mythia | 299866 | [299866-mythia.json](./299866-mythia.json) |
+| Mythic Blades | 72740 | [72740-mythic-blades.json](./72740-mythic-blades.json) |
 | Mythic Defender | 195616 | [195616-mythic-defender.json](./195616-mythic-defender.json) |
 | Mythic Dreams | 276759 | [276759-mythic-dreams.json](./276759-mythic-dreams.json) |
 | Mythic Love: Iberian Legends | 386288 | [386288-mythic-love-iberian-legends.json](./386288-mythic-love-iberian-legends.json) |
