@@ -708,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicka 2 | 9807 | [9807-magicka-2.json](./9807-magicka-2.json) |
 | Magicka 2 Complete Collection | 321760 | [321760-magicka-2-complete-collection.json](./321760-magicka-2-complete-collection.json) |
 | Magicka 2 Upgrade Pack | 321759 | [321759-magicka-2-upgrade-pack.json](./321759-magicka-2-upgrade-pack.json) |
+| Magicka 2: Special Edition | 118926 | [118926-magicka-2-special-edition.json](./118926-magicka-2-special-edition.json) |
 | Magicka 2: Three Cardinals Robe Pack | 321758 | [321758-magicka-2-three-cardinals-robe-pack.json](./321758-magicka-2-three-cardinals-robe-pack.json) |
 | Magicka Complete Edition | 384629 | [384629-magicka-complete-edition.json](./384629-magicka-complete-edition.json) |
 | Magicka: Final Frontier | 50819 | [50819-magicka-final-frontier.json](./50819-magicka-final-frontier.json) |
@@ -2944,6 +2945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MedCorps | 58758 | [58758-medcorps.json](./58758-medcorps.json) |
 | MedEvil | 262289 | [262289-medevil.json](./262289-medevil.json) |
 | MediAevi | 383479 | [383479-mediaevi.json](./383479-mediaevi.json) |
+| Mediatonic Combo! | 118915 | [118915-mediatonic-combo.json](./118915-mediatonic-combo.json) |
 | Mediator | 355237 | [355237-mediator.json](./355237-mediator.json) |
 | Medic Mayhem | 406680 | [406680-medic-mayhem.json](./406680-medic-mayhem.json) |
 | Medical Record Sheet | 253003 | [253003-medical-record-sheet.json](./253003-medical-record-sheet.json) |
@@ -4051,6 +4053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid: Portable Ops Plus - Deluxe Pack | 294698 | [294698-metal-gear-solid-portable-ops-plus-deluxe-pack.json](./294698-metal-gear-solid-portable-ops-plus-deluxe-pack.json) |
 | Metal Gear Solid: Snake Eater 3D | 21073 | [21073-metal-gear-solid-snake-eater-3d.json](./21073-metal-gear-solid-snake-eater-3d.json) |
 | Metal Gear Solid: The Legacy Collection | 20196 | [20196-metal-gear-solid-the-legacy-collection.json](./20196-metal-gear-solid-the-legacy-collection.json) |
+| Metal Gear Survive: Digital Deluxe Edition | 119085 | [119085-metal-gear-survive-digital-deluxe-edition.json](./119085-metal-gear-survive-digital-deluxe-edition.json) |
 | Metal Gear: Ghost Babel | 5600 | [5600-metal-gear-ghost-babel.json](./5600-metal-gear-ghost-babel.json) |
 | Metal Glove: Exodus | 235458 | [235458-metal-glove-exodus.json](./235458-metal-glove-exodus.json) |
 | Metal Goose | 388948 | [388948-metal-goose.json](./388948-metal-goose.json) |
@@ -5900,6 +5903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Tap Sports Baseball 2017 | 90064 | [90064-mlb-tap-sports-baseball-2017.json](./90064-mlb-tap-sports-baseball-2017.json) |
 | MLB Tap Sports Baseball 2020 | 220210 | [220210-mlb-tap-sports-baseball-2020.json](./220210-mlb-tap-sports-baseball-2020.json) |
 | MLB Tap Sports Baseball 2022 | 196590 | [196590-mlb-tap-sports-baseball-2022.json](./196590-mlb-tap-sports-baseball-2022.json) |
+| MLB The Show 18: Digital Deluxe Edition | 118909 | [118909-mlb-the-show-18-digital-deluxe-edition.json](./118909-mlb-the-show-18-digital-deluxe-edition.json) |
 | MLB The Show 19: MVP Edition | 119070 | [119070-mlb-the-show-19-mvp-edition.json](./119070-mlb-the-show-19-mvp-edition.json) |
 | MLB The Show 20 | 125013 | [125013-mlb-the-show-20.json](./125013-mlb-the-show-20.json) |
 | MLB The Show 21 | 143260 | [143260-mlb-the-show-21.json](./143260-mlb-the-show-21.json) |
@@ -7819,6 +7823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MTX Mototrax | 5935 | [5935-mtx-mototrax.json](./5935-mtx-mototrax.json) |
 | MU Legend | 57366 | [57366-mu-legend.json](./57366-mu-legend.json) |
 | Mu Old Times | 331948 | [331948-mu-old-times.json](./331948-mu-old-times.json) |
+| Mu Origin 2 | 118923 | [118923-mu-origin-2.json](./118923-mu-origin-2.json) |
 | MU Origin 3 | 188380 | [188380-mu-origin-3.json](./188380-mu-origin-3.json) |
 | Mu: Dark Epoch | 323723 | [323723-mu-dark-epoch.json](./323723-mu-dark-epoch.json) |
 | Muay Thai | 349887 | [349887-muay-thai.json](./349887-muay-thai.json) |
