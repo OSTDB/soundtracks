@@ -1048,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Abyss: Deluxe Edition | 169182 | [169182-neon-abyss-deluxe-edition.json](./169182-neon-abyss-deluxe-edition.json) |
 | Neon Baller 0.1 | 151706 | [151706-neon-baller-0-1.json](./151706-neon-baller-0-1.json) |
 | Neon Bash | 301804 | [301804-neon-bash.json](./301804-neon-bash.json) |
+| Neon Battle | 85607 | [85607-neon-battle.json](./85607-neon-battle.json) |
 | Neon Beat Rider | 163739 | [163739-neon-beat-rider.json](./163739-neon-beat-rider.json) |
 | Neon Beats | 197652 | [197652-neon-beats.json](./197652-neon-beats.json) |
 | Neon Blocks 87 | 90814 | [90814-neon-blocks-87.json](./90814-neon-blocks-87.json) |
@@ -2196,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Brigade feat. Jonah Weingarten | 146101 | [146101-ninja-brigade-feat-jonah-weingarten.json](./146101-ninja-brigade-feat-jonah-weingarten.json) |
 | Ninja Bros. | 92063 | [92063-ninja-bros.json](./92063-ninja-bros.json) |
 | Ninja Bullets | 25755 | [25755-ninja-bullets.json](./25755-ninja-bullets.json) |
+| Ninja Captains | 85604 | [85604-ninja-captains.json](./85604-ninja-captains.json) |
 | Ninja Cat Remewstered | 406931 | [406931-ninja-cat-remewstered.json](./406931-ninja-cat-remewstered.json) |
 | Ninja Cats vs Samurai Dogs | 16795 | [16795-ninja-cats-vs-samurai-dogs.json](./16795-ninja-cats-vs-samurai-dogs.json) |
 | Ninja Cats: Tactics | 361799 | [361799-ninja-cats-tactics.json](./361799-ninja-cats-tactics.json) |
