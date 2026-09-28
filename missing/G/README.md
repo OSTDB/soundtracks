@@ -2733,6 +2733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Axe | 5565 | [5565-golden-axe.json](./5565-golden-axe.json) |
 | Golden Axe Classics | 202829 | [202829-golden-axe-classics.json](./202829-golden-axe-classics.json) |
 | Golden Axe III Redux | 219271 | [219271-golden-axe-iii-redux.json](./219271-golden-axe-iii-redux.json) |
+| Golden Axe Legend | 71584 | [71584-golden-axe-legend.json](./71584-golden-axe-legend.json) |
 | Golden Axe Plus | 233605 | [233605-golden-axe-plus.json](./233605-golden-axe-plus.json) |
 | Golden Axe: The Curse of Death Adder | 198345 | [198345-golden-axe-the-curse-of-death-adder.json](./198345-golden-axe-the-curse-of-death-adder.json) |
 | Golden Axe: The Duel | 39349 | [39349-golden-axe-the-duel.json](./39349-golden-axe-the-duel.json) |
@@ -2784,6 +2785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Sun QOL | 269063 | [269063-golden-sun-qol.json](./269063-golden-sun-qol.json) |
 | Golden Sun The Lost Age: Anniversary Mod | 269061 | [269061-golden-sun-the-lost-age-anniversary-mod.json](./269061-golden-sun-the-lost-age-anniversary-mod.json) |
 | Golden Swords | 31195 | [31195-golden-swords.json](./31195-golden-swords.json) |
+| Golden Tee | 72781 | [72781-golden-tee.json](./72781-golden-tee.json) |
 | Golden Tee 2017 | 55848 | [55848-golden-tee-2017.json](./55848-golden-tee-2017.json) |
 | Golden Tee 2018 | 82145 | [82145-golden-tee-2018.json](./82145-golden-tee-2018.json) |
 | Golden Tee PGA Tour | 337445 | [337445-golden-tee-pga-tour.json](./337445-golden-tee-pga-tour.json) |
@@ -3355,6 +3357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix Evolution | 54063 | [54063-grand-prix-evolution.json](./54063-grand-prix-evolution.json) |
 | Grand Prix Formula One | 314865 | [314865-grand-prix-formula-one.json](./314865-grand-prix-formula-one.json) |
 | Grand Prix Manager | 78019 | [78019-grand-prix-manager.json](./78019-grand-prix-manager.json) |
+| Grand Prix Manager 2 | 71439 | [71439-grand-prix-manager-2.json](./71439-grand-prix-manager-2.json) |
 | Grand Prix Multiplication | 397211 | [397211-grand-prix-multiplication.json](./397211-grand-prix-multiplication.json) |
 | Grand Prix Racing | 147355 | [147355-grand-prix-racing.json](./147355-grand-prix-racing.json) |
 | Grand Prix Simulator | 13861 | [13861-grand-prix-simulator.json](./13861-grand-prix-simulator.json) |
@@ -4480,6 +4483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Praise: Expansion Pack 1 | 240173 | [240173-guitar-praise-expansion-pack-1.json](./240173-guitar-praise-expansion-pack-1.json) |
 | Guitar Praise: Solid Rock | 72638 | [72638-guitar-praise-solid-rock.json](./72638-guitar-praise-solid-rock.json) |
 | Guitar Praise: Stryper | 240172 | [240172-guitar-praise-stryper.json](./240172-guitar-praise-stryper.json) |
+| Guitar Rising | 72739 | [72739-guitar-rising.json](./72739-guitar-rising.json) |
 | Guitar Star | 267958 | [267958-guitar-star.json](./267958-guitar-star.json) |
 | Guitar Tuner 360 | 77410 | [77410-guitar-tuner-360.json](./77410-guitar-tuner-360.json) |
 | GuitarFreaks 3rdMix | 97122 | [97122-guitarfreaks-3rdmix.json](./97122-guitarfreaks-3rdmix.json) |
@@ -4489,6 +4493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GuitarFreaks 5thMix & DrumMania 4thMix | 97123 | [97123-guitarfreaks-5thmix-and-drummania-4thmix.json](./97123-guitarfreaks-5thmix-and-drummania-4thmix.json) |
 | GuitarFreaks 6thMix | 97121 | [97121-guitarfreaks-6thmix.json](./97121-guitarfreaks-6thmix.json) |
 | GuitarFreaks 7thMix | 104225 | [104225-guitarfreaks-7thmix.json](./104225-guitarfreaks-7thmix.json) |
+| GuitarFreaks 8thMix & DrumMania 7thMix | 72779 | [72779-guitarfreaks-8thmix-and-drummania-7thmix.json](./72779-guitarfreaks-8thmix-and-drummania-7thmix.json) |
 | GuitarFreaks V & DrumMania V | 78691 | [78691-guitarfreaks-v-and-drummania-v.json](./78691-guitarfreaks-v-and-drummania-v.json) |
 | GuitarFreaks V7 & DrumMania V7 | 383024 | [383024-guitarfreaks-v7-and-drummania-v7.json](./383024-guitarfreaks-v7-and-drummania-v7.json) |
 | Guītú | 156699 | [156699-guitu.json](./156699-guitu.json) |
@@ -4609,6 +4614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Battle Assault 2 | 45007 | [45007-gundam-battle-assault-2.json](./45007-gundam-battle-assault-2.json) |
 | Gundam Battle Online | 107166 | [107166-gundam-battle-online.json](./107166-gundam-battle-online.json) |
 | Gundam Battle Operation Next | 44538 | [44538-gundam-battle-operation-next.json](./44538-gundam-battle-operation-next.json) |
+| Gundam Battle Universe | 72752 | [72752-gundam-battle-universe.json](./72752-gundam-battle-universe.json) |
 | Gundam Battle: Gunpla Warfare | 120305 | [120305-gundam-battle-gunpla-warfare.json](./120305-gundam-battle-gunpla-warfare.json) |
 | Gundam Breaker | 45290 | [45290-gundam-breaker.json](./45290-gundam-breaker.json) |
 | Gundam Breaker 2 | 44552 | [44552-gundam-breaker-2.json](./44552-gundam-breaker-2.json) |
