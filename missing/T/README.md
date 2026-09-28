@@ -3682,6 +3682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Doll Shop | 123627 | [123627-the-doll-shop.json](./123627-the-doll-shop.json) |
 | The Dollmaker | 272919 | [272919-the-dollmaker.json](./272919-the-dollmaker.json) |
 | The Donald Trump Simulator | 144237 | [144237-the-donald-trump-simulator.json](./144237-the-donald-trump-simulator.json) |
+| The Donnerwald Experiment | 100339 | [100339-the-donnerwald-experiment.json](./100339-the-donnerwald-experiment.json) |
 | The Donut Gallery | 386735 | [386735-the-donut-gallery.json](./386735-the-donut-gallery.json) |
 | The Doom Beneath | 175429 | [175429-the-doom-beneath.json](./175429-the-doom-beneath.json) |
 | The Door | 150501 | [150501-the-door.json](./150501-the-door.json) |
@@ -6731,6 +6732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Richmond Rut: In Search of Fenton | 252677 | [252677-the-richmond-rut-in-search-of-fenton.json](./252677-the-richmond-rut-in-search-of-fenton.json) |
 | The Riddle Room | 53782 | [53782-the-riddle-room.json](./53782-the-riddle-room.json) |
 | The Riddle Room 2 | 53781 | [53781-the-riddle-room-2.json](./53781-the-riddle-room-2.json) |
+| The Ridiculous Hat | 100351 | [100351-the-ridiculous-hat.json](./100351-the-ridiculous-hat.json) |
 | The Riflemen | 207311 | [207311-the-riflemen.json](./207311-the-riflemen.json) |
 | The Rift | 116300 | [116300-the-rift.json](./116300-the-rift.json) |
 | The Rift | 343276 | [343276-the-rift.json](./343276-the-rift.json) |
