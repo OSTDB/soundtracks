@@ -2342,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Together | 151068 | [151068-escape-together.json](./151068-escape-together.json) |
 | Escape Velocity | 377579 | [377579-escape-velocity.json](./377579-escape-velocity.json) |
 | Escape Velocity Nova | 50144 | [50144-escape-velocity-nova.json](./50144-escape-velocity-nova.json) |
+| Escape Void | 96245 | [96245-escape-void.json](./96245-escape-void.json) |
 | Escape War | 153960 | [153960-escape-war.json](./153960-escape-war.json) |
 | Escape Whisper Valley | 61673 | [61673-escape-whisper-valley.json](./61673-escape-whisper-valley.json) |
 | Escape With Bombs | 179134 | [179134-escape-with-bombs.json](./179134-escape-with-bombs.json) |
@@ -2505,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Dread 2 | 126955 | [126955-eternal-dread-2.json](./126955-eternal-dread-2.json) |
 | Eternal Dreamers | 140609 | [140609-eternal-dreamers.json](./140609-eternal-dreamers.json) |
 | Eternal Dungeon | 140589 | [140589-eternal-dungeon.json](./140589-eternal-dungeon.json) |
+| Eternal Edge | 96251 | [96251-eternal-edge.json](./96251-eternal-edge.json) |
 | Eternal Empires | 74388 | [74388-eternal-empires.json](./74388-eternal-empires.json) |
 | Eternal End | 295369 | [295369-eternal-end.json](./295369-eternal-end.json) |
 | Eternal Escape: Castle of Shadows | 307108 | [307108-eternal-escape-castle-of-shadows.json](./307108-eternal-escape-castle-of-shadows.json) |
