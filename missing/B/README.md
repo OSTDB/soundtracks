@@ -2910,6 +2910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Magic | 32941 | [32941-beyond-magic.json](./32941-beyond-magic.json) |
 | Beyond Memoria | 386302 | [386302-beyond-memoria.json](./386302-beyond-memoria.json) |
 | Beyond Memories: Darkness of the Soul | 328568 | [328568-beyond-memories-darkness-of-the-soul.json](./328568-beyond-memories-darkness-of-the-soul.json) |
+| Beyond Minimalism | 102923 | [102923-beyond-minimalism.json](./102923-beyond-minimalism.json) |
 | Beyond Perception | 108845 | [108845-beyond-perception.json](./108845-beyond-perception.json) |
 | Beyond Protocol | 72646 | [72646-beyond-protocol.json](./72646-beyond-protocol.json) |
 | Beyond Sandbox | 399220 | [399220-beyond-sandbox.json](./399220-beyond-sandbox.json) |
@@ -5991,6 +5992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bozalleth's Curse | 267088 | [267088-bozalleths-curse.json](./267088-bozalleths-curse.json) |
 | BP Ultimate Rally Challenge | 323851 | [323851-bp-ultimate-rally-challenge.json](./323851-bp-ultimate-rally-challenge.json) |
 | Bpop Attack | 319953 | [319953-bpop-attack.json](./319953-bpop-attack.json) |
+| BQM: BlockQuest Maker | 102940 | [102940-bqm-blockquest-maker.json](./102940-bqm-blockquest-maker.json) |
 | BQM: BlockQuest Maker - 1st DLC: Samurai Era | 237970 | [237970-bqm-blockquest-maker-1st-dlc-samurai-era.json](./237970-bqm-blockquest-maker-1st-dlc-samurai-era.json) |
 | BQM: BlockQuest Maker - 2nd DLC: Cyber Century | 237969 | [237969-bqm-blockquest-maker-2nd-dlc-cyber-century.json](./237969-bqm-blockquest-maker-2nd-dlc-cyber-century.json) |
 | BQM: BlockQuest Maker - Remastered | 235208 | [235208-bqm-blockquest-maker-remastered.json](./235208-bqm-blockquest-maker-remastered.json) |
