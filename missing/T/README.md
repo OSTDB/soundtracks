@@ -377,7 +377,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taito Arcade 3 | 393613 | [393613-taito-arcade-3.json](./393613-taito-arcade-3.json) |
 | Taito Chase H.Q. | 48629 | [48629-taito-chase-h-q.json](./48629-taito-chase-h-q.json) |
 | Taito Legends 2 | 267186 | [267186-taito-legends-2.json](./267186-taito-legends-2.json) |
+| Taito Memories Gekan | 72792 | [72792-taito-memories-gekan.json](./72792-taito-memories-gekan.json) |
 | Taito Memories II Gekan | 94711 | [94711-taito-memories-ii-gekan.json](./94711-taito-memories-ii-gekan.json) |
+| Taito Memories Joukan | 72791 | [72791-taito-memories-joukan.json](./72791-taito-memories-joukan.json) |
 | Taito Memories Pocket | 71784 | [71784-taito-memories-pocket.json](./71784-taito-memories-pocket.json) |
 | Taival | 398552 | [398552-taival.json](./398552-taival.json) |
 | Taiwan 2013 | 291988 | [291988-taiwan-2013.json](./291988-taiwan-2013.json) |
@@ -2014,6 +2016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraGenesis: Landfall | 213339 | [213339-terragenesis-landfall.json](./213339-terragenesis-landfall.json) |
 | Terrahawks: The Battlehawk | 385725 | [385725-terrahawks-the-battlehawk.json](./385725-terrahawks-the-battlehawk.json) |
 | Terrain Defender | 402381 | [402381-terrain-defender.json](./402381-terrain-defender.json) |
+| Terrain of Magical Expertise | 72762 | [72762-terrain-of-magical-expertise.json](./72762-terrain-of-magical-expertise.json) |
 | TerraMartis4x | 157050 | [157050-terramartis4x.json](./157050-terramartis4x.json) |
 | Terranigma | 9633 | [9633-terranigma.json](./9633-terranigma.json) |
 | TerranLands | 258513 | [258513-terranlands.json](./258513-terranlands.json) |
@@ -2844,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beyond Of Fears: New House | 304876 | [304876-the-beyond-of-fears-new-house.json](./304876-the-beyond-of-fears-new-house.json) |
 | The Beziér Game | 138840 | [138840-the-bezier-game.json](./138840-the-bezier-game.json) |
 | The Bible Game | 225574 | [225574-the-bible-game.json](./225574-the-bible-game.json) |
+| The Bibleman | 72773 | [72773-the-bibleman.json](./72773-the-bibleman.json) |
 | The Bibleman Videogame Adventure: A Fight for Faith | 206659 | [206659-the-bibleman-videogame-adventure-a-fight-for-faith.json](./206659-the-bibleman-videogame-adventure-a-fight-for-faith.json) |
 | The Big Bang Theory Game | 325084 | [325084-the-big-bang-theory-game.json](./325084-the-big-bang-theory-game.json) |
 | The Big Capitalist 3 | 106758 | [106758-the-big-capitalist-3.json](./106758-the-big-capitalist-3.json) |
@@ -10298,6 +10302,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timothy: Shinpi no Mori | 189132 | [189132-timothy-shinpi-no-mori.json](./189132-timothy-shinpi-no-mori.json) |
 | Timruk | 191816 | [191816-timruk.json](./191816-timruk.json) |
 | Tin Can: Original Tracks | 293774 | [293774-tin-can-original-tracks.json](./293774-tin-can-original-tracks.json) |
+| Tin Soldiers: Alexander the Great | 72757 | [72757-tin-soldiers-alexander-the-great.json](./72757-tin-soldiers-alexander-the-great.json) |
+| Tin Soldiers: Julius Caesar | 72758 | [72758-tin-soldiers-julius-caesar.json](./72758-tin-soldiers-julius-caesar.json) |
 | Tin Star | 104677 | [104677-tin-star.json](./104677-tin-star.json) |
 | Tin Tandem | 152396 | [152396-tin-tandem.json](./152396-tin-tandem.json) |
 | Tin-Heart: The Game | 104243 | [104243-tin-heart-the-game.json](./104243-tin-heart-the-game.json) |
@@ -14487,6 +14493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Ruin | 119729 | [119729-twin-ruin.json](./119729-twin-ruin.json) |
 | Twin Shot 2: Good & Evil | 180291 | [180291-twin-shot-2-good-and-evil.json](./180291-twin-shot-2-good-and-evil.json) |
 | Twin Sisters Ballerina: Dance, Ballet, Dress up | 95845 | [95845-twin-sisters-ballerina-dance-ballet-dress-up.json](./95845-twin-sisters-ballerina-dance-ballet-dress-up.json) |
+| Twin Skies | 72775 | [72775-twin-skies.json](./72775-twin-skies.json) |
 | Twin Soul | 356067 | [356067-twin-soul.json](./356067-twin-soul.json) |
 | Twin Soul | 96113 | [96113-twin-soul.json](./96113-twin-soul.json) |
 | Twin Stick Heroes | 141875 | [141875-twin-stick-heroes.json](./141875-twin-stick-heroes.json) |
