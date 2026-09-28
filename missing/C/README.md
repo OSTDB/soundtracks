@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Box U | 402983 | [402983-candy-box-u.json](./402983-candy-box-u.json) |
 | Candy Boy | 217021 | [217021-candy-boy.json](./217021-candy-boy.json) |
 | Candy Brain | 393796 | [393796-candy-brain.json](./393796-candy-brain.json) |
+| Candy Chefs | 104775 | [104775-candy-chefs.json](./104775-candy-chefs.json) |
 | Candy Country: Sweet Wonder | 338003 | [338003-candy-country-sweet-wonder.json](./338003-candy-country-sweet-wonder.json) |
 | Candy Coven | 177943 | [177943-candy-coven.json](./177943-candy-coven.json) |
 | Candy Creeps | 227814 | [227814-candy-creeps.json](./227814-candy-creeps.json) |
@@ -560,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canidae | 336517 | [336517-canidae.json](./336517-canidae.json) |
 | Canine Derby Manager | 402491 | [402491-canine-derby-manager.json](./402491-canine-derby-manager.json) |
 | Cannery Vale | 216339 | [216339-cannery-vale.json](./216339-cannery-vale.json) |
+| Cannibal | 104785 | [104785-cannibal.json](./104785-cannibal.json) |
 | Cannibal | 299444 | [299444-cannibal.json](./299444-cannibal.json) |
 | Cannibal Cookout: Lines | 238982 | [238982-cannibal-cookout-lines.json](./238982-cannibal-cookout-lines.json) |
 | Cannibal Court | 395205 | [395205-cannibal-court.json](./395205-cannibal-court.json) |
@@ -6030,6 +6032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cordelia | 248044 | [248044-cordelia.json](./248044-cordelia.json) |
 | Cordial Minuet | 97298 | [97298-cordial-minuet.json](./97298-cordial-minuet.json) |
 | Core | 400887 | [400887-core.json](./400887-core.json) |
+| Core Awaken: The Yuka | 104814 | [104814-core-awaken-the-yuka.json](./104814-core-awaken-the-yuka.json) |
 | Core Awakening | 290504 | [290504-core-awakening.json](./290504-core-awakening.json) |
 | Core Blaze | 28130 | [28130-core-blaze.json](./28130-core-blaze.json) |
 | Core Decay | 132771 | [132771-core-decay.json](./132771-core-decay.json) |
