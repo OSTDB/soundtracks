@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Empires | 372697 | [372697-idle-empires.json](./372697-idle-empires.json) |
 | Idle Exorcism Hero | 270167 | [270167-idle-exorcism-hero.json](./270167-idle-exorcism-hero.json) |
 | Idle Expanse | 138599 | [138599-idle-expanse.json](./138599-idle-expanse.json) |
+| Idle Factory Tycoon | 99142 | [99142-idle-factory-tycoon.json](./99142-idle-factory-tycoon.json) |
 | Idle Farming Tycoon Empire | 175877 | [175877-idle-farming-tycoon-empire.json](./175877-idle-farming-tycoon-empire.json) |
 | Idle Fitness Gym Tycoon | 392447 | [392447-idle-fitness-gym-tycoon.json](./392447-idle-fitness-gym-tycoon.json) |
 | Idle Flipper | 87666 | [87666-idle-flipper.json](./87666-idle-flipper.json) |
