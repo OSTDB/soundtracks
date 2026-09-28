@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakeochi | 415133 | [415133-kakeochi.json](./415133-kakeochi.json) |
 | Kakikuku Jump! | 234590 | [234590-kakikuku-jump.json](./234590-kakikuku-jump.json) |
 | Kakinoki Shogi | 37968 | [37968-kakinoki-shogi.json](./37968-kakinoki-shogi.json) |
+| Kakka to Ma no Tsuku Present!? | 97507 | [97507-kakka-to-ma-no-tsuku-present.json](./97507-kakka-to-ma-no-tsuku-present.json) |
 | Kakkouke | 284341 | [284341-kakkouke.json](./284341-kakkouke.json) |
 | Kako Yatai | 283807 | [283807-kako-yatai.json](./283807-kako-yatai.json) |
 | Kakosatsu | 109181 | [109181-kakosatsu.json](./109181-kakosatsu.json) |
@@ -989,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Learn Animal Words | 97915 | [97915-kids-learn-animal-words.json](./97915-kids-learn-animal-words.json) |
 | Kids Learn to Sort | 246973 | [246973-kids-learn-to-sort.json](./246973-kids-learn-to-sort.json) |
 | Kids of Karendow | 157052 | [157052-kids-of-karendow.json](./157052-kids-of-karendow.json) |
+| Kids on Keys | 97482 | [97482-kids-on-keys.json](./97482-kids-on-keys.json) |
 | Kids Preschool Puzzles | 323152 | [323152-kids-preschool-puzzles.json](./323152-kids-preschool-puzzles.json) |
 | Kids Puzzle - 2 in 1 Bundle | 231048 | [231048-kids-puzzle-2-in-1-bundle.json](./231048-kids-puzzle-2-in-1-bundle.json) |
 | Kids Station: Asobou! Hanasou! Guru-guru Town Hanamaru-kun | 148374 | [148374-kids-station-asobou-hanasou-guru-guru-town-hanamaru-kun.json](./148374-kids-station-asobou-hanasou-guru-guru-town-hanamaru-kun.json) |
@@ -1014,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidz | 105088 | [105088-kidz.json](./105088-kidz.json) |
 | Kidz Bop Dance Party! | 208325 | [208325-kidz-bop-dance-party.json](./208325-kidz-bop-dance-party.json) |
 | Kiem Ma 3D | 224032 | [224032-kiem-ma-3d.json](./224032-kiem-ma-3d.json) |
+| Kieta Sekai to Tsuki to Shoujo: The World was Prayed by The Girl Living A Thousand Years | 97462 | [97462-kieta-sekai-to-tsuki-to-shoujo-the-world-was-prayed-by-the-girl-living-a-thousand-years.json](./97462-kieta-sekai-to-tsuki-to-shoujo-the-world-was-prayed-by-the-girl-living-a-thousand-years.json) |
 | Kigurumi Kombat | 74757 | [74757-kigurumi-kombat.json](./74757-kigurumi-kombat.json) |
 | Kiipluu | 360602 | [360602-kiipluu.json](./360602-kiipluu.json) |
 | Kiitsu | 96734 | [96734-kiitsu.json](./96734-kiitsu.json) |
@@ -1283,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Cribbage | 73223 | [73223-king-cribbage.json](./73223-king-cribbage.json) |
 | King Datchi | 244890 | [244890-king-datchi.json](./244890-king-datchi.json) |
 | King Erik | 112725 | [112725-king-erik.json](./112725-king-erik.json) |
+| King Flappy | 97460 | [97460-king-flappy.json](./97460-king-flappy.json) |
 | King God Domain | 159726 | [159726-king-god-domain.json](./159726-king-god-domain.json) |
 | King Hajwala | 153867 | [153867-king-hajwala.json](./153867-king-hajwala.json) |
 | King in the Mountain | 408930 | [408930-king-in-the-mountain.json](./408930-king-in-the-mountain.json) |
