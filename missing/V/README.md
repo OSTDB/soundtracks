@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V tylu vraga 2: Brat'ya po oruzhiyu | 383942 | [383942-v-tylu-vraga-2-bratya-po-oruzhiyu.json](./383942-v-tylu-vraga-2-bratya-po-oruzhiyu.json) |
 | V tylu vraga: Diversanty 3 | 383941 | [383941-v-tylu-vraga-diversanty-3.json](./383941-v-tylu-vraga-diversanty-3.json) |
 | V-Goal Soccer '96 | 37199 | [37199-v-goal-soccer-96.json](./37199-v-goal-soccer-96.json) |
+| V-Katsu | 106135 | [106135-v-katsu.json](./106135-v-katsu.json) |
 | V-Lover! | 351035 | [351035-v-lover.json](./351035-v-lover.json) |
 | V-Master Cross | 240903 | [240903-v-master-cross.json](./240903-v-master-cross.json) |
 | V-Pong | 272844 | [272844-v-pong.json](./272844-v-pong.json) |
@@ -1498,6 +1499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volontés | 347170 | [347170-volontes.json](./347170-volontes.json) |
 | Volos | 93070 | [93070-volos.json](./93070-volos.json) |
 | Volot: Red Odyssey | 157120 | [157120-volot-red-odyssey.json](./157120-volot-red-odyssey.json) |
+| Volseons | 106121 | [106121-volseons.json](./106121-volseons.json) |
 | Volt | 36350 | [36350-volt.json](./36350-volt.json) |
 | Volt Snake | 413058 | [413058-volt-snake.json](./413058-volt-snake.json) |
 | Voltage Fighter Gowcaizer | 39590 | [39590-voltage-fighter-gowcaizer.json](./39590-voltage-fighter-gowcaizer.json) |
