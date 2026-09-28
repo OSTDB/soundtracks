@@ -671,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Visit | 149944 | [149944-last-visit.json](./149944-last-visit.json) |
 | Last Voyage of the Aqualus | 282615 | [282615-last-voyage-of-the-aqualus.json](./282615-last-voyage-of-the-aqualus.json) |
 | Last Walpurgis | 255051 | [255051-last-walpurgis.json](./255051-last-walpurgis.json) |
+| Last War 2044 | 89406 | [89406-last-war-2044.json](./89406-last-war-2044.json) |
 | Last Week | 123003 | [123003-last-week.json](./123003-last-week.json) |
 | Last Week of a King | 288227 | [288227-last-week-of-a-king.json](./288227-last-week-of-a-king.json) |
 | Last Wish | 111074 | [111074-last-wish.json](./111074-last-wish.json) |
@@ -3732,6 +3733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Ball | 101111 | [101111-love-ball.json](./101111-love-ball.json) |
 | Love Bites | 254451 | [254451-love-bites.json](./254451-love-bites.json) |
 | Love Breakout | 280176 | [280176-love-breakout.json](./280176-love-breakout.json) |
+| Love Chronicles: Salvation - Collector's Edition | 89407 | [89407-love-chronicles-salvation-collectors-edition.json](./89407-love-chronicles-salvation-collectors-edition.json) |
 | Love Collection 4-in-1 | 404259 | [404259-love-collection-4-in-1.json](./404259-love-collection-4-in-1.json) |
 | Love Colors: Everyday Pixels | 195230 | [195230-love-colors-everyday-pixels.json](./195230-love-colors-everyday-pixels.json) |
 | Love Colors: Pixel Seasons | 195229 | [195229-love-colors-pixel-seasons.json](./195229-love-colors-pixel-seasons.json) |
