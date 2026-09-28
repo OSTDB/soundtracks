@@ -781,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden of Aiden | 295843 | [295843-garden-of-aiden.json](./295843-garden-of-aiden.json) |
 | Garden of Butterflies | 353283 | [353283-garden-of-butterflies.json](./353283-garden-of-butterflies.json) |
 | Garden of Coloured Lights | 107235 | [107235-garden-of-coloured-lights.json](./107235-garden-of-coloured-lights.json) |
+| Garden of Eden | 82178 | [82178-garden-of-eden.json](./82178-garden-of-eden.json) |
 | Garden of Fear | 116451 | [116451-garden-of-fear.json](./116451-garden-of-fear.json) |
 | Garden of Mooj | 118061 | [118061-garden-of-mooj.json](./118061-garden-of-mooj.json) |
 | Garden of Pets | 233004 | [233004-garden-of-pets.json](./233004-garden-of-pets.json) |
@@ -1795,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gift for You | 290702 | [290702-gift-for-you.json](./290702-gift-for-you.json) |
 | Gift Giving Up | 141746 | [141746-gift-giving-up.json](./141746-gift-giving-up.json) |
 | Gift of Life: Key of Solomon | 88228 | [88228-gift-of-life-key-of-solomon.json](./88228-gift-of-life-key-of-solomon.json) |
+| Gift of Spring | 82189 | [82189-gift-of-spring.json](./82189-gift-of-spring.json) |
 | Gift Quest: Christmas Edition | 255643 | [255643-gift-quest-christmas-edition.json](./255643-gift-quest-christmas-edition.json) |
 | Gift Quest: Valentine's Day | 255655 | [255655-gift-quest-valentines-day.json](./255655-gift-quest-valentines-day.json) |
 | Gift Scavenger | 122962 | [122962-gift-scavenger.json](./122962-gift-scavenger.json) |
