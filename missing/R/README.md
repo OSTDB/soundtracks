@@ -1580,6 +1580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reclamation of Xanthros | 298177 | [298177-reclamation-of-xanthros.json](./298177-reclamation-of-xanthros.json) |
 | Reclaym the Kingdom | 301899 | [301899-reclaym-the-kingdom.json](./301899-reclaym-the-kingdom.json) |
 | Reclusive | 240755 | [240755-reclusive.json](./240755-reclusive.json) |
+| Reco Love: Blue Ocean/Gold Beach | 77423 | [77423-reco-love-blue-ocean-gold-beach.json](./77423-reco-love-blue-ocean-gold-beach.json) |
 | Recognition Test 23 | 246676 | [246676-recognition-test-23.json](./246676-recognition-test-23.json) |
 | Recoil | 117276 | [117276-recoil.json](./117276-recoil.json) |
 | Recoil | 277347 | [277347-recoil.json](./277347-recoil.json) |
@@ -3434,6 +3435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rinse and Repeat | 13158 | [13158-rinse-and-repeat.json](./13158-rinse-and-repeat.json) |
 | Rinse and Repeat | 286576 | [286576-rinse-and-repeat.json](./286576-rinse-and-repeat.json) |
 | Rinth Island | 22333 | [22333-rinth-island.json](./22333-rinth-island.json) |
+| Rio Blackjack | 77271 | [77271-rio-blackjack.json](./77271-rio-blackjack.json) |
 | Rio Rex | 102223 | [102223-rio-rex.json](./102223-rio-rex.json) |
 | Rio Rise | 397904 | [397904-rio-rise.json](./397904-rio-rise.json) |
 | Rio Warzone | 150699 | [150699-rio-warzone.json](./150699-rio-warzone.json) |
