@@ -2726,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-Star Fruit Racing VR | 116431 | [116431-all-star-fruit-racing-vr.json](./116431-all-star-fruit-racing-vr.json) |
 | All-Star Slammin' D-Ball | 43929 | [43929-all-star-slammin-d-ball.json](./43929-all-star-slammin-d-ball.json) |
 | All-Star Supermarket Simulator: Vinyl Vibes | 328573 | [328573-all-star-supermarket-simulator-vinyl-vibes.json](./328573-all-star-supermarket-simulator-vinyl-vibes.json) |
+| All-Star Troopers | 107378 | [107378-all-star-troopers.json](./107378-all-star-troopers.json) |
 | All‑Stars 4‑Game Collection | 396440 | [396440-all-stars-4-game-collection.json](./396440-all-stars-4-game-collection.json) |
 | Alla Prima | 207315 | [207315-alla-prima.json](./207315-alla-prima.json) |
 | Allakin | 217307 | [217307-allakin.json](./217307-allakin.json) |
@@ -2738,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allegro Molto wo Hakobu Game | 339094 | [339094-allegro-molto-wo-hakobu-game.json](./339094-allegro-molto-wo-hakobu-game.json) |
 | Allegro Molto wo Kiku Game | 355188 | [355188-allegro-molto-wo-kiku-game.json](./355188-allegro-molto-wo-kiku-game.json) |
 | Allemand avec Rayman | 193347 | [193347-allemand-avec-rayman.json](./193347-allemand-avec-rayman.json) |
+| Allergenium | 107395 | [107395-allergenium.json](./107395-allergenium.json) |
 | Allergy Assassin | 180717 | [180717-allergy-assassin.json](./180717-allergy-assassin.json) |
 | Alleviate | 326274 | [326274-alleviate.json](./326274-alleviate.json) |
 | Alley Cats | 206108 | [206108-alley-cats.json](./206108-alley-cats.json) |
