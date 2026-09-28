@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Navy Strike | 69220 | [69220-navy-strike.json](./69220-navy-strike.json) |
 | Navy Training Exercise: Strike and Retrieve | 69830 | [69830-navy-training-exercise-strike-and-retrieve.json](./69830-navy-training-exercise-strike-and-retrieve.json) |
 | Navy War | 207517 | [207517-navy-war.json](./207517-navy-war.json) |
+| Navyblue and the Spectrum Killers | 108079 | [108079-navyblue-and-the-spectrum-killers.json](./108079-navyblue-and-the-spectrum-killers.json) |
 | Naxat Cup Satellaview Bass Tournament "Big Fight" | 150171 | [150171-naxat-cup-satellaview-bass-tournament-big-fight.json](./150171-naxat-cup-satellaview-bass-tournament-big-fight.json) |
 | Naxat Open | 37707 | [37707-naxat-open.json](./37707-naxat-open.json) |
 | Naxos | 199402 | [199402-naxos.json](./199402-naxos.json) |
