@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DachStudio Puzzle Box: Robots by datGestruepp | 323266 | [323266-dachstudio-puzzle-box-robots-by-datgestruepp.json](./323266-dachstudio-puzzle-box-robots-by-datgestruepp.json) |
 | DACHstudio Puzzle Box: Sanguinik's hidden object tour in Görlitz/Zgorzelec | 357982 | [357982-dachstudio-puzzle-box-sanguiniks-hidden-object-tour-in-gorlitz-zgorzelec.json](./357982-dachstudio-puzzle-box-sanguiniks-hidden-object-tour-in-gorlitz-zgorzelec.json) |
 | DachStudio Puzzle Box:: Illumarie's Fantastic Characters | 296683 | [296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json](./296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json) |
+| Dactyl Nightmare | 65008 | [65008-dactyl-nightmare.json](./65008-dactyl-nightmare.json) |
 | Dactylographe | 183533 | [183533-dactylographe.json](./183533-dactylographe.json) |
 | Dad Beat Dads | 34847 | [34847-dad-beat-dads.json](./34847-dad-beat-dads.json) |
 | Dad Broke the Moon! | 181327 | [181327-dad-broke-the-moon.json](./181327-dad-broke-the-moon.json) |
@@ -218,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisenryaku III '90: Map Collection Vol. 1 | 299825 | [299825-daisenryaku-iii-90-map-collection-vol-1.json](./299825-daisenryaku-iii-90-map-collection-vol-1.json) |
 | Daisenryaku III '90: Map Collection Vol. 2 | 299826 | [299826-daisenryaku-iii-90-map-collection-vol-2.json](./299826-daisenryaku-iii-90-map-collection-vol-2.json) |
 | Daisenryaku Map Collection | 381851 | [381851-daisenryaku-map-collection.json](./381851-daisenryaku-map-collection.json) |
+| Daisenryaku Perfect: Senjou no Hasha | 65049 | [65049-daisenryaku-perfect-senjou-no-hasha.json](./65049-daisenryaku-perfect-senjou-no-hasha.json) |
 | Daisenryaku VII | 361318 | [361318-daisenryaku-vii.json](./361318-daisenryaku-vii.json) |
 | Daisenryaku VII DX | 361319 | [361319-daisenryaku-vii-dx.json](./361319-daisenryaku-vii-dx.json) |
 | Daisenryaku: Master Combat | 166548 | [166548-daisenryaku-master-combat.json](./166548-daisenryaku-master-combat.json) |
@@ -6620,6 +6622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Rider Plus | 175394 | [175394-draw-rider-plus.json](./175394-draw-rider-plus.json) |
 | Draw Saber | 206718 | [206718-draw-saber.json](./206718-draw-saber.json) |
 | Draw Something 2 | 38913 | [38913-draw-something-2.json](./38913-draw-something-2.json) |
+| Draw Stuff | 65043 | [65043-draw-stuff.json](./65043-draw-stuff.json) |
 | Draw Sword | 358926 | [358926-draw-sword.json](./358926-draw-sword.json) |
 | Draw the Hands | 405580 | [405580-draw-the-hands.json](./405580-draw-the-hands.json) |
 | Draw the Way | 29833 | [29833-draw-the-way.json](./29833-draw-the-way.json) |
