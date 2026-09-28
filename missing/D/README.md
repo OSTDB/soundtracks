@@ -4245,6 +4245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DisMonster - Catch the shadow! | 103673 | [103673-dismonster-catch-the-shadow.json](./103673-dismonster-catch-the-shadow.json) |
 | Disney | 220082 | [220082-disney.json](./220082-disney.json) |
 | Disney 100 | 275590 | [275590-disney-100.json](./275590-disney-100.json) |
+| Disney All-Star Cards | 98009 | [98009-disney-all-star-cards.json](./98009-disney-all-star-cards.json) |
 | Disney City Girl | 62415 | [62415-disney-city-girl.json](./62415-disney-city-girl.json) |
 | Disney Classic Games: Aladdin and The Lion King | 122082 | [122082-disney-classic-games-aladdin-and-the-lion-king.json](./122082-disney-classic-games-aladdin-and-the-lion-king.json) |
 | Disney Classic Games: Aladdin and The Lion King - The Jungle Book and More Aladdin Pack | 204668 | [204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json](./204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json) |
