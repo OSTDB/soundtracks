@@ -1870,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girabox | 138621 | [138621-girabox.json](./138621-girabox.json) |
 | Giraffe | 314414 | [314414-giraffe.json](./314414-giraffe.json) |
 | Giraffe Town | 109783 | [109783-giraffe-town.json](./109783-giraffe-town.json) |
+| Giraffe's Matching Zoo Deluxe: Featuring the Fun Button! | 88418 | [88418-giraffes-matching-zoo-deluxe-featuring-the-fun-button.json](./88418-giraffes-matching-zoo-deluxe-featuring-the-fun-button.json) |
 | Girauden Strike Force | 156535 | [156535-girauden-strike-force.json](./156535-girauden-strike-force.json) |
 | Girbal | 219795 | [219795-girbal.json](./219795-girbal.json) |
 | Girder & Hearts: Reel Romance | 364500 | [364500-girder-and-hearts-reel-romance.json](./364500-girder-and-hearts-reel-romance.json) |
