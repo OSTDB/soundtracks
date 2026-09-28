@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xuan-Yuan Sword: Mists Beyond the Mountains | 336910 | [336910-xuan-yuan-sword-mists-beyond-the-mountains.json](./336910-xuan-yuan-sword-mists-beyond-the-mountains.json) |
 | Xuan-Yuan Sword: Mists Beyond the Mountains -1999 Origin Version | 336911 | [336911-xuan-yuan-sword-mists-beyond-the-mountains-1999-origin-version.json](./336911-xuan-yuan-sword-mists-beyond-the-mountains-1999-origin-version.json) |
 | Xuan-Yuan Sword: The Clouds Faraway | 126038 | [126038-xuan-yuan-sword-the-clouds-faraway.json](./126038-xuan-yuan-sword-the-clouds-faraway.json) |
+| Xuan-Yuan Sword: The Han Clouds | 79218 | [79218-xuan-yuan-sword-the-han-clouds.json](./79218-xuan-yuan-sword-the-han-clouds.json) |
 | Xuece Border | 112990 | [112990-xuece-border.json](./112990-xuece-border.json) |
 | Xuhivan's Autonomous Cube | 216479 | [216479-xuhivans-autonomous-cube.json](./216479-xuhivans-autonomous-cube.json) |
 | Xulaph Kaizo World | 267926 | [267926-xulaph-kaizo-world.json](./267926-xulaph-kaizo-world.json) |
