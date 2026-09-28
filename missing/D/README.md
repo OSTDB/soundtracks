@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dahlia | 58839 | [58839-dahlia.json](./58839-dahlia.json) |
 | Dahliphoria | 224768 | [224768-dahliphoria.json](./224768-dahliphoria.json) |
 | Dahna: Megami Tanjou | 46185 | [46185-dahna-megami-tanjou.json](./46185-dahna-megami-tanjou.json) |
+| Dàhuà Xīyóu | 92606 | [92606-dahua-xiyou.json](./92606-dahua-xiyou.json) |
 | Dāi Dāi Dàmàoxiǎn | 368138 | [368138-dai-dai-damaoxian.json](./368138-dai-dai-damaoxian.json) |
 | Dai Datsugoku! Hell chama Prison no Yabou | 353376 | [353376-dai-datsugoku-hell-chama-prison-no-yabou.json](./353376-dai-datsugoku-hell-chama-prison-no-yabou.json) |
 | Dai Gyakuten Saiban: Naruhodou Ryuunosuke no Bouken 1&2 - Best Price! | 136955 | [136955-dai-gyakuten-saiban-naruhodou-ryuunosuke-no-bouken-1-and-2-best-price.json](./136955-dai-gyakuten-saiban-naruhodou-ryuunosuke-no-bouken-1-and-2-best-price.json) |
@@ -1265,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dayshift at Freddy's | 198465 | [198465-dayshift-at-freddys.json](./198465-dayshift-at-freddys.json) |
 | Dayshift at Freddy's 3 | 216206 | [216206-dayshift-at-freddys-3.json](./216206-dayshift-at-freddys-3.json) |
 | Daytona Championship USA | 57333 | [57333-daytona-championship-usa.json](./57333-daytona-championship-usa.json) |
+| Daytona Racing | 92623 | [92623-daytona-racing.json](./92623-daytona-racing.json) |
 | DayZ | 2117 | [2117-dayz.json](./2117-dayz.json) |
 | DayZ: Livonia Edition | 164803 | [164803-dayz-livonia-edition.json](./164803-dayz-livonia-edition.json) |
 | Dazzeloids | 64351 | [64351-dazzeloids.json](./64351-dazzeloids.json) |
@@ -2404,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DejaVu | 184406 | [184406-dejavu.json](./184406-dejavu.json) |
 | DejaVu by dropout.tv | 299994 | [299994-dejavu-by-dropout-tv.json](./299994-dejavu-by-dropout-tv.json) |
 | Dejection: An Ode | 57901 | [57901-dejection-an-ode.json](./57901-dejection-an-ode.json) |
+| Dejiko no Mahjong Party | 92611 | [92611-dejiko-no-mahjong-party.json](./92611-dejiko-no-mahjong-party.json) |
 | Deka Voice | 64928 | [64928-deka-voice.json](./64928-deka-voice.json) |
 | Dekabès Domino | 210563 | [210563-dekabes-domino.json](./210563-dekabes-domino.json) |
 | DekaBlox Arena | 104001 | [104001-dekablox-arena.json](./104001-dekablox-arena.json) |
@@ -3948,6 +3951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Space Station | 345100 | [345100-dino-space-station.json](./345100-dino-space-station.json) |
 | Dino SpeedBoat | 341024 | [341024-dino-speedboat.json](./341024-dino-speedboat.json) |
 | Dino Stalker | 22065 | [22065-dino-stalker.json](./22065-dino-stalker.json) |
+| Dino Storm | 92597 | [92597-dino-storm.json](./92597-dino-storm.json) |
 | Dino Surf | 239895 | [239895-dino-surf.json](./239895-dino-surf.json) |
 | Dino Tamers | 146333 | [146333-dino-tamers.json](./146333-dino-tamers.json) |
 | Dino Tribe: New Era | 309366 | [309366-dino-tribe-new-era.json](./309366-dino-tribe-new-era.json) |
