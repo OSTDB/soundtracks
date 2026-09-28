@@ -1323,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Long Run: The Game | 104525 | [104525-in-the-long-run-the-game.json](./104525-in-the-long-run-the-game.json) |
 | In the Loop | 364678 | [364678-in-the-loop.json](./364678-in-the-loop.json) |
 | In the Midst of a Neverending Season | 369052 | [369052-in-the-midst-of-a-neverending-season.json](./369052-in-the-midst-of-a-neverending-season.json) |
+| In the Midst of Ratings | 66749 | [66749-in-the-midst-of-ratings.json](./66749-in-the-midst-of-ratings.json) |
 | In the Mood | 196848 | [196848-in-the-mood.json](./196848-in-the-mood.json) |
 | In the Mood for Youth | 348799 | [348799-in-the-mood-for-youth.json](./348799-in-the-mood-for-youth.json) |
 | In the Mountains | 192325 | [192325-in-the-mountains.json](./192325-in-the-mountains.json) |
