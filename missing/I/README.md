@@ -2128,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Integer | 178030 | [178030-integer.json](./178030-integer.json) |
 | Integrifix | 335845 | [335845-integrifix.json](./335845-integrifix.json) |
 | Integrity | 387500 | [387500-integrity.json](./387500-integrity.json) |
+| Intel Discovered | 64470 | [64470-intel-discovered.json](./64470-intel-discovered.json) |
 | Intelektronica | 400468 | [400468-intelektronica.json](./400468-intelektronica.json) |
 | Intellectual Decathlon | 401790 | [401790-intellectual-decathlon.json](./401790-intellectual-decathlon.json) |
 | Intelligence | 397924 | [397924-intelligence.json](./397924-intelligence.json) |
@@ -2566,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Blood | 68722 | [68722-iron-blood.json](./68722-iron-blood.json) |
 | Iron Bramble | 401010 | [401010-iron-bramble.json](./401010-iron-bramble.json) |
 | Iron Cauldron: Guess the Colorblock | 340762 | [340762-iron-cauldron-guess-the-colorblock.json](./340762-iron-cauldron-guess-the-colorblock.json) |
+| Iron Chef | 64456 | [64456-iron-chef.json](./64456-iron-chef.json) |
 | Iron Convoy | 330859 | [330859-iron-convoy.json](./330859-iron-convoy.json) |
 | Iron Cross | 80581 | [80581-iron-cross.json](./80581-iron-cross.json) |
 | Iron Crown | 318183 | [318183-iron-crown.json](./318183-iron-crown.json) |
