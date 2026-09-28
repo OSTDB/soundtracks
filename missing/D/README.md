@@ -1011,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashpunch | 319805 | [319805-dashpunch.json](./319805-dashpunch.json) |
 | Dashy Crashy 100 | 317385 | [317385-dashy-crashy-100.json](./317385-dashy-crashy-100.json) |
 | Dashy Square VR | 32253 | [32253-dashy-square-vr.json](./32253-dashy-square-vr.json) |
+| DaSi | 80637 | [80637-dasi.json](./80637-dasi.json) |
 | Dasshutsu Adventure: Akumu no Shinigami Ressha | 222386 | [222386-dasshutsu-adventure-akumu-no-shinigami-ressha.json](./222386-dasshutsu-adventure-akumu-no-shinigami-ressha.json) |
 | Dasshutsu Adventure: Dai Nana no Yogen | 222376 | [222376-dasshutsu-adventure-dai-nana-no-yogen.json](./222376-dasshutsu-adventure-dai-nana-no-yogen.json) |
 | Dasshutsu Adventure: Kamioroshi no Uranai-ban | 222378 | [222378-dasshutsu-adventure-kamioroshi-no-uranai-ban.json](./222378-dasshutsu-adventure-kamioroshi-no-uranai-ban.json) |
@@ -5458,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoodleBob and the Magic Pencil | 341323 | [341323-doodlebob-and-the-magic-pencil.json](./341323-doodlebob-and-the-magic-pencil.json) |
 | DoodleBob and the Magic Pencil DX | 341325 | [341325-doodlebob-and-the-magic-pencil-dx.json](./341325-doodlebob-and-the-magic-pencil-dx.json) |
 | Doodlebug | 261511 | [261511-doodlebug.json](./261511-doodlebug.json) |
+| Doodlebug: Bug Bash II | 80636 | [80636-doodlebug-bug-bash-ii.json](./80636-doodlebug-bug-bash-ii.json) |
 | DoodleVR | 110513 | [110513-doodlevr.json](./110513-doodlevr.json) |
 | Doofas | 133438 | [133438-doofas.json](./133438-doofas.json) |
 | Doofus | 39025 | [39025-doofus.json](./39025-doofus.json) |
