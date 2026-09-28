@@ -560,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sampling | 107874 | [107874-sampling.json](./107874-sampling.json) |
 | Sampras Extreme Tennis | 44851 | [44851-sampras-extreme-tennis.json](./44851-sampras-extreme-tennis.json) |
 | Sampras Tennis 96 | 46183 | [46183-sampras-tennis-96.json](./46183-sampras-tennis-96.json) |
+| Sams | 112468 | [112468-sams.json](./112468-sams.json) |
 | Samsara | 143042 | [143042-samsara.json](./143042-samsara.json) |
 | Samsara | 163763 | [163763-samsara.json](./163763-samsara.json) |
 | Samsara | 192957 | [192957-samsara.json](./192957-samsara.json) |
@@ -2183,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Smash Pack: Twin Pack | 136874 | [136874-sega-smash-pack-twin-pack.json](./136874-sega-smash-pack-twin-pack.json) |
 | Sega Soccer Slam | 4102 | [4102-sega-soccer-slam.json](./4102-sega-soccer-slam.json) |
 | Sega Splash! Golf | 136872 | [136872-sega-splash-golf.json](./136872-sega-splash-golf.json) |
+| Sega Strike Fighter | 112506 | [112506-sega-strike-fighter.json](./112506-sega-strike-fighter.json) |
 | Sega Superstars Tennis | 255326 | [255326-sega-superstars-tennis.json](./255326-sega-superstars-tennis.json) |
 | Sega Vintage Collection: Alex Kidd & Co. | 79259 | [79259-sega-vintage-collection-alex-kidd-and-co.json](./79259-sega-vintage-collection-alex-kidd-and-co.json) |
 | Sega Vintage Collection: ToeJam & Earl | 85812 | [85812-sega-vintage-collection-toejam-and-earl.json](./85812-sega-vintage-collection-toejam-and-earl.json) |
@@ -2984,6 +2986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Wolf Mysteries: Cursed Wedding - Collector's Edition | 99620 | [99620-shadow-wolf-mysteries-cursed-wedding-collectors-edition.json](./99620-shadow-wolf-mysteries-cursed-wedding-collectors-edition.json) |
 | Shadow Wolf Mysteries: Cursed Wedding & Shadow Wolf Mysteries: Under the Crimson Moon | 201811 | [201811-shadow-wolf-mysteries-cursed-wedding-and-shadow-wolf-mysteries-under-the-crimson-moon.json](./201811-shadow-wolf-mysteries-cursed-wedding-and-shadow-wolf-mysteries-under-the-crimson-moon.json) |
 | Shadow Wolf Mysteries: Tracks of Terror | 101966 | [101966-shadow-wolf-mysteries-tracks-of-terror.json](./101966-shadow-wolf-mysteries-tracks-of-terror.json) |
+| Shadow Wolf Mysteries: Under the Crimson Moon - Collector's Edition | 112471 | [112471-shadow-wolf-mysteries-under-the-crimson-moon-collectors-edition.json](./112471-shadow-wolf-mysteries-under-the-crimson-moon-collectors-edition.json) |
 | Shadow Wrangler | 180613 | [180613-shadow-wrangler.json](./180613-shadow-wrangler.json) |
 | Shadow X Dash: Ring Collector | 104461 | [104461-shadow-x-dash-ring-collector.json](./104461-shadow-x-dash-ring-collector.json) |
 | Shadow: Treachery Cannot Be Tolerated | 90309 | [90309-shadow-treachery-cannot-be-tolerated.json](./90309-shadow-treachery-cannot-be-tolerated.json) |
@@ -3657,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shine's Adventures 4 (Nightmare) | 129659 | [129659-shines-adventures-4-nightmare.json](./129659-shines-adventures-4-nightmare.json) |
 | Shine's Adventures 5: World of Box | 127318 | [127318-shines-adventures-5-world-of-box.json](./127318-shines-adventures-5-world-of-box.json) |
 | ShineG Has Nightmares | 68675 | [68675-shineg-has-nightmares.json](./68675-shineg-has-nightmares.json) |
+| ShineG In Bumpercat | 112462 | [112462-shineg-in-bumpercat.json](./112462-shineg-in-bumpercat.json) |
 | Shinehill | 245912 | [245912-shinehill.json](./245912-shinehill.json) |
 | Shines Over | 184589 | [184589-shines-over.json](./184589-shines-over.json) |
 | Shingakkou Banchou | 330276 | [330276-shingakkou-banchou.json](./330276-shingakkou-banchou.json) |
@@ -3730,6 +3734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinseiden Megaseed: Fukkatsu-hen | 261299 | [261299-shinseiden-megaseed-fukkatsu-hen.json](./261299-shinseiden-megaseed-fukkatsu-hen.json) |
 | Shinseiki Evangelion Mahjong Hokan Keikaku | 61676 | [61676-shinseiki-evangelion-mahjong-hokan-keikaku.json](./61676-shinseiki-evangelion-mahjong-hokan-keikaku.json) |
 | Shinseiki Evangelion: Typing E-Keikaku | 61671 | [61671-shinseiki-evangelion-typing-e-keikaku.json](./61671-shinseiki-evangelion-typing-e-keikaku.json) |
+| Shinseiki GPX Cyber Formula Sin Drei Plus | 112516 | [112516-shinseiki-gpx-cyber-formula-sin-drei-plus.json](./112516-shinseiki-gpx-cyber-formula-sin-drei-plus.json) |
 | Shinsen Renki | 163232 | [163232-shinsen-renki.json](./163232-shinsen-renki.json) |
 | Shinsetsu Mahou Shoujo | 131589 | [131589-shinsetsu-mahou-shoujo.json](./131589-shinsetsu-mahou-shoujo.json) |
 | Shinsetsu Shiawase Usagi F: Yuujou Yori mo Aiyoku | 277859 | [277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json](./277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json) |
@@ -4023,6 +4028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Clutter 15: Around the Campfire | 341870 | [341870-shopping-clutter-15-around-the-campfire.json](./341870-shopping-clutter-15-around-the-campfire.json) |
 | Shopping Clutter 16: Happy Birthday | 356834 | [356834-shopping-clutter-16-happy-birthday.json](./356834-shopping-clutter-16-happy-birthday.json) |
 | Shopping Clutter 19: Black Friday | 341871 | [341871-shopping-clutter-19-black-friday.json](./341871-shopping-clutter-19-black-friday.json) |
+| Shopping Clutter 2: Christmas Square | 112503 | [112503-shopping-clutter-2-christmas-square.json](./112503-shopping-clutter-2-christmas-square.json) |
 | Shopping Clutter 21: Coffeehouse | 342074 | [342074-shopping-clutter-21-coffeehouse.json](./342074-shopping-clutter-21-coffeehouse.json) |
 | Shopping Clutter 22: Haute Couture | 341868 | [341868-shopping-clutter-22-haute-couture.json](./341868-shopping-clutter-22-haute-couture.json) |
 | Shopping Clutter 25: Strawberry Thanksgiving | 324504 | [324504-shopping-clutter-25-strawberry-thanksgiving.json](./324504-shopping-clutter-25-strawberry-thanksgiving.json) |
@@ -7831,6 +7837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophont | 99431 | [99431-sophont.json](./99431-sophont.json) |
 | Sora | 18569 | [18569-sora.json](./18569-sora.json) |
 | Sora no Ao to Shiro to | 368646 | [368646-sora-no-ao-to-shiro-to.json](./368646-sora-no-ao-to-shiro-to.json) |
+| Sora no Fudousan | 112523 | [112523-sora-no-fudousan.json](./112523-sora-no-fudousan.json) |
 | Sora no Iro, Mizu no Iro | 72718 | [72718-sora-no-iro-mizu-no-iro.json](./72718-sora-no-iro-mizu-no-iro.json) |
 | Sora o Aogite Kumo Takaku | 62733 | [62733-sora-o-aogite-kumo-takaku.json](./62733-sora-o-aogite-kumo-takaku.json) |
 | Sora Tobu Henry | 231506 | [231506-sora-tobu-henry.json](./231506-sora-tobu-henry.json) |
@@ -7918,6 +7925,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sotsugyou: Graduation | 242774 | [242774-sotsugyou-graduation.json](./242774-sotsugyou-graduation.json) |
 | Sotsugyou: Graduation - Final | 268543 | [268543-sotsugyou-graduation-final.json](./268543-sotsugyou-graduation-final.json) |
 | Sou Desu, Anata no Koibito Desu. | 285992 | [285992-sou-desu-anata-no-koibito-desu.json](./285992-sou-desu-anata-no-koibito-desu.json) |
+| Sou, Atashi-tachi wa Konna ni mo Rifujin na Sekai ni Ikiteiru no dara yo | 112508 | [112508-sou-atashi-tachi-wa-konna-ni-mo-rifujin-na-sekai-ni-ikiteiru-no-dara-yo.json](./112508-sou-atashi-tachi-wa-konna-ni-mo-rifujin-na-sekai-ni-ikiteiru-no-dara-yo.json) |
+| Sou, Atashi-tachi wa Konna ni mo Rifujin na Sekai ni Ikiteiru no dara yo 3 * Kono Sekai de 2 no Hatsubai Yotei wa Arimasen. | 112507 | [112507-sou-atashi-tachi-wa-konna-ni-mo-rifujin-na-sekai-ni-ikiteiru-no-dara-yo-3-kono-sekai-de-2-no-hatsubai-yotei-wa-arimasen.json](./112507-sou-atashi-tachi-wa-konna-ni-mo-rifujin-na-sekai-ni-ikiteiru-no-dara-yo-3-kono-sekai-de-2-no-hatsubai-yotei-wa-arimasen.json) |
 | Soucha Yi Ke | 309969 | [309969-soucha-yi-ke.json](./309969-soucha-yi-ke.json) |
 | Souen no Iseki | 206174 | [206174-souen-no-iseki.json](./206174-souen-no-iseki.json) |
 | Sougetsu Ninja: Kikyou | 119708 | [119708-sougetsu-ninja-kikyou.json](./119708-sougetsu-ninja-kikyou.json) |
@@ -9972,6 +9981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid on Road | 236944 | [236944-squid-on-road.json](./236944-squid-on-road.json) |
 | Squid Squabble | 264602 | [264602-squid-squabble.json](./264602-squid-squabble.json) |
 | Squid Survival Simulator: Sea Animal Life 3D | 104594 | [104594-squid-survival-simulator-sea-animal-life-3d.json](./104594-squid-survival-simulator-sea-animal-life-3d.json) |
+| Squid Town | 112511 | [112511-squid-town.json](./112511-squid-town.json) |
 | Squids in a Pickle | 340924 | [340924-squids-in-a-pickle.json](./340924-squids-in-a-pickle.json) |
 | Squids Odyssey | 19877 | [19877-squids-odyssey.json](./19877-squids-odyssey.json) |
 | Squidview | 381251 | [381251-squidview.json](./381251-squidview.json) |
@@ -10062,6 +10072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack'em | 206976 | [206976-stackem.json](./206976-stackem.json) |
 | Stack'em HD | 355001 | [355001-stackem-hd.json](./355001-stackem-hd.json) |
 | Stackbound | 351255 | [351255-stackbound.json](./351255-stackbound.json) |
+| Stackems | 112501 | [112501-stackems.json](./112501-stackems.json) |
 | Stackflow | 361687 | [361687-stackflow.json](./361687-stackflow.json) |
 | StackFortress | 88012 | [88012-stackfortress.json](./88012-stackfortress.json) |
 | Stacking | 4851 | [4851-stacking.json](./4851-stacking.json) |
@@ -12048,6 +12059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Sweeper | 129643 | [129643-street-sweeper.json](./129643-street-sweeper.json) |
 | Street Tennis, the Next Generation Champions | 57668 | [57668-street-tennis-the-next-generation-champions.json](./57668-street-tennis-the-next-generation-champions.json) |
 | Street Totochèr | 288760 | [288760-street-totocher.json](./288760-street-totocher.json) |
+| Street Tuning Evolution | 112494 | [112494-street-tuning-evolution.json](./112494-street-tuning-evolution.json) |
 | Street Vendor Simulator | 347330 | [347330-street-vendor-simulator.json](./347330-street-vendor-simulator.json) |
 | Street volleyball: Invitation | 220671 | [220671-street-volleyball-invitation.json](./220671-street-volleyball-invitation.json) |
 | Street Warrior | 44621 | [44621-street-warrior.json](./44621-street-warrior.json) |
