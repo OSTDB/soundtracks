@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Feel Fantastic | 217834 | [217834-i-feel-fantastic.json](./217834-i-feel-fantastic.json) |
 | I Fell in Love with the Mentally Unstable Depressed Goth on Campus | 410903 | [410903-i-fell-in-love-with-the-mentally-unstable-depressed-goth-on-campus.json](./410903-i-fell-in-love-with-the-mentally-unstable-depressed-goth-on-campus.json) |
 | I Fetch Rocks | 153351 | [153351-i-fetch-rocks.json](./153351-i-fetch-rocks.json) |
+| i Fishing HD | 90811 | [90811-i-fishing-hd.json](./90811-i-fishing-hd.json) |
 | I Fought the Lawn | 223478 | [223478-i-fought-the-lawn.json](./223478-i-fought-the-lawn.json) |
 | I Found a Cat in the Rain | 383659 | [383659-i-found-a-cat-in-the-rain.json](./383659-i-found-a-cat-in-the-rain.json) |
 | I Found Myself in a Strange House and I'm Scared | 368640 | [368640-i-found-myself-in-a-strange-house-and-im-scared.json](./368640-i-found-myself-in-a-strange-house-and-im-scared.json) |
