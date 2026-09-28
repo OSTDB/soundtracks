@@ -1265,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavenger | 237648 | [237648-scavenger.json](./237648-scavenger.json) |
 | Scavenger | 241503 | [241503-scavenger.json](./241503-scavenger.json) |
 | Scavenger | 74443 | [74443-scavenger.json](./74443-scavenger.json) |
+| Scavenger | 92066 | [92066-scavenger.json](./92066-scavenger.json) |
 | Scavenger Hunt: Italy | 257327 | [257327-scavenger-hunt-italy.json](./257327-scavenger-hunt-italy.json) |
 | Scavenger Skirmish: Mortal World | 105372 | [105372-scavenger-skirmish-mortal-world.json](./105372-scavenger-skirmish-mortal-world.json) |
 | Scavenger T.O.M | 365179 | [365179-scavenger-t-o-m.json](./365179-scavenger-t-o-m.json) |
@@ -1657,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scuba Bear | 178678 | [178678-scuba-bear.json](./178678-scuba-bear.json) |
 | Scuba Diver | 40744 | [40744-scuba-diver.json](./40744-scuba-diver.json) |
 | Scuba Diver | 40766 | [40766-scuba-diver.json](./40766-scuba-diver.json) |
+| Scuba Kidz | 92069 | [92069-scuba-kidz.json](./92069-scuba-kidz.json) |
 | Scud Frenzy | 102395 | [102395-scud-frenzy.json](./102395-scud-frenzy.json) |
 | Sculplings | 349407 | [349407-sculplings.json](./349407-sculplings.json) |
 | Sculpt | 263763 | [263763-sculpt.json](./263763-sculpt.json) |
@@ -3572,6 +3574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shields Up! VR | 102196 | [102196-shields-up-vr.json](./102196-shields-up-vr.json) |
 | Shieldwall Chronicles | 197769 | [197769-shieldwall-chronicles.json](./197769-shieldwall-chronicles.json) |
 | Shien's Revenge | 20173 | [20173-shiens-revenge.json](./20173-shiens-revenge.json) |
+| Shienryu | 92074 | [92074-shienryu.json](./92074-shienryu.json) |
 | Shift | 181920 | [181920-shift.json](./181920-shift.json) |
 | Shift 0 | 352204 | [352204-shift-0.json](./352204-shift-0.json) |
 | Shift at Midnight | 352789 | [352789-shift-at-midnight.json](./352789-shift-at-midnight.json) |
@@ -7103,6 +7106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Söldner-X 2: Final Prototype | 26937 | [26937-soldner-x-2-final-prototype.json](./26937-soldner-x-2-final-prototype.json) |
 | Söldner-X 2: The Last Chapter | 26938 | [26938-soldner-x-2-the-last-chapter.json](./26938-soldner-x-2-the-last-chapter.json) |
 | Söldner-X Complete Collection | 318615 | [318615-soldner-x-complete-collection.json](./318615-soldner-x-complete-collection.json) |
+| Soldnerschild | 92103 | [92103-soldnerschild.json](./92103-soldnerschild.json) |
 | Sole Iron Tail | 132693 | [132693-sole-iron-tail.json](./132693-sole-iron-tail.json) |
 | Sole Saga | 211940 | [211940-sole-saga.json](./211940-sole-saga.json) |
 | Sole Salvation | 415920 | [415920-sole-salvation.json](./415920-sole-salvation.json) |
@@ -15433,6 +15437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Bones: Special Edition | 242054 | [242054-swords-and-bones-special-edition.json](./242054-swords-and-bones-special-edition.json) |
 | Swords & Crystals: Dragon Hatchling Pet | 298185 | [298185-swords-and-crystals-dragon-hatchling-pet.json](./298185-swords-and-crystals-dragon-hatchling-pet.json) |
 | Swords & Darkness | 85411 | [85411-swords-and-darkness.json](./85411-swords-and-darkness.json) |
+| Swords & Monsters | 92083 | [92083-swords-and-monsters.json](./92083-swords-and-monsters.json) |
 | Swords & Serpents | 18582 | [18582-swords-and-serpents.json](./18582-swords-and-serpents.json) |
 | Swords & Slippers | 374141 | [374141-swords-and-slippers.json](./374141-swords-and-slippers.json) |
 | Swords & Soldiers | 210258 | [210258-swords-and-soldiers.json](./210258-swords-and-soldiers.json) |
