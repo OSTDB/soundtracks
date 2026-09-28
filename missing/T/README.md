@@ -4192,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flintstones: The Treasure of Sierra Madrock | 8450 | [8450-the-flintstones-the-treasure-of-sierra-madrock.json](./8450-the-flintstones-the-treasure-of-sierra-madrock.json) |
 | The Floor is [Blank] | 157140 | [157140-the-floor-is-blank.json](./157140-the-floor-is-blank.json) |
 | The Floor is Breathing | 229356 | [229356-the-floor-is-breathing.json](./229356-the-floor-is-breathing.json) |
+| The Floor is Lava | 88478 | [88478-the-floor-is-lava.json](./88478-the-floor-is-lava.json) |
 | The Floor Is Really Cheap Lava | 115042 | [115042-the-floor-is-really-cheap-lava.json](./115042-the-floor-is-really-cheap-lava.json) |
 | The Flow | 140544 | [140544-the-flow.json](./140544-the-flow.json) |
 | The Flower | 361747 | [361747-the-flower.json](./361747-the-flower.json) |
@@ -9076,6 +9077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic-Tac-Matrix | 180748 | [180748-tic-tac-matrix.json](./180748-tic-tac-matrix.json) |
 | Tic-Tac-Tanks | 195214 | [195214-tic-tac-tanks.json](./195214-tic-tac-tanks.json) |
 | Tic-Tac-Toast | 233078 | [233078-tic-tac-toast.json](./233078-tic-tac-toast.json) |
+| Tic-Tac-Toe | 88434 | [88434-tic-tac-toe.json](./88434-tic-tac-toe.json) |
 | Tic-Tac-Toe - Two Players | 95561 | [95561-tic-tac-toe-two-players.json](./95561-tic-tac-toe-two-players.json) |
 | Tic-Tac-Toe for Kids | 103678 | [103678-tic-tac-toe-for-kids.json](./103678-tic-tac-toe-for-kids.json) |
 | Tic-Tac-Toe Star | 240187 | [240187-tic-tac-toe-star.json](./240187-tic-tac-toe-star.json) |
@@ -11260,6 +11262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Skater | 18047 | [18047-top-skater.json](./18047-top-skater.json) |
 | Top Speed 2: Drag Rivals & Nitro Racing | 200464 | [200464-top-speed-2-drag-rivals-and-nitro-racing.json](./200464-top-speed-2-drag-rivals-and-nitro-racing.json) |
 | Top Speed 2: Racing Legends | 121448 | [121448-top-speed-2-racing-legends.json](./121448-top-speed-2-racing-legends.json) |
+| Top Speed: Drag & Fast Racing | 88441 | [88441-top-speed-drag-and-fast-racing.json](./88441-top-speed-drag-and-fast-racing.json) |
 | Top Spin | 5234 | [5234-top-spin.json](./5234-top-spin.json) |
 | Top Street Soccer | 102209 | [102209-top-street-soccer.json](./102209-top-street-soccer.json) |
 | Top Striker | 78967 | [78967-top-striker.json](./78967-top-striker.json) |
@@ -11283,6 +11286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toppl. | 174219 | [174219-toppl.json](./174219-toppl.json) |
 | Topple | 93973 | [93973-topple.json](./93973-topple.json) |
 | Topple Adventure | 214490 | [214490-topple-adventure.json](./214490-topple-adventure.json) |
+| Topple Drop | 88448 | [88448-topple-drop.json](./88448-topple-drop.json) |
 | Topple Tactics | 272547 | [272547-topple-tactics.json](./272547-topple-tactics.json) |
 | Topple the Tower | 249839 | [249839-topple-the-tower.json](./249839-topple-the-tower.json) |
 | Topple Zip | 41316 | [41316-topple-zip.json](./41316-topple-zip.json) |
@@ -11844,6 +11848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Keepers | 101736 | [101736-tower-keepers.json](./101736-tower-keepers.json) |
 | Tower Knight | 298628 | [298628-tower-knight.json](./298628-tower-knight.json) |
 | Tower Lord: Sword Loop Saga | 176267 | [176267-tower-lord-sword-loop-saga.json](./176267-tower-lord-sword-loop-saga.json) |
+| Tower Madness 2 | 88457 | [88457-tower-madness-2.json](./88457-tower-madness-2.json) |
 | Tower Monster Rush | 309504 | [309504-tower-monster-rush.json](./309504-tower-monster-rush.json) |
 | Tower Networking Inc. | 310040 | [310040-tower-networking-inc.json](./310040-tower-networking-inc.json) |
 | Tower Numbers | 224667 | [224667-tower-numbers.json](./224667-tower-numbers.json) |
