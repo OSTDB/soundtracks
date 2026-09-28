@@ -3909,6 +3909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planes.io | 194038 | [194038-planes-io.json](./194038-planes-io.json) |
 | Planescape Torment: Enhanced Edition - Digital Deluxe | 53462 | [53462-planescape-torment-enhanced-edition-digital-deluxe.json](./53462-planescape-torment-enhanced-edition-digital-deluxe.json) |
 | Planescape: The Shaper of Dreams | 369227 | [369227-planescape-the-shaper-of-dreams.json](./369227-planescape-the-shaper-of-dreams.json) |
+| PlaneShift | 84309 | [84309-planeshift.json](./84309-planeshift.json) |
 | Planet After Us | 195613 | [195613-planet-after-us.json](./195613-planet-after-us.json) |
 | Planet Alcatraz 2 | 34779 | [34779-planet-alcatraz-2.json](./34779-planet-alcatraz-2.json) |
 | Planet Alpha | 28070 | [28070-planet-alpha.json](./28070-planet-alpha.json) |
@@ -4296,6 +4297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleonexia | 246119 | [246119-pleonexia.json](./246119-pleonexia.json) |
 | Plerbtonia | 320174 | [320174-plerbtonia.json](./320174-plerbtonia.json) |
 | Pleroma | 135687 | [135687-pleroma.json](./135687-pleroma.json) |
+| Plexar | 84322 | [84322-plexar.json](./84322-plexar.json) |
 | Plicplic | 261324 | [261324-plicplic.json](./261324-plicplic.json) |
 | Plinbo | 372560 | [372560-plinbo.json](./372560-plinbo.json) |
 | Plinio Needs a Hand | 291089 | [291089-plinio-needs-a-hand.json](./291089-plinio-needs-a-hand.json) |
@@ -4498,6 +4500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocoyo Memo Game | 107659 | [107659-pocoyo-memo-game.json](./107659-pocoyo-memo-game.json) |
 | Pocoyo Racing | 50939 | [50939-pocoyo-racing.json](./50939-pocoyo-racing.json) |
 | Pod | 86049 | [86049-pod.json](./86049-pod.json) |
+| POD SpeedZone | 84320 | [84320-pod-speedzone.json](./84320-pod-speedzone.json) |
 | Poda Wants a Statue | 260699 | [260699-poda-wants-a-statue.json](./260699-poda-wants-a-statue.json) |
 | Podd | 66704 | [66704-podd.json](./66704-podd.json) |
 | Pode | 94054 | [94054-pode.json](./94054-pode.json) |
