@@ -1784,6 +1784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Command 3.0: Airport Expansion Set | 144186 | [144186-air-command-3-0-airport-expansion-set.json](./144186-air-command-3-0-airport-expansion-set.json) |
 | Air Conflicts Collection | 52572 | [52572-air-conflicts-collection.json](./52572-air-conflicts-collection.json) |
 | Air Conflicts: Double Pack | 118198 | [118198-air-conflicts-double-pack.json](./118198-air-conflicts-double-pack.json) |
+| Air Conflicts: Pacific Carriers - PlayStation 4 Edition | 99768 | [99768-air-conflicts-pacific-carriers-playstation-4-edition.json](./99768-air-conflicts-pacific-carriers-playstation-4-edition.json) |
 | Air Conflicts: Secret Wars | 3830 | [3830-air-conflicts-secret-wars.json](./3830-air-conflicts-secret-wars.json) |
 | Air Conflicts: Secret Wars - Ultimate Edition | 27783 | [27783-air-conflicts-secret-wars-ultimate-edition.json](./27783-air-conflicts-secret-wars-ultimate-edition.json) |
 | Air Conflicts: Vietnam Ultimate Edition | 44546 | [44546-air-conflicts-vietnam-ultimate-edition.json](./44546-air-conflicts-vietnam-ultimate-edition.json) |
@@ -2138,6 +2139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alaskan Road Truckers: Highway Edition - Cosmetic Bundle | 331447 | [331447-alaskan-road-truckers-highway-edition-cosmetic-bundle.json](./331447-alaskan-road-truckers-highway-edition-cosmetic-bundle.json) |
 | Alaskan Road Truckers: Truck Skin Pack | 323265 | [323265-alaskan-road-truckers-truck-skin-pack.json](./323265-alaskan-road-truckers-truck-skin-pack.json) |
 | Alawar Adventure Collection | 52591 | [52591-alawar-adventure-collection.json](./52591-alawar-adventure-collection.json) |
+| Alawar Hidden Realms Bundle | 99790 | [99790-alawar-hidden-realms-bundle.json](./99790-alawar-hidden-realms-bundle.json) |
 | Alba: A Wildlife Adventure | 135919 | [135919-alba-a-wildlife-adventure.json](./135919-alba-a-wildlife-adventure.json) |
 | Albacete Warrior | 152237 | [152237-albacete-warrior.json](./152237-albacete-warrior.json) |
 | Albatross | 280200 | [280200-albatross.json](./280200-albatross.json) |
@@ -4844,10 +4846,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: MagMax | 99562 | [99562-arcade-archives-magmax.json](./99562-arcade-archives-magmax.json) |
 | Arcade Archives: Märchen Maze | 330745 | [330745-arcade-archives-marchen-maze.json](./330745-arcade-archives-marchen-maze.json) |
 | Arcade Archives: Master of Weapon | 287109 | [287109-arcade-archives-master-of-weapon.json](./287109-arcade-archives-master-of-weapon.json) |
+| Arcade Archives: Mat Mania Exciting Hour | 99793 | [99793-arcade-archives-mat-mania-exciting-hour.json](./99793-arcade-archives-mat-mania-exciting-hour.json) |
 | Arcade Archives: Mazinger Z | 249490 | [249490-arcade-archives-mazinger-z.json](./249490-arcade-archives-mazinger-z.json) |
 | Arcade Archives: Metal Black | 225889 | [225889-arcade-archives-metal-black.json](./225889-arcade-archives-metal-black.json) |
 | Arcade Archives: Metamorphic Force | 320940 | [320940-arcade-archives-metamorphic-force.json](./320940-arcade-archives-metamorphic-force.json) |
 | Arcade Archives: Midnight Landing | 375404 | [375404-arcade-archives-midnight-landing.json](./375404-arcade-archives-midnight-landing.json) |
+| Arcade Archives: Mr. Goemon | 99763 | [99763-arcade-archives-mr-goemon.json](./99763-arcade-archives-mr-goemon.json) |
 | Arcade Archives: Mutant Night | 121427 | [121427-arcade-archives-mutant-night.json](./121427-arcade-archives-mutant-night.json) |
 | Arcade Archives: Mystic Warriors | 282155 | [282155-arcade-archives-mystic-warriors.json](./282155-arcade-archives-mystic-warriors.json) |
 | Arcade Archives: Ninja Gaiden | 118286 | [118286-arcade-archives-ninja-gaiden.json](./118286-arcade-archives-ninja-gaiden.json) |
@@ -4860,6 +4864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Plump Pop | 394382 | [394382-arcade-archives-plump-pop.json](./394382-arcade-archives-plump-pop.json) |
 | Arcade Archives: Power Spikes | 319783 | [319783-arcade-archives-power-spikes.json](./319783-arcade-archives-power-spikes.json) |
 | Arcade Archives: Radical Radial | 147936 | [147936-arcade-archives-radical-radial.json](./147936-arcade-archives-radical-radial.json) |
+| Arcade Archives: Raiders5 | 99783 | [99783-arcade-archives-raiders5.json](./99783-arcade-archives-raiders5.json) |
 | Arcade Archives: Rastan Saga | 300731 | [300731-arcade-archives-rastan-saga.json](./300731-arcade-archives-rastan-saga.json) |
 | Arcade Archives: Rastan Saga II | 306525 | [306525-arcade-archives-rastan-saga-ii.json](./306525-arcade-archives-rastan-saga-ii.json) |
 | Arcade Archives: Rave Racer | 392771 | [392771-arcade-archives-rave-racer.json](./392771-arcade-archives-rave-racer.json) |
@@ -4885,6 +4890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Tank Battalion | 290419 | [290419-arcade-archives-tank-battalion.json](./290419-arcade-archives-tank-battalion.json) |
 | Arcade Archives: Tank Force | 232461 | [232461-arcade-archives-tank-force.json](./232461-arcade-archives-tank-force.json) |
 | Arcade Archives: Tecmo Stackers | 313224 | [313224-arcade-archives-tecmo-stackers.json](./313224-arcade-archives-tecmo-stackers.json) |
+| Arcade Archives: Terra Cresta | 99786 | [99786-arcade-archives-terra-cresta.json](./99786-arcade-archives-terra-cresta.json) |
 | Arcade Archives: Tetris - The Absolute: The Grand Master 2 Plus | 251538 | [251538-arcade-archives-tetris-the-absolute-the-grand-master-2-plus.json](./251538-arcade-archives-tetris-the-absolute-the-grand-master-2-plus.json) |
 | Arcade Archives: The Astyanax | 146827 | [146827-arcade-archives-the-astyanax.json](./146827-arcade-archives-the-astyanax.json) |
 | Arcade Archives: The Final Round | 312019 | [312019-arcade-archives-the-final-round.json](./312019-arcade-archives-the-final-round.json) |
@@ -5470,6 +5476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armageddon 2 | 271199 | [271199-armageddon-2.json](./271199-armageddon-2.json) |
 | Armageddon Margaret | 317021 | [317021-armageddon-margaret.json](./317021-armageddon-margaret.json) |
 | Armageddon Riders | 84152 | [84152-armageddon-riders.json](./84152-armageddon-riders.json) |
+| Armageddon Riders + Planets Under Attack Bundle | 99803 | [99803-armageddon-riders-planets-under-attack-bundle.json](./99803-armageddon-riders-planets-under-attack-bundle.json) |
 | ArmageDoom | 201231 | [201231-armagedoom.json](./201231-armagedoom.json) |
 | Armagetron Advanced | 51244 | [51244-armagetron-advanced.json](./51244-armagetron-advanced.json) |
 | Armajet | 57939 | [57939-armajet.json](./57939-armajet.json) |
