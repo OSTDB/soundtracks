@@ -2480,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ioo | 267456 | [267456-ioo.json](./267456-ioo.json) |
 | Ioretin | 349848 | [349848-ioretin.json](./349848-ioretin.json) |
 | Iosis | 224634 | [224634-iosis.json](./224634-iosis.json) |
+| iPitch | 92081 | [92081-ipitch.json](./92081-ipitch.json) |
 | Ippan Mario | 268193 | [268193-ippan-mario.json](./268193-ippan-mario.json) |
 | Ippan Zaidan Houjin: Nippon Kanji Shuujukudo Kentei Kikou Kounen - Kanjukuken DS | 269585 | [269585-ippan-zaidan-houjin-nippon-kanji-shuujukudo-kentei-kikou-kounen-kanjukuken-ds.json](./269585-ippan-zaidan-houjin-nippon-kanji-shuujukudo-kentei-kikou-kounen-kanjukuken-ds.json) |
 | IPS 13: All Signals Lost | 369012 | [369012-ips-13-all-signals-lost.json](./369012-ips-13-all-signals-lost.json) |
