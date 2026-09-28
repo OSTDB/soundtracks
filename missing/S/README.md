@@ -4594,6 +4594,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Wire | 205033 | [205033-silver-wire.json](./205033-silver-wire.json) |
 | SilverDollar | 101525 | [101525-silverdollar.json](./101525-silverdollar.json) |
 | Silverfall | 15718 | [15718-silverfall.json](./15718-silverfall.json) |
+| Silverio Vendetta | 113202 | [113202-silverio-vendetta.json](./113202-silverio-vendetta.json) |
+| Silverio Vendetta: Verse of Orpheus | 113203 | [113203-silverio-vendetta-verse-of-orpheus.json](./113203-silverio-vendetta-verse-of-orpheus.json) |
 | Silverpine | 410989 | [410989-silverpine.json](./410989-silverpine.json) |
 | Silverpine Creek | 302478 | [302478-silverpine-creek.json](./302478-silverpine-creek.json) |
 | SilverStarChess | 147986 | [147986-silverstarchess.json](./147986-silverstarchess.json) |
@@ -8597,6 +8599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Storeship | 163849 | [163849-space-storeship.json](./163849-space-storeship.json) |
 | Space Stranger | 252730 | [252730-space-stranger.json](./252730-space-stranger.json) |
 | Space Strider | 275093 | [275093-space-strider.json](./275093-space-strider.json) |
+| Space Struck Run | 113158 | [113158-space-struck-run.json](./113158-space-struck-run.json) |
 | Space Subtraction | 310971 | [310971-space-subtraction.json](./310971-space-subtraction.json) |
 | Space Survival | 171402 | [171402-space-survival.json](./171402-space-survival.json) |
 | Space Survival | 183863 | [183863-space-survival.json](./183863-space-survival.json) |
@@ -9095,6 +9098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellcaster University: Gears and Gobelins | 347676 | [347676-spellcaster-university-gears-and-gobelins.json](./347676-spellcaster-university-gears-and-gobelins.json) |
 | Spellcaster: The Forgotten Spell | 61895 | [61895-spellcaster-the-forgotten-spell.json](./61895-spellcaster-the-forgotten-spell.json) |
 | Spellcaster's Assistant | 96733 | [96733-spellcasters-assistant.json](./96733-spellcasters-assistant.json) |
+| Spellcastia | 113181 | [113181-spellcastia.json](./113181-spellcastia.json) |
 | Spellcasting 1+2+3 | 124795 | [124795-spellcasting-1-2-3.json](./124795-spellcasting-1-2-3.json) |
 | Spellcasting 101: Sorcerers get all the Girls | 92973 | [92973-spellcasting-101-sorcerers-get-all-the-girls.json](./92973-spellcasting-101-sorcerers-get-all-the-girls.json) |
 | Spellcasting 201: The Sorcerer's Appliance | 72074 | [72074-spellcasting-201-the-sorcerers-appliance.json](./72074-spellcasting-201-the-sorcerers-appliance.json) |
@@ -11136,6 +11140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Ball Race | 188947 | [188947-steel-ball-race.json](./188947-steel-ball-race.json) |
 | Steel Battalion: Heavy Armor | 8547 | [8547-steel-battalion-heavy-armor.json](./8547-steel-battalion-heavy-armor.json) |
 | Steel Chronicle VicTroopers | 372133 | [372133-steel-chronicle-victroopers.json](./372133-steel-chronicle-victroopers.json) |
+| Steel Circus | 113149 | [113149-steel-circus.json](./113149-steel-circus.json) |
 | Steel Civilizations | 176373 | [176373-steel-civilizations.json](./176373-steel-civilizations.json) |
 | Steel Commanders | 323191 | [323191-steel-commanders.json](./323191-steel-commanders.json) |
 | Steel Covenant | 339665 | [339665-steel-covenant.json](./339665-steel-covenant.json) |
@@ -12361,6 +12366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submarine Fury | 73802 | [73802-submarine-fury.json](./73802-submarine-fury.json) |
 | Submarine Samurai | 183556 | [183556-submarine-samurai.json](./183556-submarine-samurai.json) |
 | Submarine War | 154007 | [154007-submarine-war.json](./154007-submarine-war.json) |
+| SubmarineCraft | 113183 | [113183-submarinecraft.json](./113183-submarinecraft.json) |
 | Submarines | 277915 | [277915-submarines.json](./277915-submarines.json) |
 | Submarines 2D | 301992 | [301992-submarines-2d.json](./301992-submarines-2d.json) |
 | Submerged | 182813 | [182813-submerged.json](./182813-submerged.json) |
@@ -12560,6 +12566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku: Tied Up & Bound | 275648 | [275648-sudoku-tied-up-and-bound.json](./275648-sudoku-tied-up-and-bound.json) |
 | Sudoku: Unlimited Expansion | 405622 | [405622-sudoku-unlimited-expansion.json](./405622-sudoku-unlimited-expansion.json) |
 | Sudoku! For Watch | 368475 | [368475-sudoku-for-watch.json](./368475-sudoku-for-watch.json) |
+| Sudoku3D | 113193 | [113193-sudoku3d.json](./113193-sudoku3d.json) |
 | SudoKube | 193451 | [193451-sudokube.json](./193451-sudokube.json) |
 | Sudokuro: Sudoku & Kakuro Games | 337677 | [337677-sudokuro-sudoku-and-kakuro-games.json](./337677-sudokuro-sudoku-and-kakuro-games.json) |
 | Sue Shi Survival | 219584 | [219584-sue-shi-survival.json](./219584-sue-shi-survival.json) |
