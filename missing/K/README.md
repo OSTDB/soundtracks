@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaminariko Konpeki no Akira | 221246 | [221246-kaminariko-konpeki-no-akira.json](./221246-kaminariko-konpeki-no-akira.json) |
 | Kaminazo: Mirai kara no Omoi de | 222261 | [222261-kaminazo-mirai-kara-no-omoi-de.json](./222261-kaminazo-mirai-kara-no-omoi-de.json) |
 | Kamiori | 104647 | [104647-kamiori.json](./104647-kamiori.json) |
+| Kamipani! | 91517 | [91517-kamipani.json](./91517-kamipani.json) |
 | Kamisama no Hitsugi | 328215 | [328215-kamisama-no-hitsugi.json](./328215-kamisama-no-hitsugi.json) |
 | Kamisama: Spirit of the Shrine | 218737 | [218737-kamisama-spirit-of-the-shrine.json](./218737-kamisama-spirit-of-the-shrine.json) |
 | Kamitsubaki Academy Newspaper Club | 339807 | [339807-kamitsubaki-academy-newspaper-club.json](./339807-kamitsubaki-academy-newspaper-club.json) |
