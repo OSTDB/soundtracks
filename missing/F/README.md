@@ -749,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Tennis | 239162 | [239162-family-tennis.json](./239162-family-tennis.json) |
 | Family Tennis Advance | 49581 | [49581-family-tennis-advance.json](./49581-family-tennis-advance.json) |
 | Family Town | 219265 | [219265-family-town.json](./219265-family-town.json) |
+| Family Trainer: Fuuun! Takeshi-jou 2 | 64499 | [64499-family-trainer-fuuun-takeshi-jou-2.json](./64499-family-trainer-fuuun-takeshi-jou-2.json) |
 | Family Tree | 124625 | [124625-family-tree.json](./124625-family-tree.json) |
 | Family Tree! | 274744 | [274744-family-tree.json](./274744-family-tree.json) |
 | Famine in Wonderland | 410272 | [410272-famine-in-wonderland.json](./410272-famine-in-wonderland.json) |
@@ -4291,6 +4292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forged of Blood | 27954 | [27954-forged-of-blood.json](./27954-forged-of-blood.json) |
 | Forgekeepers | 332542 | [332542-forgekeepers.json](./332542-forgekeepers.json) |
 | ForgeRun | 374047 | [374047-forgerun.json](./374047-forgerun.json) |
+| Forget Me Not: Palette | 64474 | [64474-forget-me-not-palette.json](./64474-forget-me-not-palette.json) |
 | Forget the Brakes | 134604 | [134604-forget-the-brakes.json](./134604-forget-the-brakes.json) |
 | Forget the Golden Witch | 193352 | [193352-forget-the-golden-witch.json](./193352-forget-the-golden-witch.json) |
 | Forget Westbury Falls: Disc One | 192960 | [192960-forget-westbury-falls-disc-one.json](./192960-forget-westbury-falls-disc-one.json) |
