@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qbio | 168653 | [168653-qbio.json](./168653-qbio.json) |
 | QBob: Remastered | 358309 | [358309-qbob-remastered.json](./358309-qbob-remastered.json) |
 | Qbots | 63548 | [63548-qbots.json](./63548-qbots.json) |
+| QBz | 78079 | [78079-qbz.json](./78079-qbz.json) |
 | Qdice | 232975 | [232975-qdice.json](./232975-qdice.json) |
 | QED Refine/Succeed | 125392 | [125392-qed-refine-succeed.json](./125392-qed-refine-succeed.json) |
 | Qelochia | 384498 | [384498-qelochia.json](./384498-qelochia.json) |
