@@ -1912,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 97 | 240181 | [240181-fifa-soccer-97.json](./240181-fifa-soccer-97.json) |
 | FIFA Soccer 97 | 240191 | [240191-fifa-soccer-97.json](./240191-fifa-soccer-97.json) |
 | FIFA Soccer 97 | 240217 | [240217-fifa-soccer-97.json](./240217-fifa-soccer-97.json) |
+| FIFA Soccer Manager | 79955 | [79955-fifa-soccer-manager.json](./79955-fifa-soccer-manager.json) |
 | FIFA Street 3 | 7304 | [7304-fifa-street-3.json](./7304-fifa-street-3.json) |
 | FIFA World Cup: Launch Edition | 404400 | [404400-fifa-world-cup-launch-edition.json](./404400-fifa-world-cup-launch-edition.json) |
 | FIFA: Road to World Cup 98 | 705 | [705-fifa-road-to-world-cup-98.json](./705-fifa-road-to-world-cup-98.json) |
@@ -3739,6 +3740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flyhight Cloudia IV - Eien no Kizuna | 292092 | [292092-flyhight-cloudia-iv-eien-no-kizuna.json](./292092-flyhight-cloudia-iv-eien-no-kizuna.json) |
 | Flyin' High | 72060 | [72060-flyin-high.json](./72060-flyin-high.json) |
 | Flyin' High Data Disk 1 | 93009 | [93009-flyin-high-data-disk-1.json](./93009-flyin-high-data-disk-1.json) |
+| Flyin' High Data Disk 2 | 79965 | [79965-flyin-high-data-disk-2.json](./79965-flyin-high-data-disk-2.json) |
 | Flying 'N Frying Popcorn Dude | 273493 | [273493-flying-n-frying-popcorn-dude.json](./273493-flying-n-frying-popcorn-dude.json) |
 | Flying Aces: Legend of the Red Baron | 394997 | [394997-flying-aces-legend-of-the-red-baron.json](./394997-flying-aces-legend-of-the-red-baron.json) |
 | Flying Angel | 151002 | [151002-flying-angel.json](./151002-flying-angel.json) |
@@ -3787,6 +3789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flynguin Station | 121006 | [121006-flynguin-station.json](./121006-flynguin-station.json) |
 | Flyon RC | 406173 | [406173-flyon-rc.json](./406173-flyon-rc.json) |
 | Flyonoid | 122971 | [122971-flyonoid.json](./122971-flyonoid.json) |
+| FlyOrDie GemJam | 79952 | [79952-flyordie-gemjam.json](./79952-flyordie-gemjam.json) |
 | Flyto | 244480 | [244480-flyto.json](./244480-flyto.json) |
 | Flytrapped | 392491 | [392491-flytrapped.json](./392491-flytrapped.json) |
 | FlyWings 2018 Flight Simulator: Aerobatic Family | 168883 | [168883-flywings-2018-flight-simulator-aerobatic-family.json](./168883-flywings-2018-flight-simulator-aerobatic-family.json) |
@@ -3827,6 +3830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNF: Spooky Mix | 365105 | [365105-fnf-spooky-mix.json](./365105-fnf-spooky-mix.json) |
 | FNF: V.S. Tabi Ex Boyfriend | 314513 | [314513-fnf-v-s-tabi-ex-boyfriend.json](./314513-fnf-v-s-tabi-ex-boyfriend.json) |
 | Foam | 138267 | [138267-foam.json](./138267-foam.json) |
+| Fobos | 79830 | [79830-fobos.json](./79830-fobos.json) |
 | Foc/us | 223677 | [223677-foc-us.json](./223677-foc-us.json) |
 | Focumon | 397828 | [397828-focumon.json](./397828-focumon.json) |
 | Focus | 182941 | [182941-focus.json](./182941-focus.json) |
@@ -5590,6 +5594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuck Quest 2: Romancing the Bone | 69235 | [69235-fuck-quest-2-romancing-the-bone.json](./69235-fuck-quest-2-romancing-the-bone.json) |
 | Fuck Space! | 199085 | [199085-fuck-space.json](./199085-fuck-space.json) |
 | Fuck the Police | 159889 | [159889-fuck-the-police.json](./159889-fuck-the-police.json) |
+| Fuck Typing | 79958 | [79958-fuck-typing.json](./79958-fuck-typing.json) |
 | Fucked by the Princesses of the Realm | 372488 | [372488-fucked-by-the-princesses-of-the-realm.json](./372488-fucked-by-the-princesses-of-the-realm.json) |
 | Fuddo & Slam | 250342 | [250342-fuddo-and-slam.json](./250342-fuddo-and-slam.json) |
 | Fudou Myouou Den | 48909 | [48909-fudou-myouou-den.json](./48909-fudou-myouou-den.json) |
