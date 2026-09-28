@@ -2105,6 +2105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ouchi Mainichi Tamagotchi | 77629 | [77629-ouchi-mainichi-tamagotchi.json](./77629-ouchi-mainichi-tamagotchi.json) |
 | Ouchi Otofuda | 206371 | [206371-ouchi-otofuda.json](./206371-ouchi-otofuda.json) |
 | Oudbiao's World | 258477 | [258477-oudbiaos-world.json](./258477-oudbiaos-world.json) |
+| Ougon no Haka | 67363 | [67363-ougon-no-haka.json](./67363-ougon-no-haka.json) |
 | Ougon no Kizuna | 72603 | [72603-ougon-no-kizuna.json](./72603-ougon-no-kizuna.json) |
 | Ouija | 155997 | [155997-ouija.json](./155997-ouija.json) |
 | Ouija Rumours | 190989 | [190989-ouija-rumours.json](./190989-ouija-rumours.json) |
