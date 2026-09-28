@@ -1535,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feast: Book One - Family Ties | 137036 | [137036-feast-book-one-family-ties.json](./137036-feast-book-one-family-ties.json) |
 | FeastTower | 277298 | [277298-feasttower.json](./277298-feasttower.json) |
 | Feather | 107222 | [107222-feather.json](./107222-feather.json) |
+| Feather of Praying | 102970 | [102970-feather-of-praying.json](./102970-feather-of-praying.json) |
 | Feather Park | 218569 | [218569-feather-park.json](./218569-feather-park.json) |
 | Featherbound | 294269 | [294269-featherbound.json](./294269-featherbound.json) |
 | Featherfall | 125367 | [125367-featherfall.json](./125367-featherfall.json) |
@@ -1587,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feeding the Monster | 69237 | [69237-feeding-the-monster.json](./69237-feeding-the-monster.json) |
 | FeedVid Live | 214433 | [214433-feedvid-live.json](./214433-feedvid-live.json) |
 | Feel the Fear Around | 310737 | [310737-feel-the-fear-around.json](./310737-feel-the-fear-around.json) |
+| Feelin | 102931 | [102931-feelin.json](./102931-feelin.json) |
 | Feeling Arrow | 208975 | [208975-feeling-arrow.json](./208975-feeling-arrow.json) |
 | Feeling Death | 287723 | [287723-feeling-death.json](./287723-feeling-death.json) |
 | FeeSoeeD | 51556 | [51556-feesoeed.json](./51556-feesoeed.json) |
