@@ -2789,6 +2789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bear Essentials | 47240 | [47240-the-bear-essentials.json](./47240-the-bear-essentials.json) |
 | The Bear Kick | 102114 | [102114-the-bear-kick.json](./102114-the-bear-kick.json) |
 | The Beardless Wizard | 54437 | [54437-the-beardless-wizard.json](./54437-the-beardless-wizard.json) |
+| The Bears and The Bees | 83618 | [83618-the-bears-and-the-bees.json](./83618-the-bears-and-the-bees.json) |
 | The Beast | 100210 | [100210-the-beast.json](./100210-the-beast.json) |
 | The Beast Inside | 88116 | [88116-the-beast-inside.json](./88116-the-beast-inside.json) |
 | The Beast of the Rosewood | 302134 | [302134-the-beast-of-the-rosewood.json](./302134-the-beast-of-the-rosewood.json) |
@@ -3457,6 +3458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursed Oasis | 253607 | [253607-the-cursed-oasis.json](./253607-the-cursed-oasis.json) |
 | The Cursed Ship Collector's Edition | 87864 | [87864-the-cursed-ship-collectors-edition.json](./87864-the-cursed-ship-collectors-edition.json) |
 | The Cursed Tape | 302677 | [302677-the-cursed-tape.json](./302677-the-cursed-tape.json) |
+| The Cursed Tower | 83617 | [83617-the-cursed-tower.json](./83617-the-cursed-tower.json) |
 | The Cursed Underground Parking Lot | 344351 | [344351-the-cursed-underground-parking-lot.json](./344351-the-cursed-underground-parking-lot.json) |
 | The Cursewood | 240720 | [240720-the-cursewood.json](./240720-the-cursewood.json) |
 | The Cute Whale | 378182 | [378182-the-cute-whale.json](./378182-the-cute-whale.json) |
@@ -8680,6 +8682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThiefRl2 | 184578 | [184578-thiefrl2.json](./184578-thiefrl2.json) |
 | Thievery | 105326 | [105326-thievery.json](./105326-thievery.json) |
 | Thieves | 335875 | [335875-thieves.json](./335875-thieves.json) |
+| Thieves and Kings | 83463 | [83463-thieves-and-kings.json](./83463-thieves-and-kings.json) |
 | Thieves Guild Master | 413662 | [413662-thieves-guild-master.json](./413662-thieves-guild-master.json) |
 | Thieves of Dingirra | 304694 | [304694-thieves-of-dingirra.json](./304694-thieves-of-dingirra.json) |
 | Thieves World | 297467 | [297467-thieves-world.json](./297467-thieves-world.json) |
