@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abnormal Stairs | 316639 | [316639-abnormal-stairs.json](./316639-abnormal-stairs.json) |
 | Abnormal State: Otome Love | 303099 | [303099-abnormal-state-otome-love.json](./303099-abnormal-state-otome-love.json) |
 | Abnormal Status: Tattoo, Prohibited Books, Parasites | 226213 | [226213-abnormal-status-tattoo-prohibited-books-parasites.json](./226213-abnormal-status-tattoo-prohibited-books-parasites.json) |
+| Abnormal world: Season One | 96881 | [96881-abnormal-world-season-one.json](./96881-abnormal-world-season-one.json) |
 | Aboard the Adventure | 187395 | [187395-aboard-the-adventure.json](./187395-aboard-the-adventure.json) |
 | Abode | 26370 | [26370-abode.json](./26370-abode.json) |
 | Abode: Definitive Edition | 337789 | [337789-abode-definitive-edition.json](./337789-abode-definitive-edition.json) |
