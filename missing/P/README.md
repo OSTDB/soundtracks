@@ -4293,6 +4293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plot Hole | 238455 | [238455-plot-hole.json](./238455-plot-hole.json) |
 | Plot of the Druid | 126533 | [126533-plot-of-the-druid.json](./126533-plot-of-the-druid.json) |
 | Plot Twist | 329649 | [329649-plot-twist.json](./329649-plot-twist.json) |
+| Plot's 3 | 91538 | [91538-plots-3.json](./91538-plots-3.json) |
 | Plotting | 12196 | [12196-plotting.json](./12196-plotting.json) |
 | Plowing | 276190 | [276190-plowing.json](./276190-plowing.json) |
 | Plowing Through | 271806 | [271806-plowing-through.json](./271806-plowing-through.json) |
