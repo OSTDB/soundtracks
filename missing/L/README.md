@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laf the game | 226204 | [226204-laf-the-game.json](./226204-laf-the-game.json) |
 | Laff Pack | 100022 | [100022-laff-pack.json](./100022-laff-pack.json) |
 | Laffy Taffy Long-Lasting 3D Pyramid Challenge | 373555 | [373555-laffy-taffy-long-lasting-3d-pyramid-challenge.json](./373555-laffy-taffy-long-lasting-3d-pyramid-challenge.json) |
+| Lafuma Unlimit | 69942 | [69942-lafuma-unlimit.json](./69942-lafuma-unlimit.json) |
 | Lafuma Unlimit 2 | 94694 | [94694-lafuma-unlimit-2.json](./94694-lafuma-unlimit-2.json) |
 | Lagnacure Legend | 93533 | [93533-lagnacure-legend.json](./93533-lagnacure-legend.json) |
 | Lagoon | 276473 | [276473-lagoon.json](./276473-lagoon.json) |
