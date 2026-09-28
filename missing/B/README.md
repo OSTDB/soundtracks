@@ -4399,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Smasher: 3D Arcade Action Reaction Brick Breaker Game | 90667 | [90667-block-smasher-3d-arcade-action-reaction-brick-breaker-game.json](./90667-block-smasher-3d-arcade-action-reaction-brick-breaker-game.json) |
 | Block Sprawl | 406673 | [406673-block-sprawl.json](./406673-block-sprawl.json) |
 | Block Strike | 28898 | [28898-block-strike.json](./28898-block-strike.json) |
+| Block Tricks | 107364 | [107364-block-tricks.json](./107364-block-tricks.json) |
 | Block Trucks Multiplayer Racing | 337655 | [337655-block-trucks-multiplayer-racing.json](./337655-block-trucks-multiplayer-racing.json) |
 | Block Tuner | 124253 | [124253-block-tuner.json](./124253-block-tuner.json) |
 | Block Warfare Zombies | 343814 | [343814-block-warfare-zombies.json](./343814-block-warfare-zombies.json) |
