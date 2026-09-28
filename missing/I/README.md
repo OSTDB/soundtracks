@@ -1240,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In another world, I will attain my dream of ALL I CAN SEX! | 82896 | [82896-in-another-world-i-will-attain-my-dream-of-all-i-can-sex.json](./82896-in-another-world-i-will-attain-my-dream-of-all-i-can-sex.json) |
 | In Ashes | 329377 | [329377-in-ashes.json](./329377-in-ashes.json) |
 | In Between | 151116 | [151116-in-between.json](./151116-in-between.json) |
+| In Between Games | 82003 | [82003-in-between-games.json](./82003-in-between-games.json) |
 | In Bred With Rednex | 66088 | [66088-in-bred-with-rednex.json](./66088-in-bred-with-rednex.json) |
 | In Cell | 230928 | [230928-in-cell.json](./230928-in-cell.json) |
 | In Cold Blood | 9680 | [9680-in-cold-blood.json](./9680-in-cold-blood.json) |
@@ -1718,6 +1719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinitely Up: Turn the Figure | 335334 | [335334-infinitely-up-turn-the-figure.json](./335334-infinitely-up-turn-the-figure.json) |
 | Infinitree | 187237 | [187237-infinitree.json](./187237-infinitree.json) |
 | Infinitroid | 70380 | [70380-infinitroid.json](./70380-infinitroid.json) |
+| Infinitum | 82010 | [82010-infinitum.json](./82010-infinitum.json) |
 | Infinitum: Deluxe Edition | 53232 | [53232-infinitum-deluxe-edition.json](./53232-infinitum-deluxe-edition.json) |
 | Infinitum: Legends | 26967 | [26967-infinitum-legends.json](./26967-infinitum-legends.json) |
 | Infinitum: The Backrooms Story | 258179 | [258179-infinitum-the-backrooms-story.json](./258179-infinitum-the-backrooms-story.json) |
