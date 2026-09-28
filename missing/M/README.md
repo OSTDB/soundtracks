@@ -6146,6 +6146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobocratic | 164279 | [164279-mobocratic.json](./164279-mobocratic.json) |
 | Mobs 'N Monsters | 321379 | [321379-mobs-n-monsters.json](./321379-mobs-n-monsters.json) |
 | Mobsmash.io | 125981 | [125981-mobsmash-io.json](./125981-mobsmash-io.json) |
+| Mobsters | 78608 | [78608-mobsters.json](./78608-mobsters.json) |
 | Mobu | 404826 | [404826-mobu.json](./404826-mobu.json) |
 | MoBu 2 - Race with Friends | 104627 | [104627-mobu-2-race-with-friends.json](./104627-mobu-2-race-with-friends.json) |
 | Mobula | 311790 | [311790-mobula.json](./311790-mobula.json) |
