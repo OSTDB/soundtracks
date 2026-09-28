@@ -3101,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects Magical Places | 99397 | [99397-hidden-objects-magical-places.json](./99397-hidden-objects-magical-places.json) |
 | Hidden Objects Painted Forest | 415893 | [415893-hidden-objects-painted-forest.json](./415893-hidden-objects-painted-forest.json) |
 | Hidden objects Play peek a boo | 100015 | [100015-hidden-objects-play-peek-a-boo.json](./100015-hidden-objects-play-peek-a-boo.json) |
+| Hidden Objects USA - New York, Florida, Vegas, Hollywood & Puzzle Travel Games | 70901 | [70901-hidden-objects-usa-new-york-florida-vegas-hollywood-and-puzzle-travel-games.json](./70901-hidden-objects-usa-new-york-florida-vegas-hollywood-and-puzzle-travel-games.json) |
 | Hidden Objects: Cartoon Fantasy | 170557 | [170557-hidden-objects-cartoon-fantasy.json](./170557-hidden-objects-cartoon-fantasy.json) |
 | Hidden Objects: Chambord Castle Adventures | 103534 | [103534-hidden-objects-chambord-castle-adventures.json](./103534-hidden-objects-chambord-castle-adventures.json) |
 | Hidden Objects: Coastal Hill Mystery | 115182 | [115182-hidden-objects-coastal-hill-mystery.json](./115182-hidden-objects-coastal-hill-mystery.json) |
