@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qīngmèng Tán: Wèng zhī Piān | 128987 | [128987-qingmeng-tan-weng-zhi-pian.json](./128987-qingmeng-tan-weng-zhi-pian.json) |
 | Qīngniǎo no Xūxiàng | 331944 | [331944-qingniao-no-xuxiang.json](./331944-qingniao-no-xuxiang.json) |
 | Qīngwā Tiào Mónǐqì | 114530 | [114530-qingwa-tiao-moniqi.json](./114530-qingwa-tiao-moniqi.json) |
+| Qipa World-Hello Big Adventure | 111893 | [111893-qipa-world-hello-big-adventure.json](./111893-qipa-world-hello-big-adventure.json) |
 | Qisah Tomang: Cycle Ends | 235989 | [235989-qisah-tomang-cycle-ends.json](./235989-qisah-tomang-cycle-ends.json) |
 | QiuQiu Town | 374612 | [374612-qiuqiu-town.json](./374612-qiuqiu-town.json) |
 | Qix | 12266 | [12266-qix.json](./12266-qix.json) |
