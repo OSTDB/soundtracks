@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Ultimate Ninja Storm - Limited Edition | 44661 | [44661-naruto-ultimate-ninja-storm-limited-edition.json](./44661-naruto-ultimate-ninja-storm-limited-edition.json) |
 | Narvas | 164895 | [164895-narvas.json](./164895-narvas.json) |
 | Narwhal Heist | 116164 | [116164-narwhal-heist.json](./116164-narwhal-heist.json) |
+| NASA's Eyes | 69376 | [69376-nasas-eyes.json](./69376-nasas-eyes.json) |
 | NASB: Nitro | 202153 | [202153-nasb-nitro.json](./202153-nasb-nitro.json) |
 | NASCAR '15 | 44560 | [44560-nascar-15.json](./44560-nascar-15.json) |
 | Nascar 06 Mobile | 210106 | [210106-nascar-06-mobile.json](./210106-nascar-06-mobile.json) |
