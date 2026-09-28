@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I will eat you | 126957 | [126957-i-will-eat-you.json](./126957-i-will-eat-you.json) |
 | I Will Return | 341876 | [341876-i-will-return.json](./341876-i-will-return.json) |
 | I Wish You Rain | 23884 | [23884-i-wish-you-rain.json](./23884-i-wish-you-rain.json) |
+| I Wish... Todoke, Kono Omoi | 77940 | [77940-i-wish-todoke-kono-omoi.json](./77940-i-wish-todoke-kono-omoi.json) |
 | I Witness | 298139 | [298139-i-witness.json](./298139-i-witness.json) |
 | I Woke up in an RPG | 415871 | [415871-i-woke-up-in-an-rpg.json](./415871-i-woke-up-in-an-rpg.json) |
 | I woke up in the house of a fat man: he's over 30 years old and loves beer and games | 376469 | [376469-i-woke-up-in-the-house-of-a-fat-man-hes-over-30-years-old-and-loves-beer-and-games.json](./376469-i-woke-up-in-the-house-of-a-fat-man-hes-over-30-years-old-and-loves-beer-and-games.json) |
