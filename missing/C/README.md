@@ -4718,6 +4718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Bite | 115008 | [115008-cold-bite.json](./115008-cold-bite.json) |
 | Cold Boot | 348876 | [348876-cold-boot.json](./348876-cold-boot.json) |
 | Cold Breath | 151050 | [151050-cold-breath.json](./151050-cold-breath.json) |
+| Cold Cable: Lifeshift | 115810 | [115810-cold-cable-lifeshift.json](./115810-cold-cable-lifeshift.json) |
 | Cold Call | 165989 | [165989-cold-call.json](./165989-cold-call.json) |
 | Cold Case Files | 57683 | [57683-cold-case-files.json](./57683-cold-case-files.json) |
 | Cold Case Summer | 151544 | [151544-cold-case-summer.json](./151544-cold-case-summer.json) |
