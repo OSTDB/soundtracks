@@ -1505,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Vegas Bounties III | 281369 | [281369-new-vegas-bounties-iii.json](./281369-new-vegas-bounties-iii.json) |
 | New Vegas Games | 72077 | [72077-new-vegas-games.json](./72077-new-vegas-games.json) |
 | New Vegas Killer | 281367 | [281367-new-vegas-killer.json](./281367-new-vegas-killer.json) |
+| New Wheels John? | 71575 | [71575-new-wheels-john.json](./71575-new-wheels-john.json) |
 | New Witch in Town | 143694 | [143694-new-witch-in-town.json](./143694-new-witch-in-town.json) |
 | New World | 263768 | [263768-new-world.json](./263768-new-world.json) |
 | New World | 291610 | [291610-new-world.json](./291610-new-world.json) |
