@@ -1611,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 8: Ultimate Pack | 293397 | [293397-tekken-8-ultimate-pack.json](./293397-tekken-8-ultimate-pack.json) |
 | Tekken Advance | 1240 | [1240-tekken-advance.json](./1240-tekken-advance.json) |
 | Tekken Mobile | 54783 | [54783-tekken-mobile.json](./54783-tekken-mobile.json) |
+| Tekken Resolute | 63942 | [63942-tekken-resolute.json](./63942-tekken-resolute.json) |
 | Tekken Revolution | 7660 | [7660-tekken-revolution.json](./7660-tekken-revolution.json) |
 | Tekken Tag Tournament 2 | 1238 | [1238-tekken-tag-tournament-2.json](./1238-tekken-tag-tournament-2.json) |
 | Tekken Tag Tournament 2: Prologue | 143749 | [143749-tekken-tag-tournament-2-prologue.json](./143749-tekken-tag-tournament-2-prologue.json) |
@@ -6686,6 +6687,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quarry: '50s Throwback Character Outfits | 224517 | [224517-the-quarry-50s-throwback-character-outfits.json](./224517-the-quarry-50s-throwback-character-outfits.json) |
 | The Quartet on Ice | 255634 | [255634-the-quartet-on-ice.json](./255634-the-quartet-on-ice.json) |
 | The Queen of Battlers 2 | 324923 | [324923-the-queen-of-battlers-2.json](./324923-the-queen-of-battlers-2.json) |
+| The Queen of Duellist | 63913 | [63913-the-queen-of-duellist.json](./63913-the-queen-of-duellist.json) |
+| The Queen of Duellist Gaiden | 63912 | [63912-the-queen-of-duellist-gaiden.json](./63912-the-queen-of-duellist-gaiden.json) |
+| The Queen of Duellist Gaiden α | 63911 | [63911-the-queen-of-duellist-gaiden.json](./63911-the-queen-of-duellist-gaiden.json) |
+| The Queen of Duellist Gaiden α+ | 63914 | [63914-the-queen-of-duellist-gaiden.json](./63914-the-queen-of-duellist-gaiden.json) |
 | The Queen of Hearts Maze Game | 25153 | [25153-the-queen-of-hearts-maze-game.json](./25153-the-queen-of-hearts-maze-game.json) |
 | The Queen TV-Game 2 | 147931 | [147931-the-queen-tv-game-2.json](./147931-the-queen-tv-game-2.json) |
 | The Queen's Footsteps | 304181 | [304181-the-queens-footsteps.json](./304181-the-queens-footsteps.json) |
@@ -13499,6 +13504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triachnid | 63255 | [63255-triachnid.json](./63255-triachnid.json) |
 | Triad | 304367 | [304367-triad.json](./304367-triad.json) |
 | Triad | 54692 | [54692-triad.json](./54692-triad.json) |
+| Triad Stone | 63931 | [63931-triad-stone.json](./63931-triad-stone.json) |
 | Triad Volume 1 | 93153 | [93153-triad-volume-1.json](./93153-triad-volume-1.json) |
 | Triadino | 277342 | [277342-triadino.json](./277342-triadino.json) |
 | Triage | 228341 | [228341-triage.json](./228341-triage.json) |
@@ -13641,6 +13647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigaea | 227914 | [227914-trigaea.json](./227914-trigaea.json) |
 | Trigger | 104044 | [104044-trigger.json](./104044-trigger.json) |
 | Trigger | 179070 | [179070-trigger.json](./179070-trigger.json) |
+| Trigger | 63910 | [63910-trigger.json](./63910-trigger.json) |
 | Trigger Happy | 174806 | [174806-trigger-happy.json](./174806-trigger-happy.json) |
 | Trigger Knight | 314452 | [314452-trigger-knight.json](./314452-trigger-knight.json) |
 | Trigger Rally | 63239 | [63239-trigger-rally.json](./63239-trigger-rally.json) |
