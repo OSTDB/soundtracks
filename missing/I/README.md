@@ -1324,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Weeds | 235837 | [235837-in-the-weeds.json](./235837-in-the-weeds.json) |
 | In the Wild | 190143 | [190143-in-the-wild.json](./190143-in-the-wild.json) |
 | In the Workplace of Madness | 207335 | [207335-in-the-workplace-of-madness.json](./207335-in-the-workplace-of-madness.json) |
+| In the World End, You and Me the Forget's Legend | 93724 | [93724-in-the-world-end-you-and-me-the-forgets-legend.json](./93724-in-the-world-end-you-and-me-the-forgets-legend.json) |
 | In This House | 327375 | [327375-in-this-house.json](./327375-in-this-house.json) |
 | In to the 029 | 207783 | [207783-in-to-the-029.json](./207783-in-to-the-029.json) |
 | In Tran Sit | 184612 | [184612-in-tran-sit.json](./184612-in-tran-sit.json) |
