@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Frog | 327576 | [327576-legend-of-frog.json](./327576-legend-of-frog.json) |
 | Legend of Gallant | 295915 | [295915-legend-of-gallant.json](./295915-legend-of-gallant.json) |
 | Legend Of Ghost Slayer Idle | 245376 | [245376-legend-of-ghost-slayer-idle.json](./245376-legend-of-ghost-slayer-idle.json) |
+| Legend of Girl Friend and GDC | 115140 | [115140-legend-of-girl-friend-and-gdc.json](./115140-legend-of-girl-friend-and-gdc.json) |
 | Legend of Grimrock 2 | 8456 | [8456-legend-of-grimrock-2.json](./8456-legend-of-grimrock-2.json) |
 | Legend of Herkules | 66941 | [66941-legend-of-herkules.json](./66941-legend-of-herkules.json) |
 | Legend of Heroes: Eternal Arena | 151200 | [151200-legend-of-heroes-eternal-arena.json](./151200-legend-of-heroes-eternal-arena.json) |
@@ -2637,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Problems | 272792 | [272792-little-problems.json](./272792-little-problems.json) |
 | Little Racer | 124023 | [124023-little-racer.json](./124023-little-racer.json) |
 | Little Racers | 91735 | [91735-little-racers.json](./91735-little-racers.json) |
+| Little Races | 115148 | [115148-little-races.json](./115148-little-races.json) |
 | Little Rats' Big Top | 180804 | [180804-little-rats-big-top.json](./180804-little-rats-big-top.json) |
 | Little Re-collector | 369059 | [369059-little-re-collector.json](./369059-little-re-collector.json) |
 | Little Reaper | 111523 | [111523-little-reaper.json](./111523-little-reaper.json) |
@@ -3081,6 +3083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loneliness | 139344 | [139344-loneliness.json](./139344-loneliness.json) |
 | Loneliness Butterfly | 314074 | [314074-loneliness-butterfly.json](./314074-loneliness-butterfly.json) |
 | Lonely | 229677 | [229677-lonely.json](./229677-lonely.json) |
+| Lonely Adventure | 115183 | [115183-lonely-adventure.json](./115183-lonely-adventure.json) |
 | Lonely Catgirl is the Purrfect Pussy | 156629 | [156629-lonely-catgirl-is-the-purrfect-pussy.json](./156629-lonely-catgirl-is-the-purrfect-pussy.json) |
 | Lonely House | 342286 | [342286-lonely-house.json](./342286-lonely-house.json) |
 | Lonely in the Winter | 86338 | [86338-lonely-in-the-winter.json](./86338-lonely-in-the-winter.json) |
