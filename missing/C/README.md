@@ -2347,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Changa | 196713 | [196713-changa.json](./196713-changa.json) |
 | Change | 229674 | [229674-change.json](./229674-change.json) |
 | Change | 81724 | [81724-change.json](./81724-change.json) |
+| Change : A Little Story | 113146 | [113146-change-a-little-story.json](./113146-change-a-little-story.json) |
 | Change Air Blade | 39833 | [39833-change-air-blade.json](./39833-change-air-blade.json) |
 | Change Lanes | 292098 | [292098-change-lanes.json](./292098-change-lanes.json) |
 | Change Maker | 71769 | [71769-change-maker.json](./71769-change-maker.json) |
@@ -6047,6 +6048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coromon: Rogue Planet | 315506 | [315506-coromon-rogue-planet.json](./315506-coromon-rogue-planet.json) |
 | Corona Blossom Vol.1 Gift From the Galaxy | 32228 | [32228-corona-blossom-vol-1-gift-from-the-galaxy.json](./32228-corona-blossom-vol-1-gift-from-the-galaxy.json) |
 | Corona Blossom Vol.3 Journey to the Stars | 30334 | [30334-corona-blossom-vol-3-journey-to-the-stars.json](./30334-corona-blossom-vol-3-journey-to-the-stars.json) |
+| Corona Borealis | 113186 | [113186-corona-borealis.json](./113186-corona-borealis.json) |
 | Corona Frustration Elimination | 165001 | [165001-corona-frustration-elimination.json](./165001-corona-frustration-elimination.json) |
 | Corona MotorSport | 35926 | [35926-corona-motorsport.json](./35926-corona-motorsport.json) |
 | Corona Simulator: Savior Edition | 165004 | [165004-corona-simulator-savior-edition.json](./165004-corona-simulator-savior-edition.json) |
@@ -6768,6 +6770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashy Cars! | 247178 | [247178-crashy-cars.json](./247178-crashy-cars.json) |
 | Crashy Cops! | 104642 | [104642-crashy-cops.json](./104642-crashy-cops.json) |
 | Crashy Laps | 244237 | [244237-crashy-laps.json](./244237-crashy-laps.json) |
+| Crashy Racing | 113157 | [113157-crashy-racing.json](./113157-crashy-racing.json) |
 | Crate Escape | 269283 | [269283-crate-escape.json](./269283-crate-escape.json) |
 | Crate Expectations | 299446 | [299446-crate-expectations.json](./299446-crate-expectations.json) |
 | Crate Knight | 207532 | [207532-crate-knight.json](./207532-crate-knight.json) |
