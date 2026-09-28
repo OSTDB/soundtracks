@@ -2178,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightsaver | 388384 | [388384-lightsaver.json](./388384-lightsaver.json) |
 | Lightslayer | 127784 | [127784-lightslayer.json](./127784-lightslayer.json) |
 | LightSlinger Heroes | 100363 | [100363-lightslinger-heroes.json](./100363-lightslinger-heroes.json) |
+| Lightspeed | 71049 | [71049-lightspeed.json](./71049-lightspeed.json) |
 | Lightspeed | 77325 | [77325-lightspeed.json](./77325-lightspeed.json) |
 | Lightspeed Bit Bit | 259069 | [259069-lightspeed-bit-bit.json](./259069-lightspeed-bit-bit.json) |
 | Lightspeed Dating: Deluxe | 227873 | [227873-lightspeed-dating-deluxe.json](./227873-lightspeed-dating-deluxe.json) |
@@ -4261,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna Blaze | 353870 | [353870-luna-blaze.json](./353870-luna-blaze.json) |
 | Luna Child no Saishuu Bouei Line 2 | 204405 | [204405-luna-child-no-saishuu-bouei-line-2.json](./204405-luna-child-no-saishuu-bouei-line-2.json) |
 | Luna Child no Saishuu Bouei Line 3 | 202971 | [202971-luna-child-no-saishuu-bouei-line-3.json](./202971-luna-child-no-saishuu-bouei-line-3.json) |
+| Luna Crabs | 71054 | [71054-luna-crabs.json](./71054-luna-crabs.json) |
 | Luna de Selene | 383349 | [383349-luna-de-selene.json](./383349-luna-de-selene.json) |
 | Luna in Silver Shards | 271233 | [271233-luna-in-silver-shards.json](./271233-luna-in-silver-shards.json) |
 | Luna Online | 93982 | [93982-luna-online.json](./93982-luna-online.json) |
