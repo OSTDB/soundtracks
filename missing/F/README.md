@@ -2556,6 +2556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Thief | 286053 | [286053-fire-thief.json](./286053-fire-thief.json) |
 | Fire Trap | 39551 | [39551-fire-trap.json](./39551-fire-trap.json) |
 | Fire Truck | 40039 | [40039-fire-truck.json](./40039-fire-truck.json) |
+| Fire Truck: Airport Rescue | 96909 | [96909-fire-truck-airport-rescue.json](./96909-fire-truck-airport-rescue.json) |
 | Fire Trump: Air Combat VR | 171362 | [171362-fire-trump-air-combat-vr.json](./171362-fire-trump-air-combat-vr.json) |
 | Fire Up Together | 416103 | [416103-fire-up-together.json](./416103-fire-up-together.json) |
 | Fire Up: Football Manager | 347236 | [347236-fire-up-football-manager.json](./347236-fire-up-football-manager.json) |
@@ -3860,6 +3861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Chain | 369644 | [369644-food-chain.json](./369644-food-chain.json) |
 | Food Chain Farm | 184886 | [184886-food-chain-farm.json](./184886-food-chain-farm.json) |
 | Food Comes From Above | 157715 | [157715-food-comes-from-above.json](./157715-food-comes-from-above.json) |
+| Food Conga | 96892 | [96892-food-conga.json](./96892-food-conga.json) |
 | Food Courier: Bike Adventure | 320370 | [320370-food-courier-bike-adventure.json](./320370-food-courier-bike-adventure.json) |
 | Food Decisions | 292682 | [292682-food-decisions.json](./292682-food-decisions.json) |
 | Food Delivery Battle | 166634 | [166634-food-delivery-battle.json](./166634-food-delivery-battle.json) |
@@ -5756,6 +5758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Racer | 291008 | [291008-funny-racer.json](./291008-funny-racer.json) |
 | Funny Racer | 305350 | [305350-funny-racer.json](./305350-funny-racer.json) |
 | Funny words | 103911 | [103911-funny-words.json](./103911-funny-words.json) |
+| Funny Yo | 96901 | [96901-funny-yo.json](./96901-funny-yo.json) |
 | FunnyJoy: Brain on Line | 95999 | [95999-funnyjoy-brain-on-line.json](./95999-funnyjoy-brain-on-line.json) |
 | Funorbit | 415857 | [415857-funorbit.json](./415857-funorbit.json) |
 | FunPack: Mums | 177052 | [177052-funpack-mums.json](./177052-funpack-mums.json) |
