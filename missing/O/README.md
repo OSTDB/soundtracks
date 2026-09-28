@@ -1822,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore Market Masters Simulator | 326393 | [326393-ore-market-masters-simulator.json](./326393-ore-market-masters-simulator.json) |
 | Ore ni Hatarakette Iwaretemo Tori | 60197 | [60197-ore-ni-hatarakette-iwaretemo-tori.json](./60197-ore-ni-hatarakette-iwaretemo-tori.json) |
 | Ore no Dungeon | 58165 | [58165-ore-no-dungeon.json](./58165-ore-no-dungeon.json) |
+| Ore no Imouto ga Konna ni Kawaii wake ga Nai Portable | 66192 | [66192-ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-portable.json](./66192-ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-portable.json) |
 | Ore no Imouto Maker EX: Imouto to Koi Shiyo? Portable | 197947 | [197947-ore-no-imouto-maker-ex-imouto-to-koi-shiyo-portable.json](./197947-ore-no-imouto-maker-ex-imouto-to-koi-shiyo-portable.json) |
 | Ore no Kanojo ga Gachi Hentai Sugiru | 97480 | [97480-ore-no-kanojo-ga-gachi-hentai-sugiru.json](./97480-ore-no-kanojo-ga-gachi-hentai-sugiru.json) |
 | Ore no Ryouri | 44880 | [44880-ore-no-ryouri.json](./44880-ore-no-ryouri.json) |
