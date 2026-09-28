@@ -1749,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feudal Friends | 239587 | [239587-feudal-friends.json](./239587-feudal-friends.json) |
 | Feudalism | 234914 | [234914-feudalism.json](./234914-feudalism.json) |
 | Feudalism II | 234915 | [234915-feudalism-ii.json](./234915-feudalism-ii.json) |
+| Feuerwache: Mission - Leben retten | 81479 | [81479-feuerwache-mission-leben-retten.json](./81479-feuerwache-mission-leben-retten.json) |
 | Fever Cabin | 128439 | [128439-fever-cabin.json](./128439-fever-cabin.json) |
 | Fever Frenzy | 209420 | [209420-fever-frenzy.json](./209420-fever-frenzy.json) |
 | Few Nights More | 147351 | [147351-few-nights-more.json](./147351-few-nights-more.json) |
@@ -5383,6 +5384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Office Football: The Fourth Edition | 68050 | [68050-front-office-football-the-fourth-edition.json](./68050-front-office-football-the-fourth-edition.json) |
 | Front Page Sports Football | 10337 | [10337-front-page-sports-football.json](./10337-front-page-sports-football.json) |
 | Front Page Sports: Baseball '94 | 68960 | [68960-front-page-sports-baseball-94.json](./68960-front-page-sports-baseball-94.json) |
+| Front Page Sports: Baseball Pro '96 Season | 81468 | [81468-front-page-sports-baseball-pro-96-season.json](./81468-front-page-sports-baseball-pro-96-season.json) |
 | Front Page Sports: Baseball Pro '98 | 100133 | [100133-front-page-sports-baseball-pro-98.json](./100133-front-page-sports-baseball-pro-98.json) |
 | Front Page Sports: Trophy Bass 2 - Northern Lakes | 68963 | [68963-front-page-sports-trophy-bass-2-northern-lakes.json](./68963-front-page-sports-trophy-bass-2-northern-lakes.json) |
 | Front Page Sports: Trophy Rivers | 69872 | [69872-front-page-sports-trophy-rivers.json](./69872-front-page-sports-trophy-rivers.json) |
