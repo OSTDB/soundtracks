@@ -626,6 +626,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom | 220079 | [220079-capcom.json](./220079-capcom.json) |
 | Capcom Arcade 2nd Stadium | 204386 | [204386-capcom-arcade-2nd-stadium.json](./204386-capcom-arcade-2nd-stadium.json) |
 | Capcom Arcade Cabinet | 18821 | [18821-capcom-arcade-cabinet.json](./18821-capcom-arcade-cabinet.json) |
+| Capcom Arcade Hits Volume 1 | 64489 | [64489-capcom-arcade-hits-volume-1.json](./64489-capcom-arcade-hits-volume-1.json) |
+| Capcom Arcade Hits Volume 3 | 64488 | [64488-capcom-arcade-hits-volume-3.json](./64488-capcom-arcade-hits-volume-3.json) |
 | Capcom Arcade Stadium Pack 1: Dawn of the Arcade | 141632 | [141632-capcom-arcade-stadium-pack-1-dawn-of-the-arcade.json](./141632-capcom-arcade-stadium-pack-1-dawn-of-the-arcade.json) |
 | Capcom Arcade Stadium Pack 2: Arcade Revolution | 141633 | [141633-capcom-arcade-stadium-pack-2-arcade-revolution.json](./141633-capcom-arcade-stadium-pack-2-arcade-revolution.json) |
 | Capcom Arcade Stadium Pack 3: Arcade Evolution | 141635 | [141635-capcom-arcade-stadium-pack-3-arcade-evolution.json](./141635-capcom-arcade-stadium-pack-3-arcade-evolution.json) |
@@ -6777,6 +6779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crackdown 2 | 2897 | [2897-crackdown-2.json](./2897-crackdown-2.json) |
 | Cracked | 261769 | [261769-cracked.json](./261769-cracked.json) |
 | Cracked | 265432 | [265432-cracked.json](./265432-cracked.json) |
+| Cracking Sands | 64481 | [64481-cracking-sands.json](./64481-cracking-sands.json) |
 | Cracking the Cryptic | 211958 | [211958-cracking-the-cryptic.json](./211958-cracking-the-cryptic.json) |
 | Cracking the Cryptic: GAS Volume #1 | 280875 | [280875-cracking-the-cryptic-gas-volume-1.json](./280875-cracking-the-cryptic-gas-volume-1.json) |
 | Cracking the Cryptic: Lines Variety Pack | 270083 | [270083-cracking-the-cryptic-lines-variety-pack.json](./270083-cracking-the-cryptic-lines-variety-pack.json) |
@@ -7216,6 +7219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creator of Another World | 294167 | [294167-creator-of-another-world.json](./294167-creator-of-another-world.json) |
 | Creator's Asteroid | 191191 | [191191-creators-asteroid.json](./191191-creators-asteroid.json) |
 | Creators | 284985 | [284985-creators.json](./284985-creators.json) |
+| Creatorverse | 64497 | [64497-creatorverse.json](./64497-creatorverse.json) |
 | Creature Battle Simulator | 265388 | [265388-creature-battle-simulator.json](./265388-creature-battle-simulator.json) |
 | Creature Containment | 345035 | [345035-creature-containment.json](./345035-creature-containment.json) |
 | Creature Crawl | 415903 | [415903-creature-crawl.json](./415903-creature-crawl.json) |
