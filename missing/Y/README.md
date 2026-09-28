@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yabai Girls: Valentine Babe | 390508 | [390508-yabai-girls-valentine-babe.json](./390508-yabai-girls-valentine-babe.json) |
 | Yacht Haven Tycoon: Marina Port Parking Simulator | 300828 | [300828-yacht-haven-tycoon-marina-port-parking-simulator.json](./300828-yacht-haven-tycoon-marina-port-parking-simulator.json) |
 | Yacht Mechanic Simulator | 133364 | [133364-yacht-mechanic-simulator.json](./133364-yacht-mechanic-simulator.json) |
+| Yacht Simulator VR | 90853 | [90853-yacht-simulator-vr.json](./90853-yacht-simulator-vr.json) |
 | Yachu Dice | 151017 | [151017-yachu-dice.json](./151017-yachu-dice.json) |
 | Yadamon: Wonderland Dream | 37762 | [37762-yadamon-wonderland-dream.json](./37762-yadamon-wonderland-dream.json) |
 | Yafti | 93760 | [93760-yafti.json](./93760-yafti.json) |
@@ -147,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yatzi | 271268 | [271268-yatzi.json](./271268-yatzi.json) |
 | Yatzi 2 | 364082 | [364082-yatzi-2.json](./364082-yatzi-2.json) |
 | Yatzy Addict+ | 252137 | [252137-yatzy-addict.json](./252137-yatzy-addict.json) |
+| Yatzy for iPad | 90798 | [90798-yatzy-for-ipad.json](./90798-yatzy-for-ipad.json) |
 | Yatzy Ultimate | 175304 | [175304-yatzy-ultimate.json](./175304-yatzy-ultimate.json) |
 | Yavalanche | 389739 | [389739-yavalanche.json](./389739-yavalanche.json) |
 | Yawara!: Yawara no Seishun | 353407 | [353407-yawara-yawara-no-seishun.json](./353407-yawara-yawara-no-seishun.json) |
