@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.A.O.S.S | 83920 | [83920-j-a-o-s-s.json](./83920-j-a-o-s-s.json) |
 | J.B. Harold no Jikenbo: Kiss of Murder | 79622 | [79622-j-b-harold-no-jikenbo-kiss-of-murder.json](./79622-j-b-harold-no-jikenbo-kiss-of-murder.json) |
 | J.D. Arcades | 319584 | [319584-j-d-arcades.json](./319584-j-d-arcades.json) |
+| J.League Big Wave Soccer | 65030 | [65030-j-league-big-wave-soccer.json](./65030-j-league-big-wave-soccer.json) |
 | J.League Dynamite Soccer 64 | 3519 | [3519-j-league-dynamite-soccer-64.json](./3519-j-league-dynamite-soccer-64.json) |
 | J.League Eleven Beat 1997 | 3520 | [3520-j-league-eleven-beat-1997.json](./3520-j-league-eleven-beat-1997.json) |
 | J.League Excite Stage '94: AS Flügels | 329706 | [329706-j-league-excite-stage-94-as-flugels.json](./329706-j-league-excite-stage-94-as-flugels.json) |
@@ -35,8 +36,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Jikkyou Honoo no Striker | 220856 | [220856-j-league-jikkyou-honoo-no-striker.json](./220856-j-league-jikkyou-honoo-no-striker.json) |
 | J.League Jikkyou Winning Eleven 3 | 220865 | [220865-j-league-jikkyou-winning-eleven-3.json](./220865-j-league-jikkyou-winning-eleven-3.json) |
 | J.League Live 64 | 3521 | [3521-j-league-live-64.json](./3521-j-league-live-64.json) |
+| J.League Pro Soccer Club wo Tsukurou! | 65005 | [65005-j-league-pro-soccer-club-wo-tsukurou.json](./65005-j-league-pro-soccer-club-wo-tsukurou.json) |
 | J.League Pro Soccer Club wo Tsukurou! '04 | 62764 | [62764-j-league-pro-soccer-club-wo-tsukurou-04.json](./62764-j-league-pro-soccer-club-wo-tsukurou-04.json) |
+| J.League Pro Soccer Club wo Tsukurou! 2 | 65006 | [65006-j-league-pro-soccer-club-wo-tsukurou-2.json](./65006-j-league-pro-soccer-club-wo-tsukurou-2.json) |
+| J.League Pro Soccer Club wo Tsukurou! 5 | 65010 | [65010-j-league-pro-soccer-club-wo-tsukurou-5.json](./65010-j-league-pro-soccer-club-wo-tsukurou-5.json) |
 | J.League Pro Soccer Club wo Tsukurou! 6: Pride of J | 62766 | [62766-j-league-pro-soccer-club-wo-tsukurou-6-pride-of-j.json](./62766-j-league-pro-soccer-club-wo-tsukurou-6-pride-of-j.json) |
+| J.League Pro Soccer Club wo Tsukurou! 7: Euro + | 65012 | [65012-j-league-pro-soccer-club-wo-tsukurou-7-euro.json](./65012-j-league-pro-soccer-club-wo-tsukurou-7-euro.json) |
 | J.League Pro Soccer Club wo Tsukurou! 8: Euro + | 62765 | [62765-j-league-pro-soccer-club-wo-tsukurou-8-euro.json](./62765-j-league-pro-soccer-club-wo-tsukurou-8-euro.json) |
 | J.League Soccer Dream Eleven | 45274 | [45274-j-league-soccer-dream-eleven.json](./45274-j-league-soccer-dream-eleven.json) |
 | J.League Soccer Prime Goal 3 | 220831 | [220831-j-league-soccer-prime-goal-3.json](./220831-j-league-soccer-prime-goal-3.json) |
@@ -44,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Soccer: Prime Goal 2 | 38329 | [38329-j-league-soccer-prime-goal-2.json](./38329-j-league-soccer-prime-goal-2.json) |
 | J.League Supporter Soccer | 64980 | [64980-j-league-supporter-soccer.json](./64980-j-league-supporter-soccer.json) |
 | J.League Tactics Soccer | 3522 | [3522-j-league-tactics-soccer.json](./3522-j-league-tactics-soccer.json) |
+| J.League Tremendous Soccer '94 | 65023 | [65023-j-league-tremendous-soccer-94.json](./65023-j-league-tremendous-soccer-94.json) |
 | J.League Virtual Stadium | 268500 | [268500-j-league-virtual-stadium.json](./268500-j-league-virtual-stadium.json) |
 | J.League Virtual Stadium '95 | 37200 | [37200-j-league-virtual-stadium-95.json](./37200-j-league-virtual-stadium-95.json) |
 | J.R.R. Tolkien's Riders of Rohan | 78742 | [78742-j-r-r-tolkiens-riders-of-rohan.json](./78742-j-r-r-tolkiens-riders-of-rohan.json) |
