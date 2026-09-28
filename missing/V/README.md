@@ -776,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vestron | 93018 | [93018-vestron.json](./93018-vestron.json) |
 | Vesuvius | 323332 | [323332-vesuvius.json](./323332-vesuvius.json) |
 | Vet Emergency | 93024 | [93024-vet-emergency.json](./93024-vet-emergency.json) |
+| Veteran | 65004 | [65004-veteran.json](./65004-veteran.json) |
 | Veteran Combat | 35710 | [35710-veteran-combat.json](./35710-veteran-combat.json) |
 | Veterum | 211815 | [211815-veterum.json](./211815-veterum.json) |
 | Vetica | 94192 | [94192-vetica.json](./94192-vetica.json) |
