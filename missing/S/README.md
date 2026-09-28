@@ -1663,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scroll of Life | 192391 | [192391-scroll-of-life.json](./192391-scroll-of-life.json) |
 | Scrolls of Gloom | 238976 | [238976-scrolls-of-gloom.json](./238976-scrolls-of-gloom.json) |
 | Scrolls of Sengoku Dynasty | 195606 | [195606-scrolls-of-sengoku-dynasty.json](./195606-scrolls-of-sengoku-dynasty.json) |
+| Scrolls of the Lord | 75947 | [75947-scrolls-of-the-lord.json](./75947-scrolls-of-the-lord.json) |
 | Scruffy 3: A Day in the Life | 265683 | [265683-scruffy-3-a-day-in-the-life.json](./265683-scruffy-3-a-day-in-the-life.json) |
 | Scruffy's Quest | 265681 | [265681-scruffys-quest.json](./265681-scruffys-quest.json) |
 | Scrumlords | 260634 | [260634-scrumlords.json](./260634-scrumlords.json) |
@@ -1706,6 +1707,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam G Generation Cross Rays: Expansion Pack | 225079 | [225079-sd-gundam-g-generation-cross-rays-expansion-pack.json](./225079-sd-gundam-g-generation-cross-rays-expansion-pack.json) |
 | SD Gundam G Generation Cross Rays: Platinum Edition | 142371 | [142371-sd-gundam-g-generation-cross-rays-platinum-edition.json](./142371-sd-gundam-g-generation-cross-rays-platinum-edition.json) |
 | SD Gundam G Generation Touch | 66372 | [66372-sd-gundam-g-generation-touch.json](./66372-sd-gundam-g-generation-touch.json) |
+| SD Gundam G Generation World | 75732 | [75732-sd-gundam-g-generation-world.json](./75732-sd-gundam-g-generation-world.json) |
+| SD Gundam G Generation-F | 75729 | [75729-sd-gundam-g-generation-f.json](./75729-sd-gundam-g-generation-f.json) |
+| SD Gundam G Generation-F IF | 75730 | [75730-sd-gundam-g-generation-f-if.json](./75730-sd-gundam-g-generation-f-if.json) |
 | SD Gundam G Next | 38324 | [38324-sd-gundam-g-next.json](./38324-sd-gundam-g-next.json) |
 | SD Gundam G Next: Tsuika Unit Map Data | 234760 | [234760-sd-gundam-g-next-tsuika-unit-map-data.json](./234760-sd-gundam-g-next-tsuika-unit-map-data.json) |
 | SD Gundam Gaiden: Knight Gundam Monogatari | 38326 | [38326-sd-gundam-gaiden-knight-gundam-monogatari.json](./38326-sd-gundam-gaiden-knight-gundam-monogatari.json) |
@@ -1736,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Battle | 86250 | [86250-sea-battle.json](./86250-sea-battle.json) |
 | Sea Battle Minimal | 192947 | [192947-sea-battle-minimal.json](./192947-sea-battle-minimal.json) |
 | Sea Battle Simulator | 104488 | [104488-sea-battle-simulator.json](./104488-sea-battle-simulator.json) |
+| Sea Battle VR | 75719 | [75719-sea-battle-vr.json](./75719-sea-battle-vr.json) |
 | Sea Battle: Annihilation | 144816 | [144816-sea-battle-annihilation.json](./144816-sea-battle-annihilation.json) |
 | Sea Blast | 91729 | [91729-sea-blast.json](./91729-sea-blast.json) |
 | Sea Blindness | 343428 | [343428-sea-blindness.json](./343428-sea-blindness.json) |
@@ -8372,6 +8377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Adventure | 100187 | [100187-space-adventure.json](./100187-space-adventure.json) |
 | Space Adventure | 297239 | [297239-space-adventure.json](./297239-space-adventure.json) |
 | Space Adventure | 390112 | [390112-space-adventure.json](./390112-space-adventure.json) |
+| Space Adventure Cobra: The Shooting | 75735 | [75735-space-adventure-cobra-the-shooting.json](./75735-space-adventure-cobra-the-shooting.json) |
 | Space Adventure Laika | 128634 | [128634-space-adventure-laika.json](./128634-space-adventure-laika.json) |
 | Space Adventure Zodiac | 406168 | [406168-space-adventure-zodiac.json](./406168-space-adventure-zodiac.json) |
 | Space Adventure: Escape from Siphilus 1b | 219587 | [219587-space-adventure-escape-from-siphilus-1b.json](./219587-space-adventure-escape-from-siphilus-1b.json) |
@@ -8442,7 +8448,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space City: Build Your Empire | 199662 | [199662-space-city-build-your-empire.json](./199662-space-city-build-your-empire.json) |
 | Space Clash: The Last Frontier | 111446 | [111446-space-clash-the-last-frontier.json](./111446-space-clash-the-last-frontier.json) |
 | Space CleanUp: Cosmic Robot Disinfector | 315663 | [315663-space-cleanup-cosmic-robot-disinfector.json](./315663-space-cleanup-cosmic-robot-disinfector.json) |
+| Space Cobra Professional | 75733 | [75733-space-cobra-professional.json](./75733-space-cobra-professional.json) |
 | Space Cobra RetPixMod | 178647 | [178647-space-cobra-retpixmod.json](./178647-space-cobra-retpixmod.json) |
+| Space Cobra the Psychogun | 75734 | [75734-space-cobra-the-psychogun.json](./75734-space-cobra-the-psychogun.json) |
 | Space Colony HD | 51901 | [51901-space-colony-hd.json](./51901-space-colony-hd.json) |
 | Space Combat | 294265 | [294265-space-combat.json](./294265-space-combat.json) |
 | Space Combat Simulator | 292677 | [292677-space-combat-simulator.json](./292677-space-combat-simulator.json) |
@@ -10276,6 +10284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack'em HD | 355001 | [355001-stackem-hd.json](./355001-stackem-hd.json) |
 | Stackbound | 351255 | [351255-stackbound.json](./351255-stackbound.json) |
 | Stackems | 112501 | [112501-stackems.json](./112501-stackems.json) |
+| Stacker | 75715 | [75715-stacker.json](./75715-stacker.json) |
 | Stackflow | 361687 | [361687-stackflow.json](./361687-stackflow.json) |
 | StackFortress | 88012 | [88012-stackfortress.json](./88012-stackfortress.json) |
 | Stacking | 4851 | [4851-stacking.json](./4851-stacking.json) |
