@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I.M. Meen | 84281 | [84281-i-m-meen.json](./84281-i-m-meen.json) |
 | I.O.R.C Impact Orbital Rescue Crew | 152773 | [152773-i-o-r-c-impact-orbital-rescue-crew.json](./152773-i-o-r-c-impact-orbital-rescue-crew.json) |
 | I.Q Intelligent Qube | 215363 | [215363-i-q-intelligent-qube.json](./215363-i-q-intelligent-qube.json) |
+| I.Q Mania | 72151 | [72151-i-q-mania.json](./72151-i-q-mania.json) |
 | I.Rule | 208402 | [208402-i-rule.json](./208402-i-rule.json) |
 | I.T Never Ends | 388373 | [388373-i-t-never-ends.json](./388373-i-t-never-ends.json) |
 | I'd Kill You as a Worm | 331682 | [331682-id-kill-you-as-a-worm.json](./331682-id-kill-you-as-a-worm.json) |
@@ -917,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikaruga | 200996 | [200996-ikaruga.json](./200996-ikaruga.json) |
 | Ikasama Mahjong | 346150 | [346150-ikasama-mahjong.json](./346150-ikasama-mahjong.json) |
 | Ikasumi Potion | 308923 | [308923-ikasumi-potion.json](./308923-ikasumi-potion.json) |
+| Ikatan: Ikamono Tantei | 72774 | [72774-ikatan-ikamono-tantei.json](./72774-ikatan-ikamono-tantei.json) |
 | IKEA VR Experience | 33400 | [33400-ikea-vr-experience.json](./33400-ikea-vr-experience.json) |
 | Ikebana | 352962 | [352962-ikebana.json](./352962-ikebana.json) |
 | Ikemen Oukoku Joou to Shinjitsu no Kiss | 229030 | [229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json](./229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json) |
