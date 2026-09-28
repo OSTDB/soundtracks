@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultrabox No. 2 | 267942 | [267942-ultrabox-no-2.json](./267942-ultrabox-no-2.json) |
 | Ultracore | 107188 | [107188-ultracore.json](./107188-ultracore.json) |
 | Ultracore: Collector's Edition | 116153 | [116153-ultracore-collectors-edition.json](./116153-ultracore-collectors-edition.json) |
+| UltraCorps | 62245 | [62245-ultracorps.json](./62245-ultracorps.json) |
 | Ultradian | 265132 | [265132-ultradian.json](./265132-ultradian.json) |
 | Ultraflow 2 | 129790 | [129790-ultraflow-2.json](./129790-ultraflow-2.json) |
 | Ultrafrog and the City of Destruction | 56426 | [56426-ultrafrog-and-the-city-of-destruction.json](./56426-ultrafrog-and-the-city-of-destruction.json) |
@@ -673,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Arena VR | 241493 | [241493-undead-arena-vr.json](./241493-undead-arena-vr.json) |
 | Undead Awakens | 342897 | [342897-undead-awakens.json](./342897-undead-awakens.json) |
 | Undead Blackout | 34425 | [34425-undead-blackout.json](./34425-undead-blackout.json) |
+| Undead Bowling | 62273 | [62273-undead-bowling.json](./62273-undead-bowling.json) |
 | Undead Carnival Carnage | 180314 | [180314-undead-carnival-carnage.json](./180314-undead-carnival-carnage.json) |
 | Undead City | 294168 | [294168-undead-city.json](./294168-undead-city.json) |
 | Undead Inc. | 252855 | [252855-undead-inc.json](./252855-undead-inc.json) |
