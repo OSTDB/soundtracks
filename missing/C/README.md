@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrot Girl Adventures | 165678 | [165678-carrot-girl-adventures.json](./165678-carrot-girl-adventures.json) |
 | Carrot Heart | 155979 | [155979-carrot-heart.json](./155979-carrot-heart.json) |
 | Carrot Kingdom! | 401798 | [401798-carrot-kingdom.json](./401798-carrot-kingdom.json) |
+| Carrot Munch | 116456 | [116456-carrot-munch.json](./116456-carrot-munch.json) |
 | Carrot Overload | 337099 | [337099-carrot-overload.json](./337099-carrot-overload.json) |
 | Carrot Paradise | 311243 | [311243-carrot-paradise.json](./311243-carrot-paradise.json) |
 | Carrot Slime 2 | 159125 | [159125-carrot-slime-2.json](./159125-carrot-slime-2.json) |
@@ -8344,6 +8345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Star Heroes | 349471 | [349471-cute-star-heroes.json](./349471-cute-star-heroes.json) |
 | Cute Triplets | 148540 | [148540-cute-triplets.json](./148540-cute-triplets.json) |
 | Cute, Broke, and Dungeon Bound | 334132 | [334132-cute-broke-and-dungeon-bound.json](./334132-cute-broke-and-dungeon-bound.json) |
+| Cute, Evil & Strange | 116411 | [116411-cute-evil-and-strange.json](./116411-cute-evil-and-strange.json) |
 | CuteBoy.TD | 197765 | [197765-cuteboy-td.json](./197765-cuteboy-td.json) |
 | Cuter Kaizo World | 312344 | [312344-cuter-kaizo-world.json](./312344-cuter-kaizo-world.json) |
 | Cuthbert and the Golden Chalice | 123067 | [123067-cuthbert-and-the-golden-chalice.json](./123067-cuthbert-and-the-golden-chalice.json) |
