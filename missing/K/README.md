@@ -1054,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Climbers | 235673 | [235673-kill-the-climbers.json](./235673-kill-the-climbers.json) |
 | Kill The Crows | 253394 | [253394-kill-the-crows.json](./253394-kill-the-crows.json) |
 | Kill the Cute | 244721 | [244721-kill-the-cute.json](./244721-kill-the-cute.json) |
+| Kill the Dictator | 111213 | [111213-kill-the-dictator.json](./111213-kill-the-dictator.json) |
 | Kill the Dragon | 184635 | [184635-kill-the-dragon.json](./184635-kill-the-dragon.json) |
 | Kill the Dragon | 268494 | [268494-kill-the-dragon.json](./268494-kill-the-dragon.json) |
 | Kill The Emoji: The Remake | 127094 | [127094-kill-the-emoji-the-remake.json](./127094-kill-the-emoji-the-remake.json) |
@@ -1328,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Vikings | 130247 | [130247-king-of-vikings.json](./130247-king-of-vikings.json) |
 | King of Wildlings | 27810 | [27810-king-of-wildlings.json](./27810-king-of-wildlings.json) |
 | King Pins | 140452 | [140452-king-pins.json](./140452-king-pins.json) |
+| King Rabbit: Puzzle | 111196 | [111196-king-rabbit-puzzle.json](./111196-king-rabbit-puzzle.json) |
 | King Randall's Party | 107800 | [107800-king-randalls-party.json](./107800-king-randalls-party.json) |
 | King Safety | 197320 | [197320-king-safety.json](./197320-king-safety.json) |
 | King Scribble | 382775 | [382775-king-scribble.json](./382775-king-scribble.json) |
