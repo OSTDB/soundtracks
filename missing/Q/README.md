@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadratic Puzzle 2 | 374306 | [374306-quadratic-puzzle-2.json](./374306-quadratic-puzzle-2.json) |
 | Quadratic Puzzle 5 | 207376 | [207376-quadratic-puzzle-5.json](./207376-quadratic-puzzle-5.json) |
 | Quadraticus HD | 263572 | [263572-quadraticus-hd.json](./263572-quadraticus-hd.json) |
+| Quadrax | 69907 | [69907-quadrax.json](./69907-quadrax.json) |
 | Quadrax III | 69590 | [69590-quadrax-iii.json](./69590-quadrax-iii.json) |
 | Quadremor | 235977 | [235977-quadremor.json](./235977-quadremor.json) |
 | Quadrilactic | 184400 | [184400-quadrilactic.json](./184400-quadrilactic.json) |
