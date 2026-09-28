@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takumi 3 | 220193 | [220193-takumi-3.json](./220193-takumi-3.json) |
 | TAL: Arctic | 104837 | [104837-tal-arctic.json](./104837-tal-arctic.json) |
 | TAL: Arctic 2 | 106625 | [106625-tal-arctic-2.json](./106625-tal-arctic-2.json) |
+| Tale of a Hero | 63385 | [63385-tale-of-a-hero.json](./63385-tale-of-a-hero.json) |
 | Tale of an Apocalypse | 157014 | [157014-tale-of-an-apocalypse.json](./157014-tale-of-an-apocalypse.json) |
 | Tale of Avamphil | 177925 | [177925-tale-of-avamphil.json](./177925-tale-of-avamphil.json) |
 | Tale of Exorcists | 375313 | [375313-tale-of-exorcists.json](./375313-tale-of-exorcists.json) |
@@ -1896,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tensei | 264610 | [264610-tensei.json](./264610-tensei.json) |
 | Tensei Shitara Slime Datta Ken: Lord of Tempest | 90112 | [90112-tensei-shitara-slime-datta-ken-lord-of-tempest.json](./90112-tensei-shitara-slime-datta-ken-lord-of-tempest.json) |
 | Tensen Nyannyan: Gekigyouban | 166149 | [166149-tensen-nyannyan-gekigyouban.json](./166149-tensen-nyannyan-gekigyouban.json) |
+| Tenshi Doumei | 63390 | [63390-tenshi-doumei.json](./63390-tenshi-doumei.json) |
 | Tenshi no Inai 12-gatsu | 148442 | [148442-tenshi-no-inai-12-gatsu.json](./148442-tenshi-no-inai-12-gatsu.json) |
 | Tenshi no Solitaire | 409079 | [409079-tenshi-no-solitaire.json](./409079-tenshi-no-solitaire.json) |
 | Tenshi no Uta: The Angel Verse II - The Fallen Angel | 385074 | [385074-tenshi-no-uta-the-angel-verse-ii-the-fallen-angel.json](./385074-tenshi-no-uta-the-angel-verse-ii-the-fallen-angel.json) |
@@ -3182,6 +3184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cheese Chase: Pizza Madness | 319772 | [319772-the-cheese-chase-pizza-madness.json](./319772-the-cheese-chase-pizza-madness.json) |
 | The Cheetah Girls | 49367 | [49367-the-cheetah-girls.json](./49367-the-cheetah-girls.json) |
 | The Cheetah Girls: Passport to Stardom | 117498 | [117498-the-cheetah-girls-passport-to-stardom.json](./117498-the-cheetah-girls-passport-to-stardom.json) |
+| The Cheetahmen: The Creation | 63348 | [63348-the-cheetahmen-the-creation.json](./63348-the-cheetahmen-the-creation.json) |
 | The Chef | 71238 | [71238-the-chef.json](./71238-the-chef.json) |
 | The Chess | 351729 | [351729-the-chess.json](./351729-the-chess.json) |
 | The Chess Player | 380106 | [380106-the-chess-player.json](./380106-the-chess-player.json) |
@@ -7625,6 +7628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Survivalists: Deluxe Edition | 173159 | [173159-the-survivalists-deluxe-edition.json](./173159-the-survivalists-deluxe-edition.json) |
 | The Survivor | 123491 | [123491-the-survivor.json](./123491-the-survivor.json) |
 | The Survivor After | 152879 | [152879-the-survivor-after.json](./152879-the-survivor-after.json) |
+| The Sushi Spinnery | 63346 | [63346-the-sushi-spinnery.json](./63346-the-sushi-spinnery.json) |
 | The Suspected Murder | 308911 | [308911-the-suspected-murder.json](./308911-the-suspected-murder.json) |
 | The Suspense | 333070 | [333070-the-suspense.json](./333070-the-suspense.json) |
 | The Swan Princess: Hidden Tales | 268452 | [268452-the-swan-princess-hidden-tales.json](./268452-the-swan-princess-hidden-tales.json) |
@@ -7819,6 +7823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tour | 282029 | [282029-the-tour.json](./282029-the-tour.json) |
 | The Tour of Duty | 145618 | [145618-the-tour-of-duty.json](./145618-the-tour-of-duty.json) |
 | The Tourist Trap | 119088 | [119088-the-tourist-trap.json](./119088-the-tourist-trap.json) |
+| The Tournament of Zulula | 63383 | [63383-the-tournament-of-zulula.json](./63383-the-tournament-of-zulula.json) |
 | The Touryst | 121748 | [121748-the-touryst.json](./121748-the-touryst.json) |
 | The Tower | 138180 | [138180-the-tower.json](./138180-the-tower.json) |
 | The Tower | 238604 | [238604-the-tower.json](./238604-the-tower.json) |
