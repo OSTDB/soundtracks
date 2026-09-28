@@ -1343,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Tracks | 257315 | [257315-jump-tracks.json](./257315-jump-tracks.json) |
 | Jump Trials | 85218 | [85218-jump-trials.json](./85218-jump-trials.json) |
 | Jump Truck | 328238 | [328238-jump-truck.json](./328238-jump-truck.json) |
+| Jump Up | 110550 | [110550-jump-up.json](./110550-jump-up.json) |
 | Jump Up 3D: Mini Basketball | 353997 | [353997-jump-up-3d-mini-basketball.json](./353997-jump-up-3d-mini-basketball.json) |
 | Jump Up Champion! | 295337 | [295337-jump-up-champion.json](./295337-jump-up-champion.json) |
 | Jump Up! Tiny Spaceman | 200121 | [200121-jump-up-tiny-spaceman.json](./200121-jump-up-tiny-spaceman.json) |
