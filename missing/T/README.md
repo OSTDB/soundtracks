@@ -2353,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 10th Planet | 200421 | [200421-the-10th-planet.json](./200421-the-10th-planet.json) |
 | The 13th Floor | 298323 | [298323-the-13th-floor.json](./298323-the-13th-floor.json) |
 | The 13th Floor | 356709 | [356709-the-13th-floor.json](./356709-the-13th-floor.json) |
+| The 13th Heir - Ragnarok Chapter 2 | 76503 | [76503-the-13th-heir-ragnarok-chapter-2.json](./76503-the-13th-heir-ragnarok-chapter-2.json) |
 | The 13th Month | 166148 | [166148-the-13th-month.json](./166148-the-13th-month.json) |
 | The 2018 Fantastic Arcade Bundle | 267967 | [267967-the-2018-fantastic-arcade-bundle.json](./267967-the-2018-fantastic-arcade-bundle.json) |
 | The 2020 Trail | 157151 | [157151-the-2020-trail.json](./157151-the-2020-trail.json) |
