@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolver: Deluxe Edition | 52555 | [52555-absolver-deluxe-edition.json](./52555-absolver-deluxe-edition.json) |
 | Absorb | 219698 | [219698-absorb.json](./219698-absorb.json) |
 | Absorb Reality Collection | 52554 | [52554-absorb-reality-collection.json](./52554-absorb-reality-collection.json) |
+| Abstacked | 79911 | [79911-abstacked.json](./79911-abstacked.json) |
 | AbsTRace | 391219 | [391219-abstrace.json](./391219-abstrace.json) |
 | Abstract Code | 283873 | [283873-abstract-code.json](./283873-abstract-code.json) |
 | Abstract Driver | 250450 | [250450-abstract-driver.json](./250450-abstract-driver.json) |
@@ -1641,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agonize | 187402 | [187402-agonize.json](./187402-agonize.json) |
 | Agony | 11890 | [11890-agony.json](./11890-agony.json) |
 | Agony | 201153 | [201153-agony.json](./201153-agony.json) |
+| Agony | 79827 | [79827-agony.json](./79827-agony.json) |
 | Agony Increment | 393803 | [393803-agony-increment.json](./393803-agony-increment.json) |
 | Agony of a Dying MMO | 136415 | [136415-agony-of-a-dying-mmo.json](./136415-agony-of-a-dying-mmo.json) |
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
@@ -5796,6 +5798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur's Revenge | 141141 | [141141-arthurs-revenge.json](./141141-arthurs-revenge.json) |
 | Arthur’s Tale | 405578 | [405578-arthur-s-tale.json](./405578-arthur-s-tale.json) |
 | Arthur's Thinking Games | 186061 | [186061-arthurs-thinking-games.json](./186061-arthurs-thinking-games.json) |
+| Artifact | 79826 | [79826-artifact.json](./79826-artifact.json) |
 | Artifact Adventure Gaiden DX | 119527 | [119527-artifact-adventure-gaiden-dx.json](./119527-artifact-adventure-gaiden-dx.json) |
 | Artifact Hunter | 156036 | [156036-artifact-hunter.json](./156036-artifact-hunter.json) |
 | Artifact Run | 384534 | [384534-artifact-run.json](./384534-artifact-run.json) |
