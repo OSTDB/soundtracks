@@ -3976,6 +3976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Executioner | 89375 | [89375-the-executioner.json](./89375-the-executioner.json) |
 | The Executioner: Prologue | 51993 | [51993-the-executioner-prologue.json](./51993-the-executioner-prologue.json) |
 | The Executioner: Watchmaker's Son | 170839 | [170839-the-executioner-watchmakers-son.json](./170839-the-executioner-watchmakers-son.json) |
+| The Executive | 90812 | [90812-the-executive.json](./90812-the-executive.json) |
 | The Exhibition | 407326 | [407326-the-exhibition.json](./407326-the-exhibition.json) |
 | The Exit 8 VR | 310522 | [310522-the-exit-8-vr.json](./310522-the-exit-8-vr.json) |
 | The Exit Project: Backstreets | 319939 | [319939-the-exit-project-backstreets.json](./319939-the-exit-project-backstreets.json) |
@@ -4050,6 +4051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fame Game: Welcome to Hollywood | 362303 | [362303-the-fame-game-welcome-to-hollywood.json](./362303-the-fame-game-welcome-to-hollywood.json) |
 | The Family Cat | 190963 | [190963-the-family-cat.json](./190963-the-family-cat.json) |
 | The Family Skeleton | 72343 | [72343-the-family-skeleton.json](./72343-the-family-skeleton.json) |
+| The Famous Five Adventure Game | 90845 | [90845-the-famous-five-adventure-game.json](./90845-the-famous-five-adventure-game.json) |
 | The Fancy Pants Adventure: World 3 | 65260 | [65260-the-fancy-pants-adventure-world-3.json](./65260-the-fancy-pants-adventure-world-3.json) |
 | The Fancy Pants Adventures Prequel | 143469 | [143469-the-fancy-pants-adventures-prequel.json](./143469-the-fancy-pants-adventures-prequel.json) |
 | The Fancy Pants Adventures: World 1 Remaster | 144384 | [144384-the-fancy-pants-adventures-world-1-remaster.json](./144384-the-fancy-pants-adventures-world-1-remaster.json) |
@@ -6586,6 +6588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Purrfect Valentine | 177957 | [177957-the-purrfect-valentine.json](./177957-the-purrfect-valentine.json) |
 | The Purring Quest | 14566 | [14566-the-purring-quest.json](./14566-the-purring-quest.json) |
 | The Putrid Pumps | 271203 | [271203-the-putrid-pumps.json](./271203-the-putrid-pumps.json) |
+| The Puzzle 11 | 90827 | [90827-the-puzzle-11.json](./90827-the-puzzle-11.json) |
 | The Puzzle Maker: Cebba's Odyssey | 275112 | [275112-the-puzzle-maker-cebbas-odyssey.json](./275112-the-puzzle-maker-cebbas-odyssey.json) |
 | The Puzzle of Blocks | 268214 | [268214-the-puzzle-of-blocks.json](./268214-the-puzzle-of-blocks.json) |
 | The Puzzle Story | 113491 | [113491-the-puzzle-story.json](./113491-the-puzzle-story.json) |
@@ -6623,6 +6626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest: Hero of Lukomorye IV | 205602 | [205602-the-quest-hero-of-lukomorye-iv.json](./205602-the-quest-hero-of-lukomorye-iv.json) |
 | The Quest: Hero of Lukomorye V | 200205 | [200205-the-quest-hero-of-lukomorye-v.json](./200205-the-quest-hero-of-lukomorye-v.json) |
 | The Quest: Islands of Ice and Fire | 154509 | [154509-the-quest-islands-of-ice-and-fire.json](./154509-the-quest-islands-of-ice-and-fire.json) |
+| The Quest: Macha's Curse | 90810 | [90810-the-quest-machas-curse.json](./90810-the-quest-machas-curse.json) |
 | The Question | 170529 | [170529-the-question.json](./170529-the-question.json) |
 | The Question's Quest of Sin | 322370 | [322370-the-questions-quest-of-sin.json](./322370-the-questions-quest-of-sin.json) |
 | The Quiet Days of Dorothy | 391324 | [391324-the-quiet-days-of-dorothy.json](./391324-the-quiet-days-of-dorothy.json) |
@@ -10652,6 +10656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toaster Defense | 157144 | [157144-toaster-defense.json](./157144-toaster-defense.json) |
 | Toastling | 192321 | [192321-toastling.json](./192321-toastling.json) |
 | Toasty: Ashes of Dusk | 144275 | [144275-toasty-ashes-of-dusk.json](./144275-toasty-ashes-of-dusk.json) |
+| Toazzle | 90856 | [90856-toazzle.json](./90856-toazzle.json) |
 | Tob Run | 359062 | [359062-tob-run.json](./359062-tob-run.json) |
 | TOBAFCASS | 12887 | [12887-tobafcass.json](./12887-tobafcass.json) |
 | Tobal 2 | 1662 | [1662-tobal-2.json](./1662-tobal-2.json) |
@@ -11342,6 +11347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tormented 12 | 34730 | [34730-tormented-12.json](./34730-tormented-12.json) |
 | Tormentor | 167259 | [167259-tormentor.json](./167259-tormentor.json) |
 | Tormentor: Action Fire Counter Shooter Game Simulator - Premium Edition | 283161 | [283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json](./283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json) |
+| Tormentum - Mystery Adventure | 90807 | [90807-tormentum-mystery-adventure.json](./90807-tormentum-mystery-adventure.json) |
 | Torn | 253595 | [253595-torn.json](./253595-torn.json) |
 | Torn | 90106 | [90106-torn.json](./90106-torn.json) |
 | Torn | 94720 | [94720-torn.json](./94720-torn.json) |
