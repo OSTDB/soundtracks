@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero no Tsukaima: Ko-akuma to Harukaze no Concerto | 72685 | [72685-zero-no-tsukaima-ko-akuma-to-harukaze-no-concerto.json](./72685-zero-no-tsukaima-ko-akuma-to-harukaze-no-concerto.json) |
 | Zero no Tsukaima: Muma ga Tsumugu Yokaze no Gensoukyoku | 72642 | [72642-zero-no-tsukaima-muma-ga-tsumugu-yokaze-no-gensoukyoku.json](./72642-zero-no-tsukaima-muma-ga-tsumugu-yokaze-no-gensoukyoku.json) |
 | Zero One | 115811 | [115811-zero-one.json](./115811-zero-one.json) |
+| Zero Online | 66767 | [66767-zero-online.json](./66767-zero-online.json) |
 | Zero Ops | 213626 | [213626-zero-ops.json](./213626-zero-ops.json) |
 | Zero Orders Tactics | 216811 | [216811-zero-orders-tactics.json](./216811-zero-orders-tactics.json) |
 | Zero Page | 216812 | [216812-zero-page.json](./216812-zero-page.json) |
