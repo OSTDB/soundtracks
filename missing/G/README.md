@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galacdrive | 251661 | [251661-galacdrive.json](./251661-galacdrive.json) |
 | GalaCollider | 58770 | [58770-galacollider.json](./58770-galacollider.json) |
 | Galact Quest | 36483 | [36483-galact-quest.json](./36483-galact-quest.json) |
+| Galactagirl | 68112 | [68112-galactagirl.json](./68112-galactagirl.json) |
 | Galactea | 310973 | [310973-galactea.json](./310973-galactea.json) |
 | Galactic | 46881 | [46881-galactic.json](./46881-galactic.json) |
 | Galactic Adventures | 377588 | [377588-galactic-adventures.json](./377588-galactic-adventures.json) |
@@ -1973,7 +1974,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Hair Salon | 88026 | [88026-girls-hair-salon.json](./88026-girls-hair-salon.json) |
 | Girls in Pajamas | 259067 | [259067-girls-in-pajamas.json](./259067-girls-in-pajamas.json) |
 | Girls Legend | 196303 | [196303-girls-legend.json](./196303-girls-legend.json) |
+| Girls Life: Beauty Experience | 68072 | [68072-girls-life-beauty-experience.json](./68072-girls-life-beauty-experience.json) |
 | Girls Life: Sleepover Party | 50592 | [50592-girls-life-sleepover-party.json](./50592-girls-life-sleepover-party.json) |
+| Girls Life: Strass & Diamonds | 68073 | [68073-girls-life-strass-and-diamonds.json](./68073-girls-life-strass-and-diamonds.json) |
 | Girls of The Tower: Journey To Chaos | 305772 | [305772-girls-of-the-tower-journey-to-chaos.json](./305772-girls-of-the-tower-journey-to-chaos.json) |
 | Girls on puzzle | 156625 | [156625-girls-on-puzzle.json](./156625-girls-on-puzzle.json) |
 | Girls on puzzle 4 | 156622 | [156622-girls-on-puzzle-4.json](./156622-girls-on-puzzle-4.json) |
