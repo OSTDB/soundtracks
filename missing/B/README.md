@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babies Dream of Dead Worlds | 279742 | [279742-babies-dream-of-dead-worlds.json](./279742-babies-dream-of-dead-worlds.json) |
 | Babies vs. Monsters | 304174 | [304174-babies-vs-monsters.json](./304174-babies-vs-monsters.json) |
 | Babka | 343254 | [343254-babka.json](./343254-babka.json) |
+| Babo Violent 2 | 72760 | [72760-babo-violent-2.json](./72760-babo-violent-2.json) |
 | Baboon! | 42894 | [42894-baboon.json](./42894-baboon.json) |
 | Babs' Potion Shop | 238449 | [238449-babs-potion-shop.json](./238449-babs-potion-shop.json) |
 | BabushCats | 297778 | [297778-babushcats.json](./297778-babushcats.json) |
@@ -3137,6 +3138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Brave | 91440 | [91440-big-brave.json](./91440-big-brave.json) |
 | Big Breakfast 2 | 416846 | [416846-big-breakfast-2.json](./416846-big-breakfast-2.json) |
 | Big Brother | 201165 | [201165-big-brother.json](./201165-big-brother.json) |
+| Big Brother Series 2: The Game | 72753 | [72753-big-brother-series-2-the-game.json](./72753-big-brother-series-2-the-game.json) |
 | Big Brother: The Game | 139906 | [139906-big-brother-the-game.json](./139906-big-brother-the-game.json) |
 | Big Brother: The Game | 66035 | [66035-big-brother-the-game.json](./66035-big-brother-the-game.json) |
 | Big Buck Deer Hunting | 101469 | [101469-big-buck-deer-hunting.json](./101469-big-buck-deer-hunting.json) |
@@ -4249,6 +4251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach vs Naruto | 228437 | [228437-bleach-vs-naruto.json](./228437-bleach-vs-naruto.json) |
 | Bleach: Blade Battlers | 72983 | [72983-bleach-blade-battlers.json](./72983-bleach-blade-battlers.json) |
 | Bleach: Erabareshi Tamashi | 43533 | [43533-bleach-erabareshi-tamashi.json](./43533-bleach-erabareshi-tamashi.json) |
+| Bleach: Heat the Soul 3 | 72793 | [72793-bleach-heat-the-soul-3.json](./72793-bleach-heat-the-soul-3.json) |
 | Bleach: Heat the Soul 4 | 46001 | [46001-bleach-heat-the-soul-4.json](./46001-bleach-heat-the-soul-4.json) |
 | Bleach: Heat the Soul 5 | 72958 | [72958-bleach-heat-the-soul-5.json](./72958-bleach-heat-the-soul-5.json) |
 | Bleach: Heat the Soul 6 | 69255 | [69255-bleach-heat-the-soul-6.json](./69255-bleach-heat-the-soul-6.json) |
