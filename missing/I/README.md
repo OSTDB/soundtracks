@@ -1727,6 +1727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinitely Up 5 | 335336 | [335336-infinitely-up-5.json](./335336-infinitely-up-5.json) |
 | Infinitely Up: Skip Figure | 335333 | [335333-infinitely-up-skip-figure.json](./335333-infinitely-up-skip-figure.json) |
 | Infinitely Up: Turn the Figure | 335334 | [335334-infinitely-up-turn-the-figure.json](./335334-infinitely-up-turn-the-figure.json) |
+| Infinitode | 71028 | [71028-infinitode.json](./71028-infinitode.json) |
 | Infinitree | 187237 | [187237-infinitree.json](./187237-infinitree.json) |
 | Infinitroid | 70380 | [70380-infinitroid.json](./70380-infinitroid.json) |
 | Infinitum | 82010 | [82010-infinitum.json](./82010-infinitum.json) |
