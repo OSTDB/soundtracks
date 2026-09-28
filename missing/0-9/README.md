@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2K1X Subzero Heroes | 304215 | [304215-2k1x-subzero-heroes.json](./304215-2k1x-subzero-heroes.json) |
 | 2MD: VR Football Evolution | 160137 | [160137-2md-vr-football-evolution.json](./160137-2md-vr-football-evolution.json) |
 | 2Moons | 93995 | [93995-2moons.json](./93995-2moons.json) |
+| 2nd Circle: Powerful Places | 109872 | [109872-2nd-circle-powerful-places.json](./109872-2nd-circle-powerful-places.json) |
 | 2Ship2Harkinian | 303033 | [303033-2ship2harkinian.json](./303033-2ship2harkinian.json) |
 | 2urvive | 77361 | [77361-2urvive.json](./77361-2urvive.json) |
 | 2V Hoverbike | 44184 | [44184-2v-hoverbike.json](./44184-2v-hoverbike.json) |
