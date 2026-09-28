@@ -962,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Minutes and 33 Seconds of Uniqueness | 208886 | [208886-4-minutes-and-33-seconds-of-uniqueness.json](./208886-4-minutes-and-33-seconds-of-uniqueness.json) |
 | 4 Months of You | 165650 | [165650-4-months-of-you.json](./165650-4-months-of-you.json) |
 | 4 Pics Heroes and Villains | 107184 | [107184-4-pics-heroes-and-villains.json](./107184-4-pics-heroes-and-villains.json) |
+| 4 Queen | 84337 | [84337-4-queen.json](./84337-4-queen.json) |
 | 4 Rush Together | 316434 | [316434-4-rush-together.json](./316434-4-rush-together.json) |
 | 4 Seasons of Doom | 262309 | [262309-4-seasons-of-doom.json](./262309-4-seasons-of-doom.json) |
 | 4 Soccer Simulators | 250292 | [250292-4-soccer-simulators.json](./250292-4-soccer-simulators.json) |
@@ -995,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 419 | 389733 | [389733-419.json](./389733-419.json) |
 | 41m | 234073 | [234073-41m.json](./234073-41m.json) |
 | 420 Button Clicker | 124689 | [124689-420-button-clicker.json](./124689-420-button-clicker.json) |
+| 42nd Street | 84338 | [84338-42nd-street.json](./84338-42nd-street.json) |
 | 44 The Jail | 283306 | [283306-44-the-jail.json](./283306-44-the-jail.json) |
 | 450 XP Games | 98817 | [98817-450-xp-games.json](./98817-450-xp-games.json) |
 | 46 Memory Lane | 165501 | [165501-46-memory-lane.json](./165501-46-memory-lane.json) |
