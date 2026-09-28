@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuukyuu no Tierblade for Nintendo Switch | 358924 | [358924-yuukyuu-no-tierblade-for-nintendo-switch.json](./358924-yuukyuu-no-tierblade-for-nintendo-switch.json) |
 | Yuukyuu no Tierblade: Fragments of Memory | 136439 | [136439-yuukyuu-no-tierblade-fragments-of-memory.json](./136439-yuukyuu-no-tierblade-fragments-of-memory.json) |
 | Yuukyuu no Tierblade: Lost Chronicle | 136438 | [136438-yuukyuu-no-tierblade-lost-chronicle.json](./136438-yuukyuu-no-tierblade-lost-chronicle.json) |
+| Yuuna and the Haunted Hot Springs: Steam Dungeon | 104818 | [104818-yuuna-and-the-haunted-hot-springs-steam-dungeon.json](./104818-yuuna-and-the-haunted-hot-springs-steam-dungeon.json) |
 | Yuurei Station | 179669 | [179669-yuurei-station.json](./179669-yuurei-station.json) |
 | Yuurei-kun | 141848 | [141848-yuurei-kun.json](./141848-yuurei-kun.json) |
 | Yuurou: Transient Sands | 327422 | [327422-yuurou-transient-sands.json](./327422-yuurou-transient-sands.json) |
