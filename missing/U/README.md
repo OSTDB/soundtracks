@@ -1440,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upventure | 56495 | [56495-upventure.json](./56495-upventure.json) |
 | Upward | 234353 | [234353-upward.json](./234353-upward.json) |
 | Upwords | 78356 | [78356-upwords.json](./78356-upwords.json) |
+| UpWords, Boggle, Hangman & Word Hunter Collection | 84291 | [84291-upwords-boggle-hangman-and-word-hunter-collection.json](./84291-upwords-boggle-hangman-and-word-hunter-collection.json) |
 | Ura Jinsei Enjoi! Tamagotchi Plus | 229953 | [229953-ura-jinsei-enjoi-tamagotchi-plus.json](./229953-ura-jinsei-enjoi-tamagotchi-plus.json) |
 | Ura Kaiten Patissier | 92064 | [92064-ura-kaiten-patissier.json](./92064-ura-kaiten-patissier.json) |
 | Ura no Ura | 76596 | [76596-ura-no-ura.json](./76596-ura-no-ura.json) |
