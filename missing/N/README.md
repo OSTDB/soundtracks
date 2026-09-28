@@ -1826,6 +1826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night City Tokyo Drift: Clumsy Ninja Chasing Cars | 102752 | [102752-night-city-tokyo-drift-clumsy-ninja-chasing-cars.json](./102752-night-city-tokyo-drift-clumsy-ninja-chasing-cars.json) |
 | Night Clerk | 376476 | [376476-night-clerk.json](./376476-night-clerk.json) |
 | Night Clerk | 389597 | [389597-night-clerk.json](./389597-night-clerk.json) |
+| Night Crisis | 113838 | [113838-night-crisis.json](./113838-night-crisis.json) |
 | Night Darkness | 166602 | [166602-night-darkness.json](./166602-night-darkness.json) |
 | Night Dreams | 147299 | [147299-night-dreams.json](./147299-night-dreams.json) |
 | Night Dreams | 207374 | [207374-night-dreams.json](./207374-night-dreams.json) |
@@ -2305,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja-kun: Ashura no Shou | 230290 | [230290-ninja-kun-ashura-no-shou.json](./230290-ninja-kun-ashura-no-shou.json) |
 | Ninja: Shadow of the Dash | 311627 | [311627-ninja-shadow-of-the-dash.json](./311627-ninja-shadow-of-the-dash.json) |
 | Ninja: ShadowBlade | 339903 | [339903-ninja-shadowblade.json](./339903-ninja-shadowblade.json) |
+| Ninja? | 113900 | [113900-ninja.json](./113900-ninja.json) |
 | Ninja's Creed | 227473 | [227473-ninjas-creed.json](./227473-ninjas-creed.json) |
 | Ninjahtic | 34887 | [34887-ninjahtic.json](./34887-ninjahtic.json) |
 | Ninjahtic Mind Tricks | 34818 | [34818-ninjahtic-mind-tricks.json](./34818-ninjahtic-mind-tricks.json) |
@@ -3330,6 +3332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuvoid | 25906 | [25906-nuvoid.json](./25906-nuvoid.json) |
 | Nǚwáng | 407321 | [407321-nuwang.json](./407321-nuwang.json) |
 | Nuwe: First seeds | 199099 | [199099-nuwe-first-seeds.json](./199099-nuwe-first-seeds.json) |
+| Nǚyǒu yǔ Wǒ de Liàn'ài Rìcháng | 113869 | [113869-nuyou-yu-wo-de-lianai-richang.json](./113869-nuyou-yu-wo-de-lianai-richang.json) |
 | NVIDIA VR Funhouse | 56867 | [56867-nvidia-vr-funhouse.json](./56867-nvidia-vr-funhouse.json) |
 | NY City Bank Manager 2018 | 96725 | [96725-ny-city-bank-manager-2018.json](./96725-ny-city-bank-manager-2018.json) |
 | Nya Nya Nya Girls | 111538 | [111538-nya-nya-nya-girls.json](./111538-nya-nya-nya-girls.json) |
