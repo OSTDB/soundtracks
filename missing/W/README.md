@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Club: Azumi | 295374 | [295374-waifu-club-azumi.json](./295374-waifu-club-azumi.json) |
 | Waifu Collector | 171615 | [171615-waifu-collector.json](./171615-waifu-collector.json) |
 | Waifu Crush | 188522 | [188522-waifu-crush.json](./188522-waifu-crush.json) |
+| Waifu Hunter: Episode 1 - The Runaway Samurai | 110541 | [110541-waifu-hunter-episode-1-the-runaway-samurai.json](./110541-waifu-hunter-episode-1-the-runaway-samurai.json) |
 | Waifu Impact 2 | 321542 | [321542-waifu-impact-2.json](./321542-waifu-impact-2.json) |
 | Waifu Love | 161410 | [161410-waifu-love.json](./161410-waifu-love.json) |
 | Waifu Museum | 223162 | [223162-waifu-museum.json](./223162-waifu-museum.json) |
@@ -838,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Chess | 90389 | [90389-warrior-chess.json](./90389-warrior-chess.json) |
 | Warrior Clicker | 227492 | [227492-warrior-clicker.json](./227492-warrior-clicker.json) |
 | Warrior Escape | 290460 | [290460-warrior-escape.json](./290460-warrior-escape.json) |
+| Warrior Fighter | 110520 | [110520-warrior-fighter.json](./110520-warrior-fighter.json) |
 | Warrior Heart | 200204 | [200204-warrior-heart.json](./200204-warrior-heart.json) |
 | Warrior Kings | 17343 | [17343-warrior-kings.json](./17343-warrior-kings.json) |
 | Warrior Maiden | 210861 | [210861-warrior-maiden.json](./210861-warrior-maiden.json) |
@@ -1455,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wenjia | 110509 | [110509-wenjia.json](./110509-wenjia.json) |
 | Wenl Mine | 271798 | [271798-wenl-mine.json](./271798-wenl-mine.json) |
 | Wénzìyù | 115626 | [115626-wenziyu.json](./115626-wenziyu.json) |
+| Wer Weiß Denn Sowas? | 110499 | [110499-wer-wei-denn-sowas.json](./110499-wer-wei-denn-sowas.json) |
 | Wer weiß denn sowas?: Das 3. Spiel | 315657 | [315657-wer-wei-denn-sowas-das-3-spiel.json](./315657-wer-wei-denn-sowas-das-3-spiel.json) |
 | Were House | 178553 | [178553-were-house.json](./178553-were-house.json) |
 | Were.Wolf | 157523 | [157523-were-wolf.json](./157523-were-wolf.json) |
@@ -3499,6 +3502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Tanks: Modern Jumpstart | 293773 | [293773-world-of-tanks-modern-jumpstart.json](./293773-world-of-tanks-modern-jumpstart.json) |
 | World of Tanks: Roll Out Collector's Edition | 115673 | [115673-world-of-tanks-roll-out-collectors-edition.json](./115673-world-of-tanks-roll-out-collectors-edition.json) |
 | World of Tanks: Snatch Gift Pack | 283862 | [283862-world-of-tanks-snatch-gift-pack.json](./283862-world-of-tanks-snatch-gift-pack.json) |
+| World of Tennis: Roaring '20s | 110498 | [110498-world-of-tennis-roaring-20s.json](./110498-world-of-tennis-roaring-20s.json) |
 | World of the dead | 319721 | [319721-world-of-the-dead.json](./319721-world-of-the-dead.json) |
 | World of Titans | 230933 | [230933-world-of-titans.json](./230933-world-of-titans.json) |
 | World of Turtle | 132043 | [132043-world-of-turtle.json](./132043-world-of-turtle.json) |
