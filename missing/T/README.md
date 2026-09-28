@@ -11130,6 +11130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: The Angel of Darkness | 319751 | [319751-tomb-raider-the-angel-of-darkness.json](./319751-tomb-raider-the-angel-of-darkness.json) |
 | Tomb Raider: The Angel of Darkness 1.5 | 156178 | [156178-tomb-raider-the-angel-of-darkness-1-5.json](./156178-tomb-raider-the-angel-of-darkness-1-5.json) |
 | Tomb Raider: The Last Revelation | 319749 | [319749-tomb-raider-the-last-revelation.json](./319749-tomb-raider-the-last-revelation.json) |
+| Tomb Raider: The Last Revelation - The Times | 68115 | [68115-tomb-raider-the-last-revelation-the-times.json](./68115-tomb-raider-the-last-revelation-the-times.json) |
 | Tomb Raider: The Prophecy | 18809 | [18809-tomb-raider-the-prophecy.json](./18809-tomb-raider-the-prophecy.json) |
 | Tomb Raider: Underworld | 146720 | [146720-tomb-raider-underworld.json](./146720-tomb-raider-underworld.json) |
 | Tomb Raider: Underworld | 371964 | [371964-tomb-raider-underworld.json](./371964-tomb-raider-underworld.json) |
@@ -12340,6 +12341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Rush | 87886 | [87886-traffic-rush.json](./87886-traffic-rush.json) |
 | Traffic Rush: Ultimate Drive | 413090 | [413090-traffic-rush-ultimate-drive.json](./413090-traffic-rush-ultimate-drive.json) |
 | Traffic V | 149931 | [149931-traffic-v.json](./149931-traffic-v.json) |
+| Traffic X | 68096 | [68096-traffic-x.json](./68096-traffic-x.json) |
 | Traffic.io Car Games & Race | 240188 | [240188-traffic-io-car-games-and-race.json](./240188-traffic-io-car-games-and-race.json) |
 | Traffix | 118755 | [118755-traffix.json](./118755-traffix.json) |
 | Traffix 3D | 296071 | [296071-traffix-3d.json](./296071-traffix-3d.json) |
