@@ -2241,6 +2241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alert | 14236 | [14236-alert.json](./14236-alert.json) |
 | Alert X: Ostatnia Nadzieja Ziemi | 14237 | [14237-alert-x-ostatnia-nadzieja-ziemi.json](./14237-alert-x-ostatnia-nadzieja-ziemi.json) |
 | Alertes Spéciales | 363969 | [363969-alertes-speciales.json](./363969-alertes-speciales.json) |
+| Ales Dash | 102935 | [102935-ales-dash.json](./102935-ales-dash.json) |
 | Aleste Collection | 139997 | [139997-aleste-collection.json](./139997-aleste-collection.json) |
 | Aletheia: Prophecy of Perseus | 345144 | [345144-aletheia-prophecy-of-perseus.json](./345144-aletheia-prophecy-of-perseus.json) |
 | Aletheia: Return of Odysseus | 288753 | [288753-aletheia-return-of-odysseus.json](./288753-aletheia-return-of-odysseus.json) |
@@ -2335,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in Windowland | 218120 | [218120-alice-in-windowland.json](./218120-alice-in-windowland.json) |
 | Alice in Wonderland | 175929 | [175929-alice-in-wonderland.json](./175929-alice-in-wonderland.json) |
 | Alice in Wonderland | 196846 | [196846-alice-in-wonderland.json](./196846-alice-in-wonderland.json) |
+| Alice in Wonderland: 3D Game | 102945 | [102945-alice-in-wonderland-3d-game.json](./102945-alice-in-wonderland-3d-game.json) |
 | Alice in Wonderland: Jigsaw Puzzle | 207804 | [207804-alice-in-wonderland-jigsaw-puzzle.json](./207804-alice-in-wonderland-jigsaw-puzzle.json) |
 | Alice in Wonderland: Magical Labyrinth | 328575 | [328575-alice-in-wonderland-magical-labyrinth.json](./328575-alice-in-wonderland-magical-labyrinth.json) |
 | Alice in Wonderland: Puzzle Golf Adventures | 100008 | [100008-alice-in-wonderland-puzzle-golf-adventures.json](./100008-alice-in-wonderland-puzzle-golf-adventures.json) |
@@ -5310,6 +5312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aretha the Super Famicom | 15895 | [15895-aretha-the-super-famicom.json](./15895-aretha-the-super-famicom.json) |
 | Aretisia: Tenebris Dominus | 125391 | [125391-aretisia-tenebris-dominus.json](./125391-aretisia-tenebris-dominus.json) |
 | Arevan | 34906 | [34906-arevan.json](./34906-arevan.json) |
+| Arevoatl seven coins | 102921 | [102921-arevoatl-seven-coins.json](./102921-arevoatl-seven-coins.json) |
 | Arex | 55886 | [55886-arex.json](./55886-arex.json) |
 | Argentum Online | 176876 | [176876-argentum-online.json](./176876-argentum-online.json) |
 | Argentum Online | 93135 | [93135-argentum-online.json](./93135-argentum-online.json) |
@@ -5743,6 +5746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artillerists | 26687 | [26687-artillerists.json](./26687-artillerists.json) |
 | ArtilleRoyalty | 374681 | [374681-artilleroyalty.json](./374681-artilleroyalty.json) |
 | Artillery | 93527 | [93527-artillery.json](./93527-artillery.json) |
+| Artillery Cats | 102926 | [102926-artillery-cats.json](./102926-artillery-cats.json) |
 | Artillery Duel | 12241 | [12241-artillery-duel.json](./12241-artillery-duel.json) |
 | Artillery Royale | 145532 | [145532-artillery-royale.json](./145532-artillery-royale.json) |
 | Artisan | 190096 | [190096-artisan.json](./190096-artisan.json) |
@@ -7321,6 +7325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azrael | 209697 | [209697-azrael.json](./209697-azrael.json) |
 | Aztec Adventure | 45668 | [45668-aztec-adventure.json](./45668-aztec-adventure.json) |
 | Aztec Mayhem! | 366405 | [366405-aztec-mayhem.json](./366405-aztec-mayhem.json) |
+| Aztec Number | 102932 | [102932-aztec-number.json](./102932-aztec-number.json) |
 | Aztec Solitaire | 91345 | [91345-aztec-solitaire.json](./91345-aztec-solitaire.json) |
 | Aztec Tiki Talisman | 273357 | [273357-aztec-tiki-talisman.json](./273357-aztec-tiki-talisman.json) |
 | Aztec Tower | 114332 | [114332-aztec-tower.json](./114332-aztec-tower.json) |
