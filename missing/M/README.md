@@ -2847,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha Mining Marvelous Martian Minerals | 363934 | [363934-mecha-mining-marvelous-martian-minerals.json](./363934-mecha-mining-marvelous-martian-minerals.json) |
 | Mecha Party | 286043 | [286043-mecha-party.json](./286043-mecha-party.json) |
 | Mecha Ritz: Steel Rondo 2.0 | 229042 | [229042-mecha-ritz-steel-rondo-2-0.json](./229042-mecha-ritz-steel-rondo-2-0.json) |
+| Mecha Royale Online | 104212 | [104212-mecha-royale-online.json](./104212-mecha-royale-online.json) |
 | Mecha Storm | 102747 | [102747-mecha-storm.json](./102747-mecha-storm.json) |
 | Mecha Tactics | 154392 | [154392-mecha-tactics.json](./154392-mecha-tactics.json) |
 | Mecha's Negotiations | 363915 | [363915-mechas-negotiations.json](./363915-mechas-negotiations.json) |
@@ -6734,6 +6735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Puzzle | 130827 | [130827-monster-puzzle.json](./130827-monster-puzzle.json) |
 | Monster Radar | 94189 | [94189-monster-radar.json](./94189-monster-radar.json) |
 | Monster Rancher | 4104 | [4104-monster-rancher.json](./4104-monster-rancher.json) |
+| Monster Rancher Battle Card GB | 104241 | [104241-monster-rancher-battle-card-gb.json](./104241-monster-rancher-battle-card-gb.json) |
 | Monster Rancher Explorer | 49860 | [49860-monster-rancher-explorer.json](./49860-monster-rancher-explorer.json) |
 | Monster Rescue | 188104 | [188104-monster-rescue.json](./188104-monster-rescue.json) |
 | Monster Retsuden Oreca Battle | 365701 | [365701-monster-retsuden-oreca-battle.json](./365701-monster-retsuden-oreca-battle.json) |
@@ -6862,6 +6864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monty Python & the Quest for the Holy Grail | 8552 | [8552-monty-python-and-the-quest-for-the-holy-grail.json](./8552-monty-python-and-the-quest-for-the-holy-grail.json) |
 | Monty Python's Invasion from the Planet Skyron | 45924 | [45924-monty-pythons-invasion-from-the-planet-skyron.json](./45924-monty-pythons-invasion-from-the-planet-skyron.json) |
 | Monty the Komodo Dragon | 324505 | [324505-monty-the-komodo-dragon.json](./324505-monty-the-komodo-dragon.json) |
+| Monty's Backyard Adventure | 104229 | [104229-montys-backyard-adventure.json](./104229-montys-backyard-adventure.json) |
 | Monument | 260138 | [260138-monument.json](./260138-monument.json) |
 | Monument Builders: Big Ben | 294445 | [294445-monument-builders-big-ben.json](./294445-monument-builders-big-ben.json) |
 | Monument Builders: Cathedral Rising | 294444 | [294444-monument-builders-cathedral-rising.json](./294444-monument-builders-cathedral-rising.json) |
@@ -7892,6 +7895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muchacho Bean | 293638 | [293638-muchacho-bean.json](./293638-muchacho-bean.json) |
 | Mucho Party | 116442 | [116442-mucho-party.json](./116442-mucho-party.json) |
 | Mud and Blood | 153415 | [153415-mud-and-blood.json](./153415-mud-and-blood.json) |
+| Mud Monster Up Hill Madness | 104214 | [104214-mud-monster-up-hill-madness.json](./104214-mud-monster-up-hill-madness.json) |
 | Mudbird | 335272 | [335272-mudbird.json](./335272-mudbird.json) |
 | Mudborne | 242538 | [242538-mudborne.json](./242538-mudborne.json) |
 | Muddy Heights | 223678 | [223678-muddy-heights.json](./223678-muddy-heights.json) |
