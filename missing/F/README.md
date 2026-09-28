@@ -3204,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Camel | 283767 | [283767-flappy-camel.json](./283767-flappy-camel.json) |
 | Flappy Cube | 179195 | [179195-flappy-cube.json](./179195-flappy-cube.json) |
 | Flappy Daft Punk | 231468 | [231468-flappy-daft-punk.json](./231468-flappy-daft-punk.json) |
+| Flappy Defense | 60041 | [60041-flappy-defense.json](./60041-flappy-defense.json) |
 | Flappy Doge | 62183 | [62183-flappy-doge.json](./62183-flappy-doge.json) |
 | Flappy Dot Up! | 232056 | [232056-flappy-dot-up.json](./232056-flappy-dot-up.json) |
 | Flappy Dragon | 316049 | [316049-flappy-dragon.json](./316049-flappy-dragon.json) |
@@ -5569,6 +5570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Crawler | 117791 | [117791-fruit-crawler.json](./117791-fruit-crawler.json) |
 | Fruit Fall | 246333 | [246333-fruit-fall.json](./246333-fruit-fall.json) |
 | Fruit Farmer | 199603 | [199603-fruit-farmer.json](./199603-fruit-farmer.json) |
+| Fruit for the Village | 59868 | [59868-fruit-for-the-village.json](./59868-fruit-for-the-village.json) |
 | Fruit Fusion | 60254 | [60254-fruit-fusion.json](./60254-fruit-fusion.json) |
 | Fruit Fusion! | 384197 | [384197-fruit-fusion.json](./384197-fruit-fusion.json) |
 | Fruit Golf | 34363 | [34363-fruit-golf.json](./34363-fruit-golf.json) |
