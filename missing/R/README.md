@@ -3056,6 +3056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Tengoku | 210730 | [210730-rhythm-tengoku.json](./210730-rhythm-tengoku.json) |
 | Rhythm Tengoku: Tempo Up! | 280761 | [280761-rhythm-tengoku-tempo-up.json](./280761-rhythm-tengoku-tempo-up.json) |
 | Rhythm Thief & the Emperor's Treasure | 47603 | [47603-rhythm-thief-and-the-emperors-treasure.json](./47603-rhythm-thief-and-the-emperors-treasure.json) |
+| Rhythm Thief & the Paris Caper | 62279 | [62279-rhythm-thief-and-the-paris-caper.json](./62279-rhythm-thief-and-the-paris-caper.json) |
 | Rhythm Town: Music Visualizer | 335251 | [335251-rhythm-town-music-visualizer.json](./335251-rhythm-town-music-visualizer.json) |
 | Rhythm Typer | 382798 | [382798-rhythm-typer.json](./382798-rhythm-typer.json) |
 | Rhythm Zone | 51283 | [51283-rhythm-zone.json](./51283-rhythm-zone.json) |
