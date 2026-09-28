@@ -625,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Disciples | 233470 | [233470-dark-disciples.json](./233470-dark-disciples.json) |
 | Dark Disciples II | 168324 | [168324-dark-disciples-ii.json](./168324-dark-disciples-ii.json) |
 | Dark Dive: The Last Tropic | 277021 | [277021-dark-dive-the-last-tropic.json](./277021-dark-dive-the-last-tropic.json) |
+| Dark Drive | 95620 | [95620-dark-drive.json](./95620-dark-drive.json) |
 | Dark Earth | 410975 | [410975-dark-earth.json](./410975-dark-earth.json) |
 | Dark Echo | 293776 | [293776-dark-echo.json](./293776-dark-echo.json) |
 | Dark Eden Umbra | 359526 | [359526-dark-eden-umbra.json](./359526-dark-eden-umbra.json) |
@@ -6488,6 +6489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw In Maze 2 | 235146 | [235146-draw-in-maze-2.json](./235146-draw-in-maze-2.json) |
 | Draw it | 415304 | [415304-draw-it.json](./415304-draw-it.json) |
 | Draw Mania | 200155 | [200155-draw-mania.json](./200155-draw-mania.json) |
+| Draw Near | 95600 | [95600-draw-near.json](./95600-draw-near.json) |
 | Draw No More | 177523 | [177523-draw-no-more.json](./177523-draw-no-more.json) |
 | Draw Puzzle | 46479 | [46479-draw-puzzle.json](./46479-draw-puzzle.json) |
 | Draw Rider | 33349 | [33349-draw-rider.json](./33349-draw-rider.json) |
@@ -7357,6 +7359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duelant | 311456 | [311456-duelant.json](./311456-duelant.json) |
 | Dueling Dragons | 183566 | [183566-dueling-dragons.json](./183566-dueling-dragons.json) |
 | Dueling Drums | 341466 | [341466-dueling-drums.json](./341466-dueling-drums.json) |
+| Dueling Dungeon | 95584 | [95584-dueling-dungeon.json](./95584-dueling-dungeon.json) |
 | Duelist | 154349 | [154349-duelist.json](./154349-duelist.json) |
 | Duelite | 303496 | [303496-duelite.json](./303496-duelite.json) |
 | Duels Kings | 227834 | [227834-duels-kings.json](./227834-duels-kings.json) |
