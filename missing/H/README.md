@@ -2778,6 +2778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexion | 96216 | [96216-hexion.json](./96216-hexion.json) |
 | Hexis | 291582 | [291582-hexis.json](./291582-hexis.json) |
 | HexLab | 97090 | [97090-hexlab.json](./97090-hexlab.json) |
+| Hexland Heroes | 98024 | [98024-hexland-heroes.json](./98024-hexland-heroes.json) |
 | HexLand: Rise of Blue | 221678 | [221678-hexland-rise-of-blue.json](./221678-hexland-rise-of-blue.json) |
 | Hexle | 271821 | [271821-hexle.json](./271821-hexle.json) |
 | HexLogic - Quilts | 106381 | [106381-hexlogic-quilts.json](./106381-hexlogic-quilts.json) |
@@ -3561,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitokata | 337114 | [337114-hitokata.json](./337114-hitokata.json) |
 | Hitori | 334771 | [334771-hitori.json](./334771-hitori.json) |
 | Hitori by Nikoli | 85184 | [85184-hitori-by-nikoli.json](./85184-hitori-by-nikoli.json) |
+| Hitori H Aco tan | 98035 | [98035-hitori-h-aco-tan.json](./98035-hitori-h-aco-tan.json) |
 | Hitori Kakurenbo | 150131 | [150131-hitori-kakurenbo.json](./150131-hitori-kakurenbo.json) |
 | Hitori Kakurenbo Online | 187450 | [187450-hitori-kakurenbo-online.json](./187450-hitori-kakurenbo-online.json) |
 | Hitoriasobi | 398576 | [398576-hitoriasobi.json](./398576-hitoriasobi.json) |
@@ -3568,6 +3570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitotsu Tobashi Renai V | 217545 | [217545-hitotsu-tobashi-renai-v.json](./217545-hitotsu-tobashi-renai-v.json) |
 | Hitotsubashi Animal Chronicles | 358386 | [358386-hitotsubashi-animal-chronicles.json](./358386-hitotsubashi-animal-chronicles.json) |
 | Hitou Dungeon | 283842 | [283842-hitou-dungeon.json](./283842-hitou-dungeon.json) |
+| Hitozuma Dorei Kyoushi | 98029 | [98029-hitozuma-dorei-kyoushi.json](./98029-hitozuma-dorei-kyoushi.json) |
 | Hitozuma Sentai Aisaiger | 65519 | [65519-hitozuma-sentai-aisaiger.json](./65519-hitozuma-sentai-aisaiger.json) |
 | Hitstream | 268454 | [268454-hitstream.json](./268454-hitstream.json) |
 | Hitsuji no Hakobune | 408308 | [408308-hitsuji-no-hakobune.json](./408308-hitsuji-no-hakobune.json) |
