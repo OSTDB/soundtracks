@@ -1465,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tectron: Omorashi Baby | 385826 | [385826-tectron-omorashi-baby.json](./385826-tectron-omorashi-baby.json) |
 | Tectus | 106375 | [106375-tectus.json](./106375-tectus.json) |
 | Tedd'or | 195088 | [195088-teddor.json](./195088-teddor.json) |
+| Teddies and Rainbows | 95632 | [95632-teddies-and-rainbows.json](./95632-teddies-and-rainbows.json) |
 | Teddy and Bo: Search for the Dream Catcher | 98249 | [98249-teddy-and-bo-search-for-the-dream-catcher.json](./98249-teddy-and-bo-search-for-the-dream-catcher.json) |
 | Teddy Bear Wars | 131605 | [131605-teddy-bear-wars.json](./131605-teddy-bear-wars.json) |
 | Teddy Bear Zombies | 120334 | [120334-teddy-bear-zombies.json](./120334-teddy-bear-zombies.json) |
@@ -5702,6 +5703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings Online: Quest Pack: Legacy of the Necromancer | 384536 | [384536-the-lord-of-the-rings-online-quest-pack-legacy-of-the-necromancer.json](./384536-the-lord-of-the-rings-online-quest-pack-legacy-of-the-necromancer.json) |
 | The Lord of the Rings Online: Quest Pack: The Vales of Anduin | 384540 | [384540-the-lord-of-the-rings-online-quest-pack-the-vales-of-anduin.json](./384540-the-lord-of-the-rings-online-quest-pack-the-vales-of-anduin.json) |
 | The Lord of the Rings Online: Quest Pack: Where Dragons Dwell | 384539 | [384539-the-lord-of-the-rings-online-quest-pack-where-dragons-dwell.json](./384539-the-lord-of-the-rings-online-quest-pack-where-dragons-dwell.json) |
+| The Lord of the Rings Online: Riders of Rohan - Heroic Edition Live | 95570 | [95570-the-lord-of-the-rings-online-riders-of-rohan-heroic-edition-live.json](./95570-the-lord-of-the-rings-online-riders-of-rohan-heroic-edition-live.json) |
 | The Lord of the Rings Online: Siege of Mirkwood | 21155 | [21155-the-lord-of-the-rings-online-siege-of-mirkwood.json](./21155-the-lord-of-the-rings-online-siege-of-mirkwood.json) |
 | The Lord of the Rings Online: War of Three Peaks | 275925 | [275925-the-lord-of-the-rings-online-war-of-three-peaks.json](./275925-the-lord-of-the-rings-online-war-of-three-peaks.json) |
 | The Lord of the Rings: Adventure Card Game - Definitive Edition | 147962 | [147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json](./147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json) |
@@ -9046,6 +9048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic-Tac-Matrix | 180748 | [180748-tic-tac-matrix.json](./180748-tic-tac-matrix.json) |
 | Tic-Tac-Tanks | 195214 | [195214-tic-tac-tanks.json](./195214-tic-tac-tanks.json) |
 | Tic-Tac-Toast | 233078 | [233078-tic-tac-toast.json](./233078-tic-tac-toast.json) |
+| Tic-Tac-Toe - Two Players | 95561 | [95561-tic-tac-toe-two-players.json](./95561-tic-tac-toe-two-players.json) |
 | Tic-Tac-Toe for Kids | 103678 | [103678-tic-tac-toe-for-kids.json](./103678-tic-tac-toe-for-kids.json) |
 | Tic-Tac-Toe Star | 240187 | [240187-tic-tac-toe-star.json](./240187-tic-tac-toe-star.json) |
 | Tic-Tac-Touch: FS5 | 72628 | [72628-tic-tac-touch-fs5.json](./72628-tic-tac-touch-fs5.json) |
@@ -10103,6 +10106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time to Die: Adventures | 53810 | [53810-time-to-die-adventures.json](./53810-time-to-die-adventures.json) |
 | Time to Fight | 114319 | [114319-time-to-fight.json](./114319-time-to-fight.json) |
 | Time to Golf | 143711 | [143711-time-to-golf.json](./143711-time-to-golf.json) |
+| Time to Play Bridge | 95582 | [95582-time-to-play-bridge.json](./95582-time-to-play-bridge.json) |
 | Time to Play Hearts | 86709 | [86709-time-to-play-hearts.json](./86709-time-to-play-hearts.json) |
 | Time to Play Pyramid | 96759 | [96759-time-to-play-pyramid.json](./96759-time-to-play-pyramid.json) |
 | Time to Ride: Saddles & Stables | 64908 | [64908-time-to-ride-saddles-and-stables.json](./64908-time-to-ride-saddles-and-stables.json) |
@@ -13535,6 +13539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triuno Ascend | 398334 | [398334-triuno-ascend.json](./398334-triuno-ascend.json) |
 | Triversal | 143605 | [143605-triversal.json](./143605-triversal.json) |
 | Trivia | 110820 | [110820-trivia.json](./110820-trivia.json) |
+| Trivia 101 | 95590 | [95590-trivia-101.json](./95590-trivia-101.json) |
 | Trivia Crack Adventure | 208370 | [208370-trivia-crack-adventure.json](./208370-trivia-crack-adventure.json) |
 | Trivia Crack Explorer | 208369 | [208369-trivia-crack-explorer.json](./208369-trivia-crack-explorer.json) |
 | Trivia Fantasy | 370767 | [370767-trivia-fantasy.json](./370767-trivia-fantasy.json) |
@@ -14340,6 +14345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TwinCop | 51594 | [51594-twincop.json](./51594-twincop.json) |
 | Twine3D | 81782 | [81782-twine3d.json](./81782-twine3d.json) |
 | TwinGrip | 373730 | [373730-twingrip.json](./373730-twingrip.json) |
+| Twiniwt | 95630 | [95630-twiniwt.json](./95630-twiniwt.json) |
 | Twinkle Crusaders GoGo! | 59417 | [59417-twinkle-crusaders-gogo.json](./59417-twinkle-crusaders-gogo.json) |
 | Twinkle Hunter | 232956 | [232956-twinkle-hunter.json](./232956-twinkle-hunter.json) |
 | Twinkle Knights | 39016 | [39016-twinkle-knights.json](./39016-twinkle-knights.json) |
