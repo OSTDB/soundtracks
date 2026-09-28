@@ -2553,6 +2553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Fly | 277588 | [277588-fire-fly.json](./277588-fire-fly.json) |
 | Fire From Heaven | 73888 | [73888-fire-from-heaven.json](./73888-fire-from-heaven.json) |
 | Fire Fu | 102618 | [102618-fire-fu.json](./102618-fire-fu.json) |
+| Fire Galaxy | 73352 | [73352-fire-galaxy.json](./73352-fire-galaxy.json) |
 | Fire in the Dark | 346696 | [346696-fire-in-the-dark.json](./346696-fire-in-the-dark.json) |
 | Fire in the Goal | 31170 | [31170-fire-in-the-goal.json](./31170-fire-in-the-goal.json) |
 | Fire in the Hole | 381019 | [381019-fire-in-the-hole.json](./381019-fire-in-the-hole.json) |
