@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Legends: Speed Evolution | 91131 | [91131-racing-legends-speed-evolution.json](./91131-racing-legends-speed-evolution.json) |
 | Racing Life | 396598 | [396598-racing-life.json](./396598-racing-life.json) |
 | Racing Madness | 68972 | [68972-racing-madness.json](./68972-racing-madness.json) |
+| Racing Madness 2 | 73334 | [73334-racing-madness-2.json](./73334-racing-madness-2.json) |
 | Racing Manager 2014 | 9419 | [9419-racing-manager-2014.json](./9419-racing-manager-2014.json) |
 | Racing Megapack | 317964 | [317964-racing-megapack.json](./317964-racing-megapack.json) |
 | Racing Penguin: Slide and Fly! | 86973 | [86973-racing-penguin-slide-and-fly.json](./86973-racing-penguin-slide-and-fly.json) |
@@ -2286,6 +2287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rending Sky | 114374 | [114374-rending-sky.json](./114374-rending-sky.json) |
 | Rendition | 172498 | [172498-rendition.json](./172498-rendition.json) |
 | Renegade Grounds: Episode 1 | 55508 | [55508-renegade-grounds-episode-1.json](./55508-renegade-grounds-episode-1.json) |
+| Renegade Legion: Interceptor | 73333 | [73333-renegade-legion-interceptor.json](./73333-renegade-legion-interceptor.json) |
 | Renegade Ops: Coldstrike Campaign | 140394 | [140394-renegade-ops-coldstrike-campaign.json](./140394-renegade-ops-coldstrike-campaign.json) |
 | Renegade Ops: Reinforcement Pack | 140393 | [140393-renegade-ops-reinforcement-pack.json](./140393-renegade-ops-reinforcement-pack.json) |
 | Renegade Racing | 328010 | [328010-renegade-racing.json](./328010-renegade-racing.json) |
@@ -5187,6 +5189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rrrr | 112768 | [112768-rrrr.json](./112768-rrrr.json) |
 | RRRR 2 | 117081 | [117081-rrrr-2.json](./117081-rrrr-2.json) |
 | RRWard02 | 274209 | [274209-rrward02.json](./274209-rrward02.json) |
+| RS3: Racing Simulation Three | 73359 | [73359-rs3-racing-simulation-three.json](./73359-rs3-racing-simulation-three.json) |
 | RSDKv4 Decompilation | 202233 | [202233-rsdkv4-decompilation.json](./202233-rsdkv4-decompilation.json) |
 | RSSU: Retro Style Soviet Undies | 298065 | [298065-rssu-retro-style-soviet-undies.json](./298065-rssu-retro-style-soviet-undies.json) |
 | RTA Adventure | 407447 | [407447-rta-adventure.json](./407447-rta-adventure.json) |
