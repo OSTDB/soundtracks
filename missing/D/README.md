@@ -1667,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Night | 207405 | [207405-deadly-night.json](./207405-deadly-night.json) |
 | Deadly Nightmare | 190084 | [190084-deadly-nightmare.json](./190084-deadly-nightmare.json) |
 | Deadly Parkour | 295407 | [295407-deadly-parkour.json](./295407-deadly-parkour.json) |
+| Deadly Path | 118264 | [118264-deadly-path.json](./118264-deadly-path.json) |
 | Deadly Premonition | 1276 | [1276-deadly-premonition.json](./1276-deadly-premonition.json) |
 | Deadly Premonition 2: A Blessing in Disguise | 122232 | [122232-deadly-premonition-2-a-blessing-in-disguise.json](./122232-deadly-premonition-2-a-blessing-in-disguise.json) |
 | Deadly Premonition: Director's Cut | 9245 | [9245-deadly-premonition-directors-cut.json](./9245-deadly-premonition-directors-cut.json) |
@@ -6226,6 +6227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Slayer I | 344961 | [344961-dragon-slayer-i.json](./344961-dragon-slayer-i.json) |
 | Dragon Slayers | 123012 | [123012-dragon-slayers.json](./123012-dragon-slayers.json) |
 | Dragon Snack: From Ice to Ember | 399624 | [399624-dragon-snack-from-ice-to-ember.json](./399624-dragon-snack-from-ice-to-ember.json) |
+| Dragon Snakes | 118302 | [118302-dragon-snakes.json](./118302-dragon-snakes.json) |
 | Dragon Song Tavern | 334471 | [334471-dragon-song-tavern.json](./334471-dragon-song-tavern.json) |
 | Dragon Souls | 31864 | [31864-dragon-souls.json](./31864-dragon-souls.json) |
 | Dragon Spear | 77588 | [77588-dragon-spear.json](./77588-dragon-spear.json) |
@@ -6517,6 +6519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Eater | 410960 | [410960-dream-eater.json](./410960-dream-eater.json) |
 | Dream Eaters.exe | 344353 | [344353-dream-eaters-exe.json](./344353-dream-eaters-exe.json) |
 | Dream Ending: Drama | 121033 | [121033-dream-ending-drama.json](./121033-dream-ending-drama.json) |
+| Dream Engines: Nomad Cities | 118281 | [118281-dream-engines-nomad-cities.json](./118281-dream-engines-nomad-cities.json) |
 | Dream Factory | 34319 | [34319-dream-factory.json](./34319-dream-factory.json) |
 | Dream Fallen: Vila do Chaves | 188082 | [188082-dream-fallen-vila-do-chaves.json](./188082-dream-fallen-vila-do-chaves.json) |
 | Dream Fight Will | 216735 | [216735-dream-fight-will.json](./216735-dream-fight-will.json) |
