@@ -2964,6 +2964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desespejos | 181799 | [181799-desespejos.json](./181799-desespejos.json) |
 | Design A Train | 106083 | [106083-design-a-train.json](./106083-design-a-train.json) |
 | Design My Room: Fashion | 107667 | [107667-design-my-room-fashion.json](./107667-design-my-room-fashion.json) |
+| Design Your Own Railroad | 79963 | [79963-design-your-own-railroad.json](./79963-design-your-own-railroad.json) |
 | Designed for Danger | 321771 | [321771-designed-for-danger.json](./321771-designed-for-danger.json) |
 | Desirable Deals | 279671 | [279671-desirable-deals.json](./279671-desirable-deals.json) |
 | Désiré | 88080 | [88080-desire.json](./88080-desire.json) |
@@ -4402,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Mulan | 46673 | [46673-disneys-mulan.json](./46673-disneys-mulan.json) |
 | Disney's Mulan Training Game | 246946 | [246946-disneys-mulan-training-game.json](./246946-disneys-mulan-training-game.json) |
 | Disney's Party | 242808 | [242808-disneys-party.json](./242808-disneys-party.json) |
+| Disney's Peter Pan: The Legend of Never Land | 79954 | [79954-disneys-peter-pan-the-legend-of-never-land.json](./79954-disneys-peter-pan-the-legend-of-never-land.json) |
 | Disney's Pocahantas: Riverbend Adventures | 76602 | [76602-disneys-pocahantas-riverbend-adventures.json](./76602-disneys-pocahantas-riverbend-adventures.json) |
 | Disney's Pocahontas | 45780 | [45780-disneys-pocahontas.json](./45780-disneys-pocahontas.json) |
 | Disney's Reading Quest with Aladdin | 208897 | [208897-disneys-reading-quest-with-aladdin.json](./208897-disneys-reading-quest-with-aladdin.json) |
@@ -4412,6 +4414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Tarzan: Untamed | 10625 | [10625-disneys-tarzan-untamed.json](./10625-disneys-tarzan-untamed.json) |
 | Disney's The Lion King | 198801 | [198801-disneys-the-lion-king.json](./198801-disneys-the-lion-king.json) |
 | Disney's The Lion King | 204572 | [204572-disneys-the-lion-king.json](./204572-disneys-the-lion-king.json) |
+| Disney's The Lion King 1 1/2 | 79813 | [79813-disneys-the-lion-king-1-1-2.json](./79813-disneys-the-lion-king-1-1-2.json) |
 | Disney's The Lion King: Simba's Mighty Adventure | 45228 | [45228-disneys-the-lion-king-simbas-mighty-adventure.json](./45228-disneys-the-lion-king-simbas-mighty-adventure.json) |
 | Disney's The Little Mermaid | 198802 | [198802-disneys-the-little-mermaid.json](./198802-disneys-the-little-mermaid.json) |
 | Disney's The Little Mermaid | 198803 | [198803-disneys-the-little-mermaid.json](./198803-disneys-the-little-mermaid.json) |
