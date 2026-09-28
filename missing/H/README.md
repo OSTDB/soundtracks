@@ -1927,6 +1927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello, Kami-sama Worker | 379354 | [379354-hello-kami-sama-worker.json](./379354-hello-kami-sama-worker.json) |
 | Hello, This Is Bear | 272344 | [272344-hello-this-is-bear.json](./272344-hello-this-is-bear.json) |
 | Hello, Vic | 258543 | [258543-hello-vic.json](./258543-hello-vic.json) |
+| Hello, World. | 117130 | [117130-hello-world.json](./117130-hello-world.json) |
 | Hello, Yoshi! | 378319 | [378319-hello-yoshi.json](./378319-hello-yoshi.json) |
 | Hello, your order... | 337153 | [337153-hello-your-order.json](./337153-hello-your-order.json) |
 | Hello: A Talking Simulator | 179173 | [179173-hello-a-talking-simulator.json](./179173-hello-a-talking-simulator.json) |
