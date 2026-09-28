@@ -4730,6 +4730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Call | 386983 | [386983-house-call.json](./386983-house-call.json) |
 | House Cleaner Flipper Game | 105916 | [105916-house-cleaner-flipper-game.json](./105916-house-cleaner-flipper-game.json) |
 | House Cleaning Simulator | 401126 | [401126-house-cleaning-simulator.json](./401126-house-cleaning-simulator.json) |
+| House Dating VR: Cute Korean Girl, Sehyun | 74506 | [74506-house-dating-vr-cute-korean-girl-sehyun.json](./74506-house-dating-vr-cute-korean-girl-sehyun.json) |
 | House Designer | 171625 | [171625-house-designer.json](./171625-house-designer.json) |
 | House Designer 2 | 274026 | [274026-house-designer-2.json](./274026-house-designer-2.json) |
 | House Designer: Fix & Flip | 107134 | [107134-house-designer-fix-and-flip.json](./107134-house-designer-fix-and-flip.json) |
