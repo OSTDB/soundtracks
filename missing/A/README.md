@@ -1394,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afrika | 130826 | [130826-afrika.json](./130826-afrika.json) |
 | Afro Samurai 2: Revenge of Kuma | 20030 | [20030-afro-samurai-2-revenge-of-kuma.json](./20030-afro-samurai-2-revenge-of-kuma.json) |
 | AfroPenguin & The Forbidden Ramen | 244866 | [244866-afropenguin-and-the-forbidden-ramen.json](./244866-afropenguin-and-the-forbidden-ramen.json) |
+| After Burner | 113199 | [113199-after-burner.json](./113199-after-burner.json) |
 | After Burner | 365088 | [365088-after-burner.json](./365088-after-burner.json) |
 | After Burner | 365100 | [365100-after-burner.json](./365100-after-burner.json) |
 | After Burner | 45347 | [45347-after-burner.json](./45347-after-burner.json) |
@@ -1407,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Fright | 279068 | [279068-after-fright.json](./279068-after-fright.json) |
 | After He Was Gone | 203836 | [203836-after-he-was-gone.json](./203836-after-he-was-gone.json) |
 | After Hell Freezes Over | 366912 | [366912-after-hell-freezes-over.json](./366912-after-hell-freezes-over.json) |
+| After Hours | 113144 | [113144-after-hours.json](./113144-after-hours.json) |
 | After Hours | 117511 | [117511-after-hours.json](./117511-after-hours.json) |
 | After I Met That Catgirl, My Questlist Got Too Long! | 117631 | [117631-after-i-met-that-catgirl-my-questlist-got-too-long.json](./117631-after-i-met-that-catgirl-my-questlist-got-too-long.json) |
 | After Inc: Revival | 344549 | [344549-after-inc-revival.json](./344549-after-inc-revival.json) |
@@ -1764,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Combat MF | 121009 | [121009-air-combat-mf.json](./121009-air-combat-mf.json) |
 | Air Combat Pilot: WW2 Pacific | 102581 | [102581-air-combat-pilot-ww2-pacific.json](./102581-air-combat-pilot-ww2-pacific.json) |
 | Air Combat Revolution | 61062 | [61062-air-combat-revolution.json](./61062-air-combat-revolution.json) |
+| Air Combat XF | 113151 | [113151-air-combat-xf.json](./113151-air-combat-xf.json) |
 | Air Command 3.0: Airport Expansion Set | 144186 | [144186-air-command-3-0-airport-expansion-set.json](./144186-air-command-3-0-airport-expansion-set.json) |
 | Air Conflicts Collection | 52572 | [52572-air-conflicts-collection.json](./52572-air-conflicts-collection.json) |
 | Air Conflicts: Double Pack | 118198 | [118198-air-conflicts-double-pack.json](./118198-air-conflicts-double-pack.json) |
@@ -2282,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Algotica Iterations | 113253 | [113253-algotica-iterations.json](./113253-algotica-iterations.json) |
 | Ali Baba | 76196 | [76196-ali-baba.json](./76196-ali-baba.json) |
 | Alia's Carnival! Sacrament | 14857 | [14857-alias-carnival-sacrament.json](./14857-alias-carnival-sacrament.json) |
+| Alia's Carnival! Sacrament Plus | 113194 | [113194-alias-carnival-sacrament-plus.json](./113194-alias-carnival-sacrament-plus.json) |
 | Alian | 288751 | [288751-alian.json](./288751-alian.json) |
 | Alian Planet | 316188 | [316188-alian-planet.json](./316188-alian-planet.json) |
 | Alianator | 76197 | [76197-alianator.json](./76197-alianator.json) |
@@ -2360,6 +2364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Wonderland: Cast in Shadow | 296067 | [296067-alices-wonderland-cast-in-shadow.json](./296067-alices-wonderland-cast-in-shadow.json) |
 | Alicia Online | 60233 | [60233-alicia-online.json](./60233-alicia-online.json) |
 | Alicia Quatermain 2: The Stone of Fate | 104740 | [104740-alicia-quatermain-2-the-stone-of-fate.json](./104740-alicia-quatermain-2-the-stone-of-fate.json) |
+| Alicia Quatermain 3: The Mystery of the Flaming Gold | 113180 | [113180-alicia-quatermain-3-the-mystery-of-the-flaming-gold.json](./113180-alicia-quatermain-3-the-mystery-of-the-flaming-gold.json) |
 | Alien | 245251 | [245251-alien.json](./245251-alien.json) |
 | Alien | 25132 | [25132-alien.json](./25132-alien.json) |
 | Alien 3 | 8908 | [8908-alien-3.json](./8908-alien-3.json) |
@@ -2404,6 +2409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Egg: Ascent | 137671 | [137671-alien-egg-ascent.json](./137671-alien-egg-ascent.json) |
 | Alien Engine | 207897 | [207897-alien-engine.json](./207897-alien-engine.json) |
 | Alien Extraction | 195691 | [195691-alien-extraction.json](./195691-alien-extraction.json) |
+| Alien Field | 113179 | [113179-alien-field.json](./113179-alien-field.json) |
 | Alien Fish World VR | 379446 | [379446-alien-fish-world-vr.json](./379446-alien-fish-world-vr.json) |
 | Alien Flowers | 229642 | [229642-alien-flowers.json](./229642-alien-flowers.json) |
 | Alien Front | 206107 | [206107-alien-front.json](./206107-alien-front.json) |
@@ -4827,6 +4833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Roller Jammer | 210745 | [210745-arcade-archives-roller-jammer.json](./210745-arcade-archives-roller-jammer.json) |
 | Arcade Archives: Rolling Thunder | 196174 | [196174-arcade-archives-rolling-thunder.json](./196174-arcade-archives-rolling-thunder.json) |
 | Arcade Archives: Rolling Thunder 2 | 251000 | [251000-arcade-archives-rolling-thunder-2.json](./251000-arcade-archives-rolling-thunder-2.json) |
+| Arcade Archives: Route 16 | 113197 | [113197-arcade-archives-route-16.json](./113197-arcade-archives-route-16.json) |
 | Arcade Archives: Rygar | 109499 | [109499-arcade-archives-rygar.json](./109499-arcade-archives-rygar.json) |
 | Arcade Archives: Ryukyu | 345113 | [345113-arcade-archives-ryukyu.json](./345113-arcade-archives-ryukyu.json) |
 | Arcade Archives: Saint Dragon | 129766 | [129766-arcade-archives-saint-dragon.json](./129766-arcade-archives-saint-dragon.json) |
