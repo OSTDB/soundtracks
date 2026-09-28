@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkStory Online | 122155 | [122155-darkstory-online.json](./122155-darkstory-online.json) |
 | Darkwatch | 5808 | [5808-darkwatch.json](./5808-darkwatch.json) |
 | Darkwind: War on Wheels | 17305 | [17305-darkwind-war-on-wheels.json](./17305-darkwind-war-on-wheels.json) |
+| Darkwinds | 113152 | [113152-darkwinds.json](./113152-darkwinds.json) |
 | Darkwing Duck R | 363974 | [363974-darkwing-duck-r.json](./363974-darkwing-duck-r.json) |
 | Darkwood | 17032 | [17032-darkwood.json](./17032-darkwood.json) |
 | Darkwood: Special Edition | 118154 | [118154-darkwood-special-edition.json](./118154-darkwood-special-edition.json) |
@@ -2302,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defending Frontiers | 127203 | [127203-defending-frontiers.json](./127203-defending-frontiers.json) |
 | Defending Territory | 119549 | [119549-defending-territory.json](./119549-defending-territory.json) |
 | Defendron | 260378 | [260378-defendron.json](./260378-defendron.json) |
+| Defense Corp: Earth | 113168 | [113168-defense-corp-earth.json](./113168-defense-corp-earth.json) |
 | Defense Derby | 247465 | [247465-defense-derby.json](./247465-defense-derby.json) |
 | Defense Grid 2: Enhanced VR Edition | 58745 | [58745-defense-grid-2-enhanced-vr-edition.json](./58745-defense-grid-2-enhanced-vr-edition.json) |
 | Defense Grid: The Awakening - Resurgence Map Pack 3 | 156026 | [156026-defense-grid-the-awakening-resurgence-map-pack-3.json](./156026-defense-grid-the-awakening-resurgence-map-pack-3.json) |
@@ -2328,6 +2330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defina | 237334 | [237334-defina.json](./237334-defina.json) |
 | Definitely Not a Cult | 408807 | [408807-definitely-not-a-cult.json](./408807-definitely-not-a-cult.json) |
 | Definitely Real Football | 177014 | [177014-definitely-real-football.json](./177014-definitely-real-football.json) |
+| Definitely Sneaky But Not Sneaky | 113182 | [113182-definitely-sneaky-but-not-sneaky.json](./113182-definitely-sneaky-but-not-sneaky.json) |
 | Deflect Boy | 290942 | [290942-deflect-boy.json](./290942-deflect-boy.json) |
 | Deflector | 179190 | [179190-deflector.json](./179190-deflector.json) |
 | Deflector | 93563 | [93563-deflector.json](./93563-deflector.json) |
@@ -5150,6 +5153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Save the Princess | 111468 | [111468-dont-save-the-princess.json](./111468-dont-save-the-princess.json) |
 | Don't Screw Up! | 233636 | [233636-dont-screw-up.json](./233636-dont-screw-up.json) |
 | Don't Shit on My #!$@& Roof | 216308 | [216308-dont-shit-on-my-and-roof.json](./216308-dont-shit-on-my-and-roof.json) |
+| Don't Shoot Rabbit | 113165 | [113165-dont-shoot-rabbit.json](./113165-dont-shoot-rabbit.json) |
 | Don't Shoot the Puppy | 136454 | [136454-dont-shoot-the-puppy.json](./136454-dont-shoot-the-puppy.json) |
 | Don't Shoot Yourself! | 36152 | [36152-dont-shoot-yourself.json](./36152-dont-shoot-yourself.json) |
 | Don't Shout Together | 276238 | [276238-dont-shout-together.json](./276238-dont-shout-together.json) |
