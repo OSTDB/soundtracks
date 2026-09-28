@@ -784,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Rock Casino | 21386 | [21386-hard-rock-casino.json](./21386-hard-rock-casino.json) |
 | Hard Rock Pinball | 133434 | [133434-hard-rock-pinball.json](./133434-hard-rock-pinball.json) |
 | Hard Rock Racing | 103878 | [103878-hard-rock-racing.json](./103878-hard-rock-racing.json) |
+| Hard Rock Zombie Truck Plastiline | 109870 | [109870-hard-rock-zombie-truck-plastiline.json](./109870-hard-rock-zombie-truck-plastiline.json) |
 | Hard Survivor | 232973 | [232973-hard-survivor.json](./232973-hard-survivor.json) |
 | Hard Time | 152241 | [152241-hard-time.json](./152241-hard-time.json) |
 | Hard Time III | 310923 | [310923-hard-time-iii.json](./310923-hard-time-iii.json) |
@@ -2308,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai: Nazi Girl | 327393 | [327393-hentai-nazi-girl.json](./327393-hentai-nazi-girl.json) |
 | Hentai: Nude Quest | 277922 | [277922-hentai-nude-quest.json](./277922-hentai-nude-quest.json) |
 | Hentai: Royal Quarters | 286543 | [286543-hentai-royal-quarters.json](./286543-hentai-royal-quarters.json) |
+| Hentai: The Shell Game | 109885 | [109885-hentai-the-shell-game.json](./109885-hentai-the-shell-game.json) |
 | Hentai: Waifu World | 296950 | [296950-hentai-waifu-world.json](./296950-hentai-waifu-world.json) |
 | Hentai: Young Valkyries | 259610 | [259610-hentai-young-valkyries.json](./259610-hentai-young-valkyries.json) |
 | Hentai! Zombie! Defense! | 160165 | [160165-hentai-zombie-defense.json](./160165-hentai-zombie-defense.json) |
@@ -4288,6 +4290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror School: The Classroom | 303090 | [303090-horror-school-the-classroom.json](./303090-horror-school-the-classroom.json) |
 | Horror Sense: Daruma-san ga Koronda | 44156 | [44156-horror-sense-daruma-san-ga-koronda.json](./44156-horror-sense-daruma-san-ga-koronda.json) |
 | Horror Simulator: Co-Op | 318059 | [318059-horror-simulator-co-op.json](./318059-horror-simulator-co-op.json) |
+| Horror Souls | 109905 | [109905-horror-souls.json](./109905-horror-souls.json) |
 | Horror Stories | 60496 | [60496-horror-stories.json](./60496-horror-stories.json) |
 | Horror Story | 42001 | [42001-horror-story.json](./42001-horror-story.json) |
 | Horror Tale 1: Kidnapper | 239049 | [239049-horror-tale-1-kidnapper.json](./239049-horror-tale-1-kidnapper.json) |
