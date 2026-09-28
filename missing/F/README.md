@@ -350,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Treasure - Brick Breaker | 108859 | [108859-fairy-treasure-brick-breaker.json](./108859-fairy-treasure-brick-breaker.json) |
 | Fairy Village | 233625 | [233625-fairy-village.json](./233625-fairy-village.json) |
 | FairyLand | 413711 | [413711-fairyland.json](./413711-fairyland.json) |
+| Fairyland Melody Magic | 68055 | [68055-fairyland-melody-magic.json](./68055-fairyland-melody-magic.json) |
 | Fairyland: Power Dice | 103473 | [103473-fairyland-power-dice.json](./103473-fairyland-power-dice.json) |
 | Fairyside | 223480 | [223480-fairyside.json](./223480-fairyside.json) |
 | Fairytale | 47246 | [47246-fairytale.json](./47246-fairytale.json) |
