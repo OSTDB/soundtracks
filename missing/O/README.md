@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympic Decathlon | 78618 | [78618-olympic-decathlon.json](./78618-olympic-decathlon.json) |
 | Olympic Games Tokyo 2020: The Official Video Game | 116797 | [116797-olympic-games-tokyo-2020-the-official-video-game.json](./116797-olympic-games-tokyo-2020-the-official-video-game.json) |
 | Olympic Gold: Barcelona '92 | 46266 | [46266-olympic-gold-barcelona-92.json](./46266-olympic-gold-barcelona-92.json) |
+| Olympics VR | 75942 | [75942-olympics-vr.json](./75942-olympics-vr.json) |
 | Olympique de Marseille Club Football 2005 | 267907 | [267907-olympique-de-marseille-club-football-2005.json](./267907-olympique-de-marseille-club-football-2005.json) |
 | Olympus 2207 | 219118 | [219118-olympus-2207.json](./219118-olympus-2207.json) |
 | Olympus Rising: Hero Defense | 106964 | [106964-olympus-rising-hero-defense.json](./106964-olympus-rising-hero-defense.json) |
@@ -1163,6 +1164,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Dream Pointer | 294778 | [294778-one-piece-dream-pointer.json](./294778-one-piece-dream-pointer.json) |
 | One Piece: Gigant Battle! | 47818 | [47818-one-piece-gigant-battle.json](./47818-one-piece-gigant-battle.json) |
 | One Piece: Grand Adventure | 4053 | [4053-one-piece-grand-adventure.json](./4053-one-piece-grand-adventure.json) |
+| One Piece: Grand Battle! 2 | 75743 | [75743-one-piece-grand-battle-2.json](./75743-one-piece-grand-battle-2.json) |
+| One Piece: Maboroshi no Grand Line Boukenki! | 75744 | [75744-one-piece-maboroshi-no-grand-line-boukenki.json](./75744-one-piece-maboroshi-no-grand-line-boukenki.json) |
+| One Piece: Mezase Kaizoku-ou! | 75737 | [75737-one-piece-mezase-kaizoku-ou.json](./75737-one-piece-mezase-kaizoku-ou.json) |
+| One Piece: Nanatsu Shima no Daihihou | 75747 | [75747-one-piece-nanatsu-shima-no-daihihou.json](./75747-one-piece-nanatsu-shima-no-daihihou.json) |
+| One Piece: Niji no Shima Densetsu | 75741 | [75741-one-piece-niji-no-shima-densetsu.json](./75741-one-piece-niji-no-shima-densetsu.json) |
 | One Piece: Ocean's Dream! | 75750 | [75750-one-piece-oceans-dream.json](./75750-one-piece-oceans-dream.json) |
 | One Piece: Pirate Warriors + One Piece: Pirate Warriors 2 | 81477 | [81477-one-piece-pirate-warriors-one-piece-pirate-warriors-2.json](./81477-one-piece-pirate-warriors-one-piece-pirate-warriors-2.json) |
 | One Piece: Pirate Warriors 3 - DLC Pack 1 | 171049 | [171049-one-piece-pirate-warriors-3-dlc-pack-1.json](./171049-one-piece-pirate-warriors-3-dlc-pack-1.json) |
@@ -1179,9 +1185,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Pirate Warriors 4 - Ultimate Edition | 266820 | [266820-one-piece-pirate-warriors-4-ultimate-edition.json](./266820-one-piece-pirate-warriors-4-ultimate-edition.json) |
 | One Piece: Romance Dawn | 6851 | [6851-one-piece-romance-dawn.json](./6851-one-piece-romance-dawn.json) |
 | One Piece: Starboard | 300799 | [300799-one-piece-starboard.json](./300799-one-piece-starboard.json) |
+| One Piece: Tobidase Kaizoku-dan! | 75740 | [75740-one-piece-tobidase-kaizoku-dan.json](./75740-one-piece-tobidase-kaizoku-dan.json) |
+| One Piece: Treasure Battle! | 75746 | [75746-one-piece-treasure-battle.json](./75746-one-piece-treasure-battle.json) |
+| One Piece: Treasure Wars 2 - Buggyland he Youkoso | 75748 | [75748-one-piece-treasure-wars-2-buggyland-he-youkoso.json](./75748-one-piece-treasure-wars-2-buggyland-he-youkoso.json) |
 | One Piece: Unlimited Cruise SP2 | 79261 | [79261-one-piece-unlimited-cruise-sp2.json](./79261-one-piece-unlimited-cruise-sp2.json) |
 | One Piece: Unlimited World Red - Prestige Edition | 99804 | [99804-one-piece-unlimited-world-red-prestige-edition.json](./99804-one-piece-unlimited-world-red-prestige-edition.json) |
 | One Piece: World Seeker Episode Pass | 152911 | [152911-one-piece-world-seeker-episode-pass.json](./152911-one-piece-world-seeker-episode-pass.json) |
+| One Piece: Yume no Luffy Kaizoku-dan Tanjou! | 75739 | [75739-one-piece-yume-no-luffy-kaizoku-dan-tanjou.json](./75739-one-piece-yume-no-luffy-kaizoku-dan-tanjou.json) |
 | One Ping Only | 95610 | [95610-one-ping-only.json](./95610-one-ping-only.json) |
 | One Punch | 151657 | [151657-one-punch.json](./151657-one-punch.json) |
 | One Punch Man | 175711 | [175711-one-punch-man.json](./175711-one-punch-man.json) |
