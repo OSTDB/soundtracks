@@ -1889,6 +1889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's Worldo?! | 229072 | [229072-wheres-worldo.json](./229072-wheres-worldo.json) |
 | WhereTaken | 323198 | [323198-wheretaken.json](./323198-wheretaken.json) |
 | Wherever You Get Your Podcasts | 397652 | [397652-wherever-you-get-your-podcasts.json](./397652-wherever-you-get-your-podcasts.json) |
+| Which Comes First? | 60628 | [60628-which-comes-first.json](./60628-which-comes-first.json) |
 | Which Country Is Larger? | 294819 | [294819-which-country-is-larger.json](./294819-which-country-is-larger.json) |
 | Which hand? | 379866 | [379866-which-hand.json](./379866-which-hand.json) |
 | Which Naruto Character Are You? | 230540 | [230540-which-naruto-character-are-you.json](./230540-which-naruto-character-are-you.json) |
@@ -3493,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Heroes Perfect | 46779 | [46779-world-heroes-perfect.json](./46779-world-heroes-perfect.json) |
 | World Heroes Supreme Justice Extra | 358960 | [358960-world-heroes-supreme-justice-extra.json](./358960-world-heroes-supreme-justice-extra.json) |
 | World History Quiz: Cavemen to Democracy | 72180 | [72180-world-history-quiz-cavemen-to-democracy.json](./72180-world-history-quiz-cavemen-to-democracy.json) |
+| World Hunter | 60634 | [60634-world-hunter.json](./60634-world-hunter.json) |
 | World in Conflict: Soviet Assault | 9338 | [9338-world-in-conflict-soviet-assault.json](./9338-world-in-conflict-soviet-assault.json) |
 | World is Lava | 376713 | [376713-world-is-lava.json](./376713-world-is-lava.json) |
 | World Karate Championship | 79620 | [79620-world-karate-championship.json](./79620-world-karate-championship.json) |
