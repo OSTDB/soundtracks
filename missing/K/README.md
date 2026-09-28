@@ -1871,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klonoa: Door to Phantomile | 270725 | [270725-klonoa-door-to-phantomile.json](./270725-klonoa-door-to-phantomile.json) |
 | Klonoa: Empire of Dreams | 6492 | [6492-klonoa-empire-of-dreams.json](./6492-klonoa-empire-of-dreams.json) |
 | Klorbiest Catch | 410324 | [410324-klorbiest-catch.json](./410324-klorbiest-catch.json) |
+| Klotski Unblock | 90828 | [90828-klotski-unblock.json](./90828-klotski-unblock.json) |
 | Klotski+ | 221707 | [221707-klotski.json](./221707-klotski.json) |
 | Klung | 182533 | [182533-klung.json](./182533-klung.json) |
 | Klustar | 93363 | [93363-klustar.json](./93363-klustar.json) |
