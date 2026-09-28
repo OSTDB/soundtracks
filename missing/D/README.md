@@ -1696,6 +1696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Skies | 22730 | [22730-deadly-skies.json](./22730-deadly-skies.json) |
 | Deadly Sky | 51981 | [51981-deadly-sky.json](./51981-deadly-sky.json) |
 | Deadly Soccer | 242569 | [242569-deadly-soccer.json](./242569-deadly-soccer.json) |
+| Deadly Standing | 104256 | [104256-deadly-standing.json](./104256-deadly-standing.json) |
 | Deadly Stasis | 29213 | [29213-deadly-stasis.json](./29213-deadly-stasis.json) |
 | Deadly Station | 96523 | [96523-deadly-station.json](./96523-deadly-station.json) |
 | Deadly Stigma | 106532 | [106532-deadly-stigma.json](./106532-deadly-stigma.json) |
