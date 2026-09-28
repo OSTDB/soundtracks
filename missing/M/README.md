@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M-Tee | 195504 | [195504-m-tee.json](./195504-m-tee.json) |
 | M. I. A. - Missing In Action | 76199 | [76199-m-i-a-missing-in-action.json](./76199-m-i-a-missing-in-action.json) |
 | M. Stain | 356108 | [356108-m-stain.json](./356108-m-stain.json) |
+| M.A.C.E. TD | 87607 | [87607-m-a-c-e-td.json](./87607-m-a-c-e-td.json) |
 | M.A.C.H | 44508 | [44508-m-a-c-h.json](./44508-m-a-c-h.json) |
 | M.A.C.S. | 90645 | [90645-m-a-c-s.json](./90645-m-a-c-s.json) |
 | M.A.I.D.s | 148360 | [148360-m-a-i-d-s.json](./148360-m-a-i-d-s.json) |
@@ -2480,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Rescue: Rounding and Estimation game | 97139 | [97139-math-rescue-rounding-and-estimation-game.json](./97139-math-rescue-rounding-and-estimation-game.json) |
 | Math RTS | 81777 | [81777-math-rts.json](./81777-math-rts.json) |
 | Math Speed Challenge | 101617 | [101617-math-speed-challenge.json](./101617-math-speed-challenge.json) |
+| Math Tables Mania: Learn Multiplications and Divisions | 87638 | [87638-math-tables-mania-learn-multiplications-and-divisions.json](./87638-math-tables-mania-learn-multiplications-and-divisions.json) |
 | Math the Question | 130840 | [130840-math-the-question.json](./130840-math-the-question.json) |
 | Math-A-Thon 2: The Mystery of the Missing Laboratory | 209547 | [209547-math-a-thon-2-the-mystery-of-the-missing-laboratory.json](./209547-math-a-thon-2-the-mystery-of-the-missing-laboratory.json) |
 | Mathable | 232533 | [232533-mathable.json](./232533-mathable.json) |
@@ -3129,6 +3131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet Santa | 326969 | [326969-meet-santa.json](./326969-meet-santa.json) |
 | Meet the Girls | 181801 | [181801-meet-the-girls.json](./181801-meet-the-girls.json) |
 | Meet the Letters Flashcards: Lowercase | 101569 | [101569-meet-the-letters-flashcards-lowercase.json](./101569-meet-the-letters-flashcards-lowercase.json) |
+| Meet the Letters Flashcards: Lowercase | 87619 | [87619-meet-the-letters-flashcards-lowercase.json](./87619-meet-the-letters-flashcards-lowercase.json) |
 | Meet the Mole | 180679 | [180679-meet-the-mole.json](./180679-meet-the-mole.json) |
 | Meet the Myths: An Ormhildur the Brave Game | 331126 | [331126-meet-the-myths-an-ormhildur-the-brave-game.json](./331126-meet-the-myths-an-ormhildur-the-brave-game.json) |
 | Meet the Rookie | 310924 | [310924-meet-the-rookie.json](./310924-meet-the-rookie.json) |
@@ -5343,6 +5346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Twist | 296973 | [296973-minesweeper-twist.json](./296973-minesweeper-twist.json) |
 | Minesweeper Ultimate | 167815 | [167815-minesweeper-ultimate.json](./167815-minesweeper-ultimate.json) |
 | MineSweeper VR | 31617 | [31617-minesweeper-vr.json](./31617-minesweeper-vr.json) |
+| Minesweeper X | 87547 | [87547-minesweeper-x.json](./87547-minesweeper-x.json) |
 | Minesweeper: The Clean One | 180245 | [180245-minesweeper-the-clean-one.json](./180245-minesweeper-the-clean-one.json) |
 | Mineswifter | 138189 | [138189-mineswifter.json](./138189-mineswifter.json) |
 | Míngjiào Fēngyún zhī Jiǔ Yīn Jiǔ Yáng | 155014 | [155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json](./155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json) |
@@ -6479,6 +6483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Mole Panic | 40386 | [40386-monkey-mole-panic.json](./40386-monkey-mole-panic.json) |
 | Monkey Ninja | 106146 | [106146-monkey-ninja.json](./106146-monkey-ninja.json) |
 | Monkey Quest | 182970 | [182970-monkey-quest.json](./182970-monkey-quest.json) |
+| Monkey Rush | 87557 | [87557-monkey-rush.json](./87557-monkey-rush.json) |
 | Monkey Snowfight | 320300 | [320300-monkey-snowfight.json](./320300-monkey-snowfight.json) |
 | Monkey Splash!! | 274466 | [274466-monkey-splash.json](./274466-monkey-splash.json) |
 | Monkey Split | 142450 | [142450-monkey-split.json](./142450-monkey-split.json) |
@@ -9270,6 +9275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystina: Remaster Online | 403159 | [403159-mystina-remaster-online.json](./403159-mystina-remaster-online.json) |
 | Mystragedy | 97475 | [97475-mystragedy.json](./97475-mystragedy.json) |
 | MyStylist | 68303 | [68303-mystylist.json](./68303-mystylist.json) |
+| mySudoku | 87571 | [87571-mysudoku.json](./87571-mysudoku.json) |
 | MyTavern | 295328 | [295328-mytavern.json](./295328-mytavern.json) |
 | Myth | 12186 | [12186-myth.json](./12186-myth.json) |
 | Myth | 252374 | [252374-myth.json](./252374-myth.json) |
