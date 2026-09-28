@@ -1295,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weather Lord: Hidden Realm | 46872 | [46872-weather-lord-hidden-realm.json](./46872-weather-lord-hidden-realm.json) |
 | Weather Lord: In Search of the Shaman | 46873 | [46873-weather-lord-in-search-of-the-shaman.json](./46873-weather-lord-in-search-of-the-shaman.json) |
 | Weather Report | 362919 | [362919-weather-report.json](./362919-weather-report.json) |
+| Weathered | 62827 | [62827-weathered.json](./62827-weathered.json) |
 | Weatherworn: The Adventure of Pap & Pup | 157526 | [157526-weatherworn-the-adventure-of-pap-and-pup.json](./157526-weatherworn-the-adventure-of-pap-and-pup.json) |
 | Weave | 108823 | [108823-weave.json](./108823-weave.json) |
 | Weave the Line - Puzzle games | 108278 | [108278-weave-the-line-puzzle-games.json](./108278-weave-the-line-puzzle-games.json) |
@@ -1559,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wetter | 371477 | [371477-wetter.json](./371477-wetter.json) |
 | Wettop | 358871 | [358871-wettop.json](./358871-wettop.json) |
 | Wetware | 142259 | [142259-wetware.json](./142259-wetware.json) |
+| Wetware | 62828 | [62828-wetware.json](./62828-wetware.json) |
 | Weyrdlets: Fishing & Friends - Summer Update | 347863 | [347863-weyrdlets-fishing-and-friends-summer-update.json](./347863-weyrdlets-fishing-and-friends-summer-update.json) |
 | WFD | 272567 | [272567-wfd.json](./272567-wfd.json) |
 | WFO World Football Online | 215649 | [215649-wfo-world-football-online.json](./215649-wfo-world-football-online.json) |
