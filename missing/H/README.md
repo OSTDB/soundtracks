@@ -2395,6 +2395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Here Again | 410923 | [410923-here-again.json](./410923-here-again.json) |
 | Here and There Along the Echo | 74392 | [74392-here-and-there-along-the-echo.json](./74392-here-and-there-along-the-echo.json) |
 | Here Be Dragons | 110355 | [110355-here-be-dragons.json](./110355-here-be-dragons.json) |
+| Here Comes the Bride | 82174 | [82174-here-comes-the-bride.json](./82174-here-comes-the-bride.json) |
 | Here For Sweethearts | 184036 | [184036-here-for-sweethearts.json](./184036-here-for-sweethearts.json) |
 | Here Nya | 108054 | [108054-here-nya.json](./108054-here-nya.json) |
 | Here There Be Bears | 247993 | [247993-here-there-be-bears.json](./247993-here-there-be-bears.json) |
@@ -2994,12 +2995,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Animal Seasons | 98400 | [98400-hidden-object-animal-seasons.json](./98400-hidden-object-animal-seasons.json) |
 | Hidden Object: Autumn Splendors | 98590 | [98590-hidden-object-autumn-splendors.json](./98590-hidden-object-autumn-splendors.json) |
 | Hidden Object: Be My Valentine | 98554 | [98554-hidden-object-be-my-valentine.json](./98554-hidden-object-be-my-valentine.json) |
+| Hidden Object: Candy Crunch | 82177 | [82177-hidden-object-candy-crunch.json](./82177-hidden-object-candy-crunch.json) |
 | Hidden Object: Candyland Sweet Paradise | 83631 | [83631-hidden-object-candyland-sweet-paradise.json](./83631-hidden-object-candyland-sweet-paradise.json) |
 | Hidden Object: Cat Tailz | 82164 | [82164-hidden-object-cat-tailz.json](./82164-hidden-object-cat-tailz.json) |
 | Hidden Object: Chocolat | 83636 | [83636-hidden-object-chocolat.json](./83636-hidden-object-chocolat.json) |
+| Hidden Object: Christmas in July | 82169 | [82169-hidden-object-christmas-in-july.json](./82169-hidden-object-christmas-in-july.json) |
 | Hidden Object: Christmas Tree | 82163 | [82163-hidden-object-christmas-tree.json](./82163-hidden-object-christmas-tree.json) |
 | Hidden Object: Classic Fables | 98391 | [98391-hidden-object-classic-fables.json](./98391-hidden-object-classic-fables.json) |
 | Hidden Object: Coyote the Outlander | 96007 | [96007-hidden-object-coyote-the-outlander.json](./96007-hidden-object-coyote-the-outlander.json) |
+| Hidden Object: Cozy Christmas | 82171 | [82171-hidden-object-cozy-christmas.json](./82171-hidden-object-cozy-christmas.json) |
 | Hidden Object: Crazy Hearts | 98390 | [98390-hidden-object-crazy-hearts.json](./98390-hidden-object-crazy-hearts.json) |
 | Hidden Object: Crime in Penthouse Special Edition | 240340 | [240340-hidden-object-crime-in-penthouse-special-edition.json](./240340-hidden-object-crime-in-penthouse-special-edition.json) |
 | Hidden Object: Cursed by Diamonds | 98556 | [98556-hidden-object-cursed-by-diamonds.json](./98556-hidden-object-cursed-by-diamonds.json) |
@@ -3023,6 +3027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Golden Trails - Secret of the Princess | 240197 | [240197-hidden-object-golden-trails-secret-of-the-princess.json](./240197-hidden-object-golden-trails-secret-of-the-princess.json) |
 | Hidden Object: Hallows Eve | 98591 | [98591-hidden-object-hallows-eve.json](./98591-hidden-object-hallows-eve.json) |
 | Hidden Object: Happy Haunts | 98581 | [98581-hidden-object-happy-haunts.json](./98581-hidden-object-happy-haunts.json) |
+| Hidden Object: Happy Valentine's Day | 82173 | [82173-hidden-object-happy-valentines-day.json](./82173-hidden-object-happy-valentines-day.json) |
 | Hidden Object: Haunted House 3 | 98594 | [98594-hidden-object-haunted-house-3.json](./98594-hidden-object-haunted-house-3.json) |
 | Hidden Object: Haunted House 4 | 98592 | [98592-hidden-object-haunted-house-4.json](./98592-hidden-object-haunted-house-4.json) |
 | Hidden Object: Haunted Museum | 98562 | [98562-hidden-object-haunted-museum.json](./98562-hidden-object-haunted-museum.json) |
@@ -3030,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Home Sweet Home | 83625 | [83625-hidden-object-home-sweet-home.json](./83625-hidden-object-home-sweet-home.json) |
 | Hidden Object: Hunter Secrets of Aztec and Mayan Tribes | 233248 | [233248-hidden-object-hunter-secrets-of-aztec-and-mayan-tribes.json](./233248-hidden-object-hunter-secrets-of-aztec-and-mayan-tribes.json) |
 | Hidden Object: Hunters for the Secret | 208008 | [208008-hidden-object-hunters-for-the-secret.json](./208008-hidden-object-hunters-for-the-secret.json) |
+| Hidden Object: Imagination | 82170 | [82170-hidden-object-imagination.json](./82170-hidden-object-imagination.json) |
 | Hidden Object: Land of Dreams | 82162 | [82162-hidden-object-land-of-dreams.json](./82162-hidden-object-land-of-dreams.json) |
 | Hidden Object: Lucky Leprechaun | 98582 | [98582-hidden-object-lucky-leprechaun.json](./98582-hidden-object-lucky-leprechaun.json) |
 | Hidden Object: Magic of Easter | 83632 | [83632-hidden-object-magic-of-easter.json](./83632-hidden-object-magic-of-easter.json) |
@@ -3049,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Pot O' Gold | 98589 | [98589-hidden-object-pot-o-gold.json](./98589-hidden-object-pot-o-gold.json) |
 | Hidden Object: Princess Cinderella | 98389 | [98389-hidden-object-princess-cinderella.json](./98389-hidden-object-princess-cinderella.json) |
 | Hidden Object: Pumpkin Patch | 98578 | [98578-hidden-object-pumpkin-patch.json](./98578-hidden-object-pumpkin-patch.json) |
+| Hidden Object: Sherlock | 82166 | [82166-hidden-object-sherlock.json](./82166-hidden-object-sherlock.json) |
 | Hidden Object: St. Patrick's Day | 98568 | [98568-hidden-object-st-patricks-day.json](./98568-hidden-object-st-patricks-day.json) |
 | Hidden Object: Stars & Stripes | 98567 | [98567-hidden-object-stars-and-stripes.json](./98567-hidden-object-stars-and-stripes.json) |
 | Hidden Object: Strange Places | 98580 | [98580-hidden-object-strange-places.json](./98580-hidden-object-strange-places.json) |
