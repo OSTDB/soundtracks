@@ -1939,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Ace 2: The Championships | 43247 | [43247-perfect-ace-2-the-championships.json](./43247-perfect-ace-2-the-championships.json) |
 | Perfect Angle | 69321 | [69321-perfect-angle.json](./69321-perfect-angle.json) |
 | Perfect Apocalypse: The Day After | 304128 | [304128-perfect-apocalypse-the-day-after.json](./304128-perfect-apocalypse-the-day-after.json) |
+| Perfect Assassin | 73366 | [73366-perfect-assassin.json](./73366-perfect-assassin.json) |
 | Perfect Balance | 186259 | [186259-perfect-balance.json](./186259-perfect-balance.json) |
 | Perfect Bird Pitch | 270650 | [270650-perfect-bird-pitch.json](./270650-perfect-bird-pitch.json) |
 | Perfect Blue | 24149 | [24149-perfect-blue.json](./24149-perfect-blue.json) |
