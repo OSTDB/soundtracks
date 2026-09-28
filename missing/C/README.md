@@ -1103,6 +1103,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnage | 170831 | [170831-carnage.json](./170831-carnage.json) |
 | Carnage Heart | 20733 | [20733-carnage-heart.json](./20733-carnage-heart.json) |
 | Carnage Heart EXA | 46589 | [46589-carnage-heart-exa.json](./46589-carnage-heart-exa.json) |
+| Carnage Heart EZ: Easy Zapping | 66184 | [66184-carnage-heart-ez-easy-zapping.json](./66184-carnage-heart-ez-easy-zapping.json) |
+| Carnage Heart Portable | 66189 | [66189-carnage-heart-portable.json](./66189-carnage-heart-portable.json) |
 | Carnage in Space: Crucible | 201573 | [201573-carnage-in-space-crucible.json](./201573-carnage-in-space-crucible.json) |
 | Carnage Kart X | 318977 | [318977-carnage-kart-x.json](./318977-carnage-kart-x.json) |
 | Carnage Offering | 189964 | [189964-carnage-offering.json](./189964-carnage-offering.json) |
@@ -3205,6 +3207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chobits: Atashi Dake no Hito | 78730 | [78730-chobits-atashi-dake-no-hito.json](./78730-chobits-atashi-dake-no-hito.json) |
 | Chobits: Chii Dake no Hito | 65457 | [65457-chobits-chii-dake-no-hito.json](./65457-chobits-chii-dake-no-hito.json) |
 | Choc N Roll | 281995 | [281995-choc-n-roll.json](./281995-choc-n-roll.json) |
+| ChocChocPop | 66191 | [66191-chocchocpop.json](./66191-chocchocpop.json) |
 | Choco Clicker World | 344547 | [344547-choco-clicker-world.json](./344547-choco-clicker-world.json) |
 | Choco Kiosk Simulator | 363019 | [363019-choco-kiosk-simulator.json](./363019-choco-kiosk-simulator.json) |
 | Choco Pixel 6 | 158060 | [158060-choco-pixel-6.json](./158060-choco-pixel-6.json) |
@@ -3534,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles Of Errodean | 247740 | [247740-chronicles-of-errodean.json](./247740-chronicles-of-errodean.json) |
 | Chronicles of Lussaria | 284899 | [284899-chronicles-of-lussaria.json](./284899-chronicles-of-lussaria.json) |
 | Chronicles of Middle Ages | 342761 | [342761-chronicles-of-middle-ages.json](./342761-chronicles-of-middle-ages.json) |
+| Chronicles of Mystery: The Secret Tree of Life | 66175 | [66175-chronicles-of-mystery-the-secret-tree-of-life.json](./66175-chronicles-of-mystery-the-secret-tree-of-life.json) |
 | Chronicles of Refugia | 213401 | [213401-chronicles-of-refugia.json](./213401-chronicles-of-refugia.json) |
 | Chronicles of Sarval: Bridges of Koni | 173052 | [173052-chronicles-of-sarval-bridges-of-koni.json](./173052-chronicles-of-sarval-bridges-of-koni.json) |
 | Chronicles of the Celestial Way | 347221 | [347221-chronicles-of-the-celestial-way.json](./347221-chronicles-of-the-celestial-way.json) |
@@ -3597,6 +3601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrs 143 | 162430 | [162430-chrs-143.json](./162430-chrs-143.json) |
 | Chrysalis | 57122 | [57122-chrysalis.json](./57122-chrysalis.json) |
 | Chu!! Karate Uranai Voxel | 407442 | [407442-chu-karate-uranai-voxel.json](./407442-chu-karate-uranai-voxel.json) |
+| Chu's Dynasty | 66164 | [66164-chus-dynasty.json](./66164-chus-dynasty.json) |
 | Chuǎngguān Shā II | 113019 | [113019-chuangguan-sha-ii.json](./113019-chuangguan-sha-ii.json) |
 | Chuǎngguān Yóuxì | 406094 | [406094-chuangguan-youxi.json](./406094-chuangguan-youxi.json) |
 | Chuàngshì: Xiūzhēn Lù | 75019 | [75019-chuangshi-xiuzhen-lu.json](./75019-chuangshi-xiuzhen-lu.json) |
@@ -4037,6 +4042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civilization | 175915 | [175915-civilization.json](./175915-civilization.json) |
 | Civilization Simulator | 267069 | [267069-civilization-simulator.json](./267069-civilization-simulator.json) |
 | Civitas | 187380 | [187380-civitas.json](./187380-civitas.json) |
+| Civizard: Majutsu no Keifu | 66211 | [66211-civizard-majutsu-no-keifu.json](./66211-civizard-majutsu-no-keifu.json) |
 | CivRise | 348459 | [348459-civrise.json](./348459-civrise.json) |
 | CJ Dreams | 263226 | [263226-cj-dreams.json](./263226-cj-dreams.json) |
 | Clad in Iron Chincha Islands 1866 | 226304 | [226304-clad-in-iron-chincha-islands-1866.json](./226304-clad-in-iron-chincha-islands-1866.json) |
