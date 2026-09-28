@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiǎo Qiàn Dàmàoxiǎn | 359475 | [359475-xiao-qian-damaoxian.json](./359475-xiao-qian-damaoxian.json) |
 | Xiǎo Qiān Mófǎ Zhèng | 359474 | [359474-xiao-qian-mofa-zheng.json](./359474-xiao-qian-mofa-zheng.json) |
 | Xiǎohēihé Jiāsùqì | 147369 | [147369-xiaoheihe-jiasuqi.json](./147369-xiaoheihe-jiasuqi.json) |
+| Xibalba | 61156 | [61156-xibalba.json](./61156-xibalba.json) |
 | Xìbāo Zhànzhēng | 116112 | [116112-xibao-zhanzheng.json](./116112-xibao-zhanzheng.json) |
 | XII Stag | 43340 | [43340-xii-stag.json](./43340-xii-stag.json) |
 | XIII Century: Death or Glory | 9860 | [9860-xiii-century-death-or-glory.json](./9860-xiii-century-death-or-glory.json) |
@@ -423,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xtraction Royale | 115728 | [115728-xtraction-royale.json](./115728-xtraction-royale.json) |
 | Xtractor Defender | 111672 | [111672-xtractor-defender.json](./111672-xtractor-defender.json) |
 | Xtrek | 93368 | [93368-xtrek.json](./93368-xtrek.json) |
+| Xtreme Air Racing | 61165 | [61165-xtreme-air-racing.json](./61165-xtreme-air-racing.json) |
 | Xtreme Boarders: Precision Skating | 205813 | [205813-xtreme-boarders-precision-skating.json](./205813-xtreme-boarders-precision-skating.json) |
 | Xtreme Garage: Drifter | 234329 | [234329-xtreme-garage-drifter.json](./234329-xtreme-garage-drifter.json) |
 | Xtreme Golf 2003 | 181708 | [181708-xtreme-golf-2003.json](./181708-xtreme-golf-2003.json) |
