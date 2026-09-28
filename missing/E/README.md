@@ -1340,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire of the Ants | 47102 | [47102-empire-of-the-ants.json](./47102-empire-of-the-ants.json) |
 | Empire of the Ants: Digital Deluxe Edition | 320754 | [320754-empire-of-the-ants-digital-deluxe-edition.json](./320754-empire-of-the-ants-digital-deluxe-edition.json) |
 | Empire of the Ants: Limited Edition | 291541 | [291541-empire-of-the-ants-limited-edition.json](./291541-empire-of-the-ants-limited-edition.json) |
+| Empire of the Dead Souls | 93748 | [93748-empire-of-the-dead-souls.json](./93748-empire-of-the-dead-souls.json) |
 | Empire of the Fallen Steel | 37388 | [37388-empire-of-the-fallen-steel.json](./37388-empire-of-the-fallen-steel.json) |
 | Empire of Vice: Chicago | 388258 | [388258-empire-of-vice-chicago.json](./388258-empire-of-vice-chicago.json) |
 | Empire Origin: Rise | 258204 | [258204-empire-origin-rise.json](./258204-empire-origin-rise.json) |
@@ -1531,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Forms Most Beautiful 64 | 179659 | [179659-endless-forms-most-beautiful-64.json](./179659-endless-forms-most-beautiful-64.json) |
 | Endless Frontier Saga 2 | 99381 | [99381-endless-frontier-saga-2.json](./99381-endless-frontier-saga-2.json) |
 | Endless Fucker | 292843 | [292843-endless-fucker.json](./292843-endless-fucker.json) |
+| Endless Fun: The Battle for Peanuts | 93765 | [93765-endless-fun-the-battle-for-peanuts.json](./93765-endless-fun-the-battle-for-peanuts.json) |
 | Endless Furry Asteroids | 153396 | [153396-endless-furry-asteroids.json](./153396-endless-furry-asteroids.json) |
 | Endless Furry Blackjack | 307571 | [307571-endless-furry-blackjack.json](./307571-endless-furry-blackjack.json) |
 | Endless Furry Clicker | 170817 | [170817-endless-furry-clicker.json](./170817-endless-furry-clicker.json) |
@@ -2934,6 +2936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Apples: Dirty as ____. | 86996 | [86996-evil-apples-dirty-as.json](./86996-evil-apples-dirty-as.json) |
 | Evil Castle & Princess | 258193 | [258193-evil-castle-and-princess.json](./258193-evil-castle-and-princess.json) |
 | Evil Clowns | 125267 | [125267-evil-clowns.json](./125267-evil-clowns.json) |
+| Evil Cogs | 93740 | [93740-evil-cogs.json](./93740-evil-cogs.json) |
 | Evil Crown | 45328 | [45328-evil-crown.json](./45328-evil-crown.json) |
 | Evil Cucumber | 169374 | [169374-evil-cucumber.json](./169374-evil-cucumber.json) |
 | Evil Dead: The Game | 66308 | [66308-evil-dead-the-game.json](./66308-evil-dead-the-game.json) |
@@ -3367,6 +3370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EXS2: EthnologySister2 - Structuralism of Kinship System | 237279 | [237279-exs2-ethnologysister2-structuralism-of-kinship-system.json](./237279-exs2-ethnologysister2-structuralism-of-kinship-system.json) |
 | Exsanguination | 340045 | [340045-exsanguination.json](./340045-exsanguination.json) |
 | Extase | 94197 | [94197-extase.json](./94197-extase.json) |
+| Exterminate the world | 93751 | [93751-exterminate-the-world.json](./93751-exterminate-the-world.json) |
 | Exterminate Zombies: Get Paid | 215930 | [215930-exterminate-zombies-get-paid.json](./215930-exterminate-zombies-get-paid.json) |
 | Extermination | 130828 | [130828-extermination.json](./130828-extermination.json) |
 | Extermination | 271997 | [271997-extermination.json](./271997-extermination.json) |
