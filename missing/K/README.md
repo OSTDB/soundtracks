@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keri-hime Sweets | 212454 | [212454-keri-hime-sweets.json](./212454-keri-hime-sweets.json) |
 | Keribato | 250277 | [250277-keribato.json](./250277-keribato.json) |
 | Keridwen | 161404 | [161404-keridwen.json](./161404-keridwen.json) |
+| Kermit's Electronic StoryMaker | 65039 | [65039-kermits-electronic-storymaker.json](./65039-kermits-electronic-storymaker.json) |
 | Kernel Hearts | 318625 | [318625-kernel-hearts.json](./318625-kernel-hearts.json) |
 | Kernmantle | 139408 | [139408-kernmantle.json](./139408-kernmantle.json) |
 | Kero Catch | 182803 | [182803-kero-catch.json](./182803-kero-catch.json) |
@@ -2317,6 +2318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koori No Bohyou: Ichiryuuwa, 3-Dome No Junan | 56750 | [56750-koori-no-bohyou-ichiryuuwa-3-dome-no-junan.json](./56750-koori-no-bohyou-ichiryuuwa-3-dome-no-junan.json) |
 | Koori no Haka Ichiyanagi Nagomu, Sandome no Junan | 124635 | [124635-koori-no-haka-ichiyanagi-nagomu-sandome-no-junan.json](./124635-koori-no-haka-ichiyanagi-nagomu-sandome-no-junan.json) |
 | Kooring VR Coding Adventure | 158176 | [158176-kooring-vr-coding-adventure.json](./158176-kooring-vr-coding-adventure.json) |
+| KooZac | 65050 | [65050-koozac.json](./65050-koozac.json) |
 | Kopernicus: Extraction | 403556 | [403556-kopernicus-extraction.json](./403556-kopernicus-extraction.json) |
 | Koppun-50 | 310214 | [310214-koppun-50.json](./310214-koppun-50.json) |
 | Kops | 71036 | [71036-kops.json](./71036-kops.json) |
@@ -2734,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyoufu Shinbun | 77394 | [77394-kyoufu-shinbun.json](./77394-kyoufu-shinbun.json) |
 | Kyoufu Shinbun Heisei-ban: Kaiki! Shinrei File | 336005 | [336005-kyoufu-shinbun-heisei-ban-kaiki-shinrei-file.json](./336005-kyoufu-shinbun-heisei-ban-kaiki-shinrei-file.json) |
 | Kyoufu Yawa | 397907 | [397907-kyoufu-yawa.json](./397907-kyoufu-yawa.json) |
+| Kyoukaisen no Horizon Portable | 64999 | [64999-kyoukaisen-no-horizon-portable.json](./64999-kyoukaisen-no-horizon-portable.json) |
 | Kyouko no Tame ni Kane wa Naru | 205081 | [205081-kyouko-no-tame-ni-kane-wa-naru.json](./205081-kyouko-no-tame-ni-kane-wa-naru.json) |
 | Kyouren no Utage | 150561 | [150561-kyouren-no-utage.json](./150561-kyouren-no-utage.json) |
 | Kyouryuu Ikusei Battle RPG: Kyouryuu Monster | 329749 | [329749-kyouryuu-ikusei-battle-rpg-kyouryuu-monster.json](./329749-kyouryuu-ikusei-battle-rpg-kyouryuu-monster.json) |
