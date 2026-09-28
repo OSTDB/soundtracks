@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Vs Ninjas | 96769 | [96769-jack-vs-ninjas.json](./96769-jack-vs-ninjas.json) |
 | Jack: Snake Attack | 124739 | [124739-jack-snake-attack.json](./124739-jack-snake-attack.json) |
 | Jack's Attic | 210127 | [210127-jacks-attic.json](./210127-jacks-attic.json) |
+| Jack's Crazy Cong | 91519 | [91519-jacks-crazy-cong.json](./91519-jacks-crazy-cong.json) |
 | Jack's Game | 50527 | [50527-jacks-game.json](./50527-jacks-game.json) |
 | Jack's Gang | 29159 | [29159-jacks-gang.json](./29159-jacks-gang.json) |
 | Jack's House | 210126 | [210126-jacks-house.json](./210126-jacks-house.json) |
