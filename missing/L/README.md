@@ -4323,6 +4323,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunarrota | 198483 | [198483-lunarrota.json](./198483-lunarrota.json) |
 | Lunars | 217321 | [217321-lunars.json](./217321-lunars.json) |
 | Lunatic | 141184 | [141184-lunatic.json](./141184-lunatic.json) |
+| Lunatic Dawn | 66183 | [66183-lunatic-dawn.json](./66183-lunatic-dawn.json) |
+| Lunatic Dawn FX | 66181 | [66181-lunatic-dawn-fx.json](./66181-lunatic-dawn-fx.json) |
+| Lunatic Dawn II | 66182 | [66182-lunatic-dawn-ii.json](./66182-lunatic-dawn-ii.json) |
+| Lunatic Dawn III | 66180 | [66180-lunatic-dawn-iii.json](./66180-lunatic-dawn-iii.json) |
+| Lunatic Dawn Odyssey | 66179 | [66179-lunatic-dawn-odyssey.json](./66179-lunatic-dawn-odyssey.json) |
+| Lunatic Dawn Tempest | 66178 | [66178-lunatic-dawn-tempest.json](./66178-lunatic-dawn-tempest.json) |
 | Lunatic Dawn: Passage of the Book | 229141 | [229141-lunatic-dawn-passage-of-the-book.json](./229141-lunatic-dawn-passage-of-the-book.json) |
 | Lunatic Fringe | 133956 | [133956-lunatic-fringe.json](./133956-lunatic-fringe.json) |
 | Lunatic Rave 2 | 79901 | [79901-lunatic-rave-2.json](./79901-lunatic-rave-2.json) |
@@ -4348,10 +4354,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luonnonvoimat | 390771 | [390771-luonnonvoimat.json](./390771-luonnonvoimat.json) |
 | Lupin III Sansei: Cagliostro no Shiro Saikai | 302706 | [302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json](./302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json) |
 | Lupin III: Pandora no Isan | 76995 | [76995-lupin-iii-pandora-no-isan.json](./76995-lupin-iii-pandora-no-isan.json) |
+| Lupin III: The Master File | 66213 | [66213-lupin-iii-the-master-file.json](./66213-lupin-iii-the-master-file.json) |
+| Lupin Sansei: Columbus no Isan | 66202 | [66202-lupin-sansei-columbus-no-isan.json](./66202-lupin-sansei-columbus-no-isan.json) |
+| Lupin Sansei: Pyramid no Kenja | 66214 | [66214-lupin-sansei-pyramid-no-kenja.json](./66214-lupin-sansei-pyramid-no-kenja.json) |
+| Lupin Sansei: Shijou Saidai no Zunousen | 66212 | [66212-lupin-sansei-shijou-saidai-no-zunousen.json](./66212-lupin-sansei-shijou-saidai-no-zunousen.json) |
+| Lupin the 3rd Chronicles | 66217 | [66217-lupin-the-3rd-chronicles.json](./66217-lupin-the-3rd-chronicles.json) |
+| Lupin the 3rd: Babylon no Ougon Densetsu | 66200 | [66200-lupin-the-3rd-babylon-no-ougon-densetsu.json](./66200-lupin-the-3rd-babylon-no-ougon-densetsu.json) |
 | Lupin the 3rd: The Shooting | 39594 | [39594-lupin-the-3rd-the-shooting.json](./39594-lupin-the-3rd-the-shooting.json) |
 | Lupin the 3rd: The Typing | 60791 | [60791-lupin-the-3rd-the-typing.json](./60791-lupin-the-3rd-the-typing.json) |
 | Lupin the Third Part III: Jigoku no Kyuushutsu Sakusen | 349409 | [349409-lupin-the-third-part-iii-jigoku-no-kyuushutsu-sakusen.json](./349409-lupin-the-third-part-iii-jigoku-no-kyuushutsu-sakusen.json) |
 | Lupin the Third Part III: Sanjou! Kogane no Ude | 349411 | [349411-lupin-the-third-part-iii-sanjou-kogane-no-ude.json](./349411-lupin-the-third-part-iii-sanjou-kogane-no-ude.json) |
+| Lupin the Third: Cagliostro no Shiro | 66204 | [66204-lupin-the-third-cagliostro-no-shiro.json](./66204-lupin-the-third-cagliostro-no-shiro.json) |
 | Lupo Alberto: The VideoGame | 98958 | [98958-lupo-alberto-the-videogame.json](./98958-lupo-alberto-the-videogame.json) |
 | Luqman Reloaded | 361742 | [361742-luqman-reloaded.json](./361742-luqman-reloaded.json) |
 | Lure | 139953 | [139953-lure.json](./139953-lure.json) |
