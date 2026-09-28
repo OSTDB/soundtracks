@@ -2997,6 +2997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Mysteries: Gates of Graceland | 54092 | [54092-hidden-mysteries-gates-of-graceland.json](./54092-hidden-mysteries-gates-of-graceland.json) |
 | Hidden Mysteries: Lost Secrets - A Vampires Tale, Paris Stories | 209401 | [209401-hidden-mysteries-lost-secrets-a-vampires-tale-paris-stories.json](./209401-hidden-mysteries-lost-secrets-a-vampires-tale-paris-stories.json) |
 | Hidden Mysteries: Return to Titanic | 206730 | [206730-hidden-mysteries-return-to-titanic.json](./206730-hidden-mysteries-return-to-titanic.json) |
+| Hidden Mysteries: Salem Secrets | 66193 | [66193-hidden-mysteries-salem-secrets.json](./66193-hidden-mysteries-salem-secrets.json) |
 | Hidden Nature | 372017 | [372017-hidden-nature.json](./372017-hidden-nature.json) |
 | Hidden Nightmares | 260379 | [260379-hidden-nightmares.json](./260379-hidden-nightmares.json) |
 | Hidden Object - 12 in 1 bundle | 90581 | [90581-hidden-object-12-in-1-bundle.json](./90581-hidden-object-12-in-1-bundle.json) |
@@ -4888,6 +4889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Many Bugs in a Box | 380444 | [380444-how-many-bugs-in-a-box.json](./380444-how-many-bugs-in-a-box.json) |
 | How Many Deaths to Clear? | 250353 | [250353-how-many-deaths-to-clear.json](./250353-how-many-deaths-to-clear.json) |
 | How Many Dudes? | 369765 | [369765-how-many-dudes.json](./369765-how-many-dudes.json) |
+| How Many Robots? | 66185 | [66185-how-many-robots.json](./66185-how-many-robots.json) |
 | How Many Secrets Under Ceiling | 373205 | [373205-how-many-secrets-under-ceiling.json](./373205-how-many-secrets-under-ceiling.json) |
 | How Much Items: Animals | 340489 | [340489-how-much-items-animals.json](./340489-how-much-items-animals.json) |
 | How Much Items: Fishes | 340490 | [340490-how-much-items-fishes.json](./340490-how-much-items-fishes.json) |
