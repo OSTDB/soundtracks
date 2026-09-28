@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JanKenUP! | 180199 | [180199-jankenup.json](./180199-jankenup.json) |
 | Janko | 306365 | [306365-janko.json](./306365-janko.json) |
 | Janky Tanks | 35877 | [35877-janky-tanks.json](./35877-janky-tanks.json) |
+| Janline R | 65559 | [65559-janline-r.json](./65559-janline-r.json) |
 | Janosik | 64913 | [64913-janosik.json](./64913-janosik.json) |
 | Janosik 2 | 152783 | [152783-janosik-2.json](./152783-janosik-2.json) |
 | Janosik 2: Prologue | 316419 | [316419-janosik-2-prologue.json](./316419-janosik-2-prologue.json) |
