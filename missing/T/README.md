@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanuki Tiles | 180033 | [180033-tanuki-tiles.json](./180033-tanuki-tiles.json) |
 | Tanuki: Pon's Summer | 317817 | [317817-tanuki-pons-summer.json](./317817-tanuki-pons-summer.json) |
 | Tanuki's Dream | 307152 | [307152-tanukis-dream.json](./307152-tanukis-dream.json) |
+| Tanx | 71058 | [71058-tanx.json](./71058-tanx.json) |
 | Tanzanite Crush | 282548 | [282548-tanzanite-crush.json](./282548-tanzanite-crush.json) |
 | TanZen HD | 100144 | [100144-tanzen-hd.json](./100144-tanzen-hd.json) |
 | Tao Taido | 39585 | [39585-tao-taido.json](./39585-tao-taido.json) |
@@ -5485,6 +5486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Legacy | 11317 | [11317-the-legend-of-legacy.json](./11317-the-legend-of-legacy.json) |
 | The Legend of Legacy: HD Remastered | 268421 | [268421-the-legend-of-legacy-hd-remastered.json](./268421-the-legend-of-legacy-hd-remastered.json) |
 | The Legend of Lobodestroyo vs. La Liga de Los Villanos | 79199 | [79199-the-legend-of-lobodestroyo-vs-la-liga-de-los-villanos.json](./79199-the-legend-of-lobodestroyo-vs-la-liga-de-los-villanos.json) |
+| The Legend of Lotus Spring | 71044 | [71044-the-legend-of-lotus-spring.json](./71044-the-legend-of-lotus-spring.json) |
 | The Legend of Lumina | 302360 | [302360-the-legend-of-lumina.json](./302360-the-legend-of-lumina.json) |
 | The Legend of Maya | 78324 | [78324-the-legend-of-maya.json](./78324-the-legend-of-maya.json) |
 | The Legend of Mir 2 | 51204 | [51204-the-legend-of-mir-2.json](./51204-the-legend-of-mir-2.json) |
@@ -6506,6 +6508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Persistence | 37282 | [37282-the-persistence.json](./37282-the-persistence.json) |
 | The Pet Squad | 332810 | [332810-the-pet-squad.json](./332810-the-pet-squad.json) |
 | The Petrified King | 232548 | [232548-the-petrified-king.json](./232548-the-petrified-king.json) |
+| The Petshop Incident | 71011 | [71011-the-petshop-incident.json](./71011-the-petshop-incident.json) |
 | The Phantom Agent | 313873 | [313873-the-phantom-agent.json](./313873-the-phantom-agent.json) |
 | The Phantom P.I. Mission Apparition | 61894 | [61894-the-phantom-p-i-mission-apparition.json](./61894-the-phantom-p-i-mission-apparition.json) |
 | The Phantom Slayer | 71212 | [71212-the-phantom-slayer.json](./71212-the-phantom-slayer.json) |
@@ -7457,6 +7460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The SpongeBob SquarePants Movie 3D | 135811 | [135811-the-spongebob-squarepants-movie-3d.json](./135811-the-spongebob-squarepants-movie-3d.json) |
 | The Spooky Island | 394167 | [394167-the-spooky-island.json](./394167-the-spooky-island.json) |
 | The Spoon of Doom | 154432 | [154432-the-spoon-of-doom.json](./154432-the-spoon-of-doom.json) |
+| The Spoons | 71013 | [71013-the-spoons.json](./71013-the-spoons.json) |
 | The Sporting News Baseball | 55154 | [55154-the-sporting-news-baseball.json](./55154-the-sporting-news-baseball.json) |
 | The Sports Daishuugou | 123043 | [123043-the-sports-daishuugou.json](./123043-the-sports-daishuugou.json) |
 | The Spotter: Dig or Die | 391190 | [391190-the-spotter-dig-or-die.json](./391190-the-spotter-dig-or-die.json) |
@@ -10846,6 +10850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Memorial Girl's Side: 1st Love Plus | 124097 | [124097-tokimeki-memorial-girls-side-1st-love-plus.json](./124097-tokimeki-memorial-girls-side-1st-love-plus.json) |
 | Tokimeki Memorial Girl's Side: 2nd Season | 124098 | [124098-tokimeki-memorial-girls-side-2nd-season.json](./124098-tokimeki-memorial-girls-side-2nd-season.json) |
 | Tokimeki Memorial: Forever With You | 50129 | [50129-tokimeki-memorial-forever-with-you.json](./50129-tokimeki-memorial-forever-with-you.json) |
+| Tokimeki Memorial: Taisen Tokkaedama | 71021 | [71021-tokimeki-memorial-taisen-tokkaedama.json](./71021-tokimeki-memorial-taisen-tokkaedama.json) |
 | Tokimeki Restaurant | 140385 | [140385-tokimeki-restaurant.json](./140385-tokimeki-restaurant.json) |
 | Tokimeki Taisen | 191861 | [191861-tokimeki-taisen.json](./191861-tokimeki-taisen.json) |
 | Tokimeter | 322951 | [322951-tokimeter.json](./322951-tokimeter.json) |
@@ -13298,6 +13303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trax: The Robot Wars | 62160 | [62160-trax-the-robot-wars.json](./62160-trax-the-robot-wars.json) |
 | Traxion | 257688 | [257688-traxion.json](./257688-traxion.json) |
 | TraxWorld | 190167 | [190167-traxworld.json](./190167-traxworld.json) |
+| Traxxpad: Portable Studio | 71039 | [71039-traxxpad-portable-studio.json](./71039-traxxpad-portable-studio.json) |
 | Tray Racers! | 204540 | [204540-tray-racers.json](./204540-tray-racers.json) |
 | Traysia | 46259 | [46259-traysia.json](./46259-traysia.json) |
 | Trazz | 173185 | [173185-trazz.json](./173185-trazz.json) |
