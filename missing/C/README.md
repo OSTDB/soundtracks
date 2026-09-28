@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Callbreak League | 237635 | [237635-callbreak-league.json](./237635-callbreak-league.json) |
 | Caller of the Crows | 348857 | [348857-caller-of-the-crows.json](./348857-caller-of-the-crows.json) |
 | Calling | 403030 | [403030-calling.json](./403030-calling.json) |
+| Calling All Mixels | 61143 | [61143-calling-all-mixels.json](./61143-calling-all-mixels.json) |
 | Calling Card | 297564 | [297564-calling-card.json](./297564-calling-card.json) |
 | Calling Home | 245792 | [245792-calling-home.json](./245792-calling-home.json) |
 | Callparin 2 | 158518 | [158518-callparin-2.json](./158518-callparin-2.json) |
@@ -4449,6 +4450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clonk Endeavour | 57644 | [57644-clonk-endeavour.json](./57644-clonk-endeavour.json) |
 | Clonk Planet | 70474 | [70474-clonk-planet.json](./70474-clonk-planet.json) |
 | Clorox: Sparkling Sudoku | 263433 | [263433-clorox-sparkling-sudoku.json](./263433-clorox-sparkling-sudoku.json) |
+| Close Castles | 61157 | [61157-close-castles.json](./61157-close-castles.json) |
 | Close Cities | 288337 | [288337-close-cities.json](./288337-close-cities.json) |
 | Close Combat | 637 | [637-close-combat.json](./637-close-combat.json) |
 | Close Combat III: The Russian Front | 638 | [638-close-combat-iii-the-russian-front.json](./638-close-combat-iii-the-russian-front.json) |
