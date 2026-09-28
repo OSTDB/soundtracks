@@ -1454,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affogato | 210654 | [210654-affogato.json](./210654-affogato.json) |
 | AFK Champions | 193866 | [193866-afk-champions.json](./193866-afk-champions.json) |
 | AFK Dungeon | 266256 | [266256-afk-dungeon.json](./266256-afk-dungeon.json) |
+| AFL 99 | 60580 | [60580-afl-99.json](./60580-afl-99.json) |
 | AFL Challenge | 68302 | [68302-afl-challenge.json](./68302-afl-challenge.json) |
 | AFL Finals Fever | 72156 | [72156-afl-finals-fever.json](./72156-afl-finals-fever.json) |
 | AFL Premiership 2005 | 73847 | [73847-afl-premiership-2005.json](./73847-afl-premiership-2005.json) |
@@ -1652,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent 01 | 199400 | [199400-agent-01.json](./199400-agent-01.json) |
 | Agent A & Down in Bermuda Bundle | 380693 | [380693-agent-a-and-down-in-bermuda-bundle.json](./380693-agent-a-and-down-in-bermuda-bundle.json) |
 | Agent Action | 138003 | [138003-agent-action.json](./138003-agent-action.json) |
+| Agent Alice | 60490 | [60490-agent-alice.json](./60490-agent-alice.json) |
 | Agent Armstrong | 11293 | [11293-agent-armstrong.json](./11293-agent-armstrong.json) |
 | Agent from C.O.G.O.O. | 234598 | [234598-agent-from-c-o-g-o-o.json](./234598-agent-from-c-o-g-o-o.json) |
 | Agent Gumball: Roguelike Spy Game | 86835 | [86835-agent-gumball-roguelike-spy-game.json](./86835-agent-gumball-roguelike-spy-game.json) |
@@ -2105,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akazukin Cha Cha Cha | 265971 | [265971-akazukin-cha-cha-cha.json](./265971-akazukin-cha-cha-cha.json) |
 | Akazukin Cha-cha | 15887 | [15887-akazukin-cha-cha.json](./15887-akazukin-cha-cha.json) |
 | Akazukin Cha-cha | 228473 | [228473-akazukin-cha-cha.json](./228473-akazukin-cha-cha.json) |
+| Akazukin Cha-cha: Osawagase! Panic Race! | 60637 | [60637-akazukin-cha-cha-osawagase-panic-race.json](./60637-akazukin-cha-cha-osawagase-panic-race.json) |
 | Akazukin Dark Side | 150154 | [150154-akazukin-dark-side.json](./150154-akazukin-dark-side.json) |
 | AKB1/153: Renai Sousenkyo - Ultra Luxury Limited Box | 89867 | [89867-akb1-153-renai-sousenkyo-ultra-luxury-limited-box.json](./89867-akb1-153-renai-sousenkyo-ultra-luxury-limited-box.json) |
 | AKB1/48: Idol to Koishitara | 66373 | [66373-akb1-48-idol-to-koishitara.json](./66373-akb1-48-idol-to-koishitara.json) |
