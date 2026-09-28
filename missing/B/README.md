@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballerina Magazine Dress Up | 95844 | [95844-ballerina-magazine-dress-up.json](./95844-ballerina-magazine-dress-up.json) |
 | Ballet Parking | 314070 | [314070-ballet-parking.json](./314070-ballet-parking.json) |
 | BallFrog | 186755 | [186755-ballfrog.json](./186755-ballfrog.json) |
+| Ballgame 2 | 79224 | [79224-ballgame-2.json](./79224-ballgame-2.json) |
 | Ballin' | 173239 | [173239-ballin.json](./173239-ballin.json) |
 | Ballista Legend | 117038 | [117038-ballista-legend.json](./117038-ballista-legend.json) |
 | Ballistic | 29767 | [29767-ballistic.json](./29767-ballistic.json) |
@@ -1914,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleground 4: Shiloh | 609 | [609-battleground-4-shiloh.json](./609-battleground-4-shiloh.json) |
 | Battleground 5: Antietam | 610 | [610-battleground-5-antietam.json](./610-battleground-5-antietam.json) |
 | Battleground Collection 1 | 77287 | [77287-battleground-collection-1.json](./77287-battleground-collection-1.json) |
+| Battleground Collection 2 | 79377 | [79377-battleground-collection-2.json](./79377-battleground-collection-2.json) |
 | Battleground Fire Strike | 224096 | [224096-battleground-fire-strike.json](./224096-battleground-fire-strike.json) |
 | Battleground's Survivor: Battle Royale | 174853 | [174853-battlegrounds-survivor-battle-royale.json](./174853-battlegrounds-survivor-battle-royale.json) |
 | Battlegrounds | 403592 | [403592-battlegrounds.json](./403592-battlegrounds.json) |
@@ -2253,6 +2255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beasts of Mystery | 371447 | [371447-beasts-of-mystery.json](./371447-beasts-of-mystery.json) |
 | Beasts of Steel | 265411 | [265411-beasts-of-steel.json](./265411-beasts-of-steel.json) |
 | Beastwatch: Meat & Mayhem | 270202 | [270202-beastwatch-meat-and-mayhem.json](./270202-beastwatch-meat-and-mayhem.json) |
+| Beat 'Em & Eat 'Em/Lady in Wading | 79193 | [79193-beat-em-and-eat-em-lady-in-wading.json](./79193-beat-em-and-eat-em-lady-in-wading.json) |
 | Beat 'Em All | 265924 | [265924-beat-em-all.json](./265924-beat-em-all.json) |
 | Beat Aimer! | 213971 | [213971-beat-aimer.json](./213971-beat-aimer.json) |
 | Beat Arena | 168686 | [168686-beat-arena.json](./168686-beat-arena.json) |
@@ -4108,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Beat | 186821 | [186821-blast-beat.json](./186821-blast-beat.json) |
 | Blast Bots | 194022 | [194022-blast-bots.json](./194022-blast-bots.json) |
 | Blast Brawl 2: Bloody Boogaloo | 33414 | [33414-blast-brawl-2-bloody-boogaloo.json](./33414-blast-brawl-2-bloody-boogaloo.json) |
+| Blast Breaker Online | 79363 | [79363-blast-breaker-online.json](./79363-blast-breaker-online.json) |
 | Blast Brigade vs. the Evil Legion of Dr. Cread | 146722 | [146722-blast-brigade-vs-the-evil-legion-of-dr-cread.json](./146722-blast-brigade-vs-the-evil-legion-of-dr-cread.json) |
 | Blast Dash | 411571 | [411571-blast-dash.json](./411571-blast-dash.json) |
 | Blast Droids | 172025 | [172025-blast-droids.json](./172025-blast-droids.json) |
@@ -4174,6 +4178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue Cross Tag Battle: Additional Color Set 1 | 332824 | [332824-blazblue-cross-tag-battle-additional-color-set-1.json](./332824-blazblue-cross-tag-battle-additional-color-set-1.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 2 | 332825 | [332825-blazblue-cross-tag-battle-additional-color-set-2.json](./332825-blazblue-cross-tag-battle-additional-color-set-2.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 3 | 332826 | [332826-blazblue-cross-tag-battle-additional-color-set-3.json](./332826-blazblue-cross-tag-battle-additional-color-set-3.json) |
+| BlazBlue Mobile Battle | 79216 | [79216-blazblue-mobile-battle.json](./79216-blazblue-mobile-battle.json) |
 | BlazBlue Revolution Reburning | 38977 | [38977-blazblue-revolution-reburning.json](./38977-blazblue-revolution-reburning.json) |
 | BlazBlue: Calamity Trigger Portable | 46018 | [46018-blazblue-calamity-trigger-portable.json](./46018-blazblue-calamity-trigger-portable.json) |
 | BlazBlue: Central Fiction - Limited Edition | 212326 | [212326-blazblue-central-fiction-limited-edition.json](./212326-blazblue-central-fiction-limited-edition.json) |
@@ -5608,6 +5613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boorglars | 183343 | [183343-boorglars.json](./183343-boorglars.json) |
 | Boorp's Balls | 122892 | [122892-boorps-balls.json](./122892-boorps-balls.json) |
 | Boost | 29832 | [29832-boost.json](./29832-boost.json) |
+| Boost 2 | 79375 | [79375-boost-2.json](./79375-boost-2.json) |
 | Boost Beast | 51518 | [51518-boost-beast.json](./51518-boost-beast.json) |
 | Boost Race | 105893 | [105893-boost-race.json](./105893-boost-race.json) |
 | Boosted | 264053 | [264053-boosted.json](./264053-boosted.json) |
