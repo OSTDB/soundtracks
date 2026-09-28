@@ -1068,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jong Kyu Pon | 342147 | [342147-jong-kyu-pon.json](./342147-jong-kyu-pon.json) |
 | Jongbou | 92298 | [92298-jongbou.json](./92298-jongbou.json) |
 | Joninės | 273667 | [273667-jonines.json](./273667-jonines.json) |
+| Jonny Jump | 116458 | [116458-jonny-jump.json](./116458-jonny-jump.json) |
 | Jonny Moseley: Mad Trix | 210006 | [210006-jonny-moseley-mad-trix.json](./210006-jonny-moseley-mad-trix.json) |
 | Jonny Moseley: Mad Trix | 49336 | [49336-jonny-moseley-mad-trix.json](./49336-jonny-moseley-mad-trix.json) |
 | Jonny Quest in Doctor Zim's Underworld | 67275 | [67275-jonny-quest-in-doctor-zims-underworld.json](./67275-jonny-quest-in-doctor-zims-underworld.json) |
