@@ -1325,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Online Retro Tennis | 156702 | [156702-online-retro-tennis.json](./156702-online-retro-tennis.json) |
 | Online: 404 | 403155 | [403155-online-404.json](./403155-online-404.json) |
 | OnlineCTR | 313093 | [313093-onlinectr.json](./313093-onlinectr.json) |
+| Only After | 117129 | [117129-only-after.json](./117129-only-after.json) |
 | Only an Alien Going Up! | 272260 | [272260-only-an-alien-going-up.json](./272260-only-an-alien-going-up.json) |
 | Only Animals | 374151 | [374151-only-animals.json](./374151-only-animals.json) |
 | Only Arrows | 323513 | [323513-only-arrows.json](./323513-only-arrows.json) |
