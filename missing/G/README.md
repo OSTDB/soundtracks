@@ -1157,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gender Dysphoria | 177502 | [177502-gender-dysphoria.json](./177502-gender-dysphoria.json) |
 | Gender Euphoria VN | 183906 | [183906-gender-euphoria-vn.json](./183906-gender-euphoria-vn.json) |
 | Gender Wars | 50141 | [50141-gender-wars.json](./50141-gender-wars.json) |
+| Genderless Haruka's Confinement & Discipline RPG | 82987 | [82987-genderless-harukas-confinement-and-discipline-rpg.json](./82987-genderless-harukas-confinement-and-discipline-rpg.json) |
 | Genderman | 391600 | [391600-genderman.json](./391600-genderman.json) |
 | Gene | 35898 | [35898-gene.json](./35898-gene.json) |
 | Gene Crawl: Dungeon Descent | 406136 | [406136-gene-crawl-dungeon-descent.json](./406136-gene-crawl-dungeon-descent.json) |
