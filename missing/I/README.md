@@ -1706,6 +1706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Rails | 341032 | [341032-infinite-rails.json](./341032-infinite-rails.json) |
 | Infinite Rave | 112467 | [112467-infinite-rave.json](./112467-infinite-rave.json) |
 | Infinite Realms | 261771 | [261771-infinite-realms.json](./261771-infinite-realms.json) |
+| Infinite Realms | 61705 | [61705-infinite-realms.json](./61705-infinite-realms.json) |
 | Infinite Rebirth | 337673 | [337673-infinite-rebirth.json](./337673-infinite-rebirth.json) |
 | Infinite Red: The Day the Earth Stood Still | 294446 | [294446-infinite-red-the-day-the-earth-stood-still.json](./294446-infinite-red-the-day-the-earth-stood-still.json) |
 | Infinite Roads | 245261 | [245261-infinite-roads.json](./245261-infinite-roads.json) |
