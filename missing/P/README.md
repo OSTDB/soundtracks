@@ -2495,6 +2495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PhotoWorld | 153403 | [153403-photoworld.json](./153403-photoworld.json) |
 | PhotoWorld | 209966 | [209966-photoworld.json](./209966-photoworld.json) |
 | Phrase Craze Plus | 229804 | [229804-phrase-craze-plus.json](./229804-phrase-craze-plus.json) |
+| Phrase Frenzy - Catch It! | 108598 | [108598-phrase-frenzy-catch-it.json](./108598-phrase-frenzy-catch-it.json) |
 | Phraze Craze | 307911 | [307911-phraze-craze.json](./307911-phraze-craze.json) |
 | Phrixothrix | 245857 | [245857-phrixothrix.json](./245857-phrixothrix.json) |
 | Phucker in the Ashes | 369019 | [369019-phucker-in-the-ashes.json](./369019-phucker-in-the-ashes.json) |
