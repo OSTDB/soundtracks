@@ -1824,6 +1824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gilbert and the chemystical island | 319364 | [319364-gilbert-and-the-chemystical-island.json](./319364-gilbert-and-the-chemystical-island.json) |
 | Gilded | 81768 | [81768-gilded.json](./81768-gilded.json) |
 | Gilded Destiny | 236528 | [236528-gilded-destiny.json](./236528-gilded-destiny.json) |
+| Gilgalad | 92638 | [92638-gilgalad.json](./92638-gilgalad.json) |
 | Gilgamesh II | 276275 | [276275-gilgamesh-ii.json](./276275-gilgamesh-ii.json) |
 | Gillbert: Guardian of the Grotto | 310499 | [310499-gillbert-guardian-of-the-grotto.json](./310499-gillbert-guardian-of-the-grotto.json) |
 | Gilly and the Isle of Sorrow | 340024 | [340024-gilly-and-the-isle-of-sorrow.json](./340024-gilly-and-the-isle-of-sorrow.json) |
@@ -2100,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Arcade Classics | 93502 | [93502-global-arcade-classics.json](./93502-global-arcade-classics.json) |
 | Global ATC Simulator | 16945 | [16945-global-atc-simulator.json](./16945-global-atc-simulator.json) |
 | Global Aviation Dream | 126530 | [126530-global-aviation-dream.json](./126530-global-aviation-dream.json) |
+| Global Champion | 92636 | [92636-global-champion.json](./92636-global-champion.json) |
 | Global Domination | 15480 | [15480-global-domination.json](./15480-global-domination.json) |
 | Global Elite | 298684 | [298684-global-elite.json](./298684-global-elite.json) |
 | Global Farmer | 301913 | [301913-global-farmer.json](./301913-global-farmer.json) |
@@ -4319,6 +4321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guiding Light | 127758 | [127758-guiding-light.json](./127758-guiding-light.json) |
 | Guidus | 220202 | [220202-guidus.json](./220202-guidus.json) |
 | Guild & Gals | 346258 | [346258-guild-and-gals.json](./346258-guild-and-gals.json) |
+| Guild 01 | 92613 | [92613-guild-01.json](./92613-guild-01.json) |
 | Guild Commander | 36097 | [36097-guild-commander.json](./36097-guild-commander.json) |
 | Guild Hall Adventures | 152803 | [152803-guild-hall-adventures.json](./152803-guild-hall-adventures.json) |
 | Guild Loot | 120239 | [120239-guild-loot.json](./120239-guild-loot.json) |
