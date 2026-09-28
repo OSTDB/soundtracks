@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are Lost | 181158 | [181158-you-are-lost.json](./181158-you-are-lost.json) |
 | You Are Mine2 Otome Love Story | 231876 | [231876-you-are-mine2-otome-love-story.json](./231876-you-are-mine2-otome-love-story.json) |
 | YOU ARE MY HOME | 300762 | [300762-you-are-my-home.json](./300762-you-are-my-home.json) |
+| You Are My Sanctuary | 109892 | [109892-you-are-my-sanctuary.json](./109892-you-are-my-sanctuary.json) |
 | You Are Not A Banana | 36016 | [36016-you-are-not-a-banana.json](./36016-you-are-not-a-banana.json) |
 | You Are Not Alice | 343866 | [343866-you-are-not-alice.json](./343866-you-are-not-alice.json) |
 | You Are Not Alone | 182839 | [182839-you-are-not-alone.json](./182839-you-are-not-alone.json) |
