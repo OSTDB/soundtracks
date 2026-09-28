@@ -1800,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle-X | 256305 | [256305-battle-x.json](./256305-battle-x.json) |
 | BattleBalls | 365156 | [365156-battleballs.json](./365156-battleballs.json) |
 | BattleBeasts | 99615 | [99615-battlebeasts.json](./99615-battlebeasts.json) |
+| BattleBlade | 108034 | [108034-battleblade.json](./108034-battleblade.json) |
 | BattleBlock Theater | 2605 | [2605-battleblock-theater.json](./2605-battleblock-theater.json) |
 | Battleborn: Attikus and the Thrall Rebellion | 25040 | [25040-battleborn-attikus-and-the-thrall-rebellion.json](./25040-battleborn-attikus-and-the-thrall-rebellion.json) |
 | Battleborn: Montana and the Demon Bear | 403140 | [403140-battleborn-montana-and-the-demon-bear.json](./403140-battleborn-montana-and-the-demon-bear.json) |
@@ -2176,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Master and Prince: Snow Bride | 136452 | [136452-beast-master-and-prince-snow-bride.json](./136452-beast-master-and-prince-snow-bride.json) |
 | Beast Mode: Night of the Werewolf | 43541 | [43541-beast-mode-night-of-the-werewolf.json](./43541-beast-mode-night-of-the-werewolf.json) |
 | Beast Mode: Night of the Werewolf Silver Bullet Edition | 273113 | [273113-beast-mode-night-of-the-werewolf-silver-bullet-edition.json](./273113-beast-mode-night-of-the-werewolf-silver-bullet-edition.json) |
+| Beast Modon | 108063 | [108063-beast-modon.json](./108063-beast-modon.json) |
 | Beast OL | 358509 | [358509-beast-ol.json](./358509-beast-ol.json) |
 | Beast Whalers | 192685 | [192685-beast-whalers.json](./192685-beast-whalers.json) |
 | Beast Wrestler | 46239 | [46239-beast-wrestler.json](./46239-beast-wrestler.json) |
@@ -5449,6 +5451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom | 240146 | [240146-boom.json](./240146-boom.json) |
 | Boom | 339838 | [339838-boom.json](./339838-boom.json) |
 | Boom 2020 | 226196 | [226196-boom-2020.json](./226196-boom-2020.json) |
+| Boom Bits | 108040 | [108040-boom-bits.json](./108040-boom-bits.json) |
 | Boom Blaster | 100891 | [100891-boom-blaster.json](./100891-boom-blaster.json) |
 | Boom Boom Volleyball | 263470 | [263470-boom-boom-volleyball.json](./263470-boom-boom-volleyball.json) |
 | Boom Buddy | 368491 | [368491-boom-buddy.json](./368491-boom-buddy.json) |
@@ -5487,6 +5490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boon Blast | 86779 | [86779-boon-blast.json](./86779-boon-blast.json) |
 | Boon Boon | 119691 | [119691-boon-boon.json](./119691-boon-boon.json) |
 | Boonka | 317386 | [317386-boonka.json](./317386-boonka.json) |
+| Boons Farm | 108043 | [108043-boons-farm.json](./108043-boons-farm.json) |
 | Booooooooooooooounce | 163817 | [163817-booooooooooooooounce.json](./163817-booooooooooooooounce.json) |
 | Booox | 410222 | [410222-booox.json](./410222-booox.json) |
 | Boopa Zap | 93550 | [93550-boopa-zap.json](./93550-boopa-zap.json) |
