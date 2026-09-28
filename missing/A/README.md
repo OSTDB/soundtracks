@@ -5873,6 +5873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifact | 79826 | [79826-artifact.json](./79826-artifact.json) |
 | Artifact Adventure Gaiden DX | 119527 | [119527-artifact-adventure-gaiden-dx.json](./119527-artifact-adventure-gaiden-dx.json) |
 | Artifact Hunter | 156036 | [156036-artifact-hunter.json](./156036-artifact-hunter.json) |
+| Artifact Red-X | 63365 | [63365-artifact-red-x.json](./63365-artifact-red-x.json) |
 | Artifact Run | 384534 | [384534-artifact-run.json](./384534-artifact-run.json) |
 | Artifact Seekers | 366306 | [366306-artifact-seekers.json](./366306-artifact-seekers.json) |
 | Artifacting | 151608 | [151608-artifacting.json](./151608-artifacting.json) |
