@@ -5049,6 +5049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Key | 330293 | [330293-the-key.json](./330293-the-key.json) |
 | The Key of Rednow | 163403 | [163403-the-key-of-rednow.json](./163403-the-key-of-rednow.json) |
 | The Key to Forgotten Souls | 395177 | [395177-the-key-to-forgotten-souls.json](./395177-the-key-to-forgotten-souls.json) |
+| The Key to Home | 75948 | [75948-the-key-to-home.json](./75948-the-key-to-home.json) |
 | The Keyboard | 264029 | [264029-the-keyboard.json](./264029-the-keyboard.json) |
 | The Kharzov Effect | 322134 | [322134-the-kharzov-effect.json](./322134-the-kharzov-effect.json) |
 | The Kill Zone | 235827 | [235827-the-kill-zone.json](./235827-the-kill-zone.json) |
@@ -6651,6 +6652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest For Royal Love | 184909 | [184909-the-quest-for-royal-love.json](./184909-the-quest-for-royal-love.json) |
 | The Quest for the Holy Grail | 25967 | [25967-the-quest-for-the-holy-grail.json](./25967-the-quest-for-the-holy-grail.json) |
 | The Quest for the Rings | 41575 | [41575-the-quest-for-the-rings.json](./41575-the-quest-for-the-rings.json) |
+| The Quest Giver | 75960 | [75960-the-quest-giver.json](./75960-the-quest-giver.json) |
 | The Quest Keeper | 344939 | [344939-the-quest-keeper.json](./344939-the-quest-keeper.json) |
 | The Quest of Merravid | 12961 | [12961-the-quest-of-merravid.json](./12961-the-quest-of-merravid.json) |
 | The Quest of the Tiny Hero | 275134 | [275134-the-quest-of-the-tiny-hero.json](./275134-the-quest-of-the-tiny-hero.json) |
@@ -7127,6 +7129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silence | 185625 | [185625-the-silence.json](./185625-the-silence.json) |
 | The Silence After | 361769 | [361769-the-silence-after.json](./361769-the-silence-after.json) |
 | The Silence of Darkness | 30186 | [30186-the-silence-of-darkness.json](./30186-the-silence-of-darkness.json) |
+| The Silence Outside | 75928 | [75928-the-silence-outside.json](./75928-the-silence-outside.json) |
 | The Silent Age | 11444 | [11444-the-silent-age.json](./11444-the-silent-age.json) |
 | The Silent Cartographer: Evolved | 375319 | [375319-the-silent-cartographer-evolved.json](./375319-the-silent-cartographer-evolved.json) |
 | The Silent Forests | 289964 | [289964-the-silent-forests.json](./289964-the-silent-forests.json) |
@@ -11310,6 +11313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Run | 129126 | [129126-top-run.json](./129126-top-run.json) |
 | Top Runner | 172532 | [172532-top-runner.json](./172532-top-runner.json) |
 | Top Secret | 171498 | [171498-top-secret.json](./171498-top-secret.json) |
+| Top Secret | 75967 | [75967-top-secret.json](./75967-top-secret.json) |
 | Top Skater | 18047 | [18047-top-skater.json](./18047-top-skater.json) |
 | Top Speed 2: Drag Rivals & Nitro Racing | 200464 | [200464-top-speed-2-drag-rivals-and-nitro-racing.json](./200464-top-speed-2-drag-rivals-and-nitro-racing.json) |
 | Top Speed 2: Racing Legends | 121448 | [121448-top-speed-2-racing-legends.json](./121448-top-speed-2-racing-legends.json) |
@@ -14324,6 +14328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turret Tech | 106155 | [106155-turret-tech.json](./106155-turret-tech.json) |
 | TurretCraft | 34272 | [34272-turretcraft.json](./34272-turretcraft.json) |
 | TurretGirls | 347243 | [347243-turretgirls.json](./347243-turretgirls.json) |
+| TurretMaster | 75954 | [75954-turretmaster.json](./75954-turretmaster.json) |
 | Turrican 3 | 12803 | [12803-turrican-3.json](./12803-turrican-3.json) |
 | Turrican III | 37098 | [37098-turrican-iii.json](./37098-turrican-iii.json) |
 | Turrim 3D | 176250 | [176250-turrim-3d.json](./176250-turrim-3d.json) |
