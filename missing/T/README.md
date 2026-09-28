@@ -1378,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Kart Fortress | 371246 | [371246-team-kart-fortress.json](./371246-team-kart-fortress.json) |
 | Team Kirby Clash Deluxe | 28126 | [28126-team-kirby-clash-deluxe.json](./28126-team-kirby-clash-deluxe.json) |
 | Team Manager | 211706 | [211706-team-manager.json](./211706-team-manager.json) |
+| Team Notion | 61146 | [61146-team-notion.json](./61146-team-notion.json) |
 | Team Of Robbers | 117773 | [117773-team-of-robbers.json](./117773-team-of-robbers.json) |
 | Team of Titans | 302376 | [302376-team-of-titans.json](./302376-team-of-titans.json) |
 | Team Rise | 258219 | [258219-team-rise.json](./258219-team-rise.json) |
@@ -1862,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Menace | 47262 | [47262-tennis-menace.json](./47262-tennis-menace.json) |
 | Tennis no Ouji-sama Motto Gakuensai no Ouji-sama: More Sweet Edition | 205063 | [205063-tennis-no-ouji-sama-motto-gakuensai-no-ouji-sama-more-sweet-edition.json](./205063-tennis-no-ouji-sama-motto-gakuensai-no-ouji-sama-more-sweet-edition.json) |
 | Tennis no Ouji-sama: Gakuensai no Ouji-sama | 205062 | [205062-tennis-no-ouji-sama-gakuensai-no-ouji-sama.json](./205062-tennis-no-ouji-sama-gakuensai-no-ouji-sama.json) |
+| Tennis no Ouji-sama: Saikyou Team wo Kessei seyo! | 61127 | [61127-tennis-no-ouji-sama-saikyou-team-wo-kessei-seyo.json](./61127-tennis-no-ouji-sama-saikyou-team-wo-kessei-seyo.json) |
 | Tennis no Ouji-sama: Smash Hit! 2 | 405515 | [405515-tennis-no-ouji-sama-smash-hit-2.json](./405515-tennis-no-ouji-sama-smash-hit-2.json) |
 | Tennis no Ouji-sama: Sweat & Tears 2 | 205641 | [205641-tennis-no-ouji-sama-sweat-and-tears-2.json](./205641-tennis-no-ouji-sama-sweat-and-tears-2.json) |
 | Tennis Pro Tournaments | 274737 | [274737-tennis-pro-tournaments.json](./274737-tennis-pro-tournaments.json) |
@@ -10260,6 +10262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Squared | 26977 | [26977-time-squared.json](./26977-time-squared.json) |
 | Time Stand Still | 10992 | [10992-time-stand-still.json](./10992-time-stand-still.json) |
 | Time Stripper | 57633 | [57633-time-stripper.json](./57633-time-stripper.json) |
+| Time Tangle: Adventure Time | 61147 | [61147-time-tangle-adventure-time.json](./61147-time-tangle-adventure-time.json) |
 | Time Tenshi | 318022 | [318022-time-tenshi.json](./318022-time-tenshi.json) |
 | Time Tenshi Paradox: Episode 2 | 96616 | [96616-time-tenshi-paradox-episode-2.json](./96616-time-tenshi-paradox-episode-2.json) |
 | Time Thief | 201590 | [201590-time-thief.json](./201590-time-thief.json) |
