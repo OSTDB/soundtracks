@@ -2040,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights vs Knightesses | 175202 | [175202-knights-vs-knightesses.json](./175202-knights-vs-knightesses.json) |
 | Knights vs Nature | 214193 | [214193-knights-vs-nature.json](./214193-knights-vs-nature.json) |
 | Knights: Spiral Islands | 66098 | [66098-knights-spiral-islands.json](./66098-knights-spiral-islands.json) |
+| Knightsquire | 78762 | [78762-knightsquire.json](./78762-knightsquire.json) |
 | Knighty | 216719 | [216719-knighty.json](./216719-knighty.json) |
 | Knighty Knight | 261320 | [261320-knighty-knight.json](./261320-knighty-knight.json) |
 | Knighty Night | 118920 | [118920-knighty-night.json](./118920-knighty-night.json) |
