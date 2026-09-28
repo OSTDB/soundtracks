@@ -1024,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaJong16 | 246420 | [246420-majong16.json](./246420-majong16.json) |
 | Major Blink: Berks 2 | 60525 | [60525-major-blink-berks-2.json](./60525-major-blink-berks-2.json) |
 | Major Bullet | 292630 | [292630-major-bullet.json](./292630-major-bullet.json) |
+| Major Bummer Dude: Lassi Quest RON | 71010 | [71010-major-bummer-dude-lassi-quest-ron.json](./71010-major-bummer-dude-lassi-quest-ron.json) |
 | Major Havoc | 39384 | [39384-major-havoc.json](./39384-major-havoc.json) |
 | Major League | 199645 | [199645-major-league.json](./199645-major-league.json) |
 | Major League Baseball 2K12 | 4993 | [4993-major-league-baseball-2k12.json](./4993-major-league-baseball-2k12.json) |
@@ -2642,6 +2643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maya Fey: Medium Attorney | 309971 | [309971-maya-fey-medium-attorney.json](./309971-maya-fey-medium-attorney.json) |
 | Maya the Bee: Sweet Gold | 49328 | [49328-maya-the-bee-sweet-gold.json](./49328-maya-the-bee-sweet-gold.json) |
 | Maya the Bee: The Great Adventure | 49327 | [49327-maya-the-bee-the-great-adventure.json](./49327-maya-the-bee-the-great-adventure.json) |
+| Maya the Bee: What a Thunderstorm | 71035 | [71035-maya-the-bee-what-a-thunderstorm.json](./71035-maya-the-bee-what-a-thunderstorm.json) |
 | Maya: Cats of Istanbul | 332975 | [332975-maya-cats-of-istanbul.json](./332975-maya-cats-of-istanbul.json) |
 | Maya's Dice | 179207 | [179207-mayas-dice.json](./179207-mayas-dice.json) |
 | Maya's Dream | 236508 | [236508-mayas-dream.json](./236508-mayas-dream.json) |
@@ -2998,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor: Heroes | 1312 | [1312-medal-of-honor-heroes.json](./1312-medal-of-honor-heroes.json) |
 | Medal of Honor: Pacific Assault | 1310 | [1310-medal-of-honor-pacific-assault.json](./1310-medal-of-honor-pacific-assault.json) |
 | Medal of Honor: Warfighter | 1306 | [1306-medal-of-honor-warfighter.json](./1306-medal-of-honor-warfighter.json) |
+| Medals of War | 71024 | [71024-medals-of-war.json](./71024-medals-of-war.json) |
 | MedArc | 70391 | [70391-medarc.json](./70391-medarc.json) |
 | Medarot 2 Kabuto/Kuwagata | 91530 | [91530-medarot-2-kabuto-kuwagata.json](./91530-medarot-2-kabuto-kuwagata.json) |
 | Medarot 2 Parts Collection | 92535 | [92535-medarot-2-parts-collection.json](./92535-medarot-2-parts-collection.json) |
@@ -5731,6 +5734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirrorscape | 270120 | [270120-mirrorscape.json](./270120-mirrorscape.json) |
 | Mirrorscape: Deluxe Starter Pack | 301849 | [301849-mirrorscape-deluxe-starter-pack.json](./301849-mirrorscape-deluxe-starter-pack.json) |
 | Mirrorscape: Outdoor Starter Pack | 301848 | [301848-mirrorscape-outdoor-starter-pack.json](./301848-mirrorscape-outdoor-starter-pack.json) |
+| Mirt. Tales of the Cold Land. Chapter one | 71031 | [71031-mirt-tales-of-the-cold-land-chapter-one.json](./71031-mirt-tales-of-the-cold-land-chapter-one.json) |
 | Mirth Island | 249854 | [249854-mirth-island.json](./249854-mirth-island.json) |
 | Mirth Melody | 313781 | [313781-mirth-melody.json](./313781-mirth-melody.json) |
 | Mirum Orbis | 262482 | [262482-mirum-orbis.json](./262482-mirum-orbis.json) |
@@ -6209,6 +6213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Model Sisters | 414310 | [414310-model-sisters.json](./414310-model-sisters.json) |
 | Model Style: Dress Up! | 314878 | [314878-model-style-dress-up.json](./314878-model-style-dress-up.json) |
 | ModelMaker | 258946 | [258946-modelmaker.json](./258946-modelmaker.json) |
+| Modem Wars | 71057 | [71057-modem-wars.json](./71057-modem-wars.json) |
 | Moderium | 127214 | [127214-moderium.json](./127214-moderium.json) |
 | Modern Arena | 394359 | [394359-modern-arena.json](./394359-modern-arena.json) |
 | Modern Assault Tanks | 155026 | [155026-modern-assault-tanks.json](./155026-modern-assault-tanks.json) |
