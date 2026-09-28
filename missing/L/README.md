@@ -3412,6 +3412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loss at Sea | 384114 | [384114-loss-at-sea.json](./384114-loss-at-sea.json) |
 | Lost | 186258 | [186258-lost.json](./186258-lost.json) |
 | Lost | 327379 | [327379-lost.json](./327379-lost.json) |
+| Lost | 99158 | [99158-lost.json](./99158-lost.json) |
 | Lost & Found | 110786 | [110786-lost-and-found.json](./110786-lost-and-found.json) |
 | Lost & Found: Inanimate Object Dating Agency | 346109 | [346109-lost-and-found-inanimate-object-dating-agency.json](./346109-lost-and-found-inanimate-object-dating-agency.json) |
 | Lost & Round | 153364 | [153364-lost-and-round.json](./153364-lost-and-round.json) |
