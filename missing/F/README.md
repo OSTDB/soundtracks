@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-18 Thunder Strike | 49931 | [49931-f-18-thunder-strike.json](./49931-f-18-thunder-strike.json) |
 | F-22 Air Dominance Fighter | 693 | [693-f-22-air-dominance-fighter.json](./693-f-22-air-dominance-fighter.json) |
 | F-22 Interceptor | 19494 | [19494-f-22-interceptor.json](./19494-f-22-interceptor.json) |
+| F-22 Raptor | 70468 | [70468-f-22-raptor.json](./70468-f-22-raptor.json) |
 | F-4 Phantom II: Sky Defender | 253358 | [253358-f-4-phantom-ii-sky-defender.json](./253358-f-4-phantom-ii-sky-defender.json) |
 | F-out | 291616 | [291616-f-out.json](./291616-f-out.json) |
 | F-Rank Hero Story | 186323 | [186323-f-rank-hero-story.json](./186323-f-rank-hero-story.json) |
@@ -854,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Dash | 188027 | [188027-fantasy-dash.json](./188027-fantasy-dash.json) |
 | Fantasy Dynasty: Le Château Deretic | 99639 | [99639-fantasy-dynasty-le-chateau-deretic.json](./99639-fantasy-dynasty-le-chateau-deretic.json) |
 | Fantasy Earth: Zero | 51192 | [51192-fantasy-earth-zero.json](./51192-fantasy-earth-zero.json) |
+| Fantasy Empires | 70451 | [70451-fantasy-empires.json](./70451-fantasy-empires.json) |
 | Fantasy ERA | 54463 | [54463-fantasy-era.json](./54463-fantasy-era.json) |
 | Fantasy Fighters: Historic Fighters | 209132 | [209132-fantasy-fighters-historic-fighters.json](./209132-fantasy-fighters-historic-fighters.json) |
 | Fantasy Finger Football | 120240 | [120240-fantasy-finger-football.json](./120240-fantasy-finger-football.json) |
@@ -1067,6 +1069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farjius no Jakoutei: Neo Metal Fantasy | 69862 | [69862-farjius-no-jakoutei-neo-metal-fantasy.json](./69862-farjius-no-jakoutei-neo-metal-fantasy.json) |
 | Farland Saga I & II: Saturn Tribute | 360013 | [360013-farland-saga-i-and-ii-saturn-tribute.json](./360013-farland-saga-i-and-ii-saturn-tribute.json) |
 | Farland Story FX | 45953 | [45953-farland-story-fx.json](./45953-farland-story-fx.json) |
+| Farland Story: Daichi no Kizuna | 70455 | [70455-farland-story-daichi-no-kizuna.json](./70455-farland-story-daichi-no-kizuna.json) |
 | Farlands Journey | 301337 | [301337-farlands-journey.json](./301337-farlands-journey.json) |
 | Farlands: Tiny Harvest | 378287 | [378287-farlands-tiny-harvest.json](./378287-farlands-tiny-harvest.json) |
 | Farlight 84 | 142862 | [142862-farlight-84.json](./142862-farlight-84.json) |
@@ -1449,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fates of Ort | 112857 | [112857-fates-of-ort.json](./112857-fates-of-ort.json) |
 | Fateweaver: Smash or Pass | 238598 | [238598-fateweaver-smash-or-pass.json](./238598-fateweaver-smash-or-pass.json) |
 | Fateweaver: The Alchemist's Quandary | 236930 | [236930-fateweaver-the-alchemists-quandary.json](./236930-fateweaver-the-alchemists-quandary.json) |
+| Fathammer Classics Pack | 70439 | [70439-fathammer-classics-pack.json](./70439-fathammer-classics-pack.json) |
 | Father and Son | 97361 | [97361-father-and-son.json](./97361-father-and-son.json) |
 | Father's Day | 213858 | [213858-fathers-day.json](./213858-fathers-day.json) |
 | Father's Island | 33072 | [33072-fathers-island.json](./33072-fathers-island.json) |
