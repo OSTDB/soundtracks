@@ -669,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Empire | 31693 | [31693-happy-empire.json](./31693-happy-empire.json) |
 | Happy Empire 2: The Lost Relic | 105989 | [105989-happy-empire-2-the-lost-relic.json](./105989-happy-empire-2-the-lost-relic.json) |
 | Happy Farm | 246337 | [246337-happy-farm.json](./246337-happy-farm.json) |
+| Happy Farm | 62236 | [62236-happy-farm.json](./62236-happy-farm.json) |
 | Happy Farm: Field's Puzzle | 378421 | [378421-happy-farm-fields-puzzle.json](./378421-happy-farm-fields-puzzle.json) |
 | Happy Farm: Harvest Blast | 378420 | [378420-happy-farm-harvest-blast.json](./378420-happy-farm-harvest-blast.json) |
 | Happy Feet | 3940 | [3940-happy-feet.json](./3940-happy-feet.json) |
