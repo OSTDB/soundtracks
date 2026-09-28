@@ -1401,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketballverse | 275021 | [275021-basketballverse.json](./275021-basketballverse.json) |
 | Basketbrawl | 11867 | [11867-basketbrawl.json](./11867-basketbrawl.json) |
 | Basketing | 148903 | [148903-basketing.json](./148903-basketing.json) |
+| Basketmania | 88435 | [88435-basketmania.json](./88435-basketmania.json) |
 | Baskhead | 32254 | [32254-baskhead.json](./32254-baskhead.json) |
 | Baskin-Robbins: Enter the Flavour-Verse | 257334 | [257334-baskin-robbins-enter-the-flavour-verse.json](./257334-baskin-robbins-enter-the-flavour-verse.json) |
 | Baspetball | 346584 | [346584-baspetball.json](./346584-baspetball.json) |
@@ -3918,6 +3919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Elf | 313895 | [313895-blackjack-elf.json](./313895-blackjack-elf.json) |
 | Blackjack Fever | 89589 | [89589-blackjack-fever.json](./89589-blackjack-fever.json) |
 | Blackjack In Space | 88200 | [88200-blackjack-in-space.json](./88200-blackjack-in-space.json) |
+| Blackjack Player | 88437 | [88437-blackjack-player.json](./88437-blackjack-player.json) |
 | Blackjack Roulette | 380530 | [380530-blackjack-roulette.json](./380530-blackjack-roulette.json) |
 | Blackjack Simulator 2024 | 266297 | [266297-blackjack-simulator-2024.json](./266297-blackjack-simulator-2024.json) |
 | Blackjack story | 180119 | [180119-blackjack-story.json](./180119-blackjack-story.json) |
@@ -6144,6 +6146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | brainCloud Bombers | 120400 | [120400-braincloud-bombers.json](./120400-braincloud-bombers.json) |
 | Braindead | 345660 | [345660-braindead.json](./345660-braindead.json) |
 | Braindead, Your Majesty | 108827 | [108827-braindead-your-majesty.json](./108827-braindead-your-majesty.json) |
+| Brainjogging for Kids | 88485 | [88485-brainjogging-for-kids.json](./88485-brainjogging-for-kids.json) |
 | Brainmelter Deluxe | 112780 | [112780-brainmelter-deluxe.json](./112780-brainmelter-deluxe.json) |
 | BrainRot | 336518 | [336518-brainrot.json](./336518-brainrot.json) |
 | Brainrot Battle | 363564 | [363564-brainrot-battle.json](./363564-brainrot-battle.json) |
