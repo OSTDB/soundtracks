@@ -1343,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Paranormal Laboratory | 294289 | [294289-school-paranormal-laboratory.json](./294289-school-paranormal-laboratory.json) |
 | School Race GP | 219281 | [219281-school-race-gp.json](./219281-school-race-gp.json) |
 | School Romance: Love or Lose | 250639 | [250639-school-romance-love-or-lose.json](./250639-school-romance-love-or-lose.json) |
+| School Rumble Ni-Gakki Kyoufu no Natsugasshuku Youkan ni Yuurei Arawaru Otakara wo Megutte Makkou Shoubu no Maki | 94864 | [94864-school-rumble-ni-gakki-kyoufu-no-natsugasshuku-youkan-ni-yuurei-arawaru-otakara-wo-megutte-makkou-shoubu-no-maki.json](./94864-school-rumble-ni-gakki-kyoufu-no-natsugasshuku-youkan-ni-yuurei-arawaru-otakara-wo-megutte-makkou-shoubu-no-maki.json) |
 | School Rumble: Nee-san Jiken Desu! | 67683 | [67683-school-rumble-nee-san-jiken-desu.json](./67683-school-rumble-nee-san-jiken-desu.json) |
 | School Tycoon | 9203 | [9203-school-tycoon.json](./9203-school-tycoon.json) |
 | School Years | 132045 | [132045-school-years.json](./132045-school-years.json) |
@@ -4177,6 +4178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showtime: Vampire Diaries | 241370 | [241370-showtime-vampire-diaries.json](./241370-showtime-vampire-diaries.json) |
 | Showtime! | 9405 | [9405-showtime.json](./9405-showtime.json) |
 | Showy Homes | 380521 | [380521-showy-homes.json](./380521-showy-homes.json) |
+| Shox | 94919 | [94919-shox.json](./94919-shox.json) |
 | Shox: Rally Reinvented | 8265 | [8265-shox-rally-reinvented.json](./8265-shox-rally-reinvented.json) |
 | SHPDMBGWL4 Sunshine | 323292 | [323292-shpdmbgwl4-sunshine.json](./323292-shpdmbgwl4-sunshine.json) |
 | SHPR | 211198 | [211198-shpr.json](./211198-shpr.json) |
@@ -4532,6 +4534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hunter Online | 3449 | [3449-silent-hunter-online.json](./3449-silent-hunter-online.json) |
 | Silent Hunter Patrol Disk #2 | 77311 | [77311-silent-hunter-patrol-disk-2.json](./77311-silent-hunter-patrol-disk-2.json) |
 | Silent Infinity | 202366 | [202366-silent-infinity.json](./202366-silent-infinity.json) |
+| Silent Iron | 94866 | [94866-silent-iron.json](./94866-silent-iron.json) |
 | Silent Mobius: Case - Titanic | 214432 | [214432-silent-mobius-case-titanic.json](./214432-silent-mobius-case-titanic.json) |
 | Silent Mobius: Genei no Datenshi | 166498 | [166498-silent-mobius-genei-no-datenshi.json](./166498-silent-mobius-genei-no-datenshi.json) |
 | Silent Night | 110391 | [110391-silent-night.json](./110391-silent-night.json) |
@@ -5768,6 +5771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slendrina Must Die: The House | 321382 | [321382-slendrina-must-die-the-house.json](./321382-slendrina-must-die-the-house.json) |
 | Slendrina X | 233773 | [233773-slendrina-x.json](./233773-slendrina-x.json) |
 | Slendytubbies Ø | 332814 | [332814-slendytubbies.json](./332814-slendytubbies.json) |
+| Sleuth | 94909 | [94909-sleuth.json](./94909-sleuth.json) |
 | SLG Remix | 33428 | [33428-slg-remix.json](./33428-slg-remix.json) |
 | Slice | 98705 | [98705-slice.json](./98705-slice.json) |
 | Slice 'Em Up! | 185130 | [185130-slice-em-up.json](./185130-slice-em-up.json) |
@@ -8641,6 +8645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Restaurant | 337722 | [337722-space-restaurant.json](./337722-space-restaurant.json) |
 | Space Revenge | 158217 | [158217-space-revenge.json](./158217-space-revenge.json) |
 | Space Riddle: Spaceship Puzzle | 248645 | [248645-space-riddle-spaceship-puzzle.json](./248645-space-riddle-spaceship-puzzle.json) |
+| Space Rider | 94865 | [94865-space-rider.json](./94865-space-rider.json) |
 | Space Robinson | 111807 | [111807-space-robinson.json](./111807-space-robinson.json) |
 | Space Robot | 46895 | [46895-space-robot.json](./46895-space-robot.json) |
 | Space Rocket | 81601 | [81601-space-rocket.json](./81601-space-rocket.json) |
@@ -8782,6 +8787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacecats with Lasers | 36531 | [36531-spacecats-with-lasers.json](./36531-spacecats-with-lasers.json) |
 | Spacecats with Lasers VR | 30262 | [30262-spacecats-with-lasers-vr.json](./30262-spacecats-with-lasers-vr.json) |
 | SpaceColorsRunner | 123446 | [123446-spacecolorsrunner.json](./123446-spacecolorsrunner.json) |
+| SpaceCombat | 94862 | [94862-spacecombat.json](./94862-spacecombat.json) |
 | SpaceCorp: 2025-2300AD | 352297 | [352297-spacecorp-2025-2300ad.json](./352297-spacecorp-2025-2300ad.json) |
 | Spacecraft Tactics | 274038 | [274038-spacecraft-tactics.json](./274038-spacecraft-tactics.json) |
 | Spacecraft War | 109879 | [109879-spacecraft-war.json](./109879-spacecraft-war.json) |
@@ -11112,6 +11118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Statecraft | 365852 | [365852-statecraft.json](./365852-statecraft.json) |
 | States, Firms, and Households | 33122 | [33122-states-firms-and-households.json](./33122-states-firms-and-households.json) |
 | Static | 333637 | [333637-static.json](./333637-static.json) |
+| Static | 94914 | [94914-static.json](./94914-static.json) |
 | Static Cling | 182519 | [182519-static-cling.json](./182519-static-cling.json) |
 | Static Condition | 393102 | [393102-static-condition.json](./393102-static-condition.json) |
 | Static Dread: The Submarine | 376689 | [376689-static-dread-the-submarine.json](./376689-static-dread-the-submarine.json) |
@@ -11603,6 +11610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StickType: Challenge | 218470 | [218470-sticktype-challenge.json](./218470-sticktype-challenge.json) |
 | StickType: StickLady | 218469 | [218469-sticktype-sticklady.json](./218469-sticktype-sticklady.json) |
 | StickWars | 90800 | [90800-stickwars.json](./90800-stickwars.json) |
+| Sticky Balls | 94905 | [94905-sticky-balls.json](./94905-sticky-balls.json) |
 | Sticky Business: Seaside Tales | 411002 | [411002-sticky-business-seaside-tales.json](./411002-sticky-business-seaside-tales.json) |
 | Sticky Castle | 232031 | [232031-sticky-castle.json](./232031-sticky-castle.json) |
 | Sticky Keys | 178986 | [178986-sticky-keys.json](./178986-sticky-keys.json) |
