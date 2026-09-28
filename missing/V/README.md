@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vamps-Imulator | 251817 | [251817-vamps-imulator.json](./251817-vamps-imulator.json) |
 | Vampvasion | 410896 | [410896-vampvasion.json](./410896-vampvasion.json) |
 | Vampyr: Special Edition | 139984 | [139984-vampyr-special-edition.json](./139984-vampyr-special-edition.json) |
+| Vampyr: Talisman of Invocation | 69916 | [69916-vampyr-talisman-of-invocation.json](./69916-vampyr-talisman-of-invocation.json) |
 | Vampyre Cross | 71576 | [71576-vampyre-cross.json](./71576-vampyre-cross.json) |
 | Vampyre Crusade | 317002 | [317002-vampyre-crusade.json](./317002-vampyre-crusade.json) |
 | Van Buren | 79217 | [79217-van-buren.json](./79217-van-buren.json) |
