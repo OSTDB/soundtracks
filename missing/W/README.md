@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlords III: Frontier | 401822 | [401822-warlords-iii-frontier.json](./401822-warlords-iii-frontier.json) |
 | Warlords of Aternum | 107181 | [107181-warlords-of-aternum.json](./107181-warlords-of-aternum.json) |
 | Warlords of the Deck | 301805 | [301805-warlords-of-the-deck.json](./301805-warlords-of-the-deck.json) |
+| Warlords: Heroes | 101726 | [101726-warlords-heroes.json](./101726-warlords-heroes.json) |
 | Warlords.IO | 111729 | [111729-warlords-io.json](./111729-warlords-io.json) |
 | Warm Monkey | 331314 | [331314-warm-monkey.json](./331314-warm-monkey.json) |
 | Warm Potato | 307727 | [307727-warm-potato.json](./307727-warm-potato.json) |
