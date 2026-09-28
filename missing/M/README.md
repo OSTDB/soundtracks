@@ -5208,6 +5208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraftle | 306695 | [306695-minecraftle.json](./306695-minecraftle.json) |
 | Minecranker | 259636 | [259636-minecranker.json](./259636-minecranker.json) |
 | Mined | 183983 | [183983-mined.json](./183983-mined.json) |
+| Mined Plants: Farm | 105536 | [105536-mined-plants-farm.json](./105536-mined-plants-farm.json) |
 | MineDrill Redux | 41945 | [41945-minedrill-redux.json](./41945-minedrill-redux.json) |
 | Minefield | 39724 | [39724-minefield.json](./39724-minefield.json) |
 | Minefield Combat | 315660 | [315660-minefield-combat.json](./315660-minefield-combat.json) |
@@ -7069,6 +7070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mordheim: Warband Skirmish | 34295 | [34295-mordheim-warband-skirmish.json](./34295-mordheim-warband-skirmish.json) |
 | More and More | 113057 | [113057-more-and-more.json](./113057-more-and-more.json) |
 | More Bloons | 261910 | [261910-more-bloons.json](./261910-more-bloons.json) |
+| More Cookies! | 105534 | [105534-more-cookies.json](./105534-more-cookies.json) |
 | More Dark | 124195 | [124195-more-dark.json](./124195-more-dark.json) |
 | More Dark Fables from Aesop | 254455 | [254455-more-dark-fables-from-aesop.json](./254455-more-dark-fables-from-aesop.json) |
 | More Easter Eggs! | 96051 | [96051-more-easter-eggs.json](./96051-more-easter-eggs.json) |
