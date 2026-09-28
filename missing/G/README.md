@@ -3626,6 +3626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Biker | 391325 | [391325-gravity-biker.json](./391325-gravity-biker.json) |
 | Gravity Blast | 231946 | [231946-gravity-blast.json](./231946-gravity-blast.json) |
 | Gravity Block | 164511 | [164511-gravity-block.json](./164511-gravity-block.json) |
+| Gravity Block | 69358 | [69358-gravity-block.json](./69358-gravity-block.json) |
 | Gravity Block 2 | 326189 | [326189-gravity-block-2.json](./326189-gravity-block-2.json) |
 | Gravity Bone | 7962 | [7962-gravity-bone.json](./7962-gravity-bone.json) |
 | Gravity Box | 207853 | [207853-gravity-box.json](./207853-gravity-box.json) |
@@ -4115,6 +4116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grood | 90116 | [90116-grood.json](./90116-grood.json) |
 | Groomer | 115695 | [115695-groomer.json](./115695-groomer.json) |
 | Grooove | 272346 | [272346-grooove.json](./272346-grooove.json) |
+| Groove Adventure Rave | 69328 | [69328-groove-adventure-rave.json](./69328-groove-adventure-rave.json) |
 | Groove Adventure Rave: Hikari to Yami no Daikessen | 49597 | [49597-groove-adventure-rave-hikari-to-yami-no-daikessen.json](./49597-groove-adventure-rave-hikari-to-yami-no-daikessen.json) |
 | Groove Catcher | 171583 | [171583-groove-catcher.json](./171583-groove-catcher.json) |
 | Groove Coaster + Touhou All DLC Bundle | 362481 | [362481-groove-coaster-touhou-all-dlc-bundle.json](./362481-groove-coaster-touhou-all-dlc-bundle.json) |
