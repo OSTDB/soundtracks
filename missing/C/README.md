@@ -2373,6 +2373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions of Regnum | 16426 | [16426-champions-of-regnum.json](./16426-champions-of-regnum.json) |
 | Champions of Titan | 105082 | [105082-champions-of-titan.json](./105082-champions-of-titan.json) |
 | Champions of Zulula | 71604 | [71604-champions-of-zulula.json](./71604-champions-of-zulula.json) |
+| Champions of Zulula: Elite Edition | 63382 | [63382-champions-of-zulula-elite-edition.json](./63382-champions-of-zulula-elite-edition.json) |
 | Champions Stable: Equestrian Dynasty | 386838 | [386838-champions-stable-equestrian-dynasty.json](./386838-champions-stable-equestrian-dynasty.json) |
 | Champions Tactics Reforged | 343807 | [343807-champions-tactics-reforged.json](./343807-champions-tactics-reforged.json) |
 | Champions: Return to Arms | 10237 | [10237-champions-return-to-arms.json](./10237-champions-return-to-arms.json) |
@@ -3975,6 +3976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Retreat | 188521 | [188521-city-retreat.json](./188521-city-retreat.json) |
 | City Rhapsody! | 212808 | [212808-city-rhapsody.json](./212808-city-rhapsody.json) |
 | City Rush | 246428 | [246428-city-rush.json](./246428-city-rush.json) |
+| City Sandbox | 63359 | [63359-city-sandbox.json](./63359-city-sandbox.json) |
 | City Siege 2: Resort Siege | 266841 | [266841-city-siege-2-resort-siege.json](./266841-city-siege-2-resort-siege.json) |
 | City Siege 3: Jungle Siege | 266844 | [266844-city-siege-3-jungle-siege.json](./266844-city-siege-3-jungle-siege.json) |
 | City Siege 4: Alien Siege | 266847 | [266847-city-siege-4-alien-siege.json](./266847-city-siege-4-alien-siege.json) |
@@ -6243,6 +6245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corporate 0 | 411123 | [411123-corporate-0.json](./411123-corporate-0.json) |
 | Corporate Hell | 391617 | [391617-corporate-hell.json](./391617-corporate-hell.json) |
 | Corporate Lockdown | 250005 | [250005-corporate-lockdown.json](./250005-corporate-lockdown.json) |
+| Corporate Property | 63374 | [63374-corporate-property.json](./63374-corporate-property.json) |
 | Corporate Raider: The Pirate of Wall St. | 65571 | [65571-corporate-raider-the-pirate-of-wall-st.json](./65571-corporate-raider-the-pirate-of-wall-st.json) |
 | Corporation | 57696 | [57696-corporation.json](./57696-corporation.json) |
 | Corporation Liberty | 379030 | [379030-corporation-liberty.json](./379030-corporation-liberty.json) |
