@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caged Bird Don't Fly Caught in a Wire Sing Like a Good Canary Come When Called | 122335 | [122335-caged-bird-dont-fly-caught-in-a-wire-sing-like-a-good-canary-come-when-called.json](./122335-caged-bird-dont-fly-caught-in-a-wire-sing-like-a-good-canary-come-when-called.json) |
 | Caged Garden Cock Robin | 120259 | [120259-caged-garden-cock-robin.json](./120259-caged-garden-cock-robin.json) |
 | Cages: Hidden Worlds | 406114 | [406114-cages-hidden-worlds.json](./406114-cages-hidden-worlds.json) |
+| Caging me Softly | 60611 | [60611-caging-me-softly.json](./60611-caging-me-softly.json) |
 | Cahier de Vacances pour Adultes | 269673 | [269673-cahier-de-vacances-pour-adultes.json](./269673-cahier-de-vacances-pour-adultes.json) |
 | Cahier de Vacances pour Adultes 2 | 269674 | [269674-cahier-de-vacances-pour-adultes-2.json](./269674-cahier-de-vacances-pour-adultes-2.json) |
 | Cahoots | 250305 | [250305-cahoots.json](./250305-cahoots.json) |
@@ -752,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Quazar | 39015 | [39015-captain-quazar.json](./39015-captain-quazar.json) |
 | Captain Rocket | 344959 | [344959-captain-rocket.json](./344959-captain-rocket.json) |
 | Captain Scarlet | 83233 | [83233-captain-scarlet.json](./83233-captain-scarlet.json) |
+| Captain Slog | 60636 | [60636-captain-slog.json](./60636-captain-slog.json) |
 | Captain Speedfin | 391071 | [391071-captain-speedfin.json](./391071-captain-speedfin.json) |
 | Captain StarOne | 114939 | [114939-captain-starone.json](./114939-captain-starone.json) |
 | Captain Superhero Flying Robot Rescue | 101981 | [101981-captain-superhero-flying-robot-rescue.json](./101981-captain-superhero-flying-robot-rescue.json) |
@@ -3579,6 +3581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Trigger | 263447 | [263447-chrono-trigger.json](./263447-chrono-trigger.json) |
 | Chrono Trigger: Bugfix and Uncensoring Patch | 249442 | [249442-chrono-trigger-bugfix-and-uncensoring-patch.json](./249442-chrono-trigger-bugfix-and-uncensoring-patch.json) |
 | Chrono Trigger+ | 219077 | [219077-chrono-trigger.json](./219077-chrono-trigger.json) |
+| Chrono Wars | 60604 | [60604-chrono-wars.json](./60604-chrono-wars.json) |
 | Chrono's Arena | 126628 | [126628-chronos-arena.json](./126628-chronos-arena.json) |
 | ChronoBlade | 63877 | [63877-chronoblade.json](./63877-chronoblade.json) |
 | ChronoBreach | 117045 | [117045-chronobreach.json](./117045-chronobreach.json) |
@@ -4655,6 +4658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coastal Kingdoms | 304711 | [304711-coastal-kingdoms.json](./304711-coastal-kingdoms.json) |
 | Coastal Kitchen Simulator | 347721 | [347721-coastal-kitchen-simulator.json](./347721-coastal-kitchen-simulator.json) |
 | Coastal World | 325038 | [325038-coastal-world.json](./325038-coastal-world.json) |
+| Coaster Park Tycoon | 60612 | [60612-coaster-park-tycoon.json](./60612-coaster-park-tycoon.json) |
 | Coastiality | 96668 | [96668-coastiality.json](./96668-coastiality.json) |
 | Coastline | 209703 | [209703-coastline.json](./209703-coastline.json) |
 | Coastline Flight Simulator | 154006 | [154006-coastline-flight-simulator.json](./154006-coastline-flight-simulator.json) |
@@ -4681,6 +4685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cockhead | 130937 | [130937-cockhead.json](./130937-cockhead.json) |
 | Cockroach Clicker | 371337 | [371337-cockroach-clicker.json](./371337-cockroach-clicker.json) |
 | Cockroach VR | 31361 | [31361-cockroach-vr.json](./31361-cockroach-vr.json) |
+| Cocktail Harmony | 60599 | [60599-cocktail-harmony.json](./60599-cocktail-harmony.json) |
 | Cocktail Magic | 260411 | [260411-cocktail-magic.json](./260411-cocktail-magic.json) |
 | Cocktail Paradise | 68632 | [68632-cocktail-paradise.json](./68632-cocktail-paradise.json) |
 | Cocktail Rush | 330183 | [330183-cocktail-rush.json](./330183-cocktail-rush.json) |
@@ -4881,6 +4886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Case Files | 57683 | [57683-cold-case-files.json](./57683-cold-case-files.json) |
 | Cold Case Summer | 151544 | [151544-cold-case-summer.json](./151544-cold-case-summer.json) |
 | Cold City | 401838 | [401838-cold-city.json](./401838-cold-city.json) |
+| Cold Contract | 60601 | [60601-cold-contract.json](./60601-cold-contract.json) |
 | Cold Dead Hands | 367606 | [367606-cold-dead-hands.json](./367606-cold-dead-hands.json) |
 | Cold Depth | 157202 | [157202-cold-depth.json](./157202-cold-depth.json) |
 | Cold Engines | 199474 | [199474-cold-engines.json](./199474-cold-engines.json) |
@@ -8526,6 +8532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curving Over It with Evgeny Podoynikov | 173179 | [173179-curving-over-it-with-evgeny-podoynikov.json](./173179-curving-over-it-with-evgeny-podoynikov.json) |
 | Custer's Revenge | 8529 | [8529-custers-revenge.json](./8529-custers-revenge.json) |
 | Custer's Revenge in Gensoukyou | 98448 | [98448-custers-revenge-in-gensoukyou.json](./98448-custers-revenge-in-gensoukyou.json) |
+| Custerd's Quest | 60635 | [60635-custerds-quest.json](./60635-custerds-quest.json) |
 | Custodial | 179742 | [179742-custodial.json](./179742-custodial.json) |
 | Custom Beat Battle: Draglade 2 | 66783 | [66783-custom-beat-battle-draglade-2.json](./66783-custom-beat-battle-draglade-2.json) |
 | Custom Maid 3D | 191694 | [191694-custom-maid-3d.json](./191694-custom-maid-3d.json) |
