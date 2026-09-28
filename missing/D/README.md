@@ -6345,6 +6345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon of Steelthorne | 287753 | [287753-dragon-of-steelthorne.json](./287753-dragon-of-steelthorne.json) |
 | Dragon Perception | 74474 | [74474-dragon-perception.json](./74474-dragon-perception.json) |
 | Dragon Pet | 322163 | [322163-dragon-pet.json](./322163-dragon-pet.json) |
+| Dragon Pink: The Hero Castle | 66168 | [66168-dragon-pink-the-hero-castle.json](./66168-dragon-pink-the-hero-castle.json) |
 | Dragon Planner | 220331 | [220331-dragon-planner.json](./220331-dragon-planner.json) |
 | Dragon Power | 48697 | [48697-dragon-power.json](./48697-dragon-power.json) |
 | Dragon Prana | 200178 | [200178-dragon-prana.json](./200178-dragon-prana.json) |
@@ -7647,6 +7648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Brawl | 373095 | [373095-dungeon-brawl.json](./373095-dungeon-brawl.json) |
 | Dungeon Brewmaster | 98734 | [98734-dungeon-brewmaster.json](./98734-dungeon-brewmaster.json) |
 | Dungeon Builder S | 44199 | [44199-dungeon-builder-s.json](./44199-dungeon-builder-s.json) |
+| Dungeon Buster Ex-Plores | 66169 | [66169-dungeon-buster-ex-plores.json](./66169-dungeon-buster-ex-plores.json) |
 | Dungeon Chop Chop | 82020 | [82020-dungeon-chop-chop.json](./82020-dungeon-chop-chop.json) |
 | Dungeon Clawler | 290897 | [290897-dungeon-clawler.json](./290897-dungeon-clawler.json) |
 | Dungeon Cleaner | 260667 | [260667-dungeon-cleaner.json](./260667-dungeon-cleaner.json) |
@@ -7675,6 +7677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Defenders: City in the Cliffs Mission Pack | 164360 | [164360-dungeon-defenders-city-in-the-cliffs-mission-pack.json](./164360-dungeon-defenders-city-in-the-cliffs-mission-pack.json) |
 | Dungeon Defenders: Etherian Festival of Love | 164347 | [164347-dungeon-defenders-etherian-festival-of-love.json](./164347-dungeon-defenders-etherian-festival-of-love.json) |
 | Dungeon Defenders: Etherian Holiday Extravaganza | 164359 | [164359-dungeon-defenders-etherian-holiday-extravaganza.json](./164359-dungeon-defenders-etherian-holiday-extravaganza.json) |
+| Dungeon Defenders: First Wave | 66171 | [66171-dungeon-defenders-first-wave.json](./66171-dungeon-defenders-first-wave.json) |
 | Dungeon Defenders: Halloween Mission Pack | 164345 | [164345-dungeon-defenders-halloween-mission-pack.json](./164345-dungeon-defenders-halloween-mission-pack.json) |
 | Dungeon Defenders: Hermit Hero | 255027 | [255027-dungeon-defenders-hermit-hero.json](./255027-dungeon-defenders-hermit-hero.json) |
 | Dungeon Defenders: Jester Hero DLC | 164354 | [164354-dungeon-defenders-jester-hero-dlc.json](./164354-dungeon-defenders-jester-hero-dlc.json) |
