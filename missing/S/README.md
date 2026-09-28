@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sail Forth | 115491 | [115491-sail-forth.json](./115491-sail-forth.json) |
 | Sail Forth: Maelstrom | 283240 | [283240-sail-forth-maelstrom.json](./283240-sail-forth-maelstrom.json) |
 | Sail or Fail | 290999 | [290999-sail-or-fail.json](./290999-sail-or-fail.json) |
+| Sail Ships | 102365 | [102365-sail-ships.json](./102365-sail-ships.json) |
 | Sail Simulator 4 | 143740 | [143740-sail-simulator-4.json](./143740-sail-simulator-4.json) |
 | Sail Simulator 5 | 63818 | [63818-sail-simulator-5.json](./63818-sail-simulator-5.json) |
 | Sailaway | 28200 | [28200-sailaway.json](./28200-sailaway.json) |
@@ -1031,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage: The Ultimate Quest for Survival | 69890 | [69890-savage-the-ultimate-quest-for-survival.json](./69890-savage-the-ultimate-quest-for-survival.json) |
 | Savage: Ultimate Boss Fight | 225075 | [225075-savage-ultimate-boss-fight.json](./225075-savage-ultimate-boss-fight.json) |
 | Savanna | 346098 | [346098-savanna.json](./346098-savanna.json) |
+| Savanna Shot VR | 102391 | [102391-savanna-shot-vr.json](./102391-savanna-shot-vr.json) |
 | Savannah Runnah | 243610 | [243610-savannah-runnah.json](./243610-savannah-runnah.json) |
 | Savant: Ascent | 7879 | [7879-savant-ascent.json](./7879-savant-ascent.json) |
 | Savant: Ascent - Anniversary Edition | 245867 | [245867-savant-ascent-anniversary-edition.json](./245867-savant-ascent-anniversary-edition.json) |
@@ -1747,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Lies: Burning Coast | 98434 | [98434-sea-of-lies-burning-coast.json](./98434-sea-of-lies-burning-coast.json) |
 | Sea of Lies: Burning Coast - Collector's Edition | 83554 | [83554-sea-of-lies-burning-coast-collectors-edition.json](./83554-sea-of-lies-burning-coast-collectors-edition.json) |
 | Sea of Lies: Tide of Treachery - Collector's Edition | 102942 | [102942-sea-of-lies-tide-of-treachery-collectors-edition.json](./102942-sea-of-lies-tide-of-treachery-collectors-edition.json) |
+| Sea of Memories | 102381 | [102381-sea-of-memories.json](./102381-sea-of-memories.json) |
 | Sea of ​Mutation | 309688 | [309688-sea-of-mutation.json](./309688-sea-of-mutation.json) |
 | Sea of Pirates | 408791 | [408791-sea-of-pirates.json](./408791-sea-of-pirates.json) |
 | Sea of Radiation | 286005 | [286005-sea-of-radiation.json](./286005-sea-of-radiation.json) |
@@ -5294,6 +5297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skinny & Franko: Fists of Violence | 215900 | [215900-skinny-and-franko-fists-of-violence.json](./215900-skinny-and-franko-fists-of-violence.json) |
 | Skinny Girls | 259023 | [259023-skinny-girls.json](./259023-skinny-girls.json) |
 | Skins Game | 91433 | [91433-skins-game.json](./91433-skins-game.json) |
+| Skinscape | 102358 | [102358-skinscape.json](./102358-skinscape.json) |
 | Skinwalkers | 150625 | [150625-skinwalkers.json](./150625-skinwalkers.json) |
 | Skinwalkers Valley | 379339 | [379339-skinwalkers-valley.json](./379339-skinwalkers-valley.json) |
 | Skip Ahead | 307607 | [307607-skip-ahead.json](./307607-skip-ahead.json) |
@@ -5961,6 +5965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slitherise | 318967 | [318967-slitherise.json](./318967-slitherise.json) |
 | Slitterhead: Deluxe Edition | 331846 | [331846-slitterhead-deluxe-edition.json](./331846-slitterhead-deluxe-edition.json) |
 | Slivania | 327377 | [327377-slivania.json](./327377-slivania.json) |
+| Sliver-Sclicker | 102385 | [102385-sliver-sclicker.json](./102385-sliver-sclicker.json) |
 | Slizza | 116993 | [116993-slizza.json](./116993-slizza.json) |
 | Sloane and MacHale's Mysterious Stories 2 | 59405 | [59405-sloane-and-machales-mysterious-stories-2.json](./59405-sloane-and-machales-mysterious-stories-2.json) |
 | Slobbish Dragon Princess | 153459 | [153459-slobbish-dragon-princess.json](./153459-slobbish-dragon-princess.json) |
@@ -8476,6 +8481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hulk: Space Wolves Chapter | 168865 | [168865-space-hulk-space-wolves-chapter.json](./168865-space-hulk-space-wolves-chapter.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
 | Space Hunter | 271175 | [271175-space-hunter.json](./271175-space-hunter.json) |
+| Space Hurricane Storm | 102388 | [102388-space-hurricane-storm.json](./102388-space-hurricane-storm.json) |
 | Space II | 84202 | [84202-space-ii.json](./84202-space-ii.json) |
 | Space Imperia 4X | 391570 | [391570-space-imperia-4x.json](./391570-space-imperia-4x.json) |
 | Space Industrial Empire | 250962 | [250962-space-industrial-empire.json](./250962-space-industrial-empire.json) |
