@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T-night | 285457 | [285457-t-night.json](./285457-t-night.json) |
 | T-Racer | 266865 | [266865-t-racer.json](./266865-t-racer.json) |
 | T-Rex and Muscle Sam: Big Trouble in SPF | 125205 | [125205-t-rex-and-muscle-sam-big-trouble-in-spf.json](./125205-t-rex-and-muscle-sam-big-trouble-in-spf.json) |
+| T-Rex Runner | 105549 | [105549-t-rex-runner.json](./105549-t-rex-runner.json) |
 | T-Zer0 | 69588 | [69588-t-zer0.json](./69588-t-zer0.json) |
 | T.A.P. | 114329 | [114329-t-a-p.json](./114329-t-a-p.json) |
 | T.D.Z. 3: Dark Way of Stalker | 242671 | [242671-t-d-z-3-dark-way-of-stalker.json](./242671-t-d-z-3-dark-way-of-stalker.json) |
@@ -408,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Cover Now | 304754 | [304754-take-cover-now.json](./304754-take-cover-now.json) |
 | Take Cover! | 120243 | [120243-take-cover.json](./120243-take-cover.json) |
 | Take Down | 125962 | [125962-take-down.json](./125962-take-down.json) |
+| Take It Easy | 105531 | [105531-take-it-easy.json](./105531-take-it-easy.json) |
 | Take It Racing 2 | 287105 | [287105-take-it-racing-2.json](./287105-take-it-racing-2.json) |
 | Take It Seriously! Extreme Common Sense Challenge | 401095 | [401095-take-it-seriously-extreme-common-sense-challenge.json](./401095-take-it-seriously-extreme-common-sense-challenge.json) |
 | Take Me Home | 181890 | [181890-take-me-home.json](./181890-take-me-home.json) |
@@ -2690,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ball Flow: Nature and Light | 199597 | [199597-the-ball-flow-nature-and-light.json](./199597-the-ball-flow-nature-and-light.json) |
 | The Ball of the Rings | 176480 | [176480-the-ball-of-the-rings.json](./176480-the-ball-of-the-rings.json) |
 | The Ball Pit | 336382 | [336382-the-ball-pit.json](./336382-the-ball-pit.json) |
+| The Ball Reach | 105542 | [105542-the-ball-reach.json](./105542-the-ball-reach.json) |
 | The Ballad of Bellum | 336539 | [336539-the-ballad-of-bellum.json](./336539-the-ballad-of-bellum.json) |
 | The Ballad of Bonky | 159648 | [159648-the-ballad-of-bonky.json](./159648-the-ballad-of-bonky.json) |
 | The Ballad of Radolf | 207295 | [207295-the-ballad-of-radolf.json](./207295-the-ballad-of-radolf.json) |
@@ -4851,6 +4854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Isle Survival | 261507 | [261507-the-isle-survival.json](./261507-the-isle-survival.json) |
 | The Isolated Town | 253594 | [253594-the-isolated-town.json](./253594-the-isolated-town.json) |
 | The Isolation Ward | 177840 | [177840-the-isolation-ward.json](./177840-the-isolation-ward.json) |
+| The Italianeer | 105552 | [105552-the-italianeer.json](./105552-the-italianeer.json) |
 | The Jackbox Naughty Pack | 299591 | [299591-the-jackbox-naughty-pack.json](./299591-the-jackbox-naughty-pack.json) |
 | The Jackbox Party Pack 11 | 338919 | [338919-the-jackbox-party-pack-11.json](./338919-the-jackbox-party-pack-11.json) |
 | The Jackbox Party Pack 3 | 19082 | [19082-the-jackbox-party-pack-3.json](./19082-the-jackbox-party-pack-3.json) |
@@ -6138,6 +6142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Next Tetris | 51179 | [51179-the-next-tetris.json](./51179-the-next-tetris.json) |
 | The Night Guard | 295385 | [295385-the-night-guard.json](./295385-the-night-guard.json) |
 | The Night Jackals Vol. 1 | 289975 | [289975-the-night-jackals-vol-1.json](./289975-the-night-jackals-vol-1.json) |
+| The Night Journey | 105505 | [105505-the-night-journey.json](./105505-the-night-journey.json) |
 | The Night of Erosion: Prequel | 267677 | [267677-the-night-of-erosion-prequel.json](./267677-the-night-of-erosion-prequel.json) |
 | The Night of Fire Stealing | 106412 | [106412-the-night-of-fire-stealing.json](./106412-the-night-of-fire-stealing.json) |
 | The Night of Fire Stealing 2 | 163751 | [163751-the-night-of-fire-stealing-2.json](./163751-the-night-of-fire-stealing-2.json) |
@@ -6964,6 +6969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sewers of D'Sparil | 268467 | [268467-the-sewers-of-dsparil.json](./268467-the-sewers-of-dsparil.json) |
 | The Sexorcist | 211723 | [211723-the-sexorcist.json](./211723-the-sexorcist.json) |
 | The Shade Forest | 319028 | [319028-the-shade-forest.json](./319028-the-shade-forest.json) |
+| The Shadow Archer: Famous Stickman Series | 105524 | [105524-the-shadow-archer-famous-stickman-series.json](./105524-the-shadow-archer-famous-stickman-series.json) |
 | The Shadow Cat | 289965 | [289965-the-shadow-cat.json](./289965-the-shadow-cat.json) |
 | The Shadow in the Cathedral | 10939 | [10939-the-shadow-in-the-cathedral.json](./10939-the-shadow-in-the-cathedral.json) |
 | The Shadow of Shadows | 377047 | [377047-the-shadow-of-shadows.json](./377047-the-shadow-of-shadows.json) |
