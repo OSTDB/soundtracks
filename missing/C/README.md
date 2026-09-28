@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty Tactics | 276488 | [276488-call-of-duty-tactics.json](./276488-call-of-duty-tactics.json) |
 | Call of Duty: Advanced Warfare - Atlas Digital Pack | 25973 | [25973-call-of-duty-advanced-warfare-atlas-digital-pack.json](./25973-call-of-duty-advanced-warfare-atlas-digital-pack.json) |
 | Call of Duty: Advanced Warfare - Dubbed Edition | 201043 | [201043-call-of-duty-advanced-warfare-dubbed-edition.json](./201043-call-of-duty-advanced-warfare-dubbed-edition.json) |
+| Call of Duty: Advanced Warfare - Gold Edition | 99788 | [99788-call-of-duty-advanced-warfare-gold-edition.json](./99788-call-of-duty-advanced-warfare-gold-edition.json) |
 | Call of Duty: Black Ops | 343819 | [343819-call-of-duty-black-ops.json](./343819-call-of-duty-black-ops.json) |
 | Call of Duty: Black Ops - Annihilation | 22636 | [22636-call-of-duty-black-ops-annihilation.json](./22636-call-of-duty-black-ops-annihilation.json) |
 | Call of Duty: Black Ops - Gold Edition | 118925 | [118925-call-of-duty-black-ops-gold-edition.json](./118925-call-of-duty-black-ops-gold-edition.json) |
@@ -2878,6 +2879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chickaboom | 314663 | [314663-chickaboom.json](./314663-chickaboom.json) |
 | Chickcharge | 413055 | [413055-chickcharge.json](./413055-chickcharge.json) |
 | Chicken | 94716 | [94716-chicken.json](./94716-chicken.json) |
+| Chicken ~Boiled Egg~ | 99769 | [99769-chicken-boiled-egg.json](./99769-chicken-boiled-egg.json) |
 | Chicken and Duck Brothers | 218699 | [218699-chicken-and-duck-brothers.json](./218699-chicken-and-duck-brothers.json) |
 | Chicken Assassin: Reloaded | 100501 | [100501-chicken-assassin-reloaded.json](./100501-chicken-assassin-reloaded.json) |
 | Chicken Balls | 254586 | [254586-chicken-balls.json](./254586-chicken-balls.json) |
@@ -5841,6 +5843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contraptions | 120824 | [120824-contraptions.json](./120824-contraptions.json) |
 | Contraptions Collection | 282051 | [282051-contraptions-collection.json](./282051-contraptions-collection.json) |
 | Contrast | 383509 | [383509-contrast.json](./383509-contrast.json) |
+| Contrasted | 99782 | [99782-contrasted.json](./99782-contrasted.json) |
 | Contre Jour | 93578 | [93578-contre-jour.json](./93578-contre-jour.json) |
 | Contre Jour HD | 101959 | [101959-contre-jour-hd.json](./101959-contre-jour-hd.json) |
 | Contrition | 179748 | [179748-contrition.json](./179748-contrition.json) |
@@ -5989,6 +5992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coolmath Games: The Game | 234707 | [234707-coolmath-games-the-game.json](./234707-coolmath-games-the-game.json) |
 | CoolPaintr VR | 104022 | [104022-coolpaintr-vr.json](./104022-coolpaintr-vr.json) |
 | CoolPaintr VR: Voxel | 270143 | [270143-coolpaintr-vr-voxel.json](./270143-coolpaintr-vr-voxel.json) |
+| CoolPaintrVR | 99771 | [99771-coolpaintrvr.json](./99771-coolpaintrvr.json) |
 | Coolson’s Chocolate Alphabet | 266835 | [266835-coolson-s-chocolate-alphabet.json](./266835-coolson-s-chocolate-alphabet.json) |
 | Cooly Skunk | 132647 | [132647-cooly-skunk.json](./132647-cooly-skunk.json) |
 | Coop Catacombs | 293895 | [293895-coop-catacombs.json](./293895-coop-catacombs.json) |
@@ -8322,6 +8326,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curtiss | 40739 | [40739-curtiss.json](./40739-curtiss.json) |
 | Curupira | 218484 | [218484-curupira.json](./218484-curupira.json) |
 | Cururu: Whispers of the Forest | 383951 | [383951-cururu-whispers-of-the-forest.json](./383951-cururu-whispers-of-the-forest.json) |
+| Curve Digital PS4 Mega Bundle | 99807 | [99807-curve-digital-ps4-mega-bundle.json](./99807-curve-digital-ps4-mega-bundle.json) |
+| Curve Digital Triple Features - Action Pack | 99806 | [99806-curve-digital-triple-features-action-pack.json](./99806-curve-digital-triple-features-action-pack.json) |
+| Curve Digital Triple Features - Adventure Pack | 99805 | [99805-curve-digital-triple-features-adventure-pack.json](./99805-curve-digital-triple-features-adventure-pack.json) |
 | Curve Fever | 63259 | [63259-curve-fever.json](./63259-curve-fever.json) |
 | Curved Space | 137680 | [137680-curved-space.json](./137680-curved-space.json) |
 | Curving Over It with Evgeny Podoynikov | 173179 | [173179-curving-over-it-with-evgeny-podoynikov.json](./173179-curving-over-it-with-evgeny-podoynikov.json) |
