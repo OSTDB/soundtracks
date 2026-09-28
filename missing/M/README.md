@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madcap Mosaic | 212746 | [212746-madcap-mosaic.json](./212746-madcap-mosaic.json) |
 | Madcap's Plane | 367621 | [367621-madcaps-plane.json](./367621-madcaps-plane.json) |
 | Madcoaster | 22324 | [22324-madcoaster.json](./22324-madcoaster.json) |
+| MaDD Bomber | 91545 | [91545-madd-bomber.json](./91545-madd-bomber.json) |
 | Madden 95 | 198807 | [198807-madden-95.json](./198807-madden-95.json) |
 | Madden genesis | 178024 | [178024-madden-genesis.json](./178024-madden-genesis.json) |
 | Madden NFL 07 | 243011 | [243011-madden-nfl-07.json](./243011-madden-nfl-07.json) |
@@ -752,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magitech Requiem | 336011 | [336011-magitech-requiem.json](./336011-magitech-requiem.json) |
 | Magium | 207821 | [207821-magium.json](./207821-magium.json) |
 | Magix Music Maker | 43495 | [43495-magix-music-maker.json](./43495-magix-music-maker.json) |
+| MagJongg | 91522 | [91522-magjongg.json](./91522-magjongg.json) |
 | Magla | 344017 | [344017-magla.json](./344017-magla.json) |
 | Magma | 229163 | [229163-magma.json](./229163-magma.json) |
 | Magma Chamber | 32968 | [32968-magma-chamber.json](./32968-magma-chamber.json) |
@@ -788,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnum Quest | 166527 | [166527-magnum-quest.json](./166527-magnum-quest.json) |
 | Magnus Imago | 188683 | [188683-magnus-imago.json](./188683-magnus-imago.json) |
 | Magnus Kingdom of Chess | 103897 | [103897-magnus-kingdom-of-chess.json](./103897-magnus-kingdom-of-chess.json) |
+| Magnussoft's Colossus Chess | 91540 | [91540-magnussofts-colossus-chess.json](./91540-magnussofts-colossus-chess.json) |
 | Mago | 120365 | [120365-mago.json](./120365-mago.json) |
 | Magocracy | 70339 | [70339-magocracy.json](./70339-magocracy.json) |
 | Magret & FaceDeBouc | 274574 | [274574-magret-and-facedebouc.json](./274574-magret-and-facedebouc.json) |
@@ -2973,12 +2976,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor: Pacific Assault | 1310 | [1310-medal-of-honor-pacific-assault.json](./1310-medal-of-honor-pacific-assault.json) |
 | Medal of Honor: Warfighter | 1306 | [1306-medal-of-honor-warfighter.json](./1306-medal-of-honor-warfighter.json) |
 | MedArc | 70391 | [70391-medarc.json](./70391-medarc.json) |
+| Medarot 2 Kabuto/Kuwagata | 91530 | [91530-medarot-2-kabuto-kuwagata.json](./91530-medarot-2-kabuto-kuwagata.json) |
 | Medarot 2 Parts Collection | 92535 | [92535-medarot-2-parts-collection.json](./92535-medarot-2-parts-collection.json) |
 | Medarot 2: Kabuto Version | 55139 | [55139-medarot-2-kabuto-version.json](./55139-medarot-2-kabuto-version.json) |
 | Medarot 2: Kuwagata Version | 76574 | [76574-medarot-2-kuwagata-version.json](./76574-medarot-2-kuwagata-version.json) |
 | Medarot 3 Kabuto Version | 55140 | [55140-medarot-3-kabuto-version.json](./55140-medarot-3-kabuto-version.json) |
 | Medarot 3 Kuwagata Version | 76575 | [76575-medarot-3-kuwagata-version.json](./76575-medarot-3-kuwagata-version.json) |
 | Medarot 3 Parts Collection: Z Kara no Chousenjou | 92536 | [92536-medarot-3-parts-collection-z-kara-no-chousenjou.json](./92536-medarot-3-parts-collection-z-kara-no-chousenjou.json) |
+| Medarot 4: Kabuto Version | 91532 | [91532-medarot-4-kabuto-version.json](./91532-medarot-4-kabuto-version.json) |
+| Medarot 5: Susutake-mura no Tenkousei - Kuwagata Version | 91534 | [91534-medarot-5-susutake-mura-no-tenkousei-kuwagata-version.json](./91534-medarot-5-susutake-mura-no-tenkousei-kuwagata-version.json) |
 | Medarot 7: Kabuto Version | 138121 | [138121-medarot-7-kabuto-version.json](./138121-medarot-7-kabuto-version.json) |
 | Medarot 8: Kabuto Version | 138117 | [138117-medarot-8-kabuto-version.json](./138117-medarot-8-kabuto-version.json) |
 | Medarot 9 Kabuto/Kuwagata | 59661 | [59661-medarot-9-kabuto-kuwagata.json](./59661-medarot-9-kabuto-kuwagata.json) |
@@ -2988,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot DS: Kabuto Version | 67687 | [67687-medarot-ds-kabuto-version.json](./67687-medarot-ds-kabuto-version.json) |
 | Medarot G: Kabuto Version | 188653 | [188653-medarot-g-kabuto-version.json](./188653-medarot-g-kabuto-version.json) |
 | Medarot Kabuto Version | 55145 | [55145-medarot-kabuto-version.json](./55145-medarot-kabuto-version.json) |
+| Medarot Kabuto/Kuwagata | 91529 | [91529-medarot-kabuto-kuwagata.json](./91529-medarot-kabuto-kuwagata.json) |
 | Medarot Kuwagata Version | 55144 | [55144-medarot-kuwagata-version.json](./55144-medarot-kuwagata-version.json) |
 | Medarot Parts Collection | 92533 | [92533-medarot-parts-collection.json](./92533-medarot-parts-collection.json) |
 | Medarot Parts Collection 2 | 92534 | [92534-medarot-parts-collection-2.json](./92534-medarot-parts-collection-2.json) |
@@ -3095,6 +3102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meeple Incremental | 404252 | [404252-meeple-incremental.json](./404252-meeple-incremental.json) |
 | Meer's: Escape | 263030 | [263030-meers-escape.json](./263030-meers-escape.json) |
 | Meeri Bliss | 369213 | [369213-meeri-bliss.json](./369213-meeri-bliss.json) |
+| Meerkats | 91535 | [91535-meerkats.json](./91535-meerkats.json) |
 | Meet a Married Woman at a Hot Spring | 273467 | [273467-meet-a-married-woman-at-a-hot-spring.json](./273467-meet-a-married-woman-at-a-hot-spring.json) |
 | Meet Again Bundle | 219047 | [219047-meet-again-bundle.json](./219047-meet-again-bundle.json) |
 | Meet Bub: Bub to Eigo Tanken | 327596 | [327596-meet-bub-bub-to-eigo-tanken.json](./327596-meet-bub-bub-to-eigo-tanken.json) |
@@ -4272,6 +4280,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetioTower | 152254 | [152254-metiotower.json](./152254-metiotower.json) |
 | Metori | 107864 | [107864-metori.json](./107864-metori.json) |
 | Metric Racer | 133427 | [133427-metric-racer.json](./133427-metric-racer.json) |
+| Metris | 91515 | [91515-metris.json](./91515-metris.json) |
+| Metris 4 | 91521 | [91521-metris-4.json](./91521-metris-4.json) |
 | MetrixVR | 124142 | [124142-metrixvr.json](./124142-metrixvr.json) |
 | Metro - The Board Game | 88803 | [88803-metro-the-board-game.json](./88803-metro-the-board-game.json) |
 | Metro 2033: Wars | 59064 | [59064-metro-2033-wars.json](./59064-metro-2033-wars.json) |
