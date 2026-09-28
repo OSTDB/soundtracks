@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Factory | 115047 | [115047-magic-factory.json](./115047-magic-factory.json) |
 | Magic Fairy Tales: Barbie as Rapunzel | 19401 | [19401-magic-fairy-tales-barbie-as-rapunzel.json](./19401-magic-fairy-tales-barbie-as-rapunzel.json) |
 | Magic Farm | 298707 | [298707-magic-farm.json](./298707-magic-farm.json) |
+| Magic Flight Academy | 102947 | [102947-magic-flight-academy.json](./102947-magic-flight-academy.json) |
 | Magic Fluids | 168663 | [168663-magic-fluids.json](./168663-magic-fluids.json) |
 | Magic Force | 265100 | [265100-magic-force.json](./265100-magic-force.json) |
 | Magic Forest Escape | 315647 | [315647-magic-forest-escape.json](./315647-magic-forest-escape.json) |
@@ -2264,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of the Monster Lair | 21276 | [21276-master-of-the-monster-lair.json](./21276-master-of-the-monster-lair.json) |
 | Master of the Wind | 123642 | [123642-master-of-the-wind.json](./123642-master-of-the-wind.json) |
 | Master of Vtuber | 267452 | [267452-master-of-vtuber.json](./267452-master-of-vtuber.json) |
+| Master Pyrox Wizard Smackdown | 102924 | [102924-master-pyrox-wizard-smackdown.json](./102924-master-pyrox-wizard-smackdown.json) |
 | Master Reboot | 10541 | [10541-master-reboot.json](./10541-master-reboot.json) |
 | Master Sleuth Bundle | 209692 | [209692-master-sleuth-bundle.json](./209692-master-sleuth-bundle.json) |
 | Master System 3 | 230823 | [230823-master-system-3.json](./230823-master-system-3.json) |
@@ -8286,6 +8288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutants: Genesis | 220144 | [220144-mutants-genesis.json](./220144-mutants-genesis.json) |
 | Mutate! Fight! Purr! | 381640 | [381640-mutate-fight-purr.json](./381640-mutate-fight-purr.json) |
 | Mutation Madness | 264690 | [264690-mutation-madness.json](./264690-mutation-madness.json) |
+| Mutation Mayhem | 102914 | [102914-mutation-mayhem.json](./102914-mutation-mayhem.json) |
 | Mutation Nation | 39522 | [39522-mutation-nation.json](./39522-mutation-nation.json) |
 | Mutation Phase | 105093 | [105093-mutation-phase.json](./105093-mutation-phase.json) |
 | Mutato Match | 34736 | [34736-mutato-match.json](./34736-mutato-match.json) |
@@ -9245,6 +9248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myths of Rules | 262452 | [262452-myths-of-rules.json](./262452-myths-of-rules.json) |
 | Myths of the World: Behind the Veil - Collector's Edition | 83915 | [83915-myths-of-the-world-behind-the-veil-collectors-edition.json](./83915-myths-of-the-world-behind-the-veil-collectors-edition.json) |
 | Myths of the World: Black Rose HD | 104490 | [104490-myths-of-the-world-black-rose-hd.json](./104490-myths-of-the-world-black-rose-hd.json) |
+| Myths of the World: Of Fiends and Fairies - Collector's Edition | 102943 | [102943-myths-of-the-world-of-fiends-and-fairies-collectors-edition.json](./102943-myths-of-the-world-of-fiends-and-fairies-collectors-edition.json) |
 | Myths of the World: Of Fiends and Fairies HD | 106644 | [106644-myths-of-the-world-of-fiends-and-fairies-hd.json](./106644-myths-of-the-world-of-fiends-and-fairies-hd.json) |
 | Myths of the World: Spirit Wolf - Collector's Edition | 83555 | [83555-myths-of-the-world-spirit-wolf-collectors-edition.json](./83555-myths-of-the-world-spirit-wolf-collectors-edition.json) |
 | Mythscroll | 342041 | [342041-mythscroll.json](./342041-mythscroll.json) |
