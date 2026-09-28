@@ -1158,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adult Toy Store | 111066 | [111066-adult-toy-store.json](./111066-adult-toy-store.json) |
 | Adulting! | 181878 | [181878-adulting.json](./181878-adulting.json) |
 | Advance | 185443 | [185443-advance.json](./185443-advance.json) |
+| Advance to Boardwalk | 69895 | [69895-advance-to-boardwalk.json](./69895-advance-to-boardwalk.json) |
 | Advance Wars | 236813 | [236813-advance-wars.json](./236813-advance-wars.json) |
 | Advance Wars 2: Black Hole Rising | 236815 | [236815-advance-wars-2-black-hole-rising.json](./236815-advance-wars-2-black-hole-rising.json) |
 | Advance, Fish! | 379476 | [379476-advance-fish.json](./379476-advance-fish.json) |
@@ -1254,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Maker: Runiya | 107638 | [107638-adventure-maker-runiya.json](./107638-adventure-maker-runiya.json) |
 | Adventure Mansion | 283899 | [283899-adventure-mansion.json](./283899-adventure-mansion.json) |
 | Adventure Master | 381130 | [381130-adventure-master.json](./381130-adventure-master.json) |
+| Adventure Master | 69899 | [69899-adventure-master.json](./69899-adventure-master.json) |
 | Adventure Match | 338910 | [338910-adventure-match.json](./338910-adventure-match.json) |
 | Adventure Math | 94016 | [94016-adventure-math.json](./94016-adventure-math.json) |
 | Adventure Mosaics: Autumn Journey | 246958 | [246958-adventure-mosaics-autumn-journey.json](./246958-adventure-mosaics-autumn-journey.json) |
@@ -1533,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterschool : Reel Danger | 361913 | [361913-afterschool-reel-danger.json](./361913-afterschool-reel-danger.json) |
 | Aftershock for Quake | 271795 | [271795-aftershock-for-quake.json](./271795-aftershock-for-quake.json) |
 | Aftershock: Coastline | 253377 | [253377-aftershock-coastline.json](./253377-aftershock-coastline.json) |
+| AfterShocked! | 69816 | [69816-aftershocked.json](./69816-aftershocked.json) |
 | AfterTheDawn | 81753 | [81753-afterthedawn.json](./81753-afterthedawn.json) |
 | Afterworld | 288746 | [288746-afterworld.json](./288746-afterworld.json) |
 | AftLife: Girl and Cats, and Lost World | 284326 | [284326-aftlife-girl-and-cats-and-lost-world.json](./284326-aftlife-girl-and-cats-and-lost-world.json) |
@@ -3231,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambulance Life: A Paramedic Simulator - Bay Side Expansion | 334668 | [334668-ambulance-life-a-paramedic-simulator-bay-side-expansion.json](./334668-ambulance-life-a-paramedic-simulator-bay-side-expansion.json) |
 | Ambulance Race | 221712 | [221712-ambulance-race.json](./221712-ambulance-race.json) |
 | Ambulance Simulator | 9973 | [9973-ambulance-simulator.json](./9973-ambulance-simulator.json) |
+| Ambush at Sorinor | 69903 | [69903-ambush-at-sorinor.json](./69903-ambush-at-sorinor.json) |
 | Ambush in Sector 9 | 311279 | [311279-ambush-in-sector-9.json](./311279-ambush-in-sector-9.json) |
 | Ambush Keen Pilgrims | 271247 | [271247-ambush-keen-pilgrims.json](./271247-ambush-keen-pilgrims.json) |
 | Ambush Tactics | 61604 | [61604-ambush-tactics.json](./61604-ambush-tactics.json) |
@@ -6136,6 +6140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asphyxiation | 368153 | [368153-asphyxiation.json](./368153-asphyxiation.json) |
 | Aspic: Majaou no Noroi | 41327 | [41327-aspic-majaou-no-noroi.json](./41327-aspic-majaou-no-noroi.json) |
 | Aspiel: Edge of Chaos | 334502 | [334502-aspiel-edge-of-chaos.json](./334502-aspiel-edge-of-chaos.json) |
+| Assassin 2015 | 69944 | [69944-assassin-2015.json](./69944-assassin-2015.json) |
 | Assassin Blue | 124628 | [124628-assassin-blue.json](./124628-assassin-blue.json) |
 | Assassin In the City | 181767 | [181767-assassin-in-the-city.json](./181767-assassin-in-the-city.json) |
 | Assassin of Monsters | 370186 | [370186-assassin-of-monsters.json](./370186-assassin-of-monsters.json) |
