@@ -756,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tomaday | 40981 | [40981-captain-tomaday.json](./40981-captain-tomaday.json) |
 | Captain Tsubasa | 213601 | [213601-captain-tsubasa.json](./213601-captain-tsubasa.json) |
 | Captain Tsubasa III: Koutei no Chousen | 38340 | [38340-captain-tsubasa-iii-koutei-no-chousen.json](./38340-captain-tsubasa-iii-koutei-no-chousen.json) |
+| Captain Tsubasa J: Zenkoku Seiha he no Chousen | 65009 | [65009-captain-tsubasa-j-zenkoku-seiha-he-no-chousen.json](./65009-captain-tsubasa-j-zenkoku-seiha-he-no-chousen.json) |
 | Captain Tsubasa V: Hasha no Shougou Campione | 38268 | [38268-captain-tsubasa-v-hasha-no-shougou-campione.json](./38268-captain-tsubasa-v-hasha-no-shougou-campione.json) |
 | Captain Tsubasa Vol. II: Super Striker | 102254 | [102254-captain-tsubasa-vol-ii-super-striker.json](./102254-captain-tsubasa-vol-ii-super-striker.json) |
 | Captain Tsubasa Zero: Miracle Shot | 124759 | [124759-captain-tsubasa-zero-miracle-shot.json](./124759-captain-tsubasa-zero-miracle-shot.json) |
