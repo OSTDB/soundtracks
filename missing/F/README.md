@@ -2776,6 +2776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Simulator: Agonik Lake | 240761 | [240761-fish-simulator-agonik-lake.json](./240761-fish-simulator-agonik-lake.json) |
 | Fish Swarm: Within Inches | 383962 | [383962-fish-swarm-within-inches.json](./383962-fish-swarm-within-inches.json) |
 | Fish Tales | 358849 | [358849-fish-tales.json](./358849-fish-tales.json) |
+| Fish Tales | 94364 | [94364-fish-tales.json](./94364-fish-tales.json) |
 | Fish Tank | 79228 | [79228-fish-tank.json](./79228-fish-tank.json) |
 | Fish Tank Live | 230849 | [230849-fish-tank-live.json](./230849-fish-tank-live.json) |
 | Fish Tank Simulator | 383958 | [383958-fish-tank-simulator.json](./383958-fish-tank-simulator.json) |
