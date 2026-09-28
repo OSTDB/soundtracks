@@ -4840,6 +4840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collisions | 34756 | [34756-collisions.json](./34756-collisions.json) |
 | Colloc | 120424 | [120424-colloc.json](./120424-colloc.json) |
 | Colmen's Quest | 175955 | [175955-colmens-quest.json](./175955-colmens-quest.json) |
+| Colo Grid Zation | 110543 | [110543-colo-grid-zation.json](./110543-colo-grid-zation.json) |
 | CoLoBot | 80574 | [80574-colobot.json](./80574-colobot.json) |
 | Coloco | 388960 | [388960-coloco.json](./388960-coloco.json) |
 | ColocoDX | 388962 | [388962-colocodx.json](./388962-colocodx.json) |
@@ -7344,6 +7345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Force | 18556 | [18556-cross-force.json](./18556-cross-force.json) |
 | Cross Guardian | 381110 | [381110-cross-guardian.json](./381110-cross-guardian.json) |
 | Cross Impact | 250398 | [250398-cross-impact.json](./250398-cross-impact.json) |
+| Cross Love - Episode 1 | 110524 | [110524-cross-love-episode-1.json](./110524-cross-love-episode-1.json) |
 | Cross Match! | 238402 | [238402-cross-match.json](./238402-cross-match.json) |
 | Cross Numbers | 153888 | [153888-cross-numbers.json](./153888-cross-numbers.json) |
 | Cross or Crash | 241993 | [241993-cross-or-crash.json](./241993-cross-or-crash.json) |
