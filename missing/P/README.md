@@ -3945,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Romance Girls: Conquer the Zodiac Horoscope | 378862 | [378862-planet-romance-girls-conquer-the-zodiac-horoscope.json](./378862-planet-romance-girls-conquer-the-zodiac-horoscope.json) |
 | Planet Royale | 292556 | [292556-planet-royale.json](./292556-planet-royale.json) |
 | Planet Soccer | 57688 | [57688-planet-soccer.json](./57688-planet-soccer.json) |
+| Planet Squirrel | 106743 | [106743-planet-squirrel.json](./106743-planet-squirrel.json) |
 | Planet Stronghold | 8982 | [8982-planet-stronghold.json](./8982-planet-stronghold.json) |
 | Planet Stronghold 2 | 103609 | [103609-planet-stronghold-2.json](./103609-planet-stronghold-2.json) |
 | Planet Surf: The Last Wave | 158672 | [158672-planet-surf-the-last-wave.json](./158672-planet-surf-the-last-wave.json) |
@@ -7209,6 +7210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pullstation | 349930 | [349930-pullstation.json](./349930-pullstation.json) |
 | Pullywog | 186636 | [186636-pullywog.json](./186636-pullywog.json) |
 | PulmEx | 215244 | [215244-pulmex.json](./215244-pulmex.json) |
+| Pulmonary | 106742 | [106742-pulmonary.json](./106742-pulmonary.json) |
 | Pulp Action Shotgun | 362876 | [362876-pulp-action-shotgun.json](./362876-pulp-action-shotgun.json) |
 | Pulp Race: Daft Enigma Fighter | 382780 | [382780-pulp-race-daft-enigma-fighter.json](./382780-pulp-race-daft-enigma-fighter.json) |
 | Pulpcraft DX | 231328 | [231328-pulpcraft-dx.json](./231328-pulpcraft-dx.json) |
