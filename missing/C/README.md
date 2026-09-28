@@ -3854,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of God I: Prison Empire - Outrage | 170431 | [170431-city-of-god-i-prison-empire-outrage.json](./170431-city-of-god-i-prison-empire-outrage.json) |
 | City of Graves | 284975 | [284975-city-of-graves.json](./284975-city-of-graves.json) |
 | City of Heroes | 7830 | [7830-city-of-heroes.json](./7830-city-of-heroes.json) |
+| City of Jade: Imperial Frontier | 102372 | [102372-city-of-jade-imperial-frontier.json](./102372-city-of-jade-imperial-frontier.json) |
 | City of Love: Paris | 227511 | [227511-city-of-love-paris.json](./227511-city-of-love-paris.json) |
 | City of Mist | 112328 | [112328-city-of-mist.json](./112328-city-of-mist.json) |
 | City of Mist 2 | 123536 | [123536-city-of-mist-2.json](./123536-city-of-mist-2.json) |
@@ -6317,6 +6318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmotroid | 263041 | [263041-cosmotroid.json](./263041-cosmotroid.json) |
 | CosmoWarrior Zero | 43875 | [43875-cosmowarrior-zero.json](./43875-cosmowarrior-zero.json) |
 | Cosmula | 306348 | [306348-cosmula.json](./306348-cosmula.json) |
+| Cosplay Convention Crisis | 102330 | [102330-cosplay-convention-crisis.json](./102330-cosplay-convention-crisis.json) |
 | Cosplay Crisis: Succubus Invasion | 309861 | [309861-cosplay-crisis-succubus-invasion.json](./309861-cosplay-crisis-succubus-invasion.json) |
 | Cosplay House | 275651 | [275651-cosplay-house.json](./275651-cosplay-house.json) |
 | Cosplay Relaxation | 275137 | [275137-cosplay-relaxation.json](./275137-cosplay-relaxation.json) |
