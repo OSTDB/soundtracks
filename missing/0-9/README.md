@@ -809,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 33 Seconds | 208056 | [208056-33-seconds.json](./208056-33-seconds.json) |
 | 34 Sports Games: World Edition | 297041 | [297041-34-sports-games-world-edition.json](./297041-34-sports-games-world-edition.json) |
 | 35 Electric | 382899 | [382899-35-electric.json](./382899-35-electric.json) |
+| 3594e: Sangokushi Eiga | 80633 | [80633-3594e-sangokushi-eiga.json](./80633-3594e-sangokushi-eiga.json) |
 | 35MM | 19396 | [19396-35mm.json](./19396-35mm.json) |
 | 36 Nights | 277942 | [277942-36-nights.json](./277942-36-nights.json) |
 | 360 | 178446 | [178446-360.json](./178446-360.json) |
