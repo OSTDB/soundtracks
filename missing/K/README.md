@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kagami | 410415 | [410415-kagami.json](./410415-kagami.json) |
 | Kagami no Kuni no Legend | 256323 | [256323-kagami-no-kuni-no-legend.json](./256323-kagami-no-kuni-no-legend.json) |
 | Kagamihara/Justice | 222256 | [222256-kagamihara-justice.json](./222256-kagamihara-justice.json) |
+| Kage Fumazu | 98056 | [98056-kage-fumazu.json](./98056-kage-fumazu.json) |
 | Kageninja | 385743 | [385743-kageninja.json](./385743-kageninja.json) |
 | Kagerou Labyrinth | 338819 | [338819-kagerou-labyrinth.json](./338819-kagerou-labyrinth.json) |
 | Kagi wo Kakushita Kago no Tori: Bird in Cage Hiding the Key | 260120 | [260120-kagi-wo-kakushita-kago-no-tori-bird-in-cage-hiding-the-key.json](./260120-kagi-wo-kakushita-kago-no-tori-bird-in-cage-hiding-the-key.json) |
@@ -514,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kate Don't Wait | 180018 | [180018-kate-dont-wait.json](./180018-kate-dont-wait.json) |
 | Kate Goes to Wildflower Grove | 177415 | [177415-kate-goes-to-wildflower-grove.json](./177415-kate-goes-to-wildflower-grove.json) |
 | Kate Plus Ten | 112324 | [112324-kate-plus-ten.json](./112324-kate-plus-ten.json) |
+| Kateba Kangun | 98058 | [98058-kateba-kangun.json](./98058-kateba-kangun.json) |
 | Katei de Dekiru! Chomeijin Yuumei Ryourinin no Original Recipe - Shokusai Roman | 269824 | [269824-katei-de-dekiru-chomeijin-yuumei-ryourinin-no-original-recipe-shokusai-roman.json](./269824-katei-de-dekiru-chomeijin-yuumei-ryourinin-no-original-recipe-shokusai-roman.json) |
 | Katei no Igaku: DS de Kitaeru Shokuzai Kenkou Training | 269586 | [269586-katei-no-igaku-ds-de-kitaeru-shokuzai-kenkou-training.json](./269586-katei-no-igaku-ds-de-kitaeru-shokuzai-kenkou-training.json) |
 | Katekyou Hitman Reborn! Battle Arena | 65217 | [65217-katekyou-hitman-reborn-battle-arena.json](./65217-katekyou-hitman-reborn-battle-arena.json) |
@@ -633,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Gambling | 372530 | [372530-keep-gambling.json](./372530-keep-gambling.json) |
 | Keep Going | 312576 | [312576-keep-going.json](./312576-keep-going.json) |
 | Keep Her Safe | 414300 | [414300-keep-her-safe.json](./414300-keep-her-safe.json) |
+| Keep in Mind | 98046 | [98046-keep-in-mind.json](./98046-keep-in-mind.json) |
 | Keep in Mind: Remastered - Deluxe Edition | 187851 | [187851-keep-in-mind-remastered-deluxe-edition.json](./187851-keep-in-mind-remastered-deluxe-edition.json) |
 | Keep it Live | 194666 | [194666-keep-it-live.json](./194666-keep-it-live.json) |
 | Keep It Running | 283747 | [283747-keep-it-running.json](./283747-keep-it-running.json) |
@@ -1512,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings and Catapults | 215647 | [215647-kings-and-catapults.json](./215647-kings-and-catapults.json) |
 | Kings and Generals: A Divided Loyalty | 60249 | [60249-kings-and-generals-a-divided-loyalty.json](./60249-kings-and-generals-a-divided-loyalty.json) |
 | Kings and Pigs | 152937 | [152937-kings-and-pigs.json](./152937-kings-and-pigs.json) |
+| Kings Era | 98012 | [98012-kings-era.json](./98012-kings-era.json) |
 | Kings Hero 2 | 175359 | [175359-kings-hero-2.json](./175359-kings-hero-2.json) |
 | Kings Odyssey: Dwarves Tale | 287170 | [287170-kings-odyssey-dwarves-tale.json](./287170-kings-odyssey-dwarves-tale.json) |
 | Kings Odyssey: Rise of The Necromancer | 287172 | [287172-kings-odyssey-rise-of-the-necromancer.json](./287172-kings-odyssey-rise-of-the-necromancer.json) |
@@ -2627,6 +2631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kururuga | 412967 | [412967-kururuga.json](./412967-kururuga.json) |
 | Kurushi Final: Mental Blocks | 272549 | [272549-kurushi-final-mental-blocks.json](./272549-kurushi-final-mental-blocks.json) |
 | Kurushi Final: Mental Blocks | 43868 | [43868-kurushi-final-mental-blocks.json](./43868-kurushi-final-mental-blocks.json) |
+| Kurusuku Shichauzo | 98054 | [98054-kurusuku-shichauzo.json](./98054-kurusuku-shichauzo.json) |
 | Kuruwa: Yuukyou Kan Yoiyamizakura Dai Ni Shou | 97287 | [97287-kuruwa-yuukyou-kan-yoiyamizakura-dai-ni-shou.json](./97287-kuruwa-yuukyou-kan-yoiyamizakura-dai-ni-shou.json) |
 | Kusari Kingdom | 190974 | [190974-kusari-kingdom.json](./190974-kusari-kingdom.json) |
 | Kusarihime: Euthanasia | 138804 | [138804-kusarihime-euthanasia.json](./138804-kusarihime-euthanasia.json) |
