@@ -819,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Children | 49578 | [49578-fantastic-children.json](./49578-fantastic-children.json) |
 | Fantastic Contraption | 168671 | [168671-fantastic-contraption.json](./168671-fantastic-contraption.json) |
 | Fantastic Contraption Classic 1 & 2 | 169227 | [169227-fantastic-contraption-classic-1-and-2.json](./169227-fantastic-contraption-classic-1-and-2.json) |
+| Fantastic Creations: House of Brass | 62819 | [62819-fantastic-creations-house-of-brass.json](./62819-fantastic-creations-house-of-brass.json) |
 | Fantastic Creatures | 114528 | [114528-fantastic-creatures.json](./114528-fantastic-creatures.json) |
 | Fantastic Dizzy | 12089 | [12089-fantastic-dizzy.json](./12089-fantastic-dizzy.json) |
 | Fantastic Fetus: Prebirth | 205113 | [205113-fantastic-fetus-prebirth.json](./205113-fantastic-fetus-prebirth.json) |
@@ -2824,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Tycoon | 29117 | [29117-fish-tycoon.json](./29117-fish-tycoon.json) |
 | Fish Upon a Star | 112287 | [112287-fish-upon-a-star.json](./112287-fish-upon-a-star.json) |
 | Fish Volleyball | 235178 | [235178-fish-volleyball.json](./235178-fish-volleyball.json) |
+| Fish vs. Crabs | 62806 | [62806-fish-vs-crabs.json](./62806-fish-vs-crabs.json) |
 | Fish War | 247024 | [247024-fish-war.json](./247024-fish-war.json) |
 | Fish! | 100331 | [100331-fish.json](./100331-fish.json) |
 | Fish! | 12101 | [12101-fish.json](./12101-fish.json) |
@@ -3232,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash and Die | 391167 | [391167-flash-and-die.json](./391167-flash-and-die.json) |
 | Flash Cat | 322349 | [322349-flash-cat.json](./322349-flash-cat.json) |
 | Flash Cycle 2 | 286631 | [286631-flash-cycle-2.json](./286631-flash-cycle-2.json) |
+| Flash Flash Revolution | 62802 | [62802-flash-flash-revolution.json](./62802-flash-flash-revolution.json) |
 | Flash Focus: Vision Training in Minutes a Day | 21912 | [21912-flash-focus-vision-training-in-minutes-a-day.json](./21912-flash-focus-vision-training-in-minutes-a-day.json) |
 | Flash Gordon | 218420 | [218420-flash-gordon.json](./218420-flash-gordon.json) |
 | Flash Gordon | 22735 | [22735-flash-gordon.json](./22735-flash-gordon.json) |
@@ -5399,6 +5402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Within | 177830 | [177830-from-within.json](./177830-from-within.json) |
 | Fromage | 222913 | [222913-fromage.json](./222913-fromage.json) |
 | Fromage | 326059 | [326059-fromage.json](./326059-fromage.json) |
+| FromPulse | 62805 | [62805-frompulse.json](./62805-frompulse.json) |
 | FromTheEarth VR | 122172 | [122172-fromtheearth-vr.json](./122172-fromtheearth-vr.json) |
 | Front Edge | 296065 | [296065-front-edge.json](./296065-front-edge.json) |
 | Front Line | 408293 | [408293-front-line.json](./408293-front-line.json) |
