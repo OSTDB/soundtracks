@@ -6170,6 +6170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mummy | 140987 | [140987-the-mummy.json](./140987-the-mummy.json) |
 | The Mummy | 281548 | [281548-the-mummy.json](./281548-the-mummy.json) |
 | The Mummy | 49323 | [49323-the-mummy.json](./49323-the-mummy.json) |
+| The Mummy Mystery | 68740 | [68740-the-mummy-mystery.json](./68740-the-mummy-mystery.json) |
 | The Mummy Pharaoh | 110381 | [110381-the-mummy-pharaoh.json](./110381-the-mummy-pharaoh.json) |
 | The Mummy Returns | 49961 | [49961-the-mummy-returns.json](./49961-the-mummy-returns.json) |
 | The Mummy: Demastered | 36856 | [36856-the-mummy-demastered.json](./36856-the-mummy-demastered.json) |
@@ -7012,6 +7013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Second Reality Room: Unspoken Truths | 390782 | [390782-the-second-reality-room-unspoken-truths.json](./390782-the-second-reality-room-unspoken-truths.json) |
 | The Second Sight: Dead Reckoning | 331138 | [331138-the-second-sight-dead-reckoning.json](./331138-the-second-sight-dead-reckoning.json) |
 | The Secret Chronicles of Dr. M. | 134077 | [134077-the-secret-chronicles-of-dr-m.json](./134077-the-secret-chronicles-of-dr-m.json) |
+| The Secret Codes of C.Y.P.H.E.R.: Operation Wildlife | 68739 | [68739-the-secret-codes-of-c-y-p-h-e-r-operation-wildlife.json](./68739-the-secret-codes-of-c-y-p-h-e-r-operation-wildlife.json) |
 | The Secret Installation | 271315 | [271315-the-secret-installation.json](./271315-the-secret-installation.json) |
 | The Secret Island of Dr. Quandary | 46654 | [46654-the-secret-island-of-dr-quandary.json](./46654-the-secret-island-of-dr-quandary.json) |
 | The Secret of Cat Island | 194003 | [194003-the-secret-of-cat-island.json](./194003-the-secret-of-cat-island.json) |
