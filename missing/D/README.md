@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.H.Zombie Zone | 117693 | [117693-d-h-zombie-zone.json](./117693-d-h-zombie-zone.json) |
 | D.I.M. | 372105 | [372105-d-i-m.json](./372105-d-i-m.json) |
 | D.I.R: Death is Random | 186604 | [186604-d-i-r-death-is-random.json](./186604-d-i-r-death-is-random.json) |
+| D.N. Angel: Crimson Wings | 67374 | [67374-d-n-angel-crimson-wings.json](./67374-d-n-angel-crimson-wings.json) |
 | D.N.A. | 137022 | [137022-d-n-a.json](./137022-d-n-a.json) |
 | D.N.A.: Dark Native Apostle | 56134 | [56134-d-n-a-dark-native-apostle.json](./56134-d-n-a-dark-native-apostle.json) |
 | D.O.A.S.: Department of Applied Science | 184601 | [184601-d-o-a-s-department-of-applied-science.json](./184601-d-o-a-s-department-of-applied-science.json) |
@@ -243,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dakar Moto | 123057 | [123057-dakar-moto.json](./123057-dakar-moto.json) |
 | Dakar Series: Desafío Ruta 40 | 114792 | [114792-dakar-series-desafio-ruta-40.json](./114792-dakar-series-desafio-ruta-40.json) |
 | Dakkan Shirei Majo Dungeon: Nushi to Tamenara Yaraneba Narumai | 222513 | [222513-dakkan-shirei-majo-dungeon-nushi-to-tamenara-yaraneba-narumai.json](./222513-dakkan-shirei-majo-dungeon-nushi-to-tamenara-yaraneba-narumai.json) |
+| Dakkoshite! Chimpanzee | 67358 | [67358-dakkoshite-chimpanzee.json](./67358-dakkoshite-chimpanzee.json) |
 | Dakota Winchester's Adventures 2 | 310557 | [310557-dakota-winchesters-adventures-2.json](./310557-dakota-winchesters-adventures-2.json) |
 | Dakota Winchester's Adventures 3 | 310558 | [310558-dakota-winchesters-adventures-3.json](./310558-dakota-winchesters-adventures-3.json) |
 | Daldzah | 277978 | [277978-daldzah.json](./277978-daldzah.json) |
@@ -1097,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date Z: Special Report Pack | 316202 | [316202-date-z-special-report-pack.json](./316202-date-z-special-report-pack.json) |
 | Date Z: TTRPG Enthusiast Pack | 316203 | [316203-date-z-ttrpg-enthusiast-pack.json](./316203-date-z-ttrpg-enthusiast-pack.json) |
 | Datenshi Kyouko Part 1 | 230207 | [230207-datenshi-kyouko-part-1.json](./230207-datenshi-kyouko-part-1.json) |
+| Datenshi no Amai Yuuwaku x Kaikan Phrase | 67350 | [67350-datenshi-no-amai-yuuwaku-x-kaikan-phrase.json](./67350-datenshi-no-amai-yuuwaku-x-kaikan-phrase.json) |
 | Dating and Dragons: A Love Quest | 351272 | [351272-dating-and-dragons-a-love-quest.json](./351272-dating-and-dragons-a-love-quest.json) |
 | Dating Maze | 401694 | [401694-dating-maze.json](./401694-dating-maze.json) |
 | Dating My High School Bully | 205817 | [205817-dating-my-high-school-bully.json](./205817-dating-my-high-school-bully.json) |
@@ -7969,6 +7972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DuoDuo | 234057 | [234057-duoduo.json](./234057-duoduo.json) |
 | Duolingo | 321884 | [321884-duolingo.json](./321884-duolingo.json) |
 | Duotrigordle | 228718 | [228718-duotrigordle.json](./228718-duotrigordle.json) |
+| Duotris | 67344 | [67344-duotris.json](./67344-duotris.json) |
 | DuoTris Online | 104120 | [104120-duotris-online.json](./104120-duotris-online.json) |
 | Duotron | 92474 | [92474-duotron.json](./92474-duotron.json) |
 | DuoXBall | 233242 | [233242-duoxball.json](./233242-duoxball.json) |
