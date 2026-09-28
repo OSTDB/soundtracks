@@ -3458,6 +3458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Castles | 305848 | [305848-rise-of-castles.json](./305848-rise-of-castles.json) |
 | Rise of Champions | 60495 | [60495-rise-of-champions.json](./60495-rise-of-champions.json) |
 | Rise of Chi | 384506 | [384506-rise-of-chi.json](./384506-rise-of-chi.json) |
+| Rise of Crustaceans | 102337 | [102337-rise-of-crustaceans.json](./102337-rise-of-crustaceans.json) |
 | Rise of Cyber | 237628 | [237628-rise-of-cyber.json](./237628-rise-of-cyber.json) |
 | Rise of Demons | 197326 | [197326-rise-of-demons.json](./197326-rise-of-demons.json) |
 | Rise of Dragonian Era | 19638 | [19638-rise-of-dragonian-era.json](./19638-rise-of-dragonian-era.json) |
