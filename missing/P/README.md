@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranoia 2: Savior | 123592 | [123592-paranoia-2-savior.json](./123592-paranoia-2-savior.json) |
 | Paranoia: Happiness is Mandatory | 117313 | [117313-paranoia-happiness-is-mandatory.json](./117313-paranoia-happiness-is-mandatory.json) |
 | Paranoiak | 208326 | [208326-paranoiak.json](./208326-paranoiak.json) |
+| Paranoid | 111861 | [111861-paranoid.json](./111861-paranoid.json) |
 | Paranoid | 172029 | [172029-paranoid.json](./172029-paranoid.json) |
 | Paranoid | 304700 | [304700-paranoid.json](./304700-paranoid.json) |
 | Paranoid! | 325673 | [325673-paranoid.json](./325673-paranoid.json) |
@@ -1210,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pasha Planet: Reborn | 234186 | [234186-pasha-planet-reborn.json](./234186-pasha-planet-reborn.json) |
 | Pashah to Henshin: Beauty Academy | 327622 | [327622-pashah-to-henshin-beauty-academy.json](./327622-pashah-to-henshin-beauty-academy.json) |
 | Pashtet | 113705 | [113705-pashtet.json](./113705-pashtet.json) |
+| Paska Battle Style! | 111885 | [111885-paska-battle-style.json](./111885-paska-battle-style.json) |
 | Paskal's Path | 213646 | [213646-paskals-path.json](./213646-paskals-path.json) |
 | Paso Comic PuruPuru Paradise: Santa Claus Tokushuu | 62213 | [62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json](./62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json) |
 | PASS | 360680 | [360680-pass.json](./360680-pass.json) |
@@ -2695,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Builder | 288850 | [288850-picture-builder.json](./288850-picture-builder.json) |
 | Picture Cross Color | 345132 | [345132-picture-cross-color.json](./345132-picture-cross-color.json) |
 | Picture Everything: Puzzle Cross Galaxy | 347914 | [347914-picture-everything-puzzle-cross-galaxy.json](./347914-picture-everything-puzzle-cross-galaxy.json) |
+| Picture Painting Puzzle 1000! | 111910 | [111910-picture-painting-puzzle-1000.json](./111910-picture-painting-puzzle-1000.json) |
 | Picture Party VR | 187541 | [187541-picture-party-vr.json](./187541-picture-party-vr.json) |
 | Picture Perfect Golf | 316767 | [316767-picture-perfect-golf.json](./316767-picture-perfect-golf.json) |
 | Picture Perfect: Hair Salon | 209965 | [209965-picture-perfect-hair-salon.json](./209965-picture-perfect-hair-salon.json) |
@@ -3371,6 +3374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Blocked! | 92491 | [92491-pixel-blocked.json](./92491-pixel-blocked.json) |
 | Pixel Boat Rush | 91110 | [91110-pixel-boat-rush.json](./91110-pixel-boat-rush.json) |
 | Pixel Bomb! Bomb!! | 30171 | [30171-pixel-bomb-bomb.json](./30171-pixel-bomb-bomb.json) |
+| Pixel Bombs | 111871 | [111871-pixel-bombs.json](./111871-pixel-bombs.json) |
 | Pixel Boy | 62783 | [62783-pixel-boy.json](./62783-pixel-boy.json) |
 | Pixel Boy 2: The Castle Revenge | 315090 | [315090-pixel-boy-2-the-castle-revenge.json](./315090-pixel-boy-2-the-castle-revenge.json) |
 | Pixel Boy and the Ever Expanding Dungeon | 16836 | [16836-pixel-boy-and-the-ever-expanding-dungeon.json](./16836-pixel-boy-and-the-ever-expanding-dungeon.json) |
@@ -5464,6 +5468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Apocalyptic Mayhem | 16229 | [16229-post-apocalyptic-mayhem.json](./16229-post-apocalyptic-mayhem.json) |
 | Post Cards | 142994 | [142994-post-cards.json](./142994-post-cards.json) |
 | Post Ghost | 307717 | [307717-post-ghost.json](./307717-post-ghost.json) |
+| Post Haste | 111881 | [111881-post-haste.json](./111881-post-haste.json) |
 | Post Hello | 118449 | [118449-post-hello.json](./118449-post-hello.json) |
 | Post Hero | 239923 | [239923-post-hero.json](./239923-post-hero.json) |
 | Post Impact | 395188 | [395188-post-impact.json](./395188-post-impact.json) |
