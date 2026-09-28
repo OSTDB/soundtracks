@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iblis3: Phenomena | 372013 | [372013-iblis3-phenomena.json](./372013-iblis3-phenomena.json) |
 | IBloxx | 359476 | [359476-ibloxx.json](./359476-ibloxx.json) |
 | IBM: Cityone, A Smarter Planet Game | 66626 | [66626-ibm-cityone-a-smarter-planet-game.json](./66626-ibm-cityone-a-smarter-planet-game.json) |
+| Ibn al-Nafis Visual Novel | 77260 | [77260-ibn-al-nafis-visual-novel.json](./77260-ibn-al-nafis-visual-novel.json) |
 | IBowl | 93983 | [93983-ibowl.json](./93983-ibowl.json) |
 | iBowl Deluxe | 197668 | [197668-ibowl-deluxe.json](./197668-ibowl-deluxe.json) |
 | Ibreak! | 103895 | [103895-ibreak.json](./103895-ibreak.json) |
@@ -524,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icey: Ucey's Awakening | 171943 | [171943-icey-uceys-awakening.json](./171943-icey-uceys-awakening.json) |
 | Ichido ha Yonde Okitai: Nihon Bungaku 100-sen | 269639 | [269639-ichido-ha-yonde-okitai-nihon-bungaku-100-sen.json](./269639-ichido-ha-yonde-okitai-nihon-bungaku-100-sen.json) |
 | Ichigeki: Hagane No Hito | 174632 | [174632-ichigeki-hagane-no-hito.json](./174632-ichigeki-hagane-no-hito.json) |
+| Ichigo 100%: Strawberry Diary | 77404 | [77404-ichigo-100-strawberry-diary.json](./77404-ichigo-100-strawberry-diary.json) |
 | Ichigo's Study Sessions | 361345 | [361345-ichigos-study-sessions.json](./361345-ichigos-study-sessions.json) |
 | Ichikoi | 412544 | [412544-ichikoi.json](./412544-ichikoi.json) |
 | Ichinichi | 262988 | [262988-ichinichi.json](./262988-ichinichi.json) |
