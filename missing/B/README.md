@@ -1721,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Ram | 132780 | [132780-battle-ram.json](./132780-battle-ram.json) |
 | Battle Raper | 22407 | [22407-battle-raper.json](./22407-battle-raper.json) |
 | Battle Raper II | 22418 | [22418-battle-raper-ii.json](./22418-battle-raper-ii.json) |
+| Battle Rappers Game Online | 115768 | [115768-battle-rappers-game-online.json](./115768-battle-rappers-game-online.json) |
 | Battle RC | 293135 | [293135-battle-rc.json](./293135-battle-rc.json) |
 | Battle Ready | 154413 | [154413-battle-ready.json](./154413-battle-ready.json) |
 | Battle Realms: Zen Edition | 137532 | [137532-battle-realms-zen-edition.json](./137532-battle-realms-zen-edition.json) |
@@ -5532,6 +5533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands: The Handsome Collection | 14548 | [14548-borderlands-the-handsome-collection.json](./14548-borderlands-the-handsome-collection.json) |
 | Borderlands: The Pre-Sequel - Handsome Jack Doppelganger | 186629 | [186629-borderlands-the-pre-sequel-handsome-jack-doppelganger.json](./186629-borderlands-the-pre-sequel-handsome-jack-doppelganger.json) |
 | Borderlands: The Pre-Sequel - Shock Drop Slaughter Pit | 13917 | [13917-borderlands-the-pre-sequel-shock-drop-slaughter-pit.json](./13917-borderlands-the-pre-sequel-shock-drop-slaughter-pit.json) |
+| Borderlight | 115808 | [115808-borderlight.json](./115808-borderlight.json) |
 | Borderline | 6101 | [6101-borderline.json](./6101-borderline.json) |
 | Borderline Homicide | 245788 | [245788-borderline-homicide.json](./245788-borderline-homicide.json) |
 | Borderline Project: Beta-2 | 184577 | [184577-borderline-project-beta-2.json](./184577-borderline-project-beta-2.json) |
