@@ -1311,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerea | 27794 | [27794-aerea.json](./27794-aerea.json) |
 | Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
 | Aerial Destruction | 26123 | [26123-aerial-destruction.json](./26123-aerial-destruction.json) |
+| Aerial Guardian | 104830 | [104830-aerial-guardian.json](./104830-aerial-guardian.json) |
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 1 | 270203 | [270203-aerial-nature-jigsaw-puzzles-expansion-pack-1.json](./270203-aerial-nature-jigsaw-puzzles-expansion-pack-1.json) |
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 2 | 270073 | [270073-aerial-nature-jigsaw-puzzles-expansion-pack-2.json](./270073-aerial-nature-jigsaw-puzzles-expansion-pack-2.json) |
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 4 | 270199 | [270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json](./270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json) |
