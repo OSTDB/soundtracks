@@ -317,6 +317,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: The Masquerade - Bloodlines 2 - Santa Monica Memories | 361901 | [361901-vampire-the-masquerade-bloodlines-2-santa-monica-memories.json](./361901-vampire-the-masquerade-bloodlines-2-santa-monica-memories.json) |
 | Vampire: The Masquerade - Bloodlines 2 - Shadows & Silk | 361902 | [361902-vampire-the-masquerade-bloodlines-2-shadows-and-silk.json](./361902-vampire-the-masquerade-bloodlines-2-shadows-and-silk.json) |
 | Vampire: The Masquerade - Bloodlines 2 - The Flower & the Flame | 370208 | [370208-vampire-the-masquerade-bloodlines-2-the-flower-and-the-flame.json](./370208-vampire-the-masquerade-bloodlines-2-the-flower-and-the-flame.json) |
+| Vampire: The Masquerade - Bloodlines 2 Blood Moon Edition | 117153 | [117153-vampire-the-masquerade-bloodlines-2-blood-moon-edition.json](./117153-vampire-the-masquerade-bloodlines-2-blood-moon-edition.json) |
+| Vampire: The Masquerade - Bloodlines 2 Unsanctioned Edition | 117152 | [117152-vampire-the-masquerade-bloodlines-2-unsanctioned-edition.json](./117152-vampire-the-masquerade-bloodlines-2-unsanctioned-edition.json) |
 | Vampire: The Masquerade - Bloodlines 2: Deluxe Edition | 370896 | [370896-vampire-the-masquerade-bloodlines-2-deluxe-edition.json](./370896-vampire-the-masquerade-bloodlines-2-deluxe-edition.json) |
 | Vampire: The Masquerade - Bloodlines 2: Premium Edition | 370897 | [370897-vampire-the-masquerade-bloodlines-2-premium-edition.json](./370897-vampire-the-masquerade-bloodlines-2-premium-edition.json) |
 | Vampire: The Masquerade - Coteries of New York & Shadows of New York | 146128 | [146128-vampire-the-masquerade-coteries-of-new-york-and-shadows-of-new-york.json](./146128-vampire-the-masquerade-coteries-of-new-york-and-shadows-of-new-york.json) |
@@ -557,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vellar | 405723 | [405723-vellar.json](./405723-vellar.json) |
 | Velldeselba Senki: Tsubasa no Kunshou | 140026 | [140026-velldeselba-senki-tsubasa-no-kunshou.json](./140026-velldeselba-senki-tsubasa-no-kunshou.json) |
 | Vellum | 273394 | [273394-vellum.json](./273394-vellum.json) |
+| VeLM | 117120 | [117120-velm.json](./117120-velm.json) |
 | Velo | 244347 | [244347-velo.json](./244347-velo.json) |
 | Velocibox | 15548 | [15548-velocibox.json](./15548-velocibox.json) |
 | Velocide Overdrive | 393501 | [393501-velocide-overdrive.json](./393501-velocide-overdrive.json) |
