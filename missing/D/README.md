@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Shadow | 237082 | [237082-dawn-of-shadow.json](./237082-dawn-of-shadow.json) |
 | Dawn of Survivor | 312140 | [312140-dawn-of-survivor.json](./312140-dawn-of-survivor.json) |
 | Dawn of the Breakers | 106972 | [106972-dawn-of-the-breakers.json](./106972-dawn-of-the-breakers.json) |
+| Dawn of the Celestialpod | 99159 | [99159-dawn-of-the-celestialpod.json](./99159-dawn-of-the-celestialpod.json) |
 | Dawn of the Dead | 262432 | [262432-dawn-of-the-dead.json](./262432-dawn-of-the-dead.json) |
 | Dawn of the Dead | 356149 | [356149-dawn-of-the-dead.json](./356149-dawn-of-the-dead.json) |
 | Dawn of the Dragons: Ascension | 117144 | [117144-dawn-of-the-dragons-ascension.json](./117144-dawn-of-the-dragons-ascension.json) |
@@ -2783,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depth | 11291 | [11291-depth.json](./11291-depth.json) |
 | Depth Ascend | 311644 | [311644-depth-ascend.json](./311644-depth-ascend.json) |
 | Depth Charge | 282718 | [282718-depth-charge.json](./282718-depth-charge.json) |
+| Depth Fantasia | 99155 | [99155-depth-fantasia.json](./99155-depth-fantasia.json) |
 | Depth Gun | 185024 | [185024-depth-gun.json](./185024-depth-gun.json) |
 | Depth Hunter 2: Ocean Mysteries | 167273 | [167273-depth-hunter-2-ocean-mysteries.json](./167273-depth-hunter-2-ocean-mysteries.json) |
 | Depth Hunter 2: Scuba Kids - Hidden Treasures | 167274 | [167274-depth-hunter-2-scuba-kids-hidden-treasures.json](./167274-depth-hunter-2-scuba-kids-hidden-treasures.json) |
@@ -3342,6 +3344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devils Wind Mine | 294156 | [294156-devils-wind-mine.json](./294156-devils-wind-mine.json) |
 | DevilShaft: TheTower | 116843 | [116843-devilshaft-thetower.json](./116843-devilshaft-thetower.json) |
 | Devinica | 253979 | [253979-devinica.json](./253979-devinica.json) |
+| Devious | 99156 | [99156-devious.json](./99156-devious.json) |
 | Devious Lick | 224502 | [224502-devious-lick.json](./224502-devious-lick.json) |
 | Devious Path | 317405 | [317405-devious-path.json](./317405-devious-path.json) |
 | Devoid | 377568 | [377568-devoid.json](./377568-devoid.json) |
@@ -3983,6 +3986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Multiplayer | 240922 | [240922-dinosaur-multiplayer.json](./240922-dinosaur-multiplayer.json) |
 | Dinosaur Museum | 378176 | [378176-dinosaur-museum.json](./378176-dinosaur-museum.json) |
 | Dinosaur Park | 56458 | [56458-dinosaur-park.json](./56458-dinosaur-park.json) |
+| Dinosaur Park Building Simulator 3D | 99136 | [99136-dinosaur-park-building-simulator-3d.json](./99136-dinosaur-park-building-simulator-3d.json) |
 | Dinosaur Puzzle | 222269 | [222269-dinosaur-puzzle.json](./222269-dinosaur-puzzle.json) |
 | Dinosaur Rampage - Trex | 87716 | [87716-dinosaur-rampage-trex.json](./87716-dinosaur-rampage-trex.json) |
 | Dinosaur Resurrection | 92988 | [92988-dinosaur-resurrection.json](./92988-dinosaur-resurrection.json) |
@@ -5649,6 +5653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Kareshi: We're 8bit Lovers! II - Tenku no Kissu | 206234 | [206234-dot-kareshi-were-8bit-lovers-ii-tenku-no-kissu.json](./206234-dot-kareshi-were-8bit-lovers-ii-tenku-no-kissu.json) |
 | Dot Kareshi: We're 8bit Lovers! III - Yami no Hanayome | 206232 | [206232-dot-kareshi-were-8bit-lovers-iii-yami-no-hanayome.json](./206232-dot-kareshi-were-8bit-lovers-iii-yami-no-hanayome.json) |
 | Dot Ninja | 179183 | [179183-dot-ninja.json](./179183-dot-ninja.json) |
+| Dot Pop! | 99184 | [99184-dot-pop.json](./99184-dot-pop.json) |
 | Dot Tanki | 222940 | [222940-dot-tanki.json](./222940-dot-tanki.json) |
 | Dot to Tot - Connect Alphabets | 88210 | [88210-dot-to-tot-connect-alphabets.json](./88210-dot-to-tot-connect-alphabets.json) |
 | Dot. | 94201 | [94201-dot.json](./94201-dot.json) |
@@ -6677,6 +6682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Warrior | 307899 | [307899-dream-warrior.json](./307899-dream-warrior.json) |
 | Dream Watcher | 142947 | [142947-dream-watcher.json](./142947-dream-watcher.json) |
 | Dream Wave'84 | 379870 | [379870-dream-wave84.json](./379870-dream-wave84.json) |
+| Dream Wedding Boutique | 99169 | [99169-dream-wedding-boutique.json](./99169-dream-wedding-boutique.json) |
 | Dream Well | 205104 | [205104-dream-well.json](./205104-dream-well.json) |
 | Dream Wires | 180240 | [180240-dream-wires.json](./180240-dream-wires.json) |
 | Dream: Land of Giants | 65775 | [65775-dream-land-of-giants.json](./65775-dream-land-of-giants.json) |
@@ -7403,6 +7409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumb Little Robots | 197150 | [197150-dumb-little-robots.json](./197150-dumb-little-robots.json) |
 | Dumb Roguelike-like RPG | 164517 | [164517-dumb-roguelike-like-rpg.json](./164517-dumb-roguelike-like-rpg.json) |
 | Dumb Ways to Die | 80659 | [80659-dumb-ways-to-die.json](./80659-dumb-ways-to-die.json) |
+| Dumb Ways to Die 3: World Tour | 99133 | [99133-dumb-ways-to-die-3-world-tour.json](./99133-dumb-ways-to-die-3-world-tour.json) |
 | Dumb Ways to Die 4 | 248649 | [248649-dumb-ways-to-die-4.json](./248649-dumb-ways-to-die-4.json) |
 | Dumb Ways to Draw | 231864 | [231864-dumb-ways-to-draw.json](./231864-dumb-ways-to-draw.json) |
 | Dumb Ways to Draw 2 | 231861 | [231861-dumb-ways-to-draw-2.json](./231861-dumb-ways-to-draw-2.json) |
