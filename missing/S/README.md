@@ -5537,6 +5537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyweaver | 123039 | [123039-skyweaver.json](./123039-skyweaver.json) |
 | Skywire | 116128 | [116128-skywire.json](./116128-skywire.json) |
 | Skywire 2 | 280333 | [280333-skywire-2.json](./280333-skywire-2.json) |
+| Skywriter | 108073 | [108073-skywriter.json](./108073-skywriter.json) |
 | Slab | 98708 | [98708-slab.json](./98708-slab.json) |
 | Slackers: Carts of Glory | 293685 | [293685-slackers-carts-of-glory.json](./293685-slackers-carts-of-glory.json) |
 | Slag | 253336 | [253336-slag.json](./253336-slag.json) |
@@ -8030,6 +8031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul of War: Legions | 263992 | [263992-soul-of-war-legions.json](./263992-soul-of-war-legions.json) |
 | Soul Passage | 236542 | [236542-soul-passage.json](./236542-soul-passage.json) |
 | Soul Reaper | 128464 | [128464-soul-reaper.json](./128464-soul-reaper.json) |
+| Soul Rebellion | 108071 | [108071-soul-rebellion.json](./108071-soul-rebellion.json) |
 | Soul Recursion | 172183 | [172183-soul-recursion.json](./172183-soul-recursion.json) |
 | Soul Redemption | 369065 | [369065-soul-redemption.json](./369065-soul-redemption.json) |
 | Soul Ride | 70976 | [70976-soul-ride.json](./70976-soul-ride.json) |
@@ -8232,6 +8234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sowon : The Toy Wonderland | 298579 | [298579-sowon-the-toy-wonderland.json](./298579-sowon-the-toy-wonderland.json) |
 | SP-Light | 291452 | [291452-sp-light.json](./291452-sp-light.json) |
 | Sp:In | 242788 | [242788-sp-in.json](./242788-sp-in.json) |
+| Sp!te | 108070 | [108070-sp-te.json](./108070-sp-te.json) |
 | Spaaace! | 179052 | [179052-spaaace.json](./179052-spaaace.json) |
 | Spac Cop, Sereth | 97843 | [97843-spac-cop-sereth.json](./97843-spac-cop-sereth.json) |
 | Space | 213452 | [213452-space.json](./213452-space.json) |
@@ -8941,6 +8944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Sampler | 55925 | [55925-special-sampler.json](./55925-special-sampler.json) |
 | Special Tee Shot | 60587 | [60587-special-tee-shot.json](./60587-special-tee-shot.json) |
 | Special Transport Simulator 2013 | 54384 | [54384-special-transport-simulator-2013.json](./54384-special-transport-simulator-2013.json) |
+| Special Warfare | 108075 | [108075-special-warfare.json](./108075-special-warfare.json) |
 | Species: Artificial Life, Real Evolution | 57787 | [57787-species-artificial-life-real-evolution.json](./57787-species-artificial-life-real-evolution.json) |
 | Specimen #08 | 262963 | [262963-specimen-08.json](./262963-specimen-08.json) |
 | Specimen #14 | 263006 | [263006-specimen-14.json](./263006-specimen-14.json) |
@@ -14779,6 +14783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor Girls | 277367 | [277367-survivor-girls.json](./277367-survivor-girls.json) |
 | Survivor Heroes | 313222 | [313222-survivor-heroes.json](./313222-survivor-heroes.json) |
 | Survivor Idle Run | 248124 | [248124-survivor-idle-run.json](./248124-survivor-idle-run.json) |
+| Survivor in Summer | 108059 | [108059-survivor-in-summer.json](./108059-survivor-in-summer.json) |
 | Survivor Master-Sifu | 293152 | [293152-survivor-master-sifu.json](./293152-survivor-master-sifu.json) |
 | Survivor of the Journey | 210892 | [210892-survivor-of-the-journey.json](./210892-survivor-of-the-journey.json) |
 | Survivor Squad: Gauntlets | 36186 | [36186-survivor-squad-gauntlets.json](./36186-survivor-squad-gauntlets.json) |
@@ -14897,6 +14902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swamp Gas Visits the United States of America | 65517 | [65517-swamp-gas-visits-the-united-states-of-america.json](./65517-swamp-gas-visits-the-united-states-of-america.json) |
 | Swamp Hunt | 208347 | [208347-swamp-hunt.json](./208347-swamp-hunt.json) |
 | Swamp Hunter | 311578 | [311578-swamp-hunter.json](./311578-swamp-hunter.json) |
+| Swamp Jump | 108035 | [108035-swamp-jump.json](./108035-swamp-jump.json) |
 | Swamp People | 62437 | [62437-swamp-people.json](./62437-swamp-people.json) |
 | Swamp Sim | 345586 | [345586-swamp-sim.json](./345586-swamp-sim.json) |
 | Swamp Thing | 198935 | [198935-swamp-thing.json](./198935-swamp-thing.json) |
