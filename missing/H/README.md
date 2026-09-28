@@ -1762,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Trigger | 253440 | [253440-hell-trigger.json](./253440-hell-trigger.json) |
 | Hell University | 264140 | [264140-hell-university.json](./264140-hell-university.json) |
 | Hell Warriors | 127380 | [127380-hell-warriors.json](./127380-hell-warriors.json) |
+| Hell Wedding | 114502 | [114502-hell-wedding.json](./114502-hell-wedding.json) |
 | Hell Yeah Simulator | 326405 | [326405-hell-yeah-simulator.json](./326405-hell-yeah-simulator.json) |
 | Hell Yeah! Pocket Inferno | 78672 | [78672-hell-yeah-pocket-inferno.json](./78672-hell-yeah-pocket-inferno.json) |
 | Hell Yeah! Virtual Rabbit: Missions | 174135 | [174135-hell-yeah-virtual-rabbit-missions.json](./174135-hell-yeah-virtual-rabbit-missions.json) |
@@ -2602,6 +2603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Strike | 165555 | [165555-heroes-strike.json](./165555-heroes-strike.json) |
 | Heroes Tactics | 37054 | [37054-heroes-tactics.json](./37054-heroes-tactics.json) |
 | Heroes Together VR | 380567 | [380567-heroes-together-vr.json](./380567-heroes-together-vr.json) |
+| Heroes Trials | 114505 | [114505-heroes-trials.json](./114505-heroes-trials.json) |
 | Heroes Unhinged | 343356 | [343356-heroes-unhinged.json](./343356-heroes-unhinged.json) |
 | Heroes United | 327209 | [327209-heroes-united.json](./327209-heroes-united.json) |
 | Heroes Unleashed | 193875 | [193875-heroes-unleashed.json](./193875-heroes-unleashed.json) |
