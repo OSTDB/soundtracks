@@ -992,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elephant Preschool Playtime | 108595 | [108595-elephant-preschool-playtime.json](./108595-elephant-preschool-playtime.json) |
 | Elephant Rave | 276834 | [276834-elephant-rave.json](./276834-elephant-rave.json) |
 | Elephantasy: Flipside | 235706 | [235706-elephantasy-flipside.json](./235706-elephantasy-flipside.json) |
+| Elepong | 69367 | [69367-elepong.json](./69367-elepong.json) |
 | Elerena | 153855 | [153855-elerena.json](./153855-elerena.json) |
 | Elestrals | 261897 | [261897-elestrals.json](./261897-elestrals.json) |
 | Elestrals Awakened | 376549 | [376549-elestrals-awakened.json](./376549-elestrals-awakened.json) |
