@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacuum Cleaner Robot Simulator: Pile Sos Edition | 369591 | [369591-vacuum-cleaner-robot-simulator-pile-sos-edition.json](./369591-vacuum-cleaner-robot-simulator-pile-sos-edition.json) |
 | Vacuum Pilot | 160254 | [160254-vacuum-pilot.json](./160254-vacuum-pilot.json) |
 | Vacuum Story | 204537 | [204537-vacuum-story.json](./204537-vacuum-story.json) |
+| Vacuumania | 94334 | [94334-vacuumania.json](./94334-vacuumania.json) |
 | Vade Retro: Exorcist | 216492 | [216492-vade-retro-exorcist.json](./216492-vade-retro-exorcist.json) |
 | Vader Immortal: A Star Wars VR Series | 125987 | [125987-vader-immortal-a-star-wars-vr-series.json](./125987-vader-immortal-a-star-wars-vr-series.json) |
 | Vader Immortal: Lightsaber Dojo - A Star Wars VR Experience | 150053 | [150053-vader-immortal-lightsaber-dojo-a-star-wars-vr-experience.json](./150053-vader-immortal-lightsaber-dojo-a-star-wars-vr-experience.json) |
@@ -222,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyria Revolution: Scenario Pack - The Circle of Five | 138816 | [138816-valkyria-revolution-scenario-pack-the-circle-of-five.json](./138816-valkyria-revolution-scenario-pack-the-circle-of-five.json) |
 | Valkyria Revolution: Vanargand Edition | 132180 | [132180-valkyria-revolution-vanargand-edition.json](./132180-valkyria-revolution-vanargand-edition.json) |
 | Valkyria Soul | 200145 | [200145-valkyria-soul.json](./200145-valkyria-soul.json) |
+| Valkyrie | 94342 | [94342-valkyrie.json](./94342-valkyrie.json) |
 | Valkyrie Blade VR | 28891 | [28891-valkyrie-blade-vr.json](./28891-valkyrie-blade-vr.json) |
 | Valkyrie Champions | 215675 | [215675-valkyrie-champions.json](./215675-valkyrie-champions.json) |
 | Valkyrie Drive: Bhikkhuni - Bikini Party Edition | 379957 | [379957-valkyrie-drive-bhikkhuni-bikini-party-edition.json](./379957-valkyrie-drive-bhikkhuni-bikini-party-edition.json) |
@@ -1110,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Cell | 63000 | [63000-virtual-cell.json](./63000-virtual-cell.json) |
 | Virtual Chess | 351645 | [351645-virtual-chess.json](./351645-virtual-chess.json) |
 | Virtual Chess 3 | 206059 | [206059-virtual-chess-3.json](./206059-virtual-chess-3.json) |
+| Virtual Corporation | 94354 | [94354-virtual-corporation.json](./94354-virtual-corporation.json) |
 | Virtual country: Yuan fairy summon | 201668 | [201668-virtual-country-yuan-fairy-summon.json](./201668-virtual-country-yuan-fairy-summon.json) |
 | Virtual Deep Sea Fishing | 206060 | [206060-virtual-deep-sea-fishing.json](./206060-virtual-deep-sea-fishing.json) |
 | Virtual Dodgeball | 231517 | [231517-virtual-dodgeball.json](./231517-virtual-dodgeball.json) |
