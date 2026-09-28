@@ -1871,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peppa Pig: Laptop Infantil | 297771 | [297771-peppa-pig-laptop-infantil.json](./297771-peppa-pig-laptop-infantil.json) |
 | Peppa Pig: Seasons | 86879 | [86879-peppa-pig-seasons.json](./86879-peppa-pig-seasons.json) |
 | Peppa Pig: The Game | 256219 | [256219-peppa-pig-the-game.json](./256219-peppa-pig-the-game.json) |
+| Peppa Pig: The New House | 116405 | [116405-peppa-pig-the-new-house.json](./116405-peppa-pig-the-new-house.json) |
 | Pepper Girl | 226191 | [226191-pepper-girl.json](./226191-pepper-girl.json) |
 | Pepper Pengui | 363046 | [363046-pepper-pengui.json](./363046-pepper-pengui.json) |
 | Pepper Rush | 382890 | [382890-pepper-rush.json](./382890-pepper-rush.json) |
@@ -4347,6 +4348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Farmer | 350073 | [350073-pocket-farmer.json](./350073-pocket-farmer.json) |
 | Pocket Farmery: Idle Pop Farm | 256356 | [256356-pocket-farmery-idle-pop-farm.json](./256356-pocket-farmery-idle-pop-farm.json) |
 | Pocket Fish | 67942 | [67942-pocket-fish.json](./67942-pocket-fish.json) |
+| Pocket Galaxy | 116454 | [116454-pocket-galaxy.json](./116454-pocket-galaxy.json) |
 | Pocket Garden | 367505 | [367505-pocket-garden.json](./367505-pocket-garden.json) |
 | Pocket Hero-Wars of Mini Tanks | 105906 | [105906-pocket-hero-wars-of-mini-tanks.json](./105906-pocket-hero-wars-of-mini-tanks.json) |
 | Pocket Hockey | 324520 | [324520-pocket-hockey.json](./324520-pocket-hockey.json) |
