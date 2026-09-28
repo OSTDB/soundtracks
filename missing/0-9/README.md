@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Hopper | 327387 | [327387-3d-hopper.json](./327387-3d-hopper.json) |
 | 3D Joys | 205073 | [205073-3d-joys.json](./205073-3d-joys.json) |
 | 3D Kaleidoscope: Baby Universe | 143644 | [143644-3d-kaleidoscope-baby-universe.json](./143644-3d-kaleidoscope-baby-universe.json) |
+| 3D Magic Chess HD | 90089 | [90089-3d-magic-chess-hd.json](./90089-3d-magic-chess-hd.json) |
 | 3D Mahjong + Janpai Tori | 269319 | [269319-3d-mahjong-janpai-tori.json](./269319-3d-mahjong-janpai-tori.json) |
 | 3D Mahjong Deluxe | 338903 | [338903-3d-mahjong-deluxe.json](./338903-3d-mahjong-deluxe.json) |
 | 3D Mine Storm | 41982 | [41982-3d-mine-storm.json](./41982-3d-mine-storm.json) |
@@ -1071,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5200 Menu | 93539 | [93539-5200-menu.json](./93539-5200-menu.json) |
 | 52Beatup | 261834 | [261834-52beatup.json](./261834-52beatup.json) |
 | 555! | 241328 | [241328-555.json](./241328-555.json) |
+| 57° North for Merge Cube | 90141 | [90141-57-north-for-merge-cube.json](./90141-57-north-for-merge-cube.json) |
 | 5D Chess With Multiverse Time Travel Chatting | 411803 | [411803-5d-chess-with-multiverse-time-travel-chatting.json](./411803-5d-chess-with-multiverse-time-travel-chatting.json) |
 | 5D Diplomacy with Multiverse Time Travel | 330835 | [330835-5d-diplomacy-with-multiverse-time-travel.json](./330835-5d-diplomacy-with-multiverse-time-travel.json) |
 | 5G VR Football | 191163 | [191163-5g-vr-football.json](./191163-5g-vr-football.json) |
