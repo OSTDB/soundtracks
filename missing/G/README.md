@@ -2628,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gogte | 188523 | [188523-gogte.json](./188523-gogte.json) |
 | Gohan Quest | 96103 | [96103-gohan-quest.json](./96103-gohan-quest.json) |
 | GoHome | 259599 | [259599-gohome.json](./259599-gohome.json) |
+| Gohorobo | 90122 | [90122-gohorobo.json](./90122-gohorobo.json) |
 | Goi: Let's Play Together | 235995 | [235995-goi-lets-play-together.json](./235995-goi-lets-play-together.json) |
 | Goiken Muyou: Anarchy in the Nippon | 45528 | [45528-goiken-muyou-anarchy-in-the-nippon.json](./45528-goiken-muyou-anarchy-in-the-nippon.json) |
 | Goime 500 | 56535 | [56535-goime-500.json](./56535-goime-500.json) |
@@ -3329,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Soul Saga | 292629 | [292629-grand-soul-saga.json](./292629-grand-soul-saga.json) |
 | Grand Story | 182554 | [182554-grand-story.json](./182554-grand-story.json) |
 | Grand Strokers | 240911 | [240911-grand-strokers.json](./240911-grand-strokers.json) |
+| Grand Summoners | 90072 | [90072-grand-summoners.json](./90072-grand-summoners.json) |
 | Grand Tactician: The Civil War (1861-1865) | 106575 | [106575-grand-tactician-the-civil-war-1861-1865.json](./106575-grand-tactician-the-civil-war-1861-1865.json) |
 | Grand Taxi Auto | 329571 | [329571-grand-taxi-auto.json](./329571-grand-taxi-auto.json) |
 | Grand Theft Auto | 44870 | [44870-grand-theft-auto.json](./44870-grand-theft-auto.json) |
