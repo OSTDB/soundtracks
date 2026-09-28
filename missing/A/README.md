@@ -2349,6 +2349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alexios the Protector | 235463 | [235463-alexios-the-protector.json](./235463-alexios-the-protector.json) |
 | Alexis Arc: Heroes of the Three Kingdoms | 138195 | [138195-alexis-arc-heroes-of-the-three-kingdoms.json](./138195-alexis-arc-heroes-of-the-three-kingdoms.json) |
 | Aleya's Ascent | 142840 | [142840-aleyas-ascent.json](./142840-aleyas-ascent.json) |
+| Alf | 65580 | [65580-alf.json](./65580-alf.json) |
 | ALF: The First Adventure | 12249 | [12249-alf-the-first-adventure.json](./12249-alf-the-first-adventure.json) |
 | ALF's Thinking Skills | 78720 | [78720-alfs-thinking-skills.json](./78720-alfs-thinking-skills.json) |
 | ALF's U.S. Geography | 94247 | [94247-alfs-u-s-geography.json](./94247-alfs-u-s-geography.json) |
