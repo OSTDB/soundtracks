@@ -3822,6 +3822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Legends: Trapped In Mirror - Collector's Edition | 212835 | [212835-city-legends-trapped-in-mirror-collectors-edition.json](./212835-city-legends-trapped-in-mirror-collectors-edition.json) |
 | City Life: World Edition | 206347 | [206347-city-life-world-edition.json](./206347-city-life-world-edition.json) |
 | City Limits | 208438 | [208438-city-limits.json](./208438-city-limits.json) |
+| City Living: Urban Stories | 106746 | [106746-city-living-urban-stories.json](./106746-city-living-urban-stories.json) |
 | City Mage 3: False Prophecy - Collector's Edition | 417520 | [417520-city-mage-3-false-prophecy-collectors-edition.json](./417520-city-mage-3-false-prophecy-collectors-edition.json) |
 | City Maker | 144220 | [144220-city-maker.json](./144220-city-maker.json) |
 | City Night Rider | 101505 | [101505-city-night-rider.json](./101505-city-night-rider.json) |
@@ -4938,6 +4939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Slayer | 121012 | [121012-color-slayer.json](./121012-color-slayer.json) |
 | Color SlayerS | 214500 | [214500-color-slayers.json](./214500-color-slayers.json) |
 | Color Slots | 190446 | [190446-color-slots.json](./190446-color-slots.json) |
+| Color Snake | 106752 | [106752-color-snake.json](./106752-color-snake.json) |
 | Color Soul: Memories | 124229 | [124229-color-soul-memories.json](./124229-color-soul-memories.json) |
 | Color Souls | 167604 | [167604-color-souls.json](./167604-color-souls.json) |
 | Color Splash: Dinosaurs | 291082 | [291082-color-splash-dinosaurs.json](./291082-color-splash-dinosaurs.json) |
@@ -6199,6 +6201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Fantasy Collection | 269306 | [269306-cosmic-fantasy-collection.json](./269306-cosmic-fantasy-collection.json) |
 | Cosmic Fantasy: Bouken Shounen Yuu | 42005 | [42005-cosmic-fantasy-bouken-shounen-yuu.json](./42005-cosmic-fantasy-bouken-shounen-yuu.json) |
 | Cosmic Fear | 340029 | [340029-cosmic-fear.json](./340029-cosmic-fear.json) |
+| Cosmic Gravity | 106755 | [106755-cosmic-gravity.json](./106755-cosmic-gravity.json) |
 | Cosmic Gunslinger: Alien Outlaws | 274572 | [274572-cosmic-gunslinger-alien-outlaws.json](./274572-cosmic-gunslinger-alien-outlaws.json) |
 | Cosmic High Schooler | 358510 | [358510-cosmic-high-schooler.json](./358510-cosmic-high-schooler.json) |
 | Cosmic Highway | 63834 | [63834-cosmic-highway.json](./63834-cosmic-highway.json) |
