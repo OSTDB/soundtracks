@@ -2379,6 +2379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Three Fun | 99144 | [99144-match-three-fun.json](./99144-match-three-fun.json) |
 | Match Tree | 282693 | [282693-match-tree.json](./282693-match-tree.json) |
 | Match Up | 81405 | [81405-match-up.json](./81405-match-up.json) |
+| Match Up! | 85618 | [85618-match-up.json](./85618-match-up.json) |
 | Match Ventures 2 | 234628 | [234628-match-ventures-2.json](./234628-match-ventures-2.json) |
 | Match Village | 217372 | [217372-match-village.json](./217372-match-village.json) |
 | Match War | 258710 | [258710-match-war.json](./258710-match-war.json) |
@@ -6602,6 +6603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Clicker : Idle Halloween Strategy | 111862 | [111862-monster-clicker-idle-halloween-strategy.json](./111862-monster-clicker-idle-halloween-strategy.json) |
 | Monster Club | 185144 | [185144-monster-club.json](./185144-monster-club.json) |
 | Monster Collector | 143647 | [143647-monster-collector.json](./143647-monster-collector.json) |
+| Monster Combine TD | 85615 | [85615-monster-combine-td.json](./85615-monster-combine-td.json) |
 | Monster Commanders | 310720 | [310720-monster-commanders.json](./310720-monster-commanders.json) |
 | Monster Desert | 233458 | [233458-monster-desert.json](./233458-monster-desert.json) |
 | Monster Dungeon | 192666 | [192666-monster-dungeon.json](./192666-monster-dungeon.json) |
@@ -6706,6 +6708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Thea: Canyne Ward | 378874 | [378874-monster-hunter-stories-3-twisted-reflection-layered-armor-for-thea-canyne-ward.json](./378874-monster-hunter-stories-3-twisted-reflection-layered-armor-for-thea-canyne-ward.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Rudy's Outfit: Relaxed-acabra | 378872 | [378872-monster-hunter-stories-3-twisted-reflection-rudys-outfit-relaxed-acabra.json](./378872-monster-hunter-stories-3-twisted-reflection-rudys-outfit-relaxed-acabra.json) |
 | Monster Hunter Stories Collection | 292151 | [292151-monster-hunter-stories-collection.json](./292151-monster-hunter-stories-collection.json) |
+| Monster Hunter Tri G | 85616 | [85616-monster-hunter-tri-g.json](./85616-monster-hunter-tri-g.json) |
 | Monster Hunter Tri: Classic Controller Pro Pack | 78629 | [78629-monster-hunter-tri-classic-controller-pro-pack.json](./78629-monster-hunter-tri-classic-controller-pro-pack.json) |
 | Monster Hunter Tri: Special Pack | 78630 | [78630-monster-hunter-tri-special-pack.json](./78630-monster-hunter-tri-special-pack.json) |
 | Monster Hunter Wilds: Alma Outfit - Autumn Witch | 412290 | [412290-monster-hunter-wilds-alma-outfit-autumn-witch.json](./412290-monster-hunter-wilds-alma-outfit-autumn-witch.json) |
@@ -8569,6 +8572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Faithful and Loyal Wife Would Never Cheat on Me | 278413 | [278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json](./278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json) |
 | My Fake Boyfriend | 299457 | [299457-my-fake-boyfriend.json](./299457-my-fake-boyfriend.json) |
 | My Farm | 107900 | [107900-my-farm.json](./107900-my-farm.json) |
+| My Farm | 85610 | [85610-my-farm.json](./85610-my-farm.json) |
 | My Father My Son | 188684 | [188684-my-father-my-son.json](./188684-my-father-my-son.json) |
 | My Favorite Dream Girls | 401695 | [401695-my-favorite-dream-girls.json](./401695-my-favorite-dream-girls.json) |
 | My Favorite Match | 179510 | [179510-my-favorite-match.json](./179510-my-favorite-match.json) |
@@ -9094,6 +9098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Puzzles Collection: Nemezis, Schizm, Reah | 159686 | [159686-mysterious-puzzles-collection-nemezis-schizm-reah.json](./159686-mysterious-puzzles-collection-nemezis-schizm-reah.json) |
 | Mysterious Retro Games Bundle | 231076 | [231076-mysterious-retro-games-bundle.json](./231076-mysterious-retro-games-bundle.json) |
 | Mysterious School | 212812 | [212812-mysterious-school.json](./212812-mysterious-school.json) |
+| Mysterious Stars 3D: A Fairy Tale | 85609 | [85609-mysterious-stars-3d-a-fairy-tale.json](./85609-mysterious-stars-3d-a-fairy-tale.json) |
 | Mysterious Unnamed Space Game | 184092 | [184092-mysterious-unnamed-space-game.json](./184092-mysterious-unnamed-space-game.json) |
 | Mysterious Voyage: Set sail | 303069 | [303069-mysterious-voyage-set-sail.json](./303069-mysterious-voyage-set-sail.json) |
 | Mysterious warrior | 165679 | [165679-mysterious-warrior.json](./165679-mysterious-warrior.json) |
