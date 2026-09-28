@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baia | 334498 | [334498-baia.json](./334498-baia.json) |
 | Baikinman wo Yattsukero! | 300006 | [300006-baikinman-wo-yattsukero.json](./300006-baikinman-wo-yattsukero.json) |
 | Baiko | 99429 | [99429-baiko.json](./99429-baiko.json) |
+| Baikoh: Word Challenges | 87587 | [87587-baikoh-word-challenges.json](./87587-baikoh-word-challenges.json) |
 | Bail Force: Cyberpunk Bounty Hunters | 249181 | [249181-bail-force-cyberpunk-bounty-hunters.json](./249181-bail-force-cyberpunk-bounty-hunters.json) |
 | Bail or Jail: Character DLC Bundle 2 | 255141 | [255141-bail-or-jail-character-dlc-bundle-2.json](./255141-bail-or-jail-character-dlc-bundle-2.json) |
 | Baimason's Thing Finder Puzzle | 293612 | [293612-baimasons-thing-finder-puzzle.json](./293612-baimasons-thing-finder-puzzle.json) |
@@ -3078,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Ball Sports | 275876 | [275876-big-ball-sports.json](./275876-big-ball-sports.json) |
 | Big Bang Billiards | 75819 | [75819-big-bang-billiards.json](./75819-big-bang-billiards.json) |
 | Big Bang Board Games | 78654 | [78654-big-bang-board-games.json](./78654-big-bang-board-games.json) |
+| Big Bang Pictures | 87616 | [87616-big-bang-pictures.json](./87616-big-bang-pictures.json) |
 | Big Bang Pro Wrestling | 43972 | [43972-big-bang-pro-wrestling.json](./43972-big-bang-pro-wrestling.json) |
 | Big Bang Show | 45943 | [45943-big-bang-show.json](./45943-big-bang-show.json) |
 | Big Bash Boom | 112895 | [112895-big-bash-boom.json](./112895-big-bash-boom.json) |
@@ -4473,6 +4475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block-a-Pix Color | 102329 | [102329-block-a-pix-color.json](./102329-block-a-pix-color.json) |
 | Block-O-Mania | 57090 | [57090-block-o-mania.json](./57090-block-o-mania.json) |
 | Block;Shift | 293103 | [293103-block-shift.json](./293103-block-shift.json) |
+| Block: Puzzle Game | 87543 | [87543-block-puzzle-game.json](./87543-block-puzzle-game.json) |
 | Block! Hexa Puzzle | 88914 | [88914-block-hexa-puzzle.json](./88914-block-hexa-puzzle.json) |
 | Block! Triangle Puzzle: Tangram | 106633 | [106633-block-triangle-puzzle-tangram.json](./106633-block-triangle-puzzle-tangram.json) |
 | Block'D | 273978 | [273978-blockd.json](./273978-blockd.json) |
