@@ -2880,6 +2880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hibernation | 339638 | [339638-hibernation.json](./339638-hibernation.json) |
 | Hibernation Day | 247772 | [247772-hibernation-day.json](./247772-hibernation-day.json) |
 | Hibernia | 185084 | [185084-hibernia.json](./185084-hibernia.json) |
+| Hibikake Iro no Kiseki | 76701 | [76701-hibikake-iro-no-kiseki.json](./76701-hibikake-iro-no-kiseki.json) |
 | Hibiscus Red: Part 2 | 171933 | [171933-hibiscus-red-part-2.json](./171933-hibiscus-red-part-2.json) |
 | Hibow | 158210 | [158210-hibow.json](./158210-hibow.json) |
 | Hibridya | 371274 | [371274-hibridya.json](./371274-hibridya.json) |
@@ -3945,6 +3946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Alone Survival | 365062 | [365062-home-alone-survival.json](./365062-home-alone-survival.json) |
 | Home Babysitter | 83265 | [83265-home-babysitter.json](./83265-home-babysitter.json) |
 | Home Before Dark | 183360 | [183360-home-before-dark.json](./183360-home-before-dark.json) |
+| Home Darkness: Escape | 76710 | [76710-home-darkness-escape.json](./76710-home-darkness-escape.json) |
 | Home Deco Builder | 334096 | [334096-home-deco-builder.json](./334096-home-deco-builder.json) |
 | Home Defender | 278538 | [278538-home-defender.json](./278538-home-defender.json) |
 | Home Design Makeover! | 90416 | [90416-home-design-makeover.json](./90416-home-design-makeover.json) |
