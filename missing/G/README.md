@@ -3619,6 +3619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graywalkers: Purgatory | 61562 | [61562-graywalkers-purgatory.json](./61562-graywalkers-purgatory.json) |
 | Graze Counter | 44163 | [44163-graze-counter.json](./44163-graze-counter.json) |
 | Graze Counter GM | 211893 | [211893-graze-counter-gm.json](./211893-graze-counter-gm.json) |
+| GRE Math Puzzles - GRE Logical Reasoning | 104264 | [104264-gre-math-puzzles-gre-logical-reasoning.json](./104264-gre-math-puzzles-gre-logical-reasoning.json) |
 | GRE Words Puzzle | 110300 | [110300-gre-words-puzzle.json](./110300-gre-words-puzzle.json) |
 | Greak 2: Alliance of the Storms | 415149 | [415149-greak-2-alliance-of-the-storms.json](./415149-greak-2-alliance-of-the-storms.json) |
 | Greak: Memories of Azur | 122126 | [122126-greak-memories-of-azur.json](./122126-greak-memories-of-azur.json) |
@@ -4410,6 +4411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GuitarFreaks 4thMix & DrumMania 3rdMix | 188659 | [188659-guitarfreaks-4thmix-and-drummania-3rdmix.json](./188659-guitarfreaks-4thmix-and-drummania-3rdmix.json) |
 | GuitarFreaks 5thMix & DrumMania 4thMix | 97123 | [97123-guitarfreaks-5thmix-and-drummania-4thmix.json](./97123-guitarfreaks-5thmix-and-drummania-4thmix.json) |
 | GuitarFreaks 6thMix | 97121 | [97121-guitarfreaks-6thmix.json](./97121-guitarfreaks-6thmix.json) |
+| GuitarFreaks 7thMix | 104225 | [104225-guitarfreaks-7thmix.json](./104225-guitarfreaks-7thmix.json) |
 | GuitarFreaks V & DrumMania V | 78691 | [78691-guitarfreaks-v-and-drummania-v.json](./78691-guitarfreaks-v-and-drummania-v.json) |
 | GuitarFreaks V7 & DrumMania V7 | 383024 | [383024-guitarfreaks-v7-and-drummania-v7.json](./383024-guitarfreaks-v7-and-drummania-v7.json) |
 | Guītú | 156699 | [156699-guitu.json](./156699-guitu.json) |
