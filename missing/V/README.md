@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V Life | 395536 | [395536-v-life.json](./395536-v-life.json) |
 | V Lights | 216498 | [216498-v-lights.json](./216498-v-lights.json) |
 | V pod''ezde | 116844 | [116844-v-podezde.json](./116844-v-podezde.json) |
+| V poiskakh Atlantidy | 111215 | [111215-v-poiskakh-atlantidy.json](./111215-v-poiskakh-atlantidy.json) |
 | V Rising | 148228 | [148228-v-rising.json](./148228-v-rising.json) |
 | V Rising: Founder's Pack - Eldest Bloodline | 297468 | [297468-v-rising-founders-pack-eldest-bloodline.json](./297468-v-rising-founders-pack-eldest-bloodline.json) |
 | V Rising: Invaders of Oakvale | 339621 | [339621-v-rising-invaders-of-oakvale.json](./339621-v-rising-invaders-of-oakvale.json) |
