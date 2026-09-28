@@ -1699,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Plane Crash | 156676 | [156676-vr-plane-crash.json](./156676-vr-plane-crash.json) |
 | VR Pong | 196035 | [196035-vr-pong.json](./196035-vr-pong.json) |
 | VR Prison Showdown：rookie Guard Rumble | 364063 | [364063-vr-prison-showdown-rookie-guard-rumble.json](./364063-vr-prison-showdown-rookie-guard-rumble.json) |
+| VR Racket Ball | 68770 | [68770-vr-racket-ball.json](./68770-vr-racket-ball.json) |
 | VR Rescue of Girls | 160253 | [160253-vr-rescue-of-girls.json](./160253-vr-rescue-of-girls.json) |
 | VR Retro Snake on Girls | 163292 | [163292-vr-retro-snake-on-girls.json](./163292-vr-retro-snake-on-girls.json) |
 | VR Rhythm Action Seiya | 76522 | [76522-vr-rhythm-action-seiya.json](./76522-vr-rhythm-action-seiya.json) |
