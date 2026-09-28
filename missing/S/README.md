@@ -1186,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scallion RPG | 315710 | [315710-scallion-rpg.json](./315710-scallion-rpg.json) |
 | Scam Artist | 413774 | [413774-scam-artist.json](./413774-scam-artist.json) |
 | Scam Line | 379595 | [379595-scam-line.json](./379595-scam-line.json) |
+| Scamperghost | 62241 | [62241-scamperghost.json](./62241-scamperghost.json) |
 | Scampr | 152788 | [152788-scampr.json](./152788-scampr.json) |
 | Scamster Kombat | 366931 | [366931-scamster-kombat.json](./366931-scamster-kombat.json) |
 | Scan Alien | 238987 | [238987-scan-alien.json](./238987-scan-alien.json) |
@@ -4493,6 +4494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sierra Ops: Episode 2 - Dissonance and Resonance | 128393 | [128393-sierra-ops-episode-2-dissonance-and-resonance.json](./128393-sierra-ops-episode-2-dissonance-and-resonance.json) |
 | Sierra Ops: Episode 3 - Unending Dusk | 128394 | [128394-sierra-ops-episode-3-unending-dusk.json](./128394-sierra-ops-episode-3-unending-dusk.json) |
 | Sierra Ops: Episode 4 - Cadence of the Morning Star | 128395 | [128395-sierra-ops-episode-4-cadence-of-the-morning-star.json](./128395-sierra-ops-episode-4-cadence-of-the-morning-star.json) |
+| Sierra Pro Pilot 98: The Complete Flight Simulator | 62276 | [62276-sierra-pro-pilot-98-the-complete-flight-simulator.json](./62276-sierra-pro-pilot-98-the-complete-flight-simulator.json) |
 | Sierra Ridge Technologies | 349315 | [349315-sierra-ridge-technologies.json](./349315-sierra-ridge-technologies.json) |
 | Sierra's 3-D Helicopter Simulator | 72087 | [72087-sierras-3-d-helicopter-simulator.json](./72087-sierras-3-d-helicopter-simulator.json) |
 | Sif and the Labyrinth | 190474 | [190474-sif-and-the-labyrinth.json](./190474-sif-and-the-labyrinth.json) |
@@ -5593,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyCop | 304659 | [304659-skycop.json](./304659-skycop.json) |
 | Skydance's Behemoth: Rites of Wrath | 347154 | [347154-skydances-behemoth-rites-of-wrath.json](./347154-skydances-behemoth-rites-of-wrath.json) |
 | SkyDive Racer | 233756 | [233756-skydive-racer.json](./233756-skydive-racer.json) |
+| Skydive! | 62234 | [62234-skydive.json](./62234-skydive.json) |
 | Skydivers Paradise | 319941 | [319941-skydivers-paradise.json](./319941-skydivers-paradise.json) |
 | SkyDribble | 253429 | [253429-skydribble.json](./253429-skydribble.json) |
 | SkyDrift | 9424 | [9424-skydrift.json](./9424-skydrift.json) |
@@ -7204,6 +7207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier Blade Special: Caravan Stage | 42024 | [42024-soldier-blade-special-caravan-stage.json](./42024-soldier-blade-special-caravan-stage.json) |
 | Soldier Blaster | 412972 | [412972-soldier-blaster.json](./412972-soldier-blaster.json) |
 | Soldier Boyz | 69225 | [69225-soldier-boyz.json](./69225-soldier-boyz.json) |
+| Soldier Collection | 62248 | [62248-soldier-collection.json](./62248-soldier-collection.json) |
 | Soldier Elite | 208901 | [208901-soldier-elite.json](./208901-soldier-elite.json) |
 | Soldier Front 2 | 63308 | [63308-soldier-front-2.json](./63308-soldier-front-2.json) |
 | Soldier Girl Amazon | 40170 | [40170-soldier-girl-amazon.json](./40170-soldier-girl-amazon.json) |
@@ -9044,6 +9048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spanish for Everyone! | 25018 | [25018-spanish-for-everyone.json](./25018-spanish-for-everyone.json) |
 | Spanish Rage | 167802 | [167802-spanish-rage.json](./167802-spanish-rage.json) |
 | Spank The Idle Monkey | 334194 | [334194-spank-the-idle-monkey.json](./334194-spank-the-idle-monkey.json) |
+| Spanking Runners | 62282 | [62282-spanking-runners.json](./62282-spanking-runners.json) |
 | Spanky! | 254526 | [254526-spanky.json](./254526-spanky.json) |
 | Spar MMORPG | 130880 | [130880-spar-mmorpg.json](./130880-spar-mmorpg.json) |
 | Spare Change | 23869 | [23869-spare-change.json](./23869-spare-change.json) |
@@ -9272,6 +9277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpeedBall! | 105788 | [105788-speedball.json](./105788-speedball.json) |
 | Speedboat Alchemy | 180828 | [180828-speedboat-alchemy.json](./180828-speedboat-alchemy.json) |
 | Speedboat Assassins | 13080 | [13080-speedboat-assassins.json](./13080-speedboat-assassins.json) |
+| SpeedBoat Attack | 62284 | [62284-speedboat-attack.json](./62284-speedboat-attack.json) |
 | Speedboat GP | 66931 | [66931-speedboat-gp.json](./66931-speedboat-gp.json) |
 | Speedboat Racing | 144387 | [144387-speedboat-racing.json](./144387-speedboat-racing.json) |
 | Speeder | 152934 | [152934-speeder.json](./152934-speeder.json) |
@@ -12172,6 +12178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategist | 107808 | [107808-strategist.json](./107808-strategist.json) |
 | Stratego | 72027 | [72027-stratego.json](./72027-stratego.json) |
 | Stratego Online | 20172 | [20172-stratego-online.json](./20172-stratego-online.json) |
+| Strategoria | 62283 | [62283-strategoria.json](./62283-strategoria.json) |
 | Strategy & Tactics: Dark Ages | 31923 | [31923-strategy-and-tactics-dark-ages.json](./31923-strategy-and-tactics-dark-ages.json) |
 | Strategy & Tactics: Sandbox World War II TBS | 99992 | [99992-strategy-and-tactics-sandbox-world-war-ii-tbs.json](./99992-strategy-and-tactics-sandbox-world-war-ii-tbs.json) |
 | Strategy Battles​ | 221753 | [221753-strategy-battles.json](./221753-strategy-battles.json) |
@@ -15228,6 +15235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzumiya Haruhi no Gekidou | 69295 | [69295-suzumiya-haruhi-no-gekidou.json](./69295-suzumiya-haruhi-no-gekidou.json) |
 | Suzumiya Haruhi no Houi | 97503 | [97503-suzumiya-haruhi-no-houi.json](./97503-suzumiya-haruhi-no-houi.json) |
 | Suzumiya Haruhi no Tomadoi | 72709 | [72709-suzumiya-haruhi-no-tomadoi.json](./72709-suzumiya-haruhi-no-tomadoi.json) |
+| Suzunone Seven! | 62265 | [62265-suzunone-seven.json](./62265-suzunone-seven.json) |
 | Suzy Burger | 151609 | [151609-suzy-burger.json](./151609-suzy-burger.json) |
 | Suzy Cube | 103247 | [103247-suzy-cube.json](./103247-suzy-cube.json) |
 | Svarog's Dream: Return of the Old Gods | 311099 | [311099-svarogs-dream-return-of-the-old-gods.json](./311099-svarogs-dream-return-of-the-old-gods.json) |
