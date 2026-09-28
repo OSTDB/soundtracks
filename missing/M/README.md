@@ -6077,6 +6077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MOB the Robot | 330514 | [330514-mob-the-robot.json](./330514-mob-the-robot.json) |
 | Mob Trader | 314407 | [314407-mob-trader.json](./314407-mob-trader.json) |
 | Mob War | 90546 | [90546-mob-war.json](./90546-mob-war.json) |
+| Mob Wars | 79184 | [79184-mob-wars.json](./79184-mob-wars.json) |
 | Mob Wars: La Cosa Nostra | 125364 | [125364-mob-wars-la-cosa-nostra.json](./125364-mob-wars-la-cosa-nostra.json) |
 | Mobbers | 253891 | [253891-mobbers.json](./253891-mobbers.json) |
 | Mobenium 2D | 336040 | [336040-mobenium-2d.json](./336040-mobenium-2d.json) |
@@ -6584,6 +6585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mons | 178008 | [178008-mons.json](./178008-mons.json) |
 | Monsta Bounce | 240923 | [240923-monsta-bounce.json](./240923-monsta-bounce.json) |
 | Monstabox | 334134 | [334134-monstabox.json](./334134-monstabox.json) |
+| MonstaFish | 79190 | [79190-monstafish.json](./79190-monstafish.json) |
 | Monstania | 42486 | [42486-monstania.json](./42486-monstania.json) |
 | MonStar | 193971 | [193971-monstar.json](./193971-monstar.json) |
 | Monster & Me | 182466 | [182466-monster-and-me.json](./182466-monster-and-me.json) |
@@ -8270,6 +8272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushi Battle Arena | 328616 | [328616-mushi-battle-arena.json](./328616-mushi-battle-arena.json) |
 | Mushi Life | 376115 | [376115-mushi-life.json](./376115-mushi-life.json) |
 | Mushihime-sama Futari | 27626 | [27626-mushihime-sama-futari.json](./27626-mushihime-sama-futari.json) |
+| Mushihime-sama Futari: Black Label | 79369 | [79369-mushihime-sama-futari-black-label.json](./79369-mushihime-sama-futari-black-label.json) |
 | Mushihimesama | 152398 | [152398-mushihimesama.json](./152398-mushihimesama.json) |
 | Mushihimesama Bug Panic | 66101 | [66101-mushihimesama-bug-panic.json](./66101-mushihimesama-bug-panic.json) |
 | Mushihimesama Ver 1.5 | 65500 | [65500-mushihimesama-ver-1-5.json](./65500-mushihimesama-ver-1-5.json) |
