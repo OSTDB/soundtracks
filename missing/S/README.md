@@ -1711,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam Battle Alliance: Ultimate Edition | 218498 | [218498-sd-gundam-battle-alliance-ultimate-edition.json](./218498-sd-gundam-battle-alliance-ultimate-edition.json) |
 | SD Gundam Battle Alliance: Unit and Scenario Pack 2 | 237976 | [237976-sd-gundam-battle-alliance-unit-and-scenario-pack-2.json](./237976-sd-gundam-battle-alliance-unit-and-scenario-pack-2.json) |
 | SD Gundam Battle Alliance: Unit and Scenario Pack 3 | 223572 | [223572-sd-gundam-battle-alliance-unit-and-scenario-pack-3.json](./223572-sd-gundam-battle-alliance-unit-and-scenario-pack-3.json) |
+| SD Gundam Capsule Fighter Online | 63388 | [63388-sd-gundam-capsule-fighter-online.json](./63388-sd-gundam-capsule-fighter-online.json) |
 | SD Gundam Eiyuden: Daikessen!! Kishi vs Musha | 223046 | [223046-sd-gundam-eiyuden-daikessen-kishi-vs-musha.json](./223046-sd-gundam-eiyuden-daikessen-kishi-vs-musha.json) |
 | SD Gundam Eiyuuden: Kishi Densetsu | 37352 | [37352-sd-gundam-eiyuuden-kishi-densetsu.json](./37352-sd-gundam-eiyuuden-kishi-densetsu.json) |
 | SD Gundam Eiyuuden: Musha Densetsu | 37351 | [37351-sd-gundam-eiyuuden-musha-densetsu.json](./37351-sd-gundam-eiyuuden-musha-densetsu.json) |
@@ -10419,6 +10420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stalingrad Abatis | 109888 | [109888-stalingrad-abatis.json](./109888-stalingrad-abatis.json) |
 | Stalk the Giant | 249788 | [249788-stalk-the-giant.json](./249788-stalk-the-giant.json) |
 | Stalked | 163313 | [163313-stalked.json](./163313-stalked.json) |
+| Stalker 1: Path of Fire | 63351 | [63351-stalker-1-path-of-fire.json](./63351-stalker-1-path-of-fire.json) |
 | Stalker Defender Bunker 3D | 89238 | [89238-stalker-defender-bunker-3d.json](./89238-stalker-defender-bunker-3d.json) |
 | Stalker Together | 327831 | [327831-stalker-together.json](./327831-stalker-together.json) |
 | Stalker: Spatial Trap | 321516 | [321516-stalker-spatial-trap.json](./321516-stalker-spatial-trap.json) |
@@ -14393,6 +14395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen OG Gaiden | 72741 | [72741-super-robot-taisen-og-gaiden.json](./72741-super-robot-taisen-og-gaiden.json) |
 | Super Robot Taisen OG Saga: Masou Kishin F - Coffin of the End | 61553 | [61553-super-robot-taisen-og-saga-masou-kishin-f-coffin-of-the-end.json](./61553-super-robot-taisen-og-saga-masou-kishin-f-coffin-of-the-end.json) |
 | Super Robot Taisen OG Saga: Masou Kishin II - Revelation of Evil God | 65453 | [65453-super-robot-taisen-og-saga-masou-kishin-ii-revelation-of-evil-god.json](./65453-super-robot-taisen-og-saga-masou-kishin-ii-revelation-of-evil-god.json) |
+| Super Robot Taisen OG Saga: Masou Kishin III - Pride of Justice | 63363 | [63363-super-robot-taisen-og-saga-masou-kishin-iii-pride-of-justice.json](./63363-super-robot-taisen-og-saga-masou-kishin-iii-pride-of-justice.json) |
 | Super Robot Taisen OG: Dark Prison | 144283 | [144283-super-robot-taisen-og-dark-prison.json](./144283-super-robot-taisen-og-dark-prison.json) |
 | Super Robot Taisen OG: Infinite Battle | 214614 | [214614-super-robot-taisen-og-infinite-battle.json](./214614-super-robot-taisen-og-infinite-battle.json) |
 | Super Robot Taisen OG: Original Generations | 80450 | [80450-super-robot-taisen-og-original-generations.json](./80450-super-robot-taisen-og-original-generations.json) |
