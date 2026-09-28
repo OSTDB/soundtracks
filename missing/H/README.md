@@ -3753,6 +3753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hokkaido Rensa Satsujin: Okhotsk ni Kiyu | 206134 | [206134-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json](./206134-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json) |
 | Hokkaido: 4,500km | 264073 | [264073-hokkaido-4-500km.json](./264073-hokkaido-4-500km.json) |
 | Hokko Spaces | 404866 | [404866-hokko-spaces.json](./404866-hokko-spaces.json) |
+| Hokra | 65032 | [65032-hokra.json](./65032-hokra.json) |
 | Hokusai | 106540 | [106540-hokusai.json](./106540-hokusai.json) |
 | Hokuto no Ken 5: Tenma Ryuusei-den Ai Zesshou | 42552 | [42552-hokuto-no-ken-5-tenma-ryuusei-den-ai-zesshou.json](./42552-hokuto-no-ken-5-tenma-ryuusei-den-ai-zesshou.json) |
 | Hokuto no Ken 7: Seiken Retsuden Denshousha he no Michi | 38337 | [38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json](./38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json) |
