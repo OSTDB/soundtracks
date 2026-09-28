@@ -3176,6 +3176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Bound - Word Game Puzzles | 105869 | [105869-word-bound-word-game-puzzles.json](./105869-word-bound-word-game-puzzles.json) |
 | Word Brawl | 329680 | [329680-word-brawl.json](./329680-word-brawl.json) |
 | Word Bridges | 397915 | [397915-word-bridges.json](./397915-word-bridges.json) |
+| Word Builder for Oliver | 92091 | [92091-word-builder-for-oliver.json](./92091-word-builder-for-oliver.json) |
 | Word Challenge | 342250 | [342250-word-challenge.json](./342250-word-challenge.json) |
 | Word Chaos | 217984 | [217984-word-chaos.json](./217984-word-chaos.json) |
 | Word Chef: Letter Pop | 241330 | [241330-word-chef-letter-pop.json](./241330-word-chef-letter-pop.json) |
@@ -3265,6 +3266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Worm | 229344 | [229344-word-worm.json](./229344-word-worm.json) |
 | Word Worm | 361732 | [361732-word-worm.json](./361732-word-worm.json) |
 | Word Worth | 101083 | [101083-word-worth.json](./101083-word-worth.json) |
+| Word Wow | 92094 | [92094-word-wow.json](./92094-word-wow.json) |
 | Word Wow Around the World | 87298 | [87298-word-wow-around-the-world.json](./87298-word-wow-around-the-world.json) |
 | Word Wow Big City | 87127 | [87127-word-wow-big-city.json](./87127-word-wow-big-city.json) |
 | Word Wreck | 241329 | [241329-word-wreck.json](./241329-word-wreck.json) |
