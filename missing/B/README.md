@@ -4221,6 +4221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blinding Lite | 302370 | [302370-blinding-lite.json](./302370-blinding-lite.json) |
 | Blinding Oversight | 253592 | [253592-blinding-oversight.json](./253592-blinding-oversight.json) |
 | Blinding Silence | 92270 | [92270-blinding-silence.json](./92270-blinding-silence.json) |
+| BlindOak Prow | 112497 | [112497-blindoak-prow.json](./112497-blindoak-prow.json) |
 | Blindscape | 26644 | [26644-blindscape.json](./26644-blindscape.json) |
 | BlindSide | 64386 | [64386-blindside.json](./64386-blindside.json) |
 | BlindSight Event Zero | 186760 | [186760-blindsight-event-zero.json](./186760-blindsight-event-zero.json) |
@@ -4362,6 +4363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Out | 246386 | [246386-block-out.json](./246386-block-out.json) |
 | Block Pile | 360562 | [360562-block-pile.json](./360562-block-pile.json) |
 | Block Pong-Pong | 288322 | [288322-block-pong-pong.json](./288322-block-pong-pong.json) |
+| Block Pooper 9 | 112466 | [112466-block-pooper-9.json](./112466-block-pooper-9.json) |
 | Block Pushing Puzzle Game But You Can Time Travel | 184371 | [184371-block-pushing-puzzle-game-but-you-can-time-travel.json](./184371-block-pushing-puzzle-game-but-you-can-time-travel.json) |
 | Block Puzzle | 231879 | [231879-block-puzzle.json](./231879-block-puzzle.json) |
 | Block Puzzle | 248639 | [248639-block-puzzle.json](./248639-block-puzzle.json) |
@@ -4534,6 +4536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Code | 34853 | [34853-blood-code.json](./34853-blood-code.json) |
 | Blood Code: Complete Edition | 52647 | [52647-blood-code-complete-edition.json](./52647-blood-code-complete-edition.json) |
 | Blood Cube | 185549 | [185549-blood-cube.json](./185549-blood-cube.json) |
+| Blood Day | 112469 | [112469-blood-day.json](./112469-blood-day.json) |
 | Blood Drift | 86566 | [86566-blood-drift.json](./86566-blood-drift.json) |
 | Blood Expedition | 384638 | [384638-blood-expedition.json](./384638-blood-expedition.json) |
 | Blood Field | 153932 | [153932-blood-field.json](./153932-blood-field.json) |
@@ -4886,6 +4889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluem | 199396 | [199396-bluem.json](./199396-bluem.json) |
 | Blueman | 329002 | [329002-blueman.json](./329002-blueman.json) |
 | BluePrint Racer 4D | 68646 | [68646-blueprint-racer-4d.json](./68646-blueprint-racer-4d.json) |
+| Blueprint Word: Classroom | 112477 | [112477-blueprint-word-classroom.json](./112477-blueprint-word-classroom.json) |
 | Blues Brothers 2000 | 3425 | [3425-blues-brothers-2000.json](./3425-blues-brothers-2000.json) |
 | Blues Brothers S | 330865 | [330865-blues-brothers-s.json](./330865-blues-brothers-s.json) |
 | BlueSkies | 250907 | [250907-blueskies.json](./250907-blueskies.json) |
