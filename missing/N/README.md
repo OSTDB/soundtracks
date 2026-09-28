@@ -3132,6 +3132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova: Space Armada | 319812 | [319812-nova-space-armada.json](./319812-nova-space-armada.json) |
 | Nova: The Birth | 138830 | [138830-nova-the-birth.json](./138830-nova-the-birth.json) |
 | Nova's Adventure | 316397 | [316397-novas-adventure.json](./316397-novas-adventure.json) |
+| Novalight Tetris | 73858 | [73858-novalight-tetris.json](./73858-novalight-tetris.json) |
 | Novark | 290510 | [290510-novark.json](./290510-novark.json) |
 | Novas Las Aventurietas del Robercleiton o Renascimento do Turbo | 89425 | [89425-novas-las-aventurietas-del-robercleiton-o-renascimento-do-turbo.json](./89425-novas-las-aventurietas-del-robercleiton-o-renascimento-do-turbo.json) |
 | Novastella Island | 221189 | [221189-novastella-island.json](./221189-novastella-island.json) |
