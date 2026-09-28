@@ -641,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Birthday | 151574 | [151574-happy-birthday.json](./151574-happy-birthday.json) |
 | Happy Birthday Pavera | 268011 | [268011-happy-birthday-pavera.json](./268011-happy-birthday-pavera.json) |
 | Happy Birthdays | 86771 | [86771-happy-birthdays.json](./86771-happy-birthdays.json) |
+| Happy Block | 108076 | [108076-happy-block.json](./108076-happy-block.json) |
 | Happy Bones | 169394 | [169394-happy-bones.json](./169394-happy-bones.json) |
 | Happy Brain Puzzle | 208982 | [208982-happy-brain-puzzle.json](./208982-happy-brain-puzzle.json) |
 | Happy Cat Tavern | 209603 | [209603-happy-cat-tavern.json](./209603-happy-cat-tavern.json) |
@@ -1536,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Blade | 98764 | [98764-heavy-blade.json](./98764-heavy-blade.json) |
 | Heavy Burden VR | 372459 | [372459-heavy-burden-vr.json](./372459-heavy-burden-vr.json) |
 | Heavy Cargo: The Truck Simulator | 165384 | [165384-heavy-cargo-the-truck-simulator.json](./165384-heavy-cargo-the-truck-simulator.json) |
+| Heavy Dreams | 108058 | [108058-heavy-dreams.json](./108058-heavy-dreams.json) |
 | Heavy Drinker | 250893 | [250893-heavy-drinker.json](./250893-heavy-drinker.json) |
 | Heavy Duty | 375422 | [375422-heavy-duty.json](./375422-heavy-duty.json) |
 | Heavy Duty Inc. | 389088 | [389088-heavy-duty-inc.json](./389088-heavy-duty-inc.json) |
@@ -2369,6 +2371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Here and There Along the Echo | 74392 | [74392-here-and-there-along-the-echo.json](./74392-here-and-there-along-the-echo.json) |
 | Here Be Dragons | 110355 | [110355-here-be-dragons.json](./110355-here-be-dragons.json) |
 | Here For Sweethearts | 184036 | [184036-here-for-sweethearts.json](./184036-here-for-sweethearts.json) |
+| Here Nya | 108054 | [108054-here-nya.json](./108054-here-nya.json) |
 | Here There Be Bears | 247993 | [247993-here-there-be-bears.json](./247993-here-there-be-bears.json) |
 | Here They Lie | 19572 | [19572-here-they-lie.json](./19572-here-they-lie.json) |
 | Here to There | 204419 | [204419-here-to-there.json](./204419-here-to-there.json) |
