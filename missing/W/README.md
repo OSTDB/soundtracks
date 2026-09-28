@@ -1509,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Press: TF2 Heavy | 228462 | [228462-western-press-tf2-heavy.json](./228462-western-press-tf2-heavy.json) |
 | Western Province | 114810 | [114810-western-province.json](./114810-western-province.json) |
 | Western Quest | 244181 | [244181-western-quest.json](./244181-western-quest.json) |
+| Western Riding Academy | 80469 | [80469-western-riding-academy.json](./80469-western-riding-academy.json) |
 | Western War | 249754 | [249754-western-war.json](./249754-western-war.json) |
 | Westfall | 343252 | [343252-westfall.json](./343252-westfall.json) |
 | WestFallen | 201547 | [201547-westfallen.json](./201547-westfallen.json) |
@@ -2580,6 +2581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Walk 2006 | 326780 | [326780-winter-walk-2006.json](./326780-winter-walk-2006.json) |
 | Winter With You | 188108 | [188108-winter-with-you.json](./188108-winter-with-you.json) |
 | Winter Wonderland | 31179 | [31179-winter-wonderland.json](./31179-winter-wonderland.json) |
+| Winter Wonderland | 80461 | [80461-winter-wonderland.json](./80461-winter-wonderland.json) |
 | Winter Worm, Summer Grass | 127105 | [127105-winter-worm-summer-grass.json](./127105-winter-worm-summer-grass.json) |
 | Winter X-Games Snowboarding 2002 | 47303 | [47303-winter-x-games-snowboarding-2002.json](./47303-winter-x-games-snowboarding-2002.json) |
 | Winter-Over | 352163 | [352163-winter-over.json](./352163-winter-over.json) |
