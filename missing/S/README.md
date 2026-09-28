@@ -1626,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scriball | 286684 | [286684-scriball.json](./286684-scriball.json) |
 | Scribble | 262675 | [262675-scribble.json](./262675-scribble.json) |
 | Scribble | 290697 | [290697-scribble.json](./290697-scribble.json) |
+| Scribble | 86248 | [86248-scribble.json](./86248-scribble.json) |
 | Scribble Adventure Unlimited | 107126 | [107126-scribble-adventure-unlimited.json](./107126-scribble-adventure-unlimited.json) |
 | Scribble Hero | 382203 | [382203-scribble-hero.json](./382203-scribble-hero.json) |
 | Scribble Shooter | 21152 | [21152-scribble-shooter.json](./21152-scribble-shooter.json) |
@@ -1722,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SE3 Protocol: Last Drop | 415877 | [415877-se3-protocol-last-drop.json](./415877-se3-protocol-last-drop.json) |
 | Sea Animal Kingdom Battle Simulator: Sea Monster | 104466 | [104466-sea-animal-kingdom-battle-simulator-sea-monster.json](./104466-sea-animal-kingdom-battle-simulator-sea-monster.json) |
 | Sea Bass Fishing 2 | 299829 | [299829-sea-bass-fishing-2.json](./299829-sea-bass-fishing-2.json) |
+| Sea Battle | 86250 | [86250-sea-battle.json](./86250-sea-battle.json) |
 | Sea Battle Minimal | 192947 | [192947-sea-battle-minimal.json](./192947-sea-battle-minimal.json) |
 | Sea Battle Simulator | 104488 | [104488-sea-battle-simulator.json](./104488-sea-battle-simulator.json) |
 | Sea Battle: Annihilation | 144816 | [144816-sea-battle-annihilation.json](./144816-sea-battle-annihilation.json) |
@@ -4048,6 +4050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooty Ballz | 184656 | [184656-shooty-ballz.json](./184656-shooty-ballz.json) |
 | Shooty Skies | 59547 | [59547-shooty-skies.json](./59547-shooty-skies.json) |
 | Shooty Skies Overdrive | 137654 | [137654-shooty-skies-overdrive.json](./137654-shooty-skies-overdrive.json) |
+| Shooty Space | 86251 | [86251-shooty-space.json](./86251-shooty-space.json) |
 | Shooty Space Adventure | 58768 | [58768-shooty-space-adventure.json](./58768-shooty-space-adventure.json) |
 | Shop Crush | 310059 | [310059-shop-crush.json](./310059-shop-crush.json) |
 | Shop Farm Tycoon | 395216 | [395216-shop-farm-tycoon.json](./395216-shop-farm-tycoon.json) |
@@ -10097,6 +10100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squares | 101610 | [101610-squares.json](./101610-squares.json) |
 | Squares | 131454 | [131454-squares.json](./131454-squares.json) |
 | Squares | 59961 | [59961-squares.json](./59961-squares.json) |
+| Squares | 86246 | [86246-squares.json](./86246-squares.json) |
 | Squares of Hell | 304612 | [304612-squares-of-hell.json](./304612-squares-of-hell.json) |
 | Squares Proximity | 366332 | [366332-squares-proximity.json](./366332-squares-proximity.json) |
 | Squareverse | 390664 | [390664-squareverse.json](./390664-squareverse.json) |
@@ -11231,6 +11235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steal The Pig | 344448 | [344448-steal-the-pig.json](./344448-steal-the-pig.json) |
 | Steal the Spotlight | 185454 | [185454-steal-the-spotlight.json](./185454-steal-the-spotlight.json) |
 | Stealth | 147969 | [147969-stealth.json](./147969-stealth.json) |
+| Stealth | 86207 | [86207-stealth.json](./86207-stealth.json) |
 | Stealth Bastard Deluxe | 10922 | [10922-stealth-bastard-deluxe.json](./10922-stealth-bastard-deluxe.json) |
 | Stealth Bastard: Tactical Espionage Arsehole | 65531 | [65531-stealth-bastard-tactical-espionage-arsehole.json](./65531-stealth-bastard-tactical-espionage-arsehole.json) |
 | Stealth Blade | 278402 | [278402-stealth-blade.json](./278402-stealth-blade.json) |
@@ -14763,6 +14768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surflexers | 201017 | [201017-surflexers.json](./201017-surflexers.json) |
 | Surfwords | 219573 | [219573-surfwords.json](./219573-surfwords.json) |
 | Surge | 275573 | [275573-surge.json](./275573-surge.json) |
+| Surge | 86219 | [86219-surge.json](./86219-surge.json) |
 | Surge Breaker | 185693 | [185693-surge-breaker.json](./185693-surge-breaker.json) |
 | Surge Concerto DX | 220057 | [220057-surge-concerto-dx.json](./220057-surge-concerto-dx.json) |
 | Surge Concerto DX Agent Pack Code: Gold/. | 139996 | [139996-surge-concerto-dx-agent-pack-code-gold.json](./139996-surge-concerto-dx-agent-pack-code-gold.json) |
@@ -15494,6 +15500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords with spice | 108437 | [108437-swords-with-spice.json](./108437-swords-with-spice.json) |
 | Swordshot | 132755 | [132755-swordshot.json](./132755-swordshot.json) |
 | Swordsman | 7417 | [7417-swordsman.json](./7417-swordsman.json) |
+| Swordsman | 86195 | [86195-swordsman.json](./86195-swordsman.json) |
 | Swordsman Night King | 401619 | [401619-swordsman-night-king.json](./401619-swordsman-night-king.json) |
 | Swordsman Online | 9738 | [9738-swordsman-online.json](./9738-swordsman-online.json) |
 | SwordSpin: Arena of Blades | 290547 | [290547-swordspin-arena-of-blades.json](./290547-swordspin-arena-of-blades.json) |
