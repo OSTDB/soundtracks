@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keystone Library | 226428 | [226428-keystone-library.json](./226428-keystone-library.json) |
 | KeyWords | 72079 | [72079-keywords.json](./72079-keywords.json) |
 | Keziah's Realm | 329100 | [329100-keziahs-realm.json](./329100-keziahs-realm.json) |
+| KFC The Hard Way | 98551 | [98551-kfc-the-hard-way.json](./98551-kfc-the-hard-way.json) |
 | KFC: Match Out the Yummies | 378157 | [378157-kfc-match-out-the-yummies.json](./378157-kfc-match-out-the-yummies.json) |
 | KFZ | 219663 | [219663-kfz.json](./219663-kfz.json) |
 | Khan: Myth of the Wind | 145603 | [145603-khan-myth-of-the-wind.json](./145603-khan-myth-of-the-wind.json) |
