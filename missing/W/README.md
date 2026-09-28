@@ -240,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallrun Dot Love | 185068 | [185068-wallrun-dot-love.json](./185068-wallrun-dot-love.json) |
 | Wallrunners | 95209 | [95209-wallrunners.json](./95209-wallrunners.json) |
 | Walls | 275006 | [275006-walls.json](./275006-walls.json) |
+| Walls of Illusion | 70443 | [70443-walls-of-illusion.json](./70443-walls-of-illusion.json) |
 | Walls of Rust | 287201 | [287201-walls-of-rust.json](./287201-walls-of-rust.json) |
 | WallSmashers | 334168 | [334168-wallsmashers.json](./334168-wallsmashers.json) |
 | WallWar | 287200 | [287200-wallwar.json](./287200-wallwar.json) |
