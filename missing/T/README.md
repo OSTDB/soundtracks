@@ -2082,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive: Offroad | 206222 | [206222-test-drive-offroad.json](./206222-test-drive-offroad.json) |
 | Test Lab Inc. | 264604 | [264604-test-lab-inc.json](./264604-test-lab-inc.json) |
 | Test Subject | 318778 | [318778-test-subject.json](./318778-test-subject.json) |
+| Test Subject 901 | 108039 | [108039-test-subject-901.json](./108039-test-subject-901.json) |
 | Test Subject Complete | 172475 | [172475-test-subject-complete.json](./172475-test-subject-complete.json) |
 | Test Subject Green | 172474 | [172474-test-subject-green.json](./172474-test-subject-green.json) |
 | Test Tube Titans | 129933 | [129933-test-tube-titans.json](./129933-test-tube-titans.json) |
@@ -6186,6 +6187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Occupied Base | 271309 | [271309-the-occupied-base.json](./271309-the-occupied-base.json) |
 | The Ocean | 143678 | [143678-the-ocean.json](./143678-the-ocean.json) |
 | The Odarian Accounts | 218705 | [218705-the-odarian-accounts.json](./218705-the-odarian-accounts.json) |
+| The Odd Battle | 108026 | [108026-the-odd-battle.json](./108026-the-odd-battle.json) |
 | The Odd Neon Void | 132246 | [132246-the-odd-neon-void.json](./132246-the-odd-neon-void.json) |
 | The Odyssey of Commander Cookie | 350034 | [350034-the-odyssey-of-commander-cookie.json](./350034-the-odyssey-of-commander-cookie.json) |
 | The Odyssey of the Mammoth | 191831 | [191831-the-odyssey-of-the-mammoth.json](./191831-the-odyssey-of-the-mammoth.json) |
@@ -8056,6 +8058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wanderer: Chosen One | 211752 | [211752-the-wanderer-chosen-one.json](./211752-the-wanderer-chosen-one.json) |
 | The Wandering Her | 400498 | [400498-the-wandering-her.json](./400498-the-wandering-her.json) |
 | The Wandering Village: The Last Leviathan | 404854 | [404854-the-wandering-village-the-last-leviathan.json](./404854-the-wandering-village-the-last-leviathan.json) |
+| The Wanderings Dragon | 108025 | [108025-the-wanderings-dragon.json](./108025-the-wanderings-dragon.json) |
 | The Wanted Man's House | 313485 | [313485-the-wanted-mans-house.json](./313485-the-wanted-mans-house.json) |
 | The War Enders: First Strike | 219657 | [219657-the-war-enders-first-strike.json](./219657-the-war-enders-first-strike.json) |
 | The War Engine | 79886 | [79886-the-war-engine.json](./79886-the-war-engine.json) |
@@ -11444,6 +11447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Carrom: Striker Edition | 239887 | [239887-touch-carrom-striker-edition.json](./239887-touch-carrom-striker-edition.json) |
 | Touch de Zuno DS | 58164 | [58164-touch-de-zuno-ds.json](./58164-touch-de-zuno-ds.json) |
 | Touch Detective 3 + The Complete Case Files | 222231 | [222231-touch-detective-3-the-complete-case-files.json](./222231-touch-detective-3-the-complete-case-files.json) |
+| Touch Down Football Solitaire | 108077 | [108077-touch-down-football-solitaire.json](./108077-touch-down-football-solitaire.json) |
 | Touch Fish | 348258 | [348258-touch-fish.json](./348258-touch-fish.json) |
 | Touch Game Party | 124103 | [124103-touch-game-party.json](./124103-touch-game-party.json) |
 | Touch Love | 219542 | [219542-touch-love.json](./219542-touch-love.json) |
