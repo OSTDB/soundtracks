@@ -1967,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Victim | 355619 | [355619-perfect-victim.json](./355619-perfect-victim.json) |
 | Perfect Wedding Solitaire | 386126 | [386126-perfect-wedding-solitaire.json](./386126-perfect-wedding-solitaire.json) |
 | Perfect World | 8747 | [8747-perfect-world.json](./8747-perfect-world.json) |
+| Perfect! Pool | 93181 | [93181-perfect-pool.json](./93181-perfect-pool.json) |
 | Perfectdom | 403661 | [403661-perfectdom.json](./403661-perfectdom.json) |
 | Perfection | 239906 | [239906-perfection.json](./239906-perfection.json) |
 | Perfection of Wisdom | 35605 | [35605-perfection-of-wisdom.json](./35605-perfection-of-wisdom.json) |
@@ -5670,6 +5671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Driver | 226178 | [226178-power-driver.json](./226178-power-driver.json) |
 | Power Drome | 5985 | [5985-power-drome.json](./5985-power-drome.json) |
 | Power Eleven | 42043 | [42043-power-eleven.json](./42043-power-eleven.json) |
+| Power F1 | 93180 | [93180-power-f1.json](./93180-power-f1.json) |
 | Power Factory Featuring C+C Music Factory | 5420 | [5420-power-factory-featuring-c-c-music-factory.json](./5420-power-factory-featuring-c-c-music-factory.json) |
 | Power Fantasy | 258465 | [258465-power-fantasy.json](./258465-power-fantasy.json) |
 | Power For Young Inventors | 330363 | [330363-power-for-young-inventors.json](./330363-power-for-young-inventors.json) |
@@ -7351,6 +7353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punchgolf | 291035 | [291035-punchgolf.json](./291035-punchgolf.json) |
 | Punchhead | 96074 | [96074-punchhead.json](./96074-punchhead.json) |
 | Punching a Concrete Wall | 399013 | [399013-punching-a-concrete-wall.json](./399013-punching-a-concrete-wall.json) |
+| Punching Bags | 93139 | [93139-punching-bags.json](./93139-punching-bags.json) |
 | Punching Storm | 358332 | [358332-punching-storm.json](./358332-punching-storm.json) |
 | Punchline | 291572 | [291572-punchline.json](./291572-punchline.json) |
 | Punchline!! | 130189 | [130189-punchline.json](./130189-punchline.json) |
