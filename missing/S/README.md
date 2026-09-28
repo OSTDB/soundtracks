@@ -2224,6 +2224,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Splash! Golf | 136872 | [136872-sega-splash-golf.json](./136872-sega-splash-golf.json) |
 | Sega Strike Fighter | 112506 | [112506-sega-strike-fighter.json](./112506-sega-strike-fighter.json) |
 | Sega Superstars Tennis | 255326 | [255326-sega-superstars-tennis.json](./255326-sega-superstars-tennis.json) |
+| Sega Top Five | 78759 | [78759-sega-top-five.json](./78759-sega-top-five.json) |
+| Sega Top Ten | 78756 | [78756-sega-top-ten.json](./78756-sega-top-ten.json) |
 | Sega Vintage Collection: Alex Kidd & Co. | 79259 | [79259-sega-vintage-collection-alex-kidd-and-co.json](./79259-sega-vintage-collection-alex-kidd-and-co.json) |
 | Sega Vintage Collection: ToeJam & Earl | 85812 | [85812-sega-vintage-collection-toejam-and-earl.json](./85812-sega-vintage-collection-toejam-and-earl.json) |
 | Sega World Drivers Championship | 293742 | [293742-sega-world-drivers-championship.json](./293742-sega-world-drivers-championship.json) |
@@ -6965,6 +6967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sodium One | 45282 | [45282-sodium-one.json](./45282-sodium-one.json) |
 | Soer Dolls | 153906 | [153906-soer-dolls.json](./153906-soer-dolls.json) |
 | SOF: Enemy from the future | 305955 | [305955-sof-enemy-from-the-future.json](./305955-sof-enemy-from-the-future.json) |
+| SOF/Raiders | 78594 | [78594-sof-raiders.json](./78594-sof-raiders.json) |
 | Sofi Origins | 277607 | [277607-sofi-origins.json](./277607-sofi-origins.json) |
 | Sofia | 218734 | [218734-sofia.json](./218734-sofia.json) |
 | Sofia the First | 213469 | [213469-sofia-the-first.json](./213469-sofia-the-first.json) |
@@ -6982,6 +6985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Softball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 213633 | [213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
 | Softly Placed | 379978 | [379978-softly-placed.json](./379978-softly-placed.json) |
 | Softnauts the Game | 23908 | [23908-softnauts-the-game.json](./23908-softnauts-the-game.json) |
+| Software Manager | 78597 | [78597-software-manager.json](./78597-software-manager.json) |
 | Software Tycoon: Der Spielemanager | 243953 | [243953-software-tycoon-der-spielemanager.json](./243953-software-tycoon-der-spielemanager.json) |
 | SOG: Vietnam | 345606 | [345606-sog-vietnam.json](./345606-sog-vietnam.json) |
 | Sogo Vego | 161353 | [161353-sogo-vego.json](./161353-sogo-vego.json) |
@@ -11758,6 +11762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stock Car Extreme | 16966 | [16966-stock-car-extreme.json](./16966-stock-car-extreme.json) |
 | Stock Car Racing | 217978 | [217978-stock-car-racing.json](./217978-stock-car-racing.json) |
 | Stock Car USA | 408152 | [408152-stock-car-usa.json](./408152-stock-car-usa.json) |
+| Stock Market: The Game | 78732 | [78732-stock-market-the-game.json](./78732-stock-market-the-game.json) |
 | Stock: Retail investors | 295542 | [295542-stock-retail-investors.json](./295542-stock-retail-investors.json) |
 | Stockfish Chess | 87155 | [87155-stockfish-chess.json](./87155-stockfish-chess.json) |
 | StockSim | 332623 | [332623-stocksim.json](./332623-stocksim.json) |
