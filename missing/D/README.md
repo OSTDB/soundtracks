@@ -7900,6 +7900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonette for Apple Watch | 197751 | [197751-dungeonette-for-apple-watch.json](./197751-dungeonette-for-apple-watch.json) |
 | Dungeonfell | 325618 | [325618-dungeonfell.json](./325618-dungeonfell.json) |
 | Dungeonfield | 331961 | [331961-dungeonfield.json](./331961-dungeonfield.json) |
+| Dungeonforge | 61737 | [61737-dungeonforge.json](./61737-dungeonforge.json) |
 | Dungeonite | 152822 | [152822-dungeonite.json](./152822-dungeonite.json) |
 | Dungeonlike | 183574 | [183574-dungeonlike.json](./183574-dungeonlike.json) |
 | Dungeonlite Duelers | 175836 | [175836-dungeonlite-duelers.json](./175836-dungeonlite-duelers.json) |
