@@ -3068,6 +3068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fix My Hand Doc | 219789 | [219789-fix-my-hand-doc.json](./219789-fix-my-hand-doc.json) |
 | Fix My Truck: Offroad Pickup | 104670 | [104670-fix-my-truck-offroad-pickup.json](./104670-fix-my-truck-offroad-pickup.json) |
 | Fix the Lab! | 265929 | [265929-fix-the-lab.json](./265929-fix-the-lab.json) |
+| Fix und Foxi Adventskalender | 91550 | [91550-fix-und-foxi-adventskalender.json](./91550-fix-und-foxi-adventskalender.json) |
 | Fix und Foxi Familienspiele | 81400 | [81400-fix-und-foxi-familienspiele.json](./81400-fix-und-foxi-familienspiele.json) |
 | Fix und Foxi Spielzeugfabrik | 81402 | [81402-fix-und-foxi-spielzeugfabrik.json](./81402-fix-und-foxi-spielzeugfabrik.json) |
 | Fix-it Felix Jr. | 256301 | [256301-fix-it-felix-jr.json](./256301-fix-it-felix-jr.json) |
@@ -4523,6 +4524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortuna | 218172 | [218172-fortuna.json](./218172-fortuna.json) |
 | Fortune | 357312 | [357312-fortune.json](./357312-fortune.json) |
 | Fortune & Gloria | 105324 | [105324-fortune-and-gloria.json](./105324-fortune-and-gloria.json) |
+| Fortune Arterial | 91514 | [91514-fortune-arterial.json](./91514-fortune-arterial.json) |
 | Fortune Cookie | 340238 | [340238-fortune-cookie.json](./340238-fortune-cookie.json) |
 | Fortune Cookie | 59928 | [59928-fortune-cookie.json](./59928-fortune-cookie.json) |
 | Fortune Cookie: More Cookies | 340239 | [340239-fortune-cookie-more-cookies.json](./340239-fortune-cookie-more-cookies.json) |
