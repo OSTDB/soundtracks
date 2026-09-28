@@ -1884,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty & Friends: Rock n' World Tour | 83210 | [83210-hello-kitty-and-friends-rock-n-world-tour.json](./83210-hello-kitty-and-friends-rock-n-world-tour.json) |
 | Hello Kitty and Friends: Happiness Parade | 204458 | [204458-hello-kitty-and-friends-happiness-parade.json](./204458-hello-kitty-and-friends-happiness-parade.json) |
 | Hello Kitty Birthday Party | 231386 | [231386-hello-kitty-birthday-party.json](./231386-hello-kitty-birthday-party.json) |
+| Hello Kitty Cutie World | 78586 | [78586-hello-kitty-cutie-world.json](./78586-hello-kitty-cutie-world.json) |
 | Hello Kitty Detective Games | 279608 | [279608-hello-kitty-detective-games.json](./279608-hello-kitty-detective-games.json) |
 | Hello Kitty Discovering The World | 279610 | [279610-hello-kitty-discovering-the-world.json](./279610-hello-kitty-discovering-the-world.json) |
 | Hello Kitty Fairy Tale Samegame | 77342 | [77342-hello-kitty-fairy-tale-samegame.json](./77342-hello-kitty-fairy-tale-samegame.json) |
@@ -2355,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her 2: I Want to See You Again | 114821 | [114821-her-2-i-want-to-see-you-again.json](./114821-her-2-i-want-to-see-you-again.json) |
 | Her Apartment | 323898 | [323898-her-apartment.json](./323898-her-apartment.json) |
 | Her Heart's Desire: A Landlord Epic | 224235 | [224235-her-hearts-desire-a-landlord-epic.json](./224235-her-hearts-desire-a-landlord-epic.json) |
+| Her Knights | 78735 | [78735-her-knights.json](./78735-her-knights.json) |
 | Her Knights: All for the Princess | 66048 | [66048-her-knights-all-for-the-princess.json](./66048-her-knights-all-for-the-princess.json) |
 | Her Knights: Kyrie Eleison | 145614 | [145614-her-knights-kyrie-eleison.json](./145614-her-knights-kyrie-eleison.json) |
 | Her Lie I Tried to Believe | 87953 | [87953-her-lie-i-tried-to-believe.json](./87953-her-lie-i-tried-to-believe.json) |
@@ -3838,6 +3840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holly: A Christmas Tale Deluxe | 54086 | [54086-holly-a-christmas-tale-deluxe.json](./54086-holly-a-christmas-tale-deluxe.json) |
 | Hollybound | 262653 | [262653-hollybound.json](./262653-hollybound.json) |
 | Hollywhoot | 107011 | [107011-hollywhoot.json](./107011-hollywhoot.json) |
+| Hollywood 61 | 78734 | [78734-hollywood-61.json](./78734-hollywood-61.json) |
 | Hollywood Escape | 70912 | [70912-hollywood-escape.json](./70912-hollywood-escape.json) |
 | Hollywood Fame: Hidden Object Adventure | 84517 | [84517-hollywood-fame-hidden-object-adventure.json](./84517-hollywood-fame-hidden-object-adventure.json) |
 | Hollywood Files: Deadly Intrigues | 269631 | [269631-hollywood-files-deadly-intrigues.json](./269631-hollywood-files-deadly-intrigues.json) |
@@ -3848,6 +3851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywood Squares | 48056 | [48056-hollywood-squares.json](./48056-hollywood-squares.json) |
 | Hollywood Squares | 52194 | [52194-hollywood-squares.json](./52194-hollywood-squares.json) |
 | Hollywood Tycoon | 67958 | [67958-hollywood-tycoon.json](./67958-hollywood-tycoon.json) |
+| Hollywood Tycoon | 78747 | [78747-hollywood-tycoon.json](./78747-hollywood-tycoon.json) |
 | Hollywood Visionary | 35401 | [35401-hollywood-visionary.json](./35401-hollywood-visionary.json) |
 | Hollywoodle | 325824 | [325824-hollywoodle.json](./325824-hollywoodle.json) |
 | Holo Arena: Death League | 217380 | [217380-holo-arena-death-league.json](./217380-holo-arena-death-league.json) |
@@ -3931,6 +3935,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home | 372448 | [372448-home.json](./372448-home.json) |
 | Home A Drone | 122421 | [122421-home-a-drone.json](./122421-home-a-drone.json) |
 | Home Again Home Again | 141627 | [141627-home-again-home-again.json](./141627-home-again-home-again.json) |
+| Home Alone | 78598 | [78598-home-alone.json](./78598-home-alone.json) |
+| Home Alone | 78599 | [78599-home-alone.json](./78599-home-alone.json) |
 | Home Alone 2: Lost in New York | 243884 | [243884-home-alone-2-lost-in-new-york.json](./243884-home-alone-2-lost-in-new-york.json) |
 | Home Alone Survival | 365062 | [365062-home-alone-survival.json](./365062-home-alone-survival.json) |
 | Home Babysitter | 83265 | [83265-home-babysitter.json](./83265-home-babysitter.json) |
