@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tail: Dungeons | 313123 | [313123-fairy-tail-dungeons.json](./313123-fairy-tail-dungeons.json) |
 | Fairy Tail: Forces Unite! | 193970 | [193970-fairy-tail-forces-unite.json](./193970-fairy-tail-forces-unite.json) |
 | Fairy Tail: Guild Masters | 193873 | [193873-fairy-tail-guild-masters.json](./193873-fairy-tail-guild-masters.json) |
+| Fairy Tail: Zeref's Awakening | 63398 | [63398-fairy-tail-zerefs-awakening.json](./63398-fairy-tail-zerefs-awakening.json) |
 | Fairy Tale Diaries | 110972 | [110972-fairy-tale-diaries.json](./110972-fairy-tale-diaries.json) |
 | Fairy Tale Fighters | 406081 | [406081-fairy-tale-fighters.json](./406081-fairy-tale-fighters.json) |
 | Fairy Tale Puzzles: Magic Objects | 111460 | [111460-fairy-tale-puzzles-magic-objects.json](./111460-fairy-tale-puzzles-magic-objects.json) |
@@ -1996,6 +1997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight with WWE Champion | 196583 | [196583-fight-with-wwe-champion.json](./196583-fight-with-wwe-champion.json) |
 | Fight,to the last | 127869 | [127869-fight-to-the-last.json](./127869-fight-to-the-last.json) |
 | Fight'N Rage | 59573 | [59573-fightn-rage.json](./59573-fightn-rage.json) |
+| Fightback | 63357 | [63357-fightback.json](./63357-fightback.json) |
 | FightBit | 250956 | [250956-fightbit.json](./250956-fightbit.json) |
 | FightBots | 259859 | [259859-fightbots.json](./259859-fightbots.json) |
 | Fighter Ace | 209427 | [209427-fighter-ace.json](./209427-fighter-ace.json) |
@@ -4882,6 +4884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fran Bow Chapter 1 | 90962 | [90962-fran-bow-chapter-1.json](./90962-fran-bow-chapter-1.json) |
 | Fran Bow Chapter 4 | 91996 | [91996-fran-bow-chapter-4.json](./91996-fran-bow-chapter-4.json) |
 | Franchise Hockey Manager 10 | 273894 | [273894-franchise-hockey-manager-10.json](./273894-franchise-hockey-manager-10.json) |
+| Franchise Hockey Manager 2013 | 63352 | [63352-franchise-hockey-manager-2013.json](./63352-franchise-hockey-manager-2013.json) |
 | Franchise Hockey Manager 2014 | 8913 | [8913-franchise-hockey-manager-2014.json](./8913-franchise-hockey-manager-2014.json) |
 | Franchise Hockey Manager 3 | 25655 | [25655-franchise-hockey-manager-3.json](./25655-franchise-hockey-manager-3.json) |
 | Franchise Hockey Manager 5 | 110453 | [110453-franchise-hockey-manager-5.json](./110453-franchise-hockey-manager-5.json) |
@@ -5452,6 +5455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier: Elite II | 2953 | [2953-frontier-elite-ii.json](./2953-frontier-elite-ii.json) |
 | Frontier: First Encounters | 2954 | [2954-frontier-first-encounters.json](./2954-frontier-first-encounters.json) |
 | Frontiers | 14081 | [14081-frontiers.json](./14081-frontiers.json) |
+| Frontiers | 63353 | [63353-frontiers.json](./63353-frontiers.json) |
 | Frontiers of the Mind | 315519 | [315519-frontiers-of-the-mind.json](./315519-frontiers-of-the-mind.json) |
 | Frontiers.io: Expansion Pack 1 | 167309 | [167309-frontiers-io-expansion-pack-1.json](./167309-frontiers-io-expansion-pack-1.json) |
 | Frontiers.io: Expansion Pack 2 | 167310 | [167310-frontiers-io-expansion-pack-2.json](./167310-frontiers-io-expansion-pack-2.json) |
