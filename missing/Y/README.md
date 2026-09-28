@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! World Championship 2007 | 21444 | [21444-yu-gi-oh-world-championship-2007.json](./21444-yu-gi-oh-world-championship-2007.json) |
 | Yu-Gi-Oh! Zexal World Duel Carnival | 47665 | [47665-yu-gi-oh-zexal-world-duel-carnival.json](./47665-yu-gi-oh-zexal-world-duel-carnival.json) |
 | Yu-Gi-Oh!: Duelingbook | 202358 | [202358-yu-gi-oh-duelingbook.json](./202358-yu-gi-oh-duelingbook.json) |
+| Yu-Nama: The Puzzle | 63364 | [63364-yu-nama-the-puzzle.json](./63364-yu-nama-the-puzzle.json) |
 | YU-NO: A Girl Who Chants Love at the Bound of This World | 201228 | [201228-yu-no-a-girl-who-chants-love-at-the-bound-of-this-world.json](./201228-yu-no-a-girl-who-chants-love-at-the-bound-of-this-world.json) |
 | Yuánshǐ Bùluò | 120857 | [120857-yuanshi-buluo.json](./120857-yuanshi-buluo.json) |
 | Yubisaki Connection | 333578 | [333578-yubisaki-connection.json](./333578-yubisaki-connection.json) |
