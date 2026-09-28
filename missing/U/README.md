@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UEDI: Shadow of the Citadel | 129801 | [129801-uedi-shadow-of-the-citadel.json](./129801-uedi-shadow-of-the-citadel.json) |
 | UEFA 2000 | 282707 | [282707-uefa-2000.json](./282707-uefa-2000.json) |
 | UEFA 2001 | 237507 | [237507-uefa-2001.json](./237507-uefa-2001.json) |
+| UEFA Champions League 1996/97 | 80477 | [80477-uefa-champions-league-1996-97.json](./80477-uefa-champions-league-1996-97.json) |
 | UEFA Champions League 1998-1999 | 44835 | [44835-uefa-champions-league-1998-1999.json](./44835-uefa-champions-league-1998-1999.json) |
 | UEFA Champions League 2004-2005 | 22303 | [22303-uefa-champions-league-2004-2005.json](./22303-uefa-champions-league-2004-2005.json) |
 | Ueki no Housoku: Jingi Sakuretsu! Nouryokusha Battle | 188652 | [188652-ueki-no-housoku-jingi-sakuretsu-nouryokusha-battle.json](./188652-ueki-no-housoku-jingi-sakuretsu-nouryokusha-battle.json) |
@@ -1580,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uta no Prince-sama: Dolce Vita | 222999 | [222999-uta-no-prince-sama-dolce-vita.json](./222999-uta-no-prince-sama-dolce-vita.json) |
 | Uta no Prince-sama: Live Emotion | 305368 | [305368-uta-no-prince-sama-live-emotion.json](./305368-uta-no-prince-sama-live-emotion.json) |
 | Uta Quta | 404450 | [404450-uta-quta.json](./404450-uta-quta.json) |
+| Utacchi | 80482 | [80482-utacchi.json](./80482-utacchi.json) |
 | Utakata no R: Kako-hen Awayuki | 221743 | [221743-utakata-no-r-kako-hen-awayuki.json](./221743-utakata-no-r-kako-hen-awayuki.json) |
 | Utauta-Uh: Seirei Songs | 167052 | [167052-utauta-uh-seirei-songs.json](./167052-utauta-uh-seirei-songs.json) |
 | Utawarerumono | 24080 | [24080-utawarerumono.json](./24080-utawarerumono.json) |
