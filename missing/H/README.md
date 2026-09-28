@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Times at Sequoia State Park | 192388 | [192388-hard-times-at-sequoia-state-park.json](./192388-hard-times-at-sequoia-state-park.json) |
 | Hard to be a God | 20779 | [20779-hard-to-be-a-god.json](./20779-hard-to-be-a-god.json) |
 | Hard to be a King | 120854 | [120854-hard-to-be-a-king.json](./120854-hard-to-be-a-king.json) |
+| Hard Truck | 94917 | [94917-hard-truck.json](./94917-hard-truck.json) |
 | Hard Vacuum | 132627 | [132627-hard-vacuum.json](./132627-hard-vacuum.json) |
 | Hard West | 7675 | [7675-hard-west.json](./7675-hard-west.json) |
 | Hard West 2 | 116014 | [116014-hard-west-2.json](./116014-hard-west-2.json) |
@@ -4531,6 +4532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wave | 40780 | [40780-hot-wave.json](./40780-hot-wave.json) |
 | Hot Wax | 304749 | [304749-hot-wax.json](./304749-hot-wax.json) |
 | Hot Wax | 380688 | [380688-hot-wax.json](./380688-hot-wax.json) |
+| Hot Wheels | 94908 | [94908-hot-wheels.json](./94908-hot-wheels.json) |
 | Hot Wheels Infinite Rush: Bone Shaker Skeletor Edition | 411833 | [411833-hot-wheels-infinite-rush-bone-shaker-skeletor-edition.json](./411833-hot-wheels-infinite-rush-bone-shaker-skeletor-edition.json) |
 | Hot Wheels Infinite Rush: Boost'n'Slide Pack | 411829 | [411829-hot-wheels-infinite-rush-boostnslide-pack.json](./411829-hot-wheels-infinite-rush-boostnslide-pack.json) |
 | Hot Wheels Infinite Rush: Feel the Heat Pack | 411831 | [411831-hot-wheels-infinite-rush-feel-the-heat-pack.json](./411831-hot-wheels-infinite-rush-feel-the-heat-pack.json) |
