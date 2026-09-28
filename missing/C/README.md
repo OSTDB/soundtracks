@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadenza: Havana Nights | 188030 | [188030-cadenza-havana-nights.json](./188030-cadenza-havana-nights.json) |
 | Cadenza: Music, Betrayal and Death - Collector's Edition | 36465 | [36465-cadenza-music-betrayal-and-death-collectors-edition.json](./36465-cadenza-music-betrayal-and-death-collectors-edition.json) |
 | Cadenza: The Kiss of Death | 88811 | [88811-cadenza-the-kiss-of-death.json](./88811-cadenza-the-kiss-of-death.json) |
+| Cadillac | 94896 | [94896-cadillac.json](./94896-cadillac.json) |
 | Cadillacs and Dinosaurs: The Second Cataclysm | 5367 | [5367-cadillacs-and-dinosaurs-the-second-cataclysm.json](./5367-cadillacs-and-dinosaurs-the-second-cataclysm.json) |
 | Cadmium Red | 364694 | [364694-cadmium-red.json](./364694-cadmium-red.json) |
 | Cadria Item Shop | 107894 | [107894-cadria-item-shop.json](./107894-cadria-item-shop.json) |
@@ -409,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campaign Antietam | 182260 | [182260-campaign-antietam.json](./182260-campaign-antietam.json) |
 | Campaign Gettysburg | 182261 | [182261-campaign-gettysburg.json](./182261-campaign-gettysburg.json) |
 | Campaign Including 25 Extra Missions | 72048 | [72048-campaign-including-25-extra-missions.json](./72048-campaign-including-25-extra-missions.json) |
+| Campaign Manager: An Election Simulator | 94882 | [94882-campaign-manager-an-election-simulator.json](./94882-campaign-manager-an-election-simulator.json) |
 | Campaign Ozark | 135885 | [135885-campaign-ozark.json](./135885-campaign-ozark.json) |
 | Campaign Series Vietnam | 150123 | [150123-campaign-series-vietnam.json](./150123-campaign-series-vietnam.json) |
 | Camper Jumper Simulator | 31541 | [31541-camper-jumper-simulator.json](./31541-camper-jumper-simulator.json) |
@@ -6224,6 +6226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Commute | 229624 | [229624-cosmic-commute.json](./229624-cosmic-commute.json) |
 | Cosmic Conflict | 183880 | [183880-cosmic-conflict.json](./183880-cosmic-conflict.json) |
 | Cosmic Consensus | 68045 | [68045-cosmic-consensus.json](./68045-cosmic-consensus.json) |
+| Cosmic Cop | 94911 | [94911-cosmic-cop.json](./94911-cosmic-cop.json) |
 | Cosmic Cosmonaut | 336641 | [336641-cosmic-cosmonaut.json](./336641-cosmic-cosmonaut.json) |
 | Cosmic Cowboy | 413070 | [413070-cosmic-cowboy.json](./413070-cosmic-cowboy.json) |
 | Cosmic Creeps | 18547 | [18547-cosmic-creeps.json](./18547-cosmic-creeps.json) |
@@ -6902,6 +6905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Belts | 35610 | [35610-crazy-belts.json](./35610-crazy-belts.json) |
 | Crazy Bigheads | 88001 | [88001-crazy-bigheads.json](./88001-crazy-bigheads.json) |
 | Crazy Bike | 412995 | [412995-crazy-bike.json](./412995-crazy-bike.json) |
+| Crazy Bikers 2 | 94883 | [94883-crazy-bikers-2.json](./94883-crazy-bikers-2.json) |
 | Crazy Bill: Smashing Zelebrities at the Zombie Stars Hotel | 175875 | [175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json](./175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json) |
 | Crazy Boom | 147386 | [147386-crazy-boom.json](./147386-crazy-boom.json) |
 | Crazy Boss | 238401 | [238401-crazy-boss.json](./238401-crazy-boss.json) |
