@@ -981,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VillageBlade | 192875 | [192875-villageblade.json](./192875-villageblade.json) |
 | Villager | 178521 | [178521-villager.json](./178521-villager.json) |
 | Villager comes alive | 192451 | [192451-villager-comes-alive.json](./192451-villager-comes-alive.json) |
+| Villager's Biography | 102929 | [102929-villagers-biography.json](./102929-villagers-biography.json) |
 | Villain Master: Dead or Alive | 197356 | [197356-villain-master-dead-or-alive.json](./197356-villain-master-dead-or-alive.json) |
 | Villain Project | 225638 | [225638-villain-project.json](./225638-villain-project.json) |
 | Villainous | 319976 | [319976-villainous.json](./319976-villainous.json) |
