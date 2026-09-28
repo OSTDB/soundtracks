@@ -1741,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peggy's Post | 365093 | [365093-peggys-post.json](./365093-peggys-post.json) |
 | Peglin | 133512 | [133512-peglin.json](./133512-peglin.json) |
 | Pegture | 389722 | [389722-pegture.json](./389722-pegture.json) |
+| Pegzo | 78073 | [78073-pegzo.json](./78073-pegzo.json) |
 | Peh Pai | 91361 | [91361-peh-pai.json](./91361-peh-pai.json) |
 | Pèi'ěrluó Dàlù Jìshì: -Being | 394191 | [394191-peierluo-dalu-jishi-being.json](./394191-peierluo-dalu-jishi-being.json) |
 | Pejes vs. Zombies | 158578 | [158578-pejes-vs-zombies.json](./158578-pejes-vs-zombies.json) |
@@ -1753,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pekoe | 136988 | [136988-pekoe.json](./136988-pekoe.json) |
 | Pelagicland | 320177 | [320177-pelagicland.json](./320177-pelagicland.json) |
 | Pelé: Soccer Legend | 234613 | [234613-pele-soccer-legend.json](./234613-pele-soccer-legend.json) |
+| Pelé! | 78098 | [78098-pele.json](./78098-pele.json) |
 | Pelea | 51546 | [51546-pelea.json](./51546-pelea.json) |
 | Pelican Empyrean | 373187 | [373187-pelican-empyrean.json](./373187-pelican-empyrean.json) |
 | Pellet Packer: Cookie Crunch | 270965 | [270965-pellet-packer-cookie-crunch.json](./270965-pellet-packer-cookie-crunch.json) |
