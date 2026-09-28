@@ -6514,6 +6514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project 13: Taxidermy Trails | 288192 | [288192-project-13-taxidermy-trails.json](./288192-project-13-taxidermy-trails.json) |
 | Project 1v1 (working title) | 131448 | [131448-project-1v1-working-title.json](./131448-project-1v1-working-title.json) |
 | Project 2/3 | 322933 | [322933-project-2-3.json](./322933-project-2-3.json) |
+| Project 3 VR | 98586 | [98586-project-3-vr.json](./98586-project-3-vr.json) |
 | Project 44: Enlightenment | 220657 | [220657-project-44-enlightenment.json](./220657-project-44-enlightenment.json) |
 | Project 83113 | 22267 | [22267-project-83113.json](./22267-project-83113.json) |
 | Project A 2: Shijou Saidai no Hyouteki | 97296 | [97296-project-a-2-shijou-saidai-no-hyouteki.json](./97296-project-a-2-shijou-saidai-no-hyouteki.json) |
@@ -6961,6 +6962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protect the campus | 123502 | [123502-protect-the-campus.json](./123502-protect-the-campus.json) |
 | Protect the Planet | 257969 | [257969-protect-the-planet.json](./257969-protect-the-planet.json) |
 | Protect Your Gold From Barack Obama | 313343 | [313343-protect-your-gold-from-barack-obama.json](./313343-protect-your-gold-from-barack-obama.json) |
+| Protect Zoey from the Zombies | 98595 | [98595-protect-zoey-from-the-zombies.json](./98595-protect-zoey-from-the-zombies.json) |
 | ProtectHeart | 286036 | [286036-protectheart.json](./286036-protectheart.json) |
 | Protecting Santa | 192986 | [192986-protecting-santa.json](./192986-protecting-santa.json) |
 | Protecting the Diamond | 394369 | [394369-protecting-the-diamond.json](./394369-protecting-the-diamond.json) |
@@ -7792,6 +7794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles for smart: Dogs | 107848 | [107848-puzzles-for-smart-dogs.json](./107848-puzzles-for-smart-dogs.json) |
 | Puzzles for smart: Horses | 111492 | [111492-puzzles-for-smart-horses.json](./111492-puzzles-for-smart-horses.json) |
 | PuzzleScriptMis | 312684 | [312684-puzzlescriptmis.json](./312684-puzzlescriptmis.json) |
+| PuzzleSpin: Patterns in Nature | 98572 | [98572-puzzlespin-patterns-in-nature.json](./98572-puzzlespin-patterns-in-nature.json) |
 | PuzzleTales: Svalbard | 120202 | [120202-puzzletales-svalbard.json](./120202-puzzletales-svalbard.json) |
 | Puzzletronics Digital Infinite | 157039 | [157039-puzzletronics-digital-infinite.json](./157039-puzzletronics-digital-infinite.json) |
 | Puzzline | 224541 | [224541-puzzline.json](./224541-puzzline.json) |
