@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quick Quack | 201136 | [201136-quick-quack.json](./201136-quick-quack.json) |
 | Quick Revolver | 180588 | [180588-quick-revolver.json](./180588-quick-revolver.json) |
 | Quick Scrap | 185111 | [185111-quick-scrap.json](./185111-quick-scrap.json) |
+| Quick Shooter | 62796 | [62796-quick-shooter.json](./62796-quick-shooter.json) |
 | Quick Thief | 250351 | [250351-quick-thief.json](./250351-quick-thief.json) |
 | Quick Tower Defence Ultimate | 212745 | [212745-quick-tower-defence-ultimate.json](./212745-quick-tower-defence-ultimate.json) |
 | Quick Trivia | 369751 | [369751-quick-trivia.json](./369751-quick-trivia.json) |
