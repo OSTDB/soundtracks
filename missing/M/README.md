@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Blocker HD | 52558 | [52558-mad-blocker-hd.json](./52558-mad-blocker-hd.json) |
 | Mad Bullets | 33262 | [33262-mad-bullets.json](./33262-mad-bullets.json) |
 | Mad Bus | 156101 | [156101-mad-bus.json](./156101-mad-bus.json) |
+| Mad Carnage | 86241 | [86241-mad-carnage.json](./86241-mad-carnage.json) |
 | Mad Cars | 94261 | [94261-mad-cars.json](./94261-mad-cars.json) |
 | Mad Cat's World | 120910 | [120910-mad-cats-world.json](./120910-mad-cats-world.json) |
 | Mad Cop 3 | 175371 | [175371-mad-cop-3.json](./175371-mad-cop-3.json) |
@@ -6896,6 +6897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters University: Hide and Sneak | 205615 | [205615-monsters-university-hide-and-sneak.json](./205615-monsters-university-hide-and-sneak.json) |
 | Monsters vs. Aliens | 5021 | [5021-monsters-vs-aliens.json](./5021-monsters-vs-aliens.json) |
 | Monsters, Briefcase and Road | 159831 | [159831-monsters-briefcase-and-road.json](./159831-monsters-briefcase-and-road.json) |
+| Monsters, Inc. | 86185 | [86185-monsters-inc.json](./86185-monsters-inc.json) |
 | Monsters, Inc.: Wreck Room Arcade - Eight Ball Chaos | 69576 | [69576-monsters-inc-wreck-room-arcade-eight-ball-chaos.json](./69576-monsters-inc-wreck-room-arcade-eight-ball-chaos.json) |
 | Monsters: Survival | 114997 | [114997-monsters-survival.json](./114997-monsters-survival.json) |
 | Monsters: The Hunter of Darkness | 214198 | [214198-monsters-the-hunter-of-darkness.json](./214198-monsters-the-hunter-of-darkness.json) |
