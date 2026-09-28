@@ -1436,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technuclear | 180812 | [180812-technuclear.json](./180812-technuclear.json) |
 | Techtonica | 194465 | [194465-techtonica.json](./194465-techtonica.json) |
 | TechWars | 47562 | [47562-techwars.json](./47562-techwars.json) |
+| Techwars Deathmatch | 96872 | [96872-techwars-deathmatch.json](./96872-techwars-deathmatch.json) |
 | Techwars Global Conflict: Demigod Legacy Edition | 188028 | [188028-techwars-global-conflict-demigod-legacy-edition.json](./188028-techwars-global-conflict-demigod-legacy-edition.json) |
 | Techwars Global Conflict: Heroic Edition | 188019 | [188019-techwars-global-conflict-heroic-edition.json](./188019-techwars-global-conflict-heroic-edition.json) |
 | Techwars Global Conflict: The Last Emperor From Hell Edition | 188045 | [188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json](./188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json) |
@@ -3701,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Door Museum | 177483 | [177483-the-door-museum.json](./177483-the-door-museum.json) |
 | The Door of Redemption | 148972 | [148972-the-door-of-redemption.json](./148972-the-door-of-redemption.json) |
 | The Door of thoughts | 212777 | [212777-the-door-of-thoughts.json](./212777-the-door-of-thoughts.json) |
+| The Door-Secret Neighbor | 96912 | [96912-the-door-secret-neighbor.json](./96912-the-door-secret-neighbor.json) |
 | The Doors That Led to Nowhere | 336604 | [336604-the-doors-that-led-to-nowhere.json](./336604-the-doors-that-led-to-nowhere.json) |
 | The Dope Game: Android Edition | 109202 | [109202-the-dope-game-android-edition.json](./109202-the-dope-game-android-edition.json) |
 | The Dot | 226205 | [226205-the-dot.json](./226205-the-dot.json) |
@@ -6157,6 +6159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The New Addams Family | 5345 | [5345-the-new-addams-family.json](./5345-the-new-addams-family.json) |
 | The New California | 61649 | [61649-the-new-california.json](./61649-the-new-california.json) |
 | The New Earth | 157540 | [157540-the-new-earth.json](./157540-the-new-earth.json) |
+| The New Girl | 96875 | [96875-the-new-girl.json](./96875-the-new-girl.json) |
 | The New Order Victoria 3 | 356270 | [356270-the-new-order-victoria-3.json](./356270-the-new-order-victoria-3.json) |
 | The New Order: Last Days of Europe | 194463 | [194463-the-new-order-last-days-of-europe.json](./194463-the-new-order-last-days-of-europe.json) |
 | The New Resistance | 196234 | [196234-the-new-resistance.json](./196234-the-new-resistance.json) |
@@ -7651,6 +7654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Three Kingdoms: The Dynamic | 212857 | [212857-the-three-kingdoms-the-dynamic.json](./212857-the-three-kingdoms-the-dynamic.json) |
 | The Three Kingdoms: The Tales of Jian An | 379442 | [379442-the-three-kingdoms-the-tales-of-jian-an.json](./379442-the-three-kingdoms-the-tales-of-jian-an.json) |
 | The Three Musketeers | 186262 | [186262-the-three-musketeers.json](./186262-the-three-musketeers.json) |
+| The Three Musketeers: D'Artagnan & the 12 Jewels | 96862 | [96862-the-three-musketeers-dartagnan-and-the-12-jewels.json](./96862-the-three-musketeers-dartagnan-and-the-12-jewels.json) |
 | The Three Musketeers: One For All! | 20486 | [20486-the-three-musketeers-one-for-all.json](./20486-the-three-musketeers-one-for-all.json) |
 | The Three Stooges | 25690 | [25690-the-three-stooges.json](./25690-the-three-stooges.json) |
 | The Three Stooges | 264852 | [264852-the-three-stooges.json](./264852-the-three-stooges.json) |
@@ -11913,6 +11917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towering | 230295 | [230295-towering.json](./230295-towering.json) |
 | Towering Rescue | 47263 | [47263-towering-rescue.json](./47263-towering-rescue.json) |
 | Towerlands | 227271 | [227271-towerlands.json](./227271-towerlands.json) |
+| TowerMadness HD | 96896 | [96896-towermadness-hd.json](./96896-towermadness-hd.json) |
 | TowerMancer II | 382337 | [382337-towermancer-ii.json](./382337-towermancer-ii.json) |
 | Towerø | 318427 | [318427-tower.json](./318427-tower.json) |
 | Towers | 105286 | [105286-towers.json](./105286-towers.json) |
