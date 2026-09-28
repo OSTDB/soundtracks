@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uchu Mega Fight | 196791 | [196791-uchu-mega-fight.json](./196791-uchu-mega-fight.json) |
 | Uchusen: Ultimate Ploid Battle | 159709 | [159709-uchusen-ultimate-ploid-battle.json](./159709-uchusen-ultimate-ploid-battle.json) |
 | Uchuu Bouken Shoujo Nami: Davie Jones - Umi no Akuma | 400501 | [400501-uchuu-bouken-shoujo-nami-davie-jones-umi-no-akuma.json](./400501-uchuu-bouken-shoujo-nami-davie-jones-umi-no-akuma.json) |
+| Uchuu no Kishi: Tekkaman Blade | 68070 | [68070-uchuu-no-kishi-tekkaman-blade.json](./68070-uchuu-no-kishi-tekkaman-blade.json) |
 | Uchuu Senkan Yamato | 37350 | [37350-uchuu-senkan-yamato.json](./37350-uchuu-senkan-yamato.json) |
 | Ucieczka | 398338 | [398338-ucieczka.json](./398338-ucieczka.json) |
 | UCraft | 85462 | [85462-ucraft.json](./85462-ucraft.json) |
