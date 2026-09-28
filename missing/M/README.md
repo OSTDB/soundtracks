@@ -7235,6 +7235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moraff's World | 74053 | [74053-moraffs-world.json](./74053-moraffs-world.json) |
 | Morbid | 145591 | [145591-morbid.json](./145591-morbid.json) |
 | Morbid Catastrophe | 248313 | [248313-morbid-catastrophe.json](./248313-morbid-catastrophe.json) |
+| Morbid Land | 62826 | [62826-morbid-land.json](./62826-morbid-land.json) |
 | Morbid: The Seven Acolytes | 134817 | [134817-morbid-the-seven-acolytes.json](./134817-morbid-the-seven-acolytes.json) |
 | Morbidity: 1 | 271757 | [271757-morbidity-1.json](./271757-morbidity-1.json) |
 | Morbidity: 2 | 271758 | [271758-morbidity-2.json](./271758-morbidity-2.json) |
@@ -9239,6 +9240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Island II | 147865 | [147865-mystery-island-ii.json](./147865-mystery-island-ii.json) |
 | Mystery Island: Hidden Object Games | 121568 | [121568-mystery-island-hidden-object-games.json](./121568-mystery-island-hidden-object-games.json) |
 | Mystery Island: Missing Amy | 367614 | [367614-mystery-island-missing-amy.json](./367614-mystery-island-missing-amy.json) |
+| Mystery Legends: Phantom of the Opera | 62836 | [62836-mystery-legends-phantom-of-the-opera.json](./62836-mystery-legends-phantom-of-the-opera.json) |
 | Mystery Legends: Phantom of the Opera - Collector’s Edition | 239602 | [239602-mystery-legends-phantom-of-the-opera-collector-s-edition.json](./239602-mystery-legends-phantom-of-the-opera-collector-s-edition.json) |
 | Mystery Loss | 57029 | [57029-mystery-loss.json](./57029-mystery-loss.json) |
 | Mystery Manor | 88456 | [88456-mystery-manor.json](./88456-mystery-manor.json) |
