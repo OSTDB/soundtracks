@@ -1868,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenrow | 33321 | [33321-tenrow.json](./33321-tenrow.json) |
 | Tens and Twos | 175384 | [175384-tens-and-twos.json](./175384-tens-and-twos.json) |
 | Tensei | 264610 | [264610-tensei.json](./264610-tensei.json) |
+| Tensei Shitara Slime Datta Ken: Lord of Tempest | 90112 | [90112-tensei-shitara-slime-datta-ken-lord-of-tempest.json](./90112-tensei-shitara-slime-datta-ken-lord-of-tempest.json) |
 | Tensen Nyannyan: Gekigyouban | 166149 | [166149-tensen-nyannyan-gekigyouban.json](./166149-tensen-nyannyan-gekigyouban.json) |
 | Tenshi no Inai 12-gatsu | 148442 | [148442-tenshi-no-inai-12-gatsu.json](./148442-tenshi-no-inai-12-gatsu.json) |
 | Tenshi no Solitaire | 409079 | [409079-tenshi-no-solitaire.json](./409079-tenshi-no-solitaire.json) |
@@ -4227,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forever Labyrinth | 285049 | [285049-the-forever-labyrinth.json](./285049-the-forever-labyrinth.json) |
 | The Forever Moon | 165023 | [165023-the-forever-moon.json](./165023-the-forever-moon.json) |
 | The Foreverlands | 181234 | [181234-the-foreverlands.json](./181234-the-foreverlands.json) |
+| The Forge Arena | 90078 | [90078-the-forge-arena.json](./90078-the-forge-arena.json) |
 | The Forger | 166060 | [166060-the-forger.json](./166060-the-forger.json) |
 | The Forgers | 352186 | [352186-the-forgers.json](./352186-the-forgers.json) |
 | The Forgotten City: Cloud Version | 173145 | [173145-the-forgotten-city-cloud-version.json](./173145-the-forgotten-city-cloud-version.json) |
@@ -14248,6 +14250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle Evolution | 239346 | [239346-turtle-evolution.json](./239346-turtle-evolution.json) |
 | Turtle Fly: Into Space | 232574 | [232574-turtle-fly-into-space.json](./232574-turtle-fly-into-space.json) |
 | Turtle Invaders | 252138 | [252138-turtle-invaders.json](./252138-turtle-invaders.json) |
+| Turtle Lu | 90133 | [90133-turtle-lu.json](./90133-turtle-lu.json) |
 | Turtle Racing | 331872 | [331872-turtle-racing.json](./331872-turtle-racing.json) |
 | Turtle River RPG | 304564 | [304564-turtle-river-rpg.json](./304564-turtle-river-rpg.json) |
 | Turtle Rush | 122368 | [122368-turtle-rush.json](./122368-turtle-rush.json) |
