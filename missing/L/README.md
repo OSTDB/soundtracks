@@ -1272,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of the Past | 208392 | [208392-legends-of-the-past.json](./208392-legends-of-the-past.json) |
 | Legends of the Round Table | 287791 | [287791-legends-of-the-round-table.json](./287791-legends-of-the-round-table.json) |
 | Legends of the Shadows | 208391 | [208391-legends-of-the-shadows.json](./208391-legends-of-the-shadows.json) |
+| Legends of the Universe - Cosmic Bounty | 75953 | [75953-legends-of-the-universe-cosmic-bounty.json](./75953-legends-of-the-universe-cosmic-bounty.json) |
 | Legends of the Wild | 358481 | [358481-legends-of-the-wild.json](./358481-legends-of-the-wild.json) |
 | Legends of Time | 31673 | [31673-legends-of-time.json](./31673-legends-of-time.json) |
 | Legends of Tzonac 2: Friendship & Automata | 229612 | [229612-legends-of-tzonac-2-friendship-and-automata.json](./229612-legends-of-tzonac-2-friendship-and-automata.json) |
@@ -3312,6 +3313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Loop | 391204 | [391204-loot-loop.json](./391204-loot-loop.json) |
 | Loot Loot Goblin | 316778 | [316778-loot-loot-goblin.json](./316778-loot-loot-goblin.json) |
 | Loot or Die | 31403 | [31403-loot-or-die.json](./31403-loot-or-die.json) |
+| Loot Run | 75939 | [75939-loot-run.json](./75939-loot-run.json) |
 | Loot Scoot | 386702 | [386702-loot-scoot.json](./386702-loot-scoot.json) |
 | Loot Slider | 148955 | [148955-loot-slider.json](./148955-loot-slider.json) |
 | Loot Survivor | 392485 | [392485-loot-survivor.json](./392485-loot-survivor.json) |
