@@ -919,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gates of Dawn | 13857 | [13857-gates-of-dawn.json](./13857-gates-of-dawn.json) |
 | Gates of Devoroth | 211288 | [211288-gates-of-devoroth.json](./211288-gates-of-devoroth.json) |
 | Gates of Horizon | 36125 | [36125-gates-of-horizon.json](./36125-gates-of-horizon.json) |
+| Gates of Horn and Ivory | 108633 | [108633-gates-of-horn-and-ivory.json](./108633-gates-of-horn-and-ivory.json) |
 | Gates of Mirnah | 148998 | [148998-gates-of-mirnah.json](./148998-gates-of-mirnah.json) |
 | Gates of Nowhere | 50892 | [50892-gates-of-nowhere.json](./50892-gates-of-nowhere.json) |
 | Gates of Osiris | 61899 | [61899-gates-of-osiris.json](./61899-gates-of-osiris.json) |
