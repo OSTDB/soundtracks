@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M_rdle | 372094 | [372094-m-rdle.json](./372094-m-rdle.json) |
 | M-1 Abrams Battletank | 45600 | [45600-m-1-abrams-battletank.json](./45600-m-1-abrams-battletank.json) |
 | M-79 Ambush | 123021 | [123021-m-79-ambush.json](./123021-m-79-ambush.json) |
+| M-Plan | 109868 | [109868-m-plan.json](./109868-m-plan.json) |
 | M-Tee | 195504 | [195504-m-tee.json](./195504-m-tee.json) |
 | M. I. A. - Missing In Action | 76199 | [76199-m-i-a-missing-in-action.json](./76199-m-i-a-missing-in-action.json) |
 | M. Stain | 356108 | [356108-m-stain.json](./356108-m-stain.json) |
@@ -8110,6 +8111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muse Dash: Muse Plus | 356177 | [356177-muse-dash-muse-plus.json](./356177-muse-dash-muse-plus.json) |
 | Museca | 57107 | [57107-museca.json](./57107-museca.json) |
 | Museful | 398543 | [398543-museful.json](./398543-museful.json) |
+| Museum | 109891 | [109891-museum.json](./109891-museum.json) |
 | Museum | 185437 | [185437-museum.json](./185437-museum.json) |
 | Museum of Extravagance | 169860 | [169860-museum-of-extravagance.json](./169860-museum-of-extravagance.json) |
 | Museum of Immersive Art | 341345 | [341345-museum-of-immersive-art.json](./341345-museum-of-immersive-art.json) |
