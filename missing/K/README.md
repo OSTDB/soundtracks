@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kagitori: Bird in Cage Hiding the Key | 260121 | [260121-kagitori-bird-in-cage-hiding-the-key.json](./260121-kagitori-bird-in-cage-hiding-the-key.json) |
 | Kago no Naka no Alicis | 218383 | [218383-kago-no-naka-no-alicis.json](./218383-kago-no-naka-no-alicis.json) |
 | Kaguya-sama: Love Is War | 239005 | [239005-kaguya-sama-love-is-war.json](./239005-kaguya-sama-love-is-war.json) |
+| Kai Temple | 94910 | [94910-kai-temple.json](./94910-kai-temple.json) |
 | Kai Yuan | 236948 | [236948-kai-yuan.json](./236948-kai-yuan.json) |
 | Kai Yuen's Overlapped Universe | 111068 | [111068-kai-yuens-overlapped-universe.json](./111068-kai-yuens-overlapped-universe.json) |
 | Kai-ri-Sei Million Arthur | 137066 | [137066-kai-ri-sei-million-arthur.json](./137066-kai-ri-sei-million-arthur.json) |
