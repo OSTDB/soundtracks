@@ -3273,6 +3273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School: Bisexual Experience | 106590 | [106590-high-school-bisexual-experience.json](./106590-high-school-bisexual-experience.json) |
 | High Sea Saga | 202849 | [202849-high-sea-saga.json](./202849-high-sea-saga.json) |
 | High Seas Havoc | 10150 | [10150-high-seas-havoc.json](./10150-high-seas-havoc.json) |
+| High Seas Trader | 73867 | [73867-high-seas-trader.json](./73867-high-seas-trader.json) |
 | High Seas, High Profits! | 290922 | [290922-high-seas-high-profits.json](./290922-high-seas-high-profits.json) |
 | High Sidin': Hyphy Edition | 325042 | [325042-high-sidin-hyphy-edition.json](./325042-high-sidin-hyphy-edition.json) |
 | High Speed Trains 2 - England | 88742 | [88742-high-speed-trains-2-england.json](./88742-high-speed-trains-2-england.json) |
@@ -4971,6 +4972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Puzzle & Board Games 2008 | 97128 | [97128-hoyle-puzzle-and-board-games-2008.json](./97128-hoyle-puzzle-and-board-games-2008.json) |
 | Hoyle Puzzle & Board Games 2009 | 210052 | [210052-hoyle-puzzle-and-board-games-2009.json](./210052-hoyle-puzzle-and-board-games-2009.json) |
 | Hoyle Puzzle and Board Games 2010 | 51209 | [51209-hoyle-puzzle-and-board-games-2010.json](./51209-hoyle-puzzle-and-board-games-2010.json) |
+| Hoyle Solitaire | 73883 | [73883-hoyle-solitaire.json](./73883-hoyle-solitaire.json) |
 | Hoyle South Beach Solitaire | 210051 | [210051-hoyle-south-beach-solitaire.json](./210051-hoyle-south-beach-solitaire.json) |
 | Hoyle Table Games 2004 | 70940 | [70940-hoyle-table-games-2004.json](./70940-hoyle-table-games-2004.json) |
 | Hozy | 345443 | [345443-hozy.json](./345443-hozy.json) |
@@ -5482,6 +5484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperbowl | 14316 | [14316-hyperbowl.json](./14316-hyperbowl.json) |
 | Hyperbowl Plus! Edition | 256373 | [256373-hyperbowl-plus-edition.json](./256373-hyperbowl-plus-edition.json) |
 | HyperBowl Tokyo | 263583 | [263583-hyperbowl-tokyo.json](./263583-hyperbowl-tokyo.json) |
+| HyperBowl: Arcade Edition | 73880 | [73880-hyperbowl-arcade-edition.json](./73880-hyperbowl-arcade-edition.json) |
 | HyperBrawl Tournament: Ultimate Edition | 188012 | [188012-hyperbrawl-tournament-ultimate-edition.json](./188012-hyperbrawl-tournament-ultimate-edition.json) |
 | Hyperburner | 94780 | [94780-hyperburner.json](./94780-hyperburner.json) |
 | Hypercharge: Unboxed | 39758 | [39758-hypercharge-unboxed.json](./39758-hypercharge-unboxed.json) |
