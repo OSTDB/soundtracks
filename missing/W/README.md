@@ -1718,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When the Light Dies | 258000 | [258000-when-the-light-dies.json](./258000-when-the-light-dies.json) |
 | When the Lying Petals Scatter Into the Wind | 155104 | [155104-when-the-lying-petals-scatter-into-the-wind.json](./155104-when-the-lying-petals-scatter-into-the-wind.json) |
 | When the Moon Falls, We Speak | 390677 | [390677-when-the-moon-falls-we-speak.json](./390677-when-the-moon-falls-we-speak.json) |
+| When the Night Comes | 117139 | [117139-when-the-night-comes.json](./117139-when-the-night-comes.json) |
 | When The Rumors Become Real | 370185 | [370185-when-the-rumors-become-real.json](./370185-when-the-rumors-become-real.json) |
 | When the Shutter Stops | 109713 | [109713-when-the-shutter-stops.json](./109713-when-the-shutter-stops.json) |
 | When The Snow is Gone | 383352 | [383352-when-the-snow-is-gone.json](./383352-when-the-snow-is-gone.json) |
@@ -2149,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Buster: Heroes of Titan | 75152 | [75152-wild-buster-heroes-of-titan.json](./75152-wild-buster-heroes-of-titan.json) |
 | Wild Card | 37349 | [37349-wild-card.json](./37349-wild-card.json) |
 | Wild Cats | 365662 | [365662-wild-cats.json](./365662-wild-cats.json) |
+| Wild Cats of Wasteland | 117131 | [117131-wild-cats-of-wasteland.json](./117131-wild-cats-of-wasteland.json) |
 | Wild Cheetah Sim 3D | 330725 | [330725-wild-cheetah-sim-3d.json](./330725-wild-cheetah-sim-3d.json) |
 | Wild Cosmos | 381862 | [381862-wild-cosmos.json](./381862-wild-cosmos.json) |
 | Wild Country | 151014 | [151014-wild-country.json](./151014-wild-country.json) |
@@ -3535,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Wizard: The Mirror Kingdom | 57355 | [57355-world-of-wizard-the-mirror-kingdom.json](./57355-world-of-wizard-the-mirror-kingdom.json) |
 | World of Wonder | 147396 | [147396-world-of-wonder.json](./147396-world-of-wonder.json) |
 | World of Zoo | 5287 | [5287-world-of-zoo.json](./5287-world-of-zoo.json) |
+| World on Fire | 117171 | [117171-world-on-fire.json](./117171-world-on-fire.json) |
 | World on Paper | 307572 | [307572-world-on-paper.json](./307572-world-on-paper.json) |
 | World Poker Championship | 68635 | [68635-world-poker-championship.json](./68635-world-poker-championship.json) |
 | World Poker Tour | 220133 | [220133-world-poker-tour.json](./220133-world-poker-tour.json) |
