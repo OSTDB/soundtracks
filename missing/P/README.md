@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Shakespeare: Loves Labor(s) Lost | 102158 | [102158-paper-shakespeare-loves-labor-s-lost.json](./102158-paper-shakespeare-loves-labor-s-lost.json) |
 | Paper Shakespeare: Stick Julius Caesar (With a Dagger) - War on Xmas | 156179 | [156179-paper-shakespeare-stick-julius-caesar-with-a-dagger-war-on-xmas.json](./156179-paper-shakespeare-stick-julius-caesar-with-a-dagger-war-on-xmas.json) |
 | Paper Shakespeare: The Legend of Rainbow Hollow | 118256 | [118256-paper-shakespeare-the-legend-of-rainbow-hollow.json](./118256-paper-shakespeare-the-legend-of-rainbow-hollow.json) |
+| Paper Shakespeare: To Date or Not to Date? | 90804 | [90804-paper-shakespeare-to-date-or-not-to-date.json](./90804-paper-shakespeare-to-date-or-not-to-date.json) |
 | Paper Shakespeare: To Date or Not to Date? 2 | 127208 | [127208-paper-shakespeare-to-date-or-not-to-date-2.json](./127208-paper-shakespeare-to-date-or-not-to-date-2.json) |
 | Paper Shakespeare: Very Naked Hamlet | 171577 | [171577-paper-shakespeare-very-naked-hamlet.json](./171577-paper-shakespeare-very-naked-hamlet.json) |
 | Paper Snakes | 196808 | [196808-paper-snakes.json](./196808-paper-snakes.json) |
@@ -5021,6 +5022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Tactical Training | 57657 | [57657-police-tactical-training.json](./57657-police-tactical-training.json) |
 | Police Trainer | 39838 | [39838-police-trainer.json](./39838-police-trainer.json) |
 | Police Transporter Simulator | 220650 | [220650-police-transporter-simulator.json](./220650-police-transporter-simulator.json) |
+| Police Truck | 90805 | [90805-police-truck.json](./90805-police-truck.json) |
 | Police vs. Gangster New York 3D | 267349 | [267349-police-vs-gangster-new-york-3d.json](./267349-police-vs-gangster-new-york-3d.json) |
 | Police X Heroine Lovepatrina! Love na Rhythm de Taiho Shimasu! | 152332 | [152332-police-x-heroine-lovepatrina-love-na-rhythm-de-taiho-shimasu.json](./152332-police-x-heroine-lovepatrina-love-na-rhythm-de-taiho-shimasu.json) |
 | Police: Chase Down | 82131 | [82131-police-chase-down.json](./82131-police-chase-down.json) |
@@ -5925,6 +5927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Preschool & Kindergarten 2 | 88279 | [88279-preschool-and-kindergarten-2.json](./88279-preschool-and-kindergarten-2.json) |
 | Preschool & Kindergarten Games | 88268 | [88268-preschool-and-kindergarten-games.json](./88268-preschool-and-kindergarten-games.json) |
 | Preschool All-In-One | 99138 | [99138-preschool-all-in-one.json](./99138-preschool-all-in-one.json) |
+| Preschool EduKitchen | 90799 | [90799-preschool-edukitchen.json](./90799-preschool-edukitchen.json) |
 | Preschool Games Kids Learning | 107650 | [107650-preschool-games-kids-learning.json](./107650-preschool-games-kids-learning.json) |
 | Preschool Numbers - Play & Learn | 89700 | [89700-preschool-numbers-play-and-learn.json](./89700-preschool-numbers-play-and-learn.json) |
 | Prescience | 217373 | [217373-prescience.json](./217373-prescience.json) |
@@ -7230,6 +7233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pudding: Lyre Knight | 375851 | [375851-pudding-lyre-knight.json](./375851-pudding-lyre-knight.json) |
 | Puddle | 377567 | [377567-puddle.json](./377567-puddle.json) |
 | Pueblo | 333767 | [333767-pueblo.json](./333767-pueblo.json) |
+| Puerto Rico HD | 90795 | [90795-puerto-rico-hd.json](./90795-puerto-rico-hd.json) |
 | Puff and the Catnip Caper | 185430 | [185430-puff-and-the-catnip-caper.json](./185430-puff-and-the-catnip-caper.json) |
 | Puff Love Story | 371903 | [371903-puff-love-story.json](./371903-puff-love-story.json) |
 | Puff Puff the Magic Pipe | 156528 | [156528-puff-puff-the-magic-pipe.json](./156528-puff-puff-the-magic-pipe.json) |
