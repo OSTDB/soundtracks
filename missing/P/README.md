@@ -1864,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penumbra: Black Plague - Gold Edition | 27840 | [27840-penumbra-black-plague-gold-edition.json](./27840-penumbra-black-plague-gold-edition.json) |
 | Penumbris Doña | 325701 | [325701-penumbris-dona.json](./325701-penumbris-dona.json) |
 | Peojeul Pooh | 61672 | [61672-peojeul-pooh.json](./61672-peojeul-pooh.json) |
+| People Cu3ed | 108049 | [108049-people-cu3ed.json](./108049-people-cu3ed.json) |
 | People Eater | 28901 | [28901-people-eater.json](./28901-people-eater.json) |
 | People Jumping Tower | 328035 | [328035-people-jumping-tower.json](./328035-people-jumping-tower.json) |
 | People Manipulation Sim | 181369 | [181369-people-manipulation-sim.json](./181369-people-manipulation-sim.json) |
@@ -5089,6 +5090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygon Survival | 269111 | [269111-polygon-survival.json](./269111-polygon-survival.json) |
 | Polygonal Passage | 298103 | [298103-polygonal-passage.json](./298103-polygonal-passage.json) |
 | Polygonauts | 25785 | [25785-polygonauts.json](./25785-polygonauts.json) |
+| Polygone | 108044 | [108044-polygone.json](./108044-polygone.json) |
 | Polygonet Commanders | 222905 | [222905-polygonet-commanders.json](./222905-polygonet-commanders.json) |
 | Polygunr | 291038 | [291038-polygunr.json](./291038-polygunr.json) |
 | Polyhop: The Skybound Islands | 278743 | [278743-polyhop-the-skybound-islands.json](./278743-polyhop-the-skybound-islands.json) |
@@ -5574,6 +5576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potsworth & Co. | 95379 | [95379-potsworth-and-co.json](./95379-potsworth-and-co.json) |
 | Pottergame | 159069 | [159069-pottergame.json](./159069-pottergame.json) |
 | Pottery Maker | 89264 | [89264-pottery-maker.json](./89264-pottery-maker.json) |
+| Pottis Dream Forge | 108045 | [108045-pottis-dream-forge.json](./108045-pottis-dream-forge.json) |
 | Potty Quest | 225768 | [225768-potty-quest.json](./225768-potty-quest.json) |
 | Potty Racers | 269602 | [269602-potty-racers.json](./269602-potty-racers.json) |
 | Pouch | 340596 | [340596-pouch.json](./340596-pouch.json) |
@@ -5789,6 +5792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prana | 75113 | [75113-prana.json](./75113-prana.json) |
 | Prank Call | 165423 | [165423-prank-call.json](./165423-prank-call.json) |
 | Prank Heart | 287754 | [287754-prank-heart.json](./287754-prank-heart.json) |
+| Prank Masters | 108030 | [108030-prank-masters.json](./108030-prank-masters.json) |
 | Pranksters: Treasure of the Indians | 322570 | [322570-pranksters-treasure-of-the-indians.json](./322570-pranksters-treasure-of-the-indians.json) |
 | Pranksterz: From Russia With Love | 23195 | [23195-pranksterz-from-russia-with-love.json](./23195-pranksterz-from-russia-with-love.json) |
 | Prawngeon | 266234 | [266234-prawngeon.json](./266234-prawngeon.json) |
@@ -6710,6 +6714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Reborn | 192881 | [192881-project-reborn.json](./192881-project-reborn.json) |
 | Project Red Sun | 407527 | [407527-project-red-sun.json](./407527-project-red-sun.json) |
 | Project Regolith | 236793 | [236793-project-regolith.json](./236793-project-regolith.json) |
+| Project Reset | 108042 | [108042-project-reset.json](./108042-project-reset.json) |
 | Project Restoration | 184397 | [184397-project-restoration.json](./184397-project-restoration.json) |
 | Project Rogueteers | 316772 | [316772-project-rogueteers.json](./316772-project-rogueteers.json) |
 | Project Romboid | 207300 | [207300-project-romboid.json](./207300-project-romboid.json) |
