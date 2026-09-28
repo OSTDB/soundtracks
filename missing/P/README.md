@@ -3133,6 +3133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinballistik | 52654 | [52654-pinballistik.json](./52654-pinballistik.json) |
 | Pinballtoon | 289299 | [289299-pinballtoon.json](./289299-pinballtoon.json) |
 | Pinbot | 295908 | [295908-pinbot.json](./295908-pinbot.json) |
+| Pinch | 66756 | [66756-pinch.json](./66756-pinch.json) |
 | Pinch 2 HD | 63320 | [63320-pinch-2-hd.json](./63320-pinch-2-hd.json) |
 | Pinch 2 HD: Special Edition | 63316 | [63316-pinch-2-hd-special-edition.json](./63316-pinch-2-hd-special-edition.json) |
 | Pinchcliffe Grand Prix: Anniversary Edition | 345121 | [345121-pinchcliffe-grand-prix-anniversary-edition.json](./345121-pinchcliffe-grand-prix-anniversary-edition.json) |
@@ -3268,6 +3269,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipler | 57701 | [57701-pipler.json](./57701-pipler.json) |
 | Pipo Park | 141225 | [141225-pipo-park.json](./141225-pipo-park.json) |
 | Pipoclub | 203254 | [203254-pipoclub.json](./203254-pipoclub.json) |
+| Piposh 3D: The Revolution | 66750 | [66750-piposh-3d-the-revolution.json](./66750-piposh-3d-the-revolution.json) |
+| Piposh in: A Dream Come True | 66751 | [66751-piposh-in-a-dream-come-true.json](./66751-piposh-in-a-dream-come-true.json) |
 | Pippa and Your Phantasmal Problem | 322567 | [322567-pippa-and-your-phantasmal-problem.json](./322567-pippa-and-your-phantasmal-problem.json) |
 | Pippa Funnell 4: Secrets of the Ranch | 320930 | [320930-pippa-funnell-4-secrets-of-the-ranch.json](./320930-pippa-funnell-4-secrets-of-the-ranch.json) |
 | Pippa Funnell: The Stud Farm Inheritance | 64115 | [64115-pippa-funnell-the-stud-farm-inheritance.json](./64115-pippa-funnell-the-stud-farm-inheritance.json) |
