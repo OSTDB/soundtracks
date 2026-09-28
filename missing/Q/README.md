@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen of Dark | 292821 | [292821-queen-of-dark.json](./292821-queen-of-dark.json) |
 | Queen of Mountain | 158669 | [158669-queen-of-mountain.json](./158669-queen-of-mountain.json) |
 | Queen of Seas 2 | 102347 | [102347-queen-of-seas-2.json](./102347-queen-of-seas-2.json) |
+| Queen of Succubus | 82751 | [82751-queen-of-succubus.json](./82751-queen-of-succubus.json) |
 | Queen of Tactics | 272259 | [272259-queen-of-tactics.json](./272259-queen-of-tactics.json) |
 | Queen of The Hill | 306061 | [306061-queen-of-the-hill.json](./306061-queen-of-the-hill.json) |
 | Queen Of The Sands | 415079 | [415079-queen-of-the-sands.json](./415079-queen-of-the-sands.json) |
@@ -329,6 +330,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quell 4D | 25070 | [25070-quell-4d.json](./25070-quell-4d.json) |
 | Quench | 106138 | [106138-quench.json](./106138-quench.json) |
 | Quern: Undying Thoughts | 26223 | [26223-quern-undying-thoughts.json](./26223-quern-undying-thoughts.json) |
+| Quest & Quest 3D: Short Short - Female Adventurer Arcana | 82763 | [82763-quest-and-quest-3d-short-short-female-adventurer-arcana.json](./82763-quest-and-quest-3d-short-short-female-adventurer-arcana.json) |
+| Quest & Quest 3D: Short Short - Female Adventurer Sina | 82762 | [82762-quest-and-quest-3d-short-short-female-adventurer-sina.json](./82762-quest-and-quest-3d-short-short-female-adventurer-sina.json) |
 | Quest 2: The Ancient Temples | 266229 | [266229-quest-2-the-ancient-temples.json](./266229-quest-2-the-ancient-temples.json) |
 | Quest 64 "French Vanilla" | 248305 | [248305-quest-64-french-vanilla.json](./248305-quest-64-french-vanilla.json) |
 | Quest Adventure | 133444 | [133444-quest-adventure.json](./133444-quest-adventure.json) |
