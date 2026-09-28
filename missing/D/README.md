@@ -785,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls III: Deluxe Edition | 47486 | [47486-dark-souls-iii-deluxe-edition.json](./47486-dark-souls-iii-deluxe-edition.json) |
 | Dark Souls III: The Convergence | 188607 | [188607-dark-souls-iii-the-convergence.json](./188607-dark-souls-iii-the-convergence.json) |
 | Dark Souls Trilogy | 114143 | [114143-dark-souls-trilogy.json](./114143-dark-souls-trilogy.json) |
+| Dark Souls Trilogy Box | 81201 | [81201-dark-souls-trilogy-box.json](./81201-dark-souls-trilogy-box.json) |
 | Dark Souls Trilogy: Collector's Edition | 114144 | [114144-dark-souls-trilogy-collectors-edition.json](./114144-dark-souls-trilogy-collectors-edition.json) |
 | Dark Souls: Archthrones | 292062 | [292062-dark-souls-archthrones.json](./292062-dark-souls-archthrones.json) |
 | Dark Souls: Artorias of the Abyss Edition | 136857 | [136857-dark-souls-artorias-of-the-abyss-edition.json](./136857-dark-souls-artorias-of-the-abyss-edition.json) |
@@ -1630,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Years | 19582 | [19582-dead-years.json](./19582-dead-years.json) |
 | Dead Zed | 388038 | [388038-dead-zed.json](./388038-dead-zed.json) |
 | Dead Zone | 203555 | [203555-dead-zone.json](./203555-dead-zone.json) |
+| Dead Zone | 81176 | [81176-dead-zone.json](./81176-dead-zone.json) |
 | Dead Zone Defense | 304897 | [304897-dead-zone-defense.json](./304897-dead-zone-defense.json) |
 | Dead Zone: Rebirth of Survivors | 270103 | [270103-dead-zone-rebirth-of-survivors.json](./270103-dead-zone-rebirth-of-survivors.json) |
 | Dead_file.exe | 52072 | [52072-dead-file-exe.json](./52072-dead-file-exe.json) |
@@ -2885,6 +2887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derringer | 230213 | [230213-derringer.json](./230213-derringer.json) |
 | Deru | 258698 | [258698-deru.json](./258698-deru.json) |
 | Dervish | 13589 | [13589-dervish.json](./13589-dervish.json) |
+| Des Blood VR | 81472 | [81472-des-blood-vr.json](./81472-des-blood-vr.json) |
 | Descend | 264044 | [264044-descend.json](./264044-descend.json) |
 | Descend.gg | 232661 | [232661-descend-gg.json](./232661-descend-gg.json) |
 | Descended | 265589 | [265589-descended.json](./265589-descended.json) |
@@ -7110,6 +7113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Tactics | 21487 | [21487-drone-tactics.json](./21487-drone-tactics.json) |
 | Drone Tanks | 415111 | [415111-drone-tanks.json](./415111-drone-tanks.json) |
 | Drone tracks | 121699 | [121699-drone-tracks.json](./121699-drone-tracks.json) |
+| Drone Warfare | 81179 | [81179-drone-warfare.json](./81179-drone-warfare.json) |
 | Drone Wars | 373546 | [373546-drone-wars.json](./373546-drone-wars.json) |
 | Dronelord Hyperviber | 384615 | [384615-dronelord-hyperviber.json](./384615-dronelord-hyperviber.json) |
 | Drones | 119566 | [119566-drones.json](./119566-drones.json) |
