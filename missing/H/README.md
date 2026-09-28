@@ -4571,6 +4571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Transylvania Dash | 108820 | [108820-hotel-transylvania-dash.json](./108820-hotel-transylvania-dash.json) |
 | Hotel Transylvania Popstic | 106141 | [106141-hotel-transylvania-popstic.json](./106141-hotel-transylvania-popstic.json) |
 | Hotel Transylvania: Crazy Cruise | 105769 | [105769-hotel-transylvania-crazy-cruise.json](./105769-hotel-transylvania-crazy-cruise.json) |
+| Hotel Transylvania: Hotel Havoc | 104263 | [104263-hotel-transylvania-hotel-havoc.json](./104263-hotel-transylvania-hotel-havoc.json) |
 | Hotel Transylvania: Social Game | 108821 | [108821-hotel-transylvania-social-game.json](./108821-hotel-transylvania-social-game.json) |
 | Hotelnomaly | 318062 | [318062-hotelnomaly.json](./318062-hotelnomaly.json) |
 | HotFloor | 102406 | [102406-hotfloor.json](./102406-hotfloor.json) |
