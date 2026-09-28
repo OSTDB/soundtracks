@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac the Man 2 | 78960 | [78960-pac-the-man-2.json](./78960-pac-the-man-2.json) |
 | Pac-Athlon | 320352 | [320352-pac-athlon.json](./320352-pac-athlon.json) |
 | Pac-Attack | 239188 | [239188-pac-attack.json](./239188-pac-attack.json) |
+| Pac-Avoid | 62242 | [62242-pac-avoid.json](./62242-pac-avoid.json) |
 | Pac-Boy & Mouse | 86097 | [86097-pac-boy-and-mouse.json](./86097-pac-boy-and-mouse.json) |
 | Pac-Gal | 25141 | [25141-pac-gal.json](./25141-pac-gal.json) |
 | Pac-Guy | 64678 | [64678-pac-guy.json](./64678-pac-guy.json) |
@@ -573,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Lane | 247767 | [247767-panic-lane.json](./247767-panic-lane.json) |
 | Panic Mansion | 26726 | [26726-panic-mansion.json](./26726-panic-mansion.json) |
 | Panic Palette Portable | 204391 | [204391-panic-palette-portable.json](./204391-panic-palette-portable.json) |
+| Panic Park | 62238 | [62238-panic-park.json](./62238-panic-park.json) |
 | Panic Party | 134631 | [134631-panic-party.json](./134631-panic-party.json) |
 | Panic Protocol | 390769 | [390769-panic-protocol.json](./390769-panic-protocol.json) |
 | Panic Road | 268003 | [268003-panic-road.json](./268003-panic-road.json) |
@@ -2253,6 +2255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pettson o Findus i Trädgården | 70121 | [70121-pettson-o-findus-i-tradgarden.json](./70121-pettson-o-findus-i-tradgarden.json) |
 | Pettson o Findus: Julkalender | 286112 | [286112-pettson-o-findus-julkalender.json](./286112-pettson-o-findus-julkalender.json) |
 | Pettsons julspel | 286111 | [286111-pettsons-julspel.json](./286111-pettsons-julspel.json) |
+| Petunia the Yellow Mouse | 62278 | [62278-petunia-the-yellow-mouse.json](./62278-petunia-the-yellow-mouse.json) |
 | PetVille | 309123 | [309123-petville.json](./309123-petville.json) |
 | PetWings | 9121 | [9121-petwings.json](./9121-petwings.json) |
 | PetWorld 3D | 131405 | [131405-petworld-3d.json](./131405-petworld-3d.json) |
@@ -7187,6 +7190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proximate | 282108 | [282108-proximate.json](./282108-proximate.json) |
 | Proxy Adventure: Simulation Room | 346748 | [346748-proxy-adventure-simulation-room.json](./346748-proxy-adventure-simulation-room.json) |
 | Proxy Blade | 62825 | [62825-proxy-blade.json](./62825-proxy-blade.json) |
+| Proxy Comics HD | 62252 | [62252-proxy-comics-hd.json](./62252-proxy-comics-hd.json) |
 | Proze: Enlightenment | 116132 | [116132-proze-enlightenment.json](./116132-proze-enlightenment.json) |
 | Prší | 99579 | [99579-prsi.json](./99579-prsi.json) |
 | PRTs | 176277 | [176277-prts.json](./176277-prts.json) |
@@ -7417,6 +7421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pump It Up | 79307 | [79307-pump-it-up.json](./79307-pump-it-up.json) |
 | Pump It Up Exceed 2 | 341907 | [341907-pump-it-up-exceed-2.json](./341907-pump-it-up-exceed-2.json) |
 | Pump It Up Fiesta | 243133 | [243133-pump-it-up-fiesta.json](./243133-pump-it-up-fiesta.json) |
+| Pump It Up Fiesta 2 | 62274 | [62274-pump-it-up-fiesta-2.json](./62274-pump-it-up-fiesta-2.json) |
 | Pump It Up Fiesta EX | 243135 | [243135-pump-it-up-fiesta-ex.json](./243135-pump-it-up-fiesta-ex.json) |
 | Pump It Up Infinity | 57715 | [57715-pump-it-up-infinity.json](./57715-pump-it-up-infinity.json) |
 | Pump It Up NX2: Next Xenesis | 57714 | [57714-pump-it-up-nx2-next-xenesis.json](./57714-pump-it-up-nx2-next-xenesis.json) |
