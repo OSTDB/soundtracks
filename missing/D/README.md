@@ -3447,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diary of a Step-Sister | 239880 | [239880-diary-of-a-step-sister.json](./239880-diary-of-a-step-sister.json) |
 | Diary of a Witch | 196329 | [196329-diary-of-a-witch.json](./196329-diary-of-a-witch.json) |
 | Diary of Broken Dreams | 193327 | [193327-diary-of-broken-dreams.json](./193327-diary-of-broken-dreams.json) |
+| Diary of Defender | 104800 | [104800-diary-of-defender.json](./104800-diary-of-defender.json) |
 | Diaspora | 191125 | [191125-diaspora.json](./191125-diaspora.json) |
 | Diatris | 183524 | [183524-diatris.json](./183524-diatris.json) |
 | Diavolo no Daibouken | 219042 | [219042-diavolo-no-daibouken.json](./219042-diavolo-no-daibouken.json) |
@@ -6442,6 +6443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw and Lie | 147973 | [147973-draw-and-lie.json](./147973-draw-and-lie.json) |
 | Draw Around | 142402 | [142402-draw-around.json](./142402-draw-around.json) |
 | Draw Breaker | 341058 | [341058-draw-breaker.json](./341058-draw-breaker.json) |
+| Draw Chilly | 104808 | [104808-draw-chilly.json](./104808-draw-chilly.json) |
 | Draw From Earth | 163914 | [163914-draw-from-earth.json](./163914-draw-from-earth.json) |
 | Draw In Maze 2 | 235146 | [235146-draw-in-maze-2.json](./235146-draw-in-maze-2.json) |
 | Draw it | 415304 | [415304-draw-it.json](./415304-draw-it.json) |
