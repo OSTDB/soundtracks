@@ -1213,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barony: Legends & Pariahs | 154520 | [154520-barony-legends-and-pariahs.json](./154520-barony-legends-and-pariahs.json) |
 | Baroque | 147807 | [147807-baroque.json](./147807-baroque.json) |
 | Baroque Darts | 316763 | [316763-baroque-darts.json](./316763-baroque-darts.json) |
+| Baroque Shooting | 73368 | [73368-baroque-shooting.json](./73368-baroque-shooting.json) |
 | Baroque Syndrome | 73872 | [73872-baroque-syndrome.json](./73872-baroque-syndrome.json) |
 | Baroque-Ya | 368639 | [368639-baroque-ya.json](./368639-baroque-ya.json) |
 | Baroque: Become a Meta-Being | 316764 | [316764-baroque-become-a-meta-being.json](./316764-baroque-become-a-meta-being.json) |
@@ -3096,6 +3097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bicqlo Vader | 125216 | [125216-bicqlo-vader.json](./125216-bicqlo-vader.json) |
 | Bicycle Board Games | 128445 | [128445-bicycle-board-games.json](./128445-bicycle-board-games.json) |
 | Bicycle Casino | 5747 | [5747-bicycle-casino.json](./5747-bicycle-casino.json) |
+| Bicycle Pinochle | 73344 | [73344-bicycle-pinochle.json](./73344-bicycle-pinochle.json) |
 | Bicycle Quiz & Riding | 411147 | [411147-bicycle-quiz-and-riding.json](./411147-bicycle-quiz-and-riding.json) |
 | Bicycle Rider Simulator | 195612 | [195612-bicycle-rider-simulator.json](./195612-bicycle-rider-simulator.json) |
 | Bicycle Tour | 234606 | [234606-bicycle-tour.json](./234606-bicycle-tour.json) |
