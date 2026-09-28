@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JetFighter II: Advanced Tactical Fighter | 50489 | [50489-jetfighter-ii-advanced-tactical-fighter.json](./50489-jetfighter-ii-advanced-tactical-fighter.json) |
 | JetFighter III Classic | 78053 | [78053-jetfighter-iii-classic.json](./78053-jetfighter-iii-classic.json) |
 | JetFighter: The Adventure | 50490 | [50490-jetfighter-the-adventure.json](./50490-jetfighter-the-adventure.json) |
+| Jetlad | 117786 | [117786-jetlad.json](./117786-jetlad.json) |
 | Jetman | 92852 | [92852-jetman.json](./92852-jetman.json) |
 | Jetman Hero: Jetpack Shooter | 223553 | [223553-jetman-hero-jetpack-shooter.json](./223553-jetman-hero-jetpack-shooter.json) |
 | Jetpac Refuelled | 7854 | [7854-jetpac-refuelled.json](./7854-jetpac-refuelled.json) |
