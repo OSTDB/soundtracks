@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Shlong Adventure | 372122 | [372122-a-shlong-adventure.json](./372122-a-shlong-adventure.json) |
 | A Shooty Bit | 32977 | [32977-a-shooty-bit.json](./32977-a-shooty-bit.json) |
 | A Show of Hands | 52563 | [52563-a-show-of-hands.json](./52563-a-show-of-hands.json) |
+| A Show of Kindness | 112465 | [112465-a-show-of-kindness.json](./112465-a-show-of-kindness.json) |
 | A Silent Wood | 61318 | [61318-a-silent-wood.json](./61318-a-silent-wood.json) |
 | A Simple Door | 311647 | [311647-a-simple-door.json](./311647-a-simple-door.json) |
 | A Simple Garbage Sorting Game | 329705 | [329705-a-simple-garbage-sorting-game.json](./329705-a-simple-garbage-sorting-game.json) |
