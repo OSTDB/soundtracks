@@ -10162,6 +10162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tin Can: Original Tracks | 293774 | [293774-tin-can-original-tracks.json](./293774-tin-can-original-tracks.json) |
 | Tin Star | 104677 | [104677-tin-star.json](./104677-tin-star.json) |
 | Tin Tandem | 152396 | [152396-tin-tandem.json](./152396-tin-tandem.json) |
+| Tin-Heart: The Game | 104243 | [104243-tin-heart-the-game.json](./104243-tin-heart-the-game.json) |
 | Tinboy | 34507 | [34507-tinboy.json](./34507-tinboy.json) |
 | Tincan | 333076 | [333076-tincan.json](./333076-tincan.json) |
 | Tincan HD | 333079 | [333079-tincan-hd.json](./333079-tincan-hd.json) |
@@ -13494,6 +13495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Literature Trivia | 101626 | [101626-trivia-vault-literature-trivia.json](./101626-trivia-vault-literature-trivia.json) |
 | Trivia Vault: Mixed Trivia | 52779 | [52779-trivia-vault-mixed-trivia.json](./52779-trivia-vault-mixed-trivia.json) |
 | Trivia Vault: Movie Trivia | 99663 | [99663-trivia-vault-movie-trivia.json](./99663-trivia-vault-movie-trivia.json) |
+| Trivia Vault: Music Trivia | 104219 | [104219-trivia-vault-music-trivia.json](./104219-trivia-vault-music-trivia.json) |
 | Trivia Vault: Toy Trivia | 101614 | [101614-trivia-vault-toy-trivia.json](./101614-trivia-vault-toy-trivia.json) |
 | Trivia Vault: TV Trivia | 100150 | [100150-trivia-vault-tv-trivia.json](./100150-trivia-vault-tv-trivia.json) |
 | Trivia Vault: Video Game Trivia Deluxe | 74339 | [74339-trivia-vault-video-game-trivia-deluxe.json](./74339-trivia-vault-video-game-trivia-deluxe.json) |
@@ -13577,6 +13579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Treats | 103885 | [103885-tropical-treats.json](./103885-tropical-treats.json) |
 | Tropical Trouble | 18589 | [18589-tropical-trouble.json](./18589-tropical-trouble.json) |
 | Tropicalia | 138612 | [138612-tropicalia.json](./138612-tropicalia.json) |
+| Tropico | 104248 | [104248-tropico.json](./104248-tropico.json) |
 | Tropico 3: Absolute Power | 8926 | [8926-tropico-3-absolute-power.json](./8926-tropico-3-absolute-power.json) |
 | Tropico 4 Collector's Bundle | 50872 | [50872-tropico-4-collectors-bundle.json](./50872-tropico-4-collectors-bundle.json) |
 | Tropico 4: Apocalypse | 53848 | [53848-tropico-4-apocalypse.json](./53848-tropico-4-apocalypse.json) |
