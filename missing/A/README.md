@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces Over Airfields | 379462 | [379462-aces-over-airfields.json](./379462-aces-over-airfields.json) |
 | Aces Over Europe | 12386 | [12386-aces-over-europe.json](./12386-aces-over-europe.json) |
 | Aces Up Solitaire card game | 90400 | [90400-aces-up-solitaire-card-game.json](./90400-aces-up-solitaire-card-game.json) |
+| Aces Up: Easthaven Solitaire | 106745 | [106745-aces-up-easthaven-solitaire.json](./106745-aces-up-easthaven-solitaire.json) |
 | Aces Up! | 366399 | [366399-aces-up.json](./366399-aces-up.json) |
 | Aces: The Complete Collector's Edition | 206206 | [206206-aces-the-complete-collectors-edition.json](./206206-aces-the-complete-collectors-edition.json) |
 | AceSurvivor | 379465 | [379465-acesurvivor.json](./379465-acesurvivor.json) |
@@ -1961,6 +1962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airstrip DLC and Can Touch This DLC Bundle | 305497 | [305497-airstrip-dlc-and-can-touch-this-dlc-bundle.json](./305497-airstrip-dlc-and-can-touch-this-dlc-bundle.json) |
 | Airtight City 1.0 | 119724 | [119724-airtight-city-1-0.json](./119724-airtight-city-1-0.json) |
 | AirTycoon 3 | 101538 | [101538-airtycoon-3.json](./101538-airtycoon-3.json) |
+| AirTycoon 5 | 106756 | [106756-airtycoon-5.json](./106756-airtycoon-5.json) |
 | AirTycoon Online. | 256247 | [256247-airtycoon-online.json](./256247-airtycoon-online.json) |
 | Airwave: I Fought the Law and the Law One | 169988 | [169988-airwave-i-fought-the-law-and-the-law-one.json](./169988-airwave-i-fought-the-law-and-the-law-one.json) |
 | AirwayEx | 215243 | [215243-airwayex.json](./215243-airwayex.json) |
