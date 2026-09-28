@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zillions of Games | 311470 | [311470-zillions-of-games.json](./311470-zillions-of-games.json) |
 | Zilm: a game of reflex | 64135 | [64135-zilm-a-game-of-reflex.json](./64135-zilm-a-game-of-reflex.json) |
 | Zim's Word Game | 216476 | [216476-zims-word-game.json](./216476-zims-word-game.json) |
+| Zima uhodi! | 96871 | [96871-zima-uhodi.json](./96871-zima-uhodi.json) |
 | Zimbo | 96517 | [96517-zimbo.json](./96517-zimbo.json) |
 | Zine Fair Lady | 176956 | [176956-zine-fair-lady.json](./176956-zine-fair-lady.json) |
 | Zineth | 64122 | [64122-zineth.json](./64122-zineth.json) |
