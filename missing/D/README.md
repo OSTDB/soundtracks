@@ -2478,6 +2478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Riddle | 96039 | [96039-delta-riddle.json](./96039-delta-riddle.json) |
 | Delta Squared | 369240 | [369240-delta-squared.json](./369240-delta-squared.json) |
 | Delta Strike: First Assault | 99547 | [99547-delta-strike-first-assault.json](./99547-delta-strike-first-assault.json) |
+| Delta T | 109169 | [109169-delta-t.json](./109169-delta-t.json) |
 | Delta Time | 171622 | [171622-delta-time.json](./171622-delta-time.json) |
 | Delta Warp | 43978 | [43978-delta-warp.json](./43978-delta-warp.json) |
 | Delta-V Racing | 247434 | [247434-delta-v-racing.json](./247434-delta-v-racing.json) |
@@ -2724,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Denpa Virus | 418820 | [418820-denpa-virus.json](./418820-denpa-virus.json) |
 | Dense forest | 282009 | [282009-dense-forest.json](./282009-dense-forest.json) |
 | Densetsu no Ogre Battle Gaiden: Zenobia no Ouji | 43975 | [43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json](./43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json) |
+| Densha | 109162 | [109162-densha.json](./109162-densha.json) |
 | Densha de D: Burning Stage | 55923 | [55923-densha-de-d-burning-stage.json](./55923-densha-de-d-burning-stage.json) |
 | Densha de D: Climax Stage | 55920 | [55920-densha-de-d-climax-stage.json](./55920-densha-de-d-climax-stage.json) |
 | Densha de D: Lightning Stage | 137014 | [137014-densha-de-d-lightning-stage.json](./137014-densha-de-d-lightning-stage.json) |
@@ -3943,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Assassin: I-Evolution | 264013 | [264013-dinosaur-assassin-i-evolution.json](./264013-dinosaur-assassin-i-evolution.json) |
 | Dinosaur Battlegrounds | 57127 | [57127-dinosaur-battlegrounds.json](./57127-dinosaur-battlegrounds.json) |
 | Dinosaur Cousin Squad | 338286 | [338286-dinosaur-cousin-squad.json](./338286-dinosaur-cousin-squad.json) |
+| Dinosaur Discovery | 109172 | [109172-dinosaur-discovery.json](./109172-dinosaur-discovery.json) |
 | Dinosaur Games Simulator 2018 | 105967 | [105967-dinosaur-games-simulator-2018.json](./105967-dinosaur-games-simulator-2018.json) |
 | Dinosaur Hunt: Vampires, Gargoyles, Mutants Hunter Expansion Pack | 169320 | [169320-dinosaur-hunt-vampires-gargoyles-mutants-hunter-expansion-pack.json](./169320-dinosaur-hunt-vampires-gargoyles-mutants-hunter-expansion-pack.json) |
 | Dinosaur Hunter | 98984 | [98984-dinosaur-hunter.json](./98984-dinosaur-hunter.json) |
@@ -6594,6 +6597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Management | 49608 | [49608-dream-management.json](./49608-dream-management.json) |
 | Dream Management Company | 339127 | [339127-dream-management-company.json](./339127-dream-management-company.json) |
 | Dream Master | 48611 | [48611-dream-master.json](./48611-dream-master.json) |
+| Dream Match Tennis Pro | 109197 | [109197-dream-match-tennis-pro.json](./109197-dream-match-tennis-pro.json) |
 | Dream Medicine | 286126 | [286126-dream-medicine.json](./286126-dream-medicine.json) |
 | Dream Mirror | 164966 | [164966-dream-mirror.json](./164966-dream-mirror.json) |
 | Dream Mysteries: Case of the Red Fox | 294201 | [294201-dream-mysteries-case-of-the-red-fox.json](./294201-dream-mysteries-case-of-the-red-fox.json) |
