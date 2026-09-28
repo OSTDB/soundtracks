@@ -2802,6 +2802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berlin 1936 | 119699 | [119699-berlin-1936.json](./119699-berlin-1936.json) |
 | Berlitz* French Translator | 94168 | [94168-berlitz-french-translator.json](./94168-berlitz-french-translator.json) |
 | Bermuda | 380011 | [380011-bermuda.json](./380011-bermuda.json) |
+| Bermuda Triangle: Saving the Coral | 67391 | [67391-bermuda-triangle-saving-the-coral.json](./67391-bermuda-triangle-saving-the-coral.json) |
 | Bermuda: Lost Survival | 43365 | [43365-bermuda-lost-survival.json](./43365-bermuda-lost-survival.json) |
 | Bermudes | 185089 | [185089-bermudes.json](./185089-bermudes.json) |
 | Bernard Arnault Sauve La France | 144238 | [144238-bernard-arnault-sauve-la-france.json](./144238-bernard-arnault-sauve-la-france.json) |
@@ -3645,8 +3646,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Sexy Derby | 41358 | [41358-bishoujo-sexy-derby.json](./41358-bishoujo-sexy-derby.json) |
 | Bishoujo Sexy Slot | 41357 | [41357-bishoujo-sexy-slot.json](./41357-bishoujo-sexy-slot.json) |
 | Bishoujo SF Alien Battle | 41356 | [41356-bishoujo-sf-alien-battle.json](./41356-bishoujo-sf-alien-battle.json) |
+| Bishoujo Shashinkan Bangai-Hen: OutSide Story | 67383 | [67383-bishoujo-shashinkan-bangai-hen-outside-story.json](./67383-bishoujo-shashinkan-bangai-hen-outside-story.json) |
 | Bishoujo Shashinkan I: Studio Cut | 41377 | [41377-bishoujo-shashinkan-i-studio-cut.json](./41377-bishoujo-shashinkan-i-studio-cut.json) |
 | Bishoujo Shashinkan II: Moving School | 41378 | [41378-bishoujo-shashinkan-ii-moving-school.json](./41378-bishoujo-shashinkan-ii-moving-school.json) |
+| Bishoujo Shashinkan Part III: Photo Club - Kyoufu no Kan Hen | 67385 | [67385-bishoujo-shashinkan-part-iii-photo-club-kyoufu-no-kan-hen.json](./67385-bishoujo-shashinkan-part-iii-photo-club-kyoufu-no-kan-hen.json) |
+| Bishoujo Shashinkan Special: Double Vision | 67384 | [67384-bishoujo-shashinkan-special-double-vision.json](./67384-bishoujo-shashinkan-special-double-vision.json) |
 | Bishoujo Wrestler Retsuden: Blizzard Yuki Rannyuu!! | 38275 | [38275-bishoujo-wrestler-retsuden-blizzard-yuki-rannyuu.json](./38275-bishoujo-wrestler-retsuden-blizzard-yuki-rannyuu.json) |
 | Bismarck: The North Sea Chase | 14308 | [14308-bismarck-the-north-sea-chase.json](./14308-bismarck-the-north-sea-chase.json) |
 | Bist du zu schwach oder Stark | 156568 | [156568-bist-du-zu-schwach-oder-stark.json](./156568-bist-du-zu-schwach-oder-stark.json) |
