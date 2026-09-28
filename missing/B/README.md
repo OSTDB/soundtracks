@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Mothafucka | 281368 | [281368-bad-mothafucka.json](./281368-bad-mothafucka.json) |
 | Bad Nerd | 360090 | [360090-bad-nerd.json](./360090-bad-nerd.json) |
 | Bad News Baseball | 9167 | [9167-bad-news-baseball.json](./9167-bad-news-baseball.json) |
+| Bad Note | 111865 | [111865-bad-note.json](./111865-bad-note.json) |
 | Bad Pad | 31579 | [31579-bad-pad.json](./31579-bad-pad.json) |
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies | 19902 | [19902-bad-piggies.json](./19902-bad-piggies.json) |
@@ -723,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balorizon | 401632 | [401632-balorizon.json](./401632-balorizon.json) |
 | Balrog | 166781 | [166781-balrog.json](./166781-balrog.json) |
 | Balrog Sampler | 24903 | [24903-balrog-sampler.json](./24903-balrog-sampler.json) |
+| Balsa Model Flight Simulator | 111892 | [111892-balsa-model-flight-simulator.json](./111892-balsa-model-flight-simulator.json) |
 | Balseo: The Sea Beyond | 387642 | [387642-balseo-the-sea-beyond.json](./387642-balseo-the-sea-beyond.json) |
 | Baltron | 48588 | [48588-baltron.json](./48588-baltron.json) |
 | Baluno | 297780 | [297780-baluno.json](./297780-baluno.json) |
@@ -2453,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beep Boop | 319000 | [319000-beep-boop.json](./319000-beep-boop.json) |
 | Beepertron | 84239 | [84239-beepertron.json](./84239-beepertron.json) |
 | Beer & Plunder | 320868 | [320868-beer-and-plunder.json](./320868-beer-and-plunder.json) |
+| Beer Bar | 111867 | [111867-beer-bar.json](./111867-beer-bar.json) |
 | Beer Break | 199391 | [199391-beer-break.json](./199391-beer-break.json) |
 | Beer Pong : Trickshot | 90694 | [90694-beer-pong-trickshot.json](./90694-beer-pong-trickshot.json) |
 | Beer Pong League | 111342 | [111342-beer-pong-league.json](./111342-beer-pong-league.json) |
