@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Train: City Simulator | 85874 | [85874-a-train-city-simulator.json](./85874-a-train-city-simulator.json) |
 | A-Train: Trains, Power, Money | 98269 | [98269-a-train-trains-power-money.json](./98269-a-train-trains-power-money.json) |
 | A.A.U. Black Site | 357776 | [357776-a-a-u-black-site.json](./357776-a-a-u-black-site.json) |
+| A.D. 2044 | 93168 | [93168-a-d-2044.json](./93168-a-d-2044.json) |
 | A.D.A.M. | 19398 | [19398-a-d-a-m.json](./19398-a-d-a-m.json) |
 | A.E. | 20175 | [20175-a-e.json](./20175-a-e.json) |
 | A.E. | 282086 | [282086-a-e.json](./282086-a-e.json) |
@@ -2196,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy | 337805 | [337805-alchemy.json](./337805-alchemy.json) |
 | Alchemy Academy | 337810 | [337810-alchemy-academy.json](./337810-alchemy-academy.json) |
 | Alchemy Classic | 111035 | [111035-alchemy-classic.json](./111035-alchemy-classic.json) |
+| Alchemy Deluxe | 93157 | [93157-alchemy-deluxe.json](./93157-alchemy-deluxe.json) |
 | Alchemy Dungeon | 250656 | [250656-alchemy-dungeon.json](./250656-alchemy-dungeon.json) |
 | Alchemy Emporium | 149963 | [149963-alchemy-emporium.json](./149963-alchemy-emporium.json) |
 | Alchemy Garden | 113758 | [113758-alchemy-garden.json](./113758-alchemy-garden.json) |
@@ -2493,6 +2495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Shooter: Revisited | 16016 | [16016-alien-shooter-revisited.json](./16016-alien-shooter-revisited.json) |
 | Alien Shooter: Revisted | 50844 | [50844-alien-shooter-revisted.json](./50844-alien-shooter-revisted.json) |
 | Alien Shooter: The Experiment | 11090 | [11090-alien-shooter-the-experiment.json](./11090-alien-shooter-the-experiment.json) |
+| Alien Sky | 93164 | [93164-alien-sky.json](./93164-alien-sky.json) |
 | Alien Slayer | 275099 | [275099-alien-slayer.json](./275099-alien-slayer.json) |
 | Alien Slayers | 233772 | [233772-alien-slayers.json](./233772-alien-slayers.json) |
 | Alien Soda Online | 391851 | [391851-alien-soda-online.json](./391851-alien-soda-online.json) |
@@ -2924,6 +2927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alt-Frequencies | 115650 | [115650-alt-frequencies.json](./115650-alt-frequencies.json) |
 | Alt254 | 135287 | [135287-alt254.json](./135287-alt254.json) |
 | Altair | 38550 | [38550-altair.json](./38550-altair.json) |
+| Altaïr | 93148 | [93148-altair.json](./93148-altair.json) |
 | Altair Assault | 117138 | [117138-altair-assault.json](./117138-altair-assault.json) |
 | Altair Breaker | 208682 | [208682-altair-breaker.json](./208682-altair-breaker.json) |
 | Altar | 337820 | [337820-altar.json](./337820-altar.json) |
@@ -5458,6 +5462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arknights: Endfield - Update 1.2: At the Wake of Spring | 398565 | [398565-arknights-endfield-update-1-2-at-the-wake-of-spring.json](./398565-arknights-endfield-update-1-2-at-the-wake-of-spring.json) |
 | Arknights: Endfield - Update 1.5: Dreamscape of Wind and Snow | 415939 | [415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json](./415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json) |
 | Arknights: Release | 253344 | [253344-arknights-release.json](./253344-arknights-release.json) |
+| ARL 96 | 93147 | [93147-arl-96.json](./93147-arl-96.json) |
 | Arla Milkout! | 314036 | [314036-arla-milkout.json](./314036-arla-milkout.json) |
 | Arlcoco: The One Winged Princess Pet | 82774 | [82774-arlcoco-the-one-winged-princess-pet.json](./82774-arlcoco-the-one-winged-princess-pet.json) |
 | Arlyeh Center for Heart Diseases | 271218 | [271218-arlyeh-center-for-heart-diseases.json](./271218-arlyeh-center-for-heart-diseases.json) |
@@ -7278,6 +7283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axia | 46637 | [46637-axia.json](./46637-axia.json) |
 | Axial Disc 2 | 217408 | [217408-axial-disc-2.json](./217408-axial-disc-2.json) |
 | Axie Infinity | 109024 | [109024-axie-infinity.json](./109024-axie-infinity.json) |
+| aXiebal 2004 | 93174 | [93174-axiebal-2004.json](./93174-axiebal-2004.json) |
 | Axiel | 127827 | [127827-axiel.json](./127827-axiel.json) |
 | Axilon: Legend of artifacts | 118842 | [118842-axilon-legend-of-artifacts.json](./118842-axilon-legend-of-artifacts.json) |
 | Axiom | 234347 | [234347-axiom.json](./234347-axiom.json) |
@@ -7303,6 +7309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axom: Conquest | 333357 | [333357-axom-conquest.json](./333357-axom-conquest.json) |
 | Axon Hero | 217278 | [217278-axon-hero.json](./217278-axon-hero.json) |
 | Axxx: Taught and Fucked | 375949 | [375949-axxx-taught-and-fucked.json](./375949-axxx-taught-and-fucked.json) |
+| AxySnake | 93184 | [93184-axysnake.json](./93184-axysnake.json) |
 | Axyz | 293648 | [293648-axyz.json](./293648-axyz.json) |
 | Aya Go | 91740 | [91740-aya-go.json](./91740-aya-go.json) |
 | Ayakashi & Sweets | 298879 | [298879-ayakashi-and-sweets.json](./298879-ayakashi-and-sweets.json) |
