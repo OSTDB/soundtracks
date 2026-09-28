@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko-sama no Kominka kara no Dasshutsu | 260689 | [260689-neko-sama-no-kominka-kara-no-dasshutsu.json](./260689-neko-sama-no-kominka-kara-no-dasshutsu.json) |
 | Neko's Rage | 251840 | [251840-nekos-rage.json](./251840-nekos-rage.json) |
 | Nekobabaa: Melonbooks Omake Tokubetsu-hen | 212253 | [212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json](./212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json) |
+| NekoBooM! | 102334 | [102334-nekoboom.json](./102334-nekoboom.json) |
 | NekoChan Hero Collection | 210754 | [210754-nekochan-hero-collection.json](./210754-nekochan-hero-collection.json) |
 | NekoCharm | 111227 | [111227-nekocharm.json](./111227-nekocharm.json) |
 | Nekodancer | 197658 | [197658-nekodancer.json](./197658-nekodancer.json) |
