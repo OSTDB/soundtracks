@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Mushrooms: The Front Yard - Background | 324475 | [324475-land-of-mushrooms-the-front-yard-background.json](./324475-land-of-mushrooms-the-front-yard-background.json) |
 | Land of Ngoto | 125360 | [125360-land-of-ngoto.json](./125360-land-of-ngoto.json) |
 | Land of Nod | 208439 | [208439-land-of-nod.json](./208439-land-of-nod.json) |
+| Land of Puzzles: Castles | 108036 | [108036-land-of-puzzles-castles.json](./108036-land-of-puzzles-castles.json) |
 | Land of Puzzles: Elven Princess | 109767 | [109767-land-of-puzzles-elven-princess.json](./109767-land-of-puzzles-elven-princess.json) |
 | Land of Runes | 175801 | [175801-land-of-runes.json](./175801-land-of-runes.json) |
 | Land of Screens | 137110 | [137110-land-of-screens.json](./137110-land-of-screens.json) |
@@ -746,8 +747,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lauras Tierklinik | 163974 | [163974-lauras-tierklinik.json](./163974-lauras-tierklinik.json) |
 | Laurel's Day | 393486 | [393486-laurels-day.json](./393486-laurels-day.json) |
 | Laureli: Blood-Dipped Manor | 382183 | [382183-laureli-blood-dipped-manor.json](./382183-laureli-blood-dipped-manor.json) |
+| Lauren's visit | 108066 | [108066-laurens-visit.json](./108066-laurens-visit.json) |
 | Lava Fever | 22786 | [22786-lava-fever.json](./22786-lava-fever.json) |
 | Lava Joe | 181258 | [181258-lava-joe.json](./181258-lava-joe.json) |
+| Lava Pool | 108031 | [108031-lava-pool.json](./108031-lava-pool.json) |
 | Lava Rolling Kid | 75053 | [75053-lava-rolling-kid.json](./75053-lava-rolling-kid.json) |
 | Lava Runner | 184899 | [184899-lava-runner.json](./184899-lava-runner.json) |
 | Lava-Runners | 331680 | [331680-lava-runners.json](./331680-lava-runners.json) |
@@ -1072,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Aladdin | 70969 | [70969-legend-of-aladdin.json](./70969-legend-of-aladdin.json) |
 | Legend Of Apophyxis | 287755 | [287755-legend-of-apophyxis.json](./287755-legend-of-apophyxis.json) |
 | Legend of Asha | 390266 | [390266-legend-of-asha.json](./390266-legend-of-asha.json) |
+| Legend of Assassin: Egypt | 108069 | [108069-legend-of-assassin-egypt.json](./108069-legend-of-assassin-egypt.json) |
 | Legend of Assassin: Siberia | 107830 | [107830-legend-of-assassin-siberia.json](./107830-legend-of-assassin-siberia.json) |
 | Legend of Azcarth | 158505 | [158505-legend-of-azcarth.json](./158505-legend-of-azcarth.json) |
 | Legend of Bricks | 175176 | [175176-legend-of-bricks.json](./175176-legend-of-bricks.json) |
@@ -1532,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lessaria: Fantasy Kingdom Sim | 261556 | [261556-lessaria-fantasy-kingdom-sim.json](./261556-lessaria-fantasy-kingdom-sim.json) |
 | Lesson | 111658 | [111658-lesson.json](./111658-lesson.json) |
 | Lessons in Love | 182472 | [182472-lessons-in-love.json](./182472-lessons-in-love.json) |
+| Lessons learned | 108067 | [108067-lessons-learned.json](./108067-lessons-learned.json) |
 | Lester the Unlikely | 42504 | [42504-lester-the-unlikely.json](./42504-lester-the-unlikely.json) |
 | Let Bions be Bygones | 202860 | [202860-let-bions-be-bygones.json](./202860-let-bions-be-bygones.json) |
 | Let Hawaii Happen VR | 31151 | [31151-let-hawaii-happen-vr.json](./31151-let-hawaii-happen-vr.json) |
@@ -3957,6 +3962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucid Deep | 132774 | [132774-lucid-deep.json](./132774-lucid-deep.json) |
 | Lucid Dream | 202933 | [202933-lucid-dream.json](./202933-lucid-dream.json) |
 | Lucid Nightmares | 355126 | [355126-lucid-nightmares.json](./355126-lucid-nightmares.json) |
+| Lucid Path | 108065 | [108065-lucid-path.json](./108065-lucid-path.json) |
 | Lucid Steam | 158599 | [158599-lucid-steam.json](./158599-lucid-steam.json) |
 | Lucid Trips | 26803 | [26803-lucid-trips.json](./26803-lucid-trips.json) |
 | Lucid9: Inciting Incident | 80553 | [80553-lucid9-inciting-incident.json](./80553-lucid9-inciting-incident.json) |
