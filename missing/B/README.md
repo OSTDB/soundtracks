@@ -2854,6 +2854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beware the Shadowcatcher | 217863 | [217863-beware-the-shadowcatcher.json](./217863-beware-the-shadowcatcher.json) |
 | Beware Tomorrow | 320765 | [320765-beware-tomorrow.json](./320765-beware-tomorrow.json) |
 | Bewbewbew | 201670 | [201670-bewbewbew.json](./201670-bewbewbew.json) |
+| Bewildebots | 114497 | [114497-bewildebots.json](./114497-bewildebots.json) |
 | Bewitched Hearts | 179703 | [179703-bewitched-hearts.json](./179703-bewitched-hearts.json) |
 | Bewitching Boba | 388701 | [388701-bewitching-boba.json](./388701-bewitching-boba.json) |
 | Bewitching Sinners Royal Blood | 375292 | [375292-bewitching-sinners-royal-blood.json](./375292-bewitching-sinners-royal-blood.json) |
@@ -4952,6 +4953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob | 27700 | [27700-bob.json](./27700-bob.json) |
 | Bob & Bernard Against the Nazis | 120361 | [120361-bob-and-bernard-against-the-nazis.json](./120361-bob-and-bernard-against-the-nazis.json) |
 | Bob & Dob | 177570 | [177570-bob-and-dob.json](./177570-bob-and-dob.json) |
+| Bob and Kuura: Lost in Snowglobe | 114564 | [114564-bob-and-kuura-lost-in-snowglobe.json](./114564-bob-and-kuura-lost-in-snowglobe.json) |
 | Bob and the Alien Fire Flies | 304224 | [304224-bob-and-the-alien-fire-flies.json](./304224-bob-and-the-alien-fire-flies.json) |
 | Bob Does Not Care | 181903 | [181903-bob-does-not-care.json](./181903-bob-does-not-care.json) |
 | Bob Don't Sleep! | 369201 | [369201-bob-dont-sleep.json](./369201-bob-dont-sleep.json) |
@@ -5732,6 +5734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncing Buds | 363566 | [363566-bouncing-buds.json](./363566-bouncing-buds.json) |
 | Bouncing Church | 102727 | [102727-bouncing-church.json](./102727-bouncing-church.json) |
 | Bouncing Duck Simulator | 55728 | [55728-bouncing-duck-simulator.json](./55728-bouncing-duck-simulator.json) |
+| Bouncing DVD : The Game | 114565 | [114565-bouncing-dvd-the-game.json](./114565-bouncing-dvd-the-game.json) |
 | Bouncing Over It with friends | 106406 | [106406-bouncing-over-it-with-friends.json](./106406-bouncing-over-it-with-friends.json) |
 | Bouncing Rainbow | 259629 | [259629-bouncing-rainbow.json](./259629-bouncing-rainbow.json) |
 | Bouncing Slime: Impossible Levels | 343985 | [343985-bouncing-slime-impossible-levels.json](./343985-bouncing-slime-impossible-levels.json) |
