@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yacht Mechanic Simulator | 133364 | [133364-yacht-mechanic-simulator.json](./133364-yacht-mechanic-simulator.json) |
 | Yachu Dice | 151017 | [151017-yachu-dice.json](./151017-yachu-dice.json) |
 | Yadamon: Wonderland Dream | 37762 | [37762-yadamon-wonderland-dream.json](./37762-yadamon-wonderland-dream.json) |
+| Yafti | 93760 | [93760-yafti.json](./93760-yafti.json) |
 | Yag | 114196 | [114196-yag.json](./114196-yag.json) |
 | Yaga: Roots of Evil | 186902 | [186902-yaga-roots-of-evil.json](./186902-yaga-roots-of-evil.json) |
 | Yagami Hiroki no Game-Taste: Munasawagi no Yokan | 166496 | [166496-yagami-hiroki-no-game-taste-munasawagi-no-yokan.json](./166496-yagami-hiroki-no-game-taste-munasawagi-no-yokan.json) |
