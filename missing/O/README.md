@@ -1960,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oscuro Blossom's Glow | 342264 | [342264-oscuro-blossoms-glow.json](./342264-oscuro-blossoms-glow.json) |
 | OSD vs RON | 70377 | [70377-osd-vs-ron.json](./70377-osd-vs-ron.json) |
 | Osekkai na Imouto | 97719 | [97719-osekkai-na-imouto.json](./97719-osekkai-na-imouto.json) |
+| OSgrid | 64483 | [64483-osgrid.json](./64483-osgrid.json) |
 | Oshaberi King! Komyuryoku Shindan Game | 396441 | [396441-oshaberi-king-komyuryoku-shindan-game.json](./396441-oshaberi-king-komyuryoku-shindan-game.json) |
 | Oshare Beena: o-Mise de Kisekae Make Haircut | 300424 | [300424-oshare-beena-o-mise-de-kisekae-make-haircut.json](./300424-oshare-beena-o-mise-de-kisekae-make-haircut.json) |
 | Oshare de Kawaii Koinu to Asobo!: Machi-hen | 141148 | [141148-oshare-de-kawaii-koinu-to-asobo-machi-hen.json](./141148-oshare-de-kawaii-koinu-to-asobo-machi-hen.json) |
