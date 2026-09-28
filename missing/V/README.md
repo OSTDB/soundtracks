@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampvasion | 410896 | [410896-vampvasion.json](./410896-vampvasion.json) |
 | Vampyr: Special Edition | 139984 | [139984-vampyr-special-edition.json](./139984-vampyr-special-edition.json) |
 | Vampyre Crusade | 317002 | [317002-vampyre-crusade.json](./317002-vampyre-crusade.json) |
+| Van Buren | 79217 | [79217-van-buren.json](./79217-van-buren.json) |
 | Van Helsing sniper Zx100 | 85470 | [85470-van-helsing-sniper-zx100.json](./85470-van-helsing-sniper-zx100.json) |
 | Van Life: Home Simulator | 370793 | [370793-van-life-home-simulator.json](./370793-van-life-home-simulator.json) |
 | Van Tourisimo | 182947 | [182947-van-tourisimo.json](./182947-van-tourisimo.json) |
@@ -503,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vega Conflict: Paragon Battleship Pack | 168308 | [168308-vega-conflict-paragon-battleship-pack.json](./168308-vega-conflict-paragon-battleship-pack.json) |
 | Vega Conflict: Punisher Cruiser Pack | 168314 | [168314-vega-conflict-punisher-cruiser-pack.json](./168314-vega-conflict-punisher-cruiser-pack.json) |
 | Vegangsters | 253304 | [253304-vegangsters.json](./253304-vegangsters.json) |
+| Vegas Casino | 79373 | [79373-vegas-casino.json](./79373-vegas-casino.json) |
 | Vegas Casino & Slots: Slottist | 364505 | [364505-vegas-casino-and-slots-slottist.json](./364505-vegas-casino-and-slots-slottist.json) |
 | Vegas Casino 2 | 66925 | [66925-vegas-casino-2.json](./66925-vegas-casino-2.json) |
 | Vegas Connection: Casino Kara Ai wo Komete | 48872 | [48872-vegas-connection-casino-kara-ai-wo-komete.json](./48872-vegas-connection-casino-kara-ai-wo-komete.json) |
