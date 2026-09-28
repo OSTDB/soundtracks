@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oblation | 253886 | [253886-oblation.json](./253886-oblation.json) |
 | Oblige | 178964 | [178964-oblige.json](./178964-oblige.json) |
 | Oblin Party | 280294 | [280294-oblin-party.json](./280294-oblin-party.json) |
+| Obliteracy | 107375 | [107375-obliteracy.json](./107375-obliteracy.json) |
 | Obliterate | 43246 | [43246-obliterate.json](./43246-obliterate.json) |
 | Oblitus Mortis | 336918 | [336918-oblitus-mortis.json](./336918-oblitus-mortis.json) |
 | Oblivion | 77199 | [77199-oblivion.json](./77199-oblivion.json) |
@@ -1542,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Market Garden: Drive on Arnhem, September 1944 | 25779 | [25779-operation-market-garden-drive-on-arnhem-september-1944.json](./25779-operation-market-garden-drive-on-arnhem-september-1944.json) |
 | Operation Nachtsprung: Odyssey Live | 352734 | [352734-operation-nachtsprung-odyssey-live.json](./352734-operation-nachtsprung-odyssey-live.json) |
 | Operation Ninurta: Eris Portal | 351726 | [351726-operation-ninurta-eris-portal.json](./351726-operation-ninurta-eris-portal.json) |
+| Operation Osam Bin Laden | 107370 | [107370-operation-osam-bin-laden.json](./107370-operation-osam-bin-laden.json) |
 | Operation Pig | 111911 | [111911-operation-pig.json](./111911-operation-pig.json) |
 | Operation Pill | 199098 | [199098-operation-pill.json](./199098-operation-pill.json) |
 | Operation Remode | 333354 | [333354-operation-remode.json](./333354-operation-remode.json) |
