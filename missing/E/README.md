@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Econia: Crypto Idle Tycoon! | 232376 | [232376-econia-crypto-idle-tycoon.json](./232376-econia-crypto-idle-tycoon.json) |
 | Economic War | 202701 | [202701-economic-war.json](./202701-economic-war.json) |
 | Economy Bundle | 193740 | [193740-economy-bundle.json](./193740-economy-bundle.json) |
+| Ecopoiesis | 75927 | [75927-ecopoiesis.json](./75927-ecopoiesis.json) |
 | EcoQuest II: Lost Secret of the Rainforest | 7694 | [7694-ecoquest-ii-lost-secret-of-the-rainforest.json](./7694-ecoquest-ii-lost-secret-of-the-rainforest.json) |
 | EcoQuest: Explore, Discover, Protect! | 295814 | [295814-ecoquest-explore-discover-protect.json](./295814-ecoquest-explore-discover-protect.json) |
 | Ecotone | 19008 | [19008-ecotone.json](./19008-ecotone.json) |
