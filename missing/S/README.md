@@ -8393,6 +8393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Dream | 41962 | [41962-space-dream.json](./41962-space-dream.json) |
 | Space Drilling Station | 250028 | [250028-space-drilling-station.json](./250028-space-drilling-station.json) |
 | Space Drop | 290505 | [290505-space-drop.json](./290505-space-drop.json) |
+| Space Drop | 99773 | [99773-space-drop.json](./99773-space-drop.json) |
 | Space Ducks: The Great Escape | 199658 | [199658-space-ducks-the-great-escape.json](./199658-space-ducks-the-great-escape.json) |
 | Space Dudes vs Alien Dudes | 223389 | [223389-space-dudes-vs-alien-dudes.json](./223389-space-dudes-vs-alien-dudes.json) |
 | Space Eater Force | 182919 | [182919-space-eater-force.json](./182919-space-eater-force.json) |
@@ -10582,6 +10583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Outlaws: Limited Edition | 297044 | [297044-star-wars-outlaws-limited-edition.json](./297044-star-wars-outlaws-limited-edition.json) |
 | Star Wars Outlaws: Special Edition | 299474 | [299474-star-wars-outlaws-special-edition.json](./299474-star-wars-outlaws-special-edition.json) |
 | Star Wars Outlaws: Ultimate Edition | 299475 | [299475-star-wars-outlaws-ultimate-edition.json](./299475-star-wars-outlaws-ultimate-edition.json) |
+| Star Wars Pinball Season 1 Bundle | 99757 | [99757-star-wars-pinball-season-1-bundle.json](./99757-star-wars-pinball-season-1-bundle.json) |
 | Star Wars: Battle of the Sith Lords | 75088 | [75088-star-wars-battle-of-the-sith-lords.json](./75088-star-wars-battle-of-the-sith-lords.json) |
 | Star Wars: Battle Pod | 75086 | [75086-star-wars-battle-pod.json](./75086-star-wars-battle-pod.json) |
 | Star Wars: Battlefront - Elite Squadron | 192925 | [192925-star-wars-battlefront-elite-squadron.json](./192925-star-wars-battlefront-elite-squadron.json) |
@@ -10655,6 +10657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Old Republic - Knights of the Fallen Empire | 11178 | [11178-star-wars-the-old-republic-knights-of-the-fallen-empire.json](./11178-star-wars-the-old-republic-knights-of-the-fallen-empire.json) |
 | Star Wars: The Old Republic - Legacy of the Sith | 202780 | [202780-star-wars-the-old-republic-legacy-of-the-sith.json](./202780-star-wars-the-old-republic-legacy-of-the-sith.json) |
 | Star Wars: The Return of the Jedi | 219022 | [219022-star-wars-the-return-of-the-jedi.json](./219022-star-wars-the-return-of-the-jedi.json) |
+| Star Wars: Throwback Pack | 99756 | [99756-star-wars-throwback-pack.json](./99756-star-wars-throwback-pack.json) |
 | Star Wars: TIE Fighter - Defender of the Empire | 167 | [167-star-wars-tie-fighter-defender-of-the-empire.json](./167-star-wars-tie-fighter-defender-of-the-empire.json) |
 | Star Wars: TIE Fighter - Special Edition | 35968 | [35968-star-wars-tie-fighter-special-edition.json](./35968-star-wars-tie-fighter-special-edition.json) |
 | Star Wars: Tiny Death Star | 39245 | [39245-star-wars-tiny-death-star.json](./39245-star-wars-tiny-death-star.json) |
@@ -15107,6 +15110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Island | 392924 | [392924-sweet-island.json](./392924-sweet-island.json) |
 | Sweet Jewels | 359404 | [359404-sweet-jewels.json](./359404-sweet-jewels.json) |
 | Sweet Love | 165027 | [165027-sweet-love.json](./165027-sweet-love.json) |
+| Sweet Magic Madness | 99774 | [99774-sweet-magic-madness.json](./99774-sweet-magic-madness.json) |
 | Sweet Massage | 339453 | [339453-sweet-massage.json](./339453-sweet-massage.json) |
 | Sweet Math | 381276 | [381276-sweet-math.json](./381276-sweet-math.json) |
 | Sweet Model | 371356 | [371356-sweet-model.json](./371356-sweet-model.json) |
