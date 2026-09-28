@@ -822,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acassia | 209660 | [209660-acassia.json](./209660-acassia.json) |
 | Accel World vs. Sword Art Online: Millennium Twilight | 36796 | [36796-accel-world-vs-sword-art-online-millennium-twilight.json](./36796-accel-world-vs-sword-art-online-millennium-twilight.json) |
 | Accel World: End of Burst | 76242 | [76242-accel-world-end-of-burst.json](./76242-accel-world-end-of-burst.json) |
+| Accel World: The Peak of Acceleration | 64495 | [64495-accel-world-the-peak-of-acceleration.json](./64495-accel-world-the-peak-of-acceleration.json) |
 | Accel-X | 128348 | [128348-accel-x.json](./128348-accel-x.json) |
 | Accele Brid | 38353 | [38353-accele-brid.json](./38353-accele-brid.json) |
 | Acceler 8 | 182945 | [182945-acceler-8.json](./182945-acceler-8.json) |
@@ -3291,6 +3292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Conquest: Divided Nation | 9361 | [9361-american-conquest-divided-nation.json](./9361-american-conquest-divided-nation.json) |
 | American Cooking Simulator | 330850 | [330850-american-cooking-simulator.json](./330850-american-cooking-simulator.json) |
 | American Cooking Simulator: Multiplayer | 392810 | [392810-american-cooking-simulator-multiplayer.json](./392810-american-cooking-simulator-multiplayer.json) |
+| American Dad vs. Family Guy: Kung-Fu II Turbo! Hyper-Mega Edition | 64478 | [64478-american-dad-vs-family-guy-kung-fu-ii-turbo-hyper-mega-edition.json](./64478-american-dad-vs-family-guy-kung-fu-ii-turbo-hyper-mega-edition.json) |
 | American Dad! Pinball | 88806 | [88806-american-dad-pinball.json](./88806-american-dad-pinball.json) |
 | American Deer Hunter | 206112 | [206112-american-deer-hunter.json](./206112-american-deer-hunter.json) |
 | American Diesel Trains | 96053 | [96053-american-diesel-trains.json](./96053-american-diesel-trains.json) |
@@ -4402,6 +4404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AntiAir | 304199 | [304199-antiair.json](./304199-antiair.json) |
 | Antiban | 302664 | [302664-antiban.json](./302664-antiban.json) |
 | Antibody | 151081 | [151081-antibody.json](./151081-antibody.json) |
+| Antibody | 64494 | [64494-antibody.json](./64494-antibody.json) |
 | Antichamber | 2064 | [2064-antichamber.json](./2064-antichamber.json) |
 | Antichromatic | 112323 | [112323-antichromatic.json](./112323-antichromatic.json) |
 | Anticipating Murder | 316768 | [316768-anticipating-murder.json](./316768-anticipating-murder.json) |
@@ -4844,6 +4847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aragami: Nightfall | 96020 | [96020-aragami-nightfall.json](./96020-aragami-nightfall.json) |
 | Araignees | 184529 | [184529-araignees.json](./184529-araignees.json) |
 | Araka: JK Exorcist Horror RPG | 235870 | [235870-araka-jk-exorcist-horror-rpg.json](./235870-araka-jk-exorcist-horror-rpg.json) |
+| Arakion | 64487 | [64487-arakion.json](./64487-arakion.json) |
 | Arakion: Book One | 81235 | [81235-arakion-book-one.json](./81235-arakion-book-one.json) |
 | Arali | 203881 | [203881-arali.json](./203881-arali.json) |
 | Aralon: Sword and Shadow | 38985 | [38985-aralon-sword-and-shadow.json](./38985-aralon-sword-and-shadow.json) |
@@ -7292,6 +7296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aviatrix | 279044 | [279044-aviatrix.json](./279044-aviatrix.json) |
 | AVICI | 348242 | [348242-avici.json](./348242-avici.json) |
 | Avicii: Gravity | 108980 | [108980-avicii-gravity.json](./108980-avicii-gravity.json) |
+| Avination | 64490 | [64490-avination.json](./64490-avination.json) |
 | Avis Rapida: Aerobatic Racing | 118384 | [118384-avis-rapida-aerobatic-racing.json](./118384-avis-rapida-aerobatic-racing.json) |
 | Avish! | 69863 | [69863-avish.json](./69863-avish.json) |
 | Avium | 274504 | [274504-avium.json](./274504-avium.json) |
