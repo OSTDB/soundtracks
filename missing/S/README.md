@@ -359,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sáivu | 293893 | [293893-saivu.json](./293893-saivu.json) |
 | Saiyan Saga | 90363 | [90363-saiyan-saga.json](./90363-saiyan-saga.json) |
 | Saiyuuki World 2: Tenjoukai no Majin | 19669 | [19669-saiyuuki-world-2-tenjoukai-no-majin.json](./19669-saiyuuki-world-2-tenjoukai-no-majin.json) |
+| Sak'd | 115786 | [115786-sakd.json](./115786-sakd.json) |
 | Sakamoto Dangerous Barrage | 331884 | [331884-sakamoto-dangerous-barrage.json](./331884-sakamoto-dangerous-barrage.json) |
 | Sakata Goro Kudan no Renju Kyoushitsu | 97859 | [97859-sakata-goro-kudan-no-renju-kyoushitsu.json](./97859-sakata-goro-kudan-no-renju-kyoushitsu.json) |
 | SakaTsuku Tokudai-gou 2: J.League Pro Soccer Club wo Tsukurou! | 392777 | [392777-sakatsuku-tokudai-gou-2-j-league-pro-soccer-club-wo-tsukurou.json](./392777-sakatsuku-tokudai-gou-2-j-league-pro-soccer-club-wo-tsukurou.json) |
@@ -3955,6 +3956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Ballons | 247012 | [247012-shooting-ballons.json](./247012-shooting-ballons.json) |
 | Shooting Beena Toy Story 3: Woody to Buzz no Daibouken! | 123619 | [123619-shooting-beena-toy-story-3-woody-to-buzz-no-daibouken.json](./123619-shooting-beena-toy-story-3-woody-to-buzz-no-daibouken.json) |
 | Shooting Blocks 2 | 91340 | [91340-shooting-blocks-2.json](./91340-shooting-blocks-2.json) |
+| Shooting Bubbles | 115777 | [115777-shooting-bubbles.json](./115777-shooting-bubbles.json) |
 | Shooting Chicken Insanity Chickens | 110171 | [110171-shooting-chicken-insanity-chickens.json](./110171-shooting-chicken-insanity-chickens.json) |
 | Shooting Covid | 195713 | [195713-shooting-covid.json](./195713-shooting-covid.json) |
 | Shooting Disappearing | 288357 | [288357-shooting-disappearing.json](./288357-shooting-disappearing.json) |
@@ -8663,6 +8665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceborne Fighters | 392141 | [392141-spaceborne-fighters.json](./392141-spaceborne-fighters.json) |
 | Spaceborne Survivors | 294268 | [294268-spaceborne-survivors.json](./294268-spaceborne-survivors.json) |
 | Spacebound | 95397 | [95397-spacebound.json](./95397-spacebound.json) |
+| SpaceBullet | 115807 | [115807-spacebullet.json](./115807-spacebullet.json) |
 | Spacecats with Lasers | 36531 | [36531-spacecats-with-lasers.json](./36531-spacecats-with-lasers.json) |
 | Spacecats with Lasers VR | 30262 | [30262-spacecats-with-lasers-vr.json](./30262-spacecats-with-lasers-vr.json) |
 | SpaceColorsRunner | 123446 | [123446-spacecolorsrunner.json](./123446-spacecolorsrunner.json) |
@@ -11579,6 +11582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop10 | 292156 | [292156-stop10.json](./292156-stop10.json) |
 | Stoplights | 392140 | [392140-stoplights.json](./392140-stoplights.json) |
 | Stopots | 50157 | [50157-stopots.json](./50157-stopots.json) |
+| Stoppa! | 115813 | [115813-stoppa.json](./115813-stoppa.json) |
 | Stopping Santa | 335240 | [335240-stopping-santa.json](./335240-stopping-santa.json) |
 | StopSign | 167253 | [167253-stopsign.json](./167253-stopsign.json) |
 | StopTime Drive | 44226 | [44226-stoptime-drive.json](./44226-stoptime-drive.json) |
@@ -14588,6 +14592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Gladiator: Blades of the Coliseum | 322978 | [322978-survival-gladiator-blades-of-the-coliseum.json](./322978-survival-gladiator-blades-of-the-coliseum.json) |
 | Survival Hold Your Self | 342077 | [342077-survival-hold-your-self.json](./342077-survival-hold-your-self.json) |
 | Survival in Draconia | 309468 | [309468-survival-in-draconia.json](./309468-survival-in-draconia.json) |
+| Survival in Three Kingdoms | 115803 | [115803-survival-in-three-kingdoms.json](./115803-survival-in-three-kingdoms.json) |
 | Survival Island | 201672 | [201672-survival-island.json](./201672-survival-island.json) |
 | Survival Island: Evolve | 231882 | [231882-survival-island-evolve.json](./231882-survival-island-evolve.json) |
 | Survival Machine | 152121 | [152121-survival-machine.json](./152121-survival-machine.json) |
