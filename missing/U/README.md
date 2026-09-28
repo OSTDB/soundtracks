@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercraft | 331345 | [331345-undercraft.json](./331345-undercraft.json) |
 | Undercreator | 329717 | [329717-undercreator.json](./329717-undercreator.json) |
 | Undercrewed | 89325 | [89325-undercrewed.json](./89325-undercrewed.json) |
+| Undercroft | 92056 | [92056-undercroft.json](./92056-undercroft.json) |
 | Undercurrent | 399199 | [399199-undercurrent.json](./399199-undercurrent.json) |
 | Underdog Detective | 198551 | [198551-underdog-detective.json](./198551-underdog-detective.json) |
 | Underdone | 47999 | [47999-underdone.json](./47999-underdone.json) |
@@ -1438,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upward | 234353 | [234353-upward.json](./234353-upward.json) |
 | Upwords | 78356 | [78356-upwords.json](./78356-upwords.json) |
 | Ura Jinsei Enjoi! Tamagotchi Plus | 229953 | [229953-ura-jinsei-enjoi-tamagotchi-plus.json](./229953-ura-jinsei-enjoi-tamagotchi-plus.json) |
+| Ura Kaiten Patissier | 92064 | [92064-ura-kaiten-patissier.json](./92064-ura-kaiten-patissier.json) |
 | Ura no Ura | 76596 | [76596-ura-no-ura.json](./76596-ura-no-ura.json) |
 | Uraankhians Dygyn: The Beginning | 314904 | [314904-uraankhians-dygyn-the-beginning.json](./314904-uraankhians-dygyn-the-beginning.json) |
 | URagnarok | 98042 | [98042-uragnarok.json](./98042-uragnarok.json) |
