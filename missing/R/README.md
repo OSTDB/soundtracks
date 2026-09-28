@@ -2596,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retail Royale | 151096 | [151096-retail-royale.json](./151096-retail-royale.json) |
 | Retale | 307749 | [307749-retale.json](./307749-retale.json) |
 | Retaliate | 300810 | [300810-retaliate.json](./300810-retaliate.json) |
+| reTension | 92085 | [92085-retension.json](./92085-retension.json) |
 | Retention | 36028 | [36028-retention.json](./36028-retention.json) |
 | Retention: A Love Story | 149597 | [149597-retention-a-love-story.json](./149597-retention-a-love-story.json) |
 | Retexo Mori | 155975 | [155975-retexo-mori.json](./155975-retexo-mori.json) |
@@ -4950,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotolla | 21021 | [21021-rotolla.json](./21021-rotolla.json) |
 | Rotor | 13255 | [13255-rotor.json](./13255-rotor.json) |
 | Rotor | 144254 | [144254-rotor.json](./144254-rotor.json) |
+| Rotorize | 92084 | [92084-rotorize.json](./92084-rotorize.json) |
 | RotorScape | 311495 | [311495-rotorscape.json](./311495-rotorscape.json) |
 | Rotorsim: Helicopter Simulator | 348878 | [348878-rotorsim-helicopter-simulator.json](./348878-rotorsim-helicopter-simulator.json) |
 | Rotschwert | 333660 | [333660-rotschwert.json](./333660-rotschwert.json) |
