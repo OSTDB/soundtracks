@@ -1037,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elise's Peepshow | 161377 | [161377-elises-peepshow.json](./161377-elises-peepshow.json) |
 | Eliseisk 2074 | 167572 | [167572-eliseisk-2074.json](./167572-eliseisk-2074.json) |
 | Elisius | 149040 | [149040-elisius.json](./149040-elisius.json) |
+| Elite Archery | 111876 | [111876-elite-archery.json](./111876-elite-archery.json) |
 | Elite Beasts | 381628 | [381628-elite-beasts.json](./381628-elite-beasts.json) |
 | Elite Beat Zombygons | 184659 | [184659-elite-beat-zombygons.json](./184659-elite-beat-zombygons.json) |
 | Elite Comet | 277354 | [277354-elite-comet.json](./277354-elite-comet.json) |
