@@ -7199,6 +7199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awoken: Chapter One of Reverie | 168849 | [168849-awoken-chapter-one-of-reverie.json](./168849-awoken-chapter-one-of-reverie.json) |
 | Awol Ahab | 180115 | [180115-awol-ahab.json](./180115-awol-ahab.json) |
 | Awolnation: Megalithic Mayhem | 174228 | [174228-awolnation-megalithic-mayhem.json](./174228-awolnation-megalithic-mayhem.json) |
+| Aworded Crack | 108602 | [108602-aworded-crack.json](./108602-aworded-crack.json) |
 | AWS Argentina Wingshooting Simulator | 75032 | [75032-aws-argentina-wingshooting-simulator.json](./75032-aws-argentina-wingshooting-simulator.json) |
 | AX-1: Arabian Rhapsody | 91462 | [91462-ax-1-arabian-rhapsody.json](./91462-ax-1-arabian-rhapsody.json) |
 | AX-10: Outlaw | 91459 | [91459-ax-10-outlaw.json](./91459-ax-10-outlaw.json) |
