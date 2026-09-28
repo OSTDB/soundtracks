@@ -2491,6 +2491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Septem: The Preparation | 384639 | [384639-septem-the-preparation.json](./384639-septem-the-preparation.json) |
 | September 1999 | 110468 | [110468-september-1999.json](./110468-september-1999.json) |
 | September is Halfway Over | 131552 | [131552-september-is-halfway-over.json](./131552-september-is-halfway-over.json) |
+| September Secrets | 82180 | [82180-september-secrets.json](./82180-september-secrets.json) |
 | Septic | 324321 | [324321-septic.json](./324321-septic.json) |
 | Septic Savages | 30853 | [30853-septic-savages.json](./30853-septic-savages.json) |
 | Septiny | 186193 | [186193-septiny.json](./186193-septiny.json) |
@@ -9916,6 +9917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring Gothic | 338216 | [338216-spring-gothic.json](./338216-spring-gothic.json) |
 | Spring Hell | 266770 | [266770-spring-hell.json](./266770-spring-hell.json) |
 | Spring in Summer | 291052 | [291052-spring-in-summer.json](./291052-spring-in-summer.json) |
+| Spring Is Here | 82185 | [82185-spring-is-here.json](./82185-spring-is-here.json) |
 | Spring It! | 84536 | [84536-spring-it.json](./84536-spring-it.json) |
 | Spring Mosaics | 415910 | [415910-spring-mosaics.json](./415910-spring-mosaics.json) |
 | Spring Ninja | 344936 | [344936-spring-ninja.json](./344936-spring-ninja.json) |
@@ -10304,6 +10306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stalker Together | 327831 | [327831-stalker-together.json](./327831-stalker-together.json) |
 | Stalker: Spatial Trap | 321516 | [321516-stalker-spatial-trap.json](./321516-stalker-spatial-trap.json) |
 | Stallions in America | 199117 | [199117-stallions-in-america.json](./199117-stallions-in-america.json) |
+| Stamp Smash | 82184 | [82184-stamp-smash.json](./82184-stamp-smash.json) |
 | Stampede | 5704 | [5704-stampede.json](./5704-stampede.json) |
 | Stampede Racing Royale | 252849 | [252849-stampede-racing-royale.json](./252849-stampede-racing-royale.json) |
 | Stamps ‘n Papers | 346694 | [346694-stamps-n-papers.json](./346694-stamps-n-papers.json) |
@@ -12969,6 +12972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Games Challenge: Throwing & Lifting | 362347 | [362347-summer-games-challenge-throwing-and-lifting.json](./362347-summer-games-challenge-throwing-and-lifting.json) |
 | Summer Games Heroes | 127761 | [127761-summer-games-heroes.json](./127761-summer-games-heroes.json) |
 | Summer Games II | 297508 | [297508-summer-games-ii.json](./297508-summer-games-ii.json) |
+| Summer Garden | 82183 | [82183-summer-garden.json](./82183-summer-garden.json) |
 | Summer Horrordays | 177492 | [177492-summer-horrordays.json](./177492-summer-horrordays.json) |
 | Summer in Mara + Deiland Bundle | 188018 | [188018-summer-in-mara-deiland-bundle.json](./188018-summer-in-mara-deiland-bundle.json) |
 | Summer In Mara: Collector's Edition | 172589 | [172589-summer-in-mara-collectors-edition.json](./172589-summer-in-mara-collectors-edition.json) |
@@ -12990,6 +12994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Puzzles | 226200 | [226200-summer-puzzles.json](./226200-summer-puzzles.json) |
 | Summer Reunion | 370102 | [370102-summer-reunion.json](./370102-summer-reunion.json) |
 | Summer Rose Court | 125327 | [125327-summer-rose-court.json](./125327-summer-rose-court.json) |
+| Summer Secrets | 82182 | [82182-summer-secrets.json](./82182-summer-secrets.json) |
 | Summer Sisters | 402291 | [402291-summer-sisters.json](./402291-summer-sisters.json) |
 | Summer Sled | 55943 | [55943-summer-sled.json](./55943-summer-sled.json) |
 | Summer Snow. | 397949 | [397949-summer-snow.json](./397949-summer-snow.json) |
