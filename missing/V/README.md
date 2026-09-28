@@ -1655,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Escape the space station | 31782 | [31782-vr-escape-the-space-station.json](./31782-vr-escape-the-space-station.json) |
 | VR Fantasy | 395540 | [395540-vr-fantasy.json](./395540-vr-fantasy.json) |
 | VR Fight Covid-19 | 147352 | [147352-vr-fight-covid-19.json](./147352-vr-fight-covid-19.json) |
+| VR Fire Emergency Simulation System | 76699 | [76699-vr-fire-emergency-simulation-system.json](./76699-vr-fire-emergency-simulation-system.json) |
 | VR Fishtank | 244772 | [244772-vr-fishtank.json](./244772-vr-fishtank.json) |
 | VR Formula | 51517 | [51517-vr-formula.json](./51517-vr-formula.json) |
 | VR Fun World | 31140 | [31140-vr-fun-world.json](./31140-vr-fun-world.json) |
@@ -1694,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Prison Showdown：rookie Guard Rumble | 364063 | [364063-vr-prison-showdown-rookie-guard-rumble.json](./364063-vr-prison-showdown-rookie-guard-rumble.json) |
 | VR Rescue of Girls | 160253 | [160253-vr-rescue-of-girls.json](./160253-vr-rescue-of-girls.json) |
 | VR Retro Snake on Girls | 163292 | [163292-vr-retro-snake-on-girls.json](./163292-vr-retro-snake-on-girls.json) |
+| VR Rhythm Action Seiya | 76522 | [76522-vr-rhythm-action-seiya.json](./76522-vr-rhythm-action-seiya.json) |
 | VR Roller Coaster at Global Wonders | 166195 | [166195-vr-roller-coaster-at-global-wonders.json](./166195-vr-roller-coaster-at-global-wonders.json) |
 | VR Rome | 111385 | [111385-vr-rome.json](./111385-vr-rome.json) |
 | VR Room: The Flintstones | 279674 | [279674-vr-room-the-flintstones.json](./279674-vr-room-the-flintstones.json) |
