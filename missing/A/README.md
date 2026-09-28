@@ -1344,6 +1344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures With Oslo: World of Water | 262400 | [262400-adventures-with-oslo-world-of-water.json](./262400-adventures-with-oslo-world-of-water.json) |
 | Adventurezator: When Pigs Fly | 8373 | [8373-adventurezator-when-pigs-fly.json](./8373-adventurezator-when-pigs-fly.json) |
 | Adventuro | 280304 | [280304-adventuro.json](./280304-adventuro.json) |
+| AdventurOS | 62816 | [62816-adventuros.json](./62816-adventuros.json) |
 | Adventurous Boy: Màoxiǎn Xiǎozi | 128553 | [128553-adventurous-boy-maoxian-xiaozi.json](./128553-adventurous-boy-maoxian-xiaozi.json) |
 | Adventurous Mind | 259670 | [259670-adventurous-mind.json](./259670-adventurous-mind.json) |
 | Adversary Tower | 257398 | [257398-adversary-tower.json](./257398-adversary-tower.json) |
@@ -2417,6 +2418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in Wonderland | 175929 | [175929-alice-in-wonderland.json](./175929-alice-in-wonderland.json) |
 | Alice in Wonderland | 196846 | [196846-alice-in-wonderland.json](./196846-alice-in-wonderland.json) |
 | Alice in Wonderland: 3D Game | 102945 | [102945-alice-in-wonderland-3d-game.json](./102945-alice-in-wonderland-3d-game.json) |
+| Alice In Wonderland: A New Champion | 62811 | [62811-alice-in-wonderland-a-new-champion.json](./62811-alice-in-wonderland-a-new-champion.json) |
 | Alice in Wonderland: Jigsaw Puzzle | 207804 | [207804-alice-in-wonderland-jigsaw-puzzle.json](./207804-alice-in-wonderland-jigsaw-puzzle.json) |
 | Alice in Wonderland: Magical Labyrinth | 328575 | [328575-alice-in-wonderland-magical-labyrinth.json](./328575-alice-in-wonderland-magical-labyrinth.json) |
 | Alice in Wonderland: Puzzle Golf Adventures | 100008 | [100008-alice-in-wonderland-puzzle-golf-adventures.json](./100008-alice-in-wonderland-puzzle-golf-adventures.json) |
