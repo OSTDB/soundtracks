@@ -1144,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Together: Candy Pack | 223573 | [223573-farm-together-candy-pack.json](./223573-farm-together-candy-pack.json) |
 | Farm Together: Season 4 Bundle | 223594 | [223594-farm-together-season-4-bundle.json](./223594-farm-together-season-4-bundle.json) |
 | Farm Together: Wedding Pack | 223576 | [223576-farm-together-wedding-pack.json](./223576-farm-together-wedding-pack.json) |
+| Farm Town | 62237 | [62237-farm-town.json](./62237-farm-town.json) |
 | Farm Under Fire | 199377 | [199377-farm-under-fire.json](./199377-farm-under-fire.json) |
 | Farm Up | 87693 | [87693-farm-up.json](./87693-farm-up.json) |
 | Farm Wars | 219291 | [219291-farm-wars.json](./219291-farm-wars.json) |
