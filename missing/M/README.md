@@ -5009,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind the Vikings | 81714 | [81714-mind-the-vikings.json](./81714-mind-the-vikings.json) |
 | Mind Trap | 98378 | [98378-mind-trap.json](./98378-mind-trap.json) |
 | Mind Within | 344384 | [344384-mind-within.json](./344384-mind-within.json) |
+| Mind Your Manas | 118447 | [118447-mind-your-manas.json](./118447-mind-your-manas.json) |
 | Mind-Blowing Girls | 158148 | [158148-mind-blowing-girls.json](./158148-mind-blowing-girls.json) |
 | Mind-Blowing Girls 2 | 171027 | [171027-mind-blowing-girls-2.json](./171027-mind-blowing-girls-2.json) |
 | Mind-Blowing Girls 3 | 163995 | [163995-mind-blowing-girls-3.json](./163995-mind-blowing-girls-3.json) |
@@ -6008,6 +6009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobius | 104646 | [104646-mobius.json](./104646-mobius.json) |
 | Mobius Final Fantasy | 21628 | [21628-mobius-final-fantasy.json](./21628-mobius-final-fantasy.json) |
 | Mobius Theory | 225602 | [225602-mobius-theory.json](./225602-mobius-theory.json) |
+| Möbler | 118301 | [118301-mobler.json](./118301-mobler.json) |
 | Mobmania | 211807 | [211807-mobmania.json](./211807-mobmania.json) |
 | Mobo Greenhouse Garden | 256903 | [256903-mobo-greenhouse-garden.json](./256903-mobo-greenhouse-garden.json) |
 | Mobo Hide and Seek | 200128 | [200128-mobo-hide-and-seek.json](./200128-mobo-hide-and-seek.json) |
@@ -6586,6 +6588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Wilds: Erik Outfit - Crestcollar Seikret Suit | 412289 | [412289-monster-hunter-wilds-erik-outfit-crestcollar-seikret-suit.json](./412289-monster-hunter-wilds-erik-outfit-crestcollar-seikret-suit.json) |
 | Monster Hunter Wilds: Premium Deluxe Edition | 334113 | [334113-monster-hunter-wilds-premium-deluxe-edition.json](./334113-monster-hunter-wilds-premium-deluxe-edition.json) |
 | Monster Hunter Wilds: Title Update 5 | 381129 | [381129-monster-hunter-wilds-title-update-5.json](./381129-monster-hunter-wilds-title-update-5.json) |
+| Monster Hunter World: Iceborne - Digital Deluxe Edition | 118278 | [118278-monster-hunter-world-iceborne-digital-deluxe-edition.json](./118278-monster-hunter-world-iceborne-digital-deluxe-edition.json) |
 | Monster Hunter: Poogie Race | 313482 | [313482-monster-hunter-poogie-race.json](./313482-monster-hunter-poogie-race.json) |
 | Monster Hunter: World - Collector's Edition | 81289 | [81289-monster-hunter-world-collectors-edition.json](./81289-monster-hunter-world-collectors-edition.json) |
 | Monster Hunter: World - Digital Deluxe Edition | 81354 | [81354-monster-hunter-world-digital-deluxe-edition.json](./81354-monster-hunter-world-digital-deluxe-edition.json) |
