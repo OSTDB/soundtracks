@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Hero Biography | 119561 | [119561-fantasy-hero-biography.json](./119561-fantasy-hero-biography.json) |
 | Fantasy Hero Manager | 118396 | [118396-fantasy-hero-manager.json](./118396-fantasy-hero-manager.json) |
 | Fantasy Heroes | 119005 | [119005-fantasy-heroes.json](./119005-fantasy-heroes.json) |
+| Fantasy Home Design | 109208 | [109208-fantasy-home-design.json](./109208-fantasy-home-design.json) |
 | Fantasy Illness | 339115 | [339115-fantasy-illness.json](./339115-fantasy-illness.json) |
 | Fantasy Inn Simulator | 157127 | [157127-fantasy-inn-simulator.json](./157127-fantasy-inn-simulator.json) |
 | Fantasy Item Company | 216158 | [216158-fantasy-item-company.json](./216158-fantasy-item-company.json) |
@@ -2211,6 +2212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fight Guy | 42554 | [42554-final-fight-guy.json](./42554-final-fight-guy.json) |
 | Final Fight One | 1663 | [1663-final-fight-one.json](./1663-final-fight-one.json) |
 | Final Fight: Streetwise | 1660 | [1660-final-fight-streetwise.json](./1660-final-fight-streetwise.json) |
+| Final Fighter | 109207 | [109207-final-fighter.json](./109207-final-fighter.json) |
 | Final Flames 2: Against the Dark World Crisis | 76548 | [76548-final-flames-2-against-the-dark-world-crisis.json](./76548-final-flames-2-against-the-dark-world-crisis.json) |
 | Final Flock | 260163 | [260163-final-flock.json](./260163-final-flock.json) |
 | Final Foe | 153955 | [153955-final-foe.json](./153955-final-foe.json) |
@@ -3548,6 +3550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Garden Tycoon | 146732 | [146732-flower-garden-tycoon.json](./146732-flower-garden-tycoon.json) |
 | Flower in the Snow: Resurrection | 164998 | [164998-flower-in-the-snow-resurrection.json](./164998-flower-in-the-snow-resurrection.json) |
 | Flower in Us | 263601 | [263601-flower-in-us.json](./263601-flower-in-us.json) |
+| Flower Knight Girl | 109196 | [109196-flower-knight-girl.json](./109196-flower-knight-girl.json) |
 | Flower Lines | 69880 | [69880-flower-lines.json](./69880-flower-lines.json) |
 | Flower Magic | 108457 | [108457-flower-magic.json](./108457-flower-magic.json) |
 | Flower of Ice Blossoming Under the Moon | 82918 | [82918-flower-of-ice-blossoming-under-the-moon.json](./82918-flower-of-ice-blossoming-under-the-moon.json) |
