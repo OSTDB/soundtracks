@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampirem | 136411 | [136411-vampirem.json](./136411-vampirem.json) |
 | Vampires and Knights: Eclipse Survival & Magic Craft | 335073 | [335073-vampires-and-knights-eclipse-survival-and-magic-craft.json](./335073-vampires-and-knights-eclipse-survival-and-magic-craft.json) |
 | Vampires and Werewolves | 226739 | [226739-vampires-and-werewolves.json](./226739-vampires-and-werewolves.json) |
+| Vampires Dawn 2: Ancient Blood | 80474 | [80474-vampires-dawn-2-ancient-blood.json](./80474-vampires-dawn-2-ancient-blood.json) |
 | Vampires: Bloodlust | 68009 | [68009-vampires-bloodlust.json](./68009-vampires-bloodlust.json) |
 | Vampires' Melody | 169435 | [169435-vampires-melody.json](./169435-vampires-melody.json) |
 | Vampireville: haunted castle adventure | 175295 | [175295-vampireville-haunted-castle-adventure.json](./175295-vampireville-haunted-castle-adventure.json) |
@@ -1368,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vohenn | 387538 | [387538-vohenn.json](./387538-vohenn.json) |
 | Voice | 191246 | [191246-voice.json](./191246-voice.json) |
 | Voice Actress II | 104801 | [104801-voice-actress-ii.json](./104801-voice-actress-ii.json) |
+| Voice Changer 360 | 80639 | [80639-voice-changer-360.json](./80639-voice-changer-360.json) |
 | Voice in the Abyss | 283735 | [283735-voice-in-the-abyss.json](./283735-voice-in-the-abyss.json) |
 | Voice of Cards Trilogy | 242664 | [242664-voice-of-cards-trilogy.json](./242664-voice-of-cards-trilogy.json) |
 | Voice of Cards: The Beasts of Burden | 215058 | [215058-voice-of-cards-the-beasts-of-burden.json](./215058-voice-of-cards-the-beasts-of-burden.json) |
