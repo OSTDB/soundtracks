@@ -4344,6 +4344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Tales: Emerald Valley Ranch | 206679 | [206679-horse-tales-emerald-valley-ranch.json](./206679-horse-tales-emerald-valley-ranch.json) |
 | Horse Tales: Emerald Valley Ranch - Deluxe | 283268 | [283268-horse-tales-emerald-valley-ranch-deluxe.json](./283268-horse-tales-emerald-valley-ranch-deluxe.json) |
 | Horse Vet 3D | 85181 | [85181-horse-vet-3d.json](./85181-horse-vet-3d.json) |
+| Horse World | 106123 | [106123-horse-world.json](./106123-horse-world.json) |
 | Horses of Gavarnie | 387653 | [387653-horses-of-gavarnie.json](./387653-horses-of-gavarnie.json) |
 | Horses of Hoofprint Bay | 376483 | [376483-horses-of-hoofprint-bay.json](./376483-horses-of-hoofprint-bay.json) |
 | Horses.io: Horse Herd Racing | 269010 | [269010-horses-io-horse-herd-racing.json](./269010-horses-io-horse-herd-racing.json) |
@@ -4562,6 +4563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Tome ws | 340486 | [340486-hotel-tome-ws.json](./340486-hotel-tome-ws.json) |
 | Hotel Transylvania 2: The Game | 108822 | [108822-hotel-transylvania-2-the-game.json](./108822-hotel-transylvania-2-the-game.json) |
 | Hotel Transylvania Dash | 108820 | [108820-hotel-transylvania-dash.json](./108820-hotel-transylvania-dash.json) |
+| Hotel Transylvania Popstic | 106141 | [106141-hotel-transylvania-popstic.json](./106141-hotel-transylvania-popstic.json) |
 | Hotel Transylvania: Crazy Cruise | 105769 | [105769-hotel-transylvania-crazy-cruise.json](./105769-hotel-transylvania-crazy-cruise.json) |
 | Hotel Transylvania: Social Game | 108821 | [108821-hotel-transylvania-social-game.json](./108821-hotel-transylvania-social-game.json) |
 | Hotelnomaly | 318062 | [318062-hotelnomaly.json](./318062-hotelnomaly.json) |
