@@ -1947,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Vigil | 31848 | [31848-night-vigil.json](./31848-night-vigil.json) |
 | Night Walker | 256316 | [256316-night-walker.json](./256316-night-walker.json) |
 | Night Watch | 20540 | [20540-night-watch.json](./20540-night-watch.json) |
+| Night Watcher | 72751 | [72751-night-watcher.json](./72751-night-watcher.json) |
 | Night Witch: 588 | 127245 | [127245-night-witch-588.json](./127245-night-witch-588.json) |
 | Night with Timber | 377795 | [377795-night-with-timber.json](./377795-night-with-timber.json) |
 | Night World | 178057 | [178057-night-world.json](./178057-night-world.json) |
@@ -2520,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Gods of Men | 346764 | [346764-no-gods-of-men.json](./346764-no-gods-of-men.json) |
 | No Gods, Only Ducks | 415902 | [415902-no-gods-only-ducks.json](./415902-no-gods-only-ducks.json) |
 | No Gravity: The Plague Of Mind | 42846 | [42846-no-gravity-the-plague-of-mind.json](./42846-no-gravity-the-plague-of-mind.json) |
+| No Greater Glory: The American Civil War | 72017 | [72017-no-greater-glory-the-american-civil-war.json](./72017-no-greater-glory-the-american-civil-war.json) |
 | No Heroes Allowed! | 234732 | [234732-no-heroes-allowed.json](./234732-no-heroes-allowed.json) |
 | No Horizon | 109572 | [109572-no-horizon.json](./109572-no-horizon.json) |
 | No Internet | 292053 | [292053-no-internet.json](./292053-no-internet.json) |
