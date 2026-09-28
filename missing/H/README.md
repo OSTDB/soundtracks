@@ -1640,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heisei Tensai Bakabon | 249763 | [249763-heisei-tensai-bakabon.json](./249763-heisei-tensai-bakabon.json) |
 | Heisei Tensai Bakabon Minna de Family Resturant ni Iku no da! | 249764 | [249764-heisei-tensai-bakabon-minna-de-family-resturant-ni-iku-no-da.json](./249764-heisei-tensai-bakabon-minna-de-family-resturant-ni-iku-no-da.json) |
 | Heist | 111050 | [111050-heist.json](./111050-heist.json) |
+| Heist | 84304 | [84304-heist.json](./84304-heist.json) |
 | Heist Day | 153983 | [153983-heist-day.json](./153983-heist-day.json) |
 | Heist Game: It's Only Illegal if You Get Caught This Is Not Legal Advice Only a Title | 177564 | [177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json](./177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json) |
 | Heist Haven | 374843 | [374843-heist-haven.json](./374843-heist-haven.json) |
@@ -4792,6 +4793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hovercraft: Build Fly Retry | 105896 | [105896-hovercraft-build-fly-retry.json](./105896-hovercraft-build-fly-retry.json) |
 | HoverGrease 2 | 330535 | [330535-hovergrease-2.json](./330535-hovergrease-2.json) |
 | Hoverise Rebellion | 204412 | [204412-hoverise-rebellion.json](./204412-hoverise-rebellion.json) |
+| HoverRace | 84292 | [84292-hoverrace.json](./84292-hoverrace.json) |
 | HoverRider | 201002 | [201002-hoverrider.json](./201002-hoverrider.json) |
 | Hovershift | 117695 | [117695-hovershift.json](./117695-hovershift.json) |
 | Hovershift | 336916 | [336916-hovershift.json](./336916-hovershift.json) |
