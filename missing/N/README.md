@@ -1950,6 +1950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightclub Emporium | 34788 | [34788-nightclub-emporium.json](./34788-nightclub-emporium.json) |
 | Nightclub Manager Simulator | 326391 | [326391-nightclub-manager-simulator.json](./326391-nightclub-manager-simulator.json) |
 | Nightclub Royale: Let's Party! | 254608 | [254608-nightclub-royale-lets-party.json](./254608-nightclub-royale-lets-party.json) |
+| Nightclub Shufflepuck | 91516 | [91516-nightclub-shufflepuck.json](./91516-nightclub-shufflepuck.json) |
 | NightCrawler | 288822 | [288822-nightcrawler.json](./288822-nightcrawler.json) |
 | Nightcrawler VR Bowling | 37400 | [37400-nightcrawler-vr-bowling.json](./37400-nightcrawler-vr-bowling.json) |
 | NightCry | 19132 | [19132-nightcry.json](./19132-nightcry.json) |
