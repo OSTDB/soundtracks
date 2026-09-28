@@ -2313,6 +2313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Semantica: Semantic game | 231905 | [231905-semantica-semantic-game.json](./231905-semantica-semantic-game.json) |
 | Semantics | 388255 | [388255-semantics.json](./388255-semantics.json) |
 | Semblance | 55173 | [55173-semblance.json](./55173-semblance.json) |
+| Semi-Sweet Tofu | 96904 | [96904-semi-sweet-tofu.json](./96904-semi-sweet-tofu.json) |
 | Semiramis no Tenbin | 60257 | [60257-semiramis-no-tenbin.json](./60257-semiramis-no-tenbin.json) |
 | Semispheres | 17990 | [17990-semispheres.json](./17990-semispheres.json) |
 | Semispheres: Blue Cover Limited Edition | 167034 | [167034-semispheres-blue-cover-limited-edition.json](./167034-semispheres-blue-cover-limited-edition.json) |
@@ -5796,6 +5797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Ride Arcade | 32985 | [32985-slide-ride-arcade.json](./32985-slide-ride-arcade.json) |
 | Slide Soldiers | 358951 | [358951-slide-soldiers.json](./358951-slide-soldiers.json) |
 | Slide Stars | 138045 | [138045-slide-stars.json](./138045-slide-stars.json) |
+| Slide the Shakes | 96893 | [96893-slide-the-shakes.json](./96893-slide-the-shakes.json) |
 | Slide to finish | 111477 | [111477-slide-to-finish.json](./111477-slide-to-finish.json) |
 | Slide to Solve | 329592 | [329592-slide-to-solve.json](./329592-slide-to-solve.json) |
 | Slide Together | 184401 | [184401-slide-together.json](./184401-slide-together.json) |
@@ -9511,6 +9513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Realm | 51498 | [51498-spirit-realm.json](./51498-spirit-realm.json) |
 | Spirit Realm Saga | 295336 | [295336-spirit-realm-saga.json](./295336-spirit-realm-saga.json) |
 | Spirit Riding Free: Ride Along Adventure | 256866 | [256866-spirit-riding-free-ride-along-adventure.json](./256866-spirit-riding-free-ride-along-adventure.json) |
+| Spirit Roots | 96858 | [96858-spirit-roots.json](./96858-spirit-roots.json) |
 | Spirit Rover | 107208 | [107208-spirit-rover.json](./107208-spirit-rover.json) |
 | Spirit Seasons: Little Ghost Story | 125311 | [125311-spirit-seasons-little-ghost-story.json](./125311-spirit-seasons-little-ghost-story.json) |
 | Spirit Shift | 181365 | [181365-spirit-shift.json](./181365-spirit-shift.json) |
@@ -11172,6 +11175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Bastard: Tactical Espionage Arsehole | 65531 | [65531-stealth-bastard-tactical-espionage-arsehole.json](./65531-stealth-bastard-tactical-espionage-arsehole.json) |
 | Stealth Blade | 278402 | [278402-stealth-blade.json](./278402-stealth-blade.json) |
 | Stealth Force: The War on Terror | 43291 | [43291-stealth-force-the-war-on-terror.json](./43291-stealth-force-the-war-on-terror.json) |
+| Stealth Granny in the House | 96910 | [96910-stealth-granny-in-the-house.json](./96910-stealth-granny-in-the-house.json) |
 | Stealth Horror: Grand Daddy | 97098 | [97098-stealth-horror-grand-daddy.json](./97098-stealth-horror-grand-daddy.json) |
 | Stealth Inc: A Clone in the Dark - Ultimate Edition | 52872 | [52872-stealth-inc-a-clone-in-the-dark-ultimate-edition.json](./52872-stealth-inc-a-clone-in-the-dark-ultimate-edition.json) |
 | Stealth Inc. 2: A Game of Clones Deluxe | 51893 | [51893-stealth-inc-2-a-game-of-clones-deluxe.json](./51893-stealth-inc-2-a-game-of-clones-deluxe.json) |
@@ -11703,6 +11707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stones of Yalmrith | 102944 | [102944-stones-of-yalmrith.json](./102944-stones-of-yalmrith.json) |
 | StoneSpace | 376436 | [376436-stonespace.json](./376436-stonespace.json) |
 | StoneStory | 339662 | [339662-stonestory.json](./339662-stonestory.json) |
+| Stonetowers | 96868 | [96868-stonetowers.json](./96868-stonetowers.json) |
 | Stoneveil | 376439 | [376439-stoneveil.json](./376439-stoneveil.json) |
 | Stoneveil | 377591 | [377591-stoneveil.json](./377591-stoneveil.json) |
 | Stoneville Manor | 366262 | [366262-stoneville-manor.json](./366262-stoneville-manor.json) |
