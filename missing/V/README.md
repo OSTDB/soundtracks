@@ -1355,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vogue | 183884 | [183884-vogue.json](./183884-vogue.json) |
 | Vohenn | 387538 | [387538-vohenn.json](./387538-vohenn.json) |
 | Voice | 191246 | [191246-voice.json](./191246-voice.json) |
+| Voice Actress II | 104801 | [104801-voice-actress-ii.json](./104801-voice-actress-ii.json) |
 | Voice in the Abyss | 283735 | [283735-voice-in-the-abyss.json](./283735-voice-in-the-abyss.json) |
 | Voice of Cards Trilogy | 242664 | [242664-voice-of-cards-trilogy.json](./242664-voice-of-cards-trilogy.json) |
 | Voice of Cards: The Beasts of Burden | 215058 | [215058-voice-of-cards-the-beasts-of-burden.json](./215058-voice-of-cards-the-beasts-of-burden.json) |
