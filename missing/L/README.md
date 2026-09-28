@@ -2147,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights, Camera, Party! | 52543 | [52543-lights-camera-party.json](./52543-lights-camera-party.json) |
 | Lightsaver | 388384 | [388384-lightsaver.json](./388384-lightsaver.json) |
 | Lightslayer | 127784 | [127784-lightslayer.json](./127784-lightslayer.json) |
+| LightSlinger Heroes | 100363 | [100363-lightslinger-heroes.json](./100363-lightslinger-heroes.json) |
 | Lightspeed | 77325 | [77325-lightspeed.json](./77325-lightspeed.json) |
 | Lightspeed Bit Bit | 259069 | [259069-lightspeed-bit-bit.json](./259069-lightspeed-bit-bit.json) |
 | Lightspeed Dating: Deluxe | 227873 | [227873-lightspeed-dating-deluxe.json](./227873-lightspeed-dating-deluxe.json) |
@@ -3533,6 +3534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in the Backrooms: Day 100 | 375805 | [375805-lost-in-the-backrooms-day-100.json](./375805-lost-in-the-backrooms-day-100.json) |
 | Lost in the Dungeon | 77774 | [77774-lost-in-the-dungeon.json](./77774-lost-in-the-dungeon.json) |
 | Lost in the Mine | 306377 | [306377-lost-in-the-mine.json](./306377-lost-in-the-mine.json) |
+| Lost in the Mythic Island | 100306 | [100306-lost-in-the-mythic-island.json](./100306-lost-in-the-mythic-island.json) |
 | Lost in the Open | 208609 | [208609-lost-in-the-open.json](./208609-lost-in-the-open.json) |
 | Lost in the Past: A Heart's Remembrance Labyrinth | 287210 | [287210-lost-in-the-past-a-hearts-remembrance-labyrinth.json](./287210-lost-in-the-past-a-hearts-remembrance-labyrinth.json) |
 | Lost in the Sand | 215641 | [215641-lost-in-the-sand.json](./215641-lost-in-the-sand.json) |
