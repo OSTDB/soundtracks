@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tainted Gun | 208597 | [208597-tainted-gun.json](./208597-tainted-gun.json) |
 | Tainted Pools | 347362 | [347362-tainted-pools.json](./347362-tainted-pools.json) |
 | Taipan! | 131518 | [131518-taipan.json](./131518-taipan.json) |
+| Taipei | 72147 | [72147-taipei.json](./72147-taipei.json) |
 | Taipei Metro Quest | 178664 | [178664-taipei-metro-quest.json](./178664-taipei-metro-quest.json) |
 | Taipei Midsummer Night's Dream | 339104 | [339104-taipei-midsummer-nights-dream.json](./339104-taipei-midsummer-nights-dream.json) |
 | Taiping Heavenly Kingdom | 409640 | [409640-taiping-heavenly-kingdom.json](./409640-taiping-heavenly-kingdom.json) |
@@ -2435,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventurer | 159365 | [159365-the-adventurer.json](./159365-the-adventurer.json) |
 | The Adventurer: Episode 1 - Beginning of the End | 52766 | [52766-the-adventurer-episode-1-beginning-of-the-end.json](./52766-the-adventurer-episode-1-beginning-of-the-end.json) |
 | The Adventurer's Domain Online | 190957 | [190957-the-adventurers-domain-online.json](./190957-the-adventurers-domain-online.json) |
+| The Adventurers | 72138 | [72138-the-adventurers.json](./72138-the-adventurers.json) |
 | The Adventures in Carnal Hell | 293201 | [293201-the-adventures-in-carnal-hell.json](./293201-the-adventures-in-carnal-hell.json) |
 | The Adventures of 00 Dilly | 124136 | [124136-the-adventures-of-00-dilly.json](./124136-the-adventures-of-00-dilly.json) |
 | The Adventures of a Legend - Beyond Survival | 27702 | [27702-the-adventures-of-a-legend-beyond-survival.json](./27702-the-adventures-of-a-legend-beyond-survival.json) |
@@ -2818,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beauty Cult's: Nectarmancer | 219547 | [219547-the-beauty-cults-nectarmancer.json](./219547-the-beauty-cults-nectarmancer.json) |
 | The Bed Was Cold | 179489 | [179489-the-bed-was-cold.json](./179489-the-bed-was-cold.json) |
 | The Bee Hive | 378786 | [378786-the-bee-hive.json](./378786-the-bee-hive.json) |
+| The Beer War! | 72169 | [72169-the-beer-war.json](./72169-the-beer-war.json) |
 | The Beginner Investor | 384087 | [384087-the-beginner-investor.json](./384087-the-beginner-investor.json) |
 | The Beginning of the End | 58853 | [58853-the-beginning-of-the-end.json](./58853-the-beginning-of-the-end.json) |
 | The Beginning of the End (part 1) | 262428 | [262428-the-beginning-of-the-end-part-1.json](./262428-the-beginning-of-the-end-part-1.json) |
@@ -2872,6 +2875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Wall | 221292 | [221292-the-big-wall.json](./221292-the-big-wall.json) |
 | The Big Wave | 135018 | [135018-the-big-wave.json](./135018-the-big-wave.json) |
 | The Big, Friendly Thud! | 260937 | [260937-the-big-friendly-thud.json](./260937-the-big-friendly-thud.json) |
+| The Biggest Creators of Empires | 72137 | [72137-the-biggest-creators-of-empires.json](./72137-the-biggest-creators-of-empires.json) |
 | The Biggest Loser | 48035 | [48035-the-biggest-loser.json](./48035-the-biggest-loser.json) |
 | The Bigs 2 | 4716 | [4716-the-bigs-2.json](./4716-the-bigs-2.json) |
 | The Bikini Bottom Massacre | 269582 | [269582-the-bikini-bottom-massacre.json](./269582-the-bikini-bottom-massacre.json) |
@@ -8212,6 +8216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The War Engine | 79886 | [79886-the-war-engine.json](./79886-the-war-engine.json) |
 | The war god : The artifact | 50516 | [50516-the-war-god-the-artifact.json](./50516-the-war-god-the-artifact.json) |
 | The War in Chiapas | 289950 | [289950-the-war-in-chiapas.json](./289950-the-war-in-chiapas.json) |
+| The War in Heaven | 72020 | [72020-the-war-in-heaven.json](./72020-the-war-in-heaven.json) |
 | The War of Eustrath | 64644 | [64644-the-war-of-eustrath.json](./64644-the-war-of-eustrath.json) |
 | The War of Genesis III Part.2 | 131404 | [131404-the-war-of-genesis-iii-part-2.json](./131404-the-war-of-genesis-iii-part-2.json) |
 | The War of Genesis IV: Spiral Genesis | 58763 | [58763-the-war-of-genesis-iv-spiral-genesis.json](./58763-the-war-of-genesis-iv-spiral-genesis.json) |
@@ -10062,6 +10067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TileDynasty FPS Arena | 90572 | [90572-tiledynasty-fps-arena.json](./90572-tiledynasty-fps-arena.json) |
 | Tilefinder | 196857 | [196857-tilefinder.json](./196857-tilefinder.json) |
 | TileGuesser | 363060 | [363060-tileguesser.json](./363060-tileguesser.json) |
+| Tilelander | 72143 | [72143-tilelander.json](./72143-tilelander.json) |
 | Tiles and Towers TD | 216503 | [216503-tiles-and-towers-td.json](./216503-tiles-and-towers-td.json) |
 | Tiles Hop: Forever Dancing Ball | 108439 | [108439-tiles-hop-forever-dancing-ball.json](./108439-tiles-hop-forever-dancing-ball.json) |
 | Tiles in Time | 336547 | [336547-tiles-in-time.json](./336547-tiles-in-time.json) |
@@ -10842,6 +10848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Restaurant | 140385 | [140385-tokimeki-restaurant.json](./140385-tokimeki-restaurant.json) |
 | Tokimeki Taisen | 191861 | [191861-tokimeki-taisen.json](./191861-tokimeki-taisen.json) |
 | Tokimeter | 322951 | [322951-tokimeter.json](./322951-tokimeter.json) |
+| Tokio | 72164 | [72164-tokio.json](./72164-tokio.json) |
 | Tokkyuu Shirei Solbrain | 215134 | [215134-tokkyuu-shirei-solbrain.json](./215134-tokkyuu-shirei-solbrain.json) |
 | Toko Toko Trouble | 242632 | [242632-toko-toko-trouble.json](./242632-toko-toko-trouble.json) |
 | Tokoro no Ma-Mahjong 2: Tokoro's Cup | 125973 | [125973-tokoro-no-ma-mahjong-2-tokoros-cup.json](./125973-tokoro-no-ma-mahjong-2-tokoros-cup.json) |
@@ -11237,6 +11244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony La Russa Baseball '95 | 95378 | [95378-tony-la-russa-baseball-95.json](./95378-tony-la-russa-baseball-95.json) |
 | Tony La Russa Baseball 2 | 95465 | [95465-tony-la-russa-baseball-2.json](./95465-tony-la-russa-baseball-2.json) |
 | Tony La Russa's Ultimate Baseball | 95470 | [95470-tony-la-russas-ultimate-baseball.json](./95470-tony-la-russas-ultimate-baseball.json) |
+| Tony La Russa's Ultimate Baseball: Ultimate Expansion Disk - Great Teams 1901-1968 Disk | 72150 | [72150-tony-la-russas-ultimate-baseball-ultimate-expansion-disk-great-teams-1901-1968-disk.json](./72150-tony-la-russas-ultimate-baseball-ultimate-expansion-disk-great-teams-1901-1968-disk.json) |
 | Tony Meola's Sidekicks Soccer | 42540 | [42540-tony-meolas-sidekicks-soccer.json](./42540-tony-meolas-sidekicks-soccer.json) |
 | Tony Slopes | 107371 | [107371-tony-slopes.json](./107371-tony-slopes.json) |
 | Tony Stewart Racing | 362901 | [362901-tony-stewart-racing.json](./362901-tony-stewart-racing.json) |
