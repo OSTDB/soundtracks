@@ -2370,6 +2370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kraken City | 325652 | [325652-kraken-city.json](./325652-kraken-city.json) |
 | Kraken Cleaning | 401776 | [401776-kraken-cleaning.json](./401776-kraken-cleaning.json) |
 | Kraken Invasion: RPG Idle | 233504 | [233504-kraken-invasion-rpg-idle.json](./233504-kraken-invasion-rpg-idle.json) |
+| Kraken Land | 116434 | [116434-kraken-land.json](./116434-kraken-land.json) |
 | Kraken Odyssey | 256215 | [256215-kraken-odyssey.json](./256215-kraken-odyssey.json) |
 | Krakout | 37171 | [37171-krakout.json](./37171-krakout.json) |
 | Kraktures | 318981 | [318981-kraktures.json](./318981-kraktures.json) |
@@ -2506,6 +2507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Panda: Path of the Panda | 70689 | [70689-kung-fu-panda-path-of-the-panda.json](./70689-kung-fu-panda-path-of-the-panda.json) |
 | Kung Fu Rider | 16128 | [16128-kung-fu-rider.json](./16128-kung-fu-rider.json) |
 | Kung Fu Strike: The Warrior's Rise - Master Level | 9385 | [9385-kung-fu-strike-the-warriors-rise-master-level.json](./9385-kung-fu-strike-the-warriors-rise-master-level.json) |
+| Kung Fu Superstar | 116409 | [116409-kung-fu-superstar.json](./116409-kung-fu-superstar.json) |
 | Kung Fu: Shadow Fist | 56777 | [56777-kung-fu-shadow-fist.json](./56777-kung-fu-shadow-fist.json) |
 | Kung Fury: Street Rage - Ultimate Edition | 204716 | [204716-kung-fury-street-rage-ultimate-edition.json](./204716-kung-fury-street-rage-ultimate-edition.json) |
 | Kung Pao Banqi | 320527 | [320527-kung-pao-banqi.json](./320527-kung-pao-banqi.json) |
