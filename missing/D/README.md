@@ -1992,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death's Taste | 271817 | [271817-deaths-taste.json](./271817-deaths-taste.json) |
 | Death's Web | 288815 | [288815-deaths-web.json](./288815-deaths-web.json) |
 | Deathball | 182452 | [182452-deathball.json](./182452-deathball.json) |
+| Deathball | 60631 | [60631-deathball.json](./60631-deathball.json) |
 | Deathbed Lullabye | 201328 | [201328-deathbed-lullabye.json](./201328-deathbed-lullabye.json) |
 | Deathbloom: Chapter 2 | 127103 | [127103-deathbloom-chapter-2.json](./127103-deathbloom-chapter-2.json) |
 | Deathbound | 135796 | [135796-deathbound.json](./135796-deathbound.json) |
