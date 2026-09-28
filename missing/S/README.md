@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S Force | 184411 | [184411-s-force.json](./184411-s-force.json) |
 | S Mahjong 2 | 97722 | [97722-s-mahjong-2.json](./97722-s-mahjong-2.json) |
 | S-Copter | 76653 | [76653-s-copter.json](./76653-s-copter.json) |
+| S-Tetris | 70465 | [70465-s-tetris.json](./70465-s-tetris.json) |
 | S. Cargo | 275916 | [275916-s-cargo.json](./275916-s-cargo.json) |
 | S.A.B.A.H. (Sun As Biased As Harmony) | 264596 | [264596-s-a-b-a-h-sun-as-biased-as-harmony.json](./264596-s-a-b-a-h-sun-as-biased-as-harmony.json) |
 | S.A.I.A awaknening: a Robothorium visual novel | 111851 | [111851-s-a-i-a-awaknening-a-robothorium-visual-novel.json](./111851-s-a-i-a-awaknening-a-robothorium-visual-novel.json) |
@@ -148,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Earth: Promise | 109766 | [109766-sacred-earth-promise.json](./109766-sacred-earth-promise.json) |
 | Sacred Earth: Reverie | 301360 | [301360-sacred-earth-reverie.json](./301360-sacred-earth-reverie.json) |
 | Sacred Fire | 26559 | [26559-sacred-fire.json](./26559-sacred-fire.json) |
+| Sacred Gear | 70441 | [70441-sacred-gear.json](./70441-sacred-gear.json) |
 | Sacred Gems | 236298 | [236298-sacred-gems.json](./236298-sacred-gems.json) |
 | Sacred Line | 60524 | [60524-sacred-line.json](./60524-sacred-line.json) |
 | Sacred Line Genesis | 60523 | [60523-sacred-line-genesis.json](./60523-sacred-line-genesis.json) |
@@ -3243,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai: Dynasty | 343910 | [343910-shanghai-dynasty.json](./343910-shanghai-dynasty.json) |
 | Shanghai: Dynasty | 71448 | [71448-shanghai-dynasty.json](./71448-shanghai-dynasty.json) |
 | Shanghai: Great Moments | 73316 | [73316-shanghai-great-moments.json](./73316-shanghai-great-moments.json) |
+| Shanghai: Mah-Jongg Essentials | 70483 | [70483-shanghai-mah-jongg-essentials.json](./70483-shanghai-mah-jongg-essentials.json) |
 | Shanghai: True Valor | 45304 | [45304-shanghai-true-valor.json](./45304-shanghai-true-valor.json) |
 | Shanghai1920 | 169452 | [169452-shanghai1920.json](./169452-shanghai1920.json) |
 | Shanhe Remain | 375988 | [375988-shanhe-remain.json](./375988-shanhe-remain.json) |
@@ -4541,6 +4544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signs of Darkness | 76531 | [76531-signs-of-darkness.json](./76531-signs-of-darkness.json) |
 | Signs of the Sojourner | 118603 | [118603-signs-of-the-sojourner.json](./118603-signs-of-the-sojourner.json) |
 | Signum Perfectum | 190213 | [190213-signum-perfectum.json](./190213-signum-perfectum.json) |
+| Signus: The Artifact Wars | 70464 | [70464-signus-the-artifact-wars.json](./70464-signus-the-artifact-wars.json) |
 | Signy & Mino: Against All Gods | 301340 | [301340-signy-and-mino-against-all-gods.json](./301340-signy-and-mino-against-all-gods.json) |
 | SiIvaGunner: King for a Day Tournament - Playable Credits Minigame!! | 326974 | [326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json](./326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json) |
 | Sikhl | 308266 | [308266-sikhl.json](./308266-sikhl.json) |
@@ -4830,6 +4834,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Vol. 12: The Quiz 20000 Mon | 77013 | [77013-simple-2000-series-vol-12-the-quiz-20000-mon.json](./77013-simple-2000-series-vol-12-the-quiz-20000-mon.json) |
 | Simple 2000 Series Vol. 120: Saigo no Nippon Hei - Utsukushiki Kokudo Dakkan Sakusen | 203340 | [203340-simple-2000-series-vol-120-saigo-no-nippon-hei-utsukushiki-kokudo-dakkan-sakusen.json](./203340-simple-2000-series-vol-120-saigo-no-nippon-hei-utsukushiki-kokudo-dakkan-sakusen.json) |
 | Simple 2000 Series Vol. 14: The Billiard | 335904 | [335904-simple-2000-series-vol-14-the-billiard.json](./335904-simple-2000-series-vol-14-the-billiard.json) |
+| Simple 2000 Series Vol. 17: The Suiri - Aratanaru 20 no Jikenbo | 70434 | [70434-simple-2000-series-vol-17-the-suiri-aratanaru-20-no-jikenbo.json](./70434-simple-2000-series-vol-17-the-suiri-aratanaru-20-no-jikenbo.json) |
+| Simple 2000 Series Vol. 18: The Party Sugoroku | 70433 | [70433-simple-2000-series-vol-18-the-party-sugoroku.json](./70433-simple-2000-series-vol-18-the-party-sugoroku.json) |
 | Simple 2000 Series Vol. 19: The Renai Simulation - Watashi ni Oma Cafe | 70431 | [70431-simple-2000-series-vol-19-the-renai-simulation-watashi-ni-oma-cafe.json](./70431-simple-2000-series-vol-19-the-renai-simulation-watashi-ni-oma-cafe.json) |
 | Simple 2000 Series Vol. 2: The Party Game | 124080 | [124080-simple-2000-series-vol-2-the-party-game.json](./124080-simple-2000-series-vol-2-the-party-game.json) |
 | Simple 2000 Series Vol. 20: The Dungeon RPG | 335906 | [335906-simple-2000-series-vol-20-the-dungeon-rpg.json](./335906-simple-2000-series-vol-20-the-dungeon-rpg.json) |
@@ -6829,6 +6835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowman Mo | 333154 | [333154-snowman-mo.json](./333154-snowman-mo.json) |
 | Snowman Saves Christmas | 169853 | [169853-snowman-saves-christmas.json](./169853-snowman-saves-christmas.json) |
 | Snowman's Land | 308234 | [308234-snowmans-land.json](./308234-snowmans-land.json) |
+| Snowmobile Championship 2000 | 70325 | [70325-snowmobile-championship-2000.json](./70325-snowmobile-championship-2000.json) |
 | Snowmobile Racing | 208902 | [208902-snowmobile-racing.json](./208902-snowmobile-racing.json) |
 | SnowRacer: Ramps | 246963 | [246963-snowracer-ramps.json](./246963-snowracer-ramps.json) |
 | SnowRocket | 189943 | [189943-snowrocket.json](./189943-snowrocket.json) |
@@ -14195,6 +14202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Movie Tycoon | 346616 | [346616-super-movie-tycoon.json](./346616-super-movie-tycoon.json) |
 | Super Mr. Kake | 55480 | [55480-super-mr-kake.json](./55480-super-mr-kake.json) |
 | Super Mumtaz Bros. | 183613 | [183613-super-mumtaz-bros.json](./183613-super-mumtaz-bros.json) |
+| Super Munchers: The Challenge Continues... | 70478 | [70478-super-munchers-the-challenge-continues.json](./70478-super-munchers-the-challenge-continues.json) |
 | Super Mustache | 24616 | [24616-super-mustache.json](./24616-super-mustache.json) |
 | Super Nanaru | 183864 | [183864-super-nanaru.json](./183864-super-nanaru.json) |
 | Super Nantucket World | 312875 | [312875-super-nantucket-world.json](./312875-super-nantucket-world.json) |
