@@ -2128,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global ATC Simulator | 16945 | [16945-global-atc-simulator.json](./16945-global-atc-simulator.json) |
 | Global Aviation Dream | 126530 | [126530-global-aviation-dream.json](./126530-global-aviation-dream.json) |
 | Global Champion | 92636 | [92636-global-champion.json](./92636-global-champion.json) |
+| Global Conquest | 69946 | [69946-global-conquest.json](./69946-global-conquest.json) |
 | Global Domination | 15480 | [15480-global-domination.json](./15480-global-domination.json) |
 | Global Elite | 298684 | [298684-global-elite.json](./298684-global-elite.json) |
 | Global Farmer | 301913 | [301913-global-farmer.json](./301913-global-farmer.json) |
@@ -3611,6 +3612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graviton Flux | 371957 | [371957-graviton-flux.json](./371957-graviton-flux.json) |
 | Gravitrex Plus | 63811 | [63811-gravitrex-plus.json](./63811-gravitrex-plus.json) |
 | Gravitrix | 365770 | [365770-gravitrix.json](./365770-gravitrix.json) |
+| Gravitron | 69925 | [69925-gravitron.json](./69925-gravitron.json) |
 | Gravitron360 | 92060 | [92060-gravitron360.json](./92060-gravitron360.json) |
 | Gravitronix | 21035 | [21035-gravitronix.json](./21035-gravitronix.json) |
 | Gravity | 109175 | [109175-gravity.json](./109175-gravity.json) |
@@ -4105,6 +4107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grok | 322763 | [322763-grok.json](./322763-grok.json) |
 | Grokit | 271204 | [271204-grokit.json](./271204-grokit.json) |
 | Grom: Terror in Tibet | 73767 | [73767-grom-terror-in-tibet.json](./73767-grom-terror-in-tibet.json) |
+| Gromada | 69934 | [69934-gromada.json](./69934-gromada.json) |
 | Grommet Chod | 410325 | [410325-grommet-chod.json](./410325-grommet-chod.json) |
 | Grompula | 107674 | [107674-grompula.json](./107674-grompula.json) |
 | Gronions | 135762 | [135762-gronions.json](./135762-gronions.json) |
