@@ -4102,6 +4102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platform Anomaly | 373068 | [373068-platform-anomaly.json](./373068-platform-anomaly.json) |
 | Platform Parkour | 83214 | [83214-platform-parkour.json](./83214-platform-parkour.json) |
 | Platform Racing | 270638 | [270638-platform-racing.json](./270638-platform-racing.json) |
+| Platform Racing 2 | 98010 | [98010-platform-racing-2.json](./98010-platform-racing-2.json) |
 | Platform Roll | 207535 | [207535-platform-roll.json](./207535-platform-roll.json) |
 | Platform Run | 324296 | [324296-platform-run.json](./324296-platform-run.json) |
 | Platform Tower | 249230 | [249230-platform-tower.json](./249230-platform-tower.json) |
@@ -4969,6 +4970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police 911 | 77016 | [77016-police-911.json](./77016-police-911.json) |
 | Police Air Transporter | 104226 | [104226-police-air-transporter.json](./104226-police-air-transporter.json) |
 | Police Atv Offroad | 309872 | [309872-police-atv-offroad.json](./309872-police-atv-offroad.json) |
+| Police Blazel | 98018 | [98018-police-blazel.json](./98018-police-blazel.json) |
 | Police Car Drift Simulator | 223986 | [223986-police-car-drift-simulator.json](./223986-police-car-drift-simulator.json) |
 | Police Car Driver: City Parking Simulator | 283237 | [283237-police-car-driver-city-parking-simulator.json](./283237-police-car-driver-city-parking-simulator.json) |
 | Police Car SUV Simulator | 256563 | [256563-police-car-suv-simulator.json](./256563-police-car-suv-simulator.json) |
