@@ -1888,6 +1888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight in the Maze | 276235 | [276235-knight-in-the-maze.json](./276235-knight-in-the-maze.json) |
 | Knight in Time | 356114 | [356114-knight-in-time.json](./356114-knight-in-time.json) |
 | Knight Island | 295898 | [295898-knight-island.json](./295898-knight-island.json) |
+| Knight King Assassin | 104843 | [104843-knight-king-assassin.json](./104843-knight-king-assassin.json) |
 | Knight Leon | 84206 | [84206-knight-leon.json](./84206-knight-leon.json) |
 | Knight Light | 335278 | [335278-knight-light.json](./335278-knight-light.json) |
 | Knight Lobster | 346239 | [346239-knight-lobster.json](./346239-knight-lobster.json) |
