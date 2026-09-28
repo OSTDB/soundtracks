@@ -2552,6 +2552,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charm | 232657 | [232657-charm.json](./232657-charm.json) |
 | Charm & Clue 2 | 417505 | [417505-charm-and-clue-2.json](./417505-charm-and-clue-2.json) |
 | Charm & Clue: Collector's Edition | 417506 | [417506-charm-and-clue-collectors-edition.json](./417506-charm-and-clue-collectors-edition.json) |
+| Charm Girls Club: My Fashion Mall | 68084 | [68084-charm-girls-club-my-fashion-mall.json](./68084-charm-girls-club-my-fashion-mall.json) |
+| Charm Girls Club: My Fashion Show | 68085 | [68085-charm-girls-club-my-fashion-show.json](./68085-charm-girls-club-my-fashion-show.json) |
+| Charm Girls Club: My Perfect Prom | 68086 | [68086-charm-girls-club-my-perfect-prom.json](./68086-charm-girls-club-my-perfect-prom.json) |
 | Charm of War | 86013 | [86013-charm-of-war.json](./86013-charm-of-war.json) |
 | Charm Studies | 243409 | [243409-charm-studies.json](./243409-charm-studies.json) |
 | Charm Studies | 400215 | [400215-charm-studies.json](./400215-charm-studies.json) |
@@ -5721,6 +5724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connections | 315093 | [315093-connections.json](./315093-connections.json) |
 | Connectris | 79232 | [79232-connectris.json](./79232-connectris.json) |
 | Connie and the Essence of Chaos | 301325 | [301325-connie-and-the-essence-of-chaos.json](./301325-connie-and-the-essence-of-chaos.json) |
+| Connie Talbot: Over the Rainbow | 68099 | [68099-connie-talbot-over-the-rainbow.json](./68099-connie-talbot-over-the-rainbow.json) |
 | Conniption: Paranoia | 217392 | [217392-conniption-paranoia.json](./217392-conniption-paranoia.json) |
 | Connor | 218145 | [218145-connor.json](./218145-connor.json) |
 | ConOps21: Subversion Protocol | 403782 | [403782-conops21-subversion-protocol.json](./403782-conops21-subversion-protocol.json) |
@@ -6934,6 +6938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Twinsanity 3D | 210232 | [210232-crash-twinsanity-3d.json](./210232-crash-twinsanity-3d.json) |
 | Crash vs. Spyro Racing | 269687 | [269687-crash-vs-spyro-racing.json](./269687-crash-vs-spyro-racing.json) |
 | Crash Wheels | 31657 | [31657-crash-wheels.json](./31657-crash-wheels.json) |
+| Crash-Course Domo | 68061 | [68061-crash-course-domo.json](./68061-crash-course-domo.json) |
 | Crash-Land Fantasy | 309481 | [309481-crash-land-fantasy.json](./309481-crash-land-fantasy.json) |
 | Crash-San | 238482 | [238482-crash-san.json](./238482-crash-san.json) |
 | Crash: Mind Over Mutant | 1191 | [1191-crash-mind-over-mutant.json](./1191-crash-mind-over-mutant.json) |
