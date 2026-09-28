@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.U.M. Slay Uncool Monsters: Wizard | 168249 | [168249-s-u-m-slay-uncool-monsters-wizard.json](./168249-s-u-m-slay-uncool-monsters-wizard.json) |
 | S.X.E. Slider: Dungeons | 311617 | [311617-s-x-e-slider-dungeons.json](./311617-s-x-e-slider-dungeons.json) |
 | S0 | 129633 | [129633-s0.json](./129633-s0.json) |
+| S2: Silent Storm | 79956 | [79956-s2-silent-storm.json](./79956-s2-silent-storm.json) |
 | S4Game | 213463 | [213463-s4game.json](./213463-s4game.json) |
 | S4ge | 116461 | [116461-s4ge.json](./116461-s4ge.json) |
 | S4U: Citypunk 2011 and Love Punch | 303000 | [303000-s4u-citypunk-2011-and-love-punch.json](./303000-s4u-citypunk-2011-and-love-punch.json) |
@@ -837,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Runner | 111687 | [111687-santa-runner.json](./111687-santa-runner.json) |
 | Santa Scramble | 206664 | [206664-santa-scramble.json](./206664-santa-scramble.json) |
 | Santa Showdown | 141898 | [141898-santa-showdown.json](./141898-santa-showdown.json) |
+| Santa Simon | 79953 | [79953-santa-simon.json](./79953-santa-simon.json) |
 | Santa Simulator | 112993 | [112993-santa-simulator.json](./112993-santa-simulator.json) |
 | Santa Throw | 186907 | [186907-santa-throw.json](./186907-santa-throw.json) |
 | Santa With Gun | 382878 | [382878-santa-with-gun.json](./382878-santa-with-gun.json) |
@@ -5798,6 +5800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slenderman Must Die: Survivors | 321122 | [321122-slenderman-must-die-survivors.json](./321122-slenderman-must-die-survivors.json) |
 | Slenderman Saw Game | 385596 | [385596-slenderman-saw-game.json](./385596-slenderman-saw-game.json) |
 | Slenderman: Shadow of the Forest | 340551 | [340551-slenderman-shadow-of-the-forest.json](./340551-slenderman-shadow-of-the-forest.json) |
+| Slenderman: The Game | 79818 | [79818-slenderman-the-game.json](./79818-slenderman-the-game.json) |
 | Slenderman's Shadow 7th Street | 50163 | [50163-slendermans-shadow-7th-street.json](./50163-slendermans-shadow-7th-street.json) |
 | Slendr | 64361 | [64361-slendr.json](./64361-slendr.json) |
 | Slendrina | 233774 | [233774-slendrina.json](./233774-slendrina.json) |
@@ -14912,6 +14915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SurvivalZ Battlegrounds | 103009 | [103009-survivalz-battlegrounds.json](./103009-survivalz-battlegrounds.json) |
 | Survive | 193436 | [193436-survive.json](./193436-survive.json) |
 | Survive | 52256 | [52256-survive.json](./52256-survive.json) |
+| Survive | 79821 | [79821-survive.json](./79821-survive.json) |
 | Survive - Wilderness Survival | 58795 | [58795-survive-wilderness-survival.json](./58795-survive-wilderness-survival.json) |
 | Survive 10 Minutes Please | 201323 | [201323-survive-10-minutes-please.json](./201323-survive-10-minutes-please.json) |
 | Survive and Revenge | 236285 | [236285-survive-and-revenge.json](./236285-survive-and-revenge.json) |
