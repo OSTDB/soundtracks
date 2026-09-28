@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Nicklaus 4 | 94690 | [94690-jack-nicklaus-4.json](./94690-jack-nicklaus-4.json) |
 | Jack Nicklaus 5 | 761 | [761-jack-nicklaus-5.json](./761-jack-nicklaus-5.json) |
 | Jack Nicklaus 6: Golden Bear Challenge | 762 | [762-jack-nicklaus-6-golden-bear-challenge.json](./762-jack-nicklaus-6-golden-bear-challenge.json) |
+| Jack Nicklaus Online Golf Tour | 62272 | [62272-jack-nicklaus-online-golf-tour.json](./62272-jack-nicklaus-online-golf-tour.json) |
 | Jack Nicklaus' Greatest 18 Holes of Major Championship Golf | 18101 | [18101-jack-nicklaus-greatest-18-holes-of-major-championship-golf.json](./18101-jack-nicklaus-greatest-18-holes-of-major-championship-golf.json) |
 | Jack Nicklaus' Unlimited Golf & Course Design | 72175 | [72175-jack-nicklaus-unlimited-golf-and-course-design.json](./72175-jack-nicklaus-unlimited-golf-and-course-design.json) |
 | Jack of Clubs | 319394 | [319394-jack-of-clubs.json](./319394-jack-of-clubs.json) |
@@ -1278,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judies | 125363 | [125363-judies.json](./125363-judies.json) |
 | Jug | 67670 | [67670-jug.json](./67670-jug.json) |
 | Juggernaut | 341138 | [341138-juggernaut.json](./341138-juggernaut.json) |
+| Juggernaut Corps: First Assault | 62280 | [62280-juggernaut-corps-first-assault.json](./62280-juggernaut-corps-first-assault.json) |
 | Juggernauts | 114503 | [114503-juggernauts.json](./114503-juggernauts.json) |
 | Juggle | 246463 | [246463-juggle.json](./246463-juggle.json) |
 | Juggle Panic | 105546 | [105546-juggle-panic.json](./105546-juggle-panic.json) |
@@ -1314,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jukemeister | 181790 | [181790-jukemeister.json](./181790-jukemeister.json) |
 | Jules | 187368 | [187368-jules.json](./187368-jules.json) |
 | Julia: Back to the Sweet 60's | 378411 | [378411-julia-back-to-the-sweet-60s.json](./378411-julia-back-to-the-sweet-60s.json) |
+| July | 62243 | [62243-july.json](./62243-july.json) |
 | July 4th, 1976 | 348976 | [348976-july-4th-1976.json](./348976-july-4th-1976.json) |
 | July the Lost Child | 109699 | [109699-july-the-lost-child.json](./109699-july-the-lost-child.json) |
 | Jumala | 23829 | [23829-jumala.json](./23829-jumala.json) |
