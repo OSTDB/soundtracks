@@ -1706,6 +1706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 97 | 817 | [817-nhl-97.json](./817-nhl-97.json) |
 | NHL All-Star Hockey '95 | 19559 | [19559-nhl-all-star-hockey-95.json](./19559-nhl-all-star-hockey-95.json) |
 | NHL Eastside Hockey Manager | 74037 | [74037-nhl-eastside-hockey-manager.json](./74037-nhl-eastside-hockey-manager.json) |
+| NHL Eastside Hockey Manager 2007 | 70454 | [70454-nhl-eastside-hockey-manager-2007.json](./70454-nhl-eastside-hockey-manager-2007.json) |
 | NHL Face Off '97 | 43696 | [43696-nhl-face-off-97.json](./43696-nhl-face-off-97.json) |
 | NHL Hitz 2003 | 4047 | [4047-nhl-hitz-2003.json](./4047-nhl-hitz-2003.json) |
 | NHL Hockey | 210102 | [210102-nhl-hockey.json](./210102-nhl-hockey.json) |
