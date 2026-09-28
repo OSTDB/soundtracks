@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oakley's World | 337601 | [337601-oakleys-world.json](./337601-oakleys-world.json) |
 | Oakwood | 112433 | [112433-oakwood.json](./112433-oakwood.json) |
 | Oakwood Academy of Spells and Sorcery | 90196 | [90196-oakwood-academy-of-spells-and-sorcery.json](./90196-oakwood-academy-of-spells-and-sorcery.json) |
+| OAOA: Off and on Again | 115139 | [115139-oaoa-off-and-on-again.json](./115139-oaoa-off-and-on-again.json) |
 | Oar'some Adventures | 411805 | [411805-oarsome-adventures.json](./411805-oarsome-adventures.json) |
 | OASE: Other Age Second Encounter | 34478 | [34478-oase-other-age-second-encounter.json](./34478-oase-other-age-second-encounter.json) |
 | Oasis | 334662 | [334662-oasis.json](./334662-oasis.json) |
@@ -2299,6 +2300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaw Tales: Western Adventure Survival | 118199 | [118199-outlaw-tales-western-adventure-survival.json](./118199-outlaw-tales-western-adventure-survival.json) |
 | Outlaw's Gold | 319715 | [319715-outlaws-gold.json](./319715-outlaws-gold.json) |
 | Outlawed | 331339 | [331339-outlawed.json](./331339-outlawed.json) |
+| Outlaws | 115755 | [115755-outlaws.json](./115755-outlaws.json) |
 | Outlaws | 196 | [196-outlaws.json](./196-outlaws.json) |
 | Outlaws + A Handful of Missions | 112809 | [112809-outlaws-a-handful-of-missions.json](./112809-outlaws-a-handful-of-missions.json) |
 | Outlaws of the Old West | 115549 | [115549-outlaws-of-the-old-west.json](./115549-outlaws-of-the-old-west.json) |
