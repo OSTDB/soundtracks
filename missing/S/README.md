@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.X.E. Slider: Dungeons | 311617 | [311617-s-x-e-slider-dungeons.json](./311617-s-x-e-slider-dungeons.json) |
 | S0 | 129633 | [129633-s0.json](./129633-s0.json) |
 | S4Game | 213463 | [213463-s4game.json](./213463-s4game.json) |
+| S4ge | 116461 | [116461-s4ge.json](./116461-s4ge.json) |
 | S4U: Citypunk 2011 and Love Punch | 303000 | [303000-s4u-citypunk-2011-and-love-punch.json](./303000-s4u-citypunk-2011-and-love-punch.json) |
 | S7 Mexico | 218728 | [218728-s7-mexico.json](./218728-s7-mexico.json) |
 | Saaam | 108848 | [108848-saaam.json](./108848-saaam.json) |
@@ -234,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SaGa: Emerald Beyond | 266681 | [266681-saga-emerald-beyond.json](./266681-saga-emerald-beyond.json) |
 | SaGa: Scarlet Grace - Ambitions | 119373 | [119373-saga-scarlet-grace-ambitions.json](./119373-saga-scarlet-grace-ambitions.json) |
 | SaGa: Scarlet Grace - Hiiro no Yabou | 97908 | [97908-saga-scarlet-grace-hiiro-no-yabou.json](./97908-saga-scarlet-grace-hiiro-no-yabou.json) |
+| Sagakure | 116430 | [116430-sagakure.json](./116430-sagakure.json) |
 | SaGaS | 272938 | [272938-sagas.json](./272938-sagas.json) |
 | Sagashimono ha, Natsu desuka. | 263237 | [263237-sagashimono-ha-natsu-desuka.json](./263237-sagashimono-ha-natsu-desuka.json) |
 | SAGE 5: Event the Game | 321469 | [321469-sage-5-event-the-game.json](./321469-sage-5-event-the-game.json) |
@@ -3412,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shell of a King | 250961 | [250961-shell-of-a-king.json](./250961-shell-of-a-king.json) |
 | Shell Out | 328047 | [328047-shell-out.json](./328047-shell-out.json) |
 | Shell Out Showdown | 148437 | [148437-shell-out-showdown.json](./148437-shell-out-showdown.json) |
+| Shell Racers | 116463 | [116463-shell-racers.json](./116463-shell-racers.json) |
 | Shell Shatter | 243969 | [243969-shell-shatter.json](./243969-shell-shatter.json) |
 | Shell_Break | 112951 | [112951-shell-break.json](./112951-shell-break.json) |
 | Shell's Kitchen: Leo's Journey | 308377 | [308377-shells-kitchen-leos-journey.json](./308377-shells-kitchen-leos-journey.json) |
@@ -8945,6 +8948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Hero vs. Mega Ramp | 101985 | [101985-speed-hero-vs-mega-ramp.json](./101985-speed-hero-vs-mega-ramp.json) |
 | Speed High | 240355 | [240355-speed-high.json](./240355-speed-high.json) |
 | Speed Intense Island | 233514 | [233514-speed-intense-island.json](./233514-speed-intense-island.json) |
+| Speed Islands | 116449 | [116449-speed-islands.json](./116449-speed-islands.json) |
 | Speed Journey: Nitro | 221407 | [221407-speed-journey-nitro.json](./221407-speed-journey-nitro.json) |
 | Speed Legacy: Ultimate Drive | 378186 | [378186-speed-legacy-ultimate-drive.json](./378186-speed-legacy-ultimate-drive.json) |
 | Speed Legends | 234330 | [234330-speed-legends.json](./234330-speed-legends.json) |
@@ -9440,6 +9444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spitting Image | 13081 | [13081-spitting-image.json](./13081-spitting-image.json) |
 | Spitting Z | 156517 | [156517-spitting-z.json](./156517-spitting-z.json) |
 | Splash Adventure: The Maze of Morla | 83524 | [83524-splash-adventure-the-maze-of-morla.json](./83524-splash-adventure-the-maze-of-morla.json) |
+| Splash Basketball Online | 116443 | [116443-splash-basketball-online.json](./116443-splash-basketball-online.json) |
 | Splash Fly Fire | 220838 | [220838-splash-fly-fire.json](./220838-splash-fly-fire.json) |
 | Splash Girls | 167817 | [167817-splash-girls.json](./167817-splash-girls.json) |
 | Splash Jump | 159713 | [159713-splash-jump.json](./159713-splash-jump.json) |
@@ -9865,6 +9870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SquadBlast | 202686 | [202686-squadblast.json](./202686-squadblast.json) |
 | Squadika | 401693 | [401693-squadika.json](./401693-squadika.json) |
 | Squadron | 172523 | [172523-squadron.json](./172523-squadron.json) |
+| Squadron II | 116444 | [116444-squadron-ii.json](./116444-squadron-ii.json) |
 | Squally | 111118 | [111118-squally.json](./111118-squally.json) |
 | Squarcat | 124056 | [124056-squarcat.json](./124056-squarcat.json) |
 | Square | 195626 | [195626-square.json](./195626-square.json) |
@@ -14837,6 +14843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwapQuest | 23483 | [23483-swapquest.json](./23483-swapquest.json) |
 | Swaps and Traps | 72360 | [72360-swaps-and-traps.json](./72360-swaps-and-traps.json) |
 | SwapStar | 252394 | [252394-swapstar.json](./252394-swapstar.json) |
+| SwapTales: Leon! | 116439 | [116439-swaptales-leon.json](./116439-swaptales-leon.json) |
 | Swarm 2 | 280060 | [280060-swarm-2.json](./280060-swarm-2.json) |
 | Swarm Hunter | 345557 | [345557-swarm-hunter.json](./345557-swarm-hunter.json) |
 | Swarm Me | 374722 | [374722-swarm-me.json](./374722-swarm-me.json) |
@@ -15053,6 +15060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swingers | 283718 | [283718-swingers.json](./283718-swingers.json) |
 | SwingHard | 310010 | [310010-swinghard.json](./310010-swinghard.json) |
 | Swingin' Beats | 338204 | [338204-swingin-beats.json](./338204-swingin-beats.json) |
+| Swinging Over It with Alin Lucian | 116415 | [116415-swinging-over-it-with-alin-lucian.json](./116415-swinging-over-it-with-alin-lucian.json) |
 | Swingmania | 304039 | [304039-swingmania.json](./304039-swingmania.json) |
 | Swingularity | 333566 | [333566-swingularity.json](./333566-swingularity.json) |
 | swipe | 346219 | [346219-swipe.json](./346219-swipe.json) |
