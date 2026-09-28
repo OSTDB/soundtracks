@@ -698,6 +698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egypt Solitaire: Match 2 Cards | 127237 | [127237-egypt-solitaire-match-2-cards.json](./127237-egypt-solitaire-match-2-cards.json) |
 | Egypt: Old Kingdom - Master of History | 124796 | [124796-egypt-old-kingdom-master-of-history.json](./124796-egypt-old-kingdom-master-of-history.json) |
 | Egypt: Secret of Five Gods | 294206 | [294206-egypt-secret-of-five-gods.json](./294206-egypt-secret-of-five-gods.json) |
+| Egyptian Run | 93166 | [93166-egyptian-run.json](./93166-egyptian-run.json) |
 | Eidetus | 125898 | [125898-eidetus.json](./125898-eidetus.json) |
 | Eidolons: Nethergate | 116818 | [116818-eidolons-nethergate.json](./116818-eidolons-nethergate.json) |
 | Eien no Filena | 15899 | [15899-eien-no-filena.json](./15899-eien-no-filena.json) |
