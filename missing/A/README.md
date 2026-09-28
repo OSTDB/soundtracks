@@ -4739,6 +4739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Panic!: Heaven Pack | 169307 | [169307-aqua-panic-heaven-pack.json](./169307-aqua-panic-heaven-pack.json) |
 | Aqua Puzzle Adventures | 306527 | [306527-aqua-puzzle-adventures.json](./306527-aqua-puzzle-adventures.json) |
 | Aqua Racer | 293247 | [293247-aqua-racer.json](./293247-aqua-racer.json) |
+| Aqua Rush | 66736 | [66736-aqua-rush.json](./66736-aqua-rush.json) |
 | Aqua Slug | 175837 | [175837-aqua-slug.json](./175837-aqua-slug.json) |
 | Aqua Teen Hunger Force Zombie Ninja Pro-Am | 6911 | [6911-aqua-teen-hunger-force-zombie-ninja-pro-am.json](./6911-aqua-teen-hunger-force-zombie-ninja-pro-am.json) |
 | Aqua TV | 80908 | [80908-aqua-tv.json](./80908-aqua-tv.json) |
@@ -6524,6 +6525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Planes | 273355 | [273355-astro-planes.json](./273355-astro-planes.json) |
 | Astro Rabby | 7759 | [7759-astro-rabby.json](./7759-astro-rabby.json) |
 | Astro Race | 172593 | [172593-astro-race.json](./172593-astro-race.json) |
+| Astro Ranch | 66729 | [66729-astro-ranch.json](./66729-astro-ranch.json) |
 | Astro Spider: Between Threads and Stars | 364067 | [364067-astro-spider-between-threads-and-stars.json](./364067-astro-spider-between-threads-and-stars.json) |
 | Astro Tripper | 16265 | [16265-astro-tripper.json](./16265-astro-tripper.json) |
 | Astro Warrior | 37176 | [37176-astro-warrior.json](./37176-astro-warrior.json) |
