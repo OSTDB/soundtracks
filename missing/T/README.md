@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Terror: House on the Hill | 139428 | [139428-tales-of-terror-house-on-the-hill.json](./139428-tales-of-terror-house-on-the-hill.json) |
 | Tales of Terror: House on the Hill - Collector's Edition | 74351 | [74351-tales-of-terror-house-on-the-hill-collectors-edition.json](./74351-tales-of-terror-house-on-the-hill-collectors-edition.json) |
 | Tales of the Abyss | 20972 | [20972-tales-of-the-abyss.json](./20972-tales-of-the-abyss.json) |
+| Tales of the Aswang VR | 111877 | [111877-tales-of-the-aswang-vr.json](./111877-tales-of-the-aswang-vr.json) |
 | Tales of the Black Death | 178068 | [178068-tales-of-the-black-death.json](./178068-tales-of-the-black-death.json) |
 | Tales of the Black Forest | 119744 | [119744-tales-of-the-black-forest.json](./119744-tales-of-the-black-forest.json) |
 | Tales of the Cryptozoo | 361233 | [361233-tales-of-the-cryptozoo.json](./361233-tales-of-the-cryptozoo.json) |
@@ -3165,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Classic Lotus Trilogy | 39041 | [39041-the-classic-lotus-trilogy.json](./39041-the-classic-lotus-trilogy.json) |
 | The Classroom 2 | 361307 | [361307-the-classroom-2.json](./361307-the-classroom-2.json) |
 | The Classrooms | 212853 | [212853-the-classrooms.json](./212853-the-classrooms.json) |
+| The Clean Up Clyde Collection | 111874 | [111874-the-clean-up-clyde-collection.json](./111874-the-clean-up-clyde-collection.json) |
 | The Cleaner | 198503 | [198503-the-cleaner.json](./198503-the-cleaner.json) |
 | The Cleaner | 403681 | [403681-the-cleaner.json](./403681-the-cleaner.json) |
 | The Cleaning Game | 327333 | [327333-the-cleaning-game.json](./327333-the-cleaning-game.json) |
@@ -12048,6 +12050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic.io Car Games & Race | 240188 | [240188-traffic-io-car-games-and-race.json](./240188-traffic-io-car-games-and-race.json) |
 | Traffix | 118755 | [118755-traffix.json](./118755-traffix.json) |
 | Traffix 3D | 296071 | [296071-traffix-3d.json](./296071-traffix-3d.json) |
+| Trafic Road Rush | 111869 | [111869-trafic-road-rush.json](./111869-trafic-road-rush.json) |
 | Tragedy of Prince Rupert | 50891 | [50891-tragedy-of-prince-rupert.json](./50891-tragedy-of-prince-rupert.json) |
 | Tragedy Theater | 260164 | [260164-tragedy-theater.json](./260164-tragedy-theater.json) |
 | Trago | 104066 | [104066-trago.json](./104066-trago.json) |
@@ -13673,6 +13676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trulon: The Shadow Engine | 20344 | [20344-trulon-the-shadow-engine.json](./20344-trulon-the-shadow-engine.json) |
 | TruLove | 212186 | [212186-trulove.json](./212186-trulove.json) |
 | Trump and Virus | 393451 | [393451-trump-and-virus.json](./393451-trump-and-virus.json) |
+| Trump Anthology Episode 1: A Link to the Past | 111858 | [111858-trump-anthology-episode-1-a-link-to-the-past.json](./111858-trump-anthology-episode-1-a-link-to-the-past.json) |
 | Trump Boy II | 334278 | [334278-trump-boy-ii.json](./334278-trump-boy-ii.json) |
 | Trump Cards | 383616 | [383616-trump-cards.json](./383616-trump-cards.json) |
 | Trump Castle: The Ultimate Casino Gambling Simulation | 78666 | [78666-trump-castle-the-ultimate-casino-gambling-simulation.json](./78666-trump-castle-the-ultimate-casino-gambling-simulation.json) |
@@ -14014,6 +14018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn on the Lights Carefully | 238750 | [238750-turn-on-the-lights-carefully.json](./238750-turn-on-the-lights-carefully.json) |
 | Turn Run | 105124 | [105124-turn-run.json](./105124-turn-run.json) |
 | Turn Tack | 197919 | [197919-turn-tack.json](./197919-turn-tack.json) |
+| Turn the mirror, please. | 111849 | [111849-turn-the-mirror-please.json](./111849-turn-the-mirror-please.json) |
 | Turn-Based Champion | 99664 | [99664-turn-based-champion.json](./99664-turn-based-champion.json) |
 | Turn-Based Invaders From Space! | 184074 | [184074-turn-based-invaders-from-space.json](./184074-turn-based-invaders-from-space.json) |
 | Turn: The Lost Artifact | 85457 | [85457-turn-the-lost-artifact.json](./85457-turn-the-lost-artifact.json) |
