@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haluz 2 | 322787 | [322787-haluz-2.json](./322787-haluz-2.json) |
 | Halver | 168662 | [168662-halver.json](./168662-halver.json) |
 | Halves | 235720 | [235720-halves.json](./235720-halves.json) |
+| Halzae: Heroes of Divinity | 112500 | [112500-halzae-heroes-of-divinity.json](./112500-halzae-heroes-of-divinity.json) |
 | Ham's Kitchen | 323822 | [323822-hams-kitchen.json](./323822-hams-kitchen.json) |
 | Hamatora: Look at Smoking World | 60542 | [60542-hamatora-look-at-smoking-world.json](./60542-hamatora-look-at-smoking-world.json) |
 | Hamb: Rotari | 402916 | [402916-hamb-rotari.json](./402916-hamb-rotari.json) |
@@ -1556,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Rain: Director's Cut | 45279 | [45279-heavy-rain-directors-cut.json](./45279-heavy-rain-directors-cut.json) |
 | Heavy Rain: Move Edition | 144777 | [144777-heavy-rain-move-edition.json](./144777-heavy-rain-move-edition.json) |
 | Heavy Rain: Special Edition | 103386 | [103386-heavy-rain-special-edition.json](./103386-heavy-rain-special-edition.json) |
+| Heavy Recoil | 112502 | [112502-heavy-recoil.json](./112502-heavy-recoil.json) |
 | Heavy Recoil: Convoy Chaser | 183461 | [183461-heavy-recoil-convoy-chaser.json](./183461-heavy-recoil-convoy-chaser.json) |
 | Heavy Rockets | 237952 | [237952-heavy-rockets.json](./237952-heavy-rockets.json) |
 | Heavy Spoilers RPG: The True Identity of the Final Enemy is the Hero's Father | 347774 | [347774-heavy-spoilers-rpg-the-true-identity-of-the-final-enemy-is-the-heros-father.json](./347774-heavy-spoilers-rpg-the-true-identity-of-the-final-enemy-is-the-heros-father.json) |
