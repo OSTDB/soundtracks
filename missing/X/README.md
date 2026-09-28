@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xena: Warrior Princess - The Talisman of Fate | 3647 | [3647-xena-warrior-princess-the-talisman-of-fate.json](./3647-xena-warrior-princess-the-talisman-of-fate.json) |
 | Xenia | 53098 | [53098-xenia.json](./53098-xenia.json) |
 | Xenia is Online | 403680 | [403680-xenia-is-online.json](./403680-xenia-is-online.json) |
+| Xenia's Ark | 110535 | [110535-xenias-ark.json](./110535-xenias-ark.json) |
 | Xenic | 74059 | [74059-xenic.json](./74059-xenic.json) |
 | Xenimus | 66968 | [66968-xenimus.json](./66968-xenimus.json) |
 | Xenno the Rogue | 183075 | [183075-xenno-the-rogue.json](./183075-xenno-the-rogue.json) |
