@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1942: The Henan Famine | 124213 | [124213-1942-the-henan-famine.json](./124213-1942-the-henan-famine.json) |
 | 1943: The Battle of Midway | 6076 | [6076-1943-the-battle-of-midway.json](./6076-1943-the-battle-of-midway.json) |
 | 1944 Burning Bridges | 56464 | [56464-1944-burning-bridges.json](./56464-1944-burning-bridges.json) |
+| 1950s Lawn Mower Kids | 65553 | [65553-1950s-lawn-mower-kids.json](./65553-1950s-lawn-mower-kids.json) |
 | 1953: KGB Unleashed | 9771 | [9771-1953-kgb-unleashed.json](./9771-1953-kgb-unleashed.json) |
 | 1953: NATO vs Warsaw Pact | 17886 | [17886-1953-nato-vs-warsaw-pact.json](./17886-1953-nato-vs-warsaw-pact.json) |
 | 1968 | 141731 | [141731-1968.json](./141731-1968.json) |
@@ -677,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 21 Blitz | 125939 | [125939-21-blitz.json](./125939-21-blitz.json) |
 | 21 Gewinnt | 98932 | [98932-21-gewinnt.json](./98932-21-gewinnt.json) |
 | 21 Steps to Soul | 27115 | [27115-21-steps-to-soul.json](./27115-21-steps-to-soul.json) |
+| 21: Blackjack | 65554 | [65554-21-blackjack.json](./65554-21-blackjack.json) |
 | 21: Two One | 283250 | [283250-21-two-one.json](./283250-21-two-one.json) |
 | 2112TD: Tower Defense Survival | 135256 | [135256-2112td-tower-defense-survival.json](./135256-2112td-tower-defense-survival.json) |
 | 2152: Pizza Pocket | 394544 | [394544-2152-pizza-pocket.json](./394544-2152-pizza-pocket.json) |
@@ -880,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Joys | 205073 | [205073-3d-joys.json](./205073-3d-joys.json) |
 | 3D Kaleidoscope: Baby Universe | 143644 | [143644-3d-kaleidoscope-baby-universe.json](./143644-3d-kaleidoscope-baby-universe.json) |
 | 3D Magic Chess HD | 90089 | [90089-3d-magic-chess-hd.json](./90089-3d-magic-chess-hd.json) |
+| 3D Mahjong | 65552 | [65552-3d-mahjong.json](./65552-3d-mahjong.json) |
 | 3D Mahjong + Janpai Tori | 269319 | [269319-3d-mahjong-janpai-tori.json](./269319-3d-mahjong-janpai-tori.json) |
 | 3D Mahjong Deluxe | 338903 | [338903-3d-mahjong-deluxe.json](./338903-3d-mahjong-deluxe.json) |
 | 3D Mine Storm | 41982 | [41982-3d-mine-storm.json](./41982-3d-mine-storm.json) |
@@ -927,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Tanx | 93378 | [93378-3d-tanx.json](./93378-3d-tanx.json) |
 | 3D Thunder Ceptor II | 146255 | [146255-3d-thunder-ceptor-ii.json](./146255-3d-thunder-ceptor-ii.json) |
 | 3D Turbo OutRun | 202923 | [202923-3d-turbo-outrun.json](./202923-3d-turbo-outrun.json) |
+| 3D Twist & Match | 65551 | [65551-3d-twist-and-match.json](./65551-3d-twist-and-match.json) |
 | 3D Ultra Minigolf Adventures | 9899 | [9899-3d-ultra-minigolf-adventures.json](./9899-3d-ultra-minigolf-adventures.json) |
 | 3D Ultra Minigolf Adventures: Carnival | 73260 | [73260-3d-ultra-minigolf-adventures-carnival.json](./73260-3d-ultra-minigolf-adventures-carnival.json) |
 | 3D Water Bike | 255033 | [255033-3d-water-bike.json](./255033-3d-water-bike.json) |
