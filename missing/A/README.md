@@ -1882,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline Tycoon 2: Gold Edition | 52569 | [52569-airline-tycoon-2-gold-edition.json](./52569-airline-tycoon-2-gold-edition.json) |
 | Airline Tycoon 2: Honey Airlines | 9959 | [9959-airline-tycoon-2-honey-airlines.json](./9959-airline-tycoon-2-honey-airlines.json) |
 | Airline Tycoon Deluxe | 11086 | [11086-airline-tycoon-deluxe.json](./11086-airline-tycoon-deluxe.json) |
+| Airlines Manager | 116437 | [116437-airlines-manager.json](./116437-airlines-manager.json) |
 | Airlock Arena: Profit or Perish | 149453 | [149453-airlock-arena-profit-or-perish.json](./149453-airlock-arena-profit-or-perish.json) |
 | AirMech | 1365 | [1365-airmech.json](./1365-airmech.json) |
 | AironBall: The Floating Lands | 44225 | [44225-aironball-the-floating-lands.json](./44225-aironball-the-floating-lands.json) |
@@ -2704,6 +2705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-Star Baseball 2001 | 249134 | [249134-all-star-baseball-2001.json](./249134-all-star-baseball-2001.json) |
 | All-Star Baseball 2001 | 69229 | [69229-all-star-baseball-2001.json](./69229-all-star-baseball-2001.json) |
 | All-Star Baseball 2003 | 11557 | [11557-all-star-baseball-2003.json](./11557-all-star-baseball-2003.json) |
+| All-Star Fruit Racing VR | 116431 | [116431-all-star-fruit-racing-vr.json](./116431-all-star-fruit-racing-vr.json) |
 | All-Star Slammin' D-Ball | 43929 | [43929-all-star-slammin-d-ball.json](./43929-all-star-slammin-d-ball.json) |
 | All-Star Supermarket Simulator: Vinyl Vibes | 328573 | [328573-all-star-supermarket-simulator-vinyl-vibes.json](./328573-all-star-supermarket-simulator-vinyl-vibes.json) |
 | All‑Stars 4‑Game Collection | 396440 | [396440-all-stars-4-game-collection.json](./396440-all-stars-4-game-collection.json) |
