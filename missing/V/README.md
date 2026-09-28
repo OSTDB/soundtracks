@@ -1125,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Family: Happy Mom Care | 108613 | [108613-virtual-family-happy-mom-care.json](./108613-virtual-family-happy-mom-care.json) |
 | Virtual Fighting Championship | 103360 | [103360-virtual-fighting-championship.json](./103360-virtual-fighting-championship.json) |
 | Virtual Fishing | 50597 | [50597-virtual-fishing.json](./50597-virtual-fishing.json) |
+| Virtual Foosball | 99151 | [99151-virtual-foosball.json](./99151-virtual-foosball.json) |
 | Virtual girl save virtual boy | 282016 | [282016-virtual-girl-save-virtual-boy.json](./282016-virtual-girl-save-virtual-boy.json) |
 | Virtual Goaltender | 86861 | [86861-virtual-goaltender.json](./86861-virtual-goaltender.json) |
 | Virtual Golf | 13261 | [13261-virtual-golf.json](./13261-virtual-golf.json) |
