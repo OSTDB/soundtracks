@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Caterpillar | 33411 | [33411-bad-caterpillar.json](./33411-bad-caterpillar.json) |
 | Bad Cheese | 320146 | [320146-bad-cheese.json](./320146-bad-cheese.json) |
 | Bad Chicken | 212906 | [212906-bad-chicken.json](./212906-bad-chicken.json) |
+| Bad Day | 104824 | [104824-bad-day.json](./104824-bad-day.json) |
 | Bad Day Betsy | 109863 | [109863-bad-day-betsy.json](./109863-bad-day-betsy.json) |
 | Bad Delivery: Pizza Your Heart | 381617 | [381617-bad-delivery-pizza-your-heart.json](./381617-bad-delivery-pizza-your-heart.json) |
 | Bad Dinos | 23219 | [23219-bad-dinos.json](./23219-bad-dinos.json) |
@@ -6120,6 +6121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brassica: A Marry Tale | 134660 | [134660-brassica-a-marry-tale.json](./134660-brassica-a-marry-tale.json) |
 | Brat | 14343 | [14343-brat.json](./14343-brat.json) |
 | Bratavism | 254577 | [254577-bratavism.json](./254577-bratavism.json) |
+| Brath: Brain and Math | 104834 | [104834-brath-brain-and-math.json](./104834-brath-brain-and-math.json) |
 | Brathian | 104061 | [104061-brathian.json](./104061-brathian.json) |
 | Bratwurst | 77642 | [77642-bratwurst.json](./77642-bratwurst.json) |
 | Bratz | 225653 | [225653-bratz.json](./225653-bratz.json) |
@@ -7015,6 +7017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Out! | 206692 | [206692-bug-out.json](./206692-bug-out.json) |
 | Bug Quest | 287641 | [287641-bug-quest.json](./287641-bug-quest.json) |
 | Bug Riders | 277929 | [277929-bug-riders.json](./277929-bug-riders.json) |
+| Bug Splatt | 104807 | [104807-bug-splatt.json](./104807-bug-splatt.json) |
 | Bug Too! | 45524 | [45524-bug-too.json](./45524-bug-too.json) |
 | Bug Village | 94203 | [94203-bug-village.json](./94203-bug-village.json) |
 | Bug-o-Buster | 322985 | [322985-bug-o-buster.json](./322985-bug-o-buster.json) |
@@ -7388,6 +7391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buriki One | 28139 | [28139-buriki-one.json](./28139-buriki-one.json) |
 | Burlesque | 292650 | [292650-burlesque.json](./292650-burlesque.json) |
 | Burn | 311118 | [311118-burn.json](./311118-burn.json) |
+| Burn Ban | 104776 | [104776-burn-ban.json](./104776-burn-ban.json) |
 | Burn Depth | 203891 | [203891-burn-depth.json](./203891-burn-depth.json) |
 | Burn the Midnight Oil | 395846 | [395846-burn-the-midnight-oil.json](./395846-burn-the-midnight-oil.json) |
 | Burn the Rope HD | 107658 | [107658-burn-the-rope-hd.json](./107658-burn-the-rope-hd.json) |
