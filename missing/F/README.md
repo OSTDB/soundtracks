@@ -2917,6 +2917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fist Food | 285557 | [285557-fist-food.json](./285557-fist-food.json) |
 | Fist Hell | 318602 | [318602-fist-hell.json](./318602-fist-hell.json) |
 | Fist of Awesome | 17501 | [17501-fist-of-awesome.json](./17501-fist-of-awesome.json) |
+| Fist of Brave | 86231 | [86231-fist-of-brave.json](./86231-fist-of-brave.json) |
 | Fist of the North Star | 172517 | [172517-fist-of-the-north-star.json](./172517-fist-of-the-north-star.json) |
 | Fist of the North Star Legends Revive | 120171 | [120171-fist-of-the-north-star-legends-revive.json](./120171-fist-of-the-north-star-legends-revive.json) |
 | Fist of the North Star: Ken's Rage 2 | 5313 | [5313-fist-of-the-north-star-kens-rage-2.json](./5313-fist-of-the-north-star-kens-rage-2.json) |
@@ -4513,6 +4514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress | 13715 | [13715-fortress.json](./13715-fortress.json) |
 | Fortress | 313492 | [313492-fortress.json](./313492-fortress.json) |
 | Fortress | 319195 | [319195-fortress.json](./319195-fortress.json) |
+| Fortress | 86214 | [86214-fortress.json](./86214-fortress.json) |
 | Fortress 1024 | 261282 | [261282-fortress-1024.json](./261282-fortress-1024.json) |
 | Fortress 2 Blue | 340237 | [340237-fortress-2-blue.json](./340237-fortress-2-blue.json) |
 | Fortress Connected | 410476 | [410476-fortress-connected.json](./410476-fortress-connected.json) |
@@ -6025,6 +6027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Fighter | 304139 | [304139-future-fighter.json](./304139-future-fighter.json) |
 | Future Flappy | 89290 | [89290-future-flappy.json](./89290-future-flappy.json) |
 | Future Futures - Command Z | 116320 | [116320-future-futures-command-z.json](./116320-future-futures-command-z.json) |
+| Future Ghost | 86230 | [86230-future-ghost.json](./86230-future-ghost.json) |
 | Future GPX Cyber Formula: Road to the Evolution | 4150 | [4150-future-gpx-cyber-formula-road-to-the-evolution.json](./4150-future-gpx-cyber-formula-road-to-the-evolution.json) |
 | Future Knight | 13853 | [13853-future-knight.json](./13853-future-knight.json) |
 | Future Love Space Machine: Glimmer Deck | 368120 | [368120-future-love-space-machine-glimmer-deck.json](./368120-future-love-space-machine-glimmer-deck.json) |
