@@ -54,10 +54,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G:nom | 125389 | [125389-g-nom.json](./125389-g-nom.json) |
 | G.E.T. | 192812 | [192812-g-e-t.json](./192812-g-e-t.json) |
 | G.G Series Collection + | 66965 | [66965-g-g-series-collection.json](./66965-g-g-series-collection.json) |
+| G.G Series: Air Pinball Hockey | 60083 | [60083-g-g-series-air-pinball-hockey.json](./60083-g-g-series-air-pinball-hockey.json) |
 | G.G Series: D-Tank | 84546 | [84546-g-g-series-d-tank.json](./84546-g-g-series-d-tank.json) |
 | G.G Series: Great Whip Adventure | 84567 | [84567-g-g-series-great-whip-adventure.json](./84567-g-g-series-great-whip-adventure.json) |
 | G.G Series: Hero Puzzle | 84569 | [84569-g-g-series-hero-puzzle.json](./84569-g-g-series-hero-puzzle.json) |
 | G.G Series: Nyokki | 84568 | [84568-g-g-series-nyokki.json](./84568-g-g-series-nyokki.json) |
+| G.G Series: Run & Strike | 60080 | [60080-g-g-series-run-and-strike.json](./60080-g-g-series-run-and-strike.json) |
 | G.G Series: Score Attacker | 84566 | [84566-g-g-series-score-attacker.json](./84566-g-g-series-score-attacker.json) |
 | G.G Series: Shadow Army | 84565 | [84565-g-g-series-shadow-army.json](./84565-g-g-series-shadow-army.json) |
 | G.G Series: Tetsubou | 91391 | [91391-g-g-series-tetsubou.json](./91391-g-g-series-tetsubou.json) |
@@ -693,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamlet | 146109 | [146109-gamlet.json](./146109-gamlet.json) |
 | Gamma 19 | 213480 | [213480-gamma-19.json](./213480-gamma-19.json) |
 | Gamma Bros | 33675 | [33675-gamma-bros.json](./33675-gamma-bros.json) |
+| Gamma Force in Pit of a Thousand Screams | 59854 | [59854-gamma-force-in-pit-of-a-thousand-screams.json](./59854-gamma-force-in-pit-of-a-thousand-screams.json) |
 | Gamma Goblins | 59664 | [59664-gamma-goblins.json](./59664-gamma-goblins.json) |
 | Gamma Nocturne 1 | 211698 | [211698-gamma-nocturne-1.json](./211698-gamma-nocturne-1.json) |
 | Gamma Protocol | 285592 | [285592-gamma-protocol.json](./285592-gamma-protocol.json) |
@@ -2904,6 +2907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golfing In Aether: Dustbowl | 275124 | [275124-golfing-in-aether-dustbowl.json](./275124-golfing-in-aether-dustbowl.json) |
 | Golfing Over It with Alva Majo | 93727 | [93727-golfing-over-it-with-alva-majo.json](./93727-golfing-over-it-with-alva-majo.json) |
 | Golfinite | 219801 | [219801-golfinite.json](./219801-golfinite.json) |
+| Golfinity | 60075 | [60075-golfinity.json](./60075-golfinity.json) |
 | Golftacular! | 351646 | [351646-golftacular.json](./351646-golftacular.json) |
 | Golftroidvania | 360012 | [360012-golftroidvania.json](./360012-golftroidvania.json) |
 | Golful | 257991 | [257991-golful.json](./257991-golful.json) |
@@ -3276,6 +3280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grampage: Life at 67 | 415315 | [415315-grampage-life-at-67.json](./415315-grampage-life-at-67.json) |
 | Gran Carismo | 277008 | [277008-gran-carismo.json](./277008-gran-carismo.json) |
 | Gran Empire | 149443 | [149443-gran-empire.json](./149443-gran-empire.json) |
+| Gran Text Auto | 60046 | [60046-gran-text-auto.json](./60046-gran-text-auto.json) |
 | Gran Tower: Wild Knights with Crazy Witches | 116460 | [116460-gran-tower-wild-knights-with-crazy-witches.json](./116460-gran-tower-wild-knights-with-crazy-witches.json) |
 | Gran Trak 10 | 7429 | [7429-gran-trak-10.json](./7429-gran-trak-10.json) |
 | Gran Trak 20 | 174658 | [174658-gran-trak-20.json](./174658-gran-trak-20.json) |
@@ -4633,6 +4638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunBound | 26189 | [26189-gunbound.json](./26189-gunbound.json) |
 | GunBoxing | 392798 | [392798-gunboxing.json](./392798-gunboxing.json) |
 | Gunbrella: Deluxe Edition | 266822 | [266822-gunbrella-deluxe-edition.json](./266822-gunbrella-deluxe-edition.json) |
+| Gunbrick | 59838 | [59838-gunbrick.json](./59838-gunbrick.json) |
 | Guncaster | 142417 | [142417-guncaster.json](./142417-guncaster.json) |
 | Guncho | 275604 | [275604-guncho.json](./275604-guncho.json) |
 | Guncom 2 | 43532 | [43532-guncom-2.json](./43532-guncom-2.json) |
