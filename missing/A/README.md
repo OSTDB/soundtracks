@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Moon for the Sky | 9974 | [9974-a-moon-for-the-sky.json](./9974-a-moon-for-the-sky.json) |
 | A Moth Argent | 135835 | [135835-a-moth-argent.json](./135835-a-moth-argent.json) |
 | A Murder of Crows | 261846 | [261846-a-murder-of-crows.json](./261846-a-murder-of-crows.json) |
+| a Museum of Dubious Splendors | 90075 | [90075-a-museum-of-dubious-splendors.json](./90075-a-museum-of-dubious-splendors.json) |
 | A Museum of Self & Space | 148950 | [148950-a-museum-of-self-and-space.json](./148950-a-museum-of-self-and-space.json) |
 | A Musical Story: Digital Deluxe Edition | 193735 | [193735-a-musical-story-digital-deluxe-edition.json](./193735-a-musical-story-digital-deluxe-edition.json) |
 | A Mystic Journey With: Aria | 392957 | [392957-a-mystic-journey-with-aria.json](./392957-a-mystic-journey-with-aria.json) |
@@ -3649,6 +3650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Night | 314651 | [314651-angel-night.json](./314651-angel-night.json) |
 | Angel of Death | 269285 | [269285-angel-of-death.json](./269285-angel-of-death.json) |
 | Angel Poring | 74326 | [74326-angel-poring.json](./74326-angel-poring.json) |
+| Angel Precario | 90132 | [90132-angel-precario.json](./90132-angel-precario.json) |
 | Angel Present | 267405 | [267405-angel-present.json](./267405-angel-present.json) |
 | Angel Sex Pet | 158038 | [158038-angel-sex-pet.json](./158038-angel-sex-pet.json) |
 | Angel Spirit | 293088 | [293088-angel-spirit.json](./293088-angel-spirit.json) |
@@ -4508,6 +4510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AploVVare Collection | 263219 | [263219-aplovvare-collection.json](./263219-aplovvare-collection.json) |
 | Apoc Runner | 161409 | [161409-apoc-runner.json](./161409-apoc-runner.json) |
 | Apocalipsis | 28319 | [28319-apocalipsis.json](./28319-apocalipsis.json) |
+| Apocalipsis: The Tree of the Knowledge of Good and Evil | 90073 | [90073-apocalipsis-the-tree-of-the-knowledge-of-good-and-evil.json](./90073-apocalipsis-the-tree-of-the-knowledge-of-good-and-evil.json) |
 | Apocalypse | 14260 | [14260-apocalypse.json](./14260-apocalypse.json) |
 | Apocalypse | 15547 | [15547-apocalypse.json](./15547-apocalypse.json) |
 | Apocalypse | 15598 | [15598-apocalypse.json](./15598-apocalypse.json) |
@@ -5647,6 +5650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aron's Gift | 96100 | [96100-arons-gift.json](./96100-arons-gift.json) |
 | Around the Block | 390791 | [390791-around-the-block.json](./390791-around-the-block.json) |
 | Around the Fire | 157166 | [157166-around-the-fire.json](./157166-around-the-fire.json) |
+| Around the Moon | 90103 | [90103-around-the-moon.json](./90103-around-the-moon.json) |
 | Around the World 2 with the Johnson Family | 357421 | [357421-around-the-world-2-with-the-johnson-family.json](./357421-around-the-world-2-with-the-johnson-family.json) |
 | Around the World 3: Amazing Countries - Collector's Edition | 345673 | [345673-around-the-world-3-amazing-countries-collectors-edition.json](./345673-around-the-world-3-amazing-countries-collectors-edition.json) |
 | Around the World in 80 Days | 231324 | [231324-around-the-world-in-80-days.json](./231324-around-the-world-in-80-days.json) |
