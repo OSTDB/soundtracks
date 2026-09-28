@@ -1850,6 +1850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fields of Logic | 225720 | [225720-fields-of-logic.json](./225720-fields-of-logic.json) |
 | Fields of Mine | 372981 | [372981-fields-of-mine.json](./372981-fields-of-mine.json) |
 | Fields of War | 62435 | [62435-fields-of-war.json](./62435-fields-of-war.json) |
+| Fiend | 69932 | [69932-fiend.json](./69932-fiend.json) |
 | Fiend Exile | 350520 | [350520-fiend-exile.json](./350520-fiend-exile.json) |
 | Fiend Hunter | 42000 | [42000-fiend-hunter.json](./42000-fiend-hunter.json) |
 | Fiend Hunter | 55897 | [55897-fiend-hunter.json](./55897-fiend-hunter.json) |
