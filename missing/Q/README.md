@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Quest | 246097 | [246097-quiz-quest.json](./246097-quiz-quest.json) |
 | Quiz Realm | 198360 | [198360-quiz-realm.json](./198360-quiz-realm.json) |
 | Quiz Sekai ha Show by Shoubai!! | 64927 | [64927-quiz-sekai-ha-show-by-shoubai.json](./64927-quiz-sekai-ha-show-by-shoubai.json) |
+| Quiz Show | 79378 | [79378-quiz-show.json](./79378-quiz-show.json) |
 | Quiz Taxi | 124743 | [124743-quiz-taxi.json](./124743-quiz-taxi.json) |
 | Quiz Thiz Croatia: Bronze Edition | 249487 | [249487-quiz-thiz-croatia-bronze-edition.json](./249487-quiz-thiz-croatia-bronze-edition.json) |
 | Quiz Thiz France | 230518 | [230518-quiz-thiz-france.json](./230518-quiz-thiz-france.json) |
