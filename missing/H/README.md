@@ -2330,6 +2330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her3 : The Light of Paradise Regained | 393461 | [393461-her3-the-light-of-paradise-regained.json](./393461-her3-the-light-of-paradise-regained.json) |
 | Heracles - Battle of the Gods | 54098 | [54098-heracles-battle-of-the-gods.json](./54098-heracles-battle-of-the-gods.json) |
 | Heracles no Eikou II: Titan no Metsubou | 48619 | [48619-heracles-no-eikou-ii-titan-no-metsubou.json](./48619-heracles-no-eikou-ii-titan-no-metsubou.json) |
+| Herakles and The Princess of Troy | 119090 | [119090-herakles-and-the-princess-of-troy.json](./119090-herakles-and-the-princess-of-troy.json) |
 | Herald of Havoc | 211276 | [211276-herald-of-havoc.json](./211276-herald-of-havoc.json) |
 | Herald of the Mists | 310501 | [310501-herald-of-the-mists.json](./310501-herald-of-the-mists.json) |
 | Herald: The Interactive Period Drama - Complete Edition | 226443 | [226443-herald-the-interactive-period-drama-complete-edition.json](./226443-herald-the-interactive-period-drama-complete-edition.json) |
@@ -3513,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hive Rise | 66921 | [66921-hive-rise.json](./66921-hive-rise.json) |
 | Hive Slayer | 160235 | [160235-hive-slayer.json](./160235-hive-slayer.json) |
 | Hive Spy Remi: Mind Control Madness | 223458 | [223458-hive-spy-remi-mind-control-madness.json](./223458-hive-spy-remi-mind-control-madness.json) |
+| Hive Sweeper | 118912 | [118912-hive-sweeper.json](./118912-hive-sweeper.json) |
 | Hive Time | 124254 | [124254-hive-time.json](./124254-hive-time.json) |
 | Hivefront TD | 379857 | [379857-hivefront-td.json](./379857-hivefront-td.json) |
 | Hiversaires | 230239 | [230239-hiversaires.json](./230239-hiversaires.json) |
