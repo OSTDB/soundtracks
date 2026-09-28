@@ -3874,6 +3874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy SIsters 3D | 369661 | [369661-holy-sisters-3d.json](./369661-holy-sisters-3d.json) |
 | Holy Stick! | 157037 | [157037-holy-stick.json](./157037-holy-stick.json) |
 | Holy Stone Mage | 310019 | [310019-holy-stone-mage.json](./310019-holy-stone-mage.json) |
+| Holy Sword Rave Ranciel Story | 95585 | [95585-holy-sword-rave-ranciel-story.json](./95585-holy-sword-rave-ranciel-story.json) |
 | Holy Umbrella: Dondera no Mubou!! | 38386 | [38386-holy-umbrella-dondera-no-mubou.json](./38386-holy-umbrella-dondera-no-mubou.json) |
 | Holy War | 273484 | [273484-holy-war.json](./273484-holy-war.json) |
 | Holy Warrior | 121574 | [121574-holy-warrior.json](./121574-holy-warrior.json) |
@@ -4770,6 +4771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hovercab Station | 262994 | [262994-hovercab-station.json](./262994-hovercab-station.json) |
 | Hovercars 3077: Underground racing | 192436 | [192436-hovercars-3077-underground-racing.json](./192436-hovercars-3077-underground-racing.json) |
 | HoverCraft | 249137 | [249137-hovercraft.json](./249137-hovercraft.json) |
+| Hovercraft Drive | 95598 | [95598-hovercraft-drive.json](./95598-hovercraft-drive.json) |
 | Hovercraft Race 3D | 26691 | [26691-hovercraft-race-3d.json](./26691-hovercraft-race-3d.json) |
 | Hovercraft Racing | 192836 | [192836-hovercraft-racing.json](./192836-hovercraft-racing.json) |
 | Hovercraft: Build Fly Retry | 105896 | [105896-hovercraft-build-fly-retry.json](./105896-hovercraft-build-fly-retry.json) |
