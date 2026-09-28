@@ -3443,6 +3443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flips! | 237383 | [237383-flips.json](./237383-flips.json) |
 | FlipScapes | 224249 | [224249-flipscapes.json](./224249-flipscapes.json) |
 | Flipshot | 253941 | [253941-flipshot.json](./253941-flipshot.json) |
+| FlipSide | 92079 | [92079-flipside.json](./92079-flipside.json) |
 | Flipster | 209455 | [209455-flipster.json](./209455-flipster.json) |
 | Flipstown | 192843 | [192843-flipstown.json](./192843-flipstown.json) |
 | FlipTiles: Warp Lines | 257914 | [257914-fliptiles-warp-lines.json](./257914-fliptiles-warp-lines.json) |
@@ -3646,6 +3647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy's Adventure | 380419 | [380419-fluffys-adventure.json](./380419-fluffys-adventure.json) |
 | Fluffy's Adventure | 381026 | [381026-fluffys-adventure.json](./381026-fluffys-adventure.json) |
 | Flugrettung: Die Simulation | 334884 | [334884-flugrettung-die-simulation.json](./334884-flugrettung-die-simulation.json) |
+| Fluid | 92065 | [92065-fluid.json](./92065-fluid.json) |
 | Fluid | 94223 | [94223-fluid.json](./94223-fluid.json) |
 | Fluid SE | 197645 | [197645-fluid-se.json](./197645-fluid-se.json) |
 | Fluid Simulation | 123498 | [123498-fluid-simulation.json](./123498-fluid-simulation.json) |
@@ -5350,6 +5352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Mission Evolved: Wanzer Weapons Pack 2 | 140457 | [140457-front-mission-evolved-wanzer-weapons-pack-2.json](./140457-front-mission-evolved-wanzer-weapons-pack-2.json) |
 | Front Mission: Gun Hazard | 1499 | [1499-front-mission-gun-hazard.json](./1499-front-mission-gun-hazard.json) |
 | Front Office Card Games: Up and Down the River | 67995 | [67995-front-office-card-games-up-and-down-the-river.json](./67995-front-office-card-games-up-and-down-the-river.json) |
+| Front Office Football | 92050 | [92050-front-office-football.json](./92050-front-office-football.json) |
 | Front Office Football 2 | 68051 | [68051-front-office-football-2.json](./68051-front-office-football-2.json) |
 | Front Office Football 2001 | 73842 | [73842-front-office-football-2001.json](./73842-front-office-football-2001.json) |
 | Front Office Football 2004 | 68048 | [68048-front-office-football-2004.json](./68048-front-office-football-2004.json) |
@@ -6068,6 +6071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FX Football | 9788 | [9788-fx-football.json](./9788-fx-football.json) |
 | FX Racer | 380682 | [380682-fx-racer.json](./380682-fx-racer.json) |
 | Fyd | 80898 | [80898-fyd.json](./80898-fyd.json) |
+| Fylgja | 92098 | [92098-fylgja.json](./92098-fylgja.json) |
 | Fyrardien | 384525 | [384525-fyrardien.json](./384525-fyrardien.json) |
 | Fyz and Now in Olympic Games of Tartarus | 181694 | [181694-fyz-and-now-in-olympic-games-of-tartarus.json](./181694-fyz-and-now-in-olympic-games-of-tartarus.json) |
 | FZDDR | 406700 | [406700-fzddr.json](./406700-fzddr.json) |
