@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magiduck | 252868 | [252868-magiduck.json](./252868-magiduck.json) |
 | Magiduel | 177019 | [177019-magiduel.json](./177019-magiduel.json) |
 | Magika Bounce | 408295 | [408295-magika-bounce.json](./408295-magika-bounce.json) |
+| Magika Land of Fantasy | 95621 | [95621-magika-land-of-fantasy.json](./95621-magika-land-of-fantasy.json) |
 | Magikoopa Security Force | 322101 | [322101-magikoopa-security-force.json](./322101-magikoopa-security-force.json) |
 | Magimon Adventures | 243095 | [243095-magimon-adventures.json](./243095-magimon-adventures.json) |
 | Magin: The Rat Project Stories | 127744 | [127744-magin-the-rat-project-stories.json](./127744-magin-the-rat-project-stories.json) |
@@ -1165,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malzbie's Pinball Collection: The Garden Table | 166016 | [166016-malzbies-pinball-collection-the-garden-table.json](./166016-malzbies-pinball-collection-the-garden-table.json) |
 | Mama Cabra | 341167 | [341167-mama-cabra.json](./341167-mama-cabra.json) |
 | Mama Die and Retry | 232953 | [232953-mama-die-and-retry.json](./232953-mama-die-and-retry.json) |
+| Mama Farm | 95612 | [95612-mama-farm.json](./95612-mama-farm.json) |
 | Mama Reido vol. 3 Tomomi Mama Hen: Usotsuki wa Mama no Hajimari | 108961 | [108961-mama-reido-vol-3-tomomi-mama-hen-usotsuki-wa-mama-no-hajimari.json](./108961-mama-reido-vol-3-tomomi-mama-hen-usotsuki-wa-mama-no-hajimari.json) |
 | Māmā, Bié Zǒu | 130930 | [130930-mama-bie-zou.json](./130930-mama-bie-zou.json) |
 | Mama's 2-Pack | 86075 | [86075-mamas-2-pack.json](./86075-mamas-2-pack.json) |
@@ -1376,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Map Map: A Game About Maps | 279120 | [279120-map-map-a-game-about-maps.json](./279120-map-map-a-game-about-maps.json) |
 | Map Snap | 112338 | [112338-map-snap.json](./112338-map-snap.json) |
 | MapaboX: Trivia & Quiz game | 232045 | [232045-mapabox-trivia-and-quiz-game.json](./232045-mapabox-trivia-and-quiz-game.json) |
+| Mapas do Horizonte - Um jogo para conhecer BH | 95588 | [95588-mapas-do-horizonte-um-jogo-para-conhecer-bh.json](./95588-mapas-do-horizonte-um-jogo-para-conhecer-bh.json) |
 | MapGame | 341893 | [341893-mapgame.json](./341893-mapgame.json) |
 | MapGod | 412513 | [412513-mapgod.json](./412513-mapgod.json) |
 | Maple & Rufus: The Water Robbery | 296490 | [296490-maple-and-rufus-the-water-robbery.json](./296490-maple-and-rufus-the-water-robbery.json) |
@@ -5121,6 +5124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine of Sight | 101763 | [101763-mine-of-sight.json](./101763-mine-of-sight.json) |
 | Mine Puzzle Pieces of Flower Garden World | 379027 | [379027-mine-puzzle-pieces-of-flower-garden-world.json](./379027-mine-puzzle-pieces-of-flower-garden-world.json) |
 | Mine Quest | 196868 | [196868-mine-quest.json](./196868-mine-quest.json) |
+| Mine Searcher | 95619 | [95619-mine-searcher.json](./95619-mine-searcher.json) |
 | Mine Seeker | 225731 | [225731-mine-seeker.json](./225731-mine-seeker.json) |
 | Mine Seeker | 89965 | [89965-mine-seeker.json](./89965-mine-seeker.json) |
 | Mine Shaft | 195512 | [195512-mine-shaft.json](./195512-mine-shaft.json) |
@@ -5441,6 +5445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minigolf | 307596 | [307596-minigolf.json](./307596-minigolf.json) |
 | MiniGolf | 101972 | [101972-minigolf.json](./101972-minigolf.json) |
 | Minigolf Adventure: Cherry Blossom Valley | 221698 | [221698-minigolf-adventure-cherry-blossom-valley.json](./221698-minigolf-adventure-cherry-blossom-valley.json) |
+| Minigolf Blast | 95583 | [95583-minigolf-blast.json](./95583-minigolf-blast.json) |
 | Minigolf Galaxy | 275597 | [275597-minigolf-galaxy.json](./275597-minigolf-galaxy.json) |
 | MiniGolf Island | 235156 | [235156-minigolf-island.json](./235156-minigolf-island.json) |
 | MiniGolf Mania | 33237 | [33237-minigolf-mania.json](./33237-minigolf-mania.json) |
@@ -8060,6 +8065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munchyman | 98234 | [98234-munchyman.json](./98234-munchyman.json) |
 | Mundial de Fútbol | 86008 | [86008-mundial-de-futbol.json](./86008-mundial-de-futbol.json) |
 | Mundo SBT | 249459 | [249459-mundo-sbt.json](./249459-mundo-sbt.json) |
+| Mundus: Impossible Universe | 95572 | [95572-mundus-impossible-universe.json](./95572-mundus-impossible-universe.json) |
 | Mung Daal Odyssey | 326589 | [326589-mung-daal-odyssey.json](./326589-mung-daal-odyssey.json) |
 | Munkiki's Castles | 111740 | [111740-munkikis-castles.json](./111740-munkikis-castles.json) |
 | Muppet Pinball Mayhem | 49322 | [49322-muppet-pinball-mayhem.json](./49322-muppet-pinball-mayhem.json) |
@@ -8537,6 +8543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My First Grade Fantasy Adventure | 266304 | [266304-my-first-grade-fantasy-adventure.json](./266304-my-first-grade-fantasy-adventure.json) |
 | My First Gran Turismo | 324502 | [324502-my-first-gran-turismo.json](./324502-my-first-gran-turismo.json) |
 | My First Horse: Adventures on Seahorse Island | 238478 | [238478-my-first-horse-adventures-on-seahorse-island.json](./238478-my-first-horse-adventures-on-seahorse-island.json) |
+| My First Tangrams for iPad | 95569 | [95569-my-first-tangrams-for-ipad.json](./95569-my-first-tangrams-for-ipad.json) |
 | My First Trainz Set | 11019 | [11019-my-first-trainz-set.json](./11019-my-first-trainz-set.json) |
 | My Fish Farm | 212492 | [212492-my-fish-farm.json](./212492-my-fish-farm.json) |
 | My Fishing Boat | 259635 | [259635-my-fishing-boat.json](./259635-my-fishing-boat.json) |
