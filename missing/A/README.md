@@ -2426,6 +2426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Colosseum | 211407 | [211407-alien-colosseum.json](./211407-alien-colosseum.json) |
 | Alien Cow Rampage: Orion Needs Your Milk! | 165509 | [165509-alien-cow-rampage-orion-needs-your-milk.json](./165509-alien-cow-rampage-orion-needs-your-milk.json) |
 | Alien Crab in the Ghostmaze | 180706 | [180706-alien-crab-in-the-ghostmaze.json](./180706-alien-crab-in-the-ghostmaze.json) |
+| Alien Crusader | 89385 | [89385-alien-crusader.json](./89385-alien-crusader.json) |
 | Alien Cube | 254779 | [254779-alien-cube.json](./254779-alien-cube.json) |
 | Alien Dead | 229715 | [229715-alien-dead.json](./229715-alien-dead.json) |
 | Alien Decimation | 211164 | [211164-alien-decimation.json](./211164-alien-decimation.json) |
@@ -3713,6 +3714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angler's Lake | 418708 | [418708-anglers-lake.json](./418708-anglers-lake.json) |
 | Angler's World | 217019 | [217019-anglers-world.json](./217019-anglers-world.json) |
 | Anglerfish | 190954 | [190954-anglerfish.json](./190954-anglerfish.json) |
+| Angles | 89390 | [89390-angles.json](./89390-angles.json) |
 | AnglingTimes | 402384 | [402384-anglingtimes.json](./402384-anglingtimes.json) |
 | Angrbotha Mountains | 239668 | [239668-angrbotha-mountains.json](./239668-angrbotha-mountains.json) |
 | Angriest Whopper Game | 237940 | [237940-angriest-whopper-game.json](./237940-angriest-whopper-game.json) |
