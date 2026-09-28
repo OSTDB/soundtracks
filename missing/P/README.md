@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachansky Mathematics 2+2=8 | 393454 | [393454-pachansky-mathematics-2-2-8.json](./393454-pachansky-mathematics-2-2-8.json) |
 | Pachi Pachi: On a Roll | 143696 | [143696-pachi-pachi-on-a-roll.json](./143696-pachi-pachi-on-a-roll.json) |
 | Pachi Para 15: Super Sea in Okinawa 2 | 65538 | [65538-pachi-para-15-super-sea-in-okinawa-2.json](./65538-pachi-para-15-super-sea-in-okinawa-2.json) |
+| Pachi Para 17: New Sea Story With Agnes Lum | 65558 | [65558-pachi-para-17-new-sea-story-with-agnes-lum.json](./65558-pachi-para-17-new-sea-story-with-agnes-lum.json) |
 | Pachi tto to Pachi-kake da se! Pachi-pachi tokimeki Hanabi Taikai! | 358496 | [358496-pachi-tto-to-pachi-kake-da-se-pachi-pachi-tokimeki-hanabi-taikai.json](./358496-pachi-tto-to-pachi-kake-da-se-pachi-pachi-tokimeki-hanabi-taikai.json) |
 | Pachi-Pachi Typing | 397100 | [397100-pachi-pachi-typing.json](./397100-pachi-pachi-typing.json) |
 | Pachi-Slot Aruze Oukoku | 56738 | [56738-pachi-slot-aruze-oukoku.json](./56738-pachi-slot-aruze-oukoku.json) |
@@ -739,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario: TTYD - Tower of Trials v3.0 | 358321 | [358321-paper-mario-ttyd-tower-of-trials-v3-0.json](./358321-paper-mario-ttyd-tower-of-trials-v3-0.json) |
 | Paper Nebula | 213445 | [213445-paper-nebula.json](./213445-paper-nebula.json) |
 | Paper Pilgrim | 140629 | [140629-paper-pilgrim.json](./140629-paper-pilgrim.json) |
+| Paper Pinball | 65588 | [65588-paper-pinball.json](./65588-paper-pinball.json) |
 | Paper Plane Arena: Shamans | 288222 | [288222-paper-plane-arena-shamans.json](./288222-paper-plane-arena-shamans.json) |
 | Paper Planes | 238636 | [238636-paper-planes.json](./238636-paper-planes.json) |
 | Paper Planes Plus | 261765 | [261765-paper-planes-plus.json](./261765-paper-planes-plus.json) |
@@ -5423,6 +5425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopCap Arcade Vol. 1 | 7132 | [7132-popcap-arcade-vol-1.json](./7132-popcap-arcade-vol-1.json) |
 | PopCap Arcade Vol. 2 | 7133 | [7133-popcap-arcade-vol-2.json](./7133-popcap-arcade-vol-2.json) |
 | Popcorn | 357459 | [357459-popcorn.json](./357459-popcorn.json) |
+| Popcorn Dragon | 65600 | [65600-popcorn-dragon.json](./65600-popcorn-dragon.json) |
 | Popcorn Fever | 308348 | [308348-popcorn-fever.json](./308348-popcorn-fever.json) |
 | Popcorn Popstars | 359519 | [359519-popcorn-popstars.json](./359519-popcorn-popstars.json) |
 | Popcorn! | 312727 | [312727-popcorn.json](./312727-popcorn.json) |
