@@ -5976,6 +5976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moon Has Faded Away | 341903 | [341903-the-moon-has-faded-away.json](./341903-the-moon-has-faded-away.json) |
 | The Moon Hell | 224652 | [224652-the-moon-hell.json](./224652-the-moon-hell.json) |
 | The Moon Night | 51962 | [51962-the-moon-night.json](./51962-the-moon-night.json) |
+| The Moon or Bust! | 112522 | [112522-the-moon-or-bust.json](./112522-the-moon-or-bust.json) |
 | The Moon Relax | 165021 | [165021-the-moon-relax.json](./165021-the-moon-relax.json) |
 | The Moon Sliver | 17965 | [17965-the-moon-sliver.json](./17965-the-moon-sliver.json) |
 | The Moonflower | 248007 | [248007-the-moonflower.json](./248007-the-moonflower.json) |
