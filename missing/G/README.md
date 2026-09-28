@@ -3293,6 +3293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Monster Slam | 12123 | [12123-grand-monster-slam.json](./12123-grand-monster-slam.json) |
 | Grand Mountain Adventure | 112144 | [112144-grand-mountain-adventure.json](./112144-grand-mountain-adventure.json) |
 | Grand Mountain Adventure 2 | 324130 | [324130-grand-mountain-adventure-2.json](./324130-grand-mountain-adventure-2.json) |
+| Grand National | 94329 | [94329-grand-national.json](./94329-grand-national.json) |
 | Grand Ore Deal | 260103 | [260103-grand-ore-deal.json](./260103-grand-ore-deal.json) |
 | Grand Piano Keys | 200552 | [200552-grand-piano-keys.json](./200552-grand-piano-keys.json) |
 | Grand Pigeon's Duty | 33346 | [33346-grand-pigeons-duty.json](./33346-grand-pigeons-duty.json) |
