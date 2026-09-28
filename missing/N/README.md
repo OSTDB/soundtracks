@@ -2896,6 +2896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noreya: The Gold Project | 211738 | [211738-noreya-the-gold-project.json](./211738-noreya-the-gold-project.json) |
 | Norfolk Warriors | 116127 | [116127-norfolk-warriors.json](./116127-norfolk-warriors.json) |
 | Nori Danshi!! | 295929 | [295929-nori-danshi.json](./295929-nori-danshi.json) |
+| Norilsk | 95602 | [95602-norilsk.json](./95602-norilsk.json) |
 | Norma | 330252 | [330252-norma.json](./330252-norma.json) |
 | Normal Adult Human Person | 216173 | [216173-normal-adult-human-person.json](./216173-normal-adult-human-person.json) |
 | Normal Days | 329092 | [329092-normal-days.json](./329092-normal-days.json) |
@@ -3096,6 +3097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Strike | 259027 | [259027-nova-strike.json](./259027-nova-strike.json) |
 | Nova Survivors | 372542 | [372542-nova-survivors.json](./372542-nova-survivors.json) |
 | Nova Urbana | 222859 | [222859-nova-urbana.json](./222859-nova-urbana.json) |
+| Nova Wing II | 95609 | [95609-nova-wing-ii.json](./95609-nova-wing-ii.json) |
 | Nova X9 | 258413 | [258413-nova-x9.json](./258413-nova-x9.json) |
 | Nova-111 | 12561 | [12561-nova-111.json](./12561-nova-111.json) |
 | Nova-Life | 104328 | [104328-nova-life.json](./104328-nova-life.json) |
