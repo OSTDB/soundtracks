@@ -541,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetpack Clankers | 406180 | [406180-jetpack-clankers.json](./406180-jetpack-clankers.json) |
 | Jetpack Dragon Hunting | 241052 | [241052-jetpack-dragon-hunting.json](./241052-jetpack-dragon-hunting.json) |
 | Jetpack Guy | 223397 | [223397-jetpack-guy.json](./223397-jetpack-guy.json) |
+| Jetpack Joyride Deluxe | 99802 | [99802-jetpack-joyride-deluxe.json](./99802-jetpack-joyride-deluxe.json) |
 | Jetpack Joyride India Exclusive | 238204 | [238204-jetpack-joyride-india-exclusive.json](./238204-jetpack-joyride-india-exclusive.json) |
 | Jetpack Soccer | 241055 | [241055-jetpack-soccer.json](./241055-jetpack-soccer.json) |
 | Jetpack Squad | 122284 | [122284-jetpack-squad.json](./122284-jetpack-squad.json) |
