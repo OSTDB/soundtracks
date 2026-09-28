@@ -615,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oku dake Drill Shougaku 6-nensei Kanji | 276467 | [276467-oku-dake-drill-shougaku-6-nensei-kanji.json](./276467-oku-dake-drill-shougaku-6-nensei-kanji.json) |
 | Oku dake Nou-tre Yubi Ippon | 251527 | [251527-oku-dake-nou-tre-yubi-ippon.json](./251527-oku-dake-nou-tre-yubi-ippon.json) |
 | Oku dake Study Hangul Kiso Tango | 261375 | [261375-oku-dake-study-hangul-kiso-tango.json](./261375-oku-dake-study-hangul-kiso-tango.json) |
+| Oku-sama wa Moto Yariman -Besluted- | 82982 | [82982-oku-sama-wa-moto-yariman-besluted.json](./82982-oku-sama-wa-moto-yariman-besluted.json) |
 | Okuman Chouja II | 242520 | [242520-okuman-chouja-ii.json](./242520-okuman-chouja-ii.json) |
 | OkunoKa | 87961 | [87961-okunoka.json](./87961-okunoka.json) |
 | Okunoka Madness | 136462 | [136462-okunoka-madness.json](./136462-okunoka-madness.json) |
@@ -1844,6 +1845,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oriental Empires: Three Kingdoms | 154558 | [154558-oriental-empires-three-kingdoms.json](./154558-oriental-empires-three-kingdoms.json) |
 | Oriental Immortal | 236765 | [236765-oriental-immortal.json](./236765-oriental-immortal.json) |
 | Oriental Legend | 39575 | [39575-oriental-legend.json](./39575-oriental-legend.json) |
+| Oriental Legend 2 | 82753 | [82753-oriental-legend-2.json](./82753-oriental-legend-2.json) |
+| Oriental Legend Super | 82749 | [82749-oriental-legend-super.json](./82749-oriental-legend-super.json) |
 | Orifoldium | 326282 | [326282-orifoldium.json](./326282-orifoldium.json) |
 | Origame | 152916 | [152916-origame.json](./152916-origame.json) |
 | Origami Angel: Feeling Not Found | 319139 | [319139-origami-angel-feeling-not-found.json](./319139-origami-angel-feeling-not-found.json) |
@@ -1960,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osomatsu-san Protagonist Contest Pokoball | 266478 | [266478-osomatsu-san-protagonist-contest-pokoball.json](./266478-osomatsu-san-protagonist-contest-pokoball.json) |
 | Osomatsu-san: Hesokuri Wars | 56477 | [56477-osomatsu-san-hesokuri-wars.json](./56477-osomatsu-san-hesokuri-wars.json) |
 | OSR Unhinged | 91946 | [91946-osr-unhinged.json](./91946-osr-unhinged.json) |
+| Ossan Kyoushi no Joshikousei Tsuma ga Yarichin Danshi ni Netorareru Hanashi | 82996 | [82996-ossan-kyoushi-no-joshikousei-tsuma-ga-yarichin-danshi-ni-netorareru-hanashi.json](./82996-ossan-kyoushi-no-joshikousei-tsuma-ga-yarichin-danshi-ni-netorareru-hanashi.json) |
 | Osseous and Swordy | 263220 | [263220-osseous-and-swordy.json](./263220-osseous-and-swordy.json) |
 | Ostalgie: Disorder in Yugoslavia | 196151 | [196151-ostalgie-disorder-in-yugoslavia.json](./196151-ostalgie-disorder-in-yugoslavia.json) |
 | Ostalgie: The Berlin Wall | 90250 | [90250-ostalgie-the-berlin-wall.json](./90250-ostalgie-the-berlin-wall.json) |
@@ -2046,6 +2050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otona no Gal Jan Kimi ni Hane Man | 248628 | [248628-otona-no-gal-jan-kimi-ni-hane-man.json](./248628-otona-no-gal-jan-kimi-ni-hane-man.json) |
 | Otona no Joushikiryoku Training DS | 68029 | [68029-otona-no-joushikiryoku-training-ds.json](./68029-otona-no-joushikiryoku-training-ds.json) |
 | Otonari Koi Sensou! | 194547 | [194547-otonari-koi-sensou.json](./194547-otonari-koi-sensou.json) |
+| Otonari no Kokujin Otto ni Dakarete Nakimodaeru Saiai no Tsuma. Sono Hikikae ni Ajiwau Kokujin Tsuma no Hada. Big Black Cock & Big Black Butt & My Sweet Wife | 82975 | [82975-otonari-no-kokujin-otto-ni-dakarete-nakimodaeru-saiai-no-tsuma-sono-hikikae-ni-ajiwau-kokujin-tsuma-no-hada-big-black-cock-and-big-black-butt-and-my-sweet-wife.json](./82975-otonari-no-kokujin-otto-ni-dakarete-nakimodaeru-saiai-no-tsuma-sono-hikikae-ni-ajiwau-kokujin-tsuma-no-hada-big-black-cock-and-big-black-butt-and-my-sweet-wife.json) |
 | Otoranger | 239595 | [239595-otoranger.json](./239595-otoranger.json) |
 | Otosan | 241366 | [241366-otosan.json](./241366-otosan.json) |
 | Otostaz | 175947 | [175947-otostaz.json](./175947-otostaz.json) |
