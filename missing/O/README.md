@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Market Garden: Drive on Arnhem, September 1944 | 25779 | [25779-operation-market-garden-drive-on-arnhem-september-1944.json](./25779-operation-market-garden-drive-on-arnhem-september-1944.json) |
 | Operation Nachtsprung: Odyssey Live | 352734 | [352734-operation-nachtsprung-odyssey-live.json](./352734-operation-nachtsprung-odyssey-live.json) |
 | Operation Ninurta: Eris Portal | 351726 | [351726-operation-ninurta-eris-portal.json](./351726-operation-ninurta-eris-portal.json) |
+| Operation Pig | 111911 | [111911-operation-pig.json](./111911-operation-pig.json) |
 | Operation Pill | 199098 | [199098-operation-pill.json](./199098-operation-pill.json) |
 | Operation Remode | 333354 | [333354-operation-remode.json](./333354-operation-remode.json) |
 | Operation S | 186805 | [186805-operation-s.json](./186805-operation-s.json) |
@@ -1614,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Optional Boss | 135887 | [135887-optional-boss.json](./135887-optional-boss.json) |
 | OptoLexem | 103528 | [103528-optolexem.json](./103528-optolexem.json) |
 | Opus | 181873 | [181873-opus.json](./181873-opus.json) |
+| Opus Collection: The Day We Found Earth + Rocket of Whispers | 111912 | [111912-opus-collection-the-day-we-found-earth-rocket-of-whispers.json](./111912-opus-collection-the-day-we-found-earth-rocket-of-whispers.json) |
 | Opus Ludum | 169379 | [169379-opus-ludum.json](./169379-opus-ludum.json) |
 | Opus Magnum | 74545 | [74545-opus-magnum.json](./74545-opus-magnum.json) |
 | Opus: Collector's Edition | 186904 | [186904-opus-collectors-edition.json](./186904-opus-collectors-edition.json) |
