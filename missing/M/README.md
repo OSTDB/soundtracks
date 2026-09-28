@@ -989,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majin Tantei Nougami Neuro: Battle da yo! Hannin Shuugou! | 216201 | [216201-majin-tantei-nougami-neuro-battle-da-yo-hannin-shuugou.json](./216201-majin-tantei-nougami-neuro-battle-da-yo-hannin-shuugou.json) |
 | Majin Tensei: Blind Thinker | 112319 | [112319-majin-tensei-blind-thinker.json](./112319-majin-tensei-blind-thinker.json) |
 | Majin Tensei: Blind Thinker II | 129140 | [129140-majin-tensei-blind-thinker-ii.json](./129140-majin-tensei-blind-thinker-ii.json) |
+| Majin Woman | 106148 | [106148-majin-woman.json](./106148-majin-woman.json) |
 | Majo | 413181 | [413181-majo.json](./413181-majo.json) |
 | Majo no Furo Life | 265640 | [265640-majo-no-furo-life.json](./265640-majo-no-furo-life.json) |
 | Majoneko | 252398 | [252398-majoneko.json](./252398-majoneko.json) |
@@ -4700,6 +4701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Ohota | 156551 | [156551-midnight-ohota.json](./156551-midnight-ohota.json) |
 | Midnight on the Milky Way | 161175 | [161175-midnight-on-the-milky-way.json](./161175-midnight-on-the-milky-way.json) |
 | Midnight Postman | 342907 | [342907-midnight-postman.json](./342907-midnight-postman.json) |
+| Midnight Pulse | 106157 | [106157-midnight-pulse.json](./106157-midnight-pulse.json) |
 | Midnight Racer | 290523 | [290523-midnight-racer.json](./290523-midnight-racer.json) |
 | Midnight Ramen | 273456 | [273456-midnight-ramen.json](./273456-midnight-ramen.json) |
 | Midnight Ramen Shop | 390098 | [390098-midnight-ramen-shop.json](./390098-midnight-ramen-shop.json) |
@@ -6399,6 +6401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Magic | 45220 | [45220-monkey-magic.json](./45220-monkey-magic.json) |
 | Monkey Math | 253303 | [253303-monkey-math.json](./253303-monkey-math.json) |
 | Monkey Mole Panic | 40386 | [40386-monkey-mole-panic.json](./40386-monkey-mole-panic.json) |
+| Monkey Ninja | 106146 | [106146-monkey-ninja.json](./106146-monkey-ninja.json) |
 | Monkey Quest | 182970 | [182970-monkey-quest.json](./182970-monkey-quest.json) |
 | Monkey Snowfight | 320300 | [320300-monkey-snowfight.json](./320300-monkey-snowfight.json) |
 | Monkey Splash!! | 274466 | [274466-monkey-splash.json](./274466-monkey-splash.json) |
@@ -7295,6 +7298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaic: Tomb of Mystery | 210122 | [210122-mosaic-tomb-of-mystery.json](./210122-mosaic-tomb-of-mystery.json) |
 | Mosaica: Arboreal | 386877 | [386877-mosaica-arboreal.json](./386877-mosaica-arboreal.json) |
 | Mosaics Galore 2 | 97005 | [97005-mosaics-galore-2.json](./97005-mosaics-galore-2.json) |
+| Mosaics Galore: Challenging Journey | 106143 | [106143-mosaics-galore-challenging-journey.json](./106143-mosaics-galore-challenging-journey.json) |
 | Mosaics Wall Deco | 376473 | [376473-mosaics-wall-deco.json](./376473-mosaics-wall-deco.json) |
 | Mosaique Neko Waifus 2 | 167808 | [167808-mosaique-neko-waifus-2.json](./167808-mosaique-neko-waifus-2.json) |
 | Mosaique Neko Waifus 4 | 167809 | [167809-mosaique-neko-waifus-4.json](./167809-mosaique-neko-waifus-4.json) |
