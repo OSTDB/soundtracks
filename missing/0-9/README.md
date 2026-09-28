@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1/2 Blood | 98422 | [98422-1-2-blood.json](./98422-1-2-blood.json) |
 | 10 | 294440 | [294440-10.json](./294440-10.json) |
 | 10 Amazingly Awful Games | 78332 | [78332-10-amazingly-awful-games.json](./78332-10-amazingly-awful-games.json) |
+| 10 Amazingly Awful Games Vol 2 | 79939 | [79939-10-amazingly-awful-games-vol-2.json](./79939-10-amazingly-awful-games-vol-2.json) |
 | 10 Blaze Escape | 326084 | [326084-10-blaze-escape.json](./326084-10-blaze-escape.json) |
 | 10 Cent Classics: Shady Pack | 56451 | [56451-10-cent-classics-shady-pack.json](./56451-10-cent-classics-shady-pack.json) |
 | 10 Days to Save the World | 382905 | [382905-10-days-to-save-the-world.json](./382905-10-days-to-save-the-world.json) |
