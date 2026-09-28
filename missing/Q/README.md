@@ -300,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen Mary's Script Retold | 215778 | [215778-queen-marys-script-retold.json](./215778-queen-marys-script-retold.json) |
 | Queen of Dark | 292821 | [292821-queen-of-dark.json](./292821-queen-of-dark.json) |
 | Queen of Mountain | 158669 | [158669-queen-of-mountain.json](./158669-queen-of-mountain.json) |
+| Queen of Phobos | 65034 | [65034-queen-of-phobos.json](./65034-queen-of-phobos.json) |
 | Queen of Seas 2 | 102347 | [102347-queen-of-seas-2.json](./102347-queen-of-seas-2.json) |
 | Queen of Succubus | 82751 | [82751-queen-of-succubus.json](./82751-queen-of-succubus.json) |
 | Queen of Tactics | 272259 | [272259-queen-of-tactics.json](./272259-queen-of-tactics.json) |
