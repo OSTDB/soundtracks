@@ -6104,10 +6104,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam | 125966 | [125966-mobile-suit-gundam.json](./125966-mobile-suit-gundam.json) |
 | Mobile Suit Gundam | 132794 | [132794-mobile-suit-gundam.json](./132794-mobile-suit-gundam.json) |
 | Mobile Suit Gundam 00: Gundam Meisters | 72982 | [72982-mobile-suit-gundam-00-gundam-meisters.json](./72982-mobile-suit-gundam-00-gundam-meisters.json) |
+| Mobile Suit Gundam AGE: Cosmic Drive | 75722 | [75722-mobile-suit-gundam-age-cosmic-drive.json](./75722-mobile-suit-gundam-age-cosmic-drive.json) |
+| Mobile Suit Gundam AGE: Universe Accel | 75721 | [75721-mobile-suit-gundam-age-universe-accel.json](./75721-mobile-suit-gundam-age-universe-accel.json) |
 | Mobile Suit Gundam Extreme Versus 2 Cross Boost | 265951 | [265951-mobile-suit-gundam-extreme-versus-2-cross-boost.json](./265951-mobile-suit-gundam-extreme-versus-2-cross-boost.json) |
 | Mobile Suit Gundam Federation vs. Zeon | 43311 | [43311-mobile-suit-gundam-federation-vs-zeon.json](./43311-mobile-suit-gundam-federation-vs-zeon.json) |
+| Mobile Suit Gundam Gihren's Greed: Blood of Zeon | 75726 | [75726-mobile-suit-gundam-gihrens-greed-blood-of-zeon.json](./75726-mobile-suit-gundam-gihrens-greed-blood-of-zeon.json) |
 | Mobile Suit Gundam Gihren's Greed: The fear of Axis | 56745 | [56745-mobile-suit-gundam-gihrens-greed-the-fear-of-axis.json](./56745-mobile-suit-gundam-gihrens-greed-the-fear-of-axis.json) |
+| Mobile Suit Gundam Gihren's Greed: The Fear of Axis V | 75728 | [75728-mobile-suit-gundam-gihrens-greed-the-fear-of-axis-v.json](./75728-mobile-suit-gundam-gihrens-greed-the-fear-of-axis-v.json) |
+| Mobile Suit Gundam Gihren's Greed: Zeon Revolutionary War | 75727 | [75727-mobile-suit-gundam-gihrens-greed-zeon-revolutionary-war.json](./75727-mobile-suit-gundam-gihrens-greed-zeon-revolutionary-war.json) |
 | Mobile Suit Gundam SEED: Battle Assault | 49325 | [49325-mobile-suit-gundam-seed-battle-assault.json](./49325-mobile-suit-gundam-seed-battle-assault.json) |
+| Mobile Suit Gundam SEED: Battle Destiny | 75723 | [75723-mobile-suit-gundam-seed-battle-destiny.json](./75723-mobile-suit-gundam-seed-battle-destiny.json) |
 | Mobile Suit Gundam Side Story I: Sentritsu no Blue | 194943 | [194943-mobile-suit-gundam-side-story-i-sentritsu-no-blue.json](./194943-mobile-suit-gundam-side-story-i-sentritsu-no-blue.json) |
 | Mobile Suit Gundam Side Story II: Aoi wo Uketsugu Mono | 66077 | [66077-mobile-suit-gundam-side-story-ii-aoi-wo-uketsugu-mono.json](./66077-mobile-suit-gundam-side-story-ii-aoi-wo-uketsugu-mono.json) |
 | Mobile Suit Gundam Side Story III: Sabakareshi Mono | 66076 | [66076-mobile-suit-gundam-side-story-iii-sabakareshi-mono.json](./66076-mobile-suit-gundam-side-story-iii-sabakareshi-mono.json) |
@@ -6525,6 +6531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkeys!! | 179506 | [179506-monkeys.json](./179506-monkeys.json) |
 | Monkeyshines | 41566 | [41566-monkeyshines.json](./41566-monkeyshines.json) |
 | Monkeytype | 137456 | [137456-monkeytype.json](./137456-monkeytype.json) |
+| MONMUSU | 75970 | [75970-monmusu.json](./75970-monmusu.json) |
 | Monmusu Gladiator | 151749 | [151749-monmusu-gladiator.json](./151749-monmusu-gladiator.json) |
 | Mono Grav | 185110 | [185110-mono-grav.json](./185110-mono-grav.json) |
 | Mono Trail | 127317 | [127317-mono-trail.json](./127317-mono-trail.json) |
