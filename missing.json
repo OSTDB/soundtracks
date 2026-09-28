@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T14:05:37.379Z",
-  "total_missing": 135618,
+  "generated_at": "2026-09-28T14:20:19.022Z",
+  "total_missing": 135668,
   "games": [
     {
       "igdb_id": 186066,
@@ -391,6 +391,11 @@
       "igdb_id": 143494,
       "game_name": "#SinucaAttack",
       "file": "missing/0-9/143494-sinucaattack.json"
+    },
+    {
+      "igdb_id": 82007,
+      "game_name": "#SkiJump",
+      "file": "missing/0-9/82007-skijump.json"
     },
     {
       "igdb_id": 147423,
@@ -2748,6 +2753,11 @@
       "file": "missing/0-9/79839-2-games-in-1-sonic-pinball-party-sonic-battle.json"
     },
     {
+      "igdb_id": 82104,
+      "game_name": "2 Games in 1: SpongeBob SquarePants: Battle for Bikini Bottom + SpongeBob SquarePants: Supersponge",
+      "file": "missing/0-9/82104-2-games-in-1-spongebob-squarepants-battle-for-bikini-bottom-spongebob-squarepants-supersponge.json"
+    },
+    {
       "igdb_id": 82100,
       "game_name": "2 Games in 1: SpongeBob SquarePants: SuperSponge + Rugrats Go Wild!",
       "file": "missing/0-9/82100-2-games-in-1-spongebob-squarepants-supersponge-rugrats-go-wild.json"
@@ -2826,6 +2836,11 @@
       "igdb_id": 84266,
       "game_name": "2 in 1: V-Rally 3 + Stuntman",
       "file": "missing/0-9/84266-2-in-1-v-rally-3-stuntman.json"
+    },
+    {
+      "igdb_id": 82103,
+      "game_name": "2 jeux en 1 I Titeuf: Ze Gag Machine + Titeuf: Méga-Compet'",
+      "file": "missing/0-9/82103-2-jeux-en-1-i-titeuf-ze-gag-machine-titeuf-mega-compet.json"
     },
     {
       "igdb_id": 216773,
@@ -9613,6 +9628,11 @@
       "file": "missing/A/337117-abduction-escape.json"
     },
     {
+      "igdb_id": 82096,
+      "game_name": "Abduction Prologue: The Story Of Jonathan Blake",
+      "file": "missing/A/82096-abduction-prologue-the-story-of-jonathan-blake.json"
+    },
+    {
       "igdb_id": 33117,
       "game_name": "Abe VR",
       "file": "missing/A/33117-abe-vr.json"
@@ -11491,6 +11511,11 @@
       "igdb_id": 45979,
       "game_name": "Activision Anthology: Remix Edition",
       "file": "missing/A/45979-activision-anthology-remix-edition.json"
+    },
+    {
+      "igdb_id": 82061,
+      "game_name": "Activision's Commodore 64 15 Pack",
+      "file": "missing/A/82061-activisions-commodore-64-15-pack.json"
     },
     {
       "igdb_id": 142235,
@@ -18536,6 +18561,11 @@
       "igdb_id": 82505,
       "game_name": "Alien Breed Special Edition / Qwak",
       "file": "missing/A/82505-alien-breed-special-edition-qwak.json"
+    },
+    {
+      "igdb_id": 81998,
+      "game_name": "Alien Bubble Destroyer",
+      "file": "missing/A/81998-alien-bubble-destroyer.json"
     },
     {
       "igdb_id": 62149,
@@ -25891,6 +25921,11 @@
       "igdb_id": 297646,
       "game_name": "Animal School Simulator",
       "file": "missing/A/297646-animal-school-simulator.json"
+    },
+    {
+      "igdb_id": 82179,
+      "game_name": "Animal Seasons",
+      "file": "missing/A/82179-animal-seasons.json"
     },
     {
       "igdb_id": 130134,
@@ -35263,6 +35298,11 @@
       "file": "missing/A/347165-art-together.json"
     },
     {
+      "igdb_id": 82186,
+      "game_name": "Art World",
+      "file": "missing/A/82186-art-world.json"
+    },
+    {
       "igdb_id": 236811,
       "game_name": "Art-O-Ween: Night at the Gallery",
       "file": "missing/A/236811-art-o-ween-night-at-the-gallery.json"
@@ -41771,6 +41811,11 @@
       "igdb_id": 235860,
       "game_name": "AutoSim 2",
       "file": "missing/A/235860-autosim-2.json"
+    },
+    {
+      "igdb_id": 82181,
+      "game_name": "Autumn Garden",
+      "file": "missing/A/82181-autumn-garden.json"
     },
     {
       "igdb_id": 257431,
@@ -61531,6 +61576,11 @@
       "igdb_id": 34490,
       "game_name": "Birth of Shadows",
       "file": "missing/B/34490-birth-of-shadows.json"
+    },
+    {
+      "igdb_id": 82172,
+      "game_name": "Birth of Spring",
+      "file": "missing/B/82172-birth-of-spring.json"
     },
     {
       "igdb_id": 61071,
@@ -97838,6 +97888,11 @@
       "file": "missing/C/225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json"
     },
     {
+      "igdb_id": 82004,
+      "game_name": "Chilie Peppers",
+      "file": "missing/C/82004-chilie-peppers.json"
+    },
+    {
       "igdb_id": 79608,
       "game_name": "Chill",
       "file": "missing/C/79608-chill.json"
@@ -99571,6 +99626,11 @@
       "igdb_id": 286522,
       "game_name": "Christmas Patchwork Frozen",
       "file": "missing/C/286522-christmas-patchwork-frozen.json"
+    },
+    {
+      "igdb_id": 82167,
+      "game_name": "Christmas Prayers",
+      "file": "missing/C/82167-christmas-prayers.json"
     },
     {
       "igdb_id": 285567,
@@ -105396,6 +105456,11 @@
       "igdb_id": 369562,
       "game_name": "Clutter 18: Joe's Ultimate Challenge - Collector's Edition",
       "file": "missing/C/369562-clutter-18-joes-ultimate-challenge-collectors-edition.json"
+    },
+    {
+      "igdb_id": 82188,
+      "game_name": "Clutter Craze",
+      "file": "missing/C/82188-clutter-craze.json"
     },
     {
       "igdb_id": 318199,
@@ -115796,6 +115861,11 @@
       "igdb_id": 405571,
       "game_name": "Cozy Offroad Simulator Together",
       "file": "missing/C/405571-cozy-offroad-simulator-together.json"
+    },
+    {
+      "igdb_id": 82176,
+      "game_name": "Cozy Places",
+      "file": "missing/C/82176-cozy-places.json"
     },
     {
       "igdb_id": 269688,
@@ -141168,6 +141238,11 @@
       "file": "missing/D/277273-descent-from-arkovs-tower.json"
     },
     {
+      "igdb_id": 82175,
+      "game_name": "Descent II: The Vertigo Series",
+      "file": "missing/D/82175-descent-ii-the-vertigo-series.json"
+    },
+    {
       "igdb_id": 272017,
       "game_name": "Descent into Hades",
       "file": "missing/D/272017-descent-into-hades.json"
@@ -164536,6 +164611,11 @@
       "igdb_id": 44199,
       "game_name": "Dungeon Builder S",
       "file": "missing/D/44199-dungeon-builder-s.json"
+    },
+    {
+      "igdb_id": 82020,
+      "game_name": "Dungeon Chop Chop",
+      "file": "missing/D/82020-dungeon-chop-chop.json"
     },
     {
       "igdb_id": 290897,
@@ -191798,6 +191878,11 @@
       "file": "missing/F/117567-fat-dude-simulator.json"
     },
     {
+      "igdb_id": 82002,
+      "game_name": "Fat Foods",
+      "file": "missing/F/82002-fat-foods.json"
+    },
+    {
       "igdb_id": 155545,
       "game_name": "Fat Fritz 2.0 SE",
       "file": "missing/F/155545-fat-fritz-2-0-se.json"
@@ -193431,6 +193516,11 @@
       "igdb_id": 406911,
       "game_name": "Femme Fatality",
       "file": "missing/F/406911-femme-fatality.json"
+    },
+    {
+      "igdb_id": 82028,
+      "game_name": "Fen",
+      "file": "missing/F/82028-fen.json"
     },
     {
       "igdb_id": 166145,
@@ -197246,6 +197336,11 @@
       "igdb_id": 262351,
       "game_name": "Finger Maniac",
       "file": "missing/F/262351-finger-maniac.json"
+    },
+    {
+      "igdb_id": 82006,
+      "game_name": "Finger Ninja",
+      "file": "missing/F/82006-finger-ninja.json"
     },
     {
       "igdb_id": 214568,
@@ -219473,6 +219568,11 @@
       "file": "missing/G/107235-garden-of-coloured-lights.json"
     },
     {
+      "igdb_id": 82178,
+      "game_name": "Garden of Eden",
+      "file": "missing/G/82178-garden-of-eden.json"
+    },
+    {
       "igdb_id": 116451,
       "game_name": "Garden of Fear",
       "file": "missing/G/116451-garden-of-fear.json"
@@ -224541,6 +224641,11 @@
       "igdb_id": 88228,
       "game_name": "Gift of Life: Key of Solomon",
       "file": "missing/G/88228-gift-of-life-key-of-solomon.json"
+    },
+    {
+      "igdb_id": 82189,
+      "game_name": "Gift of Spring",
+      "file": "missing/G/82189-gift-of-spring.json"
     },
     {
       "igdb_id": 255643,
@@ -251798,6 +251903,11 @@
       "file": "missing/H/110355-here-be-dragons.json"
     },
     {
+      "igdb_id": 82174,
+      "game_name": "Here Comes the Bride",
+      "file": "missing/H/82174-here-comes-the-bride.json"
+    },
+    {
       "igdb_id": 184036,
       "game_name": "Here For Sweethearts",
       "file": "missing/H/184036-here-for-sweethearts.json"
@@ -254793,6 +254903,11 @@
       "file": "missing/H/98554-hidden-object-be-my-valentine.json"
     },
     {
+      "igdb_id": 82177,
+      "game_name": "Hidden Object: Candy Crunch",
+      "file": "missing/H/82177-hidden-object-candy-crunch.json"
+    },
+    {
       "igdb_id": 83631,
       "game_name": "Hidden Object: Candyland Sweet Paradise",
       "file": "missing/H/83631-hidden-object-candyland-sweet-paradise.json"
@@ -254808,6 +254923,11 @@
       "file": "missing/H/83636-hidden-object-chocolat.json"
     },
     {
+      "igdb_id": 82169,
+      "game_name": "Hidden Object: Christmas in July",
+      "file": "missing/H/82169-hidden-object-christmas-in-july.json"
+    },
+    {
       "igdb_id": 82163,
       "game_name": "Hidden Object: Christmas Tree",
       "file": "missing/H/82163-hidden-object-christmas-tree.json"
@@ -254821,6 +254941,11 @@
       "igdb_id": 96007,
       "game_name": "Hidden Object: Coyote the Outlander",
       "file": "missing/H/96007-hidden-object-coyote-the-outlander.json"
+    },
+    {
+      "igdb_id": 82171,
+      "game_name": "Hidden Object: Cozy Christmas",
+      "file": "missing/H/82171-hidden-object-cozy-christmas.json"
     },
     {
       "igdb_id": 98390,
@@ -254938,6 +255063,11 @@
       "file": "missing/H/98581-hidden-object-happy-haunts.json"
     },
     {
+      "igdb_id": 82173,
+      "game_name": "Hidden Object: Happy Valentine's Day",
+      "file": "missing/H/82173-hidden-object-happy-valentines-day.json"
+    },
+    {
       "igdb_id": 98594,
       "game_name": "Hidden Object: Haunted House 3",
       "file": "missing/H/98594-hidden-object-haunted-house-3.json"
@@ -254971,6 +255101,11 @@
       "igdb_id": 208008,
       "game_name": "Hidden Object: Hunters for the Secret",
       "file": "missing/H/208008-hidden-object-hunters-for-the-secret.json"
+    },
+    {
+      "igdb_id": 82170,
+      "game_name": "Hidden Object: Imagination",
+      "file": "missing/H/82170-hidden-object-imagination.json"
     },
     {
       "igdb_id": 82162,
@@ -255066,6 +255201,11 @@
       "igdb_id": 98578,
       "game_name": "Hidden Object: Pumpkin Patch",
       "file": "missing/H/98578-hidden-object-pumpkin-patch.json"
+    },
+    {
+      "igdb_id": 82166,
+      "game_name": "Hidden Object: Sherlock",
+      "file": "missing/H/82166-hidden-object-sherlock.json"
     },
     {
       "igdb_id": 98568,
@@ -273853,6 +273993,11 @@
       "file": "missing/I/151116-in-between.json"
     },
     {
+      "igdb_id": 82003,
+      "game_name": "In Between Games",
+      "file": "missing/I/82003-in-between-games.json"
+    },
+    {
       "igdb_id": 66088,
       "game_name": "In Bred With Rednex",
       "file": "missing/I/66088-in-bred-with-rednex.json"
@@ -276241,6 +276386,11 @@
       "igdb_id": 70380,
       "game_name": "Infinitroid",
       "file": "missing/I/70380-infinitroid.json"
+    },
+    {
+      "igdb_id": 82010,
+      "game_name": "Infinitum",
+      "file": "missing/I/82010-infinitum.json"
     },
     {
       "igdb_id": 53232,
@@ -317711,6 +317861,11 @@
       "igdb_id": 25687,
       "game_name": "Lionheart",
       "file": "missing/L/25687-lionheart.json"
+    },
+    {
+      "igdb_id": 82018,
+      "game_name": "Lionheart",
+      "file": "missing/L/82018-lionheart.json"
     },
     {
       "igdb_id": 398560,
@@ -376623,6 +376778,11 @@
       "file": "missing/N/380681-nature-minds.json"
     },
     {
+      "igdb_id": 82168,
+      "game_name": "Nature Moms",
+      "file": "missing/N/82168-nature-moms.json"
+    },
+    {
       "igdb_id": 403683,
       "game_name": "Nature of Dread",
       "file": "missing/N/403683-nature-of-dread.json"
@@ -385206,6 +385366,11 @@
       "igdb_id": 342050,
       "game_name": "Nindo: Guardian of the Starlit Shadow",
       "file": "missing/N/342050-nindo-guardian-of-the-starlit-shadow.json"
+    },
+    {
+      "igdb_id": 82014,
+      "game_name": "Nine",
+      "file": "missing/N/82014-nine.json"
     },
     {
       "igdb_id": 274512,
@@ -467858,6 +468023,11 @@
       "file": "missing/R/207780-rock-wrecker.json"
     },
     {
+      "igdb_id": 82021,
+      "game_name": "Rock-Muba",
+      "file": "missing/R/82021-rock-muba.json"
+    },
+    {
       "igdb_id": 33605,
       "game_name": "Rock-n-Rogue A Boo Bunny Plague Adventure",
       "file": "missing/R/33605-rock-n-rogue-a-boo-bunny-plague-adventure.json"
@@ -488521,6 +488691,11 @@
       "igdb_id": 131552,
       "game_name": "September is Halfway Over",
       "file": "missing/S/131552-september-is-halfway-over.json"
+    },
+    {
+      "igdb_id": 82180,
+      "game_name": "September Secrets",
+      "file": "missing/S/82180-september-secrets.json"
     },
     {
       "igdb_id": 324321,
@@ -525653,6 +525828,11 @@
       "file": "missing/S/291052-spring-in-summer.json"
     },
     {
+      "igdb_id": 82185,
+      "game_name": "Spring Is Here",
+      "file": "missing/S/82185-spring-is-here.json"
+    },
+    {
       "igdb_id": 84536,
       "game_name": "Spring It!",
       "file": "missing/S/84536-spring-it.json"
@@ -527591,6 +527771,11 @@
       "igdb_id": 199117,
       "game_name": "Stallions in America",
       "file": "missing/S/199117-stallions-in-america.json"
+    },
+    {
+      "igdb_id": 82184,
+      "game_name": "Stamp Smash",
+      "file": "missing/S/82184-stamp-smash.json"
     },
     {
       "igdb_id": 5704,
@@ -540923,6 +541108,11 @@
       "file": "missing/S/297508-summer-games-ii.json"
     },
     {
+      "igdb_id": 82183,
+      "game_name": "Summer Garden",
+      "file": "missing/S/82183-summer-garden.json"
+    },
+    {
       "igdb_id": 177492,
       "game_name": "Summer Horrordays",
       "file": "missing/S/177492-summer-horrordays.json"
@@ -541026,6 +541216,11 @@
       "igdb_id": 125327,
       "game_name": "Summer Rose Court",
       "file": "missing/S/125327-summer-rose-court.json"
+    },
+    {
+      "igdb_id": 82182,
+      "game_name": "Summer Secrets",
+      "file": "missing/S/82182-summer-secrets.json"
     },
     {
       "igdb_id": 402291,
@@ -559276,6 +559471,11 @@
       "igdb_id": 69315,
       "game_name": "Tank Game",
       "file": "missing/T/69315-tank-game.json"
+    },
+    {
+      "igdb_id": 82005,
+      "game_name": "Tank Game",
+      "file": "missing/T/82005-tank-game.json"
     },
     {
       "igdb_id": 231885,
@@ -588868,6 +589068,11 @@
       "file": "missing/T/181700-the-rising-of-the-follower.json"
     },
     {
+      "igdb_id": 82000,
+      "game_name": "The Rising of the Rose Ocelot",
+      "file": "missing/T/82000-the-rising-of-the-rose-ocelot.json"
+    },
+    {
       "igdb_id": 177306,
       "game_name": "The Rite of Ammon",
       "file": "missing/T/177306-the-rite-of-ammon.json"
@@ -612203,14 +612408,44 @@
       "file": "missing/T/8200-total-war-attila.json"
     },
     {
+      "igdb_id": 82023,
+      "game_name": "Total War: Attila - Age of Charlemagne Campaign Pack",
+      "file": "missing/T/82023-total-war-attila-age-of-charlemagne-campaign-pack.json"
+    },
+    {
+      "igdb_id": 82024,
+      "game_name": "Total War: Attila - Blood & Burning",
+      "file": "missing/T/82024-total-war-attila-blood-and-burning.json"
+    },
+    {
+      "igdb_id": 82026,
+      "game_name": "Total War: Attila - Celts Culture Pack",
+      "file": "missing/T/82026-total-war-attila-celts-culture-pack.json"
+    },
+    {
       "igdb_id": 53816,
       "game_name": "Total War: Attila - Empires of Sand Culture Pack",
       "file": "missing/T/53816-total-war-attila-empires-of-sand-culture-pack.json"
     },
     {
+      "igdb_id": 82025,
+      "game_name": "Total War: Attila - Longbeards Culture Pack",
+      "file": "missing/T/82025-total-war-attila-longbeards-culture-pack.json"
+    },
+    {
+      "igdb_id": 82022,
+      "game_name": "Total War: Attila - Slavic Nations Culture Pack",
+      "file": "missing/T/82022-total-war-attila-slavic-nations-culture-pack.json"
+    },
+    {
       "igdb_id": 53815,
       "game_name": "Total War: Attila - The Last Roman Campaign Pack",
       "file": "missing/T/53815-total-war-attila-the-last-roman-campaign-pack.json"
+    },
+    {
+      "igdb_id": 82027,
+      "game_name": "Total War: Attila - Viking Forefathers Culture Pack",
+      "file": "missing/T/82027-total-war-attila-viking-forefathers-culture-pack.json"
     },
     {
       "igdb_id": 121439,
@@ -625946,6 +626181,11 @@
       "igdb_id": 124826,
       "game_name": "Turmoil: The Heat Is On",
       "file": "missing/T/124826-turmoil-the-heat-is-on.json"
+    },
+    {
+      "igdb_id": 82013,
+      "game_name": "Turn",
+      "file": "missing/T/82013-turn.json"
     },
     {
       "igdb_id": 206648,
@@ -658263,6 +658503,11 @@
       "file": "missing/W/5284-winter-sports-the-ultimate-challenge.json"
     },
     {
+      "igdb_id": 82187,
+      "game_name": "Winter Spring",
+      "file": "missing/W/82187-winter-spring.json"
+    },
+    {
       "igdb_id": 20155,
       "game_name": "Winter Stars",
       "file": "missing/W/20155-winter-stars.json"
@@ -663421,6 +663666,11 @@
       "igdb_id": 57355,
       "game_name": "World of Wizard: The Mirror Kingdom",
       "file": "missing/W/57355-world-of-wizard-the-mirror-kingdom.json"
+    },
+    {
+      "igdb_id": 82030,
+      "game_name": "World of Wizards",
+      "file": "missing/W/82030-world-of-wizards.json"
     },
     {
       "igdb_id": 147396,
