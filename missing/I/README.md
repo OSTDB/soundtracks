@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Time PriPara | 285041 | [285041-idol-time-pripara.json](./285041-idol-time-pripara.json) |
 | Idol Time PriPara Yume All Star Live! | 136938 | [136938-idol-time-pripara-yume-all-star-live.json](./136938-idol-time-pripara-yume-all-star-live.json) |
 | Idol-Mahjong Final Romance 2 | 75471 | [75471-idol-mahjong-final-romance-2.json](./75471-idol-mahjong-final-romance-2.json) |
+| Idola Phantasy Star Saga | 106103 | [106103-idola-phantasy-star-saga.json](./106103-idola-phantasy-star-saga.json) |
 | Idols of Ash | 397084 | [397084-idols-of-ash.json](./397084-idols-of-ash.json) |
 | Idols Of Starlight | 357436 | [357436-idols-of-starlight.json](./357436-idols-of-starlight.json) |
 | Idolz | 348248 | [348248-idolz.json](./348248-idolz.json) |
@@ -1262,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Sound Mind | 121084 | [121084-in-sound-mind.json](./121084-in-sound-mind.json) |
 | In Sound Mind: Deluxe Edition | 146132 | [146132-in-sound-mind-deluxe-edition.json](./146132-in-sound-mind-deluxe-edition.json) |
 | In Space | 237275 | [237275-in-space.json](./237275-in-space.json) |
+| In Space We Brawl: Full Arsenal Edition | 106082 | [106082-in-space-we-brawl-full-arsenal-edition.json](./106082-in-space-we-brawl-full-arsenal-edition.json) |
 | In Style | 276243 | [276243-in-style.json](./276243-in-style.json) |
 | In Sync: 2 Fun Balls | 208028 | [208028-in-sync-2-fun-balls.json](./208028-in-sync-2-fun-balls.json) |
 | In Ten Years | 329151 | [329151-in-ten-years.json](./329151-in-ten-years.json) |
