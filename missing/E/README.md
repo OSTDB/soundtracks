@@ -983,6 +983,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elements and Build | 321564 | [321564-elements-and-build.json](./321564-elements-and-build.json) |
 | Elements For Money | 287243 | [287243-elements-for-money.json](./287243-elements-for-money.json) |
 | Elements II: Hearts of Light | 33352 | [33352-elements-ii-hearts-of-light.json](./33352-elements-ii-hearts-of-light.json) |
+| Elements Voice Series vol.1 Mika Kanai - Wind&Breeze | 63953 | [63953-elements-voice-series-vol-1-mika-kanai-wind-and-breeze.json](./63953-elements-voice-series-vol-1-mika-kanai-wind-and-breeze.json) |
+| Elements Voice Series vol.2 Rika Fukami - Private Step | 63955 | [63955-elements-voice-series-vol-2-rika-fukami-private-step.json](./63955-elements-voice-series-vol-2-rika-fukami-private-step.json) |
+| Elements Voice Series vol.3 Aya Hisakawa - Forest Sways | 63954 | [63954-elements-voice-series-vol-3-aya-hisakawa-forest-sways.json](./63954-elements-voice-series-vol-3-aya-hisakawa-forest-sways.json) |
+| Elements Voice Series vol.4 Yuri Shiratori - Rainbow Harmony | 63945 | [63945-elements-voice-series-vol-4-yuri-shiratori-rainbow-harmony.json](./63945-elements-voice-series-vol-4-yuri-shiratori-rainbow-harmony.json) |
+| Elements Voice Series Vol.5 Mariko Kouda: Welcome to the Marikotown! | 63938 | [63938-elements-voice-series-vol-5-mariko-kouda-welcome-to-the-marikotown.json](./63938-elements-voice-series-vol-5-mariko-kouda-welcome-to-the-marikotown.json) |
 | Elements: Epic Heroes | 34257 | [34257-elements-epic-heroes.json](./34257-elements-epic-heroes.json) |
 | Elementum | 285025 | [285025-elementum.json](./285025-elementum.json) |
 | Elementyle | 309513 | [309513-elementyle.json](./309513-elementyle.json) |
@@ -3556,6 +3561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EZ2AC: Final EX | 138708 | [138708-ez2ac-final-ex.json](./138708-ez2ac-final-ex.json) |
 | EZ2AC: Time Traveler | 122956 | [122956-ez2ac-time-traveler.json](./122956-ez2ac-time-traveler.json) |
 | EZ2Dancer | 92487 | [92487-ez2dancer.json](./92487-ez2dancer.json) |
+| EZ2ON | 63933 | [63933-ez2on.json](./63933-ez2on.json) |
 | EZ2on Reboot: R | 144282 | [144282-ez2on-reboot-r.json](./144282-ez2on-reboot-r.json) |
 | EZ2on Reboot: R - DJMAX Collaboration DLC | 269015 | [269015-ez2on-reboot-r-djmax-collaboration-dlc.json](./269015-ez2on-reboot-r-djmax-collaboration-dlc.json) |
 | EZ2on Reboot: R - Fortress Collaboration DLC | 256004 | [256004-ez2on-reboot-r-fortress-collaboration-dlc.json](./256004-ez2on-reboot-r-fortress-collaboration-dlc.json) |
