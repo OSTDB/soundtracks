@@ -943,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks vs. Aliens | 36500 | [36500-tanks-vs-aliens.json](./36500-tanks-vs-aliens.json) |
 | Tanks: The Crusades | 154405 | [154405-tanks-the-crusades.json](./154405-tanks-the-crusades.json) |
 | Tanks! | 353523 | [353523-tanks.json](./353523-tanks.json) |
+| Tanks2.DE | 115764 | [115764-tanks2-de.json](./115764-tanks2-de.json) |
 | TankTrouble - Mobile Mayhem | 88514 | [88514-tanktrouble-mobile-mayhem.json](./88514-tanktrouble-mobile-mayhem.json) |
 | Tankura: Tango Crush - Kotoba Keshi Tango Puzzle Game | 208938 | [208938-tankura-tango-crush-kotoba-keshi-tango-puzzle-game.json](./208938-tankura-tango-crush-kotoba-keshi-tango-puzzle-game.json) |
 | Tanky Panky | 158508 | [158508-tanky-panky.json](./158508-tanky-panky.json) |
@@ -7592,6 +7593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tideshell Keeper | 211805 | [211805-the-tideshell-keeper.json](./211805-the-tideshell-keeper.json) |
 | The Tiger T | 210668 | [210668-the-tiger-t.json](./210668-the-tiger-t.json) |
 | The Time Game | 310054 | [310054-the-time-game.json](./310054-the-time-game.json) |
+| The Time of Awakening | 115138 | [115138-the-time-of-awakening.json](./115138-the-time-of-awakening.json) |
 | The Time Watcher | 192289 | [192289-the-time-watcher.json](./192289-the-time-watcher.json) |
 | The Tin Soldier | 327328 | [327328-the-tin-soldier.json](./327328-the-tin-soldier.json) |
 | The Tiny Bang Story HD | 100154 | [100154-the-tiny-bang-story-hd.json](./100154-the-tiny-bang-story-hd.json) |
@@ -8626,6 +8628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is Kiko | 333202 | [333202-this-is-kiko.json](./333202-this-is-kiko.json) |
 | This Is Love | 370673 | [370673-this-is-love.json](./370673-this-is-love.json) |
 | This is My Place | 264574 | [264574-this-is-my-place.json](./264574-this-is-my-place.json) |
+| This is my story | 115151 | [115151-this-is-my-story.json](./115151-this-is-my-story.json) |
 | This Is Not a Ball Game. | 243636 | [243636-this-is-not-a-ball-game.json](./243636-this-is-not-a-ball-game.json) |
 | This Is Not A Love Letter | 339951 | [339951-this-is-not-a-love-letter.json](./339951-this-is-not-a-love-letter.json) |
 | This Is Not For You | 417522 | [417522-this-is-not-for-you.json](./417522-this-is-not-for-you.json) |
@@ -12913,6 +12916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Punk: Extended Edition | 298575 | [298575-trash-punk-extended-edition.json](./298575-trash-punk-extended-edition.json) |
 | Trash Sailors | 122426 | [122426-trash-sailors.json](./122426-trash-sailors.json) |
 | Trash Squad | 81157 | [81157-trash-squad.json](./81157-trash-squad.json) |
+| Trash Time | 115155 | [115155-trash-time.json](./115155-trash-time.json) |
 | Trash Troopers: Earth Reclaim | 273933 | [273933-trash-troopers-earth-reclaim.json](./273933-trash-troopers-earth-reclaim.json) |
 | Trash Tycoon | 204416 | [204416-trash-tycoon.json](./204416-trash-tycoon.json) |
 | Trash Wars | 356708 | [356708-trash-wars.json](./356708-trash-wars.json) |
@@ -14112,6 +14116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twerk it Girl! | 238510 | [238510-twerk-it-girl.json](./238510-twerk-it-girl.json) |
 | Twerps | 24935 | [24935-twerps.json](./24935-twerps.json) |
 | Twhols | 377717 | [377717-twhols.json](./377717-twhols.json) |
+| Twice Go! Go! Fightin' | 115763 | [115763-twice-go-go-fightin.json](./115763-twice-go-go-fightin.json) |
 | Twilight Apartment | 331887 | [331887-twilight-apartment.json](./331887-twilight-apartment.json) |
 | Twilight Canyon | 306421 | [306421-twilight-canyon.json](./306421-twilight-canyon.json) |
 | Twilight City | 315643 | [315643-twilight-city.json](./315643-twilight-city.json) |
