@@ -1804,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deal With the Devil Chapter: 2 - From Tuonela to Hell | 350487 | [350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json](./350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json) |
 | Dealer's Choice Collection | 73513 | [73513-dealers-choice-collection.json](./73513-dealers-choice-collection.json) |
 | Dealer's Life | 114063 | [114063-dealers-life.json](./114063-dealers-life.json) |
+| Dealey Plaza Paintball | 59863 | [59863-dealey-plaza-paintball.json](./59863-dealey-plaza-paintball.json) |
 | Dear | 148388 | [148388-dear.json](./148388-dear.json) |
 | Dear Agony Aunt | 173073 | [173073-dear-agony-aunt.json](./173073-dear-agony-aunt.json) |
 | Dear Althea | 150488 | [150488-dear-althea.json](./150488-dear-althea.json) |
@@ -3445,6 +3446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dexlinhale | 125963 | [125963-dexlinhale.json](./125963-dexlinhale.json) |
 | Dexoriality | 130824 | [130824-dexoriality.json](./130824-dexoriality.json) |
 | Dexter Stardust | 213337 | [213337-dexter-stardust.json](./213337-dexter-stardust.json) |
+| Dexter: Hidden Darkness | 59845 | [59845-dexter-hidden-darkness.json](./59845-dexter-hidden-darkness.json) |
 | Dexter's Laboratory: Science Ain't Fair | 8003 | [8003-dexters-laboratory-science-aint-fair.json](./8003-dexters-laboratory-science-aint-fair.json) |
 | Dexterity Ball 3D | 34445 | [34445-dexterity-ball-3d.json](./34445-dexterity-ball-3d.json) |
 | Dexterous: Time to Steal | 278159 | [278159-dexterous-time-to-steal.json](./278159-dexterous-time-to-steal.json) |
@@ -5583,6 +5585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Tournament | 202843 | [202843-doom-tournament.json](./202843-doom-tournament.json) |
 | Doom Troopers: Mutant Chronicles | 4544 | [4544-doom-troopers-mutant-chronicles.json](./4544-doom-troopers-mutant-chronicles.json) |
 | Doom Ultimate Enhanced | 198487 | [198487-doom-ultimate-enhanced.json](./198487-doom-ultimate-enhanced.json) |
+| Doom Warrior | 59860 | [59860-doom-warrior.json](./59860-doom-warrior.json) |
 | Doom: Bloodfall | 26558 | [26558-doom-bloodfall.json](./26558-doom-bloodfall.json) |
 | DOOM: Collector's Edition | 41614 | [41614-doom-collectors-edition.json](./41614-doom-collectors-edition.json) |
 | Doom: Hell Followed | 25571 | [25571-doom-hell-followed.json](./25571-doom-hell-followed.json) |
@@ -6931,6 +6934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamscape Return | 290920 | [290920-dreamscape-return.json](./290920-dreamscape-return.json) |
 | Dreamscape Runners | 238503 | [238503-dreamscape-runners.json](./238503-dreamscape-runners.json) |
 | Dreamscaper | 116166 | [116166-dreamscaper.json](./116166-dreamscaper.json) |
+| Dreamscapes: Nightmare's Heir | 59908 | [59908-dreamscapes-nightmares-heir.json](./59908-dreamscapes-nightmares-heir.json) |
 | Dreamscapes: The Sandman - Collector's Edition | 356189 | [356189-dreamscapes-the-sandman-collectors-edition.json](./356189-dreamscapes-the-sandman-collectors-edition.json) |
 | DreamScript | 158050 | [158050-dreamscript.json](./158050-dreamscript.json) |
 | Dreamshard | 132750 | [132750-dreamshard.json](./132750-dreamshard.json) |
@@ -7497,6 +7501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dude Perfect HD | 86892 | [86892-dude-perfect-hd.json](./86892-dude-perfect-hd.json) |
 | Dude Simulator 3 | 144297 | [144297-dude-simulator-3.json](./144297-dude-simulator-3.json) |
 | Dude The Dark Agent | 399691 | [399691-dude-the-dark-agent.json](./399691-dude-the-dark-agent.json) |
+| Dude World | 59918 | [59918-dude-world.json](./59918-dude-world.json) |
 | Dudeology 1 | 234730 | [234730-dudeology-1.json](./234730-dudeology-1.json) |
 | Dudes with Attitude | 48063 | [48063-dudes-with-attitude.json](./48063-dudes-with-attitude.json) |
 | Dudu Monkey | 165077 | [165077-dudu-monkey.json](./165077-dudu-monkey.json) |
@@ -7673,6 +7678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Blocks | 192429 | [192429-dungeon-blocks.json](./192429-dungeon-blocks.json) |
 | Dungeon Board | 311800 | [311800-dungeon-board.json](./311800-dungeon-board.json) |
 | Dungeon Bomber | 390258 | [390258-dungeon-bomber.json](./390258-dungeon-bomber.json) |
+| Dungeon Boss | 59836 | [59836-dungeon-boss.json](./59836-dungeon-boss.json) |
 | Dungeon Boss: Respawned | 251660 | [251660-dungeon-boss-respawned.json](./251660-dungeon-boss-respawned.json) |
 | Dungeon Brawl | 373095 | [373095-dungeon-brawl.json](./373095-dungeon-brawl.json) |
 | Dungeon Brewmaster | 98734 | [98734-dungeon-brewmaster.json](./98734-dungeon-brewmaster.json) |
