@@ -1240,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Net Invaders | 116427 | [116427-net-invaders.json](./116427-net-invaders.json) |
 | Net King's Call | 143514 | [143514-net-kings-call.json](./143514-net-kings-call.json) |
 | Net Pet | 293205 | [293205-net-pet.json](./293205-net-pet.json) |
+| Net Versus Shogi | 78078 | [78078-net-versus-shogi.json](./78078-net-versus-shogi.json) |
 | Net Worthless | 410971 | [410971-net-worthless.json](./410971-net-worthless.json) |
 | Net-tac-toe | 276723 | [276723-net-tac-toe.json](./276723-net-tac-toe.json) |
 | Netabare ga Hageshisugiru RPG 2: Shinyuu no Shin no Sugata ha Daimaou | 335674 | [335674-netabare-ga-hageshisugiru-rpg-2-shinyuu-no-shin-no-sugata-ha-daimaou.json](./335674-netabare-ga-hageshisugiru-rpg-2-shinyuu-no-shin-no-sugata-ha-daimaou.json) |
