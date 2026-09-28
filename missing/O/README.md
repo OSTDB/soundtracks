@@ -1765,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order of Battle: World War II - Order of Battle: Allies Victorious | 219793 | [219793-order-of-battle-world-war-ii-order-of-battle-allies-victorious.json](./219793-order-of-battle-world-war-ii-order-of-battle-allies-victorious.json) |
 | Order of Fate | 297579 | [297579-order-of-fate.json](./297579-order-of-fate.json) |
 | Order of Renewal | 337647 | [337647-order-of-renewal.json](./337647-order-of-renewal.json) |
+| Order of the Assassin | 102332 | [102332-order-of-the-assassin.json](./102332-order-of-the-assassin.json) |
 | Order of the Elements | 270961 | [270961-order-of-the-elements.json](./270961-order-of-the-elements.json) |
 | Order of the Sinking Star | 381222 | [381222-order-of-the-sinking-star.json](./381222-order-of-the-sinking-star.json) |
 | Order Road | 162849 | [162849-order-road.json](./162849-order-road.json) |
@@ -2034,6 +2035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otteretto | 229048 | [229048-otteretto.json](./229048-otteretto.json) |
 | OtterQuest | 188488 | [188488-otterquest.json](./188488-otterquest.json) |
 | OttGiu | 321535 | [321535-ottgiu.json](./321535-ottgiu.json) |
+| Otto and the Ancient Worlds | 102382 | [102382-otto-and-the-ancient-worlds.json](./102382-otto-and-the-ancient-worlds.json) |
 | Otto Dokkoi | 385333 | [385333-otto-dokkoi.json](./385333-otto-dokkoi.json) |
 | Otto Matic | 67426 | [67426-otto-matic.json](./67426-otto-matic.json) |
 | Otto the Odd Ostrich | 67934 | [67934-otto-the-odd-ostrich.json](./67934-otto-the-odd-ostrich.json) |
