@@ -735,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain of Space | 320558 | [320558-captain-of-space.json](./320558-captain-of-space.json) |
 | Captain Pegleg | 137452 | [137452-captain-pegleg.json](./137452-captain-pegleg.json) |
 | Captain Planet | 69790 | [69790-captain-planet.json](./69790-captain-planet.json) |
+| Captain Power and the Soldiers of the Future | 84294 | [84294-captain-power-and-the-soldiers-of-the-future.json](./84294-captain-power-and-the-soldiers-of-the-future.json) |
 | Captain Puff MacFly | 361728 | [361728-captain-puff-macfly.json](./361728-captain-puff-macfly.json) |
 | Captain Quazar | 39015 | [39015-captain-quazar.json](./39015-captain-quazar.json) |
 | Captain Rocket | 344959 | [344959-captain-rocket.json](./344959-captain-rocket.json) |
@@ -1342,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castaways VR | 120341 | [120341-castaways-vr.json](./120341-castaways-vr.json) |
 | Castelian | 295029 | [295029-castelian.json](./295029-castelian.json) |
 | Castellan | 411700 | [411700-castellan.json](./411700-castellan.json) |
+| Castelo Rá-Tim-Bum | 84302 | [84302-castelo-ra-tim-bum.json](./84302-castelo-ra-tim-bum.json) |
 | Caster's Trap | 130339 | [130339-casters-trap.json](./130339-casters-trap.json) |
 | Castillon | 332247 | [332247-castillon.json](./332247-castillon.json) |
 | Castle | 166672 | [166672-castle.json](./166672-castle.json) |
