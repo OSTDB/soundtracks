@@ -7700,6 +7700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CryptoClash | 265730 | [265730-cryptoclash.json](./265730-cryptoclash.json) |
 | CryptoClickers | 218162 | [218162-cryptoclickers.json](./218162-cryptoclickers.json) |
 | Cryptofall: Investor simulator | 122253 | [122253-cryptofall-investor-simulator.json](./122253-cryptofall-investor-simulator.json) |
+| CryptoFights | 111891 | [111891-cryptofights.json](./111891-cryptofights.json) |
 | Cryptoforce | 247500 | [247500-cryptoforce.json](./247500-cryptoforce.json) |
 | Cryptogram | 355105 | [355105-cryptogram.json](./355105-cryptogram.json) |
 | Cryptogram | 413000 | [413000-cryptogram.json](./413000-cryptogram.json) |
