@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garbage Pail Kids: Mad Mike and the Quest for Stale Gum | 221146 | [221146-garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum.json](./221146-garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum.json) |
 | Garbage Scow Captain | 317813 | [317813-garbage-scow-captain.json](./317813-garbage-scow-captain.json) |
 | Garbage Truck Driving Simulator | 256561 | [256561-garbage-truck-driving-simulator.json](./256561-garbage-truck-driving-simulator.json) |
+| Garbage Truck Simulator | 80448 | [80448-garbage-truck-simulator.json](./80448-garbage-truck-simulator.json) |
 | Garbage Truck: Brushy Pick Up | 87273 | [87273-garbage-truck-brushy-pick-up.json](./87273-garbage-truck-brushy-pick-up.json) |
 | Garbage Truck: Bulky Trash Pick Up | 97289 | [97289-garbage-truck-bulky-trash-pick-up.json](./97289-garbage-truck-bulky-trash-pick-up.json) |
 | Garbage Truck: Snow Time | 105529 | [105529-garbage-truck-snow-time.json](./105529-garbage-truck-snow-time.json) |
@@ -3327,6 +3328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix | 279694 | [279694-grand-prix.json](./279694-grand-prix.json) |
 | Grand Prix | 385557 | [385557-grand-prix.json](./385557-grand-prix.json) |
 | Grand Prix 3 Season 2000 | 57640 | [57640-grand-prix-3-season-2000.json](./57640-grand-prix-3-season-2000.json) |
+| Grand Prix 500 2 | 80645 | [80645-grand-prix-500-2.json](./80645-grand-prix-500-2.json) |
 | Grand Prix Championship 2 | 54064 | [54064-grand-prix-championship-2.json](./54064-grand-prix-championship-2.json) |
 | Grand Prix Circuit | 12124 | [12124-grand-prix-circuit.json](./12124-grand-prix-circuit.json) |
 | Grand Prix Circuit | 278443 | [278443-grand-prix-circuit.json](./278443-grand-prix-circuit.json) |
@@ -4604,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Conquest | 223958 | [223958-gundam-conquest.json](./223958-gundam-conquest.json) |
 | Gundam Fights for Human Rights | 183567 | [183567-gundam-fights-for-human-rights.json](./183567-gundam-fights-for-human-rights.json) |
 | Gundam Heroes | 98560 | [98560-gundam-heroes.json](./98560-gundam-heroes.json) |
+| Gundam Memories: Tatakai no Kioku | 80467 | [80467-gundam-memories-tatakai-no-kioku.json](./80467-gundam-memories-tatakai-no-kioku.json) |
 | Gundam Online Wars | 79279 | [79279-gundam-online-wars.json](./79279-gundam-online-wars.json) |
 | Gundam Robot | 47534 | [47534-gundam-robot.json](./47534-gundam-robot.json) |
 | Gundam Spirits | 226760 | [226760-gundam-spirits.json](./226760-gundam-spirits.json) |
