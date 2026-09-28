@@ -1033,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage Age | 294839 | [294839-savage-age.json](./294839-savage-age.json) |
 | Savage Bliss | 23919 | [23919-savage-bliss.json](./23919-savage-bliss.json) |
 | Savage Girls | 272940 | [272940-savage-girls.json](./272940-savage-girls.json) |
+| Savage Hunt: Dragon's Prophet | 71582 | [71582-savage-hunt-dragons-prophet.json](./71582-savage-hunt-dragons-prophet.json) |
 | Savage Island Series | 68961 | [68961-savage-island-series.json](./68961-savage-island-series.json) |
 | Savage Lands | 17548 | [17548-savage-lands.json](./17548-savage-lands.json) |
 | Savage Pond | 299436 | [299436-savage-pond.json](./299436-savage-pond.json) |
@@ -1475,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scotland Yard Interactive | 46567 | [46567-scotland-yard-interactive.json](./46567-scotland-yard-interactive.json) |
 | Scotland Yard: Hunting Mr. X | 22269 | [22269-scotland-yard-hunting-mr-x.json](./22269-scotland-yard-hunting-mr-x.json) |
 | Scott Adams' Graphic Adventure #4: Voodoo Castle | 73747 | [73747-scott-adams-graphic-adventure-4-voodoo-castle.json](./73747-scott-adams-graphic-adventure-4-voodoo-castle.json) |
+| Scott Adams' Graphic Adventure #5: The Count | 71580 | [71580-scott-adams-graphic-adventure-5-the-count.json](./71580-scott-adams-graphic-adventure-5-the-count.json) |
 | Scott Adams' Graphic Adventure #6: Strange Odyssey | 71451 | [71451-scott-adams-graphic-adventure-6-strange-odyssey.json](./71451-scott-adams-graphic-adventure-6-strange-odyssey.json) |
 | Scott I Project | 331870 | [331870-scott-i-project.json](./331870-scott-i-project.json) |
 | Scott Pilgrim vs. the World: The Game | 7448 | [7448-scott-pilgrim-vs-the-world-the-game.json](./7448-scott-pilgrim-vs-the-world-the-game.json) |
@@ -2623,6 +2625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street: Elmo's 123s | 49934 | [49934-sesame-street-elmos-123s.json](./49934-sesame-street-elmos-123s.json) |
 | Sesame Street: Elmo's ABCs | 49933 | [49933-sesame-street-elmos-abcs.json](./49933-sesame-street-elmos-abcs.json) |
 | Sesame Street: Elmo's World | 220089 | [220089-sesame-street-elmos-world.json](./220089-sesame-street-elmos-world.json) |
+| Sesame Street: Lets Make a Word! | 71441 | [71441-sesame-street-lets-make-a-word.json](./71441-sesame-street-lets-make-a-word.json) |
 | Sesame Street: Letter-Go-Round | 25175 | [25175-sesame-street-letter-go-round.json](./25175-sesame-street-letter-go-round.json) |
 | Sesame Street: Music Maker | 138578 | [138578-sesame-street-music-maker.json](./138578-sesame-street-music-maker.json) |
 | Sesame Street: Ready, Set, Grover! | 138577 | [138577-sesame-street-ready-set-grover.json](./138577-sesame-street-ready-set-grover.json) |
@@ -4040,6 +4043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Your Friends | 154562 | [154562-shoot-your-friends.json](./154562-shoot-your-friends.json) |
 | Shoot Yourself With a Rifle | 336531 | [336531-shoot-yourself-with-a-rifle.json](./336531-shoot-yourself-with-a-rifle.json) |
 | Shoot-No-Shoot | 107805 | [107805-shoot-no-shoot.json](./107805-shoot-no-shoot.json) |
+| Shoot-Out | 71588 | [71588-shoot-out.json](./71588-shoot-out.json) |
 | Shoot! VR | 230948 | [230948-shoot-vr.json](./230948-shoot-vr.json) |
 | Shoot'n'Scroll 3D | 109875 | [109875-shootnscroll-3d.json](./109875-shootnscroll-3d.json) |
 | Shooter Game | 107871 | [107871-shooter-game.json](./107871-shooter-game.json) |
@@ -5795,6 +5799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleeping Dogs: Year of the Snake | 10873 | [10873-sleeping-dogs-year-of-the-snake.json](./10873-sleeping-dogs-year-of-the-snake.json) |
 | Sleeping Flowers: Thread Curse | 233490 | [233490-sleeping-flowers-thread-curse.json](./233490-sleeping-flowers-thread-curse.json) |
 | Sleeping Forest | 292513 | [292513-sleeping-forest.json](./292513-sleeping-forest.json) |
+| Sleeping Gods Lie | 71585 | [71585-sleeping-gods-lie.json](./71585-sleeping-gods-lie.json) |
 | Sleeping Prince | 77966 | [77966-sleeping-prince.json](./77966-sleeping-prince.json) |
 | Sleeping Valley | 24960 | [24960-sleeping-valley.json](./24960-sleeping-valley.json) |
 | Sleeping With the Phish | 391178 | [391178-sleeping-with-the-phish.json](./391178-sleeping-with-the-phish.json) |
@@ -6514,6 +6519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake: Secret Treasure | 370311 | [370311-snake-secret-treasure.json](./370311-snake-secret-treasure.json) |
 | Snake: The Elder Forest | 122415 | [122415-snake-the-elder-forest.json](./122415-snake-the-elder-forest.json) |
 | Snake's Revenge | 7848 | [7848-snakes-revenge.json](./7848-snakes-revenge.json) |
+| Snake360 | 71607 | [71607-snake360.json](./71607-snake360.json) |
 | Snakebird | 13104 | [13104-snakebird.json](./13104-snakebird.json) |
 | Snakebird Complete | 239519 | [239519-snakebird-complete.json](./239519-snakebird-complete.json) |
 | Snakebird GB | 324694 | [324694-snakebird-gb.json](./324694-snakebird-gb.json) |
@@ -8034,6 +8040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerian Online | 230853 | [230853-sorcerian-online.json](./230853-sorcerian-online.json) |
 | SorcerLand | 212267 | [212267-sorcerland.json](./212267-sorcerland.json) |
 | Sorceror's Apprentice | 94188 | [94188-sorcerors-apprentice.json](./94188-sorcerors-apprentice.json) |
+| Sorcery Blade | 71603 | [71603-sorcery-blade.json](./71603-sorcery-blade.json) |
 | Sorcery Jokers | 59780 | [59780-sorcery-jokers.json](./59780-sorcery-jokers.json) |
 | Sorcery Saga: Curse of the Great Curry God | 19915 | [19915-sorcery-saga-curse-of-the-great-curry-god.json](./19915-sorcery-saga-curse-of-the-great-curry-god.json) |
 | Sorcery Slam | 333150 | [333150-sorcery-slam.json](./333150-sorcery-slam.json) |
@@ -8113,6 +8120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soukou Akki Muramasa: Janen-hen | 170502 | [170502-soukou-akki-muramasa-janen-hen.json](./170502-soukou-akki-muramasa-janen-hen.json) |
 | Soukou Kihei Votoms | 85861 | [85861-soukou-kihei-votoms.json](./85861-soukou-kihei-votoms.json) |
 | Soukou Kihei Votoms: The Battling Road | 38273 | [38273-soukou-kihei-votoms-the-battling-road.json](./38273-soukou-kihei-votoms-the-battling-road.json) |
+| Soukou Musume (Armored Girls) | 71599 | [71599-soukou-musume-armored-girls.json](./71599-soukou-musume-armored-girls.json) |
 | Soukou Seiki Ysphere ~Ingyaku no Sennou Kaizou~ | 133247 | [133247-soukou-seiki-ysphere-ingyaku-no-sennou-kaizou.json](./133247-soukou-seiki-ysphere-ingyaku-no-sennou-kaizou.json) |
 | Soul | 196565 | [196565-soul.json](./196565-soul.json) |
 | Soul | 199577 | [199577-soul.json](./199577-soul.json) |
@@ -13057,6 +13065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer in Trigue | 169769 | [169769-summer-in-trigue.json](./169769-summer-in-trigue.json) |
 | Summer Knights | 122156 | [122156-summer-knights.json](./122156-summer-knights.json) |
 | Summer Lesson: Chisato Shinjo - Shichiyou no Etude | 219030 | [219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json](./219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json) |
+| Summer Mahjong | 71571 | [71571-summer-mahjong.json](./71571-summer-mahjong.json) |
 | Summer Meetings | 121692 | [121692-summer-meetings.json](./121692-summer-meetings.json) |
 | Summer Memories: Deluxe Edition | 186897 | [186897-summer-memories-deluxe-edition.json](./186897-summer-memories-deluxe-edition.json) |
 | Summer Memory of Bell | 104811 | [104811-summer-memory-of-bell.json](./104811-summer-memory-of-bell.json) |
@@ -14318,6 +14327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Road Champions | 230767 | [230767-super-road-champions.json](./230767-super-road-champions.json) |
 | Super Robin Hood | 223024 | [223024-super-robin-hood.json](./223024-super-robin-hood.json) |
 | Super Robolom | 83485 | [83485-super-robolom.json](./83485-super-robolom.json) |
+| Super Robot Pinball | 71606 | [71606-super-robot-pinball.json](./71606-super-robot-pinball.json) |
 | Super Robot Shooting | 74768 | [74768-super-robot-shooting.json](./74768-super-robot-shooting.json) |
 | Super Robot Taisen | 240916 | [240916-super-robot-taisen.json](./240916-super-robot-taisen.json) |
 | Super Robot Taisen A Portable | 79841 | [79841-super-robot-taisen-a-portable.json](./79841-super-robot-taisen-a-portable.json) |
