@@ -3199,9 +3199,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Christmas Paint Jobs Pack | 353403 | [353403-american-truck-simulator-christmas-paint-jobs-pack.json](./353403-american-truck-simulator-christmas-paint-jobs-pack.json) |
 | American Truck Simulator: Colorado | 167679 | [167679-american-truck-simulator-colorado.json](./167679-american-truck-simulator-colorado.json) |
 | American Truck Simulator: Dragon Truck Design Pack | 263050 | [263050-american-truck-simulator-dragon-truck-design-pack.json](./263050-american-truck-simulator-dragon-truck-design-pack.json) |
+| American Truck Simulator: Enchanted Edition | 115775 | [115775-american-truck-simulator-enchanted-edition.json](./115775-american-truck-simulator-enchanted-edition.json) |
 | American Truck Simulator: Farm Machinery | 278555 | [278555-american-truck-simulator-farm-machinery.json](./278555-american-truck-simulator-farm-machinery.json) |
 | American Truck Simulator: Ford Car Pack | 356896 | [356896-american-truck-simulator-ford-car-pack.json](./356896-american-truck-simulator-ford-car-pack.json) |
 | American Truck Simulator: Freightliner Cascadia (The Fifth Generation) | 353410 | [353410-american-truck-simulator-freightliner-cascadia-the-fifth-generation.json](./353410-american-truck-simulator-freightliner-cascadia-the-fifth-generation.json) |
+| American Truck Simulator: Gold Edition | 115774 | [115774-american-truck-simulator-gold-edition.json](./115774-american-truck-simulator-gold-edition.json) |
 | American Truck Simulator: Goodyear Tires Pack | 223687 | [223687-american-truck-simulator-goodyear-tires-pack.json](./223687-american-truck-simulator-goodyear-tires-pack.json) |
 | American Truck Simulator: Halloween Paint Jobs Pack | 353401 | [353401-american-truck-simulator-halloween-paint-jobs-pack.json](./353401-american-truck-simulator-halloween-paint-jobs-pack.json) |
 | American Truck Simulator: Heavy Cargo Pack | 44120 | [44120-american-truck-simulator-heavy-cargo-pack.json](./44120-american-truck-simulator-heavy-cargo-pack.json) |
@@ -3213,6 +3215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Lode King & Prestige Trailers Pack | 223688 | [223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json](./223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json) |
 | American Truck Simulator: Louisiana | 348973 | [348973-american-truck-simulator-louisiana.json](./348973-american-truck-simulator-louisiana.json) |
 | American Truck Simulator: Mack Pinnacle | 353408 | [353408-american-truck-simulator-mack-pinnacle.json](./353408-american-truck-simulator-mack-pinnacle.json) |
+| American Truck Simulator: Oregon | 115773 | [115773-american-truck-simulator-oregon.json](./115773-american-truck-simulator-oregon.json) |
 | American Truck Simulator: Pink Ribbon Charity Pack | 353398 | [353398-american-truck-simulator-pink-ribbon-charity-pack.json](./353398-american-truck-simulator-pink-ribbon-charity-pack.json) |
 | American Truck Simulator: Retrowave Paint Jobs Pack | 353405 | [353405-american-truck-simulator-retrowave-paint-jobs-pack.json](./353405-american-truck-simulator-retrowave-paint-jobs-pack.json) |
 | American Truck Simulator: South Dakota | 347862 | [347862-american-truck-simulator-south-dakota.json](./347862-american-truck-simulator-south-dakota.json) |
@@ -4322,6 +4325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AnyWay! | 102412 | [102412-anyway.json](./102412-anyway.json) |
 | AnyWay!: Challenge #1 | 151558 | [151558-anyway-challenge-1.json](./151558-anyway-challenge-1.json) |
 | Anywhere You've Been | 178601 | [178601-anywhere-youve-been.json](./178601-anywhere-youve-been.json) |
+| AnywhereVR | 115772 | [115772-anywherevr.json](./115772-anywherevr.json) |
 | Anzeigenhauptmeister Simulator | 292510 | [292510-anzeigenhauptmeister-simulator.json](./292510-anzeigenhauptmeister-simulator.json) |
 | Anzu | 325056 | [325056-anzu.json](./325056-anzu.json) |
 | Ao no Kanata no Four Rhythm 4th Anniversary Box | 124030 | [124030-ao-no-kanata-no-four-rhythm-4th-anniversary-box.json](./124030-ao-no-kanata-no-four-rhythm-4th-anniversary-box.json) |
@@ -5738,6 +5742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aruma Ketera | 382787 | [382787-aruma-ketera.json](./382787-aruma-ketera.json) |
 | Arvale | 14787 | [14787-arvale.json](./14787-arvale.json) |
 | Arvis Punch | 329015 | [329015-arvis-punch.json](./329015-arvis-punch.json) |
+| Arvita | 115802 | [115802-arvita.json](./115802-arvita.json) |
 | Arwinia | 141074 | [141074-arwinia.json](./141074-arwinia.json) |
 | Arx Fatalis | 602 | [602-arx-fatalis.json](./602-arx-fatalis.json) |
 | Arx, After the Reckoning | 228694 | [228694-arx-after-the-reckoning.json](./228694-arx-after-the-reckoning.json) |
@@ -6052,6 +6057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault on Arnhem | 33307 | [33307-assault-on-arnhem.json](./33307-assault-on-arnhem.json) |
 | Assault on Everest | 356700 | [356700-assault-on-everest.json](./356700-assault-on-everest.json) |
 | Assault on Hartblood Hotel | 363989 | [363989-assault-on-hartblood-hotel.json](./363989-assault-on-hartblood-hotel.json) |
+| Assault on Metaltron | 115797 | [115797-assault-on-metaltron.json](./115797-assault-on-metaltron.json) |
 | Assault on Port Stanley | 12981 | [12981-assault-on-port-stanley.json](./12981-assault-on-port-stanley.json) |
 | Assault on Tei Tenga | 144264 | [144264-assault-on-tei-tenga.json](./144264-assault-on-tei-tenga.json) |
 | Assault Rei Play | 109004 | [109004-assault-rei-play.json](./109004-assault-rei-play.json) |
@@ -7124,6 +7130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awakening: The Skyward Castle | 63287 | [63287-awakening-the-skyward-castle.json](./63287-awakening-the-skyward-castle.json) |
 | Awakening: The Skyward Castle - Collector's Edition | 89942 | [89942-awakening-the-skyward-castle-collectors-edition.json](./89942-awakening-the-skyward-castle-collectors-edition.json) |
 | Awankening. | 397083 | [397083-awankening.json](./397083-awankening.json) |
+| Award Winners: Platinum Edition | 115782 | [115782-award-winners-platinum-edition.json](./115782-award-winners-platinum-edition.json) |
 | Awareness | 244880 | [244880-awareness.json](./244880-awareness.json) |
 | Awareness Test: The Robot Bar | 179572 | [179572-awareness-test-the-robot-bar.json](./179572-awareness-test-the-robot-bar.json) |
 | Away from beauty | 115077 | [115077-away-from-beauty.json](./115077-away-from-beauty.json) |
