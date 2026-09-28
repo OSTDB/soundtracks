@@ -1553,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Blade | 98764 | [98764-heavy-blade.json](./98764-heavy-blade.json) |
 | Heavy Burden VR | 372459 | [372459-heavy-burden-vr.json](./372459-heavy-burden-vr.json) |
 | Heavy Cargo: The Truck Simulator | 165384 | [165384-heavy-cargo-the-truck-simulator.json](./165384-heavy-cargo-the-truck-simulator.json) |
+| Heavy Destinies | 75010 | [75010-heavy-destinies.json](./75010-heavy-destinies.json) |
 | Heavy Dreams | 108058 | [108058-heavy-dreams.json](./108058-heavy-dreams.json) |
 | Heavy Drinker | 250893 | [250893-heavy-drinker.json](./250893-heavy-drinker.json) |
 | Heavy Duty | 375422 | [375422-heavy-duty.json](./375422-heavy-duty.json) |
@@ -2757,6 +2758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexaMaze | 182814 | [182814-hexamaze.json](./182814-hexamaze.json) |
 | HexaMerge 2048 | 384210 | [384210-hexamerge-2048.json](./384210-hexamerge-2048.json) |
 | Hexameron: Phase One | 271773 | [271773-hexameron-phase-one.json](./271773-hexameron-phase-one.json) |
+| HexaMon | 75204 | [75204-hexamon.json](./75204-hexamon.json) |
 | Hexanome | 110601 | [110601-hexanome.json](./110601-hexanome.json) |
 | Hexarchia | 175932 | [175932-hexarchia.json](./175932-hexarchia.json) |
 | Hexarchy | 139362 | [139362-hexarchy.json](./139362-hexarchy.json) |
@@ -3854,6 +3856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywood or Bust | 13878 | [13878-hollywood-or-bust.json](./13878-hollywood-or-bust.json) |
 | Hollywood Pictures II | 53208 | [53208-hollywood-pictures-ii.json](./53208-hollywood-pictures-ii.json) |
 | Hollywood Pinball | 49862 | [49862-hollywood-pinball.json](./49862-hollywood-pinball.json) |
+| Hollywood Poker Pro | 75232 | [75232-hollywood-poker-pro.json](./75232-hollywood-poker-pro.json) |
 | Hollywood Squares | 48056 | [48056-hollywood-squares.json](./48056-hollywood-squares.json) |
 | Hollywood Squares | 52194 | [52194-hollywood-squares.json](./52194-hollywood-squares.json) |
 | Hollywood Tycoon | 67958 | [67958-hollywood-tycoon.json](./67958-hollywood-tycoon.json) |
