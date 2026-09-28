@@ -1917,6 +1917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight For America: Zap Edition | 399817 | [399817-fight-for-america-zap-edition.json](./399817-fight-for-america-zap-edition.json) |
 | Fight For Eden | 164989 | [164989-fight-for-eden.json](./164989-fight-for-eden.json) |
 | Fight for Eden: Heat | 253943 | [253943-fight-for-eden-heat.json](./253943-fight-for-eden-heat.json) |
+| Fight for Gold II | 111854 | [111854-fight-for-gold-ii.json](./111854-fight-for-gold-ii.json) |
 | Fight for Life | 40800 | [40800-fight-for-life.json](./40800-fight-for-life.json) |
 | Fight For Love | 345523 | [345523-fight-for-love.json](./345523-fight-for-love.json) |
 | Fight For Your Resurrection VR | 255147 | [255147-fight-for-your-resurrection-vr.json](./255147-fight-for-your-resurrection-vr.json) |
