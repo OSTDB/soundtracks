@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandit Simulator | 121474 | [121474-bandit-simulator.json](./121474-bandit-simulator.json) |
 | Bandit Skies | 96720 | [96720-bandit-skies.json](./96720-bandit-skies.json) |
 | Bandit Trap | 306417 | [306417-bandit-trap.json](./306417-bandit-trap.json) |
+| Bandits | 115164 | [115164-bandits.json](./115164-bandits.json) |
 | Bandits | 228079 | [228079-bandits.json](./228079-bandits.json) |
 | Bandits On West | 402929 | [402929-bandits-on-west.json](./402929-bandits-on-west.json) |
 | Bandle | 294451 | [294451-bandle.json](./294451-bandle.json) |
@@ -1772,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Talent: Multiplayer Update | 306952 | [306952-battle-talent-multiplayer-update.json](./306952-battle-talent-multiplayer-update.json) |
 | Battle Tanks | 21244 | [21244-battle-tanks.json](./21244-battle-tanks.json) |
 | Battle Tanks: Arena | 240476 | [240476-battle-tanks-arena.json](./240476-battle-tanks-arena.json) |
+| Battle Tanks: World War II | 115159 | [115159-battle-tanks-world-war-ii.json](./115159-battle-tanks-world-war-ii.json) |
 | Battle Tap Tap | 233239 | [233239-battle-tap-tap.json](./233239-battle-tap-tap.json) |
 | Battle Teams 2: Wishlist Pack | 310384 | [310384-battle-teams-2-wishlist-pack.json](./310384-battle-teams-2-wishlist-pack.json) |
 | Battle Through Time | 13864 | [13864-battle-through-time.json](./13864-battle-through-time.json) |
@@ -5148,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Ace | 362431 | [362431-bomb-ace.json](./362431-bomb-ace.json) |
 | Bomb Around | 332397 | [332397-bomb-around.json](./332397-bomb-around.json) |
 | Bomb Bomb Bomb | 248900 | [248900-bomb-bomb-bomb.json](./248900-bomb-bomb-bomb.json) |
+| Bomb Bots Arena | 115134 | [115134-bomb-bots-arena.json](./115134-bomb-bots-arena.json) |
 | Bomb Bowling | 307307 | [307307-bomb-bowling.json](./307307-bomb-bowling.json) |
 | Bomb Bowling 2 | 124189 | [124189-bomb-bowling-2.json](./124189-bomb-bowling-2.json) |
 | Bomb Cat | 300776 | [300776-bomb-cat.json](./300776-bomb-cat.json) |
