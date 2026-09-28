@@ -5382,6 +5382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skillwarz | 109186 | [109186-skillwarz.json](./109186-skillwarz.json) |
 | Skillwood | 284404 | [284404-skillwood.json](./284404-skillwood.json) |
 | Skillz: The DJ Game | 79213 | [79213-skillz-the-dj-game.json](./79213-skillz-the-dj-game.json) |
+| Skimmerz | 68758 | [68758-skimmerz.json](./68758-skimmerz.json) |
 | Skin & Bones | 135698 | [135698-skin-and-bones.json](./135698-skin-and-bones.json) |
 | Skin & Scales | 301422 | [301422-skin-and-scales.json](./301422-skin-and-scales.json) |
 | Skin Deep | 111061 | [111061-skin-deep.json](./111061-skin-deep.json) |
@@ -8472,6 +8473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cactus Canyon | 292070 | [292070-space-cactus-canyon.json](./292070-space-cactus-canyon.json) |
 | Space Cadet | 76997 | [76997-space-cadet.json](./76997-space-cadet.json) |
 | Space Cake | 61114 | [61114-space-cake.json](./61114-space-cake.json) |
+| Space Camp | 68734 | [68734-space-camp.json](./68734-space-camp.json) |
 | Space Candy | 125398 | [125398-space-candy.json](./125398-space-candy.json) |
 | Space Cantina | 259073 | [259073-space-cantina.json](./259073-space-cantina.json) |
 | Space Canyon | 40771 | [40771-space-canyon.json](./40771-space-canyon.json) |
@@ -8794,6 +8796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Shark Wrangle Fest | 245843 | [245843-space-shark-wrangle-fest.json](./245843-space-shark-wrangle-fest.json) |
 | Space Shells | 204100 | [204100-space-shells.json](./204100-space-shells.json) |
 | Space Ship | 175828 | [175828-space-ship.json](./175828-space-ship.json) |
+| Space Ship Commander | 68761 | [68761-space-ship-commander.json](./68761-space-ship-commander.json) |
 | Space ships | 104696 | [104696-space-ships.json](./104696-space-ships.json) |
 | Space Shoot | 346126 | [346126-space-shoot.json](./346126-space-shoot.json) |
 | Space Shooter | 186184 | [186184-space-shooter.json](./186184-space-shooter.json) |
@@ -12642,6 +12645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Battle Simulator | 37162 | [37162-sub-battle-simulator.json](./37162-sub-battle-simulator.json) |
 | Sub Chase | 245579 | [245579-sub-chase.json](./245579-sub-chase.json) |
 | Sub Chase Online | 211200 | [211200-sub-chase-online.json](./211200-sub-chase-online.json) |
+| Sub Command: Akula Seawolf 688(I) | 68732 | [68732-sub-command-akula-seawolf-688-i.json](./68732-sub-command-akula-seawolf-688-i.json) |
 | Sub Commander | 263472 | [263472-sub-commander.json](./263472-sub-commander.json) |
 | Sub Culture | 50135 | [50135-sub-culture.json](./50135-sub-culture.json) |
 | Sub Duel | 97352 | [97352-sub-duel.json](./97352-sub-duel.json) |
