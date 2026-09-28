@@ -4387,6 +4387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GuitarFreaks V7 & DrumMania V7 | 383024 | [383024-guitarfreaks-v7-and-drummania-v7.json](./383024-guitarfreaks-v7-and-drummania-v7.json) |
 | Guītú | 156699 | [156699-guitu.json](./156699-guitu.json) |
 | Gujian 3 | 113649 | [113649-gujian-3.json](./113649-gujian-3.json) |
+| Gulag | 115179 | [115179-gulag.json](./115179-gulag.json) |
 | Gulag | 268773 | [268773-gulag.json](./268773-gulag.json) |
 | Gulf of Aden - Task Force Somalia | 34370 | [34370-gulf-of-aden-task-force-somalia.json](./34370-gulf-of-aden-task-force-somalia.json) |
 | Gulkave | 6109 | [6109-gulkave.json](./6109-gulkave.json) |
@@ -4444,6 +4445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Gun Pixies | 27281 | [27281-gun-gun-pixies.json](./27281-gun-gun-pixies.json) |
 | Gun Head Shot | 231935 | [231935-gun-head-shot.json](./231935-gun-head-shot.json) |
 | Gun King | 230936 | [230936-gun-king.json](./230936-gun-king.json) |
+| Gun Man | 115157 | [115157-gun-man.json](./115157-gun-man.json) |
 | Gun Man | 346091 | [346091-gun-man.json](./346091-gun-man.json) |
 | Gun Mayhem | 342123 | [342123-gun-mayhem.json](./342123-gun-mayhem.json) |
 | Gun Monkeys | 16541 | [16541-gun-monkeys.json](./16541-gun-monkeys.json) |
