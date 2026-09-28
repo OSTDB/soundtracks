@@ -2497,6 +2497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PhotoWorld | 209966 | [209966-photoworld.json](./209966-photoworld.json) |
 | Phrase Craze Plus | 229804 | [229804-phrase-craze-plus.json](./229804-phrase-craze-plus.json) |
 | Phrase Frenzy - Catch It! | 108598 | [108598-phrase-frenzy-catch-it.json](./108598-phrase-frenzy-catch-it.json) |
+| Phrasefight | 106115 | [106115-phrasefight.json](./106115-phrasefight.json) |
 | Phraze Craze | 307911 | [307911-phraze-craze.json](./307911-phraze-craze.json) |
 | Phrixothrix | 245857 | [245857-phrixothrix.json](./245857-phrixothrix.json) |
 | Phucker in the Ashes | 369019 | [369019-phucker-in-the-ashes.json](./369019-phucker-in-the-ashes.json) |
@@ -4925,6 +4926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Bear Cub: games for kids | 90028 | [90028-polar-bear-cub-games-for-kids.json](./90028-polar-bear-cub-games-for-kids.json) |
 | Polar Bear Game | 234574 | [234574-polar-bear-game.json](./234574-polar-bear-game.json) |
 | Polar Bear in Space! | 250934 | [250934-polar-bear-in-space.json](./250934-polar-bear-in-space.json) |
+| Polar Bear Simulator | 106147 | [106147-polar-bear-simulator.json](./106147-polar-bear-simulator.json) |
 | Polar Bowler 1st Frame | 294452 | [294452-polar-bowler-1st-frame.json](./294452-polar-bowler-1st-frame.json) |
 | Polar Explorer Simulator | 173061 | [173061-polar-explorer-simulator.json](./173061-polar-explorer-simulator.json) |
 | Polar Panic | 21768 | [21768-polar-panic.json](./21768-polar-panic.json) |
