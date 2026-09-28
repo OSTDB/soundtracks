@@ -2024,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instant Sports Winter Games | 163828 | [163828-instant-sports-winter-games.json](./163828-instant-sports-winter-games.json) |
 | Instant Sports: All-Stars | 195094 | [195094-instant-sports-all-stars.json](./195094-instant-sports-all-stars.json) |
 | Instant Tennis | 108255 | [108255-instant-tennis.json](./108255-instant-tennis.json) |
+| Instant War | 116425 | [116425-instant-war.json](./116425-instant-war.json) |
 | Instants | 313808 | [313808-instants.json](./313808-instants.json) |
 | Instarion | 260972 | [260972-instarion.json](./260972-instarion.json) |
 | InstaTok Tycoon | 301837 | [301837-instatok-tycoon.json](./301837-instatok-tycoon.json) |
