@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Face of the Killer | 289410 | [289410-face-of-the-killer.json](./289410-face-of-the-killer.json) |
 | Face The Abyss | 340049 | [340049-face-the-abyss.json](./340049-face-the-abyss.json) |
 | Face Wound | 64132 | [64132-face-wound.json](./64132-face-wound.json) |
+| Face Your Faces | 72763 | [72763-face-your-faces.json](./72763-face-your-faces.json) |
 | Face-Off | 84180 | [84180-face-off.json](./84180-face-off.json) |
 | Faceball 2000 | 19701 | [19701-faceball-2000.json](./19701-faceball-2000.json) |
 | Faceball 2000 | 299462 | [299462-faceball-2000.json](./299462-faceball-2000.json) |
@@ -762,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famory | 252158 | [252158-famory.json](./252158-famory.json) |
 | Famous | 91389 | [91389-famous.json](./91389-famous.json) |
 | Famous - The Road to Glory! | 47971 | [47971-famous-the-road-to-glory.json](./47971-famous-the-road-to-glory.json) |
+| Famous Courses of the World: Vol. II | 71560 | [71560-famous-courses-of-the-world-vol-ii.json](./71560-famous-courses-of-the-world-vol-ii.json) |
 | Famousity Game | 98398 | [98398-famousity-game.json](./98398-famousity-game.json) |
 | Famulus | 326728 | [326728-famulus.json](./326728-famulus.json) |
 | Fan Fun 3D | 99985 | [99985-fan-fun-3d.json](./99985-fan-fun-3d.json) |
@@ -2112,6 +2114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Blockade | 203567 | [203567-final-blockade.json](./203567-final-blockade.json) |
 | Final Blow | 12098 | [12098-final-blow.json](./12098-final-blow.json) |
 | Final Bravely | 29899 | [29899-final-bravely.json](./29899-final-bravely.json) |
+| Final Command | 71586 | [71586-final-command.json](./71586-final-command.json) |
 | Final Conflict | 209429 | [209429-final-conflict.json](./209429-final-conflict.json) |
 | Final Crisis: Terrestrial Defense Police | 141644 | [141644-final-crisis-terrestrial-defense-police.json](./141644-final-crisis-terrestrial-defense-police.json) |
 | Final Cut: Death on the Silver Screen | 98383 | [98383-final-cut-death-on-the-silver-screen.json](./98383-final-cut-death-on-the-silver-screen.json) |
@@ -2616,6 +2619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefighters 2014 | 17208 | [17208-firefighters-2014.json](./17208-firefighters-2014.json) |
 | Firefighters Code Red | 410889 | [410889-firefighters-code-red.json](./410889-firefighters-code-red.json) |
 | Firefighters Simulator 2026 | 393626 | [393626-firefighters-simulator-2026.json](./393626-firefighters-simulator-2026.json) |
+| Firefighters: Airport Fire Department | 71591 | [71591-firefighters-airport-fire-department.json](./71591-firefighters-airport-fire-department.json) |
 | Firefighters: The Simulation | 32042 | [32042-firefighters-the-simulation.json](./32042-firefighters-the-simulation.json) |
 | Firefighters: The Simulation - Platinum Edition | 146129 | [146129-firefighters-the-simulation-platinum-edition.json](./146129-firefighters-the-simulation-platinum-edition.json) |
 | Firefighting Rescue Simulator | 359988 | [359988-firefighting-rescue-simulator.json](./359988-firefighting-rescue-simulator.json) |
@@ -3104,6 +3108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIXKIN: A Long Way Home (at the End of the World) | 380104 | [380104-fixkin-a-long-way-home-at-the-end-of-the-world.json](./380104-fixkin-a-long-way-home-at-the-end-of-the-world.json) |
 | Fizik | 163747 | [163747-fizik.json](./163747-fizik.json) |
 | Fizz Quiz | 318058 | [318058-fizz-quiz.json](./318058-fizz-quiz.json) |
+| FizzBall | 71564 | [71564-fizzball.json](./71564-fizzball.json) |
 | Fizzburg | 413878 | [413878-fizzburg.json](./413878-fizzburg.json) |
 | Fizzy Factory | 262070 | [262070-fizzy-factory.json](./262070-fizzy-factory.json) |
 | Fjord battle racing | 50523 | [50523-fjord-battle-racing.json](./50523-fjord-battle-racing.json) |
@@ -5548,6 +5553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Machine | 315276 | [315276-fruit-machine.json](./315276-fruit-machine.json) |
 | Fruit Machine Mania | 97369 | [97369-fruit-machine-mania.json](./97369-fruit-machine-mania.json) |
 | Fruit Machine Simulator | 72639 | [72639-fruit-machine-simulator.json](./72639-fruit-machine-simulator.json) |
+| Fruit Machine Simulator 2 | 72607 | [72607-fruit-machine-simulator-2.json](./72607-fruit-machine-simulator-2.json) |
 | Fruit Mart Simulator | 349325 | [349325-fruit-mart-simulator.json](./349325-fruit-mart-simulator.json) |
 | Fruit Merge | 322806 | [322806-fruit-merge.json](./322806-fruit-merge.json) |
 | Fruit Mountain Party | 334302 | [334302-fruit-mountain-party.json](./334302-fruit-mountain-party.json) |
@@ -5731,6 +5737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Home | 374298 | [374298-fun-home.json](./374298-fun-home.json) |
 | Fun Infused Arcade | 260178 | [260178-fun-infused-arcade.json](./260178-fun-infused-arcade.json) |
 | Fun Kid Racing Magic Forest | 175720 | [175720-fun-kid-racing-magic-forest.json](./175720-fun-kid-racing-magic-forest.json) |
+| Fun on the Farm with Barney | 71608 | [71608-fun-on-the-farm-with-barney.json](./71608-fun-on-the-farm-with-barney.json) |
 | Fun Pack | 319790 | [319790-fun-pack.json](./319790-fun-pack.json) |
 | Fun Park Simulator | 394165 | [394165-fun-park-simulator.json](./394165-fun-park-simulator.json) |
 | Fun Quest | 195702 | [195702-fun-quest.json](./195702-fun-quest.json) |
