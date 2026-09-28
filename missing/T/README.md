@@ -250,8 +250,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin 13 | 294220 | [294220-taiko-no-tatsujin-13.json](./294220-taiko-no-tatsujin-13.json) |
 | Taiko no Tatsujin Arcade | 85872 | [85872-taiko-no-tatsujin-arcade.json](./85872-taiko-no-tatsujin-arcade.json) |
 | Taiko no Tatsujin Portable DX | 78348 | [78348-taiko-no-tatsujin-portable-dx.json](./78348-taiko-no-tatsujin-portable-dx.json) |
+| Taiko no Tatsujin Wii: Ketteiban | 60040 | [60040-taiko-no-tatsujin-wii-ketteiban.json](./60040-taiko-no-tatsujin-wii-ketteiban.json) |
 | Taiko no Tatsujin: Appare Sandaime | 123432 | [123432-taiko-no-tatsujin-appare-sandaime.json](./123432-taiko-no-tatsujin-appare-sandaime.json) |
 | Taiko no Tatsujin: Atsumare! Matsuri da!! Yondaime | 123415 | [123415-taiko-no-tatsujin-atsumare-matsuri-da-yondaime.json](./123415-taiko-no-tatsujin-atsumare-matsuri-da-yondaime.json) |
+| Taiko no Tatsujin: Atsumete - Tomodachi Daisakusen! | 59914 | [59914-taiko-no-tatsujin-atsumete-tomodachi-daisakusen.json](./59914-taiko-no-tatsujin-atsumete-tomodachi-daisakusen.json) |
 | Taiko no Tatsujin: Chibi Dragon to Fushigi na Orb | 63850 | [63850-taiko-no-tatsujin-chibi-dragon-to-fushigi-na-orb.json](./63850-taiko-no-tatsujin-chibi-dragon-to-fushigi-na-orb.json) |
 | Taiko no Tatsujin: Chougoukaban | 63848 | [63848-taiko-no-tatsujin-chougoukaban.json](./63848-taiko-no-tatsujin-chougoukaban.json) |
 | Taiko no Tatsujin: Doka! to Oomori Nanadaime | 123418 | [123418-taiko-no-tatsujin-doka-to-oomori-nanadaime.json](./123418-taiko-no-tatsujin-doka-to-oomori-nanadaime.json) |
@@ -876,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Army Battle Simulator | 102734 | [102734-tank-army-battle-simulator.json](./102734-tank-army-battle-simulator.json) |
 | Tank Army: Fast Fingers Shmup | 175366 | [175366-tank-army-fast-fingers-shmup.json](./175366-tank-army-fast-fingers-shmup.json) |
 | Tank Attack | 273913 | [273913-tank-attack.json](./273913-tank-attack.json) |
+| Tank Attack | 60037 | [60037-tank-attack.json](./60037-tank-attack.json) |
 | Tank Ball | 95174 | [95174-tank-ball.json](./95174-tank-ball.json) |
 | Tank Battle | 130258 | [130258-tank-battle.json](./130258-tank-battle.json) |
 | Tank Battle | 146765 | [146765-tank-battle.json](./146765-tank-battle.json) |
@@ -1116,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapeworm Disco Puzzle | 153952 | [153952-tapeworm-disco-puzzle.json](./153952-tapeworm-disco-puzzle.json) |
 | TapGame - Knife Up | 101088 | [101088-tapgame-knife-up.json](./101088-tapgame-knife-up.json) |
 | Tapgym | 261515 | [261515-tapgym.json](./261515-tapgym.json) |
+| Taphouse VR | 59865 | [59865-taphouse-vr.json](./59865-taphouse-vr.json) |
 | Tapioka Panic | 259829 | [259829-tapioka-panic.json](./259829-tapioka-panic.json) |
 | TapLab | 233088 | [233088-taplab.json](./233088-taplab.json) |
 | Tapocalypse | 30141 | [30141-tapocalypse.json](./30141-tapocalypse.json) |
@@ -1829,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenka Touitsu SSB: Scenario - Ryuuko Aiutsu | 283849 | [283849-tenka-touitsu-ssb-scenario-ryuuko-aiutsu.json](./283849-tenka-touitsu-ssb-scenario-ryuuko-aiutsu.json) |
 | Tenka Touitsu: SSB | 278496 | [278496-tenka-touitsu-ssb.json](./278496-tenka-touitsu-ssb.json) |
 | Tenko's Magical Sword Quest | 194991 | [194991-tenkos-magical-sword-quest.json](./194991-tenkos-magical-sword-quest.json) |
+| Tenkomori Shooting | 59909 | [59909-tenkomori-shooting.json](./59909-tenkomori-shooting.json) |
 | Tenkyu | 93737 | [93737-tenkyu.json](./93737-tenkyu.json) |
 | TenMinions | 113904 | [113904-tenminions.json](./113904-tenminions.json) |
 | Tennis | 131451 | [131451-tennis.json](./131451-tennis.json) |
@@ -3112,6 +3117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Captive | 362814 | [362814-the-captive.json](./362814-the-captive.json) |
 | The Captives: Plot of the Demiurge | 90137 | [90137-the-captives-plot-of-the-demiurge.json](./90137-the-captives-plot-of-the-demiurge.json) |
 | The Capybara P | 219049 | [219049-the-capybara-p.json](./219049-the-capybara-p.json) |
+| The Card Stars: Cribbage / Solitaire | 59883 | [59883-the-card-stars-cribbage-solitaire.json](./59883-the-card-stars-cribbage-solitaire.json) |
 | THE Card: Poker, Texas hold 'em, Blackjack and Page One | 109491 | [109491-the-card-poker-texas-hold-em-blackjack-and-page-one.json](./109491-the-card-poker-texas-hold-em-blackjack-and-page-one.json) |
 | The Carnival Of Company | 293632 | [293632-the-carnival-of-company.json](./293632-the-carnival-of-company.json) |
 | The Cartographer's Tale | 103509 | [103509-the-cartographers-tale.json](./103509-the-cartographers-tale.json) |
@@ -4844,6 +4850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Shiny Colors | 97876 | [97876-the-idolmaster-shiny-colors.json](./97876-the-idolmaster-shiny-colors.json) |
 | The Idolmaster: Shiny Colors - Song for Prism | 248115 | [248115-the-idolmaster-shiny-colors-song-for-prism.json](./248115-the-idolmaster-shiny-colors-song-for-prism.json) |
 | The Idolmaster: Shiny Colors - With Open() | 413755 | [413755-the-idolmaster-shiny-colors-with-open.json](./413755-the-idolmaster-shiny-colors-with-open.json) |
+| The Idolmaster: Shiny Festa - Melodic Disc | 60081 | [60081-the-idolmaster-shiny-festa-melodic-disc.json](./60081-the-idolmaster-shiny-festa-melodic-disc.json) |
 | The Idolmaster: Stella Stage | 68288 | [68288-the-idolmaster-stella-stage.json](./68288-the-idolmaster-stella-stage.json) |
 | The Ignition Factor | 42607 | [42607-the-ignition-factor.json](./42607-the-ignition-factor.json) |
 | The IL Tempo Game | 83601 | [83601-the-il-tempo-game.json](./83601-the-il-tempo-game.json) |
@@ -5545,6 +5552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Sword and Fairy 5 | 57033 | [57033-the-legend-of-sword-and-fairy-5.json](./57033-the-legend-of-sword-and-fairy-5.json) |
 | The Legend of Sword and Fairy 6 | 57034 | [57034-the-legend-of-sword-and-fairy-6.json](./57034-the-legend-of-sword-and-fairy-6.json) |
 | The Legend of Sword and Fairy 7: Dreamlike World | 235192 | [235192-the-legend-of-sword-and-fairy-7-dreamlike-world.json](./235192-the-legend-of-sword-and-fairy-7-dreamlike-world.json) |
+| The Legend of The Artifact | 59847 | [59847-the-legend-of-the-artifact.json](./59847-the-legend-of-the-artifact.json) |
 | The Legend of the Astera Stone | 300020 | [300020-the-legend-of-the-astera-stone.json](./300020-the-legend-of-the-astera-stone.json) |
 | The Legend of The Duck Knite | 117507 | [117507-the-legend-of-the-duck-knite.json](./117507-the-legend-of-the-duck-knite.json) |
 | The Legend of the Radient Mask | 135094 | [135094-the-legend-of-the-radient-mask.json](./135094-the-legend-of-the-radient-mask.json) |
@@ -6730,6 +6738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest: Macha's Curse | 90810 | [90810-the-quest-machas-curse.json](./90810-the-quest-machas-curse.json) |
 | The Question | 170529 | [170529-the-question.json](./170529-the-question.json) |
 | The Question's Quest of Sin | 322370 | [322370-the-questions-quest-of-sin.json](./322370-the-questions-quest-of-sin.json) |
+| The Quiet Collection | 59887 | [59887-the-quiet-collection.json](./59887-the-quiet-collection.json) |
 | The Quiet Days of Dorothy | 391324 | [391324-the-quiet-days-of-dorothy.json](./391324-the-quiet-days-of-dorothy.json) |
 | The Quiet Lonely House | 186264 | [186264-the-quiet-lonely-house.json](./186264-the-quiet-lonely-house.json) |
 | The Quiet Sleep | 72385 | [72385-the-quiet-sleep.json](./72385-the-quiet-sleep.json) |
@@ -8136,6 +8145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Untouchables | 12807 | [12807-the-untouchables.json](./12807-the-untouchables.json) |
 | The Unwoven Unicorn | 410367 | [410367-the-unwoven-unicorn.json](./410367-the-unwoven-unicorn.json) |
 | The Ur-Quan Masters | 46575 | [46575-the-ur-quan-masters.json](./46575-the-ur-quan-masters.json) |
+| The Urinal Game | 60050 | [60050-the-urinal-game.json](./60050-the-urinal-game.json) |
 | The USB Stick Found in the Grass | 169467 | [169467-the-usb-stick-found-in-the-grass.json](./169467-the-usb-stick-found-in-the-grass.json) |
 | The Useful Dead | 62830 | [62830-the-useful-dead.json](./62830-the-useful-dead.json) |
 | The V Anomaly | 390539 | [390539-the-v-anomaly.json](./390539-the-v-anomaly.json) |
@@ -10376,6 +10386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tin Star | 104677 | [104677-tin-star.json](./104677-tin-star.json) |
 | Tin Tandem | 152396 | [152396-tin-tandem.json](./152396-tin-tandem.json) |
 | Tin-Heart: The Game | 104243 | [104243-tin-heart-the-game.json](./104243-tin-heart-the-game.json) |
+| Tina's Toy Factory | 59900 | [59900-tinas-toy-factory.json](./59900-tinas-toy-factory.json) |
 | Tinboy | 34507 | [34507-tinboy.json](./34507-tinboy.json) |
 | Tincan | 333076 | [333076-tincan.json](./333076-tincan.json) |
 | Tincan HD | 333079 | [333079-tincan-hd.json](./333079-tincan-hd.json) |
@@ -11935,6 +11946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Tower Defense Aigisyu | 204558 | [204558-touhou-tower-defense-aigisyu.json](./204558-touhou-tower-defense-aigisyu.json) |
 | Touhou Tower Defense Aigisyu: Complete Edition | 204559 | [204559-touhou-tower-defense-aigisyu-complete-edition.json](./204559-touhou-tower-defense-aigisyu-complete-edition.json) |
 | Touhou Traveler | 234578 | [234578-touhou-traveler.json](./234578-touhou-traveler.json) |
+| Touhou Unreal Mahjong | 59894 | [59894-touhou-unreal-mahjong.json](./59894-touhou-unreal-mahjong.json) |
 | Touhou Volleyball | 351605 | [351605-touhou-volleyball.json](./351605-touhou-volleyball.json) |
 | Touhou Witch's Night Market | 380424 | [380424-touhou-witchs-night-market.json](./380424-touhou-witchs-night-market.json) |
 | Touhou: Blossom Blade | 380520 | [380520-touhou-blossom-blade.json](./380520-touhou-blossom-blade.json) |
@@ -13409,6 +13421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Hunter | 250307 | [250307-treasure-hunter.json](./250307-treasure-hunter.json) |
 | Treasure Hunter | 309493 | [309493-treasure-hunter.json](./309493-treasure-hunter.json) |
 | Treasure Hunter | 327577 | [327577-treasure-hunter.json](./327577-treasure-hunter.json) |
+| Treasure Hunter | 60042 | [60042-treasure-hunter.json](./60042-treasure-hunter.json) |
 | Treasure Hunter | 76627 | [76627-treasure-hunter.json](./76627-treasure-hunter.json) |
 | Treasure Hunter Simulator 2 | 153995 | [153995-treasure-hunter-simulator-2.json](./153995-treasure-hunter-simulator-2.json) |
 | Treasure Hunter X | 85522 | [85522-treasure-hunter-x.json](./85522-treasure-hunter-x.json) |
