@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Baseball '97 | 317717 | [317717-backyard-baseball-97.json](./317717-backyard-baseball-97.json) |
 | Backyard Basketball | 69242 | [69242-backyard-basketball.json](./69242-backyard-basketball.json) |
 | Backyard Basketball ‘01 | 377818 | [377818-backyard-basketball-01.json](./377818-backyard-basketball-01.json) |
+| Backyard Battles | 62812 | [62812-backyard-battles.json](./62812-backyard-battles.json) |
 | Backyard Bounce | 20720 | [20720-backyard-bounce.json](./20720-backyard-bounce.json) |
 | Backyard Boxing | 329668 | [329668-backyard-boxing.json](./329668-backyard-boxing.json) |
 | Backyard Digger | 346673 | [346673-backyard-digger.json](./346673-backyard-digger.json) |
@@ -2202,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear's Restaurant | 151754 | [151754-bears-restaurant.json](./151754-bears-restaurant.json) |
 | Bearable - Return to Candyland | 232391 | [232391-bearable-return-to-candyland.json](./232391-bearable-return-to-candyland.json) |
 | Bearable Nightmares | 148893 | [148893-bearable-nightmares.json](./148893-bearable-nightmares.json) |
+| Bearbarians | 62809 | [62809-bearbarians.json](./62809-bearbarians.json) |
 | Bearcycle | 197125 | [197125-bearcycle.json](./197125-bearcycle.json) |
 | Bearded Dragons | 133475 | [133475-bearded-dragons.json](./133475-bearded-dragons.json) |
 | Beards vs. Claws | 399695 | [399695-beards-vs-claws.json](./399695-beards-vs-claws.json) |
@@ -7275,6 +7277,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build-A-Bear Workshop: Bear Valley | 104593 | [104593-build-a-bear-workshop-bear-valley.json](./104593-build-a-bear-workshop-bear-valley.json) |
 | Build-A-Bearville | 214613 | [214613-build-a-bearville.json](./214613-build-a-bearville.json) |
 | Build-A-Delivery | 257337 | [257337-build-a-delivery.json](./257337-build-a-delivery.json) |
+| Build-A-Lot: Fairy Tales | 62821 | [62821-build-a-lot-fairy-tales.json](./62821-build-a-lot-fairy-tales.json) |
+| Build-A-Lot: Mysteries | 62820 | [62820-build-a-lot-mysteries.json](./62820-build-a-lot-mysteries.json) |
 | Buildanauts | 34638 | [34638-buildanauts.json](./34638-buildanauts.json) |
 | BuildCraft | 232655 | [232655-buildcraft.json](./232655-buildcraft.json) |
 | Builder Flipper Bundle | 276307 | [276307-builder-flipper-bundle.json](./276307-builder-flipper-bundle.json) |
@@ -7752,6 +7756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bustafellows | 114536 | [114536-bustafellows.json](./114536-bustafellows.json) |
 | Bustafellows: Collector's Edition | 147251 | [147251-bustafellows-collectors-edition.json](./147251-bustafellows-collectors-edition.json) |
 | Busted Brakes | 101750 | [101750-busted-brakes.json](./101750-busted-brakes.json) |
+| Buster | 62831 | [62831-buster.json](./62831-buster.json) |
 | Buster Baxter: Lung Defender | 305863 | [305863-buster-baxter-lung-defender.json](./305863-buster-baxter-lung-defender.json) |
 | Buster Block | 47552 | [47552-buster-block.json](./47552-buster-block.json) |
 | Buster Bros. | 6823 | [6823-buster-bros.json](./6823-buster-bros.json) |
