@@ -699,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare Goemon 2: Kiteretsu Shogun McGuiness | 42413 | [42413-ganbare-goemon-2-kiteretsu-shogun-mcguiness.json](./42413-ganbare-goemon-2-kiteretsu-shogun-mcguiness.json) |
 | Ganbare Goemon Gaiden 2: Tenka no Zaihou | 48612 | [48612-ganbare-goemon-gaiden-2-tenka-no-zaihou.json](./48612-ganbare-goemon-gaiden-2-tenka-no-zaihou.json) |
 | Ganbare Goemon Gaiden: Kieta Ougon Kiseru | 48613 | [48613-ganbare-goemon-gaiden-kieta-ougon-kiseru.json](./48613-ganbare-goemon-gaiden-kieta-ougon-kiseru.json) |
+| Ganbare Goemon: Kuru Nara Koi! - Ayashi Geikka no Kuroi Kage | 68750 | [68750-ganbare-goemon-kuru-nara-koi-ayashi-geikka-no-kuroi-kage.json](./68750-ganbare-goemon-kuru-nara-koi-ayashi-geikka-no-kuroi-kage.json) |
 | Ganbare Goemon: Mononoke Douchuu Tobidase Nabe-Bugyou! | 129173 | [129173-ganbare-goemon-mononoke-douchuu-tobidase-nabe-bugyou.json](./129173-ganbare-goemon-mononoke-douchuu-tobidase-nabe-bugyou.json) |
 | Ganbare Goemon: Tengu-tou no Gyakushuu! | 129172 | [129172-ganbare-goemon-tengu-tou-no-gyakushuu.json](./129172-ganbare-goemon-tengu-tou-no-gyakushuu.json) |
 | Ganbare Goemon: Toukai Douchuu Ooedo Tengurigaeshi no Maki | 73299 | [73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json](./73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json) |
@@ -1642,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Ninja | 289447 | [289447-ghost-ninja.json](./289447-ghost-ninja.json) |
 | Ghost Observation | 395047 | [395047-ghost-observation.json](./395047-ghost-observation.json) |
 | Ghost of a Tale | 7684 | [7684-ghost-of-a-tale.json](./7684-ghost-of-a-tale.json) |
+| Ghost of the Fireflies | 68729 | [68729-ghost-of-the-fireflies.json](./68729-ghost-of-the-fireflies.json) |
 | Ghost of Tokyo | 406790 | [406790-ghost-of-tokyo.json](./406790-ghost-of-tokyo.json) |
 | Ghost of Tomorrow: Chapter 1 | 168861 | [168861-ghost-of-tomorrow-chapter-1.json](./168861-ghost-of-tomorrow-chapter-1.json) |
 | Ghost of Viyk | 295846 | [295846-ghost-of-viyk.json](./295846-ghost-of-viyk.json) |
@@ -2951,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Company | 107754 | [107754-good-company.json](./107754-good-company.json) |
 | Good Doggo | 99627 | [99627-good-doggo.json](./99627-good-doggo.json) |
 | Good Dreams | 381132 | [381132-good-dreams.json](./381132-good-dreams.json) |
+| Good Eggzample | 68749 | [68749-good-eggzample.json](./68749-good-eggzample.json) |
 | Good Folk Cafe | 394821 | [394821-good-folk-cafe.json](./394821-good-folk-cafe.json) |
 | Good for Nothing | 365865 | [365865-good-for-nothing.json](./365865-good-for-nothing.json) |
 | Good Fruit | 264110 | [264110-good-fruit.json](./264110-good-fruit.json) |
@@ -3708,6 +3711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Bishi Bashi Champ | 321128 | [321128-great-bishi-bashi-champ.json](./321128-great-bishi-bashi-champ.json) |
 | Great Conqueror: Rome | 146681 | [146681-great-conqueror-rome.json](./146681-great-conqueror-rome.json) |
 | Great Deal | 267653 | [267653-great-deal.json](./267653-great-deal.json) |
+| Great Eggzample | 68751 | [68751-great-eggzample.json](./68751-great-eggzample.json) |
 | Great Game 1/5 | 294439 | [294439-great-game-1-5.json](./294439-great-game-1-5.json) |
 | Great Gold Bird, Great Dark Yawn | 223671 | [223671-great-gold-bird-great-dark-yawn.json](./223671-great-gold-bird-great-dark-yawn.json) |
 | Great Golf | 81277 | [81277-great-golf.json](./81277-great-golf.json) |
