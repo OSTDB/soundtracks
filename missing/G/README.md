@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden of Aiden | 295843 | [295843-garden-of-aiden.json](./295843-garden-of-aiden.json) |
 | Garden of Butterflies | 353283 | [353283-garden-of-butterflies.json](./353283-garden-of-butterflies.json) |
 | Garden of Coloured Lights | 107235 | [107235-garden-of-coloured-lights.json](./107235-garden-of-coloured-lights.json) |
+| Garden of Fear | 116451 | [116451-garden-of-fear.json](./116451-garden-of-fear.json) |
 | Garden of Mooj | 118061 | [118061-garden-of-mooj.json](./118061-garden-of-mooj.json) |
 | Garden of Pets | 233004 | [233004-garden-of-pets.json](./233004-garden-of-pets.json) |
 | Garden of Seif: Chronicles of an Assassin | 195081 | [195081-garden-of-seif-chronicles-of-an-assassin.json](./195081-garden-of-seif-chronicles-of-an-assassin.json) |
@@ -3183,6 +3184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grampage: Life at 67 | 415315 | [415315-grampage-life-at-67.json](./415315-grampage-life-at-67.json) |
 | Gran Carismo | 277008 | [277008-gran-carismo.json](./277008-gran-carismo.json) |
 | Gran Empire | 149443 | [149443-gran-empire.json](./149443-gran-empire.json) |
+| Gran Tower: Wild Knights with Crazy Witches | 116460 | [116460-gran-tower-wild-knights-with-crazy-witches.json](./116460-gran-tower-wild-knights-with-crazy-witches.json) |
 | Gran Trak 10 | 7429 | [7429-gran-trak-10.json](./7429-gran-trak-10.json) |
 | Gran Trak 20 | 174658 | [174658-gran-trak-20.json](./174658-gran-trak-20.json) |
 | Gran Turismo 2 | 1597 | [1597-gran-turismo-2.json](./1597-gran-turismo-2.json) |
