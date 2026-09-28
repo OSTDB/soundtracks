@@ -3451,6 +3451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crystal Rainforest | 151716 | [151716-the-crystal-rainforest.json](./151716-the-crystal-rainforest.json) |
 | The Crystal Skull | 69558 | [69558-the-crystal-skull.json](./69558-the-crystal-skull.json) |
 | The Crystals of Atlantis | 96282 | [96282-the-crystals-of-atlantis.json](./96282-the-crystals-of-atlantis.json) |
+| The Cube | 61686 | [61686-the-cube.json](./61686-the-cube.json) |
 | The Cube Factory | 147365 | [147365-the-cube-factory.json](./147365-the-cube-factory.json) |
 | The Cubedex of Boxes and Lines | 158659 | [158659-the-cubedex-of-boxes-and-lines.json](./158659-the-cubedex-of-boxes-and-lines.json) |
 | The Cubicle. | 33273 | [33273-the-cubicle.json](./33273-the-cubicle.json) |
@@ -3800,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dreambox | 150103 | [150103-the-dreambox.json](./150103-the-dreambox.json) |
 | The Dreamers Foresight | 313479 | [313479-the-dreamers-foresight.json](./313479-the-dreamers-foresight.json) |
 | The Dreaming City Chronicles: Quest for the Vanished World | 406302 | [406302-the-dreaming-city-chronicles-quest-for-the-vanished-world.json](./406302-the-dreaming-city-chronicles-quest-for-the-vanished-world.json) |
+| The Dreamland Chronicles | 61734 | [61734-the-dreamland-chronicles.json](./61734-the-dreamland-chronicles.json) |
 | The Dreamlands: Aisling's Quest | 93762 | [93762-the-dreamlands-aislings-quest.json](./93762-the-dreamlands-aislings-quest.json) |
 | The Dreams in the Peacock House | 400888 | [400888-the-dreams-in-the-peacock-house.json](./400888-the-dreams-in-the-peacock-house.json) |
 | The Dreamwalkers | 127221 | [127221-the-dreamwalkers.json](./127221-the-dreamwalkers.json) |
@@ -6232,6 +6234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of the Planet Venus | 307619 | [307619-the-mystery-of-the-planet-venus.json](./307619-the-mystery-of-the-planet-venus.json) |
 | The Mystery of the Village's Sacred Tree | 273662 | [273662-the-mystery-of-the-villages-sacred-tree.json](./273662-the-mystery-of-the-villages-sacred-tree.json) |
 | The Mystery of the Wicked Village | 65446 | [65446-the-mystery-of-the-wicked-village.json](./65446-the-mystery-of-the-wicked-village.json) |
+| The Mystery of Westington Manor | 61723 | [61723-the-mystery-of-westington-manor.json](./61723-the-mystery-of-westington-manor.json) |
 | The Mystery of Whiterock Castle | 67229 | [67229-the-mystery-of-whiterock-castle.json](./67229-the-mystery-of-whiterock-castle.json) |
 | The Mystery of Woolley Mountain | 52011 | [52011-the-mystery-of-woolley-mountain.json](./52011-the-mystery-of-woolley-mountain.json) |
 | The Mystery Workshop | 104457 | [104457-the-mystery-workshop.json](./104457-the-mystery-workshop.json) |
@@ -10487,6 +10490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Poker | 150603 | [150603-tiny-poker.json](./150603-tiny-poker.json) |
 | Tiny Racing | 101963 | [101963-tiny-racing.json](./101963-tiny-racing.json) |
 | Tiny Ramen Shop | 411843 | [411843-tiny-ramen-shop.json](./411843-tiny-ramen-shop.json) |
+| Tiny Realms | 61720 | [61720-tiny-realms.json](./61720-tiny-realms.json) |
 | Tiny Ring | 257364 | [257364-tiny-ring.json](./257364-tiny-ring.json) |
 | Tiny Robots Recharged | 167830 | [167830-tiny-robots-recharged.json](./167830-tiny-robots-recharged.json) |
 | Tiny Robots: Portal Escape | 297201 | [297201-tiny-robots-portal-escape.json](./297201-tiny-robots-portal-escape.json) |
@@ -11582,6 +11586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Miner | 77339 | [77339-total-miner.json](./77339-total-miner.json) |
 | Total Overdose | 6213 | [6213-total-overdose.json](./6213-total-overdose.json) |
 | Total Pinball 25: 3D Tables | 206745 | [206745-total-pinball-25-3d-tables.json](./206745-total-pinball-25-3d-tables.json) |
+| Total Pro Football | 61738 | [61738-total-pro-football.json](./61738-total-pro-football.json) |
 | Total Recall Mobile | 86194 | [86194-total-recall-mobile.json](./86194-total-recall-mobile.json) |
 | Total Reload | 248661 | [248661-total-reload.json](./248661-total-reload.json) |
 | Total Rendition | 172522 | [172522-total-rendition.json](./172522-total-rendition.json) |
@@ -11983,6 +11988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tousui Kitan | 97698 | [97698-tousui-kitan.json](./97698-tousui-kitan.json) |
 | Tout Savoir: CM1 | 147346 | [147346-tout-savoir-cm1.json](./147346-tout-savoir-cm1.json) |
 | Tout Savoir: CM2 | 124105 | [124105-tout-savoir-cm2.json](./124105-tout-savoir-cm2.json) |
+| Touzoku to 1000-biki no Pokémon | 61693 | [61693-touzoku-to-1000-biki-no-pokemon.json](./61693-touzoku-to-1000-biki-no-pokemon.json) |
 | Tover | 24994 | [24994-tover.json](./24994-tover.json) |
 | Toverblade | 145473 | [145473-toverblade.json](./145473-toverblade.json) |
 | Tow Game | 348347 | [348347-tow-game.json](./348347-tow-game.json) |
