@@ -5757,6 +5757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bot Crafter | 253584 | [253584-bot-crafter.json](./253584-bot-crafter.json) |
 | Bot Hunt | 293110 | [293110-bot-hunt.json](./293110-bot-hunt.json) |
 | Bot Hunter | 330147 | [330147-bot-hunter.json](./330147-bot-hunter.json) |
+| Bot Land | 77405 | [77405-bot-land.json](./77405-bot-land.json) |
 | Bot Patrol | 291040 | [291040-bot-patrol.json](./291040-bot-patrol.json) |
 | Bot Slash Bot | 361871 | [361871-bot-slash-bot.json](./361871-bot-slash-bot.json) |
 | Bot Tales: The Crashed | 104048 | [104048-bot-tales-the-crashed.json](./104048-bot-tales-the-crashed.json) |
