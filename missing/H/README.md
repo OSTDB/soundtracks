@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hajikise! | 265155 | [265155-hajikise.json](./265155-hajikise.json) |
 | HajiLove: Making Lovers - Limited Edition | 207915 | [207915-hajilove-making-lovers-limited-edition.json](./207915-hajilove-making-lovers-limited-edition.json) |
 | Hajimeru Sekai no Risouron: Goodbye World Index | 337092 | [337092-hajimeru-sekai-no-risouron-goodbye-world-index.json](./337092-hajimeru-sekai-no-risouron-goodbye-world-index.json) |
+| Hajwala | 105506 | [105506-hajwala.json](./105506-hajwala.json) |
 | Hajwala Desert | 332819 | [332819-hajwala-desert.json](./332819-hajwala-desert.json) |
 | Hajwala Drift X | 374677 | [374677-hajwala-drift-x.json](./374677-hajwala-drift-x.json) |
 | Hajwala Of Riyadh | 366215 | [366215-hajwala-of-riyadh.json](./366215-hajwala-of-riyadh.json) |
@@ -2759,6 +2760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexguardian | 253372 | [253372-hexguardian.json](./253372-hexguardian.json) |
 | Hexia | 145436 | [145436-hexia.json](./145436-hexia.json) |
 | Hexia | 319023 | [319023-hexia.json](./319023-hexia.json) |
+| Hexile | 105544 | [105544-hexile.json](./105544-hexile.json) |
 | Hexin : Space Chess Game | 102211 | [102211-hexin-space-chess-game.json](./102211-hexin-space-chess-game.json) |
 | Hexion | 40197 | [40197-hexion.json](./40197-hexion.json) |
 | Hexion | 96216 | [96216-hexion.json](./96216-hexion.json) |
@@ -3450,6 +3452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | History Table: Lore & Quiz | 173254 | [173254-history-table-lore-and-quiz.json](./173254-history-table-lore-and-quiz.json) |
 | History Trivia: Ancient-Modern | 87236 | [87236-history-trivia-ancient-modern.json](./87236-history-trivia-ancient-modern.json) |
 | History: Great Empires - Rome | 20694 | [20694-history-great-empires-rome.json](./20694-history-great-empires-rome.json) |
+| History's Ice Road Truckers | 105530 | [105530-historys-ice-road-truckers.json](./105530-historys-ice-road-truckers.json) |
 | Hisui no Kikai | 186839 | [186839-hisui-no-kikai.json](./186839-hisui-no-kikai.json) |
 | Hit | 208059 | [208059-hit.json](./208059-hit.json) |
 | Hit | 358300 | [358300-hit.json](./358300-hit.json) |
@@ -3922,6 +3925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homesick | 11634 | [11634-homesick.json](./11634-homesick.json) |
 | Homesickened | 244991 | [244991-homesickened.json](./244991-homesickened.json) |
 | Homesickness | 344341 | [344341-homesickness.json](./344341-homesickness.json) |
+| Homestar VR | 105508 | [105508-homestar-vr.json](./105508-homestar-vr.json) |
 | Homestead Online | 337668 | [337668-homestead-online.json](./337668-homestead-online.json) |
 | Hometown Poker Hero | 54085 | [54085-hometown-poker-hero.json](./54085-hometown-poker-hero.json) |
 | Homeward | 188126 | [188126-homeward.json](./188126-homeward.json) |
