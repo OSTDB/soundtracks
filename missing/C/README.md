@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadria Item Shop | 107894 | [107894-cadria-item-shop.json](./107894-cadria-item-shop.json) |
 | Caduca | 412969 | [412969-caduca.json](./412969-caduca.json) |
 | Caduceus | 186190 | [186190-caduceus.json](./186190-caduceus.json) |
+| Cadwallon: City of Thieves | 87615 | [87615-cadwallon-city-of-thieves.json](./87615-cadwallon-city-of-thieves.json) |
 | Caelum's Crux | 389619 | [389619-caelums-crux.json](./389619-caelums-crux.json) |
 | Caesar's Palace VIP Series: BlackJack | 206699 | [206699-caesars-palace-vip-series-blackjack.json](./206699-caesars-palace-vip-series-blackjack.json) |
 | Caesar's Travels | 73307 | [73307-caesars-travels.json](./73307-caesars-travels.json) |
@@ -1145,6 +1146,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier Deck | 40566 | [40566-carrier-deck.json](./40566-carrier-deck.json) |
 | Carrier Joe 2 | 207845 | [207845-carrier-joe-2.json](./207845-carrier-joe-2.json) |
 | Carrier Landings | 87163 | [87163-carrier-landings.json](./87163-carrier-landings.json) |
+| Carrier Landings Pro | 87601 | [87601-carrier-landings-pro.json](./87601-carrier-landings-pro.json) |
+| Carrier Snake | 87609 | [87609-carrier-snake.json](./87609-carrier-snake.json) |
 | Carrier Trail | 113901 | [113901-carrier-trail.json](./113901-carrier-trail.json) |
 | Carrier Wing Ypsilon | 392439 | [392439-carrier-wing-ypsilon.json](./392439-carrier-wing-ypsilon.json) |
 | Carriers at War | 71213 | [71213-carriers-at-war.json](./71213-carriers-at-war.json) |
@@ -3338,6 +3341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chris's Classroom | 400904 | [400904-chriss-classroom.json](./400904-chriss-classroom.json) |
 | Christa & Tonyo | 352857 | [352857-christa-and-tonyo.json](./352857-christa-and-tonyo.json) |
 | Christian Matchups | 95423 | [95423-christian-matchups.json](./95423-christian-matchups.json) |
+| Christmas - Color Your Puzzle and Paint for Kids | 87617 | [87617-christmas-color-your-puzzle-and-paint-for-kids.json](./87617-christmas-color-your-puzzle-and-paint-for-kids.json) |
 | Christmas Across America | 417584 | [417584-christmas-across-america.json](./417584-christmas-across-america.json) |
 | Christmas Adventure: Candy Storm | 33159 | [33159-christmas-adventure-candy-storm.json](./33159-christmas-adventure-candy-storm.json) |
 | Christmas Adventures: A Winter Night's Dream | 163921 | [163921-christmas-adventures-a-winter-nights-dream.json](./163921-christmas-adventures-a-winter-nights-dream.json) |
@@ -6565,6 +6569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy Gold Round-Up | 103867 | [103867-cowboy-gold-round-up.json](./103867-cowboy-gold-round-up.json) |
 | Cowboy Life Simulator | 123528 | [123528-cowboy-life-simulator.json](./123528-cowboy-life-simulator.json) |
 | Cowboy vs. UFOs | 57110 | [57110-cowboy-vs-ufos.json](./57110-cowboy-vs-ufos.json) |
+| Cowboy Wanted Deluxe | 87602 | [87602-cowboy-wanted-deluxe.json](./87602-cowboy-wanted-deluxe.json) |
 | Cowboy War | 237627 | [237627-cowboy-war.json](./237627-cowboy-war.json) |
 | Cowboy with a Gatling Gun | 184106 | [184106-cowboy-with-a-gatling-gun.json](./184106-cowboy-with-a-gatling-gun.json) |
 | Cowboy Yakuza | 130240 | [130240-cowboy-yakuza.json](./130240-cowboy-yakuza.json) |
