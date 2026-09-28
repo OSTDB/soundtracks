@@ -818,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu 3 | 42642 | [42642-jikkyou-pawafuru-puroyakyu-3.json](./42642-jikkyou-pawafuru-puroyakyu-3.json) |
 | Jikkyou Pawafuru Puroyakyu 5 | 3526 | [3526-jikkyou-pawafuru-puroyakyu-5.json](./3526-jikkyou-pawafuru-puroyakyu-5.json) |
 | Jikkyou Pawafuru Puroyakyu Wii | 229183 | [229183-jikkyou-pawafuru-puroyakyu-wii.json](./229183-jikkyou-pawafuru-puroyakyu-wii.json) |
+| Jikkyou Pawafuru Puroyakyu: Success Special | 98014 | [98014-jikkyou-pawafuru-puroyakyu-success-special.json](./98014-jikkyou-pawafuru-puroyakyu-success-special.json) |
 | Jikkyou World Soccer 2000: Final Edition | 168136 | [168136-jikkyou-world-soccer-2000-final-edition.json](./168136-jikkyou-world-soccer-2000-final-edition.json) |
 | Jikuu Boukenki Zentrix | 210683 | [210683-jikuu-boukenki-zentrix.json](./210683-jikuu-boukenki-zentrix.json) |
 | Jikuu Tantei DD: Maboroshi no Lorelei | 57052 | [57052-jikuu-tantei-dd-maboroshi-no-lorelei.json](./57052-jikuu-tantei-dd-maboroshi-no-lorelei.json) |
