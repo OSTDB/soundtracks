@@ -2476,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingless Fairies | 304059 | [304059-wingless-fairies.json](./304059-wingless-fairies.json) |
 | Winglet | 299172 | [299172-winglet.json](./299172-winglet.json) |
 | WingMan | 216484 | [216484-wingman.json](./216484-wingman.json) |
+| Wingman 2: Kitakura no Fukkatsu | 84335 | [84335-wingman-2-kitakura-no-fukkatsu.json](./84335-wingman-2-kitakura-no-fukkatsu.json) |
 | Wingmen | 349940 | [349940-wingmen.json](./349940-wingmen.json) |
 | Wings | 282664 | [282664-wings.json](./282664-wings.json) |
 | Wings | 5450 | [5450-wings.json](./5450-wings.json) |
