@@ -1891,6 +1891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the Neighbor | 95851 | [95851-night-of-the-neighbor.json](./95851-night-of-the-neighbor.json) |
 | Night of the Scarecrows | 119752 | [119752-night-of-the-scarecrows.json](./119752-night-of-the-scarecrows.json) |
 | Night of the Shrub Part 1 | 95188 | [95188-night-of-the-shrub-part-1.json](./95188-night-of-the-shrub-part-1.json) |
+| Night of the Shrub Part 2 | 104829 | [104829-night-of-the-shrub-part-2.json](./104829-night-of-the-shrub-part-2.json) |
 | Night of the Stars | 332395 | [332395-night-of-the-stars.json](./332395-night-of-the-stars.json) |
 | Night of the Wererat | 216986 | [216986-night-of-the-wererat.json](./216986-night-of-the-wererat.json) |
 | Night of the Wordsmith | 64985 | [64985-night-of-the-wordsmith.json](./64985-night-of-the-wordsmith.json) |
