@@ -4077,6 +4077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades of Brim | 28822 | [28822-blades-of-brim.json](./28822-blades-of-brim.json) |
 | Blades of Exile | 19579 | [19579-blades-of-exile.json](./19579-blades-of-exile.json) |
 | Blades of Fury | 23260 | [23260-blades-of-fury.json](./23260-blades-of-fury.json) |
+| Blades of Heaven | 72174 | [72174-blades-of-heaven.json](./72174-blades-of-heaven.json) |
 | Blades of Orterra | 89665 | [89665-blades-of-orterra.json](./89665-blades-of-orterra.json) |
 | Blades of Passage | 297482 | [297482-blades-of-passage.json](./297482-blades-of-passage.json) |
 | Blades of Steel | 7788 | [7788-blades-of-steel.json](./7788-blades-of-steel.json) |
@@ -7377,6 +7378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumaga | 197122 | [197122-bumaga.json](./197122-bumaga.json) |
 | Bumbi | 289426 | [289426-bumbi.json](./289426-bumbi.json) |
 | Bumble Brawlers | 330343 | [330343-bumble-brawlers.json](./330343-bumble-brawlers.json) |
+| Bumble Games | 72171 | [72171-bumble-games.json](./72171-bumble-games.json) |
 | Bumble Rumble | 346678 | [346678-bumble-rumble.json](./346678-bumble-rumble.json) |
 | Bumblebee: Storm of Friendship | 345691 | [345691-bumblebee-storm-of-friendship.json](./345691-bumblebee-storm-of-friendship.json) |
 | Bumbledore | 16348 | [16348-bumbledore.json](./16348-bumbledore.json) |
