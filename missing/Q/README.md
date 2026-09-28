@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest of Goddess | 277945 | [277945-quest-of-goddess.json](./277945-quest-of-goddess.json) |
 | Quest of Graal | 182930 | [182930-quest-of-graal.json](./182930-quest-of-graal.json) |
 | Quest of Graal DX | 192320 | [192320-quest-of-graal-dx.json](./192320-quest-of-graal-dx.json) |
+| Quest of Jackal: Puzzle game | 113882 | [113882-quest-of-jackal-puzzle-game.json](./113882-quest-of-jackal-puzzle-game.json) |
 | Quest of Legend | 334202 | [334202-quest-of-legend.json](./334202-quest-of-legend.json) |
 | Quest of the Dragon Soul | 295926 | [295926-quest-of-the-dragon-soul.json](./295926-quest-of-the-dragon-soul.json) |
 | Quest of the Hero | 348988 | [348988-quest-of-the-hero.json](./348988-quest-of-the-hero.json) |
