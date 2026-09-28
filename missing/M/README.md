@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Xiāoxiāolè | 117683 | [117683-mahjong-xiaoxiaole.json](./117683-mahjong-xiaoxiaole.json) |
 | Mahjong: Magic Casual Puzzle | 200461 | [200461-mahjong-magic-casual-puzzle.json](./200461-mahjong-magic-casual-puzzle.json) |
 | Mahjong: Wolf's Stories | 177045 | [177045-mahjong-wolfs-stories.json](./177045-mahjong-wolfs-stories.json) |
+| Mahjongg Master 3 | 93140 | [93140-mahjongg-master-3.json](./93140-mahjongg-master-3.json) |
 | Mahjongg Platinum Evolution Edition | 96762 | [96762-mahjongg-platinum-evolution-edition.json](./96762-mahjongg-platinum-evolution-edition.json) |
 | Mahjongg The Ultimate Collection 2 | 108027 | [108027-mahjongg-the-ultimate-collection-2.json](./108027-mahjongg-the-ultimate-collection-2.json) |
 | Mahjongger | 93002 | [93002-mahjongger.json](./93002-mahjongger.json) |
@@ -2742,6 +2743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazes of Karradash 2 | 175430 | [175430-mazes-of-karradash-2.json](./175430-mazes-of-karradash-2.json) |
 | Mazewar | 381593 | [381593-mazewar.json](./381593-mazewar.json) |
 | MazezaM: Puzzle Game | 147358 | [147358-mazezam-puzzle-game.json](./147358-mazezam-puzzle-game.json) |
+| Maziacs | 93136 | [93136-maziacs.json](./93136-maziacs.json) |
 | Mazin Saga: Mutant Fighter | 36947 | [36947-mazin-saga-mutant-fighter.json](./36947-mazin-saga-mutant-fighter.json) |
 | Mazinger Z | 153841 | [153841-mazinger-z.json](./153841-mazinger-z.json) |
 | Mazy | 385576 | [385576-mazy.json](./385576-mazy.json) |
@@ -4694,6 +4696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight at Blackwood Manor | 370150 | [370150-midnight-at-blackwood-manor.json](./370150-midnight-at-blackwood-manor.json) |
 | Midnight Bike | 158146 | [158146-midnight-bike.json](./158146-midnight-bike.json) |
 | Midnight Blues | 173305 | [173305-midnight-blues.json](./173305-midnight-blues.json) |
+| Midnight Building | 93172 | [93172-midnight-building.json](./93172-midnight-building.json) |
 | Midnight Calling: Jeronimo | 102792 | [102792-midnight-calling-jeronimo.json](./102792-midnight-calling-jeronimo.json) |
 | Midnight Calling: Valeria - Collector's Edition | 166059 | [166059-midnight-calling-valeria-collectors-edition.json](./166059-midnight-calling-valeria-collectors-edition.json) |
 | Midnight Calling: Wise Dragon - Collector's Edition | 221136 | [221136-midnight-calling-wise-dragon-collectors-edition.json](./221136-midnight-calling-wise-dragon-collectors-edition.json) |
@@ -8991,6 +8994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myles Wright: Ace Attorney | 303775 | [303775-myles-wright-ace-attorney.json](./303775-myles-wright-ace-attorney.json) |
 | Mylk | 146830 | [146830-mylk.json](./146830-mylk.json) |
 | Mylo uronil | 110143 | [110143-mylo-uronil.json](./110143-mylo-uronil.json) |
+| MyMan | 93150 | [93150-myman.json](./93150-myman.json) |
 | Myopia | 362445 | [362445-myopia.json](./362445-myopia.json) |
 | Myosotis | 362891 | [362891-myosotis.json](./362891-myosotis.json) |
 | MyPopgoes | 243687 | [243687-mypopgoes.json](./243687-mypopgoes.json) |
