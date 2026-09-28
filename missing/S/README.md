@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saltwater Bodies | 325645 | [325645-saltwater-bodies.json](./325645-saltwater-bodies.json) |
 | Saltwater Shells | 250642 | [250642-saltwater-shells.json](./250642-saltwater-shells.json) |
 | Salty Dogs | 401476 | [401476-salty-dogs.json](./401476-salty-dogs.json) |
+| Salty Seabird Bay | 102959 | [102959-salty-seabird-bay.json](./102959-salty-seabird-bay.json) |
 | Salty's Garbage | 406881 | [406881-saltys-garbage.json](./406881-saltys-garbage.json) |
 | Salubrious Scales | 167265 | [167265-salubrious-scales.json](./167265-salubrious-scales.json) |
 | Salvador | 241645 | [241645-salvador.json](./241645-salvador.json) |
@@ -882,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapo Xulé and the Unwanted Marriage | 259667 | [259667-sapo-xule-and-the-unwanted-marriage.json](./259667-sapo-xule-and-the-unwanted-marriage.json) |
 | Sapo Xulé: O Mestre do Kung Fu | 152305 | [152305-sapo-xule-o-mestre-do-kung-fu.json](./152305-sapo-xule-o-mestre-do-kung-fu.json) |
 | Sapo Xulé: S.O.S. Lagoa Poluída | 84282 | [84282-sapo-xule-s-o-s-lagoa-poluida.json](./84282-sapo-xule-s-o-s-lagoa-poluida.json) |
+| Sapper boom! | 102958 | [102958-sapper-boom.json](./102958-sapper-boom.json) |
 | Sapper: Defuse the Bomb Simulator | 118439 | [118439-sapper-defuse-the-bomb-simulator.json](./118439-sapper-defuse-the-bomb-simulator.json) |
 | Sapper's bad dream | 32185 | [32185-sappers-bad-dream.json](./32185-sappers-bad-dream.json) |
 | Sapphic Space | 257950 | [257950-sapphic-space.json](./257950-sapphic-space.json) |
@@ -1744,6 +1746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Giants: Monument Island | 96046 | [96046-sea-of-giants-monument-island.json](./96046-sea-of-giants-monument-island.json) |
 | Sea of Lies: Burning Coast | 98434 | [98434-sea-of-lies-burning-coast.json](./98434-sea-of-lies-burning-coast.json) |
 | Sea of Lies: Burning Coast - Collector's Edition | 83554 | [83554-sea-of-lies-burning-coast-collectors-edition.json](./83554-sea-of-lies-burning-coast-collectors-edition.json) |
+| Sea of Lies: Tide of Treachery - Collector's Edition | 102942 | [102942-sea-of-lies-tide-of-treachery-collectors-edition.json](./102942-sea-of-lies-tide-of-treachery-collectors-edition.json) |
 | Sea of ​Mutation | 309688 | [309688-sea-of-mutation.json](./309688-sea-of-mutation.json) |
 | Sea of Pirates | 408791 | [408791-sea-of-pirates.json](./408791-sea-of-pirates.json) |
 | Sea of Radiation | 286005 | [286005-sea-of-radiation.json](./286005-sea-of-radiation.json) |
@@ -7187,6 +7190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitude | 163970 | [163970-solitude.json](./163970-solitude.json) |
 | Solitude | 287232 | [287232-solitude.json](./287232-solitude.json) |
 | Solitude Underwater | 213319 | [213319-solitude-underwater.json](./213319-solitude-underwater.json) |
+| Solitude: Escape of Head | 102939 | [102939-solitude-escape-of-head.json](./102939-solitude-escape-of-head.json) |
 | Solium Infernum: Belphegor, Paragon of Impiety | 298101 | [298101-solium-infernum-belphegor-paragon-of-impiety.json](./298101-solium-infernum-belphegor-paragon-of-impiety.json) |
 | Sollarion | 238586 | [238586-sollarion.json](./238586-sollarion.json) |
 | Solm | 183079 | [183079-solm.json](./183079-solm.json) |
@@ -10015,6 +10019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squares of Hell | 304612 | [304612-squares-of-hell.json](./304612-squares-of-hell.json) |
 | Squares Proximity | 366332 | [366332-squares-proximity.json](./366332-squares-proximity.json) |
 | Squareverse | 390664 | [390664-squareverse.json](./390664-squareverse.json) |
+| SquareWorld | 102964 | [102964-squareworld.json](./102964-squareworld.json) |
 | SquareWorld Unpixeled | 110825 | [110825-squareworld-unpixeled.json](./110825-squareworld-unpixeled.json) |
 | Squarez: Escape The Squares | 262357 | [262357-squarez-escape-the-squares.json](./262357-squarez-escape-the-squares.json) |
 | Squaser 6 | 368490 | [368490-squaser-6.json](./368490-squaser-6.json) |
@@ -11481,6 +11486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Shift | 20257 | [20257-stick-shift.json](./20257-stick-shift.json) |
 | Stick Slasher | 264615 | [264615-stick-slasher.json](./264615-stick-slasher.json) |
 | Stick Soldiers | 68700 | [68700-stick-soldiers.json](./68700-stick-soldiers.json) |
+| Stick Spartans | 102956 | [102956-stick-spartans.json](./102956-stick-spartans.json) |
 | Stick Tennis | 277566 | [277566-stick-tennis.json](./277566-stick-tennis.json) |
 | Stick Tennis Tour | 261513 | [261513-stick-tennis-tour.json](./261513-stick-tennis-tour.json) |
 | Stick to the Plan | 234299 | [234299-stick-to-the-plan.json](./234299-stick-to-the-plan.json) |
@@ -11662,6 +11668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stones Keeper: King Aurelius | 212863 | [212863-stones-keeper-king-aurelius.json](./212863-stones-keeper-king-aurelius.json) |
 | Stones of Harlath | 152747 | [152747-stones-of-harlath.json](./152747-stones-of-harlath.json) |
 | Stones of Solace | 120284 | [120284-stones-of-solace.json](./120284-stones-of-solace.json) |
+| Stones of Yalmrith | 102944 | [102944-stones-of-yalmrith.json](./102944-stones-of-yalmrith.json) |
 | StoneSpace | 376436 | [376436-stonespace.json](./376436-stonespace.json) |
 | StoneStory | 339662 | [339662-stonestory.json](./339662-stonestory.json) |
 | Stoneveil | 376439 | [376439-stoneveil.json](./376439-stoneveil.json) |
