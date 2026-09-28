@@ -4574,6 +4574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Sauce X mas | 239070 | [239070-apple-sauce-x-mas.json](./239070-apple-sauce-x-mas.json) |
 | Apple Shooter | 202248 | [202248-apple-shooter.json](./202248-apple-shooter.json) |
 | Apple Slash | 128463 | [128463-apple-slash.json](./128463-apple-slash.json) |
+| Apple Worm | 101767 | [101767-apple-worm.json](./101767-apple-worm.json) |
 | Appleblossom Academy | 185427 | [185427-appleblossom-academy.json](./185427-appleblossom-academy.json) |
 | Appleblossom Academy 2 | 185422 | [185422-appleblossom-academy-2.json](./185422-appleblossom-academy-2.json) |
 | Apples and Oranges | 308424 | [308424-apples-and-oranges.json](./308424-apples-and-oranges.json) |
@@ -7331,6 +7332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aztec Mayhem! | 366405 | [366405-aztec-mayhem.json](./366405-aztec-mayhem.json) |
 | Aztec Number | 102932 | [102932-aztec-number.json](./102932-aztec-number.json) |
 | Aztec Solitaire | 91345 | [91345-aztec-solitaire.json](./91345-aztec-solitaire.json) |
+| Aztec Stones | 101771 | [101771-aztec-stones.json](./101771-aztec-stones.json) |
 | Aztec Tiki Talisman | 273357 | [273357-aztec-tiki-talisman.json](./273357-aztec-tiki-talisman.json) |
 | Aztec Tower | 114332 | [114332-aztec-tower.json](./114332-aztec-tower.json) |
 | Aztlán Codex: El códice de los ancestros | 304684 | [304684-aztlan-codex-el-codice-de-los-ancestros.json](./304684-aztlan-codex-el-codice-de-los-ancestros.json) |
