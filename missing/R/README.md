@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready, Set, Read with Bananas & Jack | 148450 | [148450-ready-set-read-with-bananas-and-jack.json](./148450-ready-set-read-with-bananas-and-jack.json) |
 | Ready? Set. Haiya! | 149601 | [149601-ready-set-haiya.json](./149601-ready-set-haiya.json) |
 | Readyyy! | 270757 | [270757-readyyy.json](./270757-readyyy.json) |
+| Reah: Face the Unknown | 70448 | [70448-reah-face-the-unknown.json](./70448-reah-face-the-unknown.json) |
 | Reaktor | 40165 | [40165-reaktor.json](./40165-reaktor.json) |
 | Reaktron | 121706 | [121706-reaktron.json](./121706-reaktron.json) |
 | Real Al's Humanity Academy | 115009 | [115009-real-als-humanity-academy.json](./115009-real-als-humanity-academy.json) |
@@ -3687,6 +3688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rival Knights | 22393 | [22393-rival-knights.json](./22393-rival-knights.json) |
 | Rival Nation Wars | 115039 | [115039-rival-nation-wars.json](./115039-rival-nation-wars.json) |
 | Rival Party | 258478 | [258478-rival-party.json](./258478-rival-party.json) |
+| Rival Realms | 70472 | [70472-rival-realms.json](./70472-rival-realms.json) |
 | Rival Regions | 91082 | [91082-rival-regions.json](./91082-rival-regions.json) |
 | Rival Stars Horse Racing | 318221 | [318221-rival-stars-horse-racing.json](./318221-rival-stars-horse-racing.json) |
 | Rival Stars Horse Racing: VR Edition | 314638 | [314638-rival-stars-horse-racing-vr-edition.json](./314638-rival-stars-horse-racing-vr-edition.json) |
@@ -4008,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Female Hero 3 | 157508 | [157508-robot-female-hero-3.json](./157508-robot-female-hero-3.json) |
 | Robot Fighter: Epic Battles | 378407 | [378407-robot-fighter-epic-battles.json](./378407-robot-fighter-epic-battles.json) |
 | Robot Hunt | 324661 | [324661-robot-hunt.json](./324661-robot-hunt.json) |
+| Robot Junior | 70453 | [70453-robot-junior.json](./70453-robot-junior.json) |
 | Robot King Part I: Rebooted and Ready | 72383 | [72383-robot-king-part-i-rebooted-and-ready.json](./72383-robot-king-part-i-rebooted-and-ready.json) |
 | Robot Labs: Remake | 171568 | [171568-robot-labs-remake.json](./171568-robot-labs-remake.json) |
 | Robot Maker | 385335 | [385335-robot-maker.json](./385335-robot-maker.json) |
