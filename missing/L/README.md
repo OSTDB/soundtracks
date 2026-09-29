@@ -1970,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lich Legend | 159238 | [159238-lich-legend.json](./159238-lich-legend.json) |
 | Lichdom: Battlemage | 7443 | [7443-lichdom-battlemage.json](./7443-lichdom-battlemage.json) |
 | Lichenia | 138271 | [138271-lichenia.json](./138271-lichenia.json) |
+| Lichess | 122008 | [122008-lichess.json](./122008-lichess.json) |
 | Lichgate: Tower Survivor | 357846 | [357846-lichgate-tower-survivor.json](./357846-lichgate-tower-survivor.json) |
 | Licht plus for Playdate | 230791 | [230791-licht-plus-for-playdate.json](./230791-licht-plus-for-playdate.json) |
 | Lichtreich: Willa | 230780 | [230780-lichtreich-willa.json](./230780-lichtreich-willa.json) |
