@@ -3549,8 +3549,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hispania 1200 | 356167 | [356167-hispania-1200.json](./356167-hispania-1200.json) |
 | Hiss & Hunt | 348434 | [348434-hiss-and-hunt.json](./348434-hiss-and-hunt.json) |
 | Hissatsu Buraiken | 40195 | [40195-hissatsu-buraiken.json](./40195-hissatsu-buraiken.json) |
+| Hissatsu Pachi-Slot Evolution: Ninja Hattori-kun V | 58322 | [58322-hissatsu-pachi-slot-evolution-ninja-hattori-kun-v.json](./58322-hissatsu-pachi-slot-evolution-ninja-hattori-kun-v.json) |
+| Hissatsu Pachi-Slot Station | 58319 | [58319-hissatsu-pachi-slot-station.json](./58319-hissatsu-pachi-slot-station.json) |
 | Hissatsu Pachinko Boy CR Monster House | 281567 | [281567-hissatsu-pachinko-boy-cr-monster-house.json](./281567-hissatsu-pachinko-boy-cr-monster-house.json) |
+| Hissatsu Pachinko Evolution 2: Osomatsu-kun | 58323 | [58323-hissatsu-pachinko-evolution-2-osomatsu-kun.json](./58323-hissatsu-pachinko-evolution-2-osomatsu-kun.json) |
+| Hissatsu Pachinko Station | 58321 | [58321-hissatsu-pachinko-station.json](./58321-hissatsu-pachinko-station.json) |
+| Hissatsu Pachinko Station 2 | 58320 | [58320-hissatsu-pachinko-station-2.json](./58320-hissatsu-pachinko-station-2.json) |
+| Hissatsu Pachinko Station 3 | 58316 | [58316-hissatsu-pachinko-station-3.json](./58316-hissatsu-pachinko-station-3.json) |
 | Hissatsu Pachinko Station V2 | 137100 | [137100-hissatsu-pachinko-station-v2.json](./137100-hissatsu-pachinko-station-v2.json) |
+| Hissatsu Pachinko Station: Monster House Special | 58317 | [58317-hissatsu-pachinko-station-monster-house-special.json](./58317-hissatsu-pachinko-station-monster-house-special.json) |
 | Hissatsu Shaolin-ji | 385747 | [385747-hissatsu-shaolin-ji.json](./385747-hissatsu-shaolin-ji.json) |
 | Hissatsu Ura-Kagyou | 332643 | [332643-hissatsu-ura-kagyou.json](./332643-hissatsu-ura-kagyou.json) |
 | Hisshou 777 Fighter: Pachi-Slot Ryuuguu Densetsu | 60509 | [60509-hisshou-777-fighter-pachi-slot-ryuuguu-densetsu.json](./60509-hisshou-777-fighter-pachi-slot-ryuuguu-densetsu.json) |
