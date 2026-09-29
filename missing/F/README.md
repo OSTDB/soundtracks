@@ -997,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Zone | 206230 | [206230-fantasy-zone.json](./206230-fantasy-zone.json) |
 | Fantasy Zone | 206231 | [206231-fantasy-zone.json](./206231-fantasy-zone.json) |
 | Fantasy Zone | 215746 | [215746-fantasy-zone.json](./215746-fantasy-zone.json) |
+| Fantasy Zone | 6684 | [6684-fantasy-zone.json](./6684-fantasy-zone.json) |
 | Fantasy Zone II: Opa-Opa no Namida | 48627 | [48627-fantasy-zone-ii-opa-opa-no-namida.json](./48627-fantasy-zone-ii-opa-opa-no-namida.json) |
 | Fantasy Zone: The Maze | 45658 | [45658-fantasy-zone-the-maze.json](./45658-fantasy-zone-the-maze.json) |
 | Fantasy: Battle Simulator | 43950 | [43950-fantasy-battle-simulator.json](./43950-fantasy-battle-simulator.json) |
@@ -1316,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Girls: All in One Edition | 271502 | [271502-fashion-girls-all-in-one-edition.json](./271502-fashion-girls-all-in-one-edition.json) |
 | Fashion Girls: Silver Edition | 315865 | [315865-fashion-girls-silver-edition.json](./315865-fashion-girls-silver-edition.json) |
 | Fashion Holiday: A Game of Texas Hold 'Em | 252246 | [252246-fashion-holiday-a-game-of-texas-hold-em.json](./252246-fashion-holiday-a-game-of-texas-hold-em.json) |
+| Fashion Police Squad | 140801 | [140801-fashion-police-squad.json](./140801-fashion-police-squad.json) |
 | Fashion Princess | 215118 | [215118-fashion-princess.json](./215118-fashion-princess.json) |
 | Fashion Princess: Silver Edition | 317256 | [317256-fashion-princess-silver-edition.json](./317256-fashion-princess-silver-edition.json) |
 | Fashion Princess: Super Version | 328819 | [328819-fashion-princess-super-version.json](./328819-fashion-princess-super-version.json) |
@@ -1520,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatty In Trouble | 238398 | [238398-fatty-in-trouble.json](./238398-fatty-in-trouble.json) |
 | Fatty Maze's Adventures | 35723 | [35723-fatty-mazes-adventures.json](./35723-fatty-mazes-adventures.json) |
 | Fatum | 407302 | [407302-fatum.json](./407302-fatum.json) |
+| Fatum Betula | 133175 | [133175-fatum-betula.json](./133175-fatum-betula.json) |
 | Fatum Betula + Food Truck Tycoon | 250343 | [250343-fatum-betula-food-truck-tycoon.json](./250343-fatum-betula-food-truck-tycoon.json) |
 | Fatum Betula + Knights & Guns | 246080 | [246080-fatum-betula-knights-and-guns.json](./246080-fatum-betula-knights-and-guns.json) |
 | Fatum Betula + Urban Flow | 252702 | [252702-fatum-betula-urban-flow.json](./252702-fatum-betula-urban-flow.json) |
@@ -1984,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer Manager | 79955 | [79955-fifa-soccer-manager.json](./79955-fifa-soccer-manager.json) |
 | FIFA Soccer: Prime Stars | 58312 | [58312-fifa-soccer-prime-stars.json](./58312-fifa-soccer-prime-stars.json) |
 | FIFA Street 3 | 7304 | [7304-fifa-street-3.json](./7304-fifa-street-3.json) |
+| FIFA World | 7433 | [7433-fifa-world.json](./7433-fifa-world.json) |
 | FIFA World Cup: Launch Edition | 404400 | [404400-fifa-world-cup-launch-edition.json](./404400-fifa-world-cup-launch-edition.json) |
 | FIFA: Road to World Cup 98 | 705 | [705-fifa-road-to-world-cup-98.json](./705-fifa-road-to-world-cup-98.json) |
 | Fifi's Fortunes: Reclamation | 253944 | [253944-fifis-fortunes-reclamation.json](./253944-fifis-fortunes-reclamation.json) |
@@ -4475,6 +4479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Playland: Party Edition | 392803 | [392803-forgotten-playland-party-edition.json](./392803-forgotten-playland-party-edition.json) |
 | Forgotten Possessions | 392775 | [392775-forgotten-possessions.json](./392775-forgotten-possessions.json) |
 | Forgotten Realms: Demon Stone | 356895 | [356895-forgotten-realms-demon-stone.json](./356895-forgotten-realms-demon-stone.json) |
+| Forgotten Realms: Demon Stone | 5839 | [5839-forgotten-realms-demon-stone.json](./5839-forgotten-realms-demon-stone.json) |
 | Forgotten Realms: Hillsfar | 195752 | [195752-forgotten-realms-hillsfar.json](./195752-forgotten-realms-hillsfar.json) |
 | Forgotten Riddles: The Mayan Princess | 209562 | [209562-forgotten-riddles-the-mayan-princess.json](./209562-forgotten-riddles-the-mayan-princess.json) |
 | Forgotten Roads | 262940 | [262940-forgotten-roads.json](./262940-forgotten-roads.json) |
@@ -4947,6 +4952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractional Numbers | 42196 | [42196-fractional-numbers.json](./42196-fractional-numbers.json) |
 | Fractions | 42172 | [42172-fractions.json](./42172-fractions.json) |
 | Fractium | 217512 | [217512-fractium.json](./217512-fractium.json) |
+| Fracture | 6996 | [6996-fracture.json](./6996-fracture.json) |
 | Fracture In Space | 217291 | [217291-fracture-in-space.json](./217291-fracture-in-space.json) |
 | Fracture Point | 335257 | [335257-fracture-point.json](./335257-fracture-point.json) |
 | Fracture the Flag | 26551 | [26551-fracture-the-flag.json](./26551-fracture-the-flag.json) |
@@ -5196,6 +5202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Fighters | 719 | [719-freedom-fighters.json](./719-freedom-fighters.json) |
 | Freedom Maker | 327825 | [327825-freedom-maker.json](./327825-freedom-maker.json) |
 | Freedom Planet | 7116 | [7116-freedom-planet.json](./7116-freedom-planet.json) |
+| Freedom Wars | 6060 | [6060-freedom-wars.json](./6060-freedom-wars.json) |
 | Freedom: A Time to Reckon | 72350 | [72350-freedom-a-time-to-reckon.json](./72350-freedom-a-time-to-reckon.json) |
 | Freedom! Do or Die | 168122 | [168122-freedom-do-or-die.json](./168122-freedom-do-or-die.json) |
 | FreedomBot | 391577 | [391577-freedombot.json](./391577-freedombot.json) |
