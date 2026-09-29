@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie Drive: Bhikkhuni - Bikini Party Edition | 379957 | [379957-valkyrie-drive-bhikkhuni-bikini-party-edition.json](./379957-valkyrie-drive-bhikkhuni-bikini-party-edition.json) |
 | Valkyrie Drive: Bhikkhuni - Liberator's Edition | 42678 | [42678-valkyrie-drive-bhikkhuni-liberators-edition.json](./42678-valkyrie-drive-bhikkhuni-liberators-edition.json) |
 | Valkyrie Drive: Bhikkhuni - Nyuu Nyuu DX Pack | 380519 | [380519-valkyrie-drive-bhikkhuni-nyuu-nyuu-dx-pack.json](./380519-valkyrie-drive-bhikkhuni-nyuu-nyuu-dx-pack.json) |
+| Valkyrie Elysium | 194207 | [194207-valkyrie-elysium.json](./194207-valkyrie-elysium.json) |
 | Valkyrie Galaxy | 120340 | [120340-valkyrie-galaxy.json](./120340-valkyrie-galaxy.json) |
 | Valkyrie Idle | 248095 | [248095-valkyrie-idle.json](./248095-valkyrie-idle.json) |
 | Valkyrie Nemesis | 195622 | [195622-valkyrie-nemesis.json](./195622-valkyrie-nemesis.json) |
@@ -956,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigil in the Mist | 409755 | [409755-vigil-in-the-mist.json](./409755-vigil-in-the-mist.json) |
 | Vigil of Glory - Part I | 130255 | [130255-vigil-of-glory-part-i.json](./130255-vigil-of-glory-part-i.json) |
 | Vigilant Inquest | 309659 | [309659-vigilant-inquest.json](./309659-vigilant-inquest.json) |
+| Vigilante | 10444 | [10444-vigilante.json](./10444-vigilante.json) |
 | Vigilante 8 | 3332 | [3332-vigilante-8.json](./3332-vigilante-8.json) |
 | Vigilante 8: 2nd Offense | 3333 | [3333-vigilante-8-2nd-offense.json](./3333-vigilante-8-2nd-offense.json) |
 | Vigilantes | 25597 | [25597-vigilantes.json](./25597-vigilantes.json) |
