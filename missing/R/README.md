@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravens Battle Fields | 174849 | [174849-ravens-battle-fields.json](./174849-ravens-battle-fields.json) |
 | Ravensburger Labyrinth | 200049 | [200049-ravensburger-labyrinth.json](./200049-ravensburger-labyrinth.json) |
 | Ravensburger Puzzle | 25495 | [25495-ravensburger-puzzle.json](./25495-ravensburger-puzzle.json) |
+| Ravensdale | 47424 | [47424-ravensdale.json](./47424-ravensdale.json) |
 | Ravenshade Asylum | 411825 | [411825-ravenshade-asylum.json](./411825-ravenshade-asylum.json) |
 | Ravensword: The Fallen King | 61031 | [61031-ravensword-the-fallen-king.json](./61031-ravensword-the-fallen-king.json) |
 | Ravensword: Undaunted | 155056 | [155056-ravensword-undaunted.json](./155056-ravensword-undaunted.json) |
@@ -1134,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayne the Rogue | 256768 | [256768-rayne-the-rogue.json](./256768-rayne-the-rogue.json) |
 | RaynGames | 355087 | [355087-rayngames.json](./355087-rayngames.json) |
 | RayStorm | 45089 | [45089-raystorm.json](./45089-raystorm.json) |
+| RayStorm HD | 47448 | [47448-raystorm-hd.json](./47448-raystorm-hd.json) |
 | Rayxanber | 92647 | [92647-rayxanber.json](./92647-rayxanber.json) |
 | Rayze | 176902 | [176902-rayze.json](./176902-rayze.json) |
 | Raze 2070 | 151193 | [151193-raze-2070.json](./151193-raze-2070.json) |
