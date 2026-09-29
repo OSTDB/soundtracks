@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabletop Dice | 108617 | [108617-tabletop-dice.json](./108617-tabletop-dice.json) |
 | Tabletop Gallery | 85419 | [85419-tabletop-gallery.json](./85419-tabletop-gallery.json) |
 | Tabletop idle | 101742 | [101742-tabletop-idle.json](./101742-tabletop-idle.json) |
+| Tabletop Simulator | 8351 | [8351-tabletop-simulator.json](./8351-tabletop-simulator.json) |
 | Tabletop Simulator: Down in Flames - Locked-On | 161264 | [161264-tabletop-simulator-down-in-flames-locked-on.json](./161264-tabletop-simulator-down-in-flames-locked-on.json) |
 | Tabletop Simulator: Draco Magi | 161270 | [161270-tabletop-simulator-draco-magi.json](./161270-tabletop-simulator-draco-magi.json) |
 | Tabletop Simulator: Scythe | 161271 | [161271-tabletop-simulator-scythe.json](./161271-tabletop-simulator-scythe.json) |
@@ -1566,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Demon Slayer Society | 261217 | [261217-teenage-demon-slayer-society.json](./261217-teenage-demon-slayer-society.json) |
 | Teenage Lawnmower | 308559 | [308559-teenage-lawnmower.json](./308559-teenage-lawnmower.json) |
 | Teenage Mutant Ninja Puppets | 404440 | [404440-teenage-mutant-ninja-puppets.json](./404440-teenage-mutant-ninja-puppets.json) |
+| Teenage Mutant Ninja Turtles | 3815 | [3815-teenage-mutant-ninja-turtles.json](./3815-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 76209 | [76209-teenage-mutant-ninja-turtles.json](./76209-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles Double Pack | 78938 | [78938-teenage-mutant-ninja-turtles-double-pack.json](./78938-teenage-mutant-ninja-turtles-double-pack.json) |
 | Teenage Mutant Ninja Turtles Fast Forward: Ninja Training NYC | 146104 | [146104-teenage-mutant-ninja-turtles-fast-forward-ninja-training-nyc.json](./146104-teenage-mutant-ninja-turtles-fast-forward-ninja-training-nyc.json) |
@@ -11896,6 +11898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer - The King and the Warlord | 81202 | [81202-total-war-warhammer-the-king-and-the-warlord.json](./81202-total-war-warhammer-the-king-and-the-warlord.json) |
 | Total War: Warhammer - Wurrzag | 81295 | [81295-total-war-warhammer-wurrzag.json](./81295-total-war-warhammer-wurrzag.json) |
 | Total War: Warhammer 40,000 | 381245 | [381245-total-war-warhammer-40-000.json](./381245-total-war-warhammer-40-000.json) |
+| Total War: Warhammer II | 28028 | [28028-total-war-warhammer-ii.json](./28028-total-war-warhammer-ii.json) |
 | Total War: Warhammer II - Alith Anar | 167623 | [167623-total-war-warhammer-ii-alith-anar.json](./167623-total-war-warhammer-ii-alith-anar.json) |
 | Total War: Warhammer II - Blood for the Blood God II | 81192 | [81192-total-war-warhammer-ii-blood-for-the-blood-god-ii.json](./81192-total-war-warhammer-ii-blood-for-the-blood-god-ii.json) |
 | Total War: Warhammer II - Curse of the Vampire Coast | 110863 | [110863-total-war-warhammer-ii-curse-of-the-vampire-coast.json](./110863-total-war-warhammer-ii-curse-of-the-vampire-coast.json) |
@@ -13963,6 +13966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trimming Sails | 244336 | [244336-trimming-sails.json](./244336-trimming-sails.json) |
 | Trimorta | 184086 | [184086-trimorta.json](./184086-trimorta.json) |
 | Trimurti Online | 265688 | [265688-trimurti-online.json](./265688-trimurti-online.json) |
+| Trine 3: The Artifacts of Power | 8255 | [8255-trine-3-the-artifacts-of-power.json](./8255-trine-3-the-artifacts-of-power.json) |
 | Trine 4: The Nightmare Prince | 110846 | [110846-trine-4-the-nightmare-prince.json](./110846-trine-4-the-nightmare-prince.json) |
 | Trine Bundle | 142369 | [142369-trine-bundle.json](./142369-trine-bundle.json) |
 | Trine Series 1-3 | 125319 | [125319-trine-series-1-3.json](./125319-trine-series-1-3.json) |
@@ -14306,6 +14310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Colors | 228991 | [228991-true-colors.json](./228991-true-colors.json) |
 | True Colors | 388238 | [388238-true-colors.json](./388238-true-colors.json) |
 | True Crime: New York City | 4215 | [4215-true-crime-new-york-city.json](./4215-true-crime-new-york-city.json) |
+| True Crime: Streets of LA | 4216 | [4216-true-crime-streets-of-la.json](./4216-true-crime-streets-of-la.json) |
 | True Detective Solitaire | 88755 | [88755-true-detective-solitaire.json](./88755-true-detective-solitaire.json) |
 | True Disc Golf | 247586 | [247586-true-disc-golf.json](./247586-true-disc-golf.json) |
 | True Fantasy Live Online | 18106 | [18106-true-fantasy-live-online.json](./18106-true-fantasy-live-online.json) |
