@@ -1653,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Crate Simulator | 192678 | [192678-battle-crate-simulator.json](./192678-battle-crate-simulator.json) |
 | Battle Cross | 40242 | [40242-battle-cross.json](./40242-battle-cross.json) |
 | Battle Cross | 95412 | [95412-battle-cross.json](./95412-battle-cross.json) |
+| Battle Cruiser | 39772 | [39772-battle-cruiser.json](./39772-battle-cruiser.json) |
 | Battle Cruiser M-12 | 40241 | [40241-battle-cruiser-m-12.json](./40241-battle-cruiser-m-12.json) |
 | Battle Crusher | 66069 | [66069-battle-crusher.json](./66069-battle-crusher.json) |
 | Battle Cry of Freedom | 63551 | [63551-battle-cry-of-freedom.json](./63551-battle-cry-of-freedom.json) |
@@ -1945,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield REDSEC | 371393 | [371393-battlefield-redsec.json](./371393-battlefield-redsec.json) |
 | Battlefield: Bad Company 2 - Specact Kit Upgrade | 27654 | [27654-battlefield-bad-company-2-specact-kit-upgrade.json](./27654-battlefield-bad-company-2-specact-kit-upgrade.json) |
 | Battlefield: Bad Company 2 Vietnam | 607 | [607-battlefield-bad-company-2-vietnam.json](./607-battlefield-bad-company-2-vietnam.json) |
+| Battlefish: Free Zombie Games | 39766 | [39766-battlefish-free-zombie-games.json](./39766-battlefish-free-zombie-games.json) |
 | Battlefleet Commander | 91552 | [91552-battlefleet-commander.json](./91552-battlefleet-commander.json) |
 | Battlefleet Gothic: Armada - Complete Edition | 154950 | [154950-battlefleet-gothic-armada-complete-edition.json](./154950-battlefleet-gothic-armada-complete-edition.json) |
 | Battlefleet Gothic: Armada - Deluxe Edition | 186341 | [186341-battlefleet-gothic-armada-deluxe-edition.json](./186341-battlefleet-gothic-armada-deluxe-edition.json) |
@@ -3294,6 +3296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Sky Trooper | 42640 | [42640-big-sky-trooper.json](./42640-big-sky-trooper.json) |
 | Big Story Little Heroes | 62741 | [62741-big-story-little-heroes.json](./62741-big-story-little-heroes.json) |
 | Big Strike Bowling | 43892 | [43892-big-strike-bowling.json](./43892-big-strike-bowling.json) |
+| Big Striker | 39817 | [39817-big-striker.json](./39817-big-striker.json) |
 | Big Survivor | 235875 | [235875-big-survivor.json](./235875-big-survivor.json) |
 | Big Sword Hero | 249820 | [249820-big-sword-hero.json](./249820-big-sword-hero.json) |
 | Big Thanks Super Keirin | 55898 | [55898-big-thanks-super-keirin.json](./55898-big-thanks-super-keirin.json) |
@@ -3915,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Hair Girl is Best Girl | 155007 | [155007-black-hair-girl-is-best-girl.json](./155007-black-hair-girl-is-best-girl.json) |
 | Black Hangman | 112122 | [112122-black-hangman.json](./112122-black-hangman.json) |
 | Black Hawk | 25711 | [25711-black-hawk.json](./25711-black-hawk.json) |
+| Black Heart | 39820 | [39820-black-heart.json](./39820-black-heart.json) |
 | Black Hole | 46790 | [46790-black-hole.json](./46790-black-hole.json) |
 | Black Hole | 85507 | [85507-black-hole.json](./85507-black-hole.json) |
 | Black Hole Gun | 413182 | [413182-black-hole-gun.json](./413182-black-hole-gun.json) |
@@ -4719,6 +4723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blokoto | 346585 | [346585-blokoto.json](./346585-blokoto.json) |
 | Bloku! | 259541 | [259541-bloku.json](./259541-bloku.json) |
 | Blokus World Tour | 51405 | [51405-blokus-world-tour.json](./51405-blokus-world-tour.json) |
+| Blomby Car | 39816 | [39816-blomby-car.json](./39816-blomby-car.json) |
 | Blomst | 181911 | [181911-blomst.json](./181911-blomst.json) |
 | Blon | 167682 | [167682-blon.json](./167682-blon.json) |
 | Blonde Driver | 96435 | [96435-blonde-driver.json](./96435-blonde-driver.json) |
