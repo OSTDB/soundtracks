@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oblation | 253886 | [253886-oblation.json](./253886-oblation.json) |
 | Oblige | 178964 | [178964-oblige.json](./178964-oblige.json) |
 | Oblin Party | 280294 | [280294-oblin-party.json](./280294-oblin-party.json) |
+| Obliteracers | 18082 | [18082-obliteracers.json](./18082-obliteracers.json) |
 | Obliteracy | 107375 | [107375-obliteracy.json](./107375-obliteracy.json) |
 | Obliterate | 43246 | [43246-obliterate.json](./43246-obliterate.json) |
 | Oblitus Mortis | 336918 | [336918-oblitus-mortis.json](./336918-oblitus-mortis.json) |
