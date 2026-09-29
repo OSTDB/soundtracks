@@ -2768,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Elite Wrestling: Fight Forever - The Storm is Coming! | 283292 | [283292-all-elite-wrestling-fight-forever-the-storm-is-coming.json](./283292-all-elite-wrestling-fight-forever-the-storm-is-coming.json) |
 | All Elite Wrestling: Fight Forever - World War Joe | 301010 | [301010-all-elite-wrestling-fight-forever-world-war-joe.json](./301010-all-elite-wrestling-fight-forever-world-war-joe.json) |
 | All Evil Night 2 | 118809 | [118809-all-evil-night-2.json](./118809-all-evil-night-2.json) |
+| All Fall Down | 34675 | [34675-all-fall-down.json](./34675-all-fall-down.json) |
 | All For Nought: Tic Tac Toe | 155662 | [155662-all-for-nought-tic-tac-toe.json](./155662-all-for-nought-tic-tac-toe.json) |
 | All For One | 111201 | [111201-all-for-one.json](./111201-all-for-one.json) |
 | All Goblin | 243108 | [243108-all-goblin.json](./243108-all-goblin.json) |
