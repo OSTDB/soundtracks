@@ -1562,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario Bros. Mii | 175961 | [175961-new-super-mario-bros-mii.json](./175961-new-super-mario-bros-mii.json) |
 | New Super Mario Bros. The Missing Italian | 394344 | [394344-new-super-mario-bros-the-missing-italian.json](./394344-new-super-mario-bros-the-missing-italian.json) |
 | New Super Mario Bros. U | 2171 | [2171-new-super-mario-bros-u.json](./2171-new-super-mario-bros-u.json) |
+| New Super Mario Bros. U + New Super Luigi U | 119120 | [119120-new-super-mario-bros-u-new-super-luigi-u.json](./119120-new-super-mario-bros-u-new-super-luigi-u.json) |
 | New Super Mario Bros. U but the Floor is Lava | 230760 | [230760-new-super-mario-bros-u-but-the-floor-is-lava.json](./230760-new-super-mario-bros-u-but-the-floor-is-lava.json) |
 | New Super Mario Bros. U Deluxe | 109457 | [109457-new-super-mario-bros-u-deluxe.json](./109457-new-super-mario-bros-u-deluxe.json) |
 | New Super Mario Bros. Versus: Cubby's Character Mod | 243978 | [243978-new-super-mario-bros-versus-cubbys-character-mod.json](./243978-new-super-mario-bros-versus-cubbys-character-mod.json) |
