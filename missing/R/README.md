@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Unhappy | 199916 | [199916-raccoon-unhappy.json](./199916-raccoon-unhappy.json) |
 | Raccoon Valley Tycoon | 373083 | [373083-raccoon-valley-tycoon.json](./373083-raccoon-valley-tycoon.json) |
 | Raccoonwave | 307120 | [307120-raccoonwave.json](./307120-raccoonwave.json) |
+| Race 07 | 10380 | [10380-race-07.json](./10380-race-07.json) |
 | Race 07: Formula RaceRoom | 120183 | [120183-race-07-formula-raceroom.json](./120183-race-07-formula-raceroom.json) |
 | Race Ace | 315274 | [315274-race-ace.json](./315274-race-ace.json) |
 | Race Arcade | 105127 | [105127-race-arcade.json](./105127-race-arcade.json) |
@@ -971,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratatouille | 210731 | [210731-ratatouille.json](./210731-ratatouille.json) |
 | Ratatouille | 281842 | [281842-ratatouille.json](./281842-ratatouille.json) |
 | Ratatouille | 281843 | [281843-ratatouille.json](./281843-ratatouille.json) |
+| Ratatouille | 78482 | [78482-ratatouille.json](./78482-ratatouille.json) |
 | Ratatouille: Food Frenzy | 18296 | [18296-ratatouille-food-frenzy.json](./18296-ratatouille-food-frenzy.json) |
 | Ratatouille: Remy's New Recipes | 70688 | [70688-ratatouille-remys-new-recipes.json](./70688-ratatouille-remys-new-recipes.json) |
 | Ratchet & Clank | 253141 | [253141-ratchet-and-clank.json](./253141-ratchet-and-clank.json) |
@@ -3153,6 +3155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Station | 277853 | [277853-rhythm-station.json](./277853-rhythm-station.json) |
 | Rhythm Storm | 239180 | [239180-rhythm-storm.json](./239180-rhythm-storm.json) |
 | Rhythm Tengoku | 210730 | [210730-rhythm-tengoku.json](./210730-rhythm-tengoku.json) |
+| Rhythm Tengoku | 6557 | [6557-rhythm-tengoku.json](./6557-rhythm-tengoku.json) |
 | Rhythm Tengoku: Tempo Up! | 280761 | [280761-rhythm-tengoku-tempo-up.json](./280761-rhythm-tengoku-tempo-up.json) |
 | Rhythm Thief & the Emperor's Treasure | 47603 | [47603-rhythm-thief-and-the-emperors-treasure.json](./47603-rhythm-thief-and-the-emperors-treasure.json) |
 | Rhythm Thief & the Paris Caper | 62279 | [62279-rhythm-thief-and-the-paris-caper.json](./62279-rhythm-thief-and-the-paris-caper.json) |
@@ -3395,6 +3398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer: Turbo Mode | 297592 | [297592-ridge-racer-turbo-mode.json](./297592-ridge-racer-turbo-mode.json) |
 | Ridge Runner | 233250 | [233250-ridge-runner.json](./233250-ridge-runner.json) |
 | Ridgewood Road | 177397 | [177397-ridgewood-road.json](./177397-ridgewood-road.json) |
+| Ridiculous Fishing | 5635 | [5635-ridiculous-fishing.json](./5635-ridiculous-fishing.json) |
 | Ridiculous Glitching | 332639 | [332639-ridiculous-glitching.json](./332639-ridiculous-glitching.json) |
 | Ridiculous RPG | 232041 | [232041-ridiculous-rpg.json](./232041-ridiculous-rpg.json) |
 | Ridiculous Shipping | 331317 | [331317-ridiculous-shipping.json](./331317-ridiculous-shipping.json) |
