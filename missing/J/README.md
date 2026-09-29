@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jade Earth | 141255 | [141255-jade-earth.json](./141255-jade-earth.json) |
 | Jade Empire | 5867 | [5867-jade-empire.json](./5867-jade-empire.json) |
 | Jade Empire: Limited Edition | 47318 | [47318-jade-empire-limited-edition.json](./47318-jade-empire-limited-edition.json) |
+| Jade Empire: Special Edition | 10 | [10-jade-empire-special-edition.json](./10-jade-empire-special-edition.json) |
 | Jade Guardian | 310186 | [310186-jade-guardian.json](./310186-jade-guardian.json) |
 | Jade Legends: Immortal Realm | 304214 | [304214-jade-legends-immortal-realm.json](./304214-jade-legends-immortal-realm.json) |
 | Jade Spring | 349863 | [349863-jade-spring.json](./349863-jade-spring.json) |
@@ -400,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jayce | 177500 | [177500-jayce.json](./177500-jayce.json) |
 | Jazz and Faust | 127331 | [127331-jazz-and-faust.json](./127331-jazz-and-faust.json) |
 | Jazz It Up | 177994 | [177994-jazz-it-up.json](./177994-jazz-it-up.json) |
+| Jazz Jackrabbit 2 | 764 | [764-jazz-jackrabbit-2.json](./764-jazz-jackrabbit-2.json) |
 | Jazz Jackrabbit 2: Holiday Hare 98 | 71761 | [71761-jazz-jackrabbit-2-holiday-hare-98.json](./71761-jazz-jackrabbit-2-holiday-hare-98.json) |
 | Jazz Jackrabbit 2: The Secret Files | 51347 | [51347-jazz-jackrabbit-2-the-secret-files.json](./51347-jazz-jackrabbit-2-the-secret-files.json) |
 | Jazz Jackrabbit 3 | 72667 | [72667-jazz-jackrabbit-3.json](./72667-jazz-jackrabbit-3.json) |
