@@ -7159,6 +7159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashimals | 120893 | [120893-crashimals.json](./120893-crashimals.json) |
 | Crashing Race | 172598 | [172598-crashing-race.json](./172598-crashing-race.json) |
 | Crashland | 144349 | [144349-crashland.json](./144349-crashland.json) |
+| Crashlands | 15389 | [15389-crashlands.json](./15389-crashlands.json) |
 | Crashletics | 242217 | [242217-crashletics.json](./242217-crashletics.json) |
 | CrashMetal: Drift Racing Car Driving Simulator - Premium Edition | 283151 | [283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json](./283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json) |
 | Crashout Crew | 372144 | [372144-crashout-crew.json](./372144-crashout-crew.json) |
@@ -7816,6 +7817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossed Swords | 39642 | [39642-crossed-swords.json](./39642-crossed-swords.json) |
 | Crossedland | 207501 | [207501-crossedland.json](./207501-crossedland.json) |
 | Crosser | 121550 | [121550-crosser.json](./121550-crosser.json) |
+| Crossfire | 9739 | [9739-crossfire.json](./9739-crossfire.json) |
 | CrossFire | 138120 | [138120-crossfire.json](./138120-crossfire.json) |
 | CrossFire | 267638 | [267638-crossfire.json](./267638-crossfire.json) |
 | Crossfire 2 | 76994 | [76994-crossfire-2.json](./76994-crossfire-2.json) |
