@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature Walk Simulator | 28199 | [28199-nature-walk-simulator.json](./28199-nature-walk-simulator.json) |
 | Nature's Element | 270972 | [270972-natures-element.json](./270972-natures-element.json) |
 | Nature's Habit | 195103 | [195103-natures-habit.json](./195103-natures-habit.json) |
+| Nature's Wrath VR | 31038 | [31038-natures-wrath-vr.json](./31038-natures-wrath-vr.json) |
 | Nature's Zombie Apocalypse | 24993 | [24993-natures-zombie-apocalypse.json](./24993-natures-zombie-apocalypse.json) |
 | NatureFly | 86534 | [86534-naturefly.json](./86534-naturefly.json) |
 | Naturix | 159182 | [159182-naturix.json](./159182-naturix.json) |
