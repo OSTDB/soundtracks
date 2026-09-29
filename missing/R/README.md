@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Jump | 141019 | [141019-rage-jump.json](./141019-rage-jump.json) |
 | Rage Multiplayer | 212734 | [212734-rage-multiplayer.json](./212734-rage-multiplayer.json) |
 | Rage Night | 224764 | [224764-rage-night.json](./224764-rage-night.json) |
+| Rage of Bahamut | 28007 | [28007-rage-of-bahamut.json](./28007-rage-of-bahamut.json) |
 | Rage of Mages | 13154 | [13154-rage-of-mages.json](./13154-rage-of-mages.json) |
 | Rage of the Battlemage | 32135 | [32135-rage-of-the-battlemage.json](./32135-rage-of-the-battlemage.json) |
 | Rage of the Dragons NEO | 296483 | [296483-rage-of-the-dragons-neo.json](./296483-rage-of-the-dragons-neo.json) |
@@ -3436,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RiftStar Raiders | 27103 | [27103-riftstar-raiders.json](./27103-riftstar-raiders.json) |
 | Riftwalker | 178679 | [178679-riftwalker.json](./178679-riftwalker.json) |
 | Rig'n' Roll: Cut-Throat Highway | 209162 | [209162-rign-roll-cut-throat-highway.json](./209162-rign-roll-cut-throat-highway.json) |
+| Rig's Dream 3D | 28102 | [28102-rigs-dream-3d.json](./28102-rigs-dream-3d.json) |
 | Rigel's Revenge | 55084 | [55084-rigels-revenge.json](./55084-rigels-revenge.json) |
 | Rigged Hammer | 247030 | [247030-rigged-hammer.json](./247030-rigged-hammer.json) |
 | Right and Down | 207494 | [207494-right-and-down.json](./207494-right-and-down.json) |
@@ -4113,6 +4115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Mil | 387341 | [387341-robot-mil.json](./387341-robot-mil.json) |
 | Robot Odyssey | 73313 | [73313-robot-odyssey.json](./73313-robot-odyssey.json) |
 | Robot Paradise VR | 133453 | [133453-robot-paradise-vr.json](./133453-robot-paradise-vr.json) |
+| Robot Pirates | 28042 | [28042-robot-pirates.json](./28042-robot-pirates.json) |
 | Robot Planet | 232663 | [232663-robot-planet.json](./232663-robot-planet.json) |
 | Robot Ponkottsu Star Version | 50551 | [50551-robot-ponkottsu-star-version.json](./50551-robot-ponkottsu-star-version.json) |
 | Robot Ponkottsu: Moon Version | 243919 | [243919-robot-ponkottsu-moon-version.json](./243919-robot-ponkottsu-moon-version.json) |
@@ -5760,6 +5763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush for the Bomb | 54352 | [54352-rush-for-the-bomb.json](./54352-rush-for-the-bomb.json) |
 | Rush Grotto | 378895 | [378895-rush-grotto.json](./378895-rush-grotto.json) |
 | Rush Hour | 18541 | [18541-rush-hour.json](./18541-rush-hour.json) |
+| Rush Hour | 28056 | [28056-rush-hour.json](./28056-rush-hour.json) |
 | Rush Hour Deluxe: The ultimate traffic jam game! | 220878 | [220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json](./220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json) |
 | Rush Hour Rally | 174662 | [174662-rush-hour-rally.json](./174662-rush-hour-rally.json) |
 | Rush Hours Collection | 283209 | [283209-rush-hours-collection.json](./283209-rush-hours-collection.json) |
