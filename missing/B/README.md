@@ -5941,6 +5941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 2: How Marcus Saved Mercenary Day | 13926 | [13926-borderlands-2-how-marcus-saved-mercenary-day.json](./13926-borderlands-2-how-marcus-saved-mercenary-day.json) |
 | Borderlands 2: Mad Moxxi and the Wedding Day Massacre | 13927 | [13927-borderlands-2-mad-moxxi-and-the-wedding-day-massacre.json](./13927-borderlands-2-mad-moxxi-and-the-wedding-day-massacre.json) |
 | Borderlands 2: Mr. Torgue's Campaign of Carnage | 13921 | [13921-borderlands-2-mr-torgues-campaign-of-carnage.json](./13921-borderlands-2-mr-torgues-campaign-of-carnage.json) |
+| Borderlands 3: Bounty of Blood - A Fistful of Redemption | 134100 | [134100-borderlands-3-bounty-of-blood-a-fistful-of-redemption.json](./134100-borderlands-3-bounty-of-blood-a-fistful-of-redemption.json) |
 | Borderlands 3: Deluxe Edition | 116995 | [116995-borderlands-3-deluxe-edition.json](./116995-borderlands-3-deluxe-edition.json) |
 | Borderlands 3: Diamond Loot Chest - Collector's Edition | 136268 | [136268-borderlands-3-diamond-loot-chest-collectors-edition.json](./136268-borderlands-3-diamond-loot-chest-collectors-edition.json) |
 | Borderlands 3: Director's Cut | 271818 | [271818-borderlands-3-directors-cut.json](./271818-borderlands-3-directors-cut.json) |
