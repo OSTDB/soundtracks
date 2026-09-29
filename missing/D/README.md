@@ -4397,6 +4397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 7: Vows of the Virtueless - Bonus Story: The Kind Demon, Singing Princess, and Thief Angel | 270198 | [270198-disgaea-7-vows-of-the-virtueless-bonus-story-the-kind-demon-singing-princess-and-thief-angel.json](./270198-disgaea-7-vows-of-the-virtueless-bonus-story-the-kind-demon-singing-princess-and-thief-angel.json) |
 | Disgaea 7: Vows of the Virtueless - Bonus Story: The Overlord, Demon Lord, and Sheltered Girl | 270076 | [270076-disgaea-7-vows-of-the-virtueless-bonus-story-the-overlord-demon-lord-and-sheltered-girl.json](./270076-disgaea-7-vows-of-the-virtueless-bonus-story-the-overlord-demon-lord-and-sheltered-girl.json) |
 | Disgaea Infinite | 21742 | [21742-disgaea-infinite.json](./21742-disgaea-infinite.json) |
+| Disgaea: Hour of Darkness | 11610 | [11610-disgaea-hour-of-darkness.json](./11610-disgaea-hour-of-darkness.json) |
 | Disgrace: When Our Beautiful World Disappears | 377707 | [377707-disgrace-when-our-beautiful-world-disappears.json](./377707-disgrace-when-our-beautiful-world-disappears.json) |
 | Disgraced Swordswoman Battle | 134605 | [134605-disgraced-swordswoman-battle.json](./134605-disgraced-swordswoman-battle.json) |
 | Disgraced: Trailblazer | 161730 | [161730-disgraced-trailblazer.json](./161730-disgraced-trailblazer.json) |
@@ -4572,6 +4573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's The Little Mermaid | 198802 | [198802-disneys-the-little-mermaid.json](./198802-disneys-the-little-mermaid.json) |
 | Disney's The Little Mermaid | 198803 | [198803-disneys-the-little-mermaid.json](./198803-disneys-the-little-mermaid.json) |
 | Disney's The Little Mermaid | 198804 | [198804-disneys-the-little-mermaid.json](./198804-disneys-the-little-mermaid.json) |
+| Disney's The Little Mermaid | 19900 | [19900-disneys-the-little-mermaid.json](./19900-disneys-the-little-mermaid.json) |
 | Disney's The Little Mermaid | 217836 | [217836-disneys-the-little-mermaid.json](./217836-disneys-the-little-mermaid.json) |
 | Disney's The Little Mermaid II: Pinball Frenzy | 49919 | [49919-disneys-the-little-mermaid-ii-pinball-frenzy.json](./49919-disneys-the-little-mermaid-ii-pinball-frenzy.json) |
 | Disney's The Little Mermaid II: Return to the Sea | 314908 | [314908-disneys-the-little-mermaid-ii-return-to-the-sea.json](./314908-disneys-the-little-mermaid-ii-return-to-the-sea.json) |
@@ -8029,6 +8031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Siege II | 9269 | [9269-dungeon-siege-ii.json](./9269-dungeon-siege-ii.json) |
 | Dungeon Siege III: Limited Edition | 44551 | [44551-dungeon-siege-iii-limited-edition.json](./44551-dungeon-siege-iii-limited-edition.json) |
 | Dungeon Siege III: Treasures of the Sun | 10254 | [10254-dungeon-siege-iii-treasures-of-the-sun.json](./10254-dungeon-siege-iii-treasures-of-the-sun.json) |
+| Dungeon Siege: Legends of Aranna | 9271 | [9271-dungeon-siege-legends-of-aranna.json](./9271-dungeon-siege-legends-of-aranna.json) |
 | Dungeon Slave | 240814 | [240814-dungeon-slave.json](./240814-dungeon-slave.json) |
 | Dungeon Slayer | 194008 | [194008-dungeon-slayer.json](./194008-dungeon-slayer.json) |
 | Dungeon Slime Hero | 295808 | [295808-dungeon-slime-hero.json](./295808-dungeon-slime-hero.json) |
@@ -8105,6 +8108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online: Vecna Unleashed | 258958 | [258958-dungeons-and-dragons-online-vecna-unleashed.json](./258958-dungeons-and-dragons-online-vecna-unleashed.json) |
 | Dungeons & Dragons: Dark Alliance | 127348 | [127348-dungeons-and-dragons-dark-alliance.json](./127348-dungeons-and-dragons-dark-alliance.json) |
 | Dungeons & Dragons: Dragonshard | 674 | [674-dungeons-and-dragons-dragonshard.json](./674-dungeons-and-dragons-dragonshard.json) |
+| Dungeons & Dragons: Shadow over Mystara | 10253 | [10253-dungeons-and-dragons-shadow-over-mystara.json](./10253-dungeons-and-dragons-shadow-over-mystara.json) |
 | Dungeons & Drivers | 332842 | [332842-dungeons-and-drivers.json](./332842-dungeons-and-drivers.json) |
 | Dungeons & Dummies | 408190 | [408190-dungeons-and-dummies.json](./408190-dungeons-and-dummies.json) |
 | Dungeons & Geese | 51855 | [51855-dungeons-and-geese.json](./51855-dungeons-and-geese.json) |
