@@ -745,6 +745,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Guy: Time Warped | 66114 | [66114-family-guy-time-warped.json](./66114-family-guy-time-warped.json) |
 | Family Igo: Super Strong | 83472 | [83472-family-igo-super-strong.json](./83472-family-igo-super-strong.json) |
 | Family Jockey | 63542 | [63542-family-jockey.json](./63542-family-jockey.json) |
+| Family Mahjong | 48769 | [48769-family-mahjong.json](./48769-family-mahjong.json) |
+| Family Mahjong II: Shanghai he no Michi | 48768 | [48768-family-mahjong-ii-shanghai-he-no-michi.json](./48768-family-mahjong-ii-shanghai-he-no-michi.json) |
 | Family Man | 107416 | [107416-family-man.json](./107416-family-man.json) |
 | Family Mini Golf | 50744 | [50744-family-mini-golf.json](./50744-family-mini-golf.json) |
 | Family Mysteries 2: Echoes of Tomorrow | 132610 | [132610-family-mysteries-2-echoes-of-tomorrow.json](./132610-family-mysteries-2-echoes-of-tomorrow.json) |
@@ -754,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Pirate Party | 50700 | [50700-family-pirate-party.json](./50700-family-pirate-party.json) |
 | Family Reunion | 381629 | [381629-family-reunion.json](./381629-family-reunion.json) |
 | Family Road Trips | 215402 | [215402-family-road-trips.json](./215402-family-road-trips.json) |
+| Family School | 48767 | [48767-family-school.json](./48767-family-school.json) |
 | Family Secret | 75185 | [75185-family-secret.json](./75185-family-secret.json) |
 | Family Sport | 346056 | [346056-family-sport.json](./346056-family-sport.json) |
 | Family Tales: The Sisters | 356181 | [356181-family-tales-the-sisters.json](./356181-family-tales-the-sisters.json) |
