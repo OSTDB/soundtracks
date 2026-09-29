@@ -1319,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vitamin Z | 132092 | [132092-vitamin-z.json](./132092-vitamin-z.json) |
 | Vitamin Z | 60250 | [60250-vitamin-z.json](./60250-vitamin-z.json) |
 | Vitas Castle of Horror | 186018 | [186018-vitas-castle-of-horror.json](./186018-vitas-castle-of-horror.json) |
+| Vitatio | 44088 | [44088-vitatio.json](./44088-vitatio.json) |
 | Vitavania | 390673 | [390673-vitavania.json](./390673-vitavania.json) |
 | Viticulture | 200132 | [200132-viticulture.json](./200132-viticulture.json) |
 | Vitrail | 293172 | [293172-vitrail.json](./293172-vitrail.json) |
