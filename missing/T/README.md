@@ -3660,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dead Mountaineer's Hotel | 54438 | [54438-the-dead-mountaineers-hotel.json](./54438-the-dead-mountaineers-hotel.json) |
 | The Dead Prince | 196167 | [196167-the-dead-prince.json](./196167-the-dead-prince.json) |
 | The Dead Prince and the Pacifican Express | 185550 | [185550-the-dead-prince-and-the-pacifican-express.json](./185550-the-dead-prince-and-the-pacifican-express.json) |
+| The Dead Rising Collection | 47475 | [47475-the-dead-rising-collection.json](./47475-the-dead-rising-collection.json) |
 | The Dead Roam Free | 388224 | [388224-the-dead-roam-free.json](./388224-the-dead-roam-free.json) |
 | The Dead We Knew: Open World Survival | 412960 | [412960-the-dead-we-knew-open-world-survival.json](./412960-the-dead-we-knew-open-world-survival.json) |
 | The Dead Zone 2 | 308890 | [308890-the-dead-zone-2.json](./308890-the-dead-zone-2.json) |
@@ -10146,6 +10147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Woods PGA Tour 09 All-Play | 81327 | [81327-tiger-woods-pga-tour-09-all-play.json](./81327-tiger-woods-pga-tour-09-all-play.json) |
 | Tiger Woods PGA Tour 11 | 5224 | [5224-tiger-woods-pga-tour-11.json](./5224-tiger-woods-pga-tour-11.json) |
 | Tiger Woods PGA Tour 13 | 5226 | [5226-tiger-woods-pga-tour-13.json](./5226-tiger-woods-pga-tour-13.json) |
+| Tiger Woods PGA Tour 13: Masters Collector's Edition | 47419 | [47419-tiger-woods-pga-tour-13-masters-collectors-edition.json](./47419-tiger-woods-pga-tour-13-masters-collectors-edition.json) |
 | Tiger Woods PGA Tour 2000 | 249152 | [249152-tiger-woods-pga-tour-2000.json](./249152-tiger-woods-pga-tour-2000.json) |
 | Tiger Woods PGA Tour 2004 | 905 | [905-tiger-woods-pga-tour-2004.json](./905-tiger-woods-pga-tour-2004.json) |
 | Tiger Woods PGA Tour 2008 | 51234 | [51234-tiger-woods-pga-tour-2008.json](./51234-tiger-woods-pga-tour-2008.json) |
