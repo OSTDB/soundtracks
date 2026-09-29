@@ -5378,6 +5378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter's Journey: Tears of the Lake | 416706 | [416706-hunters-journey-tears-of-the-lake.json](./416706-hunters-journey-tears-of-the-lake.json) |
 | Hunter's Journey: Tears of the Lake - Collector's Edition | 362844 | [362844-hunters-journey-tears-of-the-lake-collectors-edition.json](./362844-hunters-journey-tears-of-the-lake-collectors-edition.json) |
 | Hunter's Moon | 144939 | [144939-hunters-moon.json](./144939-hunters-moon.json) |
+| Hunter's Moon | 37310 | [37310-hunters-moon.json](./37310-hunters-moon.json) |
 | Hunter's Moon | 416105 | [416105-hunters-moon.json](./416105-hunters-moon.json) |
 | Hunter's Moon Remastered | 134523 | [134523-hunters-moon-remastered.json](./134523-hunters-moon-remastered.json) |
 | Hunter's Requiem | 303563 | [303563-hunters-requiem.json](./303563-hunters-requiem.json) |
