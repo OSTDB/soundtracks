@@ -2182,6 +2182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CELL 0: Cyber Entertainment Leisure Lounge | 326756 | [326756-cell-0-cyber-entertainment-leisure-lounge.json](./326756-cell-0-cyber-entertainment-leisure-lounge.json) |
 | Cell Bound | 254495 | [254495-cell-bound.json](./254495-cell-bound.json) |
 | Cell Command | 323507 | [323507-cell-command.json](./323507-cell-command.json) |
+| Cell HD: emergence | 36137 | [36137-cell-hd-emergence.json](./36137-cell-hd-emergence.json) |
 | Cell of Empireo | 175966 | [175966-cell-of-empireo.json](./175966-cell-of-empireo.json) |
 | Cell of Empireo: Isoi Sanemitsu no Records | 243655 | [243655-cell-of-empireo-isoi-sanemitsu-no-records.json](./243655-cell-of-empireo-isoi-sanemitsu-no-records.json) |
 | Cell of Empireo: RTC - Interlude | 301419 | [301419-cell-of-empireo-rtc-interlude.json](./301419-cell-of-empireo-rtc-interlude.json) |
@@ -4601,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudlings | 404925 | [404925-cloudlings.json](./404925-cloudlings.json) |
 | CloudNovel Breakdown!! | 397227 | [397227-cloudnovel-breakdown.json](./397227-cloudnovel-breakdown.json) |
 | Cloudpaws | 403694 | [403694-cloudpaws.json](./403694-cloudpaws.json) |
+| Cloudphobia | 36194 | [36194-cloudphobia.json](./36194-cloudphobia.json) |
 | Cloudpunk | 111837 | [111837-cloudpunk.json](./111837-cloudpunk.json) |
 | Cloudpunk: Ultimate Edition | 193737 | [193737-cloudpunk-ultimate-edition.json](./193737-cloudpunk-ultimate-edition.json) |
 | Clouds & Sheep | 255732 | [255732-clouds-and-sheep.json](./255732-clouds-and-sheep.json) |
@@ -8289,6 +8291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Runner | 30128 | [30128-cube-runner.json](./30128-cube-runner.json) |
 | Cube Runner | 72964 | [72964-cube-runner.json](./72964-cube-runner.json) |
 | Cube Rush | 112340 | [112340-cube-rush.json](./112340-cube-rush.json) |
+| Cube Samurai: RUN! | 36290 | [36290-cube-samurai-run.json](./36290-cube-samurai-run.json) |
 | Cube School | 408905 | [408905-cube-school.json](./408905-cube-school.json) |
 | Cube Smash | 129087 | [129087-cube-smash.json](./129087-cube-smash.json) |
 | Cube Snake | 318968 | [318968-cube-snake.json](./318968-cube-snake.json) |
