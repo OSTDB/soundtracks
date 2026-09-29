@@ -2243,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Adventures: Ultimate Deer Hunt 3D | 85491 | [85491-wild-adventures-ultimate-deer-hunt-3d.json](./85491-wild-adventures-ultimate-deer-hunt-3d.json) |
 | Wild Africa Mahjong | 102735 | [102735-wild-africa-mahjong.json](./102735-wild-africa-mahjong.json) |
 | Wild Americas | 247979 | [247979-wild-americas.json](./247979-wild-americas.json) |
+| Wild Arena | 31072 | [31072-wild-arena.json](./31072-wild-arena.json) |
 | Wild Arms | 1677 | [1677-wild-arms.json](./1677-wild-arms.json) |
 | Wild Arms | 205593 | [205593-wild-arms.json](./205593-wild-arms.json) |
 | Wild Arms 2 | 239198 | [239198-wild-arms-2.json](./239198-wild-arms-2.json) |
