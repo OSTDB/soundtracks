@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACE / ACE 2 | 138690 | [138690-ace-ace-2.json](./138690-ace-ace-2.json) |
 | Ace Angler | 144863 | [144863-ace-angler.json](./144863-ace-angler.json) |
 | Ace Angler | 292017 | [292017-ace-angler.json](./292017-ace-angler.json) |
+| Ace Armstrong vs. The Alien Scumbags! | 42784 | [42784-ace-armstrong-vs-the-alien-scumbags.json](./42784-ace-armstrong-vs-the-alien-scumbags.json) |
 | Ace Attorney Investigations 0: Quercus Alba Dating Simulator | 237350 | [237350-ace-attorney-investigations-0-quercus-alba-dating-simulator.json](./237350-ace-attorney-investigations-0-quercus-alba-dating-simulator.json) |
 | Ace Attorney Investigations 2: Prosecutor's Gambit | 307145 | [307145-ace-attorney-investigations-2-prosecutors-gambit.json](./307145-ace-attorney-investigations-2-prosecutors-gambit.json) |
 | Ace Attorney Turnabout Collection | 146326 | [146326-ace-attorney-turnabout-collection.json](./146326-ace-attorney-turnabout-collection.json) |
@@ -2561,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Hallway | 16246 | [16246-alien-hallway.json](./16246-alien-hallway.json) |
 | Alien Hallway 2 | 72351 | [72351-alien-hallway-2.json](./72351-alien-hallway-2.json) |
 | Alien Harvest Leader | 141890 | [141890-alien-harvest-leader.json](./141890-alien-harvest-leader.json) |
+| Alien Havoc | 42783 | [42783-alien-havoc.json](./42783-alien-havoc.json) |
 | Alien Hell | 24895 | [24895-alien-hell.json](./24895-alien-hell.json) |
 | Alien Hive | 203299 | [203299-alien-hive.json](./203299-alien-hive.json) |
 | Alien Holiday | 300813 | [300813-alien-holiday.json](./300813-alien-holiday.json) |
@@ -4583,6 +4585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aotu World | 241502 | [241502-aotu-world.json](./241502-aotu-world.json) |
 | Aozora Under Girls: Karsome Irony | 119755 | [119755-aozora-under-girls-karsome-irony.json](./119755-aozora-under-girls-karsome-irony.json) |
 | Apache | 600 | [600-apache.json](./600-apache.json) |
+| Apache Overkill | 42782 | [42782-apache-overkill.json](./42782-apache-overkill.json) |
 | Apache Strike | 137662 | [137662-apache-strike.json](./137662-apache-strike.json) |
 | Apano Sin | 14259 | [14259-apano-sin.json](./14259-apano-sin.json) |
 | Apano Syn Fighter | 304571 | [304571-apano-syn-fighter.json](./304571-apano-syn-fighter.json) |
@@ -4615,6 +4618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ape Escape: On the Loose | 44530 | [44530-ape-escape-on-the-loose.json](./44530-ape-escape-on-the-loose.json) |
 | Ape Hit | 107824 | [107824-ape-hit.json](./107824-ape-hit.json) |
 | Ape Out | 27719 | [27719-ape-out.json](./27719-ape-out.json) |
+| Ape Quest | 42799 | [42799-ape-quest.json](./42799-ape-quest.json) |
 | Ape Reunion | 271267 | [271267-ape-reunion.json](./271267-ape-reunion.json) |
 | Apeiron: Tower Defense | 170856 | [170856-apeiron-tower-defense.json](./170856-apeiron-tower-defense.json) |
 | Aperture | 287217 | [287217-aperture.json](./287217-aperture.json) |
@@ -5405,6 +5409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic | 56479 | [56479-arctic.json](./56479-arctic.json) |
 | Arctic Adventure | 8488 | [8488-arctic-adventure.json](./8488-arctic-adventure.json) |
 | Arctic Adventure: Episodes | 28783 | [28783-arctic-adventure-episodes.json](./28783-arctic-adventure-episodes.json) |
+| Arctic Adventures | 42780 | [42780-arctic-adventures.json](./42780-arctic-adventures.json) |
 | Arctic Adventures: Polar's Puzzles | 118931 | [118931-arctic-adventures-polars-puzzles.json](./118931-arctic-adventures-polars-puzzles.json) |
 | Arctic Cave | 98987 | [98987-arctic-cave.json](./98987-arctic-cave.json) |
 | Arctic Combat | 63888 | [63888-arctic-combat.json](./63888-arctic-combat.json) |
@@ -6825,6 +6830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Firis: The Alchemist and the Mysterious Journey - Heintz | 170836 | [170836-atelier-firis-the-alchemist-and-the-mysterious-journey-heintz.json](./170836-atelier-firis-the-alchemist-and-the-mysterious-journey-heintz.json) |
 | Atelier Firis: The Alchemist and the Mysterious Journey - Shanon | 170837 | [170837-atelier-firis-the-alchemist-and-the-mysterious-journey-shanon.json](./170837-atelier-firis-the-alchemist-and-the-mysterious-journey-shanon.json) |
 | Atelier Iris 2: The Azoth of Destiny | 20510 | [20510-atelier-iris-2-the-azoth-of-destiny.json](./20510-atelier-iris-2-the-azoth-of-destiny.json) |
+| Atelier Judie: The Alchemist of Gramnad - Imprisoned Guardian | 42756 | [42756-atelier-judie-the-alchemist-of-gramnad-imprisoned-guardian.json](./42756-atelier-judie-the-alchemist-of-gramnad-imprisoned-guardian.json) |
 | Atelier Lilie Plus: The Alchemist of Salburg 3 | 43516 | [43516-atelier-lilie-plus-the-alchemist-of-salburg-3.json](./43516-atelier-lilie-plus-the-alchemist-of-salburg-3.json) |
 | Atelier Lulua: The Scion of Arland - Additional Character: Meruru | 238049 | [238049-atelier-lulua-the-scion-of-arland-additional-character-meruru.json](./238049-atelier-lulua-the-scion-of-arland-additional-character-meruru.json) |
 | Atelier Lulua: The Scion of Arland - Additional Character: Totori | 238050 | [238050-atelier-lulua-the-scion-of-arland-additional-character-totori.json](./238050-atelier-lulua-the-scion-of-arland-additional-character-totori.json) |
@@ -6861,6 +6867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream - Extra Area: Atelier Plachta | 199509 | [199509-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-extra-area-atelier-plachta.json](./199509-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-extra-area-atelier-plachta.json) |
 | Atelier Totori: The Adventurer of Arland | 7276 | [7276-atelier-totori-the-adventurer-of-arland.json](./7276-atelier-totori-the-adventurer-of-arland.json) |
 | Atelier Totori: The Adventurer of Arland DX | 105030 | [105030-atelier-totori-the-adventurer-of-arland-dx.json](./105030-atelier-totori-the-adventurer-of-arland-dx.json) |
+| Atelier Violet: The Alchemist of Gramnad 2 - The Memories of Ultramarine | 42755 | [42755-atelier-violet-the-alchemist-of-gramnad-2-the-memories-of-ultramarine.json](./42755-atelier-violet-the-alchemist-of-gramnad-2-the-memories-of-ultramarine.json) |
 | Atelier Yumia: "Blooming Heart" Costume for Nina | 333754 | [333754-atelier-yumia-blooming-heart-costume-for-nina.json](./333754-atelier-yumia-blooming-heart-costume-for-nina.json) |
 | Atelier Yumia: "Cute Kitty Swimsuit" Costume for Lenja | 333755 | [333755-atelier-yumia-cute-kitty-swimsuit-costume-for-lenja.json](./333755-atelier-yumia-cute-kitty-swimsuit-costume-for-lenja.json) |
 | Atelier Yumia: "Ebony Outlaw" Costume for Rutger | 333756 | [333756-atelier-yumia-ebony-outlaw-costume-for-rutger.json](./333756-atelier-yumia-ebony-outlaw-costume-for-rutger.json) |
