@@ -1759,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Crow Mysteries: Legion | 9410 | [9410-red-crow-mysteries-legion.json](./9410-red-crow-mysteries-legion.json) |
 | Red Crucible: Phoenix Rising | 240786 | [240786-red-crucible-phoenix-rising.json](./240786-red-crucible-phoenix-rising.json) |
 | Red Dead Online | 141338 | [141338-red-dead-online.json](./141338-red-dead-online.json) |
+| Red Dead Redemption | 260737 | [260737-red-dead-redemption.json](./260737-red-dead-redemption.json) |
 | Red Dead Redemption 2: Collector's Box | 103207 | [103207-red-dead-redemption-2-collectors-box.json](./103207-red-dead-redemption-2-collectors-box.json) |
 | Red Dead Redemption 2: Special Edition | 103205 | [103205-red-dead-redemption-2-special-edition.json](./103205-red-dead-redemption-2-special-edition.json) |
 | Red Dead Redemption: Gunslingers | 355106 | [355106-red-dead-redemption-gunslingers.json](./355106-red-dead-redemption-gunslingers.json) |
@@ -3225,6 +3226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricky Recharge | 121593 | [121593-ricky-recharge.json](./121593-ricky-recharge.json) |
 | Ricochet | 209166 | [209166-ricochet.json](./209166-ricochet.json) |
 | Ricochet | 368008 | [368008-ricochet.json](./368008-ricochet.json) |
+| Ricochet | 7589 | [7589-ricochet.json](./7589-ricochet.json) |
 | Ricochet Blur | 226453 | [226453-ricochet-blur.json](./226453-ricochet-blur.json) |
 | Ricochet Bounce | 152816 | [152816-ricochet-bounce.json](./152816-ricochet-bounce.json) |
 | Ricochet Kills 2 | 235241 | [235241-ricochet-kills-2.json](./235241-ricochet-kills-2.json) |
@@ -5509,6 +5511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruina | 373073 | [373073-ruina.json](./373073-ruina.json) |
 | Ruina Remake | 234152 | [234152-ruina-remake.json](./234152-ruina-remake.json) |
 | Ruindrift | 371883 | [371883-ruindrift.json](./371883-ruindrift.json) |
+| Ruined King: A League of Legends Story | 127358 | [127358-ruined-king-a-league-of-legends-story.json](./127358-ruined-king-a-league-of-legends-story.json) |
 | Ruined King: A League of Legends Story - Deluxe Edition | 186888 | [186888-ruined-king-a-league-of-legends-story-deluxe-edition.json](./186888-ruined-king-a-league-of-legends-story-deluxe-edition.json) |
 | Ruined Kingdom | 235839 | [235839-ruined-kingdom.json](./235839-ruined-kingdom.json) |
 | Ruins | 94178 | [94178-ruins.json](./94178-ruins.json) |
