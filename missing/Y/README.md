@@ -750,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Power of Chaos: Yugi the Destiny | 50834 | [50834-yu-gi-oh-power-of-chaos-yugi-the-destiny.json](./50834-yu-gi-oh-power-of-chaos-yugi-the-destiny.json) |
 | Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale | 159242 | [159242-yu-gi-oh-rush-duel-dawn-of-the-battle-royale.json](./159242-yu-gi-oh-rush-duel-dawn-of-the-battle-royale.json) |
 | Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale - Let's Go! Go Rush!! | 217963 | [217963-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush.json](./217963-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush.json) |
+| Yu-Gi-Oh! The Sacred Cards | 6697 | [6697-yu-gi-oh-the-sacred-cards.json](./6697-yu-gi-oh-the-sacred-cards.json) |
 | Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006 | 49377 | [49377-yu-gi-oh-ultimate-masters-world-championship-tournament-2006.json](./49377-yu-gi-oh-ultimate-masters-world-championship-tournament-2006.json) |
 | Yu-Gi-Oh! World Championship 2007 | 21444 | [21444-yu-gi-oh-world-championship-2007.json](./21444-yu-gi-oh-world-championship-2007.json) |
 | Yu-Gi-Oh! Zexal World Duel Carnival | 47665 | [47665-yu-gi-oh-zexal-world-duel-carnival.json](./47665-yu-gi-oh-zexal-world-duel-carnival.json) |
