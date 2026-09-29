@@ -1348,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PastoralPainting | 270078 | [270078-pastoralpainting.json](./270078-pastoralpainting.json) |
 | Pastry Lovers | 30029 | [30029-pastry-lovers.json](./30029-pastry-lovers.json) |
 | Pastry Wars | 91730 | [91730-pastry-wars.json](./91730-pastry-wars.json) |
+| Pat Riley Basketball | 28020 | [28020-pat-riley-basketball.json](./28020-pat-riley-basketball.json) |
 | Pat Sajak's Trivia Gems | 98966 | [98966-pat-sajaks-trivia-gems.json](./98966-pat-sajaks-trivia-gems.json) |
 | Pata | 236799 | [236799-pata.json](./236799-pata.json) |
 | Patagon | 223412 | [223412-patagon.json](./223412-patagon.json) |
@@ -3202,6 +3203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Wicked | 43121 | [43121-pinball-wicked.json](./43121-pinball-wicked.json) |
 | Pinball Wizard | 12959 | [12959-pinball-wizard.json](./12959-pinball-wizard.json) |
 | Pinball World | 51887 | [51887-pinball-world.json](./51887-pinball-world.json) |
+| Pinball Yeah! | 28053 | [28053-pinball-yeah.json](./28053-pinball-yeah.json) |
 | Pinball-e | 170009 | [170009-pinball-e.json](./170009-pinball-e.json) |
 | Pinball: Breakthrough Gaming Arcade | 192327 | [192327-pinball-breakthrough-gaming-arcade.json](./192327-pinball-breakthrough-gaming-arcade.json) |
 | Pinball: Our Church and Halloween RPG - Machine #1 | 208619 | [208619-pinball-our-church-and-halloween-rpg-machine-1.json](./208619-pinball-our-church-and-halloween-rpg-machine-1.json) |
@@ -5562,6 +5564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PoPoRoGue | 79937 | [79937-poporogue.json](./79937-poporogue.json) |
 | Poppet Quest | 358933 | [358933-poppet-quest.json](./358933-poppet-quest.json) |
 | Poppi | 181301 | [181301-poppi.json](./181301-poppi.json) |
+| Poppin Bottles | 28099 | [28099-poppin-bottles.json](./28099-poppin-bottles.json) |
 | Poppin' Donuts | 157215 | [157215-poppin-donuts.json](./157215-poppin-donuts.json) |
 | Poppit! Party | 354993 | [354993-poppit-party.json](./354993-poppit-party.json) |
 | Poppit! Sprint | 366445 | [366445-poppit-sprint.json](./366445-poppit-sprint.json) |
@@ -6024,6 +6027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PQ2: Practical Intelligence Quotient 2 | 44506 | [44506-pq2-practical-intelligence-quotient-2.json](./44506-pq2-practical-intelligence-quotient-2.json) |
 | Practical Pinball | 367477 | [367477-practical-pinball.json](./367477-practical-pinball.json) |
 | Practical Shooting Simulator | 151105 | [151105-practical-shooting-simulator.json](./151105-practical-shooting-simulator.json) |
+| Prado Car Stunts Arena | 27993 | [27993-prado-car-stunts-arena.json](./27993-prado-car-stunts-arena.json) |
 | PraeBot | 115168 | [115168-praebot.json](./115168-praebot.json) |
 | Praetorians HD Remaster | 119382 | [119382-praetorians-hd-remaster.json](./119382-praetorians-hd-remaster.json) |
 | Praey for the Gods | 14378 | [14378-praey-for-the-gods.json](./14378-praey-for-the-gods.json) |
@@ -7354,6 +7358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PSXGarcello | 404439 | [404439-psxgarcello.json](./404439-psxgarcello.json) |
 | Psy High 2: High Summer | 121702 | [121702-psy-high-2-high-summer.json](./121702-psy-high-2-high-summer.json) |
 | PSY in Apocalypse | 270953 | [270953-psy-in-apocalypse.json](./270953-psy-in-apocalypse.json) |
+| Psy-O-Blade | 28023 | [28023-psy-o-blade.json](./28023-psy-o-blade.json) |
 | Psy-O-Blade | 327404 | [327404-psy-o-blade.json](./327404-psy-o-blade.json) |
 | Psy-Phi | 66393 | [66393-psy-phi.json](./66393-psy-phi.json) |
 | PsyBurst | 107852 | [107852-psyburst.json](./107852-psyburst.json) |
