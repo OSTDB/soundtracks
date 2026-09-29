@@ -1484,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Cells: Everyone is Here! | 221962 | [221962-dead-cells-everyone-is-here.json](./221962-dead-cells-everyone-is-here.json) |
 | Dead Cells: Netflix Edition | 274723 | [274723-dead-cells-netflix-edition.json](./274723-dead-cells-netflix-edition.json) |
 | Dead Cells: Prisoner's Edition | 136322 | [136322-dead-cells-prisoners-edition.json](./136322-dead-cells-prisoners-edition.json) |
+| Dead Cells: Return to Castlevania | 228520 | [228520-dead-cells-return-to-castlevania.json](./228520-dead-cells-return-to-castlevania.json) |
 | Dead Cells: Return to Castlevania - Signature Edition | 387498 | [387498-dead-cells-return-to-castlevania-signature-edition.json](./387498-dead-cells-return-to-castlevania-signature-edition.json) |
 | Dead Cells: The Bad Seed | 127256 | [127256-dead-cells-the-bad-seed.json](./127256-dead-cells-the-bad-seed.json) |
 | Dead Cells: The Fatal Seed Bundle | 154957 | [154957-dead-cells-the-fatal-seed-bundle.json](./154957-dead-cells-the-fatal-seed-bundle.json) |
@@ -6771,6 +6772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drain Runner | 210885 | [210885-drain-runner.json](./210885-drain-runner.json) |
 | Drains | 62662 | [62662-drains.json](./62662-drains.json) |
 | DrainSim | 303490 | [303490-drainsim.json](./303490-drainsim.json) |
+| Drainus | 202389 | [202389-drainus.json](./202389-drainus.json) |
 | Draíocht | 141076 | [141076-draiocht.json](./141076-draiocht.json) |
 | Drak | 168390 | [168390-drak.json](./168390-drak.json) |
 | Drak | 72148 | [72148-drak.json](./72148-drak.json) |
@@ -8126,6 +8128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons | 8849 | [8849-dungeons.json](./8849-dungeons.json) |
 | Dungeons & Bombs | 143488 | [143488-dungeons-and-bombs.json](./143488-dungeons-and-bombs.json) |
 | Dungeons & Brooms | 183447 | [183447-dungeons-and-brooms.json](./183447-dungeons-and-brooms.json) |
+| Dungeons & Degenerate Gamblers | 248673 | [248673-dungeons-and-degenerate-gamblers.json](./248673-dungeons-and-degenerate-gamblers.json) |
 | Dungeons & Desserts | 349371 | [349371-dungeons-and-desserts.json](./349371-dungeons-and-desserts.json) |
 | Dungeons & Dragons Bundle | 242666 | [242666-dungeons-and-dragons-bundle.json](./242666-dungeons-and-dragons-bundle.json) |
 | Dungeons & Dragons Collection | 22831 | [22831-dungeons-and-dragons-collection.json](./22831-dungeons-and-dragons-collection.json) |
