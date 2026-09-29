@@ -990,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks | 259625 | [259625-tanks.json](./259625-tanks.json) |
 | Tanks 3D | 328019 | [328019-tanks-3d.json](./328019-tanks-3d.json) |
 | Tanks and Turrets 3 | 247439 | [247439-tanks-and-turrets-3.json](./247439-tanks-and-turrets-3.json) |
+| Tanks Blitz | 352188 | [352188-tanks-blitz.json](./352188-tanks-blitz.json) |
 | Tanks Boom Boom | 210872 | [210872-tanks-boom-boom.json](./210872-tanks-boom-boom.json) |
 | Tanks But No Tanks | 40724 | [40724-tanks-but-no-tanks.json](./40724-tanks-but-no-tanks.json) |
 | Tanks Defense | 298013 | [298013-tanks-defense.json](./298013-tanks-defense.json) |
@@ -2421,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Lava Escape Game | 128015 | [128015-that-lava-escape-game.json](./128015-that-lava-escape-game.json) |
 | That Night | 218733 | [218733-that-night.json](./218733-that-night.json) |
 | That One Celestial Night | 176495 | [176495-that-one-celestial-night.json](./176495-that-one-celestial-night.json) |
+| That One Otter Game | 355527 | [355527-that-one-otter-game.json](./355527-that-one-otter-game.json) |
 | That Puzzle Game Everyone Knows | 135023 | [135023-that-puzzle-game-everyone-knows.json](./135023-that-puzzle-game-everyone-knows.json) |
 | That Racecar Game | 241651 | [241651-that-racecar-game.json](./241651-that-racecar-game.json) |
 | That Rocket Game | 244356 | [244356-that-rocket-game.json](./244356-that-rocket-game.json) |
@@ -5064,6 +5066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible Machine 3 | 9263 | [9263-the-incredible-machine-3.json](./9263-the-incredible-machine-3.json) |
 | The Incredible Toon Machine | 13778 | [13778-the-incredible-toon-machine.json](./13778-the-incredible-toon-machine.json) |
 | The Incredible VR Game Show | 83946 | [83946-the-incredible-vr-game-show.json](./83946-the-incredible-vr-game-show.json) |
+| The Incredibles | 210442 | [210442-the-incredibles.json](./210442-the-incredibles.json) |
 | The Incredibles | 3782 | [3782-the-incredibles.json](./3782-the-incredibles.json) |
 | The Incredibles: Mission Incredible | 213375 | [213375-the-incredibles-mission-incredible.json](./213375-the-incredibles-mission-incredible.json) |
 | The Incredibles: Rise of the Underminer | 3955 | [3955-the-incredibles-rise-of-the-underminer.json](./3955-the-incredibles-rise-of-the-underminer.json) |
@@ -7495,6 +7498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons.exe | 388397 | [388397-the-simpsons-exe.json](./388397-the-simpsons-exe.json) |
 | The Sims 2 | 192905 | [192905-the-sims-2.json](./192905-the-sims-2.json) |
 | The Sims 2 | 192906 | [192906-the-sims-2.json](./192906-the-sims-2.json) |
+| The Sims 2 | 210460 | [210460-the-sims-2.json](./210460-the-sims-2.json) |
 | The Sims 2: Apartment Life | 5538 | [5538-the-sims-2-apartment-life.json](./5538-the-sims-2-apartment-life.json) |
 | The Sims 2: Bon Voyage | 5536 | [5536-the-sims-2-bon-voyage.json](./5536-the-sims-2-bon-voyage.json) |
 | The Sims 2: Castaway | 192908 | [192908-the-sims-2-castaway.json](./192908-the-sims-2-castaway.json) |
@@ -8545,6 +8549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: The Telltale Definitive Series - Protector Pack | 117677 | [117677-the-walking-dead-the-telltale-definitive-series-protector-pack.json](./117677-the-walking-dead-the-telltale-definitive-series-protector-pack.json) |
 | The Walking Dead: The Telltale Definitive Series - Signature Pack | 117679 | [117679-the-walking-dead-the-telltale-definitive-series-signature-pack.json](./117679-the-walking-dead-the-telltale-definitive-series-signature-pack.json) |
 | The Walking Dead: The Telltale Series Collection | 77489 | [77489-the-walking-dead-the-telltale-series-collection.json](./77489-the-walking-dead-the-telltale-series-collection.json) |
+| The Walking Trade | 345095 | [345095-the-walking-trade.json](./345095-the-walking-trade.json) |
 | The Walking Vegetables | 61617 | [61617-the-walking-vegetables.json](./61617-the-walking-vegetables.json) |
 | The Wall | 13086 | [13086-the-wall.json](./13086-the-wall.json) |
 | The Wall | 200750 | [200750-the-wall.json](./200750-the-wall.json) |
@@ -11214,6 +11219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toeic Test DS Training | 124095 | [124095-toeic-test-ds-training.json](./124095-toeic-test-ds-training.json) |
 | ToeJam & Earl in Panic on Funkotron | 11123 | [11123-toejam-and-earl-in-panic-on-funkotron.json](./11123-toejam-and-earl-in-panic-on-funkotron.json) |
 | Toewr le Fence | 157143 | [157143-toewr-le-fence.json](./157143-toewr-le-fence.json) |
+| Tofu Dream | 358734 | [358734-tofu-dream.json](./358734-tofu-dream.json) |
 | Tofu Drifter | 234600 | [234600-tofu-drifter.json](./234600-tofu-drifter.json) |
 | Tofu Go! 2: The Onsen Adventure | 242206 | [242206-tofu-go-2-the-onsen-adventure.json](./242206-tofu-go-2-the-onsen-adventure.json) |
 | Tofu'Drift | 242629 | [242629-tofudrift.json](./242629-tofudrift.json) |
