@@ -2018,6 +2018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Sword | 4639 | [4639-death-sword.json](./4639-death-sword.json) |
 | Death Tank | 21259 | [21259-death-tank.json](./21259-death-tank.json) |
 | Death the Guitar | 257925 | [257925-death-the-guitar.json](./257925-death-the-guitar.json) |
+| Death to Spies | 9376 | [9376-death-to-spies.json](./9376-death-to-spies.json) |
 | Death to Spies: Gold Edition | 51291 | [51291-death-to-spies-gold-edition.json](./51291-death-to-spies-gold-edition.json) |
 | Death to Spies: Moment of Truth | 9377 | [9377-death-to-spies-moment-of-truth.json](./9377-death-to-spies-moment-of-truth.json) |
 | Death Tormention: The Complete Trilogy | 261287 | [261287-death-tormention-the-complete-trilogy.json](./261287-death-tormention-the-complete-trilogy.json) |
@@ -3892,6 +3893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Collectors | 108999 | [108999-digimon-collectors.json](./108999-digimon-collectors.json) |
 | Digimon Color Monster Hunter 20th Edition | 335863 | [335863-digimon-color-monster-hunter-20th-edition.json](./335863-digimon-color-monster-hunter-20th-edition.json) |
 | Digimon Davis and Veemon | 203236 | [203236-digimon-davis-and-veemon.json](./203236-digimon-davis-and-veemon.json) |
+| Digimon Digital Card Battle | 44819 | [44819-digimon-digital-card-battle.json](./44819-digimon-digital-card-battle.json) |
 | Digimon Fortune | 56488 | [56488-digimon-fortune.json](./56488-digimon-fortune.json) |
 | Digimon Fusion Fighters | 327211 | [327211-digimon-fusion-fighters.json](./327211-digimon-fusion-fighters.json) |
 | Digimon Kari and Gatomon | 203235 | [203235-digimon-kari-and-gatomon.json](./203235-digimon-kari-and-gatomon.json) |
@@ -8134,6 +8136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Lesbians | 134554 | [134554-dungeons-and-lesbians.json](./134554-dungeons-and-lesbians.json) |
 | Dungeons & Warbands | 390685 | [390685-dungeons-and-warbands.json](./390685-dungeons-and-warbands.json) |
 | Dungeons & Zombies | 125215 | [125215-dungeons-and-zombies.json](./125215-dungeons-and-zombies.json) |
+| Dungeons 2 | 9767 | [9767-dungeons-2.json](./9767-dungeons-2.json) |
 | Dungeons 2: A Clash of Pumpkins | 138050 | [138050-dungeons-2-a-clash-of-pumpkins.json](./138050-dungeons-2-a-clash-of-pumpkins.json) |
 | Dungeons 3: An Unexpected DLC | 115420 | [115420-dungeons-3-an-unexpected-dlc.json](./115420-dungeons-3-an-unexpected-dlc.json) |
 | Dungeons 3: Complete Collection | 136320 | [136320-dungeons-3-complete-collection.json](./136320-dungeons-3-complete-collection.json) |
