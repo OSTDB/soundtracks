@@ -877,6 +877,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Unbound - Vol. 7 Premium Speed Pass | 301851 | [301851-need-for-speed-unbound-vol-7-premium-speed-pass.json](./301851-need-for-speed-unbound-vol-7-premium-speed-pass.json) |
 | Need for Speed: Undercover | 248137 | [248137-need-for-speed-undercover.json](./248137-need-for-speed-undercover.json) |
 | Need for Speed: Undercover | 248138 | [248138-need-for-speed-undercover.json](./248138-need-for-speed-undercover.json) |
+| Need for Speed: Undercover | 248142 | [248142-need-for-speed-undercover.json](./248142-need-for-speed-undercover.json) |
+| Need for Speed: Underground | 242990 | [242990-need-for-speed-underground.json](./242990-need-for-speed-underground.json) |
 | Need More Troops | 165680 | [165680-need-more-troops.json](./165680-need-more-troops.json) |
 | Need to Know | 18234 | [18234-need-to-know.json](./18234-need-to-know.json) |
 | Needle & Thread | 330155 | [330155-needle-and-thread.json](./330155-needle-and-thread.json) |
