@@ -1557,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volden Idle | 274500 | [274500-volden-idle.json](./274500-volden-idle.json) |
 | Vole Complexity | 123496 | [123496-vole-complexity.json](./123496-vole-complexity.json) |
 | Voleur! | 411693 | [411693-voleur.json](./411693-voleur.json) |
+| Volfied | 4469 | [4469-volfied.json](./4469-volfied.json) |
 | Volfoss | 66699 | [66699-volfoss.json](./66699-volfoss.json) |
 | Volgarr the Viking II | 304741 | [304741-volgarr-the-viking-ii.json](./304741-volgarr-the-viking-ii.json) |
 | Volkstein | 90150 | [90150-volkstein.json](./90150-volkstein.json) |
