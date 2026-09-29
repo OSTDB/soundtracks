@@ -436,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Sex | 365717 | [365717-office-sex.json](./365717-office-sex.json) |
 | Office Simulator | 159828 | [159828-office-simulator.json](./159828-office-simulator.json) |
 | Office Simulator | 326392 | [326392-office-simulator.json](./326392-office-simulator.json) |
+| Office Space: Idle Profits | 55977 | [55977-office-space-idle-profits.json](./55977-office-space-idle-profits.json) |
 | Office Waifu | 248664 | [248664-office-waifu.json](./248664-office-waifu.json) |
 | Office Zombie | 316740 | [316740-office-zombie.json](./316740-office-zombie.json) |
 | Officers | 21119 | [21119-officers.json](./21119-officers.json) |
