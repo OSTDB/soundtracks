@@ -1815,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fetus in Oil Painting | 279136 | [279136-fetus-in-oil-painting.json](./279136-fetus-in-oil-painting.json) |
 | Feud | 113037 | [113037-feud.json](./113037-feud.json) |
 | Feud | 12094 | [12094-feud.json](./12094-feud.json) |
+| Feudal Alloy | 65820 | [65820-feudal-alloy.json](./65820-feudal-alloy.json) |
 | Feudal Friends | 239587 | [239587-feudal-friends.json](./239587-feudal-friends.json) |
 | Feudal Wars | 58897 | [58897-feudal-wars.json](./58897-feudal-wars.json) |
 | Feudalism | 234914 | [234914-feudalism.json](./234914-feudalism.json) |
@@ -2577,6 +2578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fir Flowers and Hyacinths | 369636 | [369636-fir-flowers-and-hyacinths.json](./369636-fir-flowers-and-hyacinths.json) |
 | Fira | 173315 | [173315-fira.json](./173315-fira.json) |
 | Fire | 152137 | [152137-fire.json](./152137-fire.json) |
+| Fire 'n Ice | 48671 | [48671-fire-n-ice.json](./48671-fire-n-ice.json) |
 | Fire & Brimstone | 336714 | [336714-fire-and-brimstone.json](./336714-fire-and-brimstone.json) |
 | Fire & Ice: The Daring Adventures of Cool Coyote | 12099 | [12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json](./12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json) |
 | Fire & Water | 147997 | [147997-fire-and-water.json](./147997-fire-and-water.json) |
@@ -3936,6 +3938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flyland Wars: 3 Model Trains | 173041 | [173041-flyland-wars-3-model-trains.json](./173041-flyland-wars-3-model-trains.json) |
 | FlyManMissile | 368666 | [368666-flymanmissile.json](./368666-flymanmissile.json) |
 | Flynguin Station | 121006 | [121006-flynguin-station.json](./121006-flynguin-station.json) |
+| Flynn: Son of Crimson | 71595 | [71595-flynn-son-of-crimson.json](./71595-flynn-son-of-crimson.json) |
 | Flyon RC | 406173 | [406173-flyon-rc.json](./406173-flyon-rc.json) |
 | Flyonoid | 122971 | [122971-flyonoid.json](./122971-flyonoid.json) |
 | FlyOrDie GemJam | 79952 | [79952-flyordie-gemjam.json](./79952-flyordie-gemjam.json) |
@@ -6318,6 +6321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuyu no Sonata DS | 124014 | [124014-fuyu-no-sonata-ds.json](./124014-fuyu-no-sonata-ds.json) |
 | Fuze4 Nintendo Switch | 85161 | [85161-fuze4-nintendo-switch.json](./85161-fuze4-nintendo-switch.json) |
 | Fuzecat | 36525 | [36525-fuzecat.json](./36525-fuzecat.json) |
+| Fuzion Frenzy | 5842 | [5842-fuzion-frenzy.json](./5842-fuzion-frenzy.json) |
 | Fuzoku Frame | 368118 | [368118-fuzoku-frame.json](./368118-fuzoku-frame.json) |
 | Fuzz | 240718 | [240718-fuzz.json](./240718-fuzz.json) |
 | Fuzzball | 69573 | [69573-fuzzball.json](./69573-fuzzball.json) |
