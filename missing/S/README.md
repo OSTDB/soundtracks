@@ -1744,6 +1744,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam G Generation World | 75732 | [75732-sd-gundam-g-generation-world.json](./75732-sd-gundam-g-generation-world.json) |
 | SD Gundam G Generation-F | 75729 | [75729-sd-gundam-g-generation-f.json](./75729-sd-gundam-g-generation-f.json) |
 | SD Gundam G Generation-F IF | 75730 | [75730-sd-gundam-g-generation-f-if.json](./75730-sd-gundam-g-generation-f-if.json) |
+| SD Gundam G Generation: Gather Beat 2 | 37321 | [37321-sd-gundam-g-generation-gather-beat-2.json](./37321-sd-gundam-g-generation-gather-beat-2.json) |
+| SD Gundam G Generation: Mono-Eye Gundams | 37320 | [37320-sd-gundam-g-generation-mono-eye-gundams.json](./37320-sd-gundam-g-generation-mono-eye-gundams.json) |
 | SD Gundam G Next | 38324 | [38324-sd-gundam-g-next.json](./38324-sd-gundam-g-next.json) |
 | SD Gundam G Next: Tsuika Unit Map Data | 234760 | [234760-sd-gundam-g-next-tsuika-unit-map-data.json](./234760-sd-gundam-g-next-tsuika-unit-map-data.json) |
 | SD Gundam Gaiden: Knight Gundam Monogatari | 38326 | [38326-sd-gundam-gaiden-knight-gundam-monogatari.json](./38326-sd-gundam-gaiden-knight-gundam-monogatari.json) |
@@ -2452,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senity: The Game | 116329 | [116329-senity-the-game.json](./116329-senity-the-game.json) |
 | Senjin Aleste | 165428 | [165428-senjin-aleste.json](./165428-senjin-aleste.json) |
 | Senjo no Valkyria Duel | 77367 | [77367-senjo-no-valkyria-duel.json](./77367-senjo-no-valkyria-duel.json) |
+| Senkaiden Ni: TV Animation Senkaiden Houshin Engi Yori | 37313 | [37313-senkaiden-ni-tv-animation-senkaiden-houshin-engi-yori.json](./37313-senkaiden-ni-tv-animation-senkaiden-houshin-engi-yori.json) |
 | Senko no Ronde 2 | 29137 | [29137-senko-no-ronde-2.json](./29137-senko-no-ronde-2.json) |
 | Senko no Ronde 2: Limited Edition | 212315 | [212315-senko-no-ronde-2-limited-edition.json](./212315-senko-no-ronde-2-limited-edition.json) |
 | Senko no Ronde SP | 393832 | [393832-senko-no-ronde-sp.json](./393832-senko-no-ronde-sp.json) |
@@ -3265,6 +3268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shallow Sea Roaming | 298187 | [298187-shallow-sea-roaming.json](./298187-shallow-sea-roaming.json) |
 | Shalnor Legends 2: Trials of Thunder | 232702 | [232702-shalnor-legends-2-trials-of-thunder.json](./232702-shalnor-legends-2-trials-of-thunder.json) |
 | ShamaL | 201316 | [201316-shamal.json](./201316-shamal.json) |
+| Shaman King: Asu he no Ishi | 37319 | [37319-shaman-king-asu-he-no-ishi.json](./37319-shaman-king-asu-he-no-ishi.json) |
 | Shaman King: Master of Spirits | 6590 | [6590-shaman-king-master-of-spirits.json](./6590-shaman-king-master-of-spirits.json) |
 | Shaman King: Spirit of Shamans | 4120 | [4120-shaman-king-spirit-of-shamans.json](./4120-shaman-king-spirit-of-shamans.json) |
 | Shaman Odyssey: Tropic Adventure | 10821 | [10821-shaman-odyssey-tropic-adventure.json](./10821-shaman-odyssey-tropic-adventure.json) |
@@ -8190,6 +8194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soreike! Anpanman: Yukai nao Tanjoue | 230279 | [230279-soreike-anpanman-yukai-nao-tanjoue.json](./230279-soreike-anpanman-yukai-nao-tanjoue.json) |
 | Soreyuke!! Kid: Go! Go! Kid | 64507 | [64507-soreyuke-kid-go-go-kid.json](./64507-soreyuke-kid-go-go-kid.json) |
 | Sorgina: A Tale of Witches | 36460 | [36460-sorgina-a-tale-of-witches.json](./36460-sorgina-a-tale-of-witches.json) |
+| Soroban Gu | 37318 | [37318-soroban-gu.json](./37318-soroban-gu.json) |
 | Sorrow Asylum | 259621 | [259621-sorrow-asylum.json](./259621-sorrow-asylum.json) |
 | Sorrow Asylum 2 | 264627 | [264627-sorrow-asylum-2.json](./264627-sorrow-asylum-2.json) |
 | Sorrow Asylum 3 | 309515 | [309515-sorrow-asylum-3.json](./309515-sorrow-asylum-3.json) |
@@ -9267,6 +9272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Force 2: Tale of the Truthful Pledge | 78634 | [78634-special-force-2-tale-of-the-truthful-pledge.json](./78634-special-force-2-tale-of-the-truthful-pledge.json) |
 | Special Force VR | 50535 | [50535-special-force-vr.json](./50535-special-force-vr.json) |
 | Special Force VR: Infinity War | 116492 | [116492-special-force-vr-infinity-war.json](./116492-special-force-vr-infinity-war.json) |
+| Special Forces | 37271 | [37271-special-forces.json](./37271-special-forces.json) |
 | Special Forces | 77269 | [77269-special-forces.json](./77269-special-forces.json) |
 | Special Forces Group 3 | 245043 | [245043-special-forces-group-3.json](./245043-special-forces-group-3.json) |
 | Special Forces Pack | 100208 | [100208-special-forces-pack.json](./100208-special-forces-pack.json) |
@@ -10410,6 +10416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squire of Time | 271224 | [271224-squire-of-time.json](./271224-squire-of-time.json) |
 | Squirgle | 104033 | [104033-squirgle.json](./104033-squirgle.json) |
 | Squirix | 175353 | [175353-squirix.json](./175353-squirix.json) |
+| Squirm | 37309 | [37309-squirm.json](./37309-squirm.json) |
 | Squirm 16 | 313498 | [313498-squirm-16.json](./313498-squirm-16.json) |
 | Squirrel and Nuts | 239645 | [239645-squirrel-and-nuts.json](./239645-squirrel-and-nuts.json) |
 | Squirrel Bobble | 246392 | [246392-squirrel-bobble.json](./246392-squirrel-bobble.json) |
@@ -10710,6 +10717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Hammer Tactics | 52860 | [52860-star-hammer-tactics.json](./52860-star-hammer-tactics.json) |
 | Star Hammer: The Vanguard Prophecy | 36049 | [36049-star-hammer-the-vanguard-prophecy.json](./36049-star-hammer-the-vanguard-prophecy.json) |
 | Star Healer | 174679 | [174679-star-healer.json](./174679-star-healer.json) |
+| Star Hearts: Hoshi to Daichi no Shisha | 37317 | [37317-star-hearts-hoshi-to-daichi-no-shisha.json](./37317-star-hearts-hoshi-to-daichi-no-shisha.json) |
 | Star Hearts: Launch Point | 200713 | [200713-star-hearts-launch-point.json](./200713-star-hearts-launch-point.json) |
 | Star Heritage 1: The Black Cobra | 120312 | [120312-star-heritage-1-the-black-cobra.json](./120312-star-heritage-1-the-black-cobra.json) |
 | Star Hogs: Online & Campaign Battles | 79625 | [79625-star-hogs-online-and-campaign-battles.json](./79625-star-hogs-online-and-campaign-battles.json) |
@@ -14576,6 +14584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen | 240916 | [240916-super-robot-taisen.json](./240916-super-robot-taisen.json) |
 | Super Robot Taisen A Portable | 79841 | [79841-super-robot-taisen-a-portable.json](./79841-super-robot-taisen-a-portable.json) |
 | Super Robot Taisen Alpha Gaiden | 44850 | [44850-super-robot-taisen-alpha-gaiden.json](./44850-super-robot-taisen-alpha-gaiden.json) |
+| Super Robot Taisen Compact 3 | 37316 | [37316-super-robot-taisen-compact-3.json](./37316-super-robot-taisen-compact-3.json) |
 | Super Robot Taisen EX | 240915 | [240915-super-robot-taisen-ex.json](./240915-super-robot-taisen-ex.json) |
 | Super Robot Taisen F | 46667 | [46667-super-robot-taisen-f.json](./46667-super-robot-taisen-f.json) |
 | Super Robot Taisen OE: Operation Extend | 79344 | [79344-super-robot-taisen-oe-operation-extend.json](./79344-super-robot-taisen-oe-operation-extend.json) |
