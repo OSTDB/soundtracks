@@ -2236,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Cricket Captain 2012 | 63330 | [63330-international-cricket-captain-2012.json](./63330-international-cricket-captain-2012.json) |
 | International Cricket Captain 2013 | 63329 | [63329-international-cricket-captain-2013.json](./63329-international-cricket-captain-2013.json) |
 | International Cricket Captain III | 63325 | [63325-international-cricket-captain-iii.json](./63325-international-cricket-captain-iii.json) |
+| International Cup '94 | 40346 | [40346-international-cup-94.json](./40346-international-cup-94.json) |
 | International Golf Pro | 43446 | [43446-international-golf-pro.json](./43446-international-golf-pro.json) |
 | International Match Day | 397918 | [397918-international-match-day.json](./397918-international-match-day.json) |
 | International Ninja Rabbits | 40916 | [40916-international-ninja-rabbits.json](./40916-international-ninja-rabbits.json) |
@@ -3112,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IWO: Bloodbath in the Bonins | 32979 | [32979-iwo-bloodbath-in-the-bonins.json](./32979-iwo-bloodbath-in-the-bonins.json) |
 | IwoCon 2021 | 141005 | [141005-iwocon-2021.json](./141005-iwocon-2021.json) |
 | Ixion | 152258 | [152258-ixion.json](./152258-ixion.json) |
+| Ixion | 40345 | [40345-ixion.json](./40345-ixion.json) |
 | Ixion Saga | 152292 | [152292-ixion-saga.json](./152292-ixion-saga.json) |
 | Iz | 292515 | [292515-iz.json](./292515-iz.json) |
 | Iz and Auggie: Escape from Dimension Q | 64378 | [64378-iz-and-auggie-escape-from-dimension-q.json](./64378-iz-and-auggie-escape-from-dimension-q.json) |
