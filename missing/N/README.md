@@ -1288,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerve Me | 125833 | [125833-nerve-me.json](./125833-nerve-me.json) |
 | Nervous Pinguin | 96034 | [96034-nervous-pinguin.json](./96034-nervous-pinguin.json) |
 | NES Classic Edition | 213361 | [213361-nes-classic-edition.json](./213361-nes-classic-edition.json) |
+| NES Open Tournament Golf | 3400 | [3400-nes-open-tournament-golf.json](./3400-nes-open-tournament-golf.json) |
 | NES Play Action Football | 48194 | [48194-nes-play-action-football.json](./48194-nes-play-action-football.json) |
 | NES Remix 2 | 6402 | [6402-nes-remix-2.json](./6402-nes-remix-2.json) |
 | NES-Retku: The Game | 7568 | [7568-nes-retku-the-game.json](./7568-nes-retku-the-game.json) |
@@ -1777,6 +1778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 2001 | 814 | [814-nhl-2001.json](./814-nhl-2001.json) |
 | NHL 2002 | 248585 | [248585-nhl-2002.json](./248585-nhl-2002.json) |
 | NHL 2002 | 815 | [815-nhl-2002.json](./815-nhl-2002.json) |
+| NHL 2005 | 4043 | [4043-nhl-2005.json](./4043-nhl-2005.json) |
 | NHL 22 | 165197 | [165197-nhl-22.json](./165197-nhl-22.json) |
 | NHL 23 | 214675 | [214675-nhl-23.json](./214675-nhl-23.json) |
 | NHL 27 | 408771 | [408771-nhl-27.json](./408771-nhl-27.json) |
@@ -2544,6 +2546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendogs: Labrador & Friends | 47944 | [47944-nintendogs-labrador-and-friends.json](./47944-nintendogs-labrador-and-friends.json) |
 | Ninza | 209419 | [209419-ninza.json](./209419-ninza.json) |
 | Nioh 2 | 103330 | [103330-nioh-2.json](./103330-nioh-2.json) |
+| Nioh 2: The Complete Edition | 140972 | [140972-nioh-2-the-complete-edition.json](./140972-nioh-2-the-complete-edition.json) |
 | Nioh 3: Bloody Insurrection | 411562 | [411562-nioh-3-bloody-insurrection.json](./411562-nioh-3-bloody-insurrection.json) |
 | Nioh 3: Hell Rising | 411561 | [411561-nioh-3-hell-rising.json](./411561-nioh-3-hell-rising.json) |
 | Nioh: Complete Edition | 68461 | [68461-nioh-complete-edition.json](./68461-nioh-complete-edition.json) |
