@@ -801,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Total War | 152876 | [152876-zombie-total-war.json](./152876-zombie-total-war.json) |
 | Zombie Tower Shooting Defense | 351682 | [351682-zombie-tower-shooting-defense.json](./351682-zombie-tower-shooting-defense.json) |
 | Zombie Town | 273866 | [273866-zombie-town.json](./273866-zombie-town.json) |
+| Zombie Town | 51432 | [51432-zombie-town.json](./51432-zombie-town.json) |
 | Zombie Town Online | 101607 | [101607-zombie-town-online.json](./101607-zombie-town-online.json) |
 | Zombie Towns | 129216 | [129216-zombie-towns.json](./129216-zombie-towns.json) |
 | Zombie Trailer Park | 219045 | [219045-zombie-trailer-park.json](./219045-zombie-trailer-park.json) |
