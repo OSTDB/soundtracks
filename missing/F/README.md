@@ -4409,6 +4409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Memories | 324493 | [324493-forgotten-memories.json](./324493-forgotten-memories.json) |
 | Forgotten Memories | 326204 | [326204-forgotten-memories.json](./326204-forgotten-memories.json) |
 | Forgotten Memories: Definitive Edition | 207858 | [207858-forgotten-memories-definitive-edition.json](./207858-forgotten-memories-definitive-edition.json) |
+| Forgotten Myths CCG | 36302 | [36302-forgotten-myths-ccg.json](./36302-forgotten-myths-ccg.json) |
 | Forgotten Passages | 127164 | [127164-forgotten-passages.json](./127164-forgotten-passages.json) |
 | Forgotten Places: Regained Castle | 81630 | [81630-forgotten-places-regained-castle.json](./81630-forgotten-places-regained-castle.json) |
 | Forgotten Playland: Party Edition | 392803 | [392803-forgotten-playland-party-edition.json](./392803-forgotten-playland-party-edition.json) |
@@ -5294,6 +5295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FriendShapes | 330246 | [330246-friendshapes.json](./330246-friendshapes.json) |
 | FriendShip | 30936 | [30936-friendship.json](./30936-friendship.json) |
 | Friendship Bracelets Simulator | 303229 | [303229-friendship-bracelets-simulator.json](./303229-friendship-bracelets-simulator.json) |
+| Friendship Club | 36147 | [36147-friendship-club.json](./36147-friendship-club.json) |
 | Friendship vs The World | 402942 | [402942-friendship-vs-the-world.json](./402942-friendship-vs-the-world.json) |
 | Friendsim 2 | 190164 | [190164-friendsim-2.json](./190164-friendsim-2.json) |
 | Friendsmob | 391590 | [391590-friendsmob.json](./391590-friendsmob.json) |
