@@ -2595,6 +2595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of The Black Hawk | 274575 | [274575-the-adventures-of-the-black-hawk.json](./274575-the-adventures-of-the-black-hawk.json) |
 | The Adventures of Tintin: Prisoners of the Sun | 249145 | [249145-the-adventures-of-tintin-prisoners-of-the-sun.json](./249145-the-adventures-of-tintin-prisoners-of-the-sun.json) |
 | The Adventures of Tintin: Prisoners of the Sun | 42588 | [42588-the-adventures-of-tintin-prisoners-of-the-sun.json](./42588-the-adventures-of-tintin-prisoners-of-the-sun.json) |
+| The Adventures of Tintin: The Game | 6473 | [6473-the-adventures-of-tintin-the-game.json](./6473-the-adventures-of-tintin-the-game.json) |
 | The Adventures of Wolf and Hood: A Jigsaw Tale | 154971 | [154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json](./154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json) |
 | The Adventures of Zomboy | 323281 | [323281-the-adventures-of-zomboy.json](./323281-the-adventures-of-zomboy.json) |
 | The Aethra Chronicles, Volume One: Celystra's Bane | 70125 | [70125-the-aethra-chronicles-volume-one-celystras-bane.json](./70125-the-aethra-chronicles-volume-one-celystras-bane.json) |
@@ -4340,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Present | 278675 | [278675-the-first-present.json](./278675-the-first-present.json) |
 | The First Spine - Arena | 386865 | [386865-the-first-spine-arena.json](./386865-the-first-spine-arena.json) |
 | The First Step | 215745 | [215745-the-first-step.json](./215745-the-first-step.json) |
+| The First Templar | 6994 | [6994-the-first-templar.json](./6994-the-first-templar.json) |
 | The First Templar: Special Edition | 154539 | [154539-the-first-templar-special-edition.json](./154539-the-first-templar-special-edition.json) |
 | The First Thing You Do When You Become A Girl | 97827 | [97827-the-first-thing-you-do-when-you-become-a-girl.json](./97827-the-first-thing-you-do-when-you-become-a-girl.json) |
 | The first titans | 161398 | [161398-the-first-titans.json](./161398-the-first-titans.json) |
@@ -7452,6 +7454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons: Cartoon Studio | 2838 | [2838-the-simpsons-cartoon-studio.json](./2838-the-simpsons-cartoon-studio.json) |
 | The Simpsons.exe | 388397 | [388397-the-simpsons-exe.json](./388397-the-simpsons-exe.json) |
 | The Sims 2 | 192905 | [192905-the-sims-2.json](./192905-the-sims-2.json) |
+| The Sims 2: Apartment Life | 5538 | [5538-the-sims-2-apartment-life.json](./5538-the-sims-2-apartment-life.json) |
 | The Sims 2: Bon Voyage | 5536 | [5536-the-sims-2-bon-voyage.json](./5536-the-sims-2-bon-voyage.json) |
 | The Sims 2: Castaway | 192908 | [192908-the-sims-2-castaway.json](./192908-the-sims-2-castaway.json) |
 | The Sims 2: OMGWTFBBQ | 349499 | [349499-the-sims-2-omgwtfbbq.json](./349499-the-sims-2-omgwtfbbq.json) |
@@ -8639,6 +8642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch | 292633 | [292633-the-witch.json](./292633-the-witch.json) |
 | The Witch and Her Assistant | 183460 | [183460-the-witch-and-her-assistant.json](./183460-the-witch-and-her-assistant.json) |
 | The Witch and the Bottle of Concept | 272895 | [272895-the-witch-and-the-bottle-of-concept.json](./272895-the-witch-and-the-bottle-of-concept.json) |
+| The Witch and the Hundred Knight | 7485 | [7485-the-witch-and-the-hundred-knight.json](./7485-the-witch-and-the-hundred-knight.json) |
 | The Witch and the Hundred Knight 2 | 24909 | [24909-the-witch-and-the-hundred-knight-2.json](./24909-the-witch-and-the-hundred-knight-2.json) |
 | The Witch and the Hundred Knight 2: Limited Edition | 167070 | [167070-the-witch-and-the-hundred-knight-2-limited-edition.json](./167070-the-witch-and-the-hundred-knight-2-limited-edition.json) |
 | The Witch and the Hundred Knight Mobile | 394549 | [394549-the-witch-and-the-hundred-knight-mobile.json](./394549-the-witch-and-the-hundred-knight-mobile.json) |
@@ -11303,6 +11307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom & Jerry MMO | 79312 | [79312-tom-and-jerry-mmo.json](./79312-tom-and-jerry-mmo.json) |
 | Tom & Jerry Popper | 47255 | [47255-tom-and-jerry-popper.json](./47255-tom-and-jerry-popper.json) |
 | Tom & Jerry: Hunting High and Low | 8024 | [8024-tom-and-jerry-hunting-high-and-low.json](./8024-tom-and-jerry-hunting-high-and-low.json) |
+| Tom & Jerry: The Ultimate Game of Cat and Mouse! | 8023 | [8023-tom-and-jerry-the-ultimate-game-of-cat-and-mouse.json](./8023-tom-and-jerry-the-ultimate-game-of-cat-and-mouse.json) |
 | Tom & Jerry: Yankee Doodle’s Cat-astrophe | 57689 | [57689-tom-and-jerry-yankee-doodle-s-cat-astrophe.json](./57689-tom-and-jerry-yankee-doodle-s-cat-astrophe.json) |
 | Tom and Jerry | 218399 | [218399-tom-and-jerry.json](./218399-tom-and-jerry.json) |
 | Tom and Jerry in War of the Whiskers | 2650 | [2650-tom-and-jerry-in-war-of-the-whiskers.json](./2650-tom-and-jerry-in-war-of-the-whiskers.json) |
@@ -11721,6 +11726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Speed 2: Racing Legends | 121448 | [121448-top-speed-2-racing-legends.json](./121448-top-speed-2-racing-legends.json) |
 | Top Speed: Drag & Fast Racing | 88441 | [88441-top-speed-drag-and-fast-racing.json](./88441-top-speed-drag-and-fast-racing.json) |
 | Top Spin | 5234 | [5234-top-spin.json](./5234-top-spin.json) |
+| Top Spin 2 | 5235 | [5235-top-spin-2.json](./5235-top-spin-2.json) |
 | Top Street Soccer | 102209 | [102209-top-street-soccer.json](./102209-top-street-soccer.json) |
 | Top Striker | 78967 | [78967-top-striker.json](./78967-top-striker.json) |
 | Top Torch | 114506 | [114506-top-torch.json](./114506-top-torch.json) |
