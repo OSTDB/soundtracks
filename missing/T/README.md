@@ -1154,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tappy Lap | 243640 | [243640-tappy-lap.json](./243640-tappy-lap.json) |
 | Tappy Shots | 87362 | [87362-tappy-shots.json](./87362-tappy-shots.json) |
 | Tappy Shots 2018 | 100871 | [100871-tappy-shots-2018.json](./100871-tappy-shots-2018.json) |
+| Tappy Town | 25872 | [25872-tappy-town.json](./25872-tappy-town.json) |
 | Tappy Word | 274447 | [274447-tappy-word.json](./274447-tappy-word.json) |
 | Tappy Word 2 | 274448 | [274448-tappy-word-2.json](./274448-tappy-word-2.json) |
 | Tappy Word 3 | 274446 | [274446-tappy-word-3.json](./274446-tappy-word-3.json) |
@@ -2985,6 +2986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Knight | 371875 | [371875-the-black-knight.json](./371875-the-black-knight.json) |
 | The Black Lamb | 329937 | [329937-the-black-lamb.json](./329937-the-black-lamb.json) |
 | The Black Masses | 113833 | [113833-the-black-masses.json](./113833-the-black-masses.json) |
+| The Black Onyx II: Search for the Fire Crystal | 25861 | [25861-the-black-onyx-ii-search-for-the-fire-crystal.json](./25861-the-black-onyx-ii-search-for-the-fire-crystal.json) |
 | The Black Pepper Crew | 184629 | [184629-the-black-pepper-crew.json](./184629-the-black-pepper-crew.json) |
 | The Black Pool | 226447 | [226447-the-black-pool.json](./226447-the-black-pool.json) |
 | The Black Rose | 124260 | [124260-the-black-rose.json](./124260-the-black-rose.json) |
@@ -4093,6 +4095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Evelyn Game | 370315 | [370315-the-evelyn-game.json](./370315-the-evelyn-game.json) |
 | The Eventide | 411687 | [411687-the-eventide.json](./411687-the-eventide.json) |
 | The Evidence | 209567 | [209567-the-evidence.json](./209567-the-evidence.json) |
+| The Evil Dead | 25832 | [25832-the-evil-dead.json](./25832-the-evil-dead.json) |
 | The Evil Sect | 296473 | [296473-the-evil-sect.json](./296473-the-evil-sect.json) |
 | The Evil Unleashed | 313836 | [313836-the-evil-unleashed.json](./313836-the-evil-unleashed.json) |
 | The Evil Within Bundle | 154961 | [154961-the-evil-within-bundle.json](./154961-the-evil-within-bundle.json) |
@@ -4139,6 +4142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fable of Ruby | 38498 | [38498-the-fable-of-ruby.json](./38498-the-fable-of-ruby.json) |
 | The Fabric of the Mind | 238748 | [238748-the-fabric-of-the-mind.json](./238748-the-fabric-of-the-mind.json) |
 | The Fabulous Screech | 60521 | [60521-the-fabulous-screech.json](./60521-the-fabulous-screech.json) |
+| The Fabulous Wanda and the Secret of Life, the Universe, and Everything | 25854 | [25854-the-fabulous-wanda-and-the-secret-of-life-the-universe-and-everything.json](./25854-the-fabulous-wanda-and-the-secret-of-life-the-universe-and-everything.json) |
 | The Faceless | 237361 | [237361-the-faceless.json](./237361-the-faceless.json) |
 | The Faceless City | 183590 | [183590-the-faceless-city.json](./183590-the-faceless-city.json) |
 | The Faceless Killer | 312182 | [312182-the-faceless-killer.json](./312182-the-faceless-killer.json) |
@@ -8108,6 +8112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Toy Shop | 391894 | [391894-the-toy-shop.json](./391894-the-toy-shop.json) |
 | The Toymaker's Apprentice | 114980 | [114980-the-toymakers-apprentice.json](./114980-the-toymakers-apprentice.json) |
 | The Toys Room | 66927 | [66927-the-toys-room.json](./66927-the-toys-room.json) |
+| The Tracer Sanction | 25859 | [25859-the-tracer-sanction.json](./25859-the-tracer-sanction.json) |
 | The Track Star | 241995 | [241995-the-track-star.json](./241995-the-track-star.json) |
 | The Trade Prince | 256906 | [256906-the-trade-prince.json](./256906-the-trade-prince.json) |
 | The Traded Groom | 321352 | [321352-the-traded-groom.json](./321352-the-traded-groom.json) |
@@ -10333,6 +10338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tim and Tom: A Bulloon that Fell from the Sky | 175362 | [175362-tim-and-tom-a-bulloon-that-fell-from-the-sky.json](./175362-tim-and-tom-a-bulloon-that-fell-from-the-sky.json) |
 | Tim Burton's The Nightmare Before Christmas | 198942 | [198942-tim-burtons-the-nightmare-before-christmas.json](./198942-tim-burtons-the-nightmare-before-christmas.json) |
 | Tim's Birthday | 150126 | [150126-tims-birthday.json](./150126-tims-birthday.json) |
+| Timber | 25881 | [25881-timber.json](./25881-timber.json) |
 | Timber Jump VR | 149589 | [149589-timber-jump-vr.json](./149589-timber-jump-vr.json) |
 | Timber Rush | 389705 | [389705-timber-rush.json](./389705-timber-rush.json) |
 | Timber Slash | 108473 | [108473-timber-slash.json](./108473-timber-slash.json) |
