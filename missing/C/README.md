@@ -687,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Tabi Quiz 100 | 282684 | [282684-capcom-tabi-quiz-100.json](./282684-capcom-tabi-quiz-100.json) |
 | Capcom vs. SNK 2: Mark of the Millennium 2001 | 3846 | [3846-capcom-vs-snk-2-mark-of-the-millennium-2001.json](./3846-capcom-vs-snk-2-mark-of-the-millennium-2001.json) |
 | Capcom vs. SNK: Millennium Fight 2000 | 39593 | [39593-capcom-vs-snk-millennium-fight-2000.json](./39593-capcom-vs-snk-millennium-fight-2000.json) |
+| Capcom vs. SNK: Millennium Fight 2000 Pro | 45829 | [45829-capcom-vs-snk-millennium-fight-2000-pro.json](./45829-capcom-vs-snk-millennium-fight-2000-pro.json) |
 | Capcom vs. SNK: Millennium Fight 2001 | 247455 | [247455-capcom-vs-snk-millennium-fight-2001.json](./247455-capcom-vs-snk-millennium-fight-2001.json) |
 | Capcom's Gold Medal Challenge '92 | 48159 | [48159-capcoms-gold-medal-challenge-92.json](./48159-capcoms-gold-medal-challenge-92.json) |
 | Capcom's MVP Football | 42597 | [42597-capcoms-mvp-football.json](./42597-capcoms-mvp-football.json) |
@@ -2176,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestarium | 226300 | [226300-celestarium.json](./226300-celestarium.json) |
 | Celeste 64: Fragments of the Mountain | 284430 | [284430-celeste-64-fragments-of-the-mountain.json](./284430-celeste-64-fragments-of-the-mountain.json) |
 | Celeste Classic | 215762 | [215762-celeste-classic.json](./215762-celeste-classic.json) |
+| Celeste Classic | 86148 | [86148-celeste-classic.json](./86148-celeste-classic.json) |
 | Celeste Classic 2: Lani's Trek | 142841 | [142841-celeste-classic-2-lanis-trek.json](./142841-celeste-classic-2-lanis-trek.json) |
 | Celeste Fusion Collab | 358282 | [358282-celeste-fusion-collab.json](./358282-celeste-fusion-collab.json) |
 | Celeste: Farewell | 122556 | [122556-celeste-farewell.json](./122556-celeste-farewell.json) |
