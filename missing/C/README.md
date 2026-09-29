@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.A.R.D.S. RPG: The Misty Battlefield | 273624 | [273624-c-a-r-d-s-rpg-the-misty-battlefield.json](./273624-c-a-r-d-s-rpg-the-misty-battlefield.json) |
 | C.A.R.L. | 201711 | [201711-c-a-r-l.json](./201711-c-a-r-l.json) |
 | C.A.T.: Cyber Attack Team | 5762 | [5762-c-a-t-cyber-attack-team.json](./5762-c-a-t-cyber-attack-team.json) |
+| C.E.O. | 19793 | [19793-c-e-o.json](./19793-c-e-o.json) |
 | C.H.A.O.S Tournament | 117726 | [117726-c-h-a-o-s-tournament.json](./117726-c-h-a-o-s-tournament.json) |
 | C.I.E.B The Backrooms Project | 265402 | [265402-c-i-e-b-the-backrooms-project.json](./265402-c-i-e-b-the-backrooms-project.json) |
 | C.L.T.: Cheguei Louco no Trabalho | 255390 | [255390-c-l-t-cheguei-louco-no-trabalho.json](./255390-c-l-t-cheguei-louco-no-trabalho.json) |
@@ -2433,6 +2434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions Tactics Reforged | 343807 | [343807-champions-tactics-reforged.json](./343807-champions-tactics-reforged.json) |
 | Champions: Return to Arms | 10237 | [10237-champions-return-to-arms.json](./10237-champions-return-to-arms.json) |
 | Championship Chess | 56776 | [56776-championship-chess.json](./56776-championship-chess.json) |
+| Championship Hockey | 19772 | [19772-championship-hockey.json](./19772-championship-hockey.json) |
 | Championship Lode Runner | 6091 | [6091-championship-lode-runner.json](./6091-championship-lode-runner.json) |
 | Championship Manager '93 | 11306 | [11306-championship-manager-93.json](./11306-championship-manager-93.json) |
 | Championship Manager 2 | 37133 | [37133-championship-manager-2.json](./37133-championship-manager-2.json) |
@@ -3210,6 +3212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Culinary Shop | 276221 | [276221-chinese-culinary-shop.json](./276221-chinese-culinary-shop.json) |
 | Chinese Driving Test Simulator | 189929 | [189929-chinese-driving-test-simulator.json](./189929-chinese-driving-test-simulator.json) |
 | Chinese Expeditionary Force: Assault Team | 233783 | [233783-chinese-expeditionary-force-assault-team.json](./233783-chinese-expeditionary-force-assault-team.json) |
+| Chinese Hero | 19716 | [19716-chinese-hero.json](./19716-chinese-hero.json) |
 | Chinese inn | 76683 | [76683-chinese-inn.json](./76683-chinese-inn.json) |
 | Chinese Inn | 109200 | [109200-chinese-inn.json](./109200-chinese-inn.json) |
 | Chinese Juggler | 13830 | [13830-chinese-juggler.json](./13830-chinese-juggler.json) |
@@ -4523,6 +4526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clockwork Calamity in Mushroom World: What would you do if the time stopped ticking? | 153424 | [153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json](./153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json) |
 | Clockwork Dungeon | 165682 | [165682-clockwork-dungeon.json](./165682-clockwork-dungeon.json) |
 | Clockwork Empires | 9764 | [9764-clockwork-empires.json](./9764-clockwork-empires.json) |
+| Clockwork Knight 2 | 19717 | [19717-clockwork-knight-2.json](./19717-clockwork-knight-2.json) |
 | Clockwork Knight: Pepperouchau no Fukubukuro | 137541 | [137541-clockwork-knight-pepperouchau-no-fukubukuro.json](./137541-clockwork-knight-pepperouchau-no-fukubukuro.json) |
 | Clockwork Manor | 240914 | [240914-clockwork-manor.json](./240914-clockwork-manor.json) |
 | Clockwork Owl | 224767 | [224767-clockwork-owl.json](./224767-clockwork-owl.json) |
@@ -8902,6 +8906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Sled | 20626 | [20626-cyber-sled.json](./20626-cyber-sled.json) |
 | Cyber Soldier Sharaku | 45934 | [45934-cyber-soldier-sharaku.json](./45934-cyber-soldier-sharaku.json) |
 | Cyber Souls | 238591 | [238591-cyber-souls.json](./238591-cyber-souls.json) |
+| Cyber Speedway | 19740 | [19740-cyber-speedway.json](./19740-cyber-speedway.json) |
 | Cyber Spin | 42615 | [42615-cyber-spin.json](./42615-cyber-spin.json) |
 | Cyber Sprint | 261754 | [261754-cyber-sprint.json](./261754-cyber-sprint.json) |
 | Cyber Sprinters | 386839 | [386839-cyber-sprinters.json](./386839-cyber-sprinters.json) |
