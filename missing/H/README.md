@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardware Engineers | 32457 | [32457-hardware-engineers.json](./32457-hardware-engineers.json) |
 | Hardware Tycoon | 181235 | [181235-hardware-tycoon.json](./181235-hardware-tycoon.json) |
 | Hardware: Online Arena | 15697 | [15697-hardware-online-arena.json](./15697-hardware-online-arena.json) |
+| Hardware: Rivals | 15695 | [15695-hardware-rivals.json](./15695-hardware-rivals.json) |
 | Hardway Party | 102197 | [102197-hardway-party.json](./102197-hardway-party.json) |
 | Hardwood Backgammon | 20501 | [20501-hardwood-backgammon.json](./20501-hardwood-backgammon.json) |
 | Hardwood Hearts | 20507 | [20507-hardwood-hearts.json](./20507-hardwood-hearts.json) |
@@ -1094,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku VR: 5 Songs pack 3 | 223588 | [223588-hatsune-miku-vr-5-songs-pack-3.json](./223588-hatsune-miku-vr-5-songs-pack-3.json) |
 | Hatsune Miku VR: Future Live - 1st Stage | 24983 | [24983-hatsune-miku-vr-future-live-1st-stage.json](./24983-hatsune-miku-vr-future-live-1st-stage.json) |
 | Hatsune Miku: Dreamy Vocal | 112343 | [112343-hatsune-miku-dreamy-vocal.json](./112343-hatsune-miku-dreamy-vocal.json) |
+| Hatsune Miku: Project Diva | 11754 | [11754-hatsune-miku-project-diva.json](./11754-hatsune-miku-project-diva.json) |
 | Hatsune Miku: Project Diva - Mega Mix Song Pack 12 | 223585 | [223585-hatsune-miku-project-diva-mega-mix-song-pack-12.json](./223585-hatsune-miku-project-diva-mega-mix-song-pack-12.json) |
 | Hatsune Miku: Project Diva - Mega Mix Song Pack 13 | 223584 | [223584-hatsune-miku-project-diva-mega-mix-song-pack-13.json](./223584-hatsune-miku-project-diva-mega-mix-song-pack-13.json) |
 | Hatsune Miku: Project Diva - Mega Mix Song Pack 14 | 223583 | [223583-hatsune-miku-project-diva-mega-mix-song-pack-14.json](./223583-hatsune-miku-project-diva-mega-mix-song-pack-14.json) |
@@ -1111,6 +1113,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Project Diva Future Tone DX - Memorial Pack | 167080 | [167080-hatsune-miku-project-diva-future-tone-dx-memorial-pack.json](./167080-hatsune-miku-project-diva-future-tone-dx-memorial-pack.json) |
 | Hatsune Miku: Project Diva Mega Mix | 120278 | [120278-hatsune-miku-project-diva-mega-mix.json](./120278-hatsune-miku-project-diva-mega-mix.json) |
 | Hatsune Miku: Project Diva Mega Mix - 10th Anniversary Collection | 136283 | [136283-hatsune-miku-project-diva-mega-mix-10th-anniversary-collection.json](./136283-hatsune-miku-project-diva-mega-mix-10th-anniversary-collection.json) |
+| Hatsune Miku: Project Diva X | 12078 | [12078-hatsune-miku-project-diva-x.json](./12078-hatsune-miku-project-diva-x.json) |
+| Hatsune Miku: Project Mirai DX | 10091 | [10091-hatsune-miku-project-mirai-dx.json](./10091-hatsune-miku-project-mirai-dx.json) |
 | Hatsune Miku: Roller Skating Music | 199044 | [199044-hatsune-miku-roller-skating-music.json](./199044-hatsune-miku-roller-skating-music.json) |
 | Hatsune Miku: Tap Wonder | 138178 | [138178-hatsune-miku-tap-wonder.json](./138178-hatsune-miku-tap-wonder.json) |
 | Hatsune Miku: VR Future Live | 99752 | [99752-hatsune-miku-vr-future-live.json](./99752-hatsune-miku-vr-future-live.json) |
@@ -2539,6 +2543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of the Hive | 311600 | [311600-hero-of-the-hive.json](./311600-hero-of-the-hive.json) |
 | Hero of the Kingdom | 9638 | [9638-hero-of-the-kingdom.json](./9638-hero-of-the-kingdom.json) |
 | Hero of the Kingdom Collection | 53187 | [53187-hero-of-the-kingdom-collection.json](./53187-hero-of-the-kingdom-collection.json) |
+| Hero of the Kingdom II | 13661 | [13661-hero-of-the-kingdom-ii.json](./13661-hero-of-the-kingdom-ii.json) |
 | Hero of the Kingdom III | 81893 | [81893-hero-of-the-kingdom-iii.json](./81893-hero-of-the-kingdom-iii.json) |
 | Hero of the Kingdom: The Lost Tales 3 | 327322 | [327322-hero-of-the-kingdom-the-lost-tales-3.json](./327322-hero-of-the-kingdom-the-lost-tales-3.json) |
 | Hero or Foe | 173232 | [173232-hero-or-foe.json](./173232-hero-or-foe.json) |
@@ -3773,6 +3778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiveswap Friendsim: Volume Three | 161238 | [161238-hiveswap-friendsim-volume-three.json](./161238-hiveswap-friendsim-volume-three.json) |
 | Hiveswap Friendsim: Volume Twelve | 161247 | [161247-hiveswap-friendsim-volume-twelve.json](./161247-hiveswap-friendsim-volume-twelve.json) |
 | Hiveswap Friendsim: Volume Two | 161237 | [161237-hiveswap-friendsim-volume-two.json](./161237-hiveswap-friendsim-volume-two.json) |
+| Hiveswap: Act 1 | 11631 | [11631-hiveswap-act-1.json](./11631-hiveswap-act-1.json) |
 | Hiveswap: Act 2 | 125164 | [125164-hiveswap-act-2.json](./125164-hiveswap-act-2.json) |
 | Hix: Puzzle Islands | 146842 | [146842-hix-puzzle-islands.json](./146842-hix-puzzle-islands.json) |
 | Hiza no Ue no Partner: Kitty on Your Lap | 65494 | [65494-hiza-no-ue-no-partner-kitty-on-your-lap.json](./65494-hiza-no-ue-no-partner-kitty-on-your-lap.json) |
