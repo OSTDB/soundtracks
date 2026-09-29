@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nana | 201771 | [201771-nana.json](./201771-nana.json) |
 | Nana Tan | 267395 | [267395-nana-tan.json](./267395-nana-tan.json) |
 | Nana-chan no Star Tanjou | 66131 | [66131-nana-chan-no-star-tanjou.json](./66131-nana-chan-no-star-tanjou.json) |
+| Nanako Descends to Hell | 39151 | [39151-nanako-descends-to-hell.json](./39151-nanako-descends-to-hell.json) |
 | Nanali in another world | 226195 | [226195-nanali-in-another-world.json](./226195-nanali-in-another-world.json) |
 | Nanatama: Chronicle of Dungeon Maker | 59366 | [59366-nanatama-chronicle-of-dungeon-maker.json](./59366-nanatama-chronicle-of-dungeon-maker.json) |
 | Nanatsu no Hikan | 137031 | [137031-nanatsu-no-hikan.json](./137031-nanatsu-no-hikan.json) |
@@ -2333,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Girls: Kunoichi Puzzle | 315840 | [315840-ninja-girls-kunoichi-puzzle.json](./315840-ninja-girls-kunoichi-puzzle.json) |
 | Ninja Glove | 338937 | [338937-ninja-glove.json](./338937-ninja-glove.json) |
 | Ninja Hagakure | 215621 | [215621-ninja-hagakure.json](./215621-ninja-hagakure.json) |
+| Ninja Hamster | 39150 | [39150-ninja-hamster.json](./39150-ninja-hamster.json) |
 | Ninja Hands | 266254 | [266254-ninja-hands.json](./266254-ninja-hands.json) |
 | Ninja Hattori-kun | 346042 | [346042-ninja-hattori-kun.json](./346042-ninja-hattori-kun.json) |
 | Ninja Hattori-kun | 58882 | [58882-ninja-hattori-kun.json](./58882-ninja-hattori-kun.json) |
