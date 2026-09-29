@@ -1144,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Escape | 86947 | [86947-parking-escape.json](./86947-parking-escape.json) |
 | Parking Expert! | 307762 | [307762-parking-expert.json](./307762-parking-expert.json) |
 | Parking Frenzy | 343786 | [343786-parking-frenzy.json](./343786-parking-frenzy.json) |
+| Parking Garage Rally Circuit | 287431 | [287431-parking-garage-rally-circuit.json](./287431-parking-garage-rally-circuit.json) |
 | Parking Garage Rally Circuit DX | 381673 | [381673-parking-garage-rally-circuit-dx.json](./381673-parking-garage-rally-circuit-dx.json) |
 | Parking Garage Rally Circuit: European Tour | 377852 | [377852-parking-garage-rally-circuit-european-tour.json](./377852-parking-garage-rally-circuit-european-tour.json) |
 | Parking Garage Simulator | 374602 | [374602-parking-garage-simulator.json](./374602-parking-garage-simulator.json) |
@@ -6949,6 +6950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Dejavu | 391156 | [391156-project-dejavu.json](./391156-project-dejavu.json) |
 | Project Delta | 189146 | [189146-project-delta.json](./189146-project-delta.json) |
 | Project Demigod | 153945 | [153945-project-demigod.json](./153945-project-demigod.json) |
+| Project Diablo 2 | 285285 | [285285-project-diablo-2.json](./285285-project-diablo-2.json) |
 | Project Discovery: Daidai Daisuki! | 59409 | [59409-project-discovery-daidai-daisuki.json](./59409-project-discovery-daidai-daisuki.json) |
 | Project Downfall | 113813 | [113813-project-downfall.json](./113813-project-downfall.json) |
 | Project Dream 64 | 315029 | [315029-project-dream-64.json](./315029-project-dream-64.json) |
@@ -8207,6 +8209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzletronics Digital Infinite | 157039 | [157039-puzzletronics-digital-infinite.json](./157039-puzzletronics-digital-infinite.json) |
 | Puzzline | 224541 | [224541-puzzline.json](./224541-puzzline.json) |
 | Puzzling Peaks EXE | 158690 | [158690-puzzling-peaks-exe.json](./158690-puzzling-peaks-exe.json) |
+| Puzzling Places | 144870 | [144870-puzzling-places.json](./144870-puzzling-places.json) |
 | Puzzling Places: A Sunny Stroll in Barcelos | 353486 | [353486-puzzling-places-a-sunny-stroll-in-barcelos.json](./353486-puzzling-places-a-sunny-stroll-in-barcelos.json) |
 | Puzzling Places: All Puzzles of 2024 Bundle | 353878 | [353878-puzzling-places-all-puzzles-of-2024-bundle.json](./353878-puzzling-places-all-puzzles-of-2024-bundle.json) |
 | Puzzling Places: Cityscapes Bundle | 353888 | [353888-puzzling-places-cityscapes-bundle.json](./353888-puzzling-places-cityscapes-bundle.json) |
