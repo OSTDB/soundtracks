@@ -3320,6 +3320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 3: Street Racing Pack | 165976 | [165976-ride-3-street-racing-pack.json](./165976-ride-3-street-racing-pack.json) |
 | Ride 3: Supercustom Pack | 165978 | [165978-ride-3-supercustom-pack.json](./165978-ride-3-supercustom-pack.json) |
 | Ride 3: Top Performance Pack | 165985 | [165985-ride-3-top-performance-pack.json](./165985-ride-3-top-performance-pack.json) |
+| Ride 4 | 133922 | [133922-ride-4.json](./133922-ride-4.json) |
 | Ride 4: Best Vintage 80's - 90's | 159661 | [159661-ride-4-best-vintage-80s-90s.json](./159661-ride-4-best-vintage-80s-90s.json) |
 | Ride 4: Bonus Pack 01 | 159665 | [159665-ride-4-bonus-pack-01.json](./159665-ride-4-bonus-pack-01.json) |
 | Ride 4: Bonus Pack 02 | 159677 | [159677-ride-4-bonus-pack-02.json](./159677-ride-4-bonus-pack-02.json) |
@@ -5089,6 +5090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roots of Cinder | 270081 | [270081-roots-of-cinder.json](./270081-roots-of-cinder.json) |
 | Roots of Fury | 290529 | [290529-roots-of-fury.json](./290529-roots-of-fury.json) |
 | Roots of Harmony | 320561 | [320561-roots-of-harmony.json](./320561-roots-of-harmony.json) |
+| Roots of Pacha | 133208 | [133208-roots-of-pacha.json](./133208-roots-of-pacha.json) |
 | Roots of Rebirth | 239644 | [239644-roots-of-rebirth.json](./239644-roots-of-rebirth.json) |
 | Roots of Tomorrow: Urban Agriculture | 244361 | [244361-roots-of-tomorrow-urban-agriculture.json](./244361-roots-of-tomorrow-urban-agriculture.json) |
 | Rope | 138809 | [138809-rope.json](./138809-rope.json) |
