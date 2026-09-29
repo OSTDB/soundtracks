@@ -5962,6 +5962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Against Terror | 51395 | [51395-mission-against-terror.json](./51395-mission-against-terror.json) |
 | Mission Against Terror 2 | 213474 | [213474-mission-against-terror-2.json](./213474-mission-against-terror-2.json) |
 | Mission Angel Angelic Pink | 82908 | [82908-mission-angel-angelic-pink.json](./82908-mission-angel-angelic-pink.json) |
+| Mission Attack | 42136 | [42136-mission-attack.json](./42136-mission-attack.json) |
 | Mission Bravo | 295040 | [295040-mission-bravo.json](./295040-mission-bravo.json) |
 | Mission Critical: Foresight | 186328 | [186328-mission-critical-foresight.json](./186328-mission-critical-foresight.json) |
 | Mission Europa | 66072 | [66072-mission-europa.json](./66072-mission-europa.json) |
@@ -6914,6 +6915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunting: Incremental Grind Forever | 341332 | [341332-monster-hunting-incremental-grind-forever.json](./341332-monster-hunting-incremental-grind-forever.json) |
 | Monster Impossible Truck No Limit Adventure Drive Simulator Sport 3D | 227516 | [227516-monster-impossible-truck-no-limit-adventure-drive-simulator-sport-3d.json](./227516-monster-impossible-truck-no-limit-adventure-drive-simulator-sport-3d.json) |
 | Monster in the Dark: Remaster | 195275 | [195275-monster-in-the-dark-remaster.json](./195275-monster-in-the-dark-remaster.json) |
+| Monster Inn | 42140 | [42140-monster-inn.json](./42140-monster-inn.json) |
 | Monster Island | 295237 | [295237-monster-island.json](./295237-monster-island.json) |
 | Monster Island HD | 175739 | [175739-monster-island-hd.json](./175739-monster-island-hd.json) |
 | Monster Jam Battlegrounds | 53379 | [53379-monster-jam-battlegrounds.json](./53379-monster-jam-battlegrounds.json) |
@@ -7879,6 +7881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mourning Inc. | 158035 | [158035-mourning-inc.json](./158035-mourning-inc.json) |
 | Mourning Tide | 306174 | [306174-mourning-tide.json](./306174-mourning-tide.json) |
 | Mourningwood Lodge | 370104 | [370104-mourningwood-lodge.json](./370104-mourningwood-lodge.json) |
+| Mouse Attack | 42143 | [42143-mouse-attack.json](./42143-mouse-attack.json) |
 | Mouse Dream | 166772 | [166772-mouse-dream.json](./166772-mouse-dream.json) |
 | Mouse Dreams | 27805 | [27805-mouse-dreams.json](./27805-mouse-dreams.json) |
 | Mouse Hero | 157716 | [157716-mouse-hero.json](./157716-mouse-hero.json) |
@@ -8334,6 +8337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munchie Strikers | 258421 | [258421-munchie-strikers.json](./258421-munchie-strikers.json) |
 | Munchkin Digital: Unnatural Axe | 255020 | [255020-munchkin-digital-unnatural-axe.json](./255020-munchkin-digital-unnatural-axe.json) |
 | Munchkin: Quacked Quest | 110314 | [110314-munchkin-quacked-quest.json](./110314-munchkin-quacked-quest.json) |
+| Munchman II | 42171 | [42171-munchman-ii.json](./42171-munchman-ii.json) |
 | Munchman: 35th Anniversary Edition | 308363 | [308363-munchman-35th-anniversary-edition.json](./308363-munchman-35th-anniversary-edition.json) |
 | Munchyman | 98234 | [98234-munchyman.json](./98234-munchyman.json) |
 | Mundial de Fútbol | 86008 | [86008-mundial-de-futbol.json](./86008-mundial-de-futbol.json) |
