@@ -1156,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jonas Willy Online | 149013 | [149013-jonas-willy-online.json](./149013-jonas-willy-online.json) |
 | Jonathan Kane: The Protector | 67261 | [67261-jonathan-kane-the-protector.json](./67261-jonathan-kane-the-protector.json) |
 | Jonathan's Adventure! Pricker Edition | 397783 | [397783-jonathans-adventure-pricker-edition.json](./397783-jonathans-adventure-pricker-edition.json) |
+| Jones in the Fast Lane | 7473 | [7473-jones-in-the-fast-lane.json](./7473-jones-in-the-fast-lane.json) |
 | Jong Kyu Pon | 342147 | [342147-jong-kyu-pon.json](./342147-jong-kyu-pon.json) |
 | Jongbou | 92298 | [92298-jongbou.json](./92298-jongbou.json) |
 | Joninės | 273667 | [273667-jonines.json](./273667-jonines.json) |
