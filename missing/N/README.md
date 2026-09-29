@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Tennis Smash Court | 74301 | [74301-namco-tennis-smash-court.json](./74301-namco-tennis-smash-court.json) |
 | Namco Vintage | 206782 | [206782-namco-vintage.json](./206782-namco-vintage.json) |
 | namCollection | 94721 | [94721-namcollection.json](./94721-namcollection.json) |
+| Namcot Mahjong III: Mahjong Tengoku | 48813 | [48813-namcot-mahjong-iii-mahjong-tengoku.json](./48813-namcot-mahjong-iii-mahjong-tengoku.json) |
 | Name That Letter - a Phonics Game | 107661 | [107661-name-that-letter-a-phonics-game.json](./107661-name-that-letter-a-phonics-game.json) |
 | Name That NG Character | 338935 | [338935-name-that-ng-character.json](./338935-name-that-ng-character.json) |
 | Name That Pokemon | 338933 | [338933-name-that-pokemon.json](./338933-name-that-pokemon.json) |
@@ -178,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naniwa Wangan Battle | 143672 | [143672-naniwa-wangan-battle.json](./143672-naniwa-wangan-battle.json) |
 | Nankin | 95374 | [95374-nankin.json](./95374-nankin.json) |
 | Nankin no Adventure | 41401 | [41401-nankin-no-adventure.json](./41401-nankin-no-adventure.json) |
+| Nankoku Shirei!! Spy vs. Spy | 48812 | [48812-nankoku-shirei-spy-vs-spy.json](./48812-nankoku-shirei-spy-vs-spy.json) |
 | Nanny 911 | 206783 | [206783-nanny-911.json](./206783-nanny-911.json) |
 | Nannys Nightmare | 53397 | [53397-nannys-nightmare.json](./53397-nannys-nightmare.json) |
 | Nano Assault | 21075 | [21075-nano-assault.json](./21075-nano-assault.json) |
@@ -220,6 +222,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanpure VOW | 191866 | [191866-nanpure-vow.json](./191866-nanpure-vow.json) |
 | Nantara Adventures | 259001 | [259001-nantara-adventures.json](./259001-nantara-adventures.json) |
 | Nantettatte Engine | 308407 | [308407-nantettatte-engine.json](./308407-nantettatte-engine.json) |
+| Nantettatte!! Baseball | 48811 | [48811-nantettatte-baseball.json](./48811-nantettatte-baseball.json) |
+| Nantettatte!! Baseball '91 Kaimaku-hen | 48810 | [48810-nantettatte-baseball-91-kaimaku-hen.json](./48810-nantettatte-baseball-91-kaimaku-hen.json) |
+| Nantettatte!! Baseball OB All Star-hen | 48809 | [48809-nantettatte-baseball-ob-all-star-hen.json](./48809-nantettatte-baseball-ob-all-star-hen.json) |
 | Nantucket: Masters of the Seven Seas | 155045 | [155045-nantucket-masters-of-the-seven-seas.json](./155045-nantucket-masters-of-the-seven-seas.json) |
 | Nanuk: The dusk of the brutes | 252401 | [252401-nanuk-the-dusk-of-the-brutes.json](./252401-nanuk-the-dusk-of-the-brutes.json) |
 | Nanuka: Secret of the Shattering Moon | 298120 | [298120-nanuka-secret-of-the-shattering-moon.json](./298120-nanuka-secret-of-the-shattering-moon.json) |
@@ -1790,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nice Try! | 129229 | [129229-nice-try.json](./129229-nice-try.json) |
 | Nice Way | 76689 | [76689-nice-way.json](./76689-nice-way.json) |
 | Niche: Breed and Evolve | 174298 | [174298-niche-breed-and-evolve.json](./174298-niche-breed-and-evolve.json) |
+| Nichibutsu Mahjong III: Mahjong G Men | 48804 | [48804-nichibutsu-mahjong-iii-mahjong-g-men.json](./48804-nichibutsu-mahjong-iii-mahjong-g-men.json) |
 | Nick | 29921 | [29921-nick.json](./29921-nick.json) |
 | Nick Bounty: A Case of the Crabs | 219150 | [219150-nick-bounty-a-case-of-the-crabs.json](./219150-nick-bounty-a-case-of-the-crabs.json) |
 | Nick Bounty: The Dame with the Blue Chewed Shoe. | 111203 | [111203-nick-bounty-the-dame-with-the-blue-chewed-shoe.json](./111203-nick-bounty-the-dame-with-the-blue-chewed-shoe.json) |
@@ -2480,6 +2486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niplob Adventure | 225726 | [225726-niplob-adventure.json](./225726-niplob-adventure.json) |
 | Nippets | 326613 | [326613-nippets.json](./326613-nippets.json) |
 | Nippon Daihyou Team: Eikou no Eleven | 65031 | [65031-nippon-daihyou-team-eikou-no-eleven.json](./65031-nippon-daihyou-team-eikou-no-eleven.json) |
+| Nippon Ichi no Meikantoku | 48803 | [48803-nippon-ichi-no-meikantoku.json](./48803-nippon-ichi-no-meikantoku.json) |
 | Nippon Marathon | 87673 | [87673-nippon-marathon.json](./87673-nippon-marathon.json) |
 | Nippon Pro Mahjong: Renmei Kounin Motto 20-bai! Mahjgong ga Tsuyoku naru Houhou - Hatsu Chuukyuu-sha-hen | 125913 | [125913-nippon-pro-mahjong-renmei-kounin-motto-20-bai-mahjgong-ga-tsuyoku-naru-houhou-hatsu-chuukyuu-sha-hen.json](./125913-nippon-pro-mahjong-renmei-kounin-motto-20-bai-mahjgong-ga-tsuyoku-naru-houhou-hatsu-chuukyuu-sha-hen.json) |
 | Nippon Suugaku Kentei Kyoukai Kounin: Suuken DS - Otona ga Tokenai!? Kodomo no Sansuu | 269615 | [269615-nippon-suugaku-kentei-kyoukai-kounin-suuken-ds-otona-ga-tokenai-kodomo-no-sansuu.json](./269615-nippon-suugaku-kentei-kyoukai-kounin-suuken-ds-otona-ga-tokenai-kodomo-no-sansuu.json) |
@@ -2497,6 +2504,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nisekoi Majikore!? | 60795 | [60795-nisekoi-majikore.json](./60795-nisekoi-majikore.json) |
 | Nisekoi Yomeiri!? | 86186 | [86186-nisekoi-yomeiri.json](./86186-nisekoi-yomeiri.json) |
 | Nishan Shaman | 105117 | [105117-nishan-shaman.json](./105117-nishan-shaman.json) |
+| Nishimura Kyoutarou Mystery: Blue Train Satsujin Jiken | 48802 | [48802-nishimura-kyoutarou-mystery-blue-train-satsujin-jiken.json](./48802-nishimura-kyoutarou-mystery-blue-train-satsujin-jiken.json) |
+| Nishimura Kyoutarou Mystery: Super Express Satsujin Jiken | 48801 | [48801-nishimura-kyoutarou-mystery-super-express-satsujin-jiken.json](./48801-nishimura-kyoutarou-mystery-super-express-satsujin-jiken.json) |
 | Nitebear on Sleepystreet | 304198 | [304198-nitebear-on-sleepystreet.json](./304198-nitebear-on-sleepystreet.json) |
 | Niteline | 304722 | [304722-niteline.json](./304722-niteline.json) |
 | Nitemare 3D | 50139 | [50139-nitemare-3d.json](./50139-nitemare-3d.json) |
