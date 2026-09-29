@@ -716,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egypt Picross. Pharaoh's Riddles. | 99990 | [99990-egypt-picross-pharaohs-riddles.json](./99990-egypt-picross-pharaohs-riddles.json) |
 | Egypt Series: The Prophecy - Part 2 | 88830 | [88830-egypt-series-the-prophecy-part-2.json](./88830-egypt-series-the-prophecy-part-2.json) |
 | Egypt Solitaire: Match 2 Cards | 127237 | [127237-egypt-solitaire-match-2-cards.json](./127237-egypt-solitaire-match-2-cards.json) |
+| Egypt: Old Kingdom | 75230 | [75230-egypt-old-kingdom.json](./75230-egypt-old-kingdom.json) |
 | Egypt: Old Kingdom - Master of History | 124796 | [124796-egypt-old-kingdom-master-of-history.json](./124796-egypt-old-kingdom-master-of-history.json) |
 | Egypt: Secret of Five Gods | 294206 | [294206-egypt-secret-of-five-gods.json](./294206-egypt-secret-of-five-gods.json) |
 | Egyptian Challenge | 91543 | [91543-egyptian-challenge.json](./91543-egyptian-challenge.json) |
@@ -1723,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Breaker | 38377 | [38377-energy-breaker.json](./38377-energy-breaker.json) |
 | Energy Collector | 207503 | [207503-energy-collector.json](./207503-energy-collector.json) |
 | Energy Crush | 325445 | [325445-energy-crush.json](./325445-energy-crush.json) |
+| Energy Cycle | 34202 | [34202-energy-cycle.json](./34202-energy-cycle.json) |
 | Energy Cycle Edge | 112590 | [112590-energy-cycle-edge.json](./112590-energy-cycle-edge.json) |
 | Energy Fighters | 235452 | [235452-energy-fighters.json](./235452-energy-fighters.json) |
 | Energy Hook | 20182 | [20182-energy-hook.json](./20182-energy-hook.json) |
