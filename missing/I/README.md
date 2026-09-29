@@ -941,6 +941,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikibago | 85185 | [85185-ikibago.json](./85185-ikibago.json) |
 | Ikkarus and the Prince of Sin | 211804 | [211804-ikkarus-and-the-prince-of-sin.json](./211804-ikkarus-and-the-prince-of-sin.json) |
 | Ikki | 12915 | [12915-ikki.json](./12915-ikki.json) |
+| Ikki Tousen: Eloquent Fist | 38475 | [38475-ikki-tousen-eloquent-fist.json](./38475-ikki-tousen-eloquent-fist.json) |
+| Ikki Tousen: Xross Impact | 38470 | [38470-ikki-tousen-xross-impact.json](./38470-ikki-tousen-xross-impact.json) |
 | Ikkitousen: Shining Dragon | 44645 | [44645-ikkitousen-shining-dragon.json](./44645-ikkitousen-shining-dragon.json) |
 | Ikoka Game | 273458 | [273458-ikoka-game.json](./273458-ikoka-game.json) |
 | IKOU: Intelligenztrainer fur Kids | 269634 | [269634-ikou-intelligenztrainer-fur-kids.json](./269634-ikou-intelligenztrainer-fur-kids.json) |
