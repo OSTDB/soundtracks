@@ -2470,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lint | 55972 | [55972-lint.json](./55972-lint.json) |
 | Linum | 234063 | [234063-linum.json](./234063-linum.json) |
 | Linum | 337830 | [337830-linum.json](./337830-linum.json) |
+| Linus Spacehead's Cosmic Crusade | 48185 | [48185-linus-spaceheads-cosmic-crusade.json](./48185-linus-spaceheads-cosmic-crusade.json) |
 | Linx Battle Arena | 55961 | [55961-linx-battle-arena.json](./55961-linx-battle-arena.json) |
 | Linxicon | 319984 | [319984-linxicon.json](./319984-linxicon.json) |
 | Linzy has a Messy Room | 101099 | [101099-linzy-has-a-messy-room.json](./101099-linzy-has-a-messy-room.json) |
@@ -2743,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Re-collector | 369059 | [369059-little-re-collector.json](./369059-little-re-collector.json) |
 | Little Reaper | 111523 | [111523-little-reaper.json](./111523-little-reaper.json) |
 | Little Red Ball | 176384 | [176384-little-red-ball.json](./176384-little-red-ball.json) |
+| Little Red Hood | 48184 | [48184-little-red-hood.json](./48184-little-red-hood.json) |
 | Little Red in the Woods | 364493 | [364493-little-red-in-the-woods.json](./364493-little-red-in-the-woods.json) |
 | Little Red Lie | 44280 | [44280-little-red-lie.json](./44280-little-red-lie.json) |
 | Little Red Riding Hood | 372124 | [372124-little-red-riding-hood.json](./372124-little-red-riding-hood.json) |
