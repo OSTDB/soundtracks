@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taco Tides | 292076 | [292076-taco-tides.json](./292076-taco-tides.json) |
 | Taco Tom 2 | 113047 | [113047-taco-tom-2.json](./113047-taco-tom-2.json) |
 | Taco: Princess from the Moon | 166162 | [166162-taco-princess-from-the-moon.json](./166162-taco-princess-from-the-moon.json) |
+| TacoFace | 30091 | [30091-tacoface.json](./30091-tacoface.json) |
 | TacOps | 77252 | [77252-tacops.json](./77252-tacops.json) |
 | TacTac Prologue | 198383 | [198383-tactac-prologue.json](./198383-tactac-prologue.json) |
 | Tactera | 81169 | [81169-tactera.json](./81169-tactera.json) |
@@ -487,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of an Apocalypse | 157014 | [157014-tale-of-an-apocalypse.json](./157014-tale-of-an-apocalypse.json) |
 | Tale of Avamphil | 177925 | [177925-tale-of-avamphil.json](./177925-tale-of-avamphil.json) |
 | Tale of Exorcists | 375313 | [375313-tale-of-exorcists.json](./375313-tale-of-exorcists.json) |
+| Tale of Fallen Dragons | 30076 | [30076-tale-of-fallen-dragons.json](./30076-tale-of-fallen-dragons.json) |
 | Tale of Honor | 274041 | [274041-tale-of-honor.json](./274041-tale-of-honor.json) |
 | Tale of Jade Li Guang | 151740 | [151740-tale-of-jade-li-guang.json](./151740-tale-of-jade-li-guang.json) |
 | Tale of Legends | 260685 | [260685-tale-of-legends.json](./260685-tale-of-legends.json) |
@@ -5740,6 +5742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legendary Player - Make Your Reputation | 68612 | [68612-the-legendary-player-make-your-reputation.json](./68612-the-legendary-player-make-your-reputation.json) |
 | The Legendary Starfy | 20280 | [20280-the-legendary-starfy.json](./20280-the-legendary-starfy.json) |
 | The Legends of Maui | 289990 | [289990-the-legends-of-maui.json](./289990-the-legends-of-maui.json) |
+| The Legends of Owlia | 30059 | [30059-the-legends-of-owlia.json](./30059-the-legends-of-owlia.json) |
 | The Legends of Oz: One Hundred Years of Oz | 269668 | [269668-the-legends-of-oz-one-hundred-years-of-oz.json](./269668-the-legends-of-oz-one-hundred-years-of-oz.json) |
 | The Legions of Rome | 31353 | [31353-the-legions-of-rome.json](./31353-the-legions-of-rome.json) |
 | The LEGO Movie 2 Videogame | 112674 | [112674-the-lego-movie-2-videogame.json](./112674-the-lego-movie-2-videogame.json) |
@@ -10255,6 +10258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tikutaku Concert | 148936 | [148936-tikutaku-concert.json](./148936-tikutaku-concert.json) |
 | Til Morning's Light | 18996 | [18996-til-mornings-light.json](./18996-til-mornings-light.json) |
 | Tilde and the 9 Mystical Glorbos | 394834 | [394834-tilde-and-the-9-mystical-glorbos.json](./394834-tilde-and-the-9-mystical-glorbos.json) |
+| Tile | 30139 | [30139-tile.json](./30139-tile.json) |
 | Tile & Error | 103896 | [103896-tile-and-error.json](./103896-tile-and-error.json) |
 | Tile & Error | 413899 | [413899-tile-and-error.json](./413899-tile-and-error.json) |
 | Tile Battle | 52775 | [52775-tile-battle.json](./52775-tile-battle.json) |
@@ -10468,6 +10472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeless Tesseract | 310497 | [310497-timeless-tesseract.json](./310497-timeless-tesseract.json) |
 | Timeless Valley | 333593 | [333593-timeless-valley.json](./333593-timeless-valley.json) |
 | Timeless: The Forgotten Town | 44597 | [44597-timeless-the-forgotten-town.json](./44597-timeless-the-forgotten-town.json) |
+| Timeless: The Forgotten Town - Collector's Edition | 30066 | [30066-timeless-the-forgotten-town-collectors-edition.json](./30066-timeless-the-forgotten-town-collectors-edition.json) |
 | Timelie | 122385 | [122385-timelie.json](./122385-timelie.json) |
 | Timelie: Game of the Year Edition | 169192 | [169192-timelie-game-of-the-year-edition.json](./169192-timelie-game-of-the-year-edition.json) |
 | Timeline Traveler | 136401 | [136401-timeline-traveler.json](./136401-timeline-traveler.json) |
