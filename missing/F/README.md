@@ -2140,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Figures of Heroes | 230925 | [230925-figures-of-heroes.json](./230925-figures-of-heroes.json) |
 | Figures of Shadows | 374068 | [374068-figures-of-shadows.json](./374068-figures-of-shadows.json) |
 | Figurine Shop Simulator | 346592 | [346592-figurine-shop-simulator.json](./346592-figurine-shop-simulator.json) |
+| Filament | 121885 | [121885-filament.json](./121885-filament.json) |
 | Filament | 146233 | [146233-filament.json](./146233-filament.json) |
 | Filament: Marmalade Edition | 154517 | [154517-filament-marmalade-edition.json](./154517-filament-marmalade-edition.json) |
 | File | 126451 | [126451-file.json](./126451-file.json) |
