@@ -7145,6 +7145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer: Kick the Goal | 245404 | [245404-soccer-kick-the-goal.json](./245404-soccer-kick-the-goal.json) |
 | Soccerholix | 93577 | [93577-soccerholix.json](./93577-soccerholix.json) |
 | Soccering | 115041 | [115041-soccering.json](./115041-soccering.json) |
+| Soccertron | 11132 | [11132-soccertron.json](./11132-soccertron.json) |
 | Social Club VR : Casino Nights | 130746 | [130746-social-club-vr-casino-nights.json](./130746-social-club-vr-casino-nights.json) |
 | Social Democracy: An Alternate History | 301376 | [301376-social-democracy-an-alternate-history.json](./301376-social-democracy-an-alternate-history.json) |
 | Social Distancing Simulator | 166204 | [166204-social-distancing-simulator.json](./166204-social-distancing-simulator.json) |
@@ -11605,6 +11606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Alive | 339667 | [339667-stay-alive.json](./339667-stay-alive.json) |
 | Stay Alive, My Son VR | 293637 | [293637-stay-alive-my-son-vr.json](./293637-stay-alive-my-son-vr.json) |
 | Stay Dead | 359518 | [359518-stay-dead.json](./359518-stay-dead.json) |
+| Stay Dead Evolution | 10896 | [10896-stay-dead-evolution.json](./10896-stay-dead-evolution.json) |
 | Stay Focus | 296992 | [296992-stay-focus.json](./296992-stay-focus.json) |
 | Stay Home | 184055 | [184055-stay-home.json](./184055-stay-home.json) |
 | Stay Home It Rains Outside | 316406 | [316406-stay-home-it-rains-outside.json](./316406-stay-home-it-rains-outside.json) |
@@ -11623,6 +11625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay.: Fragments of Memories | 308972 | [308972-stay-fragments-of-memories.json](./308972-stay-fragments-of-memories.json) |
 | Staying Together | 129647 | [129647-staying-together.json](./129647-staying-together.json) |
 | STCC 2: The Game | 62410 | [62410-stcc-2-the-game.json](./62410-stcc-2-the-game.json) |
+| STCC: The Game | 10921 | [10921-stcc-the-game.json](./10921-stcc-the-game.json) |
 | Steadfast | 417535 | [417535-steadfast.json](./417535-steadfast.json) |
 | Steady, Steady, Steady! | 348254 | [348254-steady-steady-steady.json](./348254-steady-steady-steady.json) |
 | Steal & Sell Simulator | 413173 | [413173-steal-and-sell-simulator.json](./413173-steal-and-sell-simulator.json) |
@@ -11633,10 +11636,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth | 147969 | [147969-stealth.json](./147969-stealth.json) |
 | Stealth | 86207 | [86207-stealth.json](./86207-stealth.json) |
 | Stealth ATF | 48237 | [48237-stealth-atf.json](./48237-stealth-atf.json) |
+| Stealth Bastard | 10923 | [10923-stealth-bastard.json](./10923-stealth-bastard.json) |
 | Stealth Bastard Deluxe | 10922 | [10922-stealth-bastard-deluxe.json](./10922-stealth-bastard-deluxe.json) |
+| Stealth Bastard Deluxe: The Teleporter Chambers | 10924 | [10924-stealth-bastard-deluxe-the-teleporter-chambers.json](./10924-stealth-bastard-deluxe-the-teleporter-chambers.json) |
 | Stealth Bastard: Tactical Espionage Arsehole | 65531 | [65531-stealth-bastard-tactical-espionage-arsehole.json](./65531-stealth-bastard-tactical-espionage-arsehole.json) |
 | Stealth Blade | 278402 | [278402-stealth-blade.json](./278402-stealth-blade.json) |
 | Stealth Combat | 79366 | [79366-stealth-combat.json](./79366-stealth-combat.json) |
+| Stealth Force 2 | 10925 | [10925-stealth-force-2.json](./10925-stealth-force-2.json) |
 | Stealth Force: The War on Terror | 43291 | [43291-stealth-force-the-war-on-terror.json](./43291-stealth-force-the-war-on-terror.json) |
 | Stealth Granny in the House | 96910 | [96910-stealth-granny-in-the-house.json](./96910-stealth-granny-in-the-house.json) |
 | Stealth Horror: Grand Daddy | 97098 | [97098-stealth-horror-grand-daddy.json](./97098-stealth-horror-grand-daddy.json) |
@@ -11652,6 +11658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam & Steel Railway Tycoon | 384191 | [384191-steam-and-steel-railway-tycoon.json](./384191-steam-and-steel-railway-tycoon.json) |
 | Steam and Metal | 36139 | [36139-steam-and-metal.json](./36139-steam-and-metal.json) |
 | Steam Bandits: Outpost | 30368 | [30368-steam-bandits-outpost.json](./30368-steam-bandits-outpost.json) |
+| Steam Heroes | 10926 | [10926-steam-heroes.json](./10926-steam-heroes.json) |
 | Steam Marines 2 | 57889 | [57889-steam-marines-2.json](./57889-steam-marines-2.json) |
 | Steam Punks | 61085 | [61085-steam-punks.json](./61085-steam-punks.json) |
 | Steam Puppet: Tower Defense | 151670 | [151670-steam-puppet-tower-defense.json](./151670-steam-puppet-tower-defense.json) |
@@ -13219,6 +13226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku: Unlimited Expansion | 405622 | [405622-sudoku-unlimited-expansion.json](./405622-sudoku-unlimited-expansion.json) |
 | Sudoku! For Watch | 368475 | [368475-sudoku-for-watch.json](./368475-sudoku-for-watch.json) |
 | Sudoku3D | 113193 | [113193-sudoku3d.json](./113193-sudoku3d.json) |
+| Sudokuball Detective | 10930 | [10930-sudokuball-detective.json](./10930-sudokuball-detective.json) |
 | SudoKube | 193451 | [193451-sudokube.json](./193451-sudokube.json) |
 | Sudokuro: Sudoku & Kakuro Games | 337677 | [337677-sudokuro-sudoku-and-kakuro-games.json](./337677-sudokuro-sudoku-and-kakuro-games.json) |
 | Sue Shi Survival | 219584 | [219584-sue-shi-survival.json](./219584-sue-shi-survival.json) |
@@ -15027,6 +15035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Wrestle Angels | 38288 | [38288-super-wrestle-angels.json](./38288-super-wrestle-angels.json) |
 | Super Wumpus | 152915 | [152915-super-wumpus.json](./152915-super-wumpus.json) |
 | Super X Chess | 111044 | [111044-super-x-chess.json](./111044-super-x-chess.json) |
+| Super Xblox 360! | 11055 | [11055-super-xblox-360.json](./11055-super-xblox-360.json) |
 | Super XYX | 140036 | [140036-super-xyx.json](./140036-super-xyx.json) |
 | Super Yakyuu-dou | 76993 | [76993-super-yakyuu-dou.json](./76993-super-yakyuu-dou.json) |
 | Super Yakyuudou '93 - 94 Nendo Data Kaiteiban | 66198 | [66198-super-yakyuudou-93-94-nendo-data-kaiteiban.json](./66198-super-yakyuudou-93-94-nendo-data-kaiteiban.json) |
@@ -15965,6 +15974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Necromancer: Ultra Collector's Edition | 148543 | [148543-sword-of-the-necromancer-ultra-collectors-edition.json](./148543-sword-of-the-necromancer-ultra-collectors-edition.json) |
 | Sword of the Slayer | 123524 | [123524-sword-of-the-slayer.json](./123524-sword-of-the-slayer.json) |
 | Sword of the Spirit | 243123 | [243123-sword-of-the-spirit.json](./243123-sword-of-the-spirit.json) |
+| Sword of the Stars: A Murder of Crows | 10935 | [10935-sword-of-the-stars-a-murder-of-crows.json](./10935-sword-of-the-stars-a-murder-of-crows.json) |
 | Sword of the Stars: Argos Naval Yard | 10936 | [10936-sword-of-the-stars-argos-naval-yard.json](./10936-sword-of-the-stars-argos-naval-yard.json) |
 | Sword of the Stars: The Pit - Mind Games | 10950 | [10950-sword-of-the-stars-the-pit-mind-games.json](./10950-sword-of-the-stars-the-pit-mind-games.json) |
 | Sword of the Stars: The Pit 2 | 178077 | [178077-sword-of-the-stars-the-pit-2.json](./178077-sword-of-the-stars-the-pit-2.json) |
