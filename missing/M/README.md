@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.U.S.E. | 61136 | [61136-m-u-s-e.json](./61136-m-u-s-e.json) |
 | M.V.P. | 197957 | [197957-m-v-p.json](./197957-m-v-p.json) |
 | M*A*S*H | 22734 | [22734-m-a-s-h.json](./22734-m-a-s-h.json) |
+| M&M's Beach Party | 50703 | [50703-m-and-ms-beach-party.json](./50703-m-and-ms-beach-party.json) |
 | M&M's Blast! | 49330 | [49330-m-and-ms-blast.json](./49330-m-and-ms-blast.json) |
 | M&M's Minis Madness | 49918 | [49918-m-and-ms-minis-madness.json](./49918-m-and-ms-minis-madness.json) |
 | M&M's: The Lost Formulas | 79613 | [79613-m-and-ms-the-lost-formulas.json](./79613-m-and-ms-the-lost-formulas.json) |
@@ -351,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madrobot X | 31793 | [31793-madrobot-x.json](./31793-madrobot-x.json) |
 | Mads, Morfar og Miljøstrup | 59950 | [59950-mads-morfar-og-milj-strup.json](./59950-mads-morfar-og-milj-strup.json) |
 | Madshot | 191697 | [191697-madshot.json](./191697-madshot.json) |
+| Madstone | 50721 | [50721-madstone.json](./50721-madstone.json) |
 | Maduro Run | 392933 | [392933-maduro-run.json](./392933-maduro-run.json) |
 | Madvent Calendar 3 Necrosis | 229375 | [229375-madvent-calendar-3-necrosis.json](./229375-madvent-calendar-3-necrosis.json) |
 | Maeldor: Enhanced Edition | 235687 | [235687-maeldor-enhanced-edition.json](./235687-maeldor-enhanced-edition.json) |
@@ -1586,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marine Survivors | 213970 | [213970-marine-survivors.json](./213970-marine-survivors.json) |
 | Marine Tour | 243393 | [243393-marine-tour.json](./243393-marine-tour.json) |
 | Mariner | 39690 | [39690-mariner.json](./39690-mariner.json) |
+| Marines Modern Urban Combat | 50690 | [50690-marines-modern-urban-combat.json](./50690-marines-modern-urban-combat.json) |
 | Mario & Luigi | 117772 | [117772-mario-and-luigi.json](./117772-mario-and-luigi.json) |
 | Mario & Luigi MAD NES | 323823 | [323823-mario-and-luigi-mad-nes.json](./323823-mario-and-luigi-mad-nes.json) |
 | Mario & Luigi Sokoban | 349855 | [349855-mario-and-luigi-sokoban.json](./349855-mario-and-luigi-sokoban.json) |
@@ -7009,6 +7012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck Ramp Stunt | 246431 | [246431-monster-truck-ramp-stunt.json](./246431-monster-truck-ramp-stunt.json) |
 | Monster Truck Soccer | 197648 | [197648-monster-truck-soccer.json](./197648-monster-truck-soccer.json) |
 | Monster Truck XT Airport Derby | 86784 | [86784-monster-truck-xt-airport-derby.json](./86784-monster-truck-xt-airport-derby.json) |
+| Monster Trucks Mayhem | 50718 | [50718-monster-trucks-mayhem.json](./50718-monster-trucks-mayhem.json) |
 | Monster Trux: Offroad | 21500 | [21500-monster-trux-offroad.json](./21500-monster-trux-offroad.json) |
 | Monster Tutor | 357455 | [357455-monster-tutor.json](./357455-monster-tutor.json) |
 | Monster Universe | 237640 | [237640-monster-universe.json](./237640-monster-universe.json) |
@@ -9198,6 +9202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Young Boyfriend Part 1 | 298881 | [298881-my-young-boyfriend-part-1.json](./298881-my-young-boyfriend-part-1.json) |
 | My Young Boyfriend Part 2 | 303273 | [303273-my-young-boyfriend-part-2.json](./303273-my-young-boyfriend-part-2.json) |
 | My Zombies Are Hungry | 418792 | [418792-my-zombies-are-hungry.json](./418792-my-zombies-are-hungry.json) |
+| My Zoo | 50707 | [50707-my-zoo.json](./50707-my-zoo.json) |
 | Mycelium | 295350 | [295350-mycelium.json](./295350-mycelium.json) |
 | Mycelium Conquest | 401813 | [401813-mycelium-conquest.json](./401813-mycelium-conquest.json) |
 | Mycelium: The Silent Contract | 343357 | [343357-mycelium-the-silent-contract.json](./343357-mycelium-the-silent-contract.json) |
