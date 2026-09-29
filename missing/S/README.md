@@ -2116,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector a Training Facilitea | 253029 | [253029-sector-a-training-facilitea.json](./253029-sector-a-training-facilitea.json) |
 | Sector Alpha | 183518 | [183518-sector-alpha.json](./183518-sector-alpha.json) |
 | Sector Alpha | 301339 | [301339-sector-alpha.json](./301339-sector-alpha.json) |
+| Sector Alpha | 40913 | [40913-sector-alpha.json](./40913-sector-alpha.json) |
 | Sector Lockdown | 382335 | [382335-sector-lockdown.json](./382335-sector-lockdown.json) |
 | Sector Six | 32924 | [32924-sector-six.json](./32924-sector-six.json) |
 | Sector Strike | 145016 | [145016-sector-strike.json](./145016-sector-strike.json) |
@@ -5304,6 +5305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate O'Clock | 298093 | [298093-skate-oclock.json](./298093-skate-oclock.json) |
 | Skate of Emergency | 74773 | [74773-skate-of-emergency.json](./74773-skate-of-emergency.json) |
 | Skate or Die | 12267 | [12267-skate-or-die.json](./12267-skate-or-die.json) |
+| Skate or Die | 40929 | [40929-skate-or-die.json](./40929-skate-or-die.json) |
 | Skate or Die 2: The Search for Double Trouble | 48181 | [48181-skate-or-die-2-the-search-for-double-trouble.json](./48181-skate-or-die-2-the-search-for-double-trouble.json) |
 | Skate Samurai | 185096 | [185096-skate-samurai.json](./185096-skate-samurai.json) |
 | Skate Shop Simulator | 211269 | [211269-skate-shop-simulator.json](./211269-skate-shop-simulator.json) |
@@ -5484,6 +5486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skoof Fishing | 356663 | [356663-skoof-fishing.json](./356663-skoof-fishing.json) |
 | Skools Out | 338809 | [338809-skools-out.json](./338809-skools-out.json) |
 | Skoory Rush | 250463 | [250463-skoory-rush.json](./250463-skoory-rush.json) |
+| Skramble | 40928 | [40928-skramble.json](./40928-skramble.json) |
 | Skronchulonch: The Game of Shooting at an Orb | 176375 | [176375-skronchulonch-the-game-of-shooting-at-an-orb.json](./176375-skronchulonch-the-game-of-shooting-at-an-orb.json) |
 | Skrunkly gets a Meal Deal | 332984 | [332984-skrunkly-gets-a-meal-deal.json](./332984-skrunkly-gets-a-meal-deal.json) |
 | Skuf For Altushki | 368554 | [368554-skuf-for-altushki.json](./368554-skuf-for-altushki.json) |
@@ -6673,6 +6676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snapshot VR | 137443 | [137443-snapshot-vr.json](./137443-snapshot-vr.json) |
 | Snapshots | 384076 | [384076-snapshots.json](./384076-snapshots.json) |
 | Snapto | 352945 | [352945-snapto.json](./352945-snapto.json) |
+| Snare | 40938 | [40938-snare.json](./40938-snare.json) |
 | Snares of Ruin Zero | 112352 | [112352-snares-of-ruin-zero.json](./112352-snares-of-ruin-zero.json) |
 | Snarewaves' Shooting Challenge | 329162 | [329162-snarewaves-shooting-challenge.json](./329162-snarewaves-shooting-challenge.json) |
 | Snarf | 94686 | [94686-snarf.json](./94686-snarf.json) |
@@ -9298,6 +9302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectro: Phantom Tower | 393791 | [393791-spectro-phantom-tower.json](./393791-spectro-phantom-tower.json) |
 | Spectrolite | 176361 | [176361-spectrolite.json](./176361-spectrolite.json) |
 | Spectromancer: Gathering of Power | 164383 | [164383-spectromancer-gathering-of-power.json](./164383-spectromancer-gathering-of-power.json) |
+| Spectron | 40912 | [40912-spectron.json](./40912-spectron.json) |
 | Spectrubes | 33415 | [33415-spectrubes.json](./33415-spectrubes.json) |
 | Spectrubes Infinity | 96663 | [96663-spectrubes-infinity.json](./96663-spectrubes-infinity.json) |
 | Spectrum | 260129 | [260129-spectrum.json](./260129-spectrum.json) |
@@ -11564,6 +11569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steampunk Timer | 152797 | [152797-steampunk-timer.json](./152797-steampunk-timer.json) |
 | Steampunk Tower | 142333 | [142333-steampunk-tower.json](./142333-steampunk-tower.json) |
 | Steamroll | 20361 | [20361-steamroll.json](./20361-steamroll.json) |
+| Steamroller | 40911 | [40911-steamroller.json](./40911-steamroller.json) |
 | SteamRush | 295278 | [295278-steamrush.json](./295278-steamrush.json) |
 | Steamry | 365678 | [365678-steamry.json](./365678-steamry.json) |
 | SteamSaga: Cerulia | 62799 | [62799-steamsaga-cerulia.json](./62799-steamsaga-cerulia.json) |
@@ -12601,6 +12607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Force | 46856 | [46856-strike-force.json](./46856-strike-force.json) |
 | Strike Force Harrier | 26480 | [26480-strike-force-harrier.json](./26480-strike-force-harrier.json) |
 | Strike Force Hydra | 49381 | [49381-strike-force-hydra.json](./49381-strike-force-hydra.json) |
+| Strike It! | 40910 | [40910-strike-it.json](./40910-strike-it.json) |
 | Strike of Kings | 56465 | [56465-strike-of-kings.json](./56465-strike-of-kings.json) |
 | Strike Pose | 239618 | [239618-strike-pose.json](./239618-strike-pose.json) |
 | Strike Solitaire | 276279 | [276279-strike-solitaire.json](./276279-strike-solitaire.json) |
@@ -13486,7 +13493,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super "Mario" World 2 | 297496 | [297496-super-mario-world-2.json](./297496-super-mario-world-2.json) |
 | Super 2048 | 99983 | [99983-super-2048.json](./99983-super-2048.json) |
 | Super ACiD Block Attack | 82459 | [82459-super-acid-block-attack.json](./82459-super-acid-block-attack.json) |
+| Super Action Baseball | 40909 | [40909-super-action-baseball.json](./40909-super-action-baseball.json) |
+| Super Action Football | 40908 | [40908-super-action-football.json](./40908-super-action-football.json) |
 | Super Action Pak | 56452 | [56452-super-action-pak.json](./56452-super-action-pak.json) |
+| Super Action Soccer | 40907 | [40907-super-action-soccer.json](./40907-super-action-soccer.json) |
 | Super Adventure Island | 9064 | [9064-super-adventure-island.json](./9064-super-adventure-island.json) |
 | Super Adventurer | 61021 | [61021-super-adventurer.json](./61021-super-adventurer.json) |
 | Super Airwolf | 45548 | [45548-super-airwolf.json](./45548-super-airwolf.json) |
@@ -13681,6 +13691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Crazy Rhythm Castle | 258252 | [258252-super-crazy-rhythm-castle.json](./258252-super-crazy-rhythm-castle.json) |
 | Super Cream 64: The Grand Finale | 214764 | [214764-super-cream-64-the-grand-finale.json](./214764-super-cream-64-the-grand-finale.json) |
 | Super Creme World | 267920 | [267920-super-creme-world.json](./267920-super-creme-world.json) |
+| Super Cross Force | 40906 | [40906-super-cross-force.json](./40906-super-cross-force.json) |
 | Super Cross II | 40429 | [40429-super-cross-ii.json](./40429-super-cross-ii.json) |
 | Super Cross Kings | 54412 | [54412-super-cross-kings.json](./54412-super-cross-kings.json) |
 | Super Crossfire | 65448 | [65448-super-crossfire.json](./65448-super-crossfire.json) |
