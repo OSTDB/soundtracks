@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidney Stone Clicker | 369630 | [369630-kidney-stone-clicker.json](./369630-kidney-stone-clicker.json) |
 | Kido Keisatstsu Patlabor: Griffon-hen | 75897 | [75897-kido-keisatstsu-patlabor-griffon-hen.json](./75897-kido-keisatstsu-patlabor-griffon-hen.json) |
 | Kidou Gekidan Haro Ichiza: Gundam Mahjong + Z: Sara ni Deki Ruyouni Nattana! | 79185 | [79185-kidou-gekidan-haro-ichiza-gundam-mahjong-z-sara-ni-deki-ruyouni-nattana.json](./79185-kidou-gekidan-haro-ichiza-gundam-mahjong-z-sara-ni-deki-ruyouni-nattana.json) |
+| Kidou Keisatsu Patlabor: 98-Shiki Kidou Seyo! | 46075 | [46075-kidou-keisatsu-patlabor-98-shiki-kidou-seyo.json](./46075-kidou-keisatsu-patlabor-98-shiki-kidou-seyo.json) |
 | Kidou Senshi Gundam Gaiden: Missing Link | 62277 | [62277-kidou-senshi-gundam-gaiden-missing-link.json](./62277-kidou-senshi-gundam-gaiden-missing-link.json) |
 | Kidou Senshi Gundam Seed | 37371 | [37371-kidou-senshi-gundam-seed.json](./37371-kidou-senshi-gundam-seed.json) |
 | Kidou Senshi Gundam Vol. 1 Side7 | 37370 | [37370-kidou-senshi-gundam-vol-1-side7.json](./37370-kidou-senshi-gundam-vol-1-side7.json) |
