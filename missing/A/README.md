@@ -5612,6 +5612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arida: Backland's Awakening | 106433 | [106433-arida-backlands-awakening.json](./106433-arida-backlands-awakening.json) |
 | AridFortress | 102224 | [102224-aridfortress.json](./102224-aridfortress.json) |
 | Arie: Moonprayer | 258534 | [258534-arie-moonprayer.json](./258534-arie-moonprayer.json) |
+| Ariel | 33319 | [33319-ariel.json](./33319-ariel.json) |
 | Ariel's Daily Grind | 223492 | [223492-ariels-daily-grind.json](./223492-ariels-daily-grind.json) |
 | Ariel's Story Studio | 57920 | [57920-ariels-story-studio.json](./57920-ariels-story-studio.json) |
 | Aries | 170824 | [170824-aries.json](./170824-aries.json) |
@@ -7104,6 +7105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attractorache | 109904 | [109904-attractorache.json](./109904-attractorache.json) |
 | Attrax | 349381 | [349381-attrax.json](./349381-attrax.json) |
 | Attrition | 378197 | [378197-attrition.json](./378197-attrition.json) |
+| Atulos Online | 33343 | [33343-atulos-online.json](./33343-atulos-online.json) |
 | Atum | 128624 | [128624-atum.json](./128624-atum.json) |
 | ATV Bike Games | 294255 | [294255-atv-bike-games.json](./294255-atv-bike-games.json) |
 | ATV Fever | 10006 | [10006-atv-fever.json](./10006-atv-fever.json) |
