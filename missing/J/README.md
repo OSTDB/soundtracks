@@ -1109,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoJo Siwa: Worldwide Party | 218722 | [218722-jojo-siwa-worldwide-party.json](./218722-jojo-siwa-worldwide-party.json) |
 | JoJo the Sheep | 233487 | [233487-jojo-the-sheep.json](./233487-jojo-the-sheep.json) |
 | JoJo's Bizarre Adventure HD | 47433 | [47433-jojos-bizarre-adventure-hd.json](./47433-jojos-bizarre-adventure-hd.json) |
+| JoJo's Bizarre Adventure: All Star Battle | 6517 | [6517-jojos-bizarre-adventure-all-star-battle.json](./6517-jojos-bizarre-adventure-all-star-battle.json) |
 | JoJo's Bizarre Adventure: All Star Battle - Golden Experience Box | 298016 | [298016-jojos-bizarre-adventure-all-star-battle-golden-experience-box.json](./298016-jojos-bizarre-adventure-all-star-battle-golden-experience-box.json) |
 | JoJo's Bizarre Adventure: All Star Battle R - Digital Deluxe Edition | 218458 | [218458-jojos-bizarre-adventure-all-star-battle-r-digital-deluxe-edition.json](./218458-jojos-bizarre-adventure-all-star-battle-r-digital-deluxe-edition.json) |
 | JoJo’s Bizarre Adventure: All-Star Battle R | 194208 | [194208-jojo-s-bizarre-adventure-all-star-battle-r.json](./194208-jojo-s-bizarre-adventure-all-star-battle-r.json) |
