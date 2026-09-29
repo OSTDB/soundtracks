@@ -2851,6 +2851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishbones | 122194 | [122194-fishbones.json](./122194-fishbones.json) |
 | Fishbowl | 68629 | [68629-fishbowl.json](./68629-fishbowl.json) |
 | Fishdom: Deep Dive | 197359 | [197359-fishdom-deep-dive.json](./197359-fishdom-deep-dive.json) |
+| Fisher Fans VR | 54507 | [54507-fisher-fans-vr.json](./54507-fisher-fans-vr.json) |
 | Fisher Frog | 214478 | [214478-fisher-frog.json](./214478-fisher-frog.json) |
 | Fisher Man | 367491 | [367491-fisher-man.json](./367491-fisher-man.json) |
 | Fisher Online: China | 238416 | [238416-fisher-online-china.json](./238416-fisher-online-china.json) |
@@ -3476,6 +3477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipper & Lopaka: The Secrets of the Deep | 62735 | [62735-flipper-and-lopaka-the-secrets-of-the-deep.json](./62735-flipper-and-lopaka-the-secrets-of-the-deep.json) |
 | Flipper & Unboxing House 2-in-1 | 414442 | [414442-flipper-and-unboxing-house-2-in-1.json](./414442-flipper-and-unboxing-house-2-in-1.json) |
 | Flipper Critters | 20693 | [20693-flipper-critters.json](./20693-flipper-critters.json) |
+| Flipper Hazard 2 | 54483 | [54483-flipper-hazard-2.json](./54483-flipper-hazard-2.json) |
 | Flipper Hazard 4 | 55239 | [55239-flipper-hazard-4.json](./55239-flipper-hazard-4.json) |
 | Flipper Hazard 5 | 55442 | [55442-flipper-hazard-5.json](./55442-flipper-hazard-5.json) |
 | Flipper Mechanic | 117798 | [117798-flipper-mechanic.json](./117798-flipper-mechanic.json) |
