@@ -3497,6 +3497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipper & Lopaka: The Secrets of the Deep | 62735 | [62735-flipper-and-lopaka-the-secrets-of-the-deep.json](./62735-flipper-and-lopaka-the-secrets-of-the-deep.json) |
 | Flipper & Unboxing House 2-in-1 | 414442 | [414442-flipper-and-unboxing-house-2-in-1.json](./414442-flipper-and-unboxing-house-2-in-1.json) |
 | Flipper Critters | 20693 | [20693-flipper-critters.json](./20693-flipper-critters.json) |
+| Flipper Hazard | 44115 | [44115-flipper-hazard.json](./44115-flipper-hazard.json) |
 | Flipper Hazard 2 | 54483 | [54483-flipper-hazard-2.json](./54483-flipper-hazard-2.json) |
 | Flipper Hazard 4 | 55239 | [55239-flipper-hazard-4.json](./55239-flipper-hazard-4.json) |
 | Flipper Hazard 5 | 55442 | [55442-flipper-hazard-5.json](./55442-flipper-hazard-5.json) |
@@ -3642,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Florida Man: Hurricane Hijinks | 153377 | [153377-florida-man-hurricane-hijinks.json](./153377-florida-man-hurricane-hijinks.json) |
 | Florida Simulator 1986 | 158545 | [158545-florida-simulator-1986.json](./158545-florida-simulator-1986.json) |
 | Florifer | 240307 | [240307-florifer.json](./240307-florifer.json) |
+| Florist Shop | 44070 | [44070-florist-shop.json](./44070-florist-shop.json) |
 | Floristry | 68956 | [68956-floristry.json](./68956-floristry.json) |
 | Flotilla 2 | 99064 | [99064-flotilla-2.json](./99064-flotilla-2.json) |
 | Flotus | 103480 | [103480-flotus.json](./103480-flotus.json) |
