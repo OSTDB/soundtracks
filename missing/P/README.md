@@ -2297,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petz Vet | 209989 | [209989-petz-vet.json](./209989-petz-vet.json) |
 | Petz: Catz 5 | 23770 | [23770-petz-catz-5.json](./23770-petz-catz-5.json) |
 | Petz: Hamster Superstarz | 47972 | [47972-petz-hamster-superstarz.json](./47972-petz-hamster-superstarz.json) |
+| Petz: Hamsterz Life 2 | 49474 | [49474-petz-hamsterz-life-2.json](./49474-petz-hamsterz-life-2.json) |
 | Peur Sur Amityville | 174635 | [174635-peur-sur-amityville.json](./174635-peur-sur-amityville.json) |
 | Pew Pew Gaem 3 | 326260 | [326260-pew-pew-gaem-3.json](./326260-pew-pew-gaem-3.json) |
 | Pew Pew Squad | 273440 | [273440-pew-pew-squad.json](./273440-pew-pew-squad.json) |
@@ -4530,6 +4531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Ludo | 401098 | [401098-pocket-ludo.json](./401098-pocket-ludo.json) |
 | Pocket Luna | 193878 | [193878-pocket-luna.json](./193878-pocket-luna.json) |
 | Pocket Mario | 318031 | [318031-pocket-mario.json](./318031-pocket-mario.json) |
+| Pocket Meat | 49504 | [49504-pocket-meat.json](./49504-pocket-meat.json) |
 | Pocket Mine | 38909 | [38909-pocket-mine.json](./38909-pocket-mine.json) |
 | Pocket Mine 2 | 39218 | [39218-pocket-mine-2.json](./39218-pocket-mine-2.json) |
 | Pocket Mine 3 | 68340 | [68340-pocket-mine-3.json](./68340-pocket-mine-3.json) |
@@ -5693,6 +5695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postman Pat | 72122 | [72122-postman-pat.json](./72122-postman-pat.json) |
 | Postman Pat 2 | 68691 | [68691-postman-pat-2.json](./68691-postman-pat-2.json) |
 | Postman Pat 3: To the Rescue | 64095 | [64095-postman-pat-3-to-the-rescue.json](./64095-postman-pat-3-to-the-rescue.json) |
+| Postman Pat and the Greendale Rocket | 49477 | [49477-postman-pat-and-the-greendale-rocket.json](./49477-postman-pat-and-the-greendale-rocket.json) |
 | Postmortem Hero | 184111 | [184111-postmortem-hero.json](./184111-postmortem-hero.json) |
 | Postmortem: One Must Die (Extended Cut) | 30257 | [30257-postmortem-one-must-die-extended-cut.json](./30257-postmortem-one-must-die-extended-cut.json) |
 | PostZ: Zombies VR | 172148 | [172148-postz-zombies-vr.json](./172148-postz-zombies-vr.json) |
@@ -5774,6 +5777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powargrid | 33257 | [33257-powargrid.json](./33257-powargrid.json) |
 | PowBall Deluxe | 412564 | [412564-powball-deluxe.json](./412564-powball-deluxe.json) |
 | PowBall Renaissance | 54508 | [54508-powball-renaissance.json](./54508-powball-renaissance.json) |
+| Powder | 49505 | [49505-powder.json](./49505-powder.json) |
 | Powder VR | 116864 | [116864-powder-vr.json](./116864-powder-vr.json) |
 | Powdergray | 322965 | [322965-powdergray.json](./322965-powdergray.json) |
 | Power | 130818 | [130818-power.json](./130818-power.json) |
@@ -7582,6 +7586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Dentist | 106357 | [106357-puppy-dentist.json](./106357-puppy-dentist.json) |
 | Puppy Drome | 260669 | [260669-puppy-drome.json](./260669-puppy-drome.json) |
 | Puppy Link: Tile Connect | 379023 | [379023-puppy-link-tile-connect.json](./379023-puppy-link-tile-connect.json) |
+| Puppy Luv: Spa and Resort | 49473 | [49473-puppy-luv-spa-and-resort.json](./49473-puppy-luv-spa-and-resort.json) |
 | Puppy Palace | 122204 | [122204-puppy-palace.json](./122204-puppy-palace.json) |
 | Puppy Pipy | 151149 | [151149-puppy-pipy.json](./151149-puppy-pipy.json) |
 | Puppy Truck | 411658 | [411658-puppy-truck.json](./411658-puppy-truck.json) |
