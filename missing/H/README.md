@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halls of the Shambler God | 271313 | [271313-halls-of-the-shambler-god.json](./271313-halls-of-the-shambler-god.json) |
 | Halls of the Things | 45349 | [45349-halls-of-the-things.json](./45349-halls-of-the-things.json) |
 | Halls of Things | 23047 | [23047-halls-of-things.json](./23047-halls-of-things.json) |
+| Halls of Torment | 235846 | [235846-halls-of-torment.json](./235846-halls-of-torment.json) |
 | Hallucinations | 358287 | [358287-hallucinations.json](./358287-hallucinations.json) |
 | Hallway Gunners | 363057 | [363057-hallway-gunners.json](./363057-hallway-gunners.json) |
 | Hallway of Horrors | 319804 | [319804-hallway-of-horrors.json](./319804-hallway-of-horrors.json) |
@@ -2669,6 +2670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic III: The Shadow of Death | 366 | [366-heroes-of-might-and-magic-iii-the-shadow-of-death.json](./366-heroes-of-might-and-magic-iii-the-shadow-of-death.json) |
 | Heroes of Might and Magic IV: Winds of War | 369 | [369-heroes-of-might-and-magic-iv-winds-of-war.json](./369-heroes-of-might-and-magic-iv-winds-of-war.json) |
 | Heroes of Might and Magic V: Bundle | 154441 | [154441-heroes-of-might-and-magic-v-bundle.json](./154441-heroes-of-might-and-magic-v-bundle.json) |
+| Heroes of Might and Magic V: Tribes of the East | 372 | [372-heroes-of-might-and-magic-v-tribes-of-the-east.json](./372-heroes-of-might-and-magic-v-tribes-of-the-east.json) |
 | Heroes of Nature 4 in 1 | 332023 | [332023-heroes-of-nature-4-in-1.json](./332023-heroes-of-nature-4-in-1.json) |
 | Heroes of Newerth | 763 | [763-heroes-of-newerth.json](./763-heroes-of-newerth.json) |
 | Heroes of Normandie: Bulletproof Edition | 53190 | [53190-heroes-of-normandie-bulletproof-edition.json](./53190-heroes-of-normandie-bulletproof-edition.json) |
@@ -4441,6 +4443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Beyond | 121592 | [121592-horizon-beyond.json](./121592-horizon-beyond.json) |
 | Horizon Chase Turbo | 96476 | [96476-horizon-chase-turbo.json](./96476-horizon-chase-turbo.json) |
 | Horizon Chase Turbo: Senna Forever | 176882 | [176882-horizon-chase-turbo-senna-forever.json](./176882-horizon-chase-turbo-senna-forever.json) |
+| Horizon Forbidden West: Burning Shores | 228533 | [228533-horizon-forbidden-west-burning-shores.json](./228533-horizon-forbidden-west-burning-shores.json) |
 | Horizon Forbidden West: Complete Edition | 268842 | [268842-horizon-forbidden-west-complete-edition.json](./268842-horizon-forbidden-west-complete-edition.json) |
 | Horizon Odyssey | 158558 | [158558-horizon-odyssey.json](./158558-horizon-odyssey.json) |
 | Horizon of History | 30763 | [30763-horizon-of-history.json](./30763-horizon-of-history.json) |
@@ -5732,6 +5735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnosis of Corruption | 331124 | [331124-hypnosis-of-corruption.json](./331124-hypnosis-of-corruption.json) |
 | Hypnosis: Quiet Nights | 352744 | [352744-hypnosis-quiet-nights.json](./352744-hypnosis-quiet-nights.json) |
 | Hypnospace Enforcer | 216271 | [216271-hypnospace-enforcer.json](./216271-hypnospace-enforcer.json) |
+| Hypnospace Outlaw | 99071 | [99071-hypnospace-outlaw.json](./99071-hypnospace-outlaw.json) |
 | Hypnospace Outlaw & Slayers X: Terminal Aftermath: Vengance of the Slayer Bundle | 251655 | [251655-hypnospace-outlaw-and-slayers-x-terminal-aftermath-vengance-of-the-slayer-bundle.json](./251655-hypnospace-outlaw-and-slayers-x-terminal-aftermath-vengance-of-the-slayer-bundle.json) |
 | Hypnotica Quest | 302509 | [302509-hypnotica-quest.json](./302509-hypnotica-quest.json) |
 | Hypogea | 303550 | [303550-hypogea.json](./303550-hypogea.json) |
