@@ -668,6 +668,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Era | 311596 | [311596-dark-era.json](./311596-dark-era.json) |
 | Dark Escape | 222868 | [222868-dark-escape.json](./222868-dark-escape.json) |
 | Dark Escape 4D | 62800 | [62800-dark-escape-4d.json](./62800-dark-escape-4d.json) |
+| Dark Eternal | 9654 | [9654-dark-eternal.json](./9654-dark-eternal.json) |
+| Dark Eternal: Dissolution | 9581 | [9581-dark-eternal-dissolution.json](./9581-dark-eternal-dissolution.json) |
 | Dark Eyed Angels | 260222 | [260222-dark-eyed-angels.json](./260222-dark-eyed-angels.json) |
 | Dark Eyes | 145629 | [145629-dark-eyes.json](./145629-dark-eyes.json) |
 | Dark Eyes: Millennium 2000 | 145632 | [145632-dark-eyes-millennium-2000.json](./145632-dark-eyes-millennium-2000.json) |
@@ -2581,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Chase | 183339 | [183339-delta-chase.json](./183339-delta-chase.json) |
 | Delta Dash | 213621 | [213621-delta-dash.json](./213621-delta-dash.json) |
 | Delta Directive | 412266 | [412266-delta-directive.json](./412266-delta-directive.json) |
+| Delta Force: Angel Falls | 9353 | [9353-delta-force-angel-falls.json](./9353-delta-force-angel-falls.json) |
 | Delta Force: Black Hawk Down | 332541 | [332541-delta-force-black-hawk-down.json](./332541-delta-force-black-hawk-down.json) |
 | Delta Force: Black Hawk Down Platinum Pack | 224486 | [224486-delta-force-black-hawk-down-platinum-pack.json](./224486-delta-force-black-hawk-down-platinum-pack.json) |
 | Delta Force: Land Warrior | 9350 | [9350-delta-force-land-warrior.json](./9350-delta-force-land-warrior.json) |
