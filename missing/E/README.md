@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El lacasito de Gandalf | 320990 | [320990-el-lacasito-de-gandalf.json](./320990-el-lacasito-de-gandalf.json) |
 | El Ladrón del Tiempo | 321134 | [321134-el-ladron-del-tiempo.json](./321134-el-ladron-del-tiempo.json) |
 | El Llamero Solitario | 404453 | [404453-el-llamero-solitario.json](./404453-el-llamero-solitario.json) |
+| El Matador | 9828 | [9828-el-matador.json](./9828-el-matador.json) |
 | El Ministerio del Tiempo VR: El tiempo en tus manos | 72345 | [72345-el-ministerio-del-tiempo-vr-el-tiempo-en-tus-manos.json](./72345-el-ministerio-del-tiempo-vr-el-tiempo-en-tus-manos.json) |
 | El Ministerio del Tiempo VR: Salva el tiempo | 74294 | [74294-el-ministerio-del-tiempo-vr-salva-el-tiempo.json](./74294-el-ministerio-del-tiempo-vr-salva-el-tiempo.json) |
 | El Misterio del Nilo | 104590 | [104590-el-misterio-del-nilo.json](./104590-el-misterio-del-nilo.json) |
