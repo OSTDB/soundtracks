@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yomawari: Lost in the Dark | 203885 | [203885-yomawari-lost-in-the-dark.json](./203885-yomawari-lost-in-the-dark.json) |
 | Yomawari: Midnight Shadows - Limited Edition | 167050 | [167050-yomawari-midnight-shadows-limited-edition.json](./167050-yomawari-midnight-shadows-limited-edition.json) |
 | Yomawari: Night Alone | 11589 | [11589-yomawari-night-alone.json](./11589-yomawari-night-alone.json) |
+| Yomawari: Night Alone - Digital Pitch Dark Edition | 52105 | [52105-yomawari-night-alone-digital-pitch-dark-edition.json](./52105-yomawari-night-alone-digital-pitch-dark-edition.json) |
 | Yomawari: Night Alone / htol#NiQ: The Firefly Diary - Limited Edition | 297245 | [297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json](./297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json) |
 | Yomawari: The Long Night Collection | 103052 | [103052-yomawari-the-long-night-collection.json](./103052-yomawari-the-long-night-collection.json) |
 | Yomesou de Yomenai Kanji DS | 287632 | [287632-yomesou-de-yomenai-kanji-ds.json](./287632-yomesou-de-yomenai-kanji-ds.json) |
@@ -387,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yooca: Your Life | 390516 | [390516-yooca-your-life.json](./390516-yooca-your-life.json) |
 | Yooka-Laylee and the Impossible Lair: Digital Deluxe Edition | 154557 | [154557-yooka-laylee-and-the-impossible-lair-digital-deluxe-edition.json](./154557-yooka-laylee-and-the-impossible-lair-digital-deluxe-edition.json) |
 | Yooka-Laylee: Buddy Duo Pack | 154556 | [154556-yooka-laylee-buddy-duo-pack.json](./154556-yooka-laylee-buddy-duo-pack.json) |
+| Yooka-Laylee: Deluxe Edition | 52104 | [52104-yooka-laylee-deluxe-edition.json](./52104-yooka-laylee-deluxe-edition.json) |
 | Yooka-Replaylee | 304740 | [304740-yooka-replaylee.json](./304740-yooka-replaylee.json) |
 | Yooperlite | 338214 | [338214-yooperlite.json](./338214-yooperlite.json) |
 | Yoostar | 62439 | [62439-yoostar.json](./62439-yoostar.json) |
@@ -554,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You've Got To Be Kidding! | 299840 | [299840-youve-got-to-be-kidding.json](./299840-youve-got-to-be-kidding.json) |
 | Youda Fairy | 52784 | [52784-youda-fairy.json](./52784-youda-fairy.json) |
 | Youda Legend Amsterdam | 52783 | [52783-youda-legend-amsterdam.json](./52783-youda-legend-amsterdam.json) |
+| Youda Legend: The Curse of the Amsterdam Diamond | 52103 | [52103-youda-legend-the-curse-of-the-amsterdam-diamond.json](./52103-youda-legend-the-curse-of-the-amsterdam-diamond.json) |
 | Youda Legend: The Golden Bird of Paradise | 108627 | [108627-youda-legend-the-golden-bird-of-paradise.json](./108627-youda-legend-the-golden-bird-of-paradise.json) |
 | Yougekitai: Jashin Koumaroku | 240216 | [240216-yougekitai-jashin-koumaroku.json](./240216-yougekitai-jashin-koumaroku.json) |
 | Yougen | 216807 | [216807-yougen.json](./216807-yougen.json) |
