@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Napobination | 320946 | [320946-napobination.json](./320946-napobination.json) |
 | Napoleon | 125336 | [125336-napoleon.json](./125336-napoleon.json) |
 | Napoleon 1813 | 62209 | [62209-napoleon-1813.json](./62209-napoleon-1813.json) |
+| Napoleon at Waterloo | 25092 | [25092-napoleon-at-waterloo.json](./25092-napoleon-at-waterloo.json) |
 | Napoleon Dynamite: The Game | 2824 | [2824-napoleon-dynamite-the-game.json](./2824-napoleon-dynamite-the-game.json) |
 | Napoleon Solitaire | 132169 | [132169-napoleon-solitaire.json](./132169-napoleon-solitaire.json) |
 | Napoleon: Total War - Coalition Battle Pack | 82108 | [82108-napoleon-total-war-coalition-battle-pack.json](./82108-napoleon-total-war-coalition-battle-pack.json) |
