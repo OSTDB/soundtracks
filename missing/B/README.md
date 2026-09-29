@@ -1976,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battles For Spain | 120869 | [120869-battles-for-spain.json](./120869-battles-for-spain.json) |
 | Battles Game | 370135 | [370135-battles-game.json](./370135-battles-game.json) |
 | Battles in Italy | 59495 | [59495-battles-in-italy.json](./59495-battles-in-italy.json) |
+| Battles in Normandy | 53926 | [53926-battles-in-normandy.json](./53926-battles-in-normandy.json) |
 | Battles in Normandy | 611 | [611-battles-in-normandy.json](./611-battles-in-normandy.json) |
 | Battles in Time | 69826 | [69826-battles-in-time.json](./69826-battles-in-time.json) |
 | Battles of Cardista | 356653 | [356653-battles-of-cardista.json](./356653-battles-of-cardista.json) |
