@@ -1515,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Wars 2.5 | 101739 | [101739-castle-wars-2-5.json](./101739-castle-wars-2-5.json) |
 | Castle Watch VR | 182818 | [182818-castle-watch-vr.json](./182818-castle-watch-vr.json) |
 | Castle Werewolf | 29609 | [29609-castle-werewolf.json](./29609-castle-werewolf.json) |
+| Castle Wolfenstein | 2727 | [2727-castle-wolfenstein.json](./2727-castle-wolfenstein.json) |
 | Castle Wonders: A Castle Tale | 156567 | [156567-castle-wonders-a-castle-tale.json](./156567-castle-wonders-a-castle-tale.json) |
 | Castle Woodwarf 2 | 118612 | [118612-castle-woodwarf-2.json](./118612-castle-woodwarf-2.json) |
 | Castle Wreck | 373638 | [373638-castle-wreck.json](./373638-castle-wreck.json) |
@@ -6656,6 +6657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosplay Relaxation | 276323 | [276323-cosplay-relaxation.json](./276323-cosplay-relaxation.json) |
 | Cosplaying in Costalia: The Tororo Sisters! | 411787 | [411787-cosplaying-in-costalia-the-tororo-sisters.json](./411787-cosplaying-in-costalia-the-tororo-sisters.json) |
 | Cossacks 3: The Golden Age | 144963 | [144963-cossacks-3-the-golden-age.json](./144963-cossacks-3-the-golden-age.json) |
+| Cossacks II: Napoleonic Wars | 305 | [305-cossacks-ii-napoleonic-wars.json](./305-cossacks-ii-napoleonic-wars.json) |
 | Cossacks: Campaign Expansion | 144964 | [144964-cossacks-campaign-expansion.json](./144964-cossacks-campaign-expansion.json) |
 | Cossacks: European Wars | 242 | [242-cossacks-european-wars.json](./242-cossacks-european-wars.json) |
 | Cossacks: The Art of War | 9362 | [9362-cossacks-the-art-of-war.json](./9362-cossacks-the-art-of-war.json) |
