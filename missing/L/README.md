@@ -1722,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Ride!: Dreamer | 49396 | [49396-lets-ride-dreamer.json](./49396-lets-ride-dreamer.json) |
 | Let's Ride!: Sunshine Stables | 49395 | [49395-lets-ride-sunshine-stables.json](./49395-lets-ride-sunshine-stables.json) |
 | Let's Roll | 293141 | [293141-lets-roll.json](./293141-lets-roll.json) |
+| Let's School | 231547 | [231547-lets-school.json](./231547-lets-school.json) |
 | Let's School: Magical Castles Furniture Pack | 322719 | [322719-lets-school-magical-castles-furniture-pack.json](./322719-lets-school-magical-castles-furniture-pack.json) |
 | Let's Seduce the Heroine! | 220606 | [220606-lets-seduce-the-heroine.json](./220606-lets-seduce-the-heroine.json) |
 | Let's See What You Got | 124768 | [124768-lets-see-what-you-got.json](./124768-lets-see-what-you-got.json) |
@@ -3359,6 +3360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looking for Something | 316653 | [316653-looking-for-something.json](./316653-looking-for-something.json) |
 | Looking Glass | 186605 | [186605-looking-glass.json](./186605-looking-glass.json) |
 | Looking Up | 391322 | [391322-looking-up.json](./391322-looking-up.json) |
+| Looking Up I See Only a Ceiling | 224733 | [224733-looking-up-i-see-only-a-ceiling.json](./224733-looking-up-i-see-only-a-ceiling.json) |
 | Lookouts | 177910 | [177910-lookouts.json](./177910-lookouts.json) |
 | Loom | 267418 | [267418-loom.json](./267418-loom.json) |
 | Loom Path | 332831 | [332831-loom-path.json](./332831-loom-path.json) |
@@ -4440,6 +4442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Descent | 333360 | [333360-lunar-descent.json](./333360-lunar-descent.json) |
 | Lunar Escape | 178642 | [178642-lunar-escape.json](./178642-lunar-escape.json) |
 | Lunar Jetman | 7852 | [7852-lunar-jetman.json](./7852-lunar-jetman.json) |
+| Lunar Knights | 9887 | [9887-lunar-knights.json](./9887-lunar-knights.json) |
 | Lunar Laceration | 315716 | [315716-lunar-laceration.json](./315716-lunar-laceration.json) |
 | Lunar Lancer | 337090 | [337090-lunar-lancer.json](./337090-lunar-lancer.json) |
 | Lunar Lander | 187373 | [187373-lunar-lander.json](./187373-lunar-lander.json) |
