@@ -2698,6 +2698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Rome 3: The Brotherhood | 236221 | [236221-heroes-of-rome-3-the-brotherhood.json](./236221-heroes-of-rome-3-the-brotherhood.json) |
 | Heroes of Rome: Dangerous Roads | 195722 | [195722-heroes-of-rome-dangerous-roads.json](./195722-heroes-of-rome-dangerous-roads.json) |
 | Heroes of Row | 265607 | [265607-heroes-of-row.json](./265607-heroes-of-row.json) |
+| Heroes of Ruin | 6806 | [6806-heroes-of-ruin.json](./6806-heroes-of-ruin.json) |
 | Heroes of Scene | 35623 | [35623-heroes-of-scene.json](./35623-heroes-of-scene.json) |
 | Heroes of Science and Fiction | 219606 | [219606-heroes-of-science-and-fiction.json](./219606-heroes-of-science-and-fiction.json) |
 | Heroes of Solitairea | 294862 | [294862-heroes-of-solitairea.json](./294862-heroes-of-solitairea.json) |
@@ -3799,6 +3800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ho-Ho-Home Invasion | 141655 | [141655-ho-ho-home-invasion.json](./141655-ho-ho-home-invasion.json) |
 | Ho-Ho-Maze! | 340476 | [340476-ho-ho-maze.json](./340476-ho-ho-maze.json) |
 | Ho'omana'o Mau: A Somber Daydream | 400216 | [400216-hoomanao-mau-a-somber-daydream.json](./400216-hoomanao-mau-a-somber-daydream.json) |
+| Hoard | 7402 | [7402-hoard.json](./7402-hoard.json) |
 | Hoard: Dynamite Roll! | 171075 | [171075-hoard-dynamite-roll.json](./171075-hoard-dynamite-roll.json) |
 | Hoard: Flame-Broiled Sandwich | 171076 | [171076-hoard-flame-broiled-sandwich.json](./171076-hoard-flame-broiled-sandwich.json) |
 | Hoards of Glory | 156688 | [156688-hoards-of-glory.json](./156688-hoards-of-glory.json) |
@@ -4867,6 +4869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hound: Automaton | 320145 | [320145-hound-automaton.json](./320145-hound-automaton.json) |
 | Hour Night | 178083 | [178083-hour-night.json](./178083-hour-night.json) |
 | Hour of the Snake | 117042 | [117042-hour-of-the-snake.json](./117042-hour-of-the-snake.json) |
+| Hour of Victory | 7011 | [7011-hour-of-victory.json](./7011-hour-of-victory.json) |
 | Hourglass | 122270 | [122270-hourglass.json](./122270-hourglass.json) |
 | Hourglass of Summer | 73005 | [73005-hourglass-of-summer.json](./73005-hourglass-of-summer.json) |
 | House | 140372 | [140372-house.json](./140372-house.json) |
@@ -5074,6 +5077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Survive: Storm Warning Edition | 20311 | [20311-how-to-survive-storm-warning-edition.json](./20311-how-to-survive-storm-warning-edition.json) |
 | How to Tame a Succubus | 252681 | [252681-how-to-tame-a-succubus.json](./252681-how-to-tame-a-succubus.json) |
 | How to Train Your Dragon | 228092 | [228092-how-to-train-your-dragon.json](./228092-how-to-train-your-dragon.json) |
+| How to Train Your Dragon | 7012 | [7012-how-to-train-your-dragon.json](./7012-how-to-train-your-dragon.json) |
 | How to Train Your Human | 180692 | [180692-how-to-train-your-human.json](./180692-how-to-train-your-human.json) |
 | How to Volley Ball | 170933 | [170933-how-to-volley-ball.json](./170933-how-to-volley-ball.json) |
 | How to Win | 136400 | [136400-how-to-win.json](./136400-how-to-win.json) |
