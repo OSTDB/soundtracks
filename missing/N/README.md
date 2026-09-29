@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Challenge | 49957 | [49957-nascar-challenge.json](./49957-nascar-challenge.json) |
 | NASCAR Heat | 49956 | [49956-nascar-heat.json](./49956-nascar-heat.json) |
 | NASCAR Heat 2002 | 248619 | [248619-nascar-heat-2002.json](./248619-nascar-heat-2002.json) |
+| NASCAR Heat 5 | 134370 | [134370-nascar-heat-5.json](./134370-nascar-heat-5.json) |
 | NASCAR Heat 5: Ultimate Edition | 164815 | [164815-nascar-heat-5-ultimate-edition.json](./164815-nascar-heat-5-ultimate-edition.json) |
 | NASCAR Heat Bundle | 273941 | [273941-nascar-heat-bundle.json](./273941-nascar-heat-bundle.json) |
 | NASCAR Heat Evolution: Toyota Challenge Pack 1 | 157553 | [157553-nascar-heat-evolution-toyota-challenge-pack-1.json](./157553-nascar-heat-evolution-toyota-challenge-pack-1.json) |
@@ -1790,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 2K3 | 4045 | [4045-nhl-2k3.json](./4045-nhl-2k3.json) |
 | NHL 5-On-5 2006 | 57932 | [57932-nhl-5-on-5-2006.json](./57932-nhl-5-on-5-2006.json) |
 | NHL 95 | 299309 | [299309-nhl-95.json](./299309-nhl-95.json) |
+| NHL 95 | 4509 | [4509-nhl-95.json](./4509-nhl-95.json) |
 | NHL 96 | 11650 | [11650-nhl-96.json](./11650-nhl-96.json) |
 | NHL 96 | 299310 | [299310-nhl-96.json](./299310-nhl-96.json) |
 | NHL 96 | 299311 | [299311-nhl-96.json](./299311-nhl-96.json) |
