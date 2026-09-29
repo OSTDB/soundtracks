@@ -1423,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Labyrinth | 4496 | [4496-fatal-labyrinth.json](./4496-fatal-labyrinth.json) |
 | Fatal Seduction | 63871 | [63871-fatal-seduction.json](./63871-fatal-seduction.json) |
 | Fatal Slash | 390785 | [390785-fatal-slash.json](./390785-fatal-slash.json) |
+| Fatal Theory | 34681 | [34681-fatal-theory.json](./34681-fatal-theory.json) |
 | Fatal Twelve | 28801 | [28801-fatal-twelve.json](./28801-fatal-twelve.json) |
 | Fatal Velocity: Physics Combat | 74439 | [74439-fatal-velocity-physics-combat.json](./74439-fatal-velocity-physics-combat.json) |
 | Fatal: Unleashed Darkness | 348261 | [348261-fatal-unleashed-darkness.json](./348261-fatal-unleashed-darkness.json) |
