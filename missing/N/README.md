@@ -1628,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Day: Survival | 51495 | [51495-next-day-survival.json](./51495-next-day-survival.json) |
 | Next Door: An Eternal World | 188411 | [188411-next-door-an-eternal-world.json](./188411-next-door-an-eternal-world.json) |
 | Next Earth: The Journey Trilogy | 149568 | [149568-next-earth-the-journey-trilogy.json](./149568-next-earth-the-journey-trilogy.json) |
+| Next Generation Tennis 2003 | 43443 | [43443-next-generation-tennis-2003.json](./43443-next-generation-tennis-2003.json) |
 | Next Island | 92473 | [92473-next-island.json](./92473-next-island.json) |
 | Next Life | 51367 | [51367-next-life.json](./51367-next-life.json) |
 | Next Move | 262295 | [262295-next-move.json](./262295-next-move.json) |
