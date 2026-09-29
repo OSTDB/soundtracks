@@ -560,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umineko no Naku Koro ni: Tenshi 17-sai Higashi-shi - 44a | 272537 | [272537-umineko-no-naku-koro-ni-tenshi-17-sai-higashi-shi-44a.json](./272537-umineko-no-naku-koro-ni-tenshi-17-sai-higashi-shi-44a.json) |
 | Umineko no Naku Koro ni: Valentine Paper | 272539 | [272539-umineko-no-naku-koro-ni-valentine-paper.json](./272539-umineko-no-naku-koro-ni-valentine-paper.json) |
 | Umineko no Naku Koro ni: Warera no Kokuhaku | 272534 | [272534-umineko-no-naku-koro-ni-warera-no-kokuhaku.json](./272534-umineko-no-naku-koro-ni-warera-no-kokuhaku.json) |
+| Umineko When They Cry: Answer Arcs | 75081 | [75081-umineko-when-they-cry-answer-arcs.json](./75081-umineko-when-they-cry-answer-arcs.json) |
 | Umineko When They Cry: Episode 1 - Legend of the Golden Witch | 272309 | [272309-umineko-when-they-cry-episode-1-legend-of-the-golden-witch.json](./272309-umineko-when-they-cry-episode-1-legend-of-the-golden-witch.json) |
 | Umineko When They Cry: Episode 2 - Turn of the Golden Witch | 272310 | [272310-umineko-when-they-cry-episode-2-turn-of-the-golden-witch.json](./272310-umineko-when-they-cry-episode-2-turn-of-the-golden-witch.json) |
 | Umineko When They Cry: Episode 3 - Banquet of the Golden Witch | 272311 | [272311-umineko-when-they-cry-episode-3-banquet-of-the-golden-witch.json](./272311-umineko-when-they-cry-episode-3-banquet-of-the-golden-witch.json) |
@@ -966,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unforgiven: Carry The Pain | 242498 | [242498-unforgiven-carry-the-pain.json](./242498-unforgiven-carry-the-pain.json) |
 | Unforgiven: Shattered Souls | 139357 | [139357-unforgiven-shattered-souls.json](./139357-unforgiven-shattered-souls.json) |
 | Unforgiven: Shattered Souls Portable | 139358 | [139358-unforgiven-shattered-souls-portable.json](./139358-unforgiven-shattered-souls-portable.json) |
+| Unforgiving - A Northern Hymn | 75496 | [75496-unforgiving-a-northern-hymn.json](./75496-unforgiving-a-northern-hymn.json) |
 | Unforgiving Trials: The Space Crusade | 31141 | [31141-unforgiving-trials-the-space-crusade.json](./31141-unforgiving-trials-the-space-crusade.json) |
 | Unforgotten: Ordinance | 276816 | [276816-unforgotten-ordinance.json](./276816-unforgotten-ordinance.json) |
 | Unformed | 129015 | [129015-unformed.json](./129015-unformed.json) |
