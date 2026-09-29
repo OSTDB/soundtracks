@@ -895,6 +895,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Battle Arena Combat | 395212 | [395212-tank-battle-arena-combat.json](./395212-tank-battle-arena-combat.json) |
 | Tank Battle Heroes: Iron Warfare | 120430 | [120430-tank-battle-heroes-iron-warfare.json](./120430-tank-battle-heroes-iron-warfare.json) |
 | Tank Battle: 1944 | 34600 | [34600-tank-battle-1944.json](./34600-tank-battle-1944.json) |
+| Tank Battle: 1945 | 31044 | [31044-tank-battle-1945.json](./31044-tank-battle-1945.json) |
+| Tank Battle: Blitzkrieg | 31041 | [31041-tank-battle-blitzkrieg.json](./31041-tank-battle-blitzkrieg.json) |
 | Tank Battle: East Front 1941 | 197886 | [197886-tank-battle-east-front-1941.json](./197886-tank-battle-east-front-1941.json) |
 | Tank Battle: East Front 1943 | 175335 | [175335-tank-battle-east-front-1943.json](./175335-tank-battle-east-front-1943.json) |
 | Tank Battle: Normandy | 46849 | [46849-tank-battle-normandy.json](./46849-tank-battle-normandy.json) |
@@ -3513,6 +3515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crystals of Atlantis | 96282 | [96282-the-crystals-of-atlantis.json](./96282-the-crystals-of-atlantis.json) |
 | The Cube | 61686 | [61686-the-cube.json](./61686-the-cube.json) |
 | The Cube Factory | 147365 | [147365-the-cube-factory.json](./147365-the-cube-factory.json) |
+| The Cube Hotel: Ning's Wing 2 | 31059 | [31059-the-cube-hotel-nings-wing-2.json](./31059-the-cube-hotel-nings-wing-2.json) |
 | The Cubedex of Boxes and Lines | 158659 | [158659-the-cubedex-of-boxes-and-lines.json](./158659-the-cubedex-of-boxes-and-lines.json) |
 | The Cubicle. | 33273 | [33273-the-cubicle.json](./33273-the-cubicle.json) |
 | The Cubiw Dungeon | 393818 | [393818-the-cubiw-dungeon.json](./393818-the-cubiw-dungeon.json) |
@@ -8626,6 +8629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wreck That Should Not Be | 403016 | [403016-the-wreck-that-should-not-be.json](./403016-the-wreck-that-should-not-be.json) |
 | The Wrestling Code | 159104 | [159104-the-wrestling-code.json](./159104-the-wrestling-code.json) |
 | The Wrestling Game | 368474 | [368474-the-wrestling-game.json](./368474-the-wrestling-game.json) |
+| The Writer: A Change of Identity | 31087 | [31087-the-writer-a-change-of-identity.json](./31087-the-writer-a-change-of-identity.json) |
 | The Wrong Floor | 391069 | [391069-the-wrong-floor.json](./391069-the-wrong-floor.json) |
 | The Wylde | 23875 | [23875-the-wylde.json](./23875-the-wylde.json) |
 | The X Factor Sing | 84261 | [84261-the-x-factor-sing.json](./84261-the-x-factor-sing.json) |
@@ -10375,6 +10379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Keeper | 198459 | [198459-time-keeper.json](./198459-time-keeper.json) |
 | Time Killers | 8939 | [8939-time-killers.json](./8939-time-killers.json) |
 | Time Kings: Modern War in Medieval Age | 401093 | [401093-time-kings-modern-war-in-medieval-age.json](./401093-time-kings-modern-war-in-medieval-age.json) |
+| Time Leap Paradise Super Live! | 31077 | [31077-time-leap-paradise-super-live.json](./31077-time-leap-paradise-super-live.json) |
 | Time Limit Harvest | 248045 | [248045-time-limit-harvest.json](./248045-time-limit-harvest.json) |
 | Time Loader: First Memories | 166211 | [166211-time-loader-first-memories.json](./166211-time-loader-first-memories.json) |
 | Time Lock VR 1 | 393132 | [393132-time-lock-vr-1.json](./393132-time-lock-vr-1.json) |
@@ -11628,6 +11633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torbaci Oyunu | 274769 | [274769-torbaci-oyunu.json](./274769-torbaci-oyunu.json) |
 | Torch | 232977 | [232977-torch.json](./232977-torch.json) |
 | Torch 2081 | 86047 | [86047-torch-2081.json](./86047-torch-2081.json) |
+| Torch Cave 2 | 31086 | [31086-torch-cave-2.json](./31086-torch-cave-2.json) |
 | Torch Cave 3 | 43542 | [43542-torch-cave-3.json](./43542-torch-cave-3.json) |
 | Torch Keeper | 399177 | [399177-torch-keeper.json](./399177-torch-keeper.json) |
 | Torch of Shadows | 374074 | [374074-torch-of-shadows.json](./374074-torch-of-shadows.json) |
