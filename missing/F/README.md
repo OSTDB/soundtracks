@@ -267,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faery: Swapped | 298022 | [298022-faery-swapped.json](./298022-faery-swapped.json) |
 | Fahrenheit | 298554 | [298554-fahrenheit.json](./298554-fahrenheit.json) |
 | Fahrenheit | 298555 | [298555-fahrenheit.json](./298555-fahrenheit.json) |
+| Fahrenheit: Indigo Prophecy Remastered | 25009 | [25009-fahrenheit-indigo-prophecy-remastered.json](./25009-fahrenheit-indigo-prophecy-remastered.json) |
 | Fahrenheit: Special Edition | 43281 | [43281-fahrenheit-special-edition.json](./43281-fahrenheit-special-edition.json) |
 | Faif | 128576 | [128576-faif.json](./128576-faif.json) |
 | Fail Factory! | 196314 | [196314-fail-factory.json](./196314-fail-factory.json) |
@@ -653,7 +654,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: The Pitt - Deluxe Edition | 218503 | [218503-fallout-76-the-pitt-deluxe-edition.json](./218503-fallout-76-the-pitt-deluxe-edition.json) |
 | Fallout 76: Wild Appalachia | 115713 | [115713-fallout-76-wild-appalachia.json](./115713-fallout-76-wild-appalachia.json) |
 | Fallout: Dust | 243647 | [243647-fallout-dust.json](./243647-fallout-dust.json) |
+| Fallout: New Vegas - Dead Money | 10304 | [10304-fallout-new-vegas-dead-money.json](./10304-fallout-new-vegas-dead-money.json) |
 | Fallout: New Vegas - Lonesome Road | 10307 | [10307-fallout-new-vegas-lonesome-road.json](./10307-fallout-new-vegas-lonesome-road.json) |
+| Fallout: New Vegas - Old World Blues | 10306 | [10306-fallout-new-vegas-old-world-blues.json](./10306-fallout-new-vegas-old-world-blues.json) |
 | Fallout: New Vegas - Ultimate Edition | 25532 | [25532-fallout-new-vegas-ultimate-edition.json](./25532-fallout-new-vegas-ultimate-edition.json) |
 | Fallout: New Vegas Remaster | 410463 | [410463-fallout-new-vegas-remaster.json](./410463-fallout-new-vegas-remaster.json) |
 | Fallout: Sonora Dayglow | 333655 | [333655-fallout-sonora-dayglow.json](./333655-fallout-sonora-dayglow.json) |
@@ -4232,6 +4235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For the Glory of Wilson | 401680 | [401680-for-the-glory-of-wilson.json](./401680-for-the-glory-of-wilson.json) |
 | For the Hive | 190704 | [190704-for-the-hive.json](./190704-for-the-hive.json) |
 | For the Honor | 134646 | [134646-for-the-honor.json](./134646-for-the-honor.json) |
+| For the King | 20331 | [20331-for-the-king.json](./20331-for-the-king.json) |
 | For the Night | 123486 | [123486-for-the-night.json](./123486-for-the-night.json) |
 | For the People | 135844 | [135844-for-the-people.json](./135844-for-the-people.json) |
 | For the Revenge | 107921 | [107921-for-the-revenge.json](./107921-for-the-revenge.json) |
@@ -4750,6 +4754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport 4: Essentials Edition | 47395 | [47395-forza-motorsport-4-essentials-edition.json](./47395-forza-motorsport-4-essentials-edition.json) |
 | Forza Motorsport 4: Limited Collector's Edition | 41600 | [41600-forza-motorsport-4-limited-collectors-edition.json](./41600-forza-motorsport-4-limited-collectors-edition.json) |
 | Forza Motorsport 6 | 8558 | [8558-forza-motorsport-6.json](./8558-forza-motorsport-6.json) |
+| Forza Motorsport 7 | 36872 | [36872-forza-motorsport-7.json](./36872-forza-motorsport-7.json) |
 | Forza Motorsport 7: Deluxe Edition | 84940 | [84940-forza-motorsport-7-deluxe-edition.json](./84940-forza-motorsport-7-deluxe-edition.json) |
 | Forza Motorsport 7: Ultimate Edition | 84941 | [84941-forza-motorsport-7-ultimate-edition.json](./84941-forza-motorsport-7-ultimate-edition.json) |
 | Forza Motorsport: 1983 Porsche #11 John Fitzpatrick Racing 956 | 286134 | [286134-forza-motorsport-1983-porsche-11-john-fitzpatrick-racing-956.json](./286134-forza-motorsport-1983-porsche-11-john-fitzpatrick-racing-956.json) |
@@ -5453,6 +5458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger | 288260 | [288260-frogger.json](./288260-frogger.json) |
 | Frogger | 288264 | [288264-frogger.json](./288264-frogger.json) |
 | Frogger | 341890 | [341890-frogger.json](./341890-frogger.json) |
+| Frogger | 6795 | [6795-frogger.json](./6795-frogger.json) |
 | Frogger 64 | 40917 | [40917-frogger-64.json](./40917-frogger-64.json) |
 | Frogger Evolution | 218547 | [218547-frogger-evolution.json](./218547-frogger-evolution.json) |
 | Frogger HD | 99998 | [99998-frogger-hd.json](./99998-frogger-hd.json) |
