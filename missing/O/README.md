@@ -1220,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Tobidase Kaizoku-dan! | 75740 | [75740-one-piece-tobidase-kaizoku-dan.json](./75740-one-piece-tobidase-kaizoku-dan.json) |
 | One Piece: Treasure Battle! | 75746 | [75746-one-piece-treasure-battle.json](./75746-one-piece-treasure-battle.json) |
 | One Piece: Treasure Wars 2 - Buggyland he Youkoso | 75748 | [75748-one-piece-treasure-wars-2-buggyland-he-youkoso.json](./75748-one-piece-treasure-wars-2-buggyland-he-youkoso.json) |
+| One Piece: Unlimited Cruise 1 - The Treasure Beneath the Waves | 21123 | [21123-one-piece-unlimited-cruise-1-the-treasure-beneath-the-waves.json](./21123-one-piece-unlimited-cruise-1-the-treasure-beneath-the-waves.json) |
 | One Piece: Unlimited Cruise SP2 | 79261 | [79261-one-piece-unlimited-cruise-sp2.json](./79261-one-piece-unlimited-cruise-sp2.json) |
 | One Piece: Unlimited World Red - Prestige Edition | 99804 | [99804-one-piece-unlimited-world-red-prestige-edition.json](./99804-one-piece-unlimited-world-red-prestige-edition.json) |
 | One Piece: World Seeker Episode Pass | 152911 | [152911-one-piece-world-seeker-episode-pass.json](./152911-one-piece-world-seeker-episode-pass.json) |
@@ -2723,6 +2724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oz World | 186747 | [186747-oz-world.json](./186747-oz-world.json) |
 | Ozark | 151045 | [151045-ozark.json](./151045-ozark.json) |
 | Ozeki Thrust | 92632 | [92632-ozeki-thrust.json](./92632-ozeki-thrust.json) |
+| Ozmafia!! | 21061 | [21061-ozmafia.json](./21061-ozmafia.json) |
 | Ozmafia!! 0 Reflexion | 254574 | [254574-ozmafia-0-reflexion.json](./254574-ozmafia-0-reflexion.json) |
 | Ozon I | 40375 | [40375-ozon-i.json](./40375-ozon-i.json) |
 | Ozone | 208988 | [208988-ozone.json](./208988-ozone.json) |
