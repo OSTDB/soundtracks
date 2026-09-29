@@ -528,6 +528,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakusuro Bank | 98040 | [98040-bakusuro-bank.json](./98040-bakusuro-bank.json) |
 | Bakuten Shoot Beyblade | 80235 | [80235-bakuten-shoot-beyblade.json](./80235-bakuten-shoot-beyblade.json) |
 | Bakuten Shoot Beyblade 2002: Beybattle Tournament 2 | 303784 | [303784-bakuten-shoot-beyblade-2002-beybattle-tournament-2.json](./303784-bakuten-shoot-beyblade-2002-beybattle-tournament-2.json) |
+| Bakuten Shoot Beyblade 2002: Daichi Version | 49490 | [49490-bakuten-shoot-beyblade-2002-daichi-version.json](./49490-bakuten-shoot-beyblade-2002-daichi-version.json) |
+| Bakuten Shoot Beyblade 2002: Ikuze! Bakutou! Chou Jiryoku Battle!! | 49488 | [49488-bakuten-shoot-beyblade-2002-ikuze-bakutou-chou-jiryoku-battle.json](./49488-bakuten-shoot-beyblade-2002-ikuze-bakutou-chou-jiryoku-battle.json) |
+| Bakuten Shoot Beyblade 2002: Takao Version | 49489 | [49489-bakuten-shoot-beyblade-2002-takao-version.json](./49489-bakuten-shoot-beyblade-2002-takao-version.json) |
+| Bakuten Shoot Beyblade: Gekitou! Saikyou Blade | 49491 | [49491-bakuten-shoot-beyblade-gekitou-saikyou-blade.json](./49491-bakuten-shoot-beyblade-gekitou-saikyou-blade.json) |
 | Bakutsuri Bar Hunter | 118316 | [118316-bakutsuri-bar-hunter.json](./118316-bakutsuri-bar-hunter.json) |
 | Bal | 290930 | [290930-bal.json](./290930-bal.json) |
 | Bala na Manga | 238994 | [238994-bala-na-manga.json](./238994-bala-na-manga.json) |
@@ -1449,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bass Rise | 4141 | [4141-bass-rise.json](./4141-bass-rise.json) |
 | Bass Rush Dream | 67301 | [67301-bass-rush-dream.json](./67301-bass-rush-dream.json) |
 | Bass Strike | 43286 | [43286-bass-strike.json](./43286-bass-strike.json) |
+| Bass Tsuri Shiyouze!: Tournament wa Senryaku da! | 49487 | [49487-bass-tsuri-shiyouze-tournament-wa-senryaku-da.json](./49487-bass-tsuri-shiyouze-tournament-wa-senryaku-da.json) |
 | Bassai-Dai | 403654 | [403654-bassai-dai.json](./403654-bassai-dai.json) |
 | BassDuel | 271172 | [271172-bassduel.json](./271172-bassduel.json) |
 | Bassfishing | 92289 | [92289-bassfishing.json](./92289-bassfishing.json) |
@@ -1853,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Wizard Attack | 314633 | [314633-battle-wizard-attack.json](./314633-battle-wizard-attack.json) |
 | Battle Wizards | 136284 | [136284-battle-wizards.json](./136284-battle-wizards.json) |
 | Battle X Arcade | 110961 | [110961-battle-x-arcade.json](./110961-battle-x-arcade.json) |
+| Battle x Battle: Kyoudai Uo Densetsu | 49486 | [49486-battle-x-battle-kyoudai-uo-densetsu.json](./49486-battle-x-battle-kyoudai-uo-densetsu.json) |
 | Battle X Death | 223690 | [223690-battle-x-death.json](./223690-battle-x-death.json) |
 | Battle X: Birth of the Alliance | 110297 | [110297-battle-x-birth-of-the-alliance.json](./110297-battle-x-birth-of-the-alliance.json) |
 | Battle XXL | 208595 | [208595-battle-xxl.json](./208595-battle-xxl.json) |
@@ -2073,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bazooka of the Red Dragon | 68969 | [68969-bazooka-of-the-red-dragon.json](./68969-bazooka-of-the-red-dragon.json) |
 | BazookaCat | 266824 | [266824-bazookacat.json](./266824-bazookacat.json) |
 | Bazzle | 231080 | [231080-bazzle.json](./231080-bazzle.json) |
+| BB Ball | 49485 | [49485-bb-ball.json](./49485-bb-ball.json) |
 | BBirthday | 232949 | [232949-bbirthday.json](./232949-bbirthday.json) |
 | BBlocks | 109737 | [109737-bblocks.json](./109737-bblocks.json) |
 | BBOnline | 130327 | [130327-bbonline.json](./130327-bbonline.json) |
@@ -3705,6 +3712,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Evolution | 35966 | [35966-bit-evolution.json](./35966-bit-evolution.json) |
 | Bit Generations: Boundish | 94200 | [94200-bit-generations-boundish.json](./94200-bit-generations-boundish.json) |
 | Bit Generations: Dialhex | 251173 | [251173-bit-generations-dialhex.json](./251173-bit-generations-dialhex.json) |
+| Bit Generations: Digidrive | 49481 | [49481-bit-generations-digidrive.json](./49481-bit-generations-digidrive.json) |
+| Bit Generations: Orbital | 49513 | [49513-bit-generations-orbital.json](./49513-bit-generations-orbital.json) |
+| Bit Generations: Soundvoyager | 49482 | [49482-bit-generations-soundvoyager.json](./49482-bit-generations-soundvoyager.json) |
 | Bit Heroes | 67937 | [67937-bit-heroes.json](./67937-bit-heroes.json) |
 | Bit Heroes Runner | 263569 | [263569-bit-heroes-runner.json](./263569-bit-heroes-runner.json) |
 | Bit Lost | 363963 | [363963-bit-lost.json](./363963-bit-lost.json) |
@@ -5461,6 +5471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Generation | 3832 | [3832-bomberman-generation.json](./3832-bomberman-generation.json) |
 | Bomberman Hardball | 45295 | [45295-bomberman-hardball.json](./45295-bomberman-hardball.json) |
 | Bomberman II: The Revenge | 134538 | [134538-bomberman-ii-the-revenge.json](./134538-bomberman-ii-the-revenge.json) |
+| Bomberman Jetters: Game Collection | 49528 | [49528-bomberman-jetters-game-collection.json](./49528-bomberman-jetters-game-collection.json) |
 | Bomberman Kart | 43535 | [43535-bomberman-kart.json](./43535-bomberman-kart.json) |
 | Bomberman Kart DX | 94366 | [94366-bomberman-kart-dx.json](./94366-bomberman-kart-dx.json) |
 | Bomberman Land | 21613 | [21613-bomberman-land.json](./21613-bomberman-land.json) |
@@ -5897,7 +5908,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouhou Koumakyou: Scarlet Family | 204382 | [204382-bouhou-koumakyou-scarlet-family.json](./204382-bouhou-koumakyou-scarlet-family.json) |
 | Bouhou Youyoumu | 204076 | [204076-bouhou-youyoumu.json](./204076-bouhou-youyoumu.json) |
 | Bouken Danshaku Don: The Lost Sunheart | 37720 | [37720-bouken-danshaku-don-the-lost-sunheart.json](./37720-bouken-danshaku-don-the-lost-sunheart.json) |
+| Bouken Yuuki Pluster World: Densetsu no Plust Gate | 49527 | [49527-bouken-yuuki-pluster-world-densetsu-no-plust-gate.json](./49527-bouken-yuuki-pluster-world-densetsu-no-plust-gate.json) |
+| Bouken Yuuki Pluster World: Densetsu no Pluster Gate EX | 49526 | [49526-bouken-yuuki-pluster-world-densetsu-no-pluster-gate-ex.json](./49526-bouken-yuuki-pluster-world-densetsu-no-pluster-gate-ex.json) |
+| Bouken Yuuki Pluster World: Pluston GP | 49525 | [49525-bouken-yuuki-pluster-world-pluston-gp.json](./49525-bouken-yuuki-pluster-world-pluston-gp.json) |
+| Bouken-Ou Beet: Busters Road | 49524 | [49524-bouken-ou-beet-busters-road.json](./49524-bouken-ou-beet-busters-road.json) |
 | Bouken-Ou Beet: Vandel vs. Busters | 269670 | [269670-bouken-ou-beet-vandel-vs-busters.json](./269670-bouken-ou-beet-vandel-vs-busters.json) |
+| Boukyaku no Senritsu | 49523 | [49523-boukyaku-no-senritsu.json](./49523-boukyaku-no-senritsu.json) |
 | Boulder Boy | 61639 | [61639-boulder-boy.json](./61639-boulder-boy.json) |
 | Boulder Dash | 12942 | [12942-boulder-dash.json](./12942-boulder-dash.json) |
 | Boulder Dash | 280820 | [280820-boulder-dash.json](./280820-boulder-dash.json) |
