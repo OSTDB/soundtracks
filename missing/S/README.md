@@ -6214,6 +6214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot Car HTR+ : 3D Simulation | 239896 | [239896-slot-car-htr-3d-simulation.json](./239896-slot-car-htr-3d-simulation.json) |
 | Slot Car Rivals | 230579 | [230579-slot-car-rivals.json](./230579-slot-car-rivals.json) |
 | Slot Gun | 311124 | [311124-slot-gun.json](./311124-slot-gun.json) |
+| Slot Machine | 18421 | [18421-slot-machine.json](./18421-slot-machine.json) |
 | Slot Machine | 246380 | [246380-slot-machine.json](./246380-slot-machine.json) |
 | Slot Machine | 325548 | [325548-slot-machine.json](./325548-slot-machine.json) |
 | Slot Machine | 366920 | [366920-slot-machine.json](./366920-slot-machine.json) |
@@ -7064,6 +7065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soar Up The Charts | 310068 | [310068-soar-up-the-charts.json](./310068-soar-up-the-charts.json) |
 | Sobreviva Ziggy! | 329012 | [329012-sobreviva-ziggy.json](./329012-sobreviva-ziggy.json) |
 | Soccer | 172594 | [172594-soccer.json](./172594-soccer.json) |
+| Soccer | 18441 | [18441-soccer.json](./18441-soccer.json) |
 | Soccer | 217962 | [217962-soccer.json](./217962-soccer.json) |
 | Soccer | 245406 | [245406-soccer.json](./245406-soccer.json) |
 | Soccer | 245407 | [245407-soccer.json](./245407-soccer.json) |
@@ -8718,6 +8720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Drop | 99773 | [99773-space-drop.json](./99773-space-drop.json) |
 | Space Ducks: The Great Escape | 199658 | [199658-space-ducks-the-great-escape.json](./199658-space-ducks-the-great-escape.json) |
 | Space Dudes vs Alien Dudes | 223389 | [223389-space-dudes-vs-alien-dudes.json](./223389-space-dudes-vs-alien-dudes.json) |
+| Space Duel | 18405 | [18405-space-duel.json](./18405-space-duel.json) |
 | Space Eater Force | 182919 | [182919-space-eater-force.json](./182919-space-eater-force.json) |
 | Space Egg Shooter | 199482 | [199482-space-egg-shooter.json](./199482-space-egg-shooter.json) |
 | Space electrician | 126668 | [126668-space-electrician.json](./126668-space-electrician.json) |
@@ -10246,10 +10249,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprinkler & Ghost | 216249 | [216249-sprinkler-and-ghost.json](./216249-sprinkler-and-ghost.json) |
 | Sprint | 246481 | [246481-sprint.json](./246481-sprint.json) |
 | Sprint | 359441 | [359441-sprint.json](./359441-sprint.json) |
+| Sprint 1 | 18393 | [18393-sprint-1.json](./18393-sprint-1.json) |
 | Sprint 4 | 61312 | [61312-sprint-4.json](./61312-sprint-4.json) |
 | Sprint 8 | 61311 | [61311-sprint-8.json](./61311-sprint-8.json) |
 | Sprint Car Challenge | 43333 | [43333-sprint-car-challenge.json](./43333-sprint-car-challenge.json) |
 | Sprint Journey | 217809 | [217809-sprint-journey.json](./217809-sprint-journey.json) |
+| Sprint Master | 18423 | [18423-sprint-master.json](./18423-sprint-master.json) |
 | Sprite Fantasia | 174861 | [174861-sprite-fantasia.json](./174861-sprite-fantasia.json) |
 | Sprite Sequence Volume 1 | 180129 | [180129-sprite-sequence-volume-1.json](./180129-sprite-sequence-volume-1.json) |
 | Sprite Sequence: Chapter 1 - The Creation | 154425 | [154425-sprite-sequence-chapter-1-the-creation.json](./154425-sprite-sequence-chapter-1-the-creation.json) |
@@ -11842,6 +11847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Squad | 101738 | [101738-stellar-squad.json](./101738-stellar-squad.json) |
 | Stellar Tactics | 26293 | [26293-stellar-tactics.json](./26293-stellar-tactics.json) |
 | Stellar Terminus | 318178 | [318178-stellar-terminus.json](./318178-stellar-terminus.json) |
+| Stellar Track | 18427 | [18427-stellar-track.json](./18427-stellar-track.json) |
 | Stellar Valkyrie | 165072 | [165072-stellar-valkyrie.json](./165072-stellar-valkyrie.json) |
 | Stellar Version 1.0 | 252671 | [252671-stellar-version-1-0.json](./252671-stellar-version-1-0.json) |
 | Stellar War | 173260 | [173260-stellar-war.json](./173260-stellar-war.json) |
@@ -15067,6 +15073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman | 131546 | [131546-superman.json](./131546-superman.json) |
 | Superman | 361718 | [361718-superman.json](./361718-superman.json) |
 | Superman in Supervillain Showdown | 220123 | [220123-superman-in-supervillain-showdown.json](./220123-superman-in-supervillain-showdown.json) |
+| Superman: Man of Steel | 18463 | [18463-superman-man-of-steel.json](./18463-superman-man-of-steel.json) |
 | Superman: Man of Steel | 264862 | [264862-superman-man-of-steel.json](./264862-superman-man-of-steel.json) |
 | Superman: The Greatest Hero | 72996 | [72996-superman-the-greatest-hero.json](./72996-superman-the-greatest-hero.json) |
 | Superman: The Mysterious Mr. Mist | 73324 | [73324-superman-the-mysterious-mr-mist.json](./73324-superman-the-mysterious-mr-mist.json) |
