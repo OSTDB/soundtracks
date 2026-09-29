@@ -1916,6 +1916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Feeder | 279104 | [279104-night-feeder.json](./279104-night-feeder.json) |
 | Night Fighter | 41570 | [41570-night-fighter.json](./41570-night-fighter.json) |
 | Night Flight | 297492 | [297492-night-flight.json](./297492-night-flight.json) |
+| Night Flight | 42137 | [42137-night-flight.json](./42137-night-flight.json) |
 | Night Fright | 318402 | [318402-night-fright.json](./318402-night-fright.json) |
 | Night Furries | 367512 | [367512-night-furries.json](./367512-night-furries.json) |
 | Night Gal Summer | 229340 | [229340-night-gal-summer.json](./229340-night-gal-summer.json) |
