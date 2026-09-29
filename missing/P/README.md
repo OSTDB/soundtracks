@@ -4673,6 +4673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Starships | 57124 | [57124-pocket-starships.json](./57124-pocket-starships.json) |
 | Pocket Starships: Star Trek Borg Invasion | 54680 | [54680-pocket-starships-star-trek-borg-invasion.json](./54680-pocket-starships-star-trek-borg-invasion.json) |
 | Pocket Tactics | 177000 | [177000-pocket-tactics.json](./177000-pocket-tactics.json) |
+| Pocket Tanks | 72176 | [72176-pocket-tanks.json](./72176-pocket-tanks.json) |
 | Pocket Warriors | 152162 | [152162-pocket-warriors.json](./152162-pocket-warriors.json) |
 | Pocket Witch | 223045 | [223045-pocket-witch.json](./223045-pocket-witch.json) |
 | Pocket Zaurus: Party Island no Nakama-tachi 1 | 293906 | [293906-pocket-zaurus-party-island-no-nakama-tachi-1.json](./293906-pocket-zaurus-party-island-no-nakama-tachi-1.json) |
