@@ -1606,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reckless Getaway 2 | 237666 | [237666-reckless-getaway-2.json](./237666-reckless-getaway-2.json) |
 | Reckless Racing HD | 90542 | [90542-reckless-racing-hd.json](./90542-reckless-racing-hd.json) |
 | Reckless Rally | 276830 | [276830-reckless-rally.json](./276830-reckless-rally.json) |
+| Reckless Rufus | 39164 | [39164-reckless-rufus.json](./39164-reckless-rufus.json) |
 | Reckon | 74074 | [74074-reckon.json](./74074-reckon.json) |
 | Reckpunk | 32262 | [32262-reckpunk.json](./32262-reckpunk.json) |
 | Reclaim | 405688 | [405688-reclaim.json](./405688-reclaim.json) |
@@ -3022,6 +3023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rex | 45348 | [45348-rex.json](./45348-rex.json) |
 | ReX | 99193 | [99193-rex.json](./99193-rex.json) |
 | Rex Blade: The Battle Begins | 209165 | [209165-rex-blade-the-battle-begins.json](./209165-rex-blade-the-battle-begins.json) |
+| Rex Hard | 39149 | [39149-rex-hard.json](./39149-rex-hard.json) |
 | Rex Nebular and the Cosmic Gender Bender | 8680 | [8680-rex-nebular-and-the-cosmic-gender-bender.json](./8680-rex-nebular-and-the-cosmic-gender-bender.json) |
 | Rex Ronan: Experimental Surgeon | 42651 | [42651-rex-ronan-experimental-surgeon.json](./42651-rex-ronan-experimental-surgeon.json) |
 | Rex Run | 305748 | [305748-rex-run.json](./305748-rex-run.json) |
@@ -4232,6 +4234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock, Paper, Scissors, Shoot! | 408804 | [408804-rock-paper-scissors-shoot.json](./408804-rock-paper-scissors-shoot.json) |
 | Rock, the Tree Hugger | 34732 | [34732-rock-the-tree-hugger.json](./34732-rock-the-tree-hugger.json) |
 | Rock: Paper - Death | 392934 | [392934-rock-paper-death.json](./392934-rock-paper-death.json) |
+| Rock'n Wrestle | 39146 | [39146-rockn-wrestle.json](./39146-rockn-wrestle.json) |
 | Rock'n' Ball | 48206 | [48206-rockn-ball.json](./48206-rockn-ball.json) |
 | Rock'n'Roll: Card Wargame | 163957 | [163957-rocknroll-card-wargame.json](./163957-rocknroll-card-wargame.json) |
 | Rocka Feller | 100122 | [100122-rocka-feller.json](./100122-rocka-feller.json) |
@@ -4639,6 +4642,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolaball | 94693 | [94693-rolaball.json](./94693-rolaball.json) |
 | Rolan's Curse | 49023 | [49023-rolans-curse.json](./49023-rolans-curse.json) |
 | Rolan's Curse 2 | 49022 | [49022-rolans-curse-2.json](./49022-rolans-curse-2.json) |
+| Roland Ahoy! | 39147 | [39147-roland-ahoy.json](./39147-roland-ahoy.json) |
+| Roland in Time | 39148 | [39148-roland-in-time.json](./39148-roland-in-time.json) |
 | Rolando | 23029 | [23029-rolando.json](./23029-rolando.json) |
 | Rolando 3 | 92640 | [92640-rolando-3.json](./92640-rolando-3.json) |
 | Rolando the Majestic | 201569 | [201569-rolando-the-majestic.json](./201569-rolando-the-majestic.json) |
