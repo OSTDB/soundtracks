@@ -2270,6 +2270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Flipper | 308409 | [308409-sega-flipper.json](./308409-sega-flipper.json) |
 | Sega Game Pack 4 in 1 | 79600 | [79600-sega-game-pack-4-in-1.json](./79600-sega-game-pack-4-in-1.json) |
 | Sega Genesis Classic Collection: Gold Edition | 51261 | [51261-sega-genesis-classic-collection-gold-edition.json](./51261-sega-genesis-classic-collection-gold-edition.json) |
+| Sega Genesis Classics | 80185 | [80185-sega-genesis-classics.json](./80185-sega-genesis-classics.json) |
 | Sega Genesis Classics: Series 1 | 50854 | [50854-sega-genesis-classics-series-1.json](./50854-sega-genesis-classics-series-1.json) |
 | Sega Genesis Classics: Series 2 | 50853 | [50853-sega-genesis-classics-series-2.json](./50853-sega-genesis-classics-series-2.json) |
 | Sega Genesis Classics: Series 3 | 50852 | [50852-sega-genesis-classics-series-3.json](./50852-sega-genesis-classics-series-3.json) |
@@ -3341,6 +3342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shantae and the Seven Sirens Part 1 | 122493 | [122493-shantae-and-the-seven-sirens-part-1.json](./122493-shantae-and-the-seven-sirens-part-1.json) |
 | Shantae: Costume Pack | 275016 | [275016-shantae-costume-pack.json](./275016-shantae-costume-pack.json) |
 | Shantae: Half-Genie Hero - Ultimate Day One Edition | 136277 | [136277-shantae-half-genie-hero-ultimate-day-one-edition.json](./136277-shantae-half-genie-hero-ultimate-day-one-edition.json) |
+| Shantae: Half-Genie Hero - Ultimate Edition | 95832 | [95832-shantae-half-genie-hero-ultimate-edition.json](./95832-shantae-half-genie-hero-ultimate-edition.json) |
 | Shantae: Risky's Revenge | 11782 | [11782-shantae-riskys-revenge.json](./11782-shantae-riskys-revenge.json) |
 | Shanties in Strange Waters | 180756 | [180756-shanties-in-strange-waters.json](./180756-shanties-in-strange-waters.json) |
 | ShantyTown | 258979 | [258979-shantytown.json](./258979-shantytown.json) |
@@ -3509,6 +3511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered World | 264632 | [264632-shattered-world.json](./264632-shattered-world.json) |
 | Shattered Worlds | 155654 | [155654-shattered-worlds.json](./155654-shattered-worlds.json) |
 | Shattered: The Final Days | 248048 | [248048-shattered-the-final-days.json](./248048-shattered-the-final-days.json) |
+| Shatterhand | 48648 | [48648-shatterhand.json](./48648-shatterhand.json) |
 | Shatterhold | 406135 | [406135-shatterhold.json](./406135-shatterhold.json) |
 | Shatterspace | 197395 | [197395-shatterspace.json](./197395-shatterspace.json) |
 | Shaun Palmer's Pro Snowboarder | 248602 | [248602-shaun-palmers-pro-snowboarder.json](./248602-shaun-palmers-pro-snowboarder.json) |
@@ -3865,6 +3868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Girls | 292623 | [292623-shining-girls.json](./292623-shining-girls.json) |
 | Shining Hearts | 66402 | [66402-shining-hearts.json](./66402-shining-hearts.json) |
 | Shining Hotel: Lost in Nowhere | 102364 | [102364-shining-hotel-lost-in-nowhere.json](./102364-shining-hotel-lost-in-nowhere.json) |
+| Shining in the Darkness | 9406 | [9406-shining-in-the-darkness.json](./9406-shining-in-the-darkness.json) |
 | Shining Lore | 316800 | [316800-shining-lore.json](./316800-shining-lore.json) |
 | Shining Orb Prequel | 109704 | [109704-shining-orb-prequel.json](./109704-shining-orb-prequel.json) |
 | Shining Resonance | 44561 | [44561-shining-resonance.json](./44561-shining-resonance.json) |
@@ -7363,6 +7367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solasta: Crown of the Magister - Palace of Ice | 242515 | [242515-solasta-crown-of-the-magister-palace-of-ice.json](./242515-solasta-crown-of-the-magister-palace-of-ice.json) |
 | Solasta: Crown of the Magister - Primal Calling | 186870 | [186870-solasta-crown-of-the-magister-primal-calling.json](./186870-solasta-crown-of-the-magister-primal-calling.json) |
 | Solasta: Lightbringers Edition | 251208 | [251208-solasta-lightbringers-edition.json](./251208-solasta-lightbringers-edition.json) |
+| Solatorobo: Red the Hunter | 9597 | [9597-solatorobo-red-the-hunter.json](./9597-solatorobo-red-the-hunter.json) |
 | Solbot Energy Rush | 105401 | [105401-solbot-energy-rush.json](./105401-solbot-energy-rush.json) |
 | Solbreak Skirmish | 413881 | [413881-solbreak-skirmish.json](./413881-solbreak-skirmish.json) |
 | Solcialists | 272581 | [272581-solcialists.json](./272581-solcialists.json) |
@@ -8167,6 +8172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: The Blue Blur | 332611 | [332611-sonic-the-blue-blur.json](./332611-sonic-the-blue-blur.json) |
 | Sonic: The Chaos Effect | 330712 | [330712-sonic-the-chaos-effect.json](./330712-sonic-the-chaos-effect.json) |
 | Sonic: The Next Episode | 330863 | [330863-sonic-the-next-episode.json](./330863-sonic-the-next-episode.json) |
+| Sonic.EXE | 45556 | [45556-sonic-exe.json](./45556-sonic-exe.json) |
 | Sonic.Exe 2: The Game | 341904 | [341904-sonic-exe-2-the-game.json](./341904-sonic-exe-2-the-game.json) |
 | Sonic.exe: Dark Souls | 369107 | [369107-sonic-exe-dark-souls.json](./369107-sonic-exe-dark-souls.json) |
 | Sonic.exe: Dark Souls Remake | 369098 | [369098-sonic-exe-dark-souls-remake.json](./369098-sonic-exe-dark-souls-remake.json) |
@@ -13910,6 +13916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cosplay War Ultra | 66117 | [66117-super-cosplay-war-ultra.json](./66117-super-cosplay-war-ultra.json) |
 | Super Craft: Building Game | 100851 | [100851-super-craft-building-game.json](./100851-super-craft-building-game.json) |
 | Super Craft: Exploration Survival | 100961 | [100961-super-craft-exploration-survival.json](./100961-super-craft-exploration-survival.json) |
+| Super Crate Box | 9945 | [9945-super-crate-box.json](./9945-super-crate-box.json) |
 | Super Crate Box Together | 304150 | [304150-super-crate-box-together.json](./304150-super-crate-box-together.json) |
 | Super Crazy Guitar Maniac Deluxe | 262446 | [262446-super-crazy-guitar-maniac-deluxe.json](./262446-super-crazy-guitar-maniac-deluxe.json) |
 | Super Crazy Guitar Maniac Deluxe 2 | 262447 | [262447-super-crazy-guitar-maniac-deluxe-2.json](./262447-super-crazy-guitar-maniac-deluxe-2.json) |
