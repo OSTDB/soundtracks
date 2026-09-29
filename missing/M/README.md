@@ -3097,6 +3097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor: Heroes | 1312 | [1312-medal-of-honor-heroes.json](./1312-medal-of-honor-heroes.json) |
 | Medal of Honor: Pacific Assault | 1310 | [1310-medal-of-honor-pacific-assault.json](./1310-medal-of-honor-pacific-assault.json) |
 | Medal of Honor: Tier 1 Edition | 47463 | [47463-medal-of-honor-tier-1-edition.json](./47463-medal-of-honor-tier-1-edition.json) |
+| Medal of Honor: Underground | 1308 | [1308-medal-of-honor-underground.json](./1308-medal-of-honor-underground.json) |
 | Medal of Honor: Warfighter | 1306 | [1306-medal-of-honor-warfighter.json](./1306-medal-of-honor-warfighter.json) |
 | Medals of War | 71024 | [71024-medals-of-war.json](./71024-medals-of-war.json) |
 | MedArc | 70391 | [70391-medarc.json](./70391-medarc.json) |
@@ -4495,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Genesis | 323757 | [323757-metroid-genesis.json](./323757-metroid-genesis.json) |
 | Metroid: HD | 310611 | [310611-metroid-hd.json](./310611-metroid-hd.json) |
 | Metroid: Origins | 224478 | [224478-metroid-origins.json](./224478-metroid-origins.json) |
+| Metroid: Other M | 1113 | [1113-metroid-other-m.json](./1113-metroid-other-m.json) |
 | Metroid: Rechoose | 318019 | [318019-metroid-rechoose.json](./318019-metroid-rechoose.json) |
 | Metroid: Recovery | 323875 | [323875-metroid-recovery.json](./323875-metroid-recovery.json) |
 | Metroid: Rogue Dawn | 65036 | [65036-metroid-rogue-dawn.json](./65036-metroid-rogue-dawn.json) |
@@ -8579,6 +8581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muscle Ranking Vol. 3: Saikyou no Challenger Tanjou! | 209614 | [209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json](./209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json) |
 | Muse | 333096 | [333096-muse.json](./333096-muse.json) |
 | Muse & Barbarian | 219667 | [219667-muse-and-barbarian.json](./219667-muse-and-barbarian.json) |
+| Muse Dash | 86316 | [86316-muse-dash.json](./86316-muse-dash.json) |
 | Muse Dash 2 | 400225 | [400225-muse-dash-2.json](./400225-muse-dash-2.json) |
 | Muse Dash: Just as Planned | 356178 | [356178-muse-dash-just-as-planned.json](./356178-muse-dash-just-as-planned.json) |
 | Muse Dash: Muse Plus | 356177 | [356177-muse-dash-muse-plus.json](./356177-muse-dash-muse-plus.json) |
