@@ -2284,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect: Andromeda - Super Deluxe Edition | 27767 | [27767-mass-effect-andromeda-super-deluxe-edition.json](./27767-mass-effect-andromeda-super-deluxe-edition.json) |
 | Mass Effect: Bring Down the Sky | 13784 | [13784-mass-effect-bring-down-the-sky.json](./13784-mass-effect-bring-down-the-sky.json) |
 | Mass Effect: Genesis 2 | 202313 | [202313-mass-effect-genesis-2.json](./202313-mass-effect-genesis-2.json) |
+| Mass Effect: Pinnacle Station | 13781 | [13781-mass-effect-pinnacle-station.json](./13781-mass-effect-pinnacle-station.json) |
 | Mass Extinction | 261817 | [261817-mass-extinction.json](./261817-mass-extinction.json) |
 | Mass for the Dead | 115452 | [115452-mass-for-the-dead.json](./115452-mass-for-the-dead.json) |
 | Mass Harvest | 211183 | [211183-mass-harvest.json](./211183-mass-harvest.json) |
@@ -6835,6 +6836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly Millionaire | 64475 | [64475-monopoly-millionaire.json](./64475-monopoly-millionaire.json) |
 | Monopoly One | 55944 | [55944-monopoly-one.json](./55944-monopoly-one.json) |
 | Monopoly Party | 4016 | [4016-monopoly-party.json](./4016-monopoly-party.json) |
+| Monopoly Plus | 20313 | [20313-monopoly-plus.json](./20313-monopoly-plus.json) |
 | Monopoly Plus and Monopoly Madness | 182497 | [182497-monopoly-plus-and-monopoly-madness.json](./182497-monopoly-plus-and-monopoly-madness.json) |
 | Monopoly Sudoku | 292005 | [292005-monopoly-sudoku.json](./292005-monopoly-sudoku.json) |
 | Monopoly Tycoon | 197249 | [197249-monopoly-tycoon.json](./197249-monopoly-tycoon.json) |
@@ -6878,6 +6880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Block Game | 235236 | [235236-monster-block-game.json](./235236-monster-block-game.json) |
 | Monster Bomber | 20617 | [20617-monster-bomber.json](./20617-monster-bomber.json) |
 | Monster Box | 68717 | [68717-monster-box.json](./68717-monster-box.json) |
+| Monster Boy and the Cursed Kingdom | 25599 | [25599-monster-boy-and-the-cursed-kingdom.json](./25599-monster-boy-and-the-cursed-kingdom.json) |
 | Monster Busters: Hexa Blast | 242793 | [242793-monster-busters-hexa-blast.json](./242793-monster-busters-hexa-blast.json) |
 | Monster Care Simulator | 326387 | [326387-monster-care-simulator.json](./326387-monster-care-simulator.json) |
 | Monster Charmer | 310724 | [310724-monster-charmer.json](./310724-monster-charmer.json) |
@@ -7822,6 +7825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Mouse Stunt Mania | 193475 | [193475-moto-mouse-stunt-mania.json](./193475-moto-mouse-stunt-mania.json) |
 | Moto Parkour | 293640 | [293640-moto-parkour.json](./293640-moto-parkour.json) |
 | Moto Race | 197888 | [197888-moto-race.json](./197888-moto-race.json) |
+| Moto Racer | 10560 | [10560-moto-racer.json](./10560-moto-racer.json) |
 | Moto Racer 2044 Game Simulator: Money Magnet Bundle | 328988 | [328988-moto-racer-2044-game-simulator-money-magnet-bundle.json](./328988-moto-racer-2044-game-simulator-money-magnet-bundle.json) |
 | Moto Racer 4: Deluxe Edition | 25019 | [25019-moto-racer-4-deluxe-edition.json](./25019-moto-racer-4-deluxe-edition.json) |
 | Moto Racing 3D | 87081 | [87081-moto-racing-3d.json](./87081-moto-racing-3d.json) |
