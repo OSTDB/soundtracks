@@ -1190,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperial Saga: Eclipse | 265624 | [265624-imperial-saga-eclipse.json](./265624-imperial-saga-eclipse.json) |
 | Imperial Settlers Roll & Write | 175292 | [175292-imperial-settlers-roll-and-write.json](./175292-imperial-settlers-roll-and-write.json) |
 | Imperial Storm | 249218 | [249218-imperial-storm.json](./249218-imperial-storm.json) |
+| Imperialism | 14435 | [14435-imperialism.json](./14435-imperialism.json) |
 | Imperialism: Concert of Europe | 287229 | [287229-imperialism-concert-of-europe.json](./287229-imperialism-concert-of-europe.json) |
 | Imperialism: The Dark Continent | 97113 | [97113-imperialism-the-dark-continent.json](./97113-imperialism-the-dark-continent.json) |
 | Imperialism:The Dark Continent | 105521 | [105521-imperialism-the-dark-continent.json](./105521-imperialism-the-dark-continent.json) |
