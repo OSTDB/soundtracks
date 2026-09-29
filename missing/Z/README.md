@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zunzunkyou No Yabou | 40972 | [40972-zunzunkyou-no-yabou.json](./40972-zunzunkyou-no-yabou.json) |
 | Zup-Zup! | 52097 | [52097-zup-zup.json](./52097-zup-zup.json) |
 | Zup! 5 | 38784 | [38784-zup-5.json](./38784-zup-5.json) |
+| Zup! 7 | 76121 | [76121-zup-7.json](./76121-zup-7.json) |
 | Zup! F | 129833 | [129833-zup-f.json](./129833-zup-f.json) |
 | Zup! S | 111200 | [111200-zup-s.json](./111200-zup-s.json) |
 | Zup! Zero 2 | 105879 | [105879-zup-zero-2.json](./105879-zup-zero-2.json) |
