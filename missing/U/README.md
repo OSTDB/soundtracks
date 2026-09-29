@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Protector | 215679 | [215679-ultimate-protector.json](./215679-ultimate-protector.json) |
 | Ultimate Puzzle Games: Sudoku Edition | 124111 | [124111-ultimate-puzzle-games-sudoku-edition.json](./124111-ultimate-puzzle-games-sudoku-edition.json) |
 | Ultimate Puzzles 1500 | 53940 | [53940-ultimate-puzzles-1500.json](./53940-ultimate-puzzles-1500.json) |
+| Ultimate Quest: Journey to the Far Side of Possible | 7513 | [7513-ultimate-quest-journey-to-the-far-side-of-possible.json](./7513-ultimate-quest-journey-to-the-far-side-of-possible.json) |
 | Ultimate Racing 2D | 99538 | [99538-ultimate-racing-2d.json](./99538-ultimate-racing-2d.json) |
 | Ultimate Racing 2D 2 | 164891 | [164891-ultimate-racing-2d-2.json](./164891-ultimate-racing-2d-2.json) |
 | Ultimate Ragdoll Game | 329183 | [329183-ultimate-ragdoll-game.json](./329183-ultimate-ragdoll-game.json) |
