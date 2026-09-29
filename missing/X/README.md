@@ -13,6 +13,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X Mutation | 290924 | [290924-x-mutation.json](./290924-x-mutation.json) |
 | X Operations | 67954 | [67954-x-operations.json](./67954-x-operations.json) |
 | X Rebirth | 3347 | [3347-x-rebirth.json](./3347-x-rebirth.json) |
+| X Rebirth: Collector's Edition | 52126 | [52126-x-rebirth-collectors-edition.json](./52126-x-rebirth-collectors-edition.json) |
+| X Rebirth: Home of Light | 52125 | [52125-x-rebirth-home-of-light.json](./52125-x-rebirth-home-of-light.json) |
+| X Rebirth: The Teladi Outpost | 52124 | [52124-x-rebirth-the-teladi-outpost.json](./52124-x-rebirth-the-teladi-outpost.json) |
 | X Rebirth: VR Edition | 52251 | [52251-x-rebirth-vr-edition.json](./52251-x-rebirth-vr-edition.json) |
 | X Rock | 95380 | [95380-x-rock.json](./95380-x-rock.json) |
 | X S.E.E.D. | 62716 | [62716-x-s-e-e-d.json](./62716-x-s-e-e-d.json) |
@@ -22,7 +25,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-17 | 33373 | [33373-x-17.json](./33373-x-17.json) |
 | X-Blades HD | 230804 | [230804-x-blades-hd.json](./230804-x-blades-hd.json) |
 | X-Blades HD Gold | 230814 | [230814-x-blades-hd-gold.json](./230814-x-blades-hd-gold.json) |
+| X-Blades: Digital Deluxe Edition | 52116 | [52116-x-blades-digital-deluxe-edition.json](./52116-x-blades-digital-deluxe-edition.json) |
 | X-Blades: HD Upgrade | 322140 | [322140-x-blades-hd-upgrade.json](./322140-x-blades-hd-upgrade.json) |
+| X-Blades: Platinum Edition | 52115 | [52115-x-blades-platinum-edition.json](./52115-x-blades-platinum-edition.json) |
 | X-Bladez: Inline Skater | 43941 | [43941-x-bladez-inline-skater.json](./43941-x-bladez-inline-skater.json) |
 | X-Bundle: Windows and Xbox games bundle | 331507 | [331507-x-bundle-windows-and-xbox-games-bundle.json](./331507-x-bundle-windows-and-xbox-games-bundle.json) |
 | X-Car Stunts | 102156 | [102156-x-car-stunts.json](./102156-x-car-stunts.json) |
@@ -219,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XCavalypse | 33412 | [33412-xcavalypse.json](./33412-xcavalypse.json) |
 | XCOM 2: Alien Hunters | 19451 | [19451-xcom-2-alien-hunters.json](./19451-xcom-2-alien-hunters.json) |
 | XCOM 2: Anarchy's Children | 18365 | [18365-xcom-2-anarchys-children.json](./18365-xcom-2-anarchys-children.json) |
+| XCOM 2: Digital Deluxe Edition | 52119 | [52119-xcom-2-digital-deluxe-edition.json](./52119-xcom-2-digital-deluxe-edition.json) |
 | XCOM 2: Reinforcement Pack | 225099 | [225099-xcom-2-reinforcement-pack.json](./225099-xcom-2-reinforcement-pack.json) |
 | XCOM 2: Resistance Warrior Pack | 225096 | [225096-xcom-2-resistance-warrior-pack.json](./225096-xcom-2-resistance-warrior-pack.json) |
 | XCOM 2: Shen's Last Gift | 19859 | [19859-xcom-2-shens-last-gift.json](./19859-xcom-2-shens-last-gift.json) |
@@ -227,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XCOM: Enemy Unknown - Elite Edition | 88607 | [88607-xcom-enemy-unknown-elite-edition.json](./88607-xcom-enemy-unknown-elite-edition.json) |
 | XCOM: Enemy Unknown - Elite Soldier Pack | 286623 | [286623-xcom-enemy-unknown-elite-soldier-pack.json](./286623-xcom-enemy-unknown-elite-soldier-pack.json) |
 | XCOM: Enemy Unknown - Slingshot Pack | 225095 | [225095-xcom-enemy-unknown-slingshot-pack.json](./225095-xcom-enemy-unknown-slingshot-pack.json) |
+| XCOM: Enemy Unknown - The Complete Edition | 52118 | [52118-xcom-enemy-unknown-the-complete-edition.json](./52118-xcom-enemy-unknown-the-complete-edition.json) |
 | XCUTE(me) | 147389 | [147389-xcute-me.json](./147389-xcute-me.json) |
 | Xd Clicker | 364511 | [364511-xd-clicker.json](./364511-xd-clicker.json) |
 | xDasher | 132261 | [132261-xdasher.json](./132261-xdasher.json) |
@@ -308,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenrai | 122960 | [122960-xenrai.json](./122960-xenrai.json) |
 | Xentripetal Force | 121466 | [121466-xentripetal-force.json](./121466-xentripetal-force.json) |
 | Xeodrifter | 8506 | [8506-xeodrifter.json](./8506-xeodrifter.json) |
+| Xeodrifter: Special Edition | 52117 | [52117-xeodrifter-special-edition.json](./52117-xeodrifter-special-edition.json) |
 | XeonMass | 256217 | [256217-xeonmass.json](./256217-xeonmass.json) |
 | Xerd no Densetsu | 298848 | [298848-xerd-no-densetsu.json](./298848-xerd-no-densetsu.json) |
 | Xerd no Densetsu 2: Xerd!! Gishin no Ryouiki | 298851 | [298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json](./298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json) |
