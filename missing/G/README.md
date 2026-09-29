@@ -4939,6 +4939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gururin World | 286633 | [286633-gururin-world.json](./286633-gururin-world.json) |
 | Gusano Go | 183860 | [183860-gusano-go.json](./183860-gusano-go.json) |
 | Gust | 221130 | [221130-gust.json](./221130-gust.json) |
+| Gustavinho em O Enigma da Esfinge | 28043 | [28043-gustavinho-em-o-enigma-da-esfinge.json](./28043-gustavinho-em-o-enigma-da-esfinge.json) |
 | Gutasaga | 257439 | [257439-gutasaga.json](./257439-gutasaga.json) |
 | Gute Zeiten Schlechte Zeiten Quiz | 281539 | [281539-gute-zeiten-schlechte-zeiten-quiz.json](./281539-gute-zeiten-schlechte-zeiten-quiz.json) |
 | Gütertrennung | 86017 | [86017-gutertrennung.json](./86017-gutertrennung.json) |
