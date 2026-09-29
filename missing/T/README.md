@@ -2553,6 +2553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Little Miss Scatterbrain | 73559 | [73559-the-adventures-of-little-miss-scatterbrain.json](./73559-the-adventures-of-little-miss-scatterbrain.json) |
 | The Adventures of Little Red Riding Cap | 54433 | [54433-the-adventures-of-little-red-riding-cap.json](./54433-the-adventures-of-little-red-riding-cap.json) |
 | The Adventures of Little Wurfel | 370225 | [370225-the-adventures-of-little-wurfel.json](./370225-the-adventures-of-little-wurfel.json) |
+| The Adventures of Major Havoc | 18468 | [18468-the-adventures-of-major-havoc.json](./18468-the-adventures-of-major-havoc.json) |
 | The Adventures of Melvin Freebush | 73522 | [73522-the-adventures-of-melvin-freebush.json](./73522-the-adventures-of-melvin-freebush.json) |
 | The Adventures of Mr. Hat | 191822 | [191822-the-adventures-of-mr-hat.json](./191822-the-adventures-of-mr-hat.json) |
 | The Adventures of Mr. Poop | 147419 | [147419-the-adventures-of-mr-poop.json](./147419-the-adventures-of-mr-poop.json) |
@@ -10881,6 +10882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Aru Majutsu No Index | 44526 | [44526-to-aru-majutsu-no-index.json](./44526-to-aru-majutsu-no-index.json) |
 | To Ash | 33226 | [33226-to-ash.json](./33226-to-ash.json) |
 | To Ash & Ember | 157493 | [157493-to-ash-and-ember.json](./157493-to-ash-and-ember.json) |
+| To Azimuth | 18436 | [18436-to-azimuth.json](./18436-to-azimuth.json) |
 | To Be A Dummy Head VR | 118377 | [118377-to-be-a-dummy-head-vr.json](./118377-to-be-a-dummy-head-vr.json) |
 | To Be A Dummy Head VR: Ferris Wheel Story | 118379 | [118379-to-be-a-dummy-head-vr-ferris-wheel-story.json](./118379-to-be-a-dummy-head-vr-ferris-wheel-story.json) |
 | To Be A Dummy Head VR: Hotel Elevator Story | 118378 | [118378-to-be-a-dummy-head-vr-hotel-elevator-story.json](./118378-to-be-a-dummy-head-vr-hotel-elevator-story.json) |
