@@ -2632,6 +2632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam II | 787 | [787-serious-sam-ii.json](./787-serious-sam-ii.json) |
 | Serious Sam: Dark Island | 361920 | [361920-serious-sam-dark-island.json](./361920-serious-sam-dark-island.json) |
 | Serious Sam: GOG Collection | 205226 | [205226-serious-sam-gog-collection.json](./205226-serious-sam-gog-collection.json) |
+| Serious Sam: Kamikaze Attack | 28077 | [28077-serious-sam-kamikaze-attack.json](./28077-serious-sam-kamikaze-attack.json) |
 | Serious Sam: Portals | 299202 | [299202-serious-sam-portals.json](./299202-serious-sam-portals.json) |
 | Serious Sam: Siberian Mayhem | 187112 | [187112-serious-sam-siberian-mayhem.json](./187112-serious-sam-siberian-mayhem.json) |
 | Serious Sam: The Retro Encounter | 145554 | [145554-serious-sam-the-retro-encounter.json](./145554-serious-sam-the-retro-encounter.json) |
@@ -7800,6 +7801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Generations | 264885 | [264885-sonic-generations.json](./264885-sonic-generations.json) |
 | Sonic Generations | 320894 | [320894-sonic-generations.json](./320894-sonic-generations.json) |
 | Sonic Generations 2D | 332597 | [332597-sonic-generations-2d.json](./332597-sonic-generations-2d.json) |
+| Sonic Generations Collection | 28000 | [28000-sonic-generations-collection.json](./28000-sonic-generations-collection.json) |
 | Sonic Generations: A New Beginning | 330877 | [330877-sonic-generations-a-new-beginning.json](./330877-sonic-generations-a-new-beginning.json) |
 | Sonic Generations: Casino Night DLC | 133938 | [133938-sonic-generations-casino-night-dlc.json](./133938-sonic-generations-casino-night-dlc.json) |
 | Sonic Generations: White Time and Space 20th Anniversary Set | 89889 | [89889-sonic-generations-white-time-and-space-20th-anniversary-set.json](./89889-sonic-generations-white-time-and-space-20th-anniversary-set.json) |
