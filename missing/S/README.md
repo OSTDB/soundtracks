@@ -4386,6 +4386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuuchaku Gakuen | 335668 | [335668-shuuchaku-gakuen.json](./335668-shuuchaku-gakuen.json) |
 | Shuugoku no Seventh Heim | 221259 | [221259-shuugoku-no-seventh-heim.json](./221259-shuugoku-no-seventh-heim.json) |
 | Shuujin he no Pert-em-Hru | 146169 | [146169-shuujin-he-no-pert-em-hru.json](./146169-shuujin-he-no-pert-em-hru.json) |
+| Shuukaku no Juunigatsu: Fuyu | 58895 | [58895-shuukaku-no-juunigatsu-fuyu.json](./58895-shuukaku-no-juunigatsu-fuyu.json) |
 | Shuumatsu no Sugoshikata: The world is drawing to an W/end | 326047 | [326047-shuumatsu-no-sugoshikata-the-world-is-drawing-to-an-w-end.json](./326047-shuumatsu-no-sugoshikata-the-world-is-drawing-to-an-w-end.json) |
 | Shuusou Gyoku | 123608 | [123608-shuusou-gyoku.json](./123608-shuusou-gyoku.json) |
 | Shuutai Headless | 150575 | [150575-shuutai-headless.json](./150575-shuutai-headless.json) |
@@ -8380,6 +8381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundtrack Attack | 74791 | [74791-soundtrack-attack.json](./74791-soundtrack-attack.json) |
 | Soundwave | 398556 | [398556-soundwave.json](./398556-soundwave.json) |
 | Soup | 188612 | [188612-soup.json](./188612-soup.json) |
+| Soup: The Game | 58899 | [58899-soup-the-game.json](./58899-soup-the-game.json) |
 | Soup: The Vibe Explorer | 406710 | [406710-soup-the-vibe-explorer.json](./406710-soup-the-vibe-explorer.json) |
 | Souper Bloody | 397651 | [397651-souper-bloody.json](./397651-souper-bloody.json) |
 | Soups Christmas | 310606 | [310606-soups-christmas.json](./310606-soups-christmas.json) |
@@ -15733,6 +15735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords and Sandals Spartacus | 130387 | [130387-swords-and-sandals-spartacus.json](./130387-swords-and-sandals-spartacus.json) |
 | Swords and Sorcery Underworld | 27757 | [27757-swords-and-sorcery-underworld.json](./27757-swords-and-sorcery-underworld.json) |
 | Swords and Sorcery Underworld: Definitive Edition | 34318 | [34318-swords-and-sorcery-underworld-definitive-edition.json](./34318-swords-and-sorcery-underworld-definitive-edition.json) |
+| Swords and Souls | 58741 | [58741-swords-and-souls.json](./58741-swords-and-souls.json) |
 | Swords Fantasy: Battlefield | 192450 | [192450-swords-fantasy-battlefield.json](./192450-swords-fantasy-battlefield.json) |
 | Swords of Destiny | 23007 | [23007-swords-of-destiny.json](./23007-swords-of-destiny.json) |
 | Swords of Glass | 2887 | [2887-swords-of-glass.json](./2887-swords-of-glass.json) |
