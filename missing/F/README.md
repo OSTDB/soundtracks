@@ -4315,6 +4315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forces of Ether | 312137 | [312137-forces-of-ether.json](./312137-forces-of-ether.json) |
 | Ford Bold Moves Street Racing | 43384 | [43384-ford-bold-moves-street-racing.json](./43384-ford-bold-moves-street-racing.json) |
 | Ford Mustang: The Legend Lives | 43306 | [43306-ford-mustang-the-legend-lives.json](./43306-ford-mustang-the-legend-lives.json) |
+| Ford Racing 3 | 4870 | [4870-ford-racing-3.json](./4870-ford-racing-3.json) |
 | Ford Simulator III | 80646 | [80646-ford-simulator-iii.json](./80646-ford-simulator-iii.json) |
 | Ford vs. Chevy | 5838 | [5838-ford-vs-chevy.json](./5838-ford-vs-chevy.json) |
 | Forebears | 211934 | [211934-forebears.json](./211934-forebears.json) |
