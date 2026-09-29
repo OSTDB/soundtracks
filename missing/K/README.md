@@ -1175,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Gorilla | 13733 | [13733-killer-gorilla.json](./13733-killer-gorilla.json) |
 | Killer Inside Us | 157189 | [157189-killer-inside-us.json](./157189-killer-inside-us.json) |
 | Killer Instinct | 254517 | [254517-killer-instinct.json](./254517-killer-instinct.json) |
+| Killer Instinct | 2907 | [2907-killer-instinct.json](./2907-killer-instinct.json) |
 | Killer Instinct | 324152 | [324152-killer-instinct.json](./324152-killer-instinct.json) |
 | Killer Instinct 2 | 264309 | [264309-killer-instinct-2.json](./264309-killer-instinct-2.json) |
 | Killer Instinct 2 | 2930 | [2930-killer-instinct-2.json](./2930-killer-instinct-2.json) |
