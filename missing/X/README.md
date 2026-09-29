@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X Wars Deluxe | 121554 | [121554-x-wars-deluxe.json](./121554-x-wars-deluxe.json) |
 | X-15 Alpha Mission | 40934 | [40934-x-15-alpha-mission.json](./40934-x-15-alpha-mission.json) |
 | X-17 | 33373 | [33373-x-17.json](./33373-x-17.json) |
+| X-Blades | 7256 | [7256-x-blades.json](./7256-x-blades.json) |
 | X-Blades HD | 230804 | [230804-x-blades-hd.json](./230804-x-blades-hd.json) |
 | X-Blades HD Gold | 230814 | [230814-x-blades-hd-gold.json](./230814-x-blades-hd-gold.json) |
 | X-Blades: Digital Deluxe Edition | 52116 | [52116-x-blades-digital-deluxe-edition.json](./52116-x-blades-digital-deluxe-edition.json) |
@@ -324,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xerd no Densetsu 2: Xerd!! Gishin no Ryouiki | 298851 | [298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json](./298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json) |
 | Xerminus | 371897 | [371897-xerminus.json](./371897-xerminus.json) |
 | Xerxesia | 267998 | [267998-xerxesia.json](./267998-xerxesia.json) |
+| Xevious | 12346 | [12346-xevious.json](./12346-xevious.json) |
 | Xevious 3D/G | 20133 | [20133-xevious-3d-g.json](./20133-xevious-3d-g.json) |
 | Xevious: Gamp no Nazo wa Subete Toketa!? | 287669 | [287669-xevious-gamp-no-nazo-wa-subete-toketa.json](./287669-xevious-gamp-no-nazo-wa-subete-toketa.json) |
 | Xevorel: The Way Of The Feather | 129215 | [129215-xevorel-the-way-of-the-feather.json](./129215-xevorel-the-way-of-the-feather.json) |
