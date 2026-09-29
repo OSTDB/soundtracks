@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egypt: Secret of Five Gods | 294206 | [294206-egypt-secret-of-five-gods.json](./294206-egypt-secret-of-five-gods.json) |
 | Egyptian Challenge | 91543 | [91543-egyptian-challenge.json](./91543-egyptian-challenge.json) |
 | Egyptian Run | 93166 | [93166-egyptian-run.json](./93166-egyptian-run.json) |
+| Ehrgeiz | 1361 | [1361-ehrgeiz.json](./1361-ehrgeiz.json) |
 | Eidetus | 125898 | [125898-eidetus.json](./125898-eidetus.json) |
 | Eidolons: Nethergate | 116818 | [116818-eidolons-nethergate.json](./116818-eidolons-nethergate.json) |
 | Eien no Filena | 15899 | [15899-eien-no-filena.json](./15899-eien-no-filena.json) |
@@ -1364,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emperium | 155661 | [155661-emperium.json](./155661-emperium.json) |
 | Emperor of the Fading Suns | 50145 | [50145-emperor-of-the-fading-suns.json](./50145-emperor-of-the-fading-suns.json) |
 | Emperor of the Fading Suns Enhanced | 295355 | [295355-emperor-of-the-fading-suns-enhanced.json](./295355-emperor-of-the-fading-suns-enhanced.json) |
+| Emperor: Battle for Dune | 89 | [89-emperor-battle-for-dune.json](./89-emperor-battle-for-dune.json) |
 | Emperor: Rise of the Middle Kingdom | 7512 | [7512-emperor-rise-of-the-middle-kingdom.json](./7512-emperor-rise-of-the-middle-kingdom.json) |
 | Empire Builder: Europe | 322708 | [322708-empire-builder-europe.json](./322708-empire-builder-europe.json) |
 | Empire Chronicles | 163985 | [163985-empire-chronicles.json](./163985-empire-chronicles.json) |
@@ -3231,6 +3233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excised | 260223 | [260223-excised.json](./260223-excised.json) |
 | Excite Invader | 138024 | [138024-excite-invader.json](./138024-excite-invader.json) |
 | Excite Mahjong | 80200 | [80200-excite-mahjong.json](./80200-excite-mahjong.json) |
+| Excite Truck | 2635 | [2635-excite-truck.json](./2635-excite-truck.json) |
 | Excitebike | 214457 | [214457-excitebike.json](./214457-excitebike.json) |
 | Excitebike | 4600 | [4600-excitebike.json](./4600-excitebike.json) |
 | Excitebike-e | 169997 | [169997-excitebike-e.json](./169997-excitebike-e.json) |
