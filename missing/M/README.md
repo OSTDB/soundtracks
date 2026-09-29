@@ -6029,6 +6029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Command | 187374 | [187374-missile-command.json](./187374-missile-command.json) |
 | Missile Command | 209502 | [209502-missile-command.json](./209502-missile-command.json) |
 | Missile Command | 209503 | [209503-missile-command.json](./209503-missile-command.json) |
+| Missile Command | 239489 | [239489-missile-command.json](./239489-missile-command.json) |
 | Missile Command | 280782 | [280782-missile-command.json](./280782-missile-command.json) |
 | Missile Command 3D | 40810 | [40810-missile-command-3d.json](./40810-missile-command-3d.json) |
 | Missile Command: Recharged | 132154 | [132154-missile-command-recharged.json](./132154-missile-command-recharged.json) |
@@ -7019,6 +7020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Rise: Title Update 3 | 252381 | [252381-monster-hunter-rise-title-update-3.json](./252381-monster-hunter-rise-title-update-3.json) |
 | Monster Hunter Rise: Title Update 4 | 252382 | [252382-monster-hunter-rise-title-update-4.json](./252382-monster-hunter-rise-title-update-4.json) |
 | Monster Hunter Rise: Title Update 5 | 252383 | [252383-monster-hunter-rise-title-update-5.json](./252383-monster-hunter-rise-title-update-5.json) |
+| Monster Hunter Stories | 287848 | [287848-monster-hunter-stories.json](./287848-monster-hunter-stories.json) |
 | Monster Hunter Stories 2: Wings of Ruin | 138951 | [138951-monster-hunter-stories-2-wings-of-ruin.json](./138951-monster-hunter-stories-2-wings-of-ruin.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Accessory: Crystalline Ornament | 412286 | [412286-monster-hunter-stories-3-twisted-reflection-accessory-crystalline-ornament.json](./412286-monster-hunter-stories-3-twisted-reflection-accessory-crystalline-ornament.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Accessory: Fang Talisman | 412284 | [412284-monster-hunter-stories-3-twisted-reflection-accessory-fang-talisman.json](./412284-monster-hunter-stories-3-twisted-reflection-accessory-fang-talisman.json) |
@@ -7388,6 +7390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoonHack | 408042 | [408042-moonhack.json](./408042-moonhack.json) |
 | Mooniacs | 343469 | [343469-mooniacs.json](./343469-mooniacs.json) |
 | Moonland | 270707 | [270707-moonland.json](./270707-moonland.json) |
+| Moonlander | 9129 | [9129-moonlander.json](./9129-moonlander.json) |
 | Moonleap 2600 | 413685 | [413685-moonleap-2600.json](./413685-moonleap-2600.json) |
 | Moonless | 244863 | [244863-moonless.json](./244863-moonless.json) |
 | Moonless Moon | 302959 | [302959-moonless-moon.json](./302959-moonless-moon.json) |
@@ -8967,6 +8970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dream is to Be a Model, Not a Maid! | 212806 | [212806-my-dream-is-to-be-a-model-not-a-maid.json](./212806-my-dream-is-to-be-a-model-not-a-maid.json) |
 | My Dream Job: Babysitter | 206768 | [206768-my-dream-job-babysitter.json](./206768-my-dream-job-babysitter.json) |
 | My Dream Job: How I Survived Job Hunting in Animation | 178684 | [178684-my-dream-job-how-i-survived-job-hunting-in-animation.json](./178684-my-dream-job-how-i-survived-job-hunting-in-animation.json) |
+| My Dream Setup | 226386 | [226386-my-dream-setup.json](./226386-my-dream-setup.json) |
 | My Dress-Up | 84331 | [84331-my-dress-up.json](./84331-my-dress-up.json) |
 | My Earth | 258489 | [258489-my-earth.json](./258489-my-earth.json) |
 | My Eerie Lair | 373749 | [373749-my-eerie-lair.json](./373749-my-eerie-lair.json) |
