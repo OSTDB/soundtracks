@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL Mobile | 39182 | [39182-madden-nfl-mobile.json](./39182-madden-nfl-mobile.json) |
 | Maddmadd | 381607 | [381607-maddmadd.json](./381607-maddmadd.json) |
 | Made For | 343241 | [343241-made-for.json](./343241-made-for.json) |
+| Made in Abyss: Binary Star Falling into Darkness | 146711 | [146711-made-in-abyss-binary-star-falling-into-darkness.json](./146711-made-in-abyss-binary-star-falling-into-darkness.json) |
 | Made in Abyss: Binary Star Falling into Darkness - Collector's Edition | 150144 | [150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json](./150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json) |
 | Made in Melostead | 270092 | [270092-made-in-melostead.json](./270092-made-in-melostead.json) |
 | Made in Physics | 184487 | [184487-made-in-physics.json](./184487-made-in-physics.json) |
@@ -3483,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X2: Proto Edition | 219083 | [219083-mega-man-x2-proto-edition.json](./219083-mega-man-x2-proto-edition.json) |
 | Mega Man X2: Ultimate Armor | 268416 | [268416-mega-man-x2-ultimate-armor.json](./268416-mega-man-x2-ultimate-armor.json) |
 | Mega Man X2: Zero Playable | 268417 | [268417-mega-man-x2-zero-playable.json](./268417-mega-man-x2-zero-playable.json) |
+| Mega Man X3 | 282110 | [282110-mega-man-x3.json](./282110-mega-man-x3.json) |
 | Mega Man X3 | 282138 | [282138-mega-man-x3.json](./282138-mega-man-x3.json) |
 | Mega Man X3: Proto Edition | 219082 | [219082-mega-man-x3-proto-edition.json](./219082-mega-man-x3-proto-edition.json) |
 | Mega Man X3: Tsuraranoma | 268418 | [268418-mega-man-x3-tsuraranoma.json](./268418-mega-man-x3-tsuraranoma.json) |
@@ -7440,6 +7442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoonPong: Tales of Epic Lunacy | 213376 | [213376-moonpong-tales-of-epic-lunacy.json](./213376-moonpong-tales-of-epic-lunacy.json) |
 | Moonray | 133362 | [133362-moonray.json](./133362-moonray.json) |
 | Moonray: Battle Lands | 368045 | [368045-moonray-battle-lands.json](./368045-moonray-battle-lands.json) |
+| Moonring | 266774 | [266774-moonring.json](./266774-moonring.json) |
 | Moonring DX | 334849 | [334849-moonring-dx.json](./334849-moonring-dx.json) |
 | Moonrise | 407543 | [407543-moonrise.json](./407543-moonrise.json) |
 | Moonrise | 9873 | [9873-moonrise.json](./9873-moonrise.json) |
@@ -7722,6 +7725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Shell II | 347633 | [347633-mortal-shell-ii.json](./347633-mortal-shell-ii.json) |
 | Mortal Shell: Complete Edition | 229693 | [229693-mortal-shell-complete-edition.json](./229693-mortal-shell-complete-edition.json) |
 | Mortal Shell: Digital Deluxe Edition | 214474 | [214474-mortal-shell-digital-deluxe-edition.json](./214474-mortal-shell-digital-deluxe-edition.json) |
+| Mortal Shell: Enhanced Edition | 146160 | [146160-mortal-shell-enhanced-edition.json](./146160-mortal-shell-enhanced-edition.json) |
 | Mortal Shell: Enhanced Edition - Game of the Year Edition | 201782 | [201782-mortal-shell-enhanced-edition-game-of-the-year-edition.json](./201782-mortal-shell-enhanced-edition-game-of-the-year-edition.json) |
 | Mortal Shell: Game of the Year Edition | 201041 | [201041-mortal-shell-game-of-the-year-edition.json](./201041-mortal-shell-game-of-the-year-edition.json) |
 | Mortal Shell: Rotten Autumn | 229714 | [229714-mortal-shell-rotten-autumn.json](./229714-mortal-shell-rotten-autumn.json) |
