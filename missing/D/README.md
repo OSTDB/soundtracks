@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dandara: Trials of Fear - Enhanced Edition | 155057 | [155057-dandara-trials-of-fear-enhanced-edition.json](./155057-dandara-trials-of-fear-enhanced-edition.json) |
 | Dandara: Trials of Fear Edition | 129536 | [129536-dandara-trials-of-fear-edition.json](./129536-dandara-trials-of-fear-edition.json) |
 | Dandelion | 181343 | [181343-dandelion.json](./181343-dandelion.json) |
+| Dandelion: Wishes Brought to You | 17800 | [17800-dandelion-wishes-brought-to-you.json](./17800-dandelion-wishes-brought-to-you.json) |
 | Dandelions in the Sky | 135756 | [135756-dandelions-in-the-sky.json](./135756-dandelions-in-the-sky.json) |
 | Dandy & Randy | 110964 | [110964-dandy-and-randy.json](./110964-dandy-and-randy.json) |
 | Dandy Ace | 116533 | [116533-dandy-ace.json](./116533-dandy-ace.json) |
@@ -2296,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sea Puzzle | 382453 | [382453-deep-sea-puzzle.json](./382453-deep-sea-puzzle.json) |
 | Deep Sea Tycoon: Diver's Paradise | 146201 | [146201-deep-sea-tycoon-divers-paradise.json](./146201-deep-sea-tycoon-divers-paradise.json) |
 | Deep Sea Valentine | 143485 | [143485-deep-sea-valentine.json](./143485-deep-sea-valentine.json) |
+| Deep Sky Derelicts | 54793 | [54793-deep-sky-derelicts.json](./54793-deep-sky-derelicts.json) |
 | Deep Sky Derelicts: Station Life | 154419 | [154419-deep-sky-derelicts-station-life.json](./154419-deep-sky-derelicts-station-life.json) |
 | Deep Sleep | 185125 | [185125-deep-sleep.json](./185125-deep-sleep.json) |
 | Deep Snow Delivery | 320396 | [320396-deep-snow-delivery.json](./320396-deep-snow-delivery.json) |
@@ -3874,6 +3876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digfender | 109064 | [109064-digfender.json](./109064-digfender.json) |
 | Digger | 172721 | [172721-digger.json](./172721-digger.json) |
 | Digger Man | 39631 | [39631-digger-man.json](./39631-digger-man.json) |
+| Digger Online | 17084 | [17084-digger-online.json](./17084-digger-online.json) |
 | Digger T. Rock: The Legend of the Lost City | 12932 | [12932-digger-t-rock-the-legend-of-the-lost-city.json](./12932-digger-t-rock-the-legend-of-the-lost-city.json) |
 | Diggergun | 204370 | [204370-diggergun.json](./204370-diggergun.json) |
 | Diggerman | 101578 | [101578-diggerman.json](./101578-diggerman.json) |
@@ -4408,6 +4411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | disfact Game Pack 1 | 405533 | [405533-disfact-game-pack-1.json](./405533-disfact-game-pack-1.json) |
 | Disgaea 1 Complete: Limited Edition | 201055 | [201055-disgaea-1-complete-limited-edition.json](./201055-disgaea-1-complete-limited-edition.json) |
 | Disgaea 2: Dark Hero Days | 21851 | [21851-disgaea-2-dark-hero-days.json](./21851-disgaea-2-dark-hero-days.json) |
+| Disgaea 3: Absence of Detention | 18370 | [18370-disgaea-3-absence-of-detention.json](./18370-disgaea-3-absence-of-detention.json) |
 | Disgaea 4 Complete+: A Promise of Sardines Edition | 205262 | [205262-disgaea-4-complete-a-promise-of-sardines-edition.json](./205262-disgaea-4-complete-a-promise-of-sardines-edition.json) |
 | Disgaea 5: Alliance of Vengeance | 11594 | [11594-disgaea-5-alliance-of-vengeance.json](./11594-disgaea-5-alliance-of-vengeance.json) |
 | Disgaea 5: Alliance of Vengeance - Limited Edition | 167058 | [167058-disgaea-5-alliance-of-vengeance-limited-edition.json](./167058-disgaea-5-alliance-of-vengeance-limited-edition.json) |
@@ -6682,6 +6686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon x Dragon DX | 292123 | [292123-dragon-x-dragon-dx.json](./292123-dragon-x-dragon-dx.json) |
 | Dragon x Dragon: Complete Version | 292130 | [292130-dragon-x-dragon-complete-version.json](./292130-dragon-x-dragon-complete-version.json) |
 | Dragon: A Game About a Dragon | 35700 | [35700-dragon-a-game-about-a-dragon.json](./35700-dragon-a-game-about-a-dragon.json) |
+| Dragon: The Bruce Lee Story | 18617 | [18617-dragon-the-bruce-lee-story.json](./18617-dragon-the-bruce-lee-story.json) |
 | Dragon: The Bruce Lee Story | 218422 | [218422-dragon-the-bruce-lee-story.json](./218422-dragon-the-bruce-lee-story.json) |
 | Dragon's Bane | 148541 | [148541-dragons-bane.json](./148541-dragons-bane.json) |
 | Dragon's Crown | 3002 | [3002-dragons-crown.json](./3002-dragons-crown.json) |
@@ -8390,6 +8395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light 2: Stay Human - Reloaded Edition | 322800 | [322800-dying-light-2-stay-human-reloaded-edition.json](./322800-dying-light-2-stay-human-reloaded-edition.json) |
 | Dying Light 2: Stay Human - The Walking Dead Bundle | 259068 | [259068-dying-light-2-stay-human-the-walking-dead-bundle.json](./259068-dying-light-2-stay-human-the-walking-dead-bundle.json) |
 | Dying Light 2: Stay Human - Ultimate Edition | 169196 | [169196-dying-light-2-stay-human-ultimate-edition.json](./169196-dying-light-2-stay-human-ultimate-edition.json) |
+| Dying Light: Bozak Horde | 16299 | [16299-dying-light-bozak-horde.json](./16299-dying-light-bozak-horde.json) |
 | Dying Light: Cuisine & Cargo | 150043 | [150043-dying-light-cuisine-and-cargo.json](./150043-dying-light-cuisine-and-cargo.json) |
 | Dying Light: Definitive Edition | 205006 | [205006-dying-light-definitive-edition.json](./205006-dying-light-definitive-edition.json) |
 | Dying Light: Dieselpunk Bundle | 224128 | [224128-dying-light-dieselpunk-bundle.json](./224128-dying-light-dieselpunk-bundle.json) |
