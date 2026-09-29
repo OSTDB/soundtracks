@@ -2176,6 +2176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cellular Survival | 296346 | [296346-cellular-survival.json](./296346-cellular-survival.json) |
 | Cellyon: Boss Confrontation | 105558 | [105558-cellyon-boss-confrontation.json](./105558-cellyon-boss-confrontation.json) |
 | Cellyon: Boss Maker | 322717 | [322717-cellyon-boss-maker.json](./322717-cellyon-boss-maker.json) |
+| Celsius Heroes | 56566 | [56566-celsius-heroes.json](./56566-celsius-heroes.json) |
 | Celted | 176478 | [176478-celted.json](./176478-celted.json) |
 | Celtic Carnage | 58821 | [58821-celtic-carnage.json](./58821-celtic-carnage.json) |
 | Celtic FC Club Football | 267883 | [267883-celtic-fc-club-football.json](./267883-celtic-fc-club-football.json) |
@@ -3050,6 +3051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chikankyou: Gachi Tsukaeru Appli de Muchimuchi Kyonyuu Shiri o Monde Sawatte! Acme-gao de Ikasetai!! | 109000 | [109000-chikankyou-gachi-tsukaeru-appli-de-muchimuchi-kyonyuu-shiri-o-monde-sawatte-acme-gao-de-ikasetai.json](./109000-chikankyou-gachi-tsukaeru-appli-de-muchimuchi-kyonyuu-shiri-o-monde-sawatte-acme-gao-de-ikasetai.json) |
 | Chikarou | 206384 | [206384-chikarou.json](./206384-chikarou.json) |
 | Chikasuiji kara no Dasshutsu | 251616 | [251616-chikasuiji-kara-no-dasshutsu.json](./251616-chikasuiji-kara-no-dasshutsu.json) |
+| Chiki Chiki Machine Mou Race | 56545 | [56545-chiki-chiki-machine-mou-race.json](./56545-chiki-chiki-machine-mou-race.json) |
 | Chiki-Chiki | 258025 | [258025-chiki-chiki.json](./258025-chiki-chiki.json) |
 | Chiki-Chiki Boxy Racers | 107229 | [107229-chiki-chiki-boxy-racers.json](./107229-chiki-chiki-boxy-racers.json) |
 | Chiki-chiki Machine Mou Race: Kenken to Black Maou no Ijiwaru Daisakusen | 245250 | [245250-chiki-chiki-machine-mou-race-kenken-to-black-maou-no-ijiwaru-daisakusen.json](./245250-chiki-chiki-machine-mou-race-kenken-to-black-maou-no-ijiwaru-daisakusen.json) |
@@ -6928,6 +6930,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash 'N' Burn | 5789 | [5789-crash-n-burn.json](./5789-crash-n-burn.json) |
 | Crash 'n' the Boys: Street Challenge | 48291 | [48291-crash-n-the-boys-street-challenge.json](./48291-crash-n-the-boys-street-challenge.json) |
 | Crash & Bump | 212807 | [212807-crash-and-bump.json](./212807-crash-and-bump.json) |
+| Crash & Spyro Super Pack Volume 1 | 56561 | [56561-crash-and-spyro-super-pack-volume-1.json](./56561-crash-and-spyro-super-pack-volume-1.json) |
+| Crash & Spyro Super Pack Volume 2 | 56560 | [56560-crash-and-spyro-super-pack-volume-2.json](./56560-crash-and-spyro-super-pack-volume-2.json) |
 | Crash & Spyro Super Pack Volume 3 | 68345 | [68345-crash-and-spyro-super-pack-volume-3.json](./68345-crash-and-spyro-super-pack-volume-3.json) |
 | Crash & Spyro Superpack I Crash Bandicoot: The Huge Adventure / Spyro: Season of Ice | 210236 | [210236-crash-and-spyro-superpack-i-crash-bandicoot-the-huge-adventure-spyro-season-of-ice.json](./210236-crash-and-spyro-superpack-i-crash-bandicoot-the-huge-adventure-spyro-season-of-ice.json) |
 | Crash + Spyro Triple Play Bundle | 218970 | [218970-crash-spyro-triple-play-bundle.json](./218970-crash-spyro-triple-play-bundle.json) |
@@ -7148,6 +7152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Indian: Monster Skins | 157557 | [157557-crazy-indian-monster-skins.json](./157557-crazy-indian-monster-skins.json) |
 | Crazy Insane Monster Invaders | 152387 | [152387-crazy-insane-monster-invaders.json](./152387-crazy-insane-monster-invaders.json) |
 | Crazy Jetpack | 205576 | [205576-crazy-jetpack.json](./205576-crazy-jetpack.json) |
+| Crazy Justice | 56548 | [56548-crazy-justice.json](./56548-crazy-justice.json) |
 | Crazy Kickers | 57615 | [57615-crazy-kickers.json](./57615-crazy-kickers.json) |
 | Crazy Kitchen | 265675 | [265675-crazy-kitchen.json](./265675-crazy-kitchen.json) |
 | Crazy Kong | 130753 | [130753-crazy-kong.json](./130753-crazy-kong.json) |
