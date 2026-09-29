@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Club | 37939 | [37939-mahjong-club.json](./37939-mahjong-club.json) |
 | Mahjong Collection | 110813 | [110813-mahjong-collection.json](./110813-mahjong-collection.json) |
 | Mahjong Connect Onet Puzzle | 215120 | [215120-mahjong-connect-onet-puzzle.json](./215120-mahjong-connect-onet-puzzle.json) |
+| Mahjong Cop Ryuu: Hakurou no Yabou | 27990 | [27990-mahjong-cop-ryuu-hakurou-no-yabou.json](./27990-mahjong-cop-ryuu-hakurou-no-yabou.json) |
 | Mahjong Crimes | 91080 | [91080-mahjong-crimes.json](./91080-mahjong-crimes.json) |
 | Mahjong Cub3d | 6846 | [6846-mahjong-cub3d.json](./6846-mahjong-cub3d.json) |
 | Mahjong Deluxe 2 | 89686 | [89686-mahjong-deluxe-2.json](./89686-mahjong-deluxe-2.json) |
@@ -4463,6 +4464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid X | 267400 | [267400-metroid-x.json](./267400-metroid-x.json) |
 | Metroid: 3D TechDemo | 324088 | [324088-metroid-3d-techdemo.json](./324088-metroid-3d-techdemo.json) |
 | Metroid: Another Legend | 267399 | [267399-metroid-another-legend.json](./267399-metroid-another-legend.json) |
+| Metroid: Confrontation | 28078 | [28078-metroid-confrontation.json](./28078-metroid-confrontation.json) |
 | Metroid: Crocomire's Last Stand | 277040 | [277040-metroid-crocomires-last-stand.json](./277040-metroid-crocomires-last-stand.json) |
 | Metroid: Desolation | 255381 | [255381-metroid-desolation.json](./255381-metroid-desolation.json) |
 | Metroid: Federation Trooper | 323874 | [323874-metroid-federation-trooper.json](./323874-metroid-federation-trooper.json) |
@@ -9538,6 +9540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Balloon | 280890 | [280890-mystic-balloon.json](./280890-mystic-balloon.json) |
 | Mystic Cards | 190058 | [190058-mystic-cards.json](./190058-mystic-cards.json) |
 | Mystic Chronicles | 10945 | [10945-mystic-chronicles.json](./10945-mystic-chronicles.json) |
+| Mystic Defender | 27989 | [27989-mystic-defender.json](./27989-mystic-defender.json) |
 | Mystic Diary: Lost Brother | 32216 | [32216-mystic-diary-lost-brother.json](./32216-mystic-diary-lost-brother.json) |
 | Mystic Escape: Diary of a Prisoner | 130171 | [130171-mystic-escape-diary-of-a-prisoner.json](./130171-mystic-escape-diary-of-a-prisoner.json) |
 | Mystic Explorer | 316642 | [316642-mystic-explorer.json](./316642-mystic-explorer.json) |
