@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life Alyx NoVR | 255791 | [255791-half-life-alyx-novr.json](./255791-half-life-alyx-novr.json) |
 | Half-Life ZDoom | 255673 | [255673-half-life-zdoom.json](./255673-half-life-zdoom.json) |
 | Half-Life: Beyond | 329025 | [329025-half-life-beyond.json](./329025-half-life-beyond.json) |
+| Half-Life: C.A.G.E.D. | 127914 | [127914-half-life-c-a-g-e-d.json](./127914-half-life-c-a-g-e-d.json) |
 | Half-Life: Chernobyl | 127954 | [127954-half-life-chernobyl.json](./127954-half-life-chernobyl.json) |
 | Half-Life: Cleaner's Adventures | 221857 | [221857-half-life-cleaners-adventures.json](./221857-half-life-cleaners-adventures.json) |
 | Half-Life: Cross Product Multiplayer | 360604 | [360604-half-life-cross-product-multiplayer.json](./360604-half-life-cross-product-multiplayer.json) |
@@ -955,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter and the Prisoner of Azkaban | 96159 | [96159-harry-potter-and-the-prisoner-of-azkaban.json](./96159-harry-potter-and-the-prisoner-of-azkaban.json) |
 | Harry Potter and the Prisoner of Azkaban: The Quest of Sir Cadogan | 266500 | [266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json](./266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json) |
 | Harry Potter and the Sorcerer's Stone | 112660 | [112660-harry-potter-and-the-sorcerers-stone.json](./112660-harry-potter-and-the-sorcerers-stone.json) |
+| Harry Potter and the Sorcerer's Stone | 118554 | [118554-harry-potter-and-the-sorcerers-stone.json](./118554-harry-potter-and-the-sorcerers-stone.json) |
 | Harry Potter and the Sorcerer's Stone: Third-Floor Corridor Challenge | 266498 | [266498-harry-potter-and-the-sorcerers-stone-third-floor-corridor-challenge.json](./266498-harry-potter-and-the-sorcerers-stone-third-floor-corridor-challenge.json) |
 | Harry Potter Collection | 286660 | [286660-harry-potter-collection.json](./286660-harry-potter-collection.json) |
 | Harry Potter DVD Game: Wizarding World | 266196 | [266196-harry-potter-dvd-game-wizarding-world.json](./266196-harry-potter-dvd-game-wizarding-world.json) |
