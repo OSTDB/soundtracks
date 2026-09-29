@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N0de: Machina Omega | 82470 | [82470-n0de-machina-omega.json](./82470-n0de-machina-omega.json) |
 | N1NE: The Splintered Mind Part 1 | 154424 | [154424-n1ne-the-splintered-mind-part-1.json](./154424-n1ne-the-splintered-mind-part-1.json) |
 | N1RV Ann-A: Cyberpunk Bartender Action | 109582 | [109582-n1rv-ann-a-cyberpunk-bartender-action.json](./109582-n1rv-ann-a-cyberpunk-bartender-action.json) |
+| N3: Ninety-Nine Nights | 7094 | [7094-n3-ninety-nine-nights.json](./7094-n3-ninety-nine-nights.json) |
 | N3Rally | 310204 | [310204-n3rally.json](./310204-n3rally.json) |
 | N64 SP Map Jam | 300421 | [300421-n64-sp-map-jam.json](./300421-n64-sp-map-jam.json) |
 | Naals Tales | 311610 | [311610-naals-tales.json](./311610-naals-tales.json) |
@@ -172,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew: Ransom of the Seven Ships | 29201 | [29201-nancy-drew-ransom-of-the-seven-ships.json](./29201-nancy-drew-ransom-of-the-seven-ships.json) |
 | Nancy Drew: Sea of Darkness | 29920 | [29920-nancy-drew-sea-of-darkness.json](./29920-nancy-drew-sea-of-darkness.json) |
 | Nancy Drew: Secret of the Scarlet Hand | 7625 | [7625-nancy-drew-secret-of-the-scarlet-hand.json](./7625-nancy-drew-secret-of-the-scarlet-hand.json) |
+| Nancy Drew: Secrets Can Kill | 7620 | [7620-nancy-drew-secrets-can-kill.json](./7620-nancy-drew-secrets-can-kill.json) |
 | Nancy Drew: Shadow at the Water's Edge | 10583 | [10583-nancy-drew-shadow-at-the-waters-edge.json](./10583-nancy-drew-shadow-at-the-waters-edge.json) |
 | Nancy Drew: Stay Tuned for Danger | 7622 | [7622-nancy-drew-stay-tuned-for-danger.json](./7622-nancy-drew-stay-tuned-for-danger.json) |
 | Nancy Drew: The Final Scene | 7624 | [7624-nancy-drew-the-final-scene.json](./7624-nancy-drew-the-final-scene.json) |
@@ -708,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Final Four 99 | 23154 | [23154-ncaa-final-four-99.json](./23154-ncaa-final-four-99.json) |
 | NCAA Football 07 | 5953 | [5953-ncaa-football-07.json](./5953-ncaa-football-07.json) |
 | NCAA Football 09: All-Play | 137060 | [137060-ncaa-football-09-all-play.json](./137060-ncaa-football-09-all-play.json) |
+| NCAA Football 11 | 7112 | [7112-ncaa-football-11.json](./7112-ncaa-football-11.json) |
 | NCAA Football 13 | 7114 | [7114-ncaa-football-13.json](./7114-ncaa-football-13.json) |
 | NCAA Football 2002 | 44644 | [44644-ncaa-football-2002.json](./44644-ncaa-football-2002.json) |
 | NCAA Football 2003 | 5955 | [5955-ncaa-football-2003.json](./5955-ncaa-football-2003.json) |
@@ -2553,6 +2556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendogs + Cats: Shiba Inu & New Friends | 222328 | [222328-nintendogs-cats-shiba-inu-and-new-friends.json](./222328-nintendogs-cats-shiba-inu-and-new-friends.json) |
 | Nintendogs: Best Friends | 47727 | [47727-nintendogs-best-friends.json](./47727-nintendogs-best-friends.json) |
 | Nintendogs: Chihuahua & Friends | 47707 | [47707-nintendogs-chihuahua-and-friends.json](./47707-nintendogs-chihuahua-and-friends.json) |
+| Nintendogs: Dalmatian & Friends | 23817 | [23817-nintendogs-dalmatian-and-friends.json](./23817-nintendogs-dalmatian-and-friends.json) |
 | Nintendogs: Labrador & Friends | 47944 | [47944-nintendogs-labrador-and-friends.json](./47944-nintendogs-labrador-and-friends.json) |
 | Ninza | 209419 | [209419-ninza.json](./209419-ninza.json) |
 | Nioh 2 | 103330 | [103330-nioh-2.json](./103330-nioh-2.json) |
