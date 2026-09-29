@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA NeoGeo Selection Vol. 2 | 319733 | [319733-aca-neogeo-selection-vol-2.json](./319733-aca-neogeo-selection-vol-2.json) |
 | ACA NeoGeo Selection Vol. 4 | 342071 | [342071-aca-neogeo-selection-vol-4.json](./342071-aca-neogeo-selection-vol-4.json) |
 | Acacia Project | 188382 | [188382-acacia-project.json](./188382-acacia-project.json) |
+| Academia: School Simulator | 55689 | [55689-academia-school-simulator.json](./55689-academia-school-simulator.json) |
 | Academy Love Saga: Tennis Angels EX | 312666 | [312666-academy-love-saga-tennis-angels-ex.json](./312666-academy-love-saga-tennis-angels-ex.json) |
 | Academy of Magic: Dark Possession | 153877 | [153877-academy-of-magic-dark-possession.json](./153877-academy-of-magic-dark-possession.json) |
 | Academy Romance 7 | 185077 | [185077-academy-romance-7.json](./185077-academy-romance-7.json) |
@@ -4670,6 +4671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aoi Shiro | 165554 | [165554-aoi-shiro.json](./165554-aoi-shiro.json) |
 | Aoi Sora no Neosphere Doki-doki Adventure Effective E | 408136 | [408136-aoi-sora-no-neosphere-doki-doki-adventure-effective-e.json](./408136-aoi-sora-no-neosphere-doki-doki-adventure-effective-e.json) |
 | Aoi Tori: L'Oiseau Bleu | 394867 | [394867-aoi-tori-loiseau-bleu.json](./394867-aoi-tori-loiseau-bleu.json) |
+| Aokana: Four Rhythms Across the Blue | 54630 | [54630-aokana-four-rhythms-across-the-blue.json](./54630-aokana-four-rhythms-across-the-blue.json) |
 | Aokana: Four Rhythms Across the Blue Extra1 | 124028 | [124028-aokana-four-rhythms-across-the-blue-extra1.json](./124028-aokana-four-rhythms-across-the-blue-extra1.json) |
 | Aoki Densetsu Shoot! | 228474 | [228474-aoki-densetsu-shoot.json](./228474-aoki-densetsu-shoot.json) |
 | Aoki Gentyouhishi | 45546 | [45546-aoki-gentyouhishi.json](./45546-aoki-gentyouhishi.json) |
@@ -7105,6 +7107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AtomHex | 67943 | [67943-atomhex.json](./67943-atomhex.json) |
 | Atomic 79 | 30119 | [30119-atomic-79.json](./30119-atomic-79.json) |
 | Atomic Bomber | 96671 | [96671-atomic-bomber.json](./96671-atomic-bomber.json) |
+| Atomic Bomberman | 18153 | [18153-atomic-bomberman.json](./18153-atomic-bomberman.json) |
 | Atomic Butcher: Homo Metabolicus | 25223 | [25223-atomic-butcher-homo-metabolicus.json](./25223-atomic-butcher-homo-metabolicus.json) |
 | Atomic Cannon | 227826 | [227826-atomic-cannon.json](./227826-atomic-cannon.json) |
 | Atomic Cyclecar Racing | 192363 | [192363-atomic-cyclecar-racing.json](./192363-atomic-cyclecar-racing.json) |
@@ -7437,6 +7440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automobilista: Legendary Tracks Part 3 - Hockenheim | 171372 | [171372-automobilista-legendary-tracks-part-3-hockenheim.json](./171372-automobilista-legendary-tracks-part-3-hockenheim.json) |
 | Automobilista: Snetterton | 171087 | [171087-automobilista-snetterton.json](./171087-automobilista-snetterton.json) |
 | Automonopoli | 94566 | [94566-automonopoli.json](./94566-automonopoli.json) |
+| Autonauts | 54736 | [54736-autonauts.json](./54736-autonauts.json) |
 | Autopanic Zero | 236786 | [236786-autopanic-zero.json](./236786-autopanic-zero.json) |
 | AutoParts Simulator | 346163 | [346163-autoparts-simulator.json](./346163-autoparts-simulator.json) |
 | Autos | 197392 | [197392-autos.json](./197392-autos.json) |
