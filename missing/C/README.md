@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Toad: Treasure Tracker + Special Episode | 136381 | [136381-captain-toad-treasure-tracker-special-episode.json](./136381-captain-toad-treasure-tracker-special-episode.json) |
 | Captain Tomaday | 40981 | [40981-captain-tomaday.json](./40981-captain-tomaday.json) |
 | Captain Tsubasa | 213601 | [213601-captain-tsubasa.json](./213601-captain-tsubasa.json) |
+| Captain Tsubasa | 78088 | [78088-captain-tsubasa.json](./78088-captain-tsubasa.json) |
 | Captain Tsubasa III: Koutei no Chousen | 38340 | [38340-captain-tsubasa-iii-koutei-no-chousen.json](./38340-captain-tsubasa-iii-koutei-no-chousen.json) |
 | Captain Tsubasa J: Get in the Tomorrow | 45320 | [45320-captain-tsubasa-j-get-in-the-tomorrow.json](./45320-captain-tsubasa-j-get-in-the-tomorrow.json) |
 | Captain Tsubasa J: Zenkoku Seiha he no Chousen | 65009 | [65009-captain-tsubasa-j-zenkoku-seiha-he-no-chousen.json](./65009-captain-tsubasa-j-zenkoku-seiha-he-no-chousen.json) |
@@ -4928,6 +4929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codedoor | 281997 | [281997-codedoor.json](./281997-codedoor.json) |
 | Codemakers | 193411 | [193411-codemakers.json](./193411-codemakers.json) |
 | Codemount | 301436 | [301436-codemount.json](./301436-codemount.json) |
+| Codename Cure | 35653 | [35653-codename-cure.json](./35653-codename-cure.json) |
 | Codename Cygnus | 63001 | [63001-codename-cygnus.json](./63001-codename-cygnus.json) |
 | Codename Eagle | 344 | [344-codename-eagle.json](./344-codename-eagle.json) |
 | Codename Kids Next Door: Operation B.E.S.T. | 342736 | [342736-codename-kids-next-door-operation-b-e-s-t.json](./342736-codename-kids-next-door-operation-b-e-s-t.json) |
