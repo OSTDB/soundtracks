@@ -2614,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Master: The Legendary Blacksmith | 67991 | [67991-iron-master-the-legendary-blacksmith.json](./67991-iron-master-the-legendary-blacksmith.json) |
 | Iron Onslaught | 339917 | [339917-iron-onslaught.json](./339917-iron-onslaught.json) |
 | Iron Order 1919 | 196333 | [196333-iron-order-1919.json](./196333-iron-order-1919.json) |
+| Iron Quest | 57754 | [57754-iron-quest.json](./57754-iron-quest.json) |
 | Iron Rails | 179588 | [179588-iron-rails.json](./179588-iron-rails.json) |
 | Iron Rain | 346591 | [346591-iron-rain.json](./346591-iron-rain.json) |
 | Iron Ranger | 351009 | [351009-iron-ranger.json](./351009-iron-ranger.json) |
