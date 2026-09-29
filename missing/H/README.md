@@ -1594,6 +1594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Machinery vs. Shumai | 409528 | [409528-heavy-machinery-vs-shumai.json](./409528-heavy-machinery-vs-shumai.json) |
 | Heavy Machines & Construction | 266261 | [266261-heavy-machines-and-construction.json](./266261-heavy-machines-and-construction.json) |
 | Heavy Metal | 12141 | [12141-heavy-metal.json](./12141-heavy-metal.json) |
+| Heavy Metal | 46797 | [46797-heavy-metal.json](./46797-heavy-metal.json) |
 | Heavy Metal Death Can | 386835 | [386835-heavy-metal-death-can.json](./386835-heavy-metal-death-can.json) |
 | Heavy Metal Machines | 36171 | [36171-heavy-metal-machines.json](./36171-heavy-metal-machines.json) |
 | Heavy Metal Thunder | 56142 | [56142-heavy-metal-thunder.json](./56142-heavy-metal-thunder.json) |
@@ -5018,6 +5019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Casino 2009 | 210066 | [210066-hoyle-casino-2009.json](./210066-hoyle-casino-2009.json) |
 | Hoyle Casino 2010 | 210067 | [210067-hoyle-casino-2010.json](./210067-hoyle-casino-2010.json) |
 | Hoyle Casino Games 2011 | 210068 | [210068-hoyle-casino-games-2011.json](./210068-hoyle-casino-games-2011.json) |
+| Hoyle Casino Games 2013 | 46725 | [46725-hoyle-casino-games-2013.json](./46725-hoyle-casino-games-2013.json) |
 | Hoyle Classic Board Game Collection 2 | 89692 | [89692-hoyle-classic-board-game-collection-2.json](./89692-hoyle-classic-board-game-collection-2.json) |
 | Hoyle Classic Board Games | 131359 | [131359-hoyle-classic-board-games.json](./131359-hoyle-classic-board-games.json) |
 | Hoyle Craps and Blackjack | 210057 | [210057-hoyle-craps-and-blackjack.json](./210057-hoyle-craps-and-blackjack.json) |
