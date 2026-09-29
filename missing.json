@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T02:19:03.565Z",
-  "total_missing": 137988,
+  "generated_at": "2026-09-29T02:33:53.424Z",
+  "total_missing": 138038,
   "games": [
     {
       "igdb_id": 186066,
@@ -54441,6 +54441,11 @@
       "igdb_id": 59495,
       "game_name": "Battles in Italy",
       "file": "missing/B/59495-battles-in-italy.json"
+    },
+    {
+      "igdb_id": 53926,
+      "game_name": "Battles in Normandy",
+      "file": "missing/B/53926-battles-in-normandy.json"
     },
     {
       "igdb_id": 611,
@@ -112058,6 +112063,11 @@
       "file": "missing/C/127897-company-of-heroes-far-east-war.json"
     },
     {
+      "igdb_id": 53928,
+      "game_name": "Company of Heroes: Game of the Year Edition",
+      "file": "missing/C/53928-company-of-heroes-game-of-the-year-edition.json"
+    },
+    {
       "igdb_id": 21804,
       "game_name": "Company of Heroes: Gold Edition",
       "file": "missing/C/21804-company-of-heroes-gold-edition.json"
@@ -133043,6 +133053,11 @@
       "file": "missing/D/12990-dark-sceptre.json"
     },
     {
+      "igdb_id": 53912,
+      "game_name": "Dark Secrets",
+      "file": "missing/D/53912-dark-secrets.json"
+    },
+    {
       "igdb_id": 399627,
       "game_name": "Dark Secrets Mystery Files",
       "file": "missing/D/399627-dark-secrets-mystery-files.json"
@@ -151398,6 +151413,11 @@
       "file": "missing/D/63272-disneys-donald-duck-advance.json"
     },
     {
+      "igdb_id": 53943,
+      "game_name": "Disney's Donald Duck: Goin' Quackers",
+      "file": "missing/D/53943-disneys-donald-duck-goin-quackers.json"
+    },
+    {
       "igdb_id": 49942,
       "game_name": "Disney's Doug: Doug's Big Game",
       "file": "missing/D/49942-disneys-doug-dougs-big-game.json"
@@ -169021,6 +169041,11 @@
       "igdb_id": 19476,
       "game_name": "Dungeons of Avalon II - The Island of Darkness",
       "file": "missing/D/19476-dungeons-of-avalon-ii-the-island-of-darkness.json"
+    },
+    {
+      "igdb_id": 53929,
+      "game_name": "Dungeons of Betrayal",
+      "file": "missing/D/53929-dungeons-of-betrayal.json"
     },
     {
       "igdb_id": 68203,
@@ -311246,6 +311271,11 @@
       "igdb_id": 220836,
       "game_name": "L.S.S II",
       "file": "missing/L/220836-l-s-s-ii.json"
+    },
+    {
+      "igdb_id": 53925,
+      "game_name": "L'Affaire...",
+      "file": "missing/L/53925-laffaire.json"
     },
     {
       "igdb_id": 202682,
@@ -596153,6 +596183,11 @@
       "file": "missing/T/3230-the-night-of-the-rabbit.json"
     },
     {
+      "igdb_id": 53768,
+      "game_name": "The Night of the Rabbit: Premium Edition",
+      "file": "missing/T/53768-the-night-of-the-rabbit-premium-edition.json"
+    },
+    {
       "igdb_id": 260086,
       "game_name": "The Night Owl Murder",
       "file": "missing/T/260086-the-night-owl-murder.json"
@@ -596271,6 +596306,11 @@
       "igdb_id": 225293,
       "game_name": "The No Button Game",
       "file": "missing/T/225293-the-no-button-game.json"
+    },
+    {
+      "igdb_id": 53767,
+      "game_name": "The No Goblin Complete Collection",
+      "file": "missing/T/53767-the-no-goblin-complete-collection.json"
     },
     {
       "igdb_id": 316412,
@@ -598148,6 +598188,11 @@
       "file": "missing/T/113491-the-puzzle-story.json"
     },
     {
+      "igdb_id": 53769,
+      "game_name": "The Puzzle Trouble",
+      "file": "missing/T/53769-the-puzzle-trouble.json"
+    },
+    {
       "igdb_id": 365866,
       "game_name": "The Puzzler",
       "file": "missing/T/365866-the-puzzler.json"
@@ -598326,6 +598371,11 @@
       "igdb_id": 124083,
       "game_name": "The Quest Trio",
       "file": "missing/T/124083-the-quest-trio.json"
+    },
+    {
+      "igdb_id": 53770,
+      "game_name": "The Quest: Deluxe Edition",
+      "file": "missing/T/53770-the-quest-deluxe-edition.json"
     },
     {
       "igdb_id": 205602,
@@ -620183,6 +620233,11 @@
       "file": "missing/T/44568-tom-clancys-splinter-cell-blacklist-5th-freedom-edition.json"
     },
     {
+      "igdb_id": 53944,
+      "game_name": "Tom Clancy's Splinter Cell: Blacklist - Digital Deluxe Edition",
+      "file": "missing/T/53944-tom-clancys-splinter-cell-blacklist-digital-deluxe-edition.json"
+    },
+    {
       "igdb_id": 76983,
       "game_name": "Tom Clancy's Splinter Cell: Blacklist - Upper Echelon Edition",
       "file": "missing/T/76983-tom-clancys-splinter-cell-blacklist-upper-echelon-edition.json"
@@ -626701,6 +626756,11 @@
       "igdb_id": 179581,
       "game_name": "Traffic Jammy",
       "file": "missing/T/179581-traffic-jammy.json"
+    },
+    {
+      "igdb_id": 53945,
+      "game_name": "Traffic Manager",
+      "file": "missing/T/53945-traffic-manager.json"
     },
     {
       "igdb_id": 283212,
@@ -639273,6 +639333,11 @@
       "file": "missing/U/150160-ubok.json"
     },
     {
+      "igdb_id": 53946,
+      "game_name": "Ubongo Puzzle Adventure",
+      "file": "missing/U/53946-ubongo-puzzle-adventure.json"
+    },
+    {
       "igdb_id": 90683,
       "game_name": "UBRocks",
       "file": "missing/U/90683-ubrocks.json"
@@ -640288,9 +640353,19 @@
       "file": "missing/U/206057-ultimate-mahjongg-10.json"
     },
     {
+      "igdb_id": 53942,
+      "game_name": "Ultimate Mahjongg 20",
+      "file": "missing/U/53942-ultimate-mahjongg-20.json"
+    },
+    {
       "igdb_id": 133385,
       "game_name": "Ultimate MMA",
       "file": "missing/U/133385-ultimate-mma.json"
+    },
+    {
+      "igdb_id": 53941,
+      "game_name": "Ultimate Monster Trucks",
+      "file": "missing/U/53941-ultimate-monster-trucks.json"
     },
     {
       "igdb_id": 1621,
@@ -640381,6 +640456,11 @@
       "igdb_id": 124111,
       "game_name": "Ultimate Puzzle Games: Sudoku Edition",
       "file": "missing/U/124111-ultimate-puzzle-games-sudoku-edition.json"
+    },
+    {
+      "igdb_id": 53940,
+      "game_name": "Ultimate Puzzles 1500",
+      "file": "missing/U/53940-ultimate-puzzles-1500.json"
     },
     {
       "igdb_id": 99538,
@@ -642993,6 +643073,11 @@
       "file": "missing/U/273365-underground-waifus-tcg.json"
     },
     {
+      "igdb_id": 53938,
+      "game_name": "Underground-Mining-Simulator 2011",
+      "file": "missing/U/53938-underground-mining-simulator-2011.json"
+    },
+    {
       "igdb_id": 244488,
       "game_name": "Undergrown",
       "file": "missing/U/244488-undergrown.json"
@@ -645496,6 +645581,11 @@
       "igdb_id": 163811,
       "game_name": "Unsung Knight",
       "file": "missing/U/163811-unsung-knight.json"
+    },
+    {
+      "igdb_id": 53927,
+      "game_name": "Unsung Story",
+      "file": "missing/U/53927-unsung-story.json"
     },
     {
       "igdb_id": 113881,
@@ -648798,6 +648888,21 @@
       "file": "missing/V/66037-vampire-rush.json"
     },
     {
+      "igdb_id": 53936,
+      "game_name": "Vampire Saga 3: Break Out",
+      "file": "missing/V/53936-vampire-saga-3-break-out.json"
+    },
+    {
+      "igdb_id": 53935,
+      "game_name": "Vampire Saga: Pandora's Box",
+      "file": "missing/V/53935-vampire-saga-pandoras-box.json"
+    },
+    {
+      "igdb_id": 53934,
+      "game_name": "Vampire Saga: Welcome to Hell Lock",
+      "file": "missing/V/53934-vampire-saga-welcome-to-hell-lock.json"
+    },
+    {
       "igdb_id": 208955,
       "game_name": "Vampire Slasher Hero",
       "file": "missing/V/208955-vampire-slasher-hero.json"
@@ -649008,6 +649113,11 @@
       "file": "missing/V/73314-vampires-castle-adventure.json"
     },
     {
+      "igdb_id": 53924,
+      "game_name": "Vampire's Empire",
+      "file": "missing/V/53924-vampires-empire.json"
+    },
+    {
       "igdb_id": 390260,
       "game_name": "Vampire's Kiss: Time Paradox",
       "file": "missing/V/390260-vampires-kiss-time-paradox.json"
@@ -649041,6 +649151,11 @@
       "igdb_id": 80474,
       "game_name": "Vampires Dawn 2: Ancient Blood",
       "file": "missing/V/80474-vampires-dawn-2-ancient-blood.json"
+    },
+    {
+      "igdb_id": 53933,
+      "game_name": "Vampires vs. Zombies",
+      "file": "missing/V/53933-vampires-vs-zombies.json"
     },
     {
       "igdb_id": 68009,
@@ -650393,6 +650508,11 @@
       "file": "missing/V/40748-venetian-blinds.json"
     },
     {
+      "igdb_id": 53932,
+      "game_name": "Venetica: Gold Edition",
+      "file": "missing/V/53932-venetica-gold-edition.json"
+    },
+    {
       "igdb_id": 137531,
       "game_name": "Venge.io",
       "file": "missing/V/137531-venge-io.json"
@@ -650826,6 +650946,11 @@
       "igdb_id": 73252,
       "game_name": "Versailles II: Testament of the King",
       "file": "missing/V/73252-versailles-ii-testament-of-the-king.json"
+    },
+    {
+      "igdb_id": 53931,
+      "game_name": "Versailles Mysteries - The Royal Spy",
+      "file": "missing/V/53931-versailles-mysteries-the-royal-spy.json"
     },
     {
       "igdb_id": 11033,
@@ -659738,9 +659863,19 @@
       "file": "missing/W/53891-warhammer-40-000-armageddon-golgotha.json"
     },
     {
+      "igdb_id": 53892,
+      "game_name": "Warhammer 40,000: Armageddon - Imperium Complete",
+      "file": "missing/W/53892-warhammer-40-000-armageddon-imperium-complete.json"
+    },
+    {
       "igdb_id": 53888,
       "game_name": "Warhammer 40,000: Armageddon - Ork Hunters",
       "file": "missing/W/53888-warhammer-40-000-armageddon-ork-hunters.json"
+    },
+    {
+      "igdb_id": 53893,
+      "game_name": "Warhammer 40,000: Armageddon - Vulkan's Wrath",
+      "file": "missing/W/53893-warhammer-40-000-armageddon-vulkans-wrath.json"
     },
     {
       "igdb_id": 175183,
@@ -659818,6 +659953,26 @@
       "file": "missing/W/257-warhammer-40-000-dawn-of-war.json"
     },
     {
+      "igdb_id": 53894,
+      "game_name": "Warhammer 40,000: Dawn of War - Master Collection",
+      "file": "missing/W/53894-warhammer-40-000-dawn-of-war-master-collection.json"
+    },
+    {
+      "igdb_id": 53896,
+      "game_name": "Warhammer 40,000: Dawn of War Franchise Collection",
+      "file": "missing/W/53896-warhammer-40-000-dawn-of-war-franchise-collection.json"
+    },
+    {
+      "igdb_id": 53897,
+      "game_name": "Warhammer 40,000: Dawn of War II - Grand Master Collection",
+      "file": "missing/W/53897-warhammer-40-000-dawn-of-war-ii-grand-master-collection.json"
+    },
+    {
+      "igdb_id": 53899,
+      "game_name": "Warhammer 40,000: Dawn of War II - Master Collection",
+      "file": "missing/W/53899-warhammer-40-000-dawn-of-war-ii-master-collection.json"
+    },
+    {
       "igdb_id": 163389,
       "game_name": "Warhammer 40,000: Dawn of War II - Retribution Chaos Space Marines Race Pack",
       "file": "missing/W/163389-warhammer-40-000-dawn-of-war-ii-retribution-chaos-space-marines-race-pack.json"
@@ -659841,6 +659996,11 @@
       "igdb_id": 163394,
       "game_name": "Warhammer 40,000: Dawn of War II - Retribution Space Marines Race Pack",
       "file": "missing/W/163394-warhammer-40-000-dawn-of-war-ii-retribution-space-marines-race-pack.json"
+    },
+    {
+      "igdb_id": 53898,
+      "game_name": "Warhammer 40,000: Dawn of War II - Retribution: Complete DLC Collection",
+      "file": "missing/W/53898-warhammer-40-000-dawn-of-war-ii-retribution-complete-dlc-collection.json"
     },
     {
       "igdb_id": 163383,
@@ -659876,6 +660036,16 @@
       "igdb_id": 225868,
       "game_name": "Warhammer 40,000: Eternal Crusade - Belial War Pack",
       "file": "missing/W/225868-warhammer-40-000-eternal-crusade-belial-war-pack.json"
+    },
+    {
+      "igdb_id": 53902,
+      "game_name": "Warhammer 40,000: Eternal Crusade - Imperium Edition",
+      "file": "missing/W/53902-warhammer-40-000-eternal-crusade-imperium-edition.json"
+    },
+    {
+      "igdb_id": 53901,
+      "game_name": "Warhammer 40,000: Eternal Crusade - Squadron Edition",
+      "file": "missing/W/53901-warhammer-40-000-eternal-crusade-squadron-edition.json"
     },
     {
       "igdb_id": 9550,
@@ -659953,6 +660123,11 @@
       "file": "missing/W/11450-warhammer-40-000-regicide.json"
     },
     {
+      "igdb_id": 53903,
+      "game_name": "Warhammer 40,000: Regicide - Deluxe Edition",
+      "file": "missing/W/53903-warhammer-40-000-regicide-deluxe-edition.json"
+    },
+    {
       "igdb_id": 302168,
       "game_name": "Warhammer 40,000: Rogue Trader - Void Shadows",
       "file": "missing/W/302168-warhammer-40-000-rogue-trader-void-shadows.json"
@@ -659993,6 +660168,11 @@
       "file": "missing/W/225870-warhammer-40-000-space-marine-death-guard-champion-chapter-pack-dlc.json"
     },
     {
+      "igdb_id": 53905,
+      "game_name": "Warhammer 40,000: Space Marine - Dreadnought",
+      "file": "missing/W/53905-warhammer-40-000-space-marine-dreadnought.json"
+    },
+    {
       "igdb_id": 225872,
       "game_name": "Warhammer 40,000: Space Marine - Emperor’s Elite Pack",
       "file": "missing/W/225872-warhammer-40-000-space-marine-emperor-s-elite-pack.json"
@@ -660026,6 +660206,11 @@
       "igdb_id": 382902,
       "game_name": "Warhammer 40,000: Space Marine 2 - 2-Year Anniversary Edition",
       "file": "missing/W/382902-warhammer-40-000-space-marine-2-2-year-anniversary-edition.json"
+    },
+    {
+      "igdb_id": 53904,
+      "game_name": "Warhammer 40,000: Space Marine Collection",
+      "file": "missing/W/53904-warhammer-40-000-space-marine-collection.json"
     },
     {
       "igdb_id": 230829,
@@ -660133,6 +660318,11 @@
       "file": "missing/W/394515-warhammer-blood-bowl.json"
     },
     {
+      "igdb_id": 53906,
+      "game_name": "Warhammer Quest Deluxe",
+      "file": "missing/W/53906-warhammer-quest-deluxe.json"
+    },
+    {
       "igdb_id": 151194,
       "game_name": "Warhammer Quest: Silver Tower",
       "file": "missing/W/151194-warhammer-quest-silver-tower.json"
@@ -660146,6 +660336,11 @@
       "igdb_id": 196057,
       "game_name": "Warhammer Underworlds: Online - Warband: Mollog's Mob",
       "file": "missing/W/196057-warhammer-underworlds-online-warband-mollogs-mob.json"
+    },
+    {
+      "igdb_id": 53907,
+      "game_name": "Warhammer: Arcane Magic Deluxe",
+      "file": "missing/W/53907-warhammer-arcane-magic-deluxe.json"
     },
     {
       "igdb_id": 28882,
@@ -660403,6 +660598,11 @@
       "file": "missing/W/19773-warlock.json"
     },
     {
+      "igdb_id": 53910,
+      "game_name": "Warlock II: Great Mage Edition",
+      "file": "missing/W/53910-warlock-ii-great-mage-edition.json"
+    },
+    {
       "igdb_id": 75228,
       "game_name": "Warlock Quest II",
       "file": "missing/W/75228-warlock-quest-ii.json"
@@ -660421,6 +660621,11 @@
       "igdb_id": 2072,
       "game_name": "Warlock: Master of the Arcane",
       "file": "missing/W/2072-warlock-master-of-the-arcane.json"
+    },
+    {
+      "igdb_id": 53909,
+      "game_name": "Warlock: Master of the Arcane - Complete Edition",
+      "file": "missing/W/53909-warlock-master-of-the-arcane-complete-edition.json"
     },
     {
       "igdb_id": 57697,
@@ -661141,6 +661346,11 @@
       "igdb_id": 193189,
       "game_name": "Wars Across the World: Dublin 1916",
       "file": "missing/W/193189-wars-across-the-world-dublin-1916.json"
+    },
+    {
+      "igdb_id": 53922,
+      "game_name": "Wars Across the World: Expanded Collection",
+      "file": "missing/W/53922-wars-across-the-world-expanded-collection.json"
     },
     {
       "igdb_id": 193191,
@@ -662668,6 +662878,11 @@
       "file": "missing/W/165049-we-are-all-but-bones-and-dust.json"
     },
     {
+      "igdb_id": 53921,
+      "game_name": "We Are All Individuals",
+      "file": "missing/W/53921-we-are-all-individuals.json"
+    },
+    {
       "igdb_id": 338388,
       "game_name": "We are Blob",
       "file": "missing/W/338388-we-are-blob.json"
@@ -663163,6 +663378,16 @@
       "file": "missing/W/33164-weather-lord-following-the-princess-collectors-edition.json"
     },
     {
+      "igdb_id": 53920,
+      "game_name": "Weather Lord: Graduation",
+      "file": "missing/W/53920-weather-lord-graduation.json"
+    },
+    {
+      "igdb_id": 53919,
+      "game_name": "Weather Lord: Graduation - Collector's Edition",
+      "file": "missing/W/53919-weather-lord-graduation-collectors-edition.json"
+    },
+    {
       "igdb_id": 46872,
       "game_name": "Weather Lord: Hidden Realm",
       "file": "missing/W/46872-weather-lord-hidden-realm.json"
@@ -663171,6 +663396,16 @@
       "igdb_id": 46873,
       "game_name": "Weather Lord: In Search of the Shaman",
       "file": "missing/W/46873-weather-lord-in-search-of-the-shaman.json"
+    },
+    {
+      "igdb_id": 53918,
+      "game_name": "Weather Lord: Legendary Hero",
+      "file": "missing/W/53918-weather-lord-legendary-hero.json"
+    },
+    {
+      "igdb_id": 53917,
+      "game_name": "Weather Lord: Royal Holidays",
+      "file": "missing/W/53917-weather-lord-royal-holidays.json"
     },
     {
       "igdb_id": 362919,
@@ -664276,6 +664511,11 @@
       "igdb_id": 256334,
       "game_name": "West Ride",
       "file": "missing/W/256334-west-ride.json"
+    },
+    {
+      "igdb_id": 53916,
+      "game_name": "West Somerset Railway Route",
+      "file": "missing/W/53916-west-somerset-railway-route.json"
     },
     {
       "igdb_id": 127019,
@@ -666508,6 +666748,11 @@
       "file": "missing/W/9369-whispering-willows.json"
     },
     {
+      "igdb_id": 53915,
+      "game_name": "Whispering Willows: Deluxe Edition",
+      "file": "missing/W/53915-whispering-willows-deluxe-edition.json"
+    },
+    {
       "igdb_id": 25335,
       "game_name": "Whispers",
       "file": "missing/W/25335-whispers.json"
@@ -668331,6 +668576,11 @@
       "igdb_id": 163274,
       "game_name": "Wildlife Park 2: Kitz (fawn)",
       "file": "missing/W/163274-wildlife-park-2-kitz-fawn.json"
+    },
+    {
+      "igdb_id": 53913,
+      "game_name": "Wildlife Park 2: Ultimate Edition",
+      "file": "missing/W/53913-wildlife-park-2-ultimate-edition.json"
     },
     {
       "igdb_id": 17177,
