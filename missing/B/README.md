@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Carbonara | 404968 | [404968-baby-carbonara.json](./404968-baby-carbonara.json) |
 | Baby Escape | 400220 | [400220-baby-escape.json](./400220-baby-escape.json) |
 | Baby Felix Creativity Center | 200456 | [200456-baby-felix-creativity-center.json](./200456-baby-felix-creativity-center.json) |
+| Baby Felix Halloween | 50033 | [50033-baby-felix-halloween.json](./50033-baby-felix-halloween.json) |
 | Baby Ghost: Jump Away With Jewel | 175361 | [175361-baby-ghost-jump-away-with-jewel.json](./175361-baby-ghost-jump-away-with-jewel.json) |
 | Baby Goat Billy | 159826 | [159826-baby-goat-billy.json](./159826-baby-goat-billy.json) |
 | Baby Hands | 68834 | [68834-baby-hands.json](./68834-baby-hands.json) |
@@ -697,6 +698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Fight | 269842 | [269842-balloon-fight.json](./269842-balloon-fight.json) |
 | Balloon Fight | 273083 | [273083-balloon-fight.json](./273083-balloon-fight.json) |
 | Balloon Fight | 2735 | [2735-balloon-fight.json](./2735-balloon-fight.json) |
+| Balloon Fight GB | 50061 | [50061-balloon-fight-gb.json](./50061-balloon-fight-gb.json) |
 | Balloon Fight-e | 170004 | [170004-balloon-fight-e.json](./170004-balloon-fight-e.json) |
 | Balloon Fighter | 122196 | [122196-balloon-fighter.json](./122196-balloon-fighter.json) |
 | Balloon Gun | 63847 | [63847-balloon-gun.json](./63847-balloon-gun.json) |
