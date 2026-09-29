@@ -1091,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paris Attack | 40764 | [40764-paris-attack.json](./40764-paris-attack.json) |
 | Paris Belle Epoque | 303270 | [303270-paris-belle-epoque.json](./303270-paris-belle-epoque.json) |
 | Paris Craft: Exploration of City of Love & Art | 96012 | [96012-paris-craft-exploration-of-city-of-love-and-art.json](./96012-paris-craft-exploration-of-city-of-love-and-art.json) |
+| Paris in Danger | 23966 | [23966-paris-in-danger.json](./23966-paris-in-danger.json) |
 | Paris Saint-Germain Club Football 2005 | 267911 | [267911-paris-saint-germain-club-football-2005.json](./267911-paris-saint-germain-club-football-2005.json) |
 | Paris Transylvania | 258189 | [258189-paris-transylvania.json](./258189-paris-transylvania.json) |
 | Paris-Dakar Rally | 43469 | [43469-paris-dakar-rally.json](./43469-paris-dakar-rally.json) |
@@ -1212,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parseword | 394540 | [394540-parseword.json](./394540-parseword.json) |
 | Parsnip | 96108 | [96108-parsnip.json](./96108-parsnip.json) |
 | Part of the Flock | 325700 | [325700-part-of-the-flock.json](./325700-part-of-the-flock.json) |
+| Parthian Kings | 23963 | [23963-parthian-kings.json](./23963-parthian-kings.json) |
 | Partia 3 | 197346 | [197346-partia-3.json](./197346-partia-3.json) |
 | Partial Control | 118358 | [118358-partial-control.json](./118358-partial-control.json) |
 | Partical City Guardians | 32245 | [32245-partical-city-guardians.json](./32245-partical-city-guardians.json) |
@@ -5888,6 +5890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Instinct Matrimelee | 39543 | [39543-power-instinct-matrimelee.json](./39543-power-instinct-matrimelee.json) |
 | Power Level | 177863 | [177863-power-level.json](./177863-power-level.json) |
 | Power Link VR | 31856 | [31856-power-link-vr.json](./31856-power-link-vr.json) |
+| Power Lords | 24005 | [24005-power-lords.json](./24005-power-lords.json) |
 | Power Lords: Quest for Volcan | 40924 | [40924-power-lords-quest-for-volcan.json](./40924-power-lords-quest-for-volcan.json) |
 | Power Move Pro Wrestling | 44763 | [44763-power-move-pro-wrestling.json](./44763-power-move-pro-wrestling.json) |
 | Power Network Tycoon | 258523 | [258523-power-network-tycoon.json](./258523-power-network-tycoon.json) |
