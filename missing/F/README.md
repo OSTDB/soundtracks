@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falskaar | 313266 | [313266-falskaar.json](./313266-falskaar.json) |
 | Falta | 169764 | [169764-falta.json](./169764-falta.json) |
 | Famaze | 9170 | [9170-famaze.json](./9170-famaze.json) |
+| Fame Academy: Dance Edition | 44721 | [44721-fame-academy-dance-edition.json](./44721-fame-academy-dance-edition.json) |
 | Fame or Folly | 394181 | [394181-fame-or-folly.json](./394181-fame-or-folly.json) |
 | Famicom Bunko: Hajimari no Mori | 42245 | [42245-famicom-bunko-hajimari-no-mori.json](./42245-famicom-bunko-hajimari-no-mori.json) |
 | Famicom Fighters | 307666 | [307666-famicom-fighters.json](./307666-famicom-fighters.json) |
@@ -2616,6 +2617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Pro Wrestling World: World Wonder Ring Stardom Collaboration | 170442 | [170442-fire-pro-wrestling-world-world-wonder-ring-stardom-collaboration.json](./170442-fire-pro-wrestling-world-world-wonder-ring-stardom-collaboration.json) |
 | Fire Pro Wrestling World: World Wonder Ring Stardom Collaboration Part 2 | 170446 | [170446-fire-pro-wrestling-world-world-wonder-ring-stardom-collaboration-part-2.json](./170446-fire-pro-wrestling-world-world-wonder-ring-stardom-collaboration-part-2.json) |
 | Fire Pro Wrestling World: Yoshihiro Takayama Charity DLC Part 2 | 170443 | [170443-fire-pro-wrestling-world-yoshihiro-takayama-charity-dlc-part-2.json](./170443-fire-pro-wrestling-world-yoshihiro-takayama-charity-dlc-part-2.json) |
+| Fire Pro Wrestling: Iron Slam '96 | 44762 | [44762-fire-pro-wrestling-iron-slam-96.json](./44762-fire-pro-wrestling-iron-slam-96.json) |
 | Fire Racing | 285464 | [285464-fire-racing.json](./285464-fire-racing.json) |
 | Fire Sale | 165694 | [165694-fire-sale.json](./165694-fire-sale.json) |
 | Fire Shark | 261849 | [261849-fire-shark.json](./261849-fire-shark.json) |
@@ -4793,6 +4795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Hime | 90144 | [90144-fox-hime.json](./90144-fox-hime.json) |
 | Fox Hime Zero | 102325 | [102325-fox-hime-zero.json](./102325-fox-hime-zero.json) |
 | Fox Hunt Arena | 279686 | [279686-fox-hunt-arena.json](./279686-fox-hunt-arena.json) |
+| Fox Junction | 44726 | [44726-fox-junction.json](./44726-fox-junction.json) |
 | Fox n Forests | 21961 | [21961-fox-n-forests.json](./21961-fox-n-forests.json) |
 | Fox Runner Adventures | 237370 | [237370-fox-runner-adventures.json](./237370-fox-runner-adventures.json) |
 | Fox Soldier | 120955 | [120955-fox-soldier.json](./120955-fox-soldier.json) |
@@ -5884,6 +5887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funko Fusion: The Walking Dead Pack | 323395 | [323395-funko-fusion-the-walking-dead-pack.json](./323395-funko-fusion-the-walking-dead-pack.json) |
 | Funko Fusion: Trap Jaw | 323319 | [323319-funko-fusion-trap-jaw.json](./323319-funko-fusion-trap-jaw.json) |
 | Funky Bay - Farm & Adventure | 106356 | [106356-funky-bay-farm-and-adventure.json](./106356-funky-bay-farm-and-adventure.json) |
+| Funky Boxers | 44725 | [44725-funky-boxers.json](./44725-funky-boxers.json) |
 | Funky Fish | 39685 | [39685-funky-fish.json](./39685-funky-fish.json) |
 | Funky Karts | 107397 | [107397-funky-karts.json](./107397-funky-karts.json) |
 | Funky Lab Rat | 52227 | [52227-funky-lab-rat.json](./52227-funky-lab-rat.json) |
