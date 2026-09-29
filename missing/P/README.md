@@ -6596,6 +6596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Production Line: Doors that go like this | 124782 | [124782-production-line-doors-that-go-like-this.json](./124782-production-line-doors-that-go-like-this.json) |
 | Profanation | 304127 | [304127-profanation.json](./304127-profanation.json) |
 | Profession investigator | 190967 | [190967-profession-investigator.json](./190967-profession-investigator.json) |
+| Professional Baseball Tactics | 57753 | [57753-professional-baseball-tactics.json](./57753-professional-baseball-tactics.json) |
 | Professional Boyfriend | 239869 | [239869-professional-boyfriend.json](./239869-professional-boyfriend.json) |
 | Professional Bull Rider 2 | 71445 | [71445-professional-bull-rider-2.json](./71445-professional-bull-rider-2.json) |
 | Professional Bull Riding: Out of the Chute | 315719 | [315719-professional-bull-riding-out-of-the-chute.json](./315719-professional-bull-riding-out-of-the-chute.json) |
@@ -7445,6 +7446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pump It Up Fiesta 2 | 62274 | [62274-pump-it-up-fiesta-2.json](./62274-pump-it-up-fiesta-2.json) |
 | Pump It Up Fiesta EX | 243135 | [243135-pump-it-up-fiesta-ex.json](./243135-pump-it-up-fiesta-ex.json) |
 | Pump It Up Infinity | 57715 | [57715-pump-it-up-infinity.json](./57715-pump-it-up-infinity.json) |
+| Pump It Up NX Absolute | 57716 | [57716-pump-it-up-nx-absolute.json](./57716-pump-it-up-nx-absolute.json) |
 | Pump It Up NX2: Next Xenesis | 57714 | [57714-pump-it-up-nx2-next-xenesis.json](./57714-pump-it-up-nx2-next-xenesis.json) |
 | Pump It Up Phoenix 2 | 409779 | [409779-pump-it-up-phoenix-2.json](./409779-pump-it-up-phoenix-2.json) |
 | Pump It Up Prime 2 | 97387 | [97387-pump-it-up-prime-2.json](./97387-pump-it-up-prime-2.json) |
@@ -8069,6 +8071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyrus: Alletiders Jul | 129780 | [129780-pyrus-alletiders-jul.json](./129780-pyrus-alletiders-jul.json) |
 | Pyschotic Adventures | 53485 | [53485-pyschotic-adventures.json](./53485-pyschotic-adventures.json) |
 | PySol Fan Club Edition | 141728 | [141728-pysol-fan-club-edition.json](./141728-pysol-fan-club-edition.json) |
+| Pythagorea | 57739 | [57739-pythagorea.json](./57739-pythagorea.json) |
 | Pythagorea 60° | 309096 | [309096-pythagorea-60.json](./309096-pythagorea-60.json) |
 | Pythagorean Complex | 130288 | [130288-pythagorean-complex.json](./130288-pythagorean-complex.json) |
 | Pythian | 163922 | [163922-pythian.json](./163922-pythian.json) |
