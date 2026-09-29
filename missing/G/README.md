@@ -1061,9 +1061,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of War 2: Game of the Year Edition | 47465 | [47465-gears-of-war-2-game-of-the-year-edition.json](./47465-gears-of-war-2-game-of-the-year-edition.json) |
 | Gears of War 2: Limited Edition | 41599 | [41599-gears-of-war-2-limited-edition.json](./41599-gears-of-war-2-limited-edition.json) |
 | Gears of War 2: Snowblind Map Pack | 299998 | [299998-gears-of-war-2-snowblind-map-pack.json](./299998-gears-of-war-2-snowblind-map-pack.json) |
+| Gears of War 3: Epic Edition | 47456 | [47456-gears-of-war-3-epic-edition.json](./47456-gears-of-war-3-epic-edition.json) |
 | Gears of War 3: Fenix Rising | 20656 | [20656-gears-of-war-3-fenix-rising.json](./20656-gears-of-war-3-fenix-rising.json) |
 | Gears of War 4: Amazon Exclusive Collector's Edition | 51540 | [51540-gears-of-war-4-amazon-exclusive-collectors-edition.json](./51540-gears-of-war-4-amazon-exclusive-collectors-edition.json) |
 | Gears of War: E-Day | 305160 | [305160-gears-of-war-e-day.json](./305160-gears-of-war-e-day.json) |
+| Gears of War: Limited Collector's Edition | 47450 | [47450-gears-of-war-limited-collectors-edition.json](./47450-gears-of-war-limited-collectors-edition.json) |
 | Gears of War: Reloaded | 342721 | [342721-gears-of-war-reloaded.json](./342721-gears-of-war-reloaded.json) |
 | Gears of War: Ultimate Edition - Deluxe Version | 164770 | [164770-gears-of-war-ultimate-edition-deluxe-version.json](./164770-gears-of-war-ultimate-edition-deluxe-version.json) |
 | Gears of War: Ultimate Edition and Rare Replay | 41613 | [41613-gears-of-war-ultimate-edition-and-rare-replay.json](./41613-gears-of-war-ultimate-edition-and-rare-replay.json) |
