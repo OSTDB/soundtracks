@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Recipe for Survival | 356142 | [356142-a-recipe-for-survival.json](./356142-a-recipe-for-survival.json) |
 | A Red Boat | 229918 | [229918-a-red-boat.json](./229918-a-red-boat.json) |
 | A Regular Pinball Game | 349474 | [349474-a-regular-pinball-game.json](./349474-a-regular-pinball-game.json) |
+| A Ride Into the Mountains | 41507 | [41507-a-ride-into-the-mountains.json](./41507-a-ride-into-the-mountains.json) |
 | A Ride to Love | 140536 | [140536-a-ride-to-love.json](./140536-a-ride-to-love.json) |
 | A Right to Rule | 347228 | [347228-a-right-to-rule.json](./347228-a-right-to-rule.json) |
 | A Rip In Time | 50751 | [50751-a-rip-in-time.json](./50751-a-rip-in-time.json) |
@@ -2575,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Hordes | 99390 | [99390-alien-hordes.json](./99390-alien-hordes.json) |
 | Alien Hunt | 166706 | [166706-alien-hunt.json](./166706-alien-hunt.json) |
 | Alien Infection | 120915 | [120915-alien-infection.json](./120915-alien-infection.json) |
+| Alien Invaders Plus | 41533 | [41533-alien-invaders-plus.json](./41533-alien-invaders-plus.json) |
 | Alien Invasion | 273129 | [273129-alien-invasion.json](./273129-alien-invasion.json) |
 | Alien Invasion | 94885 | [94885-alien-invasion.json](./94885-alien-invasion.json) |
 | Alien Invasion 3D Part 2 | 126561 | [126561-alien-invasion-3d-part-2.json](./126561-alien-invasion-3d-part-2.json) |
@@ -3037,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpine Crawler Wild | 174199 | [174199-alpine-crawler-wild.json](./174199-alpine-crawler-wild.json) |
 | Alpine Crawler World | 174342 | [174342-alpine-crawler-world.json](./174342-alpine-crawler-world.json) |
 | Alpine Racer 3 | 68269 | [68269-alpine-racer-3.json](./68269-alpine-racer-3.json) |
+| Alpine Skiing | 41532 | [41532-alpine-skiing.json](./41532-alpine-skiing.json) |
 | Alpine Sky | 352793 | [352793-alpine-sky.json](./352793-alpine-sky.json) |
 | Alpine Trail | 87608 | [87608-alpine-trail.json](./87608-alpine-trail.json) |
 | Alpine Train 3D | 90709 | [90709-alpine-train-3d.json](./90709-alpine-train-3d.json) |
@@ -3242,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Penguin DX | 279579 | [279579-amazing-penguin-dx.json](./279579-amazing-penguin-dx.json) |
 | Amazing Pets Bundle | 212788 | [212788-amazing-pets-bundle.json](./212788-amazing-pets-bundle.json) |
 | Amazing Pyramids | 385293 | [385293-amazing-pyramids.json](./385293-amazing-pyramids.json) |
+| Amazing Runner | 41510 | [41510-amazing-runner.json](./41510-amazing-runner.json) |
 | Amazing Soccer 2013 | 99146 | [99146-amazing-soccer-2013.json](./99146-amazing-soccer-2013.json) |
 | Amazing Space | 258210 | [258210-amazing-space.json](./258210-amazing-space.json) |
 | Amazing Studly Strikes | 235152 | [235152-amazing-studly-strikes.json](./235152-amazing-studly-strikes.json) |
@@ -3483,6 +3487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amogus TD 2: Defense of the Sus | 254757 | [254757-amogus-td-2-defense-of-the-sus.json](./254757-amogus-td-2-defense-of-the-sus.json) |
 | Amok | 33454 | [33454-amok.json](./33454-amok.json) |
 | Amok | 95404 | [95404-amok.json](./95404-amok.json) |
+| Amok! | 41531 | [41531-amok.json](./41531-amok.json) |
 | Amon | 75934 | [75934-amon.json](./75934-amon.json) |
 | Among Ashes | 258510 | [258510-among-ashes.json](./258510-among-ashes.json) |
 | Among Dots | 159063 | [159063-among-dots.json](./159063-among-dots.json) |
