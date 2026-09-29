@@ -2177,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel vs. Capcom: Infinite - Venom | 161318 | [161318-marvel-vs-capcom-infinite-venom.json](./161318-marvel-vs-capcom-infinite-venom.json) |
 | Marvel vs. Capcom: Infinite - Winter Soldier | 161321 | [161321-marvel-vs-capcom-infinite-winter-soldier.json](./161321-marvel-vs-capcom-infinite-winter-soldier.json) |
 | Marvel vs. Capcom: Infinite & Beyond | 305345 | [305345-marvel-vs-capcom-infinite-and-beyond.json](./305345-marvel-vs-capcom-infinite-and-beyond.json) |
+| Marvel: Avengers Alliance | 77283 | [77283-marvel-avengers-alliance.json](./77283-marvel-avengers-alliance.json) |
 | Marvel: Avengers Alliance 2 | 59380 | [59380-marvel-avengers-alliance-2.json](./59380-marvel-avengers-alliance-2.json) |
 | Marvel: Ultimate Alliance | 197883 | [197883-marvel-ultimate-alliance.json](./197883-marvel-ultimate-alliance.json) |
 | Marvel: Ultimate Alliance | 4999 | [4999-marvel-ultimate-alliance.json](./4999-marvel-ultimate-alliance.json) |
