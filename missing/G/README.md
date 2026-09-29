@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Senki Muryou | 49563 | [49563-gakuen-senki-muryou.json](./49563-gakuen-senki-muryou.json) |
 | Gakuen Sentai Solblast | 322189 | [322189-gakuen-sentai-solblast.json](./322189-gakuen-sentai-solblast.json) |
 | Gakuin Makyo: High School Crisis | 322577 | [322577-gakuin-makyo-high-school-crisis.json](./322577-gakuin-makyo-high-school-crisis.json) |
+| Gal Guardians: Demon Purge | 212571 | [212571-gal-guardians-demon-purge.json](./212571-gal-guardians-demon-purge.json) |
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
 | Gal, Geek and Summer | 364078 | [364078-gal-geek-and-summer.json](./364078-gal-geek-and-summer.json) |
 | Gal*Gun 2 | 68279 | [68279-gal-gun-2.json](./68279-gal-gun-2.json) |
@@ -4780,6 +4781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunborg: Dark Matters | 151140 | [151140-gunborg-dark-matters.json](./151140-gunborg-dark-matters.json) |
 | GunBound | 26189 | [26189-gunbound.json](./26189-gunbound.json) |
 | GunBoxing | 392798 | [392798-gunboxing.json](./392798-gunboxing.json) |
+| Gunbrella | 200900 | [200900-gunbrella.json](./200900-gunbrella.json) |
 | Gunbrella: Deluxe Edition | 266822 | [266822-gunbrella-deluxe-edition.json](./266822-gunbrella-deluxe-edition.json) |
 | Gunbrick | 59838 | [59838-gunbrick.json](./59838-gunbrick.json) |
 | Guncaster | 142417 | [142417-guncaster.json](./142417-guncaster.json) |
