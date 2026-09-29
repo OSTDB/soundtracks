@@ -5359,6 +5359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poofie Plays God | 341563 | [341563-poofie-plays-god.json](./341563-poofie-plays-god.json) |
 | Poogers | 223131 | [223131-poogers.json](./223131-poogers.json) |
 | Pooh's Hundred Acre Wood Adventure | 326583 | [326583-poohs-hundred-acre-wood-adventure.json](./326583-poohs-hundred-acre-wood-adventure.json) |
+| Pooh's Party Game: In Search of the Treasure | 44745 | [44745-poohs-party-game-in-search-of-the-treasure.json](./44745-poohs-party-game-in-search-of-the-treasure.json) |
 | Pooking: Billiards City | 255757 | [255757-pooking-billiards-city.json](./255757-pooking-billiards-city.json) |
 | Pool | 235341 | [235341-pool.json](./235341-pool.json) |
 | Pool | 246502 | [246502-pool.json](./246502-pool.json) |
@@ -5833,6 +5834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Instinct Matrimelee | 39543 | [39543-power-instinct-matrimelee.json](./39543-power-instinct-matrimelee.json) |
 | Power Level | 177863 | [177863-power-level.json](./177863-power-level.json) |
 | Power Link VR | 31856 | [31856-power-link-vr.json](./31856-power-link-vr.json) |
+| Power Move Pro Wrestling | 44763 | [44763-power-move-pro-wrestling.json](./44763-power-move-pro-wrestling.json) |
 | Power Network Tycoon | 258523 | [258523-power-network-tycoon.json](./258523-power-network-tycoon.json) |
 | Power of Logic | 90397 | [90397-power-of-logic.json](./90397-power-of-logic.json) |
 | Power of Seasons | 406717 | [406717-power-of-seasons.json](./406717-power-of-seasons.json) |
@@ -5890,6 +5892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers: Ninja Storm | 284965 | [284965-power-rangers-ninja-storm.json](./284965-power-rangers-ninja-storm.json) |
 | Power Rangers: To the Rescue | 220101 | [220101-power-rangers-to-the-rescue.json](./220101-power-rangers-to-the-rescue.json) |
 | Power Serve 3D Tennis | 20641 | [20641-power-serve-3d-tennis.json](./20641-power-serve-3d-tennis.json) |
+| Power Shovel | 44741 | [44741-power-shovel.json](./44741-power-shovel.json) |
 | Power Sink | 236781 | [236781-power-sink.json](./236781-power-sink.json) |
 | Power Slave | 45972 | [45972-power-slave.json](./45972-power-slave.json) |
 | Power Sled | 130872 | [130872-power-sled.json](./130872-power-sled.json) |
@@ -5962,6 +5965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerZ | 146317 | [146317-powerz.json](./146317-powerz.json) |
 | Poxel.io | 349951 | [349951-poxel-io.json](./349951-poxel-io.json) |
 | Poy Poy | 45092 | [45092-poy-poy.json](./45092-poy-poy.json) |
+| Poy Poy 2 | 44751 | [44751-poy-poy-2.json](./44751-poy-poy-2.json) |
 | Poyo Poyo Sonic | 317350 | [317350-poyo-poyo-sonic.json](./317350-poyo-poyo-sonic.json) |
 | Pozzo Jello Crusade | 31807 | [31807-pozzo-jello-crusade.json](./31807-pozzo-jello-crusade.json) |
 | PP Puncher | 158084 | [158084-pp-puncher.json](./158084-pp-puncher.json) |
