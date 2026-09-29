@@ -1256,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barnicle | 344380 | [344380-barnicle.json](./344380-barnicle.json) |
 | Barnstormer | 92849 | [92849-barnstormer.json](./92849-barnstormer.json) |
 | Barnstormers: Determined to Win | 241304 | [241304-barnstormers-determined-to-win.json](./241304-barnstormers-determined-to-win.json) |
+| Barnyard | 3794 | [3794-barnyard.json](./3794-barnyard.json) |
 | Barnyard Blaster Lite | 100327 | [100327-barnyard-blaster-lite.json](./100327-barnyard-blaster-lite.json) |
 | Barnyard Games For Kids | 96737 | [96737-barnyard-games-for-kids.json](./96737-barnyard-games-for-kids.json) |
 | Barnyard Mahjong 3 | 32156 | [32156-barnyard-mahjong-3.json](./32156-barnyard-mahjong-3.json) |
@@ -1599,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: The Video Game | 10510 | [10510-batman-the-video-game.json](./10510-batman-the-video-game.json) |
 | Batman: The Video Game | 49226 | [49226-batman-the-video-game.json](./49226-batman-the-video-game.json) |
 | Batman: Vengeance | 197872 | [197872-batman-vengeance.json](./197872-batman-vengeance.json) |
+| Batman: Vengeance | 5740 | [5740-batman-vengeance.json](./5740-batman-vengeance.json) |
 | Bato Battle | 416671 | [416671-bato-battle.json](./416671-bato-battle.json) |
 | Bato: Treasures of Tibet | 339837 | [339837-bato-treasures-of-tibet.json](./339837-bato-treasures-of-tibet.json) |
 | Bats | 118285 | [118285-bats.json](./118285-bats.json) |
@@ -5624,6 +5626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman GB | 135909 | [135909-bomberman-gb.json](./135909-bomberman-gb.json) |
 | Bomberman Generation | 3832 | [3832-bomberman-generation.json](./3832-bomberman-generation.json) |
 | Bomberman Hardball | 45295 | [45295-bomberman-hardball.json](./45295-bomberman-hardball.json) |
+| Bomberman Hero | 3453 | [3453-bomberman-hero.json](./3453-bomberman-hero.json) |
 | Bomberman II: The Revenge | 134538 | [134538-bomberman-ii-the-revenge.json](./134538-bomberman-ii-the-revenge.json) |
 | Bomberman Jetters: Game Collection | 49528 | [49528-bomberman-jetters-game-collection.json](./49528-bomberman-jetters-game-collection.json) |
 | Bomberman Kart | 43535 | [43535-bomberman-kart.json](./43535-bomberman-kart.json) |
@@ -7163,6 +7166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BRT: Billiards of the Round Table | 392952 | [392952-brt-billiards-of-the-round-table.json](./392952-brt-billiards-of-the-round-table.json) |
 | Bruce and Box | 300777 | [300777-bruce-and-box.json](./300777-bruce-and-box.json) |
 | Bruce Campbell vs Ganon | 251701 | [251701-bruce-campbell-vs-ganon.json](./251701-bruce-campbell-vs-ganon.json) |
+| Bruce Lee | 13447 | [13447-bruce-lee.json](./13447-bruce-lee.json) |
 | Bruce Lee: Dragon Warrior HD | 66740 | [66740-bruce-lee-dragon-warrior-hd.json](./66740-bruce-lee-dragon-warrior-hd.json) |
 | Bruce Lee: Quest of the Dragon | 5758 | [5758-bruce-lee-quest-of-the-dragon.json](./5758-bruce-lee-quest-of-the-dragon.json) |
 | Bruce Quest: The Secrets of the Outback | 379888 | [379888-bruce-quest-the-secrets-of-the-outback.json](./379888-bruce-quest-the-secrets-of-the-outback.json) |
