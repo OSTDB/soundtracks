@@ -1586,8 +1586,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westland Survival: Wind Spirit | 383361 | [383361-westland-survival-wind-spirit.json](./383361-westland-survival-wind-spirit.json) |
 | Westlife: Fan-O-Mania | 91892 | [91892-westlife-fan-o-mania.json](./91892-westlife-fan-o-mania.json) |
 | Westurn | 209460 | [209460-westurn.json](./209460-westurn.json) |
+| Westward 3 | 7530 | [7530-westward-3.json](./7530-westward-3.json) |
+| Westward II: Heroes of the Frontier | 7529 | [7529-westward-ii-heroes-of-the-frontier.json](./7529-westward-ii-heroes-of-the-frontier.json) |
 | Westward III: Gold Rush | 59436 | [59436-westward-iii-gold-rush.json](./59436-westward-iii-gold-rush.json) |
 | Westward Journey Online | 62181 | [62181-westward-journey-online.json](./62181-westward-journey-online.json) |
+| Westward Kingdoms | 7532 | [7532-westward-kingdoms.json](./7532-westward-kingdoms.json) |
 | Westworld | 90565 | [90565-westworld.json](./90565-westworld.json) |
 | Westworld | 97841 | [97841-westworld.json](./97841-westworld.json) |
 | Wet Candy | 408263 | [408263-wet-candy.json](./408263-wet-candy.json) |
@@ -2246,6 +2249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiktor TD | 178426 | [178426-wiktor-td.json](./178426-wiktor-td.json) |
 | Wilbur Scoville’s 151st Birthday | 375817 | [375817-wilbur-scoville-s-151st-birthday.json](./375817-wilbur-scoville-s-151st-birthday.json) |
 | Wild | 257947 | [257947-wild.json](./257947-wild.json) |
+| WiLD | 7608 | [7608-wild.json](./7608-wild.json) |
 | Wild 9 | 15840 | [15840-wild-9.json](./15840-wild-9.json) |
 | Wild Adventure | 208032 | [208032-wild-adventure.json](./208032-wild-adventure.json) |
 | Wild Adventures | 195621 | [195621-wild-adventures.json](./195621-wild-adventures.json) |
