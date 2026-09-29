@@ -2549,6 +2549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Metaverse | 267658 | [267658-chaos-metaverse.json](./267658-chaos-metaverse.json) |
 | Chaos of East | 101353 | [101353-chaos-of-east.json](./101353-chaos-of-east.json) |
 | Chaos of Fallen City | 159864 | [159864-chaos-of-fallen-city.json](./159864-chaos-of-fallen-city.json) |
+| Chaos on Deponia | 5062 | [5062-chaos-on-deponia.json](./5062-chaos-on-deponia.json) |
 | Chaos on Wheels: Deluxe Edition | 370899 | [370899-chaos-on-wheels-deluxe-edition.json](./370899-chaos-on-wheels-deluxe-edition.json) |
 | Chaos Overlords | 629 | [629-chaos-overlords.json](./629-chaos-overlords.json) |
 | Chaos Party | 139410 | [139410-chaos-party.json](./139410-chaos-party.json) |
@@ -4513,6 +4514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clione's Bomb-Bomb Sweeper | 369050 | [369050-cliones-bomb-bomb-sweeper.json](./369050-cliones-bomb-bomb-sweeper.json) |
 | Clippyworld: An Unexpected Journey | 260787 | [260787-clippyworld-an-unexpected-journey.json](./260787-clippyworld-an-unexpected-journey.json) |
 | Clive 'N' Wrench | 59598 | [59598-clive-n-wrench.json](./59598-clive-n-wrench.json) |
+| Clive Barker's Jericho | 6939 | [6939-clive-barkers-jericho.json](./6939-clive-barkers-jericho.json) |
 | Clive Barker's Jericho: Special Edition | 47470 | [47470-clive-barkers-jericho-special-edition.json](./47470-clive-barkers-jericho-special-edition.json) |
 | Clive vs. Hives 2 | 188685 | [188685-clive-vs-hives-2.json](./188685-clive-vs-hives-2.json) |
 | Cloak Hero | 258494 | [258494-cloak-hero.json](./258494-cloak-hero.json) |
@@ -7124,6 +7126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Pollito | 268521 | [268521-crash-pollito.json](./268521-crash-pollito.json) |
 | Crash Presents September 1990 | 73356 | [73356-crash-presents-september-1990.json](./73356-crash-presents-september-1990.json) |
 | Crash Tag Team Racing | 1194 | [1194-crash-tag-team-racing.json](./1194-crash-tag-team-racing.json) |
+| Crash Team Racing Nitro-Fueled | 113113 | [113113-crash-team-racing-nitro-fueled.json](./113113-crash-team-racing-nitro-fueled.json) |
 | Crash Team Racing: Retro-Fueled | 262407 | [262407-crash-team-racing-retro-fueled.json](./262407-crash-team-racing-retro-fueled.json) |
 | Crash Team Rumble | 228540 | [228540-crash-team-rumble.json](./228540-crash-team-rumble.json) |
 | Crash Test Billy | 51473 | [51473-crash-test-billy.json](./51473-crash-test-billy.json) |
