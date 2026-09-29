@@ -2925,6 +2925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiz | 162406 | [162406-wiz.json](./162406-wiz.json) |
 | Wiz Khalifa's Weed Farm | 56168 | [56168-wiz-khalifas-weed-farm.json](./56168-wiz-khalifas-weed-farm.json) |
 | Wiz Party | 194294 | [194294-wiz-party.json](./194294-wiz-party.json) |
+| Wizadore | 13769 | [13769-wizadore.json](./13769-wizadore.json) |
 | Wizard | 104479 | [104479-wizard.json](./104479-wizard.json) |
 | Wizard Another World | 294280 | [294280-wizard-another-world.json](./294280-wizard-another-world.json) |
 | Wizard Battle | 121638 | [121638-wizard-battle.json](./121638-wizard-battle.json) |
