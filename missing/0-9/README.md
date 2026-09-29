@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Pin Shuffle Bowling | 261319 | [261319-10-pin-shuffle-bowling.json](./261319-10-pin-shuffle-bowling.json) |
 | 10 Second Escape | 342742 | [342742-10-second-escape.json](./342742-10-second-escape.json) |
 | 10 Second Mixtape | 308935 | [308935-10-second-mixtape.json](./308935-10-second-mixtape.json) |
+| 10 Second Ninja X | 18686 | [18686-10-second-ninja-x.json](./18686-10-second-ninja-x.json) |
 | 10 Second Rule: Infinity Labo | 308934 | [308934-10-second-rule-infinity-labo.json](./308934-10-second-rule-infinity-labo.json) |
 | 10 Seconds | 105287 | [105287-10-seconds.json](./105287-10-seconds.json) |
 | 10 Seconds or Less | 59652 | [59652-10-seconds-or-less.json](./59652-10-seconds-or-less.json) |
