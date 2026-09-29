@@ -224,6 +224,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Bond 007 | 1639 | [1639-james-bond-007.json](./1639-james-bond-007.json) |
 | James Bond 007: Agent Under Fire | 1643 | [1643-james-bond-007-agent-under-fire.json](./1643-james-bond-007-agent-under-fire.json) |
 | James Bond 007: Nightfire | 290069 | [290069-james-bond-007-nightfire.json](./290069-james-bond-007-nightfire.json) |
+| James Bond 007: The Living Daylights | 44099 | [44099-james-bond-007-the-living-daylights.json](./44099-james-bond-007-the-living-daylights.json) |
+| James Bond 007: The Spy Who Loved Me | 44098 | [44098-james-bond-007-the-spy-who-loved-me.json](./44098-james-bond-007-the-spy-who-loved-me.json) |
 | James Bond 007: The World Is Not Enough | 144507 | [144507-james-bond-007-the-world-is-not-enough.json](./144507-james-bond-007-the-world-is-not-enough.json) |
 | James Bond 007: The World Is Not Enough | 1641 | [1641-james-bond-007-the-world-is-not-enough.json](./1641-james-bond-007-the-world-is-not-enough.json) |
 | James Bond 007: Tomorrow Never Dies | 1640 | [1640-james-bond-007-tomorrow-never-dies.json](./1640-james-bond-007-tomorrow-never-dies.json) |
@@ -670,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewels of the Ages | 130308 | [130308-jewels-of-the-ages.json](./130308-jewels-of-the-ages.json) |
 | Jewels of the Mysterious Woodland: Cat and Children Jewel Match | 171403 | [171403-jewels-of-the-mysterious-woodland-cat-and-children-jewel-match.json](./171403-jewels-of-the-mysterious-woodland-cat-and-children-jewel-match.json) |
 | Jewels of the Mysterious Woodland: Fairies Magical Jewel Match Quest | 171596 | [171596-jewels-of-the-mysterious-woodland-fairies-magical-jewel-match-quest.json](./171596-jewels-of-the-mysterious-woodland-fairies-magical-jewel-match-quest.json) |
+| Jewels of the Tropical Lost Island | 44066 | [44066-jewels-of-the-tropical-lost-island.json](./44066-jewels-of-the-tropical-lost-island.json) |
 | Jewels Palace | 114757 | [114757-jewels-palace.json](./114757-jewels-palace.json) |
 | Jewels Time : Endless match | 108510 | [108510-jewels-time-endless-match.json](./108510-jewels-time-endless-match.json) |
 | Jezebel and the Flame | 186254 | [186254-jezebel-and-the-flame.json](./186254-jezebel-and-the-flame.json) |
