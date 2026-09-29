@@ -1605,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Petals Bliss | 258547 | [258547-dead-petals-bliss.json](./258547-dead-petals-bliss.json) |
 | Dead Pixels | 346658 | [346658-dead-pixels.json](./346658-dead-pixels.json) |
 | Dead Pixels | 5448 | [5448-dead-pixels.json](./5448-dead-pixels.json) |
+| Dead Pixels II: Straight to Video | 18362 | [18362-dead-pixels-ii-straight-to-video.json](./18362-dead-pixels-ii-straight-to-video.json) |
 | Dead Raid | 140516 | [140516-dead-raid.json](./140516-dead-raid.json) |
 | Dead Rails | 335356 | [335356-dead-rails.json](./335356-dead-rails.json) |
 | Dead Reckoner | 406220 | [406220-dead-reckoner.json](./406220-dead-reckoner.json) |
@@ -4908,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Ku: The Alien Room | 315120 | [315120-doctor-ku-the-alien-room.json](./315120-doctor-ku-the-alien-room.json) |
 | Doctor Ku: The Cellar | 315097 | [315097-doctor-ku-the-cellar.json](./315097-doctor-ku-the-cellar.json) |
 | Doctor Ku: The Kitchen | 315099 | [315099-doctor-ku-the-kitchen.json](./315099-doctor-ku-the-kitchen.json) |
+| Doctor Kvorak's Obliteration Game | 18368 | [18368-doctor-kvoraks-obliteration-game.json](./18368-doctor-kvoraks-obliteration-game.json) |
 | Doctor Life Simulator | 344001 | [344001-doctor-life-simulator.json](./344001-doctor-life-simulator.json) |
 | Doctor Nanobot | 207530 | [207530-doctor-nanobot.json](./207530-doctor-nanobot.json) |
 | Doctor Pigeon Simulator | 407360 | [407360-doctor-pigeon-simulator.json](./407360-doctor-pigeon-simulator.json) |
@@ -8319,6 +8321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dylan Dog: Through the Looking Glass | 12422 | [12422-dylan-dog-through-the-looking-glass.json](./12422-dylan-dog-through-the-looking-glass.json) |
 | Dymension | 191262 | [191262-dymension.json](./191262-dymension.json) |
 | Dyna Blade | 271260 | [271260-dyna-blade.json](./271260-dyna-blade.json) |
+| Dynablaster Revenge | 18445 | [18445-dynablaster-revenge.json](./18445-dynablaster-revenge.json) |
 | Dynacat | 196958 | [196958-dynacat.json](./196958-dynacat.json) |
 | Dynacore | 214722 | [214722-dynacore.json](./214722-dynacore.json) |
 | Dynami Tracer | 2981 | [2981-dynami-tracer.json](./2981-dynami-tracer.json) |
