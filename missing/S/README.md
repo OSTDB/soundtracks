@@ -4014,6 +4014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogi Saikyou | 38299 | [38299-shogi-saikyou.json](./38299-shogi-saikyou.json) |
 | Shogi Shodan Icchokusen | 42032 | [42032-shogi-shodan-icchokusen.json](./42032-shogi-shodan-icchokusen.json) |
 | Shogi Shoko | 223964 | [223964-shogi-shoko.json](./223964-shogi-shoko.json) |
+| Shogi Shoshinsha Muyou | 57740 | [57740-shogi-shoshinsha-muyou.json](./57740-shogi-shoshinsha-muyou.json) |
 | Shogi Shoshisha Muyo | 42031 | [42031-shogi-shoshisha-muyo.json](./42031-shogi-shoshisha-muyo.json) |
 | Shogi Wars | 312359 | [312359-shogi-wars.json](./312359-shogi-wars.json) |
 | Shogo: Mobile Armor Division | 12464 | [12464-shogo-mobile-armor-division.json](./12464-shogo-mobile-armor-division.json) |
@@ -5279,6 +5280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate Tribe | 303232 | [303232-skate-tribe.json](./303232-skate-tribe.json) |
 | Skateball | 45329 | [45329-skateball.json](./45329-skateball.json) |
 | Skatebird | 111813 | [111813-skatebird.json](./111813-skatebird.json) |
+| Skateboard Crazy | 57599 | [57599-skateboard-crazy.json](./57599-skateboard-crazy.json) |
 | Skateboard Drifting Simulator with Maxwell Cat: The Game | 259231 | [259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json](./259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json) |
 | Skateboard Knight | 338300 | [338300-skateboard-knight.json](./338300-skateboard-knight.json) |
 | Skateboard Madness Xtreme Edition | 66933 | [66933-skateboard-madness-xtreme-edition.json](./66933-skateboard-madness-xtreme-edition.json) |
@@ -9054,6 +9056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceVibes | 129120 | [129120-spacevibes.json](./129120-spacevibes.json) |
 | Spacewar | 181938 | [181938-spacewar.json](./181938-spacewar.json) |
 | Spaceward Ho! | 47296 | [47296-spaceward-ho.json](./47296-spaceward-ho.json) |
+| Spacewars: Interstellar Empire | 57758 | [57758-spacewars-interstellar-empire.json](./57758-spacewars-interstellar-empire.json) |
 | Spacewind The Zeppelin | 292587 | [292587-spacewind-the-zeppelin.json](./292587-spacewind-the-zeppelin.json) |
 | Spacewing War 2 | 266235 | [266235-spacewing-war-2.json](./266235-spacewing-war-2.json) |
 | SpaceWorms | 114200 | [114200-spaceworms.json](./114200-spaceworms.json) |
@@ -9273,6 +9276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Intense Island | 233514 | [233514-speed-intense-island.json](./233514-speed-intense-island.json) |
 | Speed Islands | 116449 | [116449-speed-islands.json](./116449-speed-islands.json) |
 | Speed Journey: Nitro | 221407 | [221407-speed-journey-nitro.json](./221407-speed-journey-nitro.json) |
+| Speed King 2 | 57601 | [57601-speed-king-2.json](./57601-speed-king-2.json) |
 | Speed Legacy: Ultimate Drive | 378186 | [378186-speed-legacy-ultimate-drive.json](./378186-speed-legacy-ultimate-drive.json) |
 | Speed Legends | 234330 | [234330-speed-legends.json](./234330-speed-legends.json) |
 | Speed Liner | 379878 | [379878-speed-liner.json](./379878-speed-liner.json) |
@@ -9450,6 +9454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellrazor | 177340 | [177340-spellrazor.json](./177340-spellrazor.json) |
 | Spells & Secrets | 198494 | [198494-spells-and-secrets.json](./198494-spells-and-secrets.json) |
 | Spells For Sad Goths With Shitty Parents | 176921 | [176921-spells-for-sad-goths-with-shitty-parents.json](./176921-spells-for-sad-goths-with-shitty-parents.json) |
+| Spells of Genesis | 57726 | [57726-spells-of-genesis.json](./57726-spells-of-genesis.json) |
 | Spellshaper | 213451 | [213451-spellshaper.json](./213451-spellshaper.json) |
 | Spellshard: The Black Crown of Horgoth | 149992 | [149992-spellshard-the-black-crown-of-horgoth.json](./149992-spellshard-the-black-crown-of-horgoth.json) |
 | Spellshot | 243700 | [243700-spellshot.json](./243700-spellshot.json) |
