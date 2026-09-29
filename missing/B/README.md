@@ -1969,9 +1969,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleground 3: Waterloo | 608 | [608-battleground-3-waterloo.json](./608-battleground-3-waterloo.json) |
 | Battleground 4: Shiloh | 609 | [609-battleground-4-shiloh.json](./609-battleground-4-shiloh.json) |
 | Battleground 5: Antietam | 610 | [610-battleground-5-antietam.json](./610-battleground-5-antietam.json) |
+| Battleground 6: Napoleon in Russi | 22616 | [22616-battleground-6-napoleon-in-russi.json](./22616-battleground-6-napoleon-in-russi.json) |
+| Battleground 7: Bull Run | 22618 | [22618-battleground-7-bull-run.json](./22618-battleground-7-bull-run.json) |
+| Battleground 8: Prelude to Waterloo | 22619 | [22619-battleground-8-prelude-to-waterloo.json](./22619-battleground-8-prelude-to-waterloo.json) |
+| Battleground 9: Chickamauga | 22617 | [22617-battleground-9-chickamauga.json](./22617-battleground-9-chickamauga.json) |
 | Battleground Collection 1 | 77287 | [77287-battleground-collection-1.json](./77287-battleground-collection-1.json) |
 | Battleground Collection 2 | 79377 | [79377-battleground-collection-2.json](./79377-battleground-collection-2.json) |
 | Battleground Fire Strike | 224096 | [224096-battleground-fire-strike.json](./224096-battleground-fire-strike.json) |
+| Battleground: Bulge-Ardennes | 22614 | [22614-battleground-bulge-ardennes.json](./22614-battleground-bulge-ardennes.json) |
 | Battleground's Survivor: Battle Royale | 174853 | [174853-battlegrounds-survivor-battle-royale.json](./174853-battlegrounds-survivor-battle-royale.json) |
 | Battlegrounds | 403592 | [403592-battlegrounds.json](./403592-battlegrounds.json) |
 | Battlegrounds: The Pirate King | 294158 | [294158-battlegrounds-the-pirate-king.json](./294158-battlegrounds-the-pirate-king.json) |
@@ -2863,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berlin 1936 | 119699 | [119699-berlin-1936.json](./119699-berlin-1936.json) |
 | Berlitz* French Translator | 94168 | [94168-berlitz-french-translator.json](./94168-berlitz-french-translator.json) |
 | Bermuda | 380011 | [380011-bermuda.json](./380011-bermuda.json) |
+| Bermuda Triangle | 22557 | [22557-bermuda-triangle.json](./22557-bermuda-triangle.json) |
 | Bermuda Triangle: Saving the Coral | 67391 | [67391-bermuda-triangle-saving-the-coral.json](./67391-bermuda-triangle-saving-the-coral.json) |
 | Bermuda: Lost Survival | 43365 | [43365-bermuda-lost-survival.json](./43365-bermuda-lost-survival.json) |
 | Bermudes | 185089 | [185089-bermudes.json](./185089-bermudes.json) |
@@ -4021,6 +4027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black the Fall | 17555 | [17555-black-the-fall.json](./17555-black-the-fall.json) |
 | Black Touch '96 | 267981 | [267981-black-touch-96.json](./267981-black-touch-96.json) |
 | Black Tower | 58824 | [58824-black-tower.json](./58824-black-tower.json) |
+| Black Turn: Operation Barbarossa 1941 | 22647 | [22647-black-turn-operation-barbarossa-1941.json](./22647-black-turn-operation-barbarossa-1941.json) |
 | Black Viper | 14311 | [14311-black-viper.json](./14311-black-viper.json) |
 | Black Well Devil | 410331 | [410331-black-well-devil.json](./410331-black-well-devil.json) |
 | Black Werewolf | 293099 | [293099-black-werewolf.json](./293099-black-werewolf.json) |
