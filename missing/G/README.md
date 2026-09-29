@@ -908,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garrison | 13856 | [13856-garrison.json](./13856-garrison.json) |
 | Garshasp: The Monster Slayer | 3279 | [3279-garshasp-the-monster-slayer.json](./3279-garshasp-the-monster-slayer.json) |
 | Garten of Banban 0 | 320854 | [320854-garten-of-banban-0.json](./320854-garten-of-banban-0.json) |
+| Garten of Banban 2 | 231437 | [231437-garten-of-banban-2.json](./231437-garten-of-banban-2.json) |
 | Garten of Banban 7 | 280891 | [280891-garten-of-banban-7.json](./280891-garten-of-banban-7.json) |
 | Garten of Banban Bundle: 0 + 1 + 2 + 3 + 4 + 6 + 7 + 8 | 379359 | [379359-garten-of-banban-bundle-0-1-2-3-4-6-7-8.json](./379359-garten-of-banban-bundle-0-1-2-3-4-6-7-8.json) |
 | Garten of Banban: Last Ticket to the Abyss | 363986 | [363986-garten-of-banban-last-ticket-to-the-abyss.json](./363986-garten-of-banban-last-ticket-to-the-abyss.json) |
@@ -924,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gary Grigsby's War in the West: Operation Torch | 154492 | [154492-gary-grigsbys-war-in-the-west-operation-torch.json](./154492-gary-grigsbys-war-in-the-west-operation-torch.json) |
 | Gary the Gull | 33169 | [33169-gary-the-gull.json](./33169-gary-the-gull.json) |
 | Gary's Fortune Telling Tent | 318643 | [318643-garys-fortune-telling-tent.json](./318643-garys-fortune-telling-tent.json) |
+| Gas Guzzlers Extreme | 8472 | [8472-gas-guzzlers-extreme.json](./8472-gas-guzzlers-extreme.json) |
 | Gas Guzzlers Extreme: Full Metal Frenzy | 171503 | [171503-gas-guzzlers-extreme-full-metal-frenzy.json](./171503-gas-guzzlers-extreme-full-metal-frenzy.json) |
 | Gas N Cars | 410455 | [410455-gas-n-cars.json](./410455-gas-n-cars.json) |
 | Gas See who likes you | 223942 | [223942-gas-see-who-likes-you.json](./223942-gas-see-who-likes-you.json) |
@@ -2609,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Kings | 142246 | [142246-god-kings.json](./142246-god-kings.json) |
 | God Marionette | 82868 | [82868-god-marionette.json](./82868-god-marionette.json) |
 | God Medicine: Fantasy Sekai no Tanjou | 60782 | [60782-god-medicine-fantasy-sekai-no-tanjou.json](./60782-god-medicine-fantasy-sekai-no-tanjou.json) |
+| God Mode | 8949 | [8949-god-mode.json](./8949-god-mode.json) |
 | God of Arrows | 57190 | [57190-god-of-arrows.json](./57190-god-of-arrows.json) |
 | God of Attack VIP | 95864 | [95864-god-of-attack-vip.json](./95864-god-of-attack-vip.json) |
 | God of Battle | 102580 | [102580-god-of-battle.json](./102580-god-of-battle.json) |
@@ -3531,6 +3534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: The Backstabber's Blues | 392433 | [392433-grand-theft-auto-the-backstabbers-blues.json](./392433-grand-theft-auto-the-backstabbers-blues.json) |
 | Grand Theft Auto: The Trilogy | 5850 | [5850-grand-theft-auto-the-trilogy.json](./5850-grand-theft-auto-the-trilogy.json) |
 | Grand Theft Auto: Torcidas | 358395 | [358395-grand-theft-auto-torcidas.json](./358395-grand-theft-auto-torcidas.json) |
+| Grand Theft Auto: Vice City | 215550 | [215550-grand-theft-auto-vice-city.json](./215550-grand-theft-auto-vice-city.json) |
 | Grand Theft Auto: Vice City - The Definitive Edition | 178125 | [178125-grand-theft-auto-vice-city-the-definitive-edition.json](./178125-grand-theft-auto-vice-city-the-definitive-edition.json) |
 | Grand Theft Auto: Vice City Stories | 3262 | [3262-grand-theft-auto-vice-city-stories.json](./3262-grand-theft-auto-vice-city-stories.json) |
 | Grand Theft Bubble | 329720 | [329720-grand-theft-bubble.json](./329720-grand-theft-bubble.json) |
@@ -4579,6 +4583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Crown | 208919 | [208919-guilty-crown.json](./208919-guilty-crown.json) |
 | Guilty Crown: Lost Christmas | 80569 | [80569-guilty-crown-lost-christmas.json](./80569-guilty-crown-lost-christmas.json) |
 | Guilty Gear 20th Anniversary Pack: Day One Edition | 386270 | [386270-guilty-gear-20th-anniversary-pack-day-one-edition.json](./386270-guilty-gear-20th-anniversary-pack-day-one-edition.json) |
+| Guilty Gear Dust Strikers | 9149 | [9149-guilty-gear-dust-strikers.json](./9149-guilty-gear-dust-strikers.json) |
 | Guilty Gear Petit | 9147 | [9147-guilty-gear-petit.json](./9147-guilty-gear-petit.json) |
 | Guilty Gear Petit 2 | 9148 | [9148-guilty-gear-petit-2.json](./9148-guilty-gear-petit-2.json) |
 | Guilty Gear Strive: In the Name of Peace | 372007 | [372007-guilty-gear-strive-in-the-name-of-peace.json](./372007-guilty-gear-strive-in-the-name-of-peace.json) |
@@ -4697,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gump Runner | 29183 | [29183-gump-runner.json](./29183-gump-runner.json) |
 | Gumslinger | 138594 | [138594-gumslinger.json](./138594-gumslinger.json) |
 | Gumtrix | 60761 | [60761-gumtrix.json](./60761-gumtrix.json) |
+| Gun | 248547 | [248547-gun.json](./248547-gun.json) |
 | Gun & Girls.io | 200754 | [200754-gun-and-girls-io.json](./200754-gun-and-girls-io.json) |
 | Gun and Buckler | 217237 | [217237-gun-and-buckler.json](./217237-gun-and-buckler.json) |
 | Gun Beat | 113458 | [113458-gun-beat.json](./113458-gun-beat.json) |
