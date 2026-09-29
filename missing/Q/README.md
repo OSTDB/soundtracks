@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake Condensed | 271776 | [271776-quake-condensed.json](./271776-quake-condensed.json) |
 | Quake II | 261085 | [261085-quake-ii.json](./261085-quake-ii.json) |
 | Quake II | 332259 | [332259-quake-ii.json](./332259-quake-ii.json) |
+| Quake II Mission Pack: The Reckoning | 15620 | [15620-quake-ii-mission-pack-the-reckoning.json](./15620-quake-ii-mission-pack-the-reckoning.json) |
 | Quake II: Colossus | 200673 | [200673-quake-ii-colossus.json](./200673-quake-ii-colossus.json) |
 | Quake II: Quad Damage | 46628 | [46628-quake-ii-quad-damage.json](./46628-quake-ii-quad-damage.json) |
 | Quake III: Revolution | 43673 | [43673-quake-iii-revolution.json](./43673-quake-iii-revolution.json) |
