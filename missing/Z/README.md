@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zefira | 119000 | [119000-zefira.json](./119000-zefira.json) |
 | Zegapain NOT | 68015 | [68015-zegapain-not.json](./68015-zegapain-not.json) |
 | Zegapain XOR | 68017 | [68017-zegapain-xor.json](./68017-zegapain-xor.json) |
+| Zegeta Video Game | 56540 | [56540-zegeta-video-game.json](./56540-zegeta-video-game.json) |
 | Zehlar | 258023 | [258023-zehlar.json](./258023-zehlar.json) |
 | Zehn Adventures | 94541 | [94541-zehn-adventures.json](./94541-zehn-adventures.json) |
 | Zeitgeist | 178539 | [178539-zeitgeist.json](./178539-zeitgeist.json) |
