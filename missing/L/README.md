@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady Sword: Ryakudatsusareta 10-nin no Otome | 42050 | [42050-lady-sword-ryakudatsusareta-10-nin-no-otome.json](./42050-lady-sword-ryakudatsusareta-10-nin-no-otome.json) |
 | Lady Thalia and the Masterpiece of Moldavia | 290396 | [290396-lady-thalia-and-the-masterpiece-of-moldavia.json](./290396-lady-thalia-and-the-masterpiece-of-moldavia.json) |
 | Lady Thalia and the Rose of Rocroi | 290395 | [290395-lady-thalia-and-the-rose-of-rocroi.json](./290395-lady-thalia-and-the-rose-of-rocroi.json) |
+| Lady Tut | 23961 | [23961-lady-tut.json](./23961-lady-tut.json) |
 | Lady's Hentai Mosaic | 112981 | [112981-ladys-hentai-mosaic.json](./112981-ladys-hentai-mosaic.json) |
 | Ladybug dress up | 101588 | [101588-ladybug-dress-up.json](./101588-ladybug-dress-up.json) |
 | Ladybug Quest | 113753 | [113753-ladybug-quest.json](./113753-ladybug-quest.json) |
@@ -1330,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion Was Here | 347168 | [347168-legion-was-here.json](./347168-legion-was-here.json) |
 | Legion: Dead Metal | 249214 | [249214-legion-dead-metal.json](./249214-legion-dead-metal.json) |
 | Legion: Legend of Excalibur | 44714 | [44714-legion-legend-of-excalibur.json](./44714-legion-legend-of-excalibur.json) |
+| Legionnaire | 23968 | [23968-legionnaire.json](./23968-legionnaire.json) |
 | Legionnaire | 81453 | [81453-legionnaire.json](./81453-legionnaire.json) |
 | Legions of Chaos | 220180 | [220180-legions-of-chaos.json](./220180-legions-of-chaos.json) |
 | Legions of Dawn | 124722 | [124722-legions-of-dawn.json](./124722-legions-of-dawn.json) |
@@ -3588,6 +3590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost City | 403010 | [403010-lost-city.json](./403010-lost-city.json) |
 | Lost City of Vampires | 113169 | [113169-lost-city-of-vampires.json](./113169-lost-city-of-vampires.json) |
 | Lost Civilization 2 | 262991 | [262991-lost-civilization-2.json](./262991-lost-civilization-2.json) |
+| Lost Coffee | 23950 | [23950-lost-coffee.json](./23950-lost-coffee.json) |
 | Lost Colony | 250422 | [250422-lost-colony.json](./250422-lost-colony.json) |
 | Lost Colors | 112520 | [112520-lost-colors.json](./112520-lost-colors.json) |
 | Lost Continent | 191553 | [191553-lost-continent.json](./191553-lost-continent.json) |
@@ -3789,6 +3792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Wage Rampage | 108989 | [108989-lost-wage-rampage.json](./108989-lost-wage-rampage.json) |
 | Lost Wiki: Kozlovka | 374721 | [374721-lost-wiki-kozlovka.json](./374721-lost-wiki-kozlovka.json) |
 | Lost Wish: In the Desperate World | 195482 | [195482-lost-wish-in-the-desperate-world.json](./195482-lost-wish-in-the-desperate-world.json) |
+| Lost Within | 23959 | [23959-lost-within.json](./23959-lost-within.json) |
 | Lost World | 226183 | [226183-lost-world.json](./226183-lost-world.json) |
 | Lost Zion | 395555 | [395555-lost-zion.json](./395555-lost-zion.json) |
 | Lost:Smile Memories | 120778 | [120778-lost-smile-memories.json](./120778-lost-smile-memories.json) |
