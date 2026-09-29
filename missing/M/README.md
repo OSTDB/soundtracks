@@ -1637,6 +1637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Sonic at The Olympic Winter Games Pyeongchang 2018 | 313303 | [313303-mario-and-sonic-at-the-olympic-winter-games-pyeongchang-2018.json](./313303-mario-and-sonic-at-the-olympic-winter-games-pyeongchang-2018.json) |
 | Mario & Sonic at the Rio 2016 Olympic Games | 132111 | [132111-mario-and-sonic-at-the-rio-2016-olympic-games.json](./132111-mario-and-sonic-at-the-rio-2016-olympic-games.json) |
 | Mario & Sonic at the Sochi 2014 Olympic Winter Games | 3990 | [3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json](./3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json) |
+| Mario + Rabbids Kingdom Battle | 28414 | [28414-mario-rabbids-kingdom-battle.json](./28414-mario-rabbids-kingdom-battle.json) |
 | Mario + Rabbids Kingdom Battle: Donkey Kong Adventure | 103317 | [103317-mario-rabbids-kingdom-battle-donkey-kong-adventure.json](./103317-mario-rabbids-kingdom-battle-donkey-kong-adventure.json) |
 | Mario + Rabbids Kingdom Battle: Ultra Challenge Pack | 237938 | [237938-mario-rabbids-kingdom-battle-ultra-challenge-pack.json](./237938-mario-rabbids-kingdom-battle-ultra-challenge-pack.json) |
 | Mario + Rabbids Sparks of Hope | 152201 | [152201-mario-rabbids-sparks-of-hope.json](./152201-mario-rabbids-sparks-of-hope.json) |
@@ -3086,6 +3087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor : Warfighter - Limited Edition | 47411 | [47411-medal-of-honor-warfighter-limited-edition.json](./47411-medal-of-honor-warfighter-limited-edition.json) |
 | Medal of Honor: 10th Anniversary Edition | 45980 | [45980-medal-of-honor-10th-anniversary-edition.json](./45980-medal-of-honor-10th-anniversary-edition.json) |
 | Medal of Honor: Above and Beyond | 122592 | [122592-medal-of-honor-above-and-beyond.json](./122592-medal-of-honor-above-and-beyond.json) |
+| Medal of Honor: Airborne | 1314 | [1314-medal-of-honor-airborne.json](./1314-medal-of-honor-airborne.json) |
 | Medal of Honor: Airborne | 264877 | [264877-medal-of-honor-airborne.json](./264877-medal-of-honor-airborne.json) |
 | Medal of Honor: Airborne Elite | 341117 | [341117-medal-of-honor-airborne-elite.json](./341117-medal-of-honor-airborne-elite.json) |
 | Medal of Honor: Allied Assault - Breakthrough | 9229 | [9229-medal-of-honor-allied-assault-breakthrough.json](./9229-medal-of-honor-allied-assault-breakthrough.json) |
@@ -3312,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 2 Mobile | 103892 | [103892-mega-man-2-mobile.json](./103892-mega-man-2-mobile.json) |
 | Mega Man 2 Randomizer | 324885 | [324885-mega-man-2-randomizer.json](./324885-mega-man-2-randomizer.json) |
 | Mega Man 2: The Power Fighters | 1725 | [1725-mega-man-2-the-power-fighters.json](./1725-mega-man-2-the-power-fighters.json) |
+| Mega Man 3 | 1716 | [1716-mega-man-3.json](./1716-mega-man-3.json) |
 | Mega Man 3 | 198813 | [198813-mega-man-3.json](./198813-mega-man-3.json) |
 | Mega Man 30th Anniversary Bundle | 110814 | [110814-mega-man-30th-anniversary-bundle.json](./110814-mega-man-30th-anniversary-bundle.json) |
 | Mega Man 4 Voyage: Blue Version | 252392 | [252392-mega-man-4-voyage-blue-version.json](./252392-mega-man-4-voyage-blue-version.json) |
@@ -4257,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Rising: Revengeance VR Missions | 116154 | [116154-metal-gear-rising-revengeance-vr-missions.json](./116154-metal-gear-rising-revengeance-vr-missions.json) |
 | Metal Gear Solid | 393642 | [393642-metal-gear-solid.json](./393642-metal-gear-solid.json) |
 | Metal Gear Solid 2: Sons of Liberty - Master Collection Version | 383389 | [383389-metal-gear-solid-2-sons-of-liberty-master-collection-version.json](./383389-metal-gear-solid-2-sons-of-liberty-master-collection-version.json) |
+| Metal Gear Solid 2: Substance | 474 | [474-metal-gear-solid-2-substance.json](./474-metal-gear-solid-2-substance.json) |
 | Metal Gear Solid 3: Snake Eater - HD Edition | 99821 | [99821-metal-gear-solid-3-snake-eater-hd-edition.json](./99821-metal-gear-solid-3-snake-eater-hd-edition.json) |
 | Metal Gear Solid 3: Snake Eater - Limited Metal Edition | 43264 | [43264-metal-gear-solid-3-snake-eater-limited-metal-edition.json](./43264-metal-gear-solid-3-snake-eater-limited-metal-edition.json) |
 | Metal Gear Solid 3: Snake Eater - Master Collection Version | 383391 | [383391-metal-gear-solid-3-snake-eater-master-collection-version.json](./383391-metal-gear-solid-3-snake-eater-master-collection-version.json) |
@@ -4448,6 +4452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro MP | 212211 | [212211-metro-mp.json](./212211-metro-mp.json) |
 | Metro PD: Close to You | 238426 | [238426-metro-pd-close-to-you.json](./238426-metro-pd-close-to-you.json) |
 | Metro Quester | 277887 | [277887-metro-quester.json](./277887-metro-quester.json) |
+| Metro Redux | 6880 | [6880-metro-redux.json](./6880-metro-redux.json) |
 | Metro Rivals: New York | 373617 | [373617-metro-rivals-new-york.json](./373617-metro-rivals-new-york.json) |
 | Metro Survival: Zombie Hunter | 174873 | [174873-metro-survival-zombie-hunter.json](./174873-metro-survival-zombie-hunter.json) |
 | Metro-Cross | 39688 | [39688-metro-cross.json](./39688-metro-cross.json) |
