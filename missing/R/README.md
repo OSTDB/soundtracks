@@ -890,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raphael | 194281 | [194281-raphael.json](./194281-raphael.json) |
 | RaphaelGer's Plane | 229973 | [229973-raphaelgers-plane.json](./229973-raphaelgers-plane.json) |
 | Rapid | 100305 | [100305-rapid.json](./100305-rapid.json) |
+| Rapid 70 | 26888 | [26888-rapid-70.json](./26888-rapid-70.json) |
 | Rapid Angel | 65771 | [65771-rapid-angel.json](./65771-rapid-angel.json) |
 | Rapid Ascent | 413663 | [413663-rapid-ascent.json](./413663-rapid-ascent.json) |
 | Rapid Assault | 62137 | [62137-rapid-assault.json](./62137-rapid-assault.json) |
@@ -1837,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Season | 381614 | [381614-red-season.json](./381614-red-season.json) |
 | Red Series | 270665 | [270665-red-series.json](./270665-red-series.json) |
 | Red Siren: Space Defense | 111541 | [111541-red-siren-space-defense.json](./111541-red-siren-space-defense.json) |
+| Red Sky | 26804 | [26804-red-sky.json](./26804-red-sky.json) |
 | Red Slash | 176266 | [176266-red-slash.json](./176266-red-slash.json) |
 | Red Snow | 287771 | [287771-red-snow.json](./287771-red-snow.json) |
 | Red Soil | 379372 | [379372-red-soil.json](./379372-red-soil.json) |
@@ -3827,6 +3829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riversiders | 253418 | [253418-riversiders.json](./253418-riversiders.json) |
 | Riviera: The Promised Land | 304131 | [304131-riviera-the-promised-land.json](./304131-riviera-the-promised-land.json) |
 | Riviera: Yakusoku no Chi Riviera | 37281 | [37281-riviera-yakusoku-no-chi-riviera.json](./37281-riviera-yakusoku-no-chi-riviera.json) |
+| RiVR | 26844 | [26844-rivr.json](./26844-rivr.json) |
 | Rixer | 260242 | [260242-rixer.json](./260242-rixer.json) |
 | Riyou Kiyaku | 418728 | [418728-riyou-kiyaku.json](./418728-riyou-kiyaku.json) |
 | Rizzoli and Isles: The Boston Butcher | 57370 | [57370-rizzoli-and-isles-the-boston-butcher.json](./57370-rizzoli-and-isles-the-boston-butcher.json) |
@@ -5096,6 +5099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotatex | 118778 | [118778-rotatex.json](./118778-rotatex.json) |
 | Rotating Bones | 188010 | [188010-rotating-bones.json](./188010-rotating-bones.json) |
 | Rotating Roads | 307761 | [307761-rotating-roads.json](./307761-rotating-roads.json) |
+| Rotation Phonology: Break | 26843 | [26843-rotation-phonology-break.json](./26843-rotation-phonology-break.json) |
 | Rotato | 176362 | [176362-rotato.json](./176362-rotato.json) |
 | Rotato | 377595 | [377595-rotato.json](./377595-rotato.json) |
 | Rotato Disc Jam | 176385 | [176385-rotato-disc-jam.json](./176385-rotato-disc-jam.json) |
@@ -5364,6 +5368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubek | 25069 | [25069-rubek.json](./25069-rubek.json) |
 | Rubelike | 176377 | [176377-rubelike.json](./176377-rubelike.json) |
 | Rubi: The Wayward Mira | 55180 | [55180-rubi-the-wayward-mira.json](./55180-rubi-the-wayward-mira.json) |
+| Rubi's Room | 26882 | [26882-rubis-room.json](./26882-rubis-room.json) |
 | Rubicon | 197678 | [197678-rubicon.json](./197678-rubicon.json) |
 | Rubicon | 79242 | [79242-rubicon.json](./79242-rubicon.json) |
 | Rubicon Approach | 83944 | [83944-rubicon-approach.json](./83944-rubicon-approach.json) |
