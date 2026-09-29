@@ -4751,6 +4751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Spirits | 383363 | [383363-silent-spirits.json](./383363-silent-spirits.json) |
 | Silent Steel | 73827 | [73827-silent-steel.json](./73827-silent-steel.json) |
 | Silent Still III | 387378 | [387378-silent-still-iii.json](./387378-silent-still-iii.json) |
+| Silent Storm | 10844 | [10844-silent-storm.json](./10844-silent-storm.json) |
 | Silent Storm: Sentinels | 10845 | [10845-silent-storm-sentinels.json](./10845-silent-storm-sentinels.json) |
 | Silent Streets: The Mockingbird's Last Dive | 110290 | [110290-silent-streets-the-mockingbirds-last-dive.json](./110290-silent-streets-the-mockingbirds-last-dive.json) |
 | Silent Threat | 311259 | [311259-silent-threat.json](./311259-silent-threat.json) |
@@ -5255,6 +5256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sira | 61626 | [61626-sira.json](./61626-sira.json) |
 | Siralim 3 | 100422 | [100422-siralim-3.json](./100422-siralim-3.json) |
 | Sire Abandon | 200432 | [200432-sire-abandon.json](./200432-sire-abandon.json) |
+| Siren | 14522 | [14522-siren.json](./14522-siren.json) |
 | Siren | 195494 | [195494-siren.json](./195494-siren.json) |
 | Siren Head Dating Sim | 177958 | [177958-siren-head-dating-sim.json](./177958-siren-head-dating-sim.json) |
 | Siren Head SCP 6789 | 243223 | [243223-siren-head-scp-6789.json](./243223-siren-head-scp-6789.json) |
@@ -12155,6 +12157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickyban | 338736 | [338736-stickyban.json](./338736-stickyban.json) |
 | Stig | 295541 | [295541-stig.json](./295541-stig.json) |
 | Stigmata of Sacrilege | 244867 | [244867-stigmata-of-sacrilege.json](./244867-stigmata-of-sacrilege.json) |
+| Stikbold! A Dodgeball Adventure | 18614 | [18614-stikbold-a-dodgeball-adventure.json](./18614-stikbold-a-dodgeball-adventure.json) |
 | Stikir | 110941 | [110941-stikir.json](./110941-stikir.json) |
 | Still Alive DS | 270389 | [270389-still-alive-ds.json](./270389-still-alive-ds.json) |
 | Still Alive: Hollowed Horizon | 355075 | [355075-still-alive-hollowed-horizon.json](./355075-still-alive-hollowed-horizon.json) |
@@ -13955,6 +13958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dot Jump | 25960 | [25960-super-dot-jump.json](./25960-super-dot-jump.json) |
 | Super Double Dragon | 198931 | [198931-super-double-dragon.json](./198931-super-double-dragon.json) |
 | Super Double Dragon | 274439 | [274439-super-double-dragon.json](./274439-super-double-dragon.json) |
+| Super Double Dragon | 9929 | [9929-super-double-dragon.json](./9929-super-double-dragon.json) |
 | Super Double Impact | 98031 | [98031-super-double-impact.json](./98031-super-double-impact.json) |
 | Super Doubles Tennis | 40425 | [40425-super-doubles-tennis.json](./40425-super-doubles-tennis.json) |
 | Super Dr Corona | 277930 | [277930-super-dr-corona.json](./277930-super-dr-corona.json) |
@@ -15197,6 +15201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLuminauts | 54490 | [54490-superluminauts.json](./54490-superluminauts.json) |
 | Superlunary: Episode 1.0 | 136873 | [136873-superlunary-episode-1-0.json](./136873-superlunary-episode-1-0.json) |
 | Superman | 131546 | [131546-superman.json](./131546-superman.json) |
+| Superman | 18711 | [18711-superman.json](./18711-superman.json) |
 | Superman | 361718 | [361718-superman.json](./361718-superman.json) |
 | Superman in Supervillain Showdown | 220123 | [220123-superman-in-supervillain-showdown.json](./220123-superman-in-supervillain-showdown.json) |
 | Superman: Man of Steel | 18463 | [18463-superman-man-of-steel.json](./18463-superman-man-of-steel.json) |
