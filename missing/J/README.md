@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japan Food Adventure - Tokyo | 100316 | [100316-japan-food-adventure-tokyo.json](./100316-japan-food-adventure-tokyo.json) |
 | Japan Mahjong | 334660 | [334660-japan-mahjong.json](./334660-japan-mahjong.json) |
 | Japan Studio VR Music Festival | 68296 | [68296-japan-studio-vr-music-festival.json](./68296-japan-studio-vr-music-festival.json) |
+| Japan Sumo Cup: Yokozuna vs. Street Fighter | 59468 | [59468-japan-sumo-cup-yokozuna-vs-street-fighter.json](./59468-japan-sumo-cup-yokozuna-vs-street-fighter.json) |
 | Japan Train Models: JR Kyushu Edition | 286104 | [286104-japan-train-models-jr-kyushu-edition.json](./286104-japan-train-models-jr-kyushu-edition.json) |
 | Japan Train Models: JR West Edition | 278130 | [278130-japan-train-models-jr-west-edition.json](./278130-japan-train-models-jr-west-edition.json) |
 | Japan Trip | 340767 | [340767-japan-trip.json](./340767-japan-trip.json) |
