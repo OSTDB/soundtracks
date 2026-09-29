@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emagon | 60783 | [60783-emagon.json](./60783-emagon.json) |
 | Emancy: Borderline War | 237650 | [237650-emancy-borderline-war.json](./237650-emancy-borderline-war.json) |
 | Embark Untitled Game | 115446 | [115446-embark-untitled-game.json](./115446-embark-untitled-game.json) |
+| Embassy Assault | 12935 | [12935-embassy-assault.json](./12935-embassy-assault.json) |
 | Embattled | 261872 | [261872-embattled.json](./261872-embattled.json) |
 | Ember & Blade | 340741 | [340741-ember-and-blade.json](./340741-ember-and-blade.json) |
 | Ember Island | 391189 | [391189-ember-island.json](./391189-ember-island.json) |
