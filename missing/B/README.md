@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bard's Lesson | 184419 | [184419-bards-lesson.json](./184419-bards-lesson.json) |
 | Barda | 345592 | [345592-barda.json](./345592-barda.json) |
 | Bardarts | 141222 | [141222-bardarts.json](./141222-bardarts.json) |
+| Bardbarian | 8379 | [8379-bardbarian.json](./8379-bardbarian.json) |
 | Bardcard | 214479 | [214479-bardcard.json](./214479-bardcard.json) |
 | Bardella and the Curse of Silence | 399167 | [399167-bardella-and-the-curse-of-silence.json](./399167-bardella-and-the-curse-of-silence.json) |
 | Bardic: Quest for Love | 270100 | [270100-bardic-quest-for-love.json](./270100-bardic-quest-for-love.json) |
@@ -1259,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barnicle | 344380 | [344380-barnicle.json](./344380-barnicle.json) |
 | Barnstormer | 92849 | [92849-barnstormer.json](./92849-barnstormer.json) |
 | Barnstormers: Determined to Win | 241304 | [241304-barnstormers-determined-to-win.json](./241304-barnstormers-determined-to-win.json) |
+| Barnstorming | 18032 | [18032-barnstorming.json](./18032-barnstorming.json) |
 | Barnyard | 3794 | [3794-barnyard.json](./3794-barnyard.json) |
 | Barnyard Blaster Lite | 100327 | [100327-barnyard-blaster-lite.json](./100327-barnyard-blaster-lite.json) |
 | Barnyard Games For Kids | 96737 | [96737-barnyard-games-for-kids.json](./96737-barnyard-games-for-kids.json) |
