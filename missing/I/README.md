@@ -2446,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intruder Alert: Ixian Operations | 33126 | [33126-intruder-alert-ixian-operations.json](./33126-intruder-alert-ixian-operations.json) |
 | Intruder Combat Training | 337121 | [337121-intruder-combat-training.json](./337121-intruder-combat-training.json) |
 | Intruder on the Bridge | 173839 | [173839-intruder-on-the-bridge.json](./173839-intruder-on-the-bridge.json) |
+| Intrusion 2 | 6277 | [6277-intrusion-2.json](./6277-intrusion-2.json) |
 | Intrusion of Alice | 223175 | [223175-intrusion-of-alice.json](./223175-intrusion-of-alice.json) |
 | Inu Dai Suki! | 46604 | [46604-inu-dai-suki.json](./46604-inu-dai-suki.json) |
 | Inu no Osanpo | 169323 | [169323-inu-no-osanpo.json](./169323-inu-no-osanpo.json) |
