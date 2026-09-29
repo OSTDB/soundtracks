@@ -1895,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Spirits: Kiseki no Hasha | 56516 | [56516-battle-spirits-kiseki-no-hasha.json](./56516-battle-spirits-kiseki-no-hasha.json) |
 | Battle Squares | 322008 | [322008-battle-squares.json](./322008-battle-squares.json) |
 | Battle Squares | 54739 | [54739-battle-squares.json](./54739-battle-squares.json) |
+| Battle Stadium D.O.N | 50575 | [50575-battle-stadium-d-o-n.json](./50575-battle-stadium-d-o-n.json) |
 | Battle Stadium: Senbatsu Pro Yakyuu | 48585 | [48585-battle-stadium-senbatsu-pro-yakyuu.json](./48585-battle-stadium-senbatsu-pro-yakyuu.json) |
 | Battle Star | 157129 | [157129-battle-star.json](./157129-battle-star.json) |
 | Battle Stations | 136864 | [136864-battle-stations.json](./136864-battle-stations.json) |
@@ -3891,6 +3892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitfighter | 47275 | [47275-bitfighter.json](./47275-bitfighter.json) |
 | Bitgram | 55157 | [55157-bitgram.json](./55157-bitgram.json) |
 | BitLiberator | 340036 | [340036-bitliberator.json](./340036-bitliberator.json) |
+| BitLife | 140762 | [140762-bitlife.json](./140762-bitlife.json) |
 | Bitmap Bureau Collection | 287089 | [287089-bitmap-bureau-collection.json](./287089-bitmap-bureau-collection.json) |
 | Bitmap Bureau Collection: Deluxe Edition | 294814 | [294814-bitmap-bureau-collection-deluxe-edition.json](./294814-bitmap-bureau-collection-deluxe-edition.json) |
 | Bitmates | 228413 | [228413-bitmates.json](./228413-bitmates.json) |
@@ -4851,6 +4853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood & Gold: Caribbean! - The Zombiest Adventures | 124837 | [124837-blood-and-gold-caribbean-the-zombiest-adventures.json](./124837-blood-and-gold-caribbean-the-zombiest-adventures.json) |
 | Blood & Lace: A Gothic Novel | 69924 | [69924-blood-and-lace-a-gothic-novel.json](./69924-blood-and-lace-a-gothic-novel.json) |
 | Blood & Lust | 338256 | [338256-blood-and-lust.json](./338256-blood-and-lust.json) |
+| Blood & Truth | 75242 | [75242-blood-and-truth.json](./75242-blood-and-truth.json) |
 | Blood Ancestors | 68712 | [68712-blood-ancestors.json](./68712-blood-ancestors.json) |
 | Blood Ancestors: Open Alpha | 100573 | [100573-blood-ancestors-open-alpha.json](./100573-blood-ancestors-open-alpha.json) |
 | Blood and Bones: A Skeleton Scorned | 262312 | [262312-blood-and-bones-a-skeleton-scorned.json](./262312-blood-and-bones-a-skeleton-scorned.json) |
@@ -4944,6 +4947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Omen 2: Legacy of Kain | 3823 | [3823-blood-omen-2-legacy-of-kain.json](./3823-blood-omen-2-legacy-of-kain.json) |
 | Blood Omen: Legacy of Kain | 317629 | [317629-blood-omen-legacy-of-kain.json](./317629-blood-omen-legacy-of-kain.json) |
 | Blood Omen: Legacy of Kain | 7894 | [7894-blood-omen-legacy-of-kain.json](./7894-blood-omen-legacy-of-kain.json) |
+| Blood on the Clocktower | 256090 | [256090-blood-on-the-clocktower.json](./256090-blood-on-the-clocktower.json) |
 | Blood On The Thames | 293105 | [293105-blood-on-the-thames.json](./293105-blood-on-the-thames.json) |
 | Blood Orange: Definitive Edition | 273369 | [273369-blood-orange-definitive-edition.json](./273369-blood-orange-definitive-edition.json) |
 | Blood Pact | 239873 | [239873-blood-pact.json](./239873-blood-pact.json) |
