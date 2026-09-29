@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raidborn: Founder's Pack | 298337 | [298337-raidborn-founders-pack.json](./298337-raidborn-founders-pack.json) |
 | Raiden | 6841 | [6841-raiden.json](./6841-raiden.json) |
 | Raiden Fighters Aces | 7153 | [7153-raiden-fighters-aces.json](./7153-raiden-fighters-aces.json) |
+| Raiden II | 8855 | [8855-raiden-ii.json](./8855-raiden-ii.json) |
 | Raiden III x Mikado Maniax: Deluxe Edition | 234207 | [234207-raiden-iii-x-mikado-maniax-deluxe-edition.json](./234207-raiden-iii-x-mikado-maniax-deluxe-edition.json) |
 | Raiden Nova | 319140 | [319140-raiden-nova.json](./319140-raiden-nova.json) |
 | Raiden Trad | 46211 | [46211-raiden-trad.json](./46211-raiden-trad.json) |
@@ -2876,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Dust | 271737 | [271737-return-to-dust.json](./271737-return-to-dust.json) |
 | Return to Earth | 121566 | [121566-return-to-earth.json](./121566-return-to-earth.json) |
 | Return to Earth 2130 | 157182 | [157182-return-to-earth-2130.json](./157182-return-to-earth-2130.json) |
+| Return to Grace | 249477 | [249477-return-to-grace.json](./249477-return-to-grace.json) |
 | Return to Grisly Manor | 88046 | [88046-return-to-grisly-manor.json](./88046-return-to-grisly-manor.json) |
 | Return to Krondor | 8827 | [8827-return-to-krondor.json](./8827-return-to-krondor.json) |
 | Return to Kroz | 71789 | [71789-return-to-kroz.json](./71789-return-to-kroz.json) |
