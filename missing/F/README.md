@@ -2252,6 +2252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Tactics: The War of the Lions | 394 | [394-final-fantasy-tactics-the-war-of-the-lions.json](./394-final-fantasy-tactics-the-war-of-the-lions.json) |
 | Final Fantasy Type-0 HD | 7399 | [7399-final-fantasy-type-0-hd.json](./7399-final-fantasy-type-0-hd.json) |
 | Final Fantasy Type-0 HD: Limited Edition | 186630 | [186630-final-fantasy-type-0-hd-limited-edition.json](./186630-final-fantasy-type-0-hd-limited-edition.json) |
+| Final Fantasy V | 158984 | [158984-final-fantasy-v.json](./158984-final-fantasy-v.json) |
 | Final Fantasy V | 288349 | [288349-final-fantasy-v.json](./288349-final-fantasy-v.json) |
 | Final Fantasy V Advance | 20597 | [20597-final-fantasy-v-advance.json](./20597-final-fantasy-v-advance.json) |
 | Final Fantasy V-Pixel Freemaster | 315635 | [315635-final-fantasy-v-pixel-freemaster.json](./315635-final-fantasy-v-pixel-freemaster.json) |
