@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | Z After | 213938 | [213938-z-after.json](./213938-z-after.json) |
 | Z After: A Point and Click Survival | 343272 | [343272-z-after-a-point-and-click-survival.json](./343272-z-after-a-point-and-click-survival.json) |
+| Z Collection | 52102 | [52102-z-collection.json](./52102-z-collection.json) |
 | Z Escape: Complete Edition | 277911 | [277911-z-escape-complete-edition.json](./277911-z-escape-complete-edition.json) |
 | Z Juice | 311812 | [311812-z-juice.json](./311812-z-juice.json) |
 | Z Line | 254152 | [254152-z-line.json](./254152-z-line.json) |
@@ -31,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z: Steel Soldiers | 3276 | [3276-z-steel-soldiers.json](./3276-z-steel-soldiers.json) |
 | Z: The End | 36400 | [36400-z-the-end.json](./36400-z-the-end.json) |
 | Z.A.T.O.: I Love the World and Everything In It | 376847 | [376847-z-a-t-o-i-love-the-world-and-everything-in-it.json](./376847-z-a-t-o-i-love-the-world-and-everything-in-it.json) |
+| Z.I.O.N: Deluxe Edition | 52101 | [52101-z-i-o-n-deluxe-edition.json](./52101-z-i-o-n-deluxe-edition.json) |
 | Z.O.M.B.I.E. | 163952 | [163952-z-o-m-b-i-e.json](./163952-z-o-m-b-i-e.json) |
 | Z.O.N.A Project X | 234584 | [234584-z-o-n-a-project-x.json](./234584-z-o-n-a-project-x.json) |
 | Z.O.N.A Project X VR | 216803 | [216803-z-o-n-a-project-x-vr.json](./216803-z-o-n-a-project-x-vr.json) |
@@ -126,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zapactris | 71551 | [71551-zapactris.json](./71551-zapactris.json) |
 | Zaphie 2 | 145656 | [145656-zaphie-2.json](./145656-zaphie-2.json) |
 | Zapling Bygone: Deluxe Edition | 249261 | [249261-zapling-bygone-deluxe-edition.json](./249261-zapling-bygone-deluxe-edition.json) |
+| Zapp: Escape From Hollowcell | 52100 | [52100-zapp-escape-from-hollowcell.json](./52100-zapp-escape-from-hollowcell.json) |
 | ZAR | 161374 | [161374-zar.json](./161374-zar.json) |
 | Zardy's Maze | 139234 | [139234-zardys-maze.json](./139234-zardys-maze.json) |
 | Zargog | 356638 | [356638-zargog.json](./356638-zargog.json) |
@@ -315,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenless Zone Zero: Update 3.0 - A Sleepwalker's Confession | 406810 | [406810-zenless-zone-zero-update-3-0-a-sleepwalkers-confession.json](./406810-zenless-zone-zero-update-3-0-a-sleepwalkers-confession.json) |
 | Zenless Zone Zero: Update 3.1 - The Long Goodbye | 411735 | [411735-zenless-zone-zero-update-3-1-the-long-goodbye.json](./411735-zenless-zone-zero-update-3-1-the-long-goodbye.json) |
 | Zenmai Zamurai | 124128 | [124128-zenmai-zamurai.json](./124128-zenmai-zamurai.json) |
+| Zeno Archives | 52109 | [52109-zeno-archives.json](./52109-zeno-archives.json) |
 | Zenodeath | 118828 | [118828-zenodeath.json](./118828-zenodeath.json) |
 | Zenomatrix | 332450 | [332450-zenomatrix.json](./332450-zenomatrix.json) |
 | Zenonia | 38725 | [38725-zenonia.json](./38725-zenonia.json) |
@@ -349,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Deaths | 116129 | [116129-zero-deaths.json](./116129-zero-deaths.json) |
 | Zero Degrees | 258702 | [258702-zero-degrees.json](./258702-zero-degrees.json) |
 | Zero Divide | 20709 | [20709-zero-divide.json](./20709-zero-divide.json) |
+| Zero Escape Trilogy | 52108 | [52108-zero-escape-trilogy.json](./52108-zero-escape-trilogy.json) |
 | Zero Escape: Nine Hours, Nine Persons, Nine Doors | 319754 | [319754-zero-escape-nine-hours-nine-persons-nine-doors.json](./319754-zero-escape-nine-hours-nine-persons-nine-doors.json) |
 | Zero Escape: Zero Time Dilemma - Limited Watch Bonus Edition | 89890 | [89890-zero-escape-zero-time-dilemma-limited-watch-bonus-edition.json](./89890-zero-escape-zero-time-dilemma-limited-watch-bonus-edition.json) |
 | Zero Fighter | 385714 | [385714-zero-fighter.json](./385714-zero-fighter.json) |
@@ -374,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Pilot: Dai-san-ji Sekai Taisen 1946 | 59359 | [59359-zero-pilot-dai-san-ji-sekai-taisen-1946.json](./59359-zero-pilot-dai-san-ji-sekai-taisen-1946.json) |
 | Zero Point Survivor | 371308 | [371308-zero-point-survivor.json](./371308-zero-point-survivor.json) |
 | Zero Protocol | 289338 | [289338-zero-protocol.json](./289338-zero-protocol.json) |
+| Zero Reflex: Black Eye Edition | 52107 | [52107-zero-reflex-black-eye-edition.json](./52107-zero-reflex-black-eye-edition.json) |
 | Zero Six: Behind Enemy Lines | 129131 | [129131-zero-six-behind-enemy-lines.json](./129131-zero-six-behind-enemy-lines.json) |
 | Zero Spring Episode 1 | 112125 | [112125-zero-spring-episode-1.json](./112125-zero-spring-episode-1.json) |
 | Zero spring episode 2 | 112370 | [112370-zero-spring-episode-2.json](./112370-zero-spring-episode-2.json) |
@@ -472,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zig Zag Go | 84933 | [84933-zig-zag-go.json](./84933-zig-zag-go.json) |
 | Ziggurat | 11646 | [11646-ziggurat.json](./11646-ziggurat.json) |
 | Ziggurat | 23876 | [23876-ziggurat.json](./23876-ziggurat.json) |
+| Ziggurat 3D Chess | 52088 | [52088-ziggurat-3d-chess.json](./52088-ziggurat-3d-chess.json) |
 | Ziggy | 253461 | [253461-ziggy.json](./253461-ziggy.json) |
 | Ziggy Kids Racing | 246971 | [246971-ziggy-kids-racing.json](./246971-ziggy-kids-racing.json) |
 | Ziggy Putts | 58188 | [58188-ziggy-putts.json](./58188-ziggy-putts.json) |
@@ -724,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Night Terror | 9546 | [9546-zombie-night-terror.json](./9546-zombie-night-terror.json) |
 | Zombie Night Terror: Collector's Edition | 194408 | [194408-zombie-night-terror-collectors-edition.json](./194408-zombie-night-terror-collectors-edition.json) |
 | Zombie Night Terror: Deluxe Edition | 194409 | [194409-zombie-night-terror-deluxe-edition.json](./194409-zombie-night-terror-deluxe-edition.json) |
+| Zombie Night Terror: Special Edition | 52106 | [52106-zombie-night-terror-special-edition.json](./52106-zombie-night-terror-special-edition.json) |
 | Zombie Nightmare | 74448 | [74448-zombie-nightmare.json](./74448-zombie-nightmare.json) |
 | Zombie Ninja Confessional | 128652 | [128652-zombie-ninja-confessional.json](./128652-zombie-ninja-confessional.json) |
 | Zombie Office Politics | 34166 | [34166-zombie-office-politics.json](./34166-zombie-office-politics.json) |
@@ -968,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoomageddon | 327170 | [327170-zoomageddon.json](./327170-zoomageddon.json) |
 | Zoomalia | 376443 | [376443-zoomalia.json](./376443-zoomalia.json) |
 | Zoombinis | 34591 | [34591-zoombinis.json](./34591-zoombinis.json) |
+| ZoomBook: The Temple of the Sun | 52099 | [52099-zoombook-the-temple-of-the-sun.json](./52099-zoombook-the-temple-of-the-sun.json) |
 | Zoomerang | 64949 | [64949-zoomerang.json](./64949-zoomerang.json) |
 | ZoomnBoom | 107876 | [107876-zoomnboom.json](./107876-zoomnboom.json) |
 | Zooo | 265196 | [265196-zooo.json](./265196-zooo.json) |
@@ -1001,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zory | 383381 | [383381-zory.json](./383381-zory.json) |
 | Zotenhold | 236498 | [236498-zotenhold.json](./236498-zotenhold.json) |
 | Zotrix | 23486 | [23486-zotrix.json](./23486-zotrix.json) |
+| Zotrix Bundle | 52098 | [52098-zotrix-bundle.json](./52098-zotrix-bundle.json) |
 | Zotrix Starglider | 147263 | [147263-zotrix-starglider.json](./147263-zotrix-starglider.json) |
 | Zotto suru Kowai Toshi Densetsu | 252406 | [252406-zotto-suru-kowai-toshi-densetsu.json](./252406-zotto-suru-kowai-toshi-densetsu.json) |
 | Zozo and the Lost Dreams | 369087 | [369087-zozo-and-the-lost-dreams.json](./369087-zozo-and-the-lost-dreams.json) |
@@ -1036,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zunius | 121740 | [121740-zunius.json](./121740-zunius.json) |
 | ZunZun Block | 172657 | [172657-zunzun-block.json](./172657-zunzun-block.json) |
 | Zunzunkyou No Yabou | 40972 | [40972-zunzunkyou-no-yabou.json](./40972-zunzunkyou-no-yabou.json) |
+| Zup-Zup! | 52097 | [52097-zup-zup.json](./52097-zup-zup.json) |
 | Zup! 5 | 38784 | [38784-zup-5.json](./38784-zup-5.json) |
 | Zup! F | 129833 | [129833-zup-f.json](./129833-zup-f.json) |
 | Zup! S | 111200 | [111200-zup-s.json](./111200-zup-s.json) |
