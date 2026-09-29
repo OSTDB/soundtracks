@@ -3415,6 +3415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Isekai: Legends of Nipponia | 277012 | [277012-american-isekai-legends-of-nipponia.json](./277012-american-isekai-legends-of-nipponia.json) |
 | American Marksman | 239912 | [239912-american-marksman.json](./239912-american-marksman.json) |
 | American McGee Presents: Scrapland | 20289 | [20289-american-mcgee-presents-scrapland.json](./20289-american-mcgee-presents-scrapland.json) |
+| American McGee's Alice | 337 | [337-american-mcgees-alice.json](./337-american-mcgees-alice.json) |
 | American McGee's Oz | 93984 | [93984-american-mcgees-oz.json](./93984-american-mcgees-oz.json) |
 | American Motorcycle Simulator | 133223 | [133223-american-motorcycle-simulator.json](./133223-american-motorcycle-simulator.json) |
 | American Museum of Natural History's T. Rex: Skeleton Crew | 357428 | [357428-american-museum-of-natural-historys-t-rex-skeleton-crew.json](./357428-american-museum-of-natural-historys-t-rex-skeleton-crew.json) |
