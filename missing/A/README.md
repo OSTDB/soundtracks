@@ -383,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Roach In Space | 269058 | [269058-a-roach-in-space.json](./269058-a-roach-in-space.json) |
 | A Road That May Lead Nowhere | 77658 | [77658-a-road-that-may-lead-nowhere.json](./77658-a-road-that-may-lead-nowhere.json) |
 | A Roaming Wildebeest In Spain | 271244 | [271244-a-roaming-wildebeest-in-spain.json](./271244-a-roaming-wildebeest-in-spain.json) |
+| A Robot Named Fight | 51944 | [51944-a-robot-named-fight.json](./51944-a-robot-named-fight.json) |
 | A Rocket's Intensity | 247777 | [247777-a-rockets-intensity.json](./247777-a-rockets-intensity.json) |
 | A Rogue Escape | 142376 | [142376-a-rogue-escape.json](./142376-a-rogue-escape.json) |
 | A Room Beyond | 33421 | [33421-a-room-beyond.json](./33421-a-room-beyond.json) |
@@ -2577,6 +2578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Breed + Alien Breed: Tower Assault | 154438 | [154438-alien-breed-alien-breed-tower-assault.json](./154438-alien-breed-alien-breed-tower-assault.json) |
 | Alien Breed 3D | 14239 | [14239-alien-breed-3d.json](./14239-alien-breed-3d.json) |
 | Alien Breed 3D 2: The Killing Grounds | 14240 | [14240-alien-breed-3d-2-the-killing-grounds.json](./14240-alien-breed-3d-2-the-killing-grounds.json) |
+| Alien Breed Evolution | 21109 | [21109-alien-breed-evolution.json](./21109-alien-breed-evolution.json) |
 | Alien Breed II: The Horror Continues | 14241 | [14241-alien-breed-ii-the-horror-continues.json](./14241-alien-breed-ii-the-horror-continues.json) |
 | Alien Breed Special Edition / Qwak | 82505 | [82505-alien-breed-special-edition-qwak.json](./82505-alien-breed-special-edition-qwak.json) |
 | Alien Bubble Destroyer | 81998 | [81998-alien-bubble-destroyer.json](./81998-alien-bubble-destroyer.json) |
