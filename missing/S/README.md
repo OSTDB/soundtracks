@@ -1901,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sealed Bite: Extended | 291228 | [291228-sealed-bite-extended.json](./291228-sealed-bite-extended.json) |
 | Sealer of Dungeons | 211707 | [211707-sealer-of-dungeons.json](./211707-sealer-of-dungeons.json) |
 | Seals From the Frosty Bay | 402302 | [402302-seals-from-the-frosty-bay.json](./402302-seals-from-the-frosty-bay.json) |
+| Seaman | 9130 | [9130-seaman.json](./9130-seaman.json) |
 | Seaman 2 | 11446 | [11446-seaman-2.json](./11446-seaman-2.json) |
 | Seamongrel | 342269 | [342269-seamongrel.json](./342269-seamongrel.json) |
 | Seance | 358955 | [358955-seance.json](./358955-seance.json) |
@@ -3415,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapeuku - Shape Puzzle Game | 108289 | [108289-shapeuku-shape-puzzle-game.json](./108289-shapeuku-shape-puzzle-game.json) |
 | Shapey Heads | 120351 | [120351-shapey-heads.json](./120351-shapey-heads.json) |
 | Shapey Heads | 241989 | [241989-shapey-heads.json](./241989-shapey-heads.json) |
+| Shapez 2: Factory | 225512 | [225512-shapez-2-factory.json](./225512-shapez-2-factory.json) |
 | Shapez 2: Supporter Edition | 314519 | [314519-shapez-2-supporter-edition.json](./314519-shapez-2-supporter-edition.json) |
 | Shapik: The Quest | 211742 | [211742-shapik-the-quest.json](./211742-shapik-the-quest.json) |
 | Shapo | 84898 | [84898-shapo.json](./84898-shapo.json) |
@@ -4737,6 +4739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill: Play Novel | 77257 | [77257-silent-hill-play-novel.json](./77257-silent-hill-play-novel.json) |
 | Silent Hill: Shattered Memories | 486 | [486-silent-hill-shattered-memories.json](./486-silent-hill-shattered-memories.json) |
 | Silent Hill: The Arcade | 324910 | [324910-silent-hill-the-arcade.json](./324910-silent-hill-the-arcade.json) |
+| Silent Hill: Townfall | 222342 | [222342-silent-hill-townfall.json](./222342-silent-hill-townfall.json) |
 | Silent Hills | 7611 | [7611-silent-hills.json](./7611-silent-hills.json) |
 | Silent Hope: Wanderer's Weapon & Item Set | 254464 | [254464-silent-hope-wanderers-weapon-and-item-set.json](./254464-silent-hope-wanderers-weapon-and-item-set.json) |
 | Silent House | 177304 | [177304-silent-house.json](./177304-silent-house.json) |
@@ -5924,6 +5927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slave Pageant | 122262 | [122262-slave-pageant.json](./122262-slave-pageant.json) |
 | Slave Princess Finne: Why Did She Sell Out Her Own Kingdom? | 214179 | [214179-slave-princess-finne-why-did-she-sell-out-her-own-kingdom.json](./214179-slave-princess-finne-why-did-she-sell-out-her-own-kingdom.json) |
 | Slave Princess Sarah | 158147 | [158147-slave-princess-sarah.json](./158147-slave-princess-sarah.json) |
+| Slave Zero | 8341 | [8341-slave-zero.json](./8341-slave-zero.json) |
 | Slave Zero X: Calamity Edition | 277375 | [277375-slave-zero-x-calamity-edition.json](./277375-slave-zero-x-calamity-edition.json) |
 | Slave Zero X: Digital Deluxe Edition | 277028 | [277028-slave-zero-x-digital-deluxe-edition.json](./277028-slave-zero-x-digital-deluxe-edition.json) |
 | Slave's Sword 2 ~Imperial Revolution~ | 113818 | [113818-slaves-sword-2-imperial-revolution.json](./113818-slaves-sword-2-imperial-revolution.json) |
@@ -12702,6 +12706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter Alpha 3 | 6704 | [6704-street-fighter-alpha-3.json](./6704-street-fighter-alpha-3.json) |
 | Street Fighter Alpha 3 Upper | 219058 | [219058-street-fighter-alpha-3-upper.json](./219058-street-fighter-alpha-3-upper.json) |
 | Street Fighter Alpha 3: Xiang Long | 213628 | [213628-street-fighter-alpha-3-xiang-long.json](./213628-street-fighter-alpha-3-xiang-long.json) |
+| Street Fighter Alpha: Warriors' Dreams | 243819 | [243819-street-fighter-alpha-warriors-dreams.json](./243819-street-fighter-alpha-warriors-dreams.json) |
 | Street Fighter Alpha: Warriors' Dreams | 6702 | [6702-street-fighter-alpha-warriors-dreams.json](./6702-street-fighter-alpha-warriors-dreams.json) |
 | Street Fighter Battle Combination | 55065 | [55065-street-fighter-battle-combination.json](./55065-street-fighter-battle-combination.json) |
 | Street Fighter EX | 39319 | [39319-street-fighter-ex.json](./39319-street-fighter-ex.json) |
