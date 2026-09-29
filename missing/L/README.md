@@ -1833,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level up Everything! | 333068 | [333068-level-up-everything.json](./333068-level-up-everything.json) |
 | Level Up Simulator | 389117 | [389117-level-up-simulator.json](./389117-level-up-simulator.json) |
 | Level Up Your Body | 270129 | [270129-level-up-your-body.json](./270129-level-up-your-body.json) |
+| Level Up! | 36192 | [36192-level-up.json](./36192-level-up.json) |
 | Level Up! | 95373 | [95373-level-up.json](./95373-level-up.json) |
 | Level Up! Factory | 298153 | [298153-level-up-factory.json](./298153-level-up-factory.json) |
 | Level Zero: Extraction | 223473 | [223473-level-zero-extraction.json](./223473-level-zero-extraction.json) |
@@ -2087,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Arrow is Missing | 262674 | [262674-light-arrow-is-missing.json](./262674-light-arrow-is-missing.json) |
 | Light Bearers | 111032 | [111032-light-bearers.json](./111032-light-bearers.json) |
 | Light Bearers 2 | 303629 | [303629-light-bearers-2.json](./303629-light-bearers-2.json) |
+| Light Bound | 36101 | [36101-light-bound.json](./36101-light-bound.json) |
 | Light Box | 295903 | [295903-light-box.json](./295903-light-box.json) |
 | Light Bringer | 199516 | [199516-light-bringer.json](./199516-light-bringer.json) |
 | Light Bringer | 38575 | [38575-light-bringer.json](./38575-light-bringer.json) |
@@ -4357,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna Story: A Forgotten Tale | 141157 | [141157-luna-story-a-forgotten-tale.json](./141157-luna-story-a-forgotten-tale.json) |
 | Luna-3X | 315838 | [315838-luna-3x.json](./315838-luna-3x.json) |
 | Luna: Obscura | 341493 | [341493-luna-obscura.json](./341493-luna-obscura.json) |
+| Luna: Shattered Hearts - Episode 1 | 36173 | [36173-luna-shattered-hearts-episode-1.json](./36173-luna-shattered-hearts-episode-1.json) |
 | Luna: Supernatural Hunter | 189103 | [189103-luna-supernatural-hunter.json](./189103-luna-supernatural-hunter.json) |
 | Luna: The Shadow Dust | 56463 | [56463-luna-the-shadow-dust.json](./56463-luna-the-shadow-dust.json) |
 | Luna's Room | 397237 | [397237-lunas-room.json](./397237-lunas-room.json) |
