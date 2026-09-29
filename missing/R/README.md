@@ -1737,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ball Escape Adventure | 218477 | [218477-red-ball-escape-adventure.json](./218477-red-ball-escape-adventure.json) |
 | Red Ball Super Run | 228711 | [228711-red-ball-super-run.json](./228711-red-ball-super-run.json) |
 | Red Ball vs Green King | 28184 | [28184-red-ball-vs-green-king.json](./28184-red-ball-vs-green-king.json) |
+| Red Baron | 18469 | [18469-red-baron.json](./18469-red-baron.json) |
 | Red Baron 3D | 50124 | [50124-red-baron-3d.json](./50124-red-baron-3d.json) |
 | Red Baron Arcade | 21266 | [21266-red-baron-arcade.json](./21266-red-baron-arcade.json) |
 | Red Baron History | 9411 | [9411-red-baron-history.json](./9411-red-baron-history.json) |
@@ -2508,6 +2509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Love Revenge | 34576 | [34576-rescue-love-revenge.json](./34576-rescue-love-revenge.json) |
 | Rescue Mael! | 185105 | [185105-rescue-mael.json](./185105-rescue-mael.json) |
 | Rescue Mary: Manor Renovation | 227949 | [227949-rescue-mary-manor-renovation.json](./227949-rescue-mary-manor-renovation.json) |
+| Rescue Mission | 18140 | [18140-rescue-mission.json](./18140-rescue-mission.json) |
 | Rescue my Queen! | 140998 | [140998-rescue-my-queen.json](./140998-rescue-my-queen.json) |
 | Rescue Ops: Wildfire | 349412 | [349412-rescue-ops-wildfire.json](./349412-rescue-ops-wildfire.json) |
 | Rescue Pets: My ePets | 252120 | [252120-rescue-pets-my-epets.json](./252120-rescue-pets-my-epets.json) |
