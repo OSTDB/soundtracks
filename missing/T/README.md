@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Fortune | 312121 | [312121-tales-of-fortune.json](./312121-tales-of-fortune.json) |
 | Tales of Glacier VR | 57036 | [57036-tales-of-glacier-vr.json](./57036-tales-of-glacier-vr.json) |
 | Tales of Graces | 1211 | [1211-tales-of-graces.json](./1211-tales-of-graces.json) |
+| Tales of Graces f | 20444 | [20444-tales-of-graces-f.json](./20444-tales-of-graces-f.json) |
 | Tales of Graces F Remastered | 314945 | [314945-tales-of-graces-f-remastered.json](./314945-tales-of-graces-f-remastered.json) |
 | Tales of Graces F/ Tales of Symphonia Chronicles | 44617 | [44617-tales-of-graces-f-tales-of-symphonia-chronicles.json](./44617-tales-of-graces-f-tales-of-symphonia-chronicles.json) |
 | Tales of Grimace | 317984 | [317984-tales-of-grimace.json](./317984-tales-of-grimace.json) |
@@ -1892,6 +1893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis | 131536 | [131536-tennis.json](./131536-tennis.json) |
 | Tennis | 217967 | [217967-tennis.json](./217967-tennis.json) |
 | Tennis | 64208 | [64208-tennis.json](./64208-tennis.json) |
+| Tennis | 74548 | [74548-tennis.json](./74548-tennis.json) |
 | Tennis 2K2 | 45843 | [45843-tennis-2k2.json](./45843-tennis-2k2.json) |
 | Tennis Ace | 46111 | [46111-tennis-ace.json](./46111-tennis-ace.json) |
 | Tennis Addict | 206215 | [206215-tennis-addict.json](./206215-tennis-addict.json) |
@@ -3018,6 +3020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blackout Club | 89562 | [89562-the-blackout-club.json](./89562-the-blackout-club.json) |
 | The Blackwell Bundle | 154449 | [154449-the-blackwell-bundle.json](./154449-the-blackwell-bundle.json) |
 | The Blackwell Convergence | 9039 | [9039-the-blackwell-convergence.json](./9039-the-blackwell-convergence.json) |
+| The Blackwell Deception | 9037 | [9037-the-blackwell-deception.json](./9037-the-blackwell-deception.json) |
 | The Blackwell Legacy | 9043 | [9043-the-blackwell-legacy.json](./9043-the-blackwell-legacy.json) |
 | The Blaggers | 57081 | [57081-the-blaggers.json](./57081-the-blaggers.json) |
 | The Blair Witch Experience | 73541 | [73541-the-blair-witch-experience.json](./73541-the-blair-witch-experience.json) |
@@ -3971,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Fight | 175722 | [175722-the-elder-fight.json](./175722-the-elder-fight.json) |
 | The Elder Reality | 271486 | [271486-the-elder-reality.json](./271486-the-elder-reality.json) |
 | The Elder Scrolls Adventures: Redguard | 55 | [55-the-elder-scrolls-adventures-redguard.json](./55-the-elder-scrolls-adventures-redguard.json) |
+| The Elder Scrolls III: Morrowind - Game of the Year Edition | 24775 | [24775-the-elder-scrolls-iii-morrowind-game-of-the-year-edition.json](./24775-the-elder-scrolls-iii-morrowind-game-of-the-year-edition.json) |
 | The Elder Scrolls III: Tribunal | 57 | [57-the-elder-scrolls-iii-tribunal.json](./57-the-elder-scrolls-iii-tribunal.json) |
 | The Elder Scrolls IV: Oblivion - Game of the Year Edition | 27845 | [27845-the-elder-scrolls-iv-oblivion-game-of-the-year-edition.json](./27845-the-elder-scrolls-iv-oblivion-game-of-the-year-edition.json) |
 | The Elder Scrolls IV: Oblivion Mobile | 209010 | [209010-the-elder-scrolls-iv-oblivion-mobile.json](./209010-the-elder-scrolls-iv-oblivion-mobile.json) |
@@ -7900,6 +7904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tartarus Loop | 410449 | [410449-the-tartarus-loop.json](./410449-the-tartarus-loop.json) |
 | The Tavern Online. | 214767 | [214767-the-tavern-online.json](./214767-the-tavern-online.json) |
 | The Tear | 115005 | [115005-the-tear.json](./115005-the-tear.json) |
+| The Technomancer | 9919 | [9919-the-technomancer.json](./9919-the-technomancer.json) |
 | The Teeth | 210650 | [210650-the-teeth.json](./210650-the-teeth.json) |
 | The Teletransport Smurf | 135833 | [135833-the-teletransport-smurf.json](./135833-the-teletransport-smurf.json) |
 | The Telltale Games Collection | 99799 | [99799-the-telltale-games-collection.json](./99799-the-telltale-games-collection.json) |
@@ -8872,6 +8877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There is a Genie in my Szechuan Sauce: Remastered | 228372 | [228372-there-is-a-genie-in-my-szechuan-sauce-remastered.json](./228372-there-is-a-genie-in-my-szechuan-sauce-remastered.json) |
 | There Is No Escape | 396213 | [396213-there-is-no-escape.json](./396213-there-is-no-escape.json) |
 | There Is No Fangame | 406811 | [406811-there-is-no-fangame.json](./406811-there-is-no-fangame.json) |
+| There Is No Game | 28336 | [28336-there-is-no-game.json](./28336-there-is-no-game.json) |
 | There Is No Game: Jam Edition 2015 | 132522 | [132522-there-is-no-game-jam-edition-2015.json](./132522-there-is-no-game-jam-edition-2015.json) |
 | There is No GreenDam | 126532 | [126532-there-is-no-greendam.json](./126532-there-is-no-greendam.json) |
 | There Is No Light | 138213 | [138213-there-is-no-light.json](./138213-there-is-no-light.json) |
@@ -9388,6 +9394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thy Dungeonman 3 | 135847 | [135847-thy-dungeonman-3.json](./135847-thy-dungeonman-3.json) |
 | Thy Dungeonman II | 135846 | [135846-thy-dungeonman-ii.json](./135846-thy-dungeonman-ii.json) |
 | Thy Knights of Climbalot | 109675 | [109675-thy-knights-of-climbalot.json](./109675-thy-knights-of-climbalot.json) |
+| Thymesia | 145028 | [145028-thymesia.json](./145028-thymesia.json) |
 | Thyranya | 329134 | [329134-thyranya.json](./329134-thyranya.json) |
 | Thysiastery | 334695 | [334695-thysiastery.json](./334695-thysiastery.json) |
 | Tia.Sav | 113884 | [113884-tia-sav.json](./113884-tia-sav.json) |
@@ -11767,6 +11774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tormenta: Memórias da Tempestade | 231322 | [231322-tormenta-memorias-da-tempestade.json](./231322-tormenta-memorias-da-tempestade.json) |
 | Tormentarium | 271730 | [271730-tormentarium.json](./271730-tormentarium.json) |
 | Tormented 12 | 34730 | [34730-tormented-12.json](./34730-tormented-12.json) |
+| Tormented Souls | 138569 | [138569-tormented-souls.json](./138569-tormented-souls.json) |
 | Tormentor | 167259 | [167259-tormentor.json](./167259-tormentor.json) |
 | Tormentor: Action Fire Counter Shooter Game Simulator - Premium Edition | 283161 | [283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json](./283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json) |
 | Tormentum - Mystery Adventure | 90807 | [90807-tormentum-mystery-adventure.json](./90807-tormentum-mystery-adventure.json) |
@@ -12588,6 +12596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrackDayR | 143045 | [143045-trackdayr.json](./143045-trackdayr.json) |
 | Tracked: Shoot to Survive | 360773 | [360773-tracked-shoot-to-survive.json](./360773-tracked-shoot-to-survive.json) |
 | Trackline Express | 244341 | [244341-trackline-express.json](./244341-trackline-express.json) |
+| TrackMania | 18728 | [18728-trackmania.json](./18728-trackmania.json) |
 | TrackMania 2: Stadium | 9448 | [9448-trackmania-2-stadium.json](./9448-trackmania-2-stadium.json) |
 | TrackMania Nations | 9909 | [9909-trackmania-nations.json](./9909-trackmania-nations.json) |
 | TrackMania Nations Forever | 15773 | [15773-trackmania-nations-forever.json](./15773-trackmania-nations-forever.json) |
