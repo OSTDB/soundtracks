@@ -7155,6 +7155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Wunderwaffe | 151085 | [151085-project-wunderwaffe.json](./151085-project-wunderwaffe.json) |
 | Project X | 377577 | [377577-project-x.json](./377577-project-x.json) |
 | Project X Zone | 6864 | [6864-project-x-zone.json](./6864-project-x-zone.json) |
+| Project X Zone 2 | 9721 | [9721-project-x-zone-2.json](./9721-project-x-zone-2.json) |
 | Project X Zone: Limited Edition | 89877 | [89877-project-x-zone-limited-edition.json](./89877-project-x-zone-limited-edition.json) |
 | Project X: Love Potion Disaster | 218729 | [218729-project-x-love-potion-disaster.json](./218729-project-x-love-potion-disaster.json) |
 | Project Xinatra | 31934 | [31934-project-xinatra.json](./31934-project-xinatra.json) |
