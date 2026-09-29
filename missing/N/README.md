@@ -2172,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nim | 407560 | [407560-nim.json](./407560-nim.json) |
 | Nimbit Frontier | 258173 | [258173-nimbit-frontier.json](./258173-nimbit-frontier.json) |
 | Nimble Bunn | 68805 | [68805-nimble-bunn.json](./68805-nimble-bunn.json) |
+| Nimble Fish | 55234 | [55234-nimble-fish.json](./55234-nimble-fish.json) |
 | Nimble Numbers Ned | 41561 | [41561-nimble-numbers-ned.json](./41561-nimble-numbers-ned.json) |
 | Nimble Quest | 16780 | [16780-nimble-quest.json](./16780-nimble-quest.json) |
 | Nimble Strong | 256237 | [256237-nimble-strong.json](./256237-nimble-strong.json) |
@@ -2848,6 +2849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noiz2sa | 335673 | [335673-noiz2sa.json](./335673-noiz2sa.json) |
 | Noiz2sa | 86033 | [86033-noiz2sa.json](./86033-noiz2sa.json) |
 | Nojong | 184380 | [184380-nojong.json](./184380-nojong.json) |
+| Nokbak | 55222 | [55222-nokbak.json](./55222-nokbak.json) |
 | NokNok | 341484 | [341484-noknok.json](./341484-noknok.json) |
 | NokNok Invasion! | 183505 | [183505-noknok-invasion.json](./183505-noknok-invasion.json) |
 | Nol | 404808 | [404808-nol.json](./404808-nol.json) |
