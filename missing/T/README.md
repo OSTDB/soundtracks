@@ -4300,6 +4300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flintstones: Dino to the Rescue | 225618 | [225618-the-flintstones-dino-to-the-rescue.json](./225618-the-flintstones-dino-to-the-rescue.json) |
 | The Flintstones: The Movie | 146331 | [146331-the-flintstones-the-movie.json](./146331-the-flintstones-the-movie.json) |
 | The Flintstones: The Treasure of Sierra Madrock | 8450 | [8450-the-flintstones-the-treasure-of-sierra-madrock.json](./8450-the-flintstones-the-treasure-of-sierra-madrock.json) |
+| The Flintstones' Keyboard Fun | 41494 | [41494-the-flintstones-keyboard-fun.json](./41494-the-flintstones-keyboard-fun.json) |
 | The Floor is [Blank] | 157140 | [157140-the-floor-is-blank.json](./157140-the-floor-is-blank.json) |
 | The Floor is Breathing | 229356 | [229356-the-floor-is-breathing.json](./229356-the-floor-is-breathing.json) |
 | The Floor is Lava | 88478 | [88478-the-floor-is-lava.json](./88478-the-floor-is-lava.json) |
