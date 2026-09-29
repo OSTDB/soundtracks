@@ -641,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shodown 64: Warriors Rage | 19991 | [19991-samurai-shodown-64-warriors-rage.json](./19991-samurai-shodown-64-warriors-rage.json) |
 | Samurai Shodown NeoGeo Collection: Limited Edition Pack | 167069 | [167069-samurai-shodown-neogeo-collection-limited-edition-pack.json](./167069-samurai-shodown-neogeo-collection-limited-edition-pack.json) |
 | Samurai Shodown Sen | 23272 | [23272-samurai-shodown-sen.json](./23272-samurai-shodown-sen.json) |
+| Samurai Shodown V | 6026 | [6026-samurai-shodown-v.json](./6026-samurai-shodown-v.json) |
 | Samurai Shodown: Baiken | 167836 | [167836-samurai-shodown-baiken.json](./167836-samurai-shodown-baiken.json) |
 | Samurai Shodown: Deluxe Edition | 331842 | [331842-samurai-shodown-deluxe-edition.json](./331842-samurai-shodown-deluxe-edition.json) |
 | Samurai Shodown: Deluxe Pack | 237974 | [237974-samurai-shodown-deluxe-pack.json](./237974-samurai-shodown-deluxe-pack.json) |
@@ -2441,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senderos de Fugüm | 326606 | [326606-senderos-de-fugum.json](./326606-senderos-de-fugum.json) |
 | Senet | 71209 | [71209-senet.json](./71209-senet.json) |
 | Senet Deluxe | 99975 | [99975-senet-deluxe.json](./99975-senet-deluxe.json) |
+| Sengoku | 5433 | [5433-sengoku.json](./5433-sengoku.json) |
 | Sengoku 3 | 46784 | [46784-sengoku-3.json](./46784-sengoku-3.json) |
 | Sengoku Anthology | 43460 | [43460-sengoku-anthology.json](./43460-sengoku-anthology.json) |
 | Sengoku Basara X | 68950 | [68950-sengoku-basara-x.json](./68950-sengoku-basara-x.json) |
@@ -7310,6 +7312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sola | 173223 | [173223-sola.json](./173223-sola.json) |
 | Sola Rola: The Gravity Maze | 269855 | [269855-sola-rola-the-gravity-maze.json](./269855-sola-rola-the-gravity-maze.json) |
 | Solana and Sunny's Atelier | 216783 | [216783-solana-and-sunnys-atelier.json](./216783-solana-and-sunnys-atelier.json) |
+| Solar 2 | 6342 | [6342-solar-2.json](./6342-solar-2.json) |
 | Solar Battalion | 99600 | [99600-solar-battalion.json](./99600-solar-battalion.json) |
 | Solar Cage | 189038 | [189038-solar-cage.json](./189038-solar-cage.json) |
 | Solar Candy | 180849 | [180849-solar-candy.json](./180849-solar-candy.json) |
@@ -12257,6 +12260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonegate | 270213 | [270213-stonegate.json](./270213-stonegate.json) |
 | Stoneguard | 285983 | [285983-stoneguard.json](./285983-stoneguard.json) |
 | Stoneheart Archive | 409697 | [409697-stoneheart-archive.json](./409697-stoneheart-archive.json) |
+| Stonehearth | 5447 | [5447-stonehearth.json](./5447-stonehearth.json) |
 | Stonehenge VR | 33137 | [33137-stonehenge-vr.json](./33137-stonehenge-vr.json) |
 | Stonekeep | 253 | [253-stonekeep.json](./253-stonekeep.json) |
 | Stonemachia | 300028 | [300028-stonemachia.json](./300028-stonemachia.json) |
@@ -15678,6 +15682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swallow | 203871 | [203871-swallow.json](./203871-swallow.json) |
 | Swallow the Blue | 369749 | [369749-swallow-the-blue.json](./369749-swallow-the-blue.json) |
 | Swallow the Dark | 177827 | [177827-swallow-the-dark.json](./177827-swallow-the-dark.json) |
+| Swallow the Sea | 133836 | [133836-swallow-the-sea.json](./133836-swallow-the-sea.json) |
 | Swallowtail Butterfly Princess of Sexual Techniques | 82887 | [82887-swallowtail-butterfly-princess-of-sexual-techniques.json](./82887-swallowtail-butterfly-princess-of-sexual-techniques.json) |
 | Swallowtail: Ano Hi, Ao wo Koete | 402897 | [402897-swallowtail-ano-hi-ao-wo-koete.json](./402897-swallowtail-ano-hi-ao-wo-koete.json) |
 | Swam | 30179 | [30179-swam.json](./30179-swam.json) |
