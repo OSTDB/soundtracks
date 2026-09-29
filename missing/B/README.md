@@ -5147,6 +5147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlubBlub: Quest of the Blob | 102338 | [102338-blubblub-quest-of-the-blob.json](./102338-blubblub-quest-of-the-blob.json) |
 | Blue Angelo | 18253 | [18253-blue-angelo.json](./18253-blue-angelo.json) |
 | Blue Angelo: Angels from the Shrine | 66051 | [66051-blue-angelo-angels-from-the-shrine.json](./66051-blue-angelo-angels-from-the-shrine.json) |
+| Blue Archive | 139391 | [139391-blue-archive.json](./139391-blue-archive.json) |
 | Blue Bird's Song | 275346 | [275346-blue-birds-song.json](./275346-blue-birds-song.json) |
 | Blue Blaster Fandisc: Claudia Dakkan Sakusen | 408312 | [408312-blue-blaster-fandisc-claudia-dakkan-sakusen.json](./408312-blue-blaster-fandisc-claudia-dakkan-sakusen.json) |
 | Blue Blaze Maze | 96080 | [96080-blue-blaze-maze.json](./96080-blue-blaze-maze.json) |
@@ -5930,6 +5931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands: The Handsome Collection | 14548 | [14548-borderlands-the-handsome-collection.json](./14548-borderlands-the-handsome-collection.json) |
 | Borderlands: The Pre-Sequel - Handsome Jack Doppelganger | 186629 | [186629-borderlands-the-pre-sequel-handsome-jack-doppelganger.json](./186629-borderlands-the-pre-sequel-handsome-jack-doppelganger.json) |
 | Borderlands: The Pre-Sequel - Shock Drop Slaughter Pit | 13917 | [13917-borderlands-the-pre-sequel-shock-drop-slaughter-pit.json](./13917-borderlands-the-pre-sequel-shock-drop-slaughter-pit.json) |
+| Borderlands: The Secret Armory of General Knoxx | 13915 | [13915-borderlands-the-secret-armory-of-general-knoxx.json](./13915-borderlands-the-secret-armory-of-general-knoxx.json) |
 | Borderlands: The Zombie Island of Dr. Ned | 13913 | [13913-borderlands-the-zombie-island-of-dr-ned.json](./13913-borderlands-the-zombie-island-of-dr-ned.json) |
 | Borderlight | 115808 | [115808-borderlight.json](./115808-borderlight.json) |
 | Borderline | 6101 | [6101-borderline.json](./6101-borderline.json) |
@@ -8002,6 +8004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust Out | 174878 | [174878-bust-out.json](./174878-bust-out.json) |
 | Bust-A-Bloc | 43509 | [43509-bust-a-bloc.json](./43509-bust-a-bloc.json) |
 | Bust-A-Move | 246391 | [246391-bust-a-move.json](./246391-bust-a-move.json) |
+| Bust-A-Move | 28391 | [28391-bust-a-move.json](./28391-bust-a-move.json) |
 | Bust-a-Move '99 | 44958 | [44958-bust-a-move-99.json](./44958-bust-a-move-99.json) |
 | Bust-A-Move 2: Arcade Edition | 249129 | [249129-bust-a-move-2-arcade-edition.json](./249129-bust-a-move-2-arcade-edition.json) |
 | Bust-A-Move 2: Arcade Edition | 3455 | [3455-bust-a-move-2-arcade-edition.json](./3455-bust-a-move-2-arcade-edition.json) |
