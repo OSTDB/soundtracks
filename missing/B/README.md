@@ -1537,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bat-L-Blocks | 92616 | [92616-bat-l-blocks.json](./92616-bat-l-blocks.json) |
 | BataGacha! | 121031 | [121031-batagacha.json](./121031-batagacha.json) |
 | Batalla de Arquitectos | 353307 | [353307-batalla-de-arquitectos.json](./353307-batalla-de-arquitectos.json) |
+| Batbarian: Testament of the Primordials | 139177 | [139177-batbarian-testament-of-the-primordials.json](./139177-batbarian-testament-of-the-primordials.json) |
 | Batch 17 | 75187 | [75187-batch-17.json](./75187-batch-17.json) |
 | Baten Kaitos I & II HD Remaster | 236711 | [236711-baten-kaitos-i-and-ii-hd-remaster.json](./236711-baten-kaitos-i-and-ii-hd-remaster.json) |
 | Baten Kaitos Origins | 3796 | [3796-baten-kaitos-origins.json](./3796-baten-kaitos-origins.json) |
@@ -3830,6 +3831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit | 413076 | [413076-bit.json](./413076-bit.json) |
 | Bit Addiction | 277573 | [277573-bit-addiction.json](./277573-bit-addiction.json) |
 | Bit Bit Blocks | 61153 | [61153-bit-bit-blocks.json](./61153-bit-bit-blocks.json) |
+| Bit Blaster XL | 33733 | [33733-bit-blaster-xl.json](./33733-bit-blaster-xl.json) |
 | Bit Boy!! Arcade | 62852 | [62852-bit-boy-arcade.json](./62852-bit-boy-arcade.json) |
 | Bit Brawlers | 61716 | [61716-bit-brawlers.json](./61716-bit-brawlers.json) |
 | Bit Buddy | 379871 | [379871-bit-buddy.json](./379871-bit-buddy.json) |
