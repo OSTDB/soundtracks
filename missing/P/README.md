@@ -2094,6 +2094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Periodicity: Hats and Scars | 341583 | [341583-periodicity-hats-and-scars.json](./341583-periodicity-hats-and-scars.json) |
 | Periphery | 377180 | [377180-periphery.json](./377180-periphery.json) |
 | Periphery Synthetic | 215696 | [215696-periphery-synthetic.json](./215696-periphery-synthetic.json) |
+| Periscope Up | 13023 | [13023-periscope-up.json](./13023-periscope-up.json) |
 | Perish Song | 197259 | [197259-perish-song.json](./197259-perish-song.json) |
 | Perish the Thoth | 271458 | [271458-perish-the-thoth.json](./271458-perish-the-thoth.json) |
 | Perk Up | 372990 | [372990-perk-up.json](./372990-perk-up.json) |
@@ -7231,6 +7232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prophan Escape | 274534 | [274534-prophan-escape.json](./274534-prophan-escape.json) |
 | Prophecy | 133435 | [133435-prophecy.json](./133435-prophecy.json) |
 | Prophecy | 277333 | [277333-prophecy.json](./277333-prophecy.json) |
+| Prophecy I: The Viking Child | 12925 | [12925-prophecy-i-the-viking-child.json](./12925-prophecy-i-the-viking-child.json) |
 | Prophecy Island | 249841 | [249841-prophecy-island.json](./249841-prophecy-island.json) |
 | Prophecy Matrix | 207296 | [207296-prophecy-matrix.json](./207296-prophecy-matrix.json) |
 | Prophecy of the Nun | 165657 | [165657-prophecy-of-the-nun.json](./165657-prophecy-of-the-nun.json) |
@@ -7574,6 +7576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulseman | 45760 | [45760-pulseman.json](./45760-pulseman.json) |
 | Pulseman Amabilis | 215241 | [215241-pulseman-amabilis.json](./215241-pulseman-amabilis.json) |
 | Pulsen | 35985 | [35985-pulsen.json](./35985-pulsen.json) |
+| Pulsoids | 13024 | [13024-pulsoids.json](./13024-pulsoids.json) |
 | Pulsonic Baseball II | 245419 | [245419-pulsonic-baseball-ii.json](./245419-pulsonic-baseball-ii.json) |
 | Pulsonic Electronic Baseball | 245418 | [245418-pulsonic-electronic-baseball.json](./245418-pulsonic-electronic-baseball.json) |
 | PulzAR | 93544 | [93544-pulzar.json](./93544-pulzar.json) |
