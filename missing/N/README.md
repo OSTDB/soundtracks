@@ -1797,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 2K2 | 8840 | [8840-nhl-2k2.json](./8840-nhl-2k2.json) |
 | NHL 2K3 | 4045 | [4045-nhl-2k3.json](./4045-nhl-2k3.json) |
 | NHL 5-On-5 2006 | 57932 | [57932-nhl-5-on-5-2006.json](./57932-nhl-5-on-5-2006.json) |
+| NHL 94 Rewind | 146213 | [146213-nhl-94-rewind.json](./146213-nhl-94-rewind.json) |
 | NHL 95 | 299309 | [299309-nhl-95.json](./299309-nhl-95.json) |
 | NHL 95 | 4509 | [4509-nhl-95.json](./4509-nhl-95.json) |
 | NHL 96 | 11650 | [11650-nhl-96.json](./11650-nhl-96.json) |
