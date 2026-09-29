@@ -1162,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Perfect Day | 264061 | [264061-one-perfect-day.json](./264061-one-perfect-day.json) |
 | One Piece 2: Pirate King | 59466 | [59466-one-piece-2-pirate-king.json](./59466-one-piece-2-pirate-king.json) |
 | One Piece Clicker | 212282 | [212282-one-piece-clicker.json](./212282-one-piece-clicker.json) |
+| One Piece Mansion | 37288 | [37288-one-piece-mansion.json](./37288-one-piece-mansion.json) |
 | One Piece Odyssey | 194837 | [194837-one-piece-odyssey.json](./194837-one-piece-odyssey.json) |
 | One Piece Odyssey: Jewelry Pack | 312109 | [312109-one-piece-odyssey-jewelry-pack.json](./312109-one-piece-odyssey-jewelry-pack.json) |
 | One Piece Odyssey: Reunion of Memories | 252387 | [252387-one-piece-odyssey-reunion-of-memories.json](./252387-one-piece-odyssey-reunion-of-memories.json) |
