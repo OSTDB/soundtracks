@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Shells II | 308380 | [308380-advanced-shells-ii.json](./308380-advanced-shells-ii.json) |
 | Advanced Shells III | 308382 | [308382-advanced-shells-iii.json](./308382-advanced-shells-iii.json) |
 | Advanced Sorcerian | 182238 | [182238-advanced-sorcerian.json](./182238-advanced-sorcerian.json) |
+| Advanced World War Sen-nen Teikoku no Koubou: Last of the Millennium | 45448 | [45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json](./45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json) |
 | Advaria: Chronicles of Immortality | 283898 | [283898-advaria-chronicles-of-immortality.json](./283898-advaria-chronicles-of-immortality.json) |
 | Adven'chuta | 94542 | [94542-advenchuta.json](./94542-advenchuta.json) |
 | Advendows Calendar OS 2022 | 229038 | [229038-advendows-calendar-os-2022.json](./229038-advendows-calendar-os-2022.json) |
@@ -1738,6 +1739,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai Dawn | 368678 | [368678-ai-dawn.json](./368678-ai-dawn.json) |
 | AI ha Sabaku no Bara no Yume o Miru | 82936 | [82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json](./82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json) |
 | AI Hunter | 151027 | [151027-ai-hunter.json](./151027-ai-hunter.json) |
+| AI Igo | 45447 | [45447-ai-igo.json](./45447-ai-igo.json) |
+| Ai Iijima: Good Island Cafe | 45446 | [45446-ai-iijima-good-island-cafe.json](./45446-ai-iijima-good-island-cafe.json) |
 | AI Kills All Humans | 258425 | [258425-ai-kills-all-humans.json](./258425-ai-kills-all-humans.json) |
 | Ai Kiss: Limited Edition | 167081 | [167081-ai-kiss-limited-edition.json](./167081-ai-kiss-limited-edition.json) |
 | AI Mahjong | 56534 | [56534-ai-mahjong.json](./56534-ai-mahjong.json) |
@@ -1747,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Roguelite 2D | 287191 | [287191-ai-roguelite-2d.json](./287191-ai-roguelite-2d.json) |
 | AI Schoolgirls Murder Mystery | 312674 | [312674-ai-schoolgirls-murder-mystery.json](./312674-ai-schoolgirls-murder-mystery.json) |
 | Ai Sensei no Oshiete: Watashi no Hoshi | 48668 | [48668-ai-sensei-no-oshiete-watashi-no-hoshi.json](./48668-ai-sensei-no-oshiete-watashi-no-hoshi.json) |
+| AI Shogi 2 | 45445 | [45445-ai-shogi-2.json](./45445-ai-shogi-2.json) |
 | AI Slop Simulator | 398536 | [398536-ai-slop-simulator.json](./398536-ai-slop-simulator.json) |
 | AI Solitaire: 4th of July | 322726 | [322726-ai-solitaire-4th-of-july.json](./322726-ai-solitaire-4th-of-july.json) |
 | AI Solitaire: Handsome Heroes | 304005 | [304005-ai-solitaire-handsome-heroes.json](./304005-ai-solitaire-handsome-heroes.json) |
@@ -1899,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Jet Fighter Combat: Europe Fly Plane Attack | 234624 | [234624-air-jet-fighter-combat-europe-fly-plane-attack.json](./234624-air-jet-fighter-combat-europe-fly-plane-attack.json) |
 | Air Land Sea | 79610 | [79610-air-land-sea.json](./79610-air-land-sea.json) |
 | Air Legends | 77273 | [77273-air-legends.json](./77273-air-legends.json) |
+| Air Management '96 | 45431 | [45431-air-management-96.json](./45431-air-management-96.json) |
 | Air Master Hanemaru | 346747 | [346747-air-master-hanemaru.json](./346747-air-master-hanemaru.json) |
 | Air Museum VR | 195480 | [195480-air-museum-vr.json](./195480-air-museum-vr.json) |
 | Air Nights | 145516 | [145516-air-nights.json](./145516-air-nights.json) |
@@ -2045,6 +2050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirportSim: Rovaniemi Airport | 283886 | [283886-airportsim-rovaniemi-airport.json](./283886-airportsim-rovaniemi-airport.json) |
 | Airranger | 122978 | [122978-airranger.json](./122978-airranger.json) |
 | AirRevo | 187453 | [187453-airrevo.json](./187453-airrevo.json) |
+| Airs Adventure | 45430 | [45430-airs-adventure.json](./45430-airs-adventure.json) |
 | Airship: Kingdoms Adrift | 231336 | [231336-airship-kingdoms-adrift.json](./231336-airship-kingdoms-adrift.json) |
 | Airships: Heroes and Villains | 244353 | [244353-airships-heroes-and-villains.json](./244353-airships-heroes-and-villains.json) |
 | Airsoft Bomb | 102575 | [102575-airsoft-bomb.json](./102575-airsoft-bomb.json) |
@@ -2253,6 +2259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albino Lullaby: Episode 3 | 238615 | [238615-albino-lullaby-episode-3.json](./238615-albino-lullaby-episode-3.json) |
 | Albion Online: Dragonfire | 415306 | [415306-albion-online-dragonfire.json](./415306-albion-online-dragonfire.json) |
 | Alborada | 266322 | [266322-alborada.json](./266322-alborada.json) |
+| Album Club: Mune Kyun Saint Paulia Jogakuin | 45444 | [45444-album-club-mune-kyun-saint-paulia-jogakuin.json](./45444-album-club-mune-kyun-saint-paulia-jogakuin.json) |
 | ALC no 10-Punkan Eigo Master: Chuukyuu | 269545 | [269545-alc-no-10-punkan-eigo-master-chuukyuu.json](./269545-alc-no-10-punkan-eigo-master-chuukyuu.json) |
 | ALC no 10-Punkan Eigo Master: Joukyuu | 269546 | [269546-alc-no-10-punkan-eigo-master-joukyuu.json](./269546-alc-no-10-punkan-eigo-master-joukyuu.json) |
 | ALC no 10-punkan Eigo Master: Shokyuu | 269547 | [269547-alc-no-10-punkan-eigo-master-shokyuu.json](./269547-alc-no-10-punkan-eigo-master-shokyuu.json) |
@@ -3136,6 +3143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaemi: Longing for you | 206335 | [206335-amaemi-longing-for-you.json](./206335-amaemi-longing-for-you.json) |
 | Amagami Chotto Omake Gekijou | 345602 | [345602-amagami-chotto-omake-gekijou.json](./345602-amagami-chotto-omake-gekijou.json) |
 | Amagami GS | 345603 | [345603-amagami-gs.json](./345603-amagami-gs.json) |
+| Amagi Shien | 45443 | [45443-amagi-shien.json](./45443-amagi-shien.json) |
 | Amagon | 8916 | [8916-amagon.json](./8916-amagon.json) |
 | Amairo Chocolate 3 | 381003 | [381003-amairo-chocolate-3.json](./381003-amairo-chocolate-3.json) |
 | Amakano | 374832 | [374832-amakano.json](./374832-amakano.json) |
@@ -3302,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ameprod Television Game 10 | 243416 | [243416-ameprod-television-game-10.json](./243416-ameprod-television-game-10.json) |
 | America Adventure | 206111 | [206111-america-adventure.json](./206111-america-adventure.json) |
 | America is Doing Great | 136486 | [136486-america-is-doing-great.json](./136486-america-is-doing-great.json) |
+| America Oudan Ultra Quiz | 45442 | [45442-america-oudan-ultra-quiz.json](./45442-america-oudan-ultra-quiz.json) |
 | America Oudan Ultra Quiz: Part 3 | 300695 | [300695-america-oudan-ultra-quiz-part-3.json](./300695-america-oudan-ultra-quiz-part-3.json) |
 | America Oudan Ultra Quiz: Shijou Saidai no Tatakai | 48603 | [48603-america-oudan-ultra-quiz-shijou-saidai-no-tatakai.json](./48603-america-oudan-ultra-quiz-shijou-saidai-no-tatakai.json) |
 | America Rising 2: Legacy of the Enclave | 299131 | [299131-america-rising-2-legacy-of-the-enclave.json](./299131-america-rising-2-legacy-of-the-enclave.json) |
@@ -3747,6 +3756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andy Blast vs. The Forces of Evil | 291772 | [291772-andy-blast-vs-the-forces-of-evil.json](./291772-andy-blast-vs-the-forces-of-evil.json) |
 | Andy's Adventure Game | 316760 | [316760-andys-adventure-game.json](./316760-andys-adventure-game.json) |
 | Andy's Apple Farm: Christmas Special | 193505 | [193505-andys-apple-farm-christmas-special.json](./193505-andys-apple-farm-christmas-special.json) |
+| AnEarth Fantasy Stories: The First Volume | 45441 | [45441-anearth-fantasy-stories-the-first-volume.json](./45441-anearth-fantasy-stories-the-first-volume.json) |
 | Anemoi | 276736 | [276736-anemoi.json](./276736-anemoi.json) |
 | Anemoiapolis | 141855 | [141855-anemoiapolis.json](./141855-anemoiapolis.json) |
 | Anemoiapolis: Chapter 1 | 168855 | [168855-anemoiapolis-chapter-1.json](./168855-anemoiapolis-chapter-1.json) |
@@ -3761,6 +3771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Engine | 387370 | [387370-angel-engine.json](./387370-angel-engine.json) |
 | Angel Garden | 393606 | [393606-angel-garden.json](./393606-angel-garden.json) |
 | Angel Gate | 242241 | [242241-angel-gate.json](./242241-angel-gate.json) |
+| Angel Graffiti: Anata he no Profile | 45440 | [45440-angel-graffiti-anata-he-no-profile.json](./45440-angel-graffiti-anata-he-no-profile.json) |
 | Angel Guardian | 312161 | [312161-angel-guardian.json](./312161-angel-guardian.json) |
 | Angel Hearts | 67342 | [67342-angel-hearts.json](./67342-angel-hearts.json) |
 | Angel Hua Yin | 339843 | [339843-angel-hua-yin.json](./339843-angel-hua-yin.json) |
@@ -3772,6 +3783,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Legion: Oriental - Purple | 254160 | [254160-angel-legion-oriental-purple.json](./254160-angel-legion-oriental-purple.json) |
 | Angel Night | 314651 | [314651-angel-night.json](./314651-angel-night.json) |
 | Angel of Death | 269285 | [269285-angel-of-death.json](./269285-angel-of-death.json) |
+| Angel Paradise Vol. 1: Sakaki Yuko - Koi no Yokan in Hollywood | 45439 | [45439-angel-paradise-vol-1-sakaki-yuko-koi-no-yokan-in-hollywood.json](./45439-angel-paradise-vol-1-sakaki-yuko-koi-no-yokan-in-hollywood.json) |
+| Angel Paradise Vol. 2: Yoshino Kimika - Isshoni I-ta-i in Hawaii | 45438 | [45438-angel-paradise-vol-2-yoshino-kimika-isshoni-i-ta-i-in-hawaii.json](./45438-angel-paradise-vol-2-yoshino-kimika-isshoni-i-ta-i-in-hawaii.json) |
 | Angel Poring | 74326 | [74326-angel-poring.json](./74326-angel-poring.json) |
 | Angel Precario | 90132 | [90132-angel-precario.json](./90132-angel-precario.json) |
 | Angel Present | 267405 | [267405-angel-present.json](./267405-angel-present.json) |
@@ -3807,8 +3820,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angélica no Reino Animal | 292093 | [292093-angelica-no-reino-animal.json](./292093-angelica-no-reino-animal.json) |
 | Angelica Weaver: Catch Me When You Can | 9975 | [9975-angelica-weaver-catch-me-when-you-can.json](./9975-angelica-weaver-catch-me-when-you-can.json) |
 | Angeline Era | 252768 | [252768-angeline-era.json](./252768-angeline-era.json) |
+| Angelique Duet | 45437 | [45437-angelique-duet.json](./45437-angelique-duet.json) |
 | Angelique Etoile | 72680 | [72680-angelique-etoile.json](./72680-angelique-etoile.json) |
 | Angelique Retour | 59958 | [59958-angelique-retour.json](./59958-angelique-retour.json) |
+| Angelique Special | 45436 | [45436-angelique-special.json](./45436-angelique-special.json) |
+| Angelique Special 2 | 45435 | [45435-angelique-special-2.json](./45435-angelique-special-2.json) |
 | Angelique Trois | 72678 | [72678-angelique-trois.json](./72678-angelique-trois.json) |
 | Angelique Voice Fantasy | 38316 | [38316-angelique-voice-fantasy.json](./38316-angelique-voice-fantasy.json) |
 | Angelique: Maren no Rokukishi | 56515 | [56515-angelique-maren-no-rokukishi.json](./56515-angelique-maren-no-rokukishi.json) |
@@ -4332,6 +4348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Hour Another Planet | 293093 | [293093-another-hour-another-planet.json](./293093-another-hour-another-planet.json) |
 | Another Late Night | 391875 | [391875-another-late-night.json](./391875-another-late-night.json) |
 | Another Level | 348453 | [348453-another-level.json](./348453-another-level.json) |
+| Another Memories | 45434 | [45434-another-memories.json](./45434-another-memories.json) |
 | Another Moon Whistle: Kuzureteku Nyuudougumo | 166143 | [166143-another-moon-whistle-kuzureteku-nyuudougumo.json](./166143-another-moon-whistle-kuzureteku-nyuudougumo.json) |
 | Another Museum | 217855 | [217855-another-museum.json](./217855-another-museum.json) |
 | Another Mythical Journey | 185091 | [185091-another-mythical-journey.json](./185091-another-mythical-journey.json) |
@@ -4695,6 +4712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo4x | 26978 | [26978-apollo4x.json](./26978-apollo4x.json) |
 | Apology Video | 406316 | [406316-apology-video.json](./406316-apology-video.json) |
 | Apolune 2 | 149511 | [149511-apolune-2.json](./149511-apolune-2.json) |
+| Aponasi Gals Olympos | 45433 | [45433-aponasi-gals-olympos.json](./45433-aponasi-gals-olympos.json) |
 | Apophis | 136490 | [136490-apophis.json](./136490-apophis.json) |
 | Apopia | 159680 | [159680-apopia.json](./159680-apopia.json) |
 | Apopia: Sugar Coated Tale | 392258 | [392258-apopia-sugar-coated-tale.json](./392258-apopia-sugar-coated-tale.json) |
@@ -4799,6 +4817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Slug | 175837 | [175837-aqua-slug.json](./175837-aqua-slug.json) |
 | Aqua Teen Hunger Force Zombie Ninja Pro-Am | 6911 | [6911-aqua-teen-hunger-force-zombie-ninja-pro-am.json](./6911-aqua-teen-hunger-force-zombie-ninja-pro-am.json) |
 | Aqua TV | 80908 | [80908-aqua-tv.json](./80908-aqua-tv.json) |
+| Aqua-World: Umi Monogatari | 45432 | [45432-aqua-world-umi-monogatari.json](./45432-aqua-world-umi-monogatari.json) |
 | Aquablast | 14262 | [14262-aquablast.json](./14262-aquablast.json) |
 | AquaBlitz: Alien Racer | 298689 | [298689-aquablitz-alien-racer.json](./298689-aquablitz-alien-racer.json) |
 | Aquacity | 148956 | [148956-aquacity.json](./148956-aquacity.json) |
@@ -4857,6 +4876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquavern | 416677 | [416677-aquavern.json](./416677-aquavern.json) |
 | Aquavias | 96757 | [96757-aquavias.json](./96757-aquavias.json) |
 | Aquaville | 373612 | [373612-aquaville.json](./373612-aquaville.json) |
+| Aquazone Desktop Life | 45429 | [45429-aquazone-desktop-life.json](./45429-aquazone-desktop-life.json) |
 | Aquillanto | 153334 | [153334-aquillanto.json](./153334-aquillanto.json) |
 | Aquis | 293095 | [293095-aquis.json](./293095-aquis.json) |
 | Aquium | 290553 | [290553-aquium.json](./290553-aquium.json) |
@@ -5197,6 +5217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana Noir | 261833 | [261833-arcana-noir.json](./261833-arcana-noir.json) |
 | Arcana of Paradise: The Tower | 194945 | [194945-arcana-of-paradise-the-tower.json](./194945-arcana-of-paradise-the-tower.json) |
 | Arcana Ritter | 91422 | [91422-arcana-ritter.json](./91422-arcana-ritter.json) |
+| Arcana Strikes | 45428 | [45428-arcana-strikes.json](./45428-arcana-strikes.json) |
 | Arcana: Boundless Horizon | 220306 | [220306-arcana-boundless-horizon.json](./220306-arcana-boundless-horizon.json) |
 | Arcana: Heat and Cold - Season 2 | 191241 | [191241-arcana-heat-and-cold-season-2.json](./191241-arcana-heat-and-cold-season-2.json) |
 | Arcana: Heat and Cold. Stories | 252233 | [252233-arcana-heat-and-cold-stories.json](./252233-arcana-heat-and-cold-stories.json) |
@@ -5925,6 +5946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artery Gear: Fusion | 152111 | [152111-artery-gear-fusion.json](./152111-artery-gear-fusion.json) |
 | Arthur and the Invisibles | 200689 | [200689-arthur-and-the-invisibles.json](./200689-arthur-and-the-invisibles.json) |
 | Arthur and the Revenge of Maltazard | 51155 | [51155-arthur-and-the-revenge-of-maltazard.json](./51155-arthur-and-the-revenge-of-maltazard.json) |
+| Arthur to Astaroth no Nazomakaimura: Incredible Toons | 45427 | [45427-arthur-to-astaroth-no-nazomakaimura-incredible-toons.json](./45427-arthur-to-astaroth-no-nazomakaimura-incredible-toons.json) |
 | Arthur Yahtzee: The Curse of Hell's Cheesecake | 217857 | [217857-arthur-yahtzee-the-curse-of-hells-cheesecake.json](./217857-arthur-yahtzee-the-curse-of-hells-cheesecake.json) |
 | Arthur's 1st Grade | 70988 | [70988-arthurs-1st-grade.json](./70988-arthurs-1st-grade.json) |
 | Arthur's Absolutely Fun Day! | 49917 | [49917-arthurs-absolutely-fun-day.json](./49917-arthurs-absolutely-fun-day.json) |
@@ -7531,6 +7553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aya Go | 91740 | [91740-aya-go.json](./91740-aya-go.json) |
 | Ayakashi & Sweets | 298879 | [298879-ayakashi-and-sweets.json](./298879-ayakashi-and-sweets.json) |
 | Ayakashi Koi Gikyoku -Forbidden Romance with Mysterious Spirit- | 106974 | [106974-ayakashi-koi-gikyoku-forbidden-romance-with-mysterious-spirit.json](./106974-ayakashi-koi-gikyoku-forbidden-romance-with-mysterious-spirit.json) |
+| Ayakashi Ninden Kunoichiban Plus | 45426 | [45426-ayakashi-ninden-kunoichiban-plus.json](./45426-ayakashi-ninden-kunoichiban-plus.json) |
 | Ayakashi Rumble | 208034 | [208034-ayakashi-rumble.json](./208034-ayakashi-rumble.json) |
 | Ayakashi Yaji | 283806 | [283806-ayakashi-yaji.json](./283806-ayakashi-yaji.json) |
 | Ayakashi: Ghost Guild | 39179 | [39179-ayakashi-ghost-guild.json](./39179-ayakashi-ghost-guild.json) |
