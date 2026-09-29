@@ -2052,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is Strange: True Colors | 144765 | [144765-life-is-strange-true-colors.json](./144765-life-is-strange-true-colors.json) |
 | Life is Strange: True Colors - Alex Outfit Pack | 312108 | [312108-life-is-strange-true-colors-alex-outfit-pack.json](./312108-life-is-strange-true-colors-alex-outfit-pack.json) |
 | Life is Strange: Wavelengths | 144873 | [144873-life-is-strange-wavelengths.json](./144873-life-is-strange-wavelengths.json) |
+| Life Makeover | 212426 | [212426-life-makeover.json](./212426-life-makeover.json) |
 | Life Not Supported | 210704 | [210704-life-not-supported.json](./210704-life-not-supported.json) |
 | Life of a Capitalist | 118407 | [118407-life-of-a-capitalist.json](./118407-life-of-a-capitalist.json) |
 | Life of a Goldfish | 364670 | [364670-life-of-a-goldfish.json](./364670-life-of-a-goldfish.json) |
