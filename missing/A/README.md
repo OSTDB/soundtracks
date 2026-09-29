@@ -456,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale about Tail | 185079 | [185079-a-tale-about-tail.json](./185079-a-tale-about-tail.json) |
 | A Tale for Anna | 151043 | [151043-a-tale-for-anna.json](./151043-a-tale-for-anna.json) |
 | A Tale for Anna: Collector's Edition | 382907 | [382907-a-tale-for-anna-collectors-edition.json](./382907-a-tale-for-anna-collectors-edition.json) |
+| A Tale in the Desert | 23701 | [23701-a-tale-in-the-desert.json](./23701-a-tale-in-the-desert.json) |
 | A Tale of Body Limbs | 331142 | [331142-a-tale-of-body-limbs.json](./331142-a-tale-of-body-limbs.json) |
 | A Tale of Caos: Overture | 32116 | [32116-a-tale-of-caos-overture.json](./32116-a-tale-of-caos-overture.json) |
 | A Tale of Caos: Overture - Act II | 170821 | [170821-a-tale-of-caos-overture-act-ii.json](./170821-a-tale-of-caos-overture-act-ii.json) |
@@ -2664,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Shooter: Revisited | 16016 | [16016-alien-shooter-revisited.json](./16016-alien-shooter-revisited.json) |
 | Alien Shooter: Revisted | 50844 | [50844-alien-shooter-revisted.json](./50844-alien-shooter-revisted.json) |
 | Alien Shooter: The Experiment | 11090 | [11090-alien-shooter-the-experiment.json](./11090-alien-shooter-the-experiment.json) |
+| Alien Shooter: Vengeance | 14145 | [14145-alien-shooter-vengeance.json](./14145-alien-shooter-vengeance.json) |
 | Alien Sky | 93164 | [93164-alien-sky.json](./93164-alien-sky.json) |
 | Alien Slayer | 275099 | [275099-alien-slayer.json](./275099-alien-slayer.json) |
 | Alien Slayers | 233772 | [233772-alien-slayers.json](./233772-alien-slayers.json) |
@@ -4700,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apathy: Narugami Gakuen Nana Fushigi | 206171 | [206171-apathy-narugami-gakuen-nana-fushigi.json](./206171-apathy-narugami-gakuen-nana-fushigi.json) |
 | Apathy: Rental Kazoku | 212254 | [212254-apathy-rental-kazoku.json](./212254-apathy-rental-kazoku.json) |
 | APB | 37097 | [37097-apb.json](./37097-apb.json) |
+| APB: All Points Bulletin | 23369 | [23369-apb-all-points-bulletin.json](./23369-apb-all-points-bulletin.json) |
 | Ape Academy 2 | 37047 | [37047-ape-academy-2.json](./37047-ape-academy-2.json) |
 | Ape Escape | 146296 | [146296-ape-escape.json](./146296-ape-escape.json) |
 | Ape Escape 3 | 6064 | [6064-ape-escape-3.json](./6064-ape-escape-3.json) |
@@ -7226,6 +7229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Bike Games | 294255 | [294255-atv-bike-games.json](./294255-atv-bike-games.json) |
 | ATV Fever | 10006 | [10006-atv-fever.json](./10006-atv-fever.json) |
 | ATV Madness | 88324 | [88324-atv-madness.json](./88324-atv-madness.json) |
+| ATV Offroad Fury | 8269 | [8269-atv-offroad-fury.json](./8269-atv-offroad-fury.json) |
 | ATV Offroad Fury 3 | 8271 | [8271-atv-offroad-fury-3.json](./8271-atv-offroad-fury-3.json) |
 | ATV Offroad Fury Pro | 8274 | [8274-atv-offroad-fury-pro.json](./8274-atv-offroad-fury-pro.json) |
 | ATV Offroad Fury: Blazin' Trails | 8272 | [8272-atv-offroad-fury-blazin-trails.json](./8272-atv-offroad-fury-blazin-trails.json) |
