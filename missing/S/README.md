@@ -1699,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scribble | 86248 | [86248-scribble.json](./86248-scribble.json) |
 | Scribble Adventure Unlimited | 107126 | [107126-scribble-adventure-unlimited.json](./107126-scribble-adventure-unlimited.json) |
 | Scribble Hero | 382203 | [382203-scribble-hero.json](./382203-scribble-hero.json) |
+| Scribble It! | 120649 | [120649-scribble-it.json](./120649-scribble-it.json) |
 | Scribble Shooter | 21152 | [21152-scribble-shooter.json](./21152-scribble-shooter.json) |
 | Scribble Space | 35711 | [35711-scribble-space.json](./35711-scribble-space.json) |
 | Scribble Worm | 259076 | [259076-scribble-worm.json](./259076-scribble-worm.json) |
@@ -3111,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Road | 124209 | [124209-shadow-of-the-road.json](./124209-shadow-of-the-road.json) |
 | Shadow of the School | 302474 | [302474-shadow-of-the-school.json](./302474-shadow-of-the-school.json) |
 | Shadow of the Tomb Raider: Limited Steelbook Edition | 198245 | [198245-shadow-of-the-tomb-raider-limited-steelbook-edition.json](./198245-shadow-of-the-tomb-raider-limited-steelbook-edition.json) |
+| Shadow of the Tomb Raider: The Grand Caiman | 116800 | [116800-shadow-of-the-tomb-raider-the-grand-caiman.json](./116800-shadow-of-the-tomb-raider-the-grand-caiman.json) |
 | Shadow of the Tomb Raider: The Nightmare | 113987 | [113987-shadow-of-the-tomb-raider-the-nightmare.json](./113987-shadow-of-the-tomb-raider-the-nightmare.json) |
 | Shadow of the Tomb Raider: The Path Home | 117711 | [117711-shadow-of-the-tomb-raider-the-path-home.json](./117711-shadow-of-the-tomb-raider-the-path-home.json) |
 | Shadow of the Tomb Raider: The Pillar | 113988 | [113988-shadow-of-the-tomb-raider-the-pillar.json](./113988-shadow-of-the-tomb-raider-the-pillar.json) |
@@ -9205,6 +9207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacebar | 183334 | [183334-spacebar.json](./183334-spacebar.json) |
 | Spacebar | 344361 | [344361-spacebar.json](./344361-spacebar.json) |
 | Spacebase DF-9 | 5632 | [5632-spacebase-df-9.json](./5632-spacebase-df-9.json) |
+| Spacebase Startopia | 121761 | [121761-spacebase-startopia.json](./121761-spacebase-startopia.json) |
 | Spacebase Startopia: Extended Edition | 169189 | [169189-spacebase-startopia-extended-edition.json](./169189-spacebase-startopia-extended-edition.json) |
 | SpaceBeaver | 180575 | [180575-spacebeaver.json](./180575-spacebeaver.json) |
 | Spacebeef | 135059 | [135059-spacebeef.json](./135059-spacebeef.json) |
@@ -9663,6 +9666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbrew Express | 296361 | [296361-spellbrew-express.json](./296361-spellbrew-express.json) |
 | SpellCarved | 397268 | [397268-spellcarved.json](./397268-spellcarved.json) |
 | SpellCast | 254447 | [254447-spellcast.json](./254447-spellcast.json) |
+| SpellCaster | 46124 | [46124-spellcaster.json](./46124-spellcaster.json) |
 | Spellcaster University | 111086 | [111086-spellcaster-university.json](./111086-spellcaster-university.json) |
 | Spellcaster University: Gears and Gobelins | 347676 | [347676-spellcaster-university-gears-and-gobelins.json](./347676-spellcaster-university-gears-and-gobelins.json) |
 | Spellcaster: The Forgotten Spell | 61895 | [61895-spellcaster-the-forgotten-spell.json](./61895-spellcaster-the-forgotten-spell.json) |
@@ -13207,6 +13211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subtracto | 372536 | [372536-subtracto.json](./372536-subtracto.json) |
 | Suburban Commando | 73811 | [73811-suburban-commando.json](./73811-suburban-commando.json) |
 | Suburban Footy League | 272911 | [272911-suburban-footy-league.json](./272911-suburban-footy-league.json) |
+| Subverse | 116848 | [116848-subverse.json](./116848-subverse.json) |
 | Subverse - Celestina Unbound | 414547 | [414547-subverse-celestina-unbound.json](./414547-subverse-celestina-unbound.json) |
 | Subversion: The Official Incoming Expansion Pack | 84326 | [84326-subversion-the-official-incoming-expansion-pack.json](./84326-subversion-the-official-incoming-expansion-pack.json) |
 | Subverter | 274013 | [274013-subverter.json](./274013-subverter.json) |
@@ -16254,6 +16259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylvanian Melody: Mori no Nakama to Odorimasho! | 83231 | [83231-sylvanian-melody-mori-no-nakama-to-odorimasho.json](./83231-sylvanian-melody-mori-no-nakama-to-odorimasho.json) |
 | Sylvantia | 258542 | [258542-sylvantia.json](./258542-sylvantia.json) |
 | Sylvarcon 2049: A Cybersecurity Aventure | 213966 | [213966-sylvarcon-2049-a-cybersecurity-aventure.json](./213966-sylvarcon-2049-a-cybersecurity-aventure.json) |
+| Sylvester & Tweety in Cagey Capers | 46190 | [46190-sylvester-and-tweety-in-cagey-capers.json](./46190-sylvester-and-tweety-in-cagey-capers.json) |
 | Sylviana: Ai Ippai no Boukensha | 299761 | [299761-sylviana-ai-ippai-no-boukensha.json](./299761-sylviana-ai-ippai-no-boukensha.json) |
 | Sylvie Lime | 230501 | [230501-sylvie-lime.json](./230501-sylvie-lime.json) |
 | Sylvie RPG: 7 Elf Apocalypse | 292830 | [292830-sylvie-rpg-7-elf-apocalypse.json](./292830-sylvie-rpg-7-elf-apocalypse.json) |
