@@ -2768,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seventh Cavalry | 60220 | [60220-seventh-cavalry.json](./60220-seventh-cavalry.json) |
 | Seventh Choir | 337713 | [337713-seventh-choir.json](./337713-seventh-choir.json) |
 | Seventh Lair | 194970 | [194970-seventh-lair.json](./194970-seventh-lair.json) |
+| Seventh Rebirth | 25103 | [25103-seventh-rebirth.json](./25103-seventh-rebirth.json) |
 | Seventh Song | 309510 | [309510-seventh-song.json](./309510-seventh-song.json) |
 | Sever the Wicked! | 363470 | [363470-sever-the-wicked.json](./363470-sever-the-wicked.json) |
 | Severance | 196235 | [196235-severance.json](./196235-severance.json) |
@@ -6429,6 +6430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash'em | 158703 | [158703-smashem.json](./158703-smashem.json) |
 | Smash'em | 185543 | [185543-smashem.json](./185543-smashem.json) |
 | Smashball | 29122 | [29122-smashball.json](./29122-smashball.json) |
+| SmashBox | 25049 | [25049-smashbox.json](./25049-smashbox.json) |
 | Smashbreak | 208959 | [208959-smashbreak.json](./208959-smashbreak.json) |
 | Smashcat | 10835 | [10835-smashcat.json](./10835-smashcat.json) |
 | Smashed and Boiled | 322110 | [322110-smashed-and-boiled.json](./322110-smashed-and-boiled.json) |
@@ -6488,6 +6490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smite 2: Ultimate Founder's Edition | 331847 | [331847-smite-2-ultimate-founders-edition.json](./331847-smite-2-ultimate-founders-edition.json) |
 | Smite Blitz | 117503 | [117503-smite-blitz.json](./117503-smite-blitz.json) |
 | Smite Rivals | 26693 | [26693-smite-rivals.json](./26693-smite-rivals.json) |
+| Smite Tactics | 25085 | [25085-smite-tactics.json](./25085-smite-tactics.json) |
 | Smith & Dungeon | 361801 | [361801-smith-and-dungeon.json](./361801-smith-and-dungeon.json) |
 | Smith and Winston | 111093 | [111093-smith-and-winston.json](./111093-smith-and-winston.json) |
 | Smith's Chronicles | 358868 | [358868-smiths-chronicles.json](./358868-smiths-chronicles.json) |
@@ -7399,6 +7402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Deck | 406122 | [406122-solitaire-deck.json](./406122-solitaire-deck.json) |
 | Solitaire Deluxe Bundle: 3 in 1 | 147801 | [147801-solitaire-deluxe-bundle-3-in-1.json](./147801-solitaire-deluxe-bundle-3-in-1.json) |
 | Solitaire Dozen Gold | 146916 | [146916-solitaire-dozen-gold.json](./146916-solitaire-dozen-gold.json) |
+| Solitaire Egypt | 25063 | [25063-solitaire-egypt.json](./25063-solitaire-egypt.json) |
 | Solitaire Fish Klondike | 220047 | [220047-solitaire-fish-klondike.json](./220047-solitaire-fish-klondike.json) |
 | Solitaire Freecell - card game | 88414 | [88414-solitaire-freecell-card-game.json](./88414-solitaire-freecell-card-game.json) |
 | Solitaire Grand Harvest | 321601 | [321601-solitaire-grand-harvest.json](./321601-solitaire-grand-harvest.json) |
@@ -7474,6 +7478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solo Chess | 372985 | [372985-solo-chess.json](./372985-solo-chess.json) |
 | Solo Crisis | 62975 | [62975-solo-crisis.json](./62975-solo-crisis.json) |
 | Solo Defender | 333110 | [333110-solo-defender.json](./333110-solo-defender.json) |
+| Solo Flight | 25037 | [25037-solo-flight.json](./25037-solo-flight.json) |
 | Solo Leveling: Arise Overdrive | 349302 | [349302-solo-leveling-arise-overdrive.json](./349302-solo-leveling-arise-overdrive.json) |
 | Solo Noble | 175374 | [175374-solo-noble.json](./175374-solo-noble.json) |
 | Solo Records | 177936 | [177936-solo-records.json](./177936-solo-records.json) |
@@ -9649,6 +9654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider | 320132 | [320132-spider.json](./320132-spider.json) |
 | Spider | 379979 | [379979-spider.json](./379979-spider.json) |
 | Spider | 88429 | [88429-spider.json](./88429-spider.json) |
+| Spider Alley | 25079 | [25079-spider-alley.json](./25079-spider-alley.json) |
 | Spider and Web | 91916 | [91916-spider-and-web.json](./91916-spider-and-web.json) |
 | Spider Bounce | 263745 | [263745-spider-bounce.json](./263745-spider-bounce.json) |
 | Spider Canyon | 332990 | [332990-spider-canyon.json](./332990-spider-canyon.json) |
@@ -10787,6 +10793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Mobile | 41995 | [41995-star-mobile.json](./41995-star-mobile.json) |
 | Star Nomad | 36067 | [36067-star-nomad.json](./36067-star-nomad.json) |
 | Star Ocean | 11209 | [11209-star-ocean.json](./11209-star-ocean.json) |
+| Star Ocean: Anamnesis | 25078 | [25078-star-ocean-anamnesis.json](./25078-star-ocean-anamnesis.json) |
 | Star of Lemutia | 76541 | [76541-star-of-lemutia.json](./76541-star-of-lemutia.json) |
 | Star of Lemutia: Reborn | 126419 | [126419-star-of-lemutia-reborn.json](./126419-star-of-lemutia-reborn.json) |
 | Star of Providence: Relics of the Past | 145647 | [145647-star-of-providence-relics-of-the-past.json](./145647-star-of-providence-relics-of-the-past.json) |
