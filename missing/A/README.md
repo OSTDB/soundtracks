@@ -1698,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
 | Agent 01 | 199400 | [199400-agent-01.json](./199400-agent-01.json) |
 | Agent A & Down in Bermuda Bundle | 380693 | [380693-agent-a-and-down-in-bermuda-bundle.json](./380693-agent-a-and-down-in-bermuda-bundle.json) |
+| Agent A: A Puzzle In Disguise | 58042 | [58042-agent-a-a-puzzle-in-disguise.json](./58042-agent-a-a-puzzle-in-disguise.json) |
 | Agent Action | 138003 | [138003-agent-action.json](./138003-agent-action.json) |
 | Agent Alice | 60490 | [60490-agent-alice.json](./60490-agent-alice.json) |
 | Agent Armstrong | 11293 | [11293-agent-armstrong.json](./11293-agent-armstrong.json) |
@@ -1734,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agnostic Requiem | 273363 | [273363-agnostic-requiem.json](./273363-agnostic-requiem.json) |
 | Agonize | 187402 | [187402-agonize.json](./187402-agonize.json) |
 | Agony | 11890 | [11890-agony.json](./11890-agony.json) |
+| Agony | 19453 | [19453-agony.json](./19453-agony.json) |
 | Agony | 201153 | [201153-agony.json](./201153-agony.json) |
 | Agony | 79827 | [79827-agony.json](./79827-agony.json) |
 | Agony Increment | 393803 | [393803-agony-increment.json](./393803-agony-increment.json) |
@@ -4043,6 +4045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Crossing-e: Animal Crossing | 354415 | [354415-animal-crossing-e-animal-crossing.json](./354415-animal-crossing-e-animal-crossing.json) |
 | Animal Crossing-e: PR - Design Card: NES Link | 354416 | [354416-animal-crossing-e-pr-design-card-nes-link.json](./354416-animal-crossing-e-pr-design-card-nes-link.json) |
 | Animal Crossing: City Folk Deluxe | 341895 | [341895-animal-crossing-city-folk-deluxe.json](./341895-animal-crossing-city-folk-deluxe.json) |
+| Animal Crossing: New Horizons - Happy Home Paradise | 176552 | [176552-animal-crossing-new-horizons-happy-home-paradise.json](./176552-animal-crossing-new-horizons-happy-home-paradise.json) |
 | Animal Crossing: New Leaf - Premium Edition | 89900 | [89900-animal-crossing-new-leaf-premium-edition.json](./89900-animal-crossing-new-leaf-premium-edition.json) |
 | Animal Crossing: New Leaf - Welcome Luxury | 294788 | [294788-animal-crossing-new-leaf-welcome-luxury.json](./294788-animal-crossing-new-leaf-welcome-luxury.json) |
 | Animal Crossing: New Murder | 251058 | [251058-animal-crossing-new-murder.json](./251058-animal-crossing-new-murder.json) |
@@ -6964,6 +6967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ryza 3: Endless Summer Splash! Costume Set | 242543 | [242543-atelier-ryza-3-endless-summer-splash-costume-set.json](./242543-atelier-ryza-3-endless-summer-splash-costume-set.json) |
 | Atelier Ryza 3: Summer Look Costume Set | 242544 | [242544-atelier-ryza-3-summer-look-costume-set.json](./242544-atelier-ryza-3-summer-look-costume-set.json) |
 | Atelier Ryza Secret Trilogy Deluxe Pack | 354258 | [354258-atelier-ryza-secret-trilogy-deluxe-pack.json](./354258-atelier-ryza-secret-trilogy-deluxe-pack.json) |
+| Atelier Ryza: Ever Darkness & the Secret Hideout | 119061 | [119061-atelier-ryza-ever-darkness-and-the-secret-hideout.json](./119061-atelier-ryza-ever-darkness-and-the-secret-hideout.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout - Collector's Edition | 167072 | [167072-atelier-ryza-ever-darkness-and-the-secret-hideout-collectors-edition.json](./167072-atelier-ryza-ever-darkness-and-the-secret-hideout-collectors-edition.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout - Secret Solitary Island | 238227 | [238227-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json](./238227-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout DX | 359424 | [359424-atelier-ryza-ever-darkness-and-the-secret-hideout-dx.json](./359424-atelier-ryza-ever-darkness-and-the-secret-hideout-dx.json) |
