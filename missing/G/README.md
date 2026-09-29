@@ -2820,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Up | 405619 | [405619-gold-up.json](./405619-gold-up.json) |
 | Goldbeard's Quest | 120346 | [120346-goldbeards-quest.json](./120346-goldbeards-quest.json) |
 | Golden Axe | 279631 | [279631-golden-axe.json](./279631-golden-axe.json) |
+| Golden Axe | 305873 | [305873-golden-axe.json](./305873-golden-axe.json) |
 | Golden Axe | 305875 | [305875-golden-axe.json](./305875-golden-axe.json) |
 | Golden Axe | 5565 | [5565-golden-axe.json](./5565-golden-axe.json) |
 | Golden Axe Classics | 202829 | [202829-golden-axe-classics.json](./202829-golden-axe-classics.json) |
