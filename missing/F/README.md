@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Hotel: Enchanted Kingdom | 417523 | [417523-fairy-hotel-enchanted-kingdom.json](./417523-fairy-hotel-enchanted-kingdom.json) |
 | Fairy Kitty no Kaiun Jiten: Yousei no Kuni no Uranai Shugyou | 65521 | [65521-fairy-kitty-no-kaiun-jiten-yousei-no-kuni-no-uranai-shugyou.json](./65521-fairy-kitty-no-kaiun-jiten-yousei-no-kuni-no-uranai-shugyou.json) |
 | Fairy Knights | 105943 | [105943-fairy-knights.json](./105943-fairy-knights.json) |
+| Fairy Lands: Rinka and the Fairy Gems | 52096 | [52096-fairy-lands-rinka-and-the-fairy-gems.json](./52096-fairy-lands-rinka-and-the-fairy-gems.json) |
 | Fairy Picturebook of Hero and Sorceress | 113698 | [113698-fairy-picturebook-of-hero-and-sorceress.json](./113698-fairy-picturebook-of-hero-and-sorceress.json) |
 | Fairy Pinball: Yousei-tachi no Pinball | 41359 | [41359-fairy-pinball-yousei-tachi-no-pinball.json](./41359-fairy-pinball-yousei-tachi-no-pinball.json) |
 | Fairy Rush: Fly to Candyland | 200056 | [200056-fairy-rush-fly-to-candyland.json](./200056-fairy-rush-fly-to-candyland.json) |
