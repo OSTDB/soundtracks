@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Years After | 36024 | [36024-10-years-after.json](./36024-10-years-after.json) |
 | 10-Pin Bowling | 153453 | [153453-10-pin-bowling.json](./153453-10-pin-bowling.json) |
 | 10-Pin Bowling | 92273 | [92273-10-pin-bowling.json](./92273-10-pin-bowling.json) |
+| 10-Yard Fight | 229983 | [229983-10-yard-fight.json](./229983-10-yard-fight.json) |
 | 10-Yard Fight | 2733 | [2733-10-yard-fight.json](./2733-10-yard-fight.json) |
 | 10,000 Feet Below | 271729 | [271729-10-000-feet-below.json](./271729-10-000-feet-below.json) |
 | 10:59 | 308936 | [308936-10-59.json](./308936-10-59.json) |
