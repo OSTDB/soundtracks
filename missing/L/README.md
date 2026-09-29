@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Las Gymkhanikas de Uli | 377290 | [377290-las-gymkhanikas-de-uli.json](./377290-las-gymkhanikas-de-uli.json) |
 | Las Vegas | 41423 | [41423-las-vegas.json](./41423-las-vegas.json) |
 | Las Vegas | 91384 | [91384-las-vegas.json](./91384-las-vegas.json) |
+| Las Vegas Blackjack! | 41544 | [41544-las-vegas-blackjack.json](./41544-las-vegas-blackjack.json) |
 | Las Vegas Gambling | 47291 | [47291-las-vegas-gambling.json](./47291-las-vegas-gambling.json) |
 | Las Vegas Girls | 38568 | [38568-las-vegas-girls.json](./38568-las-vegas-girls.json) |
 | Las Vegas Roulette | 47278 | [47278-las-vegas-roulette.json](./47278-las-vegas-roulette.json) |
@@ -947,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Enthusiastic Losers: Definitive Edition | 246645 | [246645-league-of-enthusiastic-losers-definitive-edition.json](./246645-league-of-enthusiastic-losers-definitive-edition.json) |
 | League of Enthusiastic Losers: Premium Edition | 241397 | [241397-league-of-enthusiastic-losers-premium-edition.json](./241397-league-of-enthusiastic-losers-premium-edition.json) |
 | League of Evil | 32856 | [32856-league-of-evil.json](./32856-league-of-evil.json) |
+| League of Evil 3 | 41508 | [41508-league-of-evil-3.json](./41508-league-of-evil-3.json) |
 | League of Fighters | 107159 | [107159-league-of-fighters.json](./107159-league-of-fighters.json) |
 | League Of Guessing | 31381 | [31381-league-of-guessing.json](./31381-league-of-guessing.json) |
 | League of Kingdoms | 188647 | [188647-league-of-kingdoms.json](./188647-league-of-kingdoms.json) |
@@ -3318,6 +3320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loong | 288828 | [288828-loong.json](./288828-loong.json) |
 | Loonley Toons Run | 105767 | [105767-loonley-toons-run.json](./105767-loonley-toons-run.json) |
 | Loony | 197934 | [197934-loony.json](./197934-loony.json) |
+| Loony Balloon | 41543 | [41543-loony-balloon.json](./41543-loony-balloon.json) |
 | Loony Labyrinth | 122307 | [122307-loony-labyrinth.json](./122307-loony-labyrinth.json) |
 | Loonz | 256222 | [256222-loonz.json](./256222-loonz.json) |
 | Loop | 157568 | [157568-loop.json](./157568-loop.json) |
