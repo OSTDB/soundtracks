@@ -690,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballatory | 391308 | [391308-ballatory.json](./391308-ballatory.json) |
 | Ballblazer | 176 | [176-ballblazer.json](./176-ballblazer.json) |
 | Ballblazer | 273081 | [273081-ballblazer.json](./273081-ballblazer.json) |
+| Ballblazer Champions | 177 | [177-ballblazer-champions.json](./177-ballblazer-champions.json) |
 | Balldventure | 226173 | [226173-balldventure.json](./226173-balldventure.json) |
 | Ballerburg | 129148 | [129148-ballerburg.json](./129148-ballerburg.json) |
 | Ballerburg: Castle Chaos | 43879 | [43879-ballerburg-castle-chaos.json](./43879-ballerburg-castle-chaos.json) |
@@ -2011,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlegrounds: The Pirate King | 294158 | [294158-battlegrounds-the-pirate-king.json](./294158-battlegrounds-the-pirate-king.json) |
 | BattleGuild | 251816 | [251816-battleguild.json](./251816-battleguild.json) |
 | Battlegun | 52276 | [52276-battlegun.json](./52276-battlegun.json) |
+| Battlehawks 1942 | 178 | [178-battlehawks-1942.json](./178-battlehawks-1942.json) |
 | Battleheart 2 | 104236 | [104236-battleheart-2.json](./104236-battleheart-2.json) |
 | BattleHeights | 327220 | [327220-battleheights.json](./327220-battleheights.json) |
 | Battlejack | 55074 | [55074-battlejack.json](./55074-battlejack.json) |
