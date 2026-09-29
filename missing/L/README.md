@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.A. Meltdown 2047 | 308236 | [308236-l-a-meltdown-2047.json](./308236-l-a-meltdown-2047.json) |
 | L.A. Noire: Reefer Madness | 117307 | [117307-l-a-noire-reefer-madness.json](./117307-l-a-noire-reefer-madness.json) |
 | L.A. Noire: The Naked City | 117306 | [117306-l-a-noire-the-naked-city.json](./117306-l-a-noire-the-naked-city.json) |
+| L.A. Rush | 5899 | [5899-l-a-rush.json](./5899-l-a-rush.json) |
 | L.A.2 | 135900 | [135900-l-a-2.json](./135900-l-a-2.json) |
 | L.C.D. Bowling | 346111 | [346111-l-c-d-bowling.json](./346111-l-c-d-bowling.json) |
 | L.F.O. -Lost Future Omega- | 30207 | [30207-l-f-o-lost-future-omega.json](./30207-l-f-o-lost-future-omega.json) |
