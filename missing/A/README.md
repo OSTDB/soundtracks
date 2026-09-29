@@ -1336,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure: The Inside Job | 60796 | [60796-adventure-the-inside-job.json](./60796-adventure-the-inside-job.json) |
 | Adventure: Welcome to the Genre | 165506 | [165506-adventure-welcome-to-the-genre.json](./165506-adventure-welcome-to-the-genre.json) |
 | Adventure4+ | 305199 | [305199-adventure4.json](./305199-adventure4.json) |
+| AdventureQuest | 79499 | [79499-adventurequest.json](./79499-adventurequest.json) |
 | Adventurer | 391046 | [391046-adventurer.json](./391046-adventurer.json) |
 | Adventurer Flower | 232935 | [232935-adventurer-flower.json](./232935-adventurer-flower.json) |
 | Adventurer Guild | 109882 | [109882-adventurer-guild.json](./109882-adventurer-guild.json) |
