@@ -439,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok Journey | 43890 | [43890-ragnarok-journey.json](./43890-ragnarok-journey.json) |
 | Ragnarok M: Eternal Love | 111880 | [111880-ragnarok-m-eternal-love.json](./111880-ragnarok-m-eternal-love.json) |
 | Ragnarok M: New Generation | 214034 | [214034-ragnarok-m-new-generation.json](./214034-ragnarok-m-new-generation.json) |
+| Ragnarok Odyssey | 21008 | [21008-ragnarok-odyssey.json](./21008-ragnarok-odyssey.json) |
 | Ragnarok Odyssey ACE: Launch Edition | 42668 | [42668-ragnarok-odyssey-ace-launch-edition.json](./42668-ragnarok-odyssey-ace-launch-edition.json) |
 | Ragnarok Online / Grand Chase | 80588 | [80588-ragnarok-online-grand-chase.json](./80588-ragnarok-online-grand-chase.json) |
 | Ragnarok Online 2 | 16484 | [16484-ragnarok-online-2.json](./16484-ragnarok-online-2.json) |
@@ -465,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid Gaza! | 318205 | [318205-raid-gaza.json](./318205-raid-gaza.json) |
 | Raid Leader | 237385 | [237385-raid-leader.json](./237385-raid-leader.json) |
 | Raid Manager | 197655 | [197655-raid-manager.json](./197655-raid-manager.json) |
+| Raid on Bungeling Bay | 24664 | [24664-raid-on-bungeling-bay.json](./24664-raid-on-bungeling-bay.json) |
 | Raid on Coasts | 51574 | [51574-raid-on-coasts.json](./51574-raid-on-coasts.json) |
 | Raid Rush | 355014 | [355014-raid-rush.json](./355014-raid-rush.json) |
 | Raidborn: Founder's Pack | 298337 | [298337-raidborn-founders-pack.json](./298337-raidborn-founders-pack.json) |
@@ -4135,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robolucion: The Sandwich Conspiracy | 390681 | [390681-robolucion-the-sandwich-conspiracy.json](./390681-robolucion-the-sandwich-conspiracy.json) |
 | RoboMaze III: The Dome | 78029 | [78029-robomaze-iii-the-dome.json](./78029-robomaze-iii-the-dome.json) |
 | RoboMaze: The Basement | 59927 | [59927-robomaze-the-basement.json](./59927-robomaze-the-basement.json) |
+| Robonauts | 64205 | [64205-robonauts.json](./64205-robonauts.json) |
 | Roboplant | 186641 | [186641-roboplant.json](./186641-roboplant.json) |
 | Robopost | 244195 | [244195-robopost.json](./244195-robopost.json) |
 | RoboQuest | 199912 | [199912-roboquest.json](./199912-roboquest.json) |
