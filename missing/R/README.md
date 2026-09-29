@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Championship: The X-Miles | 100179 | [100179-rally-championship-the-x-miles.json](./100179-rally-championship-the-x-miles.json) |
 | Rally Chase | 75514 | [75514-rally-chase.json](./75514-rally-chase.json) |
 | Rally Copters | 33424 | [33424-rally-copters.json](./33424-rally-copters.json) |
+| Rally Cross 2 | 8648 | [8648-rally-cross-2.json](./8648-rally-cross-2.json) |
 | Rally Cross Challenge | 93365 | [93365-rally-cross-challenge.json](./93365-rally-cross-challenge.json) |
 | Rally de Africa | 138176 | [138176-rally-de-africa.json](./138176-rally-de-africa.json) |
 | Rally Drift Cars | 123558 | [123558-rally-drift-cars.json](./123558-rally-drift-cars.json) |
@@ -4168,6 +4169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Adventure | 285537 | [285537-robot-adventure.json](./285537-robot-adventure.json) |
 | Robot Alchemic Drive | 24083 | [24083-robot-alchemic-drive.json](./24083-robot-alchemic-drive.json) |
 | Robot Anarchy | 328496 | [328496-robot-anarchy.json](./328496-robot-anarchy.json) |
+| Robot Arena 2: Design and Destroy | 8854 | [8854-robot-arena-2-design-and-destroy.json](./8854-robot-arena-2-design-and-destroy.json) |
 | Robot Arena: Design & Destroy | 79323 | [79323-robot-arena-design-and-destroy.json](./79323-robot-arena-design-and-destroy.json) |
 | Robot Auto Racing Simulator | 127950 | [127950-robot-auto-racing-simulator.json](./127950-robot-auto-racing-simulator.json) |
 | Robot Battle V | 400337 | [400337-robot-battle-v.json](./400337-robot-battle-v.json) |
