@@ -1889,6 +1889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicolás the Sea Urchin | 265930 | [265930-nicolas-the-sea-urchin.json](./265930-nicolas-the-sea-urchin.json) |
 | Nictheroy | 154031 | [154031-nictheroy.json](./154031-nictheroy.json) |
 | Nidhogg | 5551 | [5551-nidhogg.json](./5551-nidhogg.json) |
+| Nidhogg 2 | 24482 | [24482-nidhogg-2.json](./24482-nidhogg-2.json) |
 | Nidia | 57189 | [57189-nidia.json](./57189-nidia.json) |
 | Nie no Hakoniwa: Dollhouse of Offerings | 268012 | [268012-nie-no-hakoniwa-dollhouse-of-offerings.json](./268012-nie-no-hakoniwa-dollhouse-of-offerings.json) |
 | NieR Re[in]carnation | 132005 | [132005-nier-re-in-carnation.json](./132005-nier-re-in-carnation.json) |
