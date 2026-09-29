@@ -5987,6 +5987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings Online: Siege of Mirkwood | 21155 | [21155-the-lord-of-the-rings-online-siege-of-mirkwood.json](./21155-the-lord-of-the-rings-online-siege-of-mirkwood.json) |
 | The Lord of the Rings Online: War of Three Peaks | 275925 | [275925-the-lord-of-the-rings-online-war-of-three-peaks.json](./275925-the-lord-of-the-rings-online-war-of-three-peaks.json) |
 | The Lord of the Rings: Adventure Card Game - Definitive Edition | 147962 | [147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json](./147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json) |
+| The Lord of the Rings: Aragorn's Quest | 4978 | [4978-the-lord-of-the-rings-aragorns-quest.json](./4978-the-lord-of-the-rings-aragorns-quest.json) |
 | The Lord of the Rings: Gollum | 116584 | [116584-the-lord-of-the-rings-gollum.json](./116584-the-lord-of-the-rings-gollum.json) |
 | The Lord of the Rings: Gollum - Precious Edition | 248677 | [248677-the-lord-of-the-rings-gollum-precious-edition.json](./248677-the-lord-of-the-rings-gollum-precious-edition.json) |
 | The Lord of the Rings: Journey to Rivendell | 46888 | [46888-the-lord-of-the-rings-journey-to-rivendell.json](./46888-the-lord-of-the-rings-journey-to-rivendell.json) |
@@ -6769,6 +6770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pillage | 75219 | [75219-the-pillage.json](./75219-the-pillage.json) |
 | The Pillagers of Raillore | 137096 | [137096-the-pillagers-of-raillore.json](./137096-the-pillagers-of-raillore.json) |
 | The Pink Panther | 218447 | [218447-the-pink-panther.json](./218447-the-pink-panther.json) |
+| The Pink Panther's Passport to Peril | 47088 | [47088-the-pink-panthers-passport-to-peril.json](./47088-the-pink-panthers-passport-to-peril.json) |
 | The Pioneers: Surviving Desolation | 171471 | [171471-the-pioneers-surviving-desolation.json](./171471-the-pioneers-surviving-desolation.json) |
 | The Pirate King | 152731 | [152731-the-pirate-king.json](./152731-the-pirate-king.json) |
 | The Pirate Mermaid | 178528 | [178528-the-pirate-mermaid.json](./178528-the-pirate-mermaid.json) |
@@ -7501,6 +7503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Bundle Pack 4 | 159328 | [159328-the-sims-4-bundle-pack-4.json](./159328-the-sims-4-bundle-pack-4.json) |
 | The Sims 4: Bundle Pack 6 | 159329 | [159329-the-sims-4-bundle-pack-6.json](./159329-the-sims-4-bundle-pack-6.json) |
 | The Sims 4: Bust the Dust Kit | 151112 | [151112-the-sims-4-bust-the-dust-kit.json](./151112-the-sims-4-bust-the-dust-kit.json) |
+| The Sims 4: Cats & Dogs | 75675 | [75675-the-sims-4-cats-and-dogs.json](./75675-the-sims-4-cats-and-dogs.json) |
 | The Sims 4: City Living | 25321 | [25321-the-sims-4-city-living.json](./25321-the-sims-4-city-living.json) |
 | The Sims 4: Collector's Edition | 159074 | [159074-the-sims-4-collectors-edition.json](./159074-the-sims-4-collectors-edition.json) |
 | The Sims 4: Cool Kitchen Stuff | 13149 | [13149-the-sims-4-cool-kitchen-stuff.json](./13149-the-sims-4-cool-kitchen-stuff.json) |
@@ -14403,6 +14406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Fantasy Live Online | 18106 | [18106-true-fantasy-live-online.json](./18106-true-fantasy-live-online.json) |
 | True Fear: Forsaken Souls Part 2 | 111276 | [111276-true-fear-forsaken-souls-part-2.json](./111276-true-fear-forsaken-souls-part-2.json) |
 | True Horror | 103674 | [103674-true-horror.json](./103674-true-horror.json) |
+| True Love | 76455 | [76455-true-love.json](./76455-true-love.json) |
 | True Love For Her | 297042 | [297042-true-love-for-her.json](./297042-true-love-for-her.json) |
 | True Love Story 3 | 138012 | [138012-true-love-story-3.json](./138012-true-love-story-3.json) |
 | True Nightmare: Diner Loop | 413209 | [413209-true-nightmare-diner-loop.json](./413209-true-nightmare-diner-loop.json) |
