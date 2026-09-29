@@ -2467,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invention 5 | 336699 | [336699-invention-5.json](./336699-invention-5.json) |
 | Invention 6 | 340759 | [340759-invention-6.json](./340759-invention-6.json) |
 | Invention 7 | 340760 | [340760-invention-7.json](./340760-invention-7.json) |
+| Inventioneers | 34621 | [34621-inventioneers.json](./34621-inventioneers.json) |
 | Inventor | 120272 | [120272-inventor.json](./120272-inventor.json) |
 | Inventor Labs | 94242 | [94242-inventor-labs.json](./94242-inventor-labs.json) |
 | Inventor’s Cabin | 381622 | [381622-inventor-s-cabin.json](./381622-inventor-s-cabin.json) |
