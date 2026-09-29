@@ -1397,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inbound | 86531 | [86531-inbound.json](./86531-inbound.json) |
 | Inbox Unbox | 160239 | [160239-inbox-unbox.json](./160239-inbox-unbox.json) |
 | INC | 22331 | [22331-inc.json](./22331-inc.json) |
+| Inca | 25890 | [25890-inca.json](./25890-inca.json) |
 | Inca Gold | 97501 | [97501-inca-gold.json](./97501-inca-gold.json) |
 | Inca II | 45925 | [45925-inca-ii.json](./45925-inca-ii.json) |
 | Incandescent 2 | 113713 | [113713-incandescent-2.json](./113713-incandescent-2.json) |
@@ -1477,6 +1478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Jones and the Staff of Kings | 329026 | [329026-indiana-jones-and-the-staff-of-kings.json](./329026-indiana-jones-and-the-staff-of-kings.json) |
 | Indiana Jones and the Temple of the Spheres | 322929 | [322929-indiana-jones-and-the-temple-of-the-spheres.json](./322929-indiana-jones-and-the-temple-of-the-spheres.json) |
 | Indiana Jones in Revenge of the Ancients | 22218 | [22218-indiana-jones-in-revenge-of-the-ancients.json](./22218-indiana-jones-in-revenge-of-the-ancients.json) |
+| Indiana Jones in the Lost Kingdom | 25862 | [25862-indiana-jones-in-the-lost-kingdom.json](./25862-indiana-jones-in-the-lost-kingdom.json) |
 | Indiana Jones y la estatua sagrada | 322931 | [322931-indiana-jones-y-la-estatua-sagrada.json](./322931-indiana-jones-y-la-estatua-sagrada.json) |
 | Indiana Rodent | 57093 | [57093-indiana-rodent.json](./57093-indiana-rodent.json) |
 | Indie All Star Bundle | 317216 | [317216-indie-all-star-bundle.json](./317216-indie-all-star-bundle.json) |
