@@ -4679,6 +4679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudy & Stormy: Pawtastic Adventure | 333911 | [333911-cloudy-and-stormy-pawtastic-adventure.json](./333911-cloudy-and-stormy-pawtastic-adventure.json) |
 | Cloudy Days | 236949 | [236949-cloudy-days.json](./236949-cloudy-days.json) |
 | Cloudy with a Chance of Kittens | 345140 | [345140-cloudy-with-a-chance-of-kittens.json](./345140-cloudy-with-a-chance-of-kittens.json) |
+| Cloudy with a Chance of Meatballs | 4767 | [4767-cloudy-with-a-chance-of-meatballs.json](./4767-cloudy-with-a-chance-of-meatballs.json) |
 | Clout | 105528 | [105528-clout.json](./105528-clout.json) |
 | Clouzy! | 136984 | [136984-clouzy.json](./136984-clouzy.json) |
 | Clover Cuby | 267340 | [267340-clover-cuby.json](./267340-clover-cuby.json) |
@@ -6224,6 +6225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Clicker Collector | 373222 | [373222-cookie-clicker-collector.json](./373222-cookie-clicker-collector.json) |
 | Cookie Clicker PSP | 397263 | [397263-cookie-clicker-psp.json](./397263-cookie-clicker-psp.json) |
 | Cookie Crisp City | 330362 | [330362-cookie-crisp-city.json](./330362-cookie-crisp-city.json) |
+| Cookie Cutter | 205700 | [205700-cookie-cutter.json](./205700-cookie-cutter.json) |
 | Cookie Dozer | 92068 | [92068-cookie-dozer.json](./92068-cookie-dozer.json) |
 | Cookie Game | 266299 | [266299-cookie-game.json](./266299-cookie-game.json) |
 | Cookie Gluttons TD | 213334 | [213334-cookie-gluttons-td.json](./213334-cookie-gluttons-td.json) |
@@ -8297,6 +8299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSC | 339346 | [339346-csc.json](./339346-csc.json) |
 | CSC \| Space MMO | 118419 | [118419-csc-space-mmo.json](./118419-csc-space-mmo.json) |
 | CSI: Crime Scene Investigation - Deadly Intent: The Hidden Cases | 197873 | [197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json](./197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json) |
+| CSI: Deadly Intent | 4780 | [4780-csi-deadly-intent.json](./4780-csi-deadly-intent.json) |
 | CSI: Hard Evidence | 4782 | [4782-csi-hard-evidence.json](./4782-csi-hard-evidence.json) |
 | CSI: Hidden Crimes | 61730 | [61730-csi-hidden-crimes.json](./61730-csi-hidden-crimes.json) |
 | CSI: New York | 50800 | [50800-csi-new-york.json](./50800-csi-new-york.json) |
