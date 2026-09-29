@@ -4865,6 +4865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractalis | 121775 | [121775-fractalis.json](./121775-fractalis.json) |
 | Fractasia VR | 105997 | [105997-fractasia-vr.json](./105997-fractasia-vr.json) |
 | Fractional Numbers | 42196 | [42196-fractional-numbers.json](./42196-fractional-numbers.json) |
+| Fractions | 42172 | [42172-fractions.json](./42172-fractions.json) |
 | Fractium | 217512 | [217512-fractium.json](./217512-fractium.json) |
 | Fracture In Space | 217291 | [217291-fracture-in-space.json](./217291-fracture-in-space.json) |
 | Fracture Point | 335257 | [335257-fracture-point.json](./335257-fracture-point.json) |
