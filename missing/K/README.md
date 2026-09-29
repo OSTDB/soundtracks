@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katakoi Contrast: Way of Parting Vol.3 | 240477 | [240477-katakoi-contrast-way-of-parting-vol-3.json](./240477-katakoi-contrast-way-of-parting-vol-3.json) |
 | Katalyst | 163959 | [163959-katalyst.json](./163959-katalyst.json) |
 | Katamari Damacy Mobile | 243426 | [243426-katamari-damacy-mobile.json](./243426-katamari-damacy-mobile.json) |
+| Katamari Forever | 6459 | [6459-katamari-forever.json](./6459-katamari-forever.json) |
 | Katana | 216338 | [216338-katana.json](./216338-katana.json) |
 | Katana | 358917 | [358917-katana.json](./358917-katana.json) |
 | Katana Action | 57132 | [57132-katana-action.json](./57132-katana-action.json) |
@@ -997,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Icarus | 279751 | [279751-kid-icarus.json](./279751-kid-icarus.json) |
 | Kid Icarus | 3663 | [3663-kid-icarus.json](./3663-kid-icarus.json) |
 | Kid Icarus Enlightenment | 404256 | [404256-kid-icarus-enlightenment.json](./404256-kid-icarus-enlightenment.json) |
+| Kid Icarus: Of Myths and Monsters | 3664 | [3664-kid-icarus-of-myths-and-monsters.json](./3664-kid-icarus-of-myths-and-monsters.json) |
 | Kid Klown in Crazy Chase | 6349 | [6349-kid-klown-in-crazy-chase.json](./6349-kid-klown-in-crazy-chase.json) |
 | Kid Klown in Crazy Chase 2: Love Love Hani Soudatsusen | 64508 | [64508-kid-klown-in-crazy-chase-2-love-love-hani-soudatsusen.json](./64508-kid-klown-in-crazy-chase-2-love-love-hani-soudatsusen.json) |
 | Kid Meat | 152806 | [152806-kid-meat.json](./152806-kid-meat.json) |
@@ -2097,6 +2099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Legend | 47224 | [47224-knights-of-legend.json](./47224-knights-of-legend.json) |
 | Knights of Light | 96489 | [96489-knights-of-light.json](./96489-knights-of-light.json) |
 | Knights of Pen & Paper 3 | 240898 | [240898-knights-of-pen-and-paper-3.json](./240898-knights-of-pen-and-paper-3.json) |
+| Knights of Pen and Paper +1 Edition | 2934 | [2934-knights-of-pen-and-paper-1-edition.json](./2934-knights-of-pen-and-paper-1-edition.json) |
 | Knights of Pen and Paper II | 10126 | [10126-knights-of-pen-and-paper-ii.json](./10126-knights-of-pen-and-paper-ii.json) |
 | Knights of Pen and Paper II: Here Be Dragons | 53260 | [53260-knights-of-pen-and-paper-ii-here-be-dragons.json](./53260-knights-of-pen-and-paper-ii-here-be-dragons.json) |
 | Knights of Pen and Paper: Haunted Fall | 171459 | [171459-knights-of-pen-and-paper-haunted-fall.json](./171459-knights-of-pen-and-paper-haunted-fall.json) |
