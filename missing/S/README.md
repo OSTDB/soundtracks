@@ -8724,7 +8724,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Eater Force | 182919 | [182919-space-eater-force.json](./182919-space-eater-force.json) |
 | Space Egg Shooter | 199482 | [199482-space-egg-shooter.json](./199482-space-egg-shooter.json) |
 | Space electrician | 126668 | [126668-space-electrician.json](./126668-space-electrician.json) |
+| Space Empires | 15649 | [15649-space-empires.json](./15649-space-empires.json) |
+| Space Empires II | 15650 | [15650-space-empires-ii.json](./15650-space-empires-ii.json) |
+| Space Empires III | 15651 | [15651-space-empires-iii.json](./15651-space-empires-iii.json) |
+| Space Empires IV | 15611 | [15611-space-empires-iv.json](./15611-space-empires-iv.json) |
 | Space Empires IV Deluxe | 19350 | [19350-space-empires-iv-deluxe.json](./19350-space-empires-iv-deluxe.json) |
+| Space Empires: Starfury | 15652 | [15652-space-empires-starfury.json](./15652-space-empires-starfury.json) |
 | Space Endeavor | 173266 | [173266-space-endeavor.json](./173266-space-endeavor.json) |
 | Space Engineers 2 | 326578 | [326578-space-engineers-2.json](./326578-space-engineers-2.json) |
 | Space Engineers: Automatons | 247778 | [247778-space-engineers-automatons.json](./247778-space-engineers-automatons.json) |
@@ -9157,6 +9162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceman's Luck | 404427 | [404427-spacemans-luck.json](./404427-spacemans-luck.json) |
 | Spacemancer | 200716 | [200716-spacemancer.json](./200716-spacemancer.json) |
 | SpaceMaster X-7 | 23844 | [23844-spacemaster-x-7.json](./23844-spacemaster-x-7.json) |
+| Spacemen | 15696 | [15696-spacemen.json](./15696-spacemen.json) |
 | SpacePod | 142319 | [142319-spacepod.json](./142319-spacepod.json) |
 | SpacePom | 192367 | [192367-spacepom.json](./192367-spacepom.json) |
 | Spaceport Crew | 216884 | [216884-spaceport-crew.json](./216884-spaceport-crew.json) |
