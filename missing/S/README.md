@@ -4214,6 +4214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun Symphony | 144262 | [144262-shotgun-symphony.json](./144262-shotgun-symphony.json) |
 | Shotgun Witch | 140451 | [140451-shotgun-witch.json](./140451-shotgun-witch.json) |
 | Shothop | 396417 | [396417-shothop.json](./396417-shothop.json) |
+| Shots Fired | 55221 | [55221-shots-fired.json](./55221-shots-fired.json) |
 | Shotz.io | 125848 | [125848-shotz-io.json](./125848-shotz-io.json) |
 | Shòu'ěr Gōnglüè TFK Faculty | 119641 | [119641-shouer-gonglue-tfk-faculty.json](./119641-shouer-gonglue-tfk-faculty.json) |
 | Shougakusei no Uchi ni Oboetai Eitango | 260693 | [260693-shougakusei-no-uchi-ni-oboetai-eitango.json](./260693-shougakusei-no-uchi-ni-oboetai-eitango.json) |
@@ -10818,6 +10819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Vikings Forever | 51899 | [51899-star-vikings-forever.json](./51899-star-vikings-forever.json) |
 | Star Vortex | 154021 | [154021-star-vortex.json](./154021-star-vortex.json) |
 | Star Voyage: Treasure Hunting | 301240 | [301240-star-voyage-treasure-hunting.json](./301240-star-voyage-treasure-hunting.json) |
+| Star Waker | 55275 | [55275-star-waker.json](./55275-star-waker.json) |
 | Star Warped | 71483 | [71483-star-warped.json](./71483-star-warped.json) |
 | Star Warrior | 94241 | [94241-star-warrior.json](./94241-star-warrior.json) |
 | Star Wars | 12858 | [12858-star-wars.json](./12858-star-wars.json) |
@@ -15079,6 +15081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Crisis | 237673 | [237673-survival-crisis.json](./237673-survival-crisis.json) |
 | Survival Crisis Z | 94707 | [94707-survival-crisis-z.json](./94707-survival-crisis-z.json) |
 | Survival Denied | 132228 | [132228-survival-denied.json](./132228-survival-denied.json) |
+| Survival driver 2: Heavy vehicles | 55277 | [55277-survival-driver-2-heavy-vehicles.json](./55277-survival-driver-2-heavy-vehicles.json) |
 | Survival Epoch | 215704 | [215704-survival-epoch.json](./215704-survival-epoch.json) |
 | Survival Escape Room | 156180 | [156180-survival-escape-room.json](./156180-survival-escape-room.json) |
 | Survival Express | 232154 | [232154-survival-express.json](./232154-survival-express.json) |
@@ -15164,6 +15167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive: The Alien Tracing | 360203 | [360203-survive-the-alien-tracing.json](./360203-survive-the-alien-tracing.json) |
 | Survive! Mola mola! | 151640 | [151640-survive-mola-mola.json](./151640-survive-mola-mola.json) |
 | Survive.io Battle Ground | 100139 | [100139-survive-io-battle-ground.json](./100139-survive-io-battle-ground.json) |
+| Survived By | 55218 | [55218-survived-by.json](./55218-survived-by.json) |
 | Survivia.io | 137536 | [137536-survivia-io.json](./137536-survivia-io.json) |
 | Surviving Ceres | 290533 | [290533-surviving-ceres.json](./290533-surviving-ceres.json) |
 | Surviving Deponia | 252793 | [252793-surviving-deponia.json](./252793-surviving-deponia.json) |
