@@ -1498,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts | 301925 | [301925-kingdom-hearts.json](./301925-kingdom-hearts.json) |
 | Kingdom Hearts 10th Anniversary 3D+Days+Re:coded Box | 89879 | [89879-kingdom-hearts-10th-anniversary-3d-days-re-coded-box.json](./89879-kingdom-hearts-10th-anniversary-3d-days-re-coded-box.json) |
 | Kingdom Hearts 3D: Dream Drop Distance - Mark of Mastery Edition | 89897 | [89897-kingdom-hearts-3d-dream-drop-distance-mark-of-mastery-edition.json](./89897-kingdom-hearts-3d-dream-drop-distance-mark-of-mastery-edition.json) |
+| Kingdom Hearts Birth by Sleep | 1224 | [1224-kingdom-hearts-birth-by-sleep.json](./1224-kingdom-hearts-birth-by-sleep.json) |
 | Kingdom Hearts Birth by Sleep Final Mix | 221997 | [221997-kingdom-hearts-birth-by-sleep-final-mix.json](./221997-kingdom-hearts-birth-by-sleep-final-mix.json) |
 | Kingdom Hearts coded | 20285 | [20285-kingdom-hearts-coded.json](./20285-kingdom-hearts-coded.json) |
 | Kingdom Hearts Dream Drop Distance HD | 117525 | [117525-kingdom-hearts-dream-drop-distance-hd.json](./117525-kingdom-hearts-dream-drop-distance-hd.json) |
@@ -1577,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms Fall | 41489 | [41489-kingdoms-fall.json](./41489-kingdoms-fall.json) |
 | Kingdoms of Amalur: Re-Reckoning - Collector’s Edition | 138200 | [138200-kingdoms-of-amalur-re-reckoning-collector-s-edition.json](./138200-kingdoms-of-amalur-re-reckoning-collector-s-edition.json) |
 | Kingdoms of Amalur: Re-Reckoning - Fate Edition | 138198 | [138198-kingdoms-of-amalur-re-reckoning-fate-edition.json](./138198-kingdoms-of-amalur-re-reckoning-fate-edition.json) |
+| Kingdoms of Amalur: Reckoning | 1059 | [1059-kingdoms-of-amalur-reckoning.json](./1059-kingdoms-of-amalur-reckoning.json) |
 | Kingdoms of Dice: The Elonia Chronicles | 360685 | [360685-kingdoms-of-dice-the-elonia-chronicles.json](./360685-kingdoms-of-dice-the-elonia-chronicles.json) |
 | Kingdoms of England | 55988 | [55988-kingdoms-of-england.json](./55988-kingdoms-of-england.json) |
 | Kingdoms of Germany | 65441 | [65441-kingdoms-of-germany.json](./65441-kingdoms-of-germany.json) |
