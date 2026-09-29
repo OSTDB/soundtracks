@@ -1397,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inauthentic Hummus | 348353 | [348353-inauthentic-hummus.json](./348353-inauthentic-hummus.json) |
 | Inayah: Life after Gods | 317838 | [317838-inayah-life-after-gods.json](./317838-inayah-life-after-gods.json) |
 | Inazuma Eleven 1, 2, 3!! Endou Mamoru Densetsu | 86106 | [86106-inazuma-eleven-1-2-3-endou-mamoru-densetsu.json](./86106-inazuma-eleven-1-2-3-endou-mamoru-densetsu.json) |
+| Inazuma Eleven 2: Blizzard | 47716 | [47716-inazuma-eleven-2-blizzard.json](./47716-inazuma-eleven-2-blizzard.json) |
 | Inazuma Eleven 3: Lightning Bolt | 47675 | [47675-inazuma-eleven-3-lightning-bolt.json](./47675-inazuma-eleven-3-lightning-bolt.json) |
 | Inazuma Eleven GO: Chrono Stones - Wildfire | 9693 | [9693-inazuma-eleven-go-chrono-stones-wildfire.json](./9693-inazuma-eleven-go-chrono-stones-wildfire.json) |
 | Inazuma Eleven Go: Light | 47673 | [47673-inazuma-eleven-go-light.json](./47673-inazuma-eleven-go-light.json) |
