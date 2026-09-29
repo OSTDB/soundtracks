@@ -243,6 +243,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider V3 | 43862 | [43862-kamen-rider-v3.json](./43862-kamen-rider-v3.json) |
 | Kamen Rider: Battride War | 63358 | [63358-kamen-rider-battride-war.json](./63358-kamen-rider-battride-war.json) |
 | Kamen Rider: Battride War II | 62184 | [62184-kamen-rider-battride-war-ii.json](./62184-kamen-rider-battride-war-ii.json) |
+| Kamen Rider: Climax Heroes W | 50731 | [50731-kamen-rider-climax-heroes-w.json](./50731-kamen-rider-climax-heroes-w.json) |
+| Kamen Rider: Dragon Knight | 50730 | [50730-kamen-rider-dragon-knight.json](./50730-kamen-rider-dragon-knight.json) |
 | Kamen Rider: Memory of Heroez | 137453 | [137453-kamen-rider-memory-of-heroez.json](./137453-kamen-rider-memory-of-heroez.json) |
 | Kamen Rider: Seigi no Keifu | 61914 | [61914-kamen-rider-seigi-no-keifu.json](./61914-kamen-rider-seigi-no-keifu.json) |
 | Kamen Rider: Super Climax Heroes | 62705 | [62705-kamen-rider-super-climax-heroes.json](./62705-kamen-rider-super-climax-heroes.json) |
