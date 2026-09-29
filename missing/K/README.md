@@ -1353,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Arthur II: The Role-Playing Wargame + Dead Legions | 313230 | [313230-king-arthur-ii-the-role-playing-wargame-dead-legions.json](./313230-king-arthur-ii-the-role-playing-wargame-dead-legions.json) |
 | King Arthur Is Dead | 385299 | [385299-king-arthur-is-dead.json](./385299-king-arthur-is-dead.json) |
 | King Arthur: Fallen Champions | 10484 | [10484-king-arthur-fallen-champions.json](./10484-king-arthur-fallen-champions.json) |
+| King Arthur: Knight's Tale | 139883 | [139883-king-arthur-knights-tale.json](./139883-king-arthur-knights-tale.json) |
 | King Arthur: Legends Rise | 244483 | [244483-king-arthur-legends-rise.json](./244483-king-arthur-legends-rise.json) |
 | King Arthur: Legion IX | 285440 | [285440-king-arthur-legion-ix.json](./285440-king-arthur-legion-ix.json) |
 | King Arthur's Heir | 23970 | [23970-king-arthurs-heir.json](./23970-king-arthurs-heir.json) |
