@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baku Maru | 369039 | [369039-baku-maru.json](./369039-baku-maru.json) |
 | Bakugan Battle Brawlers: Arcade Battlers | 122989 | [122989-bakugan-battle-brawlers-arcade-battlers.json](./122989-bakugan-battle-brawlers-arcade-battlers.json) |
 | Bakugan: Rise of the Resistance | 26690 | [26690-bakugan-rise-of-the-resistance.json](./26690-bakugan-rise-of-the-resistance.json) |
+| Bakugen: Battle Brawlers | 50694 | [50694-bakugen-battle-brawlers.json](./50694-bakugen-battle-brawlers.json) |
 | Bakuman: Mangaka he no Michi | 65745 | [65745-bakuman-mangaka-he-no-michi.json](./65745-bakuman-mangaka-he-no-michi.json) |
 | Bakumatsu Ishin: Amakakeru Koi | 163234 | [163234-bakumatsu-ishin-amakakeru-koi.json](./163234-bakumatsu-ishin-amakakeru-koi.json) |
 | Bakumatsu Kourinden Oni | 15897 | [15897-bakumatsu-kourinden-oni.json](./15897-bakumatsu-kourinden-oni.json) |
@@ -2137,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Club Simulator 2024 | 289429 | [289429-beach-club-simulator-2024.json](./289429-beach-club-simulator-2024.json) |
 | Beach Festival World Championship 1997 | 255362 | [255362-beach-festival-world-championship-1997.json](./255362-beach-festival-world-championship-1997.json) |
 | Beach Friends | 376465 | [376465-beach-friends.json](./376465-beach-friends.json) |
+| Beach Fun Summer Challenge | 50739 | [50739-beach-fun-summer-challenge.json](./50739-beach-fun-summer-challenge.json) |
 | Beach Gas Gas | 247620 | [247620-beach-gas-gas.json](./247620-beach-gas-gas.json) |
 | Beach Girls | 75758 | [75758-beach-girls.json](./75758-beach-girls.json) |
 | Beach Girls 2: Sports in Bikini | 300774 | [300774-beach-girls-2-sports-in-bikini.json](./300774-beach-girls-2-sports-in-bikini.json) |
@@ -6523,6 +6525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break the Balloons: Ghost Town | 252151 | [252151-break-the-balloons-ghost-town.json](./252151-break-the-balloons-ghost-town.json) |
 | Break the Empire | 304870 | [304870-break-the-empire.json](./304870-break-the-empire.json) |
 | Break the Fireline | 230847 | [230847-break-the-fireline.json](./230847-break-the-fireline.json) |
+| Break the Food Chain | 50746 | [50746-break-the-food-chain.json](./50746-break-the-food-chain.json) |
 | Break the Game | 74983 | [74983-break-the-game.json](./74983-break-the-game.json) |
 | Break The Line | 296500 | [296500-break-the-line.json](./296500-break-the-line.json) |
 | Break The Night | 417529 | [417529-break-the-night.json](./417529-break-the-night.json) |
