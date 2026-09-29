@@ -1482,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geri's Chess | 50864 | [50864-geris-chess.json](./50864-geris-chess.json) |
 | Germ Blasters | 353910 | [353910-germ-blasters.json](./353910-germ-blasters.json) |
 | Germ Crazy | 94669 | [94669-germ-crazy.json](./94669-germ-crazy.json) |
+| Germ Patrol | 42147 | [42147-germ-patrol.json](./42147-germ-patrol.json) |
 | Germ Warfare | 137537 | [137537-germ-warfare.json](./137537-germ-warfare.json) |
 | German 101 | 93543 | [93543-german-101.json](./93543-german-101.json) |
 | Gërman Boy | 331889 | [331889-german-boy.json](./331889-german-boy.json) |
