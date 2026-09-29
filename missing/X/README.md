@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XG Blast! | 21254 | [21254-xg-blast.json](./21254-xg-blast.json) |
 | XGun-Weapon Evolution | 31178 | [31178-xgun-weapon-evolution.json](./31178-xgun-weapon-evolution.json) |
 | Xi | 335683 | [335683-xi.json](./335683-xi.json) |
+| Xi (sai) Little | 37314 | [37314-xi-sai-little.json](./37314-xi-sai-little.json) |
 | Xi Coliseum | 334216 | [334216-xi-coliseum.json](./334216-xi-coliseum.json) |
 | XI O'Clock | 341878 | [341878-xi-oclock.json](./341878-xi-oclock.json) |
 | Xiákè Yīngxióng Zhuán | 86019 | [86019-xiake-yingxiong-zhuan.json](./86019-xiake-yingxiong-zhuan.json) |
