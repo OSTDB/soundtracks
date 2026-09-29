@@ -1098,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Fever | 312753 | [312753-neon-fever.json](./312753-neon-fever.json) |
 | Neon Fighter | 211720 | [211720-neon-fighter.json](./211720-neon-fighter.json) |
 | Neon Flight | 297796 | [297796-neon-flight.json](./297796-neon-flight.json) |
+| Neon FM | 55996 | [55996-neon-fm.json](./55996-neon-fm.json) |
 | Neon Force Pushers | 99037 | [99037-neon-force-pushers.json](./99037-neon-force-pushers.json) |
 | Neon Fury | 120335 | [120335-neon-fury.json](./120335-neon-fury.json) |
 | Neon Genesis Evangelion 2 | 75876 | [75876-neon-genesis-evangelion-2.json](./75876-neon-genesis-evangelion-2.json) |
