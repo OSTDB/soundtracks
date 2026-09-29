@@ -2967,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden & Dangerous Deluxe | 73774 | [73774-hidden-and-dangerous-deluxe.json](./73774-hidden-and-dangerous-deluxe.json) |
 | Hidden & Dangerous: Action Pack | 77208 | [77208-hidden-and-dangerous-action-pack.json](./77208-hidden-and-dangerous-action-pack.json) |
 | Hidden & Dangerous: Devil's Bridge | 108 | [108-hidden-and-dangerous-devils-bridge.json](./108-hidden-and-dangerous-devils-bridge.json) |
+| Hidden Agenda | 37092 | [37092-hidden-agenda.json](./37092-hidden-agenda.json) |
 | Hidden Among Thieves | 340470 | [340470-hidden-among-thieves.json](./340470-hidden-among-thieves.json) |
 | Hidden Animals Find : Detective Neko | 289343 | [289343-hidden-animals-find-detective-neko.json](./289343-hidden-animals-find-detective-neko.json) |
 | Hidden Animals: English - Spanish | 28068 | [28068-hidden-animals-english-spanish.json](./28068-hidden-animals-english-spanish.json) |
@@ -3983,6 +3984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoloBase | 410316 | [410316-holobase.json](./410316-holobase.json) |
 | Holobunnies: The Bittersweet Adventure | 28897 | [28897-holobunnies-the-bittersweet-adventure.json](./28897-holobunnies-the-bittersweet-adventure.json) |
 | HoloCall: Send Your Cheers! | 340478 | [340478-holocall-send-your-cheers.json](./340478-holocall-send-your-cheers.json) |
+| HoloCure: Save the Fans! | 206336 | [206336-holocure-save-the-fans.json](./206336-holocure-save-the-fans.json) |
 | Holodrive | 20365 | [20365-holodrive.json](./20365-holodrive.json) |
 | HoloExpo20XX | 401775 | [401775-holoexpo20xx.json](./401775-holoexpo20xx.json) |
 | HoloFist | 117485 | [117485-holofist.json](./117485-holofist.json) |
