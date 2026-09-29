@@ -128,7 +128,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Arrival | 150627 | [150627-raccoon-arrival.json](./150627-raccoon-arrival.json) |
 | Raccoon Bubbles | 208963 | [208963-raccoon-bubbles.json](./208963-raccoon-bubbles.json) |
 | Raccoon City Edition: Z Version | 218545 | [218545-raccoon-city-edition-z-version.json](./218545-raccoon-city-edition-z-version.json) |
+| Raccoon Hero | 54482 | [54482-raccoon-hero.json](./54482-raccoon-hero.json) |
 | Raccoon Hero: Among the Cacti | 55251 | [55251-raccoon-hero-among-the-cacti.json](./55251-raccoon-hero-among-the-cacti.json) |
+| Raccoon Hero: Starlight | 54480 | [54480-raccoon-hero-starlight.json](./54480-raccoon-hero-starlight.json) |
 | Raccoon Hero: The Sunrise | 51961 | [51961-raccoon-hero-the-sunrise.json](./51961-raccoon-hero-the-sunrise.json) |
 | Raccoon Lagoon | 133388 | [133388-raccoon-lagoon.json](./133388-raccoon-lagoon.json) |
 | Raccoon Laundering | 307129 | [307129-raccoon-laundering.json](./307129-raccoon-laundering.json) |
@@ -2649,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reticle Star | 210097 | [210097-reticle-star.json](./210097-reticle-star.json) |
 | Retired Men's Nude Beach Volleyball League | 163452 | [163452-retired-mens-nude-beach-volleyball-league.json](./163452-retired-mens-nude-beach-volleyball-league.json) |
 | Retirement Home Tower Defense | 340569 | [340569-retirement-home-tower-defense.json](./340569-retirement-home-tower-defense.json) |
+| Retne | 54526 | [54526-retne.json](./54526-retne.json) |
 | Retool | 32974 | [32974-retool.json](./32974-retool.json) |
 | Retooled | 204071 | [204071-retooled.json](./204071-retooled.json) |
 | Retr0Mine | 386704 | [386704-retr0mine.json](./386704-retr0mine.json) |
@@ -5456,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Fairy | 111014 | [111014-run-fairy.json](./111014-run-fairy.json) |
 | Run Fire | 258504 | [258504-run-fire.json](./258504-run-fire.json) |
 | Run for Cheese | 174356 | [174356-run-for-cheese.json](./174356-run-for-cheese.json) |
+| Run For Coins | 54512 | [54512-run-for-coins.json](./54512-run-for-coins.json) |
 | Run For Cover | 117655 | [117655-run-for-cover.json](./117655-run-for-cover.json) |
 | Run for Love | 180747 | [180747-run-for-love.json](./180747-run-for-love.json) |
 | Run for Money Tousouchuu | 141123 | [141123-run-for-money-tousouchuu.json](./141123-run-for-money-tousouchuu.json) |
