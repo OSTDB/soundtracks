@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacz!: Pacmanworlds 2 | 141732 | [141732-pacz-pacmanworlds-2.json](./141732-pacz-pacmanworlds-2.json) |
 | Pad of Time | 194983 | [194983-pad-of-time.json](./194983-pad-of-time.json) |
 | Pad Quad | 376144 | [376144-pad-quad.json](./376144-pad-quad.json) |
+| Paddington Bear | 56556 | [56556-paddington-bear.json](./56556-paddington-bear.json) |
 | Paddington Run | 83249 | [83249-paddington-run.json](./83249-paddington-run.json) |
 | Paddington's Early Visit | 83251 | [83251-paddingtons-early-visit.json](./83251-paddingtons-early-visit.json) |
 | Paddington's Garden Game | 83250 | [83250-paddingtons-garden-game.json](./83250-paddingtons-garden-game.json) |
