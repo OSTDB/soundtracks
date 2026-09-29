@@ -1092,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farfalla | 91442 | [91442-farfalla.json](./91442-farfalla.json) |
 | Farhoud Farmand's The Mountaineer | 249285 | [249285-farhoud-farmands-the-mountaineer.json](./249285-farhoud-farmands-the-mountaineer.json) |
 | Faria: A World of Mystery and Danger! | 48060 | [48060-faria-a-world-of-mystery-and-danger.json](./48060-faria-a-world-of-mystery-and-danger.json) |
+| Faria: Ghosts of the Stream | 32149 | [32149-faria-ghosts-of-the-stream.json](./32149-faria-ghosts-of-the-stream.json) |
 | Farjius no Jakoutei: Neo Metal Fantasy | 69862 | [69862-farjius-no-jakoutei-neo-metal-fantasy.json](./69862-farjius-no-jakoutei-neo-metal-fantasy.json) |
 | Farland Saga I & II: Saturn Tribute | 360013 | [360013-farland-saga-i-and-ii-saturn-tribute.json](./360013-farland-saga-i-and-ii-saturn-tribute.json) |
 | Farland Story FX | 45953 | [45953-farland-story-fx.json](./45953-farland-story-fx.json) |
@@ -1322,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast & Furious: Spy Racers Rise of Sh1ft3r - Arctic Challenge | 199898 | [199898-fast-and-furious-spy-racers-rise-of-sh1ft3r-arctic-challenge.json](./199898-fast-and-furious-spy-racers-rise-of-sh1ft3r-arctic-challenge.json) |
 | Fast & Furious: Spy Racers Rise of Sh1ft3r - Complete Edition | 218500 | [218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json](./218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json) |
 | Fast Action Paq | 79585 | [79585-fast-action-paq.json](./79585-fast-action-paq.json) |
+| Fast and Curious | 32076 | [32076-fast-and-curious.json](./32076-fast-and-curious.json) |
 | Fast Beat Battle Rider | 292288 | [292288-fast-beat-battle-rider.json](./292288-fast-beat-battle-rider.json) |
 | Fast Blast | 108503 | [108503-fast-blast.json](./108503-fast-blast.json) |
 | Fast Break | 12091 | [12091-fast-break.json](./12091-fast-break.json) |
@@ -2301,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fight: Streetwise | 1660 | [1660-final-fight-streetwise.json](./1660-final-fight-streetwise.json) |
 | Final Fighter | 109207 | [109207-final-fighter.json](./109207-final-fighter.json) |
 | Final Flames 2: Against the Dark World Crisis | 76548 | [76548-final-flames-2-against-the-dark-world-crisis.json](./76548-final-flames-2-against-the-dark-world-crisis.json) |
+| Final Fleet | 32118 | [32118-final-fleet.json](./32118-final-fleet.json) |
 | Final Flock | 260163 | [260163-final-flock.json](./260163-final-flock.json) |
 | Final Foe | 153955 | [153955-final-foe.json](./153955-final-foe.json) |
 | Final Freeway | 257369 | [257369-final-freeway.json](./257369-final-freeway.json) |
@@ -4134,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Superstar 2 | 317008 | [317008-football-superstar-2.json](./317008-football-superstar-2.json) |
 | Football Thug Life Soccer | 255741 | [255741-football-thug-life-soccer.json](./255741-football-thug-life-soccer.json) |
 | Football Tournament | 164882 | [164882-football-tournament.json](./164882-football-tournament.json) |
+| Football VR | 32092 | [32092-football-vr.json](./32092-football-vr.json) |
 | Football, Tactics & Glory 2 | 258555 | [258555-football-tactics-and-glory-2.json](./258555-football-tactics-and-glory-2.json) |
 | Football, Tactics & Glory: Manager's Journey | 192149 | [192149-football-tactics-and-glory-managers-journey.json](./192149-football-tactics-and-glory-managers-journey.json) |
 | Football: Breakthrough Gaming Arcade | 145489 | [145489-football-breakthrough-gaming-arcade.json](./145489-football-breakthrough-gaming-arcade.json) |
