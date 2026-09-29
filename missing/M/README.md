@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 09 | 229197 | [229197-madden-nfl-09.json](./229197-madden-nfl-09.json) |
 | Madden NFL 09 | 229198 | [229198-madden-nfl-09.json](./229198-madden-nfl-09.json) |
 | Madden NFL 09 | 243242 | [243242-madden-nfl-09.json](./243242-madden-nfl-09.json) |
+| Madden NFL 09 | 4984 | [4984-madden-nfl-09.json](./4984-madden-nfl-09.json) |
 | Madden NFL 09 All-Play | 229192 | [229192-madden-nfl-09-all-play.json](./229192-madden-nfl-09-all-play.json) |
 | Madden NFL 10 | 229204 | [229204-madden-nfl-10.json](./229204-madden-nfl-10.json) |
 | Madden NFL 10 | 229205 | [229205-madden-nfl-10.json](./229205-madden-nfl-10.json) |
