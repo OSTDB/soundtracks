@@ -5815,6 +5815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Chou Party Plus: Sanae to Tenshi no Gensou Labyrinth | 206955 | [206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json](./206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json) |
 | Miracle Chou Party: Sanae to Tenshi no Gensou Labyrinth | 206944 | [206944-miracle-chou-party-sanae-to-tenshi-no-gensou-labyrinth.json](./206944-miracle-chou-party-sanae-to-tenshi-no-gensou-labyrinth.json) |
 | Miracle Circus | 110365 | [110365-miracle-circus.json](./110365-miracle-circus.json) |
+| Miracle Girls Festival | 13658 | [13658-miracle-girls-festival.json](./13658-miracle-girls-festival.json) |
 | Miracle Heroes: Temporal Bounty Hunter | 338705 | [338705-miracle-heroes-temporal-bounty-hunter.json](./338705-miracle-heroes-temporal-bounty-hunter.json) |
 | Miracle Jim no Bassing Beat | 362809 | [362809-miracle-jim-no-bassing-beat.json](./362809-miracle-jim-no-bassing-beat.json) |
 | Miracle Merchant | 77734 | [77734-miracle-merchant.json](./77734-miracle-merchant.json) |
