@@ -7836,6 +7836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossing Frontier: Fate Foretold | 275096 | [275096-crossing-frontier-fate-foretold.json](./275096-crossing-frontier-fate-foretold.json) |
 | Crossing Man | 102960 | [102960-crossing-man.json](./102960-crossing-man.json) |
 | Crossing Miracles | 316647 | [316647-crossing-miracles.json](./316647-crossing-miracles.json) |
+| Crossing Souls | 11176 | [11176-crossing-souls.json](./11176-crossing-souls.json) |
 | Crossing the Line | 61690 | [61690-crossing-the-line.json](./61690-crossing-the-line.json) |
 | Crossing the Sands | 261842 | [261842-crossing-the-sands.json](./261842-crossing-the-sands.json) |
 | Crosslogic Ultimate | 66716 | [66716-crosslogic-ultimate.json](./66716-crosslogic-ultimate.json) |
@@ -8048,6 +8049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader: Adventure Out of Time | 72113 | [72113-crusader-adventure-out-of-time.json](./72113-crusader-adventure-out-of-time.json) |
 | Crusader: Dungeon Series | 197273 | [197273-crusader-dungeon-series.json](./197273-crusader-dungeon-series.json) |
 | Crusader: No Remorse | 207101 | [207101-crusader-no-remorse.json](./207101-crusader-no-remorse.json) |
+| Crusader: No Remorse | 7840 | [7840-crusader-no-remorse.json](./7840-crusader-no-remorse.json) |
 | Crusaders Arena | 260406 | [260406-crusaders-arena.json](./260406-crusaders-arena.json) |
 | Crusaders Quest: Hero Town | 397208 | [397208-crusaders-quest-hero-town.json](./397208-crusaders-quest-hero-town.json) |
 | CrusaDoom | 310608 | [310608-crusadoom.json](./310608-crusadoom.json) |
