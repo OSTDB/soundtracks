@@ -4843,6 +4843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Down Bottles | 262341 | [262341-rolling-down-bottles.json](./262341-rolling-down-bottles.json) |
 | Rolling Ex.tre.me | 321752 | [321752-rolling-ex-tre-me.json](./321752-rolling-ex-tre-me.json) |
 | Rolling for Romance | 273954 | [273954-rolling-for-romance.json](./273954-rolling-for-romance.json) |
+| Rolling Gunner | 119445 | [119445-rolling-gunner.json](./119445-rolling-gunner.json) |
 | Rolling Gunner Over Power | 142846 | [142846-rolling-gunner-over-power.json](./142846-rolling-gunner-over-power.json) |
 | Rolling Hero | 404338 | [404338-rolling-hero.json](./404338-rolling-hero.json) |
 | Rolling in the Maze | 286498 | [286498-rolling-in-the-maze.json](./286498-rolling-in-the-maze.json) |
