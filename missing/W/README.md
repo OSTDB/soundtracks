@@ -3525,6 +3525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Workemon | 141174 | [141174-workemon.json](./141174-workemon.json) |
 | Worker 42 | 320172 | [320172-worker-42.json](./320172-worker-42.json) |
 | Worker Riot | 203554 | [203554-worker-riot.json](./203554-worker-riot.json) |
+| Workers & Resources: Soviet Republic | 103065 | [103065-workers-and-resources-soviet-republic.json](./103065-workers-and-resources-soviet-republic.json) |
 | Workhorse | 357861 | [357861-workhorse.json](./357861-workhorse.json) |
 | Working Dawgs: Rivet Retriever | 84936 | [84936-working-dawgs-rivet-retriever.json](./84936-working-dawgs-rivet-retriever.json) |
 | Working Days | 408762 | [408762-working-days.json](./408762-working-days.json) |
