@@ -1865,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PenguInn | 223951 | [223951-penguinn.json](./223951-penguinn.json) |
 | Penguino | 365853 | [365853-penguino.json](./365853-penguino.json) |
 | Penguins Arena: Sedna's World | 15779 | [15779-penguins-arena-sednas-world.json](./15779-penguins-arena-sednas-world.json) |
+| Penguins of Madagascar | 50738 | [50738-penguins-of-madagascar.json](./50738-penguins-of-madagascar.json) |
 | Penguins of the North | 121545 | [121545-penguins-of-the-north.json](./121545-penguins-of-the-north.json) |
 | Penguins vs. Bugs | 122402 | [122402-penguins-vs-bugs.json](./122402-penguins-vs-bugs.json) |
 | Penguins! | 147344 | [147344-penguins.json](./147344-penguins.json) |
@@ -1942,6 +1943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peppa Pig: Laptop Infantil | 297771 | [297771-peppa-pig-laptop-infantil.json](./297771-peppa-pig-laptop-infantil.json) |
 | Peppa Pig: Seasons | 86879 | [86879-peppa-pig-seasons.json](./86879-peppa-pig-seasons.json) |
 | Peppa Pig: The Game | 256219 | [256219-peppa-pig-the-game.json](./256219-peppa-pig-the-game.json) |
+| Peppa Pig: The Game | 50710 | [50710-peppa-pig-the-game.json](./50710-peppa-pig-the-game.json) |
 | Peppa Pig: The New House | 116405 | [116405-peppa-pig-the-new-house.json](./116405-peppa-pig-the-new-house.json) |
 | Pepper Girl | 226191 | [226191-pepper-girl.json](./226191-pepper-girl.json) |
 | Pepper Pengui | 363046 | [363046-pepper-pengui.json](./363046-pepper-pengui.json) |
@@ -2291,6 +2293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petz Horsez Family | 209998 | [209998-petz-horsez-family.json](./209998-petz-horsez-family.json) |
 | Petz Pony Beauty Pageant | 68078 | [68078-petz-pony-beauty-pageant.json](./68078-petz-pony-beauty-pageant.json) |
 | Petz Puppyz and Kittenz | 209990 | [209990-petz-puppyz-and-kittenz.json](./209990-petz-puppyz-and-kittenz.json) |
+| Petz Sports | 50714 | [50714-petz-sports.json](./50714-petz-sports.json) |
 | Petz Vet | 209989 | [209989-petz-vet.json](./209989-petz-vet.json) |
 | Petz: Catz 5 | 23770 | [23770-petz-catz-5.json](./23770-petz-catz-5.json) |
 | Petz: Hamster Superstarz | 47972 | [47972-petz-hamster-superstarz.json](./47972-petz-hamster-superstarz.json) |
@@ -3401,6 +3404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates Outlaws 2: Heritage | 320892 | [320892-pirates-outlaws-2-heritage.json](./320892-pirates-outlaws-2-heritage.json) |
 | Pirates Overboard | 185533 | [185533-pirates-overboard.json](./185533-pirates-overboard.json) |
 | Pirates Pinball | 115058 | [115058-pirates-pinball.json](./115058-pirates-pinball.json) |
+| Pirates Plundarrr | 50728 | [50728-pirates-plundarrr.json](./50728-pirates-plundarrr.json) |
 | Pirates vs Corsairs: Davy Jones's Gold | 35613 | [35613-pirates-vs-corsairs-davy-joness-gold.json](./35613-pirates-vs-corsairs-davy-joness-gold.json) |
 | Pirates vs monkeys | 162851 | [162851-pirates-vs-monkeys.json](./162851-pirates-vs-monkeys.json) |
 | Pirates: Captain's Quest | 145521 | [145521-pirates-captains-quest.json](./145521-pirates-captains-quest.json) |
@@ -5832,6 +5836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Pointer | 335080 | [335080-power-pointer.json](./335080-power-pointer.json) |
 | Power Politics | 76590 | [76590-power-politics.json](./76590-power-politics.json) |
 | Power Punch | 275121 | [275121-power-punch.json](./275121-power-punch.json) |
+| Power Punch | 50704 | [50704-power-punch.json](./50704-power-punch.json) |
 | Power Quest Survivors | 295558 | [295558-power-quest-survivors.json](./295558-power-quest-survivors.json) |
 | Power Racing Bundle | 147786 | [147786-power-racing-bundle.json](./147786-power-racing-bundle.json) |
 | Power Racing Bundle 2 | 147787 | [147787-power-racing-bundle-2.json](./147787-power-racing-bundle-2.json) |
