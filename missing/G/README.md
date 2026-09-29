@@ -1270,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genesis: Voces de la Niebla | 389577 | [389577-genesis-voces-de-la-niebla.json](./389577-genesis-voces-de-la-niebla.json) |
 | Genetic | 270663 | [270663-genetic.json](./270663-genetic.json) |
 | Geneticognito | 44173 | [44173-geneticognito.json](./44173-geneticognito.json) |
+| Genewars | 14455 | [14455-genewars.json](./14455-genewars.json) |
 | Genfanad | 159346 | [159346-genfanad.json](./159346-genfanad.json) |
 | Gengar | 210568 | [210568-gengar.json](./210568-gengar.json) |
 | Genghis Khan | 269523 | [269523-genghis-khan.json](./269523-genghis-khan.json) |
@@ -1639,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gharp | 192438 | [192438-gharp.json](./192438-gharp.json) |
 | Ghastly Mask Shop | 391332 | [391332-ghastly-mask-shop.json](./391332-ghastly-mask-shop.json) |
 | Ghen War | 45526 | [45526-ghen-war.json](./45526-ghen-war.json) |
+| Ghenghis Khan | 14440 | [14440-ghenghis-khan.json](./14440-ghenghis-khan.json) |
 | Gherbert Groundhog in Save the Date | 232406 | [232406-gherbert-groundhog-in-save-the-date.json](./232406-gherbert-groundhog-in-save-the-date.json) |
 | Ghetto Blaster | 47254 | [47254-ghetto-blaster.json](./47254-ghetto-blaster.json) |
 | Ghetto Conspiracy | 127366 | [127366-ghetto-conspiracy.json](./127366-ghetto-conspiracy.json) |
@@ -1815,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghoul Britannia: Land of Hope and Gorey | 116979 | [116979-ghoul-britannia-land-of-hope-and-gorey.json](./116979-ghoul-britannia-land-of-hope-and-gorey.json) |
 | Ghoul Fort | 294263 | [294263-ghoul-fort.json](./294263-ghoul-fort.json) |
 | Ghoul Kid | 33012 | [33012-ghoul-kid.json](./33012-ghoul-kid.json) |
+| Ghoul Panic | 14392 | [14392-ghoul-panic.json](./14392-ghoul-panic.json) |
 | Ghoul Patrol | 42612 | [42612-ghoul-patrol.json](./42612-ghoul-patrol.json) |
 | GhoulBoy: Limited Edition | 166234 | [166234-ghoulboy-limited-edition.json](./166234-ghoulboy-limited-edition.json) |
 | Ghouls | 13721 | [13721-ghouls.json](./13721-ghouls.json) |
