@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Gardener | 377587 | [377587-galactic-gardener.json](./377587-galactic-gardener.json) |
 | Galactic Gladiators | 186342 | [186342-galactic-gladiators.json](./186342-galactic-gladiators.json) |
 | Galactic Gladiators | 22488 | [22488-galactic-gladiators.json](./22488-galactic-gladiators.json) |
+| Galactic Gladiators | 5473 | [5473-galactic-gladiators.json](./5473-galactic-gladiators.json) |
 | Galactic Glitch: Prologue | 211690 | [211690-galactic-glitch-prologue.json](./211690-galactic-glitch-prologue.json) |
 | Galactic Guardian | 316807 | [316807-galactic-guardian.json](./316807-galactic-guardian.json) |
 | Galactic Gym: Fitness Center Management | 199610 | [199610-galactic-gym-fitness-center-management.json](./199610-galactic-gym-fitness-center-management.json) |
@@ -2194,6 +2195,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Aviation Dream | 126530 | [126530-global-aviation-dream.json](./126530-global-aviation-dream.json) |
 | Global Champion | 92636 | [92636-global-champion.json](./92636-global-champion.json) |
 | Global Conquest | 69946 | [69946-global-conquest.json](./69946-global-conquest.json) |
+| Global Defence Force | 5581 | [5581-global-defence-force.json](./5581-global-defence-force.json) |
+| Global Defence Force: Tactics | 5582 | [5582-global-defence-force-tactics.json](./5582-global-defence-force-tactics.json) |
 | Global Domination | 15480 | [15480-global-domination.json](./15480-global-domination.json) |
 | Global Elite | 298684 | [298684-global-elite.json](./298684-global-elite.json) |
 | Global Farmer | 301913 | [301913-global-farmer.json](./301913-global-farmer.json) |
@@ -3940,6 +3943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greenwood: Amaranthus | 179511 | [179511-greenwood-amaranthus.json](./179511-greenwood-amaranthus.json) |
 | Greetings | 178562 | [178562-greetings.json](./178562-greetings.json) |
 | Greetings From Krampus! | 127229 | [127229-greetings-from-krampus.json](./127229-greetings-from-krampus.json) |
+| Greg Hastings' Tournament Paintball | 5854 | [5854-greg-hastings-tournament-paintball.json](./5854-greg-hastings-tournament-paintball.json) |
 | Greg Hastings' Tournament Paintball MAX'D | 5855 | [5855-greg-hastings-tournament-paintball-maxd.json](./5855-greg-hastings-tournament-paintball-maxd.json) |
 | Greg LeMond's Bicycle Adventure | 15475 | [15475-greg-lemonds-bicycle-adventure.json](./15475-greg-lemonds-bicycle-adventure.json) |
 | Greg Norman's Golf Power | 48701 | [48701-greg-normans-golf-power.json](./48701-greg-normans-golf-power.json) |
@@ -4304,6 +4308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grounded 2: Into the Abyss | 413063 | [413063-grounded-2-into-the-abyss.json](./413063-grounded-2-into-the-abyss.json) |
 | Grounded: Fully Yoked Edition | 297696 | [297696-grounded-fully-yoked-edition.json](./297696-grounded-fully-yoked-edition.json) |
 | Groundhog Day: Like Father Like Son | 114782 | [114782-groundhog-day-like-father-like-son.json](./114782-groundhog-day-like-father-like-son.json) |
+| Group S Challenge | 5856 | [5856-group-s-challenge.json](./5856-group-s-challenge.json) |
 | Groupel | 374057 | [374057-groupel.json](./374057-groupel.json) |
 | Groups of Seven | 335861 | [335861-groups-of-seven.json](./335861-groups-of-seven.json) |
 | Grove Island | 219162 | [219162-grove-island.json](./219162-grove-island.json) |
