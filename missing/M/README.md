@@ -1637,6 +1637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Artist: Game Maker | 175951 | [175951-mario-artist-game-maker.json](./175951-mario-artist-game-maker.json) |
 | Mario Artist: Graphical Message Maker | 175952 | [175952-mario-artist-graphical-message-maker.json](./175952-mario-artist-graphical-message-maker.json) |
 | Mario Artist: Sound Maker | 175953 | [175953-mario-artist-sound-maker.json](./175953-mario-artist-sound-maker.json) |
+| Mario Artist: Talent Studio | 44059 | [44059-mario-artist-talent-studio.json](./44059-mario-artist-talent-studio.json) |
 | Mario Artist: Video Jockey Maker | 175954 | [175954-mario-artist-video-jockey-maker.json](./175954-mario-artist-video-jockey-maker.json) |
 | Mario Bobble | 41363 | [41363-mario-bobble.json](./41363-mario-bobble.json) |
 | Mario Bros. | 172201 | [172201-mario-bros.json](./172201-mario-bros.json) |
@@ -4447,6 +4448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metronome HD | 66601 | [66601-metronome-hd.json](./66601-metronome-hd.json) |
 | Metropocre | 169975 | [169975-metropocre.json](./169975-metropocre.json) |
 | Metropolis | 209520 | [209520-metropolis.json](./209520-metropolis.json) |
+| Metropolis | 44079 | [44079-metropolis.json](./44079-metropolis.json) |
 | Metropolis | 84537 | [84537-metropolis.json](./84537-metropolis.json) |
 | Metropolis Card Club | 209519 | [209519-metropolis-card-club.json](./209519-metropolis-card-club.json) |
 | Metropolis Crimes | 67686 | [67686-metropolis-crimes.json](./67686-metropolis-crimes.json) |
