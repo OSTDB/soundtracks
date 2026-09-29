@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuin Makyo: High School Crisis | 322577 | [322577-gakuin-makyo-high-school-crisis.json](./322577-gakuin-makyo-high-school-crisis.json) |
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
 | Gal, Geek and Summer | 364078 | [364078-gal-geek-and-summer.json](./364078-gal-geek-and-summer.json) |
+| Gal*Gun 2 | 68279 | [68279-gal-gun-2.json](./68279-gal-gun-2.json) |
 | Gal*Gun: Double Peace - Mr. Happiness Edition | 89910 | [89910-gal-gun-double-peace-mr-happiness-edition.json](./89910-gal-gun-double-peace-mr-happiness-edition.json) |
 | Gala Collider | 127750 | [127750-gala-collider.json](./127750-gala-collider.json) |
 | Galacatraz: Eject Equip Escape | 82044 | [82044-galacatraz-eject-equip-escape.json](./82044-galacatraz-eject-equip-escape.json) |
@@ -2996,6 +2997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goliath: Playing With Reality | 219802 | [219802-goliath-playing-with-reality.json](./219802-goliath-playing-with-reality.json) |
 | Golly! Ghosts! Goal! | 242776 | [242776-golly-ghosts-goal.json](./242776-golly-ghosts-goal.json) |
 | Golod | 406677 | [406677-golod.json](./406677-golod.json) |
+| Golvellius: Valley of Doom | 46146 | [46146-golvellius-valley-of-doom.json](./46146-golvellius-valley-of-doom.json) |
 | Golyathe | 393507 | [393507-golyathe.json](./393507-golyathe.json) |
 | Goman: Stuck in the Avici Hell | 214184 | [214184-goman-stuck-in-the-avici-hell.json](./214184-goman-stuck-in-the-avici-hell.json) |
 | Gombo | 277616 | [277616-gombo.json](./277616-gombo.json) |
@@ -3317,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grabanakki | 180782 | [180782-grabanakki.json](./180782-grabanakki.json) |
 | Grabatron | 174643 | [174643-grabatron.json](./174643-grabatron.json) |
 | GrabBag | 107936 | [107936-grabbag.json](./107936-grabbag.json) |
+| Grabbed by the Ghoulies | 5849 | [5849-grabbed-by-the-ghoulies.json](./5849-grabbed-by-the-ghoulies.json) |
 | Grabbers in the Woods | 294426 | [294426-grabbers-in-the-woods.json](./294426-grabbers-in-the-woods.json) |
 | Grabitoons | 231049 | [231049-grabitoons.json](./231049-grabitoons.json) |
 | Grace Online | 248302 | [248302-grace-online.json](./248302-grace-online.json) |
