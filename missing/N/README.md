@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Shippuden: Ultimate Ninja Blazing | 79298 | [79298-naruto-shippuden-ultimate-ninja-blazing.json](./79298-naruto-shippuden-ultimate-ninja-blazing.json) |
 | Naruto Shippuden: Ultimate Ninja Heroes 3 | 42855 | [42855-naruto-shippuden-ultimate-ninja-heroes-3.json](./42855-naruto-shippuden-ultimate-ninja-heroes-3.json) |
 | Naruto Shippuden: Ultimate Ninja Impact | 19649 | [19649-naruto-shippuden-ultimate-ninja-impact.json](./19649-naruto-shippuden-ultimate-ninja-impact.json) |
+| Naruto Shippuden: Ultimate Ninja Storm 2 | 7098 | [7098-naruto-shippuden-ultimate-ninja-storm-2.json](./7098-naruto-shippuden-ultimate-ninja-storm-2.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 4 | 11059 | [11059-naruto-shippuden-ultimate-ninja-storm-4.json](./11059-naruto-shippuden-ultimate-ninja-storm-4.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 4 - Gaara's Tale Extra Scenario | 168159 | [168159-naruto-shippuden-ultimate-ninja-storm-4-gaaras-tale-extra-scenario.json](./168159-naruto-shippuden-ultimate-ninja-storm-4-gaaras-tale-extra-scenario.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 4 - Road to Boruto Next Generations | 168161 | [168161-naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto-next-generations.json](./168161-naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto-next-generations.json) |
@@ -3381,6 +3382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Reaction | 184502 | [184502-nuclear-reaction.json](./184502-nuclear-reaction.json) |
 | Nuclear Rush | 202404 | [202404-nuclear-rush.json](./202404-nuclear-rush.json) |
 | Nuclear Sub | 231298 | [231298-nuclear-sub.json](./231298-nuclear-sub.json) |
+| Nuclear Throne | 3227 | [3227-nuclear-throne.json](./3227-nuclear-throne.json) |
 | Nuclear Throne 3D | 375427 | [375427-nuclear-throne-3d.json](./375427-nuclear-throne-3d.json) |
 | Nuclear Titbit | 113375 | [113375-nuclear-titbit.json](./113375-nuclear-titbit.json) |
 | Nuclear Titbit 2 | 250593 | [250593-nuclear-titbit-2.json](./250593-nuclear-titbit-2.json) |
