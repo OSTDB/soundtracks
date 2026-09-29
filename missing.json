@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T12:03:08.167Z",
-  "total_missing": 139940,
+  "generated_at": "2026-09-29T12:18:03.699Z",
+  "total_missing": 139990,
   "games": [
     {
       "igdb_id": 186066,
@@ -55018,6 +55018,26 @@
       "file": "missing/B/610-battleground-5-antietam.json"
     },
     {
+      "igdb_id": 22616,
+      "game_name": "Battleground 6: Napoleon in Russi",
+      "file": "missing/B/22616-battleground-6-napoleon-in-russi.json"
+    },
+    {
+      "igdb_id": 22618,
+      "game_name": "Battleground 7: Bull Run",
+      "file": "missing/B/22618-battleground-7-bull-run.json"
+    },
+    {
+      "igdb_id": 22619,
+      "game_name": "Battleground 8: Prelude to Waterloo",
+      "file": "missing/B/22619-battleground-8-prelude-to-waterloo.json"
+    },
+    {
+      "igdb_id": 22617,
+      "game_name": "Battleground 9: Chickamauga",
+      "file": "missing/B/22617-battleground-9-chickamauga.json"
+    },
+    {
       "igdb_id": 77287,
       "game_name": "Battleground Collection 1",
       "file": "missing/B/77287-battleground-collection-1.json"
@@ -55031,6 +55051,11 @@
       "igdb_id": 224096,
       "game_name": "Battleground Fire Strike",
       "file": "missing/B/224096-battleground-fire-strike.json"
+    },
+    {
+      "igdb_id": 22614,
+      "game_name": "Battleground: Bulge-Ardennes",
+      "file": "missing/B/22614-battleground-bulge-ardennes.json"
     },
     {
       "igdb_id": 174853,
@@ -59486,6 +59511,11 @@
       "igdb_id": 380011,
       "game_name": "Bermuda",
       "file": "missing/B/380011-bermuda.json"
+    },
+    {
+      "igdb_id": 22557,
+      "game_name": "Bermuda Triangle",
+      "file": "missing/B/22557-bermuda-triangle.json"
     },
     {
       "igdb_id": 67391,
@@ -65276,6 +65306,11 @@
       "igdb_id": 58824,
       "game_name": "Black Tower",
       "file": "missing/B/58824-black-tower.json"
+    },
+    {
+      "igdb_id": 22647,
+      "game_name": "Black Turn: Operation Barbarossa 1941",
+      "file": "missing/B/22647-black-turn-operation-barbarossa-1941.json"
     },
     {
       "igdb_id": 14311,
@@ -95778,6 +95813,11 @@
       "file": "missing/C/233624-caverns-of-mars-recharged.json"
     },
     {
+      "igdb_id": 22681,
+      "game_name": "Caverns of Minos",
+      "file": "missing/C/22681-caverns-of-minos.json"
+    },
+    {
       "igdb_id": 47550,
       "game_name": "Caverns of Titan",
       "file": "missing/C/47550-caverns-of-titan.json"
@@ -125203,9 +125243,29 @@
       "file": "missing/C/25415-crusader-kings-complete.json"
     },
     {
+      "igdb_id": 22666,
+      "game_name": "Crusader Kings II: Charlemagne",
+      "file": "missing/C/22666-crusader-kings-ii-charlemagne.json"
+    },
+    {
+      "igdb_id": 22669,
+      "game_name": "Crusader Kings II: Conclave",
+      "file": "missing/C/22669-crusader-kings-ii-conclave.json"
+    },
+    {
       "igdb_id": 168339,
       "game_name": "Crusader Kings II: Finno-Ugric Unit Pack",
       "file": "missing/C/168339-crusader-kings-ii-finno-ugric-unit-pack.json"
+    },
+    {
+      "igdb_id": 22668,
+      "game_name": "Crusader Kings II: Horse Lords",
+      "file": "missing/C/22668-crusader-kings-ii-horse-lords.json"
+    },
+    {
+      "igdb_id": 22661,
+      "game_name": "Crusader Kings II: Legacy of Rome",
+      "file": "missing/C/22661-crusader-kings-ii-legacy-of-rome.json"
     },
     {
       "igdb_id": 26426,
@@ -125213,9 +125273,19 @@
       "file": "missing/C/26426-crusader-kings-ii-monks-and-mystics.json"
     },
     {
+      "igdb_id": 22665,
+      "game_name": "Crusader Kings II: Rajas of India",
+      "file": "missing/C/22665-crusader-kings-ii-rajas-of-india.json"
+    },
+    {
       "igdb_id": 52859,
       "game_name": "Crusader Kings II: Songs of the RU",
       "file": "missing/C/52859-crusader-kings-ii-songs-of-the-ru.json"
+    },
+    {
+      "igdb_id": 22664,
+      "game_name": "Crusader Kings II: Sons of Abraham",
+      "file": "missing/C/22664-crusader-kings-ii-sons-of-abraham.json"
     },
     {
       "igdb_id": 23980,
@@ -125223,9 +125293,24 @@
       "file": "missing/C/23980-crusader-kings-ii-sunset-invasion.json"
     },
     {
+      "igdb_id": 22660,
+      "game_name": "Crusader Kings II: Sword of Islam",
+      "file": "missing/C/22660-crusader-kings-ii-sword-of-islam.json"
+    },
+    {
+      "igdb_id": 22663,
+      "game_name": "Crusader Kings II: The Old Gods",
+      "file": "missing/C/22663-crusader-kings-ii-the-old-gods.json"
+    },
+    {
       "igdb_id": 52858,
       "game_name": "Crusader Kings II: The Reaper's Due Collection",
       "file": "missing/C/52858-crusader-kings-ii-the-reapers-due-collection.json"
+    },
+    {
+      "igdb_id": 22667,
+      "game_name": "Crusader Kings II: Way of Life",
+      "file": "missing/C/22667-crusader-kings-ii-way-of-life.json"
     },
     {
       "igdb_id": 52857,
@@ -179228,6 +179313,11 @@
       "file": "missing/E/108451-emergency-fire-helicopter-simulator-3d.json"
     },
     {
+      "igdb_id": 22633,
+      "game_name": "Emergency Fire Response",
+      "file": "missing/E/22633-emergency-fire-response.json"
+    },
+    {
       "igdb_id": 310744,
       "game_name": "Emergency in Space",
       "file": "missing/E/310744-emergency-in-space.json"
@@ -204343,6 +204433,11 @@
       "file": "missing/F/121746-firefight.json"
     },
     {
+      "igdb_id": 22631,
+      "game_name": "Firefighter Command: Raging Inferno",
+      "file": "missing/F/22631-firefighter-command-raging-inferno.json"
+    },
+    {
       "igdb_id": 266524,
       "game_name": "Firefighter Connor",
       "file": "missing/F/266524-firefighter-connor.json"
@@ -218608,6 +218703,21 @@
       "file": "missing/F/10337-front-page-sports-football.json"
     },
     {
+      "igdb_id": 22603,
+      "game_name": "Front Page Sports Football Pro",
+      "file": "missing/F/22603-front-page-sports-football-pro.json"
+    },
+    {
+      "igdb_id": 22606,
+      "game_name": "Front Page Sports Football Pro '97",
+      "file": "missing/F/22606-front-page-sports-football-pro-97.json"
+    },
+    {
+      "igdb_id": 22607,
+      "game_name": "Front Page Sports Football Pro '98",
+      "file": "missing/F/22607-front-page-sports-football-pro-98.json"
+    },
+    {
       "igdb_id": 68960,
       "game_name": "Front Page Sports: Baseball '94",
       "file": "missing/F/68960-front-page-sports-baseball-94.json"
@@ -223281,6 +223391,11 @@
       "igdb_id": 265931,
       "game_name": "Galactic Blasters D2: Brilliant Supernova",
       "file": "missing/G/265931-galactic-blasters-d2-brilliant-supernova.json"
+    },
+    {
+      "igdb_id": 22560,
+      "game_name": "Galactic Blitz",
+      "file": "missing/G/22560-galactic-blitz.json"
     },
     {
       "igdb_id": 406684,
@@ -282553,6 +282668,11 @@
       "file": "missing/I/329151-in-ten-years.json"
     },
     {
+      "igdb_id": 22601,
+      "game_name": "In the 1st Degree",
+      "file": "missing/I/22601-in-the-1st-degree.json"
+    },
+    {
       "igdb_id": 221415,
       "game_name": "In the alley: Our hometown",
       "file": "missing/I/221415-in-the-alley-our-hometown.json"
@@ -327538,6 +327658,11 @@
       "file": "missing/L/770-links-2001.json"
     },
     {
+      "igdb_id": 22611,
+      "game_name": "Links 386 Pro",
+      "file": "missing/L/22611-links-386-pro.json"
+    },
+    {
       "igdb_id": 153464,
       "game_name": "Links E6: Course Pack 1",
       "file": "missing/L/153464-links-e6-course-pack-1.json"
@@ -330043,9 +330168,34 @@
       "file": "missing/L/96524-lls.json"
     },
     {
+      "igdb_id": 22543,
+      "game_name": "LMA Manager 2001",
+      "file": "missing/L/22543-lma-manager-2001.json"
+    },
+    {
+      "igdb_id": 22542,
+      "game_name": "LMA Manager 2002",
+      "file": "missing/L/22542-lma-manager-2002.json"
+    },
+    {
+      "igdb_id": 22544,
+      "game_name": "LMA Manager 2003",
+      "file": "missing/L/22544-lma-manager-2003.json"
+    },
+    {
+      "igdb_id": 22545,
+      "game_name": "LMA Manager 2004",
+      "file": "missing/L/22545-lma-manager-2004.json"
+    },
+    {
       "igdb_id": 20561,
       "game_name": "LMA Manager 2007",
       "file": "missing/L/20561-lma-manager-2007.json"
+    },
+    {
+      "igdb_id": 22547,
+      "game_name": "LMA Professional Manager 2005",
+      "file": "missing/L/22547-lma-professional-manager-2005.json"
     },
     {
       "igdb_id": 371874,
@@ -341758,6 +341908,11 @@
       "file": "missing/M/384629-magicka-complete-edition.json"
     },
     {
+      "igdb_id": 22643,
+      "game_name": "Magicka: Dungeons and Daemons",
+      "file": "missing/M/22643-magicka-dungeons-and-daemons.json"
+    },
+    {
       "igdb_id": 50819,
       "game_name": "Magicka: Final Frontier",
       "file": "missing/M/50819-magicka-final-frontier.json"
@@ -341776,6 +341931,11 @@
       "igdb_id": 50816,
       "game_name": "Magicka: Party Robes",
       "file": "missing/M/50816-magicka-party-robes.json"
+    },
+    {
+      "igdb_id": 22642,
+      "game_name": "Magicka: The Other Side of the Coin",
+      "file": "missing/M/22642-magicka-the-other-side-of-the-coin.json"
     },
     {
       "igdb_id": 50815,
@@ -344506,6 +344666,11 @@
       "igdb_id": 52013,
       "game_name": "Manchester United Club Football",
       "file": "missing/M/52013-manchester-united-club-football.json"
+    },
+    {
+      "igdb_id": 22546,
+      "game_name": "Manchester United Manager 2005",
+      "file": "missing/M/22546-manchester-united-manager-2005.json"
     },
     {
       "igdb_id": 381611,
@@ -420703,6 +420868,11 @@
       "file": "missing/P/377697-pangs-you-are-hungry.json"
     },
     {
+      "igdb_id": 22593,
+      "game_name": "PangYa",
+      "file": "missing/P/22593-pangya.json"
+    },
+    {
       "igdb_id": 42809,
       "game_name": "Pangya: Fantasy Golf",
       "file": "missing/P/42809-pangya-fantasy-golf.json"
@@ -446853,6 +447023,11 @@
       "file": "missing/P/183598-potions-frankly.json"
     },
     {
+      "igdb_id": 22554,
+      "game_name": "Potions: A Curious Tale",
+      "file": "missing/P/22554-potions-a-curious-tale.json"
+    },
+    {
       "igdb_id": 341004,
       "game_name": "Potrick Snap",
       "file": "missing/P/341004-potrick-snap.json"
@@ -458266,6 +458441,11 @@
       "igdb_id": 88304,
       "game_name": "Puzzlefun",
       "file": "missing/P/88304-puzzlefun.json"
+    },
+    {
+      "igdb_id": 22682,
+      "game_name": "Puzzlejuice",
+      "file": "missing/P/22682-puzzlejuice.json"
     },
     {
       "igdb_id": 88260,
@@ -471006,6 +471186,11 @@
       "igdb_id": 192154,
       "game_name": "Red Triangle Super Collection",
       "file": "missing/R/192154-red-triangle-super-collection.json"
+    },
+    {
+      "igdb_id": 22646,
+      "game_name": "Red Turn: The Road to Berlin 1943-45",
+      "file": "missing/R/22646-red-turn-the-road-to-berlin-1943-45.json"
     },
     {
       "igdb_id": 199389,
@@ -514123,6 +514308,11 @@
       "file": "missing/S/159249-sidewinder.json"
     },
     {
+      "igdb_id": 22558,
+      "game_name": "Sidewinder",
+      "file": "missing/S/22558-sidewinder.json"
+    },
+    {
       "igdb_id": 12850,
       "game_name": "SideWinder",
       "file": "missing/S/12850-sidewinder.json"
@@ -514241,6 +514431,16 @@
       "igdb_id": 349315,
       "game_name": "Sierra Ridge Technologies",
       "file": "missing/S/349315-sierra-ridge-technologies.json"
+    },
+    {
+      "igdb_id": 22608,
+      "game_name": "Sierra Sports NFL Football Pro '99",
+      "file": "missing/S/22608-sierra-sports-nfl-football-pro-99.json"
+    },
+    {
+      "igdb_id": 22609,
+      "game_name": "Sierra Sports NFL Football Pro 2000",
+      "file": "missing/S/22609-sierra-sports-nfl-football-pro-2000.json"
     },
     {
       "igdb_id": 72087,
@@ -546738,6 +546938,21 @@
       "file": "missing/S/114-star-wars-the-old-republic.json"
     },
     {
+      "igdb_id": 22656,
+      "game_name": "Star Wars: The Old Republic - Galactic Starfighter",
+      "file": "missing/S/22656-star-wars-the-old-republic-galactic-starfighter.json"
+    },
+    {
+      "igdb_id": 22657,
+      "game_name": "Star Wars: The Old Republic - Galactic Strongholds",
+      "file": "missing/S/22657-star-wars-the-old-republic-galactic-strongholds.json"
+    },
+    {
+      "igdb_id": 22659,
+      "game_name": "Star Wars: The Old Republic - Knights of the Eternal Throne",
+      "file": "missing/S/22659-star-wars-the-old-republic-knights-of-the-eternal-throne.json"
+    },
+    {
       "igdb_id": 11178,
       "game_name": "Star Wars: The Old Republic - Knights of the Fallen Empire",
       "file": "missing/S/11178-star-wars-the-old-republic-knights-of-the-fallen-empire.json"
@@ -546746,6 +546961,11 @@
       "igdb_id": 202780,
       "game_name": "Star Wars: The Old Republic - Legacy of the Sith",
       "file": "missing/S/202780-star-wars-the-old-republic-legacy-of-the-sith.json"
+    },
+    {
+      "igdb_id": 22658,
+      "game_name": "Star Wars: The Old Republic - Shadow of Revan",
+      "file": "missing/S/22658-star-wars-the-old-republic-shadow-of-revan.json"
     },
     {
       "igdb_id": 219022,
@@ -554978,6 +555198,11 @@
       "file": "missing/S/237509-striker-pro.json"
     },
     {
+      "igdb_id": 22676,
+      "game_name": "Striker Pro 2000",
+      "file": "missing/S/22676-striker-pro-2000.json"
+    },
+    {
       "igdb_id": 51168,
       "game_name": "Striker Soccer Euro 2012",
       "file": "missing/S/51168-striker-soccer-euro-2012.json"
@@ -555996,6 +556221,11 @@
       "igdb_id": 382887,
       "game_name": "Sub Terra Draconis: Hidden Glade",
       "file": "missing/S/382887-sub-terra-draconis-hidden-glade.json"
+    },
+    {
+      "igdb_id": 22680,
+      "game_name": "Sub Terrania",
+      "file": "missing/S/22680-sub-terrania.json"
     },
     {
       "igdb_id": 104699,
@@ -569241,6 +569471,11 @@
       "igdb_id": 34334,
       "game_name": "Swarm Universe",
       "file": "missing/S/34334-swarm-universe.json"
+    },
+    {
+      "igdb_id": 22559,
+      "game_name": "Swarm!",
+      "file": "missing/S/22559-swarm.json"
     },
     {
       "igdb_id": 219558,
@@ -641753,6 +641988,11 @@
       "file": "missing/T/229335-tricky-tracks.json"
     },
     {
+      "igdb_id": 22651,
+      "game_name": "Tricky Truck",
+      "file": "missing/T/22651-tricky-truck.json"
+    },
+    {
       "igdb_id": 106524,
       "game_name": "Tricky Tube",
       "file": "missing/T/106524-tricky-tube.json"
@@ -642891,6 +643131,11 @@
       "igdb_id": 143070,
       "game_name": "Trophy",
       "file": "missing/T/143070-trophy.json"
+    },
+    {
+      "igdb_id": 22625,
+      "game_name": "Trophy Bass",
+      "file": "missing/T/22625-trophy-bass.json"
     },
     {
       "igdb_id": 275129,
@@ -685296,6 +685541,11 @@
       "igdb_id": 210645,
       "game_name": "Worm Visitor",
       "file": "missing/W/210645-worm-visitor.json"
+    },
+    {
+      "igdb_id": 22556,
+      "game_name": "Worm War I",
+      "file": "missing/W/22556-worm-war-i.json"
     },
     {
       "igdb_id": 290420,
