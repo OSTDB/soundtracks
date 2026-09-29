@@ -2428,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finck | 79571 | [79571-finck.json](./79571-finck.json) |
 | FinCrementalOS | 400314 | [400314-fincrementalos.json](./400314-fincrementalos.json) |
 | Find 100 Cats! | 363018 | [363018-find-100-cats.json](./363018-find-100-cats.json) |
+| Find 100 Ducks and Blast Them! | 333916 | [333916-find-100-ducks-and-blast-them.json](./333916-find-100-ducks-and-blast-them.json) |
 | Find 100 Ducks and Blast Them...in Space!!! | 391317 | [391317-find-100-ducks-and-blast-them-in-space.json](./391317-find-100-ducks-and-blast-them-in-space.json) |
 | Find 5 differences! | 348956 | [348956-find-5-differences.json](./348956-find-5-differences.json) |
 | Find A Way | 155005 | [155005-find-a-way.json](./155005-find-a-way.json) |
