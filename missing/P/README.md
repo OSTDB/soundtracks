@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandemic: The Board Game - On the Brink: Roles & Events | 171930 | [171930-pandemic-the-board-game-on-the-brink-roles-and-events.json](./171930-pandemic-the-board-game-on-the-brink-roles-and-events.json) |
 | Pandemommyum! Hot Single Moms in My Area | 257951 | [257951-pandemommyum-hot-single-moms-in-my-area.json](./257951-pandemommyum-hot-single-moms-in-my-area.json) |
 | Pandemonium | 128466 | [128466-pandemonium.json](./128466-pandemonium.json) |
+| Pandemonium 2 | 6269 | [6269-pandemonium-2.json](./6269-pandemonium-2.json) |
 | Pando Engines | 211193 | [211193-pando-engines.json](./211193-pando-engines.json) |
 | Pandoland | 306675 | [306675-pandoland.json](./306675-pandoland.json) |
 | Pandora | 238499 | [238499-pandora.json](./238499-pandora.json) |
@@ -1814,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peggle | 95409 | [95409-peggle.json](./95409-peggle.json) |
 | Peggle 2 | 3752 | [3752-peggle-2.json](./3752-peggle-2.json) |
 | Peggle Deluxe | 28975 | [28975-peggle-deluxe.json](./28975-peggle-deluxe.json) |
+| Peggle Extreme | 15646 | [15646-peggle-extreme.json](./15646-peggle-extreme.json) |
 | Peggle Nights | 14813 | [14813-peggle-nights.json](./14813-peggle-nights.json) |
 | Pegglo | 302689 | [302689-pegglo.json](./302689-pegglo.json) |
 | Peggy's Farm | 274048 | [274048-peggys-farm.json](./274048-peggys-farm.json) |
@@ -2425,6 +2427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Online 2: Tails Collaboration Pack | 143580 | [143580-phantasy-star-online-2-tails-collaboration-pack.json](./143580-phantasy-star-online-2-tails-collaboration-pack.json) |
 | Phantasy Star Online 2: Vivienne Pack | 225862 | [225862-phantasy-star-online-2-vivienne-pack.json](./225862-phantasy-star-online-2-vivienne-pack.json) |
 | Phantasy Star Online Episode I & II | 9890 | [9890-phantasy-star-online-episode-i-and-ii.json](./9890-phantasy-star-online-episode-i-and-ii.json) |
+| Phantasy Star Universe | 7129 | [7129-phantasy-star-universe.json](./7129-phantasy-star-universe.json) |
 | Phantasy Star Universe: Ambition of the Illuminus | 21501 | [21501-phantasy-star-universe-ambition-of-the-illuminus.json](./21501-phantasy-star-universe-ambition-of-the-illuminus.json) |
 | Phantasy Star Zero Mini | 69330 | [69330-phantasy-star-zero-mini.json](./69330-phantasy-star-zero-mini.json) |
 | Phantasy Star: Fukkoku-ban | 45529 | [45529-phantasy-star-fukkoku-ban.json](./45529-phantasy-star-fukkoku-ban.json) |
@@ -5057,6 +5060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sweet 2th | 141822 | [141822-pokemon-sweet-2th.json](./141822-pokemon-sweet-2th.json) |
 | Pokémon Sword & Pokémon Shield Double Pack | 115652 | [115652-pokemon-sword-and-pokemon-shield-double-pack.json](./115652-pokemon-sword-and-pokemon-shield-double-pack.json) |
 | Pokémon Sword and Shield | 294432 | [294432-pokemon-sword-and-shield.json](./294432-pokemon-sword-and-shield.json) |
+| Pokémon Sword: The Crown Tundra | 139186 | [139186-pokemon-sword-the-crown-tundra.json](./139186-pokemon-sword-the-crown-tundra.json) |
 | Pokémon Sword: The Isle of Armor | 135164 | [135164-pokemon-sword-the-isle-of-armor.json](./135164-pokemon-sword-the-isle-of-armor.json) |
 | Pokémon TCG Pocket: Everyday Wonders | 410895 | [410895-pokemon-tcg-pocket-everyday-wonders.json](./410895-pokemon-tcg-pocket-everyday-wonders.json) |
 | Pokémon TCG Pocket: Paradox Drive | 406716 | [406716-pokemon-tcg-pocket-paradox-drive.json](./406716-pokemon-tcg-pocket-paradox-drive.json) |
