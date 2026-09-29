@@ -2145,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reine des Fleurs | 86190 | [86190-reine-des-fleurs.json](./86190-reine-des-fleurs.json) |
 | Reiner Knizia's Medici HD | 103540 | [103540-reiner-knizias-medici-hd.json](./103540-reiner-knizias-medici-hd.json) |
 | Reiner Knizia's Money | 200050 | [200050-reiner-knizias-money.json](./200050-reiner-knizias-money.json) |
+| Reiner Knizia's: The Confrontation | 34650 | [34650-reiner-knizias-the-confrontation.json](./34650-reiner-knizias-the-confrontation.json) |
 | ReinPhazer | 137459 | [137459-reinphazer.json](./137459-reinphazer.json) |
 | Reinquarantination | 182899 | [182899-reinquarantination.json](./182899-reinquarantination.json) |
 | Reinvasion | 249140 | [249140-reinvasion.json](./249140-reinvasion.json) |
@@ -2459,6 +2460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Heroes: Molten Menace | 209168 | [209168-rescue-heroes-molten-menace.json](./209168-rescue-heroes-molten-menace.json) |
 | Rescue Heroes: Tremor Trouble | 209432 | [209432-rescue-heroes-tremor-trouble.json](./209432-rescue-heroes-tremor-trouble.json) |
 | Rescue HQ: The Tycoon - Coastguard | 155039 | [155039-rescue-hq-the-tycoon-coastguard.json](./155039-rescue-hq-the-tycoon-coastguard.json) |
+| Rescue Love Revenge | 34576 | [34576-rescue-love-revenge.json](./34576-rescue-love-revenge.json) |
 | Rescue Mael! | 185105 | [185105-rescue-mael.json](./185105-rescue-mael.json) |
 | Rescue Mary: Manor Renovation | 227949 | [227949-rescue-mary-manor-renovation.json](./227949-rescue-mary-manor-renovation.json) |
 | Rescue my Queen! | 140998 | [140998-rescue-my-queen.json](./140998-rescue-my-queen.json) |
@@ -3183,6 +3185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rick Shaw's Radical Rickshaw | 180685 | [180685-rick-shaws-radical-rickshaw.json](./180685-rick-shaws-radical-rickshaw.json) |
 | Rick's Konbini | 387647 | [387647-ricks-konbini.json](./387647-ricks-konbini.json) |
 | Rickdle | 396406 | [396406-rickdle.json](./396406-rickdle.json) |
+| Ricky Raccoon | 34666 | [34666-ricky-raccoon.json](./34666-ricky-raccoon.json) |
 | Ricky Recharge | 121593 | [121593-ricky-recharge.json](./121593-ricky-recharge.json) |
 | Ricochet | 209166 | [209166-ricochet.json](./209166-ricochet.json) |
 | Ricochet | 368008 | [368008-ricochet.json](./368008-ricochet.json) |
@@ -3490,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Wars | 56582 | [56582-ring-wars.json](./56582-ring-wars.json) |
 | Ringbound | 397931 | [397931-ringbound.json](./397931-ringbound.json) |
 | Ringer | 324336 | [324336-ringer.json](./324336-ringer.json) |
+| Ringies | 34637 | [34637-ringies.json](./34637-ringies.json) |
 | Ringleaders | 263013 | [263013-ringleaders.json](./263013-ringleaders.json) |
 | Ringling Bros. and Barnum & Bailey Circus | 67320 | [67320-ringling-bros-and-barnum-and-bailey-circus.json](./67320-ringling-bros-and-barnum-and-bailey-circus.json) |
 | Ringling Bros. and Barnum & Bailey: Circus Friends - Asian Elephants | 209163 | [209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json](./209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json) |
@@ -4808,6 +4812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms IV with Power Up Kit | 91114 | [91114-romance-of-the-three-kingdoms-iv-with-power-up-kit.json](./91114-romance-of-the-three-kingdoms-iv-with-power-up-kit.json) |
 | Romance of the Three Kingdoms IV: Wall of Fire | 7040 | [7040-romance-of-the-three-kingdoms-iv-wall-of-fire.json](./7040-romance-of-the-three-kingdoms-iv-wall-of-fire.json) |
 | Romance of the Three Kingdoms IX: Power Up Kit | 350632 | [350632-romance-of-the-three-kingdoms-ix-power-up-kit.json](./350632-romance-of-the-three-kingdoms-ix-power-up-kit.json) |
+| Romance of the Three Kingdoms Maker | 34575 | [34575-romance-of-the-three-kingdoms-maker.json](./34575-romance-of-the-three-kingdoms-maker.json) |
 | Romance of the Three Kingdoms V with Power Up Kit | 91115 | [91115-romance-of-the-three-kingdoms-v-with-power-up-kit.json](./91115-romance-of-the-three-kingdoms-v-with-power-up-kit.json) |
 | Romance of the Three Kingdoms VI: Power Up Kit | 350630 | [350630-romance-of-the-three-kingdoms-vi-power-up-kit.json](./350630-romance-of-the-three-kingdoms-vi-power-up-kit.json) |
 | Romance of the Three Kingdoms VII | 7254 | [7254-romance-of-the-three-kingdoms-vii.json](./7254-romance-of-the-three-kingdoms-vii.json) |
