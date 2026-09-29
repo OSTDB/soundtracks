@@ -5532,6 +5532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombing!!: A Graffiti Sandbox | 144933 | [144933-bombing-a-graffiti-sandbox.json](./144933-bombing-a-graffiti-sandbox.json) |
 | Bombini | 129579 | [129579-bombini.json](./129579-bombini.json) |
 | Bombman | 111190 | [111190-bombman.json](./111190-bombman.json) |
+| Bombman | 42141 | [42141-bombman.json](./42141-bombman.json) |
 | Bombo | 293252 | [293252-bombo.json](./293252-bombo.json) |
 | Bombo Rumble | 239683 | [239683-bombo-rumble.json](./239683-bombo-rumble.json) |
 | Bomboban | 386102 | [386102-bomboban.json](./386102-bomboban.json) |
@@ -7868,6 +7869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bustin-Out | 64946 | [64946-bustin-out.json](./64946-bustin-out.json) |
 | Bustin' the Bastille | 166670 | [166670-bustin-the-bastille.json](./166670-bustin-the-bastille.json) |
 | Bustina and the Search for Booty | 352189 | [352189-bustina-and-the-search-for-booty.json](./352189-bustina-and-the-search-for-booty.json) |
+| Bustout | 42153 | [42153-bustout.json](./42153-bustout.json) |
 | Busty Balls Brick Breaker | 175882 | [175882-busty-balls-brick-breaker.json](./175882-busty-balls-brick-breaker.json) |
 | Busty Hentai Mosaic | 291068 | [291068-busty-hentai-mosaic.json](./291068-busty-hentai-mosaic.json) |
 | Busty Maid: Creampie Heaven | 127964 | [127964-busty-maid-creampie-heaven.json](./127964-busty-maid-creampie-heaven.json) |
