@@ -1316,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion Saga III | 385746 | [385746-legion-saga-iii.json](./385746-legion-saga-iii.json) |
 | Legion Was Here | 347168 | [347168-legion-was-here.json](./347168-legion-was-here.json) |
 | Legion: Dead Metal | 249214 | [249214-legion-dead-metal.json](./249214-legion-dead-metal.json) |
+| Legion: Legend of Excalibur | 44714 | [44714-legion-legend-of-excalibur.json](./44714-legion-legend-of-excalibur.json) |
 | Legionnaire | 81453 | [81453-legionnaire.json](./81453-legionnaire.json) |
 | Legions of Chaos | 220180 | [220180-legions-of-chaos.json](./220180-legions-of-chaos.json) |
 | Legions of Dawn | 124722 | [124722-legions-of-dawn.json](./124722-legions-of-dawn.json) |
@@ -2181,6 +2182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightning Angel Litona Liliche | 110133 | [110133-lightning-angel-litona-liliche.json](./110133-lightning-angel-litona-liliche.json) |
 | Lightning Fast | 157141 | [157141-lightning-fast.json](./157141-lightning-fast.json) |
 | Lightning Fighter | 335329 | [335329-lightning-fighter.json](./335329-lightning-fighter.json) |
+| Lightning Legend: Daigo no Daibouken | 44772 | [44772-lightning-legend-daigo-no-daibouken.json](./44772-lightning-legend-daigo-no-daibouken.json) |
 | Lightning Link | 386224 | [386224-lightning-link.json](./386224-lightning-link.json) |
 | Lightning Plan | 246344 | [246344-lightning-plan.json](./246344-lightning-plan.json) |
 | Lightning Returns: Final Fantasy XIII | 2449 | [2449-lightning-returns-final-fantasy-xiii.json](./2449-lightning-returns-final-fantasy-xiii.json) |
@@ -3200,6 +3202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Pine | 373641 | [373641-lone-pine.json](./373641-lone-pine.json) |
 | Lone Ruin | 204013 | [204013-lone-ruin.json](./204013-lone-ruin.json) |
 | Lone Siren | 124670 | [124670-lone-siren.json](./124670-lone-siren.json) |
+| Lone Soldier | 44753 | [44753-lone-soldier.json](./44753-lone-soldier.json) |
 | Lone Survivors | 373766 | [373766-lone-survivors.json](./373766-lone-survivors.json) |
 | Lone Tower Roguelite Defense | 255805 | [255805-lone-tower-roguelite-defense.json](./255805-lone-tower-roguelite-defense.json) |
 | Lone Traveler | 232947 | [232947-lone-traveler.json](./232947-lone-traveler.json) |
@@ -3860,6 +3863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Hina Advance ~Shukufuku no Kane wa Naru kana~ | 49416 | [49416-love-hina-advance-shukufuku-no-kane-wa-naru-kana.json](./49416-love-hina-advance-shukufuku-no-kane-wa-naru-kana.json) |
 | Love Hina Party | 50063 | [50063-love-hina-party.json](./50063-love-hina-party.json) |
 | Love Hina Pocket | 50064 | [50064-love-hina-pocket.json](./50064-love-hina-pocket.json) |
+| Love Hina: Ai wa Kotoba no Naka ni | 44728 | [44728-love-hina-ai-wa-kotoba-no-naka-ni.json](./44728-love-hina-ai-wa-kotoba-no-naka-ni.json) |
 | Love Hotel | 62664 | [62664-love-hotel.json](./62664-love-hotel.json) |
 | Love Hotel Manager | 351602 | [351602-love-hotel-manager.json](./351602-love-hotel-manager.json) |
 | Love Hotel Simulator | 410920 | [410920-love-hotel-simulator.json](./410920-love-hotel-simulator.json) |
