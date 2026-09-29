@@ -6723,6 +6723,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Snowfight | 320300 | [320300-monkey-snowfight.json](./320300-monkey-snowfight.json) |
 | Monkey Splash!! | 274466 | [274466-monkey-splash.json](./274466-monkey-splash.json) |
 | Monkey Split | 142450 | [142450-monkey-split.json](./142450-monkey-split.json) |
+| Monkey Tales: The Abbey of Aviath | 18459 | [18459-monkey-tales-the-abbey-of-aviath.json](./18459-monkey-tales-the-abbey-of-aviath.json) |
+| Monkey Tales: The Castle of Draconion | 18460 | [18460-monkey-tales-the-castle-of-draconion.json](./18460-monkey-tales-the-castle-of-draconion.json) |
+| Monkey Tales: The Museum of Anything | 18458 | [18458-monkey-tales-the-museum-of-anything.json](./18458-monkey-tales-the-museum-of-anything.json) |
+| Monkey Tales: The Princess of Sundara | 18457 | [18457-monkey-tales-the-princess-of-sundara.json](./18457-monkey-tales-the-princess-of-sundara.json) |
+| Monkey Tales: The Valley of the Jackal | 18461 | [18461-monkey-tales-the-valley-of-the-jackal.json](./18461-monkey-tales-the-valley-of-the-jackal.json) |
 | Monkey vs. Dino | 167605 | [167605-monkey-vs-dino.json](./167605-monkey-vs-dino.json) |
 | Monkey Wars! | 323749 | [323749-monkey-wars.json](./323749-monkey-wars.json) |
 | Monkey Wave | 383963 | [383963-monkey-wave.json](./383963-monkey-wave.json) |
