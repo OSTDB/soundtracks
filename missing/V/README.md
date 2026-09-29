@@ -1579,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vos en Haas: Het plan van Haas | 98923 | [98923-vos-en-haas-het-plan-van-haas.json](./98923-vos-en-haas-het-plan-van-haas.json) |
 | Vosphia | 224558 | [224558-vosphia.json](./224558-vosphia.json) |
 | Vostok 2061 | 216849 | [216849-vostok-2061.json](./216849-vostok-2061.json) |
+| Vovu | 57745 | [57745-vovu.json](./57745-vovu.json) |
 | Vow | 347342 | [347342-vow.json](./347342-vow.json) |
 | Vow of Heroes | 106981 | [106981-vow-of-heroes.json](./106981-vow-of-heroes.json) |
 | Vows of Eternity | 298872 | [298872-vows-of-eternity.json](./298872-vows-of-eternity.json) |
