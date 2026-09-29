@@ -1597,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: The HyperStone Heist | 4404 | [4404-teenage-mutant-ninja-turtles-the-hyperstone-heist.json](./4404-teenage-mutant-ninja-turtles-the-hyperstone-heist.json) |
 | Teenage Mutant Ninja Turtles: The Ninja Tribunal | 146242 | [146242-teenage-mutant-ninja-turtles-the-ninja-tribunal.json](./146242-teenage-mutant-ninja-turtles-the-ninja-tribunal.json) |
 | Teenage Mutant Ninja Turtles: Tournament Fighters | 134079 | [134079-teenage-mutant-ninja-turtles-tournament-fighters.json](./134079-teenage-mutant-ninja-turtles-tournament-fighters.json) |
+| Teenage Mutant Ninja Turtles: Tournament Fighters | 48274 | [48274-teenage-mutant-ninja-turtles-tournament-fighters.json](./48274-teenage-mutant-ninja-turtles-tournament-fighters.json) |
 | Teenage Mutant Ninja Turtles: Way of the Warrior | 146240 | [146240-teenage-mutant-ninja-turtles-way-of-the-warrior.json](./146240-teenage-mutant-ninja-turtles-way-of-the-warrior.json) |
 | Teenage Super Ninja Plumbers | 222882 | [222882-teenage-super-ninja-plumbers.json](./222882-teenage-super-ninja-plumbers.json) |
 | Teenager vs.Tropical Mutants | 108414 | [108414-teenager-vs-tropical-mutants.json](./108414-teenager-vs-tropical-mutants.json) |
