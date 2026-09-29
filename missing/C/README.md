@@ -879,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Flipper | 113661 | [113661-car-mechanic-flipper.json](./113661-car-mechanic-flipper.json) |
 | Car Mechanic Manager | 34569 | [34569-car-mechanic-manager.json](./34569-car-mechanic-manager.json) |
 | Car Mechanic Pinball | 219301 | [219301-car-mechanic-pinball.json](./219301-car-mechanic-pinball.json) |
+| Car Mechanic Simulator | 115392 | [115392-car-mechanic-simulator.json](./115392-car-mechanic-simulator.json) |
 | Car Mechanic Simulator 2014 | 7571 | [7571-car-mechanic-simulator-2014.json](./7571-car-mechanic-simulator-2014.json) |
 | Car Mechanic Simulator 2021 | 152604 | [152604-car-mechanic-simulator-2021.json](./152604-car-mechanic-simulator-2021.json) |
 | Car Mechanic Simulator 2021: BMW DLC | 276213 | [276213-car-mechanic-simulator-2021-bmw-dlc.json](./276213-car-mechanic-simulator-2021-bmw-dlc.json) |
@@ -5419,6 +5420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Column Dodger | 263005 | [263005-column-dodger.json](./263005-column-dodger.json) |
 | Column on the Sea | 122186 | [122186-column-on-the-sea.json](./122186-column-on-the-sea.json) |
 | Column Taker | 114962 | [114962-column-taker.json](./114962-column-taker.json) |
+| Columns | 117538 | [117538-columns.json](./117538-columns.json) |
 | Columns | 4446 | [4446-columns.json](./4446-columns.json) |
 | Columns GB: Tezuka Osamu Characters | 72044 | [72044-columns-gb-tezuka-osamu-characters.json](./72044-columns-gb-tezuka-osamu-characters.json) |
 | Columns III | 14971 | [14971-columns-iii.json](./14971-columns-iii.json) |
@@ -6174,6 +6176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Convent Of Magical Chambers | 404962 | [404962-convent-of-magical-chambers.json](./404962-convent-of-magical-chambers.json) |
 | Conventional Vampires | 301407 | [301407-conventional-vampires.json](./301407-conventional-vampires.json) |
 | Convergence | 380086 | [380086-convergence.json](./380086-convergence.json) |
+| Convergence: A League of Legends Story | 127354 | [127354-convergence-a-league-of-legends-story.json](./127354-convergence-a-league-of-legends-story.json) |
 | Conversation With a Rock | 297099 | [297099-conversation-with-a-rock.json](./297099-conversation-with-a-rock.json) |
 | Convertible Wop | 104442 | [104442-convertible-wop.json](./104442-convertible-wop.json) |
 | Conveyor Belt Sushi Simulator | 334129 | [334129-conveyor-belt-sushi-simulator.json](./334129-conveyor-belt-sushi-simulator.json) |
