@@ -1967,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 2002: Major League Soccer | 209422 | [209422-fifa-soccer-2002-major-league-soccer.json](./209422-fifa-soccer-2002-major-league-soccer.json) |
 | FIFA Soccer 2003 | 209425 | [209425-fifa-soccer-2003.json](./209425-fifa-soccer-2003.json) |
 | FIFA Soccer 2003 | 229956 | [229956-fifa-soccer-2003.json](./229956-fifa-soccer-2003.json) |
+| FIFA Soccer 2004 | 3136 | [3136-fifa-soccer-2004.json](./3136-fifa-soccer-2004.json) |
 | FIFA Soccer 64 | 10682 | [10682-fifa-soccer-64.json](./10682-fifa-soccer-64.json) |
 | FIFA Soccer 96 | 209424 | [209424-fifa-soccer-96.json](./209424-fifa-soccer-96.json) |
 | FIFA Soccer 96 | 240232 | [240232-fifa-soccer-96.json](./240232-fifa-soccer-96.json) |
@@ -2316,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy: Pixel Remaster Collection | 159253 | [159253-final-fantasy-pixel-remaster-collection.json](./159253-final-fantasy-pixel-remaster-collection.json) |
 | Final Fantasy: The 4 Heroes of Light | 17463 | [17463-final-fantasy-the-4-heroes-of-light.json](./17463-final-fantasy-the-4-heroes-of-light.json) |
 | Final Fantasy: World Wide Words | 127876 | [127876-final-fantasy-world-wide-words.json](./127876-final-fantasy-world-wide-words.json) |
+| Final Fight 2 | 1656 | [1656-final-fight-2.json](./1656-final-fight-2.json) |
 | Final Fight 3 | 223016 | [223016-final-fight-3.json](./223016-final-fight-3.json) |
 | Final Fight Guy | 42554 | [42554-final-fight-guy.json](./42554-final-fight-guy.json) |
 | Final Fight One | 1663 | [1663-final-fight-one.json](./1663-final-fight-one.json) |
@@ -4753,6 +4755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport 4 | 3068 | [3068-forza-motorsport-4.json](./3068-forza-motorsport-4.json) |
 | Forza Motorsport 4: Essentials Edition | 47395 | [47395-forza-motorsport-4-essentials-edition.json](./47395-forza-motorsport-4-essentials-edition.json) |
 | Forza Motorsport 4: Limited Collector's Edition | 41600 | [41600-forza-motorsport-4-limited-collectors-edition.json](./41600-forza-motorsport-4-limited-collectors-edition.json) |
+| Forza Motorsport 5 | 2131 | [2131-forza-motorsport-5.json](./2131-forza-motorsport-5.json) |
 | Forza Motorsport 6 | 8558 | [8558-forza-motorsport-6.json](./8558-forza-motorsport-6.json) |
 | Forza Motorsport 7 | 36872 | [36872-forza-motorsport-7.json](./36872-forza-motorsport-7.json) |
 | Forza Motorsport 7: Deluxe Edition | 84940 | [84940-forza-motorsport-7-deluxe-edition.json](./84940-forza-motorsport-7-deluxe-edition.json) |
