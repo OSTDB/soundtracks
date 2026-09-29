@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Pole Position 2 | 42557 | [42557-f1-pole-position-2.json](./42557-f1-pole-position-2.json) |
 | F1 Pole Position 64 | 3494 | [3494-f1-pole-position-64.json](./3494-f1-pole-position-64.json) |
 | F1 Race | 11689 | [11689-f1-race.json](./11689-f1-race.json) |
+| F1 Race Stars | 5311 | [5311-f1-race-stars.json](./5311-f1-race-stars.json) |
 | F1 Racers | 187969 | [187969-f1-racers.json](./187969-f1-racers.json) |
 | F1 Racing Championship | 3495 | [3495-f1-racing-championship.json](./3495-f1-racing-championship.json) |
 | F1 Racing Championship 2 | 137653 | [137653-f1-racing-championship-2.json](./137653-f1-racing-championship-2.json) |
@@ -3356,6 +3357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flatlands | 349949 | [349949-flatlands.json](./349949-flatlands.json) |
 | Flatline | 168652 | [168652-flatline.json](./168652-flatline.json) |
 | FlatOut | 2667 | [2667-flatout.json](./2667-flatout.json) |
+| FlatOut 3: Chaos & Destruction | 3778 | [3778-flatout-3-chaos-and-destruction.json](./3778-flatout-3-chaos-and-destruction.json) |
 | FlatOut 4: Total Insanity VR | 360782 | [360782-flatout-4-total-insanity-vr.json](./360782-flatout-4-total-insanity-vr.json) |
 | FlatOut 4: Total Insanity Workshop Tools | 90606 | [90606-flatout-4-total-insanity-workshop-tools.json](./90606-flatout-4-total-insanity-workshop-tools.json) |
 | Flatout Pixel Racing | 200462 | [200462-flatout-pixel-racing.json](./200462-flatout-pixel-racing.json) |
@@ -4000,6 +4002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Folk Hero | 244242 | [244242-folk-hero.json](./244242-folk-hero.json) |
 | Folk Song | 317010 | [317010-folk-song.json](./317010-folk-song.json) |
 | Folk Tales: Alageyik | 360768 | [360768-folk-tales-alageyik.json](./360768-folk-tales-alageyik.json) |
+| Folklore | 7307 | [7307-folklore.json](./7307-folklore.json) |
 | Follow Dalian | 377070 | [377070-follow-dalian.json](./377070-follow-dalian.json) |
 | Follow My Voice | 179194 | [179194-follow-my-voice.json](./179194-follow-my-voice.json) |
 | Follow Nightmare | 391589 | [391589-follow-nightmare.json](./391589-follow-nightmare.json) |
@@ -5688,6 +5691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Soul | 103649 | [103649-frozen-soul.json](./103649-frozen-soul.json) |
 | Frozen State | 16935 | [16935-frozen-state.json](./16935-frozen-state.json) |
 | Frozen Sword: Countermark RE | 216474 | [216474-frozen-sword-countermark-re.json](./216474-frozen-sword-countermark-re.json) |
+| Frozen Synapse | 2248 | [2248-frozen-synapse.json](./2248-frozen-synapse.json) |
 | Frozen Synapse | 259532 | [259532-frozen-synapse.json](./259532-frozen-synapse.json) |
 | Frozen Synapse 2 | 18435 | [18435-frozen-synapse-2.json](./18435-frozen-synapse-2.json) |
 | Frozen Synapse: Prime Soundtrack Edition | 118844 | [118844-frozen-synapse-prime-soundtrack-edition.json](./118844-frozen-synapse-prime-soundtrack-edition.json) |
