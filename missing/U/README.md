@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UEFA Champions League 1996/97 | 80477 | [80477-uefa-champions-league-1996-97.json](./80477-uefa-champions-league-1996-97.json) |
 | UEFA Champions League 1998-1999 | 44835 | [44835-uefa-champions-league-1998-1999.json](./44835-uefa-champions-league-1998-1999.json) |
 | UEFA Champions League 2004-2005 | 22303 | [22303-uefa-champions-league-2004-2005.json](./22303-uefa-champions-league-2004-2005.json) |
+| UEFA Champions League 2006–2007 | 7225 | [7225-uefa-champions-league-2006-2007.json](./7225-uefa-champions-league-2006-2007.json) |
 | Ueki no Housoku: Jingi Sakuretsu! Nouryokusha Battle | 188652 | [188652-ueki-no-housoku-jingi-sakuretsu-nouryokusha-battle.json](./188652-ueki-no-housoku-jingi-sakuretsu-nouryokusha-battle.json) |
 | Ueqouow | 288332 | [288332-ueqouow.json](./288332-ueqouow.json) |
 | UFC Undisputed 2010 | 7228 | [7228-ufc-undisputed-2010.json](./7228-ufc-undisputed-2010.json) |
