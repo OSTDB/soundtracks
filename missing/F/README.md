@@ -1501,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fated Era | 114514 | [114514-fated-era.json](./114514-fated-era.json) |
 | Fated Haven | 61724 | [61724-fated-haven.json](./61724-fated-haven.json) |
 | Fated Kingdom | 97111 | [97111-fated-kingdom.json](./97111-fated-kingdom.json) |
+| Fated: The Silent Oath | 19013 | [19013-fated-the-silent-oath.json](./19013-fated-the-silent-oath.json) |
 | Fateful Destiny | 323504 | [323504-fateful-destiny.json](./323504-fateful-destiny.json) |
 | Fateline | 121003 | [121003-fateline.json](./121003-fateline.json) |
 | Fates of Ort | 112857 | [112857-fates-of-ort.json](./112857-fates-of-ort.json) |
