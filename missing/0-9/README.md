@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 19: Neunzehn | 41342 | [41342-19-neunzehn.json](./41342-19-neunzehn.json) |
 | 1912 Titanic Mystery | 120395 | [120395-1912-titanic-mystery.json](./120395-1912-titanic-mystery.json) |
 | 1912 Titanic w/ Neptunia | 205802 | [205802-1912-titanic-w-neptunia.json](./205802-1912-titanic-w-neptunia.json) |
+| 1917: The Alien Invasion | 19749 | [19749-1917-the-alien-invasion.json](./19749-1917-the-alien-invasion.json) |
 | 1917: The Alien Invasion DX Remastered | 332592 | [332592-1917-the-alien-invasion-dx-remastered.json](./332592-1917-the-alien-invasion-dx-remastered.json) |
 | 1931: Scheherazade at the Library of Pergamum | 36136 | [36136-1931-scheherazade-at-the-library-of-pergamum.json](./36136-1931-scheherazade-at-the-library-of-pergamum.json) |
 | 1939 | 265966 | [265966-1939.json](./265966-1939.json) |
@@ -728,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 28 Days Later: The Game | 334843 | [334843-28-days-later-the-game.json](./334843-28-days-later-the-game.json) |
 | 28 Pixels Later | 271205 | [271205-28-pixels-later.json](./271205-28-pixels-later.json) |
 | 28 Robots Later | 52546 | [52546-28-robots-later.json](./52546-28-robots-later.json) |
+| 280 Zzzap | 19710 | [19710-280-zzzap.json](./19710-280-zzzap.json) |
 | 280 Zzzap/Dodgem 2001 | 139471 | [139471-280-zzzap-dodgem-2001.json](./139471-280-zzzap-dodgem-2001.json) |
 | 286 Miles | 333601 | [333601-286-miles.json](./333601-286-miles.json) |
 | 2BBee | 261789 | [261789-2bbee.json](./261789-2bbee.json) |
