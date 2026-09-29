@@ -838,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kermit's Electronic StoryMaker | 65039 | [65039-kermits-electronic-storymaker.json](./65039-kermits-electronic-storymaker.json) |
 | Kernel Hearts | 318625 | [318625-kernel-hearts.json](./318625-kernel-hearts.json) |
 | Kernmantle | 139408 | [139408-kernmantle.json](./139408-kernmantle.json) |
+| Kero Blaster | 10255 | [10255-kero-blaster.json](./10255-kero-blaster.json) |
 | Kero Catch | 182803 | [182803-kero-catch.json](./182803-kero-catch.json) |
 | Kero Kero Cowboy | 341144 | [341144-kero-kero-cowboy.json](./341144-kero-kero-cowboy.json) |
 | Kero Kero Keroppi no Issho ni Asobou | 40239 | [40239-kero-kero-keroppi-no-issho-ni-asobou.json](./40239-kero-kero-keroppi-no-issho-ni-asobou.json) |
