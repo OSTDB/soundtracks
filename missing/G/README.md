@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaia's Melody: Echoed Melodies | 74231 | [74231-gaias-melody-echoed-melodies.json](./74231-gaias-melody-echoed-melodies.json) |
 | Gaiabreaker | 61316 | [61316-gaiabreaker.json](./61316-gaiabreaker.json) |
 | Gaiadon: Eternal Quest | 318761 | [318761-gaiadon-eternal-quest.json](./318761-gaiadon-eternal-quest.json) |
+| Gaiapolis | 39823 | [39823-gaiapolis.json](./39823-gaiapolis.json) |
 | Gaiares | 280324 | [280324-gaiares.json](./280324-gaiares.json) |
 | Gaiares | 93373 | [93373-gaiares.json](./93373-gaiares.json) |
 | Gaias Lord | 92292 | [92292-gaias-lord.json](./92292-gaias-lord.json) |
@@ -2374,6 +2375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Go Ackman | 83923 | [83923-go-go-ackman.json](./83923-go-go-ackman.json) |
 | Go Go Galago | 61732 | [61732-go-go-galago.json](./61732-go-go-galago.json) |
 | Go Go Jump!! | 244221 | [244221-go-go-jump.json](./244221-go-go-jump.json) |
+| Go go mr yamaguchi | 39811 | [39811-go-go-mr-yamaguchi.json](./39811-go-go-mr-yamaguchi.json) |
 | Go Go Muffin | 212451 | [212451-go-go-muffin.json](./212451-go-go-muffin.json) |
 | Go Go Poncho! | 89958 | [89958-go-go-poncho.json](./89958-go-go-poncho.json) |
 | Go Go UFO Smackdown | 68622 | [68622-go-go-ufo-smackdown.json](./68622-go-go-ufo-smackdown.json) |
@@ -4643,6 +4645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Gun Pixies | 27281 | [27281-gun-gun-pixies.json](./27281-gun-gun-pixies.json) |
 | Gun Head Shot | 231935 | [231935-gun-head-shot.json](./231935-gun-head-shot.json) |
 | Gun King | 230936 | [230936-gun-king.json](./230936-gun-king.json) |
+| Gun Law | 39775 | [39775-gun-law.json](./39775-gun-law.json) |
 | Gun Man | 115157 | [115157-gun-man.json](./115157-gun-man.json) |
 | Gun Man | 346091 | [346091-gun-man.json](./346091-gun-man.json) |
 | Gun Mayhem | 342123 | [342123-gun-mayhem.json](./342123-gun-mayhem.json) |
