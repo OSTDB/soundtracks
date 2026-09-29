@@ -4858,6 +4858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Homestead | 119567 | [119567-the-homestead.json](./119567-the-homestead.json) |
 | The Homestead Invasion | 81667 | [81667-the-homestead-invasion.json](./81667-the-homestead-invasion.json) |
 | The Honest Little Fisher | 383066 | [383066-the-honest-little-fisher.json](./383066-the-honest-little-fisher.json) |
+| The Hong Kong Massacre | 27069 | [27069-the-hong-kong-massacre.json](./27069-the-hong-kong-massacre.json) |
 | The Hopebringer | 151114 | [151114-the-hopebringer.json](./151114-the-hopebringer.json) |
 | The Hopeless Few | 389974 | [389974-the-hopeless-few.json](./389974-the-hopeless-few.json) |
 | The Horizon | 138184 | [138184-the-horizon.json](./138184-the-horizon.json) |
@@ -5264,6 +5265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters 2000/2001 | 43348 | [43348-the-king-of-fighters-2000-2001.json](./43348-the-king-of-fighters-2000-2001.json) |
 | The King of Fighters 2001 | 15432 | [15432-the-king-of-fighters-2001.json](./15432-the-king-of-fighters-2001.json) |
 | The King of Fighters 2002: Unlimited Match | 22952 | [22952-the-king-of-fighters-2002-unlimited-match.json](./22952-the-king-of-fighters-2002-unlimited-match.json) |
+| The King of Fighters 2003 | 15433 | [15433-the-king-of-fighters-2003.json](./15433-the-king-of-fighters-2003.json) |
 | The King of Fighters Arena | 225887 | [225887-the-king-of-fighters-arena.json](./225887-the-king-of-fighters-arena.json) |
 | The King of Fighters EX: Neo Blood | 49170 | [49170-the-king-of-fighters-ex-neo-blood.json](./49170-the-king-of-fighters-ex-neo-blood.json) |
 | The King of Fighters EX2: Howling Blood | 49169 | [49169-the-king-of-fighters-ex2-howling-blood.json](./49169-the-king-of-fighters-ex2-howling-blood.json) |
@@ -7543,6 +7545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims Medieval | 10632 | [10632-the-sims-medieval.json](./10632-the-sims-medieval.json) |
 | The Sims Online | 13152 | [13152-the-sims-online.json](./13152-the-sims-online.json) |
 | The Sims: Legacy Collection | 329954 | [329954-the-sims-legacy-collection.json](./329954-the-sims-legacy-collection.json) |
+| The Sims: Livin' Large | 5528 | [5528-the-sims-livin-large.json](./5528-the-sims-livin-large.json) |
 | The Simulacrum | 230858 | [230858-the-simulacrum.json](./230858-the-simulacrum.json) |
 | The Simuloid Affair: Infinite Possibilities | 300692 | [300692-the-simuloid-affair-infinite-possibilities.json](./300692-the-simuloid-affair-infinite-possibilities.json) |
 | The Sin Collector: Repentless | 169773 | [169773-the-sin-collector-repentless.json](./169773-the-sin-collector-repentless.json) |
@@ -11091,6 +11094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toca Life World | 126005 | [126005-toca-life-world.json](./126005-toca-life-world.json) |
 | Toca Pisadinha | 237621 | [237621-toca-pisadinha.json](./237621-toca-pisadinha.json) |
 | TOCA Race Driver 2 | 246667 | [246667-toca-race-driver-2.json](./246667-toca-race-driver-2.json) |
+| TOCA Race Driver 2 | 6201 | [6201-toca-race-driver-2.json](./6201-toca-race-driver-2.json) |
 | TOCA Race Driver 3 Challenge | 42849 | [42849-toca-race-driver-3-challenge.json](./42849-toca-race-driver-3-challenge.json) |
 | TOCA Touring Car Championship | 201751 | [201751-toca-touring-car-championship.json](./201751-toca-touring-car-championship.json) |
 | TOCA World Touring Cars | 234899 | [234899-toca-world-touring-cars.json](./234899-toca-world-touring-cars.json) |
@@ -11283,6 +11287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom and Jerry: Refriger-Raiders | 355622 | [355622-tom-and-jerry-refriger-raiders.json](./355622-tom-and-jerry-refriger-raiders.json) |
 | Tom and Jerry: The Movie | 8043 | [8043-tom-and-jerry-the-movie.json](./8043-tom-and-jerry-the-movie.json) |
 | Tom Clancy's Action Pack Limited Edition | 43283 | [43283-tom-clancys-action-pack-limited-edition.json](./43283-tom-clancys-action-pack-limited-edition.json) |
+| Tom Clancy's EndWar | 7468 | [7468-tom-clancys-endwar.json](./7468-tom-clancys-endwar.json) |
 | Tom Clancy's Ghost Recon 2 | 1298 | [1298-tom-clancys-ghost-recon-2.json](./1298-tom-clancys-ghost-recon-2.json) |
 | Tom Clancy's Ghost Recon 2: 2007 - First Contact | 77977 | [77977-tom-clancys-ghost-recon-2-2007-first-contact.json](./77977-tom-clancys-ghost-recon-2-2007-first-contact.json) |
 | Tom Clancy's Ghost Recon 2: 2011 - Final Assault | 77979 | [77979-tom-clancys-ghost-recon-2-2011-final-assault.json](./77979-tom-clancys-ghost-recon-2-2011-final-assault.json) |
@@ -11641,6 +11646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toontown Rewritten: Clear Coasts | 373635 | [373635-toontown-rewritten-clear-coasts.json](./373635-toontown-rewritten-clear-coasts.json) |
 | Toontown: The Grindworks | 333930 | [333930-toontown-the-grindworks.json](./333930-toontown-the-grindworks.json) |
 | Toot's Race | 108593 | [108593-toots-race.json](./108593-toots-race.json) |
+| Tooth and Tail | 12519 | [12519-tooth-and-tail.json](./12519-tooth-and-tail.json) |
 | Tooth Fairy Horse | 250454 | [250454-tooth-fairy-horse.json](./250454-tooth-fairy-horse.json) |
 | Toothy History | 160221 | [160221-toothy-history.json](./160221-toothy-history.json) |
 | Tootsie Pop | 273896 | [273896-tootsie-pop.json](./273896-tootsie-pop.json) |
