@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky Darts | 93352 | [93352-wacky-darts.json](./93352-wacky-darts.json) |
 | Wacky Races | 12817 | [12817-wacky-races.json](./12817-wacky-races.json) |
 | Wacky Races | 81547 | [81547-wacky-races.json](./81547-wacky-races.json) |
+| Wacky Races Starring Dastardly & Muttley | 43447 | [43447-wacky-races-starring-dastardly-and-muttley.json](./43447-wacky-races-starring-dastardly-and-muttley.json) |
 | Wacky Races: Mad Motors | 56544 | [56544-wacky-races-mad-motors.json](./56544-wacky-races-mad-motors.json) |
 | Wacky Ship | 180600 | [180600-wacky-ship.json](./180600-wacky-ship.json) |
 | Wacky Soldiers | 123560 | [123560-wacky-soldiers.json](./123560-wacky-soldiers.json) |
@@ -3498,6 +3499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Boxing Manager | 30292 | [30292-world-boxing-manager.json](./30292-world-boxing-manager.json) |
 | World Challenge Golf | 385844 | [385844-world-challenge-golf.json](./385844-world-challenge-golf.json) |
 | World Champ | 130863 | [130863-world-champ.json](./130863-world-champ.json) |
+| World Championship Cards | 43428 | [43428-world-championship-cards.json](./43428-world-championship-cards.json) |
 | World Championship Poker | 210721 | [210721-world-championship-poker.json](./210721-world-championship-poker.json) |
 | World Championship Snooker | 72787 | [72787-world-championship-snooker.json](./72787-world-championship-snooker.json) |
 | World Championship Snooker 2002 | 72788 | [72788-world-championship-snooker-2002.json](./72788-world-championship-snooker-2002.json) |
