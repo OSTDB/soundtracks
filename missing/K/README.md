@@ -2441,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kouenji Joshi Soccer | 229201 | [229201-kouenji-joshi-soccer.json](./229201-kouenji-joshi-soccer.json) |
 | Kouenji Joshi Soccer 2: Koi wa Nebagiba Kouenji | 115443 | [115443-kouenji-joshi-soccer-2-koi-wa-nebagiba-kouenji.json](./115443-kouenji-joshi-soccer-2-koi-wa-nebagiba-kouenji.json) |
 | Koufuku Sousakan | 183372 | [183372-koufuku-sousakan.json](./183372-koufuku-sousakan.json) |
+| Koufuku wo Yobu Game: Dora Dora Dora | 48789 | [48789-koufuku-wo-yobu-game-dora-dora-dora.json](./48789-koufuku-wo-yobu-game-dora-dora-dora.json) |
 | Kouhai wo Iwau Saisho no Fuyu | 406204 | [406204-kouhai-wo-iwau-saisho-no-fuyu.json](./406204-kouhai-wo-iwau-saisho-no-fuyu.json) |
 | Koukiatsu Boy | 228584 | [228584-koukiatsu-boy.json](./228584-koukiatsu-boy.json) |
 | Koumajou Densetsu: Scarlet Symphony | 65765 | [65765-koumajou-densetsu-scarlet-symphony.json](./65765-koumajou-densetsu-scarlet-symphony.json) |
@@ -2695,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KurOba | 275735 | [275735-kuroba.json](./275735-kuroba.json) |
 | Kuroba: Oghuz | 409581 | [409581-kuroba-oghuz.json](./409581-kuroba-oghuz.json) |
 | Kurofune: descobrimentos portugueses | 278545 | [278545-kurofune-descobrimentos-portugueses.json](./278545-kurofune-descobrimentos-portugueses.json) |
+| Kurogane Hiroshi no Yosou Daisuki! Kachiuma Densetsu | 48794 | [48794-kurogane-hiroshi-no-yosou-daisuki-kachiuma-densetsu.json](./48794-kurogane-hiroshi-no-yosou-daisuki-kachiuma-densetsu.json) |
 | Kurogane Kaikijong | 336113 | [336113-kurogane-kaikijong.json](./336113-kurogane-kaikijong.json) |
 | Kurogane no Linebarrels | 56748 | [56748-kurogane-no-linebarrels.json](./56748-kurogane-no-linebarrels.json) |
 | Kurohi | 397677 | [397677-kurohi.json](./397677-kurohi.json) |
