@@ -3917,6 +3917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | greenTech+ | 54058 | [54058-greentech.json](./54058-greentech.json) |
 | GreenWood Defense | 309858 | [309858-greenwood-defense.json](./309858-greenwood-defense.json) |
 | Greenwood Falls | 285545 | [285545-greenwood-falls.json](./285545-greenwood-falls.json) |
+| Greenwood the Last Ritual | 31109 | [31109-greenwood-the-last-ritual.json](./31109-greenwood-the-last-ritual.json) |
 | Greenwood: Amaranthus | 179511 | [179511-greenwood-amaranthus.json](./179511-greenwood-amaranthus.json) |
 | Greetings | 178562 | [178562-greetings.json](./178562-greetings.json) |
 | Greetings From Krampus! | 127229 | [127229-greetings-from-krampus.json](./127229-greetings-from-krampus.json) |
@@ -4192,6 +4193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grocery Store Simulator | 326420 | [326420-grocery-store-simulator.json](./326420-grocery-store-simulator.json) |
 | Groda | 338537 | [338537-groda.json](./338537-groda.json) |
 | Grog 'n Glory | 291739 | [291739-grog-n-glory.json](./291739-grog-n-glory.json) |
+| Groggers! | 31122 | [31122-groggers.json](./31122-groggers.json) |
 | Grok | 322763 | [322763-grok.json](./322763-grok.json) |
 | Grokit | 271204 | [271204-grokit.json](./271204-grokit.json) |
 | Grom: Terror in Tibet | 73767 | [73767-grom-terror-in-tibet.json](./73767-grom-terror-in-tibet.json) |
@@ -4266,6 +4268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grotto Beasts Arena | 293234 | [293234-grotto-beasts-arena.json](./293234-grotto-beasts-arena.json) |
 | Grotto King | 282004 | [282004-grotto-king.json](./282004-grotto-king.json) |
 | Grottonnia | 171560 | [171560-grottonnia.json](./171560-grottonnia.json) |
+| GrottyScape | 31045 | [31045-grottyscape.json](./31045-grottyscape.json) |
 | Grouls | 329010 | [329010-grouls.json](./329010-grouls.json) |
 | Ground Attack | 84255 | [84255-ground-attack.json](./84255-ground-attack.json) |
 | Ground Control Anthology | 30240 | [30240-ground-control-anthology.json](./30240-ground-control-anthology.json) |
