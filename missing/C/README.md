@@ -6737,6 +6737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countermeasure | 12306 | [12306-countermeasure.json](./12306-countermeasure.json) |
 | Counterpact | 221155 | [221155-counterpact.json](./221155-counterpact.json) |
 | Countersnipe | 127186 | [127186-countersnipe.json](./127186-countersnipe.json) |
+| CounterSpy | 7612 | [7612-counterspy.json](./7612-counterspy.json) |
 | Countess in Crimson | 169458 | [169458-countess-in-crimson.json](./169458-countess-in-crimson.json) |
 | Counties Work | 207836 | [207836-counties-work.json](./207836-counties-work.json) |
 | Countin' Stars | 368496 | [368496-countin-stars.json](./368496-countin-stars.json) |
@@ -7171,6 +7172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crate Man | 61568 | [61568-crate-man.json](./61568-crate-man.json) |
 | Crates n' Mohawks | 186339 | [186339-crates-n-mohawks.json](./186339-crates-n-mohawks.json) |
 | CrateTastrophe | 164271 | [164271-cratetastrophe.json](./164271-cratetastrophe.json) |
+| Crawl | 11049 | [11049-crawl.json](./11049-crawl.json) |
 | Crawl Space | 186064 | [186064-crawl-space.json](./186064-crawl-space.json) |
 | Crawl Tactics | 211211 | [211211-crawl-tactics.json](./211211-crawl-tactics.json) |
 | Crawl to Edge | 234621 | [234621-crawl-to-edge.json](./234621-crawl-to-edge.json) |
@@ -7631,6 +7633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Trigger | 30174 | [30174-crimson-trigger.json](./30174-crimson-trigger.json) |
 | Crimson wind | 284990 | [284990-crimson-wind.json](./284990-crimson-wind.json) |
 | Crimsonland | 253323 | [253323-crimsonland.json](./253323-crimsonland.json) |
+| Crimsonland | 7587 | [7587-crimsonland.json](./7587-crimsonland.json) |
 | Crimzon Clover | 137065 | [137065-crimzon-clover.json](./137065-crimzon-clover.json) |
 | Crimzon Clover: World EXplosion | 140395 | [140395-crimzon-clover-world-explosion.json](./140395-crimzon-clover-world-explosion.json) |
 | Crimzon Clover: World Ignition | 8763 | [8763-crimzon-clover-world-ignition.json](./8763-crimzon-clover-world-ignition.json) |
