@@ -5573,6 +5573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes: Eastern Front | 127898 | [127898-company-of-heroes-eastern-front.json](./127898-company-of-heroes-eastern-front.json) |
 | Company of Heroes: Europe at War | 127899 | [127899-company-of-heroes-europe-at-war.json](./127899-company-of-heroes-europe-at-war.json) |
 | Company of Heroes: Far East War | 127897 | [127897-company-of-heroes-far-east-war.json](./127897-company-of-heroes-far-east-war.json) |
+| Company of Heroes: Game of the Year Edition | 53928 | [53928-company-of-heroes-game-of-the-year-edition.json](./53928-company-of-heroes-game-of-the-year-edition.json) |
 | Company of Heroes: Gold Edition | 21804 | [21804-company-of-heroes-gold-edition.json](./21804-company-of-heroes-gold-edition.json) |
 | Company of Heroes: Legacy Edition | 84532 | [84532-company-of-heroes-legacy-edition.json](./84532-company-of-heroes-legacy-edition.json) |
 | Company of Heroes: Limited Edition | 24189 | [24189-company-of-heroes-limited-edition.json](./24189-company-of-heroes-limited-edition.json) |
