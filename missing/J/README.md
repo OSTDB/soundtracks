@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Bond Jr. | 217972 | [217972-james-bond-jr.json](./217972-james-bond-jr.json) |
 | James Bonk | 110285 | [110285-james-bonk.json](./110285-james-bonk.json) |
 | James Cameron's Avatar: The Game | 200999 | [200999-james-camerons-avatar-the-game.json](./200999-james-camerons-avatar-the-game.json) |
+| James Cameron's Avatar: The Game | 4211 | [4211-james-camerons-avatar-the-game.json](./4211-james-camerons-avatar-the-game.json) |
 | James Cameron's Dark Angel | 5868 | [5868-james-camerons-dark-angel.json](./5868-james-camerons-dark-angel.json) |
 | James Clavell's Shogun | 15473 | [15473-james-clavells-shogun.json](./15473-james-clavells-shogun.json) |
 | James is Bananas | 248887 | [248887-james-is-bananas.json](./248887-james-is-bananas.json) |
@@ -557,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Set Luis | 45343 | [45343-jet-set-luis.json](./45343-jet-set-luis.json) |
 | Jet Set Radio | 279629 | [279629-jet-set-radio.json](./279629-jet-set-radio.json) |
 | Jet Set Radio | 398453 | [398453-jet-set-radio.json](./398453-jet-set-radio.json) |
+| Jet Set Radio Future | 1570 | [1570-jet-set-radio-future.json](./1570-jet-set-radio-future.json) |
 | Jet Set Willy | 8170 | [8170-jet-set-willy.json](./8170-jet-set-willy.json) |
 | Jet Set Willy: Online | 92850 | [92850-jet-set-willy-online.json](./92850-jet-set-willy-online.json) |
 | Jet Ski Driving | 231943 | [231943-jet-ski-driving.json](./231943-jet-ski-driving.json) |
