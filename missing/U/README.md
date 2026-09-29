@@ -672,6 +672,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unconquered Castle | 109632 | [109632-unconquered-castle.json](./109632-unconquered-castle.json) |
 | Unconventional Ragdoll Game | 151525 | [151525-unconventional-ragdoll-game.json](./151525-unconventional-ragdoll-game.json) |
 | Uncopy | 104698 | [104698-uncopy.json](./104698-uncopy.json) |
+| Uncorporeal: Alcatraz Island Lofts | 32089 | [32089-uncorporeal-alcatraz-island-lofts.json](./32089-uncorporeal-alcatraz-island-lofts.json) |
+| Uncorporeal: Fluffy! | 32120 | [32120-uncorporeal-fluffy.json](./32120-uncorporeal-fluffy.json) |
 | Uncounted Isles | 219532 | [219532-uncounted-isles.json](./219532-uncounted-isles.json) |
 | Uncover | 273390 | [273390-uncover.json](./273390-uncover.json) |
 | Uncover | 316427 | [316427-uncover.json](./316427-uncover.json) |
