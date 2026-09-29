@@ -1019,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nellie's Nonograms | 263996 | [263996-nellies-nonograms.json](./263996-nellies-nonograms.json) |
 | Nello in Antwerp | 190093 | [190093-nello-in-antwerp.json](./190093-nello-in-antwerp.json) |
 | Nelly Cootalot: Spoonbeaks Ahoy! HD | 90001 | [90001-nelly-cootalot-spoonbeaks-ahoy-hd.json](./90001-nelly-cootalot-spoonbeaks-ahoy-hd.json) |
+| Nelly Cootalot: The Fowl Fleet | 18719 | [18719-nelly-cootalot-the-fowl-fleet.json](./18719-nelly-cootalot-the-fowl-fleet.json) |
 | Nelo | 25534 | [25534-nelo.json](./25534-nelo.json) |
 | Nelson and the Magic Cauldron | 110283 | [110283-nelson-and-the-magic-cauldron.json](./110283-nelson-and-the-magic-cauldron.json) |
 | Nelson and the Magic Cauldron: The Journey | 188494 | [188494-nelson-and-the-magic-cauldron-the-journey.json](./188494-nelson-and-the-magic-cauldron-the-journey.json) |
@@ -2479,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja-kun: Ashura no Shou | 230290 | [230290-ninja-kun-ashura-no-shou.json](./230290-ninja-kun-ashura-no-shou.json) |
 | Ninja-kun: Ashura no Shou | 37326 | [37326-ninja-kun-ashura-no-shou.json](./37326-ninja-kun-ashura-no-shou.json) |
 | Ninja-kun: Majou no Bouken | 7561 | [7561-ninja-kun-majou-no-bouken.json](./7561-ninja-kun-majou-no-bouken.json) |
+| Ninja: Shadow of Darkness | 18941 | [18941-ninja-shadow-of-darkness.json](./18941-ninja-shadow-of-darkness.json) |
 | Ninja: Shadow of the Dash | 311627 | [311627-ninja-shadow-of-the-dash.json](./311627-ninja-shadow-of-the-dash.json) |
 | Ninja: ShadowBlade | 339903 | [339903-ninja-shadowblade.json](./339903-ninja-shadowblade.json) |
 | Ninja? | 113900 | [113900-ninja.json](./113900-ninja.json) |
