@@ -1947,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orion Defense | 348356 | [348356-orion-defense.json](./348356-orion-defense.json) |
 | Orion Drift | 322571 | [322571-orion-drift.json](./322571-orion-drift.json) |
 | Orion Everton: Mysteries of Metrosomia | 291774 | [291774-orion-everton-mysteries-of-metrosomia.json](./291774-orion-everton-mysteries-of-metrosomia.json) |
+| Orion Sandbox | 395783 | [395783-orion-sandbox.json](./395783-orion-sandbox.json) |
 | Orion shadow of jerboa | 127339 | [127339-orion-shadow-of-jerboa.json](./127339-orion-shadow-of-jerboa.json) |
 | Orion: Dino Beatdown - Jurassic Edition | 93631 | [93631-orion-dino-beatdown-jurassic-edition.json](./93631-orion-dino-beatdown-jurassic-edition.json) |
 | Orion's End | 211797 | [211797-orions-end.json](./211797-orions-end.json) |
@@ -2407,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outerverse | 164901 | [164901-outerverse.json](./164901-outerverse.json) |
 | Outfoxed | 179165 | [179165-outfoxed.json](./179165-outfoxed.json) |
 | Outgrown | 188001 | [188001-outgrown.json](./188001-outgrown.json) |
+| Outhold | 345514 | [345514-outhold.json](./345514-outhold.json) |
 | Outhouse | 342063 | [342063-outhouse.json](./342063-outhouse.json) |
 | Outland Odyssey | 214172 | [214172-outland-odyssey.json](./214172-outland-odyssey.json) |
 | Outland Peak | 383662 | [383662-outland-peak.json](./383662-outland-peak.json) |
