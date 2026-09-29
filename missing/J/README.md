@@ -1188,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Josou Gal Bitch Gakuen: Half Musume Judy no Yuuwaku | 59049 | [59049-josou-gal-bitch-gakuen-half-musume-judy-no-yuuwaku.json](./59049-josou-gal-bitch-gakuen-half-musume-judy-no-yuuwaku.json) |
 | JosPlays' Escape: GameJam April 2024 | 303597 | [303597-josplays-escape-gamejam-april-2024.json](./303597-josplays-escape-gamejam-april-2024.json) |
 | Jotun: Valhalla Edition | 14147 | [14147-jotun-valhalla-edition.json](./14147-jotun-valhalla-edition.json) |
+| Jotun: Valhalla Edition | 18149 | [18149-jotun-valhalla-edition.json](./18149-jotun-valhalla-edition.json) |
 | Jötunnslayer: Hordes of Hel - Collector's Edition | 401782 | [401782-jotunnslayer-hordes-of-hel-collectors-edition.json](./401782-jotunnslayer-hordes-of-hel-collectors-edition.json) |
 | Jötunnslayer: Hordes of Hel - Conan Edition | 403600 | [403600-jotunnslayer-hordes-of-hel-conan-edition.json](./403600-jotunnslayer-hordes-of-hel-conan-edition.json) |
 | Jötunnslayer: Hordes of Hel - Founders Edition | 403588 | [403588-jotunnslayer-hordes-of-hel-founders-edition.json](./403588-jotunnslayer-hordes-of-hel-founders-edition.json) |
