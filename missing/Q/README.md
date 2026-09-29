@@ -265,9 +265,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quatro Luzes | 34203 | [34203-quatro-luzes.json](./34203-quatro-luzes.json) |
 | Quatro!: This is fine DLC | 253368 | [253368-quatro-this-is-fine-dlc.json](./253368-quatro-this-is-fine-dlc.json) |
 | Quatros Noir | 298159 | [298159-quatros-noir.json](./298159-quatros-noir.json) |
+| Quattro Adventure | 48218 | [48218-quattro-adventure.json](./48218-quattro-adventure.json) |
+| Quattro Arcade | 48217 | [48217-quattro-arcade.json](./48217-quattro-arcade.json) |
 | Quattro Combat | 72124 | [72124-quattro-combat.json](./72124-quattro-combat.json) |
 | Quattro Megastars | 94322 | [94322-quattro-megastars.json](./94322-quattro-megastars.json) |
 | Quattro Skills | 71815 | [71815-quattro-skills.json](./71815-quattro-skills.json) |
+| Quattro Sports | 48216 | [48216-quattro-sports.json](./48216-quattro-sports.json) |
 | Quattro Super Hits | 57617 | [57617-quattro-super-hits.json](./57617-quattro-super-hits.json) |
 | Quattro Super Hits | 57619 | [57619-quattro-super-hits.json](./57619-quattro-super-hits.json) |
 | Quazatron | 23061 | [23061-quazatron.json](./23061-quazatron.json) |
