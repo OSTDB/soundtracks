@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landscaper Simulator | 406691 | [406691-landscaper-simulator.json](./406691-landscaper-simulator.json) |
 | Landscapes | 90390 | [90390-landscapes.json](./90390-landscapes.json) |
 | Landshay: Event Night | 186348 | [186348-landshay-event-night.json](./186348-landshay-event-night.json) |
+| Landstalker | 15072 | [15072-landstalker.json](./15072-landstalker.json) |
 | Lane Drifter | 365901 | [365901-lane-drifter.json](./365901-lane-drifter.json) |
 | Lane Mastodon vs. the Blubbermen | 59855 | [59855-lane-mastodon-vs-the-blubbermen.json](./59855-lane-mastodon-vs-the-blubbermen.json) |
 | Lane of the Eternal Night | 406207 | [406207-lane-of-the-eternal-night.json](./406207-lane-of-the-eternal-night.json) |
