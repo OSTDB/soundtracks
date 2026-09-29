@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offsea | 235761 | [235761-offsea.json](./235761-offsea.json) |
 | Offshore Fishing | 387692 | [387692-offshore-fishing.json](./387692-offshore-fishing.json) |
 | Offshore Racing | 234617 | [234617-offshore-racing.json](./234617-offshore-racing.json) |
+| Offshore Tycoon | 50740 | [50740-offshore-tycoon.json](./50740-offshore-tycoon.json) |
 | Offside | 127802 | [127802-offside.json](./127802-offside.json) |
 | Offworld Trading Company: Almanac | 124802 | [124802-offworld-trading-company-almanac.json](./124802-offworld-trading-company-almanac.json) |
 | Offworld Trading Company: Blue Chip Ventures | 124835 | [124835-offworld-trading-company-blue-chip-ventures.json](./124835-offworld-trading-company-blue-chip-ventures.json) |
