@@ -4152,6 +4152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luciel Angel Mission | 314060 | [314060-luciel-angel-mission.json](./314060-luciel-angel-mission.json) |
 | Lucifer Ring | 43873 | [43873-lucifer-ring.json](./43873-lucifer-ring.json) |
 | Lucifer's Kingdom | 72097 | [72097-lucifers-kingdom.json](./72097-lucifers-kingdom.json) |
+| Lucifer's Realm | 25895 | [25895-lucifers-realm.json](./25895-lucifers-realm.json) |
 | Luciform | 130208 | [130208-luciform.json](./130208-luciform.json) |
 | Lucinda | 217821 | [217821-lucinda.json](./217821-lucinda.json) |
 | Lucinda Green's Equestrian Challenge | 43254 | [43254-lucinda-greens-equestrian-challenge.json](./43254-lucinda-greens-equestrian-challenge.json) |
