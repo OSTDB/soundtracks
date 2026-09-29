@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys VIII: Lacrimosa of Dana | 27304 | [27304-ys-viii-lacrimosa-of-dana.json](./27304-ys-viii-lacrimosa-of-dana.json) |
 | Ys VIII: Lacrimosa of Dana - Christmas Gift Package | 212316 | [212316-ys-viii-lacrimosa-of-dana-christmas-gift-package.json](./212316-ys-viii-lacrimosa-of-dana-christmas-gift-package.json) |
 | Ys Ⅷ: Lacrimosa of Dana - Mobile | 196324 | [196324-ys-viii-lacrimosa-of-dana-mobile.json](./196324-ys-viii-lacrimosa-of-dana-mobile.json) |
+| Ys vs. Sora no Kiseki: Alternative Saga | 42772 | [42772-ys-vs-sora-no-kiseki-alternative-saga.json](./42772-ys-vs-sora-no-kiseki-alternative-saga.json) |
 | Ys X: Nordics | 229176 | [229176-ys-x-nordics.json](./229176-ys-x-nordics.json) |
 | Ys X: Nordics - Limited Edition | 261302 | [261302-ys-x-nordics-limited-edition.json](./261302-ys-x-nordics-limited-edition.json) |
 | Ys X: Proud Nordics: Launch Edition | 403562 | [403562-ys-x-proud-nordics-launch-edition.json](./403562-ys-x-proud-nordics-launch-edition.json) |
