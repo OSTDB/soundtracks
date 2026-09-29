@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpy Rooftop | 242566 | [242566-jumpy-rooftop.json](./242566-jumpy-rooftop.json) |
 | Jumpy Skateboard Ninja: The Royale Sword Hero Dude Drive Adventure | 256360 | [256360-jumpy-skateboard-ninja-the-royale-sword-hero-dude-drive-adventure.json](./256360-jumpy-skateboard-ninja-the-royale-sword-hero-dude-drive-adventure.json) |
 | Jumpy Truck | 98393 | [98393-jumpy-truck.json](./98393-jumpy-truck.json) |
+| Jumpy: A Very Hard Game | 28098 | [28098-jumpy-a-very-hard-game.json](./28098-jumpy-a-very-hard-game.json) |
 | Junction | 109032 | [109032-junction.json](./109032-junction.json) |
 | june 18 2024 (White people in China) | 318232 | [318232-june-18-2024-white-people-in-china.json](./318232-june-18-2024-white-people-in-china.json) |
 | June Bride Nightmare | 356620 | [356620-june-bride-nightmare.json](./356620-june-bride-nightmare.json) |
