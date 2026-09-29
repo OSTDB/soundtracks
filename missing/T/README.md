@@ -2554,6 +2554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Little Miss Scatterbrain | 73559 | [73559-the-adventures-of-little-miss-scatterbrain.json](./73559-the-adventures-of-little-miss-scatterbrain.json) |
 | The Adventures of Little Red Riding Cap | 54433 | [54433-the-adventures-of-little-red-riding-cap.json](./54433-the-adventures-of-little-red-riding-cap.json) |
 | The Adventures of Little Wurfel | 370225 | [370225-the-adventures-of-little-wurfel.json](./370225-the-adventures-of-little-wurfel.json) |
+| The Adventures of Maddog Williams in the Dungeons of Duridian | 9664 | [9664-the-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json](./9664-the-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json) |
 | The Adventures of Major Havoc | 18468 | [18468-the-adventures-of-major-havoc.json](./18468-the-adventures-of-major-havoc.json) |
 | The Adventures of Melvin Freebush | 73522 | [73522-the-adventures-of-melvin-freebush.json](./73522-the-adventures-of-melvin-freebush.json) |
 | The Adventures of Mr. Hat | 191822 | [191822-the-adventures-of-mr-hat.json](./191822-the-adventures-of-mr-hat.json) |
@@ -4701,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guides | 96263 | [96263-the-guides.json](./96263-the-guides.json) |
 | The Guiding Spirit | 391890 | [391890-the-guiding-spirit.json](./391890-the-guiding-spirit.json) |
 | The Guild 2: Renaissance | 11620 | [11620-the-guild-2-renaissance.json](./11620-the-guild-2-renaissance.json) |
+| The Guild 2: Venice | 9324 | [9324-the-guild-2-venice.json](./9324-the-guild-2-venice.json) |
 | The Guild of Thieves | 12126 | [12126-the-guild-of-thieves.json](./12126-the-guild-of-thieves.json) |
 | The Guilt and the Shadow | 36145 | [36145-the-guilt-and-the-shadow.json](./36145-the-guilt-and-the-shadow.json) |
 | The Gunk | 136000 | [136000-the-gunk.json](./136000-the-gunk.json) |
@@ -4804,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heroic Legend of Eagarlnia: Expansion Pack | 199651 | [199651-the-heroic-legend-of-eagarlnia-expansion-pack.json](./199651-the-heroic-legend-of-eagarlnia-expansion-pack.json) |
 | The Hi-Finesse: 2D | 25909 | [25909-the-hi-finesse-2d.json](./25909-the-hi-finesse-2d.json) |
 | The Hidden | 85437 | [85437-the-hidden.json](./85437-the-hidden.json) |
+| The Hidden Below | 9357 | [9357-the-hidden-below.json](./9357-the-hidden-below.json) |
 | The Hidden Dragon | 32157 | [32157-the-hidden-dragon.json](./32157-the-hidden-dragon.json) |
 | The Hidden Ghost | 195483 | [195483-the-hidden-ghost.json](./195483-the-hidden-ghost.json) |
 | The Hidden Object Collection | 146730 | [146730-the-hidden-object-collection.json](./146730-the-hidden-object-collection.json) |
@@ -7074,6 +7077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rocket Jumper | 232965 | [232965-the-rocket-jumper.json](./232965-the-rocket-jumper.json) |
 | The Rocketeer | 136871 | [136871-the-rocketeer.json](./136871-the-rocketeer.json) |
 | The Rocketeer | 48205 | [48205-the-rocketeer.json](./48205-the-rocketeer.json) |
+| The Rockin' Dead | 9371 | [9371-the-rockin-dead.json](./9371-the-rockin-dead.json) |
 | The Rocky Horror Show Video Game | 319648 | [319648-the-rocky-horror-show-video-game.json](./319648-the-rocky-horror-show-video-game.json) |
 | The Rodionov postulate (pale-particle duality) | 376607 | [376607-the-rodionov-postulate-pale-particle-duality.json](./376607-the-rodionov-postulate-pale-particle-duality.json) |
 | The Rogue | 410447 | [410447-the-rogue.json](./410447-the-rogue.json) |
