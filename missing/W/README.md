@@ -3172,8 +3172,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder World Walkers | 173079 | [173079-wonder-world-walkers.json](./173079-wonder-world-walkers.json) |
 | Wonderball Heroes | 83581 | [83581-wonderball-heroes.json](./83581-wonderball-heroes.json) |
 | Wonderbirds | 188911 | [188911-wonderbirds.json](./188911-wonderbirds.json) |
+| Wonderbook: Book of Potions | 25099 | [25099-wonderbook-book-of-potions.json](./25099-wonderbook-book-of-potions.json) |
 | Wonderbook: Book of Spells | 22191 | [22191-wonderbook-book-of-spells.json](./22191-wonderbook-book-of-spells.json) |
 | Wonderbook: Diggs Nightcrawler | 25090 | [25090-wonderbook-diggs-nightcrawler.json](./25090-wonderbook-diggs-nightcrawler.json) |
+| Wonderbook: Walking with Dinosaurs | 25089 | [25089-wonderbook-walking-with-dinosaurs.json](./25089-wonderbook-walking-with-dinosaurs.json) |
 | Wonderbox: The Adventure Maker | 142352 | [142352-wonderbox-the-adventure-maker.json](./142352-wonderbox-the-adventure-maker.json) |
 | Wonderful Dizzy | 141687 | [141687-wonderful-dizzy.json](./141687-wonderful-dizzy.json) |
 | Wonderful Duck | 182991 | [182991-wonderful-duck.json](./182991-wonderful-duck.json) |
