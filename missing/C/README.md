@@ -753,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Explosion | 179152 | [179152-captain-explosion.json](./179152-captain-explosion.json) |
 | Captain Firat | 360737 | [360737-captain-firat.json](./360737-captain-firat.json) |
 | Captain Flying Robot | 90666 | [90666-captain-flying-robot.json](./90666-captain-flying-robot.json) |
+| Captain Forever | 29046 | [29046-captain-forever.json](./29046-captain-forever.json) |
 | Captain Forever Remix | 17360 | [17360-captain-forever-remix.json](./17360-captain-forever-remix.json) |
 | Captain Goose | 260161 | [260161-captain-goose.json](./260161-captain-goose.json) |
 | Captain Hannon: The Belanzano | 129759 | [129759-captain-hannon-the-belanzano.json](./129759-captain-hannon-the-belanzano.json) |
@@ -2515,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Coin | 363951 | [363951-chaos-coin.json](./363951-chaos-coin.json) |
 | Chaos Control | 325843 | [325843-chaos-control.json](./325843-chaos-control.json) |
 | Chaos Crafters | 265399 | [265399-chaos-crafters.json](./265399-chaos-crafters.json) |
+| Chaos Edge | 29090 | [29090-chaos-edge.json](./29090-chaos-edge.json) |
 | Chaos Entropy | 320559 | [320559-chaos-entropy.json](./320559-chaos-entropy.json) |
 | Chaos Faction 2 | 192096 | [192096-chaos-faction-2.json](./192096-chaos-faction-2.json) |
 | Chaos Field: New Order | 43458 | [43458-chaos-field-new-order.json](./43458-chaos-field-new-order.json) |
@@ -5908,6 +5910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquistador | 236918 | [236918-conquistador.json](./236918-conquistador.json) |
 | Conquistadorio | 258438 | [258438-conquistadorio.json](./258438-conquistadorio.json) |
 | Conrad Stevenson's Paranormal P.I. | 190151 | [190151-conrad-stevensons-paranormal-p-i.json](./190151-conrad-stevensons-paranormal-p-i.json) |
+| Conran: The Dinky Raccoon | 29086 | [29086-conran-the-dinky-raccoon.json](./29086-conran-the-dinky-raccoon.json) |
 | Conscript: Deluxe Edition | 308797 | [308797-conscript-deluxe-edition.json](./308797-conscript-deluxe-edition.json) |
 | Consensual Torture Simulator | 15446 | [15446-consensual-torture-simulator.json](./15446-consensual-torture-simulator.json) |
 | Considerable Grandfather | 293643 | [293643-considerable-grandfather.json](./293643-considerable-grandfather.json) |
@@ -7180,6 +7183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Bill: Smashing Zelebrities at the Zombie Stars Hotel | 175875 | [175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json](./175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json) |
 | Crazy Boom | 147386 | [147386-crazy-boom.json](./147386-crazy-boom.json) |
 | Crazy Boss | 238401 | [238401-crazy-boss.json](./238401-crazy-boss.json) |
+| Crazy Buggy Racing | 29107 | [29107-crazy-buggy-racing.json](./29107-crazy-buggy-racing.json) |
 | Crazy Bugs! | 248572 | [248572-crazy-bugs.json](./248572-crazy-bugs.json) |
 | Crazy Bus | 268477 | [268477-crazy-bus.json](./268477-crazy-bus.json) |
 | Crazy Cakes | 366415 | [366415-crazy-cakes.json](./366415-crazy-cakes.json) |
@@ -7551,6 +7555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Faith | 376477 | [376477-crimson-faith.json](./376477-crimson-faith.json) |
 | Crimson Frontier | 335864 | [335864-crimson-frontier.json](./335864-crimson-frontier.json) |
 | Crimson Furnace | 381626 | [381626-crimson-furnace.json](./381626-crimson-furnace.json) |
+| Crimson Hills | 29067 | [29067-crimson-hills.json](./29067-crimson-hills.json) |
 | Crimson Horror | 374624 | [374624-crimson-horror.json](./374624-crimson-horror.json) |
 | Crimson Hotel | 121645 | [121645-crimson-hotel.json](./121645-crimson-hotel.json) |
 | Crimson III | 335119 | [335119-crimson-iii.json](./335119-crimson-iii.json) |
@@ -8087,6 +8092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypto-Shots | 221844 | [221844-crypto-shots.json](./221844-crypto-shots.json) |
 | CryptoClash | 265730 | [265730-cryptoclash.json](./265730-cryptoclash.json) |
 | CryptoClickers | 218162 | [218162-cryptoclickers.json](./218162-cryptoclickers.json) |
+| Cryptocracy | 29027 | [29027-cryptocracy.json](./29027-cryptocracy.json) |
 | Cryptofall: Investor simulator | 122253 | [122253-cryptofall-investor-simulator.json](./122253-cryptofall-investor-simulator.json) |
 | CryptoFights | 111891 | [111891-cryptofights.json](./111891-cryptofights.json) |
 | Cryptoforce | 247500 | [247500-cryptoforce.json](./247500-cryptoforce.json) |
@@ -8659,6 +8665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursor Challenge | 33120 | [33120-cursor-challenge.json](./33120-cursor-challenge.json) |
 | Cursor Story | 237355 | [237355-cursor-story.json](./237355-cursor-story.json) |
 | Cursor Thief | 261893 | [261893-cursor-thief.json](./261893-cursor-thief.json) |
+| Cursor*10 | 29042 | [29042-cursor-10.json](./29042-cursor-10.json) |
 | Cursorcana | 343240 | [343240-cursorcana.json](./343240-cursorcana.json) |
 | CursorLublub | 334207 | [334207-cursorlublub.json](./334207-cursorlublub.json) |
 | Curtain | 159075 | [159075-curtain.json](./159075-curtain.json) |
