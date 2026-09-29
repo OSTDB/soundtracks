@@ -4814,6 +4814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apu's Journey | 276854 | [276854-apus-journey.json](./276854-apus-journey.json) |
 | AQRA Tenses: Learn English | 237280 | [237280-aqra-tenses-learn-english.json](./237280-aqra-tenses-learn-english.json) |
 | AQtion | 202662 | [202662-aqtion.json](./202662-aqtion.json) |
+| Aqua | 37278 | [37278-aqua.json](./37278-aqua.json) |
 | Aqua 1 | 273132 | [273132-aqua-1.json](./273132-aqua-1.json) |
 | Aqua 2 | 273133 | [273133-aqua-2.json](./273133-aqua-2.json) |
 | Aqua 3 | 273134 | [273134-aqua-3.json](./273134-aqua-3.json) |
