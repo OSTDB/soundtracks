@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Will Definitely Be the CEO! | 400969 | [400969-i-will-definitely-be-the-ceo.json](./400969-i-will-definitely-be-the-ceo.json) |
 | I will eat you | 126957 | [126957-i-will-eat-you.json](./126957-i-will-eat-you.json) |
 | I Will Return | 341876 | [341876-i-will-return.json](./341876-i-will-return.json) |
+| I Wish I Were the Moon | 55976 | [55976-i-wish-i-were-the-moon.json](./55976-i-wish-i-were-the-moon.json) |
 | I Wish You Rain | 23884 | [23884-i-wish-you-rain.json](./23884-i-wish-you-rain.json) |
 | I Wish... Todoke, Kono Omoi | 77940 | [77940-i-wish-todoke-kono-omoi.json](./77940-i-wish-todoke-kono-omoi.json) |
 | I Witness | 298139 | [298139-i-witness.json](./298139-i-witness.json) |
@@ -2192,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interior Worlds | 223460 | [223460-interior-worlds.json](./223460-interior-worlds.json) |
 | Interitus | 201249 | [201249-interitus.json](./201249-interitus.json) |
 | Interkosmos 2000 | 215398 | [215398-interkosmos-2000.json](./215398-interkosmos-2000.json) |
+| Interland | 55999 | [55999-interland.json](./55999-interland.json) |
 | Interlayer | 216745 | [216745-interlayer.json](./216745-interlayer.json) |
 | Interlocked | 83578 | [83578-interlocked.json](./83578-interlocked.json) |
 | Interlocked: Puzzle Islands | 406183 | [406183-interlocked-puzzle-islands.json](./406183-interlocked-puzzle-islands.json) |
