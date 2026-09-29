@@ -140,6 +140,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable Clinic | 56768 | [56768-fable-clinic.json](./56768-fable-clinic.json) |
 | Fable Forts! | 261883 | [261883-fable-forts.json](./261883-fable-forts.json) |
 | Fable Grove | 309476 | [309476-fable-grove.json](./309476-fable-grove.json) |
+| Fable II: Game of the Year Edition | 47477 | [47477-fable-ii-game-of-the-year-edition.json](./47477-fable-ii-game-of-the-year-edition.json) |
+| Fable II: Limited Collector's Edition | 47415 | [47415-fable-ii-limited-collectors-edition.json](./47415-fable-ii-limited-collectors-edition.json) |
 | Fable II: Pub Games | 21328 | [21328-fable-ii-pub-games.json](./21328-fable-ii-pub-games.json) |
 | Fable III: Limited Collector's Edition | 43958 | [43958-fable-iii-limited-collectors-edition.json](./43958-fable-iii-limited-collectors-edition.json) |
 | Fable III: Understone Quest Pack | 20558 | [20558-fable-iii-understone-quest-pack.json](./20558-fable-iii-understone-quest-pack.json) |
@@ -733,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Funday | 310582 | [310582-family-funday.json](./310582-family-funday.json) |
 | Family Game Mega Pack 14 in 1 | 294842 | [294842-family-game-mega-pack-14-in-1.json](./294842-family-game-mega-pack-14-in-1.json) |
 | Family Game Night 4: The Game Show | 20220 | [20220-family-game-night-4-the-game-show.json](./20220-family-game-night-4-the-game-show.json) |
+| Family Game Night 4: The Game Show | 47421 | [47421-family-game-night-4-the-game-show.json](./47421-family-game-night-4-the-game-show.json) |
 | Family Games | 45930 | [45930-family-games.json](./45930-family-games.json) |
 | Family Games Compendium | 79241 | [79241-family-games-compendium.json](./79241-family-games-compendium.json) |
 | Family Games II: Junk Food Jive | 45929 | [45929-family-games-ii-junk-food-jive.json](./45929-family-games-ii-junk-food-jive.json) |
@@ -4676,9 +4679,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 6: Welcome Pack | 401829 | [401829-forza-horizon-6-welcome-pack.json](./401829-forza-horizon-6-welcome-pack.json) |
 | Forza Horizon: Limited Collector's Edition | 41594 | [41594-forza-horizon-limited-collectors-edition.json](./41594-forza-horizon-limited-collectors-edition.json) |
 | Forza Motorsport | 3073 | [3073-forza-motorsport.json](./3073-forza-motorsport.json) |
+| Forza Motorsport 2: Limited Collector's Edition | 47469 | [47469-forza-motorsport-2-limited-collectors-edition.json](./47469-forza-motorsport-2-limited-collectors-edition.json) |
 | Forza Motorsport 2: The Complete Collection | 380672 | [380672-forza-motorsport-2-the-complete-collection.json](./380672-forza-motorsport-2-the-complete-collection.json) |
 | Forza Motorsport 2018 Mercedes-AMG GT3 | 278521 | [278521-forza-motorsport-2018-mercedes-amg-gt3.json](./278521-forza-motorsport-2018-mercedes-amg-gt3.json) |
+| Forza Motorsport 3: Limited Collector's Edition | 47471 | [47471-forza-motorsport-3-limited-collectors-edition.json](./47471-forza-motorsport-3-limited-collectors-edition.json) |
 | Forza Motorsport 4 | 3068 | [3068-forza-motorsport-4.json](./3068-forza-motorsport-4.json) |
+| Forza Motorsport 4: Essentials Edition | 47395 | [47395-forza-motorsport-4-essentials-edition.json](./47395-forza-motorsport-4-essentials-edition.json) |
 | Forza Motorsport 4: Limited Collector's Edition | 41600 | [41600-forza-motorsport-4-limited-collectors-edition.json](./41600-forza-motorsport-4-limited-collectors-edition.json) |
 | Forza Motorsport 6 | 8558 | [8558-forza-motorsport-6.json](./8558-forza-motorsport-6.json) |
 | Forza Motorsport 7: Deluxe Edition | 84940 | [84940-forza-motorsport-7-deluxe-edition.json](./84940-forza-motorsport-7-deluxe-edition.json) |
