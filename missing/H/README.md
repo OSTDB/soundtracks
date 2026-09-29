@@ -1367,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headcrab Frenzy! | 127926 | [127926-headcrab-frenzy.json](./127926-headcrab-frenzy.json) |
 | HeadHunters | 373751 | [373751-headhunters.json](./373751-headhunters.json) |
 | Headhunting | 345130 | [345130-headhunting.json](./345130-headhunting.json) |
+| Headlander | 15857 | [15857-headlander.json](./15857-headlander.json) |
 | Headlice | 292585 | [292585-headlice.json](./292585-headlice.json) |
 | Headliner: NoviNews | 107596 | [107596-headliner-novinews.json](./107596-headliner-novinews.json) |
 | Headlines from the Deep | 177312 | [177312-headlines-from-the-deep.json](./177312-headlines-from-the-deep.json) |
