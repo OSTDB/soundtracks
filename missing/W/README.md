@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Pinball | 209715 | [209715-war-pinball.json](./209715-war-pinball.json) |
 | War Pirates | 237639 | [237639-war-pirates.json](./237639-war-pirates.json) |
 | War Plan Orange: Dreadnoughts in the Pacific 1922 - 1930 | 215078 | [215078-war-plan-orange-dreadnoughts-in-the-pacific-1922-1930.json](./215078-war-plan-orange-dreadnoughts-in-the-pacific-1922-1930.json) |
+| War Plan Pacific | 59497 | [59497-war-plan-pacific.json](./59497-war-plan-pacific.json) |
 | War Platform | 112752 | [112752-war-platform.json](./112752-war-platform.json) |
 | War Platform: US Aircraft Carrier | 170857 | [170857-war-platform-us-aircraft-carrier.json](./170857-war-platform-us-aircraft-carrier.json) |
 | War Platform: VR Air Force Golden - Enhanced Edition | 170858 | [170858-war-platform-vr-air-force-golden-enhanced-edition.json](./170858-war-platform-vr-air-force-golden-enhanced-edition.json) |
@@ -2552,6 +2553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winnie The Pooh: The Serial Killer | 364538 | [364538-winnie-the-pooh-the-serial-killer.json](./364538-winnie-the-pooh-the-serial-killer.json) |
 | Winnie the Pooh's Book Writing Speedrunner | 347916 | [347916-winnie-the-poohs-book-writing-speedrunner.json](./347916-winnie-the-poohs-book-writing-speedrunner.json) |
 | Winnie the Witch | 205840 | [205840-winnie-the-witch.json](./205840-winnie-the-witch.json) |
+| Winnie Witch's Superbroom | 60047 | [60047-winnie-witchs-superbroom.json](./60047-winnie-witchs-superbroom.json) |
 | Winnie-the-Pooh Hops for Honey | 349335 | [349335-winnie-the-pooh-hops-for-honey.json](./349335-winnie-the-pooh-hops-for-honey.json) |
 | Winnie-the-Pooh: Black Honey | 366261 | [366261-winnie-the-pooh-black-honey.json](./366261-winnie-the-pooh-black-honey.json) |
 | Winning Eleven Play Maker 2010: Aoki Samurai no Chousen | 268207 | [268207-winning-eleven-play-maker-2010-aoki-samurai-no-chousen.json](./268207-winning-eleven-play-maker-2010-aoki-samurai-no-chousen.json) |
@@ -2614,6 +2616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Voices: Episode 4 - Amethyst Rivers | 65739 | [65739-winter-voices-episode-4-amethyst-rivers.json](./65739-winter-voices-episode-4-amethyst-rivers.json) |
 | Winter Walk | 63882 | [63882-winter-walk.json](./63882-winter-walk.json) |
 | Winter Walk 2006 | 326780 | [326780-winter-walk-2006.json](./326780-winter-walk-2006.json) |
+| Winter Wally | 60036 | [60036-winter-wally.json](./60036-winter-wally.json) |
 | Winter With You | 188108 | [188108-winter-with-you.json](./188108-winter-with-you.json) |
 | Winter Wonderland | 31179 | [31179-winter-wonderland.json](./31179-winter-wonderland.json) |
 | Winter Wonderland | 80461 | [80461-winter-wonderland.json](./80461-winter-wonderland.json) |
