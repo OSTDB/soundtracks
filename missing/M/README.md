@@ -2428,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mat Hoffman's Pro BMX | 249167 | [249167-mat-hoffmans-pro-bmx.json](./249167-mat-hoffmans-pro-bmx.json) |
 | Mat Hoffman's Pro BMX | 3994 | [3994-mat-hoffmans-pro-bmx.json](./3994-mat-hoffmans-pro-bmx.json) |
 | Mat Hoffman's Pro BMX 2 | 3993 | [3993-mat-hoffmans-pro-bmx-2.json](./3993-mat-hoffmans-pro-bmx-2.json) |
+| Mat Mania Challenge | 12333 | [12333-mat-mania-challenge.json](./12333-mat-mania-challenge.json) |
 | Mata Hari | 27853 | [27853-mata-hari.json](./27853-mata-hari.json) |
 | Mata Hari | 74309 | [74309-mata-hari.json](./74309-mata-hari.json) |
 | Mata Nui Online Game | 80240 | [80240-mata-nui-online-game.json](./80240-mata-nui-online-game.json) |
@@ -4923,6 +4924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Memories: Sonata of the Soul | 311278 | [311278-midnight-memories-sonata-of-the-soul.json](./311278-midnight-memories-sonata-of-the-soul.json) |
 | Midnight Murder Club | 312282 | [312282-midnight-murder-club.json](./312282-midnight-murder-club.json) |
 | Midnight Murder Maze | 365255 | [365255-midnight-murder-maze.json](./365255-midnight-murder-maze.json) |
+| Midnight Mutants | 12335 | [12335-midnight-mutants.json](./12335-midnight-mutants.json) |
 | Midnight Mysteries: Devil on the Mississippi - Collector's Edition | 89860 | [89860-midnight-mysteries-devil-on-the-mississippi-collectors-edition.json](./89860-midnight-mysteries-devil-on-the-mississippi-collectors-edition.json) |
 | Midnight Mysteries: Ghostwriting | 59874 | [59874-midnight-mysteries-ghostwriting.json](./59874-midnight-mysteries-ghostwriting.json) |
 | Midnight Mysteries: Salem Witch Trials - Collector's Edition | 94888 | [94888-midnight-mysteries-salem-witch-trials-collectors-edition.json](./94888-midnight-mysteries-salem-witch-trials-collectors-edition.json) |
@@ -7946,6 +7948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain 78 | 338212 | [338212-mountain-78.json](./338212-mountain-78.json) |
 | Mountain Bike Hill Climb Race: Real 2D Arcade Dirt Racing Games | 173137 | [173137-mountain-bike-hill-climb-race-real-2d-arcade-dirt-racing-games.json](./173137-mountain-bike-hill-climb-race-real-2d-arcade-dirt-racing-games.json) |
 | Mountain Biker | 116402 | [116402-mountain-biker.json](./116402-mountain-biker.json) |
+| Mountain King | 12315 | [12315-mountain-king.json](./12315-mountain-king.json) |
 | Mountain Legends 3 | 291254 | [291254-mountain-legends-3.json](./291254-mountain-legends-3.json) |
 | Mountain Madness | 236387 | [236387-mountain-madness.json](./236387-mountain-madness.json) |
 | Mountain Madness | 241523 | [241523-mountain-madness.json](./241523-mountain-madness.json) |
