@@ -1601,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fearless Wheels | 103889 | [103889-fearless-wheels.json](./103889-fearless-wheels.json) |
 | Fears | 15541 | [15541-fears.json](./15541-fears.json) |
 | Fears of Glasses O-O | 180008 | [180008-fears-of-glasses-o-o.json](./180008-fears-of-glasses-o-o.json) |
+| Fears to Fathom: Home Alone | 171390 | [171390-fears-to-fathom-home-alone.json](./171390-fears-to-fathom-home-alone.json) |
 | Feartten Noir Story | 195246 | [195246-feartten-noir-story.json](./195246-feartten-noir-story.json) |
 | Fearwoods | 388421 | [388421-fearwoods.json](./388421-fearwoods.json) |
 | Feast of the Beast: Unleashed | 381697 | [381697-feast-of-the-beast-unleashed.json](./381697-feast-of-the-beast-unleashed.json) |
@@ -2305,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XV: Holiday Pack | 350499 | [350499-final-fantasy-xv-holiday-pack.json](./350499-final-fantasy-xv-holiday-pack.json) |
 | Final Fantasy XV: King's Knight Tee | 350501 | [350501-final-fantasy-xv-kings-knight-tee.json](./350501-final-fantasy-xv-kings-knight-tee.json) |
 | Final Fantasy XV: Pocket Edition HD | 108156 | [108156-final-fantasy-xv-pocket-edition-hd.json](./108156-final-fantasy-xv-pocket-edition-hd.json) |
+| Final Fantasy XV: Royal Edition | 80877 | [80877-final-fantasy-xv-royal-edition.json](./80877-final-fantasy-xv-royal-edition.json) |
 | Final Fantasy XV: Special Edition | 205260 | [205260-final-fantasy-xv-special-edition.json](./205260-final-fantasy-xv-special-edition.json) |
 | Final Fantasy XVI Expansion Pass | 279665 | [279665-final-fantasy-xvi-expansion-pass.json](./279665-final-fantasy-xvi-expansion-pass.json) |
 | Final Fantasy XVI: Complete Edition | 318557 | [318557-final-fantasy-xvi-complete-edition.json](./318557-final-fantasy-xvi-complete-edition.json) |
