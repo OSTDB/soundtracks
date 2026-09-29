@@ -4348,6 +4348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno Domini 1259 | 356151 | [356151-anno-domini-1259.json](./356151-anno-domini-1259.json) |
 | Anno Mitsumasa Pepperon-mura no Shiki | 245246 | [245246-anno-mitsumasa-pepperon-mura-no-shiki.json](./245246-anno-mitsumasa-pepperon-mura-no-shiki.json) |
 | Anno: Build An Empire | 344911 | [344911-anno-build-an-empire.json](./344911-anno-build-an-empire.json) |
+| Anno: Mutationem | 106980 | [106980-anno-mutationem.json](./106980-anno-mutationem.json) |
 | Annoy This Guy | 290684 | [290684-annoy-this-guy.json](./290684-annoy-this-guy.json) |
 | Annoying Ball Game | 171598 | [171598-annoying-ball-game.json](./171598-annoying-ball-game.json) |
 | Annoying Orange Pinball | 266517 | [266517-annoying-orange-pinball.json](./266517-annoying-orange-pinball.json) |
@@ -5811,6 +5812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armed Air Forces | 193945 | [193945-armed-air-forces.json](./193945-armed-air-forces.json) |
 | Armed Air Forces | 242683 | [242683-armed-air-forces.json](./242683-armed-air-forces.json) |
 | Armed and Armoured | 190747 | [190747-armed-and-armoured.json](./190747-armed-and-armoured.json) |
+| Armed and Dangerous | 211 | [211-armed-and-dangerous.json](./211-armed-and-dangerous.json) |
 | Armed and Gelatinous: Couch Edition | 33447 | [33447-armed-and-gelatinous-couch-edition.json](./33447-armed-and-gelatinous-couch-edition.json) |
 | Armed and Gorgeous HD | 22335 | [22335-armed-and-gorgeous-hd.json](./22335-armed-and-gorgeous-hd.json) |
 | Armed Animals RPG | 365060 | [365060-armed-animals-rpg.json](./365060-armed-animals-rpg.json) |
@@ -7493,6 +7495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar: The Last Airbender - Quest for Balance | 255085 | [255085-avatar-the-last-airbender-quest-for-balance.json](./255085-avatar-the-last-airbender-quest-for-balance.json) |
 | Avatar: The Last Airbender - The Burning Earth | 210252 | [210252-avatar-the-last-airbender-the-burning-earth.json](./210252-avatar-the-last-airbender-the-burning-earth.json) |
 | Avatar: The Last Airbender - The Burning Earth | 210253 | [210253-avatar-the-last-airbender-the-burning-earth.json](./210253-avatar-the-last-airbender-the-burning-earth.json) |
+| Avatar: The Last Airbender - The Burning Earth | 4685 | [4685-avatar-the-last-airbender-the-burning-earth.json](./4685-avatar-the-last-airbender-the-burning-earth.json) |
 | Avatar's Demise | 263488 | [263488-avatars-demise.json](./263488-avatars-demise.json) |
 | Avatars Saga | 243704 | [243704-avatars-saga.json](./243704-avatars-saga.json) |
 | Avava | 207287 | [207287-avava.json](./207287-avava.json) |
