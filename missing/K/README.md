@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kardinal & König | 68959 | [68959-kardinal-and-konig.json](./68959-kardinal-and-konig.json) |
 | Kardiossomatic | 185137 | [185137-kardiossomatic.json](./185137-kardiossomatic.json) |
 | Kardmi | 335988 | [335988-kardmi.json](./335988-kardmi.json) |
+| Kards: The WWII Card Game | 75140 | [75140-kards-the-wwii-card-game.json](./75140-kards-the-wwii-card-game.json) |
 | Kardun | 214183 | [214183-kardun.json](./214183-kardun.json) |
 | KardVenture | 252720 | [252720-kardventure.json](./252720-kardventure.json) |
 | Kare Kano Trial: Toki wo Kakeru Toki-meki Daisakusen | 339124 | [339124-kare-kano-trial-toki-wo-kakeru-toki-meki-daisakusen.json](./339124-kare-kano-trial-toki-wo-kakeru-toki-meki-daisakusen.json) |
