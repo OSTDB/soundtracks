@@ -2093,6 +2093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caverns of Zoarre | 2874 | [2874-caverns-of-zoarre.json](./2874-caverns-of-zoarre.json) |
 | Caverns: Lost Sky | 113494 | [113494-caverns-lost-sky.json](./113494-caverns-lost-sky.json) |
 | Caves of Lore | 232976 | [232976-caves-of-lore.json](./232976-caves-of-lore.json) |
+| Caves of Olympus | 25852 | [25852-caves-of-olympus.json](./25852-caves-of-olympus.json) |
 | Caves of Qud | 24054 | [24054-caves-of-qud.json](./24054-caves-of-qud.json) |
 | Caves of Qud: Pets of Harvest Dawn | 389407 | [389407-caves-of-qud-pets-of-harvest-dawn.json](./389407-caves-of-qud-pets-of-harvest-dawn.json) |
 | Caves, Canyons & Crevices | 271774 | [271774-caves-canyons-and-crevices.json](./271774-caves-canyons-and-crevices.json) |
@@ -5738,6 +5739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conan Exiles: Treasures of Turan Pack | 164779 | [164779-conan-exiles-treasures-of-turan-pack.json](./164779-conan-exiles-treasures-of-turan-pack.json) |
 | Conan the mighty pig | 32411 | [32411-conan-the-mighty-pig.json](./32411-conan-the-mighty-pig.json) |
 | Conan Unconquered | 113208 | [113208-conan-unconquered.json](./113208-conan-unconquered.json) |
+| Conan: Hall of Volta | 25820 | [25820-conan-hall-of-volta.json](./25820-conan-hall-of-volta.json) |
 | Conarium | 24856 | [24856-conarium.json](./24856-conarium.json) |
 | Conbunn Cardboard | 204099 | [204099-conbunn-cardboard.json](./204099-conbunn-cardboard.json) |
 | Conc Jump | 132852 | [132852-conc-jump.json](./132852-conc-jump.json) |
