@@ -2151,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fina | 127981 | [127981-fina.json](./127981-fina.json) |
 | Final 5: Survival! | 234332 | [234332-final-5-survival.json](./234332-final-5-survival.json) |
 | Final Armada | 43297 | [43297-final-armada.json](./43297-final-armada.json) |
+| Final Assault | 39115 | [39115-final-assault.json](./39115-final-assault.json) |
 | Final Blade | 115187 | [115187-final-blade.json](./115187-final-blade.json) |
 | Final Blaster | 37713 | [37713-final-blaster.json](./37713-final-blaster.json) |
 | Final Blockade | 203567 | [203567-final-blockade.json](./203567-final-blockade.json) |
