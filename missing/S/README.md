@@ -2593,6 +2593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sepium | 390240 | [390240-sepium.json](./390240-sepium.json) |
 | Septem: The Preparation | 384639 | [384639-septem-the-preparation.json](./384639-septem-the-preparation.json) |
 | September 1999 | 110468 | [110468-september-1999.json](./110468-september-1999.json) |
+| September 7th | 230769 | [230769-september-7th.json](./230769-september-7th.json) |
 | September is Halfway Over | 131552 | [131552-september-is-halfway-over.json](./131552-september-is-halfway-over.json) |
 | September Secrets | 82180 | [82180-september-secrets.json](./82180-september-secrets.json) |
 | Septic | 324321 | [324321-septic.json](./324321-septic.json) |
@@ -3182,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowgate Classic | 8699 | [8699-shadowgate-classic.json](./8699-shadowgate-classic.json) |
 | Shadowgate: MacVenture Series | 35911 | [35911-shadowgate-macventure-series.json](./35911-shadowgate-macventure-series.json) |
 | Shadowgate: Special Edition | 51913 | [51913-shadowgate-special-edition.json](./51913-shadowgate-special-edition.json) |
+| Shadowgrounds Survivor | 9931 | [9931-shadowgrounds-survivor.json](./9931-shadowgrounds-survivor.json) |
 | Shadowgun: DeadZone | 39172 | [39172-shadowgun-deadzone.json](./39172-shadowgun-deadzone.json) |
 | Shadowhand Solitaire | 322568 | [322568-shadowhand-solitaire.json](./322568-shadowhand-solitaire.json) |
 | ShadowHawk | 37885 | [37885-shadowhawk.json](./37885-shadowhawk.json) |
@@ -11280,6 +11282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarCrossed | 28770 | [28770-starcrossed.json](./28770-starcrossed.json) |
 | Starcult. Night: Twisted Age | 402990 | [402990-starcult-night-twisted-age.json](./402990-starcult-night-twisted-age.json) |
 | Stardeus | 139453 | [139453-stardeus.json](./139453-stardeus.json) |
+| Stardew Valley Expanded | 210537 | [210537-stardew-valley-expanded.json](./210537-stardew-valley-expanded.json) |
 | Stardew Valley: Collector's Edition | 42895 | [42895-stardew-valley-collectors-edition.json](./42895-stardew-valley-collectors-edition.json) |
 | Stardoll Dress Up Blog Stars | 357220 | [357220-stardoll-dress-up-blog-stars.json](./357220-stardoll-dress-up-blog-stars.json) |
 | Stardom 2000 | 380431 | [380431-stardom-2000.json](./380431-stardom-2000.json) |
@@ -12176,6 +12179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StickType: StickLady | 218469 | [218469-sticktype-sticklady.json](./218469-sticktype-sticklady.json) |
 | StickWars | 90800 | [90800-stickwars.json](./90800-stickwars.json) |
 | Sticky Balls | 94905 | [94905-sticky-balls.json](./94905-sticky-balls.json) |
+| Sticky Business | 240514 | [240514-sticky-business.json](./240514-sticky-business.json) |
 | Sticky Business: Seaside Tales | 411002 | [411002-sticky-business-seaside-tales.json](./411002-sticky-business-seaside-tales.json) |
 | Sticky Castle | 232031 | [232031-sticky-castle.json](./232031-sticky-castle.json) |
 | Sticky Keys | 178986 | [178986-sticky-keys.json](./178986-sticky-keys.json) |
@@ -14547,6 +14551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Story | 313110 | [313110-super-mario-story.json](./313110-super-mario-story.json) |
 | Super Mario Subpop | 320159 | [320159-super-mario-subpop.json](./320159-super-mario-subpop.json) |
 | Super Mario Sunburn | 135148 | [135148-super-mario-sunburn.json](./135148-super-mario-sunburn.json) |
+| Super Mario Sunshine | 229177 | [229177-super-mario-sunshine.json](./229177-super-mario-sunshine.json) |
 | Super Mario Sunshine 64 | 159263 | [159263-super-mario-sunshine-64.json](./159263-super-mario-sunshine-64.json) |
 | Super Mario Sunshine Arcade 2 | 213038 | [213038-super-mario-sunshine-arcade-2.json](./213038-super-mario-sunshine-arcade-2.json) |
 | Super Mario Sunshine in Super Mario 64 | 235173 | [235173-super-mario-sunshine-in-super-mario-64.json](./235173-super-mario-sunshine-in-super-mario-64.json) |
