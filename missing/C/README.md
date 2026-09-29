@@ -4239,6 +4239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Warlords | 153333 | [153333-clash-of-warlords.json](./153333-clash-of-warlords.json) |
 | Clash of Warriors: 9 Legends | 56428 | [56428-clash-of-warriors-9-legends.json](./56428-clash-of-warriors-9-legends.json) |
 | Clash Quest | 145533 | [145533-clash-quest.json](./145533-clash-quest.json) |
+| Clash Royale | 15707 | [15707-clash-royale.json](./15707-clash-royale.json) |
 | Clash-Road | 46863 | [46863-clash-road.json](./46863-clash-road.json) |
 | Clash: Artifacts of Chaos - Lone Fighter Pack | 336141 | [336141-clash-artifacts-of-chaos-lone-fighter-pack.json](./336141-clash-artifacts-of-chaos-lone-fighter-pack.json) |
 | Clash: Artifacts of Chaos - Supporter Pack | 336137 | [336137-clash-artifacts-of-chaos-supporter-pack.json](./336137-clash-artifacts-of-chaos-supporter-pack.json) |
