@@ -586,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Realm: Online | 102934 | [102934-magic-realm-online.json](./102934-magic-realm-online.json) |
 | Magic Revenge: Casual Idle RPG | 180234 | [180234-magic-revenge-casual-idle-rpg.json](./180234-magic-revenge-casual-idle-rpg.json) |
 | Magic Rune Stone | 333367 | [333367-magic-rune-stone.json](./333367-magic-rune-stone.json) |
+| Magic Rush: Heroes | 57159 | [57159-magic-rush-heroes.json](./57159-magic-rush-heroes.json) |
 | Magic School Bus Lands on Mars | 74082 | [74082-magic-school-bus-lands-on-mars.json](./74082-magic-school-bus-lands-on-mars.json) |
 | Magic School Bus Volcano Adventure | 69818 | [69818-magic-school-bus-volcano-adventure.json](./69818-magic-school-bus-volcano-adventure.json) |
 | Magic School Bus Whales and Dolphins | 71579 | [71579-magic-school-bus-whales-and-dolphins.json](./71579-magic-school-bus-whales-and-dolphins.json) |
@@ -2881,6 +2882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meatmare | 334306 | [334306-meatmare.json](./334306-meatmare.json) |
 | Meatsauce Madness: The Game | 174271 | [174271-meatsauce-madness-the-game.json](./174271-meatsauce-madness-the-game.json) |
 | Meaty McSkinBones | 116281 | [116281-meaty-mcskinbones.json](./116281-meaty-mcskinbones.json) |
+| Meawja | 57194 | [57194-meawja.json](./57194-meawja.json) |
 | Mebius Adventure | 206172 | [206172-mebius-adventure.json](./206172-mebius-adventure.json) |
 | Meccha! Taiko no Tatsujin DS: 7-tsu no Shima no Daibouken | 72548 | [72548-meccha-taiko-no-tatsujin-ds-7-tsu-no-shima-no-daibouken.json](./72548-meccha-taiko-no-tatsujin-ds-7-tsu-no-shima-no-daibouken.json) |
 | Mech 4X | 395899 | [395899-mech-4x.json](./395899-mech-4x.json) |
@@ -4079,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merry Go Round | 287636 | [287636-merry-go-round.json](./287636-merry-go-round.json) |
 | Merry Go Wrong | 181323 | [181323-merry-go-wrong.json](./181323-merry-go-wrong.json) |
 | Merry Snowballs | 27016 | [27016-merry-snowballs.json](./27016-merry-snowballs.json) |
+| Merry Xmas Santa | 57170 | [57170-merry-xmas-santa.json](./57170-merry-xmas-santa.json) |
 | Merto's Part | 168644 | [168644-mertos-part.json](./168644-mertos-part.json) |
 | Meru Purana | 125421 | [125421-meru-purana.json](./125421-meru-purana.json) |
 | Merv Liberation | 112495 | [112495-merv-liberation.json](./112495-merv-liberation.json) |
@@ -6548,6 +6551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moneyball! | 125937 | [125937-moneyball.json](./125937-moneyball.json) |
 | Mongol | 227967 | [227967-mongol.json](./227967-mongol.json) |
 | Mongol 2 | 370339 | [370339-mongol-2.json](./370339-mongol-2.json) |
+| Mongrel | 57197 | [57197-mongrel.json](./57197-mongrel.json) |
 | Mônica Dentuça | 216273 | [216273-monica-dentuca.json](./216273-monica-dentuca.json) |
 | Mônica no Castelo do Dragão | 9557 | [9557-monica-no-castelo-do-dragao.json](./9557-monica-no-castelo-do-dragao.json) |
 | Monica's Paradox | 276222 | [276222-monicas-paradox.json](./276222-monicas-paradox.json) |
@@ -9452,6 +9456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth or Reality: Mystery of the Lake DLC | 268997 | [268997-myth-or-reality-mystery-of-the-lake-dlc.json](./268997-myth-or-reality-mystery-of-the-lake-dlc.json) |
 | Myth or Reality: Snowbound Secrets - Collector's Edition | 337277 | [337277-myth-or-reality-snowbound-secrets-collectors-edition.json](./337277-myth-or-reality-snowbound-secrets-collectors-edition.json) |
 | Myth Survivor | 337642 | [337642-myth-survivor.json](./337642-myth-survivor.json) |
+| Myth War II | 57156 | [57156-myth-war-ii.json](./57156-myth-war-ii.json) |
 | Myth: Anthology | 72025 | [72025-myth-anthology.json](./72025-myth-anthology.json) |
 | Myth: History in the Making | 12187 | [12187-myth-history-in-the-making.json](./12187-myth-history-in-the-making.json) |
 | Myth: Make Your True Hero | 143702 | [143702-myth-make-your-true-hero.json](./143702-myth-make-your-true-hero.json) |
