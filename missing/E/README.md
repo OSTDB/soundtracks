@@ -1686,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endure Island | 213976 | [213976-endure-island.json](./213976-endure-island.json) |
 | Endure or Perish | 288223 | [288223-endure-or-perish.json](./288223-endure-or-perish.json) |
 | Enduro Racer | 37159 | [37159-enduro-racer.json](./37159-enduro-racer.json) |
+| Enduro Racer | 6666 | [6666-enduro-racer.json](./6666-enduro-racer.json) |
 | EndZ Village | 119630 | [119630-endz-village.json](./119630-endz-village.json) |
 | Endzeit | 115145 | [115145-endzeit.json](./115145-endzeit.json) |
 | Endzeit | 243785 | [243785-endzeit.json](./243785-endzeit.json) |
