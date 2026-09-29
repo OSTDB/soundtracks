@@ -2906,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessmaster 8000 | 15881 | [15881-chessmaster-8000.json](./15881-chessmaster-8000.json) |
 | Chessmaster 9000 | 15882 | [15882-chessmaster-9000.json](./15882-chessmaster-9000.json) |
 | Chessmaster Challenge | 73219 | [73219-chessmaster-challenge.json](./73219-chessmaster-challenge.json) |
+| Chessmaster II | 44719 | [44719-chessmaster-ii.json](./44719-chessmaster-ii.json) |
 | Chessmaster Live: Breaking the Lines | 345138 | [345138-chessmaster-live-breaking-the-lines.json](./345138-chessmaster-live-breaking-the-lines.json) |
 | Chessmaster Live: Calvert Chess Set | 344953 | [344953-chessmaster-live-calvert-chess-set.json](./344953-chessmaster-live-calvert-chess-set.json) |
 | Chessmaster Live: Chain Reaction | 345139 | [345139-chessmaster-live-chain-reaction.json](./345139-chessmaster-live-chain-reaction.json) |
