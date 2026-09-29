@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaga Wars | 58309 | [58309-galaga-wars.json](./58309-galaga-wars.json) |
 | Galaga Wars+ | 291975 | [291975-galaga-wars.json](./291975-galaga-wars.json) |
 | Galaga Wave Mixer | 339253 | [339253-galaga-wave-mixer.json](./339253-galaga-wave-mixer.json) |
+| Galaga: Demons of Death | 84558 | [84558-galaga-demons-of-death.json](./84558-galaga-demons-of-death.json) |
 | Galaga: Destination Earth | 12895 | [12895-galaga-destination-earth.json](./12895-galaga-destination-earth.json) |
 | Galaga: Destination Earth | 281474 | [281474-galaga-destination-earth.json](./281474-galaga-destination-earth.json) |
 | Galagan's Island: Reprymian Rising | 21297 | [21297-galagans-island-reprymian-rising.json](./21297-galagans-island-reprymian-rising.json) |
