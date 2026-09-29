@@ -2940,6 +2940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everybody Herds | 350425 | [350425-everybody-herds.json](./350425-everybody-herds.json) |
 | Everybody Loves Skeletons | 121453 | [121453-everybody-loves-skeletons.json](./121453-everybody-loves-skeletons.json) |
 | Everybody's Golf | 28187 | [28187-everybodys-golf.json](./28187-everybodys-golf.json) |
+| Everybody's Golf Mobile | 44075 | [44075-everybodys-golf-mobile.json](./44075-everybodys-golf-mobile.json) |
 | Everybody's Golf Portable: Coca Cola Special Edition | 73361 | [73361-everybodys-golf-portable-coca-cola-special-edition.json](./73361-everybodys-golf-portable-coca-cola-special-edition.json) |
 | Everybody's Golf VR: Digital Deluxe Edition | 118935 | [118935-everybodys-golf-vr-digital-deluxe-edition.json](./118935-everybodys-golf-vr-digital-deluxe-edition.json) |
 | Everybody's Gone to the Rapture | 7405 | [7405-everybodys-gone-to-the-rapture.json](./7405-everybodys-gone-to-the-rapture.json) |
