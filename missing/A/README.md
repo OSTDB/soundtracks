@@ -2562,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alida | 7665 | [7665-alida.json](./7665-alida.json) |
 | Alien | 245251 | [245251-alien.json](./245251-alien.json) |
 | Alien | 25132 | [25132-alien.json](./25132-alien.json) |
+| Alien 3 | 273014 | [273014-alien-3.json](./273014-alien-3.json) |
 | Alien 3 | 8908 | [8908-alien-3.json](./8908-alien-3.json) |
 | Alien 911 | 117523 | [117523-alien-911.json](./117523-alien-911.json) |
 | Alien Afteflife | 182807 | [182807-alien-afteflife.json](./182807-alien-afteflife.json) |
@@ -6735,6 +6736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrela Starlight | 107914 | [107914-astrela-starlight.json](./107914-astrela-starlight.json) |
 | Astria | 169971 | [169971-astria.json](./169971-astria.json) |
 | Astria | 292588 | [292588-astria.json](./292588-astria.json) |
+| Astria Ascending | 145107 | [145107-astria-ascending.json](./145107-astria-ascending.json) |
 | Astria Ascending: Collector's Edition | 173776 | [173776-astria-ascending-collectors-edition.json](./173776-astria-ascending-collectors-edition.json) |
 | Astrid | 207304 | [207304-astrid.json](./207304-astrid.json) |
 | Astrid & the Witch | 177941 | [177941-astrid-and-the-witch.json](./177941-astrid-and-the-witch.json) |
