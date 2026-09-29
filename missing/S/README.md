@@ -1505,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scourge of Worlds | 107628 | [107628-scourge-of-worlds.json](./107628-scourge-of-worlds.json) |
 | Scourge Outbreak: Blindside | 167710 | [167710-scourge-outbreak-blindside.json](./167710-scourge-outbreak-blindside.json) |
 | ScourgeBringer | 115899 | [115899-scourgebringer.json](./115899-scourgebringer.json) |
+| Scout | 56584 | [56584-scout.json](./56584-scout.json) |
 | Scout Search | 70098 | [70098-scout-search.json](./70098-scout-search.json) |
 | Scouter | 316613 | [316613-scouter.json](./316613-scouter.json) |
 | Scouts Out | 413034 | [413034-scouts-out.json](./413034-scouts-out.json) |
@@ -2331,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekai Saikyou Ginsei Igo 6 | 83469 | [83469-sekai-saikyou-ginsei-igo-6.json](./83469-sekai-saikyou-ginsei-igo-6.json) |
 | Sekai Saikyou Ginsei Shogi | 56158 | [56158-sekai-saikyou-ginsei-shogi.json](./56158-sekai-saikyou-ginsei-shogi.json) |
 | Sekai to Sekai no Mannaka de | 187532 | [187532-sekai-to-sekai-no-mannaka-de.json](./187532-sekai-to-sekai-no-mannaka-de.json) |
+| Sekaiju no Meikyubey | 56579 | [56579-sekaiju-no-meikyubey.json](./56579-sekaiju-no-meikyubey.json) |
 | Sekibanki Head Adventure | 158520 | [158520-sekibanki-head-adventure.json](./158520-sekibanki-head-adventure.json) |
 | Sekien no Inganock ~What a Beautiful People~ Fullvoice ReBORN | 378204 | [378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json](./378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json) |
 | Sekirei: Mirai Kara no Okurimono | 65547 | [65547-sekirei-mirai-kara-no-okurimono.json](./65547-sekirei-mirai-kara-no-okurimono.json) |
@@ -14843,6 +14845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 1500 series: The Tetris | 98801 | [98801-superlite-1500-series-the-tetris.json](./98801-superlite-1500-series-the-tetris.json) |
 | SuperLite 1500: Crazy Balloon 2000 | 97323 | [97323-superlite-1500-crazy-balloon-2000.json](./97323-superlite-1500-crazy-balloon-2000.json) |
 | SuperLite 2000: Oekaki Puzzle | 386127 | [386127-superlite-2000-oekaki-puzzle.json](./386127-superlite-2000-oekaki-puzzle.json) |
+| SuperLite 2000: Tokyo Bus Annai Kyou kara Kimi mo Untenshu | 56547 | [56547-superlite-2000-tokyo-bus-annai-kyou-kara-kimi-mo-untenshu.json](./56547-superlite-2000-tokyo-bus-annai-kyou-kara-kimi-mo-untenshu.json) |
 | SuperLite 3in1 Series: Nankuro Shuu | 386217 | [386217-superlite-3in1-series-nankuro-shuu.json](./386217-superlite-3in1-series-nankuro-shuu.json) |
 | SuperLite 3in1: Arcade Game Shuu | 97299 | [97299-superlite-3in1-arcade-game-shuu.json](./97299-superlite-3in1-arcade-game-shuu.json) |
 | Superlunary: Episode 1.0 | 136873 | [136873-superlunary-episode-1-0.json](./136873-superlunary-episode-1-0.json) |
