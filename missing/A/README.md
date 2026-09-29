@@ -2689,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien: Isolation - Trauma | 15553 | [15553-alien-isolation-trauma.json](./15553-alien-isolation-trauma.json) |
 | Alien's Return | 79315 | [79315-aliens-return.json](./79315-aliens-return.json) |
 | AlienAfterlife | 114220 | [114220-alienafterlife.json](./114220-alienafterlife.json) |
+| Alienation | 7600 | [7600-alienation.json](./7600-alienation.json) |
 | Alienator | 332245 | [332245-alienator.json](./332245-alienator.json) |
 | Aliencity | 383636 | [383636-aliencity.json](./383636-aliencity.json) |
 | Alienoid | 57685 | [57685-alienoid.json](./57685-alienoid.json) |
