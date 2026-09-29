@@ -5441,6 +5441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hush | 95475 | [95475-hush.json](./95475-hush.json) |
 | Hush - Into the Darkness | 50155 | [50155-hush-into-the-darkness.json](./50155-hush-into-the-darkness.json) |
 | Hush Darling | 415099 | [415099-hush-darling.json](./415099-hush-darling.json) |
+| Hush Hush - Unlimited Survival Horror | 33344 | [33344-hush-hush-unlimited-survival-horror.json](./33344-hush-hush-unlimited-survival-horror.json) |
 | Hush Hush High | 303555 | [303555-hush-hush-high.json](./303555-hush-hush-high.json) |
 | Hush Little Lily | 177395 | [177395-hush-little-lily.json](./177395-hush-little-lily.json) |
 | Hush: In Search of Dominic Ward | 116298 | [116298-hush-in-search-of-dominic-ward.json](./116298-hush-in-search-of-dominic-ward.json) |
