@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakkouke | 284341 | [284341-kakkouke.json](./284341-kakkouke.json) |
 | Kako Yatai | 283807 | [283807-kako-yatai.json](./283807-kako-yatai.json) |
 | Kakosatsu | 109181 | [109181-kakosatsu.json](./109181-kakosatsu.json) |
+| Kaku-San-Sei Million Arthur | 44073 | [44073-kaku-san-sei-million-arthur.json](./44073-kaku-san-sei-million-arthur.json) |
 | Kakuchou Shoujo-kei Trinary | 346771 | [346771-kakuchou-shoujo-kei-trinary.json](./346771-kakuchou-shoujo-kei-trinary.json) |
 | Kakuge Yarou: Fighting Game Creator | 43920 | [43920-kakuge-yarou-fighting-game-creator.json](./43920-kakuge-yarou-fighting-game-creator.json) |
 | Kakurenbo no Oto: Hidden Notes | 172741 | [172741-kakurenbo-no-oto-hidden-notes.json](./172741-kakurenbo-no-oto-hidden-notes.json) |
