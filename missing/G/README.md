@@ -4700,6 +4700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumnaam | 215353 | [215353-gumnaam.json](./215353-gumnaam.json) |
 | Gump Jump | 209647 | [209647-gump-jump.json](./209647-gump-jump.json) |
 | Gump Runner | 29183 | [29183-gump-runner.json](./29183-gump-runner.json) |
+| Gumshoe | 18834 | [18834-gumshoe.json](./18834-gumshoe.json) |
 | Gumslinger | 138594 | [138594-gumslinger.json](./138594-gumslinger.json) |
 | Gumtrix | 60761 | [60761-gumtrix.json](./60761-gumtrix.json) |
 | Gun | 248547 | [248547-gun.json](./248547-gun.json) |
