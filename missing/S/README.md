@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabak Legend | 123563 | [123563-sabak-legend.json](./123563-sabak-legend.json) |
 | Saban's Mighty Morphin Power Rangers: Mega Battle | 78258 | [78258-sabans-mighty-morphin-power-rangers-mega-battle.json](./78258-sabans-mighty-morphin-power-rangers-mega-battle.json) |
 | Saban's Power Rangers Zeo Versus the Machine Empire | 73341 | [73341-sabans-power-rangers-zeo-versus-the-machine-empire.json](./73341-sabans-power-rangers-zeo-versus-the-machine-empire.json) |
+| Saban's VR Troopers | 19718 | [19718-sabans-vr-troopers.json](./19718-sabans-vr-troopers.json) |
 | Sabat Fight Arena | 116110 | [116110-sabat-fight-arena.json](./116110-sabat-fight-arena.json) |
 | Sabbat of the Witch | 105342 | [105342-sabbat-of-the-witch.json](./105342-sabbat-of-the-witch.json) |
 | Saber Fight VR | 127529 | [127529-saber-fight-vr.json](./127529-saber-fight-vr.json) |
@@ -3060,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Depth | 273428 | [273428-shadow-of-the-depth.json](./273428-shadow-of-the-depth.json) |
 | Shadow of the Devil | 291048 | [291048-shadow-of-the-devil.json](./291048-shadow-of-the-devil.json) |
 | Shadow Of The Devil | 253855 | [253855-shadow-of-the-devil.json](./253855-shadow-of-the-devil.json) |
+| Shadow of the Eternals | 19790 | [19790-shadow-of-the-eternals.json](./19790-shadow-of-the-eternals.json) |
 | Shadow of the Five Moons: Code of the Ninja | 371427 | [371427-shadow-of-the-five-moons-code-of-the-ninja.json](./371427-shadow-of-the-five-moons-code-of-the-ninja.json) |
 | Shadow of The Forerunner | 379567 | [379567-shadow-of-the-forerunner.json](./379567-shadow-of-the-forerunner.json) |
 | Shadow of The Forgotten | 336006 | [336006-shadow-of-the-forgotten.json](./336006-shadow-of-the-forgotten.json) |
@@ -3098,6 +3100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Siege | 326229 | [326229-shadow-siege.json](./326229-shadow-siege.json) |
 | Shadow Skimmer | 37186 | [37186-shadow-skimmer.json](./37186-shadow-skimmer.json) |
 | Shadow Spotter | 231653 | [231653-shadow-spotter.json](./231653-shadow-spotter.json) |
+| Shadow Squadron | 19763 | [19763-shadow-squadron.json](./19763-shadow-squadron.json) |
 | Shadow Stalker | 264319 | [264319-shadow-stalker.json](./264319-shadow-stalker.json) |
 | Shadow Storm | 331312 | [331312-shadow-storm.json](./331312-shadow-storm.json) |
 | Shadow Strikers | 270194 | [270194-shadow-strikers.json](./270194-shadow-strikers.json) |
@@ -7763,6 +7766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Chaos Revolution | 329946 | [329946-sonic-chaos-revolution.json](./329946-sonic-chaos-revolution.json) |
 | Sonic Charge | 331436 | [331436-sonic-charge.json](./331436-sonic-charge.json) |
 | Sonic Chronicles: The Dark Brotherhood | 299874 | [299874-sonic-chronicles-the-dark-brotherhood.json](./299874-sonic-chronicles-the-dark-brotherhood.json) |
+| Sonic Chrono Adventure | 19739 | [19739-sonic-chrono-adventure.json](./19739-sonic-chrono-adventure.json) |
 | Sonic Classic | 175974 | [175974-sonic-classic.json](./175974-sonic-classic.json) |
 | Sonic Classic 2 | 175975 | [175975-sonic-classic-2.json](./175975-sonic-classic-2.json) |
 | Sonic Clockwork | 417679 | [417679-sonic-clockwork.json](./417679-sonic-clockwork.json) |
@@ -8098,6 +8102,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic XN | 331666 | [331666-sonic-xn.json](./331666-sonic-xn.json) |
 | Sonic Xtreme 2D | 315027 | [315027-sonic-xtreme-2d.json](./315027-sonic-xtreme-2d.json) |
 | Sonic Zoom | 270223 | [270223-sonic-zoom.json](./270223-sonic-zoom.json) |
+| Sonic: After the Sequel | 19722 | [19722-sonic-after-the-sequel.json](./19722-sonic-after-the-sequel.json) |
+| Sonic: Before the Sequel | 19723 | [19723-sonic-before-the-sequel.json](./19723-sonic-before-the-sequel.json) |
 | Sonic: Before the Sequel - Redux | 266508 | [266508-sonic-before-the-sequel-redux.json](./266508-sonic-before-the-sequel-redux.json) |
 | Sonic: Dark Horizon | 330822 | [330822-sonic-dark-horizon.json](./330822-sonic-dark-horizon.json) |
 | Sonic: Death Days | 331711 | [331711-sonic-death-days.json](./331711-sonic-death-days.json) |
@@ -12354,6 +12360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger in Utopia | 273871 | [273871-stranger-in-utopia.json](./273871-stranger-in-utopia.json) |
 | Stranger of Paradise: Final Fantasy Origin - Collector's Edition | 201028 | [201028-stranger-of-paradise-final-fantasy-origin-collectors-edition.json](./201028-stranger-of-paradise-final-fantasy-origin-collectors-edition.json) |
 | Stranger of Paradise: Final Fantasy Origin - Digital Deluxe Edition | 173775 | [173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json](./173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json) |
+| Stranger of Sword City 2 | 19801 | [19801-stranger-of-sword-city-2.json](./19801-stranger-of-sword-city-2.json) |
 | Stranger of Sword City: Limited Edition | 42681 | [42681-stranger-of-sword-city-limited-edition.json](./42681-stranger-of-sword-city-limited-edition.json) |
 | Stranger Than Heaven | 325599 | [325599-stranger-than-heaven.json](./325599-stranger-than-heaven.json) |
 | Stranger Things VR | 225668 | [225668-stranger-things-vr.json](./225668-stranger-things-vr.json) |
@@ -14116,6 +14123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lode Runner II | 48676 | [48676-super-lode-runner-ii.json](./48676-super-lode-runner-ii.json) |
 | Super Lone Survivor | 140603 | [140603-super-lone-survivor.json](./140603-super-lone-survivor.json) |
 | Super Long Boy | 251022 | [251022-super-long-boy.json](./251022-super-long-boy.json) |
+| Super Lotsa Added Stuff Hack | 19777 | [19777-super-lotsa-added-stuff-hack.json](./19777-super-lotsa-added-stuff-hack.json) |
 | Super Lucky's Tale: Gilly Island | 171369 | [171369-super-luckys-tale-gilly-island.json](./171369-super-luckys-tale-gilly-island.json) |
 | Super Luigi and the Golden Shrooms | 135128 | [135128-super-luigi-and-the-golden-shrooms.json](./135128-super-luigi-and-the-golden-shrooms.json) |
 | Super Luigi Bros. | 198471 | [198471-super-luigi-bros.json](./198471-super-luigi-bros.json) |
