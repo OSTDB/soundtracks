@@ -1346,6 +1346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball | 300004 | [300004-baseball.json](./300004-baseball.json) |
 | Baseball | 305278 | [305278-baseball.json](./305278-baseball.json) |
 | Baseball | 7580 | [7580-baseball.json](./7580-baseball.json) |
+| Baseball | 7581 | [7581-baseball.json](./7581-baseball.json) |
 | Baseball 101 | 230839 | [230839-baseball-101.json](./230839-baseball-101.json) |
 | Baseball 3DS | 21150 | [21150-baseball-3ds.json](./21150-baseball-3ds.json) |
 | Baseball 9 | 159122 | [159122-baseball-9.json](./159122-baseball-9.json) |
@@ -1791,6 +1792,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Frigates | 61595 | [61595-battle-of-frigates.json](./61595-battle-of-frigates.json) |
 | Battle of Genesis | 269045 | [269045-battle-of-genesis.json](./269045-battle-of-genesis.json) |
 | Battle of Giants: Dinosaurs Strike | 7907 | [7907-battle-of-giants-dinosaurs-strike.json](./7907-battle-of-giants-dinosaurs-strike.json) |
+| Battle of Giants: Dragons | 7908 | [7908-battle-of-giants-dragons.json](./7908-battle-of-giants-dragons.json) |
+| Battle of Giants: Mutant Insects | 7909 | [7909-battle-of-giants-mutant-insects.json](./7909-battle-of-giants-mutant-insects.json) |
 | Battle of Goldfish Scooping | 380121 | [380121-battle-of-goldfish-scooping.json](./380121-battle-of-goldfish-scooping.json) |
 | Battle of Guang | 358489 | [358489-battle-of-guang.json](./358489-battle-of-guang.json) |
 | Battle of Heroes 3 | 196877 | [196877-battle-of-heroes-3.json](./196877-battle-of-heroes-3.json) |
