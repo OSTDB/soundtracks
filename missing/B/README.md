@@ -1595,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Alchemy: Autobattler | 275879 | [275879-battle-alchemy-autobattler.json](./275879-battle-alchemy-autobattler.json) |
 | Battle Alliance | 197788 | [197788-battle-alliance.json](./197788-battle-alliance.json) |
 | Battle Arena | 121647 | [121647-battle-arena.json](./121647-battle-arena.json) |
+| Battle Arena Nitoushinden | 44773 | [44773-battle-arena-nitoushinden.json](./44773-battle-arena-nitoushinden.json) |
 | Battle Arena Toshinden | 217927 | [217927-battle-arena-toshinden.json](./217927-battle-arena-toshinden.json) |
 | Battle Arena Toshinden | 225275 | [225275-battle-arena-toshinden.json](./225275-battle-arena-toshinden.json) |
 | Battle Arena Toshinden 2 | 1414 | [1414-battle-arena-toshinden-2.json](./1414-battle-arena-toshinden-2.json) |
@@ -5350,6 +5351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku no Choro-Q | 59440 | [59440-boku-no-choro-q.json](./59440-boku-no-choro-q.json) |
 | Boku no Komayama wo Mamotte | 308901 | [308901-boku-no-komayama-wo-mamotte.json](./308901-boku-no-komayama-wo-mamotte.json) |
 | Boku no Mirai ha, Koi to Kakin to.: Charge to the Future | 194539 | [194539-boku-no-mirai-ha-koi-to-kakin-to-charge-to-the-future.json](./194539-boku-no-mirai-ha-koi-to-kakin-to-charge-to-the-future.json) |
+| Boku no Natsuyasumi | 44775 | [44775-boku-no-natsuyasumi.json](./44775-boku-no-natsuyasumi.json) |
 | Boku no Natsuyasumi 3: Kitaguni-hen - Chiisana Boku no Dai Sougen | 7379 | [7379-boku-no-natsuyasumi-3-kitaguni-hen-chiisana-boku-no-dai-sougen.json](./7379-boku-no-natsuyasumi-3-kitaguni-hen-chiisana-boku-no-dai-sougen.json) |
 | Boku no Saiai no | 322009 | [322009-boku-no-saiai-no.json](./322009-boku-no-saiai-no.json) |
 | Boku no Soushiki ni Youkoso: Happy Rebirthday | 335700 | [335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json](./335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json) |
@@ -7755,6 +7757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burst Space | 279086 | [279086-burst-space.json](./279086-burst-space.json) |
 | Burst the Game | 28929 | [28929-burst-the-game.json](./28929-burst-the-game.json) |
 | Burstly | 74742 | [74742-burstly.json](./74742-burstly.json) |
+| BursTrick: Wake Boarding!! | 44766 | [44766-burstrick-wake-boarding.json](./44766-burstrick-wake-boarding.json) |
 | Burt Roger | 176806 | [176806-burt-roger.json](./176806-burt-roger.json) |
 | Burtik | 96112 | [96112-burtik.json](./96112-burtik.json) |
 | Burujiru | 108997 | [108997-burujiru.json](./108997-burujiru.json) |
