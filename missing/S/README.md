@@ -8030,6 +8030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic's Edusoft | 63901 | [63901-sonics-edusoft.json](./63901-sonics-edusoft.json) |
 | Sonic's Fun and Easy Adventure | 270224 | [270224-sonics-fun-and-easy-adventure.json](./270224-sonics-fun-and-easy-adventure.json) |
 | Sonic's Napoleon | 261289 | [261289-sonics-napoleon.json](./261289-sonics-napoleon.json) |
+| Sonic's Schoolhouse | 52750 | [52750-sonics-schoolhouse.json](./52750-sonics-schoolhouse.json) |
 | Sonic's Speedway | 362898 | [362898-sonics-speedway.json](./362898-sonics-speedway.json) |
 | Sonic's Vacation | 330531 | [330531-sonics-vacation.json](./330531-sonics-vacation.json) |
 | Sonic2.EXE | 313712 | [313712-sonic2-exe.json](./313712-sonic2-exe.json) |
