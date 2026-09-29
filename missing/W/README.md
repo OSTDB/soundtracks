@@ -2049,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Knight Chronicles II | 314050 | [314050-white-knight-chronicles-ii.json](./314050-white-knight-chronicles-ii.json) |
 | White Knight Chronicles: International Edition | 21761 | [21761-white-knight-chronicles-international-edition.json](./21761-white-knight-chronicles-international-edition.json) |
 | White Knight Chronicles: International EX Edition | 268742 | [268742-white-knight-chronicles-international-ex-edition.json](./268742-white-knight-chronicles-international-ex-edition.json) |
+| White Knight Chronicles: Origins | 42811 | [42811-white-knight-chronicles-origins.json](./42811-white-knight-chronicles-origins.json) |
 | White lady | 201689 | [201689-white-lady.json](./201689-white-lady.json) |
 | White Mask | 136487 | [136487-white-mask.json](./136487-white-mask.json) |
 | White Men Can't Jump | 40821 | [40821-white-men-cant-jump.json](./40821-white-men-cant-jump.json) |
@@ -2204,6 +2205,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wide Open | 173284 | [173284-wide-open.json](./173284-wide-open.json) |
 | Widget Inc. | 319207 | [319207-widget-inc.json](./319207-widget-inc.json) |
 | Widget Satchel | 105353 | [105353-widget-satchel.json](./105353-widget-satchel.json) |
+| Widgets Odyssey | 42788 | [42788-widgets-odyssey.json](./42788-widgets-odyssey.json) |
+| Widgets Odyssey 2 | 42787 | [42787-widgets-odyssey-2.json](./42787-widgets-odyssey-2.json) |
 | Widow in the Endless Labyrinth | 267104 | [267104-widow-in-the-endless-labyrinth.json](./267104-widow-in-the-endless-labyrinth.json) |
 | Wieldo | 214155 | [214155-wieldo.json](./214155-wieldo.json) |
 | Wienne | 127373 | [127373-wienne.json](./127373-wienne.json) |
