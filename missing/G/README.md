@@ -1468,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Runner Online | 88183 | [88183-geometry-runner-online.json](./88183-geometry-runner-online.json) |
 | Geometry Rush | 102366 | [102366-geometry-rush.json](./102366-geometry-rush.json) |
 | Geometry Shooter Pro | 320386 | [320386-geometry-shooter-pro.json](./320386-geometry-shooter-pro.json) |
+| Geometry Wars: Retro Evolved | 15756 | [15756-geometry-wars-retro-evolved.json](./15756-geometry-wars-retro-evolved.json) |
 | Geomoth Boot Sequence | 289312 | [289312-geomoth-boot-sequence.json](./289312-geomoth-boot-sequence.json) |
 | Geon | 52226 | [52226-geon.json](./52226-geon.json) |
 | Geon Cube | 50636 | [50636-geon-cube.json](./50636-geon-cube.json) |
@@ -2073,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GiseiHero | 149096 | [149096-giseihero.json](./149096-giseihero.json) |
 | Gish | 8384 | [8384-gish.json](./8384-gish.json) |
 | Git Gud | 330269 | [330269-git-gud.json](./330269-git-gud.json) |
+| Gitaroo Man | 11338 | [11338-gitaroo-man.json](./11338-gitaroo-man.json) |
 | Gitaroo Man Lives! | 42813 | [42813-gitaroo-man-lives.json](./42813-gitaroo-man-lives.json) |
 | Give a Dam! | 248066 | [248066-give-a-dam.json](./248066-give-a-dam.json) |
 | Give an imp a chance! | 330931 | [330931-give-an-imp-a-chance.json](./330931-give-an-imp-a-chance.json) |
@@ -2583,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Eater 2 | 11853 | [11853-god-eater-2.json](./11853-god-eater-2.json) |
 | God Eater 2: Famitsu DX Pack | 89864 | [89864-god-eater-2-famitsu-dx-pack.json](./89864-god-eater-2-famitsu-dx-pack.json) |
 | God Eater 2: LaLaBitMarket Special Edition | 89863 | [89863-god-eater-2-lalabitmarket-special-edition.json](./89863-god-eater-2-lalabitmarket-special-edition.json) |
+| God Eater 2: Rage Burst | 11857 | [11857-god-eater-2-rage-burst.json](./11857-god-eater-2-rage-burst.json) |
 | God Eater 3: Collector's Edition | 294702 | [294702-god-eater-3-collectors-edition.json](./294702-god-eater-3-collectors-edition.json) |
 | God Eater Online | 74793 | [74793-god-eater-online.json](./74793-god-eater-online.json) |
 | God Eater: Off Shot - Twin Pack Vol. 2 | 216265 | [216265-god-eater-off-shot-twin-pack-vol-2.json](./216265-god-eater-off-shot-twin-pack-vol-2.json) |
@@ -3425,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Guilds | 109774 | [109774-grand-guilds.json](./109774-grand-guilds.json) |
 | Grand Heist | 120317 | [120317-grand-heist.json](./120317-grand-heist.json) |
 | Grand Hotel Mania | 235162 | [235162-grand-hotel-mania.json](./235162-grand-hotel-mania.json) |
+| Grand Kingdom | 19163 | [19163-grand-kingdom.json](./19163-grand-kingdom.json) |
 | Grand Kingdom: Grand Edition | 89908 | [89908-grand-kingdom-grand-edition.json](./89908-grand-kingdom-grand-edition.json) |
 | Grand Kingdom: Limited Edition | 89909 | [89909-grand-kingdom-limited-edition.json](./89909-grand-kingdom-limited-edition.json) |
 | Grand Knights History | 42808 | [42808-grand-knights-history.json](./42808-grand-knights-history.json) |
@@ -5044,6 +5048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyrodisc Super League | 18465 | [18465-gyrodisc-super-league.json](./18465-gyrodisc-super-league.json) |
 | Gyron | 79623 | [79623-gyron.json](./79623-gyron.json) |
 | Gyroscope | 13866 | [13866-gyroscope.json](./13866-gyroscope.json) |
+| Gyruss | 12308 | [12308-gyruss.json](./12308-gyruss.json) |
 | Gyruss | 343878 | [343878-gyruss.json](./343878-gyruss.json) |
 | Gyruss | 343879 | [343879-gyruss.json](./343879-gyruss.json) |
 | Gythol Granditti: The Crypt of Darkness | 120411 | [120411-gythol-granditti-the-crypt-of-darkness.json](./120411-gythol-granditti-the-crypt-of-darkness.json) |
