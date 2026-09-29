@@ -1653,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heiankyo Alien | 75136 | [75136-heiankyo-alien.json](./75136-heiankyo-alien.json) |
 | Heiankyo Parameters | 247530 | [247530-heiankyo-parameters.json](./247530-heiankyo-parameters.json) |
 | Heidelberg 1693 | 135841 | [135841-heidelberg-1693.json](./135841-heidelberg-1693.json) |
+| Heidi: The Game | 49479 | [49479-heidi-the-game.json](./49479-heidi-the-game.json) |
 | Heileen 1: Sail Away | 17441 | [17441-heileen-1-sail-away.json](./17441-heileen-1-sail-away.json) |
 | Heimdall | 5393 | [5393-heimdall.json](./5393-heimdall.json) |
 | Heimdallr | 174871 | [174871-heimdallr.json](./174871-heimdallr.json) |
@@ -3306,6 +3307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Musical 3: Senior Year | 138091 | [138091-high-school-musical-3-senior-year.json](./138091-high-school-musical-3-senior-year.json) |
 | High School Musical: All Together Now | 220094 | [220094-high-school-musical-all-together-now.json](./220094-high-school-musical-all-together-now.json) |
 | High School Musical: DVD Game | 228419 | [228419-high-school-musical-dvd-game.json](./228419-high-school-musical-dvd-game.json) |
+| High School Musical: Livin' the Dream | 49478 | [49478-high-school-musical-livin-the-dream.json](./49478-high-school-musical-livin-the-dream.json) |
 | High School of Blitz | 166207 | [166207-high-school-of-blitz.json](./166207-high-school-of-blitz.json) |
 | High School of Memories | 165007 | [165007-high-school-of-memories.json](./165007-high-school-of-memories.json) |
 | High School of the Dead Day 0 | 402943 | [402943-high-school-of-the-dead-day-0.json](./402943-high-school-of-the-dead-day-0.json) |
@@ -5068,6 +5070,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huckleberry Hound in Hollywood Capers | 73530 | [73530-huckleberry-hound-in-hollywood-capers.json](./73530-huckleberry-hound-in-hollywood-capers.json) |
 | Huddam 2 Berzah | 307770 | [307770-huddam-2-berzah.json](./307770-huddam-2-berzah.json) |
 | Hudson 3D Golf | 97679 | [97679-hudson-3d-golf.json](./97679-hudson-3d-golf.json) |
+| Hudson Best Collection Vol. 1: Bomberman Collection | 49496 | [49496-hudson-best-collection-vol-1-bomberman-collection.json](./49496-hudson-best-collection-vol-1-bomberman-collection.json) |
+| Hudson Best Collection Vol. 2: Lode Runner Collection | 49495 | [49495-hudson-best-collection-vol-2-lode-runner-collection.json](./49495-hudson-best-collection-vol-2-lode-runner-collection.json) |
 | Hudson Hawk | 18836 | [18836-hudson-hawk.json](./18836-hudson-hawk.json) |
 | Hudson Hawk | 365689 | [365689-hudson-hawk.json](./365689-hudson-hawk.json) |
 | Hudson Selection Vol. 2: Star Soldier | 43207 | [43207-hudson-selection-vol-2-star-soldier.json](./43207-hudson-selection-vol-2-star-soldier.json) |
