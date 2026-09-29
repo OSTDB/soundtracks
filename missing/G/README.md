@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauley | 341327 | [341327-gauley.json](./341327-gauley.json) |
 | Gauntlet | 330890 | [330890-gauntlet.json](./330890-gauntlet.json) |
 | Gauntlet | 381045 | [381045-gauntlet.json](./381045-gauntlet.json) |
+| Gauntlet | 7293 | [7293-gauntlet.json](./7293-gauntlet.json) |
 | Gauntlet | 7294 | [7294-gauntlet.json](./7294-gauntlet.json) |
 | Gauntlet | 81204 | [81204-gauntlet.json](./81204-gauntlet.json) |
 | Gauntlet Arcade Version | 45533 | [45533-gauntlet-arcade-version.json](./45533-gauntlet-arcade-version.json) |
