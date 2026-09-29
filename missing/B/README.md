@@ -6890,6 +6890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BridgeFix 2=3-1 | 158731 | [158731-bridgefix-2-3-1.json](./158731-bridgefix-2-3-1.json) |
 | Bridget Bishop | 400317 | [400317-bridget-bishop.json](./400317-bridget-bishop.json) |
 | BridgeTeam: Ship Simulator | 190981 | [190981-bridgeteam-ship-simulator.json](./190981-bridgeteam-ship-simulator.json) |
+| Brigade Commander | 14349 | [14349-brigade-commander.json](./14349-brigade-commander.json) |
 | Brigadoon: The Quest of Time | 204485 | [204485-brigadoon-the-quest-of-time.json](./204485-brigadoon-the-quest-of-time.json) |
 | Brigador | 13361 | [13361-brigador.json](./13361-brigador.json) |
 | Brigador Killers | 119625 | [119625-brigador-killers.json](./119625-brigador-killers.json) |
@@ -7372,6 +7373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Blaster | 15688 | [15688-bug-blaster.json](./15688-bug-blaster.json) |
 | Bug Blazer | 270166 | [270166-bug-blazer.json](./270166-bug-blazer.json) |
 | Bug Bomb | 15689 | [15689-bug-bomb.json](./15689-bug-bomb.json) |
+| Bug Bomber | 14351 | [14351-bug-bomber.json](./14351-bug-bomber.json) |
 | Bug Bunny: Discontroll | 373729 | [373729-bug-bunny-discontroll.json](./373729-bug-bunny-discontroll.json) |
 | Bug Catcher | 287651 | [287651-bug-catcher.json](./287651-bug-catcher.json) |
 | Bug Cleaners | 336030 | [336030-bug-cleaners.json](./336030-bug-cleaners.json) |
@@ -7455,6 +7457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build If You Can | 23978 | [23978-build-if-you-can.json](./23978-build-if-you-can.json) |
 | Build It | 108620 | [108620-build-it.json](./108620-build-it.json) |
 | Build It: Miami Beach Resort | 341017 | [341017-build-it-miami-beach-resort.json](./341017-build-it-miami-beach-resort.json) |
+| Build It!: Das Bauhaus | 14352 | [14352-build-it-das-bauhaus.json](./14352-build-it-das-bauhaus.json) |
 | Build Lands | 201239 | [201239-build-lands.json](./201239-build-lands.json) |
 | Build Royale | 112275 | [112275-build-royale.json](./112275-build-royale.json) |
 | Build Scrap | 340548 | [340548-build-scrap.json](./340548-build-scrap.json) |
@@ -7615,6 +7618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BumbleTales | 294740 | [294740-bumbletales.json](./294740-bumbletales.json) |
 | Bumbling Builders | 176971 | [176971-bumbling-builders.json](./176971-bumbling-builders.json) |
 | BumFight! | 69221 | [69221-bumfight.json](./69221-bumfight.json) |
+| Bump 'N' Burn | 14353 | [14353-bump-n-burn.json](./14353-bump-n-burn.json) |
 | Bump and Run Racing | 265396 | [265396-bump-and-run-racing.json](./265396-bump-and-run-racing.json) |
 | Bump Battle Royale | 198822 | [198822-bump-battle-royale.json](./198822-bump-battle-royale.json) |
 | Bump Bump Bump | 95182 | [95182-bump-bump-bump.json](./95182-bump-bump-bump.json) |
@@ -7817,6 +7821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Ravager | 180816 | [180816-burning-ravager.json](./180816-burning-ravager.json) |
 | Burning Rival | 39556 | [39556-burning-rival.json](./39556-burning-rival.json) |
 | Burning Road | 44857 | [44857-burning-road.json](./44857-burning-road.json) |
+| Burning Rubber | 14354 | [14354-burning-rubber.json](./14354-burning-rubber.json) |
 | Burning Sand | 146739 | [146739-burning-sand.json](./146739-burning-sand.json) |
 | Burning Sand 2 | 146740 | [146740-burning-sand-2.json](./146740-burning-sand-2.json) |
 | Burning Sand 3 | 146742 | [146742-burning-sand-3.json](./146742-burning-sand-3.json) |
@@ -7904,6 +7909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Story: games for kids | 98999 | [98999-bus-story-games-for-kids.json](./98999-bus-story-games-for-kids.json) |
 | Bus Tycoon ND | 24995 | [24995-bus-tycoon-nd.json](./24995-bus-tycoon-nd.json) |
 | Bus-Simulator 2012 | 16700 | [16700-bus-simulator-2012.json](./16700-bus-simulator-2012.json) |
+| Bush Buck | 14356 | [14356-bush-buck.json](./14356-bush-buck.json) |
 | Bush Royal Rampage | 263481 | [263481-bush-royal-rampage.json](./263481-bush-royal-rampage.json) |
 | Bush Shoot-Out | 237477 | [237477-bush-shoot-out.json](./237477-bush-shoot-out.json) |
 | Bushfires: Animal Rescue | 163925 | [163925-bushfires-animal-rescue.json](./163925-bushfires-animal-rescue.json) |
