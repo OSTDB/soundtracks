@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quack Attack 1985: Turbo DX Edition | 138603 | [138603-quack-attack-1985-turbo-dx-edition.json](./138603-quack-attack-1985-turbo-dx-edition.json) |
 | Quack Invasion | 244886 | [244886-quack-invasion.json](./244886-quack-invasion.json) |
 | Quacker Blaster | 63286 | [63286-quacker-blaster.json](./63286-quacker-blaster.json) |
+| QuackShot Starring Donald Duck | 8446 | [8446-quackshot-starring-donald-duck.json](./8446-quackshot-starring-donald-duck.json) |
 | Quacktangled | 185525 | [185525-quacktangled.json](./185525-quacktangled.json) |
 | Quacktown Smackdown | 239062 | [239062-quacktown-smackdown.json](./239062-quacktown-smackdown.json) |
 | Quad Battle | 294254 | [294254-quad-battle.json](./294254-quad-battle.json) |
