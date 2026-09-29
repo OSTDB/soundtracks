@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Generations 3: The First Generation | 66121 | [66121-capcom-generations-3-the-first-generation.json](./66121-capcom-generations-3-the-first-generation.json) |
 | Capcom Mystery Adventure Double Pack | 299313 | [299313-capcom-mystery-adventure-double-pack.json](./299313-capcom-mystery-adventure-double-pack.json) |
 | Capcom Puzzle World | 44503 | [44503-capcom-puzzle-world.json](./44503-capcom-puzzle-world.json) |
+| Capcom Sports Club | 38531 | [38531-capcom-sports-club.json](./38531-capcom-sports-club.json) |
 | Capcom Tabi Quiz 100 | 282684 | [282684-capcom-tabi-quiz-100.json](./282684-capcom-tabi-quiz-100.json) |
 | Capcom vs. SNK 2: Mark of the Millennium 2001 | 3846 | [3846-capcom-vs-snk-2-mark-of-the-millennium-2001.json](./3846-capcom-vs-snk-2-mark-of-the-millennium-2001.json) |
 | Capcom vs. SNK: Millennium Fight 2000 | 39593 | [39593-capcom-vs-snk-millennium-fight-2000.json](./39593-capcom-vs-snk-millennium-fight-2000.json) |
@@ -1853,6 +1854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catena | 342033 | [342033-catena.json](./342033-catena.json) |
 | Cateran | 96767 | [96767-cateran.json](./96767-cateran.json) |
 | Caterpilla | 83266 | [83266-caterpilla.json](./83266-caterpilla.json) |
+| Caterpillar | 38482 | [38482-caterpillar.json](./38482-caterpillar.json) |
 | Caterpillar King | 384085 | [384085-caterpillar-king.json](./384085-caterpillar-king.json) |
 | Caterpillar Royale | 115466 | [115466-caterpillar-royale.json](./115466-caterpillar-royale.json) |
 | Caterpillar: Adventures in Time | 206094 | [206094-caterpillar-adventures-in-time.json](./206094-caterpillar-adventures-in-time.json) |
@@ -3668,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronostation | 130239 | [130239-chronostation.json](./130239-chronostation.json) |
 | Chronostrike | 332409 | [332409-chronostrike.json](./332409-chronostrike.json) |
 | Chronotron | 212779 | [212779-chronotron.json](./212779-chronotron.json) |
+| Chronus Arc | 38512 | [38512-chronus-arc.json](./38512-chronus-arc.json) |
 | Chrs 143 | 162430 | [162430-chrs-143.json](./162430-chrs-143.json) |
 | Chrysalis | 57122 | [57122-chrysalis.json](./57122-chrysalis.json) |
 | Chu!! Karate Uranai Voxel | 407442 | [407442-chu-karate-uranai-voxel.json](./407442-chu-karate-uranai-voxel.json) |
