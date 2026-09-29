@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jad | 151133 | [151133-jad.json](./151133-jad.json) |
 | JaDa Fishin' | 222948 | [222948-jada-fishin.json](./222948-jada-fishin.json) |
 | Jade Base | 308336 | [308336-jade-base.json](./308336-jade-base.json) |
+| Jade Cocoon: Story of the Tamamayu | 45000 | [45000-jade-cocoon-story-of-the-tamamayu.json](./45000-jade-cocoon-story-of-the-tamamayu.json) |
 | Jade Earth | 141255 | [141255-jade-earth.json](./141255-jade-earth.json) |
 | Jade Empire | 5867 | [5867-jade-empire.json](./5867-jade-empire.json) |
 | Jade Empire: Limited Edition | 47318 | [47318-jade-empire-limited-edition.json](./47318-jade-empire-limited-edition.json) |
@@ -161,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jagged Alliance | 7 | [7-jagged-alliance.json](./7-jagged-alliance.json) |
 | Jagged Alliance 2 Platinum | 53252 | [53252-jagged-alliance-2-platinum.json](./53252-jagged-alliance-2-platinum.json) |
 | Jagged Alliance 2: Wildfire | 10466 | [10466-jagged-alliance-2-wildfire.json](./10466-jagged-alliance-2-wildfire.json) |
+| Jagged Alliance 3 | 72767 | [72767-jagged-alliance-3.json](./72767-jagged-alliance-3.json) |
 | Jagged Alliance 3: Tactical Edition | 249259 | [249259-jagged-alliance-3-tactical-edition.json](./249259-jagged-alliance-3-tactical-edition.json) |
 | Jagged Alliance DS | 53254 | [53254-jagged-alliance-ds.json](./53254-jagged-alliance-ds.json) |
 | Jagged Alliance Online: Reloaded | 36036 | [36036-jagged-alliance-online-reloaded.json](./36036-jagged-alliance-online-reloaded.json) |
