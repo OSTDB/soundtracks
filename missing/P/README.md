@@ -2060,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Plan | 29226 | [29226-perfect-plan.json](./29226-perfect-plan.json) |
 | Perfect Shot | 370722 | [370722-perfect-shot.json](./370722-perfect-shot.json) |
 | Perfect Split | 173804 | [173804-perfect-split.json](./173804-perfect-split.json) |
+| Perfect Stride | 9612 | [9612-perfect-stride.json](./9612-perfect-stride.json) |
 | Perfect Tense: Maggot Therapy | 331958 | [331958-perfect-tense-maggot-therapy.json](./331958-perfect-tense-maggot-therapy.json) |
 | Perfect Thog | 408732 | [408732-perfect-thog.json](./408732-perfect-thog.json) |
 | Perfect Tides: Station to Station | 215695 | [215695-perfect-tides-station-to-station.json](./215695-perfect-tides-station-to-station.json) |
@@ -6039,6 +6040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerWash Simulator: The Muckingham Files 2 | 264337 | [264337-powerwash-simulator-the-muckingham-files-2.json](./264337-powerwash-simulator-the-muckingham-files-2.json) |
 | PowerWash Simulator: Warhammer 40,000 Content Pack | 251220 | [251220-powerwash-simulator-warhammer-40-000-content-pack.json](./251220-powerwash-simulator-warhammer-40-000-content-pack.json) |
 | PowerZ | 146317 | [146317-powerz.json](./146317-powerz.json) |
+| Pox Nora | 9595 | [9595-pox-nora.json](./9595-pox-nora.json) |
 | Poxel.io | 349951 | [349951-poxel-io.json](./349951-poxel-io.json) |
 | Poy Poy | 45092 | [45092-poy-poy.json](./45092-poy-poy.json) |
 | Poy Poy 2 | 44751 | [44751-poy-poy-2.json](./44751-poy-poy-2.json) |
