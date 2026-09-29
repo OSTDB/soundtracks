@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hall of the Art Thieves | 122271 | [122271-hall-of-the-art-thieves.json](./122271-hall-of-the-art-thieves.json) |
 | Hall of the Dwarf King | 339375 | [339375-hall-of-the-dwarf-king.json](./339375-hall-of-the-dwarf-king.json) |
 | Halley's Big Catch | 417530 | [417530-halleys-big-catch.json](./417530-halleys-big-catch.json) |
+| Halley's Comet | 40352 | [40352-halleys-comet.json](./40352-halleys-comet.json) |
 | Halley's Dream | 169372 | [169372-halleys-dream.json](./169372-halleys-dream.json) |
 | Hallo Spaceboy | 102217 | [102217-hallo-spaceboy.json](./102217-hallo-spaceboy.json) |
 | Hallow Eve | 222842 | [222842-hallow-eve.json](./222842-hallow-eve.json) |
@@ -784,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Drive | 381627 | [381627-hard-drive.json](./381627-hard-drive.json) |
 | Hard Driver | 151033 | [151033-hard-driver.json](./151033-hard-driver.json) |
 | Hard Drivin' II: Drive Harder | 12135 | [12135-hard-drivin-ii-drive-harder.json](./12135-hard-drivin-ii-drive-harder.json) |
+| Hard Dunk | 40350 | [40350-hard-dunk.json](./40350-hard-dunk.json) |
 | Hard Glide | 189186 | [189186-hard-glide.json](./189186-hard-glide.json) |
 | Hard Graphics Soushuuhen | 67357 | [67357-hard-graphics-soushuuhen.json](./67357-hard-graphics-soushuuhen.json) |
 | Hard Grip | 66771 | [66771-hard-grip.json](./66771-hard-grip.json) |
@@ -3614,6 +3616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hisui no Kikai | 186839 | [186839-hisui-no-kikai.json](./186839-hisui-no-kikai.json) |
 | Hit | 208059 | [208059-hit.json](./208059-hit.json) |
 | Hit | 358300 | [358300-hit.json](./358300-hit.json) |
+| Hit 'N Miss | 40349 | [40349-hit-n-miss.json](./40349-hit-n-miss.json) |
 | Hit & Run VR | 116828 | [116828-hit-and-run-vr.json](./116828-hit-and-run-vr.json) |
 | Hit & Run: Solo Leveling | 208922 | [208922-hit-and-run-solo-leveling.json](./208922-hit-and-run-solo-leveling.json) |
 | Hit 2 | 193871 | [193871-hit-2.json](./193871-hit-2.json) |
@@ -3837,6 +3840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole io: Freak Edition | 275051 | [275051-hole-io-freak-edition.json](./275051-hole-io-freak-edition.json) |
 | Hole io: Freaks DLC | 263555 | [263555-hole-io-freaks-dlc.json](./263555-hole-io-freaks-dlc.json) |
 | Hole io: Red Planet DLC | 263556 | [263556-hole-io-red-planet-dlc.json](./263556-hole-io-red-planet-dlc.json) |
+| Hole Land | 40348 | [40348-hole-land.json](./40348-hole-land.json) |
 | Hole-In-One Miniature Golf | 70979 | [70979-hole-in-one-miniature-golf.json](./70979-hole-in-one-miniature-golf.json) |
 | Hole.io | 104100 | [104100-hole-io.json](./104100-hole-io.json) |
 | Hole* | 408173 | [408173-hole.json](./408173-hole.json) |
@@ -3962,6 +3966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holos lisu | 279752 | [279752-holos-lisu.json](./279752-holos-lisu.json) |
 | Holosaga: Invasion of the HoloX | 298148 | [298148-holosaga-invasion-of-the-holox.json](./298148-holosaga-invasion-of-the-holox.json) |
 | HoloSona5 | 340479 | [340479-holosona5.json](./340479-holosona5.json) |
+| Holosseum | 40347 | [40347-holosseum.json](./40347-holosseum.json) |
 | Holotyping | 210245 | [210245-holotyping.json](./210245-holotyping.json) |
 | Holotz's Castle | 62145 | [62145-holotzs-castle.json](./62145-holotzs-castle.json) |
 | HoloVista | 139237 | [139237-holovista.json](./139237-holovista.json) |
