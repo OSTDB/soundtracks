@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys: Memories of Celceta - 25th Anniversary Edition | 89868 | [89868-ys-memories-of-celceta-25th-anniversary-edition.json](./89868-ys-memories-of-celceta-25th-anniversary-edition.json) |
 | Ys: Memories of Celceta - Silver Anniversary Edition | 42679 | [42679-ys-memories-of-celceta-silver-anniversary-edition.json](./42679-ys-memories-of-celceta-silver-anniversary-edition.json) |
 | Ys: The Oath in Felghana | 15455 | [15455-ys-the-oath-in-felghana.json](./15455-ys-the-oath-in-felghana.json) |
+| Ys: The Vanished Omens | 206129 | [206129-ys-the-vanished-omens.json](./206129-ys-the-vanished-omens.json) |
 | Ys: Wanderers from Ys | 15450 | [15450-ys-wanderers-from-ys.json](./15450-ys-wanderers-from-ys.json) |
 | YTP All-Stars | 370903 | [370903-ytp-all-stars.json](./370903-ytp-all-stars.json) |
 | Yu Crossing Animals | 219037 | [219037-yu-crossing-animals.json](./219037-yu-crossing-animals.json) |
