@@ -4094,6 +4094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Turn | 311472 | [311472-city-turn.json](./311472-city-turn.json) |
 | City Tycoon | 138127 | [138127-city-tycoon.json](./138127-city-tycoon.json) |
 | City Worker Simulator | 405735 | [405735-city-worker-simulator.json](./405735-city-worker-simulator.json) |
+| City Z | 34682 | [34682-city-z.json](./34682-city-z.json) |
 | City-Racing | 358887 | [358887-city-racing.json](./358887-city-racing.json) |
 | City: Battle Ground | 345012 | [345012-city-battle-ground.json](./345012-city-battle-ground.json) |
 | City’s Hero Collection | 328537 | [328537-city-s-hero-collection.json](./328537-city-s-hero-collection.json) |
@@ -4183,6 +4184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clarisse | 56425 | [56425-clarisse.json](./56425-clarisse.json) |
 | Clark: Hoova VR | 82067 | [82067-clark-hoova-vr.json](./82067-clark-hoova-vr.json) |
 | Clash | 55033 | [55033-clash.json](./55033-clash.json) |
+| Clash Cup Turbo | 34703 | [34703-clash-cup-turbo.json](./34703-clash-cup-turbo.json) |
 | Clash for Crust | 310042 | [310042-clash-for-crust.json](./310042-clash-for-crust.json) |
 | Clash Heroes | 145547 | [145547-clash-heroes.json](./145547-clash-heroes.json) |
 | Clash Memory Game | 158557 | [158557-clash-memory-game.json](./158557-clash-memory-game.json) |
@@ -4446,6 +4448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cliffhanger | 81446 | [81446-cliffhanger.json](./81446-cliffhanger.json) |
 | Clifford the Big Red Dog: Learning Activities | 255656 | [255656-clifford-the-big-red-dog-learning-activities.json](./255656-clifford-the-big-red-dog-learning-activities.json) |
 | Clifford: Ready-to-Read | 230359 | [230359-clifford-ready-to-read.json](./230359-clifford-ready-to-read.json) |
+| Cliffs of War: Fortress Defenders | 34606 | [34606-cliffs-of-war-fortress-defenders.json](./34606-cliffs-of-war-fortress-defenders.json) |
 | Clik Flip | 194964 | [194964-clik-flip.json](./194964-clik-flip.json) |
 | Clim Snail | 379017 | [379017-clim-snail.json](./379017-clim-snail.json) |
 | Climatic Survival: Northern Storm | 121485 | [121485-climatic-survival-northern-storm.json](./121485-climatic-survival-northern-storm.json) |
@@ -5754,6 +5757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concrete Spaces | 335871 | [335871-concrete-spaces.json](./335871-concrete-spaces.json) |
 | Concrete Tremor | 234033 | [234033-concrete-tremor.json](./234033-concrete-tremor.json) |
 | Concurrence | 166779 | [166779-concurrence.json](./166779-concurrence.json) |
+| Concurrency | 34668 | [34668-concurrency.json](./34668-concurrency.json) |
 | Conde | 265424 | [265424-conde.json](./265424-conde.json) |
 | Condemned | 299764 | [299764-condemned.json](./299764-condemned.json) |
 | Condemned 2: Bloodshot | 6943 | [6943-condemned-2-bloodshot.json](./6943-condemned-2-bloodshot.json) |
@@ -6696,6 +6700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country Park | 105136 | [105136-country-park.json](./105136-country-park.json) |
 | Country Star | 292826 | [292826-country-star.json](./292826-country-star.json) |
 | Country Story | 342259 | [342259-country-story.json](./342259-country-story.json) |
+| Country Tales | 34633 | [34633-country-tales.json](./34633-country-tales.json) |
 | Country Varmint Hunter | 83236 | [83236-country-varmint-hunter.json](./83236-country-varmint-hunter.json) |
 | Countryballs At War | 300427 | [300427-countryballs-at-war.json](./300427-countryballs-at-war.json) |
 | Countryballs: Power Protocol | 349473 | [349473-countryballs-power-protocol.json](./349473-countryballs-power-protocol.json) |
@@ -8158,6 +8163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Towers 2 XL | 46642 | [46642-crystal-towers-2-xl.json](./46642-crystal-towers-2-xl.json) |
 | Crystal Vale: Dino Escape | 387662 | [387662-crystal-vale-dino-escape.json](./387662-crystal-vale-dino-escape.json) |
 | Crystal Venture | 189194 | [189194-crystal-venture.json](./189194-crystal-venture.json) |
+| Crystal Vibes feat. Ott. | 34662 | [34662-crystal-vibes-feat-ott.json](./34662-crystal-vibes-feat-ott.json) |
 | Crystal Warriors | 11648 | [11648-crystal-warriors.json](./11648-crystal-warriors.json) |
 | Crystal Wish: Bits Collection | 306502 | [306502-crystal-wish-bits-collection.json](./306502-crystal-wish-bits-collection.json) |
 | Crystal Wish: Candy Chase | 264888 | [264888-crystal-wish-candy-chase.json](./264888-crystal-wish-candy-chase.json) |
