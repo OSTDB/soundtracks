@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velanit: The Forgotten Cottage | 403019 | [403019-velanit-the-forgotten-cottage.json](./403019-velanit-the-forgotten-cottage.json) |
 | Velaster | 212213 | [212213-velaster.json](./212213-velaster.json) |
 | Velato | 398989 | [398989-velato.json](./398989-velato.json) |
+| Velhokissa Kloridi Klaviatuuri ja Kadonneet Aakkoset | 7639 | [7639-velhokissa-kloridi-klaviatuuri-ja-kadonneet-aakkoset.json](./7639-velhokissa-kloridi-klaviatuuri-ja-kadonneet-aakkoset.json) |
 | Velkyn | 282018 | [282018-velkyn.json](./282018-velkyn.json) |
 | Vellar | 405723 | [405723-vellar.json](./405723-vellar.json) |
 | Velldeselba Senki: Tsubasa no Kunshou | 140026 | [140026-velldeselba-senki-tsubasa-no-kunshou.json](./140026-velldeselba-senki-tsubasa-no-kunshou.json) |
