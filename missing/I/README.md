@@ -901,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IGPX: Immortal Grand Prix | 20563 | [20563-igpx-immortal-grand-prix.json](./20563-igpx-immortal-grand-prix.json) |
 | iGrow Game | 21986 | [21986-igrow-game.json](./21986-igrow-game.json) |
 | IGS Classic Arcade Collection | 245916 | [245916-igs-classic-arcade-collection.json](./245916-igs-classic-arcade-collection.json) |
+| IGT Aztec Temple | 25064 | [25064-igt-aztec-temple.json](./25064-igt-aztec-temple.json) |
 | IguaRPG 2 | 314033 | [314033-iguarpg-2.json](./314033-iguarpg-2.json) |
 | iGun Pro 2 | 86959 | [86959-igun-pro-2.json](./86959-igun-pro-2.json) |
 | IHF Handball Challenge 12 | 10433 | [10433-ihf-handball-challenge-12.json](./10433-ihf-handball-challenge-12.json) |
@@ -2314,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Holy Spirit | 372128 | [372128-interstellar-holy-spirit.json](./372128-interstellar-holy-spirit.json) |
 | Interstellar Impact | 270090 | [270090-interstellar-impact.json](./270090-interstellar-impact.json) |
 | Interstellar Invaders | 68715 | [68715-interstellar-invaders.json](./68715-interstellar-invaders.json) |
+| Interstellar Marines: Spearhead Edition | 25059 | [25059-interstellar-marines-spearhead-edition.json](./25059-interstellar-marines-spearhead-edition.json) |
 | Interstellar Orphan | 178634 | [178634-interstellar-orphan.json](./178634-interstellar-orphan.json) |
 | Interstellar Pilot | 207860 | [207860-interstellar-pilot.json](./207860-interstellar-pilot.json) |
 | Interstellar Prime | 74289 | [74289-interstellar-prime.json](./74289-interstellar-prime.json) |
@@ -2730,6 +2732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is this potato? | 387665 | [387665-is-this-potato.json](./387665-is-this-potato.json) |
 | Is This Weapon? | 245339 | [245339-is-this-weapon.json](./245339-is-this-weapon.json) |
 | Is Today Another Day? | 406797 | [406797-is-today-another-day.json](./406797-is-today-another-day.json) |
+| iS: internal section | 25094 | [25094-is-internal-section.json](./25094-is-internal-section.json) |
 | Isaac Phens: Ace Attorney | 318804 | [318804-isaac-phens-ace-attorney.json](./318804-isaac-phens-ace-attorney.json) |
 | Isaacle | 361711 | [361711-isaacle.json](./361711-isaacle.json) |
 | Isabella: Chasing Shadows | 278730 | [278730-isabella-chasing-shadows.json](./278730-isabella-chasing-shadows.json) |
