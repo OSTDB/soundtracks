@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iceroyds! | 126502 | [126502-iceroyds.json](./126502-iceroyds.json) |
 | Icesolation | 116121 | [116121-icesolation.json](./116121-icesolation.json) |
 | Icewind Dale | 753 | [753-icewind-dale.json](./753-icewind-dale.json) |
+| Icewind Dale II | 876 | [876-icewind-dale-ii.json](./876-icewind-dale-ii.json) |
 | Icewind Dale II: Collector's Edition | 232152 | [232152-icewind-dale-ii-collectors-edition.json](./232152-icewind-dale-ii-collectors-edition.json) |
 | Icewind Dale: Complete | 143699 | [143699-icewind-dale-complete.json](./143699-icewind-dale-complete.json) |
 | Icewind Dale: Enhanced Edition | 36240 | [36240-icewind-dale-enhanced-edition.json](./36240-icewind-dale-enhanced-edition.json) |
