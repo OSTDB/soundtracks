@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.O.C.K. | 144364 | [144364-l-o-c-k.json](./144364-l-o-c-k.json) |
 | L.O.L. Surprise! B.B.s Born to Travel | 203810 | [203810-l-o-l-surprise-b-b-s-born-to-travel.json](./203810-l-o-l-surprise-b-b-s-born-to-travel.json) |
 | L.S.S II | 220836 | [220836-l-s-s-ii.json](./220836-l-s-s-ii.json) |
+| L'Affaire... | 53925 | [53925-laffaire.json](./53925-laffaire.json) |
 | L'Ange et le Demon | 202682 | [202682-lange-et-le-demon.json](./202682-lange-et-le-demon.json) |
 | L'Angolo Di Farenz: Avventure Vampiresche | 256922 | [256922-langolo-di-farenz-avventure-vampiresche.json](./256922-langolo-di-farenz-avventure-vampiresche.json) |
 | L'Artisan Meurtrier | 329060 | [329060-lartisan-meurtrier.json](./329060-lartisan-meurtrier.json) |
