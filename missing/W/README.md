@@ -1240,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WCW Whiplash | 198963 | [198963-wcw-whiplash.json](./198963-wcw-whiplash.json) |
 | WCW: World Championship Wrestling | 48095 | [48095-wcw-world-championship-wrestling.json](./48095-wcw-world-championship-wrestling.json) |
 | WCW/nWo Grudge Match: Scott vs. Rick Steiner | 217985 | [217985-wcw-nwo-grudge-match-scott-vs-rick-steiner.json](./217985-wcw-nwo-grudge-match-scott-vs-rick-steiner.json) |
+| WCW/nWo Thunder | 18315 | [18315-wcw-nwo-thunder.json](./18315-wcw-nwo-thunder.json) |
 | We Are All but Bones and Dust | 165049 | [165049-we-are-all-but-bones-and-dust.json](./165049-we-are-all-but-bones-and-dust.json) |
 | We Are All Individuals | 53921 | [53921-we-are-all-individuals.json](./53921-we-are-all-individuals.json) |
 | We are Blob | 338388 | [338388-we-are-blob.json](./338388-we-are-blob.json) |
@@ -3569,6 +3570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Championship Poker | 210721 | [210721-world-championship-poker.json](./210721-world-championship-poker.json) |
 | World Championship Snooker | 72787 | [72787-world-championship-snooker.json](./72787-world-championship-snooker.json) |
 | World Championship Snooker 2002 | 72788 | [72788-world-championship-snooker-2002.json](./72788-world-championship-snooker-2002.json) |
+| World Championship Soccer | 18664 | [18664-world-championship-soccer.json](./18664-world-championship-soccer.json) |
 | World Circuit | 274725 | [274725-world-circuit.json](./274725-world-circuit.json) |
 | World Circuit Boxing | 80919 | [80919-world-circuit-boxing.json](./80919-world-circuit-boxing.json) |
 | World Circuit: The Grand Prix Race Simulation | 13074 | [13074-world-circuit-the-grand-prix-race-simulation.json](./13074-world-circuit-the-grand-prix-race-simulation.json) |
@@ -4085,6 +4087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreck the Party: Christmas Edition | 230785 | [230785-wreck-the-party-christmas-edition.json](./230785-wreck-the-party-christmas-edition.json) |
 | Wreck-It Ralph | 299871 | [299871-wreck-it-ralph.json](./299871-wreck-it-ralph.json) |
 | Wreckage | 265258 | [265258-wreckage.json](./265258-wreckage.json) |
+| Wreckateer | 18052 | [18052-wreckateer.json](./18052-wreckateer.json) |
 | Wreckboy | 229632 | [229632-wreckboy.json](./229632-wreckboy.json) |
 | Wreckdigger | 188922 | [188922-wreckdigger.json](./188922-wreckdigger.json) |
 | Wrecked | 391312 | [391312-wrecked.json](./391312-wrecked.json) |
