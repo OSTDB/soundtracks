@@ -2073,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LifeGameSimulator | 102328 | [102328-lifegamesimulator.json](./102328-lifegamesimulator.json) |
 | Lifeguard | 61576 | [61576-lifeguard.json](./61576-lifeguard.json) |
 | Lifeless Horizon | 266900 | [266900-lifeless-horizon.json](./266900-lifeless-horizon.json) |
+| Lifeless Planet | 8433 | [8433-lifeless-planet.json](./8433-lifeless-planet.json) |
 | Lifeless Planet: Premier Edition | 20950 | [20950-lifeless-planet-premier-edition.json](./20950-lifeless-planet-premier-edition.json) |
 | Lifelike | 178003 | [178003-lifelike.json](./178003-lifelike.json) |
 | Lifelike: Chapter One | 117004 | [117004-lifelike-chapter-one.json](./117004-lifelike-chapter-one.json) |
@@ -2562,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa: The Bashful | 172484 | [172484-lisa-the-bashful.json](./172484-lisa-the-bashful.json) |
 | Lisa: The First | 26652 | [26652-lisa-the-first.json](./26652-lisa-the-first.json) |
 | Lisa: The Gluttonous | 382794 | [382794-lisa-the-gluttonous.json](./382794-lisa-the-gluttonous.json) |
+| Lisa: The Joyful | 22711 | [22711-lisa-the-joyful.json](./22711-lisa-the-joyful.json) |
 | Lisa: The Oblivious | 215082 | [215082-lisa-the-oblivious.json](./215082-lisa-the-oblivious.json) |
 | Lisa: The Painful - Fractured Bonds | 221767 | [221767-lisa-the-painful-fractured-bonds.json](./221767-lisa-the-painful-fractured-bonds.json) |
 | Lisa: The Pointless - Scholar of the Wilbur Sin Edition | 177033 | [177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json](./177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json) |
@@ -2851,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Wu Chang | 216797 | [216797-little-wu-chang.json](./216797-little-wu-chang.json) |
 | Little Yellow Submarine | 104689 | [104689-little-yellow-submarine.json](./104689-little-yellow-submarine.json) |
 | Little-Known Galaxy | 273654 | [273654-little-known-galaxy.json](./273654-little-known-galaxy.json) |
+| LittleBigPlanet | 21911 | [21911-littlebigplanet.json](./21911-littlebigplanet.json) |
 | LittleBigPlanet 2 | 2140 | [2140-littlebigplanet-2.json](./2140-littlebigplanet-2.json) |
 | LittleBigPlanet 2 Extras Edition | 414317 | [414317-littlebigplanet-2-extras-edition.json](./414317-littlebigplanet-2-extras-edition.json) |
 | LittleBigPlanet 2: Collector's Edition | 44554 | [44554-littlebigplanet-2-collectors-edition.json](./44554-littlebigplanet-2-collectors-edition.json) |
