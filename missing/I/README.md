@@ -2590,6 +2590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IQ Wars | 89171 | [89171-iq-wars.json](./89171-iq-wars.json) |
 | Ir/rational Investigator | 110316 | [110316-ir-rational-investigator.json](./110316-ir-rational-investigator.json) |
 | Ir/rational Redux | 63377 | [63377-ir-rational-redux.json](./63377-ir-rational-redux.json) |
+| iRacing | 8204 | [8204-iracing.json](./8204-iracing.json) |
 | iRagdoll | 90672 | [90672-iragdoll.json](./90672-iragdoll.json) |
 | Iragon | 115664 | [115664-iragon.json](./115664-iragon.json) |
 | Irang | 304637 | [304637-irang.json](./304637-irang.json) |
