@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B Senjou no Alice: Alice on Borderlines | 230517 | [230517-b-senjou-no-alice-alice-on-borderlines.json](./230517-b-senjou-no-alice-alice-on-borderlines.json) |
 | B Team: Metal Cartoon Squad | 21252 | [21252-b-team-metal-cartoon-squad.json](./21252-b-team-metal-cartoon-squad.json) |
 | B u r n t | 181392 | [181392-b-u-r-n-t.json](./181392-b-u-r-n-t.json) |
+| B-17 Bomber | 5660 | [5660-b-17-bomber.json](./5660-b-17-bomber.json) |
 | B-17 Flying Fortress the Bloody 100th | 223421 | [223421-b-17-flying-fortress-the-bloody-100th.json](./223421-b-17-flying-fortress-the-bloody-100th.json) |
 | B-17 Squadron | 171924 | [171924-b-17-squadron.json](./171924-b-17-squadron.json) |
 | B-24 | 44127 | [44127-b-24.json](./44127-b-24.json) |
@@ -4396,6 +4397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Sails | 114776 | [114776-blazing-sails.json](./114776-blazing-sails.json) |
 | Blazing Snake | 257372 | [257372-blazing-snake.json](./257372-blazing-snake.json) |
 | Blazing Snow | 142418 | [142418-blazing-snow.json](./142418-blazing-snow.json) |
+| Blazing Souls | 5475 | [5475-blazing-souls.json](./5475-blazing-souls.json) |
 | Blazing Souls Accelate | 39193 | [39193-blazing-souls-accelate.json](./39193-blazing-souls-accelate.json) |
 | Blazing Strike | 193531 | [193531-blazing-strike.json](./193531-blazing-strike.json) |
 | Blazing Tornado | 39582 | [39582-blazing-tornado.json](./39582-blazing-tornado.json) |
@@ -5517,6 +5519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Meirin | 204406 | [204406-bomb-meirin.json](./204406-bomb-meirin.json) |
 | Bomb Riders | 108407 | [108407-bomb-riders.json](./108407-bomb-riders.json) |
 | Bomb Rush Cyberfunk: Exclusive Edition | 379972 | [379972-bomb-rush-cyberfunk-exclusive-edition.json](./379972-bomb-rush-cyberfunk-exclusive-edition.json) |
+| Bomb Squad | 5662 | [5662-bomb-squad.json](./5662-bomb-squad.json) |
 | Bomb the City | 57669 | [57669-bomb-the-city.json](./57669-bomb-the-city.json) |
 | Bomb the Monsters! | 35638 | [35638-bomb-the-monsters.json](./35638-bomb-the-monsters.json) |
 | Bomb the Town | 319968 | [319968-bomb-the-town.json](./319968-bomb-the-town.json) |
@@ -6291,6 +6294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxigon! | 109656 | [109656-boxigon.json](./109656-boxigon.json) |
 | Boxing | 230841 | [230841-boxing.json](./230841-boxing.json) |
 | Boxing | 55103 | [55103-boxing.json](./55103-boxing.json) |
+| Boxing | 5663 | [5663-boxing.json](./5663-boxing.json) |
 | Boxing | 78619 | [78619-boxing.json](./78619-boxing.json) |
 | Boxing Babes: Sexy Fight Hentai Anime Girls | 165016 | [165016-boxing-babes-sexy-fight-hentai-anime-girls.json](./165016-boxing-babes-sexy-fight-hentai-anime-girls.json) |
 | Boxing Champions | 43425 | [43425-boxing-champions.json](./43425-boxing-champions.json) |
@@ -8058,6 +8062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buying Tomato | 394869 | [394869-buying-tomato.json](./394869-buying-tomato.json) |
 | Buzludzha VR | 126496 | [126496-buzludzha-vr.json](./126496-buzludzha-vr.json) |
 | Buzz | 232552 | [232552-buzz.json](./232552-buzz.json) |
+| Buzz Bombers | 5665 | [5665-buzz-bombers.json](./5665-buzz-bombers.json) |
 | Buzz Cut Simulation | 277313 | [277313-buzz-cut-simulation.json](./277313-buzz-cut-simulation.json) |
 | Buzz is a VTuber: I want to be famous, even if it's just a game | 301887 | [301887-buzz-is-a-vtuber-i-want-to-be-famous-even-if-its-just-a-game.json](./301887-buzz-is-a-vtuber-i-want-to-be-famous-even-if-its-just-a-game.json) |
 | Buzz Lightyear of Star Command | 19675 | [19675-buzz-lightyear-of-star-command.json](./19675-buzz-lightyear-of-star-command.json) |
