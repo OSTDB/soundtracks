@@ -383,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vandalhalla | 153934 | [153934-vandalhalla.json](./153934-vandalhalla.json) |
 | Vandozer | 137469 | [137469-vandozer.json](./137469-vandozer.json) |
 | Vangaro Tactics | 275094 | [275094-vangaro-tactics.json](./275094-vangaro-tactics.json) |
+| Vangers | 8830 | [8830-vangers.json](./8830-vangers.json) |
 | Vanguard Ace: Vertical Madness | 70916 | [70916-vanguard-ace-vertical-madness.json](./70916-vanguard-ace-vertical-madness.json) |
 | Vanguard Of Armor | 394159 | [394159-vanguard-of-armor.json](./394159-vanguard-of-armor.json) |
 | Vanguard Princess | 377294 | [377294-vanguard-princess.json](./377294-vanguard-princess.json) |
