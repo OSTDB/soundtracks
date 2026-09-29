@@ -1191,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Davy Jones' Locker | 177024 | [177024-davy-jones-locker.json](./177024-davy-jones-locker.json) |
 | Davy's Dreams of Chasing Things | 323366 | [323366-davys-dreams-of-chasing-things.json](./323366-davys-dreams-of-chasing-things.json) |
 | Dawgs: The Revenge | 400905 | [400905-dawgs-the-revenge.json](./400905-dawgs-the-revenge.json) |
+| Dawn | 29216 | [29216-dawn.json](./29216-dawn.json) |
 | Dawn | 319979 | [319979-dawn.json](./319979-dawn.json) |
 | Dawn Apart | 231392 | [231392-dawn-apart.json](./231392-dawn-apart.json) |
 | Dawn Break -Origin- | 117629 | [117629-dawn-break-origin.json](./117629-dawn-break-origin.json) |
@@ -5975,6 +5976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dodgers | 133820 | [133820-double-dodgers.json](./133820-double-dodgers.json) |
 | Double Doodle | 62797 | [62797-double-doodle.json](./62797-double-doodle.json) |
 | Double Down | 368149 | [368149-double-down.json](./368149-double-down.json) |
+| Double Dragon | 138806 | [138806-double-dragon.json](./138806-double-dragon.json) |
 | Double Dragon | 175799 | [175799-double-dragon.json](./175799-double-dragon.json) |
 | Double Dragon | 200154 | [200154-double-dragon.json](./200154-double-dragon.json) |
 | Double Dragon | 201319 | [201319-double-dragon.json](./201319-double-dragon.json) |
@@ -6028,6 +6030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Jump 2 | 151714 | [151714-double-jump-2.json](./151714-double-jump-2.json) |
 | Double Jump NFT | 200450 | [200450-double-jump-nft.json](./200450-double-jump-nft.json) |
 | Double K Games Store | 411667 | [411667-double-k-games-store.json](./411667-double-k-games-store.json) |
+| Double Kick Heroes | 29511 | [29511-double-kick-heroes.json](./29511-double-kick-heroes.json) |
 | Double Line | 141854 | [141854-double-line.json](./141854-double-line.json) |
 | Double Match | 83458 | [83458-double-match.json](./83458-double-match.json) |
 | Double Puzzled | 243794 | [243794-double-puzzled.json](./243794-double-puzzled.json) |
