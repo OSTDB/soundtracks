@@ -7198,6 +7198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora Polaris | 341690 | [341690-aurora-polaris.json](./341690-aurora-polaris.json) |
 | Aurora: Genesis | 349367 | [349367-aurora-genesis.json](./349367-aurora-genesis.json) |
 | Aurora: Hidden Colors | 126411 | [126411-aurora-hidden-colors.json](./126411-aurora-hidden-colors.json) |
+| Aurora: Puzzle Adventure | 25827 | [25827-aurora-puzzle-adventure.json](./25827-aurora-puzzle-adventure.json) |
 | Aurora: Weather Warfare | 129207 | [129207-aurora-weather-warfare.json](./129207-aurora-weather-warfare.json) |
 | Aurora's Awakening | 403798 | [403798-auroras-awakening.json](./403798-auroras-awakening.json) |
 | AuroraBound | 263585 | [263585-aurorabound.json](./263585-aurorabound.json) |
@@ -7662,6 +7663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aztec Solitaire | 91345 | [91345-aztec-solitaire.json](./91345-aztec-solitaire.json) |
 | Aztec Stones | 101771 | [101771-aztec-stones.json](./101771-aztec-stones.json) |
 | Aztec Tiki Talisman | 273357 | [273357-aztec-tiki-talisman.json](./273357-aztec-tiki-talisman.json) |
+| Aztec Tomb Adventure | 25853 | [25853-aztec-tomb-adventure.json](./25853-aztec-tomb-adventure.json) |
 | Aztec Tower | 114332 | [114332-aztec-tower.json](./114332-aztec-tower.json) |
 | Aztec Wars | 80628 | [80628-aztec-wars.json](./80628-aztec-wars.json) |
 | Aztlán Codex: El códice de los ancestros | 304684 | [304684-aztlan-codex-el-codice-de-los-ancestros.json](./304684-aztlan-codex-el-codice-de-los-ancestros.json) |
