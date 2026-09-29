@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Stages | 105308 | [105308-1000-stages.json](./105308-1000-stages.json) |
 | 1000 Words | 83913 | [83913-1000-words.json](./83913-1000-words.json) |
 | 1000: The All-Mother's Embrace | 326044 | [326044-1000-the-all-mothers-embrace.json](./326044-1000-the-all-mothers-embrace.json) |
+| 10000000 | 9705 | [9705-10000000.json](./9705-10000000.json) |
 | 1000xResist | 218282 | [218282-1000xresist.json](./218282-1000xresist.json) |
 | 1001 Black Raven Jigsaw | 199356 | [199356-1001-black-raven-jigsaw.json](./199356-1001-black-raven-jigsaw.json) |
 | 1001 Crystal Mazes Collection | 66625 | [66625-1001-crystal-mazes-collection.json](./66625-1001-crystal-mazes-collection.json) |
