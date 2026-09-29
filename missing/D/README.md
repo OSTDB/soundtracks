@@ -2420,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense Dome | 58896 | [58896-defense-dome.json](./58896-defense-dome.json) |
 | Defense Grid 2: Enhanced VR Edition | 58745 | [58745-defense-grid-2-enhanced-vr-edition.json](./58745-defense-grid-2-enhanced-vr-edition.json) |
 | Defense Grid: The Awakening - Resurgence Map Pack 3 | 156026 | [156026-defense-grid-the-awakening-resurgence-map-pack-3.json](./156026-defense-grid-the-awakening-resurgence-map-pack-3.json) |
+| Defense Keeper | 24020 | [24020-defense-keeper.json](./24020-defense-keeper.json) |
 | Defense Master | 284486 | [284486-defense-master.json](./284486-defense-master.json) |
 | Defense of Egypt: Cleopatra Mission | 31097 | [31097-defense-of-egypt-cleopatra-mission.json](./31097-defense-of-egypt-cleopatra-mission.json) |
 | Defense of Kyrath | 406310 | [406310-defense-of-kyrath.json](./406310-defense-of-kyrath.json) |
@@ -3257,6 +3258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destructo | 171483 | [171483-destructo.json](./171483-destructo.json) |
 | Destructo Truck | 353495 | [353495-destructo-truck.json](./353495-destructo-truck.json) |
 | DestructoPod | 119710 | [119710-destructopod.json](./119710-destructopod.json) |
+| Destructor | 24019 | [24019-destructor.json](./24019-destructor.json) |
 | Desynced | 230222 | [230222-desynced.json](./230222-desynced.json) |
 | Detail Hunter | 322982 | [322982-detail-hunter.json](./322982-detail-hunter.json) |
 | DeTails | 355129 | [355129-details.json](./355129-details.json) |
