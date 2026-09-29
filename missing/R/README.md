@@ -3584,6 +3584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise High | 81240 | [81240-rise-high.json](./81240-rise-high.json) |
 | Rise of Ages | 111564 | [111564-rise-of-ages.json](./111564-rise-of-ages.json) |
 | Rise Of Anupet | 309644 | [309644-rise-of-anupet.json](./309644-rise-of-anupet.json) |
+| Rise of Balloons | 29100 | [29100-rise-of-balloons.json](./29100-rise-of-balloons.json) |
 | Rise of Castles | 305848 | [305848-rise-of-castles.json](./305848-rise-of-castles.json) |
 | Rise of Champions | 60495 | [60495-rise-of-champions.json](./60495-rise-of-champions.json) |
 | Rise of Chi | 384506 | [384506-rise-of-chi.json](./384506-rise-of-chi.json) |
