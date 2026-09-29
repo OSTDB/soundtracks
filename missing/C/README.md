@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capria: Magic of the Elements | 33142 | [33142-capria-magic-of-the-elements.json](./33142-capria-magic-of-the-elements.json) |
 | Capsella: The Lights of Lucerne | 103501 | [103501-capsella-the-lights-of-lucerne.json](./103501-capsella-the-lights-of-lucerne.json) |
 | Capsize | 122403 | [122403-capsize.json](./122403-capsize.json) |
+| Capsized | 3050 | [3050-capsized.json](./3050-capsized.json) |
 | Capslock | 300425 | [300425-capslock.json](./300425-capslock.json) |
 | Capsule | 17487 | [17487-capsule.json](./17487-capsule.json) |
 | Capsule Cat's Big Space Adventure | 280334 | [280334-capsule-cats-big-space-adventure.json](./280334-capsule-cats-big-space-adventure.json) |
