@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Taluluto-kun | 180301 | [180301-magical-taluluto-kun.json](./180301-magical-taluluto-kun.json) |
 | Magical Taluluto-kun 2: Raiba Zone Panic!! | 125846 | [125846-magical-taluluto-kun-2-raiba-zone-panic.json](./125846-magical-taluluto-kun-2-raiba-zone-panic.json) |
 | Magical Tetris Challenge | 205583 | [205583-magical-tetris-challenge.json](./205583-magical-tetris-challenge.json) |
+| Magical Tetris Challenge | 3398 | [3398-magical-tetris-challenge.json](./3398-magical-tetris-challenge.json) |
 | Magical Town | 244877 | [244877-magical-town.json](./244877-magical-town.json) |
 | Magical Twirler Angel Rabbie | 408264 | [408264-magical-twirler-angel-rabbie.json](./408264-magical-twirler-angel-rabbie.json) |
 | Magical Valkyrie Lyristia | 153949 | [153949-magical-valkyrie-lyristia.json](./153949-magical-valkyrie-lyristia.json) |
@@ -4704,6 +4705,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Entertainment Pack 4 | 79964 | [79964-microsoft-entertainment-pack-4.json](./79964-microsoft-entertainment-pack-4.json) |
 | Microsoft Entertainment Pack for Windows | 78025 | [78025-microsoft-entertainment-pack-for-windows.json](./78025-microsoft-entertainment-pack-for-windows.json) |
 | Microsoft Flight Simulator | 119295 | [119295-microsoft-flight-simulator.json](./119295-microsoft-flight-simulator.json) |
+| Microsoft Flight Simulator 1.0 | 3353 | [3353-microsoft-flight-simulator-1-0.json](./3353-microsoft-flight-simulator-1-0.json) |
+| Microsoft Flight Simulator 2.0 | 3354 | [3354-microsoft-flight-simulator-2-0.json](./3354-microsoft-flight-simulator-2-0.json) |
 | Microsoft Flight Simulator 2000 | 788 | [788-microsoft-flight-simulator-2000.json](./788-microsoft-flight-simulator-2000.json) |
 | Microsoft Flight Simulator 2002 | 73734 | [73734-microsoft-flight-simulator-2002.json](./73734-microsoft-flight-simulator-2002.json) |
 | Microsoft Flight Simulator 2002: Professional Edition | 711 | [711-microsoft-flight-simulator-2002-professional-edition.json](./711-microsoft-flight-simulator-2002-professional-edition.json) |
@@ -4713,9 +4716,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator 2024: National Championship Air Races | 405085 | [405085-microsoft-flight-simulator-2024-national-championship-air-races.json](./405085-microsoft-flight-simulator-2024-national-championship-air-races.json) |
 | Microsoft Flight Simulator 2024: World Update 20 - Japan | 370133 | [370133-microsoft-flight-simulator-2024-world-update-20-japan.json](./370133-microsoft-flight-simulator-2024-world-update-20-japan.json) |
 | Microsoft Flight Simulator 2024: World Update 22 - US National Parks | 405084 | [405084-microsoft-flight-simulator-2024-world-update-22-us-national-parks.json](./405084-microsoft-flight-simulator-2024-world-update-22-us-national-parks.json) |
+| Microsoft Flight Simulator 3.0 | 3355 | [3355-microsoft-flight-simulator-3-0.json](./3355-microsoft-flight-simulator-3-0.json) |
+| Microsoft Flight Simulator 4.0 | 3356 | [3356-microsoft-flight-simulator-4-0.json](./3356-microsoft-flight-simulator-4-0.json) |
 | Microsoft Flight Simulator 4.0: Aircraft & Scenery Designer | 84204 | [84204-microsoft-flight-simulator-4-0-aircraft-and-scenery-designer.json](./84204-microsoft-flight-simulator-4-0-aircraft-and-scenery-designer.json) |
 | Microsoft Flight Simulator 5.1: Scenery Pack | 209452 | [209452-microsoft-flight-simulator-5-1-scenery-pack.json](./209452-microsoft-flight-simulator-5-1-scenery-pack.json) |
 | Microsoft Flight Simulator 5.1: The Virtual Squadron | 141224 | [141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json](./141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json) |
+| Microsoft Flight Simulator for Windows 95 | 3359 | [3359-microsoft-flight-simulator-for-windows-95.json](./3359-microsoft-flight-simulator-for-windows-95.json) |
 | Microsoft Flight Simulator X: Acceleration | 713 | [713-microsoft-flight-simulator-x-acceleration.json](./713-microsoft-flight-simulator-x-acceleration.json) |
 | Microsoft Flight Simulator X: Deluxe Edition | 23775 | [23775-microsoft-flight-simulator-x-deluxe-edition.json](./23775-microsoft-flight-simulator-x-deluxe-edition.json) |
 | Microsoft Flight Simulator X: Iris F-15E/I/SG | 224498 | [224498-microsoft-flight-simulator-x-iris-f-15e-i-sg.json](./224498-microsoft-flight-simulator-x-iris-f-15e-i-sg.json) |
@@ -5027,6 +5033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Mike (Power Pete) | 72658 | [72658-mighty-mike-power-pete.json](./72658-mighty-mike-power-pete.json) |
 | Mighty Monkey | 40389 | [40389-mighty-monkey.json](./40389-mighty-monkey.json) |
 | Mighty Monster Mayhem | 29622 | [29622-mighty-monster-mayhem.json](./29622-mighty-monster-mayhem.json) |
+| Mighty Morphin Power Rangers | 3286 | [3286-mighty-morphin-power-rangers.json](./3286-mighty-morphin-power-rangers.json) |
 | Mighty Morphin Power Rangers | 3324 | [3324-mighty-morphin-power-rangers.json](./3324-mighty-morphin-power-rangers.json) |
 | Mighty Morphin Power Rangers Game Watch | 218431 | [218431-mighty-morphin-power-rangers-game-watch.json](./218431-mighty-morphin-power-rangers-game-watch.json) |
 | Mighty Morphin Power Rangers: Alpha 5 Where Are You? | 198819 | [198819-mighty-morphin-power-rangers-alpha-5-where-are-you.json](./198819-mighty-morphin-power-rangers-alpha-5-where-are-you.json) |
@@ -6289,6 +6296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobil 1 Rally Championship | 793 | [793-mobil-1-rally-championship.json](./793-mobil-1-rally-championship.json) |
 | Mobile Ball | 109476 | [109476-mobile-ball.json](./109476-mobile-ball.json) |
 | Mobile Dinosaur: Action Edition | 108501 | [108501-mobile-dinosaur-action-edition.json](./108501-mobile-dinosaur-action-edition.json) |
+| Mobile Golf | 3402 | [3402-mobile-golf.json](./3402-mobile-golf.json) |
 | Mobile Hangman | 220624 | [220624-mobile-hangman.json](./220624-mobile-hangman.json) |
 | Mobile Life | 181148 | [181148-mobile-life.json](./181148-mobile-life.json) |
 | Mobile Minigames: Play & Earn | 131355 | [131355-mobile-minigames-play-and-earn.json](./131355-mobile-minigames-play-and-earn.json) |
@@ -8439,6 +8447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mundus: Impossible Universe | 95572 | [95572-mundus-impossible-universe.json](./95572-mundus-impossible-universe.json) |
 | Mung Daal Odyssey | 326589 | [326589-mung-daal-odyssey.json](./326589-mung-daal-odyssey.json) |
 | Munkiki's Castles | 111740 | [111740-munkikis-castles.json](./111740-munkikis-castles.json) |
+| Muppet Adventure: Chaos at the Carnival | 3257 | [3257-muppet-adventure-chaos-at-the-carnival.json](./3257-muppet-adventure-chaos-at-the-carnival.json) |
 | Muppet Pinball Mayhem | 49322 | [49322-muppet-pinball-mayhem.json](./49322-muppet-pinball-mayhem.json) |
 | Muppet RaceMania | 3259 | [3259-muppet-racemania.json](./3259-muppet-racemania.json) |
 | Muppet Studios Presents: You're the Director | 80528 | [80528-muppet-studios-presents-youre-the-director.json](./80528-muppet-studios-presents-youre-the-director.json) |
