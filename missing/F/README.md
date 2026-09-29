@@ -1932,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 06: Road to FIFA World Cup | 22342 | [22342-fifa-06-road-to-fifa-world-cup.json](./22342-fifa-06-road-to-fifa-world-cup.json) |
 | FIFA 09 | 240317 | [240317-fifa-09.json](./240317-fifa-09.json) |
 | FIFA 14 | 240422 | [240422-fifa-14.json](./240422-fifa-14.json) |
+| FIFA 15 | 240427 | [240427-fifa-15.json](./240427-fifa-15.json) |
 | FIFA 15: Ultimate Team Edition | 42898 | [42898-fifa-15-ultimate-team-edition.json](./42898-fifa-15-ultimate-team-edition.json) |
 | FIFA 16 | 11071 | [11071-fifa-16.json](./11071-fifa-16.json) |
 | FIFA 19 | 96209 | [96209-fifa-19.json](./96209-fifa-19.json) |
@@ -4446,6 +4447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forging Ahead | 244740 | [244740-forging-ahead.json](./244740-forging-ahead.json) |
 | Forging Glory | 132814 | [132814-forging-glory.json](./132814-forging-glory.json) |
 | Forging History Saga: The big bang | 182842 | [182842-forging-history-saga-the-big-bang.json](./182842-forging-history-saga-the-big-bang.json) |
+| Forgive Me Father 2 | 244784 | [244784-forgive-me-father-2.json](./244784-forgive-me-father-2.json) |
 | Forgive Me My Henchmen | 106097 | [106097-forgive-me-my-henchmen.json](./106097-forgive-me-my-henchmen.json) |
 | Forgiveness | 111471 | [111471-forgiveness.json](./111471-forgiveness.json) |
 | Forgiveness | 291580 | [291580-forgiveness.json](./291580-forgiveness.json) |
