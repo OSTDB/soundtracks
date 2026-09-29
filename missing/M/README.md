@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 22 | 152480 | [152480-madden-nfl-22.json](./152480-madden-nfl-22.json) |
 | Madden NFL 22 | 243665 | [243665-madden-nfl-22.json](./243665-madden-nfl-22.json) |
 | Madden NFL 22: Dynasty Edition | 155098 | [155098-madden-nfl-22-dynasty-edition.json](./155098-madden-nfl-22-dynasty-edition.json) |
+| Madden NFL 23 | 203376 | [203376-madden-nfl-23.json](./203376-madden-nfl-23.json) |
 | Madden NFL 23 | 243668 | [243668-madden-nfl-23.json](./243668-madden-nfl-23.json) |
 | Madden NFL 23: All Madden Edition | 204081 | [204081-madden-nfl-23-all-madden-edition.json](./204081-madden-nfl-23-all-madden-edition.json) |
 | Madden NFL 24: Deluxe Edition | 252388 | [252388-madden-nfl-24-deluxe-edition.json](./252388-madden-nfl-24-deluxe-edition.json) |
@@ -5462,6 +5463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Hermitcraft Season 9 Map | 316750 | [316750-minecraft-hermitcraft-season-9-map.json](./316750-minecraft-hermitcraft-season-9-map.json) |
 | Minecraft: Holiday Skin Pack 2015 | 303023 | [303023-minecraft-holiday-skin-pack-2015.json](./303023-minecraft-holiday-skin-pack-2015.json) |
 | Minecraft: James Web Space Telescope | 322959 | [322959-minecraft-james-web-space-telescope.json](./322959-minecraft-james-web-space-telescope.json) |
+| Minecraft: Java & Bedrock Edition | 204910 | [204910-minecraft-java-and-bedrock-edition.json](./204910-minecraft-java-and-bedrock-edition.json) |
 | Minecraft: Jurassic World Adventures | 285053 | [285053-minecraft-jurassic-world-adventures.json](./285053-minecraft-jurassic-world-adventures.json) |
 | Minecraft: Kung Fu Panda | 299203 | [299203-minecraft-kung-fu-panda.json](./299203-minecraft-kung-fu-panda.json) |
 | Minecraft: Legends | 204621 | [204621-minecraft-legends.json](./204621-minecraft-legends.json) |
