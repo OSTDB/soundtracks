@@ -669,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Winds: Tomb of the Sol Empire | 74484 | [74484-tales-of-winds-tomb-of-the-sol-empire.json](./74484-tales-of-winds-tomb-of-the-sol-empire.json) |
 | Tales of Windy Land | 66046 | [66046-tales-of-windy-land.json](./66046-tales-of-windy-land.json) |
 | Tales of Xillia | 1212 | [1212-tales-of-xillia.json](./1212-tales-of-xillia.json) |
+| Tales of Xillia 2 | 1213 | [1213-tales-of-xillia-2.json](./1213-tales-of-xillia-2.json) |
 | Tales of Xillia Remastered: Super Growth Support Herb Set | 375173 | [375173-tales-of-xillia-remastered-super-growth-support-herb-set.json](./375173-tales-of-xillia-remastered-super-growth-support-herb-set.json) |
 | Tales of Yore | 186162 | [186162-tales-of-yore.json](./186162-tales-of-yore.json) |
 | Tales of Zizada | 379440 | [379440-tales-of-zizada.json](./379440-tales-of-zizada.json) |
@@ -7693,6 +7694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spirits of Kelley Family | 129026 | [129026-the-spirits-of-kelley-family.json](./129026-the-spirits-of-kelley-family.json) |
 | The Split | 229015 | [229015-the-split.json](./229015-the-split.json) |
 | The SpongeBob SquarePants Movie | 210725 | [210725-the-spongebob-squarepants-movie.json](./210725-the-spongebob-squarepants-movie.json) |
+| The SpongeBob SquarePants Movie | 2767 | [2767-the-spongebob-squarepants-movie.json](./2767-the-spongebob-squarepants-movie.json) |
 | The SpongeBob SquarePants Movie 3D | 135811 | [135811-the-spongebob-squarepants-movie-3d.json](./135811-the-spongebob-squarepants-movie-3d.json) |
 | The Spookening | 34602 | [34602-the-spookening.json](./34602-the-spookening.json) |
 | The Spooky Island | 394167 | [394167-the-spooky-island.json](./394167-the-spooky-island.json) |
