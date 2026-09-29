@@ -1821,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enter/Exit the Gungeon | 228735 | [228735-enter-exit-the-gungeon.json](./228735-enter-exit-the-gungeon.json) |
 | Enterprise | 12993 | [12993-enterprise.json](./12993-enterprise.json) |
 | Enterprise | 252181 | [252181-enterprise.json](./252181-enterprise.json) |
+| Entertainment Hero | 26833 | [26833-entertainment-hero.json](./26833-entertainment-hero.json) |
 | Entertainment Hero 2 | 130154 | [130154-entertainment-hero-2.json](./130154-entertainment-hero-2.json) |
 | Entertainment Simulator | 151713 | [151713-entertainment-simulator.json](./151713-entertainment-simulator.json) |
 | Entheogen | 366259 | [366259-entheogen.json](./366259-entheogen.json) |
@@ -2661,6 +2662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etherlords | 344027 | [344027-etherlords.json](./344027-etherlords.json) |
 | Ethernal | 214438 | [214438-ethernal.json](./214438-ethernal.json) |
 | Ethernal War | 152855 | [152855-ethernal-war.json](./152855-ethernal-war.json) |
+| Ethernalis | 26830 | [26830-ethernalis.json](./26830-ethernalis.json) |
 | Ethernia | 371979 | [371979-ethernia.json](./371979-ethernia.json) |
 | EthnoGuessr | 340230 | [340230-ethnoguessr.json](./340230-ethnoguessr.json) |
 | Ethos: Divinity's Curse | 201706 | [201706-ethos-divinitys-curse.json](./201706-ethos-divinitys-curse.json) |
