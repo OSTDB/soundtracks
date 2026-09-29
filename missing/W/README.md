@@ -767,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarLeague | 230308 | [230308-warleague.json](./230308-warleague.json) |
 | Warlike | 151151 | [151151-warlike.json](./151151-warlike.json) |
 | Warlings 2: Total Armageddon | 280185 | [280185-warlings-2-total-armageddon.json](./280185-warlings-2-total-armageddon.json) |
+| Warlock | 13044 | [13044-warlock.json](./13044-warlock.json) |
 | Warlock | 19773 | [19773-warlock.json](./19773-warlock.json) |
 | Warlock II: Great Mage Edition | 53910 | [53910-warlock-ii-great-mage-edition.json](./53910-warlock-ii-great-mage-edition.json) |
 | Warlock Quest II | 75228 | [75228-warlock-quest-ii.json](./75228-warlock-quest-ii.json) |
@@ -1964,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whipplu Special | 266486 | [266486-whipplu-special.json](./266486-whipplu-special.json) |
 | Whirled | 123640 | [123640-whirled.json](./123640-whirled.json) |
 | Whirlight: No Time To Trip | 287707 | [287707-whirlight-no-time-to-trip.json](./287707-whirlight-no-time-to-trip.json) |
+| Whirligig | 12931 | [12931-whirligig.json](./12931-whirligig.json) |
 | Whirlo | 46588 | [46588-whirlo.json](./46588-whirlo.json) |
 | Whirlpool Derby: Grand Crash Auto | 90365 | [90365-whirlpool-derby-grand-crash-auto.json](./90365-whirlpool-derby-grand-crash-auto.json) |
 | Whirlwind of Vietnam | 72714 | [72714-whirlwind-of-vietnam.json](./72714-whirlwind-of-vietnam.json) |
