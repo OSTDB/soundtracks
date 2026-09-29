@@ -2363,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Girl and the Mysterious Army of Urban Legend Monsters! ~Hunt of the Headless Horseman~ | 119562 | [119562-ninja-girl-and-the-mysterious-army-of-urban-legend-monsters-hunt-of-the-headless-horseman.json](./119562-ninja-girl-and-the-mysterious-army-of-urban-legend-monsters-hunt-of-the-headless-horseman.json) |
 | Ninja Girls: Kunoichi Puzzle | 315840 | [315840-ninja-girls-kunoichi-puzzle.json](./315840-ninja-girls-kunoichi-puzzle.json) |
 | Ninja Glove | 338937 | [338937-ninja-glove.json](./338937-ninja-glove.json) |
+| Ninja Golf | 11121 | [11121-ninja-golf.json](./11121-ninja-golf.json) |
 | Ninja Hagakure | 215621 | [215621-ninja-hagakure.json](./215621-ninja-hagakure.json) |
 | Ninja Hamster | 39150 | [39150-ninja-hamster.json](./39150-ninja-hamster.json) |
 | Ninja Hands | 266254 | [266254-ninja-hands.json](./266254-ninja-hands.json) |
@@ -3121,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoseBound | 132821 | [132821-nosebound.json](./132821-nosebound.json) |
 | NoSeq | 152270 | [152270-noseq.json](./152270-noseq.json) |
 | NoserLand | 51960 | [51960-noserland.json](./51960-noserland.json) |
+| Nosferatu | 11125 | [11125-nosferatu.json](./11125-nosferatu.json) |
 | Nosfereatyou | 179579 | [179579-nosfereatyou.json](./179579-nosfereatyou.json) |
 | Nosos | 175885 | [175885-nosos.json](./175885-nosos.json) |
 | NoSpellHero | 341486 | [341486-nospellhero.json](./341486-nospellhero.json) |
