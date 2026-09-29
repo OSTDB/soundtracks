@@ -3100,6 +3100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Quest | 326959 | [326959-shadow-quest.json](./326959-shadow-quest.json) |
 | Shadow Racer | 120344 | [120344-shadow-racer.json](./120344-shadow-racer.json) |
 | Shadow Rasa | 390147 | [390147-shadow-rasa.json](./390147-shadow-rasa.json) |
+| Shadow Realms | 7617 | [7617-shadow-realms.json](./7617-shadow-realms.json) |
 | Shadow Redemption | 169398 | [169398-shadow-redemption.json](./169398-shadow-redemption.json) |
 | Shadow Rising: Reinedgening | 330307 | [330307-shadow-rising-reinedgening.json](./330307-shadow-rising-reinedgening.json) |
 | Shadow Runner | 116287 | [116287-shadow-runner.json](./116287-shadow-runner.json) |
@@ -4699,6 +4700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill: Play Novel | 77257 | [77257-silent-hill-play-novel.json](./77257-silent-hill-play-novel.json) |
 | Silent Hill: Shattered Memories | 486 | [486-silent-hill-shattered-memories.json](./486-silent-hill-shattered-memories.json) |
 | Silent Hill: The Arcade | 324910 | [324910-silent-hill-the-arcade.json](./324910-silent-hill-the-arcade.json) |
+| Silent Hills | 7611 | [7611-silent-hills.json](./7611-silent-hills.json) |
 | Silent Hope: Wanderer's Weapon & Item Set | 254464 | [254464-silent-hope-wanderers-weapon-and-item-set.json](./254464-silent-hope-wanderers-weapon-and-item-set.json) |
 | Silent House | 177304 | [177304-silent-house.json](./177304-silent-house.json) |
 | Silent Hunt | 374694 | [374694-silent-hunt.json](./374694-silent-hunt.json) |
@@ -13983,6 +13985,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Golf 2018 | 102972 | [102972-super-golf-2018.json](./102972-super-golf-2018.json) |
 | Super Gorilla Quest 2: A Space Chimpanzee | 347230 | [347230-super-gorilla-quest-2-a-space-chimpanzee.json](./347230-super-gorilla-quest-2-a-space-chimpanzee.json) |
 | Super Grand Prix | 15381 | [15381-super-grand-prix.json](./15381-super-grand-prix.json) |
+| Super Granny | 7502 | [7502-super-granny.json](./7502-super-granny.json) |
+| Super Granny 2: Granny in Paradise | 7523 | [7523-super-granny-2-granny-in-paradise.json](./7523-super-granny-2-granny-in-paradise.json) |
+| Super Granny 3 | 7524 | [7524-super-granny-3.json](./7524-super-granny-3.json) |
+| Super Granny 4 | 7525 | [7525-super-granny-4.json](./7525-super-granny-4.json) |
+| Super Granny 5 | 7526 | [7526-super-granny-5.json](./7526-super-granny-5.json) |
+| Super Granny 6 | 7527 | [7527-super-granny-6.json](./7527-super-granny-6.json) |
 | Super Granny Collection | 27855 | [27855-super-granny-collection.json](./27855-super-granny-collection.json) |
 | Super Grappling Gecko | 154982 | [154982-super-grappling-gecko.json](./154982-super-grappling-gecko.json) |
 | Super Grav | 31843 | [31843-super-grav.json](./31843-super-grav.json) |
