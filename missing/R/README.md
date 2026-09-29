@@ -2484,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Roby | 68933 | [68933-rescue-roby.json](./68933-rescue-roby.json) |
 | Rescue Rover 2 | 72110 | [72110-rescue-rover-2.json](./72110-rescue-rover-2.json) |
 | Rescue Rover Collection | 150692 | [150692-rescue-rover-collection.json](./150692-rescue-rover-collection.json) |
+| Rescue Squad | 24006 | [24006-rescue-squad.json](./24006-rescue-squad.json) |
 | Rescue Team | 36019 | [36019-rescue-team.json](./36019-rescue-team.json) |
 | Rescue Team 4 | 53502 | [53502-rescue-team-4.json](./53502-rescue-team-4.json) |
 | Rescue Team 6 | 53503 | [53503-rescue-team-6.json](./53503-rescue-team-6.json) |
