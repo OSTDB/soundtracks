@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Hot Doggeria HD | 88892 | [88892-papas-hot-doggeria-hd.json](./88892-papas-hot-doggeria-hd.json) |
 | Papa's Pancakeria HD | 88891 | [88891-papas-pancakeria-hd.json](./88891-papas-pancakeria-hd.json) |
 | Papa's Pizzeria to Go! | 96296 | [96296-papas-pizzeria-to-go.json](./96296-papas-pizzeria-to-go.json) |
+| Papair | 57148 | [57148-papair.json](./57148-papair.json) |
 | Papao: The Legend of the Bogeyman | 372544 | [372544-papao-the-legend-of-the-bogeyman.json](./372544-papao-the-legend-of-the-bogeyman.json) |
 | Paparazzi | 379586 | [379586-paparazzi.json](./379586-paparazzi.json) |
 | Pape Rangers | 294131 | [294131-pape-rangers.json](./294131-pape-rangers.json) |
@@ -1812,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pencil Marks | 365144 | [365144-pencil-marks.json](./365144-pencil-marks.json) |
 | Pencil Peril | 176356 | [176356-pencil-peril.json](./176356-pencil-peril.json) |
 | Pencil Plus: The Wrath of The Spankster | 242245 | [242245-pencil-plus-the-wrath-of-the-spankster.json](./242245-pencil-plus-the-wrath-of-the-spankster.json) |
+| Pencil Sharpening Simulator | 57172 | [57172-pencil-sharpening-simulator.json](./57172-pencil-sharpening-simulator.json) |
 | Pencil Story - Free Logic Game | 36487 | [36487-pencil-story-free-logic-game.json](./36487-pencil-story-free-logic-game.json) |
 | Pendragon | 132903 | [132903-pendragon.json](./132903-pendragon.json) |
 | Pendragon Rising | 34210 | [34210-pendragon-rising.json](./34210-pendragon-rising.json) |
@@ -3333,6 +3335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Guy | 363429 | [363429-pirate-guy.json](./363429-pirate-guy.json) |
 | Pirate Hunter | 62695 | [62695-pirate-hunter.json](./62695-pirate-hunter.json) |
 | Pirate Hunter: Somali Trap | 309850 | [309850-pirate-hunter-somali-trap.json](./309850-pirate-hunter-somali-trap.json) |
+| Pirate Invaders | 57182 | [57182-pirate-invaders.json](./57182-pirate-invaders.json) |
 | Pirate Island | 172097 | [172097-pirate-island.json](./172097-pirate-island.json) |
 | Pirate Island | 245801 | [245801-pirate-island.json](./245801-pirate-island.json) |
 | Pirate Island | 406902 | [406902-pirate-island.json](./406902-pirate-island.json) |
@@ -5238,6 +5241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygonet Commanders | 222905 | [222905-polygonet-commanders.json](./222905-polygonet-commanders.json) |
 | Polygunr | 291038 | [291038-polygunr.json](./291038-polygunr.json) |
 | Polyhop: The Skybound Islands | 278743 | [278743-polyhop-the-skybound-islands.json](./278743-polyhop-the-skybound-islands.json) |
+| PolyKat | 57028 | [57028-polykat.json](./57028-polykat.json) |
 | Polyko's Super Jelly Bean Quest in the Sketchbook of Illusion | 130777 | [130777-polykos-super-jelly-bean-quest-in-the-sketchbook-of-illusion.json](./130777-polykos-super-jelly-bean-quest-in-the-sketchbook-of-illusion.json) |
 | Polymatic | 103624 | [103624-polymatic.json](./103624-polymatic.json) |
 | Polymega Collection Vol. 2: Karate Champ | 324512 | [324512-polymega-collection-vol-2-karate-champ.json](./324512-polymega-collection-vol-2-karate-champ.json) |
@@ -6595,6 +6599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prodoomer | 201234 | [201234-prodoomer.json](./201234-prodoomer.json) |
 | Production Line: Doors that go like this | 124782 | [124782-production-line-doors-that-go-like-this.json](./124782-production-line-doors-that-go-like-this.json) |
 | Profanation | 304127 | [304127-profanation.json](./304127-profanation.json) |
+| Profane | 57196 | [57196-profane.json](./57196-profane.json) |
 | Profession investigator | 190967 | [190967-profession-investigator.json](./190967-profession-investigator.json) |
 | Professional Baseball Tactics | 57753 | [57753-professional-baseball-tactics.json](./57753-professional-baseball-tactics.json) |
 | Professional Boyfriend | 239869 | [239869-professional-boyfriend.json](./239869-professional-boyfriend.json) |
