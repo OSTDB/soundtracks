@@ -2152,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seductive Solitude | 225080 | [225080-seductive-solitude.json](./225080-seductive-solitude.json) |
 | Seductive Tombs: Beach Love | 163767 | [163767-seductive-tombs-beach-love.json](./163767-seductive-tombs-beach-love.json) |
 | See | 141815 | [141815-see.json](./141815-see.json) |
+| See Light | 29088 | [29088-see-light.json](./29088-see-light.json) |
 | See Me | 97903 | [97903-see-me.json](./97903-see-me.json) |
 | See Thru: Need a Friend? | 305333 | [305333-see-thru-need-a-friend.json](./305333-see-thru-need-a-friend.json) |
 | See You Later | 235451 | [235451-see-you-later.json](./235451-see-you-later.json) |
@@ -4222,6 +4223,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short 'n Quick | 274203 | [274203-short-n-quick.json](./274203-short-n-quick.json) |
 | Short 'n Quick 2 | 274204 | [274204-short-n-quick-2.json](./274204-short-n-quick-2.json) |
 | Short Circuit | 193440 | [193440-short-circuit.json](./193440-short-circuit.json) |
+| Short Circuit | 29035 | [29035-short-circuit.json](./29035-short-circuit.json) |
+| Short Circuit | 29036 | [29036-short-circuit.json](./29036-short-circuit.json) |
 | Short Memories | 340372 | [340372-short-memories.json](./340372-short-memories.json) |
 | Short Night | 266773 | [266773-short-night.json](./266773-short-night.json) |
 | Short Short Fictions | 369103 | [369103-short-short-fictions.json](./369103-short-short-fictions.json) |
@@ -4779,6 +4782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Falls: Ghoul Busters | 208583 | [208583-silver-falls-ghoul-busters.json](./208583-silver-falls-ghoul-busters.json) |
 | Silver Falls: Guardians And Metal Exterminators S | 283722 | [283722-silver-falls-guardians-and-metal-exterminators-s.json](./283722-silver-falls-guardians-and-metal-exterminators-s.json) |
 | Silver Gene: The Mutia Chronicle 1 | 308414 | [308414-silver-gene-the-mutia-chronicle-1.json](./308414-silver-gene-the-mutia-chronicle-1.json) |
+| Silver Island | 29066 | [29066-silver-island.json](./29066-silver-island.json) |
 | Silver Jiken | 84317 | [84317-silver-jiken.json](./84317-silver-jiken.json) |
 | Silver Jiken: 25-ku | 30220 | [30220-silver-jiken-25-ku.json](./30220-silver-jiken-25-ku.json) |
 | Silver Level Pack | 289884 | [289884-silver-level-pack.json](./289884-silver-level-pack.json) |
@@ -6127,6 +6131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sling Ming | 74400 | [74400-sling-ming.json](./74400-sling-ming.json) |
 | Slingbox | 371995 | [371995-slingbox.json](./371995-slingbox.json) |
 | Slinger | 255955 | [255955-slinger.json](./255955-slinger.json) |
+| Slinger VR | 29098 | [29098-slinger-vr.json](./29098-slinger-vr.json) |
 | Slingo 15th Anniversary Edition | 208976 | [208976-slingo-15th-anniversary-edition.json](./208976-slingo-15th-anniversary-edition.json) |
 | Slingo Adventure | 234185 | [234185-slingo-adventure.json](./234185-slingo-adventure.json) |
 | Slingo Deluxe Bundle | 208921 | [208921-slingo-deluxe-bundle.json](./208921-slingo-deluxe-bundle.json) |
@@ -6413,6 +6418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Up: Pretty Pretty | 172147 | [172147-smash-up-pretty-pretty.json](./172147-smash-up-pretty-pretty.json) |
 | Smash'em | 158703 | [158703-smashem.json](./158703-smashem.json) |
 | Smash'em | 185543 | [185543-smashem.json](./185543-smashem.json) |
+| Smashball | 29122 | [29122-smashball.json](./29122-smashball.json) |
 | Smashbreak | 208959 | [208959-smashbreak.json](./208959-smashbreak.json) |
 | Smashcat | 10835 | [10835-smashcat.json](./10835-smashcat.json) |
 | Smashed and Boiled | 322110 | [322110-smashed-and-boiled.json](./322110-smashed-and-boiled.json) |
