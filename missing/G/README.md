@@ -560,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Machine 2 | 346762 | [346762-game-machine-2.json](./346762-game-machine-2.json) |
 | Game Night | 406175 | [406175-game-night.json](./406175-game-night.json) |
 | Game no Kanzume Vol. 1 | 398458 | [398458-game-no-kanzume-vol-1.json](./398458-game-no-kanzume-vol-1.json) |
+| Game no Kanzume Vol. 2 | 59518 | [59518-game-no-kanzume-vol-2.json](./59518-game-no-kanzume-vol-2.json) |
 | Game no Tatsujin: Money Wars | 41314 | [41314-game-no-tatsujin-money-wars.json](./41314-game-no-tatsujin-money-wars.json) |
 | Game of Chaloupe | 105758 | [105758-game-of-chaloupe.json](./105758-game-of-chaloupe.json) |
 | Game of Clowns | 27806 | [27806-game-of-clowns.json](./27806-game-of-clowns.json) |
@@ -1004,6 +1005,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GB Dash | 393094 | [393094-gb-dash.json](./393094-gb-dash.json) |
 | GB Genjin Land: Viva! Chikkun Oukoku | 64344 | [64344-gb-genjin-land-viva-chikkun-oukoku.json](./64344-gb-genjin-land-viva-chikkun-oukoku.json) |
 | GB Harobots | 281454 | [281454-gb-harobots.json](./281454-gb-harobots.json) |
+| GB Pachio-kun | 59520 | [59520-gb-pachio-kun.json](./59520-gb-pachio-kun.json) |
+| GB Pachio-kun 2 | 59512 | [59512-gb-pachio-kun-2.json](./59512-gb-pachio-kun-2.json) |
+| GB Pachio-kun 3 | 59513 | [59513-gb-pachio-kun-3.json](./59513-gb-pachio-kun-3.json) |
 | GB Rober | 152875 | [152875-gb-rober.json](./152875-gb-rober.json) |
 | GBA Championship Basketball: Two-on-Two | 12114 | [12114-gba-championship-basketball-two-on-two.json](./12114-gba-championship-basketball-two-on-two.json) |
 | GBox: The Puzzle Collection | 107014 | [107014-gbox-the-puzzle-collection.json](./107014-gbox-the-puzzle-collection.json) |
@@ -1692,6 +1696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Terminator | 173286 | [173286-ghost-terminator.json](./173286-ghost-terminator.json) |
 | Ghost Town Mine Ride & Shootin' Gallery | 33079 | [33079-ghost-town-mine-ride-and-shootin-gallery.json](./33079-ghost-town-mine-ride-and-shootin-gallery.json) |
 | Ghost Town: Dawn of War | 152317 | [152317-ghost-town-dawn-of-war.json](./152317-ghost-town-dawn-of-war.json) |
+| Ghost Towns: Cats of Ulthar | 59499 | [59499-ghost-towns-cats-of-ulthar.json](./59499-ghost-towns-cats-of-ulthar.json) |
 | Ghost Train VR | 32260 | [32260-ghost-train-vr.json](./32260-ghost-train-vr.json) |
 | Ghost Trap | 208607 | [208607-ghost-trap.json](./208607-ghost-trap.json) |
 | Ghost Trap | 49599 | [49599-ghost-trap.json](./49599-ghost-trap.json) |
