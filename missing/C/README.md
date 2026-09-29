@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calcolo!: Ochimo no Shooting | 146763 | [146763-calcolo-ochimo-no-shooting.json](./146763-calcolo-ochimo-no-shooting.json) |
 | Calcu-Late | 33331 | [33331-calcu-late.json](./33331-calcu-late.json) |
 | Calculate It | 317375 | [317375-calculate-it.json](./317375-calculate-it.json) |
+| Calculation | 14370 | [14370-calculation.json](./14370-calculation.json) |
 | Calculation Castle: Greco's Ghostly Challenge "Addition" | 105924 | [105924-calculation-castle-grecos-ghostly-challenge-addition.json](./105924-calculation-castle-grecos-ghostly-challenge-addition.json) |
 | Calculation Castle: Greco's Ghostly Challenge "Division" | 105923 | [105923-calculation-castle-grecos-ghostly-challenge-division.json](./105923-calculation-castle-grecos-ghostly-challenge-division.json) |
 | Calculation Castle: Greco's Ghostly Challenge "Multiplication" | 105922 | [105922-calculation-castle-grecos-ghostly-challenge-multiplication.json](./105922-calculation-castle-grecos-ghostly-challenge-multiplication.json) |
@@ -429,8 +430,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp Sunshine: Ultimate Edition | 52713 | [52713-camp-sunshine-ultimate-edition.json](./52713-camp-sunshine-ultimate-edition.json) |
 | Camp W | 99025 | [99025-camp-w.json](./99025-camp-w.json) |
 | Camp Wombo | 351010 | [351010-camp-wombo.json](./351010-camp-wombo.json) |
+| Campaign | 14371 | [14371-campaign.json](./14371-campaign.json) |
 | Campaign Antietam | 182260 | [182260-campaign-antietam.json](./182260-campaign-antietam.json) |
 | Campaign Gettysburg | 182261 | [182261-campaign-gettysburg.json](./182261-campaign-gettysburg.json) |
+| Campaign II | 14372 | [14372-campaign-ii.json](./14372-campaign-ii.json) |
 | Campaign Including 25 Extra Missions | 72048 | [72048-campaign-including-25-extra-missions.json](./72048-campaign-including-25-extra-missions.json) |
 | Campaign Manager: An Election Simulator | 94882 | [94882-campaign-manager-an-election-simulator.json](./94882-campaign-manager-an-election-simulator.json) |
 | Campaign Ozark | 135885 | [135885-campaign-ozark.json](./135885-campaign-ozark.json) |
@@ -648,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canyon Rush | 291619 | [291619-canyon-rush.json](./291619-canyon-rush.json) |
 | Canyon Watch | 266264 | [266264-canyon-watch.json](./266264-canyon-watch.json) |
 | CanYouTilt | 41488 | [41488-canyoutilt.json](./41488-canyoutilt.json) |
+| Cap'n Carnage | 14374 | [14374-capn-carnage.json](./14374-capn-carnage.json) |
 | Cap'n Marcela's Winter Wonderland | 310543 | [310543-capn-marcelas-winter-wonderland.json](./310543-capn-marcelas-winter-wonderland.json) |
 | Capacocha | 179139 | [179139-capacocha.json](./179139-capacocha.json) |
 | Caparace | 383966 | [383966-caparace.json](./383966-caparace.json) |
@@ -702,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capital Dilemma | 283800 | [283800-capital-dilemma.json](./283800-capital-dilemma.json) |
 | Capital Fire | 284885 | [284885-capital-fire.json](./284885-capital-fire.json) |
 | Capital Kings | 342635 | [342635-capital-kings.json](./342635-capital-kings.json) |
+| Capital Punishment | 14373 | [14373-capital-punishment.json](./14373-capital-punishment.json) |
 | Capital Simulator | 148483 | [148483-capital-simulator.json](./148483-capital-simulator.json) |
 | Capitalism II | 921 | [921-capitalism-ii.json](./921-capitalism-ii.json) |
 | Capitalist Misadventures | 358290 | [358290-capitalist-misadventures.json](./358290-capitalist-misadventures.json) |
@@ -715,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capitol Diktatoria | 413908 | [413908-capitol-diktatoria.json](./413908-capitol-diktatoria.json) |
 | Capoeira Fighter 3 | 93988 | [93988-capoeira-fighter-3.json](./93988-capoeira-fighter-3.json) |
 | CapoeiRogue: Dandara Cordão de Ouro | 215919 | [215919-capoeirogue-dandara-cordao-de-ouro.json](./215919-capoeirogue-dandara-cordao-de-ouro.json) |
+| Capone | 14375 | [14375-capone.json](./14375-capone.json) |
 | Capoo Pals | 393112 | [393112-capoo-pals.json](./393112-capoo-pals.json) |
 | Capoo Pals for MAC Expansion Set | 289464 | [289464-capoo-pals-for-mac-expansion-set.json](./289464-capoo-pals-for-mac-expansion-set.json) |
 | Cappadocia Puzzle | 303065 | [303065-cappadocia-puzzle.json](./303065-cappadocia-puzzle.json) |
@@ -753,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Disaster in: Death Has A Million Stomping Boots | 133978 | [133978-captain-disaster-in-death-has-a-million-stomping-boots.json](./133978-captain-disaster-in-death-has-a-million-stomping-boots.json) |
 | Captain Explosion | 179152 | [179152-captain-explosion.json](./179152-captain-explosion.json) |
 | Captain Firat | 360737 | [360737-captain-firat.json](./360737-captain-firat.json) |
+| Captain Fizz Meets the Blaster-Trons | 14376 | [14376-captain-fizz-meets-the-blaster-trons.json](./14376-captain-fizz-meets-the-blaster-trons.json) |
 | Captain Flying Robot | 90666 | [90666-captain-flying-robot.json](./90666-captain-flying-robot.json) |
 | Captain Forever | 29046 | [29046-captain-forever.json](./29046-captain-forever.json) |
 | Captain Forever Remix | 17360 | [17360-captain-forever-remix.json](./17360-captain-forever-remix.json) |
@@ -1358,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Pokies-CPC | 360590 | [360590-casino-pokies-cpc.json](./360590-casino-pokies-cpc.json) |
 | Casino Resort | 255059 | [255059-casino-resort.json](./255059-casino-resort.json) |
 | Casino Rogue | 304634 | [304634-casino-rogue.json](./304634-casino-rogue.json) |
+| Casino Roulette | 14384 | [14384-casino-roulette.json](./14384-casino-roulette.json) |
 | Casino Roulette Royal | 166682 | [166682-casino-roulette-royal.json](./166682-casino-roulette-royal.json) |
 | Casino Simulator | 295316 | [295316-casino-simulator.json](./295316-casino-simulator.json) |
 | Casino Slot Machine | 41528 | [41528-casino-slot-machine.json](./41528-casino-slot-machine.json) |
@@ -1470,6 +1478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of The Dark Ages | 271754 | [271754-castle-of-the-dark-ages.json](./271754-castle-of-the-dark-ages.json) |
 | Castle of the Land | 153356 | [153356-castle-of-the-land.json](./153356-castle-of-the-land.json) |
 | Castle of the Red Prince | 186632 | [186632-castle-of-the-red-prince.json](./186632-castle-of-the-red-prince.json) |
+| Castle of the Winds 2 | 14447 | [14447-castle-of-the-winds-2.json](./14447-castle-of-the-winds-2.json) |
 | Castle of Venia | 108423 | [108423-castle-of-venia.json](./108423-castle-of-venia.json) |
 | Castle of Void | 264713 | [264713-castle-of-void.json](./264713-castle-of-void.json) |
 | Castle of White Night | 197853 | [197853-castle-of-white-night.json](./197853-castle-of-white-night.json) |
