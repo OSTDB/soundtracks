@@ -2272,6 +2272,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII Remake: Digital Deluxe Upgrade | 133299 | [133299-final-fantasy-vii-remake-digital-deluxe-upgrade.json](./133299-final-fantasy-vii-remake-digital-deluxe-upgrade.json) |
 | Final Fantasy VII Snowboarding | 127832 | [127832-final-fantasy-vii-snowboarding.json](./127832-final-fantasy-vii-snowboarding.json) |
 | Final Fantasy VII: Regenesis | 394328 | [394328-final-fantasy-vii-regenesis.json](./394328-final-fantasy-vii-regenesis.json) |
+| Final Fantasy VIII Remastered | 119374 | [119374-final-fantasy-viii-remastered.json](./119374-final-fantasy-viii-remastered.json) |
+| Final Fantasy X HD Remaster | 21899 | [21899-final-fantasy-x-hd-remaster.json](./21899-final-fantasy-x-hd-remaster.json) |
 | Final Fantasy X International | 146774 | [146774-final-fantasy-x-international.json](./146774-final-fantasy-x-international.json) |
 | Final Fantasy X-2 | 413 | [413-final-fantasy-x-2.json](./413-final-fantasy-x-2.json) |
 | Final Fantasy X-2 International + Last Mission | 146852 | [146852-final-fantasy-x-2-international-last-mission.json](./146852-final-fantasy-x-2-international-last-mission.json) |
@@ -2587,6 +2589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Heroes | 26841 | [26841-fire-emblem-heroes.json](./26841-fire-emblem-heroes.json) |
 | Fire Emblem Warriors + Season Pass Bundle | 294234 | [294234-fire-emblem-warriors-season-pass-bundle.json](./294234-fire-emblem-warriors-season-pass-bundle.json) |
 | Fire Emblem Warriors: Season Pass | 294235 | [294235-fire-emblem-warriors-season-pass.json](./294235-fire-emblem-warriors-season-pass.json) |
+| Fire Emblem Warriors: Three Hopes | 191396 | [191396-fire-emblem-warriors-three-hopes.json](./191396-fire-emblem-warriors-three-hopes.json) |
 | Fire Emblem Wars | 338815 | [338815-fire-emblem-wars.json](./338815-fire-emblem-wars.json) |
 | Fire Emblem: Binding Blade Plus | 233604 | [233604-fire-emblem-binding-blade-plus.json](./233604-fire-emblem-binding-blade-plus.json) |
 | Fire Emblem: Blessed Heart | 214493 | [214493-fire-emblem-blessed-heart.json](./214493-fire-emblem-blessed-heart.json) |
