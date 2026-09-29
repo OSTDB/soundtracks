@@ -1944,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redneck Party | 151026 | [151026-redneck-party.json](./151026-redneck-party.json) |
 | Redneck Racers | 17199 | [17199-redneck-racers.json](./17199-redneck-racers.json) |
 | Redneck Rampage | 9002 | [9002-redneck-rampage.json](./9002-redneck-rampage.json) |
+| Redneck Rampage: Possum Bayou | 44096 | [44096-redneck-rampage-possum-bayou.json](./44096-redneck-rampage-possum-bayou.json) |
 | Redneck Rift | 207914 | [207914-redneck-rift.json](./207914-redneck-rift.json) |
 | Redneck Skeet Shooting | 120258 | [120258-redneck-skeet-shooting.json](./120258-redneck-skeet-shooting.json) |
 | Redo! | 114085 | [114085-redo.json](./114085-redo.json) |
@@ -2997,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolvermen | 344397 | [344397-revolvermen.json](./344397-revolvermen.json) |
 | RevolverRouge | 381115 | [381115-revolverrouge.json](./381115-revolverrouge.json) |
 | RevolVR 3 | 169355 | [169355-revolvr-3.json](./169355-revolvr-3.json) |
+| Revs+ | 44126 | [44126-revs.json](./44126-revs.json) |
 | Revv Racing | 172500 | [172500-revv-racing.json](./172500-revv-racing.json) |
 | Revvolvver | 250460 | [250460-revvolvver.json](./250460-revvolvver.json) |
 | Revvver | 285450 | [285450-revvver.json](./285450-revvver.json) |
@@ -4320,6 +4322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocketship Rescue | 178638 | [178638-rocketship-rescue.json](./178638-rocketship-rescue.json) |
 | RocketsRocketsRockets | 36342 | [36342-rocketsrocketsrockets.json](./36342-rocketsrocketsrockets.json) |
 | Rockett's New School | 65479 | [65479-rocketts-new-school.json](./65479-rocketts-new-school.json) |
+| Rockford: The Arcade Game | 44082 | [44082-rockford-the-arcade-game.json](./44082-rockford-the-arcade-game.json) |
 | Rockford: The Arcade Game + Crystal Raider | 98225 | [98225-rockford-the-arcade-game-crystal-raider.json](./98225-rockford-the-arcade-game-crystal-raider.json) |
 | Rockford: The Arcade Game + Rockman | 98224 | [98224-rockford-the-arcade-game-rockman.json](./98224-rockford-the-arcade-game-rockman.json) |
 | Rockin' Rabbit | 317444 | [317444-rockin-rabbit.json](./317444-rockin-rabbit.json) |
@@ -4343,6 +4346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman 8 FC | 137116 | [137116-rockman-8-fc.json](./137116-rockman-8-fc.json) |
 | Rockman 8 Metal Heroes Famicom | 142354 | [142354-rockman-8-metal-heroes-famicom.json](./142354-rockman-8-metal-heroes-famicom.json) |
 | Rockman Battle & Fighters | 75515 | [75515-rockman-battle-and-fighters.json](./75515-rockman-battle-and-fighters.json) |
+| Rockman Dash: Hagane no Boukenshin | 44060 | [44060-rockman-dash-hagane-no-boukenshin.json](./44060-rockman-dash-hagane-no-boukenshin.json) |
 | Rockman EXE 5: Kaizou Card - Part 1 | 352754 | [352754-rockman-exe-5-kaizou-card-part-1.json](./352754-rockman-exe-5-kaizou-card-part-1.json) |
 | Rockman EXE 5: Kaizou Card - Part 2 | 352756 | [352756-rockman-exe-5-kaizou-card-part-2.json](./352756-rockman-exe-5-kaizou-card-part-2.json) |
 | Rockman EXE 6: Kaizou Card - Part 1 | 352736 | [352736-rockman-exe-6-kaizou-card-part-1.json](./352736-rockman-exe-6-kaizou-card-part-1.json) |
@@ -5736,6 +5740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruslicstan Invades | 238497 | [238497-ruslicstan-invades.json](./238497-ruslicstan-invades.json) |
 | Russia Horror 20!8 | 90212 | [90212-russia-horror-20-8.json](./90212-russia-horror-20-8.json) |
 | Russia Roguelike | 116117 | [116117-russia-roguelike.json](./116117-russia-roguelike.json) |
+| Russia: The Great War in the East 1941-1945 | 44124 | [44124-russia-the-great-war-in-the-east-1941-1945.json](./44124-russia-the-great-war-in-the-east-1941-1945.json) |
 | Russian Anime | 156034 | [156034-russian-anime.json](./156034-russian-anime.json) |
 | Russian AYE Horror | 96887 | [96887-russian-aye-horror.json](./96887-russian-aye-horror.json) |
 | Russian bank - card game | 106568 | [106568-russian-bank-card-game.json](./106568-russian-bank-card-game.json) |
