@@ -1098,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Status: Platinum Concierge | 253301 | [253301-elite-status-platinum-concierge.json](./253301-elite-status-platinum-concierge.json) |
 | Elite Tanks | 139414 | [139414-elite-tanks.json](./139414-elite-tanks.json) |
 | Elite Trials | 96778 | [96778-elite-trials.json](./96778-elite-trials.json) |
+| Elite: Dangerous | 2955 | [2955-elite-dangerous.json](./2955-elite-dangerous.json) |
 | Elithian Races Mod | 280270 | [280270-elithian-races-mod.json](./280270-elithian-races-mod.json) |
 | Elitserien 96 | 45560 | [45560-elitserien-96.json](./45560-elitserien-96.json) |
 | Elixir | 145607 | [145607-elixir.json](./145607-elixir.json) |
