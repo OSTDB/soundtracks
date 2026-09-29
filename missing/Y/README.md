@@ -558,9 +558,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You've Got a Stew Going! | 228971 | [228971-youve-got-a-stew-going.json](./228971-youve-got-a-stew-going.json) |
 | You've Got To Be Kidding! | 299840 | [299840-youve-got-to-be-kidding.json](./299840-youve-got-to-be-kidding.json) |
 | Youda Fairy | 52784 | [52784-youda-fairy.json](./52784-youda-fairy.json) |
+| Youda Farmer | 9315 | [9315-youda-farmer.json](./9315-youda-farmer.json) |
+| Youda Farmer 2 | 9314 | [9314-youda-farmer-2.json](./9314-youda-farmer-2.json) |
+| Youda Farmer 3: Seasons | 9313 | [9313-youda-farmer-3-seasons.json](./9313-youda-farmer-3-seasons.json) |
+| Youda Jewel Shop | 9312 | [9312-youda-jewel-shop.json](./9312-youda-jewel-shop.json) |
 | Youda Legend Amsterdam | 52783 | [52783-youda-legend-amsterdam.json](./52783-youda-legend-amsterdam.json) |
 | Youda Legend: The Curse of the Amsterdam Diamond | 52103 | [52103-youda-legend-the-curse-of-the-amsterdam-diamond.json](./52103-youda-legend-the-curse-of-the-amsterdam-diamond.json) |
 | Youda Legend: The Golden Bird of Paradise | 108627 | [108627-youda-legend-the-golden-bird-of-paradise.json](./108627-youda-legend-the-golden-bird-of-paradise.json) |
+| Youda Marina | 9305 | [9305-youda-marina.json](./9305-youda-marina.json) |
+| Youda Safari | 9304 | [9304-youda-safari.json](./9304-youda-safari.json) |
+| Youda Survivor | 9303 | [9303-youda-survivor.json](./9303-youda-survivor.json) |
+| Youda Survivor 2 | 9302 | [9302-youda-survivor-2.json](./9302-youda-survivor-2.json) |
 | Yougekitai: Jashin Koumaroku | 240216 | [240216-yougekitai-jashin-koumaroku.json](./240216-yougekitai-jashin-koumaroku.json) |
 | Yougen | 216807 | [216807-yougen.json](./216807-yougen.json) |
 | Youkai Club | 48598 | [48598-youkai-club.json](./48598-youkai-club.json) |
