@@ -2267,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII Snowboarding | 127832 | [127832-final-fantasy-vii-snowboarding.json](./127832-final-fantasy-vii-snowboarding.json) |
 | Final Fantasy VII: Regenesis | 394328 | [394328-final-fantasy-vii-regenesis.json](./394328-final-fantasy-vii-regenesis.json) |
 | Final Fantasy X International | 146774 | [146774-final-fantasy-x-international.json](./146774-final-fantasy-x-international.json) |
+| Final Fantasy X-2 | 413 | [413-final-fantasy-x-2.json](./413-final-fantasy-x-2.json) |
 | Final Fantasy X-2 International + Last Mission | 146852 | [146852-final-fantasy-x-2-international-last-mission.json](./146852-final-fantasy-x-2-international-last-mission.json) |
 | Final Fantasy X-2: International | 247548 | [247548-final-fantasy-x-2-international.json](./247548-final-fantasy-x-2-international.json) |
 | Final Fantasy X-2: Last Mission | 247245 | [247245-final-fantasy-x-2-last-mission.json](./247245-final-fantasy-x-2-last-mission.json) |
