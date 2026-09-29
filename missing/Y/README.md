@@ -702,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh GX: The Beginning of Destiny | 21680 | [21680-yu-gi-oh-gx-the-beginning-of-destiny.json](./21680-yu-gi-oh-gx-the-beginning-of-destiny.json) |
 | Yu-Gi-Oh PokéDuel | 270787 | [270787-yu-gi-oh-pokeduel.json](./270787-yu-gi-oh-pokeduel.json) |
 | Yu-Gi-Oh! 5D's Decade Duels | 66774 | [66774-yu-gi-oh-5ds-decade-duels.json](./66774-yu-gi-oh-5ds-decade-duels.json) |
+| Yu-Gi-Oh! 5D's Duel Transer | 50716 | [50716-yu-gi-oh-5ds-duel-transer.json](./50716-yu-gi-oh-5ds-duel-transer.json) |
 | Yu-Gi-Oh! 5D's Tag Force 5 | 42854 | [42854-yu-gi-oh-5ds-tag-force-5.json](./42854-yu-gi-oh-5ds-tag-force-5.json) |
 | Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia | 47841 | [47841-yu-gi-oh-5ds-world-championship-2010-reverse-of-arcadia.json](./47841-yu-gi-oh-5ds-world-championship-2010-reverse-of-arcadia.json) |
 | Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus | 47801 | [47801-yu-gi-oh-5ds-world-championship-2011-over-the-nexus.json](./47801-yu-gi-oh-5ds-world-championship-2011-over-the-nexus.json) |
