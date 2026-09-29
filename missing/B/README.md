@@ -2334,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Awakening | 360747 | [360747-beast-awakening.json](./360747-beast-awakening.json) |
 | Beast Ball | 46235 | [46235-beast-ball.json](./46235-beast-ball.json) |
 | Beast Bastion | 405588 | [405588-beast-bastion.json](./405588-beast-bastion.json) |
+| Beast Battle Simulator | 55077 | [55077-beast-battle-simulator.json](./55077-beast-battle-simulator.json) |
 | Beast Beat | 400358 | [400358-beast-beat.json](./400358-beast-beat.json) |
 | Beast Blaster | 33407 | [33407-beast-blaster.json](./33407-beast-blaster.json) |
 | Beast Boxing 3D | 175381 | [175381-beast-boxing-3d.json](./175381-beast-boxing-3d.json) |
