@@ -4286,12 +4286,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai: Star Rail - As Tomorrow Became Yesterday | 375253 | [375253-honkai-star-rail-as-tomorrow-became-yesterday.json](./375253-honkai-star-rail-as-tomorrow-became-yesterday.json) |
 | Honkai: Star Rail - Back to Earth in Evernight | 366942 | [366942-honkai-star-rail-back-to-earth-in-evernight.json](./366942-honkai-star-rail-back-to-earth-in-evernight.json) |
 | Honkai: Star Rail - Celestial Eyes Above Mortal Ruins | 262114 | [262114-honkai-star-rail-celestial-eyes-above-mortal-ruins.json](./262114-honkai-star-rail-celestial-eyes-above-mortal-ruins.json) |
+| Honkai: Star Rail - Crown of the Mundane and Divine | 279644 | [279644-honkai-star-rail-crown-of-the-mundane-and-divine.json](./279644-honkai-star-rail-crown-of-the-mundane-and-divine.json) |
 | Honkai: Star Rail - Even Immortality Ends | 256760 | [256760-honkai-star-rail-even-immortality-ends.json](./256760-honkai-star-rail-even-immortality-ends.json) |
 | Honkai: Star Rail - Finest Duel Under the Pristine Blue | 308417 | [308417-honkai-star-rail-finest-duel-under-the-pristine-blue.json](./308417-honkai-star-rail-finest-duel-under-the-pristine-blue.json) |
 | Honkai: Star Rail - Flying Aureus Shot to Lupine Rue | 315162 | [315162-honkai-star-rail-flying-aureus-shot-to-lupine-rue.json](./315162-honkai-star-rail-flying-aureus-shot-to-lupine-rue.json) |
 | Honkai: Star Rail - Galactic Roaming | 257051 | [257051-honkai-star-rail-galactic-roaming.json](./257051-honkai-star-rail-galactic-roaming.json) |
 | Honkai: Star Rail - In Ravages Does the Whistle Sound | 408877 | [408877-honkai-star-rail-in-ravages-does-the-whistle-sound.json](./408877-honkai-star-rail-in-ravages-does-the-whistle-sound.json) |
 | Honkai: Star Rail - Into the Yawning Chasm | 290387 | [290387-honkai-star-rail-into-the-yawning-chasm.json](./290387-honkai-star-rail-into-the-yawning-chasm.json) |
+| Honkai: Star Rail - Jolted Awake From a Winter Dream | 268380 | [268380-honkai-star-rail-jolted-awake-from-a-winter-dream.json](./268380-honkai-star-rail-jolted-awake-from-a-winter-dream.json) |
 | Honkai: Star Rail - Memories are the Prelude to Dreams | 380531 | [380531-honkai-star-rail-memories-are-the-prelude-to-dreams.json](./380531-honkai-star-rail-memories-are-the-prelude-to-dreams.json) |
 | Honkai: Star Rail - Paean of Era Nova | 326609 | [326609-honkai-star-rail-paean-of-era-nova.json](./326609-honkai-star-rail-paean-of-era-nova.json) |
 | Honkai: Star Rail - So Laughed the Masses | 398432 | [398432-honkai-star-rail-so-laughed-the-masses.json](./398432-honkai-star-rail-so-laughed-the-masses.json) |
@@ -5769,6 +5771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperZone | 42608 | [42608-hyperzone.json](./42608-hyperzone.json) |
 | Hyphen | 24566 | [24566-hyphen.json](./24566-hyphen.json) |
 | Hypnaborea | 396243 | [396243-hypnaborea.json](./396243-hypnaborea.json) |
+| Hypnagogia | 144747 | [144747-hypnagogia.json](./144747-hypnagogia.json) |
 | Hypnagogia: Boundless Dreams | 159865 | [159865-hypnagogia-boundless-dreams.json](./159865-hypnagogia-boundless-dreams.json) |
 | Hypno's Lullaby | 140537 | [140537-hypnos-lullaby.json](./140537-hypnos-lullaby.json) |
 | HypnoCuck: The Arrogant Rich Bitch Till She Falls | 82761 | [82761-hypnocuck-the-arrogant-rich-bitch-till-she-falls.json](./82761-hypnocuck-the-arrogant-rich-bitch-till-she-falls.json) |
