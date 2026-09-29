@@ -4088,6 +4088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogun | 298095 | [298095-shogun.json](./298095-shogun.json) |
 | Shogun Castle | 336590 | [336590-shogun-castle.json](./336590-shogun-castle.json) |
 | Shogun Warriors | 39584 | [39584-shogun-warriors.json](./39584-shogun-warriors.json) |
+| Shogun: Total War | 436 | [436-shogun-total-war.json](./436-shogun-total-war.json) |
 | Shogun: Total War - Mongol Invasion | 443 | [443-shogun-total-war-mongol-invasion.json](./443-shogun-total-war-mongol-invasion.json) |
 | Shogun's Blade | 43293 | [43293-shoguns-blade.json](./43293-shoguns-blade.json) |
 | Shohei's Adult Streaming Channel | 161357 | [161357-shoheis-adult-streaming-channel.json](./161357-shoheis-adult-streaming-channel.json) |
@@ -11087,6 +11088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Episode III - Revenge of the Sith | 167612 | [167612-star-wars-episode-iii-revenge-of-the-sith.json](./167612-star-wars-episode-iii-revenge-of-the-sith.json) |
 | Star Wars: Force Commander | 159 | [159-star-wars-force-commander.json](./159-star-wars-force-commander.json) |
 | Star Wars: Galactic Battle | 198918 | [198918-star-wars-galactic-battle.json](./198918-star-wars-galactic-battle.json) |
+| Star Wars: Galactic Battlegrounds | 139 | [139-star-wars-galactic-battlegrounds.json](./139-star-wars-galactic-battlegrounds.json) |
 | Star Wars: Galactic Battlegrounds Saga | 35596 | [35596-star-wars-galactic-battlegrounds-saga.json](./35596-star-wars-galactic-battlegrounds-saga.json) |
 | Star Wars: Galactic Racer | 381248 | [381248-star-wars-galactic-racer.json](./381248-star-wars-galactic-racer.json) |
 | Star Wars: Heritage Pack | 200175 | [200175-star-wars-heritage-pack.json](./200175-star-wars-heritage-pack.json) |
@@ -12874,6 +12876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StrongBadZone | 135863 | [135863-strongbadzone.json](./135863-strongbadzone.json) |
 | Stronghold | 18539 | [18539-stronghold.json](./18539-stronghold.json) |
 | Stronghold | 965 | [965-stronghold.json](./965-stronghold.json) |
+| Stronghold 2 | 9460 | [9460-stronghold-2.json](./9460-stronghold-2.json) |
 | Stronghold 3 Gold | 54411 | [54411-stronghold-3-gold.json](./54411-stronghold-3-gold.json) |
 | Stronghold Collection | 21771 | [21771-stronghold-collection.json](./21771-stronghold-collection.json) |
 | Stronghold Crusader | 964 | [964-stronghold-crusader.json](./964-stronghold-crusader.json) |
