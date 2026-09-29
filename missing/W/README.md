@@ -2515,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WinFish 3 - Fly Fishing | 129767 | [129767-winfish-3-fly-fishing.json](./129767-winfish-3-fly-fishing.json) |
 | Wing Breakers | 180305 | [180305-wing-breakers.json](./180305-wing-breakers.json) |
 | Wing Chun: Pak Sung Bo Legends | 165702 | [165702-wing-chun-pak-sung-bo-legends.json](./165702-wing-chun-pak-sung-bo-legends.json) |
+| Wing Commander II: Deluxe Edition | 51373 | [51373-wing-commander-ii-deluxe-edition.json](./51373-wing-commander-ii-deluxe-edition.json) |
 | Wing Commander II: Speech Accessory Pack | 77320 | [77320-wing-commander-ii-speech-accessory-pack.json](./77320-wing-commander-ii-speech-accessory-pack.json) |
 | Wing Commander II: Vengeance of the Kilrathi - Special Operations 1 | 50170 | [50170-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-1.json](./50170-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-1.json) |
 | Wing Commander II: Vengeance of the Kilrathi - Special Operations 2 | 50169 | [50169-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-2.json](./50169-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-2.json) |
@@ -2583,6 +2584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winner IV | 170845 | [170845-winner-iv.json](./170845-winner-iv.json) |
 | Winner vs. Loser | 182455 | [182455-winner-vs-loser.json](./182455-winner-vs-loser.json) |
 | Winner's Circle | 269662 | [269662-winners-circle.json](./269662-winners-circle.json) |
+| Winnie the Pooh in the Hundred Acre Wood | 51370 | [51370-winnie-the-pooh-in-the-hundred-acre-wood.json](./51370-winnie-the-pooh-in-the-hundred-acre-wood.json) |
 | Winnie the Pooh: First Steps | 273880 | [273880-winnie-the-pooh-first-steps.json](./273880-winnie-the-pooh-first-steps.json) |
 | Winnie The Pooh: The Serial Killer | 364538 | [364538-winnie-the-pooh-the-serial-killer.json](./364538-winnie-the-pooh-the-serial-killer.json) |
 | Winnie the Pooh's Book Writing Speedrunner | 347916 | [347916-winnie-the-poohs-book-writing-speedrunner.json](./347916-winnie-the-poohs-book-writing-speedrunner.json) |
@@ -3087,6 +3089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Womb Defense Force | 311575 | [311575-womb-defense-force.json](./311575-womb-defense-force.json) |
 | Womb of Worms | 394378 | [394378-womb-of-worms.json](./394378-womb-of-worms.json) |
 | WomboCombo | 390248 | [390248-wombocombo.json](./390248-wombocombo.json) |
+| Women's Murder Club: Death in Scarlet | 51404 | [51404-womens-murder-club-death-in-scarlet.json](./51404-womens-murder-club-death-in-scarlet.json) |
 | Women's Murder Club: Little Black Lies | 135250 | [135250-womens-murder-club-little-black-lies.json](./135250-womens-murder-club-little-black-lies.json) |
 | Women's Quiz | 152880 | [152880-womens-quiz.json](./152880-womens-quiz.json) |
 | Women's School Simulator 2020 | 299898 | [299898-womens-school-simulator-2020.json](./299898-womens-school-simulator-2020.json) |
