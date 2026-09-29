@@ -2460,6 +2460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal3 | 334303 | [334303-goal3.json](./334303-goal3.json) |
 | Goalgetter | 159803 | [159803-goalgetter.json](./159803-goalgetter.json) |
 | Goalie Challenge VR | 29567 | [29567-goalie-challenge-vr.json](./29567-goalie-challenge-vr.json) |
+| Goalie Ghost | 25882 | [25882-goalie-ghost.json](./25882-goalie-ghost.json) |
 | Goalie Madness | 226712 | [226712-goalie-madness.json](./226712-goalie-madness.json) |
 | Goalie VR | 67936 | [67936-goalie-vr.json](./67936-goalie-vr.json) |
 | Goalienator | 148461 | [148461-goalienator.json](./148461-goalienator.json) |
@@ -4113,6 +4114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimlands | 65048 | [65048-grimlands.json](./65048-grimlands.json) |
 | Grimlight | 200727 | [200727-grimlight.json](./200727-grimlight.json) |
 | Grimm & Tonic | 109751 | [109751-grimm-and-tonic.json](./109751-grimm-and-tonic.json) |
+| Grimm Forest | 25824 | [25824-grimm-forest.json](./25824-grimm-forest.json) |
 | Grimm Meisaku Gekijou Vol. 1: Bremen no Ongakutai | 245314 | [245314-grimm-meisaku-gekijou-vol-1-bremen-no-ongakutai.json](./245314-grimm-meisaku-gekijou-vol-1-bremen-no-ongakutai.json) |
 | Grimm Meisaku Gekijou Vol. 2: Hansel to Gretel | 245315 | [245315-grimm-meisaku-gekijou-vol-2-hansel-to-gretel.json](./245315-grimm-meisaku-gekijou-vol-2-hansel-to-gretel.json) |
 | Grimm Meisaku Gekijou Vol. 3: Akazukin | 245316 | [245316-grimm-meisaku-gekijou-vol-3-akazukin.json](./245316-grimm-meisaku-gekijou-vol-3-akazukin.json) |
@@ -4961,6 +4963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gverse | 236913 | [236913-gverse.json](./236913-gverse.json) |
 | Gwen the Magic Nanny | 54076 | [54076-gwen-the-magic-nanny.json](./54076-gwen-the-magic-nanny.json) |
 | GwenBlade 2: Halloween | 340406 | [340406-gwenblade-2-halloween.json](./340406-gwenblade-2-halloween.json) |
+| Gwendolyn: Pursuit of a Princess | 25830 | [25830-gwendolyn-pursuit-of-a-princess.json](./25830-gwendolyn-pursuit-of-a-princess.json) |
 | Gwent: Crimson Curse | 115776 | [115776-gwent-crimson-curse.json](./115776-gwent-crimson-curse.json) |
 | Gwonchong Sonyeo Kiugi | 234637 | [234637-gwonchong-sonyeo-kiugi.json](./234637-gwonchong-sonyeo-kiugi.json) |
 | Gyaku Katei Kyoushi: Kanojo wa Boku no Sensei ni Shite Dorei | 411593 | [411593-gyaku-katei-kyoushi-kanojo-wa-boku-no-sensei-ni-shite-dorei.json](./411593-gyaku-katei-kyoushi-kanojo-wa-boku-no-sensei-ni-shite-dorei.json) |
