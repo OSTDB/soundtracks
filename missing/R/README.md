@@ -2621,6 +2621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resttore | 285487 | [285487-resttore.json](./285487-resttore.json) |
 | Resuffer: Down the Rabbit Hole | 112504 | [112504-resuffer-down-the-rabbit-hole.json](./112504-resuffer-down-the-rabbit-hole.json) |
 | Resurface | 406681 | [406681-resurface.json](./406681-resurface.json) |
+| Resurgence | 56594 | [56594-resurgence.json](./56594-resurgence.json) |
 | Resurgence: Earth United | 71193 | [71193-resurgence-earth-united.json](./71193-resurgence-earth-united.json) |
 | Resurgent | 177565 | [177565-resurgent.json](./177565-resurgent.json) |
 | Resurrection Core | 335267 | [335267-resurrection-core.json](./335267-resurrection-core.json) |
@@ -2851,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenants: Spirit & Mind | 190154 | [190154-revenants-spirit-and-mind.json](./190154-revenants-spirit-and-mind.json) |
 | Revenge Crystal | 278401 | [278401-revenge-crystal.json](./278401-revenge-crystal.json) |
 | Revenge Master | 200427 | [200427-revenge-master.json](./200427-revenge-master.json) |
+| Revenge of Defender | 56591 | [56591-revenge-of-defender.json](./56591-revenge-of-defender.json) |
 | Revenge of Justice | 122349 | [122349-revenge-of-justice.json](./122349-revenge-of-justice.json) |
 | Revenge of Marjorie the Chicken | 137694 | [137694-revenge-of-marjorie-the-chicken.json](./137694-revenge-of-marjorie-the-chicken.json) |
 | Revenge of Meta Knight | 271263 | [271263-revenge-of-meta-knight.json](./271263-revenge-of-meta-knight.json) |
@@ -3445,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Ring | 135689 | [135689-ring-ring.json](./135689-ring-ring.json) |
 | Ring Stars | 261508 | [261508-ring-stars.json](./261508-ring-stars.json) |
 | Ring Toss Legend | 408939 | [408939-ring-toss-legend.json](./408939-ring-toss-legend.json) |
+| Ring Wars | 56582 | [56582-ring-wars.json](./56582-ring-wars.json) |
 | Ringbound | 397931 | [397931-ringbound.json](./397931-ringbound.json) |
 | Ringer | 324336 | [324336-ringer.json](./324336-ringer.json) |
 | Ringleaders | 263013 | [263013-ringleaders.json](./263013-ringleaders.json) |
@@ -4717,6 +4720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ROM Check Fail | 79311 | [79311-rom-check-fail.json](./79311-rom-check-fail.json) |
 | Rom Rom Stadium | 64377 | [64377-rom-rom-stadium.json](./64377-rom-rom-stadium.json) |
 | ROM: Extraction | 26549 | [26549-rom-extraction.json](./26549-rom-extraction.json) |
+| Rom's Truffle Trail | 56587 | [56587-roms-truffle-trail.json](./56587-roms-truffle-trail.json) |
 | Roma Incognita | 248034 | [248034-roma-incognita.json](./248034-roma-incognita.json) |
 | Roma Victor | 67955 | [67955-roma-victor.json](./67955-roma-victor.json) |
 | Romace | 297572 | [297572-romace.json](./297572-romace.json) |
