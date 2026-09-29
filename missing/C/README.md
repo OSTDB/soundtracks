@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.M.Y.K | 135046 | [135046-c-m-y-k.json](./135046-c-m-y-k.json) |
 | C.R.E.E.P | 358863 | [358863-c-r-e-e-p.json](./358863-c-r-e-e-p.json) |
 | C.R.E.E.P.S | 34824 | [34824-c-r-e-e-p-s.json](./34824-c-r-e-e-p-s.json) |
+| C.S.S. Citadel VR | 32080 | [32080-c-s-s-citadel-vr.json](./32080-c-s-s-citadel-vr.json) |
 | C.T.R.: Cross The Road | 240202 | [240202-c-t-r-cross-the-road.json](./240202-c-t-r-cross-the-road.json) |
 | C.U.B.E | 412998 | [412998-c-u-b-e.json](./412998-c-u-b-e.json) |
 | C'est La Vie | 55882 | [55882-cest-la-vie.json](./55882-cest-la-vie.json) |
@@ -8354,6 +8355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Blitz | 348984 | [348984-cubic-blitz.json](./348984-cubic-blitz.json) |
 | Cubic Castles | 17727 | [17727-cubic-castles.json](./17727-cubic-castles.json) |
 | Cubic Color Confusion | 416087 | [416087-cubic-color-confusion.json](./416087-cubic-color-confusion.json) |
+| Cubic complex | 32108 | [32108-cubic-complex.json](./32108-cubic-complex.json) |
 | Cubic Cosmos | 348835 | [348835-cubic-cosmos.json](./348835-cubic-cosmos.json) |
 | Cubic Defender | 283846 | [283846-cubic-defender.json](./283846-cubic-defender.json) |
 | Cubic Figures | 215112 | [215112-cubic-figures.json](./215112-cubic-figures.json) |
