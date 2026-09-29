@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack's House | 88314 | [88314-jacks-house.json](./88314-jacks-house.json) |
 | Jackal | 212707 | [212707-jackal.json](./212707-jackal.json) |
 | Jackal | 25334 | [25334-jackal.json](./25334-jackal.json) |
+| Jackass: The Game | 2805 | [2805-jackass-the-game.json](./2805-jackass-the-game.json) |
 | Jackass: The Game DS | 79808 | [79808-jackass-the-game-ds.json](./79808-jackass-the-game-ds.json) |
 | Jacked | 124685 | [124685-jacked.json](./124685-jacked.json) |
 | Jackie Chan in Fists of Fire | 39606 | [39606-jackie-chan-in-fists-of-fire.json](./39606-jackie-chan-in-fists-of-fire.json) |
@@ -392,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaws | 346093 | [346093-jaws.json](./346093-jaws.json) |
 | Jaws & Claws | 189070 | [189070-jaws-and-claws.json](./189070-jaws-and-claws.json) |
 | Jaws of Hell | 349322 | [349322-jaws-of-hell.json](./349322-jaws-of-hell.json) |
+| Jaws Unleashed | 2632 | [2632-jaws-unleashed.json](./2632-jaws-unleashed.json) |
 | Jaws: Retro Edition | 381120 | [381120-jaws-retro-edition.json](./381120-jaws-retro-edition.json) |
 | Jaws! | 220588 | [220588-jaws.json](./220588-jaws.json) |
 | JawshRPG | 316280 | [316280-jawshrpg.json](./316280-jawshrpg.json) |
