@@ -2037,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellpoint: Ultimate Edition | 209688 | [209688-hellpoint-ultimate-edition.json](./209688-hellpoint-ultimate-edition.json) |
 | Hellpunk | 129671 | [129671-hellpunk.json](./129671-hellpunk.json) |
 | HellPunk: Purgatorium | 349925 | [349925-hellpunk-purgatorium.json](./349925-hellpunk-purgatorium.json) |
+| Hellraid | 3250 | [3250-hellraid.json](./3250-hellraid.json) |
 | Hellrider | 143083 | [143083-hellrider.json](./143083-hellrider.json) |
 | Hellrooms | 324322 | [324322-hellrooms.json](./324322-hellrooms.json) |
 | Hells Bend on Wounded Knee | 248679 | [248679-hells-bend-on-wounded-knee.json](./248679-hells-bend-on-wounded-knee.json) |
