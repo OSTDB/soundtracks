@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout: New Vegas - Ultimate Edition | 25532 | [25532-fallout-new-vegas-ultimate-edition.json](./25532-fallout-new-vegas-ultimate-edition.json) |
 | Fallout: New Vegas Remaster | 410463 | [410463-fallout-new-vegas-remaster.json](./410463-fallout-new-vegas-remaster.json) |
 | Fallout: Sonora Dayglow | 333655 | [333655-fallout-sonora-dayglow.json](./333655-fallout-sonora-dayglow.json) |
+| Fallout: The Frontier | 25878 | [25878-fallout-the-frontier.json](./25878-fallout-the-frontier.json) |
 | Fallow | 56437 | [56437-fallow.json](./56437-fallow.json) |
 | Falls and Jumps | 262904 | [262904-falls-and-jumps.json](./262904-falls-and-jumps.json) |
 | Fallsaga | 355127 | [355127-fallsaga.json](./355127-fallsaga.json) |
@@ -1691,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fellas | 408143 | [408143-fellas.json](./408143-fellas.json) |
 | Felon-E | 302356 | [302356-felon-e.json](./302356-felon-e.json) |
 | Felonian Special Forces | 255161 | [255161-felonian-special-forces.json](./255161-felonian-special-forces.json) |
+| Felony! | 25860 | [25860-felony.json](./25860-felony.json) |
 | Felspire | 23660 | [23660-felspire.json](./23660-felspire.json) |
 | Felt That: Boxing | 347117 | [347117-felt-that-boxing.json](./347117-felt-that-boxing.json) |
 | Feltopia | 325282 | [325282-feltopia.json](./325282-feltopia.json) |
@@ -5064,6 +5066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freaky Trip: Winter Pack | 275052 | [275052-freaky-trip-winter-pack.json](./275052-freaky-trip-winter-pack.json) |
 | Freakyforms: Your Creations, Alive! | 6771 | [6771-freakyforms-your-creations-alive.json](./6771-freakyforms-your-creations-alive.json) |
 | Frebbventure | 215240 | [215240-frebbventure.json](./215240-frebbventure.json) |
+| Fred | 25841 | [25841-fred.json](./25841-fred.json) |
 | Fred | 85866 | [85866-fred.json](./85866-fred.json) |
 | Fred Fuches Around | 397693 | [397693-fred-fuches-around.json](./397693-fred-fuches-around.json) |
 | Fred Johnson's: Mech Simulator | 326429 | [326429-fred-johnsons-mech-simulator.json](./326429-fred-johnsons-mech-simulator.json) |
@@ -5180,6 +5183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeway Fiasco | 203837 | [203837-freeway-fiasco.json](./203837-freeway-fiasco.json) |
 | Freeway Fury: Annihilation | 318188 | [318188-freeway-fury-annihilation.json](./318188-freeway-fury-annihilation.json) |
 | Freewheelin | 253023 | [253023-freewheelin.json](./253023-freewheelin.json) |
+| Freeze | 25884 | [25884-freeze.json](./25884-freeze.json) |
 | Freeze the Time | 187429 | [187429-freeze-the-time.json](./187429-freeze-the-time.json) |
 | Freeze: The Escape | 79902 | [79902-freeze-the-escape.json](./79902-freeze-the-escape.json) |
 | Freeze! 2: Brothers | 59476 | [59476-freeze-2-brothers.json](./59476-freeze-2-brothers.json) |
