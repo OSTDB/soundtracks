@@ -1455,6 +1455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Racers 2 | 390 | [390-lego-racers-2.json](./390-lego-racers-2.json) |
 | LEGO Racers: The Video Game | 341908 | [341908-lego-racers-the-video-game.json](./341908-lego-racers-the-video-game.json) |
 | LEGO Rock Band | 194934 | [194934-lego-rock-band.json](./194934-lego-rock-band.json) |
+| LEGO Rock Band | 2695 | [2695-lego-rock-band.json](./2695-lego-rock-band.json) |
 | LEGO Soccer Mania | 343452 | [343452-lego-soccer-mania.json](./343452-lego-soccer-mania.json) |
 | LEGO Sonic the Hedgehog: Speed Sphere Challenge | 261238 | [261238-lego-sonic-the-hedgehog-speed-sphere-challenge.json](./261238-lego-sonic-the-hedgehog-speed-sphere-challenge.json) |
 | LEGO Speedorz | 203232 | [203232-lego-speedorz.json](./203232-lego-speedorz.json) |
