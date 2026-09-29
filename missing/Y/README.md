@@ -552,6 +552,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You're Watching Icebox! | 186023 | [186023-youre-watching-icebox.json](./186023-youre-watching-icebox.json) |
 | You've Got a Stew Going! | 228971 | [228971-youve-got-a-stew-going.json](./228971-youve-got-a-stew-going.json) |
 | You've Got To Be Kidding! | 299840 | [299840-youve-got-to-be-kidding.json](./299840-youve-got-to-be-kidding.json) |
+| Youda Fairy | 52784 | [52784-youda-fairy.json](./52784-youda-fairy.json) |
+| Youda Legend Amsterdam | 52783 | [52783-youda-legend-amsterdam.json](./52783-youda-legend-amsterdam.json) |
 | Youda Legend: The Golden Bird of Paradise | 108627 | [108627-youda-legend-the-golden-bird-of-paradise.json](./108627-youda-legend-the-golden-bird-of-paradise.json) |
 | Yougekitai: Jashin Koumaroku | 240216 | [240216-yougekitai-jashin-koumaroku.json](./240216-yougekitai-jashin-koumaroku.json) |
 | Yougen | 216807 | [216807-yougen.json](./216807-yougen.json) |
