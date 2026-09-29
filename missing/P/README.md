@@ -6647,6 +6647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Darts | 49953 | [49953-pro-darts.json](./49953-pro-darts.json) |
 | Pro Deer Hunting | 132159 | [132159-pro-deer-hunting.json](./132159-pro-deer-hunting.json) |
 | Pro Deer Hunting 2 | 157502 | [157502-pro-deer-hunting-2.json](./157502-pro-deer-hunting-2.json) |
+| Pro Evolution Soccer 2 | 220944 | [220944-pro-evolution-soccer-2.json](./220944-pro-evolution-soccer-2.json) |
 | Pro Evolution Soccer 2010 | 240462 | [240462-pro-evolution-soccer-2010.json](./240462-pro-evolution-soccer-2010.json) |
 | Pro Evolution Soccer 2011 | 240463 | [240463-pro-evolution-soccer-2011.json](./240463-pro-evolution-soccer-2011.json) |
 | Pro Evolution Soccer 2011 | 240464 | [240464-pro-evolution-soccer-2011.json](./240464-pro-evolution-soccer-2011.json) |
@@ -7697,6 +7698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Upon a Time | 399204 | [399204-punch-upon-a-time.json](./399204-punch-upon-a-time.json) |
 | Punch-Out!! | 2194 | [2194-punch-out.json](./2194-punch-out.json) |
 | Punch-Out!! | 84799 | [84799-punch-out.json](./84799-punch-out.json) |
+| Punch-Out!! | 9150 | [9150-punch-out.json](./9150-punch-out.json) |
 | Punch! | 321956 | [321956-punch.json](./321956-punch.json) |
 | Punch'Em Up | 307605 | [307605-punchem-up.json](./307605-punchem-up.json) |
 | Punchball | 350054 | [350054-punchball.json](./350054-punchball.json) |
