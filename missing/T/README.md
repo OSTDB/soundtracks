@@ -1654,6 +1654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 8: Season 2 Character & Stage Pass | 347701 | [347701-tekken-8-season-2-character-and-stage-pass.json](./347701-tekken-8-season-2-character-and-stage-pass.json) |
 | Tekken 8: Ultimate Pack | 293397 | [293397-tekken-8-ultimate-pack.json](./293397-tekken-8-ultimate-pack.json) |
 | Tekken Advance | 1240 | [1240-tekken-advance.json](./1240-tekken-advance.json) |
+| Tekken Card Tournament | 25073 | [25073-tekken-card-tournament.json](./25073-tekken-card-tournament.json) |
 | Tekken Mobile | 54783 | [54783-tekken-mobile.json](./54783-tekken-mobile.json) |
 | Tekken Resolute | 63942 | [63942-tekken-resolute.json](./63942-tekken-resolute.json) |
 | Tekken Revolution | 7660 | [7660-tekken-revolution.json](./7660-tekken-revolution.json) |
@@ -3445,6 +3446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Counting Kingdom | 17435 | [17435-the-counting-kingdom.json](./17435-the-counting-kingdom.json) |
 | The Court of Wanderers | 152793 | [152793-the-court-of-wanderers.json](./152793-the-court-of-wanderers.json) |
 | The Coven | 37114 | [37114-the-coven.json](./37114-the-coven.json) |
+| The Coveted Mirror | 25038 | [25038-the-coveted-mirror.json](./25038-the-coveted-mirror.json) |
 | The Cow Quiz | 217914 | [217914-the-cow-quiz.json](./217914-the-cow-quiz.json) |
 | The Crackpet Show: Happy Tree Friends Edition | 291998 | [291998-the-crackpet-show-happy-tree-friends-edition.json](./291998-the-crackpet-show-happy-tree-friends-edition.json) |
 | The Cracks of Fire | 12948 | [12948-the-cracks-of-fire.json](./12948-the-cracks-of-fire.json) |
@@ -4893,6 +4895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunsa Magic | 199366 | [199366-the-hunsa-magic.json](./199366-the-hunsa-magic.json) |
 | The Hunt | 171472 | [171472-the-hunt.json](./171472-the-hunt.json) |
 | The Hunt | 37053 | [37053-the-hunt.json](./37053-the-hunt.json) |
+| The Hunt : Rebuilt | 25110 | [25110-the-hunt-rebuilt.json](./25110-the-hunt-rebuilt.json) |
 | The Hunt Begins | 323720 | [323720-the-hunt-begins.json](./323720-the-hunt-begins.json) |
 | The Hunt for Red October | 31187 | [31187-the-hunt-for-red-october.json](./31187-the-hunt-for-red-october.json) |
 | The Hunt for Red October | 76577 | [76577-the-hunt-for-red-october.json](./76577-the-hunt-for-red-october.json) |
@@ -6205,6 +6208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mines of White Label | 289982 | [289982-the-mines-of-white-label.json](./289982-the-mines-of-white-label.json) |
 | The Minesweeper | 406322 | [406322-the-minesweeper.json](./406322-the-minesweeper.json) |
 | The Ministry for Anomaly Observation | 405582 | [405582-the-ministry-for-anomaly-observation.json](./405582-the-ministry-for-anomaly-observation.json) |
+| The Mirage: Illusion of Wish | 25057 | [25057-the-mirage-illusion-of-wish.json](./25057-the-mirage-illusion-of-wish.json) |
 | The Mirrion | 345104 | [345104-the-mirrion.json](./345104-the-mirrion.json) |
 | The Mirror Circle | 382746 | [382746-the-mirror-circle.json](./382746-the-mirror-circle.json) |
 | The Mirror Dimension | 260655 | [260655-the-mirror-dimension.json](./260655-the-mirror-dimension.json) |
@@ -6215,6 +6219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Misadventures of Sir Randolph Doogleberry, British Explorer | 91429 | [91429-the-misadventures-of-sir-randolph-doogleberry-british-explorer.json](./91429-the-misadventures-of-sir-randolph-doogleberry-british-explorer.json) |
 | The Misadventures of Tron Bonne | 1753 | [1753-the-misadventures-of-tron-bonne.json](./1753-the-misadventures-of-tron-bonne.json) |
 | The MisAdventures of Xenos: Legacy Edition | 292642 | [292642-the-misadventures-of-xenos-legacy-edition.json](./292642-the-misadventures-of-xenos-legacy-edition.json) |
+| The Miser's House | 25116 | [25116-the-misers-house.json](./25116-the-misers-house.json) |
 | The Misfits Burger Joint | 255341 | [255341-the-misfits-burger-joint.json](./255341-the-misfits-burger-joint.json) |
 | The Misfortunes of a Nekomimi Catgirl Sorceress | 82914 | [82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json](./82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json) |
 | The Misshitsu kara no Dasshutsu: Unmei wo Tsunagu 35 no Nazo | 147327 | [147327-the-misshitsu-kara-no-dasshutsu-unmei-wo-tsunagu-35-no-nazo.json](./147327-the-misshitsu-kara-no-dasshutsu-unmei-wo-tsunagu-35-no-nazo.json) |
@@ -6913,6 +6918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Real Ghostbusters | 12841 | [12841-the-real-ghostbusters.json](./12841-the-real-ghostbusters.json) |
 | The Real Ghostbusters | 218436 | [218436-the-real-ghostbusters.json](./218436-the-real-ghostbusters.json) |
 | The Real Man Summer Championship 2019 | 119652 | [119652-the-real-man-summer-championship-2019.json](./119652-the-real-man-summer-championship-2019.json) |
+| The Real Texas | 25048 | [25048-the-real-texas.json](./25048-the-real-texas.json) |
 | The Real Texas: Cellpop Goes Out At Night | 51923 | [51923-the-real-texas-cellpop-goes-out-at-night.json](./51923-the-real-texas-cellpop-goes-out-at-night.json) |
 | The Real Texas: Dusty Skies Edition | 51922 | [51922-the-real-texas-dusty-skies-edition.json](./51922-the-real-texas-dusty-skies-edition.json) |
 | The Realm | 292558 | [292558-the-realm.json](./292558-the-realm.json) |
@@ -14479,6 +14485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TukTuk | 214757 | [214757-tuktuk.json](./214757-tuktuk.json) |
 | Tulip | 270074 | [270074-tulip.json](./270074-tulip.json) |
 | Tuma-7 | 141842 | [141842-tuma-7.json](./141842-tuma-7.json) |
+| Tumble | 25088 | [25088-tumble.json](./25088-tumble.json) |
 | Tumble Baby | 182521 | [182521-tumble-baby.json](./182521-tumble-baby.json) |
 | Tumble Ball | 295567 | [295567-tumble-ball.json](./295567-tumble-ball.json) |
 | Tumble Bees | 206083 | [206083-tumble-bees.json](./206083-tumble-bees.json) |
