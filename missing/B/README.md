@@ -1573,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham City - Harley Quinn's Revenge | 18442 | [18442-batman-arkham-city-harley-quinns-revenge.json](./18442-batman-arkham-city-harley-quinns-revenge.json) |
 | Batman: Arkham City - The Arkham Bundle | 138112 | [138112-batman-arkham-city-the-arkham-bundle.json](./138112-batman-arkham-city-the-arkham-bundle.json) |
 | Batman: Arkham City - Ultimate Edition | 138185 | [138185-batman-arkham-city-ultimate-edition.json](./138185-batman-arkham-city-ultimate-edition.json) |
+| Batman: Arkham City Lockdown | 77258 | [77258-batman-arkham-city-lockdown.json](./77258-batman-arkham-city-lockdown.json) |
 | Batman: Arkham Collection | 112659 | [112659-batman-arkham-collection.json](./112659-batman-arkham-collection.json) |
 | Batman: Arkham Knight - 1st Appearance Batman Skin | 25977 | [25977-batman-arkham-knight-1st-appearance-batman-skin.json](./25977-batman-arkham-knight-1st-appearance-batman-skin.json) |
 | Batman: Arkham Knight - 2008 Tumbler Batmobile Pack | 15524 | [15524-batman-arkham-knight-2008-tumbler-batmobile-pack.json](./15524-batman-arkham-knight-2008-tumbler-batmobile-pack.json) |
@@ -6634,6 +6635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BraveCart | 347864 | [347864-bravecart.json](./347864-bravecart.json) |
 | Braveland | 8999 | [8999-braveland.json](./8999-braveland.json) |
 | Braveland Heroes | 110344 | [110344-braveland-heroes.json](./110344-braveland-heroes.json) |
+| Braveland Pirate | 34737 | [34737-braveland-pirate.json](./34737-braveland-pirate.json) |
 | Bravely Default | 4700 | [4700-bravely-default.json](./4700-bravely-default.json) |
 | Bravely Default: Brilliant Lights | 174855 | [174855-bravely-default-brilliant-lights.json](./174855-bravely-default-brilliant-lights.json) |
 | Bravely Default: Fairy's Effect | 25739 | [25739-bravely-default-fairys-effect.json](./25739-bravely-default-fairys-effect.json) |
@@ -7993,6 +7995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burujiru | 108997 | [108997-burujiru.json](./108997-burujiru.json) |
 | Bury | 151571 | [151571-bury.json](./151571-bury.json) |
 | Bury Me in the Sand | 165523 | [165523-bury-me-in-the-sand.json](./165523-bury-me-in-the-sand.json) |
+| Bury me, my Love | 74959 | [74959-bury-me-my-love.json](./74959-bury-me-my-love.json) |
 | Bury Your Gays | 269864 | [269864-bury-your-gays.json](./269864-bury-your-gays.json) |
 | Bus & Taxi Driving Simulator | 86825 | [86825-bus-and-taxi-driving-simulator.json](./86825-bus-and-taxi-driving-simulator.json) |
 | Bus Bound | 348339 | [348339-bus-bound.json](./348339-bus-bound.json) |
