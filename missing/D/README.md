@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daily Dadish | 233003 | [233003-daily-dadish.json](./233003-daily-dadish.json) |
 | Daily Driven Racer | 334474 | [334474-daily-driven-racer.json](./334474-daily-driven-racer.json) |
 | Daily Dungeon Club | 216714 | [216714-daily-dungeon-club.json](./216714-daily-dungeon-club.json) |
+| Daily Espada | 34690 | [34690-daily-espada.json](./34690-daily-espada.json) |
 | Daily Quizz | 78701 | [78701-daily-quizz.json](./78701-daily-quizz.json) |
 | Daily Run | 72384 | [72384-daily-run.json](./72384-daily-run.json) |
 | Daily Thread: The Sewing of Discontent | 270121 | [270121-daily-thread-the-sewing-of-discontent.json](./270121-daily-thread-the-sewing-of-discontent.json) |
@@ -3266,6 +3267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Boto: Belle Memoir | 410934 | [410934-detective-boto-belle-memoir.json](./410934-detective-boto-belle-memoir.json) |
 | Detective Bureau Simulator | 150015 | [150015-detective-bureau-simulator.json](./150015-detective-bureau-simulator.json) |
 | Detective Butler and the King of Hearts | 244238 | [244238-detective-butler-and-the-king-of-hearts.json](./244238-detective-butler-and-the-king-of-hearts.json) |
+| Detective Butler: Maiden Voyage Murder | 34660 | [34660-detective-butler-maiden-voyage-murder.json](./34660-detective-butler-maiden-voyage-murder.json) |
 | Detective Clean | 221819 | [221819-detective-clean.json](./221819-detective-clean.json) |
 | Detective Club: Gallery of Shadows | 416699 | [416699-detective-club-gallery-of-shadows.json](./416699-detective-club-gallery-of-shadows.json) |
 | Detective Club: Gallery of Shadows - Collector's Edition | 362848 | [362848-detective-club-gallery-of-shadows-collectors-edition.json](./362848-detective-club-gallery-of-shadows-collectors-edition.json) |
