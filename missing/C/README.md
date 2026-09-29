@@ -1680,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Girl Survivor | 295771 | [295771-cat-girl-survivor.json](./295771-cat-girl-survivor.json) |
 | Cat Girl Survivor: Extra Episodes and Additional Chapters | 379025 | [379025-cat-girl-survivor-extra-episodes-and-additional-chapters.json](./379025-cat-girl-survivor-extra-episodes-and-additional-chapters.json) |
 | Cat God Ranch | 296511 | [296511-cat-god-ranch.json](./296511-cat-god-ranch.json) |
+| Cat Goes Fishing | 35910 | [35910-cat-goes-fishing.json](./35910-cat-goes-fishing.json) |
 | Cat Goes Platform | 30125 | [30125-cat-goes-platform.json](./30125-cat-goes-platform.json) |
 | Cat Good Work | 309686 | [309686-cat-good-work.json](./309686-cat-good-work.json) |
 | Cat got Lost | 260670 | [260670-cat-got-lost.json](./260670-cat-got-lost.json) |
@@ -3072,6 +3073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Invaders 4: Ultimate Omelette | 11716 | [11716-chicken-invaders-4-ultimate-omelette.json](./11716-chicken-invaders-4-ultimate-omelette.json) |
 | Chicken Invaders 5 Deluxe | 52743 | [52743-chicken-invaders-5-deluxe.json](./52743-chicken-invaders-5-deluxe.json) |
 | Chicken Invaders 5: Christmas Edition | 108464 | [108464-chicken-invaders-5-christmas-edition.json](./108464-chicken-invaders-5-christmas-edition.json) |
+| Chicken Invaders 5: Cluck of the Dark Side | 35692 | [35692-chicken-invaders-5-cluck-of-the-dark-side.json](./35692-chicken-invaders-5-cluck-of-the-dark-side.json) |
 | Chicken Invaders 5: Cluck of the Dark Side - Halloween Edition | 52742 | [52742-chicken-invaders-5-cluck-of-the-dark-side-halloween-edition.json](./52742-chicken-invaders-5-cluck-of-the-dark-side-halloween-edition.json) |
 | Chicken Journey | 204513 | [204513-chicken-journey.json](./204513-chicken-journey.json) |
 | Chicken Jump | 108521 | [108521-chicken-jump.json](./108521-chicken-jump.json) |
@@ -4632,6 +4634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Climber | 142314 | [142314-cloud-climber.json](./142314-cloud-climber.json) |
 | Cloud Critters | 59906 | [59906-cloud-critters.json](./59906-cloud-critters.json) |
 | Cloud Escape | 183612 | [183612-cloud-escape.json](./183612-cloud-escape.json) |
+| Cloud Gardens | 136407 | [136407-cloud-gardens.json](./136407-cloud-gardens.json) |
 | Cloud Grove | 59934 | [59934-cloud-grove.json](./59934-cloud-grove.json) |
 | Cloud Heart | 211822 | [211822-cloud-heart.json](./211822-cloud-heart.json) |
 | Cloud House | 236497 | [236497-cloud-house.json](./236497-cloud-house.json) |
@@ -7818,6 +7821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossbow Crusade | 148568 | [148568-crossbow-crusade.json](./148568-crossbow-crusade.json) |
 | Crossbow Potato | 112311 | [112311-crossbow-potato.json](./112311-crossbow-potato.json) |
 | Crossbow Warrior: The Legend of William Tell | 34196 | [34196-crossbow-warrior-the-legend-of-william-tell.json](./34196-crossbow-warrior-the-legend-of-william-tell.json) |
+| CrossCells | 28924 | [28924-crosscells.json](./28924-crosscells.json) |
 | CrossCheck | 15920 | [15920-crosscheck.json](./15920-crosscheck.json) |
 | Crossclimb | 321118 | [321118-crossclimb.json](./321118-crossclimb.json) |
 | CrossCode | 35282 | [35282-crosscode.json](./35282-crosscode.json) |
