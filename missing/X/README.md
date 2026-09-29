@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X Simulator Drone | 312171 | [312171-x-simulator-drone.json](./312171-x-simulator-drone.json) |
 | X Virus | 190742 | [190742-x-virus.json](./190742-x-virus.json) |
 | X Wars Deluxe | 121554 | [121554-x-wars-deluxe.json](./121554-x-wars-deluxe.json) |
+| X-15 Alpha Mission | 40934 | [40934-x-15-alpha-mission.json](./40934-x-15-alpha-mission.json) |
 | X-17 | 33373 | [33373-x-17.json](./33373-x-17.json) |
 | X-Blades HD | 230804 | [230804-x-blades-hd.json](./230804-x-blades-hd.json) |
 | X-Blades HD Gold | 230814 | [230814-x-blades-hd-gold.json](./230814-x-blades-hd-gold.json) |
@@ -86,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men: 101 - Attack Mod: Reflective Mode | 363559 | [363559-x-men-101-attack-mod-reflective-mode.json](./363559-x-men-101-attack-mod-reflective-mode.json) |
 | X-Men: 102 - Attack Mod: Super Speed | 363560 | [363560-x-men-102-attack-mod-super-speed.json](./363560-x-men-102-attack-mod-super-speed.json) |
 | X-Men: Battle of the Atom | 62782 | [62782-x-men-battle-of-the-atom.json](./62782-x-men-battle-of-the-atom.json) |
+| X-Men: Madness in Murderworld | 40949 | [40949-x-men-madness-in-murderworld.json](./40949-x-men-madness-in-murderworld.json) |
 | X-Men: Mind Games | 268483 | [268483-x-men-mind-games.json](./268483-x-men-mind-games.json) |
 | X-Men: Mutant Academy | 259648 | [259648-x-men-mutant-academy.json](./259648-x-men-mutant-academy.json) |
 | X-Men: Next Dimension | 4577 | [4577-x-men-next-dimension.json](./4577-x-men-next-dimension.json) |
