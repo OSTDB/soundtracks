@@ -603,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Timing | 368108 | [368108-panic-timing.json](./368108-panic-timing.json) |
 | Panic-Chan | 209623 | [209623-panic-chan.json](./209623-panic-chan.json) |
 | Panic! at the Dog Show | 106364 | [106364-panic-at-the-dog-show.json](./106364-panic-at-the-dog-show.json) |
+| Panic! Dizzy | 39163 | [39163-panic-dizzy.json](./39163-panic-dizzy.json) |
 | Panicked and Surrounded by Hot Vampires | 186626 | [186626-panicked-and-surrounded-by-hot-vampires.json](./186626-panicked-and-surrounded-by-hot-vampires.json) |
 | Panicore | 277278 | [277278-panicore.json](./277278-panicore.json) |
 | Panik | 289300 | [289300-panik.json](./289300-panik.json) |
@@ -7490,6 +7491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulsar | 172728 | [172728-pulsar.json](./172728-pulsar.json) |
 | Pulsar no Hikari | 64649 | [64649-pulsar-no-hikari.json](./64649-pulsar-no-hikari.json) |
 | Pulsar: Lost Colony | 16687 | [16687-pulsar-lost-colony.json](./16687-pulsar-lost-colony.json) |
+| Pulsator | 39130 | [39130-pulsator.json](./39130-pulsator.json) |
 | Pulse | 177421 | [177421-pulse.json](./177421-pulse.json) |
 | Pulse | 266480 | [266480-pulse.json](./266480-pulse.json) |
 | Pulse | 392257 | [392257-pulse.json](./392257-pulse.json) |
