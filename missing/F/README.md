@@ -2881,6 +2881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisher-Price: Ready for School - Kindergarten | 77007 | [77007-fisher-price-ready-for-school-kindergarten.json](./77007-fisher-price-ready-for-school-kindergarten.json) |
 | Fisher-Price: Time To Play - Pet Shop | 283677 | [283677-fisher-price-time-to-play-pet-shop.json](./283677-fisher-price-time-to-play-pet-shop.json) |
 | Fisherman | 326247 | [326247-fisherman.json](./326247-fisherman.json) |
+| Fisherman's Bass Club | 43427 | [43427-fishermans-bass-club.json](./43427-fishermans-bass-club.json) |
 | Fisherman's House | 172749 | [172749-fishermans-house.json](./172749-fishermans-house.json) |
 | Fisherman's Paradise II | 209430 | [209430-fishermans-paradise-ii.json](./209430-fishermans-paradise-ii.json) |
 | Fisherman's Peril | 143492 | [143492-fishermans-peril.json](./143492-fishermans-peril.json) |
@@ -6021,6 +6022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Striptease | 215899 | [215899-furry-striptease.json](./215899-furry-striptease.json) |
 | Furry Superstar | 213007 | [213007-furry-superstar.json](./213007-furry-superstar.json) |
 | Furry Tale | 236940 | [236940-furry-tale.json](./236940-furry-tale.json) |
+| Furry Tales | 43462 | [43462-furry-tales.json](./43462-furry-tales.json) |
 | Furry Tangram Lite | 225758 | [225758-furry-tangram-lite.json](./225758-furry-tangram-lite.json) |
 | Furry Tits | 349865 | [349865-furry-tits.json](./349865-furry-tits.json) |
 | Furry Twins Oshikake Kemomimi Twins | 328524 | [328524-furry-twins-oshikake-kemomimi-twins.json](./328524-furry-twins-oshikake-kemomimi-twins.json) |
