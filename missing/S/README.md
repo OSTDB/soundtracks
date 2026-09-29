@@ -2594,6 +2594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seres | 207382 | [207382-seres.json](./207382-seres.json) |
 | Seres Universalis: Three Kingdoms | 372109 | [372109-seres-universalis-three-kingdoms.json](./372109-seres-universalis-three-kingdoms.json) |
 | Serflings | 210632 | [210632-serflings.json](./210632-serflings.json) |
+| Sergeant Seymour RobotCop | 39166 | [39166-sergeant-seymour-robotcop.json](./39166-sergeant-seymour-robotcop.json) |
 | Serguei's Destiny | 74041 | [74041-sergueis-destiny.json](./74041-sergueis-destiny.json) |
 | Serial Assault: The Memory of the Summer. | 97478 | [97478-serial-assault-the-memory-of-the-summer.json](./97478-serial-assault-the-memory-of-the-summer.json) |
 | Serial Cleaner | 19450 | [19450-serial-cleaner.json](./19450-serial-cleaner.json) |
@@ -4714,6 +4715,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silica | 247621 | [247621-silica.json](./247621-silica.json) |
 | Silicon Architect | 411160 | [411160-silicon-architect.json](./411160-silicon-architect.json) |
 | Silicon Dreams | 132497 | [132497-silicon-dreams.json](./132497-silicon-dreams.json) |
+| Silicon Dreams - Return to Eden | 39156 | [39156-silicon-dreams-return-to-eden.json](./39156-silicon-dreams-return-to-eden.json) |
+| Silicon Dreams - Snowball | 39157 | [39157-silicon-dreams-snowball.json](./39157-silicon-dreams-snowball.json) |
+| Silicon Dreams - The Worm in Paradise | 39155 | [39155-silicon-dreams-the-worm-in-paradise.json](./39155-silicon-dreams-the-worm-in-paradise.json) |
 | Silicon Fish | 83268 | [83268-silicon-fish.json](./83268-silicon-fish.json) |
 | Silicon Magic: Umareru Mae Kara Anata Senyou?! | 77954 | [77954-silicon-magic-umareru-mae-kara-anata-senyou.json](./77954-silicon-magic-umareru-mae-kara-anata-senyou.json) |
 | Silicon War: Blitz | 295520 | [295520-silicon-war-blitz.json](./295520-silicon-war-blitz.json) |
@@ -9149,6 +9153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spank The Idle Monkey | 334194 | [334194-spank-the-idle-monkey.json](./334194-spank-the-idle-monkey.json) |
 | Spanking Runners | 62282 | [62282-spanking-runners.json](./62282-spanking-runners.json) |
 | Spanky! | 254526 | [254526-spanky.json](./254526-spanky.json) |
+| Spannerman | 39142 | [39142-spannerman.json](./39142-spannerman.json) |
 | Spar MMORPG | 130880 | [130880-spar-mmorpg.json](./130880-spar-mmorpg.json) |
 | Spare Change | 23869 | [23869-spare-change.json](./23869-spare-change.json) |
 | Spare Heart | 340549 | [340549-spare-heart.json](./340549-spare-heart.json) |
@@ -11391,6 +11396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starsphere | 34321 | [34321-starsphere.json](./34321-starsphere.json) |
 | StarStorm | 258032 | [258032-starstorm.json](./258032-starstorm.json) |
 | Starstride | 264622 | [264622-starstride.json](./264622-starstride.json) |
+| Starstrike 2 | 39133 | [39133-starstrike-2.json](./39133-starstrike-2.json) |
 | Starstruck | 116842 | [116842-starstruck.json](./116842-starstruck.json) |
 | Starstruck | 239651 | [239651-starstruck.json](./239651-starstruck.json) |
 | Starsuits! (Remastered+ Edition) | 357317 | [357317-starsuits-remastered-edition.json](./357317-starsuits-remastered-edition.json) |
@@ -12271,6 +12277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Zoo | 415139 | [415139-strange-zoo.json](./415139-strange-zoo.json) |
 | Strangeland | 103219 | [103219-strangeland.json](./103219-strangeland.json) |
 | Strangeland: The Last Colony | 401618 | [401618-strangeland-the-last-colony.json](./401618-strangeland-the-last-colony.json) |
+| Strangeloop | 39138 | [39138-strangeloop.json](./39138-strangeloop.json) |
 | Stranger by Night | 73558 | [73558-stranger-by-night.json](./73558-stranger-by-night.json) |
 | Stranger Danger or Horror, Quest and Magic | 197390 | [197390-stranger-danger-or-horror-quest-and-magic.json](./197390-stranger-danger-or-horror-quest-and-magic.json) |
 | Stranger in Utopia | 273871 | [273871-stranger-in-utopia.json](./273871-stranger-in-utopia.json) |
@@ -12672,6 +12679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strip Me Down: Office Worker | 392935 | [392935-strip-me-down-office-worker.json](./392935-strip-me-down-office-worker.json) |
 | Strip n Play with Valerie | 221205 | [221205-strip-n-play-with-valerie.json](./221205-strip-n-play-with-valerie.json) |
 | Strip Poker II | 78962 | [78962-strip-poker-ii.json](./78962-strip-poker-ii.json) |
+| Strip Poker II Plus | 39137 | [39137-strip-poker-ii-plus.json](./39137-strip-poker-ii-plus.json) |
 | Strip4 | 93182 | [93182-strip4.json](./93182-strip4.json) |
 | Striping Fruits | 147410 | [147410-striping-fruits.json](./147410-striping-fruits.json) |
 | Stripper Anya 2: X-MiGuFighters | 75168 | [75168-stripper-anya-2-x-migufighters.json](./75168-stripper-anya-2-x-migufighters.json) |
@@ -12734,6 +12742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Struggle For Talyria | 148920 | [148920-struggle-for-talyria.json](./148920-struggle-for-talyria.json) |
 | Struggle for the Iliac Bay | 356168 | [356168-struggle-for-the-iliac-bay.json](./356168-struggle-for-the-iliac-bay.json) |
 | Struggle Weapon Girl | 410899 | [410899-struggle-weapon-girl.json](./410899-struggle-weapon-girl.json) |
+| Stryfe - The Everlasting Battle | 39136 | [39136-stryfe-the-everlasting-battle.json](./39136-stryfe-the-everlasting-battle.json) |
 | Stryke | 249805 | [249805-stryke.json](./249805-stryke.json) |
 | STSP: Super Titty Space Prison | 260643 | [260643-stsp-super-titty-space-prison.json](./260643-stsp-super-titty-space-prison.json) |
 | Stuart Little 2 | 121606 | [121606-stuart-little-2.json](./121606-stuart-little-2.json) |
@@ -12789,6 +12798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuntcar Extreme | 73246 | [73246-stuntcar-extreme.json](./73246-stuntcar-extreme.json) |
 | StuntCopter! | 108515 | [108515-stuntcopter.json](./108515-stuntcopter.json) |
 | Stuntman | 197884 | [197884-stuntman.json](./197884-stuntman.json) |
+| Stuntman Seymour | 39165 | [39165-stuntman-seymour.json](./39165-stuntman-seymour.json) |
 | Stuntman: Ignition | 2783 | [2783-stuntman-ignition.json](./2783-stuntman-ignition.json) |
 | Stunts | 11630 | [11630-stunts.json](./11630-stunts.json) |
 | Stunts above Clouds 2 | 296988 | [296988-stunts-above-clouds-2.json](./296988-stunts-above-clouds-2.json) |
@@ -14493,6 +14503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pinkie World | 231496 | [231496-super-pinkie-world.json](./231496-super-pinkie-world.json) |
 | Super Pinkie World 2 | 231497 | [231497-super-pinkie-world-2.json](./231497-super-pinkie-world-2.json) |
 | Super Pinkie World 3 | 231498 | [231498-super-pinkie-world-3.json](./231498-super-pinkie-world-3.json) |
+| Super Pipeline II | 39135 | [39135-super-pipeline-ii.json](./39135-super-pipeline-ii.json) |
 | Super Pitfall | 48233 | [48233-super-pitfall.json](./48233-super-pitfall.json) |
 | Super Pitfall: 30th Anniversary Edition | 48864 | [48864-super-pitfall-30th-anniversary-edition.json](./48864-super-pitfall-30th-anniversary-edition.json) |
 | Super Pixel Kid | 221706 | [221706-super-pixel-kid.json](./221706-super-pixel-kid.json) |
@@ -14553,6 +14564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Rising Ball | 350485 | [350485-super-rising-ball.json](./350485-super-rising-ball.json) |
 | Super Road Champions | 230767 | [230767-super-road-champions.json](./230767-super-road-champions.json) |
 | Super Robin Hood | 223024 | [223024-super-robin-hood.json](./223024-super-robin-hood.json) |
+| Super Robin Hood | 39134 | [39134-super-robin-hood.json](./39134-super-robin-hood.json) |
 | Super Robolom | 83485 | [83485-super-robolom.json](./83485-super-robolom.json) |
 | Super Robot Pinball | 71606 | [71606-super-robot-pinball.json](./71606-super-robot-pinball.json) |
 | Super Robot Shooting | 74768 | [74768-super-robot-shooting.json](./74768-super-robot-shooting.json) |
