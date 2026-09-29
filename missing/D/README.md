@@ -4393,6 +4393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 1 Complete: Limited Edition | 201055 | [201055-disgaea-1-complete-limited-edition.json](./201055-disgaea-1-complete-limited-edition.json) |
 | Disgaea 2: Dark Hero Days | 21851 | [21851-disgaea-2-dark-hero-days.json](./21851-disgaea-2-dark-hero-days.json) |
 | Disgaea 4 Complete+: A Promise of Sardines Edition | 205262 | [205262-disgaea-4-complete-a-promise-of-sardines-edition.json](./205262-disgaea-4-complete-a-promise-of-sardines-edition.json) |
+| Disgaea 5: Alliance of Vengeance | 11594 | [11594-disgaea-5-alliance-of-vengeance.json](./11594-disgaea-5-alliance-of-vengeance.json) |
 | Disgaea 5: Alliance of Vengeance - Limited Edition | 167058 | [167058-disgaea-5-alliance-of-vengeance-limited-edition.json](./167058-disgaea-5-alliance-of-vengeance-limited-edition.json) |
 | Disgaea 6 Complete | 191497 | [191497-disgaea-6-complete.json](./191497-disgaea-6-complete.json) |
 | Disgaea 7: Glasses Costumes Set | 268541 | [268541-disgaea-7-glasses-costumes-set.json](./268541-disgaea-7-glasses-costumes-set.json) |
@@ -6643,6 +6644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Warrior I & II | 205230 | [205230-dragon-warrior-i-and-ii.json](./205230-dragon-warrior-i-and-ii.json) |
 | Dragon Warrior II | 239184 | [239184-dragon-warrior-ii.json](./239184-dragon-warrior-ii.json) |
 | Dragon Warrior III | 205600 | [205600-dragon-warrior-iii.json](./205600-dragon-warrior-iii.json) |
+| Dragon Warrior IV | 16584 | [16584-dragon-warrior-iv.json](./16584-dragon-warrior-iv.json) |
 | Dragon Warrior Monsters 2: Cobi's Journey | 222275 | [222275-dragon-warrior-monsters-2-cobis-journey.json](./222275-dragon-warrior-monsters-2-cobis-journey.json) |
 | Dragon Warrior Monsters 2: Tara's Adventure | 222276 | [222276-dragon-warrior-monsters-2-taras-adventure.json](./222276-dragon-warrior-monsters-2-taras-adventure.json) |
 | Dragon Wars | 11406 | [11406-dragon-wars.json](./11406-dragon-wars.json) |
