@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valor of Man | 326576 | [326576-valor-of-man.json](./326576-valor-of-man.json) |
 | Valor Time | 107911 | [107911-valor-time.json](./107911-valor-time.json) |
 | Valora Survival | 219521 | [219521-valora-survival.json](./219521-valora-survival.json) |
+| Valora Valley Golf | 45467 | [45467-valora-valley-golf.json](./45467-valora-valley-golf.json) |
 | Valorbound | 222900 | [222900-valorbound.json](./222900-valorbound.json) |
 | Valravn | 244363 | [244363-valravn.json](./244363-valravn.json) |
 | Valthazar's Sanctum | 266306 | [266306-valthazars-sanctum.json](./266306-valthazars-sanctum.json) |
