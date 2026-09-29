@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Driver | 151033 | [151033-hard-driver.json](./151033-hard-driver.json) |
 | Hard Drivin' II: Drive Harder | 12135 | [12135-hard-drivin-ii-drive-harder.json](./12135-hard-drivin-ii-drive-harder.json) |
 | Hard Dunk | 40350 | [40350-hard-dunk.json](./40350-hard-dunk.json) |
+| Hard Evidence: Marilyn Monroe Files | 7619 | [7619-hard-evidence-marilyn-monroe-files.json](./7619-hard-evidence-marilyn-monroe-files.json) |
 | Hard Glide | 189186 | [189186-hard-glide.json](./189186-hard-glide.json) |
 | Hard Graphics Soushuuhen | 67357 | [67357-hard-graphics-soushuuhen.json](./67357-hard-graphics-soushuuhen.json) |
 | Hard Grip | 66771 | [66771-hard-grip.json](./66771-hard-grip.json) |
@@ -3943,6 +3944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollowglass | 335998 | [335998-hollowglass.json](./335998-hollowglass.json) |
 | Hollowmoor | 217328 | [217328-hollowmoor.json](./217328-hollowmoor.json) |
 | HollowPath | 221429 | [221429-hollowpath.json](./221429-hollowpath.json) |
+| Hollowpoint | 7607 | [7607-hollowpoint.json](./7607-hollowpoint.json) |
 | Hollowroot | 344356 | [344356-hollowroot.json](./344356-hollowroot.json) |
 | Holly: A Christmas Tale | 177046 | [177046-holly-a-christmas-tale.json](./177046-holly-a-christmas-tale.json) |
 | Holly: A Christmas Tale Deluxe | 54086 | [54086-holly-a-christmas-tale-deluxe.json](./54086-holly-a-christmas-tale-deluxe.json) |
