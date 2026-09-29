@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Las Vegas Girls | 38568 | [38568-las-vegas-girls.json](./38568-las-vegas-girls.json) |
 | Las Vegas Roulette | 47278 | [47278-las-vegas-roulette.json](./47278-las-vegas-roulette.json) |
 | Lasagna Boy | 117149 | [117149-lasagna-boy.json](./117149-lasagna-boy.json) |
+| LaSalle Ishii no Child's Quest | 48792 | [48792-lasalle-ishii-no-childs-quest.json](./48792-lasalle-ishii-no-childs-quest.json) |
 | Laser | 322581 | [322581-laser.json](./322581-laser.json) |
 | Laser Arena | 9060 | [9060-laser-arena.json](./9060-laser-arena.json) |
 | Laser Attraction | 144762 | [144762-laser-attraction.json](./144762-laser-attraction.json) |
