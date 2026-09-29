@@ -2426,6 +2426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reptile Silhouette | 361344 | [361344-reptile-silhouette.json](./361344-reptile-silhouette.json) |
 | Reptilian Rising | 153846 | [153846-reptilian-rising.json](./153846-reptilian-rising.json) |
 | Reptillian Rebellion | 123610 | [123610-reptillian-rebellion.json](./123610-reptillian-rebellion.json) |
+| Repton | 9657 | [9657-repton.json](./9657-repton.json) |
 | Repton 2 | 37073 | [37073-repton-2.json](./37073-repton-2.json) |
 | Repton 3 | 37074 | [37074-repton-3.json](./37074-repton-3.json) |
 | Repton Mania | 94257 | [94257-repton-mania.json](./94257-repton-mania.json) |
