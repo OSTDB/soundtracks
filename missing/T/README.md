@@ -1348,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tayutama: Kiss on My Deity | 69311 | [69311-tayutama-kiss-on-my-deity.json](./69311-tayutama-kiss-on-my-deity.json) |
 | Taz | 100183 | [100183-taz.json](./100183-taz.json) |
 | Taz Cebula's Brides of Vampira: The Circle of Seven | 273402 | [273402-taz-cebulas-brides-of-vampira-the-circle-of-seven.json](./273402-taz-cebulas-brides-of-vampira-the-circle-of-seven.json) |
+| Taz Express | 3345 | [3345-taz-express.json](./3345-taz-express.json) |
 | Taz in Escape From Mars | 8065 | [8065-taz-in-escape-from-mars.json](./8065-taz-in-escape-from-mars.json) |
 | Taz-Mania | 365672 | [365672-taz-mania.json](./365672-taz-mania.json) |
 | Taz-Mania | 8066 | [8066-taz-mania.json](./8066-taz-mania.json) |
@@ -2267,6 +2268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris 2 | 254511 | [254511-tetris-2.json](./254511-tetris-2.json) |
 | Tetris 2 | 254512 | [254512-tetris-2.json](./254512-tetris-2.json) |
 | Tetris 2 + BomBliss | 78699 | [78699-tetris-2-bombliss.json](./78699-tetris-2-bombliss.json) |
+| Tetris 64 | 3346 | [3346-tetris-64.json](./3346-tetris-64.json) |
 | Tetris 99: Big Block DLC | 133960 | [133960-tetris-99-big-block-dlc.json](./133960-tetris-99-big-block-dlc.json) |
 | Tetris Arcade in a Tin | 234079 | [234079-tetris-arcade-in-a-tin.json](./234079-tetris-arcade-in-a-tin.json) |
 | Tetris Battle Fusion | 74305 | [74305-tetris-battle-fusion.json](./74305-tetris-battle-fusion.json) |
@@ -7573,6 +7575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs 2: The Prisoner of the Green Stone: Corrupted Outfit / Farmer Outfit / Adorable Outfit | 275060 | [275060-the-smurfs-2-the-prisoner-of-the-green-stone-corrupted-outfit-farmer-outfit-adorable-outfit.json](./275060-the-smurfs-2-the-prisoner-of-the-green-stone-corrupted-outfit-farmer-outfit-adorable-outfit.json) |
 | The Smurfs Bakery | 248647 | [248647-the-smurfs-bakery.json](./248647-the-smurfs-bakery.json) |
 | The Smurfs Collection | 75142 | [75142-the-smurfs-collection.json](./75142-the-smurfs-collection.json) |
+| The Smurfs Dance Party | 3304 | [3304-the-smurfs-dance-party.json](./3304-the-smurfs-dance-party.json) |
 | The Smurfs Dreams: Cosmic Costume | 316238 | [316238-the-smurfs-dreams-cosmic-costume.json](./316238-the-smurfs-dreams-cosmic-costume.json) |
 | The Smurfs Party Pack | 79212 | [79212-the-smurfs-party-pack.json](./79212-the-smurfs-party-pack.json) |
 | The Smurfs Travel the World | 287148 | [287148-the-smurfs-travel-the-world.json](./287148-the-smurfs-travel-the-world.json) |
