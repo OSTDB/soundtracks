@@ -831,6 +831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou J.League Perfect Striker 4 | 168154 | [168154-jikkyou-j-league-perfect-striker-4.json](./168154-jikkyou-j-league-perfect-striker-4.json) |
 | Jikkyou J.League Perfect Striker 5 | 220863 | [220863-jikkyou-j-league-perfect-striker-5.json](./220863-jikkyou-j-league-perfect-striker-5.json) |
 | Jikkyou Oshaberi Parodius | 38390 | [38390-jikkyou-oshaberi-parodius.json](./38390-jikkyou-oshaberi-parodius.json) |
+| Jikkyou Oshaberi Parodius: Forever With Me | 45458 | [45458-jikkyou-oshaberi-parodius-forever-with-me.json](./45458-jikkyou-oshaberi-parodius-forever-with-me.json) |
 | Jikkyou Pawafuru Major League | 69275 | [69275-jikkyou-pawafuru-major-league.json](./69275-jikkyou-pawafuru-major-league.json) |
 | Jikkyou Pawafuru Major League 2009 | 69266 | [69266-jikkyou-pawafuru-major-league-2009.json](./69266-jikkyou-pawafuru-major-league-2009.json) |
 | Jikkyou Pawafuru Pro Yakyuu '96 | 384770 | [384770-jikkyou-pawafuru-pro-yakyuu-96.json](./384770-jikkyou-pawafuru-pro-yakyuu-96.json) |
