@@ -1023,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saunageddon | 348837 | [348837-saunageddon.json](./348837-saunageddon.json) |
 | Saurian | 19384 | [19384-saurian.json](./19384-saurian.json) |
 | Sauro | 40414 | [40414-sauro.json](./40414-sauro.json) |
+| Saurusland | 42139 | [42139-saurusland.json](./42139-saurusland.json) |
 | Sausage Bundle: Till the last drop of ketchup | 227774 | [227774-sausage-bundle-till-the-last-drop-of-ketchup.json](./227774-sausage-bundle-till-the-last-drop-of-ketchup.json) |
 | Sausage Cat | 320774 | [320774-sausage-cat.json](./320774-sausage-cat.json) |
 | Sausage Fiesta | 153363 | [153363-sausage-fiesta.json](./153363-sausage-fiesta.json) |
@@ -2761,6 +2762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sewer Flood | 181322 | [181322-sewer-flood.json](./181322-sewer-flood.json) |
 | Sewer Jam 2 | 271196 | [271196-sewer-jam-2.json](./271196-sewer-jam-2.json) |
 | Sewer Rave | 125326 | [125326-sewer-rave.json](./125326-sewer-rave.json) |
+| Sewermania | 42179 | [42179-sewermania.json](./42179-sewermania.json) |
 | Sex Adventures: BDSM Dungeon | 219597 | [219597-sex-adventures-bdsm-dungeon.json](./219597-sex-adventures-bdsm-dungeon.json) |
 | Sex Adventures: Cuckold Gym | 226151 | [226151-sex-adventures-cuckold-gym.json](./226151-sex-adventures-cuckold-gym.json) |
 | Sex Adventures: Futanari Doctor | 286529 | [286529-sex-adventures-futanari-doctor.json](./286529-sex-adventures-futanari-doctor.json) |
@@ -4826,6 +4828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simnetzero | 234751 | [234751-simnetzero.json](./234751-simnetzero.json) |
 | Simon and Friends | 401687 | [401687-simon-and-friends.json](./401687-simon-and-friends.json) |
 | Simon Says | 288364 | [288364-simon-says.json](./288364-simon-says.json) |
+| Simon Says! | 42167 | [42167-simon-says.json](./42167-simon-says.json) |
 | Simon Says... | 76987 | [76987-simon-says.json](./76987-simon-says.json) |
 | Simon Scoop: Ace Attorney | 308551 | [308551-simon-scoop-ace-attorney.json](./308551-simon-scoop-ace-attorney.json) |
 | Simon Sees | 317438 | [317438-simon-sees.json](./317438-simon-sees.json) |
@@ -6220,6 +6223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slyders | 274462 | [274462-slyders.json](./274462-slyders.json) |
 | Slydris | 22271 | [22271-slydris.json](./22271-slydris.json) |
 | Slyme Breaker | 248336 | [248336-slyme-breaker.json](./248336-slyme-breaker.json) |
+| Slymoids | 42178 | [42178-slymoids.json](./42178-slymoids.json) |
 | SM Escalation | 97675 | [97675-sm-escalation.json](./97675-sm-escalation.json) |
 | SM Word | 93041 | [93041-sm-word.json](./93041-sm-word.json) |
 | SM228: Vanilla | 299850 | [299850-sm228-vanilla.json](./299850-sm228-vanilla.json) |
@@ -6694,6 +6698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Stealy | 176359 | [176359-sneaky-stealy.json](./176359-sneaky-stealy.json) |
 | Sneezeman | 189099 | [189099-sneezeman.json](./189099-sneezeman.json) |
 | Sneezies HD | 21748 | [21748-sneezies-hd.json](./21748-sneezies-hd.json) |
+| Sneggit | 42177 | [42177-sneggit.json](./42177-sneggit.json) |
 | Snekburd | 342255 | [342255-snekburd.json](./342255-snekburd.json) |
 | SnekMP | 226442 | [226442-snekmp.json](./226442-snekmp.json) |
 | Snekoban | 393124 | [393124-snekoban.json](./393124-snekoban.json) |
@@ -8524,11 +8529,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Angel Boin Boin! | 97832 | [97832-space-angel-boin-boin.json](./97832-space-angel-boin-boin.json) |
 | Space Arcade | 237374 | [237374-space-arcade.json](./237374-space-arcade.json) |
 | Space Ashes | 109899 | [109899-space-ashes.json](./109899-space-ashes.json) |
+| Space Assault | 42134 | [42134-space-assault.json](./42134-space-assault.json) |
 | Space Attack | 38573 | [38573-space-attack.json](./38573-space-attack.json) |
 | Space Badminton VR | 29853 | [29853-space-badminton-vr.json](./29853-space-badminton-vr.json) |
 | Space Baller | 133431 | [133431-space-baller.json](./133431-space-baller.json) |
 | Space Ballet | 25758 | [25758-space-ballet.json](./25758-space-ballet.json) |
 | Space Bandit | 150577 | [150577-space-bandit.json](./150577-space-bandit.json) |
+| Space Bandits | 42176 | [42176-space-bandits.json](./42176-space-bandits.json) |
 | Space Bar | 411582 | [411582-space-bar.json](./411582-space-bar.json) |
 | Space Bar at the End of the Galaxy | 171005 | [171005-space-bar-at-the-end-of-the-galaxy.json](./171005-space-bar-at-the-end-of-the-galaxy.json) |
 | Space Battalion Alpha | 186194 | [186194-space-battalion-alpha.json](./186194-space-battalion-alpha.json) |
@@ -11009,6 +11016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbase Hyperion | 282149 | [282149-starbase-hyperion.json](./282149-starbase-hyperion.json) |
 | Starbirds | 73292 | [73292-starbirds.json](./73292-starbirds.json) |
 | Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
+| Starblaze | 42133 | [42133-starblaze.json](./42133-starblaze.json) |
 | Starblind | 293175 | [293175-starblind.json](./293175-starblind.json) |
 | StarBlox Inc. | 124060 | [124060-starblox-inc.json](./124060-starblox-inc.json) |
 | Starboard | 192366 | [192366-starboard.json](./192366-starboard.json) |
@@ -11337,6 +11345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship EVO | 138009 | [138009-starship-evo.json](./138009-starship-evo.json) |
 | Starship Home | 293377 | [293377-starship-home.json](./293377-starship-home.json) |
 | Starship Inspector | 127867 | [127867-starship-inspector.json](./127867-starship-inspector.json) |
+| Starship Pegasus | 42166 | [42166-starship-pegasus.json](./42166-starship-pegasus.json) |
 | Starship Saboteur Prototype | 133249 | [133249-starship-saboteur-prototype.json](./133249-starship-saboteur-prototype.json) |
 | Starship Showdown: Galactic Grand Prix | 283223 | [283223-starship-showdown-galactic-grand-prix.json](./283223-starship-showdown-galactic-grand-prix.json) |
 | Starship Theory | 36962 | [36962-starship-theory.json](./36962-starship-theory.json) |
@@ -12143,6 +12152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story Hour Adventures | 50713 | [50713-story-hour-adventures.json](./50713-story-hour-adventures.json) |
 | Story Hour: Fairy Tales | 9756 | [9756-story-hour-fairy-tales.json](./9756-story-hour-fairy-tales.json) |
 | Story Jar | 228353 | [228353-story-jar.json](./228353-story-jar.json) |
+| Story Machine | 42170 | [42170-story-machine.json](./42170-story-machine.json) |
 | Story Machine | 95450 | [95450-story-machine.json](./95450-story-machine.json) |
 | Story Maker | 66615 | [66615-story-maker.json](./66615-story-maker.json) |
 | Story of a Gladiator | 125747 | [125747-story-of-a-gladiator.json](./125747-story-of-a-gladiator.json) |
@@ -13527,6 +13537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Beta Tester | 335987 | [335987-super-beta-tester.json](./335987-super-beta-tester.json) |
 | Super Big 2 | 63331 | [63331-super-big-2.json](./63331-super-big-2.json) |
 | Super Big Bro Quest | 321775 | [321775-super-big-bro-quest.json](./321775-super-big-bro-quest.json) |
+| Super Bike | 42157 | [42157-super-bike.json](./42157-super-bike.json) |
 | Super Bike TransAm | 71804 | [71804-super-bike-transam.json](./71804-super-bike-transam.json) |
 | Super Bio-Man | 265603 | [265603-super-bio-man.json](./265603-super-bio-man.json) |
 | Super Bird | 267966 | [267966-super-bird.json](./267966-super-bird.json) |
@@ -14728,6 +14739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sticker Studio: Creative Sticker Book Game for Kids | 389074 | [389074-super-sticker-studio-creative-sticker-book-game-for-kids.json](./389074-super-sticker-studio-creative-sticker-book-game-for-kids.json) |
 | Super Stickman Golf | 47270 | [47270-super-stickman-golf.json](./47270-super-stickman-golf.json) |
 | Super Stickman Golf 3 | 58223 | [58223-super-stickman-golf-3.json](./58223-super-stickman-golf-3.json) |
+| Super Storm | 42144 | [42144-super-storm.json](./42144-super-storm.json) |
 | Super Stream-Bara | 338948 | [338948-super-stream-bara.json](./338948-super-stream-bara.json) |
 | Super Street Basketball 2 | 64097 | [64097-super-street-basketball-2.json](./64097-super-street-basketball-2.json) |
 | Super Street Fighter II | 322188 | [322188-super-street-fighter-ii.json](./322188-super-street-fighter-ii.json) |
