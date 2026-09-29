@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youthink? | 102775 | [102775-youthink.json](./102775-youthink.json) |
 | YouTube: Missile Command | 337716 | [337716-youtube-missile-command.json](./337716-youtube-missile-command.json) |
 | Youtuber Boys: Love Behind the Camera | 403722 | [403722-youtuber-boys-love-behind-the-camera.json](./403722-youtuber-boys-love-behind-the-camera.json) |
+| Youtubers Life | 19331 | [19331-youtubers-life.json](./19331-youtubers-life.json) |
 | Youtubers Life: Gaming Channel | 88942 | [88942-youtubers-life-gaming-channel.json](./88942-youtubers-life-gaming-channel.json) |
 | Youtubers Life: OMG Edition | 111159 | [111159-youtubers-life-omg-edition.json](./111159-youtubers-life-omg-edition.json) |
 | Youyou Kengeki Musou | 137062 | [137062-youyou-kengeki-musou.json](./137062-youyou-kengeki-musou.json) |
@@ -692,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys IX: Monstrum Nox - Variety Mask Set | 411026 | [411026-ys-ix-monstrum-nox-variety-mask-set.json](./411026-ys-ix-monstrum-nox-variety-mask-set.json) |
 | Ys IX: Monstrum Nox - White Cat's "Monstrum Troupe" Costume | 411027 | [411027-ys-ix-monstrum-nox-white-cats-monstrum-troupe-costume.json](./411027-ys-ix-monstrum-nox-white-cats-monstrum-troupe-costume.json) |
 | Ys Online: The Call of Solum | 15458 | [15458-ys-online-the-call-of-solum.json](./15458-ys-online-the-call-of-solum.json) |
+| Ys Origin | 10949 | [10949-ys-origin.json](./10949-ys-origin.json) |
 | Ys Origin: Special Edition | 167141 | [167141-ys-origin-special-edition.json](./167141-ys-origin-special-edition.json) |
 | Ys Strategy | 15456 | [15456-ys-strategy.json](./15456-ys-strategy.json) |
 | Ys VI: The Ark of Napishtim | 15454 | [15454-ys-vi-the-ark-of-napishtim.json](./15454-ys-vi-the-ark-of-napishtim.json) |
