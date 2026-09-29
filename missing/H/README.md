@@ -3017,6 +3017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats in Jigsaw Puzzle: Rome | 312702 | [312702-hidden-cats-in-jigsaw-puzzle-rome.json](./312702-hidden-cats-in-jigsaw-puzzle-rome.json) |
 | Hidden Cats in Jigsaw Puzzle: Santa's Realm | 312703 | [312703-hidden-cats-in-jigsaw-puzzle-santas-realm.json](./312703-hidden-cats-in-jigsaw-puzzle-santas-realm.json) |
 | Hidden Cats in Jigsaw Puzzle: Spooky Town | 312698 | [312698-hidden-cats-in-jigsaw-puzzle-spooky-town.json](./312698-hidden-cats-in-jigsaw-puzzle-spooky-town.json) |
+| Hidden Cats in London | 211681 | [211681-hidden-cats-in-london.json](./211681-hidden-cats-in-london.json) |
 | Hidden Cats in Rio de Janeiro | 350069 | [350069-hidden-cats-in-rio-de-janeiro.json](./350069-hidden-cats-in-rio-de-janeiro.json) |
 | Hidden Cats in Rome | 264699 | [264699-hidden-cats-in-rome.json](./264699-hidden-cats-in-rome.json) |
 | Hidden Cats in Santa's Realm | 279125 | [279125-hidden-cats-in-santas-realm.json](./279125-hidden-cats-in-santas-realm.json) |
@@ -3662,6 +3663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hisshou Pachinko Pachi-Slot Kouryaku Series Vol.14: CR Shinseiki Evangelion - Saigo no Mono | 61581 | [61581-hisshou-pachinko-pachi-slot-kouryaku-series-vol-14-cr-shinseiki-evangelion-saigo-no-mono.json](./61581-hisshou-pachinko-pachi-slot-kouryaku-series-vol-14-cr-shinseiki-evangelion-saigo-no-mono.json) |
 | Hisshou Pachinko: Pachi-Slot Kouryoku Series Vol. 9: CR Fever Captain Harlock | 97315 | [97315-hisshou-pachinko-pachi-slot-kouryoku-series-vol-9-cr-fever-captain-harlock.json](./97315-hisshou-pachinko-pachi-slot-kouryoku-series-vol-9-cr-fever-captain-harlock.json) |
 | Hisshou! Pachi-Slot Fan | 59911 | [59911-hisshou-pachi-slot-fan.json](./59911-hisshou-pachi-slot-fan.json) |
+| Hissy Fit: Make Snake Break | 347175 | [347175-hissy-fit-make-snake-break.json](./347175-hissy-fit-make-snake-break.json) |
 | Hist Maker | 103183 | [103183-hist-maker.json](./103183-hist-maker.json) |
 | Histo-Time | 336710 | [336710-histo-time.json](./336710-histo-time.json) |
 | Histoire de Lune | 322590 | [322590-histoire-de-lune.json](./322590-histoire-de-lune.json) |
@@ -4623,6 +4625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horses of Gavarnie | 387653 | [387653-horses-of-gavarnie.json](./387653-horses-of-gavarnie.json) |
 | Horses of Hoofprint Bay | 376483 | [376483-horses-of-hoofprint-bay.json](./376483-horses-of-hoofprint-bay.json) |
 | Horses.io: Horse Herd Racing | 269010 | [269010-horses-io-horse-herd-racing.json](./269010-horses-io-horse-herd-racing.json) |
+| Horsey Game | 392467 | [392467-horsey-game.json](./392467-horsey-game.json) |
 | Horsez | 248607 | [248607-horsez.json](./248607-horsez.json) |
 | Horsez | 248608 | [248608-horsez.json](./248608-horsez.json) |
 | Horsle | 314416 | [314416-horsle.json](./314416-horsle.json) |
