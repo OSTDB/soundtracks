@@ -785,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magitech Requiem | 336011 | [336011-magitech-requiem.json](./336011-magitech-requiem.json) |
 | Magium | 207821 | [207821-magium.json](./207821-magium.json) |
 | Magix Music Maker | 43495 | [43495-magix-music-maker.json](./43495-magix-music-maker.json) |
+| MagixHome VR | 31125 | [31125-magixhome-vr.json](./31125-magixhome-vr.json) |
 | MagJongg | 91522 | [91522-magjongg.json](./91522-magjongg.json) |
 | Magla | 344017 | [344017-magla.json](./344017-magla.json) |
 | Magma | 229163 | [229163-magma.json](./229163-magma.json) |
@@ -812,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic Monopole Mayhem | 181137 | [181137-magnetic-monopole-mayhem.json](./181137-magnetic-monopole-mayhem.json) |
 | Magnetic Projectiles | 211668 | [211668-magnetic-projectiles.json](./211668-magnetic-projectiles.json) |
 | Magnetic Pull | 118324 | [118324-magnetic-pull.json](./118324-magnetic-pull.json) |
+| Magnetized | 31113 | [31113-magnetized.json](./31113-magnetized.json) |
 | Magnetized Knight | 115795 | [115795-magnetized-knight.json](./115795-magnetized-knight.json) |
 | Magnetoresistive | 180597 | [180597-magnetoresistive.json](./180597-magnetoresistive.json) |
 | Magnets | 366911 | [366911-magnets.json](./366911-magnets.json) |
@@ -3602,6 +3604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaquarium: Invertebrilliant Collection | 392780 | [392780-megaquarium-invertebrilliant-collection.json](./392780-megaquarium-invertebrilliant-collection.json) |
 | MegaRace 3 | 46634 | [46634-megarace-3.json](./46634-megarace-3.json) |
 | MegaRamp | 169789 | [169789-megaramp.json](./169789-megaramp.json) |
+| MegaRats | 31101 | [31101-megarats.json](./31101-megarats.json) |
 | Megaspectre | 70361 | [70361-megaspectre.json](./70361-megaspectre.json) |
 | Megatack | 38576 | [38576-megatack.json](./38576-megatack.json) |
 | Megaton Musashi W: V Navigator "Dragon" | 301016 | [301016-megaton-musashi-w-v-navigator-dragon.json](./301016-megaton-musashi-w-v-navigator-dragon.json) |
@@ -8335,6 +8338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multimedia Cats | 194441 | [194441-multimedia-cats.json](./194441-multimedia-cats.json) |
 | Multimedia Dinosaurs | 98941 | [98941-multimedia-dinosaurs.json](./98941-multimedia-dinosaurs.json) |
 | Multimedia Shinsho: Driving School - Futsu Menkyoka-hen | 245253 | [245253-multimedia-shinsho-driving-school-futsu-menkyoka-hen.json](./245253-multimedia-shinsho-driving-school-futsu-menkyoka-hen.json) |
+| Multimirror | 31090 | [31090-multimirror.json](./31090-multimirror.json) |
 | Multiplayer Citizens | 384206 | [384206-multiplayer-citizens.json](./384206-multiplayer-citizens.json) |
 | Multiplayer Game Maker | 335445 | [335445-multiplayer-game-maker.json](./335445-multiplayer-game-maker.json) |
 | Multiplayer Knights | 235193 | [235193-multiplayer-knights.json](./235193-multiplayer-knights.json) |
