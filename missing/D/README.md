@@ -808,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Sceptre | 12990 | [12990-dark-sceptre.json](./12990-dark-sceptre.json) |
 | Dark Secrets | 53912 | [53912-dark-secrets.json](./53912-dark-secrets.json) |
 | Dark Secrets Mystery Files | 399627 | [399627-dark-secrets-mystery-files.json](./399627-dark-secrets-mystery-files.json) |
+| Dark Sector | 6959 | [6959-dark-sector.json](./6959-dark-sector.json) |
 | Dark Seeker | 151698 | [151698-dark-seeker.json](./151698-dark-seeker.json) |
 | Dark Sentinel | 391739 | [391739-dark-sentinel.json](./391739-dark-sentinel.json) |
 | Dark Shiny | 115754 | [115754-dark-shiny.json](./115754-dark-shiny.json) |
@@ -5506,6 +5507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong 64 Lore Quiz | 231609 | [231609-donkey-kong-64-lore-quiz.json](./231609-donkey-kong-64-lore-quiz.json) |
 | Donkey Kong 64: Tag Anywhere | 210708 | [210708-donkey-kong-64-tag-anywhere.json](./210708-donkey-kong-64-tag-anywhere.json) |
 | Donkey Kong Arcade | 339265 | [339265-donkey-kong-arcade.json](./339265-donkey-kong-arcade.json) |
+| Donkey Kong Bananza | 338106 | [338106-donkey-kong-bananza.json](./338106-donkey-kong-bananza.json) |
 | Donkey Kong Barrel Blast | 4817 | [4817-donkey-kong-barrel-blast.json](./4817-donkey-kong-barrel-blast.json) |
 | Donkey Kong Christmas Remix | 339259 | [339259-donkey-kong-christmas-remix.json](./339259-donkey-kong-christmas-remix.json) |
 | Donkey Kong Classics | 48175 | [48175-donkey-kong-classics.json](./48175-donkey-kong-classics.json) |
@@ -6313,6 +6315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball FighterZ: Stamps Girls Pack | 366819 | [366819-dragon-ball-fighterz-stamps-girls-pack.json](./366819-dragon-ball-fighterz-stamps-girls-pack.json) |
 | Dragon Ball FighterZ: Super Edition | 200680 | [200680-dragon-ball-fighterz-super-edition.json](./200680-dragon-ball-fighterz-super-edition.json) |
 | Dragon Ball Fusions | 19314 | [19314-dragon-ball-fusions.json](./19314-dragon-ball-fusions.json) |
+| Dragon Ball GT: Final Bout | 2558 | [2558-dragon-ball-gt-final-bout.json](./2558-dragon-ball-gt-final-bout.json) |
 | Dragon Ball GT: Transformation 2 | 66363 | [66363-dragon-ball-gt-transformation-2.json](./66363-dragon-ball-gt-transformation-2.json) |
 | Dragon Ball Heroes: Ultimate Mission | 77253 | [77253-dragon-ball-heroes-ultimate-mission.json](./77253-dragon-ball-heroes-ultimate-mission.json) |
 | Dragon Ball Heroes: Ultimate Mission - Lalabit Market Luxury Edition | 89875 | [89875-dragon-ball-heroes-ultimate-mission-lalabit-market-luxury-edition.json](./89875-dragon-ball-heroes-ultimate-mission-lalabit-market-luxury-edition.json) |
@@ -6334,6 +6337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z III: Ressen Jinzou Ningen | 48680 | [48680-dragon-ball-z-iii-ressen-jinzou-ningen.json](./48680-dragon-ball-z-iii-ressen-jinzou-ningen.json) |
 | Dragon Ball Z Life | 328039 | [328039-dragon-ball-z-life.json](./328039-dragon-ball-z-life.json) |
 | Dragon Ball Z: Atsumare! Goku's World | 230282 | [230282-dragon-ball-z-atsumare-gokus-world.json](./230282-dragon-ball-z-atsumare-gokus-world.json) |
+| Dragon Ball Z: Budokai 2 | 2564 | [2564-dragon-ball-z-budokai-2.json](./2564-dragon-ball-z-budokai-2.json) |
 | Dragon Ball Z: Budokai 3 - Collector's Edition | 291591 | [291591-dragon-ball-z-budokai-3-collectors-edition.json](./291591-dragon-ball-z-budokai-3-collectors-edition.json) |
 | Dragon Ball Z: Budokai 3 HD | 288870 | [288870-dragon-ball-z-budokai-3-hd.json](./288870-dragon-ball-z-budokai-3-hd.json) |
 | Dragon Ball Z: Budokai HD | 288866 | [288866-dragon-ball-z-budokai-hd.json](./288866-dragon-ball-z-budokai-hd.json) |
@@ -8006,6 +8010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Settlers | 288782 | [288782-dungeon-settlers.json](./288782-dungeon-settlers.json) |
 | Dungeon Shifters | 364507 | [364507-dungeon-shifters.json](./364507-dungeon-shifters.json) |
 | Dungeon Shooter: Dark Temple | 234580 | [234580-dungeon-shooter-dark-temple.json](./234580-dungeon-shooter-dark-temple.json) |
+| Dungeon Siege II | 9269 | [9269-dungeon-siege-ii.json](./9269-dungeon-siege-ii.json) |
 | Dungeon Siege III: Limited Edition | 44551 | [44551-dungeon-siege-iii-limited-edition.json](./44551-dungeon-siege-iii-limited-edition.json) |
 | Dungeon Siege III: Treasures of the Sun | 10254 | [10254-dungeon-siege-iii-treasures-of-the-sun.json](./10254-dungeon-siege-iii-treasures-of-the-sun.json) |
 | Dungeon Slave | 240814 | [240814-dungeon-slave.json](./240814-dungeon-slave.json) |
