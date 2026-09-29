@@ -616,7 +616,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Armageddon - Da Orks | 33186 | [33186-warhammer-40-000-armageddon-da-orks.json](./33186-warhammer-40-000-armageddon-da-orks.json) |
 | Warhammer 40,000: Armageddon - Glory of Macragge | 53890 | [53890-warhammer-40-000-armageddon-glory-of-macragge.json](./53890-warhammer-40-000-armageddon-glory-of-macragge.json) |
 | Warhammer 40,000: Armageddon - Golgotha | 53891 | [53891-warhammer-40-000-armageddon-golgotha.json](./53891-warhammer-40-000-armageddon-golgotha.json) |
+| Warhammer 40,000: Armageddon - Imperium Complete | 53892 | [53892-warhammer-40-000-armageddon-imperium-complete.json](./53892-warhammer-40-000-armageddon-imperium-complete.json) |
 | Warhammer 40,000: Armageddon - Ork Hunters | 53888 | [53888-warhammer-40-000-armageddon-ork-hunters.json](./53888-warhammer-40-000-armageddon-ork-hunters.json) |
+| Warhammer 40,000: Armageddon - Vulkan's Wrath | 53893 | [53893-warhammer-40-000-armageddon-vulkans-wrath.json](./53893-warhammer-40-000-armageddon-vulkans-wrath.json) |
 | Warhammer 40,000: Assault Dice | 175183 | [175183-warhammer-40-000-assault-dice.json](./175183-warhammer-40-000-assault-dice.json) |
 | Warhammer 40,000: Battlesector - Necrons | 251007 | [251007-warhammer-40-000-battlesector-necrons.json](./251007-warhammer-40-000-battlesector-necrons.json) |
 | Warhammer 40,000: Battlesector - Orks | 250908 | [250908-warhammer-40-000-battlesector-orks.json](./250908-warhammer-40-000-battlesector-orks.json) |
@@ -632,11 +634,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Darktide - Skitarii | 402515 | [402515-warhammer-40-000-darktide-skitarii.json](./402515-warhammer-40-000-darktide-skitarii.json) |
 | Warhammer 40,000: Darktide - The Traitor Curse Part 1 | 276771 | [276771-warhammer-40-000-darktide-the-traitor-curse-part-1.json](./276771-warhammer-40-000-darktide-the-traitor-curse-part-1.json) |
 | Warhammer 40,000: Dawn of War | 257 | [257-warhammer-40-000-dawn-of-war.json](./257-warhammer-40-000-dawn-of-war.json) |
+| Warhammer 40,000: Dawn of War - Master Collection | 53894 | [53894-warhammer-40-000-dawn-of-war-master-collection.json](./53894-warhammer-40-000-dawn-of-war-master-collection.json) |
+| Warhammer 40,000: Dawn of War Franchise Collection | 53896 | [53896-warhammer-40-000-dawn-of-war-franchise-collection.json](./53896-warhammer-40-000-dawn-of-war-franchise-collection.json) |
+| Warhammer 40,000: Dawn of War II - Grand Master Collection | 53897 | [53897-warhammer-40-000-dawn-of-war-ii-grand-master-collection.json](./53897-warhammer-40-000-dawn-of-war-ii-grand-master-collection.json) |
+| Warhammer 40,000: Dawn of War II - Master Collection | 53899 | [53899-warhammer-40-000-dawn-of-war-ii-master-collection.json](./53899-warhammer-40-000-dawn-of-war-ii-master-collection.json) |
 | Warhammer 40,000: Dawn of War II - Retribution Chaos Space Marines Race Pack | 163389 | [163389-warhammer-40-000-dawn-of-war-ii-retribution-chaos-space-marines-race-pack.json](./163389-warhammer-40-000-dawn-of-war-ii-retribution-chaos-space-marines-race-pack.json) |
 | Warhammer 40,000: Dawn of War II - Retribution Eldar Race Pack | 163391 | [163391-warhammer-40-000-dawn-of-war-ii-retribution-eldar-race-pack.json](./163391-warhammer-40-000-dawn-of-war-ii-retribution-eldar-race-pack.json) |
 | Warhammer 40,000: Dawn of War II - Retribution Imperial Guard Race Pack | 163393 | [163393-warhammer-40-000-dawn-of-war-ii-retribution-imperial-guard-race-pack.json](./163393-warhammer-40-000-dawn-of-war-ii-retribution-imperial-guard-race-pack.json) |
 | Warhammer 40,000: Dawn of War II - Retribution Ork Race Pack | 163392 | [163392-warhammer-40-000-dawn-of-war-ii-retribution-ork-race-pack.json](./163392-warhammer-40-000-dawn-of-war-ii-retribution-ork-race-pack.json) |
 | Warhammer 40,000: Dawn of War II - Retribution Space Marines Race Pack | 163394 | [163394-warhammer-40-000-dawn-of-war-ii-retribution-space-marines-race-pack.json](./163394-warhammer-40-000-dawn-of-war-ii-retribution-space-marines-race-pack.json) |
+| Warhammer 40,000: Dawn of War II - Retribution: Complete DLC Collection | 53898 | [53898-warhammer-40-000-dawn-of-war-ii-retribution-complete-dlc-collection.json](./53898-warhammer-40-000-dawn-of-war-ii-retribution-complete-dlc-collection.json) |
 | Warhammer 40,000: Dawn of War II - Retribution: The Last Stand Necron Overlord | 163383 | [163383-warhammer-40-000-dawn-of-war-ii-retribution-the-last-stand-necron-overlord.json](./163383-warhammer-40-000-dawn-of-war-ii-retribution-the-last-stand-necron-overlord.json) |
 | Warhammer 40,000: Dawn of War II - Retribution: The Last Stand Tau Commander | 163388 | [163388-warhammer-40-000-dawn-of-war-ii-retribution-the-last-stand-tau-commander.json](./163388-warhammer-40-000-dawn-of-war-ii-retribution-the-last-stand-tau-commander.json) |
 | Warhammer 40,000: Dawn of War II - Retribution: The Last Standalone | 77255 | [77255-warhammer-40-000-dawn-of-war-ii-retribution-the-last-standalone.json](./77255-warhammer-40-000-dawn-of-war-ii-retribution-the-last-standalone.json) |
@@ -644,6 +651,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Dawn of War III - Limited Edition | 27769 | [27769-warhammer-40-000-dawn-of-war-iii-limited-edition.json](./27769-warhammer-40-000-dawn-of-war-iii-limited-edition.json) |
 | Warhammer 40,000: Deathwatch - Enhanced Edition | 34636 | [34636-warhammer-40-000-deathwatch-enhanced-edition.json](./34636-warhammer-40-000-deathwatch-enhanced-edition.json) |
 | Warhammer 40,000: Eternal Crusade - Belial War Pack | 225868 | [225868-warhammer-40-000-eternal-crusade-belial-war-pack.json](./225868-warhammer-40-000-eternal-crusade-belial-war-pack.json) |
+| Warhammer 40,000: Eternal Crusade - Imperium Edition | 53902 | [53902-warhammer-40-000-eternal-crusade-imperium-edition.json](./53902-warhammer-40-000-eternal-crusade-imperium-edition.json) |
+| Warhammer 40,000: Eternal Crusade - Squadron Edition | 53901 | [53901-warhammer-40-000-eternal-crusade-squadron-edition.json](./53901-warhammer-40-000-eternal-crusade-squadron-edition.json) |
 | Warhammer 40,000: Fire Warrior | 9550 | [9550-warhammer-40-000-fire-warrior.json](./9550-warhammer-40-000-fire-warrior.json) |
 | Warhammer 40,000: Freeblade | 34420 | [34420-warhammer-40-000-freeblade.json](./34420-warhammer-40-000-freeblade.json) |
 | Warhammer 40,000: Gladius - Relics of War: Adepta Sororitas | 230812 | [230812-warhammer-40-000-gladius-relics-of-war-adepta-sororitas.json](./230812-warhammer-40-000-gladius-relics-of-war-adepta-sororitas.json) |
@@ -659,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Mechanicus | 88461 | [88461-warhammer-40-000-mechanicus.json](./88461-warhammer-40-000-mechanicus.json) |
 | Warhammer 40,000: Mechanicus II | 302176 | [302176-warhammer-40-000-mechanicus-ii.json](./302176-warhammer-40-000-mechanicus-ii.json) |
 | Warhammer 40,000: Regicide | 11450 | [11450-warhammer-40-000-regicide.json](./11450-warhammer-40-000-regicide.json) |
+| Warhammer 40,000: Regicide - Deluxe Edition | 53903 | [53903-warhammer-40-000-regicide-deluxe-edition.json](./53903-warhammer-40-000-regicide-deluxe-edition.json) |
 | Warhammer 40,000: Rogue Trader - Void Shadows | 302168 | [302168-warhammer-40-000-rogue-trader-void-shadows.json](./302168-warhammer-40-000-rogue-trader-void-shadows.json) |
 | Warhammer 40,000: Rogue Trader - Voidfarer Pack | 280170 | [280170-warhammer-40-000-rogue-trader-voidfarer-pack.json](./280170-warhammer-40-000-rogue-trader-voidfarer-pack.json) |
 | Warhammer 40,000: Sanctus Reach | 26705 | [26705-warhammer-40-000-sanctus-reach.json](./26705-warhammer-40-000-sanctus-reach.json) |
@@ -667,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Sanctus Reach - Sons of Cadia | 111744 | [111744-warhammer-40-000-sanctus-reach-sons-of-cadia.json](./111744-warhammer-40-000-sanctus-reach-sons-of-cadia.json) |
 | Warhammer 40,000: Space Marine - Chaos Unleashed Map Pack | 163390 | [163390-warhammer-40-000-space-marine-chaos-unleashed-map-pack.json](./163390-warhammer-40-000-space-marine-chaos-unleashed-map-pack.json) |
 | Warhammer 40,000: Space Marine - Death Guard Champion Chapter Pack DLC | 225870 | [225870-warhammer-40-000-space-marine-death-guard-champion-chapter-pack-dlc.json](./225870-warhammer-40-000-space-marine-death-guard-champion-chapter-pack-dlc.json) |
+| Warhammer 40,000: Space Marine - Dreadnought | 53905 | [53905-warhammer-40-000-space-marine-dreadnought.json](./53905-warhammer-40-000-space-marine-dreadnought.json) |
 | Warhammer 40,000: Space Marine - Emperor’s Elite Pack | 225872 | [225872-warhammer-40-000-space-marine-emperor-s-elite-pack.json](./225872-warhammer-40-000-space-marine-emperor-s-elite-pack.json) |
 | Warhammer 40,000: Space Marine - Iron Hands Chapter Pack | 225871 | [225871-warhammer-40-000-space-marine-iron-hands-chapter-pack.json](./225871-warhammer-40-000-space-marine-iron-hands-chapter-pack.json) |
 | Warhammer 40,000: Space Marine - Master Crafted Edition | 344681 | [344681-warhammer-40-000-space-marine-master-crafted-edition.json](./344681-warhammer-40-000-space-marine-master-crafted-edition.json) |
@@ -674,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Space Marine - Ultimate Edition | 99970 | [99970-warhammer-40-000-space-marine-ultimate-edition.json](./99970-warhammer-40-000-space-marine-ultimate-edition.json) |
 | Warhammer 40,000: Space Marine 2 - 1-Year Anniversary Edition | 382901 | [382901-warhammer-40-000-space-marine-2-1-year-anniversary-edition.json](./382901-warhammer-40-000-space-marine-2-1-year-anniversary-edition.json) |
 | Warhammer 40,000: Space Marine 2 - 2-Year Anniversary Edition | 382902 | [382902-warhammer-40-000-space-marine-2-2-year-anniversary-edition.json](./382902-warhammer-40-000-space-marine-2-2-year-anniversary-edition.json) |
+| Warhammer 40,000: Space Marine Collection | 53904 | [53904-warhammer-40-000-space-marine-collection.json](./53904-warhammer-40-000-space-marine-collection.json) |
 | Warhammer 40,000: Space Marine II - Collector's Edition | 230829 | [230829-warhammer-40-000-space-marine-ii-collectors-edition.json](./230829-warhammer-40-000-space-marine-ii-collectors-edition.json) |
 | Warhammer 40,000: Space Marine II - Purgation Update | 402513 | [402513-warhammer-40-000-space-marine-ii-purgation-update.json](./402513-warhammer-40-000-space-marine-ii-purgation-update.json) |
 | Warhammer 40,000: Space Marine II - Space Wolves Chapter Pack | 370094 | [370094-warhammer-40-000-space-marine-ii-space-wolves-chapter-pack.json](./370094-warhammer-40-000-space-marine-ii-space-wolves-chapter-pack.json) |
@@ -695,9 +707,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer Age of Sigmar: Realms of Ruin - The Yndrasta, Celestial Spear Pack | 279094 | [279094-warhammer-age-of-sigmar-realms-of-ruin-the-yndrasta-celestial-spear-pack.json](./279094-warhammer-age-of-sigmar-realms-of-ruin-the-yndrasta-celestial-spear-pack.json) |
 | Warhammer Age of Sigmar: Soul Arena | 148984 | [148984-warhammer-age-of-sigmar-soul-arena.json](./148984-warhammer-age-of-sigmar-soul-arena.json) |
 | Warhammer Blood Bowl | 394515 | [394515-warhammer-blood-bowl.json](./394515-warhammer-blood-bowl.json) |
+| Warhammer Quest Deluxe | 53906 | [53906-warhammer-quest-deluxe.json](./53906-warhammer-quest-deluxe.json) |
 | Warhammer Quest: Silver Tower | 151194 | [151194-warhammer-quest-silver-tower.json](./151194-warhammer-quest-silver-tower.json) |
 | Warhammer Survivors | 376145 | [376145-warhammer-survivors.json](./376145-warhammer-survivors.json) |
 | Warhammer Underworlds: Online - Warband: Mollog's Mob | 196057 | [196057-warhammer-underworlds-online-warband-mollogs-mob.json](./196057-warhammer-underworlds-online-warband-mollogs-mob.json) |
+| Warhammer: Arcane Magic Deluxe | 53907 | [53907-warhammer-arcane-magic-deluxe.json](./53907-warhammer-arcane-magic-deluxe.json) |
 | Warhammer: Battle for Atluma | 28882 | [28882-warhammer-battle-for-atluma.json](./28882-warhammer-battle-for-atluma.json) |
 | Warhammer: Battle March | 20786 | [20786-warhammer-battle-march.json](./20786-warhammer-battle-march.json) |
 | Warhammer: Chaosbane - Deluxe Edition | 115064 | [115064-warhammer-chaosbane-deluxe-edition.json](./115064-warhammer-chaosbane-deluxe-edition.json) |
@@ -749,10 +763,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlike | 151151 | [151151-warlike.json](./151151-warlike.json) |
 | Warlings 2: Total Armageddon | 280185 | [280185-warlings-2-total-armageddon.json](./280185-warlings-2-total-armageddon.json) |
 | Warlock | 19773 | [19773-warlock.json](./19773-warlock.json) |
+| Warlock II: Great Mage Edition | 53910 | [53910-warlock-ii-great-mage-edition.json](./53910-warlock-ii-great-mage-edition.json) |
 | Warlock Quest II | 75228 | [75228-warlock-quest-ii.json](./75228-warlock-quest-ii.json) |
 | Warlock Survivors | 244215 | [244215-warlock-survivors.json](./244215-warlock-survivors.json) |
 | Warlock The Bounty Hunter | 262296 | [262296-warlock-the-bounty-hunter.json](./262296-warlock-the-bounty-hunter.json) |
 | Warlock: Master of the Arcane | 2072 | [2072-warlock-master-of-the-arcane.json](./2072-warlock-master-of-the-arcane.json) |
+| Warlock: Master of the Arcane - Complete Edition | 53909 | [53909-warlock-master-of-the-arcane-complete-edition.json](./53909-warlock-master-of-the-arcane-complete-edition.json) |
 | Warlock's Quest | 57697 | [57697-warlocks-quest.json](./57697-warlocks-quest.json) |
 | Warlocked | 49874 | [49874-warlocked.json](./49874-warlocked.json) |
 | Warlocks | 37096 | [37096-warlocks.json](./37096-warlocks.json) |
@@ -897,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars Across the World: Cortenuova 1237 | 193188 | [193188-wars-across-the-world-cortenuova-1237.json](./193188-wars-across-the-world-cortenuova-1237.json) |
 | Wars Across the World: Curupayti 1866 | 203922 | [203922-wars-across-the-world-curupayti-1866.json](./203922-wars-across-the-world-curupayti-1866.json) |
 | Wars Across the World: Dublin 1916 | 193189 | [193189-wars-across-the-world-dublin-1916.json](./193189-wars-across-the-world-dublin-1916.json) |
+| Wars Across the World: Expanded Collection | 53922 | [53922-wars-across-the-world-expanded-collection.json](./53922-wars-across-the-world-expanded-collection.json) |
 | Wars Across the World: Manchuria 1945 | 193191 | [193191-wars-across-the-world-manchuria-1945.json](./193191-wars-across-the-world-manchuria-1945.json) |
 | Wars Across The World: Namibia 1915 | 292644 | [292644-wars-across-the-world-namibia-1915.json](./292644-wars-across-the-world-namibia-1915.json) |
 | Wars Across the World: Sepoy 1857 | 212228 | [212228-wars-across-the-world-sepoy-1857.json](./212228-wars-across-the-world-sepoy-1857.json) |
@@ -1202,6 +1219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WCW: World Championship Wrestling | 48095 | [48095-wcw-world-championship-wrestling.json](./48095-wcw-world-championship-wrestling.json) |
 | WCW/nWo Grudge Match: Scott vs. Rick Steiner | 217985 | [217985-wcw-nwo-grudge-match-scott-vs-rick-steiner.json](./217985-wcw-nwo-grudge-match-scott-vs-rick-steiner.json) |
 | We Are All but Bones and Dust | 165049 | [165049-we-are-all-but-bones-and-dust.json](./165049-we-are-all-but-bones-and-dust.json) |
+| We Are All Individuals | 53921 | [53921-we-are-all-individuals.json](./53921-we-are-all-individuals.json) |
 | We are Blob | 338388 | [338388-we-are-blob.json](./338388-we-are-blob.json) |
 | We are Broken | 146090 | [146090-we-are-broken.json](./146090-we-are-broken.json) |
 | We Are Counting | 386108 | [386108-we-are-counting.json](./386108-we-are-counting.json) |
@@ -1301,8 +1319,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weather Dominance | 253452 | [253452-weather-dominance.json](./253452-weather-dominance.json) |
 | Weather Lord: Following the Princess | 96770 | [96770-weather-lord-following-the-princess.json](./96770-weather-lord-following-the-princess.json) |
 | Weather Lord: Following the Princess - Collector's Edition | 33164 | [33164-weather-lord-following-the-princess-collectors-edition.json](./33164-weather-lord-following-the-princess-collectors-edition.json) |
+| Weather Lord: Graduation | 53920 | [53920-weather-lord-graduation.json](./53920-weather-lord-graduation.json) |
+| Weather Lord: Graduation - Collector's Edition | 53919 | [53919-weather-lord-graduation-collectors-edition.json](./53919-weather-lord-graduation-collectors-edition.json) |
 | Weather Lord: Hidden Realm | 46872 | [46872-weather-lord-hidden-realm.json](./46872-weather-lord-hidden-realm.json) |
 | Weather Lord: In Search of the Shaman | 46873 | [46873-weather-lord-in-search-of-the-shaman.json](./46873-weather-lord-in-search-of-the-shaman.json) |
+| Weather Lord: Legendary Hero | 53918 | [53918-weather-lord-legendary-hero.json](./53918-weather-lord-legendary-hero.json) |
+| Weather Lord: Royal Holidays | 53917 | [53917-weather-lord-royal-holidays.json](./53917-weather-lord-royal-holidays.json) |
 | Weather Report | 362919 | [362919-weather-report.json](./362919-weather-report.json) |
 | Weathered | 62827 | [62827-weathered.json](./62827-weathered.json) |
 | Weatherworn: The Adventure of Pap & Pup | 157526 | [157526-weatherworn-the-adventure-of-pap-and-pup.json](./157526-weatherworn-the-adventure-of-pap-and-pup.json) |
@@ -1524,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West of Dead: Path of the Crow Edition | 154954 | [154954-west-of-dead-path-of-the-crow-edition.json](./154954-west-of-dead-path-of-the-crow-edition.json) |
 | West of the Witchlands | 272882 | [272882-west-of-the-witchlands.json](./272882-west-of-the-witchlands.json) |
 | West Ride | 256334 | [256334-west-ride.json](./256334-west-ride.json) |
+| West Somerset Railway Route | 53916 | [53916-west-somerset-railway-route.json](./53916-west-somerset-railway-route.json) |
 | West Sweety | 127019 | [127019-west-sweety.json](./127019-west-sweety.json) |
 | West Town Defense | 287701 | [287701-west-town-defense.json](./287701-west-town-defense.json) |
 | West Water | 196822 | [196822-west-water.json](./196822-west-water.json) |
@@ -1970,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispering Hills | 322952 | [322952-whispering-hills.json](./322952-whispering-hills.json) |
 | Whispering Stacks | 348429 | [348429-whispering-stacks.json](./348429-whispering-stacks.json) |
 | Whispering Willows | 9369 | [9369-whispering-willows.json](./9369-whispering-willows.json) |
+| Whispering Willows: Deluxe Edition | 53915 | [53915-whispering-willows-deluxe-edition.json](./53915-whispering-willows-deluxe-edition.json) |
 | Whispers | 25335 | [25335-whispers.json](./25335-whispers.json) |
 | Whispers | 299154 | [299154-whispers.json](./299154-whispers.json) |
 | Whispers From the Rift | 123479 | [123479-whispers-from-the-rift.json](./123479-whispers-from-the-rift.json) |
@@ -2335,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Park | 17591 | [17591-wildlife-park.json](./17591-wildlife-park.json) |
 | Wildlife Park 2 | 17491 | [17491-wildlife-park-2.json](./17491-wildlife-park-2.json) |
 | Wildlife Park 2: Kitz (fawn) | 163274 | [163274-wildlife-park-2-kitz-fawn.json](./163274-wildlife-park-2-kitz-fawn.json) |
+| Wildlife Park 2: Ultimate Edition | 53913 | [53913-wildlife-park-2-ultimate-edition.json](./53913-wildlife-park-2-ultimate-edition.json) |
 | Wildlife Park 3 | 17177 | [17177-wildlife-park-3.json](./17177-wildlife-park-3.json) |
 | Wildlife Park 3: Alaska | 156153 | [156153-wildlife-park-3-alaska.json](./156153-wildlife-park-3-alaska.json) |
 | Wildlife Park 3: Dino Invasion | 171071 | [171071-wildlife-park-3-dino-invasion.json](./171071-wildlife-park-3-dino-invasion.json) |
