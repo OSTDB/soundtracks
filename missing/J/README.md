@@ -1577,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Taitei | 353329 | [353329-jungle-taitei.json](./353329-jungle-taitei.json) |
 | Jungle Town: Birthday quest | 170498 | [170498-jungle-town-birthday-quest.json](./170498-jungle-town-birthday-quest.json) |
 | Jungle Trouble | 47207 | [47207-jungle-trouble.json](./47207-jungle-trouble.json) |
+| Jungle Warfare | 13009 | [13009-jungle-warfare.json](./13009-jungle-warfare.json) |
 | Jungle Wars | 138828 | [138828-jungle-wars.json](./138828-jungle-wars.json) |
 | Jungle Wars 2: Kodai Mahou Atimos no Nazo | 37972 | [37972-jungle-wars-2-kodai-mahou-atimos-no-nazo.json](./37972-jungle-wars-2-kodai-mahou-atimos-no-nazo.json) |
 | JungleBoys | 364718 | [364718-jungleboys.json](./364718-jungleboys.json) |
