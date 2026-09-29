@@ -2639,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resonance of Fate | 7159 | [7159-resonance-of-fate.json](./7159-resonance-of-fate.json) |
 | Resonance of Fate 4k/HD Edition | 109580 | [109580-resonance-of-fate-4k-hd-edition.json](./109580-resonance-of-fate-4k-hd-edition.json) |
 | Resonance of Fate 4K/HD Edition: Collector's Edition | 167150 | [167150-resonance-of-fate-4k-hd-edition-collectors-edition.json](./167150-resonance-of-fate-4k-hd-edition-collectors-edition.json) |
+| Resonance of the Ocean | 207796 | [207796-resonance-of-the-ocean.json](./207796-resonance-of-the-ocean.json) |
 | Resonance: The Lost Score | 150064 | [150064-resonance-the-lost-score.json](./150064-resonance-the-lost-score.json) |
 | Resonant Tale | 266481 | [266481-resonant-tale.json](./266481-resonant-tale.json) |
 | Resonark X | 141900 | [141900-resonark-x.json](./141900-resonark-x.json) |
@@ -3737,6 +3738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Noracam | 151649 | [151649-rising-noracam.json](./151649-rising-noracam.json) |
 | Rising Snake | 123567 | [123567-rising-snake.json](./123567-rising-snake.json) |
 | Rising Spire | 152795 | [152795-rising-spire.json](./152795-rising-spire.json) |
+| Rising Star | 187043 | [187043-rising-star.json](./187043-rising-star.json) |
 | Rising Star: The Horse Game | 220707 | [220707-rising-star-the-horse-game.json](./220707-rising-star-the-horse-game.json) |
 | Rising Storm 2: Vietnam | 18166 | [18166-rising-storm-2-vietnam.json](./18166-rising-storm-2-vietnam.json) |
 | Rising Sun | 850 | [850-rising-sun.json](./850-rising-sun.json) |
