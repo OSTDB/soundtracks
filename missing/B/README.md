@@ -1231,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barnstormers: Determined to Win | 241304 | [241304-barnstormers-determined-to-win.json](./241304-barnstormers-determined-to-win.json) |
 | Barnyard Blaster Lite | 100327 | [100327-barnyard-blaster-lite.json](./100327-barnyard-blaster-lite.json) |
 | Barnyard Games For Kids | 96737 | [96737-barnyard-games-for-kids.json](./96737-barnyard-games-for-kids.json) |
+| Barnyard Mahjong 3 | 32156 | [32156-barnyard-mahjong-3.json](./32156-barnyard-mahjong-3.json) |
 | Baro Kart | 259009 | [259009-baro-kart.json](./259009-baro-kart.json) |
 | Barold | 220135 | [220135-barold.json](./220135-barold.json) |
 | BaroMaro | 304689 | [304689-baromaro.json](./304689-baromaro.json) |
@@ -6988,6 +6989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brookwood: Pocket Tactics | 329696 | [329696-brookwood-pocket-tactics.json](./329696-brookwood-pocket-tactics.json) |
 | Broom Broom | 387655 | [387655-broom-broom.json](./387655-broom-broom.json) |
 | Broom Racer | 405525 | [405525-broom-racer.json](./405525-broom-racer.json) |
+| Broomball | 32147 | [32147-broomball.json](./32147-broomball.json) |
 | Broombot Battlegrounds | 235174 | [235174-broombot-battlegrounds.json](./235174-broombot-battlegrounds.json) |
 | BroomSweeper | 345662 | [345662-broomsweeper.json](./345662-broomsweeper.json) |
 | Bros | 198391 | [198391-bros.json](./198391-bros.json) |
