@@ -3448,6 +3448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binary Run | 203906 | [203906-binary-run.json](./203906-binary-run.json) |
 | Binary Rush | 250388 | [250388-binary-rush.json](./250388-binary-rush.json) |
 | Binary Stack | 57741 | [57741-binary-stack.json](./57741-binary-stack.json) |
+| Binary Trigger | 30080 | [30080-binary-trigger.json](./30080-binary-trigger.json) |
 | Binary. | 206173 | [206173-binary.json](./206173-binary.json) |
 | BinaryGrab | 130724 | [130724-binarygrab.json](./130724-binarygrab.json) |
 | Binaural Odyssey | 153365 | [153365-binaural-odyssey.json](./153365-binaural-odyssey.json) |
@@ -3692,6 +3693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birthdays the Beginning: Digital Limited Edition | 52628 | [52628-birthdays-the-beginning-digital-limited-edition.json](./52628-birthdays-the-beginning-digital-limited-edition.json) |
 | Birthright | 156029 | [156029-birthright.json](./156029-birthright.json) |
 | Birthright Cataclysm: Overture | 171595 | [171595-birthright-cataclysm-overture.json](./171595-birthright-cataclysm-overture.json) |
+| Birthseederia | 30098 | [30098-birthseederia.json](./30098-birthseederia.json) |
 | Birushana: Winds of Fate | 401103 | [401103-birushana-winds-of-fate.json](./401103-birushana-winds-of-fate.json) |
 | Birushana: Winds of Fate - Deluxe Edition | 401109 | [401109-birushana-winds-of-fate-deluxe-edition.json](./401109-birushana-winds-of-fate-deluxe-edition.json) |
 | Biscuit Mafia | 364537 | [364537-biscuit-mafia.json](./364537-biscuit-mafia.json) |
@@ -3792,6 +3794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitcoin VS Brain | 89961 | [89961-bitcoin-vs-brain.json](./89961-bitcoin-vs-brain.json) |
 | BitColony | 351263 | [351263-bitcolony.json](./351263-bitcolony.json) |
 | BitColor | 184116 | [184116-bitcolor.json](./184116-bitcolor.json) |
+| Bitdude | 30049 | [30049-bitdude.json](./30049-bitdude.json) |
 | Bite at the Museum | 146727 | [146727-bite-at-the-museum.json](./146727-bite-at-the-museum.json) |
 | Bite Me | 128623 | [128623-bite-me.json](./128623-bite-me.json) |
 | Bite Nite | 215023 | [215023-bite-nite.json](./215023-bite-nite.json) |
@@ -5293,6 +5296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BobsleighX | 265718 | [265718-bobsleighx.json](./265718-bobsleighx.json) |
 | BobSP Series | 272000 | [272000-bobsp-series.json](./272000-bobsp-series.json) |
 | BOC | 127030 | [127030-boc.json](./127030-boc.json) |
+| Bocce Beach | 30067 | [30067-bocce-beach.json](./30067-bocce-beach.json) |
 | Bocce Time! | 201570 | [201570-bocce-time.json](./201570-bocce-time.json) |
 | Bocce VR | 119786 | [119786-bocce-vr.json](./119786-bocce-vr.json) |
 | Bocchi Kaihi | 227260 | [227260-bocchi-kaihi.json](./227260-bocchi-kaihi.json) |
@@ -7643,6 +7647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny's Pizza Tycoon | 265394 | [265394-bunnys-pizza-tycoon.json](./265394-bunnys-pizza-tycoon.json) |
 | BunnyFlow | 390514 | [390514-bunnyflow.json](./390514-bunnyflow.json) |
 | BunnyOps | 378417 | [378417-bunnyops.json](./378417-bunnyops.json) |
+| Bunnyrama | 30136 | [30136-bunnyrama.json](./30136-bunnyrama.json) |
 | BunnyShot | 157514 | [157514-bunnyshot.json](./157514-bunnyshot.json) |
 | Bunnysitting | 246658 | [246658-bunnysitting.json](./246658-bunnysitting.json) |
 | Buns: Bunny Survivor | 215039 | [215039-buns-bunny-survivor.json](./215039-buns-bunny-survivor.json) |
