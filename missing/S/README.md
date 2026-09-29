@@ -4545,6 +4545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidewalk Simulator | 324294 | [324294-sidewalk-simulator.json](./324294-sidewalk-simulator.json) |
 | Sideway New York | 16273 | [16273-sideway-new-york.json](./16273-sideway-new-york.json) |
 | Sidewinder | 159249 | [159249-sidewinder.json](./159249-sidewinder.json) |
+| Sidewinder | 22558 | [22558-sidewinder.json](./22558-sidewinder.json) |
 | SideWinder | 12850 | [12850-sidewinder.json](./12850-sidewinder.json) |
 | Sidewinder 2 | 66656 | [66656-sidewinder-2.json](./66656-sidewinder-2.json) |
 | Sidewinder Max | 322940 | [322940-sidewinder-max.json](./322940-sidewinder-max.json) |
@@ -4569,6 +4570,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sierra Ops: Episode 4 - Cadence of the Morning Star | 128395 | [128395-sierra-ops-episode-4-cadence-of-the-morning-star.json](./128395-sierra-ops-episode-4-cadence-of-the-morning-star.json) |
 | Sierra Pro Pilot 98: The Complete Flight Simulator | 62276 | [62276-sierra-pro-pilot-98-the-complete-flight-simulator.json](./62276-sierra-pro-pilot-98-the-complete-flight-simulator.json) |
 | Sierra Ridge Technologies | 349315 | [349315-sierra-ridge-technologies.json](./349315-sierra-ridge-technologies.json) |
+| Sierra Sports NFL Football Pro '99 | 22608 | [22608-sierra-sports-nfl-football-pro-99.json](./22608-sierra-sports-nfl-football-pro-99.json) |
+| Sierra Sports NFL Football Pro 2000 | 22609 | [22609-sierra-sports-nfl-football-pro-2000.json](./22609-sierra-sports-nfl-football-pro-2000.json) |
 | Sierra's 3-D Helicopter Simulator | 72087 | [72087-sierras-3-d-helicopter-simulator.json](./72087-sierras-3-d-helicopter-simulator.json) |
 | Sif and the Labyrinth | 190474 | [190474-sif-and-the-labyrinth.json](./190474-sif-and-the-labyrinth.json) |
 | Sifera | 298147 | [298147-sifera.json](./298147-sifera.json) |
@@ -11066,8 +11069,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Force Unleashed - Tatooine Mission Pack | 17475 | [17475-star-wars-the-force-unleashed-tatooine-mission-pack.json](./17475-star-wars-the-force-unleashed-tatooine-mission-pack.json) |
 | Star Wars: The Force Unleashed II - Collector's Edition | 47460 | [47460-star-wars-the-force-unleashed-ii-collectors-edition.json](./47460-star-wars-the-force-unleashed-ii-collectors-edition.json) |
 | Star Wars: The Old Republic | 114 | [114-star-wars-the-old-republic.json](./114-star-wars-the-old-republic.json) |
+| Star Wars: The Old Republic - Galactic Starfighter | 22656 | [22656-star-wars-the-old-republic-galactic-starfighter.json](./22656-star-wars-the-old-republic-galactic-starfighter.json) |
+| Star Wars: The Old Republic - Galactic Strongholds | 22657 | [22657-star-wars-the-old-republic-galactic-strongholds.json](./22657-star-wars-the-old-republic-galactic-strongholds.json) |
+| Star Wars: The Old Republic - Knights of the Eternal Throne | 22659 | [22659-star-wars-the-old-republic-knights-of-the-eternal-throne.json](./22659-star-wars-the-old-republic-knights-of-the-eternal-throne.json) |
 | Star Wars: The Old Republic - Knights of the Fallen Empire | 11178 | [11178-star-wars-the-old-republic-knights-of-the-fallen-empire.json](./11178-star-wars-the-old-republic-knights-of-the-fallen-empire.json) |
 | Star Wars: The Old Republic - Legacy of the Sith | 202780 | [202780-star-wars-the-old-republic-legacy-of-the-sith.json](./202780-star-wars-the-old-republic-legacy-of-the-sith.json) |
+| Star Wars: The Old Republic - Shadow of Revan | 22658 | [22658-star-wars-the-old-republic-shadow-of-revan.json](./22658-star-wars-the-old-republic-shadow-of-revan.json) |
 | Star Wars: The Return of the Jedi | 219022 | [219022-star-wars-the-return-of-the-jedi.json](./219022-star-wars-the-return-of-the-jedi.json) |
 | Star Wars: Throwback Pack | 99756 | [99756-star-wars-throwback-pack.json](./99756-star-wars-throwback-pack.json) |
 | Star Wars: TIE Fighter - Defender of the Empire | 167 | [167-star-wars-tie-fighter-defender-of-the-empire.json](./167-star-wars-tie-fighter-defender-of-the-empire.json) |
@@ -12714,6 +12721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striker | 237504 | [237504-striker.json](./237504-striker.json) |
 | Striker of Sky | 238498 | [238498-striker-of-sky.json](./238498-striker-of-sky.json) |
 | Striker Pro | 237509 | [237509-striker-pro.json](./237509-striker-pro.json) |
+| Striker Pro 2000 | 22676 | [22676-striker-pro-2000.json](./22676-striker-pro-2000.json) |
 | Striker Soccer Euro 2012 | 51168 | [51168-striker-soccer-euro-2012.json](./51168-striker-soccer-euro-2012.json) |
 | Strikers | 219577 | [219577-strikers.json](./219577-strikers.json) |
 | Strikers 1945 | 39300 | [39300-strikers-1945.json](./39300-strikers-1945.json) |
@@ -12918,6 +12926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Stalker | 93053 | [93053-sub-stalker.json](./93053-sub-stalker.json) |
 | Sub Terra Draconis | 57099 | [57099-sub-terra-draconis.json](./57099-sub-terra-draconis.json) |
 | Sub Terra Draconis: Hidden Glade | 382887 | [382887-sub-terra-draconis-hidden-glade.json](./382887-sub-terra-draconis-hidden-glade.json) |
+| Sub Terrania | 22680 | [22680-sub-terrania.json](./22680-sub-terrania.json) |
 | Sub Wars | 104699 | [104699-sub-wars.json](./104699-sub-wars.json) |
 | Sub0ptimal | 339653 | [339653-sub0ptimal.json](./339653-sub0ptimal.json) |
 | Subátor | 254484 | [254484-subator.json](./254484-subator.json) |
@@ -15567,6 +15576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarm Sweeper | 351604 | [351604-swarm-sweeper.json](./351604-swarm-sweeper.json) |
 | Swarm the City | 152391 | [152391-swarm-the-city.json](./152391-swarm-the-city.json) |
 | Swarm Universe | 34334 | [34334-swarm-universe.json](./34334-swarm-universe.json) |
+| Swarm! | 22559 | [22559-swarm.json](./22559-swarm.json) |
 | Swarmcade | 219558 | [219558-swarmcade.json](./219558-swarmcade.json) |
 | Swarmed: Nuts & Bolts | 219559 | [219559-swarmed-nuts-and-bolts.json](./219559-swarmed-nuts-and-bolts.json) |
 | Swarming Planet | 146099 | [146099-swarming-planet.json](./146099-swarming-planet.json) |
