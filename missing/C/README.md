@@ -1659,6 +1659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Girl Survivor | 295771 | [295771-cat-girl-survivor.json](./295771-cat-girl-survivor.json) |
 | Cat Girl Survivor: Extra Episodes and Additional Chapters | 379025 | [379025-cat-girl-survivor-extra-episodes-and-additional-chapters.json](./379025-cat-girl-survivor-extra-episodes-and-additional-chapters.json) |
 | Cat God Ranch | 296511 | [296511-cat-god-ranch.json](./296511-cat-god-ranch.json) |
+| Cat Goes Platform | 30125 | [30125-cat-goes-platform.json](./30125-cat-goes-platform.json) |
 | Cat Good Work | 309686 | [309686-cat-good-work.json](./309686-cat-good-work.json) |
 | Cat got Lost | 260670 | [260670-cat-got-lost.json](./260670-cat-got-lost.json) |
 | Cat Got Your Tongue | 360674 | [360674-cat-got-your-tongue.json](./360674-cat-got-your-tongue.json) |
@@ -3120,6 +3121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Child of Light: The Golem's Plight Pack | 170390 | [170390-child-of-light-the-golems-plight-pack.json](./170390-child-of-light-the-golems-plight-pack.json) |
 | Child of Luminescence | 350521 | [350521-child-of-luminescence.json](./350521-child-of-luminescence.json) |
 | Child of Ruin | 298876 | [298876-child-of-ruin.json](./298876-child-of-ruin.json) |
+| Child Phobia: Nightcoming Fears | 30084 | [30084-child-phobia-nightcoming-fears.json](./30084-child-phobia-nightcoming-fears.json) |
 | Child Run: City Surfers Runner | 245915 | [245915-child-run-city-surfers-runner.json](./245915-child-run-city-surfers-runner.json) |
 | Child's Mind | 84573 | [84573-childs-mind.json](./84573-childs-mind.json) |
 | Child's Play | 60007 | [60007-childs-play.json](./60007-childs-play.json) |
@@ -7270,6 +7272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Machines VR | 111042 | [111042-crazy-machines-vr.json](./111042-crazy-machines-vr.json) |
 | Crazy Machines: Golden Gears | 16865 | [16865-crazy-machines-golden-gears.json](./16865-crazy-machines-golden-gears.json) |
 | Crazy Market | 62750 | [62750-crazy-market.json](./62750-crazy-market.json) |
+| Crazy Max VR | 30078 | [30078-crazy-max-vr.json](./30078-crazy-max-vr.json) |
 | Crazy Maze | 93750 | [93750-crazy-maze.json](./93750-crazy-maze.json) |
 | Crazy Mazey | 59902 | [59902-crazy-mazey.json](./59902-crazy-mazey.json) |
 | Crazy Miner | 299841 | [299841-crazy-miner.json](./299841-crazy-miner.json) |
