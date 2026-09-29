@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Forest Project | 169784 | [169784-dark-forest-project.json](./169784-dark-forest-project.json) |
 | Dark Forester | 35760 | [35760-dark-forester.json](./35760-dark-forester.json) |
 | Dark Frontiers | 203362 | [203362-dark-frontiers.json](./203362-dark-frontiers.json) |
+| Dark Gates | 36166 | [36166-dark-gates.json](./36166-dark-gates.json) |
 | Dark Ghost RPG | 96879 | [96879-dark-ghost-rpg.json](./96879-dark-ghost-rpg.json) |
 | Dark Goddess of Destruction | 339364 | [339364-dark-goddess-of-destruction.json](./339364-dark-goddess-of-destruction.json) |
 | Dark Grid | 373014 | [373014-dark-grid.json](./373014-dark-grid.json) |
@@ -2209,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dungeon Adventure | 311984 | [311984-deep-dungeon-adventure.json](./311984-deep-dungeon-adventure.json) |
 | Deep Dungeons of Doom | 17876 | [17876-deep-dungeons-of-doom.json](./17876-deep-dungeons-of-doom.json) |
 | Deep Echo | 25762 | [25762-deep-echo.json](./25762-deep-echo.json) |
+| Deep Eclipse | 36213 | [36213-deep-eclipse.json](./36213-deep-eclipse.json) |
 | Deep Fear | 46057 | [46057-deep-fear.json](./46057-deep-fear.json) |
 | Deep Fishing | 188091 | [188091-deep-fishing.json](./188091-deep-fishing.json) |
 | Deep Freeze | 44757 | [44757-deep-freeze.json](./44757-deep-freeze.json) |
@@ -4449,6 +4451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Princess: Suteki ni Lesson! Hiragana-Katakana | 58849 | [58849-disney-princess-suteki-ni-lesson-hiragana-katakana.json](./58849-disney-princess-suteki-ni-lesson-hiragana-katakana.json) |
 | Disney Princess: The Little Mermaid - Ariel's Princess Adventures | 137563 | [137563-disney-princess-the-little-mermaid-ariels-princess-adventures.json](./137563-disney-princess-the-little-mermaid-ariels-princess-adventures.json) |
 | Disney Princess: The Princess and the Frog | 230374 | [230374-disney-princess-the-princess-and-the-frog.json](./230374-disney-princess-the-princess-and-the-frog.json) |
+| Disney Princess: The Princess and The Frog | 36227 | [36227-disney-princess-the-princess-and-the-frog.json](./36227-disney-princess-the-princess-and-the-frog.json) |
 | Disney Sing It: High School Musical 3 - Senior Year | 60243 | [60243-disney-sing-it-high-school-musical-3-senior-year.json](./60243-disney-sing-it-high-school-musical-3-senior-year.json) |
 | Disney Sorcerer's Arena | 124644 | [124644-disney-sorcerers-arena.json](./124644-disney-sorcerers-arena.json) |
 | Disney Speedstorm: Special Pack | 374697 | [374697-disney-speedstorm-special-pack.json](./374697-disney-speedstorm-special-pack.json) |
@@ -4689,6 +4692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Justice Zero | 65757 | [65757-divine-justice-zero.json](./65757-divine-justice-zero.json) |
 | Divine Miko Koyori | 122451 | [122451-divine-miko-koyori.json](./122451-divine-miko-koyori.json) |
 | Divine Orders | 333108 | [333108-divine-orders.json](./333108-divine-orders.json) |
+| Divine Souls | 36303 | [36303-divine-souls.json](./36303-divine-souls.json) |
 | Divine Souls Online | 51264 | [51264-divine-souls-online.json](./51264-divine-souls-online.json) |
 | Divine Twins | 285022 | [285022-divine-twins.json](./285022-divine-twins.json) |
 | Divine W: Perfect Wonderland | 219787 | [219787-divine-w-perfect-wonderland.json](./219787-divine-w-perfect-wonderland.json) |
@@ -4836,6 +4840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Not Crash | 252391 | [252391-do-not-crash.json](./252391-do-not-crash.json) |
 | Do not Donut. | 208474 | [208474-do-not-donut.json](./208474-do-not-donut.json) |
 | Do Not Enter | 393492 | [393492-do-not-enter.json](./393492-do-not-enter.json) |
+| Do Not Fall | 36154 | [36154-do-not-fall.json](./36154-do-not-fall.json) |
 | Do Not Feed the Monkeys | 52014 | [52014-do-not-feed-the-monkeys.json](./52014-do-not-feed-the-monkeys.json) |
 | Do Not Kill Me Jacob!! JAM Ver. | 176482 | [176482-do-not-kill-me-jacob-jam-ver.json](./176482-do-not-kill-me-jacob-jam-ver.json) |
 | Do Not Look at the Moon | 309360 | [309360-do-not-look-at-the-moon.json](./309360-do-not-look-at-the-moon.json) |
@@ -5356,6 +5361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Mess With Bober | 350603 | [350603-dont-mess-with-bober.json](./350603-dont-mess-with-bober.json) |
 | Don't Mess with Gamers | 322128 | [322128-dont-mess-with-gamers.json](./322128-dont-mess-with-gamers.json) |
 | Don't Mess With Your Ex | 414309 | [414309-dont-mess-with-your-ex.json](./414309-dont-mess-with-your-ex.json) |
+| Don't Move | 36126 | [36126-dont-move.json](./36126-dont-move.json) |
 | Don't Not Live | 259508 | [259508-dont-not-live.json](./259508-dont-not-live.json) |
 | Don't Notice Me | 105196 | [105196-dont-notice-me.json](./105196-dont-notice-me.json) |
 | Don’t Open | 398421 | [398421-don-t-open.json](./398421-don-t-open.json) |
@@ -7068,6 +7074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dredge: The Pale Reach | 270502 | [270502-dredge-the-pale-reach.json](./270502-dredge-the-pale-reach.json) |
 | Dreem Ascension | 393506 | [393506-dreem-ascension.json](./393506-dreem-ascension.json) |
 | Drehmal: Apotheosis | 336548 | [336548-drehmal-apotheosis.json](./336548-drehmal-apotheosis.json) |
+| Dreii | 36296 | [36296-dreii.json](./36296-dreii.json) |
 | Drelbs | 13841 | [13841-drelbs.json](./13841-drelbs.json) |
 | Dremica | 393655 | [393655-dremica.json](./393655-dremica.json) |
 | Dresden Files Cooperative Card Game | 68570 | [68570-dresden-files-cooperative-card-game.json](./68570-dresden-files-cooperative-card-game.json) |
@@ -7206,6 +7213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive On Lucy | 323299 | [323299-drive-on-lucy.json](./323299-drive-on-lucy.json) |
 | Drive Simulator 2016 | 90673 | [90673-drive-simulator-2016.json](./90673-drive-simulator-2016.json) |
 | Drive Thru | 365860 | [365860-drive-thru.json](./365860-drive-thru.json) |
+| Drive to Hell | 36135 | [36135-drive-to-hell.json](./36135-drive-to-hell.json) |
 | Drive to The Top | 411690 | [411690-drive-to-the-top.json](./411690-drive-to-the-top.json) |
 | Drive Together | 384799 | [384799-drive-together.json](./384799-drive-together.json) |
 | Drive West Coast | 224496 | [224496-drive-west-coast.json](./224496-drive-west-coast.json) |
