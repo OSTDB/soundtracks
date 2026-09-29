@@ -1945,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Hopper | 341652 | [341652-mars-hopper.json](./341652-mars-hopper.json) |
 | Mars Horizon | 101183 | [101183-mars-horizon.json](./101183-mars-horizon.json) |
 | Mars Miner | 69537 | [69537-mars-miner.json](./69537-mars-miner.json) |
+| Mars Mission II | 59475 | [59475-mars-mission-ii.json](./59475-mars-mission-ii.json) |
 | Mars Odyssey | 32929 | [32929-mars-odyssey.json](./32929-mars-odyssey.json) |
 | Mars or Die! | 104047 | [104047-mars-or-die.json](./104047-mars-or-die.json) |
 | Mars Power Industries Deluxe | 122168 | [122168-mars-power-industries-deluxe.json](./122168-mars-power-industries-deluxe.json) |
@@ -5371,6 +5372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner 2049er | 345478 | [345478-miner-2049er.json](./345478-miner-2049er.json) |
 | Miner 2049er | 345479 | [345479-miner-2049er.json](./345479-miner-2049er.json) |
 | Miner 2049er | 345480 | [345480-miner-2049er.json](./345480-miner-2049er.json) |
+| Miner 2049er II | 59505 | [59505-miner-2049er-ii.json](./59505-miner-2049er-ii.json) |
 | Miner Clicker | 291477 | [291477-miner-clicker.json](./291477-miner-clicker.json) |
 | Miner Escape: Puzzle Adventure | 296425 | [296425-miner-escape-puzzle-adventure.json](./296425-miner-escape-puzzle-adventure.json) |
 | Miner Man | 391215 | [391215-miner-man.json](./391215-miner-man.json) |
