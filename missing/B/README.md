@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballad of the Space Whale | 181841 | [181841-ballad-of-the-space-whale.json](./181841-ballad-of-the-space-whale.json) |
 | Ballade For Maria | 71563 | [71563-ballade-for-maria.json](./71563-ballade-for-maria.json) |
 | Ballade2: the Celestial Promise | 118414 | [118414-ballade2-the-celestial-promise.json](./118414-ballade2-the-celestial-promise.json) |
+| Ballads at Midnight | 207399 | [207399-ballads-at-midnight.json](./207399-ballads-at-midnight.json) |
 | Ballads of Hongye | 197151 | [197151-ballads-of-hongye.json](./197151-ballads-of-hongye.json) |
 | Ballance: The Return | 127371 | [127371-ballance-the-return.json](./127371-ballance-the-return.json) |
 | Ballapalooza | 275110 | [275110-ballapalooza.json](./275110-ballapalooza.json) |
@@ -3509,6 +3510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billionaire Life Simulator | 411583 | [411583-billionaire-life-simulator.json](./411583-billionaire-life-simulator.json) |
 | Billionworlds : Kingdoms | 153437 | [153437-billionworlds-kingdoms.json](./153437-billionworlds-kingdoms.json) |
 | Billo-Bricks | 291509 | [291509-billo-bricks.json](./291509-billo-bricks.json) |
+| Bills Must Be Paid | 397984 | [397984-bills-must-be-paid.json](./397984-bills-must-be-paid.json) |
 | Billund | 241499 | [241499-billund.json](./241499-billund.json) |
 | Billy | 126539 | [126539-billy.json](./126539-billy.json) |
 | Billy 101 | 192964 | [192964-billy-101.json](./192964-billy-101.json) |
@@ -6824,6 +6826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakline | 147279 | [147279-breakline.json](./147279-breakline.json) |
 | BreakLoop | 383953 | [383953-breakloop.json](./383953-breakloop.json) |
 | Breakneck | 78593 | [78593-breakneck.json](./78593-breakneck.json) |
+| Breakout 13 | 212735 | [212735-breakout-13.json](./212735-breakout-13.json) |
 | Breakout 2000 | 40816 | [40816-breakout-2000.json](./40816-breakout-2000.json) |
 | Breakout 3 | 319572 | [319572-breakout-3.json](./319572-breakout-3.json) |
 | Breakout 3000 | 73293 | [73293-breakout-3000.json](./73293-breakout-3000.json) |
