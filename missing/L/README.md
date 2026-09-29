@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Visit | 149944 | [149944-last-visit.json](./149944-last-visit.json) |
 | Last Voyage of the Aqualus | 282615 | [282615-last-voyage-of-the-aqualus.json](./282615-last-voyage-of-the-aqualus.json) |
 | Last Walpurgis | 255051 | [255051-last-walpurgis.json](./255051-last-walpurgis.json) |
+| Last War | 285070 | [285070-last-war.json](./285070-last-war.json) |
 | Last War 2044 | 89406 | [89406-last-war-2044.json](./89406-last-war-2044.json) |
 | Last Week | 123003 | [123003-last-week.json](./123003-last-week.json) |
 | Last Week of a King | 288227 | [288227-last-week-of-a-king.json](./288227-last-week-of-a-king.json) |
@@ -1652,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Bounce! Popsicle Boy! | 255021 | [255021-lets-bounce-popsicle-boy.json](./255021-lets-bounce-popsicle-boy.json) |
 | Let's Bravo Music | 326944 | [326944-lets-bravo-music.json](./326944-lets-bravo-music.json) |
 | Let's Build a Garden | 340914 | [340914-lets-build-a-garden.json](./340914-lets-build-a-garden.json) |
+| Let's Build a Zoo | 146395 | [146395-lets-build-a-zoo.json](./146395-lets-build-a-zoo.json) |
 | Let's Build a Zoo + Dinosaur Island Bundle | 208433 | [208433-lets-build-a-zoo-dinosaur-island-bundle.json](./208433-lets-build-a-zoo-dinosaur-island-bundle.json) |
 | Let’s Build a Zoo: Aquarium Odyssey | 245302 | [245302-let-s-build-a-zoo-aquarium-odyssey.json](./245302-let-s-build-a-zoo-aquarium-odyssey.json) |
 | Let's Build a Zoo: Aquarium Odyssey Bundle | 262056 | [262056-lets-build-a-zoo-aquarium-odyssey-bundle.json](./262056-lets-build-a-zoo-aquarium-odyssey-bundle.json) |
@@ -1667,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Explore the Airport | 70323 | [70323-lets-explore-the-airport.json](./70323-lets-explore-the-airport.json) |
 | Let's Fight!! Nokachan | 381117 | [381117-lets-fight-nokachan.json](./381117-lets-fight-nokachan.json) |
 | Let's Find a Way | 51496 | [51496-lets-find-a-way.json](./51496-lets-find-a-way.json) |
+| Let's Find Larry! | 279431 | [279431-lets-find-larry.json](./279431-lets-find-larry.json) |
 | Let's Fish! Hooked On | 21022 | [21022-lets-fish-hooked-on.json](./21022-lets-fish-hooked-on.json) |
 | Let's Get Bakin' | 342130 | [342130-lets-get-bakin.json](./342130-lets-get-bakin.json) |
 | Let's Get Fit | 194405 | [194405-lets-get-fit.json](./194405-lets-get-fit.json) |
@@ -2037,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is Pain | 239584 | [239584-life-is-pain.json](./239584-life-is-pain.json) |
 | Life is Strange 2: Episode 4 - Faith | 119055 | [119055-life-is-strange-2-episode-4-faith.json](./119055-life-is-strange-2-episode-4-faith.json) |
 | Life is Strange Collection | 361759 | [361759-life-is-strange-collection.json](./361759-life-is-strange-collection.json) |
+| Life is Strange Remastered Collection | 144770 | [144770-life-is-strange-remastered-collection.json](./144770-life-is-strange-remastered-collection.json) |
 | Life Is Strange: Arcadia Bay Collection | 213355 | [213355-life-is-strange-arcadia-bay-collection.json](./213355-life-is-strange-arcadia-bay-collection.json) |
 | Life is Strange: Before the Storm - Bonus Episode: Farewell | 91247 | [91247-life-is-strange-before-the-storm-bonus-episode-farewell.json](./91247-life-is-strange-before-the-storm-bonus-episode-farewell.json) |
 | Life is Strange: Before the Storm - Deluxe Edition | 53273 | [53273-life-is-strange-before-the-storm-deluxe-edition.json](./53273-life-is-strange-before-the-storm-deluxe-edition.json) |
@@ -3309,6 +3313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loner_Dog://Snuff Puppy Carnage Society | 358384 | [358384-loner-dog-snuff-puppy-carnage-society.json](./358384-loner-dog-snuff-puppy-carnage-society.json) |
 | Loner's Spell | 182967 | [182967-loners-spell.json](./182967-loners-spell.json) |
 | Lonesome Road | 349408 | [349408-lonesome-road.json](./349408-lonesome-road.json) |
+| LoneStar | 264933 | [264933-lonestar.json](./264933-lonestar.json) |
 | Lonewolf | 113977 | [113977-lonewolf.json](./113977-lonewolf.json) |
 | Long | 249755 | [249755-long.json](./249755-long.json) |
 | Long | 292006 | [292006-long.json](./292006-long.json) |
@@ -4487,6 +4492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunch Box | 221734 | [221734-lunch-box.json](./221734-lunch-box.json) |
 | Lunch Box Ready | 212458 | [212458-lunch-box-ready.json](./212458-lunch-box-ready.json) |
 | Lunch Break | 113892 | [113892-lunch-break.json](./113892-lunch-break.json) |
+| Lunch Lady | 145855 | [145855-lunch-lady.json](./145855-lunch-lady.json) |
 | Lunch Lord: The Doom of Black Philip | 184634 | [184634-lunch-lord-the-doom-of-black-philip.json](./184634-lunch-lord-the-doom-of-black-philip.json) |
 | Lunch Rush HD | 87903 | [87903-lunch-rush-hd.json](./87903-lunch-rush-hd.json) |
 | Lunch Truck Tycoon 2 | 44220 | [44220-lunch-truck-tycoon-2.json](./44220-lunch-truck-tycoon-2.json) |
