@@ -2018,6 +2018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight of the Lust Temple | 134625 | [134625-knight-of-the-lust-temple.json](./134625-knight-of-the-lust-temple.json) |
 | Knight of Valour 3 HD | 285585 | [285585-knight-of-valour-3-hd.json](./285585-knight-of-valour-3-hd.json) |
 | Knight On The Moon | 350621 | [350621-knight-on-the-moon.json](./350621-knight-on-the-moon.json) |
+| Knight Online | 19795 | [19795-knight-online.json](./19795-knight-online.json) |
 | Knight Orc | 12165 | [12165-knight-orc.json](./12165-knight-orc.json) |
 | Knight Overloaded | 253438 | [253438-knight-overloaded.json](./253438-knight-overloaded.json) |
 | Knight Runaway | 190948 | [190948-knight-runaway.json](./190948-knight-runaway.json) |
