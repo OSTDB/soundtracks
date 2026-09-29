@@ -1340,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food Shop Online | 212225 | [212225-fast-food-shop-online.json](./212225-fast-food-shop-online.json) |
 | Fast Food Tycoon Simulator | 353959 | [353959-fast-food-tycoon-simulator.json](./353959-fast-food-tycoon-simulator.json) |
 | Fast Fox | 152198 | [152198-fast-fox.json](./152198-fast-fox.json) |
+| Fast Freddie | 46795 | [46795-fast-freddie.json](./46795-fast-freddie.json) |
 | Fast Jump | 167574 | [167574-fast-jump.json](./167574-fast-jump.json) |
 | Fast Like A Fox | 55973 | [55973-fast-like-a-fox.json](./55973-fast-like-a-fox.json) |
 | Fast Racing 3D | 380549 | [380549-fast-racing-3d.json](./380549-fast-racing-3d.json) |
@@ -2529,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire and Brim Co. | 258708 | [258708-fire-and-brim-co.json](./258708-fire-and-brim-co.json) |
 | Fire and Darkness | 159103 | [159103-fire-and-darkness.json](./159103-fire-and-darkness.json) |
 | Fire and Dungeon | 154398 | [154398-fire-and-dungeon.json](./154398-fire-and-dungeon.json) |
+| Fire and Forget | 46735 | [46735-fire-and-forget.json](./46735-fire-and-forget.json) |
 | Fire and Rescue | 287760 | [287760-fire-and-rescue.json](./287760-fire-and-rescue.json) |
 | Fire Ant | 93077 | [93077-fire-ant.json](./93077-fire-ant.json) |
 | Fire Ball | 161775 | [161775-fire-ball.json](./161775-fire-ball.json) |
@@ -3270,6 +3272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Gordon | 218420 | [218420-flash-gordon.json](./218420-flash-gordon.json) |
 | Flash Gordon | 22735 | [22735-flash-gordon.json](./22735-flash-gordon.json) |
 | Flash Point | 114159 | [114159-flash-point.json](./114159-flash-point.json) |
+| Flash Point | 46793 | [46793-flash-point.json](./46793-flash-point.json) |
 | Flash Point Korea: AH-64D Longbow | 710 | [710-flash-point-korea-ah-64d-longbow.json](./710-flash-point-korea-ah-64d-longbow.json) |
 | Flashback Legend | 49378 | [49378-flashback-legend.json](./49378-flashback-legend.json) |
 | Flashbound | 381023 | [381023-flashbound.json](./381023-flashbound.json) |
@@ -4067,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Life 2023 | 225767 | [225767-football-life-2023.json](./225767-football-life-2023.json) |
 | Football Life 2025 | 325576 | [325576-football-life-2025.json](./325576-football-life-2025.json) |
 | Football Life Simulator | 326426 | [326426-football-life-simulator.json](./326426-football-life-simulator.json) |
+| Football Limited | 46720 | [46720-football-limited.json](./46720-football-limited.json) |
 | Football Maestro | 261531 | [261531-football-maestro.json](./261531-football-maestro.json) |
 | Football Management RPG | 197679 | [197679-football-management-rpg.json](./197679-football-management-rpg.json) |
 | Football Manager | 198244 | [198244-football-manager.json](./198244-football-manager.json) |
@@ -4947,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Francisca 2 | 156073 | [156073-francisca-2.json](./156073-francisca-2.json) |
 | Frank and 10 roots | 116286 | [116286-frank-and-10-roots.json](./116286-frank-and-10-roots.json) |
 | Frank and Drake | 152923 | [152923-frank-and-drake.json](./152923-frank-and-drake.json) |
+| Frank Bruno's Boxing | 46752 | [46752-frank-brunos-boxing.json](./46752-frank-brunos-boxing.json) |
 | Frank Fux | 294422 | [294422-frank-fux.json](./294422-frank-fux.json) |
 | Frank Hawk | 180678 | [180678-frank-hawk.json](./180678-frank-hawk.json) |
 | Frank Thomas Big Hurt Baseball | 20405 | [20405-frank-thomas-big-hurt-baseball.json](./20405-frank-thomas-big-hurt-baseball.json) |
