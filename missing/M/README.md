@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaDD Bomber | 91545 | [91545-madd-bomber.json](./91545-madd-bomber.json) |
 | Madden 95 | 198807 | [198807-madden-95.json](./198807-madden-95.json) |
 | Madden genesis | 178024 | [178024-madden-genesis.json](./178024-madden-genesis.json) |
+| Madden NFL 06 | 5906 | [5906-madden-nfl-06.json](./5906-madden-nfl-06.json) |
 | Madden NFL 07 | 243011 | [243011-madden-nfl-07.json](./243011-madden-nfl-07.json) |
 | Madden NFL 07 | 4983 | [4983-madden-nfl-07.json](./4983-madden-nfl-07.json) |
 | Madden NFL 08 | 229188 | [229188-madden-nfl-08.json](./229188-madden-nfl-08.json) |
@@ -247,10 +248,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 09 All-Play | 229192 | [229192-madden-nfl-09-all-play.json](./229192-madden-nfl-09-all-play.json) |
 | Madden NFL 10 | 229204 | [229204-madden-nfl-10.json](./229204-madden-nfl-10.json) |
 | Madden NFL 10 | 229205 | [229205-madden-nfl-10.json](./229205-madden-nfl-10.json) |
+| Madden NFL 10 | 4985 | [4985-madden-nfl-10.json](./4985-madden-nfl-10.json) |
 | Madden NFL 11 | 243245 | [243245-madden-nfl-11.json](./243245-madden-nfl-11.json) |
 | Madden NFL 11 | 243246 | [243246-madden-nfl-11.json](./243246-madden-nfl-11.json) |
 | Madden NFL 11 | 243247 | [243247-madden-nfl-11.json](./243247-madden-nfl-11.json) |
 | Madden NFL 11 | 243248 | [243248-madden-nfl-11.json](./243248-madden-nfl-11.json) |
+| Madden NFL 11 | 4986 | [4986-madden-nfl-11.json](./4986-madden-nfl-11.json) |
 | Madden NFL 12 | 243249 | [243249-madden-nfl-12.json](./243249-madden-nfl-12.json) |
 | Madden NFL 12 | 243250 | [243250-madden-nfl-12.json](./243250-madden-nfl-12.json) |
 | Madden NFL 12 | 243251 | [243251-madden-nfl-12.json](./243251-madden-nfl-12.json) |
@@ -3041,6 +3044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanized Attack | 40357 | [40357-mechanized-attack.json](./40357-mechanized-attack.json) |
 | Mechanode | 238757 | [238757-mechanode.json](./238757-mechanode.json) |
 | Mechanophagia | 287730 | [287730-mechanophagia.json](./287730-mechanophagia.json) |
+| MechAssault | 5910 | [5910-mechassault.json](./5910-mechassault.json) |
 | MechAssault 2: Lone Wolf Limited Edition | 47315 | [47315-mechassault-2-lone-wolf-limited-edition.json](./47315-mechassault-2-lone-wolf-limited-edition.json) |
 | MechAssault: Phantom War | 19195 | [19195-mechassault-phantom-war.json](./19195-mechassault-phantom-war.json) |
 | Mechastrike: Red War | 384505 | [384505-mechastrike-red-war.json](./384505-mechastrike-red-war.json) |
@@ -4614,6 +4618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michael Andretti's World GP | 48279 | [48279-michael-andrettis-world-gp.json](./48279-michael-andrettis-world-gp.json) |
 | Michael Jackson in Scramble Training | 233982 | [233982-michael-jackson-in-scramble-training.json](./233982-michael-jackson-in-scramble-training.json) |
 | Michael Jackson: Baby Drop | 320979 | [320979-michael-jackson-baby-drop.json](./320979-michael-jackson-baby-drop.json) |
+| Michael Jackson: The Experience | 5006 | [5006-michael-jackson-the-experience.json](./5006-michael-jackson-the-experience.json) |
 | Michael Jackson's Moonwalker | 262508 | [262508-michael-jacksons-moonwalker.json](./262508-michael-jacksons-moonwalker.json) |
 | Michael Jordan in Flight | 198814 | [198814-michael-jordan-in-flight.json](./198814-michael-jordan-in-flight.json) |
 | Michael Jordan in Flight | 69585 | [69585-michael-jordan-in-flight.json](./69585-michael-jordan-in-flight.json) |
@@ -6268,6 +6273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Manager 2015 | 279628 | [279628-mlb-manager-2015.json](./279628-mlb-manager-2015.json) |
 | MLB Manager 2018 | 96270 | [96270-mlb-manager-2018.json](./96270-mlb-manager-2018.json) |
 | MLB Perfect Inning | 323161 | [323161-mlb-perfect-inning.json](./323161-mlb-perfect-inning.json) |
+| MLB Power Pros 2008 | 5010 | [5010-mlb-power-pros-2008.json](./5010-mlb-power-pros-2008.json) |
 | MLB Rivals | 255104 | [255104-mlb-rivals.json](./255104-mlb-rivals.json) |
 | MLB Slam! | 47568 | [47568-mlb-slam.json](./47568-mlb-slam.json) |
 | MLB Slugfest 2003 | 47334 | [47334-mlb-slugfest-2003.json](./47334-mlb-slugfest-2003.json) |
