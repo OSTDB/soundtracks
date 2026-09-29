@@ -1275,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ViruZ | 156996 | [156996-viruz.json](./156996-viruz.json) |
 | Viruzzerk | 245296 | [245296-viruzzerk.json](./245296-viruzzerk.json) |
 | Virvius | 244888 | [244888-virvius.json](./244888-virvius.json) |
+| VirZoom Arcade | 33356 | [33356-virzoom-arcade.json](./33356-virzoom-arcade.json) |
 | Visagens | 282020 | [282020-visagens.json](./282020-visagens.json) |
 | Viscera Cleanup Detail: House of Horror | 167764 | [167764-viscera-cleanup-detail-house-of-horror.json](./167764-viscera-cleanup-detail-house-of-horror.json) |
 | Viscera Cleanup Detail: Shadow Warrior | 16718 | [16718-viscera-cleanup-detail-shadow-warrior.json](./16718-viscera-cleanup-detail-shadow-warrior.json) |
