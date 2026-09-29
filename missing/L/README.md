@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Avventure di Blue: Lacrima di Cristallo | 257676 | [257676-le-avventure-di-blue-lacrima-di-cristallo.json](./257676-le-avventure-di-blue-lacrima-di-cristallo.json) |
 | Le Barbare Qui Est Un Bourgeois | 97509 | [97509-le-barbare-qui-est-un-bourgeois.json](./97509-le-barbare-qui-est-un-bourgeois.json) |
 | Le Château | 244484 | [244484-le-chateau.json](./244484-le-chateau.json) |
+| Le Chevalier Blanc | 39112 | [39112-le-chevalier-blanc.json](./39112-le-chevalier-blanc.json) |
 | Le Dernier Don | 303624 | [303624-le-dernier-don.json](./303624-le-dernier-don.json) |
 | Le Fetiche Maya | 10848 | [10848-le-fetiche-maya.json](./10848-le-fetiche-maya.json) |
 | Le Frenchie | 151036 | [151036-le-frenchie.json](./151036-le-frenchie.json) |
