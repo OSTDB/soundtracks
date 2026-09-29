@@ -2012,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield: Bad Company 2 Vietnam | 607 | [607-battlefield-bad-company-2-vietnam.json](./607-battlefield-bad-company-2-vietnam.json) |
 | Battlefish: Free Zombie Games | 39766 | [39766-battlefish-free-zombie-games.json](./39766-battlefish-free-zombie-games.json) |
 | Battlefleet Commander | 91552 | [91552-battlefleet-commander.json](./91552-battlefleet-commander.json) |
+| Battlefleet Gothic: Armada | 8713 | [8713-battlefleet-gothic-armada.json](./8713-battlefleet-gothic-armada.json) |
 | Battlefleet Gothic: Armada - Complete Edition | 154950 | [154950-battlefleet-gothic-armada-complete-edition.json](./154950-battlefleet-gothic-armada-complete-edition.json) |
 | Battlefleet Gothic: Armada - Deluxe Edition | 186341 | [186341-battlefleet-gothic-armada-deluxe-edition.json](./186341-battlefleet-gothic-armada-deluxe-edition.json) |
 | Battlefleet Gothic: Armada - Space Marines | 52637 | [52637-battlefleet-gothic-armada-space-marines.json](./52637-battlefleet-gothic-armada-space-marines.json) |
@@ -3277,6 +3278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Ball Sports | 275876 | [275876-big-ball-sports.json](./275876-big-ball-sports.json) |
 | Big Bang Billiards | 75819 | [75819-big-bang-billiards.json](./75819-big-bang-billiards.json) |
 | Big Bang Board Games | 78654 | [78654-big-bang-board-games.json](./78654-big-bang-board-games.json) |
+| Big Bang Mini | 18549 | [18549-big-bang-mini.json](./18549-big-bang-mini.json) |
 | Big Bang Pictures | 87616 | [87616-big-bang-pictures.json](./87616-big-bang-pictures.json) |
 | Big Bang Pro Wrestling | 43972 | [43972-big-bang-pro-wrestling.json](./43972-big-bang-pro-wrestling.json) |
 | Big Bang Show | 45943 | [45943-big-bang-show.json](./45943-big-bang-show.json) |
@@ -4129,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Viper | 14311 | [14311-black-viper.json](./14311-black-viper.json) |
 | Black Well Devil | 410331 | [410331-black-well-devil.json](./410331-black-well-devil.json) |
 | Black Werewolf | 293099 | [293099-black-werewolf.json](./293099-black-werewolf.json) |
+| Black Widow | 18455 | [18455-black-widow.json](./18455-black-widow.json) |
 | Black Widow: Looking for Love | 220874 | [220874-black-widow-looking-for-love.json](./220874-black-widow-looking-for-love.json) |
 | Black Witchcraft | 60800 | [60800-black-witchcraft.json](./60800-black-witchcraft.json) |
 | Black Wolf | 204993 | [204993-black-wolf.json](./204993-black-wolf.json) |
@@ -4768,6 +4771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block'hood VR | 98989 | [98989-blockhood-vr.json](./98989-blockhood-vr.json) |
 | Block+Hole | 366424 | [366424-block-hole.json](./366424-block-hole.json) |
 | Blockade | 116295 | [116295-blockade.json](./116295-blockade.json) |
+| Blockade | 18118 | [18118-blockade.json](./18118-blockade.json) |
 | Blockade | 362428 | [362428-blockade.json](./362428-blockade.json) |
 | Blockade Runner | 23864 | [23864-blockade-runner.json](./23864-blockade-runner.json) |
 | Blockade Runner | 297244 | [297244-blockade-runner.json](./297244-blockade-runner.json) |
@@ -5004,6 +5008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood-over- | 93069 | [93069-blood-over.json](./93069-blood-over.json) |
 | Blood, Fuel, Ammo & Speed | 265406 | [265406-blood-fuel-ammo-and-speed.json](./265406-blood-fuel-ammo-and-speed.json) |
 | Blood: One Unit Whole Blood | 36299 | [36299-blood-one-unit-whole-blood.json](./36299-blood-one-unit-whole-blood.json) |
+| Blood: Plasma Pak | 18500 | [18500-blood-plasma-pak.json](./18500-blood-plasma-pak.json) |
 | Blood: Refreshed Supply - Death Wish | 394316 | [394316-blood-refreshed-supply-death-wish.json](./394316-blood-refreshed-supply-death-wish.json) |
 | Blood: The Last Vampire - First Volume | 65028 | [65028-blood-the-last-vampire-first-volume.json](./65028-blood-the-last-vampire-first-volume.json) |
 | Blood: The Last Vampire - Last Volume | 65026 | [65026-blood-the-last-vampire-last-volume.json](./65026-blood-the-last-vampire-last-volume.json) |
@@ -6636,6 +6641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Braveland | 8999 | [8999-braveland.json](./8999-braveland.json) |
 | Braveland Heroes | 110344 | [110344-braveland-heroes.json](./110344-braveland-heroes.json) |
 | Braveland Pirate | 34737 | [34737-braveland-pirate.json](./34737-braveland-pirate.json) |
+| Braveland Wizard | 8755 | [8755-braveland-wizard.json](./8755-braveland-wizard.json) |
 | Bravely Default | 4700 | [4700-bravely-default.json](./4700-bravely-default.json) |
 | Bravely Default: Brilliant Lights | 174855 | [174855-bravely-default-brilliant-lights.json](./174855-bravely-default-brilliant-lights.json) |
 | Bravely Default: Fairy's Effect | 25739 | [25739-bravely-default-fairys-effect.json](./25739-bravely-default-fairys-effect.json) |
