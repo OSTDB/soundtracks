@@ -603,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldur's Gate: Dark Alliance | 243015 | [243015-baldurs-gate-dark-alliance.json](./243015-baldurs-gate-dark-alliance.json) |
 | Baldur's Gate: Dark Alliance | 83 | [83-baldurs-gate-dark-alliance.json](./83-baldurs-gate-dark-alliance.json) |
 | Baldur's Gate: Dark Alliance II | 210699 | [210699-baldurs-gate-dark-alliance-ii.json](./210699-baldurs-gate-dark-alliance-ii.json) |
+| Baldur's Gate: Dark Alliance II | 84 | [84-baldurs-gate-dark-alliance-ii.json](./84-baldurs-gate-dark-alliance-ii.json) |
 | Baldur's Gate: Enhanced Edition - Deluxe Edition | 169219 | [169219-baldurs-gate-enhanced-edition-deluxe-edition.json](./169219-baldurs-gate-enhanced-edition-deluxe-edition.json) |
 | Baldur's Gate: Siege of Dragonspear - Collector's Edition | 21813 | [21813-baldurs-gate-siege-of-dragonspear-collectors-edition.json](./21813-baldurs-gate-siege-of-dragonspear-collectors-edition.json) |
 | Baldur's Gate: Siege of Dragonspear - Digital Deluxe Edition | 52617 | [52617-baldurs-gate-siege-of-dragonspear-digital-deluxe-edition.json](./52617-baldurs-gate-siege-of-dragonspear-digital-deluxe-edition.json) |
@@ -1271,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baroque Syndrome | 73872 | [73872-baroque-syndrome.json](./73872-baroque-syndrome.json) |
 | Baroque-Ya | 368639 | [368639-baroque-ya.json](./368639-baroque-ya.json) |
 | Baroque: Become a Meta-Being | 316764 | [316764-baroque-become-a-meta-being.json](./316764-baroque-become-a-meta-being.json) |
+| Barotrauma | 27344 | [27344-barotrauma.json](./27344-barotrauma.json) |
 | Barp Online | 379959 | [379959-barp-online.json](./379959-barp-online.json) |
 | Barrack | 83919 | [83919-barrack.json](./83919-barrack.json) |
 | Barrage | 146228 | [146228-barrage.json](./146228-barrage.json) |
@@ -1557,6 +1559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Asylum | 240487 | [240487-batman-arkham-asylum.json](./240487-batman-arkham-asylum.json) |
 | Batman: Arkham Asylum - Game of the Year Edition | 27862 | [27862-batman-arkham-asylum-game-of-the-year-edition.json](./27862-batman-arkham-asylum-game-of-the-year-edition.json) |
 | Batman: Arkham City - Batman Inc. Batsuit Skin | 138111 | [138111-batman-arkham-city-batman-inc-batsuit-skin.json](./138111-batman-arkham-city-batman-inc-batsuit-skin.json) |
+| Batman: Arkham City - Harley Quinn's Revenge | 18442 | [18442-batman-arkham-city-harley-quinns-revenge.json](./18442-batman-arkham-city-harley-quinns-revenge.json) |
 | Batman: Arkham City - The Arkham Bundle | 138112 | [138112-batman-arkham-city-the-arkham-bundle.json](./138112-batman-arkham-city-the-arkham-bundle.json) |
 | Batman: Arkham City - Ultimate Edition | 138185 | [138185-batman-arkham-city-ultimate-edition.json](./138185-batman-arkham-city-ultimate-edition.json) |
 | Batman: Arkham Collection | 112659 | [112659-batman-arkham-collection.json](./112659-batman-arkham-collection.json) |
@@ -1589,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: The Enemy Within - Episode 4: What Ails You | 81123 | [81123-batman-the-enemy-within-episode-4-what-ails-you.json](./81123-batman-the-enemy-within-episode-4-what-ails-you.json) |
 | Batman: The Enemy Within - Episode 5: Same Stitch | 96066 | [96066-batman-the-enemy-within-episode-5-same-stitch.json](./96066-batman-the-enemy-within-episode-5-same-stitch.json) |
 | Batman: The Video Game | 10510 | [10510-batman-the-video-game.json](./10510-batman-the-video-game.json) |
+| Batman: The Video Game | 49226 | [49226-batman-the-video-game.json](./49226-batman-the-video-game.json) |
 | Batman: Vengeance | 197872 | [197872-batman-vengeance.json](./197872-batman-vengeance.json) |
 | Bato Battle | 416671 | [416671-bato-battle.json](./416671-bato-battle.json) |
 | Bato: Treasures of Tibet | 339837 | [339837-bato-treasures-of-tibet.json](./339837-bato-treasures-of-tibet.json) |
@@ -2698,6 +2702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind Nowhere | 105403 | [105403-behind-nowhere.json](./105403-behind-nowhere.json) |
 | Behind the Beyond | 176908 | [176908-behind-the-beyond.json](./176908-behind-the-beyond.json) |
 | Behind the Beyond: Ulti | 277979 | [277979-behind-the-beyond-ulti.json](./277979-behind-the-beyond-ulti.json) |
+| Behind the Frame: The Finest Scenery | 148499 | [148499-behind-the-frame-the-finest-scenery.json](./148499-behind-the-frame-the-finest-scenery.json) |
 | Behind the Horizon: The Desert | 195239 | [195239-behind-the-horizon-the-desert.json](./195239-behind-the-horizon-the-desert.json) |
 | Behind the Hydra's Eyes | 374585 | [374585-behind-the-hydras-eyes.json](./374585-behind-the-hydras-eyes.json) |
 | Behind the Iron Gate | 14294 | [14294-behind-the-iron-gate.json](./14294-behind-the-iron-gate.json) |
@@ -3645,6 +3650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioShock 2: Rapture Metro Pack | 374312 | [374312-bioshock-2-rapture-metro-pack.json](./374312-bioshock-2-rapture-metro-pack.json) |
 | BioShock 2: Special Edition | 47440 | [47440-bioshock-2-special-edition.json](./47440-bioshock-2-special-edition.json) |
 | BioShock Infinite: Industrial Revolution | 64441 | [64441-bioshock-infinite-industrial-revolution.json](./64441-bioshock-infinite-industrial-revolution.json) |
+| BioShock Infinite: The Complete Edition | 41595 | [41595-bioshock-infinite-the-complete-edition.json](./41595-bioshock-infinite-the-complete-edition.json) |
 | BioShock Infinite: Ultimate Songbird Edition | 41598 | [41598-bioshock-infinite-ultimate-songbird-edition.json](./41598-bioshock-infinite-ultimate-songbird-edition.json) |
 | BioShock: Limited Edition | 142228 | [142228-bioshock-limited-edition.json](./142228-bioshock-limited-edition.json) |
 | BioShock: The Collection | 19839 | [19839-bioshock-the-collection.json](./19839-bioshock-the-collection.json) |
@@ -4189,6 +4195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackwater | 6917 | [6917-blackwater.json](./6917-blackwater.json) |
 | Blackwater 100 | 92540 | [92540-blackwater-100.json](./92540-blackwater-100.json) |
 | Blackwater Exchange | 407396 | [407396-blackwater-exchange.json](./407396-blackwater-exchange.json) |
+| Blackwell Unbound | 9041 | [9041-blackwell-unbound.json](./9041-blackwell-unbound.json) |
 | Blackwood Division | 373110 | [373110-blackwood-division.json](./373110-blackwood-division.json) |
 | Blackwood: Beneath the Silence | 365181 | [365181-blackwood-beneath-the-silence.json](./365181-blackwood-beneath-the-silence.json) |
 | Blackwoods | 312577 | [312577-blackwoods.json](./312577-blackwoods.json) |
@@ -4406,6 +4413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing 8s | 254426 | [254426-blazing-8s.json](./254426-blazing-8s.json) |
 | Blazing Angels: Squadrons of WWII | 3124 | [3124-blazing-angels-squadrons-of-wwii.json](./3124-blazing-angels-squadrons-of-wwii.json) |
 | Blazing Aries | 153904 | [153904-blazing-aries.json](./153904-blazing-aries.json) |
+| Blazing Chrome | 55042 | [55042-blazing-chrome.json](./55042-blazing-chrome.json) |
 | Blazing Dragon | 258502 | [258502-blazing-dragon.json](./258502-blazing-dragon.json) |
 | Blazing Dragon Slayer · Divine Weapon Awakening | 358508 | [358508-blazing-dragon-slayer-divine-weapon-awakening.json](./358508-blazing-dragon-slayer-divine-weapon-awakening.json) |
 | Blazing Dragons | 45514 | [45514-blazing-dragons.json](./45514-blazing-dragons.json) |
