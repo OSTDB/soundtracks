@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Zone | 206231 | [206231-fantasy-zone.json](./206231-fantasy-zone.json) |
 | Fantasy Zone | 215746 | [215746-fantasy-zone.json](./215746-fantasy-zone.json) |
 | Fantasy Zone | 6684 | [6684-fantasy-zone.json](./6684-fantasy-zone.json) |
+| Fantasy Zone II | 6687 | [6687-fantasy-zone-ii.json](./6687-fantasy-zone-ii.json) |
 | Fantasy Zone II: Opa-Opa no Namida | 48627 | [48627-fantasy-zone-ii-opa-opa-no-namida.json](./48627-fantasy-zone-ii-opa-opa-no-namida.json) |
 | Fantasy Zone: The Maze | 45658 | [45658-fantasy-zone-the-maze.json](./45658-fantasy-zone-the-maze.json) |
 | Fantasy: Battle Simulator | 43950 | [43950-fantasy-battle-simulator.json](./43950-fantasy-battle-simulator.json) |
@@ -2217,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Duel 2: Deathmatch arena | 73775 | [73775-final-duel-2-deathmatch-arena.json](./73775-final-duel-2-deathmatch-arena.json) |
 | Final Dusk | 36046 | [36046-final-dusk.json](./36046-final-dusk.json) |
 | Final Echo | 348802 | [348802-final-echo.json](./348802-final-echo.json) |
+| Final Exam | 7306 | [7306-final-exam.json](./7306-final-exam.json) |
 | Final Exam | 80480 | [80480-final-exam.json](./80480-final-exam.json) |
 | Final Factory | 236524 | [236524-final-factory.json](./236524-final-factory.json) |
 | Final Failure | 93629 | [93629-final-failure.json](./93629-final-failure.json) |
@@ -4340,6 +4342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foreign Affairs | 313850 | [313850-foreign-affairs.json](./313850-foreign-affairs.json) |
 | Foreign Body | 236549 | [236549-foreign-body.json](./236549-foreign-body.json) |
 | Foreign Galaxies | 196232 | [196232-foreign-galaxies.json](./196232-foreign-galaxies.json) |
+| Foreign Legion: Buckets of Blood | 7521 | [7521-foreign-legion-buckets-of-blood.json](./7521-foreign-legion-buckets-of-blood.json) |
 | Foreign Sun | 289984 | [289984-foreign-sun.json](./289984-foreign-sun.json) |
 | Foreman for Real | 19741 | [19741-foreman-for-real.json](./19741-foreman-for-real.json) |
 | Foreman for Real | 370892 | [370892-foreman-for-real.json](./370892-foreman-for-real.json) |
@@ -5881,6 +5884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fule | 305537 | [305537-fule.json](./305537-fule.json) |
 | Fulfill the Dream | 338811 | [338811-fulfill-the-dream.json](./338811-fulfill-the-dream.json) |
 | Fulfillment Center Simulator | 320935 | [320935-fulfillment-center-simulator.json](./320935-fulfillment-center-simulator.json) |
+| Full Auto | 6998 | [6998-full-auto.json](./6998-full-auto.json) |
 | Full Auto 2: Battlelines | 197931 | [197931-full-auto-2-battlelines.json](./197931-full-auto-2-battlelines.json) |
 | Full Belly Breakout | 402912 | [402912-full-belly-breakout.json](./402912-full-belly-breakout.json) |
 | Full Blast Hitchhike | 344479 | [344479-full-blast-hitchhike.json](./344479-full-blast-hitchhike.json) |
