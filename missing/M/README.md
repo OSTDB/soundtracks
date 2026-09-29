@@ -2386,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of Sound | 73882 | [73882-masters-of-sound.json](./73882-masters-of-sound.json) |
 | Masters of the Elements | 70117 | [70117-masters-of-the-elements.json](./70117-masters-of-the-elements.json) |
 | Masters of the Universe | 280865 | [280865-masters-of-the-universe.json](./280865-masters-of-the-universe.json) |
+| Masters of the Universe II: Super Masters! | 41492 | [41492-masters-of-the-universe-ii-super-masters.json](./41492-masters-of-the-universe-ii-super-masters.json) |
 | Masters of the Universe: The Movie | 30904 | [30904-masters-of-the-universe-the-movie.json](./30904-masters-of-the-universe-the-movie.json) |
 | Masters of the Universe: The Power of He-Man | 5683 | [5683-masters-of-the-universe-the-power-of-he-man.json](./5683-masters-of-the-universe-the-power-of-he-man.json) |
 | Masters Pool HD | 345106 | [345106-masters-pool-hd.json](./345106-masters-pool-hd.json) |
@@ -3943,6 +3944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mental Salvo | 311659 | [311659-mental-salvo.json](./311659-mental-salvo.json) |
 | Mental: The Dark Night | 236828 | [236828-mental-the-dark-night.json](./236828-mental-the-dark-night.json) |
 | Menticide | 329201 | [329201-menticide.json](./329201-menticide.json) |
+| Mentis Cohorts | 41538 | [41538-mentis-cohorts.json](./41538-mentis-cohorts.json) |
 | Mentori Puzzle | 113471 | [113471-mentori-puzzle.json](./113471-mentori-puzzle.json) |
 | Mentula Macanus: Apocolocyntosis | 22420 | [22420-mentula-macanus-apocolocyntosis.json](./22420-mentula-macanus-apocolocyntosis.json) |
 | Menyr | 260638 | [260638-menyr.json](./260638-menyr.json) |
@@ -7446,6 +7448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morrok | 250974 | [250974-morrok.json](./250974-morrok.json) |
 | Morrow | 220844 | [220844-morrow.json](./220844-morrow.json) |
 | Morse | 198337 | [198337-morse.json](./198337-morse.json) |
+| Morse | 41542 | [41542-morse.json](./41542-morse.json) |
 | Morse Cod | 182901 | [182901-morse-cod.json](./182901-morse-cod.json) |
 | Morse Code | 103677 | [103677-morse-code.json](./103677-morse-code.json) |
 | Morse Shingou de Ai wo Tsutae yo. | 367396 | [367396-morse-shingou-de-ai-wo-tsutae-yo.json](./367396-morse-shingou-de-ai-wo-tsutae-yo.json) |
