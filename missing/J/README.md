@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly's Adventure | 208328 | [208328-jellys-adventure.json](./208328-jellys-adventure.json) |
 | Jellyboom | 73239 | [73239-jellyboom.json](./73239-jellyboom.json) |
 | JellyCar | 95422 | [95422-jellycar.json](./95422-jellycar.json) |
+| JellyCar | 9635 | [9635-jellycar.json](./9635-jellycar.json) |
 | Jellydad Hero | 180135 | [180135-jellydad-hero.json](./180135-jellydad-hero.json) |
 | Jellyfish Archipelago | 272019 | [272019-jellyfish-archipelago.json](./272019-jellyfish-archipelago.json) |
 | Jellyfish Blind Box | 365149 | [365149-jellyfish-blind-box.json](./365149-jellyfish-blind-box.json) |
@@ -875,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikuu Yuuden: Debias | 48610 | [48610-jikuu-yuuden-debias.json](./48610-jikuu-yuuden-debias.json) |
 | Jill O' Lantern | 320971 | [320971-jill-o-lantern.json](./320971-jill-o-lantern.json) |
 | Jill O' Lantern: Final Cut | 319360 | [319360-jill-o-lantern-final-cut.json](./319360-jill-o-lantern-final-cut.json) |
+| Jill Saves the Prince | 9645 | [9645-jill-saves-the-prince.json](./9645-jill-saves-the-prince.json) |
 | Jillian Michaels' Fitness Adventure | 20222 | [20222-jillian-michaels-fitness-adventure.json](./20222-jillian-michaels-fitness-adventure.json) |
 | Jillian Michaels' Fitness Ultimatum 2010 | 79817 | [79817-jillian-michaels-fitness-ultimatum-2010.json](./79817-jillian-michaels-fitness-ultimatum-2010.json) |
 | Jim & Dill II: Bobson’s Revenge | 313150 | [313150-jim-and-dill-ii-bobson-s-revenge.json](./313150-jim-and-dill-ii-bobson-s-revenge.json) |
@@ -1087,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Join Us | 370723 | [370723-join-us.json](./370723-join-us.json) |
 | Joinem | 40208 | [40208-joinem.json](./40208-joinem.json) |
 | Joining Hands | 68926 | [68926-joining-hands.json](./68926-joining-hands.json) |
+| Joint Operations: Escalation | 9355 | [9355-joint-operations-escalation.json](./9355-joint-operations-escalation.json) |
 | Joint Strike Fighter | 18073 | [18073-joint-strike-fighter.json](./18073-joint-strike-fighter.json) |
 | Joint Venture | 410221 | [410221-joint-venture.json](./410221-joint-venture.json) |
 | Joint War | 210706 | [210706-joint-war.json](./210706-joint-war.json) |
