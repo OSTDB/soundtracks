@@ -4002,6 +4002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Travels: Dawnstar | 47571 | [47571-the-elder-scrolls-travels-dawnstar.json](./47571-the-elder-scrolls-travels-dawnstar.json) |
 | The Elder Scrolls V: Skyrim - Dawnguard | 2992 | [2992-the-elder-scrolls-v-skyrim-dawnguard.json](./2992-the-elder-scrolls-v-skyrim-dawnguard.json) |
 | The Elder Scrolls V: Skyrim - Dragonborn | 6069 | [6069-the-elder-scrolls-v-skyrim-dragonborn.json](./6069-the-elder-scrolls-v-skyrim-dragonborn.json) |
+| The Elder Scrolls V: Skyrim - Legendary Edition | 47445 | [47445-the-elder-scrolls-v-skyrim-legendary-edition.json](./47445-the-elder-scrolls-v-skyrim-legendary-edition.json) |
 | The Elder Scrolls V: Skyrim - Premium Edition | 44556 | [44556-the-elder-scrolls-v-skyrim-premium-edition.json](./44556-the-elder-scrolls-v-skyrim-premium-edition.json) |
 | The Elder Scrolls V: Skyrim VR | 37088 | [37088-the-elder-scrolls-v-skyrim-vr.json](./37088-the-elder-scrolls-v-skyrim-vr.json) |
 | The Elder Scrolls VI | 81249 | [81249-the-elder-scrolls-vi.json](./81249-the-elder-scrolls-vi.json) |
@@ -4801,6 +4802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Help Desk | 149493 | [149493-the-help-desk.json](./149493-the-help-desk.json) |
 | The Helper | 224643 | [224643-the-helper.json](./224643-the-helper.json) |
 | The Henchmen | 220674 | [220674-the-henchmen.json](./220674-the-henchmen.json) |
+| The Henry Stickmin Collection | 120710 | [120710-the-henry-stickmin-collection.json](./120710-the-henry-stickmin-collection.json) |
 | The Hepatica Spring | 190222 | [190222-the-hepatica-spring.json](./190222-the-hepatica-spring.json) |
 | The Hermit | 111221 | [111221-the-hermit.json](./111221-the-hermit.json) |
 | The Hermit's Secret | 25131 | [25131-the-hermits-secret.json](./25131-the-hermits-secret.json) |
@@ -5630,6 +5632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Sora no Kiseki FC Evolution - Limited Edition | 268030 | [268030-the-legend-of-heroes-sora-no-kiseki-fc-evolution-limited-edition.json](./268030-the-legend-of-heroes-sora-no-kiseki-fc-evolution-limited-edition.json) |
 | The Legend of Heroes: Sora no Kiseki FC Kai - HD Edition | 136859 | [136859-the-legend-of-heroes-sora-no-kiseki-fc-kai-hd-edition.json](./136859-the-legend-of-heroes-sora-no-kiseki-fc-kai-hd-edition.json) |
 | The Legend of Heroes: Trails Beyond the Horizon | 280573 | [280573-the-legend-of-heroes-trails-beyond-the-horizon.json](./280573-the-legend-of-heroes-trails-beyond-the-horizon.json) |
+| The Legend of Heroes: Trails in the Sky | 8986 | [8986-the-legend-of-heroes-trails-in-the-sky.json](./8986-the-legend-of-heroes-trails-in-the-sky.json) |
 | The Legend of Heroes: Trails in the Sky the 3rd | 28101 | [28101-the-legend-of-heroes-trails-in-the-sky-the-3rd.json](./28101-the-legend-of-heroes-trails-in-the-sky-the-3rd.json) |
 | The Legend of Heroes: Trails into Reverie | 136673 | [136673-the-legend-of-heroes-trails-into-reverie.json](./136673-the-legend-of-heroes-trails-into-reverie.json) |
 | The Legend of Heroes: Trails into Reverie - Complete Cosmetics | 256256 | [256256-the-legend-of-heroes-trails-into-reverie-complete-cosmetics.json](./256256-the-legend-of-heroes-trails-into-reverie-complete-cosmetics.json) |
@@ -10823,6 +10826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Empires | 323314 | [323314-titan-empires.json](./323314-titan-empires.json) |
 | Titan Force | 289944 | [289944-titan-force.json](./289944-titan-force.json) |
 | Titan Outpost | 113507 | [113507-titan-outpost.json](./113507-titan-outpost.json) |
+| Titan Quest Anniversary Edition | 32614 | [32614-titan-quest-anniversary-edition.json](./32614-titan-quest-anniversary-edition.json) |
 | Titan Quest Gold | 177057 | [177057-titan-quest-gold.json](./177057-titan-quest-gold.json) |
 | Titan Quest II | 261146 | [261146-titan-quest-ii.json](./261146-titan-quest-ii.json) |
 | Titan Quest: Gold Edition | 51386 | [51386-titan-quest-gold-edition.json](./51386-titan-quest-gold-edition.json) |
@@ -13422,6 +13426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: The Battle to Save the Earth | 8016 | [8016-transformers-the-battle-to-save-the-earth.json](./8016-transformers-the-battle-to-save-the-earth.json) |
 | Transformers: The Headmasters | 8017 | [8017-transformers-the-headmasters.json](./8017-transformers-the-headmasters.json) |
 | Transformers: Ultimate Autobots Edition | 61090 | [61090-transformers-ultimate-autobots-edition.json](./61090-transformers-ultimate-autobots-edition.json) |
+| Transformers: War for Cybertron | 555 | [555-transformers-war-for-cybertron.json](./555-transformers-war-for-cybertron.json) |
 | Transformers: War for Cybertron - Autobots | 159310 | [159310-transformers-war-for-cybertron-autobots.json](./159310-transformers-war-for-cybertron-autobots.json) |
 | Transformers: War for Cybertron - Decepticons | 47945 | [47945-transformers-war-for-cybertron-decepticons.json](./47945-transformers-war-for-cybertron-decepticons.json) |
 | Transformice Adventures | 117824 | [117824-transformice-adventures.json](./117824-transformice-adventures.json) |
@@ -13919,6 +13924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Test 2: Genius Brain? | 88863 | [88863-tricky-test-2-genius-brain.json](./88863-tricky-test-2-genius-brain.json) |
 | Tricky Test 2018 | 105794 | [105794-tricky-test-2018.json](./105794-tricky-test-2018.json) |
 | Tricky Thief | 240180 | [240180-tricky-thief.json](./240180-tricky-thief.json) |
+| Tricky Towers | 21623 | [21623-tricky-towers.json](./21623-tricky-towers.json) |
 | Tricky Tracks | 229335 | [229335-tricky-tracks.json](./229335-tricky-tracks.json) |
 | Tricky Truck | 22651 | [22651-tricky-truck.json](./22651-tricky-truck.json) |
 | Tricky Tube | 106524 | [106524-tricky-tube.json](./106524-tricky-tube.json) |
