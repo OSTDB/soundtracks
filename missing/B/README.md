@@ -854,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banchou Tactics | 202786 | [202786-banchou-tactics.json](./202786-banchou-tactics.json) |
 | Banco Imobiliário 2000 | 187876 | [187876-banco-imobiliario-2000.json](./187876-banco-imobiliario-2000.json) |
 | Bancroft Academy | 265412 | [265412-bancroft-academy.json](./265412-bancroft-academy.json) |
+| Band Hero | 2678 | [2678-band-hero.json](./2678-band-hero.json) |
 | Band Mates | 386414 | [386414-band-mates.json](./386414-band-mates.json) |
 | Band of Brothers | 148924 | [148924-band-of-brothers.json](./148924-band-of-brothers.json) |
 | Band of Monsters | 38950 | [38950-band-of-monsters.json](./38950-band-of-monsters.json) |
@@ -1581,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Knight - Season Pass | 25970 | [25970-batman-arkham-knight-season-pass.json](./25970-batman-arkham-knight-season-pass.json) |
 | Batman: Arkham Knight - Special Edition Steelbook | 41611 | [41611-batman-arkham-knight-special-edition-steelbook.json](./41611-batman-arkham-knight-special-edition-steelbook.json) |
 | Batman: Arkham Origins | 83899 | [83899-batman-arkham-origins.json](./83899-batman-arkham-origins.json) |
+| Batman: Arkham Origins - Cold, Cold Heart | 10028 | [10028-batman-arkham-origins-cold-cold-heart.json](./10028-batman-arkham-origins-cold-cold-heart.json) |
 | Batman: Arkham Origins - Initiation | 75531 | [75531-batman-arkham-origins-initiation.json](./75531-batman-arkham-origins-initiation.json) |
 | Batman: Arkham Origins Blackgate | 7689 | [7689-batman-arkham-origins-blackgate.json](./7689-batman-arkham-origins-blackgate.json) |
 | Batman: Dark Tomorrow | 5738 | [5738-batman-dark-tomorrow.json](./5738-batman-dark-tomorrow.json) |
@@ -3106,6 +3108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Enemy Lines: Essentials | 147869 | [147869-beyond-enemy-lines-essentials.json](./147869-beyond-enemy-lines-essentials.json) |
 | Beyond Enemy Lines: Operation Arctic Hawk | 115599 | [115599-beyond-enemy-lines-operation-arctic-hawk.json](./115599-beyond-enemy-lines-operation-arctic-hawk.json) |
 | Beyond Enemy Lines: Remastered Edition | 132608 | [132608-beyond-enemy-lines-remastered-edition.json](./132608-beyond-enemy-lines-remastered-edition.json) |
+| Beyond Eyes | 11135 | [11135-beyond-eyes.json](./11135-beyond-eyes.json) |
 | Beyond Fighting 2 | 59474 | [59474-beyond-fighting-2.json](./59474-beyond-fighting-2.json) |
 | Beyond Fighting 3 | 56150 | [56150-beyond-fighting-3.json](./56150-beyond-fighting-3.json) |
 | Beyond Flesh and Blood Episode 1 | 34740 | [34740-beyond-flesh-and-blood-episode-1.json](./34740-beyond-flesh-and-blood-episode-1.json) |
