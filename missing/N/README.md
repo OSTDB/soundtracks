@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K7 | 8836 | [8836-nba-2k7.json](./8836-nba-2k7.json) |
 | NBA 2KVR Experience | 25907 | [25907-nba-2kvr-experience.json](./25907-nba-2kvr-experience.json) |
 | NBA 3 on 3 Featuring Kobe Bryant | 49904 | [49904-nba-3-on-3-featuring-kobe-bryant.json](./49904-nba-3-on-3-featuring-kobe-bryant.json) |
+| NBA Action | 58315 | [58315-nba-action.json](./58315-nba-action.json) |
 | NBA Action '94 | 45552 | [45552-nba-action-94.json](./45552-nba-action-94.json) |
 | NBA Baller Beats | 47414 | [47414-nba-baller-beats.json](./47414-nba-baller-beats.json) |
 | NBA Ballers: Rebound | 72721 | [72721-nba-ballers-rebound.json](./72721-nba-ballers-rebound.json) |
