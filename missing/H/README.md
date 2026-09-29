@@ -964,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haru Ichiban | 209708 | [209708-haru-ichiban.json](./209708-haru-ichiban.json) |
 | Haru no Oto ha Marude Kimi ni Nitete | 323821 | [323821-haru-no-oto-ha-marude-kimi-ni-nitete.json](./323821-haru-no-oto-ha-marude-kimi-ni-nitete.json) |
 | Haruka, Winter Dreams | 57185 | [57185-haruka-winter-dreams.json](./57185-haruka-winter-dreams.json) |
+| Harukanaru Augusta | 37909 | [37909-harukanaru-augusta.json](./37909-harukanaru-augusta.json) |
 | Harukanaru Augusta 2: Masters | 37933 | [37933-harukanaru-augusta-2-masters.json](./37933-harukanaru-augusta-2-masters.json) |
 | Harukanaru Augusta 3: Masters New | 37932 | [37932-harukanaru-augusta-3-masters-new.json](./37932-harukanaru-augusta-3-masters-new.json) |
 | Harukanaru Toki no Naka de 2 | 70658 | [70658-harukanaru-toki-no-naka-de-2.json](./70658-harukanaru-toki-no-naka-de-2.json) |
