@@ -8539,6 +8539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushiverse: Online Boardgame | 309446 | [309446-mushiverse-online-boardgame.json](./309446-mushiverse-online-boardgame.json) |
 | Mushroom Card RPG | 219818 | [219818-mushroom-card-rpg.json](./219818-mushroom-card-rpg.json) |
 | Mushroom Challenge | 169755 | [169755-mushroom-challenge.json](./169755-mushroom-challenge.json) |
+| Mushroom Crusher Extreme | 32155 | [32155-mushroom-crusher-extreme.json](./32155-mushroom-crusher-extreme.json) |
 | Mushroom Doom | 389747 | [389747-mushroom-doom.json](./389747-mushroom-doom.json) |
 | Mushroom Forest | 382881 | [382881-mushroom-forest.json](./382881-mushroom-forest.json) |
 | Mushroom Guardian | 100362 | [100362-mushroom-guardian.json](./100362-mushroom-guardian.json) |
