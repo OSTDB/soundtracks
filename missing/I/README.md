@@ -1319,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Style | 276243 | [276243-in-style.json](./276243-in-style.json) |
 | In Sync: 2 Fun Balls | 208028 | [208028-in-sync-2-fun-balls.json](./208028-in-sync-2-fun-balls.json) |
 | In Ten Years | 329151 | [329151-in-ten-years.json](./329151-in-ten-years.json) |
+| In the 1st Degree | 22601 | [22601-in-the-1st-degree.json](./22601-in-the-1st-degree.json) |
 | In the alley: Our hometown | 221415 | [221415-in-the-alley-our-hometown.json](./221415-in-the-alley-our-hometown.json) |
 | In the Black | 125370 | [125370-in-the-black.json](./125370-in-the-black.json) |
 | In the Box | 237655 | [237655-in-the-box.json](./237655-in-the-box.json) |
