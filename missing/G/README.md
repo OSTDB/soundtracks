@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gates to Terra II | 126646 | [126646-gates-to-terra-ii.json](./126646-gates-to-terra-ii.json) |
 | Gates vs. Jobs: The Game! | 325561 | [325561-gates-vs-jobs-the-game.json](./325561-gates-vs-jobs-the-game.json) |
 | Gatestriders | 365750 | [365750-gatestriders.json](./365750-gatestriders.json) |
+| Gateway II: Homeworld | 51391 | [51391-gateway-ii-homeworld.json](./51391-gateway-ii-homeworld.json) |
 | Gateway to English: Eigo de Go! | 245313 | [245313-gateway-to-english-eigo-de-go.json](./245313-gateway-to-english-eigo-de-go.json) |
 | Gateway to Karos | 13720 | [13720-gateway-to-karos.json](./13720-gateway-to-karos.json) |
 | Gateway to the Kulikovo Field: The Battle of Yepifan | 276204 | [276204-gateway-to-the-kulikovo-field-the-battle-of-yepifan.json](./276204-gateway-to-the-kulikovo-field-the-battle-of-yepifan.json) |
