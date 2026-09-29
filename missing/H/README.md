@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habitat Complex | 312896 | [312896-habitat-complex.json](./312896-habitat-complex.json) |
 | Habitat Shapes: The Tropical Journey | 401127 | [401127-habitat-shapes-the-tropical-journey.json](./401127-habitat-shapes-the-tropical-journey.json) |
 | Habitica | 395187 | [395187-habitica.json](./395187-habitica.json) |
+| Habitus | 34647 | [34647-habitus.json](./34647-habitus.json) |
 | Hablet | 344475 | [344475-hablet.json](./344475-hablet.json) |
 | Hacha Macha Pon! | 286585 | [286585-hacha-macha-pon.json](./286585-hacha-macha-pon.json) |
 | Hacha Mecha Fighter | 40182 | [40182-hacha-mecha-fighter.json](./40182-hacha-mecha-fighter.json) |
@@ -4898,6 +4899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoven the Sages Spinel | 34529 | [34529-hoven-the-sages-spinel.json](./34529-hoven-the-sages-spinel.json) |
 | Hover 2030 | 32897 | [32897-hover-2030.json](./32897-hover-2030.json) |
 | Hover Ace | 54103 | [54103-hover-ace.json](./54103-hover-ace.json) |
+| Hover Cubes: Arena | 34612 | [34612-hover-cubes-arena.json](./34612-hover-cubes-arena.json) |
 | Hover Force | 5675 | [5675-hover-force.json](./5675-hover-force.json) |
 | Hover Hazard | 30890 | [30890-hover-hazard.json](./30890-hover-hazard.json) |
 | Hover Junkers | 18903 | [18903-hover-junkers.json](./18903-hover-junkers.json) |
