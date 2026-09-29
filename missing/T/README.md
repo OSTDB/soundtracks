@@ -1748,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of Kroz | 84200 | [84200-temple-of-kroz.json](./84200-temple-of-kroz.json) |
 | Temple of Lily | 304873 | [304873-temple-of-lily.json](./304873-temple-of-lily.json) |
 | Temple of Pizza | 113763 | [113763-temple-of-pizza.json](./113763-temple-of-pizza.json) |
+| Temple of ROM | 42132 | [42132-temple-of-rom.json](./42132-temple-of-rom.json) |
 | Temple of Rubbo | 191913 | [191913-temple-of-rubbo.json](./191913-temple-of-rubbo.json) |
 | Temple of Sandur | 376454 | [376454-temple-of-sandur.json](./376454-temple-of-sandur.json) |
 | Temple of Shadows | 301417 | [301417-temple-of-shadows.json](./301417-temple-of-shadows.json) |
@@ -11550,6 +11551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topography | 142229 | [142229-topography.json](./142229-topography.json) |
 | Topolino amico delle guardie | 246664 | [246664-topolino-amico-delle-guardie.json](./246664-topolino-amico-delle-guardie.json) |
 | Topoloco | 84946 | [84946-topoloco.json](./84946-topoloco.json) |
+| Topper | 42169 | [42169-topper.json](./42169-topper.json) |
 | Topper Carrier | 152830 | [152830-topper-carrier.json](./152830-topper-carrier.json) |
 | Toppl. | 174219 | [174219-toppl.json](./174219-toppl.json) |
 | Topple | 93973 | [93973-topple.json](./93973-topple.json) |
@@ -12493,6 +12495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Cop | 88177 | [88177-traffic-cop.json](./88177-traffic-cop.json) |
 | Traffic Department 2192 | 23728 | [23728-traffic-department-2192.json](./23728-traffic-department-2192.json) |
 | Traffic Giant | 57660 | [57660-traffic-giant.json](./57660-traffic-giant.json) |
+| Traffic Jam | 42135 | [42135-traffic-jam.json](./42135-traffic-jam.json) |
 | Traffic Jammy | 179581 | [179581-traffic-jammy.json](./179581-traffic-jammy.json) |
 | Traffic Manager | 53945 | [53945-traffic-manager.json](./53945-traffic-manager.json) |
 | Traffic Master Collection | 283212 | [283212-traffic-master-collection.json](./283212-traffic-master-collection.json) |
@@ -13861,6 +13864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Action Volume 5 | 93382 | [93382-triple-action-volume-5.json](./93382-triple-action-volume-5.json) |
 | Triple Agent! | 75144 | [75144-triple-agent.json](./75144-triple-agent.json) |
 | Triple Bubble | 307579 | [307579-triple-bubble.json](./307579-triple-bubble.json) |
+| Triple Command | 42158 | [42158-triple-command.json](./42158-triple-command.json) |
 | Triple Crown Championship Snowboarding | 50732 | [50732-triple-crown-championship-snowboarding.json](./50732-triple-crown-championship-snowboarding.json) |
 | Triple Dungeon | 157476 | [157476-triple-dungeon.json](./157476-triple-dungeon.json) |
 | Triple Header Sports | 220127 | [220127-triple-header-sports.json](./220127-triple-header-sports.json) |
@@ -14575,6 +14579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turok: Evolution | 146695 | [146695-turok-evolution.json](./146695-turok-evolution.json) |
 | Turok: Origins | 325600 | [325600-turok-origins.json](./325600-turok-origins.json) |
 | Turok: Rage Wars | 1327 | [1327-turok-rage-wars.json](./1327-turok-rage-wars.json) |
+| Turpin | 42138 | [42138-turpin.json](./42138-turpin.json) |
 | Turquoise | 389596 | [389596-turquoise.json](./389596-turquoise.json) |
 | Turret | 130200 | [130200-turret.json](./130200-turret.json) |
 | Turret Defense King | 317362 | [317362-turret-defense-king.json](./317362-turret-defense-king.json) |
@@ -14939,6 +14944,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typingcommand | 317412 | [317412-typingcommand.json](./317412-typingcommand.json) |
 | Typo | 145677 | [145677-typo.json](./145677-typo.json) |
 | Typo | 219528 | [219528-typo.json](./219528-typo.json) |
+| Typo II | 42168 | [42168-typo-ii.json](./42168-typo-ii.json) |
+| Typo Man | 42142 | [42142-typo-man.json](./42142-typo-man.json) |
 | TypoGun | 93364 | [93364-typogun.json](./93364-typogun.json) |
 | Tyr | 371867 | [371867-tyr.json](./371867-tyr.json) |
 | Tyr: Chains of Valhalla | 96750 | [96750-tyr-chains-of-valhalla.json](./96750-tyr-chains-of-valhalla.json) |
