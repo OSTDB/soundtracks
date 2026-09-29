@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babava's Playspace | 278974 | [278974-babavas-playspace.json](./278974-babavas-playspace.json) |
 | Babbdi | 229631 | [229631-babbdi.json](./229631-babbdi.json) |
 | Babbling Brook | 351277 | [351277-babbling-brook.json](./351277-babbling-brook.json) |
+| Babe | 56546 | [56546-babe.json](./56546-babe.json) |
 | Babe and Friends | 245571 | [245571-babe-and-friends.json](./245571-babe-and-friends.json) |
 | Babe and Friends | 49915 | [49915-babe-and-friends.json](./49915-babe-and-friends.json) |
 | Babe or Grave | 212288 | [212288-babe-or-grave.json](./212288-babe-or-grave.json) |
@@ -3068,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Ynth HDX | 103880 | [103880-beyond-ynth-hdx.json](./103880-beyond-ynth-hdx.json) |
 | Beyond Your Wall | 369593 | [369593-beyond-your-wall.json](./369593-beyond-your-wall.json) |
 | Beyond Zero Line | 386299 | [386299-beyond-zero-line.json](./386299-beyond-zero-line.json) |
+| Beyond-Human | 56598 | [56598-beyond-human.json](./56598-beyond-human.json) |
 | Beyond: Fire & Ice | 386301 | [386301-beyond-fire-and-ice.json](./386301-beyond-fire-and-ice.json) |
 | Beyond: Light Advent - Collector's Edition | 36464 | [36464-beyond-light-advent-collectors-edition.json](./36464-beyond-light-advent-collectors-edition.json) |
 | Beyond.Frontiers | 316733 | [316733-beyond-frontiers.json](./316733-beyond-frontiers.json) |
@@ -5042,6 +5044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Ribbon Darts | 159275 | [159275-blue-ribbon-darts.json](./159275-blue-ribbon-darts.json) |
 | Blue Rider: Collector's Edition | 167046 | [167046-blue-rider-collectors-edition.json](./167046-blue-rider-collectors-edition.json) |
 | Blue Ridge Hunting | 265390 | [265390-blue-ridge-hunting.json](./265390-blue-ridge-hunting.json) |
+| Blue Roses: Yousei to Aoi Hitomi no Senshi-tachi | 56538 | [56538-blue-roses-yousei-to-aoi-hitomi-no-senshi-tachi.json](./56538-blue-roses-yousei-to-aoi-hitomi-no-senshi-tachi.json) |
 | Blue Sango | 263595 | [263595-blue-sango.json](./263595-blue-sango.json) |
 | Blue Skies | 63858 | [63858-blue-skies.json](./63858-blue-skies.json) |
 | Blue sky fighter | 129076 | [129076-blue-sky-fighter.json](./129076-blue-sky-fighter.json) |
@@ -6297,6 +6300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brandnew Boy | 38975 | [38975-brandnew-boy.json](./38975-brandnew-boy.json) |
 | Branmarker | 65035 | [65035-branmarker.json](./65035-branmarker.json) |
 | Branmarker 2 | 64977 | [64977-branmarker-2.json](./64977-branmarker-2.json) |
+| BrantSteele | 56578 | [56578-brantsteele.json](./56578-brantsteele.json) |
 | BRap Boy | 39880 | [39880-brap-boy.json](./39880-brap-boy.json) |
 | Bras | 353918 | [353918-bras.json](./353918-bras.json) |
 | BrasFoot 2003 | 249466 | [249466-brasfoot-2003.json](./249466-brasfoot-2003.json) |
