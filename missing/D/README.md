@@ -8013,6 +8013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Master 2K | 200101 | [200101-dungeon-master-2k.json](./200101-dungeon-master-2k.json) |
 | Dungeon Master II: The Legend of Skullkeep | 2503 | [2503-dungeon-master-ii-the-legend-of-skullkeep.json](./2503-dungeon-master-ii-the-legend-of-skullkeep.json) |
 | Dungeon Master Nexus | 3801 | [3801-dungeon-master-nexus.json](./3801-dungeon-master-nexus.json) |
+| Dungeon Master: Chaos Strikes Back | 3799 | [3799-dungeon-master-chaos-strikes-back.json](./3799-dungeon-master-chaos-strikes-back.json) |
 | Dungeon Master: Theron's Quest | 3800 | [3800-dungeon-master-therons-quest.json](./3800-dungeon-master-therons-quest.json) |
 | Dungeon Maze | 114341 | [114341-dungeon-maze.json](./114341-dungeon-maze.json) |
 | Dungeon Maze | 343789 | [343789-dungeon-maze.json](./343789-dungeon-maze.json) |
@@ -8480,6 +8481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors Vol. 2 | 42886 | [42886-dynasty-warriors-vol-2.json](./42886-dynasty-warriors-vol-2.json) |
 | Dynasty Warriors: God Seekers | 44537 | [44537-dynasty-warriors-god-seekers.json](./44537-dynasty-warriors-god-seekers.json) |
 | Dynasty Warriors: Gundam | 6977 | [6977-dynasty-warriors-gundam.json](./6977-dynasty-warriors-gundam.json) |
+| Dynasty Warriors: Gundam 3 | 6982 | [6982-dynasty-warriors-gundam-3.json](./6982-dynasty-warriors-gundam-3.json) |
 | Dynasty Wars | 12060 | [12060-dynasty-wars.json](./12060-dynasty-wars.json) |
 | Dynasty's Defender: The Scroll's Curse | 312745 | [312745-dynastys-defender-the-scrolls-curse.json](./312745-dynastys-defender-the-scrolls-curse.json) |
 | Dynogems | 42826 | [42826-dynogems.json](./42826-dynogems.json) |
