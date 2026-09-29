@@ -845,6 +845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield 2: Royal Adventure | 309657 | [309657-garfield-2-royal-adventure.json](./309657-garfield-2-royal-adventure.json) |
 | Garfield Collection 2 in 1 | 340739 | [340739-garfield-collection-2-in-1.json](./340739-garfield-collection-2-in-1.json) |
 | Garfield Gets Real | 234567 | [234567-garfield-gets-real.json](./234567-garfield-gets-real.json) |
+| Garfield GO | 55964 | [55964-garfield-go.json](./55964-garfield-go.json) |
 | Garfield in TV Land | 234569 | [234569-garfield-in-tv-land.json](./234569-garfield-in-tv-land.json) |
 | Garfield Kart 2: All You Can Drift | 345489 | [345489-garfield-kart-2-all-you-can-drift.json](./345489-garfield-kart-2-all-you-can-drift.json) |
 | Garfield Kart: Furious Racing | 121230 | [121230-garfield-kart-furious-racing.json](./121230-garfield-kart-furious-racing.json) |
@@ -1026,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear Up Einstein! | 342137 | [342137-gear-up-einstein.json](./342137-gear-up-einstein.json) |
 | Gear Up: Premium | 90552 | [90552-gear-up-premium.json](./90552-gear-up-premium.json) |
 | Gear Works | 48999 | [48999-gear-works.json](./48999-gear-works.json) |
+| Gear.Club | 55983 | [55983-gear-club.json](./55983-gear-club.json) |
 | Gear.Club Unlimited 2: Definitive Edition | 172590 | [172590-gear-club-unlimited-2-definitive-edition.json](./172590-gear-club-unlimited-2-definitive-edition.json) |
 | Gear.Club Unlimited 2: Tracks Edition | 139963 | [139963-gear-club-unlimited-2-tracks-edition.json](./139963-gear-club-unlimited-2-tracks-edition.json) |
 | Gear.Club Unlimited 2: Ultimate Edition | 172591 | [172591-gear-club-unlimited-2-ultimate-edition.json](./172591-gear-club-unlimited-2-ultimate-edition.json) |
@@ -3766,6 +3768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Race: Route 66 | 233111 | [233111-great-race-route-66.json](./233111-great-race-route-66.json) |
 | Great Sluggers: New World Stadium | 140480 | [140480-great-sluggers-new-world-stadium.json](./140480-great-sluggers-new-world-stadium.json) |
 | Great Song's Records of Economy | 161644 | [161644-great-songs-records-of-economy.json](./161644-great-songs-records-of-economy.json) |
+| Great States II | 55989 | [55989-great-states-ii.json](./55989-great-states-ii.json) |
 | Great Time Trio Remake | 306684 | [306684-great-time-trio-remake.json](./306684-great-time-trio-remake.json) |
 | Great Toilet Simulator | 222289 | [222289-great-toilet-simulator.json](./222289-great-toilet-simulator.json) |
 | Great Toy Showdown | 251838 | [251838-great-toy-showdown.json](./251838-great-toy-showdown.json) |
@@ -3943,6 +3946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Runner | 20738 | [20738-grid-runner.json](./20738-grid-runner.json) |
 | Grid Runner | 258951 | [258951-grid-runner.json](./258951-grid-runner.json) |
 | Grid Seeker: Project Storm Hammer | 39866 | [39866-grid-seeker-project-storm-hammer.json](./39866-grid-seeker-project-storm-hammer.json) |
+| Grid Start | 55992 | [55992-grid-start.json](./55992-grid-start.json) |
 | Grid Wars II | 51233 | [51233-grid-wars-ii.json](./51233-grid-wars-ii.json) |
 | Grid-M | 257921 | [257921-grid-m.json](./257921-grid-m.json) |
 | Grid: Autosport - Drag Pack | 365684 | [365684-grid-autosport-drag-pack.json](./365684-grid-autosport-drag-pack.json) |
