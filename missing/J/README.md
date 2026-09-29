@@ -1116,6 +1116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoJo's Bizarre Adventure: All-Star Battle R - Leone Abbacchio | 263539 | [263539-jojos-bizarre-adventure-all-star-battle-r-leone-abbacchio.json](./263539-jojos-bizarre-adventure-all-star-battle-r-leone-abbacchio.json) |
 | JoJo's Bizarre Adventure: All-Star Battle R - Rudol von Stroheim | 234633 | [234633-jojos-bizarre-adventure-all-star-battle-r-rudol-von-stroheim.json](./234633-jojos-bizarre-adventure-all-star-battle-r-rudol-von-stroheim.json) |
 | JoJo's Bizarre Adventure: Diamond Records | 75966 | [75966-jojos-bizarre-adventure-diamond-records.json](./75966-jojos-bizarre-adventure-diamond-records.json) |
+| JoJo's Bizarre Adventure: Eyes of Heaven | 11565 | [11565-jojos-bizarre-adventure-eyes-of-heaven.json](./11565-jojos-bizarre-adventure-eyes-of-heaven.json) |
 | JoJo's Bizarre Adventure: Heritage for the Future | 75962 | [75962-jojos-bizarre-adventure-heritage-for-the-future.json](./75962-jojos-bizarre-adventure-heritage-for-the-future.json) |
 | JoJo's Bizarre Adventure: Phantom Blood | 37045 | [37045-jojos-bizarre-adventure-phantom-blood.json](./37045-jojos-bizarre-adventure-phantom-blood.json) |
 | Jojo's Bizarre Adventure: The 7th Stand User | 128606 | [128606-jojos-bizarre-adventure-the-7th-stand-user.json](./128606-jojos-bizarre-adventure-the-7th-stand-user.json) |
@@ -1345,6 +1346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juiced | 248738 | [248738-juiced.json](./248738-juiced.json) |
 | Juiced | 5870 | [5870-juiced.json](./5870-juiced.json) |
 | Juiced 2: Hot Import Nights | 380445 | [380445-juiced-2-hot-import-nights.json](./380445-juiced-2-hot-import-nights.json) |
+| Juiced 2: Hot Import Nights | 7024 | [7024-juiced-2-hot-import-nights.json](./7024-juiced-2-hot-import-nights.json) |
 | Juiced! | 133349 | [133349-juiced.json](./133349-juiced.json) |
 | Juicy Ass | 264114 | [264114-juicy-ass.json](./264114-juicy-ass.json) |
 | Juicy Blast | 346158 | [346158-juicy-blast.json](./346158-juicy-blast.json) |
