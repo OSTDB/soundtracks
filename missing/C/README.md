@@ -422,6 +422,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campaign Manager: An Election Simulator | 94882 | [94882-campaign-manager-an-election-simulator.json](./94882-campaign-manager-an-election-simulator.json) |
 | Campaign Ozark | 135885 | [135885-campaign-ozark.json](./135885-campaign-ozark.json) |
 | Campaign Series Vietnam | 150123 | [150123-campaign-series-vietnam.json](./150123-campaign-series-vietnam.json) |
+| Campaign Series: Middle East 1948-1985 | 59492 | [59492-campaign-series-middle-east-1948-1985.json](./59492-campaign-series-middle-east-1948-1985.json) |
+| Campaigns on the Danube | 59498 | [59498-campaigns-on-the-danube.json](./59498-campaigns-on-the-danube.json) |
 | Camper Jumper Simulator | 31541 | [31541-camper-jumper-simulator.json](./31541-camper-jumper-simulator.json) |
 | Camper Renovator | 172131 | [172131-camper-renovator.json](./172131-camper-renovator.json) |
 | Camper Van Race Driving Simulator 2018 | 107001 | [107001-camper-van-race-driving-simulator-2018.json](./107001-camper-van-race-driving-simulator-2018.json) |
@@ -515,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Adventure HD | 232046 | [232046-candy-adventure-hd.json](./232046-candy-adventure-hd.json) |
 | Candy Arkanoid | 232919 | [232919-candy-arkanoid.json](./232919-candy-arkanoid.json) |
 | Candy Bandit | 19697 | [19697-candy-bandit.json](./19697-candy-bandit.json) |
+| Candy Blitz Deluxe | 59469 | [59469-candy-blitz-deluxe.json](./59469-candy-blitz-deluxe.json) |
 | Candy Box | 3269 | [3269-candy-box.json](./3269-candy-box.json) |
 | Candy Box 2 | 62779 | [62779-candy-box-2.json](./62779-candy-box-2.json) |
 | Candy Box U | 402983 | [402983-candy-box-u.json](./402983-candy-box-u.json) |
@@ -4103,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clara Wraiths 2 | 409042 | [409042-clara-wraiths-2.json](./409042-clara-wraiths-2.json) |
 | Clarc | 11047 | [11047-clarc.json](./11047-clarc.json) |
 | Clarence Goes to the F%ing Store | 166700 | [166700-clarence-goes-to-the-f-ing-store.json](./166700-clarence-goes-to-the-f-ing-store.json) |
+| Clarence: Thirty Days & Seven Seas | 59506 | [59506-clarence-thirty-days-and-seven-seas.json](./59506-clarence-thirty-days-and-seven-seas.json) |
 | Clarent Saga: Tactics | 135271 | [135271-clarent-saga-tactics.json](./135271-clarent-saga-tactics.json) |
 | Clarisse | 56425 | [56425-clarisse.json](./56425-clarisse.json) |
 | Clark: Hoova VR | 82067 | [82067-clark-hoova-vr.json](./82067-clark-hoova-vr.json) |
@@ -5353,6 +5357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combination Lock | 70436 | [70436-combination-lock.json](./70436-combination-lock.json) |
 | Combine Destiny | 222417 | [222417-combine-destiny.json](./222417-combine-destiny.json) |
 | Combine War Toys | 111029 | [111029-combine-war-toys.json](./111029-combine-war-toys.json) |
+| Combined Arms: World War II | 59523 | [59523-combined-arms-world-war-ii.json](./59523-combined-arms-world-war-ii.json) |
 | Combined_Arms | 143116 | [143116-combined-arms.json](./143116-combined-arms.json) |
 | Combined_Arms Gaiden | 143117 | [143117-combined-arms-gaiden.json](./143117-combined-arms-gaiden.json) |
 | Combines.io | 327942 | [327942-combines-io.json](./327942-combines-io.json) |
