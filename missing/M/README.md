@@ -4963,6 +4963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midtown Madness 2 | 5930 | [5930-midtown-madness-2.json](./5930-midtown-madness-2.json) |
 | Midvinter | 19281 | [19281-midvinter.json](./19281-midvinter.json) |
 | Midway Accident | 296975 | [296975-midway-accident.json](./296975-midway-accident.json) |
+| Midway Campaign | 23994 | [23994-midway-campaign.json](./23994-midway-campaign.json) |
 | Midway: Sink the Japanese Aircraft Carriers | 196293 | [196293-midway-sink-the-japanese-aircraft-carriers.json](./196293-midway-sink-the-japanese-aircraft-carriers.json) |
 | Midway: The Battle that Doomed Japan | 73745 | [73745-midway-the-battle-that-doomed-japan.json](./73745-midway-the-battle-that-doomed-japan.json) |
 | Midwest Drag Racing | 395190 | [395190-midwest-drag-racing.json](./395190-midwest-drag-racing.json) |
@@ -8440,6 +8441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder by Choice: Mystery Game | 266265 | [266265-murder-by-choice-mystery-game.json](./266265-murder-by-choice-mystery-game.json) |
 | Murder by Moonlight 2: Crimson Night | 193501 | [193501-murder-by-moonlight-2-crimson-night.json](./193501-murder-by-moonlight-2-crimson-night.json) |
 | Murder by Numbers | 123902 | [123902-murder-by-numbers.json](./123902-murder-by-numbers.json) |
+| Murder by the Dozen | 23972 | [23972-murder-by-the-dozen.json](./23972-murder-by-the-dozen.json) |
 | Murder Castle | 405716 | [405716-murder-castle.json](./405716-murder-castle.json) |
 | Murder Club | 48815 | [48815-murder-club.json](./48815-murder-club.json) |
 | Murder Detective: Jack the Ripper | 114535 | [114535-murder-detective-jack-the-ripper.json](./114535-murder-detective-jack-the-ripper.json) |
