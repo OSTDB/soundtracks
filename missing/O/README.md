@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Frost and Flowers | 225610 | [225610-of-frost-and-flowers.json](./225610-of-frost-and-flowers.json) |
 | Of Gods and Men: The Daybreak Empire | 109401 | [109401-of-gods-and-men-the-daybreak-empire.json](./109401-of-gods-and-men-the-daybreak-empire.json) |
 | Of Grit & Graves | 371465 | [371465-of-grit-and-graves.json](./371465-of-grit-and-graves.json) |
+| Of Guards and Thieves | 17430 | [17430-of-guards-and-thieves.json](./17430-of-guards-and-thieves.json) |
 | Of Guards and Thieves: Firefight | 167677 | [167677-of-guards-and-thieves-firefight.json](./167677-of-guards-and-thieves-firefight.json) |
 | Of Guards and Thieves: Zombie Rush | 166013 | [166013-of-guards-and-thieves-zombie-rush.json](./166013-of-guards-and-thieves-zombie-rush.json) |
 | Of Hibnernry Boneyard Ler Ardus | 397097 | [397097-of-hibnernry-boneyard-ler-ardus.json](./397097-of-hibnernry-boneyard-ler-ardus.json) |
@@ -2379,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outdoor Life: Sportman's Challenge | 202697 | [202697-outdoor-life-sportmans-challenge.json](./202697-outdoor-life-sportmans-challenge.json) |
 | Outdoor Trivia Challenge | 70355 | [70355-outdoor-trivia-challenge.json](./70355-outdoor-trivia-challenge.json) |
 | Outdoors Unlimited | 137088 | [137088-outdoors-unlimited.json](./137088-outdoors-unlimited.json) |
+| OutDrive | 18077 | [18077-outdrive.json](./18077-outdrive.json) |
 | Outer Empires | 67317 | [67317-outer-empires.json](./67317-outer-empires.json) |
 | Outer Factory | 279106 | [279106-outer-factory.json](./279106-outer-factory.json) |
 | Outer Frontier | 160128 | [160128-outer-frontier.json](./160128-outer-frontier.json) |
