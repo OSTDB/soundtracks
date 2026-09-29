@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady Gaga Revenge 2 | 66039 | [66039-lady-gaga-revenge-2.json](./66039-lady-gaga-revenge-2.json) |
 | Lady Godiva: Naked Eye | 310741 | [310741-lady-godiva-naked-eye.json](./310741-lady-godiva-naked-eye.json) |
 | Lady in tomb: Beneath the ocean | 220749 | [220749-lady-in-tomb-beneath-the-ocean.json](./220749-lady-in-tomb-beneath-the-ocean.json) |
+| Lady Killer | 40338 | [40338-lady-killer.json](./40338-lady-killer.json) |
 | Lady Pac | 185165 | [185165-lady-pac.json](./185165-lady-pac.json) |
 | Lady Stalker: Kako kara no Chousen | 71788 | [71788-lady-stalker-kako-kara-no-chousen.json](./71788-lady-stalker-kako-kara-no-chousen.json) |
 | Lady Sword: Ryakudatsusareta 10-nin no Otome | 42050 | [42050-lady-sword-ryakudatsusareta-10-nin-no-otome.json](./42050-lady-sword-ryakudatsusareta-10-nin-no-otome.json) |
@@ -856,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazaret | 211740 | [211740-lazaret.json](./211740-lazaret.json) |
 | Lazarian | 23917 | [23917-lazarian.json](./23917-lazarian.json) |
 | Lazarus Doom | 198354 | [198354-lazarus-doom.json](./198354-lazarus-doom.json) |
+| Lazer Command | 40335 | [40335-lazer-command.json](./40335-lazer-command.json) |
 | Lazer Tag | 54536 | [54536-lazer-tag.json](./54536-lazer-tag.json) |
 | Lazer Tag Arena | 340907 | [340907-lazer-tag-arena.json](./340907-lazer-tag-arena.json) |
 | Lazer Wheel | 38920 | [38920-lazer-wheel.json](./38920-lazer-wheel.json) |
@@ -1746,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Enforcers 3 | 5399 | [5399-lethal-enforcers-3.json](./5399-lethal-enforcers-3.json) |
 | Lethal Enforcers I & II | 77250 | [77250-lethal-enforcers-i-and-ii.json](./77250-lethal-enforcers-i-and-ii.json) |
 | Lethal Infiltration: Ghost Reconnaissance | 296932 | [296932-lethal-infiltration-ghost-reconnaissance.json](./296932-lethal-infiltration-ghost-reconnaissance.json) |
+| Lethal Justice | 40334 | [40334-lethal-justice.json](./40334-lethal-justice.json) |
 | Lethal Laser | 55489 | [55489-lethal-laser.json](./55489-lethal-laser.json) |
 | Lethal Lava Land | 308231 | [308231-lethal-lava-land.json](./308231-lethal-lava-land.json) |
 | Lethal Lawns: Competitive Mowing Bloodsport | 93763 | [93763-lethal-lawns-competitive-mowing-bloodsport.json](./93763-lethal-lawns-competitive-mowing-bloodsport.json) |
@@ -1911,6 +1914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberation Maiden: SIN | 52548 | [52548-liberation-maiden-sin.json](./52548-liberation-maiden-sin.json) |
 | Liberator | 159066 | [159066-liberator.json](./159066-liberator.json) |
 | Liberators' Chronicles | 266779 | [266779-liberators-chronicles.json](./266779-liberators-chronicles.json) |
+| LiberoGrande | 40372 | [40372-liberogrande.json](./40372-liberogrande.json) |
 | Liberogrande International | 81231 | [81231-liberogrande-international.json](./81231-liberogrande-international.json) |
 | Liberta: Rise of Freedom | 250963 | [250963-liberta-rise-of-freedom.json](./250963-liberta-rise-of-freedom.json) |
 | Libertine | 372694 | [372694-libertine.json](./372694-libertine.json) |
@@ -3089,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lode Runner Legacy | 37008 | [37008-lode-runner-legacy.json](./37008-lode-runner-legacy.json) |
 | Lode Runner: Domdom Dan no Yabou! | 109026 | [109026-lode-runner-domdom-dan-no-yabou.json](./109026-lode-runner-domdom-dan-no-yabou.json) |
 | Lode Runner: Lost Labyrinth | 64123 | [64123-lode-runner-lost-labyrinth.json](./64123-lode-runner-lost-labyrinth.json) |
+| Lode Runner: The Dig Fight | 40371 | [40371-lode-runner-the-dig-fight.json](./40371-lode-runner-the-dig-fight.json) |
 | Lode Runner: The Legend Returns | 46964 | [46964-lode-runner-the-legend-returns.json](./46964-lode-runner-the-legend-returns.json) |
 | Lodestar | 158033 | [158033-lodestar.json](./158033-lodestar.json) |
 | Lodestone: The crazy cave adventures of mad Stony Tony and his encounter with the exploding rolling stones | 130188 | [130188-lodestone-the-crazy-cave-adventures-of-mad-stony-tony-and-his-encounter-with-the-exploding-rolling-stones.json](./130188-lodestone-the-crazy-cave-adventures-of-mad-stony-tony-and-his-encounter-with-the-exploding-rolling-stones.json) |
@@ -3442,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Darkness: Prologue | 203845 | [203845-lord-of-darkness-prologue.json](./203845-lord-of-darkness-prologue.json) |
 | Lord of Djinn | 37384 | [37384-lord-of-djinn.json](./37384-lord-of-djinn.json) |
 | Lord of doors | 320955 | [320955-lord-of-doors.json](./320955-lord-of-doors.json) |
+| Lord of Gun | 40370 | [40370-lord-of-gun.json](./40370-lord-of-gun.json) |
 | Lord of Heroes | 137634 | [137634-lord-of-heroes.json](./137634-lord-of-heroes.json) |
 | Lord of Magna: Maiden Heaven | 20020 | [20020-lord-of-magna-maiden-heaven.json](./20020-lord-of-magna-maiden-heaven.json) |
 | Lord of Ogre | 365078 | [365078-lord-of-ogre.json](./365078-lord-of-ogre.json) |
@@ -3775,6 +3781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LostHero | 138248 | [138248-losthero.json](./138248-losthero.json) |
 | LostWinds | 21486 | [21486-lostwinds.json](./21486-lostwinds.json) |
 | Lot Lizard | 294178 | [294178-lot-lizard.json](./294178-lot-lizard.json) |
+| Lot Lot | 40368 | [40368-lot-lot.json](./40368-lot-lot.json) |
 | Lot'zAmonsters | 107825 | [107825-lotzamonsters.json](./107825-lotzamonsters.json) |
 | Lotan | 185143 | [185143-lotan.json](./185143-lotan.json) |
 | Lotion Samurai | 161400 | [161400-lotion-samurai.json](./161400-lotion-samurai.json) |
@@ -4034,6 +4041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely x Cation 1 & 2 | 79306 | [79306-lovely-x-cation-1-and-2.json](./79306-lovely-x-cation-1-and-2.json) |
 | Lovelydoll/Wildmachine | 188559 | [188559-lovelydoll-wildmachine.json](./188559-lovelydoll-wildmachine.json) |
 | Lover | 299149 | [299149-lover.json](./299149-lover.json) |
+| Lover Boy | 40367 | [40367-lover-boy.json](./40367-lover-boy.json) |
 | LoveR Kiss: Costume Deluxe Pack | 136945 | [136945-lover-kiss-costume-deluxe-pack.json](./136945-lover-kiss-costume-deluxe-pack.json) |
 | LoveR Kiss: Endless Memories | 355544 | [355544-lover-kiss-endless-memories.json](./355544-lover-kiss-endless-memories.json) |
 | Lover Pretend | 193536 | [193536-lover-pretend.json](./193536-lover-pretend.json) |
