@@ -572,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pangolin Love: Day 3 - China | 375814 | [375814-pangolin-love-day-3-china.json](./375814-pangolin-love-day-3-china.json) |
 | Pangolin Love: Day 4 - The Philippines | 375815 | [375815-pangolin-love-day-4-the-philippines.json](./375815-pangolin-love-day-4-the-philippines.json) |
 | Pangs: You Are Hungry | 377697 | [377697-pangs-you-are-hungry.json](./377697-pangs-you-are-hungry.json) |
+| Pangya: Fantasy Golf | 42809 | [42809-pangya-fantasy-golf.json](./42809-pangya-fantasy-golf.json) |
 | Pangya: United | 242060 | [242060-pangya-united.json](./242060-pangya-united.json) |
 | Panic | 245858 | [245858-panic.json](./245858-panic.json) |
 | Panic 64 | 130373 | [130373-panic-64.json](./130373-panic-64.json) |
@@ -1174,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parmesan | 184080 | [184080-parmesan.json](./184080-parmesan.json) |
 | Paro Paro | 151646 | [151646-paro-paro.json](./151646-paro-paro.json) |
 | Parodius | 174910 | [174910-parodius.json](./174910-parodius.json) |
+| Parodius Portable | 42792 | [42792-parodius-portable.json](./42792-parodius-portable.json) |
 | Parquet | 166063 | [166063-parquet.json](./166063-parquet.json) |
 | Parrot | 186827 | [186827-parrot.json](./186827-parrot.json) |
 | Parry de Bougai! Dual Runner | 355190 | [355190-parry-de-bougai-dual-runner.json](./355190-parry-de-bougai-dual-runner.json) |
@@ -2465,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phase 10 Dice | 83455 | [83455-phase-10-dice.json](./83455-phase-10-dice.json) |
 | Phase 10 Online | 144843 | [144843-phase-10-online.json](./144843-phase-10-online.json) |
 | Phase Cross | 347787 | [347787-phase-cross.json](./347787-phase-cross.json) |
+| Phase D | 42762 | [42762-phase-d.json](./42762-phase-d.json) |
 | Phase Edge | 53458 | [53458-phase-edge.json](./53458-phase-edge.json) |
 | Phase Line: Raider Assault | 239667 | [239667-phase-line-raider-assault.json](./239667-phase-line-raider-assault.json) |
 | Phase Paradox | 43436 | [43436-phase-paradox.json](./43436-phase-paradox.json) |
@@ -3497,6 +3500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pix Hop | 183359 | [183359-pix-hop.json](./183359-pix-hop.json) |
 | Pix Jungle Adventures | 151602 | [151602-pix-jungle-adventures.json](./151602-pix-jungle-adventures.json) |
 | Pix! - Virtual Pet Widget Game | 97137 | [97137-pix-virtual-pet-widget-game.json](./97137-pix-virtual-pet-widget-game.json) |
+| Pix'n Love Rush | 42815 | [42815-pixn-love-rush.json](./42815-pixn-love-rush.json) |
 | Pix3D | 84819 | [84819-pix3d.json](./84819-pix3d.json) |
 | Pixadom | 317582 | [317582-pixadom.json](./317582-pixadom.json) |
 | Pixalo | 61310 | [61310-pixalo.json](./61310-pixalo.json) |
@@ -7847,6 +7851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Block Wood - Wooden Block & Puzzle Game | 100936 | [100936-puzzle-block-wood-wooden-block-and-puzzle-game.json](./100936-puzzle-block-wood-wooden-block-and-puzzle-game.json) |
 | Puzzle Blocks | 83937 | [83937-puzzle-blocks.json](./83937-puzzle-blocks.json) |
 | Puzzle Bobble Everybubble! | 215033 | [215033-puzzle-bobble-everybubble.json](./215033-puzzle-bobble-everybubble.json) |
+| Puzzle Bobble Pocket | 42774 | [42774-puzzle-bobble-pocket.json](./42774-puzzle-bobble-pocket.json) |
 | Puzzle Bobble VS | 47567 | [47567-puzzle-bobble-vs.json](./47567-puzzle-bobble-vs.json) |
 | Puzzle Bonsai | 259558 | [259558-puzzle-bonsai.json](./259558-puzzle-bonsai.json) |
 | Puzzle Book: Adventure Pack | 237980 | [237980-puzzle-book-adventure-pack.json](./237980-puzzle-book-adventure-pack.json) |
