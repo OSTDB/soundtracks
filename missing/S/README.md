@@ -2078,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets by Episode | 332434 | [332434-secrets-by-episode.json](./332434-secrets-by-episode.json) |
 | Secrets of a Campfire | 156072 | [156072-secrets-of-a-campfire.json](./156072-secrets-of-a-campfire.json) |
 | Secrets of Blinck Island | 397077 | [397077-secrets-of-blinck-island.json](./397077-secrets-of-blinck-island.json) |
+| Secrets of Deep Earth Shrine | 33282 | [33282-secrets-of-deep-earth-shrine.json](./33282-secrets-of-deep-earth-shrine.json) |
 | Secrets of Grindea | 8436 | [8436-secrets-of-grindea.json](./8436-secrets-of-grindea.json) |
 | Secrets of Magic 2: Witches and Wizards | 68599 | [68599-secrets-of-magic-2-witches-and-wizards.json](./68599-secrets-of-magic-2-witches-and-wizards.json) |
 | Secrets of Magic: The Book of Spells | 33245 | [33245-secrets-of-magic-the-book-of-spells.json](./33245-secrets-of-magic-the-book-of-spells.json) |
@@ -6656,6 +6657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakes LTD | 265921 | [265921-snakes-ltd.json](./265921-snakes-ltd.json) |
 | Snakes LTD VR | 264010 | [264010-snakes-ltd-vr.json](./264010-snakes-ltd-vr.json) |
 | Snakes On A Cartesian Plane | 272307 | [272307-snakes-on-a-cartesian-plane.json](./272307-snakes-on-a-cartesian-plane.json) |
+| Snakes on an Extradimensional Plane | 33299 | [33299-snakes-on-an-extradimensional-plane.json](./33299-snakes-on-an-extradimensional-plane.json) |
 | Snakes Subsonic | 133871 | [133871-snakes-subsonic.json](./133871-snakes-subsonic.json) |
 | Snakes with Fists! | 343271 | [343271-snakes-with-fists.json](./343271-snakes-with-fists.json) |
 | Snakest | 109773 | [109773-snakest.json](./109773-snakest.json) |
@@ -8899,6 +8901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Raiders | 52000 | [52000-space-raiders.json](./52000-space-raiders.json) |
 | Space Raiders in Space | 138622 | [138622-space-raiders-in-space.json](./138622-space-raiders-in-space.json) |
 | Space Raiders in Space + Clumsy Rush | 230406 | [230406-space-raiders-in-space-clumsy-rush.json](./230406-space-raiders-in-space-clumsy-rush.json) |
+| Space Ranger ASK | 33316 | [33316-space-ranger-ask.json](./33316-space-ranger-ask.json) |
 | Space Ranger: Return to Earth | 45907 | [45907-space-ranger-return-to-earth.json](./45907-space-ranger-return-to-earth.json) |
 | Space Rangers | 7592 | [7592-space-rangers.json](./7592-space-rangers.json) |
 | Space Rangers 2: Dominators | 7593 | [7593-space-rangers-2-dominators.json](./7593-space-rangers-2-dominators.json) |
@@ -12190,6 +12193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormtrooper | 15379 | [15379-stormtrooper.json](./15379-stormtrooper.json) |
 | Stormwinds | 210284 | [210284-stormwinds.json](./210284-stormwinds.json) |
 | Stormworks: Search and Destroy | 174136 | [174136-stormworks-search-and-destroy.json](./174136-stormworks-search-and-destroy.json) |
+| Stormworm+ | 33332 | [33332-stormworm.json](./33332-stormworm.json) |
 | Stormy Castle | 330847 | [330847-stormy-castle.json](./330847-stormy-castle.json) |
 | Story 210 | 345094 | [345094-story-210.json](./345094-story-210.json) |
 | Story About Times | 113009 | [113009-story-about-times.json](./113009-story-about-times.json) |
