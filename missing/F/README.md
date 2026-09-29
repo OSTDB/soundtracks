@@ -1329,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food Tycoon Simulator | 353959 | [353959-fast-food-tycoon-simulator.json](./353959-fast-food-tycoon-simulator.json) |
 | Fast Fox | 152198 | [152198-fast-fox.json](./152198-fast-fox.json) |
 | Fast Jump | 167574 | [167574-fast-jump.json](./167574-fast-jump.json) |
+| Fast Like A Fox | 55973 | [55973-fast-like-a-fox.json](./55973-fast-like-a-fox.json) |
 | Fast Racing 3D | 380549 | [380549-fast-racing-3d.json](./380549-fast-racing-3d.json) |
 | Fast Travel: Loot Delivery Service | 117050 | [117050-fast-travel-loot-delivery-service.json](./117050-fast-travel-loot-delivery-service.json) |
 | Fast Wings | 156060 | [156060-fast-wings.json](./156060-fast-wings.json) |
@@ -2730,6 +2731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Class Rescue | 407312 | [407312-first-class-rescue.json](./407312-first-class-rescue.json) |
 | First Class Solitaire | 366426 | [366426-first-class-solitaire.json](./366426-first-class-solitaire.json) |
 | First Comes Love | 313885 | [313885-first-comes-love.json](./313885-first-comes-love.json) |
+| First Contact | 55986 | [55986-first-contact.json](./55986-first-contact.json) |
 | First Crusader | 274044 | [274044-first-crusader.json](./274044-first-crusader.json) |
 | First Date: Late to Date | 210233 | [210233-first-date-late-to-date.json](./210233-first-date-late-to-date.json) |
 | First date/Can't relate | 179616 | [179616-first-date-cant-relate.json](./179616-first-date-cant-relate.json) |
