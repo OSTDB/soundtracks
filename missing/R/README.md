@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ram Setu: The Run | 232395 | [232395-ram-setu-the-run.json](./232395-ram-setu-the-run.json) |
 | RAM: Random Access Mayhem | 231491 | [231491-ram-random-access-mayhem.json](./231491-ram-random-access-mayhem.json) |
 | Ram! | 94218 | [94218-ram.json](./94218-ram.json) |
+| Rama | 13782 | [13782-rama.json](./13782-rama.json) |
 | Ramble | 102587 | [102587-ramble.json](./102587-ramble.json) |
 | Ramble Planet | 152374 | [152374-ramble-planet.json](./152374-ramble-planet.json) |
 | Rambling with my friend | 183367 | [183367-rambling-with-my-friend.json](./183367-rambling-with-my-friend.json) |
@@ -1704,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red and the Whispering Woods | 181357 | [181357-red-and-the-whispering-woods.json](./181357-red-and-the-whispering-woods.json) |
 | Red and White | 154018 | [154018-red-and-white.json](./154018-red-and-white.json) |
 | Red Archer | 150143 | [150143-red-archer.json](./150143-red-archer.json) |
+| Red Arrows | 13749 | [13749-red-arrows.json](./13749-red-arrows.json) |
 | Red Ash | 60043 | [60043-red-ash.json](./60043-red-ash.json) |
 | Red Babe | 93342 | [93342-red-babe.json](./93342-red-babe.json) |
 | Red Ball | 55917 | [55917-red-ball.json](./55917-red-ball.json) |
@@ -3034,6 +3036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolvermen | 344397 | [344397-revolvermen.json](./344397-revolvermen.json) |
 | RevolverRouge | 381115 | [381115-revolverrouge.json](./381115-revolverrouge.json) |
 | RevolVR 3 | 169355 | [169355-revolvr-3.json](./169355-revolvr-3.json) |
+| Revs | 13750 | [13750-revs.json](./13750-revs.json) |
 | Revs+ | 44126 | [44126-revs.json](./44126-revs.json) |
 | Revv Racing | 172500 | [172500-revv-racing.json](./172500-revv-racing.json) |
 | Revvolvver | 250460 | [250460-revvolvver.json](./250460-revvolvver.json) |
@@ -4348,6 +4351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Pinball | 245413 | [245413-rocket-pinball.json](./245413-rocket-pinball.json) |
 | Rocket Power: Zero Gravity Zone | 262089 | [262089-rocket-power-zero-gravity-zone.json](./262089-rocket-power-zero-gravity-zone.json) |
 | Rocket Rabbit - Coin Race | 147866 | [147866-rocket-rabbit-coin-race.json](./147866-rocket-rabbit-coin-race.json) |
+| Rocket Raid | 13751 | [13751-rocket-raid.json](./13751-rocket-raid.json) |
 | Rocket Ranger: Emulated Amiga Edition | 154944 | [154944-rocket-ranger-emulated-amiga-edition.json](./154944-rocket-ranger-emulated-amiga-edition.json) |
 | Rocket Riot | 20479 | [20479-rocket-riot.json](./20479-rocket-riot.json) |
 | Rocket Riot HD | 20646 | [20646-rocket-riot-hd.json](./20646-rocket-riot-hd.json) |
@@ -4825,6 +4829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roma Victor | 67955 | [67955-roma-victor.json](./67955-roma-victor.json) |
 | Romace | 297572 | [297572-romace.json](./297572-romace.json) |
 | Roman City Tycoon | 300834 | [300834-roman-city-tycoon.json](./300834-roman-city-tycoon.json) |
+| Roman Empire | 13752 | [13752-roman-empire.json](./13752-roman-empire.json) |
 | Roman Empire Simulator | 265201 | [265201-roman-empire-simulator.json](./265201-roman-empire-simulator.json) |
 | Roman Empire vs. Barbarians | 235734 | [235734-roman-empire-vs-barbarians.json](./235734-roman-empire-vs-barbarians.json) |
 | Roman Empire Wars | 158644 | [158644-roman-empire-wars.json](./158644-roman-empire-wars.json) |
@@ -5376,6 +5381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubber Royale | 244269 | [244269-rubber-royale.json](./244269-rubber-royale.json) |
 | Rubbish Island | 378890 | [378890-rubbish-island.json](./378890-rubbish-island.json) |
 | Rubble the Engineer | 359414 | [359414-rubble-the-engineer.json](./359414-rubble-the-engineer.json) |
+| Rubble Trouble | 13753 | [13753-rubble-trouble.json](./13753-rubble-trouble.json) |
 | Rubble Trouble Moscow | 326730 | [326730-rubble-trouble-moscow.json](./326730-rubble-trouble-moscow.json) |
 | Rubble Trouble Tokyo | 326729 | [326729-rubble-trouble-tokyo.json](./326729-rubble-trouble-tokyo.json) |
 | Rube Goldberg Workshop | 250452 | [250452-rube-goldberg-workshop.json](./250452-rube-goldberg-workshop.json) |
