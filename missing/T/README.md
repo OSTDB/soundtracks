@@ -4036,6 +4036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escapists: The Walking Dead | 11744 | [11744-the-escapists-the-walking-dead.json](./11744-the-escapists-the-walking-dead.json) |
 | The Esoteric Archive | 353501 | [353501-the-esoteric-archive.json](./353501-the-esoteric-archive.json) |
 | The Essence of Luna | 323509 | [323509-the-essence-of-luna.json](./323509-the-essence-of-luna.json) |
+| The Essence Reaper Ritual | 51412 | [51412-the-essence-reaper-ritual.json](./51412-the-essence-reaper-ritual.json) |
 | The Essential Selection: Sport | 73538 | [73538-the-essential-selection-sport.json](./73538-the-essential-selection-sport.json) |
 | The Eternal Castle: Remastered | 112074 | [112074-the-eternal-castle-remastered.json](./112074-the-eternal-castle-remastered.json) |
 | The Eternal Fool | 217496 | [217496-the-eternal-fool.json](./217496-the-eternal-fool.json) |
@@ -6892,6 +6893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Return of Bantara | 334748 | [334748-the-return-of-bantara.json](./334748-the-return-of-bantara.json) |
 | The Return of Medusa | 14508 | [14508-the-return-of-medusa.json](./14508-the-return-of-medusa.json) |
 | The Return of the Heroes | 259561 | [259561-the-return-of-the-heroes.json](./259561-the-return-of-the-heroes.json) |
+| The Return of the Incredible Machine: Contraptions | 51401 | [51401-the-return-of-the-incredible-machine-contraptions.json](./51401-the-return-of-the-incredible-machine-contraptions.json) |
 | The Return of the King | 287767 | [287767-the-return-of-the-king.json](./287767-the-return-of-the-king.json) |
 | The Return to Freddy's Classic | 272805 | [272805-the-return-to-freddys-classic.json](./272805-the-return-to-freddys-classic.json) |
 | The Return: Survival | 114771 | [114771-the-return-survival.json](./114771-the-return-survival.json) |
@@ -8297,6 +8299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walls | 289952 | [289952-the-walls.json](./289952-the-walls.json) |
 | The Walsingham Files: Chapter 1 | 116120 | [116120-the-walsingham-files-chapter-1.json](./116120-the-walsingham-files-chapter-1.json) |
 | The Walt Disney World Explorer | 132096 | [132096-the-walt-disney-world-explorer.json](./132096-the-walt-disney-world-explorer.json) |
+| The Walt Disney World Explorer: Second Edition | 51375 | [51375-the-walt-disney-world-explorer-second-edition.json](./51375-the-walt-disney-world-explorer-second-edition.json) |
 | The Wand | 138143 | [138143-the-wand.json](./138143-the-wand.json) |
 | The Wand of Gamelon Remastered | 206135 | [206135-the-wand-of-gamelon-remastered.json](./206135-the-wand-of-gamelon-remastered.json) |
 | The Wand Wizard | 255150 | [255150-the-wand-wizard.json](./255150-the-wand-wizard.json) |
@@ -9263,6 +9266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tichu | 377164 | [377164-tichu.json](./377164-tichu.json) |
 | Tick Hop 2 | 391186 | [391186-tick-hop-2.json](./391186-tick-hop-2.json) |
 | Tick Tock Clock | 308235 | [308235-tick-tock-clock.json](./308235-tick-tock-clock.json) |
+| Tick-Hunter | 51434 | [51434-tick-hunter.json](./51434-tick-hunter.json) |
 | Tick, Tank, Boom | 235867 | [235867-tick-tank-boom.json](./235867-tick-tank-boom.json) |
 | Tick: The Time Based Puzzle Game | 34794 | [34794-tick-the-time-based-puzzle-game.json](./34794-tick-the-time-based-puzzle-game.json) |
 | Ticket | 30271 | [30271-ticket.json](./30271-ticket.json) |
