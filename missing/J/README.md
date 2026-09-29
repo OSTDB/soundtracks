@@ -896,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jimmy Kamikaze | 108436 | [108436-jimmy-kamikaze.json](./108436-jimmy-kamikaze.json) |
 | Jimmy Neutron: Boy Genius | 2966 | [2966-jimmy-neutron-boy-genius.json](./2966-jimmy-neutron-boy-genius.json) |
 | Jimmy Neutron: Boy Genius | 49291 | [49291-jimmy-neutron-boy-genius.json](./49291-jimmy-neutron-boy-genius.json) |
+| Jimmy White's 'Whirlwind' Snooker | 12159 | [12159-jimmy-whites-whirlwind-snooker.json](./12159-jimmy-whites-whirlwind-snooker.json) |
 | Jimmy White's Cue Ball | 50029 | [50029-jimmy-whites-cue-ball.json](./50029-jimmy-whites-cue-ball.json) |
 | Jimmy's Agony | 266777 | [266777-jimmys-agony.json](./266777-jimmys-agony.json) |
 | Jimmy's Lost Fruits Journey 2: Veggocalypse | 265695 | [265695-jimmys-lost-fruits-journey-2-veggocalypse.json](./265695-jimmys-lost-fruits-journey-2-veggocalypse.json) |
@@ -914,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinki Resurrection | 141177 | [141177-jinki-resurrection.json](./141177-jinki-resurrection.json) |
 | Jinki Resurrection: Limited Edition | 141189 | [141189-jinki-resurrection-limited-edition.json](./141189-jinki-resurrection-limited-edition.json) |
 | Jinki: Infinity | 249501 | [249501-jinki-infinity.json](./249501-jinki-infinity.json) |
+| Jinks | 12330 | [12330-jinks.json](./12330-jinks.json) |
 | Jinrou Game | 296100 | [296100-jinrou-game.json](./296100-jinrou-game.json) |
 | Jinrui no Minasama he: Suhaaya Shuka | 394890 | [394890-jinrui-no-minasama-he-suhaaya-shuka.json](./394890-jinrui-no-minasama-he-suhaaya-shuka.json) |
 | Jinsei 8-man-7000-kai no Shokuji wo Tanoshiku suru: Oishiku Kiwameru Shokutsuu DS - Otona no Shuumatsu Henshuu-bu Gensen no Osusume Tenpo Jouhou Iri | 269591 | [269591-jinsei-8-man-7000-kai-no-shokuji-wo-tanoshiku-suru-oishiku-kiwameru-shokutsuu-ds-otona-no-shuumatsu-henshuu-bu-gensen-no-osusume-tenpo-jouhou-iri.json](./269591-jinsei-8-man-7000-kai-no-shokuji-wo-tanoshiku-suru-oishiku-kiwameru-shokutsuu-ds-otona-no-shuumatsu-henshuu-bu-gensen-no-osusume-tenpo-jouhou-iri.json) |
@@ -924,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinshin | 208100 | [208100-jinshin.json](./208100-jinshin.json) |
 | Jinx | 369191 | [369191-jinx.json](./369191-jinx.json) |
 | Jinx 3: Escape From Area Fitty-Two | 383493 | [383493-jinx-3-escape-from-area-fitty-two.json](./383493-jinx-3-escape-from-area-fitty-two.json) |
+| Jinxter | 12160 | [12160-jinxter.json](./12160-jinxter.json) |
 | Jīnyōng Qúnxiá Zhuán | 78043 | [78043-jinyong-qunxia-zhuan.json](./78043-jinyong-qunxia-zhuan.json) |
 | Jippo! Street | 234000 | [234000-jippo-street.json](./234000-jippo-street.json) |
 | JiPS | 33203 | [33203-jips.json](./33203-jips.json) |
@@ -998,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe and the Gun | 147329 | [147329-joe-and-the-gun.json](./147329-joe-and-the-gun.json) |
 | Joe Biden For The PS2 2: Re-elected | 268202 | [268202-joe-biden-for-the-ps2-2-re-elected.json](./268202-joe-biden-for-the-ps2-2-re-elected.json) |
 | Joe Biden: Escape From MAGA | 263790 | [263790-joe-biden-escape-from-maga.json](./263790-joe-biden-escape-from-maga.json) |
+| Joe Blade | 12161 | [12161-joe-blade.json](./12161-joe-blade.json) |
 | Joe Blunt Up In Smoke | 123507 | [123507-joe-blunt-up-in-smoke.json](./123507-joe-blunt-up-in-smoke.json) |
 | Joe Danger: Special Edition | 24235 | [24235-joe-danger-special-edition.json](./24235-joe-danger-special-edition.json) |
 | Joe Dungeon | 236206 | [236206-joe-dungeon.json](./236206-joe-dungeon.json) |
@@ -1229,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the West: Dark Invasion | 309650 | [309650-journey-to-the-west-dark-invasion.json](./309650-journey-to-the-west-dark-invasion.json) |
 | Journey to the West: Unparalleled | 357813 | [357813-journey-to-the-west-unparalleled.json](./357813-journey-to-the-west-unparalleled.json) |
 | Journey to Whale Fall | 338740 | [338740-journey-to-whale-fall.json](./338740-journey-to-whale-fall.json) |
+| Journey: The Quest Begins | 12163 | [12163-journey-the-quest-begins.json](./12163-journey-the-quest-begins.json) |
 | Journey's End | 142898 | [142898-journeys-end.json](./142898-journeys-end.json) |
 | Journey's Legend | 274501 | [274501-journeys-legend.json](./274501-journeys-legend.json) |
 | Journeyman | 236373 | [236373-journeyman.json](./236373-journeyman.json) |
