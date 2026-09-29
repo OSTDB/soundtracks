@@ -916,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Solitaire Epic | 88426 | [88426-mahjong-solitaire-epic.json](./88426-mahjong-solitaire-epic.json) |
 | Mahjong Solitaire Refresh | 114173 | [114173-mahjong-solitaire-refresh.json](./114173-mahjong-solitaire-refresh.json) |
 | Mahjong Solitaire Refresh: Ex Panels | 170928 | [170928-mahjong-solitaire-refresh-ex-panels.json](./170928-mahjong-solitaire-refresh-ex-panels.json) |
+| Mahjong Soul | 117263 | [117263-mahjong-soul.json](./117263-mahjong-soul.json) |
 | Mahjong Taikai | 48788 | [48788-mahjong-taikai.json](./48788-mahjong-taikai.json) |
 | Mahjong Taikai II | 37936 | [37936-mahjong-taikai-ii.json](./37936-mahjong-taikai-ii.json) |
 | Mahjong Taikai IV | 66091 | [66091-mahjong-taikai-iv.json](./66091-mahjong-taikai-iv.json) |
@@ -2174,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Blade | 279646 | [279646-marvels-blade.json](./279646-marvels-blade.json) |
 | Marvel's Guardians of the Galaxy & Marvel's Avenger's: Deluxe Bundle | 218480 | [218480-marvels-guardians-of-the-galaxy-and-marvels-avengers-deluxe-bundle.json](./218480-marvels-guardians-of-the-galaxy-and-marvels-avengers-deluxe-bundle.json) |
 | Marvel's Guardians of the Galaxy: Cloud Version | 152370 | [152370-marvels-guardians-of-the-galaxy-cloud-version.json](./152370-marvels-guardians-of-the-galaxy-cloud-version.json) |
+| Marvel's Guardians of the Galaxy: The Telltale Series - Episode 1: Tangled Up in Blue | 127039 | [127039-marvels-guardians-of-the-galaxy-the-telltale-series-episode-1-tangled-up-in-blue.json](./127039-marvels-guardians-of-the-galaxy-the-telltale-series-episode-1-tangled-up-in-blue.json) |
 | Marvel's Guardians of the Galaxy: The Telltale Series - Episode 4: Who Needs You | 127042 | [127042-marvels-guardians-of-the-galaxy-the-telltale-series-episode-4-who-needs-you.json](./127042-marvels-guardians-of-the-galaxy-the-telltale-series-episode-4-who-needs-you.json) |
 | Marvel's Iron Man VR | 116585 | [116585-marvels-iron-man-vr.json](./116585-marvels-iron-man-vr.json) |
 | Marvel's Iron Man VR: Digital Deluxe Edition | 255653 | [255653-marvels-iron-man-vr-digital-deluxe-edition.json](./255653-marvels-iron-man-vr-digital-deluxe-edition.json) |
@@ -3046,6 +3048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanode | 238757 | [238757-mechanode.json](./238757-mechanode.json) |
 | Mechanophagia | 287730 | [287730-mechanophagia.json](./287730-mechanophagia.json) |
 | MechAssault | 5910 | [5910-mechassault.json](./5910-mechassault.json) |
+| MechAssault 2: Lone Wolf | 5911 | [5911-mechassault-2-lone-wolf.json](./5911-mechassault-2-lone-wolf.json) |
 | MechAssault 2: Lone Wolf Limited Edition | 47315 | [47315-mechassault-2-lone-wolf-limited-edition.json](./47315-mechassault-2-lone-wolf-limited-edition.json) |
 | MechAssault: Phantom War | 19195 | [19195-mechassault-phantom-war.json](./19195-mechassault-phantom-war.json) |
 | Mechastrike: Red War | 384505 | [384505-mechastrike-red-war.json](./384505-mechastrike-red-war.json) |
@@ -6705,6 +6708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monark: Limited Edition Box | 152340 | [152340-monark-limited-edition-box.json](./152340-monark-limited-edition-box.json) |
 | Monastery | 342174 | [342174-monastery.json](./342174-monastery.json) |
 | Monato Esprit | 68047 | [68047-monato-esprit.json](./68047-monato-esprit.json) |
+| Moncage | 116578 | [116578-moncage.json](./116578-moncage.json) |
 | Monch! | 250975 | [250975-monch.json](./250975-monch.json) |
 | Mondai no Aru Share House | 260117 | [260117-mondai-no-aru-share-house.json](./260117-mondai-no-aru-share-house.json) |
 | Mondar's Dungeon | 181228 | [181228-mondars-dungeon.json](./181228-mondars-dungeon.json) |
@@ -7033,6 +7037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Wilds: Premium Deluxe Edition | 334113 | [334113-monster-hunter-wilds-premium-deluxe-edition.json](./334113-monster-hunter-wilds-premium-deluxe-edition.json) |
 | Monster Hunter Wilds: Title Update 5 | 381129 | [381129-monster-hunter-wilds-title-update-5.json](./381129-monster-hunter-wilds-title-update-5.json) |
 | Monster Hunter World: Iceborne - Digital Deluxe Edition | 118278 | [118278-monster-hunter-world-iceborne-digital-deluxe-edition.json](./118278-monster-hunter-world-iceborne-digital-deluxe-edition.json) |
+| Monster Hunter World: Iceborne Master Edition | 118273 | [118273-monster-hunter-world-iceborne-master-edition.json](./118273-monster-hunter-world-iceborne-master-edition.json) |
 | Monster Hunter: Poogie Race | 313482 | [313482-monster-hunter-poogie-race.json](./313482-monster-hunter-poogie-race.json) |
 | Monster Hunter: World - Collector's Edition | 81289 | [81289-monster-hunter-world-collectors-edition.json](./81289-monster-hunter-world-collectors-edition.json) |
 | Monster Hunter: World - Digital Deluxe Edition | 81354 | [81354-monster-hunter-world-digital-deluxe-edition.json](./81354-monster-hunter-world-digital-deluxe-edition.json) |
@@ -7766,6 +7771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moss Destruction | 103431 | [103431-moss-destruction.json](./103431-moss-destruction.json) |
 | Moss Palace Parade | 406118 | [406118-moss-palace-parade.json](./406118-moss-palace-parade.json) |
 | Moss: Becoming Human | 337448 | [337448-moss-becoming-human.json](./337448-moss-becoming-human.json) |
+| Moss: Book II | 154839 | [154839-moss-book-ii.json](./154839-moss-book-ii.json) |
 | Mossbound | 385219 | [385219-mossbound.json](./385219-mossbound.json) |
 | Mossfield Origins | 204536 | [204536-mossfield-origins.json](./204536-mossfield-origins.json) |
 | Mossroot | 250966 | [250966-mossroot.json](./250966-mossroot.json) |
@@ -7912,6 +7918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 15: Special Edition | 53366 | [53366-motogp-15-special-edition.json](./53366-motogp-15-special-edition.json) |
 | MotoGP 19 | 116136 | [116136-motogp-19.json](./116136-motogp-19.json) |
 | MotoGP 19: Historical Pack | 168362 | [168362-motogp-19-historical-pack.json](./168362-motogp-19-historical-pack.json) |
+| MotoGP 20 | 131635 | [131635-motogp-20.json](./131635-motogp-20.json) |
 | MotoGP 20: Historic Pack | 168361 | [168361-motogp-20-historic-pack.json](./168361-motogp-20-historic-pack.json) |
 | MotoGP 21: Limited Edition Liveries | 168363 | [168363-motogp-21-limited-edition-liveries.json](./168363-motogp-21-limited-edition-liveries.json) |
 | MotoGP 24: Day One Edition | 292136 | [292136-motogp-24-day-one-edition.json](./292136-motogp-24-day-one-edition.json) |
