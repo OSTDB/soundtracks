@@ -1469,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO World Builder 2 | 243690 | [243690-lego-world-builder-2.json](./243690-lego-world-builder-2.json) |
 | LEGO World Soccer | 273982 | [273982-lego-world-soccer.json](./273982-lego-world-soccer.json) |
 | Lego Worlds Showcase Collection #1 | 255377 | [255377-lego-worlds-showcase-collection-1.json](./255377-lego-worlds-showcase-collection-1.json) |
+| LEGO Worlds: Classic Space | 52110 | [52110-lego-worlds-classic-space.json](./52110-lego-worlds-classic-space.json) |
 | LEGO Worlds: Monster Pack | 205608 | [205608-lego-worlds-monster-pack.json](./205608-lego-worlds-monster-pack.json) |
 | LEGO: City Builder | 318792 | [318792-lego-city-builder.json](./318792-lego-city-builder.json) |
 | Legofaction | 305288 | [305288-legofaction.json](./305288-legofaction.json) |
