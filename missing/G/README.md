@@ -441,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxystrife | 177018 | [177018-galaxystrife.json](./177018-galaxystrife.json) |
 | GalaxyWak | 282103 | [282103-galaxywak.json](./282103-galaxywak.json) |
 | Galazer Deluxe | 358965 | [358965-galazer-deluxe.json](./358965-galazer-deluxe.json) |
+| Galcon 2 | 36325 | [36325-galcon-2.json](./36325-galcon-2.json) |
 | Galdia | 343250 | [343250-galdia.json](./343250-galdia.json) |
 | GALDR | 307585 | [307585-galdr.json](./307585-galdr.json) |
 | Galdromeda | 394517 | [394517-galdromeda.json](./394517-galdromeda.json) |
