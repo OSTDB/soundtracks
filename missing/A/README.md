@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Quick One Before Azathoth Devours Fodrian | 271299 | [271299-a-quick-one-before-azathoth-devours-fodrian.json](./271299-a-quick-one-before-azathoth-devours-fodrian.json) |
 | A Rally of Trust | 337698 | [337698-a-rally-of-trust.json](./337698-a-rally-of-trust.json) |
 | A Rat Fell in Love with a Human Girl | 82988 | [82988-a-rat-fell-in-love-with-a-human-girl.json](./82988-a-rat-fell-in-love-with-a-human-girl.json) |
+| A Raven Monologue | 81092 | [81092-a-raven-monologue.json](./81092-a-raven-monologue.json) |
 | A Recipe for Survival | 356142 | [356142-a-recipe-for-survival.json](./356142-a-recipe-for-survival.json) |
 | A Red Boat | 229918 | [229918-a-red-boat.json](./229918-a-red-boat.json) |
 | A Regular Pinball Game | 349474 | [349474-a-regular-pinball-game.json](./349474-a-regular-pinball-game.json) |
@@ -1614,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agatha Christie: 4:50 from Paddington | 135245 | [135245-agatha-christie-4-50-from-paddington.json](./135245-agatha-christie-4-50-from-paddington.json) |
 | Agatha Christie: Dead Man's Folly | 135105 | [135105-agatha-christie-dead-mans-folly.json](./135105-agatha-christie-dead-mans-folly.json) |
 | Agatha Christie: Death on the Nile | 21134 | [21134-agatha-christie-death-on-the-nile.json](./21134-agatha-christie-death-on-the-nile.json) |
+| Agatha Christie: Evil Under the Sun | 4664 | [4664-agatha-christie-evil-under-the-sun.json](./4664-agatha-christie-evil-under-the-sun.json) |
 | Agatha Christie: Hercule Poirot - The First Cases | 159123 | [159123-agatha-christie-hercule-poirot-the-first-cases.json](./159123-agatha-christie-hercule-poirot-the-first-cases.json) |
 | Agatha Christie: Hercule Poirot - The London Case: Deluxe | 276303 | [276303-agatha-christie-hercule-poirot-the-london-case-deluxe.json](./276303-agatha-christie-hercule-poirot-the-london-case-deluxe.json) |
 | Agatha Christie: Murder on the Orient Express - Deluxe Edition | 249719 | [249719-agatha-christie-murder-on-the-orient-express-deluxe-edition.json](./249719-agatha-christie-murder-on-the-orient-express-deluxe-edition.json) |
@@ -3974,6 +3976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Star Wars HD | 102600 | [102600-angry-birds-star-wars-hd.json](./102600-angry-birds-star-wars-hd.json) |
 | Angry Birds Star Wars II | 19272 | [19272-angry-birds-star-wars-ii.json](./19272-angry-birds-star-wars-ii.json) |
 | Angry Birds Tennis | 199901 | [199901-angry-birds-tennis.json](./199901-angry-birds-tennis.json) |
+| Angry Birds Trilogy | 4675 | [4675-angry-birds-trilogy.json](./4675-angry-birds-trilogy.json) |
 | Angry Birds World Tour | 214040 | [214040-angry-birds-world-tour.json](./214040-angry-birds-world-tour.json) |
 | Angry Birds: Dangerous Railroad | 325564 | [325564-angry-birds-dangerous-railroad.json](./325564-angry-birds-dangerous-railroad.json) |
 | Angry Birds: Flock Party | 372088 | [372088-angry-birds-flock-party.json](./372088-angry-birds-flock-party.json) |
@@ -5279,6 +5282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Shooting Gallery | 50626 | [50626-arcade-shooting-gallery.json](./50626-arcade-shooting-gallery.json) |
 | Arcade Snooker | 84177 | [84177-arcade-snooker.json](./84177-arcade-snooker.json) |
 | Arcade Soccer | 15599 | [15599-arcade-soccer.json](./15599-arcade-soccer.json) |
+| Arcade Spirits | 106986 | [106986-arcade-spirits.json](./106986-arcade-spirits.json) |
 | Arcade Squad | 195154 | [195154-arcade-squad.json](./195154-arcade-squad.json) |
 | Arcade Sundown | 270738 | [270738-arcade-sundown.json](./270738-arcade-sundown.json) |
 | Arcade Tanks World II: Tank Battle Simulator | 319786 | [319786-arcade-tanks-world-ii-tank-battle-simulator.json](./319786-arcade-tanks-world-ii-tank-battle-simulator.json) |
