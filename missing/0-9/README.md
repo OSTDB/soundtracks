@@ -639,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2004 Real Soccer | 116344 | [116344-2004-real-soccer.json](./116344-2004-real-soccer.json) |
 | 2005 Minigame Multicart | 40792 | [40792-2005-minigame-multicart.json](./40792-2005-minigame-multicart.json) |
 | 2006 Real Soccer | 116346 | [116346-2006-real-soccer.json](./116346-2006-real-soccer.json) |
+| 2010: The Graphic Action Game | 12290 | [12290-2010-the-graphic-action-game.json](./12290-2010-the-graphic-action-game.json) |
 | 2010: The Text Adventure Game | 75229 | [75229-2010-the-text-adventure-game.json](./75229-2010-the-text-adventure-game.json) |
 | 2017 Collection | 327362 | [327362-2017-collection.json](./327362-2017-collection.json) |
 | 202 Game Collection | 206119 | [206119-202-game-collection.json](./206119-202-game-collection.json) |
@@ -1075,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4x4 Jam | 42785 | [42785-4x4-jam.json](./42785-4x4-jam.json) |
 | 4x4 Mania | 139436 | [139436-4x4-mania.json](./139436-4x4-mania.json) |
 | 4x4 Off-Road Challenge | 127168 | [127168-4x4-off-road-challenge.json](./127168-4x4-off-road-challenge.json) |
+| 4x4 Off-Road Racing | 12287 | [12287-4x4-off-road-racing.json](./12287-4x4-off-road-racing.json) |
 | 4x4 Offroad Driver | 219294 | [219294-4x4-offroad-driver.json](./219294-4x4-offroad-driver.json) |
 | 4X4 Progress | 333648 | [333648-4x4-progress.json](./333648-4x4-progress.json) |
 | 4x4 Real Off Road | 255763 | [255763-4x4-real-off-road.json](./255763-4x4-real-off-road.json) |
