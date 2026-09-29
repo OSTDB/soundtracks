@@ -5256,6 +5256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Flame | 29579 | [29579-hungry-flame.json](./29579-hungry-flame.json) |
 | Hungry Fox | 181393 | [181393-hungry-fox.json](./181393-hungry-fox.json) |
 | Hungry Frog | 183335 | [183335-hungry-frog.json](./183335-hungry-frog.json) |
+| Hungry Ghosts | 43433 | [43433-hungry-ghosts.json](./43433-hungry-ghosts.json) |
 | Hungry Giraffe | 20808 | [20808-hungry-giraffe.json](./20808-hungry-giraffe.json) |
 | Hungry Hearts Diner 2: Moonlit Memories | 172603 | [172603-hungry-hearts-diner-2-moonlit-memories.json](./172603-hungry-hearts-diner-2-moonlit-memories.json) |
 | Hungry Hearts Diner: Memories | 280280 | [280280-hungry-hearts-diner-memories.json](./280280-hungry-hearts-diner-memories.json) |
