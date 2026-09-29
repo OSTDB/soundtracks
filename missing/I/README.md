@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I.C.O. | 178660 | [178660-i-c-o.json](./178660-i-c-o.json) |
 | I.C.U.P.S. | 30212 | [30212-i-c-u-p-s.json](./30212-i-c-u-p-s.json) |
 | I.Cartel | 115798 | [115798-i-cartel.json](./115798-i-cartel.json) |
+| I.F.O | 54513 | [54513-i-f-o.json](./54513-i-f-o.json) |
 | I.G.I. Origins | 125281 | [125281-i-g-i-origins.json](./125281-i-g-i-origins.json) |
 | I.G.I.-2: Covert Strike | 8559 | [8559-i-g-i-2-covert-strike.json](./8559-i-g-i-2-covert-strike.json) |
 | I.H.A.S | 224773 | [224773-i-h-a-s.json](./224773-i-h-a-s.json) |
@@ -2679,6 +2680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irritating Stick | 92863 | [92863-irritating-stick.json](./92863-irritating-stick.json) |
 | Iruka Iru Ka | 187491 | [187491-iruka-iru-ka.json](./187491-iruka-iru-ka.json) |
 | Iruka ni Uroko ga Nai Wake | 273352 | [273352-iruka-ni-uroko-ga-nai-wake.json](./273352-iruka-ni-uroko-ga-nai-wake.json) |
+| Iruna Online | 54541 | [54541-iruna-online.json](./54541-iruna-online.json) |
 | Irwin Ego: Ace Attorney | 302652 | [302652-irwin-ego-ace-attorney.json](./302652-irwin-ego-ace-attorney.json) |
 | Is Anna OK? | 286661 | [286661-is-anna-ok.json](./286661-is-anna-ok.json) |
 | Is Everyone Mad at Me? | 394505 | [394505-is-everyone-mad-at-me.json](./394505-is-everyone-mad-at-me.json) |
@@ -2992,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itadaki Street 2: Neon Sign ha Bara Iro ni | 38345 | [38345-itadaki-street-2-neon-sign-ha-bara-iro-ni.json](./38345-itadaki-street-2-neon-sign-ha-bara-iro-ni.json) |
 | Itadaki Street DS | 71885 | [71885-itadaki-street-ds.json](./71885-itadaki-street-ds.json) |
 | Itadaki Street Special | 72987 | [72987-itadaki-street-special.json](./72987-itadaki-street-special.json) |
+| Itadaki Street: Dragon Quest & Final Fantasy 30th Anniversary | 54550 | [54550-itadaki-street-dragon-quest-and-final-fantasy-30th-anniversary.json](./54550-itadaki-street-dragon-quest-and-final-fantasy-30th-anniversary.json) |
 | Italian Night 1999 | 386393 | [386393-italian-night-1999.json](./386393-italian-night-1999.json) |
 | Italo-Doom | 224529 | [224529-italo-doom.json](./224529-italo-doom.json) |
 | Italy '90 Soccer | 140489 | [140489-italy-90-soccer.json](./140489-italy-90-soccer.json) |
