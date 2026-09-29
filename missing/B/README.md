@@ -6042,6 +6042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncin' Baby Bunnies | 282632 | [282632-bouncin-baby-bunnies.json](./282632-bouncin-baby-bunnies.json) |
 | Bouncing Babies | 377828 | [377828-bouncing-babies.json](./377828-bouncing-babies.json) |
 | Bouncing Babies | 46652 | [46652-bouncing-babies.json](./46652-bouncing-babies.json) |
+| Bouncing Ball | 25865 | [25865-bouncing-ball.json](./25865-bouncing-ball.json) |
 | Bouncing Ball | 46857 | [46857-bouncing-ball.json](./46857-bouncing-ball.json) |
 | Bouncing Buds | 363566 | [363566-bouncing-buds.json](./363566-bouncing-buds.json) |
 | Bouncing Church | 102727 | [102727-bouncing-church.json](./102727-bouncing-church.json) |
@@ -6881,6 +6882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brilliance: Catch the light | 205012 | [205012-brilliance-catch-the-light.json](./205012-brilliance-catch-the-light.json) |
 | Brilliant Bob | 19484 | [19484-brilliant-bob.json](./19484-brilliant-bob.json) |
 | Brilliant Jigsaw | 357871 | [357871-brilliant-jigsaw.json](./357871-brilliant-jigsaw.json) |
+| Brimstone | 25894 | [25894-brimstone.json](./25894-brimstone.json) |
 | Brimstone | 26957 | [26957-brimstone.json](./26957-brimstone.json) |
 | Brimstone | 347874 | [347874-brimstone.json](./347874-brimstone.json) |
 | Brimstone Brawlers | 105267 | [105267-brimstone-brawlers.json](./105267-brimstone-brawlers.json) |
