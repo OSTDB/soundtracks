@@ -1897,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Everywhere, So Save Paranoiacally 2 | 397934 | [397934-death-everywhere-so-save-paranoiacally-2.json](./397934-death-everywhere-so-save-paranoiacally-2.json) |
 | Death Field: The Battle Royale of Disaster | 96234 | [96234-death-field-the-battle-royale-of-disaster.json](./96234-death-field-the-battle-royale-of-disaster.json) |
 | Death Fighter | 285007 | [285007-death-fighter.json](./285007-death-fighter.json) |
+| Death Fighter 4 | 55968 | [55968-death-fighter-4.json](./55968-death-fighter-4.json) |
 | Death Flush | 140622 | [140622-death-flush.json](./140622-death-flush.json) |
 | Death Forest: Seikin | 385186 | [385186-death-forest-seikin.json](./385186-death-forest-seikin.json) |
 | Death From Above: Complete Edition | 336140 | [336140-death-from-above-complete-edition.json](./336140-death-from-above-complete-edition.json) |
@@ -4267,6 +4268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disconcordia | 402940 | [402940-disconcordia.json](./402940-disconcordia.json) |
 | Disconnected | 184066 | [184066-disconnected.json](./184066-disconnected.json) |
 | Discopup | 327986 | [327986-discopup.json](./327986-discopup.json) |
+| Discordia | 55960 | [55960-discordia.json](./55960-discordia.json) |
 | Discordia by Iron Games | 262343 | [262343-discordia-by-iron-games.json](./262343-discordia-by-iron-games.json) |
 | Discount Nightmares: The Gulch | 391164 | [391164-discount-nightmares-the-gulch.json](./391164-discount-nightmares-the-gulch.json) |
 | Discounty | 239800 | [239800-discounty.json](./239800-discounty.json) |
@@ -6162,6 +6164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draglade | 21542 | [21542-draglade.json](./21542-draglade.json) |
 | Dragluttony | 190230 | [190230-dragluttony.json](./190230-dragluttony.json) |
 | Drago Noka | 203939 | [203939-drago-noka.json](./203939-drago-noka.json) |
+| Dragon & Colonies | 55950 | [55950-dragon-and-colonies.json](./55950-dragon-and-colonies.json) |
 | Dragon & Elfs | 227507 | [227507-dragon-and-elfs.json](./227507-dragon-and-elfs.json) |
 | Dragon & Knights | 200747 | [200747-dragon-and-knights.json](./200747-dragon-and-knights.json) |
 | Dragon 2 | 358914 | [358914-dragon-2.json](./358914-dragon-2.json) |
@@ -6441,6 +6444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest: Legacy of the Lost | 300697 | [300697-dragon-quest-legacy-of-the-lost.json](./300697-dragon-quest-legacy-of-the-lost.json) |
 | Dragon Quest: Monster Battle Road II Legends | 70667 | [70667-dragon-quest-monster-battle-road-ii-legends.json](./70667-dragon-quest-monster-battle-road-ii-legends.json) |
 | Dragon Quest: Monster Battle Road Victory - V Navigator | 127270 | [127270-dragon-quest-monster-battle-road-victory-v-navigator.json](./127270-dragon-quest-monster-battle-road-victory-v-navigator.json) |
+| Dragon Quest: Monster Parade | 55959 | [55959-dragon-quest-monster-parade.json](./55959-dragon-quest-monster-parade.json) |
 | Dragon Quest: The Adventure of Dai - A Hero's Bonds | 174673 | [174673-dragon-quest-the-adventure-of-dai-a-heros-bonds.json](./174673-dragon-quest-the-adventure-of-dai-a-heros-bonds.json) |
 | Dragon Rage | 32159 | [32159-dragon-rage.json](./32159-dragon-rage.json) |
 | Dragon Rage | 76977 | [76977-dragon-rage.json](./76977-dragon-rage.json) |
@@ -6573,6 +6577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragons of Atlantis | 303231 | [303231-dragons-of-atlantis.json](./303231-dragons-of-atlantis.json) |
 | Dragons of Elanthia | 62998 | [62998-dragons-of-elanthia.json](./62998-dragons-of-elanthia.json) |
 | Dragons of Hong Kong | 55836 | [55836-dragons-of-hong-kong.json](./55836-dragons-of-hong-kong.json) |
+| Dragons Online | 56000 | [56000-dragons-online.json](./56000-dragons-online.json) |
 | Dragons Vs Aircrafts | 101500 | [101500-dragons-vs-aircrafts.json](./101500-dragons-vs-aircrafts.json) |
 | Dragons War | 69335 | [69335-dragons-war.json](./69335-dragons-war.json) |
 | Dragons: Rise of Berk | 57751 | [57751-dragons-rise-of-berk.json](./57751-dragons-rise-of-berk.json) |
