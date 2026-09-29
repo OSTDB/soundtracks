@@ -2551,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inzo | 99609 | [99609-inzo.json](./99609-inzo.json) |
 | iO Inner Self: The Lava Planet VR | 225614 | [225614-io-inner-self-the-lava-planet-vr.json](./225614-io-inner-self-the-lava-planet-vr.json) |
 | IOI Collection | 154503 | [154503-ioi-collection.json](./154503-ioi-collection.json) |
+| Ion | 11136 | [11136-ion.json](./11136-ion.json) |
 | Ion Assault HD | 52244 | [52244-ion-assault-hd.json](./52244-ion-assault-hd.json) |
 | Ion Fury: Aftershock | 145471 | [145471-ion-fury-aftershock.json](./145471-ion-fury-aftershock.json) |
 | Ion Shift | 257941 | [257941-ion-shift.json](./257941-ion-shift.json) |
