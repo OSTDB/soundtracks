@@ -1485,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Cells: Netflix Edition | 274723 | [274723-dead-cells-netflix-edition.json](./274723-dead-cells-netflix-edition.json) |
 | Dead Cells: Prisoner's Edition | 136322 | [136322-dead-cells-prisoners-edition.json](./136322-dead-cells-prisoners-edition.json) |
 | Dead Cells: Return to Castlevania - Signature Edition | 387498 | [387498-dead-cells-return-to-castlevania-signature-edition.json](./387498-dead-cells-return-to-castlevania-signature-edition.json) |
+| Dead Cells: The Bad Seed | 127256 | [127256-dead-cells-the-bad-seed.json](./127256-dead-cells-the-bad-seed.json) |
 | Dead Cells: The Fatal Seed Bundle | 154957 | [154957-dead-cells-the-fatal-seed-bundle.json](./154957-dead-cells-the-fatal-seed-bundle.json) |
 | Dead Cells: The Queen and the Sea | 183128 | [183128-dead-cells-the-queen-and-the-sea.json](./183128-dead-cells-the-queen-and-the-sea.json) |
 | Dead Circuit | 382327 | [382327-dead-circuit.json](./382327-dead-circuit.json) |
@@ -3340,6 +3341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective of the Dead | 318179 | [318179-detective-of-the-dead.json](./318179-detective-of-the-dead.json) |
 | Detective Olivia: The Cult of Whisperers | 294448 | [294448-detective-olivia-the-cult-of-whisperers.json](./294448-detective-olivia-the-cult-of-whisperers.json) |
 | Detective Patch | 257958 | [257958-detective-patch.json](./257958-detective-patch.json) |
+| Detective Pikachu Returns | 128307 | [128307-detective-pikachu-returns.json](./128307-detective-pikachu-returns.json) |
 | Detective Puz | 133907 | [133907-detective-puz.json](./133907-detective-puz.json) |
 | Detective R & Prophet J | 402369 | [402369-detective-r-and-prophet-j.json](./402369-detective-r-and-prophet-j.json) |
 | Detective Riddles: Sherlock's Heritage 2 | 100347 | [100347-detective-riddles-sherlocks-heritage-2.json](./100347-detective-riddles-sherlocks-heritage-2.json) |
