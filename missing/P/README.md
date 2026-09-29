@@ -1234,6 +1234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Particle Fleet: Emergence | 24821 | [24821-particle-fleet-emergence.json](./24821-particle-fleet-emergence.json) |
 | Particles | 262696 | [262696-particles.json](./262696-particles.json) |
 | Particubes | 151086 | [151086-particubes.json](./151086-particubes.json) |
+| Particula | 18179 | [18179-particula.json](./18179-particula.json) |
 | Particulate | 127244 | [127244-particulate.json](./127244-particulate.json) |
 | Particulitix | 390515 | [390515-particulitix.json](./390515-particulitix.json) |
 | Partisans 1941 | 117497 | [117497-partisans-1941.json](./117497-partisans-1941.json) |
@@ -4614,6 +4615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Breeder: Oguri Cap II-sei | 284458 | [284458-pocket-breeder-oguri-cap-ii-sei.json](./284458-pocket-breeder-oguri-cap-ii-sei.json) |
 | Pocket Build | 88881 | [88881-pocket-build.json](./88881-pocket-build.json) |
 | Pocket Car: VR Ground | 113749 | [113749-pocket-car-vr-ground.json](./113749-pocket-car-vr-ground.json) |
+| Pocket Card Jockey | 18196 | [18196-pocket-card-jockey.json](./18196-pocket-card-jockey.json) |
 | Pocket Card Jockey: Ride On! | 230543 | [230543-pocket-card-jockey-ride-on.json](./230543-pocket-card-jockey-ride-on.json) |
 | Pocket Chibi - Anime Dress Up | 104454 | [104454-pocket-chibi-anime-dress-up.json](./104454-pocket-chibi-anime-dress-up.json) |
 | Pocket City | 79996 | [79996-pocket-city.json](./79996-pocket-city.json) |
