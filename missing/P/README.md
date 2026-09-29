@@ -2883,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piczle Lines DX Bundle | 147788 | [147788-piczle-lines-dx-bundle.json](./147788-piczle-lines-dx-bundle.json) |
 | Piczle Puzzle Adventures + Picto Quest Puzzle Bundle | 145690 | [145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json](./145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json) |
 | Piczle Puzzle Pack 3-in-1 | 136960 | [136960-piczle-puzzle-pack-3-in-1.json](./136960-piczle-puzzle-pack-3-in-1.json) |
+| Pid | 1892 | [1892-pid.json](./1892-pid.json) |
 | Pid | 225890 | [225890-pid.json](./225890-pid.json) |
 | Pido1 | 105367 | [105367-pido1.json](./105367-pido1.json) |
 | Pie in the Sky | 298346 | [298346-pie-in-the-sky.json](./298346-pie-in-the-sky.json) |
@@ -4379,6 +4380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayBound | 126662 | [126662-playbound.json](./126662-playbound.json) |
 | Playboy Casino | 57922 | [57922-playboy-casino.json](./57922-playboy-casino.json) |
 | Playboy Manager | 68309 | [68309-playboy-manager.json](./68309-playboy-manager.json) |
+| Playboy: The Mansion | 2161 | [2161-playboy-the-mansion.json](./2161-playboy-the-mansion.json) |
 | Playboy: The Mansion - Private Party | 68037 | [68037-playboy-the-mansion-private-party.json](./68037-playboy-the-mansion-private-party.json) |
 | PlayChapas | 177934 | [177934-playchapas.json](./177934-playchapas.json) |
 | Playdate Bunny Bundle | 245320 | [245320-playdate-bunny-bundle.json](./245320-playdate-bunny-bundle.json) |
@@ -6508,6 +6510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Boss: Prohibition - Plucked Pack | 362488 | [362488-prison-boss-prohibition-plucked-pack.json](./362488-prison-boss-prohibition-plucked-pack.json) |
 | Prison Break | 110781 | [110781-prison-break.json](./110781-prison-break.json) |
 | Prison Break | 353368 | [353368-prison-break.json](./353368-prison-break.json) |
+| Prison Break: The Conspiracy | 557 | [557-prison-break-the-conspiracy.json](./557-prison-break-the-conspiracy.json) |
 | Prison Chainball Massacre | 75170 | [75170-prison-chainball-massacre.json](./75170-prison-chainball-massacre.json) |
 | Prison City | 226729 | [226729-prison-city.json](./226729-prison-city.json) |
 | Prison Empire Tycoon: Idle Game | 231907 | [231907-prison-empire-tycoon-idle-game.json](./231907-prison-empire-tycoon-idle-game.json) |
