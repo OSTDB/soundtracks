@@ -1789,6 +1789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Path | 118264 | [118264-deadly-path.json](./118264-deadly-path.json) |
 | Deadly Premonition | 1276 | [1276-deadly-premonition.json](./1276-deadly-premonition.json) |
 | Deadly Premonition 2: A Blessing in Disguise | 122232 | [122232-deadly-premonition-2-a-blessing-in-disguise.json](./122232-deadly-premonition-2-a-blessing-in-disguise.json) |
+| Deadly Premonition Origins | 122234 | [122234-deadly-premonition-origins.json](./122234-deadly-premonition-origins.json) |
 | Deadly Premonition: Director's Cut | 9245 | [9245-deadly-premonition-directors-cut.json](./9245-deadly-premonition-directors-cut.json) |
 | Deadly Premonition: The Director's Cut - Classified Edition | 51538 | [51538-deadly-premonition-the-directors-cut-classified-edition.json](./51538-deadly-premonition-the-directors-cut-classified-edition.json) |
 | Deadly Premonition: The Director's Cut Ultimate Edition | 26925 | [26925-deadly-premonition-the-directors-cut-ultimate-edition.json](./26925-deadly-premonition-the-directors-cut-ultimate-edition.json) |
@@ -2918,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depict1 | 186635 | [186635-depict1.json](./186635-depict1.json) |
 | Depixtion: Halloween Edition | 336909 | [336909-depixtion-halloween-edition.json](./336909-depixtion-halloween-edition.json) |
 | DEPO: Death Epileptic Pixel Origins | 207316 | [207316-depo-death-epileptic-pixel-origins.json](./207316-depo-death-epileptic-pixel-origins.json) |
+| Deponia Collection | 119068 | [119068-deponia-collection.json](./119068-deponia-collection.json) |
 | Deponia: The Complete Journey | 17224 | [17224-deponia-the-complete-journey.json](./17224-deponia-the-complete-journey.json) |
 | Deported: Drain the Swamp | 111422 | [111422-deported-drain-the-swamp.json](./111422-deported-drain-the-swamp.json) |
 | DepowerBall | 126607 | [126607-depowerball.json](./126607-depowerball.json) |
@@ -4533,6 +4535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Tsum Tsum Festival | 115332 | [115332-disney-tsum-tsum-festival.json](./115332-disney-tsum-tsum-festival.json) |
 | Disney Tsum Tsum Land | 125808 | [125808-disney-tsum-tsum-land.json](./125808-disney-tsum-tsum-land.json) |
 | Disney Tsum Tsum Stadium | 250331 | [250331-disney-tsum-tsum-stadium.json](./250331-disney-tsum-tsum-stadium.json) |
+| Disney Twisted-Wonderland | 117776 | [117776-disney-twisted-wonderland.json](./117776-disney-twisted-wonderland.json) |
 | Disney Two Pack I Big Hero 6: Battle In the Bay & Frozen: Olaf's Quest | 79914 | [79914-disney-two-pack-i-big-hero-6-battle-in-the-bay-and-frozen-olafs-quest.json](./79914-disney-two-pack-i-big-hero-6-battle-in-the-bay-and-frozen-olafs-quest.json) |
 | Disney XD Grand Prix | 361336 | [361336-disney-xd-grand-prix.json](./361336-disney-xd-grand-prix.json) |
 | Disney's 102 Dalmatians: Puppies to the Rescue | 2361 | [2361-disneys-102-dalmatians-puppies-to-the-rescue.json](./2361-disneys-102-dalmatians-puppies-to-the-rescue.json) |
@@ -4556,7 +4559,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Atlantis: The Lost Empire | 9056 | [9056-disneys-atlantis-the-lost-empire.json](./9056-disneys-atlantis-the-lost-empire.json) |
 | Disney's Atlantis: The Lost Empire - Trial by Fire | 78004 | [78004-disneys-atlantis-the-lost-empire-trial-by-fire.json](./78004-disneys-atlantis-the-lost-empire-trial-by-fire.json) |
 | Disney's Beauty and the Beast: A Board Game Adventure | 65583 | [65583-disneys-beauty-and-the-beast-a-board-game-adventure.json](./65583-disneys-beauty-and-the-beast-a-board-game-adventure.json) |
+| Disney's Beauty and the Beast: Belle's Quest | 46233 | [46233-disneys-beauty-and-the-beast-belles-quest.json](./46233-disneys-beauty-and-the-beast-belles-quest.json) |
 | Disney's Beauty and the Beast: Magical Ballroom | 57919 | [57919-disneys-beauty-and-the-beast-magical-ballroom.json](./57919-disneys-beauty-and-the-beast-magical-ballroom.json) |
+| Disney's Bonkers | 45564 | [45564-disneys-bonkers.json](./45564-disneys-bonkers.json) |
 | Disney's Bonkers: Wax Up! | 57622 | [57622-disneys-bonkers-wax-up.json](./57622-disneys-bonkers-wax-up.json) |
 | Disney's Brother Bear | 248637 | [248637-disneys-brother-bear.json](./248637-disneys-brother-bear.json) |
 | Disney's Brother Bear | 49409 | [49409-disneys-brother-bear.json](./49409-disneys-brother-bear.json) |
@@ -4592,6 +4597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Reading Quest with Aladdin | 208897 | [208897-disneys-reading-quest-with-aladdin.json](./208897-disneys-reading-quest-with-aladdin.json) |
 | Disney's Stitch: Experiment 626 | 25911 | [25911-disneys-stitch-experiment-626.json](./25911-disneys-stitch-experiment-626.json) |
 | Disney's TaleSpin | 198936 | [198936-disneys-talespin.json](./198936-disneys-talespin.json) |
+| Disney's Tarzan | 116135 | [116135-disneys-tarzan.json](./116135-disneys-tarzan.json) |
 | Disney's Tarzan Activity Center | 57923 | [57923-disneys-tarzan-activity-center.json](./57923-disneys-tarzan-activity-center.json) |
 | Disney's Tarzan: Return to the Jungle | 49339 | [49339-disneys-tarzan-return-to-the-jungle.json](./49339-disneys-tarzan-return-to-the-jungle.json) |
 | Disney's Tarzan: Untamed | 10625 | [10625-disneys-tarzan-untamed.json](./10625-disneys-tarzan-untamed.json) |
