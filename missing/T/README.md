@@ -5246,6 +5246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XV: DLC Costume "Classic Leona" | 332031 | [332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json](./332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json) |
 | The King of Fighters XV: Team Garou | 195801 | [195801-the-king-of-fighters-xv-team-garou.json](./195801-the-king-of-fighters-xv-team-garou.json) |
 | The King of Fighters: Maximum Impact - Maniax | 47322 | [47322-the-king-of-fighters-maximum-impact-maniax.json](./47322-the-king-of-fighters-maximum-impact-maniax.json) |
+| The King of Fighters: World | 26802 | [26802-the-king-of-fighters-world.json](./26802-the-king-of-fighters-world.json) |
 | The King of Figthers 99 | 43912 | [43912-the-king-of-figthers-99.json](./43912-the-king-of-figthers-99.json) |
 | The King of Golf | 228553 | [228553-the-king-of-golf.json](./228553-the-king-of-golf.json) |
 | The King of the Wood | 22368 | [22368-the-king-of-the-wood.json](./22368-the-king-of-the-wood.json) |
@@ -7100,6 +7101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The S.H.O.W. | 412964 | [412964-the-s-h-o-w.json](./412964-the-s-h-o-w.json) |
 | The Saboteur | 3171 | [3171-the-saboteur.json](./3171-the-saboteur.json) |
 | The Sacred Acorn | 141175 | [141175-the-sacred-acorn.json](./141175-the-sacred-acorn.json) |
+| The Sacred Hero | 26872 | [26872-the-sacred-hero.json](./26872-the-sacred-hero.json) |
 | The Sacred Mirror of Kofun | 70081 | [70081-the-sacred-mirror-of-kofun.json](./70081-the-sacred-mirror-of-kofun.json) |
 | The Sacrifice | 89210 | [89210-the-sacrifice.json](./89210-the-sacrifice.json) |
 | The Sacrificial Girl of the Fantasy 3 Kingdoms: Shu | 130206 | [130206-the-sacrificial-girl-of-the-fantasy-3-kingdoms-shu.json](./130206-the-sacrificial-girl-of-the-fantasy-3-kingdoms-shu.json) |
@@ -10775,6 +10777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanfall 2: Deluxe Edition | 53805 | [53805-titanfall-2-deluxe-edition.json](./53805-titanfall-2-deluxe-edition.json) |
 | Titanfall 2: Nitro Scorch Pack | 170862 | [170862-titanfall-2-nitro-scorch-pack.json](./170862-titanfall-2-nitro-scorch-pack.json) |
 | Titanfall 3 | 77418 | [77418-titanfall-3.json](./77418-titanfall-3.json) |
+| Titanfall Frontline | 26790 | [26790-titanfall-frontline.json](./26790-titanfall-frontline.json) |
 | Titanfall Frontline | 400292 | [400292-titanfall-frontline.json](./400292-titanfall-frontline.json) |
 | Titanfall: Deluxe Edition | 83876 | [83876-titanfall-deluxe-edition.json](./83876-titanfall-deluxe-edition.json) |
 | Titanic | 10842 | [10842-titanic.json](./10842-titanic.json) |
