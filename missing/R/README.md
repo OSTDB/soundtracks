@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Clash Club | 174816 | [174816-racing-clash-club.json](./174816-racing-clash-club.json) |
 | Racing Classics Pro: Drag Race & Real Speed | 187476 | [187476-racing-classics-pro-drag-race-and-real-speed.json](./187476-racing-classics-pro-drag-race-and-real-speed.json) |
 | Racing Combat | 255040 | [255040-racing-combat.json](./255040-racing-combat.json) |
+| Racing Destruction Set | 25892 | [25892-racing-destruction-set.json](./25892-racing-destruction-set.json) |
 | Racing Djani 2 | 156050 | [156050-racing-djani-2.json](./156050-racing-djani-2.json) |
 | Racing Drift Taxi Car Simulator Ultimate | 251046 | [251046-racing-drift-taxi-car-simulator-ultimate.json](./251046-racing-drift-taxi-car-simulator-ultimate.json) |
 | Racing Empires | 245016 | [245016-racing-empires.json](./245016-racing-empires.json) |
@@ -3557,6 +3558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rip-Tide Racer | 50023 | [50023-rip-tide-racer.json](./50023-rip-tide-racer.json) |
 | RIP: Ridiculously Injury Prone | 253443 | [253443-rip-ridiculously-injury-prone.json](./253443-rip-ridiculously-injury-prone.json) |
 | Ripcord | 95419 | [95419-ripcord.json](./95419-ripcord.json) |
+| Ripened Tingle's Balloon Trip of Love | 25840 | [25840-ripened-tingles-balloon-trip-of-love.json](./25840-ripened-tingles-balloon-trip-of-love.json) |
 | Ripgraze | 415096 | [415096-ripgraze.json](./415096-ripgraze.json) |
 | Ripped/Apart | 133397 | [133397-ripped-apart.json](./133397-ripped-apart.json) |
 | Ripper Ribbit | 130899 | [130899-ripper-ribbit.json](./130899-ripper-ribbit.json) |
@@ -5151,6 +5153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roulette Simulator 2024 | 266804 | [266804-roulette-simulator-2024.json](./266804-roulette-simulator-2024.json) |
 | Roulette Simulator 2025 | 310503 | [310503-roulette-simulator-2025.json](./310503-roulette-simulator-2025.json) |
 | Roulette VIP | 256252 | [256252-roulette-vip.json](./256252-roulette-vip.json) |
+| Round About | 25858 | [25858-round-about.json](./25858-round-about.json) |
 | Round Invaders Rush 2 | 214039 | [214039-round-invaders-rush-2.json](./214039-round-invaders-rush-2.json) |
 | Round My Corners | 301241 | [301241-round-my-corners.json](./301241-round-my-corners.json) |
 | Round Spike | 348954 | [348954-round-spike.json](./348954-round-spike.json) |
