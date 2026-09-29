@@ -2109,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirRevo | 187453 | [187453-airrevo.json](./187453-airrevo.json) |
 | Airs Adventure | 45430 | [45430-airs-adventure.json](./45430-airs-adventure.json) |
 | Airship: Kingdoms Adrift | 231336 | [231336-airship-kingdoms-adrift.json](./231336-airship-kingdoms-adrift.json) |
+| Airships: Conquer the Skies | 35934 | [35934-airships-conquer-the-skies.json](./35934-airships-conquer-the-skies.json) |
 | Airships: Heroes and Villains | 244353 | [244353-airships-heroes-and-villains.json](./244353-airships-heroes-and-villains.json) |
 | Airsoft Bomb | 102575 | [102575-airsoft-bomb.json](./102575-airsoft-bomb.json) |
 | Airsoft Range | 312192 | [312192-airsoft-range.json](./312192-airsoft-range.json) |
@@ -3150,6 +3151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alter Ego | 305386 | [305386-alter-ego.json](./305386-alter-ego.json) |
 | Alter Ego Complex | 174307 | [174307-alter-ego-complex.json](./174307-alter-ego-complex.json) |
 | Alter Ego: DreamWalker | 63535 | [63535-alter-ego-dreamwalker.json](./63535-alter-ego-dreamwalker.json) |
+| Alter World | 35588 | [35588-alter-world.json](./35588-alter-world.json) |
 | Alteration | 180803 | [180803-alteration.json](./180803-alteration.json) |
 | Alteration | 379368 | [379368-alteration.json](./379368-alteration.json) |
 | Altered | 117645 | [117645-altered.json](./117645-altered.json) |
