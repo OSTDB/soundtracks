@@ -973,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achromatic | 203807 | [203807-achromatic.json](./203807-achromatic.json) |
 | Achtung Franz: Quest for Wine | 314993 | [314993-achtung-franz-quest-for-wine.json](./314993-achtung-franz-quest-for-wine.json) |
 | Achtung Spitfire | 86015 | [86015-achtung-spitfire.json](./86015-achtung-spitfire.json) |
+| Acid Drop | 11111 | [11111-acid-drop.json](./11111-acid-drop.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
 | Acid Moon | 135092 | [135092-acid-moon.json](./135092-acid-moon.json) |
 | Acid Reflux | 274437 | [274437-acid-reflux.json](./274437-acid-reflux.json) |
@@ -1367,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of the Old Testament: The Bible Video Game | 211395 | [211395-adventures-of-the-old-testament-the-bible-video-game.json](./211395-adventures-of-the-old-testament-the-bible-video-game.json) |
 | Adventures of the Stalk of Celery | 404416 | [404416-adventures-of-the-stalk-of-celery.json](./404416-adventures-of-the-stalk-of-celery.json) |
 | Adventures of Tom Sawyer | 48109 | [48109-adventures-of-tom-sawyer.json](./48109-adventures-of-tom-sawyer.json) |
+| Adventures of Tron | 11112 | [11112-adventures-of-tron.json](./11112-adventures-of-tron.json) |
 | Adventures of Yogi Bear | 8010 | [8010-adventures-of-yogi-bear.json](./8010-adventures-of-yogi-bear.json) |
 | Adventures on The Polluted Islands | 27721 | [27721-adventures-on-the-polluted-islands.json](./27721-adventures-on-the-polluted-islands.json) |
 | Adventures with Alan Parkour 3D | 369557 | [369557-adventures-with-alan-parkour-3d.json](./369557-adventures-with-alan-parkour-3d.json) |
@@ -1940,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Racer | 382187 | [382187-air-racer.json](./382187-air-racer.json) |
 | Air Racer: Sky Traffic | 232156 | [232156-air-racer-sky-traffic.json](./232156-air-racer-sky-traffic.json) |
 | Air Racing VR | 192445 | [192445-air-racing-vr.json](./192445-air-racing-vr.json) |
+| Air Raid | 11113 | [11113-air-raid.json](./11113-air-raid.json) |
 | Air Raid 3 | 68270 | [68270-air-raid-3.json](./68270-air-raid-3.json) |
 | Air Raid Over Britain | 89949 | [89949-air-raid-over-britain.json](./89949-air-raid-over-britain.json) |
 | Air Raiders | 11114 | [11114-air-raiders.json](./11114-air-raiders.json) |
@@ -2630,6 +2633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Shooter 2: New Era | 203883 | [203883-alien-shooter-2-new-era.json](./203883-alien-shooter-2-new-era.json) |
 | Alien Shooter 2: Reloaded | 11088 | [11088-alien-shooter-2-reloaded.json](./11088-alien-shooter-2-reloaded.json) |
 | Alien Shooter 3D | 152770 | [152770-alien-shooter-3d.json](./152770-alien-shooter-3d.json) |
+| Alien Shooter: Fight for Life | 11089 | [11089-alien-shooter-fight-for-life.json](./11089-alien-shooter-fight-for-life.json) |
 | Alien Shooter: Revisited | 16016 | [16016-alien-shooter-revisited.json](./16016-alien-shooter-revisited.json) |
 | Alien Shooter: Revisted | 50844 | [50844-alien-shooter-revisted.json](./50844-alien-shooter-revisted.json) |
 | Alien Shooter: The Experiment | 11090 | [11090-alien-shooter-the-experiment.json](./11090-alien-shooter-the-experiment.json) |
@@ -2930,6 +2934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allied Star Police | 22336 | [22336-allied-star-police.json](./22336-allied-star-police.json) |
 | Alligator Hunt | 38519 | [38519-alligator-hunt.json](./38519-alligator-hunt.json) |
 | Alligator Mix | 42194 | [42194-alligator-mix.json](./42194-alligator-mix.json) |
+| Alligator People | 11115 | [11115-alligator-people.json](./11115-alligator-people.json) |
 | Alligori | 272866 | [272866-alligori.json](./272866-alligori.json) |
 | Allison Road | 11296 | [11296-allison-road.json](./11296-allison-road.json) |
 | Allison's Diary: Rebirth | 112771 | [112771-allisons-diary-rebirth.json](./112771-allisons-diary-rebirth.json) |
@@ -4929,6 +4934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquatopia | 44601 | [44601-aquatopia.json](./44601-aquatopia.json) |
 | Aquattack | 12293 | [12293-aquattack.json](./12293-aquattack.json) |
 | Aquaventura | 14263 | [14263-aquaventura.json](./14263-aquaventura.json) |
+| Aquaventure | 11117 | [11117-aquaventure.json](./11117-aquaventure.json) |
 | Aquavern | 416677 | [416677-aquavern.json](./416677-aquavern.json) |
 | Aquavias | 96757 | [96757-aquavias.json](./96757-aquavias.json) |
 | Aquaville | 373612 | [373612-aquaville.json](./373612-aquaville.json) |
@@ -5793,6 +5799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armis | 186039 | [186039-armis.json](./186039-armis.json) |
 | Armless Samurai | 296454 | [296454-armless-samurai.json](./296454-armless-samurai.json) |
 | Armobiles | 122976 | [122976-armobiles.json](./122976-armobiles.json) |
+| Armor Ambush | 11126 | [11126-armor-ambush.json](./11126-armor-ambush.json) |
 | Armor Assault | 24898 | [24898-armor-assault.json](./24898-armor-assault.json) |
 | Armor Attack | 382918 | [382918-armor-attack.json](./382918-armor-attack.json) |
 | Armor Battle | 245574 | [245574-armor-battle.json](./245574-armor-battle.json) |
