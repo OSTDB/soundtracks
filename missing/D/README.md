@@ -2843,6 +2843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densha de D: Rising Stage | 55924 | [55924-densha-de-d-rising-stage.json](./55924-densha-de-d-rising-stage.json) |
 | Densha de D: Shining Stage | 137560 | [137560-densha-de-d-shining-stage.json](./137560-densha-de-d-shining-stage.json) |
 | Densha de GO! | 146907 | [146907-densha-de-go.json](./146907-densha-de-go.json) |
+| Densha de Go! 2 | 37286 | [37286-densha-de-go-2.json](./37286-densha-de-go-2.json) |
 | Densha de GO! 64 | 3469 | [3469-densha-de-go-64.json](./3469-densha-de-go-64.json) |
 | Densha de GO! EX | 94351 | [94351-densha-de-go-ex.json](./94351-densha-de-go-ex.json) |
 | Densha de GO! Tokubetsu-hen: Fukkatsu Shouwa no Yamanotesen | 66660 | [66660-densha-de-go-tokubetsu-hen-fukkatsu-shouwa-no-yamanotesen.json](./66660-densha-de-go-tokubetsu-hen-fukkatsu-shouwa-no-yamanotesen.json) |
