@@ -4440,7 +4440,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitzkrieg: Battle at the Ardennes | 14318 | [14318-blitzkrieg-battle-at-the-ardennes.json](./14318-blitzkrieg-battle-at-the-ardennes.json) |
 | Blitzkrieg: Complete Collection | 52652 | [52652-blitzkrieg-complete-collection.json](./52652-blitzkrieg-complete-collection.json) |
 | Blitzkrieg: Iron Division | 11264 | [11264-blitzkrieg-iron-division.json](./11264-blitzkrieg-iron-division.json) |
+| Blitzkrieg: Mission Barbarossa | 55956 | [55956-blitzkrieg-mission-barbarossa.json](./55956-blitzkrieg-mission-barbarossa.json) |
+| Blitzkrieg: Mission Kursk | 55958 | [55958-blitzkrieg-mission-kursk.json](./55958-blitzkrieg-mission-kursk.json) |
+| Blitzkrieg: Operation North | 55957 | [55957-blitzkrieg-operation-north.json](./55957-blitzkrieg-operation-north.json) |
 | Blitzkrieg: Rolling Thunder | 11263 | [11263-blitzkrieg-rolling-thunder.json](./11263-blitzkrieg-rolling-thunder.json) |
+| Blitzkrieg: Total Challenge | 55955 | [55955-blitzkrieg-total-challenge.json](./55955-blitzkrieg-total-challenge.json) |
 | Blitzkrieg: Toubu Sensen 1941-45 | 242517 | [242517-blitzkrieg-toubu-sensen-1941-45.json](./242517-blitzkrieg-toubu-sensen-1941-45.json) |
 | BlitzPunch | 188123 | [188123-blitzpunch.json](./188123-blitzpunch.json) |
 | Blix & Chocolate Mine | 145031 | [145031-blix-and-chocolate-mine.json](./145031-blix-and-chocolate-mine.json) |
@@ -6298,6 +6302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brandish 2: The Planet Buster | 381268 | [381268-brandish-2-the-planet-buster.json](./381268-brandish-2-the-planet-buster.json) |
 | Brandish 2: The Planet Buster | 42212 | [42212-brandish-2-the-planet-buster.json](./42212-brandish-2-the-planet-buster.json) |
 | Brandnew Boy | 38975 | [38975-brandnew-boy.json](./38975-brandnew-boy.json) |
+| Brands Hatch | 55997 | [55997-brands-hatch.json](./55997-brands-hatch.json) |
 | Branmarker | 65035 | [65035-branmarker.json](./65035-branmarker.json) |
 | Branmarker 2 | 64977 | [64977-branmarker-2.json](./64977-branmarker-2.json) |
 | BrantSteele | 56578 | [56578-brantsteele.json](./56578-brantsteele.json) |
