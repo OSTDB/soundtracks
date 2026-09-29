@@ -1665,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Rampage: Smash the City! | 100329 | [100329-jurassic-rampage-smash-the-city.json](./100329-jurassic-rampage-smash-the-city.json) |
 | Jurassic Survival Island: Evolve | 194026 | [194026-jurassic-survival-island-evolve.json](./194026-jurassic-survival-island-evolve.json) |
 | Jurassic Tower Defense | 301403 | [301403-jurassic-tower-defense.json](./301403-jurassic-tower-defense.json) |
+| Jurassic War | 14456 | [14456-jurassic-war.json](./14456-jurassic-war.json) |
 | Jurassic Warfare: Dinosaur Combat Arena | 90695 | [90695-jurassic-warfare-dinosaur-combat-arena.json](./90695-jurassic-warfare-dinosaur-combat-arena.json) |
 | Jurassic World Aftermath Collection | 223741 | [223741-jurassic-world-aftermath-collection.json](./223741-jurassic-world-aftermath-collection.json) |
 | Jurassic World Alive | 90084 | [90084-jurassic-world-alive.json](./90084-jurassic-world-alive.json) |
