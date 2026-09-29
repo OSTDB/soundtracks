@@ -2206,6 +2206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Echo | 25762 | [25762-deep-echo.json](./25762-deep-echo.json) |
 | Deep Fear | 46057 | [46057-deep-fear.json](./46057-deep-fear.json) |
 | Deep Fishing | 188091 | [188091-deep-fishing.json](./188091-deep-fishing.json) |
+| Deep Freeze | 44757 | [44757-deep-freeze.json](./44757-deep-freeze.json) |
 | Deep Fried Nikki | 229667 | [229667-deep-fried-nikki.json](./229667-deep-fried-nikki.json) |
 | Deep Fry Maker | 227520 | [227520-deep-fry-maker.json](./227520-deep-fry-maker.json) |
 | Deep Golf | 250658 | [250658-deep-golf.json](./250658-deep-golf.json) |
@@ -7304,6 +7305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droplets | 327338 | [327338-droplets.json](./327338-droplets.json) |
 | Dropoff | 410269 | [410269-dropoff.json](./410269-dropoff.json) |
 | Dropped into the Modern World: Surviving the Red-Light District | 311623 | [311623-dropped-into-the-modern-world-surviving-the-red-light-district.json](./311623-dropped-into-the-modern-world-surviving-the-red-light-district.json) |
+| Dropship: United Peace Force | 44723 | [44723-dropship-united-peace-force.json](./44723-dropship-united-peace-force.json) |
 | Dropshipping Simulator | 155993 | [155993-dropshipping-simulator.json](./155993-dropshipping-simulator.json) |
 | Droptch | 164920 | [164920-droptch.json](./164920-droptch.json) |
 | DropZap | 174182 | [174182-dropzap.json](./174182-dropzap.json) |
@@ -7428,6 +7430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DS Yamamura Misa Suspense: Maiko Kogiku / Kisha Katherine / Sougiya Ishihara Akiko / Koto ni Mauhana Sanrin - Kyoto Satujin Jiken File | 269575 | [269575-ds-yamamura-misa-suspense-maiko-kogiku-kisha-katherine-sougiya-ishihara-akiko-koto-ni-mauhana-sanrin-kyoto-satujin-jiken-file.json](./269575-ds-yamamura-misa-suspense-maiko-kogiku-kisha-katherine-sougiya-ishihara-akiko-koto-ni-mauhana-sanrin-kyoto-satujin-jiken-file.json) |
 | DsDooM3 | 314899 | [314899-dsdoom3.json](./314899-dsdoom3.json) |
 | DSS war party | 286071 | [286071-dss-war-party.json](./286071-dss-war-party.json) |
+| DT Racer | 44709 | [44709-dt-racer.json](./44709-dt-racer.json) |
 | DT Racer Refueled | 68306 | [68306-dt-racer-refueled.json](./68306-dt-racer-refueled.json) |
 | DT: Lords of Genomes | 65523 | [65523-dt-lords-of-genomes.json](./65523-dt-lords-of-genomes.json) |
 | DTET | 341123 | [341123-dtet.json](./341123-dtet.json) |
@@ -7448,6 +7451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Eclipse | 309848 | [309848-dual-eclipse.json](./309848-dual-eclipse.json) |
 | Dual Force | 413669 | [413669-dual-force.json](./413669-dual-force.json) |
 | Dual Fury | 187842 | [187842-dual-fury.json](./187842-dual-fury.json) |
+| Dual Hearts | 44717 | [44717-dual-hearts.json](./44717-dual-hearts.json) |
 | Dual Heroes | 3477 | [3477-dual-heroes.json](./3477-dual-heroes.json) |
 | Dual Orb | 15906 | [15906-dual-orb.json](./15906-dual-orb.json) |
 | Dual Orb II | 15907 | [15907-dual-orb-ii.json](./15907-dual-orb-ii.json) |
