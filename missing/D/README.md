@@ -7253,6 +7253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill Core: The Machine World | 399016 | [399016-drill-core-the-machine-world.json](./399016-drill-core-the-machine-world.json) |
 | Drill Deal | 118816 | [118816-drill-deal.json](./118816-drill-deal.json) |
 | Drill Deep | 400957 | [400957-drill-deep.json](./400957-drill-deep.json) |
+| Drill Dozer | 6390 | [6390-drill-dozer.json](./6390-drill-dozer.json) |
 | Drill Keeper | 253370 | [253370-drill-keeper.json](./253370-drill-keeper.json) |
 | Drill Man Rumble | 126501 | [126501-drill-man-rumble.json](./126501-drill-man-rumble.json) |
 | Drill Rift | 355128 | [355128-drill-rift.json](./355128-drill-rift.json) |
