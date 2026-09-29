@@ -708,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 25°N 71°W | 192159 | [192159-25-n-71-w.json](./192159-25-n-71-w.json) |
 | 25°N 71°W Remastered | 279680 | [279680-25-n-71-w-remastered.json](./279680-25-n-71-w-remastered.json) |
 | 250-man-nin no Kanken Premium: Zenkyuu Zen-Kanji Kanzen Seiha | 342835 | [342835-250-man-nin-no-kanken-premium-zenkyuu-zen-kanji-kanzen-seiha.json](./342835-250-man-nin-no-kanken-premium-zenkyuu-zen-kanji-kanzen-seiha.json) |
+| 250-man-nin no Kanken: Wii de Tokoton Kanji Nou | 60082 | [60082-250-man-nin-no-kanken-wii-de-tokoton-kanji-nou.json](./60082-250-man-nin-no-kanken-wii-de-tokoton-kanji-nou.json) |
 | 256 cosas en común entre una cama, un libro y una cerveza | 331972 | [331972-256-cosas-en-comun-entre-una-cama-un-libro-y-una-cerveza.json](./331972-256-cosas-en-comun-entre-una-cama-un-libro-y-una-cerveza.json) |
 | 25920 | 337614 | [337614-25920.json](./337614-25920.json) |
 | 25th Century Duke | 273131 | [273131-25th-century-duke.json](./273131-25th-century-duke.json) |
@@ -1336,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Élan Vital | 114545 | [114545-elan-vital.json](./114545-elan-vital.json) |
 | Été | 118265 | [118265-ete.json](./118265-ete.json) |
 | ​Gooseball Playdate: Plus Slingshot / Spars | 271699 | [271699-gooseball-playdate-plus-slingshot-spars.json](./271699-gooseball-playdate-plus-slingshot-spars.json) |
+| İstanbul Kıyamet Vakti | 58900 | [58900-istanbul-k-yamet-vakti.json](./58900-istanbul-k-yamet-vakti.json) |
 | Łowca Głów | 98944 | [98944-owca-g-ow.json](./98944-owca-g-ow.json) |
 | Ñamto | 379383 | [379383-namto.json](./379383-namto.json) |
 | Ødeborg | 356297 | [356297-deborg.json](./356297-deborg.json) |
