@@ -1345,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schemata | 90059 | [90059-schemata.json](./90059-schemata.json) |
 | Scheming Through the Zombie Apocalypse: Episode 2 - Caged | 110542 | [110542-scheming-through-the-zombie-apocalypse-episode-2-caged.json](./110542-scheming-through-the-zombie-apocalypse-episode-2-caged.json) |
 | Schiffbruch | 76251 | [76251-schiffbruch.json](./76251-schiffbruch.json) |
+| SCHiM | 140799 | [140799-schim.json](./140799-schim.json) |
 | Schism | 266227 | [266227-schism.json](./266227-schism.json) |
 | Schizo Dark | 368481 | [368481-schizo-dark.json](./368481-schizo-dark.json) |
 | Schizophrenia | 133203 | [133203-schizophrenia.json](./133203-schizophrenia.json) |
@@ -5351,6 +5352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixty Jumps to Ceres | 258479 | [258479-sixty-jumps-to-ceres.json](./258479-sixty-jumps-to-ceres.json) |
 | Sixty Words by Powgi | 206719 | [206719-sixty-words-by-powgi.json](./206719-sixty-words-by-powgi.json) |
 | Size Matters! | 331709 | [331709-size-matters.json](./331709-size-matters.json) |
+| Sizeable | 139605 | [139605-sizeable.json](./139605-sizeable.json) |
 | Sizif | 257433 | [257433-sizif.json](./257433-sizif.json) |
 | SJ-19 Learns to Love! | 144112 | [144112-sj-19-learns-to-love.json](./144112-sj-19-learns-to-love.json) |
 | Sk8 | 75918 | [75918-sk8.json](./75918-sk8.json) |
@@ -5387,6 +5389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate Samurai | 185096 | [185096-skate-samurai.json](./185096-skate-samurai.json) |
 | Skate Shop Simulator | 211269 | [211269-skate-shop-simulator.json](./211269-skate-shop-simulator.json) |
 | Skate Space | 178086 | [178086-skate-space.json](./178086-skate-space.json) |
+| Skate Story | 129964 | [129964-skate-story.json](./129964-skate-story.json) |
 | Skate the Line and Rail Grind | 115765 | [115765-skate-the-line-and-rail-grind.json](./115765-skate-the-line-and-rail-grind.json) |
 | Skate Tribe | 303232 | [303232-skate-tribe.json](./303232-skate-tribe.json) |
 | Skateball | 45329 | [45329-skateball.json](./45329-skateball.json) |
@@ -12184,6 +12187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Not Dead | 41952 | [41952-still-not-dead.json](./41952-still-not-dead.json) |
 | Still Rooms | 415924 | [415924-still-rooms.json](./415924-still-rooms.json) |
 | Still Sword for Adult | 67258 | [67258-still-sword-for-adult.json](./67258-still-sword-for-adult.json) |
+| Still There | 119886 | [119886-still-there.json](./119886-still-there.json) |
 | Still Time | 69244 | [69244-still-time.json](./69244-still-time.json) |
 | Stillborn Slayer | 189039 | [189039-stillborn-slayer.json](./189039-stillborn-slayer.json) |
 | Stillwater | 191558 | [191558-stillwater.json](./191558-stillwater.json) |
@@ -12934,6 +12938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold: Definitive Edition | 257672 | [257672-stronghold-definitive-edition.json](./257672-stronghold-definitive-edition.json) |
 | Stronghold: Definitive Edition - Valley of the Wolf Campaign | 296989 | [296989-stronghold-definitive-edition-valley-of-the-wolf-campaign.json](./296989-stronghold-definitive-edition-valley-of-the-wolf-campaign.json) |
 | Stronghold: On the Edge of Chaos | 141254 | [141254-stronghold-on-the-edge-of-chaos.json](./141254-stronghold-on-the-edge-of-chaos.json) |
+| Stronghold: Warlords | 119368 | [119368-stronghold-warlords.json](./119368-stronghold-warlords.json) |
 | Stronghold: Warlords - Rise of the Shogun Campaign | 186877 | [186877-stronghold-warlords-rise-of-the-shogun-campaign.json](./186877-stronghold-warlords-rise-of-the-shogun-campaign.json) |
 | Stronghold: Warlords - The Mongol Empire Campaign | 186879 | [186879-stronghold-warlords-the-mongol-empire-campaign.json](./186879-stronghold-warlords-the-mongol-empire-campaign.json) |
 | Strongloween: The Escape | 192424 | [192424-strongloween-the-escape.json](./192424-strongloween-the-escape.json) |
@@ -14589,6 +14594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mecha Lifter 4000 | 363916 | [363916-super-mecha-lifter-4000.json](./363916-super-mecha-lifter-4000.json) |
 | Super Mega Baseball 2: El Viejo Stadium | 171906 | [171906-super-mega-baseball-2-el-viejo-stadium.json](./171906-super-mega-baseball-2-el-viejo-stadium.json) |
 | Super Mega Baseball 2: Red Rock Park | 171907 | [171907-super-mega-baseball-2-red-rock-park.json](./171907-super-mega-baseball-2-red-rock-park.json) |
+| Super Mega Baseball 3 | 131946 | [131946-super-mega-baseball-3.json](./131946-super-mega-baseball-3.json) |
 | Super Mega Baseball 4: Castillo Arena Stadium | 266742 | [266742-super-mega-baseball-4-castillo-arena-stadium.json](./266742-super-mega-baseball-4-castillo-arena-stadium.json) |
 | Super Mega Bob | 34676 | [34676-super-mega-bob.json](./34676-super-mega-bob.json) |
 | Super Mega Hentai Collection! | 215248 | [215248-super-mega-hentai-collection.json](./215248-super-mega-hentai-collection.json) |
