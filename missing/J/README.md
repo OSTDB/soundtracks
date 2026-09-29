@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Saves Easter | 193479 | [193479-jack-saves-easter.json](./193479-jack-saves-easter.json) |
 | Jack Sprite vs. The Crimson Ghost | 45923 | [45923-jack-sprite-vs-the-crimson-ghost.json](./45923-jack-sprite-vs-the-crimson-ghost.json) |
 | Jack Sprout | 157485 | [157485-jack-sprout.json](./157485-jack-sprout.json) |
+| Jack the Nipper II: In Coconut Capers | 40944 | [40944-jack-the-nipper-ii-in-coconut-capers.json](./40944-jack-the-nipper-ii-in-coconut-capers.json) |
 | Jack the Ripper | 169989 | [169989-jack-the-ripper.json](./169989-jack-the-ripper.json) |
 | Jack the Ripper: Hunter Clan | 346568 | [346568-jack-the-ripper-hunter-clan.json](./346568-jack-the-ripper-hunter-clan.json) |
 | Jack Vs Ninjas | 96769 | [96769-jack-vs-ninjas.json](./96769-jack-vs-ninjas.json) |
