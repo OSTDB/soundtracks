@@ -2365,6 +2365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wilderness Edge | 342880 | [342880-wilderness-edge.json](./342880-wilderness-edge.json) |
 | Wilderness Mosaic 3: Photo Safari | 415907 | [415907-wilderness-mosaic-3-photo-safari.json](./415907-wilderness-mosaic-3-photo-safari.json) |
 | Wilderness Survival: The Conservationist | 212895 | [212895-wilderness-survival-the-conservationist.json](./212895-wilderness-survival-the-conservationist.json) |
+| Wilderness: A Survival Adventure | 25888 | [25888-wilderness-a-survival-adventure.json](./25888-wilderness-a-survival-adventure.json) |
 | WildestDreams | 109204 | [109204-wildestdreams.json](./109204-wildestdreams.json) |
 | Wildfire | 263518 | [263518-wildfire.json](./263518-wildfire.json) |
 | Wildfire | 33813 | [33813-wildfire.json](./33813-wildfire.json) |
@@ -3295,6 +3296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woon | 315253 | [315253-woon.json](./315253-woon.json) |
 | Wooo | 260979 | [260979-wooo.json](./260979-wooo.json) |
 | Wooo 2 | 260978 | [260978-wooo-2.json](./260978-wooo-2.json) |
+| Woorld | 25867 | [25867-woorld.json](./25867-woorld.json) |
 | Wor Games | 335847 | [335847-wor-games.json](./335847-wor-games.json) |
 | Worcle Worlds | 84965 | [84965-worcle-worlds.json](./84965-worcle-worlds.json) |
 | Word | 369619 | [369619-word.json](./369619-word.json) |
