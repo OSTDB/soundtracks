@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oda-hen | 292161 | [292161-oda-hen.json](./292161-oda-hen.json) |
 | Odd Adventure of Chub, Color, 23 and You | 169973 | [169973-odd-adventure-of-chub-color-23-and-you.json](./169973-odd-adventure-of-chub-color-23-and-you.json) |
 | Odd Ball | 60588 | [60588-odd-ball.json](./60588-odd-ball.json) |
+| Odd Bot Out | 58292 | [58292-odd-bot-out.json](./58292-odd-bot-out.json) |
 | Odd Dorable | 341674 | [341674-odd-dorable.json](./341674-odd-dorable.json) |
 | Odd Guy Meets Odd Farmers | 211933 | [211933-odd-guy-meets-odd-farmers.json](./211933-odd-guy-meets-odd-farmers.json) |
 | Odd One | 177481 | [177481-odd-one.json](./177481-odd-one.json) |
@@ -1600,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Secret Storm | 3143 | [3143-operation-secret-storm.json](./3143-operation-secret-storm.json) |
 | Operation Sexy Sudoku | 187207 | [187207-operation-sexy-sudoku.json](./187207-operation-sexy-sudoku.json) |
 | Operation Siege | 235716 | [235716-operation-siege.json](./235716-operation-siege.json) |
+| Operation Smash | 58311 | [58311-operation-smash.json](./58311-operation-smash.json) |
 | Operation Snowman | 112473 | [112473-operation-snowman.json](./112473-operation-snowman.json) |
 | Operation Steel | 151732 | [151732-operation-steel.json](./151732-operation-steel.json) |
 | Operation Stutter | 406888 | [406888-operation-stutter.json](./406888-operation-stutter.json) |
