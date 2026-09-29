@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unishroom | 116816 | [116816-unishroom.json](./116816-unishroom.json) |
 | Unislot | 128572 | [128572-unislot.json](./128572-unislot.json) |
 | Unistar | 178508 | [178508-unistar.json](./178508-unistar.json) |
+| Unit 13 | 19251 | [19251-unit-13.json](./19251-unit-13.json) |
 | Unit 4: Clash of Agents | 170561 | [170561-unit-4-clash-of-agents.json](./170561-unit-4-clash-of-agents.json) |
 | Unit 42: Adrift in Space | 395043 | [395043-unit-42-adrift-in-space.json](./395043-unit-42-adrift-in-space.json) |
 | Unit Zero: Operation Black Veil | 371968 | [371968-unit-zero-operation-black-veil.json](./371968-unit-zero-operation-black-veil.json) |
@@ -1285,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal Tournament III: Black Edition | 46624 | [46624-unreal-tournament-iii-black-edition.json](./46624-unreal-tournament-iii-black-edition.json) |
 | Unreal Vendetta | 213414 | [213414-unreal-vendetta.json](./213414-unreal-vendetta.json) |
 | Unreal World | 250449 | [250449-unreal-world.json](./250449-unreal-world.json) |
+| UnReal World | 18283 | [18283-unreal-world.json](./18283-unreal-world.json) |
 | Unrecord | 246417 | [246417-unrecord.json](./246417-unrecord.json) |
 | Unregret | 386243 | [386243-unregret.json](./386243-unregret.json) |
 | Unrelaxing Quacks | 244200 | [244200-unrelaxing-quacks.json](./244200-unrelaxing-quacks.json) |
