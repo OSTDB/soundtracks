@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X2 | 79811 | [79811-x2.json](./79811-x2.json) |
 | X2 Blocks | 220197 | [220197-x2-blocks.json](./220197-x2-blocks.json) |
 | X2: Wolverine's Revenge | 4579 | [4579-x2-wolverines-revenge.json](./4579-x2-wolverines-revenge.json) |
+| X3: Albion Prelude | 9321 | [9321-x3-albion-prelude.json](./9321-x3-albion-prelude.json) |
 | X3: Farnham's Legacy | 145483 | [145483-x3-farnhams-legacy.json](./145483-x3-farnhams-legacy.json) |
 | X3: Terran Conflict | 9320 | [9320-x3-terran-conflict.json](./9320-x3-terran-conflict.json) |
 | X4: Foundations - Collector's Edition | 124803 | [124803-x4-foundations-collectors-edition.json](./124803-x4-foundations-collectors-edition.json) |
@@ -353,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xibalba | 61156 | [61156-xibalba.json](./61156-xibalba.json) |
 | Xìbāo Zhànzhēng | 116112 | [116112-xibao-zhanzheng.json](./116112-xibao-zhanzheng.json) |
 | XII Stag | 43340 | [43340-xii-stag.json](./43340-xii-stag.json) |
+| XIII Century: Blood of Europe | 9311 | [9311-xiii-century-blood-of-europe.json](./9311-xiii-century-blood-of-europe.json) |
 | XIII Century: Death or Glory | 9860 | [9860-xiii-century-death-or-glory.json](./9860-xiii-century-death-or-glory.json) |
 | Xile | 54731 | [54731-xile.json](./54731-xile.json) |
 | Xilost | 118354 | [118354-xilost.json](./118354-xilost.json) |
