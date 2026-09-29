@@ -3609,6 +3609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravels of Endless War | 149565 | [149565-gravels-of-endless-war.json](./149565-gravels-of-endless-war.json) |
 | Gravemyst | 336711 | [336711-gravemyst.json](./336711-gravemyst.json) |
 | Graven: Deluxe Edition | 336046 | [336046-graven-deluxe-edition.json](./336046-graven-deluxe-edition.json) |
+| GraveRun | 33286 | [33286-graverun.json](./33286-graverun.json) |
 | Gravewood High: Chapter 1 | 243226 | [243226-gravewood-high-chapter-1.json](./243226-gravewood-high-chapter-1.json) |
 | Gravewood High: Complete | 243227 | [243227-gravewood-high-complete.json](./243227-gravewood-high-complete.json) |
 | Graveyard | 169890 | [169890-graveyard.json](./169890-graveyard.json) |
@@ -3979,6 +3980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Iron 2 | 94220 | [94220-grid-iron-2.json](./94220-grid-iron-2.json) |
 | GRID Legends: Valentin’s Classic Car-Nage | 239593 | [239593-grid-legends-valentin-s-classic-car-nage.json](./239593-grid-legends-valentin-s-classic-car-nage.json) |
 | Grid Magic | 119785 | [119785-grid-magic.json](./119785-grid-magic.json) |
+| Grid Masters | 33337 | [33337-grid-masters.json](./33337-grid-masters.json) |
 | Grid Miner | 199496 | [199496-grid-miner.json](./199496-grid-miner.json) |
 | Grid Ranger | 304905 | [304905-grid-ranger.json](./304905-grid-ranger.json) |
 | Grid Runner | 20738 | [20738-grid-runner.json](./20738-grid-runner.json) |
