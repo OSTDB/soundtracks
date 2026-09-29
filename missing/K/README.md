@@ -2096,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights Conquest | 123060 | [123060-knights-conquest.json](./123060-knights-conquest.json) |
 | Knights End | 390270 | [390270-knights-end.json](./390270-knights-end.json) |
 | Knights Hunt | 72501 | [72501-knights-hunt.json](./72501-knights-hunt.json) |
+| Knights in the Nightmare | 20690 | [20690-knights-in-the-nightmare.json](./20690-knights-in-the-nightmare.json) |
 | Knights in the Nightmare Remaster | 222421 | [222421-knights-in-the-nightmare-remaster.json](./222421-knights-in-the-nightmare-remaster.json) |
 | Knights in Tight Spaces | 292879 | [292879-knights-in-tight-spaces.json](./292879-knights-in-tight-spaces.json) |
 | Knights of Braveland: Around the World Pack | 255963 | [255963-knights-of-braveland-around-the-world-pack.json](./255963-knights-of-braveland-around-the-world-pack.json) |
@@ -2108,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Legend | 47224 | [47224-knights-of-legend.json](./47224-knights-of-legend.json) |
 | Knights of Light | 96489 | [96489-knights-of-light.json](./96489-knights-of-light.json) |
 | Knights of Pen & Paper 3 | 240898 | [240898-knights-of-pen-and-paper-3.json](./240898-knights-of-pen-and-paper-3.json) |
+| Knights of Pen & Paper: +1 Deluxier Edition | 53259 | [53259-knights-of-pen-and-paper-1-deluxier-edition.json](./53259-knights-of-pen-and-paper-1-deluxier-edition.json) |
 | Knights of Pen and Paper +1 Edition | 2934 | [2934-knights-of-pen-and-paper-1-edition.json](./2934-knights-of-pen-and-paper-1-edition.json) |
 | Knights of Pen and Paper II | 10126 | [10126-knights-of-pen-and-paper-ii.json](./10126-knights-of-pen-and-paper-ii.json) |
 | Knights of Pen and Paper II: Here Be Dragons | 53260 | [53260-knights-of-pen-and-paper-ii-here-be-dragons.json](./53260-knights-of-pen-and-paper-ii-here-be-dragons.json) |
