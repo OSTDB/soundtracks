@@ -1733,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Hunter | 151027 | [151027-ai-hunter.json](./151027-ai-hunter.json) |
 | AI Kills All Humans | 258425 | [258425-ai-kills-all-humans.json](./258425-ai-kills-all-humans.json) |
 | Ai Kiss: Limited Edition | 167081 | [167081-ai-kiss-limited-edition.json](./167081-ai-kiss-limited-edition.json) |
+| AI Mahjong | 56534 | [56534-ai-mahjong.json](./56534-ai-mahjong.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
 | Ai Painter: Painting Simulator | 350489 | [350489-ai-painter-painting-simulator.json](./350489-ai-painter-painting-simulator.json) |
 | AI Rebellion | 90465 | [90465-ai-rebellion.json](./90465-ai-rebellion.json) |
@@ -6999,6 +7000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack: Helicopter Simulator 2020 | 171077 | [171077-attack-helicopter-simulator-2020.json](./171077-attack-helicopter-simulator-2020.json) |
 | Attack! | 356281 | [356281-attack.json](./356281-attack.json) |
 | Attack!! Hiroko-Chan | 67372 | [67372-attack-hiroko-chan.json](./67372-attack-hiroko-chan.json) |
+| Attacking Zegeta 2 | 56543 | [56543-attacking-zegeta-2.json](./56543-attacking-zegeta-2.json) |
 | Attic | 157148 | [157148-attic.json](./157148-attic.json) |
 | Attic Antiquities | 413162 | [413162-attic-antiquities.json](./413162-attic-antiquities.json) |
 | Attorney of the Arcane | 241048 | [241048-attorney-of-the-arcane.json](./241048-attorney-of-the-arcane.json) |
