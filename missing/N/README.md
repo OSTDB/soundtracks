@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Shinobi Breakdown | 243415 | [243415-naruto-shinobi-breakdown.json](./243415-naruto-shinobi-breakdown.json) |
 | Naruto Shippuden: Clash of Ninja Revolution 3 | 19656 | [19656-naruto-shippuden-clash-of-ninja-revolution-3.json](./19656-naruto-shippuden-clash-of-ninja-revolution-3.json) |
 | Naruto Shippuden: Dairansen! Kage Bunshin Emaki | 61026 | [61026-naruto-shippuden-dairansen-kage-bunshin-emaki.json](./61026-naruto-shippuden-dairansen-kage-bunshin-emaki.json) |
+| Naruto Shippuden: Gekitou Ninja Taisen EX3 | 50729 | [50729-naruto-shippuden-gekitou-ninja-taisen-ex3.json](./50729-naruto-shippuden-gekitou-ninja-taisen-ex3.json) |
 | Naruto Shippuden: Gekitou Ninja Taisen! EX | 75838 | [75838-naruto-shippuden-gekitou-ninja-taisen-ex.json](./75838-naruto-shippuden-gekitou-ninja-taisen-ex.json) |
 | Naruto Shippuden: Gekitou Ninja Taisen! EX 2 | 75839 | [75839-naruto-shippuden-gekitou-ninja-taisen-ex-2.json](./75839-naruto-shippuden-gekitou-ninja-taisen-ex-2.json) |
 | Naruto Shippuden: Gekitou Ninja Taisen! EX 3 | 75840 | [75840-naruto-shippuden-gekitou-ninja-taisen-ex-3.json](./75840-naruto-shippuden-gekitou-ninja-taisen-ex-3.json) |
@@ -1758,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHRA Drag Racing: Countdown to the Championship | 18270 | [18270-nhra-drag-racing-countdown-to-the-championship.json](./18270-nhra-drag-racing-countdown-to-the-championship.json) |
 | NHRA Drag Racing: Pro Stock Cars & Trucks | 210034 | [210034-nhra-drag-racing-pro-stock-cars-and-trucks.json](./210034-nhra-drag-racing-pro-stock-cars-and-trucks.json) |
 | NHRA Drag Racing: Quarter Mile Showdown | 210033 | [210033-nhra-drag-racing-quarter-mile-showdown.json](./210033-nhra-drag-racing-quarter-mile-showdown.json) |
+| Ni Hao Kai-lan: Super Game Day | 50715 | [50715-ni-hao-kai-lan-super-game-day.json](./50715-ni-hao-kai-lan-super-game-day.json) |
 | Ni Hao, Kai-lan: Beach Day | 109052 | [109052-ni-hao-kai-lan-beach-day.json](./109052-ni-hao-kai-lan-beach-day.json) |
 | Ni Hao, Kai-Lan: New Year's Celebration | 97371 | [97371-ni-hao-kai-lan-new-years-celebration.json](./97371-ni-hao-kai-lan-new-years-celebration.json) |
 | Ni Hao, Kai-Lan: Super Happy Day! | 230393 | [230393-ni-hao-kai-lan-super-happy-day.json](./230393-ni-hao-kai-lan-super-happy-day.json) |
@@ -1811,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon All-Star Brawl 2: The Elastic Waistband Costume | 315081 | [315081-nickelodeon-all-star-brawl-2-the-elastic-waistband-costume.json](./315081-nickelodeon-all-star-brawl-2-the-elastic-waistband-costume.json) |
 | Nickelodeon All-Star Brawl: Hugh Neutron | 212790 | [212790-nickelodeon-all-star-brawl-hugh-neutron.json](./212790-nickelodeon-all-star-brawl-hugh-neutron.json) |
 | Nickelodeon Director's Lab | 243145 | [243145-nickelodeon-directors-lab.json](./243145-nickelodeon-directors-lab.json) |
+| Nickelodeon Fit | 50706 | [50706-nickelodeon-fit.json](./50706-nickelodeon-fit.json) |
 | Nickelodeon Kart Racers 2: Grand Prix | 134680 | [134680-nickelodeon-kart-racers-2-grand-prix.json](./134680-nickelodeon-kart-racers-2-grand-prix.json) |
 | Nickelodeon Kart Racers 3: Slime Speedway | 208727 | [208727-nickelodeon-kart-racers-3-slime-speedway.json](./208727-nickelodeon-kart-racers-3-slime-speedway.json) |
 | Nickelodeon Kart Racers 3: Slime Speedway Turbo Pack | 263234 | [263234-nickelodeon-kart-racers-3-slime-speedway-turbo-pack.json](./263234-nickelodeon-kart-racers-3-slime-speedway-turbo-pack.json) |
