@@ -964,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satan II | 380552 | [380552-satan-ii.json](./380552-satan-ii.json) |
 | Satan Santa | 369743 | [369743-satan-santa.json](./369743-satan-santa.json) |
 | Satan's Dungeon | 329593 | [329593-satans-dungeon.json](./329593-satans-dungeon.json) |
+| Satan's Hollow | 18843 | [18843-satans-hollow.json](./18843-satans-hollow.json) |
 | Satan's Pepper | 274183 | [274183-satans-pepper.json](./274183-satans-pepper.json) |
 | Satan's Zombies | 233230 | [233230-satans-zombies.json](./233230-satans-zombies.json) |
 | Satanic | 320733 | [320733-satanic.json](./320733-satanic.json) |
@@ -3199,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowgate: Special Edition | 51913 | [51913-shadowgate-special-edition.json](./51913-shadowgate-special-edition.json) |
 | Shadowgrounds Survivor | 9931 | [9931-shadowgrounds-survivor.json](./9931-shadowgrounds-survivor.json) |
 | Shadowgun: DeadZone | 39172 | [39172-shadowgun-deadzone.json](./39172-shadowgun-deadzone.json) |
+| Shadowhand | 18690 | [18690-shadowhand.json](./18690-shadowhand.json) |
 | Shadowhand Solitaire | 322568 | [322568-shadowhand-solitaire.json](./322568-shadowhand-solitaire.json) |
 | ShadowHawk | 37885 | [37885-shadowhawk.json](./37885-shadowhawk.json) |
 | Shadowkin | 244515 | [244515-shadowkin.json](./244515-shadowkin.json) |
@@ -6636,6 +6638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smugglers V | 51903 | [51903-smugglers-v.json](./51903-smugglers-v.json) |
 | Smugglers V: Invasion - Warrior Within | 51902 | [51902-smugglers-v-invasion-warrior-within.json](./51902-smugglers-v-invasion-warrior-within.json) |
 | Smurf Life | 261326 | [261326-smurf-life.json](./261326-smurf-life.json) |
+| Smurf: Rescue in Gargamel's Castle | 8080 | [8080-smurf-rescue-in-gargamels-castle.json](./8080-smurf-rescue-in-gargamels-castle.json) |
 | Smurfen | 366256 | [366256-smurfen.json](./366256-smurfen.json) |
 | Smurfette's Magic Match | 108977 | [108977-smurfettes-magic-match.json](./108977-smurfettes-magic-match.json) |
 | Smurfs Balls Adventure | 343825 | [343825-smurfs-balls-adventure.json](./343825-smurfs-balls-adventure.json) |
@@ -8720,6 +8723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bar at the End of the Galaxy | 171005 | [171005-space-bar-at-the-end-of-the-galaxy.json](./171005-space-bar-at-the-end-of-the-galaxy.json) |
 | Space Battalion Alpha | 186194 | [186194-space-battalion-alpha.json](./186194-space-battalion-alpha.json) |
 | Space Battle | 160158 | [160158-space-battle.json](./160158-space-battle.json) |
+| Space Battle | 18740 | [18740-space-battle.json](./18740-space-battle.json) |
 | Space Battle | 328486 | [328486-space-battle.json](./328486-space-battle.json) |
 | Space Battle Arena | 60231 | [60231-space-battle-arena.json](./60231-space-battle-arena.json) |
 | Space Battle Royale | 264000 | [264000-space-battle-royale.json](./264000-space-battle-royale.json) |
@@ -11054,6 +11058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek | 131474 | [131474-star-trek.json](./131474-star-trek.json) |
 | Star Trek | 247203 | [247203-star-trek.json](./247203-star-trek.json) |
 | Star Trek | 326626 | [326626-star-trek.json](./326626-star-trek.json) |
+| Star Trek - Armada | 18902 | [18902-star-trek-armada.json](./18902-star-trek-armada.json) |
 | Star Trek Alien Domain: Incursion | 123597 | [123597-star-trek-alien-domain-incursion.json](./123597-star-trek-alien-domain-incursion.json) |
 | Star Trek Bridge Crew: The Next Generation Bundle | 118846 | [118846-star-trek-bridge-crew-the-next-generation-bundle.json](./118846-star-trek-bridge-crew-the-next-generation-bundle.json) |
 | Star Trek Catan | 24191 | [24191-star-trek-catan.json](./24191-star-trek-catan.json) |
@@ -16332,6 +16337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synduality: Echo of Ada - Ultimate Edition | 317829 | [317829-synduality-echo-of-ada-ultimate-edition.json](./317829-synduality-echo-of-ada-ultimate-edition.json) |
 | Synergia: Sunrise | 253393 | [253393-synergia-sunrise.json](./253393-synergia-sunrise.json) |
 | Synergism | 150569 | [150569-synergism.json](./150569-synergism.json) |
+| Synergy | 18818 | [18818-synergy.json](./18818-synergy.json) |
 | Synergy of Serra | 255644 | [255644-synergy-of-serra.json](./255644-synergy-of-serra.json) |
 | Synergy Strike | 373204 | [373204-synergy-strike.json](./373204-synergy-strike.json) |
 | Synesthesia | 337105 | [337105-synesthesia.json](./337105-synesthesia.json) |
