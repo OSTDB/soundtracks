@@ -2529,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phileas Fogg's Balloon Battles | 98235 | [98235-phileas-foggs-balloon-battles.json](./98235-phileas-foggs-balloon-battles.json) |
 | Philomel | 341582 | [341582-philomel.json](./341582-philomel.json) |
 | Philosoma | 20638 | [20638-philosoma.json](./20638-philosoma.json) |
+| Philosopher's Quest | 13746 | [13746-philosophers-quest.json](./13746-philosophers-quest.json) |
 | Philosopher's Stone | 205087 | [205087-philosophers-stone.json](./205087-philosophers-stone.json) |
 | Philosophic Love | 105126 | [105126-philosophic-love.json](./105126-philosophic-love.json) |
 | Philosophical Jigsaw: The Zen Koans | 202647 | [202647-philosophical-jigsaw-the-zen-koans.json](./202647-philosophical-jigsaw-the-zen-koans.json) |
@@ -7386,6 +7387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psy-O-Blade | 327404 | [327404-psy-o-blade.json](./327404-psy-o-blade.json) |
 | Psy-Phi | 66393 | [66393-psy-phi.json](./66393-psy-phi.json) |
 | PsyBurst | 107852 | [107852-psyburst.json](./107852-psyburst.json) |
+| Psycastria | 13748 | [13748-psycastria.json](./13748-psycastria.json) |
 | Psych | 150012 | [150012-psych.json](./150012-psych.json) |
 | Psych: The Game | 19312 | [19312-psych-the-game.json](./19312-psych-the-game.json) |
 | Psyche Soldier VR | 30097 | [30097-psyche-soldier-vr.json](./30097-psyche-soldier-vr.json) |
