@@ -1501,6 +1501,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo Super Hockey | 46597 | [46597-tecmo-super-hockey.json](./46597-tecmo-super-hockey.json) |
 | Tecmo Super NBA Basketball | 46596 | [46596-tecmo-super-nba-basketball.json](./46596-tecmo-super-nba-basketball.json) |
 | Tecmo World Cup '90 | 39858 | [39858-tecmo-world-cup-90.json](./39858-tecmo-world-cup-90.json) |
+| Tecmo World Cup '92 | 46102 | [46102-tecmo-world-cup-92.json](./46102-tecmo-world-cup-92.json) |
+| Tecmo World Cup '93 | 46101 | [46101-tecmo-world-cup-93.json](./46101-tecmo-world-cup-93.json) |
 | Tecmo World Wrestling | 48083 | [48083-tecmo-world-wrestling.json](./48083-tecmo-world-wrestling.json) |
 | Tecmo's Deception: Invitation to Darkness | 20801 | [20801-tecmos-deception-invitation-to-darkness.json](./20801-tecmos-deception-invitation-to-darkness.json) |
 | Tecnology War | 248747 | [248747-tecnology-war.json](./248747-tecnology-war.json) |
@@ -1859,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis | 217967 | [217967-tennis.json](./217967-tennis.json) |
 | Tennis | 64208 | [64208-tennis.json](./64208-tennis.json) |
 | Tennis 2K2 | 45843 | [45843-tennis-2k2.json](./45843-tennis-2k2.json) |
+| Tennis Ace | 46111 | [46111-tennis-ace.json](./46111-tennis-ace.json) |
 | Tennis Addict | 206215 | [206215-tennis-addict.json](./206215-tennis-addict.json) |
 | Tennis Antics | 54426 | [54426-tennis-antics.json](./54426-tennis-antics.json) |
 | Tennis Arcade VR | 81001 | [81001-tennis-arcade-vr.json](./81001-tennis-arcade-vr.json) |
@@ -1917,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenrou Toshi | 243268 | [243268-tenrou-toshi.json](./243268-tenrou-toshi.json) |
 | Tenrow | 33321 | [33321-tenrow.json](./33321-tenrow.json) |
 | Tens and Twos | 175384 | [175384-tens-and-twos.json](./175384-tens-and-twos.json) |
+| Tensai Bakabon | 46110 | [46110-tensai-bakabon.json](./46110-tensai-bakabon.json) |
 | Tensei | 264610 | [264610-tensei.json](./264610-tensei.json) |
 | Tensei Shitara Slime Datta Ken: Lord of Tempest | 90112 | [90112-tensei-shitara-slime-datta-ken-lord-of-tempest.json](./90112-tensei-shitara-slime-datta-ken-lord-of-tempest.json) |
 | Tensen Nyannyan: Gekigyouban | 166149 | [166149-tensen-nyannyan-gekigyouban.json](./166149-tensen-nyannyan-gekigyouban.json) |
@@ -3760,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dinner Heist | 308561 | [308561-the-dinner-heist.json](./308561-the-dinner-heist.json) |
 | The Dino R | 233623 | [233623-the-dino-r.json](./233623-the-dino-r.json) |
 | The DinoHunters | 142967 | [142967-the-dinohunters.json](./142967-the-dinohunters.json) |
+| The Dinosaur Dooley | 46109 | [46109-the-dinosaur-dooley.json](./46109-the-dinosaur-dooley.json) |
 | The Dinosaurs Are Here | 152732 | [152732-the-dinosaurs-are-here.json](./152732-the-dinosaurs-are-here.json) |
 | The DioField Chronicle: Digital Deluxe Edition | 212339 | [212339-the-diofield-chronicle-digital-deluxe-edition.json](./212339-the-diofield-chronicle-digital-deluxe-edition.json) |
 | The Directed | 89253 | [89253-the-directed.json](./89253-the-directed.json) |
@@ -6133,6 +6138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mindwarp | 206169 | [206169-the-mindwarp.json](./206169-the-mindwarp.json) |
 | The Mine | 13739 | [13739-the-mine.json](./13739-the-mine.json) |
 | The Mine | 360736 | [360736-the-mine.json](./360736-the-mine.json) |
+| The Minecraft tribute game | 46077 | [46077-the-minecraft-tribute-game.json](./46077-the-minecraft-tribute-game.json) |
 | The Miner Digs | 185413 | [185413-the-miner-digs.json](./185413-the-miner-digs.json) |
 | The Miners | 31215 | [31215-the-miners.json](./31215-the-miners.json) |
 | The Mines of Morseph | 55289 | [55289-the-mines-of-morseph.json](./55289-the-mines-of-morseph.json) |
@@ -13914,6 +13920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivial Pursuit Online | 355006 | [355006-trivial-pursuit-online.json](./355006-trivial-pursuit-online.json) |
 | Trivial Pursuit Tap | 108957 | [108957-trivial-pursuit-tap.json](./108957-trivial-pursuit-tap.json) |
 | Trivial Pursuit: Bring on the 90's Edition | 206661 | [206661-trivial-pursuit-bring-on-the-90s-edition.json](./206661-trivial-pursuit-bring-on-the-90s-edition.json) |
+| Trivial Pursuit: Genus Edition | 46106 | [46106-trivial-pursuit-genus-edition.json](./46106-trivial-pursuit-genus-edition.json) |
 | Trivial Pursuit: NASCAR | 100170 | [100170-trivial-pursuit-nascar.json](./100170-trivial-pursuit-nascar.json) |
 | Trivial Pursuit: Silver Screen Edition | 206658 | [206658-trivial-pursuit-silver-screen-edition.json](./206658-trivial-pursuit-silver-screen-edition.json) |
 | Trivial Pursuit: The CD32 Edition | 39040 | [39040-trivial-pursuit-the-cd32-edition.json](./39040-trivial-pursuit-the-cd32-edition.json) |
