@@ -543,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand to Hand Combat | 118004 | [118004-hand-to-hand-combat.json](./118004-hand-to-hand-combat.json) |
 | Hand to Hand Combat VR | 122984 | [122984-hand-to-hand-combat-vr.json](./122984-hand-to-hand-combat-vr.json) |
 | Hand-Holding Simulator | 326404 | [326404-hand-holding-simulator.json](./326404-hand-holding-simulator.json) |
+| Handball | 18391 | [18391-handball.json](./18391-handball.json) |
 | Handball 16 | 34927 | [34927-handball-16.json](./34927-handball-16.json) |
 | Handball 17 | 31316 | [31316-handball-17.json](./31316-handball-17.json) |
 | Handball Action Total | 76617 | [76617-handball-action-total.json](./76617-handball-action-total.json) |
@@ -826,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard West | 7675 | [7675-hard-west.json](./7675-hard-west.json) |
 | Hard West 2 | 116014 | [116014-hard-west-2.json](./116014-hard-west-2.json) |
 | Hard West: Complete Edition | 53173 | [53173-hard-west-complete-edition.json](./53173-hard-west-complete-edition.json) |
+| Hard West: Scars of Freedom | 18367 | [18367-hard-west-scars-of-freedom.json](./18367-hard-west-scars-of-freedom.json) |
 | Hard West: Ultimate Edition | 166685 | [166685-hard-west-ultimate-edition.json](./166685-hard-west-ultimate-edition.json) |
 | Hard Winter | 25769 | [25769-hard-winter.json](./25769-hard-winter.json) |
 | Hard Work | 102327 | [102327-hard-work.json](./102327-hard-work.json) |
