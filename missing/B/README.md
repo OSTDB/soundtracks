@@ -4670,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blokker: Orange | 163909 | [163909-blokker-orange.json](./163909-blokker-orange.json) |
 | Blokoto | 346585 | [346585-blokoto.json](./346585-blokoto.json) |
 | Bloku! | 259541 | [259541-bloku.json](./259541-bloku.json) |
+| Blokus World Tour | 51405 | [51405-blokus-world-tour.json](./51405-blokus-world-tour.json) |
 | Blomst | 181911 | [181911-blomst.json](./181911-blomst.json) |
 | Blon | 167682 | [167682-blon.json](./167682-blon.json) |
 | Blonde Driver | 96435 | [96435-blonde-driver.json](./96435-blonde-driver.json) |
