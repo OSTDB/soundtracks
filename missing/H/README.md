@@ -4463,6 +4463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horde of Directors | 178090 | [178090-horde-of-directors.json](./178090-horde-of-directors.json) |
 | Horde Slayer | 355022 | [355022-horde-slayer.json](./355022-horde-slayer.json) |
 | Horde: The Citadel | 375850 | [375850-horde-the-citadel.json](./375850-horde-the-citadel.json) |
+| Horde: The Northern Wind | 18879 | [18879-horde-the-northern-wind.json](./18879-horde-the-northern-wind.json) |
 | Hordebreak | 238761 | [238761-hordebreak.json](./238761-hordebreak.json) |
 | HordeCore | 112767 | [112767-hordecore.json](./112767-hordecore.json) |
 | HordeCore: Training Ground | 157195 | [157195-hordecore-training-ground.json](./157195-hordecore-training-ground.json) |
