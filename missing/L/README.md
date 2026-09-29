@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Voz Vol. 3 | 268437 | [268437-la-voz-vol-3.json](./268437-la-voz-vol-3.json) |
 | La Voz: Quiero tu Voz | 268439 | [268439-la-voz-quiero-tu-voz.json](./268439-la-voz-quiero-tu-voz.json) |
 | La Vuelta al Mundo con Vascolet | 347111 | [347111-la-vuelta-al-mundo-con-vascolet.json](./347111-la-vuelta-al-mundo-con-vascolet.json) |
+| La-Mulana | 7895 | [7895-la-mulana.json](./7895-la-mulana.json) |
 | La-Mulana | 7936 | [7936-la-mulana.json](./7936-la-mulana.json) |
 | La-Mulana & La-Mulana 2 | 130905 | [130905-la-mulana-and-la-mulana-2.json](./130905-la-mulana-and-la-mulana-2.json) |
 | La-Mulana 2: The Tower of Oannes | 188630 | [188630-la-mulana-2-the-tower-of-oannes.json](./188630-la-mulana-2-the-tower-of-oannes.json) |
@@ -636,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Mortem | 149515 | [149515-last-mortem.json](./149515-last-mortem.json) |
 | Last Night of Winter | 154024 | [154024-last-night-of-winter.json](./154024-last-night-of-winter.json) |
 | Last Night Shift | 273471 | [273471-last-night-shift.json](./273471-last-night-shift.json) |
+| Last Ninja 3 | 8403 | [8403-last-ninja-3.json](./8403-last-ninja-3.json) |
 | Last Nova | 358367 | [358367-last-nova.json](./358367-last-nova.json) |
 | Last Nuclear Darkness | 158162 | [158162-last-nuclear-darkness.json](./158162-last-nuclear-darkness.json) |
 | Last Oasis | 114422 | [114422-last-oasis.json](./114422-last-oasis.json) |
@@ -3091,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock On: Modern Air Combat | 10201 | [10201-lock-on-modern-air-combat.json](./10201-lock-on-modern-air-combat.json) |
 | Lock the door | 184588 | [184588-lock-the-door.json](./184588-lock-the-door.json) |
 | Lock-On | 95392 | [95392-lock-on.json](./95392-lock-on.json) |
+| Lock's Quest | 18264 | [18264-locks-quest.json](./18264-locks-quest.json) |
 | Lock's Quest | 46557 | [46557-locks-quest.json](./46557-locks-quest.json) |
 | Lockdown Lewd Up! | 159315 | [159315-lockdown-lewd-up.json](./159315-lockdown-lewd-up.json) |
 | Lockdown Opportunities | 333769 | [333769-lockdown-opportunities.json](./333769-lockdown-opportunities.json) |
