@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | W.A.R.D. | 379375 | [379375-w-a-r-d.json](./379375-w-a-r-d.json) |
 | W.H.A.L.E. | 130855 | [130855-w-h-a-l-e.json](./130855-w-h-a-l-e.json) |
 | W.I.M.S. | 374736 | [374736-w-i-m-s.json](./374736-w-i-m-s.json) |
+| W.I.N. | 41539 | [41539-w-i-n.json](./41539-w-i-n.json) |
 | W.I.T.C.H. | 374260 | [374260-w-i-t-c-h.json](./374260-w-i-t-c-h.json) |
 | W.O.L.F | 256333 | [256333-w-o-l-f.json](./256333-w-o-l-f.json) |
 | W.O.T.E: Waking On The Endtimes | 309875 | [309875-w-o-t-e-waking-on-the-endtimes.json](./309875-w-o-t-e-waking-on-the-endtimes.json) |
