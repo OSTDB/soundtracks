@@ -2572,7 +2572,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem 7 Legacy | 373022 | [373022-fire-emblem-7-legacy.json](./373022-fire-emblem-7-legacy.json) |
 | Fire Emblem 8: Self-Randomizing | 259869 | [259869-fire-emblem-8-self-randomizing.json](./259869-fire-emblem-8-self-randomizing.json) |
 | Fire Emblem 8R | 380529 | [380529-fire-emblem-8r.json](./380529-fire-emblem-8r.json) |
+| Fire Emblem Echoes: Shadows of Valentia | 26840 | [26840-fire-emblem-echoes-shadows-of-valentia.json](./26840-fire-emblem-echoes-shadows-of-valentia.json) |
 | Fire Emblem Echoes: Shadows of Valentia - Limited Edition | 136336 | [136336-fire-emblem-echoes-shadows-of-valentia-limited-edition.json](./136336-fire-emblem-echoes-shadows-of-valentia-limited-edition.json) |
+| Fire Emblem Fates: Birthright | 24220 | [24220-fire-emblem-fates-birthright.json](./24220-fire-emblem-fates-birthright.json) |
 | Fire Emblem Heroes | 26841 | [26841-fire-emblem-heroes.json](./26841-fire-emblem-heroes.json) |
 | Fire Emblem Warriors + Season Pass Bundle | 294234 | [294234-fire-emblem-warriors-season-pass-bundle.json](./294234-fire-emblem-warriors-season-pass-bundle.json) |
 | Fire Emblem Warriors: Season Pass | 294235 | [294235-fire-emblem-warriors-season-pass.json](./294235-fire-emblem-warriors-season-pass.json) |
@@ -3314,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Point | 46793 | [46793-flash-point.json](./46793-flash-point.json) |
 | Flash Point Korea: AH-64D Longbow | 710 | [710-flash-point-korea-ah-64d-longbow.json](./710-flash-point-korea-ah-64d-longbow.json) |
 | Flashback Legend | 49378 | [49378-flashback-legend.json](./49378-flashback-legend.json) |
+| Flashback: The Quest for Identity | 4275 | [4275-flashback-the-quest-for-identity.json](./4275-flashback-the-quest-for-identity.json) |
 | Flashbound | 381023 | [381023-flashbound.json](./381023-flashbound.json) |
 | Flashcard Clash | 25734 | [25734-flashcard-clash.json](./25734-flashcard-clash.json) |
 | FlashGal | 39580 | [39580-flashgal.json](./39580-flashgal.json) |
@@ -5707,6 +5710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Mart Simulator | 349325 | [349325-fruit-mart-simulator.json](./349325-fruit-mart-simulator.json) |
 | Fruit Merge | 322806 | [322806-fruit-merge.json](./322806-fruit-merge.json) |
 | Fruit Mountain Party | 334302 | [334302-fruit-mountain-party.json](./334302-fruit-mountain-party.json) |
+| Fruit Ninja | 1684 | [1684-fruit-ninja.json](./1684-fruit-ninja.json) |
 | Fruit Ninja Academy: Math Master | 193723 | [193723-fruit-ninja-academy-math-master.json](./193723-fruit-ninja-academy-math-master.json) |
 | Fruit Ninja VR 2 | 160150 | [160150-fruit-ninja-vr-2.json](./160150-fruit-ninja-vr-2.json) |
 | Fruit Ninja vs Skittles | 352285 | [352285-fruit-ninja-vs-skittles.json](./352285-fruit-ninja-vs-skittles.json) |
