@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarioWare, Inc.: Mega Microgame$! | 341061 | [341061-warioware-inc-mega-microgame.json](./341061-warioware-inc-mega-microgame.json) |
 | WarioWare, Inc.: Mega Microgame$! | 341062 | [341062-warioware-inc-mega-microgame.json](./341062-warioware-inc-mega-microgame.json) |
 | WarioWare: Get It Together! | 152358 | [152358-warioware-get-it-together.json](./152358-warioware-get-it-together.json) |
+| WarioWare: Twisted! | 1704 | [1704-warioware-twisted.json](./1704-warioware-twisted.json) |
 | Warja | 277295 | [277295-warja.json](./277295-warja.json) |
 | Warka Flarka Flim Flam | 29942 | [29942-warka-flarka-flim-flam.json](./29942-warka-flarka-flim-flam.json) |
 | Warkanoid II: Wildlife | 122851 | [122851-warkanoid-ii-wildlife.json](./122851-warkanoid-ii-wildlife.json) |
@@ -4266,6 +4267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWF Raw: Wrestling's Rudest and Roughest! | 46249 | [46249-wwf-raw-wrestlings-rudest-and-roughest.json](./46249-wwf-raw-wrestlings-rudest-and-roughest.json) |
 | WWF SmackDown! Just Bring It | 6445 | [6445-wwf-smackdown-just-bring-it.json](./6445-wwf-smackdown-just-bring-it.json) |
 | WWF Superstars 2 | 49054 | [49054-wwf-superstars-2.json](./49054-wwf-superstars-2.json) |
+| WWF War Zone | 3645 | [3645-wwf-war-zone.json](./3645-wwf-war-zone.json) |
 | WWF WrestleMania: The Arcade Game | 4546 | [4546-wwf-wrestlemania-the-arcade-game.json](./4546-wwf-wrestlemania-the-arcade-game.json) |
 | WWF: Super Wrestlemania | 45566 | [45566-wwf-super-wrestlemania.json](./45566-wwf-super-wrestlemania.json) |
 | WWI Medic | 71605 | [71605-wwi-medic.json](./71605-wwi-medic.json) |
