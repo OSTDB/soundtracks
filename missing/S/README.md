@@ -4807,6 +4807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silted Prayer | 257904 | [257904-silted-prayer.json](./257904-silted-prayer.json) |
 | Silva Saga | 48708 | [48708-silva-saga.json](./48708-silva-saga.json) |
 | SilvaGunner: Rebooted | 326957 | [326957-silvagunner-rebooted.json](./326957-silvagunner-rebooted.json) |
+| Silver | 7042 | [7042-silver.json](./7042-silver.json) |
 | Silver Axe: The Honest Elf | 195129 | [195129-silver-axe-the-honest-elf.json](./195129-silver-axe-the-honest-elf.json) |
 | Silver Blade of Gods' End | 301602 | [301602-silver-blade-of-gods-end.json](./301602-silver-blade-of-gods-end.json) |
 | Silver Blue | 152734 | [152734-silver-blue.json](./152734-silver-blue.json) |
@@ -5755,6 +5756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyland Defense | 109672 | [109672-skyland-defense.json](./109672-skyland-defense.json) |
 | Skylanders: Giants | 1586 | [1586-skylanders-giants.json](./1586-skylanders-giants.json) |
 | Skylanders: Giants | 256679 | [256679-skylanders-giants.json](./256679-skylanders-giants.json) |
+| Skylanders: Imaginators | 19576 | [19576-skylanders-imaginators.json](./19576-skylanders-imaginators.json) |
 | Skylanders: Imaginators | 317016 | [317016-skylanders-imaginators.json](./317016-skylanders-imaginators.json) |
 | Skylanders: Lost Islands | 59963 | [59963-skylanders-lost-islands.json](./59963-skylanders-lost-islands.json) |
 | Skylanders: Spyro's Adventure | 256678 | [256678-skylanders-spyros-adventure.json](./256678-skylanders-spyros-adventure.json) |
@@ -11099,6 +11101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Galactic Battlegrounds | 139 | [139-star-wars-galactic-battlegrounds.json](./139-star-wars-galactic-battlegrounds.json) |
 | Star Wars: Galactic Battlegrounds Saga | 35596 | [35596-star-wars-galactic-battlegrounds-saga.json](./35596-star-wars-galactic-battlegrounds-saga.json) |
 | Star Wars: Galactic Racer | 381248 | [381248-star-wars-galactic-racer.json](./381248-star-wars-galactic-racer.json) |
+| Star Wars: Galaxy of Heroes | 19577 | [19577-star-wars-galaxy-of-heroes.json](./19577-star-wars-galaxy-of-heroes.json) |
 | Star Wars: Heritage Pack | 200175 | [200175-star-wars-heritage-pack.json](./200175-star-wars-heritage-pack.json) |
 | Star Wars: Heritage Pack | 247756 | [247756-star-wars-heritage-pack.json](./247756-star-wars-heritage-pack.json) |
 | Star Wars: Hunters | 143611 | [143611-star-wars-hunters.json](./143611-star-wars-hunters.json) |
@@ -11593,6 +11596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of Decay 2: Curveball Update | 266858 | [266858-state-of-decay-2-curveball-update.json](./266858-state-of-decay-2-curveball-update.json) |
 | State of Decay 2: Daybreak Pack | 194647 | [194647-state-of-decay-2-daybreak-pack.json](./194647-state-of-decay-2-daybreak-pack.json) |
 | State of Decay: Breakdown | 111845 | [111845-state-of-decay-breakdown.json](./111845-state-of-decay-breakdown.json) |
+| State of Decay: Year-One Survival Edition | 7710 | [7710-state-of-decay-year-one-survival-edition.json](./7710-state-of-decay-year-one-survival-edition.json) |
 | State of Extinction | 59465 | [59465-state-of-extinction.json](./59465-state-of-extinction.json) |
 | State of Mind | 20123 | [20123-state-of-mind.json](./20123-state-of-mind.json) |
 | State of Survival | 133783 | [133783-state-of-survival.json](./133783-state-of-survival.json) |
@@ -14722,6 +14726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super POTUS Trump | 51591 | [51591-super-potus-trump.json](./51591-super-potus-trump.json) |
 | Super Power: Rising of A.I. | 157016 | [157016-super-power-rising-of-a-i.json](./157016-super-power-rising-of-a-i.json) |
 | Super Press Space To Win Adventure RPG 2009 | 294222 | [294222-super-press-space-to-win-adventure-rpg-2009.json](./294222-super-press-space-to-win-adventure-rpg-2009.json) |
+| Super Princess Peach | 20497 | [20497-super-princess-peach.json](./20497-super-princess-peach.json) |
 | Super Princess Peach: Operation - Toad Rescue | 323872 | [323872-super-princess-peach-operation-toad-rescue.json](./323872-super-princess-peach-operation-toad-rescue.json) |
 | Super Pump | 369215 | [369215-super-pump.json](./369215-super-pump.json) |
 | Super Punch | 147959 | [147959-super-punch.json](./147959-super-punch.json) |
@@ -14991,6 +14996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Street Fighter II: The New Challengers | 198933 | [198933-super-street-fighter-ii-the-new-challengers.json](./198933-super-street-fighter-ii-the-new-challengers.json) |
 | Super Street Fighter II: The New Challengers | 322210 | [322210-super-street-fighter-ii-the-new-challengers.json](./322210-super-street-fighter-ii-the-new-challengers.json) |
 | Super Street Fighter II: The New Challengers - Tiger Barcodzz | 198934 | [198934-super-street-fighter-ii-the-new-challengers-tiger-barcodzz.json](./198934-super-street-fighter-ii-the-new-challengers-tiger-barcodzz.json) |
+| Super Street Fighter IV: Arcade Edition | 20586 | [20586-super-street-fighter-iv-arcade-edition.json](./20586-super-street-fighter-iv-arcade-edition.json) |
 | Super Street Fighter IV: Pachislot Edition | 69377 | [69377-super-street-fighter-iv-pachislot-edition.json](./69377-super-street-fighter-iv-pachislot-edition.json) |
 | Super Strip Fighter IV | 66653 | [66653-super-strip-fighter-iv.json](./66653-super-strip-fighter-iv.json) |
 | Super Strong Hero | 188005 | [188005-super-strong-hero.json](./188005-super-strong-hero.json) |
