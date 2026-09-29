@@ -6320,6 +6320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night of Fire Stealing | 106412 | [106412-the-night-of-fire-stealing.json](./106412-the-night-of-fire-stealing.json) |
 | The Night of Fire Stealing 2 | 163751 | [163751-the-night-of-fire-stealing-2.json](./163751-the-night-of-fire-stealing-2.json) |
 | The Night of the Rabbit | 3230 | [3230-the-night-of-the-rabbit.json](./3230-the-night-of-the-rabbit.json) |
+| The Night of the Rabbit: Premium Edition | 53768 | [53768-the-night-of-the-rabbit-premium-edition.json](./53768-the-night-of-the-rabbit-premium-edition.json) |
 | The Night Owl Murder | 260086 | [260086-the-night-owl-murder.json](./260086-the-night-owl-murder.json) |
 | The Night Ripper | 125259 | [125259-the-night-ripper.json](./125259-the-night-ripper.json) |
 | The Night Shift | 258416 | [258416-the-night-shift.json](./258416-the-night-shift.json) |
@@ -6344,6 +6345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ninji Saga Part 1: Birth of a Legend | 275328 | [275328-the-ninji-saga-part-1-birth-of-a-legend.json](./275328-the-ninji-saga-part-1-birth-of-a-legend.json) |
 | The Ninth Way | 161184 | [161184-the-ninth-way.json](./161184-the-ninth-way.json) |
 | The No Button Game | 225293 | [225293-the-no-button-game.json](./225293-the-no-button-game.json) |
+| The No Goblin Complete Collection | 53767 | [53767-the-no-goblin-complete-collection.json](./53767-the-no-goblin-complete-collection.json) |
 | The No No Man | 316412 | [316412-the-no-no-man.json](./316412-the-no-no-man.json) |
 | The Normal Day | 38997 | [38997-the-normal-day.json](./38997-the-normal-day.json) |
 | The Normal Turnabout | 310410 | [310410-the-normal-turnabout.json](./310410-the-normal-turnabout.json) |
@@ -6719,6 +6721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Puzzle Maker: Cebba's Odyssey | 275112 | [275112-the-puzzle-maker-cebbas-odyssey.json](./275112-the-puzzle-maker-cebbas-odyssey.json) |
 | The Puzzle of Blocks | 268214 | [268214-the-puzzle-of-blocks.json](./268214-the-puzzle-of-blocks.json) |
 | The Puzzle Story | 113491 | [113491-the-puzzle-story.json](./113491-the-puzzle-story.json) |
+| The Puzzle Trouble | 53769 | [53769-the-puzzle-trouble.json](./53769-the-puzzle-trouble.json) |
 | The Puzzler | 365866 | [365866-the-puzzler.json](./365866-the-puzzler.json) |
 | The Pyramid | 45362 | [45362-the-pyramid.json](./45362-the-pyramid.json) |
 | The Pyramid Prison | 127236 | [127236-the-pyramid-prison.json](./127236-the-pyramid-prison.json) |
@@ -6755,6 +6758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest of Merravid | 12961 | [12961-the-quest-of-merravid.json](./12961-the-quest-of-merravid.json) |
 | The Quest of the Tiny Hero | 275134 | [275134-the-quest-of-the-tiny-hero.json](./275134-the-quest-of-the-tiny-hero.json) |
 | The Quest Trio | 124083 | [124083-the-quest-trio.json](./124083-the-quest-trio.json) |
+| The Quest: Deluxe Edition | 53770 | [53770-the-quest-deluxe-edition.json](./53770-the-quest-deluxe-edition.json) |
 | The Quest: Hero of Lukomorye IV | 205602 | [205602-the-quest-hero-of-lukomorye-iv.json](./205602-the-quest-hero-of-lukomorye-iv.json) |
 | The Quest: Hero of Lukomorye V | 200205 | [200205-the-quest-hero-of-lukomorye-v.json](./200205-the-quest-hero-of-lukomorye-v.json) |
 | The Quest: Islands of Ice and Fire | 154509 | [154509-the-quest-islands-of-ice-and-fire.json](./154509-the-quest-islands-of-ice-and-fire.json) |
@@ -11126,6 +11130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Splinter Cell Collection | 53821 | [53821-tom-clancys-splinter-cell-collection.json](./53821-tom-clancys-splinter-cell-collection.json) |
 | Tom Clancy's Splinter Cell HD | 100003 | [100003-tom-clancys-splinter-cell-hd.json](./100003-tom-clancys-splinter-cell-hd.json) |
 | Tom Clancy's Splinter Cell: Blacklist - 5th Freedom Edition | 44568 | [44568-tom-clancys-splinter-cell-blacklist-5th-freedom-edition.json](./44568-tom-clancys-splinter-cell-blacklist-5th-freedom-edition.json) |
+| Tom Clancy's Splinter Cell: Blacklist - Digital Deluxe Edition | 53944 | [53944-tom-clancys-splinter-cell-blacklist-digital-deluxe-edition.json](./53944-tom-clancys-splinter-cell-blacklist-digital-deluxe-edition.json) |
 | Tom Clancy's Splinter Cell: Blacklist - Upper Echelon Edition | 76983 | [76983-tom-clancys-splinter-cell-blacklist-upper-echelon-edition.json](./76983-tom-clancys-splinter-cell-blacklist-upper-echelon-edition.json) |
 | Tom Clancy's Splinter Cell: Chaos Theory HD | 100004 | [100004-tom-clancys-splinter-cell-chaos-theory-hd.json](./100004-tom-clancys-splinter-cell-chaos-theory-hd.json) |
 | Tom Clancy's Splinter Cell: Conviction - Insurgency Pack | 11010 | [11010-tom-clancys-splinter-cell-conviction-insurgency-pack.json](./11010-tom-clancys-splinter-cell-conviction-insurgency-pack.json) |
@@ -12430,6 +12435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Department 2192 | 23728 | [23728-traffic-department-2192.json](./23728-traffic-department-2192.json) |
 | Traffic Giant | 57660 | [57660-traffic-giant.json](./57660-traffic-giant.json) |
 | Traffic Jammy | 179581 | [179581-traffic-jammy.json](./179581-traffic-jammy.json) |
+| Traffic Manager | 53945 | [53945-traffic-manager.json](./53945-traffic-manager.json) |
 | Traffic Master Collection | 283212 | [283212-traffic-master-collection.json](./283212-traffic-master-collection.json) |
 | Traffic Panic | 343480 | [343480-traffic-panic.json](./343480-traffic-panic.json) |
 | Traffic Panic London | 343799 | [343799-traffic-panic-london.json](./343799-traffic-panic-london.json) |
