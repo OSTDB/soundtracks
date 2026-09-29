@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Simple Square | 236226 | [236226-a-simple-square.json](./236226-a-simple-square.json) |
 | A Sirius Game | 34694 | [34694-a-sirius-game.json](./34694-a-sirius-game.json) |
 | A Sky Full of Stars Interstellar Focus | 150590 | [150590-a-sky-full-of-stars-interstellar-focus.json](./150590-a-sky-full-of-stars-interstellar-focus.json) |
+| A Skyrocket Story | 58800 | [58800-a-skyrocket-story.json](./58800-a-skyrocket-story.json) |
 | A Slime and a Civil War | 236502 | [236502-a-slime-and-a-civil-war.json](./236502-a-slime-and-a-civil-war.json) |
 | A Slit of Joy | 195076 | [195076-a-slit-of-joy.json](./195076-a-slit-of-joy.json) |
 | A Sloth For Both Seasons | 165504 | [165504-a-sloth-for-both-seasons.json](./165504-a-sloth-for-both-seasons.json) |
@@ -582,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.L.T. | 239590 | [239590-a-l-t.json](./239590-a-l-t.json) |
 | A.N.O.N.Y.M.U.S. | 279027 | [279027-a-n-o-n-y-m-u-s.json](./279027-a-n-o-n-y-m-u-s.json) |
 | A.R.C: Alien raid combat | 165707 | [165707-a-r-c-alien-raid-combat.json](./165707-a-r-c-alien-raid-combat.json) |
+| A.R.C. | 58867 | [58867-a-r-c.json](./58867-a-r-c.json) |
 | A.R.S.E.N.A.L. Taste of Power | 204341 | [204341-a-r-s-e-n-a-l-taste-of-power.json](./204341-a-r-s-e-n-a-l-taste-of-power.json) |
 | A.S.H. | 99614 | [99614-a-s-h.json](./99614-a-s-h.json) |
 | A.S.S.: Awesome Street Skaters | 245907 | [245907-a-s-s-awesome-street-skaters.json](./245907-a-s-s-awesome-street-skaters.json) |
@@ -1574,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agatha Christie: Hercule Poirot - The London Case: Deluxe | 276303 | [276303-agatha-christie-hercule-poirot-the-london-case-deluxe.json](./276303-agatha-christie-hercule-poirot-the-london-case-deluxe.json) |
 | Agatha Christie: Murder on the Orient Express - Deluxe Edition | 249719 | [249719-agatha-christie-murder-on-the-orient-express-deluxe-edition.json](./249719-agatha-christie-murder-on-the-orient-express-deluxe-edition.json) |
 | Agatha Christie: Peril at End House | 78604 | [78604-agatha-christie-peril-at-end-house.json](./78604-agatha-christie-peril-at-end-house.json) |
+| Agatha's Folly | 58866 | [58866-agathas-folly.json](./58866-agathas-folly.json) |
 | Age of 2048: World | 106373 | [106373-age-of-2048-world.json](./106373-age-of-2048-world.json) |
 | Age of Ants | 275672 | [275672-age-of-ants.json](./275672-age-of-ants.json) |
 | Age of Barbarian Extended Cut: The Slaves' Fortress | 171499 | [171499-age-of-barbarian-extended-cut-the-slaves-fortress.json](./171499-age-of-barbarian-extended-cut-the-slaves-fortress.json) |
@@ -2746,6 +2749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Hit All Her: Western City | 193230 | [193230-all-hit-all-her-western-city.json](./193230-all-hit-all-her-western-city.json) |
 | All Humans Must Die! | 183557 | [183557-all-humans-must-die.json](./183557-all-humans-must-die.json) |
 | All I want for Christmas are Subgames: Collector's Edition | 416871 | [416871-all-i-want-for-christmas-are-subgames-collectors-edition.json](./416871-all-i-want-for-christmas-are-subgames-collectors-edition.json) |
+| All in a Day's Work | 58865 | [58865-all-in-a-days-work.json](./58865-all-in-a-days-work.json) |
 | All in Abyss: Judge the Fake | 302693 | [302693-all-in-abyss-judge-the-fake.json](./302693-all-in-abyss-judge-the-fake.json) |
 | All In Everyday | 326091 | [326091-all-in-everyday.json](./326091-all-in-everyday.json) |
 | All in One Adventure VR | 368663 | [368663-all-in-one-adventure-vr.json](./368663-all-in-one-adventure-vr.json) |
@@ -4740,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apricity | 322208 | [322208-apricity.json](./322208-apricity.json) |
 | Apricot Kernel | 364531 | [364531-apricot-kernel.json](./364531-apricot-kernel.json) |
 | April '86 | 251841 | [251841-april-86.json](./251841-april-86.json) |
+| April 7th | 58863 | [58863-april-7th.json](./58863-april-7th.json) |
 | April Was A Fool | 199052 | [199052-april-was-a-fool.json](./199052-april-was-a-fool.json) |
 | Aptly Rolling | 165661 | [165661-aptly-rolling.json](./165661-aptly-rolling.json) |
 | Apu's Journey | 276854 | [276854-apus-journey.json](./276854-apus-journey.json) |
@@ -5764,6 +5769,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arnaud Thion's Dragons | 185115 | [185115-arnaud-thions-dragons.json](./185115-arnaud-thions-dragons.json) |
 | Arnie | 14268 | [14268-arnie.json](./14268-arnie.json) |
 | Arnold Palmer Tournament Golf | 12869 | [12869-arnold-palmer-tournament-golf.json](./12869-arnold-palmer-tournament-golf.json) |
+| Arnold the Adventurer | 58862 | [58862-arnold-the-adventurer.json](./58862-arnold-the-adventurer.json) |
+| Arnold the Adventurer II | 58861 | [58861-arnold-the-adventurer-ii.json](./58861-arnold-the-adventurer-ii.json) |
+| Arnold the Adventurer III | 58859 | [58859-arnold-the-adventurer-iii.json](./58859-arnold-the-adventurer-iii.json) |
 | Aro | 96529 | [96529-aro.json](./96529-aro.json) |
 | Aro & Elmi | 146716 | [146716-aro-and-elmi.json](./146716-aro-and-elmi.json) |
 | Arobynn: Below The Surface | 248893 | [248893-arobynn-below-the-surface.json](./248893-arobynn-below-the-surface.json) |
@@ -7047,6 +7055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aunewyth | 231311 | [231311-aunewyth.json](./231311-aunewyth.json) |
 | Aunt Arctic Adventure | 14275 | [14275-aunt-arctic-adventure.json](./14275-aunt-arctic-adventure.json) |
 | Aunt Fatima | 307767 | [307767-aunt-fatima.json](./307767-aunt-fatima.json) |
+| Aunt Velma Is Coming to Tea | 58858 | [58858-aunt-velma-is-coming-to-tea.json](./58858-aunt-velma-is-coming-to-tea.json) |
 | Aura Aspic | 180236 | [180236-aura-aspic.json](./180236-aura-aspic.json) |
 | Aura Aura Climber | 66985 | [66985-aura-aura-climber.json](./66985-aura-aura-climber.json) |
 | Aura Farmers | 329698 | [329698-aura-farmers.json](./329698-aura-farmers.json) |
@@ -7532,6 +7541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azrael | 192457 | [192457-azrael.json](./192457-azrael.json) |
 | Azrael | 209697 | [209697-azrael.json](./209697-azrael.json) |
 | Aztec Adventure | 45668 | [45668-aztec-adventure.json](./45668-aztec-adventure.json) |
+| Aztec Assault | 58860 | [58860-aztec-assault.json](./58860-aztec-assault.json) |
 | Aztec Mayhem! | 366405 | [366405-aztec-mayhem.json](./366405-aztec-mayhem.json) |
 | Aztec Number | 102932 | [102932-aztec-number.json](./102932-aztec-number.json) |
 | Aztec Solitaire | 91345 | [91345-aztec-solitaire.json](./91345-aztec-solitaire.json) |
