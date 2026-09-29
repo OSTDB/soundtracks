@@ -1831,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vroom Vroom Valley | 253444 | [253444-vroom-vroom-valley.json](./253444-vroom-vroom-valley.json) |
 | Vroomist | 32915 | [32915-vroomist.json](./32915-vroomist.json) |
 | VRQ Test | 99032 | [99032-vrq-test.json](./99032-vrq-test.json) |
+| VRQB | 30052 | [30052-vrqb.json](./30052-vrqb.json) |
 | VRRCC | 118361 | [118361-vrrcc.json](./118361-vrrcc.json) |
 | VRSailing by BeTomorrow | 29781 | [29781-vrsailing-by-betomorrow.json](./29781-vrsailing-by-betomorrow.json) |
 | VRSO: Bare Knuckle Fighting | 274551 | [274551-vrso-bare-knuckle-fighting.json](./274551-vrso-bare-knuckle-fighting.json) |
