@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabal 2 | 12132 | [12132-cabal-2.json](./12132-cabal-2.json) |
 | Cabal M: Heroes of Nevareth | 174724 | [174724-cabal-m-heroes-of-nevareth.json](./174724-cabal-m-heroes-of-nevareth.json) |
 | Cabals: Magic & Battle Cards | 33107 | [33107-cabals-magic-and-battle-cards.json](./33107-cabals-magic-and-battle-cards.json) |
+| Cabbage Patch Kids: Picture Show | 40902 | [40902-cabbage-patch-kids-picture-show.json](./40902-cabbage-patch-kids-picture-show.json) |
 | Cabbage Patch Kids: The Patch Puppy Rescue | 49363 | [49363-cabbage-patch-kids-the-patch-puppy-rescue.json](./49363-cabbage-patch-kids-the-patch-puppy-rescue.json) |
 | Cabbagers | 226277 | [226277-cabbagers.json](./226277-cabbagers.json) |
 | Cabbages and Kings | 71237 | [71237-cabbages-and-kings.json](./71237-cabbages-and-kings.json) |
@@ -6442,6 +6443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Cash | 117782 | [117782-cosmic-cash.json](./117782-cosmic-cash.json) |
 | Cosmic Castaway | 380084 | [380084-cosmic-castaway.json](./380084-cosmic-castaway.json) |
 | Cosmic Cat | 361677 | [361677-cosmic-cat.json](./361677-cosmic-cat.json) |
+| Cosmic Causeway: Trailblazer II | 40936 | [40936-cosmic-causeway-trailblazer-ii.json](./40936-cosmic-causeway-trailblazer-ii.json) |
 | Cosmic Challenge Racing | 196336 | [196336-cosmic-challenge-racing.json](./196336-cosmic-challenge-racing.json) |
 | Cosmic Chicken | 103657 | [103657-cosmic-chicken.json](./103657-cosmic-chicken.json) |
 | Cosmic Cleaner | 380083 | [380083-cosmic-cleaner.json](./380083-cosmic-cleaner.json) |
