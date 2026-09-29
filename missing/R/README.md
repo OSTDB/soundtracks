@@ -3883,6 +3883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riverside | 84838 | [84838-riverside.json](./84838-riverside.json) |
 | Riversiders | 253418 | [253418-riversiders.json](./253418-riversiders.json) |
 | Riviera: The Promised Land | 304131 | [304131-riviera-the-promised-land.json](./304131-riviera-the-promised-land.json) |
+| Riviera: The Promised Land | 6559 | [6559-riviera-the-promised-land.json](./6559-riviera-the-promised-land.json) |
 | Riviera: Yakusoku no Chi Riviera | 37281 | [37281-riviera-yakusoku-no-chi-riviera.json](./37281-riviera-yakusoku-no-chi-riviera.json) |
 | RiVR | 26844 | [26844-rivr.json](./26844-rivr.json) |
 | Rixer | 260242 | [260242-rixer.json](./260242-rixer.json) |
