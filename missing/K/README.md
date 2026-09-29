@@ -1398,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Spin VR | 31980 | [31980-king-of-spin-vr.json](./31980-king-of-spin-vr.json) |
 | King of Sports: New Japan Pro-Wrestling | 109574 | [109574-king-of-sports-new-japan-pro-wrestling.json](./109574-king-of-sports-new-japan-pro-wrestling.json) |
 | King of the Cabbage World | 386402 | [386402-king-of-the-cabbage-world.json](./386402-king-of-the-cabbage-world.json) |
+| King of the Castle | 42146 | [42146-king-of-the-castle.json](./42146-king-of-the-castle.json) |
 | King of the Chat | 339918 | [339918-king-of-the-chat.json](./339918-king-of-the-chat.json) |
 | King of the Course | 58307 | [58307-king-of-the-course.json](./58307-king-of-the-course.json) |
 | King of the Dwarves: Underground City Builder | 185700 | [185700-king-of-the-dwarves-underground-city-builder.json](./185700-king-of-the-dwarves-underground-city-builder.json) |
