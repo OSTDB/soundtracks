@@ -4667,6 +4667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hamburger Isles | 356292 | [356292-the-hamburger-isles.json](./356292-the-hamburger-isles.json) |
 | The Hamiltonian Circuit | 297612 | [297612-the-hamiltonian-circuit.json](./297612-the-hamiltonian-circuit.json) |
 | The Hamlet | 326991 | [326991-the-hamlet.json](./326991-the-hamlet.json) |
+| The Hand | 40351 | [40351-the-hand.json](./40351-the-hand.json) |
 | The Hand is Faster than the Eye | 318227 | [318227-the-hand-is-faster-than-the-eye.json](./318227-the-hand-is-faster-than-the-eye.json) |
 | The Hand of Glory | 111103 | [111103-the-hand-of-glory.json](./111103-the-hand-of-glory.json) |
 | The Hand of Panda | 85436 | [85436-the-hand-of-panda.json](./85436-the-hand-of-panda.json) |
@@ -5149,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kaiju Offensive | 117097 | [117097-the-kaiju-offensive.json](./117097-the-kaiju-offensive.json) |
 | The Kangaroo Conspiracy DX | 366224 | [366224-the-kangaroo-conspiracy-dx.json](./366224-the-kangaroo-conspiracy-dx.json) |
 | The Karaoke | 224806 | [224806-the-karaoke.json](./224806-the-karaoke.json) |
+| The Karate Tournament | 40342 | [40342-the-karate-tournament.json](./40342-the-karate-tournament.json) |
 | The Karters 2: Turbo Charged | 230763 | [230763-the-karters-2-turbo-charged.json](./230763-the-karters-2-turbo-charged.json) |
 | The Katagean Redoubt | 271816 | [271816-the-katagean-redoubt.json](./271816-the-katagean-redoubt.json) |
 | The Keep | 146340 | [146340-the-keep.json](./146340-the-keep.json) |
@@ -5323,6 +5325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Crown | 175712 | [175712-the-last-crown.json](./175712-the-last-crown.json) |
 | The Last Crown: Midnight Horror | 17206 | [17206-the-last-crown-midnight-horror.json](./17206-the-last-crown-midnight-horror.json) |
 | The Last Crystal | 124138 | [124138-the-last-crystal.json](./124138-the-last-crystal.json) |
+| The Last Day | 40336 | [40336-the-last-day.json](./40336-the-last-day.json) |
 | The Last Days of Friendship Valley | 289999 | [289999-the-last-days-of-friendship-valley.json](./289999-the-last-days-of-friendship-valley.json) |
 | The Last Days of Sodom | 192662 | [192662-the-last-days-of-sodom.json](./192662-the-last-days-of-sodom.json) |
 | The Last Days of the Third Age | 356169 | [356169-the-last-days-of-the-third-age.json](./356169-the-last-days-of-the-third-age.json) |
@@ -5900,6 +5903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Bear | 53923 | [53923-the-lost-bear.json](./53923-the-lost-bear.json) |
 | The Lost Cases of Sherlock Holmes | 10978 | [10978-the-lost-cases-of-sherlock-holmes.json](./10978-the-lost-cases-of-sherlock-holmes.json) |
 | The Lost Cases of Sherlock Holmes 2 | 10979 | [10979-the-lost-cases-of-sherlock-holmes-2.json](./10979-the-lost-cases-of-sherlock-holmes-2.json) |
+| The Lost Castle In Darkmist | 40369 | [40369-the-lost-castle-in-darkmist.json](./40369-the-lost-castle-in-darkmist.json) |
 | The Lost Caves | 179169 | [179169-the-lost-caves.json](./179169-the-lost-caves.json) |
 | The Lost Cemetery | 268995 | [268995-the-lost-cemetery.json](./268995-the-lost-cemetery.json) |
 | The Lost Child | 36535 | [36535-the-lost-child.json](./36535-the-lost-child.json) |
@@ -6080,6 +6084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Master | 81625 | [81625-the-master.json](./81625-the-master.json) |
 | The Master of the Land | 362278 | [362278-the-master-of-the-land.json](./362278-the-master-of-the-land.json) |
 | The Master's Pupil | 211813 | [211813-the-masters-pupil.json](./211813-the-masters-pupil.json) |
+| The Masters of Kin | 40360 | [40360-the-masters-of-kin.json](./40360-the-masters-of-kin.json) |
 | The Masters: Survival | 188571 | [188571-the-masters-survival.json](./188571-the-masters-survival.json) |
 | The Match Golf | 402918 | [402918-the-match-golf.json](./402918-the-match-golf.json) |
 | The Matchless KungFu | 164874 | [164874-the-matchless-kungfu.json](./164874-the-matchless-kungfu.json) |
