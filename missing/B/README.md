@@ -2567,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beetle Junior DS | 92471 | [92471-beetle-junior-ds.json](./92471-beetle-junior-ds.json) |
 | Beetle King | 18540 | [18540-beetle-king.json](./18540-beetle-king.json) |
 | Beetle.io | 240338 | [240338-beetle-io.json](./240338-beetle-io.json) |
+| Beetlejuice: Bad as Can | 55287 | [55287-beetlejuice-bad-as-can.json](./55287-beetlejuice-bad-as-can.json) |
 | Beetlejuice: Horrific Hijinx from the Neitherworld! | 80889 | [80889-beetlejuice-horrific-hijinx-from-the-neitherworld.json](./80889-beetlejuice-horrific-hijinx-from-the-neitherworld.json) |
 | Beetlenaut | 62197 | [62197-beetlenaut.json](./62197-beetlenaut.json) |
 | BeetleQuest 2023 | 271289 | [271289-beetlequest-2023.json](./271289-beetlequest-2023.json) |
@@ -5877,6 +5878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle Flip! | 97099 | [97099-bottle-flip.json](./97099-bottle-flip.json) |
 | Bottle It!: Beverage Simulator | 389971 | [389971-bottle-it-beverage-simulator.json](./389971-bottle-it-beverage-simulator.json) |
 | Bottle of Sickness | 386216 | [386216-bottle-of-sickness.json](./386216-bottle-of-sickness.json) |
+| Bottle_Shooter | 55240 | [55240-bottle-shooter.json](./55240-bottle-shooter.json) |
 | Bottle: Pilgrim | 74638 | [74638-bottle-pilgrim.json](./74638-bottle-pilgrim.json) |
 | Bottom of the Ninth | 245547 | [245547-bottom-of-the-ninth.json](./245547-bottom-of-the-ninth.json) |
 | Bottomless | 183596 | [183596-bottomless.json](./183596-bottomless.json) |
@@ -7327,6 +7329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Building & Co | 79285 | [79285-building-and-co.json](./79285-building-and-co.json) |
 | Building 37 | 185603 | [185603-building-37.json](./185603-building-37.json) |
 | Building 847 | 160214 | [160214-building-847.json](./160214-building-847.json) |
+| Building Block Heroes | 55257 | [55257-building-block-heroes.json](./55257-building-block-heroes.json) |
 | Building Block Simulator | 297636 | [297636-building-block-simulator.json](./297636-building-block-simulator.json) |
 | Building Block: Castle & City Craft Simulator | 89277 | [89277-building-block-castle-and-city-craft-simulator.json](./89277-building-block-castle-and-city-craft-simulator.json) |
 | Building Blocks / Master Builder of Egypt | 81219 | [81219-building-blocks-master-builder-of-egypt.json](./81219-building-blocks-master-builder-of-egypt.json) |
