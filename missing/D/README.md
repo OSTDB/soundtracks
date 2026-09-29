@@ -1174,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dave the Bird | 244367 | [244367-dave-the-bird.json](./244367-dave-the-bird.json) |
 | Dave the Diver | 203722 | [203722-dave-the-diver.json](./203722-dave-the-diver.json) |
 | Dave the Diver: Balatro | 314280 | [314280-dave-the-diver-balatro.json](./314280-dave-the-diver-balatro.json) |
+| Dave the Diver: Dredge | 279619 | [279619-dave-the-diver-dredge.json](./279619-dave-the-diver-dredge.json) |
 | Dave the Diver: In the Jungle | 325582 | [325582-dave-the-diver-in-the-jungle.json](./325582-dave-the-diver-in-the-jungle.json) |
 | Dave the Diver: Mxmtoon | 314281 | [314281-dave-the-diver-mxmtoon.json](./314281-dave-the-diver-mxmtoon.json) |
 | Dave the Diver: Potion Craft | 314279 | [314279-dave-the-diver-potion-craft.json](./314279-dave-the-diver-potion-craft.json) |
@@ -3795,6 +3796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die in the Dark | 105284 | [105284-die-in-the-dark.json](./105284-die-in-the-dark.json) |
 | Die in the Dungeon | 147285 | [147285-die-in-the-dungeon.json](./147285-die-in-the-dungeon.json) |
 | Die in the Dungeon: Classic | 325653 | [325653-die-in-the-dungeon-classic.json](./325653-die-in-the-dungeon-classic.json) |
+| Die in the Dungeon: Origins | 266078 | [266078-die-in-the-dungeon-origins.json](./266078-die-in-the-dungeon-origins.json) |
 | Die kleine Lokomotive und ihre Freunde | 81401 | [81401-die-kleine-lokomotive-und-ihre-freunde.json](./81401-die-kleine-lokomotive-und-ihre-freunde.json) |
 | Die Legende der Wikinger | 91397 | [91397-die-legende-der-wikinger.json](./91397-die-legende-der-wikinger.json) |
 | Die Legende von Saya - Befehl aus der Dunkelheit | 128454 | [128454-die-legende-von-saya-befehl-aus-der-dunkelheit.json](./128454-die-legende-von-saya-befehl-aus-der-dunkelheit.json) |
@@ -6509,6 +6511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Fantasy: The Black Tome of Ice | 36219 | [36219-dragon-fantasy-the-black-tome-of-ice.json](./36219-dragon-fantasy-the-black-tome-of-ice.json) |
 | Dragon Fantasy: The Volumes of Westeria | 17931 | [17931-dragon-fantasy-the-volumes-of-westeria.json](./17931-dragon-fantasy-the-volumes-of-westeria.json) |
 | Dragon Fight VR | 133389 | [133389-dragon-fight-vr.json](./133389-dragon-fight-vr.json) |
+| Dragon Fighter | 144672 | [144672-dragon-fighter.json](./144672-dragon-fighter.json) |
 | Dragon Fin Soup | 17377 | [17377-dragon-fin-soup.json](./17377-dragon-fin-soup.json) |
 | Dragon Finga | 403614 | [403614-dragon-finga.json](./403614-dragon-finga.json) |
 | Dragon Fire | 24844 | [24844-dragon-fire.json](./24844-dragon-fire.json) |
