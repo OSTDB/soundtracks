@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sable Maze: Forbidden Garden & Sable Maze: Twelve Fears | 201822 | [201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json](./201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json) |
 | Sable Maze: Norwich Caves - Collector's Edition | 74353 | [74353-sable-maze-norwich-caves-collectors-edition.json](./74353-sable-maze-norwich-caves-collectors-edition.json) |
 | Sable Maze: Soul Catcher - Collector’s Edition | 97138 | [97138-sable-maze-soul-catcher-collector-s-edition.json](./97138-sable-maze-soul-catcher-collector-s-edition.json) |
+| Sable Maze: Sullivan River - Collector's Edition | 30045 | [30045-sable-maze-sullivan-river-collectors-edition.json](./30045-sable-maze-sullivan-river-collectors-edition.json) |
 | Sable Maze: Twelve Fears - Collector's Edition | 110347 | [110347-sable-maze-twelve-fears-collectors-edition.json](./110347-sable-maze-twelve-fears-collectors-edition.json) |
 | Sable's Grimoire: A Dragon's Treasure | 129724 | [129724-sables-grimoire-a-dragons-treasure.json](./129724-sables-grimoire-a-dragons-treasure.json) |
 | Sable's Grimoire: Man and Elf | 129725 | [129725-sables-grimoire-man-and-elf.json](./129725-sables-grimoire-man-and-elf.json) |
@@ -852,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Showdown | 141898 | [141898-santa-showdown.json](./141898-santa-showdown.json) |
 | Santa Simon | 79953 | [79953-santa-simon.json](./79953-santa-simon.json) |
 | Santa Simulator | 112993 | [112993-santa-simulator.json](./112993-santa-simulator.json) |
+| Santa Sling | 30074 | [30074-santa-sling.json](./30074-santa-sling.json) |
 | Santa Throw | 186907 | [186907-santa-throw.json](./186907-santa-throw.json) |
 | Santa With Gun | 382878 | [382878-santa-with-gun.json](./382878-santa-with-gun.json) |
 | Santa World | 273431 | [273431-santa-world.json](./273431-santa-world.json) |
@@ -7421,6 +7423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Ultra | 55520 | [55520-solitaire-ultra.json](./55520-solitaire-ultra.json) |
 | Solitaire Unlimited Platinum | 208880 | [208880-solitaire-unlimited-platinum.json](./208880-solitaire-unlimited-platinum.json) |
 | Solitaire Valentine's Day 2 | 89237 | [89237-solitaire-valentines-day-2.json](./89237-solitaire-valentines-day-2.json) |
+| Solitaire VR | 30081 | [30081-solitaire-vr.json](./30081-solitaire-vr.json) |
 | Solitaire World: Anime Waifus | 411822 | [411822-solitaire-world-anime-waifus.json](./411822-solitaire-world-anime-waifus.json) |
 | Solitaire XP Championship | 208875 | [208875-solitaire-xp-championship.json](./208875-solitaire-xp-championship.json) |
 | Solitaire XXX | 93375 | [93375-solitaire-xxx.json](./93375-solitaire-xxx.json) |
@@ -12556,6 +12559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Level: Windows Edition | 101624 | [101624-street-level-windows-edition.json](./101624-street-level-windows-edition.json) |
 | Street Master | 45987 | [45987-street-master.json](./45987-street-master.json) |
 | Street Masters | 175196 | [175196-street-masters.json](./175196-street-masters.json) |
+| Street of Sanctuary VR | 30051 | [30051-street-of-sanctuary-vr.json](./30051-street-of-sanctuary-vr.json) |
 | Street of the Cats | 293631 | [293631-street-of-the-cats.json](./293631-street-of-the-cats.json) |
 | Street Outlaws 2: Winner Takes All | 162246 | [162246-street-outlaws-2-winner-takes-all.json](./162246-street-outlaws-2-winner-takes-all.json) |
 | Street Outlaws 2: Winner Takes All - Blazing Freedom Bundle | 226698 | [226698-street-outlaws-2-winner-takes-all-blazing-freedom-bundle.json](./226698-street-outlaws-2-winner-takes-all-blazing-freedom-bundle.json) |
