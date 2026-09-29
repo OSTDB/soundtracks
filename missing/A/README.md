@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absin | 165505 | [165505-absin.json](./165505-absin.json) |
 | Absinth | 68905 | [68905-absinth.json](./68905-absinth.json) |
 | Absinthe | 337440 | [337440-absinthe.json](./337440-absinthe.json) |
+| Absolut deadmau5 | 58283 | [58283-absolut-deadmau5.json](./58283-absolut-deadmau5.json) |
 | Absolute Alchemical Potion | 158555 | [158555-absolute-alchemical-potion.json](./158555-absolute-alchemical-potion.json) |
 | Absolute Backgammon | 100605 | [100605-absolute-backgammon.json](./100605-absolute-backgammon.json) |
 | Absolute Blue | 71466 | [71466-absolute-blue.json](./71466-absolute-blue.json) |
@@ -2899,6 +2900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almistice | 274010 | [274010-almistice.json](./274010-almistice.json) |
 | Almond Ridge | 270753 | [270753-almond-ridge.json](./270753-almond-ridge.json) |
 | Almos a Dream Painter's Tale | 415125 | [415125-almos-a-dream-painters-tale.json](./415125-almos-a-dream-painters-tale.json) |
+| Almost Impossible! | 58303 | [58303-almost-impossible.json](./58303-almost-impossible.json) |
 | Almost My Floor: Halloween Party | 196131 | [196131-almost-my-floor-halloween-party.json](./196131-almost-my-floor-halloween-party.json) |
 | Almost Reversi | 316407 | [316407-almost-reversi.json](./316407-almost-reversi.json) |
 | Almost There: The Platformer | 113722 | [113722-almost-there-the-platformer.json](./113722-almost-there-the-platformer.json) |
@@ -3002,6 +3004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlphaLink | 173170 | [173170-alphalink.json](./173170-alphalink.json) |
 | AlphaMan | 308344 | [308344-alphaman.json](./308344-alphaman.json) |
 | AlphaNatix: Urban Legends | 308347 | [308347-alphanatix-urban-legends.json](./308347-alphanatix-urban-legends.json) |
+| AlphaPit | 58299 | [58299-alphapit.json](./58299-alphapit.json) |
 | AlphaSwap | 234071 | [234071-alphaswap.json](./234071-alphaswap.json) |
 | Alpine Alpaca | 181218 | [181218-alpine-alpaca.json](./181218-alpine-alpaca.json) |
 | Alpine Crawler Wild | 174199 | [174199-alpine-crawler-wild.json](./174199-alpine-crawler-wild.json) |
@@ -3320,6 +3323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Dream | 48634 | [48634-american-dream.json](./48634-american-dream.json) |
 | American Eristics | 255697 | [255697-american-eristics.json](./255697-american-eristics.json) |
 | American FKN Election | 329103 | [329103-american-fkn-election.json](./329103-american-fkn-election.json) |
+| American Football | 58278 | [58278-american-football.json](./58278-american-football.json) |
 | American Girl: Dress Designer | 18244 | [18244-american-girl-dress-designer.json](./18244-american-girl-dress-designer.json) |
 | American Girl: Julie Finds a Way | 18241 | [18241-american-girl-julie-finds-a-way.json](./18241-american-girl-julie-finds-a-way.json) |
 | American Girl: Julie Saves the Eagles | 18242 | [18242-american-girl-julie-saves-the-eagles.json](./18242-american-girl-julie-saves-the-eagles.json) |
