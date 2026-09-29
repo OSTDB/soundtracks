@@ -3386,6 +3386,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Trouble | 322597 | [322597-highway-trouble.json](./322597-highway-trouble.json) |
 | Highway Trouble 2 | 322599 | [322599-highway-trouble-2.json](./322599-highway-trouble-2.json) |
 | Highway Wars | 88041 | [88041-highway-wars.json](./88041-highway-wars.json) |
+| Higurashi Daybreak Portable | 38477 | [38477-higurashi-daybreak-portable.json](./38477-higurashi-daybreak-portable.json) |
+| Higurashi Daybreak Portable: Mega Edition | 38478 | [38478-higurashi-daybreak-portable-mega-edition.json](./38478-higurashi-daybreak-portable-mega-edition.json) |
 | Higurashi no Naku Koro ni Hou: Hinamizawa Teiryuujo | 263492 | [263492-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json](./263492-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json) |
 | Higurashi no Naku Koro ni Hou: Kamikashimashi-hen | 263493 | [263493-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json](./263493-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json) |
 | Higurashi no Naku Koro ni Hou: Outbreak | 263490 | [263490-higurashi-no-naku-koro-ni-hou-outbreak.json](./263490-higurashi-no-naku-koro-ni-hou-outbreak.json) |
@@ -3811,6 +3813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hokuto no Ken 5: Tenma Ryuusei-den Ai Zesshou | 42552 | [42552-hokuto-no-ken-5-tenma-ryuusei-den-ai-zesshou.json](./42552-hokuto-no-ken-5-tenma-ryuusei-den-ai-zesshou.json) |
 | Hokuto no Ken 7: Seiken Retsuden Denshousha he no Michi | 38337 | [38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json](./38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json) |
 | Hokuto no Ken Part-2 | 45601 | [45601-hokuto-no-ken-part-2.json](./45601-hokuto-no-ken-part-2.json) |
+| Hokuto no Ken: Raou Gaiden - Ten no Haou | 38476 | [38476-hokuto-no-ken-raou-gaiden-ten-no-haou.json](./38476-hokuto-no-ken-raou-gaiden-ten-no-haou.json) |
 | Hokuto no Ken: Seikimatsu Kyuuseishu Densetsu | 44883 | [44883-hokuto-no-ken-seikimatsu-kyuuseishu-densetsu.json](./44883-hokuto-no-ken-seikimatsu-kyuuseishu-densetsu.json) |
 | Hokuto no Ken: Shin Seikimatsu Kyuuseishu Densetsu | 313283 | [313283-hokuto-no-ken-shin-seikimatsu-kyuuseishu-densetsu.json](./313283-hokuto-no-ken-shin-seikimatsu-kyuuseishu-densetsu.json) |
 | Hokuto no Ken: Shinpan no Sousousei Kengo Retsuden | 77991 | [77991-hokuto-no-ken-shinpan-no-sousousei-kengo-retsuden.json](./77991-hokuto-no-ken-shinpan-no-sousousei-kengo-retsuden.json) |
