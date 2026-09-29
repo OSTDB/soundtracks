@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Mind 2 | 125278 | [125278-tactical-mind-2.json](./125278-tactical-mind-2.json) |
 | Tactical Nexus: Chapter 3 - Tactical Cloud- | 174134 | [174134-tactical-nexus-chapter-3-tactical-cloud.json](./174134-tactical-nexus-chapter-3-tactical-cloud.json) |
 | Tactical Operations Force | 189941 | [189941-tactical-operations-force.json](./189941-tactical-operations-force.json) |
+| Tactical Ops: Assault on Terror | 8778 | [8778-tactical-ops-assault-on-terror.json](./8778-tactical-ops-assault-on-terror.json) |
 | Tactical Rampart | 275332 | [275332-tactical-rampart.json](./275332-tactical-rampart.json) |
 | Tactical Retreat | 180586 | [180586-tactical-retreat.json](./180586-tactical-retreat.json) |
 | Tactical Soccer the New Season | 34477 | [34477-tactical-soccer-the-new-season.json](./34477-tactical-soccer-the-new-season.json) |
@@ -621,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Spark: Probation | 258496 | [258496-tales-of-spark-probation.json](./258496-tales-of-spark-probation.json) |
 | Tales of Survival Horror | 379431 | [379431-tales-of-survival-horror.json](./379431-tales-of-survival-horror.json) |
 | Tales of Symphonia | 221716 | [221716-tales-of-symphonia.json](./221716-tales-of-symphonia.json) |
+| Tales of Symphonia | 221717 | [221717-tales-of-symphonia.json](./221717-tales-of-symphonia.json) |
 | Tales of Symphonia Remastered | 217564 | [217564-tales-of-symphonia-remastered.json](./217564-tales-of-symphonia-remastered.json) |
 | Tales of Symphonia: Dawn of the New World | 222629 | [222629-tales-of-symphonia-dawn-of-the-new-world.json](./222629-tales-of-symphonia-dawn-of-the-new-world.json) |
 | Tales of Terrabanthis | 237301 | [237301-tales-of-terrabanthis.json](./237301-tales-of-terrabanthis.json) |
@@ -2185,6 +2187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tesla: The Weather Man | 54431 | [54431-tesla-the-weather-man.json](./54431-tesla-the-weather-man.json) |
 | Tesla's Best Friend | 30861 | [30861-teslas-best-friend.json](./30861-teslas-best-friend.json) |
 | Tesla's Tower: The Wardenclyffe Mystery | 31954 | [31954-teslas-tower-the-wardenclyffe-mystery.json](./31954-teslas-tower-the-wardenclyffe-mystery.json) |
+| Teslagrad 2 | 214506 | [214506-teslagrad-2.json](./214506-teslagrad-2.json) |
 | Teslagrad Remastered | 246407 | [246407-teslagrad-remastered.json](./246407-teslagrad-remastered.json) |
 | Tess | 58767 | [58767-tess.json](./58767-tess.json) |
 | Tess and the Forgotten Friend | 58766 | [58766-tess-and-the-forgotten-friend.json](./58766-tess-and-the-forgotten-friend.json) |
@@ -10820,6 +10823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Ring | 257364 | [257364-tiny-ring.json](./257364-tiny-ring.json) |
 | Tiny Robots Recharged | 167830 | [167830-tiny-robots-recharged.json](./167830-tiny-robots-recharged.json) |
 | Tiny Robots: Portal Escape | 297201 | [297201-tiny-robots-portal-escape.json](./297201-tiny-robots-portal-escape.json) |
+| Tiny Rogues | 215217 | [215217-tiny-rogues.json](./215217-tiny-rogues.json) |
 | Tiny Room Stories: Town Mystery | 122907 | [122907-tiny-room-stories-town-mystery.json](./122907-tiny-room-stories-town-mystery.json) |
 | Tiny Shadows Interwoven Hearts | 374078 | [374078-tiny-shadows-interwoven-hearts.json](./374078-tiny-shadows-interwoven-hearts.json) |
 | Tiny Shop | 297576 | [297576-tiny-shop.json](./297576-tiny-shop.json) |
