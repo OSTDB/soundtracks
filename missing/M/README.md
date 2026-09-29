@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Rat Dead | 135301 | [135301-mad-rat-dead.json](./135301-mad-rat-dead.json) |
 | Mad Restaurant People | 107398 | [107398-mad-restaurant-people.json](./107398-mad-restaurant-people.json) |
 | Mad Rider | 145025 | [145025-mad-rider.json](./145025-mad-rider.json) |
+| Mad Riders | 8035 | [8035-mad-riders.json](./8035-mad-riders.json) |
 | Mad Road: Apocalyptic Shooter Survival Killer | 251597 | [251597-mad-road-apocalyptic-shooter-survival-killer.json](./251597-mad-road-apocalyptic-shooter-survival-killer.json) |
 | Mad Rocket: Fog of War | 111758 | [111758-mad-rocket-fog-of-war.json](./111758-mad-rocket-fog-of-war.json) |
 | Mad Room No.3 | 333193 | [333193-mad-room-no-3.json](./333193-mad-room-no-3.json) |
@@ -2055,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marshmellow Day Spa | 114153 | [114153-marshmellow-day-spa.json](./114153-marshmellow-day-spa.json) |
 | Marsi's Adventures | 228375 | [228375-marsis-adventures.json](./228375-marsis-adventures.json) |
 | Marsport | 45327 | [45327-marsport.json](./45327-marsport.json) |
+| Marsupilami | 18142 | [18142-marsupilami.json](./18142-marsupilami.json) |
 | Marsupilami: Hoobadventure - Tropical Edition | 152337 | [152337-marsupilami-hoobadventure-tropical-edition.json](./152337-marsupilami-hoobadventure-tropical-edition.json) |
 | Marswar | 257423 | [257423-marswar.json](./257423-marswar.json) |
 | Marswar TD | 169465 | [169465-marswar-td.json](./169465-marswar-td.json) |
@@ -2101,6 +2103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maruta Escape | 293166 | [293166-maruta-escape.json](./293166-maruta-escape.json) |
 | Marvel 1943: Rise of Hydra | 216315 | [216315-marvel-1943-rise-of-hydra.json](./216315-marvel-1943-rise-of-hydra.json) |
 | Marvel 2099: One Nation Under Doom | 144263 | [144263-marvel-2099-one-nation-under-doom.json](./144263-marvel-2099-one-nation-under-doom.json) |
+| Marvel Avengers Academy | 18028 | [18028-marvel-avengers-academy.json](./18028-marvel-avengers-academy.json) |
 | Marvel Avengers Alliance Tactics | 61694 | [61694-marvel-avengers-alliance-tactics.json](./61694-marvel-avengers-alliance-tactics.json) |
 | Marvel Contest of Champions | 28107 | [28107-marvel-contest-of-champions.json](./28107-marvel-contest-of-champions.json) |
 | Marvel Disk Wars: Avengers - Ultimate Heroes | 61656 | [61656-marvel-disk-wars-avengers-ultimate-heroes.json](./61656-marvel-disk-wars-avengers-ultimate-heroes.json) |
@@ -4662,6 +4665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey Mouse: Magic Wands! | 48990 | [48990-mickey-mouse-magic-wands.json](./48990-mickey-mouse-magic-wands.json) |
 | Mickey to Ooki na Furudokei | 299463 | [299463-mickey-to-ooki-na-furudokei.json](./299463-mickey-to-ooki-na-furudokei.json) |
 | Mickey's 123's: The Big Surprise Party | 65768 | [65768-mickeys-123s-the-big-surprise-party.json](./65768-mickeys-123s-the-big-surprise-party.json) |
+| Mickey's Adventure in Numberland | 18102 | [18102-mickeys-adventure-in-numberland.json](./18102-mickeys-adventure-in-numberland.json) |
 | Mickey's Dangerous Chase | 8127 | [8127-mickeys-dangerous-chase.json](./8127-mickeys-dangerous-chase.json) |
 | Mickey's House Party | 214046 | [214046-mickeys-house-party.json](./214046-mickeys-house-party.json) |
 | Mickey's Robot Laboratory | 320330 | [320330-mickeys-robot-laboratory.json](./320330-mickeys-robot-laboratory.json) |
@@ -5714,6 +5718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini's Magic World | 33339 | [33339-minis-magic-world.json](./33339-minis-magic-world.json) |
 | Miniacs: Steering Madness | 382227 | [382227-miniacs-steering-madness.json](./382227-miniacs-steering-madness.json) |
 | Miniature Garden | 25710 | [25710-miniature-garden.json](./25710-miniature-garden.json) |
+| Miniature Golf | 18415 | [18415-miniature-golf.json](./18415-miniature-golf.json) |
 | Miniature Legends | 395238 | [395238-miniature-legends.json](./395238-miniature-legends.json) |
 | Miniature Mania | 395709 | [395709-miniature-mania.json](./395709-miniature-mania.json) |
 | Miniature Mayhem! | 262931 | [262931-miniature-mayhem.json](./262931-miniature-mayhem.json) |
@@ -7847,6 +7852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motherflakker | 132018 | [132018-motherflakker.json](./132018-motherflakker.json) |
 | Motherfunkin | 315105 | [315105-motherfunkin.json](./315105-motherfunkin.json) |
 | Motherland | 229702 | [229702-motherland.json](./229702-motherland.json) |
+| Motherload | 19070 | [19070-motherload.json](./19070-motherload.json) |
 | Motherload: Goldium Edition | 186345 | [186345-motherload-goldium-edition.json](./186345-motherload-goldium-edition.json) |
 | Mothership | 262981 | [262981-mothership.json](./262981-mothership.json) |
 | Mothership | 293414 | [293414-mothership.json](./293414-mothership.json) |
