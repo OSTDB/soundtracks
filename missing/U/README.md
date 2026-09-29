@@ -699,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Realm: Ego | 327836 | [327836-undead-realm-ego.json](./327836-undead-realm-ego.json) |
 | Undead Residence | 411662 | [411662-undead-residence.json](./411662-undead-residence.json) |
 | Undead Run | 163741 | [163741-undead-run.json](./163741-undead-run.json) |
+| Undead Slayer | 46755 | [46755-undead-slayer.json](./46755-undead-slayer.json) |
 | Undead Souls | 55496 | [55496-undead-souls.json](./55496-undead-souls.json) |
 | Undead Village | 244375 | [244375-undead-village.json](./244375-undead-village.json) |
 | Undead vs. Plants | 18120 | [18120-undead-vs-plants.json](./18120-undead-vs-plants.json) |
@@ -1472,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upside-Down Dimensions | 52009 | [52009-upside-down-dimensions.json](./52009-upside-down-dimensions.json) |
 | Upsidedownsky | 368508 | [368508-upsidedownsky.json](./368508-upsidedownsky.json) |
 | Upsilon Circuit | 12977 | [12977-upsilon-circuit.json](./12977-upsilon-circuit.json) |
+| Upsolom | 46730 | [46730-upsolom.json](./46730-upsolom.json) |
 | Upstream | 340936 | [340936-upstream.json](./340936-upstream.json) |
 | Upstream Ante | 298324 | [298324-upstream-ante.json](./298324-upstream-ante.json) |
 | Uptown Outbreak | 257682 | [257682-uptown-outbreak.json](./257682-uptown-outbreak.json) |
