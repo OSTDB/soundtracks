@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Shall Remain | 17234 | [17234-i-shall-remain.json](./17234-i-shall-remain.json) |
 | I Slay Zombies: VR Shooter | 174343 | [174343-i-slay-zombies-vr-shooter.json](./174343-i-slay-zombies-vr-shooter.json) |
 | I Spy | 80520 | [80520-i-spy.json](./80520-i-spy.json) |
+| I Spy Fantasy | 73162 | [73162-i-spy-fantasy.json](./73162-i-spy-fantasy.json) |
 | I Spy Fun House | 252149 | [252149-i-spy-fun-house.json](./252149-i-spy-fun-house.json) |
 | I Spy Junior: Puppet Playhouse | 65181 | [65181-i-spy-junior-puppet-playhouse.json](./65181-i-spy-junior-puppet-playhouse.json) |
 | I Spy Mystery | 69891 | [69891-i-spy-mystery.json](./69891-i-spy-mystery.json) |
