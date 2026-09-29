@@ -1243,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carry Onward | 249787 | [249787-carry-onward.json](./249787-carry-onward.json) |
 | Carry The Glass | 319399 | [319399-carry-the-glass.json](./319399-carry-the-glass.json) |
 | Carry the Pack Rack | 389711 | [389711-carry-the-pack-rack.json](./389711-carry-the-pack-rack.json) |
+| Cars | 243201 | [243201-cars.json](./243201-cars.json) |
 | Cars | 3849 | [3849-cars.json](./3849-cars.json) |
 | Cars 2 | 210274 | [210274-cars-2.json](./210274-cars-2.json) |
 | Cars 2 | 220080 | [220080-cars-2.json](./220080-cars-2.json) |
@@ -6162,6 +6163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contrition | 179748 | [179748-contrition.json](./179748-contrition.json) |
 | Control Craft 2 | 33560 | [33560-control-craft-2.json](./33560-control-craft-2.json) |
 | Control Freak | 111233 | [111233-control-freak.json](./111233-control-freak.json) |
+| Control Resonant | 225582 | [225582-control-resonant.json](./225582-control-resonant.json) |
 | Control Room Alpha | 207816 | [207816-control-room-alpha.json](./207816-control-room-alpha.json) |
 | Control Season Pass | 122314 | [122314-control-season-pass.json](./122314-control-season-pass.json) |
 | Control the Ball | 312198 | [312198-control-the-ball.json](./312198-control-the-ball.json) |
@@ -6628,6 +6630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Solitaire 2 | 337254 | [337254-cosmo-solitaire-2.json](./337254-cosmo-solitaire-2.json) |
 | Cosmo Vulpes | 216194 | [216194-cosmo-vulpes.json](./216194-cosmo-vulpes.json) |
 | Cosmo-Champion | 346089 | [346089-cosmo-champion.json](./346089-cosmo-champion.json) |
+| Cosmo's Cosmic Adventure | 8484 | [8484-cosmos-cosmic-adventure.json](./8484-cosmos-cosmic-adventure.json) |
 | Cosmo's Delivery and Logistics | 269037 | [269037-cosmos-delivery-and-logistics.json](./269037-cosmos-delivery-and-logistics.json) |
 | Cosmo's Industry | 374841 | [374841-cosmos-industry.json](./374841-cosmos-industry.json) |
 | Cosmoblaster Exodia | 192939 | [192939-cosmoblaster-exodia.json](./192939-cosmoblaster-exodia.json) |
