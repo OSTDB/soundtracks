@@ -4939,6 +4939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CogVR | 29827 | [29827-cogvr.json](./29827-cogvr.json) |
 | Cohabitation | 217877 | [217877-cohabitation.json](./217877-cohabitation.json) |
 | Cohabitation Life | 296647 | [296647-cohabitation-life.json](./296647-cohabitation-life.json) |
+| Cohen's Towers | 23949 | [23949-cohens-towers.json](./23949-cohens-towers.json) |
 | Coil | 92635 | [92635-coil.json](./92635-coil.json) |
 | Coil's Containment | 338916 | [338916-coils-containment.json](./338916-coils-containment.json) |
 | Coin | 314310 | [314310-coin.json](./314310-coin.json) |
@@ -5696,6 +5697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compulsive | 250661 | [250661-compulsive.json](./250661-compulsive.json) |
 | Computer Baseball | 245531 | [245531-computer-baseball.json](./245531-computer-baseball.json) |
 | Computer Baseball | 245532 | [245532-computer-baseball.json](./245532-computer-baseball.json) |
+| Computer Bismarck | 23996 | [23996-computer-bismarck.json](./23996-computer-bismarck.json) |
 | Computer Board Game: Genpei Touma-den | 42035 | [42035-computer-board-game-genpei-touma-den.json](./42035-computer-board-game-genpei-touma-den.json) |
 | Computer bugs stole my grandmas tax files and I gotta go get them back in cyberspace | 227918 | [227918-computer-bugs-stole-my-grandmas-tax-files-and-i-gotta-go-get-them-back-in-cyberspace.json](./227918-computer-bugs-stole-my-grandmas-tax-files-and-i-gotta-go-get-them-back-in-cyberspace.json) |
 | Computer Cats | 226431 | [226431-computer-cats.json](./226431-computer-cats.json) |
@@ -7066,6 +7068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Course | 172528 | [172528-crash-course.json](./172528-crash-course.json) |
 | Crash Course | 380094 | [380094-crash-course.json](./380094-crash-course.json) |
 | Crash Course Go! | 106099 | [106099-crash-course-go.json](./106099-crash-course-go.json) |
+| Crash Dive | 24003 | [24003-crash-dive.json](./24003-crash-dive.json) |
 | Crash Drive 2 | 35904 | [35904-crash-drive-2.json](./35904-crash-drive-2.json) |
 | Crash Drive 3 | 153824 | [153824-crash-drive-3.json](./153824-crash-drive-3.json) |
 | Crash Dummy | 35855 | [35855-crash-dummy.json](./35855-crash-dummy.json) |
@@ -7972,6 +7975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings II: Finno-Ugric Unit Pack | 168339 | [168339-crusader-kings-ii-finno-ugric-unit-pack.json](./168339-crusader-kings-ii-finno-ugric-unit-pack.json) |
 | Crusader Kings II: Monks and Mystics | 26426 | [26426-crusader-kings-ii-monks-and-mystics.json](./26426-crusader-kings-ii-monks-and-mystics.json) |
 | Crusader Kings II: Songs of the RU | 52859 | [52859-crusader-kings-ii-songs-of-the-ru.json](./52859-crusader-kings-ii-songs-of-the-ru.json) |
+| Crusader Kings II: Sunset Invasion | 23980 | [23980-crusader-kings-ii-sunset-invasion.json](./23980-crusader-kings-ii-sunset-invasion.json) |
 | Crusader Kings II: The Reaper's Due Collection | 52858 | [52858-crusader-kings-ii-the-reapers-due-collection.json](./52858-crusader-kings-ii-the-reapers-due-collection.json) |
 | Crusader Kings II: Way of Life Collection | 52857 | [52857-crusader-kings-ii-way-of-life-collection.json](./52857-crusader-kings-ii-way-of-life-collection.json) |
 | Crusader Kings III | 124954 | [124954-crusader-kings-iii.json](./124954-crusader-kings-iii.json) |
