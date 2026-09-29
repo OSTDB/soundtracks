@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachiko | 357310 | [357310-pachiko.json](./357310-pachiko.json) |
 | Pachillinko | 188665 | [188665-pachillinko.json](./188665-pachillinko.json) |
 | Pachinko Challenger | 42237 | [42237-pachinko-challenger.json](./42237-pachinko-challenger.json) |
+| Pachinko CR Daiku no Gen-san GB | 55962 | [55962-pachinko-cr-daiku-no-gen-san-gb.json](./55962-pachinko-cr-daiku-no-gen-san-gb.json) |
 | Pachinko Fan: Shouri Sengen | 42236 | [42236-pachinko-fan-shouri-sengen.json](./42236-pachinko-fan-shouri-sengen.json) |
 | Pachinko GP | 41395 | [41395-pachinko-gp.json](./41395-pachinko-gp.json) |
 | Pachinko Kamen Rider | 91885 | [91885-pachinko-kamen-rider.json](./91885-pachinko-kamen-rider.json) |
@@ -4298,6 +4299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playground VR | 143690 | [143690-playground-vr.json](./143690-playground-vr.json) |
 | PlayGuys | 320538 | [320538-playguys.json](./320538-playguys.json) |
 | Playhead | 195719 | [195719-playhead.json](./195719-playhead.json) |
+| Playhouse Strip Poker | 55990 | [55990-playhouse-strip-poker.json](./55990-playhouse-strip-poker.json) |
 | Playing Field 2 | 410419 | [410419-playing-field-2.json](./410419-playing-field-2.json) |
 | Playing History: Vikings | 12074 | [12074-playing-history-vikings.json](./12074-playing-history-vikings.json) |
 | Playing House | 335262 | [335262-playing-house.json](./335262-playing-house.json) |
