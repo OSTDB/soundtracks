@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mah Jong Solitaire 2 | 86699 | [86699-mah-jong-solitaire-2.json](./86699-mah-jong-solitaire-2.json) |
 | Mah Jongg Solitaire | 85816 | [85816-mah-jongg-solitaire.json](./85816-mah-jongg-solitaire.json) |
 | Mah Jongg: V-G-A | 261204 | [261204-mah-jongg-v-g-a.json](./261204-mah-jongg-v-g-a.json) |
+| Mah-Jong Club Nagata-cho: Sousaisen | 48790 | [48790-mah-jong-club-nagata-cho-sousaisen.json](./48790-mah-jong-club-nagata-cho-sousaisen.json) |
 | Mah-jongg Puzzle Pai-Sen | 124787 | [124787-mah-jongg-puzzle-pai-sen.json](./124787-mah-jongg-puzzle-pai-sen.json) |
 | Mah~Jomino Deluxe | 146197 | [146197-mah-jomino-deluxe.json](./146197-mah-jomino-deluxe.json) |
 | MahJah | 232542 | [232542-mahjah.json](./232542-mahjah.json) |
@@ -889,8 +890,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Solitaire Epic | 88426 | [88426-mahjong-solitaire-epic.json](./88426-mahjong-solitaire-epic.json) |
 | Mahjong Solitaire Refresh | 114173 | [114173-mahjong-solitaire-refresh.json](./114173-mahjong-solitaire-refresh.json) |
 | Mahjong Solitaire Refresh: Ex Panels | 170928 | [170928-mahjong-solitaire-refresh-ex-panels.json](./170928-mahjong-solitaire-refresh-ex-panels.json) |
+| Mahjong Taikai | 48788 | [48788-mahjong-taikai.json](./48788-mahjong-taikai.json) |
 | Mahjong Taikai II | 37936 | [37936-mahjong-taikai-ii.json](./37936-mahjong-taikai-ii.json) |
 | Mahjong Taikai IV | 66091 | [66091-mahjong-taikai-iv.json](./66091-mahjong-taikai-iv.json) |
+| Mahjong Taisen | 48787 | [48787-mahjong-taisen.json](./48787-mahjong-taisen.json) |
 | Mahjong Tales: Ancient Wisdom | 52577 | [52577-mahjong-tales-ancient-wisdom.json](./52577-mahjong-tales-ancient-wisdom.json) |
 | Mahjong Trap | 115717 | [115717-mahjong-trap.json](./115717-mahjong-trap.json) |
 | Mahjong Triple Wars Gaiden | 91934 | [91934-mahjong-triple-wars-gaiden.json](./91934-mahjong-triple-wars-gaiden.json) |
@@ -1010,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maize | 19518 | [19518-maize.json](./19518-maize.json) |
 | Maize Mace Maze | 293075 | [293075-maize-mace-maze.json](./293075-maize-mace-maze.json) |
 | Maja and Benny | 353976 | [353976-maja-and-benny.json](./353976-maja-and-benny.json) |
+| Majaventure: Mahjong Senki | 48785 | [48785-majaventure-mahjong-senki.json](./48785-majaventure-mahjong-senki.json) |
 | Majestic | 94676 | [94676-majestic.json](./94676-majestic.json) |
 | Majestic Hero Pin | 205026 | [205026-majestic-hero-pin.json](./205026-majestic-hero-pin.json) |
 | Majestic Majolical vol. 1 | 240523 | [240523-majestic-majolical-vol-1.json](./240523-majestic-majolical-vol-1.json) |
@@ -2379,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters: Harukanaru Augusta 3 | 268542 | [268542-masters-harukanaru-augusta-3.json](./268542-masters-harukanaru-augusta-3.json) |
 | Masterspace | 36420 | [36420-masterspace.json](./36420-masterspace.json) |
 | Mastodonte | 189062 | [189062-mastodonte.json](./189062-mastodonte.json) |
+| Masuzoe Youichi: Asa made Famicom | 48784 | [48784-masuzoe-youichi-asa-made-famicom.json](./48784-masuzoe-youichi-asa-made-famicom.json) |
 | Masyanya Under The Yellow Press | 335429 | [335429-masyanya-under-the-yellow-press.json](./335429-masyanya-under-the-yellow-press.json) |
 | Mat Hoffman's Pro BMX | 249166 | [249166-mat-hoffmans-pro-bmx.json](./249166-mat-hoffmans-pro-bmx.json) |
 | Mat Hoffman's Pro BMX | 249167 | [249167-mat-hoffmans-pro-bmx.json](./249167-mat-hoffmans-pro-bmx.json) |
@@ -2569,6 +2574,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matsudaira's Myoshu: A Sengoku Village Simulator | 291470 | [291470-matsudairas-myoshu-a-sengoku-village-simulator.json](./291470-matsudairas-myoshu-a-sengoku-village-simulator.json) |
 | Matsukata Hiroki no Super Trawling | 37930 | [37930-matsukata-hiroki-no-super-trawling.json](./37930-matsukata-hiroki-no-super-trawling.json) |
 | Matsukeke Burst! | 288297 | [288297-matsukeke-burst.json](./288297-matsukeke-burst.json) |
+| Matsumoto Toru no Kabushiki Hisshougaku | 48783 | [48783-matsumoto-toru-no-kabushiki-hisshougaku.json](./48783-matsumoto-toru-no-kabushiki-hisshougaku.json) |
+| Matsumoto Toru no Kabushiki Hisshougaku II | 48782 | [48782-matsumoto-toru-no-kabushiki-hisshougaku-ii.json](./48782-matsumoto-toru-no-kabushiki-hisshougaku-ii.json) |
 | Matsurikki | 202314 | [202314-matsurikki.json](./202314-matsurikki.json) |
 | Matsuro Palette | 245042 | [245042-matsuro-palette.json](./245042-matsuro-palette.json) |
 | Matt Hazard: Blood Bath and Beyond | 47430 | [47430-matt-hazard-blood-bath-and-beyond.json](./47430-matt-hazard-blood-bath-and-beyond.json) |
@@ -3607,6 +3614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mei Qi: Season 6 | 170375 | [170375-mei-qi-season-6.json](./170375-mei-qi-season-6.json) |
 | Meian | 97673 | [97673-meian.json](./97673-meian.json) |
 | MeiaUm: Escaping the Pix | 329373 | [329373-meiaum-escaping-the-pix.json](./329373-meiaum-escaping-the-pix.json) |
+| Meiji Ishin | 48781 | [48781-meiji-ishin.json](./48781-meiji-ishin.json) |
 | Meiji Tokyo Renka | 136445 | [136445-meiji-tokyo-renka.json](./136445-meiji-tokyo-renka.json) |
 | Meiji Tokyo Renka Full Moon | 136447 | [136447-meiji-tokyo-renka-full-moon.json](./136447-meiji-tokyo-renka-full-moon.json) |
 | Meiji Tokyo Renka Twilight Kiss | 136446 | [136446-meiji-tokyo-renka-twilight-kiss.json](./136446-meiji-tokyo-renka-twilight-kiss.json) |
@@ -3616,6 +3624,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meikyuu Xross Blood | 25664 | [25664-meikyuu-xross-blood.json](./25664-meikyuu-xross-blood.json) |
 | Meimetsu | 355209 | [355209-meimetsu.json](./355209-meimetsu.json) |
 | Mèimó de Màoxiǎn Shēnghuó | 164277 | [164277-meimo-de-maoxian-shenghuo.json](./164277-meimo-de-maoxian-shenghuo.json) |
+| Meimon! Daisan Yakyuu-bu | 48780 | [48780-meimon-daisan-yakyuu-bu.json](./48780-meimon-daisan-yakyuu-bu.json) |
+| Meimon! Tako Nishi Ouendan | 48779 | [48779-meimon-tako-nishi-ouendan.json](./48779-meimon-tako-nishi-ouendan.json) |
 | Meine Eigene Traumstadt | 337719 | [337719-meine-eigene-traumstadt.json](./337719-meine-eigene-traumstadt.json) |
 | Meine Tierarztpraxis in Australien | 77635 | [77635-meine-tierarztpraxis-in-australien.json](./77635-meine-tierarztpraxis-in-australien.json) |
 | Meine Tierarztpraxis: SOS am Ozean | 204688 | [204688-meine-tierarztpraxis-sos-am-ozean.json](./204688-meine-tierarztpraxis-sos-am-ozean.json) |
@@ -3630,6 +3640,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meister | 113670 | [113670-meister.json](./113670-meister.json) |
 | MeisterPower | 383980 | [383980-meisterpower.json](./383980-meisterpower.json) |
 | Meitantei Conan: Tantei-ryoku Trainer | 78712 | [78712-meitantei-conan-tantei-ryoku-trainer.json](./78712-meitantei-conan-tantei-ryoku-trainer.json) |
+| Meitantei Holmes: Kiri no London Satsujin Jiken | 48778 | [48778-meitantei-holmes-kiri-no-london-satsujin-jiken.json](./48778-meitantei-holmes-kiri-no-london-satsujin-jiken.json) |
+| Meitantei Holmes: M kara no Chousenjou | 48777 | [48777-meitantei-holmes-m-kara-no-chousenjou.json](./48777-meitantei-holmes-m-kara-no-chousenjou.json) |
 | Meitantei no Nazotoki Suuri: Thrill to Suspence no Jiken Kaiketsu Nazotoki Game | 240223 | [240223-meitantei-no-nazotoki-suuri-thrill-to-suspence-no-jiken-kaiketsu-nazotoki-game.json](./240223-meitantei-no-nazotoki-suuri-thrill-to-suspence-no-jiken-kaiketsu-nazotoki-game.json) |
 | Meka Sigurat | 232931 | [232931-meka-sigurat.json](./232931-meka-sigurat.json) |
 | Mekabolt+ | 192300 | [192300-mekabolt.json](./192300-mekabolt.json) |
@@ -4450,8 +4462,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mexican Smashoff | 212221 | [212221-mexican-smashoff.json](./212221-mexican-smashoff.json) |
 | Mexico 1921: A Deep Slumber | 211921 | [211921-mexico-1921-a-deep-slumber.json](./211921-mexico-1921-a-deep-slumber.json) |
 | Meyni | 299128 | [299128-meyni.json](./299128-meyni.json) |
+| Mezase Pachi Pro: Pachio-kun | 48776 | [48776-mezase-pachi-pro-pachio-kun.json](./48776-mezase-pachi-pro-pachio-kun.json) |
 | Mezase! Kanji Ou | 43962 | [43962-mezase-kanji-ou.json](./43962-mezase-kanji-ou.json) |
 | Mezase! Senkyu Ou | 166151 | [166151-mezase-senkyu-ou.json](./166151-mezase-senkyu-ou.json) |
+| Mezase! Top Pro Green ni Kakeru Yume | 48775 | [48775-mezase-top-pro-green-ni-kakeru-yume.json](./48775-mezase-top-pro-green-ni-kakeru-yume.json) |
 | Mezase!! Tsuri Master DS | 345136 | [345136-mezase-tsuri-master-ds.json](./345136-mezase-tsuri-master-ds.json) |
 | Mezma's Revenge | 302504 | [302504-mezmas-revenge.json](./302504-mezmas-revenge.json) |
 | Mezzo Piano: Oshare & Lesson | 327597 | [327597-mezzo-piano-oshare-and-lesson.json](./327597-mezzo-piano-oshare-and-lesson.json) |
@@ -6033,6 +6047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mithral Gun | 196330 | [196330-mithral-gun.json](./196330-mithral-gun.json) |
 | Mitla | 373657 | [373657-mitla.json](./373657-mitla.json) |
 | Mito da Criação | 131368 | [131368-mito-da-criacao.json](./131368-mito-da-criacao.json) |
+| Mito Koumon II: Sekai Manyuu Ki | 48773 | [48773-mito-koumon-ii-sekai-manyuu-ki.json](./48773-mito-koumon-ii-sekai-manyuu-ki.json) |
 | Mitoosis | 144788 | [144788-mitoosis.json](./144788-mitoosis.json) |
 | Mitos.is: The Game | 34786 | [34786-mitos-is-the-game.json](./34786-mitos-is-the-game.json) |
 | Mitoza | 144270 | [144270-mitoza.json](./144270-mitoza.json) |
@@ -6094,6 +6109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mizuki Shigeru no Yokai Butou-den | 60593 | [60593-mizuki-shigeru-no-yokai-butou-den.json](./60593-mizuki-shigeru-no-yokai-butou-den.json) |
 | Mizuki Shigeru no Yokai Hyakki Yakou | 37924 | [37924-mizuki-shigeru-no-yokai-hyakki-yakou.json](./37924-mizuki-shigeru-no-yokai-hyakki-yakou.json) |
 | Mizuki Shigeru no Yokai Shashinkan | 43963 | [43963-mizuki-shigeru-no-yokai-shashinkan.json](./43963-mizuki-shigeru-no-yokai-shashinkan.json) |
+| Mizushima Shinji no Daikoushien | 48772 | [48772-mizushima-shinji-no-daikoushien.json](./48772-mizushima-shinji-no-daikoushien.json) |
 | Mizz Survival | 243767 | [243767-mizz-survival.json](./243767-mizz-survival.json) |
 | MJ | 130945 | [130945-mj.json](./130945-mj.json) |
 | MK-Ultra Tower Defense | 312766 | [312766-mk-ultra-tower-defense.json](./312766-mk-ultra-tower-defense.json) |
@@ -6502,6 +6518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momotaro Densetsu 1-2 | 64413 | [64413-momotaro-densetsu-1-2.json](./64413-momotaro-densetsu-1-2.json) |
 | Momotaro Densetsu Mobile | 186765 | [186765-momotaro-densetsu-mobile.json](./186765-momotaro-densetsu-mobile.json) |
 | Momotaro Densetsu Turbo | 42049 | [42049-momotaro-densetsu-turbo.json](./42049-momotaro-densetsu-turbo.json) |
+| Momotaro Dentetsu | 48771 | [48771-momotaro-dentetsu.json](./48771-momotaro-dentetsu.json) |
 | Momotaro Dentetsu 15: Godai Bonbii Toujou! no Maki | 64406 | [64406-momotaro-dentetsu-15-godai-bonbii-toujou-no-maki.json](./64406-momotaro-dentetsu-15-godai-bonbii-toujou-no-maki.json) |
 | Momotaro Dentetsu 16: Hokkaido Daiidou no Maki! | 64405 | [64405-momotaro-dentetsu-16-hokkaido-daiidou-no-maki.json](./64405-momotaro-dentetsu-16-hokkaido-daiidou-no-maki.json) |
 | Momotaro Dentetsu 2010: Sengoku Ishin no Hero Daishuugou! no Maki | 79273 | [79273-momotaro-dentetsu-2010-sengoku-ishin-no-hero-daishuugou-no-maki.json](./79273-momotaro-dentetsu-2010-sengoku-ishin-no-hero-daishuugou-no-maki.json) |
@@ -7365,6 +7382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoriArashi | 205235 | [205235-moriarashi.json](./205235-moriarashi.json) |
 | Moribunderland | 183964 | [183964-moribunderland.json](./183964-moribunderland.json) |
 | Morikomori Life | 262977 | [262977-morikomori-life.json](./262977-morikomori-life.json) |
+| Morita Kazuo no Shogi | 48817 | [48817-morita-kazuo-no-shogi.json](./48817-morita-kazuo-no-shogi.json) |
 | Morita Shogi 64 | 3543 | [3543-morita-shogi-64.json](./3543-morita-shogi-64.json) |
 | Morituria | 347798 | [347798-morituria.json](./347798-morituria.json) |
 | Mörk Borg Heresy Supreme | 317584 | [317584-mork-borg-heresy-supreme.json](./317584-mork-borg-heresy-supreme.json) |
@@ -7810,6 +7828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moubootaur Legends | 177425 | [177425-moubootaur-legends.json](./177425-moubootaur-legends.json) |
 | Mouja | 197958 | [197958-mouja.json](./197958-mouja.json) |
 | Mouldy Old Void | 303020 | [303020-mouldy-old-void.json](./303020-mouldy-old-void.json) |
+| Moulin Rouge Senki: Melville no Honoo | 48816 | [48816-moulin-rouge-senki-melville-no-honoo.json](./48816-moulin-rouge-senki-melville-no-honoo.json) |
 | Mount & Blade Full Collection | 53364 | [53364-mount-and-blade-full-collection.json](./53364-mount-and-blade-full-collection.json) |
 | Mount & Blade II: Bannerlord - War Sails | 336151 | [336151-mount-and-blade-ii-bannerlord-war-sails.json](./336151-mount-and-blade-ii-bannerlord-war-sails.json) |
 | Mount & Blade: Warband - Napoleonic Wars | 8784 | [8784-mount-and-blade-warband-napoleonic-wars.json](./8784-mount-and-blade-warband-napoleonic-wars.json) |
@@ -8330,6 +8349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder by Moonlight 2: Crimson Night | 193501 | [193501-murder-by-moonlight-2-crimson-night.json](./193501-murder-by-moonlight-2-crimson-night.json) |
 | Murder by Numbers | 123902 | [123902-murder-by-numbers.json](./123902-murder-by-numbers.json) |
 | Murder Castle | 405716 | [405716-murder-castle.json](./405716-murder-castle.json) |
+| Murder Club | 48815 | [48815-murder-club.json](./48815-murder-club.json) |
 | Murder Detective: Jack the Ripper | 114535 | [114535-murder-detective-jack-the-ripper.json](./114535-murder-detective-jack-the-ripper.json) |
 | Murder Diaries | 153948 | [153948-murder-diaries.json](./153948-murder-diaries.json) |
 | Murder Diaries: Ankara | 88185 | [88185-murder-diaries-ankara.json](./88185-murder-diaries-ankara.json) |
@@ -8913,6 +8933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Life As An Alchemist | 289430 | [289430-my-life-as-an-alchemist.json](./289430-my-life-as-an-alchemist.json) |
 | My Life Changed | 165708 | [165708-my-life-changed.json](./165708-my-life-changed.json) |
 | My Life in a Monster Girl Paradise | 403025 | [403025-my-life-in-a-monster-girl-paradise.json](./403025-my-life-in-a-monster-girl-paradise.json) |
+| My Life My Love: Boku no Yume Watashi no Negai | 48814 | [48814-my-life-my-love-boku-no-yume-watashi-no-negai.json](./48814-my-life-my-love-boku-no-yume-watashi-no-negai.json) |
 | My Life with You | 348969 | [348969-my-life-with-you.json](./348969-my-life-with-you.json) |
 | My Life: Farm Vet | 282143 | [282143-my-life-farm-vet.json](./282143-my-life-farm-vet.json) |
 | My Life: Pet Vet | 220875 | [220875-my-life-pet-vet.json](./220875-my-life-pet-vet.json) |
