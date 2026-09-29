@@ -1703,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telltale Batman Shadows Edition | 127560 | [127560-telltale-batman-shadows-edition.json](./127560-telltale-batman-shadows-edition.json) |
 | Tellurian Defense | 73555 | [73555-tellurian-defense.json](./73555-tellurian-defense.json) |
 | Telly the TV | 314643 | [314643-telly-the-tv.json](./314643-telly-the-tv.json) |
+| Telly Turtle | 40905 | [40905-telly-turtle.json](./40905-telly-turtle.json) |
 | Telmari | 265615 | [265615-telmari.json](./265615-telmari.json) |
 | Telocation: Gemini | 145455 | [145455-telocation-gemini.json](./145455-telocation-gemini.json) |
 | Telomere | 148505 | [148505-telomere.json](./148505-telomere.json) |
@@ -8523,6 +8524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizard and The Slug | 139400 | [139400-the-wizard-and-the-slug.json](./139400-the-wizard-and-the-slug.json) |
 | The Wizard Game | 149092 | [149092-the-wizard-game.json](./149092-the-wizard-game.json) |
 | The Wizard Needs Food, Badly! | 330717 | [330717-the-wizard-needs-food-badly.json](./330717-the-wizard-needs-food-badly.json) |
+| The Wizard of Id's Wiz Math | 40903 | [40903-the-wizard-of-ids-wiz-math.json](./40903-the-wizard-of-ids-wiz-math.json) |
 | The Wizard of Oz | 25781 | [25781-the-wizard-of-oz.json](./25781-the-wizard-of-oz.json) |
 | The Wizard Party | 277609 | [277609-the-wizard-party.json](./277609-the-wizard-party.json) |
 | The Wizard Sniffer | 123477 | [123477-the-wizard-sniffer.json](./123477-the-wizard-sniffer.json) |
@@ -8600,10 +8602,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Yawhg | 3031 | [3031-the-yawhg.json](./3031-the-yawhg.json) |
 | The Year of the Carrot | 235758 | [235758-the-year-of-the-carrot.json](./235758-the-year-of-the-carrot.json) |
 | The Yellow Quiz | 114365 | [114365-the-yellow-quiz.json](./114365-the-yellow-quiz.json) |
+| The Yolk's on You | 40919 | [40919-the-yolks-on-you.json](./40919-the-yolks-on-you.json) |
 | The Yoshi Garden | 145477 | [145477-the-yoshi-garden.json](./145477-the-yoshi-garden.json) |
 | The You Quiz | 361757 | [361757-the-you-quiz.json](./361757-the-you-quiz.json) |
 | The You Testament | 59920 | [59920-the-you-testament.json](./59920-the-you-testament.json) |
 | The You Testament: The 2D Coming | 234312 | [234312-the-you-testament-the-2d-coming.json](./234312-the-you-testament-the-2d-coming.json) |
+| The Young Ones | 40933 | [40933-the-young-ones.json](./40933-the-young-ones.json) |
 | The Youthdrainers | 34701 | [34701-the-youthdrainers.json](./34701-the-youthdrainers.json) |
 | The Yukon Trail | 73782 | [73782-the-yukon-trail.json](./73782-the-yukon-trail.json) |
 | The Z Axis: Continuum | 104794 | [104794-the-z-axis-continuum.json](./104794-the-z-axis-continuum.json) |
@@ -12100,6 +12104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tournament of Tamers | 157168 | [157168-tournament-of-tamers.json](./157168-tournament-of-tamers.json) |
 | Tournament Pool | 396580 | [396580-tournament-pool.json](./396580-tournament-pool.json) |
 | Tournament Pool | 51162 | [51162-tournament-pool.json](./51162-tournament-pool.json) |
+| Tournament Tennis | 40904 | [40904-tournament-tennis.json](./40904-tournament-tennis.json) |
 | Tournament Tower | 273412 | [273412-tournament-tower.json](./273412-tournament-tower.json) |
 | Tournament: Blood & Steel | 119051 | [119051-tournament-blood-and-steel.json](./119051-tournament-blood-and-steel.json) |
 | Touryuu Densetsu: Elan Doree | 77295 | [77295-touryuu-densetsu-elan-doree.json](./77295-touryuu-densetsu-elan-doree.json) |
@@ -14449,6 +14454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel Town | 106380 | [106380-tunnel-town.json](./106380-tunnel-town.json) |
 | Tunnel View | 180699 | [180699-tunnel-view.json](./180699-tunnel-view.json) |
 | Tunnel Vision | 273873 | [273873-tunnel-vision.json](./273873-tunnel-vision.json) |
+| Tunnels & Trolls | 40920 | [40920-tunnels-and-trolls.json](./40920-tunnels-and-trolls.json) |
 | Tunnels & Trolls: Crusaders of Khazan | 73874 | [73874-tunnels-and-trolls-crusaders-of-khazan.json](./73874-tunnels-and-trolls-crusaders-of-khazan.json) |
 | Tunnels of Armageddon | 71808 | [71808-tunnels-of-armageddon.json](./71808-tunnels-of-armageddon.json) |
 | Tunnels of Fahad | 74765 | [74765-tunnels-of-fahad.json](./74765-tunnels-of-fahad.json) |
