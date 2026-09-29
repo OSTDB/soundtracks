@@ -3335,6 +3335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Relay | 283860 | [283860-word-relay.json](./283860-word-relay.json) |
 | Word Rescue | 35506 | [35506-word-rescue.json](./35506-word-rescue.json) |
 | Word Rocket | 319191 | [319191-word-rocket.json](./319191-word-rocket.json) |
+| Word Safari: The Friendship Totems | 49472 | [49472-word-safari-the-friendship-totems.json](./49472-word-safari-the-friendship-totems.json) |
 | Word Scores | 344355 | [344355-word-scores.json](./344355-word-scores.json) |
 | Word Scramble | 87551 | [87551-word-scramble.json](./87551-word-scramble.json) |
 | Word Search - Puzzle Game For Kids | 108507 | [108507-word-search-puzzle-game-for-kids.json](./108507-word-search-puzzle-game-for-kids.json) |
@@ -3727,6 +3728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Racing '95 | 147430 | [147430-world-racing-95.json](./147430-world-racing-95.json) |
 | World Racing 2: Champion Edition | 231399 | [231399-world-racing-2-champion-edition.json](./231399-world-racing-2-champion-edition.json) |
 | World Rally | 46834 | [46834-world-rally.json](./46834-world-rally.json) |
+| World Reborn | 49502 | [49502-world-reborn.json](./49502-world-reborn.json) |
 | World Robot Boxing 2 | 196302 | [196302-world-robot-boxing-2.json](./196302-world-robot-boxing-2.json) |
 | World Seed Classic | 129736 | [129736-world-seed-classic.json](./129736-world-seed-classic.json) |
 | World Senate Game - Free Online Multiplayer Game | 145434 | [145434-world-senate-game-free-online-multiplayer-game.json](./145434-world-senate-game-free-online-multiplayer-game.json) |
