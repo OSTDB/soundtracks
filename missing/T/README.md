@@ -4175,6 +4175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fantastic Adventures of Mr. Don and Friends | 372982 | [372982-the-fantastic-adventures-of-mr-don-and-friends.json](./372982-the-fantastic-adventures-of-mr-don-and-friends.json) |
 | The Fantastic Fivesome | 303015 | [303015-the-fantastic-fivesome.json](./303015-the-fantastic-fivesome.json) |
 | The Fantastic Game | 230520 | [230520-the-fantastic-game.json](./230520-the-fantastic-game.json) |
+| The Fantastic Voyage | 39145 | [39145-the-fantastic-voyage.json](./39145-the-fantastic-voyage.json) |
 | The Fantasy Village | 108268 | [108268-the-fantasy-village.json](./108268-the-fantasy-village.json) |
 | The Far Kingdoms: Forgotten Relics | 149927 | [149927-the-far-kingdoms-forgotten-relics.json](./149927-the-far-kingdoms-forgotten-relics.json) |
 | The Far Kingdoms: Garden Mosaics | 415906 | [415906-the-far-kingdoms-garden-mosaics.json](./415906-the-far-kingdoms-garden-mosaics.json) |
@@ -6839,6 +6840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rabbit Hole Principle | 120352 | [120352-the-rabbit-hole-principle.json](./120352-the-rabbit-hole-principle.json) |
 | The Rabbit's Scroll | 204114 | [204114-the-rabbits-scroll.json](./204114-the-rabbits-scroll.json) |
 | The Rabbit's Shadow | 360074 | [360074-the-rabbits-shadow.json](./360074-the-rabbits-shadow.json) |
+| The Race Against Time | 39132 | [39132-the-race-against-time.json](./39132-the-race-against-time.json) |
 | The Race for the White House | 9372 | [9372-the-race-for-the-white-house.json](./9372-the-race-for-the-white-house.json) |
 | The Race for the White House 2016 | 31386 | [31386-the-race-for-the-white-house-2016.json](./31386-the-race-for-the-white-house-2016.json) |
 | The Race to Galamax | 147281 | [147281-the-race-to-galamax.json](./147281-the-race-to-galamax.json) |
@@ -14484,6 +14486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Dismount 2 | 319769 | [319769-turbo-dismount-2.json](./319769-turbo-dismount-2.json) |
 | Turbo DX | 313106 | [313106-turbo-dx.json](./313106-turbo-dx.json) |
 | Turbo Fiesta | 206069 | [206069-turbo-fiesta.json](./206069-turbo-fiesta.json) |
+| Turbo Girl | 39140 | [39140-turbo-girl.json](./39140-turbo-girl.json) |
 | Turbo Golf Racing | 194736 | [194736-turbo-golf-racing.json](./194736-turbo-golf-racing.json) |
 | Turbo Hovercraft | 359418 | [359418-turbo-hovercraft.json](./359418-turbo-hovercraft.json) |
 | Turbo Kid | 212164 | [212164-turbo-kid.json](./212164-turbo-kid.json) |
