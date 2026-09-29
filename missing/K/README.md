@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaeru no Tame ni Kane wa Naru | 49078 | [49078-kaeru-no-tame-ni-kane-wa-naru.json](./49078-kaeru-no-tame-ni-kane-wa-naru.json) |
 | Kaeru nyo Panyo~n | 146266 | [146266-kaeru-nyo-panyo-n.json](./146266-kaeru-nyo-panyo-n.json) |
 | Kaetram | 301401 | [301401-kaetram.json](./301401-kaetram.json) |
+| Kaettekita Pachio-kun Dream Collection | 59510 | [59510-kaettekita-pachio-kun-dream-collection.json](./59510-kaettekita-pachio-kun-dream-collection.json) |
 | Kaf Village | 340784 | [340784-kaf-village.json](./340784-kaf-village.json) |
 | Kafak | 390234 | [390234-kafak.json](./390234-kafak.json) |
 | Kafka's Metamorphosis | 328219 | [328219-kafkas-metamorphosis.json](./328219-kafkas-metamorphosis.json) |
@@ -236,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider City Wars | 68105 | [68105-kamen-rider-city-wars.json](./68105-kamen-rider-city-wars.json) |
 | Kamen Rider Club: Gekitotsu Shocker Land | 48691 | [48691-kamen-rider-club-gekitotsu-shocker-land.json](./48691-kamen-rider-club-gekitotsu-shocker-land.json) |
 | Kamen Rider Decade | 321523 | [321523-kamen-rider-decade.json](./321523-kamen-rider-decade.json) |
+| Kamen Rider Ghost: Game de Kaigan!! | 59464 | [59464-kamen-rider-ghost-game-de-kaigan.json](./59464-kamen-rider-ghost-game-de-kaigan.json) |
 | Kamen Rider Kabuto | 91886 | [91886-kamen-rider-kabuto.json](./91886-kamen-rider-kabuto.json) |
 | Kamen Rider Kuuga | 43863 | [43863-kamen-rider-kuuga.json](./43863-kamen-rider-kuuga.json) |
 | Kamen Rider V3 | 43862 | [43862-kamen-rider-v3.json](./43862-kamen-rider-v3.json) |
@@ -897,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khan: Myth of the Wind | 145603 | [145603-khan-myth-of-the-wind.json](./145603-khan-myth-of-the-wind.json) |
 | Khaos Wind | 111894 | [111894-khaos-wind.json](./111894-khaos-wind.json) |
 | Khara the Game | 108830 | [108830-khara-the-game.json](./108830-khara-the-game.json) |
+| Kharkov: Disaster on the Donets | 59493 | [59493-kharkov-disaster-on-the-donets.json](./59493-kharkov-disaster-on-the-donets.json) |
 | Khatyrka: Prelude | 229967 | [229967-khatyrka-prelude.json](./229967-khatyrka-prelude.json) |
 | Khemia | 136460 | [136460-khemia.json](./136460-khemia.json) |
 | Khimera: Puzzle Island | 146205 | [146205-khimera-puzzle-island.json](./146205-khimera-puzzle-island.json) |
@@ -1095,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Me If You Can | 292293 | [292293-kill-me-if-you-can.json](./292293-kill-me-if-you-can.json) |
 | Kill Me If You Can: Multiplayer Edition | 378317 | [378317-kill-me-if-you-can-multiplayer-edition.json](./378317-kill-me-if-you-can-multiplayer-edition.json) |
 | Kill PC | 121728 | [121728-kill-pc.json](./121728-kill-pc.json) |
+| Kill Shot Bravo | 59478 | [59478-kill-shot-bravo.json](./59478-kill-shot-bravo.json) |
 | Kill the Bad Guy | 10481 | [10481-kill-the-bad-guy.json](./10481-kill-the-bad-guy.json) |
 | Kill the Barney | 325819 | [325819-kill-the-barney.json](./325819-kill-the-barney.json) |
 | Kill the Brickman | 362260 | [362260-kill-the-brickman.json](./362260-kill-the-brickman.json) |
