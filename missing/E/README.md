@@ -2432,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eseala | 267472 | [267472-eseala.json](./267472-eseala.json) |
 | Esferibot | 272343 | [272343-esferibot.json](./272343-esferibot.json) |
 | Eshe's Wish Adventure | 199486 | [199486-eshes-wish-adventure.json](./199486-eshes-wish-adventure.json) |
+| Eshigami no Kizuna | 37300 | [37300-eshigami-no-kizuna.json](./37300-eshigami-no-kizuna.json) |
 | ESHQ | 327410 | [327410-eshq.json](./327410-eshq.json) |
 | Eskimo Eddie | 13843 | [13843-eskimo-eddie.json](./13843-eskimo-eddie.json) |
 | Eskimo Games | 80527 | [80527-eskimo-games.json](./80527-eskimo-games.json) |
