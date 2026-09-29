@@ -1586,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Ocean | 289872 | [289872-endless-ocean.json](./289872-endless-ocean.json) |
 | Endless Ocean: Blue World | 4833 | [4833-endless-ocean-blue-world.json](./4833-endless-ocean-blue-world.json) |
 | Endless Ocean: Luminous | 287856 | [287856-endless-ocean-luminous.json](./287856-endless-ocean-luminous.json) |
+| Endless Online | 57183 | [57183-endless-online.json](./57183-endless-online.json) |
 | Endless Pursuit | 183532 | [183532-endless-pursuit.json](./183532-endless-pursuit.json) |
 | Endless Reach | 358964 | [358964-endless-reach.json](./358964-endless-reach.json) |
 | Endless Rush | 261857 | [261857-endless-rush.json](./261857-endless-rush.json) |
