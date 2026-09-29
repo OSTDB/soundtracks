@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-Ho Kablammo | 67690 | [67690-yo-ho-kablammo.json](./67690-yo-ho-kablammo.json) |
 | Yo-Ho-Ho Cannon | 349842 | [349842-yo-ho-ho-cannon.json](./349842-yo-ho-ho-cannon.json) |
 | Yo-Jin-Bo: The Bodyguards | 72679 | [72679-yo-jin-bo-the-bodyguards.json](./72679-yo-jin-bo-the-bodyguards.json) |
+| Yo-Kai Dictionary | 57026 | [57026-yo-kai-dictionary.json](./57026-yo-kai-dictionary.json) |
 | Yo-kai Sangokushi: Kunitori Wars | 77356 | [77356-yo-kai-sangokushi-kunitori-wars.json](./77356-yo-kai-sangokushi-kunitori-wars.json) |
 | Yo-Kai Watch 1 for Nintendo Switch | 136357 | [136357-yo-kai-watch-1-for-nintendo-switch.json](./136357-yo-kai-watch-1-for-nintendo-switch.json) |
 | Yo-kai Watch 1 Smartphone | 308252 | [308252-yo-kai-watch-1-smartphone.json](./308252-yo-kai-watch-1-smartphone.json) |
@@ -706,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Double Pack | 79360 | [79360-yu-gi-oh-double-pack.json](./79360-yu-gi-oh-double-pack.json) |
 | Yu-Gi-Oh! Duel Generation | 79358 | [79358-yu-gi-oh-duel-generation.json](./79358-yu-gi-oh-duel-generation.json) |
 | Yu-Gi-Oh! Duel Links | 27093 | [27093-yu-gi-oh-duel-links.json](./27093-yu-gi-oh-duel-links.json) |
+| Yu-Gi-Oh! Duel Monsters | 57150 | [57150-yu-gi-oh-duel-monsters.json](./57150-yu-gi-oh-duel-monsters.json) |
 | Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist - Jonouchi Deck | 334709 | [334709-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-jonouchi-deck.json](./334709-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-jonouchi-deck.json) |
 | Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist - Kaiba Deck | 334708 | [334708-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-kaiba-deck.json](./334708-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-kaiba-deck.json) |
 | Yu-Gi-Oh! Early Days Collection | 309038 | [309038-yu-gi-oh-early-days-collection.json](./309038-yu-gi-oh-early-days-collection.json) |
