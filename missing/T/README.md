@@ -2756,6 +2756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Auction Game | 337199 | [337199-the-auction-game.json](./337199-the-auction-game.json) |
 | The Austrian Painter | 179484 | [179484-the-austrian-painter.json](./179484-the-austrian-painter.json) |
 | The Auto Sort Is Broken | 329363 | [329363-the-auto-sort-is-broken.json](./329363-the-auto-sort-is-broken.json) |
+| The Avaunting | 15609 | [15609-the-avaunting.json](./15609-the-avaunting.json) |
 | The Avengers | 86108 | [86108-the-avengers.json](./86108-the-avengers.json) |
 | The Avengers United Battle Force | 297544 | [297544-the-avengers-united-battle-force.json](./297544-the-avengers-united-battle-force.json) |
 | The Average Everyday Adventures of Samantha Browne | 16984 | [16984-the-average-everyday-adventures-of-samantha-browne.json](./16984-the-average-everyday-adventures-of-samantha-browne.json) |
@@ -2946,6 +2947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Gay Adventure | 327403 | [327403-the-big-gay-adventure.json](./327403-the-big-gay-adventure.json) |
 | The Big Heap | 129720 | [129720-the-big-heap.json](./129720-the-big-heap.json) |
 | The Big Journey | 69549 | [69549-the-big-journey.json](./69549-the-big-journey.json) |
+| The Big KO! | 15671 | [15671-the-big-ko.json](./15671-the-big-ko.json) |
 | The Big Lebowski Bowling | 312336 | [312336-the-big-lebowski-bowling.json](./312336-the-big-lebowski-bowling.json) |
 | The Big Mining | 235866 | [235866-the-big-mining.json](./235866-the-big-mining.json) |
 | The Big One | 239081 | [239081-the-big-one.json](./239081-the-big-one.json) |
