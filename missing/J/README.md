@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jacksmith: Weapons and Warriors | 337075 | [337075-jacksmith-weapons-and-warriors.json](./337075-jacksmith-weapons-and-warriors.json) |
 | Jackson | 40192 | [40192-jackson.json](./40192-jackson.json) |
 | Jacob Jazz's Tamarindo's Freaking Dinner | 378811 | [378811-jacob-jazzs-tamarindos-freaking-dinner.json](./378811-jacob-jazzs-tamarindos-freaking-dinner.json) |
+| Jacob Jones and the Bigfoot Mystery: Episode 2 | 36289 | [36289-jacob-jones-and-the-bigfoot-mystery-episode-2.json](./36289-jacob-jones-and-the-bigfoot-mystery-episode-2.json) |
 | Jacob Jones and the Bigfoot Mystery: Episode One - A Bump in the Night | 84153 | [84153-jacob-jones-and-the-bigfoot-mystery-episode-one-a-bump-in-the-night.json](./84153-jacob-jones-and-the-bigfoot-mystery-episode-one-a-bump-in-the-night.json) |
 | Jacob's Quest | 226731 | [226731-jacobs-quest.json](./226731-jacobs-quest.json) |
 | Jacob's Room | 228988 | [228988-jacobs-room.json](./228988-jacobs-room.json) |
@@ -1410,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Sky-High Collection | 334097 | [334097-jump-sky-high-collection.json](./334097-jump-sky-high-collection.json) |
 | Jump Squad | 218412 | [218412-jump-squad.json](./218412-jump-squad.json) |
 | Jump Start Crazy Karts | 50638 | [50638-jump-start-crazy-karts.json](./50638-jump-start-crazy-karts.json) |
+| Jump Tanks | 36330 | [36330-jump-tanks.json](./36330-jump-tanks.json) |
 | Jump the Crank | 365143 | [365143-jump-the-crank.json](./365143-jump-the-crank.json) |
 | Jump to Die!! | 29758 | [29758-jump-to-die.json](./29758-jump-to-die.json) |
 | Jump To Stratos | 376567 | [376567-jump-to-stratos.json](./376567-jump-to-stratos.json) |
