@@ -1638,6 +1638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires II: Definitive Edition - Dynasties of India | 197890 | [197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json](./197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json) |
 | Age of Empires II: Definitive Edition - The Mountain Royals | 272328 | [272328-age-of-empires-ii-definitive-edition-the-mountain-royals.json](./272328-age-of-empires-ii-definitive-edition-the-mountain-royals.json) |
 | Age of Empires II: Definitive Edition - The Viking Sagas | 418697 | [418697-age-of-empires-ii-definitive-edition-the-viking-sagas.json](./418697-age-of-empires-ii-definitive-edition-the-viking-sagas.json) |
+| Age of Empires II: Forgotten Empires | 9950 | [9950-age-of-empires-ii-forgotten-empires.json](./9950-age-of-empires-ii-forgotten-empires.json) |
 | Age of Empires II: HD Edition | 2950 | [2950-age-of-empires-ii-hd-edition.json](./2950-age-of-empires-ii-hd-edition.json) |
 | Age of Empires II: HD Edition - The Forgotten | 9951 | [9951-age-of-empires-ii-hd-edition-the-forgotten.json](./9951-age-of-empires-ii-hd-edition-the-forgotten.json) |
 | Age of Empires II: The Conquerors | 599 | [599-age-of-empires-ii-the-conquerors.json](./599-age-of-empires-ii-the-conquerors.json) |
@@ -3184,6 +3185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Always Forward | 297062 | [297062-always-forward.json](./297062-always-forward.json) |
 | Always Higher | 32196 | [32196-always-higher.json](./32196-always-higher.json) |
 | Always Remember Me | 36356 | [36356-always-remember-me.json](./36356-always-remember-me.json) |
+| Always Sometimes Monsters | 7289 | [7289-always-sometimes-monsters.json](./7289-always-sometimes-monsters.json) |
 | Always Sunset | 413736 | [413736-always-sunset.json](./413736-always-sunset.json) |
 | Always Together | 393647 | [393647-always-together.json](./393647-always-together.json) |
 | Alyssa's Quest | 310536 | [310536-alyssas-quest.json](./310536-alyssas-quest.json) |
@@ -3994,6 +3996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Troll | 122210 | [122210-angry-troll.json](./122210-angry-troll.json) |
 | Angry Troll Simulator 2018 | 110510 | [110510-angry-troll-simulator-2018.json](./110510-angry-troll-simulator-2018.json) |
 | Angry Universe VR | 297066 | [297066-angry-universe-vr.json](./297066-angry-universe-vr.json) |
+| Angry Video Game Nerd Adventures | 7960 | [7960-angry-video-game-nerd-adventures.json](./7960-angry-video-game-nerd-adventures.json) |
 | Angry World War 2 | 234070 | [234070-angry-world-war-2.json](./234070-angry-world-war-2.json) |
 | Angry Zombies | 88844 | [88844-angry-zombies.json](./88844-angry-zombies.json) |
 | Angst | 216203 | [216203-angst.json](./216203-angst.json) |
@@ -6543,6 +6546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterism: Apex of War | 190088 | [190088-asterism-apex-of-war.json](./190088-asterism-apex-of-war.json) |
 | Asterix | 12242 | [12242-asterix.json](./12242-asterix.json) |
 | Astérix | 19486 | [19486-asterix.json](./19486-asterix.json) |
+| Astérix | 7757 | [7757-asterix.json](./7757-asterix.json) |
 | Asterix & Cleopatra | 347915 | [347915-asterix-and-cleopatra.json](./347915-asterix-and-cleopatra.json) |
 | Astérix & Obélix | 228475 | [228475-asterix-and-obelix.json](./228475-asterix-and-obelix.json) |
 | Astérix & Obélix | 347901 | [347901-asterix-and-obelix.json](./347901-asterix-and-obelix.json) |
@@ -6957,6 +6961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Resleriana: The Red Alchemist & The White Guardian - Beginning of Summer Days Costume Set | 375158 | [375158-atelier-resleriana-the-red-alchemist-and-the-white-guardian-beginning-of-summer-days-costume-set.json](./375158-atelier-resleriana-the-red-alchemist-and-the-white-guardian-beginning-of-summer-days-costume-set.json) |
 | Atelier Resleriana: The Red Alchemist & The White Guardian - High-Difficulty Dungeon "Backwards-Ticking Clock Workshop" | 375159 | [375159-atelier-resleriana-the-red-alchemist-and-the-white-guardian-high-difficulty-dungeon-backwards-ticking-clock-workshop.json](./375159-atelier-resleriana-the-red-alchemist-and-the-white-guardian-high-difficulty-dungeon-backwards-ticking-clock-workshop.json) |
 | Atelier Resleriana: The Red Alchemist & The White Guardian - Recipe Expansion Pack "The Essence of Alchemy" | 375161 | [375161-atelier-resleriana-the-red-alchemist-and-the-white-guardian-recipe-expansion-pack-the-essence-of-alchemy.json](./375161-atelier-resleriana-the-red-alchemist-and-the-white-guardian-recipe-expansion-pack-the-essence-of-alchemy.json) |
+| Atelier Rorona: The Alchemist of Arland | 7275 | [7275-atelier-rorona-the-alchemist-of-arland.json](./7275-atelier-rorona-the-alchemist-of-arland.json) |
 | Atelier Rorona: The Alchemist of Arland - Limited Edition | 44600 | [44600-atelier-rorona-the-alchemist-of-arland-limited-edition.json](./44600-atelier-rorona-the-alchemist-of-arland-limited-edition.json) |
 | Atelier Ryza 2: Lost Legends & the Secret Fairy - Digital Deluxe Edition | 222263 | [222263-atelier-ryza-2-lost-legends-and-the-secret-fairy-digital-deluxe-edition.json](./222263-atelier-ryza-2-lost-legends-and-the-secret-fairy-digital-deluxe-edition.json) |
 | Atelier Ryza 2: Lost Legends & The Secret Fairy - Premium Box | 139998 | [139998-atelier-ryza-2-lost-legends-and-the-secret-fairy-premium-box.json](./139998-atelier-ryza-2-lost-legends-and-the-secret-fairy-premium-box.json) |
