@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raev: Kingdom on the Distant Shores | 336154 | [336154-raev-kingdom-on-the-distant-shores.json](./336154-raev-kingdom-on-the-distant-shores.json) |
 | Rafa's World + Axolotl + Cat Milk | 242658 | [242658-rafas-world-axolotl-cat-milk.json](./242658-rafas-world-axolotl-cat-milk.json) |
 | Rafflesia | 40167 | [40167-rafflesia.json](./40167-rafflesia.json) |
+| Raft | 27082 | [27082-raft.json](./27082-raft.json) |
 | Raft Rider | 22819 | [22819-raft-rider.json](./22819-raft-rider.json) |
 | Raft Survival Evolve Simulator | 103521 | [103521-raft-survival-evolve-simulator.json](./103521-raft-survival-evolve-simulator.json) |
 | Raft Wars 2 | 220138 | [220138-raft-wars-2.json](./220138-raft-wars-2.json) |
@@ -1095,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman 2: The Great Escape | 193313 | [193313-rayman-2-the-great-escape.json](./193313-rayman-2-the-great-escape.json) |
 | Rayman 2: The Great Escape | 193314 | [193314-rayman-2-the-great-escape.json](./193314-rayman-2-the-great-escape.json) |
 | Rayman 2: The Great Escape | 193315 | [193315-rayman-2-the-great-escape.json](./193315-rayman-2-the-great-escape.json) |
+| Rayman 2: The Great Escape | 843 | [843-rayman-2-the-great-escape.json](./843-rayman-2-the-great-escape.json) |
 | Rayman 3 | 193325 | [193325-rayman-3.json](./193325-rayman-3.json) |
 | Rayman 3 | 193326 | [193326-rayman-3.json](./193326-rayman-3.json) |
 | Rayman 3 HD | 47449 | [47449-rayman-3-hd.json](./47449-rayman-3-hd.json) |
@@ -1776,6 +1778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Faction | 215080 | [215080-red-faction.json](./215080-red-faction.json) |
 | Red Faction Collection | 53495 | [53495-red-faction-collection.json](./53495-red-faction-collection.json) |
 | Red Faction: B.E.A.S.T. | 264880 | [264880-red-faction-b-e-a-s-t.json](./264880-red-faction-b-e-a-s-t.json) |
+| Red Faction: Guerrilla | 846 | [846-red-faction-guerrilla.json](./846-red-faction-guerrilla.json) |
 | Red Faction: Guerrilla - Steam Edition | 28988 | [28988-red-faction-guerrilla-steam-edition.json](./28988-red-faction-guerrilla-steam-edition.json) |
 | Red Feud | 69566 | [69566-red-feud.json](./69566-red-feud.json) |
 | Red Flood | 321567 | [321567-red-flood.json](./321567-red-flood.json) |
