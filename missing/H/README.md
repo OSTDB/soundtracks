@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habitat Complex | 312896 | [312896-habitat-complex.json](./312896-habitat-complex.json) |
 | Habitat Shapes: The Tropical Journey | 401127 | [401127-habitat-shapes-the-tropical-journey.json](./401127-habitat-shapes-the-tropical-journey.json) |
 | Habitica | 395187 | [395187-habitica.json](./395187-habitica.json) |
+| Habitrail Hamster Ball | 9606 | [9606-habitrail-hamster-ball.json](./9606-habitrail-hamster-ball.json) |
 | Habitus | 34647 | [34647-habitus.json](./34647-habitus.json) |
 | Hablet | 344475 | [344475-hablet.json](./344475-hablet.json) |
 | Hacha Macha Pon! | 286585 | [286585-hacha-macha-pon.json](./286585-hacha-macha-pon.json) |
@@ -3361,6 +3362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higher Ground | 105077 | [105077-higher-ground.json](./105077-higher-ground.json) |
 | HighFleet | 157439 | [157439-highfleet.json](./157439-highfleet.json) |
 | Highland Panic | 248077 | [248077-highland-panic.json](./248077-highland-panic.json) |
+| Highland Warriors | 9356 | [9356-highland-warriors.json](./9356-highland-warriors.json) |
 | Highlander | 28851 | [28851-highlander.json](./28851-highlander.json) |
 | Highlander: The Game | 120295 | [120295-highlander-the-game.json](./120295-highlander-the-game.json) |
 | Highlander: The Gathering | 67240 | [67240-highlander-the-gathering.json](./67240-highlander-the-gathering.json) |
