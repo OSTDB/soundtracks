@@ -2347,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aletheia: Return of Odysseus | 288753 | [288753-aletheia-return-of-odysseus.json](./288753-aletheia-return-of-odysseus.json) |
 | Aletta | 200170 | [200170-aletta.json](./200170-aletta.json) |
 | Alex and Der Murder | 396378 | [396378-alex-and-der-murder.json](./396378-alex-and-der-murder.json) |
+| Alex Demeo's Race America | 48215 | [48215-alex-demeos-race-america.json](./48215-alex-demeos-race-america.json) |
 | Alex Hill: The Body at Clearwater Bay | 335423 | [335423-alex-hill-the-body-at-clearwater-bay.json](./335423-alex-hill-the-body-at-clearwater-bay.json) |
 | Alex Hill: Whispers at White Oak Inn | 288752 | [288752-alex-hill-whispers-at-white-oak-inn.json](./288752-alex-hill-whispers-at-white-oak-inn.json) |
 | Alex Hunter: Lord of the Mind HD | 105936 | [105936-alex-hunter-lord-of-the-mind-hd.json](./105936-alex-hunter-lord-of-the-mind-hd.json) |
