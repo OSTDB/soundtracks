@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Match | 277338 | [277338-machine-match.json](./277338-machine-match.json) |
 | Machine Men | 299448 | [299448-machine-men.json](./299448-machine-men.json) |
 | Machine of Madness | 409547 | [409547-machine-of-madness.json](./409547-machine-of-madness.json) |
+| Machine Party | 397811 | [397811-machine-party.json](./397811-machine-party.json) |
 | Machine Ruin Self-Destruction Masturbation Life of the Sky Temple | 189971 | [189971-machine-ruin-self-destruction-masturbation-life-of-the-sky-temple.json](./189971-machine-ruin-self-destruction-masturbation-life-of-the-sky-temple.json) |
 | Machine Tower 2984 | 357848 | [357848-machine-tower-2984.json](./357848-machine-tower-2984.json) |
 | Machine With a Big Gun | 103479 | [103479-machine-with-a-big-gun.json](./103479-machine-with-a-big-gun.json) |
@@ -4486,6 +4487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro - The Board Game | 88803 | [88803-metro-the-board-game.json](./88803-metro-the-board-game.json) |
 | Metro 2033: Wars | 59064 | [59064-metro-2033-wars.json](./59064-metro-2033-wars.json) |
 | Metro Architect | 407458 | [407458-metro-architect.json](./407458-metro-architect.json) |
+| Metro Awakening VR | 284720 | [284720-metro-awakening-vr.json](./284720-metro-awakening-vr.json) |
 | Metro Blossom | 203519 | [203519-metro-blossom.json](./203519-metro-blossom.json) |
 | Metro Exodus: Aurora Limited Edition | 109587 | [109587-metro-exodus-aurora-limited-edition.json](./109587-metro-exodus-aurora-limited-edition.json) |
 | Metro Exodus: Enhanced Edition | 143292 | [143292-metro-exodus-enhanced-edition.json](./143292-metro-exodus-enhanced-edition.json) |
