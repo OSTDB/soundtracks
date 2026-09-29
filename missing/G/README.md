@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Pack CD: 37 VGA Games Volume 2 | 137574 | [137574-game-pack-cd-37-vga-games-volume-2.json](./137574-game-pack-cd-37-vga-games-volume-2.json) |
 | Game Party 3 | 76982 | [76982-game-party-3.json](./76982-game-party-3.json) |
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
+| Game Royale 2 - The Secret of Jannis Island | 30140 | [30140-game-royale-2-the-secret-of-jannis-island.json](./30140-game-royale-2-the-secret-of-jannis-island.json) |
 | Game Set and Match 2 | 41001 | [41001-game-set-and-match-2.json](./41001-game-set-and-match-2.json) |
 | Game Shop Simulator | 381044 | [381044-game-shop-simulator.json](./381044-game-shop-simulator.json) |
 | Game Software wo Tsukurou | 333557 | [333557-game-software-wo-tsukurou.json](./333557-game-software-wo-tsukurou.json) |
@@ -3265,6 +3266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoVenture Typing | 117708 | [117708-goventure-typing.json](./117708-goventure-typing.json) |
 | Government X | 244481 | [244481-government-x.json](./244481-government-x.json) |
 | Governor of the West | 292632 | [292632-governor-of-the-west.json](./292632-governor-of-the-west.json) |
+| GoWings Safari | 30088 | [30088-gowings-safari.json](./30088-gowings-safari.json) |
 | Goya's Inferno | 345601 | [345601-goyas-inferno.json](./345601-goyas-inferno.json) |
 | GP Club Life Motorsports Team | 315650 | [315650-gp-club-life-motorsports-team.json](./315650-gp-club-life-motorsports-team.json) |
 | GP Fight | 92311 | [92311-gp-fight.json](./92311-gp-fight.json) |
@@ -4777,6 +4779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunheart | 36615 | [36615-gunheart.json](./36615-gunheart.json) |
 | Gunhed | 37710 | [37710-gunhed.json](./37710-gunhed.json) |
 | Gunhed: Taikai | 42025 | [42025-gunhed-taikai.json](./42025-gunhed-taikai.json) |
+| GunHero | 30035 | [30035-gunhero.json](./30035-gunhero.json) |
 | GunHowl | 144802 | [144802-gunhowl.json](./144802-gunhowl.json) |
 | Gunjin Gari | 59071 | [59071-gunjin-gari.json](./59071-gunjin-gari.json) |
 | Gunkour | 150085 | [150085-gunkour.json](./150085-gunkour.json) |
