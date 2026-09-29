@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Cat | 145537 | [145537-cat.json](./145537-cat.json) |
 | .Cat Nincat Dinogotchi | 231044 | [231044-cat-nincat-dinogotchi.json](./231044-cat-nincat-dinogotchi.json) |
 | .Decluster: Into the Bullet Hell | 142934 | [142934-decluster-into-the-bullet-hell.json](./142934-decluster-into-the-bullet-hell.json) |
+| .Detuned | 7724 | [7724-detuned.json](./7724-detuned.json) |
 | .ExE | 202236 | [202236-exe.json](./202236-exe.json) |
 | .Fall | 126441 | [126441-fall.json](./126441-fall.json) |
 | .Hack//G.U. Last Recode | 37134 | [37134-hack-g-u-last-recode.json](./37134-hack-g-u-last-recode.json) |
