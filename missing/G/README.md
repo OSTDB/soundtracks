@@ -441,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxystrife | 177018 | [177018-galaxystrife.json](./177018-galaxystrife.json) |
 | GalaxyWak | 282103 | [282103-galaxywak.json](./282103-galaxywak.json) |
 | Galazer Deluxe | 358965 | [358965-galazer-deluxe.json](./358965-galazer-deluxe.json) |
+| Galcon | 29041 | [29041-galcon.json](./29041-galcon.json) |
 | Galcon 2 | 36325 | [36325-galcon-2.json](./36325-galcon-2.json) |
 | Galdia | 343250 | [343250-galdia.json](./343250-galdia.json) |
 | GALDR | 307585 | [307585-galdr.json](./307585-galdr.json) |
@@ -1135,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Defense | 256226 | [256226-gem-defense.json](./256226-gem-defense.json) |
 | Gem Excavator | 223943 | [223943-gem-excavator.json](./223943-gem-excavator.json) |
 | Gem Gem Monster | 228551 | [228551-gem-gem-monster.json](./228551-gem-gem-monster.json) |
+| Gem Hunter | 29057 | [29057-gem-hunter.json](./29057-gem-hunter.json) |
 | Gem Hunter | 304160 | [304160-gem-hunter.json](./304160-gem-hunter.json) |
 | Gem Island | 326812 | [326812-gem-island.json](./326812-gem-island.json) |
 | Gem Jam | 130964 | [130964-gem-jam.json](./130964-gem-jam.json) |
@@ -2787,6 +2789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Rush | 244761 | [244761-gold-rush.json](./244761-gold-rush.json) |
 | Gold Rush Clicker | 264658 | [264658-gold-rush-clicker.json](./264658-gold-rush-clicker.json) |
 | Gold Rush! | 12121 | [12121-gold-rush.json](./12121-gold-rush.json) |
+| Gold Rush! 2 | 29091 | [29091-gold-rush-2.json](./29091-gold-rush-2.json) |
 | Gold Rush! Anniversary | 36230 | [36230-gold-rush-anniversary.json](./36230-gold-rush-anniversary.json) |
 | Gold Rush! Anniversary: Special Edition | 54055 | [54055-gold-rush-anniversary-special-edition.json](./54055-gold-rush-anniversary-special-edition.json) |
 | Gold Rush! Classic | 36288 | [36288-gold-rush-classic.json](./36288-gold-rush-classic.json) |
@@ -3146,6 +3149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gor Lab | 321155 | [321155-gor-lab.json](./321155-gor-lab.json) |
 | Goraku-Ou Tango! | 281521 | [281521-goraku-ou-tango.json](./281521-goraku-ou-tango.json) |
 | Gorathar | 262339 | [262339-gorathar.json](./262339-gorathar.json) |
+| Gorb | 29029 | [29029-gorb.json](./29029-gorb.json) |
 | Gorble | 311272 | [311272-gorble.json](./311272-gorble.json) |
 | Gord: Deluxe Edition | 259522 | [259522-gord-deluxe-edition.json](./259522-gord-deluxe-edition.json) |
 | Gordian Snake | 139319 | [139319-gordian-snake.json](./139319-gordian-snake.json) |
