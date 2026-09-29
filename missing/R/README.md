@@ -2809,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of the Saiyans | 237407 | [237407-return-of-the-saiyans.json](./237407-return-of-the-saiyans.json) |
 | Return of the Skeletal | 135175 | [135175-return-of-the-skeletal.json](./135175-return-of-the-skeletal.json) |
 | Return of the Slimepires | 288848 | [288848-return-of-the-slimepires.json](./288848-return-of-the-slimepires.json) |
+| Return of the Space Warrior | 37293 | [37293-return-of-the-space-warrior.json](./37293-return-of-the-space-warrior.json) |
 | Return of the Things | 66627 | [66627-return-of-the-things.json](./66627-return-of-the-things.json) |
 | Return or No Return | 267447 | [267447-return-or-no-return.json](./267447-return-or-no-return.json) |
 | Return Survival | 321517 | [321517-return-survival.json](./321517-return-survival.json) |
@@ -3811,6 +3812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riverside | 84838 | [84838-riverside.json](./84838-riverside.json) |
 | Riversiders | 253418 | [253418-riversiders.json](./253418-riversiders.json) |
 | Riviera: The Promised Land | 304131 | [304131-riviera-the-promised-land.json](./304131-riviera-the-promised-land.json) |
+| Riviera: Yakusoku no Chi Riviera | 37281 | [37281-riviera-yakusoku-no-chi-riviera.json](./37281-riviera-yakusoku-no-chi-riviera.json) |
 | Rixer | 260242 | [260242-rixer.json](./260242-rixer.json) |
 | Riyou Kiyaku | 418728 | [418728-riyou-kiyaku.json](./418728-riyou-kiyaku.json) |
 | Rizzoli and Isles: The Boston Butcher | 57370 | [57370-rizzoli-and-isles-the-boston-butcher.json](./57370-rizzoli-and-isles-the-boston-butcher.json) |
