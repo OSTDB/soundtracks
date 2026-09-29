@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Honor | 403652 | [403652-dark-honor.json](./403652-dark-honor.json) |
 | Dark Horizon | 19639 | [19639-dark-horizon.json](./19639-dark-horizon.json) |
 | Dark Hours | 251843 | [251843-dark-hours.json](./251843-dark-hours.json) |
+| Dark Hours 2 | 57719 | [57719-dark-hours-2.json](./57719-dark-hours-2.json) |
 | Dark Hunter | 311784 | [311784-dark-hunter.json](./311784-dark-hunter.json) |
 | Dark Incursion | 38958 | [38958-dark-incursion.json](./38958-dark-incursion.json) |
 | Dark Inquisition | 278162 | [278162-dark-inquisition.json](./278162-dark-inquisition.json) |
@@ -6333,6 +6334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Force | 2968 | [2968-dragon-force.json](./2968-dragon-force.json) |
 | Dragon Force: The Day 3 | 65737 | [65737-dragon-force-the-day-3.json](./65737-dragon-force-the-day-3.json) |
 | Dragon Friends: The Secret of Green Witch | 212453 | [212453-dragon-friends-the-secret-of-green-witch.json](./212453-dragon-friends-the-secret-of-green-witch.json) |
+| Dragon Front | 57717 | [57717-dragon-front.json](./57717-dragon-front.json) |
 | Dragon Fun Classic | 221974 | [221974-dragon-fun-classic.json](./221974-dragon-fun-classic.json) |
 | Dragon Fury | 231046 | [231046-dragon-fury.json](./231046-dragon-fury.json) |
 | Dragon Gate | 180603 | [180603-dragon-gate.json](./180603-dragon-gate.json) |
@@ -6565,6 +6567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragons of Hong Kong | 55836 | [55836-dragons-of-hong-kong.json](./55836-dragons-of-hong-kong.json) |
 | Dragons Vs Aircrafts | 101500 | [101500-dragons-vs-aircrafts.json](./101500-dragons-vs-aircrafts.json) |
 | Dragons War | 69335 | [69335-dragons-war.json](./69335-dragons-war.json) |
+| Dragons: Rise of Berk | 57751 | [57751-dragons-rise-of-berk.json](./57751-dragons-rise-of-berk.json) |
 | Dragons: Titan Uprising | 123626 | [123626-dragons-titan-uprising.json](./123626-dragons-titan-uprising.json) |
 | Dragonsbane | 38921 | [38921-dragonsbane.json](./38921-dragonsbane.json) |
 | Dragonscale Monastery | 260170 | [260170-dragonscale-monastery.json](./260170-dragonscale-monastery.json) |
