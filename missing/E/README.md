@@ -845,6 +845,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elderine: Dreams to Destiny | 31132 | [31132-elderine-dreams-to-destiny.json](./31132-elderine-dreams-to-destiny.json) |
 | Eldest Souls | 116403 | [116403-eldest-souls.json](./116403-eldest-souls.json) |
 | Eldevin | 17350 | [17350-eldevin.json](./17350-eldevin.json) |
+| Eldorado Gate Volume 1 | 5553 | [5553-eldorado-gate-volume-1.json](./5553-eldorado-gate-volume-1.json) |
+| Eldorado Gate Volume 2 | 5554 | [5554-eldorado-gate-volume-2.json](./5554-eldorado-gate-volume-2.json) |
+| Eldorado Gate Volume 3 | 5555 | [5555-eldorado-gate-volume-3.json](./5555-eldorado-gate-volume-3.json) |
+| Eldorado Gate Volume 4 | 5556 | [5556-eldorado-gate-volume-4.json](./5556-eldorado-gate-volume-4.json) |
+| Eldorado Gate Volume 5 | 5557 | [5557-eldorado-gate-volume-5.json](./5557-eldorado-gate-volume-5.json) |
+| Eldorado Gate Volume 7 | 5558 | [5558-eldorado-gate-volume-7.json](./5558-eldorado-gate-volume-7.json) |
 | Eldoria: The Cursed Crown | 310758 | [310758-eldoria-the-cursed-crown.json](./310758-eldoria-the-cursed-crown.json) |
 | Eldorion: Guardians of the Crystals | 346604 | [346604-eldorion-guardians-of-the-crystals.json](./346604-eldorion-guardians-of-the-crystals.json) |
 | Eldrador Creatures | 139836 | [139836-eldrador-creatures.json](./139836-eldrador-creatures.json) |
@@ -3593,6 +3599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyeboss | 181906 | [181906-eyeboss.json](./181906-eyeboss.json) |
 | Eyeless | 269310 | [269310-eyeless.json](./269310-eyeless.json) |
 | Eyeless Jack | 300016 | [300016-eyeless-jack.json](./300016-eyeless-jack.json) |
+| Eyelord | 5559 | [5559-eyelord.json](./5559-eyelord.json) |
 | EyePet Adventures | 52215 | [52215-eyepet-adventures.json](./52215-eyepet-adventures.json) |
 | EyePet: Move Edition | 52214 | [52214-eyepet-move-edition.json](./52214-eyepet-move-edition.json) |
 | Eyepuppet Company | 358514 | [358514-eyepuppet-company.json](./358514-eyepuppet-company.json) |
