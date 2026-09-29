@@ -1246,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We are Blob | 338388 | [338388-we-are-blob.json](./338388-we-are-blob.json) |
 | We are Broken | 146090 | [146090-we-are-broken.json](./146090-we-are-broken.json) |
 | We Are Counting | 386108 | [386108-we-are-counting.json](./386108-we-are-counting.json) |
+| We Are Doomed | 20894 | [20894-we-are-doomed.json](./20894-we-are-doomed.json) |
 | We are Football 2024 | 288844 | [288844-we-are-football-2024.json](./288844-we-are-football-2024.json) |
 | We Are Football: Bundesliga Edition | 152342 | [152342-we-are-football-bundesliga-edition.json](./152342-we-are-football-bundesliga-edition.json) |
 | We Are Gladiators | 258445 | [258445-we-are-gladiators.json](./258445-we-are-gladiators.json) |
@@ -2616,6 +2617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Honour: Battles of the Red Baron | 21341 | [21341-wings-of-honour-battles-of-the-red-baron.json](./21341-wings-of-honour-battles-of-the-red-baron.json) |
 | Wings of Magloryx | 85492 | [85492-wings-of-magloryx.json](./85492-wings-of-magloryx.json) |
 | Wings of Power: WWII Heavy Bombers and Jets | 61709 | [61709-wings-of-power-wwii-heavy-bombers-and-jets.json](./61709-wings-of-power-wwii-heavy-bombers-and-jets.json) |
+| Wings of Prey | 20973 | [20973-wings-of-prey.json](./20973-wings-of-prey.json) |
 | Wings of the Kite in Sky | 338364 | [338364-wings-of-the-kite-in-sky.json](./338364-wings-of-the-kite-in-sky.json) |
 | Wings of Virtus | 112772 | [112772-wings-of-virtus.json](./112772-wings-of-virtus.json) |
 | Wings of Wor | 105255 | [105255-wings-of-wor.json](./105255-wings-of-wor.json) |
