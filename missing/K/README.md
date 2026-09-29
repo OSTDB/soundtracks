@@ -1307,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindan no Jikobukken | 260690 | [260690-kindan-no-jikobukken.json](./260690-kindan-no-jikobukken.json) |
 | Kindawn: The Parish Remembers | 412555 | [412555-kindawn-the-parish-remembers.json](./412555-kindawn-the-parish-remembers.json) |
 | Kindergarten | 215760 | [215760-kindergarten.json](./215760-kindergarten.json) |
+| Kindergarten 2 | 118637 | [118637-kindergarten-2.json](./118637-kindergarten-2.json) |
 | KindergarTen 3: The Basement | 290696 | [290696-kindergarten-3-the-basement.json](./290696-kindergarten-3-the-basement.json) |
 | Kindergarten: Buddy Edition | 232999 | [232999-kindergarten-buddy-edition.json](./232999-kindergarten-buddy-edition.json) |
 | Kindled Cavern | 29816 | [29816-kindled-cavern.json](./29816-kindled-cavern.json) |
@@ -1492,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Chronicles | 89714 | [89714-kingdom-chronicles.json](./89714-kingdom-chronicles.json) |
 | Kingdom Clicker | 91157 | [91157-kingdom-clicker.json](./91157-kingdom-clicker.json) |
 | Kingdom Come: Deliverance - A Woman's Lot | 119899 | [119899-kingdom-come-deliverance-a-womans-lot.json](./119899-kingdom-come-deliverance-a-womans-lot.json) |
+| Kingdom Come: Deliverance - Band of Bastards | 115030 | [115030-kingdom-come-deliverance-band-of-bastards.json](./115030-kingdom-come-deliverance-band-of-bastards.json) |
 | Kingdom Come: Deliverance - From the Ashes | 104985 | [104985-kingdom-come-deliverance-from-the-ashes.json](./104985-kingdom-come-deliverance-from-the-ashes.json) |
 | Kingdom Come: Deliverance - Limited Edition | 166176 | [166176-kingdom-come-deliverance-limited-edition.json](./166176-kingdom-come-deliverance-limited-edition.json) |
 | Kingdom Come: Deliverance - Royal Collector’s Edition | 167066 | [167066-kingdom-come-deliverance-royal-collector-s-edition.json](./167066-kingdom-come-deliverance-royal-collector-s-edition.json) |
@@ -1570,6 +1572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Two Crowns: Norse Lands | 175663 | [175663-kingdom-two-crowns-norse-lands.json](./175663-kingdom-two-crowns-norse-lands.json) |
 | Kingdom Under Fire: A War of Heroes | 18112 | [18112-kingdom-under-fire-a-war-of-heroes.json](./18112-kingdom-under-fire-a-war-of-heroes.json) |
 | Kingdom Under Fire: Gold | 135820 | [135820-kingdom-under-fire-gold.json](./135820-kingdom-under-fire-gold.json) |
+| Kingdom Under Fire: Heroes | 5882 | [5882-kingdom-under-fire-heroes.json](./5882-kingdom-under-fire-heroes.json) |
 | Kingdom vs Zombies | 133204 | [133204-kingdom-vs-zombies.json](./133204-kingdom-vs-zombies.json) |
 | Kingdom Warriors | 58240 | [58240-kingdom-warriors.json](./58240-kingdom-warriors.json) |
 | Kingdom Winds | 224031 | [224031-kingdom-winds.json](./224031-kingdom-winds.json) |
@@ -2099,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Decayden | 209529 | [209529-knights-of-decayden.json](./209529-knights-of-decayden.json) |
 | Knights of Fate | 201575 | [201575-knights-of-fate.json](./201575-knights-of-fate.json) |
 | Knights of Grumthorr | 149444 | [149444-knights-of-grumthorr.json](./149444-knights-of-grumthorr.json) |
+| Knights of Honor II: Sovereign | 121919 | [121919-knights-of-honor-ii-sovereign.json](./121919-knights-of-honor-ii-sovereign.json) |
 | Knights of Legend | 47224 | [47224-knights-of-legend.json](./47224-knights-of-legend.json) |
 | Knights of Light | 96489 | [96489-knights-of-light.json](./96489-knights-of-light.json) |
 | Knights of Pen & Paper 3 | 240898 | [240898-knights-of-pen-and-paper-3.json](./240898-knights-of-pen-and-paper-3.json) |
@@ -2517,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kov | 272373 | [272373-kov.json](./272373-kov.json) |
 | Kova | 27883 | [27883-kova.json](./27883-kova.json) |
 | KovaaK 2.0: Tracking Trainer | 171035 | [171035-kovaak-2-0-tracking-trainer.json](./171035-kovaak-2-0-tracking-trainer.json) |
+| KovaaK's Aim Trainer | 126032 | [126032-kovaaks-aim-trainer.json](./126032-kovaaks-aim-trainer.json) |
 | Kowai Shashin: Shinrei Shashin Kitan | 137561 | [137561-kowai-shashin-shinrei-shashin-kitan.json](./137561-kowai-shashin-shinrei-shashin-kitan.json) |
 | Kowalski | 388367 | [388367-kowalski.json](./388367-kowalski.json) |
 | Kowi Ishto: Battle of Akonoli | 125476 | [125476-kowi-ishto-battle-of-akonoli.json](./125476-kowi-ishto-battle-of-akonoli.json) |
