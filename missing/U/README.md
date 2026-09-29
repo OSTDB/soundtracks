@@ -1513,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Ascend | 390262 | [390262-urban-ascend.json](./390262-urban-ascend.json) |
 | Urban Assault | 50131 | [50131-urban-assault.json](./50131-urban-assault.json) |
 | Urban Cards | 121582 | [121582-urban-cards.json](./121582-urban-cards.json) |
+| Urban Champion | 4624 | [4624-urban-champion.json](./4624-urban-champion.json) |
 | Urban Champion-e | 170014 | [170014-urban-champion-e.json](./170014-urban-champion-e.json) |
 | Urban Dead | 69281 | [69281-urban-dead.json](./69281-urban-dead.json) |
 | Urban Dreambog | 323391 | [323391-urban-dreambog.json](./323391-urban-dreambog.json) |
