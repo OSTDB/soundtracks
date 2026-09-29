@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest for the Golden Chalice | 306664 | [306664-quest-for-the-golden-chalice.json](./306664-quest-for-the-golden-chalice.json) |
 | Quest for the Golden Duck | 114111 | [114111-quest-for-the-golden-duck.json](./114111-quest-for-the-golden-duck.json) |
 | Quest for the Pinnacle | 238508 | [238508-quest-for-the-pinnacle.json](./238508-quest-for-the-pinnacle.json) |
+| Quest for the Royal Jelly | 26827 | [26827-quest-for-the-royal-jelly.json](./26827-quest-for-the-royal-jelly.json) |
 | Quest for the Shaven Yak Starring Ren Hoëk and Stimpy | 7986 | [7986-quest-for-the-shaven-yak-starring-ren-hoek-and-stimpy.json](./7986-quest-for-the-shaven-yak-starring-ren-hoek-and-stimpy.json) |
 | Quest for the Unicorn | 356852 | [356852-quest-for-the-unicorn.json](./356852-quest-for-the-unicorn.json) |
 | Quest For The X | 259822 | [259822-quest-for-the-x.json](./259822-quest-for-the-x.json) |
