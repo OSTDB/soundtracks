@@ -2017,6 +2017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflection: The Greed | 211712 | [211712-reflection-the-greed.json](./211712-reflection-the-greed.json) |
 | Reflections of Life: Call of the Ancestors | 187954 | [187954-reflections-of-life-call-of-the-ancestors.json](./187954-reflections-of-life-call-of-the-ancestors.json) |
 | Reflections of Life: Call of the Ancestors - Collector's Edition | 362827 | [362827-reflections-of-life-call-of-the-ancestors-collectors-edition.json](./362827-reflections-of-life-call-of-the-ancestors-collectors-edition.json) |
+| Reflections of Life: Dark Architect | 57718 | [57718-reflections-of-life-dark-architect.json](./57718-reflections-of-life-dark-architect.json) |
 | Reflections of Life: Dark Architect - Collector's Edition | 53498 | [53498-reflections-of-life-dark-architect-collectors-edition.json](./53498-reflections-of-life-dark-architect-collectors-edition.json) |
 | Reflections of Life: Dream Box - Collector's Edition | 362833 | [362833-reflections-of-life-dream-box-collectors-edition.json](./362833-reflections-of-life-dream-box-collectors-edition.json) |
 | Reflections of Life: Equilibrium - Collector's Edition | 117813 | [117813-reflections-of-life-equilibrium-collectors-edition.json](./117813-reflections-of-life-equilibrium-collectors-edition.json) |
@@ -2150,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relapse | 208585 | [208585-relapse.json](./208585-relapse.json) |
 | Relapse | 342849 | [342849-relapse.json](./342849-relapse.json) |
 | Relapse | 376100 | [376100-relapse.json](./376100-relapse.json) |
+| Relapse | 58908 | [58908-relapse.json](./58908-relapse.json) |
 | Related | 133380 | [133380-related.json](./133380-related.json) |
 | Relation Killer | 224645 | [224645-relation-killer.json](./224645-relation-killer.json) |
 | Relative Frame | 382932 | [382932-relative-frame.json](./382932-relative-frame.json) |
@@ -3148,6 +3150,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricochet Kills 2 | 235241 | [235241-ricochet-kills-2.json](./235241-ricochet-kills-2.json) |
 | Ricochet Raven | 370668 | [370668-ricochet-raven.json](./370668-ricochet-raven.json) |
 | Ricochet Rodeo | 223419 | [223419-ricochet-rodeo.json](./223419-ricochet-rodeo.json) |
+| Ricochet Theory | 57736 | [57736-ricochet-theory.json](./57736-ricochet-theory.json) |
+| Ricochet Theory 2 | 57733 | [57733-ricochet-theory-2.json](./57733-ricochet-theory-2.json) |
 | Ricochet Xtreme | 70421 | [70421-ricochet-xtreme.json](./70421-ricochet-xtreme.json) |
 | RicoGraph | 177868 | [177868-ricograph.json](./177868-ricograph.json) |
 | Riddim Ribbon | 66040 | [66040-riddim-ribbon.json](./66040-riddim-ribbon.json) |
