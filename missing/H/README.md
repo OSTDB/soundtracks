@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker Evolution Duality: Inception Part 1 | 171375 | [171375-hacker-evolution-duality-inception-part-1.json](./171375-hacker-evolution-duality-inception-part-1.json) |
 | Hacker Evolution Duality: Inception Part 2 | 171633 | [171633-hacker-evolution-duality-inception-part-2.json](./171633-hacker-evolution-duality-inception-part-2.json) |
 | Hacker II: The Doomsday Papers | 12133 | [12133-hacker-ii-the-doomsday-papers.json](./12133-hacker-ii-the-doomsday-papers.json) |
+| Hacker Series | 31115 | [31115-hacker-series.json](./31115-hacker-series.json) |
 | Hacker the Beginning | 234585 | [234585-hacker-the-beginning.json](./234585-hacker-the-beginning.json) |
 | Hacker's Adventure | 142244 | [142244-hackers-adventure.json](./142244-hackers-adventure.json) |
 | Hackers | 80455 | [80455-hackers.json](./80455-hackers.json) |
@@ -1133,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Girls | 212999 | [212999-haunted-girls.json](./212999-haunted-girls.json) |
 | Haunted Heye Apartment | 245811 | [245811-haunted-heye-apartment.json](./245811-haunted-heye-apartment.json) |
 | Haunted Hotel | 146857 | [146857-haunted-hotel.json](./146857-haunted-hotel.json) |
+| Haunted Hotel | 31063 | [31063-haunted-hotel.json](./31063-haunted-hotel.json) |
 | Haunted Hotel II: Believe the Lies | 36450 | [36450-haunted-hotel-ii-believe-the-lies.json](./36450-haunted-hotel-ii-believe-the-lies.json) |
 | Haunted Hotel: A Past Redeemed | 182399 | [182399-haunted-hotel-a-past-redeemed.json](./182399-haunted-hotel-a-past-redeemed.json) |
 | Haunted Hotel: A Past Redeemed - Collector's Edition | 152889 | [152889-haunted-hotel-a-past-redeemed-collectors-edition.json](./152889-haunted-hotel-a-past-redeemed-collectors-edition.json) |
@@ -1160,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Laia | 193881 | [193881-haunted-laia.json](./193881-haunted-laia.json) |
 | Haunted Lands: Burial Grounds | 240502 | [240502-haunted-lands-burial-grounds.json](./240502-haunted-lands-burial-grounds.json) |
 | Haunted Legends: Cursed Gift | 107115 | [107115-haunted-legends-cursed-gift.json](./107115-haunted-legends-cursed-gift.json) |
+| Haunted Legends: The Queen of Spades - Collector's Edition | 31067 | [31067-haunted-legends-the-queen-of-spades-collectors-edition.json](./31067-haunted-legends-the-queen-of-spades-collectors-edition.json) |
 | Haunted Legends: The Secret of Life | 100007 | [100007-haunted-legends-the-secret-of-life.json](./100007-haunted-legends-the-secret-of-life.json) |
 | Haunted Legends: The Stone Guest - Collector's Edition | 99621 | [99621-haunted-legends-the-stone-guest-collectors-edition.json](./99621-haunted-legends-the-stone-guest-collectors-edition.json) |
 | Haunted Legends: The Stone Guest HD | 103907 | [103907-haunted-legends-the-stone-guest-hd.json](./103907-haunted-legends-the-stone-guest-hd.json) |
