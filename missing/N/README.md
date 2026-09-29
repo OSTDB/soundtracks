@@ -2537,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nioh 2 | 103330 | [103330-nioh-2.json](./103330-nioh-2.json) |
 | Nioh 3: Bloody Insurrection | 411562 | [411562-nioh-3-bloody-insurrection.json](./411562-nioh-3-bloody-insurrection.json) |
 | Nioh 3: Hell Rising | 411561 | [411561-nioh-3-hell-rising.json](./411561-nioh-3-hell-rising.json) |
+| Nioh: Complete Edition | 68461 | [68461-nioh-complete-edition.json](./68461-nioh-complete-edition.json) |
 | Nioh: Defiant Honor | 46777 | [46777-nioh-defiant-honor.json](./46777-nioh-defiant-honor.json) |
 | Nion Forge | 378922 | [378922-nion-forge.json](./378922-nion-forge.json) |
 | Nios | 189161 | [189161-nios.json](./189161-nios.json) |
@@ -3047,6 +3048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noracam's Slider Challenge | 215622 | [215622-noracams-slider-challenge.json](./215622-noracams-slider-challenge.json) |
 | Noragami Aragoto | 174843 | [174843-noragami-aragoto.json](./174843-noragami-aragoto.json) |
 | Norah's Song | 298655 | [298655-norahs-song.json](./298655-norahs-song.json) |
+| Norco | 129097 | [129097-norco.json](./129097-norco.json) |
 | Nordhold | 308349 | [308349-nordhold.json](./308349-nordhold.json) |
 | Nordic Ashes: Survivors of Ragnarok - Twilight of Yggdrasil | 409034 | [409034-nordic-ashes-survivors-of-ragnarok-twilight-of-yggdrasil.json](./409034-nordic-ashes-survivors-of-ragnarok-twilight-of-yggdrasil.json) |
 | Nordicandia | 144947 | [144947-nordicandia.json](./144947-nordicandia.json) |
