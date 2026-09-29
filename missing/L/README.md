@@ -1428,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Juniors Create & Cruise | 105878 | [105878-lego-juniors-create-and-cruise.json](./105878-lego-juniors-create-and-cruise.json) |
 | LEGO Jurassic World | 9918 | [9918-lego-jurassic-world.json](./9918-lego-jurassic-world.json) |
 | LEGO Lord of the Rings: Elrond Edition | 89924 | [89924-lego-lord-of-the-rings-elrond-edition.json](./89924-lego-lord-of-the-rings-elrond-edition.json) |
+| LEGO Marvel Super Heroes 2 | 28815 | [28815-lego-marvel-super-heroes-2.json](./28815-lego-marvel-super-heroes-2.json) |
 | LEGO Marvel Super Heroes 2: Agents of Atlas Character Pack | 168785 | [168785-lego-marvel-super-heroes-2-agents-of-atlas-character-pack.json](./168785-lego-marvel-super-heroes-2-agents-of-atlas-character-pack.json) |
 | LEGO Marvel Super Heroes 2: Champions Character Pack | 168368 | [168368-lego-marvel-super-heroes-2-champions-character-pack.json](./168368-lego-marvel-super-heroes-2-champions-character-pack.json) |
 | LEGO Marvel Super Heroes 2: Classic Guardians of the Galaxy Character Pack | 168781 | [168781-lego-marvel-super-heroes-2-classic-guardians-of-the-galaxy-character-pack.json](./168781-lego-marvel-super-heroes-2-classic-guardians-of-the-galaxy-character-pack.json) |
@@ -3112,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LocoMotion | 265225 | [265225-locomotion.json](./265225-locomotion.json) |
 | Locomotive | 78737 | [78737-locomotive.json](./78737-locomotive.json) |
 | Locomotive 115 | 322993 | [322993-locomotive-115.json](./322993-locomotive-115.json) |
+| LocoRoco | 1459 | [1459-locoroco.json](./1459-locoroco.json) |
 | LocoSoccer Classic | 34601 | [34601-locosoccer-classic.json](./34601-locosoccer-classic.json) |
 | Locotier | 193489 | [193489-locotier.json](./193489-locotier.json) |
 | Locus | 92844 | [92844-locus.json](./92844-locus.json) |
