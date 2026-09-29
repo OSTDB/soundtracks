@@ -1016,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Doom | 55134 | [55134-action-doom.json](./55134-action-doom.json) |
 | Action Fighter | 11885 | [11885-action-fighter.json](./11885-action-fighter.json) |
 | Action Force II: International Heroes | 73255 | [73255-action-force-ii-international-heroes.json](./73255-action-force-ii-international-heroes.json) |
+| Action Force: International Heroes | 59503 | [59503-action-force-international-heroes.json](./59503-action-force-international-heroes.json) |
 | Action Fubuki | 288744 | [288744-action-fubuki.json](./288744-action-fubuki.json) |
 | Action Game Maker | 344533 | [344533-action-game-maker.json](./344533-action-game-maker.json) |
 | Action Half-Life | 221840 | [221840-action-half-life.json](./221840-action-half-life.json) |
@@ -1850,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Combat Pilot: WW2 Pacific | 102581 | [102581-air-combat-pilot-ww2-pacific.json](./102581-air-combat-pilot-ww2-pacific.json) |
 | Air Combat Revolution | 61062 | [61062-air-combat-revolution.json](./61062-air-combat-revolution.json) |
 | Air Combat XF | 113151 | [113151-air-combat-xf.json](./113151-air-combat-xf.json) |
+| Air Command 3.0 | 59491 | [59491-air-command-3-0.json](./59491-air-command-3-0.json) |
 | Air Command 3.0: Airport Expansion Set | 144186 | [144186-air-command-3-0-airport-expansion-set.json](./144186-air-command-3-0-airport-expansion-set.json) |
 | Air Conflicts Collection | 52572 | [52572-air-conflicts-collection.json](./52572-air-conflicts-collection.json) |
 | Air Conflicts: Double Pack | 118198 | [118198-air-conflicts-double-pack.json](./118198-air-conflicts-double-pack.json) |
@@ -2360,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alexis Arc: Heroes of the Three Kingdoms | 138195 | [138195-alexis-arc-heroes-of-the-three-kingdoms.json](./138195-alexis-arc-heroes-of-the-three-kingdoms.json) |
 | Aleya's Ascent | 142840 | [142840-aleyas-ascent.json](./142840-aleyas-ascent.json) |
 | Alf | 65580 | [65580-alf.json](./65580-alf.json) |
+| Alf in the Color Caves | 59502 | [59502-alf-in-the-color-caves.json](./59502-alf-in-the-color-caves.json) |
 | ALF: The First Adventure | 12249 | [12249-alf-the-first-adventure.json](./12249-alf-the-first-adventure.json) |
 | ALF's Thinking Skills | 78720 | [78720-alfs-thinking-skills.json](./78720-alfs-thinking-skills.json) |
 | ALF's U.S. Geography | 94247 | [94247-alfs-u-s-geography.json](./94247-alfs-u-s-geography.json) |
