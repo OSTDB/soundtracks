@@ -2237,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Diving Simulator: Adventure Pack | 154506 | [154506-deep-diving-simulator-adventure-pack.json](./154506-deep-diving-simulator-adventure-pack.json) |
 | Deep Down | 285011 | [285011-deep-down.json](./285011-deep-down.json) |
 | Deep Down & Dark | 263592 | [263592-deep-down-and-dark.json](./263592-deep-down-and-dark.json) |
+| Deep Duck Trouble Starring Donald Duck | 8447 | [8447-deep-duck-trouble-starring-donald-duck.json](./8447-deep-duck-trouble-starring-donald-duck.json) |
 | Deep Dungeon | 177860 | [177860-deep-dungeon.json](./177860-deep-dungeon.json) |
 | Deep Dungeon Adventure | 311984 | [311984-deep-dungeon-adventure.json](./311984-deep-dungeon-adventure.json) |
 | Deep Dungeons of Doom | 17876 | [17876-deep-dungeons-of-doom.json](./17876-deep-dungeons-of-doom.json) |
@@ -6209,6 +6210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Robotnik Turns Everybody into Frogs | 188087 | [188087-dr-robotnik-turns-everybody-into-frogs.json](./188087-dr-robotnik-turns-everybody-into-frogs.json) |
 | Dr. Robotnik's Mean Bean Machine | 237313 | [237313-dr-robotniks-mean-bean-machine.json](./237313-dr-robotniks-mean-bean-machine.json) |
 | Dr. Robotnik's Mean Bean Tetris | 264896 | [264896-dr-robotniks-mean-bean-tetris.json](./264896-dr-robotniks-mean-bean-tetris.json) |
+| Dr. Robotnik's Ring Racers | 238878 | [238878-dr-robotniks-ring-racers.json](./238878-dr-robotniks-ring-racers.json) |
 | Dr. Rudy | 94262 | [94262-dr-rudy.json](./94262-dr-rudy.json) |
 | Dr. Seuss Fix-Up the Mix-Up Puzzler | 40898 | [40898-dr-seuss-fix-up-the-mix-up-puzzler.json](./40898-dr-seuss-fix-up-the-mix-up-puzzler.json) |
 | Dr. Seuss Preschool | 63273 | [63273-dr-seuss-preschool.json](./63273-dr-seuss-preschool.json) |
@@ -6560,6 +6562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Project | 76712 | [76712-dragon-project.json](./76712-dragon-project.json) |
 | Dragon Puncher | 332997 | [332997-dragon-puncher.json](./332997-dragon-puncher.json) |
 | Dragon puzzle | 132733 | [132733-dragon-puzzle.json](./132733-dragon-puzzle.json) |
+| Dragon Quest | 239185 | [239185-dragon-quest.json](./239185-dragon-quest.json) |
 | Dragon Quest 25th Anniversary Collection | 136885 | [136885-dragon-quest-25th-anniversary-collection.json](./136885-dragon-quest-25th-anniversary-collection.json) |
 | Dragon Quest Builders | 24069 | [24069-dragon-quest-builders.json](./24069-dragon-quest-builders.json) |
 | Dragon Quest Builders 2 | 54548 | [54548-dragon-quest-builders-2.json](./54548-dragon-quest-builders-2.json) |
