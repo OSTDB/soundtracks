@@ -8041,6 +8041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyoro 64 | 142231 | [142231-pyoro-64.json](./142231-pyoro-64.json) |
 | Pyramania | 379901 | [379901-pyramania.json](./379901-pyramania.json) |
 | PyraMaze | 177850 | [177850-pyramaze.json](./177850-pyramaze.json) |
+| Pyramaze: The Game | 55294 | [55294-pyramaze-the-game.json](./55294-pyramaze-the-game.json) |
 | Pyrami Head | 250967 | [250967-pyrami-head.json](./250967-pyrami-head.json) |
 | Pyramid Adventures | 46569 | [46569-pyramid-adventures.json](./46569-pyramid-adventures.json) |
 | Pyramid Adventures: Episode 1 - Treasures of the Lost Pyramid | 66351 | [66351-pyramid-adventures-episode-1-treasures-of-the-lost-pyramid.json](./66351-pyramid-adventures-episode-1-treasures-of-the-lost-pyramid.json) |
