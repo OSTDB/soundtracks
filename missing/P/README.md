@@ -2398,6 +2398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Doctrine: The Cabal | 138122 | [138122-phantom-doctrine-the-cabal.json](./138122-phantom-doctrine-the-cabal.json) |
 | Phantom Dust | 280275 | [280275-phantom-dust.json](./280275-phantom-dust.json) |
 | Phantom Dust | 7341 | [7341-phantom-dust.json](./7341-phantom-dust.json) |
+| Phantom Fighter | 48188 | [48188-phantom-fighter.json](./48188-phantom-fighter.json) |
 | Phantom Floor | 394178 | [394178-phantom-floor.json](./394178-phantom-floor.json) |
 | Phantom Fury | 218009 | [218009-phantom-fury.json](./218009-phantom-fury.json) |
 | Phantom Gear | 141108 | [141108-phantom-gear.json](./141108-phantom-gear.json) |
@@ -2791,6 +2792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pictassembler | 127178 | [127178-pictassembler.json](./127178-pictassembler.json) |
 | Picterra | 305957 | [305957-picterra.json](./305957-picterra.json) |
 | Pictionary | 92052 | [92052-pictionary.json](./92052-pictionary.json) |
+| Pictionary: The Game of Video Quick Draw | 48224 | [48224-pictionary-the-game-of-video-quick-draw.json](./48224-pictionary-the-game-of-video-quick-draw.json) |
 | Pictlogica Final Fantasy: Nearly Equal | 343426 | [343426-pictlogica-final-fantasy-nearly-equal.json](./343426-pictlogica-final-fantasy-nearly-equal.json) |
 | PictoImage | 84824 | [84824-pictoimage.json](./84824-pictoimage.json) |
 | PictoParty | 58457 | [58457-pictoparty.json](./58457-pictoparty.json) |
@@ -5847,6 +5849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Politics | 76590 | [76590-power-politics.json](./76590-power-politics.json) |
 | Power Punch | 275121 | [275121-power-punch.json](./275121-power-punch.json) |
 | Power Punch | 50704 | [50704-power-punch.json](./50704-power-punch.json) |
+| Power Punch II | 48222 | [48222-power-punch-ii.json](./48222-power-punch-ii.json) |
 | Power Quest Survivors | 295558 | [295558-power-quest-survivors.json](./295558-power-quest-survivors.json) |
 | Power Racing Bundle | 147786 | [147786-power-racing-bundle.json](./147786-power-racing-bundle.json) |
 | Power Racing Bundle 2 | 147787 | [147787-power-racing-bundle-2.json](./147787-power-racing-bundle-2.json) |
@@ -6314,6 +6317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess RPG | 196814 | [196814-princess-rpg.json](./196814-princess-rpg.json) |
 | Princess Solitaire | 176897 | [176897-princess-solitaire.json](./176897-princess-solitaire.json) |
 | Princess Strike! | 63347 | [63347-princess-strike.json](./63347-princess-strike.json) |
+| Princess Tomato in the Salad Kingdom | 48221 | [48221-princess-tomato-in-the-salad-kingdom.json](./48221-princess-tomato-in-the-salad-kingdom.json) |
 | Princess War | 39000 | [39000-princess-war.json](./39000-princess-war.json) |
 | Princess: The East and the Expedition | 308902 | [308902-princess-the-east-and-the-expedition.json](./308902-princess-the-east-and-the-expedition.json) |
 | Princess.Loot.Pixel.Again x2 | 79101 | [79101-princess-loot-pixel-again-x2.json](./79101-princess-loot-pixel-again-x2.json) |
@@ -6562,6 +6566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PRO Soccer Challenges 2018 - World Football Stars | 95881 | [95881-pro-soccer-challenges-2018-world-football-stars.json](./95881-pro-soccer-challenges-2018-world-football-stars.json) |
 | Pro Soccer Cup 2002 | 251053 | [251053-pro-soccer-cup-2002.json](./251053-pro-soccer-cup-2002.json) |
 | Pro Soccer Online | 182202 | [182202-pro-soccer-online.json](./182202-pro-soccer-online.json) |
+| Pro Sport Hockey | 48220 | [48220-pro-sport-hockey.json](./48220-pro-sport-hockey.json) |
 | Pro Stadium | 268525 | [268525-pro-stadium.json](./268525-pro-stadium.json) |
 | Pro Strategy Football 2021 | 168164 | [168164-pro-strategy-football-2021.json](./168164-pro-strategy-football-2021.json) |
 | Pro Strategy Football 2022 | 165623 | [165623-pro-strategy-football-2022.json](./165623-pro-strategy-football-2022.json) |
@@ -7721,6 +7726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PushOver | 267436 | [267436-pushover.json](./267436-pushover.json) |
 | Pushpully | 261222 | [261222-pushpully.json](./261222-pushpully.json) |
 | Pusoy Go | 386225 | [386225-pusoy-go.json](./386225-pusoy-go.json) |
+| Puss 'n Boots: Pero's Great Adventure | 48219 | [48219-puss-n-boots-peros-great-adventure.json](./48219-puss-n-boots-peros-great-adventure.json) |
 | Puss in Book: Trapped in an Epic Tale | 256844 | [256844-puss-in-book-trapped-in-an-epic-tale.json](./256844-puss-in-book-trapped-in-an-epic-tale.json) |
 | Puss In Boots | 192927 | [192927-puss-in-boots.json](./192927-puss-in-boots.json) |
 | Puss in Boots: Fear Not Hooman | 118204 | [118204-puss-in-boots-fear-not-hooman.json](./118204-puss-in-boots-fear-not-hooman.json) |
