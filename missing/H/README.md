@@ -2723,6 +2723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herolike | 26785 | [26785-herolike.json](./26785-herolike.json) |
 | Heron: Steam Machine | 67239 | [67239-heron-steam-machine.json](./67239-heron-steam-machine.json) |
 | HeroQuest: Return of the Witch Lord | 47226 | [47226-heroquest-return-of-the-witch-lord.json](./47226-heroquest-return-of-the-witch-lord.json) |
+| Herores Rescue | 39162 | [39162-herores-rescue.json](./39162-herores-rescue.json) |
 | Heros Fight Battle royal | 272273 | [272273-heros-fight-battle-royal.json](./272273-heros-fight-battle-royal.json) |
 | Heros Survival | 304898 | [304898-heros-survival.json](./304898-heros-survival.json) |
 | Heros: The Sanguine Seven | 140621 | [140621-heros-the-sanguine-seven.json](./140621-heros-the-sanguine-seven.json) |
@@ -2907,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi Hi Puffy AmiYumi: The Genie and the Amp | 2818 | [2818-hi-hi-puffy-amiyumi-the-genie-and-the-amp.json](./2818-hi-hi-puffy-amiyumi-the-genie-and-the-amp.json) |
 | Hi no Homo | 133312 | [133312-hi-no-homo.json](./133312-hi-no-homo.json) |
 | Hi On Rhythm | 267459 | [267459-hi-on-rhythm.json](./267459-hi-on-rhythm.json) |
+| Hi Rise | 39153 | [39153-hi-rise.json](./39153-hi-rise.json) |
 | Hi-5 DVD Game | 274991 | [274991-hi-5-dvd-game.json](./274991-hi-5-dvd-game.json) |
 | Hi-5: Fun & Games | 274993 | [274993-hi-5-fun-and-games.json](./274993-hi-5-fun-and-games.json) |
 | Hi-5: Fun Club | 274992 | [274992-hi-5-fun-club.json](./274992-hi-5-fun-club.json) |
