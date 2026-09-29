@@ -1118,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geki Yaba Runner Habanero | 222389 | [222389-geki-yaba-runner-habanero.json](./222389-geki-yaba-runner-habanero.json) |
 | Gekiden Youitan: Ep.1 | 83244 | [83244-gekiden-youitan-ep-1.json](./83244-gekiden-youitan-ep-1.json) |
 | Gekifu Bakegyamon: Ayakashi Fighting | 61346 | [61346-gekifu-bakegyamon-ayakashi-fighting.json](./61346-gekifu-bakegyamon-ayakashi-fighting.json) |
+| Gekisou Sentai Carranger: Zenkai! Racer Senshi | 3285 | [3285-gekisou-sentai-carranger-zenkai-racer-senshi.json](./3285-gekisou-sentai-carranger-zenkai-racer-senshi.json) |
 | Gekisou TomaRunner | 70665 | [70665-gekisou-tomarunner.json](./70665-gekisou-tomarunner.json) |
 | Gekisou! Band Star | 381254 | [381254-gekisou-band-star.json](./381254-gekisou-band-star.json) |
 | Gekitotsu Toma L'Arc: Tomarunner Vs L'Arc-en-Ciel | 44761 | [44761-gekitotsu-toma-larc-tomarunner-vs-larc-en-ciel.json](./44761-gekitotsu-toma-larc-tomarunner-vs-larc-en-ciel.json) |
@@ -2771,6 +2772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold | 315301 | [315301-gold.json](./315301-gold.json) |
 | Gold & Ship Bundle: Gold Mining & Ship Graveyard Simulator | 340951 | [340951-gold-and-ship-bundle-gold-mining-and-ship-graveyard-simulator.json](./340951-gold-and-ship-bundle-gold-mining-and-ship-graveyard-simulator.json) |
 | Gold Ambush | 68280 | [68280-gold-ambush.json](./68280-gold-ambush.json) |
+| Gold and Gems | 3274 | [3274-gold-and-gems.json](./3274-gold-and-gems.json) |
 | Gold and Glory: The Road to El Dorado | 209636 | [209636-gold-and-glory-the-road-to-el-dorado.json](./209636-gold-and-glory-the-road-to-el-dorado.json) |
 | Gold Coast Gambits: Boca Raton & Palm Beach | 414353 | [414353-gold-coast-gambits-boca-raton-and-palm-beach.json](./414353-gold-coast-gambits-boca-raton-and-palm-beach.json) |
 | Gold Digger | 13723 | [13723-gold-digger.json](./13723-gold-digger.json) |
@@ -2846,6 +2848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Memory 2 | 242103 | [242103-golden-memory-2.json](./242103-golden-memory-2.json) |
 | Golden Mine Pickaxe 2: Mummy Tombs | 195189 | [195189-golden-mine-pickaxe-2-mummy-tombs.json](./195189-golden-mine-pickaxe-2-mummy-tombs.json) |
 | Golden Moon | 158180 | [158180-golden-moon.json](./158180-golden-moon.json) |
+| Golden Nugget 64 | 3374 | [3374-golden-nugget-64.json](./3374-golden-nugget-64.json) |
 | Golden Nugget Casino | 128368 | [128368-golden-nugget-casino.json](./128368-golden-nugget-casino.json) |
 | Golden Nugget Casino DS | 128369 | [128369-golden-nugget-casino-ds.json](./128369-golden-nugget-casino-ds.json) |
 | Golden Oldies 1: Guardian and Invaders | 45928 | [45928-golden-oldies-1-guardian-and-invaders.json](./45928-golden-oldies-1-guardian-and-invaders.json) |
@@ -4374,6 +4377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grunn | 281353 | [281353-grunn.json](./281353-grunn.json) |
 | GSIII: Combat Flight Simulator - Heroes of the MIG Alley | 97914 | [97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json](./97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json) |
 | GT 24 | 210726 | [210726-gt-24.json](./210726-gt-24.json) |
+| GT 64: Championship Edition | 3375 | [3375-gt-64-championship-edition.json](./3375-gt-64-championship-edition.json) |
 | GT and the Evil Factory | 295856 | [295856-gt-and-the-evil-factory.json](./295856-gt-and-the-evil-factory.json) |
 | GT Manager | 197317 | [197317-gt-manager.json](./197317-gt-manager.json) |
 | GT New Horizons | 204699 | [204699-gt-new-horizons.json](./204699-gt-new-horizons.json) |
