@@ -1412,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incarnation | 276263 | [276263-incarnation.json](./276263-incarnation.json) |
 | Incarnation: Flame | 174823 | [174823-incarnation-flame.json](./174823-incarnation-flame.json) |
 | Incel Simulator | 315286 | [315286-incel-simulator.json](./315286-incel-simulator.json) |
+| InCell | 12302 | [12302-incell.json](./12302-incell.json) |
 | InCell VR | 34595 | [34595-incell-vr.json](./34595-incell-vr.json) |
 | Incessant | 235832 | [235832-incessant.json](./235832-incessant.json) |
 | Incident at Grove Lake | 252736 | [252736-incident-at-grove-lake.json](./252736-incident-at-grove-lake.json) |
@@ -1473,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indian Train Simulator | 174639 | [174639-indian-train-simulator.json](./174639-indian-train-simulator.json) |
 | Indian Train Simulator 2018 | 208928 | [208928-indian-train-simulator-2018.json](./208928-indian-train-simulator-2018.json) |
 | Indiana Boy Steam Edition | 112930 | [112930-indiana-boy-steam-edition.json](./112930-indiana-boy-steam-edition.json) |
+| Indiana Jones and the Fate of Atlantis: The Action Game | 12155 | [12155-indiana-jones-and-the-fate-of-atlantis-the-action-game.json](./12155-indiana-jones-and-the-fate-of-atlantis-the-action-game.json) |
 | Indiana Jones and The Great Circle: Collector's Edition | 317816 | [317816-indiana-jones-and-the-great-circle-collectors-edition.json](./317816-indiana-jones-and-the-great-circle-collectors-edition.json) |
 | Indiana Jones and the Great Circle: Digital Premium Upgrade | 332027 | [332027-indiana-jones-and-the-great-circle-digital-premium-upgrade.json](./332027-indiana-jones-and-the-great-circle-digital-premium-upgrade.json) |
 | Indiana Jones and The Great Circle: Premium Edition | 317815 | [317815-indiana-jones-and-the-great-circle-premium-edition.json](./317815-indiana-jones-and-the-great-circle-premium-edition.json) |
@@ -1669,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infested: Space Colony | 148929 | [148929-infested-space-colony.json](./148929-infested-space-colony.json) |
 | Infestor | 146841 | [146841-infestor.json](./146841-infestor.json) |
 | Infestus | 235456 | [235456-infestus.json](./235456-infestus.json) |
+| Infidel | 12157 | [12157-infidel.json](./12157-infidel.json) |
 | Infierno Rubí | 294232 | [294232-infierno-rubi.json](./294232-infierno-rubi.json) |
 | Infiltrate | 22413 | [22413-infiltrate.json](./22413-infiltrate.json) |
 | Infiltrating Sam's Club | 278442 | [278442-infiltrating-sams-club.json](./278442-infiltrating-sams-club.json) |
@@ -2642,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Knight 3D | 91146 | [91146-iron-knight-3d.json](./91146-iron-knight-3d.json) |
 | Iron Legacy | 400865 | [400865-iron-legacy.json](./400865-iron-legacy.json) |
 | Iron Line | 287785 | [287785-iron-line.json](./287785-iron-line.json) |
+| Iron Lord | 12158 | [12158-iron-lord.json](./12158-iron-lord.json) |
 | Iron Maiden: Legacy of the Beast | 16473 | [16473-iron-maiden-legacy-of-the-beast.json](./16473-iron-maiden-legacy-of-the-beast.json) |
 | Iron Man | 200688 | [200688-iron-man.json](./200688-iron-man.json) |
 | Iron Man | 257213 | [257213-iron-man.json](./257213-iron-man.json) |
