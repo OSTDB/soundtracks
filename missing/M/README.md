@@ -757,10 +757,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicka 2: Special Edition | 118926 | [118926-magicka-2-special-edition.json](./118926-magicka-2-special-edition.json) |
 | Magicka 2: Three Cardinals Robe Pack | 321758 | [321758-magicka-2-three-cardinals-robe-pack.json](./321758-magicka-2-three-cardinals-robe-pack.json) |
 | Magicka Complete Edition | 384629 | [384629-magicka-complete-edition.json](./384629-magicka-complete-edition.json) |
+| Magicka: Dungeons and Daemons | 22643 | [22643-magicka-dungeons-and-daemons.json](./22643-magicka-dungeons-and-daemons.json) |
 | Magicka: Final Frontier | 50819 | [50819-magicka-final-frontier.json](./50819-magicka-final-frontier.json) |
 | Magicka: Frozen Lake | 50818 | [50818-magicka-frozen-lake.json](./50818-magicka-frozen-lake.json) |
 | Magicka: Nippon | 50817 | [50817-magicka-nippon.json](./50817-magicka-nippon.json) |
 | Magicka: Party Robes | 50816 | [50816-magicka-party-robes.json](./50816-magicka-party-robes.json) |
+| Magicka: The Other Side of the Coin | 22642 | [22642-magicka-the-other-side-of-the-coin.json](./22642-magicka-the-other-side-of-the-coin.json) |
 | Magicka: The Watchtower | 50815 | [50815-magicka-the-watchtower.json](./50815-magicka-the-watchtower.json) |
 | Magicka: Wizard's Survival Kit | 50820 | [50820-magicka-wizards-survival-kit.json](./50820-magicka-wizards-survival-kit.json) |
 | Magicland Dizzy | 12182 | [12182-magicland-dizzy.json](./12182-magicland-dizzy.json) |
@@ -1307,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mancala Snails | 321617 | [321617-mancala-snails.json](./321617-mancala-snails.json) |
 | Manchester United | 72167 | [72167-manchester-united.json](./72167-manchester-united.json) |
 | Manchester United Club Football | 52013 | [52013-manchester-united-club-football.json](./52013-manchester-united-club-football.json) |
+| Manchester United Manager 2005 | 22546 | [22546-manchester-united-manager-2005.json](./22546-manchester-united-manager-2005.json) |
 | Mancy | 381611 | [381611-mancy.json](./381611-mancy.json) |
 | Manda no Yume | 201780 | [201780-manda-no-yume.json](./201780-manda-no-yume.json) |
 | Mandacaru | 159711 | [159711-mandacaru.json](./159711-mandacaru.json) |
