@@ -2680,6 +2680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FireChess | 275108 | [275108-firechess.json](./275108-firechess.json) |
 | Firecrackers | 393133 | [393133-firecrackers.json](./393133-firecrackers.json) |
 | Firefight | 121746 | [121746-firefight.json](./121746-firefight.json) |
+| Firefighter Command: Raging Inferno | 22631 | [22631-firefighter-command-raging-inferno.json](./22631-firefighter-command-raging-inferno.json) |
 | Firefighter Connor | 266524 | [266524-firefighter-connor.json](./266524-firefighter-connor.json) |
 | Firefighter Gaiden | 381277 | [381277-firefighter-gaiden.json](./381277-firefighter-gaiden.json) |
 | Firefighters 2014 | 17208 | [17208-firefighters-2014.json](./17208-firefighters-2014.json) |
@@ -5533,6 +5534,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Office Football: The College Years | 68046 | [68046-front-office-football-the-college-years.json](./68046-front-office-football-the-college-years.json) |
 | Front Office Football: The Fourth Edition | 68050 | [68050-front-office-football-the-fourth-edition.json](./68050-front-office-football-the-fourth-edition.json) |
 | Front Page Sports Football | 10337 | [10337-front-page-sports-football.json](./10337-front-page-sports-football.json) |
+| Front Page Sports Football Pro | 22603 | [22603-front-page-sports-football-pro.json](./22603-front-page-sports-football-pro.json) |
+| Front Page Sports Football Pro '97 | 22606 | [22606-front-page-sports-football-pro-97.json](./22606-front-page-sports-football-pro-97.json) |
+| Front Page Sports Football Pro '98 | 22607 | [22607-front-page-sports-football-pro-98.json](./22607-front-page-sports-football-pro-98.json) |
 | Front Page Sports: Baseball '94 | 68960 | [68960-front-page-sports-baseball-94.json](./68960-front-page-sports-baseball-94.json) |
 | Front Page Sports: Baseball Pro '96 Season | 81468 | [81468-front-page-sports-baseball-pro-96-season.json](./81468-front-page-sports-baseball-pro-96-season.json) |
 | Front Page Sports: Baseball Pro '98 | 100133 | [100133-front-page-sports-baseball-pro-98.json](./100133-front-page-sports-baseball-pro-98.json) |
