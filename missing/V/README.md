@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocity Redux | 413229 | [413229-velocity-redux.json](./413229-velocity-redux.json) |
 | Velocity Rift | 377299 | [377299-velocity-rift.json](./377299-velocity-rift.json) |
 | Velocity Rush | 338574 | [338574-velocity-rush.json](./338574-velocity-rush.json) |
+| Velocity Stream | 34623 | [34623-velocity-stream.json](./34623-velocity-stream.json) |
 | Velocity Supernova | 108298 | [108298-velocity-supernova.json](./108298-velocity-supernova.json) |
 | Velocity Uncapped | 411614 | [411614-velocity-uncapped.json](./411614-velocity-uncapped.json) |
 | Velocity Vector | 158085 | [158085-velocity-vector.json](./158085-velocity-vector.json) |
@@ -1619,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vox Populi: Spain 2023 | 258042 | [258042-vox-populi-spain-2023.json](./258042-vox-populi-spain-2023.json) |
 | Vox Populi: USA 2024 | 309464 | [309464-vox-populi-usa-2024.json](./309464-vox-populi-usa-2024.json) |
 | Voxatron | 51288 | [51288-voxatron.json](./51288-voxatron.json) |
+| Voxel Blast | 34652 | [34652-voxel-blast.json](./34652-voxel-blast.json) |
 | Voxel Delvers | 381686 | [381686-voxel-delvers.json](./381686-voxel-delvers.json) |
 | Voxel Doodle - Color By Number 3D | 105964 | [105964-voxel-doodle-color-by-number-3d.json](./105964-voxel-doodle-color-by-number-3d.json) |
 | Voxel Doom | 251544 | [251544-voxel-doom.json](./251544-voxel-doom.json) |
