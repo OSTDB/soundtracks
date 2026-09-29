@@ -1506,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leikkaus | 413620 | [413620-leikkaus.json](./413620-leikkaus.json) |
 | Leila | 258420 | [258420-leila.json](./258420-leila.json) |
 | Leiria: Stargazer | 202865 | [202865-leiria-stargazer.json](./202865-leiria-stargazer.json) |
+| Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places) | 8656 | [8656-leisure-suit-larry-2-goes-looking-for-love-in-several-wrong-places.json](./8656-leisure-suit-larry-2-goes-looking-for-love-in-several-wrong-places.json) |
 | Leisure Suit Larry in the Land of the Lounge Lizards | 2906 | [2906-leisure-suit-larry-in-the-land-of-the-lounge-lizards.json](./2906-leisure-suit-larry-in-the-land-of-the-lounge-lizards.json) |
 | Leisure Suit Larry: Box Office Bust | 2914 | [2914-leisure-suit-larry-box-office-bust.json](./2914-leisure-suit-larry-box-office-bust.json) |
 | Leisure Suit Larry: Love for Sail | 221838 | [221838-leisure-suit-larry-love-for-sail.json](./221838-leisure-suit-larry-love-for-sail.json) |
@@ -3253,6 +3254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Ruin | 204013 | [204013-lone-ruin.json](./204013-lone-ruin.json) |
 | Lone Siren | 124670 | [124670-lone-siren.json](./124670-lone-siren.json) |
 | Lone Soldier | 44753 | [44753-lone-soldier.json](./44753-lone-soldier.json) |
+| Lone Survivor | 8117 | [8117-lone-survivor.json](./8117-lone-survivor.json) |
 | Lone Survivors | 373766 | [373766-lone-survivors.json](./373766-lone-survivors.json) |
 | Lone Tower Roguelite Defense | 255805 | [255805-lone-tower-roguelite-defense.json](./255805-lone-tower-roguelite-defense.json) |
 | Lone Traveler | 232947 | [232947-lone-traveler.json](./232947-lone-traveler.json) |
