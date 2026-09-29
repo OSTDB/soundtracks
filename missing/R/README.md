@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiant Sky | 381616 | [381616-radiant-sky.json](./381616-radiant-sky.json) |
 | Radiant Starlets | 365301 | [365301-radiant-starlets.json](./365301-radiant-starlets.json) |
 | RadianVR | 41979 | [41979-radianvr.json](./41979-radianvr.json) |
+| Radiation Age | 49516 | [49516-radiation-age.json](./49516-radiation-age.json) |
 | Radiation Caterpillar | 410229 | [410229-radiation-caterpillar.json](./410229-radiation-caterpillar.json) |
 | Radiator Forever | 20269 | [20269-radiator-forever.json](./20269-radiator-forever.json) |
 | Radica Junior Bass Fishin' | 403834 | [403834-radica-junior-bass-fishin.json](./403834-radica-junior-bass-fishin.json) |
