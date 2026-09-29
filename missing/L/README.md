@@ -2902,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Cycling Manager 2 | 197760 | [197760-live-cycling-manager-2.json](./197760-live-cycling-manager-2.json) |
 | Live Cycling Manager 2022 | 215920 | [215920-live-cycling-manager-2022.json](./215920-live-cycling-manager-2022.json) |
 | Live Empire | 169403 | [169403-live-empire.json](./169403-live-empire.json) |
+| Live for Speed | 9492 | [9492-live-for-speed.json](./9492-live-for-speed.json) |
 | Live Labyrinth | 149530 | [149530-live-labyrinth.json](./149530-live-labyrinth.json) |
 | Live Lens | 312179 | [312179-live-lens.json](./312179-live-lens.json) |
 | Live Mathletics | 205622 | [205622-live-mathletics.json](./205622-live-mathletics.json) |
