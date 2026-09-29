@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jamdat Word Craft | 71486 | [71486-jamdat-word-craft.json](./71486-jamdat-word-craft.json) |
 | James Bond 007 | 1639 | [1639-james-bond-007.json](./1639-james-bond-007.json) |
 | James Bond 007: Agent Under Fire | 1643 | [1643-james-bond-007-agent-under-fire.json](./1643-james-bond-007-agent-under-fire.json) |
+| James Bond 007: Everything or Nothing | 1644 | [1644-james-bond-007-everything-or-nothing.json](./1644-james-bond-007-everything-or-nothing.json) |
 | James Bond 007: Nightfire | 290069 | [290069-james-bond-007-nightfire.json](./290069-james-bond-007-nightfire.json) |
 | James Bond 007: The Living Daylights | 44099 | [44099-james-bond-007-the-living-daylights.json](./44099-james-bond-007-the-living-daylights.json) |
 | James Bond 007: The Spy Who Loved Me | 44098 | [44098-james-bond-007-the-spy-who-loved-me.json](./44098-james-bond-007-the-spy-who-loved-me.json) |
@@ -556,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Rush | 236304 | [236304-jet-rush.json](./236304-jet-rush.json) |
 | Jet Set Gertie | 380103 | [380103-jet-set-gertie.json](./380103-jet-set-gertie.json) |
 | Jet Set Luis | 45343 | [45343-jet-set-luis.json](./45343-jet-set-luis.json) |
+| Jet Set Radio | 21004 | [21004-jet-set-radio.json](./21004-jet-set-radio.json) |
 | Jet Set Radio | 279629 | [279629-jet-set-radio.json](./279629-jet-set-radio.json) |
 | Jet Set Radio | 398453 | [398453-jet-set-radio.json](./398453-jet-set-radio.json) |
 | Jet Set Radio Future | 1570 | [1570-jet-set-radio-future.json](./1570-jet-set-radio-future.json) |
