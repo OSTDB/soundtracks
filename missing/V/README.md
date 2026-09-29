@@ -609,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocity Rush | 338574 | [338574-velocity-rush.json](./338574-velocity-rush.json) |
 | Velocity Stream | 34623 | [34623-velocity-stream.json](./34623-velocity-stream.json) |
 | Velocity Supernova | 108298 | [108298-velocity-supernova.json](./108298-velocity-supernova.json) |
+| Velocity Ultra | 23429 | [23429-velocity-ultra.json](./23429-velocity-ultra.json) |
 | Velocity Uncapped | 411614 | [411614-velocity-uncapped.json](./411614-velocity-uncapped.json) |
 | Velocity Vector | 158085 | [158085-velocity-vector.json](./158085-velocity-vector.json) |
 | Velocity Vortex | 251693 | [251693-velocity-vortex.json](./251693-velocity-vortex.json) |
