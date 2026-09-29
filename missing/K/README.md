@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-1 World Grand Prix | 23710 | [23710-k-1-world-grand-prix.json](./23710-k-1-world-grand-prix.json) |
 | K-1 World Grand Prix 2001 | 23469 | [23469-k-1-world-grand-prix-2001.json](./23469-k-1-world-grand-prix-2001.json) |
 | K-Bot | 303610 | [303610-k-bot.json](./303610-k-bot.json) |
+| K-ON! Houkago Live!! | 38485 | [38485-k-on-houkago-live.json](./38485-k-on-houkago-live.json) |
 | K-ON! Houkago Rhythm Time | 269593 | [269593-k-on-houkago-rhythm-time.json](./269593-k-on-houkago-rhythm-time.json) |
 | K-ON!!: Houkago Rhythm Selection | 201262 | [201262-k-on-houkago-rhythm-selection.json](./201262-k-on-houkago-rhythm-selection.json) |
 | K-Pop Fandom Korean Quiz | 401102 | [401102-k-pop-fandom-korean-quiz.json](./401102-k-pop-fandom-korean-quiz.json) |
