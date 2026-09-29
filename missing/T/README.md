@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tahl: Uncover the Evil Within | 145617 | [145617-tahl-uncover-the-evil-within.json](./145617-tahl-uncover-the-evil-within.json) |
 | Tahn | 126046 | [126046-tahn.json](./126046-tahn.json) |
 | Tahoe Dragon: The Beginning | 220861 | [220861-tahoe-dragon-the-beginning.json](./220861-tahoe-dragon-the-beginning.json) |
+| Tai-Pan | 37297 | [37297-tai-pan.json](./37297-tai-pan.json) |
 | Taichi Panda | 69338 | [69338-taichi-panda.json](./69338-taichi-panda.json) |
 | Taiga | 153347 | [153347-taiga.json](./153347-taiga.json) |
 | Taiga | 199514 | [199514-taiga.json](./199514-taiga.json) |
@@ -2137,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrorist Takedown: War in Colombia | 70122 | [70122-terrorist-takedown-war-in-colombia.json](./70122-terrorist-takedown-war-in-colombia.json) |
 | TerrorMario! | 323754 | [323754-terrormario.json](./323754-terrormario.json) |
 | Terroro | 318493 | [318493-terroro.json](./318493-terroro.json) |
+| Terrors 2 | 37315 | [37315-terrors-2.json](./37315-terrors-2.json) |
 | Terrors to Unveil: Day Off | 348313 | [348313-terrors-to-unveil-day-off.json](./348313-terrors-to-unveil-day-off.json) |
 | Terrors to Unveil: Intrusion | 344352 | [344352-terrors-to-unveil-intrusion.json](./344352-terrors-to-unveil-intrusion.json) |
 | Terrorween Playdate Bundle | 272820 | [272820-terrorween-playdate-bundle.json](./272820-terrorween-playdate-bundle.json) |
@@ -9257,6 +9259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderbolt II | 71562 | [71562-thunderbolt-ii.json](./71562-thunderbolt-ii.json) |
 | Thunderbolt Poker | 227875 | [227875-thunderbolt-poker.json](./227875-thunderbolt-poker.json) |
 | Thunderbolts and Lightning! | 277954 | [277954-thunderbolts-and-lightning.json](./277954-thunderbolts-and-lightning.json) |
+| ThunderCats | 37274 | [37274-thundercats.json](./37274-thundercats.json) |
 | ThunderCats | 8060 | [8060-thundercats.json](./8060-thundercats.json) |
 | Thunderchopper | 37161 | [37161-thunderchopper.json](./37161-thunderchopper.json) |
 | Thundercross | 55201 | [55201-thundercross.json](./55201-thundercross.json) |
@@ -9388,6 +9391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Up: Spaceship | 410257 | [410257-tidy-up-spaceship.json](./410257-tidy-up-spaceship.json) |
 | Tie Break Tennis | 125970 | [125970-tie-break-tennis.json](./125970-tie-break-tennis.json) |
 | Tie Dye | 237634 | [237634-tie-dye.json](./237634-tie-dye.json) |
+| Tie-Break | 37284 | [37284-tie-break.json](./37284-tie-break.json) |
 | Tie: A Game About Depression | 326716 | [326716-tie-a-game-about-depression.json](./326716-tie-a-game-about-depression.json) |
 | Tiebreak+ | 334667 | [334667-tiebreak.json](./334667-tiebreak.json) |
 | Tiebreaker | 93017 | [93017-tiebreaker.json](./93017-tiebreaker.json) |
@@ -11266,6 +11270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of Friends | 249468 | [249468-tomb-of-friends.json](./249468-tomb-of-friends.json) |
 | Tomb of Horror | 356664 | [356664-tomb-of-horror.json](./356664-tomb-of-horror.json) |
 | Tomb of Pharaohs | 158140 | [158140-tomb-of-pharaohs.json](./158140-tomb-of-pharaohs.json) |
+| Tomb of Syrinx | 37292 | [37292-tomb-of-syrinx.json](./37292-tomb-of-syrinx.json) |
 | Tomb of the Bloodletter | 334195 | [334195-tomb-of-the-bloodletter.json](./334195-tomb-of-the-bloodletter.json) |
 | Tomb of the Brain | 291011 | [291011-tomb-of-the-brain.json](./291011-tomb-of-the-brain.json) |
 | Tomb of the Dash | 199630 | [199630-tomb-of-the-dash.json](./199630-tomb-of-the-dash.json) |
@@ -11411,6 +11416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonkachi Mario | 200555 | [200555-tonkachi-mario.json](./200555-tonkachi-mario.json) |
 | Tonko 4 | 159256 | [159256-tonko-4.json](./159256-tonko-4.json) |
 | TonpaQuest | 178043 | [178043-tonpaquest.json](./178043-tonpaquest.json) |
+| Tonpuso | 37312 | [37312-tonpuso.json](./37312-tonpuso.json) |
 | Tony & Friends in Kellogg's Land | 58272 | [58272-tony-and-friends-in-kelloggs-land.json](./58272-tony-and-friends-in-kelloggs-land.json) |
 | Tony and Clyde | 172753 | [172753-tony-and-clyde.json](./172753-tony-and-clyde.json) |
 | Tony and Jennie | 337166 | [337166-tony-and-jennie.json](./337166-tony-and-jennie.json) |
@@ -13402,6 +13408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trappuzzler | 158173 | [158173-trappuzzler.json](./158173-trappuzzler.json) |
 | Trappy Climb | 181870 | [181870-trappy-climb.json](./181870-trappy-climb.json) |
 | Trappy Mine | 181859 | [181859-trappy-mine.json](./181859-trappy-mine.json) |
+| Traps 'n' Treasures | 37275 | [37275-traps-n-treasures.json](./37275-traps-n-treasures.json) |
 | Traps in Space | 142482 | [142482-traps-in-space.json](./142482-traps-in-space.json) |
 | Traption Bakery | 142436 | [142436-traption-bakery.json](./142436-traption-bakery.json) |
 | Trapventure | 334318 | [334318-trapventure.json](./334318-trapventure.json) |
