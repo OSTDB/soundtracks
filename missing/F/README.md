@@ -1653,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fei Tian | 86105 | [86105-fei-tian.json](./86105-fei-tian.json) |
 | Feign | 172516 | [172516-feign.json](./172516-feign.json) |
 | Feisty Fauna | 193345 | [193345-feisty-fauna.json](./193345-feisty-fauna.json) |
+| Feisty Feet | 42769 | [42769-feisty-feet.json](./42769-feisty-feet.json) |
 | Fèitǔ Báixuěgōngzhǔ | 348855 | [348855-feitu-baixuegongzhu.json](./348855-feitu-baixuegongzhu.json) |
 | Feitu Huiguniang | 348846 | [348846-feitu-huiguniang.json](./348846-feitu-huiguniang.json) |
 | Fèitǔ Xiǎohóngmào | 348836 | [348836-feitu-xiaohongmao.json](./348836-feitu-xiaohongmao.json) |
