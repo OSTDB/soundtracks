@@ -5534,6 +5534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Olympic '84 Vol. 2 | 98246 | [98246-hyper-olympic-84-vol-2.json](./98246-hyper-olympic-84-vol-2.json) |
 | Hyper Olympic: Challenge 5 | 385738 | [385738-hyper-olympic-challenge-5.json](./385738-hyper-olympic-challenge-5.json) |
 | Hyper Olympic: Jumping Type | 385734 | [385734-hyper-olympic-jumping-type.json](./385734-hyper-olympic-jumping-type.json) |
+| Hyper Pac-Man | 39806 | [39806-hyper-pac-man.json](./39806-hyper-pac-man.json) |
 | Hyper Pacman | 37337 | [37337-hyper-pacman.json](./37337-hyper-pacman.json) |
 | Hyper Paddle Block Rusher | 222323 | [222323-hyper-paddle-block-rusher.json](./222323-hyper-paddle-block-rusher.json) |
 | Hyper Panda | 332832 | [332832-hyper-panda.json](./332832-hyper-panda.json) |
