@@ -6447,6 +6447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Property | 199378 | [199378-private-property.json](./199378-private-property.json) |
 | Private School Days | 89760 | [89760-private-school-days.json](./89760-private-school-days.json) |
 | Private: Pornmania | 254545 | [254545-private-pornmania.json](./254545-private-pornmania.json) |
+| Privateers | 58288 | [58288-privateers.json](./58288-privateers.json) |
 | Prixel | 111205 | [111205-prixel.json](./111205-prixel.json) |
 | Prize Fighter | 5424 | [5424-prize-fighter.json](./5424-prize-fighter.json) |
 | Prizefight | 68609 | [68609-prizefight.json](./68609-prizefight.json) |
