@@ -3000,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Expedition: The Fountain of Youth | 101961 | [101961-hidden-expedition-the-fountain-of-youth.json](./101961-hidden-expedition-the-fountain-of-youth.json) |
 | Hidden Expedition: The Fountain of Youth - Collector's Edition | 53213 | [53213-hidden-expedition-the-fountain-of-youth-collectors-edition.json](./53213-hidden-expedition-the-fountain-of-youth-collectors-edition.json) |
 | Hidden Expedition: The Pearl of Discord | 140037 | [140037-hidden-expedition-the-pearl-of-discord.json](./140037-hidden-expedition-the-pearl-of-discord.json) |
+| Hidden Expedition: The Pearl of Discord - Collector's Edition | 29102 | [29102-hidden-expedition-the-pearl-of-discord-collectors-edition.json](./29102-hidden-expedition-the-pearl-of-discord-collectors-edition.json) |
 | Hidden Farm 2 Top-Down 3D | 208593 | [208593-hidden-farm-2-top-down-3d.json](./208593-hidden-farm-2-top-down-3d.json) |
 | Hidden Fears | 86916 | [86916-hidden-fears.json](./86916-hidden-fears.json) |
 | Hidden Folks 2 | 404849 | [404849-hidden-folks-2.json](./404849-hidden-folks-2.json) |
@@ -5560,6 +5561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Paddle Block Rusher | 222323 | [222323-hyper-paddle-block-rusher.json](./222323-hyper-paddle-block-rusher.json) |
 | Hyper Panda | 332832 | [332832-hyper-panda.json](./332832-hyper-panda.json) |
 | Hyper Pixel Man | 413684 | [413684-hyper-pixel-man.json](./413684-hyper-pixel-man.json) |
+| Hyper Rally | 29034 | [29034-hyper-rally.json](./29034-hyper-rally.json) |
 | Hyper Reverthion | 97327 | [97327-hyper-reverthion.json](./97327-hyper-reverthion.json) |
 | Hyper Rider | 319972 | [319972-hyper-rider.json](./319972-hyper-rider.json) |
 | Hyper Rift | 273862 | [273862-hyper-rift.json](./273862-hyper-rift.json) |
