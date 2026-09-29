@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necropolis Nights | 332849 | [332849-necropolis-nights.json](./332849-necropolis-nights.json) |
 | Necropolis of the Angels | 214187 | [214187-necropolis-of-the-angels.json](./214187-necropolis-of-the-angels.json) |
 | Necropolis: Brutal Edition | 25337 | [25337-necropolis-brutal-edition.json](./25337-necropolis-brutal-edition.json) |
+| Necroscope | 58889 | [58889-necroscope.json](./58889-necroscope.json) |
 | Necrosphere | 36626 | [36626-necrosphere.json](./36626-necrosphere.json) |
 | Necrosphere Deluxe | 114026 | [114026-necrosphere-deluxe.json](./114026-necrosphere-deluxe.json) |
 | NecroTactics | 223418 | [223418-necrotactics.json](./223418-necrotactics.json) |
@@ -2281,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Hagakure | 215621 | [215621-ninja-hagakure.json](./215621-ninja-hagakure.json) |
 | Ninja Hands | 266254 | [266254-ninja-hands.json](./266254-ninja-hands.json) |
 | Ninja Hattori-kun | 346042 | [346042-ninja-hattori-kun.json](./346042-ninja-hattori-kun.json) |
+| Ninja Hattori-kun | 58882 | [58882-ninja-hattori-kun.json](./58882-ninja-hattori-kun.json) |
 | Ninja Hero Revenge | 102728 | [102728-ninja-hero-revenge.json](./102728-ninja-hero-revenge.json) |
 | Ninja Hunter | 64635 | [64635-ninja-hunter.json](./64635-ninja-hunter.json) |
 | Ninja in Training | 74337 | [74337-ninja-in-training.json](./74337-ninja-in-training.json) |
