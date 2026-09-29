@@ -1080,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major Havoc | 39384 | [39384-major-havoc.json](./39384-major-havoc.json) |
 | Major League | 199645 | [199645-major-league.json](./199645-major-league.json) |
 | Major League | 58739 | [58739-major-league.json](./58739-major-league.json) |
+| Major League Baseball 2K10 | 4991 | [4991-major-league-baseball-2k10.json](./4991-major-league-baseball-2k10.json) |
 | Major League Baseball 2K12 | 4993 | [4993-major-league-baseball-2k12.json](./4993-major-league-baseball-2k12.json) |
 | Major League Baseball 2K5 | 8907 | [8907-major-league-baseball-2k5.json](./8907-major-league-baseball-2k5.json) |
 | Major League Baseball 2K6 | 240488 | [240488-major-league-baseball-2k6.json](./240488-major-league-baseball-2k6.json) |
@@ -2289,6 +2290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass | 178447 | [178447-mass.json](./178447-mass.json) |
 | Mass Brawl | 256354 | [256354-mass-brawl.json](./256354-mass-brawl.json) |
 | Mass Conflict: Ignition | 309458 | [309458-mass-conflict-ignition.json](./309458-mass-conflict-ignition.json) |
+| Mass Effect 2: Cerberus Network | 202312 | [202312-mass-effect-2-cerberus-network.json](./202312-mass-effect-2-cerberus-network.json) |
 | Mass Effect 2: Collector's Edition | 43957 | [43957-mass-effect-2-collectors-edition.json](./43957-mass-effect-2-collectors-edition.json) |
 | Mass Effect 2: Digital Deluxe Edition | 202309 | [202309-mass-effect-2-digital-deluxe-edition.json](./202309-mass-effect-2-digital-deluxe-edition.json) |
 | Mass Effect 2: Firewalker Pack | 13790 | [13790-mass-effect-2-firewalker-pack.json](./13790-mass-effect-2-firewalker-pack.json) |
@@ -7131,6 +7133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Prom 2: Monster Camp Outfit Pack - Thirst and Sensibility | 230815 | [230815-monster-prom-2-monster-camp-outfit-pack-thirst-and-sensibility.json](./230815-monster-prom-2-monster-camp-outfit-pack-thirst-and-sensibility.json) |
 | Monster Prom 2: Monster Camp XXL | 187866 | [187866-monster-prom-2-monster-camp-xxl.json](./187866-monster-prom-2-monster-camp-xxl.json) |
 | Monster Prom 2: Monster Camp XXL Character Pack - Colorful Campers | 283183 | [283183-monster-prom-2-monster-camp-xxl-character-pack-colorful-campers.json](./283183-monster-prom-2-monster-camp-xxl-character-pack-colorful-campers.json) |
+| Monster Prom 3: Monster Roadtrip | 198860 | [198860-monster-prom-3-monster-roadtrip.json](./198860-monster-prom-3-monster-roadtrip.json) |
 | Monster Prom 3: Monster Roadtrip - Hitchhiker Pack: Amira & Oz | 230822 | [230822-monster-prom-3-monster-roadtrip-hitchhiker-pack-amira-and-oz.json](./230822-monster-prom-3-monster-roadtrip-hitchhiker-pack-amira-and-oz.json) |
 | Monster Prom 3: Monster Roadtrip - Hitchhiker Pack: Vicky & Brian | 241967 | [241967-monster-prom-3-monster-roadtrip-hitchhiker-pack-vicky-and-brian.json](./241967-monster-prom-3-monster-roadtrip-hitchhiker-pack-vicky-and-brian.json) |
 | Monster Prom 3: Monster Roadtrip - Playable Character Glitch | 224484 | [224484-monster-prom-3-monster-roadtrip-playable-character-glitch.json](./224484-monster-prom-3-monster-roadtrip-playable-character-glitch.json) |
