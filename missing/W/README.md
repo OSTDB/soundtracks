@@ -3249,6 +3249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Factori | 154576 | [154576-word-factori.json](./154576-word-factori.json) |
 | Word Feud | 131583 | [131583-word-feud.json](./131583-word-feud.json) |
 | Word Finder - Word Connect | 96742 | [96742-word-finder-word-connect.json](./96742-word-finder-word-connect.json) |
+| Word Forward | 58298 | [58298-word-forward.json](./58298-word-forward.json) |
 | Word Game | 161224 | [161224-word-game.json](./161224-word-game.json) |
 | Word Game | 88428 | [88428-word-game.json](./88428-word-game.json) |
 | Word Games - Order letters and create words | 96070 | [96070-word-games-order-letters-and-create-words.json](./96070-word-games-order-letters-and-create-words.json) |
