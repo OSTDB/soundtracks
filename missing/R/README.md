@@ -879,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rap Simulator | 250303 | [250303-rap-simulator.json](./250303-rap-simulator.json) |
 | Rapala Fishing Frenzy 2009 | 7155 | [7155-rapala-fishing-frenzy-2009.json](./7155-rapala-fishing-frenzy-2009.json) |
 | Rapala Pro Bass Fishing | 21740 | [21740-rapala-pro-bass-fishing.json](./21740-rapala-pro-bass-fishing.json) |
+| Rapala Trophies | 42806 | [42806-rapala-trophies.json](./42806-rapala-trophies.json) |
 | Rapala: We Fish | 67697 | [67697-rapala-we-fish.json](./67697-rapala-we-fish.json) |
 | Rapala's Fishing Frenzy | 50605 | [50605-rapalas-fishing-frenzy.json](./50605-rapalas-fishing-frenzy.json) |
 | Raphael | 194281 | [194281-raphael.json](./194281-raphael.json) |
@@ -2981,6 +2982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolocity | 295322 | [295322-revolocity.json](./295322-revolocity.json) |
 | Revolt Legion VR | 254138 | [254138-revolt-legion-vr.json](./254138-revolt-legion-vr.json) |
 | Revolter | 227761 | [227761-revolter.json](./227761-revolter.json) |
+| Revoltin' Youth | 42814 | [42814-revoltin-youth.json](./42814-revoltin-youth.json) |
 | Revolty-II | 237517 | [237517-revolty-ii.json](./237517-revolty-ii.json) |
 | Revolution | 81387 | [81387-revolution.json](./81387-revolution.json) |
 | Revolution Ace | 17033 | [17033-revolution-ace.json](./17033-revolution-ace.json) |
