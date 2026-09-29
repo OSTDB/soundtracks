@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laserbreak: Renegades | 57730 | [57730-laserbreak-renegades.json](./57730-laserbreak-renegades.json) |
 | LaserCat | 32271 | [32271-lasercat.json](./32271-lasercat.json) |
 | Laserium | 104086 | [104086-laserium.json](./104086-laserium.json) |
+| Laseronium: The Beam Focus | 55259 | [55259-laseronium-the-beam-focus.json](./55259-laseronium-the-beam-focus.json) |
 | Laserpitium | 249307 | [249307-laserpitium.json](./249307-laserpitium.json) |
 | LaserPoint | 274530 | [274530-laserpoint.json](./274530-laserpoint.json) |
 | LaserReimu | 324302 | [324302-laserreimu.json](./324302-laserreimu.json) |
@@ -2049,6 +2050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifetakers & Heartbreakers | 340917 | [340917-lifetakers-and-heartbreakers.json](./340917-lifetakers-and-heartbreakers.json) |
 | Lifetime | 236400 | [236400-lifetime.json](./236400-lifetime.json) |
 | Lifo | 185615 | [185615-lifo.json](./185615-lifo.json) |
+| Lifo Harvester | 55237 | [55237-lifo-harvester.json](./55237-lifo-harvester.json) |
 | Lift Up | 397072 | [397072-lift-up.json](./397072-lift-up.json) |
 | Lift/Shift | 340918 | [340918-lift-shift.json](./340918-lift-shift.json) |
 | Lifted | 309518 | [309518-lifted.json](./309518-lifted.json) |
@@ -3124,6 +3126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistical: Brazil | 74485 | [74485-logistical-brazil.json](./74485-logistical-brazil.json) |
 | Logistical: Earth | 51582 | [51582-logistical-earth.json](./51582-logistical-earth.json) |
 | Logistical: Europe | 53278 | [53278-logistical-europe.json](./53278-logistical-europe.json) |
+| Logistical: Italy | 55263 | [55263-logistical-italy.json](./55263-logistical-italy.json) |
 | Logistical: North America | 53279 | [53279-logistical-north-america.json](./53279-logistical-north-america.json) |
 | Logistical: Russia | 74489 | [74489-logistical-russia.json](./74489-logistical-russia.json) |
 | Logistical: South Africa | 74486 | [74486-logistical-south-africa.json](./74486-logistical-south-africa.json) |
