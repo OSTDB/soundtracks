@@ -1189,7 +1189,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parlour Games | 46135 | [46135-parlour-games.json](./46135-parlour-games.json) |
 | Parmesan | 184080 | [184080-parmesan.json](./184080-parmesan.json) |
 | Paro Paro | 151646 | [151646-paro-paro.json](./151646-paro-paro.json) |
+| Paro Wars | 37305 | [37305-paro-wars.json](./37305-paro-wars.json) |
 | Parodius | 174910 | [174910-parodius.json](./174910-parodius.json) |
+| Parodius da!: Shinwa kara Owarai he | 37307 | [37307-parodius-da-shinwa-kara-owarai-he.json](./37307-parodius-da-shinwa-kara-owarai-he.json) |
 | Parodius Portable | 42792 | [42792-parodius-portable.json](./42792-parodius-portable.json) |
 | Parquet | 166063 | [166063-parquet.json](./166063-parquet.json) |
 | Parrot | 186827 | [186827-parrot.json](./186827-parrot.json) |
@@ -7442,6 +7444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pucca Jam | 260118 | [260118-pucca-jam.json](./260118-pucca-jam.json) |
 | Pucca Puzzle Adventure | 239003 | [239003-pucca-puzzle-adventure.json](./239003-pucca-puzzle-adventure.json) |
 | Pucca's Restaurant | 65476 | [65476-puccas-restaurant.json](./65476-puccas-restaurant.json) |
+| Puchi Carat | 37322 | [37322-puchi-carat.json](./37322-puchi-carat.json) |
 | Puchi Nikki | 201840 | [201840-puchi-nikki.json](./201840-puchi-nikki.json) |
 | Puchi Novel: Kongi No Rokugatsu | 222299 | [222299-puchi-novel-kongi-no-rokugatsu.json](./222299-puchi-novel-kongi-no-rokugatsu.json) |
 | PuchiCon Big | 222292 | [222292-puchicon-big.json](./222292-puchicon-big.json) |
@@ -7977,6 +7980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Nebula | 32165 | [32165-puzzle-nebula.json](./32165-puzzle-nebula.json) |
 | Puzzle Nintama Rantarou | 37871 | [37871-puzzle-nintama-rantarou.json](./37871-puzzle-nintama-rantarou.json) |
 | Puzzle Nintama Rantarou GB | 97863 | [97863-puzzle-nintama-rantarou-gb.json](./97863-puzzle-nintama-rantarou-gb.json) |
+| Puzzle of Words | 37301 | [37301-puzzle-of-words.json](./37301-puzzle-of-words.json) |
 | Puzzle Page | 91122 | [91122-puzzle-page.json](./91122-puzzle-page.json) |
 | Puzzle Parasite | 366826 | [366826-puzzle-parasite.json](./366826-puzzle-parasite.json) |
 | Puzzle Park | 215882 | [215882-puzzle-park.json](./215882-puzzle-park.json) |
