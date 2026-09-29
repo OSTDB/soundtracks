@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tail: Forces Unite! | 193970 | [193970-fairy-tail-forces-unite.json](./193970-fairy-tail-forces-unite.json) |
 | Fairy Tail: Guild Masters | 193873 | [193873-fairy-tail-guild-masters.json](./193873-fairy-tail-guild-masters.json) |
 | Fairy Tail: Zeref's Awakening | 63398 | [63398-fairy-tail-zerefs-awakening.json](./63398-fairy-tail-zerefs-awakening.json) |
+| Fairy Tale Busters | 56571 | [56571-fairy-tale-busters.json](./56571-fairy-tale-busters.json) |
 | Fairy Tale Diaries | 110972 | [110972-fairy-tale-diaries.json](./110972-fairy-tale-diaries.json) |
 | Fairy Tale Fighters | 406081 | [406081-fairy-tale-fighters.json](./406081-fairy-tale-fighters.json) |
 | Fairy Tale Puzzles: Magic Objects | 111460 | [111460-fairy-tale-puzzles-magic-objects.json](./111460-fairy-tale-puzzles-magic-objects.json) |
@@ -3237,6 +3238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Ugandan Knuckles | 308965 | [308965-flappy-ugandan-knuckles.json](./308965-flappy-ugandan-knuckles.json) |
 | Flappy Wings | 226423 | [226423-flappy-wings.json](./226423-flappy-wings.json) |
 | Flappy Wings | 381022 | [381022-flappy-wings.json](./381022-flappy-wings.json) |
+| Flappy Zegeta | 56542 | [56542-flappy-zegeta.json](./56542-flappy-zegeta.json) |
 | Flappy: The Angry Bird | 144272 | [144272-flappy-the-angry-bird.json](./144272-flappy-the-angry-bird.json) |
 | FlappyParrot | 369655 | [369655-flappyparrot.json](./369655-flappyparrot.json) |
 | Flare Nuinui Quest | 210244 | [210244-flare-nuinui-quest.json](./210244-flare-nuinui-quest.json) |
@@ -4716,6 +4718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Gods M | 200749 | [200749-four-gods-m.json](./200749-four-gods-m.json) |
 | Four Great Games: Volume 2 | 70359 | [70359-four-great-games-volume-2.json](./70359-four-great-games-volume-2.json) |
 | Four Horsemen | 232040 | [232040-four-horsemen.json](./232040-four-horsemen.json) |
+| Four Horsemen | 56596 | [56596-four-horsemen.json](./56596-four-horsemen.json) |
 | Four Houses | 209564 | [209564-four-houses.json](./209564-four-houses.json) |
 | Four Hunters Survivor | 277584 | [277584-four-hunters-survivor.json](./277584-four-hunters-survivor.json) |
 | Four in a Row | 146688 | [146688-four-in-a-row.json](./146688-four-in-a-row.json) |
@@ -5674,6 +5677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuga: Melodies of Steel 3 - Season Pass | 371315 | [371315-fuga-melodies-of-steel-3-season-pass.json](./371315-fuga-melodies-of-steel-3-season-pass.json) |
 | Fugaz | 405056 | [405056-fugaz.json](./405056-fugaz.json) |
 | Fuggedaboutit Farm | 372996 | [372996-fuggedaboutit-farm.json](./372996-fuggedaboutit-farm.json) |
+| Fugger | 56588 | [56588-fugger.json](./56588-fugger.json) |
 | Fugitive | 249871 | [249871-fugitive.json](./249871-fugitive.json) |
 | Fugitive 3D | 152758 | [152758-fugitive-3d.json](./152758-fugitive-3d.json) |
 | Fugitive Flight | 395835 | [395835-fugitive-flight.json](./395835-fugitive-flight.json) |
