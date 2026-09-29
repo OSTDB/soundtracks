@@ -1146,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemini Lost | 16080 | [16080-gemini-lost.json](./16080-gemini-lost.json) |
 | Gemini Wing | 12117 | [12117-gemini-wing.json](./12117-gemini-wing.json) |
 | Gemini X | 404926 | [404926-gemini-x.json](./404926-gemini-x.json) |
+| Gemini: A Journey of Two Stars | 57734 | [57734-gemini-a-journey-of-two-stars.json](./57734-gemini-a-journey-of-two-stars.json) |
 | Gemini: Heroes Reborn | 19932 | [19932-gemini-heroes-reborn.json](./19932-gemini-heroes-reborn.json) |
 | Geminiii | 250457 | [250457-geminiii.json](./250457-geminiii.json) |
 | Geminose: Animal Popstars | 144940 | [144940-geminose-animal-popstars.json](./144940-geminose-animal-popstars.json) |
@@ -3659,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Block | 164511 | [164511-gravity-block.json](./164511-gravity-block.json) |
 | Gravity Block | 69358 | [69358-gravity-block.json](./69358-gravity-block.json) |
 | Gravity Block 2 | 326189 | [326189-gravity-block-2.json](./326189-gravity-block-2.json) |
+| Gravity Blocks: The Last Rotation | 57742 | [57742-gravity-blocks-the-last-rotation.json](./57742-gravity-blocks-the-last-rotation.json) |
 | Gravity Bone | 7962 | [7962-gravity-bone.json](./7962-gravity-bone.json) |
 | Gravity Box | 207853 | [207853-gravity-box.json](./207853-gravity-box.json) |
 | Gravity Brawl | 159056 | [159056-gravity-brawl.json](./159056-gravity-brawl.json) |
