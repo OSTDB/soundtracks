@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable II: Pub Games | 21328 | [21328-fable-ii-pub-games.json](./21328-fable-ii-pub-games.json) |
 | Fable III: Limited Collector's Edition | 43958 | [43958-fable-iii-limited-collectors-edition.json](./43958-fable-iii-limited-collectors-edition.json) |
 | Fable III: Understone Quest Pack | 20558 | [20558-fable-iii-understone-quest-pack.json](./20558-fable-iii-understone-quest-pack.json) |
+| Fable Legends | 5624 | [5624-fable-legends.json](./5624-fable-legends.json) |
 | Fable Mosaics: Rapunzel | 294218 | [294218-fable-mosaics-rapunzel.json](./294218-fable-mosaics-rapunzel.json) |
 | Fable Rush | 52283 | [52283-fable-rush.json](./52283-fable-rush.json) |
 | Fable: 20th Anniversary Demake | 342668 | [342668-fable-20th-anniversary-demake.json](./342668-fable-20th-anniversary-demake.json) |
@@ -3332,6 +3333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flatdog | 56429 | [56429-flatdog.json](./56429-flatdog.json) |
 | Flathead | 296482 | [296482-flathead.json](./296482-flathead.json) |
 | Flatland Vol.2 | 140612 | [140612-flatland-vol-2.json](./140612-flatland-vol-2.json) |
+| Flatland: Fallen Angle | 5609 | [5609-flatland-fallen-angle.json](./5609-flatland-fallen-angle.json) |
 | Flatland: Prologue | 132035 | [132035-flatland-prologue.json](./132035-flatland-prologue.json) |
 | Flatlands | 349949 | [349949-flatlands.json](./349949-flatlands.json) |
 | Flatline | 168652 | [168652-flatline.json](./168652-flatline.json) |
