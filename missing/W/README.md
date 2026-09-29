@@ -368,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Beasts | 164273 | [164273-war-beasts.json](./164273-war-beasts.json) |
 | War Birds: WW2 Air strike 1942 | 33281 | [33281-war-birds-ww2-air-strike-1942.json](./33281-war-birds-ww2-air-strike-1942.json) |
 | War Brokers | 74845 | [74845-war-brokers.json](./74845-war-brokers.json) |
+| War Builder League | 55993 | [55993-war-builder-league.json](./55993-war-builder-league.json) |
 | War by Grow Games | 125982 | [125982-war-by-grow-games.json](./125982-war-by-grow-games.json) |
 | War Card Game_uvr | 365279 | [365279-war-card-game-uvr.json](./365279-war-card-game-uvr.json) |
 | War Chariots: Royal Legion | 43503 | [43503-war-chariots-royal-legion.json](./43503-war-chariots-royal-legion.json) |
