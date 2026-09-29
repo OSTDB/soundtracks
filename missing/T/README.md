@@ -4612,6 +4612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Godfather | 13068 | [13068-the-godfather.json](./13068-the-godfather.json) |
 | The Godfather Collection | 46724 | [46724-the-godfather-collection.json](./46724-the-godfather-collection.json) |
 | The Godfather II | 575 | [575-the-godfather-ii.json](./575-the-godfather-ii.json) |
+| The Godfather: Blackhand Edition | 20681 | [20681-the-godfather-blackhand-edition.json](./20681-the-godfather-blackhand-edition.json) |
 | The Godfather: The Don's Edition | 20683 | [20683-the-godfather-the-dons-edition.json](./20683-the-godfather-the-dons-edition.json) |
 | The Godkiller: Chapter 1 | 163984 | [163984-the-godkiller-chapter-1.json](./163984-the-godkiller-chapter-1.json) |
 | The Gods | 38509 | [38509-the-gods.json](./38509-the-gods.json) |
@@ -7415,6 +7416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shark T | 217911 | [217911-the-shark-t.json](./217911-the-shark-t.json) |
 | The Shark's Bathhouse | 271741 | [271741-the-sharks-bathhouse.json](./271741-the-sharks-bathhouse.json) |
 | The Shattered Knight of Elaria | 319231 | [319231-the-shattered-knight-of-elaria.json](./319231-the-shattered-knight-of-elaria.json) |
+| The Shattering | 57834 | [57834-the-shattering.json](./57834-the-shattering.json) |
 | The Shattering: Secret Room | 155062 | [155062-the-shattering-secret-room.json](./155062-the-shattering-secret-room.json) |
 | The Shedding | 114372 | [114372-the-shedding.json](./114372-the-shedding.json) |
 | The Sheep Quiz | 210602 | [210602-the-sheep-quiz.json](./210602-the-sheep-quiz.json) |
@@ -9193,6 +9195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Rain Will Never End | 169462 | [169462-this-rain-will-never-end.json](./169462-this-rain-will-never-end.json) |
 | This Short Indie Game Made Me Miss My Friends: Rainy Plays Lonely Game Livestream | 403029 | [403029-this-short-indie-game-made-me-miss-my-friends-rainy-plays-lonely-game-livestream.json](./403029-this-short-indie-game-made-me-miss-my-friends-rainy-plays-lonely-game-livestream.json) |
 | This Side Up | 272897 | [272897-this-side-up.json](./272897-this-side-up.json) |
+| This Strange Realm of Mine | 50506 | [50506-this-strange-realm-of-mine.json](./50506-this-strange-realm-of-mine.json) |
 | This Thing of Ours | 214162 | [214162-this-thing-of-ours.json](./214162-this-thing-of-ours.json) |
 | This Trip: Hunted in Forest | 178520 | [178520-this-trip-hunted-in-forest.json](./178520-this-trip-hunted-in-forest.json) |
 | This War of Mine: Complete Edition | 111817 | [111817-this-war-of-mine-complete-edition.json](./111817-this-war-of-mine-complete-edition.json) |
@@ -12128,6 +12131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Selections | 57058 | [57058-touch-selections.json](./57058-touch-selections.json) |
 | Touch Solitaire | 78757 | [78757-touch-solitaire.json](./78757-touch-solitaire.json) |
 | Touch Some Grass | 195146 | [195146-touch-some-grass.json](./195146-touch-some-grass.json) |
+| Touch the Dead | 20702 | [20702-touch-the-dead.json](./20702-touch-the-dead.json) |
 | Touch the Devil VR | 93720 | [93720-touch-the-devil-vr.json](./93720-touch-the-devil-vr.json) |
 | Touch the Floor | 151155 | [151155-touch-the-floor.json](./151155-touch-the-floor.json) |
 | Touch to Fate: Occult Romance | 255171 | [255171-touch-to-fate-occult-romance.json](./255171-touch-to-fate-occult-romance.json) |
@@ -12768,6 +12772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Panic London | 343799 | [343799-traffic-panic-london.json](./343799-traffic-panic-london.json) |
 | Traffic Racer Crash | 123481 | [123481-traffic-racer-crash.json](./123481-traffic-racer-crash.json) |
 | Traffic Racer Highway Online | 250350 | [250350-traffic-racer-highway-online.json](./250350-traffic-racer-highway-online.json) |
+| Traffic Rider | 37055 | [37055-traffic-rider.json](./37055-traffic-rider.json) |
 | Traffic Rivals: 1v1 Duels | 348456 | [348456-traffic-rivals-1v1-duels.json](./348456-traffic-rivals-1v1-duels.json) |
 | Traffic Road | 353949 | [353949-traffic-road.json](./353949-traffic-road.json) |
 | Traffic Rush | 87886 | [87886-traffic-rush.json](./87886-traffic-rush.json) |
@@ -14242,6 +14247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trois Mouvements Perpétuels | 277291 | [277291-trois-mouvements-perpetuels.json](./277291-trois-mouvements-perpetuels.json) |
 | Trojan | 236835 | [236835-trojan.json](./236835-trojan.json) |
 | Trojan | 287583 | [287583-trojan.json](./287583-trojan.json) |
+| Trojan | 39993 | [39993-trojan.json](./39993-trojan.json) |
 | Troll | 375849 | [375849-troll.json](./375849-troll.json) |
 | Troll Face Clicker Quest | 105860 | [105860-troll-face-clicker-quest.json](./105860-troll-face-clicker-quest.json) |
 | Troll Face Quest Horror | 351627 | [351627-troll-face-quest-horror.json](./351627-troll-face-quest-horror.json) |
