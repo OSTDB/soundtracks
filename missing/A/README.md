@@ -6378,6 +6378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Ezio Auditore Pack | 219007 | [219007-assassins-creed-ezio-auditore-pack.json](./219007-assassins-creed-ezio-auditore-pack.json) |
 | Assassin's Creed Identity | 17028 | [17028-assassins-creed-identity.json](./17028-assassins-creed-identity.json) |
 | Assassin's Creed II Game of the Year Edition + Assassin's Creed | 353891 | [353891-assassins-creed-ii-game-of-the-year-edition-assassins-creed.json](./353891-assassins-creed-ii-game-of-the-year-edition-assassins-creed.json) |
+| Assassin's Creed II: Battle of Forlì | 9562 | [9562-assassins-creed-ii-battle-of-forli.json](./9562-assassins-creed-ii-battle-of-forli.json) |
 | Assassin's Creed II: Black Edition | 308958 | [308958-assassins-creed-ii-black-edition.json](./308958-assassins-creed-ii-black-edition.json) |
 | Assassin's Creed II: Ultimate Edition | 118455 | [118455-assassins-creed-ii-ultimate-edition.json](./118455-assassins-creed-ii-ultimate-edition.json) |
 | Assassin's Creed II: White Edition | 308957 | [308957-assassins-creed-ii-white-edition.json](./308957-assassins-creed-ii-white-edition.json) |
