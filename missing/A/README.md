@@ -719,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abribus | 25751 | [25751-abribus.json](./25751-abribus.json) |
 | Abriss: Build to Destroy | 163860 | [163860-abriss-build-to-destroy.json](./163860-abriss-build-to-destroy.json) |
 | Abrix the robot | 33018 | [33018-abrix-the-robot.json](./33018-abrix-the-robot.json) |
+| Absconding Zatwor | 26838 | [26838-absconding-zatwor.json](./26838-absconding-zatwor.json) |
 | Absence Makes... | 242500 | [242500-absence-makes.json](./242500-absence-makes.json) |
 | Absence Request | 76618 | [76618-absence-request.json](./76618-absence-request.json) |
 | Absence: Verdict of Silence | 185002 | [185002-absence-verdict-of-silence.json](./185002-absence-verdict-of-silence.json) |
@@ -7138,6 +7139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audio Clash: Battle of the Bands | 152128 | [152128-audio-clash-battle-of-the-bands.json](./152128-audio-clash-battle-of-the-bands.json) |
 | Audio Drive 2 VR | 338181 | [338181-audio-drive-2-vr.json](./338181-audio-drive-2-vr.json) |
 | Audio Forager | 83963 | [83963-audio-forager.json](./83963-audio-forager.json) |
+| Audio Hero | 26831 | [26831-audio-hero.json](./26831-audio-hero.json) |
 | Audio Infection | 111669 | [111669-audio-infection.json](./111669-audio-infection.json) |
 | AudioQuake | 208927 | [208927-audioquake.json](./208927-audioquake.json) |
 | Audioshield | 18981 | [18981-audioshield.json](./18981-audioshield.json) |
