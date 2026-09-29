@@ -1033,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Place | 304660 | [304660-paranormal-place.json](./304660-paranormal-place.json) |
 | Paranormal Power | 304625 | [304625-paranormal-power.json](./304625-paranormal-power.json) |
 | Paranormal Precinct: Last Copy of '99 | 274565 | [274565-paranormal-precinct-last-copy-of-99.json](./274565-paranormal-precinct-last-copy-of-99.json) |
+| Paranormal Psychosis | 19725 | [19725-paranormal-psychosis.json](./19725-paranormal-psychosis.json) |
 | Paranormal Pursuit: The Gifted One - Collector's Edition | 30041 | [30041-paranormal-pursuit-the-gifted-one-collectors-edition.json](./30041-paranormal-pursuit-the-gifted-one-collectors-edition.json) |
 | Paranormal Realtor | 382903 | [382903-paranormal-realtor.json](./382903-paranormal-realtor.json) |
 | Paranormal Research Society | 391870 | [391870-paranormal-research-society.json](./391870-paranormal-research-society.json) |
