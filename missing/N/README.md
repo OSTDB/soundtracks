@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Carbon | 248118 | [248118-need-for-speed-carbon.json](./248118-need-for-speed-carbon.json) |
 | Need for Speed: Carbon | 248123 | [248123-need-for-speed-carbon.json](./248123-need-for-speed-carbon.json) |
 | Need for Speed: Carbon - Collector's Edition | 43494 | [43494-need-for-speed-carbon-collectors-edition.json](./43494-need-for-speed-carbon-collectors-edition.json) |
+| Need for Speed: Carbon - Own the City | 11639 | [11639-need-for-speed-carbon-own-the-city.json](./11639-need-for-speed-carbon-own-the-city.json) |
 | Need for Speed: Carbon - Own the City | 197881 | [197881-need-for-speed-carbon-own-the-city.json](./197881-need-for-speed-carbon-own-the-city.json) |
 | Need for Speed: Carbon - Own the City | 248119 | [248119-need-for-speed-carbon-own-the-city.json](./248119-need-for-speed-carbon-own-the-city.json) |
 | Need for Speed: Carbon - Own the City | 248120 | [248120-need-for-speed-carbon-own-the-city.json](./248120-need-for-speed-carbon-own-the-city.json) |
@@ -3136,6 +3137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoSeq | 152270 | [152270-noseq.json](./152270-noseq.json) |
 | NoserLand | 51960 | [51960-noserland.json](./51960-noserland.json) |
 | Nosferatu | 11125 | [11125-nosferatu.json](./11125-nosferatu.json) |
+| Nosferatu: The Wrath of Malachi | 8960 | [8960-nosferatu-the-wrath-of-malachi.json](./8960-nosferatu-the-wrath-of-malachi.json) |
 | Nosfereatyou | 179579 | [179579-nosfereatyou.json](./179579-nosfereatyou.json) |
 | Nosos | 175885 | [175885-nosos.json](./175885-nosos.json) |
 | NoSpellHero | 341486 | [341486-nospellhero.json](./341486-nospellhero.json) |
