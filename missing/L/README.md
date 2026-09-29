@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazaret | 211740 | [211740-lazaret.json](./211740-lazaret.json) |
 | Lazarian | 23917 | [23917-lazarian.json](./23917-lazarian.json) |
 | Lazarus Doom | 198354 | [198354-lazarus-doom.json](./198354-lazarus-doom.json) |
+| Lazer Tag | 54536 | [54536-lazer-tag.json](./54536-lazer-tag.json) |
 | Lazer Tag Arena | 340907 | [340907-lazer-tag-arena.json](./340907-lazer-tag-arena.json) |
 | Lazer Wheel | 38920 | [38920-lazer-wheel.json](./38920-lazer-wheel.json) |
 | LazerBlazer: Type A - Intercept | 271255 | [271255-lazerblazer-type-a-intercept.json](./271255-lazerblazer-type-a-intercept.json) |
