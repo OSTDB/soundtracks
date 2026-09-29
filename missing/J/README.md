@@ -51,6 +51,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Supporter Soccer | 64980 | [64980-j-league-supporter-soccer.json](./64980-j-league-supporter-soccer.json) |
 | J.League Tactics Soccer | 3522 | [3522-j-league-tactics-soccer.json](./3522-j-league-tactics-soccer.json) |
 | J.League Tremendous Soccer '94 | 65023 | [65023-j-league-tremendous-soccer-94.json](./65023-j-league-tremendous-soccer-94.json) |
+| J.League Victory Goal '96 | 46091 | [46091-j-league-victory-goal-96.json](./46091-j-league-victory-goal-96.json) |
+| J.League Victory Goal '97 | 46090 | [46090-j-league-victory-goal-97.json](./46090-j-league-victory-goal-97.json) |
 | J.League Virtual Stadium | 268500 | [268500-j-league-virtual-stadium.json](./268500-j-league-virtual-stadium.json) |
 | J.League Virtual Stadium '95 | 37200 | [37200-j-league-virtual-stadium-95.json](./37200-j-league-virtual-stadium-95.json) |
 | J.R.R. Tolkien's Riders of Rohan | 78742 | [78742-j-r-r-tolkiens-riders-of-rohan.json](./78742-j-r-r-tolkiens-riders-of-rohan.json) |
