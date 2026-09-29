@@ -6319,6 +6319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Android Cactus+ | 115456 | [115456-assault-android-cactus.json](./115456-assault-android-cactus.json) |
 | Assault at Wounded Ankle | 350993 | [350993-assault-at-wounded-ankle.json](./350993-assault-at-wounded-ankle.json) |
 | Assault Bandit | 240347 | [240347-assault-bandit.json](./240347-assault-bandit.json) |
+| Assault City | 46117 | [46117-assault-city.json](./46117-assault-city.json) |
 | Assault Commander Rearmed | 371888 | [371888-assault-commander-rearmed.json](./371888-assault-commander-rearmed.json) |
 | Assault Dragon: The Day 5 | 65735 | [65735-assault-dragon-the-day-5.json](./65735-assault-dragon-the-day-5.json) |
 | Assault Fire | 137583 | [137583-assault-fire.json](./137583-assault-fire.json) |
@@ -6688,6 +6689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asu Owaru Sekai, Sono Zenya | 255325 | [255325-asu-owaru-sekai-sono-zenya.json](./255325-asu-owaru-sekai-sono-zenya.json) |
 | Asuka 120% Burning Fest. Exallent | 382789 | [382789-asuka-120-burning-fest-exallent.json](./382789-asuka-120-burning-fest-exallent.json) |
 | Asuka 120% Excellent Burning Fest. | 81336 | [81336-asuka-120-excellent-burning-fest.json](./81336-asuka-120-excellent-burning-fest.json) |
+| Asuka 120% Limited Burning Fest. | 46088 | [46088-asuka-120-limited-burning-fest.json](./46088-asuka-120-limited-burning-fest.json) |
 | Asuka x Redline Reverie | 405510 | [405510-asuka-x-redline-reverie.json](./405510-asuka-x-redline-reverie.json) |
 | Asura Girls | 248923 | [248923-asura-girls.json](./248923-asura-girls.json) |
 | Asura's Trial | 249853 | [249853-asuras-trial.json](./249853-asuras-trial.json) |
