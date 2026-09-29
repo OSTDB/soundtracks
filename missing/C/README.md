@@ -1467,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Heart | 69014 | [69014-castle-of-heart.json](./69014-castle-of-heart.json) |
 | Castle of Heart: Retold | 344472 | [344472-castle-of-heart-retold.json](./344472-castle-of-heart-retold.json) |
 | Castle of Horrors: The Awful Tortures | 276474 | [276474-castle-of-horrors-the-awful-tortures.json](./276474-castle-of-horrors-the-awful-tortures.json) |
+| Castle of Illusion Starring Mickey Mouse | 11495 | [11495-castle-of-illusion-starring-mickey-mouse.json](./11495-castle-of-illusion-starring-mickey-mouse.json) |
 | Castle of Illusion Starring Mickey Mouse | 242816 | [242816-castle-of-illusion-starring-mickey-mouse.json](./242816-castle-of-illusion-starring-mickey-mouse.json) |
 | Castle of Lust: Hentai Fantasy Game | 368023 | [368023-castle-of-lust-hentai-fantasy-game.json](./368023-castle-of-lust-hentai-fantasy-game.json) |
 | Castle of no Escape | 41958 | [41958-castle-of-no-escape.json](./41958-castle-of-no-escape.json) |
@@ -3713,6 +3714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chubby Cherub | 48031 | [48031-chubby-cherub.json](./48031-chubby-cherub.json) |
 | Chubby Hurdles | 243968 | [243968-chubby-hurdles.json](./243968-chubby-hurdles.json) |
 | Chubby Pixel Mega Bundle | 218457 | [218457-chubby-pixel-mega-bundle.json](./218457-chubby-pixel-mega-bundle.json) |
+| Chuchel | 57263 | [57263-chuchel.json](./57263-chuchel.json) |
 | ChuChu Rocket! Universe | 122316 | [122316-chuchu-rocket-universe.json](./122316-chuchu-rocket-universe.json) |
 | Chuck Ball Idol | 178652 | [178652-chuck-ball-idol.json](./178652-chuck-ball-idol.json) |
 | Chuck Bonesteel & the Alien Apocalypse | 392143 | [392143-chuck-bonesteel-and-the-alien-apocalypse.json](./392143-chuck-bonesteel-and-the-alien-apocalypse.json) |
@@ -5551,6 +5553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commanager Tycoon | 98992 | [98992-commanager-tycoon.json](./98992-commanager-tycoon.json) |
 | Command & Colours: The Great War | 175382 | [175382-command-and-colours-the-great-war.json](./175382-command-and-colours-the-great-war.json) |
 | Command & Conquer 3: Kane's Wrath | 395863 | [395863-command-and-conquer-3-kanes-wrath.json](./395863-command-and-conquer-3-kanes-wrath.json) |
+| Command & Conquer 3: Kane's Wrath | 707 | [707-command-and-conquer-3-kanes-wrath.json](./707-command-and-conquer-3-kanes-wrath.json) |
 | Command & Conquer 3: Tiberium Wars | 281426 | [281426-command-and-conquer-3-tiberium-wars.json](./281426-command-and-conquer-3-tiberium-wars.json) |
 | Command & Conquer 4: Tiberian Twilight | 670 | [670-command-and-conquer-4-tiberian-twilight.json](./670-command-and-conquer-4-tiberian-twilight.json) |
 | Command & Conquer Remastered Collection | 112104 | [112104-command-and-conquer-remastered-collection.json](./112104-command-and-conquer-remastered-collection.json) |
