@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertigo 2: Into the Aether | 325823 | [325823-vertigo-2-into-the-aether.json](./325823-vertigo-2-into-the-aether.json) |
 | Vertigo: Remastered | 135121 | [135121-vertigo-remastered.json](./135121-vertigo-remastered.json) |
 | Vertigrowl | 338571 | [338571-vertigrowl.json](./338571-vertigrowl.json) |
+| Vertix.io | 58327 | [58327-vertix-io.json](./58327-vertix-io.json) |
 | Verto | 406318 | [406318-verto.json](./406318-verto.json) |
 | Very Bad Dreams | 269860 | [269860-very-bad-dreams.json](./269860-very-bad-dreams.json) |
 | Very Dungeon | 181150 | [181150-very-dungeon.json](./181150-very-dungeon.json) |
@@ -847,6 +848,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victoria: An Empire Under the Sun | 11036 | [11036-victoria-an-empire-under-the-sun.json](./11036-victoria-an-empire-under-the-sun.json) |
 | Victoria: Revolutions | 11035 | [11035-victoria-revolutions.json](./11035-victoria-revolutions.json) |
 | Victoria's Body | 158655 | [158655-victorias-body.json](./158655-victorias-body.json) |
+| Victorian Admirals: Caroline Crisis 1885 | 58290 | [58290-victorian-admirals-caroline-crisis-1885.json](./58290-victorian-admirals-caroline-crisis-1885.json) |
+| Victorian Admirals: Marianas Incident 1887 | 58293 | [58293-victorian-admirals-marianas-incident-1887.json](./58293-victorian-admirals-marianas-incident-1887.json) |
+| Victorian Admirals: Panama Crisis 1885 | 58291 | [58291-victorian-admirals-panama-crisis-1885.json](./58291-victorian-admirals-panama-crisis-1885.json) |
+| Victorian Admirals: Samoan Crisis 1889 | 58289 | [58289-victorian-admirals-samoan-crisis-1889.json](./58289-victorian-admirals-samoan-crisis-1889.json) |
 | Victorian Deathbed Simulator | 331354 | [331354-victorian-deathbed-simulator.json](./331354-victorian-deathbed-simulator.json) |
 | Victorious Boxers: Ippo's Road to Glory | 43527 | [43527-victorious-boxers-ippos-road-to-glory.json](./43527-victorious-boxers-ippos-road-to-glory.json) |
 | Victorious Boxers: Revolution | 5256 | [5256-victorious-boxers-revolution.json](./5256-victorious-boxers-revolution.json) |
