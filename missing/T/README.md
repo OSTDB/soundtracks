@@ -1167,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Target | 250424 | [250424-target.json](./250424-target.json) |
 | Target | 88186 | [88186-target.json](./88186-target.json) |
 | Target G | 238619 | [238619-target-g.json](./238619-target-g.json) |
+| Target of Desire: Episode 1 | 52745 | [52745-target-of-desire-episode-1.json](./52745-target-of-desire-episode-1.json) |
 | Target Practice | 167303 | [167303-target-practice.json](./167303-target-practice.json) |
 | Target Toss Pro: Bags | 85431 | [85431-target-toss-pro-bags.json](./85431-target-toss-pro-bags.json) |
 | Target Toss Pro: Lawn Darts | 66355 | [66355-target-toss-pro-lawn-darts.json](./66355-target-toss-pro-lawn-darts.json) |
@@ -10150,6 +10151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilde and the 9 Mystical Glorbos | 394834 | [394834-tilde-and-the-9-mystical-glorbos.json](./394834-tilde-and-the-9-mystical-glorbos.json) |
 | Tile & Error | 103896 | [103896-tile-and-error.json](./103896-tile-and-error.json) |
 | Tile & Error | 413899 | [413899-tile-and-error.json](./413899-tile-and-error.json) |
+| Tile Battle | 52775 | [52775-tile-battle.json](./52775-tile-battle.json) |
 | Tile Cities 2 | 325630 | [325630-tile-cities-2.json](./325630-tile-cities-2.json) |
 | Tile Connect: Onet Match | 171473 | [171473-tile-connect-onet-match.json](./171473-tile-connect-onet-match.json) |
 | Tile Cross | 300723 | [300723-tile-cross.json](./300723-tile-cross.json) |
@@ -13640,6 +13642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triangle Wizard | 65549 | [65549-triangle-wizard.json](./65549-triangle-wizard.json) |
 | TrianGo | 130898 | [130898-triango.json](./130898-triango.json) |
 | Triangulate | 226307 | [226307-triangulate.json](./226307-triangulate.json) |
+| Triangulate | 52768 | [52768-triangulate.json](./52768-triangulate.json) |
 | Triangulation | 181789 | [181789-triangulation.json](./181789-triangulation.json) |
 | Triangulum | 120768 | [120768-triangulum.json](./120768-triangulum.json) |
 | Triarchy | 377667 | [377667-triarchy.json](./377667-triarchy.json) |
