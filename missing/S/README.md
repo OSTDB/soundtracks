@@ -1271,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Horror Mansion | 303091 | [303091-scary-horror-mansion.json](./303091-scary-horror-mansion.json) |
 | Scary Hospital Horror Game | 157214 | [157214-scary-hospital-horror-game.json](./157214-scary-hospital-horror-game.json) |
 | Scary Hotel | 148531 | [148531-scary-hotel.json](./148531-scary-hotel.json) |
+| Scary Humans | 31094 | [31094-scary-humans.json](./31094-scary-humans.json) |
 | Scary Loop | 376083 | [376083-scary-loop.json](./376083-scary-loop.json) |
 | Scary Math Teacher Boss Pranks | 303260 | [303260-scary-math-teacher-boss-pranks.json](./303260-scary-math-teacher-boss-pranks.json) |
 | Scary Maze | 102955 | [102955-scary-maze.json](./102955-scary-maze.json) |
@@ -4536,6 +4537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidewinder Max | 322940 | [322940-sidewinder-max.json](./322940-sidewinder-max.json) |
 | Siege | 78612 | [78612-siege.json](./78612-siege.json) |
 | Siege and Destroy | 29802 | [29802-siege-and-destroy.json](./29802-siege-and-destroy.json) |
+| Siege Hammer | 31105 | [31105-siege-hammer.json](./31105-siege-hammer.json) |
 | Siege of Avalon | 9382 | [9382-siege-of-avalon.json](./9382-siege-of-avalon.json) |
 | Siege of Dragonspear | 174209 | [174209-siege-of-dragonspear.json](./174209-siege-of-dragonspear.json) |
 | Siege of Osaka | 239181 | [239181-siege-of-osaka.json](./239181-siege-of-osaka.json) |
@@ -7349,6 +7351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire !! | 91156 | [91156-solitaire.json](./91156-solitaire.json) |
 | Solitaire (Klondike) | 89221 | [89221-solitaire-klondike.json](./89221-solitaire-klondike.json) |
 | Solitaire & Mahjong | 117660 | [117660-solitaire-and-mahjong.json](./117660-solitaire-and-mahjong.json) |
+| Solitaire 220 Plus | 31102 | [31102-solitaire-220-plus.json](./31102-solitaire-220-plus.json) |
 | Solitaire 3D | 89738 | [89738-solitaire-3d.json](./89738-solitaire-3d.json) |
 | Solitaire After Hours | 386147 | [386147-solitaire-after-hours.json](./386147-solitaire-after-hours.json) |
 | Solitaire Antics Ultimate | 208876 | [208876-solitaire-antics-ultimate.json](./208876-solitaire-antics-ultimate.json) |
@@ -15579,6 +15582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Berry Crush | 55444 | [55444-sweet-berry-crush.json](./55444-sweet-berry-crush.json) |
 | Sweet Cafe | 239881 | [239881-sweet-cafe.json](./239881-sweet-cafe.json) |
 | Sweet Camping | 368521 | [368521-sweet-camping.json](./368521-sweet-camping.json) |
+| Sweet Candy Mahjong | 31055 | [31055-sweet-candy-mahjong.json](./31055-sweet-candy-mahjong.json) |
 | Sweet Casino | 339470 | [339470-sweet-casino.json](./339470-sweet-casino.json) |
 | Sweet Cheerleaders | 339469 | [339469-sweet-cheerleaders.json](./339469-sweet-cheerleaders.json) |
 | Sweet Cheongsam | 384626 | [384626-sweet-cheongsam.json](./384626-sweet-cheongsam.json) |
@@ -15797,6 +15801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword and Fairy Inn | 78048 | [78048-sword-and-fairy-inn.json](./78048-sword-and-fairy-inn.json) |
 | Sword and Plow | 305346 | [305346-sword-and-plow.json](./305346-sword-and-plow.json) |
 | Sword and Shield Idle | 296993 | [296993-sword-and-shield-idle.json](./296993-sword-and-shield-idle.json) |
+| Sword and Shield: Arena VR | 31095 | [31095-sword-and-shield-arena-vr.json](./31095-sword-and-shield-arena-vr.json) |
 | Sword and Spirit | 158175 | [158175-sword-and-spirit.json](./158175-sword-and-spirit.json) |
 | Sword and Spoon | 101746 | [101746-sword-and-spoon.json](./101746-sword-and-spoon.json) |
 | Sword Art Online Arcade: Deep Explorer | 110791 | [110791-sword-art-online-arcade-deep-explorer.json](./110791-sword-art-online-arcade-deep-explorer.json) |
