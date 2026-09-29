@@ -6194,6 +6194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copycat | 255631 | [255631-copycat.json](./255631-copycat.json) |
 | CopyPasta with Cheese | 282094 | [282094-copypasta-with-cheese.json](./282094-copypasta-with-cheese.json) |
 | Coquette Dragoon: Volume One | 210093 | [210093-coquette-dragoon-volume-one.json](./210093-coquette-dragoon-volume-one.json) |
+| Coqui the Game | 55982 | [55982-coqui-the-game.json](./55982-coqui-the-game.json) |
 | Cor Ex Machina | 63876 | [63876-cor-ex-machina.json](./63876-cor-ex-machina.json) |
 | Cora | 366836 | [366836-cora.json](./366836-cora.json) |
 | Coraabia | 63300 | [63300-coraabia.json](./63300-coraabia.json) |
@@ -7548,6 +7549,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croc 2: Kingdom of the Gobbos | 411706 | [411706-croc-2-kingdom-of-the-gobbos.json](./411706-croc-2-kingdom-of-the-gobbos.json) |
 | Croc Cannon | 317435 | [317435-croc-cannon.json](./317435-croc-cannon.json) |
 | Croc Legend of the Gobbos | 315020 | [315020-croc-legend-of-the-gobbos.json](./315020-croc-legend-of-the-gobbos.json) |
+| Croc Mobile: Jungle Rumble! | 55951 | [55951-croc-mobile-jungle-rumble.json](./55951-croc-mobile-jungle-rumble.json) |
+| Croc Mobile: Pinball | 55949 | [55949-croc-mobile-pinball.json](./55949-croc-mobile-pinball.json) |
+| Croc Mobile: Volcanic Panic | 55965 | [55965-croc-mobile-volcanic-panic.json](./55965-croc-mobile-volcanic-panic.json) |
 | Croc's World | 87410 | [87410-crocs-world.json](./87410-crocs-world.json) |
 | Croc's World Run | 115465 | [115465-crocs-world-run.json](./115465-crocs-world-run.json) |
 | Crock | 184390 | [184390-crock.json](./184390-crock.json) |
