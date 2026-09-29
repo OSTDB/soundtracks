@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zill O'll | 94007 | [94007-zill-oll.json](./94007-zill-oll.json) |
 | Zill O'll Infinite | 80486 | [80486-zill-oll-infinite.json](./80486-zill-oll-infinite.json) |
 | Zilla: Shadow of the Bridge | 257989 | [257989-zilla-shadow-of-the-bridge.json](./257989-zilla-shadow-of-the-bridge.json) |
+| Zillion II: The Tri Formation | 46114 | [46114-zillion-ii-the-tri-formation.json](./46114-zillion-ii-the-tri-formation.json) |
 | Zillions of Games | 311470 | [311470-zillions-of-games.json](./311470-zillions-of-games.json) |
 | Zilm: a game of reflex | 64135 | [64135-zilm-a-game-of-reflex.json](./64135-zilm-a-game-of-reflex.json) |
 | Zim's Word Game | 216476 | [216476-zims-word-game.json](./216476-zims-word-game.json) |
