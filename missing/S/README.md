@@ -8504,6 +8504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound of Drop: Fall into Poison | 19279 | [19279-sound-of-drop-fall-into-poison.json](./19279-sound-of-drop-fall-into-poison.json) |
 | Sound of Horses | 357859 | [357859-sound-of-horses.json](./357859-sound-of-horses.json) |
 | Sound of Summer Thunder | 360669 | [360669-sound-of-summer-thunder.json](./360669-sound-of-summer-thunder.json) |
+| Sound Shapes | 7729 | [7729-sound-shapes.json](./7729-sound-shapes.json) |
 | Sound Shooting!! Rhythm Shooter | 362812 | [362812-sound-shooting-rhythm-shooter.json](./362812-sound-shooting-rhythm-shooter.json) |
 | Sound Slide | 114378 | [114378-sound-slide.json](./114378-sound-slide.json) |
 | Sound Soarer | 74357 | [74357-sound-soarer.json](./74357-sound-soarer.json) |
@@ -11842,6 +11843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stegosaurs | 185028 | [185028-stegosaurs.json](./185028-stegosaurs.json) |
 | Stein.World | 95575 | [95575-stein-world.json](./95575-stein-world.json) |
 | Steinkraft | 320162 | [320162-steinkraft.json](./320162-steinkraft.json) |
+| Steins;Gate 0 | 11394 | [11394-steins-gate-0.json](./11394-steins-gate-0.json) |
 | Steins;Gate Double Pack | 141877 | [141877-steins-gate-double-pack.json](./141877-steins-gate-double-pack.json) |
 | Steins;Gate Elite: Limited Edition | 136329 | [136329-steins-gate-elite-limited-edition.json](./136329-steins-gate-elite-limited-edition.json) |
 | Steins;Gate Re:Boot | 320972 | [320972-steins-gate-re-boot.json](./320972-steins-gate-re-boot.json) |
