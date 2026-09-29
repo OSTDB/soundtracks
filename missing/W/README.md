@@ -2354,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Wolf | 81013 | [81013-wild-wolf.json](./81013-wild-wolf.json) |
 | Wild Wolf Simulator 3D | 200662 | [200662-wild-wolf-simulator-3d.json](./200662-wild-wolf-simulator-3d.json) |
 | Wild Wood | 141688 | [141688-wild-wood.json](./141688-wild-wood.json) |
+| Wild Woody | 5461 | [5461-wild-woody.json](./5461-wild-woody.json) |
 | Wild Workshop | 157490 | [157490-wild-workshop.json](./157490-wild-workshop.json) |
 | Wild world | 150629 | [150629-wild-world.json](./150629-wild-world.json) |
 | Wildagotchi: Virtual Pet | 261344 | [261344-wildagotchi-virtual-pet.json](./261344-wildagotchi-virtual-pet.json) |
@@ -2749,6 +2750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wireball | 121721 | [121721-wireball.json](./121721-wireball.json) |
 | Wired | 105334 | [105334-wired.json](./105334-wired.json) |
 | Wired | 307616 | [307616-wired.json](./307616-wired.json) |
+| Wirehead | 5462 | [5462-wirehead.json](./5462-wirehead.json) |
 | Wirtschaftsgiganten | 98968 | [98968-wirtschaftsgiganten.json](./98968-wirtschaftsgiganten.json) |
 | Wise Escape From Prison | 368022 | [368022-wise-escape-from-prison.json](./368022-wise-escape-from-prison.json) |
 | Wise in the Heights | 358330 | [358330-wise-in-the-heights.json](./358330-wise-in-the-heights.json) |
@@ -3162,6 +3164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Boy: Monster Land | 212884 | [212884-wonder-boy-monster-land.json](./212884-wonder-boy-monster-land.json) |
 | Wonder Boy: The Dragon's Trap | 212882 | [212882-wonder-boy-the-dragons-trap.json](./212882-wonder-boy-the-dragons-trap.json) |
 | Wonder Defense: Chapter Earth | 166730 | [166730-wonder-defense-chapter-earth.json](./166730-wonder-defense-chapter-earth.json) |
+| Wonder Dog | 5463 | [5463-wonder-dog.json](./5463-wonder-dog.json) |
 | Wonder Gravity | 76189 | [76189-wonder-gravity.json](./76189-wonder-gravity.json) |
 | Wonder Knights VIP : Retro Shooter RPG | 97209 | [97209-wonder-knights-vip-retro-shooter-rpg.json](./97209-wonder-knights-vip-retro-shooter-rpg.json) |
 | Wonder Land | 216483 | [216483-wonder-land.json](./216483-wonder-land.json) |
@@ -3574,6 +3577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Cup USA 94 | 365668 | [365668-world-cup-usa-94.json](./365668-world-cup-usa-94.json) |
 | World Cup USA 94 | 365669 | [365669-world-cup-usa-94.json](./365669-world-cup-usa-94.json) |
 | World Cup USA 94 | 365873 | [365873-world-cup-usa-94.json](./365873-world-cup-usa-94.json) |
+| World Cup USA 94 | 5464 | [5464-world-cup-usa-94.json](./5464-world-cup-usa-94.json) |
 | World Cup Year 94 | 57620 | [57620-world-cup-year-94.json](./57620-world-cup-year-94.json) |
 | World Dai-star: Yume no Stellarium | 258691 | [258691-world-dai-star-yume-no-stellarium.json](./258691-world-dai-star-yume-no-stellarium.json) |
 | World Darts | 12873 | [12873-world-darts.json](./12873-world-darts.json) |
@@ -4247,6 +4251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE WrestleMania X8 | 4573 | [4573-wwe-wrestlemania-x8.json](./4573-wwe-wrestlemania-x8.json) |
 | WWF Attitude | 3643 | [3643-wwf-attitude.json](./3643-wwf-attitude.json) |
 | WWF No Mercy | 241491 | [241491-wwf-no-mercy.json](./241491-wwf-no-mercy.json) |
+| WWF Rage in the Cage | 5465 | [5465-wwf-rage-in-the-cage.json](./5465-wwf-rage-in-the-cage.json) |
 | WWF Raw | 19771 | [19771-wwf-raw.json](./19771-wwf-raw.json) |
 | WWF Raw: Wrestling's Rudest and Roughest! | 46249 | [46249-wwf-raw-wrestlings-rudest-and-roughest.json](./46249-wwf-raw-wrestlings-rudest-and-roughest.json) |
 | WWF SmackDown! Just Bring It | 6445 | [6445-wwf-smackdown-just-bring-it.json](./6445-wwf-smackdown-just-bring-it.json) |
