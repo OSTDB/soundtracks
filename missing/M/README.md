@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Cube | 48622 | [48622-magic-cube.json](./48622-magic-cube.json) |
 | Magic Cube in Strange World! | 306367 | [306367-magic-cube-in-strange-world.json](./306367-magic-cube-in-strange-world.json) |
 | Magic Cubes | 246346 | [246346-magic-cubes.json](./246346-magic-cubes.json) |
+| Magic Darts | 48182 | [48182-magic-darts.json](./48182-magic-darts.json) |
 | Magic Dodgeball: Homeless Edition | 361875 | [361875-magic-dodgeball-homeless-edition.json](./361875-magic-dodgeball-homeless-edition.json) |
 | Magic Duck | 287787 | [287787-magic-duck.json](./287787-magic-duck.json) |
 | Magic Encyclopedia: Illusions | 99383 | [99383-magic-encyclopedia-illusions.json](./99383-magic-encyclopedia-illusions.json) |
@@ -544,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic John | 215143 | [215143-magic-john.json](./215143-magic-john.json) |
 | Magic Johnson's Basketball | 12835 | [12835-magic-johnsons-basketball.json](./12835-magic-johnsons-basketball.json) |
 | Magic Johnson's Basketball | 198808 | [198808-magic-johnsons-basketball.json](./198808-magic-johnsons-basketball.json) |
+| Magic Johnson's Fast Break | 48180 | [48180-magic-johnsons-fast-break.json](./48180-magic-johnsons-fast-break.json) |
 | Magic Kaleidoscope | 257459 | [257459-magic-kaleidoscope.json](./257459-magic-kaleidoscope.json) |
 | Magic Kid Goo Goo | 48898 | [48898-magic-kid-goo-goo.json](./48898-magic-kid-goo-goo.json) |
 | Magic Kingdom | 213591 | [213591-magic-kingdom.json](./213591-magic-kingdom.json) |
@@ -2264,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Builder | 18579 | [18579-master-builder.json](./18579-master-builder.json) |
 | Master Builder Simulator | 287720 | [287720-master-builder-simulator.json](./287720-master-builder-simulator.json) |
 | Master Chess Ultimate | 193459 | [193459-master-chess-ultimate.json](./193459-master-chess-ultimate.json) |
+| Master Chu and the Drunkard Hu | 48178 | [48178-master-chu-and-the-drunkard-hu.json](./48178-master-chu-and-the-drunkard-hu.json) |
 | Master Cube | 120377 | [120377-master-cube.json](./120377-master-cube.json) |
 | Master Detective Archives: Rain Code | 183617 | [183617-master-detective-archives-rain-code.json](./183617-master-detective-archives-rain-code.json) |
 | Master Detective Archives: Rain Code - Ch. Fubuki: Fubuki's Luckiest Day | 259573 | [259573-master-detective-archives-rain-code-ch-fubuki-fubukis-luckiest-day.json](./259573-master-detective-archives-rain-code-ch-fubuki-fubukis-luckiest-day.json) |
@@ -4096,6 +4099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Swamp | 287635 | [287635-mermaid-swamp.json](./287635-mermaid-swamp.json) |
 | Mermaid Tail | 302132 | [302132-mermaid-tail.json](./302132-mermaid-tail.json) |
 | Mermaidio 3 | 229077 | [229077-mermaidio-3.json](./229077-mermaidio-3.json) |
+| Mermaids of Atlantis: The Riddle of the Magic Bubble | 48172 | [48172-mermaids-of-atlantis-the-riddle-of-the-magic-bubble.json](./48172-mermaids-of-atlantis-the-riddle-of-the-magic-bubble.json) |
 | Mermeows - Chill Cat Mermaids | 371459 | [371459-mermeows-chill-cat-mermaids.json](./371459-mermeows-chill-cat-mermaids.json) |
 | Merper VR | 75013 | [75013-merper-vr.json](./75013-merper-vr.json) |
 | Merriam-Webster Spell Jam | 69287 | [69287-merriam-webster-spell-jam.json](./69287-merriam-webster-spell-jam.json) |
@@ -7031,6 +7035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck Madness 2 | 3542 | [3542-monster-truck-madness-2.json](./3542-monster-truck-madness-2.json) |
 | Monster Truck Madness 64 | 10615 | [10615-monster-truck-madness-64.json](./10615-monster-truck-madness-64.json) |
 | Monster Truck Montain Offroad | 228105 | [228105-monster-truck-montain-offroad.json](./228105-monster-truck-montain-offroad.json) |
+| Monster Truck Rally | 48199 | [48199-monster-truck-rally.json](./48199-monster-truck-rally.json) |
 | Monster Truck Ramp Stunt | 246431 | [246431-monster-truck-ramp-stunt.json](./246431-monster-truck-ramp-stunt.json) |
 | Monster Truck Soccer | 197648 | [197648-monster-truck-soccer.json](./197648-monster-truck-soccer.json) |
 | Monster Truck XT Airport Derby | 86784 | [86784-monster-truck-xt-airport-derby.json](./86784-monster-truck-xt-airport-derby.json) |
@@ -7188,6 +7193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Patrol | 287080 | [287080-moon-patrol.json](./287080-moon-patrol.json) |
 | Moon Patrol: The Milky Way Chronicles | 138567 | [138567-moon-patrol-the-milky-way-chronicles.json](./138567-moon-patrol-the-milky-way-chronicles.json) |
 | Moon Princess | 351268 | [351268-moon-princess.json](./351268-moon-princess.json) |
+| Moon Ranger | 48198 | [48198-moon-ranger.json](./48198-moon-ranger.json) |
 | Moon Rat | 330829 | [330829-moon-rat.json](./330829-moon-rat.json) |
 | Moon Rider | 295026 | [295026-moon-rider.json](./295026-moon-rider.json) |
 | Moon River | 298303 | [298303-moon-river.json](./298303-moon-river.json) |
@@ -7751,6 +7757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP Guru Racing 25/26 | 196554 | [196554-motogp-guru-racing-25-26.json](./196554-motogp-guru-racing-25-26.json) |
 | Motoko-chan no Wonder Kitchen | 37920 | [37920-motoko-chan-no-wonder-kitchen.json](./37920-motoko-chan-no-wonder-kitchen.json) |
 | Motomancer: Auto Battle | 181939 | [181939-motomancer-auto-battle.json](./181939-motomancer-auto-battle.json) |
+| Motor City Patrol | 48197 | [48197-motor-city-patrol.json](./48197-motor-city-patrol.json) |
 | Motor Cycle | 68274 | [68274-motor-cycle.json](./68274-motor-cycle.json) |
 | Motor Duels: Outcast | 55841 | [55841-motor-duels-outcast.json](./55841-motor-duels-outcast.json) |
 | Motor Mash | 44866 | [44866-motor-mash.json](./44866-motor-mash.json) |
@@ -9399,6 +9406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery P.I.: Stolen in San Francisco | 80549 | [80549-mystery-p-i-stolen-in-san-francisco.json](./80549-mystery-p-i-stolen-in-san-francisco.json) |
 | Mystery P.I.: The London Caper | 65205 | [65205-mystery-p-i-the-london-caper.json](./65205-mystery-p-i-the-london-caper.json) |
 | Mystery P.I.: The Lottery Ticket | 14811 | [14811-mystery-p-i-the-lottery-ticket.json](./14811-mystery-p-i-the-lottery-ticket.json) |
+| Mystery Quest | 48195 | [48195-mystery-quest.json](./48195-mystery-quest.json) |
 | Mystery Saiyan | 86986 | [86986-mystery-saiyan.json](./86986-mystery-saiyan.json) |
 | Mystery Society 2: Hidden Puzzles | 250954 | [250954-mystery-society-2-hidden-puzzles.json](./250954-mystery-society-2-hidden-puzzles.json) |
 | Mystery Solitaire: Cthulhu Mythos 2 | 251852 | [251852-mystery-solitaire-cthulhu-mythos-2.json](./251852-mystery-solitaire-cthulhu-mythos-2.json) |
