@@ -3811,6 +3811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Nippon Pro Wrestling: Chou Senshi in Tokyo Dome - Fantastic Story | 61317 | [61317-shin-nippon-pro-wrestling-chou-senshi-in-tokyo-dome-fantastic-story.json](./61317-shin-nippon-pro-wrestling-chou-senshi-in-tokyo-dome-fantastic-story.json) |
 | Shin Nippon Pro Wrestling: Gekitou Densetsu | 231519 | [231519-shin-nippon-pro-wrestling-gekitou-densetsu.json](./231519-shin-nippon-pro-wrestling-gekitou-densetsu.json) |
 | Shin Nippon Pro Wrestling: Toukon Retsuden 2 | 43876 | [43876-shin-nippon-pro-wrestling-toukon-retsuden-2.json](./43876-shin-nippon-pro-wrestling-toukon-retsuden-2.json) |
+| Shin Nippon Pro Wrestling: Toukon Road - Brave Spirits | 3556 | [3556-shin-nippon-pro-wrestling-toukon-road-brave-spirits.json](./3556-shin-nippon-pro-wrestling-toukon-road-brave-spirits.json) |
 | Shin Nobunaga no Yabou | 208939 | [208939-shin-nobunaga-no-yabou.json](./208939-shin-nobunaga-no-yabou.json) |
 | Shin Pokémon: Blue Version | 275103 | [275103-shin-pokemon-blue-version.json](./275103-shin-pokemon-blue-version.json) |
 | Shin Pokemon: Green Version | 275105 | [275105-shin-pokemon-green-version.json](./275105-shin-pokemon-green-version.json) |
@@ -10362,6 +10363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Kids: All the Time in the World | 124058 | [124058-spy-kids-all-the-time-in-the-world.json](./124058-spy-kids-all-the-time-in-the-world.json) |
 | Spy Mouse | 92300 | [92300-spy-mouse.json](./92300-spy-mouse.json) |
 | Spy Muppets: License to Croak | 210723 | [210723-spy-muppets-license-to-croak.json](./210723-spy-muppets-license-to-croak.json) |
+| Spy Muppets: License to Croak | 3261 | [3261-spy-muppets-license-to-croak.json](./3261-spy-muppets-license-to-croak.json) |
 | Spy Network | 188111 | [188111-spy-network.json](./188111-spy-network.json) |
 | Spy of Deimos | 61880 | [61880-spy-of-deimos.json](./61880-spy-of-deimos.json) |
 | Spy Rumble | 204407 | [204407-spy-rumble.json](./204407-spy-rumble.json) |
@@ -10979,6 +10981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Alien Domain | 23645 | [23645-star-trek-alien-domain.json](./23645-star-trek-alien-domain.json) |
 | Star Trek: Borg | 70345 | [70345-star-trek-borg.json](./70345-star-trek-borg.json) |
 | Star Trek: Bridge Crew | 19519 | [19519-star-trek-bridge-crew.json](./19519-star-trek-bridge-crew.json) |
+| Star Trek: Deep Space Nine - Crossroads of Time | 3280 | [3280-star-trek-deep-space-nine-crossroads-of-time.json](./3280-star-trek-deep-space-nine-crossroads-of-time.json) |
 | Star Trek: En Territoire Alien | 110351 | [110351-star-trek-en-territoire-alien.json](./110351-star-trek-en-territoire-alien.json) |
 | Star Trek: Encounters | 20594 | [20594-star-trek-encounters.json](./20594-star-trek-encounters.json) |
 | Star Trek: First Contact | 71059 | [71059-star-trek-first-contact.json](./71059-star-trek-first-contact.json) |
@@ -11011,6 +11014,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Vikings Forever | 51899 | [51899-star-vikings-forever.json](./51899-star-vikings-forever.json) |
 | Star Vortex | 154021 | [154021-star-vortex.json](./154021-star-vortex.json) |
 | Star Voyage: Treasure Hunting | 301240 | [301240-star-voyage-treasure-hunting.json](./301240-star-voyage-treasure-hunting.json) |
+| Star Voyager | 3283 | [3283-star-voyager.json](./3283-star-voyager.json) |
+| Star Voyager | 3284 | [3284-star-voyager.json](./3284-star-voyager.json) |
 | Star Waker | 55275 | [55275-star-waker.json](./55275-star-waker.json) |
 | Star Warfare 2: Payback | 39784 | [39784-star-warfare-2-payback.json](./39784-star-warfare-2-payback.json) |
 | Star Warped | 71483 | [71483-star-warped.json](./71483-star-warped.json) |
