@@ -5793,6 +5793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DotAge: Folkways | 336527 | [336527-dotage-folkways.json](./336527-dotage-folkways.json) |
 | DotAge: Trade Secrets | 394372 | [394372-dotage-trade-secrets.json](./394372-dotage-trade-secrets.json) |
 | Dotchidabe | 385328 | [385328-dotchidabe.json](./385328-dotchidabe.json) |
+| Dotcom (.com) | 59515 | [59515-dotcom-com.json](./59515-dotcom-com.json) |
 | Dotcraft. | 106770 | [106770-dotcraft.json](./106770-dotcraft.json) |
 | DotDot | 253971 | [253971-dotdot.json](./253971-dotdot.json) |
 | Dotonon | 341677 | [341677-dotonon.json](./341677-dotonon.json) |
