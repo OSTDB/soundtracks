@@ -549,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quizzitive | 90287 | [90287-quizzitive.json](./90287-quizzitive.json) |
 | Qullusrent3 | 307758 | [307758-qullusrent3.json](./307758-qullusrent3.json) |
 | Quo | 206237 | [206237-quo.json](./206237-quo.json) |
+| Quo Vadis | 25828 | [25828-quo-vadis.json](./25828-quo-vadis.json) |
 | Quod Init Exit IIo | 403558 | [403558-quod-init-exit-iio.json](./403558-quod-init-exit-iio.json) |
 | Quod: Episode 1 | 288185 | [288185-quod-episode-1.json](./288185-quod-episode-1.json) |
 | Quotes Quest - Match 3 | 114164 | [114164-quotes-quest-match-3.json](./114164-quotes-quest-match-3.json) |
