@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth | 129067 | [129067-labyrinth.json](./129067-labyrinth.json) |
 | Labyrinth | 206701 | [206701-labyrinth.json](./206701-labyrinth.json) |
 | Labyrinth | 249273 | [249273-labyrinth.json](./249273-labyrinth.json) |
+| Labyrinth | 25102 | [25102-labyrinth.json](./25102-labyrinth.json) |
 | Labyrinth | 260387 | [260387-labyrinth.json](./260387-labyrinth.json) |
 | Labyrinth | 319126 | [319126-labyrinth.json](./319126-labyrinth.json) |
 | Labyrinth | 320390 | [320390-labyrinth.json](./320390-labyrinth.json) |
@@ -3759,6 +3760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Ruins of Arnak | 350426 | [350426-lost-ruins-of-arnak.json](./350426-lost-ruins-of-arnak.json) |
 | Lost Saga | 63868 | [63868-lost-saga.json](./63868-lost-saga.json) |
 | Lost Scavenger | 153937 | [153937-lost-scavenger.json](./153937-lost-scavenger.json) |
+| Lost Secrets Ancient Mysteries | 25061 | [25061-lost-secrets-ancient-mysteries.json](./25061-lost-secrets-ancient-mysteries.json) |
 | Lost Secrets: November 1963 | 206728 | [206728-lost-secrets-november-1963.json](./206728-lost-secrets-november-1963.json) |
 | Lost Sector Online | 62815 | [62815-lost-sector-online.json](./62815-lost-sector-online.json) |
 | Lost Shipwreck | 72367 | [72367-lost-shipwreck.json](./72367-lost-shipwreck.json) |
@@ -4343,6 +4345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminous | 382191 | [382191-luminous.json](./382191-luminous.json) |
 | Luminous Arc 2 | 21330 | [21330-luminous-arc-2.json](./21330-luminous-arc-2.json) |
 | Luminous Arc 3 | 25100 | [25100-luminous-arc-3.json](./25100-luminous-arc-3.json) |
+| Luminous Arc Infinity | 25101 | [25101-luminous-arc-infinity.json](./25101-luminous-arc-infinity.json) |
 | Luminous Combat | 95607 | [95607-luminous-combat.json](./95607-luminous-combat.json) |
 | Luminous Kingdom | 386291 | [386291-luminous-kingdom.json](./386291-luminous-kingdom.json) |
 | Luminous Plume | 140981 | [140981-luminous-plume.json](./140981-luminous-plume.json) |
