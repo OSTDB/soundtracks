@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Step From Insanity | 260220 | [260220-a-step-from-insanity.json](./260220-a-step-from-insanity.json) |
 | A Step Into Darkness | 29815 | [29815-a-step-into-darkness.json](./29815-a-step-into-darkness.json) |
 | A Story About Farting | 278747 | [278747-a-story-about-farting.json](./278747-a-story-about-farting.json) |
+| A Story of the End: Revere | 57152 | [57152-a-story-of-the-end-revere.json](./57152-a-story-of-the-end-revere.json) |
 | A Story of the Usurpers | 130204 | [130204-a-story-of-the-usurpers.json](./130204-a-story-of-the-usurpers.json) |
 | A Story of Us: Ep. 1 - First Memories | 115043 | [115043-a-story-of-us-ep-1-first-memories.json](./115043-a-story-of-us-ep-1-first-memories.json) |
 | A story of vaccines & zombie | 154388 | [154388-a-story-of-vaccines-and-zombie.json](./154388-a-story-of-vaccines-and-zombie.json) |
@@ -1423,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery: Surreal World | 411807 | [411807-aery-surreal-world.json](./411807-aery-surreal-world.json) |
 | Aery: Viking Saga | 364086 | [364086-aery-viking-saga.json](./364086-aery-viking-saga.json) |
 | Aeschylus: Death | 379564 | [379564-aeschylus-death.json](./379564-aeschylus-death.json) |
+| Aesculap OrthoPilot Elite VR Palpation | 57031 | [57031-aesculap-orthopilot-elite-vr-palpation.json](./57031-aesculap-orthopilot-elite-vr-palpation.json) |
 | Aesos | 379565 | [379565-aesos.json](./379565-aesos.json) |
 | Aesthetic | 325102 | [325102-aesthetic.json](./325102-aesthetic.json) |
 | Aestik | 218138 | [218138-aestik.json](./218138-aestik.json) |
