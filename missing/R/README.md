@@ -2960,6 +2960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolution Ace | 17033 | [17033-revolution-ace.json](./17033-revolution-ace.json) |
 | Revolution Editions: Shadow & Steel | 361790 | [361790-revolution-editions-shadow-and-steel.json](./361790-revolution-editions-shadow-and-steel.json) |
 | Revolution Idle | 297876 | [297876-revolution-idle.json](./297876-revolution-idle.json) |
+| Revolution Under Siege | 59501 | [59501-revolution-under-siege.json](./59501-revolution-under-siege.json) |
 | Revolution: The Spark | 143659 | [143659-revolution-the-spark.json](./143659-revolution-the-spark.json) |
 | Revolution: Virtual Playspace | 34829 | [34829-revolution-virtual-playspace.json](./34829-revolution-virtual-playspace.json) |
 | Revolution's Eternal Debt | 389085 | [389085-revolutions-eternal-debt.json](./389085-revolutions-eternal-debt.json) |
@@ -3508,6 +3509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise | 32198 | [32198-rise.json](./32198-rise.json) |
 | Rise | 32218 | [32218-rise.json](./32218-rise.json) |
 | Rise | 338219 | [338219-rise.json](./338219-rise.json) |
+| Rise & Destroy | 59484 | [59484-rise-and-destroy.json](./59484-rise-and-destroy.json) |
 | Rise & Ironfall: VD-dev Legacy Pack | 351231 | [351231-rise-and-ironfall-vd-dev-legacy-pack.json](./351231-rise-and-ironfall-vd-dev-legacy-pack.json) |
 | Rise & Muse | 298142 | [298142-rise-and-muse.json](./298142-rise-and-muse.json) |
 | Rise & Reign | 277277 | [277277-rise-and-reign.json](./277277-rise-and-reign.json) |
