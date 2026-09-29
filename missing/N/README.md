@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew: The Ghost of Thornton Hall | 16451 | [16451-nancy-drew-the-ghost-of-thornton-hall.json](./16451-nancy-drew-the-ghost-of-thornton-hall.json) |
 | Nancy Drew: The Haunted Carousel | 10586 | [10586-nancy-drew-the-haunted-carousel.json](./10586-nancy-drew-the-haunted-carousel.json) |
 | Nancy Drew: The Model Mysteries | 206784 | [206784-nancy-drew-the-model-mysteries.json](./206784-nancy-drew-the-model-mysteries.json) |
+| Nancy Drew: The White Wolf of Icicle Creek | 5050 | [5050-nancy-drew-the-white-wolf-of-icicle-creek.json](./5050-nancy-drew-the-white-wolf-of-icicle-creek.json) |
 | Nancy Drew: Tomb of the Lost Queen | 10587 | [10587-nancy-drew-tomb-of-the-lost-queen.json](./10587-nancy-drew-tomb-of-the-lost-queen.json) |
 | Nanda's Island | 48048 | [48048-nandas-island.json](./48048-nandas-island.json) |
 | Nandemo!? Taihoman | 264312 | [264312-nandemo-taihoman.json](./264312-nandemo-taihoman.json) |
@@ -324,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Shippuden: Ultimate Ninja Storm 2 | 7098 | [7098-naruto-shippuden-ultimate-ninja-storm-2.json](./7098-naruto-shippuden-ultimate-ninja-storm-2.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 4 | 11059 | [11059-naruto-shippuden-ultimate-ninja-storm-4.json](./11059-naruto-shippuden-ultimate-ninja-storm-4.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 4 - Gaara's Tale Extra Scenario | 168159 | [168159-naruto-shippuden-ultimate-ninja-storm-4-gaaras-tale-extra-scenario.json](./168159-naruto-shippuden-ultimate-ninja-storm-4-gaaras-tale-extra-scenario.json) |
+| Naruto Shippuden: Ultimate Ninja Storm 4 - Road to Boruto | 46665 | [46665-naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto.json](./46665-naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 4 - Road to Boruto Next Generations | 168161 | [168161-naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto-next-generations.json](./168161-naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto-next-generations.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 4 - Shikamaru's Tale Extra Scenario | 168160 | [168160-naruto-shippuden-ultimate-ninja-storm-4-shikamarus-tale-extra-scenario.json](./168160-naruto-shippuden-ultimate-ninja-storm-4-shikamarus-tale-extra-scenario.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 4 - The Sound Four Characters | 168158 | [168158-naruto-shippuden-ultimate-ninja-storm-4-the-sound-four-characters.json](./168158-naruto-shippuden-ultimate-ninja-storm-4-the-sound-four-characters.json) |
@@ -3153,6 +3155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nosos | 175885 | [175885-nosos.json](./175885-nosos.json) |
 | NoSpellHero | 341486 | [341486-nospellhero.json](./341486-nospellhero.json) |
 | NostalDoom | 269559 | [269559-nostaldoom.json](./269559-nostaldoom.json) |
+| NosTale | 55220 | [55220-nostale.json](./55220-nostale.json) |
 | Nostalgia | 360584 | [360584-nostalgia.json](./360584-nostalgia.json) |
 | Nostalgia Ain't What It Used to Be | 269101 | [269101-nostalgia-aint-what-it-used-to-be.json](./269101-nostalgia-aint-what-it-used-to-be.json) |
 | Nostalgia of Magic | 145593 | [145593-nostalgia-of-magic.json](./145593-nostalgia-of-magic.json) |
