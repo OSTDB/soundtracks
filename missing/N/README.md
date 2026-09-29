@@ -1462,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New English Training: Learning with Tempo - Beginners Edition | 260944 | [260944-new-english-training-learning-with-tempo-beginners-edition.json](./260944-new-english-training-learning-with-tempo-beginners-edition.json) |
 | New Era | 135862 | [135862-new-era.json](./135862-new-era.json) |
 | New Eyes Cycle | 374273 | [374273-new-eyes-cycle.json](./374273-new-eyes-cycle.json) |
+| New fantasia | 39810 | [39810-new-fantasia.json](./39810-new-fantasia.json) |
 | New Fortress | 130875 | [130875-new-fortress.json](./130875-new-fortress.json) |
 | New FreeCell Solitaire HD | 232369 | [232369-new-freecell-solitaire-hd.json](./232369-new-freecell-solitaire-hd.json) |
 | New Frontier | 120855 | [120855-new-frontier.json](./120855-new-frontier.json) |
