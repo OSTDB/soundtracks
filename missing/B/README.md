@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bacon Roll | 88005 | [88005-bacon-roll.json](./88005-bacon-roll.json) |
 | Bacon Tales: Between Pigs and Wolves | 31919 | [31919-bacon-tales-between-pigs-and-wolves.json](./31919-bacon-tales-between-pigs-and-wolves.json) |
 | Bacon: The Game | 199079 | [199079-bacon-the-game.json](./199079-bacon-the-game.json) |
+| BaconBaconBacon | 58296 | [58296-baconbaconbacon.json](./58296-baconbaconbacon.json) |
 | BaconX | 330862 | [330862-baconx.json](./330862-baconx.json) |
 | Bacteria | 33386 | [33386-bacteria.json](./33386-bacteria.json) |
 | Bacteria Warfare | 309097 | [309097-bacteria-warfare.json](./309097-bacteria-warfare.json) |
@@ -1838,6 +1839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Titans | 199942 | [199942-battle-titans.json](./199942-battle-titans.json) |
 | Battle Tracks | 207403 | [207403-battle-tracks.json](./207403-battle-tracks.json) |
 | Battle Train | 311876 | [311876-battle-train.json](./311876-battle-train.json) |
+| Battle Traverse | 58287 | [58287-battle-traverse.json](./58287-battle-traverse.json) |
 | Battle Trendaria | 75138 | [75138-battle-trendaria.json](./75138-battle-trendaria.json) |
 | Battle Trendaria | 75191 | [75191-battle-trendaria.json](./75191-battle-trendaria.json) |
 | Battle Tryst | 58905 | [58905-battle-tryst.json](./58905-battle-tryst.json) |
@@ -5631,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom | 240146 | [240146-boom.json](./240146-boom.json) |
 | Boom | 339838 | [339838-boom.json](./339838-boom.json) |
 | Boom 2020 | 226196 | [226196-boom-2020.json](./226196-boom-2020.json) |
+| Boom Barn | 58304 | [58304-boom-barn.json](./58304-boom-barn.json) |
 | Boom Bits | 108040 | [108040-boom-bits.json](./108040-boom-bits.json) |
 | Boom Blaster | 100891 | [100891-boom-blaster.json](./100891-boom-blaster.json) |
 | Boom Boom Volleyball | 263470 | [263470-boom-boom-volleyball.json](./263470-boom-boom-volleyball.json) |
