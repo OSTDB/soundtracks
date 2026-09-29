@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield Gets Real | 234567 | [234567-garfield-gets-real.json](./234567-garfield-gets-real.json) |
 | Garfield GO | 55964 | [55964-garfield-go.json](./55964-garfield-go.json) |
 | Garfield in TV Land | 234569 | [234569-garfield-in-tv-land.json](./234569-garfield-in-tv-land.json) |
+| Garfield Kart | 35467 | [35467-garfield-kart.json](./35467-garfield-kart.json) |
 | Garfield Kart 2: All You Can Drift | 345489 | [345489-garfield-kart-2-all-you-can-drift.json](./345489-garfield-kart-2-all-you-can-drift.json) |
 | Garfield Kart: Furious Racing | 121230 | [121230-garfield-kart-furious-racing.json](./121230-garfield-kart-furious-racing.json) |
 | Garfield Labyrinth | 153452 | [153452-garfield-labyrinth.json](./153452-garfield-labyrinth.json) |
@@ -3305,6 +3306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoVenture Micro Business | 31865 | [31865-goventure-micro-business.json](./31865-goventure-micro-business.json) |
 | GoVenture Typing | 117708 | [117708-goventure-typing.json](./117708-goventure-typing.json) |
 | Government X | 244481 | [244481-government-x.json](./244481-government-x.json) |
+| Governor of Poker 3 | 33663 | [33663-governor-of-poker-3.json](./33663-governor-of-poker-3.json) |
 | Governor of the West | 292632 | [292632-governor-of-the-west.json](./292632-governor-of-the-west.json) |
 | GoWings Safari | 30088 | [30088-gowings-safari.json](./30088-gowings-safari.json) |
 | Goya's Inferno | 345601 | [345601-goyas-inferno.json](./345601-goyas-inferno.json) |
@@ -4109,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Fandango Remastered | 8682 | [8682-grim-fandango-remastered.json](./8682-grim-fandango-remastered.json) |
 | Grim Horde | 199398 | [199398-grim-horde.json](./199398-grim-horde.json) |
 | Grim Joggers | 336014 | [336014-grim-joggers.json](./336014-grim-joggers.json) |
+| Grim Legends 3: The Dark City | 33110 | [33110-grim-legends-3-the-dark-city.json](./33110-grim-legends-3-the-dark-city.json) |
 | Grim Legends Collection | 118847 | [118847-grim-legends-collection.json](./118847-grim-legends-collection.json) |
 | Grim Legions | 23842 | [23842-grim-legions.json](./23842-grim-legions.json) |
 | Grim Nights | 110185 | [110185-grim-nights.json](./110185-grim-nights.json) |
@@ -4803,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Robot | 47534 | [47534-gundam-robot.json](./47534-gundam-robot.json) |
 | Gundam Spirits | 226760 | [226760-gundam-spirits.json](./226760-gundam-spirits.json) |
 | Gundam Supreme Battle | 174903 | [174903-gundam-supreme-battle.json](./174903-gundam-supreme-battle.json) |
+| Gundam Versus | 28287 | [28287-gundam-versus.json](./28287-gundam-versus.json) |
 | Gundam VR: Daiba Assault | 52001 | [52001-gundam-vr-daiba-assault.json](./52001-gundam-vr-daiba-assault.json) |
 | Gundam Wing: Wing Assault | 315085 | [315085-gundam-wing-wing-assault.json](./315085-gundam-wing-wing-assault.json) |
 | Gundam: The 3D Battle | 66113 | [66113-gundam-the-3d-battle.json](./66113-gundam-the-3d-battle.json) |
