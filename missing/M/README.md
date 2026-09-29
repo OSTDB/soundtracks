@@ -5737,6 +5737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minions | 59896 | [59896-minions.json](./59896-minions.json) |
 | Minions of Elden | 176423 | [176423-minions-of-elden.json](./176423-minions-of-elden.json) |
 | Minions of Elden Online | 170924 | [170924-minions-of-elden-online.json](./170924-minions-of-elden-online.json) |
+| Minions Paradise | 11073 | [11073-minions-paradise.json](./11073-minions-paradise.json) |
 | Minions, Monsters, and Madness | 30194 | [30194-minions-monsters-and-madness.json](./30194-minions-monsters-and-madness.json) |
 | Minions. Five nights at Despicable Hospital 3D | 99418 | [99418-minions-five-nights-at-despicable-hospital-3d.json](./99418-minions-five-nights-at-despicable-hospital-3d.json) |
 | MiniPix Jump | 255049 | [255049-minipix-jump.json](./255049-minipix-jump.json) |
