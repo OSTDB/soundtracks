@@ -2038,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Run | 236526 | [236526-night-run.json](./236526-night-run.json) |
 | Night Run | 295905 | [295905-night-run.json](./295905-night-run.json) |
 | Night School | 406088 | [406088-night-school.json](./406088-night-school.json) |
+| Night Security | 245793 | [245793-night-security.json](./245793-night-security.json) |
 | Night Seeker | 378911 | [378911-night-seeker.json](./378911-night-seeker.json) |
 | Night Shift | 125262 | [125262-night-shift.json](./125262-night-shift.json) |
 | Night Shift | 311609 | [311609-night-shift.json](./311609-night-shift.json) |
