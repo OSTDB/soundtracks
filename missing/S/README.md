@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Gifts | 225074 | [225074-santas-gifts.json](./225074-santas-gifts.json) |
 | Santa's Gifts Load | 378769 | [378769-santas-gifts-load.json](./378769-santas-gifts-load.json) |
 | Santa's Giftship Reloaded | 259533 | [259533-santas-giftship-reloaded.json](./259533-santas-giftship-reloaded.json) |
+| Santa's Helper | 41491 | [41491-santas-helper.json](./41491-santas-helper.json) |
 | Santa's Hitlist CEO Edition | 347346 | [347346-santas-hitlist-ceo-edition.json](./347346-santas-hitlist-ceo-edition.json) |
 | Santa's Holiday | 127010 | [127010-santas-holiday.json](./127010-santas-holiday.json) |
 | Santa's Letters VR | 257066 | [257066-santas-letters-vr.json](./257066-santas-letters-vr.json) |
@@ -1224,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scares on Halloween | 123601 | [123601-scares-on-halloween.json](./123601-scares-on-halloween.json) |
 | Scarf | 106836 | [106836-scarf.json](./106836-scarf.json) |
 | Scarface: The World Is Yours | 5139 | [5139-scarface-the-world-is-yours.json](./5139-scarface-the-world-is-yours.json) |
+| Scarfinger | 41495 | [41495-scarfinger.json](./41495-scarfinger.json) |
 | Scarlet 7: The Mightiest Women | 70930 | [70930-scarlet-7-the-mightiest-women.json](./70930-scarlet-7-the-mightiest-women.json) |
 | Scarlet and Blank | 180674 | [180674-scarlet-and-blank.json](./180674-scarlet-and-blank.json) |
 | Scarlet City of Devils | 356880 | [356880-scarlet-city-of-devils.json](./356880-scarlet-city-of-devils.json) |
@@ -4006,6 +4008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shmup Mania | 201130 | [201130-shmup-mania.json](./201130-shmup-mania.json) |
 | Shmup! | 408773 | [408773-shmup.json](./408773-shmup.json) |
 | Shnipers | 56484 | [56484-shnipers.json](./56484-shnipers.json) |
+| Sho Chiku Bai Pachinko | 41526 | [41526-sho-chiku-bai-pachinko.json](./41526-sho-chiku-bai-pachinko.json) |
 | Shoal | 172039 | [172039-shoal.json](./172039-shoal.json) |
 | Shock Hop | 243089 | [243089-shock-hop.json](./243089-shock-hop.json) |
 | Shock Tactics | 18811 | [18811-shock-tactics.json](./18811-shock-tactics.json) |
@@ -8308,6 +8311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Saver | 134637 | [134637-soul-saver.json](./134637-soul-saver.json) |
 | Soul Searching | 216872 | [216872-soul-searching.json](./216872-soul-searching.json) |
 | Soul Searching | 27357 | [27357-soul-searching.json](./27357-soul-searching.json) |
+| Soul Seeker | 41502 | [41502-soul-seeker.json](./41502-soul-seeker.json) |
 | Soul Shard | 207340 | [207340-soul-shard.json](./207340-soul-shard.json) |
 | Soul Shuffler | 326786 | [326786-soul-shuffler.json](./326786-soul-shuffler.json) |
 | Soul Slayers | 145650 | [145650-soul-slayers.json](./145650-soul-slayers.json) |
@@ -9299,6 +9303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectrum | 260129 | [260129-spectrum.json](./260129-spectrum.json) |
 | Spectrum Valley | 184132 | [184132-spectrum-valley.json](./184132-spectrum-valley.json) |
 | Spectrum: First Light | 35827 | [35827-spectrum-first-light.json](./35827-spectrum-first-light.json) |
+| SpectrumTap | 41501 | [41501-spectrumtap.json](./41501-spectrumtap.json) |
 | Specvaders | 137557 | [137557-specvaders.json](./137557-specvaders.json) |
 | Spediteur | 293708 | [293708-spediteur.json](./293708-spediteur.json) |
 | Speechbound: A Language RPG | 265593 | [265593-speechbound-a-language-rpg.json](./265593-speechbound-a-language-rpg.json) |
@@ -9853,6 +9858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spitting Z | 156517 | [156517-spitting-z.json](./156517-spitting-z.json) |
 | Splash Adventure: The Maze of Morla | 83524 | [83524-splash-adventure-the-maze-of-morla.json](./83524-splash-adventure-the-maze-of-morla.json) |
 | Splash Basketball Online | 116443 | [116443-splash-basketball-online.json](./116443-splash-basketball-online.json) |
+| Splash Damage: Survive if you can | 41504 | [41504-splash-damage-survive-if-you-can.json](./41504-splash-damage-survive-if-you-can.json) |
 | Splash Fly Fire | 220838 | [220838-splash-fly-fire.json](./220838-splash-fly-fire.json) |
 | Splash Girls | 167817 | [167817-splash-girls.json](./167817-splash-girls.json) |
 | Splash Jump | 159713 | [159713-splash-jump.json](./159713-splash-jump.json) |
@@ -11166,6 +11172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starman in space | 88240 | [88240-starman-in-space.json](./88240-starman-in-space.json) |
 | Starman: Tale of Light | 104681 | [104681-starman-tale-of-light.json](./104681-starman-tale-of-light.json) |
 | Starman's VR Experience | 89365 | [89365-starmans-vr-experience.json](./89365-starmans-vr-experience.json) |
+| StarMap 3D Plus | 41524 | [41524-starmap-3d-plus.json](./41524-starmap-3d-plus.json) |
 | Starmasons | 388419 | [388419-starmasons.json](./388419-starmasons.json) |
 | Starminer | 280353 | [280353-starminer.json](./280353-starminer.json) |
 | Starmount | 327323 | [327323-starmount.json](./327323-starmount.json) |
