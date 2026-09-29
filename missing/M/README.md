@@ -2518,6 +2518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Munchers Deluxe | 57659 | [57659-math-munchers-deluxe.json](./57659-math-munchers-deluxe.json) |
 | Math Parkour | 241513 | [241513-math-parkour.json](./241513-math-parkour.json) |
 | Math Path | 391042 | [391042-math-path.json](./391042-math-path.json) |
+| Math Patrol: The Kleptoid Threat | 49475 | [49475-math-patrol-the-kleptoid-threat.json](./49475-math-patrol-the-kleptoid-threat.json) |
 | Math Patrol: The Venus Virus | 209543 | [209543-math-patrol-the-venus-virus.json](./209543-math-patrol-the-venus-virus.json) |
 | Math Pixels | 294260 | [294260-math-pixels.json](./294260-math-pixels.json) |
 | Math Problem Challenge | 101616 | [101616-math-problem-challenge.json](./101616-math-problem-challenge.json) |
@@ -7696,6 +7697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocon | 395189 | [395189-motocon.json](./395189-motocon.json) |
 | Motocross | 159094 | [159094-motocross.json](./159094-motocross.json) |
 | Motocross | 72336 | [72336-motocross.json](./72336-motocross.json) |
+| Motocross Challenge | 49508 | [49508-motocross-challenge.json](./49508-motocross-challenge.json) |
 | Motocross Go! | 129113 | [129113-motocross-go.json](./129113-motocross-go.json) |
 | Motocross Madness | 10260 | [10260-motocross-madness.json](./10260-motocross-madness.json) |
 | Motocross Maniacs 2 | 49891 | [49891-motocross-maniacs-2.json](./49891-motocross-maniacs-2.json) |
