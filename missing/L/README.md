@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land Drifters | 238746 | [238746-land-drifters.json](./238746-land-drifters.json) |
 | Land Fight | 91964 | [91964-land-fight.json](./91964-land-fight.json) |
 | Land It | 387514 | [387514-land-it.json](./387514-land-it.json) |
+| Land it Rocket | 33328 | [33328-land-it-rocket.json](./33328-land-it-rocket.json) |
 | Land of Borealia | 259090 | [259090-land-of-borealia.json](./259090-land-of-borealia.json) |
 | Land of Chaos Online | 65442 | [65442-land-of-chaos-online.json](./65442-land-of-chaos-online.json) |
 | Land of Chaos Online II: Revolution | 119634 | [119634-land-of-chaos-online-ii-revolution.json](./119634-land-of-chaos-online-ii-revolution.json) |
@@ -1160,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Mercy | 96280 | [96280-legend-of-mercy.json](./96280-legend-of-mercy.json) |
 | Legend of Mir | 62774 | [62774-legend-of-mir.json](./62774-legend-of-mir.json) |
 | Legend of Mir 3 | 51197 | [51197-legend-of-mir-3.json](./51197-legend-of-mir-3.json) |
+| Legend of Moros | 33320 | [33320-legend-of-moros.json](./33320-legend-of-moros.json) |
 | Legend of Mortal | 203852 | [203852-legend-of-mortal.json](./203852-legend-of-mortal.json) |
 | Legend of Mysteria RPG | 53268 | [53268-legend-of-mysteria-rpg.json](./53268-legend-of-mysteria-rpg.json) |
 | Legend of Parry King | 309506 | [309506-legend-of-parry-king.json](./309506-legend-of-parry-king.json) |
