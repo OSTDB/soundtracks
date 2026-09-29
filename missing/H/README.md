@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Roll | 108485 | [108485-halo-roll.json](./108485-halo-roll.json) |
 | Halo Triple Pack | 230231 | [230231-halo-triple-pack.json](./230231-halo-triple-pack.json) |
 | Halo Wars 2: Awakening the Nightmare | 37383 | [37383-halo-wars-2-awakening-the-nightmare.json](./37383-halo-wars-2-awakening-the-nightmare.json) |
+| Halo Wars 2: Operation Spearbreaker | 75417 | [75417-halo-wars-2-operation-spearbreaker.json](./75417-halo-wars-2-operation-spearbreaker.json) |
 | Halo Wars 2: Ultimate Edition | 27765 | [27765-halo-wars-2-ultimate-edition.json](./27765-halo-wars-2-ultimate-edition.json) |
 | Halo Wars: Limited Edition | 43956 | [43956-halo-wars-limited-edition.json](./43956-halo-wars-limited-edition.json) |
 | Halo: Combat Devolved | 243401 | [243401-halo-combat-devolved.json](./243401-halo-combat-devolved.json) |
@@ -1494,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: Fractured in Alterac Valley | 387383 | [387383-hearthstone-fractured-in-alterac-valley.json](./387383-hearthstone-fractured-in-alterac-valley.json) |
 | Hearthstone: Into the Emerald Dream | 322148 | [322148-hearthstone-into-the-emerald-dream.json](./322148-hearthstone-into-the-emerald-dream.json) |
 | Hearthstone: Knights of the Frozen Throne | 52016 | [52016-hearthstone-knights-of-the-frozen-throne.json](./52016-hearthstone-knights-of-the-frozen-throne.json) |
+| Hearthstone: Kobolds & Catacombs | 76152 | [76152-hearthstone-kobolds-and-catacombs.json](./76152-hearthstone-kobolds-and-catacombs.json) |
 | Hearthstone: Madness at the Darkmoon Faire | 387380 | [387380-hearthstone-madness-at-the-darkmoon-faire.json](./387380-hearthstone-madness-at-the-darkmoon-faire.json) |
 | Hearthstone: One Night in Karazhan | 21976 | [21976-hearthstone-one-night-in-karazhan.json](./21976-hearthstone-one-night-in-karazhan.json) |
 | Hearthstone: Perils in Paradise | 325842 | [325842-hearthstone-perils-in-paradise.json](./325842-hearthstone-perils-in-paradise.json) |
