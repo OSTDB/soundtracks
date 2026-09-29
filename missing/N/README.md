@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nagamaki Grind | 180689 | [180689-nagamaki-grind.json](./180689-nagamaki-grind.json) |
 | Nagato - Ninja Flying and Fighting Jungle Wars | 97134 | [97134-nagato-ninja-flying-and-fighting-jungle-wars.json](./97134-nagato-ninja-flying-and-fighting-jungle-wars.json) |
 | Nagayami Nights | 286128 | [286128-nagayami-nights.json](./286128-nagayami-nights.json) |
+| Nage Libre: Seijaku no Suishin | 37915 | [37915-nage-libre-seijaku-no-suishin.json](./37915-nage-libre-seijaku-no-suishin.json) |
 | Naheulbeuk's Dungeon Master | 252851 | [252851-naheulbeuks-dungeon-master.json](./252851-naheulbeuks-dungeon-master.json) |
 | Naheulbeuk's Dungeon Master: Steward Edition | 277029 | [277029-naheulbeuks-dungeon-master-steward-edition.json](./277029-naheulbeuks-dungeon-master-steward-edition.json) |
 | Nahi's Winter Holidate | 386736 | [386736-nahis-winter-holidate.json](./386736-nahis-winter-holidate.json) |
@@ -75,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nak Sim: Fallen Warriors | 153380 | [153380-nak-sim-fallen-warriors.json](./153380-nak-sim-fallen-warriors.json) |
 | Nakadashi Banzai 4 | 163920 | [163920-nakadashi-banzai-4.json](./163920-nakadashi-banzai-4.json) |
 | Nakajima Satoru F-1 Hero GB: World Championship '91 | 94204 | [94204-nakajima-satoru-f-1-hero-gb-world-championship-91.json](./94204-nakajima-satoru-f-1-hero-gb-world-championship-91.json) |
+| Nakajima Satoru Kanshuu: F-1 Hero '94 | 37914 | [37914-nakajima-satoru-kanshuu-f-1-hero-94.json](./37914-nakajima-satoru-kanshuu-f-1-hero-94.json) |
 | Nakajima Satoru: F-1 Hero | 48302 | [48302-nakajima-satoru-f-1-hero.json](./48302-nakajima-satoru-f-1-hero.json) |
 | Nakajima Satoru: F-1 Hero 2 | 48301 | [48301-nakajima-satoru-f-1-hero-2.json](./48301-nakajima-satoru-f-1-hero-2.json) |
 | Nakamers: La Huida | 305946 | [305946-nakamers-la-huida.json](./305946-nakamers-la-huida.json) |
@@ -83,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakana Bundle 1: Soul Searching + A Night at the Races + Infini | 204976 | [204976-nakana-bundle-1-soul-searching-a-night-at-the-races-infini.json](./204976-nakana-bundle-1-soul-searching-a-night-at-the-races-infini.json) |
 | Nakana Bundle 2: Mythic Ocean + Journey of the Broken Circle + Cosmic Top Secret | 204972 | [204972-nakana-bundle-2-mythic-ocean-journey-of-the-broken-circle-cosmic-top-secret.json](./204972-nakana-bundle-2-mythic-ocean-journey-of-the-broken-circle-cosmic-top-secret.json) |
 | Nakana Bundle 3: Eqqo + Lydia + Stilstand | 207900 | [207900-nakana-bundle-3-eqqo-lydia-stilstand.json](./207900-nakana-bundle-3-eqqo-lydia-stilstand.json) |
+| Nakano Kouichi Kanshuu: Keirin-ou | 37913 | [37913-nakano-kouichi-kanshuu-keirin-ou.json](./37913-nakano-kouichi-kanshuu-keirin-ou.json) |
 | Nakawak | 68193 | [68193-nakawak.json](./68193-nakawak.json) |
 | Nakayoshi Pet Series 2: Kawaii Usagi | 217820 | [217820-nakayoshi-pet-series-2-kawaii-usagi.json](./217820-nakayoshi-pet-series-2-kawaii-usagi.json) |
 | Naked and Afraid: The Game | 121468 | [121468-naked-and-afraid-the-game.json](./121468-naked-and-afraid-the-game.json) |
@@ -90,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naked News | 129213 | [129213-naked-news.json](./129213-naked-news.json) |
 | Naked Story | 127838 | [127838-naked-story.json](./127838-naked-story.json) |
 | Naked Warrior | 385305 | [385305-naked-warrior.json](./385305-naked-warrior.json) |
+| Naki no Ryuu: Mahjong Hishou-den | 37912 | [37912-naki-no-ryuu-mahjong-hishou-den.json](./37912-naki-no-ryuu-mahjong-hishou-den.json) |
 | Nakiti Generations | 31762 | [31762-nakiti-generations.json](./31762-nakiti-generations.json) |
 | Nakoruru: Anohito kara no Okurimono | 57624 | [57624-nakoruru-anohito-kara-no-okurimono.json](./57624-nakoruru-anohito-kara-no-okurimono.json) |
 | Nalogi 2 | 96899 | [96899-nalogi-2.json](./96899-nalogi-2.json) |
@@ -124,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Vintage | 206782 | [206782-namco-vintage.json](./206782-namco-vintage.json) |
 | namCollection | 94721 | [94721-namcollection.json](./94721-namcollection.json) |
 | Namcot Mahjong III: Mahjong Tengoku | 48813 | [48813-namcot-mahjong-iii-mahjong-tengoku.json](./48813-namcot-mahjong-iii-mahjong-tengoku.json) |
+| Namcot Open | 37911 | [37911-namcot-open.json](./37911-namcot-open.json) |
 | Name That Letter - a Phonics Game | 107661 | [107661-name-that-letter-a-phonics-game.json](./107661-name-that-letter-a-phonics-game.json) |
 | Name That NG Character | 338935 | [338935-name-that-ng-character.json](./338935-name-that-ng-character.json) |
 | Name That Pokemon | 338933 | [338933-name-that-pokemon.json](./338933-name-that-pokemon.json) |
@@ -292,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narrow Escape | 41986 | [41986-narrow-escape.json](./41986-narrow-escape.json) |
 | Narrow Path | 203380 | [203380-narrow-path.json](./203380-narrow-path.json) |
 | Narrow.One | 148376 | [148376-narrow-one.json](./148376-narrow-one.json) |
+| Naruhodo! The World | 37910 | [37910-naruhodo-the-world.json](./37910-naruhodo-the-world.json) |
 | Naruto Arena Next Generation | 188074 | [188074-naruto-arena-next-generation.json](./188074-naruto-arena-next-generation.json) |
 | Naruto Mobile | 79255 | [79255-naruto-mobile.json](./79255-naruto-mobile.json) |
 | Naruto Shinobi Breakdown | 243415 | [243415-naruto-shinobi-breakdown.json](./243415-naruto-shinobi-breakdown.json) |
@@ -1570,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Yankee: The Way of the Knight - Collector's Edition | 337255 | [337255-new-yankee-the-way-of-the-knight-collectors-edition.json](./337255-new-yankee-the-way-of-the-knight-collectors-edition.json) |
 | New Yankee: To the Queen! | 53415 | [53415-new-yankee-to-the-queen.json](./53415-new-yankee-to-the-queen.json) |
 | New Yankee: Under the Genie's Thumb | 170500 | [170500-new-yankee-under-the-genies-thumb.json](./170500-new-yankee-under-the-genies-thumb.json) |
+| New Yatterman: Nandai Kandai Yajirobee | 37908 | [37908-new-yatterman-nandai-kandai-yajirobee.json](./37908-new-yatterman-nandai-kandai-yajirobee.json) |
 | New Year Girls | 191085 | [191085-new-year-girls.json](./191085-new-year-girls.json) |
 | New Year Simulator 2025 | 326390 | [326390-new-year-simulator-2025.json](./326390-new-year-simulator-2025.json) |
 | New Year's Eve 2020 | 127187 | [127187-new-years-eve-2020.json](./127187-new-years-eve-2020.json) |
@@ -1801,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nibiru | 205071 | [205071-nibiru.json](./205071-nibiru.json) |
 | Nibû | 112753 | [112753-nibu.json](./112753-nibu.json) |
 | Nice Body All-Star Suiei Taikai | 248117 | [248117-nice-body-all-star-suiei-taikai.json](./248117-nice-body-all-star-suiei-taikai.json) |
+| Nice de Shot: World Course Selections | 37907 | [37907-nice-de-shot-world-course-selections.json](./37907-nice-de-shot-world-course-selections.json) |
 | Nice Dice - 3D dice roller | 102724 | [102724-nice-dice-3d-dice-roller.json](./102724-nice-dice-3d-dice-roller.json) |
 | Nice Mario 75 | 294791 | [294791-nice-mario-75.json](./294791-nice-mario-75.json) |
 | Nice Shot Golf | 123629 | [123629-nice-shot-golf.json](./123629-nice-shot-golf.json) |
@@ -1809,6 +1817,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nice Try! | 129229 | [129229-nice-try.json](./129229-nice-try.json) |
 | Nice Way | 76689 | [76689-nice-way.json](./76689-nice-way.json) |
 | Niche: Breed and Evolve | 174298 | [174298-niche-breed-and-evolve.json](./174298-niche-breed-and-evolve.json) |
+| Nichibutsu Collection 1 | 37906 | [37906-nichibutsu-collection-1.json](./37906-nichibutsu-collection-1.json) |
+| Nichibutsu Collection 2 | 37905 | [37905-nichibutsu-collection-2.json](./37905-nichibutsu-collection-2.json) |
 | Nichibutsu Mahjong III: Mahjong G Men | 48804 | [48804-nichibutsu-mahjong-iii-mahjong-g-men.json](./48804-nichibutsu-mahjong-iii-mahjong-g-men.json) |
 | Nick | 29921 | [29921-nick.json](./29921-nick.json) |
 | Nick Bounty: A Case of the Crabs | 219150 | [219150-nick-bounty-a-case-of-the-crabs.json](./219150-nick-bounty-a-case-of-the-crabs.json) |
@@ -2522,6 +2532,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nisekoi Majikore!? | 60795 | [60795-nisekoi-majikore.json](./60795-nisekoi-majikore.json) |
 | Nisekoi Yomeiri!? | 86186 | [86186-nisekoi-yomeiri.json](./86186-nisekoi-yomeiri.json) |
 | Nishan Shaman | 105117 | [105117-nishan-shaman.json](./105117-nishan-shaman.json) |
+| Nishijin Pachinko 3 | 37904 | [37904-nishijin-pachinko-3.json](./37904-nishijin-pachinko-3.json) |
+| Nishijin Pachinko Monogatari | 37903 | [37903-nishijin-pachinko-monogatari.json](./37903-nishijin-pachinko-monogatari.json) |
+| Nishijin Pachinko Monogatari 2 | 37902 | [37902-nishijin-pachinko-monogatari-2.json](./37902-nishijin-pachinko-monogatari-2.json) |
 | Nishimura Kyoutarou Mystery: Blue Train Satsujin Jiken | 48802 | [48802-nishimura-kyoutarou-mystery-blue-train-satsujin-jiken.json](./48802-nishimura-kyoutarou-mystery-blue-train-satsujin-jiken.json) |
 | Nishimura Kyoutarou Mystery: Super Express Satsujin Jiken | 48801 | [48801-nishimura-kyoutarou-mystery-super-express-satsujin-jiken.json](./48801-nishimura-kyoutarou-mystery-super-express-satsujin-jiken.json) |
 | Nissan Presents Over Drivin' GT-R | 45454 | [45454-nissan-presents-over-drivin-gt-r.json](./45454-nissan-presents-over-drivin-gt-r.json) |
@@ -2771,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga no Yabou DS 2 | 59379 | [59379-nobunaga-no-yabou-ds-2.json](./59379-nobunaga-no-yabou-ds-2.json) |
 | Nobunaga no Yabou: Bushou Fuuunroku | 307153 | [307153-nobunaga-no-yabou-bushou-fuuunroku.json](./307153-nobunaga-no-yabou-bushou-fuuunroku.json) |
 | Nobunaga no Yabou: Bushou Fuuunroku | 307155 | [307155-nobunaga-no-yabou-bushou-fuuunroku.json](./307155-nobunaga-no-yabou-bushou-fuuunroku.json) |
+| Nobunaga no Yabou: Haouden | 37901 | [37901-nobunaga-no-yabou-haouden.json](./37901-nobunaga-no-yabou-haouden.json) |
 | Nobunaga no Yabou: Oretachi no Sengoku | 208626 | [208626-nobunaga-no-yabou-oretachi-no-sengoku.json](./208626-nobunaga-no-yabou-oretachi-no-sengoku.json) |
 | Nobunaga no Yabou: Sengoku Gunyuuden | 307127 | [307127-nobunaga-no-yabou-sengoku-gunyuuden.json](./307127-nobunaga-no-yabou-sengoku-gunyuuden.json) |
 | Nobunaga no Yabou: Sengoku Gunyuuden | 307130 | [307130-nobunaga-no-yabou-sengoku-gunyuuden.json](./307130-nobunaga-no-yabou-sengoku-gunyuuden.json) |
