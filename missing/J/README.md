@@ -1152,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jolly's Hardcore Mod | 269866 | [269866-jollys-hardcore-mod.json](./269866-jollys-hardcore-mod.json) |
 | JollyWorld | 162408 | [162408-jollyworld.json](./162408-jollyworld.json) |
 | Jolt Family Robot Racer | 85217 | [85217-jolt-family-robot-racer.json](./85217-jolt-family-robot-racer.json) |
+| Jon Shafer's At the Gates | 8423 | [8423-jon-shafers-at-the-gates.json](./8423-jon-shafers-at-the-gates.json) |
 | Jonah Barrington's Squash | 72155 | [72155-jonah-barringtons-squash.json](./72155-jonah-barringtons-squash.json) |
 | Jonah: A VeggieTales Game | 80600 | [80600-jonah-a-veggietales-game.json](./80600-jonah-a-veggietales-game.json) |
 | Jonald '06 or How a Tiny Horse Living in New York City Raised 250 US Dollars So They Could Buy a Nintedo Woo On Launch Day | 357856 | [357856-jonald-06-or-how-a-tiny-horse-living-in-new-york-city-raised-250-us-dollars-so-they-could-buy-a-nintedo-woo-on-launch-day.json](./357856-jonald-06-or-how-a-tiny-horse-living-in-new-york-city-raised-250-us-dollars-so-they-could-buy-a-nintedo-woo-on-launch-day.json) |
