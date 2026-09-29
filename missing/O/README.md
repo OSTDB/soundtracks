@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omensight: Definitive Edition | 112879 | [112879-omensight-definitive-edition.json](./112879-omensight-definitive-edition.json) |
 | Omerta | 413190 | [413190-omerta.json](./413190-omerta.json) |
 | Omerta Chinmoku no Okite: The Legacy | 287637 | [287637-omerta-chinmoku-no-okite-the-legacy.json](./287637-omerta-chinmoku-no-okite-the-legacy.json) |
+| Omerta: City of Gangsters | 6330 | [6330-omerta-city-of-gangsters.json](./6330-omerta-city-of-gangsters.json) |
 | Omerta: City of Gangsters - The Japanese Incentive | 9217 | [9217-omerta-city-of-gangsters-the-japanese-incentive.json](./9217-omerta-city-of-gangsters-the-japanese-incentive.json) |
 | Omertà: Mafia Novel | 373539 | [373539-omerta-mafia-novel.json](./373539-omerta-mafia-novel.json) |
 | Omexyan | 418737 | [418737-omexyan.json](./418737-omexyan.json) |
