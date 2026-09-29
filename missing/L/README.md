@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Parcours | 89734 | [89734-le-parcours.json](./89734-le-parcours.json) |
 | Le Petit Raccoon | 388944 | [388944-le-petit-raccoon.json](./388944-le-petit-raccoon.json) |
 | Le Pompier | 346064 | [346064-le-pompier.json](./346064-le-pompier.json) |
+| Le Réprobateur | 28016 | [28016-le-reprobateur.json](./28016-le-reprobateur.json) |
 | Le Sceptre d'Anubis | 304052 | [304052-le-sceptre-danubis.json](./304052-le-sceptre-danubis.json) |
 | Le Schmilblick | 118315 | [118315-le-schmilblick.json](./118315-le-schmilblick.json) |
 | Le Tour de France | 172668 | [172668-le-tour-de-france.json](./172668-le-tour-de-france.json) |
@@ -2275,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil Pump Piano Tiles | 95867 | [95867-lil-pump-piano-tiles.json](./95867-lil-pump-piano-tiles.json) |
 | Lil Splody: Look Out Below! | 197144 | [197144-lil-splody-look-out-below.json](./197144-lil-splody-look-out-below.json) |
 | Lil Spoops | 236021 | [236021-lil-spoops.json](./236021-lil-spoops.json) |
+| Lil Tanks | 28046 | [28046-lil-tanks.json](./28046-lil-tanks.json) |
 | Lil Wayne Slots: Slot Machines | 323154 | [323154-lil-wayne-slots-slot-machines.json](./323154-lil-wayne-slots-slot-machines.json) |
 | Lil' Airport | 301267 | [301267-lil-airport.json](./301267-lil-airport.json) |
 | Lil' Drone | 186149 | [186149-lil-drone.json](./186149-lil-drone.json) |
@@ -2612,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Busters! Perfect Edition: TV Anime Commemorative Edition | 291075 | [291075-little-busters-perfect-edition-tv-anime-commemorative-edition.json](./291075-little-busters-perfect-edition-tv-anime-commemorative-edition.json) |
 | Little Caesars Fractions Pizza | 77302 | [77302-little-caesars-fractions-pizza.json](./77302-little-caesars-fractions-pizza.json) |
 | Little Cat Doctor | 300846 | [300846-little-cat-doctor.json](./300846-little-cat-doctor.json) |
+| Little Cells | 28110 | [28110-little-cells.json](./28110-little-cells.json) |
 | Little Cheese Works | 263193 | [263193-little-cheese-works.json](./263193-little-cheese-works.json) |
 | Little Chef: Cozy Cooking | 361873 | [361873-little-chef-cozy-cooking.json](./361873-little-chef-cozy-cooking.json) |
 | Little Cherub | 120208 | [120208-little-cherub.json](./120208-little-cherub.json) |
@@ -4298,6 +4301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumba: Redux | 210890 | [210890-lumba-redux.json](./210890-lumba-redux.json) |
 | Lumbah Jump | 211789 | [211789-lumbah-jump.json](./211789-lumbah-jump.json) |
 | Lumber and Plunder | 365748 | [365748-lumber-and-plunder.json](./365748-lumber-and-plunder.json) |
+| Lumber Duck: Sky Saw Mill | 28104 | [28104-lumber-duck-sky-saw-mill.json](./28104-lumber-duck-sky-saw-mill.json) |
 | Lumber Inc Tycoon | 255759 | [255759-lumber-inc-tycoon.json](./255759-lumber-inc-tycoon.json) |
 | Lumber King | 54474 | [54474-lumber-king.json](./54474-lumber-king.json) |
 | Lumberhill | 111771 | [111771-lumberhill.json](./111771-lumberhill.json) |
