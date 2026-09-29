@@ -3360,6 +3360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Tower: Wild Knights with Crazy Witches | 116460 | [116460-gran-tower-wild-knights-with-crazy-witches.json](./116460-gran-tower-wild-knights-with-crazy-witches.json) |
 | Gran Trak 10 | 7429 | [7429-gran-trak-10.json](./7429-gran-trak-10.json) |
 | Gran Trak 20 | 174658 | [174658-gran-trak-20.json](./174658-gran-trak-20.json) |
+| Gran Turismo | 20426 | [20426-gran-turismo.json](./20426-gran-turismo.json) |
 | Gran Turismo 2 | 1597 | [1597-gran-turismo-2.json](./1597-gran-turismo-2.json) |
 | Gran Turismo 2000 | 298017 | [298017-gran-turismo-2000.json](./298017-gran-turismo-2000.json) |
 | Gran Turismo 4 | 1601 | [1601-gran-turismo-4.json](./1601-gran-turismo-4.json) |
@@ -4559,6 +4560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear Strive: In the Name of Peace | 372007 | [372007-guilty-gear-strive-in-the-name-of-peace.json](./372007-guilty-gear-strive-in-the-name-of-peace.json) |
 | Guilty Gear X | 9141 | [9141-guilty-gear-x.json](./9141-guilty-gear-x.json) |
 | Guilty Gear X2 | 9142 | [9142-guilty-gear-x2.json](./9142-guilty-gear-x2.json) |
+| Guilty Gear X2 #Reload | 9143 | [9143-guilty-gear-x2-reload.json](./9143-guilty-gear-x2-reload.json) |
 | Guilty Gear Xrd 2: Character Colors Kum Haehyun | 342873 | [342873-guilty-gear-xrd-2-character-colors-kum-haehyun.json](./342873-guilty-gear-xrd-2-character-colors-kum-haehyun.json) |
 | Guilty Gear Xrd 2: Character Colors Ky Kiske | 342874 | [342874-guilty-gear-xrd-2-character-colors-ky-kiske.json](./342874-guilty-gear-xrd-2-character-colors-ky-kiske.json) |
 | Guilty Gear Xrd 2: Character Colors Leo Whitefang | 342875 | [342875-guilty-gear-xrd-2-character-colors-leo-whitefang.json](./342875-guilty-gear-xrd-2-character-colors-leo-whitefang.json) |
