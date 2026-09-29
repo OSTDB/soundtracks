@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddington's Early Visit | 83251 | [83251-paddingtons-early-visit.json](./83251-paddingtons-early-visit.json) |
 | Paddington's Garden Game | 83250 | [83250-paddingtons-garden-game.json](./83250-paddingtons-garden-game.json) |
 | Paddle Battle | 172781 | [172781-paddle-battle.json](./172781-paddle-battle.json) |
+| Paddle Battle | 44086 | [44086-paddle-battle.json](./44086-paddle-battle.json) |
 | Paddle Cats | 411573 | [411573-paddle-cats.json](./411573-paddle-cats.json) |
 | Paddle Combat | 164441 | [164441-paddle-combat.json](./164441-paddle-combat.json) |
 | Paddle Fall | 115454 | [115454-paddle-fall.json](./115454-paddle-fall.json) |
@@ -2289,6 +2290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PetWorld: Animal Shelter | 97334 | [97334-petworld-animal-shelter.json](./97334-petworld-animal-shelter.json) |
 | Petz Bunnyz Bunch | 210002 | [210002-petz-bunnyz-bunch.json](./210002-petz-bunnyz-bunch.json) |
 | Petz Dogz Family | 42888 | [42888-petz-dogz-family.json](./42888-petz-dogz-family.json) |
+| Petz Dogz Talent Show | 44067 | [44067-petz-dogz-talent-show.json](./44067-petz-dogz-talent-show.json) |
 | Petz Dolphinz Encounter | 67345 | [67345-petz-dolphinz-encounter.json](./67345-petz-dolphinz-encounter.json) |
 | Petz Fantasy: Moonlight Magic | 66364 | [66364-petz-fantasy-moonlight-magic.json](./66364-petz-fantasy-moonlight-magic.json) |
 | Petz Fantasy: Sunshine Magic | 47962 | [47962-petz-fantasy-sunshine-magic.json](./47962-petz-fantasy-sunshine-magic.json) |
@@ -2302,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petz: Catz 5 | 23770 | [23770-petz-catz-5.json](./23770-petz-catz-5.json) |
 | Petz: Hamster Superstarz | 47972 | [47972-petz-hamster-superstarz.json](./47972-petz-hamster-superstarz.json) |
 | Petz: Hamsterz Life 2 | 49474 | [49474-petz-hamsterz-life-2.json](./49474-petz-hamsterz-life-2.json) |
+| Petz: Nursery | 44062 | [44062-petz-nursery.json](./44062-petz-nursery.json) |
 | Peur Sur Amityville | 174635 | [174635-peur-sur-amityville.json](./174635-peur-sur-amityville.json) |
 | Pew Pew Gaem 3 | 326260 | [326260-pew-pew-gaem-3.json](./326260-pew-pew-gaem-3.json) |
 | Pew Pew Squad | 273440 | [273440-pew-pew-squad.json](./273440-pew-pew-squad.json) |
@@ -3268,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piofiore no Banshou | 69342 | [69342-piofiore-no-banshou.json](./69342-piofiore-no-banshou.json) |
 | Piofiore: Episodio 1926 | 136944 | [136944-piofiore-episodio-1926.json](./136944-piofiore-episodio-1926.json) |
 | Piofiore: Episodio 1926 Limited Edition | 223129 | [223129-piofiore-episodio-1926-limited-edition.json](./223129-piofiore-episodio-1926-limited-edition.json) |
+| Pion | 44092 | [44092-pion.json](./44092-pion.json) |
 | Pioneer | 337737 | [337737-pioneer.json](./337737-pioneer.json) |
 | Pioneer | 61666 | [61666-pioneer.json](./61666-pioneer.json) |
 | Pioneer Lands | 59430 | [59430-pioneer-lands.json](./59430-pioneer-lands.json) |
@@ -3775,6 +3779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Sangokushi | 200730 | [200730-pixel-sangokushi.json](./200730-pixel-sangokushi.json) |
 | Pixel Shield | 110518 | [110518-pixel-shield.json](./110518-pixel-shield.json) |
 | Pixel Shinobi | 373089 | [373089-pixel-shinobi.json](./373089-pixel-shinobi.json) |
+| Pixel Shooter | 44111 | [44111-pixel-shooter.json](./44111-pixel-shooter.json) |
 | Pixel Skater | 190205 | [190205-pixel-skater.json](./190205-pixel-skater.json) |
 | Pixel Soccer | 35814 | [35814-pixel-soccer.json](./35814-pixel-soccer.json) |
 | Pixel Stars Digital Dreamhouse | 245424 | [245424-pixel-stars-digital-dreamhouse.json](./245424-pixel-stars-digital-dreamhouse.json) |
@@ -5086,6 +5091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Bear Game | 234574 | [234574-polar-bear-game.json](./234574-polar-bear-game.json) |
 | Polar Bear in Space! | 250934 | [250934-polar-bear-in-space.json](./250934-polar-bear-in-space.json) |
 | Polar Bear Simulator | 106147 | [106147-polar-bear-simulator.json](./106147-polar-bear-simulator.json) |
+| Polar Bowler | 44071 | [44071-polar-bowler.json](./44071-polar-bowler.json) |
 | Polar Bowler 1st Frame | 294452 | [294452-polar-bowler-1st-frame.json](./294452-polar-bowler-1st-frame.json) |
 | Polar Explorer Simulator | 173061 | [173061-polar-explorer-simulator.json](./173061-polar-explorer-simulator.json) |
 | Polar Panic | 21768 | [21768-polar-panic.json](./21768-polar-panic.json) |
