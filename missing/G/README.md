@@ -3511,6 +3511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandslam Gamer Gold Collection | 379589 | [379589-grandslam-gamer-gold-collection.json](./379589-grandslam-gamer-gold-collection.json) |
 | Grandslam: The Tennis Tournament | 81410 | [81410-grandslam-the-tennis-tournament.json](./81410-grandslam-the-tennis-tournament.json) |
 | Grandzenka | 208972 | [208972-grandzenka.json](./208972-grandzenka.json) |
+| Grange Hill | 37299 | [37299-grange-hill.json](./37299-grange-hill.json) |
 | Granny | 232402 | [232402-granny.json](./232402-granny.json) |
 | Granny Escape | 238629 | [238629-granny-escape.json](./238629-granny-escape.json) |
 | Granny in Paradise | 71333 | [71333-granny-in-paradise.json](./71333-granny-in-paradise.json) |
@@ -4365,6 +4366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guard of Wonderland VR | 88126 | [88126-guard-of-wonderland-vr.json](./88126-guard-of-wonderland-vr.json) |
 | Guarded | 313893 | [313893-guarded.json](./313893-guarded.json) |
 | Guardian | 15542 | [15542-guardian.json](./15542-guardian.json) |
+| Guardian | 37295 | [37295-guardian.json](./37295-guardian.json) |
 | Guardian | 55133 | [55133-guardian.json](./55133-guardian.json) |
 | Guardian Angel for Hire | 178585 | [178585-guardian-angel-for-hire.json](./178585-guardian-angel-for-hire.json) |
 | Guardian Chronicle: Random Defense | 144989 | [144989-guardian-chronicle-random-defense.json](./144989-guardian-chronicle-random-defense.json) |
