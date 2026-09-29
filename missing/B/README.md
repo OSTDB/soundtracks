@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baikoh: Word Challenges | 87587 | [87587-baikoh-word-challenges.json](./87587-baikoh-word-challenges.json) |
 | Bail Force: Cyberpunk Bounty Hunters | 249181 | [249181-bail-force-cyberpunk-bounty-hunters.json](./249181-bail-force-cyberpunk-bounty-hunters.json) |
 | Bail or Jail: Character DLC Bundle 2 | 255141 | [255141-bail-or-jail-character-dlc-bundle-2.json](./255141-bail-or-jail-character-dlc-bundle-2.json) |
+| Bailout Wars | 41518 | [41518-bailout-wars.json](./41518-bailout-wars.json) |
 | Baimason's Thing Finder Puzzle | 293612 | [293612-baimasons-thing-finder-puzzle.json](./293612-baimasons-thing-finder-puzzle.json) |
 | Baise Lesbienne! | 206731 | [206731-baise-lesbienne.json](./206731-baise-lesbienne.json) |
 | Bàito | 312125 | [312125-baito.json](./312125-baito.json) |
@@ -3751,6 +3752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Orchard: Animal Valley - Magnificent Edition | 260697 | [260697-bit-orchard-animal-valley-magnificent-edition.json](./260697-bit-orchard-animal-valley-magnificent-edition.json) |
 | Bit Orchard: Animal Valley - Ultimate Edition | 208618 | [208618-bit-orchard-animal-valley-ultimate-edition.json](./208618-bit-orchard-animal-valley-ultimate-edition.json) |
 | Bit Orchard: Animal Valley - Ultra Ultimate | 271500 | [271500-bit-orchard-animal-valley-ultra-ultimate.json](./271500-bit-orchard-animal-valley-ultra-ultimate.json) |
+| Bit Pilot | 41514 | [41514-bit-pilot.json](./41514-bit-pilot.json) |
 | Bit Pit | 176429 | [176429-bit-pit.json](./176429-bit-pit.json) |
 | Bit-Cremental: Fishistry | 325629 | [325629-bit-cremental-fishistry.json](./325629-bit-cremental-fishistry.json) |
 | Bit-cremental: Fishistry Color | 387693 | [387693-bit-cremental-fishistry-color.json](./387693-bit-cremental-fishistry-color.json) |
@@ -4513,6 +4515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blob's Boxes | 57082 | [57082-blobs-boxes.json](./57082-blobs-boxes.json) |
 | Bloba's Adventure | 251849 | [251849-blobas-adventure.json](./251849-blobas-adventure.json) |
 | Blobber | 269277 | [269277-blobber.json](./269277-blobber.json) |
+| Blobbers | 41529 | [41529-blobbers.json](./41529-blobbers.json) |
 | Blobbins | 151745 | [151745-blobbins.json](./151745-blobbins.json) |
 | Blobbton | 315687 | [315687-blobbton.json](./315687-blobbton.json) |
 | Blobby Jump | 194287 | [194287-blobby-jump.json](./194287-blobby-jump.json) |
@@ -6320,6 +6323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Voyage | 21483 | [21483-brain-voyage.json](./21483-brain-voyage.json) |
 | Brain vs Zombies | 128993 | [128993-brain-vs-zombies.json](./128993-brain-vs-zombies.json) |
 | Brain Wars | 83580 | [83580-brain-wars.json](./83580-brain-wars.json) |
+| Brain Wave | 41540 | [41540-brain-wave.json](./41540-brain-wave.json) |
 | Brain Workout: 15 Puzzles for Memory, Math & Logic | 357977 | [357977-brain-workout-15-puzzles-for-memory-math-and-logic.json](./357977-brain-workout-15-puzzles-for-memory-math-and-logic.json) |
 | Brain Workout! Find the Difference in Classic Art | 351224 | [351224-brain-workout-find-the-difference-in-classic-art.json](./351224-brain-workout-find-the-difference-in-classic-art.json) |
 | Brain Workout! Jellyfish Puzzle | 364099 | [364099-brain-workout-jellyfish-puzzle.json](./364099-brain-workout-jellyfish-puzzle.json) |
