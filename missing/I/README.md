@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Walk Among Zombies Vol. 0 | 163740 | [163740-i-walk-among-zombies-vol-0.json](./163740-i-walk-among-zombies-vol-0.json) |
 | I Wanna Be the Cat | 76580 | [76580-i-wanna-be-the-cat.json](./76580-i-wanna-be-the-cat.json) |
 | I Wanna Be the Co-op | 108829 | [108829-i-wanna-be-the-co-op.json](./108829-i-wanna-be-the-co-op.json) |
+| I Wanna Be the Guy | 14143 | [14143-i-wanna-be-the-guy.json](./14143-i-wanna-be-the-guy.json) |
 | I Wanna Be the Guy: Gaiden | 80531 | [80531-i-wanna-be-the-guy-gaiden.json](./80531-i-wanna-be-the-guy-gaiden.json) |
 | I Wanna Be the King! | 367960 | [367960-i-wanna-be-the-king.json](./367960-i-wanna-be-the-king.json) |
 | I Wanna Eat the Lemon | 191263 | [191263-i-wanna-eat-the-lemon.json](./191263-i-wanna-eat-the-lemon.json) |
@@ -2037,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insane Forest | 342886 | [342886-insane-forest.json](./342886-insane-forest.json) |
 | Insane Kart Wii | 250325 | [250325-insane-kart-wii.json](./250325-insane-kart-wii.json) |
 | Insane Road | 37404 | [37404-insane-road.json](./37404-insane-road.json) |
+| Insanely Twisted Shadow Planet | 6168 | [6168-insanely-twisted-shadow-planet.json](./6168-insanely-twisted-shadow-planet.json) |
 | Insania | 132738 | [132738-insania.json](./132738-insania.json) |
 | Insanias | 250950 | [250950-insanias.json](./250950-insanias.json) |
 | Insaniquarium! | 334696 | [334696-insaniquarium.json](./334696-insaniquarium.json) |
@@ -2911,6 +2913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isles of Wrath | 378286 | [378286-isles-of-wrath.json](./378286-isles-of-wrath.json) |
 | Isles of Yore | 189958 | [189958-isles-of-yore.json](./189958-isles-of-yore.json) |
 | Islet Hell | 367596 | [367596-islet-hell.json](./367596-islet-hell.json) |
+| Islets | 180154 | [180154-islets.json](./180154-islets.json) |
 | Isly | 185010 | [185010-isly.json](./185010-isly.json) |
 | iSnake | 87703 | [87703-isnake.json](./87703-isnake.json) |
 | Iso | 100225 | [100225-iso.json](./100225-iso.json) |
