@@ -2234,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like Blowing Out a Candle | 181698 | [181698-like-blowing-out-a-candle.json](./181698-like-blowing-out-a-candle.json) |
 | Like Clockwork | 181924 | [181924-like-clockwork.json](./181924-like-clockwork.json) |
 | Like Gulls Crying at the Dawn | 136226 | [136226-like-gulls-crying-at-the-dawn.json](./136226-like-gulls-crying-at-the-dawn.json) |
+| Like Life Every Hour | 56554 | [56554-like-life-every-hour.json](./56554-like-life-every-hour.json) |
 | Like Thunder "Go" | 297484 | [297484-like-thunder-go.json](./297484-like-thunder-go.json) |
 | Like Veins Beneath the Town | 229614 | [229614-like-veins-beneath-the-town.json](./229614-like-veins-beneath-the-town.json) |
 | Like x Love: Totsukawa Hikaru | 397225 | [397225-like-x-love-totsukawa-hikaru.json](./397225-like-x-love-totsukawa-hikaru.json) |
@@ -2489,6 +2490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LipTrip: My Boss Is My Heat Suppressant?! | 397215 | [397215-liptrip-my-boss-is-my-heat-suppressant.json](./397215-liptrip-my-boss-is-my-heat-suppressant.json) |
 | Liquid Abyss: The Melted Jelly | 331883 | [331883-liquid-abyss-the-melted-jelly.json](./331883-liquid-abyss-the-melted-jelly.json) |
 | Liquid Light | 286001 | [286001-liquid-light.json](./286001-liquid-light.json) |
+| Liquid Metal: Alien Attack | 56565 | [56565-liquid-metal-alien-attack.json](./56565-liquid-metal-alien-attack.json) |
 | Liquid Pinball | 30357 | [30357-liquid-pinball.json](./30357-liquid-pinball.json) |
 | Liquid Space | 127078 | [127078-liquid-space.json](./127078-liquid-space.json) |
 | Liquid War | 51250 | [51250-liquid-war.json](./51250-liquid-war.json) |
@@ -2505,6 +2507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa Joyful in Hopeful | 348964 | [348964-lisa-joyful-in-hopeful.json](./348964-lisa-joyful-in-hopeful.json) |
 | Lisa the Joyful: Growing Pains | 208301 | [208301-lisa-the-joyful-growing-pains.json](./208301-lisa-the-joyful-growing-pains.json) |
 | Lisa the Vegaful | 172483 | [172483-lisa-the-vegaful.json](./172483-lisa-the-vegaful.json) |
+| Lisa to Issho ni Tairiku Oudan: A-Ressha de Ikou | 56555 | [56555-lisa-to-issho-ni-tairiku-oudan-a-ressha-de-ikou.json](./56555-lisa-to-issho-ni-tairiku-oudan-a-ressha-de-ikou.json) |
 | Lisa: Is Fearless | 172490 | [172490-lisa-is-fearless.json](./172490-lisa-is-fearless.json) |
 | Lisa: The Bashful | 172484 | [172484-lisa-the-bashful.json](./172484-lisa-the-bashful.json) |
 | Lisa: The First | 26652 | [26652-lisa-the-first.json](./26652-lisa-the-first.json) |
@@ -2545,6 +2548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Adventurer II | 61607 | [61607-little-adventurer-ii.json](./61607-little-adventurer-ii.json) |
 | Little Adventurer III | 83547 | [83547-little-adventurer-iii.json](./83547-little-adventurer-iii.json) |
 | Little Aid | 204388 | [204388-little-aid.json](./204388-little-aid.json) |
+| Little Aid | 56558 | [56558-little-aid.json](./56558-little-aid.json) |
 | Little Aid Portable | 204389 | [204389-little-aid-portable.json](./204389-little-aid-portable.json) |
 | Little Airplane 3D for kids: learn colors, numbers | 101495 | [101495-little-airplane-3d-for-kids-learn-colors-numbers.json](./101495-little-airplane-3d-for-kids-learn-colors-numbers.json) |
 | Little Alchemy | 38911 | [38911-little-alchemy.json](./38911-little-alchemy.json) |
@@ -2824,6 +2828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Littlest Pet Shop: Country Friends | 48021 | [48021-littlest-pet-shop-country-friends.json](./48021-littlest-pet-shop-country-friends.json) |
 | Littlest Pet Shop: Spring | 68040 | [68040-littlest-pet-shop-spring.json](./68040-littlest-pet-shop-spring.json) |
 | LittleWarGame | 9625 | [9625-littlewargame.json](./9625-littlewargame.json) |
+| Littlewitch Parfait: Kuroneko Mahouten Monogatari | 56559 | [56559-littlewitch-parfait-kuroneko-mahouten-monogatari.json](./56559-littlewitch-parfait-kuroneko-mahouten-monogatari.json) |
 | Littlewitch Romanesque: Editio Regia | 35757 | [35757-littlewitch-romanesque-editio-regia.json](./35757-littlewitch-romanesque-editio-regia.json) |
 | Littlewood | 115421 | [115421-littlewood.json](./115421-littlewood.json) |
 | Liu Yin | 175728 | [175728-liu-yin.json](./175728-liu-yin.json) |
@@ -3752,6 +3757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lots of Slots | 147892 | [147892-lots-of-slots.json](./147892-lots-of-slots.json) |
 | Lots of Things 2: Travel and Search - Collector's Edition | 307759 | [307759-lots-of-things-2-travel-and-search-collectors-edition.json](./307759-lots-of-things-2-travel-and-search-collectors-edition.json) |
 | LotS: Light on the Sea | 400371 | [400371-lots-light-on-the-sea.json](./400371-lots-light-on-the-sea.json) |
+| Lotsa Blocks | 56580 | [56580-lotsa-blocks.json](./56580-lotsa-blocks.json) |
 | Lotte | 245815 | [245815-lotte.json](./245815-lotte.json) |
 | Lotto Fun | 312352 | [312352-lotto-fun.json](./312352-lotto-fun.json) |
 | Lotus | 105745 | [105745-lotus.json](./105745-lotus.json) |
@@ -4452,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lux DLX 3 - Map Conquest Game | 96895 | [96895-lux-dlx-3-map-conquest-game.json](./96895-lux-dlx-3-map-conquest-game.json) |
 | Lux Ex: Cyber Initiation | 214190 | [214190-lux-ex-cyber-initiation.json](./214190-lux-ex-cyber-initiation.json) |
 | Lux Sine | 149030 | [149030-lux-sine.json](./149030-lux-sine.json) |
+| Lux umbra | 56595 | [56595-lux-umbra.json](./56595-lux-umbra.json) |
 | Lux: Dream.Girl | 280928 | [280928-lux-dream-girl.json](./280928-lux-dream-girl.json) |
 | Luxcustos | 322605 | [322605-luxcustos.json](./322605-luxcustos.json) |
 | Luxor 2 HD | 30226 | [30226-luxor-2-hd.json](./30226-luxor-2-hd.json) |
