@@ -1439,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onmyoji Chess | 194010 | [194010-onmyoji-chess.json](./194010-onmyoji-chess.json) |
 | Onmyoudou Origins | 277944 | [277944-onmyoudou-origins.json](./277944-onmyoudou-origins.json) |
 | Onmyouji Emaki | 335701 | [335701-onmyouji-emaki.json](./335701-onmyouji-emaki.json) |
+| Onna Sansirou: Typhoon Gal | 40378 | [40378-onna-sansirou-typhoon-gal.json](./40378-onna-sansirou-typhoon-gal.json) |
 | Onna Senshi Serasu wa Odoriko ni Tenshoku Shita!: Ha, Hazukashikute Shinde Shimaitai … Ecchi na Dance Nante Dare ga Suruka! | 58806 | [58806-onna-senshi-serasu-wa-odoriko-ni-tenshoku-shita-ha-hazukashikute-shinde-shimaitai-ecchi-na-dance-nante-dare-ga-suruka.json](./58806-onna-senshi-serasu-wa-odoriko-ni-tenshoku-shita-ha-hazukashikute-shinde-shimaitai-ecchi-na-dance-nante-dare-ga-suruka.json) |
 | Onnanoko Keeper 2 | 150494 | [150494-onnanoko-keeper-2.json](./150494-onnanoko-keeper-2.json) |
 | Ono: Fast Card Game Fun | 86715 | [86715-ono-fast-card-game-fun.json](./86715-ono-fast-card-game-fun.json) |
@@ -1618,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Trick-Or-Treat | 333657 | [333657-operation-trick-or-treat.json](./333657-operation-trick-or-treat.json) |
 | Operation Trust | 257402 | [257402-operation-trust.json](./257402-operation-trust.json) |
 | Operation Ushkurat | 242104 | [242104-operation-ushkurat.json](./242104-operation-ushkurat.json) |
+| Operation Wolf 3 | 40377 | [40377-operation-wolf-3.json](./40377-operation-wolf-3.json) |
 | Operation Wolf Returns: First Mission | 218213 | [218213-operation-wolf-returns-first-mission.json](./218213-operation-wolf-returns-first-mission.json) |
 | Operation Z.E.R.O.: OutNumbuh'd! | 234540 | [234540-operation-z-e-r-o-outnumbuhd.json](./234540-operation-z-e-r-o-outnumbuhd.json) |
 | Operation Zero | 333014 | [333014-operation-zero.json](./333014-operation-zero.json) |
@@ -2491,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over blood | 208898 | [208898-over-blood.json](./208898-over-blood.json) |
 | Over Circle | 161223 | [161223-over-circle.json](./161223-over-circle.json) |
 | Over Clock | 336693 | [336693-over-clock.json](./336693-over-clock.json) |
+| Over Drive | 40376 | [40376-over-drive.json](./40376-over-drive.json) |
 | Over Engineered | 406076 | [406076-over-engineered.json](./406076-over-engineered.json) |
 | Over G Fighters | 7127 | [7127-over-g-fighters.json](./7127-over-g-fighters.json) |
 | Over Hazed | 193997 | [193997-over-hazed.json](./193997-over-hazed.json) |
@@ -2688,6 +2691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ozark | 151045 | [151045-ozark.json](./151045-ozark.json) |
 | Ozeki Thrust | 92632 | [92632-ozeki-thrust.json](./92632-ozeki-thrust.json) |
 | Ozmafia!! 0 Reflexion | 254574 | [254574-ozmafia-0-reflexion.json](./254574-ozmafia-0-reflexion.json) |
+| Ozon I | 40375 | [40375-ozon-i.json](./40375-ozon-i.json) |
 | Ozone | 208988 | [208988-ozone.json](./208988-ozone.json) |
 | Ozonia 2 | 327203 | [327203-ozonia-2.json](./327203-ozonia-2.json) |
 | OzTales Pikeman | 164899 | [164899-oztales-pikeman.json](./164899-oztales-pikeman.json) |
