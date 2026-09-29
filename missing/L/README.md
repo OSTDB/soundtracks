@@ -2659,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Crossroads | 374710 | [374710-little-crossroads.json](./374710-little-crossroads.json) |
 | Little Dentist | 351702 | [351702-little-dentist.json](./351702-little-dentist.json) |
 | Little Desktop Runner | 385833 | [385833-little-desktop-runner.json](./385833-little-desktop-runner.json) |
+| Little Deviants | 20736 | [20736-little-deviants.json](./20736-little-deviants.json) |
 | Little Devourers | 169454 | [169454-little-devourers.json](./169454-little-devourers.json) |
 | Little Diggel | 29764 | [29764-little-diggel.json](./29764-little-diggel.json) |
 | Little Doll Queen | 260377 | [260377-little-doll-queen.json](./260377-little-doll-queen.json) |
@@ -3692,6 +3693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Cairo | 284909 | [284909-lost-in-cairo.json](./284909-lost-in-cairo.json) |
 | Lost In Failures | 291093 | [291093-lost-in-failures.json](./291093-lost-in-failures.json) |
 | Lost In Fantaland | 157064 | [157064-lost-in-fantaland.json](./157064-lost-in-fantaland.json) |
+| Lost in Harmony | 58892 | [58892-lost-in-harmony.json](./58892-lost-in-harmony.json) |
 | Lost in Heart of Chernobyl: Survival | 314864 | [314864-lost-in-heart-of-chernobyl-survival.json](./314864-lost-in-heart-of-chernobyl-survival.json) |
 | Lost in Hell | 207786 | [207786-lost-in-hell.json](./207786-lost-in-hell.json) |
 | Lost in Hieroglyphs: A Hidden Objects Expedition | 317020 | [317020-lost-in-hieroglyphs-a-hidden-objects-expedition.json](./317020-lost-in-hieroglyphs-a-hidden-objects-expedition.json) |
