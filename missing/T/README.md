@@ -2274,6 +2274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris | 221969 | [221969-tetris.json](./221969-tetris.json) |
 | Tetris | 270420 | [270420-tetris.json](./270420-tetris.json) |
 | Tetris | 326807 | [326807-tetris.json](./326807-tetris.json) |
+| Tetris | 88894 | [88894-tetris.json](./88894-tetris.json) |
 | Tetris 2 | 254511 | [254511-tetris-2.json](./254511-tetris-2.json) |
 | Tetris 2 | 254512 | [254512-tetris-2.json](./254512-tetris-2.json) |
 | Tetris 2 + BomBliss | 78699 | [78699-tetris-2-bombliss.json](./78699-tetris-2-bombliss.json) |
@@ -2984,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bilestoad | 39780 | [39780-the-bilestoad.json](./39780-the-bilestoad.json) |
 | The Billionaire's Baby | 313890 | [313890-the-billionaires-baby.json](./313890-the-billionaires-baby.json) |
 | The Binding of Isaac: Afterbirth | 13177 | [13177-the-binding-of-isaac-afterbirth.json](./13177-the-binding-of-isaac-afterbirth.json) |
+| The Binding of Isaac: Antibirth | 103333 | [103333-the-binding-of-isaac-antibirth.json](./103333-the-binding-of-isaac-antibirth.json) |
 | The Binding of Isaac: Epiphany | 223039 | [223039-the-binding-of-isaac-epiphany.json](./223039-the-binding-of-isaac-epiphany.json) |
 | The Binding of Isaac: Repentance | 310643 | [310643-the-binding-of-isaac-repentance.json](./310643-the-binding-of-isaac-repentance.json) |
 | The Binding of Isaac: Revelations | 376126 | [376126-the-binding-of-isaac-revelations.json](./376126-the-binding-of-isaac-revelations.json) |
@@ -3409,6 +3411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coma 3: Bloodlines - Overly Attractive Teacher Skin | 401681 | [401681-the-coma-3-bloodlines-overly-attractive-teacher-skin.json](./401681-the-coma-3-bloodlines-overly-attractive-teacher-skin.json) |
 | The Coma: Back to School Bundle | 154967 | [154967-the-coma-back-to-school-bundle.json](./154967-the-coma-back-to-school-bundle.json) |
 | The Coma: Double Cut | 136930 | [136930-the-coma-double-cut.json](./136930-the-coma-double-cut.json) |
+| The Coma: Recut | 51385 | [51385-the-coma-recut.json](./51385-the-coma-recut.json) |
 | The Coma: Recut - Limited Edition | 166241 | [166241-the-coma-recut-limited-edition.json](./166241-the-coma-recut-limited-edition.json) |
 | The Coma: Triple Threat Bundle | 338010 | [338010-the-coma-triple-threat-bundle.json](./338010-the-coma-triple-threat-bundle.json) |
 | The Combatribes | 337198 | [337198-the-combatribes.json](./337198-the-combatribes.json) |
@@ -8745,6 +8748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wylde | 23875 | [23875-the-wylde.json](./23875-the-wylde.json) |
 | The X Factor Sing | 84261 | [84261-the-x-factor-sing.json](./84261-the-x-factor-sing.json) |
 | The X-Com Files | 276795 | [276795-the-x-com-files.json](./276795-the-x-com-files.json) |
+| The X-Files Game | 103203 | [103203-the-x-files-game.json](./103203-the-x-files-game.json) |
 | The Xeno Project | 221659 | [221659-the-xeno-project.json](./221659-the-xeno-project.json) |
 | The Yakutsu Noroi Game | 124641 | [124641-the-yakutsu-noroi-game.json](./124641-the-yakutsu-noroi-game.json) |
 | The Yakyuu Ken Special: Konya wa 8-kaisen | 74777 | [74777-the-yakyuu-ken-special-konya-wa-8-kaisen.json](./74777-the-yakyuu-ken-special-konya-wa-8-kaisen.json) |
@@ -9310,6 +9314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Tomb | 102957 | [102957-through-the-tomb.json](./102957-through-the-tomb.json) |
 | Through the Trap Door | 54718 | [54718-through-the-trap-door.json](./54718-through-the-trap-door.json) |
 | Through the Wall | 339294 | [339294-through-the-wall.json](./339294-through-the-wall.json) |
+| Through the Woods | 9525 | [9525-through-the-woods.json](./9525-through-the-woods.json) |
 | Through the Woods: Collector's Edition | 51920 | [51920-through-the-woods-collectors-edition.json](./51920-through-the-woods-collectors-edition.json) |
 | Through the Woods: Digital Collector's Edition | 53798 | [53798-through-the-woods-digital-collectors-edition.json](./53798-through-the-woods-digital-collectors-edition.json) |
 | Through the World | 189118 | [189118-through-the-world.json](./189118-through-the-world.json) |
@@ -11337,6 +11342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's H.A.W.X 2 | 341328 | [341328-tom-clancys-h-a-w-x-2.json](./341328-tom-clancys-h-a-w-x-2.json) |
 | Tom Clancy's Origin Collection | 53803 | [53803-tom-clancys-origin-collection.json](./53803-tom-clancys-origin-collection.json) |
 | Tom Clancy's Rainbow Six | 249139 | [249139-tom-clancys-rainbow-six.json](./249139-tom-clancys-rainbow-six.json) |
+| Tom Clancy's Rainbow Six 3 | 9891 | [9891-tom-clancys-rainbow-six-3.json](./9891-tom-clancys-rainbow-six-3.json) |
 | Tom Clancy's Rainbow Six 3: Athena Sword | 1848 | [1848-tom-clancys-rainbow-six-3-athena-sword.json](./1848-tom-clancys-rainbow-six-3-athena-sword.json) |
 | Tom Clancy's Rainbow Six 3: Black Arrow | 47321 | [47321-tom-clancys-rainbow-six-3-black-arrow.json](./47321-tom-clancys-rainbow-six-3-black-arrow.json) |
 | Tom Clancy's Rainbow Six 3: Gold Edition | 28989 | [28989-tom-clancys-rainbow-six-3-gold-edition.json](./28989-tom-clancys-rainbow-six-3-gold-edition.json) |
@@ -12197,6 +12203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Pocket Wars Evolution Plus | 128384 | [128384-touhou-pocket-wars-evolution-plus.json](./128384-touhou-pocket-wars-evolution-plus.json) |
 | Touhou Puppet Dance Performance | 46722 | [46722-touhou-puppet-dance-performance.json](./46722-touhou-puppet-dance-performance.json) |
 | Touhou Rakuryuusei: The Shattered Sky | 280870 | [280870-touhou-rakuryuusei-the-shattered-sky.json](./280870-touhou-rakuryuusei-the-shattered-sky.json) |
+| Touhou Rei'iden: The Highly Responsive to Prayers | 45967 | [45967-touhou-reiiden-the-highly-responsive-to-prayers.json](./45967-touhou-reiiden-the-highly-responsive-to-prayers.json) |
 | Touhou Rekkaden: Rift in a Friendship Game | 204669 | [204669-touhou-rekkaden-rift-in-a-friendship-game.json](./204669-touhou-rekkaden-rift-in-a-friendship-game.json) |
 | Touhou Risouen: Terminus of Unreal Darkside | 360202 | [360202-touhou-risouen-terminus-of-unreal-darkside.json](./360202-touhou-risouen-terminus-of-unreal-darkside.json) |
 | Touhou Rock Maiden 2: Houraisan Kaguya no Nazo | 202934 | [202934-touhou-rock-maiden-2-houraisan-kaguya-no-nazo.json](./202934-touhou-rock-maiden-2-houraisan-kaguya-no-nazo.json) |
@@ -15083,6 +15090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Point Hospital: A Stitch in Time | 144911 | [144911-two-point-hospital-a-stitch-in-time.json](./144911-two-point-hospital-a-stitch-in-time.json) |
 | Two Point Hospital: Bigfoot | 144913 | [144913-two-point-hospital-bigfoot.json](./144913-two-point-hospital-bigfoot.json) |
 | Two Point Hospital: Close Encounters | 144912 | [144912-two-point-hospital-close-encounters.json](./144912-two-point-hospital-close-encounters.json) |
+| Two Point Museum | 313595 | [313595-two-point-museum.json](./313595-two-point-museum.json) |
 | Two Point Museum: Sonic Pre-order Pack | 375175 | [375175-two-point-museum-sonic-pre-order-pack.json](./375175-two-point-museum-sonic-pre-order-pack.json) |
 | Two Portals: A Gemstone Puzzle Game | 247501 | [247501-two-portals-a-gemstone-puzzle-game.json](./247501-two-portals-a-gemstone-puzzle-game.json) |
 | Two Sedans Driving Simulator | 195618 | [195618-two-sedans-driving-simulator.json](./195618-two-sedans-driving-simulator.json) |
