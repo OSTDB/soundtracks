@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales From Galaxy 34 | 113027 | [113027-tales-from-galaxy-34.json](./113027-tales-from-galaxy-34.json) |
 | Tales from Heaven | 69570 | [69570-tales-from-heaven.json](./69570-tales-from-heaven.json) |
 | Tales From Hoia Baciu Forest | 202756 | [202756-tales-from-hoia-baciu-forest.json](./202756-tales-from-hoia-baciu-forest.json) |
+| Tales from Space: Mutant Blobs Attack | 5893 | [5893-tales-from-space-mutant-blobs-attack.json](./5893-tales-from-space-mutant-blobs-attack.json) |
 | Tales From The Arcade: Fartmania | 296471 | [296471-tales-from-the-arcade-fartmania.json](./296471-tales-from-the-arcade-fartmania.json) |
 | Tales From The Arcade: Starship Murder | 263742 | [263742-tales-from-the-arcade-starship-murder.json](./263742-tales-from-the-arcade-starship-murder.json) |
 | Tales from the Commonwealth | 356619 | [356619-tales-from-the-commonwealth.json](./356619-tales-from-the-commonwealth.json) |
@@ -3669,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Prince | 207389 | [207389-the-dark-prince.json](./207389-the-dark-prince.json) |
 | The Dark Prophecy | 190100 | [190100-the-dark-prophecy.json](./190100-the-dark-prophecy.json) |
 | The Dark Quarter | 367476 | [367476-the-dark-quarter.json](./367476-the-dark-quarter.json) |
+| The Dark Queen of Mortholme | 325202 | [325202-the-dark-queen-of-mortholme.json](./325202-the-dark-queen-of-mortholme.json) |
 | The Dark Realm | 194269 | [194269-the-dark-realm.json](./194269-the-dark-realm.json) |
 | The Dark Rites of Arkham | 338552 | [338552-the-dark-rites-of-arkham.json](./338552-the-dark-rites-of-arkham.json) |
 | The Dark Room | 301353 | [301353-the-dark-room.json](./301353-the-dark-room.json) |
@@ -5036,6 +5038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible VR Game Show | 83946 | [83946-the-incredible-vr-game-show.json](./83946-the-incredible-vr-game-show.json) |
 | The Incredibles | 3782 | [3782-the-incredibles.json](./3782-the-incredibles.json) |
 | The Incredibles: Mission Incredible | 213375 | [213375-the-incredibles-mission-incredible.json](./213375-the-incredibles-mission-incredible.json) |
+| The Incredibles: Rise of the Underminer | 3955 | [3955-the-incredibles-rise-of-the-underminer.json](./3955-the-incredibles-rise-of-the-underminer.json) |
 | The Incredibles: When Danger Calls | 18261 | [18261-the-incredibles-when-danger-calls.json](./18261-the-incredibles-when-danger-calls.json) |
 | The Indian in the Cupboard | 74044 | [74044-the-indian-in-the-cupboard.json](./74044-the-indian-in-the-cupboard.json) |
 | The Indie Dev | 296474 | [296474-the-indie-dev.json](./296474-the-indie-dev.json) |
@@ -6195,6 +6198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Matrix Online | 1005 | [1005-the-matrix-online.json](./1005-the-matrix-online.json) |
 | The Matrix: Path of Neo | 1004 | [1004-the-matrix-path-of-neo.json](./1004-the-matrix-path-of-neo.json) |
 | The Matter at Hand | 183476 | [183476-the-matter-at-hand.json](./183476-the-matter-at-hand.json) |
+| The Maw | 3976 | [3976-the-maw.json](./3976-the-maw.json) |
 | The Maw: Brute Force | 164365 | [164365-the-maw-brute-force.json](./164365-the-maw-brute-force.json) |
 | The Maw: River Redirect | 164363 | [164363-the-maw-river-redirect.json](./164363-the-maw-river-redirect.json) |
 | The Maw: Speeder Lane | 164364 | [164364-the-maw-speeder-lane.json](./164364-the-maw-speeder-lane.json) |
@@ -7555,6 +7559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims Online | 13152 | [13152-the-sims-online.json](./13152-the-sims-online.json) |
 | The Sims: Legacy Collection | 329954 | [329954-the-sims-legacy-collection.json](./329954-the-sims-legacy-collection.json) |
 | The Sims: Livin' Large | 5528 | [5528-the-sims-livin-large.json](./5528-the-sims-livin-large.json) |
+| The Sims: Makin' Magic | 5533 | [5533-the-sims-makin-magic.json](./5533-the-sims-makin-magic.json) |
 | The Simulacrum | 230858 | [230858-the-simulacrum.json](./230858-the-simulacrum.json) |
 | The Simuloid Affair: Infinite Possibilities | 300692 | [300692-the-simuloid-affair-infinite-possibilities.json](./300692-the-simuloid-affair-infinite-possibilities.json) |
 | The Sin Collector: Repentless | 169773 | [169773-the-sin-collector-repentless.json](./169773-the-sin-collector-repentless.json) |
@@ -9246,6 +9251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Twenty One | 43440 | [43440-three-twenty-one.json](./43440-three-twenty-one.json) |
 | Three Verses | 298289 | [298289-three-verses.json](./298289-three-verses.json) |
 | Three Weeks in Paradise | 30218 | [30218-three-weeks-in-paradise.json](./30218-three-weeks-in-paradise.json) |
+| Three Wonders | 6980 | [6980-three-wonders.json](./6980-three-wonders.json) |
 | Three-Card Trick | 55952 | [55952-three-card-trick.json](./55952-three-card-trick.json) |
 | Three's A Crowd | 256841 | [256841-threes-a-crowd.json](./256841-threes-a-crowd.json) |
 | Threefold Recital | 327486 | [327486-threefold-recital.json](./327486-threefold-recital.json) |
@@ -10945,6 +10951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TMNT | 3817 | [3817-tmnt.json](./3817-tmnt.json) |
 | TMNT: Ninja Adventures | 64469 | [64469-tmnt-ninja-adventures.json](./64469-tmnt-ninja-adventures.json) |
 | TMNT: The Power of 4 | 146241 | [146241-tmnt-the-power-of-4.json](./146241-tmnt-the-power-of-4.json) |
+| tModLoader | 134157 | [134157-tmodloader.json](./134157-tmodloader.json) |
 | TNA vs. ROH | 256926 | [256926-tna-vs-roh.json](./256926-tna-vs-roh.json) |
 | TNA Wrestling | 81239 | [81239-tna-wrestling.json](./81239-tna-wrestling.json) |
 | TNM | 100227 | [100227-tnm.json](./100227-tnm.json) |
@@ -13468,6 +13475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Revenge of the Fallen | 335116 | [335116-transformers-revenge-of-the-fallen.json](./335116-transformers-revenge-of-the-fallen.json) |
 | Transformers: Revenge of the Fallen - Autobots | 206709 | [206709-transformers-revenge-of-the-fallen-autobots.json](./206709-transformers-revenge-of-the-fallen-autobots.json) |
 | Transformers: Revenge of the Fallen - Decepticons | 206710 | [206710-transformers-revenge-of-the-fallen-decepticons.json](./206710-transformers-revenge-of-the-fallen-decepticons.json) |
+| Transformers: Rise of the Dark Spark | 16583 | [16583-transformers-rise-of-the-dark-spark.json](./16583-transformers-rise-of-the-dark-spark.json) |
 | Transformers: Rise of the Dark Spark | 192904 | [192904-transformers-rise-of-the-dark-spark.json](./192904-transformers-rise-of-the-dark-spark.json) |
 | Transformers: Robots in Disguise | 70990 | [70990-transformers-robots-in-disguise.json](./70990-transformers-robots-in-disguise.json) |
 | Transformers: Shadows Rising | 125822 | [125822-transformers-shadows-rising.json](./125822-transformers-shadows-rising.json) |
