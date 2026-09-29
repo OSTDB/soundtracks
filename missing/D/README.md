@@ -240,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daitoshokan no Hitsujikai: Dreaming Sheep | 125812 | [125812-daitoshokan-no-hitsujikai-dreaming-sheep.json](./125812-daitoshokan-no-hitsujikai-dreaming-sheep.json) |
 | Daiva Story 6: Imperial of Nirsartia | 65666 | [65666-daiva-story-6-imperial-of-nirsartia.json](./65666-daiva-story-6-imperial-of-nirsartia.json) |
 | Daiz | 239901 | [239901-daiz.json](./239901-daiz.json) |
+| Dajjal's Minions | 26792 | [26792-dajjals-minions.json](./26792-dajjals-minions.json) |
 | Daka Dara | 115790 | [115790-daka-dara.json](./115790-daka-dara.json) |
 | Dakar '97 | 123056 | [123056-dakar-97.json](./123056-dakar-97.json) |
 | Dakar 18: Day One Edition | 110333 | [110333-dakar-18-day-one-edition.json](./110333-dakar-18-day-one-edition.json) |
@@ -3616,6 +3617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Birth Road | 290475 | [290475-dice-birth-road.json](./290475-dice-birth-road.json) |
 | Dice Blaze | 288836 | [288836-dice-blaze.json](./288836-dice-blaze.json) |
 | Dice Brawl: Captain's League | 108960 | [108960-dice-brawl-captains-league.json](./108960-dice-brawl-captains-league.json) |
+| Dice Breaker | 26849 | [26849-dice-breaker.json](./26849-dice-breaker.json) |
 | Dice City Roller | 366417 | [366417-dice-city-roller.json](./366417-dice-city-roller.json) |
 | Dice Craft | 252156 | [252156-dice-craft.json](./252156-dice-craft.json) |
 | Dice Crypt | 266317 | [266317-dice-crypt.json](./266317-dice-crypt.json) |
@@ -5545,6 +5547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donpen Beat | 218966 | [218966-donpen-beat.json](./218966-donpen-beat.json) |
 | Donsol | 177521 | [177521-donsol.json](./177521-donsol.json) |
 | Donsol | 275678 | [275678-donsol.json](./275678-donsol.json) |
+| Dont Buzz | 26851 | [26851-dont-buzz.json](./26851-dont-buzz.json) |
 | Dont Jump: Gamesforfarm | 364592 | [364592-dont-jump-gamesforfarm.json](./364592-dont-jump-gamesforfarm.json) |
 | Dontbegrey | 51965 | [51965-dontbegrey.json](./51965-dontbegrey.json) |
 | Dontdy | 156108 | [156108-dontdy.json](./156108-dontdy.json) |
@@ -6292,6 +6295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball GT: Transformation 2 | 66363 | [66363-dragon-ball-gt-transformation-2.json](./66363-dragon-ball-gt-transformation-2.json) |
 | Dragon Ball Heroes: Ultimate Mission | 77253 | [77253-dragon-ball-heroes-ultimate-mission.json](./77253-dragon-ball-heroes-ultimate-mission.json) |
 | Dragon Ball Heroes: Ultimate Mission - Lalabit Market Luxury Edition | 89875 | [89875-dragon-ball-heroes-ultimate-mission-lalabit-market-luxury-edition.json](./89875-dragon-ball-heroes-ultimate-mission-lalabit-market-luxury-edition.json) |
+| Dragon Ball Heroes: Ultimate Mission X | 26865 | [26865-dragon-ball-heroes-ultimate-mission-x.json](./26865-dragon-ball-heroes-ultimate-mission-x.json) |
 | Dragon Ball Kart 64 | 172711 | [172711-dragon-ball-kart-64.json](./172711-dragon-ball-kart-64.json) |
 | Dragon Ball Legends | 95014 | [95014-dragon-ball-legends.json](./95014-dragon-ball-legends.json) |
 | Dragon Ball Online | 92697 | [92697-dragon-ball-online.json](./92697-dragon-ball-online.json) |
@@ -6485,6 +6489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest 25th Anniversary Collection | 136885 | [136885-dragon-quest-25th-anniversary-collection.json](./136885-dragon-quest-25th-anniversary-collection.json) |
 | Dragon Quest Builders | 24069 | [24069-dragon-quest-builders.json](./24069-dragon-quest-builders.json) |
 | Dragon Quest Builders 2 | 54548 | [54548-dragon-quest-builders-2.json](./54548-dragon-quest-builders-2.json) |
+| Dragon Quest Heroes I & II | 26771 | [26771-dragon-quest-heroes-i-and-ii.json](./26771-dragon-quest-heroes-i-and-ii.json) |
 | Dragon Quest I & II HD-2D Remake | 306144 | [306144-dragon-quest-i-and-ii-hd-2d-remake.json](./306144-dragon-quest-i-and-ii-hd-2d-remake.json) |
 | Dragon Quest II: Luminaries of the Legendary Line | 287153 | [287153-dragon-quest-ii-luminaries-of-the-legendary-line.json](./287153-dragon-quest-ii-luminaries-of-the-legendary-line.json) |
 | Dragon Quest III HD-2D Remake | 149980 | [149980-dragon-quest-iii-hd-2d-remake.json](./149980-dragon-quest-iii-hd-2d-remake.json) |
