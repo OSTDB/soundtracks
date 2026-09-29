@@ -1208,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarzan VR | 305903 | [305903-tarzan-vr.json](./305903-tarzan-vr.json) |
 | Tarzan VR: #3 The Dead of the Night | 219569 | [219569-tarzan-vr-3-the-dead-of-the-night.json](./219569-tarzan-vr-3-the-dead-of-the-night.json) |
 | Tarzan: Lord of the Jungle | 228974 | [228974-tarzan-lord-of-the-jungle.json](./228974-tarzan-lord-of-the-jungle.json) |
+| Tasac | 48805 | [48805-tasac.json](./48805-tasac.json) |
 | Tashikani | 298155 | [298155-tashikani.json](./298155-tashikani.json) |
 | Tashio Tempo | 403579 | [403579-tashio-tempo.json](./403579-tashio-tempo.json) |
 | Task Attack | 106957 | [106957-task-attack.json](./106957-task-attack.json) |
@@ -4404,6 +4405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life 2: Haunted Hills world | 171398 | [171398-the-game-of-life-2-haunted-hills-world.json](./171398-the-game-of-life-2-haunted-hills-world.json) |
 | The Game of Life 2: Sandy Shores World | 171592 | [171592-the-game-of-life-2-sandy-shores-world.json](./171592-the-game-of-life-2-sandy-shores-world.json) |
 | The Game of Life 2: Sweet Haven World | 207800 | [207800-the-game-of-life-2-sweet-haven-world.json](./207800-the-game-of-life-2-sweet-haven-world.json) |
+| The Game of Life: RPG Jinsei Game | 48819 | [48819-the-game-of-life-rpg-jinsei-game.json](./48819-the-game-of-life-rpg-jinsei-game.json) |
 | The Game of The Playful | 230930 | [230930-the-game-of-the-playful.json](./230930-the-game-of-the-playful.json) |
 | The Game of Unknown | 195127 | [195127-the-game-of-unknown.json](./195127-the-game-of-unknown.json) |
 | The Game Paradise: Cruisin Mix - Limited Edition | 167151 | [167151-the-game-paradise-cruisin-mix-limited-edition.json](./167151-the-game-paradise-cruisin-mix-limited-edition.json) |
@@ -6159,6 +6161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monarch: First Light | 289981 | [289981-the-monarch-first-light.json](./289981-the-monarch-first-light.json) |
 | The Monastery | 304889 | [304889-the-monastery.json](./304889-the-monastery.json) |
 | The Monastery of Mount Cinburron | 308388 | [308388-the-monastery-of-mount-cinburron.json](./308388-the-monastery-of-mount-cinburron.json) |
+| The Money Game | 48770 | [48770-the-money-game.json](./48770-the-money-game.json) |
 | The Monkey King: Flying Dojo | 341030 | [341030-the-monkey-king-flying-dojo.json](./341030-the-monkey-king-flying-dojo.json) |
 | The Monkey King: The Legend Begins | 50608 | [50608-the-monkey-king-the-legend-begins.json](./50608-the-monkey-king-the-legend-begins.json) |
 | The Monkey P | 223148 | [223148-the-monkey-p.json](./223148-the-monkey-p.json) |
