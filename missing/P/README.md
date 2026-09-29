@@ -161,6 +161,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi-Slot Gambler | 42238 | [42238-pachi-slot-gambler.json](./42238-pachi-slot-gambler.json) |
 | Pachi-Slot Higurashi no Naku Koro ni Matsuri | 263021 | [263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json](./263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json) |
 | Pachi-Slot Kanzen Kouryaku: Universal Shindai Nyuuka Volume 1 | 66960 | [66960-pachi-slot-kanzen-kouryaku-universal-shindai-nyuuka-volume-1.json](./66960-pachi-slot-kanzen-kouryaku-universal-shindai-nyuuka-volume-1.json) |
+| Pachi-Slot Kenkyuu | 37900 | [37900-pachi-slot-kenkyuu.json](./37900-pachi-slot-kenkyuu.json) |
+| Pachi-Slot Land: Pachi-pachi Coin no Densetsu | 37899 | [37899-pachi-slot-land-pachi-pachi-coin-no-densetsu.json](./37899-pachi-slot-land-pachi-pachi-coin-no-densetsu.json) |
+| Pachi-Slot Love Story | 37898 | [37898-pachi-slot-love-story.json](./37898-pachi-slot-love-story.json) |
+| Pachi-Slot Monogatari: Paru Kougyou Special | 37897 | [37897-pachi-slot-monogatari-paru-kougyou-special.json](./37897-pachi-slot-monogatari-paru-kougyou-special.json) |
+| Pachi-Slot Monogatari: Universal Special | 37896 | [37896-pachi-slot-monogatari-universal-special.json](./37896-pachi-slot-monogatari-universal-special.json) |
 | Pachicom | 41396 | [41396-pachicom.json](./41396-pachicom.json) |
 | Pachiko | 357310 | [357310-pachiko.json](./357310-pachiko.json) |
 | Pachillinko | 188665 | [188665-pachillinko.json](./188665-pachillinko.json) |
@@ -1174,6 +1179,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ParkourMan | 105335 | [105335-parkourman.json](./105335-parkourman.json) |
 | ParkTo | 215694 | [215694-parkto.json](./215694-parkto.json) |
 | Parkur 44 | 152843 | [152843-parkur-44.json](./152843-parkur-44.json) |
+| Parlor! Mini | 37895 | [37895-parlor-mini.json](./37895-parlor-mini.json) |
+| Parlor! Mini 2 | 37894 | [37894-parlor-mini-2.json](./37894-parlor-mini-2.json) |
+| Parlor! Mini 3 | 37893 | [37893-parlor-mini-3.json](./37893-parlor-mini-3.json) |
+| Parlor! Mini 4 | 37892 | [37892-parlor-mini-4.json](./37892-parlor-mini-4.json) |
+| Parlor! Mini 5 | 37891 | [37891-parlor-mini-5.json](./37891-parlor-mini-5.json) |
+| Parlor! Mini 6 | 37878 | [37878-parlor-mini-6.json](./37878-parlor-mini-6.json) |
+| Parlor! Mini 7 | 37877 | [37877-parlor-mini-7.json](./37877-parlor-mini-7.json) |
 | Parlour Games | 46135 | [46135-parlour-games.json](./46135-parlour-games.json) |
 | Parmesan | 184080 | [184080-parmesan.json](./184080-parmesan.json) |
 | Paro Paro | 151646 | [151646-paro-paro.json](./151646-paro-paro.json) |
@@ -6567,15 +6579,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Gymnast Simulator + Clumsy Rush | 218456 | [218456-pro-gymnast-simulator-clumsy-rush.json](./218456-pro-gymnast-simulator-clumsy-rush.json) |
 | Pro Gymnast Simulator + Cyber Protocol | 218501 | [218501-pro-gymnast-simulator-cyber-protocol.json](./218501-pro-gymnast-simulator-cyber-protocol.json) |
 | Pro Hockey | 69368 | [69368-pro-hockey.json](./69368-pro-hockey.json) |
+| Pro Kishi Jinsei Simulation: Shogi no Hanamichi | 37876 | [37876-pro-kishi-jinsei-simulation-shogi-no-hanamichi.json](./37876-pro-kishi-jinsei-simulation-shogi-no-hanamichi.json) |
 | Pro Mahjong Kiwame | 138094 | [138094-pro-mahjong-kiwame.json](./138094-pro-mahjong-kiwame.json) |
 | Pro Mahjong Kiwame 64 | 97880 | [97880-pro-mahjong-kiwame-64.json](./97880-pro-mahjong-kiwame-64.json) |
 | Pro Mahjong Kiwame D | 97874 | [97874-pro-mahjong-kiwame-d.json](./97874-pro-mahjong-kiwame-d.json) |
 | Pro Mahjong Kiwame GB | 65033 | [65033-pro-mahjong-kiwame-gb.json](./65033-pro-mahjong-kiwame-gb.json) |
 | Pro Mahjong Kiwame GB II | 97878 | [97878-pro-mahjong-kiwame-gb-ii.json](./97878-pro-mahjong-kiwame-gb-ii.json) |
+| Pro Mahjong Kiwame II | 37875 | [37875-pro-mahjong-kiwame-ii.json](./37875-pro-mahjong-kiwame-ii.json) |
 | Pro Mahjong Kiwame Plus | 97879 | [97879-pro-mahjong-kiwame-plus.json](./97879-pro-mahjong-kiwame-plus.json) |
 | Pro Mahjong Kiwame Plus II | 97877 | [97877-pro-mahjong-kiwame-plus-ii.json](./97877-pro-mahjong-kiwame-plus-ii.json) |
 | Pro Mahjong Kiwame Tengensenhen | 97875 | [97875-pro-mahjong-kiwame-tengensenhen.json](./97875-pro-mahjong-kiwame-tengensenhen.json) |
 | Pro Mahjong Kiwame-S | 97882 | [97882-pro-mahjong-kiwame-s.json](./97882-pro-mahjong-kiwame-s.json) |
+| Pro Mahjong Tsuwamono | 37874 | [37874-pro-mahjong-tsuwamono.json](./37874-pro-mahjong-tsuwamono.json) |
 | Pro Mahjong Tsuwamono 2 | 97869 | [97869-pro-mahjong-tsuwamono-2.json](./97869-pro-mahjong-tsuwamono-2.json) |
 | Pro Mahjong Tsuwamono 3 | 97865 | [97865-pro-mahjong-tsuwamono-3.json](./97865-pro-mahjong-tsuwamono-3.json) |
 | Pro Mahjong Tsuwamono 64 Jansou Battle ni Chousen | 97867 | [97867-pro-mahjong-tsuwamono-64-jansou-battle-ni-chousen.json](./97867-pro-mahjong-tsuwamono-64-jansou-battle-ni-chousen.json) |
@@ -6622,11 +6637,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu ga Suki Da! 2017 | 194032 | [194032-pro-yakyuu-ga-suki-da-2017.json](./194032-pro-yakyuu-ga-suki-da-2017.json) |
 | Pro Yakyuu GG League | 141191 | [141191-pro-yakyuu-gg-league.json](./141191-pro-yakyuu-gg-league.json) |
 | Pro Yakyuu Greatest Nine 97 | 231611 | [231611-pro-yakyuu-greatest-nine-97.json](./231611-pro-yakyuu-greatest-nine-97.json) |
+| Pro Yakyuu Nettou Puzzle Stadium | 37873 | [37873-pro-yakyuu-nettou-puzzle-stadium.json](./37873-pro-yakyuu-nettou-puzzle-stadium.json) |
 | Pro Yakyuu Spirits 2012 | 44575 | [44575-pro-yakyuu-spirits-2012.json](./44575-pro-yakyuu-spirits-2012.json) |
 | Pro Yakyuu Spirits 2013 | 63903 | [63903-pro-yakyuu-spirits-2013.json](./63903-pro-yakyuu-spirits-2013.json) |
 | Pro Yakyuu Spirits 2015 | 60625 | [60625-pro-yakyuu-spirits-2015.json](./60625-pro-yakyuu-spirits-2015.json) |
 | Pro Yakyuu Spirits 2019 | 109606 | [109606-pro-yakyuu-spirits-2019.json](./109606-pro-yakyuu-spirits-2019.json) |
 | Pro Yakyuu Spirits 3 | 91726 | [91726-pro-yakyuu-spirits-3.json](./91726-pro-yakyuu-spirits-3.json) |
+| Pro Yakyuu Star | 37872 | [37872-pro-yakyuu-star.json](./37872-pro-yakyuu-star.json) |
 | Pro Yakyuu Team de Asobou Net! | 125932 | [125932-pro-yakyuu-team-de-asobou-net.json](./125932-pro-yakyuu-team-de-asobou-net.json) |
 | Pro Yakyuu Team wo Tsukurou! | 69269 | [69269-pro-yakyuu-team-wo-tsukurou.json](./69269-pro-yakyuu-team-wo-tsukurou.json) |
 | Pro Yakyuu Team wo Tsukurou! 2 | 69271 | [69271-pro-yakyuu-team-wo-tsukurou-2.json](./69271-pro-yakyuu-team-wo-tsukurou-2.json) |
@@ -7958,6 +7975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Monkeys | 85583 | [85583-puzzle-monkeys.json](./85583-puzzle-monkeys.json) |
 | Puzzle Myth | 93374 | [93374-puzzle-myth.json](./93374-puzzle-myth.json) |
 | Puzzle Nebula | 32165 | [32165-puzzle-nebula.json](./32165-puzzle-nebula.json) |
+| Puzzle Nintama Rantarou | 37871 | [37871-puzzle-nintama-rantarou.json](./37871-puzzle-nintama-rantarou.json) |
 | Puzzle Nintama Rantarou GB | 97863 | [97863-puzzle-nintama-rantarou-gb.json](./97863-puzzle-nintama-rantarou-gb.json) |
 | Puzzle Page | 91122 | [91122-puzzle-page.json](./91122-puzzle-page.json) |
 | Puzzle Parasite | 366826 | [366826-puzzle-parasite.json](./366826-puzzle-parasite.json) |
