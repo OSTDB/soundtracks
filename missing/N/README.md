@@ -2494,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NinjaThea 2 | 341479 | [341479-ninjathea-2.json](./341479-ninjathea-2.json) |
 | Ninjatown | 2825 | [2825-ninjatown.json](./2825-ninjatown.json) |
 | Ninjatown: Trees of Doom! | 21755 | [21755-ninjatown-trees-of-doom.json](./21755-ninjatown-trees-of-doom.json) |
+| Ninjin: Clash of Carrots | 60534 | [60534-ninjin-clash-of-carrots.json](./60534-ninjin-clash-of-carrots.json) |
 | NinJump Dash | 60073 | [60073-ninjump-dash.json](./60073-ninjump-dash.json) |
 | NinJump Rush | 220828 | [220828-ninjump-rush.json](./220828-ninjump-rush.json) |
 | Ninki Seiyuu no Tsukurikata: Limited Edition | 167153 | [167153-ninki-seiyuu-no-tsukurikata-limited-edition.json](./167153-ninki-seiyuu-no-tsukurikata-limited-edition.json) |
@@ -2565,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nioh 2: The Complete Edition | 140972 | [140972-nioh-2-the-complete-edition.json](./140972-nioh-2-the-complete-edition.json) |
 | Nioh 3: Bloody Insurrection | 411562 | [411562-nioh-3-bloody-insurrection.json](./411562-nioh-3-bloody-insurrection.json) |
 | Nioh 3: Hell Rising | 411561 | [411561-nioh-3-hell-rising.json](./411561-nioh-3-hell-rising.json) |
+| Nioh: Bloodshed's End | 59591 | [59591-nioh-bloodsheds-end.json](./59591-nioh-bloodsheds-end.json) |
 | Nioh: Complete Edition | 68461 | [68461-nioh-complete-edition.json](./68461-nioh-complete-edition.json) |
 | Nioh: Defiant Honor | 46777 | [46777-nioh-defiant-honor.json](./46777-nioh-defiant-honor.json) |
 | Nion Forge | 378922 | [378922-nion-forge.json](./378922-nion-forge.json) |
