@@ -286,7 +286,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Future Warfare | 294871 | [294871-call-of-duty-future-warfare.json](./294871-call-of-duty-future-warfare.json) |
 | Call of Duty: Ghosts - Digital Hardened Edition | 240504 | [240504-call-of-duty-ghosts-digital-hardened-edition.json](./240504-call-of-duty-ghosts-digital-hardened-edition.json) |
 | Call of Duty: Ghosts - Gold Edition | 100000 | [100000-call-of-duty-ghosts-gold-edition.json](./100000-call-of-duty-ghosts-gold-edition.json) |
+| Call of Duty: Ghosts - Onslaught | 20935 | [20935-call-of-duty-ghosts-onslaught.json](./20935-call-of-duty-ghosts-onslaught.json) |
 | Call of Duty: Global Operations | 196597 | [196597-call-of-duty-global-operations.json](./196597-call-of-duty-global-operations.json) |
+| Call of Duty: Heroes | 60777 | [60777-call-of-duty-heroes.json](./60777-call-of-duty-heroes.json) |
 | Call of Duty: Infinite Warfare - Absolution | 44149 | [44149-call-of-duty-infinite-warfare-absolution.json](./44149-call-of-duty-infinite-warfare-absolution.json) |
 | Call of Duty: Infinite Warfare - Continuum | 28063 | [28063-call-of-duty-infinite-warfare-continuum.json](./28063-call-of-duty-infinite-warfare-continuum.json) |
 | Call of Duty: Infinite Warfare - Digital Deluxe Edition | 118910 | [118910-call-of-duty-infinite-warfare-digital-deluxe-edition.json](./118910-call-of-duty-infinite-warfare-digital-deluxe-edition.json) |
@@ -356,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Wild: The Angler - Winter Vehicle Cosmetics Pack | 366229 | [366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json](./366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json) |
 | Call of Tomsk-7 | 34751 | [34751-call-of-tomsk-7.json](./34751-call-of-tomsk-7.json) |
 | Call of Toys: Tower Defense! | 275357 | [275357-call-of-toys-tower-defense.json](./275357-call-of-toys-tower-defense.json) |
+| Call of War | 55476 | [55476-call-of-war.json](./55476-call-of-war.json) |
 | Call of Warfront | 404257 | [404257-call-of-warfront.json](./404257-call-of-warfront.json) |
 | Call of Zombie | 252400 | [252400-call-of-zombie.json](./252400-call-of-zombie.json) |
 | Call the Tune | 320883 | [320883-call-the-tune.json](./320883-call-the-tune.json) |
@@ -1299,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Network Racing | 2785 | [2785-cartoon-network-racing.json](./2785-cartoon-network-racing.json) |
 | Cartoon Network TKO | 234704 | [234704-cartoon-network-tko.json](./234704-cartoon-network-tko.json) |
 | Cartoon Network Universe: FusionFall | 2811 | [2811-cartoon-network-universe-fusionfall.json](./2811-cartoon-network-universe-fusionfall.json) |
+| Cartoon Network: Punch Time Explosion XL | 21151 | [21151-cartoon-network-punch-time-explosion-xl.json](./21151-cartoon-network-punch-time-explosion-xl.json) |
 | Cartoon Network: Toon Jam! | 206759 | [206759-cartoon-network-toon-jam.json](./206759-cartoon-network-toon-jam.json) |
 | Cartoon Pet Game | 335068 | [335068-cartoon-pet-game.json](./335068-cartoon-pet-game.json) |
 | Cartoon Wars | 230784 | [230784-cartoon-wars.json](./230784-cartoon-wars.json) |
@@ -4947,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Break | 326214 | [326214-coffee-break.json](./326214-coffee-break.json) |
 | Coffee Break: Head to Head | 207277 | [207277-coffee-break-head-to-head.json](./207277-coffee-break-head-to-head.json) |
 | Coffee Buns | 281377 | [281377-coffee-buns.json](./281377-coffee-buns.json) |
+| Coffee Crisis | 56697 | [56697-coffee-crisis.json](./56697-coffee-crisis.json) |
 | Coffee Dates | 247466 | [247466-coffee-dates.json](./247466-coffee-dates.json) |
 | Coffee Express | 320924 | [320924-coffee-express.json](./320924-coffee-express.json) |
 | Coffee Extra: Ukuzala | 320528 | [320528-coffee-extra-ukuzala.json](./320528-coffee-extra-ukuzala.json) |
@@ -5766,6 +5771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Space | 11245 | [11245-computer-space.json](./11245-computer-space.json) |
 | Computer Store Simulator | 382744 | [382744-computer-store-simulator.json](./382744-computer-store-simulator.json) |
 | Computer the Golf | 112164 | [112164-computer-the-golf.json](./112164-computer-the-golf.json) |
+| Computer Tycoon | 55888 | [55888-computer-tycoon.json](./55888-computer-tycoon.json) |
 | Computer Virus Simulator | 218133 | [218133-computer-virus-simulator.json](./218133-computer-virus-simulator.json) |
 | Computer War | 42162 | [42162-computer-war.json](./42162-computer-war.json) |
 | Computer Word Search | 83459 | [83459-computer-word-search.json](./83459-computer-word-search.json) |
@@ -6355,6 +6361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copta Snatch | 73865 | [73865-copta-snatch.json](./73865-copta-snatch.json) |
 | Copter | 291600 | [291600-copter.json](./291600-copter.json) |
 | Copter Cove | 353980 | [353980-copter-cove.json](./353980-copter-cove.json) |
+| Copy Kitty | 22443 | [22443-copy-kitty.json](./22443-copy-kitty.json) |
 | Copycat | 255631 | [255631-copycat.json](./255631-copycat.json) |
 | CopyPasta with Cheese | 282094 | [282094-copypasta-with-cheese.json](./282094-copypasta-with-cheese.json) |
 | Coquette Dragoon: Volume One | 210093 | [210093-coquette-dragoon-volume-one.json](./210093-coquette-dragoon-volume-one.json) |
@@ -7186,6 +7193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash: Mind Over Mutant | 210229 | [210229-crash-mind-over-mutant.json](./210229-crash-mind-over-mutant.json) |
 | Crashawk | 336162 | [336162-crashawk.json](./336162-crashawk.json) |
 | Crashbots | 109627 | [109627-crashbots.json](./109627-crashbots.json) |
+| Crashday: Redline Edition | 50093 | [50093-crashday-redline-edition.json](./50093-crashday-redline-edition.json) |
 | Crashed | 329598 | [329598-crashed.json](./329598-crashed.json) |
 | Crashimals | 120893 | [120893-crashimals.json](./120893-crashimals.json) |
 | Crashing Race | 172598 | [172598-crashing-race.json](./172598-crashing-race.json) |
