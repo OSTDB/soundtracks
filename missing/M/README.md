@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machi-ing Maker DS | 78333 | [78333-machi-ing-maker-ds.json](./78333-machi-ing-maker-ds.json) |
 | Machi: Unmei no Kousaten | 279745 | [279745-machi-unmei-no-kousaten.json](./279745-machi-unmei-no-kousaten.json) |
 | Machi: Unmei no Kousaten - Tokubetsu-hen | 279746 | [279746-machi-unmei-no-kousaten-tokubetsu-hen.json](./279746-machi-unmei-no-kousaten-tokubetsu-hen.json) |
+| Machiavelli the Prince | 14463 | [14463-machiavelli-the-prince.json](./14463-machiavelli-the-prince.json) |
 | Machick 2 | 332269 | [332269-machick-2.json](./332269-machick-2.json) |
 | Machigai-sagashi Daisousasen | 271506 | [271506-machigai-sagashi-daisousasen.json](./271506-machigai-sagashi-daisousasen.json) |
 | Machigatta Shain-Kyouiku Mattaku Kimi no Kaisha de ha Ittai Donna Shain-Kyouiku wo | 236794 | [236794-machigatta-shain-kyouiku-mattaku-kimi-no-kaisha-de-ha-ittai-donna-shain-kyouiku-wo.json](./236794-machigatta-shain-kyouiku-mattaku-kimi-no-kaisha-de-ha-ittai-donna-shain-kyouiku-wo.json) |
@@ -5323,6 +5324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine | 311988 | [311988-mine.json](./311988-mine.json) |
 | Mine & Ship Bundle: Gold Mining & Ship Graveyard Simulator 2 | 340950 | [340950-mine-and-ship-bundle-gold-mining-and-ship-graveyard-simulator-2.json](./340950-mine-and-ship-bundle-gold-mining-and-ship-graveyard-simulator-2.json) |
 | Mine Blast | 96758 | [96758-mine-blast.json](./96758-mine-blast.json) |
+| Mine Bombers | 14449 | [14449-mine-bombers.json](./14449-mine-bombers.json) |
 | Mine Boss Simulator | 212892 | [212892-mine-boss-simulator.json](./212892-mine-boss-simulator.json) |
 | Mine Click | 358288 | [358288-mine-click.json](./358288-mine-click.json) |
 | Mine Crazy: The Korean Grinder | 158678 | [158678-mine-crazy-the-korean-grinder.json](./158678-mine-crazy-the-korean-grinder.json) |
