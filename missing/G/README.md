@@ -5010,6 +5010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyro Star VIP | 106553 | [106553-gyro-star-vip.json](./106553-gyro-star-vip.json) |
 | GyroCube VR | 109433 | [109433-gyrocube-vr.json](./109433-gyrocube-vr.json) |
 | Gyrodine | 39682 | [39682-gyrodine.json](./39682-gyrodine.json) |
+| Gyrodisc Super League | 18465 | [18465-gyrodisc-super-league.json](./18465-gyrodisc-super-league.json) |
 | Gyron | 79623 | [79623-gyron.json](./79623-gyron.json) |
 | Gyroscope | 13866 | [13866-gyroscope.json](./13866-gyroscope.json) |
 | Gyruss | 343878 | [343878-gyruss.json](./343878-gyruss.json) |
