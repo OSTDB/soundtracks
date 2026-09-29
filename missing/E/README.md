@@ -3455,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extrapower Star Resistance | 191696 | [191696-extrapower-star-resistance.json](./191696-extrapower-star-resistance.json) |
 | Extrasolar | 61900 | [61900-extrasolar.json](./61900-extrasolar.json) |
 | Extravaganza Rising | 32078 | [32078-extravaganza-rising.json](./32078-extravaganza-rising.json) |
+| Extreme 500 | 46723 | [46723-extreme-500.json](./46723-extreme-500.json) |
 | Extreme Angler | 72051 | [72051-extreme-angler.json](./72051-extreme-angler.json) |
 | Extreme Basketball | 86104 | [86104-extreme-basketball.json](./86104-extreme-basketball.json) |
 | Extreme Bus Driver Simulator | 261763 | [261763-extreme-bus-driver-simulator.json](./261763-extreme-bus-driver-simulator.json) |
