@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandits | 115164 | [115164-bandits.json](./115164-bandits.json) |
 | Bandits | 228079 | [228079-bandits.json](./228079-bandits.json) |
 | Bandits at 3 O'Clock | 15659 | [15659-bandits-at-3-oclock.json](./15659-bandits-at-3-oclock.json) |
+| Bandits at Zero | 12933 | [12933-bandits-at-zero.json](./12933-bandits-at-zero.json) |
 | Bandits On West | 402929 | [402929-bandits-on-west.json](./402929-bandits-on-west.json) |
 | Bandle | 294451 | [294451-bandle.json](./294451-bandle.json) |
 | Bandle Tale: A League of Legends Story - Deluxe Edition | 283158 | [283158-bandle-tale-a-league-of-legends-story-deluxe-edition.json](./283158-bandle-tale-a-league-of-legends-story-deluxe-edition.json) |
@@ -4693,6 +4694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockBuster | 68647 | [68647-blockbuster.json](./68647-blockbuster.json) |
 | Blockbuster Inc. | 189965 | [189965-blockbuster-inc.json](./189965-blockbuster-inc.json) |
 | Blockbuster World Video Game Championship II | 210600 | [210600-blockbuster-world-video-game-championship-ii.json](./210600-blockbuster-world-video-game-championship-ii.json) |
+| Blockbusters | 12940 | [12940-blockbusters.json](./12940-blockbusters.json) |
 | Blockbusters | 153814 | [153814-blockbusters.json](./153814-blockbusters.json) |
 | Blockchain Brawlers | 225754 | [225754-blockchain-brawlers.json](./225754-blockchain-brawlers.json) |
 | BlockDoc | 111172 | [111172-blockdoc.json](./111172-blockdoc.json) |
@@ -5889,6 +5891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boreal Tenebrae: Deluxe Definitive Edition | 259582 | [259582-boreal-tenebrae-deluxe-definitive-edition.json](./259582-boreal-tenebrae-deluxe-definitive-edition.json) |
 | Boreal Tenebrae: Deluxe Extended Edition | 250366 | [250366-boreal-tenebrae-deluxe-extended-edition.json](./250366-boreal-tenebrae-deluxe-extended-edition.json) |
 | Boreal Tenebrae: Deluxe Ultimate Edition | 247753 | [247753-boreal-tenebrae-deluxe-ultimate-edition.json](./247753-boreal-tenebrae-deluxe-ultimate-edition.json) |
+| Bored of the Rings | 12941 | [12941-bored-of-the-rings.json](./12941-bored-of-the-rings.json) |
 | Bored Wife | 306379 | [306379-bored-wife.json](./306379-bored-wife.json) |
 | Boredom Survivor | 301611 | [301611-boredom-survivor.json](./301611-boredom-survivor.json) |
 | Boredom Survivors | 365264 | [365264-boredom-survivors.json](./365264-boredom-survivors.json) |
@@ -6036,6 +6039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Dash | 280837 | [280837-boulder-dash.json](./280837-boulder-dash.json) |
 | Boulder Dash | 280838 | [280838-boulder-dash.json](./280838-boulder-dash.json) |
 | Boulder Dash | 283712 | [283712-boulder-dash.json](./283712-boulder-dash.json) |
+| Boulder Dash Construction Kit | 12943 | [12943-boulder-dash-construction-kit.json](./12943-boulder-dash-construction-kit.json) |
 | Boulder Dash EX | 78733 | [78733-boulder-dash-ex.json](./78733-boulder-dash-ex.json) |
 | Boulder Dash: 30th Anniversary | 25569 | [25569-boulder-dash-30th-anniversary.json](./25569-boulder-dash-30th-anniversary.json) |
 | Boulder Dash: 40th Anniversary | 316942 | [316942-boulder-dash-40th-anniversary.json](./316942-boulder-dash-40th-anniversary.json) |
