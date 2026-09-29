@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damned Cold | 30775 | [30775-damned-cold.json](./30775-damned-cold.json) |
 | Damned Daniel | 111239 | [111239-damned-daniel.json](./111239-damned-daniel.json) |
 | Damned Hand: Arcade Mode | 171069 | [171069-damned-hand-arcade-mode.json](./171069-damned-hand-arcade-mode.json) |
+| Damned Hours | 54493 | [54493-damned-hours.json](./54493-damned-hours.json) |
 | Damnview Stories: No Vacancy | 146092 | [146092-damnview-stories-no-vacancy.json](./146092-damnview-stories-no-vacancy.json) |
 | Damnview: Built From Nothing | 107269 | [107269-damnview-built-from-nothing.json](./107269-damnview-built-from-nothing.json) |
 | Damocles | 15501 | [15501-damocles.json](./15501-damocles.json) |
@@ -1015,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Blitz | 90079 | [90079-dash-blitz.json](./90079-dash-blitz.json) |
 | Dash Connect 2 | 368577 | [368577-dash-connect-2.json](./368577-dash-connect-2.json) |
 | Dash Dash Delivery | 160264 | [160264-dash-dash-delivery.json](./160264-dash-dash-delivery.json) |
+| Dash Dash Run! | 54505 | [54505-dash-dash-run.json](./54505-dash-dash-run.json) |
 | Dash For Your Life | 257911 | [257911-dash-for-your-life.json](./257911-dash-for-your-life.json) |
 | Dash or Die | 285441 | [285441-dash-or-die.json](./285441-dash-or-die.json) |
 | Dash Out | 217308 | [217308-dash-out.json](./217308-dash-out.json) |
@@ -2093,6 +2095,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decision | 299762 | [299762-decision.json](./299762-decision.json) |
 | Decision in the Desert | 25923 | [25923-decision-in-the-desert.json](./25923-decision-in-the-desert.json) |
 | Decision: Red Daze | 152780 | [152780-decision-red-daze.json](./152780-decision-red-daze.json) |
+| Decisive Battles of the American Civil War, Volume One | 54516 | [54516-decisive-battles-of-the-american-civil-war-volume-one.json](./54516-decisive-battles-of-the-american-civil-war-volume-one.json) |
+| Decisive Battles of the American Civil War, Volume Three | 54518 | [54518-decisive-battles-of-the-american-civil-war-volume-three.json](./54518-decisive-battles-of-the-american-civil-war-volume-three.json) |
+| Decisive Battles of the American Civil War, Volume Two | 54517 | [54517-decisive-battles-of-the-american-civil-war-volume-two.json](./54517-decisive-battles-of-the-american-civil-war-volume-two.json) |
 | Decisive Battles of WWII: Korsun Pocket | 768 | [768-decisive-battles-of-wwii-korsun-pocket.json](./768-decisive-battles-of-wwii-korsun-pocket.json) |
 | Decisive Campaigns: Barbarossa | 33205 | [33205-decisive-campaigns-barbarossa.json](./33205-decisive-campaigns-barbarossa.json) |
 | Deck Adventurers II | 199570 | [199570-deck-adventurers-ii.json](./199570-deck-adventurers-ii.json) |
@@ -3308,6 +3313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detourist | 278744 | [278744-detourist.json](./278744-detourist.json) |
 | Detox | 181882 | [181882-detox.json](./181882-detox.json) |
 | Detra | 345560 | [345560-detra.json](./345560-detra.json) |
+| Detrita Battlegrounds | 54494 | [54494-detrita-battlegrounds.json](./54494-detrita-battlegrounds.json) |
 | Detritus | 192392 | [192392-detritus.json](./192392-detritus.json) |
 | Detroit | 71813 | [71813-detroit.json](./71813-detroit.json) |
 | Detuned | 239317 | [239317-detuned.json](./239317-detuned.json) |
@@ -4950,6 +4956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Fight Super Ultra Deluxe | 109647 | [109647-dog-fight-super-ultra-deluxe.json](./109647-dog-fight-super-ultra-deluxe.json) |
 | Dog Galore | 181927 | [181927-dog-galore.json](./181927-dog-galore.json) |
 | Dog Game! | 229354 | [229354-dog-game.json](./229354-dog-game.json) |
+| Dog Gone Golfing | 54498 | [54498-dog-gone-golfing.json](./54498-dog-gone-golfing.json) |
 | Dog Guardian and the Fallen Star | 181863 | [181863-dog-guardian-and-the-fallen-star.json](./181863-dog-guardian-and-the-fallen-star.json) |
 | Dog In A Box | 113058 | [113058-dog-in-a-box.json](./113058-dog-in-a-box.json) |
 | Dog in the City | 139926 | [139926-dog-in-the-city.json](./139926-dog-in-the-city.json) |
@@ -6661,6 +6668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Rider Plus | 175394 | [175394-draw-rider-plus.json](./175394-draw-rider-plus.json) |
 | Draw Saber | 206718 | [206718-draw-saber.json](./206718-draw-saber.json) |
 | Draw Something 2 | 38913 | [38913-draw-something-2.json](./38913-draw-something-2.json) |
+| Draw Souls | 54488 | [54488-draw-souls.json](./54488-draw-souls.json) |
 | Draw Stuff | 65043 | [65043-draw-stuff.json](./65043-draw-stuff.json) |
 | Draw Sword | 358926 | [358926-draw-sword.json](./358926-draw-sword.json) |
 | Draw the Hands | 405580 | [405580-draw-the-hands.json](./405580-draw-the-hands.json) |
