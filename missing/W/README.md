@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wake & Lunnye Devitsy | 50829 | [50829-wake-and-lunnye-devitsy.json](./50829-wake-and-lunnye-devitsy.json) |
 | Wake of Ragnarok | 211274 | [211274-wake-of-ragnarok.json](./211274-wake-of-ragnarok.json) |
 | Wake the Dead | 313864 | [313864-wake-the-dead.json](./313864-wake-the-dead.json) |
+| Wake the Dragon | 32069 | [32069-wake-the-dragon.json](./32069-wake-the-dragon.json) |
 | Wake Up | 178453 | [178453-wake-up.json](./178453-wake-up.json) |
 | Wake Up | 22435 | [22435-wake-up.json](./22435-wake-up.json) |
 | Wake Up and Jump! | 392480 | [392480-wake-up-and-jump.json](./392480-wake-up-and-jump.json) |
@@ -1330,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weather Lord: Hidden Realm | 46872 | [46872-weather-lord-hidden-realm.json](./46872-weather-lord-hidden-realm.json) |
 | Weather Lord: In Search of the Shaman | 46873 | [46873-weather-lord-in-search-of-the-shaman.json](./46873-weather-lord-in-search-of-the-shaman.json) |
 | Weather Lord: Legendary Hero | 53918 | [53918-weather-lord-legendary-hero.json](./53918-weather-lord-legendary-hero.json) |
+| Weather Lord: Legendary Hero - Collector's Edition | 32114 | [32114-weather-lord-legendary-hero-collectors-edition.json](./32114-weather-lord-legendary-hero-collectors-edition.json) |
 | Weather Lord: Royal Holidays | 53917 | [53917-weather-lord-royal-holidays.json](./53917-weather-lord-royal-holidays.json) |
 | Weather Report | 362919 | [362919-weather-report.json](./362919-weather-report.json) |
 | Weathered | 62827 | [62827-weathered.json](./62827-weathered.json) |
@@ -2385,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Simulator: Bear | 86905 | [86905-wildlife-simulator-bear.json](./86905-wildlife-simulator-bear.json) |
 | Wildlife Simulator: Crocodile | 96723 | [96723-wildlife-simulator-crocodile.json](./96723-wildlife-simulator-crocodile.json) |
 | Wildlife Simulator: Wolf | 86902 | [86902-wildlife-simulator-wolf.json](./86902-wildlife-simulator-wolf.json) |
+| Wildlife VR | 32111 | [32111-wildlife-vr.json](./32111-wildlife-vr.json) |
 | Wildmagic Wizardry | 270106 | [270106-wildmagic-wizardry.json](./270106-wildmagic-wizardry.json) |
 | Wildmender | 204541 | [204541-wildmender.json](./204541-wildmender.json) |
 | Wilds of the Realmwalker | 356747 | [356747-wilds-of-the-realmwalker.json](./356747-wilds-of-the-realmwalker.json) |
