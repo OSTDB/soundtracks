@@ -778,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Pilot | 199364 | [199364-omega-pilot.json](./199364-omega-pilot.json) |
 | Omega Protocol | 374633 | [374633-omega-protocol.json](./374633-omega-protocol.json) |
 | Omega Quintet: Limited Edition | 166239 | [166239-omega-quintet-limited-edition.json](./166239-omega-quintet-limited-edition.json) |
+| Omega Race | 18562 | [18562-omega-race.json](./18562-omega-race.json) |
 | Omega Racers | 122185 | [122185-omega-racers.json](./122185-omega-racers.json) |
 | Omega Rally Championship | 132162 | [132162-omega-rally-championship.json](./132162-omega-rally-championship.json) |
 | Omega Run | 70366 | [70366-omega-run.json](./70366-omega-run.json) |
