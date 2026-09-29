@@ -729,6 +729,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keio Flying Squadron | 12912 | [12912-keio-flying-squadron.json](./12912-keio-flying-squadron.json) |
 | Keio Flying Squadron 2 | 19417 | [19417-keio-flying-squadron-2.json](./19417-keio-flying-squadron-2.json) |
 | Keisan 100 Renda | 67369 | [67369-keisan-100-renda.json](./67369-keisan-100-renda.json) |
+| Keisan Game: Sansuu 1-nen | 58881 | [58881-keisan-game-sansuu-1-nen.json](./58881-keisan-game-sansuu-1-nen.json) |
+| Keisan Game: Sansuu 2-nen | 58883 | [58883-keisan-game-sansuu-2-nen.json](./58883-keisan-game-sansuu-2-nen.json) |
+| Keisan Game: Sansuu 3-nen | 58880 | [58880-keisan-game-sansuu-3-nen.json](./58880-keisan-game-sansuu-3-nen.json) |
+| Keisan Game: Sansuu 4-nen | 58871 | [58871-keisan-game-sansuu-4-nen.json](./58871-keisan-game-sansuu-4-nen.json) |
+| Keisan Game: Sansuu 5+6-nen | 58870 | [58870-keisan-game-sansuu-5-6-nen.json](./58870-keisan-game-sansuu-5-6-nen.json) |
 | Keitai Shoujo: Koi+Hime - Koi ni Ochita Cinderella-hime | 292148 | [292148-keitai-shoujo-koi-hime-koi-ni-ochita-cinderella-hime.json](./292148-keitai-shoujo-koi-hime-koi-ni-ochita-cinderella-hime.json) |
 | Keith Courage in Alpha Zones | 42122 | [42122-keith-courage-in-alpha-zones.json](./42122-keith-courage-in-alpha-zones.json) |
 | Keith Van Eron's Pro Soccer | 15264 | [15264-keith-van-erons-pro-soccer.json](./15264-keith-van-erons-pro-soccer.json) |
@@ -1068,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiko: The Last Totem | 92080 | [92080-kiko-the-last-totem.json](./92080-kiko-the-last-totem.json) |
 | Kiko's Apple Adventure | 336635 | [336635-kikos-apple-adventure.json](./336635-kikos-apple-adventure.json) |
 | Kikokugai | 232662 | [232662-kikokugai.json](./232662-kikokugai.json) |
+| Kikou Heidan J-Phoenix + | 58879 | [58879-kikou-heidan-j-phoenix.json](./58879-kikou-heidan-j-phoenix.json) |
 | Kikou Seiki Unitron | 43969 | [43969-kikou-seiki-unitron.json](./43969-kikou-seiki-unitron.json) |
 | Kikou Souhei Armodyne | 59076 | [59076-kikou-souhei-armodyne.json](./59076-kikou-souhei-armodyne.json) |
 | Kikstart | 25966 | [25966-kikstart.json](./25966-kikstart.json) |
