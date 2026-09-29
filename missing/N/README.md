@@ -871,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Nitro | 248127 | [248127-need-for-speed-nitro.json](./248127-need-for-speed-nitro.json) |
 | Need for Speed: Porsche Unleashed | 248143 | [248143-need-for-speed-porsche-unleashed.json](./248143-need-for-speed-porsche-unleashed.json) |
 | Need for Speed: Porsche Unleashed | 94 | [94-need-for-speed-porsche-unleashed.json](./94-need-for-speed-porsche-unleashed.json) |
+| Need for Speed: ProStreet | 210431 | [210431-need-for-speed-prostreet.json](./210431-need-for-speed-prostreet.json) |
 | Need for Speed: ProStreet | 240505 | [240505-need-for-speed-prostreet.json](./240505-need-for-speed-prostreet.json) |
 | Need for Speed: ProStreet | 248125 | [248125-need-for-speed-prostreet.json](./248125-need-for-speed-prostreet.json) |
 | Need for Speed: ProStreet | 248126 | [248126-need-for-speed-prostreet.json](./248126-need-for-speed-prostreet.json) |
@@ -1043,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis: The Final Challenge | 262392 | [262392-nemesis-the-final-challenge.json](./262392-nemesis-the-final-challenge.json) |
 | Nemexia | 142976 | [142976-nemexia.json](./142976-nemexia.json) |
 | Nemezis: Mysterious Journey III - Deluxe Edition | 159692 | [159692-nemezis-mysterious-journey-iii-deluxe-edition.json](./159692-nemezis-mysterious-journey-iii-deluxe-edition.json) |
+| Nemixar | 396003 | [396003-nemixar.json](./396003-nemixar.json) |
 | Nemo | 303778 | [303778-nemo.json](./303778-nemo.json) |
 | Nemo is going to School | 264105 | [264105-nemo-is-going-to-school.json](./264105-nemo-is-going-to-school.json) |
 | Nemo: Puzzle Pack II | 303779 | [303779-nemo-puzzle-pack-ii.json](./303779-nemo-puzzle-pack-ii.json) |
