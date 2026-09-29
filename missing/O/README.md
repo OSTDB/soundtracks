@@ -1278,6 +1278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Word by Powgi | 104621 | [104621-one-word-by-powgi.json](./104621-one-word-by-powgi.json) |
 | One-Armed Cook: Drinks and Bars | 236237 | [236237-one-armed-cook-drinks-and-bars.json](./236237-one-armed-cook-drinks-and-bars.json) |
 | One-armed Cook: Ships and Oceans | 247784 | [247784-one-armed-cook-ships-and-oceans.json](./247784-one-armed-cook-ships-and-oceans.json) |
+| One-Eyed Jak | 34603 | [34603-one-eyed-jak.json](./34603-one-eyed-jak.json) |
 | One-Eyed Lee and the Dinner Party | 127382 | [127382-one-eyed-lee-and-the-dinner-party.json](./127382-one-eyed-lee-and-the-dinner-party.json) |
 | One-Eyed Likho | 250955 | [250955-one-eyed-likho.json](./250955-one-eyed-likho.json) |
 | One-Hit Slayer! Swordog | 367963 | [367963-one-hit-slayer-swordog.json](./367963-one-hit-slayer-swordog.json) |
@@ -2676,6 +2677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owner | 295528 | [295528-owner.json](./295528-owner.json) |
 | OwnRulesRPG | 259845 | [259845-ownrulesrpg.json](./259845-ownrulesrpg.json) |
 | Owyn's Adventure | 116482 | [116482-owyns-adventure.json](./116482-owyns-adventure.json) |
+| Owys | 34642 | [34642-owys.json](./34642-owys.json) |
 | Oxenfree: Collector's Edition | 51536 | [51536-oxenfree-collectors-edition.json](./51536-oxenfree-collectors-edition.json) |
 | Oxidus Tales | 350602 | [350602-oxidus-tales.json](./350602-oxidus-tales.json) |
 | Oxxonian | 74424 | [74424-oxxonian.json](./74424-oxxonian.json) |
