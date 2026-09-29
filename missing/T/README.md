@@ -2801,6 +2801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bard's Tale: Tales of the Unknown | 394232 | [394232-the-bards-tale-tales-of-the-unknown.json](./394232-the-bards-tale-tales-of-the-unknown.json) |
 | The Bardic Rites | 58856 | [58856-the-bardic-rites.json](./58856-the-bardic-rites.json) |
 | The Barkeeper | 332847 | [332847-the-barkeeper.json](./332847-the-barkeeper.json) |
+| The Baron Got You Again | 54523 | [54523-the-baron-got-you-again.json](./54523-the-baron-got-you-again.json) |
 | The Baseball 2003 | 61401 | [61401-the-baseball-2003.json](./61401-the-baseball-2003.json) |
 | The Baseball T | 217912 | [217912-the-baseball-t.json](./217912-the-baseball-t.json) |
 | The Based Turnabout | 308419 | [308419-the-based-turnabout.json](./308419-the-based-turnabout.json) |
@@ -13820,6 +13821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TripleA | 124699 | [124699-triplea.json](./124699-triplea.json) |
 | TripleBuilder | 161168 | [161168-triplebuilder.json](./161168-triplebuilder.json) |
 | Triplets Trouble!!! | 262903 | [262903-triplets-trouble.json](./262903-triplets-trouble.json) |
+| Triplicata | 54537 | [54537-triplicata.json](./54537-triplicata.json) |
 | Tripp | 144866 | [144866-tripp.json](./144866-tripp.json) |
 | Trippy Jump | 101329 | [101329-trippy-jump.json](./101329-trippy-jump.json) |
 | TripSync | 189179 | [189179-tripsync.json](./189179-tripsync.json) |
