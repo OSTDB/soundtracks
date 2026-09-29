@@ -2211,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mask of the Plague Doctor | 129712 | [129712-mask-of-the-plague-doctor.json](./129712-mask-of-the-plague-doctor.json) |
 | Mask Quest | 236934 | [236934-mask-quest.json](./236934-mask-quest.json) |
 | Mask Two Two | 198378 | [198378-mask-two-two.json](./198378-mask-two-two.json) |
+| Mask Two Two | 40937 | [40937-mask-two-two.json](./40937-mask-two-two.json) |
 | Mask: Beyond Lies | 255988 | [255988-mask-beyond-lies.json](./255988-mask-beyond-lies.json) |
 | Maskarable | 315108 | [315108-maskarable.json](./315108-maskarable.json) |
 | Masked | 120940 | [120940-masked.json](./120940-masked.json) |
@@ -7180,6 +7181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Archer Shooting Stars | 177917 | [177917-moon-archer-shooting-stars.json](./177917-moon-archer-shooting-stars.json) |
 | Moon Ball Magic | 41402 | [41402-moon-ball-magic.json](./41402-moon-ball-magic.json) |
 | Moon Blue Legend Remake | 394175 | [394175-moon-blue-legend-remake.json](./394175-moon-blue-legend-remake.json) |
+| Moon Buggy | 40930 | [40930-moon-buggy.json](./40930-moon-buggy.json) |
 | Moon Bugs | 57652 | [57652-moon-bugs.json](./57652-moon-bugs.json) |
 | Moon Castle | 89404 | [89404-moon-castle.json](./89404-moon-castle.json) |
 | Moon Child | 108279 | [108279-moon-child.json](./108279-moon-child.json) |
@@ -8178,6 +8180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Pac-Man: Quest for the Golden Maze | 71475 | [71475-ms-pac-man-quest-for-the-golden-maze.json](./71475-ms-pac-man-quest-for-the-golden-maze.json) |
 | Ms. Pac-Man: Speedup | 308393 | [308393-ms-pac-man-speedup.json](./308393-ms-pac-man-speedup.json) |
 | Ms. Rufiia's Struggle for Repayment: To Be a Lewd Arcdaemon | 82882 | [82882-ms-rufiias-struggle-for-repayment-to-be-a-lewd-arcdaemon.json](./82882-ms-rufiias-struggle-for-repayment-to-be-a-lewd-arcdaemon.json) |
+| Ms. Space Fury | 40925 | [40925-ms-space-fury.json](./40925-ms-space-fury.json) |
 | Ms. Spinderella | 408299 | [408299-ms-spinderella.json](./408299-ms-spinderella.json) |
 | Ms. Squeaker's Home for the Sick | 109402 | [109402-ms-squeakers-home-for-the-sick.json](./109402-ms-squeakers-home-for-the-sick.json) |
 | Ms.Lemons | 240156 | [240156-ms-lemons.json](./240156-ms-lemons.json) |
