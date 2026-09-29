@@ -4261,6 +4261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Island | 334317 | [334317-rock-island.json](./334317-rock-island.json) |
 | Rock Life: The Rock Simulator - Rock Pack #2 | 286527 | [286527-rock-life-the-rock-simulator-rock-pack-2.json](./286527-rock-life-the-rock-simulator-rock-pack-2.json) |
 | Rock Life: The Rock Simulator - Rock Pack #3 | 302941 | [302941-rock-life-the-rock-simulator-rock-pack-3.json](./302941-rock-life-the-rock-simulator-rock-pack-3.json) |
+| Rock n' Roll Racing | 6564 | [6564-rock-n-roll-racing.json](./6564-rock-n-roll-racing.json) |
 | Rock n' Roll Racing Hack v16 | 270219 | [270219-rock-n-roll-racing-hack-v16.json](./270219-rock-n-roll-racing-hack-v16.json) |
 | Rock of Ages 2: Complete Bundle | 118905 | [118905-rock-of-ages-2-complete-bundle.json](./118905-rock-of-ages-2-complete-bundle.json) |
 | Rock of Ages 3: Make & Break | 121714 | [121714-rock-of-ages-3-make-and-break.json](./121714-rock-of-ages-3-make-and-break.json) |
