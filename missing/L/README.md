@@ -482,6 +482,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laserade: Sugar Rush | 348452 | [348452-laserade-sugar-rush.json](./348452-laserade-sugar-rush.json) |
 | Laserbirds | 217986 | [217986-laserbirds.json](./217986-laserbirds.json) |
 | Laserboy | 182357 | [182357-laserboy.json](./182357-laserboy.json) |
+| Laserbreak | 57732 | [57732-laserbreak.json](./57732-laserbreak.json) |
+| Laserbreak 2 | 57727 | [57727-laserbreak-2.json](./57727-laserbreak-2.json) |
+| Laserbreak: Esacpe | 57729 | [57729-laserbreak-esacpe.json](./57729-laserbreak-esacpe.json) |
+| Laserbreak: Renegades | 57730 | [57730-laserbreak-renegades.json](./57730-laserbreak-renegades.json) |
 | LaserCat | 32271 | [32271-lasercat.json](./32271-lasercat.json) |
 | Laserium | 104086 | [104086-laserium.json](./104086-laserium.json) |
 | Laserpitium | 249307 | [249307-laserpitium.json](./249307-laserpitium.json) |
@@ -957,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leap | 186763 | [186763-leap.json](./186763-leap.json) |
 | Leap 'n Bump! | 303623 | [303623-leap-n-bump.json](./303623-leap-n-bump.json) |
 | Leap A Head | 395710 | [395710-leap-a-head.json](./395710-leap-a-head.json) |
+| Leap Day | 57759 | [57759-leap-day.json](./57759-leap-day.json) |
 | Leap Frog | 388926 | [388926-leap-frog.json](./388926-leap-frog.json) |
 | Leap Frog | 89158 | [89158-leap-frog.json](./89158-leap-frog.json) |
 | Leap in Bootstrap | 254530 | [254530-leap-in-bootstrap.json](./254530-leap-in-bootstrap.json) |
@@ -2082,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Fingers | 69487 | [69487-light-fingers.json](./69487-light-fingers.json) |
 | Light Followers: Blinded by the Dark | 349886 | [349886-light-followers-blinded-by-the-dark.json](./349886-light-followers-blinded-by-the-dark.json) |
 | Light Gravity Cube | 37042 | [37042-light-gravity-cube.json](./37042-light-gravity-cube.json) |
+| Light House | 57746 | [57746-light-house.json](./57746-light-house.json) |
 | Light House Puzzle | 110969 | [110969-light-house-puzzle.json](./110969-light-house-puzzle.json) |
 | Light Hunters: Battalion of Darkness | 126515 | [126515-light-hunters-battalion-of-darkness.json](./126515-light-hunters-battalion-of-darkness.json) |
 | Light In Blood | 277003 | [277003-light-in-blood.json](./277003-light-in-blood.json) |
@@ -3776,6 +3782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovanium: The Rising Suns | 265633 | [265633-lovanium-the-rising-suns.json](./265633-lovanium-the-rising-suns.json) |
 | Love & Destroy | 63368 | [63368-love-and-destroy.json](./63368-love-and-destroy.json) |
 | Love & Friendship | 177347 | [177347-love-and-friendship.json](./177347-love-and-friendship.json) |
+| Love & Hip Hop the Game | 57752 | [57752-love-and-hip-hop-the-game.json](./57752-love-and-hip-hop-the-game.json) |
 | Love & Sex: Second Base | 229010 | [229010-love-and-sex-second-base.json](./229010-love-and-sex-second-base.json) |
 | Love 2 Torokko | 143667 | [143667-love-2-torokko.json](./143667-love-2-torokko.json) |
 | Love 3 | 161222 | [161222-love-3.json](./161222-love-3.json) |
