@@ -3128,6 +3128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altered Beast | 19411 | [19411-altered-beast.json](./19411-altered-beast.json) |
 | Altered Beast | 200151 | [200151-altered-beast.json](./200151-altered-beast.json) |
 | Altered Beast | 202941 | [202941-altered-beast.json](./202941-altered-beast.json) |
+| Altered Beast | 2604 | [2604-altered-beast.json](./2604-altered-beast.json) |
 | Alteredblood+ | 398990 | [398990-alteredblood.json](./398990-alteredblood.json) |
 | AlterEgo | 178545 | [178545-alterego.json](./178545-alterego.json) |
 | AlterEgo City | 306643 | [306643-alterego-city.json](./306643-alterego-city.json) |
@@ -3528,6 +3529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amnesia World | 62755 | [62755-amnesia-world.json](./62755-amnesia-world.json) |
 | Amnesia: A Coward's Debt | 352198 | [352198-amnesia-a-cowards-debt.json](./352198-amnesia-a-cowards-debt.json) |
 | Amnesia: Day One Edition Dual Pack | 196820 | [196820-amnesia-day-one-edition-dual-pack.json](./196820-amnesia-day-one-edition-dual-pack.json) |
+| Amnesia: Rebirth | 131785 | [131785-amnesia-rebirth.json](./131785-amnesia-rebirth.json) |
 | Amnios | 14254 | [14254-amnios.json](./14254-amnios.json) |
 | Amnork | 62239 | [62239-amnork.json](./62239-amnork.json) |
 | Amo | 293087 | [293087-amo.json](./293087-amo.json) |
@@ -5721,6 +5723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkana Senki Ludo | 166163 | [166163-arkana-senki-ludo.json](./166163-arkana-senki-ludo.json) |
 | ArkanDOS | 82486 | [82486-arkandos.json](./82486-arkandos.json) |
 | Arkane Rush Multiverse Mayhem | 114163 | [114163-arkane-rush-multiverse-mayhem.json](./114163-arkane-rush-multiverse-mayhem.json) |
+| Arkanoid | 4595 | [4595-arkanoid.json](./4595-arkanoid.json) |
 | Arkanoid 2000 | 80599 | [80599-arkanoid-2000.json](./80599-arkanoid-2000.json) |
 | Arkanoid Returns | 13685 | [13685-arkanoid-returns.json](./13685-arkanoid-returns.json) |
 | Arkanoid vs. Space Invaders | 56018 | [56018-arkanoid-vs-space-invaders.json](./56018-arkanoid-vs-space-invaders.json) |
@@ -6368,6 +6371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed II: Black Edition | 308958 | [308958-assassins-creed-ii-black-edition.json](./308958-assassins-creed-ii-black-edition.json) |
 | Assassin's Creed II: Ultimate Edition | 118455 | [118455-assassins-creed-ii-ultimate-edition.json](./118455-assassins-creed-ii-ultimate-edition.json) |
 | Assassin's Creed II: White Edition | 308957 | [308957-assassins-creed-ii-white-edition.json](./308957-assassins-creed-ii-white-edition.json) |
+| Assassin's Creed III Remastered | 109532 | [109532-assassins-creed-iii-remastered.json](./109532-assassins-creed-iii-remastered.json) |
 | Assassin's Creed III: Benedict Arnold | 261996 | [261996-assassins-creed-iii-benedict-arnold.json](./261996-assassins-creed-iii-benedict-arnold.json) |
 | Assassin's Creed III: Liberation | 3195 | [3195-assassins-creed-iii-liberation.json](./3195-assassins-creed-iii-liberation.json) |
 | Assassin's Creed III: Limited Edition | 136288 | [136288-assassins-creed-iii-limited-edition.json](./136288-assassins-creed-iii-limited-edition.json) |
@@ -6415,6 +6419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Valhalla: Title Update 1.5.1 | 222819 | [222819-assassins-creed-valhalla-title-update-1-5-1.json](./222819-assassins-creed-valhalla-title-update-1-5-1.json) |
 | Assassin's Creed Valhalla: Tombs of the Fallen | 222834 | [222834-assassins-creed-valhalla-tombs-of-the-fallen.json](./222834-assassins-creed-valhalla-tombs-of-the-fallen.json) |
 | Assassin's Creed Valhalla: Tombs of the Fallen Pack 2 | 222835 | [222835-assassins-creed-valhalla-tombs-of-the-fallen-pack-2.json](./222835-assassins-creed-valhalla-tombs-of-the-fallen-pack-2.json) |
+| Assassin's Creed: Bloodlines | 10661 | [10661-assassins-creed-bloodlines.json](./10661-assassins-creed-bloodlines.json) |
 | Assassin's Creed: Bloodsail | 26917 | [26917-assassins-creed-bloodsail.json](./26917-assassins-creed-bloodsail.json) |
 | Assassin's Creed: Brotherhood - Animus Project Update 2.0 | 405514 | [405514-assassins-creed-brotherhood-animus-project-update-2-0.json](./405514-assassins-creed-brotherhood-animus-project-update-2-0.json) |
 | Assassin's Creed: Brotherhood Mobile | 68528 | [68528-assassins-creed-brotherhood-mobile.json](./68528-assassins-creed-brotherhood-mobile.json) |
