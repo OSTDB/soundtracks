@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| V - The Visitors | 39141 | [39141-v-the-visitors.json](./39141-v-the-visitors.json) |
 | V Bomb | 318753 | [318753-v-bomb.json](./318753-v-bomb.json) |
 | V Burster | 202259 | [202259-v-burster.json](./202259-v-burster.json) |
 | V de Vinagre | 282098 | [282098-v-de-vinagre.json](./282098-v-de-vinagre.json) |
@@ -642,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venison County | 387672 | [387672-venison-county.json](./387672-venison-county.json) |
 | VeniVidiFutzi | 271731 | [271731-venividifutzi.json](./271731-venividifutzi.json) |
 | Venny's Vinyl Shop | 381677 | [381677-vennys-vinyl-shop.json](./381677-vennys-vinyl-shop.json) |
+| Venom Strikes Back | 39124 | [39124-venom-strikes-back.json](./39124-venom-strikes-back.json) |
 | Venomous | 338573 | [338573-venomous.json](./338573-venomous.json) |
 | Venture | 94741 | [94741-venture.json](./94741-venture.json) |
 | Venture Arctic | 66707 | [66707-venture-arctic.json](./66707-venture-arctic.json) |
