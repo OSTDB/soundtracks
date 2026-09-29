@@ -2440,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in Windowland | 218120 | [218120-alice-in-windowland.json](./218120-alice-in-windowland.json) |
 | Alice in Wonderland | 175929 | [175929-alice-in-wonderland.json](./175929-alice-in-wonderland.json) |
 | Alice in Wonderland | 196846 | [196846-alice-in-wonderland.json](./196846-alice-in-wonderland.json) |
+| Alice in Wonderland | 50016 | [50016-alice-in-wonderland.json](./50016-alice-in-wonderland.json) |
 | Alice in Wonderland: 3D Game | 102945 | [102945-alice-in-wonderland-3d-game.json](./102945-alice-in-wonderland-3d-game.json) |
 | Alice In Wonderland: A New Champion | 62811 | [62811-alice-in-wonderland-a-new-champion.json](./62811-alice-in-wonderland-a-new-champion.json) |
 | Alice in Wonderland: Jigsaw Puzzle | 207804 | [207804-alice-in-wonderland-jigsaw-puzzle.json](./207804-alice-in-wonderland-jigsaw-puzzle.json) |
@@ -4497,6 +4498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AntWar.io | 185442 | [185442-antwar-io.json](./185442-antwar-io.json) |
 | Anty | 47546 | [47546-anty.json](./47546-anty.json) |
 | Antz Extreme Racing | 248605 | [248605-antz-extreme-racing.json](./248605-antz-extreme-racing.json) |
+| Antz World Sportz | 50059 | [50059-antz-world-sportz.json](./50059-antz-world-sportz.json) |
 | Antz: Panic in the Anthill! | 371232 | [371232-antz-panic-in-the-anthill.json](./371232-antz-panic-in-the-anthill.json) |
 | Anubis Clicker | 236535 | [236535-anubis-clicker.json](./236535-anubis-clicker.json) |
 | Anura | 347364 | [347364-anura.json](./347364-anura.json) |
@@ -4800,6 +4802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AquaDream | 330146 | [330146-aquadream.json](./330146-aquadream.json) |
 | AquaFantasia | 297786 | [297786-aquafantasia.json](./297786-aquafantasia.json) |
 | AquaHero | 237665 | [237665-aquahero.json](./237665-aquahero.json) |
+| Aqualife | 50021 | [50021-aqualife.json](./50021-aqualife.json) |
 | AquaLife 3D | 288877 | [288877-aqualife-3d.json](./288877-aqualife-3d.json) |
 | Aquametsis | 278427 | [278427-aquametsis.json](./278427-aquametsis.json) |
 | AquaMoto Racing 3D | 23521 | [23521-aquamoto-racing-3d.json](./23521-aquamoto-racing-3d.json) |
@@ -5618,6 +5621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ARL 96 | 93147 | [93147-arl-96.json](./93147-arl-96.json) |
 | Arla Milkout! | 314036 | [314036-arla-milkout.json](./314036-arla-milkout.json) |
 | Arlcoco: The One Winged Princess Pet | 82774 | [82774-arlcoco-the-one-winged-princess-pet.json](./82774-arlcoco-the-one-winged-princess-pet.json) |
+| Arle no Bouken: Mahou no Jewel | 50020 | [50020-arle-no-bouken-mahou-no-jewel.json](./50020-arle-no-bouken-mahou-no-jewel.json) |
 | Arlyeh Center for Heart Diseases | 271218 | [271218-arlyeh-center-for-heart-diseases.json](./271218-arlyeh-center-for-heart-diseases.json) |
 | Arm Joe | 130876 | [130876-arm-joe.json](./130876-arm-joe.json) |
 | Arma 2: Army of the Czech Republic | 15869 | [15869-arma-2-army-of-the-czech-republic.json](./15869-arma-2-army-of-the-czech-republic.json) |
@@ -6407,6 +6411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astérix: Caesar's Challenge | 45944 | [45944-asterix-caesars-challenge.json](./45944-asterix-caesars-challenge.json) |
 | Astérix: Hunt for the Boars | 305276 | [305276-asterix-hunt-for-the-boars.json](./305276-asterix-hunt-for-the-boars.json) |
 | Astérix: Hunt for the Boars | 347903 | [347903-asterix-hunt-for-the-boars.json](./347903-asterix-hunt-for-the-boars.json) |
+| Astérix: Search for Dogmatix | 50019 | [50019-asterix-search-for-dogmatix.json](./50019-asterix-search-for-dogmatix.json) |
 | Asterix: The Official Mobile Game of the Movie | 297590 | [297590-asterix-the-official-mobile-game-of-the-movie.json](./297590-asterix-the-official-mobile-game-of-the-movie.json) |
 | Astérix: These Romans Are Crazy! | 269567 | [269567-asterix-these-romans-are-crazy.json](./269567-asterix-these-romans-are-crazy.json) |
 | AsterMaster | 418795 | [418795-astermaster.json](./418795-astermaster.json) |
@@ -6954,6 +6959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atropos | 326240 | [326240-atropos.json](./326240-atropos.json) |
 | Atrox | 73551 | [73551-atrox.json](./73551-atrox.json) |
 | ATSS Retribution II | 224100 | [224100-atss-retribution-ii.json](./224100-atss-retribution-ii.json) |
+| Atsumete Asobu Kuma no Pooh-san: Mori no Takaramono | 50018 | [50018-atsumete-asobu-kuma-no-pooh-san-mori-no-takaramono.json](./50018-atsumete-asobu-kuma-no-pooh-san-mori-no-takaramono.json) |
 | Atsumete! Banki-chan | 216353 | [216353-atsumete-banki-chan.json](./216353-atsumete-banki-chan.json) |
 | Attachment Not Found | 256787 | [256787-attachment-not-found.json](./256787-attachment-not-found.json) |
 | Attack Animal Gakuen | 48601 | [48601-attack-animal-gakuen.json](./48601-attack-animal-gakuen.json) |
