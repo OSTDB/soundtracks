@@ -1495,6 +1495,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realpolitiks II: Deluxe Edition | 159693 | [159693-realpolitiks-ii-deluxe-edition.json](./159693-realpolitiks-ii-deluxe-edition.json) |
 | Realpolitiks Mobile | 97304 | [97304-realpolitiks-mobile.json](./97304-realpolitiks-mobile.json) |
 | Realpolitiks: New Power | 116997 | [116997-realpolitiks-new-power.json](./116997-realpolitiks-new-power.json) |
+| RealSports Baseball | 18416 | [18416-realsports-baseball.json](./18416-realsports-baseball.json) |
+| RealSports Boxing | 18417 | [18417-realsports-boxing.json](./18417-realsports-boxing.json) |
+| RealSports Football | 18418 | [18418-realsports-football.json](./18418-realsports-football.json) |
+| RealSports Tennis | 18419 | [18419-realsports-tennis.json](./18419-realsports-tennis.json) |
+| RealSports Volleyball | 18420 | [18420-realsports-volleyball.json](./18420-realsports-volleyball.json) |
 | Realtor | 273445 | [273445-realtor.json](./273445-realtor.json) |
 | Reanimal | 314265 | [314265-reanimal.json](./314265-reanimal.json) |
 | Reanimal: The Expanded World - Chapter 2 | 395672 | [395672-reanimal-the-expanded-world-chapter-2.json](./395672-reanimal-the-expanded-world-chapter-2.json) |
@@ -3220,6 +3225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddle of the Jelly | 245943 | [245943-riddle-of-the-jelly.json](./245943-riddle-of-the-jelly.json) |
 | Riddle of the Runes: The Worlds of TSR | 360172 | [360172-riddle-of-the-runes-the-worlds-of-tsr.json](./360172-riddle-of-the-runes-the-worlds-of-tsr.json) |
 | Riddle of the Sphinx | 174286 | [174286-riddle-of-the-sphinx.json](./174286-riddle-of-the-sphinx.json) |
+| Riddle of the Sphinx | 18480 | [18480-riddle-of-the-sphinx.json](./18480-riddle-of-the-sphinx.json) |
 | Riddle of the Sphinx: Moonlight Exploration | 169930 | [169930-riddle-of-the-sphinx-moonlight-exploration.json](./169930-riddle-of-the-sphinx-moonlight-exploration.json) |
 | Riddle School | 56438 | [56438-riddle-school.json](./56438-riddle-school.json) |
 | Riddle School 2: Legacy Edition | 180004 | [180004-riddle-school-2-legacy-edition.json](./180004-riddle-school-2-legacy-edition.json) |
@@ -3820,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River King: A Wonderful Journey | 20518 | [20518-river-king-a-wonderful-journey.json](./20518-river-king-a-wonderful-journey.json) |
 | River King: Mystic Valley | 20520 | [20520-river-king-mystic-valley.json](./20520-river-king-mystic-valley.json) |
 | River Legends | 174206 | [174206-river-legends.json](./174206-river-legends.json) |
+| River Patrol | 18478 | [18478-river-patrol.json](./18478-river-patrol.json) |
 | River Raid 3D | 204070 | [204070-river-raid-3d.json](./204070-river-raid-3d.json) |
 | River Rescue | 23897 | [23897-river-rescue.json](./23897-river-rescue.json) |
 | River Runners | 384510 | [384510-river-runners.json](./384510-river-runners.json) |
