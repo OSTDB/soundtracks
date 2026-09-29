@@ -1820,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vribyss Refuge: Metamorphosis | 372002 | [372002-vribyss-refuge-metamorphosis.json](./372002-vribyss-refuge-metamorphosis.json) |
 | VRiczat - The Virtual Reality Cricket Game | 112785 | [112785-vriczat-the-virtual-reality-cricket-game.json](./112785-vriczat-the-virtual-reality-cricket-game.json) |
 | VRiking | 261506 | [261506-vriking.json](./261506-vriking.json) |
+| VRIQ | 29082 | [29082-vriq.json](./29082-vriq.json) |
 | Vritra: Complete Edition | 107917 | [107917-vritra-complete-edition.json](./107917-vritra-complete-edition.json) |
 | VRKraft | 160143 | [160143-vrkraft.json](./160143-vrkraft.json) |
 | Vrkshop | 137621 | [137621-vrkshop.json](./137621-vrkshop.json) |
