@@ -11054,6 +11054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Jedi Knight Collection | 54401 | [54401-star-wars-jedi-knight-collection.json](./54401-star-wars-jedi-knight-collection.json) |
 | Star Wars: Jedi Reading | 91751 | [91751-star-wars-jedi-reading.json](./91751-star-wars-jedi-reading.json) |
 | Star Wars: Knights of the Old Republic - Remake | 168665 | [168665-star-wars-knights-of-the-old-republic-remake.json](./168665-star-wars-knights-of-the-old-republic-remake.json) |
+| Star Wars: Knights of the Old Republic III | 14401 | [14401-star-wars-knights-of-the-old-republic-iii.json](./14401-star-wars-knights-of-the-old-republic-iii.json) |
 | Star Wars: Lethal Alliance | 200677 | [200677-star-wars-lethal-alliance.json](./200677-star-wars-lethal-alliance.json) |
 | Star Wars: Millenium Falcon Challenge | 198922 | [198922-star-wars-millenium-falcon-challenge.json](./198922-star-wars-millenium-falcon-challenge.json) |
 | Star Wars: Outpost | 75087 | [75087-star-wars-outpost.json](./75087-star-wars-outpost.json) |
@@ -11728,7 +11729,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Manticore | 295016 | [295016-steel-manticore.json](./295016-steel-manticore.json) |
 | Steel Ocean | 34752 | [34752-steel-ocean.json](./34752-steel-ocean.json) |
 | Steel Panthers II: Modern Battles - Campaign Disk | 77314 | [77314-steel-panthers-ii-modern-battles-campaign-disk.json](./77314-steel-panthers-ii-modern-battles-campaign-disk.json) |
+| Steel Panthers III: Brigade Command | 14466 | [14466-steel-panthers-iii-brigade-command.json](./14466-steel-panthers-iii-brigade-command.json) |
 | Steel Panthers: Campaign Disk | 72018 | [72018-steel-panthers-campaign-disk.json](./72018-steel-panthers-campaign-disk.json) |
+| Steel Panthers: World War 2 | 14467 | [14467-steel-panthers-world-war-2.json](./14467-steel-panthers-world-war-2.json) |
 | Steel Paws | 325584 | [325584-steel-paws.json](./325584-steel-paws.json) |
 | Steel Racer | 250952 | [250952-steel-racer.json](./250952-steel-racer.json) |
 | Steel Rain | 34833 | [34833-steel-rain.json](./34833-steel-rain.json) |
