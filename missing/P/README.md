@@ -6155,6 +6155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prey 2 | 525 | [525-prey-2.json](./525-prey-2.json) |
 | Prey of the Night | 325626 | [325626-prey-of-the-night.json](./325626-prey-of-the-night.json) |
 | Prey with Gun | 91426 | [91426-prey-with-gun.json](./91426-prey-with-gun.json) |
+| Prey: Limited Collector's Edition | 47397 | [47397-prey-limited-collectors-edition.json](./47397-prey-limited-collectors-edition.json) |
 | Prezzemolo in un Viaggio da Sogno | 305292 | [305292-prezzemolo-in-un-viaggio-da-sogno.json](./305292-prezzemolo-in-un-viaggio-da-sogno.json) |
 | Prezzemolo in una Giornata da Incubo | 93026 | [93026-prezzemolo-in-una-giornata-da-incubo.json](./93026-prezzemolo-in-una-giornata-da-incubo.json) |
 | Prezzies | 270071 | [270071-prezzies.json](./270071-prezzies.json) |
@@ -6243,6 +6244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia | 248579 | [248579-prince-of-persia.json](./248579-prince-of-persia.json) |
 | Prince of Persia | 249150 | [249150-prince-of-persia.json](./249150-prince-of-persia.json) |
 | Prince of Persia | 284776 | [284776-prince-of-persia.json](./284776-prince-of-persia.json) |
+| Prince of Persia : The Forgotten Sands - Limited Collector's Edition | 47459 | [47459-prince-of-persia-the-forgotten-sands-limited-collectors-edition.json](./47459-prince-of-persia-the-forgotten-sands-limited-collectors-edition.json) |
 | Prince of Persia 2: The Shadow and the Flame | 3164 | [3164-prince-of-persia-2-the-shadow-and-the-flame.json](./3164-prince-of-persia-2-the-shadow-and-the-flame.json) |
 | Prince of Persia Classic | 248927 | [248927-prince-of-persia-classic.json](./248927-prince-of-persia-classic.json) |
 | Prince of Persia Trilogy | 44706 | [44706-prince-of-persia-trilogy.json](./44706-prince-of-persia-trilogy.json) |
