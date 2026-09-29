@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can't Stand The Heat | 295007 | [295007-cant-stand-the-heat.json](./295007-cant-stand-the-heat.json) |
 | Can't Stop Running | 391080 | [391080-cant-stop-running.json](./391080-cant-stop-running.json) |
 | Can't You Run? | 343850 | [343850-cant-you-run.json](./343850-cant-you-run.json) |
+| Canada 150 Trivia Quiz | 54544 | [54544-canada-150-trivia-quiz.json](./54544-canada-150-trivia-quiz.json) |
 | Canada Break | 208582 | [208582-canada-break.json](./208582-canada-break.json) |
 | Canada Break: Head to Head | 209618 | [209618-canada-break-head-to-head.json](./209618-canada-break-head-to-head.json) |
 | Canada Clash | 418736 | [418736-canada-clash.json](./418736-canada-clash.json) |
@@ -1496,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castles in the Sky | 62703 | [62703-castles-in-the-sky.json](./62703-castles-in-the-sky.json) |
 | Castles of War | 390630 | [390630-castles-of-war.json](./390630-castles-of-war.json) |
 | Castles: The Northern Campaign | 11269 | [11269-castles-the-northern-campaign.json](./11269-castles-the-northern-campaign.json) |
+| CastleStorm VR | 54532 | [54532-castlestorm-vr.json](./54532-castlestorm-vr.json) |
 | Castlevania | 1130 | [1130-castlevania.json](./1130-castlevania.json) |
 | Castlevania | 322123 | [322123-castlevania.json](./322123-castlevania.json) |
 | Castlevania | 322127 | [322127-castlevania.json](./322127-castlevania.json) |
@@ -5762,6 +5764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect the World | 300700 | [300700-connect-the-world.json](./300700-connect-the-world.json) |
 | Connect Word | 352256 | [352256-connect-word.json](./352256-connect-word.json) |
 | Connect/Words | 87696 | [87696-connect-words.json](./87696-connect-words.json) |
+| Connected Hearts | 54525 | [54525-connected-hearts.json](./54525-connected-hearts.json) |
 | Connected Hearts: Cost of Beauty DLC | 291064 | [291064-connected-hearts-cost-of-beauty-dlc.json](./291064-connected-hearts-cost-of-beauty-dlc.json) |
 | Connected Hearts: Hour of the Witch | 417688 | [417688-connected-hearts-hour-of-the-witch.json](./417688-connected-hearts-hour-of-the-witch.json) |
 | Connected Hearts: Hour of the Witch - Collector's Edition | 365708 | [365708-connected-hearts-hour-of-the-witch-collectors-edition.json](./365708-connected-hearts-hour-of-the-witch-collectors-edition.json) |
@@ -5855,6 +5858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constriction: 1024 | 315484 | [315484-constriction-1024.json](./315484-constriction-1024.json) |
 | Construct Conspiracy | 252096 | [252096-construct-conspiracy.json](./252096-construct-conspiracy.json) |
 | Construct Farm / Cat Simulator | 381715 | [381715-construct-farm-cat-simulator.json](./381715-construct-farm-cat-simulator.json) |
+| Construct: Embers of Life | 54530 | [54530-construct-embers-of-life.json](./54530-construct-embers-of-life.json) |
 | Construct: Escape the System | 27904 | [27904-construct-escape-the-system.json](./27904-construct-escape-the-system.json) |
 | Construct.AI | 172128 | [172128-construct-ai.json](./172128-construct-ai.json) |
 | Construct&Conquer: The Levant in the 12th Century | 291056 | [291056-construct-and-conquer-the-levant-in-the-12th-century.json](./291056-construct-and-conquer-the-levant-in-the-12th-century.json) |
@@ -8242,6 +8246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubes and More Cubes | 180221 | [180221-cubes-and-more-cubes.json](./180221-cubes-and-more-cubes.json) |
 | Cubes Crush Legend | 174819 | [174819-cubes-crush-legend.json](./174819-cubes-crush-legend.json) |
 | Cubes: Procedural Wonders | 240339 | [240339-cubes-procedural-wonders.json](./240339-cubes-procedural-wonders.json) |
+| Cubeshift | 54542 | [54542-cubeshift.json](./54542-cubeshift.json) |
 | CubeShooter | 203967 | [203967-cubeshooter.json](./203967-cubeshooter.json) |
 | Cubesis | 36225 | [36225-cubesis.json](./36225-cubesis.json) |
 | Cubetory | 340574 | [340574-cubetory.json](./340574-cubetory.json) |
