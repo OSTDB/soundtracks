@@ -2544,6 +2544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Kings | 142246 | [142246-god-kings.json](./142246-god-kings.json) |
 | God Marionette | 82868 | [82868-god-marionette.json](./82868-god-marionette.json) |
 | God Medicine: Fantasy Sekai no Tanjou | 60782 | [60782-god-medicine-fantasy-sekai-no-tanjou.json](./60782-god-medicine-fantasy-sekai-no-tanjou.json) |
+| God of Arrows | 57190 | [57190-god-of-arrows.json](./57190-god-of-arrows.json) |
 | God of Attack VIP | 95864 | [95864-god-of-attack-vip.json](./95864-god-of-attack-vip.json) |
 | God of Battle | 102580 | [102580-god-of-battle.json](./102580-god-of-battle.json) |
 | God of Chaos | 408920 | [408920-god-of-chaos.json](./408920-god-of-chaos.json) |
@@ -3653,6 +3654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Angels Part 2: The Betrayal | 229359 | [229359-gravity-angels-part-2-the-betrayal.json](./229359-gravity-angels-part-2-the-betrayal.json) |
 | Gravity Angels Part 3: Payback | 229360 | [229360-gravity-angels-part-3-payback.json](./229360-gravity-angels-part-3-payback.json) |
 | Gravity Angels Part 4: Death Force | 229361 | [229361-gravity-angels-part-4-death-force.json](./229361-gravity-angels-part-4-death-force.json) |
+| Gravity At Its Finest | 57023 | [57023-gravity-at-its-finest.json](./57023-gravity-at-its-finest.json) |
 | Gravity Backpack | 278134 | [278134-gravity-backpack.json](./278134-gravity-backpack.json) |
 | Gravity Bandits | 213348 | [213348-gravity-bandits.json](./213348-gravity-bandits.json) |
 | Gravity Biker | 391325 | [391325-gravity-biker.json](./391325-gravity-biker.json) |
