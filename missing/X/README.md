@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XenoMiner | 62728 | [62728-xenominer.json](./62728-xenominer.json) |
 | XenoMoon | 216359 | [216359-xenomoon.json](./216359-xenomoon.json) |
 | Xenomorph | 83494 | [83494-xenomorph.json](./83494-xenomorph.json) |
+| Xenon 2: Megablast | 12236 | [12236-xenon-2-megablast.json](./12236-xenon-2-megablast.json) |
 | Xenon Racer | 110585 | [110585-xenon-racer.json](./110585-xenon-racer.json) |
 | Xenon Ranger | 60608 | [60608-xenon-ranger.json](./60608-xenon-ranger.json) |
 | Xenon Runner | 247443 | [247443-xenon-runner.json](./247443-xenon-runner.json) |
