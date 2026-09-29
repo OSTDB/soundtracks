@@ -2728,6 +2728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Zaruban | 159652 | [159652-heroes-of-zaruban.json](./159652-heroes-of-zaruban.json) |
 | Heroes of Zulula | 63381 | [63381-heroes-of-zulula.json](./63381-heroes-of-zulula.json) |
 | Heroes Origins | 266205 | [266205-heroes-origins.json](./266205-heroes-origins.json) |
+| Heroes Over Europe | 7008 | [7008-heroes-over-europe.json](./7008-heroes-over-europe.json) |
 | Heroes Phantasia | 65495 | [65495-heroes-phantasia.json](./65495-heroes-phantasia.json) |
 | Heroes Ravage | 114433 | [114433-heroes-ravage.json](./114433-heroes-ravage.json) |
 | Heroes Reborn: Enigma | 59663 | [59663-heroes-reborn-enigma.json](./59663-heroes-reborn-enigma.json) |
@@ -4729,6 +4730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Shots Golf 3 | 23459 | [23459-hot-shots-golf-3.json](./23459-hot-shots-golf-3.json) |
 | Hot Shots Golf Fore! | 204439 | [204439-hot-shots-golf-fore.json](./204439-hot-shots-golf-fore.json) |
 | Hot Shots Golf: Open Tee 2 | 21050 | [21050-hot-shots-golf-open-tee-2.json](./21050-hot-shots-golf-open-tee-2.json) |
+| Hot Shots Golf: World Invitational | 7301 | [7301-hot-shots-golf-world-invitational.json](./7301-hot-shots-golf-world-invitational.json) |
 | Hot Shots Soccer | 101570 | [101570-hot-shots-soccer.json](./101570-hot-shots-soccer.json) |
 | Hot Slice: Lust Exposed | 340487 | [340487-hot-slice-lust-exposed.json](./340487-hot-slice-lust-exposed.json) |
 | Hot Slide | 152920 | [152920-hot-slide.json](./152920-hot-slide.json) |
