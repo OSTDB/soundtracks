@@ -1817,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vremya-Dyengi | 88275 | [88275-vremya-dyengi.json](./88275-vremya-dyengi.json) |
 | VRetired | 111702 | [111702-vretired.json](./111702-vretired.json) |
 | VRFC Virtual Reality Football Club | 87964 | [87964-vrfc-virtual-reality-football-club.json](./87964-vrfc-virtual-reality-football-club.json) |
+| vRhythm | 25856 | [25856-vrhythm.json](./25856-vrhythm.json) |
 | Vribyss Refuge: Metamorphosis | 372002 | [372002-vribyss-refuge-metamorphosis.json](./372002-vribyss-refuge-metamorphosis.json) |
 | VRiczat - The Virtual Reality Cricket Game | 112785 | [112785-vriczat-the-virtual-reality-cricket-game.json](./112785-vriczat-the-virtual-reality-cricket-game.json) |
 | VRiking | 261506 | [261506-vriking.json](./261506-vriking.json) |
@@ -1895,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vulcan Sacrifice | 53880 | [53880-vulcan-sacrifice.json](./53880-vulcan-sacrifice.json) |
 | Vulcan Tower Defence | 234759 | [234759-vulcan-tower-defence.json](./234759-vulcan-tower-defence.json) |
 | Vulcard | 351715 | [351715-vulcard.json](./351715-vulcard.json) |
+| Vulgus | 25886 | [25886-vulgus.json](./25886-vulgus.json) |
 | Vulpine | 82477 | [82477-vulpine.json](./82477-vulpine.json) |
 | Vultur: Magic Artifact Retrieval Service | 186643 | [186643-vultur-magic-artifact-retrieval-service.json](./186643-vultur-magic-artifact-retrieval-service.json) |
 | Vulture Attack | 40721 | [40721-vulture-attack.json](./40721-vulture-attack.json) |
