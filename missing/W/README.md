@@ -3976,6 +3976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Rumble: Captain & Shark Double Pack | 225087 | [225087-worms-rumble-captain-and-shark-double-pack.json](./225087-worms-rumble-captain-and-shark-double-pack.json) |
 | Worms Rumble: Fully Loaded Edition | 146164 | [146164-worms-rumble-fully-loaded-edition.json](./146164-worms-rumble-fully-loaded-edition.json) |
 | Worms Rumble: Honor & Death Pack | 225089 | [225089-worms-rumble-honor-and-death-pack.json](./225089-worms-rumble-honor-and-death-pack.json) |
+| Worms W.M.D | 19696 | [19696-worms-w-m-d.json](./19696-worms-w-m-d.json) |
 | Worms: A Space Oddity | 5290 | [5290-worms-a-space-oddity.json](./5290-worms-a-space-oddity.json) |
 | Worms: Battle Islands | 5291 | [5291-worms-battle-islands.json](./5291-worms-battle-islands.json) |
 | Worms: Open Warfare 2 | 18314 | [18314-worms-open-warfare-2.json](./18314-worms-open-warfare-2.json) |
@@ -4244,6 +4245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE Raw 2: Ruthless Aggression | 24123 | [24123-wwe-raw-2-ruthless-aggression.json](./24123-wwe-raw-2-ruthless-aggression.json) |
 | WWE Slam | 57378 | [57378-wwe-slam.json](./57378-wwe-slam.json) |
 | WWE SmackDown vs. Raw 2010 | 5300 | [5300-wwe-smackdown-vs-raw-2010.json](./5300-wwe-smackdown-vs-raw-2010.json) |
+| WWE SmackDown vs. Raw 2011 | 2265 | [2265-wwe-smackdown-vs-raw-2011.json](./2265-wwe-smackdown-vs-raw-2011.json) |
 | WWE SmackDown: Shock Value | 260800 | [260800-wwe-smackdown-shock-value.json](./260800-wwe-smackdown-shock-value.json) |
 | WWE SmackDown! Shut Your Mouth | 6461 | [6461-wwe-smackdown-shut-your-mouth.json](./6461-wwe-smackdown-shut-your-mouth.json) |
 | WWE SuperCard | 79072 | [79072-wwe-supercard.json](./79072-wwe-supercard.json) |
