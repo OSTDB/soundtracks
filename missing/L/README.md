@@ -1852,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leviathan: The Cargo | 34262 | [34262-leviathan-the-cargo.json](./34262-leviathan-the-cargo.json) |
 | Leviathan: Warships | 10512 | [10512-leviathan-warships.json](./10512-leviathan-warships.json) |
 | Leviathan's Sword | 199478 | [199478-leviathans-sword.json](./199478-leviathans-sword.json) |
+| Lew Pulsipher's Doomstar | 32151 | [32151-lew-pulsiphers-doomstar.json](./32151-lew-pulsiphers-doomstar.json) |
 | Lewd & Nude: Anime Collector | 368112 | [368112-lewd-and-nude-anime-collector.json](./368112-lewd-and-nude-anime-collector.json) |
 | Lewd Anime Racing | 235725 | [235725-lewd-anime-racing.json](./235725-lewd-anime-racing.json) |
 | Lewd Delivery | 235352 | [235352-lewd-delivery.json](./235352-lewd-delivery.json) |
@@ -2320,6 +2321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limb Lobber | 395707 | [395707-limb-lobber.json](./395707-limb-lobber.json) |
 | Limb: Origins | 337086 | [337086-limb-origins.json](./337086-limb-origins.json) |
 | Limb.Inc | 381275 | [381275-limb-inc.json](./381275-limb-inc.json) |
+| Limberjack | 32123 | [32123-limberjack.json](./32123-limberjack.json) |
 | Limbo 64 | 109488 | [109488-limbo-64.json](./109488-limbo-64.json) |
 | Limbo Line | 215223 | [215223-limbo-line.json](./215223-limbo-line.json) |
 | Limbocore | 177327 | [177327-limbocore.json](./177327-limbocore.json) |
