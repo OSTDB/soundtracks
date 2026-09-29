@@ -1515,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leisure Suit Larry: Love for Sail | 221838 | [221838-leisure-suit-larry-love-for-sail.json](./221838-leisure-suit-larry-love-for-sail.json) |
 | Leisure Suit Larry: Magna Cum Laude | 2913 | [2913-leisure-suit-larry-magna-cum-laude.json](./2913-leisure-suit-larry-magna-cum-laude.json) |
 | Leisure Suit Larry: Wet Dreams Don't Dry | 102087 | [102087-leisure-suit-larry-wet-dreams-dont-dry.json](./102087-leisure-suit-larry-wet-dreams-dont-dry.json) |
+| Leisure Suit Larry: Wet Dreams Dry Twice | 138756 | [138756-leisure-suit-larry-wet-dreams-dry-twice.json](./138756-leisure-suit-larry-wet-dreams-dry-twice.json) |
 | Leisure Suit Larry: Wet Dreams Saga Bundle | 173791 | [173791-leisure-suit-larry-wet-dreams-saga-bundle.json](./173791-leisure-suit-larry-wet-dreams-saga-bundle.json) |
 | Leisure Town | 108424 | [108424-leisure-town.json](./108424-leisure-town.json) |
 | Leisurely Brick | 267656 | [267656-leisurely-brick.json](./267656-leisurely-brick.json) |
@@ -3874,6 +3875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Louny Balloony | 217378 | [217378-louny-balloony.json](./217378-louny-balloony.json) |
 | LouveSystems' TrackMasters | 167607 | [167607-louvesystems-trackmasters.json](./167607-louvesystems-trackmasters.json) |
 | Lovanium: The Rising Suns | 265633 | [265633-lovanium-the-rising-suns.json](./265633-lovanium-the-rising-suns.json) |
+| Love | 16912 | [16912-love.json](./16912-love.json) |
 | Love & Destroy | 63368 | [63368-love-and-destroy.json](./63368-love-and-destroy.json) |
 | Love & Friendship | 177347 | [177347-love-and-friendship.json](./177347-love-and-friendship.json) |
 | Love & Hip Hop the Game | 57752 | [57752-love-and-hip-hop-the-game.json](./57752-love-and-hip-hop-the-game.json) |
