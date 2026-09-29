@@ -2239,7 +2239,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petite Adventure | 215698 | [215698-petite-adventure.json](./215698-petite-adventure.json) |
 | Petite Wife Devotes Herself to You | 98438 | [98438-petite-wife-devotes-herself-to-you.json](./98438-petite-wife-devotes-herself-to-you.json) |
 | Petite Zombies | 110981 | [110981-petite-zombies.json](./110981-petite-zombies.json) |
+| Petka 007: Zoloto Partii | 52761 | [52761-petka-007-zoloto-partii.json](./52761-petka-007-zoloto-partii.json) |
 | Petka 4: Den' Nezavisimosti | 52758 | [52758-petka-4-den-nezavisimosti.json](./52758-petka-4-den-nezavisimosti.json) |
+| Petka 6: Novaya Realnost | 52760 | [52760-petka-6-novaya-realnost.json](./52760-petka-6-novaya-realnost.json) |
+| Petka 8: Pokorenie Rima | 52762 | [52762-petka-8-pokorenie-rima.json](./52762-petka-8-pokorenie-rima.json) |
+| Petka 9: Proletarskiy Glamur | 52763 | [52763-petka-9-proletarskiy-glamur.json](./52763-petka-9-proletarskiy-glamur.json) |
 | Petri Dish | 356624 | [356624-petri-dish.json](./356624-petri-dish.json) |
 | Petrichor | 333175 | [333175-petrichor.json](./333175-petrichor.json) |
 | Petrichor | 60540 | [60540-petrichor.json](./60540-petrichor.json) |
