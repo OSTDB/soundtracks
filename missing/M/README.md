@@ -5036,6 +5036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Aphid | 135156 | [135156-mighty-aphid.json](./135156-mighty-aphid.json) |
 | Mighty Chameleon Brothers | 155469 | [155469-mighty-chameleon-brothers.json](./155469-mighty-chameleon-brothers.json) |
 | Mighty Ducks | 198818 | [198818-mighty-ducks.json](./198818-mighty-ducks.json) |
+| Mighty Final Fight | 1658 | [1658-mighty-final-fight.json](./1658-mighty-final-fight.json) |
 | Mighty Fling | 135758 | [135758-mighty-fling.json](./135758-mighty-fling.json) |
 | Mighty Flip Champs! DX | 44522 | [44522-mighty-flip-champs-dx.json](./44522-mighty-flip-champs-dx.json) |
 | Mighty forest | 139364 | [139364-mighty-forest.json](./139364-mighty-forest.json) |
@@ -9254,6 +9255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Shelter | 348449 | [348449-my-shelter.json](./348449-my-shelter.json) |
 | My Silly Life | 158222 | [158222-my-silly-life.json](./158222-my-silly-life.json) |
 | My Silly Science Summer in the Past | 348758 | [348758-my-silly-science-summer-in-the-past.json](./348758-my-silly-science-summer-in-the-past.json) |
+| My Singing Monsters | 16305 | [16305-my-singing-monsters.json](./16305-my-singing-monsters.json) |
 | My Singing Monsters Karaoke | 412306 | [412306-my-singing-monsters-karaoke.json](./412306-my-singing-monsters-karaoke.json) |
 | My Singing Monsters: Dawn of Fire | 89694 | [89694-my-singing-monsters-dawn-of-fire.json](./89694-my-singing-monsters-dawn-of-fire.json) |
 | My Slime Garden | 328458 | [328458-my-slime-garden.json](./328458-my-slime-garden.json) |
@@ -9439,6 +9441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myror i Brallan | 305867 | [305867-myror-i-brallan.json](./305867-myror-i-brallan.json) |
 | Myrrh | 118375 | [118375-myrrh.json](./118375-myrrh.json) |
 | Myself;Yourself: Sorezore no Finale | 325278 | [325278-myself-yourself-sorezore-no-finale.json](./325278-myself-yourself-sorezore-no-finale.json) |
+| MySims | 2689 | [2689-mysims.json](./2689-mysims.json) |
 | MySims Agents | 5035 | [5035-mysims-agents.json](./5035-mysims-agents.json) |
 | MySims Friends | 323835 | [323835-mysims-friends.json](./323835-mysims-friends.json) |
 | MySims Kingdom | 201341 | [201341-mysims-kingdom.json](./201341-mysims-kingdom.json) |
