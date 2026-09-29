@@ -10946,6 +10946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Force Unleashed | 197926 | [197926-star-wars-the-force-unleashed.json](./197926-star-wars-the-force-unleashed.json) |
 | Star Wars: The Force Unleashed | 399219 | [399219-star-wars-the-force-unleashed.json](./399219-star-wars-the-force-unleashed.json) |
 | Star Wars: The Force Unleashed - Tatooine Mission Pack | 17475 | [17475-star-wars-the-force-unleashed-tatooine-mission-pack.json](./17475-star-wars-the-force-unleashed-tatooine-mission-pack.json) |
+| Star Wars: The Force Unleashed II - Collector's Edition | 47460 | [47460-star-wars-the-force-unleashed-ii-collectors-edition.json](./47460-star-wars-the-force-unleashed-ii-collectors-edition.json) |
 | Star Wars: The Old Republic | 114 | [114-star-wars-the-old-republic.json](./114-star-wars-the-old-republic.json) |
 | Star Wars: The Old Republic - Knights of the Fallen Empire | 11178 | [11178-star-wars-the-old-republic-knights-of-the-fallen-empire.json](./11178-star-wars-the-old-republic-knights-of-the-fallen-empire.json) |
 | Star Wars: The Old Republic - Legacy of the Sith | 202780 | [202780-star-wars-the-old-republic-legacy-of-the-sith.json](./202780-star-wars-the-old-republic-legacy-of-the-sith.json) |
@@ -11548,6 +11549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Assault | 56668 | [56668-steel-assault.json](./56668-steel-assault.json) |
 | Steel Ball Race | 188947 | [188947-steel-ball-race.json](./188947-steel-ball-race.json) |
 | Steel Battalion: Heavy Armor | 8547 | [8547-steel-battalion-heavy-armor.json](./8547-steel-battalion-heavy-armor.json) |
+| Steel Champions | 47444 | [47444-steel-champions.json](./47444-steel-champions.json) |
 | Steel Chronicle VicTroopers | 372133 | [372133-steel-chronicle-victroopers.json](./372133-steel-chronicle-victroopers.json) |
 | Steel Circus | 113149 | [113149-steel-circus.json](./113149-steel-circus.json) |
 | Steel Civilizations | 176373 | [176373-steel-civilizations.json](./176373-steel-civilizations.json) |
