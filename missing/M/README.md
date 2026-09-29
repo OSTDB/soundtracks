@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majustsushi Rintiara | 174123 | [174123-majustsushi-rintiara.json](./174123-majustsushi-rintiara.json) |
 | Majuu-ou: King of Demons | 38112 | [38112-majuu-ou-king-of-demons.json](./38112-majuu-ou-king-of-demons.json) |
 | Majyo no Nebaneba Note | 336940 | [336940-majyo-no-nebaneba-note.json](./336940-majyo-no-nebaneba-note.json) |
+| Makai Wars | 51444 | [51444-makai-wars.json](./51444-makai-wars.json) |
 | Makaimura Gaiden: The Demon Darkness | 84640 | [84640-makaimura-gaiden-the-demon-darkness.json](./84640-makaimura-gaiden-the-demon-darkness.json) |
 | Makaimura Online | 63297 | [63297-makaimura-online.json](./63297-makaimura-online.json) |
 | Makber | 165419 | [165419-makber.json](./165419-makber.json) |
@@ -4584,6 +4585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroHorrorArcade Trilogy I - Andy's Story | 135703 | [135703-microhorrorarcade-trilogy-i-andys-story.json](./135703-microhorrorarcade-trilogy-i-andys-story.json) |
 | MicroJam | 371358 | [371358-microjam.json](./371358-microjam.json) |
 | Microjob | 149564 | [149564-microjob.json](./149564-microjob.json) |
+| Microleague Baseball 4 | 51372 | [51372-microleague-baseball-4.json](./51372-microleague-baseball-4.json) |
 | MicroLeague Football 2 | 94265 | [94265-microleague-football-2.json](./94265-microleague-football-2.json) |
 | MicroLink Shut the Box | 74063 | [74063-microlink-shut-the-box.json](./74063-microlink-shut-the-box.json) |
 | Micromon Adventures | 105865 | [105865-micromon-adventures.json](./105865-micromon-adventures.json) |
@@ -5919,6 +5921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission | 246351 | [246351-mission.json](./246351-mission.json) |
 | Mission 1545 | 76561 | [76561-mission-1545.json](./76561-mission-1545.json) |
 | Mission 3000 | 71781 | [71781-mission-3000.json](./71781-mission-3000.json) |
+| Mission Against Terror | 51395 | [51395-mission-against-terror.json](./51395-mission-against-terror.json) |
 | Mission Against Terror 2 | 213474 | [213474-mission-against-terror-2.json](./213474-mission-against-terror-2.json) |
 | Mission Angel Angelic Pink | 82908 | [82908-mission-angel-angelic-pink.json](./82908-mission-angel-angelic-pink.json) |
 | Mission Bravo | 295040 | [295040-mission-bravo.json](./295040-mission-bravo.json) |
