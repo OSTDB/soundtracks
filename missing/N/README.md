@@ -2388,6 +2388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Leagues: Masters of The Mystic Arts | 158048 | [158048-ninja-leagues-masters-of-the-mystic-arts.json](./158048-ninja-leagues-masters-of-the-mystic-arts.json) |
 | Ninja Maker | 286058 | [286058-ninja-maker.json](./286058-ninja-maker.json) |
 | Ninja Massacre | 75503 | [75503-ninja-massacre.json](./75503-ninja-massacre.json) |
+| Ninja Master | 13021 | [13021-ninja-master.json](./13021-ninja-master.json) |
 | Ninja Master Toru | 332530 | [332530-ninja-master-toru.json](./332530-ninja-master-toru.json) |
 | Ninja Masters | 103632 | [103632-ninja-masters.json](./103632-ninja-masters.json) |
 | Ninja Ming: Wu | 341478 | [341478-ninja-ming-wu.json](./341478-ninja-ming-wu.json) |
