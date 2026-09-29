@@ -4323,6 +4323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grudge Murder: Flight | 298685 | [298685-grudge-murder-flight.json](./298685-grudge-murder-flight.json) |
 | Grudge Warriors | 19269 | [19269-grudge-warriors.json](./19269-grudge-warriors.json) |
 | Grumblemoor | 347171 | [347171-grumblemoor.json](./347171-grumblemoor.json) |
+| Grump's Dream Course | 37890 | [37890-grumps-dream-course.json](./37890-grumps-dream-course.json) |
 | Grumpy Cat's Worst Game Ever | 98930 | [98930-grumpy-cats-worst-game-ever.json](./98930-grumpy-cats-worst-game-ever.json) |
 | Grumpy Librarian | 181681 | [181681-grumpy-librarian.json](./181681-grumpy-librarian.json) |
 | Grumpy Witch | 115015 | [115015-grumpy-witch.json](./115015-grumpy-witch.json) |
