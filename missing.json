@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T04:48:28.041Z",
-  "total_missing": 138488,
+  "generated_at": "2026-09-29T05:03:58.911Z",
+  "total_missing": 138538,
   "games": [
     {
       "igdb_id": 186066,
@@ -481,6 +481,11 @@
       "igdb_id": 110398,
       "game_name": "007 Legends: Skyfall",
       "file": "missing/0-9/110398-007-legends-skyfall.json"
+    },
+    {
+      "igdb_id": 47468,
+      "game_name": "007: Quantum of Solace - Collector's Edition",
+      "file": "missing/0-9/47468-007-quantum-of-solace-collectors-edition.json"
     },
     {
       "igdb_id": 200635,
@@ -1856,6 +1861,11 @@
       "igdb_id": 143489,
       "game_name": "10SII",
       "file": "missing/0-9/143489-10sii.json"
+    },
+    {
+      "igdb_id": 47396,
+      "game_name": "11 Eyes: CrossOver",
+      "file": "missing/0-9/47396-11-eyes-crossover.json"
     },
     {
       "igdb_id": 379454,
@@ -17661,6 +17671,11 @@
       "igdb_id": 298842,
       "game_name": "Alan Wake II: The Final Draft",
       "file": "missing/A/298842-alan-wake-ii-the-final-draft.json"
+    },
+    {
+      "igdb_id": 47474,
+      "game_name": "Alan Wake: Limited Collector's Edition",
+      "file": "missing/A/47474-alan-wake-limited-collectors-edition.json"
     },
     {
       "igdb_id": 20316,
@@ -46253,6 +46268,11 @@
       "file": "missing/B/72711-backyard-soccer-2004.json"
     },
     {
+      "igdb_id": 47408,
+      "game_name": "Backyard Sports Football: Rookie Rush",
+      "file": "missing/B/47408-backyard-sports-football-rookie-rush.json"
+    },
+    {
       "igdb_id": 72798,
       "game_name": "Backyard Sports: Baseball 2007",
       "file": "missing/B/72798-backyard-sports-baseball-2007.json"
@@ -58033,6 +58053,11 @@
       "file": "missing/B/255344-belladonnas-flight.json"
     },
     {
+      "igdb_id": 47438,
+      "game_name": "Bellator: MMA Onslaught",
+      "file": "missing/B/47438-bellator-mma-onslaught.json"
+    },
+    {
       "igdb_id": 352257,
       "game_name": "Bellatores",
       "file": "missing/B/352257-bellatores.json"
@@ -62443,6 +62468,11 @@
       "file": "missing/B/374312-bioshock-2-rapture-metro-pack.json"
     },
     {
+      "igdb_id": 47440,
+      "game_name": "BioShock 2: Special Edition",
+      "file": "missing/B/47440-bioshock-2-special-edition.json"
+    },
+    {
       "igdb_id": 64441,
       "game_name": "BioShock Infinite: Industrial Revolution",
       "file": "missing/B/64441-bioshock-infinite-industrial-revolution.json"
@@ -62461,6 +62491,11 @@
       "igdb_id": 19839,
       "game_name": "BioShock: The Collection",
       "file": "missing/B/19839-bioshock-the-collection.json"
+    },
+    {
+      "igdb_id": 47467,
+      "game_name": "BioShock: Ultimate Rapture Edition",
+      "file": "missing/B/47467-bioshock-ultimate-rapture-edition.json"
     },
     {
       "igdb_id": 260644,
@@ -63946,6 +63981,11 @@
       "igdb_id": 55840,
       "game_name": "Black Code",
       "file": "missing/B/55840-black-code.json"
+    },
+    {
+      "igdb_id": 47439,
+      "game_name": "Black College Football: The Xperience",
+      "file": "missing/B/47439-black-college-football-the-xperience.json"
     },
     {
       "igdb_id": 107221,
@@ -85638,6 +85678,11 @@
       "file": "missing/C/119160-call-of-duty-2.json"
     },
     {
+      "igdb_id": 47466,
+      "game_name": "Call of Duty 3: Gold Edition",
+      "file": "missing/C/47466-call-of-duty-3-gold-edition.json"
+    },
+    {
       "igdb_id": 135294,
       "game_name": "Call of Duty 4: Modern Warfare",
       "file": "missing/C/135294-call-of-duty-4-modern-warfare.json"
@@ -85701,6 +85746,11 @@
       "igdb_id": 118925,
       "game_name": "Call of Duty: Black Ops - Gold Edition",
       "file": "missing/C/118925-call-of-duty-black-ops-gold-edition.json"
+    },
+    {
+      "igdb_id": 47476,
+      "game_name": "Call of Duty: Black Ops - Hardened Edition",
+      "file": "missing/C/47476-call-of-duty-black-ops-hardened-edition.json"
     },
     {
       "igdb_id": 324925,
@@ -85881,6 +85931,11 @@
       "igdb_id": 134652,
       "game_name": "Call of Duty: Modern Warfare 3 - Defiance",
       "file": "missing/C/134652-call-of-duty-modern-warfare-3-defiance.json"
+    },
+    {
+      "igdb_id": 47425,
+      "game_name": "Call of Duty: Modern Warfare 3 - Hardened Edition",
+      "file": "missing/C/47425-call-of-duty-modern-warfare-3-hardened-edition.json"
     },
     {
       "igdb_id": 257325,
@@ -106663,6 +106718,11 @@
       "file": "missing/C/59598-clive-n-wrench.json"
     },
     {
+      "igdb_id": 47470,
+      "game_name": "Clive Barker's Jericho: Special Edition",
+      "file": "missing/C/47470-clive-barkers-jericho-special-edition.json"
+    },
+    {
       "igdb_id": 188685,
       "game_name": "Clive vs. Hives 2",
       "file": "missing/C/188685-clive-vs-hives-2.json"
@@ -111373,6 +111433,11 @@
       "file": "missing/C/9800-combat-wings-battle-of-britain.json"
     },
     {
+      "igdb_id": 47437,
+      "game_name": "Combat Wings: The Great Battles of WWII",
+      "file": "missing/C/47437-combat-wings-the-great-battles-of-wwii.json"
+    },
+    {
       "igdb_id": 265594,
       "game_name": "Combat Zone",
       "file": "missing/C/265594-combat-zone.json"
@@ -112421,6 +112486,11 @@
       "igdb_id": 127910,
       "game_name": "Company of Heroes: Blitzkrieg Mod",
       "file": "missing/C/127910-company-of-heroes-blitzkrieg-mod.json"
+    },
+    {
+      "igdb_id": 47410,
+      "game_name": "Company of Heroes: Collector's Edition",
+      "file": "missing/C/47410-company-of-heroes-collectors-edition.json"
     },
     {
       "igdb_id": 127898,
@@ -136018,6 +136088,11 @@
       "file": "missing/D/326790-days-of-thunder.json"
     },
     {
+      "igdb_id": 47436,
+      "game_name": "Days of Thunder: Arcade",
+      "file": "missing/D/47436-days-of-thunder-arcade.json"
+    },
+    {
       "igdb_id": 44594,
       "game_name": "Days of Thunder: NASCAR Edition",
       "file": "missing/D/44594-days-of-thunder-nascar-edition.json"
@@ -139746,6 +139821,11 @@
       "igdb_id": 79852,
       "game_name": "Deathsmiles Mega Black Label",
       "file": "missing/D/79852-deathsmiles-mega-black-label.json"
+    },
+    {
+      "igdb_id": 47407,
+      "game_name": "Deathsmiles: Limited Edition",
+      "file": "missing/D/47407-deathsmiles-limited-edition.json"
     },
     {
       "igdb_id": 124010,
@@ -146191,6 +146271,11 @@
       "igdb_id": 25358,
       "game_name": "Deus Ex: Game of the Year Edition",
       "file": "missing/D/25358-deus-ex-game-of-the-year-edition.json"
+    },
+    {
+      "igdb_id": 47412,
+      "game_name": "Deus Ex: Human Revolution - Augmented Edition",
+      "file": "missing/D/47412-deus-ex-human-revolution-augmented-edition.json"
     },
     {
       "igdb_id": 42,
@@ -160983,6 +161068,11 @@
       "file": "missing/D/346785-dragon-ball-pilaf-no-gyakushuu.json"
     },
     {
+      "igdb_id": 47453,
+      "game_name": "Dragon Ball: Raging Blast 2 - Limited Edition",
+      "file": "missing/D/47453-dragon-ball-raging-blast-2-limited-edition.json"
+    },
+    {
       "igdb_id": 279634,
       "game_name": "Dragon Ball: Sparking! Zero",
       "file": "missing/D/279634-dragon-ball-sparking-zero.json"
@@ -164561,6 +164651,11 @@
       "igdb_id": 364523,
       "game_name": "Dreamworks Interactive DVD Game",
       "file": "missing/D/364523-dreamworks-interactive-dvd-game.json"
+    },
+    {
+      "igdb_id": 47435,
+      "game_name": "DreamWorks Super Star Kartz",
+      "file": "missing/D/47435-dreamworks-super-star-kartz.json"
     },
     {
       "igdb_id": 55172,
@@ -171311,6 +171406,11 @@
       "igdb_id": 220088,
       "game_name": "EA Sports",
       "file": "missing/E/220088-ea-sports.json"
+    },
+    {
+      "igdb_id": 47422,
+      "game_name": "EA Sports Active 2.0",
+      "file": "missing/E/47422-ea-sports-active-2-0.json"
     },
     {
       "igdb_id": 172021,
@@ -189718,6 +189818,16 @@
       "file": "missing/F/309476-fable-grove.json"
     },
     {
+      "igdb_id": 47477,
+      "game_name": "Fable II: Game of the Year Edition",
+      "file": "missing/F/47477-fable-ii-game-of-the-year-edition.json"
+    },
+    {
+      "igdb_id": 47415,
+      "game_name": "Fable II: Limited Collector's Edition",
+      "file": "missing/F/47415-fable-ii-limited-collectors-edition.json"
+    },
+    {
       "igdb_id": 21328,
       "game_name": "Fable II: Pub Games",
       "file": "missing/F/21328-fable-ii-pub-games.json"
@@ -192681,6 +192791,11 @@
       "igdb_id": 20220,
       "game_name": "Family Game Night 4: The Game Show",
       "file": "missing/F/20220-family-game-night-4-the-game-show.json"
+    },
+    {
+      "igdb_id": 47421,
+      "game_name": "Family Game Night 4: The Game Show",
+      "file": "missing/F/47421-family-game-night-4-the-game-show.json"
     },
     {
       "igdb_id": 45930,
@@ -212398,6 +212513,11 @@
       "file": "missing/F/3073-forza-motorsport.json"
     },
     {
+      "igdb_id": 47469,
+      "game_name": "Forza Motorsport 2: Limited Collector's Edition",
+      "file": "missing/F/47469-forza-motorsport-2-limited-collectors-edition.json"
+    },
+    {
       "igdb_id": 380672,
       "game_name": "Forza Motorsport 2: The Complete Collection",
       "file": "missing/F/380672-forza-motorsport-2-the-complete-collection.json"
@@ -212408,9 +212528,19 @@
       "file": "missing/F/278521-forza-motorsport-2018-mercedes-amg-gt3.json"
     },
     {
+      "igdb_id": 47471,
+      "game_name": "Forza Motorsport 3: Limited Collector's Edition",
+      "file": "missing/F/47471-forza-motorsport-3-limited-collectors-edition.json"
+    },
+    {
       "igdb_id": 3068,
       "game_name": "Forza Motorsport 4",
       "file": "missing/F/3068-forza-motorsport-4.json"
+    },
+    {
+      "igdb_id": 47395,
+      "game_name": "Forza Motorsport 4: Essentials Edition",
+      "file": "missing/F/47395-forza-motorsport-4-essentials-edition.json"
     },
     {
       "igdb_id": 41600,
@@ -225318,6 +225448,11 @@
       "file": "missing/G/299998-gears-of-war-2-snowblind-map-pack.json"
     },
     {
+      "igdb_id": 47456,
+      "game_name": "Gears of War 3: Epic Edition",
+      "file": "missing/G/47456-gears-of-war-3-epic-edition.json"
+    },
+    {
       "igdb_id": 20656,
       "game_name": "Gears of War 3: Fenix Rising",
       "file": "missing/G/20656-gears-of-war-3-fenix-rising.json"
@@ -225331,6 +225466,11 @@
       "igdb_id": 305160,
       "game_name": "Gears of War: E-Day",
       "file": "missing/G/305160-gears-of-war-e-day.json"
+    },
+    {
+      "igdb_id": 47450,
+      "game_name": "Gears of War: Limited Collector's Edition",
+      "file": "missing/G/47450-gears-of-war-limited-collectors-edition.json"
     },
     {
       "igdb_id": 342721,
@@ -304538,6 +304678,11 @@
       "file": "missing/K/2755-kinectimals.json"
     },
     {
+      "igdb_id": 47416,
+      "game_name": "Kinectimals: Now with Bears!",
+      "file": "missing/K/47416-kinectimals-now-with-bears.json"
+    },
+    {
       "igdb_id": 141783,
       "game_name": "Kinesis",
       "file": "missing/K/141783-kinesis.json"
@@ -317096,6 +317241,11 @@
       "igdb_id": 358402,
       "game_name": "Left 4 Dead 2: Nightmare",
       "file": "missing/L/358402-left-4-dead-2-nightmare.json"
+    },
+    {
+      "igdb_id": 47413,
+      "game_name": "Left 4 Dead: Game of the Year Edition",
+      "file": "missing/L/47413-left-4-dead-game-of-the-year-edition.json"
     },
     {
       "igdb_id": 119066,
@@ -339023,6 +339173,11 @@
       "file": "missing/M/117683-mahjong-xiaoxiaole.json"
     },
     {
+      "igdb_id": 47431,
+      "game_name": "Mahjong: Dream C Club",
+      "file": "missing/M/47431-mahjong-dream-c-club.json"
+    },
+    {
       "igdb_id": 200461,
       "game_name": "Mahjong: Magic Casual Puzzle",
       "file": "missing/M/200461-mahjong-magic-casual-puzzle.json"
@@ -349668,6 +349823,11 @@
       "file": "missing/M/1307-medal-of-honor.json"
     },
     {
+      "igdb_id": 47411,
+      "game_name": "Medal of Honor : Warfighter - Limited Edition",
+      "file": "missing/M/47411-medal-of-honor-warfighter-limited-edition.json"
+    },
+    {
       "igdb_id": 45980,
       "game_name": "Medal of Honor: 10th Anniversary Edition",
       "file": "missing/M/45980-medal-of-honor-10th-anniversary-edition.json"
@@ -349706,6 +349866,11 @@
       "igdb_id": 1310,
       "game_name": "Medal of Honor: Pacific Assault",
       "file": "missing/M/1310-medal-of-honor-pacific-assault.json"
+    },
+    {
+      "igdb_id": 47463,
+      "game_name": "Medal of Honor: Tier 1 Edition",
+      "file": "missing/M/47463-medal-of-honor-tier-1-edition.json"
     },
     {
       "igdb_id": 1306,
@@ -356436,6 +356601,11 @@
       "igdb_id": 19586,
       "game_name": "Metro-Police",
       "file": "missing/M/19586-metro-police.json"
+    },
+    {
+      "igdb_id": 47429,
+      "game_name": "Metro: Last Light - Limited Edition",
+      "file": "missing/M/47429-metro-last-light-limited-edition.json"
     },
     {
       "igdb_id": 283743,
@@ -365136,6 +365306,11 @@
       "igdb_id": 21157,
       "game_name": "MLB 2K10 DS",
       "file": "missing/M/21157-mlb-2k10-ds.json"
+    },
+    {
+      "igdb_id": 47409,
+      "game_name": "MLB 2K13",
+      "file": "missing/M/47409-mlb-2k13.json"
     },
     {
       "igdb_id": 304051,
@@ -376813,6 +376988,11 @@
       "file": "missing/M/66101-mushihimesama-bug-panic.json"
     },
     {
+      "igdb_id": 47442,
+      "game_name": "Mushihimesama HD",
+      "file": "missing/M/47442-mushihimesama-hd.json"
+    },
+    {
       "igdb_id": 65500,
       "game_name": "Mushihimesama Ver 1.5",
       "file": "missing/M/65500-mushihimesama-ver-1-5.json"
@@ -384038,6 +384218,11 @@
       "file": "missing/N/28177-naruto-shippuden-ultimate-ninja-storm-legacy.json"
     },
     {
+      "igdb_id": 47455,
+      "game_name": "Naruto Shippuden: Ultimate Ninja Storm Revolution - Samurai Edition",
+      "file": "missing/N/47455-naruto-shippuden-ultimate-ninja-storm-revolution-samurai-edition.json"
+    },
+    {
       "igdb_id": 275885,
       "game_name": "Naruto To Boruto: Shinobi Stricker - Master Character Training Pack: Boruto Uzumaki (Karma Progression)",
       "file": "missing/N/275885-naruto-to-boruto-shinobi-stricker-master-character-training-pack-boruto-uzumaki-karma-progression.json"
@@ -385788,6 +385973,11 @@
       "file": "missing/N/309667-nba-the-run.json"
     },
     {
+      "igdb_id": 47428,
+      "game_name": "NBA Unrivaled",
+      "file": "missing/N/47428-nba-unrivaled.json"
+    },
+    {
       "igdb_id": 65509,
       "game_name": "NBA: King of the Court",
       "file": "missing/N/65509-nba-king-of-the-court.json"
@@ -385826,6 +386016,11 @@
       "igdb_id": 7109,
       "game_name": "NCAA Basketball 09",
       "file": "missing/N/7109-ncaa-basketball-09.json"
+    },
+    {
+      "igdb_id": 47427,
+      "game_name": "NCAA Basketball 09: March Madness Edition",
+      "file": "missing/N/47427-ncaa-basketball-09-march-madness-edition.json"
     },
     {
       "igdb_id": 69580,
@@ -393948,6 +394143,11 @@
       "file": "missing/N/7122-ninja-gaiden-3.json"
     },
     {
+      "igdb_id": 47464,
+      "game_name": "Ninja Gaiden 3: Collector's Edition",
+      "file": "missing/N/47464-ninja-gaiden-3-collectors-edition.json"
+    },
+    {
       "igdb_id": 5317,
       "game_name": "Ninja Gaiden 3: Razor's Edge",
       "file": "missing/N/5317-ninja-gaiden-3-razors-edge.json"
@@ -399581,6 +399781,11 @@
       "igdb_id": 115642,
       "game_name": "Nuns With Guns",
       "file": "missing/N/115642-nuns-with-guns.json"
+    },
+    {
+      "igdb_id": 47426,
+      "game_name": "Nurarihyon no Mago: Hyakki Ryouran Taisen",
+      "file": "missing/N/47426-nurarihyon-no-mago-hyakki-ryouran-taisen.json"
     },
     {
       "igdb_id": 238207,
@@ -444238,6 +444443,11 @@
       "file": "missing/P/91426-prey-with-gun.json"
     },
     {
+      "igdb_id": 47397,
+      "game_name": "Prey: Limited Collector's Edition",
+      "file": "missing/P/47397-prey-limited-collectors-edition.json"
+    },
+    {
       "igdb_id": 305292,
       "game_name": "Prezzemolo in un Viaggio da Sogno",
       "file": "missing/P/305292-prezzemolo-in-un-viaggio-da-sogno.json"
@@ -444676,6 +444886,11 @@
       "igdb_id": 284776,
       "game_name": "Prince of Persia",
       "file": "missing/P/284776-prince-of-persia.json"
+    },
+    {
+      "igdb_id": 47459,
+      "game_name": "Prince of Persia : The Forgotten Sands - Limited Collector's Edition",
+      "file": "missing/P/47459-prince-of-persia-the-forgotten-sands-limited-collectors-edition.json"
     },
     {
       "igdb_id": 3164,
@@ -461893,6 +462108,11 @@
       "file": "missing/R/25495-ravensburger-puzzle.json"
     },
     {
+      "igdb_id": 47424,
+      "game_name": "Ravensdale",
+      "file": "missing/R/47424-ravensdale.json"
+    },
+    {
       "igdb_id": 411825,
       "game_name": "Ravenshade Asylum",
       "file": "missing/R/411825-ravenshade-asylum.json"
@@ -462491,6 +462711,11 @@
       "igdb_id": 45089,
       "game_name": "RayStorm",
       "file": "missing/R/45089-raystorm.json"
+    },
+    {
+      "igdb_id": 47448,
+      "game_name": "RayStorm HD",
+      "file": "missing/R/47448-raystorm-hd.json"
     },
     {
       "igdb_id": 92647,
@@ -540903,6 +541128,11 @@
       "file": "missing/S/17475-star-wars-the-force-unleashed-tatooine-mission-pack.json"
     },
     {
+      "igdb_id": 47460,
+      "game_name": "Star Wars: The Force Unleashed II - Collector's Edition",
+      "file": "missing/S/47460-star-wars-the-force-unleashed-ii-collectors-edition.json"
+    },
+    {
       "igdb_id": 114,
       "game_name": "Star Wars: The Old Republic",
       "file": "missing/S/114-star-wars-the-old-republic.json"
@@ -543911,6 +544141,11 @@
       "igdb_id": 8547,
       "game_name": "Steel Battalion: Heavy Armor",
       "file": "missing/S/8547-steel-battalion-heavy-armor.json"
+    },
+    {
+      "igdb_id": 47444,
+      "game_name": "Steel Champions",
+      "file": "missing/S/47444-steel-champions.json"
     },
     {
       "igdb_id": 372133,
@@ -584658,6 +584893,11 @@
       "file": "missing/T/185550-the-dead-prince-and-the-pacifican-express.json"
     },
     {
+      "igdb_id": 47475,
+      "game_name": "The Dead Rising Collection",
+      "file": "missing/T/47475-the-dead-rising-collection.json"
+    },
+    {
       "igdb_id": 388224,
       "game_name": "The Dead Roam Free",
       "file": "missing/T/388224-the-dead-roam-free.json"
@@ -617086,6 +617326,11 @@
       "igdb_id": 5226,
       "game_name": "Tiger Woods PGA Tour 13",
       "file": "missing/T/5226-tiger-woods-pga-tour-13.json"
+    },
+    {
+      "igdb_id": 47419,
+      "game_name": "Tiger Woods PGA Tour 13: Masters Collector's Edition",
+      "file": "missing/T/47419-tiger-woods-pga-tour-13-masters-collectors-edition.json"
     },
     {
       "igdb_id": 249152,
@@ -672231,6 +672476,11 @@
       "igdb_id": 44855,
       "game_name": "Wipeout 3 Special Edition",
       "file": "missing/W/44855-wipeout-3-special-edition.json"
+    },
+    {
+      "igdb_id": 47441,
+      "game_name": "Wipeout Create & Crash",
+      "file": "missing/W/47441-wipeout-create-and-crash.json"
     },
     {
       "igdb_id": 1542,
