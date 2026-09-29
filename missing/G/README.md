@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxians & Gloops | 319580 | [319580-galaxians-and-gloops.json](./319580-galaxians-and-gloops.json) |
 | Galaxians: Remastered Edition | 308355 | [308355-galaxians-remastered-edition.json](./308355-galaxians-remastered-edition.json) |
 | Galaxicus | 119022 | [119022-galaxicus.json](./119022-galaxicus.json) |
+| Galaxions | 40947 | [40947-galaxions.json](./40947-galaxions.json) |
 | Galaxis Wars | 36517 | [36517-galaxis-wars.json](./36517-galaxis-wars.json) |
 | Galaxity | 113747 | [113747-galaxity.json](./113747-galaxity.json) |
 | Galaxity: Terminal 21 VR | 191132 | [191132-galaxity-terminal-21-vr.json](./191132-galaxity-terminal-21-vr.json) |
