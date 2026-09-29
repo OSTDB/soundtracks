@@ -2309,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outatime | 215913 | [215913-outatime.json](./215913-outatime.json) |
 | Outback Joey | 281554 | [281554-outback-joey.json](./281554-outback-joey.json) |
 | Outblight | 415325 | [415325-outblight.json](./415325-outblight.json) |
+| Outbound | 286869 | [286869-outbound.json](./286869-outbound.json) |
 | Outbound: School Bus Adventures | 401492 | [401492-outbound-school-bus-adventures.json](./401492-outbound-school-bus-adventures.json) |
 | Outbreak | 26909 | [26909-outbreak.json](./26909-outbreak.json) |
 | Outbreak | 302484 | [302484-outbreak.json](./302484-outbreak.json) |
