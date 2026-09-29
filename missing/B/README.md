@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baked:Magic | 135024 | [135024-baked-magic.json](./135024-baked-magic.json) |
 | Bakemono | 128018 | [128018-bakemono.json](./128018-bakemono.json) |
 | Bakemono Heights | 334874 | [334874-bakemono-heights.json](./334874-bakemono-heights.json) |
+| Bakemonogatari Portable | 42800 | [42800-bakemonogatari-portable.json](./42800-bakemonogatari-portable.json) |
 | Baker Business 3 | 235967 | [235967-baker-business-3.json](./235967-baker-business-3.json) |
 | Baker Business 3: Spring Pack | 243049 | [243049-baker-business-3-spring-pack.json](./243049-baker-business-3-spring-pack.json) |
 | Baker Street Breakouts: A Sherlockian Escape Adventure | 231870 | [231870-baker-street-breakouts-a-sherlockian-escape-adventure.json](./231870-baker-street-breakouts-a-sherlockian-escape-adventure.json) |
@@ -1813,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Rift | 211428 | [211428-battle-rift.json](./211428-battle-rift.json) |
 | Battle Robot Damashii | 63833 | [63833-battle-robot-damashii.json](./63833-battle-robot-damashii.json) |
 | Battle Round | 127016 | [127016-battle-round.json](./127016-battle-round.json) |
+| Battle Royal | 42758 | [42758-battle-royal.json](./42758-battle-royal.json) |
 | Battle Royal: Battlegrounds Call | 328569 | [328569-battle-royal-battlegrounds-call.json](./328569-battle-royal-battlegrounds-call.json) |
 | Battle Royale Manager | 365253 | [365253-battle-royale-manager.json](./365253-battle-royale-manager.json) |
 | Battle Royale Survival | 107811 | [107811-battle-royale-survival.json](./107811-battle-royale-survival.json) |
@@ -2154,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Boys 3: Zodiac Signs, Love & Horoscope Dating | 334091 | [334091-beach-boys-3-zodiac-signs-love-and-horoscope-dating.json](./334091-beach-boys-3-zodiac-signs-love-and-horoscope-dating.json) |
 | Beach Buggy Racing 2 | 110044 | [110044-beach-buggy-racing-2.json](./110044-beach-buggy-racing-2.json) |
 | Beach Buggy Racing 2: Tesla Edition | 341009 | [341009-beach-buggy-racing-2-tesla-edition.json](./341009-beach-buggy-racing-2-tesla-edition.json) |
+| Beach Buzzin Chopper | 42779 | [42779-beach-buzzin-chopper.json](./42779-beach-buzzin-chopper.json) |
 | Beach Cafe III: The Escape Room | 266316 | [266316-beach-cafe-iii-the-escape-room.json](./266316-beach-cafe-iii-the-escape-room.json) |
 | Beach Cafe: Caribbean Sand | 232988 | [232988-beach-cafe-caribbean-sand.json](./232988-beach-cafe-caribbean-sand.json) |
 | Beach Club Simulator | 292638 | [292638-beach-club-simulator.json](./292638-beach-club-simulator.json) |
@@ -2207,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beam It Up! | 390238 | [390238-beam-it-up.json](./390238-beam-it-up.json) |
 | Beam Moto Driver Playground | 368027 | [368027-beam-moto-driver-playground.json](./368027-beam-moto-driver-playground.json) |
 | Beam Time | 366287 | [366287-beam-time.json](./366287-beam-time.json) |
+| Beam'em Up | 42778 | [42778-beamem-up.json](./42778-beamem-up.json) |
 | Beambender | 14293 | [14293-beambender.json](./14293-beambender.json) |
 | Beamdog Ultimate Collector's Pack | 136374 | [136374-beamdog-ultimate-collectors-pack.json](./136374-beamdog-ultimate-collectors-pack.json) |
 | Beamdown | 338198 | [338198-beamdown.json](./338198-beamdown.json) |
@@ -5693,6 +5697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom | 339838 | [339838-boom.json](./339838-boom.json) |
 | Boom 2020 | 226196 | [226196-boom-2020.json](./226196-boom-2020.json) |
 | Boom Barn | 58304 | [58304-boom-barn.json](./58304-boom-barn.json) |
+| Boom Beats | 42777 | [42777-boom-beats.json](./42777-boom-beats.json) |
 | Boom Bits | 108040 | [108040-boom-bits.json](./108040-boom-bits.json) |
 | Boom Blaster | 100891 | [100891-boom-blaster.json](./100891-boom-blaster.json) |
 | Boom Boom Volleyball | 263470 | [263470-boom-boom-volleyball.json](./263470-boom-boom-volleyball.json) |
@@ -6102,6 +6107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling | 291999 | [291999-bowling.json](./291999-bowling.json) |
 | Bowling | 300414 | [300414-bowling.json](./300414-bowling.json) |
 | Bowling | 317634 | [317634-bowling.json](./317634-bowling.json) |
+| Bowling 3D | 42776 | [42776-bowling-3d.json](./42776-bowling-3d.json) |
 | Bowling Alley | 230840 | [230840-bowling-alley.json](./230840-bowling-alley.json) |
 | Bowling at the Lake | 30190 | [30190-bowling-at-the-lake.json](./30190-bowling-at-the-lake.json) |
 | Bowling by Jason Belmonte | 262386 | [262386-bowling-by-jason-belmonte.json](./262386-bowling-by-jason-belmonte.json) |
