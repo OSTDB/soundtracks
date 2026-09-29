@@ -2087,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caverns of Khafka | 25674 | [25674-caverns-of-khafka.json](./25674-caverns-of-khafka.json) |
 | Caverns of Kontonia | 293715 | [293715-caverns-of-kontonia.json](./293715-caverns-of-kontonia.json) |
 | Caverns of Mars: Recharged | 233624 | [233624-caverns-of-mars-recharged.json](./233624-caverns-of-mars-recharged.json) |
+| Caverns of Minos | 22681 | [22681-caverns-of-minos.json](./22681-caverns-of-minos.json) |
 | Caverns of Titan | 47550 | [47550-caverns-of-titan.json](./47550-caverns-of-titan.json) |
 | Caverns of Toros | 226750 | [226750-caverns-of-toros.json](./226750-caverns-of-toros.json) |
 | Caverns of Xaskazien II | 217871 | [217871-caverns-of-xaskazien-ii.json](./217871-caverns-of-xaskazien-ii.json) |
@@ -7972,11 +7973,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader | 262989 | [262989-crusader.json](./262989-crusader.json) |
 | Crusader Kings | 2922 | [2922-crusader-kings.json](./2922-crusader-kings.json) |
 | Crusader Kings Complete | 25415 | [25415-crusader-kings-complete.json](./25415-crusader-kings-complete.json) |
+| Crusader Kings II: Charlemagne | 22666 | [22666-crusader-kings-ii-charlemagne.json](./22666-crusader-kings-ii-charlemagne.json) |
+| Crusader Kings II: Conclave | 22669 | [22669-crusader-kings-ii-conclave.json](./22669-crusader-kings-ii-conclave.json) |
 | Crusader Kings II: Finno-Ugric Unit Pack | 168339 | [168339-crusader-kings-ii-finno-ugric-unit-pack.json](./168339-crusader-kings-ii-finno-ugric-unit-pack.json) |
+| Crusader Kings II: Horse Lords | 22668 | [22668-crusader-kings-ii-horse-lords.json](./22668-crusader-kings-ii-horse-lords.json) |
+| Crusader Kings II: Legacy of Rome | 22661 | [22661-crusader-kings-ii-legacy-of-rome.json](./22661-crusader-kings-ii-legacy-of-rome.json) |
 | Crusader Kings II: Monks and Mystics | 26426 | [26426-crusader-kings-ii-monks-and-mystics.json](./26426-crusader-kings-ii-monks-and-mystics.json) |
+| Crusader Kings II: Rajas of India | 22665 | [22665-crusader-kings-ii-rajas-of-india.json](./22665-crusader-kings-ii-rajas-of-india.json) |
 | Crusader Kings II: Songs of the RU | 52859 | [52859-crusader-kings-ii-songs-of-the-ru.json](./52859-crusader-kings-ii-songs-of-the-ru.json) |
+| Crusader Kings II: Sons of Abraham | 22664 | [22664-crusader-kings-ii-sons-of-abraham.json](./22664-crusader-kings-ii-sons-of-abraham.json) |
 | Crusader Kings II: Sunset Invasion | 23980 | [23980-crusader-kings-ii-sunset-invasion.json](./23980-crusader-kings-ii-sunset-invasion.json) |
+| Crusader Kings II: Sword of Islam | 22660 | [22660-crusader-kings-ii-sword-of-islam.json](./22660-crusader-kings-ii-sword-of-islam.json) |
+| Crusader Kings II: The Old Gods | 22663 | [22663-crusader-kings-ii-the-old-gods.json](./22663-crusader-kings-ii-the-old-gods.json) |
 | Crusader Kings II: The Reaper's Due Collection | 52858 | [52858-crusader-kings-ii-the-reapers-due-collection.json](./52858-crusader-kings-ii-the-reapers-due-collection.json) |
+| Crusader Kings II: Way of Life | 22667 | [22667-crusader-kings-ii-way-of-life.json](./22667-crusader-kings-ii-way-of-life.json) |
 | Crusader Kings II: Way of Life Collection | 52857 | [52857-crusader-kings-ii-way-of-life-collection.json](./52857-crusader-kings-ii-way-of-life-collection.json) |
 | Crusader Kings III | 124954 | [124954-crusader-kings-iii.json](./124954-crusader-kings-iii.json) |
 | Crusader Kings III Content Creator Pack: Arctic Attire | 352853 | [352853-crusader-kings-iii-content-creator-pack-arctic-attire.json](./352853-crusader-kings-iii-content-creator-pack-arctic-attire.json) |
