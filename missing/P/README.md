@@ -5761,6 +5761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pow: Horyo | 131376 | [131376-pow-horyo.json](./131376-pow-horyo.json) |
 | Powargrid | 33257 | [33257-powargrid.json](./33257-powargrid.json) |
 | PowBall Deluxe | 412564 | [412564-powball-deluxe.json](./412564-powball-deluxe.json) |
+| PowBall Renaissance | 54508 | [54508-powball-renaissance.json](./54508-powball-renaissance.json) |
 | Powder VR | 116864 | [116864-powder-vr.json](./116864-powder-vr.json) |
 | Powdergray | 322965 | [322965-powdergray.json](./322965-powdergray.json) |
 | Power | 130818 | [130818-power.json](./130818-power.json) |
@@ -6010,6 +6011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prehistoric Gal | 293656 | [293656-prehistoric-gal.json](./293656-prehistoric-gal.json) |
 | Prehistoric Isle | 78964 | [78964-prehistoric-isle.json](./78964-prehistoric-isle.json) |
 | Prehistoric Isle 2 | 39280 | [39280-prehistoric-isle-2.json](./39280-prehistoric-isle-2.json) |
+| Prehistoric Kingdom | 54499 | [54499-prehistoric-kingdom.json](./54499-prehistoric-kingdom.json) |
 | Prehistoric Park | 62709 | [62709-prehistoric-park.json](./62709-prehistoric-park.json) |
 | Prehistoric Relations | 177922 | [177922-prehistoric-relations.json](./177922-prehistoric-relations.json) |
 | Prehistoric Safari | 109452 | [109452-prehistoric-safari.json](./109452-prehistoric-safari.json) |
