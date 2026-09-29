@@ -1175,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemini | 86115 | [86115-gemini.json](./86115-gemini.json) |
 | Gemini Arms | 145546 | [145546-gemini-arms.json](./145546-gemini-arms.json) |
 | Gemini Lost | 16080 | [16080-gemini-lost.json](./16080-gemini-lost.json) |
+| Gemini Rue | 6325 | [6325-gemini-rue.json](./6325-gemini-rue.json) |
 | Gemini Wing | 12117 | [12117-gemini-wing.json](./12117-gemini-wing.json) |
 | Gemini X | 404926 | [404926-gemini-x.json](./404926-gemini-x.json) |
 | Gemini: A Journey of Two Stars | 57734 | [57734-gemini-a-journey-of-two-stars.json](./57734-gemini-a-journey-of-two-stars.json) |
@@ -3492,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto V Enhanced | 334254 | [334254-grand-theft-auto-v-enhanced.json](./334254-grand-theft-auto-v-enhanced.json) |
 | Grand Theft Auto V Enhanced | 334647 | [334647-grand-theft-auto-v-enhanced.json](./334647-grand-theft-auto-v-enhanced.json) |
 | Grand Theft Auto V: Premium Online Edition | 98077 | [98077-grand-theft-auto-v-premium-online-edition.json](./98077-grand-theft-auto-v-premium-online-edition.json) |
+| Grand Theft Auto V: Special Edition | 45131 | [45131-grand-theft-auto-v-special-edition.json](./45131-grand-theft-auto-v-special-edition.json) |
 | Grand Theft Auto VI | 52189 | [52189-grand-theft-auto-vi.json](./52189-grand-theft-auto-vi.json) |
 | Grand Theft Auto: Alien City | 231619 | [231619-grand-theft-auto-alien-city.json](./231619-grand-theft-auto-alien-city.json) |
 | Grand Theft Auto: Carcer City | 383392 | [383392-grand-theft-auto-carcer-city.json](./383392-grand-theft-auto-carcer-city.json) |
@@ -4921,6 +4923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunstable | 180800 | [180800-gunstable.json](./180800-gunstable.json) |
 | Gunstar | 13003 | [13003-gunstar.json](./13003-gunstar.json) |
 | Gunstar Heroes | 248636 | [248636-gunstar-heroes.json](./248636-gunstar-heroes.json) |
+| Gunstar Heroes | 6405 | [6405-gunstar-heroes.json](./6405-gunstar-heroes.json) |
 | Gunstar Heroes: Treasure Box | 22745 | [22745-gunstar-heroes-treasure-box.json](./22745-gunstar-heroes-treasure-box.json) |
 | GunStar's Gambit | 340405 | [340405-gunstars-gambit.json](./340405-gunstars-gambit.json) |
 | Gunstars | 209467 | [209467-gunstars.json](./209467-gunstars.json) |
