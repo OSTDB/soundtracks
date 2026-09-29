@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabula | 376545 | [376545-tabula.json](./376545-tabula.json) |
 | Tabula Sono | 219563 | [219563-tabula-sono.json](./219563-tabula-sono.json) |
 | Tabulo | 337994 | [337994-tabulo.json](./337994-tabulo.json) |
+| TAC: Tactical Armor Command | 23969 | [23969-tac-tactical-armor-command.json](./23969-tac-tactical-armor-command.json) |
 | Tacape | 185033 | [185033-tacape.json](./185033-tacape.json) |
 | Tachanka Simulator | 312906 | [312906-tachanka-simulator.json](./312906-tachanka-simulator.json) |
 | Tachyon | 369771 | [369771-tachyon.json](./369771-tachyon.json) |
@@ -4652,6 +4653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Waldo Search | 275020 | [275020-the-great-waldo-search.json](./275020-the-great-waldo-search.json) |
 | The Great War: Western Front | 214505 | [214505-the-great-war-western-front.json](./214505-the-great-war-western-front.json) |
 | The Great Wizards Tournament | 123443 | [123443-the-great-wizards-tournament.json](./123443-the-great-wizards-tournament.json) |
+| The Great Wobo Escape | 23984 | [23984-the-great-wobo-escape.json](./23984-the-great-wobo-escape.json) |
 | The Great Yokai of the Haunted Halls | 331118 | [331118-the-great-yokai-of-the-haunted-halls.json](./331118-the-great-yokai-of-the-haunted-halls.json) |
 | The Greater | 301342 | [301342-the-greater.json](./301342-the-greater.json) |
 | The Greatest Game in the World | 182975 | [182975-the-greatest-game-in-the-world.json](./182975-the-greatest-game-in-the-world.json) |
@@ -4758,6 +4760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heiress | 51604 | [51604-the-heiress.json](./51604-the-heiress.json) |
 | The Heirloom | 292604 | [292604-the-heirloom.json](./292604-the-heirloom.json) |
 | The Heist | 120316 | [120316-the-heist.json](./120316-the-heist.json) |
+| The Heist | 24018 | [24018-the-heist.json](./24018-the-heist.json) |
 | The Heist in LS | 328220 | [328220-the-heist-in-ls.json](./328220-the-heist-in-ls.json) |
 | The Heist mobile | 83914 | [83914-the-heist-mobile.json](./83914-the-heist-mobile.json) |
 | The Heist of the Argonaut Limited | 305347 | [305347-the-heist-of-the-argonaut-limited.json](./305347-the-heist-of-the-argonaut-limited.json) |
@@ -6838,6 +6841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Queen's Footsteps | 304181 | [304181-the-queens-footsteps.json](./304181-the-queens-footsteps.json) |
 | The Queen's Gambit Chess | 204451 | [204451-the-queens-gambit-chess.json](./204451-the-queens-gambit-chess.json) |
 | The Queens Gondola | 404841 | [404841-the-queens-gondola.json](./404841-the-queens-gondola.json) |
+| The Quest | 23962 | [23962-the-quest.json](./23962-the-quest.json) |
 | The Quest - Hero of Lukomorye III | 105770 | [105770-the-quest-hero-of-lukomorye-iii.json](./105770-the-quest-hero-of-lukomorye-iii.json) |
 | The Quest Classic: Asteroids | 205603 | [205603-the-quest-classic-asteroids.json](./205603-the-quest-classic-asteroids.json) |
 | The Quest for Achievements | 334744 | [334744-the-quest-for-achievements.json](./334744-the-quest-for-achievements.json) |
@@ -10983,6 +10987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toast Ghost | 307739 | [307739-toast-ghost.json](./307739-toast-ghost.json) |
 | Toast Shooter | 260199 | [260199-toast-shooter.json](./260199-toast-shooter.json) |
 | Toast the Chicken: Hard Puzzle Game Unique Brain Teaser | 232534 | [232534-toast-the-chicken-hard-puzzle-game-unique-brain-teaser.json](./232534-toast-the-chicken-hard-puzzle-game-unique-brain-teaser.json) |
+| Toast! | 23987 | [23987-toast.json](./23987-toast.json) |
 | Toasted! | 188101 | [188101-toasted.json](./188101-toasted.json) |
 | Toaster Defense | 157144 | [157144-toaster-defense.json](./157144-toaster-defense.json) |
 | Toastling | 192321 | [192321-toastling.json](./192321-toastling.json) |
@@ -11733,6 +11738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toroa: Skycall | 204521 | [204521-toroa-skycall.json](./204521-toroa-skycall.json) |
 | Torpedo Alley | 314417 | [314417-torpedo-alley.json](./314417-torpedo-alley.json) |
 | Torpedo Boat | 239648 | [239648-torpedo-boat.json](./239648-torpedo-boat.json) |
+| Torpedo Fire | 23998 | [23998-torpedo-fire.json](./23998-torpedo-fire.json) |
 | Torpedorun | 58872 | [58872-torpedorun.json](./58872-torpedorun.json) |
 | Torque | 179604 | [179604-torque.json](./179604-torque.json) |
 | Torque Drift 2 | 271277 | [271277-torque-drift-2.json](./271277-torque-drift-2.json) |
