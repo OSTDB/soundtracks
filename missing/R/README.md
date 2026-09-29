@@ -2251,6 +2251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | REM-9: The Yume Nikki Randomizer | 229704 | [229704-rem-9-the-yume-nikki-randomizer.json](./229704-rem-9-the-yume-nikki-randomizer.json) |
 | Rem: The Dreamer | 368653 | [368653-rem-the-dreamer.json](./368653-rem-the-dreamer.json) |
 | Rema the Truth | 111887 | [111887-rema-the-truth.json](./111887-rema-the-truth.json) |
+| Remain | 30054 | [30054-remain.json](./30054-remain.json) |
 | Remain At Your Desk | 401513 | [401513-remain-at-your-desk.json](./401513-remain-at-your-desk.json) |
 | Remains of Yith | 340007 | [340007-remains-of-yith.json](./340007-remains-of-yith.json) |
 | Remake Lover | 403194 | [403194-remake-lover.json](./403194-remake-lover.json) |
@@ -2621,6 +2622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rest Area Simulator | 373009 | [373009-rest-area-simulator.json](./373009-rest-area-simulator.json) |
 | Rest House 2: The Wizard | 131593 | [131593-rest-house-2-the-wizard.json](./131593-rest-house-2-the-wizard.json) |
 | Rest in Paws | 358877 | [358877-rest-in-paws.json](./358877-rest-in-paws.json) |
+| Rest In Peace | 30057 | [30057-rest-in-peace.json](./30057-rest-in-peace.json) |
 | Rest to Landia | 292279 | [292279-rest-to-landia.json](./292279-rest-to-landia.json) |
 | Restart | 240774 | [240774-restart.json](./240774-restart.json) |
 | Restarting Systems: Smoke's Bizarre Adventure | 378799 | [378799-restarting-systems-smokes-bizarre-adventure.json](./378799-restarting-systems-smokes-bizarre-adventure.json) |
@@ -2912,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge on Bad Guy | 220316 | [220316-revenge-on-bad-guy.json](./220316-revenge-on-bad-guy.json) |
 | Revenge On Gold Diggers | 372482 | [372482-revenge-on-gold-diggers.json](./372482-revenge-on-gold-diggers.json) |
 | Revenge on the Streets | 119726 | [119726-revenge-on-the-streets.json](./119726-revenge-on-the-streets.json) |
+| Revenge Quest | 30040 | [30040-revenge-quest.json](./30040-revenge-quest.json) |
 | Revenge Request | 295533 | [295533-revenge-request.json](./295533-revenge-request.json) |
 | Revenge: Jane The Killer | 286569 | [286569-revenge-jane-the-killer.json](./286569-revenge-jane-the-killer.json) |
 | Revenger | 164983 | [164983-revenger.json](./164983-revenger.json) |
@@ -5896,6 +5899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RX10-40 | 324312 | [324312-rx10-40.json](./324312-rx10-40.json) |
 | RXC | 192185 | [192185-rxc.json](./192185-rxc.json) |
 | RXN: Raijin | 77386 | [77386-rxn-raijin.json](./77386-rxn-raijin.json) |
+| Ryan Black | 30123 | [30123-ryan-black.json](./30123-ryan-black.json) |
 | Ryan Veeder's Authentic Fly Fishing | 216330 | [216330-ryan-veeders-authentic-fly-fishing.json](./216330-ryan-veeders-authentic-fly-fishing.json) |
 | Ryan's Pack | 131602 | [131602-ryans-pack.json](./131602-ryans-pack.json) |
 | Ryan's Rescue Squad | 185704 | [185704-ryans-rescue-squad.json](./185704-ryans-rescue-squad.json) |
