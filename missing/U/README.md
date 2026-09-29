@@ -1641,6 +1641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utauta-Uh: Seirei Songs | 167052 | [167052-utauta-uh-seirei-songs.json](./167052-utauta-uh-seirei-songs.json) |
 | Utawarerumono | 24080 | [24080-utawarerumono.json](./24080-utawarerumono.json) |
 | Utawarerumono: Lost Flag | 120286 | [120286-utawarerumono-lost-flag.json](./120286-utawarerumono-lost-flag.json) |
+| Utawarerumono: Mask of Deception | 13548 | [13548-utawarerumono-mask-of-deception.json](./13548-utawarerumono-mask-of-deception.json) |
 | Utawarerumono: Past and Present Rediscovered | 387541 | [387541-utawarerumono-past-and-present-rediscovered.json](./387541-utawarerumono-past-and-present-rediscovered.json) |
 | Utawarerumono: Prelude to the Fallen - Premium Edition | 167071 | [167071-utawarerumono-prelude-to-the-fallen-premium-edition.json](./167071-utawarerumono-prelude-to-the-fallen-premium-edition.json) |
 | Utherous | 60488 | [60488-utherous.json](./60488-utherous.json) |
