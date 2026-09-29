@@ -3886,6 +3886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Peppa | 320890 | [320890-angry-peppa.json](./320890-angry-peppa.json) |
 | Angry Pigs | 194980 | [194980-angry-pigs.json](./194980-angry-pigs.json) |
 | Angry Robot Girlfriend | 290508 | [290508-angry-robot-girlfriend.json](./290508-angry-robot-girlfriend.json) |
+| Angry shapes: Clash of geometry | 52786 | [52786-angry-shapes-clash-of-geometry.json](./52786-angry-shapes-clash-of-geometry.json) |
 | Angry Shark 2016 | 106125 | [106125-angry-shark-2016.json](./106125-angry-shark-2016.json) |
 | Angry Sonic Maze | 95997 | [95997-angry-sonic-maze.json](./95997-angry-sonic-maze.json) |
 | Angry Space Bees | 149029 | [149029-angry-space-bees.json](./149029-angry-space-bees.json) |
