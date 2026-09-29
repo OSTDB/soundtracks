@@ -1362,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manhole | 100229 | [100229-manhole.json](./100229-manhole.json) |
 | Manhole-e: Classic Version | 92847 | [92847-manhole-e-classic-version.json](./92847-manhole-e-classic-version.json) |
 | Manhunt | 1971 | [1971-manhunt.json](./1971-manhunt.json) |
+| Manhunt 2 | 1972 | [1972-manhunt-2.json](./1972-manhunt-2.json) |
 | Manhunter | 17415 | [17415-manhunter.json](./17415-manhunter.json) |
 | Mani Mouse | 239327 | [239327-mani-mouse.json](./239327-mani-mouse.json) |
 | Mani Yugi Tokoyo | 96106 | [96106-mani-yugi-tokoyo.json](./96106-mani-yugi-tokoyo.json) |
@@ -1826,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Paint 64 | 175957 | [175957-mario-paint-64.json](./175957-mario-paint-64.json) |
 | Mario Paint BS Ban: Yuushou Sakuhin Naizou Version | 150147 | [150147-mario-paint-bs-ban-yuushou-sakuhin-naizou-version.json](./150147-mario-paint-bs-ban-yuushou-sakuhin-naizou-version.json) |
 | Mario Party | 2327 | [2327-mario-party.json](./2327-mario-party.json) |
+| Mario Party 3 | 2329 | [2329-mario-party-3.json](./2329-mario-party-3.json) |
 | Mario Party 3 StarStruck | 248306 | [248306-mario-party-3-starstruck.json](./248306-mario-party-3-starstruck.json) |
 | Mario Party 4 | 231603 | [231603-mario-party-4.json](./231603-mario-party-4.json) |
 | Mario Party 4 Deluxe | 323833 | [323833-mario-party-4-deluxe.json](./323833-mario-party-4-deluxe.json) |
@@ -5081,6 +5083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike Piazza's Strike Zone | 3410 | [3410-mike-piazzas-strike-zone.json](./3410-mike-piazzas-strike-zone.json) |
 | Mike Tyson Boxing | 23452 | [23452-mike-tyson-boxing.json](./23452-mike-tyson-boxing.json) |
 | Mike Tyson Heavyweight Boxing | 24076 | [24076-mike-tyson-heavyweight-boxing.json](./24076-mike-tyson-heavyweight-boxing.json) |
+| Mike Tyson's Punch-Out!! | 2195 | [2195-mike-tysons-punch-out.json](./2195-mike-tysons-punch-out.json) |
 | Mike V: Skateboard Party HD | 87709 | [87709-mike-v-skateboard-party-hd.json](./87709-mike-v-skateboard-party-hd.json) |
 | Mike's Lonely Journey | 286616 | [286616-mikes-lonely-journey.json](./286616-mikes-lonely-journey.json) |
 | Mike's Paper Mario Adventure | 324110 | [324110-mikes-paper-mario-adventure.json](./324110-mikes-paper-mario-adventure.json) |
@@ -7647,6 +7650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat: Unchained | 1615 | [1615-mortal-kombat-unchained.json](./1615-mortal-kombat-unchained.json) |
 | Mortal Kombat: Warrior Kenshi | 388955 | [388955-mortal-kombat-warrior-kenshi.json](./388955-mortal-kombat-warrior-kenshi.json) |
 | Mortal Online 2 | 127546 | [127546-mortal-online-2.json](./127546-mortal-online-2.json) |
+| Mortal Shell | 132050 | [132050-mortal-shell.json](./132050-mortal-shell.json) |
 | Mortal Shell II | 347633 | [347633-mortal-shell-ii.json](./347633-mortal-shell-ii.json) |
 | Mortal Shell: Complete Edition | 229693 | [229693-mortal-shell-complete-edition.json](./229693-mortal-shell-complete-edition.json) |
 | Mortal Shell: Digital Deluxe Edition | 214474 | [214474-mortal-shell-digital-deluxe-edition.json](./214474-mortal-shell-digital-deluxe-edition.json) |
@@ -8415,6 +8419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiverse Go | 253897 | [253897-multiverse-go.json](./253897-multiverse-go.json) |
 | Multiverse Idle | 390632 | [390632-multiverse-idle.json](./390632-multiverse-idle.json) |
 | Multiverse Loot Hunter | 292586 | [292586-multiverse-loot-hunter.json](./292586-multiverse-loot-hunter.json) |
+| MultiVersus | 182278 | [182278-multiversus.json](./182278-multiversus.json) |
 | MultiVersus: Founder's Pack - Deluxe Edition | 212309 | [212309-multiversus-founders-pack-deluxe-edition.json](./212309-multiversus-founders-pack-deluxe-edition.json) |
 | MultiVersus: Founder's Pack - Premium Edition | 212308 | [212308-multiversus-founders-pack-premium-edition.json](./212308-multiversus-founders-pack-premium-edition.json) |
 | MultiVersus: Founder's Pack - Standard Edition | 212307 | [212307-multiversus-founders-pack-standard-edition.json](./212307-multiversus-founders-pack-standard-edition.json) |
