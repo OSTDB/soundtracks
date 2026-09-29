@@ -161,6 +161,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yatzy for iPad | 90798 | [90798-yatzy-for-ipad.json](./90798-yatzy-for-ipad.json) |
 | Yatzy Ultimate | 175304 | [175304-yatzy-ultimate.json](./175304-yatzy-ultimate.json) |
 | Yavalanche | 389739 | [389739-yavalanche.json](./389739-yavalanche.json) |
+| Yawara! | 58886 | [58886-yawara.json](./58886-yawara.json) |
+| Yawara! 2 | 58885 | [58885-yawara-2.json](./58885-yawara-2.json) |
 | Yawara!: Yawara no Seishun | 353407 | [353407-yawara-yawara-no-seishun.json](./353407-yawara-yawara-no-seishun.json) |
 | Yay BMO | 268988 | [268988-yay-bmo.json](./268988-yay-bmo.json) |
 | Yazzie | 141112 | [141112-yazzie.json](./141112-yazzie.json) |
