@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusion of L'Phalcia | 39010 | [39010-illusion-of-lphalcia.json](./39010-illusion-of-lphalcia.json) |
 | Illusion Squares | 255170 | [255170-illusion-squares.json](./255170-illusion-squares.json) |
 | Illusion: Trust Test | 196145 | [196145-illusion-trust-test.json](./196145-illusion-trust-test.json) |
+| Illusions | 40893 | [40893-illusions.json](./40893-illusions.json) |
 | Illusions 360 | 67971 | [67971-illusions-360.json](./67971-illusions-360.json) |
 | Illusory Dreamlight 1: Deprimerie | 186174 | [186174-illusory-dreamlight-1-deprimerie.json](./186174-illusory-dreamlight-1-deprimerie.json) |
 | Illvelo Swamp Happy Together | 383529 | [383529-illvelo-swamp-happy-together.json](./383529-illvelo-swamp-happy-together.json) |
@@ -2237,6 +2238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Cricket Captain III | 63325 | [63325-international-cricket-captain-iii.json](./63325-international-cricket-captain-iii.json) |
 | International Golf Pro | 43446 | [43446-international-golf-pro.json](./43446-international-golf-pro.json) |
 | International Match Day | 397918 | [397918-international-match-day.json](./397918-international-match-day.json) |
+| International Ninja Rabbits | 40916 | [40916-international-ninja-rabbits.json](./40916-international-ninja-rabbits.json) |
 | International Pool Championship | 92472 | [92472-international-pool-championship.json](./92472-international-pool-championship.json) |
 | International Racing Squirrels | 63366 | [63366-international-racing-squirrels.json](./63366-international-racing-squirrels.json) |
 | International Rally | 49908 | [49908-international-rally.json](./49908-international-rally.json) |
