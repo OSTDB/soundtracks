@@ -2008,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight List - Categories Game | 87038 | [87038-fight-list-categories-game.json](./87038-fight-list-categories-game.json) |
 | Fight Me | 137553 | [137553-fight-me.json](./137553-fight-me.json) |
 | Fight Me | 378308 | [378308-fight-me.json](./378308-fight-me.json) |
+| Fight Me Bro! | 31082 | [31082-fight-me-bro.json](./31082-fight-me-bro.json) |
 | Fight Night 2004 | 5835 | [5835-fight-night-2004.json](./5835-fight-night-2004.json) |
 | Fight Night Round 2 | 3915 | [3915-fight-night-round-2.json](./3915-fight-night-round-2.json) |
 | Fight Night Round 3 | 5836 | [5836-fight-night-round-3.json](./5836-fight-night-round-3.json) |
@@ -2115,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Filament: Marmalade Edition | 154517 | [154517-filament-marmalade-edition.json](./154517-filament-marmalade-edition.json) |
 | File | 126451 | [126451-file.json](./126451-file.json) |
 | File 47 | 337124 | [337124-file-47.json](./337124-file-47.json) |
+| File 9 | 31121 | [31121-file-9.json](./31121-file-9.json) |
 | File Destined | 235446 | [235446-file-destined.json](./235446-file-destined.json) |
 | File://maniac | 118374 | [118374-file-maniac.json](./118374-file-maniac.json) |
 | FileKiller | 294215 | [294215-filekiller.json](./294215-filekiller.json) |
@@ -2527,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finnish Cottage 8 | 334484 | [334484-finnish-cottage-8.json](./334484-finnish-cottage-8.json) |
 | Finnish Cottage Simulator | 319559 | [319559-finnish-cottage-simulator.json](./319559-finnish-cottage-simulator.json) |
 | Finnish Pub Simulator | 326424 | [326424-finnish-pub-simulator.json](./326424-finnish-pub-simulator.json) |
+| Finque | 31057 | [31057-finque.json](./31057-finque.json) |
 | FINSummerVR | 104059 | [104059-finsummervr.json](./104059-finsummervr.json) |
 | Fio Fizhook | 296365 | [296365-fio-fizhook.json](./296365-fio-fizhook.json) |
 | Fiona's Dream of Atlantis | 294228 | [294228-fionas-dream-of-atlantis.json](./294228-fionas-dream-of-atlantis.json) |
