@@ -217,6 +217,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon Online | 104123 | [104123-backgammon-online.json](./104123-backgammon-online.json) |
 | Backgammon Professional | 338799 | [338799-backgammon-professional.json](./338799-backgammon-professional.json) |
 | Backgammon Royale | 12397 | [12397-backgammon-royale.json](./12397-backgammon-royale.json) |
+| BackGuiner: Yomigaeru Yuusha-tachi - Hishou-hen Uragiri no Senjou | 45425 | [45425-backguiner-yomigaeru-yuusha-tachi-hishou-hen-uragiri-no-senjou.json](./45425-backguiner-yomigaeru-yuusha-tachi-hishou-hen-uragiri-no-senjou.json) |
+| BackGuiner: Yomigaeru Yuusha-tachi - Kakusei-hen Guiner Tensei | 45424 | [45424-backguiner-yomigaeru-yuusha-tachi-kakusei-hen-guiner-tensei.json](./45424-backguiner-yomigaeru-yuusha-tachi-kakusei-hen-guiner-tensei.json) |
 | Backlash: A Turret Gunner Simulation | 338818 | [338818-backlash-a-turret-gunner-simulation.json](./338818-backlash-a-turret-gunner-simulation.json) |
 | Backlot: Hollywood Studio Tycoon | 416649 | [416649-backlot-hollywood-studio-tycoon.json](./416649-backlot-hollywood-studio-tycoon.json) |
 | Backpack | 297779 | [297779-backpack.json](./297779-backpack.json) |
@@ -523,8 +525,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakumatsu Roman: Gekka no Kenshi 1+2 | 84253 | [84253-bakumatsu-roman-gekka-no-kenshi-1-2.json](./84253-bakumatsu-roman-gekka-no-kenshi-1-2.json) |
 | Bakumatsu-shishi no Renai Jijou | 163229 | [163229-bakumatsu-shishi-no-renai-jijou.json](./163229-bakumatsu-shishi-no-renai-jijou.json) |
 | Bakuretsu Breaker | 40269 | [40269-bakuretsu-breaker.json](./40269-bakuretsu-breaker.json) |
+| Bakuretsu Hunter | 45423 | [45423-bakuretsu-hunter.json](./45423-bakuretsu-hunter.json) |
+| Bakuretsu Hunter R | 45421 | [45421-bakuretsu-hunter-r.json](./45421-bakuretsu-hunter-r.json) |
 | Bakuretsu Hunters: Mahjong Special | 123058 | [123058-bakuretsu-hunters-mahjong-special.json](./123058-bakuretsu-hunters-mahjong-special.json) |
 | Bakuryuu Sentai Abaranger | 130409 | [130409-bakuryuu-sentai-abaranger.json](./130409-bakuryuu-sentai-abaranger.json) |
+| Bakushou!! All Yoshimoto Quiz Ou Ketteisen DX | 45422 | [45422-bakushou-all-yoshimoto-quiz-ou-ketteisen-dx.json](./45422-bakushou-all-yoshimoto-quiz-ou-ketteisen-dx.json) |
 | Bakushou!! All Yoshimoto Quiz-Ou Ketteisen | 245247 | [245247-bakushou-all-yoshimoto-quiz-ou-ketteisen.json](./245247-bakushou-all-yoshimoto-quiz-ou-ketteisen.json) |
 | Bakusuro Bank | 98040 | [98040-bakusuro-bank.json](./98040-bakusuro-bank.json) |
 | Bakuten Shoot Beyblade | 80235 | [80235-bakuten-shoot-beyblade.json](./80235-bakuten-shoot-beyblade.json) |
@@ -592,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldur's Gate: The Complete Saga | 52616 | [52616-baldurs-gate-the-complete-saga.json](./52616-baldurs-gate-the-complete-saga.json) |
 | Baldwin's Bear | 195262 | [195262-baldwins-bear.json](./195262-baldwins-bear.json) |
 | Baldy Dash | 314681 | [314681-baldy-dash.json](./314681-baldy-dash.json) |
+| Baldy Land | 45420 | [45420-baldy-land.json](./45420-baldy-land.json) |
 | Bales of Amber | 206732 | [206732-bales-of-amber.json](./206732-bales-of-amber.json) |
 | Balikaw | 390132 | [390132-balikaw.json](./390132-balikaw.json) |
 | Balkan Bloodbath | 310726 | [310726-balkan-bloodbath.json](./310726-balkan-bloodbath.json) |
@@ -1597,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Arena Toshinden URA: Ultimate Revenge Attack | 77987 | [77987-battle-arena-toshinden-ura-ultimate-revenge-attack.json](./77987-battle-arena-toshinden-ura-ultimate-revenge-attack.json) |
 | Battle Arena: Robot Apocalypse | 148886 | [148886-battle-arena-robot-apocalypse.json](./148886-battle-arena-robot-apocalypse.json) |
 | Battle Army | 81212 | [81212-battle-army.json](./81212-battle-army.json) |
+| Battle Athletess Daiundoukai | 45419 | [45419-battle-athletess-daiundoukai.json](./45419-battle-athletess-daiundoukai.json) |
 | Battle Axe & Final Vendetta Bundle | 311110 | [311110-battle-axe-and-final-vendetta-bundle.json](./311110-battle-axe-and-final-vendetta-bundle.json) |
 | Battle B-Daman | 49365 | [49365-battle-b-daman.json](./49365-battle-b-daman.json) |
 | Battle B-Daman: Fire Spirits! | 49364 | [49364-battle-b-daman-fire-spirits.json](./49364-battle-b-daman-fire-spirits.json) |
@@ -2148,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Cafe: Caribbean Sand | 232988 | [232988-beach-cafe-caribbean-sand.json](./232988-beach-cafe-caribbean-sand.json) |
 | Beach Club Simulator | 292638 | [292638-beach-club-simulator.json](./292638-beach-club-simulator.json) |
 | Beach Club Simulator 2024 | 289429 | [289429-beach-club-simulator-2024.json](./289429-beach-club-simulator-2024.json) |
+| Beach de Reach! | 45418 | [45418-beach-de-reach.json](./45418-beach-de-reach.json) |
 | Beach Festival World Championship 1997 | 255362 | [255362-beach-festival-world-championship-1997.json](./255362-beach-festival-world-championship-1997.json) |
 | Beach Friends | 376465 | [376465-beach-friends.json](./376465-beach-friends.json) |
 | Beach Fun Summer Challenge | 50739 | [50739-beach-fun-summer-challenge.json](./50739-beach-fun-summer-challenge.json) |
@@ -3680,6 +3688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishojo Battlefield | 174646 | [174646-bishojo-battlefield.json](./174646-bishojo-battlefield.json) |
 | Bishojou Mahjong Club | 41339 | [41339-bishojou-mahjong-club.json](./41339-bishojou-mahjong-club.json) |
 | Bishoujo Battle: Double Strike! | 195525 | [195525-bishoujo-battle-double-strike.json](./195525-bishoujo-battle-double-strike.json) |
+| Bishoujo Hanafuda Kikou Michinoku Hitou Koi Monogatari Special | 45417 | [45417-bishoujo-hanafuda-kikou-michinoku-hitou-koi-monogatari-special.json](./45417-bishoujo-hanafuda-kikou-michinoku-hitou-koi-monogatari-special.json) |
 | Bishoujo Mangekyou: Kami ga Tsukuritamouta Shoujo-tachi | 115725 | [115725-bishoujo-mangekyou-kami-ga-tsukuritamouta-shoujo-tachi.json](./115725-bishoujo-mangekyou-kami-ga-tsukuritamouta-shoujo-tachi.json) |
 | Bishoujo Mangekyou: Katsute Shoujo Datta Kimi he | 115724 | [115724-bishoujo-mangekyou-katsute-shoujo-datta-kimi-he.json](./115724-bishoujo-mangekyou-katsute-shoujo-datta-kimi-he.json) |
 | Bishoujo Mangekyou: Norowareshi Densetsu no Shoujo | 115722 | [115722-bishoujo-mangekyou-norowareshi-densetsu-no-shoujo.json](./115722-bishoujo-mangekyou-norowareshi-densetsu-no-shoujo.json) |
@@ -3690,6 +3699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Senshi Sailor Moon Super S: Illustration Club | 225257 | [225257-bishoujo-senshi-sailor-moon-super-s-illustration-club.json](./225257-bishoujo-senshi-sailor-moon-super-s-illustration-club.json) |
 | Bishoujo Senshi Sailor Moon SuperS: Sailor Moon to Hajimete no Eigo | 63949 | [63949-bishoujo-senshi-sailor-moon-supers-sailor-moon-to-hajimete-no-eigo.json](./63949-bishoujo-senshi-sailor-moon-supers-sailor-moon-to-hajimete-no-eigo.json) |
 | Bishoujo Senshi Sailor Moon SuperS: Sailor Moon to Hiragana Lesson! | 63952 | [63952-bishoujo-senshi-sailor-moon-supers-sailor-moon-to-hiragana-lesson.json](./63952-bishoujo-senshi-sailor-moon-supers-sailor-moon-to-hiragana-lesson.json) |
+| Bishoujo Senshi Sailor Moon SuperS: Shin Shuyaku Soudatsusen | 45457 | [45457-bishoujo-senshi-sailor-moon-supers-shin-shuyaku-soudatsusen.json](./45457-bishoujo-senshi-sailor-moon-supers-shin-shuyaku-soudatsusen.json) |
 | Bishoujo Senshi Sailor Moon SuperS: Youkoso! Sailor Youchien | 63948 | [63948-bishoujo-senshi-sailor-moon-supers-youkoso-sailor-youchien.json](./63948-bishoujo-senshi-sailor-moon-supers-youkoso-sailor-youchien.json) |
 | Bishoujo Senshi Sailor V | 234339 | [234339-bishoujo-senshi-sailor-v.json](./234339-bishoujo-senshi-sailor-v.json) |
 | Bishoujo Sexy Derby | 41358 | [41358-bishoujo-sexy-derby.json](./41358-bishoujo-sexy-derby.json) |
@@ -3700,6 +3710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Shashinkan II: Moving School | 41378 | [41378-bishoujo-shashinkan-ii-moving-school.json](./41378-bishoujo-shashinkan-ii-moving-school.json) |
 | Bishoujo Shashinkan Part III: Photo Club - Kyoufu no Kan Hen | 67385 | [67385-bishoujo-shashinkan-part-iii-photo-club-kyoufu-no-kan-hen.json](./67385-bishoujo-shashinkan-part-iii-photo-club-kyoufu-no-kan-hen.json) |
 | Bishoujo Shashinkan Special: Double Vision | 67384 | [67384-bishoujo-shashinkan-special-double-vision.json](./67384-bishoujo-shashinkan-special-double-vision.json) |
+| Bishoujo Variety Game: Rapyulus Panic | 45416 | [45416-bishoujo-variety-game-rapyulus-panic.json](./45416-bishoujo-variety-game-rapyulus-panic.json) |
 | Bishoujo Wrestler Retsuden: Blizzard Yuki Rannyuu!! | 38275 | [38275-bishoujo-wrestler-retsuden-blizzard-yuki-rannyuu.json](./38275-bishoujo-wrestler-retsuden-blizzard-yuki-rannyuu.json) |
 | Bismarck: The North Sea Chase | 14308 | [14308-bismarck-the-north-sea-chase.json](./14308-bismarck-the-north-sea-chase.json) |
 | Bist du zu schwach oder Stark | 156568 | [156568-bist-du-zu-schwach-oder-stark.json](./156568-bist-du-zu-schwach-oder-stark.json) |
@@ -3991,6 +4002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Wolves Saga: Weiβ und Schwarz - for Nintendo Switch | 414563 | [414563-black-wolves-saga-wei-und-schwarz-for-nintendo-switch.json](./414563-black-wolves-saga-wei-und-schwarz-for-nintendo-switch.json) |
 | Black Zen White | 344938 | [344938-black-zen-white.json](./344938-black-zen-white.json) |
 | Black, no sugar | 183361 | [183361-black-no-sugar.json](./183361-black-no-sugar.json) |
+| Black/Matrix | 45415 | [45415-black-matrix.json](./45415-black-matrix.json) |
 | Black/Matrix + | 93534 | [93534-black-matrix.json](./93534-black-matrix.json) |
 | Black/Matrix 00 | 137090 | [137090-black-matrix-00.json](./137090-black-matrix-00.json) |
 | Black/Matrix Advanced | 93013 | [93013-black-matrix-advanced.json](./93013-black-matrix-advanced.json) |
@@ -4166,6 +4178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blake Strongflank | 182515 | [182515-blake-strongflank.json](./182515-blake-strongflank.json) |
 | Blake Turner: Ace Attorney | 308528 | [308528-blake-turner-ace-attorney.json](./308528-blake-turner-ace-attorney.json) |
 | Blaloon Blalympia | 187505 | [187505-blaloon-blalympia.json](./187505-blaloon-blalympia.json) |
+| Blam! Machinehead | 45414 | [45414-blam-machinehead.json](./45414-blam-machinehead.json) |
 | Blamdown Udder Fury | 33063 | [33063-blamdown-udder-fury.json](./33063-blamdown-udder-fury.json) |
 | Blame him | 111802 | [111802-blame-him.json](./111802-blame-him.json) |
 | BlameChat | 415969 | [415969-blamechat.json](./415969-blamechat.json) |
