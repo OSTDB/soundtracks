@@ -2772,6 +2772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV: Winds of Change | 298306 | [298306-europa-universalis-iv-winds-of-change.json](./298306-europa-universalis-iv-winds-of-change.json) |
 | Europa Universalis V: Fate of the Phoenix | 408150 | [408150-europa-universalis-v-fate-of-the-phoenix.json](./408150-europa-universalis-v-fate-of-the-phoenix.json) |
 | Europa Universalis: Rome - Gold Edition | 27829 | [27829-europa-universalis-rome-gold-edition.json](./27829-europa-universalis-rome-gold-edition.json) |
+| Europe 1300 | 9670 | [9670-europe-1300.json](./9670-europe-1300.json) |
 | Europe 2041: Resistance | 297094 | [297094-europe-2041-resistance.json](./297094-europe-2041-resistance.json) |
 | Europe Ablaze | 25978 | [25978-europe-ablaze.json](./25978-europe-ablaze.json) |
 | Europe Front II | 200741 | [200741-europe-front-ii.json](./200741-europe-front-ii.json) |
@@ -2876,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everblade | 192806 | [192806-everblade.json](./192806-everblade.json) |
 | Everbloom | 178663 | [178663-everbloom.json](./178663-everbloom.json) |
 | Everblue | 37082 | [37082-everblue.json](./37082-everblue.json) |
+| Everblue 2 | 9656 | [9656-everblue-2.json](./9656-everblue-2.json) |
 | Evercade Alpha Taito Bartop Arcade | 346796 | [346796-evercade-alpha-taito-bartop-arcade.json](./346796-evercade-alpha-taito-bartop-arcade.json) |
 | Everchained | 304643 | [304643-everchained.json](./304643-everchained.json) |
 | Everchanging | 157153 | [157153-everchanging.json](./157153-everchanging.json) |
