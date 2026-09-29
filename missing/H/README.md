@@ -1046,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvestella | 206818 | [206818-harvestella.json](./206818-harvestella.json) |
 | Harvester Tractor Farming Simulator Game | 174866 | [174866-harvester-tractor-farming-simulator-game.json](./174866-harvester-tractor-farming-simulator-game.json) |
 | Harvester vs. Zombies | 409751 | [409751-harvester-vs-zombies.json](./409751-harvester-vs-zombies.json) |
+| Harvey Birdman: Attorney at Law | 4907 | [4907-harvey-birdman-attorney-at-law.json](./4907-harvey-birdman-attorney-at-law.json) |
 | Hasamu | 40176 | [40176-hasamu.json](./40176-hasamu.json) |
 | Hasbro Family Fun Pack - Conquest Edition | 118454 | [118454-hasbro-family-fun-pack-conquest-edition.json](./118454-hasbro-family-fun-pack-conquest-edition.json) |
 | Hasbro Family Game Night 2 | 50606 | [50606-hasbro-family-game-night-2.json](./50606-hasbro-family-game-night-2.json) |
@@ -4773,6 +4774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed: Ultimate Stunt Edition | 169205 | [169205-hot-wheels-unleashed-ultimate-stunt-edition.json](./169205-hot-wheels-unleashed-ultimate-stunt-edition.json) |
 | Hot Wheels World Race | 243147 | [243147-hot-wheels-world-race.json](./243147-hot-wheels-world-race.json) |
 | Hot Wheels: Bash Arena | 70992 | [70992-hot-wheels-bash-arena.json](./70992-hot-wheels-bash-arena.json) |
+| Hot Wheels: Beat That! | 4916 | [4916-hot-wheels-beat-that.json](./4916-hot-wheels-beat-that.json) |
 | Hot Wheels: Crash! | 74090 | [74090-hot-wheels-crash.json](./74090-hot-wheels-crash.json) |
 | Hot Wheels: Custom Car Designer | 313290 | [313290-hot-wheels-custom-car-designer.json](./313290-hot-wheels-custom-car-designer.json) |
 | Hot Wheels: Extreme Racing | 45058 | [45058-hot-wheels-extreme-racing.json](./45058-hot-wheels-extreme-racing.json) |
@@ -5204,6 +5206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huggy: Love and Rescue | 276861 | [276861-huggy-love-and-rescue.json](./276861-huggy-love-and-rescue.json) |
 | Hugh's Dream | 135797 | [135797-hughs-dream.json](./135797-hughs-dream.json) |
 | Huglings | 388756 | [388756-huglings.json](./388756-huglings.json) |
+| Hugo | 204887 | [204887-hugo.json](./204887-hugo.json) |
 | Hugo 2 1/2 | 64504 | [64504-hugo-2-1-2.json](./64504-hugo-2-1-2.json) |
 | Hugo and the Animals of the Ocean | 286610 | [286610-hugo-and-the-animals-of-the-ocean.json](./286610-hugo-and-the-animals-of-the-ocean.json) |
 | Hugo Gold | 265969 | [265969-hugo-gold.json](./265969-hugo-gold.json) |
@@ -5575,6 +5578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydrogen | 295875 | [295875-hydrogen.json](./295875-hydrogen.json) |
 | Hydroneer: Journey to Volcalidus | 285576 | [285576-hydroneer-journey-to-volcalidus.json](./285576-hydroneer-journey-to-volcalidus.json) |
 | Hydropawnics | 371893 | [371893-hydropawnics.json](./371893-hydropawnics.json) |
+| Hydrophobia | 210061 | [210061-hydrophobia.json](./210061-hydrophobia.json) |
 | Hydroplane: Riptide Racers | 278549 | [278549-hydroplane-riptide-racers.json](./278549-hydroplane-riptide-racers.json) |
 | Hyena Simulator | 86848 | [86848-hyena-simulator.json](./86848-hyena-simulator.json) |
 | Hyena Squad | 175206 | [175206-hyena-squad.json](./175206-hyena-squad.json) |
