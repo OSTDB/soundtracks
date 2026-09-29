@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaon : Fragmented Core | 379582 | [379582-kaon-fragmented-core.json](./379582-kaon-fragmented-core.json) |
 | Kaori After Story | 112770 | [112770-kaori-after-story.json](./112770-kaori-after-story.json) |
 | Kaos | 118397 | [118397-kaos.json](./118397-kaos.json) |
+| Kaos 2 | 57724 | [57724-kaos-2.json](./57724-kaos-2.json) |
 | Kǎpái Màoxiǎnzhě | 148369 | [148369-kapai-maoxianzhe.json](./148369-kapai-maoxianzhe.json) |
 | Kaperfahrt | 414347 | [414347-kaperfahrt.json](./414347-kaperfahrt.json) |
 | Kapi Hospital | 260739 | [260739-kapi-hospital.json](./260739-kapi-hospital.json) |
@@ -1622,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kintsugi | 135682 | [135682-kintsugi.json](./135682-kintsugi.json) |
 | Kintsugi | 396400 | [396400-kintsugi.json](./396400-kintsugi.json) |
 | Kintsugi: A Journey Through the Broken Pieces | 339927 | [339927-kintsugi-a-journey-through-the-broken-pieces.json](./339927-kintsugi-a-journey-through-the-broken-pieces.json) |
+| Kintsukuroi | 57744 | [57744-kintsukuroi.json](./57744-kintsukuroi.json) |
 | Kinu Shoku Ryuu Hana: Weaving The Blue Orient | 314448 | [314448-kinu-shoku-ryuu-hana-weaving-the-blue-orient.json](./314448-kinu-shoku-ryuu-hana-weaving-the-blue-orient.json) |
 | Kioh Gyoku | 123607 | [123607-kioh-gyoku.json](./123607-kioh-gyoku.json) |
 | Kioku | 309886 | [309886-kioku.json](./309886-kioku.json) |
