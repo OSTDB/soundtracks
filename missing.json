@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T03:04:03.818Z",
-  "total_missing": 138138,
+  "generated_at": "2026-09-29T03:18:35.893Z",
+  "total_missing": 138188,
   "games": [
     {
       "igdb_id": 186066,
@@ -35591,6 +35591,11 @@
       "igdb_id": 90103,
       "game_name": "Around the Moon",
       "file": "missing/A/90103-around-the-moon.json"
+    },
+    {
+      "igdb_id": 52092,
+      "game_name": "Around the Words",
+      "file": "missing/A/52092-around-the-words.json"
     },
     {
       "igdb_id": 357421,
@@ -134168,6 +134173,11 @@
       "file": "missing/D/85556-darts-up.json"
     },
     {
+      "igdb_id": 52091,
+      "game_name": "Darts VR",
+      "file": "missing/D/52091-darts-vr.json"
+    },
+    {
       "igdb_id": 185536,
       "game_name": "Daruino",
       "file": "missing/D/185536-daruino.json"
@@ -143196,6 +143206,11 @@
       "igdb_id": 11448,
       "game_name": "Dengeki Bunko: Fighting Climax",
       "file": "missing/D/11448-dengeki-bunko-fighting-climax.json"
+    },
+    {
+      "igdb_id": 52139,
+      "game_name": "Dengeki Bunko: Fighting Climax Ignition - Mobile Version",
+      "file": "missing/D/52139-dengeki-bunko-fighting-climax-ignition-mobile-version.json"
     },
     {
       "igdb_id": 67241,
@@ -190256,6 +190271,11 @@
       "igdb_id": 105943,
       "game_name": "Fairy Knights",
       "file": "missing/F/105943-fairy-knights.json"
+    },
+    {
+      "igdb_id": 52096,
+      "game_name": "Fairy Lands: Rinka and the Fairy Gems",
+      "file": "missing/F/52096-fairy-lands-rinka-and-the-fairy-gems.json"
     },
     {
       "igdb_id": 113698,
@@ -318653,6 +318673,11 @@
       "file": "missing/L/255377-lego-worlds-showcase-collection-1.json"
     },
     {
+      "igdb_id": 52110,
+      "game_name": "LEGO Worlds: Classic Space",
+      "file": "missing/L/52110-lego-worlds-classic-space.json"
+    },
+    {
       "igdb_id": 205608,
       "game_name": "LEGO Worlds: Monster Pack",
       "file": "missing/L/205608-lego-worlds-monster-pack.json"
@@ -380153,6 +380178,11 @@
       "file": "missing/M/188950-mysteria-of-the-world-the-forest-of-death.json"
     },
     {
+      "igdb_id": 52086,
+      "game_name": "Mysteries of Fence",
+      "file": "missing/M/52086-mysteries-of-fence.json"
+    },
+    {
       "igdb_id": 124741,
       "game_name": "Mysteries of Magic Island",
       "file": "missing/M/124741-mysteries-of-magic-island.json"
@@ -409706,6 +409736,16 @@
       "igdb_id": 412375,
       "game_name": "Ouju: Isle of the Accursed",
       "file": "missing/O/412375-ouju-isle-of-the-accursed.json"
+    },
+    {
+      "igdb_id": 52137,
+      "game_name": "Ouka Sabaki",
+      "file": "missing/O/52137-ouka-sabaki.json"
+    },
+    {
+      "igdb_id": 52138,
+      "game_name": "Ouka Sabaki Zan",
+      "file": "missing/O/52138-ouka-sabaki-zan.json"
     },
     {
       "igdb_id": 59408,
@@ -656278,6 +656318,11 @@
       "file": "missing/V/244772-vr-fishtank.json"
     },
     {
+      "igdb_id": 52093,
+      "game_name": "VR Fitness",
+      "file": "missing/V/52093-vr-fitness.json"
+    },
+    {
       "igdb_id": 51517,
       "game_name": "VR Formula",
       "file": "missing/V/51517-vr-formula.json"
@@ -662706,6 +662751,11 @@
       "igdb_id": 404861,
       "game_name": "Waterful",
       "file": "missing/W/404861-waterful.json"
+    },
+    {
+      "igdb_id": 52090,
+      "game_name": "Watergate Xtreme",
+      "file": "missing/W/52090-watergate-xtreme.json"
     },
     {
       "igdb_id": 183907,
@@ -670428,6 +670478,11 @@
       "file": "missing/W/27645-winter-sports-2011-go-for-gold.json"
     },
     {
+      "igdb_id": 52136,
+      "game_name": "Winter Sports 2012: Feel the Spirit",
+      "file": "missing/W/52136-winter-sports-2012-feel-the-spirit.json"
+    },
+    {
       "igdb_id": 192326,
       "game_name": "Winter Sports Games: 4K Edition",
       "file": "missing/W/192326-winter-sports-games-4k-edition.json"
@@ -670516,6 +670571,11 @@
       "igdb_id": 188108,
       "game_name": "Winter With You",
       "file": "missing/W/188108-winter-with-you.json"
+    },
+    {
+      "igdb_id": 52135,
+      "game_name": "Winter Wolves Classic Games Collection",
+      "file": "missing/W/52135-winter-wolves-classic-games-collection.json"
     },
     {
       "igdb_id": 31179,
@@ -671046,6 +671106,11 @@
       "igdb_id": 179670,
       "game_name": "Witch n' Wiz",
       "file": "missing/W/179670-witch-n-wiz.json"
+    },
+    {
+      "igdb_id": 52134,
+      "game_name": "Witch of Ice Kingdom Collection",
+      "file": "missing/W/52134-witch-of-ice-kingdom-collection.json"
     },
     {
       "igdb_id": 334293,
@@ -672498,6 +672563,11 @@
       "file": "missing/W/75845-wolfenstein-ii-the-new-colossus-the-diaries-of-agent-silent-death.json"
     },
     {
+      "igdb_id": 52133,
+      "game_name": "Wolfenstein II: The New Colossus Digital Deluxe Edition",
+      "file": "missing/W/52133-wolfenstein-ii-the-new-colossus-digital-deluxe-edition.json"
+    },
+    {
       "igdb_id": 77284,
       "game_name": "Wolfenstein VCS: The Next Mission",
       "file": "missing/W/77284-wolfenstein-vcs-the-next-mission.json"
@@ -673238,6 +673308,16 @@
       "file": "missing/W/101929-woodclicker.json"
     },
     {
+      "igdb_id": 52132,
+      "game_name": "Woodcutter Simulator 2011",
+      "file": "missing/W/52132-woodcutter-simulator-2011.json"
+    },
+    {
+      "igdb_id": 52131,
+      "game_name": "Woodcutter Simulator 2012",
+      "file": "missing/W/52131-woodcutter-simulator-2012.json"
+    },
+    {
       "igdb_id": 16900,
       "game_name": "Woodcutter Simulator 2013",
       "file": "missing/W/16900-woodcutter-simulator-2013.json"
@@ -673711,6 +673791,11 @@
       "igdb_id": 89233,
       "game_name": "Word Guru - Puzzle Word Game",
       "file": "missing/W/89233-word-guru-puzzle-word-game.json"
+    },
+    {
+      "igdb_id": 52130,
+      "game_name": "Word Harmony",
+      "file": "missing/W/52130-word-harmony.json"
     },
     {
       "igdb_id": 89575,
@@ -674598,6 +674683,11 @@
       "file": "missing/W/9365-world-basketball-manager-tycoon.json"
     },
     {
+      "igdb_id": 52129,
+      "game_name": "World Basketball Tycoon",
+      "file": "missing/W/52129-world-basketball-tycoon.json"
+    },
+    {
       "igdb_id": 138230,
       "game_name": "World Beast War",
       "file": "missing/W/138230-world-beast-war.json"
@@ -675023,6 +675113,11 @@
       "file": "missing/W/135249-world-mosaics-iv.json"
     },
     {
+      "igdb_id": 52123,
+      "game_name": "World of Anikids",
+      "file": "missing/W/52123-world-of-anikids.json"
+    },
+    {
       "igdb_id": 245324,
       "game_name": "World of Blade: Zombie Slasher",
       "file": "missing/W/245324-world-of-blade-zombie-slasher.json"
@@ -675206,6 +675301,11 @@
       "igdb_id": 39012,
       "game_name": "World of One",
       "file": "missing/W/39012-world-of-one.json"
+    },
+    {
+      "igdb_id": 52122,
+      "game_name": "World of One: Holistic Edition",
+      "file": "missing/W/52122-world-of-one-holistic-edition.json"
     },
     {
       "igdb_id": 213356,
@@ -676093,6 +676193,16 @@
       "file": "missing/W/21137-world-war-one.json"
     },
     {
+      "igdb_id": 52113,
+      "game_name": "World War One: Centennial Edition",
+      "file": "missing/W/52113-world-war-one-centennial-edition.json"
+    },
+    {
+      "igdb_id": 52114,
+      "game_name": "World War One: Gold Edition",
+      "file": "missing/W/52114-world-war-one-gold-edition.json"
+    },
+    {
       "igdb_id": 75054,
       "game_name": "World War Party: Game of Trump",
       "file": "missing/W/75054-world-war-party-game-of-trump.json"
@@ -676703,6 +676813,11 @@
       "file": "missing/W/94889-worms-revolution-deluxe-edition.json"
     },
     {
+      "igdb_id": 52111,
+      "game_name": "Worms Revolution: Gold Edition",
+      "file": "missing/W/52111-worms-revolution-gold-edition.json"
+    },
+    {
       "igdb_id": 261333,
       "game_name": "Worms Rumble: Action All-Stars Pack",
       "file": "missing/W/261333-worms-rumble-action-all-stars-pack.json"
@@ -676761,6 +676876,11 @@
       "igdb_id": 225090,
       "game_name": "Worms: Ultimate Mayhem - Customization Pack",
       "file": "missing/W/225090-worms-ultimate-mayhem-customization-pack.json"
+    },
+    {
+      "igdb_id": 52112,
+      "game_name": "Worms: Ultimate Mayhem - Deluxe Edition",
+      "file": "missing/W/52112-worms-ultimate-mayhem-deluxe-edition.json"
     },
     {
       "igdb_id": 317981,
@@ -677658,9 +677778,19 @@
       "file": "missing/W/124120-wuppo-definitive-edition.json"
     },
     {
+      "igdb_id": 52121,
+      "game_name": "Wuppo: Special Edition",
+      "file": "missing/W/52121-wuppo-special-edition.json"
+    },
+    {
       "igdb_id": 118903,
       "game_name": "Wuppo: Super Deluxe Edition",
       "file": "missing/W/118903-wuppo-super-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 52120,
+      "game_name": "Wuppo: Ultimate Edition",
+      "file": "missing/W/52120-wuppo-ultimate-edition.json"
     },
     {
       "igdb_id": 58230,
@@ -677818,6 +677948,11 @@
       "file": "missing/W/168353-wwe-2k17-accelerator.json"
     },
     {
+      "igdb_id": 52127,
+      "game_name": "WWE 2K17: Deluxe Edition",
+      "file": "missing/W/52127-wwe-2k17-deluxe-edition.json"
+    },
+    {
       "igdb_id": 168340,
       "game_name": "WWE 2K17: Future Stars Pack",
       "file": "missing/W/168340-wwe-2k17-future-stars-pack.json"
@@ -677826,6 +677961,11 @@
       "igdb_id": 168352,
       "game_name": "WWE 2K17: Hall of Fame Showcase",
       "file": "missing/W/168352-wwe-2k17-hall-of-fame-showcase.json"
+    },
+    {
+      "igdb_id": 52128,
+      "game_name": "WWE 2K17: Hall of Fame Showcase Edition",
+      "file": "missing/W/52128-wwe-2k17-hall-of-fame-showcase-edition.json"
     },
     {
       "igdb_id": 168350,
@@ -678338,6 +678478,21 @@
       "file": "missing/X/3347-x-rebirth.json"
     },
     {
+      "igdb_id": 52126,
+      "game_name": "X Rebirth: Collector's Edition",
+      "file": "missing/X/52126-x-rebirth-collectors-edition.json"
+    },
+    {
+      "igdb_id": 52125,
+      "game_name": "X Rebirth: Home of Light",
+      "file": "missing/X/52125-x-rebirth-home-of-light.json"
+    },
+    {
+      "igdb_id": 52124,
+      "game_name": "X Rebirth: The Teladi Outpost",
+      "file": "missing/X/52124-x-rebirth-the-teladi-outpost.json"
+    },
+    {
       "igdb_id": 52251,
       "game_name": "X Rebirth: VR Edition",
       "file": "missing/X/52251-x-rebirth-vr-edition.json"
@@ -678383,9 +678538,19 @@
       "file": "missing/X/230814-x-blades-hd-gold.json"
     },
     {
+      "igdb_id": 52116,
+      "game_name": "X-Blades: Digital Deluxe Edition",
+      "file": "missing/X/52116-x-blades-digital-deluxe-edition.json"
+    },
+    {
       "igdb_id": 322140,
       "game_name": "X-Blades: HD Upgrade",
       "file": "missing/X/322140-x-blades-hd-upgrade.json"
+    },
+    {
+      "igdb_id": 52115,
+      "game_name": "X-Blades: Platinum Edition",
+      "file": "missing/X/52115-x-blades-platinum-edition.json"
     },
     {
       "igdb_id": 43941,
@@ -679368,6 +679533,11 @@
       "file": "missing/X/18365-xcom-2-anarchys-children.json"
     },
     {
+      "igdb_id": 52119,
+      "game_name": "XCOM 2: Digital Deluxe Edition",
+      "file": "missing/X/52119-xcom-2-digital-deluxe-edition.json"
+    },
+    {
       "igdb_id": 225099,
       "game_name": "XCOM 2: Reinforcement Pack",
       "file": "missing/X/225099-xcom-2-reinforcement-pack.json"
@@ -679406,6 +679576,11 @@
       "igdb_id": 225095,
       "game_name": "XCOM: Enemy Unknown - Slingshot Pack",
       "file": "missing/X/225095-xcom-enemy-unknown-slingshot-pack.json"
+    },
+    {
+      "igdb_id": 52118,
+      "game_name": "XCOM: Enemy Unknown - The Complete Edition",
+      "file": "missing/X/52118-xcom-enemy-unknown-the-complete-edition.json"
     },
     {
       "igdb_id": 147389,
@@ -679811,6 +679986,11 @@
       "igdb_id": 8506,
       "game_name": "Xeodrifter",
       "file": "missing/X/8506-xeodrifter.json"
+    },
+    {
+      "igdb_id": 52117,
+      "game_name": "Xeodrifter: Special Edition",
+      "file": "missing/X/52117-xeodrifter-special-edition.json"
     },
     {
       "igdb_id": 256217,
@@ -682508,6 +682688,11 @@
       "file": "missing/Y/11589-yomawari-night-alone.json"
     },
     {
+      "igdb_id": 52105,
+      "game_name": "Yomawari: Night Alone - Digital Pitch Dark Edition",
+      "file": "missing/Y/52105-yomawari-night-alone-digital-pitch-dark-edition.json"
+    },
+    {
       "igdb_id": 297245,
       "game_name": "Yomawari: Night Alone / htol#NiQ: The Firefly Diary - Limited Edition",
       "file": "missing/Y/297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json"
@@ -682596,6 +682781,11 @@
       "igdb_id": 154556,
       "game_name": "Yooka-Laylee: Buddy Duo Pack",
       "file": "missing/Y/154556-yooka-laylee-buddy-duo-pack.json"
+    },
+    {
+      "igdb_id": 52104,
+      "game_name": "Yooka-Laylee: Deluxe Edition",
+      "file": "missing/Y/52104-yooka-laylee-deluxe-edition.json"
     },
     {
       "igdb_id": 304740,
@@ -683431,6 +683621,11 @@
       "igdb_id": 52783,
       "game_name": "Youda Legend Amsterdam",
       "file": "missing/Y/52783-youda-legend-amsterdam.json"
+    },
+    {
+      "igdb_id": 52103,
+      "game_name": "Youda Legend: The Curse of the Amsterdam Diamond",
+      "file": "missing/Y/52103-youda-legend-the-curse-of-the-amsterdam-diamond.json"
     },
     {
       "igdb_id": 108627,
@@ -685338,6 +685533,11 @@
       "file": "missing/Z/343272-z-after-a-point-and-click-survival.json"
     },
     {
+      "igdb_id": 52102,
+      "game_name": "Z Collection",
+      "file": "missing/Z/52102-z-collection.json"
+    },
+    {
       "igdb_id": 277911,
       "game_name": "Z Escape: Complete Edition",
       "file": "missing/Z/277911-z-escape-complete-edition.json"
@@ -685451,6 +685651,11 @@
       "igdb_id": 376847,
       "game_name": "Z.A.T.O.: I Love the World and Everything In It",
       "file": "missing/Z/376847-z-a-t-o-i-love-the-world-and-everything-in-it.json"
+    },
+    {
+      "igdb_id": 52101,
+      "game_name": "Z.I.O.N: Deluxe Edition",
+      "file": "missing/Z/52101-z-i-o-n-deluxe-edition.json"
     },
     {
       "igdb_id": 163952,
@@ -685926,6 +686131,11 @@
       "igdb_id": 249261,
       "game_name": "Zapling Bygone: Deluxe Edition",
       "file": "missing/Z/249261-zapling-bygone-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 52100,
+      "game_name": "Zapp: Escape From Hollowcell",
+      "file": "missing/Z/52100-zapp-escape-from-hollowcell.json"
     },
     {
       "igdb_id": 161374,
@@ -686873,6 +687083,11 @@
       "file": "missing/Z/124128-zenmai-zamurai.json"
     },
     {
+      "igdb_id": 52109,
+      "game_name": "Zeno Archives",
+      "file": "missing/Z/52109-zeno-archives.json"
+    },
+    {
       "igdb_id": 118828,
       "game_name": "Zenodeath",
       "file": "missing/Z/118828-zenodeath.json"
@@ -687043,6 +687258,11 @@
       "file": "missing/Z/20709-zero-divide.json"
     },
     {
+      "igdb_id": 52108,
+      "game_name": "Zero Escape Trilogy",
+      "file": "missing/Z/52108-zero-escape-trilogy.json"
+    },
+    {
       "igdb_id": 319754,
       "game_name": "Zero Escape: Nine Hours, Nine Persons, Nine Doors",
       "file": "missing/Z/319754-zero-escape-nine-hours-nine-persons-nine-doors.json"
@@ -687166,6 +687386,11 @@
       "igdb_id": 289338,
       "game_name": "Zero Protocol",
       "file": "missing/Z/289338-zero-protocol.json"
+    },
+    {
+      "igdb_id": 52107,
+      "game_name": "Zero Reflex: Black Eye Edition",
+      "file": "missing/Z/52107-zero-reflex-black-eye-edition.json"
     },
     {
       "igdb_id": 129131,
@@ -687656,6 +687881,11 @@
       "igdb_id": 23876,
       "game_name": "Ziggurat",
       "file": "missing/Z/23876-ziggurat.json"
+    },
+    {
+      "igdb_id": 52088,
+      "game_name": "Ziggurat 3D Chess",
+      "file": "missing/Z/52088-ziggurat-3d-chess.json"
     },
     {
       "igdb_id": 253461,
@@ -688923,6 +689153,11 @@
       "file": "missing/Z/194409-zombie-night-terror-deluxe-edition.json"
     },
     {
+      "igdb_id": 52106,
+      "game_name": "Zombie Night Terror: Special Edition",
+      "file": "missing/Z/52106-zombie-night-terror-special-edition.json"
+    },
+    {
       "igdb_id": 74448,
       "game_name": "Zombie Nightmare",
       "file": "missing/Z/74448-zombie-nightmare.json"
@@ -690143,6 +690378,11 @@
       "file": "missing/Z/34591-zoombinis.json"
     },
     {
+      "igdb_id": 52099,
+      "game_name": "ZoomBook: The Temple of the Sun",
+      "file": "missing/Z/52099-zoombook-the-temple-of-the-sun.json"
+    },
+    {
       "igdb_id": 64949,
       "game_name": "Zoomerang",
       "file": "missing/Z/64949-zoomerang.json"
@@ -690306,6 +690546,11 @@
       "igdb_id": 23486,
       "game_name": "Zotrix",
       "file": "missing/Z/23486-zotrix.json"
+    },
+    {
+      "igdb_id": 52098,
+      "game_name": "Zotrix Bundle",
+      "file": "missing/Z/52098-zotrix-bundle.json"
     },
     {
       "igdb_id": 147263,
@@ -690481,6 +690726,11 @@
       "igdb_id": 40972,
       "game_name": "Zunzunkyou No Yabou",
       "file": "missing/Z/40972-zunzunkyou-no-yabou.json"
+    },
+    {
+      "igdb_id": 52097,
+      "game_name": "Zup-Zup!",
+      "file": "missing/Z/52097-zup-zup.json"
     },
     {
       "igdb_id": 38784,
