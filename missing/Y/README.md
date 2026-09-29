@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoyo's Puzzle Park | 44718 | [44718-yoyos-puzzle-park.json](./44718-yoyos-puzzle-park.json) |
 | YoyoMonkeyAdventure | 149036 | [149036-yoyomonkeyadventure.json](./149036-yoyomonkeyadventure.json) |
 | Yozemi no Center Shoujun Series: Eigo-hen | 321355 | [321355-yozemi-no-center-shoujun-series-eigo-hen.json](./321355-yozemi-no-center-shoujun-series-eigo-hen.json) |
+| Yozora Rhapsody | 30044 | [30044-yozora-rhapsody.json](./30044-yozora-rhapsody.json) |
 | YRek Lost In Portals | 166757 | [166757-yrek-lost-in-portals.json](./166757-yrek-lost-in-portals.json) |
 | Yrkkey's Paradise | 279712 | [279712-yrkkeys-paradise.json](./279712-yrkkeys-paradise.json) |
 | Ys | 206128 | [206128-ys.json](./206128-ys.json) |
