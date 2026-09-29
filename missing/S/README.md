@@ -1726,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam Eiyuden: Daikessen!! Kishi vs Musha | 223046 | [223046-sd-gundam-eiyuden-daikessen-kishi-vs-musha.json](./223046-sd-gundam-eiyuden-daikessen-kishi-vs-musha.json) |
 | SD Gundam Eiyuuden: Kishi Densetsu | 37352 | [37352-sd-gundam-eiyuuden-kishi-densetsu.json](./37352-sd-gundam-eiyuuden-kishi-densetsu.json) |
 | SD Gundam Eiyuuden: Musha Densetsu | 37351 | [37351-sd-gundam-eiyuuden-musha-densetsu.json](./37351-sd-gundam-eiyuuden-musha-densetsu.json) |
+| SD Gundam Force: Showdown! | 44720 | [44720-sd-gundam-force-showdown.json](./44720-sd-gundam-force-showdown.json) |
 | SD Gundam G Generation Cross Rays | 114152 | [114152-sd-gundam-g-generation-cross-rays.json](./114152-sd-gundam-g-generation-cross-rays.json) |
 | SD Gundam G Generation Cross Rays: Added Dispatch Mission Set 1 | 238486 | [238486-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-1.json](./238486-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-1.json) |
 | SD Gundam G Generation Cross Rays: Added Dispatch Mission Set 2 | 238466 | [238466-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-2.json](./238466-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-2.json) |
@@ -3949,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shirime 2: The Genesis of Butt-Eye | 253854 | [253854-shirime-2-the-genesis-of-butt-eye.json](./253854-shirime-2-the-genesis-of-butt-eye.json) |
 | Shirina | 103638 | [103638-shirina.json](./103638-shirina.json) |
 | Shiritsu Berubara Gakuen: Versailles no Bara Re*imagination | 136943 | [136943-shiritsu-berubara-gakuen-versailles-no-bara-re-imagination.json](./136943-shiritsu-berubara-gakuen-versailles-no-bara-re-imagination.json) |
+| Shiritsu Justice Gakuen: Nekketsu Seishun Nikki 2 | 44769 | [44769-shiritsu-justice-gakuen-nekketsu-seishun-nikki-2.json](./44769-shiritsu-justice-gakuen-nekketsu-seishun-nikki-2.json) |
 | Shirley Muldowney's Top Fuel Challenge | 69542 | [69542-shirley-muldowneys-top-fuel-challenge.json](./69542-shirley-muldowneys-top-fuel-challenge.json) |
 | Shiro | 220333 | [220333-shiro.json](./220333-shiro.json) |
 | SHiRO 011 | 97028 | [97028-shiro-011.json](./97028-shiro-011.json) |
@@ -4851,6 +4853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 1500 Series Vol. 16: The Pachislot | 209499 | [209499-simple-1500-series-vol-16-the-pachislot.json](./209499-simple-1500-series-vol-16-the-pachislot.json) |
 | Simple 1500 Series Vol. 17: The Bike Race | 59052 | [59052-simple-1500-series-vol-17-the-bike-race.json](./59052-simple-1500-series-vol-17-the-bike-race.json) |
 | Simple 1500 Series Vol. 42: The Igo 2 | 82129 | [82129-simple-1500-series-vol-42-the-igo-2.json](./82129-simple-1500-series-vol-42-the-igo-2.json) |
+| Simple 1500 Series Vol. 52: The Pro Wrestling 2 | 44754 | [44754-simple-1500-series-vol-52-the-pro-wrestling-2.json](./44754-simple-1500-series-vol-52-the-pro-wrestling-2.json) |
 | Simple 1500 Series Vol. 56: The Sniper | 57130 | [57130-simple-1500-series-vol-56-the-sniper.json](./57130-simple-1500-series-vol-56-the-sniper.json) |
 | Simple 1500 Series Vol. 65: The Golf | 130774 | [130774-simple-1500-series-vol-65-the-golf.json](./130774-simple-1500-series-vol-65-the-golf.json) |
 | Simple 1500 Series Vol. 77: The Suiei | 209500 | [209500-simple-1500-series-vol-77-the-suiei.json](./209500-simple-1500-series-vol-77-the-suiei.json) |
@@ -8215,6 +8218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soukou Kihei Votoms: The Battling Road | 38273 | [38273-soukou-kihei-votoms-the-battling-road.json](./38273-soukou-kihei-votoms-the-battling-road.json) |
 | Soukou Musume (Armored Girls) | 71599 | [71599-soukou-musume-armored-girls.json](./71599-soukou-musume-armored-girls.json) |
 | Soukou Seiki Ysphere ~Ingyaku no Sennou Kaizou~ | 133247 | [133247-soukou-seiki-ysphere-ingyaku-no-sennou-kaizou.json](./133247-soukou-seiki-ysphere-ingyaku-no-sennou-kaizou.json) |
+| Soukyuu Guren-tai | 44759 | [44759-soukyuu-guren-tai.json](./44759-soukyuu-guren-tai.json) |
 | Soul | 196565 | [196565-soul.json](./196565-soul.json) |
 | Soul | 199577 | [199577-soul.json](./199577-soul.json) |
 | Soul Apocalypto | 358927 | [358927-soul-apocalypto.json](./358927-soul-apocalypto.json) |
