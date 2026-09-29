@@ -2457,6 +2457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wimbledon '88 | 121720 | [121720-wimbledon-88.json](./121720-wimbledon-88.json) |
 | Wimbledon II | 46105 | [46105-wimbledon-ii.json](./46105-wimbledon-ii.json) |
 | Wimmelbild-Box Mystery | 65543 | [65543-wimmelbild-box-mystery.json](./65543-wimmelbild-box-mystery.json) |
+| Wimp: Who Stole My Pants? | 36175 | [36175-wimp-who-stole-my-pants.json](./36175-wimp-who-stole-my-pants.json) |
 | Win Big or Die | 30937 | [30937-win-big-or-die.json](./30937-win-big-or-die.json) |
 | Win or Crash! | 287699 | [287699-win-or-crash.json](./287699-win-or-crash.json) |
 | Win or Lose | 246373 | [246373-win-or-lose.json](./246373-win-or-lose.json) |
