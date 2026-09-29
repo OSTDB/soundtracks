@@ -3698,6 +3698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melbits POD | 138236 | [138236-melbits-pod.json](./138236-melbits-pod.json) |
 | Melbourne Tatty | 66780 | [66780-melbourne-tatty.json](./66780-melbourne-tatty.json) |
 | Melbourne: Route 96 | 334189 | [334189-melbourne-route-96.json](./334189-melbourne-route-96.json) |
+| Meld | 33330 | [33330-meld.json](./33330-meld.json) |
 | Meldev Power Boat Racing | 164274 | [164274-meldev-power-boat-racing.json](./164274-meldev-power-boat-racing.json) |
 | Meli | 381846 | [381846-meli.json](./381846-meli.json) |
 | Melissa K. and the Heart of Gold: Collector's Edition | 36235 | [36235-melissa-k-and-the-heart-of-gold-collectors-edition.json](./36235-melissa-k-and-the-heart-of-gold-collectors-edition.json) |
@@ -4413,6 +4414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metric Racer | 133427 | [133427-metric-racer.json](./133427-metric-racer.json) |
 | Metris | 91515 | [91515-metris.json](./91515-metris.json) |
 | Metris 4 | 91521 | [91521-metris-4.json](./91521-metris-4.json) |
+| Metris Soccer | 33295 | [33295-metris-soccer.json](./33295-metris-soccer.json) |
 | MetrixVR | 124142 | [124142-metrixvr.json](./124142-metrixvr.json) |
 | Metro - The Board Game | 88803 | [88803-metro-the-board-game.json](./88803-metro-the-board-game.json) |
 | Metro 2033: Wars | 59064 | [59064-metro-2033-wars.json](./59064-metro-2033-wars.json) |
@@ -5620,6 +5622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini-Moni. Shakatto Tambourine! Dapyon! | 69262 | [69262-mini-moni-shakatto-tambourine-dapyon.json](./69262-mini-moni-shakatto-tambourine-dapyon.json) |
 | Mini-U: Mosaic | 175408 | [175408-mini-u-mosaic.json](./175408-mini-u-mosaic.json) |
 | Mini-Yonku Let's & Go!! Power WGP 2 | 37927 | [37927-mini-yonku-lets-and-go-power-wgp-2.json](./37927-mini-yonku-lets-and-go-power-wgp-2.json) |
+| Mini's Magic World | 33339 | [33339-minis-magic-world.json](./33339-minis-magic-world.json) |
 | Miniacs: Steering Madness | 382227 | [382227-miniacs-steering-madness.json](./382227-miniacs-steering-madness.json) |
 | Miniature Garden | 25710 | [25710-miniature-garden.json](./25710-miniature-garden.json) |
 | Miniature Legends | 395238 | [395238-miniature-legends.json](./395238-miniature-legends.json) |
