@@ -2165,6 +2165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sedap! A Culinary Adventure | 273429 | [273429-sedap-a-culinary-adventure.json](./273429-sedap-a-culinary-adventure.json) |
 | Sedecktion | 297213 | [297213-sedecktion.json](./297213-sedecktion.json) |
 | Sedomairi | 159706 | [159706-sedomairi.json](./159706-sedomairi.json) |
+| Seduce Me the Otome | 19075 | [19075-seduce-me-the-otome.json](./19075-seduce-me-the-otome.json) |
 | Seduce Me the Otome: Episode Series | 145559 | [145559-seduce-me-the-otome-episode-series.json](./145559-seduce-me-the-otome-episode-series.json) |
 | Seduce Me: The Complete Story | 134665 | [134665-seduce-me-the-complete-story.json](./134665-seduce-me-the-complete-story.json) |
 | Seduce, Breed, Conquer | 376448 | [376448-seduce-breed-conquer.json](./376448-seduce-breed-conquer.json) |
@@ -3675,6 +3676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheriff Rage | 172199 | [172199-sheriff-rage.json](./172199-sheriff-rage.json) |
 | Sherlock | 25857 | [25857-sherlock.json](./25857-sherlock.json) |
 | Sherlock has a Clue | 310949 | [310949-sherlock-has-a-clue.json](./310949-sherlock-has-a-clue.json) |
+| Sherlock Holmes and The Hound of The Baskervilles | 16357 | [16357-sherlock-holmes-and-the-hound-of-the-baskervilles.json](./16357-sherlock-holmes-and-the-hound-of-the-baskervilles.json) |
 | Sherlock Holmes Consulting Detective Complete | 147288 | [147288-sherlock-holmes-consulting-detective-complete.json](./147288-sherlock-holmes-consulting-detective-complete.json) |
 | Sherlock Holmes Consulting Detective: Collection | 78363 | [78363-sherlock-holmes-consulting-detective-collection.json](./78363-sherlock-holmes-consulting-detective-collection.json) |
 | Sherlock Holmes Essential Bundle | 201013 | [201013-sherlock-holmes-essential-bundle.json](./201013-sherlock-holmes-essential-bundle.json) |
@@ -5655,6 +5657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Dancer: Free Falling | 87498 | [87498-sky-dancer-free-falling.json](./87498-sky-dancer-free-falling.json) |
 | Sky Dancers: They Magically Fly! | 49401 | [49401-sky-dancers-they-magically-fly.json](./49401-sky-dancers-they-magically-fly.json) |
 | Sky DarkCrow | 190195 | [190195-sky-darkcrow.json](./190195-sky-darkcrow.json) |
+| Sky Diver | 16970 | [16970-sky-diver.json](./16970-sky-diver.json) |
 | Sky Fighter Legends | 81195 | [81195-sky-fighter-legends.json](./81195-sky-fighter-legends.json) |
 | Sky Fighters | 275664 | [275664-sky-fighters.json](./275664-sky-fighters.json) |
 | Sky Fleet | 144190 | [144190-sky-fleet.json](./144190-sky-fleet.json) |
@@ -10991,6 +10994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Sentry | 292129 | [292129-star-sentry.json](./292129-star-sentry.json) |
 | Star Shaman | 135111 | [135111-star-shaman.json](./135111-star-shaman.json) |
 | Star Shift Origins | 163193 | [163193-star-shift-origins.json](./163193-star-shift-origins.json) |
+| Star Ship | 18424 | [18424-star-ship.json](./18424-star-ship.json) |
 | Star Sign | 217309 | [217309-star-sign.json](./217309-star-sign.json) |
 | Star Sign | 377304 | [377304-star-sign.json](./377304-star-sign.json) |
 | Star Singularity | 104857 | [104857-star-singularity.json](./104857-star-singularity.json) |
