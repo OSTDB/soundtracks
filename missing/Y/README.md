@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakyuukyou | 67390 | [67390-yakyuukyou.json](./67390-yakyuukyou.json) |
 | Yakzee: Remastered Edition | 308369 | [308369-yakzee-remastered-edition.json](./308369-yakzee-remastered-edition.json) |
 | Yakzee! | 308367 | [308367-yakzee.json](./308367-yakzee.json) |
+| Yam yam | 39812 | [39812-yam-yam.json](./39812-yam-yam.json) |
 | Yama no Susume: Next Summit - Ano Yama ni, Mou Ichido | 277306 | [277306-yama-no-susume-next-summit-ano-yama-ni-mou-ichido.json](./277306-yama-no-susume-next-summit-ano-yama-ni-mou-ichido.json) |
 | Yamabiko ha Ojou-sama no Osoba ni | 208478 | [208478-yamabiko-ha-ojou-sama-no-osoba-ni.json](./208478-yamabiko-ha-ojou-sama-no-osoba-ni.json) |
 | Yamafuda! Summit | 283857 | [283857-yamafuda-summit.json](./283857-yamafuda-summit.json) |
