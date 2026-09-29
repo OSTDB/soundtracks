@@ -1005,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zorakk: The Conqueror | 57154 | [57154-zorakk-the-conqueror.json](./57154-zorakk-the-conqueror.json) |
 | Zoria and the Cursed Land | 152227 | [152227-zoria-and-the-cursed-land.json](./152227-zoria-and-the-cursed-land.json) |
 | Zoria: Age of Shattering - Ancestors' Weapon Pack | 402944 | [402944-zoria-age-of-shattering-ancestors-weapon-pack.json](./402944-zoria-age-of-shattering-ancestors-weapon-pack.json) |
+| Zork | 1944 | [1944-zork.json](./1944-zork.json) |
 | Zork Collection | 137464 | [137464-zork-collection.json](./137464-zork-collection.json) |
 | Zork Remake | 118444 | [118444-zork-remake.json](./118444-zork-remake.json) |
 | ZorkQuest: Assault on Egreth Castle | 59856 | [59856-zorkquest-assault-on-egreth-castle.json](./59856-zorkquest-assault-on-egreth-castle.json) |
