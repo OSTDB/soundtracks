@@ -1053,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hastilude | 33127 | [33127-hastilude.json](./33127-hastilude.json) |
 | Hasty Snow | 117704 | [117704-hasty-snow.json](./117704-hasty-snow.json) |
 | Hat Hunters | 103428 | [103428-hat-hunters.json](./103428-hat-hunters.json) |
+| Hat Trick | 12326 | [12326-hat-trick.json](./12326-hat-trick.json) |
 | Hat Trick Hero 2 | 38332 | [38332-hat-trick-hero-2.json](./38332-hat-trick-hero-2.json) |
 | Hat Tricks: Hare in Box | 229054 | [229054-hat-tricks-hare-in-box.json](./229054-hat-tricks-hare-in-box.json) |
 | Hat World: New Testament | 229186 | [229186-hat-world-new-testament.json](./229186-hat-world-new-testament.json) |
@@ -5513,6 +5514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydlide | 320934 | [320934-hydlide.json](./320934-hydlide.json) |
 | Hydlide | 407550 | [407550-hydlide.json](./407550-hydlide.json) |
 | Hydlide Ev | 407599 | [407599-hydlide-ev.json](./407599-hydlide-ev.json) |
+| Hydra | 12152 | [12152-hydra.json](./12152-hydra.json) |
 | Hydra | 126444 | [126444-hydra.json](./126444-hydra.json) |
 | Hydra Hide Land | 337467 | [337467-hydra-hide-land.json](./337467-hydra-hide-land.json) |
 | Hydra: Poseidon's Сonspiracy | 342645 | [342645-hydra-poseidons-onspiracy.json](./342645-hydra-poseidons-onspiracy.json) |
