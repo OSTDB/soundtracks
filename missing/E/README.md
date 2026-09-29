@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elise's Peepshow | 161377 | [161377-elises-peepshow.json](./161377-elises-peepshow.json) |
 | Eliseisk 2074 | 167572 | [167572-eliseisk-2074.json](./167572-eliseisk-2074.json) |
 | Elisius | 149040 | [149040-elisius.json](./149040-elisius.json) |
+| Eliss | 29052 | [29052-eliss.json](./29052-eliss.json) |
 | Eliss Infinity | 41500 | [41500-eliss-infinity.json](./41500-eliss-infinity.json) |
 | Elite Archery | 111876 | [111876-elite-archery.json](./111876-elite-archery.json) |
 | Elite Beasts | 381628 | [381628-elite-beasts.json](./381628-elite-beasts.json) |
@@ -1915,6 +1916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Loon | 55216 | [55216-epic-loon.json](./55216-epic-loon.json) |
 | Epic Loot | 110310 | [110310-epic-loot.json](./110310-epic-loot.json) |
 | Epic Manager - Create Your Own Adventuring Agency | 26553 | [26553-epic-manager-create-your-own-adventuring-agency.json](./26553-epic-manager-create-your-own-adventuring-agency.json) |
+| Epic Mayhem | 29026 | [29026-epic-mayhem.json](./29026-epic-mayhem.json) |
 | Epic Mickey: Rebrushed | 287849 | [287849-epic-mickey-rebrushed.json](./287849-epic-mickey-rebrushed.json) |
 | Epic O'Clock | 401765 | [401765-epic-oclock.json](./401765-epic-oclock.json) |
 | Epic of Tarot | 285963 | [285963-epic-of-tarot.json](./285963-epic-of-tarot.json) |
@@ -2611,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Sacrifice | 273964 | [273964-eternal-sacrifice.json](./273964-eternal-sacrifice.json) |
 | Eternal Saga | 62762 | [62762-eternal-saga.json](./62762-eternal-saga.json) |
 | Eternal Seas | 236509 | [236509-eternal-seas.json](./236509-eternal-seas.json) |
+| Eternal Silence | 29121 | [29121-eternal-silence.json](./29121-eternal-silence.json) |
 | Eternal Slumber Party | 224582 | [224582-eternal-slumber-party.json](./224582-eternal-slumber-party.json) |
 | Eternal Space | 285532 | [285532-eternal-space.json](./285532-eternal-space.json) |
 | Eternal Starshine | 182370 | [182370-eternal-starshine.json](./182370-eternal-starshine.json) |
