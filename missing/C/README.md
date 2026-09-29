@@ -807,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tomaday | 40981 | [40981-captain-tomaday.json](./40981-captain-tomaday.json) |
 | Captain Tsubasa | 213601 | [213601-captain-tsubasa.json](./213601-captain-tsubasa.json) |
 | Captain Tsubasa III: Koutei no Chousen | 38340 | [38340-captain-tsubasa-iii-koutei-no-chousen.json](./38340-captain-tsubasa-iii-koutei-no-chousen.json) |
+| Captain Tsubasa J: Get in the Tomorrow | 45320 | [45320-captain-tsubasa-j-get-in-the-tomorrow.json](./45320-captain-tsubasa-j-get-in-the-tomorrow.json) |
 | Captain Tsubasa J: Zenkoku Seiha he no Chousen | 65009 | [65009-captain-tsubasa-j-zenkoku-seiha-he-no-chousen.json](./65009-captain-tsubasa-j-zenkoku-seiha-he-no-chousen.json) |
 | Captain Tsubasa V: Hasha no Shougou Campione | 38268 | [38268-captain-tsubasa-v-hasha-no-shougou-campione.json](./38268-captain-tsubasa-v-hasha-no-shougou-campione.json) |
 | Captain Tsubasa Vol. II: Super Striker | 102254 | [102254-captain-tsubasa-vol-ii-super-striker.json](./102254-captain-tsubasa-vol-ii-super-striker.json) |
@@ -2463,6 +2464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions of Zulula: Elite Edition | 63382 | [63382-champions-of-zulula-elite-edition.json](./63382-champions-of-zulula-elite-edition.json) |
 | Champions Stable: Equestrian Dynasty | 386838 | [386838-champions-stable-equestrian-dynasty.json](./386838-champions-stable-equestrian-dynasty.json) |
 | Champions Tactics Reforged | 343807 | [343807-champions-tactics-reforged.json](./343807-champions-tactics-reforged.json) |
+| Champions World Class Soccer | 46229 | [46229-champions-world-class-soccer.json](./46229-champions-world-class-soccer.json) |
 | Champions: Return to Arms | 10237 | [10237-champions-return-to-arms.json](./10237-champions-return-to-arms.json) |
 | Championship Chess | 56776 | [56776-championship-chess.json](./56776-championship-chess.json) |
 | Championship Hockey | 19772 | [19772-championship-hockey.json](./19772-championship-hockey.json) |
@@ -2541,6 +2543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Battle | 57063 | [57063-chaos-battle.json](./57063-chaos-battle.json) |
 | Chaos Battle League | 69350 | [69350-chaos-battle-league.json](./69350-chaos-battle-league.json) |
 | Chaos Brave Village | 298693 | [298693-chaos-brave-village.json](./298693-chaos-brave-village.json) |
+| Chaos Break | 46084 | [46084-chaos-break.json](./46084-chaos-break.json) |
 | Chaos Breaker | 76597 | [76597-chaos-breaker.json](./76597-chaos-breaker.json) |
 | Chaos Caster | 314990 | [314990-chaos-caster.json](./314990-chaos-caster.json) |
 | Chaos Caves | 113680 | [113680-chaos-caves.json](./113680-chaos-caves.json) |
@@ -4334,6 +4337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Us | 393463 | [393463-classic-us.json](./393463-classic-us.json) |
 | Classic Words Plus | 101589 | [101589-classic-words-plus.json](./101589-classic-words-plus.json) |
 | Classical Jukebox | 175933 | [175933-classical-jukebox.json](./175933-classical-jukebox.json) |
+| ClassiCube | 117562 | [117562-classicube.json](./117562-classicube.json) |
 | Classified Stories: Color Out of Space | 190951 | [190951-classified-stories-color-out-of-space.json](./190951-classified-stories-color-out-of-space.json) |
 | Classified Stories: The Tome of Myrkah | 109725 | [109725-classified-stories-the-tome-of-myrkah.json](./109725-classified-stories-the-tome-of-myrkah.json) |
 | Classified: Death in the Alley | 253991 | [253991-classified-death-in-the-alley.json](./253991-classified-death-in-the-alley.json) |
@@ -8962,6 +8966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Hook: Lost Numbers | 193224 | [193224-cyber-hook-lost-numbers.json](./193224-cyber-hook-lost-numbers.json) |
 | Cyber Horny | 277359 | [277359-cyber-horny.json](./277359-cyber-horny.json) |
 | Cyber Horror: Project S.Y.L.A. | 370110 | [370110-cyber-horror-project-s-y-l-a.json](./370110-cyber-horror-project-s-y-l-a.json) |
+| Cyber Hunter | 117145 | [117145-cyber-hunter.json](./117145-cyber-hunter.json) |
 | Cyber Hunter: Awakening | 157479 | [157479-cyber-hunter-awakening.json](./157479-cyber-hunter-awakening.json) |
 | Cyber Illusion | 146724 | [146724-cyber-illusion.json](./146724-cyber-illusion.json) |
 | Cyber Internet Club Simulator | 296501 | [296501-cyber-internet-club-simulator.json](./296501-cyber-internet-club-simulator.json) |
