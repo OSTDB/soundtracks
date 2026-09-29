@@ -2726,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FireMatch Empire | 382319 | [382319-firematch-empire.json](./382319-firematch-empire.json) |
 | Fireplace | 68630 | [68630-fireplace.json](./68630-fireplace.json) |
 | Fireplace Simulator | 337615 | [337615-fireplace-simulator.json](./337615-fireplace-simulator.json) |
+| Firepower 2000 | 19778 | [19778-firepower-2000.json](./19778-firepower-2000.json) |
 | Fires At Midnight | 133350 | [133350-fires-at-midnight.json](./133350-fires-at-midnight.json) |
 | Firescape | 342731 | [342731-firescape.json](./342731-firescape.json) |
 | Firescout | 142874 | [142874-firescout.json](./142874-firescout.json) |
@@ -4278,6 +4279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foreign Body | 236549 | [236549-foreign-body.json](./236549-foreign-body.json) |
 | Foreign Galaxies | 196232 | [196232-foreign-galaxies.json](./196232-foreign-galaxies.json) |
 | Foreign Sun | 289984 | [289984-foreign-sun.json](./289984-foreign-sun.json) |
+| Foreman for Real | 19741 | [19741-foreman-for-real.json](./19741-foreman-for-real.json) |
 | Foreman for Real | 370892 | [370892-foreman-for-real.json](./370892-foreman-for-real.json) |
 | Foreman for Real | 370893 | [370893-foreman-for-real.json](./370893-foreman-for-real.json) |
 | Foreman Frenzy! | 343284 | [343284-foreman-frenzy.json](./343284-foreman-frenzy.json) |
