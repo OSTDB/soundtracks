@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T14:18:26.273Z",
-  "total_missing": 140390,
+  "generated_at": "2026-09-29T14:33:16.064Z",
+  "total_missing": 140440,
   "games": [
     {
       "igdb_id": 186066,
@@ -14973,6 +14973,21 @@
       "file": "missing/A/171364-age-of-reforging-the-freelands.json"
     },
     {
+      "igdb_id": 9430,
+      "game_name": "Age of Sail",
+      "file": "missing/A/9430-age-of-sail.json"
+    },
+    {
+      "igdb_id": 9428,
+      "game_name": "Age of Sail II",
+      "file": "missing/A/9428-age-of-sail-ii.json"
+    },
+    {
+      "igdb_id": 9429,
+      "game_name": "Age of Sail II: Privateer's Bounty",
+      "file": "missing/A/9429-age-of-sail-ii-privateers-bounty.json"
+    },
+    {
       "igdb_id": 152157,
       "game_name": "Age of Sokoban",
       "file": "missing/A/152157-age-of-sokoban.json"
@@ -15321,6 +15336,11 @@
       "igdb_id": 240748,
       "game_name": "AgrChamp",
       "file": "missing/A/240748-agrchamp.json"
+    },
+    {
+      "igdb_id": 9537,
+      "game_name": "Agricultural Simulator 2011",
+      "file": "missing/A/9537-agricultural-simulator-2011.json"
     },
     {
       "igdb_id": 36393,
@@ -28556,6 +28576,16 @@
       "igdb_id": 9566,
       "game_name": "Another Century's Episode",
       "file": "missing/A/9566-another-centurys-episode.json"
+    },
+    {
+      "igdb_id": 9579,
+      "game_name": "Another Century's Episode 2",
+      "file": "missing/A/9579-another-centurys-episode-2.json"
+    },
+    {
+      "igdb_id": 9582,
+      "game_name": "Another Century's Episode 3: The Final",
+      "file": "missing/A/9582-another-centurys-episode-3-the-final.json"
     },
     {
       "igdb_id": 7270,
@@ -44936,6 +44966,11 @@
       "igdb_id": 132213,
       "game_name": "Axizon Labs: Zombies",
       "file": "missing/A/132213-axizon-labs-zombies.json"
+    },
+    {
+      "igdb_id": 9652,
+      "game_name": "Axle",
+      "file": "missing/A/9652-axle.json"
     },
     {
       "igdb_id": 184065,
@@ -134988,6 +135023,16 @@
       "file": "missing/D/62800-dark-escape-4d.json"
     },
     {
+      "igdb_id": 9654,
+      "game_name": "Dark Eternal",
+      "file": "missing/D/9654-dark-eternal.json"
+    },
+    {
+      "igdb_id": 9581,
+      "game_name": "Dark Eternal: Dissolution",
+      "file": "missing/D/9581-dark-eternal-dissolution.json"
+    },
+    {
       "igdb_id": 260222,
       "game_name": "Dark Eyed Angels",
       "file": "missing/D/260222-dark-eyed-angels.json"
@@ -144551,6 +144596,11 @@
       "igdb_id": 412266,
       "game_name": "Delta Directive",
       "file": "missing/D/412266-delta-directive.json"
+    },
+    {
+      "igdb_id": 9353,
+      "game_name": "Delta Force: Angel Falls",
+      "file": "missing/D/9353-delta-force-angel-falls.json"
     },
     {
       "igdb_id": 332541,
@@ -187543,6 +187593,11 @@
       "file": "missing/E/27829-europa-universalis-rome-gold-edition.json"
     },
     {
+      "igdb_id": 9670,
+      "game_name": "Europe 1300",
+      "file": "missing/E/9670-europe-1300.json"
+    },
+    {
       "igdb_id": 297094,
       "game_name": "Europe 2041: Resistance",
       "file": "missing/E/297094-europe-2041-resistance.json"
@@ -188061,6 +188116,11 @@
       "igdb_id": 37082,
       "game_name": "Everblue",
       "file": "missing/E/37082-everblue.json"
+    },
+    {
+      "igdb_id": 9656,
+      "game_name": "Everblue 2",
+      "file": "missing/E/9656-everblue-2.json"
     },
     {
       "igdb_id": 346796,
@@ -248528,6 +248588,11 @@
       "file": "missing/H/395187-habitica.json"
     },
     {
+      "igdb_id": 9606,
+      "game_name": "Habitrail Hamster Ball",
+      "file": "missing/H/9606-habitrail-hamster-ball.json"
+    },
+    {
       "igdb_id": 34647,
       "game_name": "Habitus",
       "file": "missing/H/34647-habitus.json"
@@ -265126,6 +265191,11 @@
       "igdb_id": 248077,
       "game_name": "Highland Panic",
       "file": "missing/H/248077-highland-panic.json"
+    },
+    {
+      "igdb_id": 9356,
+      "game_name": "Highland Warriors",
+      "file": "missing/H/9356-highland-warriors.json"
     },
     {
       "igdb_id": 28851,
@@ -284323,6 +284393,11 @@
       "file": "missing/I/210063-independent-games.json"
     },
     {
+      "igdb_id": 9682,
+      "game_name": "Indestructotank",
+      "file": "missing/I/9682-indestructotank.json"
+    },
+    {
       "igdb_id": 279748,
       "game_name": "Indestructotank Anniversary Edition",
       "file": "missing/I/279748-indestructotank-anniversary-edition.json"
@@ -295088,6 +295163,11 @@
       "file": "missing/J/95422-jellycar.json"
     },
     {
+      "igdb_id": 9635,
+      "game_name": "JellyCar",
+      "file": "missing/J/9635-jellycar.json"
+    },
+    {
       "igdb_id": 180135,
       "game_name": "Jellydad Hero",
       "file": "missing/J/180135-jellydad-hero.json"
@@ -297158,6 +297238,11 @@
       "file": "missing/J/319360-jill-o-lantern-final-cut.json"
     },
     {
+      "igdb_id": 9645,
+      "game_name": "Jill Saves the Prince",
+      "file": "missing/J/9645-jill-saves-the-prince.json"
+    },
+    {
       "igdb_id": 20222,
       "game_name": "Jillian Michaels' Fitness Adventure",
       "file": "missing/J/20222-jillian-michaels-fitness-adventure.json"
@@ -298216,6 +298301,11 @@
       "igdb_id": 68926,
       "game_name": "Joining Hands",
       "file": "missing/J/68926-joining-hands.json"
+    },
+    {
+      "igdb_id": 9355,
+      "game_name": "Joint Operations: Escalation",
+      "file": "missing/J/9355-joint-operations-escalation.json"
     },
     {
       "igdb_id": 18073,
@@ -315216,6 +315306,11 @@
       "igdb_id": 110496,
       "game_name": "Kuchisake Onna",
       "file": "missing/K/110496-kuchisake-onna.json"
+    },
+    {
+      "igdb_id": 9659,
+      "game_name": "Kud Wafter",
+      "file": "missing/K/9659-kud-wafter.json"
     },
     {
       "igdb_id": 316780,
@@ -414628,6 +414723,11 @@
       "file": "missing/O/135906-orchids-to-dusk.json"
     },
     {
+      "igdb_id": 9679,
+      "game_name": "Orcish Inn",
+      "file": "missing/O/9679-orcish-inn.json"
+    },
+    {
       "igdb_id": 260184,
       "game_name": "Orcish Skies",
       "file": "missing/O/260184-orcish-skies.json"
@@ -429501,6 +429601,11 @@
       "igdb_id": 173804,
       "game_name": "Perfect Split",
       "file": "missing/P/173804-perfect-split.json"
+    },
+    {
+      "igdb_id": 9612,
+      "game_name": "Perfect Stride",
+      "file": "missing/P/9612-perfect-stride.json"
     },
     {
       "igdb_id": 331958,
@@ -449396,6 +449501,11 @@
       "igdb_id": 146317,
       "game_name": "PowerZ",
       "file": "missing/P/146317-powerz.json"
+    },
+    {
+      "igdb_id": 9595,
+      "game_name": "Pox Nora",
+      "file": "missing/P/9595-pox-nora.json"
     },
     {
       "igdb_id": 349951,
@@ -475331,6 +475441,11 @@
       "igdb_id": 123610,
       "game_name": "Reptillian Rebellion",
       "file": "missing/R/123610-reptillian-rebellion.json"
+    },
+    {
+      "igdb_id": 9657,
+      "game_name": "Repton",
+      "file": "missing/R/9657-repton.json"
     },
     {
       "igdb_id": 37073,
@@ -520718,6 +520833,11 @@
       "file": "missing/S/250463-skoory-rush.json"
     },
     {
+      "igdb_id": 9358,
+      "game_name": "Skout",
+      "file": "missing/S/9358-skout.json"
+    },
+    {
       "igdb_id": 40928,
       "game_name": "Skramble",
       "file": "missing/S/40928-skramble.json"
@@ -534948,6 +535068,11 @@
       "file": "missing/S/263992-soul-of-war-legions.json"
     },
     {
+      "igdb_id": 9650,
+      "game_name": "Soul Orb",
+      "file": "missing/S/9650-soul-orb.json"
+    },
+    {
       "igdb_id": 236542,
       "game_name": "Soul Passage",
       "file": "missing/S/236542-soul-passage.json"
@@ -539708,9 +539833,49 @@
       "file": "missing/S/304575-spec.json"
     },
     {
+      "igdb_id": 9342,
+      "game_name": "Spec Ops II: Green Berets",
+      "file": "missing/S/9342-spec-ops-ii-green-berets.json"
+    },
+    {
+      "igdb_id": 9344,
+      "game_name": "Spec Ops II: Omega Squad",
+      "file": "missing/S/9344-spec-ops-ii-omega-squad.json"
+    },
+    {
       "igdb_id": 80887,
       "game_name": "Spec Ops II: Operation Bravo",
       "file": "missing/S/80887-spec-ops-ii-operation-bravo.json"
+    },
+    {
+      "igdb_id": 9347,
+      "game_name": "Spec Ops: Airborne Commando",
+      "file": "missing/S/9347-spec-ops-airborne-commando.json"
+    },
+    {
+      "igdb_id": 9346,
+      "game_name": "Spec Ops: Covert Assault",
+      "file": "missing/S/9346-spec-ops-covert-assault.json"
+    },
+    {
+      "igdb_id": 9345,
+      "game_name": "Spec Ops: Ranger Elite",
+      "file": "missing/S/9345-spec-ops-ranger-elite.json"
+    },
+    {
+      "igdb_id": 9341,
+      "game_name": "Spec Ops: Ranger Team Bravo",
+      "file": "missing/S/9341-spec-ops-ranger-team-bravo.json"
+    },
+    {
+      "igdb_id": 9340,
+      "game_name": "Spec Ops: Rangers Lead the Way",
+      "file": "missing/S/9340-spec-ops-rangers-lead-the-way.json"
+    },
+    {
+      "igdb_id": 9343,
+      "game_name": "Spec Ops: Stealth Patrol",
+      "file": "missing/S/9343-spec-ops-stealth-patrol.json"
     },
     {
       "igdb_id": 401616,
@@ -551776,6 +551941,11 @@
       "igdb_id": 204364,
       "game_name": "Steel Guardian",
       "file": "missing/S/204364-steel-guardian.json"
+    },
+    {
+      "igdb_id": 9584,
+      "game_name": "Steel Harbinger",
+      "file": "missing/S/9584-steel-harbinger.json"
     },
     {
       "igdb_id": 337703,
@@ -587188,6 +587358,11 @@
       "file": "missing/T/370225-the-adventures-of-little-wurfel.json"
     },
     {
+      "igdb_id": 9664,
+      "game_name": "The Adventures of Maddog Williams in the Dungeons of Duridian",
+      "file": "missing/T/9664-the-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json"
+    },
+    {
       "igdb_id": 18468,
       "game_name": "The Adventures of Major Havoc",
       "file": "missing/T/18468-the-adventures-of-major-havoc.json"
@@ -597923,6 +598098,11 @@
       "file": "missing/T/11620-the-guild-2-renaissance.json"
     },
     {
+      "igdb_id": 9324,
+      "game_name": "The Guild 2: Venice",
+      "file": "missing/T/9324-the-guild-2-venice.json"
+    },
+    {
       "igdb_id": 12126,
       "game_name": "The Guild of Thieves",
       "file": "missing/T/12126-the-guild-of-thieves.json"
@@ -598436,6 +598616,11 @@
       "igdb_id": 85437,
       "game_name": "The Hidden",
       "file": "missing/T/85437-the-hidden.json"
+    },
+    {
+      "igdb_id": 9357,
+      "game_name": "The Hidden Below",
+      "file": "missing/T/9357-the-hidden-below.json"
     },
     {
       "igdb_id": 32157,
@@ -609786,6 +609971,11 @@
       "igdb_id": 48205,
       "game_name": "The Rocketeer",
       "file": "missing/T/48205-the-rocketeer.json"
+    },
+    {
+      "igdb_id": 9371,
+      "game_name": "The Rockin' Dead",
+      "file": "missing/T/9371-the-rockin-dead.json"
     },
     {
       "igdb_id": 319648,
@@ -671858,6 +672048,11 @@
       "file": "missing/W/111729-warlords-io.json"
     },
     {
+      "igdb_id": 9686,
+      "game_name": "Warm Gun",
+      "file": "missing/W/9686-warm-gun.json"
+    },
+    {
       "igdb_id": 331314,
       "game_name": "Warm Monkey",
       "file": "missing/W/331314-warm-monkey.json"
@@ -681618,6 +681813,11 @@
       "file": "missing/W/358330-wise-in-the-heights.json"
     },
     {
+      "igdb_id": 9366,
+      "game_name": "Wisegal",
+      "file": "missing/W/9366-wisegal.json"
+    },
+    {
       "igdb_id": 123538,
       "game_name": "Wiseguys",
       "file": "missing/W/123538-wiseguys.json"
@@ -690243,6 +690443,11 @@
       "file": "missing/X/4579-x2-wolverines-revenge.json"
     },
     {
+      "igdb_id": 9321,
+      "game_name": "X3: Albion Prelude",
+      "file": "missing/X/9321-x3-albion-prelude.json"
+    },
+    {
       "igdb_id": 145483,
       "game_name": "X3: Farnham's Legacy",
       "file": "missing/X/145483-x3-farnhams-legacy.json"
@@ -691051,6 +691256,11 @@
       "igdb_id": 43340,
       "game_name": "XII Stag",
       "file": "missing/X/43340-xii-stag.json"
+    },
+    {
+      "igdb_id": 9311,
+      "game_name": "XIII Century: Blood of Europe",
+      "file": "missing/X/9311-xiii-century-blood-of-europe.json"
     },
     {
       "igdb_id": 9860,
@@ -694533,6 +694743,26 @@
       "file": "missing/Y/52784-youda-fairy.json"
     },
     {
+      "igdb_id": 9315,
+      "game_name": "Youda Farmer",
+      "file": "missing/Y/9315-youda-farmer.json"
+    },
+    {
+      "igdb_id": 9314,
+      "game_name": "Youda Farmer 2",
+      "file": "missing/Y/9314-youda-farmer-2.json"
+    },
+    {
+      "igdb_id": 9313,
+      "game_name": "Youda Farmer 3: Seasons",
+      "file": "missing/Y/9313-youda-farmer-3-seasons.json"
+    },
+    {
+      "igdb_id": 9312,
+      "game_name": "Youda Jewel Shop",
+      "file": "missing/Y/9312-youda-jewel-shop.json"
+    },
+    {
       "igdb_id": 52783,
       "game_name": "Youda Legend Amsterdam",
       "file": "missing/Y/52783-youda-legend-amsterdam.json"
@@ -694546,6 +694776,26 @@
       "igdb_id": 108627,
       "game_name": "Youda Legend: The Golden Bird of Paradise",
       "file": "missing/Y/108627-youda-legend-the-golden-bird-of-paradise.json"
+    },
+    {
+      "igdb_id": 9305,
+      "game_name": "Youda Marina",
+      "file": "missing/Y/9305-youda-marina.json"
+    },
+    {
+      "igdb_id": 9304,
+      "game_name": "Youda Safari",
+      "file": "missing/Y/9304-youda-safari.json"
+    },
+    {
+      "igdb_id": 9303,
+      "game_name": "Youda Survivor",
+      "file": "missing/Y/9303-youda-survivor.json"
+    },
+    {
+      "igdb_id": 9302,
+      "game_name": "Youda Survivor 2",
+      "file": "missing/Y/9302-youda-survivor-2.json"
     },
     {
       "igdb_id": 240216,
