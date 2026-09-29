@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics Returners | 345508 | [345508-tactics-returners.json](./345508-tactics-returners.json) |
 | Tactics Rogue | 109709 | [109709-tactics-rogue.json](./109709-tactics-rogue.json) |
 | Tactics Unlimited | 332564 | [332564-tactics-unlimited.json](./332564-tactics-unlimited.json) |
+| Tactics: Bludgeons Blessing | 44130 | [44130-tactics-bludgeons-blessing.json](./44130-tactics-bludgeons-blessing.json) |
 | TacticsLand | 311805 | [311805-tacticsland.json](./311805-tacticsland.json) |
 | Tactile Wars | 76564 | [76564-tactile-wars.json](./76564-tactile-wars.json) |
 | Tactix | 379981 | [379981-tactix.json](./379981-tactix.json) |
@@ -891,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Battle: East Front 1941 | 197886 | [197886-tank-battle-east-front-1941.json](./197886-tank-battle-east-front-1941.json) |
 | Tank Battle: East Front 1943 | 175335 | [175335-tank-battle-east-front-1943.json](./175335-tank-battle-east-front-1943.json) |
 | Tank Battle: Normandy | 46849 | [46849-tank-battle-normandy.json](./46849-tank-battle-normandy.json) |
+| Tank Battle: Pacific | 44090 | [44090-tank-battle-pacific.json](./44090-tank-battle-pacific.json) |
 | Tank Blazers | 113155 | [113155-tank-blazers.json](./113155-tank-blazers.json) |
 | Tank Brigade | 391599 | [391599-tank-brigade.json](./391599-tank-brigade.json) |
 | Tank Buddies | 101523 | [101523-tank-buddies.json](./101523-tank-buddies.json) |
@@ -1104,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tycoon | 58195 | [58195-tap-tycoon.json](./58195-tap-tycoon.json) |
 | Tap Wars: Earth Defense Force 4.1 - The Shadow of New Despair | 220219 | [220219-tap-wars-earth-defense-force-4-1-the-shadow-of-new-despair.json](./220219-tap-wars-earth-defense-force-4-1-the-shadow-of-new-despair.json) |
 | Tap Wizard 2 | 188407 | [188407-tap-wizard-2.json](./188407-tap-wizard-2.json) |
+| Tap Zap - Endless game | 44100 | [44100-tap-zap-endless-game.json](./44100-tap-zap-endless-game.json) |
 | Tap Zoo | 343458 | [343458-tap-zoo.json](./343458-tap-zoo.json) |
 | Tap-A-Zombie | 149448 | [149448-tap-a-zombie.json](./149448-tap-a-zombie.json) |
 | Tap-Tap Shots | 287090 | [287090-tap-tap-shots.json](./287090-tap-tap-shots.json) |
@@ -3382,6 +3385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Contract | 177530 | [177530-the-contract.json](./177530-the-contract.json) |
 | The Contract | 271756 | [271756-the-contract.json](./271756-the-contract.json) |
 | The Contract Bound | 224479 | [224479-the-contract-bound.json](./224479-the-contract-bound.json) |
+| The Contractor | 44091 | [44091-the-contractor.json](./44091-the-contractor.json) |
 | The Contrast of 2 Worlds | 178939 | [178939-the-contrast-of-2-worlds.json](./178939-the-contrast-of-2-worlds.json) |
 | The Conveni: Ano Machi wo Dokusen Seyo | 178558 | [178558-the-conveni-ano-machi-wo-dokusen-seyo.json](./178558-the-conveni-ano-machi-wo-dokusen-seyo.json) |
 | The Cook in the Court of the Count | 397669 | [397669-the-cook-in-the-court-of-the-count.json](./397669-the-cook-in-the-court-of-the-count.json) |
@@ -5434,6 +5438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Shot: Arcades | 351723 | [351723-the-last-shot-arcades.json](./351723-the-last-shot-arcades.json) |
 | The Last Show of Mr. Chardish: Act I | 170386 | [170386-the-last-show-of-mr-chardish-act-i.json](./170386-the-last-show-of-mr-chardish-act-i.json) |
 | The Last Sigil | 88325 | [88325-the-last-sigil.json](./88325-the-last-sigil.json) |
+| The Last Sin | 44110 | [44110-the-last-sin.json](./44110-the-last-sin.json) |
 | The Last Sky | 127157 | [127157-the-last-sky.json](./127157-the-last-sky.json) |
 | The Last Soldier | 109768 | [109768-the-last-soldier.json](./109768-the-last-soldier.json) |
 | The Last Son of Vorona | 367012 | [367012-the-last-son-of-vorona.json](./367012-the-last-son-of-vorona.json) |
@@ -8070,6 +8075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Treasure of Civilization | 153422 | [153422-the-treasure-of-civilization.json](./153422-the-treasure-of-civilization.json) |
 | The Treasure Seekers of Lady Luck | 83596 | [83596-the-treasure-seekers-of-lady-luck.json](./83596-the-treasure-seekers-of-lady-luck.json) |
 | The Treasures of Hotei | 96071 | [96071-the-treasures-of-hotei.json](./96071-the-treasures-of-hotei.json) |
+| The Treasures of Montezuma | 44068 | [44068-the-treasures-of-montezuma.json](./44068-the-treasures-of-montezuma.json) |
 | The Treasures of Montezuma 5 | 33510 | [33510-the-treasures-of-montezuma-5.json](./33510-the-treasures-of-montezuma-5.json) |
 | The Treasures of Mystery Island | 175802 | [175802-the-treasures-of-mystery-island.json](./175802-the-treasures-of-mystery-island.json) |
 | The Treasures of Mystery Island: The Ghost Ship | 53772 | [53772-the-treasures-of-mystery-island-the-ghost-ship.json](./53772-the-treasures-of-mystery-island-the-ghost-ship.json) |
@@ -8870,6 +8876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thieves World | 297467 | [297467-thieves-world.json](./297467-thieves-world.json) |
 | Thin Line | 333759 | [333759-thin-line.json](./333759-thin-line.json) |
 | Thin Threads | 332415 | [332415-thin-threads.json](./332415-thin-threads.json) |
+| Thing Bounces Back | 44107 | [44107-thing-bounces-back.json](./44107-thing-bounces-back.json) |
 | Thing Thing 2 | 92452 | [92452-thing-thing-2.json](./92452-thing-thing-2.json) |
 | Thing Thing Collection | 131991 | [131991-thing-thing-collection.json](./131991-thing-thing-collection.json) |
 | Thing-in-Itself | 26749 | [26749-thing-in-itself.json](./26749-thing-in-itself.json) |
@@ -14282,6 +14289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukihime: Fool's Errand | 254127 | [254127-tsukihime-fools-errand.json](./254127-tsukihime-fools-errand.json) |
 | Tsukikage no Simulacre: Kaihou no Hane | 120995 | [120995-tsukikage-no-simulacre-kaihou-no-hane.json](./120995-tsukikage-no-simulacre-kaihou-no-hane.json) |
 | Tsukikomori | 37781 | [37781-tsukikomori.json](./37781-tsukikomori.json) |
+| Tsukino Paradise | 44105 | [44105-tsukino-paradise.json](./44105-tsukino-paradise.json) |
 | Tsukumo Reiko's Summer Holidays | 394163 | [394163-tsukumo-reikos-summer-holidays.json](./394163-tsukumo-reikos-summer-holidays.json) |
 | Tsukumobake | 183452 | [183452-tsukumobake.json](./183452-tsukumobake.json) |
 | Tsukumogamis! | 272870 | [272870-tsukumogamis.json](./272870-tsukumogamis.json) |
