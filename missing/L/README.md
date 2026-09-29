@@ -405,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laplace | 109651 | [109651-laplace.json](./109651-laplace.json) |
 | Laplace M | 126047 | [126047-laplace-m.json](./126047-laplace-m.json) |
 | Laplace no Ma | 81469 | [81469-laplace-no-ma.json](./81469-laplace-no-ma.json) |
+| Lapland Solitaire | 34626 | [34626-lapland-solitaire.json](./34626-lapland-solitaire.json) |
 | Lappelduvide | 304639 | [304639-lappelduvide.json](./304639-lappelduvide.json) |
 | Lapse | 111699 | [111699-lapse.json](./111699-lapse.json) |
 | Lapse: A Forgotten Future | 77471 | [77471-lapse-a-forgotten-future.json](./77471-lapse-a-forgotten-future.json) |
@@ -3702,6 +3703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lands: The Four Horsemen | 35164 | [35164-lost-lands-the-four-horsemen.json](./35164-lost-lands-the-four-horsemen.json) |
 | Lost Lands: The Wanderer | 28654 | [28654-lost-lands-the-wanderer.json](./28654-lost-lands-the-wanderer.json) |
 | Lost Legend | 104822 | [104822-lost-legend.json](./104822-lost-legend.json) |
+| Lost Legends: The Weeping Woman - Collector's Edition | 34592 | [34592-lost-legends-the-weeping-woman-collectors-edition.json](./34592-lost-legends-the-weeping-woman-collectors-edition.json) |
 | Lost Legions | 304719 | [304719-lost-legions.json](./304719-lost-legions.json) |
 | Lost Life: Origins | 207758 | [207758-lost-life-origins.json](./207758-lost-life-origins.json) |
 | Lost Light | 210887 | [210887-lost-light.json](./210887-lost-light.json) |
