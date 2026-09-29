@@ -2669,6 +2669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase & Escape | 355215 | [355215-chase-and-escape.json](./355215-chase-and-escape.json) |
 | Chase Ace Sole Survivor | 281992 | [281992-chase-ace-sole-survivor.json](./281992-chase-ace-sole-survivor.json) |
 | Chase Chase Jokers | 269298 | [269298-chase-chase-jokers.json](./269298-chase-chase-jokers.json) |
+| Chase H.Q. | 6802 | [6802-chase-h-q.json](./6802-chase-h-q.json) |
 | Chase H.Q. 2 | 307661 | [307661-chase-h-q-2.json](./307661-chase-h-q-2.json) |
 | Chase H.Q. 3D | 286677 | [286677-chase-h-q-3d.json](./286677-chase-h-q-3d.json) |
 | Chase H.Q.: Secret Police | 49898 | [49898-chase-h-q-secret-police.json](./49898-chase-h-q-secret-police.json) |
@@ -3719,6 +3720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chubby Hurdles | 243968 | [243968-chubby-hurdles.json](./243968-chubby-hurdles.json) |
 | Chubby Pixel Mega Bundle | 218457 | [218457-chubby-pixel-mega-bundle.json](./218457-chubby-pixel-mega-bundle.json) |
 | Chuchel | 57263 | [57263-chuchel.json](./57263-chuchel.json) |
+| ChuChu Rocket! | 6347 | [6347-chuchu-rocket.json](./6347-chuchu-rocket.json) |
 | ChuChu Rocket! Universe | 122316 | [122316-chuchu-rocket-universe.json](./122316-chuchu-rocket-universe.json) |
 | Chuck Ball Idol | 178652 | [178652-chuck-ball-idol.json](./178652-chuck-ball-idol.json) |
 | Chuck Bonesteel & the Alien Apocalypse | 392143 | [392143-chuck-bonesteel-and-the-alien-apocalypse.json](./392143-chuck-bonesteel-and-the-alien-apocalypse.json) |
@@ -8268,6 +8270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSC | 339346 | [339346-csc.json](./339346-csc.json) |
 | CSC \| Space MMO | 118419 | [118419-csc-space-mmo.json](./118419-csc-space-mmo.json) |
 | CSI: Crime Scene Investigation - Deadly Intent: The Hidden Cases | 197873 | [197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json](./197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json) |
+| CSI: Hard Evidence | 4782 | [4782-csi-hard-evidence.json](./4782-csi-hard-evidence.json) |
 | CSI: Hidden Crimes | 61730 | [61730-csi-hidden-crimes.json](./61730-csi-hidden-crimes.json) |
 | CSI: New York | 50800 | [50800-csi-new-york.json](./50800-csi-new-york.json) |
 | CSI: NY | 70640 | [70640-csi-ny.json](./70640-csi-ny.json) |
@@ -8795,6 +8798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut the Box | 117724 | [117724-cut-the-box.json](./117724-cut-the-box.json) |
 | Cut the Ex-Girlfriends | 102225 | [102225-cut-the-ex-girlfriends.json](./102225-cut-the-ex-girlfriends.json) |
 | Cut the Rope | 9761 | [9761-cut-the-rope.json](./9761-cut-the-rope.json) |
+| Cut the Rope 2 | 39205 | [39205-cut-the-rope-2.json](./39205-cut-the-rope-2.json) |
 | Cut the Rope 2: Om Nom's Quest | 108611 | [108611-cut-the-rope-2-om-noms-quest.json](./108611-cut-the-rope-2-om-noms-quest.json) |
 | Cut the Rope 3DS | 85555 | [85555-cut-the-rope-3ds.json](./85555-cut-the-rope-3ds.json) |
 | Cut the Rope Remastered | 145634 | [145634-cut-the-rope-remastered.json](./145634-cut-the-rope-remastered.json) |
