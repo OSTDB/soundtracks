@@ -3777,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circlecers | 334790 | [334790-circlecers.json](./334790-circlecers.json) |
 | Circles | 33061 | [33061-circles.json](./33061-circles.json) |
 | Circling | 304338 | [304338-circling.json](./304338-circling.json) |
+| Circlt | 57750 | [57750-circlt.json](./57750-circlt.json) |
 | Circoid | 296679 | [296679-circoid.json](./296679-circoid.json) |
 | Circolour | 107239 | [107239-circolour.json](./107239-circolour.json) |
 | Circuit Blasters | 221294 | [221294-circuit-blasters.json](./221294-circuit-blasters.json) |
