@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offroad Simulator Online 4x4 | 196584 | [196584-offroad-simulator-online-4x4.json](./196584-offroad-simulator-online-4x4.json) |
 | Offroad Thunder | 3702 | [3702-offroad-thunder.json](./3702-offroad-thunder.json) |
 | Offroad Truck Simulator: Heavy Duty Challenge | 165381 | [165381-offroad-truck-simulator-heavy-duty-challenge.json](./165381-offroad-truck-simulator-heavy-duty-challenge.json) |
+| Offroad: VR | 31092 | [31092-offroad-vr.json](./31092-offroad-vr.json) |
 | Offsea | 235761 | [235761-offsea.json](./235761-offsea.json) |
 | Offshore Fishing | 387692 | [387692-offshore-fishing.json](./387692-offshore-fishing.json) |
 | Offshore Racing | 234617 | [234617-offshore-racing.json](./234617-offshore-racing.json) |
