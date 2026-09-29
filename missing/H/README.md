@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawken Skate Boarder | 321781 | [321781-hawken-skate-boarder.json](./321781-hawken-skate-boarder.json) |
 | Hawkquest | 77373 | [77373-hawkquest.json](./77373-hawkquest.json) |
 | Hawks of Bruyland | 329961 | [329961-hawks-of-bruyland.json](./329961-hawks-of-bruyland.json) |
+| Hawks Tactical | 30095 | [30095-hawks-tactical.json](./30095-hawks-tactical.json) |
 | Hawthorn | 319345 | [319345-hawthorn.json](./319345-hawthorn.json) |
 | Haxrail | 347367 | [347367-haxrail.json](./347367-haxrail.json) |
 | Haxware Comgam | 219816 | [219816-haxware-comgam.json](./219816-haxware-comgam.json) |
@@ -2395,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentaisland: Lost Pantsu | 156559 | [156559-hentaisland-lost-pantsu.json](./156559-hentaisland-lost-pantsu.json) |
 | Henteria Chronicles: The Peacekeepers | 334495 | [334495-henteria-chronicles-the-peacekeepers.json](./334495-henteria-chronicles-the-peacekeepers.json) |
 | HenTris 2: Shemales | 111209 | [111209-hentris-2-shemales.json](./111209-hentris-2-shemales.json) |
+| Heph | 30121 | [30121-heph.json](./30121-heph.json) |
 | Hephep Fever: Retold | 334476 | [334476-hephep-fever-retold.json](./334476-hephep-fever-retold.json) |
 | Hepo | 266318 | [266318-hepo.json](./266318-hepo.json) |
 | Her | 105347 | [105347-her.json](./105347-her.json) |
@@ -3883,6 +3885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Mania | 157183 | [157183-holiday-mania.json](./157183-holiday-mania.json) |
 | Holiday Present Hunt | 349501 | [349501-holiday-present-hunt.json](./349501-holiday-present-hunt.json) |
 | Holiday Racer | 144386 | [144386-holiday-racer.json](./144386-holiday-racer.json) |
+| Holiday Simulator : Wacky Sleigh Ride | 30070 | [30070-holiday-simulator-wacky-sleigh-ride.json](./30070-holiday-simulator-wacky-sleigh-ride.json) |
 | Holiday Solitaire Easter | 173070 | [173070-holiday-solitaire-easter.json](./173070-holiday-solitaire-easter.json) |
 | Holiday Time | 191086 | [191086-holiday-time.json](./191086-holiday-time.json) |
 | Holiday with Gwen | 213485 | [213485-holiday-with-gwen.json](./213485-holiday-with-gwen.json) |
