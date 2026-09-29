@@ -1314,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carwarz.io | 219269 | [219269-carwarz-io.json](./219269-carwarz-io.json) |
 | Carwash Tycoon | 72738 | [72738-carwash-tycoon.json](./72738-carwash-tycoon.json) |
 | CarX Drift Racing 2 | 129793 | [129793-carx-drift-racing-2.json](./129793-carx-drift-racing-2.json) |
+| CarX Drift Racing Online | 51443 | [51443-carx-drift-racing-online.json](./51443-carx-drift-racing-online.json) |
 | CarX Drift Racing Online: Hit the Wall | 199667 | [199667-carx-drift-racing-online-hit-the-wall.json](./199667-carx-drift-racing-online-hit-the-wall.json) |
 | CarX Rally | 174851 | [174851-carx-rally.json](./174851-carx-rally.json) |
 | CarX Street | 227960 | [227960-carx-street.json](./227960-carx-street.json) |
@@ -1917,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cathulhu Detective | 193978 | [193978-cathulhu-detective.json](./193978-cathulhu-detective.json) |
 | Catify VR | 104799 | [104799-catify-vr.json](./104799-catify-vr.json) |
 | Catjong 3: Purrl of the East | 393825 | [393825-catjong-3-purrl-of-the-east.json](./393825-catjong-3-purrl-of-the-east.json) |
+| Catlateral Damage | 17966 | [17966-catlateral-damage.json](./17966-catlateral-damage.json) |
 | Catlateral Damage: VR | 170315 | [170315-catlateral-damage-vr.json](./170315-catlateral-damage-vr.json) |
 | Catloaf 2600 | 93154 | [93154-catloaf-2600.json](./93154-catloaf-2600.json) |
 | Catloons | 240204 | [240204-catloons.json](./240204-catloons.json) |
@@ -2380,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chainworm Kommando | 257350 | [257350-chainworm-kommando.json](./257350-chainworm-kommando.json) |
 | Chair Simulator | 146871 | [146871-chair-simulator.json](./146871-chair-simulator.json) |
 | Chairs | 281987 | [281987-chairs.json](./281987-chairs.json) |
+| Chakan: The Forever Man | 18091 | [18091-chakan-the-forever-man.json](./18091-chakan-the-forever-man.json) |
 | Chakana | 322805 | [322805-chakana.json](./322805-chakana.json) |
 | Chakravyuh | 133981 | [133981-chakravyuh.json](./133981-chakravyuh.json) |
 | Chakusin Melody Damon | 283823 | [283823-chakusin-melody-damon.json](./283823-chakusin-melody-damon.json) |
@@ -4619,6 +4622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closer Than You Know | 199654 | [199654-closer-than-you-know.json](./199654-closer-than-you-know.json) |
 | Closer to Home | 221122 | [221122-closer-to-home.json](./221122-closer-to-home.json) |
 | CloserLook VR: Oldways | 325838 | [325838-closerlook-vr-oldways.json](./325838-closerlook-vr-oldways.json) |
+| Closers | 55076 | [55076-closers.json](./55076-closers.json) |
 | CloserTo | 396374 | [396374-closerto.json](./396374-closerto.json) |
 | Closet Organizer | 208913 | [208913-closet-organizer.json](./208913-closet-organizer.json) |
 | Closing at 2 | 280283 | [280283-closing-at-2.json](./280283-closing-at-2.json) |
@@ -8093,6 +8097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush Roller | 72747 | [72747-crush-roller.json](./72747-crush-roller.json) |
 | Crush the Industry | 158700 | [158700-crush-the-industry.json](./158700-crush-the-industry.json) |
 | Crush the Monsters: Cannon Game | 232398 | [232398-crush-the-monsters-cannon-game.json](./232398-crush-the-monsters-cannon-game.json) |
+| Crush Your Enemies | 17027 | [17027-crush-your-enemies.json](./17027-crush-your-enemies.json) |
 | Crush Your Enemies: Complete Plundered Edition | 52856 | [52856-crush-your-enemies-complete-plundered-edition.json](./52856-crush-your-enemies-complete-plundered-edition.json) |
 | CrushBorgs | 199626 | [199626-crushborgs.json](./199626-crushborgs.json) |
 | CrushCrushCrushCrush | 391218 | [391218-crushcrushcrushcrush.json](./391218-crushcrushcrushcrush.json) |
