@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Heart | 114996 | [114996-magic-heart.json](./114996-magic-heart.json) |
 | Magic Hero Incremental | 386446 | [386446-magic-hero-incremental.json](./386446-magic-hero-incremental.json) |
 | Magic Heroes | 120261 | [120261-magic-heroes.json](./120261-magic-heroes.json) |
+| Magic Hour | 30093 | [30093-magic-hour.json](./30093-magic-hour.json) |
 | Magic Island Escape | 315472 | [315472-magic-island-escape.json](./315472-magic-island-escape.json) |
 | Magic Island Escape 2 | 315473 | [315473-magic-island-escape-2.json](./315473-magic-island-escape-2.json) |
 | Magic Island Escape 3 | 315474 | [315474-magic-island-escape-3.json](./315474-magic-island-escape-3.json) |
@@ -6692,6 +6693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Knife Fight | 354407 | [354407-monkey-knife-fight.json](./354407-monkey-knife-fight.json) |
 | Monkey Kong | 94343 | [94343-monkey-kong.json](./94343-monkey-kong.json) |
 | Monkey Labour | 65435 | [65435-monkey-labour.json](./65435-monkey-labour.json) |
+| Monkey Land 3D: Reaper Rush | 30055 | [30055-monkey-land-3d-reaper-rush.json](./30055-monkey-land-3d-reaper-rush.json) |
 | Monkey Lander | 241474 | [241474-monkey-lander.json](./241474-monkey-lander.json) |
 | Monkey Lost | 367452 | [367452-monkey-lost.json](./367452-monkey-lost.json) |
 | Monkey Magic | 45220 | [45220-monkey-magic.json](./45220-monkey-magic.json) |
