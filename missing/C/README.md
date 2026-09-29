@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Arcade Cabinet | 18821 | [18821-capcom-arcade-cabinet.json](./18821-capcom-arcade-cabinet.json) |
 | Capcom Arcade Hits Volume 1 | 64489 | [64489-capcom-arcade-hits-volume-1.json](./64489-capcom-arcade-hits-volume-1.json) |
 | Capcom Arcade Hits Volume 3 | 64488 | [64488-capcom-arcade-hits-volume-3.json](./64488-capcom-arcade-hits-volume-3.json) |
+| Capcom Arcade Stadium | 141546 | [141546-capcom-arcade-stadium.json](./141546-capcom-arcade-stadium.json) |
 | Capcom Arcade Stadium Pack 1: Dawn of the Arcade | 141632 | [141632-capcom-arcade-stadium-pack-1-dawn-of-the-arcade.json](./141632-capcom-arcade-stadium-pack-1-dawn-of-the-arcade.json) |
 | Capcom Arcade Stadium Pack 2: Arcade Revolution | 141633 | [141633-capcom-arcade-stadium-pack-2-arcade-revolution.json](./141633-capcom-arcade-stadium-pack-2-arcade-revolution.json) |
 | Capcom Arcade Stadium Pack 3: Arcade Evolution | 141635 | [141635-capcom-arcade-stadium-pack-3-arcade-evolution.json](./141635-capcom-arcade-stadium-pack-3-arcade-evolution.json) |
@@ -5956,6 +5957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquistadorio | 258438 | [258438-conquistadorio.json](./258438-conquistadorio.json) |
 | Conrad Stevenson's Paranormal P.I. | 190151 | [190151-conrad-stevensons-paranormal-p-i.json](./190151-conrad-stevensons-paranormal-p-i.json) |
 | Conran: The Dinky Raccoon | 29086 | [29086-conran-the-dinky-raccoon.json](./29086-conran-the-dinky-raccoon.json) |
+| Conscript | 137619 | [137619-conscript.json](./137619-conscript.json) |
 | Conscript: Deluxe Edition | 308797 | [308797-conscript-deluxe-edition.json](./308797-conscript-deluxe-edition.json) |
 | Consensual Torture Simulator | 15446 | [15446-consensual-torture-simulator.json](./15446-consensual-torture-simulator.json) |
 | Considerable Grandfather | 293643 | [293643-considerable-grandfather.json](./293643-considerable-grandfather.json) |
@@ -8921,6 +8923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Hearts Club | 311633 | [311633-cyber-hearts-club.json](./311633-cyber-hearts-club.json) |
 | Cyber Hentai | 149430 | [149430-cyber-hentai.json](./149430-cyber-hentai.json) |
 | Cyber​​ Honey | 193882 | [193882-cyber-honey.json](./193882-cyber-honey.json) |
+| Cyber Hook | 122035 | [122035-cyber-hook.json](./122035-cyber-hook.json) |
 | Cyber Hook: Lost Numbers | 193224 | [193224-cyber-hook-lost-numbers.json](./193224-cyber-hook-lost-numbers.json) |
 | Cyber Horny | 277359 | [277359-cyber-horny.json](./277359-cyber-horny.json) |
 | Cyber Horror: Project S.Y.L.A. | 370110 | [370110-cyber-horror-project-s-y-l-a.json](./370110-cyber-horror-project-s-y-l-a.json) |
