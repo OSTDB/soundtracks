@@ -1080,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VIP Rebels | 154376 | [154376-vip-rebels.json](./154376-vip-rebels.json) |
 | VIP Spades | 84289 | [84289-vip-spades.json](./84289-vip-spades.json) |
 | Viper | 12901 | [12901-viper.json](./12901-viper.json) |
+| Viper Phase 1 | 39819 | [39819-viper-phase-1.json](./39819-viper-phase-1.json) |
 | Viper Thunderground | 355099 | [355099-viper-thunderground.json](./355099-viper-thunderground.json) |
 | ViperTen16 | 313497 | [313497-viperten16.json](./313497-viperten16.json) |
 | Viquim | 341886 | [341886-viquim.json](./341886-viquim.json) |
@@ -1123,11 +1124,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Fighter Crossroads | 325598 | [325598-virtua-fighter-crossroads.json](./325598-virtua-fighter-crossroads.json) |
 | Virtua Fighter Remix | 145524 | [145524-virtua-fighter-remix.json](./145524-virtua-fighter-remix.json) |
 | Virtua Fighter: Fever Combo | 61862 | [61862-virtua-fighter-fever-combo.json](./61862-virtua-fighter-fever-combo.json) |
+| Virtua NBA | 39790 | [39790-virtua-nba.json](./39790-virtua-nba.json) |
 | Virtua Quest | 1554 | [1554-virtua-quest.json](./1554-virtua-quest.json) |
 | Virtua Racing Demake | 181251 | [181251-virtua-racing-demake.json](./181251-virtua-racing-demake.json) |
 | Virtua Striker | 313318 | [313318-virtua-striker.json](./313318-virtua-striker.json) |
 | Virtua Striker | 46765 | [46765-virtua-striker.json](./46765-virtua-striker.json) |
 | Virtua Striker 2 | 39472 | [39472-virtua-striker-2.json](./39472-virtua-striker-2.json) |
+| Virtua Striker 3 | 39789 | [39789-virtua-striker-3.json](./39789-virtua-striker-3.json) |
 | Virtua Tennis 2009 | 5257 | [5257-virtua-tennis-2009.json](./5257-virtua-tennis-2009.json) |
 | Virtua Tennis 4 | 5258 | [5258-virtua-tennis-4.json](./5258-virtua-tennis-4.json) |
 | Virtua Tennis: Mobile Edition | 317005 | [317005-virtua-tennis-mobile-edition.json](./317005-virtua-tennis-mobile-edition.json) |
@@ -1173,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Hero VR | 118995 | [118995-virtual-hero-vr.json](./118995-virtual-hero-vr.json) |
 | Virtual Hiryuu no Ken | 61162 | [61162-virtual-hiryuu-no-ken.json](./61162-virtual-hiryuu-no-ken.json) |
 | Virtual Horse Ranch II | 73250 | [73250-virtual-horse-ranch-ii.json](./73250-virtual-horse-ranch-ii.json) |
+| Virtual Insanity | 39779 | [39779-virtual-insanity.json](./39779-virtual-insanity.json) |
 | Virtual Interactive Fireplace | 338566 | [338566-virtual-interactive-fireplace.json](./338566-virtual-interactive-fireplace.json) |
 | Virtual Job Shop Simulator | 107273 | [107273-virtual-job-shop-simulator.json](./107273-virtual-job-shop-simulator.json) |
 | Virtual Jockey | 231515 | [231515-virtual-jockey.json](./231515-virtual-jockey.json) |
