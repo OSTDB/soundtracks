@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Pen Color Book | 187488 | [187488-magic-pen-color-book.json](./187488-magic-pen-color-book.json) |
 | Magic Pixel Picross | 54449 | [54449-magic-pixel-picross.json](./54449-magic-pixel-picross.json) |
 | Magic Pot&ter Battlegrounds | 150500 | [150500-magic-pot-and-ter-battlegrounds.json](./150500-magic-pot-and-ter-battlegrounds.json) |
+| Magic Potion Destroyer | 55227 | [55227-magic-potion-destroyer.json](./55227-magic-potion-destroyer.json) |
 | Magic Potion Stories | 252666 | [252666-magic-potion-stories.json](./252666-magic-potion-stories.json) |
 | Magic Pussy: Chapter 1 | 244719 | [244719-magic-pussy-chapter-1.json](./244719-magic-pussy-chapter-1.json) |
 | Magic Pussy: Chapter 3 | 365670 | [365670-magic-pussy-chapter-3.json](./365670-magic-pussy-chapter-3.json) |
@@ -836,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong by Dogmelon | 101489 | [101489-mahjong-by-dogmelon.json](./101489-mahjong-by-dogmelon.json) |
 | Mahjong Cards - Play classic mahjong solitaire with playing cards | 102830 | [102830-mahjong-cards-play-classic-mahjong-solitaire-with-playing-cards.json](./102830-mahjong-cards-play-classic-mahjong-solitaire-with-playing-cards.json) |
 | Mahjong Cascade: Bamboo and Dragons | 334100 | [334100-mahjong-cascade-bamboo-and-dragons.json](./334100-mahjong-cascade-bamboo-and-dragons.json) |
+| Mahjong Challenge | 55266 | [55266-mahjong-challenge.json](./55266-mahjong-challenge.json) |
 | Mahjong Club | 37939 | [37939-mahjong-club.json](./37939-mahjong-club.json) |
 | Mahjong Collection | 110813 | [110813-mahjong-collection.json](./110813-mahjong-collection.json) |
 | Mahjong Connect Onet Puzzle | 215120 | [215120-mahjong-connect-onet-puzzle.json](./215120-mahjong-connect-onet-puzzle.json) |
