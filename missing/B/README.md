@@ -3693,6 +3693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birth Order | 61071 | [61071-birth-order.json](./61071-birth-order.json) |
 | Birthday Boy | 399612 | [399612-birthday-boy.json](./399612-birthday-boy.json) |
 | Birthdays the Beginning: Digital Limited Edition | 52628 | [52628-birthdays-the-beginning-digital-limited-edition.json](./52628-birthdays-the-beginning-digital-limited-edition.json) |
+| Birthplace of Ossian | 26862 | [26862-birthplace-of-ossian.json](./26862-birthplace-of-ossian.json) |
 | Birthright | 156029 | [156029-birthright.json](./156029-birthright.json) |
 | Birthright Cataclysm: Overture | 171595 | [171595-birthright-cataclysm-overture.json](./171595-birthright-cataclysm-overture.json) |
 | Birthseederia | 30098 | [30098-birthseederia.json](./30098-birthseederia.json) |
@@ -4000,6 +4001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Screen | 377179 | [377179-black-screen.json](./377179-black-screen.json) |
 | Black Sea: Treasure Hunters | 311671 | [311671-black-sea-treasure-hunters.json](./311671-black-sea-treasure-hunters.json) |
 | Black Sector | 384777 | [384777-black-sector.json](./384777-black-sector.json) |
+| Black Shades | 26832 | [26832-black-shades.json](./26832-black-shades.json) |
 | Black Shadow | 14310 | [14310-black-shadow.json](./14310-black-shadow.json) |
 | Black Sheep | 172703 | [172703-black-sheep.json](./172703-black-sheep.json) |
 | Black Sheep | 202262 | [202262-black-sheep.json](./202262-black-sheep.json) |
