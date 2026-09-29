@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector Runner | 230753 | [230753-vector-runner.json](./230753-vector-runner.json) |
 | Vector Runners | 179128 | [179128-vector-runners.json](./179128-vector-runners.json) |
 | Vector Sector | 386996 | [386996-vector-sector.json](./386996-vector-sector.json) |
+| Vector TD | 42804 | [42804-vector-td.json](./42804-vector-td.json) |
 | Vector the Crocodile in Sonic the Hedgehog | 198530 | [198530-vector-the-crocodile-in-sonic-the-hedgehog.json](./198530-vector-the-crocodile-in-sonic-the-hedgehog.json) |
 | Vector Thrust | 16557 | [16557-vector-thrust.json](./16557-vector-thrust.json) |
 | Vector Vaders | 41983 | [41983-vector-vaders.json](./41983-vector-vaders.json) |
@@ -611,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velvet Sundown | 13159 | [13159-velvet-sundown.json](./13159-velvet-sundown.json) |
 | Velvet's Veil | 336723 | [336723-velvets-veil.json](./336723-velvets-veil.json) |
 | Velvetist: The City of Machine Guns | 133343 | [133343-velvetist-the-city-of-machine-guns.json](./133343-velvetist-the-city-of-machine-guns.json) |
+| Vempire | 42803 | [42803-vempire.json](./42803-vempire.json) |
 | Ven Adventure | 216495 | [216495-ven-adventure.json](./216495-ven-adventure.json) |
 | Ven Games | 145472 | [145472-ven-games.json](./145472-ven-games.json) |
 | Ven'rif | 342900 | [342900-venrif.json](./342900-venrif.json) |
