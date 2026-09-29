@@ -2839,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Axe III Redux | 219271 | [219271-golden-axe-iii-redux.json](./219271-golden-axe-iii-redux.json) |
 | Golden Axe Legend | 71584 | [71584-golden-axe-legend.json](./71584-golden-axe-legend.json) |
 | Golden Axe Plus | 233605 | [233605-golden-axe-plus.json](./233605-golden-axe-plus.json) |
+| Golden Axe: Beast Rider | 7001 | [7001-golden-axe-beast-rider.json](./7001-golden-axe-beast-rider.json) |
 | Golden Axe: The Curse of Death Adder | 198345 | [198345-golden-axe-the-curse-of-death-adder.json](./198345-golden-axe-the-curse-of-death-adder.json) |
 | Golden Axe: The Duel | 39349 | [39349-golden-axe-the-duel.json](./39349-golden-axe-the-duel.json) |
 | Golden Axed: A Cancelled Prototype | 140044 | [140044-golden-axed-a-cancelled-prototype.json](./140044-golden-axed-a-cancelled-prototype.json) |
