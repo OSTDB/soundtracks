@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to Hearth | 273358 | [273358-back-to-hearth.json](./273358-back-to-hearth.json) |
 | Back to Home | 220350 | [220350-back-to-home.json](./220350-back-to-home.json) |
 | Back to Home | 258558 | [258558-back-to-home.json](./258558-back-to-home.json) |
+| Back to Life 3 | 36102 | [36102-back-to-life-3.json](./36102-back-to-life-3.json) |
 | Back to Nature | 84980 | [84980-back-to-nature.json](./84980-back-to-nature.json) |
 | Back To School | 278739 | [278739-back-to-school.json](./278739-back-to-school.json) |
 | Back To School | 379991 | [379991-back-to-school.json](./379991-back-to-school.json) |
@@ -5015,6 +5016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons TD 6: Frontier Legends | 381278 | [381278-bloons-td-6-frontier-legends.json](./381278-bloons-td-6-frontier-legends.json) |
 | Bloons TD 6: Rogue Legends | 330334 | [330334-bloons-td-6-rogue-legends.json](./330334-bloons-td-6-rogue-legends.json) |
 | Bloons TDX | 138135 | [138135-bloons-tdx.json](./138135-bloons-tdx.json) |
+| Bloonz Toonz | 36275 | [36275-bloonz-toonz.json](./36275-bloonz-toonz.json) |
 | Bloop | 182984 | [182984-bloop.json](./182984-bloop.json) |
 | Blooper's Revenge | 237492 | [237492-bloopers-revenge.json](./237492-bloopers-revenge.json) |
 | Bloopy & Droopy | 168685 | [168685-bloopy-and-droopy.json](./168685-bloopy-and-droopy.json) |
@@ -7236,6 +7238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BUBG Single on the Ground | 269039 | [269039-bubg-single-on-the-ground.json](./269039-bubg-single-on-the-ground.json) |
 | Bubli | 112717 | [112717-bubli.json](./112717-bubli.json) |
 | Buboids: The 3D Action Puzzle Game | 70937 | [70937-buboids-the-3d-action-puzzle-game.json](./70937-buboids-the-3d-action-puzzle-game.json) |
+| Bubonic: OutBreak | 36243 | [36243-bubonic-outbreak.json](./36243-bubonic-outbreak.json) |
 | Bubsy II | 307065 | [307065-bubsy-ii.json](./307065-bubsy-ii.json) |
 | Bubsy II | 7803 | [7803-bubsy-ii.json](./7803-bubsy-ii.json) |
 | Bubsy in Fractured Furry Tales | 7805 | [7805-bubsy-in-fractured-furry-tales.json](./7805-bubsy-in-fractured-furry-tales.json) |
