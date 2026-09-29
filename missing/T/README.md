@@ -1057,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Dash | 252140 | [252140-tap-dash.json](./252140-tap-dash.json) |
 | Tap Gun | 247436 | [247436-tap-gun.json](./247436-tap-gun.json) |
 | Tap It Away | 304169 | [304169-tap-it-away.json](./304169-tap-it-away.json) |
+| Tap It Big | 59470 | [59470-tap-it-big.json](./59470-tap-it-big.json) |
 | Tap Jockey | 175260 | [175260-tap-jockey.json](./175260-tap-jockey.json) |
 | Tap knife VIP | 105959 | [105959-tap-knife-vip.json](./105959-tap-knife-vip.json) |
 | Tap Knights: Heroes & Monsters | 86942 | [86942-tap-knights-heroes-and-monsters.json](./86942-tap-knights-heroes-and-monsters.json) |
@@ -10091,6 +10092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Woods PGA Tour 2004 | 905 | [905-tiger-woods-pga-tour-2004.json](./905-tiger-woods-pga-tour-2004.json) |
 | Tiger Woods PGA Tour 2008 | 51234 | [51234-tiger-woods-pga-tour-2008.json](./51234-tiger-woods-pga-tour-2008.json) |
 | Tiger Woods PGA Tour Golf | 206788 | [206788-tiger-woods-pga-tour-golf.json](./206788-tiger-woods-pga-tour-golf.json) |
+| Tigers on the Hunt | 59521 | [59521-tigers-on-the-hunt.json](./59521-tigers-on-the-hunt.json) |
 | Tigger's Family Tree 3D Adventure | 209036 | [209036-tiggers-family-tree-3d-adventure.json](./209036-tiggers-family-tree-3d-adventure.json) |
 | Tight Man | 393457 | [393457-tight-man.json](./393457-tight-man.json) |
 | Tightrope | 388706 | [388706-tightrope.json](./388706-tightrope.json) |
@@ -11723,6 +11725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tôtem | 133974 | [133974-totem.json](./133974-totem.json) |
 | Totem City | 124017 | [124017-totem-city.json](./124017-totem-city.json) |
 | Totem Runner | 64391 | [64391-totem-runner.json](./64391-totem-runner.json) |
+| Totem Topple | 59524 | [59524-totem-topple.json](./59524-totem-topple.json) |
 | Totem Tribe | 9113 | [9113-totem-tribe.json](./9113-totem-tribe.json) |
 | Totem Tribe Gold | 88100 | [88100-totem-tribe-gold.json](./88100-totem-tribe-gold.json) |
 | Totem Tribe II: Jotun | 9114 | [9114-totem-tribe-ii-jotun.json](./9114-totem-tribe-ii-jotun.json) |
