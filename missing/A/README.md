@@ -1185,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advance Wars 2: Black Hole Rising | 236815 | [236815-advance-wars-2-black-hole-rising.json](./236815-advance-wars-2-black-hole-rising.json) |
 | Advance, Fish! | 379476 | [379476-advance-fish.json](./379476-advance-fish.json) |
 | Advanced Circuits | 84973 | [84973-advanced-circuits.json](./84973-advanced-circuits.json) |
+| Advanced Civilization | 14433 | [14433-advanced-civilization.json](./14433-advanced-civilization.json) |
 | Advanced Daisenryaku 2001 | 60805 | [60805-advanced-daisenryaku-2001.json](./60805-advanced-daisenryaku-2001.json) |
 | Advanced Daisenryaku 2001 Power Up Kit | 413920 | [413920-advanced-daisenryaku-2001-power-up-kit.json](./413920-advanced-daisenryaku-2001-power-up-kit.json) |
 | Advanced Daisenryaku 2001 with Power Up Kit | 413923 | [413923-advanced-daisenryaku-2001-with-power-up-kit.json](./413923-advanced-daisenryaku-2001-with-power-up-kit.json) |
@@ -2594,6 +2595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Jihad | 92308 | [92308-alien-jihad.json](./92308-alien-jihad.json) |
 | Alien Kingdom | 120760 | [120760-alien-kingdom.json](./120760-alien-kingdom.json) |
 | Alien Lander | 282113 | [282113-alien-lander.json](./282113-alien-lander.json) |
+| Alien Legacy | 14419 | [14419-alien-legacy.json](./14419-alien-legacy.json) |
 | Alien Legion | 14243 | [14243-alien-legion.json](./14243-alien-legion.json) |
 | Alien Makeout Simulator | 229625 | [229625-alien-makeout-simulator.json](./229625-alien-makeout-simulator.json) |
 | Alien Marauder | 163835 | [163835-alien-marauder.json](./163835-alien-marauder.json) |
@@ -2917,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alliance: Future Combat | 61681 | [61681-alliance-future-combat.json](./61681-alliance-future-combat.json) |
 | Alliance: Heroes of the Spire | 76545 | [76545-alliance-heroes-of-the-spire.json](./76545-alliance-heroes-of-the-spire.json) |
 | Allied Ambush | 160229 | [160229-allied-ambush.json](./160229-allied-ambush.json) |
+| Allied General | 14427 | [14427-allied-general.json](./14427-allied-general.json) |
 | Allied Star Police | 22336 | [22336-allied-star-police.json](./22336-allied-star-police.json) |
 | Alligator Hunt | 38519 | [38519-alligator-hunt.json](./38519-alligator-hunt.json) |
 | Alligator Mix | 42194 | [42194-alligator-mix.json](./42194-alligator-mix.json) |
@@ -3489,6 +3492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amnea 28: Dve Vechnosti | 272822 | [272822-amnea-28-dve-vechnosti.json](./272822-amnea-28-dve-vechnosti.json) |
 | Amnea28: Two Eternities | 291461 | [291461-amnea28-two-eternities.json](./291461-amnea28-two-eternities.json) |
 | Amneron's Legacy | 152152 | [152152-amnerons-legacy.json](./152152-amnerons-legacy.json) |
+| Amnesia | 14436 | [14436-amnesia.json](./14436-amnesia.json) |
 | Amnesia Crowd | 62754 | [62754-amnesia-crowd.json](./62754-amnesia-crowd.json) |
 | Amnesia Later | 62753 | [62753-amnesia-later.json](./62753-amnesia-later.json) |
 | Amnesia Later x Crowd for Nintendo Switch | 136947 | [136947-amnesia-later-x-crowd-for-nintendo-switch.json](./136947-amnesia-later-x-crowd-for-nintendo-switch.json) |
@@ -4647,6 +4651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ape Quest | 42799 | [42799-ape-quest.json](./42799-ape-quest.json) |
 | Ape Reunion | 271267 | [271267-ape-reunion.json](./271267-ape-reunion.json) |
 | Apeiron: Tower Defense | 170856 | [170856-apeiron-tower-defense.json](./170856-apeiron-tower-defense.json) |
+| Aperion Cyberstorm | 14385 | [14385-aperion-cyberstorm.json](./14385-aperion-cyberstorm.json) |
 | Aperture | 287217 | [287217-aperture.json](./287217-aperture.json) |
 | Aperture Desk Job | 191897 | [191897-aperture-desk-job.json](./191897-aperture-desk-job.json) |
 | Aperture Ireland | 284363 | [284363-aperture-ireland.json](./284363-aperture-ireland.json) |
@@ -4715,6 +4720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - The Thin Blue Line! | 171088 | [171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json](./171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json) |
 | Apocalypse Love Shelter | 290495 | [290495-apocalypse-love-shelter.json](./290495-apocalypse-love-shelter.json) |
 | Apocalypse Mechanism | 103499 | [103499-apocalypse-mechanism.json](./103499-apocalypse-mechanism.json) |
+| Apocalypse Neighbors | 14357 | [14357-apocalypse-neighbors.json](./14357-apocalypse-neighbors.json) |
 | Apocalypse Now: The Game | 26969 | [26969-apocalypse-now-the-game.json](./26969-apocalypse-now-the-game.json) |
 | Apocalypse Runner | 224098 | [224098-apocalypse-runner.json](./224098-apocalypse-runner.json) |
 | Apocalypse Rush | 372545 | [372545-apocalypse-rush.json](./372545-apocalypse-rush.json) |
@@ -6006,6 +6012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur's Revenge | 141141 | [141141-arthurs-revenge.json](./141141-arthurs-revenge.json) |
 | Arthur’s Tale | 405578 | [405578-arthur-s-tale.json](./405578-arthur-s-tale.json) |
 | Arthur's Thinking Games | 186061 | [186061-arthurs-thinking-games.json](./186061-arthurs-thinking-games.json) |
+| Arthurian Legends | 14444 | [14444-arthurian-legends.json](./14444-arthurian-legends.json) |
 | Artifact | 79826 | [79826-artifact.json](./79826-artifact.json) |
 | Artifact Adventure Gaiden DX | 119527 | [119527-artifact-adventure-gaiden-dx.json](./119527-artifact-adventure-gaiden-dx.json) |
 | Artifact Hunter | 156036 | [156036-artifact-hunter.json](./156036-artifact-hunter.json) |
@@ -7275,6 +7282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autobahn Raser: Das Spiel zum Film | 144385 | [144385-autobahn-raser-das-spiel-zum-film.json](./144385-autobahn-raser-das-spiel-zum-film.json) |
 | Autobahn Tokio | 37206 | [37206-autobahn-tokio.json](./37206-autobahn-tokio.json) |
 | Autoball | 394887 | [394887-autoball.json](./394887-autoball.json) |
+| Autobots | 14457 | [14457-autobots.json](./14457-autobots.json) |
 | Autocard: Your RPG Adventure | 381264 | [381264-autocard-your-rpg-adventure.json](./381264-autocard-your-rpg-adventure.json) |
 | AutoCompete | 233099 | [233099-autocompete.json](./233099-autocompete.json) |
 | Autocracy | 84243 | [84243-autocracy.json](./84243-autocracy.json) |
@@ -7478,6 +7486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoid Ahoge | 179606 | [179606-avoid-ahoge.json](./179606-avoid-ahoge.json) |
 | Avoid the Awful Thing that Vaguely Resembles a Banana!! | 69312 | [69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json](./69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json) |
 | Avoid the Monsters | 54450 | [54450-avoid-the-monsters.json](./54450-avoid-the-monsters.json) |
+| Avoid the Noid | 14445 | [14445-avoid-the-noid.json](./14445-avoid-the-noid.json) |
 | Avoid the Threats | 359439 | [359439-avoid-the-threats.json](./359439-avoid-the-threats.json) |
 | Avoid Them: Breakthrough Gaming Arcade | 146250 | [146250-avoid-them-breakthrough-gaming-arcade.json](./146250-avoid-them-breakthrough-gaming-arcade.json) |
 | Avoid: Sensory Overload | 17169 | [17169-avoid-sensory-overload.json](./17169-avoid-sensory-overload.json) |
