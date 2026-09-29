@@ -7529,6 +7529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulse Online | 288333 | [288333-pulse-online.json](./288333-pulse-online.json) |
 | Pulse Phobia | 342133 | [342133-pulse-phobia.json](./342133-pulse-phobia.json) |
 | Pulse Racer | 6010 | [6010-pulse-racer.json](./6010-pulse-racer.json) |
+| Pulse Shift | 32104 | [32104-pulse-shift.json](./32104-pulse-shift.json) |
 | Pulse Warrior | 72376 | [72376-pulse-warrior.json](./72376-pulse-warrior.json) |
 | PulseCharge | 33610 | [33610-pulsecharge.json](./33610-pulsecharge.json) |
 | PulseChaser | 112320 | [112320-pulsechaser.json](./112320-pulsechaser.json) |
