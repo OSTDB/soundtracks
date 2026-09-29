@@ -3564,6 +3564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Leader Card Game | 119779 | [119779-world-leader-card-game.json](./119779-world-leader-card-game.json) |
 | World Leaders | 274046 | [274046-world-leaders.json](./274046-world-leaders.json) |
 | World League Live! Football | 186048 | [186048-world-league-live-football.json](./186048-world-league-live-football.json) |
+| World League Soccer '98 | 45466 | [45466-world-league-soccer-98.json](./45466-world-league-soccer-98.json) |
 | World Mahjong: Original | 220721 | [220721-world-mahjong-original.json](./220721-world-mahjong-original.json) |
 | World Map Quiz | 181146 | [181146-world-map-quiz.json](./181146-world-map-quiz.json) |
 | World Map: Crafted City Builder | 202096 | [202096-world-map-crafted-city-builder.json](./202096-world-map-crafted-city-builder.json) |
