@@ -1862,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellcam | 354486 | [354486-hellcam.json](./354486-hellcam.json) |
 | Hellcard | 127193 | [127193-hellcard.json](./127193-hellcard.json) |
 | Hellcard II | 388355 | [388355-hellcard-ii.json](./388355-hellcard-ii.json) |
+| Hellcat Ace | 25042 | [25042-hellcat-ace.json](./25042-hellcat-ace.json) |
 | Hellcats: Missions at Leyte Gulf | 337196 | [337196-hellcats-missions-at-leyte-gulf.json](./337196-hellcats-missions-at-leyte-gulf.json) |
 | Hellcrossing | 245797 | [245797-hellcrossing.json](./245797-hellcrossing.json) |
 | Hellcrown | 412367 | [412367-hellcrown.json](./412367-hellcrown.json) |
@@ -2497,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Bootcamp | 380573 | [380573-hero-bootcamp.json](./380573-hero-bootcamp.json) |
 | Hero Bump | 184101 | [184101-hero-bump.json](./184101-hero-bump.json) |
 | Hero Conquest | 83215 | [83215-hero-conquest.json](./83215-hero-conquest.json) |
+| Hero Defence | 25095 | [25095-hero-defence.json](./25095-hero-defence.json) |
 | Hero Defense: Haunted Island | 80217 | [80217-hero-defense-haunted-island.json](./80217-hero-defense-haunted-island.json) |
 | Hero Emblems II | 114777 | [114777-hero-emblems-ii.json](./114777-hero-emblems-ii.json) |
 | Hero Fighter | 66720 | [66720-hero-fighter.json](./66720-hero-fighter.json) |
@@ -2909,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heyawake by Nikoli | 84522 | [84522-heyawake-by-nikoli.json](./84522-heyawake-by-nikoli.json) |
 | HeyBot! HeyboHeybo! HeyBoTournament! | 135165 | [135165-heybot-heyboheybo-heybotournament.json](./135165-heybot-heyboheybo-heybotournament.json) |
 | Heyday | 91541 | [91541-heyday.json](./91541-heyday.json) |
+| Hezarin | 25114 | [25114-hezarin.json](./25114-hezarin.json) |
 | HgmGame Horse | 357851 | [357851-hgmgame-horse.json](./357851-hgmgame-horse.json) |
 | hhGregg's Quest for Coupons | 125942 | [125942-hhgreggs-quest-for-coupons.json](./125942-hhgreggs-quest-for-coupons.json) |
 | HHHalloween | 289471 | [289471-hhhalloween.json](./289471-hhhalloween.json) |
@@ -4534,6 +4537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Life 3 | 151208 | [151208-horse-life-3.json](./151208-horse-life-3.json) |
 | Horse Life Adventures | 201794 | [201794-horse-life-adventures.json](./201794-horse-life-adventures.json) |
 | Horse Life: Find Horses in Open World, Survive in Wild Nature as a Foal or Pony | 253933 | [253933-horse-life-find-horses-in-open-world-survive-in-wild-nature-as-a-foal-or-pony.json](./253933-horse-life-find-horses-in-open-world-survive-in-wild-nature-as-a-foal-or-pony.json) |
+| Horse Lovers Compendium 5-Pack | 25051 | [25051-horse-lovers-compendium-5-pack.json](./25051-horse-lovers-compendium-5-pack.json) |
 | Horse Magic | 406726 | [406726-horse-magic.json](./406726-horse-magic.json) |
 | Horse Magnifier | 396387 | [396387-horse-magnifier.json](./396387-horse-magnifier.json) |
 | Horse Manager | 357854 | [357854-horse-manager.json](./357854-horse-manager.json) |
