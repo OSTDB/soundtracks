@@ -1452,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo 2: Monsters Unleashed - Escape from the Coolsonian | 327821 | [327821-scooby-doo-2-monsters-unleashed-escape-from-the-coolsonian.json](./327821-scooby-doo-2-monsters-unleashed-escape-from-the-coolsonian.json) |
 | Scooby-Doo and Scrappy-Doo | 13078 | [13078-scooby-doo-and-scrappy-doo.json](./13078-scooby-doo-and-scrappy-doo.json) |
 | Scooby-Doo and the Cyber Chase | 248593 | [248593-scooby-doo-and-the-cyber-chase.json](./248593-scooby-doo-and-the-cyber-chase.json) |
+| Scooby-Doo and the Cyber Chase | 2859 | [2859-scooby-doo-and-the-cyber-chase.json](./2859-scooby-doo-and-the-cyber-chase.json) |
 | Scooby-Doo and the Mystery of the Castle | 220107 | [220107-scooby-doo-and-the-mystery-of-the-castle.json](./220107-scooby-doo-and-the-mystery-of-the-castle.json) |
 | Scooby-Doo DVD Game: Funland of Freaky Frights | 231471 | [231471-scooby-doo-dvd-game-funland-of-freaky-frights.json](./231471-scooby-doo-dvd-game-funland-of-freaky-frights.json) |
 | Scooby-Doo Mystery Cases | 87730 | [87730-scooby-doo-mystery-cases.json](./87730-scooby-doo-mystery-cases.json) |
@@ -13465,6 +13466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Fantasy | 275120 | [275120-summer-fantasy.json](./275120-summer-fantasy.json) |
 | Summer for You | 339481 | [339481-summer-for-you.json](./339481-summer-for-you.json) |
 | Summer Funland | 87556 | [87556-summer-funland.json](./87556-summer-funland.json) |
+| Summer Games | 12340 | [12340-summer-games.json](./12340-summer-games.json) |
 | Summer Games 3D | 88164 | [88164-summer-games-3d.json](./88164-summer-games-3d.json) |
 | Summer Games Challenge: Jumping & Shooting | 362362 | [362362-summer-games-challenge-jumping-and-shooting.json](./362362-summer-games-challenge-jumping-and-shooting.json) |
 | Summer Games Challenge: Running | 362345 | [362345-summer-games-challenge-running.json](./362345-summer-games-challenge-running.json) |
@@ -16223,6 +16225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syndicate of Souls | 267642 | [267642-syndicate-of-souls.json](./267642-syndicate-of-souls.json) |
 | Syndicate Plus | 77198 | [77198-syndicate-plus.json](./77198-syndicate-plus.json) |
 | Syndicate Wars | 214456 | [214456-syndicate-wars.json](./214456-syndicate-wars.json) |
+| Syndicate Wars | 51 | [51-syndicate-wars.json](./51-syndicate-wars.json) |
 | Syndicate: American Revolt | 50 | [50-syndicate-american-revolt.json](./50-syndicate-american-revolt.json) |
 | Syndrome: Extended Edition | 233005 | [233005-syndrome-extended-edition.json](./233005-syndrome-extended-edition.json) |
 | Synduality: Echo of Ada - Deluxe Edition | 317828 | [317828-synduality-echo-of-ada-deluxe-edition.json](./317828-synduality-echo-of-ada-deluxe-edition.json) |
