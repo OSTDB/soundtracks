@@ -2483,6 +2483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linkle Liver Story | 94005 | [94005-linkle-liver-story.json](./94005-linkle-liver-story.json) |
 | Linkrealms | 34467 | [34467-linkrealms.json](./34467-linkrealms.json) |
 | Links 2001 | 770 | [770-links-2001.json](./770-links-2001.json) |
+| Links 386 Pro | 22611 | [22611-links-386-pro.json](./22611-links-386-pro.json) |
 | Links E6: Course Pack 1 | 153464 | [153464-links-e6-course-pack-1.json](./153464-links-e6-course-pack-1.json) |
 | Links E6: Course Pack 3 | 153465 | [153465-links-e6-course-pack-3.json](./153465-links-e6-course-pack-3.json) |
 | Links Extreme | 68777 | [68777-links-extreme.json](./68777-links-extreme.json) |
@@ -2984,7 +2985,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lloyd the Monkey 3: Judgement Day | 266221 | [266221-lloyd-the-monkey-3-judgement-day.json](./266221-lloyd-the-monkey-3-judgement-day.json) |
 | Lloyd the Monkey: Remastered | 266216 | [266216-lloyd-the-monkey-remastered.json](./266216-lloyd-the-monkey-remastered.json) |
 | LLs | 96524 | [96524-lls.json](./96524-lls.json) |
+| LMA Manager 2001 | 22543 | [22543-lma-manager-2001.json](./22543-lma-manager-2001.json) |
+| LMA Manager 2002 | 22542 | [22542-lma-manager-2002.json](./22542-lma-manager-2002.json) |
+| LMA Manager 2003 | 22544 | [22544-lma-manager-2003.json](./22544-lma-manager-2003.json) |
+| LMA Manager 2004 | 22545 | [22545-lma-manager-2004.json](./22545-lma-manager-2004.json) |
 | LMA Manager 2007 | 20561 | [20561-lma-manager-2007.json](./20561-lma-manager-2007.json) |
+| LMA Professional Manager 2005 | 22547 | [22547-lma-professional-manager-2005.json](./22547-lma-professional-manager-2005.json) |
 | Lo and Behold | 371874 | [371874-lo-and-behold.json](./371874-lo-and-behold.json) |
 | Lo-fi | 179620 | [179620-lo-fi.json](./179620-lo-fi.json) |
 | Lo-Fi Golf | 360684 | [360684-lo-fi-golf.json](./360684-lo-fi-golf.json) |
