@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yes Comrade | 329176 | [329176-yes-comrade.json](./329176-yes-comrade.json) |
 | Yes My Lord | 199090 | [199090-yes-my-lord.json](./199090-yes-my-lord.json) |
 | Yes, And So Our Hollow Hearts Called For Love | 352835 | [352835-yes-and-so-our-hollow-hearts-called-for-love.json](./352835-yes-and-so-our-hollow-hearts-called-for-love.json) |
+| Yes, Master! | 118984 | [118984-yes-master.json](./118984-yes-master.json) |
 | Yes! PreCure 5 | 168328 | [168328-yes-precure-5.json](./168328-yes-precure-5.json) |
 | Yes! PreCure 5 GoGo! Zenin ShuuGO! Dream Festival | 124149 | [124149-yes-precure-5-gogo-zenin-shuugo-dream-festival.json](./124149-yes-precure-5-gogo-zenin-shuugo-dream-festival.json) |
 | Yes! PreCure 5 GoGo!: LoveLove Hiragana Lesson | 327604 | [327604-yes-precure-5-gogo-lovelove-hiragana-lesson.json](./327604-yes-precure-5-gogo-lovelove-hiragana-lesson.json) |
@@ -960,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YuYu Hakusho Gaiden | 45606 | [45606-yuyu-hakusho-gaiden.json](./45606-yuyu-hakusho-gaiden.json) |
 | YuYu Hakusho II: Gekitou! Nanakyou no Tatakai | 46552 | [46552-yuyu-hakusho-ii-gekitou-nanakyou-no-tatakai.json](./46552-yuyu-hakusho-ii-gekitou-nanakyou-no-tatakai.json) |
 | YuYu Hakusho: Ankoku Bujutsukai-hen | 186653 | [186653-yuyu-hakusho-ankoku-bujutsukai-hen.json](./186653-yuyu-hakusho-ankoku-bujutsukai-hen.json) |
+| YuYu Hakusho: Sunset Fighters | 45607 | [45607-yuyu-hakusho-sunset-fighters.json](./45607-yuyu-hakusho-sunset-fighters.json) |
 | Yuyuko's Butterfly Dream | 113143 | [113143-yuyukos-butterfly-dream.json](./113143-yuyukos-butterfly-dream.json) |
 | Yuzai x Muzai | 69206 | [69206-yuzai-x-muzai.json](./69206-yuzai-x-muzai.json) |
 | Yves: Crazy Student | 327967 | [327967-yves-crazy-student.json](./327967-yves-crazy-student.json) |
