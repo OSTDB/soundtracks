@@ -2607,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Outbreak | 57602 | [57602-alien-outbreak.json](./57602-alien-outbreak.json) |
 | Alien Panic! | 222524 | [222524-alien-panic.json](./222524-alien-panic.json) |
 | Alien Paradise | 292312 | [292312-alien-paradise.json](./292312-alien-paradise.json) |
+| Alien Phobia | 18481 | [18481-alien-phobia.json](./18481-alien-phobia.json) |
 | Alien Planet | 308337 | [308337-alien-planet.json](./308337-alien-planet.json) |
 | Alien Planet Bell | 302130 | [302130-alien-planet-bell.json](./302130-alien-planet-bell.json) |
 | Alien Planet X64-2 | 270703 | [270703-alien-planet-x64-2.json](./270703-alien-planet-x64-2.json) |
@@ -4513,6 +4514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antinomia: Final Fantasy VI | 339248 | [339248-antinomia-final-fantasy-vi.json](./339248-antinomia-final-fantasy-vi.json) |
 | Antiny | 125990 | [125990-antiny.json](./125990-antiny.json) |
 | Antiny 0 | 180127 | [180127-antiny-0.json](./180127-antiny-0.json) |
+| Antioch: Scarlet Bay | 18451 | [18451-antioch-scarlet-bay.json](./18451-antioch-scarlet-bay.json) |
 | Antioma | 344912 | [344912-antioma.json](./344912-antioma.json) |
 | Antiphona no Seikahime: Tenshi no Score Op.A | 56523 | [56523-antiphona-no-seikahime-tenshi-no-score-op-a.json](./56523-antiphona-no-seikahime-tenshi-no-score-op-a.json) |
 | AntiPodal | 342658 | [342658-antipodal.json](./342658-antipodal.json) |
@@ -5459,6 +5461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcus III | 98263 | [98263-arcus-iii.json](./98263-arcus-iii.json) |
 | Arcuz | 161152 | [161152-arcuz.json](./161152-arcuz.json) |
 | Arcuz II: Dungeons | 161153 | [161153-arcuz-ii-dungeons.json](./161153-arcuz-ii-dungeons.json) |
+| Arcy 2 | 18377 | [18377-arcy-2.json](./18377-arcy-2.json) |
 | ARD: Anomalous Research Department | 182264 | [182264-ard-anomalous-research-department.json](./182264-ard-anomalous-research-department.json) |
 | Ardarium | 168331 | [168331-ardarium.json](./168331-ardarium.json) |
 | Ardem | 260389 | [260389-ardem.json](./260389-ardem.json) |
@@ -6375,6 +6378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Odyssey - Cloud Version | 109463 | [109463-assassins-creed-odyssey-cloud-version.json](./109463-assassins-creed-odyssey-cloud-version.json) |
 | Assassin's Creed: Odyssey - Deluxe Edition | 24811 | [24811-assassins-creed-odyssey-deluxe-edition.json](./24811-assassins-creed-odyssey-deluxe-edition.json) |
 | Assassin's Creed: Odyssey - Gold Edition | 23648 | [23648-assassins-creed-odyssey-gold-edition.json](./23648-assassins-creed-odyssey-gold-edition.json) |
+| Assassin's Creed: Odyssey - Gold Steelbook Edition | 18412 | [18412-assassins-creed-odyssey-gold-steelbook-edition.json](./18412-assassins-creed-odyssey-gold-steelbook-edition.json) |
 | Assassin's Creed: Origins - God's Edition | 39045 | [39045-assassins-creed-origins-gods-edition.json](./39045-assassins-creed-origins-gods-edition.json) |
 | Assassin's Creed: Recollection | 77265 | [77265-assassins-creed-recollection.json](./77265-assassins-creed-recollection.json) |
 | Assassin's Creed: Rogue Remastered | 81205 | [81205-assassins-creed-rogue-remastered.json](./81205-assassins-creed-rogue-remastered.json) |
@@ -7186,6 +7190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auraboros | 181358 | [181358-auraboros.json](./181358-auraboros.json) |
 | Aurail | 39618 | [39618-aurail.json](./39618-aurail.json) |
 | Aural to Hikari no Ryuu: Gathering Light | 327602 | [327602-aural-to-hikari-no-ryuu-gathering-light.json](./327602-aural-to-hikari-no-ryuu-gathering-light.json) |
+| Auralux | 18485 | [18485-auralux.json](./18485-auralux.json) |
 | Auralux: Constellations | 33527 | [33527-auralux-constellations.json](./33527-auralux-constellations.json) |
 | Aurascope | 177951 | [177951-aurascope.json](./177951-aurascope.json) |
 | AuraTitan | 417677 | [417677-auratitan.json](./417677-auratitan.json) |
@@ -7220,6 +7225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Austerity X | 407587 | [407587-austerity-x.json](./407587-austerity-x.json) |
 | Austin Powers Pinball | 222896 | [222896-austin-powers-pinball.json](./222896-austin-powers-pinball.json) |
 | Austin Powers: Oh, Behave! | 49890 | [49890-austin-powers-oh-behave.json](./49890-austin-powers-oh-behave.json) |
+| Austin Powers: Welcome to My Underground Lair! | 18385 | [18385-austin-powers-welcome-to-my-underground-lair.json](./18385-austin-powers-welcome-to-my-underground-lair.json) |
 | Austin Powers: Why Make Millions...? | 295028 | [295028-austin-powers-why-make-millions.json](./295028-austin-powers-why-make-millions.json) |
 | Australia Did It | 365278 | [365278-australia-did-it.json](./365278-australia-did-it.json) |
 | Australian Cricket Captain | 74080 | [74080-australian-cricket-captain.json](./74080-australian-cricket-captain.json) |
