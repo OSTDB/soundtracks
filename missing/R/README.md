@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbids: Party of Legends | 201254 | [201254-rabbids-party-of-legends.json](./201254-rabbids-party-of-legends.json) |
 | Rabbit | 46850 | [46850-rabbit.json](./46850-rabbit.json) |
 | Rabbit & Dominoes | 192874 | [192874-rabbit-and-dominoes.json](./192874-rabbit-and-dominoes.json) |
+| Rabbit & Steel | 229093 | [229093-rabbit-and-steel.json](./229093-rabbit-and-steel.json) |
 | Rabbit and the moon | 104437 | [104437-rabbit-and-the-moon.json](./104437-rabbit-and-the-moon.json) |
 | Rabbit Burn | 203566 | [203566-rabbit-burn.json](./203566-rabbit-burn.json) |
 | Rabbit Detective | 389983 | [389983-rabbit-detective.json](./389983-rabbit-detective.json) |
@@ -2587,6 +2588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Requiem: Lenticular Edition | 392779 | [392779-resident-evil-requiem-lenticular-edition.json](./392779-resident-evil-requiem-lenticular-edition.json) |
 | Resident Evil Requiem: Leon Must Die Forever | 400876 | [400876-resident-evil-requiem-leon-must-die-forever.json](./400876-resident-evil-requiem-leon-must-die-forever.json) |
 | Resident Evil Revelations 2: Season Pass | 254130 | [254130-resident-evil-revelations-2-season-pass.json](./254130-resident-evil-revelations-2-season-pass.json) |
+| Resident Evil Village: Gold Edition | 204722 | [204722-resident-evil-village-gold-edition.json](./204722-resident-evil-village-gold-edition.json) |
 | Resident Evil Village: Shadows of Rose | 230951 | [230951-resident-evil-village-shadows-of-rose.json](./230951-resident-evil-village-shadows-of-rose.json) |
 | Resident Evil: Chronicles HD Collection | 21068 | [21068-resident-evil-chronicles-hd-collection.json](./21068-resident-evil-chronicles-hd-collection.json) |
 | Resident Evil: Code - Madman | 387029 | [387029-resident-evil-code-madman.json](./387029-resident-evil-code-madman.json) |
@@ -4684,6 +4686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Words | 353409 | [353409-rogue-words.json](./353409-rogue-words.json) |
 | Rogue Zillion | 75766 | [75766-rogue-zillion.json](./75766-rogue-zillion.json) |
 | Rogue-Like: Evolution | 282677 | [282677-rogue-like-evolution.json](./282677-rogue-like-evolution.json) |
+| Rogue: Genesia | 211066 | [211066-rogue-genesia.json](./211066-rogue-genesia.json) |
 | Rogue's Awakening | 185037 | [185037-rogues-awakening.json](./185037-rogues-awakening.json) |
 | Rogue's Realm: The Old God | 306360 | [306360-rogues-realm-the-old-god.json](./306360-rogues-realm-the-old-god.json) |
 | Rogue's Tale | 16875 | [16875-rogues-tale.json](./16875-rogues-tale.json) |
@@ -5861,6 +5864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Rush Rally Reloaded | 56424 | [56424-rush-rush-rally-reloaded.json](./56424-rush-rush-rally-reloaded.json) |
 | Rush Troopers | 184657 | [184657-rush-troopers.json](./184657-rush-troopers.json) |
 | Rush!!! | 167260 | [167260-rush.json](./167260-rush.json) |
+| Rush'n Attack | 287587 | [287587-rushn-attack.json](./287587-rushn-attack.json) |
 | Rush'n Attack | 90990 | [90990-rushn-attack.json](./90990-rushn-attack.json) |
 | Rush'N Attack Ex-Patriot | 41584 | [41584-rushn-attack-ex-patriot.json](./41584-rushn-attack-ex-patriot.json) |
 | Rushaway | 211790 | [211790-rushaway.json](./211790-rushaway.json) |
