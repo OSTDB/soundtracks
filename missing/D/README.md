@@ -3419,6 +3419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex: Revision | 23974 | [23974-deus-ex-revision.json](./23974-deus-ex-revision.json) |
 | Deus Ex: Special Limited Edition | 132079 | [132079-deus-ex-special-limited-edition.json](./132079-deus-ex-special-limited-edition.json) |
 | Deus Ex: The Conspiracy | 347125 | [347125-deus-ex-the-conspiracy.json](./347125-deus-ex-the-conspiracy.json) |
+| Deus Ex: The Conspiracy | 78367 | [78367-deus-ex-the-conspiracy.json](./78367-deus-ex-the-conspiracy.json) |
 | Deus Ex: Transcended | 276277 | [276277-deus-ex-transcended.json](./276277-deus-ex-transcended.json) |
 | Deus Ex: Zodiac | 230249 | [230249-deus-ex-zodiac.json](./230249-deus-ex-zodiac.json) |
 | Deus Proxy | 291536 | [291536-deus-proxy.json](./291536-deus-proxy.json) |
@@ -4603,6 +4604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Tarzan Activity Center | 57923 | [57923-disneys-tarzan-activity-center.json](./57923-disneys-tarzan-activity-center.json) |
 | Disney's Tarzan: Return to the Jungle | 49339 | [49339-disneys-tarzan-return-to-the-jungle.json](./49339-disneys-tarzan-return-to-the-jungle.json) |
 | Disney's Tarzan: Untamed | 10625 | [10625-disneys-tarzan-untamed.json](./10625-disneys-tarzan-untamed.json) |
+| Disney's The Emperor's New Groove | 74426 | [74426-disneys-the-emperors-new-groove.json](./74426-disneys-the-emperors-new-groove.json) |
 | Disney's The Lion King | 198801 | [198801-disneys-the-lion-king.json](./198801-disneys-the-lion-king.json) |
 | Disney's The Lion King | 204572 | [204572-disneys-the-lion-king.json](./204572-disneys-the-lion-king.json) |
 | Disney's The Lion King 1 1/2 | 79813 | [79813-disneys-the-lion-king-1-1-2.json](./79813-disneys-the-lion-king-1-1-2.json) |
@@ -5271,6 +5273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolls: The Hunt | 310205 | [310205-dolls-the-hunt.json](./310205-dolls-the-hunt.json) |
 | Dolls' Domain | 305888 | [305888-dolls-domain.json](./305888-dolls-domain.json) |
 | Dolly | 133894 | [133894-dolly.json](./133894-dolly.json) |
+| Dolmen | 75304 | [75304-dolmen.json](./75304-dolmen.json) |
 | Dolmenia : Chroniques Gauloises | 125369 | [125369-dolmenia-chroniques-gauloises.json](./125369-dolmenia-chroniques-gauloises.json) |
 | Dolmenjord | 217519 | [217519-dolmenjord.json](./217519-dolmenjord.json) |
 | Doloc Town | 235852 | [235852-doloc-town.json](./235852-doloc-town.json) |
@@ -7601,6 +7604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DTXMania GR | 123016 | [123016-dtxmania-gr.json](./123016-dtxmania-gr.json) |
 | DTXMania2 | 123017 | [123017-dtxmania2.json](./123017-dtxmania2.json) |
 | DTXPlayer | 130948 | [130948-dtxplayer.json](./130948-dtxplayer.json) |
+| Du Lac & Fey: Dance of Death | 76211 | [76211-du-lac-and-fey-dance-of-death.json](./76211-du-lac-and-fey-dance-of-death.json) |
 | Duael Invaders | 42827 | [42827-duael-invaders.json](./42827-duael-invaders.json) |
 | Dual Brain Vol.1: Calculation | 127170 | [127170-dual-brain-vol-1-calculation.json](./127170-dual-brain-vol-1-calculation.json) |
 | Dual Brain: Complete Edition | 196178 | [196178-dual-brain-complete-edition.json](./196178-dual-brain-complete-edition.json) |
@@ -8230,6 +8234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DunginDragin | 386400 | [386400-dungindragin.json](./386400-dungindragin.json) |
 | Dungless 2 | 164512 | [164512-dungless-2.json](./164512-dungless-2.json) |
 | Dungman: The Dungeon Crawler | 214016 | [214016-dungman-the-dungeon-crawler.json](./214016-dungman-the-dungeon-crawler.json) |
+| Dungreed | 76816 | [76816-dungreed.json](./76816-dungreed.json) |
 | Dunia: The North Wood | 254776 | [254776-dunia-the-north-wood.json](./254776-dunia-the-north-wood.json) |
 | Dunidle Idle RPG | 227477 | [227477-dunidle-idle-rpg.json](./227477-dunidle-idle-rpg.json) |
 | Dunjonquest: Curse of Ra | 94549 | [94549-dunjonquest-curse-of-ra.json](./94549-dunjonquest-curse-of-ra.json) |
