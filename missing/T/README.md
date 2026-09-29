@@ -6044,6 +6044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Dollar | 71009 | [71009-the-lost-dollar.json](./71009-the-lost-dollar.json) |
 | The Lost Episodes of Doom | 310595 | [310595-the-lost-episodes-of-doom.json](./310595-the-lost-episodes-of-doom.json) |
 | The Lost Fear | 273992 | [273992-the-lost-fear.json](./273992-the-lost-fear.json) |
+| The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel | 4316 | [4316-the-lost-files-of-sherlock-holmes-the-case-of-the-serrated-scalpel.json](./4316-the-lost-files-of-sherlock-holmes-the-case-of-the-serrated-scalpel.json) |
 | The Lost Fountain | 96060 | [96060-the-lost-fountain.json](./96060-the-lost-fountain.json) |
 | The Lost Frames | 309134 | [309134-the-lost-frames.json](./309134-the-lost-frames.json) |
 | The Lost Game | 119734 | [119734-the-lost-game.json](./119734-the-lost-game.json) |
