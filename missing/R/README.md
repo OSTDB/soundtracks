@@ -1410,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealFlight Trainer Edition | 162755 | [162755-realflight-trainer-edition.json](./162755-realflight-trainer-edition.json) |
 | Realistic Battle Tank | 216153 | [216153-realistic-battle-tank.json](./216153-realistic-battle-tank.json) |
 | Realistic Tower Destruction | 131558 | [131558-realistic-tower-destruction.json](./131558-realistic-tower-destruction.json) |
+| Realities | 33276 | [33276-realities.json](./33276-realities.json) |
 | Realities: Death Valley | 171911 | [171911-realities-death-valley.json](./171911-realities-death-valley.json) |
 | Reality | 170818 | [170818-reality.json](./170818-reality.json) |
 | Reality | 226976 | [226976-reality.json](./226976-reality.json) |
@@ -3927,6 +3928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadwars | 12843 | [12843-roadwars.json](./12843-roadwars.json) |
 | Roadwars | 95398 | [95398-roadwars.json](./95398-roadwars.json) |
 | Roadway Traffic Racer | 292327 | [292327-roadway-traffic-racer.json](./292327-roadway-traffic-racer.json) |
+| Roadworks Simulator | 33310 | [33310-roadworks-simulator.json](./33310-roadworks-simulator.json) |
 | Roam | 324521 | [324521-roam.json](./324521-roam.json) |
 | Roam | 63893 | [63893-roam.json](./63893-roam.json) |
 | Roaming Backrooms | 265156 | [265156-roaming-backrooms.json](./265156-roaming-backrooms.json) |
@@ -3959,6 +3961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robby's Day Out | 181850 | [181850-robbys-day-out.json](./181850-robbys-day-out.json) |
 | Robert D. Anderson & the Legacy of Cthulhu | 20772 | [20772-robert-d-anderson-and-the-legacy-of-cthulhu.json](./20772-robert-d-anderson-and-the-legacy-of-cthulhu.json) |
 | Robert E. Lee: Civil War General | 51377 | [51377-robert-e-lee-civil-war-general.json](./51377-robert-e-lee-civil-war-general.json) |
+| Robert Mensah's Sins of the Father | 33287 | [33287-robert-mensahs-sins-of-the-father.json](./33287-robert-mensahs-sins-of-the-father.json) |
 | Robert on Earth | 303044 | [303044-robert-on-earth.json](./303044-robert-on-earth.json) |
 | Robert Robie and the Idols of Jade | 189187 | [189187-robert-robie-and-the-idols-of-jade.json](./189187-robert-robie-and-the-idols-of-jade.json) |
 | Robert: Space Stories and Battles | 190064 | [190064-robert-space-stories-and-battles.json](./190064-robert-space-stories-and-battles.json) |
@@ -4225,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Paper Everything | 312010 | [312010-rock-paper-everything.json](./312010-rock-paper-everything.json) |
 | Rock Paper Kill | 412545 | [412545-rock-paper-kill.json](./412545-rock-paper-kill.json) |
 | Rock Paper Scissors 2! | 178621 | [178621-rock-paper-scissors-2.json](./178621-rock-paper-scissors-2.json) |
+| Rock Paper Scissors Champion | 33322 | [33322-rock-paper-scissors-champion.json](./33322-rock-paper-scissors-champion.json) |
 | Rock Paper Scissors Party | 391732 | [391732-rock-paper-scissors-party.json](./391732-rock-paper-scissors-party.json) |
 | Rock Paper Scissors: The Roguelike Puzzle Game | 410207 | [410207-rock-paper-scissors-the-roguelike-puzzle-game.json](./410207-rock-paper-scissors-the-roguelike-puzzle-game.json) |
 | Rock Paper Smash | 213464 | [213464-rock-paper-smash.json](./213464-rock-paper-smash.json) |
@@ -4326,6 +4330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Rumble | 144974 | [144974-rocket-rumble.json](./144974-rocket-rumble.json) |
 | Rocket Rush | 99633 | [99633-rocket-rush.json](./99633-rocket-rush.json) |
 | Rocket Science | 232417 | [232417-rocket-science.json](./232417-rocket-science.json) |
+| Rocket Shooter | 33297 | [33297-rocket-shooter.json](./33297-rocket-shooter.json) |
 | Rocket Shooting | 403001 | [403001-rocket-shooting.json](./403001-rocket-shooting.json) |
 | Rocket Sky! | 119647 | [119647-rocket-sky.json](./119647-rocket-sky.json) |
 | Rocket Smash | 273642 | [273642-rocket-smash.json](./273642-rocket-smash.json) |
@@ -5742,6 +5747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush | 88768 | [88768-rush.json](./88768-rush.json) |
 | Rush Back | 270680 | [270680-rush-back.json](./270680-rush-back.json) |
 | Rush For Glory | 10803 | [10803-rush-for-glory.json](./10803-rush-for-glory.json) |
+| Rush for Gold: California | 33345 | [33345-rush-for-gold-california.json](./33345-rush-for-gold-california.json) |
 | Rush for the Bomb | 54352 | [54352-rush-for-the-bomb.json](./54352-rush-for-the-bomb.json) |
 | Rush Grotto | 378895 | [378895-rush-grotto.json](./378895-rush-grotto.json) |
 | Rush Hour | 18541 | [18541-rush-hour.json](./18541-rush-hour.json) |
