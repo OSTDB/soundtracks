@@ -6078,6 +6078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Drag Racing: Pro Mod Pack 1 | 255970 | [255970-bounty-drag-racing-pro-mod-pack-1.json](./255970-bounty-drag-racing-pro-mod-pack-1.json) |
 | Bounty Drag Racing: Pro Mod Pack 2 | 255969 | [255969-bounty-drag-racing-pro-mod-pack-2.json](./255969-bounty-drag-racing-pro-mod-pack-2.json) |
 | Bounty Drag Racing: Pro Mod Pack 3 | 274742 | [274742-bounty-drag-racing-pro-mod-pack-3.json](./274742-bounty-drag-racing-pro-mod-pack-3.json) |
+| Bounty Hounds | 38471 | [38471-bounty-hounds.json](./38471-bounty-hounds.json) |
 | Bounty Hounds Online | 92495 | [92495-bounty-hounds-online.json](./92495-bounty-hounds-online.json) |
 | Bounty Hunter | 251009 | [251009-bounty-hunter.json](./251009-bounty-hunter.json) |
 | Bounty Hunter: Ocean Diver | 95617 | [95617-bounty-hunter-ocean-diver.json](./95617-bounty-hunter-ocean-diver.json) |
@@ -7154,6 +7155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble 4 Friends: The Baron Is Back! | 139837 | [139837-bubble-bobble-4-friends-the-baron-is-back.json](./139837-bubble-bobble-4-friends-the-baron-is-back.json) |
 | Bubble Bobble Classic | 332248 | [332248-bubble-bobble-classic.json](./332248-bubble-bobble-classic.json) |
 | Bubble Bobble Double Shot | 20672 | [20672-bubble-bobble-double-shot.json](./20672-bubble-bobble-double-shot.json) |
+| Bubble Bobble Evolution | 38483 | [38483-bubble-bobble-evolution.json](./38483-bubble-bobble-evolution.json) |
 | Bubble Bobble Nostalgie | 251020 | [251020-bubble-bobble-nostalgie.json](./251020-bubble-bobble-nostalgie.json) |
 | Bubble Bobble The Revival | 335465 | [335465-bubble-bobble-the-revival.json](./335465-bubble-bobble-the-revival.json) |
 | Bubble Breaking | 168337 | [168337-bubble-breaking.json](./168337-bubble-breaking.json) |
