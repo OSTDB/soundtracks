@@ -2000,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Digger VR | 96467 | [96467-cave-digger-vr.json](./96467-cave-digger-vr.json) |
 | Cave Digger: Riches | 107230 | [107230-cave-digger-riches.json](./107230-cave-digger-riches.json) |
 | Cave Diver | 362819 | [362819-cave-diver.json](./362819-cave-diver.json) |
+| Cave Dude | 46107 | [46107-cave-dude.json](./46107-cave-dude.json) |
 | Cave Escape | 294272 | [294272-cave-escape.json](./294272-cave-escape.json) |
 | Cave Escape | 83949 | [83949-cave-escape.json](./83949-cave-escape.json) |
 | Cave Escape With FNIA Chica | 280909 | [280909-cave-escape-with-fnia-chica.json](./280909-cave-escape-with-fnia-chica.json) |
@@ -3375,6 +3376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choro Q 3 | 97364 | [97364-choro-q-3.json](./97364-choro-q-3.json) |
 | Choro Q HG 3 | 196257 | [196257-choro-q-hg-3.json](./196257-choro-q-hg-3.json) |
 | Choro Q Marine: Q-Boat | 71033 | [71033-choro-q-marine-q-boat.json](./71033-choro-q-marine-q-boat.json) |
+| Choro Q Park | 46095 | [46095-choro-q-park.json](./46095-choro-q-park.json) |
 | Choro Q Works | 97363 | [97363-choro-q-works.json](./97363-choro-q-works.json) |
 | Chorus | 133305 | [133305-chorus.json](./133305-chorus.json) |
 | Chosen | 384064 | [384064-chosen.json](./384064-chosen.json) |
@@ -3399,6 +3401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Gekijouban Keroro Gunsou: Gekishin Dragon Warriors de Arimasu! | 69199 | [69199-chou-gekijouban-keroro-gunsou-gekishin-dragon-warriors-de-arimasu.json](./69199-chou-gekijouban-keroro-gunsou-gekishin-dragon-warriors-de-arimasu.json) |
 | Chou Hatsumei Boy Kani Pan: Bousou Roboto no Nazo!? | 97335 | [97335-chou-hatsumei-boy-kani-pan-bousou-roboto-no-nazo.json](./97335-chou-hatsumei-boy-kani-pan-bousou-roboto-no-nazo.json) |
 | Chou Hatsumei Boy Kanipan: Hirameki Wonderland | 166597 | [166597-chou-hatsumei-boy-kanipan-hirameki-wonderland.json](./166597-chou-hatsumei-boy-kanipan-hirameki-wonderland.json) |
+| Chou Jikuu Yousai Macross: Ai Oboete Imasuka | 46094 | [46094-chou-jikuu-yousai-macross-ai-oboete-imasuka.json](./46094-chou-jikuu-yousai-macross-ai-oboete-imasuka.json) |
 | Chou Jinrou Senki Warwolf | 48590 | [48590-chou-jinrou-senki-warwolf.json](./48590-chou-jinrou-senki-warwolf.json) |
 | Chou Jinsei Enjoi! Tamagotchi Plus | 229952 | [229952-chou-jinsei-enjoi-tamagotchi-plus.json](./229952-chou-jinsei-enjoi-tamagotchi-plus.json) |
 | Chou Manin: Joshi Seido Shanai Choukyou | 97389 | [97389-chou-manin-joshi-seido-shanai-choukyou.json](./97389-chou-manin-joshi-seido-shanai-choukyou.json) |
@@ -7349,6 +7352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures of War | 217338 | [217338-creatures-of-war.json](./217338-creatures-of-war.json) |
 | Creatures Playground | 11378 | [11378-creatures-playground.json](./11378-creatures-playground.json) |
 | Creatures: Docking Station | 155011 | [155011-creatures-docking-station.json](./155011-creatures-docking-station.json) |
+| Creatures: Raised in Space | 46085 | [46085-creatures-raised-in-space.json](./46085-creatures-raised-in-space.json) |
 | Creaturing: Sea Wonders | 340561 | [340561-creaturing-sea-wonders.json](./340561-creaturing-sea-wonders.json) |
 | Creep | 133462 | [133462-creep.json](./133462-creep.json) |
 | Creep Kick | 310197 | [310197-creep-kick.json](./310197-creep-kick.json) |
