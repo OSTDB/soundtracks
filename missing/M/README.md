@@ -2238,6 +2238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mason and Strings | 183606 | [183606-mason-and-strings.json](./183606-mason-and-strings.json) |
 | Masq | 93353 | [93353-masq.json](./93353-masq.json) |
 | Masquaradious | 266291 | [266291-masquaradious.json](./266291-masquaradious.json) |
+| Masque | 37298 | [37298-masque.json](./37298-masque.json) |
 | Masque Mahjongg | 209554 | [209554-masque-mahjongg.json](./209554-masque-mahjongg.json) |
 | Masquerade of Miasma | 150621 | [150621-masquerade-of-miasma.json](./150621-masquerade-of-miasma.json) |
 | Masquerade: Hell Academy | 322194 | [322194-masquerade-hell-academy.json](./322194-masquerade-hell-academy.json) |
@@ -6289,6 +6290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Bonds of the Battlefield | 68079 | [68079-mobile-suit-gundam-bonds-of-the-battlefield.json](./68079-mobile-suit-gundam-bonds-of-the-battlefield.json) |
 | Mobile Suit Gundam: Climax U.C. | 68012 | [68012-mobile-suit-gundam-climax-u-c.json](./68012-mobile-suit-gundam-climax-u-c.json) |
 | Mobile Suit Gundam: Desert Operation | 242522 | [242522-mobile-suit-gundam-desert-operation.json](./242522-mobile-suit-gundam-desert-operation.json) |
+| Mobile Suit Gundam: EX Revue | 37332 | [37332-mobile-suit-gundam-ex-revue.json](./37332-mobile-suit-gundam-ex-revue.json) |
 | Mobile Suit Gundam: Extreme Versus 2 - Infinite Boost | 355089 | [355089-mobile-suit-gundam-extreme-versus-2-infinite-boost.json](./355089-mobile-suit-gundam-extreme-versus-2-infinite-boost.json) |
 | Mobile Suit Gundam: Extreme Vs. 2 | 86532 | [86532-mobile-suit-gundam-extreme-vs-2.json](./86532-mobile-suit-gundam-extreme-vs-2.json) |
 | Mobile Suit Gundam: Extreme vs. Maxi Boost | 79865 | [79865-mobile-suit-gundam-extreme-vs-maxi-boost.json](./79865-mobile-suit-gundam-extreme-vs-maxi-boost.json) |
