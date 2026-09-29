@@ -1442,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Valley | 121729 | [121729-king-valley.json](./121729-king-valley.json) |
 | King War | 240734 | [240734-king-war.json](./240734-king-war.json) |
 | King Wizard, of the Forest Kingdom | 274573 | [274573-king-wizard-of-the-forest-kingdom.json](./274573-king-wizard-of-the-forest-kingdom.json) |
+| King's Bounty | 9613 | [9613-kings-bounty.json](./9613-kings-bounty.json) |
 | King's Bounty 2 | 74329 | [74329-kings-bounty-2.json](./74329-kings-bounty-2.json) |
 | King's Bounty II: Day One Edition | 146330 | [146330-kings-bounty-ii-day-one-edition.json](./146330-kings-bounty-ii-day-one-edition.json) |
 | King's Bounty II: Duke's Edition | 169209 | [169209-kings-bounty-ii-dukes-edition.json](./169209-kings-bounty-ii-dukes-edition.json) |
