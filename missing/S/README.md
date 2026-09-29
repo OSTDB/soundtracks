@@ -11140,6 +11140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Trials on Tatooine | 34982 | [34982-star-wars-trials-on-tatooine.json](./34982-star-wars-trials-on-tatooine.json) |
 | Star Wars: X-Wing | 168 | [168-star-wars-x-wing.json](./168-star-wars-x-wing.json) |
 | Star Wars: X-Wing Tour of Duty - B-Wing | 171 | [171-star-wars-x-wing-tour-of-duty-b-wing.json](./171-star-wars-x-wing-tour-of-duty-b-wing.json) |
+| Star Wars: X-Wing Tour of Duty - Imperial Pursuit | 173 | [173-star-wars-x-wing-tour-of-duty-imperial-pursuit.json](./173-star-wars-x-wing-tour-of-duty-imperial-pursuit.json) |
 | Star Wing | 385716 | [385716-star-wing.json](./385716-star-wing.json) |
 | Star Witch | 190224 | [190224-star-witch.json](./190224-star-witch.json) |
 | Star Wolves 3: Civil War | 9851 | [9851-star-wolves-3-civil-war.json](./9851-star-wolves-3-civil-war.json) |
