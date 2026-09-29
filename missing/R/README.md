@@ -2451,6 +2451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Republic at War | 377612 | [377612-republic-at-war.json](./377612-republic-at-war.json) |
 | Republic of Jungle | 138655 | [138655-republic-of-jungle.json](./138655-republic-of-jungle.json) |
 | Republic: The Revolution | 10236 | [10236-republic-the-revolution.json](./10236-republic-the-revolution.json) |
+| République | 17719 | [17719-republique.json](./17719-republique.json) |
 | République VR | 159154 | [159154-republique-vr.json](./159154-republique-vr.json) |
 | Republique: Anniversary Edition | 152324 | [152324-republique-anniversary-edition.json](./152324-republique-anniversary-edition.json) |
 | République: Episode 1- Exordium | 127126 | [127126-republique-episode-1-exordium.json](./127126-republique-episode-1-exordium.json) |
@@ -2835,6 +2836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroShip: Hit the space ship | 175285 | [175285-retroship-hit-the-space-ship.json](./175285-retroship-hit-the-space-ship.json) |
 | RetroSpace | 231488 | [231488-retrospace.json](./231488-retrospace.json) |
 | RetroVamp | 126634 | [126634-retrovamp.json](./126634-retrovamp.json) |
+| Retrowave | 130243 | [130243-retrowave.json](./130243-retrowave.json) |
 | Retrowave '84 | 214180 | [214180-retrowave-84.json](./214180-retrowave-84.json) |
 | Retrowave Barro Crazy Drift | 386976 | [386976-retrowave-barro-crazy-drift.json](./386976-retrowave-barro-crazy-drift.json) |
 | Retrowave Drift | 148911 | [148911-retrowave-drift.json](./148911-retrowave-drift.json) |
@@ -3109,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RGX Showdown | 109588 | [109588-rgx-showdown.json](./109588-rgx-showdown.json) |
 | Rhapsody in Scarlet | 416111 | [416111-rhapsody-in-scarlet.json](./416111-rhapsody-in-scarlet.json) |
 | Rhapsody of Zephyr | 70961 | [70961-rhapsody-of-zephyr.json](./70961-rhapsody-of-zephyr.json) |
+| Rhapsody: A Musical Adventure | 16997 | [16997-rhapsody-a-musical-adventure.json](./16997-rhapsody-a-musical-adventure.json) |
 | Rhapsody: A Musical Adventure | 315651 | [315651-rhapsody-a-musical-adventure.json](./315651-rhapsody-a-musical-adventure.json) |
 | Rhapsody: Marl Kingdom Chronicles | 234121 | [234121-rhapsody-marl-kingdom-chronicles.json](./234121-rhapsody-marl-kingdom-chronicles.json) |
 | Rhem | 22758 | [22758-rhem.json](./22758-rhem.json) |
@@ -4325,6 +4328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockbot | 39199 | [39199-rockbot.json](./39199-rockbot.json) |
 | Rocket Adventure | 111448 | [111448-rocket-adventure.json](./111448-rocket-adventure.json) |
 | Rocket Angels Inc | 239770 | [239770-rocket-angels-inc.json](./239770-rocket-angels-inc.json) |
+| Rocket Arena | 118565 | [118565-rocket-arena.json](./118565-rocket-arena.json) |
 | Rocket Arena: Mythic Edition | 136456 | [136456-rocket-arena-mythic-edition.json](./136456-rocket-arena-mythic-edition.json) |
 | Rocket Bits | 196311 | [196311-rocket-bits.json](./196311-rocket-bits.json) |
 | Rocket Brown 2 | 317342 | [317342-rocket-brown-2.json](./317342-rocket-brown-2.json) |
@@ -5410,6 +5414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruarua.ru | 369558 | [369558-ruarua-ru.json](./369558-ruarua-ru.json) |
 | Rubbadubbers | 335108 | [335108-rubbadubbers.json](./335108-rubbadubbers.json) |
 | Rubber | 217272 | [217272-rubber.json](./217272-rubber.json) |
+| Rubber Bandits | 139684 | [139684-rubber-bandits.json](./139684-rubber-bandits.json) |
 | Rubber Bandits: Animal Bandits | 297456 | [297456-rubber-bandits-animal-bandits.json](./297456-rubber-bandits-animal-bandits.json) |
 | Rubber Bandits: Go Wild Pack | 225071 | [225071-rubber-bandits-go-wild-pack.json](./225071-rubber-bandits-go-wild-pack.json) |
 | Rubber Bird | 404862 | [404862-rubber-bird.json](./404862-rubber-bird.json) |
