@@ -1498,6 +1498,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Germs: Nerawareta Machi | 62438 | [62438-germs-nerawareta-machi.json](./62438-germs-nerawareta-machi.json) |
 | Germs.io | 112152 | [112152-germs-io.json](./112152-germs-io.json) |
 | Gero-Gero | 295844 | [295844-gero-gero.json](./295844-gero-gero.json) |
+| Geronimo Stilton in the Kingdom of Fantasy | 42807 | [42807-geronimo-stilton-in-the-kingdom-of-fantasy.json](./42807-geronimo-stilton-in-the-kingdom-of-fantasy.json) |
+| Geronimo Stilton: Return to the Kingdom of Fantasy | 42757 | [42757-geronimo-stilton-return-to-the-kingdom-of-fantasy.json](./42757-geronimo-stilton-return-to-the-kingdom-of-fantasy.json) |
 | Geronimo Stilton: The Return to the Kingdom of Fantasy | 52225 | [52225-geronimo-stilton-the-return-to-the-kingdom-of-fantasy.json](./52225-geronimo-stilton-the-return-to-the-kingdom-of-fantasy.json) |
 | Gerry Anderson's Thunderbirds: Shutsudou Thunderbird 2-gou | 385726 | [385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json](./385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json) |
 | Gerry the Germ Goes Body Poppin' | 26464 | [26464-gerry-the-germ-goes-body-poppin.json](./26464-gerry-the-germ-goes-body-poppin.json) |
@@ -3383,6 +3385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Hotel Mania | 235162 | [235162-grand-hotel-mania.json](./235162-grand-hotel-mania.json) |
 | Grand Kingdom: Grand Edition | 89908 | [89908-grand-kingdom-grand-edition.json](./89908-grand-kingdom-grand-edition.json) |
 | Grand Kingdom: Limited Edition | 89909 | [89909-grand-kingdom-limited-edition.json](./89909-grand-kingdom-limited-edition.json) |
+| Grand Knights History | 42808 | [42808-grand-knights-history.json](./42808-grand-knights-history.json) |
 | Grand Kokoro - Episode 1 | 104842 | [104842-grand-kokoro-episode-1.json](./104842-grand-kokoro-episode-1.json) |
 | Grand Larceny | 13860 | [13860-grand-larceny.json](./13860-grand-larceny.json) |
 | Grand Line Adventures | 148485 | [148485-grand-line-adventures.json](./148485-grand-line-adventures.json) |
