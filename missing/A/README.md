@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Loop is a Loop is | 144789 | [144789-a-loop-is-a-loop-is.json](./144789-a-loop-is-a-loop-is.json) |
 | A Lost Land | 384655 | [384655-a-lost-land.json](./384655-a-lost-land.json) |
 | A Lost Note | 244748 | [244748-a-lost-note.json](./244748-a-lost-note.json) |
+| A Lost Room | 29058 | [29058-a-lost-room.json](./29058-a-lost-room.json) |
 | A Lounge Somewhere | 352388 | [352388-a-lounge-somewhere.json](./352388-a-lounge-somewhere.json) |
 | A Love Like Broken Glass | 410440 | [410440-a-love-like-broken-glass.json](./410440-a-love-like-broken-glass.json) |
 | A Love Story: My Best Friend | 334090 | [334090-a-love-story-my-best-friend.json](./334090-a-love-story-my-best-friend.json) |
@@ -5964,6 +5965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Strikers | 316070 | [316070-art-strikers.json](./316070-art-strikers.json) |
 | Art Strip Poker | 96021 | [96021-art-strip-poker.json](./96021-art-strip-poker.json) |
 | Art Studio Simulator | 407346 | [407346-art-studio-simulator.json](./407346-art-studio-simulator.json) |
+| Art Style: Digidrive | 29045 | [29045-art-style-digidrive.json](./29045-art-style-digidrive.json) |
 | Art Style: Precipice | 69261 | [69261-art-style-precipice.json](./69261-art-style-precipice.json) |
 | Art Style: Zengage | 69293 | [69293-art-style-zengage.json](./69293-art-style-zengage.json) |
 | Art Together | 347165 | [347165-art-together.json](./347165-art-together.json) |
