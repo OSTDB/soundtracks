@@ -3507,6 +3507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rip them Off | 136851 | [136851-rip-them-off.json](./136851-rip-them-off.json) |
 | RIP Trilogy | 27790 | [27790-rip-trilogy.json](./27790-rip-trilogy.json) |
 | Rip Van Bubsy | 269835 | [269835-rip-van-bubsy.json](./269835-rip-van-bubsy.json) |
+| Rip-Tide Racer | 50023 | [50023-rip-tide-racer.json](./50023-rip-tide-racer.json) |
 | RIP: Ridiculously Injury Prone | 253443 | [253443-rip-ridiculously-injury-prone.json](./253443-rip-ridiculously-injury-prone.json) |
 | Ripcord | 95419 | [95419-ripcord.json](./95419-ripcord.json) |
 | Ripgraze | 415096 | [415096-ripgraze.json](./415096-ripgraze.json) |
@@ -4086,6 +4087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Wars | 86212 | [86212-robot-wars.json](./86212-robot-wars.json) |
 | Robot Wars: Extreme Destruction | 6014 | [6014-robot-wars-extreme-destruction.json](./6014-robot-wars-extreme-destruction.json) |
 | Robot Wars: Extreme Destruction | 78623 | [78623-robot-wars-extreme-destruction.json](./78623-robot-wars-extreme-destruction.json) |
+| Robot Wars: Metal Mayhem | 50022 | [50022-robot-wars-metal-mayhem.json](./50022-robot-wars-metal-mayhem.json) |
 | Robot Zombies | 180595 | [180595-robot-zombies.json](./180595-robot-zombies.json) |
 | Robot-X | 192440 | [192440-robot-x.json](./192440-robot-x.json) |
 | Robot88 | 182364 | [182364-robot88.json](./182364-robot88.json) |
@@ -5127,6 +5129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RowBot Rally | 256258 | [256258-rowbot-rally.json](./256258-rowbot-rally.json) |
 | Rowdy Wrestling | 104211 | [104211-rowdy-wrestling.json](./104211-rowdy-wrestling.json) |
 | Rowtropia | 260628 | [260628-rowtropia.json](./260628-rowtropia.json) |
+| Rox | 50066 | [50066-rox.json](./50066-rox.json) |
 | Rox II | 315507 | [315507-rox-ii.json](./315507-rox-ii.json) |
 | Roxanne | 382316 | [382316-roxanne.json](./382316-roxanne.json) |
 | Roxy Raccoon | 159290 | [159290-roxy-raccoon.json](./159290-roxy-raccoon.json) |
