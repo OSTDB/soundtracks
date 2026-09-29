@@ -6019,6 +6019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borstal | 33241 | [33241-borstal.json](./33241-borstal.json) |
 | Borussia Dortmund Club Football | 267884 | [267884-borussia-dortmund-club-football.json](./267884-borussia-dortmund-club-football.json) |
 | Borussia Dortmund Club Football 2005 | 267893 | [267893-borussia-dortmund-club-football-2005.json](./267893-borussia-dortmund-club-football-2005.json) |
+| Bosconian | 18758 | [18758-bosconian.json](./18758-bosconian.json) |
 | Bosconian in 3-D | 378436 | [378436-bosconian-in-3-d.json](./378436-bosconian-in-3-d.json) |
 | Bosei Kanojo: Shikyuu Kikan-hen | 194638 | [194638-bosei-kanojo-shikyuu-kikan-hen.json](./194638-bosei-kanojo-shikyuu-kikan-hen.json) |
 | Boshi Techou DS with 'Akachan Massage' | 269669 | [269669-boshi-techou-ds-with-akachan-massage.json](./269669-boshi-techou-ds-with-akachan-massage.json) |
