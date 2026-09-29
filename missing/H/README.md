@@ -1927,6 +1927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Bendy Machine 5 Nights | 104126 | [104126-hello-bendy-machine-5-nights.json](./104126-hello-bendy-machine-5-nights.json) |
 | Hello Benny - Horror Machine | 106379 | [106379-hello-benny-horror-machine.json](./106379-hello-benny-horror-machine.json) |
 | Hello Brain | 96717 | [96717-hello-brain.json](./96717-hello-brain.json) |
+| Hello Charlotte Ep.1: Junk Food, Gods and Teddy Bears | 30480 | [30480-hello-charlotte-ep-1-junk-food-gods-and-teddy-bears.json](./30480-hello-charlotte-ep-1-junk-food-gods-and-teddy-bears.json) |
 | Hello Charlotte: Heaven's Gate | 144382 | [144382-hello-charlotte-heavens-gate.json](./144382-hello-charlotte-heavens-gate.json) |
 | Hello Charlotte: Heaven's Gate | 405724 | [405724-hello-charlotte-heavens-gate.json](./405724-hello-charlotte-heavens-gate.json) |
 | Hello Color | 63932 | [63932-hello-color.json](./63932-hello-color.json) |
@@ -2535,6 +2536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of Not Our Time | 144818 | [144818-hero-of-not-our-time.json](./144818-hero-of-not-our-time.json) |
 | Hero of the Galactic Core | 55512 | [55512-hero-of-the-galactic-core.json](./55512-hero-of-the-galactic-core.json) |
 | Hero of the Hive | 311600 | [311600-hero-of-the-hive.json](./311600-hero-of-the-hive.json) |
+| Hero of the Kingdom | 9638 | [9638-hero-of-the-kingdom.json](./9638-hero-of-the-kingdom.json) |
 | Hero of the Kingdom Collection | 53187 | [53187-hero-of-the-kingdom-collection.json](./53187-hero-of-the-kingdom-collection.json) |
 | Hero of the Kingdom III | 81893 | [81893-hero-of-the-kingdom-iii.json](./81893-hero-of-the-kingdom-iii.json) |
 | Hero of the Kingdom: The Lost Tales 3 | 327322 | [327322-hero-of-the-kingdom-the-lost-tales-3.json](./327322-hero-of-the-kingdom-the-lost-tales-3.json) |
@@ -2849,6 +2851,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexceed: Progressum | 202762 | [202762-hexceed-progressum.json](./202762-hexceed-progressum.json) |
 | Hexceed: Rubrum | 295865 | [295865-hexceed-rubrum.json](./295865-hexceed-rubrum.json) |
 | Hexceed: Year 4 Pass | 295864 | [295864-hexceed-year-4-pass.json](./295864-hexceed-year-4-pass.json) |
+| Hexcells Infinite | 11061 | [11061-hexcells-infinite.json](./11061-hexcells-infinite.json) |
+| Hexcells Plus | 11060 | [11060-hexcells-plus.json](./11060-hexcells-plus.json) |
 | HexChess 360 | 92506 | [92506-hexchess-360.json](./92506-hexchess-360.json) |
 | Hexcite: The Shapes of Victory | 49925 | [49925-hexcite-the-shapes-of-victory.json](./49925-hexcite-the-shapes-of-victory.json) |
 | Hexcodle | 313472 | [313472-hexcodle.json](./313472-hexcodle.json) |
@@ -2869,6 +2873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexguardian | 253372 | [253372-hexguardian.json](./253372-hexguardian.json) |
 | Hexia | 145436 | [145436-hexia.json](./145436-hexia.json) |
 | Hexia | 319023 | [319023-hexia.json](./319023-hexia.json) |
+| Hexic HD | 2732 | [2732-hexic-hd.json](./2732-hexic-hd.json) |
 | Hexile | 105544 | [105544-hexile.json](./105544-hexile.json) |
 | Hexin : Space Chess Game | 102211 | [102211-hexin-space-chess-game.json](./102211-hexin-space-chess-game.json) |
 | Hexion | 40197 | [40197-hexion.json](./40197-hexion.json) |
