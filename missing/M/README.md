@@ -2327,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Epic | 62116 | [62116-master-of-epic.json](./62116-master-of-epic.json) |
 | Master of Ives | 284879 | [284879-master-of-ives.json](./284879-master-of-ives.json) |
 | Master of Luna | 249867 | [249867-master-of-luna.json](./249867-master-of-luna.json) |
+| Master of Magic | 7548 | [7548-master-of-magic.json](./7548-master-of-magic.json) |
 | Master of Magic: Rise of the Soultrapped | 256261 | [256261-master-of-magic-rise-of-the-soultrapped.json](./256261-master-of-magic-rise-of-the-soultrapped.json) |
 | Master of Magic: Scourge of the Seas | 280347 | [280347-master-of-magic-scourge-of-the-seas.json](./280347-master-of-magic-scourge-of-the-seas.json) |
 | Master of Meteor Blades | 81419 | [81419-master-of-meteor-blades.json](./81419-master-of-meteor-blades.json) |
@@ -9197,6 +9198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Secret Bistro: Cooking Game | 246661 | [246661-my-secret-bistro-cooking-game.json](./246661-my-secret-bistro-cooking-game.json) |
 | My Secret Pets! | 33396 | [33396-my-secret-pets.json](./33396-my-secret-pets.json) |
 | My Secret Spy Lovers | 228433 | [228433-my-secret-spy-lovers.json](./228433-my-secret-spy-lovers.json) |
+| My Secret World by Imagine | 7915 | [7915-my-secret-world-by-imagine.json](./7915-my-secret-world-by-imagine.json) |
 | My Selfie Story | 56002 | [56002-my-selfie-story.json](./56002-my-selfie-story.json) |
 | My Service Area | 212476 | [212476-my-service-area.json](./212476-my-service-area.json) |
 | My Sexual Hospitalization | 215890 | [215890-my-sexual-hospitalization.json](./215890-my-sexual-hospitalization.json) |
