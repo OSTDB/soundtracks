@@ -786,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Sniper : Evil Hunter | 96396 | [96396-zombie-sniper-evil-hunter.json](./96396-zombie-sniper-evil-hunter.json) |
 | Zombie Sniper 2 | 103525 | [103525-zombie-sniper-2.json](./103525-zombie-sniper-2.json) |
 | Zombie Sniper HD | 80214 | [80214-zombie-sniper-hd.json](./80214-zombie-sniper-hd.json) |
+| Zombie Society: Dead Detective | 28019 | [28019-zombie-society-dead-detective.json](./28019-zombie-society-dead-detective.json) |
 | Zombie Sokoban for Playdate | 230792 | [230792-zombie-sokoban-for-playdate.json](./230792-zombie-sokoban-for-playdate.json) |
 | Zombie Soldier | 110999 | [110999-zombie-soldier.json](./110999-zombie-soldier.json) |
 | Zombie Space Shooter II | 228119 | [228119-zombie-space-shooter-ii.json](./228119-zombie-space-shooter-ii.json) |
