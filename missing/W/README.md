@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Odyssey | 130881 | [130881-warhammer-odyssey.json](./130881-warhammer-odyssey.json) |
 | Warhammer: Shadow of the Horned Rat | 5527 | [5527-warhammer-shadow-of-the-horned-rat.json](./5527-warhammer-shadow-of-the-horned-rat.json) |
 | Warhammer: Snotling Fling | 34227 | [34227-warhammer-snotling-fling.json](./34227-warhammer-snotling-fling.json) |
+| Warhammer: Vermintide 2 | 55189 | [55189-warhammer-vermintide-2.json](./55189-warhammer-vermintide-2.json) |
 | Warhammer: Vermintide 2 - A Treacherous Adventure | 321734 | [321734-warhammer-vermintide-2-a-treacherous-adventure.json](./321734-warhammer-vermintide-2-a-treacherous-adventure.json) |
 | Warhammer: Vermintide 2 - Deluxe Edition | 202218 | [202218-warhammer-vermintide-2-deluxe-edition.json](./202218-warhammer-vermintide-2-deluxe-edition.json) |
 | Warhammer: Vermintide 2 - Karak Azgaraz | 250914 | [250914-warhammer-vermintide-2-karak-azgaraz.json](./250914-warhammer-vermintide-2-karak-azgaraz.json) |
