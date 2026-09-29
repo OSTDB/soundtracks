@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanobots | 33325 | [33325-nanobots.json](./33325-nanobots.json) |
 | Nanocorp | 173281 | [173281-nanocorp.json](./173281-nanocorp.json) |
 | NanoDeath | 305939 | [305939-nanodeath.json](./305939-nanodeath.json) |
+| Nanofights | 36109 | [36109-nanofights.json](./36109-nanofights.json) |
 | Nanoha Taiken 2nd Chu | 213908 | [213908-nanoha-taiken-2nd-chu.json](./213908-nanoha-taiken-2nd-chu.json) |
 | NanoHive | 216991 | [216991-nanohive.json](./216991-nanohive.json) |
 | Nanoka Project | 226763 | [226763-nanoka-project.json](./226763-nanoka-project.json) |
