@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EEK3 Virtual Show Floor | 145630 | [145630-eek3-virtual-show-floor.json](./145630-eek3-virtual-show-floor.json) |
 | Eel Game | 361295 | [361295-eel-game.json](./361295-eel-game.json) |
 | Een Wonderlijk Avontuur met Pardoes de Tovernar | 242643 | [242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json](./242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json) |
+| EEP Train Simulator Mission | 33266 | [33266-eep-train-simulator-mission.json](./33266-eep-train-simulator-mission.json) |
 | Eerie Dossier: The Haunted Apartment | 391339 | [391339-eerie-dossier-the-haunted-apartment.json](./391339-eerie-dossier-the-haunted-apartment.json) |
 | Eerie Excavation | 301847 | [301847-eerie-excavation.json](./301847-eerie-excavation.json) |
 | Eerie Worlds | 351704 | [351704-eerie-worlds.json](./351704-eerie-worlds.json) |
@@ -1206,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embattled | 261872 | [261872-embattled.json](./261872-embattled.json) |
 | Ember & Blade | 340741 | [340741-ember-and-blade.json](./340741-ember-and-blade.json) |
 | Ember Island | 391189 | [391189-ember-island.json](./391189-ember-island.json) |
+| Ember Kaboom | 33291 | [33291-ember-kaboom.json](./33291-ember-kaboom.json) |
 | Ember Knight Solitaire | 156107 | [156107-ember-knight-solitaire.json](./156107-ember-knight-solitaire.json) |
 | Ember Knights | 146609 | [146609-ember-knights.json](./146609-ember-knights.json) |
 | Ember Knights: Wrath of the Architect | 310371 | [310371-ember-knights-wrath-of-the-architect.json](./310371-ember-knights-wrath-of-the-architect.json) |
@@ -1497,6 +1499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End of Space Project | 264651 | [264651-end-of-space-project.json](./264651-end-of-space-project.json) |
 | End of Starchild | 400374 | [400374-end-of-starchild.json](./400374-end-of-starchild.json) |
 | End of Summer | 210570 | [210570-end-of-summer.json](./210570-end-of-summer.json) |
+| End of the Mine | 33283 | [33283-end-of-the-mine.json](./33283-end-of-the-mine.json) |
 | End of the Skyline | 140499 | [140499-end-of-the-skyline.json](./140499-end-of-the-skyline.json) |
 | End of the Universe | 200105 | [200105-end-of-the-universe.json](./200105-end-of-the-universe.json) |
 | End of the World | 210099 | [210099-end-of-the-world.json](./210099-end-of-the-world.json) |
