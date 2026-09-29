@@ -901,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gartic | 50158 | [50158-gartic.json](./50158-gartic.json) |
 | Gartic on Stream | 185152 | [185152-gartic-on-stream.json](./185152-gartic-on-stream.json) |
 | Gartic.io | 191695 | [191695-gartic-io.json](./191695-gartic-io.json) |
+| Gartu in the Kindergarten | 41490 | [41490-gartu-in-the-kindergarten.json](./41490-gartu-in-the-kindergarten.json) |
 | Garuda Emblem | 327176 | [327176-garuda-emblem.json](./327176-garuda-emblem.json) |
 | Garukilla | 92508 | [92508-garukilla.json](./92508-garukilla.json) |
 | Gary Grigsby's Pacific War | 72106 | [72106-gary-grigsbys-pacific-war.json](./72106-gary-grigsbys-pacific-war.json) |
@@ -1410,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geocells Tricells | 107869 | [107869-geocells-tricells.json](./107869-geocells-tricells.json) |
 | GeoChampion | 233627 | [233627-geochampion.json](./233627-geochampion.json) |
 | Geocraft | 388241 | [388241-geocraft.json](./388241-geocraft.json) |
+| GeoDefense Swarm | 41499 | [41499-geodefense-swarm.json](./41499-geodefense-swarm.json) |
 | Geodessey | 111753 | [111753-geodessey.json](./111753-geodessey.json) |
 | GeoEmpires | 342644 | [342644-geoempires.json](./342644-geoempires.json) |
 | GeoExpert - Russia Geography | 103152 | [103152-geoexpert-russia-geography.json](./103152-geoexpert-russia-geography.json) |
@@ -3801,6 +3803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Toy Showdown | 251838 | [251838-great-toy-showdown.json](./251838-great-toy-showdown.json) |
 | Great Utopia | 129016 | [129016-great-utopia.json](./129016-great-utopia.json) |
 | Great Wall March | 265212 | [265212-great-wall-march.json](./265212-great-wall-march.json) |
+| Great Wall Street Fortune Hunt | 41545 | [41545-great-wall-street-fortune-hunt.json](./41545-great-wall-street-fortune-hunt.json) |
 | Great White Shark Attack Sim | 106127 | [106127-great-white-shark-attack-sim.json](./106127-great-white-shark-attack-sim.json) |
 | Greatest Angels | 365856 | [365856-greatest-angels.json](./365856-greatest-angels.json) |
 | Greatest Dungeon | 295546 | [295546-greatest-dungeon.json](./295546-greatest-dungeon.json) |
