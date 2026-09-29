@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oculto | 111231 | [111231-oculto.json](./111231-oculto.json) |
 | Oculus Arcade | 213949 | [213949-oculus-arcade.json](./213949-oculus-arcade.json) |
 | Oculus Malus | 269664 | [269664-oculus-malus.json](./269664-oculus-malus.json) |
+| Oculus Medium | 57171 | [57171-oculus-medium.json](./57171-oculus-medium.json) |
 | Oculux | 157126 | [157126-oculux.json](./157126-oculux.json) |
 | OD: Knock | 279637 | [279637-od-knock.json](./279637-od-knock.json) |
 | Oda | 122324 | [122324-oda.json](./122324-oda.json) |
