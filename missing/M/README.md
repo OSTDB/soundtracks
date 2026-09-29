@@ -5548,6 +5548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miniature Legends | 395238 | [395238-miniature-legends.json](./395238-miniature-legends.json) |
 | Miniature Mania | 395709 | [395709-miniature-mania.json](./395709-miniature-mania.json) |
 | Miniature Mayhem! | 262931 | [262931-miniature-mayhem.json](./262931-miniature-mayhem.json) |
+| Miniature TD | 54481 | [54481-miniature-td.json](./54481-miniature-td.json) |
 | Miniatures | 295904 | [295904-miniatures.json](./295904-miniatures.json) |
 | MiniBotz | 31929 | [31929-minibotz.json](./31929-minibotz.json) |
 | Minibuilder | 352182 | [352182-minibuilder.json](./352182-minibuilder.json) |
@@ -5596,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniMania | 210088 | [210088-minimania.json](./210088-minimania.json) |
 | MiniMap Kingdom | 166743 | [166743-minimap-kingdom.json](./166743-minimap-kingdom.json) |
 | Minimate | 410917 | [410917-minimate.json](./410917-minimate.json) |
+| Minimized II | 54340 | [54340-minimized-ii.json](./54340-minimized-ii.json) |
 | Minimo | 401502 | [401502-minimo.json](./401502-minimo.json) |
 | Minimonos | 365184 | [365184-minimonos.json](./365184-minimonos.json) |
 | Minimum Nanonic | 70401 | [70401-minimum-nanonic.json](./70401-minimum-nanonic.json) |
@@ -6398,6 +6400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MOK: Super Space Taxi | 119706 | [119706-mok-super-space-taxi.json](./119706-mok-super-space-taxi.json) |
 | Mokete | 266472 | [266472-mokete.json](./266472-mokete.json) |
 | Moki: The Escape | 238725 | [238725-moki-the-escape.json](./238725-moki-the-escape.json) |
+| MokMok | 54492 | [54492-mokmok.json](./54492-mokmok.json) |
 | Moko's Advice | 127079 | [127079-mokos-advice.json](./127079-mokos-advice.json) |
 | Mokoko | 127005 | [127005-mokoko.json](./127005-mokoko.json) |
 | Mokoko X | 191723 | [191723-mokoko-x.json](./191723-mokoko-x.json) |
