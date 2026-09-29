@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Face Golf | 181703 | [181703-face-golf.json](./181703-face-golf.json) |
 | Face Love: Face Designer | 334861 | [334861-face-love-face-designer.json](./334861-face-love-face-designer.json) |
 | Face of the Killer | 289410 | [289410-face-of-the-killer.json](./289410-face-of-the-killer.json) |
+| Face Raiders | 66060 | [66060-face-raiders.json](./66060-face-raiders.json) |
 | Face The Abyss | 340049 | [340049-face-the-abyss.json](./340049-face-the-abyss.json) |
 | Face Wound | 64132 | [64132-face-wound.json](./64132-face-wound.json) |
 | Face Your Faces | 72763 | [72763-face-your-faces.json](./72763-face-your-faces.json) |
@@ -1694,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Felix the Cat | 282575 | [282575-felix-the-cat.json](./282575-felix-the-cat.json) |
 | Felix the Cat: A Bomba-Relógio | 282585 | [282585-felix-the-cat-a-bomba-relogio.json](./282585-felix-the-cat-a-bomba-relogio.json) |
 | Felix the Cat: Contra os Inimigos | 282586 | [282586-felix-the-cat-contra-os-inimigos.json](./282586-felix-the-cat-contra-os-inimigos.json) |
+| Felix the Reaper | 80006 | [80006-felix-the-reaper.json](./80006-felix-the-reaper.json) |
 | Felix the Toy | 144846 | [144846-felix-the-toy.json](./144846-felix-the-toy.json) |
 | Felix VR | 163916 | [163916-felix-vr.json](./163916-felix-vr.json) |
 | Fell from another world | 213478 | [213478-fell-from-another-world.json](./213478-fell-from-another-world.json) |
@@ -2322,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy: Blackmoon Prophecy II | 210030 | [210030-final-fantasy-blackmoon-prophecy-ii.json](./210030-final-fantasy-blackmoon-prophecy-ii.json) |
 | Final Fantasy: Brave Exvius | 19334 | [19334-final-fantasy-brave-exvius.json](./19334-final-fantasy-brave-exvius.json) |
 | Final Fantasy: Crystal Chronicles - Remastered Edition | 109276 | [109276-final-fantasy-crystal-chronicles-remastered-edition.json](./109276-final-fantasy-crystal-chronicles-remastered-edition.json) |
+| Final Fantasy: Crystal Chronicles - Ring of Fates | 9585 | [9585-final-fantasy-crystal-chronicles-ring-of-fates.json](./9585-final-fantasy-crystal-chronicles-ring-of-fates.json) |
 | Final Fantasy: Crystal Chronicles - The Crystal Bearers | 401 | [401-final-fantasy-crystal-chronicles-the-crystal-bearers.json](./401-final-fantasy-crystal-chronicles-the-crystal-bearers.json) |
 | Final Fantasy: Explorers | 7413 | [7413-final-fantasy-explorers.json](./7413-final-fantasy-explorers.json) |
 | Final Fantasy: Mystic Quest | 415 | [415-final-fantasy-mystic-quest.json](./415-final-fantasy-mystic-quest.json) |
