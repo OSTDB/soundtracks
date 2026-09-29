@@ -3876,6 +3876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Draugr | 107004 | [107004-the-draugr.json](./107004-the-draugr.json) |
 | The Drawnjuring | 311807 | [311807-the-drawnjuring.json](./311807-the-drawnjuring.json) |
 | The Drawstring Dungeon | 348864 | [348864-the-drawstring-dungeon.json](./348864-the-drawstring-dungeon.json) |
+| The Dreadnaught Factor | 5672 | [5672-the-dreadnaught-factor.json](./5672-the-dreadnaught-factor.json) |
 | The Dream | 178413 | [178413-the-dream.json](./178413-the-dream.json) |
 | The Dream Alchemist | 179696 | [179696-the-dream-alchemist.json](./179696-the-dream-alchemist.json) |
 | The Dream Globe | 371989 | [371989-the-dream-globe.json](./371989-the-dream-globe.json) |
@@ -4710,6 +4711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gunk | 136000 | [136000-the-gunk.json](./136000-the-gunk.json) |
 | The Gurgling | 381594 | [381594-the-gurgling.json](./381594-the-gurgling.json) |
 | The Gurion Mountains | 148915 | [148915-the-gurion-mountains.json](./148915-the-gurion-mountains.json) |
+| The Guy Game | 5859 | [5859-the-guy-game.json](./5859-the-guy-game.json) |
 | The Hacker | 13724 | [13724-the-hacker.json](./13724-the-hacker.json) |
 | The Hacker 2.0 | 234051 | [234051-the-hacker-2-0.json](./234051-the-hacker-2-0.json) |
 | The Haioku Byoutou | 124076 | [124076-the-haioku-byoutou.json](./124076-the-haioku-byoutou.json) |
@@ -12830,6 +12832,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World: CSX Heavy Haul | 196284 | [196284-train-sim-world-csx-heavy-haul.json](./196284-train-sim-world-csx-heavy-haul.json) |
 | Train Sim World: Great Western Express | 53837 | [53837-train-sim-world-great-western-express.json](./53837-train-sim-world-great-western-express.json) |
 | Train Simulator | 327582 | [327582-train-simulator.json](./327582-train-simulator.json) |
+| Train Simulator 2013 | 5546 | [5546-train-simulator-2013.json](./5546-train-simulator-2013.json) |
+| Train Simulator 2014 | 5545 | [5545-train-simulator-2014.json](./5545-train-simulator-2014.json) |
 | Train Simulator 2017 | 26539 | [26539-train-simulator-2017.json](./26539-train-simulator-2017.json) |
 | Train Simulator 2019 | 111023 | [111023-train-simulator-2019.json](./111023-train-simulator-2019.json) |
 | Train Simulator 2020 | 122285 | [122285-train-simulator-2020.json](./122285-train-simulator-2020.json) |
