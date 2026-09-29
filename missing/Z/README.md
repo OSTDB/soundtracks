@@ -1046,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zumba: Marble Jungle Adventure | 410365 | [410365-zumba-marble-jungle-adventure.json](./410365-zumba-marble-jungle-adventure.json) |
 | Zumba: Soccer Marble League | 364083 | [364083-zumba-soccer-marble-league.json](./364083-zumba-soccer-marble-league.json) |
 | Zumba: The Pharaoh's Marble Revenge | 414436 | [414436-zumba-the-pharaohs-marble-revenge.json](./414436-zumba-the-pharaohs-marble-revenge.json) |
+| Zumbi Blocks | 32074 | [32074-zumbi-blocks.json](./32074-zumbi-blocks.json) |
 | Zumbi Olé: The Minigame | 390119 | [390119-zumbi-ole-the-minigame.json](./390119-zumbi-ole-the-minigame.json) |
 | Zumble Ocean | 415938 | [415938-zumble-ocean.json](./415938-zumble-ocean.json) |
 | ZunderFury | 270411 | [270411-zunderfury.json](./270411-zunderfury.json) |
