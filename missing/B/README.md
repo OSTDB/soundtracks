@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies | 19902 | [19902-bad-piggies.json](./19902-bad-piggies.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
 | Bad Rats Show | 27510 | [27510-bad-rats-show.json](./27510-bad-rats-show.json) |
@@ -3048,6 +3049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Memoria | 386302 | [386302-beyond-memoria.json](./386302-beyond-memoria.json) |
 | Beyond Memories: Darkness of the Soul | 328568 | [328568-beyond-memories-darkness-of-the-soul.json](./328568-beyond-memories-darkness-of-the-soul.json) |
 | Beyond Minimalism | 102923 | [102923-beyond-minimalism.json](./102923-beyond-minimalism.json) |
+| Beyond Pearl Harbor: Pacific Warriors | 37289 | [37289-beyond-pearl-harbor-pacific-warriors.json](./37289-beyond-pearl-harbor-pacific-warriors.json) |
 | Beyond Perception | 108845 | [108845-beyond-perception.json](./108845-beyond-perception.json) |
 | Beyond Protocol | 72646 | [72646-beyond-protocol.json](./72646-beyond-protocol.json) |
 | Beyond Sandbox | 399220 | [399220-beyond-sandbox.json](./399220-beyond-sandbox.json) |
