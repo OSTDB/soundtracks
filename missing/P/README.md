@@ -712,9 +712,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Burgeria | 77672 | [77672-papas-burgeria.json](./77672-papas-burgeria.json) |
 | Papa's Burgeria HD | 86695 | [86695-papas-burgeria-hd.json](./86695-papas-burgeria-hd.json) |
 | Papa's Burgeria to Go! | 96986 | [96986-papas-burgeria-to-go.json](./96986-papas-burgeria-to-go.json) |
+| Papa's Donuteria | 210502 | [210502-papas-donuteria.json](./210502-papas-donuteria.json) |
 | Papa's Donutria | 143040 | [143040-papas-donutria.json](./143040-papas-donutria.json) |
 | Papa's Hot Doggeria HD | 88892 | [88892-papas-hot-doggeria-hd.json](./88892-papas-hot-doggeria-hd.json) |
 | Papa's Pancakeria HD | 88891 | [88891-papas-pancakeria-hd.json](./88891-papas-pancakeria-hd.json) |
+| Papa's Pastaria | 210501 | [210501-papas-pastaria.json](./210501-papas-pastaria.json) |
 | Papa's Pizzeria to Go! | 96296 | [96296-papas-pizzeria-to-go.json](./96296-papas-pizzeria-to-go.json) |
 | Papair | 57148 | [57148-papair.json](./57148-papair.json) |
 | Papao: The Legend of the Bogeyman | 372544 | [372544-papao-the-legend-of-the-bogeyman.json](./372544-papao-the-legend-of-the-bogeyman.json) |
@@ -1670,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PB Makes Lunch | 177411 | [177411-pb-makes-lunch.json](./177411-pb-makes-lunch.json) |
 | PBA Bowling | 75210 | [75210-pba-bowling.json](./75210-pba-bowling.json) |
 | PBA Bowling 2 | 94674 | [94674-pba-bowling-2.json](./94674-pba-bowling-2.json) |
+| PBA Pro Bowling 2026 | 369592 | [369592-pba-pro-bowling-2026.json](./369592-pba-pro-bowling-2026.json) |
 | PBA Pro Bowling 2027 | 416842 | [416842-pba-pro-bowling-2027.json](./416842-pba-pro-bowling-2027.json) |
 | PBA Tour Bowling II | 210011 | [210011-pba-tour-bowling-ii.json](./210011-pba-tour-bowling-ii.json) |
 | PBJ: The Musical | 325280 | [325280-pbj-the-musical.json](./325280-pbj-the-musical.json) |
@@ -4955,6 +4958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon FireRed Deluxe | 338914 | [338914-pokemon-firered-deluxe.json](./338914-pokemon-firered-deluxe.json) |
 | Pokémon Fool's Gold | 136877 | [136877-pokemon-fools-gold.json](./136877-pokemon-fools-gold.json) |
 | Pokémon FR Advanced Challenge | 136412 | [136412-pokemon-fr-advanced-challenge.json](./136412-pokemon-fr-advanced-challenge.json) |
+| Pokémon Friends | 356551 | [356551-pokemon-friends.json](./356551-pokemon-friends.json) |
 | Pokémon Fushigi no Dungeon: Ikuzo! Arashi no Boukendan | 103512 | [103512-pokemon-fushigi-no-dungeon-ikuzo-arashi-no-boukendan.json](./103512-pokemon-fushigi-no-dungeon-ikuzo-arashi-no-boukendan.json) |
 | Pokémon Fushigi no Dungeon: Mezase! Hikari no Boukendan | 103513 | [103513-pokemon-fushigi-no-dungeon-mezase-hikari-no-boukendan.json](./103513-pokemon-fushigi-no-dungeon-mezase-hikari-no-boukendan.json) |
 | Pokémon Fushigi no Dungeon: Susume! Honoo no Boukendan | 103511 | [103511-pokemon-fushigi-no-dungeon-susume-honoo-no-boukendan.json](./103511-pokemon-fushigi-no-dungeon-susume-honoo-no-boukendan.json) |
