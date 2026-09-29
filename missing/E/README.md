@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevated | 155027 | [155027-elevated.json](./155027-elevated.json) |
 | Elevatium: Puzzle of Atlantis | 185436 | [185436-elevatium-puzzle-of-atlantis.json](./185436-elevatium-puzzle-of-atlantis.json) |
 | Elevator | 390275 | [390275-elevator.json](./390275-elevator.json) |
+| Elevator | 58300 | [58300-elevator.json](./58300-elevator.json) |
 | Elevator Action | 276516 | [276516-elevator-action.json](./276516-elevator-action.json) |
 | Elevator Action | 51241 | [51241-elevator-action.json](./51241-elevator-action.json) |
 | Elevator Action 3D | 286679 | [286679-elevator-action-3d.json](./286679-elevator-action-3d.json) |
@@ -3556,9 +3557,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyes of the Night | 173231 | [173231-eyes-of-the-night.json](./173231-eyes-of-the-night.json) |
 | Eyes on Me | 385855 | [385855-eyes-on-me.json](./385855-eyes-on-me.json) |
 | Eyes That Hypnotise | 324878 | [324878-eyes-that-hypnotise.json](./324878-eyes-that-hypnotise.json) |
+| Eyeshield 21: AmeFoot Yarouze! Ya! Ha! | 58281 | [58281-eyeshield-21-amefoot-yarouze-ya-ha.json](./58281-eyeshield-21-amefoot-yarouze-ya-ha.json) |
 | Eyeshield 21: DevilBats DevilDays | 49582 | [49582-eyeshield-21-devilbats-devildays.json](./49582-eyeshield-21-devilbats-devildays.json) |
 | Eyeshield 21: Field no Saikyou Senshi-tachi | 72994 | [72994-eyeshield-21-field-no-saikyou-senshi-tachi.json](./72994-eyeshield-21-field-no-saikyou-senshi-tachi.json) |
 | Eyeshield 21: MAX Devil Power | 124011 | [124011-eyeshield-21-max-devil-power.json](./124011-eyeshield-21-max-devil-power.json) |
+| Eyeshield 21: Portable Edition | 58277 | [58277-eyeshield-21-portable-edition.json](./58277-eyeshield-21-portable-edition.json) |
 | EyeToy Play Hero | 44638 | [44638-eyetoy-play-hero.json](./44638-eyetoy-play-hero.json) |
 | EyeToy: AntiGrav | 19253 | [19253-eyetoy-antigrav.json](./19253-eyetoy-antigrav.json) |
 | Eyewitness Virtual Reality: Dinosaur Hunter | 198384 | [198384-eyewitness-virtual-reality-dinosaur-hunter.json](./198384-eyewitness-virtual-reality-dinosaur-hunter.json) |
