@@ -3005,6 +3005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilot Attack | 281534 | [281534-pilot-attack.json](./281534-pilot-attack.json) |
 | Pilot Brothers | 25513 | [25513-pilot-brothers.json](./25513-pilot-brothers.json) |
 | Pilot Brothers 3D: The Case of the garden pests | 403598 | [403598-pilot-brothers-3d-the-case-of-the-garden-pests.json](./403598-pilot-brothers-3d-the-case-of-the-garden-pests.json) |
+| Pilot Kids | 39797 | [39797-pilot-kids.json](./39797-pilot-kids.json) |
 | Pilot Light | 319204 | [319204-pilot-light.json](./319204-pilot-light.json) |
 | Pilot Light | 96511 | [96511-pilot-light.json](./96511-pilot-light.json) |
 | Pilot Rudder VR | 105340 | [105340-pilot-rudder-vr.json](./105340-pilot-rudder-vr.json) |
