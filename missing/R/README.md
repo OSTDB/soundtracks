@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RampageRunner | 341310 | [341310-rampagerunner.json](./341310-rampagerunner.json) |
 | Rampart | 341655 | [341655-rampart.json](./341655-rampart.json) |
 | Rampart | 9684 | [9684-rampart.json](./9684-rampart.json) |
+| Ramparts | 40942 | [40942-ramparts.json](./40942-ramparts.json) |
 | Ramped Up! | 234604 | [234604-ramped-up.json](./234604-ramped-up.json) |
 | Ramsak | 25139 | [25139-ramsak.json](./25139-ramsak.json) |
 | Ramses Classic | 200444 | [200444-ramses-classic.json](./200444-ramses-classic.json) |
@@ -1182,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re Rive | 202323 | [202323-re-rive.json](./202323-re-rive.json) |
 | Re-Blood | 198357 | [198357-re-blood.json](./198357-re-blood.json) |
 | Re-bot | 75906 | [75906-re-bot.json](./75906-re-bot.json) |
+| Re-Bounder | 40940 | [40940-re-bounder.json](./40940-re-bounder.json) |
 | Re-Exit | 336728 | [336728-re-exit.json](./336728-re-exit.json) |
 | Re-Nullum | 149466 | [149466-re-nullum.json](./149466-re-nullum.json) |
 | Re-O-Ri | 111493 | [111493-re-o-ri.json](./111493-re-o-ri.json) |
@@ -2760,6 +2762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroCube | 175404 | [175404-retrocube.json](./175404-retrocube.json) |
 | Retrofit: Overload | 66676 | [66676-retrofit-overload.json](./66676-retrofit-overload.json) |
 | RetroFuel | 184108 | [184108-retrofuel.json](./184108-retrofuel.json) |
+| Retrograde | 40932 | [40932-retrograde.json](./40932-retrograde.json) |
 | Retrograde Arena: Arms Race Pack | 226966 | [226966-retrograde-arena-arms-race-pack.json](./226966-retrograde-arena-arms-race-pack.json) |
 | Retrograde Arena: Deathmatch Pack | 226967 | [226967-retrograde-arena-deathmatch-pack.json](./226967-retrograde-arena-deathmatch-pack.json) |
 | Retrojam 3 | 384214 | [384214-retrojam-3.json](./384214-retrojam-3.json) |
@@ -2888,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge Of The Colon | 279005 | [279005-revenge-of-the-colon.json](./279005-revenge-of-the-colon.json) |
 | Revenge of the Fallen | 123600 | [123600-revenge-of-the-fallen.json](./123600-revenge-of-the-fallen.json) |
 | Revenge of the Gamer | 372685 | [372685-revenge-of-the-gamer.json](./372685-revenge-of-the-gamer.json) |
+| Revenge of the Mutant Camels | 40918 | [40918-revenge-of-the-mutant-camels.json](./40918-revenge-of-the-mutant-camels.json) |
 | Revenge of the Ronin | 277302 | [277302-revenge-of-the-ronin.json](./277302-revenge-of-the-ronin.json) |
 | Revenge of the Savage Planet: Cosmic Hoarder Edition | 336145 | [336145-revenge-of-the-savage-planet-cosmic-hoarder-edition.json](./336145-revenge-of-the-savage-planet-cosmic-hoarder-edition.json) |
 | Revenge of the Shadow Ninja | 244709 | [244709-revenge-of-the-shadow-ninja.json](./244709-revenge-of-the-shadow-ninja.json) |
@@ -4749,6 +4753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollo Pollo | 348352 | [348352-rollo-pollo.json](./348352-rollo-pollo.json) |
 | Rollout | 31870 | [31870-rollout.json](./31870-rollout.json) |
 | Rollover Alien | 358490 | [358490-rollover-alien.json](./358490-rollover-alien.json) |
+| Rolloverture | 40914 | [40914-rolloverture.json](./40914-rolloverture.json) |
 | Rollovski | 202151 | [202151-rollovski.json](./202151-rollovski.json) |
 | Rolls and Girls | 367027 | [367027-rolls-and-girls.json](./367027-rolls-and-girls.json) |
 | RollScape | 295403 | [295403-rollscape.json](./295403-rollscape.json) |
@@ -5180,6 +5185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic: Wicked Warfare | 252980 | [252980-roxy-raccoons-pinball-panic-wicked-warfare.json](./252980-roxy-raccoons-pinball-panic-wicked-warfare.json) |
 | Roxy Raccoon's Pinball Panic: Workplace Worries | 264042 | [264042-roxy-raccoons-pinball-panic-workplace-worries.json](./264042-roxy-raccoons-pinball-panic-workplace-worries.json) |
 | Roxy's Windows | 241477 | [241477-roxys-windows.json](./241477-roxys-windows.json) |
+| Roy of the Rovers | 40939 | [40939-roy-of-the-rovers.json](./40939-roy-of-the-rovers.json) |
 | Roy's Bizarre Adventure | 234548 | [234548-roys-bizarre-adventure.json](./234548-roys-bizarre-adventure.json) |
 | Roy's Rugs | 199385 | [199385-roys-rugs.json](./199385-roys-rugs.json) |
 | Royal Alchemist | 109734 | [109734-royal-alchemist.json](./109734-royal-alchemist.json) |
