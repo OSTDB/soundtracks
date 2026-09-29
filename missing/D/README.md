@@ -2672,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demiurges | 221110 | [221110-demiurges.json](./221110-demiurges.json) |
 | Demo Disc: Flipside Frights | 398993 | [398993-demo-disc-flipside-frights.json](./398993-demo-disc-flipside-frights.json) |
 | Demo Disc: Spectral Mall | 214745 | [214745-demo-disc-spectral-mall.json](./214745-demo-disc-spectral-mall.json) |
+| Democracy | 5520 | [5520-democracy.json](./5520-democracy.json) |
 | Democracy 3: Social Engineering | 11399 | [11399-democracy-3-social-engineering.json](./11399-democracy-3-social-engineering.json) |
 | Democracy 4 | 109483 | [109483-democracy-4.json](./109483-democracy-4.json) |
 | Demolish & Build 2018 | 90102 | [90102-demolish-and-build-2018.json](./90102-demolish-and-build-2018.json) |
@@ -6697,6 +6698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonspire | 221139 | [221139-dragonspire.json](./221139-dragonspire.json) |
 | Dragonstomper | 18568 | [18568-dragonstomper.json](./18568-dragonstomper.json) |
 | Dragonstone: Kingdoms | 255056 | [255056-dragonstone-kingdoms.json](./255056-dragonstone-kingdoms.json) |
+| DragonStrike | 5467 | [5467-dragonstrike.json](./5467-dragonstrike.json) |
 | DragonSwings | 184636 | [184636-dragonswings.json](./184636-dragonswings.json) |
 | Dragontorc | 13610 | [13610-dragontorc.json](./13610-dragontorc.json) |
 | Dragonwing | 94572 | [94572-dragonwing.json](./94572-dragonwing.json) |
@@ -8174,6 +8176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Durango: Wild Lands | 26918 | [26918-durango-wild-lands.json](./26918-durango-wild-lands.json) |
 | Durarara!! 3-way Standoff | 66353 | [66353-durarara-3-way-standoff.json](./66353-durarara-3-way-standoff.json) |
 | Durarara!! Relay | 61661 | [61661-durarara-relay.json](./61661-durarara-relay.json) |
+| Durations | 5633 | [5633-durations.json](./5633-durations.json) |
 | Durga: The Lionhearted | 352203 | [352203-durga-the-lionhearted.json](./352203-durga-the-lionhearted.json) |
 | Duriano | 311483 | [311483-duriano.json](./311483-duriano.json) |
 | Durka Simulator | 236402 | [236402-durka-simulator.json](./236402-durka-simulator.json) |
