@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-16 Combat Pilot | 12085 | [12085-f-16-combat-pilot.json](./12085-f-16-combat-pilot.json) |
 | F-16 Multirole Fighter | 72715 | [72715-f-16-multirole-fighter.json](./72715-f-16-multirole-fighter.json) |
 | F-16 Renegade | 66706 | [66706-f-16-renegade.json](./66706-f-16-renegade.json) |
+| F-18 Hornet | 12322 | [12322-f-18-hornet.json](./12322-f-18-hornet.json) |
 | F-18 Thunder Strike | 49931 | [49931-f-18-thunder-strike.json](./49931-f-18-thunder-strike.json) |
 | F-22 Air Dominance Fighter | 693 | [693-f-22-air-dominance-fighter.json](./693-f-22-air-dominance-fighter.json) |
 | F-22 Interceptor | 19494 | [19494-f-22-interceptor.json](./19494-f-22-interceptor.json) |
@@ -1428,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Heritage | 75150 | [75150-fatal-heritage.json](./75150-fatal-heritage.json) |
 | Fatal Inertia EX | 80458 | [80458-fatal-inertia-ex.json](./80458-fatal-inertia-ex.json) |
 | Fatal Labyrinth | 4496 | [4496-fatal-labyrinth.json](./4496-fatal-labyrinth.json) |
+| Fatal Run | 12323 | [12323-fatal-run.json](./12323-fatal-run.json) |
 | Fatal Seduction | 63871 | [63871-fatal-seduction.json](./63871-fatal-seduction.json) |
 | Fatal Slash | 390785 | [390785-fatal-slash.json](./390785-fatal-slash.json) |
 | Fatal Theory | 34681 | [34681-fatal-theory.json](./34681-fatal-theory.json) |
@@ -1477,6 +1479,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Stay Night | 12328 | [12328-fate-stay-night.json](./12328-fate-stay-night.json) |
 | Fate/Stay Night: First Press Limited Edition | 307303 | [307303-fate-stay-night-first-press-limited-edition.json](./307303-fate-stay-night-first-press-limited-edition.json) |
 | Fate/Stay Night: Réalta Nua - Fate | 47067 | [47067-fate-stay-night-realta-nua-fate.json](./47067-fate-stay-night-realta-nua-fate.json) |
+| Fate/tiger colosseum | 12331 | [12331-fate-tiger-colosseum.json](./12331-fate-tiger-colosseum.json) |
+| Fate/tiger colosseum Upper | 12332 | [12332-fate-tiger-colosseum-upper.json](./12332-fate-tiger-colosseum-upper.json) |
 | Fate/unlimited codes Portable | 42863 | [42863-fate-unlimited-codes-portable.json](./42863-fate-unlimited-codes-portable.json) |
 | Fate/Zero the Visual Novel | 297459 | [297459-fate-zero-the-visual-novel.json](./297459-fate-zero-the-visual-novel.json) |
 | Fatebreak | 181244 | [181244-fatebreak.json](./181244-fatebreak.json) |
@@ -2015,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Me | 137553 | [137553-fight-me.json](./137553-fight-me.json) |
 | Fight Me | 378308 | [378308-fight-me.json](./378308-fight-me.json) |
 | Fight Me Bro! | 31082 | [31082-fight-me-bro.json](./31082-fight-me-bro.json) |
+| Fight Night | 12324 | [12324-fight-night.json](./12324-fight-night.json) |
 | Fight Night 2004 | 5835 | [5835-fight-night-2004.json](./5835-fight-night-2004.json) |
 | Fight Night Round 2 | 3915 | [3915-fight-night-round-2.json](./3915-fight-night-round-2.json) |
 | Fight Night Round 3 | 5836 | [5836-fight-night-round-3.json](./5836-fight-night-round-3.json) |
@@ -3362,6 +3367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flee the Fallen | 370307 | [370307-flee-the-fallen.json](./370307-flee-the-fallen.json) |
 | Fleece Lightning | 175392 | [175392-fleece-lightning.json](./175392-fleece-lightning.json) |
 | Fleeing Felines: The Cat Escape | 337450 | [337450-fleeing-felines-the-cat-escape.json](./337450-fleeing-felines-the-cat-escape.json) |
+| Fleet Defender Gold | 12320 | [12320-fleet-defender-gold.json](./12320-fleet-defender-gold.json) |
 | Fleet Force | 102098 | [102098-fleet-force.json](./102098-fleet-force.json) |
 | Fleet Sweep | 139892 | [139892-fleet-sweep.json](./139892-fleet-sweep.json) |
 | Fleet Wars | 28812 | [28812-fleet-wars.json](./28812-fleet-wars.json) |
