@@ -1170,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemaze TD | 411665 | [411665-gemaze-td.json](./411665-gemaze-td.json) |
 | Gemblades | 386881 | [386881-gemblades.json](./386881-gemblades.json) |
 | GemCore | 214157 | [214157-gemcore.json](./214157-gemcore.json) |
+| GemCraft | 23979 | [23979-gemcraft.json](./23979-gemcraft.json) |
 | GemCraft Chapter One: The Forgotten | 79289 | [79289-gemcraft-chapter-one-the-forgotten.json](./79289-gemcraft-chapter-one-the-forgotten.json) |
 | GemCraft Lost Chapter: Labyrinth | 79288 | [79288-gemcraft-lost-chapter-labyrinth.json](./79288-gemcraft-lost-chapter-labyrinth.json) |
 | Gemfire | 14501 | [14501-gemfire.json](./14501-gemfire.json) |
@@ -1350,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius Quiz Youtubers 3 | 241930 | [241930-genius-quiz-youtubers-3.json](./241930-genius-quiz-youtubers-3.json) |
 | Genius Quiz Yugi | 241927 | [241927-genius-quiz-yugi.json](./241927-genius-quiz-yugi.json) |
 | Genius: Im Zentrum der Macht | 86122 | [86122-genius-im-zentrum-der-macht.json](./86122-genius-im-zentrum-der-macht.json) |
+| Genji: Days of the Blade | 7315 | [7315-genji-days-of-the-blade.json](./7315-genji-days-of-the-blade.json) |
 | Genji: Time Suspense Adventure | 66150 | [66150-genji-time-suspense-adventure.json](./66150-genji-time-suspense-adventure.json) |
 | Genji: Time Suspense Adventure | 66634 | [66634-genji-time-suspense-adventure.json](./66634-genji-time-suspense-adventure.json) |
 | Genjin Collection | 64343 | [64343-genjin-collection.json](./64343-genjin-collection.json) |
