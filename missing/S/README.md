@@ -3039,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Labyrinth | 269093 | [269093-shadow-labyrinth.json](./269093-shadow-labyrinth.json) |
 | Shadow Land | 242558 | [242558-shadow-land.json](./242558-shadow-land.json) |
 | Shadow Legend VR | 112926 | [112926-shadow-legend-vr.json](./112926-shadow-legend-vr.json) |
+| Shadow Man | 3598 | [3598-shadow-man.json](./3598-shadow-man.json) |
 | Shadow Mansion 2 | 374144 | [374144-shadow-mansion-2.json](./374144-shadow-mansion-2.json) |
 | Shadow Mantis | 377086 | [377086-shadow-mantis.json](./377086-shadow-mantis.json) |
 | Shadow Matching Puzzles | 231904 | [231904-shadow-matching-puzzles.json](./231904-shadow-matching-puzzles.json) |
@@ -5496,6 +5497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skidmarks | 65506 | [65506-skidmarks.json](./65506-skidmarks.json) |
 | Skies Above | 272931 | [272931-skies-above.json](./272931-skies-above.json) |
 | Skies Above the Great War | 244876 | [244876-skies-above-the-great-war.json](./244876-skies-above-the-great-war.json) |
+| Skies of Arcadia | 19007 | [19007-skies-of-arcadia.json](./19007-skies-of-arcadia.json) |
 | Skies of Chaos | 111844 | [111844-skies-of-chaos.json](./111844-skies-of-chaos.json) |
 | Skies of Glory | 62446 | [62446-skies-of-glory.json](./62446-skies-of-glory.json) |
 | SkifY | 75075 | [75075-skify.json](./75075-skify.json) |
@@ -13776,6 +13778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bomberman | 3450 | [3450-super-bomberman.json](./3450-super-bomberman.json) |
 | Super Bomberman 3 | 18618 | [18618-super-bomberman-3.json](./18618-super-bomberman-3.json) |
 | Super Bomberman BT | 198216 | [198216-super-bomberman-bt.json](./198216-super-bomberman-bt.json) |
+| Super Bomberman R | 26760 | [26760-super-bomberman-r.json](./26760-super-bomberman-r.json) |
 | Super Bomberman R 2 | 206807 | [206807-super-bomberman-r-2.json](./206807-super-bomberman-r-2.json) |
 | Super Bomberman R Online: Premium Pack | 150653 | [150653-super-bomberman-r-online-premium-pack.json](./150653-super-bomberman-r-online-premium-pack.json) |
 | Super Bomberman: Panic Bomber W | 42546 | [42546-super-bomberman-panic-bomber-w.json](./42546-super-bomberman-panic-bomber-w.json) |
@@ -13805,6 +13808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bunny Woman | 403663 | [403663-super-bunny-woman.json](./403663-super-bunny-woman.json) |
 | Super Burger Master | 235159 | [235159-super-burger-master.json](./235159-super-burger-master.json) |
 | Super Buzzy: Star of Eternity | 323902 | [323902-super-buzzy-star-of-eternity.json](./323902-super-buzzy-star-of-eternity.json) |
+| Super C | 84919 | [84919-super-c.json](./84919-super-c.json) |
 | Super Cabbage Kabumi | 352187 | [352187-super-cabbage-kabumi.json](./352187-super-cabbage-kabumi.json) |
 | Super Cable Boy | 139217 | [139217-super-cable-boy.json](./139217-super-cable-boy.json) |
 | Super Caesars Palace | 9622 | [9622-super-caesars-palace.json](./9622-super-caesars-palace.json) |
@@ -16100,6 +16104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syberia II | 6185 | [6185-syberia-ii.json](./6185-syberia-ii.json) |
 | Syberia: 20th Anniversary Bundle | 202126 | [202126-syberia-20th-anniversary-bundle.json](./202126-syberia-20th-anniversary-bundle.json) |
 | Syberia: Remastered | 344050 | [344050-syberia-remastered.json](./344050-syberia-remastered.json) |
+| Syberia: The World Before | 121763 | [121763-syberia-the-world-before.json](./121763-syberia-the-world-before.json) |
 | Sybil's Tail | 179657 | [179657-sybils-tail.json](./179657-sybils-tail.json) |
 | Sycamore | 186618 | [186618-sycamore.json](./186618-sycamore.json) |
 | Sycamore | 323346 | [323346-sycamore.json](./323346-sycamore.json) |
