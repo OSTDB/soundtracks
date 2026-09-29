@@ -3574,6 +3574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroisen 2 | 188388 | [188388-chroisen-2.json](./188388-chroisen-2.json) |
 | Chroma | 172046 | [172046-chroma.json](./172046-chroma.json) |
 | Chroma | 311799 | [311799-chroma.json](./311799-chroma.json) |
+| Chroma | 5588 | [5588-chroma.json](./5588-chroma.json) |
 | Chroma Blast | 43498 | [43498-chroma-blast.json](./43498-chroma-blast.json) |
 | Chroma Cannon | 136245 | [136245-chroma-cannon.json](./136245-chroma-cannon.json) |
 | Chroma Chronicles | 194450 | [194450-chroma-chronicles.json](./194450-chroma-chronicles.json) |
@@ -5406,6 +5407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coma: A Mind Adventure | 64976 | [64976-coma-a-mind-adventure.json](./64976-coma-a-mind-adventure.json) |
 | Coma: Lost in the Maze | 186816 | [186816-coma-lost-in-the-maze.json](./186816-coma-lost-in-the-maze.json) |
 | Coma: Mortuary | 36321 | [36321-coma-mortuary.json](./36321-coma-mortuary.json) |
+| Comanche 2 | 5610 | [5610-comanche-2.json](./5610-comanche-2.json) |
 | Comanche 3 | 643 | [643-comanche-3.json](./643-comanche-3.json) |
 | Comanche 4 | 4203 | [4203-comanche-4.json](./4203-comanche-4.json) |
 | Comanche CD | 94326 | [94326-comanche-cd.json](./94326-comanche-cd.json) |
