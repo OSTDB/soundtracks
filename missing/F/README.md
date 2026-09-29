@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 2018: Headline Edition | 110984 | [110984-f1-2018-headline-edition.json](./110984-f1-2018-headline-edition.json) |
 | F1 2019 | 116667 | [116667-f1-2019.json](./116667-f1-2019.json) |
 | F1 2019: Legends Edition | 125192 | [125192-f1-2019-legends-edition.json](./125192-f1-2019-legends-edition.json) |
+| F1 2020 | 132205 | [132205-f1-2020.json](./132205-f1-2020.json) |
 | F1 22 | 198200 | [198200-f1-22.json](./198200-f1-22.json) |
 | F1 22: Champions Content Bundle | 226843 | [226843-f1-22-champions-content-bundle.json](./226843-f1-22-champions-content-bundle.json) |
 | F1 22: Champions Edition | 198261 | [198261-f1-22-champions-edition.json](./198261-f1-22-champions-edition.json) |
@@ -2314,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy: Crystal Chronicles - Remastered Edition | 109276 | [109276-final-fantasy-crystal-chronicles-remastered-edition.json](./109276-final-fantasy-crystal-chronicles-remastered-edition.json) |
 | Final Fantasy: Crystal Chronicles - The Crystal Bearers | 401 | [401-final-fantasy-crystal-chronicles-the-crystal-bearers.json](./401-final-fantasy-crystal-chronicles-the-crystal-bearers.json) |
 | Final Fantasy: Explorers | 7413 | [7413-final-fantasy-explorers.json](./7413-final-fantasy-explorers.json) |
+| Final Fantasy: Mystic Quest | 415 | [415-final-fantasy-mystic-quest.json](./415-final-fantasy-mystic-quest.json) |
 | Final Fantasy: Pixel Remaster Collection | 159253 | [159253-final-fantasy-pixel-remaster-collection.json](./159253-final-fantasy-pixel-remaster-collection.json) |
 | Final Fantasy: The 4 Heroes of Light | 17463 | [17463-final-fantasy-the-4-heroes-of-light.json](./17463-final-fantasy-the-4-heroes-of-light.json) |
 | Final Fantasy: World Wide Words | 127876 | [127876-final-fantasy-world-wide-words.json](./127876-final-fantasy-world-wide-words.json) |
@@ -5175,6 +5177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Fighter | 77299 | [77299-freedom-fighter.json](./77299-freedom-fighter.json) |
 | Freedom Fighters | 719 | [719-freedom-fighters.json](./719-freedom-fighters.json) |
 | Freedom Maker | 327825 | [327825-freedom-maker.json](./327825-freedom-maker.json) |
+| Freedom Planet | 7116 | [7116-freedom-planet.json](./7116-freedom-planet.json) |
 | Freedom: A Time to Reckon | 72350 | [72350-freedom-a-time-to-reckon.json](./72350-freedom-a-time-to-reckon.json) |
 | Freedom! Do or Die | 168122 | [168122-freedom-do-or-die.json](./168122-freedom-do-or-die.json) |
 | FreedomBot | 391577 | [391577-freedombot.json](./391577-freedombot.json) |
