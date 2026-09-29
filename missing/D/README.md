@@ -790,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Sanctum | 290909 | [290909-dark-sanctum.json](./290909-dark-sanctum.json) |
 | Dark Sauce | 113693 | [113693-dark-sauce.json](./113693-dark-sauce.json) |
 | Dark Sceptre | 12990 | [12990-dark-sceptre.json](./12990-dark-sceptre.json) |
+| Dark Secrets | 53912 | [53912-dark-secrets.json](./53912-dark-secrets.json) |
 | Dark Secrets Mystery Files | 399627 | [399627-dark-secrets-mystery-files.json](./399627-dark-secrets-mystery-files.json) |
 | Dark Seeker | 151698 | [151698-dark-seeker.json](./151698-dark-seeker.json) |
 | Dark Sentinel | 391739 | [391739-dark-sentinel.json](./391739-dark-sentinel.json) |
@@ -4461,6 +4462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Dinosaur | 46446 | [46446-disneys-dinosaur.json](./46446-disneys-dinosaur.json) |
 | Disney's Dinosaur Activity Center | 72123 | [72123-disneys-dinosaur-activity-center.json](./72123-disneys-dinosaur-activity-center.json) |
 | Disney's Donald Duck Advance | 63272 | [63272-disneys-donald-duck-advance.json](./63272-disneys-donald-duck-advance.json) |
+| Disney's Donald Duck: Goin' Quackers | 53943 | [53943-disneys-donald-duck-goin-quackers.json](./53943-disneys-donald-duck-goin-quackers.json) |
 | Disney's Doug: Doug's Big Game | 49942 | [49942-disneys-doug-dougs-big-game.json](./49942-disneys-doug-dougs-big-game.json) |
 | Disney's DuckTales | 145268 | [145268-disneys-ducktales.json](./145268-disneys-ducktales.json) |
 | Disney's DuckTales | 6487 | [6487-disneys-ducktales.json](./6487-disneys-ducktales.json) |
@@ -7986,6 +7988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Aledorn | 60494 | [60494-dungeons-of-aledorn.json](./60494-dungeons-of-aledorn.json) |
 | Dungeons of Avalon | 356864 | [356864-dungeons-of-avalon.json](./356864-dungeons-of-avalon.json) |
 | Dungeons of Avalon II - The Island of Darkness | 19476 | [19476-dungeons-of-avalon-ii-the-island-of-darkness.json](./19476-dungeons-of-avalon-ii-the-island-of-darkness.json) |
+| Dungeons of Betrayal | 53929 | [53929-dungeons-of-betrayal.json](./53929-dungeons-of-betrayal.json) |
 | Dungeons of Chaos | 68203 | [68203-dungeons-of-chaos.json](./68203-dungeons-of-chaos.json) |
 | Dungeons of Death | 356659 | [356659-dungeons-of-death.json](./356659-dungeons-of-death.json) |
 | Dungeons of Dreadrock | 194009 | [194009-dungeons-of-dreadrock.json](./194009-dungeons-of-dreadrock.json) |
