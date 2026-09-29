@@ -2230,6 +2230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy IV | 158983 | [158983-final-fantasy-iv.json](./158983-final-fantasy-iv.json) |
 | Final Fantasy IV | 282725 | [282725-final-fantasy-iv.json](./282725-final-fantasy-iv.json) |
 | Final Fantasy IV | 283313 | [283313-final-fantasy-iv.json](./283313-final-fantasy-iv.json) |
+| Final Fantasy IV Advance | 406 | [406-final-fantasy-iv-advance.json](./406-final-fantasy-iv-advance.json) |
 | Final Fantasy IV Namingway Edition | 379337 | [379337-final-fantasy-iv-namingway-edition.json](./379337-final-fantasy-iv-namingway-edition.json) |
 | Final Fantasy IV: Interlude | 131995 | [131995-final-fantasy-iv-interlude.json](./131995-final-fantasy-iv-interlude.json) |
 | Final Fantasy IV: The After Years | 388 | [388-final-fantasy-iv-the-after-years.json](./388-final-fantasy-iv-the-after-years.json) |
@@ -2705,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firebugs | 43859 | [43859-firebugs.json](./43859-firebugs.json) |
 | FireChess | 275108 | [275108-firechess.json](./275108-firechess.json) |
 | Firecrackers | 393133 | [393133-firecrackers.json](./393133-firecrackers.json) |
+| FireFall | 3013 | [3013-firefall.json](./3013-firefall.json) |
 | Firefight | 121746 | [121746-firefight.json](./121746-firefight.json) |
 | Firefighter Command: Raging Inferno | 22631 | [22631-firefighter-command-raging-inferno.json](./22631-firefighter-command-raging-inferno.json) |
 | Firefighter Connor | 266524 | [266524-firefighter-connor.json](./266524-firefighter-connor.json) |
@@ -5797,6 +5799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fucked by the Princesses of the Realm | 372488 | [372488-fucked-by-the-princesses-of-the-realm.json](./372488-fucked-by-the-princesses-of-the-realm.json) |
 | Fuddo & Slam | 250342 | [250342-fuddo-and-slam.json](./250342-fuddo-and-slam.json) |
 | Fudou Myouou Den | 48909 | [48909-fudou-myouou-den.json](./48909-fudou-myouou-den.json) |
+| Fuel | 567 | [567-fuel.json](./567-fuel.json) |
 | Fuel Me Up | 342719 | [342719-fuel-me-up.json](./342719-fuel-me-up.json) |
 | Fuel Station Simulator | 336369 | [336369-fuel-station-simulator.json](./336369-fuel-station-simulator.json) |
 | Fuel Tanker Truck | 105918 | [105918-fuel-tanker-truck.json](./105918-fuel-tanker-truck.json) |
@@ -6149,6 +6152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fury Strike | 107918 | [107918-fury-strike.json](./107918-fury-strike.json) |
 | FuryDough | 300675 | [300675-furydough.json](./300675-furydough.json) |
 | FuryFury | 234910 | [234910-furyfury.json](./234910-furyfury.json) |
+| Fuse | 1828 | [1828-fuse.json](./1828-fuse.json) |
 | Fuse | 381030 | [381030-fuse.json](./381030-fuse.json) |
 | Fuse Balls | 89416 | [89416-fuse-balls.json](./89416-fuse-balls.json) |
 | Fuse The Bomb | 329088 | [329088-fuse-the-bomb.json](./329088-fuse-the-bomb.json) |
