@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Challenge | 130959 | [130959-santa-challenge.json](./130959-santa-challenge.json) |
 | Santa Claus and Christmas: Happy Adventures | 328497 | [328497-santa-claus-and-christmas-happy-adventures.json](./328497-santa-claus-and-christmas-happy-adventures.json) |
 | Santa Claus Goblins Attack | 232990 | [232990-santa-claus-goblins-attack.json](./232990-santa-claus-goblins-attack.json) |
+| Santa Claus in Trouble | 71408 | [71408-santa-claus-in-trouble.json](./71408-santa-claus-in-trouble.json) |
 | Santa Claus is Comin' to Town | 50622 | [50622-santa-claus-is-comin-to-town.json](./50622-santa-claus-is-comin-to-town.json) |
 | Santa Claus Jigsaw Puzzles | 228108 | [228108-santa-claus-jigsaw-puzzles.json](./228108-santa-claus-jigsaw-puzzles.json) |
 | Santa Claus Jr. Advance | 49338 | [49338-santa-claus-jr-advance.json](./49338-santa-claus-jr-advance.json) |
@@ -1203,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scalebound | 264882 | [264882-scalebound.json](./264882-scalebound.json) |
 | Scalebound | 7345 | [7345-scalebound.json](./7345-scalebound.json) |
 | Scaler | 312135 | [312135-scaler.json](./312135-scaler.json) |
+| Scaler | 4095 | [4095-scaler.json](./4095-scaler.json) |
 | Scales of Silence | 398317 | [398317-scales-of-silence.json](./398317-scales-of-silence.json) |
 | Scales of Stardust | 185076 | [185076-scales-of-stardust.json](./185076-scales-of-stardust.json) |
 | Scaleton | 284414 | [284414-scaleton.json](./284414-scaleton.json) |
@@ -3795,6 +3797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Master of Monsters Final EX | 111904 | [111904-shin-master-of-monsters-final-ex.json](./111904-shin-master-of-monsters-final-ex.json) |
 | Shin Megami Tensei Devil Summoner: Raidou Kuzunoha vs. The Soulless Army | 20640 | [20640-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army.json](./20640-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army.json) |
 | Shin Megami Tensei if... | 270672 | [270672-shin-megami-tensei-if.json](./270672-shin-megami-tensei-if.json) |
+| Shin Megami Tensei if... | 79726 | [79726-shin-megami-tensei-if.json](./79726-shin-megami-tensei-if.json) |
 | Shin Megami Tensei II | 252800 | [252800-shin-megami-tensei-ii.json](./252800-shin-megami-tensei-ii.json) |
 | Shin Megami Tensei II Gaiden: Mato Houkai | 138168 | [138168-shin-megami-tensei-ii-gaiden-mato-houkai.json](./138168-shin-megami-tensei-ii-gaiden-mato-houkai.json) |
 | Shin Megami Tensei III: Nocturne | 336392 | [336392-shin-megami-tensei-iii-nocturne.json](./336392-shin-megami-tensei-iii-nocturne.json) |
@@ -7610,6 +7613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Sword, Some Play | 215774 | [215774-some-sword-some-play.json](./215774-some-sword-some-play.json) |
 | Some Synergy | 210883 | [210883-some-synergy.json](./210883-some-synergy.json) |
 | Someday | 120923 | [120923-someday.json](./120923-someday.json) |
+| Someday You'll Return | 102890 | [102890-someday-youll-return.json](./102890-someday-youll-return.json) |
 | Someday You'll Return: Director's Cut | 241044 | [241044-someday-youll-return-directors-cut.json](./241044-someday-youll-return-directors-cut.json) |
 | Someone Knocks The Door | 350032 | [350032-someone-knocks-the-door.json](./350032-someone-knocks-the-door.json) |
 | Someone’s Ghost Photos | 399721 | [399721-someone-s-ghost-photos.json](./399721-someone-s-ghost-photos.json) |
@@ -10803,6 +10807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Conflict: Ze'Ta. - Deluxe Version | 354439 | [354439-star-conflict-zeta-deluxe-version.json](./354439-star-conflict-zeta-deluxe-version.json) |
 | Star Connect | 233737 | [233737-star-connect.json](./233737-star-connect.json) |
 | Star Conqueror | 337631 | [337631-star-conqueror.json](./337631-star-conqueror.json) |
+| Star Control | 4497 | [4497-star-control.json](./4497-star-control.json) |
 | Star Control: Origins | 25311 | [25311-star-control-origins.json](./25311-star-control-origins.json) |
 | Star Control: Origins - Earth Rising | 116143 | [116143-star-control-origins-earth-rising.json](./116143-star-control-origins-earth-rising.json) |
 | Star Control: Origins - Multiverse | 124805 | [124805-star-control-origins-multiverse.json](./124805-star-control-origins-multiverse.json) |
@@ -12498,6 +12503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger of Sword City: Limited Edition | 42681 | [42681-stranger-of-sword-city-limited-edition.json](./42681-stranger-of-sword-city-limited-edition.json) |
 | Stranger Than Heaven | 325599 | [325599-stranger-than-heaven.json](./325599-stranger-than-heaven.json) |
 | Stranger Things VR | 225668 | [225668-stranger-things-vr.json](./225668-stranger-things-vr.json) |
+| Stranger Things: 1984 | 72765 | [72765-stranger-things-1984.json](./72765-stranger-things-1984.json) |
 | Stranger Things: Puzzle Tales | 197248 | [197248-stranger-things-puzzle-tales.json](./197248-stranger-things-puzzle-tales.json) |
 | Strangers at Night | 178511 | [178511-strangers-at-night.json](./178511-strangers-at-night.json) |
 | Strangers Awaken | 262377 | [262377-strangers-awaken.json](./262377-strangers-awaken.json) |
@@ -12798,6 +12804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Rage 2X | 257340 | [257340-streets-of-rage-2x.json](./257340-streets-of-rage-2x.json) |
 | Streets of Rage 4 | 107262 | [107262-streets-of-rage-4.json](./107262-streets-of-rage-4.json) |
 | Streets of Rage 4: Special Edition | 167055 | [167055-streets-of-rage-4-special-edition.json](./167055-streets-of-rage-4-special-edition.json) |
+| Streets of Rage Remake | 72327 | [72327-streets-of-rage-remake.json](./72327-streets-of-rage-remake.json) |
 | Streets of Rage Zombies | 272336 | [272336-streets-of-rage-zombies.json](./272336-streets-of-rage-zombies.json) |
 | Streets of Rage: Revolution | 279632 | [279632-streets-of-rage-revolution.json](./279632-streets-of-rage-revolution.json) |
 | Streets of Red: Devil's Dare | 126045 | [126045-streets-of-red-devils-dare.json](./126045-streets-of-red-devils-dare.json) |
