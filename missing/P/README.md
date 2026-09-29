@@ -1462,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patient Seven | 322709 | [322709-patient-seven.json](./322709-patient-seven.json) |
 | Patient Zero | 192676 | [192676-patient-zero.json](./192676-patient-zero.json) |
 | Patient Zero | 388918 | [388918-patient-zero.json](./388918-patient-zero.json) |
+| Patient Zero: Day One | 11063 | [11063-patient-zero-day-one.json](./11063-patient-zero-day-one.json) |
 | Patient Zero: Plague Idle | 388417 | [388417-patient-zero-plague-idle.json](./388417-patient-zero-plague-idle.json) |
 | PatientZ: Survivalist | 27727 | [27727-patientz-survivalist.json](./27727-patientz-survivalist.json) |
 | Patisserie Palette | 185418 | [185418-patisserie-palette.json](./185418-patisserie-palette.json) |
