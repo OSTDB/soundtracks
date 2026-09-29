@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Battle: 1944 | 34600 | [34600-tank-battle-1944.json](./34600-tank-battle-1944.json) |
 | Tank Battle: 1945 | 31044 | [31044-tank-battle-1945.json](./31044-tank-battle-1945.json) |
 | Tank Battle: Blitzkrieg | 31041 | [31041-tank-battle-blitzkrieg.json](./31041-tank-battle-blitzkrieg.json) |
+| Tank Battle: East Front | 29059 | [29059-tank-battle-east-front.json](./29059-tank-battle-east-front.json) |
 | Tank Battle: East Front 1941 | 197886 | [197886-tank-battle-east-front-1941.json](./197886-tank-battle-east-front-1941.json) |
 | Tank Battle: East Front 1943 | 175335 | [175335-tank-battle-east-front-1943.json](./175335-tank-battle-east-front-1943.json) |
 | Tank Battle: Normandy | 46849 | [46849-tank-battle-normandy.json](./46849-tank-battle-normandy.json) |
@@ -1242,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasokare Hotel Re:newal | 260090 | [260090-tasokare-hotel-re-newal.json](./260090-tasokare-hotel-re-newal.json) |
 | Tasokare Hotel: Tsubomi | 408273 | [408273-tasokare-hotel-tsubomi.json](./408273-tasokare-hotel-tsubomi.json) |
 | Tasomachi: Behind the Twilight | 121481 | [121481-tasomachi-behind-the-twilight.json](./121481-tasomachi-behind-the-twilight.json) |
+| Tass Times in Tonetown | 29031 | [29031-tass-times-in-tonetown.json](./29031-tass-times-in-tonetown.json) |
 | Taste of Seduction | 212198 | [212198-taste-of-seduction.json](./212198-taste-of-seduction.json) |
 | Taste of the Wind | 366249 | [366249-taste-of-the-wind.json](./366249-taste-of-the-wind.json) |
 | Taste of War | 232929 | [232929-taste-of-war.json](./232929-taste-of-war.json) |
@@ -2040,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra | 295236 | [295236-terra.json](./295236-terra.json) |
 | Terra Alia | 279404 | [279404-terra-alia.json](./279404-terra-alia.json) |
 | Terra Avoider | 278508 | [278508-terra-avoider.json](./278508-terra-avoider.json) |
+| Terra Cognita | 29037 | [29037-terra-cognita.json](./29037-terra-cognita.json) |
 | Terra Cresta II | 37728 | [37728-terra-cresta-ii.json](./37728-terra-cresta-ii.json) |
 | Terra Farmers | 54428 | [54428-terra-farmers.json](./54428-terra-farmers.json) |
 | Terra Firma | 155509 | [155509-terra-firma.json](./155509-terra-firma.json) |
@@ -3135,6 +3138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cabin Factory | 325273 | [325273-the-cabin-factory.json](./325273-the-cabin-factory.json) |
 | The Cabin Game | 398960 | [398960-the-cabin-game.json](./398960-the-cabin-game.json) |
 | The Cabinets of Doctor Arcana | 95597 | [95597-the-cabinets-of-doctor-arcana.json](./95597-the-cabinets-of-doctor-arcana.json) |
+| The Cable Center: Virtual Archive | 29025 | [29025-the-cable-center-virtual-archive.json](./29025-the-cable-center-virtual-archive.json) |
 | The Cadet Files: Scene Unseen | 278685 | [278685-the-cadet-files-scene-unseen.json](./278685-the-cadet-files-scene-unseen.json) |
 | The Cakeman | 274493 | [274493-the-cakeman.json](./274493-the-cakeman.json) |
 | The Caldecott Caper | 305872 | [305872-the-caldecott-caper.json](./305872-the-caldecott-caper.json) |
@@ -13964,6 +13968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TripTrip | 102352 | [102352-triptrip.json](./102352-triptrip.json) |
 | Triptych | 93001 | [93001-triptych.json](./93001-triptych.json) |
 | Trireme Commander | 81738 | [81738-trireme-commander.json](./81738-trireme-commander.json) |
+| Trism | 29043 | [29043-trism.json](./29043-trism.json) |
 | Tristan | 96532 | [96532-tristan.json](./96532-tristan.json) |
 | Tristan: Curse of The Frog | 404964 | [404964-tristan-curse-of-the-frog.json](./404964-tristan-curse-of-the-frog.json) |
 | Tristia Doki-doki Operation | 408142 | [408142-tristia-doki-doki-operation.json](./408142-tristia-doki-doki-operation.json) |
