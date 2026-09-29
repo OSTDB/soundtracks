@@ -1628,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Luigi MAD NES | 323823 | [323823-mario-and-luigi-mad-nes.json](./323823-mario-and-luigi-mad-nes.json) |
 | Mario & Luigi Sokoban | 349855 | [349855-mario-and-luigi-sokoban.json](./349855-mario-and-luigi-sokoban.json) |
 | Mario & Luigi vs. The Furbies | 323179 | [323179-mario-and-luigi-vs-the-furbies.json](./323179-mario-and-luigi-vs-the-furbies.json) |
+| Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey | 90113 | [90113-mario-and-luigi-bowsers-inside-story-bowser-jr-s-journey.json](./90113-mario-and-luigi-bowsers-inside-story-bowser-jr-s-journey.json) |
 | Mario & Luigi: Dream Team | 3365 | [3365-mario-and-luigi-dream-team.json](./3365-mario-and-luigi-dream-team.json) |
 | Mario & Luigi: Kola Kingdom Quest | 132856 | [132856-mario-and-luigi-kola-kingdom-quest.json](./132856-mario-and-luigi-kola-kingdom-quest.json) |
 | Mario & Luigi: Partners in Time | 3364 | [3364-mario-and-luigi-partners-in-time.json](./3364-mario-and-luigi-partners-in-time.json) |
@@ -1839,6 +1840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party: Fushigi no Koro-koro Catcher 2 | 132044 | [132044-mario-party-fushigi-no-koro-koro-catcher-2.json](./132044-mario-party-fushigi-no-koro-koro-catcher-2.json) |
 | Mario Party: Love Land | 294763 | [294763-mario-party-love-land.json](./294763-mario-party-love-land.json) |
 | Mario Party: Star Rush | 19599 | [19599-mario-party-star-rush.json](./19599-mario-party-star-rush.json) |
+| Mario Party: The Top 100 | 66812 | [66812-mario-party-the-top-100.json](./66812-mario-party-the-top-100.json) |
 | Mario Pinball Land | 6503 | [6503-mario-pinball-land.json](./6503-mario-pinball-land.json) |
 | Mario Power Tennis | 84700 | [84700-mario-power-tennis.json](./84700-mario-power-tennis.json) |
 | Mario Racing Tournament | 314508 | [314508-mario-racing-tournament.json](./314508-mario-racing-tournament.json) |
@@ -3960,6 +3962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men in Black: Most Wanted | 380570 | [380570-men-in-black-most-wanted.json](./380570-men-in-black-most-wanted.json) |
 | Men in Black: The Game | 12898 | [12898-men-in-black-the-game.json](./12898-men-in-black-the-game.json) |
 | Men in Black: The Series | 240165 | [240165-men-in-black-the-series.json](./240165-men-in-black-the-series.json) |
+| Men of War | 9854 | [9854-men-of-war.json](./9854-men-of-war.json) |
 | Men of War II: Frontline Hero Pack | 311077 | [311077-men-of-war-ii-frontline-hero-pack.json](./311077-men-of-war-ii-frontline-hero-pack.json) |
 | Men of War: Assault Squad 2 - Airborne | 168218 | [168218-men-of-war-assault-squad-2-airborne.json](./168218-men-of-war-assault-squad-2-airborne.json) |
 | Men of War: Assault Squad 2 - Ostfront Veteranen | 168217 | [168217-men-of-war-assault-squad-2-ostfront-veteranen.json](./168217-men-of-war-assault-squad-2-ostfront-veteranen.json) |
@@ -7559,6 +7562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morphies Law | 25633 | [25633-morphies-law.json](./25633-morphies-law.json) |
 | Morphite | 27314 | [27314-morphite.json](./27314-morphite.json) |
 | Morphology | 185075 | [185075-morphology.json](./185075-morphology.json) |
+| Morphopolis | 9768 | [9768-morphopolis.json](./9768-morphopolis.json) |
 | Morphscape: The Stylized Prop Pursuit | 301833 | [301833-morphscape-the-stylized-prop-pursuit.json](./301833-morphscape-the-stylized-prop-pursuit.json) |
 | Morra | 246472 | [246472-morra.json](./246472-morra.json) |
 | Morra 3D | 371474 | [371474-morra-3d.json](./371474-morra-3d.json) |
@@ -8235,6 +8239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Potato Head & Mrs. Potato Head | 198830 | [198830-mr-potato-head-and-mrs-potato-head.json](./198830-mr-potato-head-and-mrs-potato-head.json) |
 | Mr. Potato Head Activity Pack | 243389 | [243389-mr-potato-head-activity-pack.json](./243389-mr-potato-head-activity-pack.json) |
 | Mr. Potato Head Saves Veggie Valley | 61025 | [61025-mr-potato-head-saves-veggie-valley.json](./61025-mr-potato-head-saves-veggie-valley.json) |
+| Mr. Prepper | 81680 | [81680-mr-prepper.json](./81680-mr-prepper.json) |
 | Mr. President | 332232 | [332232-mr-president.json](./332232-mr-president.json) |
 | Mr. Presidents | 208027 | [208027-mr-presidents.json](./208027-mr-presidents.json) |
 | Mr. Prospector Horiate-kun | 270148 | [270148-mr-prospector-horiate-kun.json](./270148-mr-prospector-horiate-kun.json) |
@@ -8478,6 +8483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munchman II | 42171 | [42171-munchman-ii.json](./42171-munchman-ii.json) |
 | Munchman: 35th Anniversary Edition | 308363 | [308363-munchman-35th-anniversary-edition.json](./308363-munchman-35th-anniversary-edition.json) |
 | Munchyman | 98234 | [98234-munchyman.json](./98234-munchyman.json) |
+| Mundaun | 101007 | [101007-mundaun.json](./101007-mundaun.json) |
 | Mundial de Fútbol | 86008 | [86008-mundial-de-futbol.json](./86008-mundial-de-futbol.json) |
 | Mundo SBT | 249459 | [249459-mundo-sbt.json](./249459-mundo-sbt.json) |
 | Mundus: Impossible Universe | 95572 | [95572-mundus-impossible-universe.json](./95572-mundus-impossible-universe.json) |
